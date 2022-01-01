@@ -292,7 +292,7 @@ Outputs
 
 - Implied Asset value levels and volatilities (via leverage)
 - Model implied probabilities of default tvarious maturities / "Distance tDefault" metrics
-- Implied prices for CDS and risky corporate bonds (hazard rate curve)
+- Implied prices for CDS and risky [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (hazard rate curve)
 - Implied prices for convertible bonds
 ## INVERSE CAPITAL STRUCTURE ARBITRAGE MODELS
 
@@ -301,7 +301,7 @@ Inputs
 - Term structure of risk-free interest rates
 - Detailed assets and (term structure of) liabilities information from the balance sheet of a company
 - Equity market prices
-- Market prices for CDS and risky corporate bonds (hazard rate curve)
+- Market prices for CDS and risky [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (hazard rate curve)
 
 Outputs
 
@@ -404,7 +404,7 @@ $$=\int_{-\infty}^{\infty}\binom{n}{k}\cdot p_{x}^{k}\cdot\left(1-p_{x}\right)^{
 ## WHAT IS A COLLATERALIZED DEBT OBLIGATION/CDO?
 - A derivative/"structured" credit product linked tan underlying/collateral pool of risky assets
 - Example of underlying pool assets:
-	- Corporate Bonds,
+	- [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],
 	- Corporate Loans,
 	- Mortgage backed securities/MBS,
 	- CDS,  etc

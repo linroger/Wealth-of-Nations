@@ -1,21 +1,23 @@
 ---
-aliases:
-- "Class Slides the Ltcm Meltdown Liquidity and \u201Cperformance Based Arbitrage"
-- "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitraged"
-- "Alias_96_Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitrage.\u201D\
-  .md"
-- "Example_Alias_Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based\
-  \ Arbitrage"
-linter-yaml-title-alias: "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance\
-  \ Based Arbitraged"
+cssclasses:
+  - academia
+aliases: 
+linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitraged
 tags:
-- tag_example
-- example_tag
-title: "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitraged"
+  - quantitative-finance
+  - financial-crises
+  - risk-management
+  - arbitrage-strategies
+  - hedge-fund-dynamics
+  - "#finance"
+  - "#debt-management"
+  - "#macroeconomics"
+  - "#economic-theory"
+  - "#market-volatility"
+title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 ---
 
-
-
+[[Class Note 13 The LTCM Meltdown]]
 
 # Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 
@@ -105,7 +107,7 @@ $$
    - We will assume that $q = 0.25$ for some examples,  and for other examples we assume $q = 0.5$.
    - For both values,  no arb subject to PBA will trade at date 1 ($q > 0.15$),  but non-PBA arbs will trade at date 1 ($q < 0.58$).
 
-## X. LTCM as a Long-Term Arb
+## X. [[Class Note 13 The LTCM Meltdown|LTCM]] as a Long-Term Arb
 1. Suppose that your fund had a very good reputation,  allowing you to avoid PBA.
    - You would have a relatively easy life (assuming you have the skill to see opportunities).
    - Long-term opportunities would be passed over by short-term PBA funds.
@@ -126,16 +128,16 @@ $$
 1. The ability to lock in funds for the long term allows the fund to take different bets in markets with less competition.
 
 ## XII. The Problem of Margin Calls
-1. The problem arose when LTCM lost so much money that they faced margin calls.
-   - For a large enough loss,  even LTCM had the equivalent of PBA,  leading to forced sales at the bottom.
-   - LTCM faced a bank-run-style collective action problem.
+1. The problem arose when [[Class Note 13 The LTCM Meltdown|LTCM]] lost so much money that they faced margin calls.
+   - For a large enough loss,  even [[Class Note 13 The LTCM Meltdown|LTCM]] had the equivalent of PBA,  leading to forced sales at the bottom.
+   - [[Class Note 13 The LTCM Meltdown|LTCM]] faced a bank-run-style collective action problem.
 
-1. If LTCM cannot attract enough capital to meet margin calls,  they would be forced to liquidate at the bottom.
+1. If [[Class Note 13 The LTCM Meltdown|LTCM]] cannot attract enough capital to meet margin calls,  they would be forced to liquidate at the bottom.
    - Anticipating this,  they would be unable to raise smaller amounts of capital.
 
 ## XIII. Large Price Drop and Forced Liquidation
 1. A large unanticipated price drop would result in a meltdown (forced liquidation).
-1. A meltdown causes an even larger price drop when arbs (LTCM in particular) liquidate.
+1. A meltdown causes an even larger price drop when arbs ([[Class Note 13 The LTCM Meltdown|LTCM]] in particular) liquidate.
 1. Normally,  the trades of arbs stabilize the market,  offsetting the trades of noise traders.
 
 ## XIV. Price Formation and Trade Impact
@@ -146,9 +148,9 @@ $$
 1. If there is also trade by arbs,  the price changes by the net amount of trade:
    $$ P_t = P_{t-1} + \text{(Noise trade + arb trades)} $$
 
-## XV. LTCM's Established Position
-1. Assume LTCM already established a position in the trade before date 1 and is long 20 units.
-   - If LTCM were not long 20 units,  the price would be lower by 20.
+## XV. [[Class Note 13 The LTCM Meltdown|LTCM]]'s Established Position
+1. Assume [[Class Note 13 The LTCM Meltdown|LTCM]] already established a position in the trade before date 1 and is long 20 units.
+   - If [[Class Note 13 The LTCM Meltdown|LTCM]] were not long 20 units,  the price would be lower by 20.
    - Arbs subject to PBA would not trade before date 2.
 
 1. **Table 2: Trades by Arbs and Noise Traders**:
@@ -156,7 +158,7 @@ $$
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} \\
+   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,     } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  \\
    1 & 80 & -5 & +5 & 25 & 0 & 0 & 0 \\
@@ -168,14 +170,14 @@ $$
    $$
 
 ## XVI. Panic Selling After the Russian Default
-1. Suppose the Russian default causes panic selling at date 1 by noise traders,  when LTCM already has a position of 20.
+1. Suppose the Russian default causes panic selling at date 1 by noise traders,  when [[Class Note 13 The LTCM Meltdown|LTCM]] already has a position of 20.
    - The noise trade at 1 is now -30.
-   - If LTCM must liquidate immediately at date 1,  look at the meltdown in table 3:
+   - If [[Class Note 13 The LTCM Meltdown|LTCM]] must liquidate immediately at date 1,  look at the meltdown in table 3:
 
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{News trade (Prob 1-q)} \\
+   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,     } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{News trade (Prob 1-q)} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  &  \\
    1 & 30 & -30 & -20 & 0 & 0 & 0 & -50 &  \\
@@ -187,20 +189,20 @@ $$
    $$
 
 1. The panic from the Russian crisis would make the price fall by 30 (from 80 to 50 on date 1) by itself.
-   - By forcing LTCM to liquidate,  it makes the price fall by 50 (80 to 30).
+   - By forcing [[Class Note 13 The LTCM Meltdown|LTCM]] to liquidate,  it makes the price fall by 50 (80 to 30).
    - The losses force a liquidation,  similar to a bank run.
 
-## XVII. Delayed Liquidation and LTCM
-1. In practice,  LTCM was careful to get advanced assurance from margin lenders not to force immediate margin calls.
+## XVII. Delayed Liquidation and [[Class Note 13 The LTCM Meltdown|LTCM]]
+1. In practice,  [[Class Note 13 The LTCM Meltdown|LTCM]] was careful to get advanced assurance from margin lenders not to force immediate margin calls.
    - This allowed them some time to meet the calls.
-   - If LTCM could delay liquidation until date 2,  they could still buy 5 at date 1.
+   - If [[Class Note 13 The LTCM Meltdown|LTCM]] could delay liquidation until date 2,  they could still buy 5 at date 1.
 
-1. **Table 4: A Delayed Meltdown if LTCM Can Wait to Liquidate**:
+1. **Table 4: A Delayed Meltdown if [[Class Note 13 The LTCM Meltdown|LTCM]] Can Wait to Liquidate**:
 
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise Trade Occurs At Date 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{Reverted Price If News Trade} \\
+   \text{Date} & \text{Price} & \text{Noise Trade Occurs At Date 1,     } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{Reverted Price If News Trade} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  &  \\
    1 & 55 & -30 & +5 & 25 & 0 & 0 & -25 &  \\
@@ -211,13 +213,13 @@ $$
    $$
 
 ## XVIII. Expected Price Change from Date 1 to Date 2
-1. With probability $q$,  a noise trade forces the price down to 15 because LTCM is forced out.
-1. With probability $1 - q$,  there is a news trade that pushes the price up to 75 (and then LTCM is not forced out).
+1. With probability $q$,  a noise trade forces the price down to 15 because [[Class Note 13 The LTCM Meltdown|LTCM]] is forced out.
+1. With probability $1 - q$,  there is a news trade that pushes the price up to 75 (and then [[Class Note 13 The LTCM Meltdown|LTCM]] is not forced out).
 1. The expected price change is:
    $$ q(15 - 55) + (1 - q)(75 - 55) = 20 - q(60). $$
 
 1. For $q = 0.25$,  this is +5,  but for $q = 0.5$,  it is -10.
-1. Assume $q = 0.5$ to learn about the front running problem faced by LTCM.
+1. Assume $q = 0.5$ to learn about the front running problem faced by [[Class Note 13 The LTCM Meltdown|LTCM]].
    - When the expected price change from date 1 to date 2 is negative,  any trader who knows they must sell on date 2 will instead sell on date 1.
    - Further,  if not subject to PBA,  it will be profitable to short on date 1 as long as the expected price change is negative.
 

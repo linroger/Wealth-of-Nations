@@ -1,31 +1,44 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Example_Alias_Class Note 5A Coercive Exchange Offers and Exit Consents
-- Alias_5_Class Note 5A Coercive Exchange Offers and Exit Consents.md
+  - Example_Alias_Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
+  - Alias_5_Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents.md
 tags:
-- tag_example
-- example_tag
-title: Class Note 5A Coercive Exchange Offers and Exit Consents
+  - tag_example
+  - example_tag
+  - Bankruptcy
+  - Restructuring
+  - Covenants
+  - ExchangeOffers
+  - Consent
+  - Seniority
+  - FaceValue
+  - BondValuation
+  - TrustIndenture
+  - "#finance"
+  - "#bond-valuation"
+  - "#financial-instruments"
+  - "#exit-consents"
+  - "#coercive-exchange-offers"
+title: Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
 ---
 
+# Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
 
-
-
-# Class Note 5A Coercive Exchange Offers and Exit Consents
-
-### Class Note 5A: Coercive Exchange Offers and Exit Consents
+### Class Note 5A: Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
 
 *See the Kahan and Tuckman paper in the packet.*
 
-An **exit consent vote** is one where a **change in covenants** is combined with an exchange offer where a new bond is given in exchange for the old bond if and only if one votes to change the covenants in the old bond. As a result,  those who are exiting the old bond are the ones choosing to change its covenants. If a holder prefers the new bond given his or her belief that the vote will pass,  any reduction in the value of the old bond will not matter (because he or she will hold the new bond).
+An **exit consent vote** is one where a **change in covenants** is combined with an exchange offer where a new bond is given in exchange for the old bond if and only if one votes to change the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] in the old bond. As a result,  those who are exiting the old bond are the ones choosing to change its covenants. If a holder prefers the new bond given his or her belief that the vote will pass,  any reduction in the value of the old bond will not matter (because he or she will hold the new bond).
 
 ### Example Scenario
 
-Suppose there is an exit consent vote that will pass if **M+1 bondholders** vote yes and tender their bond in exchange for a new one. The deal is structured so that you may only get the new bond if you vote to change the covenants in the old bond to make it drop in value. If fewer than M other holders tender,  you can't make it pass,  if M+1 or more tender,  it passes no matter what you do.
+Suppose there is an exit consent vote that will pass if **M+1 bondholders** vote yes and tender their bond in exchange for a new one. The deal is structured so that you may only get the new bond if you vote to change the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] in the old bond to make it drop in value. If fewer than M other holders tender,  you can't make it pass,  if M+1 or more tender,  it passes no matter what you do.
 
 - **Value of bond as it stands:** $B$
 - **Value of new bond that you get if you tender,  vote yes and the vote passes:** $B_n$
-- **Value of old bond if the consent vote passes (some covenants are removed):** $B'$
+- **Value of old bond if the consent vote passes (some [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] are removed):** $B'$
 - **Payment for consent vote,  in addition to new bond =** $p$. This is called the consent payment.
 
 If you hold it all the issue,  you compare $p + B_n$ to $B$.
@@ -72,3 +85,5 @@ $$ B' = 0.2(0.016) + 0.6(0.016) + 0.2(0) = 0.0128 $$
 The loss of priority does not reduce the value of the old bond here.
 
 Think of the extreme case where the new bond had zero face value. A bond with face value zero does not causes pain by coming in senior to you! In that case Bn=0 and B'=B
+
+Tags: #Bankruptcy #Restructuring #Covenants #ExchangeOffers #Consent #Seniority #FaceValue #BondValuation #TrustIndenture

@@ -1,20 +1,14 @@
 ---
-aliases:
-- Example_Alias_Lecture 8- Inflation & Sovereign Default Risk
-- Alias_119_Lecture 8- Inflation & Sovereign Default Risk.md
-tags:
-- tag_example
-- example_tag
+aliases: 
+tags: []
 title: Lecture 8- Inflation & Sovereign Default Risk
 ---
-
-
 
   [Teaching Note 2- Interest Rate Risk Management And Factors](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md)
   
 # Lecture 8- Inflation & Sovereign Default Risk
   
-So far we have discussed portfolio choice in terms of nominal returns. This means, we have not taken into account the loss of purchasing power that an investor may experience over time due to inflation. The loss of purchasing power that a long-term investor experiences over time can be substantial even with moderate inflation rates. From a portfolio choice viewpoint, the key question is whether the risk of such loss of purchasing power can be altered by choosing an appropriate asset mix in the portfolio.
+So far we have discussed [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] in terms of nominal returns. This means, we have not taken into account the loss of purchasing power that an investor may experience over time due to inflation. The loss of purchasing power that a long-term investor experiences over time can be substantial even with moderate inflation rates. From a [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] viewpoint, the key question is whether the risk of such loss of purchasing power can be altered by choosing an appropriate asset mix in the portfolio.
   
 ### 8.1 Nominal and real returns
   
@@ -72,7 +66,7 @@ In present-day developed markets, hyperinflation seems like an extremely remote 
   
 When we discuss the inflation risk of different types of assets, it's useful to distinguish two extremes: nominal assets and real assets. Not all assets fit clearly into these categories. For example, for stocks and real estate it is, in the end, an empirical question how close they are to being a real or a nominal asset.
   
-A nominal asset is one with nominal cash flows that are insensitive to inflation, but the real value of cash flows falls with inflation. An example would be a U.S. Treasury bond. Principal and coupon payments of these bonds are specified in nominal terms. But this could also include assets with risky payoffs, e.g. high-yield corporate bonds. High-yield bonds have a relatively high risk of default, which means the owner of the bond will not receive the full amount that the bond promised to pay. But to the extent there is a payoff, it is a payoff that is fixed in nominal terms. It does not get adjusted upwards if inflation happens to be high.
+A nominal asset is one with nominal cash flows that are insensitive to inflation, but the real value of cash flows falls with inflation. An example would be a U.S. Treasury bond. Principal and coupon payments of these bonds are specified in nominal terms. But this could also include assets with risky payoffs, e.g. high-yield [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]. High-yield bonds have a relatively high risk of default, which means the owner of the bond will not receive the full amount that the bond promised to pay. But to the extent there is a payoff, it is a payoff that is fixed in nominal terms. It does not get adjusted upwards if inflation happens to be high.
   
 A real asset is one with real cash flows that are insensitive to inflation, which means that nominal cash flows must rise with inflation. The purchasing power of the assets' cash flows then remains unaffected by inflation. An example that gets close to being such a real assets are Treasury Inflation Protected Securities (TIPS), issued by the U.S. Treasury. We will discuss these in more detail shortly.
   
@@ -470,7 +464,7 @@ It's good news for the Federal Reserve that a big unanchoring of inflation expec
   
 The macroeconomic forces influencing inflation that we discussed so far may explain quite well how inflation is determined in times when the economy is exposed to moderatelysized shocks, the general economic policy environment is functioning well, and the central bank can stay focused on its job of stabilizing the economy.
   
-In more extreme situations, however, there is a risk in the background that the central bank may be drawn away from the job of stabilizing the economy towards supporting a fiscally challenged government. A condition for the central bank to be able to carry out monetary policy that stabilizes the economy and inflation is that the government pursues a sound fiscal policy. If the government gets into a budget crisis, or even if investors just anticipate that it might, the central bank may be forced into supporting government finances.
+In more extreme situations, however, there is a risk in the background that the central bank may be drawn away from the job of stabilizing the economy towards supporting a fiscally challenged government. A condition for the central bank to be able to carry out [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] that stabilizes the economy and inflation is that the government pursues a sound fiscal policy. If the government gets into a budget crisis, or even if investors just anticipate that it might, the central bank may be forced into supporting government finances.
   
 Many big inflationary episodes in history occurred in situations when the country's government was in fiscal trouble. As a typical example, the table in Figure 8.12 shows the budget situation of Germany's government in the years leading up to the hyperinflation in 1923. The numbers are shown in millions of goldmarks, which was a gold-backed money in use in Germany at the time (and which did not lose real value during the hyperinflation). In parallel, there was fiat money (which lost all its real value) that the central bank printed in massive amounts to finance the government's budget deficit. As the table shows, in the 1922-23 fiscal year, about two thirds of government expenditure was financed by government borrowing.
   
@@ -506,7 +500,7 @@ Compared to other historical episodes of market turmoil in response to bad econo
   
 The Federal Reserve then quickly stabilized the situation toward the end of March by starting a massive bond purchase program. As Figure 8.15, the Fed added around 1.5 trillion dollars worth of bonds to its balance sheet within a few weeks. And the Fed kept these bonds on its balance sheet even after the crisis subsided. It is not clear what the effect on Treasury yields would have been if the Fed had tried to sell these bonds back to the public in the months following the crisis episode.
   
-The bottom line from all this is that to judge whether inflation risk might emerge, it's important to keep an eye on fiscal conditions in addition to the central bank's conduct of monetary policy.
+The bottom line from all this is that to judge whether inflation risk might emerge, it's important to keep an eye on fiscal conditions in addition to the central bank's conduct of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]].
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-300.jpg?height=706&width=1180&top_left_y=319&top_left_x=424)
   
 Figure 8.16: Share of countries in a given year that are in external or internal default
@@ -581,9 +575,9 @@ Figure 8.17: Risk and average excess returns on sovereign debt
 Source: Meyer, J., Reinhart, C.M. and Trebesch, C., 2022. Sovereign bonds since Waterloo. The Quarterly Journal of Economics, 137(3), pp.1615-1680.
 defaulters is substantial: many betas reach 0.4 to 0.6 and in annualized terms their excess return was about $10 \%$. For comparison, the U.S. stock market earned about $10 \%$ excess return annually during this period, so the risk compensation that sovereign bond investors earned during this period was actually quite a bit higher than predicted by the CAPM.
   
-From a portfolio choice viewpoint, the above illustrates that the risk of sovereign debt is clearly systematic. Concerns about defaults that lead to declines in prices of risky sovereign debt seem to be concentrated in periods when developed equity markets are also doing poorly.
+From a [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] viewpoint, the above illustrates that the risk of sovereign debt is clearly systematic. Concerns about defaults that lead to declines in prices of risky sovereign debt seem to be concentrated in periods when developed equity markets are also doing poorly.
   
-As a final remark, I want to point out that countries in Europe that have adopted the euro as currency are in a somewhat unusual position. They don't fit the rule of thumb that domestic debt problems tend to be resolved through inflation and external debt problems through default. Countries in the eurozone have issued predominantly domestic debt in the currency that they use domestically (the euro), but because they are in a currency union, countries do not have control of monetary policy. Instead, monetary policy is set by the European Central Bank (ECB). So individual countries do not have control of a central bank that could create money to buy up their sovereign debt and inflate away the debt. As a consequence, fiscal crises play out less like in other developed countries that have control of their own central banks, but rather like in emerging markets countries that have issued lots of external debt in foreign currency.
+As a final remark, I want to point out that countries in Europe that have adopted the euro as currency are in a somewhat unusual position. They don't fit the rule of thumb that domestic debt problems tend to be resolved through inflation and external debt problems through default. Countries in the eurozone have issued predominantly domestic debt in the currency that they use domestically (the euro), but because they are in a currency union, countries do not have control of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]]. Instead, [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] is set by the European Central Bank (ECB). So individual countries do not have control of a central bank that could create money to buy up their sovereign debt and inflate away the debt. As a consequence, fiscal crises play out less like in other developed countries that have control of their own central banks, but rather like in emerging markets countries that have issued lots of external debt in foreign currency.
   
 A few years after the Great Financial Crisis, the eurozone experienced a realization of such a crisis. Greece went through a default (restructuring of debt). Other countries (Spain, Portugal, Ireland, Italy) were subject to concerns about possible default. Bond yields reflected these elevated default probabilities as shown in Figure 8.18. Things calmed down eventually when the ECB developed programs that could be used to purchase sovereign debt of eurozone member countries. To this day, these problems are still simmering under the surface and have not been resolved.
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-305.jpg?height=860&width=1218&top_left_y=828&top_left_x=475)
@@ -673,9 +667,9 @@ which yields a high weight on the arithmetic mean when $T$ is much bigger than $
   
 [^22]:    ${ }^{3}$ I'm calculating these 10-year log return variances from quarterly 10-year moving sums of log returns. Since these moving windows are moved forward one quarter of a time, they have a large degree of overlap. As a consequence, the number of overlapping 10-year log return observations I have is greater than the number of independent 10-year log return observations. For this reason, the usual degrees-of-freedom correction by dividing by $T-1$ instead of $T$ that functions in python or statistical packages implement is not correct. To correct this, I multiply the variance that I receive based on the standard degrees-offreedom correction by $((T-40-1) /(T-80))$. I do the same when I calculate long-run return variances from empirical data in the table that follows.
   
-[^23]:    ${ }^{4}$ For the derivation of this approximation, see Campbell, J.Y. and L.M Viceira, Appendix to Strategic Asset Allocation, Section 2.1.1, available at https://scholar.harvard.edu/files/campbell/files/ bookapp.pdf.
+[^23]:    ${ }^{4}$ For the derivation of this approximation, see Campbell, J.Y. and L.M Viceira, Appendix to Strategic [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]], Section 2.1.1, available at https://scholar.harvard.edu/files/campbell/files/ bookapp.pdf.
   
-[^24]:    ${ }^{5}$ Sharpe, W.F., 2010. Adaptive asset allocation policies. Financial Analysts Journal, 66(3), pp.45-59.
+[^24]:    ${ }^{5}$ Sharpe, W.F., 2010. Adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] policies. Financial Analysts Journal, 66(3), pp.45-59.
   
 [^25]:    ${ }^{1}$ If two investment strategies deliver cash flows in two periods and the cash flows of the two strategies are identical in one period, they must also be equal in the other period, otherwise an investor could make riskless profits by going long in one strategy and short in the other strategy. Absence of such arbitrages is a fundamental pricing principle in finance.
 ${ }^{2}$ And in turn, futures contracts are almost equivalent to forward contracts, with some differences about the way margining is handled. Moreover, futures contracts are traded on exchanges, while forward contracts and swaps are arranged over-the-counter bilaterally between counterparties.
@@ -697,7 +691,7 @@ ${ }^{6}$ To me more precise, holdings is not quite the correct description. VXX
   
 [^33]:    ${ }^{5}$ This is an approximation. We should really be setting expected simple returns equal. For example, if the short-term yield was conditionally log-normal, then setting expected returns equal would yield $y_{t, 2}=\lambda+\frac{1}{2}\left[y_{t, 1}+\mathbb{E}_{t}\left[y_{t+1,1}\right]+\frac{1}{2} \operatorname{var}_{t}\left(y_{t+1,1}\right)\right]$, i.e., there is an additional conditional variance term, also known as a convexity term, as it reflects the convexity of $\exp \left(y_{t+1,1}\right)$. If the conditional variance term is constant, we can just absorb it in the $\lambda_{2}$ in (7.13), but if it's time-varying, it would generate deviations from (7.13). Plausible values of this distortion are relatively small, though. So we ignore them here.
   
-[^34]:   ${ }^{6}$ Note that for this channel to be operative, the expectations hypothesis does not have to hold exactly. All that is required is that expectations of future short-term interest rates are one driver of long-term
+[^34]:   ${ }^{6}$ Note that for this channel to be operative, the [[Lecture 7-Risk and Return of Bonds#7.4 Expectations hypothesis|expectations hypothesis]] does not have to hold exactly. All that is required is that expectations of future short-term interest rates are one driver of long-term
   
 [^35]:    ${ }^{1}$ This equation also demonstrates an important principle of valuation. To value an asset, we need to either discount nominal cash flows with a nominal discount rate, as done in this equation, or, alternatively, we can discount real cash flows with real discount rates. The latter approach would be to calculate $V_{t}=\frac{\mathbb{E}_{t}\left[D_{t+1}\left(C P I_{t} / C P I_{t+1}\right)\right]}{1+R^{r}}=\frac{\mathbb{E}_{t}\left[D_{t+1}\right] E_{t}\left[C P I_{t} / C P I_{t+1}\right]}{1+R^{r}}$ where we used the fact that for a nominal asset cash flow and inflation are uncorrelated so we can write the expectation of the product as the product of the expectations. We can then divide numerator and denominator by $E_{t}\left[C P I_{t} / C P I_{t+1}\right]$ and we get the same expression as (8.5).
   

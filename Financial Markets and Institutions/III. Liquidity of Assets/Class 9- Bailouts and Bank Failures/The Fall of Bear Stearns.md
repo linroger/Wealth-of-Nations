@@ -19,7 +19,7 @@ Mr. Schwartz was stunned. Now,  with the market in shock at Bear Stearns's trava
 
 The confusion over the financing was a testament to the speed with which Bear Stearns had fallen and the urgent need government officials felt to cushion the impact on the financial system.
 
-At their gloomiest,  regulators believed a bankruptcy filing could stoke global fears,  threatening to topple other financial institutions and to send the Dow Jones Industrial Average into a 2,  000-point nose dive.
+At their gloomiest,  regulators believed a [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] filing could stoke global fears,  threatening to topple other financial institutions and to send the Dow Jones Industrial Average into a 2,  000-point nose dive.
 
 The phone call to Mr. Schwartz capped a helter-skelter week -- and presaged another 10 days of chaos. Interviews with more than two dozen executives and others directly involved show that Bear Stearns nearly died not once,  but twice.
 
@@ -85,9 +85,9 @@ Soon,  though,  J.P. Morgan was back,  floating the price of $4 a share. Under t
 
 Bear Stearns directors were getting angry. How could the deal price go from $8 to $4 in a few hours? Chairman James Cayne -- himself a large shareholder and the firm's chief executive for 14 years until forced out in January -- was irate.
 
-"Let's play the bankruptcy card,  " he said to the group as they discussed the bid in a conference room high in the Madison Avenue tower.
+"Let's play the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] card,  " he said to the group as they discussed the bid in a conference room high in the Madison Avenue tower.
 
-A large team from the law firm Cadwalader,  Wickersham & Taft was already in the building,  preparing for a potential Chapter 11 filing,  which technically would allow Bear Stearns time to work out its problems with creditors. But the option would have been suicidal: Under changes to the bankruptcy code made in 2005,  regulators would wrest control of the firm's customer accounts,  leaving it with little or no business. Many of Bear Stearns's pending trades in investments known as derivatives,  which are tied to underlying assets like stocks and bonds,  would be subject to seizure by creditors.
+A large team from the law firm Cadwalader,  Wickersham & Taft was already in the building,  preparing for a potential Chapter 11 filing,  which technically would allow Bear Stearns time to work out its problems with creditors. But the option would have been suicidal: Under changes to the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code made in 2005,  regulators would wrest control of the firm's customer accounts,  leaving it with little or no business. Many of Bear Stearns's pending trades in investments known as derivatives,  which are tied to underlying assets like stocks and bonds,  would be subject to seizure by creditors.
 
 The start of the business day in Asia loomed at 6 p.m. New York time. If the firm filed for bankruptcy,  it would have to notify its Asian trading desks before markets there opened.
 
@@ -113,7 +113,7 @@ Directors were shocked. Mr. Cayne said there was no way he would approve the $2 
 
 Mr. Schwartz didn't want to buck the Treasury and the Fed. He also knew that as the CEO of a company incorporated in Delaware,  he was obliged by law to consider the interests of creditors over shareholders if his company faced insolvency. Besides,  he had employees to think about,  and he didn't want the company's workers to face abruptly canceled paychecks and padlocked offices the next morning.
 
-"Two dollars is better than nothing,  " he told directors. He spent 30 minutes arguing his case. A price of $2 and the right for shareholders to vote,  he explained,  was better than a price of zero and a bankruptcy filing. He also pointed out the untold consequences a bankruptcy could have on world markets -- a scenario Bear Stearns directors didn't want to be held responsible for.
+"Two dollars is better than nothing,  " he told directors. He spent 30 minutes arguing his case. A price of $2 and the right for shareholders to vote,  he explained,  was better than a price of zero and a [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] filing. He also pointed out the untold consequences a [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] could have on world markets -- a scenario Bear Stearns directors didn't want to be held responsible for.
 
 Mr. Schwartz looked around the room to each board member. "Do I have anyone who's opposed?" he asked. No one spoke. At about 6:30 p.m.,  the deal was unanimously approved. Bear Stearns's advisers notified J.P. Morgan,  which scheduled a conference call for investors to discuss the deal at 8 p.m.
 
@@ -161,7 +161,7 @@ Around 9 p.m. the next day,     Bear Stearns lawyer H. Rodgin Cohen -- Sulliva
 
 The next day,  March 21,  was Good Friday. J.P. Morgan turned up the heat,  telling Mr. Cohen that if Bear Stearns didn't make the desired concessions,  the bank didn't see how it could provide funding for the brokerage to trade the following Monday. In an ugly replay of the weekend before,  Bear Stearns was imperiled again.
 
-If J.P. Morgan wouldn't guarantee Bear Stearns's trades on Monday,  the firm would most likely have to file for bankruptcy protection.
+If J.P. Morgan wouldn't guarantee Bear Stearns's trades on Monday,  the firm would most likely have to file for [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] protection.
 
 But this time around,  Bear Stearns's business was so weak,  it wasn't eligible for a Chapter 11 reorganization filing. Instead it faced a Chapter 7 liquidation,  in which a court-appointed trustee would take over the firm,  likely throwing out management and launching a sale of its assets to repay debts.
 

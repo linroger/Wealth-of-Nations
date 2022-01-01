@@ -24,7 +24,7 @@ Interest Rate Derivatives
 John Heaton
 The University of Chicago Booth School of Business
 
-1. Interest rate FRA and Swaps
+1. Interest rate [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] and Swaps
 1. Black's model for interest rate derivatives
 1. Interest Rate Trees
 	1. 3.1 Interest Rate Trees versus Stock Trees
@@ -41,31 +41,31 @@ The University of Chicago Booth School of Business
 The Notional Amount Of Over-The-Counter Derivatives Panel
 ![](cb7ba51a67fc85b5327fb7d1d8e90f58.png)
 
-## FORWARD RATE AGREEMENTS
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
 
-- A Forward Rate Agreement (FRA) is an agreement between two counterparties A and B according to which at maturity T
+- A [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreement]](FRA) is an agreement between two counterparties A and B according to which at maturity T
 - Counterparty A makes a payment to B equal to$N × F × ∆$,  where$N$is the notional, $∆$the compounding frequency,  and$F$is a fixed rate decided at time$0$;
 - Counterparty B makes a payment to A equal to$N × R(T_{0},  T) × ∆$,  where$T_{0}  = T − ∆$.
-- The reference floating rate R is typically the LIBOR rate. The *forward rate* F is determined at time 0 so that the value of the FRA is zero.
+- The reference floating rate R is typically the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate. The *forward rate* F is determined at time 0 so that the value of the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is zero.
 - What is the value of this net cash flow at time 0 for given F?
 - Assume we have available the values of zero coupon bonds$Z(0,   T_{0})\text{ and }Z(0,  T)$.
 - The Net Cash flow to counterparty A is Net Cash Flow at$T\ =\ N\times\Delta\times(F-R(T_{0}, T))$
 $$=\ N\times(1+F\times\Delta)$$(Fixed Leg)$$-N\times(1+R(T_{0}, T)\times\Delta)$$(Floating Leg)
-- We compute the value of the FRA by computing the value of each leg.
+- We compute the value of the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] by computing the value of each leg.
 
-## FORWARD RATE AGREEMENTS
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
 - Present value of fixed leg. This can be computed immediately:$$\mathrm{Value~of~Fixed~Leg}=Z(0, T)\times N\times(1+F\times\Delta)$$
 - Present value of floating leg. This must be computed in two steps
 - 1. Compute the value of cash flow$N × R(T_0,  T)$as of time$T_0$. Note that at that time we will know the rate$R(T_0,  T)$
 	- Value of Floating Leg at$$T_{0}=\dfrac{\text{Cash Flow at } T}{1\text{ period discount}}=N\times\dfrac{(1+R(T_{0}, T)\times\Delta)}{(1+R(T_{0}, T)\times\Delta)}=N$$
 1. Obtain the value of Floating Leg at 0
-- Therefore,  the value of the FRA is$$V=N\times[Z(0, T)\times(1+F\times\Delta)-Z(0, T_{0})]=N\times Z(0, T)\times\left[(1+F\times\Delta)-\frac{Z(0, T_{0})}{Z(0, T)}\right]$$
+- Therefore,  the value of the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is$$V=N\times[Z(0, T)\times(1+F\times\Delta)-Z(0, T_{0})]=N\times Z(0, T)\times\left[(1+F\times\Delta)-\frac{Z(0, T_{0})}{Z(0, T)}\right]$$
 - The forward rate$F$makes this quantity equal to zero$$1+F\times\Delta=\frac{Z(0, T_{0})}{Z(0, T)}\Longrightarrow F=\frac{1}{\Delta}\left(\frac{Z(0, T_{0})}{Z(0, T)}-1\right)$$
 
 ## FORWARD RATE AGREEMENT: EXAMPLE
 - It is November 1,  2022. A firm has a receivable of \$100 million in six months$(T_1 = 0.5)$,  and wishes to park this money for an additional six months (until$T_2 = 1$),  when it will need to use it for some capital expenditure.
 - The firm is worried that the six month rate will decline at$T_{1}$and thus wants to lock-in a six-month rate *today*.
-- To hedge,  the firm can enter into a six-month FRA with a bank for the period$T_1$to$T_2$,  and notional N =$100 million.
+- To hedge,  the firm can enter into a six-month [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] with a bank for the period$T_1$to$T_2$,  and notional N =$100 million.
 - Today the bank agrees to pay in one year ($T_2 = 1$) the amount$\frac{N}{2} × F(0.5,  1)$;
 - The firm agrees to pay on the same day the amount$\frac{N}{2} × R(0.5,  1)$.
 - That is,  they exchange the payment at$T_2 = 1$
@@ -74,7 +74,7 @@ $$=\ N\times(1+F\times\Delta)$$(Fixed Leg)$$-N\times(1+R(T_{0}, T)\times\Delta)$
 - On November 1,  2022,  the value of 6-months Treasury bills is$Z(0,  0.5) = 97.728$and the value of 1-year Treasury bills is$Z(0,  1) = 95.713$. Thus:$$F(0, 0.5, 1)=2\times\left(\frac{Z(0, 0.5)}{Z(0, 1)}-1\right)=4.21\%.$$
 
 ## FORWARD RATE AGREEMENT: EXAMPLE
-- Why does the FRA solves the hedging problem of the firm?
+- Why does the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] solves the hedging problem of the firm?
 - Because at$T_1 = 0.5$,  when the firm receives its \$100 million receivable,  it can simply invest it at the market rate$R(0.5,  1)$
 - Then,  at$T_2 = 1$,  the firm receives the payoff from the investment,  plus the net payment from the FRA. In total:
 Total amount at$T_{2}$$$=\ \left\{\$100\ \text{million}\ \times\left[1+\frac{R(0.5, 1)}{2}\right]\right\}\quad\text{(Return on investment)}$$$$+\left\{\frac{N}{2}\times[F(0.5, 1)-R(0.5, 1)]\right\}\quad\text{(FRA payment)}$$$$=\ \$100\ \text{million}\ \times\left[1+\frac{F(0, 5, 1)}{2}\right]$$$$=\ \$102.105\ \text{million}$$
@@ -93,7 +93,7 @@ $$=\ N\times Z(0, T_{i})\times\left[(1+K\times\Delta)-(1+F(0, T_{i-1}, T_{i})\De
 
 $$=\ N\times\Delta\times Z(0, T_{i})\left[K-F(0, T_{i-1}, T_{i})\right]$$
 
-- where we denote$F(0,   T_{i-1},   T_{i}$) the forward rate at time 0 for a FRA between$T_{i-1}$and$T_{i}$.
+- where we denote$F(0,   T_{i-1},   T_{i}$) the forward rate at time 0 for a [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] between$T_{i-1}$and$T_{i}$.
 - It follows that for given K,  the value of the swap is the sum of these values
 $${\mathrm{Value~of~Swap}}=N\times\Delta\times\sum\limits_{i=1}^{n}Z(0, T_{i})\times[K-F(0, T_{i-1}, T_{i})]$$
 - The swap rate is then the K that makes the value of the swap equal to zero
@@ -104,7 +104,7 @@ $$w_{i}=\frac{Z(0, T_{i})}{\Sigma_{i=1}^{n}Z(0, T_{i})}$$
 
 ## INTEREST RATE SWAP EXAMPLE
 - Today is November 1,  2022. A firm has receivables of$5.5 millions every six months for the next 5 years.
-- The firm has also a 5-year,  semi-annual, $200 m floating rate debt outstanding,  with floating rate LIBOR + 4 bps.
+- The firm has also a 5-year,  semi-annual, $200 m floating rate debt outstanding,  with floating rate [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] + 4 bps.
 - How can the firm use the receivables to service the coupons on the debt?
 - A solution is to enter into a fixed-for-floating swap with an investment bank.
 	- On November 1,  2022,  the swap rate for a 5-year fixed-for-floating swap was quoted at K = 5.46%.
@@ -117,7 +117,7 @@ Net cash flow to the firm at$$T_{i}  = 200 \text{ million } × 0.5 × [R(T_{i} �
 - Until January 31,  2014: British Bankers Association (BBA) LIBOR
 	- Survey of a panel of banks
 	- Banks could underestimate their borrowing costs
-	- Conflict within the bank: impact of LIBOR setting on derivatives trading.
+	- Conflict within the bank: impact of [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] setting on derivatives trading.
 - Now ICE LIBOR
 	- ICE now the benchmark administrator
 	- Regulator in UK: Financial Conduct Authority (FCA)
@@ -134,16 +134,16 @@ Net cash flow to the firm at$$T_{i}  = 200 \text{ million } × 0.5 × [R(T_{i} �
 - Measure of overnight *secured* borrowing.
 - Collateralized US Treasuries in the repo market.
 - Very liquid and likely resilient markets:$1 trillion in daily volume
-- Contrast: USD LIBOR three-month tenor: about$1 billion
+- Contrast: USD [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] three-month tenor: about$1 billion
 - Published by New York Fed. Along with 30-day,  90-day and 180-day averages
 
 ## TRANSITION
-- LIBOR market:$200+ trillion of financial transactions contracts reference LIBOR
+- [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] market:$200+ trillion of financial transactions contracts reference LIBOR
 - Transition was set for end of 2021,  but now 18 month extension
-- LIBOR permeates many contracts for in securities markets and the corporate world: leases,  debt,  ….
+- [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] permeates many contracts for in securities markets and the corporate world: leases,  debt,  ….
 - Derivatives market with Central Clearing Partners (e.g. CME …).
 	- Cleared US Dollar interest rate swap contracts at CME: move to SOFR discounting.
-	- Intercontinental Exchange (ICE) Benchmark Administration: USD LIBOR benchmarks will stop June 30,  2023
+	- Intercontinental Exchange (ICE) Benchmark Administration: USD [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] benchmarks will stop June 30,  2023
 - Fannie and Freddie: have moved bo SOFR contracts
 - New York Fed: conducts repo and reverse repo through tri-party repo.
 - OTC SOFR swaps
@@ -191,17 +191,17 @@ $$V_{0}^{O I S}=V_{0}^{F l o a t i n g}-V_{0}^{F i x e d}=0\tag{6}$$
 - We obtain the relation:$$Z^{OIS}\left(0, T_{i}\right)=\frac{1-c\left(T_{i}\right)\, \Delta\, \, \Sigma_{j=1}^{i-1}\, Z^{OIS}\left(0, T_{j}\right)}{1+c\left(T_{i}\right)\Delta}\tag{9}$$
 - recalling,  however,  that Is with maturity less than or equal to 1 year generally have only one payment.
 - Next Figure shows an example of bootstrapping from Is quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (9) and defines the Is discount function$Z^{OIS}(0,  T)$.
-## IS AND LIBOR DISCOUNT CURVE ON JANUARY 2ND,  2009
+## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
 
 ![](f56f77987685bc6c5d58d6cc34f039cb.png)
 
-## IS AND LIBOR DISCOUNT CURVE ON JANUARY 2ND,  2007
+## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2007
 
 ![](b687c872a37a38a4405d3.png)
 
 - However,  if we try after the crisis,  we obtain the following figure:
 
-## IS AND LIBOR DISCOUNT CURVE ON JANUARY 2ND,  2009
+## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
 
 ![](a5c5dde2f41af7900fa5833565f8581f.png)
 
@@ -251,8 +251,8 @@ $$d_{1}=\frac{\log\left(\frac{F(0, T_{i-1}, T_{i})}{K}\right)+\frac{1}{2}\sigma_
 ## EXAMPLE: THE BLACK'S FORMULA TO PRICE CAPS
 
 - Example: Consider a 1-year,  quarterly cap with strike rate$r_K = 2.555\%$,  quoted at volatility$σ_F = 23.5\%$.
-- The current LIBOR discount curve is as follows$$Z(0,  0.25) = 99.4580; Z(0,  0.5) = 99.8510; Z(0,  0.75) = 99.1899; Z(0,  1) = 97.4834$$
-- From the LIBOR curve,  we can compute the quarterly compounded forward rates:$$F(0,  0.25,  0.5) = 2.4562\%; F(0,  0.5,  0.75) = 2.6932\%; F(0,  0.75,  1) = 2.8987\%$$
+- The current [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] discount curve is as follows$$Z(0,  0.25) = 99.4580; Z(0,  0.5) = 99.8510; Z(0,  0.75) = 99.1899; Z(0,  1) = 97.4834$$
+- From the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve,  we can compute the quarterly compounded forward rates:$$F(0,  0.25,  0.5) = 2.4562\%; F(0,  0.5,  0.75) = 2.6932\%; F(0,  0.75,  1) = 2.8987\%$$
 - Finally,  from the quoted volatility$\sigma_{F}=23.5\%$,  we obtain the three relevant volatilities:$$\sigma_{F}\times[\sqrt{T_{1}}, \sqrt{T_{2}}, \sqrt{T_{3}}]\ =\ 23.5\%\times[\sqrt{0.25}, \sqrt{0.5}, \sqrt{0.75}]=[11.75\%\%\%].$$
 - Using the formula for$d_1$and$d_2$we obtain$$d_{1}(0.50)=-0.02770;\, d_{2}(0.50)=-0.03945\Longrightarrow\mbox{Caplet}(0.50)=0.0184$$
 $$d_{1}(0.75)=0.4000;\, d_{2}(0.75)=0.02328\Longrightarrow\mbox{Caplet}(0.75)=0.0617$$$$d_{1}(1)=0.7218;\, d_{2}(1)=0.5183\Longrightarrow\mbox{Caplet}(1)=0.1057$$
@@ -267,13 +267,13 @@ about changes in future interest rates.
 - Let$r_t =$be the six-month,  continuously compounded risk-free rate.
 - Let$q = 1/2$be the (true) probability to move up or down on the tree.
 	- The movement of the short-term interest rate is exogenous to investors.
-	- E.g. the Federal Reserve sets the Fed Fund rate because of monetary policy issues.
+	- E.g. the Federal Reserve sets the Fed Fund rate because of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] issues.
 - ![](cbd186d3c7001e949e521ca66dc13413.png)
 - We now develop the same arguments we used in TN 4,  but for interest rates.
 - Let$r_t$be the six-month,  continuously compounded risk-free rate.
 - Let$q = 1/2$be the (true) probability to move up or down on the tree.
 - The movement of the short-term interest rate is exogenous to investors.
-- E.g. the Federal Reserve sets the Fed Fund rate because of monetary policy issues.
+- E.g. the Federal Reserve sets the Fed Fund rate because of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] issues.
 ![](3a25798bbd6afb00995ba9571401c706.png)
 
 ## INTEREST RATE TREES
@@ -366,7 +366,7 @@ $$\begin{array}{l l l}{{\widehat{Z}_{0}\left(3\right)\;=\;Z_{0}\left(1\right)\le
 $$r_{i+1}=r_{i}+\theta(i)\Delta\pm\sigma\sqrt{\Delta}$$
 ∆ occur with 1/2 (risk neutral) probability.
 - where$\Delta$is the time step, $\theta(i)$is a function of time chosen to match current prices,  and$\pm\sqrt{\Delta}$occur with$\frac{1}{2}$(risk neutral) probability.
-$\bullet$This process generates a recombining tree,  independently of$\theta(i)$. Starting from$r_{0}$$$r_{1, u}=r_{0}+\theta(0)\Delta+\sigma\sqrt{\Delta}$$$$r_{1, d}=r_{0}+\theta(0)\Delta-\sigma\sqrt{\Delta}$$
+- This process generates a recombining tree,  independently of$\theta(i)$. Starting from$r_{0}$$$r_{1, u}=r_{0}+\theta(0)\Delta+\sigma\sqrt{\Delta}$$$$r_{1, d}=r_{0}+\theta(0)\Delta-\sigma\sqrt{\Delta}$$
 
 $$r_{2, uu}=r_{1, u}+\theta(1)\Delta+\sigma\sqrt{\Delta}$$$$r_{2, ud}=r_{1, u}+\theta(1)\Delta-\sigma\sqrt{\Delta}$$$$r_{2, du}=r_{1, d}+\theta(1)\Delta+\sigma\sqrt{\Delta}$$$$r_{2, dd}=r_{1, d}+\theta(1)\Delta-\sigma\sqrt{\Delta}$$
 
@@ -436,7 +436,7 @@ $$C a l l_{i, j}^{\mathrm{Wait}}~=~e^{-r_{i, j}\Delta}E^{*}\left[C a l_{i+1}\rig
 - Therefore,  the value at node *i,  j* is
 $$Call_{i, j}=\max\left(Call_{i, j}^{\rm Wait}, Call_{i, j}^{\rm Ex}\right)$$$$=\max\left(e^{-r_{i, j}\times\Delta}E^{*}\left[Call_{i+1}\right], P_{i, j}-100\right)$$
 
-$\bullet$ At maturity $I=T/\Delta$ we have $$Call_{I, j}=0\mbox{ for all }j$$
+-  At maturity $I=T/\Delta$ we have $$Call_{I, j}=0\mbox{ for all }j$$
 ![](028f1eeb379ef6236ccfc204a15cd928.png)
 
 ## EXAMPLE: CALLABLE BONDS

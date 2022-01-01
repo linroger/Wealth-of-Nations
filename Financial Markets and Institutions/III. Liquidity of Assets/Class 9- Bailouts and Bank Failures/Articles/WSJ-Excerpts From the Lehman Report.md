@@ -47,7 +47,7 @@ The examiner criticized Lehman for the "materially misleading" approach it took 
 
 The examiner said that Lehman -- anxious to maintain favorable credit ratings -- engaged in an accounting device known within the firm as "[[Financial Markets and Institutions/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class 7- CP, Repo, and the Crisis.md|Repo]] 105" to essentially park about $50 billion of assets away from Lehman's balance sheet. The move helped Lehman look like it had less debt on its books.
 
-"In this way,  unbeknownst to the investing public,  rating agencies,  Government regulators,  and Lehman's Board of Directors,  Lehman reverse engineered the firm's net leverage ratio for public consumption." 
+"In this way,  unbeknownst to the investing public,  rating agencies,  Government regulators,  and Lehman's Board of Directors,  Lehman reverse engineered the firm's net [[Leverage Ratio|leverage ratio]] for public consumption." 
 
 -- [From the report](http://lehmanreport.jenner.com/VOLUME%203.pdf),  volume 3,  page 739
 
@@ -59,7 +59,7 @@ An illustrative example is found in the following July 2008 e-mail exchange: 
 
 "Vallecillo: "So what's up with repo 105? Why are we doing less next quarter end?"
 
-McGarvey: "It's basically window-dressing. We are calling repos true sales based on legal technicalities. The exec committee wanted the number cut in half."
+McGarvey: "It's basically window-dressing. We are calling [[Class Note 12 Part 2 Repos|repos]] true sales based on legal technicalities. The exec committee wanted the number cut in half."
 
 Vallecillo: "I see … so it's legally do-able but doesn't look good when we actually do it? Does the rest of the street do it? Also is that why we have so much BS [balance sheet] to Rates Europe?
 

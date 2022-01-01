@@ -7,7 +7,7 @@ tags: [Risk_Preferences,  Risk-Neutral-Pricing]
 
 # Risk Preferences
 
-These notes explore the conceptual tools that help investors in assessing the “riskiness" of their portfolios. We ask: Given two assets or portfolios $A$ and $B$ can we say which one is “riskier"? This turns out to be closely linked to the more general question of “"portfolio choice". We ask: If an investor has the choice between two mutually exclusive portfolios,  $A$ and $B$，which of these two portfolios does he prefer? Can we specify certain general patterns of investment choice,  whereby all “sensible”investors can be expected to prefer $A$ over $B$ if $A$ has certain well-defined properties relative to $B$ .For historical reasons,  this whole area of investigation is called utility theory — we ask,  what portfolio choices will give the highest “utility” to an investor if all investor's have similar preferences.
+These notes explore the conceptual tools that help investors in assessing the “riskiness" of their portfolios. We ask: Given two assets or portfolios $A$ and $B$ can we say which one is “riskier"? This turns out to be closely linked to the more general question of “"[[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]". We ask: If an investor has the choice between two mutually exclusive portfolios,  $A$ and $B$，which of these two portfolios does he prefer? Can we specify certain general patterns of investment choice,  whereby all “sensible”investors can be expected to prefer $A$ over $B$ if $A$ has certain well-defined properties relative to $B$ .For historical reasons,  this whole area of investigation is called utility theory — we ask,  what [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]s will give the highest “utility” to an investor if all investor's have similar preferences.
 
 As a special application of this kind of query,  we can then assess relative riskiness. Given a choice between two mutually exclusive portfolios $A$ and $B$ ,  both having the same expected payoffs (average payoffs),  which of these portfolios will a“risk-averse” investor choose? We will explore three different notions of risk aversion that help answering such questions: (i) preference for certainty; (ii) variance aversion; (iii) stochastic dominance.
 
@@ -17,7 +17,7 @@ Reading: Chapter 18 from Hull as a supplement to these notes.
 
 # 1 Background
 
-This introductory section positions the topic of “Portfolio Choice”within the wider context of the course and sorts out a few preliminary issues.
+This introductory section positions the topic of “[[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]”within the wider context of the course and sorts out a few preliminary issues.
 
 Partial vs Total Payoffs: Investors buy various individual assets and combine these assets into overall portfolios. An investor cannot form a portfolio unless he is willing to purchase the individual assets out of which it is composed,  but these individual assets are relevant to the investor only insofar as they contribute to the payoff profile of the overall portfolio of which they are a part. Ultimately,  the investor ends up with one particular portfolio rather than any other portfolio,  and his final income will then be given by the payoffs of this particular portfolio.
 
@@ -35,9 +35,9 @@ How desirable is one overall portfolio compared with another? If investors are �
 
 In this section we set up the formal framework,  specify a concrete example,  and perform various preliminary computations for this example. Later sections will then offer formal definitions of investor preferences and refer back to the example from the present section.
 
-Risky Investments: We consider an investor with a single-period time horizon. The investor has the choice between a number of mutually exclusive investments,  $A,   B,   C,    \ldots$ The payoffs of these investments depend on the state of the world. When deciding on his investment,  the investor does not know which of the various possible states of the world will come about payoffs are risky. However the investor knows the relative likelihood (probability) of each state and hence is capable of computing the expected value variance and probability distribution of each asset
+Risky Investments: We consider an investor with a single-period time horizon. The investor has the choice between a number of mutually exclusive investments,  $A,   B,   C,    \ldots$ The payoffs of these investments depend on the state of the world. When deciding on his investment,  the investor does not know which of the various possible states of the world will come about payoffs are risky. However the investor knows the relative likelihood (probability) of each state and hence is capable of computing the expected value variance and [[Lecture 1- Probability Distributions of Returns|probability distribution]] of each asset
 
-The Choice Problem: At the beginning of the period the investor chooses one of the available investments. He is then tied to the particular investment he has chosen and his end-of-period income will consist entirely of the payoffs from his chosen investment. How large will his income be? That depends on the state of the world during the period,  which cannot be foreseen at the beginning of the period but which can be analysed in terms of likelihoods (probability distributions).
+The Choice Problem: At the beginning of the period the investor chooses one of the available investments. He is then tied to the particular investment he has chosen and his end-of-period income will consist entirely of the payoffs from his chosen investment. How large will his income be? That depends on the state of the world during the period,  which cannot be foreseen at the beginning of the period but which can be analysed in terms of likelihoods ([[Lecture 1- Probability Distributions of Returns|probability distribution]]s).
 
 When comparing any two of the various available investments,  the investor needs to ask himself: which of these two would I rather have? In answering this question,  the investor will take account of the knowledge he has about payof profiles of these investments. We consider the following concepts in assessing a payoff profile: expected payoffs,  variance of payoffs,  worst-case payoffs,  and “dispersion" of payoffs. Later we will use these concepts to declare precise definitions of risk aversion that reflect the choices of a reasonable investor
 
@@ -51,7 +51,7 @@ State-wise dominance: We say that investment $X$ state-wise dominate investment 
 
 In our example,  $B$ dominates $A$ ,  since it pays 2 extra in states 14 and the same as $A$ in states 5-8. Likewise,  $C$ dominates $A$ .No other investment dominates any other. For instance,  $D$ does not dominate $E$ since it pays less than $E$ in states 1-4. In general,  if two investments have the same expected payoffs,  neither will dominate the other,  since any extra payoff in one of the states must be compensated by shortfalls in some of the other states.
 
-Probability Distributions: To determine how risky a portfolio or asset is,  we will need to know the probability distributions of its payoffs.
+Probability Distributions: To determine how risky a portfolio or asset is,  we will need to know the [[Lecture 1- Probability Distributions of Returns|probability distribution]]s of its payoffs.
 
 An asset or portfolio will result in $Tl$ possible financial outcomes (sums of money or returns),  $x_{1},   x_{2},    \cdots,   x_{n}$ .We shall denote the probability of outcome
 
@@ -94,7 +94,7 @@ And for a continuous distribution we have
 
 $$\begin{aligned}F (x)=\int_a^xf (t)\: dt.\end{aligned}$$
 
-The cumulative probability distribution $F (x)$ is the area below the probability density function $f (t)$ below the value of $JL$
+The cumulative [[Lecture 1- Probability Distributions of Returns|probability distribution]] $F (x)$ is the area below the probability density function $f (t)$ below the value of $JL$
 
 Exercise: Draw the cumulative probability functions
 
@@ -266,7 +266,7 @@ This is simply (minus) the expected value of the tail of the distribution below 
 
 ## Variance and Semi-variance
 
-Markowitz developed a mean-variance framework for portfolio choice in. Which he argued that investors in choosing between portfolios with equal expected value should choose the portfolio with the minimum variance. 910 This work was later used by Sharpe and Lintner in developing the Capital Asset Pricing Model (CAPM). As we have seen variance is a measure of average deviation and weighs both positive and negative variations equally. In his 1959 book,  Portfolio Selection,  Markowitz suggested the idea of looking at. Semi-variance which only considers deviations below some critical threshold. Letting the threshold be $\hat{x}$ ,  the semi-variance risk measure is given by
+Markowitz developed a mean-variance framework for [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] in. Which he argued that investors in choosing between portfolios with equal expected value should choose the portfolio with the minimum variance. 910 This work was later used by Sharpe and Lintner in developing the Capital Asset Pricing Model (CAPM). As we have seen variance is a measure of average deviation and weighs both positive and negative variations equally. In his 1959 book,  Portfolio Selection,  Markowitz suggested the idea of looking at. Semi-variance which only considers deviations below some critical threshold. Letting the threshold be $\hat{x}$ ,  the semi-variance risk measure is given by
 
 $$\rho_{SV}=\sum_{x_i\leq\hat{x}}(x-\hat{x})^2 f (x_i)$$
 
@@ -314,7 +314,7 @@ As we have seen some measures of risk are not coherent. For example VaR does not
 
 ## 4 Investor Preferences
 
-The measures of risk we have so far considered associate with a given probability distribution a single number to measure risk. As we have seen there seems no universal agreement on what is the best measure and perhaps different people can have different views of risk simply because of their preferences A question therefore to ask is whether there are situation is which everyone would agree that invest $A$ was riskier than investment $B$ .To try to answer this question we look at investor's preferences over risky investments. It offers formal definitions of risk aversion that cover many realistic cases of investment choices. We consider pair-wise comparisons of mutually exclusive investments $X$ and $Y$ and ask which of the two investments is better,
+The measures of risk we have so far considered associate with a given [[Lecture 1- Probability Distributions of Returns|probability distribution]] a single number to measure risk. As we have seen there seems no universal agreement on what is the best measure and perhaps different people can have different views of risk simply because of their preferences A question therefore to ask is whether there are situation is which everyone would agree that invest $A$ was riskier than investment $B$ .To try to answer this question we look at investor's preferences over risky investments. It offers formal definitions of risk aversion that cover many realistic cases of investment choices. We consider pair-wise comparisons of mutually exclusive investments $X$ and $Y$ and ask which of the two investments is better,
 
 Given a list of assumptions of “reasonable” investment behaviour. We use our example from the previous section for illustration
 
@@ -450,7 +450,7 @@ With $u (w)=\log_{e}(w)$ when $r=1$ .Again it is easily checked that $R (w)=r$
 
 ## 5 Stochastic Dominance
 
-First-order stochastic dominance: To examine stochastic dominance of two investments we look at the cumulative probability distribution functions
+First-order stochastic dominance: To examine stochastic dominance of two investments we look at the cumulative [[Lecture 1- Probability Distributions of Returns|probability distribution]] functions
 
 Thus if two investments $X$ and $Y$ have cumulative distribution functions $F$ and $G$ respectively we say that $X$ first-order stochastically dominates. $Y$ if
 

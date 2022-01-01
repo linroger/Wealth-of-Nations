@@ -97,11 +97,11 @@ $$B^{USD}(0, T) = 100 \text{ mil } (2\% \times e^{-r_s \times 0.5} + e^{-r_s \ti
 | **Delivery** | Physical T-note with at least 6.5 years to maturity and not more than 10 years to maturity. Price paid to the short for notes with other than 6% coupon is determined by multiplying futures price by a conversion factor. The conversion factor is the price of the delivered note ($1 par value) to yield 6%. |
 | Settlement | until last business day of the month. |
 
-In the Eurodollar futures price, we have to consider the convexity bias, which refers to the difference in convexity between the FRA and the Eurodollar futures. The convexity bias is an important factor to consider when hedging with Eurodollar futures due to the future's payoff structure, which can affect the hedging outcome.
+In the Eurodollar futures price, we have to consider the convexity bias, which refers to the difference in convexity between the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] and the Eurodollar futures. The convexity bias is an important factor to consider when hedging with Eurodollar futures due to the future's payoff structure, which can affect the hedging outcome.
 
 ### CONVEXITY BIAS AND TAILORING
 
-+ When we hedge using Eurodollar futures, the convexity bias arises due to the difference between the payoff of an FRA and that of a Eurodollar future. This bias, known as *convexity bias*, must be accounted for to ensure an accurate hedging strategy.
++ When we hedge using Eurodollar futures, the convexity bias arises due to the difference between the payoff of an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] and that of a Eurodollar future. This bias, known as *convexity bias*, must be accounted for to ensure an accurate hedging strategy.
 
 #### TAILORING THE HEDGE
 
@@ -141,11 +141,11 @@ $$
 
   
 
-## Forward Rate Agreements (FRAs)
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]] (FRAs)
 
   
 
-To summarize, an FRA is just like the stock and currency forwards we have considered, both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time $t$ to time $t + s$, we can create a rate forward synthetically by buying the underlying asset (the bond maturing at $t + s$) and borrowing (shorting) the bond maturing at $t$.
+To summarize, an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is just like the stock and currency forwards we have considered, both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time $t$ to time $t + s$, we can create a rate forward synthetically by buying the underlying asset (the bond maturing at $t + s$) and borrowing (shorting) the bond maturing at $t$.
 
   
 
@@ -175,7 +175,7 @@ Eurodollar futures contracts are similar to FRAs in that they can be used to gua
 
   
 
-Assume the June Eurodollar futures price is 92.8. This translates into the implied interest rate, which is calculated as $100 - 92.8 = 7.2\%$ on an annual basis for a \$1M loan from June to September. Suppose the June Eurodollar futures price is 92.8, which implies a 3-month LIBOR is $100 - 92.8 = 7.2\%$. If we enter into a single short Eurodollar contract at expiration it will be:
+Assume the June Eurodollar futures price is 92.8. This translates into the implied interest rate, which is calculated as $100 - 92.8 = 7.2\%$ on an annual basis for a \$1M loan from June to September. Suppose the June Eurodollar futures price is 92.8, which implies a 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is $100 - 92.8 = 7.2\%$. If we enter into a single short Eurodollar contract at expiration it will be:
 
   
 
@@ -187,7 +187,7 @@ $
 
   
 
-If LIBOR = 8% (quarterly = 2.0%), we earn an extra $20,000 in interest and the invested proceeds from the Eurodollar contract are:
+If [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 8% (quarterly = 2.0%), we earn an extra $20,000 in interest and the invested proceeds from the Eurodollar contract are:
 
   
 
@@ -215,7 +215,7 @@ $
 
   
 
-This is like the payment on an FRA paid in arrears, except that the futures contract settles in June, but our interest expense is not paid until September. Thus we have 3 months to earn or pay interest on our Eurodollar gain or loss before we actually have to make the interest payment.
+This is like the payment on an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] paid in arrears, except that the futures contract settles in June, but our interest expense is not paid until September. Thus we have 3 months to earn or pay interest on our Eurodollar gain or loss before we actually have to make the interest payment.
 
   
 
@@ -223,7 +223,7 @@ This is like the payment on an FRA paid in arrears, except that the futures cont
 
   
 
-Recall that when the FRA settles on the borrowing date, the payment is the _present value_ of the change in borrowing cost. The FRA is thus tailed automatically as part of the agreement. With the Eurodollar contract, by contrast, we need to tail the position explicitly. We do this by shorting fewer than 100 contracts, using the implied 3-month Eurodollar rate of 1.8% as our discount factor. Thus, we enter into:
+Recall that when the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] settles on the borrowing date, the payment is the _present value_ of the change in borrowing cost. The [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is thus tailed automatically as part of the agreement. With the Eurodollar contract, by contrast, we need to tail the position explicitly. We do this by shorting fewer than 100 contracts, using the implied 3-month Eurodollar rate of 1.8% as our discount factor. Thus, we enter into:
 
   
 
@@ -235,7 +235,7 @@ $
 
   
 
-Now consider the gain on the Eurodollar futures position. If LIBOR = 6% (quarterly = 1.5%), our total gain on the short contracts when we initiate borrowing on day 120 will be:
+Now consider the gain on the Eurodollar futures position. If [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 6% (quarterly = 1.5%), our total gain on the short contracts when we initiate borrowing on day 120 will be:
 
   
 
@@ -247,7 +247,7 @@ $
 
   
 
-But if LIBOR = 8% (quarterly = 2.0%), our total gain on the contracts will be:
+But if [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 8% (quarterly = 2.0%), our total gain on the contracts will be:
 
   
 

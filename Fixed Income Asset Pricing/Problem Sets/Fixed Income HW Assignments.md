@@ -30,7 +30,7 @@ You have been retained by the JCH Fixed Income Group to provide a forecast about
 \textbf{Note 2:} Some code you might use:
 \begin{itemize}
     \item For Matlab users,    we made available the Matlab code “HW1 2024 Guide.m”. This code provides a start to the solutions. You will need to fill in the parts of the code that are missing. For example,    you will need to fill in some formulas and/or inputs. The code won’t run until you fix those spots. Look for the spots marked by “??”.
-    \item For Excel users,    we made available the spreadsheet “HW1 2024 Guide.xlsm”. This Excel spreadsheet contains instructions to use the XLSTAT functions answer the CP questions below. Inputs though are required to complete some formulas or to produce some of the results. The Excel spreadsheet is supposed to facilitate the computations for the homework.
+    \item For Excel users,    we made available the spreadsheet “HW1 2024 Guide.xlsm”. This Excel spreadsheet contains instructions to use the XLSTAT functions answer the [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] questions below. Inputs though are required to complete some formulas or to produce some of the results. The Excel spreadsheet is supposed to facilitate the computations for the homework.
     \item For Python users,    we made available the Python code “HW1 2024 Guide.py”. This code provides a start to the solutions. You will need to fill in the parts of the code that are missing. For example,    you will need to fill in some formulas and/or inputs. The code won’t run until you fix those spots. Look for the spots marked by “??”.
 \end{itemize}
 \end{quote}
@@ -246,7 +246,7 @@ The dataset “DataTIPS.xlsx” contains data on nominal bonds and Treasury Infl
     \url{http://www.owlnet.rice.edu/~jd10/nickelsRFS.pdf}
 \end{itemize}
 
-Today is February 17,    2009 and you are evaluating the Swap / Treasury curve. You decide to set up 100 million swap spread trade on the thirty-year T-Bond / Swap. Daily quote on the 30-year bond,    maturing on February 15 2039,    are contained in spreadsheet Daily Bond Swaps in HW4 Data.xls. The spreadsheet also contains daily data on the 30-year swap,    three month LIBOR and three month Repo rate. You have access to some past data,    such as the ones in the H15 Swap.txt,    which contains daily data on swap rates,    LIBOR and Repo,    but for a longer sample,    as well as Treasury constant maturity rates. (All these data are also collected in the Excel guide 35130 HW4 2022 Guide.xlsx for Excel users).
+Today is February 17,    2009 and you are evaluating the Swap / Treasury curve. You decide to set up 100 million swap spread trade on the thirty-year T-Bond / Swap. Daily quote on the 30-year bond,    maturing on February 15 2039,    are contained in spreadsheet Daily Bond Swaps in HW4 Data.xls. The spreadsheet also contains daily data on the 30-year swap,    three month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and three month Repo rate. You have access to some past data,    such as the ones in the H15 Swap.txt,    which contains daily data on swap rates,    [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and Repo,    but for a longer sample,    as well as Treasury constant maturity rates. (All these data are also collected in the Excel guide 35130 HW4 2022 Guide.xlsx for Excel users).
 
 \begin{enumerate}
     \item[(PP)] Look at the data and decide which direction to set up a swap spread trade. Is there an arbitrage? If so,    why do you think there is one? Discuss.
@@ -258,11 +258,11 @@ Today is February 17,    2009 and you are evaluating the Swap / Treasury curve. 
         \begin{itemize}
             \item Determine what is the appropriate “coupon rate” for the fixed leg of the swap in the valuation.
             \item Determine how many “coupon” periods there are left.
-            \item To compute the present value of future coupons,    you need an appropriate discount function $Z(T)$. Extract the LIBOR curve from current swap rates as of May 18,    2009,    using the procedure on TN3,    page 11. Because for maturity less than one year there are no swap quotes,    you can use LIBOR rates themselves in the computation.
+            \item To compute the present value of future coupons,    you need an appropriate discount function $Z(T)$. Extract the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve from current swap rates as of May 18,    2009,    using the procedure on TN3,    page 11. Because for maturity less than one year there are no swap quotes,    you can use [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates themselves in the computation.
             \begin{itemize}
                 \item Note that you need an interpolation of maturities,    as data only come on fixed maturities,    but you need specific quarters to compute the present value.
             \end{itemize}
-            \item Plot the estimated zero-coupon LIBOR curve.
+            \item Plot the estimated zero-coupon [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve.
             \item Use the estimated $Z(T)$ to compute the value of the fixed leg of the swap.
         \end{itemize}
     \item[(C)] Given your results in [A] and [B],    did the trade (so far) make money or lose money? Can you reconcile it with your answer to point 1? What happened to the swap spread between Feb 9 and May 18,    2009?
@@ -297,7 +297,7 @@ John Heaton}
 
 \subsection*{Part I: Using Black’s Formula for Caps,    Floors,    and Swaptions}
 \begin{enumerate}
-    \item[(CP)] Attached are two data screens from Bloomberg. Figure ?? quotes out to 30 years. In using this data use the mid-point quotes. The second,    figure ??,    provides data on implied flat Black forward-volatility for Caps and Floors and implied Black volatility for Swaptions. This screen also provides the 1-month LIBOR rate needed for the exercise. (There may be some slight inconsistency in the quotes in the figures because they were not extracted from Bloomberg at exactly the same time.) Compute:
+    \item[(CP)] Attached are two data screens from Bloomberg. Figure ?? quotes out to 30 years. In using this data use the mid-point quotes. The second,    figure ??,    provides data on implied flat Black forward-volatility for Caps and Floors and implied Black volatility for Swaptions. This screen also provides the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate needed for the exercise. (There may be some slight inconsistency in the quotes in the figures because they were not extracted from Bloomberg at exactly the same time.) Compute:
     \begin{itemize}
         \item The dollar value of a two-year Cap (quoted caps are at-the-money,    and therefore the strike rate equals the current swap rate). The only thing you need to enter in the code is the proper volatility and swap rates (along with 3-month LIBOR) to produce this price and the swaption price below.
         \item The dollar value of a 1-year swaption to enter into a 5-year swap.
@@ -548,11 +548,11 @@ You decide to use caps and floors to assess whether all of the interest rate opt
 \begin{enumerate}
     \item Compute Forward Volatilities from Cap Volatility Quotes
     \begin{itemize}
-        \item[(a)] Compute the zero-coupon LIBOR curve implicit in the swap curve,    as usual (Note: This part is automatically done by the guide codes available on Canvas);
+        \item[(a)] Compute the zero-coupon [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve implicit in the swap curve,    as usual (Note: This part is automatically done by the guide codes available on Canvas);
         \item[(b)] Compute the forward volatilities,    also up to maturity of 30 years. Cap volatility quotes are available up to 30-years as well (Note: This part is automatically done by the guide code).
         \item[(c)] Plot the forward and the flat volatilities. Comment on your findings. Discuss. Provide an intuition about the relation between forward and flat volatilities.
     \end{itemize}
-    \item Fit the BDT model to the discount curve and forward volatilities. Use the algorithm in TN 4 to fit the Black-Derman-Toy model (Note: automatically done by the guides,    once fitted LIBOR curves and forward volatilities are carried over. Note that we fit the model at quarterly intervals instead of monthly intervals to keep the computational exercises simpler).
+    \item Fit the BDT model to the discount curve and forward volatilities. Use the algorithm in TN 4 to fit the Black-Derman-Toy model (Note: automatically done by the guides,    once fitted [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curves and forward volatilities are carried over. Note that we fit the model at quarterly intervals instead of monthly intervals to keep the computational exercises simpler).
     \item Use the BDT model to value GNSF4. To obtain the price of the pass-through security GNSF 4,    recall you must first do the following steps:
     \begin{itemize}
         \item[(a)] Compute the dollar coupon and the scheduled interest and principal payments. These calculations allow you to compute the scheduled outstanding principal balance. You can do these computations assuming outstanding principal of 100 (so that,    the price will be also in percentage of 100,    like the quoted value of the security). Note that the coupon must satisfy the equation

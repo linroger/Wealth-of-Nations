@@ -1,30 +1,45 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- 'Class Note 2- Debt Contracts Due to the Lack of Information: Debt as a Promise
-  and a Threat'
-- Example_Alias_Class Note 2- Debt Contracts Due to the Lack of Information Debt as
-  a Promise and a Threat
-- 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and
-  a Threat'
-- Alias_14_Class Note 2- Debt Contracts Due to the Lack of Information Debt as a Promise
-  and a Threat.md
-linter-yaml-title-alias: 'Class Note 2 Debt Contracts Due to the Lack of Information:
-  Debt as a Promise and a Threat'
+  - "Class Note 2- Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
+  - "Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
+linter-yaml-title-alias: "Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
 tags:
-- tag_example
-- example_tag
-title: 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise
-  and a Threat'
+  - debt
+  - contracts
+  - monitoring
+  - renegotiation
+  - liquidation
+  - covenants
+  - borrowers
+  - lenders
+  - monitoring-costs
+  - information-asymmetry
+  - debt-management
+  - financial-instruments
+  - debt-structuring
+  - financial-markets
+  - risk-management
+  - corporate-control
+  - financial-contracts
+  - "#debt-management-strategies"
+  - "#financial-crises"
+  - "#debt-crisis-phases"
+  - "#debt-cycle"
+  - "#financial-crisis"
+  - "#corporate-bond-contracts"
+  - "#financial-monitoring"
+title: Class Note 2Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat
 ---
 
-
-
-
-# Class Note 2- Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat
+# Class Note 2Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat
 
 [Class Notes 2 – Corporate Bond Contracts](Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
+
 [Class Slides 2-Debt as a Promise and a Threat](Class%20Slides%202-Debt%20as%20a%20Promise%20and%20a%20Threat.md)
-[Discussion of Loan Covenants vs. Bond Covenants](Discussion%20of%20Loan%20Covenants%20vs.%20Bond%20Covenants.md)
+
+[Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants](Discussion%20of%20Loan%20Covenants%20vs.%20Bond%20Covenants.md)
 
    This is our initial view of the role of debt in corporate control. This is simple but abstract.
 
@@ -46,7 +61,7 @@ title: 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Pr
 		 - The net cash flows to the firm are very unobservable in practice for many firms.
 		 - In addition,  most other conflicts of interest faced by borrowers can be reinterpreted as equivalent to the borrower's ability to retain underreported cash.
 			- The ability to retain underreported cash is simply the most extreme example of a conflict of interest.
-   - The project costs $1 to fund,           and its realized value is a random variable with realization denoted by $V$.
+   - The project costs $1 to fund,              and its realized value is a random variable with realization denoted by $V$.
 	  - The distribution of $V$,  the value of the project,  known to all borrowers and lenders is:
 		 - $H=1.4$ million with probability $P=0.8$
 		 - $L=1$ million with probability $1−P=0.2$.
@@ -77,7 +92,7 @@ title: 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Pr
    - Suppose that it is not possible to impose a penalty on the borrower or take other assets outside the business that are valued by the borrower.
    - The only sanction available to give the borrower an incentive to pay is liquidation of the borrower's assets.
 	  - To focus on the inefficiency of disrupting firm operations,  I assume that liquidating the firm's assets gives no proceeds to the lender or to the borrower.
-	  - Liquidation and bankruptcy are useful as a penalty that a borrower can avoid by paying the debt,  but regular liquidation is not a good way to run a firm.
+	  - Liquidation and [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] are useful as a penalty that a borrower can avoid by paying the debt,  but regular liquidation is not a good way to run a firm.
    - How does one specify an optimal financial contract between investor and borrower when one can decide to liquidate (to penalize the borrower) or not contingent on any payment?
 	  - Liquidation is best used as a payment-contingent penalty in the following way.
 		 - If the lender is ever to liquidate for a given payment,  he also should liquidate for all lower payments.
@@ -123,11 +138,11 @@ title: 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Pr
 	  - If this monitoring (sitting on the board of directors,  or keeping close tabs on the business in other ways) is too costly,  then simple financial contracts that do not require monitoring are best.
 		 - These are debt contracts.
 		 - They induce the borrower to pay investors because default serves as a penalty that the borrower seeks to avoid.
-   - The analysis can be extended to apply not only to defaults on principal and interest covenants of debt contracts,  but to any other covenant that depends on hard-to-observe information.
-	  - When it is too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then covenants that "mean what they say" (and involve a default when violated) must be used.
+   - The analysis can be extended to apply not only to defaults on principal and interest [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] of debt contracts,  but to any other covenant that depends on hard-to-observe information.
+	  - When it is too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] that "mean what they say" (and involve a default when violated) must be used.
    - A publicly-traded bond with many lenders needs to have easy to enforce covenants.
-	  - If it is costly to monitor and enforce detailed loan covenants,  then bond covenants will be based on easily observed information.
-		 - Because the public will not have better information,  these covenants will not be renegotiated.
+	  - If it is costly to monitor and enforce detailed loan covenants,  then bond [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] will be based on easily observed information.
+		 - Because the public will not have better information,  these [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] will not be renegotiated.
 		 - This is especially true of the "key covenants" of principal,  interest,  and maturity.
 	  - Public debt will be enforced by the threat of liquidation,  and liquidation will occur whenever there is a default.
 		 - More generally,  we will later see that public debt is enforced by the threat of filing formal bankruptcy (which may not lead to liquidation).
@@ -156,3 +171,4 @@ title: 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Pr
 	  - This would have an advantage over public security issues.
 	  - We will see next time how financial intermediaries can replace the single lender,  and offer better financial contracts.
 		 - Banking is the original type of financial-engineering: a way of manufacturing synthetic fat cats.
+Tags: #debt #contracts #monitoring #renegotiation #liquidation #covenants #borrowers #lenders #monitoring-costs #information-asymmetry

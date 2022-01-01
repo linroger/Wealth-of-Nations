@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_334_Week 8- Dow Chemical Case- Assignment Review.md
-- Alias_331_Week 8- Dow Chemical Case- Assignment Review.md
+  - Alias_334_Week 8- Dow Chemical Case- Assignment Review.md
+  - Alias_331_Week 8- Dow Chemical Case- Assignment Review.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#risk-management"
+  - "#investment-analysis"
+  - "#currency-crisis"
+  - "#valuation-analysis"
+  - "#international-investment"
+  - "#privatization"
+  - "#country-risk"
 ---
 
 Thomas Rauter

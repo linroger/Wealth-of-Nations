@@ -1,6 +1,11 @@
 ---
 title: Week 3
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#financialanalysis"
+  - "#riskanalysis"
+  - "#cyclical-industries"
+  - "#advanced-forecasting"
 ---
 
 # Week 3

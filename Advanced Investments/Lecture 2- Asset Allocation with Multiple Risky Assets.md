@@ -1,12 +1,12 @@
 ---
-aliases: [Example_Alias_Lecture 2- Asset Allocation with Multiple Risky Assets,  Alias_115_Lecture 2- Asset Allocation with Multiple Risky Assets.md]
-tags: [tag_example,  example_tag]
-title: Lecture 2Asset Allocation with Multiple Risky Assets
+
+tags: 
+title: Lecture 2-Asset Allocation with Multiple Risky Assets
 ---
 
-# Lecture 2Asset Allocation with Multiple Risky Assets
-
-We now extend our optimal portfolio choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
+# Lecture 2-Asset Allocation with Multiple Risky Assets
+[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]
+We now extend our optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
 
 We still stick to the IID returns assumption for now.
 
@@ -28,7 +28,7 @@ $$
 
 $$
 
-Very important for our portfolio choice analysis is the $N \times N$ covariance matrix of returns
+Very important for our [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] analysis is the $N \times N$ covariance matrix of returns
 
 $$
 
@@ -116,7 +116,7 @@ $$
 
 $$
 
-### 2.2 Optimal portfolio choice with multiple risky assets
+### 2.2 Optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] with multiple risky assets
 
 Let's now turn to finding the optimal portfolio weight when we have multiple risky assets. As in the last lecture,  we assume the investor has CRRA preferences and we'll use a first-order approximation of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some vectors and matrices replacing some scalars to account for the fact that we have multiple risky assets.
 
@@ -487,7 +487,7 @@ This tells us that the Sharpe ratio of any asset $i$ (or any combination of asse
 
 ### 2.5 Market equilibrium
 
-As we did in the previous lecture for a single risky asset,    we can again ask how the portfolio choice of an individual investor fits together with the choices of other investors in equilibrium where supply equals demand. Our market equilibrium analysis in the previous lecture can be interpreted as dealing with the demand and supply of risky assets as a whole class. Here we are now asking about the composition of risky asset portfolios: what sort of composition investors would like to have,    and how the market gets these desired portfolio weights in line with the supply of securities actually available. Because we are interested in this compositional question,    we now focus on the relative quantities of risky assets,    expressed as a proportion of the total market capitalization of risky assets that investors demand or that is available as supply.
+As we did in the previous lecture for a single risky asset,    we can again ask how the [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] of an individual investor fits together with the choices of other investors in equilibrium where supply equals demand. Our market equilibrium analysis in the previous lecture can be interpreted as dealing with the demand and supply of risky assets as a whole class. Here we are now asking about the composition of risky asset portfolios: what sort of composition investors would like to have,    and how the market gets these desired portfolio weights in line with the supply of securities actually available. Because we are interested in this compositional question,    we now focus on the relative quantities of risky assets,    expressed as a proportion of the total market capitalization of risky assets that investors demand or that is available as supply.
 
 Supply is then given by the weights of the market portfolio of risky assets. This is the portfolio in which the weight of each asset is equal to ratio of the asset's market capitalization (price times shares outstanding),    mcap $_{i}$,    to the aggregate market capitalization of all risky assets:
 
@@ -742,7 +742,7 @@ The perhaps most striking fact of the portfolio in Figure 2.5 is the high alloca
 
 One percentage point is not much. Recall that in the last lecture we estimated the standard error of the mean returns in the three bond categories and the standard error was roughly one percent for each of them. So in this sensitivity check we are just considering a relatively mild deviation of one standard error.
 
-Subtracting one percentage point from the mean returns of the three bond categories and then recalculating the optimal portfolio yields weights of shown in Figure 2.6a. Comparing with the weights before this modification,    we see a reduction in the allocation to international and corporate bonds,    but,    surprisingly,    an increase in the U.S. Treasury bond allocation. This illustrates how difficult it is to anticipate the change in the optimal portfolio weights that results from changing some of the inputs of the portfolio formula. The overall allocation to bonds of all three categories combined does not seem very sensitive to the potentially too optimistic bond return expectations.
+Subtracting one percentage point from the mean returns of the three bond categories and then recalculating the optimal portfolio yields weights of shown in Figure 2.6a. Comparing with the weights before this modification,    we see a reduction in the allocation to international and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],    but,    surprisingly,    an increase in the U.S. Treasury bond allocation. This illustrates how difficult it is to anticipate the change in the optimal portfolio weights that results from changing some of the inputs of the portfolio formula. The overall allocation to bonds of all three categories combined does not seem very sensitive to the potentially too optimistic bond return expectations.
 
 Another useful sensitivity check can help us understand the conditions that lead to short positions in international stocks in the optimized portfolio. Looking back at Table 2.1 and focusing on the stock asset classes,    we see that the three stocks asset classes - domestic,    international,    and value stocks-have high correlations above 0.60. At the same time,    the mean excess returns are quite different,    with value stocks having about four percentage points higher mean excess returns than international stocks,    and domestic stocks somewhere inbetween. From a portfolio optimization viewpoint,    this looks like an opportunity to construct a position that earns high expected return with
 
@@ -762,7 +762,7 @@ Another way of checking sensitivity is to examine how the optimal weights change
 
 Figure 2.7: Weights of estimated mean-variance efficient portfolio without shrinkage (10 years of data to estimate means and covariances)
 
-Figure 2.7 shows the results. In the latest decade,    the weights are somewhat stable and not too extreme. But in the first decade,    they take extreme values: In the early years we see weights of more than $400/% in corporate bonds and a roughly similarly sized
+Figure 2.7 shows the results. In the latest decade,    the weights are somewhat stable and not too extreme. But in the first decade,    they take extreme values: In the early years we see weights of more than $400/% in [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] and a roughly similarly sized
 
 short position in Treasury bonds. This is effectively an extremely highly levered bet on corporate credit. Based on 10-year lagged data on returns,    and taking these data as the true expected excess returns and covariances,    this looked like an attractive position back then.
 
@@ -780,9 +780,9 @@ The estimation approach we have discussed so far starts from a viewpoint of comp
 
 This doesn't seem quite right. Surely we would think that an expected excess return of,    say,    the domestic stock market in the vicinity of,    say,    $5/% annually in excess of the risk-free rate is more likely than the expected return exceeding $100/% ? It would not make economic sense that expected returns are so high,    as people would have to have crazily high levels of risk aversion for stocks to offer such high rates of expected return. Based on a priori considerations,    before looking at any data,    we would say that such high expected returns are totally implausible. Yet,    if we take the sample average return as the only piece of information about the expected return,    we are not making any use of such prior knowledge that we may have. This prior knowledge may be vague,    but as we will see,    it can still be useful to obtain better estimates of return moments.
 
-The Bayesian branch of statistics offers tools that allow use to describe mathematically how prior knowledge expressed as a probability distribution,    the prior distribution,    can be combined with evidence from data to obtain a posterior distribution that reflects the combined information from the prior and the data. For our purposes here,    we don't have to work through all that math required for working with the full prior and posterior probability distributions. For practical purposes,    we can get quite far by just using a heuristic approach that captures the essence of the Bayesian method for the purpose of choosing portfolios.
+The Bayesian branch of statistics offers tools that allow use to describe mathematically how prior knowledge expressed as a [[Lecture 1- Probability Distributions of Returns|probability distribution]],    the prior distribution,    can be combined with evidence from data to obtain a posterior distribution that reflects the combined information from the prior and the data. For our purposes here,    we don't have to work through all that math required for working with the full prior and posterior [[Lecture 1- Probability Distributions of Returns|probability distribution]]s. For practical purposes,    we can get quite far by just using a heuristic approach that captures the essence of the Bayesian method for the purpose of choosing portfolios.
 
-Let's start with the prior beliefs. Suppose we think,    a priori,    that a reasonable number for expected excess returns of the risky assets under consideration is $5/%. Then,    our prior mean vector (the mean of the prior probability distribution) $\boldsymbol{\mu}_{0}$ is a vector in which all elements are equal to 0.05 . This does not mean at all that we are certain about this number,    but we see it as a reasonable starting point. Bayesian statistics (under the assumption that both the prior distribution and the deviations of realized excess returns from $\boldsymbol{\mu}$ are normally distributed) then tells us that our posterior mean is
+Let's start with the prior beliefs. Suppose we think,    a priori,    that a reasonable number for expected excess returns of the risky assets under consideration is $5/%. Then,    our prior mean vector (the mean of the prior [[Lecture 1- Probability Distributions of Returns|probability distribution]]) $\boldsymbol{\mu}_{0}$ is a vector in which all elements are equal to 0.05 . This does not mean at all that we are certain about this number,    but we see it as a reasonable starting point. Bayesian statistics (under the assumption that both the prior distribution and the deviations of realized excess returns from $\boldsymbol{\mu}$ are normally distributed) then tells us that our posterior mean is
 
 $$
 
@@ -894,7 +894,7 @@ $$
 
 $$
 
-which we can plug into the optimal portfolio choice formula.
+which we can plug into the optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] formula.
 
 So far so good,    but how can all this be useful if we don't know $\phi$ ? We could be pick some value for $\phi$ and hope that it is somewhat plausible. We would want shrinkage to be weak enough to allow Sharpe ratios to vary across asset classes in ranges that seem plausible,    but strong enough to make it very unlikely that we get $\hat{s}_{i}$ that take extreme values like,    say,    $\hat{s}_{i}>5$. We will get to this soon.
 
@@ -1048,7 +1048,7 @@ First,    when we use 20 years of data,    shrinkage doesn't have much of an eff
 
 Second,    if we wish to use shorter estimation windows (perhaps because we think that expected returns and covariances may have changed too much over long periods of time),    shrinkage is important. With 5 -year estimation windows and no shrinkage at all (i.e.,    $\phi=1$ at the right-hand side of the plot) the Sharpe ratio is around zero. In other words,    the portfolio optimization has become useless. In contrast,    with $\phi=0$,    and hence extreme shrinkage,    the 5-year estimation window approach produces Sharpe ratios that are close to the highest possible Sharpe ratios for the 10-year and 20-year estimation windows.
 
-As it turns out,    this extreme shrinkage approach with $\phi=0$ actually leads to an asset allocation strategy that has become quite popular in the past decade or two.
+As it turns out,    this extreme shrinkage approach with $\phi=0$ actually leads to an [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy that has become quite popular in the past decade or two.
 
 ### 2.9 Extreme forms of shrinkage: Risk parity and $1 / \mathrm{N}$
 
@@ -1152,7 +1152,7 @@ Also,    note that I am plotting the risky portfolio weights in (2.18) that are 
 
 In several ways,    these portfolio weights have desirable attributes. There are no huge outliers asking for huge amounts of leverage (portfolio weights in excess of 1.0) or short positions (portfolio weights $<0$ ) that portfolio managers are often reluctant to take. As we saw in Figure 2.7,    this can be very different for optimal weights without shrinkage when a relatively short estimation window of 10 years is used to estimate the inputs for the optimal portfolio weight formula (that make the calculation of the optimal weights far more cumbersome). One way to fix this problem (for a manager who is reluctant to take on leverage and short positions) is to impose additional constraints on the meanvariance optimization problem. But the risk parity strategy delivers moderate weights without having to impose such constraints.
 
-Figure 2.9 also highlights one property that has generated criticism of the risk parity approach: its heavy loading on bonds. As the figure shows,    the three bond asset classes,    U.S. Treasury bonds,    international bonds,    and corporate bonds account for a large share of the total portfolio. The concern is that the strategy has benefitted from the secular decline in interest rates (which lead to high returns for holders of long-term bonds) that took place during the past decades. The performance of a strategy with a high bond exposure in the future may look much less appealing.
+Figure 2.9 also highlights one property that has generated criticism of the risk parity approach: its heavy loading on bonds. As the figure shows,    the three bond asset classes,    U.S. Treasury bonds,    international bonds,    and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] account for a large share of the total portfolio. The concern is that the strategy has benefitted from the secular decline in interest rates (which lead to high returns for holders of long-term bonds) that took place during the past decades. The performance of a strategy with a high bond exposure in the future may look much less appealing.
 
 Another problem that is useful to keep in mind concerns the initial menu of asset classes. The mean-variance optimization approach that takes into account correlations is not as sensitive to the selection of the asset class menu than the risky parity approach. For example,    if we add another asset class to the menu that is very similar in terms of mean return and highly correlated with an asset class that we already have in the menu,    the mean-variance optimal portfolio will tend to reduce the share of the one we already have in the menu and give some of this share to the new asset class,    leaving other asset classes largely unaffected.
 
@@ -1184,7 +1184,7 @@ where $N$ is the number of asset classes. This portfolio formation strategy is c
 
 Figure 2.10: Out-of-sample Sharpe Ratios of different portfolio strategies (10 years of data to estimate return moments)
 
-This may seem like an extremely unsophisticated asset allocation strategy. And in some sense it is. But look at Figure 2.10! The Figure shows the out-of-sample Sharpe ratios of four strategies: (i) no shrinkage at all - this is the portfolio of the 10-year line
+This may seem like an extremely unsophisticated [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy. And in some sense it is. But look at Figure 2.10! The Figure shows the out-of-sample Sharpe ratios of four strategies: (i) no shrinkage at all - this is the portfolio of the 10-year line
 
 for $\phi=1$ in Figure 2.8; (ii) optimal shrinkage of $\phi=0.05$ based on the maximum of the line for 10-year estimation windows in Figure 2.8; (iii) risk parity; (iv) $1 / N$.
 

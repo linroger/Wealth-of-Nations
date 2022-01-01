@@ -1,6 +1,11 @@
 ---
 title: Week 1
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#financial-analysis"
+  - "#valuation-analysis"
+  - "#market-efficiency"
+  - "#ratio-analysis"
 ---
 
 # Week 1

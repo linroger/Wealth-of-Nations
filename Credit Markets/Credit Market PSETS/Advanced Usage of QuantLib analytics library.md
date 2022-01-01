@@ -55,10 +55,10 @@ Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 # Settle_days
 Settle_days = 2
 
-# SOFR OIS swap tenors: 1 Y,             2 Y,             3 Y,             5 Y 7 Y,             10 Y,             20 Y and 30 Y
+# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap tenors: 1 Y,             2 Y,             3 Y,             5 Y 7 Y,             10 Y,             20 Y and 30 Y
 SOFR_tenors = [ql.Period (y,             ql. Years) for y in [1,             2,             3,             5,             7,             10,             20,             30]]
                
-# SOFR OIS swap rates (as of 2023-04-14)
+# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates (as of 2023-04-14)
 SOFR_rates = [4.81,             4.11,             3.73,             3.38,             3.32,             3.26,             3.20,             3.02]
 
 SOFR_OIS_swap_helpers = []

@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_301_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
-- Alias_304_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
+  - Alias_301_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
+  - Alias_304_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#banking"
+  - "#risk-management"
+  - "#financial-analysis"
+  - "#credit-risk"
+  - "#leveraged-loans"
+  - "#capital-ratios"
+  - "#financial-reporting"
 title: PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ---
 
@@ -31,7 +39,7 @@ Use the materials in “Citigroup 2007: Financial Reporting and Regulatory Capit
 			- Trading account assets
 			- Investments
 			- Loans (consumer and corporate)
-			- Goodwill and intangible assets
+			- Goodwill and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets
 			- Deposits (non-interest and interest bearing,  domestic and international)
 			- Federal funds purchased and securities loaned or sold under agreements to repurchase
 			- Trading account liabilities
@@ -48,7 +56,7 @@ Use the materials in “Citigroup 2007: Financial Reporting and Regulatory Capit
 1. What are the main US regulatory capital requirements,  particularly for the Tier 1 Capital ratio? Using Citigroup,  what are the main factors that determine its 2007 Tier 1 Capital ratio?
 	1. The main US regulatory capital ratios are the Tier 1 Capital ratio,  Total Capital ratio,  and the Leverage ratio.
 		1. The Tier 1 ratio calculated as: $$\text{Tier 1 Capital Ratio} = \frac{\text{Tier 1 Capital}} {\text{Risk-Weighted Assets}}$$
-			1. Tier 1 Capital includes common equity,  retained earnings,  and certain preferred stock,  less goodwill and certain other intangible assets. It represents the bank's core capital.
+			1. Tier 1 Capital includes common equity,  retained earnings,  and certain preferred stock,  less [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] and certain other [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets. It represents the bank's core capital.
 			1. Risk-weighted assets are calculated by assigning different risk weights to assets based on their perceived riskiness. For example,  cash has a 0% risk weight while corporate loans have a 100% risk weight.
 			1. Banks must maintain a minimum Tier 1 ratio of 4% to be considered adequately capitalized. Well-capitalized banks generally have Tier 1 ratios of 6% or higher.
 		1. For Citigroup in 2007,  the key factors determining its Tier 1 ratio were:
@@ -56,7 +64,7 @@ Use the materials in “Citigroup 2007: Financial Reporting and Regulatory Capit
 			- Dividends: Payments reduce retained earnings and Tier 1 capital
 			- Changes in risk-weighted assets: Growth in risky assets like loans and trading account assets increases the denominator and lowers the ratio
 			- Issuance or repurchase of common stock and qualifying preferred stock
-			- Goodwill and intangibles: Increases from acquisitions reduce Tier 1 capital
+			- Goodwill and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] : Increases from acquisitions reduce Tier 1 capital
 1. Assume Citigroup experiences continuing losses in its trading account assets in 1Q 2008,  requiring it to decrease the fair value of these assets by $50 billion (net of taxes). How would this fair value decline be recognized in the financial statements? How would this affect the Tier 1 capital ratio?
 	1. A \$50 billion dollar loss would show up as a loss from sale of investments,  reducing revenues. The bank would have to take a write down on its trading account assets,  which would fall from \$ 538, 984 million to \$488, 984 million at the end of Q 1 2008. This decline in assets will reduce the book value of the bank,  with shareholder's equity absorbing the losses. The bank's Tier 1 capital ratio would decline due to the diminution of shareholder's equity. With total Tier 1 common capital of \$118, 758, 000, 000 and total risk weighted assets of \$996, 247, 000, 000 as of the end of FY 2007,  a \$50 billion dollar loss would reduce the tier 1 capital to \$68, 758, 000, 000. This would reduce the Tier 1 Capital ratio to just 6.9017\%,  which would still be above the 6% Tier 1 Capital Ratio requirement.
 
@@ -64,7 +72,7 @@ Suppose Citigroup decides to sell a leveraged loan portfolio to Blackstone. Use 
 
 1. Briefly explain the structure of the deal.
 	- Citigroup sells a $6.11 billion portfolio of leveraged loans to Blackstone and TPG at 83 cents on the dollar.
-	- Citigroup provides $3.81 billion in non-recourse debt financing at LIBOR + 100 bps,  secured by the loan portfolio
+	- Citigroup provides $3.81 billion in non-recourse debt financing at [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] + 100 bps,  secured by the loan portfolio
 	- Blackstone and TPG contribute $1.26 billion in equity and hold the first loss position.
 	- The financing includes a recycling provision,  allowing Blackstone to reinvest proceeds from loan sales in other assets.
 	- A margin call provision requires Blackstone to post additional collateral if the loan portfolio value falls below 66.4% of face value.

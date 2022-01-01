@@ -714,14 +714,14 @@ XX1=CP[0:-1] # see above: Need to select regressor!
 XX=np.vstack([XX0,     XX1]).T
 BB,     tBB,     R2 = regression_35130(YY,     XX)
 plt.plot(XX[:],     YY,     'bo',     XX[:],     XX@BB,     'k-')
-plt.title('Realized 5-year Bond Return vs CP factor')
+plt.title('Realized 5-year Bond Return vs [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor')
 plt.xlabel('5-year forward spread')
 plt.ylabel('realized bond return')
 plt.legend(['data',     'regression fit'])
 
 plt.figure(7)
 plt.plot(DatePlotB[0:-1],     YY,     DatePlotB[0:-1],     XX@BB,     linewidth=2)
-plt.title('5-year Bond Return and Predicted Return from CP factor')
+plt.title('5-year Bond Return and Predicted Return from [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor')
 plt.legend(['lagged realized bond return',     'predicted return'])
 plt.show()
 
@@ -867,7 +867,7 @@ if part2==1:
     H15_SWAPS = H15_SWAPS[II,     :]                # redefine data without NaN's
 
     Dates = H15_SWAPS[:]                # dates
-    LIBOR = H15_SWAPS[:]                # LIBOR rates
+    [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = H15_SWAPS[:]                # [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates
     Repo  = H15_SWAPS[:]                # Repo rates
     Swaps = H15_SWAPS[::11]             # Swap rates across maturity
     CMT   = H15_SWAPS[::]              # US Treasury constant maturity rates
@@ -875,7 +875,7 @@ if part2==1:
     # Creat a plot
     plt.figure(10)
     plt.plot(Swaps[:]-CMT[:],     linewidth=1)       # plot Swap Spread
-    plt.plot(LIBOR-Repo) # plot LIBOR - Repo spread
+    plt.plot(LIBOR-Repo) # plot [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] - Repo spread
     plt.title('5 year Swap Spread and Funding Spread over time')
     plt.legend(('Swap Spread',     'Funding Spread'))
     #plt.show()
@@ -895,7 +895,7 @@ if part2==1:
     ask        = data[:]
     maturity   = data[:]
     AccInt     = data[:]
-    LIBOR      = data[:]
+    [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]]      = data[:]
     Repo       = data[:]
     SWAPS      = data[:,     arange(9,     17)]
     CMT        = data[::]
@@ -921,7 +921,7 @@ if part2==1:
     # Yield to maturity of Note is
     YTM = YTMsolver(PriceTnote[0],     CouponRate,     freq)
 
-    # LIBOR Swap curve at time 0 (this only required for later plot)
+    # [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Swap curve at time 0 (this only required for later plot)
     DataMat   = hstack((0.25,     arange(1,     6),     10,     30))   # maturity points given by data
     IntMat    = arange(0.25,     30+0.25,     0.25)            # desired points on curve to do interpolation
     DataRates = hstack((LIBOR[0],     SWAPS[0,     :]))
@@ -960,8 +960,8 @@ if part2==1:
     ValueTNotes_Today = Tnotes*(PriceTnote[idxToday]+AccInt[idxToday])
     ValueRepo_Today   = ValueTNotes_Today-position
 
-    # to value the old swap,      we must first extract the LIBOR curve
-    # Compute LIBOR Curve Z^{LIBOR}(t;T) by INTERPOLATION
+    # to value the old swap,      we must first extract the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve
+    # Compute [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Curve Z^{LIBOR}(t;T) by INTERPOLATION
     DataMat   = hstack((0.25,     arange(1,     6),     10,     30))   # maturity points given by data
     IntMat    = arange(0.25,     30+0.25,     0.25)            # desired points on curve to do interpolation
     DataRates = hstack((LIBOR[idxToday][0],     SWAPS[idxToday,     :][0,     0,     :]))
@@ -987,7 +987,7 @@ if part2==1:
 
     plt.figure(20)
     plt.plot(IntMat,     LIBOR_Curve_0,     IntMat,     LIBOR_Curve_Today,     '--',     linewidth=2)
-    plt.title('LIBOR curve on Feb 2 and May 18,      2009')
+    plt.title('[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve on Feb 2 and May 18,      2009')
     plt.xlabel('Maturity')
     plt.ylabel('yield')
     plt.legend(('Feb 2,      2009',      'May 8,     2009'))

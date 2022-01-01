@@ -423,7 +423,7 @@ Compare this to the quoted 5-year fixed rate bond which has a much lower convexi
 
 \section*{Part I. Duration Hedging and Factor Neutrality}
 
-For simplicity,    we are going to assume that at the two dates the LIF still has 5 years to maturity. To find the price of the LIF,    we need to find zero coupon prices to discount the cash flows of the security. The $Z$'s are embedded in the yield curve data given so we need to extract them. Unlike homework 2,    this time we cannot proceed by bootstrapping since we do not have price data for bonds of different maturities as of each date. An alternative is to interpolate the zero-coupon yield curve using the data given. Interpolation is fine in this case because these are zero coupon yields,    and so there is no theoretical error in doing this approximation. In Matlab we can do the interpolation as follows:
+For simplicity,    we are going to assume that at the two dates the LIF still has 5 years to maturity. To find the price of the LIF,    we need to find zero coupon prices to discount the cash flows of the security. The $Z$'s are embedded in the yield curve data given so we need to extract them. Unlike homework 2,    this time we cannot proceed by bootstrapping since we do not have price data for bonds of different maturities as of each date. An alternative is to interpolate the [[Lecture 7-Risk and Return of Bonds#7.1 Zero-coupon yield curve|zero-coupon yield curve]] using the data given. Interpolation is fine in this case because these are zero coupon yields,    and so there is no theoretical error in doing this approximation. In Matlab we can do the interpolation as follows:
 
 $$
 Y_{\text{int}} = \text{interp1}(\text{Mat},    \text{yields},    \text{MatInt},    'cubic')
@@ -599,34 +599,34 @@ n & $\alpha$ & $\beta$ & $t(\alpha)$ & $t(\beta)$ & $R^2$ \\
 \caption{Cochrane - Piazzesi Regressions: 1953 - 2023}
 \end{table}
 
-Figures 6 to 8 show the performance of the CP factor to predict the return of a 5-year bond. Note that Figure 8 shows that the expected excess return predicted by CP factor at the end of the sample is negative. That is,    the model implies a negative risk premium on the 5-year bond for the next year.
+Figures 6 to 8 show the performance of the [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor to predict the return of a 5-year bond. Note that Figure 8 shows that the expected excess return predicted by [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor at the end of the sample is negative. That is,    the model implies a negative risk premium on the 5-year bond for the next year.
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{6_image_0.png}
-\caption{Annual Returns of 5-year Bond and CP Factor}
+\caption{Annual Returns of 5-year Bond and [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Factor}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{7_image_0.png}
-\caption{Realized 5-year Bond Return vs 5-year CP Factor}
+\caption{Realized 5-year Bond Return vs 5-year [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Factor}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{8_image_0.png}
-\caption{5-year Bond Return and Predicted Return from CP Factor}
+\caption{5-year Bond Return and Predicted Return from [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Factor}
 \end{figure}
 
 \subsection*{In-Sample vs Out-of-Sample Predictive Regressions (this was not part of the assignment)}
 
-One important issue with the Cochrane - Piazzesi factor compared to Fama - Bliss is that the CP regression is in sample. That is,    the factor CP is first computed with a regression over the overall sample,    and then it is used to predict future bond returns. For the purpose of the paper – namely,    the inference about the existence of a common factor affecting bond returns – the procedure is fine. The objective of investigation in Cochrane and Piazzesi was to discover if there is a common factor affecting all bond expected excess returns. In sample regressions are perfectly fine for this investigation. However,    if we want to have an investment strategy we cannot use an in-sample regression,    but we need an out-of-sample one. One possibility is to use data up to $t$ to compute the CP factor,    and then use data after $t$ for the regression. This can be done. However,    another methodology is to just use the forward rates used by CP to predict future bond returns. That is,    run
+One important issue with the Cochrane - Piazzesi factor compared to Fama - Bliss is that the [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] regression is in sample. That is,    the factor [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] is first computed with a regression over the overall sample,    and then it is used to predict future bond returns. For the purpose of the paper – namely,    the inference about the existence of a common factor affecting bond returns – the procedure is fine. The objective of investigation in Cochrane and Piazzesi was to discover if there is a common factor affecting all bond expected excess returns. In sample regressions are perfectly fine for this investigation. However,    if we want to have an investment strategy we cannot use an in-sample regression,    but we need an out-of-sample one. One possibility is to use data up to $t$ to compute the [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor,    and then use data after $t$ for the regression. This can be done. However,    another methodology is to just use the forward rates used by [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] to predict future bond returns. That is,    run
 
 $$
 LER_t(n) = \alpha + \beta_1 y_t(1) + \beta_2 f_t(3) + \beta_3 f_t(5) + \epsilon_t
 $$
-(we leave out $f_t(2)$ and $f_t(4)$ to avoid multicollinearity). Table 8 reports the result. As can be seen,    using the forward rates has a strong predictive power on future bond returns. That is,    the results of the CP factor are not only due to it being an in-sample predictor,    but there is something in the forward rates that help explain future bond returns.
+(we leave out $f_t(2)$ and $f_t(4)$ to avoid multicollinearity). Table 8 reports the result. As can be seen,    using the forward rates has a strong predictive power on future bond returns. That is,    the results of the [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] factor are not only due to it being an in-sample predictor,    but there is something in the forward rates that help explain future bond returns.
 
 \begin{table}[h!]
 \centering
@@ -769,7 +769,7 @@ Computation gives $y = 3.49\%$,    very close to the constant maturity rate for 
 
 \begin{itemize}
     \item[(a)] Go long the 30-year bond through a repo transaction. In cash flow terms,    pay Repo and receive the treasury coupon.
-    \item[(b)] Enter into a fixed for floating swap in which I receive LIBOR and pay the fixed.
+    \item[(b)] Enter into a fixed for floating swap in which I receive [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and pay the fixed.
 \end{itemize}
 
 The net quarterly cash flows are
@@ -787,7 +787,7 @@ $$
 
 Use the above cash flow equation to get that the first cash-flow realized is $CF (\text{May}) \approx \$305,   774.23$ (for an annualized value of \$1,   223,   096.92 if rates were to hold constant).
 
-The first term in $CF(T_i)$ above is always the same each quarter,    as neither the swap rate nor the coupon of the initial swap and T-note change over time. The second parenthesis is instead reset every 3 months. Still,    the trade would be profitable unless LIBOR dropped to where it was below the repo rate,    which is quite unlikely given the lower risk of collateralized debt. Thus,    the trade locks in the less stable profit,    the SS,    and profits on the stable fact that LIBOR is above repo. See Figure 8 for the historical relationship using 5-year swaps and 5-year coupon bonds.
+The first term in $CF(T_i)$ above is always the same each quarter,    as neither the swap rate nor the coupon of the initial swap and T-note change over time. The second parenthesis is instead reset every 3 months. Still,    the trade would be profitable unless [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] dropped to where it was below the repo rate,    which is quite unlikely given the lower risk of collateralized debt. Thus,    the trade locks in the less stable profit,    the SS,    and profits on the stable fact that [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is above repo. See Figure 8 for the historical relationship using 5-year swaps and 5-year coupon bonds.
 
 \begin{figure}[h!]
 \centering
@@ -797,12 +797,12 @@ The first term in $CF(T_i)$ above is always the same each quarter,    as neither
 
 Figure 9 uses daily data to illustrate the evolution of the LRS side of the trade over the following quarters (for this solution,    the data have been updated to June 2010,    for illustrative purposes). The spread drops substantially—almost half—but is still well above zero. Combined with the locked-in profit on the SS side,    the trade is still generating positive cash-flow.
 
-Given the data provided,    we only have one quarter of data after the position is put on,    so it would seem that we can only calculate one cash flow generated by the trade. However,    we can actually compute the cash flow for August using the data given in May. The SS cash flow is fixed,    and the August LRS cash flow depends on LIBOR and the repo rate quoted one quarter earlier—the floating part resets one quarter before payment. With updated data to June 2010,    we can follow the cash flows all the way to August 2010. Figure 10 displays the cash flows of the trade,    and Figure 11 displays the net cash flows.
+Given the data provided,    we only have one quarter of data after the position is put on,    so it would seem that we can only calculate one cash flow generated by the trade. However,    we can actually compute the cash flow for August using the data given in May. The SS cash flow is fixed,    and the August LRS cash flow depends on [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and the repo rate quoted one quarter earlier—the floating part resets one quarter before payment. With updated data to June 2010,    we can follow the cash flows all the way to August 2010. Figure 10 displays the cash flows of the trade,    and Figure 11 displays the net cash flows.
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{9_image_0.png}
-\caption{Repo and LIBOR Rates}
+\caption{Repo and [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Rates}
 \end{figure}
 
 \begin{figure}[h!]
@@ -833,7 +833,7 @@ where $P_{\text{Fixed}}(0;T)$ is the value of the fixed rate bond implicit in th
 $$
 P_{\text{Fixed}}(T_i;T) = \frac{c_{\text{swap}}}{4} \sum_{j=1}^{n_i} Z_{\text{LIBOR}}(T_i;T_j) + Z_{\text{LIBOR}}(T_i;T_{n_i})
 $$
-If we knew the LIBOR curve $Z_{\text{LIBOR}}(T_i;T_j)$,    we are done. We can use current swap rates to compute the LIBOR curve every $T_i$. Since we only have a sample of swap rates in the data set,    we need to interpolate to a quarterly frequency. After having interpolated,    at every $T_i$ we have a set of swap rates $c_{\text{swap}}(T_i;T_j)$ for maturity $T_j$,    $j = i+1,    i+2,    \ldots$. From the swap rates,    we can finally obtain the LIBOR curve from the following bootstrap procedure
+If we knew the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve $Z_{\text{LIBOR}}(T_i;T_j)$,    we are done. We can use current swap rates to compute the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve every $T_i$. Since we only have a sample of swap rates in the data set,    we need to interpolate to a quarterly frequency. After having interpolated,    at every $T_i$ we have a set of swap rates $c_{\text{swap}}(T_i;T_j)$ for maturity $T_j$,    $j = i+1,    i+2,    \ldots$. From the swap rates,    we can finally obtain the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve from the following bootstrap procedure
 $$
 Z_{\text{LIBOR}}(T_i;T_{i+1}) = \frac{1}{1 + \text{LIBOR}(T_i) \times 0.25}
 $$
@@ -861,7 +861,7 @@ Figure 12 plots the value of the swap and the Treasury (minus Repo) over time. B
 
 \subsection*{4. Arbitrage Opportunity?}
 
-It is important to consider whether the above trade is an arbitrage opportunity. As mentioned earlier,    the cash flows are comprised of two parts,    the SS and LRS. The former is fixed every period,    and we showed that by taking the short end it will be a positive inflow. The LRS varies with changes in LIBOR and the repo,    but we strongly expect LIBOR to always be larger as securitized loans (the repo) are less risky. Thus,    while the amount gained from the LRS varies it is incredibly unlikely it will become negative,    especially so negative as to outweigh the positive flow from the SS position. Thus,    by holding the position to maturity one realizes positive cash flows for 30 years and does not need to worry about possible losses from unwinding early.
+It is important to consider whether the above trade is an arbitrage opportunity. As mentioned earlier,    the cash flows are comprised of two parts,    the SS and LRS. The former is fixed every period,    and we showed that by taking the short end it will be a positive inflow. The LRS varies with changes in [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and the repo,    but we strongly expect [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] to always be larger as securitized loans (the repo) are less risky. Thus,    while the amount gained from the LRS varies it is incredibly unlikely it will become negative,    especially so negative as to outweigh the positive flow from the SS position. Thus,    by holding the position to maturity one realizes positive cash flows for 30 years and does not need to worry about possible losses from unwinding early.
 
 In this view,    the above trade is an arbitrage. However,    this conclusion hinges on the ability to hold the position to maturity. Unwinding the position early could induce significant losses,    as demonstrated above in Figure 13,    due to the fact that the value of the position fluctuates up until maturity where it is known. In fact,    the fluctuating value of the position exposes the trade to margin calls. While the value is fixed at $T = 30$,    in the meantime,    the value could plummet to the point where the margin calls are significant. Thus,    the trade is exposed to funding risk. It is likely that this funding risk is what kept traders from exploiting the apparent arbitrage in February. Given the financial turmoil,    few were willing to deal with the potential margin calls and possible short-term losses even though they were assured profits in the long run.
 
@@ -915,7 +915,7 @@ $$
 Clearly,    there are important issues here:
 \begin{itemize}
     \item The interpolation is only approximate. We normally have far more data to do this.
-    \item We have anchored the swap curve with the one-month LIBOR curve. LIBOR is for uncollateralized borrowing – and thus is risky – while swaps now are fully collateralized,    and thus there is less risk.
+    \item We have anchored the swap curve with the one-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve. [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is for uncollateralized borrowing – and thus is risky – while swaps now are fully collateralized,    and thus there is less risk.
 \end{itemize}
 
 \subsection*{3. Forward Rates}
@@ -988,7 +988,7 @@ Total & & & & & 0.25403 \\
 \end{table}
 
 \subsection*{5. Swaption Calculation}
-The swaption uses a similar strategy. We have to compute the LIBOR curve up to year 5 to compute the discounts $Z(0,    T_i)$.
+The swaption uses a similar strategy. We have to compute the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve up to year 5 to compute the discounts $Z(0,    T_i)$.
 
 From the teaching notes,    we have to compute the quantity:
 $$
@@ -1580,7 +1580,7 @@ $$
 
 We want to price the Ginnie Mae Pass-Through security GNSF 4,    which on November 1,    2014,    was trading at \$106.5781. This pass-through security was collateralized by a pool of mortgages with a weighted average coupon (WAC) = 4.492\%,    and a weighted average maturity (WAM) = 311 (months). We proceed as follows:
 
-1. Compute Forward Volatilities from Cap Volatility Quotes: The software was set up to compute both the LIBOR curve from the swap data and the forward volatilities from the available cap volatilities. Figure 1 plots the LIBOR curve and the Forward Curve,    quarterly compounded. Instead,    Figure 2 plots the forward and flat volatility. As it can be seen,    the data are rather sparse,    and so interpolation methods are required. Moreover,    we can also see a couple of “humps” in the volatility,    around maturity of 7 years and 10 years. These humps may be artificial data errors,    such as stale quotes. The impact on the flat volatility is not that big,    but the impact on the forward volatilities – those that need to be entered in the binomial tree – is substantial. The reason is that the flat volatility can be thought of as an average of forward volatilities. It follows that forward volatilities are sort of marginal values of the flat volatilities. Thus,    little variation of an average (flat vol) implies large variation of the marginal value (forward volatility),    as it is apparent from the plot. Some smoothing of the data in this case would be warranted,    to eliminate the noise in the data.
+1. Compute Forward Volatilities from Cap Volatility Quotes: The software was set up to compute both the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve from the swap data and the forward volatilities from the available cap volatilities. Figure 1 plots the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve and the Forward Curve,    quarterly compounded. Instead,    Figure 2 plots the forward and flat volatility. As it can be seen,    the data are rather sparse,    and so interpolation methods are required. Moreover,    we can also see a couple of “humps” in the volatility,    around maturity of 7 years and 10 years. These humps may be artificial data errors,    such as stale quotes. The impact on the flat volatility is not that big,    but the impact on the forward volatilities – those that need to be entered in the binomial tree – is substantial. The reason is that the flat volatility can be thought of as an average of forward volatilities. It follows that forward volatilities are sort of marginal values of the flat volatilities. Thus,    little variation of an average (flat vol) implies large variation of the marginal value (forward volatility),    as it is apparent from the plot. Some smoothing of the data in this case would be warranted,    to eliminate the noise in the data.
 
 2. Fit the BDT model to the discount curve and forward volatilities. The next step is to fit the BDT model. Both the Matlab code and Excel spreadsheet guides were set up to do this automatically. The algorithm is described in Teaching Notes 5,    but essentially,    the methodology ensures that the tree is consistent with the current yield curve and the option implied,    percent volatilities obtained above. Because the coupons will be paid monthly,    we would need to have the binomial tree be calibrated at the monthly frequency,    that is,    $\Delta t = 1/12$. While this could be done easily in the code,    it adds one more step (interpolation of zero-coupon and implied volatilities at the monthly horizon) and it adds quite a bit of computation time. We therefore keep the assumption $\Delta t = 0.25$,    for simplicity. Table 1 contains the results of the binomial tree. The BDT model fits well the current zero coupon curve,    as shown in Figure 3.
 

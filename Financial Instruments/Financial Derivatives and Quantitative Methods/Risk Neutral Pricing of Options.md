@@ -1,6 +1,19 @@
 ---
+aliases: 
+tags:
+  - "#quantitative-finance"
+  - "#financial-derivatives"
+  - "#risk-management"
+  - "#option-pricing"
+  - "#derivative-strategies"
+  - "#binomial-model"
+cssclasses:
+  - academia
 title: Risk Neutral Pricing of Options
 ---
+ 
+[[Risk Neutral Pricing of Options|Risk Neutral Pricing]]
+
 # Risk Neutral Pricing of Options
 # Options
 
@@ -28,19 +41,19 @@ Let $X$ be the exercise price and $S_{T}$ the price of the underlying stock at t
 
 $$p_T=\left\{\begin{array}{ll}X-S_T&\text{if}S_T\leq X\\0&\text{if}S_T>X.\end{array}\right.$$
 
-For more simply $p_{T}=\operatorname*{max}[X-S_{T},  0]$. If $S_{T}<X$, then the put is said to finish in-the-money and the option will be exercised. The holder of this option will buy the underlying stock at a price of $S_{T}$ and exercise their right to sell it to the writer at the strike price of $X$ to make a profit of $X-S_{T}$. If $S_{T}>X$, the option is said to finish out-of-the-money and exercising the right to sell the underlying asset would result in a loss. So the right to sell won't be exercised. The payoff will be zero in this case. Hence,  with an option,  the payoff is never negative. Assets with non-negative payoffs are known as limited liability assets.
+For more simply $p_{T}=\operatorname*{max}[X-S_{T},    0]$. If $S_{T}<X$,  then the put is said to finish in-the-money and the option will be exercised. The holder of this option will buy the underlying stock at a price of $S_{T}$ and exercise their right to sell it to the writer at the strike price of $X$ to make a profit of $X-S_{T}$. If $S_{T}>X$,  the option is said to finish out-of-the-money and exercising the right to sell the underlying asset would result in a loss. So the right to sell won't be exercised. The payoff will be zero in this case. Hence,  with an option,  the payoff is never negative. Assets with non-negative payoffs are known as limited liability assets.
 
-Suppose that you hold a put option on a stock $PDQ$. The exercise price is 1000 and the expiration date is in four weeks. The current stock price of $PDQ$ is 1109. If the stock is still at 1109 in four weeks’ time,  you may let the option expire without exercising your right to sell at 1000. If you exercised your right to sell,  you would have to deliver the stock,  which would cost you 1109,  and you would receive only 1000 in return. Clearly,  exercising the option to sell would result in a loss. You will not exercise,  and your payoff is $\operatorname*{max}[X-S_{T},  0]=\operatorname*{max}[1000-1109,  0]=0$. However,  if $PDQ$ does badly and the stock price falls to 900 after four weeks,  you,  as the holder of the put option,  will do well. In that case,  you can exercise your right to sell,  buying the stock at the reduced price of 900 and selling it to the holder at 1000. The payoff at maturity is $\operatorname*{max}[X-S_{T},  0]=\operatorname*{max}[1000-900,  0]=100$ per unit.
+Suppose that you hold a put option on a stock $PDQ$. The exercise price is 1000 and the expiration date is in four weeks. The current stock price of $PDQ$ is 1109. If the stock is still at 1109 in four weeks’ time,  you may let the option expire without exercising your right to sell at 1000. If you exercised your right to sell,  you would have to deliver the stock,  which would cost you 1109,  and you would receive only 1000 in return. Clearly,  exercising the option to sell would result in a loss. You will not exercise,  and your payoff is $\operatorname*{max}[X-S_{T},    0]=\operatorname*{max}[1000-1109,    0]=0$. However,  if $PDQ$ does badly and the stock price falls to 900 after four weeks,  you,  as the holder of the put option,  will do well. In that case,  you can exercise your right to sell,  buying the stock at the reduced price of 900 and selling it to the holder at 1000. The payoff at maturity is $\operatorname*{max}[X-S_{T},    0]=\operatorname*{max}[1000-900,    0]=100$ per unit.
 
 Equally,  the payoff to the holder of a call option is
 
 $$c_T=\left\{\begin{array}{ll}0&\text{if}S_T\leq X\\S_T-X&\text{if}S_T>X.\end{array}\right.$$
 
-For more simply,  $c_{T}=\max[0,  S_{T}-X]$. In this case,  the call finishes in the money if $S_{T}>X$ as the option holder can exercise the right to buy the underlying asset at a price of $X$ when it is worth the greater amount $S_{T}$. If $S_{T}\leq X$ ,  the call option finishes out of the money,  and the right to buy will go unexercised.
+For more simply,  $c_{T}=\max[0,    S_{T}-X]$. In this case,  the call finishes in the money if $S_{T}>X$ as the option holder can exercise the right to buy the underlying asset at a price of $X$ when it is worth the greater amount $S_{T}$. If $S_{T}\leq X$ ,  the call option finishes out of the money,  and the right to buy will go unexercised.
 
-The writer of the call option has exactly the reverse of the payoff to the holder. The writer of the call has a payoff of $-c_{T}$ = $- \max [ 0,  S_{T}X]$ = $\operatorname*{min}[0,  X-S_{T}]$. When the option is exercised,  the writer will have to deliver a stock worth $S_{T}$ and receives a payment of $X$ from the holder. Since $S_{T}>X$,  the writer makes a loss of $X-S_{T}$. Likewise,  the payoff at maturity to the writer of a put option is $-p_{T}=-\operatorname*{max}[X-S_{T},  0]=\operatorname*{min}[S_{T}-X,  0]$.
+The writer of the call option has exactly the reverse of the payoff to the holder. The writer of the call has a payoff of $-c_{T}$ = $- \max [ 0,    S_{T}X]$ = $\operatorname*{min}[0,    X-S_{T}]$. When the option is exercised,  the writer will have to deliver a stock worth $S_{T}$ and receives a payment of $X$ from the holder. Since $S_{T}>X$,  the writer makes a loss of $X-S_{T}$. Likewise,  the payoff at maturity to the writer of a put option is $-p_{T}=-\operatorname*{max}[X-S_{T},    0]=\operatorname*{min}[S_{T}-X,    0]$.
 
-The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus,  the intrinsic value of the call option at time $t$ is $\operatorname*{max}[0,  S_{t}-X]$ where $S_{t}$ is the current price of the underlying asset,  and the intrinsic value of a put option is $\operatorname*{max}[X-S_{t},  0]$.
+The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus,  the intrinsic value of the call option at time $t$ is $\operatorname*{max}[0,    S_{t}-X]$ where $S_{t}$ is the current price of the underlying asset,  and the intrinsic value of a put option is $\operatorname*{max}[X-S_{t},    0]$.
 
 An American option will always trade at a price at or above its intrinsic value since with an American option,  it is always possible to exercise the
 
@@ -153,7 +166,7 @@ Three things are immediately obvious from this table. First,  the option prices 
 
 For a given strike price,  the table shows that the price of calls increases with the date to maturity. That is,  $C_{t}(T_{2})\geq C_{t}(T_{1})$ for $T_{2}>T_{1}$,  where $C_{t}(T_{1})$ is the price of an American call option at date $t$ that matures at date $T_{1}$,  and $C_{t}(T_{2})$ is an option of the same type and class and with the same strike price but with a longer maturity. 1 From the table,  we can see that August calls on Tesco stock with a strike price of 160 trade at 27,  but the longer maturity November calls trade at 31. There would be a simple arbitrage opportunity if $C_{t}(T_{1})>C_{t}(T_{2})$ for $T_{2}>T_{1}$. Suppose that the prices were reversed and the
 
-November call on Tesco trades at 27,  and the August call trades at 31. Then,  buying the lower-priced November call and writing the August call yields a net inflow of 4 today. Either the August call expires or is exercised prior to maturity. In either case,  its value is $\operatorname*{max}[0,  S_{t^{\prime}}-X]$ where $t^{\prime}$ is the maturity date in August or some time prior to the maturity date when the call is exercised. The value of the position is $C_{t^{\prime}}(Nov)-\operatorname*{max}[0,  S_{t^{\prime}}-X]$ . If this is positive,  then sell the November call at date $t^{\prime}$ to make a profit. Otherwise,  exercise the November call. Exercising the call yields the same value of $\operatorname*{max}[0,  S_{t^{\prime}}-X]$ no matter what the maturity date. So,  there is a completely offsetting gain from the bought November call and the written August call. In either case,  an arbitrage profit has been made. Note that this does not say anything about how the call value changes over time until maturity. It only compares prices at a particular date of options with different expiration dates. Neither does the argument work for European options,  which cannot be exercised early. However,  as an empirical matter,  European options do demonstrate the same pattern of prices rising with date to maturity.
+November call on Tesco trades at 27,  and the August call trades at 31. Then,  buying the lower-priced November call and writing the August call yields a net inflow of 4 today. Either the August call expires or is exercised prior to maturity. In either case,  its value is $\operatorname*{max}[0,    S_{t^{\prime}}-X]$ where $t^{\prime}$ is the maturity date in August or some time prior to the maturity date when the call is exercised. The value of the position is $C_{t^{\prime}}(Nov)-\operatorname*{max}[0,    S_{t^{\prime}}-X]$ . If this is positive,  then sell the November call at date $t^{\prime}$ to make a profit. Otherwise,  exercise the November call. Exercising the call yields the same value of $\operatorname*{max}[0,    S_{t^{\prime}}-X]$ no matter what the maturity date. So,  there is a completely offsetting gain from the bought November call and the written August call. In either case,  an arbitrage profit has been made. Note that this does not say anything about how the call value changes over time until maturity. It only compares prices at a particular date of options with different expiration dates. Neither does the argument work for European options,  which cannot be exercised early. However,  as an empirical matter,  European options do demonstrate the same pattern of prices rising with date to maturity.
 
 Equally clear is that a call with a lower strike price must command a higher price. Thus,  $C_{t}(X_{1})\geq C_{t}(X_{2})$ if $X_{2}>X_{1}$ . This can be seen from Table 1. For example,  May calls on Rolls-Royce with a strike price of 200 are worth 11,  but the May calls with the lower strike price of 180 are worth 22. This is simply because the call gives the holder the option to buy,  and the lower the exercise price at which the stock can be bought,  the more valuable is the option. If this were not true and $C_{t}( X_{1})$ < $C_{t}( X_{2})$ for $X_{2}>X_{1}$,  then there is an arbitrage opportunity,  and the appropriate response is a bull spread. The payoffs can be seen in Table 2. This strategy buys the call with the lower strike price of $X_{1}$ and writes the call with the higher strike price of $X_{2}$,  leading to a cash inflow now of $C_{t}(X_{2})-C_{t}(X_{1})>0$ . In each case,  the payoff at maturity is non-negative. Thus,  for European options,  $c_{t}(X_{1})\geq c_{t}(X_{2})$ for $X_{2}>X_{1}$. Equally,  suppose the options are of the American type. Then,  if the written option is exercised early,  the holder of that option will pay us $X_{2}$ for the stock. If we exercise the bought option immediately,  the stock can be
 
@@ -190,7 +203,7 @@ Table 2: Bull Spread
 
 Bought for $X_{1}$ and then sold for $X_{2}$,  leading to a profit of $X_{2}-X_{1}$. Hence,  we have for American options $C_{t}(X_{1})\geq C_{t}(X_{2})$ for $X_{2}>X_{1}$.
 
-Another property that we can see from the table is that the differences in the call or put option prices for a given stock and maturity date are less than the difference between the strike prices. For example,  the difference in the option prices for November calls on Tesco stock is 31-23=8,  which is less than the difference in strike prices,  which is 180-160=20. Thus,  for call options,  we have $C_{t}(X_{1})-C_{t}(X_{2})\leq X_{2}-X_{1}$ for $X_{2}>X_{1}$. Indeed,  if this were not the case and $C_{t}(X_{1})-C_{t}(X_{2})>X_{2}-X_{1}$,  there would again be an arbitrage opportunity. The strategy to exploit the arbitrage opportunity would be a bear spread where the option with the higher strike price is purchased,  and the lower strike price option is sold,  together saving the difference in the strike prices,  that is,  buying $(X_{2}-X_{1})$ risk-free bonds with maturity at date $T$ and an interest rate of 7 between the current date $t$ and the maturity date. The payoffs from this strategy are given in Table 3,  and the payoff is always positive at maturity,  and so the value of the portfolio $V_{t}$ must itself be positive. Thus,  for European options,  $V_{t}=c_{t}(X_{2})-c_{t}(X_{1})+(X_{2}-X_{1})>0$. If the options are American,  the value of the portfolio is $V_{t}$ = $C_{t}( X_{2})$ - $C_{t}(X_{1})+(X_{2}-X_{1})>0$,  but we need to decide what to do if the written call is exercised prior to maturity. Suppose it is exercised at time $t^{\prime}$ when the stock price is $S_{t^r}$. To meet our obligations on the written call,  we must buy the stock at $S_{t^{\prime}}$ and sell it at $X_{1}$. The purchased call is worth $C_{t^{\prime}}(X_{2})$ at time $t^{\prime}$. If $C_{t^{\prime}}(X_{2})>S_{t^{\prime}}-X_{2}$, then we simply sell our call to cover our obligation and make a net profit and,  in addition,  have our risk-free bonds. If
+Another property that we can see from the table is that the differences in the call or put option prices for a given stock and maturity date are less than the difference between the strike prices. For example,  the difference in the option prices for November calls on Tesco stock is 31-23=8,  which is less than the difference in strike prices,  which is 180-160=20. Thus,  for call options,  we have $C_{t}(X_{1})-C_{t}(X_{2})\leq X_{2}-X_{1}$ for $X_{2}>X_{1}$. Indeed,  if this were not the case and $C_{t}(X_{1})-C_{t}(X_{2})>X_{2}-X_{1}$,  there would again be an arbitrage opportunity. The strategy to exploit the arbitrage opportunity would be a bear spread where the option with the higher strike price is purchased,  and the lower strike price option is sold,  together saving the difference in the strike prices,  that is,  buying $(X_{2}-X_{1})$ risk-free bonds with maturity at date $T$ and an interest rate of 7 between the current date $t$ and the maturity date. The payoffs from this strategy are given in Table 3,  and the payoff is always positive at maturity,  and so the value of the portfolio $V_{t}$ must itself be positive. Thus,  for European options,  $V_{t}=c_{t}(X_{2})-c_{t}(X_{1})+(X_{2}-X_{1})>0$. If the options are American,  the value of the portfolio is $V_{t}$ = $C_{t}( X_{2})$ - $C_{t}(X_{1})+(X_{2}-X_{1})>0$,  but we need to decide what to do if the written call is exercised prior to maturity. Suppose it is exercised at time $t^{\prime}$ when the stock price is $S_{t^r}$. To meet our obligations on the written call,  we must buy the stock at $S_{t^{\prime}}$ and sell it at $X_{1}$. The purchased call is worth $C_{t^{\prime}}(X_{2})$ at time $t^{\prime}$. If $C_{t^{\prime}}(X_{2})>S_{t^{\prime}}-X_{2}$,  then we simply sell our call to cover our obligation and make a net profit and,  in addition,  have our risk-free bonds. If
 
 <table>
 	<tbody>
@@ -315,13 +328,13 @@ There are basically three varieties of trading strategies. A hedge combines an o
 
 ## A hedge
 
-Suppose that you write a call option. The payoff to a call option at maturity is $\operatorname*{max}[0,  S_{T}-X]$ where $X$ is the strike price and $S_{T}$ is the price of the underlying at maturity. Your payoff at maturity having written the call is therefore min $[0,  X-S_{T}]$ . If the price of the underlying rises above the strike price,  you will make a loss. Moreover,  these losses are potentially unlimited.
+Suppose that you write a call option. The payoff to a call option at maturity is $\operatorname*{max}[0,    S_{T}-X]$ where $X$ is the strike price and $S_{T}$ is the price of the underlying at maturity. Your payoff at maturity having written the call is therefore min $[0,    X-S_{T}]$ . If the price of the underlying rises above the strike price,  you will make a loss. Moreover,  these losses are potentially unlimited.
 
 If the price rises far above the strike price,  you are in a very exposed position. You may want to hedge or cover this risk. The obvious way to do so is to buy the stock,  which you will be obliged to deliver if the call is exercised. Taking a long position in the stock to hedge a written call is known as writing a covered call.
 
-The payoff at maturity to writing a covered call is $\operatorname*{min}[S_{T},  X]$ . This is far less risky than the naked short position in the call itself,  as now the worst that can happen is that you sell the underlying at a price below its market value. Of course,  the hedged position is costly; it costs $S_{t}-c_{t}$, whereas the naked position has a positive initial inflow of cash of $Ct$,  the price of the call option.
+The payoff at maturity to writing a covered call is $\operatorname*{min}[S_{T},    X]$ . This is far less risky than the naked short position in the call itself,  as now the worst that can happen is that you sell the underlying at a price below its market value. Of course,  the hedged position is costly; it costs $S_{t}-c_{t}$,  whereas the naked position has a positive initial inflow of cash of $Ct$,  the price of the call option.
 
-Likewise,  if you buy a put option,  there will be a loss if the price of the underlying rises equal to the cost of the put option,  $p_{t}$. The payoff at maturity will be $\max[0,  X-S_{T}]$. However,  you will have to buy the stock if you wish to exercise the right to sell at the strike price,  $X$. Thus,  you may wish to buy the stock in advance at the cost of $S_{t}$. In this case,  the payoff at maturity is $\max[S_{T},  X]$ and the initial cost is $S_{t}+p_{t}$. Going long in the put and the stock is known as a protective put strategy.
+Likewise,  if you buy a put option,  there will be a loss if the price of the underlying rises equal to the cost of the put option,  $p_{t}$. The payoff at maturity will be $\max[0,    X-S_{T}]$. However,  you will have to buy the stock if you wish to exercise the right to sell at the strike price,  $X$. Thus,  you may wish to buy the stock in advance at the cost of $S_{t}$. In this case,  the payoff at maturity is $\max[S_{T},    X]$ and the initial cost is $S_{t}+p_{t}$. Going long in the put and the stock is known as a protective put strategy.
 
 ## A spread
 
@@ -421,7 +434,7 @@ $$c_t - p_t=E[k\cdot(S_T - X)]=E[k\cdot S_T] - XE[k]= S_t - \frac{X}{(1+r)}$$
 
 since by definition,  the appropriately discounted value of the stock price at time $T$ is the stock price now,  $S_t$ ,  and $E[k]$ is the appropriate discount factor. Again,  we have the same put-call parity condition.
 
-To labour the point once more,  remember that the payoff at maturity from writing a covered call is $\operatorname*{min}[S_{T},  X]$. Suppose that in addition,  you go short in a risk-free bond with a face value of $X$. The overall payoff at maturity is $\operatorname*{min}[S_{T}-X,  0]$ ,  the same as writing a put option. The value of this portfolio is $S_{t}-c_{t}-\frac{X}{(1+r)}$ ,  which must equal the value of writing the put option,  $-p_{t}$.
+To labour the point once more,  remember that the payoff at maturity from writing a covered call is $\operatorname*{min}[S_{T},    X]$. Suppose that in addition,  you go short in a risk-free bond with a face value of $X$. The overall payoff at maturity is $\operatorname*{min}[S_{T}-X,    0]$ ,  the same as writing a put option. The value of this portfolio is $S_{t}-c_{t}-\frac{X}{(1+r)}$ ,  which must equal the value of writing the put option,  $-p_{t}$.
 
 # 3 Arbitrage Bounds
 
@@ -429,7 +442,7 @@ We will now consider the payoff to the option prior to maturity. We will establi
 
 The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus,  the intrinsic
 
-value of the call option at time $t$ is $\operatorname*{max}[0,  S_{t}-X]$ where $St$ is the current price of the underlying asset,  and the intrinsic value of a put option is $\max[X-S_{t},  0]$.
+value of the call option at time $t$ is $\operatorname*{max}[0,    S_{t}-X]$ where $St$ is the current price of the underlying asset,  and the intrinsic value of a put option is $\max[X-S_{t},    0]$.
 
 An American option will always trade at a price at or above its intrinsic value since,  with an American option,  it is always possible to exercise the option now and realise the intrinsic value. The difference between the price of an option and its intrinsic value is known as the premium or time value of the option. Thus,  the price of an option is the sum of its intrinsic value plus its premium
 
@@ -437,13 +450,13 @@ $$\text{price of option}=\text{intrinsic value}+\text{time value}.$$
 
 If an option is initially set up at the money,  $S_{0}=X$,  then the intrinsic value of the option is 0,  and the premium and price are equivalent. This accounts for why the option price is sometimes referred to as the premium. We will use the term time value to avoid confusion.
 
-A European call option also has a positive time value. That is,  the price of a European call option cannot be less than its intrinsic value. Remember that the payoff to the call option is $Max[S_{T}-X,  0]$ .The call can be valued using the stochastic discount factors $k$ .Thus the value of the call option at time $t$ is $c_{t}=E[k\cdot Max[S_{T}-X,  0]]$ . Clearly
+A European call option also has a positive time value. That is,  the price of a European call option cannot be less than its intrinsic value. Remember that the payoff to the call option is $Max[S_{T}-X,    0]$ .The call can be valued using the stochastic discount factors $k$ .Thus the value of the call option at time $t$ is $c_{t}=E[k\cdot Max[S_{T}-X,    0]]$ . Clearly
 
 $$c_t\ge E[k\cdot(S_T-X)]=E[k\cdot S_T]-XE[k]=S_t-\frac{X}{(1+r)}$$
 
-where the first inequality comes from the definition of the maximum and the other equalities follow as $E[k\cdot S_{T}]=S_{t}$ 1,  the stochastically discounted value of the stock at maturity is its current value,  and the fact that $E[k]=\frac{1}{(1+r)}$ Equally since $S_{T}\geq0$ and $X\geq0$ ,  it follows that $Max[S_{T}-X,  0]\leq S_{T}$；so $c_{t}\leq E[k\cdot S_{T}]=S_{t}$ .Since the call cannot command a negative price we have for the arbitrage bounds for a call option
+where the first inequality comes from the definition of the maximum and the other equalities follow as $E[k\cdot S_{T}]=S_{t}$ 1,  the stochastically discounted value of the stock at maturity is its current value,  and the fact that $E[k]=\frac{1}{(1+r)}$ Equally since $S_{T}\geq0$ and $X\geq0$ ,  it follows that $Max[S_{T}-X,    0]\leq S_{T}$；so $c_{t}\leq E[k\cdot S_{T}]=S_{t}$ .Since the call cannot command a negative price we have for the arbitrage bounds for a call option
 
-$$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},  0\right].$$
+$$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},    0\right].$$
 
 <table>
 	<tbody>
@@ -476,7 +489,7 @@ $$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},  0\right].$$
 
 Since the strike price on the RHS is discounted we have $\frac{X}{(1+r)}<X$ ,  so that
 
-$$c_t\ge\max\left[S_t-\frac{X}{(1+r)},  0\right]>\max[S_t-X,  0]$$
+$$c_t\ge\max\left[S_t-\frac{X}{(1+r)},    0\right]>\max[S_t-X,    0]$$
 
 for $t<T$ and $r>0$ ,  so the European call has a value greater than its intrinsic value at any date prior to maturity.
 
@@ -532,13 +545,13 @@ An American option cannot be less valuable than the equivalent European option a
 
 The qualification that the underlying asset should be non-dividend-paying is important. It may be optimal to exercise an American option early if the underlying asset is a dividend-paying stock. Let $D_{t}$ denote the present value of dividends paid on the underlying during the remainder of the option’s life. Then the lower bound for the call option is $S_{t}-D_{t}-\frac{X}{(1+r)}$. If $D_{t}$ is large enough,  then this lower bound can be below the intrinsic value of $S_{t}-X$. In this case,  it may be optimal to exercise early. To take an extreme case,  suppose that the call is in the money but the firm on which the option is written is unexpectedly to be liquidated and all the asset value is to be paid out in dividends. Then after the dividend payment,  the stock is worthless and the call option can never be in the money. In this case,  it is best to exercise early and take the positive value of exercise now.
 
-By analogy,  the arbitrage bounds for a European put option on a non-dividend-paying stock with a payoff of $Max[X-S_{T},  0]$ are
+By analogy,  the arbitrage bounds for a European put option on a non-dividend-paying stock with a payoff of $Max[X-S_{T},    0]$ are
 
-$$X\ge p_t\ge\max\left[\frac{X}{(1+r)}-S_t,  0\right].$$
+$$X\ge p_t\ge\max\left[\frac{X}{(1+r)}-S_t,    0\right].$$
 
 Note that an American put option cannot be less than its intrinsic value,  so the arbitrage bounds for an American put option are
 
-$$X\geq P_t\geq\max[X-S_t,  0].$$
+$$X\geq P_t\geq\max[X-S_t,    0].$$
 
 For an American put option,  early exercise can be optimal even if the underlying asset pays no dividends. To take an extreme example,  suppose that $S_{t}=0$ but $X>0$. It is impossible to gain more by waiting since the stock price cannot fall further. In addition,  the gain to be had by waiting is discounted at the risk-free rate,  and if the interest rate is positive,  it is better to exercise now rather than wait. If exercise is ever optimal before maturity,  then $P_{t}=X-S_{t}$ since if $P_{t}>X-S_{t}$ it would be better to sell the option rather than exercise it.
 
@@ -633,7 +646,7 @@ $$300-4 c=180.$$
 
 So solving for the call price gives $c=30$. This shows that the $\Delta$ -hedge can be used to price the option.
 
-The same procedure can be generalized. Let S be the value of the underlying stock,  so its terminal value is $S_{u}=(1+u) S$ in the up state and $S_{d}=(1+d) S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0,  S_{u}-K]$ be the value of the call option in the up state and
+The same procedure can be generalized. Let S be the value of the underlying stock,  so its terminal value is $S_{u}=(1+u) S$ in the up state and $S_{d}=(1+d) S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0,    S_{u}-K]$ be the value of the call option in the up state and
 
 <table>
 	<tbody>
@@ -666,12 +679,14 @@ The same procedure can be generalized. Let S be the value of the underlying stoc
 
 Table 1: Risk-Free Portfolio - Example
 
-$c_{d}=\operatorname*{max}[0,  S_{d}-K]$ is the value of the call option in the down state. Remember,  that the call option gives us the right to buy the underlying at a price of $K$, so for example in the up state when the stock is worth $S_{u}$ the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
+$c_{d}=\operatorname*{max}[0,    S_{d}-K]$ is the value of the call option in the down state. Remember,  that the call option gives us the right to buy the underlying at a price of $K$,  so for example in the up state when the stock is worth $S_{u}$ the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
 
 Now consider the $\Delta$ -hedge portfolio that writes one call and buys $\Delta$ units of the underlying. The payoffs from this portfolio are given in Table 2. The value of $\Delta$ is chosen so that the portfolio is riskless,  $\Delta S_{d}-c_{d}=\Delta S_{u}-c_{u}$ i.e.
+
 $$\Delta=\frac{c_u-c_d}{S_u-S_d}=\frac{c_u-c_d}{(u-d) S}.$$
 
 The value of the risk-free portfolio is evaluated at the risk-free rate of interest 7% ,  so that
+
 $$\Delta S-c=\frac{\Delta S_d-c_d}{(1+r)}.$$
 
 Using the value of $\Delta$ just derived,  and substituting $(1+d) S$ for $S_{d}$ and solving for $C$ gives after some manipulation
@@ -761,23 +776,37 @@ $$75\Delta+(1+1/4) B=0.$$
 Solving these two equations simultaneously gives $\Delta=3/4$ and $B$ = -45. Thus,  the option can be replicated by borrowing 45 and buying $\frac{3}{4}$ units of the stock. Since the stock costs 100,  the cost of buying 3/4 of a unit of stock is 75. Thus,  the net cost of synthesizing the option is the price we pay minus the amount borrowed,  75-45=30. Again,  the portfolio that replicates or synthesizes the call must have the same price as the call itself. Hence,  $c=30$ and we reach exactly the same conclusion as before. The payoffs are summarized in Table 3.
 
 Again,  it is simple to generalize this procedure. To find the number of shares to be bought $\Delta$ and the amount to invest $B$ to synthesize the option,  it is only necessary to solve simultaneously the following two equations:
+
 $$\begin{array}{c}\Delta S_u+(1+r) B=c_u\\\\\Delta S_d+(1+r) B=c_d.\end{array}$$
+
 Solving these two equations gives
+
 $$\Delta=\frac{c_u-c_d}{S_u-S_d}$$
+
 and
+
 $$B=\frac{1}{1+r}(c_d-\Delta S_d)=\frac{1}{1+r}\left (c_d-\frac{(1+d) S (c_u-c_d)}{(S_u-S_d)}\right).$$
-This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$. The value of the call in the up state is $c_{u}=S_{u}-K$ and this is illustrated on the vertical axis. Also drawn is the line connecting the two points $(S_{d},  c_{d})$ and $(S_{u},  c_{u})$. The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r) B$. It can be seen that the line is never downward sloping,  so $\Delta\geq 0$ and the slope is always less than $45^{o}$. So $\Delta\leq 1$. The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset).
+
+This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$. The value of the call in the up state is $c_{u}=S_{u}-K$ and this is illustrated on the vertical axis. Also drawn is the line connecting the two points $(S_{d},    c_{d})$ and $(S_{u},    c_{u})$. The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r) B$. It can be seen that the line is never downward sloping,  so $\Delta\geq 0$ and the slope is always less than $45^{o}$. So $\Delta\leq 1$. The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset).
 
 The cost of synthesizing the option is the cost of the portfolio of $\Delta$ units of the shares and investing $B$ in bonds.
+
 $$c=\Delta S+B=\frac{pc_u+(1-p) c_d}{(1+r)}.$$
+
 Where $p=(r-d)/(u-d)$ exactly as before.
 
 ### Risk Neutral Pricing
+
 The previous two subsections have derived a simple expression for the price of the call option.
+
 $$c=\frac{pc_u+(1-p) c_d}{(1+r)}.$$
+
 In this expression,  the value of the call optionisthepresentvalue ofaweighted average of the call at maturity,  either $Cu$ in the up state or $Cd$ in the down state. It is tempting to interpret $P$ in this equation as a probability. It is
+
 ![](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
+
 Figure 1: THE $\Delta$ OF A CALL OPTION IN THE BINOMIAL MODEL
+
 Important to notice two things about this formula. First,  $P$ cannot be the probability of an up movement in the stock as the probabilities of stock movements were not used in the calculation of the call value. Thus,  the value of the call is independent of the probabilities of the up or down movements in the stock price. Second,  the formula for the call is based on the present value of $pc_{u}+(1-p) c_{d}$ and is therefore valued as if this payoff was risk-free. Thus,  the probability $P$ is a risk-adjusted probability. It is simply the future value of the state price for the up-state.
 
 To give an interpretation to $\not P$,  imagine a situation where all individuals were indifferent to risk. Such a situation is known as a risk-neutral world. In such a situation,  all individuals would agree to value any risky prospect

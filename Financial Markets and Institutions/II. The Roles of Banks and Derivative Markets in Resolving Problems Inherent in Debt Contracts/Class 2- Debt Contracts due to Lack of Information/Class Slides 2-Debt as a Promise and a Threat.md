@@ -302,7 +302,7 @@ A list of payments
 
 ## Extend this to Loan Covenants
 - This applies not only to defaults on principal and interest covenants,  but to any other covenant that depends on hard-to-observe information.
-- When it too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then covenants that "mean what they say" (and involve a default when violated) must be used.
+- When it too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] that "mean what they say" (and involve a default when violated) must be used.
 
 #### Don't renegotiate if you can't monitor
 - Why not?
@@ -323,3 +323,5 @@ A list of payments
 ##### Duplication of effort
 - With many small investors in a publicly traded bond,  the total cost of having each of them monitor may exceed the benefits.
 - We examine this in Class Note 3.
+
+Tags: #debt #financial_contracts #liquidation #borrowing #lending #risk_management #covenants #monitoring #bankruptcy

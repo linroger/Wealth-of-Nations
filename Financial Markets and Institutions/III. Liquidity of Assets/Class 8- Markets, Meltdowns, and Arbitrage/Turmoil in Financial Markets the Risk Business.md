@@ -21,9 +21,9 @@ title: Turmoil in Financial Markets the Risk Business
 	- They are also getting much of the blame for the very turmoil that brought them low.
 	- Long-Term Capital Management nearly went bust in September and was saved only when the Federal Reserve organized its rescue.
 	- Other hedge funds are already paying the price for the fund's demise.
-	- Tarring all hedge funds with the brush that has been used for LTCM is wrong.
+	- Tarring all hedge funds with the brush that has been used for [[Class Note 13 The LTCM Meltdown|LTCM]] is wrong.
 	- Hedge funds,  in general,  are surprisingly different from one another.
-	- Few hedge funds are as hugely leveraged as LTCM.
+	- Few hedge funds are as hugely leveraged as [[Class Note 13 The LTCM Meltdown|LTCM]].
 	- The combination of apparently low-risk strategies with enormous leverage may be rare among hedge funds,  but it is by no means uncommon in other parts of the finance industry.
 	- Investment banks routinely have leverage in excess of 20 to 1.
 	- Banks' role in the present financial turmoil is crucial.
@@ -46,22 +46,22 @@ title: Turmoil in Financial Markets the Risk Business
 	- Hedge funds had also been blamed,  a day earlier,  when Treasury bond prices jumped unexpectedly sharply.
 	- Any big swing in any market is now routinely attributed to this or that hedge fund getting in or out.
 	- Market-makers' fears that they will find themselves on the wrong end of such trades has made them fearful of all trading.
-- This has been partly responsible for the widening of bid-ask spreads (the difference between the price a trader is willing to pay for a security and the price at which he offers to sell it).
+- This has been partly responsible for the widening of [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spreads]] (the difference between the price a trader is willing to pay for a security and the price at which he offers to sell it).
 	- This,  in turn,  signals the drying up of liquidity in many financial markets.
-	- There is even a particular villain,  an exemplary specimen,  on which critics can focus: Long-Term Capital Management (LTCM).
+	- There is even a particular villain,  an exemplary specimen,  on which critics can focus: Long-Term Capital Management ([[Class Note 13 The LTCM Meltdown|LTCM]]).
 	- Founded by,  among others,  two Nobel laureates in economics,  a former vice-chairman of the Federal Reserve,  and one of Wall Street's most successful bond-traders,  Long-Term Capital nearly went bust in September.
 	- It was saved only when the Federal Reserve organised its rescue by many of the banks that had previously lent it billions of dollars.
 	- According to Alan Greenspan,  the Fed's chairman,  if the fund had failed it could have inflicted serious damage on many market participants,  and "could potentially have impaired the economies of many nations,  including our own."
-	- Although its rescue has staved off the worst consequences,  rumours that LTCM is busy unwinding its huge positions continue to spook the markets.
+	- Although its rescue has staved off the worst consequences,  rumours that [[Class Note 13 The LTCM Meltdown|LTCM]] is busy unwinding its huge positions continue to spook the markets.
 	- Other hedge funds are already paying a price for the fund's demise.
-	- Banks,  blamed for lending too generously to LTCM and its fellow hedge funds before,  are now being more miserly.
+	- Banks,  blamed for lending too generously to [[Class Note 13 The LTCM Meltdown|LTCM]] and its fellow hedge funds before,  are now being more miserly.
 	- Some hedge funds have had credit lines cut; most are having to stump up far more collateral as security against loans.
 	- Investors are starting to withdraw money and redemptions are expected to soar as the financial year ends.
 	- Hardest hit,  ironically,  are the largish group of hedge funds that have performed well of late,  for the simple reason that they have the cash.
 	- To cap it all,  there are now calls in Congress and elsewhere for the funds to be regulated.
 - **Through a hedge backwards Hang on a moment.**
-	- Tarring all hedge funds with the brush that has been used for LTCM is wrong.
-	- The most striking thing about LTCM is not how similar it is to other hedge funds,  but how different.
+	- Tarring all hedge funds with the brush that has been used for [[Class Note 13 The LTCM Meltdown|LTCM]] is wrong.
+	- The most striking thing about [[Class Note 13 The LTCM Meltdown|LTCM]] is not how similar it is to other hedge funds,  but how different.
 	- Indeed hedge funds in general are surprisingly different,  one from another.
 	- The first was formed in 1949 by Alfred Winslow Jones.
 	- At the last count,  there were getting on for 3,  000 hedge funds,  managing around $200 billion of investors' money,  according to TAss,  a research firm.
@@ -89,19 +89,19 @@ title: Turmoil in Financial Markets the Risk Business
 - Yet whether speculating or arbitraging,  hedge funds do not,  or at least do not generally,  pursue the same strategies: they follow many different ones.
 	- Some,  such as Tiger or Moore Capital,  bet on macroeconomic trends,  such as the direction of an exchange rate.
 	- Others focus on particular sorts of events,  such as bankruptcies or mergers,  or merely play the stock market.
-	- Still others,  such as LTCM,  go in for "market-neutral" arbitrage.
+	- Still others,  such as [[Class Note 13 The LTCM Meltdown|LTCM]],  go in for "market-neutral" arbitrage.
 	- This aims to make money whatever happens to the direction of,  say,  interest rates or the stock market,  by buying assets that seem relatively cheap and simultaneously short-selling assets that seem overpriced.
 	- Such funds account for around 10% of total hedge-fund assets.
-	- Few hedge funds are as hugely leveraged as LTCM.
-	- By the time it was rescued,  LTCM had piled roughly $50 of borrowing on to every dollar of equity.
+	- Few hedge funds are as hugely leveraged as [[Class Note 13 The LTCM Meltdown|LTCM]].
+	- By the time it was rescued,  [[Class Note 13 The LTCM Meltdown|LTCM]] had piled roughly $50 of borrowing on to every dollar of equity.
 	- Earlier,  its leverage had been more like 20 to 1: but subsequent losses consumed much of its equity.
 	- According to George Van,  of Van Hedge Fund Advisers,  a consultancy,  almost a third of
 
  hedge funds do not borrow at all.
 	- A further 54% borrow no more than the amount of equity their investors put into them.
 	- Among the rest,  it is extremely rare to see leverage greater than ten to one.
-	- LTCM was probably unique.
-- **Why is leverage on LTCM's scale so rare?**
+	- [[Class Note 13 The LTCM Meltdown|LTCM]] was probably unique.
+- **Why is leverage on [[Class Note 13 The LTCM Meltdown|LTCM]]'s scale so rare?**
 	- If a bet is a risky one,  it will make a lot of money anyway.
 	- When the bet is relatively safe,  the profit to be made from it will be meagre-unless you bet big.
 	- That is why the large macro hedge funds,  such as Quantum or Tiger,  will leverage more in bonds,  say,  than in currencies,  which are far more volatile.
@@ -110,40 +110,40 @@ title: Turmoil in Financial Markets the Risk Business
 	- One of the fund's main strategies was to exploit tiny differences between the price of a newly issued ("on the run") 30-year American Treasury bond,  and a similar one issued previously ("off the run").
 	- There is little economic reason for these bonds to have different yields.
 	- Yet off-the-run Treasuries often trade slightly cheaper than on-the-run ones.
-	- LTCM bet that their yields would converge by buying off-the-run Treasuries and selling their on-the-run counterparts short.
+	- [[Class Note 13 The LTCM Meltdown|LTCM]] bet that their yields would converge by buying off-the-run Treasuries and selling their on-the-run counterparts short.
 	- The potential profits were tiny-no more than a few basis points (hundredths of a percentage point).
 	- So the fund multiplied its bets by borrowing.
-	- LTCM sources say that such positions were leveraged some 30 to 40 times.
-	- In contrast,  LTCM had much lower leverage on its bet that yields on Danish mortgage-backed securities would converge with those on American Treasuries-a far riskier speculation.
+	- [[Class Note 13 The LTCM Meltdown|LTCM]] sources say that such positions were leveraged some 30 to 40 times.
+	- In contrast,  [[Class Note 13 The LTCM Meltdown|LTCM]] had much lower leverage on its bet that yields on Danish mortgage-backed securities would converge with those on American Treasuries-a far riskier speculation.
 	- The fund aimed to be about as risky as the American stock market as a whole.
 	- This ambition meant that it was far more leveraged than other market-neutral hedge funds,  which typically aim for lower volatility than shares.
-	- According to Mr. Van,  other market-neutral hedge funds earned an average of 14% a year over the past five years,  compared with LTCM's more stratospheric average of 40% a year in 1994-97.
-	- That is one reason to believe that other market-neutral funds will not find themselves in the same straits as LTCM.
+	- According to Mr. Van,  other market-neutral hedge funds earned an average of 14% a year over the past five years,  compared with [[Class Note 13 The LTCM Meltdown|LTCM]]'s more stratospheric average of 40% a year in 1994-97.
+	- That is one reason to believe that other market-neutral funds will not find themselves in the same straits as [[Class Note 13 The LTCM Meltdown|LTCM]].
 - **A hedge by any other name**
 	- The combination of apparently low-risk strategies with enormous leverage may be rare among hedge funds,  but it is by no means uncommon in other parts of the finance industry.
 	- In fact,  says Bob Schulman of Tremont Advisors,  a consultancy,  that is just what the trading arms of banks do.
 	- Investment banks routinely have leverage in excess of 20 to 1.
-	- Like LTCM,  they make much greater use of derivatives to leverage their bets than do most hedge funds.
-	- (They also make more extensive use of the sort of financial rocket-science for which two of LTCM's founders won the Nobel prize.)
+	- Like [[Class Note 13 The LTCM Meltdown|LTCM]],  they make much greater use of derivatives to leverage their bets than do most hedge funds.
+	- (They also make more extensive use of the sort of financial rocket-science for which two of [[Class Note 13 The LTCM Meltdown|LTCM]]'s founders won the Nobel prize.)
 	- Mr. Ross reckons that banks punt the same amount of capital in this way as all hedge funds put together.
 	- Banks' role in the present financial turmoil is crucial.
-	- After LTCM was rescued,  many investment banks were quick to reveal details of their exposure to LTCM in particular,  and in some cases to hedge funds in general.
+	- After [[Class Note 13 The LTCM Meltdown|LTCM]] was rescued,  many investment banks were quick to reveal details of their exposure to [[Class Note 13 The LTCM Meltdown|LTCM]] in particular,  and in some cases to hedge funds in general.
 	- This exposure was mostly quite trifling compared with banks' total assets or capital.
 	- But these admissions were beside the point.
 	- Many banks have followed similar strategies to Long-Term Capital-but,  in aggregate,  on a bigger scale.
-	- According to some reports,  whereas LTCM had an exposure of $80 billion to arbitrage between American Treasuries,   banks had $3 trillion tied up in similar bets.
-	- It was for this reason that the Fed felt it had no choice but to organise the rescue of LTCM,  as Mr. Greenspan made clear in testimony to Congress.
+	- According to some reports,  whereas [[Class Note 13 The LTCM Meltdown|LTCM]] had an exposure of $80 billion to arbitrage between American Treasuries,   banks had $3 trillion tied up in similar bets.
+	- It was for this reason that the Fed felt it had no choice but to organise the rescue of [[Class Note 13 The LTCM Meltdown|LTCM]],  as Mr. Greenspan made clear in testimony to Congress.
 	- Had the fund gone bust,  and its positions been liquidated in a firesale,  it would have made banks' bets even more loss-making than they already were.
 	- Since these are revalued daily,  the banks could quickly have become technically insolvent.
 	- Might that happen anyway?
-	- Unlike LTCM,  banks have several sources of income,  from normal banking business in the case of commercial banks,  to corporate finance business or stockbroking for investment banks.
+	- Unlike [[Class Note 13 The LTCM Meltdown|LTCM]],  banks have several sources of income,  from normal banking business in the case of commercial banks,  to corporate finance business or stockbroking for investment banks.
 	- Moreover,  they have built up substantial capital in the bull markets of the past few years,  which gives them a cushion to fall back on.
 	- Still,  nobody on Wall Street would be surprised if,  when normality returns,  it emerges that at least one investment bank was,  at some point,  on the brink of going under.
 - **Mousetraps and models**
 	- Why have banks done so badly?
 	- After all,  recent years have seen many financial crises: the 1987 stock market crash; the breakup of Europe's exchange-rate mechanism in 1992-93; the bond market crash in February 1994; the Mexican crisis of 1995.
 	- As a result,  banks have spent much time and money developing sophisticated risk management models.
-	- The most favoured,  used by LTCM and most banks is the "value-at-risk" (VAR) model.
+	- The most favoured,  used by [[Class Note 13 The LTCM Meltdown|LTCM]] and most banks is the "value-at-risk" (VAR) model.
 	- This purports to give a bank an idea of the amount of money it is likely to lose over a certain period; if this goes up,  the bank can reduce its positions or put up extra capital.
 	- Unfortunately,  there are some big flaws in the VAR approach.
 	- The first is in that word "likely".
@@ -164,7 +164,7 @@ title: Turmoil in Financial Markets the Risk Business
 	- One,  by Will Goetzmann,  Stephen Brown and James Park,  three American economists,  found that the weight of hedge-fund bets in a given week had no bearing on the direction that markets took during that period.
 - The trouble spread to developed economies in April,  when investment banks' bond-trading desks started to lose money for the first time since 1994,  in this case in mortgage-backed securities.
 	- Bid-offer spreads in that market started to widen.
-	- As the banks started to cut their other risky assets,  liquidity was reduced in the market for high yield ("junk") corporate bonds.
+	- As the banks started to cut their other risky assets,  liquidity was reduced in the market for high yield ("junk") [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]].
 	- Things became much worse in August,  after the Russian government devalued.
 	- The Russian crisis added to the markets' problems in three ways.
 		- First,  the de facto default increased the riskiness of emerging sovereign debt in the eyes of investors,  who had until then assumed that they would at worst be rescheduled and that the IMF would almost always bail out a government.
@@ -173,7 +173,7 @@ title: Turmoil in Financial Markets the Risk Business
 		- Third,  some investment banks refused to honour hedge contracts sold to investors,  arguing that the Russian government default was a case of force majeure,  freeing them from the obligation.
 		- This too increased perceived risks.
 - By this point,  the banks' risk-management models were shuddering ominously,  ordering risks to be reduced across the board,  and restraining traders from making bids-which served only to reduce liquidity even further.
-	- The news of LTCM's troubles and its rescue was the last straw.
+	- The news of [[Class Note 13 The LTCM Meltdown|LTCM]]'s troubles and its rescue was the last straw.
 	- Banks assumed that other hedge funds held huge,  loss-making positions that might have to be unwound.
 	- And not just hedge funds: there were rumours aplenty that several investment banks were on the verge of going bust.
 	- The recent collapse in the dollar against the yen was probably due
@@ -182,7 +182,7 @@ title: Turmoil in Financial Markets the Risk Business
 
 - **Where now?**
 	- Keen to restore their balance sheets,  investment banks are unlikely to return to risk-taking with any enthusiasm soon.
-	- Until the huge portfolios of LTCM and investment banks are seen as desirable,  rather than as a potential cause of further price declines,  many markets are likely to remain paralysed.
+	- Until the huge portfolios of [[Class Note 13 The LTCM Meltdown|LTCM]] and investment banks are seen as desirable,  rather than as a potential cause of further price declines,  many markets are likely to remain paralysed.
 	- This would,  ironically,  be a perfect opportunity for hedge funds to come to the rescue with a dose of contrarian speculation-sorry,  arbitrage-if only they were not being beaten up by the very investment banks they would help out of their difficulties.
 	- That is one reason why the brouhaha about hedge funds is so misplaced.
 	- Many are already shadows of their former selves.

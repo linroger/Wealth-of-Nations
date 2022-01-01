@@ -148,7 +148,7 @@ $$
 - Publicly-traded debt's cost of financial distress is then given by **S = L(1 - P)**,  because **L** is the loss from inefficient liquidation when **V = L**,  and the probability of this is **1 - P**.
 - When there is a cost to financial distress,  there is value to monitoring to avoid it.
   - The saving due to monitoring is **S**,  because a lender who monitors does not need to liquidate when **V = L**.
-  - Monitoring and restructuring the debt outside bankruptcy increases the borrower's payment when the project returns **L** from **0** to **L**.
+  - Monitoring and restructuring the debt outside [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] increases the borrower's payment when the project returns **L** from **0** to **L**.
   - Monitoring can make both borrower and lender weakly better off if its cost is less than the cost of financial distress,  **S = (1 - P)L**.
 - If there were many large investors willing to make and monitor loans of size **1**,  then monitoring would be used whenever its cost is below **S**.
 - Suppose instead that all investors have wealth of **1/m** and that **m → ∞**,  implying that all investors are small and the costs of direct monitoring are very large (**mK → ∞**).
@@ -289,7 +289,7 @@ f = \frac{1 + r}{P}
 $$
 
 - is the lowest such that an expected return of **1 + r** is received without monitoring. 
-- If the bank makes loans with face value below **\frac{1 + r}{P}**,       the bank will fail if it monitors none of its loans. 
+- If the bank makes loans with face value below **$\frac{1 + r}{P}$**, the bank will fail if it monitors none of its loans. 
 - As a result,       if the bank monitors none of its loans,       the banker receives nothing.
 - For any face value of bank debt where it is preferred by borrowers to non-monitored debt,       the banker will receive at least as much profit from monitoring all of its loans as monitoring none. 
 
@@ -346,7 +346,7 @@ $$
 
 - When there is a cost to financial distress,       there is value to monitoring to avoid it.
   - The saving due to monitoring is **S**,       because a lender who monitors does not need to liquidate when **V = L**.
-  - Monitoring and restructuring the debt outside bankruptcy increases the borrower's payment when the project returns **L** from **0** to **L**.
+  - Monitoring and restructuring the debt outside [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] increases the borrower's payment when the project returns **L** from **0** to **L**.
   - Monitoring can make both borrower and lender weakly better off if its cost is less than the cost of financial distress,       **S = (1 - P)L**.
 
 - If there were many large investors willing to make and monitor loans of size **1**,       then monitoring would be used whenever its cost is below **S**.

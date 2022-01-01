@@ -17,7 +17,7 @@ title: Credit Market Homework 1
 
 This homework relies on:
 
-- the government and corporate bonds symbology file `bond_symbology`,
+- the government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology file `bond_symbology`,
 - the "on-the-run" treasuries data file `govt_on_the_run` and
 - the market data file `bond_market_prices_eod`.
 
@@ -34,11 +34,11 @@ import plotly.express as px
 import plotly.graph_objects as go
 ```
 
-# Problem 1: Explore symbology for US treasuries and corporate bonds
+# Problem 1: Explore symbology for US treasuries and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 ## a. Load and explore US government bond symbology
 
-Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and corporate bonds.
+Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]].
 
 Select US Treasury bonds only (class = 'Govt',  ticker = 'T'). For each government bond issue,  calculate its initial term/time-to-maturity in years (based on issue date and maturity date),  as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively,  use QuantLib yearFraction function).
 
@@ -693,7 +693,7 @@ display(govt_symbology_otr)
 <p>6 rows × 25 columns</p>
 </div>
 
-## d. Load and explore US corporate bonds symbology data
+## d. Load and explore US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology data
 
 Starting from the `bond_symbology` dataframe,  create a corporate bond dataframe containing
 
@@ -736,7 +736,7 @@ display(corp_symbology_vz)
 
 ## a. Load and explore treasury market prices and yields
 
-Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and corporate bonds as of 2024-04-01.
+Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] as of 2024-04-01.
 
 Merge the treasuries symbology dataframe with the market data and add the following columns:
 
@@ -921,7 +921,7 @@ Fig.Show ()
 
 ## c. Load and explore corporate bond market prices and yields
 
-Merge the filtered corporate bonds symbology dataframe with the market data and add the following columns:
+Merge the filtered [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology dataframe with the market data and add the following columns:
 
 | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
 |----------|-------|-------------|-----|----------|---------|---------|---------|---------|

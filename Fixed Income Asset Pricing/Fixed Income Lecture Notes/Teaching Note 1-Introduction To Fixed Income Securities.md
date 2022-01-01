@@ -1,13 +1,13 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_374_Teaching Note 1-Introduction To Fixed Income Securities.md
-- Alias_371_Teaching Note 1-Introduction To Fixed Income Securities.md
+  - Alias_374_Teaching Note 1-Introduction To Fixed Income Securities.md
+  - Alias_371_Teaching Note 1-Introduction To Fixed Income Securities.md
 tags:
-- tag_example
+  - tag_example
 title: Teaching Note 1-Introduction To Fixed Income Securities
 ---
-
-
 
 # Teaching Note 1-Introduction To Fixed Income Securities
 
@@ -19,9 +19,9 @@ title: Teaching Note 1-Introduction To Fixed Income Securities
 	=⇒ large increase in government debt.
 1. The huge mortgage-backed securities market had several changes
 	- Fannie Mae and Freddie Mac went into conservatorship. Many mortgage companies disappeared. New regulation has been enacted.
-1. Aggressive monetary policy has had large impact on Treasury bonds
-- Federal Reserve slashed Fed Funds rate to zero
-- Federal Reserve moved to "unconventional monetary policy"
+1. Aggressive [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] has had large impact on Treasury bonds
+- Federal Reserve slashed [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] to zero
+- Federal Reserve moved to "unconventional [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]]"
 1. Massive regulatory changes in derivative markets
 	- Central counterparties (CCP)
 	- Impact on pricing of derivatives.
@@ -32,6 +32,7 @@ title: Teaching Note 1-Introduction To Fixed Income Securities
 ## THE OUTSTANDING AMOUNT U.S. DEBT
 
 ![](c501e2bd459ec9234808566499de92ec.webp)
+
 (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 ## FEDERAL FUNDS AND U.S. TREASURY YIELDS
@@ -41,7 +42,9 @@ title: Teaching Note 1-Introduction To Fixed Income Securities
 ## THE NOTIONAL AMOUNT OF OVER-THE-COUNTER DERIVATIVES
 
 Panel A. Millions Of Us Dollars
+
 ![](0babbfacbbb4fcfec8f4171be09f9667.webp)
+
 (Data Source: OTC derivatives data are from the Bank for International Settlements,  while global GDP data are from the World Bank.)
 
 ![](9e655de7f6fc7901fb4f470e98b3b973.webp)
@@ -63,13 +66,13 @@ Panel A. Millions Of Us Dollars
 |--------------------------------|---------------------|
 | by the Public                  | Holdings            |
 | Dollar                         | Percent Dollar      |
-| Bills                          | 3,      767,      964           |
-| Notes                          | 12,      992,      160          |
-| Bonds                          | 3,      474,      153           |
-| Inflation-Protected Securities | 1,      727,      968           |
-| Floating Rate Notes            | 603,      302             |
+| Bills                          | 3,        767,        964           |
+| Notes                          | 12,        992,        160          |
+| Bonds                          | 3,        474,        153           |
+| Inflation-Protected Securities | 1,        727,        968           |
+| Floating Rate Notes            | 603,        302             |
 | Federal Financing Bank         | 0                   |
-| Total                          | 22,      565,      547          |
+| Total                          | 22,        565,        547          |
 
 Source: U.S. Treasury web site. https://www.treasurydirect.gov
 
@@ -80,10 +83,15 @@ Source: U.S. Treasury web site. https://www.treasurydirect.gov
 - $$\begin{aligned}
 
 \text{Annual compounding:} \$100\times{(1.1)}^{10} & =\$259.37 \\
+
 \text{Semi-annual compounding}:\quad\quad\$100\times\left(1.05\right)^{20}& =\$265.33 \\
+
 \text{Quarterly compounding}:\quad\text{\$}100\times{(1.025)}^{40}& =\$268.51 \\
+
 \text{Daily compounding: \$}100\times\left(1+\frac{0.1}{365}\right)^{10\times365}& =\$271.79 \\
+
 \text{Continuous compounding}:\quad\quad\text{\$}100\times e^{0.1\times10}& =\$271.82
+
 \end{aligned} $$
 
 - The general formula to compound n times over the horizon T is
@@ -112,14 +120,14 @@ $$Z(T)=\frac{1}{\left(1+\frac{r}{n}\right)^{n\times T}}\longrightarrow Z(T)=e^{-
 
 - When we discount future cash flows to the present,  different discount rates apply for different maturities.
 - We denote the discount factor at t for a dollar to be received at time T by
-$$Z(t,      T)=e^{-r(t,      T)(T-t)}$$
+$$Z(t,        T)=e^{-r(t,        T)(T-t)}$$
 - r (*t,  T*) = continuously compounded yield at t for an investment up to T.
 	- We put two "time" indices:
 		1. $t$ = calendar time when the discounting is made (e.g. 1/31/2007,  etc.)
 		1. $T$ = maturity date.
 	1. =⇒ $T − t$ = time to maturity
 
-- Panel A of next figure shows $Z (t,       T)$ for $t = 1/31/2007,       1/31/2008,       …,       3/20/2020$,  and for $T − t$ ranging from 0 to 30 years
+- Panel A of next figure shows $Z (t,         T)$ for $t = 1/31/2007,         1/31/2008,         …,         3/20/2020$,  and for $T − t$ ranging from 0 to 30 years
 - Panel B of next figure shows the corresponding yields r (*t,  T*)
 ![](3c998762c66bd493587f6cb16239c245.webp)
 
@@ -143,7 +151,7 @@ $T_{1}$,  $T_{2}$*,  …,  T*n and one big payment of 100 + c/2 (principal) at $
 The bond).
 - If we know the time value of money for each maturity,  that is,  the discount function
 Z (*t,  T*i) for all maturities Ti's,  a simple no arbitrage argument implies
-$$P(t,      T_{n})=c/2\times Z(t,      T_{1})+c/2\times Z(t,      T_{2})+…+(100+c/2)\,      Z\,      (t,      T_{n})$$ $$=\sum\limits_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(t,      T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}+\frac{100}{\left(1+r_{2}\left(t,      T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}$$
+$$P(t,        T_{n})=c/2\times Z(t,        T_{1})+c/2\times Z(t,        T_{2})+…+(100+c/2)\,        Z\,        (t,        T_{n})$$ $$=\sum\limits_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(t,        T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}+\frac{100}{\left(1+r_{2}\left(t,        T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}$$
 - What is the arbitrage argument?
 
 ## COUPON BONDS
@@ -152,7 +160,7 @@ $$P(t,      T_{n})=c/2\times Z(t,      T_{1})+c/2\times Z(t,      T_{2})+…+(10
 - Then an arbitrageur can buy the bond (pay 100) and sell the strips (each cash payments) for a total of 105,  thereby making $5 (million). Since there is perfect matching of cash flows in the future,  the trade is an arbitrage.
 - Incidentally,  notice that if t = 0 and $T_{i}$ are exact semi-annual maturities,  that is $T_{1}$ = 0.\1,  $T_{2}$ = 1,  T 3 = 1.5 etc.,  then we have 2 × $T_{i}$ = i for every i = 1*,  ..,  n*,
 And thus the formula reduces to
-$$P(0,      T_{n})=\sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(0,      T_{i}\right)/2\right)^{i}}+\frac{100}{\left(1+r_{2}\left(0,      T_{n}\right)/2\right)^{n}}$$
+$$P(0,        T_{n})=\sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(0,        T_{i}\right)/2\right)^{i}}+\frac{100}{\left(1+r_{2}\left(0,        T_{n}\right)/2\right)^{n}}$$
 
 ## CONVENTIONS AND TERMINOLOGY
 - It is important to spend a few words on some market conventions and terminology.
@@ -181,9 +189,9 @@ $$P(0,      T_{n})=\sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(0,      T_{i}\rig
 
 ## YIELD-TO-MATURITY (OR INTERNAL RATE OF RETURN)
 
-- Given price $P\left(t,      T\right)$ and cash flows $c/2$ at $T_{i}$ 's for $i=1,      ..,      n$,  and $1+c/2$ at $T_{n}$,  the (semi-annually compounded) yield-to-maturity YTM is defined as that rate $y$ such that $$P\left(t,      T_{n}\right)=\sum\limits_{i=1}^{n}\frac{c/2}{\left(1+\frac{n}{2}\right)^{2\times\left(T_{i}-t\right)}}+\frac{100}{\left(1+\frac{n}{2}\right)^{2\times\left(T_{n}-t\right)}}$$ (1)
+- Given price $P\left(t,        T\right)$ and cash flows $c/2$ at $T_{i}$ 's for $i=1,        ..,        n$,  and $1+c/2$ at $T_{n}$,  the (semi-annually compounded) yield-to-maturity YTM is defined as that rate $y$ such that $$P\left(t,        T_{n}\right)=\sum\limits_{i=1}^{n}\frac{c/2}{\left(1+\frac{n}{2}\right)^{2\times\left(T_{i}-t\right)}}+\frac{100}{\left(1+\frac{n}{2}\right)^{2\times\left(T_{n}-t\right)}}$$ (1)
 - Recall that given the spot curve r 2 (*t,  T*i),  we also had
-$$P\left(t,      T_{n}\right)=\sum\limits_{i=1}^{n}{\frac{c/2}{\left(1+r_{2}\left(t,      T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}}+{\frac{100}{\left(1+r_{2}\left(t,      T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}}$$
+$$P\left(t,        T_{n}\right)=\sum\limits_{i=1}^{n}{\frac{c/2}{\left(1+r_{2}\left(t,        T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}}+{\frac{100}{\left(1+r_{2}\left(t,        T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}}$$
 - What's the difference?
 	- The yield to maturity y is a sort of average discount rate that characterizes one *particular bond*,  and it is used to discount the cash flows of *that* particular bond.
 	- Notice that two different bonds with same maturity,  will have different yield to maturities if they have different coupons.
@@ -245,17 +253,17 @@ $$P^{F R N}(T_{n-1})\;=\;\frac{\mathsf{C a s h\;f l o w\;a t\;}T_{n}}{1+\frac{1}
 - Consider now the value of the FRN at $T_{n-2}$.
 - At this time,  the investor knows that the FRN will $c (T_{n-1}) = r (T_{n-2})$ at $T_{n-1}$,
 And that its price will revert to P FRN ($T_{n-1}$) = 1.
-- The FRN value at $T_{n-2}$ is then $$P^{FRN}(T_{n-2})\,      =\,      \frac{P^{FRN}(T_{n-1})+\frac{1}{4}c(T_{n-1})}{1+\frac{1}{4}r(T_{n-2})}=\frac{1+\frac{1}{4}r(T_{n-2})}{1+\frac{1}{4}r(T_{n-2})}=1$$
+- The FRN value at $T_{n-2}$ is then $$P^{FRN}(T_{n-2})\,        =\,        \frac{P^{FRN}(T_{n-1})+\frac{1}{4}c(T_{n-1})}{1+\frac{1}{4}r(T_{n-2})}=\frac{1+\frac{1}{4}r(T_{n-2})}{1+\frac{1}{4}r(T_{n-2})}=1$$
 - Using the same logic for every reset time $T_i: =⇒  P^{FRN} (T_i) = 1$
 - Outside reset times,  the price of FRN is different from 1 .
 - Let t be such that Ti−1 *< t < T*i. Then,  the value at t of FRN is
-$$P^{F R N}(t)\;=\;Z(t,      T_{i})(1+r(T_{i-1})/4)$$
+$$P^{F R N}(t)\;=\;Z(t,        T_{i})(1+r(T_{i-1})/4)$$
 - Adding a spread to the coupon payments is simple because the spread is constant.
-=⇒ use discounts $Z (*t,       T*$) to compute its value.
+=⇒ use discounts $Z (*t,         T*$) to compute its value.
 
 ## REPURCHASE AGREEMENTS
 
-- **Repurchase Agreements (Repo)**: Agreement to sell some securities to another party and buy them back at a fixed date and for a fixed amount.
+- **[[Class Note 12 Part 2 Repos|repurchase agreements]] (Repo)**: Agreement to sell some securities to another party and buy them back at a fixed date and for a fixed amount.
 - The price at which the security is bought back is greater than the selling price and the difference implies an interest rate called *Repo Rate*.
 - A **Reverse Repo** is the borrowing of a security for a short period at an agreed interest rate.
 - The Repo Market is the single most important source of financing for government dealers.
@@ -277,7 +285,7 @@ $$P^{F R N}(t)\;=\;Z(t,      T_{i})(1+r(T_{i-1})/4)$$
 
 1. At time t,  the trader buys the bond at market price $P_t$ and enters into a Repo with the Repo Dealer. Hence,  the trader delivers the bond as collateral to the repo-dealer and gets the cash to purchase the bond.
 	- The Repo Dealer typically gives something less than the market price of the bond. The difference is called **hair cut**.
-	- The term T is decided at time t: Most Repurchase agreements are for a very short term (overnight). Some longer term agreements reach 30 days or more.
+	- The term T is decided at time t: Most [[Class Note 12 Part 2 Repos|repurchase agreements]] are for a very short term (overnight). Some longer term agreements reach 30 days or more.
 	- The Repo rate is decided at time t.
 1. At time T,  the trader gets back the bond from the Repo Dealer,  sells the bond
 In the market to get PT and pays Pt plus the repo rate to the dealer.
@@ -328,45 +336,45 @@ Function for an investment in T-bills made at date $T_{1}$ with maturity date $T
 - Suppose today is $t = 0$ and that I have $10 million to invest for 1 year.
 - We have the following two strategies
 1. Invest in a 1-year zero coupon bond,  obtaining at maturity
-$$\$10\mathrm{~million}\times\left(1+r_{2}\left(0,      1\right)/2\right)^{2}$$
-1. 2. Invest in a 6-months zero coupon bond and enter (today) into a forward contract to invest the proceeds at $T_1=0.5$ until $T_2=1$ for a rate $f_2\left(0,      0.5,      1\right)$ . At maturity we have
+$$\$10\mathrm{~million}\times\left(1+r_{2}\left(0,        1\right)/2\right)^{2}$$
+1. 2. Invest in a 6-months zero coupon bond and enter (today) into a forward contract to invest the proceeds at $T_1=0.5$ until $T_2=1$ for a rate $f_2\left(0,        0.5,        1\right)$ . At maturity we have
 
-$$10 m × $(1+r_2\left(0,      0.5\right)/2)\times\left(1+\frac{f_2\left(0,      0.5,      1\right)}{2}\right)$$
+$$10 m × $(1+r_2\left(0,        0.5\right)/2)\times\left(1+\frac{f_2\left(0,        0.5,        1\right)}{2}\right)$$
 
 - By no arbitrage (and if credit risk is negligible) we must have
-$$\$10\ \textsf{m}\times\left(1+{\frac{r_{2}\left(0,      1\right)}{2}}\right)^{2}=\$10\ \textsf{m}\times\left(1+{\frac{r_{2}\left(0,      0.5\right)}{2}}\right)\times\left(1+{\frac{f_{2}\left(0,      0.5,      1\right)}{2}}\right)$$
+$$\$10\ \textsf{m}\times\left(1+{\frac{r_{2}\left(0,        1\right)}{2}}\right)^{2}=\$10\ \textsf{m}\times\left(1+{\frac{r_{2}\left(0,        0.5\right)}{2}}\right)\times\left(1+{\frac{f_{2}\left(0,        0.5,        1\right)}{2}}\right)$$
 - Or
-$$1+{\frac{f_{2}\left(0,      0.5,      1\right)}{2}}={\frac{\left(1+r_{2}\left(0,      1\right)/2\right)^{2}}{\left(1+r_{2}\left(0,      0.5\right)/2\right)}}$$
+$$1+{\frac{f_{2}\left(0,        0.5,        1\right)}{2}}={\frac{\left(1+r_{2}\left(0,        1\right)/2\right)^{2}}{\left(1+r_{2}\left(0,        0.5\right)/2\right)}}$$
 - By using the price of bonds we have
-$$1+\frac{f_{2}\left(0,      0.5,      1\right)}{2}=\frac{Z(0,      0.5)}{Z(0,      1)}$$
+$$1+\frac{f_{2}\left(0,        0.5,        1\right)}{2}=\frac{Z(0,        0.5)}{Z(0,        1)}$$
 - More generally,  for every $T_{1}$ and $T_{2}$,  consider the following strategies:
-1. Invest in a $T_{2}-$ zero coupon bond,  obtaining at maturity $$\frac{\$10\text{m}}{ Z (0,       T _ 2)}$$
-1. 2. Invest in a 6-months zero coupon bond and enter (today) into a forward contract to invest the proceeds at $T_1=0.5$ until $T_2=1$ for a rate $f_2\left(0,      0.5,      1\right)$ . At maturity we have
-$$\frac{\$10\ m}{Z(0,      T_{1})}\times\left(1+\frac{f_{n}\left(0,      T_{1},      T_{2}\right)}{n}\right)^{n(T_{2}-T_{1})}$$
+1. Invest in a $T_{2}-$ zero coupon bond,  obtaining at maturity $$\frac{\$10\text{m}}{ Z (0,         T _ 2)}$$
+1. 2. Invest in a 6-months zero coupon bond and enter (today) into a forward contract to invest the proceeds at $T_1=0.5$ until $T_2=1$ for a rate $f_2\left(0,        0.5,        1\right)$ . At maturity we have
+$$\frac{\$10\ m}{Z(0,        T_{1})}\times\left(1+\frac{f_{n}\left(0,        T_{1},        T_{2}\right)}{n}\right)^{n(T_{2}-T_{1})}$$
 
 - We then obtain
 
-$$\left(1+\frac{f_{n}\left(0,      T_{1},      T_{2}\right)}{n}\right)^{n(T_{2}-T_{1})}=\frac{Z(0,      T_{1})}{Z(0,      T_{2})}$$
+$$\left(1+\frac{f_{n}\left(0,        T_{1},        T_{2}\right)}{n}\right)^{n(T_{2}-T_{1})}=\frac{Z(0,        T_{1})}{Z(0,        T_{2})}$$
 
 ## CONTINUOUSLY COMPOUNDED FORWARD RATES
 
-- Taking the limit as $n\rightarrow\infty$ the continuously compounded forward rates is $$f(0,      T_{1},      T_{2})\ =\ \frac{\ln(Z(0,      T_{1}))-\ln(Z(0,      T_{2}))}{T_{2}-T_{1}}$$ $$=\ \frac{r(0,      T_{2})T_{2}-r(0,      T_{1})T_{1}}{T_{2}-T_{1}}\tag{2}$$
+- Taking the limit as $n\rightarrow\infty$ the continuously compounded forward rates is $$f(0,        T_{1},        T_{2})\ =\ \frac{\ln(Z(0,        T_{1}))-\ln(Z(0,        T_{2}))}{T_{2}-T_{1}}$$ $$=\ \frac{r(0,        T_{2})T_{2}-r(0,        T_{1})T_{1}}{T_{2}-T_{1}}\tag{2}$$
 - Another concept,  that we will use later,  is that of instantaneous forward rate.
 - We can rewrite (2) as (exercise: do it!)
-$$f(0,      T_{1},      T_{2})=r(0,      T_{1})+T_{2}\times\frac{r(0,      T_{2})-r(0,      T_{1})}{T_{2}-T_{1}}\tag{3}$$
+$$f(0,        T_{1},        T_{2})=r(0,        T_{1})+T_{2}\times\frac{r(0,        T_{2})-r(0,        T_{1})}{T_{2}-T_{1}}\tag{3}$$
 - If we take the limit $T_{2}\longrightarrow T_{1}$ (that is,  the horizon of the forward contract shrinks to zero) we obtain
-$$f(0,      T_{1},      T_{1})=r(0,      T_{1})+T_{1}\times\frac{dr(0,      T_{1})}{dT_{1}}\tag{4}$$
+$$f(0,        T_{1},        T_{1})=r(0,        T_{1})+T_{1}\times\frac{dr(0,        T_{1})}{dT_{1}}\tag{4}$$
 
 ## THE RELATION BETWEEN FORWARD CURVE AND SPOT CURVE
 
 - The equation for the instantaneous forward curve (4) is revealing of an interesting (important) property of the forward-spot relationship. We can rewrite
-$$f(0,      T_{1},      T_{1})-r(0,      T_{1})=T_{1}\times\frac{dr(0,      T_{1})}{dT_{1}}$$
+$$f(0,        T_{1},        T_{1})-r(0,        T_{1})=T_{1}\times\frac{dr(0,        T_{1})}{dT_{1}}$$
 - This implies:
 $$
 \begin{gathered}
-\text{If }\quad\frac{dr(0,      T_1)}{dT_1}>0 \Longrightarrow\text{ forward curve is above the spot curve} \\
-\text{If }\quad\frac{dr(0,      T_1)}{dT_1}<0 \Longrightarrow\text{ forward curve is below the spot curve} \\
-\begin{aligned}\mathsf{If}\quad\frac{dr(0,      T_1)}{dT_1}=0\end{aligned} \Longrightarrow\text{ forward curve intersects the spot curve}
+\text{If }\quad\frac{dr(0,        T_1)}{dT_1}>0 \Longrightarrow\text{ forward curve is above the spot curve} \\
+\text{If }\quad\frac{dr(0,        T_1)}{dT_1}<0 \Longrightarrow\text{ forward curve is below the spot curve} \\
+\begin{aligned}\mathsf{If}\quad\frac{dr(0,        T_1)}{dT_1}=0\end{aligned} \Longrightarrow\text{ forward curve intersects the spot curve}
 \end{gathered}
 
 $$ $
@@ -375,11 +383,11 @@ $$ $
 ![](e7f136d7f0511b8319bc6d189a0fa21e.webp)
 ## ESTIMATING THE ZERO-COUPON DISCOUNT FUNCTION
 
-- There are several methods to extract the zero-coupon discount curve $Z (0,       T)$ from bond data.
+- There are several methods to extract the zero-coupon discount curve $Z (0,         T)$ from bond data.
 - Why do we want to do that?
-1. The discount function $Z (0,       T)$ determines the time value of money. We need It as a basis to discount future (riskless) cash flows.
+1. The discount function $Z (0,         T)$ determines the time value of money. We need It as a basis to discount future (riskless) cash flows.
 2. We cannot observe it: it is implicitly embedded in traded Treasury coupon bonds.
-3. You need it to compute forward prices,       for instance,       as well as Swaps (see later).
+3. You need it to compute forward prices,         for instance,         as well as Swaps (see later).
 4. It will be the basis of all future term structure models: it is typically the first step to then calibrate term structure models. The latter are what traders use to
 - (a) Price new securities by no arbitrage (we will see many).
 - (b) Spot out arbitrage opportunities.
@@ -389,73 +397,93 @@ $$ $
 
 - Suppose we have n coupon bonds. Each bond i has a coupon equal to $c_i$.
 - Recall the pricing equation for coupon bonds with maturity $T_{i}$ is equal to
-$$P^{i}(t,       T_{i})=\frac{c^{i}}{2}\sum\limits_{j=1}^{i}Z (t,       T_{j})+1\times Z (t,       T_{i})\tag{5}$$
-- Today is t = 0 and that we have data on maturities Tj = 0.\1,       1,       1.5*,       ...*. Tn.
-- Inverting (5),       we obtain
-$$Z\left (0,      0.5\right)\;=\;\frac{P^{1}\left (0,      0.5\right)}{1+c^{1}/2}$$
+$$P^{i}(t,         T_{i})=\frac{c^{i}}{2}\sum\limits_{j=1}^{i}Z (t,         T_{j})+1\times Z (t,         T_{i})\tag{5}$$
+- Today is t = 0 and that we have data on maturities Tj = 0.\1,         1,         1.5*,         ...*. Tn.
+- Inverting (5),         we obtain
+$$Z\left (0,        0.5\right)\;=\;\frac{P^{1}\left (0,        0.5\right)}{1+c^{1}/2}$$
 
-$$Z\left (0,      1\right)\;=\;\frac{P^{2}\left (0,      1\right)-c^{2}/2\times Z\left (0,      . 5\right)}{1+c^{2}/2}$$
+$$Z\left (0,        1\right)\;=\;\frac{P^{2}\left (0,        1\right)-c^{2}/2\times Z\left (0,        . 5\right)}{1+c^{2}/2}$$
 
-$$Z\left (0,      1.5\right)\;=\;\frac{P^{3}\left (0,      1.5\right)-c^{3}/2\times\left (Z\left (0,      . 5\right)+Z\left (0,      1\right)\right)}{1+c^{3}/2}$$
-- In general,       for every i:
+$$Z\left (0,        1.5\right)\;=\;\frac{P^{3}\left (0,        1.5\right)-c^{3}/2\times\left (Z\left (0,        . 5\right)+Z\left (0,        1\right)\right)}{1+c^{3}/2}$$
+- In general,         for every i:
 
-$$Z\left (0,       T_{i}\right)=\frac{P^{i}\left (0,       T_{i}\right)-c^{i}/2\times\left (\Sigma_{j=1}^{i-1}\,       Z\left (0,       T_{j}\right)\right)}{1+c^{i}/2}$$
+$$Z\left (0,         T_{i}\right)=\frac{P^{i}\left (0,         T_{i}\right)-c^{i}/2\times\left (\Sigma_{j=1}^{i-1}\,         Z\left (0,         T_{j}\right)\right)}{1+c^{i}/2}$$
 - Example: suppose we have the following data:
 $$
 
 \begin{array}{ccccc}
+
 \hline \text { Maturity } & \text { Period } i & \text { Coupon } & \text { YTM } & \text { Price } \\
+
 \hline 0.5 & 1 & 0.000 & 0.080 & 96.15 \\
+
 1 & 2 & 0.000 & 0.083 & 92.19 \\
+
 1.5 & 3 & 0.085 & 0.089 & 99.45 \\
+
 2 & 4 & 0.090 & 0.092 & 99.64 \\
+
 1.5 & 5 & 0.110 & 0.094 & 103.49 \\
+
 3 & 6 & 0.095 & 0.097 & 99.49 \\
+
 1.5 & 7 & 0.100 & 0.100 & 100.00 \\
+
 \hline
+
 \end{array}
 
 $$
 
 - We find:
-$$\begin{array}{l l} {{Z\left(0,      0.\1\right)\;=\;96.15;\qquad Z\left(0,      1\right)=92.19;}} \\ {{}} \\ {{Z\left(0,      1.5\right)\;=\;\frac{99.45-0.\1\times\left(96.15+92.19\right)}{1.0425}=87.72;\ldots.}} \end{array}$$
+$$\begin{array}{l l} {{Z\left(0,        0.\1\right)\;=\;96.15;\qquad Z\left(0,        1\right)=92.19;}} \\ {{}} \\ {{Z\left(0,        1.5\right)\;=\;\frac{99.45-0.\1\times\left(96.15+92.19\right)}{1.0425}=87.72;\ldots.}} \end{array}$$
 
 - Since
-$$Z\left (0,       T_{i}\right)=\frac{100}{\left (1+\frac{r_{2}\left (0,       T_{i}\right)}{2}\right)^{i}}\Longleftrightarrow r_{2}\left (0,       T_{i}\right)=2\times\left (\left (\frac{100}{Z\left (0,       T_{i}\right)}\right)^{\frac{1}{i}}-1\right)$$
+$$Z\left (0,         T_{i}\right)=\frac{100}{\left (1+\frac{r_{2}\left (0,         T_{i}\right)}{2}\right)^{i}}\Longleftrightarrow r_{2}\left (0,         T_{i}\right)=2\times\left (\left (\frac{100}{Z\left (0,         T_{i}\right)}\right)^{\frac{1}{i}}-1\right)$$
 
 We Obtain
 $$
 
 \begin{array}{cccc}
+
 \hline \text { Maturity } & \text { Period } i & \text { YTM } & \text { Spot Yield } \\
+
 \hline 0.5 & 1 & 0.080 & 0.080 \\
+
 1 & 2 & 0.083 & 0.083 \\
+
 1.5 & 3 & 0.089 & 0.0893 \\
+
 2 & 4 & 0.092 & 0.09247 \\
+
 1.5 & 5 & 0.094 & 0.09468 \\
+
 3 & 6 & 0.097 & 0.09787 \\
+
 1.5 & 7 & 0.100 & 0.10129 \\
+
 \hline
+
 \end{array}
 
 $$
 ## CURVE FITTING
 
 - The above methodologies require that we have all the maturities available. 
-- Unfortunately,       this is never the case. 
-- To avoid this problem,       the profession moved to "curve fitting" in the following sense:
-1. Assume a flexible functional form for Z (0,       T),       such as (Nelson Siegel Model):
-$$Z\left (0,       T_{j}\right)\;=\; 100\times e^{-r\left (0,       T_{j}\right)\times T_{j}}$$
-$$r (0,       T_{j})\;=\;\theta_{0}+(\theta_{1}+\theta_{2})\,      \frac{1-e^{-\frac{T_{j}}{\lambda}}}{\frac{T_{j}}{\lambda}}-\theta_{2}e^{-\frac{T_{j}}{\lambda}}$$
-2. We can compute the "theoretical price" given Z (0,       T)
-$$\widehat{P}\left (0,       T_{j}\right)=\sum\limits_{i=1}^{j}c\left (T_{i}\right)\times Z\left (0,       T_{i}\right)$$
-3. We estimate the parameters θ0,       θ1,       θ2,       λ by **non-linear least squares**. That is,       by minimizing
-$$\operatorname*{min}_{\theta_{0},      \theta_{1},      \theta_{2},      \lambda}\sum_{j=1}^{n}\left (P\left (0,       T_{j}\right)-\widehat{P}\left (0,       T_{j}\right)\right)^{2}$$
-- There is a large literature on the [Functional Forms](Lecture%2010-%20Functional%20Forms.md) for the discount function $Z (0,       T)$,       many of them relying on spline functions.
+- Unfortunately,         this is never the case. 
+- To avoid this problem,         the profession moved to "curve fitting" in the following sense:
+1. Assume a flexible functional form for Z (0,         T),         such as (Nelson Siegel Model):
+$$Z\left (0,         T_{j}\right)\;=\; 100\times e^{-r\left (0,         T_{j}\right)\times T_{j}}$$
+$$r (0,         T_{j})\;=\;\theta_{0}+(\theta_{1}+\theta_{2})\,        \frac{1-e^{-\frac{T_{j}}{\lambda}}}{\frac{T_{j}}{\lambda}}-\theta_{2}e^{-\frac{T_{j}}{\lambda}}$$
+2. We can compute the "theoretical price" given Z (0,         T)
+$$\widehat{P}\left (0,         T_{j}\right)=\sum\limits_{i=1}^{j}c\left (T_{i}\right)\times Z\left (0,         T_{i}\right)$$
+3. We estimate the parameters θ0,         θ1,         θ2,         λ by **non-linear least squares**. That is,         by minimizing
+$$\operatorname*{min}_{\theta_{0},        \theta_{1},        \theta_{2},        \lambda}\sum_{j=1}^{n}\left (P\left (0,         T_{j}\right)-\widehat{P}\left (0,         T_{j}\right)\right)^{2}$$
+- There is a large literature on the [Functional Forms](Lecture%2010-%20Functional%20Forms.md) for the discount function $Z (0,         T)$,         many of them relying on spline functions.
 - Next figure shows the difference between using bootstrapping technique and the curve fitting technique
 
 ## ZERO-COUPON YIELD CURVES
 ![](825c3c5d65ac1b66e440c8fac164fe68.webp)
-- Clearly,       the fitted curve is much smoother (by construction).
+- Clearly,         the fitted curve is much smoother (by construction).
 - An important difference arises when we look at forward rates
 ![](f3e3bf4c8dd22037282dbfbb19b08161.webp)

@@ -1,9 +1,14 @@
 ---
 aliases:
-- Alias_290_BMW Valuation Multiples.md
-- Alias_287_BMW Valuation Multiples.md
+  - Alias_290_BMW Valuation Multiples.md
+  - Alias_287_BMW Valuation Multiples.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#investmentanalysis"
+  - "#corporatefinance"
+  - "#automotive-industry"
+  - "#valuation-metrics"
 title: BMW Valuation Multiples
 ---
 
@@ -22,9 +27,9 @@ We consider BMW's peer companies to be Mercedes Benz Group,  Volkswagen AG,  Ste
 | Ticker       | BMWG_DE                     | MBG_DE                 | VOWG_DE       | RENA_FR    | GM                | F             |            |            |
 | EV/EBIT      | 9.23720884                  | 10.1780479             | 10.3115615    | 15.0699885 | 11.9212829        | 14.7601544    | 11.1148214 | 10.8857246 |
 
-- Debt/EBIT: This metric compares the amount of debt a company has on its balance sheet to the operating income it generates per year. It is indicative of how well a company can support the debt it has taken on with its earnings. Again,  BMW has the lowest Debt/ EBIT ratio,  with MBG coming in second lowest due to its higher debt levels of \$120,  447,  000 vs BMW's $107,  751.63
-- Fixed Asset Turnover: Fixed asset turnover measures a company's efficiency in generating sales from its fixed assets,  such as property,  plant,  and equipment. It is calculated by dividing total revenue by average fixed assets. This ratio is particularly relevant for auto companies since they heavily rely on capital-intensive manufacturing facilities and equipment to produce vehicles. A higher fixed asset turnover indicates that a company is using its assets more efficiently to generate sales. BMW has a fixed asset turnover of 4.10,  which is higher than the median of 4.29 but lower than the average of 4.13. Mercedes-Benz Group AG has the highest ratio at 5.89,  indicating that it is the most efficient in utilizing its fixed assets to generate sales. Volkswagen AG and Ford Motor Co also have relatively high ratios at 4.85 and 4.48,  respectively. On the other hand,  General Motors Co has the lowest fixed asset turnover at 2.13,  suggesting that it may have excess capacity or underutilized assets.
-- BMW's fixed asset turnover of 4.10 suggests that it is reasonably efficient in using its manufacturing facilities and equipment to generate sales. However,  there may be room for improvement when compared to some of its peers,  such as Mercedes-Benz Group AG and Volkswagen AG.
+- Debt/EBIT: This metric compares the amount of debt a company has on its balance sheet to the [[Operating Income vs. Net Income What's the Difference|Operating Income]] it generates per year. It is indicative of how well a company can support the debt it has taken on with its earnings. Again,  BMW has the lowest Debt/ [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] ratio,  with MBG coming in second lowest due to its higher debt levels of \$120,  447,  000 vs BMW's $107,  751.63
+- [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]: [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]] measures a company's efficiency in generating sales from its fixed assets,  such as property,  plant,  and equipment. It is calculated by dividing total revenue by average fixed assets. This ratio is particularly relevant for auto companies since they heavily rely on capital-intensive manufacturing facilities and equipment to produce vehicles. A higher [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]] indicates that a company is using its assets more efficiently to generate sales. BMW has a [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]] of 4.10,  which is higher than the median of 4.29 but lower than the average of 4.13. Mercedes-Benz Group AG has the highest ratio at 5.89,  indicating that it is the most efficient in utilizing its fixed assets to generate sales. Volkswagen AG and Ford Motor Co also have relatively high ratios at 4.85 and 4.48,  respectively. On the other hand,  General Motors Co has the lowest [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]] at 2.13,  suggesting that it may have excess capacity or underutilized assets.
+- BMW's [[Fixed Asset Turnover Ratio|Fixed Asset Turnover]] of 4.10 suggests that it is reasonably efficient in using its manufacturing facilities and equipment to generate sales. However,  there may be room for improvement when compared to some of its peers,  such as Mercedes-Benz Group AG and Volkswagen AG.
 
 Return on Invested Capital (ROIC):
 ROIC measures the return a company generates on its invested capital,  indicating how effectively a company uses its capital to generate profits. For auto manufacturers,  ROIC is an important metric for assessing the efficiency and profitability of its investments. High ROIC indicates effective use of capital. So long as the company can keep finding investments with ROIC greater than the cost of capital,  it can continue growing.
@@ -32,7 +37,7 @@ Mercedes-Benz Group AG and Ford Motor Co have ROIC values close to the average a
 
 BMW and Volkswagen have the lowest ROIC values among the group. For BMW,  this could be due to:
 
-1. Lower NOPAT: - BMW's NOPAT is $7,  424.90 million. Comparing this with Mercedes-Benz ($11,  979.91 million) and Volkswagen ($19,  116.05 million),  we see that BMW generates lower NOPAT. This suggests lower operating efficiency or higher tax expenses relative to its peers. Indeed,  BMW's operating margin is 9.53%,  which is higher than the average of 7.81% but lower than Mercedes-Benz Group AG's margin of 9.72%.
+1. Lower NOPAT: - BMW's NOPAT is $7,  424.90 million. Comparing this with Mercedes-Benz ($11,  979.91 million) and Volkswagen ($19,  116.05 million),  we see that BMW generates lower NOPAT. This suggests lower operating efficiency or higher tax expenses relative to its peers. Indeed,  BMW's [[Operating Margin]] is 9.53%,  which is higher than the average of 7.81% but lower than Mercedes-Benz Group AG's margin of 9.72%.
 1. Higher invested capital: - BMW's invested capital amounts to $189,  676.19 million,   which is relatively high compared to Mercedes-Benz ($178,  307.14 million) and Volkswagen ($128,  847.28 million). The higher invested capital indicates significant investments in assets and infrastructure.
 Volkswagen’s low ROIC of 0.95% is attributable to its NOPAT of $3,  457,  515 which is the lowest in the group,  and its higher than average invested capital of $364,  647,  060. The combination of high investment and low returns suggests an overinvestment in capital projects or acquisitions that have underperformed.
 

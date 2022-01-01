@@ -15,7 +15,7 @@ title: CONTINUOUSLY COMPOUNDING INTEREST
 
 #TA_Session
 
-The LIBOR annual interest rate 𝑟𝑑 compounds at a discrete frequency. For example, interest may compound on an annual basis, a semi-annual basis, a monthly basis, and so on.
+The [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] annual interest rate 𝑟𝑑 compounds at a discrete frequency. For example, interest may compound on an annual basis, a semi-annual basis, a monthly basis, and so on.
 Let 𝑛 denote the discrete frequency with which interest compounds in a year. For example, if interest compounds on an annual basis, then 𝑛 = 1. If interest compounds on a semi-annual basis, then 𝑛 = 2. If interest compounds on a monthly basis, then 𝑛 = 12.
 
  For a given maturity 𝑇 and discrete compounding frequency 𝑛, the gross rate of return is$$\left(1+\frac{r_d}n\right)^{n\cdot T}$$

@@ -40,7 +40,7 @@ Positions and cash flows for a dealer who has an obligation to receive the fixed
 > the swap, we are lending the counterparty money for 1 year beginning in 1 year. If the deal is priced fairly, the interest rate on this loan should be the implied forward interest rate.
 
 ### THE SWAP COUNTERPARTY
-+ The swap counterparty is a dealer who hedges the oil price risk resulting from the swap. The dealer can hedge in several ways. First, imagine that an oil seller would like to lock in a fixed selling price of oil. In this case, the dealer locates the oil buyer and seller and serves as a go-between for the swap, receiving payments from one party and passing them on to the other. In practice the fixed price paid by the buyer exceeds the fixed price received by the seller. This price difference is a bid-ask spread and is the dealer’s fee.
++ The swap counterparty is a dealer who hedges the oil price risk resulting from the swap. The dealer can hedge in several ways. First, imagine that an oil seller would like to lock in a fixed selling price of oil. In this case, the dealer locates the oil buyer and seller and serves as a go-between for the swap, receiving payments from one party and passing them on to the other. In practice the fixed price paid by the buyer exceeds the fixed price received by the seller. This price difference is a [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] and is the dealer’s fee.
 + The oil seller receives the spot price for oil and receives the swap price less the spot price, on net receiving the swap price. The oil buyer pays the spot price and receives the spot price less the swap price. The situation where the dealer matches the buyer and seller is called a back-to-back transaction or “matched book” transaction. The dealer bears the credit risk of both parties but is not exposed to price risk.
 
 ![](IMG-20240913171236361.png)
@@ -56,7 +56,7 @@ Positions and cash flows for a dealer who has an obligation to receive the fixed
 
 	- Positions and cash flows for a dealer who has an obligation to receive the fixed price in an oil swap and who hedges the exposure by going long year 1 and year 2 oil forwards.
 	
-+ This example shows that hedging the oil price risk in the swap, with forwards only, does not fully hedge the position. The dealer also has interest rate exposure. If interest rates fall, the dealer will not be able to earn a sufficient return from investing$0.483 in year 1 to repay$0.517 in year 2. Thus, in addition to entering oil forwards, it would make sense for the dealer to use Eurodollar contracts or forward rate agreements to hedge the resulting interest rate exposure.
++ This example shows that hedging the oil price risk in the swap, with forwards only, does not fully hedge the position. The dealer also has interest rate exposure. If interest rates fall, the dealer will not be able to earn a sufficient return from investing$0.483 in year 1 to repay$0.517 in year 2. Thus, in addition to entering oil forwards, it would make sense for the dealer to use Eurodollar contracts or [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]] to hedge the resulting interest rate exposure.
 
 ## THE MARKET VALUE OF A SWAP
 + When a swap is first entered, its market value is zero. Once payments begin, the market value is generally nonzero.

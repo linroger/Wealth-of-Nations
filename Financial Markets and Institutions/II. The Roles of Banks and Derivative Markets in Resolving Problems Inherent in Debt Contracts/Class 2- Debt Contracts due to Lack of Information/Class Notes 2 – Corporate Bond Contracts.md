@@ -1,17 +1,31 @@
 ---
-aliases:
-- "Alias_18_Class Notes 2 \u2013 Corporate Bond Contracts.md"
-- "Example_Alias_Class Notes 2 \u2013 Corporate Bond Contracts"
+cssclasses:
+  - academia
+aliases: []
 tags:
-- tag_example
-- example_tag
-title: "Class Notes 2 \u2013 Corporate Bond Contracts"
+  - tag_example
+  - example_tag
+  - bonds
+  - indentures
+  - covenants
+  - callprovisions
+  - trustee
+  - creditordefaultprotections
+  - contractmodifications
+  - defeasance
+  - corporatebonds
+  - "#financial-instruments"
+  - "#bond-valuation"
+  - "#debt-structuring"
+  - "#corporate-bond-contracts"
+  - "#indenture-analysis"
+  - "#creditor-rights"
+title: Class Notes 2 – Corporate Bond Contracts
 ---
 
-
-
-
 # Class Notes 2 – Corporate Bond Contracts
+
+[[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 Bonds are defined by legal contracts,  called *indentures*,  which spell out the rights and responsibilities of both sides. We will explore this contracting by reading the prospectus of a recent offering and analyzing its salient features,  and by discussing contract features that arise elsewhere.
 
@@ -22,10 +36,10 @@ Bonds are defined by legal contracts,  called *indentures*,  which spell out the
 | See:                                          |          |                  |
 | --------------------------------------------- | -------- | ---------------- |
 |                                               | Per Note | Total            |
-| Initial public offering price(1)              | 100%     | $750,        000,        000 |
-| Underwriting discount                         | 0.325%   | $2,        437,        500   |
-| Proceeds,        before expenses,        to MGM MIRAGE(1) | 99.675%  | $747,        562,        500 |
-| (1) Plus accrued interest,        if any            |          |                  |
+| Initial public offering price(1)              | 100%     | $750,          000,          000 |
+| Underwriting discount                         | 0.325%   | $2,          437,          500   |
+| Proceeds,          before expenses,          to MGM MIRAGE(1) | 99.675%  | $747,          562,          500 |
+| (1) Plus accrued interest,          if any            |          |                  |
 
 So the underwriters,  led by Barclays,  BNP,  UBS,  and Wachovia,  share $2.4375MM.
 
@@ -38,7 +52,7 @@ So the underwriters,  led by Barclays,  BNP,  UBS,  and Wachovia,  share $2.4375
 - Trustee
 - Use of proceeds In this bond's summary,  we see the same material from the Bloomberg,  and also
 - There is some sort of optional redemption
-- There are several covenants We'll return to the covenants later.
+- There are several [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] We'll return to the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] later.
 First,  let's look at this optional redemption. On page S-10,  we get this:
 
 ## Optional Redemption
@@ -73,7 +87,7 @@ Much of the rest of the prospectus is boilerplate and standard disclosure:
 
 An indenture will have a section on covenants,  which are actions the issuer either commits to do (positive covenants) or not do (negative covenants). How do they add value?
 
-- If management always maximizes expected value,  there is no positive role for covenants. They can only reduce expected value by constraining management. A covenant might make debt sell for more,  but if it doesn't increase total value,  then it must simultaneously make equity worth less,  so the net effect to equity from selling the debt is negative. So,  covenants must be there to defend against management's bad incentives,  particularly its willingness to take negative NPV actions that move value from debt to equity. The MGM bond lists three covenants: Negative Pledge
+- If management always maximizes expected value,  there is no positive role for covenants. They can only reduce expected value by constraining management. A covenant might make debt sell for more,  but if it doesn't increase total value,  then it must simultaneously make equity worth less,  so the net effect to equity from selling the debt is negative. So,  [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] must be there to defend against management's bad incentives,  particularly its willingness to take negative NPV actions that move value from debt to equity. The MGM bond lists three covenants: Negative Pledge
 - This bond is not secured. Thus,  the assets supporting it are,  generally speaking,  the company assets that are not already pledged to other creditors.
 - The purpose of the Negative Pledge clause is to prevent the company from now giving some new debt a prior claim on those assets.
 
@@ -82,7 +96,9 @@ In the prospectus on page S-12,  we see:
 ## Limitations On Liens
 
  Other than as provided below under "Exempted Liens and Sale-Lease-Back Transactions,  " neither MGM MIRAGE nor any of the Subsidiary Guarantors may issue,  assume,  or guarantee any indebtedness secured by a Lien upon any Principal Property or on any evidences of Indebtedness or shares of capital stock of,  or other ownership interests in,  any Subsidiaries (regardless of whether the Principal Property,  Indebtedness,  capital stock,  or ownership interests were acquired before or after the date of the indenture) without effectively providing that the notes shall be secured equally and ratably with (or prior to) such Indebtedness so long as such Indebtedness shall be so secured,  except that this restriction will not apply to: (a) Liens existing on the date of original issuance of the notes; (b) - (l) [other exceptions]
+
 Restrictions on Sale and Leaseback Transactions: A sale-and-leaseback transaction is almost equivalent,  economically,  to secured borrowing. Firm sells an asset to another firm (e.g. GE Capital) and simultaneously enters a long-term contract to lease the same asset. If the firm defaults on the contract,  the owner can take back the asset. If the lease term covers the economic life of the asset,  this is very,  very close to secured borrowing (note that the owner gets to keep the asset after the lease expires,  but its economic life is over).
+
 So this is similar to the negative pledge clause. However,  it is not possible to pledge some of the value of the sold asset to the bondholders,  so what this restriction says instead is that sale-and-leaseback is OK as long as the sale proceeds either
 
 - Buy new assets that are available to the bondholders,  or - Are spent on retiring MGM debt. Other than as provided below under " - Exempted Liens and Sale and Lease-Back Transactions,  " neither MGM MIRAGE nor any Subsidiary Guarantor will enter into any Sale and Lease-Back Transaction unless either:
@@ -103,10 +119,15 @@ Consolidation,  Merger,  and Sale of Assets This just says that MGM will not be 
 ## Rights of Creditors Upon Default
 
 Following the covenants,  the indenture lists the **Events of Default**:
+
  a) Default on interest beyond a 30-day grace period
+
  b) Default on principal when it's due
+
  c) Acceleration of any other sufficiently big debt of MGM
+
  d) A sufficiently big judgment against MGM
+
  e) Default on any *other* covenants,  if *either*
 
  - i) the trustee wants to pursue this,  or
@@ -144,9 +165,9 @@ Why limit bondholders' rights this way? Suppose you didn't,  and instead let any
 
 We and the trustee,  at any time and from time to time,  may modify the indenture in respect of the notes without prior notice to or consent of any holder of the notes for any of the following purposes:
 
-- **to permit a successor corporation to assume our covenants and obligations under the indenture**
+- **to permit a successor corporation to assume our [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] and obligations under the indenture**
 and in the notes in accordance with the terms of the indenture;
-- **to add to our covenants for the benefit of the holders of the notes;** - **to surrender any of our rights or powers conferred in the indenture;** - **to add any additional events of default;** - to supplement any of the provisions of the indenture to the extent needed to permit or facilitate the defeasance and discharge of the notes in a manner that will not adversely affect the interests of the holders of such notes in any material respect;
+- **to add to our [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] for the benefit of the holders of the notes;** - **to surrender any of our rights or powers conferred in the indenture;** - **to add any additional events of default;** - to supplement any of the provisions of the indenture to the extent needed to permit or facilitate the defeasance and discharge of the notes in a manner that will not adversely affect the interests of the holders of such notes in any material respect;
 - to provide for the acceptance of appointment by a successor trustee with respect to the notes and to add to or change any of the provisions of the indenture as is necessary to provide for the administration of the trust by more than one trustee;
 - to comply with the requirements of the SEC in connection with qualification of the indenture under the Trust Indenture Act;
 - **to cure any ambiguity;** - to correct or supplement any provision in the indenture which may be defective or inconsistent with any other provision in the indenture;
@@ -164,14 +185,18 @@ time for payment of interest of the notes or any premium payable upon the redemp
 
 The indenture provides that the holders of not less than a majority in aggregate principal amount of the notes,  by notice to the trustee,  may on behalf of the holders of the notes waive any default and its consequences under the indenture in respect of the notes,  **except (1) a continuing default in the payment of** interest on,  premium,  if any,  or the principal of,  any note held by a nonconsenting holder or (2) a default in respect of a covenant or provision hereof which cannot be modified or amended without the consent of the holder of each note.
 
-What this says is,  the issuer can change *almost anything in the indenture* if a majority of the bondholders agree (the text in green). What they *can't* change,  due to the Trust Indenture Act,  is anything having to do with timely payment of principal and interest (the text in red). That can be amended only with a unanimous vote. Holding a vote to remove covenants and other contract features turns out to be a useful tactic for distressed firms,  which we will cover in detail. For now,  notice that one could seriously damage the value of a bond without changing its principal,  interest,  or maturity.
+What this says is,  the issuer can change *almost anything in the indenture* if a majority of the bondholders agree (the text in green). What they *can't* change,  due to the Trust Indenture Act,  is anything having to do with timely payment of principal and interest (the text in red). That can be amended only with a unanimous vote. Holding a vote to remove [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] and other contract features turns out to be a useful tactic for distressed firms,  which we will cover in detail. For now,  notice that one could seriously damage the value of a bond without changing its principal,  interest,  or maturity.
 
-- For example,  with this bond,  one could remove the part of the indenture that says the bond is senior,  and instead make it junior. The law does not mandate that covenants be changeable by majority vote. An indenture could require a ¾ vote or some other supermajority,  and it could also require a unanimous vote.
+- For example,  with this bond,  one could remove the part of the indenture that says the bond is senior,  and instead make it junior. The law does not mandate that [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] be changeable by majority vote. An indenture could require a ¾ vote or some other supermajority,  and it could also require a unanimous vote.
 
 ## Defeasance
 
+[[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+
 Essentially all corporate bonds allow for *defeasance and discharge:*
+
 Defeasance and discharge:* The indenture provides that we may be discharged from any and Discharge**.
+
 obligations under the notes other than:
 
 - certain obligations to pay additional amounts,  if any,  upon the occurrence of certain tax,  assessment,  or governmental charge events regarding payments on the notes;
@@ -186,8 +211,9 @@ In other words,  the issuer can get out of,  i.e. be *discharged* of,  whatever 
 - On or before each coupon or principal repayment date of the bond,  the portfolio pays at least as much as the scheduled payment
 - Place this portfolio in an irrevocable trust which is directed to use the portfolio's payments to make the remaining payments on the bond
 - The investors in a defeased bond would regard it as riskless,  and it would trade at something very close to the Treasury yield
-- By the same token,  the cost of the portfolio of Treasuries is the present value of the bond's future payments,  discounted at the Treasury rate If the bond's indenture gives the issuer the right to defease the bond,  then the issuer is no longer bound by the covenants after defeasance Connection between defeasance and make-whole call options: If MGM were to exercise its make-whole call option,  it would pay bondholders the present value of its bond's future payments,  discounted at the Treasury rate plus 50bp
+- By the same token,  the cost of the portfolio of Treasuries is the present value of the bond's future payments,  discounted at the Treasury rate If the bond's indenture gives the issuer the right to defease the bond,  then the issuer is no longer bound by the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] after defeasance Connection between defeasance and make-whole call options: If MGM were to exercise its make-whole call option,  it would pay bondholders the present value of its bond's future payments,  discounted at the Treasury rate plus 50bp
 - If MGM were to defeas the bond,  it would buy the portfolio of Treasury bonds. The cost is the present value of its bond's future payments,  discounted at the Treasury rate. By construction,  this is a somewhat higher cost The net effect of exercising the make-whole option is the same as the net effect of defeasing the bond
-- After exercising the make-whole option,  the bond is gone. - After defeasing the bond,  it is effectively gone. The payments to bondholders will come from the trust,  not from MGM,  and the covenants are no longer in effect. From the bondholders' point of view,  the two strategies are very similar.
+- After exercising the make-whole option,  the bond is gone. - After defeasing the bond,  it is effectively gone. The payments to bondholders will come from the trust,  not from MGM,  and the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] are no longer in effect. From the bondholders' point of view,  the two strategies are very similar.
 - With the make-whole call,  they get an amount slightly less than the present value of the future payments discounted at the Treasury rate.
 - With the defeasance,  they get a bond that is now as safe as a Treasury bond,  but isn't a Treasury bond. It is still an MGM note,  and is probably somewhat illiquid. Which do they prefer? They might actually prefer the make-whole call,  depending on how close the defeased bond trades to the Treasury rate. In any case,  they are very similar.
+Tags: #bonds #indentures #covenants #callprovisions #trustee #creditordefaultprotections #contractmodifications #defeasance #corporatebonds #indentures

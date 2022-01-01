@@ -1,13 +1,41 @@
 ---
-aliases:
-- Alias_312_Week 3 Financial Risk Analysis.md
-- Alias_315_Week 3 Financial Risk Analysis.md
-tags:
-- tag_example
 title: Week 3 Financial Risk Analysis
+cssclasses:
+  - academia
+aliases: 
+tags:
+  - riskanalysis
+  - investmentanalysis
+  - financialmarkets
+  - economic-depression
+  - cyclical-industries
+  - valuation-methods
+  - competitive-analysis
+  - quantitative-finance
+  - economic-theory
+  - financial-markets
+  - macroeconomics
+  - financial-forecasting
+  - economic-moats
+  - financial-instruments
+  - risk-management
+  - credit-cycles
+  - financial-crises
+  - bankruptcy-prediction
+  - financial-risk-analysis
+  - liquidity-ratios
+  - debt-management
+  - economic-history
+  - macroeconomic-policymaking
+  - financial-derivatives
+  - credit-default-swaps
+  - "#debt-management-strategies"
+  - "#financial-intermediation"
+  - "#financial-crisis"
+  - "#financial-regulation"
 ---
 
-
+[[Week 3 Financial Risk Analysis|[[Week 3 Financial Risk Analysis|risk analysis]]]]
 
 # Week 3 Financial Risk Analysis
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION
@@ -29,11 +57,11 @@ title: Week 3 Financial Risk Analysis
 - Risk-Incentive Problem (Ex Post)
 	- Subsequent increases in credit risk transfer wealth from the lender to the borrower
 	- Analyze whether risk or strategy has changed
-	- Place covenants into the lending agreement
+	- Place [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] into the lending agreement
 - Information And Risk Analysis Are Critical With Respect To Both Problems
 
 ### FINANCIAL RISK ANALYSIS TOOLBOX
-- Ratio Analysis
+- [[Week 1 Ratio Analysis + Valuation Review|Ratio Analysis]]
 	- Liquidity,  profitability and solvency ratios
 - Cash-flow analysis
 	- Understand business model
@@ -58,7 +86,7 @@ title: Week 3 Financial Risk Analysis
 - Inventory holding period
 	- $$\text{Inventory holding period} = \frac{365}{\text{inventory turnover}}$$
 - A/R turnover
-	- $$\text{A/R turnover} = \frac{\text{net credit sales (if available,   otherwise,   sales)}}{\text{avg. net A/R}}$$
+	- $$\text{A/R turnover} = \frac{\text{net credit sales (if available,         otherwise,         sales)}}{\text{avg. net A/R}}$$
 - A/R collection period
 	- $$\text{A/R collection period} = \frac{365}{\text{A/R turnover}}$$
 - Operating cycle
@@ -73,9 +101,9 @@ title: Week 3 Financial Risk Analysis
 - Cash-to-cash cycle
 	- $$\text{Cash-to-cash cycle} = \text{Operating cycle} - \text{A/P period}$$
 - Defensive interval (in days)
-	- $$\text{Defensive interval (in days)} = 365 \times \frac{\text{Cash} + \text{Mkt. Sec.} + \text{A/R}}{\text{COGS} + \text{other op. exp (excluding deprec.,   amort.)}}$$
+	- $$\text{Defensive interval (in days)} = 365 \times \frac{\text{Cash} + \text{Mkt. Sec.} + \text{A/R}}{\text{COGS} + \text{other op. exp (excluding deprec.,         amort.)}}$$
 - Cash burn cycle (in days)
-	- $$\text{Cash burn cycle (in days)} = 365 \times \frac{\text{Cash raised from investors}}{\text{COGS} + \text{other op. exp (excluding deprec.,   amort.)}}$$
+	- $$\text{Cash burn cycle (in days)} = 365 \times \frac{\text{Cash raised from investors}}{\text{COGS} + \text{other op. exp (excluding deprec.,         amort.)}}$$
 - Liquidity index
 	- $$\text{Liquidity index} = \frac{(\text{A/R} \times \text{collection period}) + (\text{Inv.} \times \text{Inv. holding period})}{\text{Cash} + \text{Mkt. Sec.} + \text{A/R} + \text{Inventory}}$$
 - Cash flow adequacy ratio
@@ -168,7 +196,7 @@ title: Week 3 Financial Risk Analysis
 - Decline in employee productivity (job hunting,  low morale) and/or ↑ in turnover
 - Customers' and suppliers' concerns about potential interruptions or cancellations of warranties,  parts,  service
 - Fire-sale of assets
-- Potential underinvestment (shareholders' unwilling to fund new projects since benefits will accrue to bondholders,  and since debt covenants prohibit additional borrowing)
+- Potential underinvestment (shareholders' unwilling to fund new projects since benefits will accrue to bondholders,  and since debt [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] prohibit additional borrowing)
 - Management time spent in discussions with creditors and investment bankers about refinancing and reorganization (instead of running the business)
 - Costs Of Financial Distress Likely Vary Across Industries And Over Time
 - ![](3e418c137201bf8000d09e61787f4169.png)
@@ -196,7 +224,7 @@ title: Week 3 Financial Risk Analysis
 	- Only three major rating agencies
 	- Ratings are often required for regulatory purposes (by "Nationally Recognized Statistical Rating Organization" or NRSRO)
 - Downgrades can become self-fulfilling prophecy
-- Dodd-Frank eliminates reference to ratings for capital requirements
+- [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] eliminates reference to ratings for capital requirements
 	- Prediction models do not have this constraint
 	- "Stability" of ratings is viewed as desirable
 
@@ -206,7 +234,7 @@ title: Week 3 Financial Risk Analysis
 	- How do we combine ratios or assess probability of default?
 	- Similar to prediction of fraud or accounting manipulations
 ### BANKRUPTCY PREDICTION MODELS
-- Altman's Z score (1968) - Godfather of all bankruptcy prediction models
+- Altman's Z score (1968) - Godfather of all [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] prediction models
 - Modified versions of Z score model
 - Ohlson model (1980)
 	- Econometric improvement but conceptually similar
@@ -222,7 +250,7 @@ title: Week 3 Financial Risk Analysis
 - Data:
 	- Bankrupt sample
 		- 33 manufacturing firms
-		- Filed for bankruptcy between 1946-65
+		- Filed for [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] between 1946-65
 		- Asset size: $0.7 million to $25.9 million (avg. total assets of $6 million)
 	- Non-bankrupt sample
 		- 33 manufacturing firms
@@ -233,7 +261,7 @@ Higher is 'better'
 | Ratio | Characteristic |
 |-------|-----------------|
 | Z-Score = 1.2 [working capital/ total assets] | ST liquidity |
-| + 1.4 [retained earnings / total assets] | Age,   accumulated profitability,   internal financing (vs. debt) |
+| + 1.4 [retained earnings / total assets] | Age,         accumulated profitability,         internal financing (vs. debt) |
 | + 3.3 [EBIT / total assets] | Profitability of assets |
 | + 0.6 [mkt val equity / book val total liab] | LT solvency risk and mkt's assessment of profitability & risk |
 | + 1.0 [sales / total assets] | Asset utilization |
@@ -247,7 +275,7 @@ Higher is 'better'
 	- Z < 2.675 => E\[Bankrupt]
 	- Z>= 2.675 => E\[Non-bankrupt]
 	- ![](f316ee52c077d78628422ffb893569d3.png)
-- Accuracy falls off as number of years before bankruptcy increases
+- Accuracy falls off as number of years before [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] increases
 	- 1 year prior to bankruptcy: overall correct: 95%
 	- 2 years prior to bankruptcy: overall correct: 83%
 	- 5 years prior to bankruptcy: overall correct: 36%
@@ -274,7 +302,7 @@ Higher is 'better'
 	- Model implicitly uses info in stock prices
 	- Use of market information makes the model more timely
 - EDF (expected default frequency) = probability of default
-	- Like the accounting-based bankruptcy prediction models,  the KMV model is focused on the default probability; does not estimate losses given a default
+	- Like the accounting-based [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] prediction models,  the KMV model is focused on the default probability; does not estimate losses given a default
 	- Loss-given-default (LGD) depends on the seniority,  collateral,  convertibility,  covenants,  etc.
 - For more details on KMV model:
 	- See Additional Readings folder on Chalk: e.g.,  primer on KMV by Moody's
@@ -282,7 +310,9 @@ Higher is 'better'
 ### BASIC IDEA BEHIND KMV MODEL
 
 ![](7cb534f48db9b9c797cc49d489e31ef6.png)
+
 This is not necessarily the face value of debt
+
 Commonly used default point = current liabilities + 50% long-term liabilities
 
 ### BASIC IDEA: EXAMPLE

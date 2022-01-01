@@ -1,18 +1,14 @@
 ---
-aliases:
-- Corporate Default and Recovery Rates,  1920-2008
-- Example_Alias_Moody's Corporate Default and Recovery Rates,  1920-2008
-- Alias_37_Moody's Corporate Default and Recovery Rates,  1920-2008.md
-- Special Comment
-linter-yaml-title-alias: Corporate Default and Recovery Rates,  1920-2008
+cssclasses: academia
+aliases: [Corporate Default and Recovery Rates,  1920-2008,  Special Comment]
+linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
 tags:
-- tag_example
-- example_tag
-title: Corporate Default and Recovery Rates,  1920-2008
+  - tag_example
+  - example_tag
+title: "Moody's Corporate Default and Recovery Rates,  1920-2008"
 ---
 
-
-
+[[Moody's Corporate Default and Recovery Rates,   1920-2008|Corporate Defaults]]
 
 # Moody's Corporate Default and Recovery Rates,  1920-2008
 
@@ -20,11 +16,11 @@ title: Corporate Default and Recovery Rates,  1920-2008
 
 This report comprises Moody's twenty-second annual default study in which we update statistics on the default,  loss,  and rating transition experience of corporate bond and loan issuers for 2008,  as wellas for the historical period since 1920 Briefly,  we find that
 
- 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,    2008,    104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
+ 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,     2008,     104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
 
-The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the bankruptcy of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
+The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
 
-Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,    12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
+Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,     12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
 
 <table>
 	<tbody>
@@ -106,13 +102,13 @@ Rating downgrades in 2008 surpassed rating upgrades for the first time since 200
 
 Moody's credit ratings facilitate the efficient functioning of capital markets by providing independent opinions on the creditworthiness of debt obligations issued by corporate issuers around the world. One of the primary purposes of Moody's corporate default study is to communicate the historical performance of Moody's ratings as predictors of default and loss severity for corporate issuers. In addition to providing useful data for investors and regulators,  Moody’s default studies also contribute to the transparency of the rating process and directly address the meaning of Moodys long-term debt ratings scale.
 
-In the following three sections,  we first summarize corporate default experience and credit trends in 2008 and discuss Moody’s forecast for speculative-grade corporate defaults and recovery rates in 2009. This is followec by a review of rating accuracy metrics. We then present historical statistics on corporate defaults,  ratings transitions,  ratings performance metrics,  and recovery rates. This year's default study contains several revisions to the historical data relative to previous years' reports,  which are described in detail in a separate section at the end of the study. Finally,  this report includes several detailed sections describing the methodologies used to generate the statistics as well as a guide to their reading and interpretation.
+In the following three sections,  we first summarize corporate default experience and credit trends in 2008 and discuss Moody’s forecast for speculative-grade [[Moody's Corporate Default and Recovery Rates,   1920-2008|corporate defaults]] and recovery rates in 2009. This is followec by a review of rating accuracy metrics. We then present historical statistics on [[Moody's Corporate Default and Recovery Rates,   1920-2008|corporate defaults]],  ratings transitions,  ratings performance metrics,  and recovery rates. This year's default study contains several revisions to the historical data relative to previous years' reports,  which are described in detail in a separate section at the end of the study. Finally,  this report includes several detailed sections describing the methodologies used to generate the statistics as well as a guide to their reading and interpretation.
 
 # 2008 - Financial Crisis Leads to Record Default Volumes
 
-The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the bankruptcy of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
+The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
 
-World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,    84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,    defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
+World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,     84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,     defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
 
 ------------------------------------------------------------------
 
@@ -124,7 +120,7 @@ Exhibit 1
 
 Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming,  & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and Banking sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting financial institutions in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
 
-A unique characteristic of initial default events in 2008 was the high incidence of distressed exchanges. With debt markets essentially closed for high yield issuers,  and the scarcity of DiP financing making bankruptcy a less attractive option,  distressed issuers with unsustainable capital structures or liquidity problems had few options other than to offer debt exchanges,  effectively implementing out-of-court restructurings that constitute events of default under Moody's definition of default. Of the 101 defaulters in 2008,  $23\%$ ,  Or 23,  were distressed exchanges,  which is more than double the historical average of $10\%$ of total initial default events. Exhibit 2 breaks down the 101 defaults in 2008 by initial default type and broad industry.
+A unique characteristic of initial default events in 2008 was the high incidence of distressed exchanges. With debt markets essentially closed for high yield issuers,  and the scarcity of DiP financing making [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] a less attractive option,  distressed issuers with unsustainable capital structures or liquidity problems had few options other than to offer debt exchanges,  effectively implementing out-of-court restructurings that constitute events of default under Moody's definition of default. Of the 101 defaulters in 2008,  $23\%$ ,  Or 23,  were distressed exchanges,  which is more than double the historical average of $10\%$ of total initial default events. Exhibit 2 breaks down the 101 defaults in 2008 by initial default type and broad industry.
 
 ------------------------------------------------------------------
 
@@ -396,7 +392,7 @@ Exhibit 5
 1. Based on 30-day post-default market prices.
 1. 2008's average senior unsecured loan recoveries are based on three observations. 3. Only includes defaults on preferred stock that are associated or followed by a broader debt default. Average recovery rates for preferred stock only covers the period of 1983-2008.
 
-Value-weighted recovery rates were noticeably lower than issuer-weighted recovery rates in 2008 as larger defaulters experienced lower recovery rates relative to those of smaller defaulters. And,  as shown in Exhibit 6 the recovery rates for large financial institutions in 2008 were especially low with Lehman Brothers recovering $9\%$ on its senior unsecured bonds and the three Icelandic banks recoveringless than $5\%$ on their senior unsecured bonds. Washington Mutual Bank and Washington Mutual,  however,  recovered an average of $42\%$ and the GMAC's distressed debt exchange led the pack with a relatively high recovery rate at about $70\%$
+Value-weighted recovery rates were noticeably lower than issuer-weighted recovery rates in 2008 as larger defaulters experienced lower recovery rates relative to those of smaller defaulters. And,  as shown in Exhibit 6 the recovery rates for large financial institutions in 2008 were especially low with Lehman Brothers recovering $9\%$ on its senior unsecured bonds and the three Icelandic banks recoveringless than $5\%$ on their senior unsecured bonds. Washington Mutual Bank and Washington Mutual,  however,  recovered an average of $42\%$ and the GMAC's [[A Primer on Distressed Investing|distressed debt]] exchange led the pack with a relatively high recovery rate at about $70\%$
 
 ------------------------------------------------------------------
 
@@ -636,7 +632,7 @@ Exhibit 7
 
 The recovery data discussed above is based on debt trading prices 30 days after the default date. An alternative recovery measure is based on ultimate recoveries,  or the value creditors realize at the resolution of a default event. For example,  for issuers filing for bankruptcy,  the ultimate recoveries are the present values of the cash and/or securities that creditors actuallyreceive when these issuers exit bankruptcy,  typically 1-2 years following their initial default dates.
 
-In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from bankruptcy or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was $63.0\%$ ,  below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed cyclicality of ultimate recovery rates and default rates.
+In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was $63.0\%$ ,  below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]] of ultimate recovery rates and default rates.
 
 Exhibit 8
 
@@ -781,7 +777,7 @@ Exhibit 13
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,    which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
+In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,     which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
 
 Exhibit 14
 

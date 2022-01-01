@@ -4,7 +4,7 @@ tags: [tag_example,  example_tag]
 title: Lecture 1Probability Distributions of Returns
 ---
 
-# Lecture 1Probability Distributions of Returns
+# Lecture 1 Probability Distributions of Returns
 ## Advanced Investments Lecture 1
 
 Investment decisions can be broken down into
@@ -12,17 +12,17 @@ Investment decisions can be broken down into
 - Macro decisions: Allocation to broad asset classes such as equities,  bonds,  private equity,  commodities,  etc.
 - Micro decisions: Choice of individual assets within an asset class,  such as selection of individual stocks within the equities asset class
 
-In this course,  we focus mostly on macro decisions. The asset allocation decision at the macro level has huge influence on the returns of large portfolios of institutional and private investors. The reason is that returns of securities within an asset class have substantial positive correlation. For example,  most individual stocks' returns are quite strongly positively correlated with the stock market index. So when the index moves up,  these stocks are likely going up,  too. A portfolio that allocates a big share to a somewhat diversified portfolio of equities therefore will very likely fluctuate quite strongly in line with a stock market index. A portfolio that has a small allocation to equities (and,  e.g.,  a much higher allocation to bonds) won't. So once the asset allocation is set,  the risk properties of the portfolios are already pinned down to a substantial extent. Which securities are selected within an asset class also matters,  but less so.
+In this course,  we focus mostly on macro decisions. The [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] decision at the macro level has huge influence on the returns of large portfolios of institutional and private investors. The reason is that returns of securities within an asset class have substantial positive correlation. For example,  most individual stocks' returns are quite strongly positively correlated with the stock market index. So when the index moves up,  these stocks are likely going up,  too. A portfolio that allocates a big share to a somewhat diversified portfolio of equities therefore will very likely fluctuate quite strongly in line with a stock market index. A portfolio that has a small allocation to equities (and,  e.g.,  a much higher allocation to bonds) won't. So once the [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] is set,  the risk properties of the portfolios are already pinned down to a substantial extent. Which securities are selected within an asset class also matters,  but less so.
 
-We will spend a good portion of the time in this course on learning how we can assess properties of risk and return of different asset classes. Knowing these risk-return properties,  and their economic drivers,  is a prerequisite for implementing optimal portfolio choice models.
+We will spend a good portion of the time in this course on learning how we can assess properties of risk and return of different asset classes. Knowing these risk-return properties,  and their economic drivers,  is a prerequisite for implementing optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] models.
 
 We use $R_{t}$ to denote returns of an asset in period $t$. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the $t$ subscript. An $N \times 1$ vector of returns on $N$ assets in period $t$ is denoted with $\boldsymbol{r}_{t}=\left(R_{1,        t},        R_{2,        t},        \ldots,        R_{N,        t}\right)^{\prime}$. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
 
 ### 1.1 Probability distributions of returns
 
-A fundamental property of most asset returns is that future returns are uncertain. Throughout this course,  we use probability distributions to represent this uncertainty. The probability distribution tells us how likely it is that an asset delivers returns falling into various ranges.
+A fundamental property of most asset returns is that future returns are uncertain. Throughout this course,  we use [[Lecture 1- Probability Distributions of Returns|probability distribution]]s to represent this uncertainty. The [[Lecture 1- Probability Distributions of Returns|probability distribution]] tells us how likely it is that an asset delivers returns falling into various ranges.
 
-We often summarize the probability distribution in terms of moments. The first (central) moment of $R_{t}$ is the expected return,  $\mathbb{E}\left[R_{t}\right]$; the second (central) moment of the portfolio return is the variance,  $\operatorname{var}\left(R_{t}\right)$; the third (central) moment is skewness,  etc. Some simple probability distributions can be summarized by a few moments. For example,  if we know the mean and variance of a normally distributed random variable,  we have completely described the distribution. If the distribution of single period (e.g.,  day,  month,  or year) returns $R_{t}$ is a normal distribution with mean $\mu$ and variance $\sigma^{2}$,  we write
+We often summarize the [[Lecture 1- Probability Distributions of Returns|probability distribution]] in terms of moments. The first (central) moment of $R_{t}$ is the expected return,  $\mathbb{E}\left[R_{t}\right]$; the second (central) moment of the portfolio return is the variance,  $\operatorname{var}\left(R_{t}\right)$; the third (central) moment is skewness,  etc. Some simple [[Lecture 1- Probability Distributions of Returns|probability distribution]]s can be summarized by a few moments. For example,  if we know the mean and variance of a normally distributed random variable,  we have completely described the distribution. If the distribution of single period (e.g.,  day,  month,  or year) returns $R_{t}$ is a normal distribution with mean $\mu$ and variance $\sigma^{2}$,  we write
 
 $$
 
@@ -34,11 +34,11 @@ R_{t} \sim \mathcal{N}\left(\mu,        \sigma^{2}\right) \tag{1.1}
 
 $$
 
-The empirical counterpart to a probability distribution is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a probability distribution function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of returns have fallen into various ranges. If we have used a sufficiently large sample of returns to construct the histogram,  the histogram should get close to the true probability distribution of returns.
+The empirical counterpart to a [[Lecture 1- Probability Distributions of Returns|probability distribution]] is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a [[Lecture 1- Probability Distributions of Returns|probability distribution]] function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of returns have fallen into various ranges. If we have used a sufficiently large sample of returns to construct the histogram,  the histogram should get close to the true [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns.
 
 Let's focus on the stock market index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the stock market index with $R$. To look at empirical distribution of returns,  I use monthly returns data from 1927 to 2022 on a value-weighted index of the entire U.S. stock market from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' market capitalization at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate market capitalization of all U.S. stocks at the end of month $t-1$.
 
-Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal probability distribution function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\\%$ range are very rare.
+Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal [[Lecture 1- Probability Distributions of Returns|probability distribution]] function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\\%$ range are very rare.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
 
@@ -46,17 +46,17 @@ Figure 1.1: Empirical distribution of monthly U.S. stock market returns 1927-202
 
 That said,  if we look more closely,  this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ${} \pm 15 \\%$ range are very rare,  they do happen occasionally. Yet according to the normal distribution,  the probability of this happening should be extremely close to zero.
 
-Another question that we will defer for a couple of weeks concerns changes in the probability distribution over time. For example,  is the distribution of future stock returns the same in an economic boom period and in times when we are in a deep recession? Probably not. This is then a question of how the conditional distribution of returns looks like. For example,  following a big market crash (i.e.,  conditional on very low recent returns) does the probability distribution of returns look the same as after a boom period in the stock market (i.e.,  conditional on very high recent returns)?
+Another question that we will defer for a couple of weeks concerns changes in the [[Lecture 1- Probability Distributions of Returns|probability distribution]] over time. For example,  is the distribution of future stock returns the same in an economic boom period and in times when we are in a deep recession? Probably not. This is then a question of how the conditional distribution of returns looks like. For example,  following a big market crash (i.e.,  conditional on very low recent returns) does the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns look the same as after a boom period in the stock market (i.e.,  conditional on very high recent returns)?
 
-But one thing at a a time. For now,  we are going to stick to the assumption that returns are independently and identically distributed (IID) over time. This means that the conditional distribution of returns is not changing. Under this assumption,  no matter what happened in the past,  looking forward,  the probability distribution of future returns is always the same.
+But one thing at a a time. For now,  we are going to stick to the assumption that returns are independently and identically distributed (IID) over time. This means that the conditional distribution of returns is not changing. Under this assumption,  no matter what happened in the past,  looking forward,  the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of future returns is always the same.
 
-The IID assumption is a useful approximation to get us started,  but this is not to say that this is entirely the right perspective. We will later spend a considerable amount of time precisely on the empirical evidence that returns are not IID. But for now,  to discuss basic properties of risk and return,  it makes sense conceptually to leave the issue of dynamically changing probability distributions for the next step of our analysis.
+The IID assumption is a useful approximation to get us started,  but this is not to say that this is entirely the right perspective. We will later spend a considerable amount of time precisely on the empirical evidence that returns are not IID. But for now,  to discuss basic properties of risk and return,  it makes sense conceptually to leave the issue of dynamically changing [[Lecture 1- Probability Distributions of Returns|probability distribution]]s for the next step of our analysis.
 
 Since we are dealing with IID returns,  we reduce notational clutter by dropping the time-subscripts and just write $\mathbb{E}[R],        \operatorname{var}(R)$,  and so on.
 
 ### 1.2 What is risk?
 
-The purpose of using probability distributions in asset allocation analyses is to assess portfolio choices affect the risk and return of the portfolio. If we pick different assets,  or different combinations of assets,  this changes the risk and return properties of our portfolio and probability distributions help us analyze this.
+The purpose of using [[Lecture 1- Probability Distributions of Returns|probability distribution]]s in [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] analyses is to assess [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]s affect the risk and return of the portfolio. If we pick different assets,  or different combinations of assets,  this changes the risk and return properties of our portfolio and [[Lecture 1- Probability Distributions of Returns|probability distribution]]s help us analyze this.
 
 What we mean by return is clear. And when we talk about return in a forwardlooking way,  as the prospective future return on an investment,  we mean the expected return,  $\mathbb{E}[R]$.
 
@@ -96,11 +96,11 @@ i.e.,  we take all the deviations from the mean return,  square them,  and then 
 
 Figure 1.2: Return distributions with different variances and same expected return
 
-Figure 1.2 shows three probability distributions. All with the same expected value ${} \mathbb{E}[R]=0.5 \\%$ (which is about a typical average monthly return on a broad stock market index),  and three different variances. Using variance to measure risk,  asset A is the preferred asset,  as it has the lowest variance.
+Figure 1.2 shows three [[Lecture 1- Probability Distributions of Returns|probability distribution]]s. All with the same expected value ${} \mathbb{E}[R]=0.5 \\%$ (which is about a typical average monthly return on a broad stock market index),  and three different variances. Using variance to measure risk,  asset A is the preferred asset,  as it has the lowest variance.
 
 There are cases where we know that variance is a perfect measure of risk. This is when the distribution of returns is fully described by mean and variance. This is the case for the normal distribution.
 
-For the probability distributions shown in this figure,  most people would probably agree with this choice. If all three assets offers the same return on average,  it makes sense to pick asset A whose realized returns tend to be much more closely concentrated around the expected return and hence less uncertain. (These distributions may look like normal distributions,  but they aren't. They are log-normal distributions and have a
+For the [[Lecture 1- Probability Distributions of Returns|probability distribution]]s shown in this figure,  most people would probably agree with this choice. If all three assets offers the same return on average,  it makes sense to pick asset A whose realized returns tend to be much more closely concentrated around the expected return and hence less uncertain. (These distributions may look like normal distributions,  but they aren't. They are log-normal distributions and have a
 
 slightly skewed to the right. We'll look in more detail at log-normal distributions later in this course).
 
@@ -110,7 +110,7 @@ This intuition that risk measures should focus on the downside only may also com
 
 But as intuitive as this may seem,  purely focusing on the downside leads to some fallacies that we should avoid.
 
-The first fallacy is to think that when we compare assets in terms of variance,  we are completely ignoring the fact that having an upside of potentially high returns is beneficial. We are already accounting for the upside in the expected return $\mathbb{E}[R]$. For example,  imagine taking the probability distribution of asset (B) in Figure 1.2 and pulling the right tail of the distribution further to the right,  so that high returns become more likely,  while leaving the left half of the distribution unchanged. This would increase $\operatorname{var}(R)$,  which is the property of variance as a risk measure that some people find objectionable,  but note this that this would also,  at the same time,  raise $\mathbb{E}[R]$. Since we are considering $\mathbb{E}[R]$ and $\operatorname{var}(R)$ jointly in assessing risk and return,  we are not ignoring the benefits of greater upside.
+The first fallacy is to think that when we compare assets in terms of variance,  we are completely ignoring the fact that having an upside of potentially high returns is beneficial. We are already accounting for the upside in the expected return $\mathbb{E}[R]$. For example,  imagine taking the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of asset (B) in Figure 1.2 and pulling the right tail of the distribution further to the right,  so that high returns become more likely,  while leaving the left half of the distribution unchanged. This would increase $\operatorname{var}(R)$,  which is the property of variance as a risk measure that some people find objectionable,  but note this that this would also,  at the same time,  raise $\mathbb{E}[R]$. Since we are considering $\mathbb{E}[R]$ and $\operatorname{var}(R)$ jointly in assessing risk and return,  we are not ignoring the benefits of greater upside.
 
 A more subtle issue is whether $\mathbb{E}[R]$ and $\operatorname{var}(R)$ jointly properly capture the information that an investor needs to make a decision. Is the impact of right-tail observations on $\operatorname{var}(R)$ perhaps misleading and would it perhaps be better to consider $\mathbb{E}[R]$ in conjunction with a risk measure focused on downside risk?
 
@@ -134,17 +134,17 @@ Note that for a symmetric distribution,  such as a normal distribution,  semi-va
 
 Figure 1.3: Return distributions with same variances and same expected return
 
-An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both probability distributions of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
+An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both [[Lecture 1- Probability Distributions of Returns|probability distribution]]s of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
 
-In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the probability distribution function,  is accounted for by returns lower than the expected return of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
+In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the [[Lecture 1- Probability Distributions of Returns|probability distribution]] function,  is accounted for by returns lower than the expected return of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
 
 That asset (B) is better for a risk averse investor is not obvious at all. For example,  an investor who does not worry too much about small losses but is very averse to big losses might prefer asset (A).
 
 Generally,  there are certainly reasons for variance not being a perfect measure of risk,  but the idea that semi-variance is typically a better criterion is a fallacy.
 
-Consider the following example. Suppose asset $A$ has a price of $$ 0.80$ and in the following period delivers payoffs $$ 1.50$ or $$ 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $$ 0.80$ and a low payoff of $$ 0.50$ with $p=\frac{1}{2}$,        but the higher payoff is split into two: $$ 2.00$ with probability $p=\frac{1}{4}$ and $$ 1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
+Consider the following example. Suppose asset $A$ has a price of $0.80$ and in the following period delivers payoffs $1.50 \text{ or } 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $0.80$ and a low payoff of $0.50$ with $p=\frac{1}{2}$, but the higher payoff is split into two: $2.00$ with probability $p=\frac{1}{4}$ and $1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
 
-Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 \%$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $$ 1$. In contrast,        $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $$ 2.00$ that is far above the expected payoff.
+Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 \%$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $1$. In contrast,        $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $2.00$ that is far above the expected payoff.
 
 What do variance and semi-variance tell us? Variances are
 
@@ -157,8 +157,6 @@ $$
 \operatorname{var}\left(R_{B}\right) & =\frac{1}{4}(1.5-0.25)^{2}+\frac{1}{4}(0.25-0.25)^{2}+\frac{1}{2}(-0.375-0.25)^{2} \approx 0.59 \tag{1.6}
 
 \end{align*}
-
-$$
 
 So choosing based on lower variances leads us to choose asset $A$.
 
@@ -220,7 +218,7 @@ The biggest loss in Figure 1.6b at the very left happened on October 19,  1987, 
 
 If daily stock returns were normally distributed,  a drop by $20 \%$ in a single day should happen,  on average,  less than once in $10^{88}$ days. For comparison,  the age of the universe is estimated to be less than 20 billion years,  which is less than $10^{13}$ days! So it's safe to say that the normal distribution severely underestimates the possibility of large stock market crashes.
 
-That the stock market is exposed to such crash risk is useful to keep in mind. Many standard quantitative models built into asset allocation software rely heavily on variances and covariances as measures of risk and hence they do not fully account for the presence of this crash risk (because it's mathematically difficult to do so). For this reason,  it may make sense to use simulation methods to check the extent to which the return on a target portfolio is exposed to crash risk and whether this level of crash risk is acceptable,
+That the stock market is exposed to such crash risk is useful to keep in mind. Many standard quantitative models built into [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] software rely heavily on variances and covariances as measures of risk and hence they do not fully account for the presence of this crash risk (because it's mathematically difficult to do so). For this reason,  it may make sense to use simulation methods to check the extent to which the return on a target portfolio is exposed to crash risk and whether this level of crash risk is acceptable,
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-015.jpg?height=728&width=900&top_left_y=365&top_left_x=626)
 
@@ -288,7 +286,7 @@ $$
 
 Power utility has has several desirable properties. First,  marginal utility declines with wealth. The parameter $\gamma$ controls the curvature of $U(W)$ and hence it controls the degree of risk aversion. Examples for $\gamma=2$ and $\gamma=5$ are shown in Figure 1.11.
 
-Second,  portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has $$ 1,  000$ in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
+Second,  [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]s based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has $$ 1,  000$ in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
 
 [^0]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 
@@ -312,9 +310,9 @@ There is a slight increase of the equity share going from the poorest to the ric
 
 Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a pension fund or an endowment,  there is little reason to think that an institution with a bigger portfolio would necessarily want to devote more or less of its portfolio to risky assets. Hence,  CRRA preferences seem like a useful starting point for modeling the risk attitudes of institutions.
 
-### 1.4 Optimal portfolio choice
+### 1.4 Optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 
-Let's now consider a simple portfolio choice problem using CRRA preferences. Suppose the investor wants to choose among two assets: A risk-free asset that offers return $R_{f}$ and a risky asset that offers IID returns $R$. If the investor starts with $W_{0}$ at the beginning of a period and invests a proportion $\omega$ into the risky asset,  then the return on their wealth portfolio is
+Let's now consider a simple [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problem using CRRA preferences. Suppose the investor wants to choose among two assets: A risk-free asset that offers return $R_{f}$ and a risky asset that offers IID returns $R$. If the investor starts with $W_{0}$ at the beginning of a period and invests a proportion $\omega$ into the risky asset,  then the return on their wealth portfolio is
 
 $$
 
@@ -410,9 +408,9 @@ risk aversion and the associated concavity of utility. The yellow line shows the
 
 If the risky asset's return in the good state was higher,  then the marginal benefit would be higher and the optimum where marginal cost and benefit balance in expectation would be at a higher risky asset share. The same would be true if the loss of the risky asset in the bad state was smaller.
 
-We would now like to solve the first-order condition in 1.19 for $\omega$ with CRRA preferences in the general case of more realistic probability distributions of returns that allow returns to take infinitely many values,  not just two. But this turns out to be an intractable problem. There is no mathematical solution that delivers a simple formula.
+We would now like to solve the first-order condition in 1.19 for $\omega$ with CRRA preferences in the general case of more realistic [[Lecture 1- Probability Distributions of Returns|probability distribution]]s of returns that allow returns to take infinitely many values,  not just two. But this turns out to be an intractable problem. There is no mathematical solution that delivers a simple formula.
 
-For this reason,  we will now use an approximation approach. As it turns out,  this approximation will lead us to a solution that trades off mean and variance of returns,  and hence provides foundation for the mean-variance approach to portfolio choice that you encountered in your introductory investments course and that is pervasive in industry practice. We first scale the first-order condition 1.19 to
+For this reason,  we will now use an approximation approach. As it turns out,  this approximation will lead us to a solution that trades off mean and variance of returns,  and hence provides foundation for the mean-variance approach to [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] that you encountered in your introductory investments course and that is pervasive in industry practice. We first scale the first-order condition 1.19 to
 
 $$
 
@@ -438,7 +436,7 @@ $$
 
 Figure 1.11 shows how this approximation looks like for power utility with $\gamma=5$. True marginal utility is nonlinear,  but we approximate it with a linear function. This also means that we approximated utility with a quadratic function,  locally around the point at which we are approximating. Most importantly,  this approximation preserves the risk aversion property,  as the approximate utility function is still concave.
 
-As with any approximation,  there is some approximation error,  though. We may be losing the somewhat stronger curvature of the power utility function away from the approximation point. For small risks,  where wealth does not deviate too far from the point where we approximated,  the approximation is accurate. Relatedly,  for portfolio choice problems over short horizons until the next rebalancing point (say a month or quarter),  very large changes in wealth are unlikely,  so the approximation should be fine. But we should keep in mind that it would not be accurate for very big shocks that move wealth far from the approximation point.
+As with any approximation,  there is some approximation error,  though. We may be losing the somewhat stronger curvature of the power utility function away from the approximation point. For small risks,  where wealth does not deviate too far from the point where we approximated,  the approximation is accurate. Relatedly,  for [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problems over short horizons until the next rebalancing point (say a month or quarter),  very large changes in wealth are unlikely,  so the approximation should be fine. But we should keep in mind that it would not be accurate for very big shocks that move wealth far from the approximation point.
 
 Substituting this approximation into the first-order condition (1.19),  we get
 
@@ -498,7 +496,7 @@ Risk aversion determines which distribution of portfolio returns we want. But wh
 
 One way of getting some rough idea about likely plausible magnitudes for risk aversion is to look at the portfolio of the "average" investor (with "average" we really mean wealth-weighted average,  but to reduce clutter,  we'll just say "average"). How does the average investor's portfolio look like? Let's do a rough back-of-the-envelope calculation where we treat all bonds,  government and corporate,  as risk-free asset and let's treat stocks as the risky asset class. We ignore other assets. Then we compute the average investor's equity share as the total market value of equity securities divided by the sum of outstanding equity and debt securities held by U.S. domestic investors. The Financial Accounts of the United States tells us that this share is $57 \%$ at the end of 2022. Figure 1.12 shows the post-WWII history of this equity share.
 
-So to explain the average investor's asset allocation at the end of 2022 with our formula (1.26),  we need it to yield
+So to explain the average investor's [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] at the end of 2022 with our formula (1.26),  we need it to yield
 
 $$
 
@@ -648,7 +646,7 @@ s.e. $(\hat{\mu})=0.20 / \sqrt{100} \approx 0.02$. So our $95 \%$ interval in th
 
 Of course,  once we use such a long data set to estimate expected returns,  we might also wonder whether data from so long ago is still informative about the expected return that can be earned on the stock market going forward. Perhaps the true $\mu$ has changed over time. After all,  the economy,  they types of firms on the stock market,  who participates in stock market investing,  etc. is all quite different from a century ago. This is a fundamental tradeoff we face: If we use more recent data for estimation,  we can be more confident that the estimates are actually still relevant if $\mu$ slowly changes over time. If we use data that extends further back in time,  we get more statistically more precise estimates under the assumption that $\mu$ is constant over time.
 
-The imprecision of expected return estimates is a major issue that makes portfolio choice difficult in practice.
+The imprecision of expected return estimates is a major issue that makes [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] difficult in practice.
 
 An important practical issue is also how to compare returns (and risk measures estimated from these returns) at different frequencies. With IID returns,  the following relationships hold approximately
 
@@ -673,7 +671,7 @@ Table 1.1: Annualized risk and return estimates for various asset classes 1980-2
 
 Table 1.1 shows annualized estimates of mean returns in excess of the average T-bill return and risk measures for various asset classes over the period 1980-2022. Stocks:
 
-U.S. broad stock market index; I-Stocks: International stocks; Value: U.S. value stocks; Small: U.S. Small-cap stocks; T-Bonds: U.S. Treasury bonds; I-Bonds: International bonds; C-Bonds: U.S. Corporate bonds; REITS: U.S. Real estate investment trusts.
+U.S. broad stock market index; I-Stocks: International stocks; Value: U.S. value stocks; Small: U.S. Small-cap stocks; T-Bonds: U.S. Treasury bonds; I-Bonds: International bonds; C-Bonds: U.S. [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]; REITS: U.S. Real estate investment trusts.
 
 The underlying data is monthly returns and I annualized the estimates using the approach we just discussed. The roughly four decades covered by the sample have been ones in which risky assets generally performed well. For this reason we see that most asset classes have estimated expected excess returns,  $\hat{\mu}-R_{f}$,  far more than two standard errors from zero. But still,  there is substantial remaining uncertainty about the true expected returns of these asset classes.
 

@@ -29,7 +29,7 @@ Calc_date = ql.Date (8,          4,          2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 ```
 
-## a. Prepare the symbology and market data files for fixed rate government and corporate bonds
+## a. Prepare the symbology and market data files for fixed rate government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 Load the `bond_symbology`,  `bond_market_prices_eod` and `govt_on_the_run` Excel files into dataframes.
 
@@ -552,7 +552,7 @@ Def create_bond_from_symbology (details: dict):
     
      # Create day_count from details['dcc']
      # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US Corporate bonds use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -1723,11 +1723,11 @@ display (govt_combined_otr [['security',          'isin',          'figi',      
 </table>
 </div>
 
-# Problem 4: Pricing and risk metrics for corporate bonds
+# Problem 4: Pricing and risk metrics for [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 ## a. Create the fixed-rate corporate bond objects
 
-Restrict the symbology dataframe to fixed rate corporate bonds only and create the corporate bond objects.
+Restrict the symbology dataframe to fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] only and create the corporate bond objects.
 
 ```python
 # Create the fixed-rate corporate bond symbology + combined dataframes
@@ -2174,9 +2174,9 @@ display (corp_combined [['security',          'isin',          'figi',          
 <p>770 rows × 6 columns</p>
 </div>
 
-## c. Validate Z-Spread computation for a few fixed rate corporate bonds
+## c. Validate Z-Spread computation for a few fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
-Pick 3 corporate bonds (at your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
+Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
 
 Validate that you match the original market prices,  which were used as input to the z-Spread function.
 
@@ -2203,7 +2203,7 @@ Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
-# Pick 3 corporate bonds (at your discretion)
+# Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion)
 Corp_combined_small = corp_combined[: 3]. Copy ()
 
 # Calculate prices with zspreads
@@ -2286,7 +2286,7 @@ display (corp_combined_small [['security',          'isin',          'figi',    
 </table>
 </div>
 
-## d. Compute Duration and Convexity for fixed rate corporate bonds (using flat yield)
+## d. Compute Duration and Convexity for fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (using flat yield)
 
 Compute analytical Duration and Convexity metrics,  as described in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)" in the QuantLib Basic notebook.
 

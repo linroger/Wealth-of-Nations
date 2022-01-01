@@ -15,7 +15,7 @@ title: COVERED INTEREST RATE PARITY
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 
 [PSET 1-Financial Instruments](PSET%201-Financial%20Instruments.md)
-[1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY](1.%20EXPLOITING%20AN%20APPARENT%20ARBITRAGE%20OPPORTUNITY.md)
+[1. Exploiting an Apparent Arbitrage Opportunity](1.%20Exploiting%20an%20Apparent%20Arbitrage%20Opportunity.md)
 
 # COVERED INTEREST RATE PARITY
 ## 1. MODEL PARAMETERS

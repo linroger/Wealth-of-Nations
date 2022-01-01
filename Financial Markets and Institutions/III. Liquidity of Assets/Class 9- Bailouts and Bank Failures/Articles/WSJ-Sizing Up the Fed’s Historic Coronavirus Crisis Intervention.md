@@ -56,16 +56,16 @@ Here are some of the key moves the Fed has announced,  what has happened to date
 
 ![](Safari%202024-09-30%2005.09.39.png)
 
-**Market targeted:** Treasurys,  commercial paper,  certificates of deposit,  municipal bonds
+**Market targeted:** Treasurys,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  certificates of deposit,  municipal bonds
 
-**Market reaction:** Signs of stress are easing,  and investors have put money back into U.S. money-market funds. Most important,  analysts said targeted lending programs have created room for dealers to set prices and match buyers with sellers. In the money markets,  bank commercial deposits and longer-dated commercial paper have begun to trade again.
+**Market reaction:** Signs of stress are easing,  and investors have put money back into U.S. money-market funds. Most important,  analysts said targeted lending programs have created room for dealers to set prices and match buyers with sellers. In the money markets,  bank commercial deposits and longer-dated [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] have begun to trade again.
 
 ![](Safari%202024-09-30%2005.09.45.png)
 
 The Fed said it would buy investment-grade debt issued by companies such as [Intel](https://archive.is/o/IsIqk/https://quotes.wsj.com/INTC) Corp. and [PepsiCo](https://archive.is/o/IsIqk/https://quotes.wsj.com/PEP) Inc.,  along with exchange-traded funds of highly rated bonds. The Fed also said it would lend money directly to businesses,  bypassing banks with bridge loans of up to four years.
 
 ![](Safari%202024-09-30%2005.09.49.png)
-**Market targeted:** investment-grade corporate bonds
+**Market targeted:** investment-grade [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 **Market reaction:** Goldman Sachs analysts and others said the actions helped to stabilize the corporate-bond market,  which came under significant stress. But investors and rating firms remain concerned that companies will default or be downgraded as dwindling revenue makes meeting financial obligations a struggle.
 

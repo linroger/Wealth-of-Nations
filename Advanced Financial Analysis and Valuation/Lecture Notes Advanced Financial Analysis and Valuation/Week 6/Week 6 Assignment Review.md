@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_328_Week 6 Assignment Review.md
-- Alias_331_Week 6 Assignment Review.md
+  - Alias_328_Week 6 Assignment Review.md
+  - Alias_331_Week 6 Assignment Review.md
 tags:
-- tag_example
+  - tag_example
+  - "#financialanalysis"
+  - "#corporatefinance"
+  - "#riskanalysis"
+  - "#bankloans"
+  - "#debtmarkets"
+  - "#loan-portfolio-valuation"
+  - "#regulatory-capital"
+  - "#banking-crisis"
 title: Week 6 Assignment Review
 ---
 

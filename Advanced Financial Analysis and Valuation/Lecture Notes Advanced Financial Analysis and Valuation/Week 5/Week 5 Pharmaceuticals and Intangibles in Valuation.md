@@ -1,27 +1,32 @@
 ---
-aliases:
-- Alias_314_Week 5 Pharmaceuticals and Intangibles in Valuation.md
-- Alias_317_Week 5 Pharmaceuticals and Intangibles in Valuation.md
+cssclasses: academia
+aliases: [Alias_314_Week 5 Pharmaceuticals and Intangibles in Valuation.md,  Alias_317_Week 5 Pharmaceuticals and Intangibles in Valuation.md]
 tags:
-- tag_example
-title: PHARMA VALUE DRIVERS
+  - tag_example
+  - "[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]"
+  - healthcare
+  - finance
+  - intangible-assets
+  - valuation-methods
+  - pharma-strategies
+title: Week 5 Pharmaceuticals and Intangibles in Valuation
 ---
 
-
+[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 
 #### TODAY
-- Health care & pharmaceuticals
+- Health care & [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 	 - Moats
 	 - Value drivers
 	 - Accounting Shenanigans
-- Importance of intangible assets
-- Accounting treatment of intangible investments
+- Importance of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets
+- Accounting treatment of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] investments
 	 - Effects of accounting treatment
 	 - Does capitalization matter? (pre‐recording)
 - Economic profit model and terminal value revisited
 - Intangibles in valuation
-	 - Adjusting for intangibles in intrinsic value models (DCF & EP)
-	 - Adjusting for intangibles in relative valuation
+	 - Adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] in intrinsic value models (DCF & EP)
+	 - Adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] in relative valuation
 - Medfield Case
 - Goodwill and M&A (vs. organic growth)
 
@@ -59,7 +64,7 @@ title: PHARMA VALUE DRIVERS
 ### DIFFERENT HEALTH CARE FIRMS & BUSINESS MODELS (CONT.)
 - Medical Device Companies
 	 - Make implantable hardware for human body
-	 - Moat sources tend to be intellectual property (intangibles) but also physician relationships (switching costs)
+	 - Moat sources tend to be intellectual property ([[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] ) but also physician relationships (switching costs)
 		   - Marketing and sales force
 		   - Training and tools for implants
  - Compared to pharma,  innovation tends to be more evolutionary rather disruptive or revolutionary
@@ -69,7 +74,7 @@ title: PHARMA VALUE DRIVERS
 	 - Economies of scale can provide cost advantages
 	 - Network effects
 
-# PHARMA VALUE DRIVERS
+# Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### VALUE DRIVERS AND FORECASTING IN PHARMA
 
@@ -137,7 +142,7 @@ title: PHARMA VALUE DRIVERS
 ![](a33303a2ea6bca83e2ccd75601c0f3e4.png)
 
 - Shift from manufacturing to service & technology
-- Many key assets of firms are intangibles:
+- Many key assets of firms are [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] :
 	 - R&D and patents
 	 - Brands and advertising
 	 - Training and human capital investments
@@ -148,7 +153,7 @@ title: PHARMA VALUE DRIVERS
 
 #### ECONOMICS OF INTANGIBLES
 
-- What makes intangibles special?
+- What makes [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] special?
 	 - Non‐rival: Can be consumed by many
 	 - Non‐excludable: Hard to prevent the use by others
 - Scalability
@@ -175,10 +180,10 @@ title: PHARMA VALUE DRIVERS
 	 - Any expenditure that creates benefits over many years is an investment (or asset)
 	 - Expenditures that generate benefits only in current year are operating expenses
 	- Therefore,  capital expenditures for PP&E are investments
-- But intangibles also generate future benefits and require capital expenditures:
+- But [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] also generate future benefits and require capital expenditures:
 - Accountants have treated these expenditures as operating expenses
 	 - Unless they acquired in market transaction
-	 - Acquired intangibles (e.g.,  via M&A,  etc.) are capitalized and amortized
+	 - Acquired [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] (e.g.,  via M&A,  etc.) are capitalized and amortized
 - Since the TCJA,  IRS also requires amortization of R&D (5 years)
 
 #### INTANGIBLE INVESTMENTS ARE NOT JUST R&D
@@ -201,7 +206,7 @@ title: PHARMA VALUE DRIVERS
 	- Illustrates the concern that companies "make up" assets
 
 #### DOES THE MARKET TREAT R&D EXPENDITURES AS EXPENSES?
-- Even though many intangible investments are not capitalized,  there is info in 10‐K:
+- Even though many [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] investments are not capitalized,  there is info in 10‐K:
 	 - R&D expenses are disclosed:
 		   - Income statement,  cash flow statement and R&D footnote
 		   - But recall: R&D expenses can be buried in COGS and SG&A
@@ -210,7 +215,7 @@ title: PHARMA VALUE DRIVERS
 
 # ONCOMED ‐ AN EXAMPLE
 
-### ONCOMED PHARMACEUTICALS (OMED)
+### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED)
 
 ![](c024a455c4435622cb42b8a1c46fe48e.png)
 
@@ -226,20 +231,20 @@ title: PHARMA VALUE DRIVERS
 
 ![](72eb5aa047e7e418272ba09706f797ee.png)
 
-#### ONCOMED PHARMACEUTICALS (OMED) – CONT
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
 ![](321b690dcd68ce13a31f088baabaab1c.png)
 
  - Source: OncoMed Pharmaceutical Annual Reports
 
-#### ONCOMED PHARMACEUTICALS (OMED) – CONT
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
 ![](e54821ba0b0cf26a11ac69e766a2b411.png)
 
 - Note: They had a large A/R that Celgene owed them as a result of a safety milestone in a trial. Payment in 2016 reduced assets (A/R) and hence NOA.
  - Source: OncoMed Pharmaceutical Annual Reports
 
-#### ONCOMED PHARMACEUTICALS (OMED): SUMMARY
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED): SUMMARY
 
 - From 2011‐2017 OncoMed has recorded revenue of $222.6M and has spent $468.9M in R&D
 	- Over same period,  accumulated increase in NOAs of just $72.6M
@@ -271,7 +276,7 @@ title: PHARMA VALUE DRIVERS
 	- Reinvestment is buried in operating expenses
 	- Recall: Reinvestment is a function of RONIC and growth (Week 3 & 4)
 - Accounting treatment can distort RONIC in TV formula
-	- Conceptually,  you expect a higher RONIC without capitalization of intangible investments (see previous slide)
+	- Conceptually,  you expect a higher RONIC without capitalization of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] investments (see previous slide)
 - Recall pre‐recording: Accounting treatment creates incomparability depending on firms' growth strategies
 
 # ECONOMIC PROFIT MODEL AND THE EFFECT OF INTANGIBLES
@@ -301,8 +306,8 @@ title: PHARMA VALUE DRIVERS
 - But consider how operating assets (or book value of equity) are valued:
 	- What happens if IC is incorrectly measured?
 	- Why might IC be typically too low?
-		- Self‐generated intangibles: Our topic of the week
-- If book value does not capture intangible assets:
+		- Self‐generated [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] : Our topic of the week
+- If book value does not capture [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets:
 	- Accounting‐based EP is too high (as cost of capital charge given IC is too low)
 - Thus,  there are two sources of accounting‐based economic profits
 	- True economic profits & accounting measurement
@@ -335,6 +340,7 @@ title: PHARMA VALUE DRIVERS
 #### ILLUSTRATING R&D CAPITALIZATION IN EP MODEL (CONT.)
 
 ![](a7e275cb3ea5b7879e7a034f551a1b68.png)
+
 Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  not GAAP profits
 
 #### BENEFITS OF EP APPROACH IN PRACTICE
@@ -355,14 +361,14 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 #### ADJUSTING FOR INTANGIBLES IN DCF (OR EP) MODELS
 - Irrespective Of The Accounting Standards,  You Could Capitalize R&D Expenses
 	- Could do the same with other operating expenses that are really investments
-	- FCF does not change,  but adjusting for intangibles likely provides more meaningful profitability and reinvestment rates
+	- FCF does not change,  but adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] likely provides more meaningful profitability and reinvestment rates
 	- Again: It is about the insights you gain into the economics of the firm and how that affects your forecasts!
 - Assumption needed: How long does it take for R&D to be converted,  on average,  into commercial product?
 	- Useful life of research asset = amortization period
 	- R&D expenses (or research assets) at a pharmaceutical company should have fairly long lives
 	- R&D expenses (or research assets) at software firms should have shorter lives
 
-#### ONCOMED PHARMACEUTICALS (OMED) – CONT
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
 - Adjusting earnings,  reinvestment rates,  and book value:
 - Let's assume that R&D is amortized over a life of 10 years
@@ -372,42 +378,42 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 - From OMED's 424(b)4 filing (form filed prior to IPO on NASDAQ) and later SEC filings,  we collect R&D expenses from 2007-2017
 	- OMED went public in July 2013,  but was incorporated in 2004
 
-#### ONCOMED PHARMACEUTICALS (OMED) – CONT
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
 ![](e61dcf5663021e15a18582a054e9d511.png)
 
 - Perhaps easier to understand if you read backwards from 2017:
 	- R&D from 2007 is now fully amortized (fraction = 0; last A = 2.8; no value left)
 
-#### ONCOMED PHARMACEUTICALS (OMED) – EBIT
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – EBIT
 
-- EBIT is adjusted by treating R&D as capital expenditures (like for PP&E)
+- [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] is adjusted by treating R&D as capital expenditures (like for PP&E)
 - This implies:
 	- 1) adding back all R&D expenditures
 	- 2) subtracting the periodic amortization of the research asset(s)
-- Companies with growing R&D expenditures will have a higher EBIT after the adjustment
-	- In this case,  the difference in EBIT is not huge:
+- Companies with growing R&D expenditures will have a higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] after the adjustment
+	- In this case,  the difference in [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] is not huge:
 	- ![](db7b4d11286cdc6efa032b2b7cbb8b80.png)
 
 ```latex
-Adjustment for Operating Income       EBIT  
+Adjustment for [[Operating Income vs. Net Income What's the Difference|Operating Income]]       [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]  
                                       -41.0
 (+) R&D expenditures                   59.8
 (-) Amortization of research asset     53.8
                                      ------
-Adjusted EBIT                         -34.9
+Adjusted [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]                         -34.9
 ```
 
 Source: OncoMed Filings and Annual Reports
 
-#### ONCOMED PHARMACEUTICALS (OMED) – NOA
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – NOA
 
 ![](587e83eac4b73d3093c9dd5c7c3a6ab4.png)
 
 - NOA is also adjusted adding the estimated value of the research asset(s)
 	- In thisContinuing from where I left off:
 
-#### ONCOMED PHARMACEUTICALS (OMED) – NOA
+#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – NOA
 
 - NOA is also adjusted adding the estimated value of the research asset(s)
 	- In this case = $373.5m
@@ -425,25 +431,27 @@ Source: OncoMed Filings and Annual Reports
 
 #### INTANGIBLES AND RELATIVE VALUATION
 
-- Treating R&D investments as operating expenses affects EPS,  EBIT or EBITDA
+- Treating R&D investments as operating expenses affects EPS,  [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] or EBITDA
 	- Systematically affects multiples
 	- Stock price reflects the value of R&D
 	- PE ratios or EV/EBITDA ratios are likely upwardly biased
 		- But exact effect is hard to predict
-- If all the companies in the sector operate under the same accounting rules (expensing R&D),  why should we adjust for intangibles?
+- If all the companies in the sector operate under the same accounting rules (expensing R&D),  why should we adjust for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] ?
 	- Life‐cycle: Effects of capitalization are generally much greater at young companies vs. mature companies
 	- Different companies pursue different strategies (e.g.,  in‐house R&D vs. acquiring patents or small companies)
-	- Different intangible investments have different useful lives (or amortization periods)
+	- Different [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] investments have different useful lives (or amortization periods)
 - Bottom‐line: Systematic effects in multiples that do not wash out
 
-#### PHARMACEUTICALS HAVE VERY DIFFERENT STRATEGIES
+#### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES
 
 ![](26d48a569cbf62c87b44f549412037a4.png)
+
 Source: Annual Reports
 
-#### PHARMACEUTICALS HAVE VERY DIFFERENT STRATEGIES (CONT.)
+#### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES (CONT.)
 
 ![](7c4e9ccd9e2906de8eebb703a0fbd62a.png)
+
 Source: Annual Reports
 
 #### UNADJUSTED RELATIVE VALUATION: EXAMPLE IN 2017
@@ -452,7 +460,7 @@ Source: Annual Reports
 
 |                    | Company | Celgene | Gilead | AstraZeneca | Pfizer |
 |---------------------|---------|---------|--------|--------------|--------|
-| Market Cap ($ MN)   | 64, 996  | 106, 828 | 88, 805 | 209, 155     |        |
+| Market Cap ($ MN)   | 64,  996  | 106,  828 | 88,  805 | 209,  155     |        |
 | Unadjusted metrics: |         |         |        |             |        |
 | EV/EBIT             | 14.8x   | 9.7x    | 27.6x  | 16.9x       |        |
 | P/E                 | 22.1x   | 23.1x   | 31.0x  | 9.8x        |        |
@@ -463,21 +471,25 @@ Source: Annual Reports,  Bloomberg
 #### ADJUSTING RELATIVE VALUATION: CELGENE CORP
 
 ![](43be7f528b81b5ff1da50760ccd5f9ba.png)
-Increasing R&D expenditures over time → higher EBIT → lower adjusted multiples
+
+Increasing R&D expenditures over time → higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] → lower adjusted multiples
 
 #### ADJUSTING RELATIVE VALUATION: GILEAD
 
 ![](c632240ed50464b9ba118a23081804dc.png)
+
 Source: Annual Reports
 
 #### ADJUSTING RELATIVE VALUATION: ASTRAZENECA
 
 ![](da840ca172bd5426e4cd85fc8984cd2f.png)
+
 Source: Annual Reports
 
 #### ADJUSTING RELATIVE VALUATION: PFIZER
 
 ![](bb0e3669fe66149121c33b6afd67ee6e.png)
+
 Source: Annual Reports
 
 #### ADJUSTED RELATIVE VALUATION: EXAMPLE IN 2017
@@ -486,7 +498,7 @@ Source: Annual Reports
 
 |                    | Company | Celgene | Gilead | AstraZeneca | Pfizer |
 |---------------------|---------|---------|--------|-------------|--------|
-| Market Cap ($ MN)   | 64, 996  | 106, 828 | 88, 805 | 209, 155     |        |
+| Market Cap ($ MN)   | 64,  996  | 106,  828 | 88,  805 | 209,  155     |        |
 | Unadjusted metrics: |         |         |        |             |        |
 | EV/EBIT             | 14.8x   | 9.7x    | 27.6x  | 16.9x       |        |
 | P/E                 | 22.1x   | 23.1x   | 31.0x  | 9.8x        |        |
@@ -525,7 +537,7 @@ Source: Annual Reports,  Bloomberg
 
 #### FORECASTING FUTURE M&A
 - Should You Forecast (Potential) Future M&A Activity?
-	- M&A gives rise to goodwill and intangibles on the balance sheet
+	- M&A gives rise to [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] and [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] on the balance sheet
 - Key question: Are we trying to forecast a "realistic/accurate" future balance sheet? Is this necessary in order to get the valuation (roughly) right?
 	- Forecasted BS is a means to an end
 	- We need to capture investment (but it doesn't matter if via acquisitions)
@@ -535,6 +547,7 @@ Source: Annual Reports,  Bloomberg
 #### VALUE CREATION BY TYPE OF GROWTH
 
 ![](84c0912f6ef060283691a0b9f04f4697.png)
+
 Source: Koller et al. Exhibit 2.7
 
 #### VALUE CREATION WITH (MANY) SMALLER DEALS?
@@ -552,12 +565,12 @@ Source: Koller et al. Exhibit 2.7
 ### PUTTING IT ALL TOGETHER
 
 - If future M&A is close to zero NPV,  then you can ignore it in DCF or EP model
-	- Hold existing goodwill constant in forecasted BS
+	- Hold existing [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] constant in forecasted BS
 - But what if the firm likely creates value through its acquisitions?
 - Your forecasted growth in sales and assets can be organic or through M&A
 	- You can be agnostic about the way in which the firm creates value
 	- The key is to get the value creation roughly right (in DCF or EP)
-- But: Past acquisitions and resulting goodwill can affect your ratios (e.g.,  ROIC and turnover) and hence your forecasts
+- But: Past acquisitions and resulting [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] can affect your ratios (e.g.,  ROIC and turnover) and hence your forecasts
 	- Take out amortization due to past M&A (if not replaced)? (see pre‐recording)
 - Note: You cannot take the same "comfort" in relative valuation/multiples:
 	- Relative valuation or multiples are affected for sure

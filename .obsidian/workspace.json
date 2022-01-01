@@ -4,861 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "91abc5c671d499c3",
+        "id": "bb20a16074685a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbca9e1439738dc7",
+            "id": "a8d42ac09b386e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Notes 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inflation Swaps"
+              "title": "Teaching Notes 1"
             }
           },
           {
-            "id": "1417159a7a9e38bd",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-            }
-          },
-          {
-            "id": "cb048f3855ec8dd9",
+            "id": "dbec1ff93367961f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Slide 4-Restructuring Debt Outside Bankruptcy.md",
+                "file": "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 1 Bonds,  Preferred Stock,  and Structured Products.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Slide 4-Restructuring Debt Outside Bankruptcy"
+              "title": "Lecture Notes 1 Bonds,  Preferred Stock,  and Structured Products"
             }
           },
           {
-            "id": "1b6caeeeee3f3ea9",
+            "id": "6c37a1ee38acd818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Introduction.md",
+                "file": "Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squam Lake Group Introduction"
+              "title": "Economic Principles - Why and How Capitalism Needs To Be Reformed"
             }
           },
           {
-            "id": "53058013fdafa463",
+            "id": "06ebd9a07134ddea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes- Financial Instruments.md",
+                "file": "International Finance/Globalization/Chapter 1-Introduction to Globalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes- Financial Instruments"
+              "title": "Chapter 1-Introduction to Globalization"
             }
           },
           {
-            "id": "d91414502fff7f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY"
-            }
-          },
-          {
-            "id": "ddc692fcc365c55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "China Foreign Exchange Reserves/China Reserve Requirements, GFC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "China Reserve Requirements, GFC"
-            }
-          },
-          {
-            "id": "cc38a4694e5b50a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Markets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Markets"
-            }
-          },
-          {
-            "id": "ea8a2b1140d309b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendices/Appendices.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appendices"
-            }
-          },
-          {
-            "id": "8ab337780a155727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Problem Sets/Problem Sets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problem Sets"
-            }
-          },
-          {
-            "id": "3ffdaf785c7de743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Ratios"
-            }
-          },
-          {
-            "id": "89052af768e0c310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Assignments/Assignments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assignments"
-            }
-          },
-          {
-            "id": "449de0ce46b24ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Assignments/Solutions/Solutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solutions"
-            }
-          },
-          {
-            "id": "56027baa16ade1c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Assignments/Assignments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assignments"
-            }
-          },
-          {
-            "id": "4f86000088d1cc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes- Financial Instruments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes- Financial Instruments"
-            }
-          },
-          {
-            "id": "6edaed1b7c6553a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Review Session Notes/Review Session Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Review Session Notes"
-            }
-          },
-          {
-            "id": "11ddeff1fc5f8ec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 2- Debt Contracts due to Lack of Information"
-            }
-          },
-          {
-            "id": "210e5571b809f280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts"
-            }
-          },
-          {
-            "id": "e1956266a997d9e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring"
-            }
-          },
-          {
-            "id": "403369301b8a56df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class 4- Restructuring Public Debt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 4- Restructuring Public Debt"
-            }
-          },
-          {
-            "id": "59fd2e170cf496c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            }
-          },
-          {
-            "id": "297428a27e1f459f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "5cc0c4db0b761449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "55a69258f9c8b3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "2e7d748904839e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "74ff22f7d5eedb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Ratios"
-            }
-          },
-          {
-            "id": "3004401bc8baf1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "2a3c7c4569b55ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            }
-          },
-          {
-            "id": "29e076b89df2fcfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "519a35bf6fc03998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "87b868102ce823c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 4 Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "30e62ed82642583b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 5"
-            }
-          },
-          {
-            "id": "4762cb15bff9df36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 6"
-            }
-          },
-          {
-            "id": "4dc7e17484934d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 7/Week 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7"
-            }
-          },
-          {
-            "id": "5689021408d5db65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 8/Week 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 8"
-            }
-          },
-          {
-            "id": "e0673cf57486c62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9"
-            }
-          },
-          {
-            "id": "5c866f0e62462604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Problem Sets/Problem Sets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problem Sets"
-            }
-          },
-          {
-            "id": "7368767d5316ade0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "5c54a4f7c6ec2051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Ratios"
-            }
-          },
-          {
-            "id": "cf070c9a3c80f04a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "14faced6a55f10b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            }
-          },
-          {
-            "id": "b4b8d9b36664b686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "c58fe93bfdac1ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "dfe87367805fd184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9"
-            }
-          },
-          {
-            "id": "e8d573b0eea45611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Problem Sets/Problem Sets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problem Sets"
-            }
-          },
-          {
-            "id": "1fe24ef34bc29f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9"
-            }
-          },
-          {
-            "id": "31778358a3398b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 8/Week 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 8"
-            }
-          },
-          {
-            "id": "fc984f596abb8d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 7/Week 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7"
-            }
-          },
-          {
-            "id": "d7dd2067c04e0a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 6"
-            }
-          },
-          {
-            "id": "0e0e7d3220a71c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 5"
-            }
-          },
-          {
-            "id": "e91e6b3ceda37548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 4 Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "ddb8720c860ebb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "1c5d023c667fe3a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "162a6bdf6109d2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            }
-          },
-          {
-            "id": "0ec4093a0953a5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "871d72c6a138ed3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Ratios"
-            }
-          },
-          {
-            "id": "682574a82f85f914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendices/Appendix 10.A Taxes and Option Prices.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appendix 10.A Taxes and Option Prices"
-            }
-          },
-          {
-            "id": "81f4988da0d158ac",
+            "id": "c8813c10cf6ea478",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -866,114 +76,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "637075a7ce5bb954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Neutral Pricing of Options.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Risk Neutral Pricing of Options"
-            }
-          },
-          {
-            "id": "f86bac89d99d4952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/The T₁ -period Binomial Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The T₁ -period Binomial Model"
-            }
-          },
-          {
-            "id": "155efb64aa6414cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Option Risk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Option Risk"
-            }
-          },
-          {
-            "id": "1e14750fa5d99ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Exotic Options.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exotic Options"
-            }
-          },
-          {
-            "id": "a38685341c44462b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arithmetic and Geometric Rates of Return"
-            }
-          },
-          {
-            "id": "09abbd05f85b9c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Black Scholes Formula.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Black Scholes Formula"
-            }
-          },
-          {
-            "id": "2534c08efc92a7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options Greeks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Options Greeks"
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -999,23 +104,6 @@
             }
           },
           {
-            "id": "a0bb0fef6aa9cd23",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "[\"aliases\"] liquidity",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "a3a9c4dfede5f419",
             "type": "leaf",
             "state": {
@@ -1026,13 +114,20 @@
             }
           },
           {
-            "id": "4150f0d5f62f7548",
+            "id": "6350988f742665d5",
             "type": "leaf",
             "state": {
-              "type": "structured-tree-view",
-              "state": {},
-              "icon": "structured-activity-bar",
-              "title": "Structured Tree"
+              "type": "search",
+              "state": {
+                "query": "\\begin{array",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -1104,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md",
+                "file": "Navigating Big Debt Crises/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1114,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Squam Lake Group Conclusions"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
@@ -1136,11 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class 4- Restructuring Public Debt.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Class 4- Restructuring Public Debt"
+              "title": "File properties"
             }
           }
         ],
@@ -1152,73 +245,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
-      "github-sync:Sync with Remote": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "obsidian42-brat:BRAT": true,
+      "obsidian42-brat:BRAT": false,
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "formatto-format:Format Document": false,
-      "structured-tree:Open Structured Tree": false,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false,
-      "auto-graphed:Create auto-gen connections": false
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "403369301b8a56df",
+  "active": "c8813c10cf6ea478",
   "lastOpenFiles": [
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
-    "Financial Instruments/Review Session Notes/Review Session Notes.md",
-    "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes- Financial Instruments.md",
-    "Financial Instruments/Assignments/Assignments.md",
-    "Financial Instruments/Assignments/Solutions/Solutions.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-    "Advanced Financial Analysis and Valuation/Problem Sets/Problem Sets.md",
-    "Appendices/Appendices.md",
-    "Credit Markets/Credit Markets.md",
-    "China Foreign Exchange Reserves/China Reserve Requirements, GFC.md",
-    "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Introduction.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Slide 4-Restructuring Debt Outside Bankruptcy.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of CIT Group (a).md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6- Bank Runs/Money Market Mutual Fund Liquidity Facility.md",
-    "Financial Engineering/5. Mean Variance-CAPM.md",
-    "Appendices/Appendix 16.A An Alternative Approach to Expensing Option Grants.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9-Information Risks and (International) Accounting Differences, Platform Businesses.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Dollar General Case- Assignment Review.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
-    "Appendices/Appendix 5.A Taxes and the Forward Price.md",
-    "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
-    "preamble.sty",
-    "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
-    "Appendices",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods",
-    "China Foreign Exchange Reserves",
-    "QuantLib-Python",
-    "Attachments/Binomial_Tree_Price_For_Varying_Steps.png",
-    "Attachments/Discount_Factor_Error1.png",
-    "Attachments/Discount_Factor_Error.png",
-    "Attachments/standard_deviation_of_discount_factors 1.png",
-    "Attachments/standard_deviation_of_discount_factors.png",
-    "Attachments/binomial_tree_for_varying_steps.png",
-    "Attachments/mean_of_short_rates.png",
-    "Attachments/variance_of_short_rates.png",
-    "Attachments/Unknown.png",
-    "combined_markdown_content.txt",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.txt",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
-    "Attachments/Keep It 2024-10-24 10.52.05.png"
+    "Financial Engineering/Fixed Income Derivatives/The Futures Bond Basis: government bond futures and basis  trading.md",
+    "Financial Engineering/Fixed Income Derivatives/The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve.md",
+    "Financial Engineering/Fixed Income Derivatives/Pricing & Risk Management of Synthetic CDOs.md",
+    "Financial Engineering/Fixed Income Derivatives/Assessing the LIFFE Swapnote.md",
+    "Financial Engineering/Fixed Income Derivatives/A Primer on Probability Theory and Stochastic  Modelling.md",
+    "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
+    "Financial Engineering/Fixed Income Derivatives/Determining the Expression for the Fair Value of the Swap Spread.md",
+    "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md",
+    "Financial Engineering/Fixed Income Derivatives/Relative Value Analysis.md",
+    "Financial Engineering/Fixed Income Derivatives/Forward Volatility Agreement (FVA).md",
+    "Financial Engineering/Fixed Income Derivatives/Uncertain Volatility with Static Hedge.md",
+    "Financial Engineering/Fixed Income Derivatives/Implementing Heath, Jarrow & Merton (HJM) Model.md",
+    "Financial Engineering/Fixed Income Derivatives/Exotic Options.md",
+    "Financial Engineering/Fixed Income Derivatives/Credit Risk Models and the Valuation of Credit  Default Swap Contracts.md",
+    "Financial Engineering/Fixed Income Derivatives/Zero-coupon convertible bonds.md",
+    "Financial Engineering/Fixed Income Derivatives/Equity Linked Note.md",
+    "Financial Engineering/Fixed Income Derivatives/The Determinants of the Swap Spread.md",
+    "Financial Engineering/Fixed Income Derivatives/Fitting the Term Structure of Interest Rates.md",
+    "Financial Engineering/Fixed Income Derivatives/Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors.md",
+    "Financial Engineering/Fixed Income Derivatives/Part III-The Fundamentals of Basis Trading.md",
+    "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
+    "Financial Engineering/Fixed Income Derivatives/An Introduction to Credit Risk Modelling.md",
+    "Financial Engineering/Fixed Income Derivatives/Part II-Basis Trading and the Implied Repo Rate.md",
+    "Financial Engineering/Fixed Income Derivatives/Part I-Basis Trading.md",
+    "Financial Engineering/untitled folder/untitled folder.md",
+    "Financial Engineering/Fixed Income Derivatives/untitled folder.md",
+    "Financial Engineering/Fixed Income Derivatives",
+    "Financial Engineering/untitled folder",
+    "Financial Trading and Markets",
+    "images",
+    "Attachments/big_debt_cycles_0007.jpeg",
+    "Attachments/fEcke9Xu75sLRKeybq6uMWGQUNa2l49oy.png",
+    "Attachments/fyOgtQh7LyMhF7TxPVmog0hGGsO5md5aH.png",
+    "Attachments/fsWDC72eaFpnSBOEEzUpGGGWgqllXiHn4.png",
+    "Attachments/f4GXGEZmNZtUlnNXVMBYxMRQyZiLhU9a4.png",
+    "Attachments/fQRLpnSGw9FLOxVODus9IOFXYfEwpDLcl.png",
+    "Attachments/fLZv3kPGyPvawKklGzfuQLqGpCUmLexoB.png",
+    "Attachments/fy20Cf6Fawiikx6PDf5HRrCWASGC6PPxv.png",
+    "Attachments/fvOtiHYMxeVknFs4cg15XOmBSrPbHq2ce.png",
+    "Attachments/fmI1C6YYaU5d7yIPgciXNI5boCXbilQW1.png",
+    "Course Notes",
+    "/Jupyter Notebook 2025-01-12-14-52-19.ipynb",
+    "Jupyter Notebook 2025-01-12-14-52-19.ipynb",
+    "Fixed Income Asset Pricing/Handbook of Fixed Income Securities",
+    "Navigating Big Debt Crises/Chapters",
+    "Attachments/e/3/f"
   ]
 }

@@ -1,35 +1,48 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Greece Faces Bond-Swap Holdouts
-- Example_Alias_Greece Faces Bond Swap Holdouts
-- Alias_3_Greece Faces Bond Swap Holdouts.md
+  - Greece Faces Bond-Swap Holdouts
+  - Example_Alias_Greece Faces Bond Swap Holdouts
+  - Alias_3_Greece Faces Bond Swap Holdouts.md
 linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
 tags:
-- tag_example
-- example_tag
+  - tag_example
+  - example_tag
+  - debt-restructuring
+  - bond-swap
+  - Greece
+  - holdouts
+  - foreign-law-bonds
+  - participation-rate
+  - collective-action-clauses
+  - debt-burden
+  - default
+  - "#debt-management"
+  - "#financial-crises"
+  - "#international-finance"
+  - "#currency-crisis"
+  - "#debt-structuring"
 title: Greece Faces Bond Swap Holdouts
 ---
-
-
-
 
 # Greece Faces Bond Swap Holdouts
 
 ## Abstract
 
-The foreign-law bond swap is part of Greece's debt restructuring deal that saw more than $\euro$100 billion knocked off its debt burden,  and which aims to reduce the country's debt burden from more than 165% of gross domestic product to a more sustainable 120.5% by 2020.
+The foreign-law bond swap is part of Greece's [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Debt Restructuring ]] deal that saw more than $\euro$100 billion knocked off its debt burden,  and which aims to reduce the country's debt burden from more than 165% of gross domestic product to a more sustainable 120.5% by 2020.
 
 ## Full Text
 
 ATHENS--The overall participation rate in an unprecedented Greek debt-restructuring deal has exceeded Greece's expectations,  a senior finance ministry official said Monday,  despite some holders of Greek foreign-law bonds still refusing to take part in the offer.
 
-The official said 97% of the bonds involved in Greece's debt restructuring agreement,  which cleared the way for its $\euro 130$ billion ($173 billion) bailout,  have been tendered in the swap,  exceeding the 95% target the country was aiming for under the plan.
+The official said 97% of the bonds involved in Greece's [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Debt Restructuring ]] agreement,  which cleared the way for its $\euro 130$ billion ($173 billion) bailout,  have been tendered in the swap,  exceeding the 95% target the country was aiming for under the plan.
 
 "We want to achieve a maximum participation from the remaining $\euro6.4$ billion still outstanding,  " the official said.
 
 His comments come after investors holding 16 foreign-laws bonds last week agreed to key changes allowing amendments in bond contracts to force the remaining investors into the plan.
 
-The foreign-law bond swap is part of Greece's debt restructuring deal that saw more than $\euro 100$ billion knocked off its debt burden,  and which aims to reduce the country's debt burden from more than 165% of gross domestic product to a more sustainable 120.5% by 2020.
+The foreign-law bond swap is part of Greece's [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Debt Restructuring ]] deal that saw more than $\euro 100$ billion knocked off its debt burden,  and which aims to reduce the country's debt burden from more than 165% of gross domestic product to a more sustainable 120.5% by 2020.
 
 The deal calls for bondholders to give up 53.5% of the principal by swapping old Greek bonds with new ones worth less than half their value,  carrying lower interest rates and longer maturities.
 
@@ -54,3 +67,5 @@ ABN Amro,  the nationalized Dutch bank,  is seen as one of the biggest creditors
 A spokesman for the lender confirmed last week that ABN Amro hadn't yet tendered its Greek bonds under the offer and is still considering how it will handle the swap.
 
 On May 15,  Greece must redeem one of those foreign-law notes valued at $\euro 450$ million.
+
+Tags: #debt-restructuring #bond-swap #Greece #holdouts #foreign-law-bonds #participation-rate #collective-action-clauses #debt-burden #default

@@ -1,5 +1,16 @@
 ---
+aliases: 
+cssclasses:
+  - academia
 title: Week 1 Advanced Financial Analysis and Valuation
+tags:
+  - financialanalysis
+  - valuationanalysis
+  - market-efficiency
+  - ratio-analysis
+  - "#financial-markets"
+  - "#financial-modeling"
+  - "#corporate-finance"
 ---
 
 # Week 1 Advanced Financial Analysis and Valuation

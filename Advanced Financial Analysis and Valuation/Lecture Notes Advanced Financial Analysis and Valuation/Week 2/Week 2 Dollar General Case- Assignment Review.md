@@ -1,10 +1,28 @@
 ---
-aliases: [Alias_320_Week 2 Dollar General Case- Assignment Review.md,  Alias_317_Week 2 Dollar General Case- Assignment Review.md]
-tags: []
+cssclasses:
+  - academia
+aliases:
+  - Alias_320_Week 2 Dollar General Case- Assignment Review.md
+  - Alias_317_Week 2 Dollar General Case- Assignment Review.md
+tags:
+  - finance
+  - debt-management
+  - corporaterestructuring
+  - financial-analysis
+  - case-studies
+  - mergers-and-acquisitions
+  - leveraged-buyout
+  - retail-industry
+  - "#quantitative-finance"
+  - "#debt-management-strategies"
+  - "#financial-crises"
+  - "#economic-history"
+  - "#macroeconomic-policymaking"
+  - "#corporate-valuation"
 title: Week 2 Dollar General CaseAssignment Review
 ---
 
-Thomas Rauter
+[[Week 2 Advanced Financial Analysis and Valuation]]
 
 # Week 2 Dollar General CaseAssignment Review
 
@@ -63,6 +81,7 @@ Thomas Rauter
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007)
 
 (A) Adjusting For Non-Recurring Items (Excl. Net Sales Adjustment)
+
 ![](4ce14116f4b8f02aa89ada23d44d08ac.png)
 
 Mark down adjustment
@@ -82,6 +101,7 @@ Mark down adjustment
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007) (B)
 
 Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
+
 ![](821b7bcf6c2e76f3827f90d909bb2787.png)
 
 ## ASSESSMENT OF DG'S FUTURE PROSPECTS FORECAST FOR FY2007 (YEAR ENDED FEB. 2008)
@@ -100,6 +120,7 @@ Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
 ## ASSESSMENT OF DG FUTURE PROSPECTS (A)
 
 SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
+
 ![](6eff0608c8f918f88bd4ab0b7c3ee4aa.png)
 
 ## ASSESSMENT OF KKR OFFER VALUATION
@@ -145,7 +166,7 @@ Broader Motivations Dollar General Motivations
 
 - DG was in the middle of turnaround strategy and faced a lot of pressure from investors
 	   - Short-term focus
-- The mid-2000s were a peak time for LBOs from an investor standpoint due to the availability of debt,  cash-flush investors seeking higher returns,  and a track record of successful LBOs
+- The mid-2000s were a peak time for [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]] from an investor standpoint due to the availability of debt,  cash-flush investors seeking higher returns,  and a track record of successful [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]
 - On the firm side,  firms often embark on an LBO:
 	   - To reduce agency costs by more closely uniting ownership and management (governance)
 - DG management likely believed executing their turnaround strategy would be easier when removed from Wall Street pressure
@@ -155,8 +176,13 @@ Broader Motivations Dollar General Motivations
    - Because mgmt believes the public market is undervaluing the firm
 
 [Week 2 Dollar General CaseAssignment Review](Zhe/Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
-[Dollar General Case Study](Dollar%20General%20Case%20Study.md)
+
+[DOLLAR GENERAL CASE STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
+
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
-[PSET 2- DOLLAR TREE CASE STUDY](PSET%202-%20DOLLAR%20TREE%20CASE%20STUDY.md)
-[JP Morgan Deep Discount Retail Sector Report](JP%20Morgan%20Deep%20Discount%20Retail%20Sector%20Report.md)
+
+[DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
+
+[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
+
 [PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)

@@ -16,7 +16,7 @@ title: Lecture NotesFinancial Instruments
 	- [[Teaching Note 2-Futures Contracts]]
 	- **[[Teaching Note 3 Swaps- Financial Instruments]]**
 	- **[[Teaching Note 4-Multiperiod Binomial Trees]]**
-	- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation]]
+	- [[Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation]]
 	- [[Teaching Note 8-American Options]]
 
 %% End Waypoint %%

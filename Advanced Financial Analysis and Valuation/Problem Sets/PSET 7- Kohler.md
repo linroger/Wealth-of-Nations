@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_301_PSET 7- Kohler.md
-- Alias_298_PSET 7- Kohler.md
+  - Alias_301_PSET 7- Kohler.md
+  - Alias_298_PSET 7- Kohler.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#corporatefinance"
+  - "#valuation"
+  - "#dcf"
+  - "#minoritydiscounts"
+  - "#recapitalization"
+  - "#privatecompanyvaluation"
+  - "#shareholdervalue"
 title: PSET 7- Kohler
 ---
 

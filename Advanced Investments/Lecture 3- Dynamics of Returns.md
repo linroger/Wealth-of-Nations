@@ -1,14 +1,15 @@
 ---
-aliases: [Example_Alias_Lecture 3- Dynamics of Returns,  Alias_112_Lecture 3- Dynamics of Returns.md]
-tags: [tag_example,  example_tag]
-title: Lecture 3Dynamics of Returns
+aliases: 
+tags: 
+title: Lecture 3-Dynamics of Returns
 ---
 
-# Lecture 3Dynamics of Returns
+# Lecture 3-Dynamics of Returns
 
+[[Lecture 3- Dynamics of Returns|return dynamics]]
 ## Lecture 3
 
-We now focus on dynamics of returns over time. Recall from lecture 1 the formula for the optimal risky asset share in the single risky asset case:
+We now focus on [[Lecture 3- Dynamics of Returns|return dynamics]] over time. Recall from lecture 1 the formula for the optimal risky asset share in the single risky asset case:
 
 $$
 
@@ -20,27 +21,27 @@ $$
 
 $$
 
-The inputs of this optimal allocation formula could potentially vary over time. Perhaps there are times when expected excess returns are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected returns or risk exists,  can it be exploited in a markettiming strategy? Later,  in lecture 5 ,  we will look more detail into optimal asset allocation in a multi-period setting when risk and expected return are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod investment horizon. To do this,  we need to a statistical model that gives us expectations of next-period returns and/or forecasts of next-period volatility.
+The inputs of this optimal allocation formula could potentially vary over time. Perhaps there are times when expected excess returns are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected returns or risk exists,  can it be exploited in a markettiming strategy? Later,  in lecture 5 ,  we will look more detail into optimal [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] in a multi-period setting when risk and expected return are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod investment horizon. To do this,  we need to a statistical model that gives us expectations of next-period returns and/or forecasts of next-period volatility.
 
 With this motivation in mind,  we will now look the data to answer questions such as: Are stock market index returns predictable? If yes,  does such predictability allow market timing? What sort of variables can be useful predictors of returns? Is volatility predictable?
 
-### 3.1 Conditional probability distributions
+### 3.1 Conditional [[Lecture 1- Probability Distributions of Returns|probability distributions]]
 
-Questions about the dynamics of returns,  predictability,  and market timing all have to do with the conditional probability distribution of returns.
+Questions about the [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]],  predictability,  and market timing all have to do with the conditional [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns.
 
-In the past two lectures we focused on the unconditional probability distribution of returns. The unconditional distribution describes how likely various outcomes are
+In the past two lectures we focused on the unconditional [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns. The unconditional distribution describes how likely various outcomes are
 
 in general,  without picking a subset of specific situations. For example,  we discussed how to estimate the unconditional mean of stock returns by taking a simple average of returns.
 
 In contrast,  the conditional distribution describes how likely various outcomes for returns are conditional on a subset of specific situations. For example,  suppose we come to the conclusion that the distribution of next period returns,  $R_{t+1}$ is different depending on whether returns in the current period,  $R_{t}$ are negative or positive. In this case,  the current period return $R_{t}$ is the conditioning information and the distribution of returns conditional on whether $R_{t}<0$ or $R_{t} \geq 0$ is the conditional distribution of returns.
 
-Now,  the conditional distribution differs from the unconditional distribution only if the conditioning information (lagged returns in our example) actually has some useful information about the shape and location of probability distribution of future returns. To describe how the shape and location of this probability distribution changes with conditioning information,  we need a statistical model.
+Now,  the conditional distribution differs from the unconditional distribution only if the conditioning information (lagged returns in our example) actually has some useful information about the shape and location of [[Lecture 1- Probability Distributions of Returns|probability distribution]] of future returns. To describe how the shape and location of this [[Lecture 1- Probability Distributions of Returns|probability distribution]] changes with conditioning information,  we need a statistical model.
 
 For example,  a crude statistical model of the conditional distribution of stock market returns would be to assert that that future returns may be drawn from two different distributions: one that applies when the market went up in the previous month,  the other one when it fell.
 
 Figure 3.1 plots histograms of the two distributions: one depicts the distribution of stock market returns following a gain in the previous month; the other one depicts the distribution of stock market returns following a loss in the previous month. Interestingly,  the distributions do seem to be different! Note how the distribution following a loss is more spread out and less concentrated in the middle. This means that when the stock market has fallen in the previous month then,  historically,  it was followed by a more volatile month in which returns were likely to be either very high or very low.
 
-Just as we can characterize unconditional probability distributions in terms of unconditional moments,  we can describe conditional distributions in terms of conditional moments. If $x_{t}$ is a variable that represents our conditioning information (in Figure $3.1 x_{t}$ would be an indicator for whether $R_{t}<0$ or $R_{t} \geq 0$ ),  then we can describe the distribution of $R_{t+1}$ conditional on $x_{t}$ with its conditional moments such as,  e.g.,  the conditional expected return,  $\mathbb{E}\left[R_{t+1} \mid x_{t}\right]$,  and the conditional variance $\operatorname{var}\left(R_{t+1} \mid x_{t}\right)$.
+Just as we can characterize unconditional [[Lecture 1- Probability Distributions of Returns|probability distribution]]s in terms of unconditional moments,  we can describe conditional distributions in terms of conditional moments. If $x_{t}$ is a variable that represents our conditioning information (in Figure $3.1 x_{t}$ would be an indicator for whether $R_{t}<0$ or $R_{t} \geq 0$ ),  then we can describe the distribution of $R_{t+1}$ conditional on $x_{t}$ with its conditional moments such as,  e.g.,  the conditional expected return,  $\mathbb{E}\left[R_{t+1} \mid x_{t}\right]$,  and the conditional variance $\operatorname{var}\left(R_{t+1} \mid x_{t}\right)$.
 
 To make these conditional moments useful in applications,  we need a statistical model to describe them. Here is an example: Suppose there was momentum in returns,  by which we mean that high returns in month $t$ are followed,  on average,  by predictably high returns in month $t+1$. We could capture this with a model for conditional expected returns such as
 
@@ -62,7 +63,7 @@ If returns are independently and identically (IID) distributed,  then conditiona
 
 ### 3.2 Logarithmic returns
 
-In this lecture and the coming ones,  we will pay more attention to the dynamics of returns over time. This means that we will have to take into account the compounding of returns.
+In this lecture and the coming ones,  we will pay more attention to the [[Lecture 3- Dynamics of Returns|return dynamics]] over time. This means that we will have to take into account the compounding of returns.
 
 Unfortunately,  working with compound returns is messy,  because compounding is multiplicative. Consider an asset that earns a sequence of returns over time: $R_{t+1},      R_{t+2},      \ldots,      R_{T}$. Calculation of the long-run return on this asset from time $t$ to $t+T$ involves compounding of returns over multiple periods:
 
@@ -232,9 +233,9 @@ This approximation is a useful rule of thumb to keep in mind. If you see someone
 
 ### 3.3 Stock market valuation models
 
-With log transformations in our toolkit,  we now turn our attention to valuation models that allow us to analyze how investor expectations and investor sentiment may affect pricing in the stock market (and other risky asset markets). This in turn provides insights about observable variables that may be useful for predicting stock market returns.
+With log transformations in our toolkit,  we now turn our attention to valuation models that allow us to analyze how investor expectations and [[Lecture 4- Investor Sentiment|investor sentiment]] may affect pricing in the stock market (and other risky asset markets). This in turn provides insights about observable variables that may be useful for predicting stock market returns.
 
-For now,  we use investor sentiment as a catch-all label to describe forces that affect stock prices and that do not reflect rational expectations of future cash flows of firms. This includes,  for example,  the effects of irrational investor optimism or pessimism about future cash flows. It also includes the stock price effects of time-varying risk aversion that investors may have. In the next lecture,  we'll take a more detailed look at what could explain investor sentiment changes over time.
+For now,  we use [[Lecture 4- Investor Sentiment|investor sentiment]] as a catch-all label to describe forces that affect stock prices and that do not reflect rational expectations of future cash flows of firms. This includes,  for example,  the effects of irrational investor optimism or pessimism about future cash flows. It also includes the stock price effects of time-varying risk aversion that investors may have. In the next lecture,  we'll take a more detailed look at what could explain [[Lecture 4- Investor Sentiment|investor sentiment]] changes over time.
 
 The discounted cash flow (DCF) valuation models that you are familiar with from your introductory finance classes look somewhat like this
 
@@ -274,7 +275,7 @@ $$
 
 $$
 
-The trouble with these sorts of valuation models is that they are mixes of summations and multiplicative relationships. For our purposes,  we want something even simpler,  only with additive terms,  not ratios and powers of stuff. We're looking for such a simple valuation framework so that we can easily think through the consequences of timevarying investor sentiment on aggregate stock market prices,  and the implications for market-timing strategies.
+The trouble with these sorts of valuation models is that they are mixes of summations and multiplicative relationships. For our purposes,  we want something even simpler,  only with additive terms,  not ratios and powers of stuff. We're looking for such a simple valuation framework so that we can easily think through the consequences of timevarying [[Lecture 4- Investor Sentiment|investor sentiment]] on aggregate stock market prices,  and the implications for market-timing strategies.
 
 As it turns out,  logs and some approximations can help us here.
 
@@ -510,11 +511,11 @@ $$
 
 which is exactly what it should be: The log return investors can expect to earn is the required rate of expected log return that they priced into the stock market valuation.
 
-### 3.4 A valuation model with investor sentiment
+### 3.4 A valuation model with [[Lecture 4- Investor Sentiment|investor sentiment]]
 
-Let's use this framework to understand how time-varying investor sentiment could affect prices,  how we could measure sentiment,  and how we could potentially exploit it in our asset allocation strategy. For the purpose of this exercise,  suppose that equation (3.26) represents how rational investors - who are not subject to sentiment fluctuationswould value the aggregate stock market. This means that these rational investors expect constant growth of dividends $g$ and they would require an expected return of $\theta$ to hold the outstanding value of all stocks. Let's call the $v_{t}$ in (3.26) the (log) fundamental value.
+Let's use this framework to understand how time-varying [[Lecture 4- Investor Sentiment|investor sentiment]] could affect prices,  how we could measure sentiment,  and how we could potentially exploit it in our [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy. For the purpose of this exercise,  suppose that equation (3.26) represents how rational investors - who are not subject to sentiment fluctuationswould value the aggregate stock market. This means that these rational investors expect constant growth of dividends $g$ and they would require an expected return of $\theta$ to hold the outstanding value of all stocks. Let's call the $v_{t}$ in (3.26) the (log) fundamental value.
 
-In contrast,  suppose that actual investors are subject to influence of investor sentiment. For example,  they are sometimes more optimistic about dividend growth and sometimes more pessimistic. Their valuation of the aggregate stock market is
+In contrast,  suppose that actual investors are subject to influence of [[Lecture 4- Investor Sentiment|investor sentiment]]. For example,  they are sometimes more optimistic about dividend growth and sometimes more pessimistic. Their valuation of the aggregate stock market is
 
 $$
 
@@ -528,7 +529,7 @@ $$
 
 where $s_{t}$ is the level of sentiment,  with $s_{t}>0$ reflecting excessive optimism and $s_{t}<0$ excessive pessimism.
 
-Now imagine a rational investor looking at this market,  seeing $v_{t}$,  as determined by (3.28),  and wondering what rate of return to expect given that stock prices are subject to the influence of investor sentiment. We can answer this question by substituting $v_{t}$ and $v_{t+1}$ from (3.28) into (3.20). Lots of terms cancel,  and we are left with
+Now imagine a rational investor looking at this market,  seeing $v_{t}$,  as determined by (3.28),  and wondering what rate of return to expect given that stock prices are subject to the influence of [[Lecture 4- Investor Sentiment|investor sentiment]]. We can answer this question by substituting $v_{t}$ and $v_{t+1}$ from (3.28) into (3.20). Lots of terms cancel,  and we are left with
 
 $$
 
@@ -546,7 +547,7 @@ according to our assumption. But with sentiment,  there is an additional compone
 
 Also note that if sentiment and hence mispricing is constant,  $s_{t}=s$,  then this mispricing component becomes $\rho \mathbb{E}_{t}[s]-s$,  which is not zero,  so it still affects returns the rational investor can expect. For example,  with constant overpricing,  $s>0$,  we have $\mathbb{E}_{t}[s]-s<0$. This reflects the fact that with a constant level of overvaluation,  even though an investor does not have to suffer from collapses of overpricing in this case,  the investor is paying more for stocks than they are really worth,  given their expected dividends,  which hurts returns.
 
-The relationship in (3.29) also tells us that if we could forecast $s_{t+1}$,  we could calculate expected returns and therefore forecast returns. This means that to forecast returns,  we need to have a model of the dynamics of investor sentiment.
+The relationship in (3.29) also tells us that if we could forecast $s_{t+1}$,  we could calculate expected returns and therefore forecast returns. This means that to forecast returns,  we need to have a model of the dynamics of [[Lecture 4- Investor Sentiment|investor sentiment]].
 
 A reasonable starting point for such a model of sentiment could be that sentiment is positively correlated over time (so when sentiment is,  e.g.,  above average today,  it will tend to be above average next quarter) and mean-reverting (so when sentiment is,  e.g.,  above average today,  we expect it to be closer to the average level next quarter). This would mean that sentiment slowly cycles through periods of optimism and pessimism. We can capture these properties with a first-order autoregressive process,  or $\operatorname{AR}(1)$ process:
 
@@ -588,7 +589,7 @@ Note that $(1-\rho \phi)>0$. So,  expected returns are low when current sentimen
 
 When we have a relationship between rationally expected returns and time-varying variable like $s_{t}$,  we say that there is return predictability.
 
-Yet,  to empirically use (3.32),  we need to measure $s_{t}$. How can we measure it? We'll discuss some empirical proxies for investor sentiment in the next lecture. But for now let's look at an indirect way of getting at it. Go back to (3.28) and solve for $s_{t}$ :
+Yet,  to empirically use (3.32),  we need to measure $s_{t}$. How can we measure it? We'll discuss some empirical proxies for [[Lecture 4- Investor Sentiment|investor sentiment]] in the next lecture. But for now let's look at an indirect way of getting at it. Go back to (3.28) and solve for $s_{t}$ :
 
 $$
 
@@ -612,7 +613,7 @@ $$
 
 $$
 
-where I collected all the constants in the first term. So the log price-dividend ratio,  which we can directly observe,  should capture the time-variation in expected returns induced by investor sentiment. If investors were rational,  under the assumptions we made,  the price-dividend ratio would not vary. So to the extent it varies,  it varies with the investor sentiment level $s_{t}$. This is why the price-dividend ratio predicts returns. Times of high price-dividend ratios,  for example,  are times when a rational investor in this model should expect low future returns.
+where I collected all the constants in the first term. So the log price-dividend ratio,  which we can directly observe,  should capture the time-variation in expected returns induced by [[Lecture 4- Investor Sentiment|investor sentiment]]. If investors were rational,  under the assumptions we made,  the price-dividend ratio would not vary. So to the extent it varies,  it varies with the [[Lecture 4- Investor Sentiment|investor sentiment]] level $s_{t}$. This is why the price-dividend ratio predicts returns. Times of high price-dividend ratios,  for example,  are times when a rational investor in this model should expect low future returns.
 
 In practice,  there can be a distortion that can prevent the price-divided ratio from accurately capturing the sentiment level. If rationally expected dividend growth rates are not constant but time-varying,  this would introduce rational reasons for why the pricedividend ratio should vary. If so,  then not all variation in $v_{t}$ in our sentiment valuation model (3.28) is due to variation in $s_{t}$. Some of the variation would be due to timevarying $g$. Then the price-dividend ratio may be high not because the market is currently overpriced due to positive sentiment,  but rather because because high rationally expected growth of dividends justifies high a current price relative to current dividends. This makes $v_{t}$ a less reliable predictor of future returns.
 
@@ -738,7 +739,7 @@ I pick parameters that make the series have properties close to the actual stock
 
 A key question we should look into is how the persistence of sentiment affects the nature of mispricing and the return predictability that follows from it. For this reason,  I will show results for several different values of $\phi$ in (3.39). For each value of $\phi$,  I look for a value of the sentiment shocks $\sigma_{s}$ that makes the standard deviation of $s_{t}$ equal to 0.20 . In other words,  I want to see the effects of changing persistence of sentiment without changing the typical magnitudes of sentiment-induced misvaluation.
 
-Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length of 400 quarters and for two different values of $\phi: \phi=0.15$ in the top panel and $\phi=0.95$ in the bottom panel. In both cases,  there is a substantial degree of misvaluation due to the time-varying investor sentiment,  often exceeding $+30/% or $-30/% of the fundamental value. But which value of $\phi$ we pick makes a big difference for how fast misvaluation corrects. In the top panel,  if investor sentiment is not very persistent,  mispricing corrects very quickly and so we get relatively high-frequency variation of the price around fundamental value. In contrast,  with $\phi=0.95$ in the bottom panel,  investor sentiment is highly persistent and we get long-lasting cycles of misvaluation.
+Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length of 400 quarters and for two different values of $\phi: \phi=0.15$ in the top panel and $\phi=0.95$ in the bottom panel. In both cases,  there is a substantial degree of misvaluation due to the time-varying [[Lecture 4- Investor Sentiment|investor sentiment]],  often exceeding $+30/% or $-30/% of the fundamental value. But which value of $\phi$ we pick makes a big difference for how fast misvaluation corrects. In the top panel,  if [[Lecture 4- Investor Sentiment|investor sentiment]] is not very persistent,  mispricing corrects very quickly and so we get relatively high-frequency variation of the price around fundamental value. In contrast,  with $\phi=0.95$ in the bottom panel,  [[Lecture 4- Investor Sentiment|investor sentiment]] is highly persistent and we get long-lasting cycles of misvaluation.
 
 Which of the two cases would make it easier for a smart investor to profit from misvaluation? Clearly the first case. In this case,  if the investor recognizes at a certain point in time that there is big misvaluation,  then,  because sentiment has low persistence,  it's very likely that this misvaluation will correct soon. A bet against misvaluation is therefore likely to pay off soon. In contrast,  in the high-persistence case in the bottom panel,  an investor could correctly diagnose that there is,  say,  undervaluation (such as around quarter 245 in the plot) but then it can take another 5 to 10 years until the
 
@@ -811,7 +812,7 @@ Table 3.2: Predictive regressions of one-quarter-ahead returns on the lagged log
 
 thresholds for statistical significance at a $5/% confidence level (this threshold is at -1.96). And the $R^{2}$ of $0.6/% tells us that the $\log \mathrm{P} / \mathrm{D}$ ratio explains very little of the variation of future returns.
 
-While the present-value identity framework based on log-linear approximation that we used in this lecture relates the $\log \mathrm{P} / \mathrm{D}$ ratio to future $\log$ returns and future $\log$ dividend growth,  for the purpose of choosing an asset allocation we are actually not really interested directly in expected log returns. Instead,  we want to know expected simple returns. Yet,  a regression with log returns as dependent variable gives us forecasts of log returns,  not forecasts of simple returns. To illustrate what difference this makes,  recall from (3.10) that if returns are conditionally log normal,  the conditional expected simple return return relates to the conditional expected log return as follows:
+While the present-value identity framework based on log-linear approximation that we used in this lecture relates the $\log \mathrm{P} / \mathrm{D}$ ratio to future $\log$ returns and future $\log$ dividend growth,  for the purpose of choosing an [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] we are actually not really interested directly in expected log returns. Instead,  we want to know expected simple returns. Yet,  a regression with log returns as dependent variable gives us forecasts of log returns,  not forecasts of simple returns. To illustrate what difference this makes,  recall from (3.10) that if returns are conditionally log normal,  the conditional expected simple return return relates to the conditional expected log return as follows:
 
 $$
 
@@ -823,7 +824,7 @@ $$
 
 $$
 
-If $\operatorname{var}_{t}\left(r_{t+1}\right)$ was constant,  then the difference between conditional expected simple and log returns would be roughly constant most of the difference would be absorbed by the intercept term $a$ in the regression without affecting the slope coefficient $b$. However,  in reality volatility is time-varying and it may also vary with $\log \mathrm{P} / \mathrm{D}$,  which means it can affect the slope coefficient. So,  to get usable inputs for asset allocation optimization,  it makes sense for us to use simple,  not log returns as the dependent variable in the regression.
+If $\operatorname{var}_{t}\left(r_{t+1}\right)$ was constant,  then the difference between conditional expected simple and log returns would be roughly constant most of the difference would be absorbed by the intercept term $a$ in the regression without affecting the slope coefficient $b$. However,  in reality volatility is time-varying and it may also vary with $\log \mathrm{P} / \mathrm{D}$,  which means it can affect the slope coefficient. So,  to get usable inputs for [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] optimization,  it makes sense for us to use simple,  not log returns as the dependent variable in the regression.
 
 Panel B of Table 4.2 shows the result: The slope coefficient is much bigger than in Panel A,  the $t$-statistic is now -2.428 ,  which is statistically significantly different from zero at a $5/% level,    and the $R^{2}$ is now $1.3/%.
 
@@ -893,7 +894,7 @@ tion of stock repurchases for dividends in recent decades (which we tried to add
 
 However,  just using current-year earnings as the denominator in a price-earnings ratio does not always work well because annual earnings are notoriously volatile. In particular,  when a recession hits and earnings fall,  firms often like to take big "earnings baths" by taking all sorts of asset write downs. Firms tend to prefer to take such a big earnings bath once in a while rather than having more frequent moderately low earnings. The consequence of this is that annual aggregate earnings fall much more in recessions than the fundamental value of stocks. They often fall so much that the price/earnings ratio with current-year earnings goes $u p$ when the economy hits a recession,  even though stock prices fall substantially.
 
-As Figure 3.10 shows,  this happened during the Great Recession in 2008/09 and,  to a lesser extent in the recession in 2001. The figure also shows the repurchase-adjusted $\log P / D$ ratio for comparison. Earnings fell so much that the log price-to-earnings ratio actually went up very sharply in 2008/09,  despite the huge drop in stock prices that took place back then! This very different from how the $\log P / D$ ratio behaved. This upward spike completely destroyed the ability of the $P / E$ ratio to serve as a cyclical valuation measure around this time.
+As Figure 3.10 shows,  this happened during the Great Recession in 2008/09 and,  to a lesser extent in the recession in 2001. The figure also shows the repurchase-adjusted $\log P / D$ ratio for comparison. Earnings fell so much that the log price-to-earnings ratio actually went up very sharply in 2008/09,  despite the huge drop in stock prices that took place back then! This very different from how the $\log P / D$ ratio behaved. This upward spike completely destroyed the ability of the $P / E$ ratio to serve as a [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] valuation measure around this time.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-102.jpg?height=915&width=1199&top_left_y=296&top_left_x=428)
 
@@ -1111,7 +1112,7 @@ average conditional variance then is $\frac{1}{2} 0.5^{2} \sigma^{2}+\frac{1}{2}
 
 ### 3.11 Volatility timing
 
-The general idea underlying market timing strategies is that we would like to increase exposure to the stock market when the reward-to-risk ratio is high and keep the exposure lower when the reward-to-risk ratio is low. This should then boost the Sharpe ratio of the long-run return of the strategy. Recall the optimal asset allocation formula for the single risky asset case (3.1),  now written with conditional moments:
+The general idea underlying market timing strategies is that we would like to increase exposure to the stock market when the reward-to-risk ratio is high and keep the exposure lower when the reward-to-risk ratio is low. This should then boost the Sharpe ratio of the long-run return of the strategy. Recall the optimal [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] formula for the single risky asset case (3.1),  now written with conditional moments:
 
 $$
 
@@ -1123,7 +1124,7 @@ $$
 
 $$
 
-So far we have focused on the numerator,  trying to identity variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,      t}$ in the data. But we can also improve our asset allocation if we focus on the denominator and identify variation in $\operatorname{var}_{t}\left(R_{t+1}\right)$ in the data. To identify periods when the reward for taking risk in the stock market is high,  we can look for periods in which expected returns are higher than average,  or periods in which volatility is lower than average (or a combination of both). We now focus on predicting volatility.
+So far we have focused on the numerator,  trying to identity variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,      t}$ in the data. But we can also improve our [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] if we focus on the denominator and identify variation in $\operatorname{var}_{t}\left(R_{t+1}\right)$ in the data. To identify periods when the reward for taking risk in the stock market is high,  we can look for periods in which expected returns are higher than average,  or periods in which volatility is lower than average (or a combination of both). We now focus on predicting volatility.
 
 To generate a time-series of volatility,  I take a series of daily returns on the CRSP value-weighted stock market index. Each quarter I calculate the standard deviation of daily returns and I annualize (multiply by $\sqrt{250}$ ). Figure 3.16 displays the time-series of these annualized quarterly standard deviations of daily returns.
 

@@ -50,7 +50,7 @@ The risk neutral probability of an "up" move is:$$q^{*}={\frac{e x p(0.02)-d}{u-
 The price of the option is therefore:$$V=e^{-0.02\times2}\times(1-0.69)^{2}\times90.70=8.38$$
 ## PROBLEM 3. (**30 POINTS**)
 A few years ago your company issued a bond denominated in Euros. The bond has a face value of 1 million Euros and pays semi-annual coupons at an annual rate of 6%. You just made a coupon payment and the bond has one year left to maturity. In other words you owe a coupon payment in 6 months,  and payments of coupon and principal in 1 year.
-The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current LIBOR rates (in continuously compounded units) are:
+The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates (in continuously compounded units) are:
 | Maturity   | USD   | Euro   |
 |------------|-------|--------|
 | 6 months   | 2%    | 2%     |
@@ -61,7 +61,7 @@ The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current LIBOR r
 and
 $$F_{0, 1}=1.3\times e^{(0.025-0.03)\times1}=1.29$$
 Hedge: buy 6%/2 × 1 milllion = 30,  000 Euros forward at the 6 month rate of 1.3 and buy 1,  030,  000 Euros forward at the 1 year rate of 1.29.
-(b) (10 points) Suppose the day after you signed your forward contract in part (a) above,  the spot exchange rate between dollars and Euros is 1.29 dollars per Euro (USD/EUR). Yields (c.c.) in the LIBOR market are now:
+(b) (10 points) Suppose the day after you signed your forward contract in part (a) above,  the spot exchange rate between dollars and Euros is 1.29 dollars per Euro (USD/EUR). Yields (c.c.) in the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] market are now:
 | Maturity              | USD   | Euro   |
 |-----------------------|-------|--------|
 | 6 months (less a day) | 2%    | 2%     |
@@ -141,7 +141,7 @@ where$M(t)$is the spot rate (e.g. USD / EUR exchange rate,  that is the price in
 [Overnight Index Swaps (OIS)](Overnight%20Index%20Swaps%20(OIS).md)
 [Notes on Swaps](Notes%20on%20Swaps.md)
 [The Value of the Swap Contract after Initiation](The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md)
-[HBS Notes on Currency Swaps](HBS%20Notes%20on%20Currency%20Swaps.md)
+[The Mechanics of Currency Swaps With Bank Credit Intermediation](The%20Mechanics%20of%20Currency%20Swaps%20With%20Bank%20Credit%20Intermediation.md)
 [CHAPTER 13 CURRENCY DERIVATIVES- FUTURES,  OPTIONS AND SWAPS](0.%20Finance%20Notes/Asset%20Classes/Notes-International%20Finance/CHAPTER%2013%20CURRENCY%20DERIVATIVES-%20FUTURES, %20OPTIONS%20AND%20SWAPS.md)
 > [!ANSWER]
 > True: One example we know well is a [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) swap. The swap requires an exchange of cash flows in two different currencies.

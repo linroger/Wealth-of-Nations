@@ -1,16 +1,23 @@
 ---
 aliases:
-- Alias_332_Week 8 Opportunities And Risks Of Investing Internationally.md
-- Alias_335_Week 8 Opportunities And Risks Of Investing Internationally.md
+  - Alias_332_Week 8 Opportunities And Risks Of Investing Internationally.md
+  - Alias_335_Week 8 Opportunities And Risks Of Investing Internationally.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#investment-analysis"
+  - "#risk-analysis"
+  - "#international-investment"
+  - "#emerging-markets"
+  - "#globalization"
+  - "#portfolio-diversification"
 ---
 
 Thomas Rauter
 
 ## THIS PRE-RECORDING
  - Importance of international investments
-	‒ Globalization of markets
+	‒ [[Chapter 1-Introduction to Globalization|Globalization]] of markets
  - Opportunities of investing abroad: FDI and M&A
 	‒ Global M&A Trends
  - Opportunities of investing abroad: Portfolio Investments
@@ -23,7 +30,7 @@ Thomas Rauter
 
 # OPPORTUNITIES OF INVESTING ABROAD: FDI AND M&A
 ## IMPORTANCE OF INTERNATIONAL INVESTMENTS
- - Globalization of markets
+ - [[Chapter 1-Introduction to Globalization|Globalization]] of markets
 	‒ Financial integration through liberalization of capital markets
 	‒ Economic integration through increased trade
  - Increased integration has led to a dramatic increase in cross-border M&A, particularly with emerging markets
@@ -132,7 +139,7 @@ Even a small fraction of foreign investment in developed economies dominated a 1
  - Do we really believe that we can hedge against a major financial crisis (rocking banks in developed countries) by buying shares in China (or elsewhere)?
 	 ‒ China is highly dependent on the U.S. consumer
 	‒ Financial markets have never been more interconnected
-	‒ This risk is better addressed with asset allocation (across classes of assets)
+	‒ This risk is better addressed with [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] (across classes of assets)
  - So not really an argument against diversification
 
 ## CORRELATIONS WITH U.S. RETURNS IN THE FINANCIAL CRISIS
@@ -147,7 +154,7 @@ Even a small fraction of foreign investment in developed economies dominated a 1
 	‒ EMs offer substantial diversification benefits
 	‒ EMs provide interesting investment opportunities
  - Nevertheless, there is significant home bias around the world
-	‒ Traditional asset allocation: Domestic/international is still common
+	‒ Traditional [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]: Domestic/international is still common
  - Traditional explanation: Barriers to foreign investment, e.g.,
 	‒ Capital and currency controls;
 	‒ Transaction and trading costs

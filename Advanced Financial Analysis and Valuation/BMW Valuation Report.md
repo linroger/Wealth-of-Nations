@@ -1,11 +1,18 @@
 ---
 aliases:
-- Alias_281_BMW Valuation Report.md
-- <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
-- Alias_284_BMW Valuation Report.md
+  - Alias_281_BMW Valuation Report.md
+  - <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
+  - Alias_284_BMW Valuation Report.md
 linter-yaml-title-alias: <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#investmentanalysis"
+  - "#financialmarkets"
+  - "#corporatefinance"
+  - "#automotive-industry"
+  - "#electric-vehicles"
+  - "#bmw"
 title: BMW Valuation Report
 ---
 
@@ -21,7 +28,7 @@ title: BMW Valuation Report
 
 **- Advancement in BEV Technology:** BMW's long-term investment in BEV technology positions it advantageously in the market. With over a decade of in-house development,  the company is deploying its fifth generation of e-motors and battery cell chemistries. These technological advancements are expected to improve market valuation as they are increasingly recognized.
 
-**- Brand Recognition and Competitive Advantage:** BMW’s strong brand recognition in the luxury automotive market provides a significant competitive advantage. The brand’s emphasis on high quality,  innovation,  and customer loyalty ensures sustained demand and market differentiation. BMW’s global supply chain and extensive distribution network further bolster its competitive edge.
+**- Brand Recognition and Competitive Advantage:** BMW’s strong brand recognition in the luxury automotive market provides a significant competitive advantage. The brand’s emphasis on high quality,  innovation,  and customer loyalty ensures sustained demand and market differentiation. BMW’s global supply chain and extensive distribution network further bolster its [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] edge.
 
 **Target Price & Valuation**
 
@@ -29,9 +36,9 @@ Based on a discounted cash flow (DCF) analysis and a comparative company analysi
 
 **Business Highlights**
 
-**- Automotive Segment:** In 2023,  BMW achieved record sales of 2.55 million vehicles,  including significant growth in all-electric vehicle sales,  which increased by 74.1% to 375, 716 units. The segment's revenues rose to €132, 277 million,  with an EBIT margin of 9.8%.
+**- Automotive Segment:** In 2023,  BMW achieved record sales of 2.55 million vehicles,  including significant growth in all-electric vehicle sales,  which increased by 74.1% to 375, 716 units. The segment's revenues rose to €132, 277 million,  with an [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] margin of 9.8%.
 
-**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209, 066 units,  marking a 3.0% increase. The segment's EBIT margin remained stable at 8.1%,  with strong growth in Europe and the Americas.
+**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209, 066 units,  marking a 3.0% increase. The segment's [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] margin remained stable at 8.1%,  with strong growth in Europe and the Americas.
 
 **- Financial Services Segment:** Despite a 7.6% decline in profit before tax to €2, 962 million due to higher refinancing costs,  the segment maintained a low credit loss ratio and saw a 3.4% increase in new credit financing and leasing agreements.
 
@@ -79,7 +86,7 @@ BMW led with 2, 252, 793 units,  MINI delivered 295, 358 units,  and Rolls-Royce
 
 Geographically,  Europe showed strong growth with Germany,  the UK,  France,  and Italy all posting higher sales figures. The Americas also saw a rise in sales,  particularly in the USA with a 9.3% increase. Asian markets recovered,  with China showing a 4.1% increase in sales.
 
-The Automotive segment's revenues increased to €132, 277 million,  up 7.0% from 2022,  supported by higher vehicle sales and full consolidation of BMW Brilliance. EBIT margin improved to 9.8%,  within the forecasted range. Profit before tax was €12, 642 million,  significantly lower than the previous year due to the absence of a one-time gain recognized in 2022.
+The Automotive segment's revenues increased to €132, 277 million,  up 7.0% from 2022,  supported by higher vehicle sales and full consolidation of BMW Brilliance. [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] margin improved to 9.8%,  within the forecasted range. Profit before tax was €12, 642 million,  significantly lower than the previous year due to the absence of a one-time gain recognized in 2022.
 
 BMW M division sales grew by 14.2%,  with significant contributions from the electrification of the M model range. Increased expenses in research and development were focused on digitalization,  electrification,  and automated driving functions. Rolls-Royce achieved record sales,  and the debut of the all-electric Rolls-Royce Spectre has a backlog of orders through to 2025.
 
@@ -87,7 +94,7 @@ The cost of sales increased slightly due to higher vehicle sales and the negativ
 
 ## <A NAME="_HEADING=H.B8FRPPOTFTQP"></A>2.2 MOTORCYCLES
 
-BMW Motorrad marked its 100th anniversary in 2023 by setting a new sales record,  delivering 209, 066 motorcycles and scooters with a 3.0% increase compared to 2022. Sales growth was reported across all major regions. In Europe,  sales rose by 4.7% to 116, 011 units. Germany remained stable,  while France and Italy experienced moderate growth. In the Americas,  sales were steady,  with significant growth in Brazil. The U.S. saw a slight decrease in sales. Sales in China increased by 2.8%. Several new models and updates were introduced,  including the BMW R 1300 GS and the BMW CE 02 electric scooter. The year also saw updates in the Sport,  Super Sport,  Roadster,  and Adventure segments,  with launches like the M 1000 RR and the updated F 800 GS and F 900 GS models. Two exclusive edition models,  the BMW R18 100 Years and the BMW R nineT 100 Years,  were launched. BMW Motorrad Welt opened in Berlin as a new experience center for fans and customers. Profit before tax was €258 million,  slightly down from 2022 by 4.1%,  with the EBIT margin stable at 8.1%,  within the target range. The return on capital employed (RoCE) was at 22.1%,  within the expected range of 21 to 26%. BMW Motorrad has robust sales growth during its centenary year,  underpinned by strategic product renewals and expansions,  and a stable financial performance despite challenges.
+BMW Motorrad marked its 100th anniversary in 2023 by setting a new sales record,  delivering 209, 066 motorcycles and scooters with a 3.0% increase compared to 2022. Sales growth was reported across all major regions. In Europe,  sales rose by 4.7% to 116, 011 units. Germany remained stable,  while France and Italy experienced moderate growth. In the Americas,  sales were steady,  with significant growth in Brazil. The U.S. saw a slight decrease in sales. Sales in China increased by 2.8%. Several new models and updates were introduced,  including the BMW R 1300 GS and the BMW CE 02 electric scooter. The year also saw updates in the Sport,  Super Sport,  Roadster,  and Adventure segments,  with launches like the M 1000 RR and the updated F 800 GS and F 900 GS models. Two exclusive edition models,  the BMW R18 100 Years and the BMW R nineT 100 Years,  were launched. BMW Motorrad Welt opened in Berlin as a new experience center for fans and customers. Profit before tax was €258 million,  slightly down from 2022 by 4.1%,  with the [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] margin stable at 8.1%,  within the target range. The return on capital employed (RoCE) was at 22.1%,  within the expected range of 21 to 26%. BMW Motorrad has robust sales growth during its centenary year,  underpinned by strategic product renewals and expansions,  and a stable financial performance despite challenges.
 **
 
 ## <A NAME="_HEADING=H.VMGYYFN66WG2"></A>2.3 FINANCIAL SERVICES
@@ -143,7 +150,7 @@ BMW operates in the competitive luxury automotive market,  facing challenges and
 - **Global Supply Chain and Distribution Network**: BMW employs a market penetration strategy to boost sales in established markets via dealerships and various distribution channels. This approach includes ramping up efforts to market and sell more automotive products in specific regions,  especially in developing markets where there is significant potential for growth.
 
 ## <A NAME="_HEADING=H0.\1TJVIO4UC068"></A>7.2 COMPETITIVE DISADVANTAGES
-- **Cost Leadership Tension**: While BMW incorporates cost leadership into its strategy,  its main focus is on differentiation. The brand's commitment to premium branding and high-quality products suggests that it might not be as competitive on price alone,  especially against competitors who prioritize and achieve better cost efficiencies.
+- **Cost Leadership Tension**: While BMW incorporates cost leadership into its strategy,  its main focus is on differentiation. The brand's commitment to premium branding and high-quality products suggests that it might not be as [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] on price alone,  especially against competitors who prioritize and achieve better cost efficiencies.
 - **Challenges in Market Penetration**: BMW faces challenges with market penetration,  particularly in areas where its presence is limited. These difficulties are intensified by the aggressive marketing strategies and technological advancements of its competitors,  which hinder BMW’s ability to expand its market share in these regions.
 
 Overall,  BMW is well-positioned to outperform its industry peers due to several strategic and operational advantages. With a strong brand identity known for quality and luxury,  BMW maintains a loyal customer base and attracts new customers seeking premium automotive experiences. The company's significant investments in BEVs and diversified product range allow it to meet broad consumer demands and stay ahead in the shift towards sustainability. BMW's global presence in key markets like Europe,  the US,  and China enhances its market reach and risk diversification. Additionally,  BMW's commitment to technological innovation remains a key growth driver. Moreover,  the company's emphasis on operational efficiency,  utilizing flexible manufacturing and lean production methods,  helps it control costs effectively while maintaining high production quality.

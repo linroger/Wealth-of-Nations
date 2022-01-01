@@ -1,15 +1,22 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_48_Class Slides Effects of MMF Regulations in the United States.md
-- Example_Alias_Class Slides Effects of MMF Regulations in the United States
+  - Alias_48_Class Slides Effects of MMF Regulations in the United States.md
+  - Example_Alias_Class Slides Effects of MMF Regulations in the United States
 tags:
-- tag_example
-- example_tag
+  - tag_example
+  - example_tag
+  - "#quantitative-finance"
+  - "#finance"
+  - "#financial-crises"
+  - "#macroeconomics"
+  - "#financial-markets"
+  - "#money-market-funds"
+  - "#liquidity-management"
+  - "#federal-reserve-response"
 title: Class Slides Effects of MMF Regulations in the United States
 ---
-
-
-
 
 # Class Slides Effects of MMF Regulations in the United States
 
@@ -29,7 +36,7 @@ Notes: This figure plots summary statistics for fraction flows (one-day differen
 
 Business 35202 Spring 2023
 
-# Institutional Money Market Funds
+# Institutional [[A Primer on Money Market Mutual Funds|Money Market Funds]]
 
 ![](https://storage.simpletex.cn/view/ftFdUoNGHRqtlWYpFEa4puteebK7EpN0C)
 
@@ -37,7 +44,7 @@ Prime institutional assets
 
 Government institutional assets
 
-All Money Market Funds
+All [[A Primer on Money Market Mutual Funds|Money Market Funds]]
 
 ![](https://storage.simpletex.cn/view/f84hRhoOcemh5kWwXKRFuggMSMXGF7KBb)
 
@@ -57,9 +64,9 @@ Data from Federal Reserve Bank of NY Business 35202 Spring 2022
 
 Liquidity mismatch and mutual fund runs,  March 2020.
 
-- We saw runs on prime money market funds (mainly in institutiona!),  on longer-term investment grade bond funds with falling prices for both investment grade bonds and even more rapidly falling prices for ETF funds holding investment grade bonds.
+- We saw runs on prime [[A Primer on Money Market Mutual Funds|money market funds]] (mainly in institutiona!),  on longer-term investment grade bond funds with falling prices for both investment grade bonds and even more rapidly falling prices for ETF funds holding investment grade bonds.
 
- Issuance of CP slowed,  even longer term government bonds dropped in price in mid March.
+ Issuance of [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] slowed,  even longer term government bonds dropped in price in mid March.
 
 - A classic flight to liquidity. As longer term,  assets were sold to raise cash. Even US government bonds fell (when expected to rise).
 - This was a pattern in pre Federal Reserve times,  where a flight to liquidity depressed long-term bond prices apart from default risk.
@@ -116,13 +123,13 @@ Notes: The lines represent the cumulative percentage flows starting March 2,  20
 
 Source: iMoneyNet.
 
-# Rates on 3 o-day Commercial Paper Ease
+# Rates on 3 o-day [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ease
 
 ![](https://storage.simpletex.cn/view/fMzXyzRffu4GbPYvLnvLTWPXCGmSRQGvQ)
 
 Source: Board of Governors of the Federal Reserve System.
 
-Notes: ABCP is asset-backed commercial paper. CP is commercial paper. The vertical bar marks the day of the facility's inception.
+Notes: ABCP is asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] is [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. The vertical bar marks the day of the facility's inception.
 
 ## Flows to Government MMFs Have Stabilized since the End of March
 
@@ -135,6 +142,7 @@ Source: iMoneyNet.
 Prime MMFs suffered large withdrawals
 
 ![](https://storage.simpletex.cn/view/fwig3kKORYRrD3ppKh7guU7HLnHB3IMar)
+
 Cumulative daily change in AUM:
 
 Lhs: Government / Treasury
@@ -144,21 +152,23 @@ Lhs: Government / Treasury
 Cumulative flows differed across funds
 
 ![](https://storage.simpletex.cn/view/f8XKrZ1lCnfzm3ZGa4QEd6n8UMbO9sfpq)
+
 From 6 to 26 March 2020,  in per cent
 
 ![](https://storage.simpletex.cn/view/f1zWy2hgNveF4mRgt8mSKKeZocK42zovw)
 
-The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial commercial paper). The shaded areas in the first and third panels indicate 626 March 2020 (period of consecutive outflows).
+The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]). The shaded areas in the first and third panels indicate 626 March 2020 (period of consecutive outflows).
 
 AUM $=\frac{1}{2}$ assets under management; CNAV = constant NAV; LVNAV = low-volatility NAV; VNAV = variable NAV.
 
-1 The sample includes money market funds as classified by CRANE (the top panels) and Informa iMoneyNet (bottom panels).
+1 The sample includes [[A Primer on Money Market Mutual Funds|money market funds]] as classified by CRANE (the top panels) and Informa iMoneyNet (bottom panels).
 
 Sources: CRANE; Informa iMoneyNet; authors calculations.
 
 # Liquidity management at prime institutional MMFs during the March turmoil
 
 Funds sought to preserve,  even enhance,  liquidity…
+
 ![](https://storage.simpletex.cn/view/fBXByyCHX4rzuAGuvSCziRdKaxZz9oR4p)
 
 … Compensating initially with longer maturities.

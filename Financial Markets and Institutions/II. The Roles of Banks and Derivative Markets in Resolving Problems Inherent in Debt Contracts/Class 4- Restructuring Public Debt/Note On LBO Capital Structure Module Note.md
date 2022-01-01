@@ -1,23 +1,40 @@
 ---
+cssclasses: academia
 aliases:
-- Note On LBO Capital Structure
-- Example_Alias_Note On LBO Capital Structure Module Note
-- Alias_8_Note On LBO Capital Structure Module Note.md
+  - Note On LBO Capital Structure
+  - Example_Alias_Note On LBO Capital Structure Module Note
+  - Alias_8_Note On LBO Capital Structure Module Note.md
 linter-yaml-title-alias: Note On LBO Capital Structure
 tags:
-- tag_example
-- example_tag
-title: Note On LBO Capital Structure Module Note
+  - tag_example
+  - example_tag
+  - leveragedbuyout
+  - debtfinancing
+  - capitalstructure
+  - seniorsecureddebt
+  - juniorsecureddebt
+  - assetsbackedloans
+  - leveragedloans
+  - highyieldbonds
+  - mezzaninedebt
+  - financialratios
+  - "#quantitative-finance"
+  - "#finance"
+  - "#financial-instruments"
+  - "#leveraged-buyouts"
+  - "#capital-structure"
+  - "#debt-financing"
+title: Note on LBO Capital Structure Module Note
 ---
 
+[[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBO]]
 
+# Note on LBO Capital Structure Module Note
 
-
-# Note On LBO Capital Structure Module Note
-
-Leveraged buyouts (LBOs) are characterized by a high degree of debt ("leverage"). **Exhibit 1** and Exhibit 2 show that over the past decade LBO debt was between 50-70% of total funding sources,  and debt-to-EBITDA was between 3.2x–6.3x.
+[[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]) are characterized by a high degree of debt ("leverage"). **Exhibit 1** and Exhibit 2 show that over the past decade LBO debt was between 50-70% of total funding sources,  and debt-to-EBITDA was between 3.2x–6.3x.
 
 The specifics of each capital structure vary case by case; however,  in any given year,  there is a great deal of similarity in the buyouts capital structure. These similarities exist because debt structure is mainly determined by the deal size and market conditions.a While smaller buyouts typically have simple capital structures and are primarily funded by banks,  larger amounts of debt are typically financed by pooling multiple sources of institutional capital. (**Exhibit 3** summarizes the mapping between sources of capital and the layers of capital structure.)
+
 This note focuses on the debt structure of larger buyouts at the deal closing.b However,  apart from debt,  every LBO includes common equity and often equity-like facilities such as preferred equity. Equity holds the most junior position in the capital structure and has the residual claim on all of the firm's cash flows.
 
 ## Types Of Debt
@@ -28,7 +45,7 @@ For a typical LBO,  debt can be divided in two broad layers:
 - junior debt.
 Senior secured debt holds the first claim in case of a liquidation of the company,  before junior debt.
 
-As shown in **Exhibit** 2,  senior debt-to-EBITDA levels range between 2.4x–5.6x and junior debt-toEBITDA levels are between 0.2x–2.1x for large and middle-market LBOs over time.c Within each of these debt layers there are notable sub-categories that are discussed below.
+As shown in **Exhibit** 2,  senior debt-to-EBITDA levels range between 2.4x–5.6x and junior debt-toEBITDA levels are between 0.2x–2.1x for large and middle-market [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]] over time.c Within each of these debt layers there are notable sub-categories that are discussed below.
 
 ## 1. Asset-Backed Loans
 
@@ -36,17 +53,18 @@ Asset-backed loans (ABLs) and leveraged loans are the most senior claims in the 
 
 They are both senior secured debt,  the difference between these loans is the type of collateral. Assetbacked lending is focused on the liquidation value of the collateral and in that sense they are similar to a mortgage or car loan. The most frequent users of ABLs are manufacturers,  distributers,  and retailers. Firms owning unpledged real estate,  credit cards receivable,  heavy machinery or any other type of relatively liquid assets would typically get an ABL before any other form of financing.
 
-(Similarly,  an individual who wants to finance a small business might get better terms on a homeequity loan than a business loan.) Since ABLs rely on the value and quality of the underlying collateral,  ABL lenders need a dedicated infrastructure to track collateral value and its movement over time. Historically ABLs were predominantly issued by banks and financial companies. For this reason,  ABLs and leveraged loans share several characteristics such as their private nature and floating-rate pricing structure (more on this below). Because of the nature of collateral,  ABLs have simple covenant structure. ABL lenders mainly want to ensure that a safety margin remains,  so ABL covenants tend to include a fixed-charge ratio,  which measures borrower's ability to pay fixed financing expenses.
+(Similarly,  an individual who wants to finance a small business might get better terms on a homeequity loan than a business loan.) Since ABLs rely on the value and quality of the underlying collateral,  ABL lenders need a dedicated infrastructure to track collateral value and its movement over time. Historically ABLs were predominantly issued by banks and financial companies. For this reason,  ABLs and leveraged loans share several characteristics such as their private nature and floating-rate pricing structure (more on this below). Because of the nature of collateral,  ABLs have simple covenant structure. ABL lenders mainly want to ensure that a safety margin remains,  so ABL [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] tend to include a fixed-charge ratio,  which measures borrower's ability to pay fixed financing expenses.
 
-## 2. Leveraged Loans
+## 2. [[Course Notes/HBR Notes/Note on the Leveraged Loan Market|Leveraged Loans]]
 
 As an ABL,  a leveraged loan is typically senior secured debt. But contrary to an ABL,  a leveraged loan is cash-flow based,  that is,  its credit quality is primarily determined by the cash-flow generation ability of the company and not by the value of the collateral. While a lien to collateral is frequently added to leveraged loans to make them secured,  the quality and market liquidity of collateral are much harder to assess and therefore are typically less of a focus point than with ABLs.
 
 ## Senior Secured Debt
 
-In addition to being senior secured debt,  there are a few other differentiating factors that set leveraged loans apart as a separate asset class. In contrast to most forms of junior debt,  leveraged loans are private and not public debt. Companies issuing leveraged loans,  have a close relationship with at least one leading bank. Private relationships allow for the frequent exchange of confidential information.d Given limited and concentrated ownership of loans,  this information is often used to renegotiate the contract terms. Since loans can be renegotiated,  they typically have a tight covenant structure. (In absence of a renegotiation mechanism,  a tight covenant structure would lead to frequent defaults; whereas,  a breach of a covenant is just a technical default which rarely leads to an actual default.) For example,  leveraged loans often include a set of financial covenants that are required to be maintained over the life of the loan; albeit,  the strictness of the covenant structure and its enforcement tend to be significantly weaker in booming markets.
+In addition to being senior secured debt,  there are a few other differentiating factors that set leveraged loans apart as a separate asset class. In contrast to most forms of junior debt,  leveraged loans are private and not public debt. Companies issuing leveraged loans,  have a close relationship with at least one leading bank. Private relationships allow for the frequent exchange of confidential information.d Given limited and concentrated ownership of loans,  this information is often used to renegotiate the contract terms. Since loans can be renegotiated,  they typically have a tight covenant structure. (In absence of a renegotiation mechanism,  a tight covenant structure would lead to frequent defaults; whereas,  a breach of a covenant is just a technical default which rarely leads to an actual default.) For example,  leveraged loans often include a set of financial [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] that are required to be maintained over the life of the loan; albeit,  the strictness of the covenant structure and its enforcement tend to be significantly weaker in booming markets.
 
 Another differentiating characteristic of leveraged loans is its pricing. Unlike public bonds,  loans are variable-rate instruments commonly priced at a fixed spread over a floating base rate. The mostfrequently used base rate in the U.S. is the dollar-based London Interbank Offered Rate (LIBOR),
+
 while in Europe it is euro-based EURIBOR. **Exhibit** 4 shows historic values of base rates. Finally,  loans are characterized by being callable (i.e.,  they can be prepaid at any time),  typically at no prepayment penalty.
 
 A leveraged loan package can contain several facilities.e As with capital structure more broadly,  the structure of the loan package depends on the deal size and market conditions. Small and medium-sized leveraged loans,  like the ones backing middle-market transactions,  tend to be funded by one or a few banks. Loan financing backing a large LBO would typically include a revolving line,  an amortizing term loan (together these are called "pro-rata" tranche),  and term facilities syndicated to institutional investors (including collateralized loan obligations (Close),  hedge funds,  mutual funds,  and insurance companies).
@@ -82,9 +100,10 @@ High-yield bonds form a long-established asset class in the U.S.,  and are becom
 Although the scale is significantly smaller,  bond issuance in Europe was following a similar pattern reaching $95 billion and over 350 different issues in 2012.
 
 High-yield bonds—commonly called "junk bonds"—are relatively risky instruments rated as noninvestment grade. Bonds can be placed through a public or private offering. Public placements are mostly used in large buyouts because they require a minimum size to justify the fixed costs,  which in the U.S. includes registration with the Securities and Exchange Commission (SEC).k. "Notes" and
+
 "bonds" are overall very similar fixed income instruments,  but notes are registered under the SEC Rule 415 ("the shelf registration"),  which means that several notes issues can be offered over time under the same prospectus. Consequently,  individual note issues tend to be smaller than bond issues.
 
-There are several characteristics that are specific to high-yield bonds. First,  bonds historically had a much wider investor base which includes retail investors. In contrast to loans,  all bonds are subject to the Securities Act of 1933. Thus,  firms issuing bonds have to comply with the Regulation Fair Disclosure ("Reg FD"). This means that there can be no private exchange of information between the firm and the bond holders even when the placement was private. The public nature of the bonds impacts their covenant structure. In particular,  bond indentures typically only include incurrence covenants which are only tested when the issuer takes a particular action,  such as issuing new debt,  selling assets or completing a large acquisition. This is largely rooted in the fact that bonds are hard to renegotiate due to the costs of coordination among their investors and lack of additional information about the company.
+There are several characteristics that are specific to high-yield bonds. First,  bonds historically had a much wider investor base which includes retail investors. In contrast to loans,  all bonds are subject to the Securities Act of 1933. Thus,  firms issuing bonds have to comply with the Regulation Fair Disclosure ("Reg FD"). This means that there can be no private exchange of information between the firm and the bond holders even when the placement was private. The public nature of the bonds impacts their covenant structure. In particular,  bond indentures typically only include incurrence [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] which are only tested when the issuer takes a particular action,  such as issuing new debt,  selling assets or completing a large acquisition. This is largely rooted in the fact that bonds are hard to renegotiate due to the costs of coordination among their investors and lack of additional information about the company.
 
 Bonds typically have longer maturity than leveraged loans,  with the average maturity around 8-10 years (as compared to 5-6 years for leveraged loans). In contrast to leveraged loans,  bonds are usually not callable for up to half of their term. Once they become callable,  the call premiums are levied. In terms of pricing,  high-yield bonds—and especially bonds offered through a public placement—tend to be standardized with a fixed cash coupon rate and bond repayment at the end of the maturity.
 
@@ -94,7 +113,7 @@ l Depending on the market conditions,  some characteristics can change over time
 
 Mezzanine financing is a less well-defined part of the LBO capital structure,  used opportunistically as a residual part of the financing package. As the name suggests,  mezzanine is a layer of financing between senior debt and equity. Historically,  mezzanine was predominantly used in Europe as junior debt because of the less active high-yield bond market. In the U.S.,  it was used as the only available subordinated debt source in smaller transactions,  where high-yield bonds were unavailable.
 
-Typically,  mezzanine financing is privately negotiated and placed,  and as such,  tends to have custom-made terms. The private context allows for tailoring mezzanine terms to specific situations,  which is an attractive feature for private equity transactions. It is standard for mezzanine covenants to be similar to those of leveraged loans. Mezzanine typically has no-call provisions; however,  those provisions are usually less strict than they are for high-yield bonds.
+Typically,  mezzanine financing is privately negotiated and placed,  and as such,  tends to have custom-made terms. The private context allows for tailoring mezzanine terms to specific situations,  which is an attractive feature for private equity transactions. It is standard for mezzanine [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] to be similar to those of leveraged loans. Mezzanine typically has no-call provisions; however,  those provisions are usually less strict than they are for high-yield bonds.
 
 As indicated in **Exhibit 3**,  mezzanine was usually provided by one investor,  often a specialized private debt fund,  which makes mezzanine (and its variants) a non-liquid form of debt. The category of mezzanine has broadened over time as more investors were attracted to this asset class. One important type of a mezzanine financing that emerged was the "unitranche debt". Unitranche is an instrument with blended characteristics of a senior term loan and junior debt. It is meant to serve as a one-size-fits-all-investors solution,  replacing both senior debt and junior debt with one instrument.
 
@@ -102,7 +121,7 @@ As indicated in **Exhibit 3**,  mezzanine was usually provided by one investor, 
 
 As illustrated in **Exhibit 8**,  there are important differences between the U.S. and Europe in terms of LBO debt financing. U.S. LBO capital structures rely more on public markets (or quasi-public markets) as sources of capital. European structures rely more on banks for their financing needs,  which has to do with the historical development of the debt markets in each region. This explains several differences between U.S. and European capital structures,  including the higher prevalence of TLb and high-yield bonds in the U.S.,  versus a higher share of TLa,  mezzanine and other private junior debt in Europe.
 
-Reasons for different development of the debt markets in the U.S. and Europe have to do with the legal and regulatory environment and the historic importance of regional commercial banks in Europe. In particular,  the U.S. and Europe have different bankruptcy and financial regulations. For example,  Chapter 11 bankruptcy regulation in the U.S. is focused on restructuring companies through a public in-court process,  whereas most bankruptcies in Europe are still focused on either liquidation or an out-of-court private settlement. Because of these differences,  junior debtors typically have a weaker voice in European restructurings,  as restructuring deals are either worked out privately between senior lenders and the debtor or companies are liquidated according to a strict priority rule,  giving the junior public lenders limited control over the process.
+Reasons for different development of the debt markets in the U.S. and Europe have to do with the legal and regulatory environment and the historic importance of regional commercial banks in Europe. In particular,  the U.S. and Europe have different [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] and financial regulations. For example,  Chapter 11 [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] regulation in the U.S. is focused on restructuring companies through a public in-court process,  whereas most bankruptcies in Europe are still focused on either liquidation or an out-of-court private settlement. Because of these differences,  junior debtors typically have a weaker voice in European restructurings,  as restructuring deals are either worked out privately between senior lenders and the debtor or companies are liquidated according to a strict priority rule,  giving the junior public lenders limited control over the process.
 
 As to the historic importance of regional banks in Europe,  factors such as different currencies,  different languages and national regulations in Europe,  made it difficult for pan-European institutional investors to accurately assess risks and directly provide credit to companies across Europe. Instead,  this situation provided regional banks with an advantage over institutional investors,  as regional banks were focused on dealing with regional differences. While several drivers,  including the introduction of the common Euro-currency,  provided a boost to eliminating regional differences,  many remain. However,  the differences between the U.S. and Europe are not static. The convergence between the two regions is facilitated by the globalization of firms and financial sources. Large companies are increasingly able to fund themselves abroad. Also the increasing presence of global banks is a reality which drives convergence of financing markets.
 
@@ -111,7 +130,7 @@ As to the historic importance of regional banks in Europe,  factors such as diff
 - c. While no industry-wide definition exists,  small buyouts are defined in this note as having an enterprise value (EV) of USD/EUR < 25 million,  large buyouts as having an EV of USD/EUR > 500 million,  and middle-market transactions lie in between.
  - d. The use of private information and simultaneous syndication to an institutional base is a controversial topic. On the one hand,  any material renegotiation requires a unanimous vote and use of information disclosed under confidentiality agreement. On the other hand,  many of the institutional investors holding loans also trade on the public side. Ivashina,  Victoria,  and Zheng Sun,  2011,  "Institutional Stock Trading on Loan Market Information." *Journal of Financial Economics* 100 (2) provide a detailed investigation of this subject.
 - e. Loan facilities are also sometimes called "loan tranches". However,  "tranche" is a generic name and can be used in different contexts (e.g.,  "pro-rata tranche"),  whereas "facility" has a very concrete meaning. Also the word "loan" tends to be used loosely. "Term loan" actually refers to a facility within a loan package; such facility however is not an independent contract and this has several important implications for loan repayment,  renegotiation and restructuring.
-- f. RCFs are typically provided by banks because often they remain undrawn. Few investors are able to deal with the cost associated with liquidity management brought by undrawn RCFs. However,  due to the size of their loan portfolio and deposits,  banks can diversify this liquidity risk.
+- f. RCFs are typically provided by banks because often they remain undrawn. Few investors are able to deal with the cost associated with [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] brought by undrawn RCFs. However,  due to the size of their loan portfolio and deposits,  banks can diversify this liquidity risk.
 - g. In general,  any tranche with the same effective seniority would have the same spread. h Ivashina,  Victoria,  and Anna Kovner,  2011,  "The Private Equity Advantage: Leveraged Buyout Firms and Relationship Banking,  " *Review of Financial Studies* 24(7).
 - i. "Bullet" means that no repayments of the principal amount occur until maturity. Bullet loans carry higher risk than amortized loans.
 - j. Ivashina,  Victoria,  and Zheng Sun,  2011,  "Institutional Demand Pressure and the Cost of Corporate Loans,  " *Journal of Financial* Economics 99(3).
@@ -122,16 +141,21 @@ As to the historic importance of regional banks in Europe,  factors such as diff
 - m. Payment-in-kind (PIK) is the term used for interest which is not paid in cash but rolled-up into an existing debt facility.
 
 Exhibit 1
+
 ![](CleanShot%202024-09-27%20-002921@2x%20copy.png)
 
 Exhibit 2
+
 ![](CleanShot%202024-09-27%20-002922@2x.png)
 
 Exhibit 3:
+
 ![](CleanShot%202024-09-27%20-002923@2x%20copy.png)
 
 Source:
+
 Exhibit 4:
+
 ![](CleanShot%202024-09-27%20-002924@2x.png)
 
 Source:
@@ -141,27 +165,33 @@ British Bankers' Association,  European Banking Federation,  and Federal Reserve
 ![9_image_1.png](9_image_1.png)
 
 Exhibit 5 Leveraged Loan Breakdown by Facility,  1997–2012,  U.S. Market
+
 ![](CleanShot%202024-09-27%20-002925@2x.png)
 
  Source:S&P Capital IQ Leveraged Commentary & Data.
 
 Exhibit 4
-LIBOR and EURIBOR Rates,  2000–2012
 
-Average Spreads over LIBOR for First and Second Lien Tranches,  2004-2012,  U.S. Market
+[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and EURIBOR Rates,  2000–2012
+
+Average Spreads over [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for First and Second Lien Tranches,  2004-2012,  U.S. Market
 
 Exhibit 6
 
 S&P Capital IQ Leveraged Commentary & Data.
 
 Source:
-Exhibit 7 Spreads over LIBOR for Pro Rata and Institutional Tranches,  2001–2012,  U.S. Market
+
+Exhibit 7 Spreads over [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for Pro Rata and Institutional Tranches,  2001–2012,  U.S. Market
 
 Source:
+
 S&P Capital IQ Leveraged Commentary & Data.
 
 Exhibit 8 High Yield Bonds Issuance in U.S. and Europe,  2002–2012 Source:
+
 Bloomberg
+
 ![](CleanShot%202024-09-27%20-002926@2x.png)
 
 Exhibit 9 High Yield Bond Spread over Treasury,  1997–2012,  U.S. Market Bank of America Merrill Lynch and Federal Reserve Bank of St. Louis.
@@ -186,3 +216,5 @@ Source:
  *Toggle*: A toggle is a feature that comes with certain forms of debt and which allows the issuing company to switch off any cash-pay element and convert all interest payments to payment-in-kind (PIK) without consulting the lending group. The PIK interest rate is usually higher than the cash interest rate,  therefore the issuing company is incentivized to pay cash when possible. All deferred payments must be settled by the maturity date of the debt.
 
  *Yield-to-maturity (YTM)*: This is the rate of return expected on a debt instrument if it is held until maturity. The calculation of YTM takes into account the current market price of the debt instrument (which can be below,  at or above par),  par value (which will be repaid at maturity),  time to maturity and coupon interest. YTM only equals the coupon interest rate when the bond trades at par.
+
+Tags: #leveragedbuyout #debtfinancing #capitalstructure #seniorsecureddebt #juniorsecureddebt #assetsbackedloans #leveragedloans #highyieldbonds #mezzaninedebt #financialratios

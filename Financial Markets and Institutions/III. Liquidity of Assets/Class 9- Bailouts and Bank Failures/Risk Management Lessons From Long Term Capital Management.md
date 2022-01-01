@@ -1,7 +1,7 @@
 ---
-title: Risk Management Lessons From Long Term Capital Management
+title: Risk Management Lessons From [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]]
 ---
-# Risk Management Lessons From Long Term Capital Management
+# Risk Management Lessons From [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]]
 
 ![](Preview%202024-09-30%2003.59.25.png)
 

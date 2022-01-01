@@ -29,7 +29,7 @@ title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
  **[[Teaching Note 4-Multiperiod Binomial Trees]]**
  [[Teaching Note 5Black Scholes Formula]]
  [[Teaching Note 6-Implied Volatility]]
- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation]]
+ [[Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation]]
  [[Teaching Note 8 American Options]]
  [[Teaching Notes 9Corporate Securities And Credit Derivatives]]
  [[Teaching Notes 9ACredit Default Swaps]]
@@ -251,7 +251,7 @@ Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
 			 - For call options,  start from the end of the tree and move backward applying the formula.
 			 -![|500](IMG-20240913171308510.png)
 **Multi-Step Trees - Probability Distribution of$S_T$**
-  - Discussion on the probability distribution of stock price at maturity$S_T$in a multi-step tree.
+  - Discussion on the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of stock price at maturity$S_T$in a multi-step tree.
   - Illustration of how each node at maturity can be reached,  and the probability of reaching each node.
   - Probability calculation for each node$j$at maturity$T = nh$using binomial coefficients.
 **Multi-Step Trees - Probability Distribution of$S_T$**
@@ -263,7 +263,7 @@ Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
   - Comparison with the normal density,  including mean and standard deviation calculations.
 		  -![|500](IMG-20240913171315251.png)
 **Multi-Step Trees and Black-Scholes Model** [Lecture Notes 5-Black Scholes Equation](Lecture%20Notes%205-Black%20Scholes%20Equation.md)
-	  - The probability distribution of$\log(S_T)$implied by the binomial tree matches the normal distribution.
+	  - The [[Lecture 1- Probability Distributions of Returns|probability distribution]] of$\log(S_T)$implied by the binomial tree matches the normal distribution.
 	  - Formula for option price from the binomial tree.
 	  - Approximation of$S_T$as log-normally distributed leads to the Black-Scholes formula.
 	  - Discussion on the convergence of the call option price as$n$increases.

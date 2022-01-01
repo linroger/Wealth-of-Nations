@@ -1,15 +1,24 @@
 ---
 title: Problem Sets
-aliases: [Problem Sets-Advanced Financial Analysis and Valuation]
+aliases:
+  - Problem Sets-Advanced Financial Analysis and Valuation
 linter-yaml-title-alias: Problem Sets-Advanced Financial Analysis and Valuation
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#case-studies"
+  - "#financialanalysis"
+  - "#banking"
+  - "#problem-sets"
+  - "#valuation"
 ---
 
 # Problem Sets
 
 %% Begin Waypoint %%
 - **[[Problem Sets]]**
-	- [[Dollar General Case Study]]
+	- [[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS]]
+	- [[DOLLAR GENERAL CASE STUDY]]
+	- [[DOLLAR TREE CASE STUDY]]
 	- [[HBS Case- Medfield Pharmaceuticals]]
 	- [[HBS Citigroup 2007-Financial Reporting And Regulatory Capital]]
 	- [[HBS DOLLAR GENERAL GOING PRIVATE]]
@@ -17,9 +26,7 @@ tags: [Advanced-Financial-Analysis-and-Valuation]
 	- [[HBS Westlake Case]]
 	- [[HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio]]
 	- [[HKS The Banking Industry]]
-	- [[JP Morgan Deep Discount Retail Sector Report]]
 	- [[Problem Sets]]
-	- [[PSET 2- DOLLAR TREE CASE STUDY]]
 	- [[PSET 2- GROUP ASSIGNMENT]]
 	- [[PSET 3 Advanced Financial Analysis and Valuation]]
 	- [[PSET 5- Pharmaceuticals And Intangibles In Valuation]]

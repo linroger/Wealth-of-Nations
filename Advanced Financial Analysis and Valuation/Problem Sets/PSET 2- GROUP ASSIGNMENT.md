@@ -1,11 +1,17 @@
 ---
 aliases:
-- Alias_291_PSET 2- GROUP ASSIGNMENT.md
-- PSET 2GROUP ASSIGNMENT
-- Alias_294_PSET 2- GROUP ASSIGNMENT.md
+  - Alias_291_PSET 2- GROUP ASSIGNMENT.md
+  - PSET 2GROUP ASSIGNMENT
+  - Alias_294_PSET 2- GROUP ASSIGNMENT.md
 linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
 tags:
-- tag_example
+  - tag_example
+  - "#case-studies"
+  - "#financialanalysis"
+  - "#valuationanalysis"
+  - "#corporatefinance"
+  - "#retail-sector"
+  - "#performance-evaluation"
 title: PSET 2GROUP ASSIGNMENT
 ---
 
@@ -22,10 +28,10 @@ Roger Lin
 Manyu Luo
 Jingyi Xu 
 
-[PSET 2- DOLLAR TREE CASE STUDY](PSET%202-%20DOLLAR%20TREE%20CASE%20STUDY.md)
-[Dollar General Case Study](Dollar%20General%20Case%20Study.md)
+[DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
+[DOLLAR GENERAL CASE STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
-[JP Morgan Deep Discount Retail Sector Report](JP%20Morgan%20Deep%20Discount%20Retail%20Sector%20Report.md)
+[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
 
 Dollar General’s performance:
 
@@ -52,11 +58,11 @@ Management’s overhaul of the company’s strategy in 2007 has caused the compa
 
 1. **Explain the sources of Dollar General’s performance decline during the year that ended February 2, 2007.**
 
-The decline in the fiscal year ending February 2, 2007, was largely driven by a strategic decision by management to overhaul the company’s operations to better position the company in the long run. The changes implemented included ending the packaway model and sale of the excess inventory at a total markdown of$279.1 million in 2006, as compared to$106.5 the year before; and a realignment of the real estate strategy through the closure of 400 underperforming stores and remodelling or relocation of 300 existing stores. The large upfront cost of these measures explains why despite an increase in net sales from 2006 to 2007, the company’s net income fell by 60%. The company experienced a substantial increase in COGS, rising by$684.2 million, which outpaced the revenue increase of$587.6 million. This discrepancy indicates that Dollar General faced higher costs associated with the goods it sold, which could be attributed to various factors including inventory management changes, purchasing costs, and the impact of markdowns to clear excess inventory.
+The decline in the fiscal year ending February 2, 2007, was largely driven by a strategic decision by management to overhaul the company’s operations to better position the company in the long run. The changes implemented included ending the packaway model and sale of the excess inventory at a total markdown of$279.1 million in 2006, as compared to$106.5 the year before; and a realignment of the real estate strategy through the closure of 400 underperforming stores and remodelling or relocation of 300 existing stores. The large upfront cost of these measures explains why despite an increase in net sales from 2006 to 2007, the company’s [[Operating Income vs. Net Income What's the Difference|Net Income]] fell by 60%. The company experienced a substantial increase in COGS, rising by$684.2 million, which outpaced the revenue increase of$587.6 million. This discrepancy indicates that Dollar General faced higher costs associated with the goods it sold, which could be attributed to various factors including inventory management changes, purchasing costs, and the impact of markdowns to clear excess inventory.
 
 While intended to refresh inventory and improve future sales, these markdowns reduced the value of inventory sharply. directly decreased the profitability for the year. The company recorded substantial inventory impairment charges totaling$70.2 million in fiscal 2006. These charges, which reduce the book value of inventory to its market value, directly impacted the gross profit, further contributing to the overall decline in performance.
 
- Additionally, the strategic real estate adjustments, though aimed at improving store efficiency and customer experience, may have temporarily impacted sales and incurred costs related to store closures and relocations. The capital expenditure cost of installing refrigerated coolers in 3,800 existing stores likewise added to the extraordinary expense incurred by the company. While these moves were aimed at enhancing customer experience and operational efficiency, they also contributed to the financial downturn through closure-related expenses and potential disruptions in sales during the transition. Together, these factors contributed to the sharp decline in net income for the year, income from operations, EBITDA, and profit margins.
+ Additionally, the strategic real estate adjustments, though aimed at improving store efficiency and customer experience, may have temporarily impacted sales and incurred costs related to store closures and relocations. The capital expenditure cost of installing refrigerated coolers in 3,800 existing stores likewise added to the extraordinary expense incurred by the company. While these moves were aimed at enhancing customer experience and operational efficiency, they also contributed to the financial downturn through closure-related expenses and potential disruptions in sales during the transition. Together, these factors contributed to the sharp decline in [[Operating Income vs. Net Income What's the Difference|Net Income]] for the year, income from operations, EBITDA, and profit margins.
 
 The company faced increased SG&A expenses, which rose both in absolute terms and as a percentage of sales (from 22.2% in 2005 to 23.1% in 2006). This increase was due to a variety of factors, including:
 

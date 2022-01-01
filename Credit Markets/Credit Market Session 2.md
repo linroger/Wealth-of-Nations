@@ -149,7 +149,7 @@ What Is Special About Sovereigns?
 
 ### EXAMPLES
 - Floating rate High Yield senior loans (monthly coupon frequency)
-- Floating rate corporate bonds issued by banks/financials (quarterly coupon frequency)
+- Floating rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] issued by banks/financials (quarterly coupon frequency)
 
 ## REFERENCE INTEREST RATES (APRIL 8 2024)
 - Federal Funds Target Rate - Lower Bound (currently 5.25%)
@@ -159,7 +159,7 @@ What Is Special About Sovereigns?
 - 3M Term SOFR Rate (currently 5.28%)
 - 3M US Treasury Rate (currently 5.35%)
 
-### REFERENCE INTEREST RATES: FED FUNDS (E/U/L) AND SOFR
+### REFERENCE INTEREST RATES: [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] (E/U/L) AND SOFR
 
 ![](d133ba72dfaf28134855de93dfb5b1a3.png)
 

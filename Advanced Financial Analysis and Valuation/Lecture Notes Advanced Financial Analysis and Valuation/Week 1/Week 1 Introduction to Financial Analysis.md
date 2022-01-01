@@ -1,13 +1,31 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_325_Week 1 Introduction to Financial Analysis.md
-- Alias_328_Week 1 Introduction to Financial Analysis.md
+  - Alias_325_Week 1 Introduction to Financial Analysis.md
+  - Alias_328_Week 1 Introduction to Financial Analysis.md
 tags:
-- tag_example
+  - tag_example
+  - finance
+  - financial-analysis
+  - valuation
+  - business-models
+  - accounting
+  - economic-moats
+  - value-drivers
+  - dcf-model
+  - financial-markets
+  - financial-modeling
+  - corporate-finance
+  - valuation-methods
+  - business-model-analysis
+  - "#quantitative-finance"
+  - "#financial-instruments"
+  - "#economic-theory"
 title: Week 1 Introduction to Financial Analysis
 ---
 
-
+[[Week 1 Introduction to Financial Analysis|Financial Analysis]]
 
 # Week 1 Introduction to Financial Analysis
 
@@ -63,7 +81,7 @@ Accounting Analysis and Shenanigans
 ## CENTRAL ROLE OF ACCOUNTING
 
 - Allow us to understand the business model and the economics of the firm
-	- ‒ Profitability and,     in particular,     value creation
+	- ‒ Profitability and,       in particular,       value creation
 	- ‒ Connects the narrative and the numbers
 - Financial statements provide a starting point
 	- ‒ Past trends are often the basis for forecasts
@@ -80,7 +98,7 @@ Accounting Analysis and Shenanigans
 	- ‒ Asset turnover
 - Common ratio cheat sheet (on Canvas)
 - Separating operating and financing activities
-	- ‒ Excess cash (e.g.,     Apple) & interest revenue,     non‐operating assets
+	- ‒ Excess cash (e.g.,       Apple) & interest revenue,       non‐operating assets
 	- ‒ Basic idea: Understand and analyze core business
 	- ‒ We use ROIC rather than ROA
 	- ‒ Invested capital = Operating assets – operating liabilities
@@ -102,7 +120,7 @@ Accounting Analysis and Shenanigans
 
 From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013,  ExampleCo completed a review of its rental equipment amortization methodology and updated the methodology in order to add greater precision to cost amortization. The previous method recognized accelerated amortization of costs at a rate faster than the decline in the equipment value due to the recognition of charges in addition to the normal rental curve amortization to account for potential damage. The Company's most recent analysis has shown that its amortization curves can reasonably capture the effect of potential damage and therefore eliminates the need for additional charges and provides a better correlation of costs to revenue. The modified approach to amortizing the cost of the equipment is based on updated rental curves,  which incorporate damage estimates,  and provides a more systematic method for recognizing the replacement costs. The Company anticipates this new method will better align the recognition of costs with related revenue.
 
-The effect of this change resulted in a reduction of product costs,  as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013,  the change resulted in a benefit to net income of $15 million or $0.10 in basic earnings per share.
+The effect of this change resulted in a reduction of product costs,  as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013,  the change resulted in a benefit to [[Operating Income vs. Net Income What's the Difference|Net Income]] of $15 million or $0.10 in basic earnings per share.
 
 ![](9c51031c984f0f8377c4b2c4881981f5.png)
 
@@ -118,7 +136,7 @@ The effect of this change resulted in a reduction of product costs,  as reported
 
 ## BUSINESS MODELS DIFFER IN THEIR NUMBERS
 
-- Industries below differ in key ratios like their profit margin (PM),     leverage,  operating cycle or market‐to‐book ratio
+- Industries below differ in key ratios like their profit margin (PM),       leverage,  operating cycle or market‐to‐book ratio
 	- ‒ Key ratios reflect differences in the business models or industries
 RNOA = Return on Net Operating Assets ≈ ROIC
 
@@ -129,8 +147,11 @@ RNOA = Return on Net Operating Assets ≈ ROIC
 ## PROFIT MARGIN VS. ASSET TURNOVER
 
 AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
+
 ![](b09ef50a2a9345aa8bdc2a9814b48206.png)
+
 You can find this graph and the underlying industry data on Canvas (see Useful Material folder)
+
 Value Driver Model for Forecasting FCF
 
 ## VALUE DRIVERS AND KEY PERFORMANCE INDICATORS (KPIS)
@@ -169,7 +190,7 @@ Revenues Operating margin
 
 ![](ae9b588a4867fda8b108ae849841a10a.png)
 
-- Sales growth estimates (yoy): 1.2%,     2%,     2%,     2.2%
+- Sales growth estimates (yoy): 1.2%,       2%,       2%,       2.2%
 - Margin and NOA turnover: constant
 - Your turnover forecast pins down your forecasted NOA (and hence investments)
 	- ∆NOA is change in investment = required net investment
@@ -180,12 +201,12 @@ Revenues Operating margin
 	- ‒ Consider change in Net PPE
 	- ‒ The change in Net PPE is Change Gross PPE – Change Accumulated Depreciation
 	- ‒ Subtracting the change in Net PPE from NOPAT means:
-		- Subtracting the change in Gross PPE (e.g.,     new stuff bought)
-		- Adding back depreciation of the period (i.e.,     undoing non‐cash items)
+		- Subtracting the change in Gross PPE (e.g.,       new stuff bought)
+		- Adding back depreciation of the period (i.e.,       undoing non‐cash items)
 - Consider a firm with 1000 in Net PPE (Gross PPE ‐ Accumulated Depreciation)
 	- ‒ Suppose the firm has depreciation of 200 and buys new PPE for 400
 - Avenue 1: Directly adjust investment and depreciation
-- To go from NOPAT to FCF,     we want to subtract the 400 in investment and add back the 200 in depreciation
+- To go from NOPAT to FCF,       we want to subtract the 400 in investment and add back the 200 in depreciation
 	- ‒ Cash used up is 200 = 400 – 200
 - Avenue 2: Adjust the net change in PPE
 	- ‒ New Net PPE is 1200
@@ -195,15 +216,16 @@ Revenues Operating margin
 ## SUMMARY: VALUATION SEQUENCE
 
 ![](b66ed4a07d1539c3765b9d0e5739b914.png)
-Take the narrative apart and bring it into the valuation.  By the time you are done,     each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
+
+Take the narrative apart and bring it into the valuation.  By the time you are done,       each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
 
 Listen to people who know the business better than you do and use their suggestions to fine tune your narrative and perhaps even alter it.  Work out the effects on value of alternative narratives for the company.
 
 ## DETAILED FORECASTING VS. VALUE‐DRIVER APPROACH
 
 - Most common: Detailed (three‐statement) approach
-‒ Pro‐forma income statement,     balance sheet and cash flow statement
-‒ More flexibility to capture specific changes,     events,     and trends
+‒ Pro‐forma income statement,       balance sheet and cash flow statement
+‒ More flexibility to capture specific changes,       events,       and trends
 ‒ Be careful about internal consistency
 
 - Value‐driver approach
@@ -216,12 +238,15 @@ Listen to people who know the business better than you do and use t
 ## THREE‐STAGE MODEL
 
 ![](179594c17207e4de6adfebccfb4314fc.png)
+
 ROIC
+
 Time
+
 Time segment
 
 - Use varying levels of detail
-	- ‒ Forecast period 1: More detail (e.g.,     line items)
+	- ‒ Forecast period 1: More detail (e.g.,       line items)
 	- ‒ Forecast period 2: Key value drivers and fading
 	- ‒ TV period: Typically perpetuity (perhaps with growth)
 		- FCF in TV can also be determined in terms of key value drivers (Week 3)
@@ -237,12 +262,12 @@ small percentage of overall value
 - For model with short forecast horizon:
 	- ‒ The bulk of the value resides in the terminal value
 	- ‒ Valuation is very sensitive to terminal value assumptions
-		- Steady‐state FCF,     growth rate,     WACC
+		- Steady‐state FCF,       growth rate,       WACC
 - What is the purpose of the second stage?
  - NORMALIZATION
 	 - ‒ Fades the FCF to sustainable level before using TV formula
-- Almost all the action is in the long run,     not the near term
-	- ‒ This is the problem with multiples – focus on the near term (e.g.,     forward E)
+- Almost all the action is in the long run,       not the near term
+	- ‒ This is the problem with multiples – focus on the near term (e.g.,       forward E)
 	- ‒ Market excesses tend to manifest in unrealistic TV valuations 
 
 ## IMPORTANCE OF MOATS ECONOMIC MOATS
@@ -250,11 +275,11 @@ small percentage of overall value
 - How do we know a firm create value?
 - ‒ It generates a return above its cost of capital
 	- Economic profit (ROIC > WACC)
-- ‒ Ability to do so follows from its strategy and competitive position
-Competitive advantage and economic moats:
-- "The key to investing is … determining the competitive advantage of any given company and,     above all,  the durability of that advantage. The products or services that have wide,     sustainable moats around them are the ones that deliver rewards to investors."
-(Warren Buffett,     Fortune 1999)
-- Moat concept combines economic profit and competitive advantage
+- ‒ Ability to do so follows from its strategy and [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] position
+[[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] advantage and economic moats:
+- "The key to investing is … determining the [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] advantage of any given company and,       above all,  the durability of that advantage. The products or services that have wide,       sustainable moats around them are the ones that deliver rewards to investors."
+(Warren Buffett,       Fortune 1999)
+- Moat concept combines economic profit and [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] advantage
 - Why does the "durability" of the advantage matter?
 - Morningstar uses moat concept and assigns:
 	- ‒ Narrow moat: 10 years
@@ -264,16 +289,16 @@ Competitive advantage and economic moats:
 ## ECONOMIC MOATS (CONT.)
 
 - Key questions in analyzing companies
-	- ‒ What is the source of the competitive advantage?
-	- ‒ How sustainable is the competitive advantage?
-- Moat sources (i.e.,     reasons why ROIC > WACC)
-	- ‒ Intangible assets (e.g.,     brands,     patents,     government licenses)
-	- ‒ Cost advantage (e.g.,     economies of scale,     location)
-	- ‒ Switching costs (e.g.,     operating systems)
+	- ‒ What is the source of the [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] advantage?
+	- ‒ How sustainable is the [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] advantage?
+- Moat sources (i.e.,       reasons why ROIC > WACC)
+	- ‒ Intangible assets (e.g.,       brands,       patents,       government licenses)
+	- ‒ Cost advantage (e.g.,       economies of scale,       location)
+	- ‒ Switching costs (e.g.,       operating systems)
 	- ‒ Network effects (value of services increases as more people use the service)
 	- ‒ Efficient scale (limited market is already served by one or just a few companies)
 - Economic moats have a life cycle and are changing over time
-	- ‒ Competition can make moats unstable or erode them (e.g.,     P&G,     SAP)
+	- ‒ Competition can make moats unstable or erode them (e.g.,       P&G,       SAP)
 	- ‒ Are moats sustainable or narrowing? 
 
 ## COMPETITION AND RETURNS (OR ECONOMIC PROFITS)
@@ -282,7 +307,7 @@ Competitive advantage and economic moats:
 
 - High returns attract competitors
 	- ‒ Competitors settle for lower returns that are still attractive
-- Over time,     competition drives ROIC down to the cost of capital
+- Over time,       competition drives ROIC down to the cost of capital
 
 ## MOATS AND THE DECAY IN THE SPREAD
 
@@ -290,12 +315,13 @@ Competitive advantage and economic moats:
 
 - Economic profit declines on average
 	- ‒ But not necessarily for all companies (at the same rate)
-- Moats can play an important role in slowing down the decay in the spread (i.e.,     difference between ROIC and WACC)
+- Moats can play an important role in slowing down the decay in the spread (i.e.,       difference between ROIC and WACC)
 
 ## DECAY IN INDUSTRY PROFITABILITY: HIGH VS. LOW COMPETITION
 
 ![](032876422cd7496a4ab774611b89f69d.png)
-Source: Li,     Feng,     Russell Lundholm,     and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51,     no. 2 (2013): 399‐436.
+
+Source: Li,       Feng,       Russell Lundholm,       and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51,       no. 2 (2013): 399‐436.
 
 ## MEAN REVERSION IN SALES GROWTH
 
@@ -323,7 +349,7 @@ Source: Li,     Feng,     Russell Lundholm,     and Michael Minnis. "A 
  - MULTIPLES CAN BE A GOOD STARTING POINT
 	- ‒ Gauge value of current operations
 	- ‒ Easy to capitalize consensus earnings forecast
-		- If consensus is $1.50 per share and PE ratio for peer group is 20,     then share price should be around $30
+		- If consensus is $1.50 per share and PE ratio for peer group is 20,       then share price should be around $30
 	- What is key for this valuation?
 
 ## ONE ISSUE: MULTIPLES TYPICALLY FOCUS ON THE NEAR TERM

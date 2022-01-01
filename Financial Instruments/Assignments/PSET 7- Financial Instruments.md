@@ -1,17 +1,12 @@
 ---
-aliases:
-- Alias_143_PSET 7- Financial Instruments.md
-- FINANCIAL INSTRUMENTS
-- Alias_142_PSET 7- Financial Instruments.md
+aliases: [FINANCIAL INSTRUMENTS]
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS
-tags:
-- tag_example
-title: FINANCIAL INSTRUMENTS
+tags: tag_example
+title: PSET 7Financial Instruments
+cssclasses: [academia]
 ---
 
-
-
-# FINANCIAL INSTRUMENTS
+# PSET 7Financial Instruments
 
 BUS 35100 Winter 2024 John Heaton
 
@@ -65,7 +60,9 @@ Assume that the stock pays no dividends,  and the continuously compounded intere
 It is Feb 2010,  and you have been hired by the US Government to evaluate the effectiveness of the Paulson's plan to save the banks,  a plan that was announced on October 13,  2008. In particular,  you have been assigned to evaluate the impact of the Paulson's plan on Citigroup's probability of default. In this homework you must compute the (true) probability of default of Citigroup by using the KMV model. The file HW7 data.xls contains important information about Citigroup (as well as JPMorgan and Goldman Sachs,  but computing their probability of default is optional). In addition,  it contains a simple solver to compute the Implied Volatility *and* Implied Stock value to match both a call option value and its volatility (see Teaching Notes 9). As you will see,  you will need a lot of assumptions to use the KMV model,  and so make sure to write the assumptions you make in your report (see below for some tips). For instance,  how do you treat deposits and short-term debt? Please,  compute the probabilities of default at the following two dates:
 
 10/10/2008 The day before the government announcement of the bailout program.
+
 10/14/2008 The day after the announcement.
+
 Proceed as follows:
 
 |                          | Citigroup |
@@ -90,7 +87,7 @@ Proceed as follows:
 | -------- | ----------- | ---------- | ------ | ------------------ |
 | 10/14/08 | 18.35       | 100.0049   | 0.1675 | 1.894658           |
 
-| Date     | Market yield on U.S. Treasury securities at 1-year   constant maturity,   quoted on investment basis |
+| Date     | Market yield on U.S. Treasury securities at 1-year   constant maturity,    quoted on investment basis |
 | -------- | -------------------------------------------------------------------------------------------------- |
 | 10/10/08 | 0.0108                                                                                             |
 | 10/14/08 | 0.0122                                                                                             |
@@ -98,19 +95,20 @@ Proceed as follows:
 - Compute the number of shares (you will need them to compute the market capitalization in the next point.)
 
 > [!answer]
-> - On 10/14/2008,  Citi had$\frac{101,  393,  223,  246.00}{186.20}=544,  539,  330$
+> - On 10/14/2008,  Citi had$\frac{101,   393,   223,   246.00}{186.20}=544,   539,   330$
 
 - Compute the value of assets and volatility of assets to match the market cap and equity volatility at the two dates above. The assets and volatility of assets will be different across dates. Please,  note the tips at the end.
 - Corobability of default with one year to maturity. Note that KMV identifies the "Default Point" as short term debt + 1/2 long term debt.
 ![](attachment/f38b8d64617760fde019fdc8e395e583.jpeg)
 
 After you do the calculations above,  answer the following:
+
 (a) What was the effect of the bailout announcement on the probability of default? Discuss.
 
 - The ouncement slightly increased the probability of default from 9.122% on 10/10 to 10.132% on 10/14. This seems to be counterintuitive,  since we typically expect the announcement of a bailout to significantly bring down the expected probability of default.
 - ![](attachment/7fe8097bf9c95a2919f0af227b856007.png)
 (b) How does your answer to point (a) changes if you keep the volatility of assets σ constant to the value estimated on 10/10/2008 when you recompute the asset value at time 10/14/2008? (it is a simple change in the solver: only change assets but not volatility) Provide an intuition for the difference with (a).
-- Keeping volatility constant,  (ie.$\sigma_{A}=0.72614$on 10/10 and 10/14, ) the distance to default,  or$d_{2}=1.4686$and the expected frequency of default,  or$N(-d_{2})=7.097\%$. Thus,  the probability of default decreases with the announcement of the bailout. This makes more sense. One property of the Merton Model is the leverage effect,  in which volatility increases when the value of equity decreases. If we keep volatility constant at the lower 10/10 level of 0.72614 (as opposed to volatility increasing to 0.79557),  we expect the value of equity to be higher,  and therefore the value of the asset to be higher.
+- Keeping volatility constant,  (ie.$\sigma_{A}=0.72614$on 10/10 and 10/14,  ) the distance to default,  or$d_{2}=1.4686$and the expected frequency of default,  or$N(-d_{2})=7.097\%$. Thus,  the probability of default decreases with the announcement of the bailout. This makes more sense. One property of the Merton Model is the leverage effect,  in which volatility increases when the value of equity decreases. If we keep volatility constant at the lower 10/10 level of 0.72614 (as opposed to volatility increasing to 0.79557),  we expect the value of equity to be higher,  and therefore the value of the asset to be higher.
 (c) What was the credit spread before and after the announcement (choose what you think is most reasonable of your answers in (a) or (b),  if you find any difference).
 - The ad before the announcement (on 10/10) was 0.02898 and the credit spread after the announcement (on 10/14) is 0.03982
 - ![](attachment/3fdac17bd64dfe392b2f8595a83ade7f.png)

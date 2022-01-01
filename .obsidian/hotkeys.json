@@ -28,7 +28,7 @@
   "auto-classifier:classify-tag-content": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "T"
     }
@@ -90,5 +90,13 @@
       "key": "S"
     }
   ],
-  "obsidian-completr:completr-open-suggestion-popup": []
+  "obsidian-completr:completr-open-suggestion-popup": [],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ]
 }

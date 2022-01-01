@@ -1,25 +1,41 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_33_Moody's Bank Loan Ratings- Pricing Implications and Approach.md
-- Example_Alias_Moody's Bank Loan Ratings- Pricing Implications and Approach
-- Moody's Bank Loan RatingsPricing Implications and Approach
+  - Alias_33_Moody's Bank Loan Ratings- Pricing Implications and Approach.md
+  - Example_Alias_Moody's Bank Loan Ratings- Pricing Implications and Approach
+  - Moody's Bank Loan RatingsPricing Implications and Approach
 linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
 tags:
-- tag_example
-- example_tag
+  - tag_example
+  - example_tag
+  - CreditRatings
+  - BankLoans
+  - RiskAnalysis
+  - FinancialMarkets
+  - CreditRisk
+  - InvestmentAnalysis
+  - DebtMarkets
+  - RecoveryRates
+  - LoanStructure
+  - CorporateFinance
+  - "#finance"
+  - "#financial-markets"
+  - "#credit-cycles"
+  - "#risk-management"
+  - "#syndicated-loans"
+  - "#loan-pricing"
+  - "#credit-ratings"
 title: Moody's Bank Loan RatingsPricing Implications and Approach
 ---
 
-
-
-
-# Moody's Bank Loan Ratings- Pricing Implications and Approach
+# Moody's Bank Loan RatingsPricing Implications and Approach
 
 The following Special Comment is based upon remarks made by Michael Dommermuth before the membership of the Kinsai Institute for Financial Affairs in New York on March 5,  1996
 
 ## Introduction
 
-The banks represented by this audience play a pivotal role in the pricing of syndicated loans. Syndicated loans often price at the margin--the incremental pricing needed to secure the next bank as a member of the syndicate group. Often times,  that next bank is a Japanese bank operating in the U.S. commercial loan market. It is no coincidence then that a significant theme of today's discussion is risk-adjusted pricing on bank loans.
+The banks represented by this audience play a pivotal role in the pricing of [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]. [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]] often price at the margin--the incremental pricing needed to secure the next bank as a member of the syndicate group. Often times,  that next bank is a Japanese bank operating in the U.S. commercial loan market. It is no coincidence then that a significant theme of today's discussion is risk-adjusted pricing on bank loans.
 
 There are three topics today. First,  I will discuss the convergence of the commercial bank loan and bond markets. Convergence will most likely help banks to manage risk and it will better enable them to seek out economic rewards that are more clearly in line with the risks they assume.
 
@@ -29,7 +45,7 @@ Second,  I will talk about how we see the role of ratings and how we intend to s
 
 According to many market participants,  we are on the cusp of permanent change in the U.S syndicated loan market. The bank loan market is becoming more complex. With the pas sage of time,  it is becoming increasingly difficult to distinguish between the securities and loan markets notwithstanding the artificial distinctions created by differences in regulatory treatment (see Chart 1). A growing number of institutional,  fixed-income investors no longer feel limited to the securities market. In fact,  they are prepared to buy whatever debt obligation provides the bestreturn on a risk adjusted basis
 
-This change has also brought about new classes of investors. First,  there are the prime fundsclosed-end mutual funds whose major asset consists of syndicated loans and who provide a variable rate of return to their largely retail clientele. There are also the Close,  or collateralized loan obligation funds,  who use the proceeds from highly-rated bond issues to acquire portfolios of syndicated loans. Close attempt to arbitrage pricing differences between the loan and securities markets (see Appendix A for a listing of Close currently rated byMoody's)
+This change has also brought about new classes of investors. First,  there are the prime fundsclosed-end mutual funds whose major asset consists of [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]] and who provide a variable rate of return to their largely retail clientele. There are also the Close,  or collateralized loan obligation funds,  who use the proceeds from highly-rated bond issues to acquire portfolios of [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]. Close attempt to arbitrage pricing differences between the loan and securities markets (see Appendix A for a listing of Close currently rated byMoody's)
 
 Likewise,  a growing number of commercial banks are recasting themselves as loan portfolio managers who are prepared to buy and sell loans,  depending on their particular needs to manage return and risk. Several banks,  for example,  have established specialized loan funds that are mar keted to institutional investors.
 
@@ -61,9 +77,9 @@ I would like to talk about each of these three contributions in greater detail, 
 
 Moody's approach to the rating of the bank loan market was based upon a few beliefs. First,  we believe that the securities market prices forrisk more efficiently than the loan market. We believe that is so because active secondary market trading captures material new information and its associated impact on price somewhat better than loan pricing grids. It is also a more efficient market because there are fewer regulatory-related pricing distortions. For example,  mutual funds do not have to set aside capital against their holdings. It is also a more transactional environment where relationship issues count less heavily in establishing price.
 
-Second,  we believe conventions used in the loan market result in mispricing of some bank loans. One such convention is the so-called “notching” convention. Syndicated loans are often priced as if they were rated one-refined rating notch above the same company’s senior unsecured bonds or two refined rating notches above its subordinated bonds. We believe that this convention does not adequately capture the real differences in risk that can exist at different points in a company's capital structure.
+Second,  we believe conventions used in the loan market result in mispricing of some bank loans. One such convention is the so-called “notching” convention. [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]] are often priced as if they were rated one-refined rating notch above the same company’s senior unsecured bonds or two refined rating notches above its subordinated bonds. We believe that this convention does not adequately capture the real differences in risk that can exist at different points in a company's capital structure.
 
-Third,  Moody’s would tend to agree with regulators that a truer balance between risk and reward is probably beneficial to the banking community. If banks price a “good”' credit too richly,  they will provide motivation for that borrower to turn to the securities market,  leaving the banks with the loans of less-creditworthy borrowers whose loans are priced too cheaply. Ultimately,  such an imbalance will erode the capital position of the commercial banks as default rates reach cyclical highs.
+Third,  Moody’s would tend to agree with regulators that a truer balance between risk and reward is probably beneficial to the banking community. If banks price a “good”' credit too richly,  they will provide motivation for that borrower to turn to the securities market,  leaving the banks with the loans of less-creditworthy borrowers whose loans are priced too cheaply. Ultimately,  such an imbalance will erode the capital position of the commercial banks as default rates reach [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] highs.
 
 Because market participants are looking for greater transparency in the bank loan market--an abili ty to make risk-return comparisons with other securities markets,  Moody's decided to use its traditional rating scale in rating bank loans. These ratings facilitate a framework for the marketplace that enables price transferal from the securities market to the loan market. Using traditional ratings,  participants in loan syndications can,  for example,  compare the pricing of a Ba 2-rated bank loan to that of a large diversified portfolio of Ba 2 bonds having similar duration. Moody's also chose to use its tra ditional rating scale because it had already become part and parcel of the language and culture of the bank loan market. Pricing grids,  for example,  often are based upon a company's bond ratings
 
@@ -95,9 +111,9 @@ Second,  the high degree of variability about average recovery experience sugges
 
 The highly variable recovery experience equally suggests that rigid application of notching conven tions does not adequately reflect reality for bank loans either. This is an important consideration Participants in the syndicated loan market inform us that bank loans often price as if they were one refined rating notch higher than the same company's senior unsecured bonds or two refined rating notches above its senior subordinated bonds. Clearly,  the high degree of variability in recovery experi ence suggests that such notching conventions may often result in the mispricing of bank loans.
 
-As Graph 3 shows,  the ratings Moody’s has assigned to bank loans have a much greater range than market notching conventions would suggest. Moody's bank loan ratings are one to four refined rating notches higher than the same company's senior subordinated bond ratings Moody's compares bank loan ratings to senior subordinated bond ratings for the reason that the majority of all non-investment grade companies have no senior unsecured bonds outstanding). In fact,  the ratings that Moody’s has assigned to bank loans suggest that the market's notching convention would result in inaccurate pric ing on $40\%$ of all syndicated loans.
+As Graph 3 shows,  the ratings Moody’s has assigned to bank loans have a much greater range than market notching conventions would suggest. Moody's bank loan ratings are one to four refined rating notches higher than the same company's senior subordinated bond ratings Moody's compares bank loan ratings to senior subordinated bond ratings for the reason that the majority of all non-investment grade companies have no senior unsecured bonds outstanding). In fact,  the ratings that Moody’s has assigned to bank loans suggest that the market's notching convention would result in inaccurate pric ing on $40\%$ of all [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]].
 
-If it is true that the market's convention for pricing loans results in mispricing; it is also true that indices of pricing are inaccurate. One practice used by market commentators is to quote drawn LIBOR spreads grouped by companies' bond ratings. For example,  one common approach to quote pricing is to select loan facilities of companies who have Ba 2 ratings assigned to their bond issues. An average of drawn LIBOR spreads are then calculated and quoted. This practice is misleading,  howev er,  due in large part to the sometimes large differences that can arise between a company's bank loan ratings and that same company's senior unsecured bond rating. A basket of facilities of companies whose bonds are ratedBa 2 may include loans that are ratedBa 2 toBaa 3
+If it is true that the market's convention for pricing loans results in mispricing; it is also true that indices of pricing are inaccurate. One practice used by market commentators is to quote drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads grouped by companies' bond ratings. For example,  one common approach to quote pricing is to select loan facilities of companies who have Ba 2 ratings assigned to their bond issues. An average of drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads are then calculated and quoted. This practice is misleading,  howev er,  due in large part to the sometimes large differences that can arise between a company's bank loan ratings and that same company's senior unsecured bond rating. A basket of facilities of companies whose bonds are ratedBa 2 may include loans that are ratedBa 2 toBaa 3
 
 Graph 3: Bank Loan vs. Subordinated Bond Ratings of the Same Company
 
@@ -105,11 +121,11 @@ Graph 3: Bank Loan vs. Subordinated Bond Ratings of the Same Company
 
 A more accurate means of pricing is on a same rating (same risk) basis. Instead of grouping all companies whose bonds are rated Ba 2,  for example,  it is more accurate to quote pricing based upon all facilities that are rated Ba 2
 
-Using this new approach to loan pricing,  Graph 4 shows drawn LIBOR spreads for facilities Moody's has rated compared to historical expected loss experience over an 18 month duration. As the
+Using this new approach to loan pricing,  Graph 4 shows drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads for facilities Moody's has rated compared to historical expected loss experience over an 18 month duration. As the
 
-Graphs show,  drawn LIBOR spreads exceed expected loss experience for facilities rated Baa 3 to Ba 3 It is not clear why expected losses exceed drawn LIBOR spreads for lower-rated facilities,  although there are at least two possible explanations. First,  it is possible that the results are a statistical aberra tion due to small sample size. There are only about 20 facilities that Moody’s rates B 2,  for example Some market participants,  however,  suggest that there is an implicit glass ceiling to LIBOR spreads above which bankers are reluctant to go. If this hypothesis is in fact correct,  it would suggest that par ticipants in B 1 and B 2 rated bank loans are being inadequately compensated for risk
+Graphs show,  drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads exceed expected loss experience for facilities rated Baa 3 to Ba 3 It is not clear why expected losses exceed drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads for lower-rated facilities,  although there are at least two possible explanations. First,  it is possible that the results are a statistical aberra tion due to small sample size. There are only about 20 facilities that Moody’s rates B 2,  for example Some market participants,  however,  suggest that there is an implicit glass ceiling to [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads above which bankers are reluctant to go. If this hypothesis is in fact correct,  it would suggest that par ticipants in B 1 and B 2 rated bank loans are being inadequately compensated for risk
 
-Of course,  this comparison of LIBOR spreads and expected loss assumes that loans have,  on average,  an 18 month duration. Cumulative expected losses are higher for longer durations. What is more,  this comparison assumes that all loans have an equal propensity to prepay. This is,  of course,  not the case. It is more accurate to say that loans of more creditworthy borrowers are more likely to be prepaid than is true of less creditworthy borrowers or the loans that are more likely to experience default. This logic suggests that longer durations should be used in comparing drawn LIBOR spreads to expected loss.
+Of course,  this comparison of [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads and expected loss assumes that loans have,  on average,  an 18 month duration. Cumulative expected losses are higher for longer durations. What is more,  this comparison assumes that all loans have an equal propensity to prepay. This is,  of course,  not the case. It is more accurate to say that loans of more creditworthy borrowers are more likely to be prepaid than is true of less creditworthy borrowers or the loans that are more likely to experience default. This logic suggests that longer durations should be used in comparing drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads to expected loss.
 
 ![](https://storage.simpletex.cn/view/fRGEbCxohHIWaPwgKB3hoMpGOggQIGiEu)
 
@@ -121,9 +137,10 @@ More meaningful and revealing comparisons can be made using the same data on a r
 
 # Ratings Coverage
 
-Moody's will ultimately provide the market the rating coverage it wants in facilitating efficiencies Since Moody’s announced its intention to rate bank loans in April,  1995,  it has rated over 415 facili ties of 210 companies amounting to over $\$96$ billion (see Graph 6 for Moody's cumulative ratings coverage as well as Appendix B for a listing of facilities currently rated by Moody's). Coverage for coverage's sake is not an objective of Moody's.Rather,  we would like to provide ratings coverage only in circumstances where we believe it brings clear value to the marketplace. Moody’s has three tests for value. First,  the loan is likely to be drawn. This first test usually precludes the rating of CP backstop facilities,  for example. Second,  the loan must be capable of being traded either through assignment or participating interests. Third,  Moody's must believe that there is enough information available to express an accurate opinion of risk.
+Moody's will ultimately provide the market the rating coverage it wants in facilitating efficiencies Since Moody’s announced its intention to rate bank loans in April,  1995,  it has rated over 415 facili ties of 210 companies amounting to over $\$96$ billion (see Graph 6 for Moody's cumulative ratings coverage as well as Appendix B for a listing of facilities currently rated by Moody's). Coverage for coverage's sake is not an objective of Moody's.Rather,  we would like to provide ratings coverage only in circumstances where we believe it brings clear value to the marketplace. Moody’s has three tests for value. First,  the loan is likely to be drawn. This first test usually precludes the rating of [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] backstop facilities,  for example. Second,  the loan must be capable of being traded either through assignment or participating interests. Third,  Moody's must believe that there is enough information available to express an accurate opinion of risk.
 
 Graph 5: A New Framework for Risk-Adjusted Pricing
+
 ![](https://storage.simpletex.cn/view/ffszwfQG1yMliHLYakhW8Gl2HCc8uQ11f)
 
 With regard to this last test of value,  we should note that only 13 companies do not already carry bond ratings from Moody's of the 210 companies whose bank loans have now been rated. Of the 13 unrated companies,  virtually all were subsidiaries of companies who did carry bond ratings from Moody's at the time the bank loans were rated. In addition,  Moody's has always believed that an understanding of a company's loan facilities plays a critical role in developing an understanding of the risks inherent in that company's bond obligations. Loan covenants,  loan structure,  and structural subordination issues are all critical credit considerations that must be reflected in the rating of the bonds (see Moodys Investors Service: Global Credit Analysis,  " published by IFR Books,  1991). Therefore Moody's has always sought information on a rated company's facilities even well before our announcement that we would be rating bank loans.
@@ -144,7 +161,7 @@ However,  it should be noted that facility agreements may change prior to loan c
 
 # Moody's Approach to Rating Bank Loans
 
-Moody's uses the same approach to rating loans as we would to any other type of debt obligation (see “Moody's Investors Service: Global Credit Analysis,  published by IFR Books,  1991). The same analyst who is responsible for rating and monitoring the ratings assigned to a company's senior unsecured bonds,  subordinated bonds,  preferred stock and commercial paper is likewise responsible for assessing and monitoring that company's bank loans. The rating committee process is also the same. However additional analysts may be brought into the committee process because of the incremental analytic issues brought to bear in the rating of loans.
+Moody's uses the same approach to rating loans as we would to any other type of debt obligation (see “Moody's Investors Service: Global Credit Analysis,  published by IFR Books,  1991). The same analyst who is responsible for rating and monitoring the ratings assigned to a company's senior unsecured bonds,  subordinated bonds,  preferred stock and [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] is likewise responsible for assessing and monitoring that company's bank loans. The rating committee process is also the same. However additional analysts may be brought into the committee process because of the incremental analytic issues brought to bear in the rating of loans.
 
 Loans are not bonds,  and it is certainly true that most loans require additional analysis. The incremental considerations involved in bank loan analysis can be categorized along six broad headings: (1) loan structure; (2) capital structure; (3) collateral security; (4) bankruptcy-related legal issues; and (5) covenants.
 
@@ -164,7 +181,7 @@ Than its other facilities (Ba 1). In this case,  mandatory prepayments were firs
 
 Another variation on this theme is a cash flow sweep. This provides for some or all of a company's free cash flow to be applied toward loan repayment. These “sweeps” continue until either (a) certain financial hurdles are met (implying improved financial conditions); or (b) the loan is repaid in its entirety.
 
-Springing Liens. Springing liens usually refer to circumstances in which the lenders may take security over a company's assets. From a credit perspective they are usually less effective as a risk mitigant than a perfected first security interest in tangible assets. Numerous circumstances can be envisioned where lenders would have difficulty establishing a perfected lien on a company's assets at the time when the lien is most advantageous--when the borrower is experiencing financial distress (see Moody’s Special Comment,  Trigger Happy,  published December 1995). However,  some springing liens are better structured than others. Those that are structured such that the borrower would not be able to impede the ability of the lenders to perfect their security interest and those that are structured such that the provisions of the bankruptcy code are less likely to imperil the lenders’ lien on assets are generally viewed more favorably than others.
+Springing Liens. Springing liens usually refer to circumstances in which the lenders may take security over a company's assets. From a credit perspective they are usually less effective as a risk mitigant than a perfected first security interest in tangible assets. Numerous circumstances can be envisioned where lenders would have difficulty establishing a perfected lien on a company's assets at the time when the lien is most advantageous--when the borrower is experiencing financial distress (see Moody’s Special Comment,  Trigger Happy,  published December 1995). However,  some springing liens are better structured than others. Those that are structured such that the borrower would not be able to impede the ability of the lenders to perfect their security interest and those that are structured such that the provisions of the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code are less likely to imperil the lenders’ lien on assets are generally viewed more favorably than others.
 
 Springing liens can sometimes also refer to circumstances where the lenders must release their collateral security (referred to as “reverse springing” liens). The circumstances in which security may be released usually refer to the improving credit quality of the borrower. Federated’s bank facilities per mit the lien over its assets to be released,  for example,  upon becoming an investment grade credit. In that particular case,  Moody's assigned the same rating to Federated’s secured bank facilities as it did to its senior unsecured bonds (Bal). In considering reverse springing liens,  Moody's focuses on the likelihood that the lien on a borrower's assets will be released
 
@@ -176,7 +193,7 @@ Escrow Accounts. Lenders will sometimes establish an escrow account in which the
 
 In rating any of a company's debt obligations,  an assessment of its capital structure is critical. Such an examination reveals the extent to which debt ranked lower in the capital structure will provide a cush ion or buffer of protection against the risk of loss on obligations ranked more highly. Moody's believes that there is no single correct approach to assessing capital structure,  but three approaches tend to dominate our analysis: (a) the distressed asset value approach; (b) the sustainable debt approach; and (c) the enterprise value approach. Regardless of the approach taken,  the prospective nature of Moody's ratings suggest that it is important not only to consider a company's existing capi tal structure,  but also possible changes in capital structure during the term of the facility
 
-The Distressed Asset Value Approach. Using this approach to capital structure analysis,  the analyst assesses the amount of cushion against the risk of loss by comparing a company's secured debt to the value of the pledged assets under distressed circumstances (see Chart 5). This approach to assessing capital structure is most relevant in circumstances where (a) the lenders have a lien on some or all of a company's assets and (b) the company may well enter bankruptcy as a liquidating concern rather than a going concern. Even if a company is likely to remain a going concern should default occur,  dis tressed asset values are a reasonablyreliable proxy forthe amount ofnegotiating strength the secured lenders willhave relative to other creditors during bankruptcy proceedings. As such,  it is predictive of the risk of loss for many types of companies.
+The Distressed Asset Value Approach. Using this approach to capital structure analysis,  the analyst assesses the amount of cushion against the risk of loss by comparing a company's secured debt to the value of the pledged assets under distressed circumstances (see Chart 5). This approach to assessing capital structure is most relevant in circumstances where (a) the lenders have a lien on some or all of a company's assets and (b) the company may well enter [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] as a liquidating concern rather than a going concern. Even if a company is likely to remain a going concern should default occur,  dis tressed asset values are a reasonablyreliable proxy forthe amount ofnegotiating strength the secured lenders willhave relative to other creditors during [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] proceedings. As such,  it is predictive of the risk of loss for many types of companies.
 
 Chart 5: Capital Structure--The Distressed Asset Value Approach
 
@@ -188,7 +205,7 @@ In determining the value of assets in distressed circumstances it is tempting to
 
 (ii) Inventory--state of inventory (e.g.,  finished goods,  work-in-progress,  raw materials); type of inventory (e.g.,  perishable or non-perishable); risk of obsolescence; fashion risk; location of inventories (e.g.,  inventories at supplier locations are sometimes more difficult to seize); inventory turnover; accounts payable and the extent to which suppliers may claw back inventories
 
-(iii) Property,  Plant & Equipment--(i) possible presence of environmental hazards; (ii) depth of prospective acquirers; (i) cost of constructing new PP&E versus buying existing PP&E; (iv) relative efficiency of PP&E versus state-of-the-art; (v) cyclicality of borrower’s industry and linkage to the value of PP&E in point of bankruptcy: (vi) recent appraisals; and (vii) separability of PP&E for liquidation purposes
+(iii) Property,  Plant & Equipment--(i) possible presence of environmental hazards; (ii) depth of prospective acquirers; (i) cost of constructing new PP&E versus buying existing PP&E; (iv) relative efficiency of PP&E versus state-of-the-art; (v) [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]] of borrower’s industry and linkage to the value of PP&E in point of bankruptcy: (vi) recent appraisals; and (vii) separability of PP&E for liquidation purposes
 
 (iv) Pledge of Subsidiary Stock--(i) correlation between the financial health of the borrowing entity and that of the subsidiary or affiliate; and (ii) the secondary liquidity of the pledged stock under distressed circumstances.
 
@@ -206,7 +223,7 @@ Moody's derives sustainable debt by first assessing a company's core EBITDA. In 
 
 The third way to assess a company's capital structure is to compare it to the value of the enterprise under distressed circumstances. Like the sustainable debt analysis,  this approach treats the company as a going concern. It is an approach that is particularly useful in circumstances where the book assets of a company do not adequately reflect their real economic worth.
 
-The determination of enterprise value is,  at best,  a matter of judgment in large part reflecting the prospective nature of the analysis. Merger and acquisition activity relating to other,  comparable com panies,  or indeed the borrower itself,  reveals the range of multiples that these companies currently trade at. However,  they may well not be indicative of the multiples that the borrower may trade at in distressed circumstances. Rather,  the analyst must make two determinations. First,  what are the key drivers of current multiples and how could these drivers change over time (e.g.,  are current multiples artificially high due to cyclical trends in the industry rather than secular ones)？Second,  what is the company's core level of cash flow expected to be in distressed circumstances?
+The determination of enterprise value is,  at best,  a matter of judgment in large part reflecting the prospective nature of the analysis. Merger and acquisition activity relating to other,  comparable com panies,  or indeed the borrower itself,  reveals the range of multiples that these companies currently trade at. However,  they may well not be indicative of the multiples that the borrower may trade at in distressed circumstances. Rather,  the analyst must make two determinations. First,  what are the key drivers of current multiples and how could these drivers change over time (e.g.,  are current multiples artificially high due to [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] trends in the industry rather than secular ones)？Second,  what is the company's core level of cash flow expected to be in distressed circumstances?
 
 # Term Tranches: Differential Risk?
 
@@ -220,21 +237,21 @@ There are,  however,  instances in which Moody's could rate each of the term tra
 
 # Legal Considerations
 
-A variety of legal issues,  mostly relating to the bankruptcy code,  are featured in Moody's overall risk assessment. Some of the more important considerations are as follows:
+A variety of legal issues,  mostly relating to the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code,  are featured in Moody's overall risk assessment. Some of the more important considerations are as follows:
 
 Perfected security interest. Do the lenders have a first,  perfected security interest in the collateral？Also of importance,  will the administrative agent oversee the security interest in such a way that it is highly unlikely other creditors will secure a more senior ranking claim to the assets (e.g.,  the adminis trative agent fails to record changes in the location of the assets or the name of the borrower)？
 
-Prior ranking claims. Pursuant to section 507 of the bankruptcy code,  a variety of creditors may rank senior to the claims of even the senior secured lenders,  including: (a) administrative expenses; (b) unpaid wages,  salaries,  or commissions; (c) unpaid taxes; and (d) contributions to employee benefit plans. Moody's therefore examines the extent to which such senior ranking claims may reduce recov eries available to the lenders
+Prior ranking claims. Pursuant to section 507 of the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code,  a variety of creditors may rank senior to the claims of even the senior secured lenders,  including: (a) administrative expenses; (b) unpaid wages,  salaries,  or commissions; (c) unpaid taxes; and (d) contributions to employee benefit plans. Moody's therefore examines the extent to which such senior ranking claims may reduce recov eries available to the lenders
 
-Preferential transfers. Pursuant to section 547 of the bankruptcy code,  certain transfers made to creditors,  as well as certain liens,  may be voided by the bankruptcy trustee. The preference period extends from 90 days to 1 year depending upon whether the beneficiary of the transfer or lien was considered an “insider.' The risks associated with preferential transfers are accentuated for the most risky borrowers who are in imminent risk of being considered insolvent for purposes of the bankruptcy code priming liens. Section 364 of the bankruptcy code governs the hierarchy of available means by which a debtor in obtain additional financing,  including the potential for alender of new money to obtain a security interest on assets assigned to a pre-petition secured lender. In most cases,  it may be argued that collateral at 1.5 times coverage plus a substantial equity cushion,  for example,  is not excessive in providing adequate protection to the amount of the pre-petition,  secured lender's claim. Importantly,  this lender's rights extend not only to the principal amount of the loan,  but also to any accrued interest and costs during the bankruptcy period. However,  should a court determine that a new money,  secured loan would enhance the value of the pre-petition claim such that the prepetition lender would be considered adequately protected,  then some portion of the pre-petition claim on assets might be released in favor of a new money lender. An overabundance of asset protection is difficult to prove and a reassignment of collateral rights rarely transpires without the pre-petition lender receiving a replacement lien.
+Preferential transfers. Pursuant to section 547 of the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code,  certain transfers made to creditors,  as well as certain liens,  may be voided by the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] trustee. The preference period extends from 90 days to 1 year depending upon whether the beneficiary of the transfer or lien was considered an “insider.' The risks associated with preferential transfers are accentuated for the most risky borrowers who are in imminent risk of being considered insolvent for purposes of the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code priming liens. Section 364 of the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] code governs the hierarchy of available means by which a debtor in obtain additional financing,  including the potential for alender of new money to obtain a security interest on assets assigned to a pre-petition secured lender. In most cases,  it may be argued that collateral at 1.5 times coverage plus a substantial equity cushion,  for example,  is not excessive in providing adequate protection to the amount of the pre-petition,  secured lender's claim. Importantly,  this lender's rights extend not only to the principal amount of the loan,  but also to any accrued interest and costs during the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] period. However,  should a court determine that a new money,  secured loan would enhance the value of the pre-petition claim such that the prepetition lender would be considered adequately protected,  then some portion of the pre-petition claim on assets might be released in favor of a new money lender. An overabundance of asset protection is difficult to prove and a reassignment of collateral rights rarely transpires without the pre-petition lender receiving a replacement lien.
 
 Legal,  valid,  binding,  and enforceable obligations. Moody's will form a judgment as to whether it is reasonable to assume that the obligors under the loan agreements will be legally required to perform their obligations in accordance with the terms of the contracts.
 
 ### Covenants
 
-Covenants indirectly help creditors to the extent that they limit the financial actions of management Covenants also act as early warning indicators of trouble,  allowing the lenders to either extract concessions from management or to accelerate debt when an event of default has occurred
+Covenants indirectly help creditors to the extent that they limit the financial actions of management [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] also act as early warning indicators of trouble,  allowing the lenders to either extract concessions from management or to accelerate debt when an event of default has occurred
 
-More generally,  however,  loan structure,  collateral,  and capital structure are more predictive of the ratings Moody's has assigned to bank loans than is covenant structure. The voting rights contained in many facility agreements provide for frequent changes to the affirmative and negative covenants,  more often than not,  resulting in a weakening of the covenants. In this regard,  the covenants contained in bank facilities sharply contrast with the protections commonly available within security indentures For companies that must file their facility agreements with the SEC,  it is not uncommon to also find at least one and possibly many more amendments to the original agreement. As such,  Moody’s considers many affirmative and negative covenants of a highly dilutive nature,  which undermines their value as a predictive tool of risk.
+More generally,  however,  loan structure,  collateral,  and capital structure are more predictive of the ratings Moody's has assigned to bank loans than is covenant structure. The voting rights contained in many facility agreements provide for frequent changes to the affirmative and negative covenants,  more often than not,  resulting in a weakening of the covenants. In this regard,  the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] contained in bank facilities sharply contrast with the protections commonly available within security indentures For companies that must file their facility agreements with the SEC,  it is not uncommon to also find at least one and possibly many more amendments to the original agreement. As such,  Moody’s considers many affirmative and negative [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] of a highly dilutive nature,  which undermines their value as a predictive tool of risk.
 
 ## Monitoring
 
@@ -243,7 +260,9 @@ Moody's actively monitors the ratings it has assigned to bank facilities in the 
 Since Moody's began rating bank loans in April 1995,  the facilities of 10 companies have been either upgraded or downgraded. Though this represents a lower degree of ratings volatility relative to changes in bond ratings,  Moody's fully expects that bank loan rating volatility will converge with the degree of volatility seen in its bond ratings as we expand our loan ratings coverage
 
 Appendix A: CLO's Rated by Moody's
+
 ![](Preview%202024-09-29%2003.35.00.tiff)
+
 ![](Preview%202024-09-29%2003.35.02.png)
 
 ![](Preview%202024-09-29%2003.35.18.png)
@@ -261,6 +280,7 @@ Appendix A: CLO's Rated by Moody's
 ![](Preview%202024-09-29%2003.36.09.png)
 
 ![](Preview%202024-09-29%2003.36.24.png)
+
 ![](Preview%202024-09-29%2003.36.34.png)
 
 ![](Preview%202024-09-29%2003.36.44.png)
@@ -268,3 +288,5 @@ Appendix A: CLO's Rated by Moody's
 ![](Preview%202024-09-29%2003.36.51.png)
 
 ![](Preview%202024-09-29%2003.36.57.png)
+
+Tags: #CreditRatings #BankLoans #RiskAnalysis #FinancialMarkets #CreditRisk #InvestmentAnalysis #DebtMarkets #RecoveryRates #LoanStructure #CorporateFinance

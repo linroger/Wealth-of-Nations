@@ -1,9 +1,15 @@
 ---
 aliases:
-- Alias_293_HBS Kohler A.md
-- Alias_290_HBS Kohler A.md
+  - Alias_293_HBS Kohler A.md
+  - Alias_290_HBS Kohler A.md
 tags:
-- tag_example
+  - tag_example
+  - "#case-studies"
+  - "#corporaterestructuring"
+  - "#debt-management"
+  - "#private-company-valuation"
+  - "#shareholder-dispute"
+  - "#family-business"
 ---
 
 ## KOHLER CO. (A)
@@ -80,7 +86,7 @@ Herbert Kohler, his sister Ruth, and their cousin, John Michael Kohler, IV backe
 
 As stated in the proxy materials, Herbert Kohler and his sister Ruth had established in April 1998 
 
-the Kohler Stewardship Trust, a perpetuity trust, and they had committed to transfer partnership interests in the Kohler Family Limited Partnership, which owned Kohler Co. Series B nonvoting common stock, to the Stewardship Trust. The Trust Agreement contained stringent restrictions against any sale or other disposition of Kohler Co. stock. It was contemplated that the Kohler Family Partnership would offer to exchange the series B common for Kohler Co. voting common stock held by The Kohler Foundation, the other charitable organizations, certain family trusts and the Frederic Kohler estate and others. If these exchange offers were accepted by these holders of common stock, the Stewardship Trust would acquire control of a majority of the outstanding Kohler Co. voting common stock, thereby ensuring that Kohler Co. would remain an independent, privately held company. 
+the Kohler Stewardship Trust, a perpetuity trust, and they had committed to transfer partnership interests in the Kohler Family Limited Partnership, which owned Kohler Co. Series B nonvoting common stock, to the Stewardship Trust. The Trust Agreement contained stringent restrictions against any sale or other disposition of Kohler Co. stock. It was contemplated that the Kohler Family Partnership would offer to exchange the series B common for Kohler Co. voting common stock held by The Kohler Foundation, the other charitable organizations, certain family trusts and the Frederic Kohler estate and others. If these [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] were accepted by these holders of common stock, the Stewardship Trust would acquire control of a majority of the outstanding Kohler Co. voting common stock, thereby ensuring that Kohler Co. would remain an independent, privately held company. 
 
 ## KOHLER CO. SHARE PRICE
 

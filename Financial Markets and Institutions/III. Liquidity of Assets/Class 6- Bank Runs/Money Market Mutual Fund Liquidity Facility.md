@@ -37,7 +37,7 @@ title: Money Market Mutual Fund Liquidity Facility
    - Collateral that is eligible for pledge under the Facility must be one of the following types:
 	  1. U.S. Treasuries & Fully Guaranteed Agencies;
 	  1. Securities issued by U.S. Government Sponsored Entities;
-	  1. Asset-backed commercial paper,  unsecured commercial paper,  or a negotiable certificate of deposit that is issued by a U.S. issuer,  and that has a short-term rating at the time purchased from the Fund or pledged to the Reserve Bank in the top rating category (e.g.,  not lower than A 1,  F 1,  or P 1,  as applicable) from at least two major nationally recognized statistical rating organizations ("NRSRO") or,  if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO;
+	  1. Asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  unsecured [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  or a negotiable certificate of deposit that is issued by a U.S. issuer,  and that has a short-term rating at the time purchased from the Fund or pledged to the Reserve Bank in the top rating category (e.g.,  not lower than A 1,  F 1,  or P 1,  as applicable) from at least two major nationally recognized statistical rating organizations ("NRSRO") or,  if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO;
 	  1. U.S. municipal short-term debt (excluding variable rate demand notes) that:
 		 i. Has a maturity that does not exceed 12 months; and
 		 Ii. At the time purchased from the Fund or pledged to the Reserve Bank:
@@ -65,7 +65,7 @@ title: Money Market Mutual Fund Liquidity Facility
 ### Collateral Valuation
 
    - The collateral valuation will either be amortized cost or fair value.
-   - For asset-backed commercial paper,  unsecured commercial paper,  negotiable certificates of deposit,  and U.S. municipal short-term debt,  including variable rate demand notes,  the valuation will be amortized cost.
+   - For asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  unsecured [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  negotiable certificates of deposit,  and U.S. municipal short-term debt,  including variable rate demand notes,  the valuation will be amortized cost.
 
 ### Advance Size
 

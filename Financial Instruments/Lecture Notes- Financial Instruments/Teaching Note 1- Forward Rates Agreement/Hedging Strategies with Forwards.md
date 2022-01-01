@@ -23,7 +23,7 @@ title: Hedging Strategies with Forwards
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Category         | Description                                                                                                                                             |
 | Stock index      | S&P 500 index,  Euro Stoxx 50 index,  Nikkei 225,  Dow-Jones Industrials,  Dax,  NASDAQ,  Russell 2000,  S&P Sectors (healthcare,  utilities,  technology,  etc.) |
-| Interest rate    | 30-year U.S. Treasury bond,  10-year U.S. Treasury notes,  Fed funds rate,  Euro-Bund,  Euro-Bobl,  LIBOR,  Euribor                                           |
+| Interest rate    | 30-year U.S. Treasury bond,  10-year U.S. Treasury notes,  [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] ,  Euro-Bund,  Euro-Bobl,  LIBOR,  Euribor                                           |
 | Foreign exchange | Euro,  Japanese yen,  British pound,  Swiss franc,  Australian dollar,  Canadian dollar,  Korean won                                                          |
 | Commodity        | Oil,  natural gas,  gold,  copper,  aluminum,  corn,  wheat,  lumber,  hogs,  cattle,  milk                                                                       |
 | Other            | Heating and cooling degree-days,  credit,  real estate                                                                                                    |
@@ -48,7 +48,7 @@ title: Hedging Strategies with Forwards
 
 There are at least two reasons for using a stack hedge.
 
-- First,  there is often more trading volume and liquidity in near-term contracts. With many commodities,  bid-ask spreads widen with maturity. Thus,  a stack hedge may have lower transaction costs than a strip hedge.
+- First,  there is often more trading volume and liquidity in near-term contracts. With many commodities,  [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spreads]] widen with maturity. Thus,  a stack hedge may have lower transaction costs than a strip hedge.
 - Second,  the manager may wish to speculate on the shape of the forward curve. You might decide that the forward curve looks unusually steep in the early months. If you undertake a stack hedge and the forward curve then flattens,  you will have locked in all your oil at the relatively cheap near-term price,  and implicitly made gains from not having locked in the relatively high strip prices.However,  if the curve becomes steeper,  it is possible to lose.
 
 ### HEDGING JET FUEL WITH CRUDE OIL
@@ -163,15 +163,15 @@ To summarize,  a forward exchange rate reflects the difference in interest rates
 
 # EURODOLLAR FUTURES
 
-The Eurodollar contract,  described in Figure 4,  is based on a$1 million 3-month deposit earning LIBOR (the London Interbank Offer Rate),  which is the average borrowing rate faced by large international London banks. The 1-month LIBOR contract is similar. Suppose that current LIBOR is 1.5% over 3 months. By convention,  this is annualized by multiplying by 4,  so the quoted LIBOR rate is 6%. Assuming a bank borrows$1 million for  3 months,  a change in annualized LIBOR of 0.01% (1 basis point) would raise its borrowing cost by 0.0001/4 ×$1 million =$25
+The Eurodollar contract,  described in Figure 4,  is based on a$1 million 3-month deposit earning [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] (the London Interbank Offer Rate),  which is the average borrowing rate faced by large international London banks. The 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] contract is similar. Suppose that current [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is 1.5% over 3 months. By convention,  this is annualized by multiplying by 4,  so the quoted [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate is 6%. Assuming a bank borrows$1 million for  3 months,  a change in annualized [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] of 0.01% (1 basis point) would raise its borrowing cost by 0.0001/4 ×$1 million =$25
 
 The Eurodollar futures price at expiration of the contract is 100 − Annualized 3-month LIBOR
 
-Thus,  if LIBOR is 6% at maturity of the Eurodollar futures contract,  the final futures price will be 100 − 6 = 94. It is important to understand that the Eurodollar contract settles based on current LIBOR,  which is the interest rate quoted for the next 3 months. Thus,  for example,  the price of the contract that expires in June reflects the 3-month interest rate between June and September. With the futures contract,  as with a$1 million LIBOR deposit,  a change of 0.01% in the rate is worth$25.
+Thus,  if [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is 6% at maturity of the Eurodollar futures contract,  the final futures price will be 100 − 6 = 94. It is important to understand that the Eurodollar contract settles based on current LIBOR,  which is the interest rate quoted for the next 3 months. Thus,  for example,  the price of the contract that expires in June reflects the 3-month interest rate between June and September. With the futures contract,  as with a$1 million [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] deposit,  a change of 0.01% in the rate is worth$25.
 
 > Specifications for the Eurodollar futures contract
 
-Like most money-market interest rates,  LIBOR is quoted assuming a 360-day year. Thus,  the annualized 91-day rate, $r_{91}$,  can be extracted from the futures price,  F,  by computing the 90-day rate and multiplying by 91/90. The quarterly effective rate is then computed by dividing the result by 4:$$r_{91} = (100-F) \times \frac{1}{100} \times \frac{1}{4} \times \frac{91}{90}\tag{19}$$
+Like most money-market interest rates,  [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is quoted assuming a 360-day year. Thus,  the annualized 91-day rate, $r_{91}$,  can be extracted from the futures price,  F,  by computing the 90-day rate and multiplying by 91/90. The quarterly effective rate is then computed by dividing the result by 4:$$r_{91} = (100-F) \times \frac{1}{100} \times \frac{1}{4} \times \frac{91}{90}\tag{19}$$
 
 Three-month Eurodollar contracts have maturities out to 10 years,  which means that it is possible to use the contract to lock in a 3-month rate as far as 10 years in the future.
 
@@ -183,17 +183,17 @@ Figure 5 depicts the Eurodollar strip for four dates. Each point on the graph is
 
 Let's see how the Eurodollar contract can be used to hedge interest rate risk. For a borrower,  for example,  a short position in the contract is a hedge because it pays when the interest rate rises and requires payment when the interest rate falls. 
 
-To see this,  suppose that 7 months from today we plan to borrow$1 million for 90 days,  and that our borrowing rate is the same as LIBOR. The Eurodollar futures price for 7 months from today is 94; this implies a 90-day rate of (100 − 94) × 90/360 × 1/100 = 1.5%. Now suppose that 7 months hence,  3-month LIBOR is 8%,  which implies a Eurodollar futures price of 92. The implied 90-day rate is 2%. Our extra borrowing expense over 90 days on$1 million will therefore be (0.02 − 0.015) ×$1m =$5000.
+To see this,  suppose that 7 months from today we plan to borrow$1 million for 90 days,  and that our borrowing rate is the same as LIBOR. The Eurodollar futures price for 7 months from today is 94; this implies a 90-day rate of (100 − 94) × 90/360 × 1/100 = 1.5%. Now suppose that 7 months hence,  3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is 8%,  which implies a Eurodollar futures price of 92. The implied 90-day rate is 2%. Our extra borrowing expense over 90 days on$1 million will therefore be (0.02 − 0.015) ×$1m =$5000.
 
 This extra borrowing expense is offset by gains on the short Eurodollar contract. The Eurodollar futures price has gone down,  giving us a gain of$25 per basis point,  or$25 × 100 × (94 − 92) =$5000.
 
 The short position in the futures contract compensates us for the increase in our borrowing cost0.\1 In the same way,  a long position can be used to lock in a lending rate.
 
-The Eurodollar futures price is a construct,  not the price of an asset. In this sense Eurodollar futures are different from the futures contracts we have already discussed. Although Eurodollar LIBOR is closely related to a number of other interest rates,  there is no one specific identifiable asset that underlies the Eurodollar futures contract
+The Eurodollar futures price is a construct,  not the price of an asset. In this sense Eurodollar futures are different from the futures contracts we have already discussed. Although Eurodollar [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is closely related to a number of other interest rates,  there is no one specific identifiable asset that underlies the Eurodollar futures contract
 
-LIBOR is quoted in currencies other than dollars,  and comparable rates are quoted in different locations. In addition to LIBOR,  there are PIBOR (Paris),  TIBOR (Tokyo),  and Euribor (the European Banking Federation).
+[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is quoted in currencies other than dollars,  and comparable rates are quoted in different locations. In addition to LIBOR,  there are PIBOR (Paris),  TIBOR (Tokyo),  and Euribor (the European Banking Federation).
 
-Finally,  you might be wondering why we are discussing LIBOR rather than rates on Treasury bills. Business and bank borrowing rates move more in tandem with LIBOR than with the government's borrowing rate. Thus,  these borrowers use the Eurodollar futures contract to hedge. LIBOR is also a better measure of the cost of funds for a market-maker,  so LIBOR is typically used to price forward contracts.
+Finally,  you might be wondering why we are discussing [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rather than rates on Treasury bills. Business and bank borrowing rates move more in tandem with [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] than with the government's borrowing rate. Thus,  these borrowers use the Eurodollar futures contract to hedge. [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is also a better measure of the cost of funds for a market-maker,  so [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is typically used to price forward contracts.
 
 It might occur to you that the Eurodollar contract pays us at the time we borrow,  but we do not pay interest until the loan matures,  91 days hence. Since we have time to earn interest on the change in the value of the contract,  the hedge ratio should be less than 1 contract per \$1 million borrowing.
 
@@ -219,4 +219,4 @@ It might occur to you that the Eurodollar contract pays us at the time we borrow
 - The fact that it is possible to create a synthetic forward has two important implications. 
 - First,  if the forward contract is mispriced,  arbitrageurs can take offsetting positions in the forward contract and the synthetic forward contract—in effect buying low and selling high— and make a risk-free profit
 - Second,  dealers who make markets in the forward or in the underlying asset can hedge the risk of their position with a synthetic offsetting position. With transaction costs there is a no-arbitrage region rather than a single no-arbitrage price.
-- Futures contracts are similar to forward contracts,  except that with futures there are margin requirements and daily settlement of the gain or loss on the position.
+- Futures contracts are similar to forward contracts,  except that with futures there are [[Lecture 6-Leverage, Tail Risk, Volatility Products#6.1.3 Margin requirements|margin requirements]] and daily settlement of the gain or loss on the position.

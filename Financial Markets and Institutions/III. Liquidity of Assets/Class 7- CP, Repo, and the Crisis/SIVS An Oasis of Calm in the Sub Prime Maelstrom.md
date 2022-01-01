@@ -1,15 +1,21 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_30_SIVS An Oasis of Calm in the Sub Prime Maelstrom.md
-- Example_Alias_SIVS An Oasis of Calm in the Sub Prime Maelstrom
+  - Alias_30_SIVS An Oasis of Calm in the Sub Prime Maelstrom.md
+  - Example_Alias_SIVS An Oasis of Calm in the Sub Prime Maelstrom
 tags:
-- tag_example
-- example_tag
+  - tag_example
+  - example_tag
+  - "#quantitative-finance"
+  - "#finance"
+  - "#financial-crises"
+  - "#financial-markets"
+  - "#structured-investment-vehicles"
+  - "#subprime-mortgage-exposure"
+  - "#credit-vehicles"
 title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 ---
-
-
-
 
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom
 
@@ -23,7 +29,7 @@ Table of Contents
 
 ## SIVS - An Overview
 
-SIVs are high-grade,  highly diversified structured credit vehicles that raise funds through the issuance of Prime-1 rated Commercial Paper,  Aaa-rated Medium Term Notes and Capital Notes typically rated low investment grade. The sector is amongst the high growth areas of Structured Finance with US$ 370 billion of assets managed across 28 vehicles,     10 of which were launched in the last 18 months. SIV CDOs (or "SIV-lites") and SLVs (Structured Loan Vehicles) are hybrids of SIVs that typically invest in US RMBS and leveraged loans,     respectively. In total,     Moody's rates 36 SIVs or SIV hybrids that currently manage US$ 395 billion of assets. SIVs engage in maturity transformation through the purchase of long-term assets to support senior short-term liabilities,  engendering asset-liability maturity gaps in the range of 2.4 to 4.8 years. The vehicles must therefore mark portfolios to market on a frequent basis to gauge value should it become necessary to de-lever following an inability to roll liabilities or unexpected downgrades or defaults in the portfolio.
+SIVs are high-grade,  highly diversified structured credit vehicles that raise funds through the issuance of Prime-1 rated [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  Aaa-rated Medium Term Notes and Capital Notes typically rated low investment grade. The sector is amongst the high growth areas of Structured Finance with US$ 370 billion of assets managed across 28 vehicles,      10 of which were launched in the last 18 months. SIV CDOs (or "SIV-lites") and SLVs (Structured Loan Vehicles) are hybrids of SIVs that typically invest in US RMBS and leveraged loans,      respectively. In total,      Moody's rates 36 SIVs or SIV hybrids that currently manage US$ 395 billion of assets. SIVs engage in maturity transformation through the purchase of long-term assets to support senior short-term liabilities,  engendering asset-liability maturity gaps in the range of 2.4 to 4.8 years. The vehicles must therefore mark portfolios to market on a frequent basis to gauge value should it become necessary to de-lever following an inability to roll liabilities or unexpected downgrades or defaults in the portfolio.
 
 ## Sector Composition
 
@@ -47,7 +53,9 @@ SIVs and SIV-lites,  like most market value based structured credit funds,  inve
 ## Related Research
 
 For a more detailed explanation of Moody's approach to SIVs please refer to the following reports:
+
 Rating Methodology
+
 − An Introduction to Structured Investment Vehicles,  January 2002 (SF11961) − The Moody's Capital Model,  January 2004 (SF27525) − SIV Management Quality Ratings,  January 2006 (SF66229)
 
 ## Special Report

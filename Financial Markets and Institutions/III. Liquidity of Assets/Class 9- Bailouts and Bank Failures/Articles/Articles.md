@@ -5,8 +5,8 @@ title: Articles
 # Articles
 
 %% Begin Waypoint %%
-- **[[Articles]]**
-	- [[Articles]]
+- **[[Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/Articles]]**
+	- [[Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/Articles]]
 	- [[The Economist a Brave New World]]
 	- [[The Economist Fewer Or Even None]]
 	- [[The Economist Going Public]]

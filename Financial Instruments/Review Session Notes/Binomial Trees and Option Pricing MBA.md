@@ -12,7 +12,7 @@ title: Binomial Trees and Option Pricing MBA
 
 
 # Binomial Trees and Option Pricing MBA
-## 1. BINOMIAL TREES IN PHARMACEUTICALS
+## 1. BINOMIAL TREES IN [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 
 ### 1.1. PARAMETERS
 
@@ -79,7 +79,7 @@ title: Binomial Trees and Option Pricing MBA
 #### 1.6.1. CHANGE IN ANALYST PROBABILITIES
 
 1. Suppose that $q$ changes.
-1. All else equal,  $E_q[S_{T, i}]$ changes because the probability distribution has changed.
+1. All else equal,  $E_q[S_{T, i}]$ changes because the [[Lecture 1- Probability Distributions of Returns|probability distribution]] has changed.
 1. In turn,  the present-value of the stock price $S_0$ at inception $t = 0$ changes.
 1. Furthermore,  the risk neutral probability $q^*$ changes due to change in $S_0$.
 

@@ -1,18 +1,23 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_41_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
-- Example_Alias_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
-- Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
-linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
-  Risk Insurance"
+  - Alias_41_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
+  - Example_Alias_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
+  - Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
+linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 tags:
-- tag_example
-- example_tag
-title: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
+  - tag_example
+  - example_tag
+  - "#quantitative-finance"
+  - "#finance"
+  - "#risk-management"
+  - "#financial-crises"
+  - "#liquidity-risk"
+  - "#credit-analysis"
+  - "#commercial-paper"
+title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 ---
-
-
-
 
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 
@@ -20,9 +25,9 @@ title: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 
 ## Summary Opinion
 
-This report describes Moody's approach to assessing the adequacy of a corporate issuer's alternate liquidity provisions. The process outlined below is our recommended best practices for such analysis. The extent of its usage has depended and will continue to depend on the depth of dialogue and understanding of the relevant issues between Moody's analysts and management of the rated issuers. As the supply of traditional bank-provided backstop for commercial paper contracts relative to the expanding volume of commercial paper,  this subject has become increasingly important
+This report describes Moody's approach to assessing the adequacy of a corporate issuer's alternate liquidity provisions. The process outlined below is our recommended best practices for such analysis. The extent of its usage has depended and will continue to depend on the depth of dialogue and understanding of the relevant issues between Moody's analysts and management of the rated issuers. As the supply of traditional bank-provided backstop for [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] contracts relative to the expanding volume of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  this subject has become increasingly important
 
-With issuers increasingly dependent on sources (both internal and external) of backstop liquidity other than the standard third party providers,  Moody's analysis is adapting to incorporate the concept of total Liquidity Risk Insurance. This refers to the entire basket of cash and nearterm sources of cash,  plus any external liquidity arrangements available to an issuer that can be drawn upon as backstop liquidity for all short term obligations including commercial paper.
+With issuers increasingly dependent on sources (both internal and external) of backstop liquidity other than the standard third party providers,  Moody's analysis is adapting to incorporate the concept of total Liquidity Risk Insurance. This refers to the entire basket of cash and nearterm sources of cash,  plus any external liquidity arrangements available to an issuer that can be drawn upon as backstop liquidity for all short term obligations including [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]].
 
 Moody's analysis is both quantitative and qualitative. We avoid predetermined liquidity calculations out of respect for the significant differences in liquidity needs across industries and issuers. Our issuer-by-issuer approach entails a review of all liquidity sources and their maturities,  market sensitivity analysis,  and a review of each issuer's contingency plans.
 
@@ -38,7 +43,7 @@ In response to the current squeeze in available backstop arrangements - and the 
 
 We see this issue as the most important concern facing the fixed income market at present. The committee is conducting internal seminars on a number of current themes and trends in the marketplace and is giving bankers feedback on a variety of new,  liquidity-related products.
 
-The Standing Committee is also soliciting the views of issuers,  investors,  and bankers on an array of alternate liquidity topics including the adequacy of commercial paper backstop. Committee members are approaching commercial paper issuers directly worldwide,  on a global basis,  to solicit views. In our discussions,  a majority of issuers have expressed the belief that the required amount of alternate liquidity for commercial paper should factor:
+The Standing Committee is also soliciting the views of issuers,  investors,  and bankers on an array of alternate liquidity topics including the adequacy of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] backstop. Committee members are approaching [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] issuers directly worldwide,  on a global basis,  to solicit views. In our discussions,  a majority of issuers have expressed the belief that the required amount of alternate liquidity for [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] should factor:
 
 - The issuer's cashflow matched against its short-term debt maturity profile
 - The issuer's ability to manage its working capital and capital spending
@@ -47,30 +52,31 @@ The Standing Committee is also soliciting the views of issuers,  investors,  and
 
 We agree that these factors should be considered,  and further add that an assessment of liquidity requirements must also incorporate factors in addition to the issuer's stated short-term maturities. Liquidity must be viewed in the context of all possible short-term claims on the issuer -both direct and contingent,  and related to an issuer's ability to meet these claims from various funding sources.
 
-The new environment requires a more refined and systematic analysis. In short,  there is a need to analyze smarter,  systematically. Our approach is analytic -not dogmatic - and is tailored to each issuer. To accomplish this,  we have undertaken an initiative to contact each rated issuer of commercial paper to commence a dialogue that will enable us to understand each issuer's particular circumstances regarding the adequacy of its “liquidity risk insurance”
+The new environment requires a more refined and systematic analysis. In short,  there is a need to analyze smarter,  systematically. Our approach is analytic -not dogmatic - and is tailored to each issuer. To accomplish this,  we have undertaken an initiative to contact each rated issuer of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] to commence a dialogue that will enable us to understand each issuer's particular circumstances regarding the adequacy of its “liquidity risk insurance”
 
 The cornerstone of our approach is based on the fact that the issuer's individual circumstances will always transcend general criteria. This approach is essential to our proper governance and ultimately to the value we deliver to the market.
 
 ## Market Developments
 
-# Rising CP Issuance but Less Backstop may Signal Systemic Risk
+# Rising [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Issuance but Less Backstop may Signal Systemic Risk
 
 CP issuance is on the rise and the demand for alternate liquidity coverage is growing rapidly. At the same time that there is a reduction and concentration in the supply of traditional bank backstop arrangements. A host of new providers and products - ECNs,  Money Market Notes and Revolving Commitment Vehicles (RCVs)- have entered the market,  but have failed tofll the gap,  leading to rising costs for issuers. Some issuers are responding with reduced coverage,  which could lead to increased risk system-wide.
 
-In addition,  lower rated issuers have experienced periods in which commercial paper market access has been restricted or become significantly more costly. Liquidity squeezes in the summer of 1998 and the fall of 1999 are among the factors which suggest that volatility in market access may be on the rise structurally and globally
+In addition,  lower rated issuers have experienced periods in which [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] market access has been restricted or become significantly more costly. Liquidity squeezes in the summer of 1998 and the fall of 1999 are among the factors which suggest that volatility in market access may be on the rise structurally and globally
 
-Exhb U.S.Commercial Paper Outstandings Millions of Dollars
+Exhb U.S.[[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Outstandings Millions of Dollars
+
 ![](https://storage.simpletex.cn/view/ff2H9XosKlG7GFaxYcuB0S2XNFAQIhdtN)
 
-Exhibit 1 shows the dramatic increase in the use of CP. The rise can be attributed to brisk growth in the use of commercial paper as a financing tool (CP is being used for more permanent purposes in the capital structure than it has been ever before),  to dramatic growth in structured finance issuance and to growth in the financial markets in general. Yet this rise comes at a time when established backstop providers are either exiting the business,  consolidat ing,  or tightening their capital allocation standards.
+Exhibit 1 shows the dramatic increase in the use of CP. The rise can be attributed to brisk growth in the use of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] as a financing tool (CP is being used for more permanent purposes in the capital structure than it has been ever before),  to dramatic growth in structured finance issuance and to growth in the financial markets in general. Yet this rise comes at a time when established backstop providers are either exiting the business,  consolidat ing,  or tightening their capital allocation standards.
 
 Source Federaf Reserve Board: Comvmercial Paper Rates and Outstandings
 
 Compounding the problem,  the reduction and concentration of supply is also taking place as banks' historical willingness to fund out deteriorating credits becomes increasingly questionable in the future,  and as the Basel Accord proposes to impose additional regulation regarding capital adequacy requirements for banks. This may include capital adequacy requirements for 364-day credit facilities that currently enjoy capital free status.
 
-Issuers tell us that they are seeing a marked change over the past two to three years in the cost and availability of traditional bank commercial paper back-up facilities. Committed bank credit facilities are less readily available,  continue to become more expensive,  and some issuers have been told that price-motivated usage of commercial paper back-up facilities could have negative consequences for their banking relationships
+Issuers tell us that they are seeing a marked change over the past two to three years in the cost and availability of traditional bank [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] back-up facilities. Committed bank credit facilities are less readily available,  continue to become more expensive,  and some issuers have been told that price-motivated usage of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] back-up facilities could have negative consequences for their banking relationships
 
-Some issuers are responding to the squeeze by shifting their approach to liquidity risk insurance. Moody's is seeing lower levels of committed facilities to support commercial paper programs; backstop supports that are being managed to average - but not to peak - commercial paper outstandings; shorter average maturities and,  most of all,  greater reliance on alternate sources of liquidity
+Some issuers are responding to the squeeze by shifting their approach to liquidity risk insurance. Moody's is seeing lower levels of committed facilities to support [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] programs; backstop supports that are being managed to average - but not to peak - [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] outstandings; shorter average maturities and,  most of all,  greater reliance on alternate sources of liquidity
 
 As the cost of backstop arrangements moves up,  there is a concomitant pressure to reduce “insurance coverage” causing concern about an increase in systemic risks.
 
@@ -78,7 +84,7 @@ As the cost of backstop arrangements moves up,  there is a concomitant pressure 
 
 ISSUER SPECIFIC ANALYSIS IS KEY In evaluating an issuer's liquidity risk insurance,  we consider the potential near term claims on the issuer,
 
-And compare our findings to all likely near-term sources of cash. Commercial paper is considered to be one component of near-term claims,  and bank facilities are viewed as just one component of the potential near-term sources of cash.
+And compare our findings to all likely near-term sources of cash. [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] is considered to be one component of near-term claims,  and bank facilities are viewed as just one component of the potential near-term sources of cash.
 
 Moody's analysis begins with a critical evaluation of an issuer's sources and uses of cash. We then analyze a series ofreasonable stress scenarios,  and assess the company's ability to meet both its operating needs and its debt obligations under these scenarios. This is followed by a close examination of the company's contingency funding plans for a period of stress caused by either company-specific concerns or by a general market disruption.
 
@@ -86,7 +92,7 @@ Moody's analysis begins with a critical evaluation of an issuer's sources and us
 
 Our starting point is an assessment of the issuer's potential sources of liquidity.
 
-Although there have been few actual defaults among rated commercial paper issuers (see Exhibit 2),  the number of *near misses” emphasizes that rapidly deteriorating credits can quickly lose access to their liquidity risk insurance. It is important,  therefore,  to develop a thorough understanding of each issuer's liquidity profile.
+Although there have been few actual defaults among rated [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] issuers (see Exhibit 2),  the number of *near misses” emphasizes that rapidly deteriorating credits can quickly lose access to their liquidity risk insurance. It is important,  therefore,  to develop a thorough understanding of each issuer's liquidity profile.
 
 <table>
 	<tbody>
@@ -273,23 +279,28 @@ Although there have been few actual defaults among rated commercial paper issuer
 	</tbody>
 </table>
 
-Relatively few Prime rated commercial paper issuers have defaulted in Moody's long experience (see
+Relatively few Prime rated [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] issuers have defaulted in Moody's long experience (see
 
-Moody's Commercial Paper Defaults and Rating Transitions,  1972-1998 - May 1998). We define a commercial paper default as any delayed,  foregone or incomplete disbursement of principal or interest (in those rare cases in which commercial paper takes the form of an interest-bearing note). While conservative,  we believe this definition to be the one most aligned with commercial paper investors' expectations
+Moody's [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Defaults and Rating Transitions,  1972-1998 - May 1998). We define a [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] default as any delayed,  foregone or incomplete disbursement of principal or interest (in those rare cases in which [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] takes the form of an interest-bearing note). While conservative,  we believe this definition to be the one most aligned with [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] investors' expectations
 
-Since 1972,  11 issuers with Moody's ratings have defaulted on commercial paper. Exhibit 2 lists these issuers along with details of their defaults and their ratings before default. Moody's short-term debt rat ings emphasize default risk,  rather than the emphasis on expected loss for long term ratings. It is noteworthy that most defaults eventually resulted in full recovery for commercial paper holders. This illustrates the importance of immediacy in considering various sources of cash. For all sources of cash we consider immediacy (critical),  quality,  and diversity
+Since 1972,  11 issuers with Moody's ratings have defaulted on [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. Exhibit 2 lists these issuers along with details of their defaults and their ratings before default. Moody's short-term debt rat ings emphasize default risk,  rather than the emphasis on expected loss for long term ratings. It is noteworthy that most defaults eventually resulted in full recovery for [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] holders. This illustrates the importance of immediacy in considering various sources of cash. For all sources of cash we consider immediacy (critical),  quality,  and diversity
 
 ## The following considerations apply for various liquidity sources
 
 ### INTERNAL SOURCES OF LIQUIDITY
 
 Cash on Hand
+
 In evaluating an issuer's cash on-hand we consider:
+
 		- Currencies in which an issuer invests Possible complications related to cross border repatriation,  currency conversion and tax issues.
 
 Near Term Cash Assets
+
 		- The likely timing for conversion to cash/immediacy of availability
+
 		- - Possible value implications for liquidation in a stress situation
+
 		- - Strength and availability of cash flow
 
 Management of Working Capital and Capital Expenditures
@@ -298,14 +309,14 @@ Management of Working Capital and Capital Expenditures
 
 ### EXTERNAL SOURCES OF LIQUIDITY
 
-Commercial Paper
+[[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]
 
 Committed backstop arrangements
-		 - The current commercial paper maturity schedule
 
+		 - The current [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] maturity schedule
 
 - Uncommitted backstop (consider that these are likely to be extremely confidence sensitive)/no backstop
--          - Bank lines vs. Peak commercial paper outstanding by month (as applicable) 
+-          - Bank lines vs. Peak [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] outstanding by month (as applicable) 
 - - historical and projectec
 
 Revolving Commitment Vebicles
@@ -323,7 +334,7 @@ Capital Markets
 
 In looking at an issuer's bank credit facilities,  we consider both quantity and quality. Moody's is particularly watchful for provisions that could provide lenders with a basis not to fund. These include covenants,  material adverse change (MAC) clauses,  level of bank lenders financial strength,  relationship factors,  facility maturity dates,  and renewal procedures for multi-year and/or 364 day revolving credits with/without a term option. For example,  Moody's places greater value on relationship based committed bank facilities in comparison to transactional or arms-length arrangements (see Moody's Assessing the Strengtb of a Liquidity Facility - June 1999).
 
-In addition,  we consider the mechanics for loan draws,  as well as the geographic market in which the funds are delivered. (For example,  an issuer with a Euro-CP program may need cash available in London to refund maturing commercial paper). Time zones and differing holiday schedules are also factored into the analysis. These are often addressed through the use of swing lines.
+In addition,  we consider the mechanics for loan draws,  as well as the geographic market in which the funds are delivered. (For example,  an issuer with a Euro-CP program may need cash available in London to refund maturing [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]). Time zones and differing holiday schedules are also factored into the analysis. These are often addressed through the use of swing lines.
 
 ### EVALUATING TOTAL CASHELOWS
 
@@ -340,21 +351,37 @@ Direct Obligations
 Short-term debt Long-term debt (current portion) Capitalized lease obligations
 
 Contingent Obligations
+
 		- Funding arrangements with put features
+
 		- Variable rate re-marketed securities
+
 		- Financial and commodity derivatives contracts
+
 		- Make-whole (true-up) arrangements for losses on securitization portfolios
+
 		- Off-balance-sheet financing obligations
+
 		- Litigation/judgements
+
 		- License arrangements
+
 		- Earn-out obligations for acquisitions
+
 		- Warranty obligations
+
 		- Product liability
-		- Joint venture funding requirements : Margin requirements
+
+		- Joint venture funding requirements : [[Lecture 6-Leverage, Tail Risk, Volatility Products#6.1.3 Margin requirements|margin requirements]]
+
 		- OtherClaims on Cash
+
 		- Working capital: How absorbing is working capital in a liquidity squeeze?
+
 		- How confidence sensitive is trade credit?
+
 		- Capital spending commitments
+
 		- - Stock buybacks
 
 ### ASSESSING THE CHARACTERISTICS OF EXPECTED CASHFLOW
@@ -377,19 +404,28 @@ Overall,  we look at the following flow-related issues:
 # Cash Outflows
 
 Operating disbursements
+
 		- All other cash expenses including insurance; pension; employee benefit plans; taxes
+
 		 - Focus on timing and amount
+
 		- Increase in working capital - consider degree to which trade credit is confidence sensitive
+
 		- Acquisitions -Earn-Outs - committed or necessary to business
 
 Capital expenditures consider commitments,  flexibility to reduce the pace of spending
 
 Contingencies (see Maturity Profile)
+
 		 - Debt service - long term obligations that have put or re-marketing features Interest Principal Capitalized lease obligations
+
 		 - - Stock buybacks
-Net Casbflow is determined by subtracting Cash Outflows from Cash Inflows. Thereafter,  we measure how net cashflow covers CP maturities.
+
+Net Casbflow is determined by subtracting Cash Outflows from Cash Inflows. Thereafter,  we measure how net cashflow covers [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] maturities.
+
 		- Plus: Beginning Cash
-		- Less: CP Maturities Net CashAfter CP Maturities Equals:
+
+		- Less: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Maturities Net CashAfter [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] Maturities Equals:
 
 # Step II: Sensitivity Analysis and Scenario Analysis
 
@@ -399,7 +435,7 @@ Once we have the framework of all baseline cashflow giving effect to all short-t
 
 This analysis considers both issuer-specific factors and possible broad market disruptions,  the strengths and the vulnerabilities of the issuer's cashflow,  and the likelihood that a particular issuer would be affected to a particular degree of stress severity consistent with our case-by-case approach.
 
-Our analysis tests the issuer's ability to cover its cash needs by testing its ability to cover both direct and contingent obligations under scenarios with increasing degrees of stress. Assumptions may include: no ability to issue commercial paper for an extended period (10 days,  30 days,  or permanent for lower-rated or highly confidence sensitive issuers),  partial funding $(50\%)$ or no funding under bank facilities,  no access,  or limited access to securitization markets,  no access or limited access to other sources of external funding,  a reduction or elimination of trade credit resulting in an increased need to use cash for trade or contingencies; and the deferral of sales of equity or assets.
+Our analysis tests the issuer's ability to cover its cash needs by testing its ability to cover both direct and contingent obligations under scenarios with increasing degrees of stress. Assumptions may include: no ability to issue [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] for an extended period (10 days,  30 days,  or permanent for lower-rated or highly confidence sensitive issuers),  partial funding $(50\%)$ or no funding under bank facilities,  no access,  or limited access to securitization markets,  no access or limited access to other sources of external funding,  a reduction or elimination of trade credit resulting in an increased need to use cash for trade or contingencies; and the deferral of sales of equity or assets.
 
 There is no formulaic linkage between the outcome of the stress case analysis and the perceived adequacy of the issuer's liquidity risk insurance. Moody's analysis considers the severity of the assumptions relative to each issuer's individual circumstances,  including differences in confidence sensitivity and the. Ability to access internal and external sources of liquidity in a reasonable stress scenario
 
@@ -407,11 +443,11 @@ There is no formulaic linkage between the outcome of the stress case analysis an
 
 Our sensitivity analysis begins with a review of the sources of potential cashflow sensitivities. We start with cash inflows,  considering the possible adverse impact on operating receipts from:
 
-        - Potential for revenue decline considering the nature of the business (for example,  utilities generally experience little decline,  whereas declines for cyclical industries are steeper)
+        - Potential for revenue decline considering the nature of the business (for example,   utilities generally experience little decline,   whereas declines for [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] industries are steeper)
         -          - Slow paying customers
         -  - customers remit more slowly in a turmoil situation 
         - - Higher default rates - customers don’t pay in crisis 
-        - Supplier risk - possible shortages of critical raw materials,  stocks (e.g. retailers); supply chain imbalances Foreign currency conversion
+        - Supplier risk - possible shortages of critical raw materials,   stocks (e.g. retailers); supply chain imbalances Foreign currency conversion
             - Cross border issues General business disruption risks
 
 # Cash Outflow Sensitivities
@@ -430,7 +466,7 @@ The effect,  if any,  on contingent payments as a result of the assumptions used
 
 ### STRESS CASE SENSITIVITIES FOR STRESS TESTING
 
-Stress case cashflows are compared to maturities,  including commercial paper. The result of the stress analysis is useful in understanding a specific issuer's sensitivity to unforeseen adverse events and its vulnerability to a restriction of external funding. The analysis gives us helpful insight into the time period over which an issuer could withstand a stressed environment
+Stress case cashflows are compared to maturities,  including [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. The result of the stress analysis is useful in understanding a specific issuer's sensitivity to unforeseen adverse events and its vulnerability to a restriction of external funding. The analysis gives us helpful insight into the time period over which an issuer could withstand a stressed environment
 
 The following are some of the critical variables that play a role in the evaluation of an issuer's cashflow in a stress analysis:
 
@@ -443,18 +479,20 @@ Asset Securitization
 Issuer's experience,  asset quality Operations and systems capacity Commitment of conduit purchase arrangements - Timeliness of market access
 
 Debt Issuance
+
 		 - Likelihood of issuer access given a market disruption or other credit event
 
 Sale of Equity or Assets
+
 		 - Ramifications if asset or equity sales don't occur
 
 ### DURATION ANALYSIS
 
-Critical to the assessment of an issuer's liquidity risk insurance is its ability to cover maturing commercial paper,  at highpoint,  from stressed cashflow. Given the stressed cashflow,  we determine how many days of maturing commercial paper an issuer can cover. While there is no formulaic “right” result,  this analysis helps to define more accurately the individual issuer's circumstances with regard to alternate liquidity
+Critical to the assessment of an issuer's liquidity risk insurance is its ability to cover maturing [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  at highpoint,  from stressed cashflow. Given the stressed cashflow,  we determine how many days of maturing [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] an issuer can cover. While there is no formulaic “right” result,  this analysis helps to define more accurately the individual issuer's circumstances with regard to alternate liquidity
 
 Some of the tests for adequacy of coverage under the stress scenario include:
 
-(1) At highpoint,  how many days of maturing commercial paper can be covered by stressed cashflow without requiring additional funding? (2) If additional funding is required,  what are the alternative sources that will provide the cash? How quickly can cash be obtained?
+(1) At highpoint,  how many days of maturing [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] can be covered by stressed cashflow without requiring additional funding? (2) If additional funding is required,  what are the alternative sources that will provide the cash? How quickly can cash be obtained?
 
 # Step IlI: Analysis of the Issuer's Contingency Plans
 

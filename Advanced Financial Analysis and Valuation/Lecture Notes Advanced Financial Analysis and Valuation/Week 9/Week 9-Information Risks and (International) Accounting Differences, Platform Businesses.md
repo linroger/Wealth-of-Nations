@@ -1,8 +1,17 @@
 ---
-aliases: [Alias_323_Week 9-Information Risks and (International) Accounting Differences,  Platform
-  Businesses.md,  Alias_320_Week 9-Information Risks and (International) Accounting Differences,  Platform
-  Businesses.md]
-tags: [tag_example]
+aliases:
+  - Alias_323_Week 9-Information Risks and (International) Accounting Differences
+  - Platform Businesses.md
+  - Alias_320_Week 9-Information Risks and (International) Accounting Differences
+  - Platform Businesses.md
+tags:
+  - tag_example
+  - "#finance"
+  - "#accounting"
+  - "#valuation"
+  - "#ifrs"
+  - "#non-gaap-reporting"
+  - "#global-investment-risks"
 title: Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses
 ---
 
@@ -227,7 +236,7 @@ But why stop there?
 ## WEWORK: "COMMUNITY ADJUSTED EBITDA"
 
 ![](d383287c544e32b05ed4d3af1f3451a8.png)
-WeWork devised "Community Adjusted EBITDA" to measure net income before not only interest,  taxes,  depreciation,  and amortization,  but also "building and community‐level operating expenses, " a category that includes rent and tenancy expenses,  utilities,  internet,  the salaries of building staff,  and the cost of building amenities (which WeWork described as "our largest category of expenses").
+WeWork devised "Community Adjusted EBITDA" to measure [[Operating Income vs. Net Income What's the Difference|Net Income]] before not only interest,  taxes,  depreciation,  and amortization,  but also "building and community‐level operating expenses, " a category that includes rent and tenancy expenses,  utilities,  internet,  the salaries of building staff,  and the cost of building amenities (which WeWork described as "our largest category of expenses").
 
 ## COMMON PRACTICE
  - More than 90% of S&P500 firms use non‐GAAP metrics between 2015‐2017
@@ -250,7 +259,7 @@ WeWork devised "Community Adjusted EBITDA" to measure net income before not only
  - Asset write‐downs and impairments
  - M&A and divestitures
  - Depreciation and amortization
-	- Amortization of intangibles
+	- Amortization of [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] 
  - Goodwill (especially impairments)
  - R&D
  - Compensation expenses,  in particular stock‐based compensation

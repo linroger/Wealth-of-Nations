@@ -28,6 +28,6 @@ For most banks a "lowerforlonger" environment requires other changes. Starved of
 
 ![0_time_is_cheap_0.png|500](0_time_is_cheap_0.png)
 
-So what if skinny profits irk the bankers? The problem is that their troubles can cause difficulties for everybody else. As bank margins are compressed,  their capital is often eroded,  which can stymie banks' ability to lend. Economists have long worried that these dynamics conflict with monetary policy at the lower bound.
+So what if skinny profits irk the bankers? The problem is that their troubles can cause difficulties for everybody else. As bank margins are compressed,  their capital is often eroded,  which can stymie banks' ability to lend. Economists have long worried that these dynamics conflict with [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] at the lower bound.
 
 Cutting interest rates is supposed to stimulate lending,  not curtail it. Markus Brunnermeier,  at Princeton,  and Yann Koby at Brown,  call the interest rate below which a further rate cut has depressive effects the "reversal rate". And they find that the effects are exacerbated where capital constraints are tight,  penalising the big banks,  and in countries engaging in quantitative easing,  which forces banks to hold even more deposits.

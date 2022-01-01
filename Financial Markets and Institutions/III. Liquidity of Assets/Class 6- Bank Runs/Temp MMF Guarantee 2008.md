@@ -19,7 +19,7 @@ FROM THE INVESTMENT MANAGEMENT PRACTICE GROUP
 
 ## Executive Summary
 
-The following is an Executive Summary of certain of the relevant provisions of the U.S. Treasury Department's Temporary Guarantee Program for Money Market Funds. For more information please contact the Paul Hastings Attorneys below.
+The following is an Executive Summary of certain of the relevant provisions of the U.S. Treasury Department's Temporary Guarantee Program for [[A Primer on Money Market Mutual Funds|Money Market Funds]]. For more information please contact the Paul Hastings Attorneys below.
 
 ## Key Points
 

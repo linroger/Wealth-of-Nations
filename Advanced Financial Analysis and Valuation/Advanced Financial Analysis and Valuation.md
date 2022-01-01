@@ -1,11 +1,13 @@
 ---
+cssclasses: academia
 title: Advanced Financial Analysis and Valuation
 aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION]
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags: Advanced-Financial-Analysis-and-Valuation
 ---
 
 # Advanced Financial Analysis and Valuation
+
 %% Begin Waypoint %%
 - **[[Advanced Financial Analysis and Valuation]]**
 	- [[Advanced Financial Analysis and Valuation]]
@@ -17,6 +19,7 @@ tags: [Advanced-Financial-Analysis-and-Valuation]
 	- [[Financial Accounting- Class Notes]]
 	- **[[Financial Ratios]]**
 	- [[Financial_Statements.xlsm]]
+	- [[Introduction to Corporate Finance]]
 	- **[[Lecture Notes Advanced Financial Analysis and Valuation]]**
 	- [[Porter's Five Forces]]
 	- **[[Problem Sets]]**

@@ -234,7 +234,7 @@ Do the following:
 > [!NOTE]
 > 1. Gather market data:
 >
-> 	 - Collect the available market data for various fixed-income securities,  such as government bonds,  corporate bonds,  or interest rate swaps.
+> 	 - Collect the available market data for various fixed-income securities,  such as government bonds,  [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  or interest rate swaps.
 > 	 - The data should include the security's price,  coupon rate (if applicable),  maturity date,  and any other relevant information.
 > 1. Identify the shortest maturity security:
 >

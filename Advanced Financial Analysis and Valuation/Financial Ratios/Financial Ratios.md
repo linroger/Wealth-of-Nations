@@ -1,19 +1,24 @@
 ---
 title: Financial Ratios
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#finance"
+  - "#financialratios"
+  - "#financial-analysis"
+  - "#ratio-calculation"
 ---
 
 # Financial Ratios
 
 %% Begin Waypoint %%
 - **[[Financial Ratios]]**
-	- [[Comps Definition,    How They're Used in Analysis,    and Example]]
+	- [[Comps DefiComps Definition, How They're Used in Analysis, and Example]]
 	- [[Earnings Before Interest and Taxes (EBIT) Formula and Example]]
 	- [[Financial Ratios]]
-	- [[Fixed Asset Turnover Ratio Explained With Examples]]
-	- [[How to Use Price-To-Sales Ratios to Value Stocks]]
-	- [[Leverage Ratio What It Is,    What It Tells You,    How to Calculate]]
+	- [[Fixed Asset Turnover Ratio]]
+	- [[Leverage Ratio]]
 	- [[Operating Income vs. Net Income What's the Difference]]
-	- [[Operating Margin What It Is and the Formula for Calculating It,    With Examples]]
+	- [[Operating Margin]]
+	- [[Price-to-Sales Ratios in Stock Valuation]]
 
 %% End Waypoint %%

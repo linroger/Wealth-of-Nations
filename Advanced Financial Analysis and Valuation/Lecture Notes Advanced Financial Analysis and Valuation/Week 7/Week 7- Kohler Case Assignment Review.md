@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_321_Week 7- Kohler Case Assignment Review.md
-- Alias_324_Week 7- Kohler Case Assignment Review.md
+  - Alias_321_Week 7- Kohler Case Assignment Review.md
+  - Alias_324_Week 7- Kohler Case Assignment Review.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#valuation-analysis"
+  - "#corporate-finance"
+  - "#case-study"
+  - "#financial-analysis"
+  - "#private-company-valuation"
+  - "#minority-shareholder-rights"
+  - "#recapitalization-strategy"
 ---
 
 Thomas Rauter

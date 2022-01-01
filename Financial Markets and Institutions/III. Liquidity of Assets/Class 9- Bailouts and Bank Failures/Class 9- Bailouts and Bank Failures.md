@@ -9,9 +9,9 @@ title: Class 9Bailouts and Bank Failures
 
 %% Begin Waypoint %%
 - **[[Class 9- Bailouts and Bank Failures]]**
-	- **[[Articles]]**
+	- **[[Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/Articles]]**
 	- [[Class 9- Bailouts and Bank Failures]]
-	- [[Class Note On Terrausd May 21 2022]]
+	- [[Class Note On TerraUSD May 21 2022]]
 	- [[Class Slides On Terrausd Runs 2]]
 	- [[Continental Illinois Case(1)]]
 	- [[Options For Deposit Insurance Reform]]

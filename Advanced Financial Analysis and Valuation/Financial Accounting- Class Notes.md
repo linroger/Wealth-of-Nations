@@ -1,9 +1,15 @@
 ---
 aliases:
-- Alias_282_Financial Accounting- Class Notes.md
-- Alias_285_Financial Accounting- Class Notes.md
+  - Alias_282_Financial Accounting- Class Notes.md
+  - Alias_285_Financial Accounting- Class Notes.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#accounting"
+  - "#financial-analysis"
+  - "#financial-reporting"
+  - "#accrual-accounting"
+  - "#balance-sheet"
 ---
 
 # FINANCIAL ACCOUNTING: CLASS NOTES
@@ -726,7 +732,7 @@ tags:
 + Rarely used for operating activities
 + Indirect method
 + Only used for operating activities
-+ Goal is to reconcile net income with cash from operations by removing noncash items from net income
++ Goal is to reconcile [[Operating Income vs. Net Income What's the Difference|Net Income]] with cash from operations by removing noncash items from net income
 + Net Income = Cash Revenue + NonCash Revenue - Cash Expenses - Noncash expenses
 + Net Income (cash) = Cash Revenue - Cash Expenses)
 + Almost every company uses this method for operating activities
@@ -734,11 +740,11 @@ tags:
 **Statement of Cash Flows: Indirect Method**
 
 + We'll focus on indirect format which is used by most firms
-+ Involves reconciling net income to cash flow from operations by accounting for noncash items embedded in net income
++ Involves reconciling [[Operating Income vs. Net Income What's the Difference|Net Income]] to cash flow from operations by accounting for noncash items embedded in net income
 + Net Income = Cash Revenue + Noncash Revenues - Cash Expense - NonCash expense
 + Start with Net Income
 + Cash Flows from Operations = Net Income - Non-cash revenues + noncash expenses
-+ Types of Adjustments between net income and cash from operations
++ Types of Adjustments between [[Operating Income vs. Net Income What's the Difference|Net Income]] and cash from operations
 + Non-cash expenses (depreciation
 + Non-operating items in net income
 + Gains and losses on equipment sales
@@ -765,7 +771,7 @@ tags:
 + Accounts Receivable 100→ 115
 + Direct method: use 1385
 + Net Income = 1400
-+ Change in AR 115-100 = Sales - cash received; subtract out this difference from net income and that gives us the cash they collected. Receivables will go up by the difference in cash and noncash revenues
++ Change in AR 115-100 = Sales - cash received; subtract out this difference from [[Operating Income vs. Net Income What's the Difference|Net Income]] and that gives us the cash they collected. Receivables will go up by the difference in cash and noncash revenues
 + Indirect method: 1400 - 15 = 1385
 + Example 3
 + Asset bought for $8 and depreciated $3
@@ -932,7 +938,7 @@ tags:
 + Nortel had accounts receivable changes that were over a year old so they put them in the investing section. The numbers still add up but the operating amount doesn't change.
 + Operating cash flow number may not be fool proof
 + Depreciation expense method →
-+ Can affect the operating number because of the add back that can boost operating → however, their net income will take a hit.
++ Can affect the operating number because of the add back that can boost operating → however, their [[Operating Income vs. Net Income What's the Difference|Net Income]] will take a hit.
 + Red flags - watch out for if looking at companies
 + Compare NI & CFO number → if earnings and cash flow are going in different directions
 + You want the company to recover the cash. If they are growing in different directions, they may be channel stuffing (bogus customers)
@@ -964,7 +970,7 @@ tags:
 + Dr Acc Rec 56
 + Cr Airline Grant 320
 + Cr.
-+ Why is the amount for "Non-cash Charges" an addition to net income in determining cash flow from operations?
++ Why is the amount for "Non-cash Charges" an addition to [[Operating Income vs. Net Income What's the Difference|Net Income]] in determining cash flow from operations?
 + Because it is non-cash
 + Why are increases in "Accounts Payable and Accrued expenses" an addition to Net income in determining cash flow from operations?
 + They are not cash. It is an expense for the period but not a cash expense. Therefore, you add it back because you only want to find the cash part of the period. Add anything that was a non-cash item.

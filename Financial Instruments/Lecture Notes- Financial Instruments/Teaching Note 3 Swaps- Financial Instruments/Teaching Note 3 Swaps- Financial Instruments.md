@@ -18,7 +18,7 @@ title: Teaching Note 3 SwapsFinancial Instruments
  **[[Teaching Note 4-Multiperiod Binomial Trees]]**
  [[Teaching Note 5Black Scholes Formula]]
  [[Teaching Note 6-Implied Volatility]]
- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation]]
+ [[Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation]]
  [[Teaching Note 8 American Options]]
  [[Teaching Notes 9Corporate Securities And Credit Derivatives]]
  [[Teaching Notes 9ACredit Default Swaps]]
@@ -129,7 +129,7 @@ The number of swaps that exist in the market is very large. • The most common 
 1. Energy swaps
 	1. One party pays a fixed amount and the other party pays a floating amount linked to some energy index,  such as oil prices,  gas prices,  etc.
 1. Basis swaps
-	1. Both parties make floating payments,  but linked to different indices,  such as LIBOR versus Treasuries
+	1. Both parties make floating payments,  but linked to different indices,  such as [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] versus Treasuries
 1. Total return swaps
 	1. Both parties make floating payments,  linked to the total return of different securities.
 	1. E.g. one party may pay the total return of Apple stock and the other the total return of Microsoft stock.
@@ -199,7 +199,7 @@ The number of swaps that exist in the market is very large. The most common are:
 1. **Energy swaps**
 	- One party pays a fixed amount and the other party pays a floating amount linked to some energy index,  such as oil prices,  gas prices,  etc.
 1. **Basis swaps**
-	- Both parties make floating payments,  but linked to different indices,  such as LIBOR versus Treasuries.
+	- Both parties make floating payments,  but linked to different indices,  such as [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] versus Treasuries.
 1. **Total return swaps**
 	- Both parties make floating payments,  linked to the total return of different securities.
 	- E.g.,  one party may pay the total return of Apple stock and the other the total return of Microsoft stock.

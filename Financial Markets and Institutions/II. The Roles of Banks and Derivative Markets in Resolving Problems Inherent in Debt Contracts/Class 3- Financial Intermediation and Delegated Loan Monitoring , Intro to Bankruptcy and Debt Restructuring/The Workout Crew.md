@@ -31,7 +31,7 @@ But when business soured,  the solicitous loan officer disappeared. Then "this n
 
 Such trauma is becoming more common. Business failures rose nearly **50%** in **1981**,  and what bankers refer to as "nonperforming loans" doubled and tripled at many institutions. Banks' intensive-care wards,  or workout areas (literally,  where problems are "worked out"),  are already crowded and likely to become more so if the economy doesn't improve.
 
-Neither companies nor banks trumpet the arrival of the special forces,  but an announcement of "debt restructuring" is a signal that the workout crew has taken charge. Other signs: news reports that "lenders" forced a "troubled company" to dismiss its president,  sell a division,  or forgo new products. Those mysterious and pushy "lenders" are usually workout people.
+Neither companies nor banks trumpet the arrival of the special forces,  but an announcement of "[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Debt Restructuring ]]" is a signal that the workout crew has taken charge. Other signs: news reports that "lenders" forced a "troubled company" to dismiss its president,  sell a division,  or forgo new products. Those mysterious and pushy "lenders" are usually workout people.
 
 Thus,  when the chairman and six other officers or directors of Wickes Co. quit this week,  holders of the company's heavy debt insisted they were just bystanders. But the chief workout officer at one bank,  Richard Daniel of Security Pacific,  did comment that,
 
@@ -51,7 +51,7 @@ Companies listen for one reason: **Knuckling under beats bankruptcy**,  the like
 
 Big workouts,  such as Chrysler and International Harvester,  attract lots of attention. But mostly workout units move quietly,  much to the relief of their patients. Like people who undergo radical surgery,  companies often find workout so painful and embarrassing that they don't want to discuss it,  even after they are back on their feet.
 
-Says Harris Levin,  a New York bankruptcy lawyer: "It's a humiliation and a nightmare."
+Says Harris Levin,  a New York [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] lawyer: "It's a humiliation and a nightmare."
 
 ### **Low Profile**
 
@@ -95,11 +95,11 @@ Workout officers weren't invited. But those from three banks,  who knew one anot
 
 ## Need for Specialists
 
-There once was a time when workout was a banking backwater,  where bankruptcy specialists kicked the bones of dead customers. It was thought easier to let sick companies go under and bear the loss than to try to find a way to keep them alive.
+There once was a time when workout was a banking backwater,  where [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] specialists kicked the bones of dead customers. It was thought easier to let sick companies go under and bear the loss than to try to find a way to keep them alive.
 
-But then bankruptcy actions arose at such giants as **Penn Central** and **W.T. Grant**: their debts were scattered among many banks,  which had to squabble over the remains. There were huge,  embarrassing write-offs.
+But then [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] actions arose at such giants as **Penn Central** and **W.T. Grant**: their debts were scattered among many banks,  which had to squabble over the remains. There were huge,  embarrassing write-offs.
 
-Next,  Chrysler and other big borrowers got in trouble with the changing markets and difficult economy. Banks realized they would have to start restructuring debts en masse or face numerous multimillion-dollar write-offs. Most chose to create squads of officers who did nothing but work with customers to change business habits and try to restore profitability. Even smaller banks began adding full-time troubleshooters.
+Next,  Chrysler and other big borrowers got in trouble with the changing markets and difficult economy. Banks realized they would have to start [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]]s en masse or face numerous multimillion-dollar write-offs. Most chose to create squads of officers who did nothing but work with customers to change business habits and try to restore profitability. Even smaller banks began adding full-time troubleshooters.
 
 But not all troubled companies are ready to accept a bank as **Big Brother**. William F. (Will) Farah recently took some lenders to court on a complaint that they brought his company close to bankruptcy. He had quit as president of Farah Manufacturing Co. when it went through hard times in the mid-1970s.
 

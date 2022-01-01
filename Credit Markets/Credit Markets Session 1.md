@@ -13,7 +13,7 @@ title: Credit Markets Session 1
 - Course objective: introduce basic concepts on pricing,  trading and portfolio risk management for credit instruments. Discuss credit market segments,  seniority ranks,  instrument types & specs,  quoting conventions,  execution venues and trading protocols
 - Understand the valuation of an instrument with default risk
 - Focus on:
-	 - corporate bonds and loans,
+	 - [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] and loans,
 	 - foreign sovereign bonds,
 	 - fixed income ETFs,
 	 - Credit Default Swaps (CDS) and
@@ -40,7 +40,7 @@ title: Credit Markets Session 1
 	 - higher risk of default
 - Role of credit rating agencies in assessing issuer default risk
 ![](41f1460878fe978d3c07cc92d3d99568.png)
-# INSTRUMENT TYPES & CONTRACTUAL SPECS CONTRACTUAL SPECS: CORPORATE BONDS
+# INSTRUMENT TYPES & CONTRACTUAL SPECS CONTRACTUAL SPECS: [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 - Issuer name
 - Issue currency,  price and amount
@@ -49,7 +49,7 @@ title: Credit Markets Session 1
 - Coupon payment type: fixed rate,  floating rate (+ reset index),  variable rate,  etc
 - Coupon frequency & day count convention: semi-annual,  30/360,  etc
 - Call/Put schedules / embedded optionality: right to exercise call/put options at pre-specified prices
-- Covenants (positive vs negative,  mostly high yield)
+- [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] (positive vs negative,  mostly high yield)
 ![](8adf926c7b99b2d66bd9490420329665.png)
 # INSTRUMENT TYPES & CONTRACTUAL SPECS FIXED RATE IG BOND EXAMPLE: ORACLE
 
@@ -113,7 +113,7 @@ Market Participants: Mostly Institutional Players
 
 # SIZE OF THE US CORPORATE BOND MARKET
 
-- USD denominated corporate bonds
+- USD denominated [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 - ~100K bonds total ~10K liquid
 - Outstanding notional value: ~ 10T USD
 - Average daily volume: ~ 40B USD
@@ -311,7 +311,7 @@ $$\text{spread} + \text{spread curve roll down} + \text{spread convexity}$$.
 - Credit instruments & contractual spec
 - Market participants
 - Trading details
-- Corporate bonds: valuation and risk
+- [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]: valuation and risk
 - Corporate credit spreads
 - Interest rate hedging
 

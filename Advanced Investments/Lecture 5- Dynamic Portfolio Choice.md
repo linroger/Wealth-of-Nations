@@ -1,22 +1,23 @@
 ---
-aliases: [Alias_116_Lecture 5- Dynamic Portfolio Choice.md,  Example_Alias_Lecture 5- Dynamic Portfolio Choice]
+
 tags: [tag_example,  example_tag]
-title: Lecture 5Dynamic Portfolio Choice
+title: Lecture 5Dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 ---
 
-# Lecture 5Dynamic Portfolio Choice
+# Lecture 5-Dynamic Portfolio Choice
+[[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 
 When we derived mean-variance optimal portfolio weights in earlier lectures,  we assumed an IID setting. Moreover,  when we derived the optimal portfolio formulas,  we assumed that the investor maximizes expected utility of wealth at a one-period horizon. Based on the IID assumption,  we plugged estimates of unconditional means and covariances into the resulting optimal portfolio formula. This brings up two issues.
 
-First,  in practice,  the horizons of some investors could be very long. Pension funds and retirement investors may have investment horizons stretching to several decades. And they don't have to buy-and-hold over this long horizon. They can reshuffle their portfolio along the way. For this reason,  we cannot necessarily just treat their multidecade horizon as one period and assume they choose a portfolio today to maximize the expected utility of wealth at the end of this long period and they then just buy and hold this portfolio. Moreover,  the mean-variance solution for the portfolio choice that we developed in earlier lectures was based on an approximation that,  as we discussed,  was only reasonably accurate for relatively short time-horizons. Just plugging expected values and variances of long-term returns into this formula would not work well.
+First,  in practice,  the horizons of some investors could be very long. Pension funds and retirement investors may have investment horizons stretching to several decades. And they don't have to buy-and-hold over this long horizon. They can reshuffle their portfolio along the way. For this reason,  we cannot necessarily just treat their multidecade horizon as one period and assume they choose a portfolio today to maximize the expected utility of wealth at the end of this long period and they then just buy and hold this portfolio. Moreover,  the mean-variance solution for the [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] that we developed in earlier lectures was based on an approximation that,  as we discussed,  was only reasonably accurate for relatively short time-horizons. Just plugging expected values and variances of long-term returns into this formula would not work well.
 
 Second,  in the past two lectures we discussed evidence that stock market returns and volatility are predictable. This means that conditional expected returns in excess of risk-free rates and conditional volatility appear to be varying over time. If a long-term investor is aware of this,  and therefore anticipates that risky asset returns will not be IID over the investment horizon,  does this change the portfolio weights that investor should choose initially?
 
-In this lecture,  we therefore consider the dynamic portfolio choice problem: how should a long-term investor optimally choose a portfolio in each period along the way until the end of the investment horizon? As it turns out,  the question of how to choose a dynamically optimal portfolio for a long-term investor is actually an enormously challenging problem that defies exact calculation with nice formulas - even if one used advanced mathematical tools far beyond what's feasible in this course. It is difficult because
+In this lecture,  we therefore consider the dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problem: how should a long-term investor optimally choose a portfolio in each period along the way until the end of the investment horizon? As it turns out,  the question of how to choose a dynamically optimal portfolio for a long-term investor is actually an enormously challenging problem that defies exact calculation with nice formulas - even if one used advanced mathematical tools far beyond what's feasible in this course. It is difficult because
 
 there are so many moving parts that could possibly be interdependent in complicated ways. The portfolio return at $t+1$ depends on the portfolio weight $\omega_{t}$ we choose at $t$; the return at $t+2$ depends on the weight we choose at $t+1$,  etc.,  so there are lots of choices to be made. And if market conditions (expected returns and risk) are changing over time,  presumably these weights should change with these conditions? And if we anticipate that these conditions and our portfolio weights could change at next period,  or in periods in the more distant future,  shouldn't this already influence how we position the portfolio today?
 
-We will approach this problem by first looking properties of risk and return over the long-run. Then we turn to the general dynamic portfolio choice problem to understand better why it is so difficult. Then we consider a number of simplified approaches. These simplified approaches will allow discover some principles that should guide long-term portfolio choice. To keep the analysis sufficiently tractable so that we can still get to some insights,  we will focus on the case where we choose between a single risky asset (think a stock index) and a risk-free asset. This way we can focus on the dynamic aspects of how risk,  return,  and portfolio choices intermingle and compound over time,  with fewer complications from the question of how to choose among risky assets.
+We will approach this problem by first looking properties of risk and return over the long-run. Then we turn to the general dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problem to understand better why it is so difficult. Then we consider a number of simplified approaches. These simplified approaches will allow discover some principles that should guide long-term [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]. To keep the analysis sufficiently tractable so that we can still get to some insights,  we will focus on the case where we choose between a single risky asset (think a stock index) and a risk-free asset. This way we can focus on the dynamic aspects of how risk,  return,  and [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]s intermingle and compound over time,  with fewer complications from the question of how to choose among risky assets.
 
 For most of the analyses below,  we also make some statistical assumptions. These assumptions need to be both empirically plausible and,  at the same time,  also give us tractability. We assume that the risky asset returns are conditionally log-normal,  with log returns generated as
 
@@ -48,7 +49,7 @@ We further assume that unexpected shocks to $\mu_{t}$ are drawn from a joint nor
 
 ### 5.1 Properties of long-run risky asset returns
 
-The properties of the probability distribution of long-term investor's final wealth depend on the portfolio weights and the probability distribution of long-term returns. As a first step,  it is therefore useful to get a better understanding of the properties of long-run returns and how they relate to the properties of short-run returns.
+The properties of the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of long-term investor's final wealth depend on the portfolio weights and the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of long-term returns. As a first step,  it is therefore useful to get a better understanding of the properties of long-run returns and how they relate to the properties of short-run returns.
 
 ### 5.1.1 Long-run return
 
@@ -302,7 +303,7 @@ The fallacy of the time-diversification argument lies in the focus on the standa
 
 But when returns are not IID,  $\operatorname{var}\left(r_{t: t+h}\right) / h$,  can depend on the horizon $h$. For example,  with mean-reversion in prices,  risk can indeed disappear to some extent in the long run because short-term movements in asset prices partly offset each other over time.
 
-We can see this if we go back to our simulated valuation model with investor sentiment from lecture 3. When $\phi$ is close to one in this model,  sentiment is very persistent and sentiment-induced mispricing takes a very long time to correct. When $\phi$ is close to zero,  sentiment quickly changes and mispricing rapidly corrects,  which makes prices strongly mean-reverting and returns strongly negatively autocorrelated. We can use these simulations to study the effect of mean reversion on long-run return volatility.
+We can see this if we go back to our simulated valuation model with [[Lecture 4- Investor Sentiment|investor sentiment]] from lecture 3. When $\phi$ is close to one in this model,  sentiment is very persistent and sentiment-induced mispricing takes a very long time to correct. When $\phi$ is close to zero,  sentiment quickly changes and mispricing rapidly corrects,  which makes prices strongly mean-reverting and returns strongly negatively autocorrelated. We can use these simulations to study the effect of mean reversion on long-run return volatility.
 
 Using the same simulated data as in Table 5.1,  I calculate calculate the variance of quarterly $\log$ returns and $(1 / 40) \times$ the variance of 10 -year log returns. ${ }^{3}$ Table 5.3 shows the result.
 
@@ -330,7 +331,7 @@ What about empirical data? Table 5.4 shows a similar exercise using empirical da
 
 ### 5.2 The general dynamic portfolio problem
 
-Let's now turn to optimal portfolio choice for a long-term investor. Consider an investor who maximizes expected utility over final wealth after $h$ periods. Assume this investor has CRRA (constant relative risk aversion) preferences,  i.e.,  utility is
+Let's now turn to optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] for a long-term investor. Consider an investor who maximizes expected utility over final wealth after $h$ periods. Assume this investor has CRRA (constant relative risk aversion) preferences,  i.e.,  utility is
 
 $$
 
@@ -516,7 +517,7 @@ $$
 
 Maximizing this expected utility for $\gamma=1$ is equivalent to maximizing the expected log long-run return on the portfolio. Since the portfolio return is a sum of individual period $\log$ returns,  and the portfolio weight $\omega_{t}$ only affects the period $t+1$ portfolio return,  and not the other returns in the more distant future,  this objective calls simply for choosing $\omega_{t}$ to maximize $\mathbb{E}_{t}\left[r_{p,    t+1}\right]$. In other words,  the dynamic multi-period problem reduces to a simple one-period problem that calls for maximizing the expected log portfolio return over the next period! The problem simplifies nicely in this special case.
 
-As we will see now,  this solution in the $\gamma=1$ case is closely connected to an approach to dynamic portfolio choice that has a devoted following among some investment practitioners. The approach is sometimes advertised as a universally preferable approach that is suitable for any investor irrespective of their risk preferences. As we will see,  this claim does not make sense. But let's first look at the approach.
+As we will see now,  this solution in the $\gamma=1$ case is closely connected to an approach to dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] that has a devoted following among some investment practitioners. The approach is sometimes advertised as a universally preferable approach that is suitable for any investor irrespective of their risk preferences. As we will see,  this claim does not make sense. But let's first look at the approach.
 
 The idea is to look for portfolio weights that maximize the long-run growth rate of wealth,  or,  equivalently,  the geometric mean return. This portfolio is known as the growth-optimal portfolio,  or a portfolio selected according to the Kelly Criterion.
 
@@ -664,9 +665,9 @@ Figure 5.1: Log wealth evolution for portfolios of different riskiness. Growth-o
 
 stayed ahead of the others most of the time until around day 40,  000,  it subsequently falls substantially behind the more conservative portfolios with $\gamma>1$ that have a lower share allocated to equities. In the simulation,  this happens to be a prolonged period of poor stock market performance,  and hence portfolios with more conservative allocation do better. Only after about 100,  000 days,  at the very end of the chart,  the growth-optimal portfolio gets ahead of the others again.
 
-Figure 5.1c shows that up to 1 million trading days ( 4,  000 years) the growth-optimal portfolio stays ahead of the others. Does this mean that we have found the point where it outperforms the others forever? Not clear. That it is ahead for so long is not a mathematical proof that we have found the point in time from which onwards it dominates forever. But even if it did,  what relevance does this have for a practical portfolio choice problem that it outperformed all the others,  finally,  after 400 years? And in other circumstances,  if the path of random shocks that generated the stock index returns is different,  it could take more longer,  say 1,  000 years? Or 10,  000?
+Figure 5.1c shows that up to 1 million trading days ( 4,  000 years) the growth-optimal portfolio stays ahead of the others. Does this mean that we have found the point where it outperforms the others forever? Not clear. That it is ahead for so long is not a mathematical proof that we have found the point in time from which onwards it dominates forever. But even if it did,  what relevance does this have for a practical [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problem that it outperformed all the others,  finally,  after 400 years? And in other circumstances,  if the path of random shocks that generated the stock index returns is different,  it could take more longer,  say 1,  000 years? Or 10,  000?
 
-To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10,  000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our portfolio choice rule. We always start with 1$ of wealth and then simulate 1,   000 return series with length of 10,   000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
+To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10,  000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] rule. We always start with 1$ of wealth and then simulate 1,   000 return series with length of 10,   000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
 
 Figure 5.2a shows the result. We can see that the growth-optimal portfolio with $\gamma=1$ does not clearly dominate other portfolios. It has less downside risk than the portfolio with $\gamma=0.5$. The latter portfolio is so risky that it frequently leads to large losses that bring the wealth at the end of our evaluation period close to zero. However,  as Figure 5.2 b shows,  which zooms in on the right tail of the distribution that is cut off in Figure 5.2 a ,  the riskiness of the $\gamma=0.5$ portfolio also brings substantially higher chances than the growth-optimal portfolio of an extremely large wealth gain. And it delivers a higher return on average,  as shown in the table below: on average,  wealth grows by $4695 \%$ with $\gamma=0.5$ and only $1001 \%$ with the growth-optimal portfolio strategy.
 
@@ -677,7 +678,7 @@ Table 5.5: Simulations of portfolio risk and return over 40-year horizon
 | Mean | 46.95        | 17.53         | 10.01      | 7.02          | 5.49         | 4.57          | 3.97       |
 | S.D. | 348.37       | 57.38         | 20.18      | 10.35         | 6.47         | 4.55          | 3.44       |
 
-Which of these portfolio allocation policies,  and the probability distribution of wealth
+Which of these portfolio allocation policies,  and the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of wealth
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-174.jpg?height=640&width=795&top_left_y=474&top_left_x=622)
 
@@ -846,7 +847,7 @@ Table 5.6: Short and long-horizon optimal fixed-weight portfolios in the sentime
 
 We can examine the effects of mean reversion by going back to the simulated data from the sentiment model that we examined earlier. Table 5.6 shows the optimal weights in a fixed-weight strategy for an investor with quarterly horizon (first row) and an investor with 10-year horizon (second row). In both cases,  the investor has CRRA with $\gamma=5$. The extreme mean-reversion case $\phi=0.15$ illustrates nicely how an investor with a short-horizon would find stocks very risky and,  as a result,  invest only a small share in equities. A long-horizon investor recognizes that much of this risk cancels out in the long run and is willing to invest a much higher share in equities. In the empirically realistic case of $\phi=0.95$,  the wedge in optimal portfolio shares between shortand long-run perspectives is smaller,  but still not trivial.
 
-An extension to multiple risky assets would not be difficult in the optimal fixedweights case. Just like single risky asset allocation depends on variance of long-run log returns,  the multiple risky asset allocation would depend on the covariance matrix of long-run log returns.
+An extension to multiple risky assets would not be difficult in the optimal fixedweights case. Just like single risky [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] depends on variance of long-run log returns,  the multiple risky [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] would depend on the covariance matrix of long-run log returns.
 
 To complete the optimal fixed-weight portfolio analysis,  there is one additional issue that we need to address. What is the risk-free asset for a long-term investor? In the simulations,  the risk-free rate was fixed over time and so the risk-free asset is not only risk-free in the short-run but also risk-free in the long-run.
 
@@ -858,7 +859,7 @@ Ideally,  we would want to look at the price of this bond at the start of the in
 
 Unfortunately,  the returns on such a portfolio over,  say,  a 10-year horizon are quite different from the returns on a 10-year bond held to maturity. We will discuss risks of such bond portfolios in more detail in later lectures,  but for now it suffices to say that during the past decades,  an investor with a 10-year horizon would have actually experienced slightly more volatile 10 -year log returns on a portfolio that rolls over bonds with approximately 10-year maturity than on an investment in a portfolio that rolls over short-term Treasury bills. So unless one is using the cumbersome approach of evaluating returns on buy-and-hold positions in bonds of maturities that match the investor's investment horizon,  it can be fine to stick to using Treasury bills as the riskfree asset proxy,  even though they are not truly risk-free over long investment horizons.
 
-### 5.5 Adaptive asset allocation
+### 5.5 Adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]
 
 Many institutional investors follow variants of the fixed-weight strategy that we discussed in the previous section. Many balanced funds,  for example,  follow a strict policy of regularly rebalancing to fixed weights. Vanguard Balanced Index Fund describes its investment policy as follows:
 
@@ -866,7 +867,7 @@ With $60 \%$ of its assets,  the fund seeks to track the investment performance 
 
 Target date funds,  which have become ubiquitous as a retirement investment vehicle in $401(\mathrm{k})$ and other retirement accounts,  have target allocations that follow a preset glide path toward the funds target date (usually lower allocations to equity over time). These funds also regularly rebalance their portfolio weights to set them equal to the target glide path weights. These weights are not literally fixed,  but they vary only according to a deterministic schedule as a function of the investor's age. In this sense,  they also resemble the fixed-weight strategy we analyzed in this section. There is no uncertainty about future weights.
 
-Endowments and pension funds typically set a strategic asset allocation policy that specifies weights for different asset classes with a range around the target. This is like approximately fixed weights with some flexibility. Figure 5.3 shows an example from CalPERS. While the "income" (fixed income) portion of their portfolio is 1.6 percentage points above the target of $28 \%$,  this deviation is still well within the range of $+/-6$ percentage points allowed by their policy. Portfolio managers can,  but don't have to rebalance yet toward the target. It becomes an active choice.
+Endowments and pension funds typically set a strategic [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] policy that specifies weights for different asset classes with a range around the target. This is like approximately fixed weights with some flexibility. Figure 5.3 shows an example from CalPERS. While the "income" (fixed income) portion of their portfolio is 1.6 percentage points above the target of $28 \%$,  this deviation is still well within the range of $+/-6$ percentage points allowed by their policy. Portfolio managers can,  but don't have to rebalance yet toward the target. It becomes an active choice.
 
 So what are we effectively doing if we rebalance frequently toward a fixed target allocation? Rebalancing requires selling assets that have appreciated (hence their portfolio weight has increased) and buying assets that have fallen in value. So we are effectively following a contrarian strategy.
 
@@ -874,7 +875,7 @@ It is in some sense an active investment strategy because we are buying and sell
 
 Public Employees' Retirement Fund (PERF) As of September 30,  2021
 
-| Asset Allocation                |                          |                        |                          |                      |                    |
+| [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]                |                          |                        |                          |                      |                    |
 | ------------------------------- | ------------------------ | ---------------------- | ------------------------ | -------------------- | ------------------ |
 |                                 | Ending Asset Value (bil) | Current Allocation (%) | Policy Target Weight (%) | Policy Variance  (%) | Policy Range       |
 | Public Equity ${ }^{1}$         | $ 241.1                  | 50.2\%                 | 50.0\%                   | 0.2\%                | $\pm 7 \%$         |
@@ -892,7 +893,7 @@ Public Employees' Retirement Fund (PERF) As of September 30,  2021
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-180.jpg?height=524&width=527&top_left_y=540&top_left_x=1189)
 
-Figure 5.3: CalPERS Asset allocation September 2021
+Figure 5.3: CalPERS [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] September 2021
 
 To see the contrast to a passive strategy,  recall our discussion in Lecture 2 of the absence of trading needs when an investor holds the market portfolio,  or,  more generally,  when an investor replicates a value-weighted index. As a reminder,  let's quickly revisit this using the example of a value-weighted stock index. With $N$ stocks,  a price $p_{i,    t}$ of stock $i$ at time $t$,  and shares outstanding for each stock of $s_{i}$ (assumed constant),  the weight of each stock in the index at $t$ is
 
@@ -984,7 +985,7 @@ If the only reason why the values $V_{e}$ and $V_{b}$ changed were price changes
 
 The same logic applies analogously with more than two asset classes. For example,  if we hold a portfolio of several global asset classes,  we need estimates of the total market value of all assets globally in these classes.
 
-Nobel laureate Bill Sharpe has called this approach to (mostly avoid) portfolio rebalancing an adaptive asset allocation policy. ${ }^{5}$
+Nobel laureate Bill Sharpe has called this approach to (mostly avoid) portfolio rebalancing an adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] policy. ${ }^{5}$
 
 I use the data on aggregate stock and debt holdings of U.S. investors that we looked at earlier in Figure 1.12 to calculate $V_{e,    t}$ and $V_{b,    t}$ at the end of every quarter from December 1951 to December 2022. And then,  starting with an initial portfolio of $60 / 40$ at the end of 1951,  I use these to calculate the adaptive allocation to equity following (5.55) every quarter. Figure 5.4 shows the result.
 
@@ -992,7 +993,7 @@ As the figure shows,  the adaptive portfolio has above-average allocations to eq
 
 [^24]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-184.jpg?height=949&width=1201&top_left_y=290&top_left_x=424)
 
-Figure 5.4: Equity share with adaptive asset allocation policy
+Figure 5.4: Equity share with adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] policy
 
 COVID pandemic in 2020,  and below-average allocations following stock market downturns such as during the depth of the financial crisis in 2008-09.
 
@@ -1042,7 +1043,7 @@ The last one is there to have a benchmark for comparison with the adaptive strat
 
 Panel A looks at mean,  standard deviation,  and Sharpe ratio of quarterly returns of the three strategies,  with all statistics annualized. In this short-term returns analysis,  I use T-bill returns as the risk-free asset return proxy. As the table shows,  the differences between the three strategies' outcomes are not big. But the adaptive strategy does a little worse in terms of Sharpe ratio returns than the third strategy that has the same
 
-average exposure to stocks. If returns were IID,  as we have assumed in our theoretical analyses so far,  this should not be the case. Part of this worse performance is due to a somewhat lower average excess return. This is consistent with the evidence we discussed that high stock market valuation levels have historically been followed by relatively poor returns on stocks. The contrarian market-timing of the fixed-weight strategy provides a little performance boost relative to the passive adaptive asset allocation strategy.
+average exposure to stocks. If returns were IID,  as we have assumed in our theoretical analyses so far,  this should not be the case. Part of this worse performance is due to a somewhat lower average excess return. This is consistent with the evidence we discussed that high stock market valuation levels have historically been followed by relatively poor returns on stocks. The contrarian market-timing of the fixed-weight strategy provides a little performance boost relative to the passive adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy.
 
 Panel B takes the perspective of a long-term investor and evaluates outcomes of the three strategies at a 10-year investment horizon ( $h=40$ quarters). With long-term returns,  we should not simply take means and standard deviations of simple long-term returns to calculate a Sharpe ratio. For the Sharpe ratio to be a good summary of the risk-return profile of an asset or portfolio,  the distribution of the returns should not be too far from normal. However,  long-term simple returns are strongly positively skewed (since they have downside bounded at $-100 \%$,  but unlimited upside) and hence variance of long-term simple returns is not a good risk measure. But an examination of the optimal fixed-weight formula (5.48) gives us a hint how we could address the issue. Under the log-normal distribution,  the numerator in that formula is the log expected simple long-run excess return and the formula relates it to the variance of the long-run log return in the denominator. In the same way,  we can construct a long-run Sharpe ratio with good properties for log-normally distributed returns as follows:
 
@@ -1060,13 +1061,13 @@ where $r_{f,    t: t+h}$ is an appropriate proxy for the rate of return on a lon
 
 If returns are IID $\log$-normal,  then $\log \left(1+\mathbb{E}\left[R_{p,    t: t+h}\right]\right)$ and $\operatorname{var}\left(r_{p,    t: t+h}\right)$ grow proportionally with $h$ and hence $L R S R$ does not change with horizon-which is a sensible result for an IID environment.
 
-Panel B shows that the long-run Sharpe ratios are all lower than the Sharpe ratios in Panel A for the fixed-weight strategies. This is a consequence of using the bond portfolio returns as risk-free asset return proxies. Long-term bonds had higher returns than T-bills during the sample period analyzed in this table,  so we are subtracting higher numbers when we construct excess returns. (If one uses T-bill returns instead,  the long-run Sharpe ratios are slightly higher than the short-run Sharpe ratios in Panel A,  consistent with a variance-reducing effect of mean reversion in stock prices). In terms of relative performance between the three strategies,  the message from the longterm Sharpe ratios in Panel B is the same as in Panel A: the adaptive asset allocation strategy underperforms.
+Panel B shows that the long-run Sharpe ratios are all lower than the Sharpe ratios in Panel A for the fixed-weight strategies. This is a consequence of using the bond portfolio returns as risk-free asset return proxies. Long-term bonds had higher returns than T-bills during the sample period analyzed in this table,  so we are subtracting higher numbers when we construct excess returns. (If one uses T-bill returns instead,  the long-run Sharpe ratios are slightly higher than the short-run Sharpe ratios in Panel A,  consistent with a variance-reducing effect of mean reversion in stock prices). In terms of relative performance between the three strategies,  the message from the longterm Sharpe ratios in Panel B is the same as in Panel A: the adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy underperforms.
 
-So unless we are convinced that valuation cycles in the stock market reflect timevarying risk aversion or time-varying risk and that we (or our clients) share this timevariation in risk aversion or these time-varying risk perceptions,  it's not clear that an adaptive asset allocation strategy is preferable. The contrarian trading implied by a fixed-weight strategy may actually be preferable and worth the small transaction cost of rebalancing. It's a simple,  relatively robust way of exploiting the tendency of stock market returns to mean-revert without having to estimate a statistical return-prediction model.
+So unless we are convinced that valuation cycles in the stock market reflect timevarying risk aversion or time-varying risk and that we (or our clients) share this timevariation in risk aversion or these time-varying risk perceptions,  it's not clear that an adaptive [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] strategy is preferable. The contrarian trading implied by a fixed-weight strategy may actually be preferable and worth the small transaction cost of rebalancing. It's a simple,  relatively robust way of exploiting the tendency of stock market returns to mean-revert without having to estimate a statistical return-prediction model.
 
 ### 5.6 Myopic market-timing
 
-A practically feasible method that goes some way of taking advantage of the opportunities offered by time-varying expected returns and risk is to solve the portfolio choice problem every period as if returns were IID. This means we use the solution we derived earlier in (5.49),  but now with conditional expected log short-horizon returns,  $\mathbb{E}_{t}\left[r_{t+1}\right]$. So far in this lecture,  we did not allow for a time-varying conditional variance,  $\sigma_{t}^{2}=\operatorname{var}_{t}\left(r_{t+1}\right)$,  but we can now allow for this,  too,  and easily incorporate a time-varying conditional variance in the portfolio formula. With this strategy,  we can also allow for a time-varying short-term risk-free rate:
+A practically feasible method that goes some way of taking advantage of the opportunities offered by time-varying expected returns and risk is to solve the [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] problem every period as if returns were IID. This means we use the solution we derived earlier in (5.49),  but now with conditional expected log short-horizon returns,  $\mathbb{E}_{t}\left[r_{t+1}\right]$. So far in this lecture,  we did not allow for a time-varying conditional variance,  $\sigma_{t}^{2}=\operatorname{var}_{t}\left(r_{t+1}\right)$,  but we can now allow for this,  too,  and easily incorporate a time-varying conditional variance in the portfolio formula. With this strategy,  we can also allow for a time-varying short-term risk-free rate:
 
 $$
 

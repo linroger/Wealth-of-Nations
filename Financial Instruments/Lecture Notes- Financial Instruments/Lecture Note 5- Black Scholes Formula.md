@@ -1,26 +1,25 @@
 ---
-aliases:
-- Alias_166_Lecture Note 5- Black Scholes Formula.md
-- LECTURE NOTE 5 BLACK SCHOLES FORMULA
-- Alias_165_Lecture Note 5- Black Scholes Formula.md
+cssclasses: academia
+aliases: [Alias_166_Lecture Note 5- Black Scholes Formula.md,  LECTURE NOTE 5 BLACK SCHOLES FORMULA,  Alias_165_Lecture Note 5- Black Scholes Formula.md]
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-tags:
-- tag_example
-title: LECTURE NOTE 5 BLACK SCHOLES FORMULA
+tags: tag_example
+title: Lecture Note 5Black Scholes Formula
 ---
-
-
 
 ---
 
 title: LECTURE NOTE 5 BLACK SCHOLES FORMULA
+
 aliases: [LECTURE NOTE 5 BLACK SCHOLES FORMULA]
+
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 
-# Lecture Note 5- Black Scholes Formula
+# Lecture Note 5Black Scholes Formula
 
 [Binomial Tree Steps](Binomial%20Tree%20Steps.md)
+
 [Ch1 Introduction to Derivative Markets](Ch1%20Introduction%20to%20Derivative%20Markets.md)
+
 [The Pricing of Options and Corporate Liabilities](Asset%20Classes/Derivatives/Options/The%20Pricing%20of%20Options%20and%20Corporate%20Liabilities.md)
 
 ## FINANCIAL INSTRUMENTS TEACHING NOTE 5 BLACK AND SCHOLES FORMULA
@@ -39,18 +38,18 @@ involving only stocks and bonds that *replicate* the payoff at$T$of a call or a 
 $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - (µ and σ are the annualized expected log return and volatility)
 - Consider now a put option with strike price K and maturity T.
-- The following trading strategy **replicates** the final payoff $max(K − S_T,           0)$.
+- The following trading strategy **replicates** the final payoff $max(K − S_T,            0)$.
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
 1. At time 0:
-(a) Short$∆0 = −N(−d_{1,          0})$of stocks
-- Here$N(x)$is the standard normal cumulative density function,  and$d_{1,          t}$is$$d_{1,          t}=\frac{\ln\left(S_{t}/K\right)+\left(r+\sigma^{2}/2\right)\left(T-t\right)}{\sigma\sqrt{T-t}}$$
+(a) Short$∆0 = −N(−d_{1,           0})$of stocks
+- Here$N(x)$is the standard normal cumulative density function,  and$d_{1,           t}$is$$d_{1,           t}=\frac{\ln\left(S_{t}/K\right)+\left(r+\sigma^{2}/2\right)\left(T-t\right)}{\sigma\sqrt{T-t}}$$
 - $r$is the continuously compounded risk free rate;$\sigma$is the volatility of stock returns.
-(b) Buy an amount$B_0 = K × e^{−r×T} × N(−d_{2,          0})$of Treasury Zero Coupon bonds.
-- Here$d_{2,          0} = d1,          t − σ × \sqrt{T}$.
+(b) Buy an amount$B_0 = K × e^{−r×T} × N(−d_{2,           0})$of Treasury Zero Coupon bonds.
+- Here$d_{2,           0} = d1,           t − σ × \sqrt{T}$.
 - The portfolio so constructed has value at time 0
 $$P_{0}=B_{0}+\Delta_{0}S_{0}$$
 - (it can be shown P0 > 0).
-1. From now on,  *rebalance* the portfolio,  to make sure that at every t,  the portfolio has a position in stocks given by$$∆t = −N(−d_{1,          t})$$
+1. From now on,  *rebalance* the portfolio,  to make sure that at every t,  the portfolio has a position in stocks given by$$∆t = −N(−d_{1,           t})$$
 - E.g. if$S_{t}$↓ ⇒$∆t$↓⇒ short more stocks and put proceeds into bonds ⇒$B_{t}$↑.
 - Or if$S_{t}$↑ ⇒$∆t ↑$⇒ buy back stocks by liquidating some bonds ⇒$B_{t}$↓.
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
@@ -59,7 +58,7 @@ d1 =; d2 =; N(−d1) = 0.3632; N(−d2) = 0.4404 =⇒ ∆0 = −N(−d1) = −0.
 - Initial short position in stocks:$$∆ × 100 = −N(d_1) × 100 = −0.3632 × 100 = −36.32$$.
 - Initial bond position:$$B_0 = Ke^{-rT}N(−d_2) =41.89$$.
 - Initial value of the portfolio:$$P_0 = B_0 + ∆_0S_0 =41.89 −36.32 =5.57$$
-- One day later (h = 1/252 = 1 day) the stock is$S_h = 99$=⇒$∆h = −N(−d1,          h)$= −0.3821
+- One day later (h = 1/252 = 1 day) the stock is$S_h = 99$=⇒$∆h = −N(−d1,           h)$= −0.3821
 - Need to short more,  and thus sell$|∆_h − ∆_0| = | −0.3821 − (−0.3632)| = 0.0189$shares.
 - Obtain cash =$0.0189 × 99 =1.879$,  and put it in bonds:
 New Bond Position =$$B_h = B_0 × e_{r×h} +1.879 =41.89 −1.879 =43.777$$New Portfolio Position =$$P_h = B_h + ∆_h × S_h =43.777 − × 99 =5.941$$
@@ -71,11 +70,17 @@ New Bond Position =$$B_h = B_0 × e_{r×h} +1.879 =41.89 −1.879 =43.777$$New P
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
 
 ![](Obsidian%202024-10-04%2016.37.30.png)
+
 ![](Obsidian%202024-10-04%2016.37.53.png)
+
 ![](9f437bafc6f0d76f8ad3f0af6ad25e9b6688c490ee3fc154ba46b7b54eb57e4b.png)
+
 ![](807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png)
+
 ![](82c5af46b3.png)
+
 OPTION PREMIUM BY DYNAMIC REPLICATION
+
 ![](b8d85f2f265d55393d652.png)
 
 ### BLACK AND SCHOLES FORMULA
@@ -87,10 +92,10 @@ OPTION PREMIUM BY DYNAMIC REPLICATION
 1. At maturity T the replicating portfolio provides the payoff,  exactly.
 - In particular,  at time 0,  the value of the option mu$S_{t}$be
 Put Premium at 0,  $p_{0}\ =\ P_{0}=B_{0}+\Delta_{0}\times S_{0}$
-$$=\ K\times e^{-rT}\times N(-d_{2,          0})-S_{0}\times N(-d_{1,          0})$$
+$$=\ K\times e^{-rT}\times N(-d_{2,           0})-S_{0}\times N(-d_{1,           0})$$
 - This is the celebrated "Black and Scholes" formula for option pricing.
 - Similarly,  a call option formula is given by
-$$\mathrm{Call~Premium~at~0,          ~}c_{0}=S_{0}\times N(d_{1,          0})-K\times e^{-r T}\times N(d_{2,          0})$$
+$$\mathrm{Call~Premium~at~0,           ~}c_{0}=S_{0}\times N(d_{1,           0})-K\times e^{-r T}\times N(d_{2,           0})$$
 ## DELTA HEDGING AND DYNAMIC REPLICATION
 - Why does the dynamic replication strategy work?
 - Suppose you sold a put option and decide to hedge using the replicating portfolio P.
@@ -114,7 +119,7 @@ interest rate is r = 5%,  maturity is T = 1,  and the return volatility σ = 30%
 - We then have
 $$d_{1}=\frac{\log\left(\frac{S}{K}\right)+(r-\delta+\sigma^{2}/2)T}{\sigma\sqrt{T}}=\frac{\log\left(\frac{100}{100}\right)+(+(0.30)^{2}/2)\times1}{0.30\sqrt{1}}=0.3167;$$
 $$d_{2}=d_{1}-\sigma\sqrt{T}=0.3167-\sqrt{1}=0.0167$$
-$\bullet$Therefore$N(d_{1})=0.62425$and$N(d_{2})=0.50665$.
+- Therefore$N(d_{1})=0.62425$and$N(d_{2})=0.50665$.
 - The value of the call option is
 $$c_{0}=SN(d_{1})-Ke^{-rT}N(d_{2})=100\times0.62425-100\times e^{\times1}\times0.50665=14.2312$$
 - The value of a put option can be computed from these data by recalling that
@@ -130,11 +135,11 @@ $$p_0 = −SN(−d1) + Ke^{-rT}N(−d2) = −100 × 0.37575 + 100 × e^{1 × 0.4
 	- **Fact:** As n goes to infinity,  the Binomial Tree price converges to Black and Scholes price
 	- To see the similarity of Black and Scholes formula with the one stemming from a binomial tree,  consider the following example.
 ![]d9eae26af9a0ff47259210.png)
-- Consider i = 0 and i = 1 with$S_{1,          u} = S_0 × u$and$S_{1,          d} = S_0 × d$.
+- Consider i = 0 and i = 1 with$S_{1,           u} = S_0 × u$and$S_{1,           d} = S_0 × d$.
 - Assume the price of the option has S1,  u *> K > S*1,  d,  so that the payoffs from the tree above result.
 - Let$q^∗$be the risk neutral probability of going up in the tree.
 - The price of the option at time 0 according to risk neutral pricing is the
-$$c_{0}=e^{-r\times T}E^{*}\left[\max(S_{1}-K)\right]$$$$=e^{-r\times T}\times\left[q^{*}\times\max(S_{1,          u}-K)+(1-q^{*})\times\max(S_{1,          d}-K)\right]$$$$=e^{-r\times T}\times q^{*}\times(S_{1,          u}-K)$$$$=S_{0}\times e^{-r\times T}\times q^{*}\times u-e^{-r\times T}\times K\times q^{*}$$$$=S_{0}\times N_{1}-e^{-r\times T}\times K\times N_{2}$$
+$$c_{0}=e^{-r\times T}E^{*}\left[\max(S_{1}-K)\right]$$$$=e^{-r\times T}\times\left[q^{*}\times\max(S_{1,           u}-K)+(1-q^{*})\times\max(S_{1,           d}-K)\right]$$$$=e^{-r\times T}\times q^{*}\times(S_{1,           u}-K)$$$$=S_{0}\times e^{-r\times T}\times q^{*}\times u-e^{-r\times T}\times K\times q^{*}$$$$=S_{0}\times N_{1}-e^{-r\times T}\times K\times N_{2}$$
 - where,  defining by$u_{vc}$the annualized c.c. return from an up movement$S_{1,  u}/S_{0}=e^{u_{vc}\times T}=u$$$N_{1}=e^{-r\times T}\times q^{*}\times u=e^{(u_{vc}-r)\times T}\times q^{*}\quad\text{and}\quad N_{2}=q^{*}$$
 - The similarity with Black and Scholes formula is not coincidential
 $$\mathrm{Call}=S\times N(d_{1})-K\times e^{-r T}\times N(d_{2})$$
@@ -143,10 +148,10 @@ $$\mathrm{Call}=S\times N(d_{1})-K\times e^{-r T}\times N(d_{2})$$
 - $N_1 = N(d_1)$risk neutral expected excess return *conditional* on exercise at T.
 - Indeed,  recall we obtained the following formula in TN 4 for a large number of steps n:
 $$c_0\:=\:e^{-rT}E^*\left[\max(S_T-K)\right]$$
-$$=\left.e^{-r\times T}\sum_{j=0}^n\left(\frac{n!}{j!(n-j)!}\right)\max(S_{T,          j}-K)\right.$$
-· where $S_{T,          j}=S_0\times u^{(n-j)}\times d^j.$ · Let $a$ be the smallest integer for which $S_{T,          j}>K$ for $j\geq a,          $ and $S_{T,           j}< K$for$j<a$
+$$=\left.e^{-r\times T}\sum_{j=0}^n\left(\frac{n!}{j!(n-j)!}\right)\max(S_{T,           j}-K)\right.$$
+· where $S_{T,           j}=S_0\times u^{(n-j)}\times d^j.$ · Let $a$ be the smallest integer for which $S_{T,           j}>K$ for $j\geq a,           $ and $S_{T,            j}< K$for$j<a$
  · Putting all together:
-$$\begin{aligned}c_0&=&e^{-r\times T}\sum_{j=a}^n\left(\frac{n!}{j!(n-j)!}\right)(S_{T,          j}-K)\\&=&S_0\times N_1-K\times e^{-r\times T}\times N_2\end{aligned}$$
+$$\begin{aligned}c_0&=&e^{-r\times T}\sum_{j=a}^n\left(\frac{n!}{j!(n-j)!}\right)(S_{T,           j}-K)\\&=&S_0\times N_1-K\times e^{-r\times T}\times N_2\end{aligned}$$
 $$\begin{aligned}\text{h}\quad N_1~=~\left(e^{-r\times T}\sum_{j=a}^n\left(\frac{n!}{j!(n-j)!}\right)\times u^{(n-j)}\times d^j\right)\quad\text{and}\quad N_2=\sum_{j=a}^n\left(\frac{n!}{j!(n-j)!}\right)\end{aligned}$$
 - It can be shown that$N_1\to N(d_1)$and$N_2\to N(d_2)$as$n\to\infty$·The interpretation,  though,  is the same as in the simple 2-period model.
 ## DOES THE DYNAMIC REPLICATION STRATEGY WORK IN REALITY?
@@ -185,7 +190,9 @@ $$\Gamma=\frac{d\ \Delta}{d\ S}=\frac{N^{\prime}(d_{1})}{S\sigma\sqrt{T}}\quad\m
 ## RISKS IN OPTIONS AND THE GREEKS
 
 ![](0b083e8311dca709f00de5289d7e9936.png)
+
 RISKS IN OPTIONS AND THE GREEKS
+
 ![](92ffd2566d50d6c0218ae50e0bd182ba.png)
 
 1. **THETA**: SENSITIVITY OF OPTION TO PASSAGE OF TIME T RISKS IN OPTIONS AND THE GREEKS$$\Theta=\frac{d\text{ Option Price}}{ d \mathrm{~}t}=\text{Long ugly formula}$$
@@ -233,7 +240,7 @@ The PV of K declines as r increases,  yielding the result.
 - The 7-year (c.c.) interest rate was r = 3.23%.
 - The dividend yield of SP500 is δ = 2%.
 - Let the volatility foreca$S_{t}$over 7-year be σ = 15% - The value of the security is
-$$\begin{array}{l l}{{V a l u e\ =\ e^{-r T}\$10+1.16\times C a l l(10,          10,          r,          \delta,          \sigma,          T)}}\\ {{\ \ \ \ \ \ \ \ =\ \$7.9764+1.16\times\$1.7}}\\ {{\ \ \ \ \ \ \ \ =\ \$9.9483}}\end{array}$$
+$$\begin{array}{l l}{{V a l u e\ =\ e^{-r T}\$10+1.16\times C a l l(10,           10,           r,           \delta,           \sigma,           T)}}\\ {{\ \ \ \ \ \ \ \ =\ \$7.9764+1.16\times\$1.7}}\\ {{\ \ \ \ \ \ \ \ =\ \$9.9483}}\end{array}$$
 - Close to$10 - Note that an investor in CPN trades off coupons for 1.16 call options.
 ## DELTA HEDGING AT TIME 0
 - How can we hedge the short CPN? - Theoretically,  we ju$S_{t}$need a position in the replicating portfolio:
@@ -242,7 +249,7 @@ $$\begin{array}{l l}{{V a l u e\ =\ e^{-r T}\$10+1.16\times C a l l(10,         
 - The replicating portfolio *for each call* is as follows:
 - Given the call ∆ = e−δTN(d1) = 0.5747,  we have:
 Position in (normalized) S&P500 = 0.5747;
-$$\begin{array}{lll}\text{Bond Position}&=&Call(10,          10,          r,          \delta,          \sigma,          T)-\Delta\times S_0\\ &=&1.7-\Delta\times10=-4.047\end{array}$$
+$$\begin{array}{lll}\text{Bond Position}&=&Call(10,           10,           r,           \delta,           \sigma,           T)-\Delta\times S_0\\ &=&1.7-\Delta\times10=-4.047\end{array}$$
 - That is,  for each call option,  invest\$0.5747 × \$10 = 5.747 in stock and borrow$4.047.
 VALUE OF REPLICATING PORTFOLIO =$0.5747 \times10-4.047=1.7$
 .
@@ -261,23 +268,23 @@ the loan.
 - We can alleviate somewhat these problems by "Delta-Gamma" hedging:
 - In addition to stocks,  we need a position in a security with positive Gamma,  such as a
 short-term traded option.
-- Consider a portfolio$\Pi$which is short the$T-$dated call$Call(S,          T)$(as the one implicit in the CPN),  long$N$stock and long also$N^{c}$of$T_{1}-$date calls$Call(S,  T_{1})$$$\Pi=-Call(S,  T)+N\times S+N^{c}\times Call(S,  T_{1})$$
+- Consider a portfolio$\Pi$which is short the$T-$dated call$Call(S,           T)$(as the one implicit in the CPN),  long$N$stock and long also$N^{c}$of$T_{1}-$date calls$Call(S,  T_{1})$$$\Pi=-Call(S,  T)+N\times S+N^{c}\times Call(S,  T_{1})$$
 - We want to hedge both the sensitivity of Π to changes in the stock (dΠ
 dS = 0) and the change in
 such sensitivity to changes in the stock,  that is,  the convexity
-$$d\,          \frac{\left(\frac{d\Pi}{d S}\right)}{d S}=\frac{d\Pi^{2}}{d S^{2}}=0$$
+$$d\,           \frac{\left(\frac{d\Pi}{d S}\right)}{d S}=\frac{d\Pi^{2}}{d S^{2}}=0$$
 ![](76ace2442a76b1b506b98c54cdafddfc.png)
 ## DELTA-GAMMA HEDGING
 - The Delta-Gamma hedge then requires:
-$$\frac{d\Pi}{dS}=0\Longrightarrow-\frac{dCall(S,          T)}{dS}+N+N^{c}\times\frac{dCall(S,          T_{1})}{dS}=0\qquad\mbox{(Delta Hedging)}$$$$\frac{d^{2}\Pi}{dS^{2}}=0\Longrightarrow-\frac{d^{2}Call(S,          T)}{dS^{2}}+N^{c}\times\frac{d^{2}Call(S,          T_{1})}{dS^{2}}=0\qquad\mbox{(Gamma Hedging)}$$
+$$\frac{d\Pi}{dS}=0\Longrightarrow-\frac{dCall(S,           T)}{dS}+N+N^{c}\times\frac{dCall(S,           T_{1})}{dS}=0\qquad\mbox{(Delta Hedging)}$$$$\frac{d^{2}\Pi}{dS^{2}}=0\Longrightarrow-\frac{d^{2}Call(S,           T)}{dS^{2}}+N^{c}\times\frac{d^{2}Call(S,           T_{1})}{dS^{2}}=0\qquad\mbox{(Gamma Hedging)}$$
 - Using the notation ∆(*S,  T*) and Γ(*S,  T*) to indicate the Delta and Gamma of the option with
 maturity T,  solving the two equations in two unknowns we obtain:
-$$N^{c}=\frac{\Gamma(S,          T)}{\Gamma(S,          T_{1})};\quad N=\Delta(S,          T)-N^{c}\times\Delta(S,          T_{1})$$
+$$N^{c}=\frac{\Gamma(S,           T)}{\Gamma(S,           T_{1})};\quad N=\Delta(S,           T)-N^{c}\times\Delta(S,           T_{1})$$
 - Note that the position in stocks is smaller (if N c > 0) than in the case of only Delta-hedging,
 as we now have to also hedge the position in the short-term call option,  which is used to hedge again$S_{t}$Gamma.
 ## DELTA-GAMMA HEDGING: THE CAPITAL PROTECTED NOTE
 - For instance,  using a 1−year option to hedge the CPN,  we have
-$$\begin{array}{r l r l}{{C a l l(S,          T)=1.7;}}&{{\Gamma(S,          T)=0.08016;}}&{{\Delta(S,          T)=0.5747}}\\ {{C a l l(S,          T_{1})=0.6443;}}&{{\Gamma(S,          T_{1})=0.2575;}}&{{\Delta(S,          T_{1})=0.5512}}\end{array}$$
+$$\begin{array}{r l r l}{{C a l l(S,           T)=1.7;}}&{{\Gamma(S,           T)=0.08016;}}&{{\Delta(S,           T)=0.5747}}\\ {{C a l l(S,           T_{1})=0.6443;}}&{{\Gamma(S,           T_{1})=0.2575;}}&{{\Delta(S,           T_{1})=0.5512}}\end{array}$$
 - we obtain
 Position in short-term call = N c = 0.3113;
 Position in stock = N = 0.4031;
@@ -336,10 +343,17 @@ $$
 ## THE RISK / RETURN CHARACTERISTICS OF OPTIONS
 
 ,  The Risk / Return characteristics of an investment is often measured by the Sharpe Ratio
+
 $$\text{Sharpe Ratio}=\frac{\text{Expected Excess Return}}{\text{Volatility}}$$
+
 · The Sharpe Ratio of a Call option is therefore
+
 $$\text{Sharpe Ratio of Call}=\frac{\text{Expected Excess Return Call}}{\text{Volatility Call}}$$
+
 $$=\frac{E[R_C-R_B]}{\sigma_C}$$
+
 $$=\frac{\beta E[R_S-R_B]}{\beta\sigma_S}$$
+
 $$=\text{Sharpe Ratio of Stock}$$
+
 ·The Sharpe Ratio is the same as the one of stocks (theoretically,  at least)

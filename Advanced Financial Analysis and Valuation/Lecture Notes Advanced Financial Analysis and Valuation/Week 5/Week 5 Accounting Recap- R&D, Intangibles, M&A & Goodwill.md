@@ -1,15 +1,22 @@
 ---
+cssclasses:
+  - academia
 aliases:
-- Alias_318_Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md
-- Alias_315_Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md
+  - Intangibles
+  - M&A & Goodwill.md
 tags:
-- 1
-- 2
-- tag_example
-title: DOES CAPITALIZATION MATTER?
+  - finance
+  - corporatefinance
+  - valuationanalysis
+  - accounting-standards
+  - intangible-assets
+  - mergers-and-acquisitions
+  - "#financial-instruments"
+  - "#economic-theory"
+  - "#macroeconomics"
+  - "#financial-markets"
+title: Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
 ---
-
-
 
 #### ACCOUNTING FOR R&D AND INTANGIBLES
 
@@ -19,12 +26,12 @@ title: DOES CAPITALIZATION MATTER?
 
 | Difference                               | IFRS                                                                                                                           | US GAAP                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Internally Developed R&D and Intangibles | R: Research costs are expensed (IAS 38) <br> D: Internally developed intangible assets are generally capitalized and amortized | R&D: costs are generally expensed as incurred (ASC 730)<br>D: Exception for software  <br>- special capitalization criteria:  <br>• Software developed for internal use (application development stage)  <br>• Software developed for sale to third parties (technological feasibility)  <br>• Website development cost (under IFRS expensed) |
-| Acquired In‐Process R&D (IPR&D) Projects | The acquired IPR&D is capitalized (IAS 38.8,      24,      26)                                                                           | Only IPR&D acquired in a business combination is capitalized post‐acquisition <br> (Not capitalized when a single asset/group of assets is acquired,      ASC 730‐10‐25‐2c)                                                                                                                                                                        |
+| Internally Developed R&D and Intangibles | R: Research costs are expensed (IAS 38) <br> D: Internally developed [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets are generally capitalized and amortized | R&D: costs are generally expensed as incurred (ASC 730)<br>D: Exception for software  <br>- special capitalization criteria:  <br>• Software developed for internal use (application development stage)  <br>• Software developed for sale to third parties (technological feasibility)  <br>• Website development cost (under IFRS expensed) |
+| Acquired In‐Process R&D (IPR&D) Projects | The acquired IPR&D is capitalized (IAS 38.8,       24,       26)                                                                           | Only IPR&D acquired in a business combination is capitalized post‐acquisition <br> (Not capitalized when a single asset/group of assets is acquired,       ASC 730‐10‐25‐2c)                                                                                                                                                                        |
 
 Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
-# DOES CAPITALIZATION MATTER?
+# Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
 - Assuming a useful life of 5 years:
 ![](1200e8eb7d1c38aa5c40ac996b0291f4.png)
 #### DOES CAPITALIZATION MATTER? (CONT.)
@@ -51,20 +58,20 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 - Once the acquisition closes,  acquirer must allocate the purchase price
 - Step #1 = Identify assets & liabilities @ fair value
 	- Identifiable acquired assets & assumed liabilities from target's balance sheet
-	- Identifiable intangible assets (e.g.,  value of brand name)
-		- There are likely more newly recognized intangibles (both finite‐lived and infinitely‐lived) for intangible‐intensive targets/industries
+	- Identifiable [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets (e.g.,  value of brand name)
+		- There are likely more newly recognized [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] (both finite‐lived and infinitely‐lived) for intangible‐intensive targets/industries
 		- Valuation usually done with help of external consultants
-- Step #2 = Assign rest of purchase price to goodwill
+- Step #2 = Assign rest of purchase price to [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]
 	- Goodwill = purchase price less identified assets & liabilities at fair value
 	- Goodwill is tested annually for impairment
 ![](f567824f767b18437af3c6acfadfda4b.png)
 
 ##### M&A ACCOUNTING 101: ILLUSTRATIVE EXAMPLE
 - Assume Big Buys Little For $50Mm. Little Has Net Assets Of $15Mm
-	- Little has net assets of $15M: $5M cash,  $5M A/R,      $10M PPE,  $5M debt
+	- Little has net assets of $15M: $5M cash,  $5M A/R,       $10M PPE,  $5M debt
 		- Big determines that the value of Little's PPE should be stepped up by $5M to meet fair value of the assets
-		- Big identifies that Little has intangible assets worth $5M
-	- Therefore,  Big books goodwill of $50MM – ($15MM + $5MM + $5MM) = $25MM
+		- Big identifies that Little has [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets worth $5M
+	- Therefore,  Big books [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] of $50MM – ($15MM + $5MM + $5MM) = $25MM
 ![](3960b73a6271caeeb78f1c75c586d1d6.png)
 #### HISTORY OF GOODWILL IMPAIRMENT
 
@@ -73,14 +80,14 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 	- One could argue the amortization assured that managers had to earn what they paid in the acquisition
 - There were two ways to account for M&A transactions
 	- Purchase method
-	- Pooling of Interest method (no goodwill)
+	- Pooling of Interest method (no [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]])
 	- Firms had strong preference for pooling (to avoid amortization)
-- FASB eliminated pooling but stipulated that goodwill is reviewed for impairment
-	- More details on next slide,  but involves determining if FV of goodwill declined
+- FASB eliminated pooling but stipulated that [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] is reviewed for impairment
+	- More details on next slide,  but involves determining if FV of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] declined
 	- In principle,  good idea
 	- But it gives massive discretion to firms
 
-#### IFRS AND US GAAP: GOODWILL AND REVALUATIONS
+#### IFRS AND US GAAP: GOODWILL AND REVALUATIONS [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]
 
 ![](9d252087872803f897a93788aa079289.png)
 
@@ -99,15 +106,18 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 	- Kraft missed analysts' estimates
 	- Dividend cut (by 22.5 cents to 40 cents)
 - Key point:
-	- It is not goodwill per se that matters but what we learn from write‐down about future of the company
+	- It is not [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] per se that matters but what we learn from write‐down about future of the company
 	- In this case,  write down signaled considerable issues
 
 #### MARKET REACTION: KRAFT HEINZ (SHARES AND BONDS)
 
 ![](33f3b6fab36070d8288f4a527aa2f096.png)
+
 Source: Bloomberg
 
 # INTANGIBLE AMORTIZATION AND NON‐GAAP
+
+[[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]]
 
 ##### PE VS. EBITA MULTIPLES IN PHARMA
 
@@ -116,7 +126,7 @@ Source: Bloomberg
 - Remember: Koller et al. (Chapter 16) recommend EBITA multiple
 - They exclude acquisition-related amortization from EBIT: Why?
 	- Makes firms that grow organically vs. through M&A more comparable
-	- Amortization related to other intangibles related to operations (e.g.,  software) should be left in EBIT
+	- Amortization related to other [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] related to operations (e.g.,  software) should be left in EBIT
 - Forward‐looking operating multiples reflect long‐term prospects
 	- Implied growth rates and cost of capital seem fairly similar
 

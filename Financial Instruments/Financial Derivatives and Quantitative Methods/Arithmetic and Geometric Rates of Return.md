@@ -1,6 +1,7 @@
 ---
 title: Arithmetic and Geometric Rates of Return
 ---
+
 # Arithmetic and Geometric Rates of Return
 
 We now consider $\mu$ and $U$ again. Suppose we have an asset worth 100 and for two successive periods it increases by $20\%$. Then the value at the end of the first period is 120 and the value at the end of the second period is 144.
@@ -53,7 +54,7 @@ Hence,  the standard deviation of $V$ is simply $\sigma/{\sqrt{T}}$
 
 We will now consider the stochastic process in more detail and see how to take limits as the length of the time interval goes to zero. This will produce a continuous-time stochastic process.
 
-Consider a variable $iL$ which takes on values at discrete points in time $t=0,  1,  \ldots,  T$ and suppose that $Z$ evolves according to the following rule:
+Consider a variable $iL$ which takes on values at discrete points in time $t=0,    1,    \ldots,    T$ and suppose that $Z$ evolves according to the following rule:
 
 $$z_{t+1}=z_{t}+\epsilon;\quad W_{0}\quad\mathrm{fixed}$$
 
@@ -65,7 +66,7 @@ Property 1: The change in $iL$ over a small interval of time satisfies:
 
 $$z_{t+h}=z_{t}+\epsilon\sqrt{\Delta t}.$$
 
-Then,  as of time $t=0$, it is still the case that $E[ z_{T}]$ = $z_{0}$ and the variance $Var[z_{T}]=T$ . This relation may be written
+Then,  as of time $t=0$,  it is still the case that $E[ z_{T}]$ = $z_{0}$ and the variance $Var[z_{T}]=T$ . This relation may be written
 
 $$\Delta z (t+\Delta t)=\epsilon\sqrt{\Delta t}$$
 
@@ -123,19 +124,19 @@ $$\frac{dS (t)}{S (t)}=\left (\nu+\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 This is a special case of Ito's lemma. Ito's lemma shows that for any process of the form
 
-$$dx=a (x,  t) dt+b (x,  t) dz$$
+$$dx=a (x,    t) dt+b (x,    t) dz$$
 
-Then the function $G (x,  t)$ follows the process
+Then the function $G (x,    t)$ follows the process
 
-$$dG=\left (\frac{\partial G}{\partial x}a (x,  t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,  t)\right) dt+\frac{\partial G}{\partial x}b (x,  t) dz.$$
+$$dG=\left (\frac{\partial G}{\partial x}a (x,    t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,    t)\right) dt+\frac{\partial G}{\partial x}b (x,    t) dz.$$
 
 We'll see how to use Ito's lemma. We have
 
 $$d\:\ln S (t)=\nu\:dt+\sigma\: dz.$$
 
-Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,  t)=e^{x}$ . Then upon differentiating
+Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,    t)=e^{x}$ . Then upon differentiating
 
-$$\frac{\partial G}{\partial x}=e^x=S,  \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,  \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial x}=e^x=S,    \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,    \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence,  using Ito's lemma
 
@@ -159,7 +160,7 @@ $$ds (t)=\mu S (t)\:dt+\sigma S (t)\: dz.$$
 
 Now consider the function $G (S)=\ln S$ . Differentiating we have
 
-$$\frac{\partial G}{\partial S}=1,  \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},  \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial S}=1,    \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},    \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence substituting into Ito's lemma we get.
 
@@ -169,7 +170,7 @@ $$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 As we have seen before the forward price just depends on the current price of the underlying,  the interest rate,  and the time to expiration. With continuous compounding we can write the forward price equation as
 
-$$F (S (t),  t)=S (t) e^{r (T-t)}.$$
+$$F (S (t),    t)=S (t) e^{r (T-t)}.$$
 
 This shows the forward price is a stochastic process which depends on the price of the underlying asset which itself is a stochastic process. Since we have
 

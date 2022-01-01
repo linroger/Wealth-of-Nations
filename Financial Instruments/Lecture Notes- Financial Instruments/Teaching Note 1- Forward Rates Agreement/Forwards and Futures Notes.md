@@ -78,7 +78,7 @@ where T is time to maturity of the forward
 - The fact that it is possible to create a synthetic forward has two important implications. 
 - First,  if the forward contract is mispriced,  arbitrageurs can take offsetting positions in the forward contract and the synthetic forward contract—in effect buying low and selling high— and make a risk-free profit
 - Second,  dealers who make markets in the forward or in the underlying asset can hedge the risk of their position with a synthetic offsetting position. With transaction costs there is a no-arbitrage region rather than a single no-arbitrage price.
-- Futures contracts are similar to forward contracts,  except that with futures there are margin requirements and daily settlement of the gain or loss on the position.
+- Futures contracts are similar to forward contracts,  except that with futures there are [[Lecture 6-Leverage, Tail Risk, Volatility Products#6.1.3 Margin requirements|margin requirements]] and daily settlement of the gain or loss on the position.
 
 # INTEREST RATE FORWARDS AND FUTURES
 
@@ -208,7 +208,7 @@ Similarly,  suppose the market-maker wishes to hedge a long forward position. Th
 
 Tables 6 and 7 demonstrate that an arbitrageur can make a costless profit if $F_{0, T} \neq S_0e^{(r-\delta)T}$  
 
-- This analysis ignores trading fees,  bid-ask spreads,  different interest rates for borrowing and lending,  and the possibility that buying or selling in large quantities will cause prices to change.
+- This analysis ignores trading fees,  [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spreads]],  different interest rates for borrowing and lending,  and the possibility that buying or selling in large quantities will cause prices to change.
 - The effect of such costs will be that,  rather than there being a single no-arbitrage price,  there will be a no-arbitrage bound: a lower price F and an upper price F such that arbitrage will not be profitable when the forward price is between these bounds.
 - Suppose that the stock and forward have bid and ask prices of$S^b < S^a$and$F^b < F^a$,  a trader faces a cost k of transacting in the stock or forward,  and the interest rates for borrowing and lending are$r^b > r^l$.
 	- In this example we suppose that there are no transaction costs at time T,  with the forward settled by delivery of the stock. 
@@ -253,38 +253,38 @@ Arbitrage is profitable if this expression is positive,  or $$F_b > F^+ = (s_0^a
 - The forward pricing formula for a stock index,  equation (6),  depends on$r - \delta$,  the difference between the risk-free rate and the dividend yield. This difference is called the **cost of carry**.
 
 ---
-### FORWARD RATE AGREEMENTS
+### [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
 
-A forward rate agreement (FRA) is an over-the-counter contract that guarantees a borrowing or lending rate on a given notional principal amount. FRAs can be settled either at the initiation or maturity of the borrowing or lending transaction.
+A [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreement]](FRA) is an over-the-counter contract that guarantees a borrowing or lending rate on a given notional principal amount. FRAs can be settled either at the initiation or maturity of the borrowing or lending transaction.
 
-If settled at maturity,  we will say the FRA is settled in arrears. In the example above,  the FRA could be settled on day 120,  the point at which the borrowing rate becomes known and the borrowing takes place,  or settled in arrears on day 211,  when the loan is repaid.
+If settled at maturity,  we will say the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is settled in arrears. In the example above,  the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] could be settled on day 120,  the point at which the borrowing rate becomes known and the borrowing takes place,  or settled in arrears on day 211,  when the loan is repaid.
 
-FRAs are a forward contract based on the interest rate,  and as such do not entail the actual lending of money. Rather,  the borrower who enters an FRA is paid if a reference rate is above the FRA rate,  and the borrower pays if the reference rate is below the FRA rate. The actual borrowing is conducted by the borrower independently of the FRA. We will suppose that the reference rate used in the FRA is the same as the actual borrowing cost of the borrower.
+FRAs are a forward contract based on the interest rate,  and as such do not entail the actual lending of money. Rather,  the borrower who enters an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is paid if a reference rate is above the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] rate,  and the borrower pays if the reference rate is below the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] rate. The actual borrowing is conducted by the borrower independently of the FRA. We will suppose that the reference rate used in the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is the same as the actual borrowing cost of the borrower.
 
-## FRA SETTLEMENT IN ARREARS
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] SETTLEMENT IN ARREARS
 
-First consider what happens if the FRA is settled in September,  on day 211,  the loan repayment date. In that case,  the payment to the borrower should be$$r_{quarterly} - r_{FRA} \times  \text{notional principal}$$
+First consider what happens if the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is settled in September,  on day 211,  the loan repayment date. In that case,  the payment to the borrower should be$$r_{quarterly} - r_{FRA} \times  \text{notional principal}$$
 
-- Thus,  if the borrowing rate is 1.5%,  the payment under the FRA should be (0.015 − 0.018) × 300, 000
+- Thus,  if the borrowing rate is 1.5%,  the payment under the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] should be (0.015 − 0.018) × 300, 000
 
-Since the rate is lower than the FRA rate,  the borrower pays the FRA counterparty. Similarly,  if the borrowing rate turns out to be 2.0%,  the payment under the FRA should be
+Since the rate is lower than the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] rate,  the borrower pays the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] counterparty. Similarly,  if the borrowing rate turns out to be 2.0%,  the payment under the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] should be
 
 (0.02 − 0.018) ×$100 m =$200, 000
 
-Settling the FRA in arrears is simple and seems like the obvious way for the contract to work. However,  settlement can also occur at the time of borrowing.
+Settling the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] in arrears is simple and seems like the obvious way for the contract to work. However,  settlement can also occur at the time of borrowing.
 
-## FRA SETTLEMENT AT THE TIME OF BORROWING
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] SETTLEMENT AT THE TIME OF BORROWING
 
-If the FRA is settled in June,  at the time the money is borrowed,  payments will be less than when settled in arrears because the borrower has time to earn interest on the FRA settlement. In practice,  therefore,  the FRA settlement is tailored by the reference rate prevailing on the settlement (borrowing) date. (Tailing in this context means that we reduce the payment to reflect the interest earned between June andSeptember.) Thus,  the payment for a borrower is$$Notional\ principal \times \frac{(r_{quarterly} - r_{FRA})}{1 + r_{quarterly}}\tag{(8)}$$
+If the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is settled in June,  at the time the money is borrowed,  payments will be less than when settled in arrears because the borrower has time to earn interest on the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] settlement. In practice,  therefore,  the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] settlement is tailored by the reference rate prevailing on the settlement (borrowing) date. (Tailing in this context means that we reduce the payment to reflect the interest earned between June andSeptember.) Thus,  the payment for a borrower is$$Notional\ principal \times \frac{(r_{quarterly} - r_{FRA})}{1 + r_{quarterly}}\tag{(8)}$$
 
 - If$r_{quarterly} = 1.5\%$,  the payment in June is$-295, 566.50 \div (1 + 0.015)$
 - By definition,  the future value of this is -$300, 000. In order to make this payment,  the borrower can borrow an extra$295, 566.50,  which results in an extra$300, 000 loan payment in September.
 - If on the other hand$r_{quarterly} = 2.0\%$,  the payment is$\$200, 000 = \$196, 078.43 \div (1 + 0.02)$
 - The borrower can invest this amount,  which gives$200, 000 in September,  an amount that offsets the extra borrowing cost.
 
-## FORWARD RATE AGREEMENTS (FRAS)
+## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]] (FRAS)
 
-To summarize,  an FRA is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time$t$to time$t + s$,  we can create a rate forward synthetically by buying the underlying asset (the bond maturing at$t + s$) and borrowing (shorting) the bond maturing at$t$.
+To summarize,  an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time$t$to time$t + s$,  we can create a rate forward synthetically by buying the underlying asset (the bond maturing at$t + s$) and borrowing (shorting) the bond maturing at$t$.
 
 In general,  we have the following conclusions concerning a rate forward covering the period$t$to$t + s$:
 
@@ -313,9 +313,9 @@ Demonstration that buying$e^{-\delta T}$shares of the index and shorting a forwa
 
 # SYNTHETIC FRAS
 
-Suppose that today is day 0. By using a forward rate agreement,  we will be able to invest$1 on day 120 and be guaranteed a 91-day return of 1.8%. We can synthetically create the same effect as with an FRA by trading zero-coupon bonds.
+Suppose that today is day 0. By using a forward rate agreement,  we will be able to invest$1 on day 120 and be guaranteed a 91-day return of 1.8%. We can synthetically create the same effect as with an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] by trading zero-coupon bonds.
 
-In order to accomplish this we need to guarantee cash flows of 1 on day 120,  and +$1.018 on day 211. First,  let's get a general sense of the transaction. To match the FRA cash flows,  we want cash going out on day 120 and coming in on day 211. To accomplish this,  on day 0 we will need to borrow with a 120-day maturity (to generate a cash outflow on day 120) and lend with a 211-day maturity (to generate a cash inflow on day 211). Moreover,  we want the day 0 value of the borrowing and lending to be equal so that there is no initial cash flow. This description tells us what we need to do.
+In order to accomplish this we need to guarantee cash flows of 1 on day 120,  and +$1.018 on day 211. First,  let's get a general sense of the transaction. To match the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] cash flows,  we want cash going out on day 120 and coming in on day 211. To accomplish this,  on day 0 we will need to borrow with a 120-day maturity (to generate a cash outflow on day 120) and lend with a 211-day maturity (to generate a cash inflow on day 211). Moreover,  we want the day 0 value of the borrowing and lending to be equal so that there is no initial cash flow. This description tells us what we need to do.
 
 In general,  suppose that today is day 0,  and that at time t we want to lend$1 for the period s,  earning the implied forward rate$r_0(t,  t + s)$over the interval from t to$t + s$. To simplify the notation in this section, $r_0(t,  t + s)$will denote the nonannualized percent return from time t to time s.
 
@@ -326,7 +326,7 @@ The strategy we use is to:
 1. Buy$1 + r_0(t, t+s)$zero-coupon bonds maturing at time$t+s$.
 1. Short-sell$1$zero-coupon bond maturing at time$t$.
 
-To summarize,  we have shown that an FRA is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time t to time t + s,  we can create a rate forward synthetically by buying the underlying asset (the bond maturing at t + s) and borrowing (shorting) the bond maturing at day t.
+To summarize,  we have shown that an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing. If at time 0 we want to lock in a lending rate from time t to time t + s,  we can create a rate forward synthetically by buying the underlying asset (the bond maturing at t + s) and borrowing (shorting) the bond maturing at day t.
 
 In general,  we have the following conclusions concerning a rate forward covering the period$t_1$to$t_2$:
 
@@ -343,25 +343,25 @@ Eurodollar futures contracts are similar to FRAs in that they can be used to gua
 
 ### EXAMPLE PROBLEM
 
-Assume the June Eurodollar futures price is 92.8. This translates into the implied interest rate,  which is calculated as$100 - 92.8 = 7.2\%$on an annual basis for a \$1M loan from June to September. Suppose the June Eurodollar futures price is 92.8,  which implies a 3-month LIBOR is$100 - 92.8 = 7.2\%$. If we enter into a single short Eurodollar contract at expiration it will be:$$
+Assume the June Eurodollar futures price is 92.8. This translates into the implied interest rate,  which is calculated as$100 - 92.8 = 7.2\%$on an annual basis for a \$1M loan from June to September. Suppose the June Eurodollar futures price is 92.8,  which implies a 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is$100 - 92.8 = 7.2\%$. If we enter into a single short Eurodollar contract at expiration it will be:$$
 (\text{Futures Price}) - (\text{Spot Price}) \times (\text{Contract Size}) = (92.8 - 94) \times 100 \times \$25 = -\$30, 000$$
 
-If LIBOR = 8% (quarterly = 2.0%),  we earn an extra$20, 000 in interest and the invested proceeds from the Eurodollar contract are:$$((100 - 8) \times 100 \times \$25) = \$230, 000$$
+If [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 8% (quarterly = 2.0%),  we earn an extra$20, 000 in interest and the invested proceeds from the Eurodollar contract are:$$((100 - 8) \times 100 \times \$25) = \$230, 000$$
 
 We multiply by 100 twice: once to account for 100 contracts,  and the second time to convert the change in the futures price to basis points. Similarly,  if the borrowing rate is 2%,  we have:$$((92.8 - 92) \times 100 \times \$25) \times 100 = \$200, 000$$
 
-This is like the payment on an FRA paid in arrears,  except that the futures contract settles in June,  but our interest expense is not paid until September. Thus we have 3 months to earn or pay interest on our Eurodollar gain or loss before we actually have to make the interest payment.
+This is like the payment on an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] paid in arrears,  except that the futures contract settles in June,  but our interest expense is not paid until September. Thus we have 3 months to earn or pay interest on our Eurodollar gain or loss before we actually have to make the interest payment.
 
 ### HEDGING WITH [EuroDollar Futures](EuroDollar%20Futures.md)
 
-Recall that when the FRA settles on the borrowing date,  the payment is the *present value* of the change in borrowing cost. The FRA is thus tailed automatically as part of the agreement. With the Eurodollar contract,  by contrast,  we need to tail the position explicitly. We do this by shorting fewer than 100 contracts,  using the implied 3-month Eurodollar rate of 1.8% as our discount factor. Thus,  we enter into: $$\text{Number of Eurodollar contracts} = \frac{100}{1 + 0.018} \approx -98.2318$$
+Recall that when the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] settles on the borrowing date,  the payment is the *present value* of the change in borrowing cost. The [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is thus tailed automatically as part of the agreement. With the Eurodollar contract,  by contrast,  we need to tail the position explicitly. We do this by shorting fewer than 100 contracts,  using the implied 3-month Eurodollar rate of 1.8% as our discount factor. Thus,  we enter into: $$\text{Number of Eurodollar contracts} = \frac{100}{1 + 0.018} \approx -98.2318$$
 
-Now consider the gain on the Eurodollar futures position. If LIBOR = 6% (quarterly = 1.5%),  our total gain on the short contracts when we initiate borrowing on day 120 will be: $$98.2318 \times (92.8 - 94) \times \$2500 = -\$294, 695$$
+Now consider the gain on the Eurodollar futures position. If [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 6% (quarterly = 1.5%),  our total gain on the short contracts when we initiate borrowing on day 120 will be: $$98.2318 \times (92.8 - 94) \times \$2500 = -\$294, 695$$
 
-But if LIBOR = 8% (quarterly = 2.0%),  our total gain on the contracts will be: $$98.2318 \times (92.8 - 92) \times \$2500 = \$196, 464$$
+But if [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] = 8% (quarterly = 2.0%),  our total gain on the contracts will be: $$98.2318 \times (92.8 - 92) \times \$2500 = \$196, 464$$
 
 # INTEREST RATE FORWARDS AND FUTURES WALKTHROUGH
-- To summarize,  we have shown that an FRA is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing.
+- To summarize,  we have shown that an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] is just like the stock and currency forwards we have considered,  both with respect to pricing and synthesizing.
 - If at time 0 we want to lock in a lending rate from time $t$ to time $t + s$,  we can create a rate forward synthetically by buying the underlying asset (the bond maturing at $t + s$) and borrowing (shorting) the bond maturing at $t$.
 
 In general,  we have the following conclusions concerning a rate forward covering the period $[t,  t+s]$:
@@ -369,7 +369,7 @@ In general,  we have the following conclusions concerning a rate forward coverin
 ## FORWARD RATES
 
 - The forward rate we can obtain is the implied forward rate—i.e.,  $f(t,  t+s)$,  is given by:$$ \frac{P(0,  t)}{P(0,  t+s)} - 1$$
-- We can synthetically create the payoff to an FRA by borrowing to buy a bond maturing at $t+s$,  i.e.,  by:
+- We can synthetically create the payoff to an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] by borrowing to buy a bond maturing at $t+s$,  i.e.,  by:
 
 	1. Buying $1 + f(t,  t+s)$ of the zero-coupon bond maturing on day $t+s$,
 	1. Shorting $1$ zero-coupon bond maturing on day $t$.

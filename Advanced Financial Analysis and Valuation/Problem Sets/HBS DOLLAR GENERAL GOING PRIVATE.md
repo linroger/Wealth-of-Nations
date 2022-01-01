@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_296_HBS DOLLAR GENERAL GOING PRIVATE.md
-- Alias_299_HBS DOLLAR GENERAL GOING PRIVATE.md
+  - Alias_296_HBS DOLLAR GENERAL GOING PRIVATE.md
+  - Alias_299_HBS DOLLAR GENERAL GOING PRIVATE.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#leveragedbuyout"
+  - "#corporaterestructuring"
+  - "#investmentanalysis"
+  - "#financialmarkets"
+  - "#retailindustry"
+  - "#deepdiscountretail"
+  - "#mergersandacquisitions"
 title: HBS DOLLAR GENERAL GOING PRIVATE
 ---
 
@@ -92,15 +100,15 @@ Between 2000 and 2005,  the deep-discount channel grew by$12.2 billion,  to$33.2
             
 ## LEVERAGED BUYOUT
 
-A leveraged buyout (LBO) involved the use of a significant amount of borrowed money or debt (e.g.,  loans or bonds) to acquire a company or division of a company. LBO transactions enabled private-equity firms and LBO investors to make large acquisitions without committing a great deal of their own capital. It was not unusual in a typical LBO transaction to see a ratio of 90% debt to 10% equity. The financing for such deals was usually borrowed in the public markets by issuing highyield,  high-risk debt instruments (sometimes called "junk bonds"). Thus,  the term "leveraged buyout." In many LBO arrangements,  private-equity firms or management bought up all the outstanding shares of a company's stock (sometimes referred to as "going private") and used the company assets as collateral for a loan to fund the purchase. These loans were later repaid out of future cash flows or with proceeds from the sale of the company's assets. In some LBOs,  the continuing effort of the management team was central to the success of the offer,  while in other cases the management team was removed.
+A leveraged buyout (LBO) involved the use of a significant amount of borrowed money or debt (e.g.,  loans or bonds) to acquire a company or division of a company. LBO transactions enabled private-equity firms and LBO investors to make large acquisitions without committing a great deal of their own capital. It was not unusual in a typical LBO transaction to see a ratio of 90% debt to 10% equity. The financing for such deals was usually borrowed in the public markets by issuing highyield,  high-risk debt instruments (sometimes called "junk bonds"). Thus,  the term "leveraged buyout." In many LBO arrangements,  private-equity firms or management bought up all the outstanding shares of a company's stock (sometimes referred to as "going private") and used the company assets as collateral for a loan to fund the purchase. These loans were later repaid out of future cash flows or with proceeds from the sale of the company's assets. In some [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]],  the continuing effort of the management team was central to the success of the offer,  while in other cases the management team was removed.
 
 ## LBO MARKET
 
-LBO strategies became popular in the 1980s due primarily to growth in public debt markets that made it possible for greater numbers of borrowers to access large amounts of capital. When privateequity investors in LBO deals realized that they could achieve returns of 20% to 25%,  LBOs really took off. By 1989,  the total revenue in LBO transactions in the United States exceeded$76.6 billion. In the late 1990s,  when several prominent buyouts led to the eventual bankruptcy of the acquired companies,  the industry experienced a setback. A number of precautionary measures were conceived to make corporations less vulnerable to LBOs. The most famous was the poison pill,  by means of which a corporation ensured that its valuation would fall dramatically in the event of a hostile takeover.
+LBO strategies became popular in the 1980s due primarily to growth in public debt markets that made it possible for greater numbers of borrowers to access large amounts of capital. When privateequity investors in LBO deals realized that they could achieve returns of 20% to 25%,  [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]] really took off. By 1989,  the total revenue in LBO transactions in the United States exceeded$76.6 billion. In the late 1990s,  when several prominent buyouts led to the eventual [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] of the acquired companies,  the industry experienced a setback. A number of precautionary measures were conceived to make corporations less vulnerable to [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]. The most famous was the poison pill,  by means of which a corporation ensured that its valuation would fall dramatically in the event of a hostile takeover.
 
 In the early 2000s,  macroand microeconomic indicators once again suggested that conditions In the early 2000s,  macroand microeconomic indicators once again suggested that conditions were ripe for buyout firms. Debt was available at historically record low interest rates,  and the market seemed more receptive to IPOs,  which promised greater exit opportunities. According to London-based financial information firm Private Equity Intelligence,  in 2004 LBO funds raised approximately$145 billion of private equity,  primarily from pension funds.
 
-Enthusiasm for LBOs peaked in 2005,  fueled by three forces: lots of cash in the hands of Enthusiasm for LBOs peaked in 2005,  fueled by three forces: lots of cash in the hands of institutional investors and wealthy individuals who wanted higher returns; a growing number of investment firms with track records in finding underperforming or undervalued public companies or units within those companies; and a strong economy that had debt available at low interest rates.
+Enthusiasm for [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]] peaked in 2005,  fueled by three forces: lots of cash in the hands of Enthusiasm for [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]] peaked in 2005,  fueled by three forces: lots of cash in the hands of institutional investors and wealthy individuals who wanted higher returns; a growing number of investment firms with track records in finding underperforming or undervalued public companies or units within those companies; and a strong economy that had debt available at low interest rates.
 
 Some 3, 000 private-equity funds held$150 billion in capital,  and approximately 9, 000 hedge funds had nearly$1 trillion in assets With trading and other short-term investment strategies becoming less lucrative,  even hedge funds such as Cerberus Capital Management and Highfields Capital were institutional investors and wealthy individuals who wanted higher returns; a growing number of investment firms with track records in finding underperforming or undervalued public companies or units within those companies; and a strong economy that had debt available at low interest rates.
 
@@ -110,7 +118,7 @@ On March 11,  2007,  Dollar General's board agreed to a buyout offer of approxim
 
 As a private company,  DG would be controlled by affiliates of KKR,  its common stock would no longer be listed on any stock exchange or quotation system,  and the registration thereof and attendant reporting obligations under the Securities Exchange Act of 1934 would be terminated.
 
-Under the agreement,  DG shareholders would receive,  per share, $22.00 in cash,  a 31.1% premium Under the agreement,  DG shareholders would receive,  per share, $22.00 in cash,  a 31.1% premium over DG's closing price of$16.78 on March 9,  2007,  and an approximately 29% premium over the average closing price during the previous 30 trading days. Moreover,  the proposed enterprise value over operating income multiple for DG was well above comparable retail transaction multiples in the past few years.
+Under the agreement,  DG shareholders would receive,  per share, $22.00 in cash,  a 31.1% premium Under the agreement,  DG shareholders would receive,  per share, $22.00 in cash,  a 31.1% premium over DG's closing price of$16.78 on March 9,  2007,  and an approximately 29% premium over the average closing price during the previous 30 trading days. Moreover,  the proposed enterprise value over [[Operating Income vs. Net Income What's the Difference|Operating Income]] multiple for DG was well above comparable retail transaction multiples in the past few years.
 
 Consummation of the merger agreement,  approved unanimously by DG's board of directors,  was subject to approval by the shareholders. A special shareholders meeting was scheduled for June 2007. The deal was expected to be completed in the third quarter of that year.
 
@@ -127,13 +135,13 @@ In addition,  debt investors were not so keen. Debt financing provided for the d
 
 DG issued its annual report for the fiscal year ended February 2,  2007 at the end of March 2007.
 
-Examining the income statement,  Sadayo was surprised to see a sharp decline in net income during the year,  from$350.2 million in 2005 to only$137.9 million in 2006,  despite increased revenues.
+Examining the income statement,  Sadayo was surprised to see a sharp decline in [[Operating Income vs. Net Income What's the Difference|Net Income]] during the year,  from$350.2 million in 2005 to only$137.9 million in 2006,  despite increased revenues.
 
 Moreover,  whereas revenues increased by$587.6 million,  cost of goods sold increased by$684.2
 million. (Exhibit 5 presents Dollar General's 2006 financial statements together with Sadayo's calculations of common-size income statements and balance sheets. The exhibit also contains selected excerpts from Dollar General's summary of critical accounting policies and estimates.) To better understand what happened,  Sadayo turned to the "management's discussion and analysis of financial condition and results of operations" (MD&A) section of the annual report,  where she read about the following recent strategic initiatives DG had implemented. 19
 DG issued its annual report for the fiscal year ended February 2,  2007 at the end of March 2007.
 
-Examining the income statement,  Sadayo was surprised to see a sharp decline in net income during the year,  from$350.2 million in 2005 to only$137.9 million in 2006,  despite increased revenues.
+Examining the income statement,  Sadayo was surprised to see a sharp decline in [[Operating Income vs. Net Income What's the Difference|Net Income]] during the year,  from$350.2 million in 2005 to only$137.9 million in 2006,  despite increased revenues.
 
 Moreover,  whereas revenues increased by$587.6 million,  cost of goods sold increased by$684.2 million. (**Exhibit 5** presents Dollar General's 2006 financial statements together with Sadayo's calculations of common-size income statements and balance sheets. The exhibit also contains selected excerpts from Dollar General's summary of critical accounting policies and estimates.) To better understand what happened,  Sadayo turned to the "management's discussion and analysis of financial condition and results of operations" (MD&A) section of the annual report,  where she read about the following recent strategic initiatives DG had implemented
 
@@ -166,7 +174,7 @@ The increase in SG&A expense as a percentage of sales,  from 22.2% in 2005 to 23
 - Additional$1.4 million impairment charges on leasehold improvement and store fixtures
 - Higher store occupancy costs (increased 12.1%) due to higher monthly rents
 - Higher debit and credit card fees (increased 40.6%) due to increased customer use of debit cards and acceptance of credit and check cards at all locations -
-- Higher administrative labor costs (increased 29.9%) primarily related to recent additions to the executive team and expensing of employee stock options
+- Higher administrative labor costs (increased 29.9%) primarily related to recent additions to the executive team and expensing of [[Week 4 ESOs and Valuation|employee stock options]]
 - Higher advertising costs (increased 198.3%)
 - Higher incentive compensation primarily related to the$9.6 million employee discretionary bonus authorized by the board of directors
 
@@ -174,7 +182,7 @@ These increases were partially offset by insurance proceeds of$13 million receiv
 
 ## SADAYO'S ANALYSIS
 
-Sadayo began her analysis by computing the financial ratios for DG and examining the commonsize income statement and balance sheet. (See Exhibit 6 for Sadayo's ratios analysis for Dollar General.) To gain further insight into Dollar General's financials,  Sadayo calculated the financial ratios of several comparable firms in the deep-discount retail channel identified by DG as its main competitors Spread bets with ratio analysis,  keye provide a in hit i ine dise taement comparable transactions in the retail industry over the past few years (see Exhibit 8).
+Sadayo began her analysis by computing the financial ratios for DG and examining the commonsize income statement and balance sheet. (See Exhibit 6 for Sadayo's ratios analysis for Dollar General.) To gain further insight into Dollar General's financials,  Sadayo calculated the financial ratios of several comparable firms in the deep-discount retail channel identified by DG as its main competitors Spread bets with [[Week 1 Ratio Analysis + Valuation Review|ratio analysis]],  keye provide a in hit i ine dise taement comparable transactions in the retail industry over the past few years (see Exhibit 8).
 
 Finally,  Sadayo wanted to better understand what management would gain from the proposed LBO (as implied by the lawsuit). Due to the accelerated vesting and cashing out of certain equitycompensation items,  she estimated that DG Chairman and CEO David A. Perdue would realize about$28 million from the transaction. (See **Exhibit** 9 for excerpts from DG's 2007 schedule 14A regarding the interests of its directors and executive officers in the merger; **Exhibit 10** provides biographies of the members of DG's board of directors.)
 
@@ -293,7 +301,7 @@ As of the date of this proxy statement,  none of our executive officers has ente
 
 	
 
-David A. Perdue (57) has served as Dollar General's Chief Executive Officer (since April 2003) and Chairman of the Board (since June 2003). Mr. Perdue previously served as Chairman and Chief Executive Officer of Pillowtex Corporation,  a producer and marketer of home textiles,  from July 2002 through March 27,  2003. Pillowtex filed for bankruptcy in July 2003 after emerging from a previous bankruptcy in May 2002. Mr. Perdue served Reebok International Ltd. from September 1998 to July 2002 as President and Chief Executive Officer of the Reebok Brand (January 2001 to July 2002),  Executive Vice President,  Global Operating Units (October 1999 to January 2001) and Senior Vice President,  Global Supply Chain (September 1998 to October 1999). Prior to Reebok,  Mr. Perdue was Senior Vice President of Haggar,  Inc. (1994 to September 1998). He gained additional international expertise while based in Hong Kong where he served from 1992 to 1994 as Senior Vice President of Asia Operations for Sara Lee Corporation. Earlier in his career,  he spent 12 years in management consulting with Kurt Salmon Associates,  an international management consulting firm. Mr. Perdue serves as a director of Alliant Energy Corporation.
+David A. Perdue (57) has served as Dollar General's Chief Executive Officer (since April 2003) and Chairman of the Board (since June 2003). Mr. Perdue previously served as Chairman and Chief Executive Officer of Pillowtex Corporation,  a producer and marketer of home textiles,  from July 2002 through March 27,  2003. Pillowtex filed for [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] in July 2003 after emerging from a previous [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] in May 2002. Mr. Perdue served Reebok International Ltd. from September 1998 to July 2002 as President and Chief Executive Officer of the Reebok Brand (January 2001 to July 2002),  Executive Vice President,  Global Operating Units (October 1999 to January 2001) and Senior Vice President,  Global Supply Chain (September 1998 to October 1999). Prior to Reebok,  Mr. Perdue was Senior Vice President of Haggar,  Inc. (1994 to September 1998). He gained additional international expertise while based in Hong Kong where he served from 1992 to 1994 as Senior Vice President of Asia Operations for Sara Lee Corporation. Earlier in his career,  he spent 12 years in management consulting with Kurt Salmon Associates,  an international management consulting firm. Mr. Perdue serves as a director of Alliant Energy Corporation.
 	David L. Beré (53) has served as Dollar General's President and Chief Operating Officer since David L. Beré (53) has served as Dollar General's President and Chief Operating Officer since December 2006. He served from December 2003 until June 2005 as Corporate Vice President of Ralcorp Holdings,  Inc. and as President and Chief Executive Officer of Bakery Chef,  Inc.,  a leading manufacturer of frozen bakery products that was acquired by Ralcorp Holdings in December 2003. From 1998 until the acquisition,  Mr. Beré was the President and Chief Executive Officer of Bakery Chef,  Inc.,  and also served on its Board of Directors. From 1996 to 1998,  he served as President and Chief Executive Officer of McCain Foods USA,  a manufacturer and marketer of frozen foods and subsidiary of McCain Foods Limited. From 1978 to 1995,  Mr. Beré worked for The Quaker Oats Company; he served as President of the Breakfast Division from 1992 to 1995 and President of the Golden Grain Division from 1990 to 1992.
 
 December 2006. He served from December 2003 until June 2005 as Corporate Vice President of Ralcorp Holdings,  Inc. and as President and Chief Executive Officer of Bakery Chef,  Inc.,  a leading manufacturer of frozen bakery products that was acquired by Ralcorp Holdings in December 2003.
@@ -319,8 +327,8 @@ Richard E. Thornburgh (54) is Vice Chairman of Corsair Capital,  a private equit
 David M. Wilds (66) has served as Managing Partner of 1st Avenue Partners,  L.P.,  a private equity partnership,  and as a senior advisor for The Family Office,  a limited liability company,  since 1998. From 1995 to 1998,  he was President of Nelson Capital Partners III,  L.P.,  a merchant banking company. From 1990 to 1995,  he served as Chairman of Cumberland Health Systems,  Inc.,  an owner and operator of psychiatric hospitals,  and he currently serves as a director of Symbion Inc. Mr. Wilds,  whom our Board has determined to be independent as defined in NYSE listing requirements and in our Corporate Governance Principles,  has been elected to serve as our Presiding Director,  in which capacity he presides over the executive sessions of the Board's non-management and independent directors and performs other duties as set forth in our Corporate Governance Principles.
 
 [Week 2 Dollar General CaseAssignment Review](Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
-[Dollar General Case Study](Dollar%20General%20Case%20Study.md)
+[DOLLAR GENERAL CASE STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
-[PSET 2- DOLLAR TREE CASE STUDY](PSET%202-%20DOLLAR%20TREE%20CASE%20STUDY.md)
-[JP Morgan Deep Discount Retail Sector Report](JP%20Morgan%20Deep%20Discount%20Retail%20Sector%20Report.md)
+[DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
+[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
 [PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)

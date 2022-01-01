@@ -63,7 +63,7 @@ Short forwards contract by paying euros and accepting dollars
 	   Take a loan in dollars now,  which will be repaid by the proceeds of selling euros at the forward rate.
 	   Convert the borrowed dollars to euros at the current spot rate.
 1. **Invest$N \times e^{-r_e \times T}$euros at the euro interest rate$r_e$until$T$:**
-	   Invest the euros at the Euro LIBOR rate,  expecting them to grow back to$N$euros over time$T$.
+	   Invest the euros at the Euro [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate,  expecting them to grow back to$N$euros over time$T$.
 ### AT MATURITY $T$
 - **Receive$\$F_{0, T} \times N$from the forward sale of euros:**
    - This is the dollar amount you get from selling$N$euros at the forward rate.
@@ -86,13 +86,13 @@ At maturity,
 	- This step locks in the price at which you will buy euros in the future.
 
 1. **Borrow$N \times e^{-r_e \times T}$euros:**
-	- Borrow euros now at the current Euro LIBOR rate,  and you will need to pay back the borrowed amount multiplied by the exponential of the negative Euro interest rate times the time to maturity$T$.
+	- Borrow euros now at the current Euro [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate,  and you will need to pay back the borrowed amount multiplied by the exponential of the negative Euro interest rate times the time to maturity$T$.
 
 1. **Exchange them to$N \times e^{-r_e \times T} \times M_0$dollars:**
 	- Convert the borrowed euros to dollars at the current spot rate.
 
 1. **Invest$N \times e^{-r_e \times T} \times M_0$dollars at the dollar interest rate$r_s$:**
-	- Invest the dollar amount at the current US LIBOR rate,  and the investment will grow according to the dollar interest rate over the time to maturity$T$.
+	- Invest the dollar amount at the current US [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate,  and the investment will grow according to the dollar interest rate over the time to maturity$T$.
 
 1. **At maturity$T$,  the arbitrageur:**
 	- Receives$N$euros from the forward contract and pays$F_{0, T} \times N$dollars for them.

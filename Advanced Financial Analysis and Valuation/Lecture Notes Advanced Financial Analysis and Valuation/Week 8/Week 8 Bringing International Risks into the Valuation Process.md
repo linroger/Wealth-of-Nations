@@ -1,9 +1,16 @@
 ---
 aliases:
-- Alias_330_Week 8 Bringing International Risks into the Valuation Process.md
-- Alias_333_Week 8 Bringing International Risks into the Valuation Process.md
+  - Alias_330_Week 8 Bringing International Risks into the Valuation Process.md
+  - Alias_333_Week 8 Bringing International Risks into the Valuation Process.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#investmentanalysis"
+  - "#riskanalysis"
+  - "#financialmarkets"
+  - "#international-valuation"
+  - "#emerging-markets"
+  - "#political-risk"
 ---
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

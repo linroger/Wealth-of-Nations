@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_329_Week 6 Bank Analysis and Valuation.md
-- Alias_332_Week 6 Bank Analysis and Valuation.md
+  - Alias_329_Week 6 Bank Analysis and Valuation.md
+  - Alias_332_Week 6 Bank Analysis and Valuation.md
 tags:
-- tag_example
+  - tag_example
+  - "#banking"
+  - "#financial-analysis"
+  - "#valuation"
+  - "#risk-management"
+  - "#capital-structure"
+  - "#economic-spread"
+  - "#regulatory-capital"
+  - "#cyclical-lending"
 title: MOATS AND COMPETITIVE ANALYSIS
 ---
 
@@ -32,7 +40,7 @@ title: MOATS AND COMPETITIVE ANALYSIS
 	 - Banks largely have financial assets
 	 - Deposits could be viewed as raw material
 	 - Fixed assets are not so important,  except IT
-- Bank invest heavily in intangible assets (e.g.,  human capital)
+- Bank invest heavily in [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets (e.g.,  human capital)
 - Regulation and the role of (equity) capital
 ### IMPORTANCE OF REGULATORY CAPITAL
 - Regulation Is Part Of The Business Model
@@ -205,7 +213,7 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 ### CASH FLOW-TO-EQUITY MODEL
 
 - **Equity value equals present value of future cash flows to equity (CFE),  discounted at the cost of equity,  $k_e$:**
-	 - We can derive $CFE$ as net income ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
+	 - We can derive $CFE$ as [[Operating Income vs. Net Income What's the Difference|Net Income]] ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
 		  - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
 	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders,  including dividends,  share repurchases,  and new share issuances
 ![](2597f4f51cb6585ab5b5591a4796dccd.png)
@@ -286,7 +294,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
 ![](24578d9552c9c586c019776092e15c70.png)
 
-- Expected net income in year 11: $$\text{Expected net income in year 11} = $8, 161 \times 1.01 = \$8, 243$$
+- Expected [[Operating Income vs. Net Income What's the Difference|Net Income]] in year 11: $$\text{Expected [[Operating Income vs. Net Income What's the Difference|Net Income]] in year 11} = $8, 161 \times 1.01 = \$8, 243$$
 - Expected retention ratio in perpetuity: $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
 - Terminal Value (TV) of equity: $$ \text{TV of equity} = \frac{$8, 243 \times (1 - 0.1059)}{ 0.09440.01} = $87, 317$$
 

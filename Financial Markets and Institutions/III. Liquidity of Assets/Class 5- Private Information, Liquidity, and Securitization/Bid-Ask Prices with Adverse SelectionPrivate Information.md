@@ -68,7 +68,7 @@ title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information
    - The ask is the expected value given all public information and the fact that a buy order arrives.
 
 ### A. Example Without Informed Traders
-- If there are no informed traders,  the bid-ask spread is zero.
+- If there are no informed traders,  the [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] is zero.
 - If there are only informed traders,  there is no spread allowing the market maker to break even.
 
 ## IV. One Period Example

@@ -1,6 +1,22 @@
 ---
-aliases: [Alias_287_Common Errors In DCF Models.md,  Alias_284_Common Errors In DCF Models.md]
-tags: [tag_example]
+cssclasses:
+  - academia
+aliases:
+  - Alias_287_Common Errors In DCF Models.md
+  - Alias_284_Common Errors In DCF Models.md
+tags:
+  - tag_example
+  - finance
+  - investmentanalysis
+  - valuationanalysis
+  - discounted-cash-flow
+  - corporate-valuation
+  - financial-modeling
+  - "#quantitative-finance"
+  - "#economic-theory"
+  - "#financial-instruments"
+  - "#valuation-methods"
+  - "#investment-analysis"
 title: Common Errors In DCF Models
 ---
 
@@ -38,10 +54,13 @@ Moreover,  a perpetuity assumption neatly captures the reversion-to-the-mean phe
 Estimating the cost of equity is more challenging. Unlike debt's explicit cost,  the cost of equity is implicit. The cost of equity is higher than the cost of debt because equity's claim is junior. But no simple method exists to estimate the cost of equity. By far the most common approach to estimating the cost of equity is the capital asset pricing model (CAPM). The CAPM says a company's cost of equity equals the risk-free rate plus the product of the equity risk premium and beta. Government-issued notes generally provide a good proxy for the risk-free rate. Estimates for the equity risk premium and beta prove more challenging. Let's start with beta,  which attempts to reflect the sensitivity of a stock's price movement relative to the broader market. A beta of 1.0 means the stock tends to move in line with the market. A beta below 1.0 suggests a stock moves less than the market,  while a beta above 1.0 implies moves greater than the market. All things equal,  finance theory associates a higher beta with higher risk and reward.
 
 Beta is wonderful theoretically but fails practically and empirically. The practical failure surrounds what beta to actually use in the CAPM. Ideally,  we want forward-looking betas,  which we cannot reliably estimate. Beta's empirical failure reflects studies showing beta does a poor job explaining returns. 5
+
 A visit to the Bloomberg terminal shows the problem with blithely using the CAPM. In mid-March 2006,  General Motors had a beta of 1.3 while Yahoo! Had a beta in excess of 1.6. It would be hard for a businessperson to argue that Yahoo is likely to be significantly more risky than General Motors over an appropriate forecast time horizon. Indeed,  the implied option volatilities suggest more risk at GM than YHOO. While gauging the relative risks of businesses is clearly valuable,  investors have to impose judgment on the figures the various services produce. The second important input into the CAPM is the equity risk premium,  the return above and beyond the risk-free rate an investor expects to earn as compensation for assuming greater risk. Like beta,  the equity risk premium is ideally a forward-looking estimate. Most analysts rely on past equity risk premiums,  which,  depending on the time frame,  may not give a reasonable sense of the return outlook. Most of the problems with the cost of capital come from stale inputs for beta and the equity risk premium. For example,  the geometric average equity risk premium was 1.9 percentage points from 1982-2005,  3.7 percentage points from 1962-2005,  and 6.2 percentage points from 1926-2005. 6 The arithmetic average equity risk premiums during the same time frames were higher.
 
 One area of debate in valuation is whether the geometric or arithmetic average is more appropriate. We favor geometric returns for long term models and arithmetic averages for shortterm return forecasts. 7
+
 In addition,  research suggests the equity risk premium is probably nonstationary,  which means using past averages may be very misleading. Specifically,  variables shaping the equity risk premium—like past stock returns,  stock price volatility,  and business conditions—clearly change,  making it likely the ex-ante equity risk premium changes as well. 8
+
 Whether you add 200 or 600 basis points* to the current risk-free rate of 4.7 percent (mid-March 2006) will make a significant difference in the model's output. Exhibit 2 shows a sample of equity risk premiums assumed in recent sell-side analyst reports. Our best advice is to settle on a cost of capital that makes business and economic sense. Some academics suggest the equity risk premium is in the 3 to 4 percentage point range,  which strikes us as reasonable. 9 The midpoint of this range implies a market return of roughly 8 percent over time.
 
 Source: Various sellside reports.
@@ -49,7 +68,7 @@ Source: Various sellside reports.
 Finally,  while some sensitivity analysis around the cost of capital can be useful,  we would argue investors are much better off considering alternative scenarios for the key operating value drivers (sales growth,  margins,  capital intensity). Sometimes asset mispricings do show up as high discount rates,  as we saw in the high-yield bond market in late 2002. But even there,  you could argue great investors have historically generated an edge by understanding the value drivers better than the market.
 
 1. Mismatch between assumed investment and earnings growth. Companies invariably must invest in the business—via working capital,  capital spending,  acquisitions,  R&D,  etc.—in order to grow over an extended period. Return on investment (ROI) determines how efficiently a company translates its investments into earnings growth. Since ROI links investment and growth,  and ROIs tend toward the cost of capital over time,  investors must treat the relationship between investment and growth carefully. DCF models commonly underestimate the investment necessary to achieve an assumed growth rate. This mistake often comes from two sources. First,  analysts looking at companies that have been highly acquisitive in the past extrapolate an acquisition-enhanced growth rate while only reflecting capital spending and working capital needs for the current business. You can mitigate this error by carefully considering the growth likely to come from today's business—which will be less than an acquisition-fueled rate. The second reason for underestimating investment stems from a simple failure to explicitly link growth and investments via ROI. Analysts frequently project growth (sales and margins) independent of investments. A simple way to check for this error is to add a ROI line in the model. If you see ROIs rising or dropping sharply without a thoughtful strategic underpinning,  the model is likely unreliable. The vast majority of the models we see make no effort to reflect a link between growth and investment.
-1. Improper reflection of other liabilities. In the widely-used free cash flow to enterprise approach,  an analyst determines the corporate value based on the present value of future cash flows. The analyst then adds cash and any other nonoperating assets and subtracts debt and any other liabilities to arrive at shareholder value. Most liabilities,  including debt and many pension programs,  are relatively straightforward to determine and reflect in the model. Some other liabilities,  like employee stock options,  are trickier to capture. Not surprisingly,  most analysts do a very poor job capturing these liabilities in an economically sound way. We would note that other liabilities tend to be important for only a handful of companies. For example,  other postretirement employee benefit plans tend to concentrate in manufacturing industries (e.g.,  autos) while employee stock options occur most frequently in knowledge and service industries (e.g.,  technology and financial services). Investors must properly recognize other liabilities in the sectors where they have a large impact on corporate value. Employee stock options are a good illustration of this common shortcoming. Most DCF models simply reflect past option grants through fully diluted shares. Of course,  since fully diluted shares only reflect in-the-money options,  the solution does an awful job of capturing the magnitude of the liability. 10 While accounting standards now require companies to expense options,  we have found few DCF models that explicitly treat future option grants as an expense. Often,  analyst models show rising shares outstanding (dilution) and models sometimes include option proceeds without reflecting any dilution. We can deal with ESOs appropriately by treating already-granted options as a contingent liability,  using basic shares outstanding,  and reflecting future option grants as an expense. This approach allows for a dynamic appraisal of past option grants and considers future grants as an economic expense.
+1. Improper reflection of other liabilities. In the widely-used free cash flow to enterprise approach,  an analyst determines the corporate value based on the present value of future cash flows. The analyst then adds cash and any other nonoperating assets and subtracts debt and any other liabilities to arrive at shareholder value. Most liabilities,  including debt and many pension programs,  are relatively straightforward to determine and reflect in the model. Some other liabilities,  like [[Week 4 ESOs and Valuation|employee stock options]],  are trickier to capture. Not surprisingly,  most analysts do a very poor job capturing these liabilities in an economically sound way. We would note that other liabilities tend to be important for only a handful of companies. For example,  other postretirement employee benefit plans tend to concentrate in manufacturing industries (e.g.,  autos) while [[Week 4 ESOs and Valuation|employee stock options]] occur most frequently in knowledge and service industries (e.g.,  technology and financial services). Investors must properly recognize other liabilities in the sectors where they have a large impact on corporate value. [[Week 4 ESOs and Valuation|Employee stock options]] are a good illustration of this common shortcoming. Most DCF models simply reflect past option grants through fully diluted shares. Of course,  since fully diluted shares only reflect in-the-money options,  the solution does an awful job of capturing the magnitude of the liability. 10 While accounting standards now require companies to expense options,  we have found few DCF models that explicitly treat future option grants as an expense. Often,  analyst models show rising shares outstanding (dilution) and models sometimes include option proceeds without reflecting any dilution. We can deal with ESOs appropriately by treating already-granted options as a contingent liability,  using basic shares outstanding,  and reflecting future option grants as an expense. This approach allows for a dynamic appraisal of past option grants and considers future grants as an economic expense.
 1. Discount to private market value. In what we'd characterize as an unfortunate hangover from the 1980 s and 1990 s investment-banker mentality,  we still see DCF models that calculate a value,  only to modify the amount by a "public market discount" of 20-25 percent. This practice seems most prevalent in the telecommunications industry. This practice fails the transparency test. To see the point,  we have to invert the discount mindset and ask why a private (strategic or financial) buyer would pay a *premium* to public market value.
 
 Perhaps the private buyer believes the stock is undervalued (in which case the premium wipes out the benefit). More likely,  the buyer believes it can generate a higher stream of cash flows from the acquired assets than the target company can by itself. Synergies,  the benefits of putting two companies together,  often justify most if not all of the premium. Alternatively,  a buyer may allocate capital differently or use financial leverage to enhance after-tax cash flows. To be sensible,  a DCF model reflecting a public market discount must already incorporate synergies or some other catalyst for higher cash flows the company cannot achieve on its own. Modeling possible deal synergies is fine,  though the exercise should remain separate from valuing the standalone business. The discount-to-private-market-value model lacks sufficient transparency because it conflates the base and synergy cash flows.
@@ -95,7 +114,7 @@ Let’s plug in some numbers to demonstrate the equivalence. Assume:
 
 The standard formula:
 
-- $$\text{Value}= \frac{100 \times (1-(5\%/12\%))}{9\% - 5\%} = \frac{58.33}{4\%} = 1, 458.3$$
+- $$\text{Value}= \frac{100 \times (1-(5\%/12\%))}{9\% - 5\%} = \frac{58.33}{4\%} = 1,  458.3$$
 
 In order to calculate the value using the FCF method,  we need to know the magnitude of investment. Note that FCF equals NOPAT – Investment.
 
@@ -110,7 +129,7 @@ Now,  we know that FCF$$= 58.33. [\text{NOPAT of } 100 \text{ minus Investment o
 
 So the FCF in perpetuity model gives:
 
-- $$\text{Value}= \frac{58.33}{9\% – 5\%} = \frac{58.33}{4\%} = 1, 458.3$$
+- $$\text{Value}= \frac{58.33}{9\% – 5\%} = \frac{58.33}{4\%} = 1,  458.3$$
 
 ## CONSISTENCY IN ASSUMPTIONS
 
@@ -129,7 +148,7 @@ Let’s hold all of our assumptions constant except ROIC,  which we’ll set equ
 
 The standard formula now yields:
 
-- $$\text{Value}= \frac{100 \times (1-(5\%/9\%))}{9\% - 5\%} = \frac{44.44}{4\%} = 1, 111.1$$
+- $$\text{Value}= \frac{100 \times (1-(5\%/9\%))}{9\% - 5\%} = \frac{44.44}{4\%} = 1,  111.1$$
 
 The same is true for the FCF in perpetuity model. First,  we need to recalculate the investment:
 
@@ -138,7 +157,7 @@ The same is true for the FCF in perpetuity model. First,  we need to recalculate
 So,
 
 - FCF$$= 44.44. [100 – 55.56 = 44.44].$$
-- $$\text{Value}= \frac{44.44}{9\% – 5\%} = \frac{44.44}{4\%} = 1, 111.1$$
+- $$\text{Value}= \frac{44.44}{9\% – 5\%} = \frac{44.44}{4\%} = 1,  111.1$$
 
 ## PERPETUITY ASSUMPTION
 
@@ -146,7 +165,7 @@ The straight perpetuity assumption is simply:
 
 - $$\text{Value}= \frac{\text{NOPAT}_{CAP+1}}{\text{WACC}}$$
   - Or:
-	 - $$\text{Value}= \frac{100}{9\%} = 1, 111.1$$
+	 - $$\text{Value}= \frac{100}{9\%} = 1,  111.1$$
 
 All continuing value methods collapse to the same value as a perpetuity if you assume ROIC equals WACC. Growth beyond the forecast period does not matter in and of itself.
 
@@ -157,24 +176,29 @@ All continuing value methods collapse to the same value as a perpetuity if you a
 1 Tim Koller,  Marc Goedhart,  and David Wessels,  Valuation: Measuring and Managing the Value of Companies,  4 th ed.,  (New York: John Wiley & Sons,  2005),  361.
 
 2 Krishna G. Palepu,  Paul M. Healy and Victor L. Bernard,  Business Analysis & Valuation
+
 (Cincinnati: South-Western College Publishing,  2000),  10-6; Pankaj Ghemawat,  Commitment:
+
 The Dynamic of Strategy (New York: Free Press,  1991),  82.
 
 3 Here's a quotation from a recent sell-side research report,  "Discounted cash flow is often touted as the preferred approach; however,  present values are often terribly sensitive to the most minute tweak of one's terminal value assumptions. So,  we keep coming back to the simple but effective method of applying multiples to the earnings of future periods."
+
 4 We assumed that depreciation equals 20 percent of EBITA and a 35 percent tax rate. We then selected the six percent growth rate and solved for the ROIC.
 
-5 Eugene F. Fama and Kenneth R. French,  "The Cross-section of Expected Stock Returns, "
-Journal of Finance 47,  1992,  427-465; and Eugene F. Fama and Kenneth R. French,  "The Capital Asset Pricing Model: Theory and Evidence, " *The Journal of Economic Perspectives*,  Vol. 18,  3,  Summer 2004,  25-46.
+5 Eugene F. Fama and Kenneth R. French,  "The Cross-section of Expected Stock Returns,  "
+
+Journal of Finance 47,  1992,  427-465; and Eugene F. Fama and Kenneth R. French,  "The Capital Asset Pricing Model: Theory and Evidence,  " *The Journal of Economic Perspectives*,  Vol. 18,  3,  Summer 2004,  25-46.
 
 6 See www.jeremysiegel.com.
 
 7 Aswath Damodaran,  Investment Valuation: Tools and Techniques for Determining the Value of Any Asset,  2 nd ed. (New York: John Wiley & Sons,  2002),  161-162. Also,  Bradford Cornell,  The Equity Risk Premium: The Long-Run Future of the Stock Market (New York: John Wiley & Sons,
+
 1999),  36-39.
 
 8 Cornell,  45-53.
 
 9 Daniel Altman,  "Why Do Stocks Pay So Much More Than Bonds?" *The New York Times*,  February 26,  2006.
 
-10 Michael J. Mauboussin,  "Employee Stock Options: Theory and Practice, " Mauboussin on Strategy,  September 7,  2004.
+10 Michael J. Mauboussin,  "Employee Stock Options: Theory and Practice,  " Mauboussin on Strategy,  September 7,  2004.
 
 11 Alfred Rappaport and Michael J. Mauboussin,  Expectations Investing: Reading Stock Prices for Better Returns (Boston,  MA: Harvard Business School Press,  2001),  40-46.

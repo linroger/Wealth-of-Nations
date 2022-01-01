@@ -1,16 +1,16 @@
 ---
 aliases:
-- Example_Alias_Discussion of Loan Covenants vs
-- Alias_24_Discussion of Loan Covenants vs. Bond Covenants.md
+- Example_Alias_Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs
+- Alias_24_Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants.md
 tags:
 - tag_example
 - example_tag
-title: Discussion of Loan Covenants vs. Bond Covenants
+title: Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 ---
 
 
 
-# Discussion of Loan Covenants vs. Bond Covenants
+# Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 
 Business 35202 Douglas W. Diamond
 
@@ -33,14 +33,14 @@ Options to fix the effect of excessive debt on risk choice. (From week 1)
 - The US Federal Trust Indenture Act prohibits majority voting to restructure debt contracts that reduce principal,  interest,  or extend the debt maturity.
 - A 100% vote is required to change these “key covenants."
 - Thus,  even if public bondholders had the information,  they probably could not use it.
-- Changes to other covenants in bonds are not regulated,  but many bonds require a 2/3 vote in dollar value and 50% measured in the fraction of bondholders (not weighted by dollar value).
+- Changes to other [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] in bonds are not regulated,  but many bonds require a 2/3 vote in dollar value and 50% measured in the fraction of bondholders (not weighted by dollar value).
 - This is the voting rule in US Chapter 11.
 
-1. Why are there more covenants in the loan than in the bond?
-- Why do the loans have covenants that are more likely to be violated?
+1. Why are there more [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] in the loan than in the bond?
+- Why do the loans have [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] that are more likely to be violated?
 1. Why are there more restrictions in the 2003 Wellman loans than in the 1999 loans?
 1. Why is the loan's definition of a default so different from that in the bond?
-- The section on default from a 1999 loan agreement has more contingencies defining default than the MGM bond and does not have the bond's requirement that a trustee wishes to declare a default if there are violations of non-financial covenants or any requirement that at least 25% of loan holders want to declare a default in that circumstance.
+- The section on default from a 1999 loan agreement has more contingencies defining default than the MGM bond and does not have the bond's requirement that a trustee wishes to declare a default if there are violations of non-financial [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] or any requirement that at least 25% of loan holders want to declare a default in that circumstance.
 
 1. How do the loan contracts allow the lenders to exercise control over the borrower?
 ![](https://storage.simpletex.cn/view/fBvhPxVfMooQHmOrE3VhB1VOXxp466AqF)
@@ -97,7 +97,7 @@ In this bond's summary,  we see the same material from the Bloomberg,  and also
 - There is some sort of optional redemption
 - There are several covenants
 
-We'll return to the covenants later. First,  let's look at this optional redemption. On page S-10,  we get this:
+We'll return to the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] later. First,  let's look at this optional redemption. On page S-10,  we get this:
 
 ### Optional Redemption
 
@@ -144,7 +144,7 @@ An indenture will have a section on covenants,  which are actions the issuer eit
 
 - If management always maximizes expected value,  there is no positive role for covenants. They can only reduce expected value by constraining management. A covenant might make debt sell for more,  but if it doesn't increase total value,  then it must simultaneously make equity worth less,  so the net effect to equity from selling the debt is negative.
 
-So covenants must be there to defend against management’s bad incentives,  particularly its willingness to take negative NPV actions that move value from debt to equity.
+So [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] must be there to defend against management’s bad incentives,  particularly its willingness to take negative NPV actions that move value from debt to equity.
 The MGM bond lists three covenants:
 
 ## Negative Pledge
@@ -233,7 +233,7 @@ Under Modification and Waiver,  the indenture reads
 
 We and the trustee,  at any time and from time to time,  may modify the indenture in respect of the notes without prior notice to or consent of any holder of the notes for any of the following purposes:
 
-- To permit a successor corporation to assume our covenants and obligations under the indenture and in the notes in accordance with the terms of the indenture; to add to our covenants for the notes;
+- To permit a successor corporation to assume our [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] and obligations under the indenture and in the notes in accordance with the terms of the indenture; to add to our [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] for the notes;
 - To surrender any of our rights or powers conferred in the indenture; to add any additional events of default to supplement any of the provisions of the indenture to the extent needed to permit or facilitate the defeasance and discharge of the notes in a manner that will not adversely affect the interests of the holders of such notes in any material respect;
 - to provide for the acceptance of appointment by a successor trustee with respect to the notes and to add to or change any of the provisions of the indenture as is necessary to provide for the administration of the trust by more than one trustee to comply with the requirements of the SEC in connection with qualification of the indenture under the Trust Indenture Act to cure any ambiguity; to correct or supplement any provision in the indenture which may be defective or inconsistent with any other provision in the indenture; to eliminate any conflict between the terms of the indenture and the notes and the Trust Indenture Act;
 - Or to make any other provisions with respect to matters or questions arising under the indenture which will not be inconsistent with any provision of the indenture as long as the new provisions do not adversely affect in any material respect the interests of the holders of the notes.
@@ -244,13 +244,13 @@ The Indenture provides that the holders of not less than a majority in the aggre
 
 What this says is that the issuer can change almost anything in the indenture if a majority of the bondholders agree (the text in green). What they can't change,  due to the Trust Indenture Act,  is anything having to do with timely payment of principal and interest (the text in red). That can be amended only with a unanimous vote.
 
-Holding a vote to remove covenants and other contract features turns out to be a useful tactic for distressed firms,  which we will cover in detail. For now,  notice that one could seriously damage the value of a bond without changing its principal,  interest,  or maturity - For example,  with this bond,  one could remove the part of the indenture that says the bond is senior and instead make it junior.
+Holding a vote to remove [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] and other contract features turns out to be a useful tactic for distressed firms,  which we will cover in detail. For now,  notice that one could seriously damage the value of a bond without changing its principal,  interest,  or maturity - For example,  with this bond,  one could remove the part of the indenture that says the bond is senior and instead make it junior.
 
-The law does not mandate that covenants be changeable by majority vote. An indenture could require a 3/4 vote or some other supermajority,  and it could also require a unanimous vote.
+The law does not mandate that [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] be changeable by majority vote. An indenture could require a 3/4 vote or some other supermajority,  and it could also require a unanimous vote.
 
 ### Defeasance
 
-Essentially,  all corporate bonds allow for defeasance and discharge.
+Essentially,  all [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] allow for defeasance and discharge.
 
 Defeasance and Discharge. The indenture provides that we may be discharged from any and all obligations under the notes other than certain obligations to pay additional amounts,  if any,  upon the occurrence of certain tax,  assessment,  or governmental charge events regarding payments on the notes; : tree eforeenta trust
 
@@ -260,7 +260,7 @@ certificate,  of money and/or U.S. government obligations that,  through the pay
 
 In other words,  the issuer can get out of,  i.e.be discharged of,  whatever it committed to in the indenture by arranging for the bond to be paid by a trust containing sufficient securities,  i.e. to be defeased. So the firm will.
 
-Assemble a portfolio of government bonds whose scheduled payments will pay off the bond - On or before each coupon or principal repayment date of the bond,  the portfolio pays at least as much as the scheduled payment - Place this portfolio in an irrevocable trust which is directed to use the portfolio's payments to make the remaining payments on the bond. - The investors in a defeased bond would regard it as riskless,  and it would trade at something very close to the Treasury yield - By the same token,  the cost of the portfolio of Treasuries is the present value of the bond’s future payments,  discounted at the Treasury rate. If the bond's indenture gives the issuer the right to defease the bond,  then the issuer is no longer bound by the covenants after defeasance.
+Assemble a portfolio of government bonds whose scheduled payments will pay off the bond - On or before each coupon or principal repayment date of the bond,  the portfolio pays at least as much as the scheduled payment - Place this portfolio in an irrevocable trust which is directed to use the portfolio's payments to make the remaining payments on the bond. - The investors in a defeased bond would regard it as riskless,  and it would trade at something very close to the Treasury yield - By the same token,  the cost of the portfolio of Treasuries is the present value of the bond’s future payments,  discounted at the Treasury rate. If the bond's indenture gives the issuer the right to defease the bond,  then the issuer is no longer bound by the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] after defeasance.
 
 Connection between defeasance and make-whole call options.
 
@@ -271,7 +271,7 @@ If MGM were to exercise its make-whole call option,  it would pay bondholders th
 The net effect of exercising the make-whole option is the same as the net effect of defeasing the bond.
 
 - After exercising the make-whole option,  the bond is gone.
-- After defeasing the bond,  it is effectively gone—the payments to bondholders will come from the trust,  not from MGM,  and the covenants are no longer in effect.
+- After defeasing the bond,  it is effectively gone—the payments to bondholders will come from the trust,  not from MGM,  and the [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] are no longer in effect.
 
 From the bondholders' point of view,  the two strategies are very similar.
 

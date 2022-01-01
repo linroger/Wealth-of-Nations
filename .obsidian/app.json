@@ -1,14 +1,19 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
   "propertiesInDocument": "hidden",
   "userIgnoreFilters": [
     "Attachments/",
     "Tags/",
-    "svg-cache/"
+    "svg-cache/",
+    "/[aA][tT][tT][aA][cC][hH][mM][eE][nN][tT][sS]/"
   ],
   "showUnsupportedFiles": true,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "foldHeading": false,
+  "foldIndent": false
 }

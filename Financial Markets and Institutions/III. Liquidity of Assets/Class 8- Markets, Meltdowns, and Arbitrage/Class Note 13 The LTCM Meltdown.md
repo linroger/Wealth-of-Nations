@@ -1,29 +1,25 @@
 ---
 aliases:
-- Example_Alias_Class Note 13 The LTCM Meltdown
-- Alias_95_Class Note 13 The LTCM Meltdown.md
+- Example_Alias_Class Note 13 The [[Class Note 13 The LTCM Meltdown|LTCM]] Meltdown
+- Alias_95_Class Note 13 The [[Class Note 13 The LTCM Meltdown|LTCM]] Meltdown.md
 tags:
 - tag_example
 - example_tag
-title: Class Note 13 The LTCM Meltdown
+title: Class Note 13 The [[Class Note 13 The LTCM Meltdown|LTCM]] Meltdown
 ---
-
-
-
-
 # Class Note 13 The LTCM Meltdown
 
 ## I.Introduction
 
-To understand Long Term Capital Management's (LTCM) meltdown,  note that they were taking liquidity risk in two ways. First,  they were long less liquid assets and short more liquid assets that provided almost the same cash flows. For example,  they were long the 29.5 year off the run treasury and short the 30 year on the run treasury bond.Second,  they took large margined positions. They were subject to the liquidity risk of a margin call where they would be forced to close out the position.If they faced liquidation losses from unwinding positions,  and if their capital was sufficiently impaired to make losses to lenders possible,  they could have a "run" as lenders foreclose in anticipation of other lenders foreclosing
+To understand Long Term Capital Management's ([[Class Note 13 The LTCM Meltdown|LTCM]]) meltdown,  note that they were taking liquidity risk in two ways. First,  they were long less liquid assets and short more liquid assets that provided almost the same cash flows. For example,  they were long the 29.5 year off the run treasury and short the 30 year on the run treasury bond.Second,  they took large margined positions. They were subject to the liquidity risk of a margin call where they would be forced to close out the position.If they faced liquidation losses from unwinding positions,  and if their capital was sufficiently impaired to make losses to lenders possible,  they could have a "run" as lenders foreclose in anticipation of other lenders foreclosing
 
-Whenever there is a limit toliquidity creation,  illiquid assets will need to offer higher expected returns than more liquid assets. Institutions like banks can be set up to partially arbitrage away this price of illiquidity. The arbitrage between the more and less liquid assets is a significant part of the LTCM strategy.They specialize in near arbitrage between assets for which it was hard to see that their only difference is liquidity (although this is not their stated goal,  it is my interpretation). LTCM has a comparative advantage in making these bets.They have the quantitative and creative skills to value the assets (probably the best such skills in the world). And because they lock in investors for a long term,  it seemed unlikely that they would need to liquidate early
+Whenever there is a limit toliquidity creation,  illiquid assets will need to offer higher expected returns than more liquid assets. Institutions like banks can be set up to partially arbitrage away this price of illiquidity. The arbitrage between the more and less liquid assets is a significant part of the [[Class Note 13 The LTCM Meltdown|LTCM]] strategy.They specialize in near arbitrage between assets for which it was hard to see that their only difference is liquidity (although this is not their stated goal,  it is my interpretation). [[Class Note 13 The LTCM Meltdown|LTCM]] has a comparative advantage in making these bets.They have the quantitative and creative skills to value the assets (probably the best such skills in the world). And because they lock in investors for a long term,  it seemed unlikely that they would need to liquidate early
 
 Their losses got so large that they faced problems with margin calls rather than investor withdrawals. Thus,  they lost their long horizon. Second,  during the period of panic after the Russian default,  the significance of liquidity on asset prices increased. The Russian default revealed information that the International Monetary Fund (the closest thing to an international lender of last resort) would not bail out a country that did not live up to its promises,  even if this might damage the stability of world financial markets. Investors gravitated toward more liquid assets,  depressing the price of illiquid assets. relative to liquid. This caused the correlation between their positions to increase beyond.
 
-what had existed in the previous data they had used to estimate the value at riskin their positions.
+what had existed in the previous data they had used to estimate the value at risk in their positions.
 
-All of this we can easily understand in the Diamond-Dybvigbank run model.It shows that it pays to try to earn theliquidity premium,  but that you are exposed to the risk that you might melt down.That model does not stress that some liquidity bets are hard to see and require special asset pricing skills to identify.In addition,  there is more that we can learn by focusing in general on the risk of taking long-term arbitrage-like positions.
+All of this we can easily understand in the Diamond-Dybvig bank run model.It shows that it pays to try to earn the liquidity premium,  but that you are exposed to the risk that you might melt down.That model does not stress that some liquidity bets are hard to see and require special asset pricing skills to identify.In addition,  there is more that we can learn by focusing in general on the risk of taking long-term arbitrage-like positions.
 
 The goal of this class note is to understand the risks in taking positions that are very similar to riskless arbitrage opportunities.I want to both simplify and extend the ideas in the Shleifer-Vishny paper in the packet,  "The Limits to Arbitrage." Read the words in that paper.You can use the math in this note if you do not want to invest in the math in their model
 
@@ -130,7 +126,7 @@ The prices in table 1 already reflect the activities of arbs. We will assume tha
 
 II.C.
 
-## LTCM as a long term arb
+## [[Class Note 13 The LTCM Meltdown|LTCM]] as a long term arb
 
 Suppose that your fund had a very good reputation,  and you could get funds locked in and avoid PBA.You would have a relatively easy life (assuming that you really did have the skill to see opportunities),  because long term opportunities would be passed over by short term PBA funds.
 
@@ -145,13 +141,13 @@ $$\begin{aligned}
 
 The two-period return of the long-term fund (assuming that it raises no new capital at date 2,     so it can't scale up its bet if the price goes down at date 2).
 
-The ability to lock in the funds for the long term allows the fund to take different bets in markets with less competition. This is part of the story behind the establishment of LTCM.Their reputation was so strong that they could get moneylocked in.
+The ability to lock in the funds for the long term allows the fund to take different bets in markets with less competition. This is part of the story behind the establishment of [[Class Note 13 The LTCM Meltdown|LTCM]].Their reputation was so strong that they could get moneylocked in.
 
-The problem arose when they lost so much money that they faced margin calls. For a large enough loss,    evenLTCM had the equivalent of PBA,    leading to forced sales at the bottom. LTCM had locked in investor's old money. But once they had lost enough to face margin calls,     their ability to raise new capital to meet the calls without liquidating their positions was limited.Not only was there standard PBA uncertainty about LTCM's ability to continue to make excess returns at low risk,     but there was a bank run style collective action problem. Unless LTCM could attract enough capital to meet all near term margin calls,    it would be forced to get out at the bottom.Anticipating this,    they would be unable to raise smaller amounts of capital. Since the market thought it was likely that they would soon liquidate and push down the price,     the current price of their positions moved against them due to front running.
+The problem arose when they lost so much money that they faced margin calls. For a large enough loss,    even[[Class Note 13 The LTCM Meltdown|LTCM]] had the equivalent of PBA,    leading to forced sales at the bottom. [[Class Note 13 The LTCM Meltdown|LTCM]] had locked in investor's old money. But once they had lost enough to face margin calls,     their ability to raise new capital to meet the calls without liquidating their positions was limited.Not only was there standard PBA uncertainty about [[Class Note 13 The LTCM Meltdown|LTCM]]'s ability to continue to make excess returns at low risk,     but there was a bank run style collective action problem. Unless [[Class Note 13 The LTCM Meltdown|LTCM]] could attract enough capital to meet all near term margin calls,    it would be forced to get out at the bottom.Anticipating this,    they would be unable to raise smaller amounts of capital. Since the market thought it was likely that they would soon liquidate and push down the price,     the current price of their positions moved against them due to front running.
 
-Let us modify the notion that LTCM will not lose funds under management,     to assume instead that theywill lose them only if their loss isvery large(defined below).If LTCM assumed that their losses would not be“very large",    this would not affect the position that they take. And if they (and others like them) did get such a loss,     it would push down the price as they were forced to liquidate.
+Let us modify the notion that [[Class Note 13 The LTCM Meltdown|LTCM]] will not lose funds under management,     to assume instead that theywill lose them only if their loss isvery large(defined below).If [[Class Note 13 The LTCM Meltdown|LTCM]] assumed that their losses would not be“very large",    this would not affect the position that they take. And if they (and others like them) did get such a loss,     it would push down the price as they were forced to liquidate.
 
-A large unanticipated price drop would result in a meltdown (forced liquidation) A meltdown causes an even larger price drop when the arbs (LTCM in particular) liquidate. Normally,     the trades of arbs are a stabilizing force,     offsetting the trades of noise traders who would push the price further below100.When there is a meltdown,     this reverses.Instead of being a stabilizing force,    the arbs further destabilize the price by joining the selling
+A large unanticipated price drop would result in a meltdown (forced liquidation) A meltdown causes an even larger price drop when the arbs ([[Class Note 13 The LTCM Meltdown|LTCM]] in particular) liquidate. Normally,     the trades of arbs are a stabilizing force,     offsetting the trades of noise traders who would push the price further below100.When there is a meltdown,     this reverses.Instead of being a stabilizing force,    the arbs further destabilize the price by joining the selling
 
 To evaluate this further,    we need to think about price formation.This gets a bit complicated,     and we will just follow Shelifer-Vishny.
 
@@ -161,9 +157,9 @@ $$P_t=\left\{\begin{matrix}P_{t-1}+\text{Noise trade }+\text{arb trades}\quad\te
 
 We could allow for arb trades in addition to news trades,     but in normal circumstances,    news trades from many investors who see the mis-pricing will be sufficient to remove arbitrage opportunities.
 
-Let us assume that LTCM already had established a position in the trade before date 1 (because of past mis-pricing),     and was long 20 units. Thus if LTCM was not long 20 units,     the price would be lower by 20. Arbs who are subject to PBA would not trade before date 2. (In practice,     other arbs sometimes copied LTCM,     so there might be some others who each took smaller positions in the same bets as LTCM.We will ignore this.) The prices in back in table 1include the efforts of various arbs.If they were not present. the date 1 and 2 prices would be lower,     in part because of liquidity differences,    in part because of "noise trader" selling.
+Let us assume that [[Class Note 13 The LTCM Meltdown|LTCM]] already had established a position in the trade before date 1 (because of past mis-pricing),     and was long 20 units. Thus if [[Class Note 13 The LTCM Meltdown|LTCM]] was not long 20 units,     the price would be lower by 20. Arbs who are subject to PBA would not trade before date 2. (In practice,     other arbs sometimes copied [[Class Note 13 The LTCM Meltdown|LTCM]],     so there might be some others who each took smaller positions in the same bets as [[Class Note 13 The LTCM Meltdown|LTCM]].We will ignore this.) The prices in back in table 1include the efforts of various arbs.If they were not present. the date 1 and 2 prices would be lower,     in part because of liquidity differences,    in part because of "noise trader" selling.
 
-Table 2 shows the impact of the arbs.Before date 1,    LTCM had a position of 20. On date 1,     the price is 80. The price would have dropped on that date,     but LTCM bought 5 more,    offsetting selling of 5 by noise traders on date 1. There is further noise trade on date 2 with probabiliy q.If the noise trade occurs at date 2 it is noise trader selling of 25. This is partly offset by added buying of 5 more units by LTCM,     and buying of 10 units
+Table 2 shows the impact of the arbs.Before date 1,    [[Class Note 13 The LTCM Meltdown|LTCM]] had a position of 20. On date 1,     the price is 80. The price would have dropped on that date,     but [[Class Note 13 The LTCM Meltdown|LTCM]] bought 5 more,    offsetting selling of 5 by noise traders on date 1. There is further noise trade on date 2 with probabiliy q.If the noise trade occurs at date 2 it is noise trader selling of 25. This is partly offset by added buying of 5 more units by [[Class Note 13 The LTCM Meltdown|LTCM]],     and buying of 10 units
 
  
 by PBA arbs who see the opportunity (and are willing to bet now that it is short-term arbitrage).
@@ -246,9 +242,9 @@ Table 2: Trades by arbs and noise traders that produce prices in table 1.
 	</tbody>
 </table>
 
-Supposeinstead that thingsplay out differently on and after date 1.TheRussian default causes panic selling at date 1 by noise traders,    when LTCM already has a position of 20.The noise trade at 1 is now -30 .If this loss is large enough to force LTCM out immediately at date 1,    forcing them to sell 20 at date 1,    look at the meltdown in table 3:
+Supposeinstead that thingsplay out differently on and after date 1.TheRussian default causes panic selling at date 1 by noise traders,    when [[Class Note 13 The LTCM Meltdown|LTCM]] already has a position of 20.The noise trade at 1 is now -30 .If this loss is large enough to force [[Class Note 13 The LTCM Meltdown|LTCM]] out immediately at date 1,    forcing them to sell 20 at date 1,    look at the meltdown in table 3:
 
-Table 3: A meltdown after the Russian default,     if LTCM must liquidate immediately
+Table 3: A meltdown after the Russian default,     if [[Class Note 13 The LTCM Meltdown|LTCM]] must liquidate immediately
 
 <table>
 	<tbody>
@@ -325,16 +321,16 @@ Table 3: A meltdown after the Russian default,     if LTCM must liquidate immedi
 	</tbody>
 </table>
 
-The panic from the Russian crisis would make the price fall by 30 (from 80 to 50 on date 1)by itself.By forcing the LTCM to liquidate,    it makes the price fall by 50(80 to 30). The losses force aliquidation,    in awayvery similar to a bankrun.
+The panic from the Russian crisis would make the price fall by 30 (from 80 to 50 on date 1)by itself.By forcing the [[Class Note 13 The LTCM Meltdown|LTCM]] to liquidate,    it makes the price fall by 50(80 to 30). The losses force aliquidation,    in awayvery similar to a bankrun.
 
-In practice,    LTCM was careful to get some advanced assurance from margin lenders not to force immediate margin calls.As a result,    they had some time to meet the calls.We can interpret this as meaning that they are not forced out at date 1,    but can wait until date 2 to sell.If the news trade were to arrive on date 2 (which happens with
+In practice,    [[Class Note 13 The LTCM Meltdown|LTCM]] was careful to get some advanced assurance from margin lenders not to force immediate margin calls.As a result,    they had some time to meet the calls.We can interpret this as meaning that they are not forced out at date 1,    but can wait until date 2 to sell.If the news trade were to arrive on date 2 (which happens with
 
  
-probability 1-q),     they could avoid liquidating their position. However,     with probabilty q,     the noise trade of -25 comes in at date 2,     and LTCM would be forced to sell on date 2.
+probability 1-q),     they could avoid liquidating their position. However,     with probabilty q,     the noise trade of -25 comes in at date 2,     and [[Class Note 13 The LTCM Meltdown|LTCM]] would be forced to sell on date 2.
 
-Suppose that LTCM could delayliquidation until date 2,    and it could still buy5 at date 1 to seek a profit.Then the prices after the Russian default would be those shown in table 4.
+Suppose that [[Class Note 13 The LTCM Meltdown|LTCM]] could delayliquidation until date 2,    and it could still buy5 at date 1 to seek a profit.Then the prices after the Russian default would be those shown in table 4.
 
-Table 4:A delayed meltdown if LTCM canwait toliquidate:
+Table 4:A delayed meltdown if [[Class Note 13 The LTCM Meltdown|LTCM]] canwait toliquidate:
 
 <table>
 	<tbody>
@@ -411,10 +407,10 @@ Table 4:A delayed meltdown if LTCM canwait toliquidate:
 	</tbody>
 </table>
 
-Let us compute the expected price change from date 1 to 2.With probability q,    there is a noise trade that forces it down to 15,     because LTCM is forced out. With probability 1-q,     there is a news trade,     that pushes the price up to 75 (and then LTCM is not forced out). The expected price change is then:
+Let us compute the expected price change from date 1 to 2.With probability q,    there is a noise trade that forces it down to 15,     because [[Class Note 13 The LTCM Meltdown|LTCM]] is forced out. With probability 1-q,     there is a news trade,     that pushes the price up to 75 (and then [[Class Note 13 The LTCM Meltdown|LTCM]] is not forced out). The expected price change is then:
 
 $$\begin{matrix}\mathrm{q(15-55)+(1-q)(75-55)=}&20-\mathrm{q(60)}\end{matrix}$$
 
-For $q=$ ，this is +5 ,    but for $q=0.5$ ,     it is -10 .Let's assume $q=0.5$ ,     and we will learn something about thefront runningproblem faced by LTCM.
+For $q=$ ，this is +5 ,    but for $q=0.5$ ,     it is -10 .Let's assume $q=0.5$ ,     and we will learn something about thefront runningproblem faced by [[Class Note 13 The LTCM Meltdown|LTCM]].
 
 When the expected price change from date1 to 2is negative,    any traderwho knows that he or she must sell on date 2 will instead sell on date 1.Further,     if not subject to PBA,    it will be profitable to short on date 1 so long as the expected price change is negative.If some of this trade occurs,    it will further reduce the date 1 price.We will examine this in homework 5.

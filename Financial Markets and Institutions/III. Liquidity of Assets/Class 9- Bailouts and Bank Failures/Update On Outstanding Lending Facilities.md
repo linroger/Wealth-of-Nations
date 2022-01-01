@@ -18,7 +18,7 @@ title: Update On Outstanding Lending Facilities
 ## Overview
 
 The Board of Governors of the Federal Reserve System (Board) is providing the following updates concerning certain lending facilities established by the Board under section 13(3) of the Federal Reserve Act (12 U.S.C. § 343). Pursuant to section 13(3)(C) of the Federal Reserve Act,  the Board must provide the Committee on Banking,  Housing,  and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives (the Committees) an initial report regarding each facility established under section 13(3) and periodic updates at least every 30 days thereafter. This report provides the first periodic update for (1) the Primary Dealer Credit Facility
-(PDCF),  (2) the Commercial Paper Funding Facility (CPFF),  and (3) the Money Market Mutual Fund Liquidity Facility (MMLF).
+(PDCF),  (2) the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Funding Facility (CPFF),  and (3) the Money Market Mutual Fund Liquidity Facility (MMLF).
 
 In addition to the PDCF,  CPFF,  and MMLF,  the Board also has authorized the establishment of the following credit facilities under section 13(3) of the Federal Reserve Act: the Term Asset-Backed Securities Loan Facility,  the Secondary Market Corporate Credit Facility,  the Primary Market Corporate Credit Facility,  the Municipal Liquidity Facility,  the Paycheck Protection Program Lending Facility,  the Main Street New Loan Facility,  and the Main Street Expanded Loan Facility. Periodic updates concerning these facilities will be provided at least every 30 days,  in accordance with section 13(3) of the Federal Reserve Act
 
@@ -26,7 +26,7 @@ In addition to the PDCF,  CPFF,  and MMLF,  the Board also has authorized the es
 
 On March 17,  2020,  the Board authorized the Federal Reserve Bank of New York (FRBNY) to establish and operate the PDCF. The PDCF is a term loan facility that provides funding to primary dealers in exchange for a broad range of collateral and is intended to foster the functioning of financial markets more generally. The facility allows primary dealers to support smooth market functioning and facilitate the availability of credit to businesses and households. Additional information concerning the PDCF can be found in the report provided to the Committees on March 24,  2020,  and on the Board's public website.
 
- 1 This report includes the information that is required to be submitted to Congress in periodic reports under section 13(3)(C)(ii) of the Federal Reserve Act regarding the PDCF,  CPFF,  and MMLF. In addition,  the original version of the report regarding the CPFF submitted to the Committees on April 23,  2020,  described the aggregate collateral value under the facility as being reported on a "fair value" basis. The report should instead have described the amount reported as the "total value" of collateral. In particular,  consistent with Generally Accepted Accounting Principles,  some collateral under the CPFF,  including commercial paper,  was valued at amortized cost. This updated report,  posted to the Board's website on June 10,  2020,  corrects this error.
+ 1 This report includes the information that is required to be submitted to Congress in periodic reports under section 13(3)(C)(ii) of the Federal Reserve Act regarding the PDCF,  CPFF,  and MMLF. In addition,  the original version of the report regarding the CPFF submitted to the Committees on April 23,  2020,  described the aggregate collateral value under the facility as being reported on a "fair value" basis. The report should instead have described the amount reported as the "total value" of collateral. In particular,  consistent with Generally Accepted Accounting Principles,  some collateral under the CPFF,  including [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  was valued at amortized cost. This updated report,  posted to the Board's website on June 10,  2020,  corrects this error.
 
 Update. As of April 14,  2020:
 
@@ -35,14 +35,14 @@ Update. As of April 14,  2020:
 - The amount of interest,  fees,  and other revenue or items of value received by the FRBNY,  reported on an accrual basis,  was $5,  123,  056.
 - As described in the Board's initial report to Congress regarding the PDCF,  the PDCF includes features that are intended to mitigate risk to the Federal Reserve. The Board continues to expect that the PDCF will not result in losses to the Federal Reserve.
 
-## B. **Commercial Paper Funding Facility**
+## B. **[[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Funding Facility**
 
-On March 17,  2020,  the Board authorized the FRBNY to establish and operate the CPFF. The purpose of the CPFF is to provide liquidity to short-term funding markets. The CPFF provides a liquidity backstop to U.S. issuers of commercial paper,  including municipalities,  by purchasing three-month unsecured and asset-backed commercial paper directly from eligible issuers. Additional information concerning the CPFF can be found in the report provided to the Committees on March 24,  2020,  and on the Board's public website.
+On March 17,  2020,  the Board authorized the FRBNY to establish and operate the CPFF. The purpose of the CPFF is to provide liquidity to short-term funding markets. The CPFF provides a liquidity backstop to U.S. issuers of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  including municipalities,  by purchasing three-month unsecured and asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] directly from eligible issuers. Additional information concerning the CPFF can be found in the report provided to the Committees on March 24,  2020,  and on the Board's public website.
 
 Update. The CPFF began making purchases on April 14,  2020. As of April 14,  2020:
 
 - The outstanding amount of the FRBNY's loans to the special purpose vehicle (SPV) was $249,  262,  500.
-- The total outstanding amount of the commercial paper held by the SPV was $249,  270,  694.
+- The total outstanding amount of the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] held by the SPV was $249,  270,  694.
 - The total value of the collateral pledged to the FRBNY was $10,  269,  788,  841.2
 - The amount of interest,  fees,  and other revenue or items of value received by the FRBNY,  reported on an accrual basis,  was $0.00.
 - The amount of interest,  fees,  and other revenue or items of value received by the SPV,  reported on an accrual basis,  was $66,  376.

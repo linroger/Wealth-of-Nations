@@ -1,11 +1,38 @@
 ---
-aliases:
-- Alias_316_Week 3 Cyclical Industries (and Advanced Forecasting).md
-- Alias_313_Week 3 Cyclical Industries (and Advanced Forecasting).md
+title: Week 3 Cyclical Industries (and Advanced Forecasting)
+cssclasses:
+  - academia
+aliases: 
 tags:
-- tag_example
+  - tag_example
+  - finance
+  - riskanalysis
+  - investmentanalysis
+  - financialmarkets
+  - economic-depression
+  - cyclical-industries
+  - valuation-methods
+  - competitive-analysis
+  - quantitative-finance
+  - economic-theory
+  - financial-markets
+  - macroeconomics
+  - financial-forecasting
+  - economic-moats
+  - financial-instruments
+  - economic-history
+  - macroeconomic-policymaking
+  - financial-crises
+  - historical-analysis
+  - advanced-forecasting
+  - "#debt-cycles"
+  - "#capital-flows-management"
+  - "#economic-imbalances"
+  - "#economic-deleveraging"
+  - "#financial-analysis"
 ---
 
+[[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]]
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
@@ -13,10 +40,10 @@ Cyclical Industries (and Advanced Forecasting)
 
 Today
 
-- Industry analysis for cyclical companies
+- Industry analysis for [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] companies
 	 - Important and classic industries
 - Cyclicality poses problems when forecasting
-- While cyclical industries are special, the underlying forecasting problems are more broadly relevant
+- While [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] industries are special,  the underlying forecasting problems are more broadly relevant
 	 - Base‐year fixation or issues with trend extrapolation arise all the time
 	 - Market sentiment cycles & bull/bear markets
 	 - Terminal value in your model
@@ -24,11 +51,11 @@ Today
 - Westlake case - Terminal value considerations
 
 ## CYCLICAL INDUSTRIES
-- Cyclical companies exhibit a repeating pattern of increases and decreases for sales, earnings, investments
+- Cyclical companies exhibit a repeating pattern of increases and decreases for sales,  earnings,  investments
 - Examples
-	 - Basic materials (e.g., steel, aluminum, chemicals, pulp & paper)
-	 - Industrial materials & equipment (e.g., specialty chemicals, construction equipment, machinery, trucks, agricultural equipment)
-	 - Airlines, energy
+	 - Basic materials (e.g.,  steel,  aluminum,  chemicals,  pulp & paper)
+	 - Industrial materials & equipment (e.g.,  specialty chemicals,  construction equipment,  machinery,  trucks,  agricultural equipment)
+	 - Airlines,  energy
 - Why are these industries cyclical?
 	 - Fiercely competitive (firms tend to be price takers)
 		  - Prices for products change as demand changes
@@ -44,7 +71,7 @@ Example: Truck OEM
 ![](96618e62678edd1651d15d07a4c80985.png)
 
 - Analysts Carefully Analyze The Cycle Length
-	 - In this case, the cycle is about 2‐4 years up and 1‐2 years down
+	 - In this case,  the cycle is about 2‐4 years up and 1‐2 years down
 
 ## TRUCK OEM: TRUCKER PROFITABILITY AND TRUCK SALES
 
@@ -57,21 +84,22 @@ Example: Truck OEM
 ## TRUCK OEM: SAME CAN BE SEEN FOR FREIGHT LOADS
 
 ![](d36e07edef35725f3bbd73faf2ea3107.png)
+
 Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight index) is an index that measures the supply and demand for truck load services Class 8 truck = Heavy truck
 
 ## TRUCK OEM SALES AND FLEET AGE
 
 ![](7af62e5e74582a204d3db9cdda3df6db.png)
 
-- Truckers (TL) delay purchasing in bad times and scrap less equipment, extending the average life of the fleet
-	 - Exacerbates cyclicality
+- Truckers (TL) delay purchasing in bad times and scrap less equipment,  extending the average life of the fleet
+	 - Exacerbates [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]]
 - How can you estimate average life of equipment in financials?
 
 ## COMPETITIVE ANALYSIS
 
 ## COMPETITIVE (AND MOAT) ANALYSIS
 
-- Many cyclical companies operate in fiercely competitive markets
+- Many [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] companies operate in fiercely competitive markets
 	 - Price takers
 	 - Demand‐driven cycle (as illustrated for truck OEMs)
 - There are companies with somewhat differentiated products
@@ -81,7 +109,7 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 	 - Economies of scale create a barrier to entry
 	 - Few other moats
 	 - In rare cases:
-		  - Patents or intangibles
+		  - Patents or [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] 
 		  - Switching costs due to highly concentrated industry (few choices)
 
 ## COMPETITIVE ANALYSIS (CONT.)
@@ -89,7 +117,7 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 - Efficiency is key
 - Important concept: Operating leverage
 	 - What do we mean by it?
-		  - High fixed costs  Operating profits increase with volume
+		  - High fixed costs Operating profits increase with volume
 - Profitability (And Hence Operating Leverage) Drives Capacity Investment
 	 - Trucker example (and next slide)
 
@@ -103,11 +131,11 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 	 - Capacity expansions tend to come in large chunks
 	 - Large expansions at the peak translate into excess capacity in the downturn
 	 - Expensive to shut down an operation/facility once started
-	 - Thus, supply‐side effects make the industry even more cyclical
-- Why do cyclical companies tend to invest at the "worst" time?
+	 - Thus,  supply‐side effects make the industry even more cyclical
+- Why do [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] companies tend to invest at the "worst" time?
 	 - Easier to get approval or buy‐in with profitability
-		  - E.g., board approval is easier
-	 - Easy access to financing in booms (bank lending is cyclical too)
+		  - E.g.,  board approval is easier
+	 - Easy access to financing in booms (bank lending is [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] too)
 	 - Uncertain when cycle ends: Peer and competitive pressure
 
 ## MOATS IN VARIOUS CYCLICAL INDUSTRIES
@@ -115,10 +143,11 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 ## BUILDING MATERIALS
 
 ![](2d461c36b4075912b21767d25daf89ec.png)
+
 Morningstar Moat Analysis:
 
-- Cost advantages and intangible assets (often regulatory barriers to entry) are main sources
-- Companies that produce cement or aggregates (stone, sand, and gravel) with low value‐weight ratio compete in local rather than global mkts
+- Cost advantages and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets (often regulatory barriers to entry) are main sources
+- Companies that produce cement or aggregates (stone,  sand,  and gravel) with low value‐weight ratio compete in local rather than global mkts
 	 - High shipping costs mean that local producers have a cost advantage
 - Moats are rare because barriers to entry are usually surmountable
 	 - Economic profits are often scant enough to question sustainability for 15‐20 years
@@ -129,24 +158,26 @@ Morningstar Moat Analysis:
 ## COMMODITY PROCESSORS
 
 ![](e17a1b515debc954413bcd4d343e29cc.png)
+
 Morningstar Moat Analysis:
 
-- Commodity processor moats are generally built on switching costs, cost advantages, and intangible assets
-- Wide economic moats are hard to come by for commodity processors. Cost advantages often prove unsustainable, rarely leading to a moat
-- For the other moat sources, we look at how successful competitors have been at replicating a product, process, or technology … The less successful rivals have been, the wider the moat
-- Downstream companies in this space constantly strive to innovate. However, innovation is not easy or free. Thus, we rarely grant wide moats to commodity processors
+- Commodity processor moats are generally built on switching costs,  cost advantages,  and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets
+- Wide economic moats are hard to come by for commodity processors. Cost advantages often prove unsustainable,  rarely leading to a moat
+- For the other moat sources,  we look at how successful competitors have been at replicating a product,  process,  or technology … The less successful rivals have been,  the wider the moat
+- Downstream companies in this space constantly strive to innovate. However,  innovation is not easy or free. Thus,  we rarely grant wide moats to commodity processors
 
 ## MOATS IN VARIOUS CYCLICAL INDUSTRIES
 
 ## NATURAL RESOURCE EXTRACTION
 
 ![](e55a323b57d2d8dd802c4d9c6ad3b447.png)
+
 Morningstar Moat Analysis:
 
 - A sustainable low‐cost advantage is the main (potential) source of economic moat
-- As these companies produce undifferentiated commodities, switching costs, network effect, brands or patents, and efficient scale aren't competitive advantages
-- Low‐cost producers with multi‐decade reserve lives are the only potential candidates for a wide moat, but these are rare
-- Geological deposits are finite, meaning new resources must be acquired or found and developed. This can be capital‐intensive
+- As these companies produce undifferentiated commodities,  switching costs,  network effect,  brands or patents,  and efficient scale aren't competitive advantages
+- Low‐cost producers with multi‐decade reserve lives are the only potential candidates for a wide moat,  but these are rare
+- Geological deposits are finite,  meaning new resources must be acquired or found and developed. This can be capital‐intensive
 - Moats based solely on cost advantage are hard to sustain
 
 ## MOAT EXAMPLE: "VERBUNDSTRATEGIE" AT BASE
@@ -157,9 +188,9 @@ Morningstar Moat Analysis:
 	 - "Verbund" groups chemical production plants together and vertically integrates production
 		  - By‐products of one plant can be used as raw material at another
 		  - Heat from production captured and used as energy elsewhere
-	 - German Verbund site: 160 chemical production plants, 35K employees, 10 square kilometer area
+	 - German Verbund site: 160 chemical production plants,  35K employees,  10 square kilometer area
 - Cost advantage:
-	 - Lower transportation cost, less energy use, higher production yields
+	 - Lower transportation cost,  less energy use,  higher production yields
 	 - "Verbund" structure generates cost reduction of EUR 1bn (relative to 6.7bn in operating income)
 	 - Unique in how they (vertically) link numerous plants together at the same scale
 
@@ -175,13 +206,13 @@ Morningstar Moat Analysis:
 ![](8d8064172d943822b897a61e18ed8631.png)
 ## ASSET TURNOVER
 
-- Given thin margins, efficiency is key
+- Given thin margins,  efficiency is key
 	 - Remember the tradeoff between margins and turnover
 - Best players are often companies that utilize their asset base more efficiently
 	 - Analysts often focus on margins given their focus on EPS and PE multiples
 		  - Westlake case
 	 - But asset utilization is key to the business model for many cyclicals
-- Moreover, asset turnover is key for economic profit & value creation
+- Moreover,  asset turnover is key for economic profit & value creation
 	 - Recall from pre‐recording:
 		  - Economic profit = NOPAT – WACC * Invested Capital
 	 - Higher turnover means firm produces the same NOPAT with fewer assets
@@ -191,17 +222,17 @@ Morningstar Moat Analysis:
 
 - Example: Nucor Vs Us Steel
 	 - US Steel relies on traditional blast furnaces
-	 - Nucor uses electric arc furnaces, which require less investment per unit of installed capacity
+	 - Nucor uses electric arc furnaces,  which require less investment per unit of installed capacity
 ![](4ef82cad856941e63370ba41d96aefb8.png)
 ## OPERATING AND FINANCIAL LEVERAGE
 
 - High fixed costs (or operating leverage) amplify revenue volatility for cyclicals
 	 - Cost stickiness and adjustment costs
-- Due to large fixed investments, cyclicals often carry substantial debt
+- Due to large fixed investments,  cyclicals often carry substantial debt
 	 - Interest is a fixed cost
-	 - Creates substantial bankruptcy risk
+	 - Creates substantial [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] risk
 - Cyclicals face a dangerous combination of operating and financial leverage
-	 - Financial risk analysis is important
+	 - Financial [[Week 3 Financial Risk Analysis|risk analysis]] is important
 - Example: Airlines
 ![](441122e7dedf2d59a78e6b636ead4da5.png)
 Forecasting for and Valuations of Cyclical Companies
@@ -223,13 +254,13 @@ Forecasting for and Valuations of Cyclical Companies
 ![](780c191500cc86f7c5a2c9ec567275b3.png)
 
 ## EXAMPLE: EXXON IN MARCH 2009 (CONT.)
-- Normalize oil price: Choose midpoint of the cycle and express operating income as a function of normalized oil price
-	 - Regress operating income on oil price per barrel over the period to obtain:
+- Normalize oil price: Choose midpoint of the cycle and express [[Operating Income vs. Net Income What's the Difference|Operating Income]] as a function of normalized oil price
+	 - Regress [[Operating Income vs. Net Income What's the Difference|Operating Income]] on oil price per barrel over the period to obtain:
 
-		  $$\text{Operating Income} = \frac{-6,395 + \frac{911.32}{\text{(Average Oil Price)}}}{(2.95)} - \frac{\text{(14.59)}}{(14.59)} \quad R^2 = 90.2\%$$
+		  $$\text{Operating Income} = \frac{-6,    395 + \frac{911.32}{\text{(Average Oil Price)}}}{(2.95)} - \frac{\text{(14.59)}}{(14.59)} \quad R^2 = 90.2\%$$
 
-	 - By March 2009, oil price had dropped to $45/barrel. Treating this price as the midpoint of the cycle results in normalized operating income of -6,395 + 911.32($45) = \$34,614
-	 - Using a return on (new) capital of 21%, growth rate of 2%, marginal tax rate of 35%, and CoC of 9.44% results in enterprise value of $279.05bn and equity value of $301.66bn:
+	 - By March 2009,  oil price had dropped to $45/barrel. Treating this price as the midpoint of the cycle results in normalized [[Operating Income vs. Net Income What's the Difference|Operating Income]] of -6,    395 + 911.32($45) = \$34,  614
+	 - Using a return on (new) capital of 21%,  growth rate of 2%,  marginal tax rate of 35%,  and CoC of 9.44% results in enterprise value of $279.05bn and equity value of $301.66bn:
 
 		  $$\text{Value of operating assets} = \frac{\text{Operating Income} (1 + g)(1 - \text{tax rate})(1 - \frac{g}{\text{ROC}})}{\text{(Cost of capital - g)}} = \frac{34.61(1.02)(1 -)(1 - \frac{}{})}{(0.0944 - 0.02)} = \$279.05 \text{billion}$$
 
@@ -237,18 +268,18 @@ Forecasting for and Valuations of Cyclical Companies
 
 	 $$\text{Value of equity} = \text{Value of operating assets} + \text{cash} - \text{debt} = \$279.05 + \$32.01 - \$9.4 = \$301.66 \text{billion}$$
 
-- After this adjustment, Exxon’s market cap of $320bn seems reasonable
+- After this adjustment,  Exxon’s market cap of $320bn seems reasonable
 
 ## VOLATILITY OF DCF VALUE AND FCF
 
 ![](69f7f88883f3ab38857ac0e166ef9a57.png)
 
-- For a cyclical company, a time series of DCF values should exhibit lower volatility than earnings and cash flows: Why?
+- For a [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] company,  a time series of DCF values should exhibit lower volatility than earnings and cash flows: Why?
 
 ## CYCLICAL VALUATIONS
 
 - Looking at price and EPS path illustrates why multiples expand and contract
-- Still, share prices of cyclical companies tend to be more volatile than what DCF would predict
+- Still,  share prices of [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] companies tend to be more volatile than what DCF would predict
 	 - Potential reason: Analysts and investors do not fully adjust for the cycle
 Source: Koller et al.
 ![](1b5a01d4874a0a7f9eabb9ad0ecd48a8.png)
@@ -262,22 +293,22 @@ Source: Koller et al.
 - Analysts do not seem to predict the cycle
 - Consensus forecasts project out the current level plus some growth
 ![](87881a5b2d3160dd41797269b4384d9b.png)
-## IT IS DIFFICULT TO PREDICT CYCLES, ESPECIALLY INFLECTION POINTS
+## IT IS DIFFICULT TO PREDICT CYCLES,  ESPECIALLY INFLECTION POINTS
 
 ![](a1ba59e6e41bd994efcd31c1de86b57d.png)
 
 ## POTENTIAL SOLUTIONS
 
 - "Normalized" Numbers Or Multiples:
-	 - Base value on a "normalized" level of profits (e.g., not the peak or trough)
-	 - Ask: What earnings, reinvestment and cash flow a company would generate in a normal year?
+	 - Base value on a "normalized" level of profits (e.g.,  not the peak or trough)
+	 - Ask: What earnings,  reinvestment and cash flow a company would generate in a normal year?
 		  - Essentially use mid‐point of the cycle (see Exxon example)
 - "Adaptive growth"
-	 - Since cycles can last for long periods, normalization may take a long time
+	 - Since cycles can last for long periods,  normalization may take a long time
 	 - "Compromise" Solution:
-		  - Assume normalization in the long‐term (i.e., for TV)
+		  - Assume normalization in the long‐term (i.e.,  for TV)
 		  - Allow earnings/cash flows to follow the current cycle for the short term
-		  - Then, fade growth rate to normalized value for TV
+		  - Then,  fade growth rate to normalized value for TV
 	 - This essentially is a three‐stage valuation model (recall Week 1)
 - Scenario Analysis
 	 - Create scenarios for different trends
@@ -289,7 +320,7 @@ Source: Koller et al.
 	 - A "normal cycle" based on long‐term trends of profits and ROIC
 	 - A new trend line scenario based on a recent trend line
 - Steps:
-	 - Construct and value the normal cycle scenario, using information about past cycles
+	 - Construct and value the normal cycle scenario,  using information about past cycles
 	 - Construct and value a new trend scenario based on company's recent performance
 	 - Develop economic rationale for each of the two scenarios
 	 - Assign probabilities to the scenarios using the economic rationale
@@ -298,11 +329,13 @@ Source: Koller et al.
 ## SCENARIO ANALYSIS: MORGAN STANLEY FOR SHERWIN WILLIAMS
 
 ![](f4bfee1ca8fdb18cc61cf5ff2e9b2f9b.png)
+
 Accounting Analysis and Shenanigans
 
 ## REVENUE GROWTH (AND NON‐GAAP METRICS)
 
 ![](dd319d028a9e40eadf487902a31a8581.png)
+
 Westlake Case
 
 ## CASE QUESTIONS
@@ -318,18 +351,18 @@ Westlake Case
 - Would you use this estimate in a forward PE multiple?
 	 - Connects it to valuation
 
-# TERMINAL VALUE CONSIDERATIONS
+# Week 3 Cyclical Industries (and Advanced Forecasting)
 
 ## INFLATION
 
-- With nominal forecasting, expected inflation is embedded in the forecasts
+- With nominal forecasting,  expected inflation is embedded in the forecasts
 	 - Your growth forecasts reflect your inflation expectations
 	 - Individual line‐items can increase above or below the general inflation rate
-- In high inflation environments, it can make sense to forecast in real terms
+- In high inflation environments,  it can make sense to forecast in real terms
 	 - Discuss more in Week 8
-- Nominal forecasting also applies to growth rate in TV (e.g., in constant growth formula)
+- Nominal forecasting also applies to growth rate in TV (e.g.,  in constant growth formula)
 	 - It should include (or account for) inflation
-- If g in terminal value is set equal to inflation rate, do I still need new investment?
+- If g in terminal value is set equal to inflation rate,  do I still need new investment?
 
 ## MAINTENANCE VS. NEW INVESTMENT
 
@@ -345,40 +378,42 @@ Westlake Case
 
 - What have you used in the past? Or what do you see in analyst reports?
 - Forecast horizon length is often recommended to be the time over which the firms is expected to achieve a 'steady state'
-	 - In steady state, we have constant growth, constant profitability, constant investment rate, etc.
+	 - In steady state,  we have constant growth,  constant profitability,  constant investment rate,  etc.
 	 - We can then apply simple perpetuities
-- In principle, you can pick an arbitrary forecast horizon
+- In principle,  you can pick an arbitrary forecast horizon
 	 - Multiples have very short forecast horizons
 	 - Hard part is to adjust the FCF accordingly
 
 ## SELECTING THE LENGTH OF THE FORECAST HORIZON (CONT.)
 
-- Ideally, the trajectory of forecasts shows growth rates that gradually diminish over the forecast horizon, rather than drop abruptly in the terminal value year
+- Ideally,  the trajectory of forecasts shows growth rates that gradually diminish over the forecast horizon,  rather than drop abruptly in the terminal value year
 	 - Why diminish?
 - You can partition the model into several sub‐periods with different assumptions regarding growth and returns on investment
-- ROIC at the end of the forecast horizon should be sustainable given expected competition, industry conditions, etc.
-- Ultimately, the key problem is not the length of forecast horizon but to determine normalized FCF (or economic profit) in steady state
+- ROIC at the end of the forecast horizon should be sustainable given expected competition,  industry conditions,  etc.
+- Ultimately,  the key problem is not the length of forecast horizon but to determine normalized FCF (or economic profit) in steady state
 
 ## RECALL: THREE‐STAGE MODEL
 
 ![](53575b99306e4d150a153b7165e265ab.png)
 
 - Use varying levels of detail
-	 - Line‐items, then key drivers and fading, then TV perpetuity
+	 - Line‐items,  then key drivers and fading,  then TV perpetuity
 - Three‐stage model fades the FCF to sustainable level before using perpetuity
 	 - Use value‐driver formula to implement: FCF(1+g)/WACC‐g
-- With a short forecast horizon, you have to work hard on normalization of FCFT+1
+- With a short forecast horizon,  you have to work hard on normalization of FCFT+1
 
-## ZOOM (CREDIT SUISSE, INITIATION REPORT)
+## ZOOM (CREDIT SUISSE,  INITIATION REPORT)
 
 ![](888caf60938444cc91fbeae6741cd4ec.png)
-Note in this model, the analyst does not normalize for growth in 2035E:
-FCFT+1 = 3,616,092 = FCFT * (1+g) = 3,477,012 * 1.04
+
+Note in this model,  the analyst does not normalize for growth in 2035E:
+
+FCFT+1 = 3,  616,  092 = FCFT * (1+g) = 3,  477,  012 * 1.04
 
 ## TERMINAL VALUE: FCF ESTIMATE (NUMERATOR)
 
 - You need to spend time on the FCF in your terminal value calculation
-	 - FCFT+1 =  FCF in the year after the (explicit) forecast horizon
+	 - FCFT+1 = FCF in the year after the (explicit) forecast horizon
 	 - This is a critical step and often forgotten
 	 - This issue is similar to the problem of adjusting 'E' in PE ratios
 - How do you estimate FCFT+1?
@@ -392,6 +427,7 @@ FCFT+1 = 3,616,092 = FCFT * (1+g) = 3,477,012 * 1.04
 ## ILLUSTRATING VALUE DRIVER FORMULA FOR TV (OR CV)
 
 ![](493cf2eabf72c0f0cbd5cb756b7feae2.png)
+
 Note: In this case there is no spread beyond year 6. You could ignore growth altogether (and CV = NOPAT/WACC).
 
 - Why are we using the NOPAT and not the FCF in this formula?
@@ -402,7 +438,7 @@ Note: In this case there is no spread beyond year 6. You could ignore growth alt
 ![](0db413cc85a45d6c4a10a6761426a226.png)
 
 - We can show: g/RONIC = (re)investment rate (IR) in steady state (see Appendix)
-- Intuitively: The larger g and the smaller the RONIC, the larger the fraction of NOPAT that needs to be reinvested
+- Intuitively: The larger g and the smaller the RONIC,  the larger the fraction of NOPAT that needs to be reinvested
 ## RELATION BETWEEN GROWTH AND INVESTMENT
 
 - $$\text{Continuing Value}_t = \frac{NOPAT_{t+1}}{WACC - g} - \frac{g}{RONIC} \quad \text{Allows for adjustment of long-run profits}$$
@@ -414,7 +450,7 @@ Note: In this case there is no spread beyond year 6. You could ignore growth alt
 - Common mistake is to forecast revenue and earnings growth without considering the investment necessary to support such growth:
 
   1. $$ TV = \frac{FCF_{t+1}}{(WACC-g)} = FCF_{T} * \frac{(1+g)}{(WACC-g)} $$
-  2. $$ TV = \frac{FCF_{t+1}}{(WACC-g)} = \frac{NOPAT_{T}}{(WACC-g)} $$
+  1. $$ TV = \frac{FCF_{t+1}}{(WACC-g)} = \frac{NOPAT_{T}}{(WACC-g)} $$
 
 	 - No. 1: High reinvestment rate in T that is not adjusted to lower growth in TV
 		- TV is too small (see earlier Zoom example)

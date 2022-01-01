@@ -25,5 +25,6 @@
     "latex_like_pdfs",
     "academic-pdf-export",
     "header_size"
-  ]
+  ],
+  "theme": "moonstone"
 }

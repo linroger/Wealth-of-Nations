@@ -1,9 +1,17 @@
 ---
 aliases:
-- "Alias_326_Week 7- Private, Family and Closely\u2010held Firms -Analysis and Valuation.md"
-- "Alias_323_Week 7- Private, Family and Closely\u2010held Firms -Analysis and Valuation.md"
+  - Alias_326_Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md
+  - Alias_323_Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#corporatefinance"
+  - "#valuation"
+  - "#investmentanalysis"
+  - "#riskanalysis"
+  - "#private-equity"
+  - "#control-premium"
+  - "#corporate-governance"
 ---
 
 

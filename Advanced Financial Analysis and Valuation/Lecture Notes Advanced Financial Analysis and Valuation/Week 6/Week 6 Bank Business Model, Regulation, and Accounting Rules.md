@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_330_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
-- Alias_327_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
+  - Alias_330_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
+  - Alias_327_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
 tags:
-- tag_example
+  - tag_example
+  - "#banking"
+  - "#risk-management"
+  - "#regulation"
+  - "#financial-analysis"
+  - "#credit-risk"
+  - "#bank-business-model"
+  - "#loan-loss-provisions"
+  - "#bank-regulation"
 ---
 
 
@@ -19,7 +27,7 @@ Banks: Business Model, Regulation and Accounting Rules
 	   - Money transmission
 	   - Checks and credit cards
 - Monitoring and information-related services: e.g.,
-	   - Syndicated loans
+	   - [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]
 - Risk-sharing services
 	   - Liquidity insurance (e.g., demand deposits)
 	   - Risk management
@@ -45,7 +53,7 @@ credit cards)
 ## BALANCE SHEETS OF U.S. BANKS
 
 ![](348ae1376b2afaad5fb7aba135f798a1.png)
-Source: FDIC, all institutions * Includes bank premises and goodwill; ** includes interbank borrowings and senior/subordinated debt issuances
+Source: FDIC, all institutions * Includes bank premises and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]; ** includes interbank borrowings and senior/subordinated debt issuances
 
 ## INCOME STATEMENTS OF U.S. BANKS (AGGREGATE)
 
@@ -57,12 +65,12 @@ Source: FDIC, all institutions
 - Equivalent to a top line in banking is interest income (or combined interest and
 non-interest income)        - Equivalent to COGS is interest expense
 - Think of deposits as raw material
-	   - If they were debt, then operating income should before interest expense
+	   - If they were debt, then [[Operating Income vs. Net Income What's the Difference|Operating Income]] should before interest expense
 - Banks largely have financial assets
 	   - Loans are not at fair value
 - Fixed (or tangible) assets are not important
 	   - Depreciation tends to be minor
-- Bank invest heavily in intangible assets
+- Bank invest heavily in [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets
 	   - At the core, banks are a mix of brand & reputation, human capital, and
 technology (or IT)
 
@@ -125,7 +133,7 @@ market risk in their securities portfolio when computing RWA        - p VaR is d
  - 2.5% of common equity can be applied when credit
 growth is judged to result in an unacceptable build-up of systemic risk        - If the regulator identifies the bank to be systemically important, the capital
 requirements are even more stringent
-- Basel III also includes a (simple) leverage ratio of equity to assets (including offbalance sheet exposures): Equity/Total assets > 3%        - Not based on risk models
+- Basel III also includes a (simple) [[Leverage Ratio|leverage ratio]] of equity to assets (including offbalance sheet exposures): Equity/Total assets > 3%        - Not based on risk models
 - Liquidity ratios
 	   - LCR (Liquidity Coverage Ratio)
 	   - NSFR (Net Stable Funding Ratio)

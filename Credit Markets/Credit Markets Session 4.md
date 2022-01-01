@@ -89,9 +89,9 @@ What problem are we trying to solve?
 What problem are we trying to solve?
 
 ## MOTIVATION FOR "SMOOTH" CREDIT CURVES
-- Verizon has about 60 actively traded USD cash corporate bonds
+- Verizon has about 60 actively traded USD cash [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 - … quoted at different prices/yields/spreads,  based on coupon,  maturity and liquidity profile
-- Main idea: find a sparse parametric hazard rates curve model that best fits the market for VZ cash corporate bonds
+- Main idea: find a sparse parametric hazard rates curve model that best fits the market for VZ cash [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 - Reminder: corporate spreads capture the credit default risk only (they "live" on the top of US Treasury or SOFR curve)!
 - Comment: corporate credit spread curves have "nice" curve shapes and should be "easier to model"
 ## NELSON-SIEGEL YIELD CALIBRATION FOR VERIZON BONDS ON 2023-10-30

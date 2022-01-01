@@ -1,9 +1,14 @@
 ---
 aliases:
-- Alias_322_Week 9- Zoom Assignment Review.md
-- Alias_319_Week 9- Zoom Assignment Review.md
+  - Alias_322_Week 9- Zoom Assignment Review.md
+  - Alias_319_Week 9- Zoom Assignment Review.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#investmentanalysis"
+  - "#valuationanalysis"
+  - "#saas-valuation"
+  - "#market-share-analysis"
 ---
 
 Thomas Rauter

@@ -9,7 +9,7 @@ tags:
 title: Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
 ---
 
-
+[[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
 
 
 # Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
@@ -21,7 +21,7 @@ Because the public consists of many small holders,  each holder may assume that 
 
 ## Example 3: Public Exchanges for Junior Securities Tend to Fail
 
-Keep everything from example 1: going concern value of $V_{GO}=1$,  bankruptcy value of $L=0.4$. The bank is owed $B=0.3$,  and the public is owed $P=1.6$. The public is junior and long-term. If the public does not make a concession,  we saw in example 1 that the bank will force bankruptcy,  and the public will then get $L-B=0.4-0.3=0.1$. Suppose that the public is offered the chance to exchange for a bond with face $P'=1$,  and the bank agrees not to force bankruptcy if the exchange succeeds. Suppose that the offer succeeds if 99% of the bonds are exchanged. Let "f" denote the fraction of the total bond issue that you expect to be exchanged by other holders.
+Keep everything from example 1: going concern value of $V_{GO}=1$,  bankruptcy value of $L=0.4$. The bank is owed $B=0.3$,  and the public is owed $P=1.6$. The public is junior and long-term. If the public does not make a concession,  we saw in example 1 that the bank will force bankruptcy,  and the public will then get $L-B=0.4-0.3=0.1$. Suppose that the public is offered the chance to exchange for a bond with face $P'=1$,  and the bank agrees not to force [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] if the exchange succeeds. Suppose that the offer succeeds if 99% of the bonds are exchanged. Let "f" denote the fraction of the total bond issue that you expect to be exchanged by other holders.
 
 The key point in this example is to look at the case where the new bonds (with face $P'=1$) are junior to the old bonds with face $P=1.6$. The bank's claim of 0.3 remains senior to the public.
 
@@ -43,9 +43,9 @@ Suppose that you own 1% of the old bonds,  with face value 0.016. Your return fr
 
 No matter what fraction of others you expect to exchange,  you prefer to hold out. One is always worse off with a junior claim with lower face value,  so here you would still not tender.
 
-Exchange offers for junior securities with lower face value will always fail if aimed at small holders. The small holders each expect that their decision to exchange will not tip the balance between the offer succeeding (staying out of bankruptcy) and failing (going into bankruptcy). In the example,  you do not influence success unless you expect more than 98% but less than 99% of others to exchange. If you do not tip the balance,  you never prefer a new bond with lower face value and lower priority,  because it is never worth more than the old bond.
+[[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] for junior securities with lower face value will always fail if aimed at small holders. The small holders each expect that their decision to exchange will not tip the balance between the offer succeeding (staying out of bankruptcy) and failing (going into bankruptcy). In the example,  you do not influence success unless you expect more than 98% but less than 99% of others to exchange. If you do not tip the balance,  you never prefer a new bond with lower face value and lower priority,  because it is never worth more than the old bond.
 
-If,  instead,  the bonds you exchange for are equal in priority to the original bonds,  the same arguments apply. If the offer succeeds,  or if it does not,  you are better off with an equal priority claim of higher promised payment (which you get by holding out and not tendering),  because when there is equal priority the payment is proportional to the amount promised. You would only tender for a junior security if you thought that your bond would tip the balance between the bank forcing bankruptcy and not forcing bankruptcy.
+If,  instead,  the bonds you exchange for are equal in priority to the original bonds,  the same arguments apply. If the offer succeeds,  or if it does not,  you are better off with an equal priority claim of higher promised payment (which you get by holding out and not tendering),  because when there is equal priority the payment is proportional to the amount promised. You would only tender for a junior security if you thought that your bond would tip the balance between the bank forcing [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] and not forcing bankruptcy.
 
 ## Example 4: Public Exchanges for Senior Securities Are More Successful,  If Allowed
 
@@ -70,3 +70,4 @@ By holding out,  you will get P=1.6 when the firm is worth 2,  and nothing other
 Therefore if you expect the offer to succeed,  you exchange. A prophesy that the offer to exchange will succeed is self-fulfilling.
 
 When the new security offered in exchange is senior to the old,  there is a lower payment received by the old security whenever the new one is not paid in full. This is in contrast to the case where the new security is junior,  and the old one gets more than the new whenever the new is not paid in full. This makes small holders willing to join in the bond exchange. Exchanging for a senior security can put the bondholders in a rush to exchange to jump ahead of the holdouts. I will later show that rushing to exchange for something senior is very similar to a bank run.
+Tags: #debt #restructuring #bankruptcy #exchange #offers #seniority #priority #public #bondholders #concessions

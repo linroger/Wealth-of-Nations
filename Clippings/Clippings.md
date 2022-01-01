@@ -1,5 +1,0 @@
----
-title: Clippings
----
-
-# Clippings

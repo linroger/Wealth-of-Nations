@@ -1,6 +1,10 @@
 ---
 title: Week 8
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#financialanalysis"
+  - "#international-investment"
+  - "#valuation-process"
 ---
 
 # Week 8

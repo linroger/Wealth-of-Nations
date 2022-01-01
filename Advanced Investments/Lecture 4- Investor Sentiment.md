@@ -4,11 +4,12 @@ tags: []
 aliases: [Lecture 4- Investor Sentiment]
 ---
 
-# Lecture 4Investor Sentiment
+# Lecture 4-Investor Sentiment
+[[Lecture 4- Investor Sentiment|investor sentiment]]
 
-In the last lecture we discussed that the aggregate valuation of the stock market,  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying investor sentiment could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.
+In the last lecture we discussed that the aggregate valuation of the stock market,  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying [[Lecture 4- Investor Sentiment|investor sentiment]] could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.
 
-Now we look more closely at the notion of investor sentiment. What is the nature of time-varying investor sentiment that could be driving these valuation cycles? Better understanding of the nature of investor sentiment could help us make better use of the valuation assessments that we get from valuation ratios. If we can tie variation in valuation levels to investor cash flow growth expectations,  we can ask whether we agree with these growth expectations. If we can tie variation in valuation levels to changing perceptions of risk or risk aversion,  we can ask whether we share these changing perceptions of risk or risk aversion. If we can tie variation in valuation levels to changing demand for stock market investing coming from certain investor groups,  we can ask whether these demand changes are likely informed or uninformed demands. Answers to these questions can help us get more confidence whether a valuation ratio like the price-dividend ratio at a given point in time is a good signal about future excess returns on the stock market.
+Now we look more closely at the notion of [[Lecture 4- Investor Sentiment|investor sentiment]]. What is the nature of time-varying [[Lecture 4- Investor Sentiment|investor sentiment]] that could be driving these valuation cycles? Better understanding of the nature of [[Lecture 4- Investor Sentiment|investor sentiment]] could help us make better use of the valuation assessments that we get from valuation ratios. If we can tie variation in valuation levels to investor cash flow growth expectations,  we can ask whether we agree with these growth expectations. If we can tie variation in valuation levels to changing perceptions of risk or risk aversion,  we can ask whether we share these changing perceptions of risk or risk aversion. If we can tie variation in valuation levels to changing demand for stock market investing coming from certain investor groups,  we can ask whether these demand changes are likely informed or uninformed demands. Answers to these questions can help us get more confidence whether a valuation ratio like the price-dividend ratio at a given point in time is a good signal about future excess returns on the stock market.
 
 We start by using our sentiment-based valuation model from the last lecture to understand better the different potential sources of time-varying sentiment and their effects on stock market valuation. Recall from last lecture the approximate presentvalue identity in (3.25) after we took conditional expectations:
 
@@ -38,7 +39,7 @@ v_{t}=\frac{1}{1-\rho}(c+g-\theta),         \tag{4.2}
 
 $$
 
-while the actual investors' valuation is subject to investor sentiment,  $s_{t}$,
+while the actual investors' valuation is subject to [[Lecture 4- Investor Sentiment|investor sentiment]],  $s_{t}$,
 
 $$
 
@@ -50,7 +51,7 @@ v_{t}=\frac{1}{1-\rho}(c+g-\theta)+s_{t} \tag{4.3}
 
 $$
 
-We now have two possibilities regarding the nature of investor sentiment.
+We now have two possibilities regarding the nature of [[Lecture 4- Investor Sentiment|investor sentiment]].
 
 First,  sentiment could reflect time-varying optimism and pessimism about dividend growth. Suppose investors' growth rate expectation is $\tilde{g}_{t} \neq g$,  but sentiment investors' expected rate of return that they demand from a stock market investment is the same as the rate $\theta$ that investors not subject to sentiment would demand. More precisely,  at time $t$ actual investors are valuing the stock market as if dividends were to grow at an expected rate of $\tilde{g}_{t}$ forever,  while the correct expectation is $g$. In the next period,  $t+1$,  investors may change their mind and their new growth rate expectation may be a different number $\tilde{g}_{t+1}$,  but at time $t$ they do not anticipate that they will change their mind in the future. The resulting valuation then would be
 
@@ -76,7 +77,7 @@ s_{t}=\frac{1}{1-\rho}\left(\tilde{g}_{t}-g\right) \tag{4.5}
 
 $$
 
-So in this version,  investor sentiment is driven by excessively volatile expectations of dividend growth that vary around the constant true expected growth rate $g$.
+So in this version,  [[Lecture 4- Investor Sentiment|investor sentiment]] is driven by excessively volatile expectations of dividend growth that vary around the constant true expected growth rate $g$.
 
 Second,  sentiment could reflect time-varying risk aversion or time-varying risk perceptions that make investors demand a time-varying expected rate of return $\tilde{\theta}_{t}$ from stock market investments,  while investors' expected growth rate is equal to the true growth rate $g$. In this case,
 
@@ -163,7 +164,7 @@ To summarize,  over these roughly 40 years,  analyst forecasts of long-term earn
 
 Figure 4.3: One year expected excess returns from surveys of different groups of market participants
 
-finding supports the notion of investor sentiment as time-varying optimism/pessimism about future cash flow growth.
+finding supports the notion of [[Lecture 4- Investor Sentiment|investor sentiment]] as time-varying optimism/pessimism about future cash flow growth.
 
 ### 4.1.2 Return expectations
 
@@ -199,7 +200,7 @@ Overall,  the evidence on return expectations does not provide much support for 
 
 ### 4.2 What drives investors' time-varying growth expectations?
 
-If time-varying optimism/pessimism about future cash flow growth is the driving force of investor sentiment,  what gives rise to this time-variation? What are the conditions that are fertile for excessive optimism? What are the conditions that tend to lead to excessive pessimism? This is an active area of research and the subject of much debate among practitioners. I can only offer a few hints at what may be going on,  not a firm,  well-established conclusion.
+If time-varying optimism/pessimism about future cash flow growth is the driving force of [[Lecture 4- Investor Sentiment|investor sentiment]],  what gives rise to this time-variation? What are the conditions that are fertile for excessive optimism? What are the conditions that tend to lead to excessive pessimism? This is an active area of research and the subject of much debate among practitioners. I can only offer a few hints at what may be going on,  not a firm,  well-established conclusion.
 
 Various studies of how investors and forecasters come up with expectations of asset
 
@@ -217,13 +218,13 @@ $$
 
 $$
 
-with $k=0.982$,  where the dividend growth observations are quarterly and measured in real terms. ${ }^{5}$. I label this weighted average as experienced payout growth because it is meant to summarize investors' memory of recent payout growth history. I set the weight parameter $k$ to a value that has worked well for summarizing experienced data and using it to explain expectations data in a number of settings,  including inflation expectations of households and of members of the Federal Open Market Committee that sets monetary policy in the U.S.,  as well as asset allocation decisions (stocks vs. bonds) of individual investors. ${ }^{6}$ Importantly,  the value of $k$ was not picked to make the resulting series of experienced payout growth fit well the analyst forecasts or price-dividend ratio series that we will now look at. The estimate of $k$ was obtained by relating expectations to experienced data in completely different settings.
+with $k=0.982$,  where the dividend growth observations are quarterly and measured in real terms. ${ }^{5}$. I label this weighted average as experienced payout growth because it is meant to summarize investors' memory of recent payout growth history. I set the weight parameter $k$ to a value that has worked well for summarizing experienced data and using it to explain expectations data in a number of settings,  including inflation expectations of households and of members of the Federal Open Market Committee that sets [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] in the U.S.,  as well as [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] decisions (stocks vs. bonds) of individual investors. ${ }^{6}$ Importantly,  the value of $k$ was not picked to make the resulting series of experienced payout growth fit well the analyst forecasts or price-dividend ratio series that we will now look at. The estimate of $k$ was obtained by relating expectations to experienced data in completely different settings.
 
 Figure 4.4 shows the resulting time series of the experienced payout growth in comparison with the analyst long-term earnings growth forecast series. The series are clearly positively correlated,  although the correlation is of course not perfect. Times of high experienced payout growth such as the late 1990s,  or the last couple of years in the data,  are also years in which analysts are optimistic. In contrast,  in the depth of the financial crisis around 2009 both experienced payout growth was low and analysts were pessimistic.
 
-Figure 4.5 compares the payout growth series to the $\log P / D$ series. It is apparent that there is similar cyclicality in both series,  although with some big deviations,  especially in the years immediately before the financial crisis and in the early 1990s.
+Figure 4.5 compares the payout growth series to the $\log P / D$ series. It is apparent that there is similar [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]] in both series,  although with some big deviations,  especially in the years immediately before the financial crisis and in the early 1990s.
 
-If the experienced payout growth series is a proxy for investor sentiment,  then it should forecast stock market returns in excess of the risk-free rate. Figure 4.6 shows
+If the experienced payout growth series is a proxy for [[Lecture 4- Investor Sentiment|investor sentiment]],  then it should forecast stock market returns in excess of the risk-free rate. Figure 4.6 shows
 
 [^13]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-128.jpg?height=860&width=1201&top_left_y=340&top_left_x=424)
 
@@ -255,11 +256,11 @@ Table 4.2: Predictive regressions of one-quarter-ahead returns on experienced di
 | Estimates               | 0.067       | $-5.967$   | 0.028   |
 | $t$-statistic           | $(4.632)$   | $(-3.448)$ |         |
 
-Overall,  these results are broadly in line with the notion that investor sentiment about future cash flow growth becomes more positive when investors have experienced a string of several years of high real payout growth.
+Overall,  these results are broadly in line with the notion that [[Lecture 4- Investor Sentiment|investor sentiment]] about future cash flow growth becomes more positive when investors have experienced a string of several years of high real payout growth.
 
 ### 4.3 Fund flows as sentiment indicator
 
-A different approach to understanding investor sentiment focuses on who is buying and selling. For example,  a popular view in the finance industry is that retail investors are subject to particularly strong time-variation in sentiment for stocks with little connection to stock market fundamentals. If this is true,  we should be able to use the quantity of stocks demanded by retail investors as a sentiment indicator. If retail investors' changing demand for stocks has price impact,  we should then see a connection between retail investor demand for stocks and valuation levels in the stock market. Under the (arguably reasonable) assumption that retail investor demand is unlikely to be driven by superior information about stock market fundamentals,  a connection between retail investor demand and valuation levels would give us further reason to suspect that timevariation in stock market valuation ratios reflects sentiment-driven deviations of stock market valuations from fundamentals.
+A different approach to understanding [[Lecture 4- Investor Sentiment|investor sentiment]] focuses on who is buying and selling. For example,  a popular view in the finance industry is that retail investors are subject to particularly strong time-variation in sentiment for stocks with little connection to stock market fundamentals. If this is true,  we should be able to use the quantity of stocks demanded by retail investors as a sentiment indicator. If retail investors' changing demand for stocks has price impact,  we should then see a connection between retail investor demand for stocks and valuation levels in the stock market. Under the (arguably reasonable) assumption that retail investor demand is unlikely to be driven by superior information about stock market fundamentals,  a connection between retail investor demand and valuation levels would give us further reason to suspect that timevariation in stock market valuation ratios reflects sentiment-driven deviations of stock market valuations from fundamentals.
 
 Of course,  a finding of a positive correlation between retail investor demand for stocks and valuation levels would not prove causation. For example,  it could be that high valuation levels attract retail investor demand for stocks so that causality runs in the
 
@@ -281,7 +282,7 @@ Figure 4.8 shows how flows into MF and ETF correlate with the stock market's log
 
 To relate flow to the $\log P / D$ ratio in Figure 4.8a,  I cumulate the monthly flow over one-year moving windows,  i.e.,  at each date on the chart,  the blue line shows the sum of flow during the 12 months leading up to this date. The numbers are expressed in percent,  so,  for example,  in the early 2000s,  the cumulated inflow over the previous 12 months amounted to about 2 percent of the stock market's market capitalization.
 
-As the figure shows the one-year cumulated flow matches well the low-frequency movements in the $\log P / D$ ratio. For example,  the stock price boom in the 1990s was accompanied by a large cumulative inflow into equity funds. The fall in the $\log P / D$ ratio in the financial crisis 2008/09 also coincided with very low equity fund flows. According to this measure,  retail investor sentiment for stock market investing is pro-cyclical: eager to invest in equities in booms,  pulling out of the stock market in downturns.
+As the figure shows the one-year cumulated flow matches well the low-frequency movements in the $\log P / D$ ratio. For example,  the stock price boom in the 1990s was accompanied by a large cumulative inflow into equity funds. The fall in the $\log P / D$ ratio in the financial crisis 2008/09 also coincided with very low equity fund flows. According to this measure,  retail [[Lecture 4- Investor Sentiment|investor sentiment]] for stock market investing is pro-cyclical: eager to invest in equities in booms,  pulling out of the stock market in downturns.
 
 Figure 4.8 b shows that at a higher frequency,  monthly flows (not cumulated) correlate positively with returns on the stock market index over the previous 12 months. There seems to be an extrapolative tendency of retail investors: when recent market returns are high,  they seem to be more optimistic about the prospects of stock market investing. This ties in well with the evidence on individual investor excess return expectations in 4.1: Recall that we found that individual investors excess return expectations are positively related to lagged 12 -month returns.
 
@@ -311,9 +312,9 @@ Table 4.3 presents some statistical tests of the relationship between flows,  $\
 
 The results confirm the impression from the figures. Both the $\log P / D$ ratio and lagged returns are positively related to equity MF and ETF flows. For example,  the second regression with both $\log P / D$ ratio and lagged returns as explanatory variables shows that a 10 percentage point higher past return over the past 12 months (less than one standard deviation) is associated with about $10 \times 0.14=1.4$ percentage points (of aggregate stock market cap) higher equity fund inflow in the next month (which is a bit more than one standard deviations of the monthly flows). The $R^{2}$ of ${} 29 \\%$ shows that log $P / D$ and lagged past returns together explain a substantial portion of monthly flows.
 
-Broadly,  these facts are consistent with (although not proof of) the view that retail investor sentiment plays a role in driving the cycles in valuation levels that we see in valuation ratios like the $P / D$ ratio.
+Broadly,  these facts are consistent with (although not proof of) the view that retail [[Lecture 4- Investor Sentiment|investor sentiment]] plays a role in driving the cycles in valuation levels that we see in valuation ratios like the $P / D$ ratio.
 
-Now,  if equity MF and ETF flows are a good retail investor sentiment indicator,  and if this sentiment has price impact,  one should be able to use the flows to predict returns. More precisely,  if the effects of sentiment on stock prices accumulate,  then measures of
+Now,  if equity MF and ETF flows are a good retail [[Lecture 4- Investor Sentiment|investor sentiment]] indicator,  and if this sentiment has price impact,  one should be able to use the flows to predict returns. More precisely,  if the effects of sentiment on stock prices accumulate,  then measures of
 
 [^15]cumulative flows over longer periods of time should predict stock market excess returns. Unfortunately,  the data series of flows is rather short.
 
@@ -335,7 +336,7 @@ Figure 4.9: Monthly percentage inflow of active mutual funds (AMF),  index mutua
 
 Source: Dannhauser,  C.D. and Pontiff,  J.,  2021. Flow. Working paper,  Boston College
 
-the positive performance-flow relationship we see in this figure captures a positive relationship between recent ETF returns and investor sentiment for the assets held by the ETF.
+the positive performance-flow relationship we see in this figure captures a positive relationship between recent ETF returns and [[Lecture 4- Investor Sentiment|investor sentiment]] for the assets held by the ETF.
 
 So how do the ETFs that receive high flows perform in the following months? Figure 4.10 shows that flows are negatively related to future performance in the cross-section of ETFs. In the study that this figure is taken from,  the authors sort all ETFs each month into 10 groups based on the prior month's flow. Then they calculate value-weighted returns (i.e.,  returns weighted by end of prior month total market capitalization of each ETF) during the following 12 months. They then form a long-short portfolio that takes a long position in ETFs in the lowest-flow group and a short position in the ETFs in the highest-flow group. Figure 4.10 shows the cumulative return of this long-short portfolio in the 12 months following portfolio formation. Over the first five months after portfolio formation,  the portfolio accumulates positive returns. The error bars in the figure show two-standard-error ranges and so these positive portfolio returns are different from zero at conventional levels of statistical significance. This means that ETFs with recent strong inflows perform poorly in the future while ETFs with recent strong outflows perform well in the future,  i.e.,  a negative relationship between flows and future performance.
 
@@ -345,7 +346,7 @@ Figure 4.10: Returns to a portfolio long in ETFs with low lagged flow and short 
 
 Source: Brown,  D.C.,  Davies,  S.W. and Ringgenberg,  M.C.,  2021. ETF arbitrage,  nonfundamental demand,  and return predictability. Review of Finance,  25(4),  pp0.\1-972.
 
-These results from the cross-section of ETFs provide some further support to the notion that MF and ETF flows can be a useful (retail) investor sentiment indicator.
+These results from the cross-section of ETFs provide some further support to the notion that MF and ETF flows can be a useful (retail) [[Lecture 4- Investor Sentiment|investor sentiment]] indicator.
 
 ### 4.3.1 Using artificial intelligence to extract sentiment from textual information
 
@@ -596,7 +597,7 @@ Empirically it is difficult to tell whether any asset prices contain such a pure
 
 ### 4.4.3 Assets with convenience yield
 
-Even for assets such as cryptocurrencies that do seem to be candidate examples for pure asset price bubbles,  there may be a different explanation why they fetch prices substantially above zero. An asset may provide non-monetary intangible benefits that support its value in similar ways as dividends and interest payments do for most assets.
+Even for assets such as cryptocurrencies that do seem to be candidate examples for pure asset price bubbles,  there may be a different explanation why they fetch prices substantially above zero. An asset may provide non-monetary [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] benefits that support its value in similar ways as dividends and interest payments do for most assets.
 
 One example is fiat money. People are willing to hold certain amounts of paper money or deposits in low-yielding checking accounts despite the fact that the rate of return on these money holdings is smaller than the risk-free rate they could earn by investing in government treasury bills instead. They do so because holding a certain amount of balances in highly liquid form has convenience benefits: it can be used for transactions instantly. For this reason,  such benefits are called a convenience yield.
 

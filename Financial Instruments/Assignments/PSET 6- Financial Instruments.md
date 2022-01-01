@@ -1,15 +1,10 @@
 ---
-aliases:
-- PSET 6Financial Instruments
-- Alias_150_PSET 6- Financial Instruments.md
-- Alias_149_PSET 6- Financial Instruments.md
+cssclasses: academia
+aliases: [PSET 6Financial Instruments,  Alias_150_PSET 6- Financial Instruments.md,  Alias_149_PSET 6- Financial Instruments.md]
 linter-yaml-title-alias: PSET 6Financial Instruments
-tags:
-- tag_example
+tags: tag_example
 title: PSET 6Financial Instruments
 ---
-
-
 
 # PSET 6Financial Instruments
 
@@ -18,8 +13,11 @@ ma# PSET 6FINANCIAL INSTRUMENTS
 ## FINANCIAL INSTRUMENTS WINTER 2024 JOHN HEATON
 
 Homework 6
+
 Due at the beginning of class 8
+
 Roger Lin
+
 Suna Bai
 
 ## 1 IMPLIED VOLATILITY
@@ -27,10 +25,13 @@ Suna Bai
 Replicate the Implied Volatility of Teaching Note 6,  using current options data on S&P 500 maturing in June (3 months or one quarter from now). Please state the assumptions you make,  if any,  to compute the time to maturity of the options,  that is the value of T that you use in your formulas. (No need to use many options. Choose just a few ITM,  OTM and ATM. Note that the current SP 500 index value is on the top right corner of the table.) The spreadsheet "Options. Xls" provides an example of the implied volatility calculation. See the worksheet "Implied Volatility."
 
 ˆ Current Options Data can be found at CBOE. The ticker is SPX.
+
 http://www.cboe.com/DelayedQuote/QuoteTable.aspx
+
 NOTE: I have downloaded all of this data for you! Please see the file "Quote-Data 2024. Xls."
 
 ˆ You can use federal reserve website (link below) to retrieve the value of the risk Free rate. Use the Treasury Constant Maturity rate that most closely matches the Maturity of the options. Note that TCM are compounded annually,  so be sure to Make the relevant adjustments. Please report the value of the rate that you use. http://www.federalreserve.gov/releases/h15/Current/
+
 ˆ The dividend yield can be estimated using the data collected by Robert Shiller which are available at the link below. You can estimate the dividend yield as the average dividend yield over the last available 12 months. Be sure to make the relevant compounding adjustments and report the dividend yield that you use.
 
 http://www.econ.yale.edu/~shiller/data.htm You should use the data in the "Excel file" used in his book. This gives monthly prices,  dividends,  earnings and other information.
@@ -67,11 +68,11 @@ http://www.econ.yale.edu/~shiller/data.htm You should use the data in the "Excel
 - (1) A wealthy investor hires you to help her evaluate a recent security issued by Morgan Stanley,  called PLUS (see prospectus: The security was issued by Morgan Stanely in April 2008. Assume the same security is issued today and has one-year to Maturity,  but it is otherwise identical). To assess its fair value,  you decide to use the appropriate implied volatility from the options markets as in Exercise (1).
 	- (a) How can you decompose the PLUS into more basic securities? (Tip: The Solution to the Mock Midterm might be helpful…)
 
-| Start Date | Feb 12th,   2024 |
+| Start Date | Feb 12th,    2024 |
 | ---- | ---- |
-| Maturity Date | Feb 12th,   2025 |
+| Maturity Date | Feb 12th,    2025 |
 | T | 1 |
-| Risk Free Rate | 4.87% (1 yearconstant maturity  Treausry Rate as of Feb,   12th,   2024) |
+| Risk Free Rate | 4.87% (1 yearconstant maturity  Treausry Rate as of Feb,    12th,    2024) |
 | Dividend Yield | 1.608% (average dividend yield on SPX over 2023.) |
 | Implied Volatility | 16.18% |
 
@@ -93,9 +94,9 @@ http://www.econ.yale.edu/~shiller/data.htm You should use the data in the "Excel
 > [!NOTE]
 > - a zero coupon bond with face value of 10$$B_{Z}= 10 e^{-0.0487*1}=9.52467$$
 > 	- 3 Long At the Money Call Options with Strike Price of 10
-$$\text{BSCall}(S,  K,  \sigma,  r,  T,  \delta)$$
-> $$3 \times \text{BSCall}(10,  10,  16.18\%,  4.87\%,  1.60\%) \approx 0.8 \times 3 = 2.4$$3 Short Out of the Money Call Options with Strike of 10.65584$$3 \times \text{BSCall}(10.65,  10,  16.18\%4.87\%,   1.608\%) \approx -0.17975 \times 3 = -0.539251$$- 2 Short At the Money Put Option with Strike Price of 10
-> - $$BSPUT(10,  10,  16.18\%,   4.87\%,   1.60\%)=-0.48$$
+$$\text{BSCall}(S,   K,   \sigma,   r,   T,   \delta)$$
+> $$3 \times \text{BSCall}(10,   10,   16.18\%,   4.87\%,   1.60\%) \approx 0.8 \times 3 = 2.4$$3 Short Out of the Money Call Options with Strike of 10.65584$$3 \times \text{BSCall}(10.65,   10,   16.18\%4.87\%,    1.608\%) \approx -0.17975 \times 3 = -0.539251$$- 2 Short At the Money Put Option with Strike Price of 10
+> - $$BSPUT(10,   10,   16.18\%,    4.87\%,    1.60\%)=-0.48$$
 > - Total Value of Replicating Portfolio = 9.52467+2.4-0.539-0.48=10.899032
 >
 
@@ -143,29 +144,29 @@ The PLUS are senior unsecured obligations of Morgan Stanley,  will pay no intere
 | Term | Details |
 | ---- | ---- |
 | Issuer | Morgan Stanley |
-| Maturity date | April 20,   2009 |
+| Maturity date | April 20,    2009 |
 | Underlying index | S&P 500® Index |
-| Aggregate principal amount |$47,  500,  000 |
-| Payment at maturity | If final index value is greater than initial index value,  $10 + leveraged upside payment. In no event will the payment at maturity exceed the maximum payment at maturity. If final index value is less than or equal to initial index value,  $10 x (final index value / initial index value) This amount will be less than or equal to the stated principal amount of$10. |
+| Aggregate principal amount |$47,   500,   000 |
+| Payment at maturity | If final index value is greater than initial index value,   $10 + leveraged upside payment. In no event will the payment at maturity exceed the maximum payment at maturity. If final index value is less than or equal to initial index value,   $10 x (final index value / initial index value) This amount will be less than or equal to the stated principal amount of$10. |
 | Leveraged upside payment |$10 x leverage factor x index percent increase |
 | Index percent increase | (final index value – initial index value) / initial index value |
-| Initial index value | 1,  329.51,   the index closing value of the underlying index on the pricing date |
+| Initial index value | 1,   329.51,    the index closing value of the underlying index on the pricing date |
 | Final index value | The index closing value of the underlying index on the valuation date |
-| Valuation date | April 16,   2009,   subject to adjustment for certain market disruption events |
+| Valuation date | April 16,    2009,    subject to adjustment for certain market disruption events |
 | Leverage factor | 300% |
 | Maximum payment at maturity |$11.90 (119% of the stated principal amount) per PLUS |
 | Stated principal amount |$10 per PLUS |
 | Issue price |$10 per PLUS (see “Commissions and Issue Price” below) |
-| Pricing date | March 20,   2008 |
-| Original issue date | March 31,   2008 |
+| Pricing date | March 20,    2008 |
+| Original issue date | March 31,    2008 |
 | CUSIP | 61747W166 |
-| Listing | The PLUS have been approved for listing on the American Stock Exchange LLC under the ticker symbol “SKE, ” subject to official notice of issuance. It is not possible to predict whether any secondary market for the PLUS will develop. |
+| Listing | The PLUS have been approved for listing on the American Stock Exchange LLC under the ticker symbol “SKE,  ” subject to official notice of issuance. It is not possible to predict whether any secondary market for the PLUS will develop. |
 | Agent | Morgan Stanley & Co. Incorporated |
 
 | Commissions and Issue Price: | Price to Public | Agent’s Commissions | Proceeds to Company |
 |------------------------------|-----------------|---------------------|---------------------|
 | Per PLUS                     |$10             |$0.15               |$9.85               |
-| Total                        |$47,  500,  000     |$712,  500            |$46,  787,  500         |
+| Total                        |$47,   500,   000     |$712,   500            |$46,   787,   500         |
 
 (1) The actual price to public and agent's commissions for a particular investor may be reduced for volume purchase discounts depending on the aggregate amount of PLUS purchased by that investor. The lowest price payable by an investor is$9.95 per PLUS. Please see "Syndicate Information" on page 4 for further details.
 
@@ -178,4 +179,5 @@ The Securities and Exchange Commission and state securities regulators have not 
 YOU SHOULD READ THIS DOCUMENT TOGETHER WITH THE RELATED PROSPECTUS SUPPLEMENT AND PROSPECTUS,  EACH OF WHICH CAN BE ACCESSED VIA THE HYPERLINKS BELOW.
 
 Amendment No. 2 to Prospectus Supplement for PLUS dated October 24,  2007
+
 Prospectus dated January 25,  2006

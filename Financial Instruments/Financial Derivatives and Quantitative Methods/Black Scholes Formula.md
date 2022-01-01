@@ -61,13 +61,13 @@ Plain options have slightly more complex payoffs than digital options,  but the 
 
 The payoff to a European call option with strike price $K$ at the maturity date $T$ is
 
-$$c (T)=\max[S (T)-K,  0]$$
+$$c (T)=\max[S (T)-K,   0]$$
 
 Where $S (T)$ is the price of the underlying asset at the maturity date. At maturity,  if $S (T)>K$,  the option to buy the underlying at $K$ can be exercised,  and the underlying asset immediately sold for $S (T)$ to give a net payoff of $S (T) - K$. Since the option gives only the right and not the obligation to buy the underlying asset,  the option to buy the underlying will not be exercised if doing so would lead to a loss,  $S (T) - K<0$ . The Black-Scholes formula for the price of the call option at date $t=0$ prior to maturity is given by
 
 $$c (0)=S (0) N (d_1) - e^{-rT}KN (d_2)$$
 
-Where $N (d)$ is the cumulative probability distribution for a variable that has a standard normal distribution with a mean of zero and a standard deviation of
+Where $N (d)$ is the cumulative [[Lecture 1- Probability Distributions of Returns|probability distribution]] for a variable that has a standard normal distribution with a mean of zero and a standard deviation of
 
 one. It is the area under the standard normal density function from $-\infty$ to $d$ and therefore gives the probability that a random draw from the standard normal distribution will have a value less than or equal to $d$ .Wehave there fore that $0\leq N (d)\leq 1$ with $N (-\infty)=0$,  $N (0) =\frac{1}{2}$,  and $N (+\infty)=1$. The term 7 is the continuously compounded risk-free rate of interest,  and $d_1$ and $d_2$ satisfy
 
@@ -77,7 +77,7 @@ Here $\sigma^{2}$ is the variance of the continuously compounded rate of return 
 
 Likewise,  the payoff to a European put option with strike price $K$ at the maturity date $T$ is
 
-$$p (T)=\max[K-S (T),  0]$$
+$$p (T)=\max[K-S (T),   0]$$
 
 As the put option gives the right to sell the underlying asset at the strike price of $K$. The Black-Scholes formula for the price of the put option at date $t=0$ prior to maturity is given by
 
@@ -114,9 +114,9 @@ It is the slope of the curve relating the option price with the price of the und
 
 ### Boundary Conditions
 
-We shall consider the boundary conditions for the call option. Consider first the boundary condition for the call at expiration when $T=0$. To do this,  consider the formula for the call option as $T\longrightarrow 0$ ,  that is,  as the time until maturity goes to zero. At maturity,  $c (T)=\operatorname*{max}[S (T)-K,  0]$ so we need to show that as $T\longrightarrow 0$ the formula converges to $c ( 0)$ = $\operatorname* { max} [ S ( 0) - K,  0]$. If $S (0)>K$ then $\ln ({\frac{S (0)}{K}})>0$ so that as $T\longrightarrow 0$,  $d_{1}$ and $d_{2}\to+\infty$. Thus $N (d_{1})$ and $N (d_{2})\to 1$. Since $e^{-rT}\to 1$ as $T\longrightarrow 0$ we have that $c ( 0)$ $\longrightarrow$ $S ( 0) - K$ if $S (0)>K$ . Alternatively,  if $S (0)<K$ then $\ln(\frac{S(0)}{K})<0$ so that as $T\longrightarrow0$ $d_{1}$ and $d_{2}\rightarrow-\infty$ and hence $N(d_{1})$ and $N( d_{2})$ $\to$ 0. Thus $c( 0)$ $\longrightarrow$ 0 if $S(0)<K$. This is precisely as expected. If the option is in the money at maturity,  $S(0)>K$ ,  it is exercised for a profit of $S (0)-K$ and if it is out of the money,  $S (0)<K$ ,  the option expires unexercised and valueless.
+We shall consider the boundary conditions for the call option. Consider first the boundary condition for the call at expiration when $T=0$. To do this,  consider the formula for the call option as $T\longrightarrow 0$ ,  that is,  as the time until maturity goes to zero. At maturity,  $c (T)=\operatorname*{max}[S (T)-K,   0]$ so we need to show that as $T\longrightarrow 0$ the formula converges to $c ( 0)$ = $\operatorname* { max} [ S ( 0) - K,   0]$. If $S (0)>K$ then $\ln ({\frac{S (0)}{K}})>0$ so that as $T\longrightarrow 0$,  $d_{1}$ and $d_{2}\to+\infty$. Thus $N (d_{1})$ and $N (d_{2})\to 1$. Since $e^{-rT}\to 1$ as $T\longrightarrow 0$ we have that $c ( 0)$ $\longrightarrow$ $S ( 0) - K$ if $S (0)>K$ . Alternatively,  if $S (0)<K$ then $\ln(\frac{S(0)}{K})<0$ so that as $T\longrightarrow0$ $d_{1}$ and $d_{2}\rightarrow-\infty$ and hence $N(d_{1})$ and $N( d_{2})$ $\to$ 0. Thus $c( 0)$ $\longrightarrow$ 0 if $S(0)<K$. This is precisely as expected. If the option is in the money at maturity,  $S(0)>K$ ,  it is exercised for a profit of $S (0)-K$ and if it is out of the money,  $S (0)<K$ ,  the option expires unexercised and valueless.
 
-As another example,  consider what happens as $\sigma\rightarrow 0$. In this case,  the underlying asset becomes riskless and grows at the constant rate of $T$. Thus,  the future value of the stock is $S (T)=e^{rT^{\prime}}S (0)$ and the payoff to the call option at maturity is $\operatorname*{max}[e^{r^{\prime}I^{\prime}}S (0)-K,  0]$ . Thus,  the value of the call at date $t=0$ is $\operatorname*{max}[S (0)-e^{-rT}K,  0]$. To see this from the formula,  first consider the case where $S (0)-e^{-rT}K>0$ or $\ln (\frac{S (0)}{K})+rT>0$. Then,  as $\sigma\longrightarrow 0$,  $d_{1}$ and $d_{2}\to+\infty$ and hence $N (d_{1})$ and $N (d_{2})\to 1$. Thus,  $c ( 0)\toS ( 0)-e^{-rT^{\prime }}K$. Likewise,  when $S (0)-e^{-rT}K<0$ or $\ln (\frac{S (0)}{K})+rT<0$,  then $d_{1}$ and $d_{2}\to-\infty$ as $\sigma\rightarrow 0$. Hence,  $N (d_{1})$ and $N (d_{2})\to 0$ and so $c (0)\to 0$. Thus,  combining both conditions,  $c (0)\longrightarrow\operatorname*{max}[e^{rT}S (0)-K,  0]$ as $\sigma\rightarrow 0$.
+As another example,  consider what happens as $\sigma\rightarrow 0$. In this case,  the underlying asset becomes riskless and grows at the constant rate of $T$. Thus,  the future value of the stock is $S (T)=e^{rT^{\prime}}S (0)$ and the payoff to the call option at maturity is $\operatorname*{max}[e^{r^{\prime}I^{\prime}}S (0)-K,   0]$ . Thus,  the value of the call at date $t=0$ is $\operatorname*{max}[S (0)-e^{-rT}K,   0]$. To see this from the formula,  first consider the case where $S (0)-e^{-rT}K>0$ or $\ln (\frac{S (0)}{K})+rT>0$. Then,  as $\sigma\longrightarrow 0$,  $d_{1}$ and $d_{2}\to+\infty$ and hence $N (d_{1})$ and $N (d_{2})\to 1$. Thus,  $c ( 0)\toS ( 0)-e^{-rT^{\prime }}K$. Likewise,  when $S (0)-e^{-rT}K<0$ or $\ln (\frac{S (0)}{K})+rT<0$,  then $d_{1}$ and $d_{2}\to-\infty$ as $\sigma\rightarrow 0$. Hence,  $N (d_{1})$ and $N (d_{2})\to 0$ and so $c (0)\to 0$. Thus,  combining both conditions,  $c (0)\longrightarrow\operatorname*{max}[e^{rT}S (0)-K,   0]$ as $\sigma\rightarrow 0$.
 
 ## At-the-money Options
 
@@ -167,11 +167,11 @@ Constant continuously compounded rate of return of 7%,  so that a money market a
 
 $$d\: B (t)=rB (t)\: dt.$$
 
-The latter is equivalent to $B (t)=B (0) e^{rt}$. The excess return on the stock is $\mu-r$,  and the ratio $\lambda=(\mu-r)/\sigma$ is known as the market price of risk. The call option changes value over time as the stock price and the time to maturity change,  and therefore we can write the call price $c (S (t),  t)$
+The latter is equivalent to $B (t)=B (0) e^{rt}$. The excess return on the stock is $\mu-r$,  and the ratio $\lambda=(\mu-r)/\sigma$ is known as the market price of risk. The call option changes value over time as the stock price and the time to maturity change,  and therefore we can write the call price $c (S (t),   t)$
 
-The objective is to show that $c (S (t),  t)$ is well defined (there is a unique price) and describe how the call price depends on $S (t)$ and $t$
+The objective is to show that $c (S (t),   t)$ is well defined (there is a unique price) and describe how the call price depends on $S (t)$ and $t$
 
-Since $c (S (t),  t)$ is just a function,  we can apply Ito's lemma to derive
+Since $c (S (t),   t)$ is just a function,  we can apply Ito's lemma to derive
 
 $$d\:c=\left (\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt+\sigma S\frac{\partial c}{\partial S}\: dz.$$
 
@@ -197,7 +197,7 @@ $$c=\frac{1}{r}\left\{\left (\frac{\partial c}{\partial t}+rS\frac{\partial c}{\
 
 This is a second-order partial differential equation (PDE). It is known as the Black-Scholes-Merton Partial Differential Equation. Indeed,  since we did not yet specify anything about the nature of the option,  this equation will apply to any derivative security. What determines how the equation applies to a particular derivative is given by the boundary condition. For the call option,  we have the boundary condition that at maturity
 
-$$c (S (T),  T)=\max\{S (T)-K,  0\}.$$
+$$c (S (T),   T)=\max\{S (T)-K,   0\}.$$
 
 Solving this second-order differential equation together with the boundary condition gives the Black-Scholes formula we have seen before
 
@@ -221,71 +221,71 @@ any time and thus the change in the value of the portfolio depends on how the st
 
 $$d\:P=\alpha\:dS+\beta\: dB.$$
 
-To satisfy this equation,  $\boldsymbol{\alpha}$ and $\beta$ will in general be changing over time and as $S (t)$ varies. However,  it is also clear that once $\alpha (S (t),  t)$ is specified,  $\beta (S (t),  t)$ is determined as well by the fact that the portfolio is self-financing and thus has to satisfy the above equation. We shall follow what we did in the previous section and suppose that $\alpha=\partial C/\partial S$. Here,  we are taking a long position in the stock as we are trying to replicate the portfolio (whereas in the previous section,  we were taking a short position to hedge out the risk of the option itself). We want to show that the value of the portfolio equals the value of the call at every instant. That is,  we want to show that $P (S (t),  t)=c (S (t),  t)$. Therefore,  we consider the difference
+To satisfy this equation,  $\boldsymbol{\alpha}$ and $\beta$ will in general be changing over time and as $S (t)$ varies. However,  it is also clear that once $\alpha (S (t),   t)$ is specified,  $\beta (S (t),   t)$ is determined as well by the fact that the portfolio is self-financing and thus has to satisfy the above equation. We shall follow what we did in the previous section and suppose that $\alpha=\partial C/\partial S$. Here,  we are taking a long position in the stock as we are trying to replicate the portfolio (whereas in the previous section,  we were taking a short position to hedge out the risk of the option itself). We want to show that the value of the portfolio equals the value of the call at every instant. That is,  we want to show that $P (S (t),   t)=c (S (t),   t)$. Therefore,  we consider the difference
 
 $$\begin{aligned}
-&d (P (S (t),  t)-c (S (t),  t))&& =d\: P-d\: c \\
-&&&=\alpha (S,  t)\:dS+\beta (S,  t)\: dB \\
+&d (P (S (t),   t)-c (S (t),   t))&& =d\: P-d\: c \\
+&&&=\alpha (S,   t)\:dS+\beta (S,   t)\: dB \\
 &&&-\left (\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^{2}S^{2}\frac{\partial^{2}c}{\partial S^{2}}\right) dt-\sigma S\frac{\partial c}{\partial S}\: dz. \\
 &\text{100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000}
 \end{aligned}$$
 
-Then substituting for $dS$,  $dB$,  and $\alpha (S,  t)$ gives
+Then substituting for $dS$,   $dB$,   and $\alpha (S,   t)$ gives
 
-$$d (P (S (t),  t)-c (S (t),  t))=\left (\beta (S,  t) rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt.$$
+$$d (P (S (t),   t)-c (S (t),   t))=\left (\beta (S,   t) rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt.$$
 
-Again,  the risk has been eliminated from this equation. Then,  using the Black-Scholes equation gives
+Again,   the risk has been eliminated from this equation. Then,   using the Black-Scholes equation gives
 
-$$d (P (S (t),  t) - c (S (t),  t))=\left (\beta (S,  t) rB - r\left (c - S\frac{\partial c}{\partial S}\right)\right) dt$$
+$$d (P (S (t),   t) - c (S (t),   t))=\left (\beta (S,   t) rB - r\left (c - S\frac{\partial c}{\partial S}\right)\right) dt$$
 
-And since $\beta (S,  t) B=P (S,  t) - \alpha (S,  t) S$,  this gives
+And since $\beta (S,   t) B=P (S,   t) - \alpha (S,   t) S$,   this gives
 
 $$\begin{gathered}
-D (P (S (t),  t) - c (S (t),  t)) =r\left (P (S,  t) - \alpha (S,  t) S\right) dt - r\left (c - S\frac{\partial c}{\partial S}\right) dt \\
-=r\left (P (S,  t) - c (S,  t)\right) dt.
+D (P (S (t),   t) - c (S (t),   t)) =r\left (P (S,   t) - \alpha (S,   t) S\right) dt - r\left (c - S\frac{\partial c}{\partial S}\right) dt \\
+=r\left (P (S,   t) - c (S,   t)\right) dt.
 \end{gathered}$$
 
-Let $D (S,  t)=P (S,  t) - c (S,  t)$. By construction,  we want the portfolio to be replicating,  so $P (S (0),  0)=c (S (0),  0)$ and hence $D (S,  0)=0$. But we have from the above equation that $dD=rD (S,  t) dt$ and so $D (S,  t)=D (S,  0) e^{rt} = 0$. Thus,  the portfolio,  because it is self-financing and all risk has been hedged away,  replicates the call value at every instant. Moreover,  unlike the previous argument which assumed a call value function $c (S,  t)$ and differentiated,  the present approach proves the existence of this value and shows that it is well-defined.
+Let $D (S,   t)=P (S,   t) - c (S,   t)$. By construction,   we want the portfolio to be replicating,   so $P (S (0),   0)=c (S (0),   0)$ and hence $D (S,   0)=0$. But we have from the above equation that $dD=rD (S,   t) dt$ and so $D (S,   t)=D (S,   0) e^{rt} = 0$. Thus,   the portfolio,   because it is self-financing and all risk has been hedged away,   replicates the call value at every instant. Moreover,   unlike the previous argument which assumed a call value function $c (S,   t)$ and differentiated,   the present approach proves the existence of this value and shows that it is well-defined.
 
 ## Martingale Pricing
 
-We now consider the ratio $\varrho (t)=S (t)/B (t)$. In the binomial case,  we have seen that this is a martingale,  so that the ratio $\varrho (t)$ satisfies the property $\mathrm{E}_{*}[x (t+1)]=x (t)$,  where the expectation is taken using the risk-neutral probabilities. Equivalently,  we have $\mathrm{E}_{*}[x (t+1)-x (t)]=0$ or,  in the limit,  $\mathrm{E}_{*}[dx (t)]=0$.
+We now consider the ratio $\varrho (t)=S (t)/B (t)$. In the binomial case,   we have seen that this is a martingale,   so that the ratio $\varrho (t)$ satisfies the property $\mathrm{E}_{*}[x (t+1)]=x (t)$,   where the expectation is taken using the risk-neutral probabilities. Equivalently,   we have $\mathrm{E}_{*}[x (t+1)-x (t)]=0$ or,   in the limit,   $\mathrm{E}_{*}[dx (t)]=0$.
 
-Using the equations above for $S (t)$ and $B (t)$,  we have,  upon differentiation,  that
+Using the equations above for $S (t)$ and $B (t)$,   we have,   upon differentiation,   that
 $$d\:\varrho (t)=\frac{d\: S (t)}{B (t)}+S (t)\: d (B (t)^{-1}).$$
 
-We have $d (B (t)^{-1})=-rB (t)^{-1}dt^{1}$,  so that
+We have $d (B (t)^{-1})=-rB (t)^{-1}dt^{1}$,   so that
 
 $$\begin{aligned}
 D\:\varrho (t)& =\frac{1}{B (t)}\left (\mu S (t)\:dt+\sigma S (t) dz\right)-\frac{1}{B (t)}rS\: dt \\
 &=(\mu-r)\varrho (t)\:dt+\sigma\varrho (t)\: dz.
 \end{aligned}$$
 
-This does not satisfy the martingale property because the drift rate is not equal to 7 . We remember,  however,  that in the Binomial model,  we never had to specify the true probabilities but could derive risk-neutral probabilities.
+This does not satisfy the martingale property because the drift rate is not equal to 7 . We remember,   however,   that in the Binomial model,   we never had to specify the true probabilities but could derive risk-neutral probabilities.
 
-We can do something similar here by changing the probabilities or measure of the distribution. It turns out that if we specify a process $\ddot{z}=z-\eta t$ where $Z$ is a Wiener process,  then so too is $\tilde{z}$. Thus
+We can do something similar here by changing the probabilities or measure of the distribution. It turns out that if we specify a process $\ddot{z}=z-\eta t$ where $Z$ is a Wiener process,   then so too is $\tilde{z}$. Thus
 
 $$d\:\varrho (t)=(\mu-r)\varrho (t)\:dt+\sigma\varrho (t)\: d\tilde{z}+\sigma\varrho (t)\eta dt.$$
 
-If we choose $\eta$ to be equal to the market price of risk,  $\lambda=(\mu-r)/\sigma$ ,  then the drift terms cancel out and $\varrho (t)$ is a martingale,  that is,  $d$ $\varrho ( t) = \sigma \varrho ( t)$ $d\tilde{z}$. Hence,  since $d$ $B ( t) = rB ( t)$ $dt$,  we get
+If we choose $\eta$ to be equal to the market price of risk,   $\lambda=(\mu-r)/\sigma$ ,   then the drift terms cancel out and $\varrho (t)$ is a martingale,   that is,   $d$ $\varrho ( t) = \sigma \varrho ( t)$ $d\tilde{z}$. Hence,   since $d$ $B ( t) = rB ( t)$ $dt$,   we get
 
 $$d\:\varrho (t)=\frac{d\: S (t)}{B (t)}-\frac{rS (t)}{B (t)}\:dt=\sigma\frac{S (t)}{B (t)}\: d\tilde{z}$$
 
-Or,  after cancelling out the $B (t)$ term and rewriting, 
+Or,   after cancelling out the $B (t)$ term and rewriting,  
 
 $$d\: S (t)=rS (t)\:dt+\sigma S (t)\: d\tilde{z}$$
 
-So that $S (t)$ is a geometric Brownian motion process using the new variable $z$. Here,  the drift with the new variable is just the risk-free rate. It is as if we are in a risk-neutral world and all assets are growing at the same expected rate equal to the risk-free rate.
+So that $S (t)$ is a geometric Brownian motion process using the new variable $z$. Here,   the drift with the new variable is just the risk-free rate. It is as if we are in a risk-neutral world and all assets are growing at the same expected rate equal to the risk-free rate.
 
 We can then proceed as before to show that
 
 $$\frac{\ln S (T)-\ln S (0)-(r-\frac{1}{2}\sigma^2) T}{\sigma\sqrt{T}}$$
 
-Is a standard normal variable with mean zero and unit variance. The value of a call option can be calculated as the discounted value of the expected intrinsic value using the risk-neutral expectation. That is, 
+Is a standard normal variable with mean zero and unit variance. The value of a call option can be calculated as the discounted value of the expected intrinsic value using the risk-neutral expectation. That is,  
 
-$$c (0)=e^{-rT}\mathrm{E}_*[\max\{S (T)-K,  0\}].$$
+$$c (0)=e^{-rT}\mathrm{E}_*[\max\{S (T)-K,   0\}].$$
 
-Thus,  we need to calculate the expected value of $S (T)-K$ conditional on the option ending in the money,  $S (T)>K$. The value of the option consists of
+Thus,   we need to calculate the expected value of $S (T)-K$ conditional on the option ending in the money,   $S (T)>K$. The value of the option consists of
 
 Two parts: the future value of the underlying asset conditional on $S (T)>K$ and the strike price paid times the probability the option is exercised. The probability the option is exercised is the probability $S (T)>K$. This will be given by $1-N (x)$ where
 

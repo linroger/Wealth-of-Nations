@@ -1,6 +1,11 @@
 ---
 title: Week 6
-tags: [Advanced-Financial-Analysis-and-Valuation]
+tags:
+  - Advanced-Financial-Analysis-and-Valuation
+  - "#financialanalysis"
+  - "#banking"
+  - "#bank-valuation"
+  - "#financial-regulation"
 ---
 
 # Week 6
@@ -9,7 +14,7 @@ tags: [Advanced-Financial-Analysis-and-Valuation]
 	- [[Week 6 Advanced Financial Analysis and Valuation]]
 	- [[Week 6 Assignment Review]]
 	- [[Week 6 Bank Analysis and Valuation]]
-	- [[Week 6 Bank Business Model,   Regulation,   and Accounting Rules]]
+	- [[Week 6 Bank Business Model,      Regulation,      and Accounting Rules]]
 	- [[Week 6]]
 
 %% End Waypoint %%

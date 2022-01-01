@@ -15,7 +15,7 @@ title: Investor Size,  Liquidity And Prime Money Market Fund Stress
 
 # Investor Size, Liquidity And Prime Money Market Fund Stress
 
-Massive redemptions at money market funds (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.
+Massive redemptions at [[A Primer on Money Market Mutual Funds|money market funds]] (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.
 
 Building on previous studies of the underlying drivers,  we find that large investors' withdrawals did not differentiate across prime institutional MMFs according to these funds' asset liquidity positions. We also find that,  faced with large redemptions,  the managers of these funds disposed of the less liquid securities in their portfolios,  marking a departure from their behaviour in tranquil times. This is likely to have exacerbated market-wide liquidity shortages. After the Federal Reserve's announcement of the Money Market Mutual Fund Liquidity Facility,  all funds strengthened their liquidity positions,  with those hardest-hit by outflows attempting to catch up with peers.
 
@@ -23,7 +23,7 @@ JEL classification: G23,  G28,  E58.
 
 Key takeaways
 
-- In March 2020,  prime institutional money market funds serving large investors experienced withdrawals irrespective of the liquidity of underlying assets.
+- In March 2020,  prime institutional [[A Primer on Money Market Mutual Funds|money market funds]] serving large investors experienced withdrawals irrespective of the liquidity of underlying assets.
 - During the massive withdrawals,  fund managers mostly disposed of less liquid assets,  which may have exacerbated market-wide liquidity shortages.
 - Once policy relief set in,  fund managers rebuilt liquidity buffers,  with the funds hardest-hit by outflows strengthening their liquidity positions most aggressively.
 
@@ -39,7 +39,7 @@ We find that investor size was an important determinant of the pattern of redemp
 
 In the second part of this feature,  we shift the focus from the behaviour of investors to that of the fund managers. We find that managers disposed of the less liquid assets in their portfolios. Such sales may have exacerbated market-wide liquidity shortages during the heightened market stress in the first half of March. This stress eased after the Federal Reserve announced its Money Market Mutual Fund Liquidity Facility (MMLF) in mid-March,  which stemmed withdrawals. Managers proceeded to rebuild their liquidity buffers,  raising them to higher than pre-pandemic levels. Ultimately,  funds that had experienced larger withdrawals saw a stronger subsequent build-up of liquidity buffers.
 
-This feature proceeds as follows. In the next section,  we present a brief introduction to the MMF sector and survey attendant developments during the March 2020 stress,  both at the sector and the fund levels. In the second section,  we focus on liquidity positions and investor size as potential drivers of the March stress at US prime institutional MMFs. The third section studies such MMFs' liquidity management before,  during and after the stress episode. The last section concludes.
+This feature proceeds as follows. In the next section,  we present a brief introduction to the MMF sector and survey attendant developments during the March 2020 stress,  both at the sector and the fund levels. In the second section,  we focus on liquidity positions and investor size as potential drivers of the March stress at US prime institutional MMFs. The third section studies such MMFs' [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] before,  during and after the stress episode. The last section concludes.
 
 2 This stood in contrast to studies of a similar event in 2008: Strahan and Tanyeri (2015) and Schmidt et al (2016) did not find significant connection between the severity of the 2008 MMF run and fundlevel liquidity conditions.
 
@@ -49,9 +49,9 @@ This feature proceeds as follows. In the next section,  we present a brief intro
 
 MMFs are mutual funds that invest in short-term assets of high credit quality. Their function as intermediaries is to offer a cash management tool to investors,  while providing short-term funding to governments,  financial institutions and corporates (Aldasoro,  Eren and Huang (2021)). As of the end of 2019,  the MMF sector had assets under management (AUM) in excess of $7 trillion globally,  mainly in the United States (57%) and the euro area (20%) (FSB (2020b)) Following the stress suffered by the sector in 2008,  authorities introduced sweeping regulatory reforms in the main jurisdictions.
 
-In terms of their set of eligible assets,  US MMFs are broadly classified as government,  prime and tax-exempt. Government MMFs invest most of their assets in US Treasuries,  US agency securities and repurchase agreements collateralised by US Treasuries. Prime MMFs mainly invest in private sector securities such as certificates of deposit and financial or non-financial commercial paper. Tax-exempt funds primarily hold municipal securities.
+In terms of their set of eligible assets,  US MMFs are broadly classified as government,  prime and tax-exempt. Government MMFs invest most of their assets in US Treasuries,  US agency securities and [[Class Note 12 Part 2 Repos|repurchase agreements]] collateralised by US Treasuries. Prime MMFs mainly invest in private sector securities such as certificates of deposit and financial or non-financial [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. Tax-exempt funds primarily hold municipal securities.
 
-As regards US prime MMFs - which are the main focus of our analysis below -regulation differentiates between retail and institutional funds. Only individuals (natural persons) can access prime retail MMFs. There are no access restrictions for prime institutional MMFs,  but they typically cater to large non-financial investors such as corporate treasuries,  or financial institutions such as pension funds. Retail and institutional funds also differ in their share pricing rules. While the former maintain constant net asset values (NAVs),  prime institutional MMFs mark their portfolios to market so that they have floating NAVs. All prime funds may impose redemption gates or liquidity fees,  ie suspend redemptions or make them costlier,  when their weekly liquid assets (WLA) fall below 30% of their total assets These regulatory guidelines are intended to provide fund managers with liquidity management tools to address redemption pressure In Europe,  shares in MMFs are almost exclusively held by institutional investors Based on their share pricing rules,  European funds are categorised into constant net asset value (CNAV),  low volatility net asset value (LVNAV) and variable net asset value (VNAV) MMFs. CNAV funds are similar to US government MMFs in that they hold mostly government securities. But in contrast to US government MMFs and similar to US prime MMFs,  European CNAV funds can introduce redemption gates and liquidity fees. While LVNAV and VNAV MMFs are comparable to US prime funds in terms of portfolio composition,  only LVNAV funds are subject to MMF regulatory guidelines on gates and fees on investor redemptions
+As regards US prime MMFs - which are the main focus of our analysis below -regulation differentiates between retail and institutional funds. Only individuals (natural persons) can access prime retail MMFs. There are no access restrictions for prime institutional MMFs,  but they typically cater to large non-financial investors such as corporate treasuries,  or financial institutions such as pension funds. Retail and institutional funds also differ in their share pricing rules. While the former maintain constant net asset values (NAVs),  prime institutional MMFs mark their portfolios to market so that they have floating NAVs. All prime funds may impose redemption gates or liquidity fees,  ie suspend redemptions or make them costlier,  when their weekly liquid assets (WLA) fall below 30% of their total assets These regulatory guidelines are intended to provide fund managers with [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] tools to address redemption pressure In Europe,  shares in MMFs are almost exclusively held by institutional investors Based on their share pricing rules,  European funds are categorised into constant net asset value (CNAV),  low volatility net asset value (LVNAV) and variable net asset value (VNAV) MMFs. CNAV funds are similar to US government MMFs in that they hold mostly government securities. But in contrast to US government MMFs and similar to US prime MMFs,  European CNAV funds can introduce redemption gates and liquidity fees. While LVNAV and VNAV MMFs are comparable to US prime funds in terms of portfolio composition,  only LVNAV funds are subject to MMF regulatory guidelines on gates and fees on investor redemptions
 
 ## Developments In The Mmf Sector In March 2020
 
@@ -63,7 +63,7 @@ At the same time,  most other MMF classes experienced outflows. US prime institu
 (Graph 1,  first panel,  green solid line,  and third panel,  yellow line). Daily outflows from US prime institutional MMFs exceeded 2% of the previous-day AUM for eight trading days in a row,  an extraordinary event from a historical perspective. European dollar denominated LVNAV funds had a similar experience Within the prime institutional MMF universe,  the experience of individual funds was highly uneven. During the run,  cumulative redemptions ranged from 5 to 40% of pre-run AUM for half of the funds,  with a quarter of the funds faring much worse
 (Graph 1,  second panel) By contrast,  some funds recorded gains of up to 20% of pre-run AUM. In Europe,  one half of the fund-level redemptions were within a comparable range of 0–30% of pre-run AUM (fourth panel).
 
-In response to the market strains,  a number of programmes were rolled out to provide liquidity support. In the United States,  the Federal Reserve established the Money Market Mutual Fund Liquidity Facility (MMLF) on 18 March This programme allowed banks to borrow from the Federal Reserve by pledging a wide range of assets purchased from prime and tax-exempt MMFs. Eligible assets included the most distressed ones,  such as commercial paper and certificates of deposit. The loans to the participating banks were given on a non-recourse basis (ie banks did not bear credit risk) and were exempt from regulatory capital requirements The facility
+In response to the market strains,  a number of programmes were rolled out to provide liquidity support. In the United States,  the Federal Reserve established the Money Market Mutual Fund Liquidity Facility (MMLF) on 18 March This programme allowed banks to borrow from the Federal Reserve by pledging a wide range of assets purchased from prime and tax-exempt MMFs. Eligible assets included the most distressed ones,  such as [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] and certificates of deposit. The loans to the participating banks were given on a non-recourse basis (ie banks did not bear credit risk) and were exempt from regulatory capital requirements The facility
 
 Overview of the March 2020 MMF run1 Graph 1
 
@@ -73,13 +73,13 @@ Overview of the March 2020 MMF run1 Graph 1
 
 European dollar LVNAV MMFs saw large redemptions Cumulative flows differed across funds
 
-The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial commercial paper). The shaded areas in the first and third panels indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; CNAV = constant NAV; LVNAV = low-volatility NAV; VNAV = variable NAV.
+The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]). The shaded areas in the first and third panels indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; CNAV = constant NAV; LVNAV = low-volatility NAV; VNAV = variable NAV.
 
-1 The sample includes money market funds as classified by CRANE (the top panels) and Informa iMoneyNet (bottom panels).
+1 The sample includes [[A Primer on Money Market Mutual Funds|money market funds]] as classified by CRANE (the top panels) and Informa iMoneyNet (bottom panels).
 
 Sources: CRANE; Informa iMoneyNet; authors' calculations.
 
-Likewise,  the ECB announced on 12 March a new instalment of long-term refinancing operations that provided immediate liquidity to the European financial system. The ECB's US dollar operations,  anchored to the swap lines with the Federal Reserve announced on 15 March,  provided dollar liquidity support. Moreover,  on 18 March the ECB's Governing Council included non-financial commercial paper in its Pandemic Emergency Purchase Programme. As in the United States,  these measures contributed to easing the stress of European funds.
+Likewise,  the ECB announced on 12 March a new instalment of long-term refinancing operations that provided immediate liquidity to the European financial system. The ECB's US dollar operations,  anchored to the swap lines with the Federal Reserve announced on 15 March,  provided dollar liquidity support. Moreover,  on 18 March the ECB's Governing Council included non-financial [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] in its Pandemic Emergency Purchase Programme. As in the United States,  these measures contributed to easing the stress of European funds.
 
 ## Liquidity And Investor Size As Drivers Of The Run
 
@@ -110,7 +110,7 @@ A panel regression analysis quantifies more formally the above results (Box A).
 Funds with larger investors experienced 1.7% higher daily outflows - that is,  26%
 higher cumulative run outflows over the stress period. Further,  large investors' daily outflows did not differ materially (0.3%) between highand low-liquidity funds,  either in terms of economic or statistical significance. Finally,  small investors did withdraw more forcefully from low-liquidity funds,  to the tune of 0.8% higher daily outflows (or more than 10% higher cumulative run outflows).
 
-## Funds' Liquidity Management Over The Episode
+## Funds' [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] Over The Episode
 
 MMF managers could respond to the large redemptions in two alternative ways. They could sell off their most liquid assets,  in an attempt to minimise transaction costs,  particularly under conditions of acute market illiquidity. But by so doing,  they would
 
@@ -137,12 +137,12 @@ Weighted average maturity (WAM) another measure of portfolio liquidity,  followe
 
 Thus,  the asset managers of prime institutional MMFs may have added to the liquidity stress in financial markets prior to the MMLF announcement. Considered together,  the WLA and WAM paths suggest that these managers substituted shortterm private debt securities for longer-tenor US Treasuries and other government obligations. In this way,  they could preserve WLA while at the same time enhancing
 
-15 Under conditions of market stress,  disposing of illiquid assets turns particularly expensive,  as bid-ask spreads usually turn much wider (see eg Ma et al (2020)). See Bouveret and Lorenzo (2020) and Ma et al (2020) for discussions on similar trade-offs facing European MMFs and other mutual funds.
+15 Under conditions of market stress,  disposing of illiquid assets turns particularly expensive,  as [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spreads]] usually turn much wider (see eg Ma et al (2020)). See Bouveret and Lorenzo (2020) and Ma et al (2020) for discussions on similar trade-offs facing European MMFs and other mutual funds.
 
 16 WAM - which is not a regulatory ratio - is based on the number of days to maturity or to coupon resetting (whichever is lower) for the various securities in the portfolio. Assets with higher holdings in the portfolio are weighted proportionately more.
 yield. These trades were procyclical,  as they took place when private debt was already under selling pressure and cash-like government instruments were in high demand.
 
-Liquidity management at prime institutional MMFs during the March turmoil1 Graph 3
+[[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] at prime institutional MMFs during the March turmoil1 Graph 3
 
 ![[Investor Size,  Liq![Finder 2024-09-25 05.07.27.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.27.png)
 
@@ -152,13 +152,13 @@ The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF prog
 
 After the Federal Reserve unveiled the MMLF on 18 March 2020,  market conditions started to normalise and all funds began to replenish their liquidity buffers.
 
-Managers aggressively disposed of less liquid assets,  such as commercial paper and certificates of deposit,  at now lower liquidation costs and rotated their holdings towards more liquid ones. Concretely,  funds tended to both increase their WLA and reduce their WAM. Funds that had experienced stronger redemptions and were thus left with weaker liquidity positions quickly caught up with their peers,  cutting the gap in WLA ratios from about 14 percentage points initially to about 7 percentage points by end-March (Graph 3,  left-hand panel). The concurrent drop in the WAM gap was equally sizeable,  from about 10 days to less than two days (right-hand panel).
+Managers aggressively disposed of less liquid assets,  such as [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] and certificates of deposit,  at now lower liquidation costs and rotated their holdings towards more liquid ones. Concretely,  funds tended to both increase their WLA and reduce their WAM. Funds that had experienced stronger redemptions and were thus left with weaker liquidity positions quickly caught up with their peers,  cutting the gap in WLA ratios from about 14 percentage points initially to about 7 percentage points by end-March (Graph 3,  left-hand panel). The concurrent drop in the WAM gap was equally sizeable,  from about 10 days to less than two days (right-hand panel).
 
 Formal econometric analysis confirms the picture painted by the graphs,  providing some additional quantitative insights (Box B). In particular,  managers of funds that had seen larger outflows prior to the announcement of the MMLF increased WLA at a faster pace on average. Specifically,  a fund experiencing 22% (or one standard deviation) larger outflows tended to raise its WLA by 0.8% more in a day,  or by 8% more over the rest of March.
 
 ## Conclusions
 
-The inability of prime institutional MMFs to provide liquidity on demand in March 2020 called for central bank intervention (FSB (2020a)). Unlike banks,  which proved to be useful elastic nodes during the pandemic-induced turmoil (Shin (2020)),  the funds' dash for liquidity added to the stress across financial markets. Thus,  the provision of central bank liquidity was pivotal in restoring calm (CGFS (2011)).
+The inability of prime institutional MMFs to provide liquidity on demand in March 2020 called for central bank intervention (FSB (2020a)). Unlike banks,  which proved to be useful elastic nodes during the pandemic-induced turmoil (Shin (2020)),  the funds' dash for liquidity added to the stress across financial markets. Thus,  the provision of central [[A Primer on Bank Liquidity|bank liquidity]] was pivotal in restoring calm (CGFS (2011)).
 
 The events of March 2020 have left an indelible mark. They echoed those during the Great Financial Crisis in September 2008,  when the MMF sector suffered a comparable massive seizure and also required central bank assistance. Our findings are offered as a contribution to the ongoing debate about the policy measures that could enhance the resilience of MMFs.
 
@@ -166,10 +166,10 @@ Box B
 
 ## Assessing The Response Of Liquidity Measures To Redemptions
 
-In this box,  we conduct panel regressions to assess MMFs' liquidity management in response to the run,  differentiating pre-stress behaviour from behaviour during the initial stress phase,  before the MMLF and post-MMLF.
+In this box,  we conduct panel regressions to assess MMFs' [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] in response to the run,  differentiating pre-stress behaviour from behaviour during the initial stress phase,  before the MMLF and post-MMLF.
 
 Specifically,  for each of the three periods,  we assess the impact of outflows on various liquidity gauges:
-Δ,  ௧ = ଵ,  ௧ + ଶ,  ௧ିଵ + ଷை௨௧௪ೕ + ସ,  ௧ିଵ +,  ௧ିଵ +,  ௧,  where Δ,  ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;,  ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on liquidity management. Finally,  we include the same set of control variables,  ௧ିଵ as in the previous section but recalculated at the portfolio level.
+Δ,  ௧ = ଵ,  ௧ + ଶ,  ௧ିଵ + ଷை௨௧௪ೕ + ସ,  ௧ିଵ +,  ௧ିଵ +,  ௧,  where Δ,  ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;,  ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]]. Finally,  we include the same set of control variables,  ௧ିଵ as in the previous section but recalculated at the portfolio level.
 
 Panel A of Table B presents the results for the pre-run period (17–28 February). On normal days,  investors' outflows are met with liquid asset sales,  which typically cause a drop in liquidity as measured by both WLA and WAM. This is revealed by a positive and statistically significant coefficient of outflows for WAM and a negative,  albeit non-significant coefficient for WLA (line (1)). The impact of outflows is transient,  as previous outflows have no bearing on current liquidity measures (line 2)).
 
@@ -187,7 +187,7 @@ Finally,  panel C of Table B presents the results for the first two weeks after 
 
 Aldasoro,  I,  C Cabanilla,  P Disyatat,  T Ehlers,  P McGuire and G von Peter (2020): "Central bank swap lines and cross-border bank flows",  *BIS Bulletin*,  no 34,  December. Aldasoro,  I,  E Eren,  and W Huang (2021): "Dollar funding of non-US Banks through Covid-19",  *BIS Quarterly Review*,  March,  pp 33–42.
 
-Baba,  N,  R McCauley and S Ramaswamy (2009): "US dollar money market funds and non-US banks",  *BIS Quarterly Review*,  March,  pp 65–81. Bouveret,  A and D Lorenzo (2020): "Vulnerabilities in money market funds",  European Securities and Markets Authority,  ESMA Report on *Trends,  Risks and Vulnerabilities*,
+Baba,  N,  R McCauley and S Ramaswamy (2009): "US dollar [[A Primer on Money Market Mutual Funds|money market funds]] and non-US banks",  *BIS Quarterly Review*,  March,  pp 65–81. Bouveret,  A and D Lorenzo (2020): "Vulnerabilities in [[A Primer on Money Market Mutual Funds|money market funds]]",  European Securities and Markets Authority,  ESMA Report on *Trends,  Risks and Vulnerabilities*,
 no 2,  September.
 
 Cipriani,  M and G La Spada (2020): "Sophisticated and unsophisticated runs",  Federal Reserve Bank of New York,  *Staff Reports*,  no 956,  December. Committee on the Global Financial System (CGFS) (2011): "Global liquidity - concept,  measurement and policy implications",  *CGFS Papers*,  no 45,  November. Eren,  E,  A Schrimpf and V Sushko (2020a): "US dollar funding markets during the Covid-19 crisis - the money market fund turmoil",  *BIS Bulletin*,  no 14,  May. Eren,  E,  A Schrimpf and V Sushko (2020b): "US dollar funding markets during the Covid-19 crisis - the international dimension",  *BIS Bulletin*,  no 15,  May. Financial Stability Board (FSB) (2020a): *Holistic review of the March market turmoil*,  November. ——— (2020b): *Global Monitoring Report on Non-Bank Financial Intermediation 2020*,  December. Gallagher,  E,  L Schmidt,  A Timmermann and R Wermers (2020): "Investor information acquisition and money market fund risk rebalancing during the 2011–12 eurozone crisis",  *The Review of Financial Studies*,  vol 33,  no 4,  pp 1445–83. International Organization of Securities Commissions (IOSCO) (2020): *Money market* funds during the March-April episode - thematic note,  November.
@@ -212,7 +212,7 @@ See Aldasoro. Cabanilla,  Disyatat,  Ehlers,  McGuire and von Peter (2020) regar
 
 10 These bounds correspond to the interquartile range of cumulative fund-level outflows between 6 and 26 March 2020.
 
-11 The Federal Reserve also established two other programmes to ease short-term funding market strains,  the Commercial Paper Funding Facility and the Primary Dealer Credit Facility,  both on 17 March 2020.
+11 The Federal Reserve also established two other programmes to ease short-term funding market strains,  the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Funding Facility and the Primary Dealer Credit Facility,  both on 17 March 2020.
 
 12 The US Treasury provided credit protection to the Federal Reserve.
 eased the stress by making banks willing buyers of illiquid assets,  thus providing liquidity to MMFs to meet redemptions. In so doing,  it reduced investors' pre-emptive withdrawals.

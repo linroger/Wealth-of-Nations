@@ -1,9 +1,17 @@
 ---
 aliases:
-- Alias_293_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
-- Alias_296_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
+  - Alias_293_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
+  - Alias_296_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
 tags:
-- tag_example
+  - tag_example
+  - "#finance"
+  - "#banking"
+  - "#financial-crises"
+  - "#risk-management"
+  - "#debt-management"
+  - "#subprime-mortgage-crisis"
+  - "#regulatory-capital"
+  - "#citigroup-history"
 title: HBS Citigroup 2007-Financial Reporting And Regulatory Capital
 ---
 
@@ -24,7 +32,7 @@ Citi Markets & Banking (CMB); Global Wealth Management (GWM); and Citi Alternati
 
 ## GLOBAL CONSUMER GROUP
 
-GCG was responsible for banking, lending, insurance, and investment services for individual customers and small and medium-sized enterprises. It was further segmented into U.S. and international consumer operations. In the U.S., GCG operated Citigroup's credit card services, including MasterCard, Visa, Diners Club, American Express, and private-label cards. GCG also made loans for real estate, autos, and education, and operated Citigroup's retail banking services through Citibank branches, CitiFinancial, and Primerica Financial Services.  Internationally, GCG offered similar services through local retail branches providing investment and retirement services, real estate and personal loans, and sales financing.  Broken down by service, 30% of GCG net income came from U.S. credit card services, 28% from international retail banking, 22% from international credit card services, 14% from U.S. retail distribution, and 6% from U.S. commercial banking.
+GCG was responsible for banking, lending, insurance, and investment services for individual customers and small and medium-sized enterprises. It was further segmented into U.S. and international consumer operations. In the U.S., GCG operated Citigroup's credit card services, including MasterCard, Visa, Diners Club, American Express, and private-label cards. GCG also made loans for real estate, autos, and education, and operated Citigroup's retail banking services through Citibank branches, CitiFinancial, and Primerica Financial Services.  Internationally, GCG offered similar services through local retail branches providing investment and retirement services, real estate and personal loans, and sales financing.  Broken down by service, 30% of GCG [[Operating Income vs. Net Income What's the Difference|Net Income]] came from U.S. credit card services, 28% from international retail banking, 22% from international credit card services, 14% from U.S. retail distribution, and 6% from U.S. commercial banking.
 
 ## CITI MARKETS & BANKING
 
@@ -42,7 +50,7 @@ CAI oversaw private equity, hedge funds, real estate, and structured products, a
 
 Regulatory capital was capital that the Federal Reserve Board (the Fed) required banks in the U.S.
 
-to set aside to offset credit, market, and operational risks.  The Fed maintained discretion to adjust these standards as appropriate. Under rules initially issued in 1989, three primary ratios were used to assess capital adequacy: the Tier 1 capital ratio, the total capital ratio, and the leverage ratio (see Exhibit 4 for an overview of regulatory capital calculations, and **Exhibit 5** for related Citigroup disclosures). Of particular note, the Tier 1 capital ratio was calculated as Tier 1 capital divided by risk-weighted assets. Tier 1 capital was broadly defined as a bank's "core capital," comprising common stockholders' equity, qualifying perpetual preferred stock, and minority interests, and excluding most intangible assets. Risk-weighted assets reflected asset categories multiplied by the "risk weight" assigned to that asset as defined by regulators: riskier assets required higher levels of capital to provide a cushion against potential declines in value.
+to set aside to offset credit, market, and operational risks.  The Fed maintained discretion to adjust these standards as appropriate. Under rules initially issued in 1989, three primary ratios were used to assess capital adequacy: the Tier 1 capital ratio, the total capital ratio, and the [[Leverage Ratio|leverage ratio]] (see Exhibit 4 for an overview of regulatory capital calculations, and **Exhibit 5** for related Citigroup disclosures). Of particular note, the Tier 1 capital ratio was calculated as Tier 1 capital divided by risk-weighted assets. Tier 1 capital was broadly defined as a bank's "core capital," comprising common stockholders' equity, qualifying perpetual preferred stock, and minority interests, and excluding most [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets. Risk-weighted assets reflected asset categories multiplied by the "risk weight" assigned to that asset as defined by regulators: riskier assets required higher levels of capital to provide a cushion against potential declines in value.
 
 Generally, the Fed used regulatory capital measures to constrain the riskiness of lending by banking organizations.  Accordingly, banking regulators assessed minimum values for each of these key measures. In 2007, "adequately capitalized" (i.e., minimum) levels were 4% for the Tier 1 capital ratio, 8% for the total capital ratio, and 3% for the leverage ratio; "well-capitalized" levels were 6% for Tier 1 capital, 10% for total capital, and 5% for leverage. Well-capitalized banks qualified for, among other things, lower premiums assessed by the Federal Deposit Insurance Corporation (FDIC). Undercapitalized banks (e.g., below the 8% minimum required total capital) received a warning from the FDIC, and continued violation of capital requirements triggered further regulatory costs, including intervention or (in the extreme) takeover by government regulators.
 
@@ -64,7 +72,7 @@ Citigroup engaged in securitization activities related to various types of mortg
 
 ## RESULTS FOR 2007 AND EXPECTATIONS FOR 2008
 
-On January 15, 2008, Citigroup issued a press release with its fiscal 2007 results.  While net income for the year was $3.6 billion, the fourth quarter was the worst in the firm's history, with a net loss of $9.8 billion.  The loss primarily reflected an $18.1 billion write-off due to losses on subprime-related exposures, as well as a $4.1 billion increase in credit costs related to higher current and estimated losses on consumer loans. Following the press release, significant uncertainty remained regarding Citigroup's expected performance for the upcoming year. Forecasts for industrywide subprime losses varied widely, from $265 billion (S&P) to in excess of $600 billion (UBS).d  Geraud Charpin, head of European credit strategy at UBS, stated: "We have to recognize the risk that the economy will suffer more damage than what consensus suggests. All the investment schemes that have been built on the basis of a strong and resilient economic backdrop have to be unwound."e Against this backdrop, Merando pondered what further losses Citigroup could be facing, and the implications these might have for its operations and regulatory requirements.
+On January 15, 2008, Citigroup issued a press release with its fiscal 2007 results.  While [[Operating Income vs. Net Income What's the Difference|Net Income]] for the year was $3.6 billion, the fourth quarter was the worst in the firm's history, with a net loss of $9.8 billion.  The loss primarily reflected an $18.1 billion write-off due to losses on subprime-related exposures, as well as a $4.1 billion increase in credit costs related to higher current and estimated losses on consumer loans. Following the press release, significant uncertainty remained regarding Citigroup's expected performance for the upcoming year. Forecasts for industrywide subprime losses varied widely, from $265 billion (S&P) to in excess of $600 billion (UBS).d  Geraud Charpin, head of European credit strategy at UBS, stated: "We have to recognize the risk that the economy will suffer more damage than what consensus suggests. All the investment schemes that have been built on the basis of a strong and resilient economic backdrop have to be unwound."e Against this backdrop, Merando pondered what further losses Citigroup could be facing, and the implications these might have for its operations and regulatory requirements.
 
 ![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154823538.png)
 
@@ -98,7 +106,7 @@ Citigroup’s capital management framework is designed to ensure that Citigroup 
 - Level 3 – Valuations derived from valuation techniques in which one or more significant inputs or significant value drivers are unobservable_._ This hierarchy requires the Company to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair value. For some products or in certain market conditions, observable inputs may not always be available. For example, during the market dislocations that occurred in the second half of 2007, certain markets became illiquid, and some key observable inputs used in valuing certain exposures were unavailable. **
 
 **Valuations of Financial Instruments** T
-The Company holds fixed income and equity securities, derivatives, retained interests in securitizations, investments in private equity and other financial instruments. In addition, the Company purchases securities under agreements to resell and sells securities under agreements to repurchase. The Company holds its investments, trading assets and liabilities, and resale and repurchase agreements on the balance sheet to meet customer needs, to manage liquidity needs and interest rate risks, and for proprietary trading and private equity investing. Substantially all of these assets and liabilities are reflected at fair value on the Company’s balance sheet.
+The Company holds fixed income and equity securities, derivatives, retained interests in securitizations, investments in private equity and other financial instruments. In addition, the Company purchases securities under agreements to resell and sells securities under agreements to repurchase. The Company holds its investments, trading assets and liabilities, and resale and [[Class Note 12 Part 2 Repos|repurchase agreements]] on the balance sheet to meet customer needs, to manage liquidity needs and interest rate risks, and for proprietary trading and private equity investing. Substantially all of these assets and liabilities are reflected at fair value on the Company’s balance sheet.
 
 **Allowance for Credit Losses** Management provides reserves for an estimate of probable losses inherent in the funded loan portfolio on the balance sheet in the form of an allowance for loan losses. In addition, management has established and maintains reserves for the potential credit losses related to the Company’s offbalance sheet exposures of unfunded lending commitments, including standby letters of credit and guarantees. These reserves are established in accordance with Citigroup’s Loan Loss Reserve Policies, as approved by the Audit and Risk Management Committee of the Company’s Board of Directors.
 

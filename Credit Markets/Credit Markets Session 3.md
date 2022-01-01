@@ -204,7 +204,7 @@ ISDA CDS "CURVE SHAPE" MODEL
 - Standard CDS maturities:
 	- 1Y,      2Y,      3Y,      5Y,      7Y and 10Y
 - ISDA SNAC swap/discount curve definition:
-	- Curve calibrated to 3M LIBOR until Oct 2022 
+	- Curve calibrated to 3M [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] until Oct 2022 
 	- Curve calibrated to 3M SOFR after Oct 2022
 
 

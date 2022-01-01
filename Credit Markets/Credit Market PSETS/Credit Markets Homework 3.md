@@ -82,7 +82,7 @@ Def create_bond_from_symbology (details: dict):
     
      # Create day_count from details['dcc']
      # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US Corporate bonds use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -214,7 +214,7 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR OIS Swaps 
+    # For US SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swaps 
     Day_count = ql. Actual 360 ()
 
     # For US SOFR Swaps     
@@ -658,7 +658,7 @@ $$\begin{align}
 
 -----------------------------------------------------------
 # Problem 3: US SOFR swap curve calibration as of 2024-04-15
-### Follow Section "1. SOFR OIS swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
+### Follow Section "1. SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
 
 ## a. Load and explore US SOFR swaps symbology and market data
 
@@ -741,7 +741,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 1 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -755,7 +755,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 2 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -769,7 +769,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 3 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -783,7 +783,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 5 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -797,7 +797,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 7 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -811,7 +811,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 10</td>
       <td>Curncy</td>
       <td>USOSFR 10 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 10 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 10 Y</td>
       <td>10</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -825,7 +825,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 20</td>
       <td>Curncy</td>
       <td>USOSFR 20 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 20 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 20 Y</td>
       <td>20</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -839,7 +839,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 30</td>
       <td>Curncy</td>
       <td>USOSFR 30 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 30 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 30 Y</td>
       <td>30</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -891,7 +891,7 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR OIS Swaps 
+    # For US SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swaps 
     Day_count = ql. Actual 360 ()
 
     # For US SOFR Swaps     
@@ -971,7 +971,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 1 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -990,7 +990,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 2 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -1009,7 +1009,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 3 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -1028,7 +1028,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 5 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -1047,7 +1047,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD OIS  ANN VS SOFR 7 Y</td>
+      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>

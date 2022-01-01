@@ -1,8 +1,9 @@
 ---
+cssclasses: academia
 aliases: [Alias_159_Lecture Note 6-Implied Volatility.md,  Alias_158_Lecture Note 6-Implied Volatility.md,  LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
   CARLO SIMULATION
-tags: [tag_example]
+tags: tag_example
 title: Lecture Note 6-Implied Volatility
 ---
 
@@ -83,7 +84,7 @@ title: Lecture Note 6-Implied Volatility
 ## Black and Scholes Implied Volatility
 - **Definition**: Implied Volatility is the level of volatility $\sigma$ that,  when used in the Black-Scholes formula,  matches the value of a traded option.
   - For instance,  given:
-	$$put^{mkt}(3870,    1/12) = 98.50$$
+	$$put^{mkt}(3870,     1/12) = 98.50$$
 	- The implied volatility for this option was $23.1\%$.
 - **Note**: Every option has a potentially different implied volatility $\sigma_{\text{Imp}}$.
 
@@ -120,7 +121,7 @@ title: Lecture Note 6-Implied Volatility
 - **Assumption**: Volatility depends on the stock price itself.
   - E.g.,  **Constant Elasticity of Variance Model**:
 	$$\sigma(S) = \Sigma \times S^{\alpha}$$
-	$$\log\left(\frac{S_{t,   t+h}}{S_t}\right) = \mu \times h + S_t^{\alpha} \times \Sigma \times \epsilon_t$$
+	$$\log\left(\frac{S_{t,    t+h}}{S_t}\right) = \mu \times h + S_t^{\alpha} \times \Sigma \times \epsilon_t$$
   - If $\alpha < 0$,  lower $S_{t}$ implies higher volatility,  leading to an implied volatility smirk.
 
 ![Deterministic Volatility](https://storage.simpletex.cn/view/fw04zv9rGYaYzT0zVMvAG6YVVVR8eptSI)
@@ -128,8 +129,8 @@ title: Lecture Note 6-Implied Volatility
 #### Stochastic Volatility Models
 - **Assumption**: Volatility $\sigma_{t}$ changes over time.
   - E.g.,  let $\sigma_{t} = \sqrt{v_{t}}$:
-	$$R_{t,   t+h} = \mu \times h + \sqrt{v_t} \times \epsilon_{1,   t}$$
-	$$(v_{t+h} - v_t) = k \times (\overline{v} - v_t) \times h + \Sigma \times \sqrt{v_t} \times \epsilon_{2,   t}$$
+	$$R_{t,    t+h} = \mu \times h + \sqrt{v_t} \times \epsilon_{1,    t}$$
+	$$(v_{t+h} - v_t) = k \times (\overline{v} - v_t) \times h + \Sigma \times \sqrt{v_t} \times \epsilon_{2,    t}$$
 Result: if volatility is negatively correlated with stock returns,  OTM put options become relatively more expensive.
 - **Intuition**: A decline in price $\Rightarrow$ higher volatility $\Rightarrow$ higher probability of even larger declines $\Rightarrow$ higher price of insurance against downturns.
   - If volatility is negatively correlated with stock returns,  OTM put options become relatively more expensive.
@@ -137,7 +138,8 @@ Result: if volatility is negatively correlated with stock returns,  OTM put opti
 #### Jump Models
 
 Assume that sometimes big changes in stock prices occur (e.g.,  October 1987).
-$$R_{t,   t+h} = \mu \times h + \sigma \times \epsilon_t + \omega \times Q_t$$
+
+$$R_{t,    t+h} = \mu \times h + \sigma \times \epsilon_t + \omega \times Q_t$$
 
 - Where $Q_{t} = 0$ most of the time,  but sometimes $Q_{t} = 1$ (with small probability).
 - $\omega$ can be a random variable (e.g.,  normal) or a constant.
@@ -150,9 +152,9 @@ Result: If $\omega < 0$,  then OTM put options are relatively more expensive.
 - In Teaching Note 4,  we learnt how to go from a tree to option prices
 - The “implied tree” methodology does the opposite: Uses (some) option prices to obtain a tree
 - For instance,  consider the binomial tree model in Teaching Note 4.
-- Given $S_0=1502.39,   \sigma=12.36\%,   r=4.713\%,   \delta=1.91\%$ and $T=0.\1$,  we fnd $u=$ $exp(\sigma\sqrt T)=1.043746137$ and $d=1/u=0.958087378.$ Thus,  the risk neutral probability
+- Given $S_0=1502.39,    \sigma=12.36\%,    r=4.713\%,    \delta=1.91\%$ and $T=0.\1$,  we fnd $u=$ $exp(\sigma\sqrt T)=1.043746137$ and $d=1/u=0.958087378.$ Thus,  the risk neutral probability
 $$q^*=\frac{e^{(r-\delta)T}-d}{u-d}=0.528631113$$
-- The price of the $K=1500$ put option come out to be $p_0=\$28.394$,    higher than the tradeci
+- The price of the $K=1500$ put option come out to be $p_0=\$28.394$,     higher than the tradeci
 $\bar{\text{market price }p^{mkt}(1500,  0.\1)}=\bar{\$20.35}.$
 
 ```latex
@@ -161,7 +163,7 @@ $\bar{\text{market price }p^{mkt}(1500,  0.\1)}=\bar{\$20.35}.$
 
 \begin{document}
 \begin{tikzpicture}[
-    box/.style = {draw,    rounded corners,    minimum width=4cm,    minimum height=2cm,    align=left},   
+    box/.style = {draw,     rounded corners,     minimum width=4cm,     minimum height=2cm,     align=left},    
     node distance=3cm
 ]
 
@@ -169,24 +171,24 @@ $\bar{\text{market price }p^{mkt}(1500,  0.\1)}=\bar{\$20.35}.$
 \node[box] (i0) {
     $S_0 = 1502.39$\\
     $q^*_0 = 0.528631113$\\
-    $p_0 = e^{-r \times 0.12} \times (1 - q^*_0) \times p_{1,   d} = 28.394$
+    $p_0 = e^{-r \times 0.12} \times (1 - q^*_0) \times p_{1,    d} = 28.394$
 };
 
-% Level i = 1,    upper branch
-\node[box,    right=of i0,    yshift=1.5cm] (i1u) {
-    $S_{1,   u} = 1568.114$\\
-    $p_{1,   u} = 0$
+% Level i = 1,     upper branch
+\node[box,     right=of i0,     yshift=1.5cm] (i1u) {
+    $S_{1,    u} = 1568.114$\\
+    $p_{1,    u} = 0$
 };
 
-% Level i = 1,    lower branch
-\node[box,    right=of i0,    yshift=-1.5cm] (i1d) {
-    $S_{1,   d} = 1439.421$\\
-    $p_{1,   d} = 60.579$
+% Level i = 1,     lower branch
+\node[box,     right=of i0,     yshift=-1.5cm] (i1d) {
+    $S_{1,    d} = 1439.421$\\
+    $p_{1,    d} = 60.579$
 };
 
 % Connect nodes
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1u.west);
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1d.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1u.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1d.west);
 
 % Labels for time levels
 \node[above left=0.5cm of i0] {$i = 0$};
@@ -198,10 +200,11 @@ $\bar{\text{market price }p^{mkt}(1500,  0.\1)}=\bar{\$20.35}.$
 ```			
 
 ![Implied Tree Logic](https://storage.simpletex.cn/view/fwGGRatMlqKAhywFVsAy9CZUEPb0iO4hh)
+
 An implied tree has the same logic as implied volatility: Since the model is not working using the correct inputs,  we look for an alternative specification that makes it work.
 
-- In the above example,  we can **choose $S_{1,   u}$** to price the option correctly.
-- To avoid too many parameters,  define $u = S_{1,   u}/S_{0}$ and define $S_{1,   d} = S_{0}/u$.
+- In the above example,  we can **choose $S_{1,    u}$** to price the option correctly.
+- To avoid too many parameters,  define $u = S_{1,    u}/S_{0}$ and define $S_{1,    d} = S_{0}/u$.
 
 We obtain the following:
 
@@ -211,7 +214,7 @@ We obtain the following:
 
 \begin{document}
 \begin{tikzpicture}[
-    box/.style = {draw,    rounded corners,    minimum width=4cm,    minimum height=2cm,    align=left},   
+    box/.style = {draw,     rounded corners,     minimum width=4cm,     minimum height=2cm,     align=left},    
     node distance=3cm
 ]
 
@@ -219,24 +222,24 @@ We obtain the following:
 \node[box] (i0) {
     $S_0 = 1502.39$\\
     $q^*_0 = 0.528631113$\\
-    $p_0 = e^{-r \times 0.12} \times (1 - q^*_0) \times p_{1,   d} = 28.394$
+    $p_0 = e^{-r \times 0.12} \times (1 - q^*_0) \times p_{1,    d} = 28.394$
 };
 
-% Level i = 1,    upper branch
-\node[box,    right=of i0,    yshift=1.5cm] (i1u) {
-    $S_{1,   u} = 1568.114$\\
-    $p_{1,   u} = 0$
+% Level i = 1,     upper branch
+\node[box,     right=of i0,     yshift=1.5cm] (i1u) {
+    $S_{1,    u} = 1568.114$\\
+    $p_{1,    u} = 0$
 };
 
-% Level i = 1,    lower branch
-\node[box,    right=of i0,    yshift=-1.5cm] (i1d) {
-    $S_{1,   d} = 1439.421$\\
-    $p_{1,   d} = 60.579$
+% Level i = 1,     lower branch
+\node[box,     right=of i0,     yshift=-1.5cm] (i1d) {
+    $S_{1,    d} = 1439.421$\\
+    $p_{1,    d} = 60.579$
 };
 
 % Connect nodes
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1u.west);
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1d.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1u.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1d.west);
 
 % Labels for time levels
 \node[above left=0.5cm of i0] {$i = 0$};
@@ -251,23 +254,23 @@ We obtain the following:
 - **Idea**: Use some option prices to obtain a pricing tree.
   - Example: Binomial Tree Model.
 - What do we use an implied tree for?
-	- To price other options. For instance,  if $K=1490$,  the put price from the binomial tree $\bar{\text{is }\$15.82184291,  \text{ closer to the market value of }p^{mkt}(1490,  0.\1)}=\$17.05$,    compared to the original case (which would be $23.707)
+	- To price other options. For instance,  if $K=1490$,  the put price from the binomial tree $\bar{\text{is }\$15.82184291,  \text{ closer to the market value of }p^{mkt}(1490,  0.\1)}=\$17.05$,     compared to the original case (which would be $23.707)
 	- With more elaborated trees,  one can also price more elaborated derivatives,  which have path dependencies,  or American features.
 	- Given:
-	  $$S_{0} = 1502.39,    \sigma = 12.36\%,    r = 4.713\%,    \delta = 1.91\%,    T = 0.12$$
+	  $$S_{0} = 1502.39,     \sigma = 12.36\%,     r = 4.713\%,     \delta = 1.91\%,     T = 0.12$$
 	  - $u = \exp(\sigma\sqrt{T}) = 1.043746137$,  $d = 1/u = 0.958087378$
 	  - Risk-neutral probability:
 		$$q^* = \frac{e^{(r-\delta)T} - d}{u - d} = 0.528631113$$
-	  - Price of $K = 1500$ put option is $p_{0} = 28.394$,  higher than the market price $p^{mkt}(1500,    0.12) = 20.35$.
+	  - Price of $K = 1500$ put option is $p_{0} = 28.394$,  higher than the market price $p^{mkt}(1500,     0.12) = 20.35$.
 - **Two-Step Implied Tree**: After solving the first step,  extend to a two-step tree to fit additional market options.
 - Once we solved for the first step,  we can proceed to obtain a two step tree
 	- We need to keep the frst step fixed though
 - What do we choose?
-$$-\:S_{2,   uu},   \:S_{2,   ud}=S_{2,   du}\mathrm{~and~}\:S_{2,   dd}.$$
+$$-\:S_{2,    uu},    \:S_{2,    ud}=S_{2,    du}\mathrm{~and~}\:S_{2,    dd}.$$
 - It is desirable to keep the tree somewhat balanced around the starting value $S_0.$
-$$-\Longrightarrow\text{choose }S_{2,   ud}=S_{2,   du}=S_0$$
+$$-\Longrightarrow\text{choose }S_{2,    ud}=S_{2,    du}=S_0$$
 - Since we have two price levels to choose,  we need two options.
-,  The following example has $p^mkt(1450,   0.\1)=\$14.65$ and $p^{mkt}(1550,  0.\1)=\$50.2$
+,  The following example has $p^mkt(1450,    0.\1)=\$14.65$ and $p^{mkt}(1550,  0.\1)=\$50.2$
 
 ```latex
 \usepackage{tikz}
@@ -275,7 +278,7 @@ $$-\Longrightarrow\text{choose }S_{2,   ud}=S_{2,   du}=S_0$$
 
 \begin{document}
 \begin{tikzpicture}[
-    box/.style = {draw,    rounded corners,    minimum width=5cm,    minimum height=2cm,    align=left},   
+    box/.style = {draw,     rounded corners,     minimum width=5cm,     minimum height=2cm,     align=left},    
     node distance=4cm
 ]
 
@@ -283,54 +286,54 @@ $$-\Longrightarrow\text{choose }S_{2,   ud}=S_{2,   du}=S_0$$
 \node[box] (i0) {
     $S_0 = 1502.39$\\
     $q^*_0 = 0.5446$\\
-    $p_0^1 = 50.2 = p^{mkt}(1550,    0.21)$\\
-    $p_0^2 = 14.65 = p^{mkt}(1450,    0.21)$
+    $p_0^1 = 50.2 = p^{mkt}(1550,     0.21)$\\
+    $p_0^2 = 14.65 = p^{mkt}(1450,     0.21)$
 };
 
-% Level i = 1,    upper branch
-\node[box,    right=of i0,    yshift=3cm] (i1u) {
-    $S_{1,   u} = 1551.26$\\
-    $q^*_{1,   u} = 0.7144$\\
-    $p^1_{1,   u} = 13.5413$\\
-    $p^2_{1,   u} = 0$
+% Level i = 1,     upper branch
+\node[box,     right=of i0,     yshift=3cm] (i1u) {
+    $S_{1,    u} = 1551.26$\\
+    $q^*_{1,    u} = 0.7144$\\
+    $p^1_{1,    u} = 13.5413$\\
+    $p^2_{1,    u} = 0$
 };
 
-% Level i = 1,    lower branch
-\node[box,    right=of i0,    yshift=-3cm] (i1d) {
-    $S_{1,   d} = 1455.059$\\
-    $q^*_{1,   d} = 0.7373$\\
-    $p^1_{1,   d} = 94.67$\\
-    $p^2_{1,   d} = 32.36$
+% Level i = 1,     lower branch
+\node[box,     right=of i0,     yshift=-3cm] (i1d) {
+    $S_{1,    d} = 1455.059$\\
+    $q^*_{1,    d} = 0.7373$\\
+    $p^1_{1,    d} = 94.67$\\
+    $p^2_{1,    d} = 32.36$
 };
 
-% Level i = 2,    upper-upper branch
-\node[box,    right=of i1u,    yshift=3cm] (i2uu) {
-    $S_{2,   uu} = 1567.0713$\\
-    $p^1_{2,   uu} = 0$\\
-    $p^2_{2,   uu} = 0$
+% Level i = 2,     upper-upper branch
+\node[box,     right=of i1u,     yshift=3cm] (i2uu) {
+    $S_{2,    uu} = 1567.0713$\\
+    $p^1_{2,    uu} = 0$\\
+    $p^2_{2,    uu} = 0$
 };
 
-% Level i = 2,    middle branch
-\node[box,    right=of i1u,    yshift=-3cm] (i2ud) {
-    $S_{2,   ud} = S_{2,   du} = 1502.39$\\
-    $p^1_{2,   ud} = 47.61$\\
-    $p^2_{2,   ud} = 0$
+% Level i = 2,     middle branch
+\node[box,     right=of i1u,     yshift=-3cm] (i2ud) {
+    $S_{2,    ud} = S_{2,    du} = 1502.39$\\
+    $p^1_{2,    ud} = 47.61$\\
+    $p^2_{2,    ud} = 0$
 };
 
-% Level i = 2,    lower-lower branch
-\node[box,    right=of i1d,    yshift=-3cm] (i2dd) {
-    $S_{2,   dd} = 1336.2316$\\
-    $p^1_{2,   dd} = 213.7684$\\
-    $p^2_{2,   dd} = 113.7684$
+% Level i = 2,     lower-lower branch
+\node[box,     right=of i1d,     yshift=-3cm] (i2dd) {
+    $S_{2,    dd} = 1336.2316$\\
+    $p^1_{2,    dd} = 213.7684$\\
+    $p^2_{2,    dd} = 113.7684$
 };
 
 % Connect nodes
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1u.west);
-\draw[->] (i0.east) -- ++(0.5,   0) |- (i1d.west);
-\draw[->] (i1u.east) -- ++(0.5,   0) |- (i2uu.west);
-\draw[->] (i1u.east) -- ++(0.5,   0) |- (i2ud.west);
-\draw[->] (i1d.east) -- ++(0.5,   0) |- (i2ud.west);
-\draw[->] (i1d.east) -- ++(0.5,   0) |- (i2dd.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1u.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1d.west);
+\draw[->] (i1u.east) -- ++(0.5,    0) |- (i2uu.west);
+\draw[->] (i1u.east) -- ++(0.5,    0) |- (i2ud.west);
+\draw[->] (i1d.east) -- ++(0.5,    0) |- (i2ud.west);
+\draw[->] (i1d.east) -- ++(0.5,    0) |- (i2dd.west);
 
 % Labels for time levels
 \node[above left=0.5cm of i0] {$i = 0$};
