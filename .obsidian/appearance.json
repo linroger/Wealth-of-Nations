@@ -10,10 +10,12 @@
     "[ui] Compact Tabs",
     "centered_table",
     "latex",
-    "safaritabs",
     "transparent_tab_header",
     "inlineAdmonitionsPluginReadOnly",
     "table_rounded_corners",
-    "ion.min"
+    "ion.min",
+    "ipad",
+    "sf-symbols",
+    "accent-yellow"
   ]
 }
