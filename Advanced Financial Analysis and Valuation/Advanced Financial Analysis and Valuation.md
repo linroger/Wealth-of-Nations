@@ -1,6 +1,12 @@
+---
+title: ADVANCED FINANCIAL ANALYSIS AND VALUATION
+aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION]
+linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION
+---
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION
 
 %% Begin Waypoint %%
+
 - **[[Advanced Financial Analysis and Valuation]]**
 	- [[Advanced Financial Analysis and Valuation]]
 	- [[BMW Valuation Multiples]]

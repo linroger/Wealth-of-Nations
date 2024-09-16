@@ -3,6 +3,7 @@ title: FIXED INCOME ASSET PRICING
 aliases: [FIXED INCOME ASSET PRICING]
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING
 ---
+
 # FIXED INCOME ASSET PRICING
 
 Bus 35130
@@ -291,9 +292,9 @@ for both cases (a) and (b). Discuss the difference and any other visible feature
 
 The two term structures appear to be roughly similar, although the off the run bonds appear to have greater fluctuations, and at times, a higher spot rate. This could be due to the fact that off the run bonds are not traded as regularly, and are oftentimes held in a portfolio until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds, and that this would result in the less smooth term structure we observe.
 
-![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401170538265.webp)
+![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401170538265.png
 
-![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401184921797.webp)
+![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401184921797.png)
 
 |           |                |                |               |          |                     |                     |
 | --------- | -------------- | -------------- | ------------- | -------- | ------------------- | ------------------- |
@@ -354,4 +355,4 @@ $$M D=-\frac{1}{P}\frac{d P}{d y}$$
 - Or equivalently,
 $$M D=\frac{D^{M c}}{\left(1+\frac{y}{2}\right)}$$
 (CP) Calculate the duration of the Leverage Inverse Floater. Plot the value of the Leverage Inverse Floater against a hypothetical parallel shift in the term structure of interest rates.
-![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401212426843.webp)
+![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401212426843.png)

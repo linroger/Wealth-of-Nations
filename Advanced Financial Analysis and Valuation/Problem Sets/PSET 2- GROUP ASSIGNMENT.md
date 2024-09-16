@@ -1,3 +1,9 @@
+---
+title: PSET 2GROUP ASSIGNMENT
+aliases: [PSET 2GROUP ASSIGNMENT]
+linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
+---
+# PSET 2GROUP ASSIGNMENT
 
 **BUSN 30131 85: Advanced Financial Analysis and Valuation**
 **Week 2 Group Assignment**
@@ -57,7 +63,7 @@ The company faced increased SG&A expenses, which rose both in absolute terms and
 **a. To evaluate the multiple and the KKR offer, construct a pro-forma income statement for the year that ended Feb 2, 2007 and a forecasted income statement for the year ending Feb 2, 2008.**
 
 **Adjusted IS:**
-![](Z.%20Clippings/Untitled%208-20240407064733453.webp)
+![](Z.%20Clippings/Untitled%208-20240407064733453.png)
 
 **Forecasted IS**
 ![](Z.%20Clippings/Untitled%208-20240407064757263.webp)

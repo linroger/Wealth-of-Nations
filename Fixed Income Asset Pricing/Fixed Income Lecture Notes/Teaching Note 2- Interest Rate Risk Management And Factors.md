@@ -16,15 +16,13 @@ linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 
 [PSET II Fixed Income Asset Pricing](PSET%20II%20Fixed%20Income%20Asset%20Pricing.md)
 
-## INTEREST RATE RISK MANAGEMENT
-
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240322071007049.webp)
+![](9d5e1f9101a284fff965c5728068e694.webp)
 
 - Interest rates vary quite dramatically over time.
 
 ## INTEREST RATE RISK MANAGEMENT
 
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240322071408694.webp)
+![](508c4b601dd8f61c1d50be915c6d5c21.webp)
 
 - … and so do bond prices.
 
@@ -98,7 +96,7 @@ $$D\ =\ -\frac{1}{P(0,T)}\frac{dP(0,T)}{dr}=\sum\limits_{i=1}^{n}w_{i}D_{Z,T_{i}
 $$\frac{dP}{P}\approx-D\times dr$$
 
   - Hence, if we hold a portfolio of 10-year at-par coupon bonds with duration equal to 5, we know that a one-basis point increase in the yield function ($dr=\%$) is going to change the value of the bond approximately by$-5\times/100\times\$100$million (par amount)$=-\$50,000$.
-![|800](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407053754286.webp)
+![|800](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407053754286.png)
 ## DURATION DEFINITIONS
 - We defined the duration as
 
@@ -176,7 +174,7 @@ $$PVBP=-\frac{dF}{dy}\times0.0001=MD\times P\times0.0001$$
 		  - Yield$y$: 5.30%
 		  - Accrued Interest:
 		  - PVBP: 187.3602
-- ![|500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060007687.webp)
+- ![|500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060007687.png)
 ## MARKET DATA AT TIME$T + 2$
 - **30-year T-Bond**
 		  - Bid: 109.8076
@@ -193,7 +191,7 @@ $$PVBP=-\frac{dF}{dy}\times0.0001=MD\times P\times0.0001$$
 - ![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060056789.webp)
 ## OBSERVATIONS AND CONCLUSIONS
 - The new spread is 270 basis points, hence the view was right.
-- Did the trader make any money? No, due to transaction costs.
+- Did the trader png any money? No, due to transaction costs.
 ## TABLES
 ### INITIAL MARKET DATA AT TIME$T$
 
@@ -339,17 +337,17 @@ $$P_{c}(t,T)={\frac{c}{2}}\sum\limits_{i=1}^{n}Z(t,T_{i})+Z(t,T_{n})\Longrightar
 
 $${\frac{d\ P}{P}}\approx-D\ d r+{\frac{1}{2}}\ C\ d r^{2}\qquad\qquad\qquad(5)$$
 
-![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055320856.webp)
+![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055320856.png)
 
 ## POSITIVE CONVEXITY: GOOD NEWS FOR AVERAGE RETURNS
 
-- Suppose we have invested$100 million in a 20-year zero coupon bond.
+- Suppose we have invested$100 million in a 20-year zeropngon bond.
 - Using Equation (5) and given D = 20 and C = 202 = 400, we find$$\left[\frac{dF}{P}\right]\approx-20\times E[dr]+\frac{1}{2}\times400\times E[dr^{2}]\tag{6}$$
 - Predicting variation in interest rates over a short period (daily) is very hard. So,$E[dr]=0$is a good approximation. However, note that$E[dr^{2}]=Var(dr)>0$.
-![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055340553.webp)
+![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055340553.png)
 ## POSITIVE CONVEXITY: GOOD NEWS FOR AVERAGE RETURNS
 
-  - From data, we can estimate the daily variance of interest rates of about$E[dr^{2}]=5.5351\times10^{-007}$, implying$$E\left[\frac{dF}{P}\right]=-20\times0+\frac{1}{2}\times400\times E[dr^{2}]=1.11\times10^{-04}>0 \tag{7}$$
+  - From data, we can estimate the daily variance of intepng rates of about$E[dr^{2}]=5.5351\times10^{-007}$, implying$$E\left[\frac{dF}{P}\right]=-20\times0+\frac{1}{2}\times400\times E[dr^{2}]=1.11\times10^{-04}>0 \tag{7}$$
   - Although this number seems extremely small, it is a daily expected return.
 	  - Annualized expected return from convexity = 1.11 × 10−04 × 252 = 2.79%
  - Similarly, considering the$100 million investment, convexity yields a daily dollar return of$11, 070 = 1.11 × 10−04 × 100 million.
@@ -485,10 +483,10 @@ $$V_{4/15/2004}^{\mathrm{no~hedge}}=\$97.42, \text{ a decrease of \$4.01}$$
 
 ## THE DYNAMICS OF THE TERM STRUCTURE: LEVEL, SLOPE, AND CURVATURE
 
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060845696.webp)
+![](Lecture%20Note%202-%20Ipngest%20Rate%20Risk%20Management%20And%20Factors-20240407060845696.webp)
 
 ## A FACTOR REPRESENTATION OF YIELD CHANGES
-- Let$ϕ_1(t), ϕ_2(t)$and$ϕ_3(t$) be three independent factors that affect the term structure.
+- Let$ϕ_1(t), ϕ_2(t)$and$ϕ_3(t$) be three independepngactors that affect the term structure.
 - We do not know them yet: The exercise is exactly to find them out.
 - Consider the constant maturities$τ_1, τ_2,…,τ_n$: that is,$τ_1$= one month,$τ_2 = 2$months, …$τ_n = 10$years, for instance.
 - Denoting$r(t, t -+ τ_i)$the continuously compounded yield at$t$of a zero coupon bond maturing at$t + τ_i$, for each of these maturities$τ_i$, let

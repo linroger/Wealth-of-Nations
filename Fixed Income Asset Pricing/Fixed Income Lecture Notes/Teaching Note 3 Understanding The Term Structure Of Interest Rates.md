@@ -59,19 +59,18 @@ $$The\ long\ term\ yield=\ forecasted\ average\ path\ of\ future\ rates$$$$y_{t}
 
 (2)
 
-## PRELIMINARY HEURISTIC EVIDENCE -  DOES THIS RELATION HOLDS IN THE DATA?
+## PRELIMINARY HEURISTIC EVIDENCE - DOES THIS RELATION HOLDS IN THE DATA?
 
 - Heuristically, next figure plots the expected future three-month rates from the survey of Professional Forecasters from 1981 to 2015.
 - The forecasts are for the three-month T-bill rate for the current quarter, denote in the figure by$r(t)$, and for the next three quarters, denoted by$r(t + 3m)$,$r(t + 6m)$, and$r(t + 9m)$, respectively.
 
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072858865.webp)
+![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072858865.png
 
 - Next figure shows the 1-year term spread, defined as yt(1y) − r(t) together with the 1-year "expectation spread".
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072953056.webp)
-- The 1-year term spread is greater than the "expectation spread" most of the time.
+![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072953056.png The 1-year term spread is greater than the "expectation spread" most of the time.
 	- the expectation hypothesis does not hold (at least, using survey forecasts).
 
-## THE EXPECTATION HYPOTHESIS AND FORWARD RATES
+## THE EXPECTATION HYPOTHpng AND FORWARD RATES
 # FORWARD RATES AND TERM STRUCTURE
 
 We observed in **Teaching Notes 1** that a forward rate at time$t$for an investment between$\tau_1$and$\tau_2$can be represented as:
@@ -98,12 +97,11 @@ $$y_{t}(\tau_{n})=\frac{\Delta t}{\tau_{n}}\sum\limits_{i=1}^{n}f_{t}(\tau_{i-1}
 
 $$f_{t}(\tau_{i},\tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)].$$
 
--![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405073248911.webp)
-- Again, expected future rates are mostly lower than forward rates.
+-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405073248911.png Again, expected future rates are mostly lower than forward rates.
 
 ## TIME VARYING RISK PREMIA
 
-- The violation of the expectations hypothesis (and the time variation in spread) suggests the existence of an additional term in Equation (1):
+- The violation of the expectations hypothesis (and the time variation in sprepnguggests the existence of an additional term in Equation (1):
 
 $$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]+RP_{t}\tag{5}$$
 
@@ -156,7 +154,7 @@ $$E_{t}\left[y_{t+1}\left(n\right)\right]>y_{t}\left(n+1\right)$$
 ![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074610622.webp)
 
 - Example: On t =1/31/1994 yield curve was increasing and the spread was 3.3%.
-- High spread *may* signal long-term yield$y_t(30)$= 6.87% may increase.
+- High spread *may* signalpng-term yield$y_t(30)$= 6.87% may increase.
 - And indeed, it [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md):$t + 1 =$1/31/1995 we have$y_{t+1}(29) = 7.81\%.$
 - This implies a loss on investment:$R_{t,t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{10.3893}{12.7048}-1=-18\%$
 
@@ -208,7 +206,7 @@ Notes: Regression results based on Fama Bliss discount bond data from CRSP. Samp
 
 - Example: On t =1/30/2004 yield curve was increasing and the spread was 4.1%.
 - In the data, high spread forecast a decline of long-term yield$y_t(30) = 5.347\%$.
-- And indeed, it [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md):$t + 1$= 1/31/2005 we have$y_{t+1}(29)$= 4.655\%.
+- And indeed, it [DiDpngcture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md):$t + 1$= 1/31/2005 we have$y_{t+1}(29)$= 4.655\%.
 - This implies a gain on investment:$$
 R_{t,t+1}=\frac{Z_{t+1}(29)}{Z_t(30)}-1=\frac{25.9279}{20.1046}-1=+29\%
 
@@ -357,7 +355,7 @@ Data Source: Bloomberg, Inc.
 
 ## REFERENCE INDEX EXAMPLE
 
--  The quotes in the Table are for November 26, 2007. -  The CPI used to compute the index ratio is not the November CPI.
+-  The quotes in the Table are for November 26, 2007. -  The CPI used to comppngdex ratio is not the November CPI.
 
 - CPI values are released by BLS during the third week of the following month.
 
@@ -636,7 +634,7 @@ $$r(t,T)=\frac{-A(t,T)}{T-t}+\frac{B(t,T)}{T-t}\ \pi_{t}+\frac{C(t,T)}{T-t}\ \ga
 	  3. **Expected growth risk premium**:$\gamma \sigma_g \rho_{g g} \sigma_g$. If$\rho_{g, g} < 0 \Rightarrow r(t, T) \uparrow$
 - Bond pricing also includes multiple convexity effects.
 
-##  THE SHORT-TERM RATE AND MONETARY POLICY INTERPRETATION
+## THE SHORT-TERM RATE AND MONETARY POLICY INTERPRETATION
 ## INTEREST RATE FORMULATION AND MONETARY POLICY
 
 ### OVERNIGHT RATE FORMULA
@@ -693,16 +691,16 @@ $$d r_{r e a l,t}=\beta_{g}\left(\overline{{{r}}}_{r e a l}^{*}-r_{r e a l,t}\ri
 
 ## FITTING REAL VASICEK TO TIPS
 
-- We can use TIPS again to extract the real zero coupon bond prices -  The procedure is the same for nominal Vasicek (see TN 7), except with the
+- We can use TIPS again to extract the real zero coupon bond prices - The procedure is the same for nominal Vasicek (see TN 7), except with the
 additional difficulty that we may not know what the short-term real rate rreal,t
 actually is.
 - One possibility is to estimate r*real,t* as well together with other quantities.
-- For instance, fixing σ*real* =  (estimated from the time series of real rates),
+- For instance, fixing σ*real* = (estimated from the time series of real rates),
 we estimate the following parameters for November 27, 2007:
 
 $$\beta_{g}^{*}=0.0166,\;\;\;\bar{r}_{r e a l}^{*}=0.1695,\;\;\;r_{r e a l}=0.0046$$
 
-- The fit is not as good as with the Extended Nelson-Siegel model in this case. -  Next figure shows the fitted term structure of real rates.
+- The fit is not as good as with the Extended Nelson-Siegel model in this case. - Next figure shows the fitted term structure of real rates.
 ![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240406000703291.webp)
 ## CONCLUSIONS
 

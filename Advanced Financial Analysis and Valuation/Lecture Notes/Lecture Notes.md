@@ -3,9 +3,11 @@ title: LECTURE NOTES
 aliases: [LECTURE NOTES]
 linter-yaml-title-alias: LECTURE NOTES
 ---
+
 # LECTURE NOTES
 
 %% Begin Waypoint %%
+
 - **[[Lecture Notes]]**
 	- [[Lecture Notes]]
 	- **[[Week 1]]**

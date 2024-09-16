@@ -44,7 +44,6 @@
   "ob-table-enhancer",
   "obsidian-plugin-toc",
   "obsidian-topic-linking",
-  "mysnippets-plugin",
   "execute-code",
   "copy-as-latex",
   "obsidian-export-to-tex",
@@ -70,5 +69,6 @@
   "table-extended",
   "inline-math",
   "make-md",
-  "copy-url-in-preview"
+  "copy-url-in-preview",
+  "github-sync"
 ]

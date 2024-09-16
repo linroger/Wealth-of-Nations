@@ -3,6 +3,7 @@ title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 ---
+
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 [Week 1 Introduction](Week%201%20Introduction.md)
@@ -324,7 +325,7 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 		- If consensus is $1.50 per share and PE ratio for peer group is 20, then share price should be around $30
 	- What is key for this valuation?
 
-##  ONE ISSUE: MULTIPLES TYPICALLY FOCUS ON THE NEAR TERM
+## ONE ISSUE: MULTIPLES TYPICALLY FOCUS ON THE NEAR TERM
 - That is in contrast to what we discussed earlier
 - When you try to build in the long‐run, multiples become tricky
 
@@ -334,7 +335,7 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 	- Earnings predict future cash flows
 		- Includes replacement investments (or maintenance)
 	- You can view earnings as an estimate of "normalized" cash flow to equity in steady state (rather than the dividend)
-	- Thus: P = E/r   P/E = 1/r
+	- Thus: P = E/r P/E = 1/r
 		- This is just the simplest representation
 - We can add other factors (e.g., growth)
 	- P/E = 1/(r‐g)

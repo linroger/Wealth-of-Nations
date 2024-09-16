@@ -420,7 +420,7 @@ $$=\int_{-\infty}^{\infty}\binom{n}{k}\cdot p_{x}^{k}\cdot\left(1-p_{x}\right)^{
 	- a and d are expressed in % of the underlying pool notional
 - Cumulative portfolicash-flows, both coupons and losses, are assigned inttranche cash-flows via "waterfall" logic
 - CDO fixed leg pays the contractual coupon c on the outstanding Tranche notional (adjusted for defaults)
-- Tranche attachment/detachment points are adjusted for realized defaults
+- Tranche detachment points are adjusted for realized defaults
 
 ### SYNTHETIC CDX IG INDEX TRANCHES
 - Uses CDX IG Index as underlying pool
@@ -452,7 +452,7 @@ $$L_{i}=\frac{1}{n}\cdot(1-R_{i})\,,i=1..n\tag{66}$$
 - $${\cal N}_{t}^{[a,d]}=d-a-L_{t}^{[a,d]}={\cal N}_{t}^{[0,d]}-{\cal N}_{t}^{[0,a]}\tag{69}$$
 - Premium leg cash-flow payments for the \[a, d] tranche occur on (quarterly) cash-flow times ${T_k}, k = 1..K$
 - … on the outstanding tranche notional $N^{[a,d]}_{T_k}$ at time $T_k$: $$C_{k}^{[a,d]}=c\cdot\Delta\,T_{k}\cdot N_{T_{k}}^{[a,d]}=c\cdot\Delta\,T_{k}\cdot\left(N_{T_{k}}^{[0,d]}-N_{T_{k}}^{[0,a]}\right)\tag{70}$$
-- Maximum premium leg payment on $[a,d]$ tranche is  $c\cdot\Delta\,T_{k}\cdot(d-a)$, minimum payment is 0 (tranche "wipe out")
+- Maximum premium leg payment on $[a,d]$ tranche is $c\cdot\Delta\,T_{k}\cdot(d-a)$, minimum payment is 0 (tranche "wipe out")
 ## CDO \[A, D] TRANCHE PRICING: PREMIUM LEG
 
 Present Value Of Premium/Fixed Leg Is Given By

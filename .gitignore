@@ -2,3 +2,18 @@
 .obsidian/plugins/
 .obsidian/workspace
 Attachments/
+# Ignore system files
+.DS_Store
+
+# Ignore Obsidian configuration files
+.obsidian/
+.makemd/
+.space/
+
+# Ignore theme, configuration, and cache-related files
+*.css
+*.json
+*.cfg
+*.sty
+*.mdc
+*.octet-stream

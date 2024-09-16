@@ -1,8 +1,10 @@
 ---
 title: Advanced Investments
 ---
+# Advanced Investments
 
 %% Begin Waypoint %%
+
 - **[[Advanced Investments]]**
 	- [[Advanced Investments]]
 	- **[[Week 1-Advanced Investments]]**

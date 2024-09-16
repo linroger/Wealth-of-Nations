@@ -2,6 +2,7 @@
 aliases: [Continuous Time Models, Vasicek Model, Ho-Lee Model, Continuous Time]
 title: Teaching Note 7 A Rundown On Continuous Time Models
 ---
+# Teaching Note 7 A Rundown On Continuous Time Models
 
 [[Fixed Income Lecture Notes]]
  [[Introduction to Fixed Income Asset Pricing]]
@@ -46,7 +47,7 @@ $$dr_{t}=\gamma\left(r-r_{t}\right)dt+\sigma dW_{t}$$
 	- The term "$γ (r − r_t)$" is called **drift**;
 	- The term "$σ$" is called **diffusion**.
 - Next figure shows two simulations of the interest rate process for two different volatility levels σ.
-![500](Z.%20Clippings/wn%20On%20Continuous%20Time%20Models-20240512122756494.png)
+![](2f3e3ae3cda0e87b88194214c6bd507d.png)
 ## BROWNIAN MOTION (WIENER PROCESS)
 - $W_t$ is called Brownian motion or Wiener process.
 - The change over time in Brownian motion is denoted as $$dW_t = W_{t+dt} - W_t \sim N(0, dt)$$
@@ -61,7 +62,7 @@ $$dr_{t}=\gamma\left(r-r_{t}\right)dt+\sigma dW_{t}$$
 		- Consider the partition $[0,t_1,…,t_n]$ with $t_i = it/n$
 		- $$\sum_{j=2}^n (W_{t_j} - W_{t_{j-1}})^2 \to t \quad \text{(a.s.)}$$
 - Additional Properties
-	- The last property essentially says that  $dW_t^2 = dt$
+	- The last property essentially says that $dW_t^2 = dt$
 	- $dt^2 = 0$
 	- $dW_tdt = 0$
 
@@ -112,7 +113,7 @@ $$\text{No Arbitrage}\quad\Longrightarrow\quad d\Pi=r\Pi dt\tag{9}$$
 		- =⇒ All pairs of fixed income securities must satisfy (10)
 	- Denote by "$−m^∗(r, t)$" the common ratio, which we will estimate from data: $$V_{t}+\frac{1}{2}V_{rr}s(r,t)^{2}-rV=-m^{*}(r,t)\tag{11}$$
 	- **Reorganize to obtain the Fundamental Pricing Equation:** $$V_{t}+V_{r}m^{*}(r,t)+\frac{1}{2}V_{rr}s(r,t)^{2}=rV\tag{12}$$
-	- *All*  fixed income security must satisfy this Partial Differential Equation (PDE) subject to the boundary condition
+	- *All* fixed income security must satisfy this Partial Differential Equation (PDE) subject to the boundary condition
 $$V(r,T)=g(r,T)= \text{Payoff of security at }T \tag{13}$$
 
 5. **RISK-NEUTRAL PRICING**: HOW CAN WE SOLVE EQUATION (12)?
@@ -120,14 +121,14 @@ $$V(r,T)=g(r,T)= \text{Payoff of security at }T \tag{13}$$
 $$V(r,T)=E_{t}^{*}\left[e^{-\int_{t}^{T}r_{u}d u}g(r_{T},T)\right]\tag{14}$$
 	- The notation E∗[.] means we compute the expectation using the Risk Neutral Process for interest rates:
 $$d r=m^{*}(r,t)d t+s(r,t)d W_{t}^{*}\tag{15}$$
-	 - where $dW^∗_t$  is another Brownian motion $dW^∗_t ∼ N(0, dt).$
+	 - where $dW^∗_t$ is another Brownian motion $dW^∗_t ∼ N(0, dt).$
 	- and not the original process (1):
 $$d r=m(r,t)d t+s(r,t)d W_{t}\tag{16}$$
 
 ## INTEREST RATE MODELS
 - Choice of $m(r, t)$ and $s(r, t)$ =⇒ interest rate model.
 - **Affine Models**: In the following four cases, the value of a zero coupon bond. at t with maturity T is: $$Z(r,t;T)=e^{A(t,T)-B(t,T)r};\tag{17}$$
-1. **Vasicek:**$m^{*}(r,t)=\eta^{*}-\gamma^{*}r$  **and** $s(r,t)=\sigma$**,  and $$B(t,T)=\frac{1}{\gamma^{*}}(1-e^{-\gamma^{*}(T-t)})\tag{18}$$$$A(t,T)=\frac{1}{(\gamma^{*})^{2}}\left(B(t,T)-(T-t)\right)\left(\eta^{*}\gamma^{*}-\frac{1}{2}\sigma^{2}\right)-\frac{\sigma^{2}B(t;T)^{2}}{4\gamma^{*}}\tag{19}$$
+1. **Vasicek:**$m^{*}(r,t)=\eta^{*}-\gamma^{*}r$ **and** $s(r,t)=\sigma$**, and $$B(t,T)=\frac{1}{\gamma^{*}}(1-e^{-\gamma^{*}(T-t)})\tag{18}$$$$A(t,T)=\frac{1}{(\gamma^{*})^{2}}\left(B(t,T)-(T-t)\right)\left(\eta^{*}\gamma^{*}-\frac{1}{2}\sigma^{2}\right)-\frac{\sigma^{2}B(t;T)^{2}}{4\gamma^{*}}\tag{19}$$
 - We often denote the risk-neutral central tendency as $$r^{*}=\frac{\eta^{*}}{\gamma^{*}}$$
 $2. \textbf{ Cox,  Ingersol,  and Ross }(\mathbf{CIR}) {: }m^* (r, t) = \eta ^* - \gamma ^* r$ and $s(r,t)=\sqrt\alpha r;$
 $$\begin{align*}
@@ -169,13 +170,13 @@ $$\operatorname*{min}_{\gamma^{*},\bar{r}^{*},\sigma}J=\sum\limits_{i=1}^{n}\lef
 - I find $γ^∗ = 0.0702$, $r^∗ = 0.2322$, $σ = 0.0463$
 - The next figures compare the results using the Vasicek model and the Nelson - Siegel model.
 ## BOND PRICES AND FITTED PRICES 09-JAN-2002
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512132652888.png)
+![](1d033a2ec80ee977981970e290a5b1e5.png)
 ## ZERO-COUPON YIELD CURVES: 08-JAN-2002
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512132725968.png)
+![](dfca352bd74a360e361a14c0d23e8d22.png)
 
 - Next Figure reports the risk neutral stationary distribution that is implied by the above estimates.
 ## THE RISK NEUTRAL STATIONARY DISTRIBUTION OF INTEREST RATES
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512132741457.png)
+![](4a981d284ce97c48d29ad3b39b318943.png)
 - As can be seen, the risk neutral distribution results in a large area with negative
 interest rates.
 
@@ -189,7 +190,7 @@ $$\sigma_{V}=\frac{V_{r}}{V}s(r,t)\tag{23}$$
 $$E\left[\frac{dV}{V}\right]=\mu_{V}dt=\frac{1}{V}\left\{V_{t}+V_{r}m(r,t)+\frac{1}{2}V_{rr}s^{2}(r,t)\right\}dt$$
 - The two terms $(V_{t}+\frac{1}{2}V_{rr}s^{2}(r,t))$, also appear in the pricing PDE (12): $$V_{t}+\frac{1}{2}V_{rr}s^{2}(r,t)=rV-V_{r}m^{*}(r,t)$$ * Substitute, to obtain the expected return as $$E\left[\frac{dV}{V}\right]=\left\{r+\frac{V_{r}}{V}(m(r,t)-m^{*}(r,t))\right\}dt$$
 * Using expression (23), we can rewrite this as $$E\frac{[\frac{dV}{V}]-r\,dt}{\sigma_{V}}=\frac{1}{s(r,t)}(m(r,t)-m^{*}(r,t))dt\tag{24}$$
-* On the left is the **market price of interest rate risk**, or **Sharpe ratio** $$E\frac{[\frac{dV}{V}]-r\,dt}{\sigma_{V}}=\frac{\text{Risk Premium}}{\text{Volatility}}$$- The right-hand-side of (24) shows that such ratio does not depend on V .
+* On the left is the **market price of interest rate risk**, or **Sharpe ratio** $$E\frac{[\frac{dV}{V}]-r\,dt}{\sigma_{V}}=\frac{\text{Risk Premium}}{\text{Volatility}}$$The right-hand-side of (24) shows that such ratio does not depend on V .
 	- All fixed income securities have the same market price of risk
 - We thus define the market price of risk as $$\lambda(r,t)=\frac{1}{s(r,t)}(m(r,t)-m^{*}(r,t))\tag{25}$$ * _Every_  fixed-income security $V$ we must have a risk premium given by $$E\left[\frac{dV}{V}\right]-rdt=\sigma_{V}\,\lambda(r,t)dt \tag{26}$$
 * The risk premium of a fixed income security depends on 
@@ -232,12 +233,10 @@ $$\gamma^{*}=0.4476,\bar{r}^{*}=0.0654,\sigma=0.0221\ \mathrm{(restricted)}$$
 - Next figures show the implications for fitting:
 
 ## FITTED PRICES FOR VARIOUS MODELS
-![](IMG-20240901171528540.png)
-
+![](0ed84c4821991abf0b18e9afe58582bb.png)
 
 ## ZERO -COUPON YIELD CURVES
-![500](Z.%20Clippings/%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133356844.png)
-![](IMG-20240901171559786.png)
+![](b2b4c238d3c3be7281a014181113e2a3.png)
 ## APPLICATION. RELATIVE VALUE TRADES ON THE YIELD CURVE
 - Let today be February 17, 2004
 -  We use the Vasicek model to implement the relative value trade.
@@ -245,7 +244,7 @@ $$\gamma^{*}=0.4476,\bar{r}^{*}=0.0654,\sigma=0.0221\ \mathrm{(restricted)}$$
 - Because realistically the long/short strategy of the trade will involve repurchase agreements, the rate of interest to be used as the short-term rate should be the overnight repo rate. 
 
 ## THE OVERNIGHT REPO RATE: MAY 21, 1991 - FEBRUARY 17, 2004
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133434852.png)
+![](f8e9f66c31752e0a4d84d1211094c79c.png)
 Data Source: Bloomberg
 
 - The parameter $σ$ is given by the volatility of the short-term interest rate.
@@ -259,7 +258,7 @@ $$J(\gamma^{*},\bar{r}^{*})=\sum\limits_{i=1}^{n}\left(P_{i}^{Data}-P_{i}^{Vasic
 - The minimization procedure yields $r^∗ = 18.99$% and $γ^∗ = 0.0583$
 
 ## THE FIT OF THE VASICEK MODEL TO BOND PRICES
-![500](Z.%20Clippings/513596.png)
+![](26d24d68a74eb0ed0dc497285ae0a8a3.png)
 ## APPLICATION (CNTD.) DESIGN OF THE RELATIVE VALUE TRADE
 - Panel C reports the pricing errors, that is, the difference between the prices in the data andthe model:
 	- $$\text{Pricing Error of Treasury Security} i = P^{Data}_i− P^{Vasicek}_i$$
@@ -321,13 +320,14 @@ $$C_{t}=C_{t-d t}+C_{t-d t}\times r_{t-dt}\times d t+\text{Cash~needed}$$
 $$C_{T_{i}}\ =\ C_{T_{i}-dt}+C_{T_{i}-dt}\times r_{T_{i}-dt}\times dt+\ \text{Cash needed}\ +\left(100\times\frac{c^{1.5-yr}}{2}\right)-N_{T_{i}-dt}\left(\frac{100\times c^{7.5-yr}}{2}\right)$$
 
 ## APPLICATION (CNTD.). THE REPLICATING PORTFOLIO: SIMULATIONS  
-![500](Z.%20Clippings/TA
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133624317.png)
+![](82a954736729d52bfa0818cafee290c6.png)
 
+## THE REPLICATING PORTFOLIO: DATA
+![](5ba49b84d8188b9078a460a0ea4aeef7.png)
 
 - Panel B shows the observed 1.5-year note and its Vasicek value. Note:
 	1. The twovalues are close to each other, and they both converge to their final payout of 100+ 6.50/2=103.25.
-	2. The volatility of specially during the initial period.
+	2. The volatility of the Vasicek price is not nearly as large as the one of the actual tradedprice, especially during the initial period.
 - This low volatility is indeed one of the shortcomings of the Vasicek model.
 - Panel C shows the observed 7.5-year note and its Vasicek value. Note:
 	- The true price and the model price move much less in sync, if at all.
@@ -355,11 +355,12 @@ $$C_{T_{i}}\ =\ C_{T_{i}-dt}+C_{T_{i}-dt}\times r_{T_{i}-dt}\times dt+\ \text{Ca
 * Starting from $r_{0}$, we have $$\begin{aligned}r_1&=r_0+\gamma^*\left(\overline{r}^*-r_0\right)\Delta t+\sqrt{\alpha r_0}\times\varepsilon_1\\r_2&=r_1+\gamma^*\left(\overline{r}^*-r_1\right)\Delta t+\sqrt{\alpha r_1}\times\varepsilon_2\\r_i&=r_{i-1}+\gamma^*\left(\overline{r}^*-r_{i-1}\right)\Delta t+\sqrt{\alpha r_{i-1}}\times\varepsilon_i\\&\vdots\vdots\\r_N&=r_{N-1}+\gamma^*\left(\overline{r}-r_{N-1}\right)\Delta t+\sqrt{\alpha r_{N-1}}\times\varepsilon_N\end{aligned}$$
 - We then obtain a run of simulated interest rates.
 - Next figure plots one simulated path for interest rates, under the CIR model and the parameter values of CIR.
-![500](Z.%20Clippings/wn%20On%20Continuous%20Time%20Models-20240512133657580.png)
+![](f70dcdb54e9b08c35806f6d312acd09f.png)
 ## CIR ZERO COUPON BONDS BY SIMULATIONS
 - Example: suppose we want to simulate the price of a zero coupon bond.
 - Since $g\left(r_{T}\right)=1$, the pricing formula (41) tells us:
-$$V\left(r,t\right) = -\int_{t}^{T} r(u) , du \times 1 = E^{*}\left[e^{-\sum_{i=0}^{N-1} r_{i} \Delta t}\right]$$
+
+$$V\left(r,t\right)\ =\ E^{*}\left[e^{-\int_{t}^{T}r(u)du}\times1\right]=E^{*}\left[e^{-\sum_{i=0}^{N-1}r_{i}\Delta t}\right]$$
 - The Monte Carlo simulation approach is:
 - (a) Repeat the simulation of interest rates J times, say J = 1, 000;
 - (b) Obtain J paths of interest rates $r^{j}_0, r^{j}_1, …, r^{j}_{N−1}$ and hence J values of the bond (one for each interest rate path)
@@ -370,16 +371,16 @@ $$\widetilde{Z}\left(r,t\right)\;\approx\;E^{*}\left[e^{-\;\Sigma_{i=0}^{N-1}\,r
 - Next figure plots the theoretical CIR prices along with the simulated ones for differentJ.
 * The risk neutral parameters computed from non-linear least squares are $$\gamma^{*}=0.3807;\quad\tau^{*}=0.072;\quad\alpha=0.0548.$$
 
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133728148.png)
+![](97f4594d274677368a71f8b83778b306.png)
 - Clearly, the good fit of simulated prices with exact prices is due to the high value of γ (mean reversion) and low value of α (volatility) used in the CIR model.
 
 - As it can be seen, under Vasicekmodel, which has a high volatility σ, long-term bonds results difficult to approximate well by Monte Carlo simulations, even with 10000 runs.
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133749981.png)
+![](0b9ac213c668b778688cc51697078594.png)
 # STANDARD ERRORS
-To ae simulation error is, we can compute the standard errors. Given the $J$ prices $P_j$, where $j = 1, \ldots, J$, their standard deviations and the average simulated price are defined below.
+To assess how big the simulation error is, we can compute the standard errors. Given the $J$ prices $P_j$, where $j = 1, \ldots, J$, their standard deviations and the average simulated price are defined below.
 ## STANDARD DEVIATION OF PRICES
 The standard deviation of the prices is given by:
-$$\sigma_P = \sqrt{\overline{P})^2}$$
+$$\sigma_P = \sqrt{\frac{1}{J-1} \sum_{j=1}^J (P_j - \overline{P})^2}$$
 where $\overline{P}$ is the actual average simulated price:
 $$\overline{P} = \frac{1}{J} \sum_{j=1}^J P_j$$
 ## STANDARD ERROR
@@ -387,12 +388,10 @@ Then, the standard error is calculated as:
 $$\text{Standard Error} = se_p= \frac{\sigma_P}{\sqrt{J}}$$
 - That is, we can say that with 95% confidence, the true price lies in the confidence interval
 - For example, in the Vasicek model, we had
-![500](Z.%20Clippings/Teaching%20Notes%207%20A%20Rundown%20On%20Continuous%20Time%20Models-20240512133804039.png)
-
-
+![](ad38beac8251344130e5f8f9a75e7b45.png)
 
 - The price is closer to the true one as (1) we increase the number of simulations; (2) we decrease the horizon.
-- The standard errors e number of simulations.
+- The standard errors decrease with the number of simulations.
 
 ## APPLICATION: PRICING CONVERTIBLE BONDS
 - Convertible securities, or "converts," are instruments that allow an investor to convert a fixed rate income investment into pre-specified amounts of the issuing firm's common stock.
@@ -443,7 +442,7 @@ $$B\left(t;T\right)\;=\;\frac{1}{\gamma^{*}}\left(1-e^{-\gamma^{*}\left(T-t\righ
 - and
 $$A(t;T)\;=\;(B(t;T)-(T-t))\left(\overline{{{r}}}^{*}-\frac{1}{2(\gamma^{*})^{2}}\sigma^{2}\right)-\frac{\sigma^{2}B(t;T)^{2}}{4\gamma^{*}}$$
 - Thus, the Cash Flow at time T from the option is
-$$C F_{T}^{j}=\operatorname*{max}\left(S_{T}^{j}-Z\left(T,r_{T}^{j};T+2\right),0\right)$$
+$$C F_{T}^{j}=\operatorname*{max}\left(S_{T}^{j}-Z\left(T,r_{T}^{j};T+2\right)\right)$$
 - Discount it to today, using the interest rates of this simulation
 $$P_{O p t i o n}^{j}=e^{-\,\Sigma_{i=0}^{N-1}\,r_{i}^{j}\times\Delta t}C F_{T}^{j}$$
 - The value of the option is
