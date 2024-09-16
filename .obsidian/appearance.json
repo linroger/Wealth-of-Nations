@@ -1,0 +1,19 @@
+{
+  "cssTheme": "LaTeX",
+  "accentColor": "#ffc599",
+  "textFontFamily": "SF Pro Display,CMU Serif",
+  "interfaceFontFamily": "SF Pro Display,SF Pro Rounded",
+  "monospaceFontFamily": "SF Mono",
+  "baseFontSize": 12,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "[ui] Compact Tabs",
+    "centered_table",
+    "latex",
+    "safaritabs",
+    "transparent_tab_header",
+    "inlineAdmonitionsPluginReadOnly",
+    "table_rounded_corners",
+    "ion.min"
+  ]
+}

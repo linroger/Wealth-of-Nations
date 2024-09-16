@@ -1,0 +1,549 @@
+Suna Bai
+Roger Lin
+
+[Teaching Note 1- Forward Rates Agreement](Teaching%20Note%201-%20Forward%20Rates%20Agreement.md)
+[Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
+[Arbitrage Opportunity Accounting](Arbitrage%20Opportunity%20Accounting.md)
+
+# 1          EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY
+
+On Oct 1 2008 you spot a potential arbitrage opportunity in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market (see solution to HW 1). In particular, recall that the 1-year forward exchange rate USD/EUR seems too high to be justified by the current spot exchange rate and the LIBOR differential. You want to take advantage of the trade, and you set up an arbitrage trade. The data for this homework are in the excel file DataHW2 2024.xls
+
+1. Set up the arbitrage trade on Oct 1, 2008 for the _1-year forward_. (_Tip: Yes, this is the same solution as in HW #1)
++ To exploit the arbitrage opportunity from the overpriced quoted forward, we would sell short the quoted forward (deliver 1 EUR in exchange for$\$1.39603$per EUR at maturity), and go long the synthetic forward.
+	+ The quoted forward price for EUR-USD on October 1st, 2008 was \$1.39603
+	+ The synthetic forward price implied by no arbitrage for EUR-USD on October 1st, 2008 was$1.3929$
+	+ Spot price of dollars per euro$S_{0}=1.4021{}$
++ At time  $t=1$
+	+ Borrow$Ne^{-r_{{EUR}}T}$Dollars
+	+ Exchange dollars for$Ne^{-r_{{EUR}}T}\frac{1}{S_{0}}$Euros
+	+ Place$Ne^{-r_{{EUR}}T}\frac{1}{S_{0}}$Euros into Euro deposits earning$r_{EUR}$
++ At Maturity
+	+ Collect$Ne^{-r_{{EUR}}T}\frac{1}{S_{0}}e^{r_{{EUR}}T}=\frac{N}{S_{0}}$Euros.
+
+At  $t=1$
+
++ Short a forward contract to sell 1 euro for 1.3960 dollars in one year
++ Borrow$e^{-0.0535}\cdot1.4021=0.9479\cdot1.4021=1.3290$dollars today (October 1st 2008)
++ Exchange 1.3290 dollars for euros obtaining 0.9479 euros
++ Invest$0.9479\text{ euros at }r_e=5.35\%$
+At maturity we will have
++ Pay l$\underline{\text{euro}}$(from short forward position)
++ Receive 1.3960 dollars
++ Receive l euro (from long synthetic forward position)
++ Pay$1.3290\cdot e^{0.0396}=1.3827$dollars
+
+The net cash flow will be a positive amount equal 1.396-1.3827=0.0134 dollars per euro traded. If we apply the same strategy on $100 m, the arbitrage is supposed to generate a positive cash flow at maturity equal to $\$1.337$ m.
+
+2. After six months, on April 1, 2009, you decide to un-ravel the trade.
+
+(a)   Given the new market data (exchange rate and interest rates), is the value of the short forward position positive or negative? Given your answer, do we lose money or gain money on the short forward position? (_Tip: Remember we are only looking at one part of the arbitrage trade, that is, only the short forward position. Note that after six months, the remaining horizon is only 6 months. The data set contains all of the possible data, but you do not need to use all of them. In fact, you need to use a small part of them)_
+
++ Spot rate at t=6 months =$S_6=\$1.32325\text{ per euro}$
++ $r_{USD}=1.5775\%$
++ $r_{EUR}=1.4802\%$
++ $T-t=0.5$
++ $$V_{f}^{short}(t,T)=(K-F_{{t,T}})e^{-r_{{USD}}(T-t)}$$
+$$K=F_{{0,T}}=\$1.39603 \text{ per euro}$$
+
+$$F_{t,T}= S_{t}e^{(r_{USD}-r_{EUR})(T-t)}$$
+$$1.32325e^{(0.01932457187-0.0179749777696459)0.5}=1.324143227$$
+
+$$V_{f}^{short}(t,T)=(1.39603-1.324143227)e^{-(0.019324572)*0.5} = 0.071195528$$
+
++ The short forward position is still positive, which we expect, because we are shorting the overvalued futures price and buying the commodity at the spot price today.
+
+> [!ANSWER]
+> (a) We need to compute the value of the short forward position.
+> 	+ When we unravel the trade, we sell our contract to another investor, who pays us an amount of money equal to the value of the contract.
+> + We know that the time t value of a long forward exchange rate contract maturing at T is given by$$f_{t,T}^{Long}=M_{t}\cdot e^{-r_{e}\cdot(T-t)}-K\cdot e^{-r_{8}\cdot(T-t)}$$where$r_{EUR}$and$r_{USD}$are the continuously compounded EURO-LIBOR and US-lIBOR rates, with maturity T − t, prevailing at time t.
+> + The value of a short forward contract is simply the opposite of the value of a long forward contract:$$f_{t,T}^{Short}=-f_{t,T}^{Long}=K\cdot e^{-r_{\mathfrak{g}}\cdot(T-t)}-M_{t}\cdot e^{-r_{e}\cdot(T-t)}\tag{1}$$
+> + Since we entered into the short contract on Oct 1 2008 and the contract maturity was 1 year, then on April 1 2009 (that is 6 months after contract inception) the residual maturity of the contract is 6 months, so in equation (1) the maturity will be equal to T − t = 0.5 (remember that our convention is to express time in years).
+> + We also know the forward price K we agreed to receive in exchange for 1 EUR at maturity.
+> 	+ This is the forward price that was quoted on Oct 1 2008 for a contract with 1 year maturity. Looking at the data we can then write K = 1.39603.
+> + The spot exchange rate on April 1 2009 is Mt = 1.32325.
+> 	+ Since the residual maturity of the contract is 6 months, we take the 6M EURO LIBOR and the 6M US LIBOR prevailing on April 1 2009, that are 6_M EUR LIBOR_ = 0.0165938 = 1.66% and 6_M US LIBOR_ = 0.0171625 = 1.72%.
+> + Before applying formula (1) we need to convert the two rates into continuous compounding. To compute the equivalent annualized continuously compounded rates we use the formula:$$r=2\cdot l n\left(1+{\frac{r_{2}}{2}}\right)$$
+> yielding$r_{USD}$= 1.71% and$r_{EUR}$= 1.65%. Using equation (1).
+> $$f_{Apr\\,\.5}^{Short}=1.39603\cdot e^{-0.0171\cdot0.5}-1.32325\cdot e^{-0.0165\cdot0.5}=0.0718\,USD$$.
+> + An alternative way of computing f Short Apr 01 09, 0.5 would have been$$f_{Apr\\,\.5}^{Short}=[F_{0,T}-F_{0.5,1}]\cdot e^{-r_{\sharp}\cdot(T-t)}$$$$=[1.39603-1.32425]\cdot e^{-0.0171\cdot0.5}=0.0712\,USD$$
+> + Formula (1) and (2) do not produce the same result as$F^{Quoted}_{0.5,1}= M_{0.5} · e^{(r_{USD}−re)·(0.5)}$on April 01 2009.
+> + Given that$f^{Short}_{Apr 01 09, 0.5} > 0$, we are making money on the position. Think about it intuitively.
+> 	+ On Oct 1 2008 the spot USD/EUR exchange rate (that is the price in USD of 1 EUR), was _USD/EUR_ = 1.4021.
+> 	+ On April 1, 2009 instead the spot exchange rate was _USD/EUR_ = 1.32325. This means that the dollar appreciated relative to the euro (or conversely that the euro depreciated relative to the dollar), so to buy 1 euro on the market on April 1 2009 we needed fewer dollars than we needed on Oct 1 2008.
+> 	+ By signing the contract on Oct 1 2008, we locked in a more favorable price, therefore the value of our short forward contract, on April 1 2009, is positive.
+>
+
+b. [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md) you make any money in the trade? Explain. (Tip: You now need to also compute the value of the synthetic long forward. Recall that the synthetic long forward is made up of two pieces: a short leg (borrowing in dollars) and a long leg (investment in euros). To compute the value of the short leg, remember (see solution to HW1) that you borrowed at time 0 the dollar amount$M_0 e^{-r_{EUR} \times T}$where$T = 1$. That is the dollar principal you will have to pay at maturity is$N = M_0 e^{(r_{USD} - r_{EUR}) \times T}$. The time$t$value of the short leg is therefore the present value of this principal amount which changes over time as the LIBOR changes. Similarly, to compute the time$t$value of the long leg, remember that you will receive 1 EUR at$T$from the investment. The dollar value of such investment at time$t$is$M_t e^{-r_e \times (T-t)}$where$M_t$is the USD/EUR spot exchange rate. The value of the synthetic forward is then the sum of the short and long leg.)
+$$V_{f}^{long}(t,T)= (F_{{t,T}}-K)e^{-r_{{EUR}}(T-t)}$$
+
+$$V_{f}^{long}(t,T)=(1.324143227-1.39603)e^{-(0.017974978)*0.5} = -0.071243587$$
+
+$$V_{f}^{short}(t,T)=(1.39603-1.32389)e^{-(0.01932457187)*0.5}=0.07157$$
+
+Payoff= -0.071243587+0.07157=0.000326413
+The payoff is slightly positive, and so we would a small amount of money from this arbitrage opportunity.
+
+> [!ANSWER]
+> + (b) To understand if we made money on the trade we need to consider our entire portfolio. We have considered the short forward in point (2. A), so we only need to consider the value of the synthetic long forward. Remember that our synthetic forward position consisted of:
+> > 	- A short leg, that is a loan in USD, as we borrowed in USD the present value (present value at that time) of 1 EUR
+> > 	- A long leg, that is an investment in EUR, as we invested the present value (still, present value at that time) of 1 EUR
+> > + To value both legs we will first compute the cash flow at maturity (that is on Oct 1 2009) and then we will discount it to today (that is Apr 1 2009). For the short leg, remember that we borrowed$$M_{Oct 01 08} · e−r^{e_{(Oct 01 08, 1 *year*})} = 1.4021 ·e^{−0.0535} = 1.3290 USD$$As we have to pay the 1Y US LIBOR (prevailing on Oct 1 2008) on such loan, we are expected to pay at maturity$$1.3290 ·e^{r_{USD}^{Oct 01 08, 1 year}} = 1.3290 · e^{0.0396} = 1.3827$$
+> > + Since we know how much we have to pay on Oct 1 2009 for the loan, to calculate the value of the short leg we need to compute the present value (on April 1 2009) of the amount just calculated (F c). The value of the short leg is:$$V^{Short Leg}=-CF^{Loan}_{Oct\\}\cdot e^{r*\cdot0.5}=-1.3827\cdot e^{-0.0171\cdot0.5}=-1.3709$$where we have put a minus sign in front as it is a short position (we have to pay this amount).
+> >
+> > + To compute the value of the long leg remember that we will receive 1 EUR on Oct 1 2009, that is 6 months from now. The today (April 1 2009) present value (in EUR) of 1 EUR in 6 months is e−re·0.5, where$r_{EUR}$is the annualized continuously compounded 6M EURO LIBOR prevailing today. The present value (in EUR) today of 1 EUR in 6 months is e−0.0165·0.5 = 0.9918 EUR. To determine the value of the long leg we need to find the equivalent dollar value of the amount just computed. To do this, we simply multiply by the current spot USD /EUR exchange rate MApr 01 09 = 1.32325, so the value of the long leg is$$V^{Long Leg}=e^{-0.0165\cdot0.5}\cdot M_{A p r\\}=0.9918\cdot1.32325=1.3124$$
+> > + Two more steps and we are done. Knowing the value of both the long and the short leg of the long synthetic forward we can compute its value. We will have$$V^{Synth, Long}_{Apr 01 09, 0.5} = V^{Long Leg}_{Apr 01 09, 0.5} + V^{Short Leg}_{Apr 01 09, 0.5} = 1.3124 - 1.3709 = -0.05857$$
+> > + As expected we are losing money on the synthetic forward. The reasoning is the same as above. 	- Since the dollar has appreciated relative to the euro and since we agreed (on Oct 1 2008) to “synthetically pay”, on Oct 1 2009, 1.3827 USD for 1 EUR, (while the price today of 1 EUR is just 1.32325), we are losing money on our synthetic long forward position.
+> > + To see whether we have made money from the entire trade we simply compute the value of our portfolio, that is the value of the short forward plus the value of the synthetic long forward. Using the result from formula (1) we have$$V^{Portfolio}_{Apr 01 09} = V^{Short}_{Apr 01 09, 0.5} + V^{Synth, Long}_{Apr 01 09, 0.5} = 0.0718 - 0.0586 = 0.0132 \text{ USD}$$
+> > If we use instead the result of formula (2) we get$$V^{Portfolio}_{Apr 01 09} = 0.0126 \text{ USD}.$$Since$V^{Portfolio}_{Apr 01 09} > 0$we have made money from the trade.
+
+3. How would your answer to point 2 change if you unraveled the trade after 9 months, that is, on July 1, 2009 (i.e. 3 months before maturity)?
++ Spot rate at t=9 months =$S_9=\$1.4152\text{ per euro}$
++ $r_{USD}=1.5775\%$
++ $r_{EUR}=1.4802\%$ 
++ $T-t=0.25$
+$$V_{f}^{short}(t,T)=(1.39603-1.415544289)e^{-(0.015775)*0.25}=-0.019437481$$
+$$V_{f}^{long}(t,T)=(1.415544289-1.39603)e^{-(0.014802)*0.25} = -0.01944221$$
+
+Payoff is 0.000004728742. At the 9 month mark, our profit is positive, albeit small.
+
+> [!ANSWER]
+> 3. Using the same logic as above, using formula (1) we find$V^{Portfolio}_{Jul 01 09} = 0.0133 > 0$.
+> + Using instead formula (2) we get$V^{Portfolio}_{Jul 01 09} = 0.0116 > 0$.
+> + Again the difference arises from the fact that$F^{Quoted}_{0.75,1}$at$M_{0.75} \cdot e^{(r_{US}-r_e) \cdot (0.25)}$on July 01 2009.
+>
+
+# 2          COMMODITY FUTURES
+
+Consider an oil futures contract at time 0 with delivery$T$. Let$S_t$denote the spot oil price,$r$the continuously compounded interest rate, and$u$the storage cost in percentage of the oil price (i.e. the storage cost between$t$and$t+dt$is$U_t = u×S_t ×d_t$. This is like a negative dividend yield for stocks$u = −q$). Question: Does the no arbitrage relation necessarily hold?$$F_{0,T}=S_{t}e^{(r+u)*T}$$– Try the alternatives$F_{0,T}<S_{t}e^{(r+u)*T}$and$F_{0,T}>S_{t}e^{(r+u)*T}$. and see whether it is feasible to carry out the strategy.
+
+Under no arbitrage pricing, the following two strategies should have equal payoffs
+
+$F_{0,T} < S_0 e^{(r + u)T}$
+
+1. **Arbitrage Strategy**:
+	+ Buy oil at the spot market at$S_0$.
+	+ Store the oil, incurring a cost of$u \times S_0$over time$T$.
+	+ Borrow the amount$S_0$at the risk-free rate$r$to finance the purchase.
+	+ Sell the futures contract at$F_{0,T}$.
+1. **Profit Calculation**:
+	+ The total cost of buying and storing oil is$S_0 e^{(r + u)T}$.
+	+ The revenue from selling the futures contract is$F_{0,T}$.
+	+ Profit =$F_{0,T} - S_0 e^{(r + u)T}$.
+	+ If$F_{0,T} < S_0 e^{(r + u)T}$, the profit is negative, implying no arbitrage opportunity.
+	+ This makes intuitive sense, since the forward price should compensate for the cost of storing a commodity, and that this extra charge should be reflected in a higher price for the buyer of the futures contract.
+	  + But if storage costs are high enough, then it may make the profits from the arbitrage strategy negative, and so traders would not act to exploit it, allowing for prices to remain out of equilibrium for a time.
+$F_{0,T} > S_0 e^{(r + u)T}$
+1. **Arbitrage Strategy**:
+	+ Sell the futures contract at$F_{0,T}$.
+	+ Plan to buy oil at the spot market at maturity$T$for$S_0 e^{(r + u)T}$.
+	+ Invest the proceeds from selling the futures contract at the risk-free rate$r$.
+1. **Profit Calculation**:
+	+ The cost of buying oil at maturity is$S_0 e^{(r + u)T}$.
+	+ The revenue from the futures contract is$F_{0,T}$.
+	+ Profit =$F_{0,T} - S_0 e^{(r + u)T}$.
+	+ If$F_{0,T} > S_0 e^{(r + u)T}$, the profit is positive, indicating an arbitrage opportunity.
+
+The no arbitrage price does not necessarily hold in this scenario, because if the futures price is below the synthetic price, but the storage costs were high enough, the profit will be negative, and there will be no traders to go long on the quoted futures contract and bring its price into alignment with the synthetic's price. Thus, while the upper boundary condition holds, the lower boundary condition does not necessarily have to hold if storage costs made the
+
+> [!ANSWER] Part 2. Commodity Futures
+> Let's consider the two cases:
+> ˆ When $F_{0,T} *> S*t · e^{{r+u}·T}$, applying the motto "sell dear and buy cheap" we couldset up the following strategy:
+> + Enter into a short forward position to sell 1 unit of the underlying (let's say a barrel of oil)
+> + Buy$e^u$barrels of oil today at a price per unit of St
+> + Borrow the amount needed to buy$e^u$barrels of oil, in order to have a zero cash flow today
+> Table 1 reports the cash flows from the strategy:
+> $$
+> \begin{array}{c|c|c}\hline&\text{t}&\text{T}\\\hline\text{Borrow }e^u\cdot S_t&+S_t\cdot e^u&-(S_t\cdot e^u)\cdot e^r=-S_t\cdot e^{u+r}\\\hline\text{Buy }e^u\text{ barrels of oil}&-S_t\cdot e^u&S_T\\\hline\text{Sell forward 1 barrel of oil}&0&F_{0,T}-S_T\\\hline\textbf{TOTAL}&0&F_{0,T}-S_t\cdot e^{u+r}>0\\\hline\end{array}
+> $$
+>
+> Note that at time T we get only 1 barrel of oil as we are continuously paying the continuously compounded storage cost u, so at maturity we will have $S · e^{u})·e^{-u} = S$.
+>
+> ˆ When $F_{0,T} *< S* · e^{r+u}$ we should instead:
+> 	+ Enter into a long forward position to buy 1 barrel of oil
+> 	+ Short sell$e^u$barrels of oil today at a price per unit of St
+> 	+ Invest the proceeds from short selling, in order to have a zero cash flow today
+> Here it is important to focus on the second step of the strategy just described. A
+> short sale requires to borrow the asset, sell it on the market with the agreement to purchase it back at the future date and to give it back to the lender. Short selling works well when the asset we want to short sell is a financial asset. Indeed we can argue that there will be a significant number of agents that hold the asset for investment purposes, and therefore they will be willing to lend the asset. In addition when such investors will spot$F_{0,T} *< S* · e^{r+u}$, they will sell S and buy forward to benefit from the arbitrage.
+> With commodities, though, this does not always happen. As we said in class, commodities are typically held by agents who **use** them. Oil can be used to produce fuel and to run a refinery.. If the majority of investors then hold the commodity for non-investment reasons, then the relationship$F_{0,T} *< S* · e^{r+u}$can actually occur in the market. Why don't they take the arbitrage profit anyway? The idea is that the arbitrage available on the market matches the benefit from holding the commodity, so commodity holders do not exploit it. A common practice is to compute such holding benefit implicit in market prices. We define convenience yield the continuously compounded yield y such that$$F_{0,T}=S\cdot e^{(r+u-y)}$$
+> You can think about it as an implicit dividend on the commodity.
+
+# 3          HEDGING WITH FUTURES: SOUTHWEST JET FUEL HEDGE
+
+When oil skyrocketed between mid 2006 and 2008 airline companies increased their use of commodity derivatives to reduce their exposure to raising jet fuel prices. The following example shows in a simplified fashion the effect of fuel hedging for Southwest.
+
+On Dec 31st 2007 the COO of Southwest comes out with an estimate of expected fuel consumption for year 2008 of 1,511 million of gallons. On the same day the market price of jet fuel per gallon is $2.71. On Dec 31st 2006 Southwest held positions in derivative contracts sufficient to hedge 100% of its forecasted fuel need in Q1 2007. Given the steep increase in oil (and jet fuel) prices during 2007, the company opted to reduce the hedge to 75% of its expected fuel consumption over Q1 2008.
+
+To set up the hedge, the CFO decides to utilize NYMEX Crude Oil futures. Crude Oil Futures trade in units of 1,000 U.S. barrels (42,000 gallons), and they are available for maturities of 30 consecutive months. In addition trading of such instruments terminates at the close of business on the third business day prior to the 25th calendar day of the month preceding the delivery month.
+
+Table 1 provides the list of FEB.08, MAR.08 and APR.08 as of Dec 31st 2007.
+
+**Table 1. Crude oil Future prices on Dec 31st 2007,**$
+
+|   |   |
+|---|---|
+|**Contract**|**Price/barrel**|
+|FEB.08|95.98|
+|MAR.08|95.78|
+|APR.08|95.24|
+
++ Last trading day prices:
+	 + January (FEB.08 contract):$89.85 per barrel.
+	 + February (MAR.08 contract):$100.74 per barrel.
+	 + March (APR.08 contract):$104.48 per barrel.
++ Expected Q1 Fuel Consumption(in gallons):$1511000000\times \frac{1}{4}\times \frac{1}{3}= 125916666.66667$gallons per month
++ Hedged amount=$125916666.66667\times \frac{3}{4}= 94437500$gallons per month
++ Number of contracts needed=$\frac{94437500}{42000}= 2248.5119$, or 2249 futures contracts per month
+
+1. What strategy would you suggest to the CFO to best hedge the expected fuel consumption for Q1 2008 using the three contracts listed above? (_Tip: You can assume that fuel consumption and purchase occurs on the last futures contract trading date of each month (e.g. fuel needed for January is purchased and consumed on Jan 22 2008) and that fuel consumption is uniform across months._)
+
+> [!ANSWER] Part 3. Hedging With Futures: Southwest Jet Fuel Hedge
+> 1. Since Southwest has to consume jet fuel in the future, it has an implicit short
+> position on jet fuel. Indeed if jet fuel price rise, then Southwest will lose money, as it has to pay more for the same amount of jet fuel; in the same way, if jet fuel price falls, Southwest will gain money. Figure (1) shows the payoff per gallon at T
+> of the implicit short position on Jet fuel. Note for example that, since $S_0$  = 2.71,
+> if ST = 0, then the payoff per gallon would be $S_0$  − ST = 2.71, that is Southwest
+> could buy 1 gallon of jet fuel for free, saving USD 2.71 if compared to what it
+> would have paid today, that is at t = 0.
+> Given this short position on fuel, we suggest that the CFO buy oil futures to offset such short position. But how many futures? For how long? In order to answer to these questions we first need to know:
+> + How much fuel do we expect to consume?
+> + How much fuel do we want to hedge?
+> + What is the relationship between fuel prices and oil futures prices?
+> + What is the size of an oil futures contract?
+> + When is fuel consumed?
+> + ![](IMG-20240913171226893.png)
+
+> [!ANSWER] How Much Fuel We Expect To Consume
+> How much fuel we expect to consume This was the easiest part. The hedging period was Q1 2008, which means three months. We know that the expected fuel consumption for the entire year 2008 is$E\left[FC_{2008}^{year}\right]=1,511,000,000$gallons. We are told to assume that fuel consumption is uniform across months, so the monthly expected fuel consumption (equal by assumption for January, February and March) is$E\left[FC_{2008}^{month}\right]=\frac{E\left[FC_{2008}^{5008}\right]}{12}=$125,916,667 gallons.
+
+> [!ANSWER] How much do fuel we want to hedge?
+> We are also told that the company opted to hedge only 75% of expected fuel consumption, therefore, for each month we want to hedge our short position on$E\left[FC_{2008}^{month}\right]\cdot0.75=94,437,500$gallons of jet fuel.
+
+> [!ANSWER] What Is The Relationship Between Fuel Prices And Oil Futures Prices?
+> + This was the most fun part. The reason why we have to know this information is that we are hedging jet fuel consumption with oil futures. Even though they are from the same family they are not exactly the same. So when we buy a futures on oil to hedge fuel consumption, our goal is not to physically receive the oil at maturity and to consume it, but rather to invest on an asset that would generate a P&L offsetting the gains/losses we experience on jet fuel.
+> + Since the two products are different, their supply and demand is not the same, it is very likely that their prices will behave differently. How much differently? We don't know exactly, but we can make some approximation. One practice used in the industry is to regress the change in jet fuel price on the change in (the nearest term) oil futures price. If we do this between January 2000 and June 2004 (See McDonald book, Section 6.12) we obtain that a change in oil futures price of 1$is likely to generate a change in jet fuel price of 2 cents per gallon.
+> + You were not required to run such regression, but you should have understood that the two assets are different and therefore some assumption was needed to set up the hedge. Indeed one very simple (and unrealistic) assumption that could have been made was: "the dollar change in jet fuel price exactly matches the dollar change of oil futures price".
+> + Another assumption that could have been made was: "the percentage change in jet fuel price exactly matches the percentage change of oil futures price." Under this assumption, you could have estimated the hedge ratio (number of oil barrels per barrel of fuel) as follows:
+> + Let's consider the FEB contract:
+> 	+ On Dec 31st 2007, the FEB contract price per barrel was USD 95.98.
+> 	+ On the same day, the spot price of fuel per barrel was USD$S^{barrel}_{t} = 2.71 · 42 = 113.69$(remember that a barrel contains 42 gallons).
+> 	+ A USD 1 change of FEB price per barrel would have resulted in a percentage 95.98 = 1.04%. increase of △%(F FEB:08) = 96.98−95.98
+> 	+ Applying the same percentage change to fuel (this is our assumption), the expected fuel price change would have been$$\triangle\%(F^{FEB})\cdot S_{t}^{barrel}=1.04\%\cdot113.69=1.1846\tag{3}$$
+> + Our goal is to take a position in oil futures such that, if jet fuel price per barrel changes by USD 1, the oil futures position changes exactly by the same amount, that is USD 1 per barrel (forget about contract size for a moment). Since buying futures on 1 barrel of oil is asked to hedge against a change of USD 1.1846 per barrel in jet fuel price, under the assumption of equal percentage changes, buying 1 futures contract would have under-hedged the position. To match the price change we would have needed to buy 1.1846 oil futures. Let's double check:
+> + If we buy 1.1846 FEB futures contracts (again forget about contract size), and the price of FEB oil changes by USD 1, the value of the position changes by USD 1 · 1.1846 = 1.1846, that is exactly the same as the expected (under our assumption) dollar price change of jet fuel per barrel. We could have increased the level of sophistication of our assumption even further. For example we could have calculated ratio (3) every day …. The point of the exercise was to understand that hedging fuel with oil requires some assumption.
+
+> [!ANSWER] What Is The Size Of An Oil Futures Contract?
+> One futures on crude oil trades for 1,000 barrels of oil.
+
+> [!ANSWER] When Is Fuel Consumed?
+ This information is important to understand when we have to close the hedge. As said in the direction we could have assumed that consumption would have occurred on the last date of trading of the nearest futures contract (e.g. consumption for January 2008 would have occurred on the last date of trading of FEB contract, that is January 22 nd 2008). Back to the answer of question (1), we will go for the simplest assumption. Therefore we (unrealistically) assume that "the dollar change in jet fuel price exactly matches the dollar change of oil futures price". Under this assumption, denoting by s the size of a futures contract, the quantity Q_futures_ of futures to be bought, for each month is$$Q^{futures}={\frac{E\left[F C_{2008}^{m o n t h}\right]\cdot0.75}{s\cdot{\frac{g a l o n s}{b a r e l}}}}={\frac{94,437,500}{1,000\cdot42}}=2,248.51$$
+> Given the assumptions on fuel consumption, we would have suggested the CFO to hold the position in each futures contract up to last trading day of each contract.
+
++ Because we anticipate fuel prices to continue rising, it would be best to enter into the futures contracts today, on Dec 31st, 2007, to lock in the price of fuel at the futures prices quoted today for each of the three months before it increases even further.
+ + Assuming the company is hedging 75% of its forecasted oil needs.
++ Amount of oil hedged: = 94437500 gallons per month
++ This hedge would save the company a total of \$18,149,430.00 over the next three months.
+
+|  |  |  |  |  |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |  |  |  |  |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Hedge | Implicit Fuel Price Per Gallon | Actual Fuel Price Per Gallon |  |
+| Dec 31st, 2007 | January (FEB.08 contract) | 2249 | 95.98 | 1000 |$215,859,020.00 |$2.29 | 2.71 |  |
+| Dec 31st, 2007 | February (MAR.08 contract) | 2249 | 95.78 | 1000 |$215,409,220.00 |$2.28 | 2.71 |  |
+| Dec 31st, 2007 | March (APR.08 contract) | 2249 | 95.24 | 1000 |$214,194,760.00 |$2.27 | 2.71 |  |
+|  |  |  |  |  |  |  |  |  |
+| Hypothetical No-Hedge Scenario |  |  |  |  |  |  |  |  |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Buying at Future Spot Price  | Implied Fuel Price Per Gallon | Actual Fuel Price Per Gallon |  |
+| 1/22/08 | FEB.08 contract | 2249 |$89.85 | 1000 |$202,072,650.00 |$2.14 | 2.54 |  |
+| 2/20/08 | MAR.08 contract | 2249 |$100.74 | 1000 |$226,564,260.00 |$2.40 | 2.883866667 |  |
+| 3/19/08 | APR.08 contract | 2249 |$104.48 | 1000 |$234,975,520.00 |$2.49 | 3.21 |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  | Month of Maturity | Monthly Profit/Loss |  |  |  |
+|  |  |  |  | FEB.08 contract | ($13,786,370.00) |  |  |  |
+|  |  |  |  | MAR.08 contract |$11,155,040.00 |  |  |  |
+|  |  |  |  | APR.08 contract |$20,780,760.00 |  |  |  |
+|  |  |  |  | Total |$18,149,430.00 |  |  |  |
+
+On March 22nd 2008 the CFO wants to assess the hedging effectiveness of the adopted strategy. The excel file DataHW2 2024.xls provides daily data on the future prices of FEB.08, MAR.08 and APR.08 contracts until their last trading date, as well as the jet fuel prices during the same period.
+
+2. What is the P&L of the hedging strategy? Was the hedging beneficial? To assess it, compute the jet-fuel price that Southwest would implicitly pay in Jan, Feb, and Mar 2008 and compare it to the actual prices. (_Tips: (i) Don’t forget the size of each contract and the fact that each barrel contains 42 gallons. (ii) The implicit jet fuel price is the effective price per gallon that Southwest pays, given the total gains/losses from the future positions._)
+
++ Number of contracts needed=$\frac{125916666.7}{42000}= 2999$, or 2999 futures contracts per month
++ Hedge Strategy-100% Hedge
++ Monthly Hedged Amount: 125916666.7 gallons of fuel
+	  Total savings of hedging 100% of predicted oil needs over Q1=$24,201,930.00
+
+> [!ANSWER]
+> The cumulative P&L from the hedge is USD 18,145,491. Table (2) reports its breakdown per contract. The cumulative P&L for each contract is computed as$$P\&L_{cumulative} = \sum_{t=Jan 01}^{Mar 19} P\&L_{daily}$$and$$P\&L_{daily} = (F_t - F_{t-1}) \cdot Q_{futures} \cdot s$$where$F_t$is the futures price per barrel on day$t$
+> **Table 2: Cumulative P&L of the hedge assuming 75% hedging of fuel consumption**$$\begin{array}{rrrrrr}\hline&\text{FEB. 08}&\text{MAR. 08}&\text{APR. 08}&\text{TOTAL}\\\hline\text{Cumulative P\&L}&(13,783,378)&11,152,619&20,776,250&\textbf{18,145,491}\\\hline\end{array}$$
+> To assess whether the hedging strategy has been beneficial, we need to compute the implicit jet fuel price that Soutwest pays each month for the hedged fuel. What is the implicit jet fuel price? Is the average price per gallon that Southwest pays after taking into account the gain/loss from the futues position. Another way to look at it is that the implicit price is the fuel price that we could have locked at time 0 and that would have generated the same payoff (given the change in spot price of juet fuel) as the futures position. To compute it we have to solve a simple equation. For each month$j$$$S^{*,j}\cdot Q^{f u e l\,h e d g e d,j}=S_{T,j}\cdot Q^{f u e l\,h e d g e d,j}-P\&L^{j}$$
+> where$S^{∗,j}$is the implicit jet fuel price paid for month j, S$^{T,j}$is the jet fuel price per gallon on each consumption date and$Q^{fuel hedged,j}$is the amount of fuel hedged in month j. Solving for S∗ we get
+>
+> $$S^{*,j}=S_{T,j}-\frac{P\&L^{j}}{Q^{fuel\,needed,j}}\tag{4}$$
+> Applying equation (4) to our case we get the results shown in the first column of Table (3). Comparing the implicit prices with the actual price occurring at each consumption date (i.e. January 22 nd, February 20 th and March 19 th) we can assess the effectiveness of the hedge. In particular when S∗ is greater than ST, the hedge has not been effective, as we have paid more than what we would have paid in the market.
+> **Table 3: Implicit vs. Actual fuel prices assuming 75% hedge of fuel consumption**
+> $$\overline{\begin{array}{ccc}\hline\textit{USD per gallon}&S^*&S_T\\\hline\text{January}&2.69&2.54\\\hline\text{February}&2.77&2.88\\\hline\text{March}&2.99&3.21\\\hline\end{array}}$$
+> Table (3) tells us that we effectively paid less than market prices per gallon in February and in March. This led us to an overall gain of 18,145,491. But was that enough to cover the implicit short position on jet fuel depicted in Figure 1? To understand this we can compare the payoff from the short position with the payoff from the oil futures position, for each month. Table (4) reports the results.
+> **Table 4: Payoff from implicit short position vs. Payoff from oil futures**$$\begin{array}{rrr}\\\hline&\text{January}&\text{February}&\text{March}\\\hline S_0&2.71&2.71&2.71\\\hline S_T&2.54&2.88&3.21\\\hline S_0-S_T&0.16&(0.18)&(0.50)\\\hline\\\hline S^{*,j}&2.69&2.77&2.99\\\hline S_T-S^{*,j}&(0.15)&0.12&0.22\\\hline\\\hline\text{Net payoff }(S_0-S^{*,j})&0.02&(0.06)&(0.28)\\\hline\end{array}$$
+> Multiplying the net payoff for the quantity hedged we get a loss approximately equal to USD 30.6 million. This tells us that the hedge has not been perfectly effective.
+>
+> Despite generating a positive P&L, it has not fully offset the short position on jet fuel. The reason of this discrepancy is due to the fact that our assumption about changes in oil futures prices and changes in jet fuel price was not correct.
+>
+
+|  |  |  |  |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Hedge | Implicit Fuel Price Per Gallon | Actual Fuel Price Per Gallon |
+| Dec 31st, 2007 | January (FEB.08 contract) | 2999 | 95.98 | 1000 |$287,844,020.00 |$2.29 | 2.71 |
+| Dec 31st, 2007 | February (MAR.08 contract) | 2999 | 95.78 | 1000 |$287,244,220.00 |$2.28 | 2.71 |
+| Dec 31st, 2007 | March (APR.08 contract) | 2999 | 95.24 | 1000 |$285,624,760.00 |$2.27 | 2.71 |
+|  |  |  |  |  |  |  |  |
+| Hypothetical No-Hedge Scenario |  |  |  |  |  |  |  |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Buying at Future Spot Price | Implied Fuel Price Per Gallon | Actual Fuel Price Per Gallon |
+| 1/22/08 | FEB.08 contract | 2999 |$89.85 | 1000 |$269,460,150.00 |$2.14 | 2.54 |
+| 2/20/08 | MAR.08 contract | 2999 |$100.74 | 1000 |$302,119,260.00 |$2.40 | 2.883866667 |
+| 3/19/08 | APR.08 contract | 2999 |$104.48 | 1000 |$313,335,520.00 |$2.49 | 3.21 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  | Month of Maturity | Monthly Profit/Loss |  |  |
+|  |  |  |  | FEB.08 contract | ($18,383,870.00) |  |  |
+|  |  |  |  | MAR.08 contract |$14,875,040.00 |  |  |
+|  |  |  |  | APR.08 contract |$27,710,760.00 |  |  |
+|  |  |  |  | Total |$24,201,930.00 |  |  |
+|  |  |  |  |  |  |  |  |
+
+3. How would your result to point 2 change if the CFO had decided to keep the same100% hedging strategy that was in force up to Dec 2007?
++ The hedge would have been even more profitable if 100% of the fuel demand was hedged, rather than 75%, since jet fuel prices did increase as predicted. The company would have saved \$24 million instead of \$18 million
+
+> [!ANSWER] 3. In this case we would get a P&L equal to:
+>
+> $$\begin{array}{rrrrrr}\hline&\text{FEB. 08}&\text{MAR. 08}&\text{APR. 08}&\text{TOTAL}\\\hline\text{Cumulative P\&L}&(18,377,837)&14,870,159&27,701,667&\textbf{24,193,988}\\\hline\end{array}$$
+> The important thing to note here is that the implicit prices are the same as above. If we look at the formula$$S^{*,j}=S_{T,j}-\frac{P\&L^j}{Q^{\textit{fuel hedged,}j}}$$we immediately see why. Indeed the actual price does not change$S_{T,j}$and the ratio$\frac{P\&L^j}{Q^{fuelhedged,j}}$remains constant. The reason why it happens is because the daily P&L was computed as
+>
+> $$P\&L_t^{daily}=(F_t-F_{t-1})\cdot Q^{futures}\cdot s=(F_t-F_{t-1})\cdot\left[\frac{E\left[FC_{2008}^{month}\right]\cdot0.75}{s\cdot\frac{gallons}{barrel}}\right]\cdot s$$which, simplifying becomes$$P\&L_t^{daily}=(F_t-F_{t-1})\cdot\left[\frac{Q^{\textit{fuel hedged,}j}}{\frac{gallons}{barrel}}\right]$$
+>
+> where we have exploited the fact that we hedge an amount which is equal to the expected fuel consumption. Remembering that$P\&L_t^{daily}=(F_T-F_0)\cdot\left[\frac{Q^{fuelhedged,j}}{\frac{gallons}l}\right]$
+> we can~therefore~write:$$S^{*,j}=S_{T,j}-\frac{\left[\frac{Q^{fuel~hedged,j}}{\frac{gallons}{ba\textit{rrel}} }\right]\cdot\left(F_T-F_0\right)}{Q^{\textit{fuel hedged,}j}}=S_{T,j}-\frac{(F_T-F_0)}{42}$$which proves that the implicit price does not depend on the quantity hedged, but only on the actual price and on the change of the futures price. Last, hedging$100\%$of consumption, the hedge would have been even less effective, as we would have lost USD 40.8 million.
+>
+
+4. Compute the correlation between _changes_ in jet fuel price and _changes_ in Apr 08 futures prices. Is the correlation one? If not, can you provide an explanation? Think of at least two reasons why the correlation between jet fuel prices and oil futures may different from 1. (_Tip: Think about your result from the exercise 2 “Commodity Futures” above_)
++ The correlation in daily percent changes in jet fuel price and APR 08 Futures prices is 0.89, which suggests a high degree of comovement but not exactly perfect comovement. Two reasons why the prices may not be perfectly correlated 1 for 1 is due to
+	+ a. The convenience yield-Companies may place a value on having the commodity in possession today, so that they can make immediate use of it should the need arise. This convenience yield may fluctuate over time, depending on the day to day needs of the company. For instance, if there is higher demand for air travel around holidays, then the airline would likely place a higher value on the convenience yield of having possession of the commodity today. This may explain part of the variation observed in the movements of the two prices
+	+ b. Storage costs-Storage costs may prevent arbitrageurs from acting on the deviation of the spot price and futures price from equilibrium. This is because traders would have to incur a cost to store the commodity until the delivery date, and if the cost of storage is higher than the price differential between the spot and futures price, this may deter arbitrageurs from acting to bring the prices back into equilibrium.
+
+> [!ANSWER]
+> 4. The correlation between the dollar changes in jet fuel price and the dollar changes > in the price of the APR contract between December 31st 2007 and March 19th 2008 is ρ = 0.8791. As mentioned above the correlation is different from 1 because > demand and supply for the two assets is different. For example fuel is a commodity held for use, while a future contract is just a financial instrument and as such is bought and sold also by investors rather than simply by users. Another reason why the correlation is not 1 is that there are other factors affecting the prices, like regulation and fiscal policies.
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|APR. 08|APR 08 Futures $/gallon|Daily Change (%)|Fuel price per gallon|Daily Change (%)|
+|95.24|2.27||2.71||
+|98.74|2.35|0.04|2.80|0.03|
+|98.42|2.34|(0.00)|2.79|(0.00)|
+|97.28|2.32|(0.01)|2.76|(0.01)|
+|94.53|2.25|(0.03)|2.67|(0.03)|
+|95.62|2.28|0.01|2.69|0.01|
+|94.66|2.25|(0.01)|2.66|(0.01)|
+|92.68|2.21|(0.02)|2.61|(0.02)|
+|91.70|2.18|(0.01)|2.59|(0.01)|
+|93.41|2.22|0.02|2.64|0.02|
+|91.42|2.18|(0.02)|2.60|(0.01)|
+|89.98|2.14|(0.02)|2.59|(0.00)|
+|89.22|2.12|(0.01)|2.58|(0.01)|
+|89.49|2.13|0.00|2.58|0.00|
+|88.76|2.11|(0.01)|2.54|(0.02)|
+|86.62|2.06|(0.02)|2.52|(0.01)|
+|88.99|2.12|0.03|2.54|0.01|
+|90.47|2.15|0.02|2.58|0.02|
+|90.79|2.16|0.00|2.58|(0.00)|
+|91.42|2.18|0.01|2.60|0.01|
+|92.16|2.19|0.01|2.61|0.00|
+|91.68|2.18|(0.01)|2.60|(0.00)|
+|89.00|2.12|(0.03)|2.52|(0.03)|
+|90.07|2.14|0.01|2.56|0.01|
+|88.45|2.11|(0.02)|2.52|(0.01)|
+|87.22|2.08|(0.01)|2.49|(0.01)|
+|88.20|2.10|0.01|2.55|0.02|
+|91.77|2.19|0.04|2.65|0.04|
+|93.61|2.23|0.02|2.72|0.03|
+|92.86|2.21|(0.01)|2.69|(0.01)|
+|93.41|2.22|0.01|2.72|0.01|
+|95.55|2.28|0.02|2.76|0.02|
+|95.45|2.27|(0.00)|2.76|0.00|
+|99.70|2.37|0.04|2.87|0.04|
+|99.70|2.37|-|2.88|0.00|
+|98.23|2.34|(0.01)|2.85|(0.01)|
+|98.81|2.35|0.01|2.89|0.01|
+|99.23|2.36|0.00|2.90|0.00|
+|100.88|2.40|0.02|2.94|0.01|
+|99.64|2.37|(0.01)|2.89|(0.02)|
+|102.59|2.44|0.03|2.97|0.03|
+|101.84|2.42|(0.01)|2.96|(0.00)|
+|102.45|2.44|0.01|3.00|0.02|
+|99.52|2.37|(0.03)|2.97|(0.01)|
+|104.52|2.49|0.05|3.12|0.05|
+|105.47|2.51|0.01|3.15|0.01|
+|105.15|2.50|(0.00)|3.14|(0.00)|
+|107.90|2.57|0.03|3.15|0.01|
+|108.75|2.59|0.01|3.19|0.01|
+|109.92|2.62|0.01|3.24|0.01|
+|110.33|2.63|0.00|3.36|0.04|
+|110.21|2.62|(0.00)|3.38|0.00|
+|105.68|2.52|(0.04)|3.30|(0.02)|
+|109.42|2.61|0.04|3.32|0.01|
+|104.48|2.49|(0.05)|3.21|(0.03)|
+||||||
+||||CORR|0.89|
+
+On June 30th 2008, the CFO is asked to set up a similar strategy for the next three months. Table 2 provides the list of relevant future contracts and their prices on June 30th.
+
+**Table 2. Crude oil Future prices on June 30th 2008,**
+
+|   |   |
+|---|---|
+|**Contract**|**Price/barrel**|
+|AUG.08|140.00|
+|SEP.08|140.58|
+|OCT.08|140.95|
+
+5. Using the data contained in the Excel file DataHW2.xls compute the P&L of thehedging strategy between June 30th and September 22nd. Was the hedging beneficial? Compute again the implicit jet fuel prices and comment on the effectiveness of the hedging strategy. In doing so, please compare this result with the performance of the hedging strategy in point 2 above.
++ The hedging strategy for the next three months is unprofitable, as the futures prices on June 30th, 2008 are above the spot prices of the commodity for each of the three months. The cumulative loss for all three months is \$129 million. Unlike in point 2, the future prices of oil on the spot market are below the present price to buy a barrel of oil at maturity for the three months.
++ Assuming the company is hedging 75% of its forecasted oil needs.
++ Amount of oil hedged: = 94437500 gallons per month
+
+> [!ANSWER] 5. The P&L of the hedge between June 30th 2008 and Sep 22nd 2008 is reported in
+> Table (6) and is very very negative.
+>
+> **Table 6: Cumulative P&L of the hedge assuming 100% hedging of fuel consumption**
+> $$\overline{\frac{\text{AUG. }08\quad\text{SEP. }08\quad\mathrm{OCT.~}08\quad\mathrm{TOTAL}}{\text{Cumulative P\&L}\quad(36,126,091)\quad(76,749,206)\quad(60,050,258)\quad(172,925,556)}}$$
+> **Table 7: Implicit vs. Actual fuel prices assuming 100% hedge of fuel consumption**
+> $$\overline{\begin{array}{ccc}\hline\textit{USD per gallon}&S^*&S_T\\\hline\text{July}&4.09&3.81\\\hline\text{August}&3.86&3.25\\\hline\text{September}&3.70&3.22\\\hline\end{array}}$$
+> Despite the very negative payoff on the future position, we end up having a positive result of hedging. Indeed if we sum the payoff from the implicit short position in fuel ($222.3 million) with the P&L of the long position in futures ($172.9 million) we see that we still have a positive number ($49.4 million).
+>
+> A final remark. The fact that the total payoff is positive does not mean that we are better off doing the hedge. The hedge consumes most of the benefit Southwest get from the price drop. Overall though, compared to buying fuel (assuming no storage costs) on June 30th, Soutwest is still better off, despite the huge loss on futures.
+
+|  |  |  |  |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Hedge | Implicit Fuel Price Per Gallon |  |
+| June 30th, 2008 | AUG.08 | 2249 | 140 | 1000 |$314,860,000.00 |$3.33 |  |
+| June 30th, 2009 | SEP.08 | 2249 | 140.58 | 1000 |$316,164,420.00 |$3.35 |  |
+| June 30th, 2010 | OCT.08 | 2249 | 140.95 | 1000 |$316,996,550.00 |$3.36 |  |
+|  |  |  |  |  |  |  |  |
+| Hypothetical No-Hedge Scenario |  |  |  |  |  |  |  |
+| Purchase Date | Month of Maturity | Futures Contracts Purchased | Futures Price Per Barrel | Barrels per Contract | Cost of Buying at Future Spot Price  | Implied Fuel Price Per Gallon | Actual Fuel Price Per Gallon |
+| 7/22/08 | AUG.08 | 2249 | 127.95 | 1000 |$287,759,550.00 |$3.05 | 3.81 |
+| 8/20/08 | SEP.08 | 2249 | 114.98 | 1000 |$258,590,020.00 |$2.74 | 3.25 |
+| 9/22/08 | OCT.08 | 2249 | 120.92 | 1000 |$271,949,080.00 |$2.88 | 3.22 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  | Month of Maturity | Monthly Profit/Loss |  |  |
+|  |  |  |  | AUG.08 | ($27,100,450.00) |  |  |
+|  |  |  |  | SEP.08 | ($57,574,400.00) |  |  |
+|  |  |  |  | OCT.08 | ($45,047,470.00) |  |  |
+|  |  |  |  | Total | ($129,722,320.00) |  |  |
+|  |  |  |  |  |  |  |  |
+
+## 4          BONUS QUESTION (I,E, NOT REQUIRED): SPECULATING WITH FUTURES: AMARANTH CALENDAR SPREAD TRADE
+
+Amaranth Advisors L.L.C. was a hedge fund that, as of Sep 2006, massively invested in energy derivatives. The fund held very large positions in natural gas futures. The trades consisted mainly of buying and selling natural gas futures contracts with a variety of maturity dates, setting up what is called a calendar spread.
+
+The fund had positions on most of the futures contracts available, covering almost every month between September 2006 and December 2011. We will consider the positions in two of these many contracts[[2]](#_ftn2) to get a practical understanding of what happened in Sep 2006.
+
+Suppose that, as of Aug 31st 2006 Amaranth book was as follows:
+
+Table 1. Amaranth simplified portfolio on Aug 31st 2006
+
+|   |   |   |
+|---|---|---|
+|**Contract**|**# of contracts**|**Futures price,**$|
+|NOV.06|59,247|$8.23|
+|APR.07|(77,527)|$8.34|
+
+The Excel file DataHW2 2924.xls contains daily futures prices of the two contracts between Aug 31st 2006 and Sep 21st 2006. The prices are per MMBtu (millions of British Thermal Unites). A contract is for 10,000 MMBtu.
+
+Using these prices, compute:
+
+(1)   The daily and cumulative P&L from the strategy
+
+> [!ANSWER]
+> 1. The first thing we have to consider is the contract size. The directions provided the price for MMBtu (millions of British Thermal Units, a unit of measure for gas). This is the way in which prices are quoted for most futures contracts (for example oil futures are quoted in price per barrel). However, for ease of use each futures contract applies to more than 1 unit of underlying (in this case MMBtu). The number of units of underlying is the size of the futures contract. In our case, > the size of 1 Natural Gas futures contract is 10,000 MMBtu. > The P&L is the profit (or loss) that the holder of a future position experiences due to marking-to-market of the position. At the end of each trading day t the contract is settled and the difference Ft − Ft−1 is computed. To obtain the daily P&L of the position we have to multiply this difference by the contract size and by the number of contracts held, that is
+>
+> $$P\&L=(F_{t}-F_{t-1})\cdot size\cdot N\tag{5}$$
+> Note that the number of contracts can be either positive or negative, depending whether we hold respectively a long or a short position. Applying 5 to the data provided we obtain the P&L reported in Table 8. Note that as the price provided are closing prices, on Aug 31st there is no P&L, as the closing price for August 30th was not provided. Note also that the P&L of the portfolio is equal to the sum of the P&L of the two positions. The total P&L for a single contract is given by$F_T − F_0$, which is also equal to$$F_{T}-F_{0}=F_{T}-F_{T-1}+F_{T-1}+\ldots-F_{1}+F_{1}-F_{0}$$
+> therefore, to compute the cumulative P&L we can sum all the daily P&Ls. In our case the cumulative P&L is equal to -$401,013,200.
+
+(2)   The value of the portfolio between Aug 31st and Sep 21st 2006, assuming that the portfolio was initiated on Aug 31st 2006
+
+> [!ANSWER]
+> 2. The value of a portfolio of futures is the sum of the value of the long positions plus
+> the short positions. When market closes, the value of a futures contract is equal to its daily P&L. This happens because futures contracts are settled daily, so past
+> **Table 8: Daily and cumulative P&L of Amaranth strategy**
+> P&L are added/deducted to/from the Margin account. Therefore the value of a portfolio of futures contracts is equal to the daily P&L of the portfolio (in our case, last column in Table 8). Alternatively we can always say that the value of a futures contract (and therefore of a portfolio of futures contract) is 0 after settlement has taken place.
+
+(3)   The cumulative cash required by the strategy, knowing that NYMEX requires$5,400 initial margin and$2,700 maintenance margin per contract and assuming that the cash in excess of the initial margin (if any) is daily withdrawn from the account.
+
+> [!ANSWER]
+> 3. To determine the cash required by the strategy we have to understand how the > margining system works. When we enter into a forward contract we are asked to > post some collateral in a margin account. The amount of collateral is called initial margin. Since for natural gas futures the initial margin is equal to$5, 400 per contract, when, for example, we enter into 59,247 long futures position we need to > inject$5, 400 · 59, 247 =$319, 933, 800 of cash in the margin account. The same applies for short positions. When we short 77,527 futures contracts, we need to post$5, 400 · 59, 247 =$418, 645, 800 in the margin account.
+> + Every day, at settlement an amount of cash equal to the P&L is added (deducted if we experience a daily loss). When the margin account reaches a value lower than a threshold amount called maintenance margin (equal to$2, 700 for natural gas futures) a margin call is issued and additional cash has to be posted to restore the maintenance margin. If instead the position generates cash, when the account balance grows above the initial margin, the contract holder can withdraw cash up to amount that will leave an account balance equal to the initial margin.
+> + Applying this logic, table 9 reports the dynamics of the two margin accounts for Amaranth. Column 2 and 5 report the balance of the two accounts. The day$t$account balance, denoted by$AB_t$is computed as$AB_t = AB_{t−1} + PL_t + CI_t$where$PL_t$represents the daily profit and loss of the position and$CI_t$is the cash injected or withdrawn (if any). Column 3 and 6 are designed to denote when a margin call is issued. If it is the case, additional cash has to be injected. Such cash is reported in columns 4 and 7, whose total is computed in column 8.
+> + To compute the cumulative cash required we have to consider the difference between the cash-flows and the remaining account balances. Thus we will have:
+> 	+ $1, 473, 472, 890 −$159, 966, 900 =$1, 313505, 990 for the long futures positions
+> 	+ −$493, 846, 990 −$418, 645, 800 = −$912, 492, 790 for the short positions.
+> 		+ Note that the negative amount of cash denotes a positive cash flow.
+> + The total cash required is therefore$1, 313505, 990−$912, 492, 790 =$401, 013, 200 which, not surprisingly is equal to the cumulative P&L.
+
+|   |   |   |   |
+|---|---|---|---|
+|**Date**|**Daily P&L NOV. 06 (USD)**|**Daily P&L APR. 07 (USD)**|**Cumulative P&L (USD)**|
+|31-Aug-06|0|0|0|
+|1-Sep-06|-100,719,900|-31,010,800|-131,730,700|
+|5-Sep-06|-88,870,500|-93,032,400|-181,902,900|
+|6-Sep-06|-124,418,700|-69,774,300|-194,193,000|
+|7-Sep-06|-367,331,400|147,301,300|-220,030,100|
+|8-Sep-06|-367,331,400|155,054,000|-212,277,400|
+|11-Sep-06|-574,695,900|333,366,100|-241,329,800|
+|12-Sep-06|-568,771,200|457,409,300|-111,361,900|
+|13-Sep-06|-681,340,500|589,205,200|-92,135,300|
+|14-Sep-06|-1,042,746,700|922,571,300|-120,175,400|
+|15-Sep-06|-1,107,919,000|798,528,100|-309,390,800|
+|18-Sep-06|-1,167,166,000|643,474,100|-523,691,800|
+|19-Sep-06|-1,202,714,000|658,979,500|-543,734,600|
+|20-Sep-06|-1,309,359,000|783,022,700|-526,336,300|
+|21-Sep-06|-1,315,283,000|907,065,900|-408,217,500|
+
+|   |   |   |   |
+|---|---|---|---|
+|**Date**|**Portfolio Value NOV. 06 (USD)**|**Portfolio Value APR. 07 (USD)**|**Total Portfolio Value (USD)**|
+|31-Aug-06|4,876,028,000|-6,465,752,000|-1,589,724,000|
+|1-Sep-06|4,775,308,000|-6,496,763,000|-1,721,454,000|
+|5-Sep-06|4,787,158,000|-6,558,784,000|-1,771,627,000|
+|6-Sep-06|4,751,609,000|-6,535,526,000|-1,783,917,000|
+|7-Sep-06|4,508,697,000|-6,318,450,000|-1,809,754,000|
+|8-Sep-06|4,508,697,000|-6,310,698,000|-1,802,001,000|
+|11-Sep-06|4,301,332,000|-6,132,386,000|-1,831,054,000|
+|12-Sep-06|4,307,257,000|-6,008,342,000|-1,701,086,000|
+|13-Sep-06|4,194,688,000|-5,876,547,000|-1,681,859,000|
+|14-Sep-06|3,833,281,000|-5,543,180,000|-1,709,900,000|
+|15-Sep-06|3,768,109,000|-5,667,224,000|-1,899,114,000|
+|18-Sep-06|3,708,862,000|-5,822,278,000|-2,113,416,000|
+|19-Sep-06|3,673,314,000|-5,806,772,000|-2,133,458,000|
+|20-Sep-06|3,566,669,000|-5,682,729,000|-2,116,060,000|
+|21-Sep-06|3,560,745,000|-5,558,686,000|-1,997,941,000|
+
+|   |   |   |
+|---|---|---|
+|**Date**|**Cumulative Cash Required (USD)**|**Margin Account Balance (USD)**|
+|31-Aug-06|738,579,600|738,579,600|
+|1-Sep-06|870,310,300|738,579,600|
+|5-Sep-06|920,482,500|738,579,600|
+|6-Sep-06|932,772,600|738,579,600|
+|7-Sep-06|958,609,700|738,579,600|
+|8-Sep-06|950,857,000|738,579,600|
+|11-Sep-06|979,909,400|738,579,600|
+|12-Sep-06|849,941,500|738,579,600|
+|13-Sep-06|830,714,900|738,579,600|
+|14-Sep-06|858,755,500|738,579,600|
+|15-Sep-06|1,047,970,000|738,579,600|
+|18-Sep-06|1,262,271,000|738,579,600|
+|19-Sep-06|1,282,314,000|738,579,600|
+|20-Sep-06|1,264,916,000|738,579,600|
+|21-Sep-06|1,146,797,000|738,579,600|
