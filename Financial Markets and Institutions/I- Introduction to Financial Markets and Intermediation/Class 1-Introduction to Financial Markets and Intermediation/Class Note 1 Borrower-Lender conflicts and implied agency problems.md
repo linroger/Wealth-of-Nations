@@ -15,14 +15,14 @@ Debt holders own the lower tail of the distributionof firm value,and equity owne
 
 Two projects,the riskier one also has a lower expected return. Each has only two possible outcomes, one if a depression (D), one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 
-```
+```latex
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|c|c|c|c|}
 \hline
 Project & Value in D & Value in P & Expected Value & Expected Return \\ \hline
-1       & 500        & 1500       & 1000           & \(\frac{200}{800} = 25\%\) \\ \hline
-2       & 0          & 1551       & 775.5          & \(\frac{-24.5}{800} = -3.06\%\) \\ \hline
+1       & 500        & 1500       & 1000           & $\frac{200}{800} = 25\%$ \\ \hline
+2       & 0          & 1551       & 775.5          & $\frac{-24.5}{800} = -3.06\%$ \\ \hline
 \end{tabular}
 \caption{Project Values and Expected Returns}
 \end{table}
@@ -60,16 +60,26 @@ Thefixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit
 </table>
 The levered firm would select project number 2, despite its lower net present value, because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
 
-  
-
 This does not mean that firms"want" to go bankrupt. Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,with a lower net present value. Potential bondholders can put themselves into the owner's shoes, and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project 1?
 
-  
 
 The borrower's equity payoff from Project 1 with debt of face F is:
-
-  
-
+```latex
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Project 1 (Face F)} & 
+$\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F$ for $F \leq 500$ \\
+                            & $\frac{1}{2}(1500 - F)$ for $500 < F \leq 1500$ \\
+                            & 0 for $F > 1500$ \\ \hline
+\textbf{Project 2 (Face F)} & 
+$\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
+                            & 0 for $F > 1551$ \\ \hline
+\end{tabular}
+\caption{Borrower's Equity Payoff}
+\end{table}
+```
 12 (1500-F) + 12 $1/2\left(1500-F\right)+1/2$ $1/ _{2}\left (1500- \mathrm{F} \right) + 1/ _{2}\left (500- \mathrm{F} \right) = 1000-$F = = (for $F\leq500$ $1/2\left(1500-F\right)+1/2$ (0) (for F between 500 and 1500), 0for $F>1500$
 
   

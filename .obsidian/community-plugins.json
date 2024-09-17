@@ -70,5 +70,6 @@
   "make-md",
   "copy-url-in-preview",
   "github-sync",
-  "unique-attachments"
+  "unique-attachments",
+  "swiftlatex-render"
 ]
