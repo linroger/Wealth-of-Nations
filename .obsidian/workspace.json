@@ -24,9 +24,12 @@
             "id": "e3ae9edd0b79c937",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9-Bailouts and Bank Failures"
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -119,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md"
+              }
             }
           }
         ],
@@ -164,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

@@ -15,35 +15,24 @@ Debt holders own the lower tail of the distributionof firm value,and equity owne
 
 Two projects,the riskier one also has a lower expected return. Each has only two possible outcomes, one if a depression (D), one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 
-<table>
-	<tbody>
-		<tr>
-			<th rowspan="2">Project 1</th>
-			<th rowspan="2">Value in D 500</th>
-			<th rowspan="2">Value in P 1500</th>
-			<th rowspan="2">value 1000</th>
-			<th colspan="2">Expected return</th>
-		</tr>
-		<tr>
-			<th>200/800</th>
-			<th>$25\%$ =</th>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>0</td>
-			<td>1551</td>
-			<td>775.5</td>
-			<td>-24.5/800</td>
-			<td>$=-3.06\%$</td>
-		</tr>
-	</tbody>
-</table>
+```
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Project & Value in D & Value in P & Expected Value & Expected Return \\ \hline
+1       & 500        & 1500       & 1000           & \(\frac{200}{800} = 25\%\) \\ \hline
+2       & 0          & 1551       & 775.5          & \(\frac{-24.5}{800} = -3.06\%\) \\ \hline
+\end{tabular}
+\caption{Project Values and Expected Returns}
+\end{table}
+```
 
 We could get fancy and use the states model to take account of the positive"beta"of each project (each pays off more in prosperity). Project 2 has a higher beta, implying that it should require a higher discount rate than project 1. It is sufficient for our purposes to use the expected returns to see the incentive problem with debt.
 
 Clearly, project 1 is the best investment. An owner-managed firm with no debt would select it,. since all require the same initial outlay.
 
-# 2.What about a firm with debt with face $s600$ in place?
+ 2.What about a firm with debt with face $s600$ in place?
 
 Thefixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
 
