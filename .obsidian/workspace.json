@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md"
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md"
               }
             }
           }
@@ -169,7 +169,6 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian42-brat:BRAT": false,
       "excel:Create Excel File": false,
@@ -186,6 +185,18 @@
   },
   "active": "e3ae9edd0b79c937",
   "lastOpenFiles": [
+    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-2.png",
+    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-1.png",
+    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency.png",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
+    "Attachments/Lecture Note 1-5.png",
+    "Attachments/Lecture Note 1-4.png",
+    "Attachments/Lecture Note 1-3.png",
+    "Attachments/Lecture Note 1-2.png",
+    "Attachments/Lecture Note 1-1.png",
+    "Attachments/Lecture Note 1.png",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Review Session Notes/Binomial Trees and Option Pricing MBA.md",
@@ -203,26 +214,14 @@
     "attachment.md",
     "Financial Instruments 2024/UChicago Financial Instruments 2024.md",
     "HBR Notes/Notes on Basic Options Properties.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
     "V. HBR Notes",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
     "Financial Instruments/Review Session Notes/Arbitrage Opportunity Accounting.md",
     "Financial Instruments/Review Session Notes/Option Pricing And Implied Volatility.md",
     "Financial Instruments/Review Session Notes/Continuously Compounding Interest.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
     "Attachments/52379f94826f86f7594739890f05da0c.webp",
     "Attachments/048f61335ff9c922572c5901be22acc4.webp",
-    "Attachments/d6666cd09504c40b86ffee13b70c6935.webp",
-    "Attachments/6a62ce0d9081f65a2479b4c80cfb9888.webp",
-    "Attachments/d742d3dadd39c295c43029bf55de52d4.webp",
-    "Attachments/12c8ea71f515a46757a9b857ecf5c925.webp",
-    "Attachments/98d95839d79a04baef5db8a5a07bbba4.webp",
-    "Attachments/93289b74444261d9884fb43cc7e1e171.webp",
-    "Attachments/d96a04f8deba931a2df9f36a3123fc2a.webp",
-    "Attachments/c56e36b1ab2d9e357c7b143781558799.webp",
-    "Financial Instruments/Lecture Notes/Lecture Note 8 American Options.md",
-    "Financial Instruments/Assignments/Financial Instruments Midterm 2022 Solutions.md",
     "Attachments/Fixed-Income-Lecture-Notes.octet-stream",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes",

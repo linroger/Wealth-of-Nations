@@ -1,8 +1,6 @@
 ---
 title: Class Note 1 Borrower-Lender conflicts and implied agency problems
-aliases:
-  - Class Note 1Borrower-Lender conflicts and implied agency problems
-linter-yaml-title-alias: Class Note 1 Borrower-Lender conflicts and implied agency problems
+aliases: [Class Note 1Borrower-Lender conflicts and implied agency problems]
 ---
 
 # Class Note 1 Borrower-Lender conflicts and implied agency problems
@@ -76,9 +74,7 @@ Thefixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit
 
 The levered firm would select project number 2, despite its lower net present value, because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns theupper tail,and is onlyconcerned with thereturns he owns.Note thatno matter how the equity owner values the cash flows if P,he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
 
-This does not mean that firms"want" to go bankrupt.Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase.This canlead the firm to tilt its decisions toward excessivelyrisky projects,with a lower net present value.Potential bondholders canput themselves into the owner's shoes, andtake thisinto account whendeciding what interest rate to charge on thebond.Thelender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the
-
-borrower prefers project 1?
+This does not mean that firms"want" to go bankrupt.Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase.This canlead the firm to tilt its decisions toward excessivelyrisky projects,with a lower net present value.Potential bondholders canput themselves into the owner's shoes, andtake thisinto account whendeciding what interest rate to charge on thebond.Thelender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project1?
 
 The borrower's equity payoff from Project 1 with debt of face F is:
 
@@ -96,11 +92,7 @@ Suppose lenders require an expected return of $r$ for investing in any security 
 
 Risky debt (debt with a positive probability of bankruptcy) distorts capital budgeting decisions It provides incentives to make tradeoffs between cash in bankruptcy and not in bankruptcy that differ from the ones that maximize the value of the firm.
 
-The potential bondholders will require ahigh enough interest rate togive themselves a competitive rate of return, for example $10\%$.Thus, any reductions in the value of the capital budgeting program of the firm will come out of the owner's pockets. If the firm selected too high a leverageratio,it would be giving itself a perverse incentive contract.It would not do this in
-
-------------------------------------------------------------------
-
-the first place, if it had alternatives. Thus, we might not expect a firm to choose a capital structure withasmuch debt as our example if it faced an unobservable choice between these projects.
+The potential bondholders will require ahigh enough interest rate togive themselves a competitive rate of return, for example $10\%$.Thus, any reductions in the value of the capital budgeting program of the firm will come out of the owner's pockets. If the firm selected too high a leverageratio,it would be giving itself a perverse incentive contract.It would not do this in the first place, if it had alternatives. Thus, we might not expect a firm to choose a capital structure withasmuch debt as our example if it faced an unobservable choice between these projects.
 
 This leaves us with some unanswered questions: AHow can these bad effects of debt be reduced? BHow do bank asset services help reduce these bad effects? CIf debt is so bad, why is it so common, especially for smaller firms? Why not use anotherfinancial contract?
 
