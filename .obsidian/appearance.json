@@ -4,7 +4,7 @@
   "textFontFamily": "SF Pro Display,CMU Serif",
   "interfaceFontFamily": "SF Pro Display,SF Pro Rounded",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "translucency": true,
   "enabledCssSnippets": [
     "[ui] Compact Tabs",
