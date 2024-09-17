@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f43d5e0afd91e8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Engineering/Financial Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md"
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md"
               }
             }
           }
@@ -185,20 +198,30 @@
   },
   "active": "e3ae9edd0b79c937",
   "lastOpenFiles": [
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-8.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-7.png",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency-2.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-6.png",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency-1.png",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-5.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-4.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-3.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-2.png",
-    "Attachments/Financial Distress, Reorganization, And Organizational Efficiency-1.png",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+    "Financial Engineering/2._Forwards,_Swaps,_Futures,_and_Options.md",
+    "Financial Engineering/6._IntroStochCalc_A_Brief_Introduction_to_Stochastic_Calculus.md",
+    "Financial Engineering/8._Credit_Modeling_and_Credit_Derivatives.md",
+    "Financial Engineering/5._MeanVariance-CAPM.md",
+    "Financial Engineering/10._Other_Topics_in_Quantitative_Finance.md",
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Financial Engineering/4_image-0.png",
+    "Attachments/4_image_0.png",
+    "Attachments/4_image_1.png",
+    "Attachments/0_image_0.png",
+    "Attachments/6._IntroStochCalc_A_Brief_Introduction_to_Stochastic_Calculus.png",
+    "Attachments/5_image_0.png",
+    "Attachments/1_image_0.png",
+    "Attachments/3_image_0.png",
+    "Attachments/7_image_0.png",
+    "Attachments/13_image_0.png",
+    "Financial Engineering/7._BlackScholesModel.md",
+    "Financial Engineering/9._Introduction_to_Real_Options.md",
+    "Financial Engineering/1. DeterministicCashFlows_meta.json",
+    "Financial Engineering/Financial Engineering.md",
+    "Financial Engineering",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
@@ -213,23 +236,12 @@
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
     "Asset Classes/Asset Classes.md",
-    "HBR Notes/HBR Notes.md",
-    "attachment.md",
-    "Financial Instruments 2024/UChicago Financial Instruments 2024.md",
-    "HBR Notes/Notes on Basic Options Properties.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
     "V. HBR Notes",
-    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
-    "Financial Instruments/Review Session Notes/Arbitrage Opportunity Accounting.md",
-    "Financial Instruments/Review Session Notes/Option Pricing And Implied Volatility.md",
-    "Financial Instruments/Review Session Notes/Continuously Compounding Interest.md",
     "Attachments/Fixed-Income-Lecture-Notes.octet-stream",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets",
     "Attachments/Notes on Basic Options Properties-1.octet-stream",
-    "Attachments/Notes on Basic Options Properties.octet-stream",
-    "HBR Notes/assets/V.-HBR-Notes/Notes-on-Basic-Options-Properties",
-    "HBR Notes/assets/V.-HBR-Notes"
+    "Attachments/Notes on Basic Options Properties.octet-stream"
   ]
 }

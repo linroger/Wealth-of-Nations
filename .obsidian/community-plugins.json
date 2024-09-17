@@ -69,5 +69,6 @@
   "inline-math",
   "make-md",
   "copy-url-in-preview",
-  "github-sync"
+  "github-sync",
+  "unique-attachments"
 ]
