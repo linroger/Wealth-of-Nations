@@ -71,5 +71,6 @@
   "copy-url-in-preview",
   "github-sync",
   "unique-attachments",
-  "swiftlatex-render"
+  "swiftlatex-render",
+  "latex-render"
 ]
