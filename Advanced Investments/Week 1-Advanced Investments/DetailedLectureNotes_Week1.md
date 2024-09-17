@@ -32,7 +32,7 @@ stocks at the end of month t − 1.
 
 Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal probability distribution function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see, broadly speaking, the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero, monthly returns outside the ±15% range are very rare.
 
-![4_image_0.png](4_image_0.png)
+![Financial Distress, Reorganization, And Organizational Efficiency-2.png](Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%201-Introduction%20to%20Financial%20Markets%20and%20Intermediation/Financial%20Distress,%20Reorganization,%20And%20Organizational%20Efficiency%20(attachments)/Financial%20Distress,%20Reorganization,%20And%20Organizational%20Efficiency-2.png)
 
 That said, if we look more closely, this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ±15% range are very rare, they do happen occasionally. Yet according to the normal distribution, the probability of this happening should be extremely close to zero.
 

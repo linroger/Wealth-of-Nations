@@ -96,7 +96,7 @@ T2T1, the forward rates for the first three maturities are determined as follows
 
 $\ln\left(Z(t,T_{0})\right)=\ln\left(Z(t,T_{0})\right)$.
 
-![4_image_0.png](4_image_0.png)
+![Financial Distress, Reorganization, And Organizational Efficiency-2.png](Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%201-Introduction%20to%20Financial%20Markets%20and%20Intermediation/Financial%20Distress,%20Reorganization,%20And%20Organizational%20Efficiency%20(attachments)/Financial%20Distress,%20Reorganization,%20And%20Organizational%20Efficiency-2.png)
 
 (CP) Figure 3 shows the yield and forward curve extracted from the strips, while Figure 4 shows the implicit forecasts from the Strips and the forecasts calculated in question
 (3):
