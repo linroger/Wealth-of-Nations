@@ -81,22 +81,75 @@ This does not mean that firms"want" to go bankrupt. Instead, it is a statement a
 The borrower's equity payoff from Project 1 with debt of face F is:
 
 ```latex
+\documentclass{standalone}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{array}
+
+\begin{document}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Project & Value in D & Value in P & Expected Value & Expected Return \\ \hline
+1       & 500        & 1500       & 1000           & \(\frac{200}{800} = 25\%\) \\ \hline
+2       & 0          & 1551       & 775.5          & \(\frac{-24.5}{800} = -3.06\%\) \\ \hline
+\end{tabular}
+\caption{Project Values and Expected Returns}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hline
+1       & 0              & 1500 - 600 = 900           & 450            \\ \hline
+2       & 0              & 1551 - 600 = 951           & 475.5          \\ \hline
+\end{tabular}
+\caption{Cash Flows to Equity with Debt of 600}
+\end{table}
+
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|l|}
 \hline
 \textbf{Project 1 (Face F)} & 
-$\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F$ for $F \leq 500$ \\
-                            & $\frac{1}{2}(1500 - F)$ for $500 < F \leq 1500$ \\
-                            & 0 for $F > 1500$ \\ 
-                            \hline
+\(\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F\) for \(F \leq 500\) \\
+                            & \(\frac{1}{2}(1500 - F)\) for \(500 < F \leq 1500\) \\
+                            & 0 for \(F > 1500\) \\ \hline
 \textbf{Project 2 (Face F)} & 
-$\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
-                            & 0 for $F > 1551$ \\ 
-                            \hline
+\(\frac{1}{2}(1551 - F)\) for \(F < 1551\) \\
+                            & 0 for \(F > 1551\) \\ \hline
 \end{tabular}
 \caption{Borrower's Equity Payoff}
 \end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|l|}
+\hline
+Payment & Probability      & Probability \(\geq\) Value & Explanation \\ \hline
+2F      & 0.64 \(P^2\)     & 0.64                      & Both pay F  \\ \hline
+F + 1   & 0.32 \(2P(1 - P)\)& 0.96                      & One pays F, one pays 1 \\ \hline
+2       & 0.04 \((1 - P)^2\)& 1.00                      & Both pay 1 \\ \hline
+\end{tabular}
+\caption{Probabilities of Payments and Explanation}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|l|}
+\hline
+Value           & Calculation          & Explanation \\ \hline
+0.19            & \(2.3775 - 2.1875 = 0.19\) & with probability 0.64, when neither loan defaults \\ \hline
+0.00125         & \(2.18875 - 2.1875 = 0.00125\) & with probability 0.32, when one loan defaults \\ \hline
+0               & \(0\) & with probability 0.04, when both loans default \\ \hline
+\end{tabular}
+\caption{Payoff Differences and Associated Probabilities}
+\end{table}
+
+\end{document}
 ```
 
 12 (1500-F) + 12 $1/2\left(1500-F\right)+1/2$ $1/ _{2}\left (1500- \mathrm{F} \right) + 1/ _{2}\left (500- \mathrm{F} \right) = 1000-$F = = (for $F\leq500$ $1/2\left(1500-F\right)+1/2$ (0) (for F between 500 and 1500), 0for $F>1500$
