@@ -16,7 +16,10 @@ Debt holders own the lower tail of the distributionof firm value,and equity owne
 Two projects,the riskier one also has a lower expected return. Each has only two possible outcomes, one if a depression (D), one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 
 ```latex
-\begin{table}[ht]
+\usepackage{amsmath}
+
+\begin{document}
+
 \centering
 \begin{tabular}{|c|c|c|c|c|}
 \hline
@@ -24,10 +27,11 @@ Project & Value in D & Value in P & Expected Value & Expected Return \\
 \hline
 1       & 500        & 1500       & 1000           & $\frac{200}{800} = 25\%$ \\ 
 \hline
-2       & 0          & 1551       & 775.5          & $\frac{-24.5}{800} = -3.06\%$ \\ \hline
+2       & 0          & 1551       & 775.5          & $\frac{-24.5}{800} = -3.06\%$ \\ 
+\hline
 \end{tabular}
-\caption{Project Values and Expected Returns}
-\end{table}
+
+\end{document}
 ```
 
 ```embed
@@ -76,7 +80,7 @@ This does not mean that firms"want" to go bankrupt. Instead, it is a statement a
 
 The borrower's equity payoff from Project 1 with debt of face F is:
 
-```latexsvg
+```latex
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|l|}
@@ -96,13 +100,13 @@ $\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
 ```
 
 12 (1500-F) + 12 $1/2\left(1500-F\right)+1/2$ $1/ _{2}\left (1500- \mathrm{F} \right) + 1/ _{2}\left (500- \mathrm{F} \right) = 1000-$F = = (for $F\leq500$ $1/2\left(1500-F\right)+1/2$ (0) (for F between 500 and 1500), 0for $F>1500$
-
-The borrower's equity payoff from Project 2 with debt of face F is: $1/_{2}(1551-F)+1/_{2}(0)$ (for $F<1551$
+|  |
+| The borrower's equity payoff from Project 2 with debt of face F is: $1/_{2}(1551-F)+1/_{2}(0)$ (for $F<1551$ |
 
 0 (for $F>$ F> $F>1551$)
-
-The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity.
-
+|  |
+| | The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity. | |
+| |  | |
 For $F<500$,Project 1 is preferred for all F that satisfy $\geq$ 21000 - F$\geq$ 1/2(1551 -F),which solves out to $F\leq 449$. As a result, 449 is the debt capacity in face value.
 
 Suppose lenders require an expected return of $r$ for investing in any security of the firm. If the firm issued debt with face value 448 debt, it would choose Project 1, and then the debt could raise up to $\frac{448}{1+r}$ Prj lender if it does not help himself.)If the firm issued debt with face $F>449$,it would lead to project an increase $\frac{1/2\mathrm{F}\:+\:1/2(0)}{1+\mathrm{r}}$.
