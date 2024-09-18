@@ -49,9 +49,8 @@ We could get fancy and use the states model to take account of the positive"beta
 
 Clearly, project 1 is the best investment. An owner-managed firm with no debt would select it,. since all require the same initial outlay.
 
- 2.What about a firm with debt with face $s600$ in place?
-
-Thefixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
+ 2.What about a firm with debt with face $s=600$ in place?
+The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
 
 <table>
 	<tbody>
