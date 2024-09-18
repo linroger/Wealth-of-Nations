@@ -15,9 +15,7 @@ Debt holders own the lower tail of the distributionof firm value,and equity owne
 
 Two projects,the riskier one also has a lower expected return. Each has only two possible outcomes, one if a depression (D), one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 
-```latexsvg
-\documentclass{article}
-\begin{document}
+```latex
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|c|c|c|c|}
@@ -30,7 +28,6 @@ Project & Value in D & Value in P & Expected Value & Expected Return \\
 \end{tabular}
 \caption{Project Values and Expected Returns}
 \end{table}
-\end{document}
 ```
 ```embed
 title: "Fetching"
