@@ -24,12 +24,9 @@
             "id": "e3ae9edd0b79c937",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "/"
               }
             }
           },
@@ -122,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -199,6 +192,7 @@
   },
   "active": "e3ae9edd0b79c937",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "svg-cache",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
     "Financial Engineering/5._MeanVariance-CAPM.md",
@@ -225,7 +219,6 @@
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Review Session Notes/Binomial Trees and Option Pricing MBA.md",
@@ -243,7 +236,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets",
-    "Attachments/Notes on Basic Options Properties-1.octet-stream",
-    "Attachments/Notes on Basic Options Properties.octet-stream"
+    "Attachments/Notes on Basic Options Properties-1.octet-stream"
   ]
 }
