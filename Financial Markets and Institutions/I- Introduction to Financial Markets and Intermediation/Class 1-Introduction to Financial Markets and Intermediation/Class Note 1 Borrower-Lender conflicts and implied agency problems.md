@@ -17,20 +17,19 @@ Two projects,the riskier one also has a lower expected return. Each has only two
 
 ```latexsvg
 \documentclass{article}
-\usepackage{amsmath} % For handling advanced math features like \frac
 \begin{document}
-
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|c|c|c|c|}
 \hline
-Project & Value in D & Value in P & Expected Value & Expected Return \\ \hline
-1       & 500        & 1500       & 1000           & $\frac{200}{800} = 25\%$ \\ \hline
+Project & Value in D & Value in P & Expected Value & Expected Return \\ 
+\hline
+1       & 500        & 1500       & 1000           & $\frac{200}{800} = 25\%$ \\ 
+\hline
 2       & 0          & 1551       & 775.5          & $\frac{-24.5}{800} = -3.06\%$ \\ \hline
 \end{tabular}
 \caption{Project Values and Expected Returns}
 \end{table}
-
 \end{document}
 ```
 ```embed
@@ -80,7 +79,8 @@ This does not mean that firms"want" to go bankrupt. Instead, it is a statement a
 
 
 The borrower's equity payoff from Project 1 with debt of face F is:
-```latex
+
+```latexsvg
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|l|}
@@ -88,14 +88,17 @@ The borrower's equity payoff from Project 1 with debt of face F is:
 \textbf{Project 1 (Face F)} & 
 $\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F$ for $F \leq 500$ \\
                             & $\frac{1}{2}(1500 - F)$ for $500 < F \leq 1500$ \\
-                            & 0 for $F > 1500$ \\ \hline
+                            & 0 for $F > 1500$ \\ 
+                            \hline
 \textbf{Project 2 (Face F)} & 
 $\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
-                            & 0 for $F > 1551$ \\ \hline
+                            & 0 for $F > 1551$ \\ 
+                            \hline
 \end{tabular}
 \caption{Borrower's Equity Payoff}
 \end{table}
 ```
+
 12 (1500-F) + 12 $1/2\left(1500-F\right)+1/2$ $1/ _{2}\left (1500- \mathrm{F} \right) + 1/ _{2}\left (500- \mathrm{F} \right) = 1000-$F = = (for $F\leq500$ $1/2\left(1500-F\right)+1/2$ (0) (for F between 500 and 1500), 0for $F>1500$
 
   
