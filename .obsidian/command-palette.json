@@ -5,6 +5,7 @@
     "copy-as-latex:copy-as-latex",
     "markdown:add-alias",
     "obsidian-text-format:hyphen",
-    "obsidian-linter:lint-all-files"
+    "obsidian-linter:lint-all-files",
+    "obsidian-linter:lint-file"
   ]
 }
