@@ -8,15 +8,11 @@ linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 
 %% Begin Waypoint %%
 - **[[Fixed Income Lecture Notes]]**
-	- **assets**
-		- **[[Fixed-Income-Lecture-Notes]]**
-			- [[Fixed-Income-Lecture-Notes]]
-			- [[Inflation Swaps]]
-			- **[[Untitled]]**
-				- [[Untitled]]
 	- [[Fixed Income Lecture Notes]]
 	- [[Inflation Swaps]]
 	- [[Introduction]]
+	- **Teaching Note 1 Introduction To Fixed Income Securities (attachments)**
+		- [[CleanShot 2024-09-19 -002793@2x]]
 	- [[Teaching Note 1 Introduction To Fixed Income Securities]]
 	- [[Teaching Note 2- Interest Rate Risk Management And Factors]]
 	- [[Teaching Note 3 Understanding The Term Structure Of Interest Rates]]

@@ -60,6 +60,27 @@
             }
           },
           {
+            "id": "f488fbfcd5cbe6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70dcd29e65b8d9ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "e3ae9edd0b79c937",
             "type": "leaf",
             "state": {
@@ -83,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md"
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md"
               }
             }
           }
@@ -226,11 +247,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9d3fe2cf1342c859",
+  "active": "f488fbfcd5cbe6c7",
   "lastOpenFiles": [
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Inflation Swaps.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
+    "Attachments/Teaching Note 1 Introduction To Fixed Income Securities.png",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Fixed-Income-Lecture-Notes.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled/Untitled.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Inflation Swaps.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
     "Attachments/PSET 5 Solution-1.png",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 3 Understanding The Term Structure Of Interest Rates.md",
     "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
@@ -242,12 +270,9 @@
     "svg-cache/PSET 2 Solution-2.png",
     "svg-cache/PSET 2 Solution-1.svg",
     "svg-cache/PSET 2 Solution-1.png",
-    "svg-cache/PSET 2 Solution.svg",
     "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
     "Financial Instruments/Assignments/PSET 1-Financial Instruments.md",
@@ -261,10 +286,7 @@
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39 1.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.37.16.png.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39.md",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/CleanShot 2024-09-19 -002780@2x.png.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
-    "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
-    "Financial Instruments/Assignments/Solutions/htt.md",
     "Financial Instruments/Assignments/Solutions",
     "svg-cache",
     "Financial Engineering/1. DeterministicCashFlows_meta.json",
@@ -272,7 +294,6 @@
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)",
     "V. HBR Notes",
     "Attachments/Fixed-Income-Lecture-Notes.octet-stream",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes"
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Untitled"
   ]
 }
