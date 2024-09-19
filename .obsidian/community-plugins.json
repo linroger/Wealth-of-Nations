@@ -38,7 +38,6 @@
   "current-file",
   "double-click-tab",
   "broken-links",
-  "import-attachments-plus",
   "folders2graph",
   "obsidian-paste-image-rename",
   "media-sync",
@@ -50,9 +49,9 @@
   "unique-attachments",
   "swiftlatex-render",
   "latex-render",
-  "consistent-attachments-and-links",
   "obsidian-image-toolkit",
   "obsidian-image-caption",
   "md-image-caption",
-  "custom-save"
+  "custom-save",
+  "image-inline"
 ]
