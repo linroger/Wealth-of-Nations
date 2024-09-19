@@ -71,8 +71,7 @@ Table 2 reports the resulting slopes for this position:
 \end{tabular}
 \end{document}
 ```
-
-### Table 2: Slope when holding $N$ underlying securities for different values of $S_{T}$
+Table 2: Slope when holding $N$ underlying securities for different values of $S_{T}$
 
 So.the pavoff of the PLUS can be rewritten as
 
@@ -87,37 +86,38 @@ The PLUS security is long $e^{-y}N$ units of the underlying index. $2N$ units of
 	$$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$
 	Hence:
 $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
-- (c) Adjust the parameters to obtain a value equal to the issue price. In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the $({\mathit{DTM}}$ option by decreasing the maximum payoff currently set at 11.9. Let $C$ be the maximum payoff.Changing this value implicitly changes the strike price, $K_{1}$ , of the OTM option. The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5,268.42$ .By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
+- (c) Adjust the parameters to obtain a value equal to the issue price. In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the $({\mathit{DTM}}$ option by decreasing the maximum payoff currently set at 11.9.
+- Let $C$ be the maximum payoff.
+	- Changing this value implicitly changes the strike price, $K_{1}$ , of the OTM option. 
+	- The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5,268.42$ .
+	- By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
 ![](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
 Figure 4: PLUS payoff change with $C=11.61$
 
 (2) The sensitivity of the PLUS to changes in the underlying is given by
-
 $$\begin{aligned}
 \frac{\partial V^{PLUS}}{\partial S}& =\:\frac{\partial N\cdot\left\lfloor S+2\cdot c^{ATM}-3\cdot c^{OTM}\right\rfloor}{\partial S}=  \\
 &=\quad N\cdot\left[\frac{e^{-y}\partial S}{\partial S}+2\cdot\frac{\partial c^{ATM}}{\partial S}-3\cdot\frac{\partial c^{OTM}}{\partial S}\right]= \\
-&\text{=}& N\cdot\left[e^{-y}+2\cdot e^{-y}N\left(d_{1}^{ATM}\right)-3\cdot e^{-y}N\left(d_{1}^{OTM}\right)\right]
+&\text{=} N\cdot\left[e^{-y}+2\cdot e^{-y}N\left(d_{1}^{ATM}\right)-3\cdot e^{-y}N\left(d_{1}^{OTM}\right)\right]
 \end{aligned}$$
-
 remember that $d_{1}$ is a function of S and $K$ is given by
 
 $$d_1(S,K)=\frac{ln\left(\frac{S}{K}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
 So
-$$d_1^{ATM}=d_1(S,S_0)=\frac{ln\left(\frac{S}{S_0}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}d_1^{OTM}=d_1(S,K_1)=\frac{ln\left(\frac{S}{K_1}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
-
-for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{ATM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$ . Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$ . (In this calculation I used the appropriate implied volatility fo each option.)
-
+$$
+d_1^{ATM}=d_1(S,S_0)=\frac{ln\left(\frac{S}{S_0}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}
+$$
+$$d_1^{OTM}=d_1(S,K_1)=\frac{ln\left(\frac{S}{K_1}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}
+$$
+- for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{ATM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$ . 
+- Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$ . (In this calculation I used the appropriate implied volatility fo each option.)
 To compute the beta of the PLUS, use the formula
-
 $$\beta^{PLUS}=\frac{\frac{dV^{PLUS}}{V^{PLUS}}}{\frac{dS}{S}}=\frac{dV^{PLUS}}{dS}\cdot\frac{S}{V^{PLUS}}=0.0020\cdot\frac{S}{V^{PLUS}}$$
-
 that results in
-
 $$\beta^{PLUS}=0.0020\cdot\frac{5000.57}{10.114}=0.88$$
-
 which is less than 1. At the current level of the S&P500 the security is less risky than the S&P500 itself
 
-Computing the value of betafor different values of S (keeping the same impliec volatilities used to compute option prices)and for different times to maturity(see Figure 5)，we see that as we approach maturity, the beta of the PLUS increases substantially in the region between $S_{0}$ and $K_{1}$
+Computing the value of beta for different values of S (keeping the same impliec volatilities used to compute option prices)and for different times to maturity(see Figure 5)，we see that as we approach maturity, the beta of the PLUS increases substantially in the region between $S_{0}$ and $K_{1}$
 
 This happens because between $S_{0}$ and $K_{1}$ the PLUS security is a leveraged investment (the slope of the payoff increases in that region since the at the money option becomes in the money).In may be helpful to see how the value of the security changes when the value of the underlying changes at different points in time. This is shown in Figure 6.
 ![](https://storage.simpletex.cn/view/fVxbI04IrEmodiRsPg8SrO1QQAOO0aALB)
