@@ -45,8 +45,15 @@ $S_T > K_1$            & 0                                       \\ \hline
 
 
 
-```LaTeX
+```latex
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{hyperref}
+
 \begin{document}
+
+% First Table
 \begin{table}[ht]
 \centering
 \begin{tabular}{|c|c|}
@@ -58,6 +65,7 @@ $S_T > K_1$            & 0                                       \\ \hline
 \end{tabular}
 \caption{Slope of the PLUS for different values of $S_T$}
 \end{table}
+
 \end{document}
 ```
 We see that there are two points where the slope changes. The first point is S0, while the second is where:
