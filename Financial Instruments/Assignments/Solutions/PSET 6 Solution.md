@@ -16,7 +16,7 @@ As you can see the volatility is not constant, but it is decreasing with the mon
 
 ## 2. Valuing And Analyzing A Structured Security
 
-( 1) In order to value the PLUS follow these steps:
+(1) In order to value the PLUS follow these steps:
 
 (a) Decompose the PLUS payoff into simpler securities.
 The payoff of the PLUS security at maturity is $$\pi(T)=\left\{\begin{array}{cc}min\left[10+10\times3\times\left(\frac{S_T-S_0}{S_0}\right).9\right]&if\,S_T>S_0\\ 10\times\frac{S_T}{S_0}&if\,S_T\leq S_0\end{array}\right.$$.
@@ -26,7 +26,8 @@ N =
 S0 be the number of units of the index determined by this part of the payoff. With the S&P500 at 5,000.57 N = 0.0020
 Finding the payoff for the case when ST *> S*0 is simpler than it first appears.
 
-The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST .
+The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST.
+
 ```typst
 #table(
   columns: 2,
@@ -39,37 +40,6 @@ The trick is to plot the payoff and to analyze the chart to determine the basic 
 )
 ```
 
-```latex
-\documentclass{standalone}
-\usepackage{amsmath}
-\begin{document}
-\begin{table}[ht]
-\centering
-\begin{tabular}{|c|c|}
-\hline
-A & B \\ \hline
-1 & 2 \\ \hline
-\end{tabular}
-\caption{Sample Table}
-\end{table}
-\end{document}
-```
-
-
-
-```latex
-\usepackage{tikz}
-\begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
-    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
-    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
-    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
-    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
-    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
-  \end{tikzpicture}
-\end{document}
-```
 We see that there are two points where the slope changes. The first point is S0, while the second is where:
 
 $$10+10\times3\times{\frac{S_{T}-S_{0}}{S_{0}}}=11.9$$
@@ -97,13 +67,15 @@ So, the payoff of the PLUS can be rewritten as
 $$\pi(T)=N\cdot[S_{T}+2\cdot m a x(S_{T}-S_{0})-3\cdot m a x(S_{T}-K_{1})]$$
 The PLUS security is long e−yN units of the underlying index, 2N units of an at the money call option and short 3N units of a call option with strike price K1.
 
-(b) Use the Black and Scholes model to price the identified simpler securities. 
+(b) Use the Black and Scholes model to price the identified simpler securities.
+
 - Assuming the PLUS was issued on February 18, 2024, N = 0.0020 and K1 = 5, 317.27. To price the at the money option I use the implied volatility for a February 2025 call option with strike equal to 5000: σATM = 17.2%. For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: σOTM = 15.1%. The prices of the options are:
-	- $c^{ATM}=418.26$ and $c^{OTM}=235.01$. 
+	- $c^{ATM}=418.26$ and $c^{OTM}=235.01$.
 Hence:
 
 $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
-3. **Adjust the parameters to obtain a value equal to the issue price.** 
+3. **Adjust the parameters to obtain a value equal to the issue price.**
+
 - In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the *OTM* option by decreasing the maximum payoff currently set at 11.9.
 Let C be the maximum payoff.
 Changing this value implicitly
@@ -118,7 +90,7 @@ $$d_{1}^{ATM}=d_{1}(S,S_{0})=\frac{ln\left(\frac{S}{S_{0}}\right)+\left(r-y+\fra
 $$d_{1}^{OTM}=d_{1}(S,K_{1})=\frac{ln\left(\frac{S}{K_{1}}\right)+\left(r-y+\frac{\sigma^{2}}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
 ∂V P LUS
 
-for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{MTM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$. Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$. (In this calculation I used the appropriate implied volatility for 
+for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{MTM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$. Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$. (In this calculation I used the appropriate implied volatility for
 ∂S
 = 0.00177. (In this calculation I used the appropriate implied volatility for each option.)
 To compute the beta of the PLUS use the formula

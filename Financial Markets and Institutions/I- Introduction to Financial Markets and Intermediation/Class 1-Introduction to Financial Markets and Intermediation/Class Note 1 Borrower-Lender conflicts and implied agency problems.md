@@ -51,29 +51,17 @@ Clearly, project 1 is the best investment. An owner-managed firm with no debt wo
 
  2.What about a firm with debt with face $s=600$ in place?
 The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
+```latex
+\begin{document}
+\begin{tabular}{|c|c|c|c|}
+\hline
+Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hline
+1       & 0              & 1500 - 600 = 900            & 450            \\ \hline
+2       & 0              & 1551 - 600 = 951            & 475.5          \\ \hline
+\end{tabular}
+\end{document}
+```
 
-<table>
-	<tbody>
-		<tr>
-			<th>Project #</th>
-			<th>Cash flow if D</th>
-			<th>Cash flow if P</th>
-			<th>Expected value</th>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>0</td>
-			<td>1500-600=900</td>
-			<td>450</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>0</td>
-			<td>1551-600=951</td>
-			<td>475.5</td>
-		</tr>
-	</tbody>
-</table>
 The levered firm would select project number 2, despite its lower net present value, because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
 
 This does not mean that firms"want" to go bankrupt. Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,with a lower net present value. Potential bondholders can put themselves into the owner's shoes, and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project 1?
@@ -113,8 +101,8 @@ Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hlin
 $\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F$ for $F \leq 500$ \\
                             & $\frac{1}{2}(1500 - F)$ for $500 < F \leq 1500$ \\
                             & 0 for $F > 1500$ \\ \hline
-\textbf{Project 2 (Face F)} & 
-$\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
+| \textbf{Project 2 (Face F)} &  |
+| $\frac{1}{2}(1551 - F)$ for $F < 1551$ \\ |
                             & 0 for $F > 1551$ \\ \hline
 \end{tabular}
 \caption{Borrower's Equity Payoff}
@@ -125,8 +113,8 @@ $\frac{1}{2}(1551 - F)$ for $F < 1551$ \\
 \begin{tabular}{|c|c|c|l|}
 \hline
 Payment & Probability      & Probability $\geq$ Value & Explanation \\ \hline
-2F      & 0.64 $P^2$     & 0.64                      & Both pay F  \\ \hline
-F + 1   & 0.32 $2P(1 - P)$& 0.96                      & One pays F, one pays 1 \\ \hline
+| 2F      & 0.64 $P^2$     & 0.64                      & Both pay F  \\ \hline |
+| F + 1   & 0.32 $2P(1 - P)$& 0.96                      & One pays F, one pays 1 \\ \hline |
 2       & 0.04 $(1 - P)^2$& 1.00                      & Both pay 1 \\ \hline
 \end{tabular}
 \caption{Probabilities of Payments and Explanation}
