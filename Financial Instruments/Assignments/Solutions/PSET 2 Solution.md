@@ -23,11 +23,9 @@ $$Z=C^{-1}P$$
 Note that the $P$ vector is made up of the invoice or dirty prices. Here,  the securities are handpicked to have zero accrued interest,  so this simplifies. The calculations below take the price to be the mean of the bid and ask quotes.
 (PP) Use the bond data as of February 17,  2009,  and applying formulas on page 48 from TN 1,  the bootstrapped yields to maturity for maturity 0.5,  1,  and 1.5 are calculated as follows:
 $$\begin{aligned}
-&\text{Caicuiaticu tas 10110WD.} \\
 &Z(0,  0.5)={\frac{P^{1}(0,  0.5)}{1+{\frac{c^{1}}{2}}}}={\frac{1.0150}{1+{\frac{0.035}{2}}}}=0.9975 \\
 &Z(0,  1)={\frac{P^{2}(0,  1)-{\frac{c^{2}}{2}}Z(0,  0.5)}{1+{\frac{c^{2}}{2}}}}={\frac{1.0291-{\frac{0.035}{2}}0.9975}{1+{\frac{0.035}{2}}}}=0.9942 \\
-&Z(0,  1.5)=\frac{P^{3}(0,  1.5)-\frac{c^{3}}{2}(Z(0,  0.5)+Z(0,  1))}{1+\frac{c^{3}}{2}}=\frac{1.0522-\frac{0.0413}{2}(0.9975+0.9942)}{1+\frac{0.0413}{2}}= \\
-&0.9907
+&Z(0,  1.5)=\frac{P^{3}(0,  1.5)-\frac{c^{3}}{2}(Z(0,  0.5)+Z(0,  1))}{1+\frac{c^{3}}{2}}=\frac{1.0522-\frac{0.0413}{2}(0.9975+0.9942)}{1+\frac{0.0413}{2}}= 0.9907
 \end{aligned}$$
 Where the bond prices are determined as the average of bid and ask values.
 (CP) Table 1 displays the data from the selected securities. We show the difference in term structure depending on the type of securities used. The left panels show the bonds that were issued most recently (“new bonds“),  while the right panel shows the bonds that were issued long ago. The column type is 2 for a note and 1 for a bond.
@@ -71,9 +69,13 @@ Table 1: Securities used in Bootstrap
 \end{tabular}
 \end{document}
 ```
+
+
+%%caption![](https://storage.simpletex.cn/view/ff2ZSGmy0NZgg8nslPSF36PDEMxs3ARmc)
 Figure 1: Zero Coupon Discount Curves
-![](https://storage.simpletex.cn/view/ff2ZSGmy0NZgg8nslPSF36PDEMxs3ARmc)
-![](https://storage.simpletex.cn/view/frkXwNpZpG1RX0Oaq3k94sVV3motESwTt)
+%%caption![](https://storage.simpletex.cn/view/frkXwNpZpG1RX0Oaq3k94sVV3motESwTt)
+Figure 2: Zero Coupon Yield Curves
+
 2. (PP) The value of the Leveraged Inverse Floater can be computed as follows. The coupon rate at any time $t$ is given by
 $$c(T_i)=10\%-2\times r_2(T_{i-1})$$
 The investor who is long the Leveraged Inverse Floater receives a $10\%$ fixed coupon and pays “floating" at the rate that is twice the floating six-month T-bill rate (six months lag). At maturity,  in addition,  the investor will receive the principal. Therefore,  it is as if the investor is long one $10\%$ coupon bond with five-year maturity and short 2 floating rate bonds with five-year maturity. This combination ensures receiving a cash flow over time identical to (1). However,  such a position would imply an outflow of the principal at maturity,  instead of an inflow. It follows that we need to add two zero-coupon bonds with five-year maturity to exactly mimic all of the cash flows from the Leveraged Inverse Floater.
