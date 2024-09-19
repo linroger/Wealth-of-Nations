@@ -21,6 +21,32 @@ Figure 1: Stock price tree
 
 Given the tree in Figure (1) we can compute option payoff at period $i=2$，a 8 represented in Figure (2)
 ![](https://storage.simpletex.cn/view/ff1S4VLcHlx0cOyDGCalKPhKElGbmD8Ge)
+```latex
+\usetikzlibrary{arrows.meta, positioning}
+\begin{document}
+\begin{tikzpicture}[
+    node distance=1.5cm and 2cm,
+    every node/.style={font=\footnotesize},
+    box/.style = {draw, rectangle, align=center},
+    arrow/.style={-{Stealth}}
+  ]
+  \node[box] (S0) {$S_0 = 100$ \\ $\Delta_0 = 0.7732$ \\ $B_0 = -66.9474$ \\ $c_0 = 10.3768$};
+  \node[box, above right=of S0] (Su) {$S_u = 110$ \\ $\Delta_u = 1.0000$ \\ $B_u = -95.2381$ \\ $c_u = 14.7619$};
+  \node[box, below right=of S0] (Sd) {$S_d = 90.9091$ \\ $\Delta_d = 0.0000$ \\ $B_d = 0.0000$ \\ $c_d = 0.0000$};
+  \node[box, above right=of Su] (Suu) {$S_{u.u} = 121.0000$ \\ $c_{u.u} = 21.0000$};
+  \node[box, below right=of Su] (Sud) {$S_{u.d} = 100.0000$ \\ $c_{u.d} = 0.0000$};
+  \node[box, above right=of Sd] (Sdu) {$S_{d.u} = 100.0000$ \\ $c_{d.u} = 0.0000$};
+  \node[box, below right=of Sd] (Sdd) {$S_{d.d} = 82.6446$ \\ $c_{d.d} = 0.0000$};
+  \draw[arrow] (S0) -- (Su);
+  \draw[arrow] (S0) -- (Sd);
+  \draw[arrow] (Su) -- (Suu);
+  \draw[arrow] (Su) -- (Sud);
+  \draw[arrow] (Sd) -- (Sdu);
+  \draw[arrow] (Sd) -- (Sdd);
+\end{tikzpicture}
+\end{document}
+```
+
 Figure 2: Option value tree
 We can thenwork backward in the tree and determine the position tobe invstec in stock and in bonds at each node that allow to replicate the period $i=2$ payoffs of the stock. For example in node"up",  at period $i=1$，wefind
 $$\triangle_{u}=\frac{c_{u\cdot u}-c_{u\cdot d}}{S_{u\cdot u}-S_{u\cdot d}}=1.000$$
@@ -30,82 +56,11 @@ A summary of all the relevant quantities are reported in Figure (3).
 ![](https://storage.simpletex.cn /view/fXze865NHkKZt4F7bxFqY3TnsnMghqRMV)
 Figure 3: Summary tree
 b）Table (1) reports the period $i=0$ value of the replicating portfolio $V_{0}^{R}$ for different values of $S_{0}$
-<table>
-	<tbody>
-		<tr>
-			<th>$S_0$</th>
-			<th>$V_0^{RP}$ $(S_0)$ 1</th>
-			<th>$dS$</th>
-			<th>${\mathrm{d}}V_{0}^{RP}$</th>
-		</tr>
-		<tr>
- 			<td>90</td>
-			<td>4.3978< /td>
-			<td>-10</td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td>92</td>
-			<td>5.5936</td>
-			<td>-8</td>
-			<td>1.1958</td>
-		</tr>
-		<tr>
-			<td>94</td>
-			<td>6.7894</td>
-			<td>-6</td>
-			<td>1.1958</td>
-		</tr>
-		<tr>
-			<td>96</td>
-			<td>7.9852</td>
-			<td>-4<td>
-			<td>1.1958</td>
-		</tr>
-		<tr>
-			<td>98</td>
-			<td>9.7789</td>
-			<td>-2 </td>
-			<td>1.1958</td>
-		</tr>
-		<tr>
-			<td>100</td>
-			<td>10.3768</td>
-			<td>0</td>
-			<td>1.1958</td>
-		</tr>
-		<tr>
-			<td>102</td>
-			<td>12.2740</td>
-			<td>2</td>
-			<td>1.8972</td>
-		</tr>
-		<tr>
-			<td>104</td>
-			<td>14.1712</td>
-			<td>4</td>
-			<td>1.8972</td>
-		</tr>
-		<tr>
-			<td>106</td>
-			<td>16.0683</td>
-			<td>6</td>
-			<td>1.8972</td>
-		</tr>
-		<tr>
-			<td>108</td>
-			<td>17.9655</td>
-			<td>8</td>
-			<td>1.8972</td>
-		</tr>
-		<tr>
-			<td>110</td>
-			<td>19.8627</td>
-			<td>10</td>
-			<td>1.8972</td>
-		</tr>
-	</tbody>
-</table>
+
+```latex
+
+```
+
 Table 1: Value of the replicating portfolio as a function of $S_{0}V^{RP}\left(S_{0}\right)$
 1. The change in value of the portfolio is constant for values of $S_{0}$ below 100
 and again constant but at a higher value for values of $S_{0}$ above 100. As a result the relationship between the option price and the current stock prices is convex. Figure (4) reports this result.
@@ -126,9 +81,8 @@ $$\triangle_0\cdot S_d+B_0\cdot(1+r)=V_d^{RP}=\triangle_d\cdot S_{1, 2}+B_d=0$$
 $$\begin{array}{rcl}S_0\cdot u&=&CG+D\\\\&=&S_0\cdot u\cdot(1-y)+S_ 0\cdot u\cdot y\end{array}$$
 Therefore,  in case of an up-movement,  the period $i=1$ stock price $S_{u}$ (after dividend) w ill be equal to $S_{u}=S_{0}\cdot u\cdot(1-y)=100\cdot1.1\cdot(- 0.05)=104.5000$ In the same way,  in case of a down-movement,  th period $i=1$ stock price (again
 --------------------------------------------------------- ---------
-after dividend) will be $S_{d}=\:S_{0}\cdot d\cdot(1-y)=\:100\cdot\frac{1}{1.1}\cdot(1-0.05)=\:86.3636$ 
-
-What happens next? The t ock pricewill still have gross return of either $u$ OI d. Figure (5) shows the new tree for thestock price.
+after dividend) will be $$S_{d}=\:S_{0}\cdot d\cdot(1-y)=\:100\cdot\frac{1}{1.1}\cdot(1-0.05)=\:86.3636$$
+What happens next? The stock price will still have gross return of either $u$ OI d. Figure (5) shows the new tree for thestock price.
 ![](htps:/ /storage.simpletex.cn/view /fad2pg019l9rLKAmwRXDU51YeY Ab5K3cZ)
 Figure 5: Stock price tree in case of a $5\%$ dividend yield paid at $i=1$
 Note that at period $i=2$ the tree is r ecombining,  that is $S_{u\  cdot d}=S_{d\cdot u}=95$ Given the stock price tree shown in Figure (5),  we can compute the option payoffs at period $i=2$.We get
@@ -151,7 +105,7 @@ Figure (6) shows a summary of all relevant quantities in case of a $5\%$ dividen
 ![](https://storage.simpl etex.cn/view/fPf8Gga1cOes7 99bkFFgiq8HscnEGe7V)
 Figure 6: Summary tree in case of $5\%$ dividend yield paid at $i=1$
 (f）To compute the option price in case of a fixed dollar dividend,  we can apply the same logic as in point (1. E). The only difference tho ugh is that the tree does not recombine at period $i=2$.Figure (7) presents a ummary tree,  which shows that the option value in this case is $c_{0}=7.6591$
-![](htt ps://storage.simpletex.cn/view/faqCthGF2N720UTAANTWtwkIkF3fchDpM)
+![](https://storage.simpletex.cn/view/faqCthGF2N720UTAANTWtwkIkF3fchDpM)
 Figure 7: Summary tree in case of a 5 dollars constant dividend paid at $i=1$
 ------------------------------------------------------------------
 ### Part 2 - Black and Scholes (and Merton) Formula
