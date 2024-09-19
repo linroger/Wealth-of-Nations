@@ -37,9 +37,12 @@
             "id": "360eee85fad9fe14",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md"
               }
             }
           }
@@ -210,13 +213,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3a6949787587c00c",
+  "active": "360eee85fad9fe14",
   "lastOpenFiles": [
+    "Attachments/PSET 5 Solution-1.png",
     "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "svg-cache/PSET 5 Solution-13.svg",
     "svg-cache/PSET 5 Solution-12.png",
-    "Attachments/PSET 5 Solution-1.png",
     "svg-cache/10e533ac9fe2491707441e729faa8acc.svg",
     "svg-cache/PSET 5 Solution-12.svg",
     "svg-cache/PSET 5 Solution-11.png",
