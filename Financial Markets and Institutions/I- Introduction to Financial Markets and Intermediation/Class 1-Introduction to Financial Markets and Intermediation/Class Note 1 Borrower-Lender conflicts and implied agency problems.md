@@ -5,11 +5,11 @@ aliases: [Class Note 1Borrower-Lender conflicts and implied agency problems]
 
 # Class Note 1 Borrower-Lender conflicts and implied agency problems
 
-The amount of leverage has an impact on the incentives of someone who maximizes the value. of the residual equity claim.This“asset substitution theory”is a popular theory of capital structure, but it is not too plausible for large firms. It makes the most sense for owner managed. firms, where the manager is the stockholder. If the owner and manager differ, one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the. owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some financial institutions that have government deposit insurance.
+The amount of leverage has an impact on the incentives of someone who maximizes the value of the residual equity claim. This“asset substitution theory”is a popular theory of capital structure, but it is not too plausible for large firms. It makes the most sense for owner-managed firms, where the manager is the stockholder. If the owner and manager differ, one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some financial institutions that have government deposit insurance.
 
 The example illustrates how divided ownership of different parts of the cash flow distribution. distorts capital budgeting decisions.
 
-Debt holders own the lower tail of the distributionof firm value,and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm)..
+Debt holders own the lower tail of the distribution of firm value, and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm).
 
 ### 1.No debt
 
@@ -67,7 +67,7 @@ The levered firm would select project number 2, despite its lower net present va
 
 This does not mean that firms"want" to go bankrupt. Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,with a lower net present value. Potential bondholders can put themselves into the owner's shoes, and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project 1?
 
-The borrower's equity payoff from Project 1 with debt of face F is:
+The borrower's equity payoff from Project 1 and 2 with debt of face F is:
 ```latex
 \begin{document}
 \renewcommand{\arraystretch}{1.5} % Adjust the height for better spacing
@@ -83,13 +83,9 @@ The borrower's equity payoff from Project 1 with debt of face F is:
 \end{document}
 ```
 
-The borrower's equity payoff from Project 2 with debt of face F is: $1/_{2}(1551-F)+1/_{2}(0)$ (for $F<1551$ |
-
-0 (for $F>$ F> $F>1551$)
-| |
-| | The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity. | |
-| | | |
-For $F<500$,Project 1 is preferred for all F that satisfy $\geq$ 21000 - F$\geq$ 1/2(1551 -F),which solves out to $F\leq 449$. As a result, 449 is the debt capacity in face value.
+ The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity.
+- For $F<500$,Project 1 is preferred for all F that satisfy $\geq$ 21000 - F $\geq$ 1/2(1551 -F),which solves out to $F\leq 449$. 
+- As a result, 449 is the debt capacity in face value.
 
 Suppose lenders require an expected return of $r$ for investing in any security of the firm. If the firm issued debt with face value 448 debt, it would choose Project 1, and then the debt could raise up to $\frac{448}{1+r}$ Prj lender if it does not help himself.)If the firm issued debt with face $F>449$,it would lead to project an increase $\frac{1/2\mathrm{F}\:+\:1/2(0)}{1+\mathrm{r}}$.
 
