@@ -42,18 +42,16 @@ The trick is to plot the payoff and to analyze the chart to determine the basic 
 
 
 ```latex
+\usepackage{tikz}
 \begin{document}
-\begin{table}[ht]
-\centering
-\begin{tabular}{|c|c|}
-\hline
-\textbf{Range}         & \textbf{Slope}                          \\ \hline
-$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
-$S_0 < S_T \leq K_1$   & $3 \times N = 0.0060$                   \\ \hline
-$S_T > K_1$            & 0                                       \\ \hline
-\end{tabular}
-\caption{Slope of the PLUS for different values of $S_T$}
-\end{table}
+  \begin{tikzpicture}[domain=0:4]
+    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
+    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
+    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
+    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
+    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
+    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
+  \end{tikzpicture}
 \end{document}
 ```
 We see that there are two points where the slope changes. The first point is S0, while the second is where:
