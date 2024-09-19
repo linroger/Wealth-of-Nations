@@ -25,6 +25,8 @@ linter-yaml-title-alias: ASSIGNMENTS
 		- [[PSET 2 Solution]]
 		- [[PSET 3 Solution]]
 		- [[PSET 4 Solution]]
+		- **PSET 5 Solution (attachments)**
+			- [[CleanShot 2024-09-19 -002780@2x.png]]
 		- [[PSET 5 Solution]]
 		- [[PSET 6 Solution]]
 		- [[PSET 7 Solution]]
