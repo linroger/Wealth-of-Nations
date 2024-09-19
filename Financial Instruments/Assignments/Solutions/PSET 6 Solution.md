@@ -27,20 +27,17 @@ S0 be the number of units of the index determined by this part of the payoff. Wi
 Finding the payoff for the case when ST *> S*0 is simpler than it first appears.
 
 The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST .
-```latexsvg
-\begin{document}
-\begin{table}[ht]
-\centering
-\begin{tabular}{|c|c|}
-\hline
-\textbf{Range}         & \textbf{Slope}                          \\ \hline
-$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
-$S_0 < S_T \leq K_1$   & $3 \times N = 0.0060$                   \\ \hline
-$S_T > K_1$            & 0                                       \\ \hline
-\end{tabular}
-\caption{Slope of the PLUS for different values of $S_T$}
-\end{table}
-\end{document}
+```typst
+#table(
+  columns: 2,
+  [
+    [**Range**, **Slope**],
+    ["$S_T \leq S_0$", 1],
+    ["$S_0 < S_T \leq K_1$", 3],
+    ["$S_T > K_1$", 0],
+  ]
+)
+#caption(Slope for the Position with $N$ Units of the Underlying Securities)
 ```
 
 
