@@ -15,66 +15,7 @@ John Heaton March 31,  2024
 To bootstrap the discounts,  we can use the procedure illustrated in the teaching notes. For every $\dot{i}$,
 $$Z(0,     T_i)=\frac{P(0,     T_i)-c^i/2(\sum_{j=1}^{i-1}Z(0,     T_j))}{1+c^i/2}$$
 Alternatively,  we can use a matrix formulation. In line with the semi-annual frequency,  let $T_{i}=\frac{i}{2}$ for $1\leq i\leq25$. Define a cash-flow matrix,  $C$,  where an element $t_{ij}$ denotes the payoff at time $T_{j}$ of the bond with maturity $T_{i}$. By ordering the bonds increasing in maturity,  $C$ is lower diagonal. Also,  let $P$ denote a column vector with element $P_{i}$ equal to the price of the bond with maturity $T_{i}$. In particular,  we have
-<table>
-	<tbody>
-		<tr>
-			<th>$P^{1}$ (0,  $T_{1}$</th>
-			<th>$\Gamma$ 1 $C$</th>
-			<th>$c^{1}/2+100$</th>
-			<th>0</th>
-			<th>0</th>
-			<th>0</th>
-			<th> </th>
-			<th> </th>
-			<th>0 7</th>
-			<th>$\Gamma$</th>
-			<th>$\Gamma$ $Z^{1}|$ (0</th>
-			<th>$Z^{1}$ ${}^{1}(0,  T_{1}$ </th>
-		</tr>
-		<tr>
-			<td>$P^{2}$,  $(0,  T_{2})$</td>
-			<td> </td>
-			<td>$\frac{2}{2}$ /2</td>
-			<td>2 /2+ +100</td>
-			<td>2 /2+ 100</td>
-			<td>0</td>
-			<td> </td>
-			<td> </td>
-			<td>0</td>
-			<td> </td>
-			<td>$Z^{2}$ (0,  </td>
-			<td>$Z^{2}(0,  T_{2})$</td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td>$^{\prime}0$,  177 $T_{x}$</td>
-			<td> </td>
-			<td>$c^n$ /2 1</td>
-			<td> $c^{n}$</td>
-			<td>$\cdot/2$ $c^{n}$</td>
-			<td>/2 $MI$</td>
-			<td>2</td>
-			<td>/2 111</td>
-			<td>$^{\prime}2+$ 100</td>
-			<td>$r$ $f$ 1</td>
-			<td>$Z^{n}$ $^{*}(0.$</td>
-			<td>$Z^n$ ${}^{n}(0,  T_{r}$ 1 1</td>
-		</tr>
-	</tbody>
-</table>
+$$\left.\left[\begin{array}{c}P^1(0,T_1)\\P^2(0,T_2)\\\vdots\\P^n(0,T_n)\end{array}\right.\right]=\left[\begin{array}{ccccc}c^1/2+100&0&0&\ldots&0\\c^2/2&c^2/2+100&0&\ldots&0\\\vdots&\vdots&\ddots&&\\c^n/2&c^n/2&c^n/2&\ldots&c^n/2+100\end{array}\right]\left[\begin{array}{c}Z^1(0,T_1)\\Z^2(0,T_2)\\\vdots\\Z^n(0,T_n)\end{array}\right] {}$$
 Or,  in vector notation
 $$P=CZ$$
 where $Z$ is a column vector with $\dot{\boldsymbol{i}}$ element equal to $Z(0,  T_{i})$.Then,  we obtain
@@ -90,30 +31,8 @@ $$\begin{aligned}
 \end{aligned}$$
 Where the bond prices are determined as the average of bid and ask values.
 (CP) Table 1 displays the data from the selected securities. We show the difference in term structure depending on the type of securities used. The left panels show the bonds that were issued most recently (“new bonds“),  while the right panel shows the bonds that were issued long ago. The column type is 2 for a note and 1 for a bond.
-```latex
-\begin{equation}
-\begin{bmatrix}
-P^1(0,  T_1) \\
-P^2(0,  T_2) \\
-\vdots \\
-P^n(0,  T_n)
-\end{bmatrix}
-=
-\begin{bmatrix}
-\frac{c^1}{2} + 100 & 0 & 0 & 0 & \cdots & 0 \\
-\frac{c^2}{2} & \frac{c^2}{2} + 100 & 0 & \cdots & 0 \\
-\vdots & \vdots & \ddots & \vdots & \vdots \\
-\frac{c^n}{2} & \frac{c^n}{2} & \cdots & \frac{c^n}{2} + 100
-\end{bmatrix}
-\begin{bmatrix}
-Z^1(0,  T_1) \\
-Z^2(0,  T_2) \\
-\vdots \\
-Z^n(0,  T_n)
-\end{bmatrix}
-\end{equation}
-```
-Figures 1 and 2 plot the discount function and the yield curve implied by these calculations. The vertical dotted line denotes the point at which bond securities are used to bootstrap also for the “new bonds“. Clearly,    depending on the type of securities used,    we can get quite different results. The period surrounding 2009 showed large differences between new bonds and old bond prices,    due to liquidity. Newly issued bonds were much more liquid than old bonds,    which resulted in large price discrepancies. (The comparison between old and new bonds was not part of the assignment).
+
+Figures 1 and 2 plot the discount function and the yield curve implied by these calculations. The vertical dotted line denotes the point at which bond securities are used to bootstrap also for the “new bonds“. Clearly,    depending on the type of securities used,    we can get quite different results. The period surrounding 2009 showed large differences between new bonds and old bond prices,    due to liquidity. Newly issued bonds were much more liquid than old bonds, which resulted in large price discrepancies. (The comparison between old and new bonds was not part of the assignment).
 Table 1: Securities used in Bootstrap
 
 
