@@ -109,6 +109,27 @@ Invest the present value of 1 euro today & $-e^{-r_e}$ & Receive 1 euro \\ \hlin
 \end{tabular}
 \end{document}
  ```
+
+
+```latex
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\begin{document}
+
+\renewcommand{\arraystretch}{1.3}
+\small
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Today $t=0$} & \textbf{In formulas} & \textbf{At maturity $t=T$} & \textbf{In formulas} \\ \hline
+Borrow in \underline{dollars} the PV or 1 euro & $+e^{-r_e} \cdot M_0$ & Pay \underline{dollars} & $-M_0 \cdot e^{(r_{US} - r_e) \cdot T}$ \\ \hline
+Exchange the amount borrowed into euros & & Exchange the euros received into dollars & \\ \hline
+Invest the present value of 1 euro today & $-e^{-r_e}$ & Receive 1 euro & $+1$ \\ \hline
+\end{tabular}
+
+\end{document}
+```
 Table: Arbitrage Strategy - Borrowing in dollars and receiving euros
 Finally, we can consider the cash flows from both the short position (again, short since we are selling euros) and the synthetic long (again, long since we are buying euros) forward position, which are reported in Table 5. Please note that the amount MT is simply the value, in dollars, of 1 euro at time T.
 
