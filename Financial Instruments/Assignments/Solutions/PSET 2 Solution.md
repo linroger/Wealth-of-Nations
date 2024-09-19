@@ -112,14 +112,18 @@ Z^2(0,  T_2) \\
 Z^n(0,  T_n)
 \end{bmatrix}
 \end{equation}
-```latex
+```
 Figures 1 and 2 plot the discount function and the yield curve implied by these calculations. The vertical dotted line denotes the point at which bond securities are used to bootstrap also for the “new bonds“. Clearly,    depending on the type of securities used,    we can get quite different results. The period surrounding 2009 showed large differences between new bonds and old bond prices,    due to liquidity. Newly issued bonds were much more liquid than old bonds,    which resulted in large price discrepancies. (The comparison between old and new bonds was not part of the assignment).
 Table 1: Securities used in Bootstrap
+
+
 ```latex
+\usepackage{booktabs}
 \begin{document}
 \tiny
-\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
-\hline \hline
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
 \textbf{Maturity} & \textbf{Type} & \textbf{Coupon} & \textbf{Ask} & \textbf{Bid} & $\mathbf{T_i}$ & \textbf{Maturity} & \textbf{Type} & \textbf{Coupon} & \textbf{Ask} & \textbf{Bid} & $\mathbf{T_i}$ \\ \hline
 20090815 & 2 & 3.5   & 101.4844 & 101.5156 & 0.4944 & 20090815 & 2 & 6.0   & 102.6797 & 102.7109 & 0.4944 \\ \hline
 20100215 & 2 & 4.125 & 102.8945 & 102.9258 & 0.9944 & 20100215 & 2 & 5.75  & 105.7461 & 105.7773 & 0.9944 \\ \hline

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md"
               }
             }
           }
@@ -215,13 +215,16 @@
   },
   "active": "360eee85fad9fe14",
   "lastOpenFiles": [
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
+    "svg-cache/PSET 2 Solution.svg",
+    "svg-cache/PSET 2 Solution.png",
     "Attachments/PSET 5 Solution-1.png",
+    "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
+    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
-    "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
     "svg-cache/PSET 1 Solution-20.svg",
     "svg-cache/PSET 1 Solution-21.png",
@@ -231,7 +234,6 @@
     "svg-cache/PSET 1 Solution-19.png",
     "svg-cache/PSET 1 Solution-18.svg",
     "svg-cache/PSET 1 Solution-18.png",
-    "svg-cache/PSET 1 Solution-17.svg",
     "Financial Instruments/Assignments/PSET 1-Financial Instruments.md",
     "Financial Instruments/Assignments/Financial Instruments Midterm 2022 Solutions.md",
     "Financial Instruments/Assignments/Financial Instruments Midterm Solutions 2013.md",
@@ -250,7 +252,6 @@
     "Financial Instruments/Assignments/PSET 5 Financial Instruments.md",
     "Financial Instruments/Assignments/Financial Instruments Practice Midterm Solutions.md",
     "consistency-report.md",
-    "Financial Instruments/Assignments/Solutions/PSET 6 Solution.md",
     "Financial Instruments/Assignments/Solutions",
     "svg-cache",
     "Financial Engineering/1. DeterministicCashFlows_meta.json",
