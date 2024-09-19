@@ -71,27 +71,7 @@ Table 2 reports the resulting slopes for this position:
 \end{tabular}
 \end{document}
 ```
-<table>
-	<tbody>
-		<tr>
-			<th>Range</th>
-			<th>Slope</th>
-		</tr>
-		<tr>
-			<td>$S_T\leq S_0$</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>$S_{0}<S_{T}\leq K_{1}$</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>$S_{T}>$ $K_{1}$ </td>
-			<td>0</td>
-		</tr>
-	</tbody>
-</table>
-```latex\n\begin{document}\n\n\end{document}\n```
+
 ### Table 2: Slope when holding $N$ underlying securities for different values of $S_{T}$
 
 So.the pavoff of the PLUS can be rewritten as
@@ -99,15 +79,15 @@ So.the pavoff of the PLUS can be rewritten as
 $$\pi(T)=N\cdot[S_T+2\cdot max(S_T-S_0,0)-3\cdot max(S_T-K_1,0)]$$
 
 The PLUS security is long $e^{-y}N$ units of the underlying index. $2N$ units of an at the money call option and short $3N$ units of a call option with strike price $K_{1}$
-(b)Use the Black and Scholes model to price the identified simpler securities. Assuming the PLUS was issued on February 18, 2024, $N=0.0020$ and $K_{1}=5,317.27$ .To price the at the money optionI use the implied volatility for a February 2025 call option with strike equal to 5000: $\sigma^{ATM}=17.2\%$ .For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: $\sigma^{OTM}=15.1\%$ The prices of the options ares
-| |  | |
-| | $$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$ | |
-
-Hence:
-
+- (b)Use the Black and Scholes model to price the identified simpler securities.
+	- Assuming the PLUS was issued on February 18, 2024, $N=0.0020$ and $K_{1}=5,317.27$ .
+	- To price the at the money option I use the implied volatility for a February 2025 call option with strike equal to 5000: $\sigma^{ATM}=17.2\%$ .
+	- For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: $\sigma^{OTM}=15.1\%$ 
+	- The prices of the options are
+	$$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$
+	Hence:
 $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
-
-(c) Adjust the parameters to obtain a value equal to the issue price. In the prospectus the security is sold for 10 dollars,but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the $({\mathit{DTM}}$ option by decreasing the maximum payoff currently set at 11.9. Let $C$ be the maximum payoff.Changing this value implicitly changes the strike price, $K_{1}$ , of the OTM option. The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5,268.42$ .By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
+- (c) Adjust the parameters to obtain a value equal to the issue price. In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the $({\mathit{DTM}}$ option by decreasing the maximum payoff currently set at 11.9. Let $C$ be the maximum payoff.Changing this value implicitly changes the strike price, $K_{1}$ , of the OTM option. The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5,268.42$ .By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
 ![](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
 Figure 4: PLUS payoff change with $C=11.61$
 
