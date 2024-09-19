@@ -20,15 +20,10 @@ The PLUS security has one-year to maturity with embedded call options so it woul
 
 Figure 2: Implied volatility for June 2024 and February 2025 S&P500 call options
 # 2. Valuing and analyzing a structured security
-
-(1)In order to value the PLUS follow these steps:
-
-## (a)Decompose the PLUS payoff into simpler securities.
-
-The payoff of thePLUS security at maturity is
-
+(1). In order to value the PLUS follow these steps:
+- (a) Decompose the PLUS payoff into simpler securities.
+	- The payoff of thePLUS security at maturity is
 $$\pi(T)=\left\{\begin{array}{cc}min\left[10+10\times3\times\left(\frac{S_T-S_0}{S_0}\right),11.9\right]&\quad if\:S_T>S_0\\10\times\frac{S_T}{S_0}&\quad if\:S_T\leq S_0\end{array}\right.$$
-
 Starting with $S_{T}\leq S_{0}$ , this is just a long position in $\frac{10}{S_0}$ units of the index. Let $N$ = $\frac {10}{S_{0}}$ be the number of units of the index determined by this part of the payoff. With the S&P500 at 5,000.57 N = 0.0020
 
 Finding the payoff for the case when $S_{T}>S_{0}$ is simpler than it first appears. The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of $S_{T}$
@@ -41,6 +36,11 @@ We see that there are two points where the slope changes. The first point is $S_
 $$10+10\times3\times\frac{S_T-S_0}{S_0}=11.9$$
 
 This is where $S_{T}=5,317.27$ Call this point $K_{1}$ .After $K_{1}$ the slope is zero. Table 1 reports the slopes of the PLUS security:
+```latex
+\begin{document}
+
+\end{document}
+```
 
 <table>
 	<tbody>
