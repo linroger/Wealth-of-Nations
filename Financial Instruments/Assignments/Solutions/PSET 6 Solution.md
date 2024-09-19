@@ -59,7 +59,18 @@ Alternatively, let $N$ be the number of units of the underlying securities impli
 
 Table 2 reports the resulting slopes for this position:
 
-/ii
+```latex
+\begin{document}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Range}             & \textbf{Condition} & \textbf{Slope} \\ \hline
+\(S_T \leq S_0\)  & - & 1     \\ \hline
+\(S_0 < S_T \leq K_1\) & - & 3     \\ \hline
+\(S_T > K_1\)     & - & 0     \\ \hline
+\end{tabular}
+\end{document}
+```
 <table>
 	<tbody>
 		<tr>
@@ -80,7 +91,7 @@ Table 2 reports the resulting slopes for this position:
 		</tr>
 	</tbody>
 </table>
-
+```latex\n\begin{document}\n\n\end{document}\n```
 ### Table 2: Slope when holding $N$ underlying securities for different values of $S_{T}$
 
 So.the pavoff of the PLUS can be rewritten as

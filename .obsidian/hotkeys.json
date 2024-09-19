@@ -22,7 +22,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Q"
+      "key": " "
     }
   ],
   "auto-classifier:classify-tag-content": [
@@ -89,5 +89,6 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "obsidian-completr:completr-open-suggestion-popup": []
 }
