@@ -3,6 +3,7 @@
     "global-search-and-replace:search-and-replace",
     "obsidian-regex-replace:obsidian-regex-replace",
     "copy-as-latex:copy-as-latex",
-    "markdown:add-alias"
+    "markdown:add-alias",
+    "obsidian-text-format:hyphen"
   ]
 }
