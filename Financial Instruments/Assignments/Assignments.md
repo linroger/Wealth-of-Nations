@@ -13,6 +13,9 @@ linter-yaml-title-alias: ASSIGNMENTS
 title: ASSIGNMENTS
 aliases: [ASSIGNMENTS]
 linter-yaml-title-alias: ASSIGNMENTS
+title: ASSIGNMENTS
+aliases: [ASSIGNMENTS]
+linter-yaml-title-alias: ASSIGNMENTS
 # ASSIGNMENTS
 %% Begin Waypoint %%
 - **[[Assignments]]**
@@ -42,5 +45,4 @@ linter-yaml-title-alias: ASSIGNMENTS
 		- [[PSET 6 Solution]]
 		- [[PSET 7 Solution]]
 		- [[Solutions]]
-
 %% End Waypoint %%
