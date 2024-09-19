@@ -1,6 +1,7 @@
 ---
 title: Financial Distress, Reorganization, And Organizational Efficiency
 ---
+
 # Financial Distress, Reorganization, And Organizational Efficiency
 
 Karen Hopper Wruck* Harcard Business School, Boston, MA 02163, *USA*
@@ -59,25 +60,11 @@ The panel B firm can meet its obligations by persuading claimants to agree to a 
 
 At the time of financial distress (time 1) investors know the history of actual cash flows, but must make predictions about future cash flows with incomplete information. This can lead to honest disagreement about the firm's future prospects. Even if all parties could accurately predict future cash flows, there would still be conflict over the best way to resolve distress, because different reorganization policies distribute wealth across managers, creditors, and shareholders differently. Therefore, reorganization policies are advocated both out of concern for value maximization and out of self-interest. Where the two differ, there is potential for value-destroying behavior. As discussed in detail in section 4.4.1, the rules of the game for reorganization in the U.S. exacerbate these conflicts.
 
-In pursuing their own interests, claimants have incentives to present biased and inaccurate data as though it were unbiased and accurate. Shareholders have incentives to claim the firm is insolvent only on a flow basis (like the panel B firm) because it increases the likelihood that they will retain their equity stake and therefore preserve the option value of their claim. Creditors
+In pursuing their own interests, claimants have incentives to present biased and inaccurate data as though it were unbiased and accurate. Shareholders have incentives to claim the firm is insolvent only on a flow basis (like the panel B firm) because it increases the likelihood that they will retain their equity stake and therefore preserve the option value of their claim. Creditors have incentives to claim the firm is insolvent on a stock basis (like the panel A firm) because it increases the likelihood that they will be awarded the equity. Managers have an incentive to side with the party less likely to fire them. Resolving these conflicts consumes resources and in the extreme can destroy huge amounts of value. For example, a panel B firm can be turned into a panel A firm as claimants fight over the distribution of weahh, or if a value-reducing reorganization policy is chosen because it furthers the interests of a persuasive class of claimants.
 ![](Financial%20Distress,%20Reorganization,%20And%20Organizational%20Efficiency-8.png)
 ![4_image_0.png](4_image_0.png)
 
-```
-Panels A and B illustrate actual cash flows for two firms that become flow-based insolvent at 
-time 1. Investors in a distressed firm face an information problem - they cannot tell whether 
-their firm has cash flows more like those in panel A or B. The firm in panel A is insolvent due to 
-a permanent reduction in cash flow, while the firm in panel B is insolvent due to a temporary 
-reduction in cash flow - at time 2 its cash flow returns to a pre-distress level. Cash flows at the 
-time of financial distress are identical for the two firms. At time 1. no one has both the relevant 
-information about cash flows and the incentive to reveal it to the firm's claimholders. Out of 
-self-interest shareholders will argue that panel B represents the firm's situation, while creditors 
-will argue that panel A is more realistic. Managers will tend to side with the party less likely to 
-                                          fire them. 
-
-```
-
-have incentives to claim the firm is insolvent on a stock basis (like the panel A firm) because it increases the likelihood that they will be awarded the equity. Managers have an incentive to side with the party less likely to fire them. Resolving these conflicts consumes resources and in the extreme can destroy huge amounts of value. For example, a panel B firm can be turned into a panel A firm as claimants fight over the distribution of weahh, or if a value-reducing reorganization policy is chosen because it furthers the interests of a persuasive class of claimants.
+Panels A and B illustrate actual cash flows for two firms that become flow-based insolvent at time 1. Investors in a distressed firm face an information problem - they cannot tell whether their firm has cash flows more like those in panel A or B. The firm in panel A is insolvent due to a permanent reduction in cash flow, while the firm in panel B is insolvent due to a temporary reduction in cash flow - at time 2 its cash flow returns to a pre-distress level. Cash flows at the time of financial distress are identical for the two firms. At time 1. no one has both the relevant information about cash flows and the incentive to reveal it to the firm's claimholders. Out of self-interest shareholders will argue that panel B represents the firm's situation, while creditors will argue that panel A is more realistic. Managers will tend to side with the party less likely fire them.
 
 The most reliable estimate of future cash flows can be obtained when accurate information is shared by managers and claimholders. Managers generally have better information about the firm's internal operations than outside investors, but they may lack the ability or incentives to make the best use of that information. A management team committed to a poor strategy or to preserving its control over the firm is using its superior information to make poor decisions. Despite their lack of detailed information about the firm's operations, both creditors and shareholders are often better able to assess the firm's situation. Large creditors have employees who are expert analysts, and in addition creditors sometimes receive special reports from the firm containing information not available to the public. Active shareholders are often better able to assess industry trends, the firm's strategy, and the effectiveness of top management. Unfortunately, no party has both the information and incentives to reveal that information to others.
 

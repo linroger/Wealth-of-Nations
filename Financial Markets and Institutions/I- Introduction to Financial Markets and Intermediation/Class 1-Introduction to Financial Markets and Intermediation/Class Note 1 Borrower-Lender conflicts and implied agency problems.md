@@ -51,16 +51,18 @@ Clearly, project 1 is the best investment. An owner-managed firm with no debt wo
 
  2. What about a firm with debt with face $s=600$ in place?
 	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
-	
+
 	```latex
+
 \begin{document}
 \begin{tabular}{|c|c|c|c|}
 \hline
 Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hline
-1       & 0              & 1500 - 600 = 900            & 450            \\ \hline
-2       & 0              & 1551 - 600 = 951            & 475.5          \\ \hline
+1 & 0 & 1500 - 600 = 900 & 450 \\ \hline
+2 & 0 & 1551 - 600 = 951 & 475.5 \\ \hline
 \end{tabular}
 \end{document}
+
 ```
 
 The levered firm would select project number 2, despite its lower net present value, because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
@@ -84,7 +86,8 @@ The borrower's equity payoff from Project 1 and 2 with debt of face F is:
 ```
 
  The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity.
-- For $F<500$,Project 1 is preferred for all F that satisfy $\geq$ 21000 - F $\geq$ 1/2(1551 -F),which solves out to $F\leq 449$. 
+
+- For $F<500$,Project 1 is preferred for all F that satisfy $\geq$ 21000 - F $\geq$ 1/2(1551 -F),which solves out to $F\leq 449$.
 - As a result, 449 is the debt capacity in face value.
 
 Suppose lenders require an expected return of $r$ for investing in any security of the firm. If the firm issued debt with face value 448 debt, it would choose Project 1, and then the debt could raise up to $\frac{448}{1+r}$ Prj lender if it does not help himself.)If the firm issued debt with face $F>449$,it would lead to project an increase $\frac{1/2\mathrm{F}\:+\:1/2(0)}{1+\mathrm{r}}$.
