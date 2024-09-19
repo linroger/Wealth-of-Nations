@@ -90,8 +90,8 @@ $$\begin{aligned}
 Where the bond prices are determined as the average of bid and ask values.
 (CP) Table 1 displays the data from the selected securities. We show the difference in term structure depending on the type of securities used. The left panels show the bonds that were issued most recently (“new bonds“),  while the right panel shows the bonds that were issued long ago. The column type is 2 for a note and 1 for a bond.
 ```latex
-\begin{document}
-$$
+\begin{equation}
+
 \begin{bmatrix}
 P^1(0,  T_1) \\
 P^2(0,  T_2) \\
@@ -111,8 +111,7 @@ Z^2(0,  T_2) \\
 \vdots \\
 Z^n(0,  T_n)
 \end{bmatrix}
-$$
-\end{document}
+\end{equation}
 ```
 
 
