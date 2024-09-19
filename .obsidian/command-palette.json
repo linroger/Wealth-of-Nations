@@ -4,6 +4,7 @@
     "obsidian-regex-replace:obsidian-regex-replace",
     "copy-as-latex:copy-as-latex",
     "markdown:add-alias",
-    "obsidian-text-format:hyphen"
+    "obsidian-text-format:hyphen",
+    "obsidian-linter:lint-all-files"
   ]
 }

@@ -62,12 +62,12 @@ Table 2 reports the resulting slopes for this position:
 ```latex
 \begin{document}
 \renewcommand{\arraystretch}{1.5}
-\begin{tabular}{|c|c|c|}
+\begin{tabular}{|c|c|}
 \hline
-\textbf{Range}             & \textbf{Condition} & \textbf{Slope} \\ \hline
-\(S_T \leq S_0\)  & - & 1     \\ \hline
-\(S_0 < S_T \leq K_1\) & - & 3     \\ \hline
-\(S_T > K_1\)     & - & 0     \\ \hline
+\textbf{Range}             & \textbf{Slope} \\ \hline
+\(S_T \leq S_0\)   & 1     \\ \hline
+\(S_0 < S_T \leq K_1\) & 3     \\ \hline
+\(S_T > K_1\)      & 0     \\ \hline
 \end{tabular}
 \end{document}
 ```
