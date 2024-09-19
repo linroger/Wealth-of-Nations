@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/PSET 5 Solution-1.png"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md"
               }
             }
           }
@@ -213,30 +213,31 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8097bd3d30852f66",
+  "active": "360eee85fad9fe14",
   "lastOpenFiles": [
+    "svg-cache/PSET 1 Solution-3.svg",
+    "svg-cache/PSET 1 Solution-3.png",
+    "svg-cache/PSET 1 Solution-2.svg",
+    "svg-cache/PSET 1 Solution-2.png",
+    "svg-cache/PSET 1 Solution-1.svg",
+    "svg-cache/PSET 1 Solution-1.png",
+    "svg-cache/30ba2e6daacc67910f7b2bd283677eac.svg",
+    "svg-cache/30ba2e6daacc67910f7b2bd283677eac.png",
+    "svg-cache/PSET 1 Solution.svg",
+    "svg-cache/PSET 1 Solution.png",
+    "Attachments/PSET 5 Solution-1.png",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
     "Financial Instruments/Assignments/PSET 1-Financial Instruments.md",
     "Financial Instruments/Assignments/Financial Instruments Midterm 2022 Solutions.md",
     "Financial Instruments/Assignments/Financial Instruments Midterm Solutions 2013.md",
     "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
-    "Attachments/PSET 5 Solution-1.png",
     "Financial Instruments/Assignments/Assignments.md",
     "Financial Instruments/Assignments/Solutions/Untitled.md",
     "Financial Instruments/Assignments/Solutions/PSET 3 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
-    "svg-cache/PSET 5 Solution-13.svg",
-    "svg-cache/PSET 5 Solution-12.png",
-    "svg-cache/10e533ac9fe2491707441e729faa8acc.svg",
-    "svg-cache/PSET 5 Solution-12.svg",
-    "svg-cache/PSET 5 Solution-11.png",
-    "svg-cache/PSET 5 Solution-11.svg",
-    "svg-cache/PSET 5 Solution-10.png",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39 1.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.37.16.png.md",
-    "svg-cache/10e533ac9fe2491707441e729faa8acc.png",
-    "svg-cache/PSET 5 Solution-10.svg",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/CleanShot 2024-09-19 -002780@2x.png.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
@@ -252,7 +253,6 @@
     "Financial Instruments/Assignments/Solutions/Solutions.md",
     "Financial Instruments/Assignments/Solutions",
     "Financial Instruments/Assignments/PSET 6- Financial Instruments.md",
-    "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
     "svg-cache",
     "Financial Engineering/1. DeterministicCashFlows_meta.json",
     "Financial Engineering",
