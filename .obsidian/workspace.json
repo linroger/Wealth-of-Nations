@@ -37,12 +37,9 @@
             "id": "360eee85fad9fe14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Financial Markets and Institutions"
               }
             }
           },
@@ -145,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
+                "file": "Attachments/PSET 5 Solution-1.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
+                "file": "Attachments/PSET 5 Solution-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md"
+                "file": "Attachments/PSET 5 Solution-1.png"
               }
             }
           }
@@ -213,13 +210,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "360eee85fad9fe14",
+  "active": "3a6949787587c00c",
   "lastOpenFiles": [
+    "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
+    "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "svg-cache/PSET 5 Solution-13.svg",
     "svg-cache/PSET 5 Solution-12.png",
     "Attachments/PSET 5 Solution-1.png",
     "svg-cache/10e533ac9fe2491707441e729faa8acc.svg",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "svg-cache/PSET 5 Solution-12.svg",
     "svg-cache/PSET 5 Solution-11.png",
     "svg-cache/PSET 5 Solution-11.svg",
@@ -228,7 +226,6 @@
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.37.16.png.md",
     "svg-cache/10e533ac9fe2491707441e729faa8acc.png",
     "svg-cache/PSET 5 Solution-10.svg",
-    "svg-cache/PSET 5 Solution-9.png",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39.md",
     "Financial Instruments/Assignments/Assignments.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/CleanShot 2024-09-19 -002780@2x.png.md",
@@ -244,7 +241,6 @@
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 3 Solution.md",
-    "Financial Instruments/Assignments/Solutions/PSET 4 Solution.md",
     "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
     "Financial Instruments/Assignments/Solutions/Solutions.md",
     "Financial Instruments/Assignments/Solutions",
