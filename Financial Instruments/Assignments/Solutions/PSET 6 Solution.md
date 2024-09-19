@@ -27,7 +27,7 @@ S0 be the number of units of the index determined by this part of the payoff. Wi
 Finding the payoff for the case when ST *> S*0 is simpler than it first appears.
 
 The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST .
-```LaTeX
+```latexsvg
 \begin{document}
 \begin{table}[ht]
 \centering
