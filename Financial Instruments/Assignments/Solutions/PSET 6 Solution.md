@@ -16,11 +16,10 @@ As you can see the volatility is not constant, but it is decreasing with the mon
 
 ## 2. Valuing And Analyzing A Structured Security
 
-(1) In order to value the PLUS follow these steps:
+( 1) In order to value the PLUS follow these steps:
 
 (a) Decompose the PLUS payoff into simpler securities.
 The payoff of the PLUS security at maturity is $$\pi(T)=\left\{\begin{array}{cc}min\left[10+10\times3\times\left(\frac{S_T-S_0}{S_0}\right).9\right]&if\,S_T>S_0\\ 10\times\frac{S_T}{S_0}&if\,S_T\leq S_0\end{array}\right.$$.
-
 S0 units of the index. Let Starting with ST ≤ S0, this is just a long position in 10
 N =
 10
@@ -28,7 +27,39 @@ S0 be the number of units of the index determined by this part of the payoff. Wi
 Finding the payoff for the case when ST *> S*0 is simpler than it first appears.
 
 The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST .
+```LaTeX
+\begin{document}
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Range}         & \textbf{Slope}                          \\ \hline
+$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
+$S_0 < S_T \leq K_1$   & $3 \times N = 0.0060$                   \\ \hline
+$S_T > K_1$            & 0                                       \\ \hline
+\end{tabular}
+\caption{Slope of the PLUS for different values of $S_T$}
+\end{table}
+\end{document}
+```
 
+
+
+```LaTeX
+\begin{document}
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Range}         & \textbf{Slope}                          \\ \hline
+$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
+$S_0 < S_T \leq K_1$   & $3 \times N = 0.0060$                   \\ \hline
+$S_T > K_1$            & 0                                       \\ \hline
+\end{tabular}
+\caption{Slope of the PLUS for different values of $S_T$}
+\end{table}
+\end{document}
+```
 We see that there are two points where the slope changes. The first point is S0, while the second is where:
 
 $$10+10\times3\times{\frac{S_{T}-S_{0}}{S_{0}}}=11.9$$
@@ -56,18 +87,14 @@ So, the payoff of the PLUS can be rewritten as
 $$\pi(T)=N\cdot[S_{T}+2\cdot m a x(S_{T}-S_{0})-3\cdot m a x(S_{T}-K_{1})]$$
 The PLUS security is long e−yN units of the underlying index, 2N units of an at the money call option and short 3N units of a call option with strike price K1.
 
-(b) Use the Black and Scholes model to price the identified simpler securities. Assuming the PLUS was issued on February 18, 2024, N = 0.0020 and
-K1 = 5, 317.27. To price the at the money option I use the implied volatility
-for a February 2025 call option with strike equal to 5000: σATM = 17.2%. For
-the OTM option I use the implied volatility for a February 2025 call option with
-strike equal to 5300: σOTM = 15.1%. The prices of the options are:
-$c^{ATM}=418.26$ and $c^{OTM}=235.01$. 
+(b) Use the Black and Scholes model to price the identified simpler securities. 
+- Assuming the PLUS was issued on February 18, 2024, N = 0.0020 and K1 = 5, 317.27. To price the at the money option I use the implied volatility for a February 2025 call option with strike equal to 5000: σATM = 17.2%. For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: σOTM = 15.1%. The prices of the options are:
+	- $c^{ATM}=418.26$ and $c^{OTM}=235.01$. 
 Hence:
 
 $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
-3. **Adjust the parameters to obtain a value equal to the issue price.** In
-the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the *OTM* option by decreasing the maximum payoff currently
-set at 11.9.
+3. **Adjust the parameters to obtain a value equal to the issue price.** 
+- In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the *OTM* option by decreasing the maximum payoff currently set at 11.9.
 Let C be the maximum payoff.
 Changing this value implicitly
 changes the strike price, K1, of the OTM option. The value of C that sets the
