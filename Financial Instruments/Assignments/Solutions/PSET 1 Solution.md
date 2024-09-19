@@ -46,69 +46,102 @@ Applying formula 4 we can compute the continuously compounded US and EURO LIBOR 
 Using the above rates we apply formula 2 to compute Forward Exchange rates. Results are provided in Table 2.
 
 Results are provided in Table 2.
+```latex
+\usepackage{booktabs}
+\begin{document}
+\renewcommand{\arraystretch}{1.3}
+\small
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
 
-|           |       |       |       |       |       | US LIBOR   | EURO LIBOR   |
-|-----------|-------|-------|-------|-------|-------|------------|--------------|
-| 1M        | 3M    | 6M    | 1Y    | 1M    | 3M    | 6M         | 1Y           |
-| 03-Oct-05 | 3.87% | 4.06% | 4.22% | 4.39% | 2.12% | 2.17%      | 2.20%        |
-| 02-Oct-06 | 5.31% | 5.33% | 5.31% | 5.18% | 3.29% | 3.41%      | 3.55%        |
-| 01-Oct-07 | 5.11% | 5.20% | 5.08% | 4.82% | 4.38% | 4.76%      | 4.70%        |
-| 01-Oct-08 | 4.00% | 4.13% | 4.00% | 3.96% | 5.06% | 5.25%      | 5.32%        |
-| 01-Oct-09 | 0.25% | 0.28% | 0.62% | 1.23% | 0.39% | 0.70%      | 1.00%        |
-|           |     1M |     3M |     6M |     1Y |
-|-----------|--------|--------|--------|--------|
-| 03-Oct-05 | 1.1941 | 1.198  | 1.2045 | 1.2174 |
-| 02-Oct-06 | 1.276  | 1.28   | 1.2851 | 1.2932 |
-| 01-Oct-07 | 1.4241 | 1.4248 | 1.426  | 1.4262 |
-| 01-Oct-08 | 1.4009 | 1.3982 | 1.3929 | 1.3827 |
-| 01-Oct-09 | 1.4531 | 1.4518 | 1.4505 | 1.4535 |
+\multicolumn{5}{|c|}{\textbf{US LIBOR}} & \multicolumn{5}{c|}{\textbf{EURO LIBOR}} \\ \hline
 
-2. We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in Table 3.
-If we exclude October 1st, 2008, the difference is smaller than 10−3 in most of the cases. For October 1st, 2008 (15 days after Lehman’s failure), the difference is larger. To understand why this is so, think about how we determined formula
-2 for the Forward Exchange rate. Our assumption was that we could set up a strategy which perfectly matches the cash flows of a short forward position in euros for dollars. The strategy requires borrowing in euros, exchanging euros into dollars, and investing the money at the dollar interest rate. If market participants are worried about third-party solvency, borrowing may be much more difficult, especially for longer maturities. If borrowing is more difficult, then arbitrageurs
+\textbf{Date} & \textbf{1M} & \textbf{3M} & \textbf{6M} & \textbf{1Y} & \textbf{Date} & \textbf{1M} & \textbf{3M} & \textbf{6M} & \textbf{1Y} \\ \hline
 
-|           |     1M |     3M | 6M       | 1Y       |
-|-----------|--------|--------|----------|----------|
-| 03-Oct-05 | 0.0002 | 0.0001 | 0.0002   | 0.0005   |
-| 02-Oct-06 | 0.0002 | 0.0001 | (0.0000) | (0.0002) |
-| 01-Oct-07 | 0.0004 | 0.0008 | 0.0007   | 0.0018   |
-| 01-Oct-08 | 0.0034 | 0.0065 | 0.0102   | 0.0134   |
-| 01-Oct-09 | 0.0003 | 0.0015 | 0.0025   | (0.0004) |
+03-Oct-05 & 3.87\% & 4.06\% & 4.22\% & 4.39\% & 03-Oct-05 & 2.12\% & 2.17\% & 2.20\% & 2.31\% \\ \hline
 
-May experience a time correcting market inefficiencies, and the result is quoted prices misaligned with the theoretical ones.
+02-Oct-06 & 5.31\% & 5.33\% & 5.31\% & 5.18\% & 02-Oct-06 & 3.29\% & 3.41\% & 3.55\% & 3.68\% \\ \hline
 
-3. As we have seen, the biggest discrepancy occurs for October 1st, 2008. Let’s
-focus on that date and consider the 1-year Forward Exchange rate.
-As mentioned above, the difference F quoted − F *computed* > 0, that is, equivalent to F quoted >
-F *computed*. The rule of thumb for arbitrage is to buy cheap and sell dear. This
-his means “buy computed” and “sell quoted.” The computed Forward Exchange rate is a *synthetic* price that we pay if we set up a strategy that replicates the
-payoff of a forward contract, while the quoted Forward Exchange rate is what we obtain when entering into a forward position (just sign a contract, much easier than setting up a replicating strategy). We already know that we enter into a short forward contract to sell 1 euro for dollars (this is the “sell quoted” - we are
-selling euros and buying dollars; remember that with exchange rates, we are long
-/ short the Foreign currency). On the other side, we have to set up a strategy that replicates the payoff of a long forward position to buy 1 euro for dollars. Let’s start by matching the payoffs at maturity.
-A long forward contract, at maturity, entails:
+01-Oct-07 & 5.11\% & 5.20\% & 5.08\% & 4.82\% & 01-Oct-07 & 4.38\% & 4.76\% & 4.70\% & 4.61\% \\ \hline
 
-- An outflow (we pay) of dollars - An inflow (we receive) of euros
-To pay dollars tomorrow, we simply borrow something in the US. To receive euros tomorrow, we have to invest something in Europe today. How much? Here, we have to remember our goal. We are matching the cash flows of a forward contract, and a forward contract does not require any cash flow when we enter into it. As our strategy so far requires borrowing in dollars and investing in euros today, to get a cash flow equal to 0, we have to match the amount we borrow with the amount we invest, or in other words, we have to invest in Europe the full amount borrowed in the US. To do this, we just need to exchange the dollars for euros today. The last thing we need to understand is how much to borrow in dollars today. As the forward exchange rate tells us “how many dollars we have to pay in exchange for 1 euro at maturity”, following our logic of matching the cash flows of a forward contract, we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that’s the very definition of present value.
+01-Oct-08 & 4.00\% & 4.13\% & 4.00\% & 3.96\% & 01-Oct-08 & 5.06\% & 5.25\% & 5.32\% & 5.35\% \\ \hline
 
-Summing up, the “buy computed” strategy requires (please note that the amounts in the first and third rows are in different currencies, so they cannot be summed):
+01-Oct-09 & 0.25\% & 0.28\% & 0.62\% & 1.23\% & 01-Oct-09 & 0.39\% & 0.70\% & 1.00\% & 1.22\% \\ \hline
 
- ```latex
+\end{tabular}
+``````
+
+
+
+
+|             |          |          |          |          |       | US LIBOR | EURO LIBOR |
+| ----------- | -------- | -------- | -------- | -------- | ----- | -------- | ---------- |
+| 1M          | 3M       | 6M       | 1Y       | 1M       | 3M    | 6M       | 1Y         |
+| 03-Oct-05   | 3.87%    | 4.06%    | 4.22%    | 4.39%    | 2.12% | 2.17%    | 2.20%      |
+| 02-Oct-06   | 5.31%    | 5.33%    | 5.31%    | 5.18%    | 3.29% | 3.41%    | 3.55%      |
+| 01-Oct-07   | 5.11%    | 5.20%    | 5.08%    | 4.82%    | 4.38% | 4.76%    | 4.70%      |
+| 01-Oct-08   | 4.00%    | 4.13%    | 4.00%    | 3.96%    | 5.06% | 5.25%    | 5.32%      |
+| 01-Oct-09   | 0.25%    | 0.28%    | 0.62%    | 1.23%    | 0.39% | 0.70%    | 1.00%      |
+|             | 1M       | 3M       | 6M       | 1Y       |       |          |            |
+| 03-Oct-05   | 1.1941   | 1.198    | 1.2045   | 1.2174   |       |          |            |
+| 02-Oct-06   | 1.276    | 1.28     | 1.2851   | 1.2932   |       |          |            |
+| 01-Oct-07   | 1.4241   | 1.4248   | 1.426    | 1.4262   |       |          |            |
+| 01-Oct-08   | 1.4009   | 1.3982   | 1.3929   | 1.3827   |       |          |            |
+| 01-Oct-09   | 1.4531   | 1.4518   | 1.4505   | 1.4535   |       |          |            |
+|             |          |          |          |          |       |          |            |
+```latex
 \usepackage{booktabs}
 
 \begin{document}
 
 \renewcommand{\arraystretch}{1.3}
 \small
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|c|c|c|c|c|}
 \hline
-\textbf{Today $t=0$} & \multicolumn{2}{c|}{\textbf{At maturity $t=T$}} \\ \hline
-\textbf{In words} & \textbf{In formulas} & \textbf{In words} \\ \hline
-Borrow in \underline{dollars} the PV or 1 euro & $+e^{-r_e} \cdot M_0$ & Pay \underline{dollars} \\ \hline
-Exchange the amount borrowed into euros & - & Exchange the euros received into dollars \\ \hline
-Invest the present value of 1 euro today & $-e^{-r_e}$ & Receive 1 euro \\ \hline
+\textbf{Date} & \textbf{1M} & \textbf{3M} & \textbf{6M} & \textbf{1Y} \\ \hline
+03-Oct-05 & 1.1941 & 1.1980 & 1.2045 & 1.2174 \\ \hline
+02-Oct-06 & 1.2760 & 1.2800 & 1.2851 & 1.2932 \\ \hline
+01-Oct-07 & 1.4241 & 1.4248 & 1.4260 & 1.4262 \\ \hline
+01-Oct-08 & 1.4009 & 1.3982 & 1.3929 & 1.3827 \\ \hline
+01-Oct-09 & 1.4531 & 1.4518 & 1.4505 & 1.4535 \\ \hline
 \end{tabular}
+
 \end{document}
  ```
+Forward Exchange rates
+2. We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in Table 3.
+If we exclude October 1st, 2008, the difference is smaller than 10−3 in most of the cases. For October 1st, 2008 (15 days after Lehman’s failure), the difference is larger. To understand why this is so, think about how we determined formula
+2 for the Forward Exchange rate. Our assumption was that we could set up a strategy which perfectly matches the cash flows of a short forward position in euros for dollars. The strategy requires borrowing in euros, exchanging euros into dollars, and investing the money at the dollar interest rate. If market participants are worried about third-party solvency, borrowing may be much more difficult, especially for longer maturities. If borrowing is more difficult, then arbitrageurs
+
+```latex
+\usepackage{booktabs}
+
+\begin{document}
+
+\renewcommand{\arraystretch}{1.3}
+\small
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Date} & \textbf{1M} & \textbf{3M} & \textbf{6M} & \textbf{1Y} \\ \hline
+03-Oct-05 & 0.0002 & 0.0001 & 0.0002 & 0.0005 \\ \hline
+02-Oct-06 & 0.0002 & 0.0001 & (0.0000) & (0.0002) \\ \hline
+01-Oct-07 & 0.0004 & 0.0008 & 0.0007 & 0.0018 \\ \hline
+01-Oct-08 & 0.0034 & 0.0065 & 0.0102 & 0.0134 \\ \hline
+01-Oct-09 & 0.0003 & 0.0015 & 0.0025 & (0.0004) \\ \hline
+\end{tabular}
+
+\end{document}
+ ```
+May experience a time correcting market inefficiencies, and the result is quoted prices misaligned with the theoretical ones.
+
+3. As we have seen, the biggest discrepancy occurs for October 1st, 2008. Let’$s$ focus on that date and consider the 1-year Forward Exchange rate.
+As mentioned above, the difference F quoted − F *computed* > 0, that is, equivalent to F quoted > F *computed*. The rule of thumb for arbitrage is to buy cheap and sell dear. This his means “buy computed” and “sell quoted.” The computed Forward Exchange rate is a *synthetic* price that we pay if we set up a strategy that replicates the payoff of a forward contract, while the quoted Forward Exchange rate is what we obtain when entering into a forward position (just sign a contract, much easier than setting up a replicating strategy). We already know that we enter into a short forward contract to sell 1 euro for dollars (this is the “sell quoted” - we are selling euros and buying dollars; remember that with exchange rates, we are long / short the Foreign currency). On the other side, we have to set up a strategy that replicates the payoff of a long forward position to buy 1 euro for dollars. Let’s start by matching the payoffs at maturity.
+A long forward contract, at maturity, entails:
+
+- An outflow (we pay) of dollars - An inflow (we receive) of euros
+To pay dollars tomorrow, we simply borrow something in the US. To receive euros tomorrow, we have to invest something in Europe today. How much? Here, we have to remember our goal. We are matching the cash flows of a forward contract, and a forward contract does not require any cash flow when we enter into it. As our strategy so far requires borrowing in dollars and investing in euros today, to get a cash flow equal to 0, we have to match the amount we borrow with the amount we invest, or in other words, we have to invest in Europe the full amount borrowed in the US. To do this, we just need to exchange the dollars for euros today. The last thing we need to understand is how much to borrow in dollars today. As the forward exchange rate tells us “how many dollars we have to pay in exchange for 1 euro at maturity”, following our logic of matching the cash flows of a forward contract, we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that’s the very definition of present value.
+
+Summing up, the “buy computed” strategy requires (please note that the amounts in the first and third rows are in different currencies, so they cannot be summed):
 
 
 ```latex
