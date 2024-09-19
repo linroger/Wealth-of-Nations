@@ -43,41 +43,23 @@ This is where $S_{T}=5,317.27$ Call this point $K_{1}$ .After $K_{1}$ the slope 
 
 \textbf{Range}         & \textbf{Slope}                          \\ \hline
 
-$$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
+$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
 
-$S_0 < S_T \leq K_1$  & 3 \times N = 0.0060$                   \\ \hline
+$S_0 < S_T \leq K_1$  & $3 \times N = 0.0060$                   \\ \hline
 
-S_T > K_1$            & 0$                                       \\ \hline
+$S_T > K_1$            & 0                                       \\ \hline
 
 \end{tabular}
 \end{document}
 ```
 
-<table>
-	<tbody>
-		<tr>
-			<th>Range</th>
-			<th>Slope</th>
-		</tr>
-		<tr>
-			<th>$S_{T}\leq S_{0}$</th>
-			<th>$N=$ 10 =0.0020 $\overline{5,000.57}$</th>
-		</tr>
-		<tr>
-			<td>$S_{0}<S_{T}\leq K_{1}$</td>
-			<td>$3\times N=0.0060$</td>
-		</tr>
-		<tr>
-			<td>$S_{T}>I$ $K_{1}$</td>
-			<td>0</td>
-		</tr>
-	</tbody>
-</table>
+Table 1: Slope of the PLUS for different values of $S_{T}$
 
-Table 1:Slope of the PLUS for differentvalues of $S_{T}$
+Alternatively, let $N$ be the number of units of the underlying securities implicitly held in the PLUS security. 
 
-Alternatively, let $N$ be the number of units of the underlying securities implicitly held in the PLUS security. Table 2 reports the resulting slopes for this position:
+Table 2 reports the resulting slopes for this position:
 
+/ii
 <table>
 	<tbody>
 		<tr>
@@ -107,8 +89,8 @@ $$\pi(T)=N\cdot[S_T+2\cdot max(S_T-S_0,0)-3\cdot max(S_T-K_1,0)]$$
 
 The PLUS security is long $e^{-y}N$ units of the underlying index. $2N$ units of an at the money call option and short $3N$ units of a call option with strike price $K_{1}$
 (b)Use the Black and Scholes model to price the identified simpler securities. Assuming the PLUS was issued on February 18, 2024, $N=0.0020$ and $K_{1}=5,317.27$ .To price the at the money optionI use the implied volatility for a February 2025 call option with strike equal to 5000: $\sigma^{ATM}=17.2\%$ .For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: $\sigma^{OTM}=15.1\%$ The prices of the options ares
-|  |
-| $$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$ |
+| |  | |
+| | $$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$ | |
 
 Hence:
 
