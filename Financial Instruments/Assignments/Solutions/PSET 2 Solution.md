@@ -113,7 +113,9 @@ Z^n(0,  T_n)
 \end{bmatrix}
 $$
 \end{document}
-```latex
+```
+
+
 Figures 1 and 2 plot the discount function and the yield curve implied by these calculations. The vertical dotted line denotes the point at which bond securities are used to bootstrap also for the “new bonds“. Clearly,   depending on the type of securities used,   we can get quite different results. The period surrounding 2009 showed large differences between new bonds and old bond prices,   due to liquidity. Newly issued bonds were much more liquid than old bonds,   which resulted in large price discrepancies. (The comparison between old and new bonds was not part of the assignment).
 Table 1: Securities used in Bootstrap
 ```latex
