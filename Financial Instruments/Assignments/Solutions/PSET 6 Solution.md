@@ -9,7 +9,7 @@ title: PSET 6 Solution
 From the CBOE site I extract options prices with expiration of February 21,2024 and compute “mid" prices as an average of bid and ask. To compute the Black-Scholes-Merton (BSM) implied volatility I need the maturity, the continuously compounded risk free rate $7^{\prime}$ and the continuously compounded dividend yield $y$ .Let $T=0.35$ (365 days in a year and 129 days to maturity). From the Federal Reserve website the annually compounded 3 months constant maturity rate was $r_{1}(0.25)=5.43\%$ on February 12 (some interpolation could be done here. Any reasonable extraction is fine!). Converting this to continuous compounding units gives $r(0.25)=ln\left(1+r_{1}(0.25)/4\right)\times4=5.39\%$ From Robert Shiller's dataset, the January 2021 to June 2023 average dividend yield (annually compounded) was equal to $y_{1}=1.51\%$ , which, converted into continuous compounding units, gives $y=1.50\%$
 
 The BSM implied volatility is computed using solver (I use Matlab, but Excel does exactly the same calculation but takes a bit more time unless you know how to use macros). The results are shown Figure 1 for moneyness from 08 to 1.1
-![](https://storage.simpletex.cn/view/ffMHqDneUe4RChbbs3wR1amsNgtdhR6Fs)
+![500](https://storage.simpletex.cn/view/ffMHqDneUe4RChbbs3wR1amsNgtdhR6Fs)
 
 Figure 1: Implied volatility for June 21, 2024 S&P500 call and call options
 

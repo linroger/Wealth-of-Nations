@@ -72,5 +72,8 @@
   "unique-attachments",
   "swiftlatex-render",
   "latex-render",
-  "typst"
+  "typst",
+  "consistent-attachments-and-links",
+  "obsidian-image-toolkit",
+  "image-captions"
 ]
