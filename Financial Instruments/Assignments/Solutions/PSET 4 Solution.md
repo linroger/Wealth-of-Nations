@@ -73,62 +73,28 @@ Given that the total number of straddles is equal to $N=35,000$, the total loss 
 
 ## Part 2. Binomial Trees - The case of FDA drug approval
 
-(1） According to CAPM, the expected return on an asset $I$ is
-
-$$E(R_i)=r^f+\beta_i\cdot\begin{bmatrix}E(R_m)-r^f\end{bmatrix}$$
-
-where $r^{f}$ is the risk-free rate, $\beta_{I}$ is the beta of the asset, and $\left\lfloor E(R_{m})-r^{f}\right\rfloor$ is the expected market risk premium. To apply formula (2), we first need to compute the annually compounded risk-free rate. We know that $r_{1}\:=\:e^{r}-1$, so we get $r_{1}^{f}=$ $e^{0.05}-1=0.0513$. The expected return of Vanda stock will therefore be
+(1） According to CAPM, the expected return on an asset $I$ is $$E(R_i)=r^f+\beta_i\cdot\begin{bmatrix}E(R_m)-r^f\end{bmatrix}$$ 
+where $r^{f}$ is the risk-free rate, $\beta_{I}$ is the beta of the asset, and $\left\lfloor E(R_{m})-r^{f}\right\rfloor$ is the expected market risk premium. To apply formula (2), we first need to compute the annually compounded risk-free rate. We know that $r_{1}\:=\:e^{r}-1$, so we get $r_{1}^{f}=$ $e^{0.05}-1=0.0513$. The expected return of Vanda stock will therefore be $18.01\%$.
 
 $$E(R_V)=0.0513+2\cdot0.0644=0.1801$$
 
-that is $18.01\%$.
 
 (2) The value of the stock is the present value of the expected stock price at time $t=1$, where the present value is computed using the expected return calculated in point (2.1) above and the expectation is taken using the risk-neutral probability (the probability assumed by the analysts). In formulas, we get:
 
 $$S_0=\frac{E^q\left[S_1\right]}{1+E[R_V]}=\frac{0.7\cdot21+0.3\cdot10}{1.1801}\approx15$$
 
 (3) An ATM option has the strike price equal to the current spot price. In our case, that is $K=15$.
-
-(a) To price the option using the replicating portfolio, we first need to compute the option payoffs at time $t=1$. We have $c_{u}\:=\:max(S_{u}\:-\:K,0)$ and $c_{d}=$ $max(S_{d}-K,0)$. Using the numbers given in the directions, we get $c_{u}=6$ and $c_{d}=0$.
-
-(i) We can now compute the delta as
-
-$$\triangle_0=\frac{c_u-c_d}{S_u-S_d}=\frac{6}{11}=0.5455$$
-
-
-
-And the amount of money borrowed as
-
-$$B_0=e^{-r}\cdot(c_u-\triangle_0\cdot S_u)=0.9512\cdot(6-0.5545\cdot21)=-5.1893$$
-
-So we can replicate the option by buying 0.5545 stocks and borrowing 5.1893 dollars at time $t=0$.
-
-(ii) The time $t=0$ value of such portfolio is $V_{0}^{RP}=\triangle_{0}\cdot S_{0}+B_{0}=0.5545\cdot15-$ 5.1893=2.9933
-(iii） The time $t=1$ payoff of the replicating portfolio are
-
-$$V_{u}^{RP}=\triangle_{0}\cdot S_{u}+B_{0}\cdot e^{r}=0.5545\cdot21-5.1893\cdot1.0513=6\\V_{d}^{RP}=\triangle_{0}\cdot S_{d}+B_{0}\cdot e^{r}=0.5545\cdot10-5.1893\cdot1.0513=0$$
-
-Which are equal to the payoffs of the option
-
-(b) To price the call using risk-neutral probabilities.
-
-(i) We first need to compute such probability $q^*$ as
-
-$$q^*=\frac{e^r-d}{u-d}=\frac{S_0\cdot e^r-S_d}{S_u-S_d}=\frac{15\cdot1.0513-10}{21-10}=0.5244$$
-
-(ii) The expected time $t=1$ price, under the risk-neutral probability $q^*$ , will be
-
-$$E^{q^*}\left[S_1\right]=21\cdot0.5244+10\cdot\left(1-0.5244\right)=15.7681$$
-
-(iii) The expected time $t=1$ price, under the analysts’ probability 4 ,is
-
-$$E^q\left[S_1\right]=21\cdot0.7+10\cdot\left(1-0.7\right)=17.70$$
-
-and is much greater than $E^{q^{*}}\left[S_{1}\right]$ . Under the risk-neutral probability $q^*$ the expected return on $S$ is just the risk-free rate, while under $q$ the expected return includes a risk premium, thus leading to a greater expected price
+- (a) To price the option using the replicating portfolio, we first need to compute the option payoffs at time $t=1$. We have $c_{u}\:=\:max(S_{u}\:-\:K,0)$ and $c_{d}=$ $max(S_{d}-K,0)$. Using the numbers given in the directions, we get $c_{u}=6$ and $c_{d}=0$.
+	- (i) We can now compute the delta as $$\triangle_0=\frac{c_u-c_d}{S_u-S_d}=\frac{6}{11}=0.5455$$ and the amount of money borrowed as $$B_0=e^{-r}\cdot(c_u-\triangle_0\cdot S_u)=0.9512\cdot(6-0.5545\cdot21)=-5.1893$$So we can replicate the option by buying 0.5545 stocks and borrowing 5.1893 dollars at time $t=0$.
+	
+	- (ii). The time $t=0$ value of such portfolio is $V_{0}^{RP}=\triangle_{0}\cdot S_{0}+B_{0}=0.5545\cdot15-$ 5.1893=2.9933
+	- (iii). The time $t=1$ payoff of the replicating portfolio are $$V_{u}^{RP}=\triangle_{0}\cdot S_{u}+B_{0}\cdot e^{r}=0.5545\cdot21-5.1893\cdot1.0513=6\\V_{d}^{RP}=\triangle_{0}\cdot S_{d}+B_{0}\cdot e^{r}=0.5545\cdot10-5.1893\cdot1.0513=0$$Which are equal to the payoffs of the option
+- (b). To price the call using risk-neutral probabilities.
+	- (i) We first need to compute such probability $q^*$ as $$q^*=\frac{e^r-d}{u-d}=\frac{S_0\cdot e^r-S_d}{S_u-S_d}=\frac{15\cdot1.0513-10}{21-10}=0.5244$$
+	- (ii) The expected time $t=1$ price, under the risk-neutral probability $q^*$ , will be $$E^{q^*}\left[S_1\right]=21\cdot0.5244+10\cdot\left(1-0.5244\right)=15.7681$$
+	- (iii) The expected time $t=1$ price, under the analysts’ probability 4 ,is $$E^q\left[S_1\right]=21\cdot0.7+10\cdot\left(1-0.7\right)=17.70$$and is much greater than $E^{q^{*}}\left[S_{1}\right]$ . Under the risk-neutral probability $q^*$ the expected return on $S$ is just the risk-free rate, while under $q$ the expected return includes a risk premium, thus leading to a greater expected price
 
 Note that when we compute the expected price under the risk-neutral probability we are not assuming that agents are risk-neutral. We instead compute
-
-
 
 The risk-neutral probability is a simplifying tool for pricing the securities. Indeed, once we have $q^{*}$, we have only to compute the expected value under $q^{*}$ and discount it at the risk-free rate; this is much easier than computing the beta of the security and then the expected return under the CAPM. (iv) The value of the option is given by
 
@@ -136,28 +102,10 @@ $$c_0=e^{-r}\cdot E^{q^*}\left[c_1\right]=0.9512\cdot[6\cdot0.5244+0\cdot(1-0.52
 
 Which is the same as the one computed using the replicating portfolio.
 
-(4) The option has the same strike price $K=15$.
+(4). The option has the same strike price $K=15$.
+- (a) If the risk-neutral probability (the one assumed by analysts) changes to $q^{‘}$ $q^{‘}=0.8$ and the beta remains equal to $\beta_{V}=2$, the expected time $t=1$ price of the stock becomes $E^{q^{‘}}\left[S_{1}\right]=0.8\cdot21+0.2\cdot10=18.8$ and the time $t=0$ stock price becomes $$S_0’=\frac{E^{q’}\left[S_1\right]}{1+E\left[R_V\right]}=\frac{18.8}{1.1801}=15.9312$$ The risk-neutral probability, therefore, changes to $$q^{*^{\prime}}=\frac{S_{0}^{\prime}\cdot e^{r}-S_{d}}{S_{u}-S_{d}}=\frac{15.9312\cdot1.0513-10}{21-10}=0.6135$$ The option value will therefore be $$c_0’=e^{-r}\cdot E^{q^{*’}}[c_1]=0.9512\cdot[6\cdot0.6135]=3.5018$$ Which is greater than the value computed above in point (2.3)? The reason is that when $q$ increases, the expected time $t=1$ price increases. With $S_0$ equal to 15, the expected return on the stock will be greater than $18.01\%$ ,therefore investors will buy the stock until, pushing its price up, until $E\left[R_{V}\right]=18.01\%$. As the stock price increases, the option’s chances of ending up in the money increase as well, which leads to an increase in the value of the option.
 
-(a) If the risk-neutral probability (the one assumed by analysts) changes to $q^{‘}$ $q^{‘}=0.8$ and the beta remains equal to $\beta_{V}=2$, the expected time $t=1$ price of the stock becomes $E^{q^{‘}}\left[S_{1}\right]=0.8\cdot21+0.2\cdot10=18.8$ and the time $t=0$ stock price becomes
-$$S_0’=\frac{E^{q’}\left[S_1\right]}{1+E\left[R_V\right]}=\frac{18.8}{1.1801}=15.9312$$
-
-The risk-neutral probability, therefore, changes to
-
-$$q^{*^{\prime}}=\frac{S_{0}^{\prime}\cdot e^{r}-S_{d}}{S_{u}-S_{d}}=\frac{15.9312\cdot1.0513-10}{21-10}=0.6135$$
-
-The option value will therefore be
-
-$$c_0’=e^{-r}\cdot E^{q^{*’}}[c_1]=0.9512\cdot[6\cdot0.6135]=3.5018$$
-
-Which is greater than the value computed above in point (2.3)? The reason is that when $q$ increases, the expected time $t=1$ price increases. With $S_0$ equal to 15, the expected return on the stock will be greater than $18.01\%$ ,therefore investors will buy the stock until, pushing its price up, until $E\left[R_{V}\right]=18.01\%$. As the stock price increases, the option’s chances of ending up in the money increase as well, which leads to an increase in the value of the option.
-
-
-
-(b) With the new beta, the expected return on the stock will change to $E\left[R_{V}^{\prime}\right]=$ $0.0513+3.14\cdot0.0644=0.2535$. Given this expected (required) return on the stock, the time $t=0$ price of the stock will therefore be
-
-$$S_0’’=\frac{E^{q’}\left[S_1\right]}{1+E\left[R_V’\right]}=\frac{18.8}{1.2535}\approx15$$
-
-The risk-neutral probability will therefore be
+- (b) With the new beta, the expected return on the stock will change to $E\left[R_{V}^{\prime}\right]=$ $0.0513+3.14\cdot0.0644=0.2535$. Given this expected (required) return on the stock, the time $t=0$ price of the stock will therefore be $$S_0’’=\frac{E^{q’}\left[S_1\right]}{1+E\left[R_V’\right]}=\frac{18.8}{1.2535}\approx15$$The risk-neutral probability will therefore be
 
 $$q^{*^{\prime\prime}}=\frac{S_0^{\prime\prime}\cdot e^r-S_d}{S_u-S_d}=\frac{15\cdot1.0513-10}{21-10}=0.5244=q^*$$
 
