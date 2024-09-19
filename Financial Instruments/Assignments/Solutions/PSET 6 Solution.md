@@ -32,12 +32,11 @@ The trick is to plot the payoff and to analyze the chart to determine the basic 
   columns: 2,
   [
     [**Range**, **Slope**],
-    ["$S_T \leq S_0$", 1],
-    ["$S_0 < S_T \leq K_1$", 3],
-    ["$S_T > K_1$", 0],
+    ["S_T ≤ S_0", "N = (10 / 5000.57) = 0.0020"],
+    ["S_0 < S_T ≤ K_1", "3 × N = 0.0060"],
+    ["S_T > K_1", "0"]
   ]
 )
-#caption(Slope for the Position with $N$ Units of the Underlying Securities)
 ```
 
 
