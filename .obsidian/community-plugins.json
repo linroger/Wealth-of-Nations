@@ -72,5 +72,6 @@
   "github-sync",
   "unique-attachments",
   "swiftlatex-render",
-  "latex-render"
+  "latex-render",
+  "typst"
 ]
