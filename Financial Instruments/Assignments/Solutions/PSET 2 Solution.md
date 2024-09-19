@@ -102,5 +102,5 @@ Accordingly,  convexity of the inverse float can be computed as the weighted ave
 (CP) It follows that the convexity of the inverse float is
 $$\begin{aligned}C_{LIF}&=\quad\frac{1}{P_{LIF}}\times(P_{Fixed}(0,    5)\times C_{Fixed}-2\times P_{Fl}(0;5)\times C_{Fl}+2\times Z(0;5)\times C_{Z})\\&=\quad\frac{1}{125.43}\times(140.74\times19.6431-2\times100\times0.25+2\times92.35)\times25)\\&=\quad58.45\end{aligned}$$
 Compare this to the quoted 5-year fixed-rate bond which has a much lower convexity of 22.30.
-![](https://storage.simpletex.cn/view/fC6VUtUhbSTbnFXLqVBsgzhuG222mTeaw)
+%%caption![Figure 3](https://storage.simpletex.cn/view/fC6VUtUhbSTbnFXLqVBsgzhuG222mTeaw)
 Figure 3:
