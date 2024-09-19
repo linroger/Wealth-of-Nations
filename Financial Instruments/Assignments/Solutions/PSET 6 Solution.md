@@ -38,7 +38,18 @@ $$10+10\times3\times\frac{S_T-S_0}{S_0}=11.9$$
 This is where $S_{T}=5,317.27$ Call this point $K_{1}$ .After $K_{1}$ the slope is zero. Table 1 reports the slopes of the PLUS security:
 ```latex
 \begin{document}
+\begin{tabular}{|c|c|}
+\hline
 
+\textbf{Range}         & \textbf{Slope}                          \\ \hline
+
+$$S_T \leq S_0$         & $N = \frac{10}{5,000.57} = 0.0020$      \\ \hline
+
+$S_0 < S_T \leq K_1$  & 3 \times N = 0.0060$                   \\ \hline
+
+S_T > K_1$            & 0$                                       \\ \hline
+
+\end{tabular}
 \end{document}
 ```
 
@@ -96,8 +107,8 @@ $$\pi(T)=N\cdot[S_T+2\cdot max(S_T-S_0,0)-3\cdot max(S_T-K_1,0)]$$
 
 The PLUS security is long $e^{-y}N$ units of the underlying index. $2N$ units of an at the money call option and short $3N$ units of a call option with strike price $K_{1}$
 (b)Use the Black and Scholes model to price the identified simpler securities. Assuming the PLUS was issued on February 18, 2024, $N=0.0020$ and $K_{1}=5,317.27$ .To price the at the money optionI use the implied volatility for a February 2025 call option with strike equal to 5000: $\sigma^{ATM}=17.2\%$ .For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: $\sigma^{OTM}=15.1\%$ The prices of the options ares
-
-$$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$
+|  |
+| $$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$ |
 
 Hence:
 
