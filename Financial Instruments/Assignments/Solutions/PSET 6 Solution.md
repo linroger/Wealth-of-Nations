@@ -2,106 +2,144 @@
 title: PSET 6 Solution
 ---
 
-# PSET 6 Solution
-## Winter 2024 John Heaton Solution To Homework 6 1. Implied Volatility
+# Solution to Homework 6
 
-From the CBOE site I extract options prices with expiration of February 21, 2024 and compute "mid" prices as an average of bid and ask. To compute the Black-Scholes-Merton (BSM) implied volatility I need the maturity, the continuously compounded risk free rate r and the continuously compounded dividend yield y. Let T = 0.35 (365 days in a year and 129 days to maturity). From the Federal Reserve website the annually compounded 3
-months constant maturity rate was r1(0.25) = 5.43% on February 12 (some interpolation could be done here. Any reasonable extraction is fine!). Converting this to continuous compounding units gives r(0.25) = ln (1 + r1(0.25)/4) × 4 = 5.39%.
+## 1. Implied Volatility
 
-From Robert Shiller's dataset, the January 2021 to June 2023 average dividend yield (annually compounded) was equal to y1 = 1.51%, which, converted into continuous compounding units, gives y = 1.50%.
+From the CBOE site I extract options prices with expiration of February 21,2024 and compute “mid" prices as an average of bid and ask. To compute the Black-Scholes-Merton (BSM) implied volatility I need the maturity, the continuously compounded risk free rate $7^{\prime}$ and the continuously compounded dividend yield $y$ .Let $T=0.35$ (365 days in a year and 129 days to maturity). From the Federal Reserve website the annually compounded 3 months constant maturity rate was $r_{1}(0.25)=5.43\%$ on February 12 (some interpolation could be done here. Any reasonable extraction is fine!). Converting this to continuous compounding units gives $r(0.25)=ln\left(1+r_{1}(0.25)/4\right)\times4=5.39\%$ From Robert Shiller's dataset, the January 2021 to June 2023 average dividend yield (annually compounded) was equal to $y_{1}=1.51\%$ , which, converted into continuous compounding units, gives $y=1.50\%$
 
-The BSM implied volatility is computed using solver (I use Matlab, but Excel does exactly the same calculation but takes a bit more time unless you know how to use macros). The results are shown Figure 1 for moneyness from 08 to 1.1.
+The BSM implied volatility is computed using solver (I use Matlab, but Excel does exactly the same calculation but takes a bit more time unless you know how to use macros). The results are shown Figure 1 for moneyness from 08 to 1.1
+![](https://storage.simpletex.cn/view/ffMHqDneUe4RChbbs3wR1amsNgtdhR6Fs)
 
-As you can see the volatility is not constant, but it is decreasing with the moneyness of the option (as in the Figure from Teaching Note 6). The PLUS security has one-year to maturity with embedded call options so it would be nice to have implied volatility for a one-year maturity. I use the February 2025 options (maturity of 12 months) (don't worry if you didn't do this!). Implied volatility from the June 2024 and February 2025 call options with r(1) = 4.8% (from the one-year constant maturity yield) are show in Figure 2.
+Figure 1: Implied volatility for June 21, 2024 S&P500 call and call options
 
-## 2. Valuing And Analyzing A Structured Security
+As you can see the volatility is not constant.but it is decreasing with the monevness of the option (as in the Figure from Teaching Note 6).
 
-(1) In order to value the PLUS follow these steps:
+The PLUS security has one-year to maturity with embedded call options so it would be nice to have implied volatility for a one-year maturity. I use the February 2025 options (maturity of 12 months) (don't worry if you didn't do this!). Implied volatility from the June 2024 and February 2025 call options with $r(1)=4.8\%$ (from the one-year constant maturity yield) are show in Figure 2.
+![](https://storage.simpletex.cn/view/f4FFtsCbYoOuN2Us9Tx7prGBVrbHBbWz4)
 
-(a) Decompose the PLUS payoff into simpler securities.
-The payoff of the PLUS security at maturity is $$\pi(T)=\left\{\begin{array}{cc}min\left[10+10\times3\times\left(\frac{S_T-S_0}{S_0}\right).9\right]&if\,S_T>S_0\\ 10\times\frac{S_T}{S_0}&if\,S_T\leq S_0\end{array}\right.$$.
-S0 units of the index. Let Starting with ST ≤ S0, this is just a long position in 10
-N =
-10
-S0 be the number of units of the index determined by this part of the payoff. With the S&P500 at 5,000.57 N = 0.0020
-Finding the payoff for the case when ST *> S*0 is simpler than it first appears.
+Figure 2: Implied volatility for June 2024 and February 2025 S&P500 call options
+# 2. Valuing and analyzing a structured security
 
-The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of ST.
+(1)In order to value the PLUS follow these steps:
 
-```typst
-#table(
-  columns: 2,
-  [
-    [**Range**, **Slope**],
-    ["S_T ≤ S_0", "N = (10 / 5000.57) = 0.0020"],
-    ["S_0 < S_T ≤ K_1", "3 × N = 0.0060"],
-    ["S_T > K_1", "0"]
-  ]
-)
-```
+## (a)Decompose the PLUS payoff into simpler securities.
 
-We see that there are two points where the slope changes. The first point is S0, while the second is where:
+The payoff of thePLUS security at maturity is
 
-$$10+10\times3\times{\frac{S_{T}-S_{0}}{S_{0}}}=11.9$$
-This is where ST = 5, 317.27. Call this point K1. After K1 the slope is zero.
+$$\pi(T)=\left\{\begin{array}{cc}min\left[10+10\times3\times\left(\frac{S_T-S_0}{S_0}\right),11.9\right]&\quad if\:S_T>S_0\\10\times\frac{S_T}{S_0}&\quad if\:S_T\leq S_0\end{array}\right.$$
 
-Table 1 reports the slopes of the PLUS security:
+Starting with $S_{T}\leq S_{0}$ , this is just a long position in $\frac{10}{S_0}$ units of the index. Let $N$ = $\frac {10}{S_{0}}$ be the number of units of the index determined by this part of the payoff. With the S&P500 at 5,000.57 N = 0.0020
 
-Range
-Slope
+Finding the payoff for the case when $S_{T}>S_{0}$ is simpler than it first appears. The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of $S_{T}$
 
-$S_T\leq S_0\quad\quad\quad\quad\quad N=\frac{10}{5,000.57}=0.0020$
+![](https://storage.simpletex.cn/view/fBaxKw6vDpLqho5CNS2tfWazQ28oV0xsI)
 
-$\underline{\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad}$
-$S_0<S_T\leq K_1\quad\quad3\times N=0.0060$
+Figure 3: PLUS payoff decomposition
+We see that there are two points where the slope changes. The first point is $S_{0}$ while the second is where:
 
-$S_T>K_1\quad\quad\quad\quad\quad\quad\quad\quad0$
-Alternatively, let N be the number of units of the underlying securities implicitly held in the PLUS security. Table 2 reports the resulting slopes for this position:
+$$10+10\times3\times\frac{S_T-S_0}{S_0}=11.9$$
 
-Range
-Slope
+This is where $S_{T}=5,317.27$ Call this point $K_{1}$ .After $K_{1}$ the slope is zero. Table 1 reports the slopes of the PLUS security:
 
-$$\frac{S_{T}\leq S_{0}}{S_{0}<S_{T}\leq K_{1}}\frac{1}{3}$$
-So, the payoff of the PLUS can be rewritten as
+<table>
+	<tbody>
+		<tr>
+			<th>Range</th>
+			<th>Slope</th>
+		</tr>
+		<tr>
+			<th>$S_{T}\leq S_{0}$</th>
+			<th>$N=$ 10 =0.0020 $\overline{5,000.57}$</th>
+		</tr>
+		<tr>
+			<td>$S_{0}<S_{T}\leq K_{1}$</td>
+			<td>$3\times N=0.0060$</td>
+		</tr>
+		<tr>
+			<td>$S_{T}>I$ $K_{1}$</td>
+			<td>0</td>
+		</tr>
+	</tbody>
+</table>
 
-$$\pi(T)=N\cdot[S_{T}+2\cdot m a x(S_{T}-S_{0})-3\cdot m a x(S_{T}-K_{1})]$$
-The PLUS security is long e−yN units of the underlying index, 2N units of an at the money call option and short 3N units of a call option with strike price K1.
+Table 1:Slope of the PLUS for differentvalues of $S_{T}$
 
-(b) Use the Black and Scholes model to price the identified simpler securities.
+Alternatively, let $N$ be the number of units of the underlying securities implicitly held in the PLUS security. Table 2 reports the resulting slopes for this position:
 
-- Assuming the PLUS was issued on February 18, 2024, N = 0.0020 and K1 = 5, 317.27. To price the at the money option I use the implied volatility for a February 2025 call option with strike equal to 5000: σATM = 17.2%. For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: σOTM = 15.1%. The prices of the options are:
-	- $c^{ATM}=418.26$ and $c^{OTM}=235.01$.
+<table>
+	<tbody>
+		<tr>
+			<th>Range</th>
+			<th>Slope</th>
+		</tr>
+		<tr>
+			<td>$S_T\leq S_0$</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>$S_{0}<S_{T}\leq K_{1}$</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>$S_{T}>$ $K_{1}$ </td>
+			<td>0</td>
+		</tr>
+	</tbody>
+</table>
+
+### Table 2: Slope when holding $N$ underlying securities for different values of $S_{T}$
+
+So.the pavoff of the PLUS can be rewritten as
+
+$$\pi(T)=N\cdot[S_T+2\cdot max(S_T-S_0,0)-3\cdot max(S_T-K_1,0)]$$
+
+The PLUS security is long $e^{-y}N$ units of the underlying index. $2N$ units of an at the money call option and short $3N$ units of a call option with strike price $K_{1}$
+(b)Use the Black and Scholes model to price the identified simpler securities. Assuming the PLUS was issued on February 18, 2024, $N=0.0020$ and $K_{1}=5,317.27$ .To price the at the money optionI use the implied volatility for a February 2025 call option with strike equal to 5000: $\sigma^{ATM}=17.2\%$ .For the OTM option I use the implied volatility for a February 2025 call option with strike equal to 5300: $\sigma^{OTM}=15.1\%$ The prices of the options ares
+
+$$c^{ATM}=418.26\mathrm{~and~}c^{OTM}=235.01$$
+
 Hence:
 
 $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
-3. **Adjust the parameters to obtain a value equal to the issue price.**
 
-- In the prospectus the security is sold for 10 dollars, but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the *OTM* option by decreasing the maximum payoff currently set at 11.9.
-Let C be the maximum payoff.
-Changing this value implicitly
-changes the strike price, K1, of the OTM option. The value of C that sets the
-PLUS security value to $10 is C = 11.61 implying a value of K′
-1 = 5, 268.42. By
-decreasing C the upside potential of the security is decreased as shown in Figure (4).
-so
+(c) Adjust the parameters to obtain a value equal to the issue price. In the prospectus the security is sold for 10 dollars,but according to the model the value is actually greater than par. In order to increase its value we can change the strike price of the $({\mathit{DTM}}$ option by decreasing the maximum payoff currently set at 11.9. Let $C$ be the maximum payoff.Changing this value implicitly changes the strike price, $K_{1}$ , of the OTM option. The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5,268.42$ .By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
+![](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
+Figure 4: PLUS payoff change with $C=11.61$
 
-$$d_{1}^{ATM}=d_{1}(S,S_{0})=\frac{ln\left(\frac{S}{S_{0}}\right)+\left(r-y+\frac{\sigma^{2}}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
+(2) The sensitivity of the PLUS to changes in the underlying is given by
 
-$$d_{1}^{OTM}=d_{1}(S,K_{1})=\frac{ln\left(\frac{S}{K_{1}}\right)+\left(r-y+\frac{\sigma^{2}}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
-∂V P LUS
+$$\begin{aligned}
+\frac{\partial V^{PLUS}}{\partial S}& =\:\frac{\partial N\cdot\left\lfloor S+2\cdot c^{ATM}-3\cdot c^{OTM}\right\rfloor}{\partial S}=  \\
+&=\quad N\cdot\left[\frac{e^{-y}\partial S}{\partial S}+2\cdot\frac{\partial c^{ATM}}{\partial S}-3\cdot\frac{\partial c^{OTM}}{\partial S}\right]= \\
+&\text{=}& N\cdot\left[e^{-y}+2\cdot e^{-y}N\left(d_{1}^{ATM}\right)-3\cdot e^{-y}N\left(d_{1}^{OTM}\right)\right]
+\end{aligned}$$
 
-for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{MTM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$. Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$. (In this calculation I used the appropriate implied volatility for
-∂S
-= 0.00177. (In this calculation I used the appropriate implied volatility for each option.)
-To compute the beta of the PLUS use the formula
+remember that $d_{1}$ is a function of S and $K$ is given by
 
-$$\beta^{P L U S}={\frac{{\frac{q V^{P L U S}}{V^{P L U S}}}}{{\frac{d S}{S}}}}={\frac{d V^{P L U S}}{d S}}\cdot{\frac{S}{V^{P L U S}}}=0.0020\cdot{\frac{S}{V^{P L U S}}}$$
+$$d_1(S,K)=\frac{ln\left(\frac{S}{K}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
+So
+$$d_1^{ATM}=d_1(S,S_0)=\frac{ln\left(\frac{S}{S_0}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}d_1^{OTM}=d_1(S,K_1)=\frac{ln\left(\frac{S}{K_1}\right)+\left(r-y+\frac{\sigma^2}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}$$
+
+for $S=S_{0}$ we get $e^{-y}N\left(d_{1}^{ATM}\right)=0.621$ and $e^{-y}N\left(d_{1}^{OTM}\right)=0.447$ . Therefore $\frac{\partial V^{PLUS}}{\partial S}=0.00177$ . (In this calculation I used the appropriate implied volatility fo each option.)
+
+To compute the beta of the PLUS, use the formula
+
+$$\beta^{PLUS}=\frac{\frac{dV^{PLUS}}{V^{PLUS}}}{\frac{dS}{S}}=\frac{dV^{PLUS}}{dS}\cdot\frac{S}{V^{PLUS}}=0.0020\cdot\frac{S}{V^{PLUS}}$$
+
 that results in
 
-$$\beta^{P L U S}=0.0020\cdot{\frac{5000.57}{10.114}}=0.88$$
-which is less than 1. At the current level of the S&P500 the security is less risky than the S&P500 itself. Computing the value of beta for different values of S (keeping the same implied volatilities used to compute option prices) and for different times to maturity (see Figure 5), we see that as we approach maturity, the beta of the PLUS increases substantially in the region between S0 and K1.
+$$\beta^{PLUS}=0.0020\cdot\frac{5000.57}{10.114}=0.88$$
 
-This happens because between S0 and K1 the PLUS security is a leveraged investment
-(the slope of the payoff increases in that region since the at the money option becomes in the money). In may be helpful to see how the value of the security changes when the value of the underlying changes at different points in time.
+which is less than 1. At the current level of the S&P500 the security is less risky than the S&P500 itself
 
-This is shown in Figure 6.
+Computing the value of betafor different values of S (keeping the same impliec volatilities used to compute option prices)and for different times to maturity(see Figure 5)，we see that as we approach maturity, the beta of the PLUS increases substantially in the region between $S_{0}$ and $K_{1}$
+
+This happens because between $S_{0}$ and $K_{1}$ the PLUS security is a leveraged investment (the slope of the payoff increases in that region since the at the money option becomes in the money).In may be helpful to see how the value of the security changes when the value of the underlying changes at different points in time. This is shown in Figure 6.
+![](https://storage.simpletex.cn/view/fVxbI04IrEmodiRsPg8SrO1QQAOO0aALB)
+
+Figure 5: PLUS beta for different values of $S$ and $t$
+
+![](https://storage.simpletex.cn/view/feu7aq8BzE5SgvO1muvkL2ihVHwYIq8yk)
+
+Figure 6:PLUS value for different values of S and $t$
