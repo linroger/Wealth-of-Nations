@@ -910,7 +910,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 17): `Teaching Note 3 Understanding The Term Structure Of Interest Rates`
 - (line 18): `Teaching Note 4 Interest Rate Derivatives`
 - (line 19): `Teaching Note 5 Risk Neutral Pricing`
-[[YIELD CURVE EXTRACTION METHODS]]:
+[[Yield Curve Extraction Methods-A Comprehensive Analysis ]]:
 - (line 10): `#introduction`
 - (line 11): `#data-preparation`
 - (line 12): `#bond-selection-process`
