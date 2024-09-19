@@ -39,6 +39,22 @@ The trick is to plot the payoff and to analyze the chart to determine the basic 
 )
 ```
 
+```latex
+\documentclass{standalone}
+\usepackage{amsmath}
+\begin{document}
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+A & B \\ \hline
+1 & 2 \\ \hline
+\end{tabular}
+\caption{Sample Table}
+\end{table}
+\end{document}
+```
+
 
 
 ```latex
