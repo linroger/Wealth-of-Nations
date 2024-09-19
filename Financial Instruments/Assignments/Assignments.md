@@ -31,7 +31,6 @@ linter-yaml-title-alias: ASSIGNMENTS
 	- [[PSET 7 Solutions]]
 	- [[PSET 7- Financial Instruments]]
 	- **[[Solutions]]**
-		- [[htt]]
 		- [[PSET 1 Solution]]
 		- [[PSET 2 Solution]]
 		- [[PSET 3 Solution]]
@@ -45,4 +44,5 @@ linter-yaml-title-alias: ASSIGNMENTS
 		- [[PSET 6 Solution]]
 		- [[PSET 7 Solution]]
 		- [[Solutions]]
+
 %% End Waypoint %%
