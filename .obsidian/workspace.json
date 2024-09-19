@@ -11,9 +11,12 @@
             "id": "26a2dd5b41f722bf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2-Debt contracts due to the lack of information"
+                "file": "Financial Instruments/Assignments/PSET 6- Financial Instruments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -115,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Financial Instruments/Assignments/PSET 6- Financial Instruments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Financial Instruments/Assignments/PSET 6- Financial Instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Financial Instruments/Assignments/PSET 6- Financial Instruments.md"
+              }
             }
           }
         ],
