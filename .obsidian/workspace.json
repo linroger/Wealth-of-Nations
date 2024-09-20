@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Untitled.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Untitled.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Untitled.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Untitled.md"
+                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md"
               }
             }
           }
@@ -260,12 +260,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2454d9ac51b65186",
+  "active": "c112d56a768d8830",
   "lastOpenFiles": [
+    "Vault.md",
+    "Advanced Investments/Teaching Note 1 Introduction To Fixed Income Securities.png",
+    "Fixed Income Asset Pricing/Untitled.md",
     "svg-cache/Untitled.svg",
     "svg-cache/Untitled.png",
     "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
-    "Fixed Income Asset Pricing/Untitled.md",
     "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
     "svg-cache/Lecture Note 6-Implied Volatility.svg",
     "svg-cache/Lecture Note 6-Implied Volatility.png",
@@ -281,12 +283,10 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
     "svg-cache/PSET 7 Solution-2.svg",
-    "svg-cache/PSET 7 Solution-2.png",
     "Financial Instruments/Assignments/Solutions/htt.md",
     "CleanShot 2024-09-19 -002793@2x 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x 1.md",
     "CleanShot 2024-09-19 -002793@2x.md",
-    "Teaching Note 1 Introduction To Fixed Income Securities.png",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",

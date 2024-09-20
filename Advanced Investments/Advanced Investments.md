@@ -4,9 +4,9 @@ title: Advanced Investments
 # Advanced Investments
 
 %% Begin Waypoint %%
-
 - **[[Advanced Investments]]**
 	- [[Advanced Investments]]
+	- [[Teaching Note 1 Introduction To Fixed Income Securities.png]]
 	- **[[Week 1-Advanced Investments]]**
 		- [[DetailedLectureNotes_Week1]]
 		- [[Week 1-Advanced Investments]]
