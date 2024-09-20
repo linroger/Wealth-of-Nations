@@ -1,24 +1,12 @@
-Chen, Ren-Raw Analysis of Fixed Income Securities /Ren-Raw Chen ISBN
-
-Copyright $\textcircled{\mathrm{O20}}.$ 20 by Ren-Raw Chen
-
-Allrights reserved. This book, or parts thereof, may not be reproduced in any form or by any means, electronic or mechanical, including photocopying, recording or any information storage and retrieval system now known or to be invented, without written permission from the author
-
-------------------------------------------------------------------
-
-
-
-------------------------------------------------------------------
-
-# Contents
+# Analysis of Fixed Income Securities
 
 ## Contents
 
 ### 1 Introduction
 
 1.1 Introduction. 1
-
-1.2 How Many Interest Rates Are Out There? 31.2.1 US Treasuries 31.2.2 FED rates 41.2.3 LIBOR based products 451.2.4 Agencies.. 1.2.5 Corporates Credit rating 61.2.6 Sovereigns USD denominated 81.2.7 Municipals Munis 9101.2.8 Retail Credits 1.3 Types of Fixed Income Securities 11
+1.2 How Many Interest Rates Are Out There? 3
+1.2.1 US Treasuries 31.2.2 FED rates 41.2.3 LIBOR based products 451.2.4 Agencies.. 1.2.5 Corporates Credit rating 61.2.6 Sovereigns USD denominated 81.2.7 Municipals Munis 9101.2.8 Retail Credits 1.3 Types of Fixed Income Securities 11
 
 11.1.1 What Is A Fixed Income Security 121.1.2 Trading Conventions 1.1.3 OTC Trading and Liquidity Risk 21.4 Market Basics 121.4.1 Yield. 121.4.2 Par Yield and Zero Rate.. 151.4.3 Price Quote vs. Rate Quote or Volatility Quote 16171.4.4 Daycount
 
