@@ -4,7 +4,7 @@
   "textFontFamily": "SF Pro Display,CMU Serif",
   "interfaceFontFamily": "SF Pro Display,SF Pro Rounded",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "translucency": true,
   "enabledCssSnippets": [
     "centered_table",
