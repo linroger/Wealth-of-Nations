@@ -149,7 +149,7 @@ Monitoring and Control
 | 1                                           | 0                          | 1                              | 0.2                               | 1   | No | 1  | no |
 
 # The One Loan Bank,  With Total Deposits Of B (B/N Each; Sanctions For Paying Less)
-![CleanShot 2024-09-23 -002848@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002848@2x.png)
+![CleanShot 2024-09-23-002848@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002848@2x.png)
 
 # The One Loan Bank Can't Survive
 - A monitor who is liquidated in exactly the same sitiuations (and at the same cost) as the borrower who borrowed directly can't survive.
@@ -157,60 +157,38 @@ Monitoring and Control
 - But a diversified monitor can implement delegated monitoring.
 
 # The Two Loan Bank
-
+![CleanShot 2024-09-23 -002849@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002849@2x.png)
 Each investor owed 2B/20,  000 = B/10,  000
 
 # Diversification: Bank Contracts As Financial Engineering
+- Example of "two loan bank." 
+- Makes and monitors two loans,  to 2 borrowers with independent and identically distributed projects
+- Collects 1+f when only one loan defaults (2f when none default,  and 2 when both default).
+- Bank fails only when both loans default (with probability (0.2)2=0.04. Reduces chance of penalty or inefficient liquidation
 
- Example of "two loan bank." Makes and monitors two loans,  to 2 borrowers with independent and identically distributed projects Collects 1+f when only one loan defaults (2f when none default,  and 2 when both default).
-
- Bank fails only when both loans default (with probability (0.2)2=0.04. Reduces chance of penalty or inefficient liquidation
-
-The Two Loan Bank,  with
-
-# Deposits Of 2B In Total
-
-The Two Loan Bank,  with deposits of 2B
-(sanctions to bank for smaller payment)
-
-![31_image_0.png](31_image_0.png)
-
-| Investor 1   |
-|--------------|
-
-![31_image_1.png](31_image_1.png)
+# The Two Loan Bank,  with Deposits Of 2B In Total
+![CleanShot 2024-09-23 -002850@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002850@2x.png)
+# The Two Loan Bank,  with deposits of 2B (sanctions to bank for smaller payment)
+![CleanShot 2024-09-23 -002851@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002851@2x.png)
 
 # Both Borrowers Return H,  Pay F
+![CleanShot 2024-09-23 -002852@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002852@2x.png)
 
-![32_image_0.png](32_image_0.png)
 
 # Both Borrowers Return 1; Collects 1+1=2
+![CleanShot 2024-09-23 -002853@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002853@2x.png)
 
-![33_image_0.png](33_image_0.png)
-
-![33_image_1.png](33_image_1.png)
 
 # One Borrower Returns 1.4,  The Other 1
-
+![CleanShot 2024-09-23 -002854@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002854@2x.png)
 ![34_image_0.png](34_image_0.png)
 
-"Works out" bad loans,  collects good If the bank can avoid default when it collects 1+f,  it fails with prob 0.04 Actual cash flow not observed by invesors,  who observe only the amount repaid.
+"Works out" bad loans,  collects good
 
-1.4 pays B >1.05 Prob=0.96
-
-![35_image_0.png](35_image_0.png)
-
-![35_image_1.png](35_image_1.png)
-
-|                             | Prob = 0.04 1                          | Can't pay face,     |
-|-----------------------------|------------------------------------------|-------------------|
-|                             | Impose Liquidation (this rarely happens) |                   |
-| Solve: 0.96(B)+0.04(0)=1.05 |                                          |                   |
-| Face per loan=B=1.09375     | 36                                       |                   |
-
-![35_image_2.png](35_image_2.png)
-
-![35_image_3.png](35_image_3.png)
+# If the bank can avoid default when it collects 1+f,  it fails with prob 0.04 
+- Actual cash flow not observed by invesors,  who observe only the amount repaid.
+![CleanShot 2024-09-23 -002855@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002855@2x.png)
+Face per loan=B=1.09375
 
 # The 2-Loan Bank Can Survive
 
