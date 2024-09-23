@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5024719238281
+    "width": 256.5024719238281
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md"
               }
             }
           }
@@ -260,8 +260,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c112d56a768d8830",
+  "active": "2454d9ac51b65186",
   "lastOpenFiles": [
+    "svg-cache/PSET 7 Solution-3.svg",
+    "svg-cache/PSET 7 Solution-3.png",
+    "Financial Instruments/Assignments/PSET 7 Solutions.md",
+    "Financial Instruments/Assignments/PSET 7- Financial Instruments.md",
+    "Financial Instruments/Assignments/Financial Instruments Midterm Solutions 2013.md",
     "Vault.md",
     "Advanced Investments/Teaching Note 1 Introduction To Fixed Income Securities.png",
     "Fixed Income Asset Pricing/Untitled.md",
@@ -282,7 +287,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Financial Instruments/Assignments/Solutions/PSET 7 Solution.md",
-    "svg-cache/PSET 7 Solution-2.svg",
     "Financial Instruments/Assignments/Solutions/htt.md",
     "CleanShot 2024-09-19 -002793@2x 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x 1.md",
@@ -295,10 +299,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/assets/Fixed-Income-Lecture-Notes/Inflation Swaps.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 3 Understanding The Term Structure Of Interest Rates.md",
-    "Financial Instruments/Assignments/Solutions/PSET 2 Solution.md",
-    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
     "svg-cache",
