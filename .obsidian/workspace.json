@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
+                "file": "Financial Markets and Institutions/Financial Markets and Institutions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
+                "file": "Financial Markets and Institutions/Financial Markets and Institutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
+                "file": "Financial Markets and Institutions/Financial Markets and Institutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Engineering/5._MeanVariance-CAPM.md"
+                "file": "Financial Markets and Institutions/Financial Markets and Institutions.md"
               }
             }
           }
@@ -267,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,11 +287,13 @@
   },
   "active": "59fb0b0ba0d14499",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
+    "Vault.md",
+    "Financial Engineering/5._MeanVariance-CAPM.md",
     "Financial Engineering/7._BlackScholesModel.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/Financial Markets and Institutions.md",
-    "Vault.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
@@ -323,8 +323,6 @@
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
