@@ -125,20 +125,19 @@ Intermediation Avoids Duplicated Outside
 
 bank?
 
-Intermediation Avoids Duplicated Outside Monitoring and Control
+### Intermediation Avoids Duplicated Outside 
+Monitoring and Control
+![CleanShot 2024-09-23 -002846@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002846@2x.png)
 
-Incentives for delegated monitoring: Bank Issues debt with face value B,  per loan Liquidate the bank for zero (all get 0) if bank pays out less than B (per loan).
-
- Monitor/bank has no assets of its own.
-
- Gets cash by collecting and negotiating the loan to borrower,  with face f.
-
- When borrower has 1 bank can pay at most 1 then.
-
- **Monitor be liquidated in same**
-situations as the borrower with unmonitored debt.
+### Incentives for delegated monitoring: Bank Issues debt with face value B,  per loan
+- Liquidate the bank for zero (all get 0) if bank pays out less than B (per loan).
+ - Monitor/bank has no assets of its own.
+ - Gets cash by collecting and negotiating the loan to borrower,  with face f.
+ - When borrower has 1 bank can pay at most 1 then.
+ - **Monitor be liquidated in same situations as the borrower with unmonitored debt.
 
 # One Loan Per Bank
+![CleanShot 2024-09-23 -002847@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002847@2x.png)
 
 | Public  bond  with face  1.3125  receives   | Amount bank can            |                                |                                   |     |    |    |    |
 |---------------------------------------------|----------------------------|--------------------------------|-----------------------------------|-----|----|----|----|
@@ -150,25 +149,12 @@ situations as the borrower with unmonitored debt.
 | 1                                           | 0                          | 1                              | 0.2                               | 1   | No | 1  | no |
 
 # The One Loan Bank,  With Total Deposits Of B (B/N Each; Sanctions For Paying Less)
+![CleanShot 2024-09-23 -002848@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002848@2x.png)
 
-borrower can pay,  and defaults on deposits just as often as the borrower would without monitoring.
-
-Investor 1 Investor 2
-
-| Investor 3    |
-|---------------|
-
-Investor N
-Can't Pay B≥1.05 to investors when borrower has 1
-
-# The One Loan Bank Can'T Survive
-
- A monitor who is liquidated in exactly the same sitiuations (and at the same cost)
-as the borrower who borrowed directly can't survive.
-
- The costs of liquidation are the same as borrowing direct,  and a monitoring cost in incurred.
-
- But a diversified monitor can implement delegated monitoring.
+# The One Loan Bank Can't Survive
+- A monitor who is liquidated in exactly the same sitiuations (and at the same cost) as the borrower who borrowed directly can't survive.
+- The costs of liquidation are the same as borrowing direct,  and a monitoring cost in incurred.
+- But a diversified monitor can implement delegated monitoring.
 
 # The Two Loan Bank
 
