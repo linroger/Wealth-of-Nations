@@ -27,11 +27,11 @@ d. The competitive market makers earn zero monopoly profits and break even on av
 For example,  if there are no informed traders the bid-ask spread is zero.If there are nothing but informed traders,  there is no bid-ask spread which allows the market maker to break even,  because he loses on all trades to informed.
  e.One Period Example
 	- i. Absent a trade,  price of the stock would be 1/2 because there is a 50-50 chance of being worth 1 or O. If no informed traders existed,  this would be the price,  with no spread. This represents the"grand mean"average value of the stock
-	- ii. 1/2 of all traders are informed (more than in reality),  1/2 uninformed. This means that when an order comes in, the probability it is an informed trade is 1/2
-		- i. Consider first the ask price.If a buy order comes in,  and it is from an informed, it must be that the private information is that the stock is worth 1(otherwise the informed trader would sell) and the market makerwill make a"profit"of:
+	- ii. 1/2 of all traders are informed (more than in reality),  1/2 uninformed. This means that when an order comes in,  the probability it is an informed trade is 1/2
+		- i. Consider first the ask price.If a buy order comes in,  and it is from an informed,  it must be that the private information is that the stock is worth 1(otherwise the informed trader would sell) and the market makerwill make a"profit"of:
 				- ask-1(= a loss of 1-ask)
 		- If the buy is from a liquidity trader,  the stock is equally likely to be worth O as 1,  so the average profit from the trade is:ask -[(1/2 x1)+(1/2 x 0)]=ask -1/2
-			- The average profit is the average of these two"profits, "so break even is when
+			- The average profit is the average of these two"profits,  "so break even is when
 				-$$V_2x(ask-1)+V_2x(ask-V_2)=0$$
 				- $$\mathrm{ask}=3/4.$$
 					- (Equivalently,  3/4 is the expected value of the stock given a buy order).
@@ -43,9 +43,9 @@ For example,  if there are no informed traders the bid-ask spread is zero.If the
 			-$$ \mathrm{bid} = \frac{1}{4}$$
 			- (Equivalently,  1/4 is the expected value of the stock given a sell order)
 - A positive bid-ask spread is due to the losses to informed trading.It also makes the price reveal and reflect some of the private information of information traders.
-- If the first trade were a buy (at the ask of 3/4), then 3/4 would be the transaction price,  and would be the "baseline" for the next transaction. The new ask would be above 3/4 and the new bid above 1/4 Trade by informed traders makes the price adjust toward the value that is not yet known to the public.
+- If the first trade were a buy (at the ask of 3/4),  then 3/4 would be the transaction price,  and would be the "baseline" for the next transaction. The new ask would be above 3/4 and the new bid above 1/4 Trade by informed traders makes the price adjust toward the value that is not yet known to the public.
 
 ## 2. Results
-- Private information reduces liquidity. The larger the fraction of informed traders, the larger the bid-ask spread, but the quicker the price reflects the private information
+- Private information reduces liquidity. The larger the fraction of informed traders,  the larger the bid-ask spread,  but the quicker the price reflects the private information
 - Private information implies that buying or selling a security will move the price,  even if you have noinformation and the market is competitive.
 - Market efficiency is consistent with the ability to make money by trading if you have private information (but it is often difficult to tell if you have information that isreally private!)

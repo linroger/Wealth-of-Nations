@@ -11,9 +11,9 @@ linter-yaml-title-alias: PSET 5 Financial Instruments
 Solution to Homework 5
 
 ### Part 1. Multi-period binomial tree
-1. The intermediary can set up a replicating portfolio using delta hedging. At each node $(i,                      j)$，(with $i$ representing the period $i=0,                      …,                      I-1$ and $j$ representing the row $j=1,                      …\dot{i}$ for a given period) the intermediary can take a position equal to $\triangle_{i,                      j}$ stocks and $B_{i,                      j}$ bonds,  where
-$$\triangle_{i,                      j}=\frac{c_{i+1,                      j}-c_{i+1,                      j+1}}{S_{i+1,                      j}-S_{i+1,                      j+1}}$$
-$$B_{i,                      j}=\frac{1}{1+r}\cdot(c_{i+1,                      j}-\triangle_{i,                      j}\cdot S_{i+1,                      j})=\frac{1}{1+r}\cdot(c_{ i+1j+1}-\triangle_{i,                      j}\cdot S_{i+1,                      j+1})$$ …e member that by taking the positions (1) …d (2) the institution replicates a long call,  which exactly offsets the short position in the call.
+1. The intermediary can set up a replicating portfolio using delta hedging. At each node $(i,                       j)$，(with $i$ representing the period $i=0,                       …,                       I-1$ and $j$ representing the row $j=1,                       …\dot{i}$ for a given period) the intermediary can take a position equal to $\triangle_{i,                       j}$ stocks and $B_{i,                       j}$ bonds,  where
+$$\triangle_{i,                       j}=\frac{c_{i+1,                       j}-c_{i+1,                       j+1}}{S_{i+1,                       j}-S_{i+1,                       j+1}}$$
+$$B_{i,                       j}=\frac{1}{1+r}\cdot(c_{i+1,                       j}-\triangle_{i,                       j}\cdot S_{i+1,                       j})=\frac{1}{1+r}\cdot(c_{ i+1j+1}-\triangle_{i,                       j}\cdot S_{i+1,                       j+1})$$ …e member that by taking the positions (1) …d (2) the institution replicates a long call,  which exactly offsets the short position in the call.
 (a）We can sta rt by r epresent ing the tr ee for the st ock price,  that is shown in Fig ure (1).
 ![](https://storage.simpletex.cn/view/fyyg666isOQVVhplkPU976LrXANnionPx)
 Figure 1: Stock price tree
@@ -22,21 +22,21 @@ Given the tree in Figure (1) we can compute option payoff at period $i=2$，a 8 
 ![](https://storage.simpletex.cn/view/ff1S4VLcHlx0cOyDGCalKPhKElGbmD8Ge)
 
 ```latex
-\usetikzlibrary{arrows.meta,                      positioning}
+\usetikzlibrary{arrows.meta,                       positioning}
 \begin{document}
 \begin{tikzpicture}[
-    node distance=1.5cm and 2cm,                     
-    every node/.style={font=\footnotesize},                     
-    box/.style = {draw,                      rectangle,                      align=center},                     
+    node distance=1.5cm and 2cm,                      
+    every node/.style={font=\footnotesize},                      
+    box/.style = {draw,                       rectangle,                       align=center},                      
     arrow/.style={-{Stealth}}
   ]
   \node[box] (S0) {$S_0 = 100$ \\ $\Delta_0 = 0.7732$ \\ $B_0 = -66.9474$ \\ $c_0 = 10.3768$};
-  \node[box,                      above right=of S0] (Su) {$S_u = 110$ \\ $\Delta_u = 1.0000$ \\ $B_u = -95.2381$ \\ $c_u = 14.7619$};
-  \node[box,                      below right=of S0] (Sd) {$S_d = 90.9091$ \\ $\Delta_d = 0.0000$ \\ $B_d = 0.0000$ \\ $c_d = 0.0000$};
-  \node[box,                      above right=of Su] (Suu) {$S_{u.u} = 121.0000$ \\ $c_{u.u} = 21.0000$};
-  \node[box,                      below right=of Su] (Sud) {$S_{u.d} = 100.0000$ \\ $c_{u.d} = 0.0000$};
-  \node[box,                      above right=of Sd] (Sdu) {$S_{d.u} = 100.0000$ \\ $c_{d.u} = 0.0000$};
-  \node[box,                      below right=of Sd] (Sdd) {$S_{d.d} = 82.6446$ \\ $c_{d.d} = 0.0000$};
+  \node[box,                       above right=of S0] (Su) {$S_u = 110$ \\ $\Delta_u = 1.0000$ \\ $B_u = -95.2381$ \\ $c_u = 14.7619$};
+  \node[box,                       below right=of S0] (Sd) {$S_d = 90.9091$ \\ $\Delta_d = 0.0000$ \\ $B_d = 0.0000$ \\ $c_d = 0.0000$};
+  \node[box,                       above right=of Su] (Suu) {$S_{u.u} = 121.0000$ \\ $c_{u.u} = 21.0000$};
+  \node[box,                       below right=of Su] (Sud) {$S_{u.d} = 100.0000$ \\ $c_{u.d} = 0.0000$};
+  \node[box,                       above right=of Sd] (Sdu) {$S_{d.u} = 100.0000$ \\ $c_{d.u} = 0.0000$};
+  \node[box,                       below right=of Sd] (Sdd) {$S_{d.d} = 82.6446$ \\ $c_{d.d} = 0.0000$};
   \draw[arrow] (S0) -- (Su);
   \draw[arrow] (S0) -- (Sd);
   \draw[arrow] (Su) -- (Suu);
@@ -86,7 +86,7 @@ $$\triangle_{u}=\frac{c_{u\cdot u}-c_{u\cdot d}}{S_{u\cdot u}-S_{u\cdot d}}=1.00
 and a o sition in zero couponbond paying 1 dollar at period $i=2$ equal to the value of such new portfolio is $V_{u}^{RP}=\triangle_{u}\cdot S_{u}+B_{u}=1.000\cdot110+(-95.2381)=$ 14.7619 that is exactly equal to the liquidation value of the portfolio that was set up at period $i=0$.
 $$B_{u}=\frac{1}{1+r}\ cdot(c_{u\cdot u}-\triangle_{u}\cdot S_{u\cdotu })=\frac{1}{1+0.05}\cdot(21-1\cdot121)=-95.2381$$
 We can do the same exercise for node (2,  1) and we see that
-$$\triangle_0\cdot S_d+B_0\cdot(1+r)=V_d^{RP}=\triangle_d\cdot S_{1,                      2}+B_d=0$$
+$$\triangle_0\cdot S_d+B_0\cdot(1+r)=V_d^{RP}=\triangle_d\cdot S_{1,                       2}+B_d=0$$
 (d) The P&L of the portfolio can be computed by looking at the portfolio value. At node (1,  1),  the value of the replicating portfolio is $V_{u}^{RP}=14.7619$,  so if stock price goes up between period $i=0$ and period $i=1$，then the portfolio gains 14.7619-10.3768=4.39 dollars (which is the same value we loose on the short call position). If instead the stock price goes down the value of the portfolio in node (1,  2),  that is $V_{d}^{RP}=0$ goes to 0,  so we experience a loss equal to 10.3768. In the same way,  at time 2,  if the price of the stock is $S_{u\cdot u}=121$，then the portfolio gains 21.000-14.7619=6.2381 dollars,  while if the stock prices goes from $S_{u}=110$ to $S_{u\cdot d}=100$ then the portfolio value drops to 0 loosing 14.7619 dollars. Finally for node (1,  2) in both scenarios $S_{d\cdot u}$ and $S_{d\cdot d}$ the value of the portfolio does not change as it remains equal to 0
 (e) If the option pays a $5\%$ dividend yield in period 1,  after the payment of the dividend,  the stock price will decrease by an amount equal to the dividend paid (which means a proportional decrease by $5\$）at period $i=1$. Ths happens because t he gross return of the stock is either $u$ or $a$. And the gross return comprises both capital gains and dividends. For example,  considering an “upmove" and letting $y$ denote the per period dividend yield we get:
 $$\begin{array}{rcl}S_0\cdot u&=&CG+D\\\\&=&S_0\cdot u\cdot(1-y)+S_ 0\cdot u\cdot y\end{array}$$

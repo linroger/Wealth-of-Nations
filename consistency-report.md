@@ -3,8 +3,11 @@ title: Bad links (111 files)
 aliases: [Bad links (111 files)]
 linter-yaml-title-alias: Bad links (111 files)
 ---
+
 # Bad links (111 files)
+
 [[Advanced Financial Analysis and Valuation]]:
+
 - (line 10): `Advanced Financial Analysis and Valuation`
 - (line 11): `Advanced Financial Analysis and Valuation`
 - (line 12): `BMW Valuation Multiples`
@@ -31,14 +34,14 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 54): `#_heading=h.wzlb5we2ear9`
 [[Financial Ratios]]:
 - (line 2): `Financial Ratios`
-- (line 3): `Comps Definition,  How They're Used in Analysis,  and Example`
+- (line 3): `Comps Definition,   How They're Used in Analysis,   and Example`
 - (line 4): `Earnings Before Interest and Taxes (EBIT) Formula and Example`
 - (line 5): `Financial Ratios`
 - (line 6): `Fixed Asset Turnover Ratio Explained With Examples`
 - (line 7): `How to Use Price-To-Sales Ratios to Value Stocks`
-- (line 8): `Leverage Ratio What It Is,  What It Tells You,  How to Calculate`
+- (line 8): `Leverage Ratio What It Is,   What It Tells You,   How to Calculate`
 - (line 9): `Operating Income vs. Net Income What's the Difference`
-- (line 10): `Operating Margin What It Is and the Formula for Calculating It,  With Examples`
+- (line 10): `Operating Margin What It Is and the Formula for Calculating It,   With Examples`
 [[Lecture Notes]]:
 - (line 11): `Lecture Notes`
 - (line 12): `Lecture Notes`
@@ -53,7 +56,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 22): `Week 8 Opportunities And Risks Of Investing Internationally`
 - (line 23): `Week 8Dow Chemical CaseAssignment Review`
 - (line 25): `Week 9Zoom Assignment Review`
-- (line 26): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses`
+- (line 26): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses`
 [[Week 1 Ratio Analysis + Valuation Review]]:
 - (line 191): `Z. Clippings/Week 1 Introduction-20240430070944839.png`
 [[Week 1]]:
@@ -127,7 +130,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 13): `PSET 5Pharmaceuticals And Intangibles In Valuation.md`
 [[Week 5]]:
 - (line 2): `Week 5`
-- (line 3): `Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill`
+- (line 3): `Week 5 Accounting RecapR&D,   Intangibles,   M&A & Goodwill`
 - (line 4): `Week 5 Pharmaceuticals and Intangibles in Valuation`
 - (line 5): `Week 5`
 [[Week 6 Assignment Review]]:
@@ -143,11 +146,11 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 15): `BANKS AND LIQUIDITY CREATION.md`
 - (line 16): `BANKS AND LIQUIDITY CREATION.md`
 - (line 17): `Bank Regulation and Management.md`
-- (line 18): `Bank CreditDefinition,  How It Works,  Types,  and Examples.md`
+- (line 18): `Bank CreditDefinition,   How It Works,   Types,   and Examples.md`
 - (line 19): `BANK DEBT VS. BONDS.md`
 - (line 20): `What Is a Standby Letter of Credit (SLOC) and How Does It Work.md`
-- (line 21): `Understanding Bank CapitalA Primer — Money,  Banking and Financial Markets.md`
-[[Week 6 Bank Business Model,  Regulation,  and Accounting Rules]]:
+- (line 21): `Understanding Bank CapitalA Primer — Money,   Banking and Financial Markets.md`
+[[Week 6 Bank Business Model,   Regulation,   and Accounting Rules]]:
 - (line 11): `HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio.md`
 - (line 12): `HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md`
 - (line 13): `PSET 6Evaluating Bank Balance Sheets and Loan Portfolios.md`
@@ -155,36 +158,36 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 17): `BANKS AND LIQUIDITY CREATION.md`
 - (line 18): `BANKS AND LIQUIDITY CREATION.md`
 - (line 19): `Bank Regulation and Management.md`
-- (line 20): `Bank CreditDefinition,  How It Works,  Types,  and Examples.md`
+- (line 20): `Bank CreditDefinition,   How It Works,   Types,   and Examples.md`
 - (line 21): `BANK DEBT VS. BONDS.md`
 - (line 22): `What Is a Standby Letter of Credit (SLOC) and How Does It Work.md`
-- (line 23): `Understanding Bank CapitalA Primer — Money,  Banking and Financial Markets.md`
+- (line 23): `Understanding Bank CapitalA Primer — Money,   Banking and Financial Markets.md`
 [[Week 6]]:
 - (line 2): `Week 6`
 - (line 3): `Week 6 Assignment Review`
 - (line 4): `Week 6 Bank Analysis and Valuation`
-- (line 5): `Week 6 Bank Business Model,  Regulation,  and Accounting Rules`
+- (line 5): `Week 6 Bank Business Model,   Regulation,   and Accounting Rules`
 - (line 6): `Week 6`
 [[Week 7]]:
 - (line 2): `Week 7`
-- (line 3): `Week 7Cost of Capital Review,  Implied Model,  Private Firms`
+- (line 3): `Week 7Cost of Capital Review,   Implied Model,   Private Firms`
 - (line 4): `Week 7Kohler Case Assignment Review`
-- (line 5): `Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation`
+- (line 5): `Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation`
 - (line 6): `Week 7`
 [[Dollar General Case Study]]:
 - (line 152): `Week 2 Dollar General CaseAssignment Review.md`
 [[HBS Case- Medfield Pharmaceuticals]]:
-- (line 69): `Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill.md`
+- (line 69): `Week 5 Accounting RecapR&D,   Intangibles,   M&A & Goodwill.md`
 [[HBS Citigroup 2007-Financial Reporting And Regulatory Capital]]:
-- (line 98): `Week 6 Bank Business Model,  Regulation,  and Accounting Rules.md`
+- (line 98): `Week 6 Bank Business Model,   Regulation,   and Accounting Rules.md`
 - (line 99): `Week 6 Bank Analysis and Valuation.md`
 - (line 105): `BANKS AND LIQUIDITY CREATION.md`
 - (line 106): `BANKS AND LIQUIDITY CREATION.md`
 - (line 107): `Bank Regulation and Management.md`
-- (line 108): `Bank CreditDefinition,  How It Works,  Types,  and Examples.md`
+- (line 108): `Bank CreditDefinition,   How It Works,   Types,   and Examples.md`
 - (line 109): `BANK DEBT VS. BONDS.md`
 - (line 110): `What Is a Standby Letter of Credit (SLOC) and How Does It Work.md`
-- (line 111): `Understanding Bank CapitalA Primer — Money,  Banking and Financial Markets.md`
+- (line 111): `Understanding Bank CapitalA Primer — Money,   Banking and Financial Markets.md`
 [[HBS DOLLAR GENERAL GOING PRIVATE]]:
 - (line 142): `Lecture 13Difference-In-Differences (Part 2 Of 2).md`
 - (line 197): `Lecture 13Difference-In-Differences (Part 2 Of 2).md`
@@ -193,15 +196,15 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 152): `Week 3 Cyclical Industries (and Advanced Forecasting).md`
 - (line 153): `Week 3 Financial Risk Analysis.md`
 [[HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio]]:
-- (line 73): `Week 6 Bank Business Model,  Regulation,  and Accounting Rules.md`
+- (line 73): `Week 6 Bank Business Model,   Regulation,   and Accounting Rules.md`
 - (line 74): `Week 6 Bank Analysis and Valuation.md`
 - (line 80): `BANKS AND LIQUIDITY CREATION.md`
 - (line 81): `BANKS AND LIQUIDITY CREATION.md`
 - (line 82): `Bank Regulation and Management.md`
-- (line 83): `Bank CreditDefinition,  How It Works,  Types,  and Examples.md`
+- (line 83): `Bank CreditDefinition,   How It Works,   Types,   and Examples.md`
 - (line 84): `BANK DEBT VS. BONDS.md`
 - (line 85): `What Is a Standby Letter of Credit (SLOC) and How Does It Work.md`
-- (line 86): `Understanding Bank CapitalA Primer — Money,  Banking and Financial Markets.md`
+- (line 86): `Understanding Bank CapitalA Primer — Money,   Banking and Financial Markets.md`
 [[JP Morgan Deep Discount Retail Sector Report]]:
 - (line 193): `Week 2 Dollar General CaseAssignment Review.md`
 [[Problem Sets]]:
@@ -225,7 +228,7 @@ linter-yaml-title-alias: Bad links (111 files)
 [[PSET 3 Advanced Financial Analysis and Valuation]]:
 - (line 3): `Week 3 Cyclical Industries (and Advanced Forecasting).md`
 [[PSET 5- Pharmaceuticals And Intangibles In Valuation]]:
-- (line 29): `Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill.md`
+- (line 29): `Week 5 Accounting RecapR&D,   Intangibles,   M&A & Goodwill.md`
 [[Advanced Investments]]:
 - (line 8): `Advanced Investments`
 - (line 9): `Advanced Investments`
@@ -252,16 +255,16 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 11): `Asset Classes`
 - (line 12): `Asset Classes`
 - (line 13): `Derivatives`
-- (line 14): `Derivative Securities,  NYU Courant`
+- (line 14): `Derivative Securities,   NYU Courant`
 - (line 15): `Derivatives`
 - (line 16): `Forward and Futures`
 - (line 17): `EURODOLLAR FUTURES`
 - (line 18): `Forward and Futures`
 - (line 19): `Forward Exchange Rate Contracts`
 - (line 20): `Foreign Exchange Notes`
-- (line 21): `Exchange-Rate Determination in Short,  Medium,  and Long Run.jpeg`
+- (line 21): `Exchange-Rate Determination in Short,   Medium,   and Long Run.jpeg`
 - (line 22): `Foreign Exchange Notes`
-- (line 23): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 23): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 24): `LR Exchange Rate Determination Notes`
 - (line 25): `SR Exchange Rate Determination Notes`
 - (line 26): `The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf`
@@ -276,7 +279,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 35): `Hedging with Forwards`
 - (line 36): `Options`
 - (line 37): `Black Scholes Derivation`
-- (line 38): `Derivative Securities,  NYU Courant`
+- (line 38): `Derivative Securities,   NYU Courant`
 - (line 39): `Option Strategies`
 - (line 40): `1x2 Ratio Vertical Spread with Puts - Fidelity`
 - (line 41): `1x2 Ratio Volatility Spread with Puts - Fidelity`
@@ -286,7 +289,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 45): `Bull Put Spread - Fidelity`
 - (line 46): `Cash Secured Short Put - Fidelity (1)`
 - (line 47): `Cash Secured Short Put - Fidelity`
-- (line 48): `Cost of Carry Definition,  Models,  Factors and Formula`
+- (line 48): `Cost of Carry Definition,   Models,   Factors and Formula`
 - (line 49): `Covered Strangle - Fidelity`
 - (line 50): `Long Butterfly Spread with Calls - Fidelity`
 - (line 51): `Long Butterfly Spread with Puts - Fidelity`
@@ -334,10 +337,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 93): `Notes-Handbook of Fixed Income Securities 1`
 - (line 94): `Treasury Buybacks — TreasuryDirect`
 - (line 95): `Treasury Futures`
-- (line 96): `Understanding Bonds,  Pricing And The Risks`
+- (line 96): `Understanding Bonds,   Pricing And The Risks`
 - (line 97): `Yield Curves`
 - (line 98): `Fixed Income Securities`
-[[Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements]]:
+[[Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements]]:
 - (line 9): `https://www.frbsf.org/economic-research/publications/economic-letter/2006/november/interest-rates-carry-trades-and-exchange-rate-movements/`
 - (line 28): `Foreign Exchange Quoting Conventions.md`
 - (line 38): `Foreign Exchange Quoting Conventions.md`
@@ -401,7 +404,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 7): `Bond Appendix.md`
 - (line 8): `Bond Math.md`
 - (line 10): `Forward Contract.md`
-- (line 11): `Forwards,  Futures,  and FRAs.md`
+- (line 11): `Forwards,   Futures,   and FRAs.md`
 - (line 12): `0. Finance Notes/1. Financial Instruments/Derivatives/Forward and Futures/Forwards and Futures Notes.md`
 - (line 13): `Forward Rates Agreement.md`
 [[Treasury Buybacks — TreasuryDirect]]:
@@ -453,7 +456,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 146): `Lecture Note 1Forward Rates Agreement.md`
 - (line 147): `Forward and Futures.md`
 - (line 148): `Forwards and Futures Notes.md`
-- (line 149): `Forwards,  Futures,  and FRAs`
+- (line 149): `Forwards,   Futures,   and FRAs`
 - (line 150): `Forward Contracts on Exchange Rates.md`
 - (line 151): `FX Forward  Chatham Financial.md`
 - (line 152): `Hedging with Forwards.md`
@@ -465,12 +468,12 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 167): `Swaps Part 2`
 - (line 168): `Swaps-Financial Instruments`
 - (line 169): `Lecture Note 3 SwapsFinancial Instruments.md`
-- (line 170): `Swap Rate What It Is,  How It Works,  and Types.md`
+- (line 170): `Swap Rate What It Is,   How It Works,   and Types.md`
 - (line 171): `Overnight Index Swaps (OIS).md`
 - (line 172): `Notes on Swaps.md`
 - (line 173): `The Value of the Swap Contract after Initiation.md`
 - (line 174): `HBS Notes on Currency Swaps.md`
-- (line 175): `0. Finance Notes/Asset Classes/Notes-International Finance/CHAPTER 13 CURRENCY DERIVATIVESFUTURES,  OPTIONS AND SWAPS.md`
+- (line 175): `0. Finance Notes/Asset Classes/Notes-International Finance/CHAPTER 13 CURRENCY DERIVATIVESFUTURES,   OPTIONS AND SWAPS.md`
 - (line 178): `Foreign Exchange Quoting Conventions.md`
 - (line 197): `Binomial Option Pricing.md`
 - (line 198): `Binomial Trees and Option Pricing MBA.md`
@@ -524,15 +527,15 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 16): `Forward Contracts on Exchange Rates`
 - (line 17): `Forwards and Futures Notes`
 - (line 18): `Hedging Strategies with Forwards`
-- (line 19): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 19): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 20): `Teaching Note 1 Forward Rates Agreement`
-- (line 24): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 24): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 28): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 28): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 30): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 32): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
-- (line 32): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
+- (line 24): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 24): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 28): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 28): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 30): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 32): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
+- (line 32): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
 [[Ch1 Derivative Markets]]:
 - (line 7): `Carry Trade`
 - (line 8): `Ch1 Derivative Markets`
@@ -543,7 +546,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 13): `Forward Contracts on Exchange Rates`
 - (line 14): `Forwards and Futures Notes`
 - (line 15): `Hedging Strategies with Forwards`
-- (line 16): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 16): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 17): `Teaching Note 1 Forward Rates Agreement`
 - (line 22): `Derivatives.md`
 - (line 23): `Derivatives.md`
@@ -559,7 +562,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 11): `Forward Contracts on Exchange Rates`
 - (line 12): `Forwards and Futures Notes`
 - (line 13): `Hedging Strategies with Forwards`
-- (line 14): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 14): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 15): `Teaching Note 1 Forward Rates Agreement`
 [[Differences Between Commodities and Financial Assets]]:
 - (line 1): `Ch1 Derivative Markets`
@@ -570,7 +573,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 - (line 21): `Lecture 13Difference-In-Differences (Part 2 Of 2).md`
 - (line 23): `Lecture 13Difference-In-Differences (Part 2 Of 2).md`
@@ -583,7 +586,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 12): `Forward Contracts on Exchange Rates`
 - (line 13): `Forwards and Futures Notes`
 - (line 14): `Hedging Strategies with Forwards`
-- (line 15): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 15): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 16): `Teaching Note 1Forward Rates Agreement`
 - (line 21): `Currency Forward.md`
 [[Forward Contracts on Exchange Rates]]:
@@ -595,7 +598,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 8): `Forward Contracts on Exchange Rates`
 - (line 9): `Forwards and Futures Notes`
 - (line 10): `Hedging Strategies with Forwards`
-- (line 11): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 11): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 12): `Teaching Note 1Forward Rates Agreement`
 - (line 15): `Currency Forward.md`
 - (line 106): `Hedging with Forwards.md`
@@ -610,7 +613,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 - (line 345): `EURODOLLAR FUTURES.md`
 [[Hedging Strategies with Forwards]]:
@@ -622,10 +625,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 - (line 21): `HEDGING STRATEGIES`
-[[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements]]:
+[[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements]]:
 - (line 4): `https://www.frbsf.org/economic-research/publications/economic-letter/2006/november/interest-rates-carry-trades-and-exchange-rate-movements/`
 - (line 10): `Ch1 Derivative Markets`
 - (line 11): `Chapter 6 (Hull) Hedging Strategies with Forwards`
@@ -635,7 +638,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 15): `Forward Contracts on Exchange Rates`
 - (line 16): `Forwards and Futures Notes`
 - (line 17): `Hedging Strategies with Forwards`
-- (line 18): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 18): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 19): `Teaching Note 1Forward Rates Agreement`
 [[Teaching Note 1- Forward Rates Agreement]]:
 - (line 11): `Teaching Note 1Forward Rates Agreement`
@@ -647,7 +650,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 17): `Forward Contracts on Exchange Rates`
 - (line 18): `Forwards and Futures Notes`
 - (line 19): `Hedging Strategies with Forwards`
-- (line 20): `Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 20): `Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 21): `Teaching Note 1Forward Rates Agreement`
 - (line 25): `Carry Trade`
 - (line 26): `Ch1 Derivative Markets`
@@ -658,7 +661,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 31): `Forward Contracts on Exchange Rates`
 - (line 32): `Forwards and Futures Notes`
 - (line 33): `Hedging Strategies with Forwards`
-- (line 34): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 34): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 35): `Teaching Note 1 Forward Rates Agreement`
 - (line 37): `PSET 1-Financial Instruments.md`
 [[Teaching Note 2-Futures Contracts]]:
@@ -666,7 +669,7 @@ linter-yaml-title-alias: Bad links (111 files)
 [[Forward Rates Agreement]]:
 - (line 1): `Deriving Forward Exchange Rate Numerical Example 1.md`
 - (line 2): `Foreign Exchange Quoting Conventions.md`
-- (line 3): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements.md`
+- (line 3): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements.md`
 - (line 4): `Forward Contracts on Exchange Rates.md`
 - (line 6): `Teaching Note 3 SwapsFinancial Instruments`
 - (line 7): `Forward Rates Agreement`
@@ -951,7 +954,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 15): `HBR Notes`
 - (line 16): `HBS Notes on Currency Swaps`
 - (line 17): `Note on A Strategic Perspective on Bankruptcy`
-- (line 18): `Note on Long-Term Capital Management,  L.P. HBP`
+- (line 18): `Note on Long-Term Capital Management,   L.P. HBP`
 - (line 19): `Note on The Dodd-Frank Act and Its Impact`
 - (line 20): `Note on the Leveraged Loan Market`
 - (line 21): `Notes on Basic Options Properties`
@@ -959,7 +962,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 23): `Oaktree and the Restructuring of CIT Group`
 [[HBS Notes on Currency Swaps]]:
 - (line 10): `Swaps`
-[[Note on Long-Term Capital Management,  L.P. HBP]]:
+[[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 22): `Reverse Repurchase Agreement Operations.md`
 - (line 24): `Reverse Repurchase Agreement Operations.md`
 [[Note on the Leveraged Loan Market]]:
@@ -969,7 +972,9 @@ linter-yaml-title-alias: Bad links (111 files)
 [[Oaktree and the Restructuring of CIT Group]]:
 - (line 10): `HBR Case StudyOaktree`
 # Bad embeds (124 files)
+
 [[BMW Valuation Report]]:
+
 - (line 96): `Untitled 5-20240517225835738.png`
 - (line 158): `Untitled 5-20240518012242435.png`
 - (line 159): `Untitled 5-20240518012311864.png`
@@ -1162,7 +1167,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 363): `Z. Clippings/Attachments 1/Week 4-Valuing Young and High‐Growth Companies-20240430063317895.png`
 - (line 397): `Z. Clippings/Attachments 1/Week 4-Valuing Young and High‐Growth Companies-20240430063441944.png`
 - (line 428): `Z. Clippings/Attachments 1/Week 4-Valuing Young and High‐Growth Companies-20240430063551562.png`
-[[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill]]:
+[[Week 5 Accounting Recap- R&D,   Intangibles,   M&A & Goodwill]]:
 - (line 15): `Z. Clippings/Untitled 5-20240504011358685.png`
 - (line 26): `Z. Clippings/40504011459139.png`
 - (line 29): `Z. Clippings/Untitled 5-20240504011809157.png`
@@ -1249,24 +1254,24 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 328): `Pasted image 20240426232136.png`
 - (line 340): `Pasted image 20240426232136.png`
 - (line 351): `Pasted image 20240426232059.png`
-[[Week 6 Bank Business Model,  Regulation,  and Accounting Rules]]:
-- (line 64): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503012948300.png`
-- (line 69): `Z. Clippings/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013238737.png`
-- (line 135): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013305757.png`
-- (line 155): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013352810.png`
-- (line 160): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013404173.png`
-- (line 166): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013433342.png`
-- (line 188): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013447694.png`
-- (line 195): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013455990.png`
-- (line 222): `Z. Clippings/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013529487.png`
-- (line 271): `Z. Clippings/Week 6 Bank Business Model,  Regulation,  and Accounting Rules-20240503013537679.png`
-[[Week 7- Cost of Capital Review,  Implied Model,  Private Firms]]:
-- (line 62): `Z. Clippings/ of Capital Review,  Implied Model,  Private Firms-20240518025607331.png`
-- (line 119): `Z. Clippings/Week 7Cost of Capital Review,  Implied Model,  Private Firms-20240518030439567.png`
-- (line 137): `Z. Clippings/Week 7Cost of Capital Review,  Implied Model,  Private Firms-20240518030838324.png`
-- (line 143): `Z. Clippings/Week 7Cost of Capital Review,  Implied Model,  Private Firms-20240518030911101.png`
-- (line 161): `Z. Clippings/Week 7Cost of Capital Review,  Implied Model,  Private Firms-20240518031023517.png`
-- (line 208): `Z. Clippings/Week 7Cost of Capital Review,  Implied Model,  Private Firms-20240518031557664.png`
+[[Week 6 Bank Business Model,   Regulation,   and Accounting Rules]]:
+- (line 64): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503012948300.png`
+- (line 69): `Z. Clippings/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013238737.png`
+- (line 135): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013305757.png`
+- (line 155): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013352810.png`
+- (line 160): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013404173.png`
+- (line 166): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013433342.png`
+- (line 188): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013447694.png`
+- (line 195): `Z. Clippings/Attachments 1/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013455990.png`
+- (line 222): `Z. Clippings/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013529487.png`
+- (line 271): `Z. Clippings/Week 6 Bank Business Model,   Regulation,   and Accounting Rules-20240503013537679.png`
+[[Week 7- Cost of Capital Review,   Implied Model,   Private Firms]]:
+- (line 62): `Z. Clippings/ of Capital Review,   Implied Model,   Private Firms-20240518025607331.png`
+- (line 119): `Z. Clippings/Week 7Cost of Capital Review,   Implied Model,   Private Firms-20240518030439567.png`
+- (line 137): `Z. Clippings/Week 7Cost of Capital Review,   Implied Model,   Private Firms-20240518030838324.png`
+- (line 143): `Z. Clippings/Week 7Cost of Capital Review,   Implied Model,   Private Firms-20240518030911101.png`
+- (line 161): `Z. Clippings/Week 7Cost of Capital Review,   Implied Model,   Private Firms-20240518031023517.png`
+- (line 208): `Z. Clippings/Week 7Cost of Capital Review,   Implied Model,   Private Firms-20240518031557664.png`
 [[Week 7- Kohler Case Assignment Review]]:
 - (line 52): `Z. Clippings/Week 7Kohler Case Assignment Review-20240518041835882.png`
 - (line 55): `Z. Clippings/Week 7Kohler Case Assignment Review-20240518041906370.png`
@@ -1286,20 +1291,20 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 182): `Z. Clippings/Week 7Kohler Case Assignment Review-20240518043239415.png`
 - (line 186): `Z. Clippings/Week 7Kohler Case Assignment Review-20240518043258560.png`
 - (line 190): `Z. Clippings/Week 7Kohler Case Assignment Review-20240518043327322.png`
-[[Week 7- Private,  Family and Closely‐held Firms -Analysis and Valuation]]:
-- (line 25): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518032219951.png`
-- (line 31): `Z. Clippings/ate,  Family and Closely‐held Firms -Analysis and Valuation-20240518032259967.png`
-- (line 34): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518032332927.png`
-- (line 44): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518032721784.png`
-- (line 186): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518033856747.png`
-- (line 192): `Z. Clippings/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518033922764.png`
-- (line 196): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518033957598.png`
-- (line 199): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518034058139.png`
-- (line 236): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518034515865.png`
-- (line 239): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518034541135.png`
-- (line 285): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518035004706.png`
-- (line 289): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518035034059.png`
-- (line 313): `Z. Clippings/Attachments 1/Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation-20240518035143818.png`
+[[Week 7- Private,   Family and Closely‐held Firms -Analysis and Valuation]]:
+- (line 25): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518032219951.png`
+- (line 31): `Z. Clippings/ate,   Family and Closely‐held Firms -Analysis and Valuation-20240518032259967.png`
+- (line 34): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518032332927.png`
+- (line 44): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518032721784.png`
+- (line 186): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518033856747.png`
+- (line 192): `Z. Clippings/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518033922764.png`
+- (line 196): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518033957598.png`
+- (line 199): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518034058139.png`
+- (line 236): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518034515865.png`
+- (line 239): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518034541135.png`
+- (line 285): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518035004706.png`
+- (line 289): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518035034059.png`
+- (line 313): `Z. Clippings/Attachments 1/Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation-20240518035143818.png`
 [[Week 8 Bringing International Risks into the Valuation Process]]:
 - (line 97): `Z. Clippings/Week 8 Bringing International Risks into the Valuation Process-20240518044929869.png`
 - (line 100): `Z. Clippings/Week 8 Bringing International Risks into the Valuation Process-20240518045007871.png`
@@ -1361,32 +1366,32 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 70): `Week 9Zoom Assignment Review-20240518161400196.png`
 - (line 81): `Week 9Zoom Assignment Review-20240518161423833.png`
 - (line 84): `Week 9Zoom Assignment Review-20240518161438143.png`
-[[Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses]]:
+[[Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses]]:
 - (line 26): `Week 9-20240518152828758.png`
-- (line 32): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518153520802.png`
-- (line 44): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518153700597.png`
-- (line 59): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518153842974.png`
-- (line 99): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154053283.png`
-- (line 106): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154147694.png`
-- (line 111): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154216063.png`
-- (line 179): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154632399.png`
-- (line 216): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154857353.png`
-- (line 221): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154934620.png`
-- (line 228): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518154951715.png`
-- (line 244): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155054290.png`
-- (line 259): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155219506.png`
-- (line 274): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155320872.png`
-- (line 316): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155543076.png`
-- (line 320): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155605293.png`
-- (line 337): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155720887.png`
-- (line 343): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155746905.png`
-- (line 355): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155829338.png`
-- (line 362): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518155915891.png`
-- (line 381): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518160125277.png`
-- (line 399): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518160754520.png`
-- (line 418): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518160434088.png`
-- (line 431): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518160520671.png`
-- (line 448): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses-20240518160559561.png`
+- (line 32): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518153520802.png`
+- (line 44): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518153700597.png`
+- (line 59): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518153842974.png`
+- (line 99): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154053283.png`
+- (line 106): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154147694.png`
+- (line 111): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154216063.png`
+- (line 179): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154632399.png`
+- (line 216): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154857353.png`
+- (line 221): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154934620.png`
+- (line 228): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518154951715.png`
+- (line 244): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155054290.png`
+- (line 259): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155219506.png`
+- (line 274): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155320872.png`
+- (line 316): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155543076.png`
+- (line 320): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155605293.png`
+- (line 337): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155720887.png`
+- (line 343): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155746905.png`
+- (line 355): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155829338.png`
+- (line 362): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518155915891.png`
+- (line 381): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518160125277.png`
+- (line 399): `Z. Clippings/Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518160754520.png`
+- (line 418): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518160434088.png`
+- (line 431): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518160520671.png`
+- (line 448): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses-20240518160559561.png`
 [[Porter's Five Forces]]:
 - (line 8): `Diagram.svg`
 [[HBS Citigroup 2007-Financial Reporting And Regulatory Capital]]:
@@ -1423,7 +1428,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 32): `Z. Clippings/Week 7 Kohler-20240504160012904.png`
 - (line 40): `Z. Clippings/Week 7 Kohler-20240504160020258.png`
 [[DetailedLectureNotes_Week1]]:
-- (line 35): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,  Reorganization,  And Organizational Efficiency (attachments)/Financial Distress,  Reorganization,  And Organizational Efficiency-2.png`
+- (line 35): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,   Reorganization,   And Organizational Efficiency (attachments)/Financial Distress,   Reorganization,   And Organizational Efficiency-2.png`
 - (line 77): `6_image_0.png`
 - (line 107): `8_image_0.png`
 - (line 149): `10_image_2.png`
@@ -1590,7 +1595,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 247): `Untitled 4.png`
 - (line 1039): `Untitled 7.png`
 - (line 1140): `Untitled 8.png`
-[[Understanding Bonds,  Pricing And The Risks]]:
+[[Understanding Bonds,   Pricing And The Risks]]:
 - (line 50): `CleanShot 2024-02-06 -000246@2x.png`
 - (line 60): `CleanShot 2024-02-06 -000245@2x.png`
 [[Yield Curves]]:
@@ -1611,7 +1616,7 @@ linter-yaml-title-alias: Bad links (111 files)
 [[10._Other_Topics_in_Quantitative_Finance]]:
 - (line 204): `6_image_0.png`
 - (line 445): `14_image_0.png`
-[[2._Forwards, _Swaps, _Futures, _and_Options]]:
+[[2._Forwards,  _Swaps,  _Futures,  _and_Options]]:
 - (line 38): `1_image_0.png`
 - (line 67): `2_image_0.png`
 - (line 102): `3_image_0.png`
@@ -1799,16 +1804,16 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 257): `IMG-20240913171315251.png`
 [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]:
 - (line 42): `Pasted image 20240916034719.png`
-[[Financial Distress,  Reorganization,  And Organizational Efficiency]]:
-- (line 64): `Financial Distress,  Reorganization,  And Organizational Efficiency-8.png`
+[[Financial Distress,   Reorganization,   And Organizational Efficiency]]:
+- (line 64): `Financial Distress,   Reorganization,   And Organizational Efficiency-8.png`
 - (line 65): `4_image_0.png`
 - (line 100): `Pasted image 20240916190758.png`
 - (line 101): `Pasted image 20240916190758_0.png`
-- (line 102): `Financial Distress,  Reorganization,  And Organizational Efficiency-2.png`
+- (line 102): `Financial Distress,   Reorganization,   And Organizational Efficiency-2.png`
 - (line 103): `7_image_0.png`
-- (line 185): `Financial Distress,  Reorganization,  And Organizational Efficiency-6.png`
-- (line 186): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,  Reorganization,  And Organizational Efficiency (attachments)/13_image_0.png`
-- (line 187): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,  Reorganization,  And Organizational Efficiency (attachments)/Financial Distress,  Reorganization,  And Organizational Efficiency.png`
+- (line 185): `Financial Distress,   Reorganization,   And Organizational Efficiency-6.png`
+- (line 186): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,   Reorganization,   And Organizational Efficiency (attachments)/13_image_0.png`
+- (line 187): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,   Reorganization,   And Organizational Efficiency (attachments)/Financial Distress,   Reorganization,   And Organizational Efficiency.png`
 [[Lecture Note 1]]:
 - (line 34): `Pasted image 20240916190513.png`
 - (line 35): `Pasted image 20240916190513_0.png`
@@ -1985,7 +1990,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 25): `1_image_0.png`
 - (line 27): `1_image_1.png`
 - (line 78): `3_image_0.png`
-- (line 99): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,  Reorganization,  And Organizational Efficiency (attachments)/Financial Distress,  Reorganization,  And Organizational Efficiency-2.png`
+- (line 99): `Financial Markets and Institutions/IIntroduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress,   Reorganization,   And Organizational Efficiency (attachments)/Financial Distress,   Reorganization,   And Organizational Efficiency-2.png`
 - (line 106): `5_image_0.png`
 - (line 128): `6_image_0.png`
 - (line 175): `8_image_0.png`
@@ -2095,10 +2100,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 152): `image28.png`
 [[Note on A Strategic Perspective on Bankruptcy]]:
 - (line 9): `Untitled 8.jpeg`
-[[Note on Long-Term Capital Management,  L.P. HBP]]:
+[[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 12): `HBR_black 5.jpg`
 [[Note on the Leveraged Loan Market]]:
-- (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,  Global Market (billion U.S. dollars) 1 1.png`
+- (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,   Global Market (billion U.S. dollars) 1 1.png`
 - (line 205): `Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1.png`
 - (line 209): `Exhibit 5 Total Institutional Loan Investor Groups 1.png`
 - (line 270): `CLO Structure 1.png`
@@ -2111,7 +2116,9 @@ linter-yaml-title-alias: Bad links (111 files)
 [[Notes on Debtor-in-Possession DIP Financing]]:
 - (line 8): `Untitled 4.jpeg`
 # Wiki links (62 files)
+
 [[Advanced Financial Analysis and Valuation]]:
+
 - (line 10): `Advanced Financial Analysis and Valuation`
 - (line 11): `Advanced Financial Analysis and Valuation`
 - (line 12): `BMW Valuation Multiples`
@@ -2127,14 +2134,14 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 22): `Problem Sets`
 [[Financial Ratios]]:
 - (line 2): `Financial Ratios`
-- (line 3): `Comps Definition,  How They're Used in Analysis,  and Example`
+- (line 3): `Comps Definition,   How They're Used in Analysis,   and Example`
 - (line 4): `Earnings Before Interest and Taxes (EBIT) Formula and Example`
 - (line 5): `Financial Ratios`
 - (line 6): `Fixed Asset Turnover Ratio Explained With Examples`
 - (line 7): `How to Use Price-To-Sales Ratios to Value Stocks`
-- (line 8): `Leverage Ratio What It Is,  What It Tells You,  How to Calculate`
+- (line 8): `Leverage Ratio What It Is,   What It Tells You,   How to Calculate`
 - (line 9): `Operating Income vs. Net Income What's the Difference`
-- (line 10): `Operating Margin What It Is and the Formula for Calculating It,  With Examples`
+- (line 10): `Operating Margin What It Is and the Formula for Calculating It,   With Examples`
 [[Lecture Notes]]:
 - (line 11): `Lecture Notes`
 - (line 12): `Lecture Notes`
@@ -2149,7 +2156,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 22): `Week 8 Opportunities And Risks Of Investing Internationally`
 - (line 23): `Week 8Dow Chemical CaseAssignment Review`
 - (line 25): `Week 9Zoom Assignment Review`
-- (line 26): `Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses`
+- (line 26): `Week 9-Information Risks and (International) Accounting Differences,   Platform Businesses`
 [[Week 1]]:
 - (line 2): `Week 1`
 - (line 3): `Week 1 Introduction`
@@ -2174,20 +2181,20 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 5): `Week 4`
 [[Week 5]]:
 - (line 2): `Week 5`
-- (line 3): `Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill`
+- (line 3): `Week 5 Accounting RecapR&D,   Intangibles,   M&A & Goodwill`
 - (line 4): `Week 5 Pharmaceuticals and Intangibles in Valuation`
 - (line 5): `Week 5`
 [[Week 6]]:
 - (line 2): `Week 6`
 - (line 3): `Week 6 Assignment Review`
 - (line 4): `Week 6 Bank Analysis and Valuation`
-- (line 5): `Week 6 Bank Business Model,  Regulation,  and Accounting Rules`
+- (line 5): `Week 6 Bank Business Model,   Regulation,   and Accounting Rules`
 - (line 6): `Week 6`
 [[Week 7]]:
 - (line 2): `Week 7`
-- (line 3): `Week 7Cost of Capital Review,  Implied Model,  Private Firms`
+- (line 3): `Week 7Cost of Capital Review,   Implied Model,   Private Firms`
 - (line 4): `Week 7Kohler Case Assignment Review`
-- (line 5): `Week 7Private,  Family and Closely‐held Firms -Analysis and Valuation`
+- (line 5): `Week 7Private,   Family and Closely‐held Firms -Analysis and Valuation`
 - (line 6): `Week 7`
 [[Problem Sets]]:
 - (line 9): `Problem Sets`
@@ -2233,16 +2240,16 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 11): `Asset Classes`
 - (line 12): `Asset Classes`
 - (line 13): `Derivatives`
-- (line 14): `Derivative Securities,  NYU Courant`
+- (line 14): `Derivative Securities,   NYU Courant`
 - (line 15): `Derivatives`
 - (line 16): `Forward and Futures`
 - (line 17): `EURODOLLAR FUTURES`
 - (line 18): `Forward and Futures`
 - (line 19): `Forward Exchange Rate Contracts`
 - (line 20): `Foreign Exchange Notes`
-- (line 21): `Exchange-Rate Determination in Short,  Medium,  and Long Run.jpeg`
+- (line 21): `Exchange-Rate Determination in Short,   Medium,   and Long Run.jpeg`
 - (line 22): `Foreign Exchange Notes`
-- (line 23): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 23): `Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 24): `LR Exchange Rate Determination Notes`
 - (line 25): `SR Exchange Rate Determination Notes`
 - (line 26): `The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf`
@@ -2257,7 +2264,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 35): `Hedging with Forwards`
 - (line 36): `Options`
 - (line 37): `Black Scholes Derivation`
-- (line 38): `Derivative Securities,  NYU Courant`
+- (line 38): `Derivative Securities,   NYU Courant`
 - (line 39): `Option Strategies`
 - (line 40): `1x2 Ratio Vertical Spread with Puts - Fidelity`
 - (line 41): `1x2 Ratio Volatility Spread with Puts - Fidelity`
@@ -2267,7 +2274,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 45): `Bull Put Spread - Fidelity`
 - (line 46): `Cash Secured Short Put - Fidelity (1)`
 - (line 47): `Cash Secured Short Put - Fidelity`
-- (line 48): `Cost of Carry Definition,  Models,  Factors and Formula`
+- (line 48): `Cost of Carry Definition,   Models,   Factors and Formula`
 - (line 49): `Covered Strangle - Fidelity`
 - (line 50): `Long Butterfly Spread with Calls - Fidelity`
 - (line 51): `Long Butterfly Spread with Puts - Fidelity`
@@ -2315,10 +2322,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 93): `Notes-Handbook of Fixed Income Securities 1`
 - (line 94): `Treasury Buybacks — TreasuryDirect`
 - (line 95): `Treasury Futures`
-- (line 96): `Understanding Bonds,  Pricing And The Risks`
+- (line 96): `Understanding Bonds,   Pricing And The Risks`
 - (line 97): `Yield Curves`
 - (line 98): `Fixed Income Securities`
-[[Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,  Carry Trades,  and Exchange Rate Movements]]:
+[[Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements]]:
 - (line 9): `https://www.frbsf.org/economic-research/publications/economic-letter/2006/november/interest-rates-carry-trades-and-exchange-rate-movements/`
 [[Hedging with Forwards]]:
 - (line 9): `0. Finance Notes/1. Financial Instruments/Derivatives/Forward and Futures/Forwards and Futures Notes`
@@ -2384,7 +2391,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 16): `Forward Contracts on Exchange Rates`
 - (line 17): `Forwards and Futures Notes`
 - (line 18): `Hedging Strategies with Forwards`
-- (line 19): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 19): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 20): `Teaching Note 1 Forward Rates Agreement`
 [[Ch1 Derivative Markets]]:
 - (line 7): `Carry Trade`
@@ -2396,7 +2403,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 13): `Forward Contracts on Exchange Rates`
 - (line 14): `Forwards and Futures Notes`
 - (line 15): `Hedging Strategies with Forwards`
-- (line 16): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 16): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 17): `Teaching Note 1 Forward Rates Agreement`
 [[Deriving Forward Exchange Rate Numerical Example]]:
 - (line 6): `Ch1 Derivative Markets`
@@ -2407,7 +2414,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 11): `Forward Contracts on Exchange Rates`
 - (line 12): `Forwards and Futures Notes`
 - (line 13): `Hedging Strategies with Forwards`
-- (line 14): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 14): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 15): `Teaching Note 1 Forward Rates Agreement`
 [[Differences Between Commodities and Financial Assets]]:
 - (line 1): `Ch1 Derivative Markets`
@@ -2418,7 +2425,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 [[Foreign Exchange Quoting Conventions]]:
 - (line 7): `Ch1 Derivative Markets`
@@ -2429,7 +2436,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 12): `Forward Contracts on Exchange Rates`
 - (line 13): `Forwards and Futures Notes`
 - (line 14): `Hedging Strategies with Forwards`
-- (line 15): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 15): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 16): `Teaching Note 1Forward Rates Agreement`
 [[Forward Contracts on Exchange Rates]]:
 - (line 3): `Ch1 Derivative Markets`
@@ -2440,7 +2447,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 8): `Forward Contracts on Exchange Rates`
 - (line 9): `Forwards and Futures Notes`
 - (line 10): `Hedging Strategies with Forwards`
-- (line 11): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 11): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 12): `Teaching Note 1Forward Rates Agreement`
 [[Forwards and Futures Notes]]:
 - (line 1): `Ch1 Derivative Markets`
@@ -2451,7 +2458,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 [[Hedging Strategies with Forwards]]:
 - (line 1): `Ch1 Derivative Markets`
@@ -2462,10 +2469,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 6): `Forward Contracts on Exchange Rates`
 - (line 7): `Forwards and Futures Notes`
 - (line 8): `Hedging Strategies with Forwards`
-- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 9): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 10): `Teaching Note 1Forward Rates Agreement`
 - (line 21): `HEDGING STRATEGIES`
-[[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements]]:
+[[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements]]:
 - (line 4): `https://www.frbsf.org/economic-research/publications/economic-letter/2006/november/interest-rates-carry-trades-and-exchange-rate-movements/`
 - (line 10): `Ch1 Derivative Markets`
 - (line 11): `Chapter 6 (Hull) Hedging Strategies with Forwards`
@@ -2475,7 +2482,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 15): `Forward Contracts on Exchange Rates`
 - (line 16): `Forwards and Futures Notes`
 - (line 17): `Hedging Strategies with Forwards`
-- (line 18): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 18): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 19): `Teaching Note 1Forward Rates Agreement`
 [[Teaching Note 1- Forward Rates Agreement]]:
 - (line 11): `Teaching Note 1Forward Rates Agreement`
@@ -2487,7 +2494,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 17): `Forward Contracts on Exchange Rates`
 - (line 18): `Forwards and Futures Notes`
 - (line 19): `Hedging Strategies with Forwards`
-- (line 20): `Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 20): `Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 21): `Teaching Note 1Forward Rates Agreement`
 - (line 25): `Carry Trade`
 - (line 26): `Ch1 Derivative Markets`
@@ -2498,7 +2505,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 31): `Forward Contracts on Exchange Rates`
 - (line 32): `Forwards and Futures Notes`
 - (line 33): `Hedging Strategies with Forwards`
-- (line 34): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,  Carry Trades,  and Exchange Rate Movements`
+- (line 34): `Financial Instruments/Lecture Notes/Teaching Note 1Forward Rates Agreement/Interest Rates,   Carry Trades,   and Exchange Rate Movements`
 - (line 35): `Teaching Note 1 Forward Rates Agreement`
 [[Forward Rates Agreement]]:
 - (line 6): `Teaching Note 3 SwapsFinancial Instruments`
@@ -2709,7 +2716,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 15): `HBR Notes`
 - (line 16): `HBS Notes on Currency Swaps`
 - (line 17): `Note on A Strategic Perspective on Bankruptcy`
-- (line 18): `Note on Long-Term Capital Management,  L.P. HBP`
+- (line 18): `Note on Long-Term Capital Management,   L.P. HBP`
 - (line 19): `Note on The Dodd-Frank Act and Its Impact`
 - (line 20): `Note on the Leveraged Loan Market`
 - (line 21): `Notes on Basic Options Properties`
@@ -2724,7 +2731,9 @@ linter-yaml-title-alias: Bad links (111 files)
 [[Oaktree and the Restructuring of CIT Group]]:
 - (line 10): `HBR Case StudyOaktree`
 # Wiki embeds (43 files)
+
 [[Porter's Five Forces]]:
+
 - (line 8): `Diagram.svg`
 [[1x2 Ratio Vertical Spread with Puts - Fidelity]]:
 - (line 50): `1x2ratioverticalspreadPuts600x330.png`
@@ -2852,10 +2861,10 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 152): `image28.png`
 [[Note on A Strategic Perspective on Bankruptcy]]:
 - (line 9): `Untitled 8.jpeg`
-[[Note on Long-Term Capital Management,  L.P. HBP]]:
+[[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 12): `HBR_black 5.jpg`
 [[Note on the Leveraged Loan Market]]:
-- (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,  Global Market (billion U.S. dollars) 1 1.png`
+- (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,   Global Market (billion U.S. dollars) 1 1.png`
 - (line 205): `Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1.png`
 - (line 209): `Exhibit 5 Total Institutional Loan Investor Groups 1.png`
 - (line 270): `CLO Structure 1.png`
