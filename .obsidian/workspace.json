@@ -102,12 +102,9 @@
             "id": "59fb0b0ba0d14499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9-Bailouts and Bank Failures"
               }
             }
           },
@@ -218,7 +215,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +231,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,9 +252,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -288,6 +281,7 @@
   },
   "active": "59fb0b0ba0d14499",
   "lastOpenFiles": [
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
     "Vault.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
@@ -323,7 +317,6 @@
     "Financial Instruments/Assignments/Solutions/htt.md",
     "CleanShot 2024-09-19 -002793@2x 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x 1.md",
-    "CleanShot 2024-09-19 -002793@2x.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
