@@ -83,7 +83,7 @@ Proceed as follows:
 | -------- | ----------- | ---------- | ------ | ------------------ |
 | 10/14/08 | 18.35       | 100.0049   | 0.1675 | 1.894658           |
 
-| Date     | Market yield on U.S. Treasury securities at 1-year   constant maturity,  quoted on investment basis |
+| Date     | Market yield on U.S. Treasury securities at 1-year   constant maturity,   quoted on investment basis |
 | -------- | -------------------------------------------------------------------------------------------------- |
 | 10/10/08 | 0.0108                                                                                             |
 | 10/14/08 | 0.0122                                                                                             |
@@ -91,7 +91,7 @@ Proceed as follows:
 - Compute the number of shares (you will need them to compute the market capitalization in the next point.)
 
 > [!answer]
-> - On 10/14/2008,  Citi had$\frac{101, 393, 223, 246.00}{186.20}=544, 539, 330$
+> - On 10/14/2008,  Citi had$\frac{101,  393,  223,  246.00}{186.20}=544,  539,  330$
 
 - Compute the value of assets and volatility of assets to match the market cap and equity volatility at the two dates above. The assets and volatility of assets will be different across dates. Please,  note the tips at the end.
 - Corobability of default with one year to maturity. Note that KMV identifies the "Default Point" as short term debt + 1/2 long term debt.
@@ -115,7 +115,7 @@ After you do the calculations above,  answer the following:
 This exercise is complicated by the existence of multiple type of securities. Clearly,  we need assumptions,  and no set of assumptions is particularly good (we just need a better model). Here is a set of assumptions that may be reasonable.
 
 - To compute the value of equity,  the residual claim after all of the debt,  other liabilities,  and deposits have been paid,  you may assume:
-1. All deposits and short-term debt is super short-term,  and in fact it will be paid instantly. This implies that for equity calculation purposes, $V − D − S$is the relevant variable,  where V is the total value of the firm,  D is the total amount of deposits,  and S is the total amount of short-term debt.
+1. All deposits and short-term debt is super short-term,  and in fact it will be paid instantly. This implies that for equity calculation purposes,  $V − D − S$is the relevant variable,  where V is the total value of the firm,  D is the total amount of deposits,  and S is the total amount of short-term debt.
 1. Even after all short-term debt S and deposits D are paid out,  you can still use Black and Scholes on the residual$V − D − S$to compute the value of equity. Note that you still have long term debt L and other liabilities O to repay at T.
 1. Assume that the value of assets V has percentage volatility σ both before and after you pay short-term debt and deposits. This implies that the volatility of equity today (before paying out everything) is
 $${\mathrm{Volatility~of~Equity}}=N(d_{1})\times{\frac{V}{E}}\times\sigma$$

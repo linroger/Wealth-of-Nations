@@ -3,13 +3,7 @@ title: PSET 5 Financial Instruments
 aliases: [PSET 5 Financial Instruments]
 linter-yaml-title-alias: PSET 5 Financial Instruments
 ---
----
-title: PSET 5 Financial Instruments
-aliases: [PSET 5 Financial Instruments]
-linter-yaml-title-alias: PSET 5 Financial Instruments
-Title: PSET 5 Financial Instruments
-Aliases: [PSET 5 Financial Instruments]
-Linter-yaml-title-alias: PSET 5 Financial Instruments
+
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments
 2024 John Heaton
@@ -56,7 +50,7 @@ In the same way for node "down",  at period $i=1$ we find $\triangle_{d}=0.0000$
 A summary of all the relevant quantities are reported in Figure (3).
 ![](https://storage.simpletex.cn /view/fXze 865 NHkKZt 4 F 7 bxFqY 3 TnsnMghqRMV)
 Figure 3: Summary tree
-b）Table (1) reports the period $i=0$ value of the replicating portfolio $V_{0}^{R}$ for different values of $S_{0}$
+- b）Table (1) reports the period $i=0$ value of the replicating portfolio $V_{0}^{R}$ for different values of $S_{0}$
 ```latex
 \begin{document}
 \renewcommand{\arraystretch}{1.5}
