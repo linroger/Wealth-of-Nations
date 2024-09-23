@@ -25,7 +25,7 @@ linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 	- [[Understanding the Yield Curve Notes]]
 	- [[Understanding The Yield Curve- Part 1]]
 	- [[Understanding the Yield Curve- Part 2]]
-	- [[Untitled]]
+	- [[Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled]]
 	- [[Yield Curve Extraction Methods-A Comprehensive Analysis ]]
 
 %% End Waypoint %%

@@ -13,8 +13,8 @@ linter-yaml-title-alias: FIXED INCOME ASSET PRICING
 # FIXED INCOME ASSET PRICING
 
 %% Begin Waypoint %%
-
 - **[[Fixed Income Asset Pricing]]**
+	- [[Analysis of Fixed Income Securities]]
 	- [[Fixed Income Asset Pricing]]
 	- **[[Fixed Income Lecture Notes]]**
 	- **Problem Sets**
@@ -25,6 +25,5 @@ linter-yaml-title-alias: FIXED INCOME ASSET PRICING
 		- [[Fixed Income Python Code]]
 		- [[PSET II Fixed Income Asset Pricing 1]]
 		- [[PSET VI Fixed Income]]
-	- [[Untitled]]
 
 %% End Waypoint %%

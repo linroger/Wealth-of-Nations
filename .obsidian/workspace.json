@@ -161,20 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/Financial Markets and Institutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6879395cd72ac2b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -182,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -256,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md"
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md"
               }
             }
           }
@@ -324,21 +311,31 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "aab2002fd4f0abe2",
   "lastOpenFiles": [
+    "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-18.svg",
+    "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-18.png",
+    "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-17.svg",
+    "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-17.png",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
+    "Financial Markets and Institutions/Financial Markets and Institutions.md",
+    "CleanShot 2024-09-19 -002793@2x.md",
+    "CleanShot 2024-09-19 -002793@2x 1.md",
+    "Fixed Income Asset Pricing/Analysis of Fixed Income Securities.md",
+    "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
-    "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
-    "Financial Markets and Institutions/Financial Markets and Institutions.md",
     "consistency-report.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Attachments/11_image_0.png",
     "Advanced Investments/Advanced Investments.md",
@@ -348,20 +345,10 @@
     "Attachments/0_image_1.png",
     "Attachments/0b9ac213c668b778688cc51697078594.png",
     "Attachments/0_image_0.png",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
-    "Attachments/Untitled-5.png",
-    "Attachments/Untitled-4.png",
-    "Attachments/Untitled-3.png",
     "Vault.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "Financial Engineering/5._MeanVariance-CAPM.md",
     "Financial Engineering/7._BlackScholesModel.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/PSET 5 Solution (attachments).md",
-    "Financial Instruments/Assignments/Solutions/PSET 7 Solutions.md",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.37.16.png.md",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/CleanShot 2024-09-19 -002780@2x.png.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",

@@ -1,8 +1,9 @@
 ---
-title: "The Hft Arms Race: Example"
-aliases: ["The Hft Arms Race: Example"]
-linter-yaml-title-alias: "The Hft Arms Race: Example"
+title: "The HFT Arms Race: Example"
+aliases: ["The HFT Arms Race: Example"]
+linter-yaml-title-alias: "The HFT Arms Race: Example"
 ---
+
 A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar Slides,  Sept 2015
 
 # The HFT Arms Race: Example
@@ -20,19 +21,19 @@ A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Au
 # Brief Description Of The Continuous Limit Order Book
 
 - Basic building block: limit order
-- Species a price,  quantity,  and buy/sell (bid/ask) 
-- Buy 100 shares of XYZ at $100.00 
-- Traders may submit limit orders to the market at any time during the trading day 
-- Also may cancel or modify outstanding limit orders at any time 
+- Species a price,  quantity,  and buy/sell (bid/ask)
+- Buy 100 shares of XYZ at $100.00
+- Traders may submit limit orders to the market at any time during the trading day
+- Also may cancel or modify outstanding limit orders at any time
 - Orders and cancellations are processed by the exchange one-at-a-time in order of receipt (serial process)
-- Set of outstanding orders is known as the limit order book 
-- Trade occurs whenever a new limit order is submitted that is either (i) bid ≥ lowest ask; (ii) ask ≤ highest bid 
+- Set of outstanding orders is known as the limit order book
+- Trade occurs whenever a new limit order is submitted that is either (i) bid ≥ lowest ask; (ii) ask ≤ highest bid
 - New limit order is interpreted as accepting (fully or partially) one or more outstanding orders
 - Direct feed data from Chicago Mercantile Exchange (CME) and New York Stock Exchange (NYSE)
-- Gives play by play of limit order book 
-- Millisecond resolution time stamps 
-- These are the data HFT rms subscribe to and parse in real time 
-- Focus primarily on a pair of instruments that track the S&$P$ 500 index 
+- Gives play by play of limit order book
+- Millisecond resolution time stamps
+- These are the data HFT rms subscribe to and parse in real time
+- Focus primarily on a pair of instruments that track the S&$P$ 500 index
 - ES: E-MinS&P 500 Future,  traded on CME
 - SPY: SPDR S&P 500 Exchange Traded Fund,  traded on NYSE (and other equities exchanges)
 - Time period: 2005-2011 Market Correlations Break Down at High Frequency ES vs. SPY: 1 Day
