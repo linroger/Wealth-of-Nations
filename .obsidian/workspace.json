@@ -167,9 +167,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4b14c3e1458f771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -243,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md"
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md"
               }
             }
           }
@@ -308,11 +321,15 @@
       "broken-links:View broken links": false,
       "media-sync:Media sync": false,
       "github-sync:Sync with Remote": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "formatto-format:Format Document": false
     }
   },
-  "active": "aab2002fd4f0abe2",
+  "active": "b4b14c3e1458f771",
   "lastOpenFiles": [
+    "svg-cache/Teaching Note 1- Forward Rates Agreement.svg",
+    "svg-cache/Teaching Note 1- Forward Rates Agreement.png",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-18.svg",
     "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-18.png",
     "svg-cache/Class Note 1 Borrower-Lender conflicts and implied agency problems-17.svg",
@@ -343,12 +360,9 @@
     "Attachments/2_image_0.png",
     "Attachments/0deb2d1e011aa650ba88205579e20c59.png",
     "Attachments/0_image_1.png",
-    "Attachments/0b9ac213c668b778688cc51697078594.png",
-    "Attachments/0_image_0.png",
     "Vault.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "Financial Engineering/5._MeanVariance-CAPM.md",
-    "Financial Engineering/7._BlackScholesModel.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
