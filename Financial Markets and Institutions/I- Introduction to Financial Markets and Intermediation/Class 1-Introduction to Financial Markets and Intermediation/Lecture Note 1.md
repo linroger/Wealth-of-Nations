@@ -3,10 +3,13 @@ title: Debt Pricing
 aliases: [Debt Pricing]
 linter-yaml-title-alias: Debt Pricing
 ---
+
 ---
+
 title: Debt Pricing
 aliases: [Debt Pricing]
 linter-yaml-title-alias: Debt Pricing
+
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**
 - Strategic effects of debt. How much is too much? - Bankruptcy & Reorganization: bargaining and strategy. - Debt contract renegotiation. - Debt exchange offers when bankruptcy is the alternative - Distressed Debt Investing (especially during a financial crisis). - Capital structure is more than debt versus equity: it is a choice of source of funds: who holds and enforces the terms of securities that a firm issues.
 1. How the problems and benefits of DEBT contracts are related to banking.
@@ -30,7 +33,9 @@ linter-yaml-title-alias: Debt Pricing
 ![](Lecture%20Note%201-5.png)
  US versus OECD Countries,  external funds Non-financial businesses,  1970-85
 ## F Nonfinancial Corporate Business
+
 Billions of dollars; quarterly figures are seasonally adjusted annual rates
+
 | Billions of dollars; quarterly figures are seasonally adjusted annual rates                       | 2020        | 2021                                            | 2022   | 2021   | 2022   |        |        |        |        |        |           |    |
 |---------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|-----------|----|
 |                                                                                                   | Q3          | Q4                                              | Q1     | Q2     | Q3     | Q4     |        |        |        |        |           |    |
@@ -91,8 +96,10 @@ Billions of dollars; quarterly figures are seasonally adjusted annual rates
 | 55                                                                                                | FA107005005 | Discrepancy                                     | 1.7    | 67.0   | -44.9  | 21.0   | -150.0 | 101.2  | 48.6   | 165.1  | -494.4 55 |    |
 |                                                                                                   | Memo:       |                                                 |        |        |        |        |        |        |        |        |           |    |
 | 56                                                                                                | FA105005305 | Financing gap (7)                               | -71.5  | -176.7 | -81.4  | -313.7 | 105.5  | 385.9  | -72.9  | -344.4 | -294.2 56 |    |
-| (1) Consumption of fixed capital plus the capital consumption adjustment. (2) Table F,  line 61. |             |                                                 |        |        |        |        |        |        |        |        |           |    |
+| (1) Consumption of fixed capital plus the capital consumption adjustment. (2) Table F,   line 61. |             |                                                 |        |        |        |        |        |        |        |        |           |    |
+
 Transactions
+
 | 192.5                               | 1118.4   | 1175.5   | 1184.9   | 1858.9   | 2125.3   | 1871.5   | 454.1   | 251.2 36   |          |
 |-------------------------------------|----------|----------|----------|----------|----------|----------|---------|------------|----------|
 | 654.7                               | 214 4    | 54.6     | 384.8    | -98.4    | 165 4    | -42.5    | 169.3   | -73.9 37   |          |
@@ -108,8 +115,10 @@ Transactions
 | 188.1                               | 181.7    | 418_3    | 4226     | 422.4    | 221.6    | 41.1     | 41.7 43 |            |          |
 | Other loans and advances (6)        | 304 4    |          |          |          |          |          |         |            |          |
 | Mortgages                           | 75.1     | 138.2    | 1 55 6   | 155.3    | 182.0    | 170.4    | 170.2   | 151.5      | 130.4 44 |
+
 Corporate equities
 -115.8 -325.6 -594.8 -358.9 -643.5 -555.7 -751.6 -555.5 -516.3 53 Introduction to Topic 1: **Capital structure and the choice of the sources of funds.** - What are the consequences of capital structure choice? What might change?
+
 - Probability of default - Payoffs to equity - Payoffs to manager (possibly if tied to debt or equity) - Tax Payments - Control over corporate decisions
 - Does it matter who owns a firm's debt or equity?
 - The publicsmall diffuse holders - Large individual investors - Large institutional investors = Financial Intermediaries - Other publicly-held firms (Suppliers,  customers,  etc.)
@@ -123,25 +132,32 @@ Two projects,  the riskier one also has a lower expected return. Each has only t
 | 1       | 500        | 1500       | 1000  | 200/800 =          | 25% |
 | 2       | 0          | 1551       | 775.5 | -24.5/800 = -3.06% |     |
 An unlevered firm will choose Project 1 1 2. **What about a firm with debt with face $600 in place?**
-The fixed payment of $600 is a sunk cost. If the firm is going to default,  then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,  or zero if the firm value is less than 600.
+The fixed payment of $600 is a sunk cost. If the firm is going to default,   then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,   or zero if the firm value is less than 600.
 Contingent cash flows to equity when debt of $600 is in place
+
 | Project   | Value if D   | Value if P     | Expected Value   |
 |-----------|--------------|----------------|------------------|
 | 1         | 0            | 1500-600 = 900 | 450              |
 | 2         | 0            | 1551-600 = 951 | 475.5            |
+
 An owner-managed firm with debt of 600 in place will choose project 2,  despite its negative net present value,  because the "piece of the action" that goes to the equity is worth more than with project 1. Face value of 600 exceeds the debt capacity of the firm,  because it removes incentives for proper investment. What is the debt capacity of the firm? What is the highest face value,  F,  that the borrower prefers project 1?
 The borrower's equity payoff from Project 1 with debt of face F is:
 ½ (1500-F) + ½ (500-F) = 1000 - F (for F≤500)
 ½ (1500-F) + ½ (0) (for F between 500 and 1500),  0 for F>1500. The borrower's equity payoff from Project 2 with debt of face F is: ½(1551 - F) + ½(0) for F<1551 0 for F> 1551. The debt capacity must be less than 500,  because if the firm will certainly default in Depression,  all that matters is what it is worth in prosperity.
 For F < 500,  Project 1 is preferred for all F that satisfy 1000-F ≥ ½(1551-F),  which solves out to F≤ 449. As a result,  449 is the debt capacity in face value.
+
 # Debt Pricing
+
 Suppose lenders require an expected return of r for investing in any security of the firm. If the firm issued debt with face value 448 debt,  it would choose project 1,  and then the debt could raise up to 448 1+r. (Project 1 is also selected for face 449,  because the borrower will not hurt the lender if it does not help himself.) If the firm issued debt with face F>449,  it would lead to project 2 and raise½F + ½(0)
 1+r.
+
 # This Leaves Us With Some Unanswered Questions
+
 A- *How can these bad effects of debt be reduced?* B- *How do bank asset services help reduce these bad effects?*
 Next Class CIf debt is so bad,  why is it so common,  especially for smaller firms?
 Why not use another financial contract?
 Next Class A. Let's have some suggestions for how to get out of this situation of Risky Project 2?
+
 - We will discuss and evaluate.
 # The Us Federal Trust Indenture Act
 - The US Federal Trust Indenture Act prohibits majority voting to restructure debt contracts that reduce principal,  interest or extend the debt maturity.

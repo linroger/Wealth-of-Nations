@@ -102,9 +102,12 @@
             "id": "59fb0b0ba0d14499",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9-Bailouts and Bank Failures"
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -199,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5024719238281
+    "width": 489.5024719238281
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -215,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Financial Engineering/5._MeanVariance-CAPM.md"
+              }
             }
           }
         ],
@@ -276,14 +283,19 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "media-sync:Media sync": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "59fb0b0ba0d14499",
   "lastOpenFiles": [
+    "Financial Engineering/7._BlackScholesModel.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/Financial Markets and Institutions.md",
+    "Vault.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
-    "Vault.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "Attachments/PSET 5 Solution-1.png",
     "svg-cache/PSET 5 Solution-18.svg",
@@ -311,12 +323,8 @@
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Financial Instruments/Assignments/Solutions/htt.md",
-    "CleanShot 2024-09-19 -002793@2x 1.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)/CleanShot 2024-09-19 -002793@2x 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
