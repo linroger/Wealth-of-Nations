@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -236,8 +236,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md"
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md"
               }
             }
           }
@@ -325,10 +324,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a0bb0fef6aa9cd23",
+  "active": "646b7cfa4cb674fd",
   "lastOpenFiles": [
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
     "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
     "Financial Markets and Institutions/Financial Markets and Institutions.md",
     "consistency-report.md",
@@ -347,7 +348,7 @@
     "Attachments/0_image_1.png",
     "Attachments/0b9ac213c668b778688cc51697078594.png",
     "Attachments/0_image_0.png",
-    "Attachments/The High Frequency Arms Race.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
     "Attachments/Untitled-5.png",
     "Attachments/Untitled-4.png",
     "Attachments/Untitled-3.png",
@@ -355,8 +356,6 @@
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution.md",
     "Financial Engineering/5._MeanVariance-CAPM.md",
     "Financial Engineering/7._BlackScholesModel.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Teaching Note 4-Multiperiod Binomial Trees.md",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/PSET 5 Solution (attachments).md",

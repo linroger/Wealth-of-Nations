@@ -96,7 +96,7 @@ Billions of dollars; quarterly figures are seasonally adjusted annual rates
 | 55                                                                                                | FA107005005 | Discrepancy                                     | 1.7    | 67.0   | -44.9  | 21.0   | -150.0 | 101.2  | 48.6   | 165.1  | -494.4 55 |    |
 |                                                                                                   | Memo:       |                                                 |        |        |        |        |        |        |        |        |           |    |
 | 56                                                                                                | FA105005305 | Financing gap (7)                               | -71.5  | -176.7 | -81.4  | -313.7 | 105.5  | 385.9  | -72.9  | -344.4 | -294.2 56 |    |
-| (1) Consumption of fixed capital plus the capital consumption adjustment. (2) Table F,   line 61. |             |                                                 |        |        |        |        |        |        |        |        |           |    |
+| (1) Consumption of fixed capital plus the capital consumption adjustment. (2) Table F,    line 61. |             |                                                 |        |        |        |        |        |        |        |        |           |    |
 
 Transactions
 
@@ -132,7 +132,7 @@ Two projects,  the riskier one also has a lower expected return. Each has only t
 | 1       | 500        | 1500       | 1000  | 200/800 =          | 25% |
 | 2       | 0          | 1551       | 775.5 | -24.5/800 = -3.06% |     |
 An unlevered firm will choose Project 1 1 2. **What about a firm with debt with face $600 in place?**
-The fixed payment of $600 is a sunk cost. If the firm is going to default,   then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,   or zero if the firm value is less than 600.
+The fixed payment of $600 is a sunk cost. If the firm is going to default,    then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,    or zero if the firm value is less than 600.
 Contingent cash flows to equity when debt of $600 is in place
 
 | Project   | Value if D   | Value if P     | Expected Value   |
