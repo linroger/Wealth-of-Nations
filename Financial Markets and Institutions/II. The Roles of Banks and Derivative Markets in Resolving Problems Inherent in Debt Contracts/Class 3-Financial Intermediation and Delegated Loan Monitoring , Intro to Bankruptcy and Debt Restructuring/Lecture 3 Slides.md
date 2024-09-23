@@ -192,59 +192,47 @@ Face per loan=B=1.09375
 
 # The 2-Loan Bank Can Survive
 
- Bank raises 2 in deposits,  promises 2B=2(1.09375)=2.1875 to depositors Bank can lend to each borrower at f=1.19 (19%),  Note that 1+f=2.19>
-2.1875.
-
+ Bank raises 2 in deposits,  promises 2B=2(1.09375)=2.1875 to depositors 
+ Bank can lend to each borrower at f=1.19 (19%),  Note that 1+f=2.19>2.1875.
  Collects f when V=1.4,  and 1 when V=1.
+ 1+f=2.19>2B=2.1875. Bank fails only if both default (Prob$=0.2^{2}=0.04$).
+![CleanShot 2024-09-23 -002856@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002856@2x.png)
 
- 1+f=2.19>2B=2.1875. Bank fails only if both default (Prob==0.04).
-
-|            |                                   |                            |                                                 |                                | Distress cost   |          |                         |    |    |
-|------------|-----------------------------------|----------------------------|-------------------------------------------------|--------------------------------|-----------------|----------|-------------------------|----|----|
-|            |                                   |                            |                                                 |                                | 2B<1+f          | per loan |                         |    |    |
-| (1.4,   1.4) | 0                                 | 2f                         | 0.64                                            | 2B                             | No              | 0        | No                      | 0  | 0  |
-| (1.4,  1)    | 1                                 | f+1                        | 0.16                                            | 2B                             | Yes             | 1+f      | No                      | 0  | 0  |
-| (1,  1.4)    | 1                                 | 1+f                        | 0.16                                            | 2B                             | Yes             | 1+f      | No                      | 0  | 0  |
-| (1,  1)      | 2                                 | 2                          | 0.04                                            | 2B                             | Yes             | 2        | Yes                     | 2  | 1  |
-|            | Total  Distress  costs if  2B<1+f | Distress  cost per  loan   | Payment                                         | Deposit                        |                 |          |                         |    |    |
-|            |                                   |                            | received by  payment if  depositors 2B=2.1875   | Value of bank equity if f=1.19 |                 |          |                         |    |    |
-|            | probability                       | Distress cost  times prob. |                                                 | 2(1.19)2.1875 =  0.1925      |                 |          |                         |    |    |
-| (1.4,   1.4) | 0.64                              | 0                          | 0                                               | 0                              | 2B              | 2.1875   | 2.18752.1875 =  0.025 |    |    |
-| (1.4,  1)    | 0.16                              | 0                          | 0                                               | 0                              | 2B              | 2.1875   |                         |    |    |
-| (1,  1.4)    | 0.16                              | 0                          | 0                                               | 0                              | 2B              | 2.1875   | 2.18752.1875 =  0.025 |    |    |
-| (1,  1)      | 0.04                              | 2                          | 1                                               | 0.04                           | 0               | 0        | 0                       |    |    |
-|            |                                   |                            | (2B)=2(1.05),   2B= 2.1875 B=1.05/= 1.09375 |                                |                 |          |                         |    |    |
-|            |                                   |                            |                                                 |                                | 38              |          |                         |    |    |
+|              |                                   |                            |                                               |                                | Distress cost |          |                       |     |     |
+| ------------ | --------------------------------- | -------------------------- | --------------------------------------------- | ------------------------------ | ------------- | -------- | --------------------- | --- | --- |
+|              |                                   |                            |                                               |                                | 2B<1+f        | per loan |                       |     |     |
+| (1.4,   1.4) | 0                                 | 2f                         | 0.64                                          | 2B                             | No            | 0        | No                    | 0   | 0   |
+| (1.4,  1)    | 1                                 | f+1                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
+| (1,  1.4)    | 1                                 | 1+f                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
+| (1,  1)      | 2                                 | 2                          | 0.04                                          | 2B                             | Yes           | 2        | Yes                   | 2   | 1   |
+|              | Total  Distress  costs if  2B<1+f | Distress  cost per  loan   | Payment                                       | Deposit                        |               |          |                       |     |     |
+|              |                                   |                            | received by  payment if  depositors 2B=2.1875 | Value of bank equity if f=1.19 |               |          |                       |     |     |
+|              | probability                       | Distress cost  times prob. |                                               | 2(1.19)2.1875 =  0.1925        |               |          |                       |     |     |
+| (1.4,   1.4) | 0.64                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
+| (1.4,  1)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   |                       |     |     |
+| (1,  1.4)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
+| (1,  1)      | 0.04                              | 2                          | 1                                             | 0.04                           | 0             | 0        | 0                     |     |     |
+|              |                                   |                            | (2B)=2(1.05),   2B= 2.1875 B=1.05/= 1.09375   |                                |               |          |                       |     |     |
+|              |                                   |                            |                                               |                                | 38            |          |                       |     |     |
 
 # All Are Weakly Better Off
-
- Bank charges 19% (vs 31.25 % for unmonitored)
- Pays 9.375% on deposits (gives depositors a 5% expected rate of return)
- Banker gets (2f-2B) + (1+f-2B)=
+- Bank charges 19% (vs 31.25 % for unmonitored)
+ - Pays 9.375% on deposits (gives depositors a 5% expected rate of return)
+![CleanShot 2024-09-23 -002857@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002857@2x.png)
+ - Banker gets (2f-2B) + (1+f-2B)=
  =(2.38-2.1875) + (2.19-2.1875)
 =0.124 > cost of monitoring
 =(2()=0.0004)
 
 # Further Diversification
-
- As bank becomes well diversified (N∞),  it converges to a bank where 80% of loans pay f and 20% pay 1. It (almost) never fails. It just needs to cover its cost of capital (5%) and of monitoring (%).
-
- Let 1 + 0.05 + = f + (1),  or f= 1.06275. This allows bank to break even.
-
- The well diversified bank can make loans at 6.275% and pay 5% on deposits and earn zero profits.
-
- Can out compete less diversified banks. Can earn profits if not fully competitive.
+ - As bank becomes well diversified (N∞),  it converges to a bank where 80% of loans pay f and 20% pay 1. It (almost) never fails. It just needs to cover its cost of capital (5%) and of monitoring (%).
+ - Let 1 + 0.05 + = f + (1),  or f= 1.06275. This allows bank to break even.
+- The well diversified bank can make loans at 6.275% and pay 5% on deposits and earn zero profits.
+- Can out compete less diversified banks.
+- Can earn profits if not fully competitive.
 
 # Role Of Diversification
-
- Diversified banks as original form of
-"Financial Engineering."
- Transform loans that need monitoring into deposits that do not Used in securitization today
- ("pooling" (diversification) and
-"tranching" (selling off only senior claims)
-
-![41_image_0.png](41_image_0.png)
-
-![42_image_0.png](42_image_0.png)
-
-![43_image_0.png](43_image_0.png)
+ - Diversified banks as original form of "Financial Engineering."
+ - Transform loans that need monitoring into deposits that do not 
+ - Used in securitization today
+- ("pooling" (diversification) and "tranching" (selling off only senior claims)
