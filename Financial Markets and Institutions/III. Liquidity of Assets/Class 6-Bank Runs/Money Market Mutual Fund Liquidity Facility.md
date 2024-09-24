@@ -1,6 +1,7 @@
 ---
 title: Money Market Mutual Fund Liquidity Facility
 ---
+
 Here’s the document formatted as requested:
 
 # Money Market Mutual Fund Liquidity Facility
@@ -45,7 +46,7 @@ Here’s the document formatted as requested:
 		  - i. Has a demand feature that allows holders to tender the note at their option within 12 months; and
 		  - Ii. At the time purchased from the Fund or pledged to the Reserve Bank:
 			1. Is rated in the top short-term rating category (e.g.,  rated SP 1,  VMIG 1,  or F 1,  as applicable) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO; or
-			2. If not rated in a short-term rating category,  is rated in one of the top two long-term rating categories (e.g.,  AA or equivalent or above) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top two rating categories by that NRSRO.
+			1. If not rated in a short-term rating category,  is rated in one of the top two long-term rating categories (e.g.,  AA or equivalent or above) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top two rating categories by that NRSRO.
 
    - In addition,  the facility may accept receivables from certain repurchase agreements.
 	  - The feasibility of adding these and other asset classes to the facility will be considered in the future.
