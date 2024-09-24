@@ -172,9 +172,55 @@
             "id": "b4b14c3e1458f771",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information"
+              }
+            }
+          },
+          {
+            "id": "a659f08a475535b3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information"
+              }
+            }
+          },
+          {
+            "id": "c6d2a3def3b79437",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b96e02bf5a813ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f942e99dce47c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -182,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -257,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md"
+                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md"
               }
             }
           }
@@ -310,6 +356,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -326,8 +374,14 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "b4b14c3e1458f771",
+  "active": "5f942e99dce47c8d",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information",
+    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002857@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002856@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002855@2x.png",
@@ -339,10 +393,8 @@
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002849@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/.assets/CleanShot 2024-09-23 -002848@2x.png",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/.assets/CleanShot 2024-09-23 -002847@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/CleanShot.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/The Limits Of Arbitrage.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/Class 8-Markets, Meltdowns, and Arbitrage.md",
@@ -357,14 +409,11 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
     "consistency-report.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
@@ -372,7 +421,6 @@
     "Financial Engineering/1. DeterministicCashFlows_meta.json",
     "Financial Engineering",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)",
-    "V. HBR Notes",
-    "Attachments/Fixed-Income-Lecture-Notes.octet-stream"
+    "V. HBR Notes"
   ]
 }
