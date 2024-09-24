@@ -192,7 +192,143 @@ RBC Capital Markets & 10 & 3.232 & 77, 253 & 385 \\
 \end{document}
 ```
 
-(Continue with similar formatting for the remaining exhibits)
+Continuing with the formatting for the remaining exhibits:
+
+#### Exhibit 3: LBO Loans
+
+```latex
+\begin{document}
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+LBO Loans & FY 2016 & & & \\ 
+\hline
+Mkt. Share & Volume & & & \\ 
+\hline
+Jefferies & 1 & 9.047 & 13,159 & 100 \\ 
+\hline
+Credit Suisse & 2 & 6.908 & 10,047 & 91 \\ 
+\hline
+Bank of America Merrill Lynch & 3 & 6.295 & 9,156 & 73 \\ 
+\hline
+Goldman Sachs & 4 & 6.091 & 8,860 & 80 \\ 
+\hline
+Antares Capital LP & 5 & 5.910 & 8,595 & 91 \\ 
+\hline
+Morgan Stanley & 6 & 5.898 & 8,579 & 56 \\ 
+\hline
+Barclays & 7 & 5.806 & 8,445 & 78 \\ 
+\hline
+RBC Capital Markets & 8 & 5.119 & 7,446 & 65 \\ 
+\hline
+Macquarie & 9 & 4.618 & 6,717 & 50 \\ 
+\hline
+Citi & 10 & 4.330 & 6,297 & 40 \\ 
+\hline
+Deutsche Bank & 11 & 3.999 & 5,817 & 57 \\ 
+\hline
+JP Morgan & 12 & 3.925 & 5,709 & 41 \\ 
+\hline
+Nomura & 13 & 3.192 & 4,642 & 26 \\ 
+\hline
+BMO Capital Markets & 14 & 2.712 & 3,945 & 67 \\ 
+\hline
+Kohlberg Kravis Roberts & Co & 15 & 2.372 & 3,450 & 22 \\ 
+\hline
+SunTrust Robinson Humphrey & 16 & 2.353 & 3,423 & 37 \\ 
+\hline
+Wells Fargo & 17 & 2.246 & 3,266 & 28 \\ 
+\hline
+UBS & 18 & 2.224 & 3,235 & 26 \\ 
+\hline
+Golub Capital LLC & 19 & 1.927 & 2,803 & 26 \\ 
+\hline
+Citizens Financial Group Inc & 20 & 1.833 & 2,666 & 33 \\ 
+\hline
+TOTAL & 100\% & & 145,445 & 426 \\ 
+\hline
+\end{tabular}
+\end{document}
+```
+
+#### Exhibit 4: Loan Share Retained by the Originating Bank through Credit Cycle
+
+```latex
+\usepackage{amsmath}
+\begin{document}
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Lead share (\%) & Net \% of respondents tightening standards for C&I loans \\ 
+\hline
+Source: Victoria Ivashina and David S. Scharfstein, "Loan Syndication and Credit Cycles," American Economic Review: Papers and Proceedings 100, no. 2 (2010). \\ 
+\hline
+\end{tabular}
+\end{document}
+```
+
+#### Exhibit 5: Leveraged Loans Holdings by Investor Type
+
+```latex
+\usepackage{amsmath}
+\begin{document}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+Asian & Canadian & European & Finance & CLOs, Ins. & Co. & Bank \\ 
+\hline
+Bank & Loan, Hedge & High-Yield & Firm &  &  & \\ 
+\hline
+\end{tabular}
+\end{document}
+```
+
+#### Exhibit 6: Total Loan Fund Assets under Management (billion U.S. dollars)
+
+```latex
+\usepackage{amsmath}
+\begin{document}
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Year & Total Loan Fund Assets & (billion U.S. dollars) \\ 
+\hline
+2010 &  &  \\ 
+\hline
+2011 &  &  \\ 
+\hline
+2012 &  &  \\ 
+\hline
+2013 &  &  \\ 
+\hline
+2014 &  &  \\ 
+\hline
+2015 &  &  \\ 
+\hline
+2016 &  &  \\ 
+\hline
+2017 &  &  \\ 
+\hline
+YTD Sep 18 &  &  \\ 
+\hline
+\end{tabular}
+\end{document}
+```
+
+### Additional Notes
+
+- Be sure to replace placeholders in tables with the actual data as needed. 
+- Remember that you will need to compile the LaTeX code in an appropriate environment to view the formatted tables.
+
+### Endnotes
+
+1. Syndicated loans are priced at a spread over the floating interest rate, most often the London Interbank Offered Rate (LIBOR).
+2. See also Paul Gompers, Victoria Ivashina, and Joris Van Gool, "Note on LBO Capital Structure," HBS No. 214-039 (Boston: Harvard Business School Publishing, 2013).
+3. Loan Syndications and Trading Association, *2017 Secondary Trading & Settlement Summary: A Record Year for Trading*, January 30, 2018.
+4. Source: Highland Capital.
+5. Thomson Reuters LPC, *Leveraged Loan Monthly April 2018*.
+
+If you need further assistance or additional sections formatted, feel free to ask!
 
 ---
 
