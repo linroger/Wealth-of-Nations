@@ -83,6 +83,19 @@
             }
           },
           {
+            "id": "9b62e16d0ab52581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a659f08a475535b3",
             "type": "leaf",
             "state": {
@@ -119,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md"
+              }
             }
           }
         ],
@@ -261,7 +278,7 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "c112d56a768d8830",
+  "active": "9b62e16d0ab52581",
   "lastOpenFiles": [
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
