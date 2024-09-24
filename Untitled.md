@@ -2429,7 +2429,7 @@ Through these courses, the candidate has built a strong foundation in finance, e
 
 Their comprehensive education and practical experiences make them exceptionally well-prepared for finance roles such as financial analyst, investment manager, risk analyst, or policy advisor within top financial services firms or financial institutions. Their blend of theoretical knowledge and practical application positions them to contribute meaningfully from the outset, addressing the challenging problems professionals in the financial services industry grapple with each day.
 
-**Financial Markets and Institutions (Taught by Nobel Laureate Douglas Diamond)**
+Course 9: Financial Markets and Institutions 
 
 The **Financial Markets and Institutions** course is taught by Professor Douglas Diamond, a preeminent expert in banking and financial markets who was awarded the Nobel Prize in Economics in 2022 alongside Ben Bernanke and Philip Dybvig for their groundbreaking work on bank runs and financial crises. This course provided an in-depth exploration of the functioning of financial markets, the role of financial institutions, and the intricate mechanisms that underpin the global financial system.
 
