@@ -63,9 +63,22 @@
             "id": "b4b14c3e1458f771",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af57f61896ef837",
+            "type": "leaf",
+            "state": {
               "type": "mk-space",
               "state": {
-                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information"
+                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation"
               }
             }
           },
@@ -75,20 +88,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information"
-              }
-            }
-          },
-          {
-            "id": "c6d2a3def3b79437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,13 +261,14 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "b4b14c3e1458f771",
+  "active": "c112d56a768d8830",
   "lastOpenFiles": [
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information",
@@ -300,7 +301,6 @@
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
-    "consistency-report.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
