@@ -22,7 +22,7 @@ All private placement debt with a single lender would avoid this problem. Howeve
 
 The easiest case is when the public can never make a concession. This implies the use of bankruptcy court and possibly liquidation whenever there is a default.The only party who can make concessions outside bankruptcy is the bank lender. In practice,  the bank loans are short term and senior,  the public is long term and junior to the bank. Later in the course,  we will examine why this is the structure that is commonly used. For now,  we will just look at the structure's implications for restructuring debt outside bankruptcy.If the public never makes a concession,  the bank decides whether to make a concession of its own to stay out of bankruptcy,  or instead to force the borrower into bankruptcy. If the bank forces bankruptcy,  then it is paid from the bankruptcy proceeds by its specified priority (it is senior). The bank debt is maturing today and needs to be refinanced. The public debt is long-term,  and matures in the future.
 
-The future ("date 2") value of the firm is 2,  1,  or 0,  with probability $q_2,  q_1$,  and $q_0$ respectively.The current going concern value of the firm is then $2\mathbf{q}_{2}+\mathbf{q}_{1}$
+The future ("date 2") value of the firm is 2,  1,  or 0,  with probability $q_2,   q_1$,  and $q_0$ respectively.The current going concern value of the firm is then $2\mathbf{q}_{2}+\mathbf{q}_{1}$
 
 Let $\mathbf{q}_{2}=0.2$ $q_{1}=0.6$ and $\mathbf{q}_{0}=0.2$.The going concern value,  $V_{GO}$,  is the 2()+(1)=0.
 
