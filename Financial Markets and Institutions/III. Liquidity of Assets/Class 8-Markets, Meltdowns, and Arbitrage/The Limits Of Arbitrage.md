@@ -97,9 +97,7 @@ $${\mathsf{F}}_{2}=$$
  ' Hedge fund managers typically do get a large incentive component in their compensation,  but we are not aware of increases in that component,  and cuts in fees,  to avert withdrawal of funds.
  When S 2 = S,  in contrast,  arbitrageurs third period funds are given by W =
  (V/p 2) * [a{D,  * P 2 lP 1 + F 1 - D 1} + (1 - a) FI]. Arbitrageurs then maximize:
-
-$$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}$$ $$+q\bigg{(}\frac{V}{p_{2}}\bigg{)}*\bigg{\{}a\bigg{(}\frac{D_{1}*p_{2}}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}\tag{7}$$
-
+$$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}+q\bigg{(}\frac{V}{p_{2}}\bigg{)}*\bigg{\{}a\bigg{(}\frac{D_{1}*p_{2}}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}\tag{7}$$
 ## Ii. Performance-Based Arbitrage And Market Efficiency
 
  Before analyzing the pattern of prices in our model,  we specify what the benchmarks are. The first benchmark is efficient markets,  in which arbitrageurs have access to all the capital they want. In this case,  since noise trader shocks are immediately counteracted by arbitrageurs,  Pi = P 2 = V. An alternative benchmark is one in which arbitrageurs resources are limited,  but PBA is inoperative,  i.e.,  arbitrageurs can always raise F 1. Even if they lose money,  they can replenish their capital up to F 1. In this case,  Pi = V - S,  + F 1 and P 2 = V - S + F 1. Prices fall one for one with noise trader shocks in each period.
@@ -262,7 +260,6 @@ common. 5 Moreover,  creditors usually demand immediate repayment when the value
 
  DeLong,  J. Bradford,  Andrei Shleifer,  Lawrence Summers,  and Robert Waldmann,  1990,  Noise trader risk in financial markets,  Journal of Political Economy 98,  703-738.
 
-```latex
  Dow,  James,  and Gary Gorton,  1994,  Noise trading,  delegated portfolio management,  and eco-
      Nomic welfare,  NBER Working paper 4858.
  Fama,  Eugene,  1965,  The behavior of stock market prices,  Journal of Business 38,  34-105.
@@ -302,5 +299,3 @@ common. 5 Moreover,  creditors usually demand immediate repayment when the value
      Ment effects,  Quarterly Journal of Economics,  110,  379-406.
  Warther,  Vincent,  1995,  Aggregate mutual fund flows and security returns,  Journal of Financial
      Economics 39,  209-236.
-
-```
