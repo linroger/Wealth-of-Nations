@@ -58,13 +58,11 @@ At the same time,  most other MMF classes experienced outflows. US prime institu
 In response to the market strains,  a number of programmes were rolled out to provide liquidity support. In the United States,  the Federal Reserve established the Money Market Mutual Fund Liquidity Facility (MMLF) on 18 March This programme allowed banks to borrow from the Federal Reserve by pledging a wide range of assets purchased from prime and tax-exempt MMFs. Eligible assets included the most distressed ones,  such as commercial paper and certificates of deposit. The loans to the participating banks were given on a non-recourse basis (ie banks did not bear credit risk) and were exempt from regulatory capital requirements The facility
 
 Overview of the March 2020 MMF run1 Graph 1
-![[Investor Size,  Liq![Untitled-6.png](Untitled-6.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.11.35.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.11.35.png)
 
  Prime Tax-exempt Rhs: Institutional: Retail:
 
 European dollar LVNAV MMFs saw large redemptions Cumulative flows differed across funds
-
-![4_image_1.png](4_image_1.png)
 
 The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial commercial paper). The shaded areas in the first and third panels indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; CNAV = constant NAV; LVNAV = low-volatility NAV; VNAV = variable NAV.
 
@@ -84,7 +82,7 @@ Consistent with previous evidence,  we observe that aggregate outflows during th
 
 Average AUM; 5 Mar 2020 = 100 Graph 2
 
-![5_image_0.png](5_image_0.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.08.14.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.14.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; WLA = weekly liquid assets.
 
@@ -113,40 +111,7 @@ MMF managers could respond to the large redemptions in two alternative ways. The
 
 # Quantifying The Role Of Liquidity And Investor Size In Mmf Run Risk
 
-We employ panel regression to formally study the role of liquidity and investor size in runs on US prime institutional funds. We first examine the effects of each factor separately and then turn to joint effects.
-
-We start by estimating the following equation over the run period 6–26 March 2020:
-, ௧ = ௐ × 1௪ ௐ,  + ெூ × 1 ெூ,  + ×, ௧ିଵ + ௧ +, ௧,  where, ௧ is the daily outflow from fund i at time t calculated as the daily percentage change of AUM; and 1௪ ௐ,  and 1 ெூ,  are dummy binary variables,  the first one taking value 1 if the fund i's average WLA during January–February 2020 was less than the cross-sectional median,  and 0 otherwise,  and the second taking the value 1 if the minimum investment for fund i was higher than the cross-sectional median,  and 0 otherwise., ௧ିଵ are control variables that include lagged AUM (in logarithms) and the gross 30-day yield of each fund,  and ௧ is a time fixed effect.
-
-In this context,  ௐ and ெூ measure how the intensity of the run varied on average with the pre-stress fund characteristics.
-
-| The role of liquidity and investor sophistication during the March 2020 run                                                                                                                                                            | Table A                          |          |          |       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------|----------|-------|
-|                                                                                                                                                                                                                                        | Outflow (% change in fund's AUM) |          |          |       |
-| (1)                                                                                                                                                                                                                                    | (2)                              | (3)      | (4)      |       |
-| 𝛽ௐ௅஺                                                                                                                                                                                                                                  | 0.594*                           | 0.474    |          |       |
-|                                                                                                                                                                                                                                        | (1.669)                          | (1.350)  |          |       |
-| 𝛽ெூ                                                                                                                                                                                                                                     |                                  | 1.747*** | 1.709*** |       |
-|                                                                                                                                                                                                                                        | (4.872)                          | (4.778)  |          |       |
-| 𝛽௅ு                                                                                                                                                                                                                                    | 2.255***                         |          |          |       |
-|                                                                                                                                                                                                                                        | (4.765)                          |          |          |       |
-| 𝛽௅௅                                                                                                                                                                                                                                   |                                  | 0.782*   |          |       |
-|                                                                                                                                                                                                                                        | (1.752)                          |          |          |       |
-| 𝛽ுு                                                                                                                                                                                                                                     |                                  | 1.958*** |          |       |
-|                                                                                                                                                                                                                                        | (4.135)                          |          |          |       |
-| 𝛽௅ு − 𝛽ுு                                                                                                                                                                                                                               |                                  | 0.297    |          |       |
-|                                                                                                                                                                                                                                        | (0.598)                          |          |          |       |
-| 𝛽௅௅ − 𝛽ு௅                                                                                                                                                                                                                             |                                  | 0.782*   |          |       |
-|                                                                                                                                                                                                                                        | (1.752)                          |          |          |       |
-| 𝛽ுு − 𝛽ு௅                                                                                                                                                                                                                               |                                  | 1.958*** |          |       |
-|                                                                                                                                                                                                                                        | (4.135)                          |          |          |       |
-| 𝛽௅ு − 𝛽௅௅                                                                                                                                                                                                                             |                                  | 1.472*** |          |       |
-|                                                                                                                                                                                                                                        | (2.893)                          |          |          |       |
-| Other controls1                                                                                                                                                                                                                        | Y                                | Y        | Y        | Y     |
-| Time fixed effects                                                                                                                                                                                                                     | Y                                | Y        | Y        | Y     |
-| Number of observations                                                                                                                                                                                                                 | 1, 020                            | 1, 020    | 1, 020    | 1, 020 |
-| R-squared                                                                                                                                                                                                                              | 0.063                            | 0.079    | 0.080    | 0.081 |
-| t-statistic calculated with robust standard errors in parentheses; ***/**/* indicates statistical significance at the 1/5/10% level. The sample  includes prime institutional funds as defined by CRANE in the period 6–26 March 2020. |                                  |          |          |       |
+![[Investor Size,  Liq![Finder 2024-09-25 05.07.41.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.41.png)
 
 The results are as follows. When estimated separately,  ௐ and ெூ are both positive and statistically significant,  confirming that funds with weaker liquidity conditions and larger investors would face larger withdraws all else equal (Table A,  columns (1) and (2)). On average,  weaker-liquidity-condition funds face 0.6% higher daily outflows,  which translates into close to 10% higher cumulative run flow. The corresponding difference between funds with larger and smaller investors is 1.7% for daily outflow and more than 20% for cumulative run outflow. Joint estimates of ௐ and ெூ are of similar magnitudes (column (3)),  suggesting that the two factors complement each other in affecting run intensity. That said,  the WLA dummy becomes not significant in the presence of the minimum investment dummy.
 
@@ -170,7 +135,7 @@ yield. These trades were procyclical,  as they took place when private debt was 
 
 Liquidity management at prime institutional MMFs during the March turmoil1 Graph 3
 
-![9_image_0.png](9_image_0.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.07.27.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.27.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicates 6–26 March 2020 (period of consecutive outflows). WAM = weighted average maturity; WLA = weekly liquid assets.
 
@@ -207,42 +172,7 @@ Finally,  panel C of Table B presents the results for the first two weeks after 
 
  Sometimes several funds (akin to share classes) invest in a single portfolio. As a result,  liquidity measures are identical for all funds residing within the same portfolio. All measures exhibit a statistically significant "reversion to the target" as indicated by a large negative coefficient in front of lagged liquidity variables (not reported): deviations of liquidity from the previous day (presumably close to the fund manager's target for the vehicle) are met with a compensating move the following day. The announcement of the MMLF was made late in the evening on 18 March. Therefore,  we include 18 March in the pre-MMLF period.
 
-| Δ(WLA)                                                                                                                                          | Δ(WAM)    |           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
-| Panel A: pre-stress (17–28 Feb 2020)                                                                                                            |           |           |
-| Liquidity management before and during the run                                                                                                  | Table B   |           |
-| (1) Outflow                                                                                                                                     | –0.101    | 0.333***  |
-|                                                                                                                                                 | (–1.642)  | (12.27)   |
-| (2) Lagged outflow                                                                                                                              | –0.0786   | 0.011     |
-|                                                                                                                                                 | (–1.335)  | (0.991)   |
-| Other controls1                                                                                                                                 | Y         | Y         |
-| Portfolio fixed effects                                                                                                                         | Y         | Y         |
-| Time fixed effects                                                                                                                              | Y         | Y         |
-| Number of observations                                                                                                                          | 315       | 315       |
-| R-squared                                                                                                                                       | 0.297     | 0.746     |
-| Panel B: run,  pre-MMLF (6–18 Mar 2020)                                                                                                          |           |           |
-| (3) Outflow                                                                                                                                     | 0.0421    | 0.175***  |
-|                                                                                                                                                 | (1.456)   | (5.322)   |
-| (4) Lagged outflow                                                                                                                              | –0.222*** | 0.008     |
-|                                                                                                                                                 | (–5.384)  | (0.261)   |
-| Other controls1                                                                                                                                 | Y         | Y         |
-| Portfolio fixed effects                                                                                                                         | Y         | Y         |
-| Time fixed effects                                                                                                                              | Y         | Y         |
-| Number of observations                                                                                                                          | 315       | 315       |
-| R-squared                                                                                                                                       | 0.470     | 0.475     |
-| Panel C: MMLF (19 Mar–3 Apr 2020)                                                                                                               |           |           |
-| (5) Outflow                                                                                                                                     | –0.0548   | 0.122**   |
-|                                                                                                                                                 | (–0.864)  | (2.248)   |
-| (6) Lagged outflow                                                                                                                              | –0.180*** | –0.0637   |
-|                                                                                                                                                 | (–2.777)  | (–1.108)  |
-| (7) Pre-MMLF outflow                                                                                                                            | 0.0381**  | –0.0308** |
-|                                                                                                                                                 | (2.325)   | (–2.582)  |
-| Other controls1                                                                                                                                 | Y         | Y         |
-| Portfolio fixed effects                                                                                                                         | N         | N         |
-| Time fixed effects                                                                                                                              | Y         | Y         |
-| Number of observations                                                                                                                          | 404       | 420       |
-| R-squared                                                                                                                                       | 0.181     | 0.232     |
-| t-statistic calculated with robust standard errors in parentheses; ***/**/* indicates statistical significance at the 1/5/10% level. The sample |           |           |
+![[Investor Size,  Liq![Finder 2024-09-25 05.08.34.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.34.png)
 
 ## References
 
@@ -277,3 +207,5 @@ See Aldasoro. Cabanilla,  Disyatat,  Ehlers,  McGuire and von Peter (2020) regar
 
 12 The US Treasury provided credit protection to the Federal Reserve.
 eased the stress by making banks willing buyers of illiquid assets,  thus providing liquidity to MMFs to meet redemptions. In so doing,  it reduced investors' pre-emptive withdrawals.
+
+![Finder 2024-09-25 05.06.34.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Untitled.assets/Finder%202024-09-25%2005.06.34.png)

@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md"
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md"
               }
             }
           }
@@ -325,8 +325,17 @@
   },
   "active": "773fb91d4230a384",
   "lastOpenFiles": [
-    "consistency-report.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Class 6-Bank Runs.md",
+    "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.08.34.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.15.50.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.07.41.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.08.14.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.07.27.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.11.35.png",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.06.34.png",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "consistency-report.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
     "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets",
@@ -338,17 +347,10 @@
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/CleanShot 2024-09-25 -002878@2x.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.33.png",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.45.png",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.57.png",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.05.10.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.22.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 9-Bailouts and Bank Failures/Squam Lake Group Letter.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/The Limits Of Arbitrage.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
-    "Attachments/4_image-0.png",
-    "svg-cache/c94b3200546fe895d198275a2358ea1d.svg",
     "Vault.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
@@ -363,8 +365,6 @@
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/CleanShot.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/Class 8-Markets, Meltdowns, and Arbitrage.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
-    "Financial Markets and Institutions/Financial Markets and Institutions.md",
-    "CleanShot 2024-09-19 -002793@2x.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
