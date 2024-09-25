@@ -1,6 +1,7 @@
 ---
 title: The Limits Of Arbitrage
 ---
+
 # The Limits Of Arbitrage
 
  ANDREI SHLEIFER and ROBERT W. VISHNY*
@@ -11,9 +12,9 @@ title: The Limits Of Arbitrage
 
  ONE OF THE FUNDAMENTAL concepts in finance is arbitrage,  defined as "the simultaneous purchase and sale of the same,  or essentially similar,  security in two different markets for advantageously different prices" (Sharpe and Alexander (1990)). Theoretically speaking,  such arbitrage requires no capital and entails no risk. When an arbitrageur buys a cheaper security and sells a more expensive one,  his net future cash flows are zero for sure,  and he gets his profits up front. Arbitrage plays a critical role in the analysis of securities markets,  because its effect is to bring prices to fundamental values and to keep markets efficient. For this reason,  it is extremely important to understand how well this textbook description of arbitrage approximates reality. This article argues that the textbook description does not describe realistic arbitrage trades,  and,  moreover,  the discrepancies become particularly important when arbitrageurs manage other people's money.
 
- Even the simplest realistic arbitrages are more complex than the textbook definition suggests. Consider the simple case of two Bund futures contracts to deliver DM 250, 000 in face value of German bonds at time T,  one traded in London on LIFFE and the other in Frankfurt on DTB. Suppose for the moment,  counter factually,  that these contracts are exactly the same. Suppose finally that at some point in time t the first contract sells for DM 240, 000 and the second for DM 245, 000. An arbitrageur in this situation would sell a futures contract in Frankfurt and buy one in London,  recognizing that at time T he is perfectly hedged. To do so,  at time t,  he would have to put up some good faith money,  namely DM 3, 000 in London and DM 3, 500 in Frankfurt,  leading to a net cash outflow of DM 6, 500. However,  he does not get the DM 5, 000 difference in contract prices at the time he puts on the trade. Suppose that prices of the two contracts both converge to DM 242, 500 just after t,  as the market returns to efficiency. In this case,  the arbitrageur would immediately collect DM 2, 500 from each exchange,  which would simultaneously charge the counter parties for their losses. The arbitrageur can then close out his position and get back his good faith money as well. In this near textbook case,  the arbitrageur required only DM 6, 500 of capital and collected his profits at some point in time between t and T.
+ Even the simplest realistic arbitrages are more complex than the textbook definition suggests. Consider the simple case of two Bund futures contracts to deliver DM 250,  000 in face value of German bonds at time T,  one traded in London on LIFFE and the other in Frankfurt on DTB. Suppose for the moment,  counter factually,  that these contracts are exactly the same. Suppose finally that at some point in time t the first contract sells for DM 240,  000 and the second for DM 245,  000. An arbitrageur in this situation would sell a futures contract in Frankfurt and buy one in London,  recognizing that at time T he is perfectly hedged. To do so,  at time t,  he would have to put up some good faith money,  namely DM 3,  000 in London and DM 3,  500 in Frankfurt,  leading to a net cash outflow of DM 6,  500. However,  he does not get the DM 5,  000 difference in contract prices at the time he puts on the trade. Suppose that prices of the two contracts both converge to DM 242,  500 just after t,  as the market returns to efficiency. In this case,  the arbitrageur would immediately collect DM 2,  500 from each exchange,  which would simultaneously charge the counter parties for their losses. The arbitrageur can then close out his position and get back his good faith money as well. In this near textbook case,  the arbitrageur required only DM 6,  500 of capital and collected his profits at some point in time between t and T.
 
- Even in this simplest example,  the arbitrageur need not be so lucky. Suppose that soon after t,  the price of the futures contract in Frankfurt rises to DM 250, 000,  thus moving further away from the price in London,  which stays at DM 240, 000. At this point,  the Frankfurt exchange must charge the arbitrageur DM 5, 000 to pay to his counter party. Even if eventually the prices of the two contracts converge and the arbitrageur makes money,  in the short run he loses money and needs more capital. The model of capital-free arbitrage simply does not apply. If the arbitrageur has deep enough pockets to always access this capital,  he still makes money with probability one. But if he does not,  he may run out of money and have to liquidate his position at a loss.
+ Even in this simplest example,  the arbitrageur need not be so lucky. Suppose that soon after t,  the price of the futures contract in Frankfurt rises to DM 250,  000,  thus moving further away from the price in London,  which stays at DM 240,  000. At this point,  the Frankfurt exchange must charge the arbitrageur DM 5,  000 to pay to his counter party. Even if eventually the prices of the two contracts converge and the arbitrageur makes money,  in the short run he loses money and needs more capital. The model of capital-free arbitrage simply does not apply. If the arbitrageur has deep enough pockets to always access this capital,  he still makes money with probability one. But if he does not,  he may run out of money and have to liquidate his position at a loss.
 
  In reality,  the situation is more complicated since the two Bund contracts have somewhat different trading hours,  settlement dates,  and delivery terms. It may easily happen that the arbitrageur has to find the money to buy bonds so that he can deliver them in Frankfurt at time T. Moreover,  if prices are moving rapidly,  the value of bonds he delivers and the value of bonds delivered to him may differ,  exposing the arbitrageur to additional risks of losses. Even this simplest trade then becomes a case of what is known as risk arbitrage. In risk arbitrage,  an arbitrageur does not make money with probability one,  and may need substantial amounts of capital to both execute his trades and cover his losses. Most real world arbitrage trades in bond and equity markets are examples of risk arbitrage in this sense. Unlike in the textbook model,  such arbitrage is risky and requires capital.
 
@@ -46,7 +47,7 @@ $$p_{2}=V-S_{2}+F_{2}.$$
  At time t = 2,  the price of the asset either recovers to V,  or it does not. If it recovers,  arbitrageurs invest in cash. If noise traders continue to be confused,  then arbitrageurs want to invest all of F 2 in the underpriced asset,  since its price rises to V at t = 3 for sure. In this case,  the arbitrageurs' demand for the asset $$Q_A(2) = F_2/p_2$$ and,  since the aggregate demand for the asset must equal the unit supply,  the price is given by: $$p_{2}=V-S_{2}+F_{2}.$$
  We assume that $F_2 < S_2$,  so the arbitrage resources are not sufficient to bring the period 2 price to fundamental value,  unless of course noise trader misperceptions have corrected anyway.
 
- In period 1,  arbitrageurs do not necessarily want to invest all of F 1 in the asset. They might want to keep some of the money in cash in case the asset becomes even more underpriced at t = 2,  so they could invest more in that asset. Accordingly,  denote by D 1 the amount that arbitrageurs invest in the asset at t = 1. In this case,  $$Q_A(1) = D_1/p_1,$$  and
+ In period 1,  arbitrageurs do not necessarily want to invest all of F 1 in the asset. They might want to keep some of the money in cash in case the asset becomes even more underpriced at t = 2,  so they could invest more in that asset. Accordingly,  denote by D 1 the amount that arbitrageurs invest in the asset at t = 1. In this case,  $$Q_A(1) = D_1/p_1,  $$ and
 $$p_{1}=V-S_{1}+D_{1}.$$
  We again assume that,  in the range of parameter values we are focusing on,  arbitrage resources are not sufficient to bring prices all the way to fundamental values,  i.e.,  F 1 < S 1.
 
@@ -57,7 +58,7 @@ $$p_{1}=V-S_{1}+D_{1}.$$
 
  Under these informational assumptions,  individual arbitrageurs who experience relatively poor returns in a given period lose market share to those with better returns. Moreover,  since all arbitrageurs in a given segment are taking the same positions,  they all attract or lose investors simultaneously,  depending on the performance of their common arbitrage strategy. Specifically,  investors' aggregate supply of funds to the arbitrageurs in a particular segment at time 2 is an increasing function of arbitrageurs' gross return between time 1 and time 2 (call this performance-based-arbitrage or PBA). Denoting this function by G,  and recognizing that the return on the asset is given by P 2/P 1' the arbitrageurs' supply of funds at t = 2 is given by:
 
-$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\}, $$
+$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\},   $$
 with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
  If arbitrageurs do as well as some benchmark given by performance of arbitrageurs in other markets,  which for simplicity we assume to be zero return,  they neither gain nor lose funds under management. However,  they gain (lose) funds if they outperform (under perform) that benchmark. Because of the extremely poor quality of investors' information,  past performance of arbitrageurs completely determines the resources they get to manage,  regardless of the actual opportunities available in their market.
 
@@ -65,9 +66,9 @@ with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
 
  Since our results do not rely on the concavity of the G function,  we focus on a linear G,  given by
 
-$$G(x)=a x+1-a, \qquad\mathrm{with}\quad a\equiv1, $$
+$$G(x)=a x+1-a,   \qquad\mathrm{with}\quad a\equiv1,   $$
 $$\mathbf{\Sigma}_{1}).\qquad(\mathbf{6})$$
-$$\{\ +(1\, -\, a)F_{1}=F_{1}-$$
+$$\{\ +(1\,   -\,   a)F_{1}=F_{1}-$$
 $$\mathbf{\Sigma}$$
  G (x) = ax + 1 - a,  with a: 1,  (5)
  Where x is arbitrageur's gross return. In this case,  equation (4) becomes:
@@ -98,6 +99,7 @@ $${\mathsf{F}}_{2}=$$
  When S 2 = S,  in contrast,  arbitrageurs third period funds are given by W =
  (V/p 2) * [a{D,  * P 2 lP 1 + F 1 - D 1} + (1 - a) FI]. Arbitrageurs then maximize:
 $$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}+q\bigg{(}\frac{V}{p_{2}}\bigg{)}*\bigg{\{}a\bigg{(}\frac{D_{1}*p_{2}}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}\tag{7}$$
+
 ## Ii. Performance-Based Arbitrage And Market Efficiency
 
  Before analyzing the pattern of prices in our model,  we specify what the benchmarks are. The first benchmark is efficient markets,  in which arbitrageurs have access to all the capital they want. In this case,  since noise trader shocks are immediately counteracted by arbitrageurs,  Pi = P 2 = V. An alternative benchmark is one in which arbitrageurs resources are limited,  but PBA is inoperative,  i.e.,  arbitrageurs can always raise F 1. Even if they lose money,  they can replenish their capital up to F 1. In this case,  Pi = V - S,  + F 1 and P 2 = V - S + F 1. Prices fall one for one with noise trader shocks in each period.
@@ -106,9 +108,9 @@ $$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}
 
  The first order condition to the arbitrageur's optimization problem is given by: V P 2 V
 
-$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\, \frac{V}{p_{2}}\equiv0\tag{8}$$
+$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\,   \frac{V}{p_{2}}\equiv0\tag{8}$$
 
- With strict inequality holding if and only if D 1 = F 1,  and equality holding if D 1 < F 1. The first term of equation (8) is an incremental benefit to arbitrageurs from an extra dollar of investment if the market recovers at t = 2. The second term is the incremental loss if the price falls at t = 2 before recovering at t = 3,  and so they have foregone the option of being able to invest more in that case. Condition (8) holds with a strict equality if the risk of price deterioration is high enough,  and this deterioration is severe enough,  that arbitrageurs choose to hold back some funds for the option to invest more at time 2. On the other hand,  equation (8) holds with a strict inequality if q is low,  if Pi is low relative to V (S 1 is large),  if P 2 is not too low relative to Pi (S not too large relative to Sj). That is to say,  the initial displacement must be very large and prices should be expected to recover with a high probability rather than fall further. If they do fall,  it cannot be by too much. Under these circumstances,  arbitrageurs choose to be fully invested at t = 1 rather than hold spare reserves for t = 2. We describe the case in which mispricing is so severe at t = 1 that arbitrageurs choose to be fully invested as "extreme circumstances, " and discuss it at some length.
+ With strict inequality holding if and only if D 1 = F 1,  and equality holding if D 1 < F 1. The first term of equation (8) is an incremental benefit to arbitrageurs from an extra dollar of investment if the market recovers at t = 2. The second term is the incremental loss if the price falls at t = 2 before recovering at t = 3,  and so they have foregone the option of being able to invest more in that case. Condition (8) holds with a strict equality if the risk of price deterioration is high enough,  and this deterioration is severe enough,  that arbitrageurs choose to hold back some funds for the option to invest more at time 2. On the other hand,  equation (8) holds with a strict inequality if q is low,  if Pi is low relative to V (S 1 is large),  if P 2 is not too low relative to Pi (S not too large relative to Sj). That is to say,  the initial displacement must be very large and prices should be expected to recover with a high probability rather than fall further. If they do fall,  it cannot be by too much. Under these circumstances,  arbitrageurs choose to be fully invested at t = 1 rather than hold spare reserves for t = 2. We describe the case in which mispricing is so severe at t = 1 that arbitrageurs choose to be fully invested as "extreme circumstances,  " and discuss it at some length.
  This discussion can be summarized more formally in:
  PROPOSITION 1: For a given V,  S 1,  S,  F 1,  and a,  there is a q* such that,  for q >
  Q*,  D 1 < F 1,  and for q < q*,  D 1 = F 1.
@@ -146,7 +148,7 @@ $$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr
  For concreteness,  it is easier to focus on the case of Proposition 3,  when arbitrageurs are fully invested. In this case,  we have that
 
 $$({\mathfrak{g}})$$
-$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}], $$
+$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],   $$
 
  as long as aF 1 < Pl. The condition that a F1 < Pi is a simple stability condition in this model,  which basically says that arbitrageurs do not lose so much money that in equilibrium they bail out of the market completely. If aF,  > Pl,  then at t = 2 the only equilibrium price is P 2 = V - S,  and arbitrageurs bail out of the market completely. In the stable equilibrium,  arbitrageurs lose funds under management as prices fall,  and hence liquidate some holdings,  but they still stay in the market.
 
@@ -157,7 +159,7 @@ $$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}], $$
 
  Precisely when prices are furthest from fundamental values,  arbitrageurs take the smallest position. Moreover,  as PBA intensifies,  i.e.,  as a rises,  the price decline per unit increase in S gets greater. If we think of dp 2/dS as a measure of the resiliency of the market (equal to zero for an efficient market and to -1 when a = 0 and there is no PBA),  then Proposition 4 says that a market driven by PBA loses its resiliency in extreme circumstances. The analysis thus shows that the arbitrage process can be quite ineffective in bringing prices back to fundamental values in extreme circumstances.
 
- This result contrasts with the more standard models,  in which arbitrageurs are most aggressive when prices are furthest away from fundamentals. This point relates to Friedman's (1953) famous observation that "to say that arbitrage is destabilizing is equivalent to saying that arbitrageurs lose money on average, " which is implausible. Our model is consistent with Friedman in that,  on average,  arbitrageurs make money and move prices toward fundamentals. However,  the fact that they make money on average does not mean that they make money always. Our model shows that the times when they lose money are precisely the times when prices are far away from fundamentals,  and in those times the trading by arbitrageurs has the weakest stabilizing effect.
+ This result contrasts with the more standard models,  in which arbitrageurs are most aggressive when prices are furthest away from fundamentals. This point relates to Friedman's (1953) famous observation that "to say that arbitrage is destabilizing is equivalent to saying that arbitrageurs lose money on average,  " which is implausible. Our model is consistent with Friedman in that,  on average,  arbitrageurs make money and move prices toward fundamentals. However,  the fact that they make money on average does not mean that they make money always. Our model shows that the times when they lose money are precisely the times when prices are far away from fundamentals,  and in those times the trading by arbitrageurs has the weakest stabilizing effect.
 
  These results are closely related to the recent studies of market liquidity
  (Shleifer and Vishny (1992),  Stein (1995)). As in these studies,  an asset here is liquidated involuntarily at a time when the best potential buyersother arbitrageurs of this assethave limited funds and external capital is not easily forthcoming. As a result of such fire sales,  the price falls even further below fundamental value (holding the noise trader shock constant). The implication of limited resiliency for arbitrage is that arbitrage does not bring prices close to fundamental values in extreme circumstances.
@@ -261,41 +263,41 @@ common. 5 Moreover,  creditors usually demand immediate repayment when the value
  DeLong,  J. Bradford,  Andrei Shleifer,  Lawrence Summers,  and Robert Waldmann,  1990,  Noise trader risk in financial markets,  Journal of Political Economy 98,  703-738.
 
  Dow,  James,  and Gary Gorton,  1994,  Noise trading,  delegated portfolio management,  and eco-
-     Nomic welfare,  NBER Working paper 4858.
+	 Nomic welfare,  NBER Working paper 4858.
  Fama,  Eugene,  1965,  The behavior of stock market prices,  Journal of Business 38,  34-105.
  Fama,  Eugene,  and Kenneth French,  1992,  The cross-section of expected stock returns,  Journal of
-     Finance 46,  427-466.
+	 Finance 46,  427-466.
  Friedman,  Milton,  1953,  The case for flexible exchange rates,  in Essays in Positive Economics
-     (University of Chicago Press,  Chicago).
+	 (University of Chicago Press,  Chicago).
  Grossman,  Sanford,  and Merton Miller,  1988,  Liquidity and market structure,  Journal of Finance
-     43,  617-633.
- Heaton,  John,  1994,  Learning and the belief in low-scaled price portfolio strategies,  1940-1993, 
-     Manuscript,  University of Chicago.
+	 43,  617-633.
+ Heaton,  John,  1994,  Learning and the belief in low-scaled price portfolio strategies,  1940-1993,
+	 Manuscript,  University of Chicago.
  Ippolito,  Richard,  1992,  Consumer reaction to measures of poor quality: evidence from the mutual
-     Fund industry,  Journal of Law and Economics 35,  45-70.
- LaPorta,  Rafael,  1996,  Expectations and the cross-section of stock returns,  Journal of Finance 51, 
-     1715-1742.
+	 Fund industry,  Journal of Law and Economics 35,  45-70.
+ LaPorta,  Rafael,  1996,  Expectations and the cross-section of stock returns,  Journal of Finance 51,
+	 1715-1742.
  Lakonishok,  Josef,  Andrei Shleifer,  Richard Thaler,  and Robert Vishny,  1991,  Window dressing by pension fund managers,  American Economic Review Papers and Proceedings 81,  227-231.
- Lakonishok,  Josef,  Andrei Shleifer,  and Robert Vishny,  1992,  The structure and performance of the money management industry,  Brookings Papers on Economic Activity: Microeconomics, 
-     339-391.
+ Lakonishok,  Josef,  Andrei Shleifer,  and Robert Vishny,  1992,  The structure and performance of the money management industry,  Brookings Papers on Economic Activity: Microeconomics,
+	 339-391.
  Lakonishok,  Josef,  Andrei Shleifer,  and Robert Vishny,  1994,  Contrarian investment,  extrapolation,  and risk,  Journal of Finance 49,  1541-1578.
- Merton,  Robert,  1987,  A simple model of capital market equilibrium with incomplete information, 
-     Journal of Finance 42,  483-510.
+ Merton,  Robert,  1987,  A simple model of capital market equilibrium with incomplete information,
+	 Journal of Finance 42,  483-510.
  Pontiff,  Jeffrey,  1996,  Costly arbitrage: Evidence from closed-end funds. Quarterly Journal of
-     Economics 111,  1135-1152.
- Ross,  Steven,  1976,  The arbitrage theory of capital asset pricing,  Journal of Economic Theory 13, 
-     341-360.
+	 Economics 111,  1135-1152.
+ Ross,  Steven,  1976,  The arbitrage theory of capital asset pricing,  Journal of Economic Theory 13,
+	 341-360.
  Scharfstein,  David,  and Jeremy Stein,  1990,  Herd behavior and investment,  American Economic
-     Review 80,  465-489.
+	 Review 80,  465-489.
  Sharpe,  William,  1964,  Capital asset prices: A theory of market equilibrium under conditions of
-     Risk,  Journal of Finance 19,  425-442.
+	 Risk,  Journal of Finance 19,  425-442.
  Sharpe,  William,  and Gordon Alexander,  1990,  Investments,  4 th edition,  (Prentice Hall,  Engle-
-     wood Cliffs,  N.J.).
- Shleifer,  Andrei,  and Robert Vishny,  1990,  Equilibrium short horizons of investors and firms, 
-     American Economic Review Papers and Proceedings 80,  148-153.
+	 wood Cliffs,  N.J.).
+ Shleifer,  Andrei,  and Robert Vishny,  1990,  Equilibrium short horizons of investors and firms,
+	 American Economic Review Papers and Proceedings 80,  148-153.
  Shleifer,  Andrei,  and Robert Vishny,  1992,  Liquidation values and debt capacity: A market
-     Equilibrium approach,  Journal of Finance 47,  1343-1366.
+	 Equilibrium approach,  Journal of Finance 47,  1343-1366.
  Stein,  Jeremy,  1995,  Prices and trading volume in the housing market: A model with downpay-
-     Ment effects,  Quarterly Journal of Economics,  110,  379-406.
+	 Meant effects,  Quarterly Journal of Economics,  110,  379-406.
  Warther,  Vincent,  1995,  Aggregate mutual fund flows and security returns,  Journal of Financial
-     Economics 39,  209-236.
+	 Economics 39,  209-236.
