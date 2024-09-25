@@ -3,6 +3,7 @@ title: Investor Size,  Liquidity And Prime Money Market Fund Stress
 aliases: ["Investor Size,  Liquidity And Prime Money Market Fund Stress"]
 linter-yaml-title-alias: "Investor Size,  Liquidity And Prime Money Market Fund Stress"
 ---
+
 # Investor Size,  Liquidity And Prime Money Market Fund Stress
 
 Massive redemptions at money market funds (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.
@@ -17,7 +18,7 @@ Key takeaways
 - During the massive withdrawals,  fund managers mostly disposed of less liquid assets,  which may have exacerbated market-wide liquidity shortages.
 - Once policy relief set in,  fund managers rebuilt liquidity buffers,  with the funds hardest-hit by outflows strengthening their liquidity positions most aggressively.
 
-As the Covid-19 shock gathered momentum in March 2020,  large withdrawals beset money market mutual funds (MMFs) investing primarily in high-quality short-term private debt securities (prime MMFs). Since these funds are major global providers of short-term dollar funding to banks and non-financial corporates,  their stress had system-wide repercussions (Eren,  Schrimpf and Sushko (2020a, b)).
+As the Covid-19 shock gathered momentum in March 2020,  large withdrawals beset money market mutual funds (MMFs) investing primarily in high-quality short-term private debt securities (prime MMFs). Since these funds are major global providers of short-term dollar funding to banks and non-financial corporates,  their stress had system-wide repercussions (Eren,  Schrimpf and Sushko (2020a,  b)).
 
 This run on prime MMFs was different from other prominent financial runs in history. The bank runs during the Great Depression and the 2008 run on the very same MMF sector were triggered by concerns about the *credit* quality of the intermediaries' portfolio of assets. In March 2020,  credit quality was not an obvious concern,  partly reflecting the strengthened requirements introduced by MMF regulatory reforms in the aftermath of the 2008 crisis.
 
@@ -49,7 +50,7 @@ regulation differentiates between retail and institutional funds. Only individua
 
 In early March 2020,  the initial sanguine reaction of investors to the threat posed by Covid-19 gave way to a frantic "dash-for-cash" Prime institutional MMFs saw 20 consecutive days of outflows between 6 and 26 March 2020 (henceforth,  the run or stress period). The redemption dynamics in the midst of this acute market turmoil diverged widely across MMF types.
 
-Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,  first panel,  red line),  increasing their pre-stress AUM by almost a third. Similarly,  European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,  with inflows around $80 billion (third panel,  red line).
+Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,     first panel,     red line),     increasing their pre-stress AUM by almost a third. Similarly,     European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,     with inflows around $80 billion (third panel,  red line).
 
 At the same time,  most other MMF classes experienced outflows. US prime institutional MMFs and European dollar-denominated LVNAV funds underwent a run-type event,  with withdrawals reaching roughly $100 and $90 billion,  respectively
 (Graph 1,  first panel,  green solid line,  and third panel,  yellow line). Daily outflows from US prime institutional MMFs exceeded 2% of the previous-day AUM for eight trading days in a row,  an extraordinary event from a historical perspective. European dollardenominated LVNAV funds had a similar experience Within the prime institutional MMF universe,  the experience of individual funds was highly uneven. During the run,  cumulative redemptions ranged from 5 to 40% of pre-run AUM for half of the funds,  with a quarter of the funds faring much worse
@@ -58,7 +59,7 @@ At the same time,  most other MMF classes experienced outflows. US prime institu
 In response to the market strains,  a number of programmes were rolled out to provide liquidity support. In the United States,  the Federal Reserve established the Money Market Mutual Fund Liquidity Facility (MMLF) on 18 March This programme allowed banks to borrow from the Federal Reserve by pledging a wide range of assets purchased from prime and tax-exempt MMFs. Eligible assets included the most distressed ones,  such as commercial paper and certificates of deposit. The loans to the participating banks were given on a non-recourse basis (ie banks did not bear credit risk) and were exempt from regulatory capital requirements The facility
 
 Overview of the March 2020 MMF run1 Graph 1
-![[Investor Size,  Liq![Finder 2024-09-25 05.11.35.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.11.35.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.11.35.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.11.35.png)
 
  Prime Tax-exempt Rhs: Institutional: Retail:
 
@@ -82,7 +83,7 @@ Consistent with previous evidence,  we observe that aggregate outflows during th
 
 Average AUM; 5 Mar 2020 = 100 Graph 2
 
-![[Investor Size,  Liq![Finder 2024-09-25 05.08.14.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.14.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.08.14.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.14.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; WLA = weekly liquid assets.
 
@@ -107,11 +108,11 @@ MMF managers could respond to the large redemptions in two alternative ways. The
 
 13 To the extent that large investors concentrate in specific funds,  each one knows that other similarly informed investors stand ready to redeem strategically. In the presence of a first-mover advantage,  this increases the incentive to withdraw swiftly at the sign of trouble (Schmidt et al (2016)).
 
-14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,  with a median of $1 million and an interquartile range between $77, 500 and $10 million.
+14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,     with a median of $1 million and an interquartile range between $77,    500 and $10 million.
 
 # Quantifying The Role Of Liquidity And Investor Size In Mmf Run Risk
 
-![[Investor Size,  Liq![Finder 2024-09-25 05.07.41.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.41.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.07.41.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.41.png)
 
 The results are as follows. When estimated separately,  ௐ and ெூ are both positive and statistically significant,  confirming that funds with weaker liquidity conditions and larger investors would face larger withdraws all else equal (Table A,  columns (1) and (2)). On average,  weaker-liquidity-condition funds face 0.6% higher daily outflows,  which translates into close to 10% higher cumulative run flow. The corresponding difference between funds with larger and smaller investors is 1.7% for daily outflow and more than 20% for cumulative run outflow. Joint estimates of ௐ and ெூ are of similar magnitudes (column (3)),  suggesting that the two factors complement each other in affecting run intensity. That said,  the WLA dummy becomes not significant in the presence of the minimum investment dummy.
 
@@ -135,7 +136,7 @@ yield. These trades were procyclical,  as they took place when private debt was 
 
 Liquidity management at prime institutional MMFs during the March turmoil1 Graph 3
 
-![[Investor Size,  Liq![Finder 2024-09-25 05.07.27.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.27.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.07.27.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.07.27.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicates 6–26 March 2020 (period of consecutive outflows). WAM = weighted average maturity; WLA = weekly liquid assets.
 
@@ -160,7 +161,7 @@ Box B
 In this box,  we conduct panel regressions to assess MMFs' liquidity management in response to the run,  differentiating pre-stress behaviour from behaviour during the initial stress phase,  before the MMLF and post-MMLF.
 
 Specifically,  for each of the three periods,  we assess the impact of outflows on various liquidity gauges:
-Δ, ௧ = ଵ, ௧ + ଶ, ௧ିଵ + ଷை௨௧௪ೕ + ସ, ௧ିଵ +, ௧ିଵ +, ௧,  where Δ, ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;, ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on liquidity management. Finally,  we include the same set of control variables, ௧ିଵ as in the previous section but recalculated at the portfolio level.
+Δ,  ௧ = ଵ,  ௧ + ଶ,  ௧ିଵ + ଷை௨௧௪ೕ + ସ,  ௧ିଵ +,  ௧ିଵ +,  ௧,  where Δ,  ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;,  ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on liquidity management. Finally,  we include the same set of control variables,  ௧ିଵ as in the previous section but recalculated at the portfolio level.
 
 Panel A of Table B presents the results for the pre-run period (17–28 February). On normal days,  investors' outflows are met with liquid asset sales,  which typically cause a drop in liquidity as measured by both WLA and WAM. This is revealed by a positive and statistically significant coefficient of outflows for WAM and a negative,  albeit non-significant coefficient for WLA (line (1)). The impact of outflows is transient,  as previous outflows have no bearing on current liquidity measures (line 2)).
 
@@ -172,7 +173,7 @@ Finally,  panel C of Table B presents the results for the first two weeks after 
 
  Sometimes several funds (akin to share classes) invest in a single portfolio. As a result,  liquidity measures are identical for all funds residing within the same portfolio. All measures exhibit a statistically significant "reversion to the target" as indicated by a large negative coefficient in front of lagged liquidity variables (not reported): deviations of liquidity from the previous day (presumably close to the fund manager's target for the vehicle) are met with a compensating move the following day. The announcement of the MMLF was made late in the evening on 18 March. Therefore,  we include 18 March in the pre-MMLF period.
 
-![[Investor Size,  Liq![Finder 2024-09-25 05.08.34.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size, %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.34.png)
+![[Investor Size,  Liq![Finder 2024-09-25 05.08.34.png](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-Bank%20Runs/Investor%20Size,  %20Liquidity%20And%20Prime%20Money%20Market%20Fund%20Stress.assets/Finder%202024-09-25%2005.08.34.png)
 
 ## References
 

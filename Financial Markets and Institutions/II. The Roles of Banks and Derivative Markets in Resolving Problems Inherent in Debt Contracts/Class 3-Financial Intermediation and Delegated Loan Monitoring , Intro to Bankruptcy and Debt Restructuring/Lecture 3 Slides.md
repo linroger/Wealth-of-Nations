@@ -128,7 +128,7 @@ bank?
 ### Intermediation Avoids Duplicated Outside
 
 Monitoring and Control
-![CleanShot 2024-09-23 -002846@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002846@2x.png)
+![CleanShot 2024-09-23 -002846@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002846@2x.png)
 
 ### Incentives for delegated monitoring: Bank Issues debt with face value B,  per loan
 - Liquidate the bank for zero (all get 0) if bank pays out less than B (per loan).
@@ -139,7 +139,7 @@ Monitoring and Control
 
 # One Loan Per Bank
 
-![CleanShot 2024-09-23 -002847@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002847@2x.png)
+![CleanShot 2024-09-23 -002847@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002847@2x.png)
 
 | Public  bond  with face  1.3125  receives   | Amount bank can            |                                |                                   |     |    |    |    |
 |---------------------------------------------|----------------------------|--------------------------------|-----------------------------------|-----|----|----|----|
@@ -152,7 +152,7 @@ Monitoring and Control
 
 # The One Loan Bank,  With Total Deposits Of B (B/N Each; Sanctions For Paying Less)
 
-![CleanShot 2024-09-23-002848@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002848@2x.png)
+![CleanShot 2024-09-23-002848@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/.assets/CleanShot%202024-09-23%20-002848@2x.png)
 
 # The One Loan Bank Can't Survive
 - A monitor who is liquidated in exactly the same sitiuations (and at the same cost) as the borrower who borrowed directly can't survive.
@@ -161,7 +161,7 @@ Monitoring and Control
 
 # The Two Loan Bank
 
-![CleanShot 2024-09-23 -002849@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002849@2x.png)
+![CleanShot 2024-09-23 -002849@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002849@2x.png)
 Each investor owed 2B/20,  000 = B/10,  000
 
 # Diversification: Bank Contracts As Financial Engineering
@@ -172,30 +172,30 @@ Each investor owed 2B/20,  000 = B/10,  000
 
 # The Two Loan Bank,  with Deposits Of 2B In Total
 
-![CleanShot 2024-09-23 -002850@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002850@2x.png)
+![CleanShot 2024-09-23 -002850@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002850@2x.png)
 
 # The Two Loan Bank,  with deposits of 2B (sanctions to bank for smaller payment)
 
-![CleanShot 2024-09-23 -002851@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002851@2x.png)
+![CleanShot 2024-09-23 -002851@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002851@2x.png)
 
 # Both Borrowers Return H,  Pay F
 
-![CleanShot 2024-09-23 -002852@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002852@2x.png)
+![CleanShot 2024-09-23 -002852@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002852@2x.png)
 
 # Both Borrowers Return 1; Collects 1+1=2
 
-![CleanShot 2024-09-23 -002853@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002853@2x.png)
+![CleanShot 2024-09-23 -002853@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002853@2x.png)
 
 # One Borrower Returns 1.4,  The Other 1
 
-![CleanShot 2024-09-23 -002854@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002854@2x.png)
+![CleanShot 2024-09-23 -002854@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002854@2x.png)
 ![34_image_0.png](34_image_0.png)
 
 "Works out" bad loans,  collects good
 
 # If the bank can avoid default when it collects 1+f,  it fails with prob 0.04
 - Actual cash flow not observed by invesors,  who observe only the amount repaid.
-![CleanShot 2024-09-23 -002855@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002855@2x.png)
+![CleanShot 2024-09-23 -002855@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002855@2x.png)
 Face per loan=B=1.09375
 
 # The 2-Loan Bank Can Survive
@@ -204,29 +204,29 @@ Face per loan=B=1.09375
  Bank can lend to each borrower at f=1.19 (19%),  Note that 1+f=2.19>2.1875.
  Collects f when V=1.4,  and 1 when V=1.
  1+f=2.19>2B=2.1875. Bank fails only if both default (Prob$=0.2^{2}=0.04$).
-![CleanShot 2024-09-23 -002856@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002856@2x.png)
+![CleanShot 2024-09-23 -002856@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002856@2x.png)
 
 |              |                                   |                            |                                               |                                | Distress cost |          |                       |     |     |
 | ------------ | --------------------------------- | -------------------------- | --------------------------------------------- | ------------------------------ | ------------- | -------- | --------------------- | --- | --- |
 |              |                                   |                            |                                               |                                | 2B<1+f        | per loan |                       |     |     |
-| (1.4,    1.4) | 0                                 | 2f                         | 0.64                                          | 2B                             | No            | 0        | No                    | 0   | 0   |
-| (1.4,   1)    | 1                                 | f+1                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
-| (1,   1.4)    | 1                                 | 1+f                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
-| (1,   1)      | 2                                 | 2                          | 0.04                                          | 2B                             | Yes           | 2        | Yes                   | 2   | 1   |
+| (1.4,     1.4) | 0                                 | 2f                         | 0.64                                          | 2B                             | No            | 0        | No                    | 0   | 0   |
+| (1.4,    1)    | 1                                 | f+1                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
+| (1,    1.4)    | 1                                 | 1+f                        | 0.16                                          | 2B                             | Yes           | 1+f      | No                    | 0   | 0   |
+| (1,    1)      | 2                                 | 2                          | 0.04                                          | 2B                             | Yes           | 2        | Yes                   | 2   | 1   |
 |              | Total  Distress  costs if  2B<1+f | Distress  cost per  loan   | Payment                                       | Deposit                        |               |          |                       |     |     |
 |              |                                   |                            | received by  payment if  depositors 2B=2.1875 | Value of bank equity if f=1.19 |               |          |                       |     |     |
 |              | probability                       | Distress cost  times prob. |                                               | 2(1.19)2.1875 =  0.1925        |               |          |                       |     |     |
-| (1.4,    1.4) | 0.64                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
-| (1.4,   1)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   |                       |     |     |
-| (1,   1.4)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
-| (1,   1)      | 0.04                              | 2                          | 1                                             | 0.04                           | 0             | 0        | 0                     |     |     |
-|              |                                   |                            | (2B)=2(1.05),    2B= 2.1875 B=1.05/= 1.09375   |                                |               |          |                       |     |     |
+| (1.4,     1.4) | 0.64                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
+| (1.4,    1)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   |                       |     |     |
+| (1,    1.4)    | 0.16                              | 0                          | 0                                             | 0                              | 2B            | 2.1875   | 2.18752.1875 =  0.025 |     |     |
+| (1,    1)      | 0.04                              | 2                          | 1                                             | 0.04                           | 0             | 0        | 0                     |     |     |
+|              |                                   |                            | (2B)=2(1.05),     2B= 2.1875 B=1.05/= 1.09375   |                                |               |          |                       |     |     |
 |              |                                   |                            |                                               |                                | 38            |          |                       |     |     |
 
 # All Are Weakly Better Off
 - Bank charges 19% (vs 31.25 % for unmonitored)
  - Pays 9.375% on deposits (gives depositors a 5% expected rate of return)
-![CleanShot 2024-09-23 -002857@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20, %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002857@2x.png)
+![CleanShot 2024-09-23 -002857@2x.png](Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,  %20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Untitled.assets/CleanShot%202024-09-23%20-002857@2x.png)
  - Banker gets (2f-2B) + (1+f-2B)=
  =(2.38-2.1875) + (2.19-2.1875)
 =0.124 > cost of monitoring
