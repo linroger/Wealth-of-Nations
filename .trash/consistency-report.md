@@ -965,7 +965,7 @@ linter-yaml-title-alias: Bad links (111 files)
 [[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 22): `Reverse Repurchase Agreement Operations.md`
 - (line 24): `Reverse Repurchase Agreement Operations.md`
-[[Note on the Leveraged Loan Market]]:
+[[HBR Notes/Note on the Leveraged Loan Market]]:
 - (line 10): `NotesContemporary Financial Intermediation`
 [[Notes on Basic Options Properties]]:
 - (line 11): `Options`
@@ -2102,7 +2102,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 9): `Untitled 8.jpeg`
 [[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 12): `HBR_black 5.jpg`
-[[Note on the Leveraged Loan Market]]:
+[[HBR Notes/Note on the Leveraged Loan Market]]:
 - (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,   Global Market (billion U.S. dollars) 1 1.png`
 - (line 205): `Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1.png`
 - (line 209): `Exhibit 5 Total Institutional Loan Investor Groups 1.png`
@@ -2724,7 +2724,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 23): `Oaktree and the Restructuring of CIT Group`
 [[HBS Notes on Currency Swaps]]:
 - (line 10): `Swaps`
-[[Note on the Leveraged Loan Market]]:
+[[HBR Notes/Note on the Leveraged Loan Market]]:
 - (line 10): `NotesContemporary Financial Intermediation`
 [[Notes on Basic Options Properties]]:
 - (line 11): `Options`
@@ -2863,7 +2863,7 @@ linter-yaml-title-alias: Bad links (111 files)
 - (line 9): `Untitled 8.jpeg`
 [[Note on Long-Term Capital Management,   L.P. HBP]]:
 - (line 12): `HBR_black 5.jpg`
-[[Note on the Leveraged Loan Market]]:
+[[HBR Notes/Note on the Leveraged Loan Market]]:
 - (line 50): `Exhibit 2 Annual Syndicated Loan Issuance,   Global Market (billion U.S. dollars) 1 1.png`
 - (line 205): `Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1.png`
 - (line 209): `Exhibit 5 Total Institutional Loan Investor Groups 1.png`

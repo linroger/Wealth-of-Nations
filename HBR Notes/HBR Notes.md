@@ -17,7 +17,7 @@ linter-yaml-title-alias: HBR NOTES
 	- [[Note on A Strategic Perspective on Bankruptcy]]
 	- [[Note on Long-Term Capital Management, L.P. HBP]]
 	- [[Note on The Dodd-Frank Act and Its Impact]]
-	- [[Note on the Leveraged Loan Market]]
+	- [[HBR Notes/Note on the Leveraged Loan Market]]
 	- [[Notes on Basic Options Properties]]
 	- [[Notes on Debtor-in-Possession DIP Financing]]
 	- [[Oaktree and the Restructuring of CIT Group]]

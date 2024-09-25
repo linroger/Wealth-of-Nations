@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Money Market Mutual Fund Liquidity Facility.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,9 +135,42 @@
             "id": "5f942e99dce47c8d",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs"
+              }
+            }
+          },
+          {
+            "id": "a0c56f803ca3af95",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs"
+              }
+            }
+          },
+          {
+            "id": "773fb91d4230a384",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e455c4eddfe500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -220,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.md"
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md"
               }
             }
           }
@@ -290,8 +323,20 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "c0dd0128aaa36e0c",
+  "active": "773fb91d4230a384",
   "lastOpenFiles": [
+    "consistency-report.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets/Finder 2024-09-25 05.06.34.png",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Note On The Leveraged Loan Market.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Money Market Mutual Fund Liquidity Facility.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/CleanShot 2024-09-25 -002878@2x.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.33.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.45.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.57.png",
@@ -299,28 +344,18 @@
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.assets/Finder 2024-09-25 05.04.22.png",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 9-Bailouts and Bank Failures/Squam Lake Group Letter.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/The Limits Of Arbitrage.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8-Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
     "Attachments/4_image-0.png",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled 1.md",
     "svg-cache/c94b3200546fe895d198275a2358ea1d.svg",
-    "svg-cache/Class 1-Introduction to Financial Markets and Intermediation-1.png",
-    "svg-cache/Class 1-Introduction to Financial Markets and Intermediation.svg",
-    "svg-cache/Class 1-Introduction to Financial Markets and Intermediation.png",
-    "Untitled.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Untitled.md",
     "Vault.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Money Market Mutual Fund Liquidity Facility.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 4.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6- Restructuring Public Debt Out of Bankruptcy.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
@@ -330,13 +365,11 @@
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
     "Financial Markets and Institutions/Financial Markets and Institutions.md",
     "CleanShot 2024-09-19 -002793@2x.md",
-    "CleanShot 2024-09-19 -002793@2x 1.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities (attachments)",
     "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)",
     "Financial Instruments/Assignments/Solutions",
     "svg-cache",
     "Financial Engineering/1. DeterministicCashFlows_meta.json",
-    "Financial Engineering",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)"
+    "Financial Engineering"
   ]
 }
