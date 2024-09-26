@@ -26,7 +26,7 @@ linter-yaml-title-alias: "Class Note 2Debt Contracts Due to the Lack of Informat
 		 - The net cash flows to the firm are very unobservable in practice for many firms.
 		 - In addition,  most other conflicts of interest faced by borrowers can be reinterpreted as equivalent to the borrower's ability to retain underreported cash.
 			- The ability to retain underreported cash is simply the most extreme example of a conflict of interest.
-   - The project costs $1 to fund,    and its realized value is a random variable with realization denoted by $V$.
+   - The project costs $1 to fund,     and its realized value is a random variable with realization denoted by $V$.
 	  - The distribution of $V$,  the value of the project,  known to all borrowers and lenders is:
 		 - $H=1.4$ million with probability $P=0.8$
 		 - $L=1$ million with probability $1−P=0.2$.

@@ -39,7 +39,7 @@ In court,  claims are subject to a strict precedence and resolution framework. T
 A Guaranteed cash compensation for key employees is often dramatically increased during court-supervised restructuring,  since only contractual compensation is a priority claim (see **Exhibit 3**).
 2. The court often requires a liquidation value to be submitted that reflects the current market value of the assets if they were sold. Book value is often discounted to reflect disposal of the assets in a short time frame,  often at auction. When compared to the hierarchy of claims,  each creditor class can evaluate their potential recovery under this alternative,  which can be used as a basis for negotiations.
 
-While the intent of the code is to encourage consensual bargaining,  the opportunity remains for bad-faith negotiation. Parties must weigh their strategic options as they decide whether to push for acceptance of a plan or hold out for more favorable treatment. "In a bankruptcy,  the level of cooperation you get in negotiations is at the level of the least reasonable person involved, " observes Jeff Werbalowsky,  managing director of Houlinah,  Lokey,  Howard & Zukin Observers also cite a wide variance among the courts; some judges and courts are viewed as more sympathetic to management interests,  while others are thought to favor creditors. Courts that favor management are more likely to grant extensions to the 120-day stay to allow management more time to craft a successful reorganization plan.
+While the intent of the code is to encourage consensual bargaining,  the opportunity remains for bad-faith negotiation. Parties must weigh their strategic options as they decide whether to push for acceptance of a plan or hold out for more favorable treatment. "In a bankruptcy,  the level of cooperation you get in negotiations is at the level of the least reasonable person involved,  " observes Jeff Werbalowsky,  managing director of Houlinah,  Lokey,  Howard & Zukin Observers also cite a wide variance among the courts; some judges and courts are viewed as more sympathetic to management interests,  while others are thought to favor creditors. Courts that favor management are more likely to grant extensions to the 120-day stay to allow management more time to craft a successful reorganization plan.
 
 Market for corporate control: All companies in distress encounter a volatile market for corporate control. The uncertainty of negotiating reorganization proposals is further complicated by the uncertainty of market movements in the ownership of various claims. While the stay under Chapter 11 halts payments and legal proceedings,  the market for a company's debt and equity continues. This volatility is greater under court supervision,  where the strategic value for so-called "vulture investors" of holding various quantities of a company's different obligations is subject to information asymmetries and coordination problems of their own. Not infrequently,  claimholders acquire claims within other classes in order to gain influence in restructuring negotiations.
 
@@ -70,42 +70,42 @@ Exhibit 1 Largest Public Bankruptcies by Revenues (before 2012)
 |                                                                                                          | Last FY Revenues       |              |
 |----------------------------------------------------------------------------------------------------------|------------------------|--------------|
 | Company                                                                                                  | Bankruptcy Filing Date | ($ millions) |
-| General Motors Corporation                                                                               | 06/01/2009             | $148, 979     |
-| Enron Corp.                                                                                              | 12/02/2001             | 100, 789      |
-| Chrysler LLC                                                                                             | 04/30/2009             | 66, 225       |
-| Lehman Brothers Holdings Inc.                                                                            | 09/15/2008             | 59, 003       |
-| Kmart Corporation                                                                                        | 01/22/2002             | 37, 028       |
-| WorldCom,  Inc.                                                                                           | 07/21/2002             | 35, 179       |
-| Texaco,  Inc.                                                                                             | 04/12/1987             | 32, 591       |
-| Yukos Oil Company                                                                                        | 12/14/2004             | 28, 867       |
-| Delphi Corporation                                                                                       | 10/08/2005             | 28, 622       |
-| Lyondell Chemical Company                                                                                | 01/06/2009             | 28, 603       |
-| AMR Corporation(American Airlines)                                                                       | 11/29/2011             | 22, 170       |
-| Pacific Gas and Electric Co.                                                                             | 04/06/2001             | 20, 820       |
-| Washington Mutual,  Inc.                                                                                  | 09/26/2008             | 19, 489       |
-| UAL Corporation(United Airlines)                                                                         | 12/09/2002             | 16, 138       |
-| Fleming Companies,  Inc.                                                                                  | 04/01/2003             | 15, 628       |
-| Delta Air Lines,  Inc.                                                                                    | 09/14/2005             | 15, 002       |
-| Lear Corporation                                                                                         | 07/07/2009             | 13, 571       |
-| SemGroup,  L.P.                                                                                           | 07/22/2008             | 13, 200       |
-| Circuit City Stores,  Inc.                                                                                | 11/10/2008             | 11, 744       |
-| Northwest Airlines Corporation                                                                           | 09/14/2005             | 11, 279       |
-| Nortel Networks,  Inc.                                                                                    | 10/01/2001             | 10, 948       |
-| Winn-Dixie Stores,  Inc.                                                                                  | 03/04/1996             | 10, 633       |
-| Visteon Corporation                                                                                      | 08/27/1996             | 9, 544        |
-| Calpine Corporation                                                                                      | 10/05/2000             | 9, 230        |
-| Dana Corporation                                                                                         | 01/15/1990             | 9, 056        |
-| Great Atlantic & Pacific Tea Co.                                                                         | 03/09/1989             | 8, 814        |
-| EOTT Energy Partners                                                                                     | 06/16/2000             | 8, 609        |
-| CHS Electronics,  Inc.                                                                                    | 12/29/2000             | 8, 546        |
-| Southland Corp.,  The                                                                                     | 08/20/2001             | 8, 352        |
-| US Airways Group,  Inc.                                                                                   | 01/08/1991             | 8, 253        |
-| Conseco,  Inc.                                                                                            | 12/18/2002             | 8, 108        |
-| Pilgrim's Pride Corporation                                                                              | 12/01/2008             | 7, 599        |
-| LTV Corporation,  The                                                                                     | 07/17/1986             | 7, 582        |
-| AmeriServe Food Distribution                                                                             | 01/31/2000             | 7, 421        |
-| Smurfit-Stone Container Corp.                                                                            | 01/26/2009             | 7, 420        |
-| Source: New Generation Research,  The 2012 Bankruptcy Yearbook & Almanac,  22nd ed. (Quincy: 2012),  p. 56. |                        |              |
+| General Motors Corporation                                                                               | 06/01/2009             | $148,     979     |
+| Enron Corp.                                                                                              | 12/02/2001             | 100,     789      |
+| Chrysler LLC                                                                                             | 04/30/2009             | 66,     225       |
+| Lehman Brothers Holdings Inc.                                                                            | 09/15/2008             | 59,     003       |
+| Kmart Corporation                                                                                        | 01/22/2002             | 37,     028       |
+| WorldCom,      Inc.                                                                                           | 07/21/2002             | 35,     179       |
+| Texaco,      Inc.                                                                                             | 04/12/1987             | 32,     591       |
+| Yukos Oil Company                                                                                        | 12/14/2004             | 28,     867       |
+| Delphi Corporation                                                                                       | 10/08/2005             | 28,     622       |
+| Lyondell Chemical Company                                                                                | 01/06/2009             | 28,     603       |
+| AMR Corporation(American Airlines)                                                                       | 11/29/2011             | 22,     170       |
+| Pacific Gas and Electric Co.                                                                             | 04/06/2001             | 20,     820       |
+| Washington Mutual,      Inc.                                                                                  | 09/26/2008             | 19,     489       |
+| UAL Corporation(United Airlines)                                                                         | 12/09/2002             | 16,     138       |
+| Fleming Companies,      Inc.                                                                                  | 04/01/2003             | 15,     628       |
+| Delta Air Lines,      Inc.                                                                                    | 09/14/2005             | 15,     002       |
+| Lear Corporation                                                                                         | 07/07/2009             | 13,     571       |
+| SemGroup,      L.P.                                                                                           | 07/22/2008             | 13,     200       |
+| Circuit City Stores,      Inc.                                                                                | 11/10/2008             | 11,     744       |
+| Northwest Airlines Corporation                                                                           | 09/14/2005             | 11,     279       |
+| Nortel Networks,      Inc.                                                                                    | 10/01/2001             | 10,     948       |
+| Winn-Dixie Stores,      Inc.                                                                                  | 03/04/1996             | 10,     633       |
+| Visteon Corporation                                                                                      | 08/27/1996             | 9,     544        |
+| Calpine Corporation                                                                                      | 10/05/2000             | 9,     230        |
+| Dana Corporation                                                                                         | 01/15/1990             | 9,     056        |
+| Great Atlantic & Pacific Tea Co.                                                                         | 03/09/1989             | 8,     814        |
+| EOTT Energy Partners                                                                                     | 06/16/2000             | 8,     609        |
+| CHS Electronics,      Inc.                                                                                    | 12/29/2000             | 8,     546        |
+| Southland Corp.,      The                                                                                     | 08/20/2001             | 8,     352        |
+| US Airways Group,      Inc.                                                                                   | 01/08/1991             | 8,     253        |
+| Conseco,      Inc.                                                                                            | 12/18/2002             | 8,     108        |
+| Pilgrim's Pride Corporation                                                                              | 12/01/2008             | 7,     599        |
+| LTV Corporation,      The                                                                                     | 07/17/1986             | 7,     582        |
+| AmeriServe Food Distribution                                                                             | 01/31/2000             | 7,     421        |
+| Smurfit-Stone Container Corp.                                                                            | 01/26/2009             | 7,     420        |
+| Source: New Generation Research,      The 2012 Bankruptcy Yearbook & Almanac,      22nd ed. (Quincy: 2012),      p. 56. |                        |              |
 
 1. 6 Exhibit 2 Outline of Events in a Business Bankruptcy A company comes into a situation of present or perceived future financial distress. Usually,  the company incurs excessive losses or expects future losses from causes including poor sales,  mismanagement,  excessive debt,  lawsuits and product liability,  fraud,  labor costs and labor disturbances,  etc.
 
@@ -127,18 +127,18 @@ Exhibit 1 Largest Public Bankruptcies by Revenues (before 2012)
 
  The plan of reorganization is confirmed by the bankruptcy court. The company emerges from Chapter 11 when the conditions of the plan of reorganization have been satisfied. Alternatively,  if no plan or reorganization can be agreed upon,  the bankruptcy can be converted from Chapter 11 to Chapter 7. In Chapter 7,  a trustee is appointed and the company assets are sold,  usually by auction. Proceeds from the sale compensate the parties involved and the company ceases to exist.
 
-Source: Compiled by casewriter from New Generation Research,  "Outline of Events in a Business Bankruptcy, " pp. 501-502,  in The 2012 *Bankruptcy Yearbook & Almanac, * 22nd ed. (Quincy: 2012).
+Source: Compiled by casewriter from New Generation Research,  "Outline of Events in a Business Bankruptcy,  " pp. 501-502,  in The 2012 *Bankruptcy Yearbook & Almanac,  * 22nd ed. (Quincy: 2012).
 
 Exhibit 3 Hierarchy of Claims in Chapter 11 1. Secured claims 2. Superpriority claims (e.g.,  debtor-in-possession financing) 3. Priority claims a. Administrative expenses (including legal and professional fees incurred in the case) b. Wages,  salaries,  and commissions c. Employee benefit claims d. Claims against facilities that store grain or fish produce e. Consumer deposits f. Alimony and child support g. Tax claims h. Unsecured claims based on commitments to a federal depository institution’s regulatory agency 4. General unsecured claims 5. Preferred stock 6. Common stock Source: Stuart C. Gilson,  2009,  *Creating Value through Corporate Restructuring*,  p. 63,  Wiley,  2010.
 
 ## Endnotes
 
-1 New Generation Research,  The 2012 *Bankruptcy Yearbook & Almanac, * 22nd ed. (Quincy: 2012),  p. 32. This note considers only filings under Chapter 11 of the Code—i.e.,  filings with the intent to reorganize a business. Filings under Chapter 7 of the Code (filings with intent to liquidate) and substantially similar filings do not pose the same operating questions for management. (See **Exhibit 2**.)
-2 Robert I. Sutton and Anita L. Callahan,  "The Stigma of Bankruptcy: Spoiled Organizational Image and Its Management, " *Academy of Management Journal*,  Vol. 30,  No. 3 (September 1987): 405-436; Gregg Wirth,  "Dancing with the Devil: Bankruptcy Pays Off, " *Journal of Business Strategy* (November/December 1995),  p. 54.
+1 New Generation Research,  The 2012 *Bankruptcy Yearbook & Almanac,  * 22nd ed. (Quincy: 2012),  p. 32. This note considers only filings under Chapter 11 of the Code—i.e.,  filings with the intent to reorganize a business. Filings under Chapter 7 of the Code (filings with intent to liquidate) and substantially similar filings do not pose the same operating questions for management. (See **Exhibit 2**.)
+2 Robert I. Sutton and Anita L. Callahan,  "The Stigma of Bankruptcy: Spoiled Organizational Image and Its Management,  " *Academy of Management Journal*,  Vol. 30,  No. 3 (September 1987): 405-436; Gregg Wirth,  "Dancing with the Devil: Bankruptcy Pays Off,  " *Journal of Business Strategy* (November/December 1995),  p. 54.
 
-3 *Collier on Bankruptcy* (Lawrence P. King,  editor-in-chief,  15th ed. rev.),  pp. 303–22; Timothy A. Luehrman and William A. Teichner,  "Note on Bankruptcy in the United States, " HBS No. 292-062 (Boston: Harvard Business School Press,  1991).
+3 *Collier on Bankruptcy* (Lawrence P. King,  editor-in-chief,  15th ed. rev.),  pp. 303–22; Timothy A. Luehrman and William A. Teichner,  "Note on Bankruptcy in the United States,  " HBS No. 292-062 (Boston: Harvard Business School Press,  1991).
 
-4 For more on the ways that bankruptcy courts are viewed to act in management’s or creditors' favor,  see Stuart C. Gilson,  "Investing in Distressed Situations: A Market Survey, " *Financial Analysts Journal* (November– December 1995),  p. 10.
+4 For more on the ways that bankruptcy courts are viewed to act in management’s or creditors' favor,  see Stuart C. Gilson,  "Investing in Distressed Situations: A Market Survey,  " *Financial Analysts Journal* (November– December 1995),  p. 10.
 
 5 Quoted in Wirth,  op. cit.
 

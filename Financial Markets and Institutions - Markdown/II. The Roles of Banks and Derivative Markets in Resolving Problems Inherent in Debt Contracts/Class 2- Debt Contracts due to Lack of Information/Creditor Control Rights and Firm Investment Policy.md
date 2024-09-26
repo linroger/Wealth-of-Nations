@@ -107,32 +107,32 @@ This table presents summary statistics for the sample of 3,  720 private credit 
 | d.                                                                                          |        |          |       |       |
 | ------------------------------------------------------------------------------------------- | ------ | -------- | ----- | ----- |
 | Mean                                                                                        | Median | St. Dev. | N     |       |
-| Capital expenditure restrictions Capital expenditure restriction {0,  1}                      | 0.319  | 0.000    | 0.466 | 3,  720 |
+| Capital expenditure restrictions Capital expenditure restriction {0,   1}                      | 0.319  | 0.000    | 0.466 | 3,   720 |
 | Restriction amount/lagged assets                                                            | 0.085  | 0.056    | 0.102 | 486   |
 | Actual capital expenditures/lagged assets                                                   | 0.064  | 0.039    | 0.089 | 486   |
-| Other loan characteristics Agreement amount ($ in millions)                                 | 450    | 200      | 985   | 3,  720 |
-| Agreement amount/assets                                                                     | 0.338  | 0.245    | 0.308 | 3,  720 |
-| Agreement contains a line of credit/revolver {0,  1}                                          | 0.938  | 1.000    | 0.241 | 3,  720 |
-| Agreement is secured {0,  1}                                                                  | 0.647  | 1.000    | 0.478 | 3,  117 |
-| Agreement contains dividend restriction {0,  1}                                               | 0.813  | 1.000    | 0.390 | 3,  446 |
-| Interest rate spread (basis points above LIBOR)                                             | 170    | 150      | 119   | 3,  720 |
-| Coverage ratio covenant {0,  1}                                                               | 0.743  | 1.000    | 0.437 | 3,  603 |
-| Debt to cash flow covenant {0,  1}                                                            | 0.575  | 1.000    | 0.494 | 3,  603 |
-| Net worth covenant {0,  1}                                                                    | 0.452  | 0.000    | 0.498 | 3,  603 |
-| Debt to balance sheet covenant {0,  1}                                                        | 0.292  | 0.000    | 0.455 | 3,  603 |
-| Liquidity covenant {0,  1}                                                                    | 0.147  | 0.000    | 0.354 | 3,  603 |
-| Minimum cash flow covenant {0,  1}                                                            | 0.127  | 0.000    | 0.333 | 3,  603 |
-| Borrower characteristics Cash flow/assets                                                   | 0.034  | 0.034    | 0.026 | 3,  720 |
-| Book leverage ratio                                                                         | 0.301  | 0.288    | 0.193 | 3,  720 |
-| Debt to cash flow                                                                           | 3.052  | 2.260    | 2.888 | 3,  526 |
-| Negative cash flow {0,  1}                                                                    | 0.052  | 0.000    | 0.222 | 3,  720 |
-| Financial covenant violation within past year {0,  1}                                         | 0.063  | 0.000    | 0.242 | 3,  720 |
-| Total assets ($M)                                                                           | 1,  622  | 674      | 1,  974 | 3,  720 |
-| Market-to-book ratio                                                                        | 1.768  | 1.426    | 1.136 | 3,  720 |
-| Firm has a corporate credit rating {0,  1}                                                    | 0.490  | 0.000    | 0.500 | 3,  720 |
-| Conditional on borrower having credit rating Credit rating (1 ¼ AAA or AA,   2 ¼ A,   3 ¼ BBBy) | 3.502  | 3.000    | 1.066 | 1,  822 |
-| Junk rated {0,  1}                                                                            | 0.482  | 0.000    | 0.500 | 1,  822 |
-| CCC rated or worse {0,  1}                                                                    | 0.020  | 0.000    | 0.141 | 1,  822 |
+| Other loan characteristics Agreement amount ($ in millions)                                 | 450    | 200      | 985   | 3,   720 |
+| Agreement amount/assets                                                                     | 0.338  | 0.245    | 0.308 | 3,   720 |
+| Agreement contains a line of credit/revolver {0,   1}                                          | 0.938  | 1.000    | 0.241 | 3,   720 |
+| Agreement is secured {0,   1}                                                                  | 0.647  | 1.000    | 0.478 | 3,   117 |
+| Agreement contains dividend restriction {0,   1}                                               | 0.813  | 1.000    | 0.390 | 3,   446 |
+| Interest rate spread (basis points above LIBOR)                                             | 170    | 150      | 119   | 3,   720 |
+| Coverage ratio covenant {0,   1}                                                               | 0.743  | 1.000    | 0.437 | 3,   603 |
+| Debt to cash flow covenant {0,   1}                                                            | 0.575  | 1.000    | 0.494 | 3,   603 |
+| Net worth covenant {0,   1}                                                                    | 0.452  | 0.000    | 0.498 | 3,   603 |
+| Debt to balance sheet covenant {0,   1}                                                        | 0.292  | 0.000    | 0.455 | 3,   603 |
+| Liquidity covenant {0,   1}                                                                    | 0.147  | 0.000    | 0.354 | 3,   603 |
+| Minimum cash flow covenant {0,   1}                                                            | 0.127  | 0.000    | 0.333 | 3,   603 |
+| Borrower characteristics Cash flow/assets                                                   | 0.034  | 0.034    | 0.026 | 3,   720 |
+| Book leverage ratio                                                                         | 0.301  | 0.288    | 0.193 | 3,   720 |
+| Debt to cash flow                                                                           | 3.052  | 2.260    | 2.888 | 3,   526 |
+| Negative cash flow {0,   1}                                                                    | 0.052  | 0.000    | 0.222 | 3,   720 |
+| Financial covenant violation within past year {0,   1}                                         | 0.063  | 0.000    | 0.242 | 3,   720 |
+| Total assets ($M)                                                                           | 1,   622  | 674      | 1,   974 | 3,   720 |
+| Market-to-book ratio                                                                        | 1.768  | 1.426    | 1.136 | 3,   720 |
+| Firm has a corporate credit rating {0,   1}                                                    | 0.490  | 0.000    | 0.500 | 3,   720 |
+| Conditional on borrower having credit rating Credit rating (1 ¼ AAA or AA,    2 ¼ A,    3 ¼ BBBy) | 3.502  | 3.000    | 1.066 | 1,   822 |
+| Junk rated {0,   1}                                                                            | 0.482  | 0.000    | 0.500 | 1,   822 |
+| CCC rated or worse {0,   1}                                                                    | 0.020  | 0.000    | 0.141 | 1,   822 |
 
 ## 2.3. Summary Statistics
 
@@ -162,32 +162,32 @@ This table presents the fraction of 3,  720 private credit agreements to 1,  931
 | Totals Fraction of credit agreements with                                                                                           | 0.319                                           |
 | restriction Fraction of firms that ever have credit                                                                                 | 0.424                                           |
 | agreement with restriction Estimated fraction of all Compustat firms                                                                | 0.336                                           |
-| with restriction,   using Sufi (2009) Fraction of credit agreements with restriction: By industry Agriculture,   minerals,   construction | 0.154                                           |
+| with restriction,    using Sufi (2009) Fraction of credit agreements with restriction: By industry Agriculture,    minerals,    construction | 0.154                                           |
 | Manufacturing                                                                                                                       | 0.324                                           |
-| Transportation,   communication,   utilities                                                                                            | 0.230                                           |
+| Transportation,    communication,    utilities                                                                                            | 0.230                                           |
 | Trade—wholesale                                                                                                                     | 0.360                                           |
 | Trade—retail                                                                                                                        | 0.433                                           |
 | Services                                                                                                                            | 0.399                                           |
 | By size (book assets)$100 M                                                                                                        | 0.468                                           |
 | $100 M–$250 M                                                                                                                         | 0.469                                           |
 | $250 M–$500 M                                                                                                                         | 0.443                                           |
-| $500 M–$1,  000 M                                                                                                                       | 0.381                                           |
-| $1,  000 M–$2,  500 M                                                                                                                     | 0.243                                           |
-| $2,  500 M–$5,  000 M                                                                                                                     | 0.133                                           |
-|$5,  000 M+                                                                                                                            | 0.086                                           |
+| $500 M–$1,   000 M                                                                                                                       | 0.381                                           |
+| $1,   000 M–$2,   500 M                                                                                                                     | 0.243                                           |
+| $2,   500 M–$5,   000 M                                                                                                                     | 0.133                                           |
+|$5,   000 M+                                                                                                                            | 0.086                                           |
 | By debt to cash flow quartile Debt to cash flow quartile 1                                                                          | 0.263                                           |
 | Debt to cash flow quartile 2                                                                                                        | 0.243                                           |
 | Debt to cash flow quartile 3                                                                                                        | 0.333                                           |
 | Debt to cash flow quartile 4                                                                                                        | 0.398                                           |
 | Cash flow negative                                                                                                                  | 0.485                                           |
 | Conditional on firm having credit rating Investment grade                                                                           | 0.060                                           |
-| Junk rated {0,  1}                                                                                                                    | 0.437                                           |
-| AAA,   AA rated {0,  1}                                                                                                                 | 0.000                                           |
-| A rated {0,  1}                                                                                                                       | 0.031                                           |
-| BBB rated {0,  1}                                                                                                                     | 0.077                                           |
-| BB rated {0,  1}                                                                                                                      | 0.393                                           |
-| B rated {0,  1}                                                                                                                       | 0.490                                           |
-| CCC rated or worse {0,  1}                                                                                                            | 0.622                                           |
+| Junk rated {0,   1}                                                                                                                    | 0.437                                           |
+| AAA,    AA rated {0,   1}                                                                                                                 | 0.000                                           |
+| A rated {0,   1}                                                                                                                       | 0.031                                           |
+| BBB rated {0,   1}                                                                                                                     | 0.077                                           |
+| BB rated {0,   1}                                                                                                                      | 0.393                                           |
+| B rated {0,   1}                                                                                                                       | 0.490                                           |
+| CCC rated or worse {0,   1}                                                                                                            | 0.622                                           |
 | Borrower does not have credit rating                                                                                                | 0.392                                           |
 | Borrower has credit rating                                                                                                          | 0.242                                           |
 
@@ -218,7 +218,7 @@ Obtaining consistent estimates of the parameter vector b in a panel setting is t
 
 In addition to the fixed effects linear probability model,  we estimate a probit model in which the function G (-) in Eq. (1) takes the following form:
 
-$$G(z)\equiv\phi(z)\equiv\int_{-\infty}^{z}\phi(v)\,  d v$$
+$$G(z)\equiv\phi(z)\equiv\int_{-\infty}^{z}\phi(v)\,   d v$$
 FðvÞ dv (2)
 Where f (v) is the standard normal density. The probit model has several desirable properties; most important for us is the ability to easily compute average partial effects from coefficient estimates. 5 However,  it has the undesirable property that firm unobserved effects cannot be explicitly estimated given the incidental parameters problem. In other words,  unlike the linear case,  we cannot allow for arbitrary correlation between the unobserved effect and the covariates.
 
@@ -257,32 +257,32 @@ In at least one of the four quarters prior to the signing of the credit agreemen
 |-----------------------------------------------------------------------------------------------------------------------|----------|------------------------------------|---------|---------|----------|-------------------|----------|-------------------|
 | Sample                                                                                                                | Full     | Rated                              | Full    | Rated   | X 2 loans | Rated andX 2 loans | X 2 loans | Rated andX 2 loans |
 | (1)                                                                                                                   | (2)      | (3)                                | (4)     | (5)     | (6)      | (7)               | (8)      |                   |
-| BBB ratedt 1 {0,  1}                                                                                                                       | 0.026    | 0.034                              | 0.030   | 0.052   |          |                   |          |                   |
+| BBB ratedt 1 {0,   1}                                                                                                                       | 0.026    | 0.034                              | 0.030   | 0.052   |          |                   |          |                   |
 | (0.052)                                                                                                               | (0.038)  | (0.053)                            | (0.030) |         |          |                   |          |                   |
-| BB ratedt 1 {0,  1}                                                                                                                       | 0.237**  | 0.280**                            | 0.215** | 0.229** |          |                   |          |                   |
+| BB ratedt 1 {0,   1}                                                                                                                       | 0.237**  | 0.280**                            | 0.215** | 0.229** |          |                   |          |                   |
 | (0.068)                                                                                                               | (0.084)  | (0.075)                            | (0.061) |         |          |                   |          |                   |
-| B ratedt 1 {0,  1}                                                                                                                       | 0.270**  | 0.340**                            | 0.258** | 0.261** |          |                   |          |                   |
+| B ratedt 1 {0,   1}                                                                                                                       | 0.270**  | 0.340**                            | 0.258** | 0.261** |          |                   |          |                   |
 | (0.083)                                                                                                               | (0.113)  | (0.095)                            | (0.095) |         |          |                   |          |                   |
-| CCC rated or worse 1 {0,  1}                                                                                                                       | 0.383**  | 0.676**                            | 0.372** | 0.562** |          |                   |          |                   |
+| CCC rated or worse 1 {0,   1}                                                                                                                       | 0.383**  | 0.676**                            | 0.372** | 0.562** |          |                   |          |                   |
 | (0.143)                                                                                                               | (0.168)  | (0.172)                            | (0.149) |         |          |                   |          |                   |
-| Debt to cash flow quartile 2 {0,  1}                                                                                    | 0.011    | 0.006                              | 0.022   | 0.001   | 0.013    | 0.005             | 0.018    | 0.022                   |
+| Debt to cash flow quartile 2 {0,   1}                                                                                    | 0.011    | 0.006                              | 0.022   | 0.001   | 0.013    | 0.005             | 0.018    | 0.022                   |
 | (0.026)                                                                                                               | (0.039)  | (0.030)                            | (0.025) | (0.031) | (0.041)  | (0.027)           | (0.030)  |                   |
-| Debt to cash flow quartile 3 {0,  1}                                                                                    | 0.088**  | 0.065                              | 0.126** | 0.041   | 0.085*   | 0.066             | 0.055    | 0.019                   |
+| Debt to cash flow quartile 3 {0,   1}                                                                                    | 0.088**  | 0.065                              | 0.126** | 0.041   | 0.085*   | 0.066             | 0.055    | 0.019                   |
 | (0.029)                                                                                                               | (0.042)  | (0.037)                            | (0.033) | (0.035) | (0.045)  | (0.033)           | (0.039)  |                   |
-| Debt to cash flow quartile 4 {0,  1}                                                                                    | 0.151**  | 0.078                              | 0.215** | 0.055   | 0.158**  | 0.074             | 0.106**  | 0.007                   |
+| Debt to cash flow quartile 4 {0,   1}                                                                                    | 0.151**  | 0.078                              | 0.215** | 0.055   | 0.158**  | 0.074             | 0.106**  | 0.007                   |
 | (0.031)                                                                                                               | (0.044)  | (0.041)                            | (0.034) | (0.039) | (0.047)  | (0.038)           | (0.045)  |                   |
-| Negative cash flow {0,  1}                                                                                              | 0.099*   | 0.144                              | 0.159** | 0.131   | 0.158**  | 0.167             | 0.170*   | 0.223             |
+| Negative cash flow {0,   1}                                                                                              | 0.099*   | 0.144                              | 0.159** | 0.131   | 0.158**  | 0.167             | 0.170*   | 0.223             |
 | (0.045)                                                                                                               | (0.092)  | (0.061)                            | (0.103) | (0.066) | (0.118)  | (0.074)           | (0.125)  |                   |
-| Financial covenant violationt 1 {0,  1}                                                                                                                       | 0.126**  | 0.069                              | 0.171** | 0.056   | 0.130**  | 0.074             | 0.147**  | 0.133*            |
+| Financial covenant violationt 1 {0,   1}                                                                                                                       | 0.126**  | 0.069                              | 0.171** | 0.056   | 0.130**  | 0.074             | 0.147**  | 0.133*            |
 | (0.040)                                                                                                               | (0.060)  | (0.052)                            | (0.047) | (0.050) | (0.074)  | (0.047)           | (0.067)  |                   |
 | Ln (total assets 1 ($M))                                                                                                                       | 0.071**          | 0.046**                                    | 0.085**         | 0.032**         | 0.083**          | 0.042**                   | 0.053          | 0.025             |
 | (0.007)                                                                                                               | (0.012)  | (0.008)                            | (0.009) | (0.009) | (0.013)  | (0.027)           | (0.043)  |                   |
 | Market-to-book ratio t 1                                                                                                                       | 0.024**          | 0.030                                    | 0.029**         | 0.026*         | 0.028*          | 0.028                   | 0.018          | 0.042**                   |
 | (0.009)                                                                                                               | (0.016)  | (0.010)                            | (0.010) | (0.012) | (0.020)  | (0.012)           | (0.020)  |                   |
-| Number of credit agreements                                                                                           | 3,  720    | 1,  822                              | 3,  720   | 1,  822   | 2,  742    | 1,  453             | 2,  742    | 1,  453             |
-| Number of firms                                                                                                       | 1,  939    | 844                                | 1,  939   | 844     | 961      | 475               | 961      | 475               |
+| Number of credit agreements                                                                                           | 3,   720    | 1,   822                              | 3,   720   | 1,   822   | 2,   742    | 1,   453             | 2,   742    | 1,   453             |
+| Number of firms                                                                                                       | 1,   939    | 844                                | 1,   939   | 844     | 961      | 475               | 961      | 475               |
 | R 2                                                                                                                    | 0.17     | 0.30                               | 0.13    | 0.26    | 0.20     | 0.30              | 0.19     | 0.21              |
-| *,  ** Statistically distinct from zero at the 5% and 1% level,   respectively.                                           |          |                                    |         |         |          |                   |          |                   |
+| *,   ** Statistically distinct from zero at the 5% and 1% level,    respectively.                                           |          |                                    |         |         |          |                   |          |                   |
 
 ## 5.2. Restrictions Versus Other Loan Terms
 
@@ -298,7 +298,7 @@ This table presents unconditional correlations between the probability of a cred
 
 Coverage ratio covenants include interest coverage,  fixed charge coverage,  and debt service coverage covenants. Debt to balance sheet covenants include debt to total capitalization and debt to net worth covenants. Liquidity covenants include current ratio,  quick ratio,  and working capital covenants.
 
-| debt to total capitalization and debt to net worth covenants. Liquidity covenants include current ratio,   quick ratio,   and working capital covenants. Dividend Secured Interest Coverage Debt to cash flow Net worth Debt to Liquidity Cash flow o   |        |          |          | nly      |               |          |          |        |        |
+| debt to total capitalization and debt to net worth covenants. Liquidity covenants include current ratio,    quick ratio,    and working capital covenants. Dividend Secured Interest Coverage Debt to cash flow Net worth Debt to Liquidity Cash flow o   |        |          |          | nly      |               |          |          |        |        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|----------|----------|---------------|----------|----------|--------|--------|
 | Restriction                                                                                                                                                                                                                                         | Spread | Covenant | Covenant | Covenant | Balance Sheet | Covenant | Covenant |        |        |
 | Capital Expenditure                                                                                                                                                                                                                                 | 0.26** | 0.42**   | 0.41**   | 0.15**   | 0.19**        | 0.08**   | 0.18**          | 0.00   | 0.25** |
@@ -310,7 +310,7 @@ Coverage ratio covenants include interest coverage,  fixed charge coverage,  and
 | covenant Net worth covenant                                                                                                                                                                                                                         | 0.03        | 0.10**   | 0.02          |          |               |          |          |        |        |
 | Debt to balance sheet                                                                                                                                                                                                                               |        | 0.03     | 0.13**          |          |               |          |          |        |        |
 | covenant Liquidity covenant                                                                                                                                                                                                                         |        |          | 0.09**   |          |               |          |          |        |        |
-| *,  ** Statistically distinct from zero at the 5% and 1% level,   respectively.                                                                                                                                                                         |        |          |          |          |               |          |          |        |        |
+| *,   ** Statistically distinct from zero at the 5% and 1% level,    respectively.                                                                                                                                                                         |        |          |          |          |               |          |          |        |        |
 
 The
 
@@ -340,7 +340,7 @@ This table examines how capital expenditure restrictions and other contract term
 
 Liquidity covenants include current ratio,  quick ratio,  and working capital covenants.
 
-| Liquidity covenants include current ratio,   quick ratio,   and working capital covenants. Panel A: Means by credit rating A or better BBB   | BB    | B      | CCC or worse   |              |        |
+| Liquidity covenants include current ratio,    quick ratio,    and working capital covenants. Panel A: Means by credit rating A or better BBB   | BB    | B      | CCC or worse   |              |        |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------|--------|----------------|--------------|--------|
 | N                                                                                                                                        | 322   | 622    | 527            | 314          | 37     |
 | Capital expenditure restriction                                                                                                          | 0.028 | 0.077* | 0.393*         | 0.490*       | 0.622* |
@@ -364,7 +364,7 @@ Liquidity covenants include current ratio,  quick ratio,  and working capital co
 | Debt to balance sheet covenant                                                                                                           | 9%       | 93%        | 132%                | 146%              |        |
 | Liquidity covenant                                                                                                                       | 3%       | 79%    | 86%            | 136%         |        |
 | Cash flow only covenant                                                                                                                  | 8%    | 74%    | 155%           | 362%         |        |
-| * Statistically distinct from an A-rated firm,   or better,   at a 5% level.                                                                 |       |        |                |              |        |
+| * Statistically distinct from an A-rated firm,    or better,    at a 5% level.                                                                 |       |        |                |              |        |
 
 Column 1 of Table 6 reports the fraction of original and renegotiated agreements that contain capital expenditure restrictions. While 40% of credit agreements obtained before the financial covenant violation include a restriction,  over 60% of the renegotiated agreements following the violation contain a restriction. That is,  the renegotiated agreement after the violation is 51% more likely to contain a restriction on capital expenditures. The remaining columns of Table 6 show that the renegotiated loan agreement has an interest spread that is 30% higher than the original loan agreement,  that the likelihood of requiring collateral increases by 20%,  and that the presence of a dividend restriction is 9% more likely. The results in Table 6 show that the likelihood of capital expenditure restrictions is more sensitive to financial covenant violations than other contract terms such as the interest spread or collateral requirements.
 
@@ -391,18 +391,18 @@ ARTICLE IN PRESS
 | % Increase                                                                  | 51%             | 30%     | 20%                  | 9%    |
 | Number of credit agreements                                                 | 103             | 103     | 90                   | 95    |
 | Number of firms                                                             | 48              | 48      | 46                   | 48    |
-| *,  ** Statistically distinct from zero at the 5% and 1% level,   respectively. |                 |         |                      |       |
+| *,   ** Statistically distinct from zero at the 5% and 1% level,    respectively. |                 |         |                      |       |
 
 In which creditors would introduce non-binding investment restrictions into a borrower credit agreement following a decline in credit quality. This is especially true given that creditors charge lower interest rates in exchange for including more covenants (Bradley and Roberts,  2003). If the restrictions provided no benefit to the creditor,  then this latter fact suggests that no contract should contain a restriction. Simply stated,  economic theory strongly suggests that restrictions introduced in response to declining credit quality are introduced with the intent of limiting investment (Jensen and Meckling,  1976; Aghion and Bolton,  1992).
 
 Second,  we can infer the relevance of the restrictions by simply noting their level of detail. As an example,  the March 27,  1997 revolving loan agreement for casino operator Hollywood Park,  Inc. Contains the following restrictions:
 Capital Expenditures: [Borrower shall not] Make,  or become legally obligated to make,  any Capital Expenditure except:
 (a) Maintenance Capital Expenditures not in excess of: (i)
-$15,  000,  000 for the Fiscal Year ending December 31,   1997; (ii) $15,  000,  000 for the Fiscal Year ending December 31,  1998; and (iii) $20,  000,  000 for any subsequent Fiscal Year;
+$15,   000,   000 for the Fiscal Year ending December 31,    1997; (ii) $15,  000,  000 for the Fiscal Year ending December 31,  1998; and (iii) $20,   000,   000 for any subsequent Fiscal Year;
 (b) Capital Expenditures to the extent financed by Indebtedness permitted under Section 6.9 (h);
-(c) Capital Expenditures for the construction of approximately 200 additional hotel rooms,   a restaurant,   an entertainment lounge,   meeting rooms,   retail space,   and parking facilities at the Reno Property not in excess of $25,  000,  000;
-(d) Capital Expenditures for the construction of buffet and restaurant facilities at the New Orleans Property not in excess of $10,  000,  000;
-(e) Capital Expenditures for the purchase of capital assets which,   as of the Closing Date,   are leased by Borrower or any Restricted Subsidiary from other Persons pursuant to operating leases not in excess of $8,  000,  000; and
+(c) Capital Expenditures for the construction of approximately 200 additional hotel rooms,    a restaurant,    an entertainment lounge,    meeting rooms,    retail space,    and parking facilities at the Reno Property not in excess of $25,  000,  000;
+(d) Capital Expenditures for the construction of buffet and restaurant facilities at the New Orleans Property not in excess of $10,   000,   000;
+(e) Capital Expenditures for the purchase of capital assets which,    as of the Closing Date,    are leased by Borrower or any Restricted Subsidiary from other Persons pursuant to operating leases not in excess of $8,  000,  000; and
 (f) Capital Expenditures not otherwise permitted above which,  when added to all other Basket Expenditures theretofore made,  do not exceed $40,  000,  000.
 
 Imposing such meticulous restrictions requires time and expense,  which makes it difficult to see why contracts would include such a covenant unless it provides a real constraint that adds value to the contracting parties.
@@ -435,9 +435,9 @@ Difference market-to-book is the annual change in the ratio of the market value 
 | (0.016)                                                                     | (0.021)                                                                   |         |         |         |
 | Difference market-to-book                                                   | 0.016**                                                                   | 0.005*  |         |         |
 | (0.002)                                                                     | (0.003)                                                                   |         |         |         |
-| N                                                                           | 2,  812                                                                     | 2,  812   | 2,  812   | 2,  812   |
+| N                                                                           | 2,   812                                                                     | 2,   812   | 2,   812   | 2,   812   |
 | R 2                                                                          | 0.01                                                                      | 0.16    | 0.03    | 0.14    |
-| *,  ** Statistically distinct from zero at the 5% and 1% level,   respectively. |                                                                           |         |         |         |
+| *,   ** Statistically distinct from zero at the 5% and 1% level,    respectively. |                                                                           |         |         |         |
 
 Fig. 1 indicates that capital expenditures decline through our sample period for all firms. However,  the fall in capital expenditures is larger when a firm's contract contains a new capital expenditure restriction. By the end of the year after the agreement is signed,  firms with a new capital expenditure restriction experience a decline in capital expenditures (scaled by lagged assets) that is 1.5% larger than firms without a capital expenditure restriction,  translating to nearly a 20% larger decline in investment,  measured at the mean.
 
@@ -478,23 +478,23 @@ The firms are a subset of our sample of 3,  720 private credit agreements collec
 | ðCapital expenditure  contractual limitÞ                                                                             | Contract                                               |                                                                 |
 | Lagged assets                                                               | Signed X 6 months prior to first year that limit applies | Contract signed 6 months prior to first year that limit applies |
 | Below 10%                                                                             | 0.030                                                  | 0.050                                                           |
-| (10%,   9%]                                                                             | 0.000                                                  | 0.000                                                           |
-| (9%,   8%]                                                                             | 0.010                                                  | 0.020                                                           |
-| (8%,   7%]                                                                             | 0.030                                                  | 0.010                                                           |
-| (7%,   6%]                                                                             | 0.020                                                  | 0.020                                                           |
-| (6%,   5%]                                                                             | 0.020                                                  | 0.020                                                           |
-| (5%,   4%]                                                                             | 0.060                                                  | 0.050                                                           |
-| (4%,   3%]                                                                             | 0.070                                                  | 0.110                                                           |
-| (3%,   2%]                                                                             | 0.120                                                  | 0.100                                                           |
-| (2%,   1%]                                                                             | 0.210                                                  | 0.210                                                           |
-| (1%,   0%]                                                                             | 0.260                                                  | 0.290                                                           |
-| (0%,   1%]                                                                    | 0.090                                                  | 0.080                                                           |
-| (1%,   2%]                                                                    | 0.030                                                  | 0.030                                                           |
-| (2%,   3%]                                                                    | 0.010                                                  | 0.010                                                           |
-| (3%,   4%]                                                                    | 0.000                                                  | 0.000                                                           |
-| (4%,   5%]                                                                    | 0.010                                                  | 0.010                                                           |
+| (10%,    9%]                                                                             | 0.000                                                  | 0.000                                                           |
+| (9%,    8%]                                                                             | 0.010                                                  | 0.020                                                           |
+| (8%,    7%]                                                                             | 0.030                                                  | 0.010                                                           |
+| (7%,    6%]                                                                             | 0.020                                                  | 0.020                                                           |
+| (6%,    5%]                                                                             | 0.020                                                  | 0.020                                                           |
+| (5%,    4%]                                                                             | 0.060                                                  | 0.050                                                           |
+| (4%,    3%]                                                                             | 0.070                                                  | 0.110                                                           |
+| (3%,    2%]                                                                             | 0.120                                                  | 0.100                                                           |
+| (2%,    1%]                                                                             | 0.210                                                  | 0.210                                                           |
+| (1%,    0%]                                                                             | 0.260                                                  | 0.290                                                           |
+| (0%,    1%]                                                                    | 0.090                                                  | 0.080                                                           |
+| (1%,    2%]                                                                    | 0.030                                                  | 0.030                                                           |
+| (2%,    3%]                                                                    | 0.010                                                  | 0.010                                                           |
+| (3%,    4%]                                                                    | 0.000                                                  | 0.000                                                           |
+| (4%,    5%]                                                                    | 0.010                                                  | 0.010                                                           |
 | Above 5%                                                                    | 0.020                                                  | 0.010                                                           |
-| *,  ** Statistically distinct from column (1) at the 5% and 1% percent level,   |                                                        |                                                                 |
+| *,   ** Statistically distinct from column (1) at the 5% and 1% percent level,    |                                                        |                                                                 |
 
 *,  ** Statistically distinct from column (1) at the 5% and 1% percent level,
 
@@ -533,7 +533,7 @@ Value and operating performance before and after a capital expenditure restricti
 
 This table presents annual differences-in-differences estimates relating the difference in market-to-book ratios (columns 1–3) and operating performance,  as measured by cash flow to lagged assets (columns 4–6),  to whether a firm obtains a credit agreement with a capital expenditure restriction. Observations are for firms utilizing private credit agreements that we collect from the SEC's EDGAR electronic filing system over the period 1996–2005. The New capital expenditure restriction indicator variable takes on the value of one if the credit agreement contains a capital expenditure restriction and the previous credit agreement for the same firm did not contain a restriction. The Old capital expenditure restriction indicator variable takes on the value of one if the credit agreement contains a capital expenditure restriction and New capital expenditure restriction equals zero. The other contract terms in columns 3 and 6 are defined similarly. Difference cash flow to lagged assets is the annual change in the ratio of earnings before interest and taxes,  plus depreciation and amortization,  to the one-year lagged book value of assets. Difference market-to-book is the annual change in the ratio of the market value of assets (measured as the book value of debt plus the market value of equity) to the book value of assets. Coverage ratio covenants include interest coverage,  fixed charge coverage,  and debt service coverage covenants. Liquidity covenants include current ratio,  quick ratio,  and working capital covenants. All regressions include year indicator variables.
 
-| include interest coverage,   fixed charge coverage,   and debt service coverage covenants. Liquidity covenants include current ratio,   quick ratio,   and working capital covenants. All regressions include year indicator variables. (1) (2) (3) (4) (5) (6) Difference market-to-book ratio Difference cash flow to lagged assets Old capital expenditure restriction 0.053 0.048 0.051 0.002 0.004 0.005 (0.030) (0.030) (0.033) (0.003) (0.004) (0.005) New capital expenditure restriction 0.171** 0.167** 0.170** 0.016** 0.012* 0.014* (0.042) (0.039) (0.049) (0.006) (0.006) (0.006) Difference cash flow to lagged assets 0.138 0.138 0.249** 0.249** (0.181) (0.184) (0.033) (0.033) Difference market-to-book ratio 0.185** 0.187** 0.032** 0.032** (0.036) (0.036) (0.004) (0.004) Old dividend restriction 0.013 0.002 (0.031) (0.004) New dividend restriction 0.011 0.004 (0.045) (0.005) Old secured 0.023 0.000 (0.032) (0.004) New secured 0.008 0.011 (0.058) (0.006) Old coverage covenant 0.029 0.007 (0.033) (0.004) New coverage covenant 0.004 0.001 (0.056) (0.008) Old debt to cash flow covenant 0.085** 0.014** (0.027) (0.004) New debt to cash flow covenant 0.019 0.019** (0.049) (0.007) Old net worth covenant 0.013 0.002 (0.027) (0.004) New net worth covenant 0.124 0.011 (0.086) (0.009) Old liquidity covenant 0.009 0.003 (0.051) (0.007) New liquidity covenant 0.144 0.004 (0.105) (0.015) Old cash flow covenant 0.013 0.011* (0.055) (0.007) New cash flow covenant 0.008 0.020** (0.069) (0.008) N 3,  033 3,  033 3,  033 3,  033 3,  033 3,  033 R 2 0.03 0.08 0.08 0.03 0.14 0.15 *,  ** Statistically distinct from zero at the 5% and 1% level,   respectively.   |
+| include interest coverage,    fixed charge coverage,    and debt service coverage covenants. Liquidity covenants include current ratio,    quick ratio,    and working capital covenants. All regressions include year indicator variables. (1) (2) (3) (4) (5) (6) Difference market-to-book ratio Difference cash flow to lagged assets Old capital expenditure restriction 0.053 0.048 0.051 0.002 0.004 0.005 (0.030) (0.030) (0.033) (0.003) (0.004) (0.005) New capital expenditure restriction 0.171** 0.167** 0.170** 0.016** 0.012* 0.014* (0.042) (0.039) (0.049) (0.006) (0.006) (0.006) Difference cash flow to lagged assets 0.138 0.138 0.249** 0.249** (0.181) (0.184) (0.033) (0.033) Difference market-to-book ratio 0.185** 0.187** 0.032** 0.032** (0.036) (0.036) (0.004) (0.004) Old dividend restriction 0.013 0.002 (0.031) (0.004) New dividend restriction 0.011 0.004 (0.045) (0.005) Old secured 0.023 0.000 (0.032) (0.004) New secured 0.008 0.011 (0.058) (0.006) Old coverage covenant 0.029 0.007 (0.033) (0.004) New coverage covenant 0.004 0.001 (0.056) (0.008) Old debt to cash flow covenant 0.085** 0.014** (0.027) (0.004) New debt to cash flow covenant 0.019 0.019** (0.049) (0.007) Old net worth covenant 0.013 0.002 (0.027) (0.004) New net worth covenant 0.124 0.011 (0.086) (0.009) Old liquidity covenant 0.009 0.003 (0.051) (0.007) New liquidity covenant 0.144 0.004 (0.105) (0.015) Old cash flow covenant 0.013 0.011* (0.055) (0.007) New cash flow covenant 0.008 0.020** (0.069) (0.008) N 3,   033 3,   033 3,   033 3,   033 3,   033 3,   033 R 2 0.03 0.08 0.08 0.03 0.14 0.15 *,   ** Statistically distinct from zero at the 5% and 1% level,    respectively.   |
 |---|
 
 Firms that obtain loans without a restriction. The estimate in column 2 implies that firms obtaining loans with a new restriction experience an increase in MTB by 0.17 more than firms obtaining loans without a restriction,  which is a 10% increase at the mean MTB. The column 4 estimate implies a relative increase in ROA of 0.012,  which is over a 10% effect at the mean.

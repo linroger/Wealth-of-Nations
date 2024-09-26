@@ -1,6 +1,7 @@
 ---
 title: Governance in Financial Distress and Bankruptcy
 ---
+
 # Governance in Financial Distress and Bankruptcy
 
 # Governance In **Financial Distress And Bankruptcy**
@@ -32,7 +33,7 @@ Given the many parties that exercise control rights in distress,  we will procee
 
 ## Ii. **Shareholders,  Managers And Boards** Ii. A. **The Role Of Shareholders**
 
-As the firm becomes financially distressed,  shareholders are increasingly "out of the money, " raising two important governance concerns. First,  to the extent that equity still has control rights,  do equity holders (or management acting on their behalf) take actions to preserve their option-like value,  perhaps at the expense of the ultimately recoverable firm value? Second,  when does (or should) equity lose its control rights,  and what role do equity holders have in a restructuring when that does occur? Actions that benefit "out of the money" *equity* A number of theoretical papers warn that the limited liability feature of equity provides incentives for excessive risk taking when the firm is distressed,  particularly prior to a bankruptcy filing (these include Aghion,  Hart and Moore (1992),  White (1996),  and Hart (2000)). Paying dividends to the equity holders of an already highly levered firm could also be viewed as symptomatic of this conflict (Hotchkiss,  Smith and Stromberg,  2012).
+As the firm becomes financially distressed,  shareholders are increasingly "out of the money,  " raising two important governance concerns. First,  to the extent that equity still has control rights,  do equity holders (or management acting on their behalf) take actions to preserve their option-like value,  perhaps at the expense of the ultimately recoverable firm value? Second,  when does (or should) equity lose its control rights,  and what role do equity holders have in a restructuring when that does occur? Actions that benefit "out of the money" *equity* A number of theoretical papers warn that the limited liability feature of equity provides incentives for excessive risk taking when the firm is distressed,  particularly prior to a bankruptcy filing (these include Aghion,  Hart and Moore (1992),  White (1996),  and Hart (2000)). Paying dividends to the equity holders of an already highly levered firm could also be viewed as symptomatic of this conflict (Hotchkiss,  Smith and Stromberg,  2012).
 
 Empirical evidence of this behavior has been elusive,  and it may be the case that there are other factors which mitigate these incentives. For example,  Eckbo and Thorburn (2003) suggest that the potential for managers to be rehired when a firm exits bankruptcy could limit incentives for risk shifting. They examine a sample of 170 bankruptcies in Sweden (between 1988 and 1991) where,  unlike the U.S.,  the CEO loses control of the firm upon filing,  a trustee is appointed,  and the firm is auctioned. Income losses to CEOs of bankrupt firms are very large,  indicating the personally costly nature of the filing. However,  by investing conservatively,  the CEO increases the probability that he/she will be rehired by the restructured firm. Other researchers have noted that restrictive loan or bond covenants could also limit risk shifting behavior. Gormley and Matsa (2011) suggest that the agency problem between risk-averse managers and risk-seeking equity holders may explain the relative scarcity of risk-seeking in distress. Consistent with this idea,  they find evidence that managers whose firms are exposed to carcinogen liability are more likely to acquire cash-rich firms in unrelated industries to reduce bankruptcy risk.
 
@@ -56,7 +57,7 @@ Since management has the ability to stay in control even as a debtor in possessi
 
 The idea that bankruptcy provides a safe haven for management has been refuted in subsequent empirical research. Managers frequently lose their jobs in financial distress. Altman & Hotchkiss (p. 222,  Table 10.1) summarize research showing that management turnover is extremely high; top management turnover by the time firms exit Chapter 11 ranges from 70% to 91%,  depending on the sample studied. For out of court restructurings,  turnover estimates range from 36% to 60%. Gilson (1989) is one of the earliest researchers to document management turnover conditional on financial distress. Studying 73 managers who depart from financiallydistressed firms between 1979 and 1984,  he finds that none of the departing executives in his sample are employed by another exchange-listed firm in the subsequent three years. Gilson and Vetsuypens (1993) study 77 financially distressed public firms restructuring in 1981-1987. They show that managers who remain on average take cuts to their compensation,  and that CEO replacements from within the firm earn 35% less than their predecessor. This evidence suggests strongly the costly nature of distress for firms' managers.
 
-More recently,  Eckbo,  Thorburn and Wang (2012) quantify the personal cost to top managers of Chapter 11 firms. Their study covers CEOs of 342 U.S. public companies filing for Chapter 11 between 1996 and 2007. More than half of incumbent CEOs regain full-time employment,  the majority of which become top executives at another firm. The change in compensation of those maintaining full-time executive employment is close to zero. The other half of CEOs who do not maintain full-time employment experience an income loss with a median present value of $4 million (discounted until retirement age). Overall,  their estimates imply an ex ante expected median personal bankruptcy cost of $2.7 million (in constant 2009 dollars),  or three times the typical annual compensation. To the extent that financial distress is a costly event,  it will have a strong impact on managers' behavior prior to distress,  providing incentives to choose lower leverage or less risky investments.
+More recently,  Eckbo,  Thorburn and Wang (2012) quantify the personal cost to top managers of Chapter 11 firms. Their study covers CEOs of 342 U.S. public companies filing for Chapter 11 between 1996 and 2007. More than half of incumbent CEOs regain full-time employment,  the majority of which become top executives at another firm. The change in compensation of those maintaining full-time executive employment is close to zero. The other half of CEOs who do not maintain full-time employment experience an income loss with a median present value of $4 million (discounted until retirement age). Overall,   their estimates imply an ex ante expected median personal bankruptcy cost of $2.7 million (in constant 2009 dollars),  or three times the typical annual compensation. To the extent that financial distress is a costly event,  it will have a strong impact on managers' behavior prior to distress,  providing incentives to choose lower leverage or less risky investments.
 
 Given the complicated interplay of formal and informal control rights in bankruptcy,  it remains an open empirical question: whose interests does management actually represent when a firm is distressed? There are reasons to expect management to be aligned with different constituencies depending on the circumstances of the case. When management has a large equity ownership stake prior to default,  it has an incentive to preserve that value by pursuing equity's interests in a restructuring. On the other hand,  management's loyalties may shift to the group that will control the company subsequent to the reorganization. For example,  Gilson,  Hotchkiss,  and Ruback (2000) argue that sometimes management will form a coalition with senior creditors when it is likely that this group will control the company subsequent to a restructuring. At the other end of the capital structure,  new owners that contribute equity to an emerging firm may choose to keep the incumbent management in place (Gilson,  Hotchkiss and Ruback,  2000),  similar to the behavior documented by Eckbo and Thorburn (2003).
 
@@ -95,7 +96,7 @@ Several studies emphasize the role of covenants as an important governance mecha
 
 When a financial covenant is violated (a technical default),  creditors obtain the same contractual rights as in a payment default. This includes a right to immediate repayment of the principal and a termination of the loan commitment. Secured lenders typically use these rights to influence the firm's investment and financial policies while renegotiating the credit agreement.
 
-Nini,  Smith and Sufi (2011) examine 3, 500 financial covenant violations by US
+Nini,  Smith and Sufi (2011) examine 3,  500 financial covenant violations by US
 Nonfinancial public firms from 1997 to 2008. They document a decline in capital expenditures and acquisitions following a covenant violation. Moreover,  violating firms decrease their leverage as well as payouts to shareholders. The amended credit agreements exhibit tighter terms,  including reduced funding,  shorter maturity,  a higher frequency of collateral requirement and more restrictive financial covenants. There is also an increased likelihood of forced CEO turnover in the quarter that a firm violates its covenants. Importantly,  the firm's operating performance and stock returns both improve following a technical default,  suggesting that the increased creditor governance create value for shareholders.
 
 Banks also play a role in the firm's decision to restructure out-of-court versus under Chapter 11. Gilson,  John and Lang (1990) examine this choice for 169 public companies that became severely financially distressed in 1978-1987. They find that a distressed firm is more likely to recontract out-of-court when it has a larger fraction of bank debt in its capital structure,  there are fewer lenders,  and it has a relatively large fraction of intangible assets.
@@ -203,181 +204,181 @@ The most interesting questions,  moreover,  can benefit from theory and empirica
 
 Adler,  Barry .E.,  2010,  "A Reassessment Of Bankruptcy Reorganization After Chrysler and General Motors" American Bankruptcy Institute Law Review,  18,  305.
 
-Adler,  Barry E.,  Vedran Capkun,  and Lawrence A. Weiss,  2006,  "Destruction of value in the new era of Chapter 11, " New York University,  working paper.
+Adler,  Barry E.,  Vedran Capkun,  and Lawrence A. Weiss,  2006,  "Destruction of value in the new era of Chapter 11,  " New York University,  working paper.
 
-Aghion,  Philippe,  Oliver Hart and John Moore,  1992,  "The Economics of Bankruptcy Reform, " Journal of Law,  Economics and Organization,  8,  523–546.
+Aghion,  Philippe,  Oliver Hart and John Moore,  1992,  "The Economics of Bankruptcy Reform,  " Journal of Law,  Economics and Organization,  8,  523–546.
 
 Altman,  Edward I. and Edith s. Hotchkiss,  2005,  Corporate Financial Distress and Bankruptcy,  Wiley Finance.
 
 Andrade,  Gregor,  and Steven N. Kaplan,  1998,  "How costly is Financial (not Economic)
-Distress? Evidence from Highly Leveraged Transactions that Became Distressed, " Journal of Finance 53,  1443-1493.
+Distress? Evidence from Highly Leveraged Transactions that Became Distressed,  " Journal of Finance 53,  1443-1493.
 
 Anginer,  D. and A.J. Warburton 2010. "The Chrysler Effect: The Impact of the Chrysler Bailout on Borrowing Costs" World Bank Policy Research Working Paper 5462.
 
-Asquith,  Paul,  Robert Gertner and David Scharfstein,  1994,  "Anatomy of Financial Distress: An Examination of Junk-Bond Issuers, " Quarterly Journal of Economics,  109,  625-658.
+Asquith,  Paul,  Robert Gertner and David Scharfstein,  1994,  "Anatomy of Financial Distress: An Examination of Junk-Bond Issuers,  " Quarterly Journal of Economics,  109,  625-658.
 
 Ayotte,  Kenneth and David Skeel 2004,  "Why Do Distressed Firms Choose Delaware?
 
-An Empirical Analysis of Venue Choice in Bankruptcy, " working paper,  Northwestern University School of Law.
+An Empirical Analysis of Venue Choice in Bankruptcy,  " working paper,  Northwestern University School of Law.
 
-___ 2006,  "An Efficiency-Based Explanation for Current Corporate Reorganization Practice, " University of Chicago Law Review,  73,  425-468.
+___ 2006,  "An Efficiency-Based Explanation for Current Corporate Reorganization Practice,  " University of Chicago Law Review,  73,  425-468.
 
-Ayotte,  Kenneth M. and Edward R. Morrison,  2009,  "Creditor control and conflict in Chapter 11, " Journal of Legal Analysis,  1 (2),  511-551.
+Ayotte,  Kenneth M. and Edward R. Morrison,  2009,  "Creditor control and conflict in Chapter 11,  " Journal of Legal Analysis,  1 (2),  511-551.
 
-Baird,  Douglas G.,  2010,  "Bankruptcy From Olympus, " University of Chicago Law Review,  77,  959-975.
+Baird,  Douglas G.,  2010,  "Bankruptcy From Olympus,  " University of Chicago Law Review,  77,  959-975.
 
-______,  2011,  "Car Trouble, " University of Chicago,  Working Paper. Baird,  Douglas G.,  and Robert K Rasmussen,  2002,  "The End of Bankruptcy, " Stanford Law Review 55,  751-789.
+______,  2011,  "Car Trouble,  " University of Chicago,  Working Paper. Baird,  Douglas G.,  and Robert K Rasmussen,  2002,  "The End of Bankruptcy,  " Stanford Law Review 55,  751-789.
 
-______,  2006,  "Private Debt and the Missing Lever of Corporate Governance, "
+______,  2006,  "Private Debt and the Missing Lever of Corporate Governance,  "
 University of Pennsylvania Law Review,  154,  1209-1251.
 
-Baylock,  Bradley,  Alexander Edwards and Jared Stanfield,  2011,  "The Market-Wide Consequences of Government Intervention, " University of New South Wales,  working paper.
+Baylock,  Bradley,  Alexander Edwards and Jared Stanfield,  2011,  "The Market-Wide Consequences of Government Intervention,  " University of New South Wales,  working paper.
 
 Becker,  Bo and Per Stromberg,  2012,  "Fiduciary Duties and Equity‐Debtholder Conflicts",  Harvard Business School,  working paper.
 
-Betker,  Brian L.,  1995,  "Management's Incentives,  Equity's Bargaining Power,  and Deviations from Absolute Priority in Chapter 11 Bankruptcies, " Journal of Business,  68,  161.
+Betker,  Brian L.,  1995,  "Management's Incentives,  Equity's Bargaining Power,  and Deviations from Absolute Priority in Chapter 11 Bankruptcies,  " Journal of Business,  68,  161.
 
-Bharath,  Sreedhar T.,  Venky Panchapegesan,  and Ingrid M. Werner,  2010,  "The Changing Nature of Chapter 11, " Ohio State University,  working paper.
+Bharath,  Sreedhar T.,  Venky Panchapegesan,  and Ingrid M. Werner,  2010,  "The Changing Nature of Chapter 11,  " Ohio State University,  working paper.
 
-Black,  Fischer and John Cox,  1976,  "Valuing Corporate Securities: Some Effects of Bond Indenture Provisions, " Journal of Finance,  31,  351–367.
+Black,  Fischer and John Cox,  1976,  "Valuing Corporate Securities: Some Effects of Bond Indenture Provisions,  " Journal of Finance,  31,  351–367.
 
-Bradley,  Michael,  and Michael Rosenzweig,  1992,  "The Untenable Case for Chapter 11, "
+Bradley,  Michael,  and Michael Rosenzweig,  1992,  "The Untenable Case for Chapter 11,  "
 Yale Law Journal 101,  p. 1043.
 
-Branch,  Ben,  2000,  "Fiduciary Duty: Shareholders Versus Creditors, " Financial Practice and Education, " p. 339.
+Branch,  Ben,  2000,  "Fiduciary Duty: Shareholders Versus Creditors,  " Financial Practice and Education,  " p. 339.
 
-Buccola,  V.S.J and A. C. Keller,  2010,  "Credit Bidding and the Design of Bankruptcy Auctions, " George Mason Law Review,  18,  99-124.
+Buccola,  V.S.J and A. C. Keller,  2010,  "Credit Bidding and the Design of Bankruptcy Auctions,  " George Mason Law Review,  18,  99-124.
 
 Carapeto,  Maria,  1999,  "Does debtor-in-possession financing add value?" London Business School,  working paper.
 
-Casey,  A.,  2011,  "The Creditors' Bargain and Option-Preservation Priority in Chapter 11, " Chicago Law Review,  78,  759-807.
+Casey,  A.,  2011,  "The Creditors' Bargain and Option-Preservation Priority in Chapter 11,  " Chicago Law Review,  78,  759-807.
 
-Chang,  T. and A. Schoar,  2007,  "Judge Specific Differences in Chapter 11 and Firm Outcomes, " MIT,  working paper.
+Chang,  T. and A. Schoar,  2007,  "Judge Specific Differences in Chapter 11 and Firm Outcomes,  " MIT,  working paper.
 
 Chatterjee,  Sris,  Upinder Dhillon and Gabriel Ramiez,  2004,  "Debtor-in-Possession Finance",  Journal of Banking and Finance,  28,  3097-3111.
 
 Dahiya,  Sandeep,  Kose John,  Manju Puri and Gabriel Ramirez,  2003,  "Debtor-in-
-Possession Financing and Bankruptcy Resolution: Empirical Evidence, " Journal of Financial Economics,  69,  259–280.
+Possession Financing and Bankruptcy Resolution: Empirical Evidence,  " Journal of Financial Economics,  69,  259–280.
 
-Dhillon,  Upinder S.,  Thomas Noe,  Gabriel G. Ramírez,  2007,  "Debtor-in-possession financing and the resolution of uncertainty in Chapter 11 reorganizations, " Journal of Financial Stability,  3,  238-260.
+Dhillon,  Upinder S.,  Thomas Noe,  Gabriel G. Ramírez,  2007,  "Debtor-in-possession financing and the resolution of uncertainty in Chapter 11 reorganizations,  " Journal of Financial Stability,  3,  238-260.
 
-Eberhart Allan C.,  William T. Moore and Rodney L. Roenfeldt,  1990,  "Security Pricing and Deviations from the Absolute Priority Rule in Bankruptcy Proceedings, " Journal of Finance,  45,  1457–1469.
+Eberhart Allan C.,  William T. Moore and Rodney L. Roenfeldt,  1990,  "Security Pricing and Deviations from the Absolute Priority Rule in Bankruptcy Proceedings,  " Journal of Finance,  45,  1457–1469.
 
-Eckbo,  B. Espen,  and Karin S. Thorburn,  2003,  "Control Benefits and CEO Discipline in Automatic Bankruptcy Auctions, " Journal of Financial Economics 69,  227-258.
+Eckbo,  B. Espen,  and Karin S. Thorburn,  2003,  "Control Benefits and CEO Discipline in Automatic Bankruptcy Auctions,  " Journal of Financial Economics 69,  227-258.
 
-_______,  2008,  "Automatic Bankruptcy Auctions and Fire-Sales, " Journal of Financial Economics,  89,  404-422.
+_______,  2008,  "Automatic Bankruptcy Auctions and Fire-Sales,  " Journal of Financial Economics,  89,  404-422.
 
-_______,  2009,  "Creditor Financing and Overbidding in Bankruptcy Auctions: Theory and Tests, " Journal of Corporate Finance 15,  10-29.
+_______,  2009,  "Creditor Financing and Overbidding in Bankruptcy Auctions: Theory and Tests,  " Journal of Corporate Finance 15,  10-29.
 
 Eckbo,  B. Espen,  Karin S. Thorburn and Wei Wang,  2012,  "How costly is corporate bankruptcy for top executives?" Dartmouth College,  working paper.
 
-Eisenberg,  Theodore and Lynn M. LoPucki,  1999,  "Shopping for Judges: An Empirical Analysis of Venue Choice in Large Chapter 11 Reorganization, " Cornell Law Review,  84,  967– 1003.
+Eisenberg,  Theodore and Lynn M. LoPucki,  1999,  "Shopping for Judges: An Empirical Analysis of Venue Choice in Large Chapter 11 Reorganization,  " Cornell Law Review,  84,  967– 1003.
 
-Fischer,  Edwin O.,  Robert Heinkel and Josef Zechner,  1989,  "Dynamic Capital Structure Choice: Theory and Tests, " *The Journal of Finance* ,  44,  19-40.
+Fischer,  Edwin O.,  Robert Heinkel and Josef Zechner,  1989,  "Dynamic Capital Structure Choice: Theory and Tests,  " *The Journal of Finance* ,  44,  19-40.
 
-Franks,  Julian R. and Walter N. Torous,  1989,  "An Empirical Investigation of U.S. Firms in Reorganization, " Journal of Finance,  44,  747–769.
+Franks,  Julian R. and Walter N. Torous,  1989,  "An Empirical Investigation of U.S. Firms in Reorganization,  " Journal of Finance,  44,  747–769.
 
-Geske,  Robert,  *1977*,  "The Valuation of Corporate Liabilities as Compound Options, "
+Geske,  Robert,  *1977*,  "The Valuation of Corporate Liabilities as Compound Options,  "
 Journal of Financial and Quantitative Analysis,  12,  541*–552.*
-_______,  1989,  "Management Turnover and Financial Distress, " Journal of Financial Economics,  25,  241-262.
+_______,  1989,  "Management Turnover and Financial Distress,  " Journal of Financial Economics,  25,  241-262.
 
-_______,  Stuart,  1990,  "Bankruptcy,  boards,  banks and blockholders, " Journal of Financial Economics,  26,  355-187.
+_______,  Stuart,  1990,  "Bankruptcy,  boards,  banks and blockholders,  " Journal of Financial Economics,  26,  355-187.
 
-_______,  Stuart C.,  1997,  "Transactions costs and capital structure choice: Evidence from financially distressed firms, " Journal of Finance,  52,  161-196.
+_______,  Stuart C.,  1997,  "Transactions costs and capital structure choice: Evidence from financially distressed firms,  " Journal of Finance,  52,  161-196.
 
-Gilson,  Stuart,  Edith Hotchkiss,  and Richard Ruback,  2000,  "Valuation of Bankrupt Firms, " Review of Financial Studies,  13,  p. 43-74.
+Gilson,  Stuart,  Edith Hotchkiss,  and Richard Ruback,  2000,  "Valuation of Bankrupt Firms,  " Review of Financial Studies,  13,  p. 43-74.
 
-Gilson,  Stuart C.,  Kose John and Larry H.P. Lang,  1990,  "Troubled debt restructurings, "
+Gilson,  Stuart C.,  Kose John and Larry H.P. Lang,  1990,  "Troubled debt restructurings,  "
 Journal of Financial Economics,  27,  315-353.
 
-Gilson,  Stuart,  and Michael Vetsuypens,  1993,  "CEO Compensation in Financially Distressed Firms: An Empirical Analysis, " Journal of Finance,  43,  p. 425.
+Gilson,  Stuart,  and Michael Vetsuypens,  1993,  "CEO Compensation in Financially Distressed Firms: An Empirical Analysis,  " Journal of Finance,  43,  p. 425.
 
-Goldstein,  R.,  N. Ju,  and Hayne Leland,  *2001*,  "An EBIT-Based Model of Dynamic Capital Structure, " Journal of Business,  74,  483–512.
+Goldstein,  R.,  N. Ju,  and Hayne Leland,  *2001*,  "An EBIT-Based Model of Dynamic Capital Structure,  " Journal of Business,  74,  483–512.
 
-Gormley,  Todd and D. Matsa,  2011,  "Growing Out of Trouble? Legal Liability and Corporate Responses to Adversity, " Review of Financial Studies,  24,  2781–2821.
+Gormley,  Todd and D. Matsa,  2011,  "Growing Out of Trouble? Legal Liability and Corporate Responses to Adversity,  " Review of Financial Studies,  24,  2781–2821.
 
-Hart,  Oliver,  2000. "Different Approaches to Bankruptcy, " Harvard Institute of Economic Research Working Papers 1903,  Harvard - Institute of Economic Research.
+Hart,  Oliver,  2000. "Different Approaches to Bankruptcy,  " Harvard Institute of Economic Research Working Papers 1903,  Harvard - Institute of Economic Research.
 
-Hotchkiss,  Edith S.,  1995,  "Postbankruptcy Performance and Management Turnover, "
+Hotchkiss,  Edith S.,  1995,  "Postbankruptcy Performance and Management Turnover,  "
 Journal of Finance 50,  p. 3-21.
 
-Hotchkiss,  Edith S.,  and Robert M. Mooradian,  1997,  "Vulture Investors and the Market for Control of Distressed Firms, " Journal of Financial Economics,  32,  401-432.
+Hotchkiss,  Edith S.,  and Robert M. Mooradian,  1997,  "Vulture Investors and the Market for Control of Distressed Firms,  " Journal of Financial Economics,  32,  401-432.
 
-Hotchkiss,  Edith S.,  David C. Smith and Per Stromberg,  2012,  "Private Equity and the Resolution of Financial Distress, " Boston College,  working paper.
+Hotchkiss,  Edith S.,  David C. Smith and Per Stromberg,  2012,  "Private Equity and the Resolution of Financial Distress,  " Boston College,  working paper.
 
-Ivashina,  Victoria,  Benjamin Iverson,  and David C. Smith,  2011,  "The Ownership and Trading of Debt Claims in Chapter 11 Restructurings, " Harvard University,  working paper.
+Ivashina,  Victoria,  Benjamin Iverson,  and David C. Smith,  2011,  "The Ownership and Trading of Debt Claims in Chapter 11 Restructurings,  " Harvard University,  working paper.
 
-James,  Christopher,  1995,  "When Do Banks Take Equity? An Analysis of Bank Loan Restructurings and the Role of Public Debt, " Review of Financial Studies,  8,  1209.
+James,  Christopher,  1995,  "When Do Banks Take Equity? An Analysis of Bank Loan Restructurings and the Role of Public Debt,  " Review of Financial Studies,  8,  1209.
 
-James,  Christopher,  1996,  "Bank debt restructuring and the composition of exchange offers in financial distress, " Journal of Finance,  51, 711-727.
+James,  Christopher,  1996,  "Bank debt restructuring and the composition of exchange offers in financial distress,  " Journal of Finance,  51,  711-727.
 
-Jiang,  Wei,  Kai li and Wei Wang,  2012,  "Hedge funds and Chapter 11, " Journal of Finance,  forthcoming.
+Jiang,  Wei,  Kai li and Wei Wang,  2012,  "Hedge funds and Chapter 11,  " Journal of Finance,  forthcoming.
 
-Kahl,  Matthias,  2002,  "Economic Distress,  Financial Distress,  and Dynamic Liquidation, " Journal of Finance,  57,  135-168.
+Kahl,  Matthias,  2002,  "Economic Distress,  Financial Distress,  and Dynamic Liquidation,  " Journal of Finance,  57,  135-168.
 
-Leland,  Hayne E.,  *1994*,  "Corporate Debt Value,  Bond Covenants,  and Optimal Capital Structure, " Journal of Finance,  49,  *1213*–1252.
+Leland,  Hayne E.,  *1994*,  "Corporate Debt Value,  Bond Covenants,  and Optimal Capital Structure,  " Journal of Finance,  49,  *1213*–1252.
 
-______,  *1998*,  "Agency Costs,  Risk Management,  and Capital Structure, " Journal of Finance,  53,  *1213*–1242.
+______,  *1998*,  "Agency Costs,  Risk Management,  and Capital Structure,  " Journal of Finance,  53,  *1213*–1242.
 
-Leland,  Hayne E. and K. Toft,  *1996*,  "Optimal Capital Structure,  Endogenous Bankruptcy,  and the Term Structure of Credit Spreads, " Journal of Finance,  51,  987–1019.
+Leland,  Hayne E. and K. Toft,  *1996*,  "Optimal Capital Structure,  Endogenous Bankruptcy,  and the Term Structure of Credit Spreads,  " Journal of Finance,  51,  987–1019.
 
 Lemmon,  Michael,  Yung-You Ma,  and Elizabeth Tashjian,  2009,  "Survival of the fittest?
 
-Financial and Economic Distress and Restructuring Outcomes in Chapter 11, " University of Utah,  working paper.
+Financial and Economic Distress and Restructuring Outcomes in Chapter 11,  " University of Utah,  working paper.
 
-Lim,  Jongha,  2010,  "The role of activist hedge funds in distressed firms, " Ohio State University,  working paper.
+Lim,  Jongha,  2010,  "The role of activist hedge funds in distressed firms,  " Ohio State University,  working paper.
 
-LoPucki,  Lynn M.,  2005,  "Courting Failure: How Competition for Big Cases Is Corrupting the Bankruptcy Courts, " University of Michigan Press.
+LoPucki,  Lynn M.,  2005,  "Courting Failure: How Competition for Big Cases Is Corrupting the Bankruptcy Courts,  " University of Michigan Press.
 
 LoPucki,  Lynn M. and Joseph W. Doherty,  2002,  "Why are Delaware and New York Bankruptcy Reorganizations Failing?" Vanderbilt Law Review,  55,  1933-86.
 
-_______,  2007,  "Bankruptcy Fire Sales",  Michigan *Law Review* Vol. 106,  pp. 1-60. LoPucki,  L. and S. Kalin,  2001,  "The Failure of Public Company Bankruptcies in Delaware and New York: Empirical Evidence of a 'Race to the Bottom', " Vanderbilt Law Review,  54,  231-82.
+_______,  2007,  "Bankruptcy Fire Sales",  Michigan *Law Review* Vol. 106,  pp. 1-60. LoPucki,  L. and S. Kalin,  2001,  "The Failure of Public Company Bankruptcies in Delaware and New York: Empirical Evidence of a 'Race to the Bottom',  " Vanderbilt Law Review,  54,  231-82.
 
-McGlaun,  Greg,  2007,  "Lender Control in Chapter 11: Empirical Evidence, " University of Rochester,  working paper.
+McGlaun,  Greg,  2007,  "Lender Control in Chapter 11: Empirical Evidence,  " University of Rochester,  working paper.
 
-Morrison,  Edward,  2007,  "Bankruptcy Decision Making: An Empirical Study of Continuation Bias in Small Business Bankruptcies, " J. L. Economics,  50,  381.
+Morrison,  Edward,  2007,  "Bankruptcy Decision Making: An Empirical Study of Continuation Bias in Small Business Bankruptcies,  " J. L. Economics,  50,  381.
 
-_______,  2010,  "Chrysler,  GM,  and the Future of Chapter 11, " Columbia Law School,  working paper.
+_______,  2010,  "Chrysler,  GM,  and the Future of Chapter 11,  " Columbia Law School,  working paper.
 
 Nini,  Greg,  Amir Sufi,  and David C. Smith,  2011,  "Creditor Control Rights,  Corporate Governance,  and Firm Value",  University of Pennsylvania,  working paper.
 
-Povel,  P. and R. Singh,  2007,  "Sale-Backs in Bankruptcy, " Journal of Law,  Economics,  and Organization,  23,  710-730.
+Povel,  P. and R. Singh,  2007,  "Sale-Backs in Bankruptcy,  " Journal of Law,  Economics,  and Organization,  23,  710-730.
 
-_______,  1998,  "Do Asset Fire Sales Exist? An Empirical Investigation of Commercial Aircraft Transactions, " Journal of Finance,  53,  939–978.
+_______,  1998,  "Do Asset Fire Sales Exist? An Empirical Investigation of Commercial Aircraft Transactions,  " Journal of Finance,  53,  939–978.
 
-Pulvino,  Todd C.,  1999,  "Effects of Bankruptcy Court Protection on Asset Sales, "
+Pulvino,  Todd C.,  1999,  "Effects of Bankruptcy Court Protection on Asset Sales,  "
 Journal of Financial Economics,  52,  151–186.
 
-Rasmussen,  R. and R.S. Thomas,  2001,  "Whither the Race: A Comment on the Effects of the Delawarization of Corporate Reorganizations, " Vanderbilt Law Review,  54,  283-307.
+Rasmussen,  R. and R.S. Thomas,  2001,  "Whither the Race: A Comment on the Effects of the Delawarization of Corporate Reorganizations,  " Vanderbilt Law Review,  54,  283-307.
 
-Roe,  Mark and David Skeel,  2010,  "Assessing the Chrysler Bankruptcy, " Michigan Law Review , 108,  727-72.
+Roe,  Mark and David Skeel,  2010,  "Assessing the Chrysler Bankruptcy,  " Michigan Law Review ,  108,  727-72.
 
 Shleifer,  Andrei and Robert W. Vishny,  1992,  "Liquidation Values and Debt Capacity: A
-Market Equilibrium Approach, " Journal of Finance,  47,  1343–1366.
+Market Equilibrium Approach,  " Journal of Finance,  47,  1343–1366.
 
-Skeel,  David A.,  2001 "What's So Bad About Delaware?, " Vanderbilt Law Review,  54,  309-329.
+Skeel,  David A.,  2001 "What's So Bad About Delaware?,  " Vanderbilt Law Review,  54,  309-329.
 
-_________,  2003,  "Creditors' ball: The "new" new corporate governance in Chapter 11, "
+_________,  2003,  "Creditors' ball: The "new" new corporate governance in Chapter 11,  "
 University of Pennsylvania Law Review,  152,  917-951.
 
-_________,  2004,  "The Past,  Present and Future of Debtor-in-Possession Financing, "
+_________,  2004,  "The Past,  Present and Future of Debtor-in-Possession Financing,  "
 Cardozo Law Review,  25,  1905-1934.
 
-Warren,  Elizabeth and J. Westbrook,  2003,  "Secured Party in Possession, " American Bankruptcy Institute Journal,  22,  52–53.
+Warren,  Elizabeth and J. Westbrook,  2003,  "Secured Party in Possession,  " American Bankruptcy Institute Journal,  22,  52–53.
 
-Weiss,  Lawrence A. and Karen H. Wruck,  1998,  "Information Problems,  Conflicts of Interest,  and Asset Stripping: Chapter 11's Failure in the Case of Eastern Airlines, " Journal of Financial Economics,  48,  p. 55.
+Weiss,  Lawrence A. and Karen H. Wruck,  1998,  "Information Problems,  Conflicts of Interest,  and Asset Stripping: Chapter 11's Failure in the Case of Eastern Airlines,  " Journal of Financial Economics,  48,  p. 55.
 
-White,  Michelle J.,  1996,  "The Costs of Corporate Bankruptcy: A US-European Comparison, " in J. Bhandari and L. Weiss (Eds.),  Corporate Bankruptcy: Economic and Legal Perspectives,  Cambridge University Press,  Cambridge,  UK.
+White,  Michelle J.,  1996,  "The Costs of Corporate Bankruptcy: A US-European Comparison,  " in J. Bhandari and L. Weiss (Eds.),  Corporate Bankruptcy: Economic and Legal Perspectives,  Cambridge University Press,  Cambridge,  UK.
 
-Woo,  Sara Pei,  2011,  "Regulatory bankruptcy: How bank regulation causes fire sales, "
+Woo,  Sara Pei,  2011,  "Regulatory bankruptcy: How bank regulation causes fire sales,  "
 Georgetown Law Journal,  99,  1615-1669.
 
 Wruck,  Karen Hopper,  1989,  "Equity Ownership Concentration and Firm Value:
-Evidence From Private Equity Financings, " Journal of Financial Economics,  23,  3-28.
+Evidence From Private Equity Financings,  " Journal of Financial Economics,  23,  3-28.
 
  1 In a Chapter 7 liquidation,  by contrast,  management is automatically displaced in favor of a court-appointed trustee.
 
-2 During its 1984 bankruptcy,  StorageTek invested in a new technology for tape storage devices. The successful investment increased firm value enough to bring equity "in the money, ' and the pre-bankruptcy holders retained their stake when the firm emerged from bankruptcy as the dominant player in their market.
+2 During its 1984 bankruptcy,  StorageTek invested in a new technology for tape storage devices. The successful investment increased firm value enough to bring equity "in the money,  ' and the pre-bankruptcy holders retained their stake when the firm emerged from bankruptcy as the dominant player in their market.
 
 3 See Credit Lyonnais v. Pathe Communications,  available at http://blogs.law.harvard.edu/corpgov/files/2007/06/20070202%20Credit%Lyonnais.pdf.
  4 The most senior class of claims which would be impaired if value were to be distributed according to absolute priority is referred to as the "fulcrum" security.
