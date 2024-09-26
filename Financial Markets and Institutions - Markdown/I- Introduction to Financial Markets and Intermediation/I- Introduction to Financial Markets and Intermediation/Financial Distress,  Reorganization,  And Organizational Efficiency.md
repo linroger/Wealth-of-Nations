@@ -1,10 +1,7 @@
 ---
 title: Financial Distress,  Reorganization,  And Organizational Efficiency
-aliases: ["Financial Distress,  Reorganization,  And Organizational Efficiency"]
-linter-yaml-title-alias: "Financial Distress,  Reorganization,  And Organizational Efficiency"
 ---
 
----
 
 # Financial Distress,  Reorganization,  And Organizational Efficiency
 
