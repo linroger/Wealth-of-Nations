@@ -46,7 +46,6 @@
   "make-md",
   "copy-url-in-preview",
   "github-sync",
-  "unique-attachments",
   "swiftlatex-render",
   "latex-render",
   "obsidian-image-toolkit",
