@@ -46,7 +46,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Slides 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17c3e20ff6198e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md"
+                "file": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency.md"
               }
             }
           }
@@ -198,11 +211,18 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "7417136abbc9e841",
+  "active": "d17c3e20ff6198e7",
   "lastOpenFiles": [
-    "svg-cache/54f68054cab5df5e1512c092ad6de3d0.svg",
-    "svg-cache/54f68054cab5df5e1512c092ad6de3d0.png",
+    "svg-cache/2604c0fa98143a8b2991433dd06bfaa8.svg",
+    "svg-cache/2604c0fa98143a8b2991433dd06bfaa8.png",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
+    "svg-cache/54f68054cab5df5e1512c092ad6de3d0.svg",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Slides 1.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+    "Attachments/CleanShot 2024-09-26 -002883@2x.png",
+    "Attachments/CleanShot 2024-09-26 -002882@2x.png",
+    "svg-cache/54f68054cab5df5e1512c092ad6de3d0.png",
     "svg-cache/334d7823c2be91ea53b6609dcbe90831.svg",
     "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Class Note 1- Borrower-Lender conflicts and implied agency problems.md",
     "svg-cache/2607a0ae682cc855cde68c2ecf63b344.svg",
@@ -210,8 +230,6 @@
     "svg-cache/334d7823c2be91ea53b6609dcbe90831.png",
     "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.svg",
     "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.png",
-    "svg-cache/2607a0ae682cc855cde68c2ecf63b344.png",
-    "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Slides 1.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Hw 5 2020.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Investor Size Liquidity and Prime Money Market Fund Stress.md",
     "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
@@ -231,8 +249,6 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Economist Hege Money.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Economist Going Public.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Economist Fewer Or Even None.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Dodd Frank Act and Its Impact.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Asian Liquidity Crisis.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis",
@@ -242,9 +258,6 @@
     "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring",
     "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information",
     "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets",
-    "Attachments/62b04b16656cce9bd3009609084930f7915a8b2207e5a9c9f2c4b7ad7e7b24c6.png",
-    "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
-    "Attachments/33686c9cbbfee5c8ec1f11ea0b075c1671ccfe41079f75af7ef780c07e4ddfc4.jpg"
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets"
   ]
 }
