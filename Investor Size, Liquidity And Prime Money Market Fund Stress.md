@@ -65,7 +65,7 @@ Overview of the March 2020 MMF run1 Graph 1
 
 European dollar LVNAV MMFs saw large redemptions Cumulative flows differed across funds
 
-![4_image_1.png](4_image_1.png)
+![4_image_1.png](64a1807588894a442a8ae8796219d2b163e6bf477514cd16d3f33e583a1b47a6.png)
 
 The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial commercial paper). The shaded areas in the first and third panels indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; CNAV = constant NAV; LVNAV = low-volatility NAV; VNAV = variable NAV.
 
@@ -85,7 +85,7 @@ Consistent with previous evidence,  we observe that aggregate outflows during th
 
 Average AUM; 5 Mar 2020 = 100 Graph 2
 
-![5_image_0.png](5_image_0.png)
+![5_image_0.png](62b04b16656cce9bd3009609084930f7915a8b2207e5a9c9f2c4b7ad7e7b24c6.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicate 6–26 March 2020 (period of consecutive outflows). AUM = assets under management; WLA = weekly liquid assets.
 
@@ -171,7 +171,7 @@ yield. These trades were procyclical,  as they took place when private debt was 
 
 Liquidity management at prime institutional MMFs during the March turmoil1 Graph 3
 
-![9_image_0.png](9_image_0.png)
+![9_image_0.png](77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png)
 
 The vertical lines indicate 18 March 2020 (Federal Reserve unveils the MMLF programme). The shaded areas indicates 6–26 March 2020 (period of consecutive outflows). WAM = weighted average maturity; WLA = weekly liquid assets.
 
