@@ -3,8 +3,6 @@ title: Creditor Control Rights and Firm Investment Policy
 ---
 # Creditor Control Rights and Firm Investment Policy
 
-Greg Nini a,  David C. Smith b,  Amir Sufi c-
-
 ## Abstract
 
 We present novel empirical evidence that conflicts of interest between creditors and their borrowers have a significant impact on firm investment policy. We examine a large sample of private credit agreements between banks and public firms and find that 32% of the agreements contain an explicit restriction on the firm's capital expenditures. Creditors are more likely to impose a capital expenditure restriction as a borrower's credit quality deteriorates,  and the use of a restriction appears at least as sensitive to borrower credit quality as other contractual terms,  such as interest rates,  collateral requirements,  or the use of financial covenants. We find that capital expenditure restrictions cause a reduction in firm investment and that firms obtaining contracts with a new restriction experience subsequent increases in their market value and operating performance.
