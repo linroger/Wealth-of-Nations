@@ -200,7 +200,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md"
+                "file": "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md"
               }
             }
           }
@@ -368,6 +368,10 @@
   },
   "active": "744d8f2909a9bb81",
   "lastOpenFiles": [
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Class 6-Bank Runs.md",
+    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/.assets/Obsidian 2024-09-25 20.15.20.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/.assets/Obsidian 2024-09-25 20.15.17.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002850@2x.png",
@@ -378,11 +382,7 @@
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002853@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002851@2x.png",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002852@2x.png",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Untitled.assets/CleanShot 2024-09-23 -002849@2x.png",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Lecture 3 Slides.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3-Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/CleanShot.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Class 6-Bank Runs.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Credit Markets.md",
     "Financial Markets and Institutions/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
@@ -392,7 +392,6 @@
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
     "consistency-report.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.assets",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6-Bank Runs/Note On The Leveraged Loan Market.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 2-Debt contracts due to the lack of information/Class 2-Debt contracts due to the lack of information.md",

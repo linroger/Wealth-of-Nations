@@ -3,6 +3,7 @@ title: Investor Size,  Liquidity And Prime Money Market Fund Stress
 aliases: ["Investor Size,  Liquidity And Prime Money Market Fund Stress"]
 linter-yaml-title-alias: "Investor Size,  Liquidity And Prime Money Market Fund Stress"
 ---
+
 # Investor Size,  Liquidity And Prime Money Market Fund Stress
 
 Massive redemptions at money market funds (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.
@@ -17,7 +18,7 @@ Key takeaways
 - During the massive withdrawals,  fund managers mostly disposed of less liquid assets,  which may have exacerbated market-wide liquidity shortages.
 - Once policy relief set in,  fund managers rebuilt liquidity buffers,  with the funds hardest-hit by outflows strengthening their liquidity positions most aggressively.
 
-As the Covid-19 shock gathered momentum in March 2020,  large withdrawals beset money market mutual funds (MMFs) investing primarily in high-quality short-term private debt securities (prime MMFs). Since these funds are major global providers of short-term dollar funding to banks and non-financial corporates,  their stress had system-wide repercussions (Eren,  Schrimpf and Sushko (2020a, b)).
+As the Covid-19 shock gathered momentum in March 2020,  large withdrawals beset money market mutual funds (MMFs) investing primarily in high-quality short-term private debt securities (prime MMFs). Since these funds are major global providers of short-term dollar funding to banks and non-financial corporates,  their stress had system-wide repercussions (Eren,  Schrimpf and Sushko (2020a,  b)).
 
 This run on prime MMFs was different from other prominent financial runs in history. The bank runs during the Great Depression and the 2008 run on the very same MMF sector were triggered by concerns about the *credit* quality of the intermediaries' portfolio of assets. In March 2020,  credit quality was not an obvious concern,  partly reflecting the strengthened requirements introduced by MMF regulatory reforms in the aftermath of the 2008 crisis.
 
@@ -49,7 +50,7 @@ regulation differentiates between retail and institutional funds. Only individua
 
 In early March 2020,  the initial sanguine reaction of investors to the threat posed by Covid-19 gave way to a frantic "dash-for-cash" Prime institutional MMFs saw 20 consecutive days of outflows between 6 and 26 March 2020 (henceforth,  the run or stress period). The redemption dynamics in the midst of this acute market turmoil diverged widely across MMF types.
 
-Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,  first panel,  red line),  increasing their pre-stress AUM by almost a third. Similarly,  European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,  with inflows around $80 billion (third panel,  red line).
+Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,   first panel,   red line),   increasing their pre-stress AUM by almost a third. Similarly,   European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,   with inflows around $80 billion (third panel,  red line).
 
 At the same time,  most other MMF classes experienced outflows. US prime institutional MMFs and European dollar-denominated LVNAV funds underwent a run-type event,  with withdrawals reaching roughly $100 and $90 billion,  respectively
 (Graph 1,  first panel,  green solid line,  and third panel,  yellow line). Daily outflows from US prime institutional MMFs exceeded 2% of the previous-day AUM for eight trading days in a row,  an extraordinary event from a historical perspective. European dollardenominated LVNAV funds had a similar experience Within the prime institutional MMF universe,  the experience of individual funds was highly uneven. During the run,  cumulative redemptions ranged from 5 to 40% of pre-run AUM for half of the funds,  with a quarter of the funds faring much worse
@@ -109,14 +110,14 @@ MMF managers could respond to the large redemptions in two alternative ways. The
 
 13 To the extent that large investors concentrate in specific funds,  each one knows that other similarly informed investors stand ready to redeem strategically. In the presence of a first-mover advantage,  this increases the incentive to withdraw swiftly at the sign of trouble (Schmidt et al (2016)).
 
-14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,  with a median of $1 million and an interquartile range between $77, 500 and $10 million.
+14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,   with a median of $1 million and an interquartile range between $77,  500 and $10 million.
 
 # Quantifying The Role Of Liquidity And Investor Size In Mmf Run Risk
 
 We employ panel regression to formally study the role of liquidity and investor size in runs on US prime institutional funds. We first examine the effects of each factor separately and then turn to joint effects.
 
 We start by estimating the following equation over the run period 6–26 March 2020:
-, ௧ = ௐ × 1௪ ௐ,  + ெூ × 1 ெூ,  + ×, ௧ିଵ + ௧ +, ௧,  where, ௧ is the daily outflow from fund i at time t calculated as the daily percentage change of AUM; and 1௪ ௐ,  and 1 ெூ,  are dummy binary variables,  the first one taking value 1 if the fund i's average WLA during January–February 2020 was less than the cross-sectional median,  and 0 otherwise,  and the second taking the value 1 if the minimum investment for fund i was higher than the cross-sectional median,  and 0 otherwise., ௧ିଵ are control variables that include lagged AUM (in logarithms) and the gross 30-day yield of each fund,  and ௧ is a time fixed effect.
+,  ௧ = ௐ × 1௪ ௐ,  + ெூ × 1 ெூ,  + ×,  ௧ିଵ + ௧ +,  ௧,  where,  ௧ is the daily outflow from fund i at time t calculated as the daily percentage change of AUM; and 1௪ ௐ,  and 1 ெூ,  are dummy binary variables,  the first one taking value 1 if the fund i's average WLA during January–February 2020 was less than the cross-sectional median,  and 0 otherwise,  and the second taking the value 1 if the minimum investment for fund i was higher than the cross-sectional median,  and 0 otherwise.,  ௧ିଵ are control variables that include lagged AUM (in logarithms) and the gross 30-day yield of each fund,  and ௧ is a time fixed effect.
 
 In this context,  ௐ and ெூ measure how the intensity of the run varied on average with the pre-stress fund characteristics.
 
@@ -144,7 +145,7 @@ In this context,  ௐ and ெூ measure how the intensity of the run varied on 
 |                                                                                                                                                                                                                                        | (2.893)                          |          |          |       |
 | Other controls1                                                                                                                                                                                                                        | Y                                | Y        | Y        | Y     |
 | Time fixed effects                                                                                                                                                                                                                     | Y                                | Y        | Y        | Y     |
-| Number of observations                                                                                                                                                                                                                 | 1, 020                            | 1, 020    | 1, 020    | 1, 020 |
+| Number of observations                                                                                                                                                                                                                 | 1,  020                            | 1,  020    | 1,  020    | 1,  020 |
 | R-squared                                                                                                                                                                                                                              | 0.063                            | 0.079    | 0.080    | 0.081 |
 | t-statistic calculated with robust standard errors in parentheses; ***/**/* indicates statistical significance at the 1/5/10% level. The sample  includes prime institutional funds as defined by CRANE in the period 6–26 March 2020. |                                  |          |          |       |
 
@@ -195,7 +196,7 @@ Box B
 In this box,  we conduct panel regressions to assess MMFs' liquidity management in response to the run,  differentiating pre-stress behaviour from behaviour during the initial stress phase,  before the MMLF and post-MMLF.
 
 Specifically,  for each of the three periods,  we assess the impact of outflows on various liquidity gauges:
-Δ, ௧ = ଵ, ௧ + ଶ, ௧ିଵ + ଷை௨௧௪ೕ + ସ, ௧ିଵ +, ௧ିଵ +, ௧,  where Δ, ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;, ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on liquidity management. Finally,  we include the same set of control variables, ௧ିଵ as in the previous section but recalculated at the portfolio level.
+Δ,  ௧ = ଵ,  ௧ + ଶ,  ௧ିଵ + ଷை௨௧௪ೕ + ସ,  ௧ିଵ +,  ௧ିଵ +,  ௧,  where Δ,  ௧ denotes the daily change in a liquidity measure (WLA or WAM) for portfolio j at time t;,  ௧ represents daily outflows from portfolio j at time t; and ை௨௧௪ೕ reports the cumulative outflow experienced by fund j during the run period and before the announcement of the MMLF. The latter variable is only included in the post-MMLF period to capture the effect of portfolio-level run stress on liquidity management. Finally,  we include the same set of control variables,  ௧ିଵ as in the previous section but recalculated at the portfolio level.
 
 Panel A of Table B presents the results for the pre-run period (17–28 February). On normal days,  investors' outflows are met with liquid asset sales,  which typically cause a drop in liquidity as measured by both WLA and WAM. This is revealed by a positive and statistically significant coefficient of outflows for WAM and a negative,  albeit non-significant coefficient for WLA (line (1)). The impact of outflows is transient,  as previous outflows have no bearing on current liquidity measures (line 2)).
 
@@ -220,7 +221,7 @@ Finally,  panel C of Table B presents the results for the first two weeks after 
 | Time fixed effects                                                                                                                              | Y         | Y         |
 | Number of observations                                                                                                                          | 315       | 315       |
 | R-squared                                                                                                                                       | 0.297     | 0.746     |
-| Panel B: run,  pre-MMLF (6–18 Mar 2020)                                                                                                          |           |           |
+| Panel B: run,   pre-MMLF (6–18 Mar 2020)                                                                                                          |           |           |
 | (3) Outflow                                                                                                                                     | 0.0421    | 0.175***  |
 |                                                                                                                                                 | (1.456)   | (5.322)   |
 | (4) Lagged outflow                                                                                                                              | –0.222*** | 0.008     |
