@@ -1,11 +1,12 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
   "propertiesInDocument": "hidden",
   "userIgnoreFilters": [
     "Attachments/",
     "Tags/"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
