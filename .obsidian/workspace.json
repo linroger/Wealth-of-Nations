@@ -83,9 +83,12 @@
             "id": "f0f8c46d38d2271b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions"
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -165,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md"
+              }
             }
           }
         ],
@@ -230,7 +237,7 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "c112d56a768d8830",
+  "active": "f0f8c46d38d2271b",
   "lastOpenFiles": [
     "Financial Markets and Institutions/Financial Markets and Institutions.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md",
