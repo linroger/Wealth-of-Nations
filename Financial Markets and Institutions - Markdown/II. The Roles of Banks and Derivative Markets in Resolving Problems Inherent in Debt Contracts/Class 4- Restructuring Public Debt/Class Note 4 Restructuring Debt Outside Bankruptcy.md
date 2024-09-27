@@ -25,8 +25,6 @@ If the firm gets into bankruptcy court, some going-concern value is destroyed. L
 
 The face value of maturing bank debt is $B$, and the face value of public debt (which matures in the future, on date 2) is $P$.
 
----
-
 ## Example 1: Going Concern Value May Be Lost
 
 Let the value in bankruptcy be $L = 0.4$ (this example holds for all $L$ exceeding 0.26).
@@ -73,8 +71,6 @@ Keep everything from the first example, except make bankruptcy even more ineffic
 
 Suppose bankruptcy is even more inefficient, and $L = 0$. Then the bank would never force bankruptcy when making a concession gives it something in the future.
 
----
-
 ### Example 2b: Less Public Debt, but Same Total Debt (This Puts the Bank at Sufficient Risk)
 
 Keep everything from example 1, except let the amount of bank debt be $B = 0.5$ and the amount of public debt be $P = 1.4$. Note that $L = 0.4$. The amount of total debt is still $1.9$, but less of it is public debt. The public makes no concessions.
@@ -92,14 +88,4 @@ This exceeds the $0.4$ that the bank gets in bankruptcy.
 
 What matters is the value at risk from going into bankruptcy relative to the amount of public debt. It is not just the size of the value at risk. If the amount of public debt is large relative to the value at risk, then the value at risk will be destroyed.
 
----
-
-In the next class note,Here is the rest of your document formatted into markdown:
-
----
-
 In the next class note, we examine exchange offers of one public debt issue for another as a way of forcing concessions by the public.
-
---- 
-
-This follows your original content exactly, with no alterations to the wording, only applying the formatting instructions you provided. Let me know if you need further adjustments!
