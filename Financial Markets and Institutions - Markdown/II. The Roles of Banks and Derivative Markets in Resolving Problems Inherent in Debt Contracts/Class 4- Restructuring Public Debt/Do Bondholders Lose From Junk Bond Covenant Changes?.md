@@ -188,11 +188,10 @@ thatwould make the soliciation more likely to succeed: strengthen the incentive 
 
 2 is one in which all players consent. Proof. See Appendix B.Q.E.D
 
-The analysis of this section reveals that requiring bondholders to consent in order to receive consent payments or requiring that they consent in order to participate in the exchange or tender offer can lead to coercive outcomes. Absent both these requirements,  bondholders can vote against covenant changes without forfeiting either consent payments or the right to participate in the exchange offer. In other words,  they may assure themselves of the payoffs available in the event of the solicitation's success without having to contribute to that success. 12 Formally stated,  it is easy to show that without these two requirements bondholders would never approve disadvantageous covenant changes. One may now return to the data and ask whether or not firms struc-
+The analysis of this section reveals that requiring bondholders to consent in order to receive consent payments or requiring that they consent in order to participate in the exchange or tender offer can lead to coercive outcomes. Absent both these requirements,  bondholders can vote against covenant changes without forfeiting either consent payments or the right to participate in the exchange offer. In other words,  they may assure themselves of the payoffs available in the event of the solicitation's success without having to contribute to that success. 12 Formally stated,  it is easy to show that without these two requirements bondholders would never approve disadvantageous covenant changes. One may now return to the data and ask whether or not firms structure their consent solicitations in a coercive way. Table 2 answers this question in the affirmative. Of the 48 solicitations for which sufficient
 
-True their consent solicitations in a coercive way. Table 2 answers this question in the affirmative. Of the 48 solicitations for which sufficient
+![](CleanShot%202024-09-27%20-002938@2x.png)
 
-------------------------------------------------------------------
 
 TABLE 2 The Coercive Nature of Consent Solicitations
 
@@ -258,7 +257,13 @@ To examine the hypotheses outlined above empirically,  stock and bond price data
 
 Est rate risk,  define the following variables
 
-a: the abnormalreturn of thebond around the event date,  $P_{-1}$ : the price of thebondbefore the event date,  $Y_{-1}$：theyield tomaturity of thebondbefore the event date，$P_{+1}$ : the price of thebond after the event date,  $y_{+1}$ : the yield to maturity of the bond after the event date,  $\Delta y_T$ : the change in a matched-maturity Treasury yield from before the event date to after the event date,  and s: the changein the credit spreadbetweenbonds of similar ratings and Treasuries over the event date.
+a: the abnormal return of the bond around the event date,  
+$P_{-1}$ : the price of the bond before the event date,
+$Y_{-1}$：the yield to maturity of the bond before the event date,
+$P_{+1}$ : the price of thebond after the event date, 
+$y_{+1}$ : the yield to maturity of the bond after the event date,
+$\Delta y_T$ : the change in a matched-maturity Treasury yield from before the event date to after the event date,  and 
+${} \Delta s {}$ : the change in the credit spreadbetweenbonds of similar ratings and Treasuries over the event date.
 
 Let $P(y)$ denote the standard pricing function for a given yield-tomaturity,  y. For all monthly data,  abnormal returns were defined as
 
@@ -286,78 +291,8 @@ Abnormally positive stock and bond returns provide only indirect evidence in fav
 
 According to the theory of Section II,  consent payments of any magnitude cangenerate outcomes in which bondholders approve harmful indenture modifications. Therefore, "large" consent payments are more indicative of compensation for lost covenant protection and of
 
-------------------------------------------------------------------
-
-Abnormal Returns around Potentially Coercive Solicitation Events (Any That Offered Consent Payments or That Required Exit Consents) A.Abnormal Bondholder Returns
-
-<table>
-	<tbody>
-		<tr>
-			<th> </th>
-			<th>Monthly Data</th>
-			<th>Daily Data</th>
-		</tr>
-		<tr>
-			<td>Number of observations</td>
-			<td>21</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>return $(\%)$ Average abnormal</td>
-			<td>2.34</td>
-			<td>0.\1</td>
-		</tr>
-		<tr>
-			<td>Standard deviation $(\%)$</td>
-			<td>2.89</td>
-			<td>1.81</td>
-		</tr>
-		<tr>
-			<td>t-statistics</td>
-			<td>3.71</td>
-			<td>1.91</td>
-		</tr>
-		<tr>
-			<td>Nore.—Bond returns were adjus monthly data,  for changes in credit</td>
-			<td>ed for changes in the level of spreads as well.</td>
-			<td>interest rates and,  in the case of</td>
-		</tr>
-		<tr>
-			<td>B. Abnormal</td>
-			<td>Stockholder Returns</td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td>S&P-adjusted Return</td>
-			<td>Nasdaq-adjusted Return</td>
-		</tr>
-		<tr>
-			<td>bservations Numher of c</td>
-			<td>28</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>Average $\because (\%)$</td>
-			<td>9.48</td>
-			<td>9.68</td>
-		</tr>
-		<tr>
-			<td>Standard deviation</td>
-			<td>16.63</td>
-			<td>16.46</td>
-		</tr>
-		<tr>
-			<td>t-statistics</td>
-			<td>3.02</td>
-			<td>3.11</td>
-		</tr>
-	</tbody>
-</table>
-
-Nore. For one-sided tests,  $t_{gg}(21)\:=\:1.721$ $\iota_{, \mathrm{os}}(28)$ = 1.701. All stock returns were computed
-
-Using daily data. Returns were adjusted，alternately,  for changes in thelevel of the S&P 50 o Index andNasdaq Composite Index. One outlier,  with an abnormal return of about 36096 was omitted from this table.
+![500](CleanShot%202024-09-27%20-002937@2x.png)
+Note. For one-sided tests,  $t_{gg}(21)\:=\:1.721$ $\iota_{, \mathrm{os}}(28)$ = 1.701. All stock returns were computed using daily data. Returns were adjusted，alternately,  for changes in thelevel of the S&P 50 o Index andNasdaq Composite Index. One outlier,  with an abnormal return of about 36096 was omitted from this table.
 
 gains sharing than of coercion. But how large is“large''? While this question cannot be answered precisely,  it is useful to note that consent solicitations which ask for very minor and technical changes usually offer bondholders \$1 per $\$1, 000$ face amount aspaymentfor the time and effort expended in filling out the appropriate forms. This article's sample contained one solicitation of that type.) Therefore,  one might argue that consentpayments neednotbe much larger than Sl per $\$1, 000$ to generate coercive outcomes. But,  across 23 solicitations that made consent payments,  16 the average and median payments were $\$20.51$ and $\$15$ per $S1, 000$ face amount,  respectively. Only 2 of the 23 were below $S5$ and 9 of the 23 were above $s20$ .Thelargest two consent payments were \$60 and \$95. Therefore,  consent payments seem more indicative of efforts to satisfy bondholders than indicative of unnecessarily generous attempts at coercion. As evident from the statistics reported in the previous paragraph,
 
@@ -381,13 +316,7 @@ In 55 events for which data were available，23,  or $42\%$ , of the issuers mod
 
 ## $E$ .Magnitude of Payment Term Modifications
 
-Across 19 increases in payment terms after an initial unsuccessful solicitation,  the average and median increases were $S40.28$ and $\$18.40$ per $\$1, 000$ face amount,  respectively. The range of the increases was. $\$5-\$160.$ It seems highly unlikely that a median initial consent payment of $\$15$ could not induce coercion while an addition of $\$18.40$ could And the coercion hypothesis cannot explain the wide range ofimprovement in payment terms. The bondholder coordination hypothesis,  however,  easily explains these increases as efforts,  in each particular. Instance,  to satisfy bondholders In summary,  the empirical evidence is inconsistent with the hypothe-.
-
-Sis that firms systematically coerce bondholders into consenting to
-
-------------------------------------------------------------------
-
-Modifications at disadvantageous terms. This evidence also supports the hypothesis that actual or potential coordination allows bondholders to realize some of the gains expected from covenant modifications.
+Across 19 increases in payment terms after an initial unsuccessful solicitation,  the average and median increases were $S40.28$ and $\$18.40$ per $\$1, 000$ face amount,  respectively. The range of the increases was. $\$5-\$160.$ It seems highly unlikely that a median initial consent payment of $\$15$ could not induce coercion while an addition of $\$18.40$ could And the coercion hypothesis cannot explain the wide range ofimprovement in payment terms. The bondholder coordination hypothesis,  however,  easily explains these increases as efforts,  in each particular. Instance,  to satisfy bondholders In summary,  the empirical evidence is inconsistent with the hypothesis that firms systematically coerce bondholders into consenting to modifications at disadvantageous terms. This evidence also supports the hypothesis that actual or potential coordination allows bondholders to realize some of the gains expected from covenant modifications.
 
 ### VI. Conclusion
 
@@ -401,13 +330,9 @@ Public debt can be renegotiated more easily than has been assumed in the academi
 
 ```latex
 \begin{document}
+\textbf{List of Issuers} \\[4mm]
 
-\begin{center}
-\textbf{Appendix A} \\
-\textbf{List of Issuers}
-\end{center}
-
-\begin{tabular}{|p{5cm}|p{5cm}|}
+\begin{tabular}{|p{6cm}|p{6cm}|}
 \hline
 Alleco & Container Corp. of North America \\
 Ambassador General & Continental Cablevision \\
@@ -440,17 +365,9 @@ Revlon & Western Co. of North America \\
 SCI Holdings & \\
 \hline
 \end{tabular}
+
 \end{document}
 ```
-
-Container Corp. Of North America Continental Cablevision Cooper Companies Days Inns of America Dr Pepper/Seven Up E-II Holdings E.F.Hutton Group Farley Fiber Industries Foodmaker Forstmann GAF Hammond Harvard Industries Holiday Lamson & Sessions
-
-Alleco Ambassador General American Medical International Andrews Group/Compact Video Astrex Bally Manufacturing Beatrice Best Products Borg-Warner BT Acquisition Bucyrus-Erie Cain Chemical Catalyst Energy Charter Medical Circus Circus Color Tile
-
-
-Servico Sterling Software Tele-Communications Texstyrene Thermadyne Industries Triangle Industries/Trian Holdings Triangle Pacific Union Bancorp Union Valley U.S.West Western Co. Of North America
-
-Lear Petroleum Levi Strauss Associates Magma Copper Memorex Telex International Nichols (S.E.) NRM Energy P&CFood Markets Pay'n Save/PNS Peebles Ramada Revlon SCI Holdings
 
 ## Appendix B
 
