@@ -111,91 +111,18 @@ had been steadily rising from 2003 through 2007, which coincides with the CLO ex
 
 Source: Ulf Axlelson et al., "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts," *Journal of Finance*, November 12, 2013, p. 2235.
 
-![8_image_0.png](8_image_0.png)
-
-US Issuers Non-US Issuers
-
 ##### Exhibit 2 Annual Syndicated Loan Issuance, Global Market (billion U.S. dollars)
 Source: Thomson Reuters LPC.
 
-| All Syndicated Loans               | FY 2016   |               |            |       |
-|------------------------------------|-----------|---------------|------------|-------|
-| Mkt. Share                         | Volume    |               |            |       |
-| Rank                               | (%)       | (USD Million) | Deal Count |       |
-| Bank of America Merrill Lynch      | 1         | 12.683        | 303,173    | 1,315 |
-| JP Morgan                          | 2         | 12.516        | 299,180    | 1,196 |
-| Wells Fargo                        | 3         | 8.075         | 193,031    | 936   |
-| Citi                               | 4         | 7.518         | 179,707    | 647   |
-| Barclays                           | 5         | 4.833         | 115,523    | 528   |
-| Goldman Sachs                      | 6         | 4.651         | 111,183    | 516   |
-| Credit Suisse                      | 7         | 3.977         | 95,061     | 477   |
-| Morgan Stanley                     | 8         | 3.899         | 93,205     | 377   |
-| Deutsche Bank                      | 9         | 3.855         | 92,145     | 446   |
-| RBC Capital Markets                | 10        | 3.232         | 77,253     | 385   |
-| Mitsubishi UFJ Financial Group Inc | 11        | 2.785         | 66,574     | 314   |
-| US Bancorp                         | 12        | 2.235         | 53,429     | 345   |
-| SunTrust Robinson Humphrey         | 13        | 2.199         | 52,564     | 392   |
-| PNC Financial Services Group Inc.  | 14        | 1.841         | 44,010     | 313   |
-| Jefferies                          | 15        | 1.773         | 42,372     | 240   |
-| BNP Paribas                        | 16        | 1.699         | 40,608     | 177   |
-| BMO Capital Markets                | 17        | 1.698         | 40,588     | 343   |
-| Mizuho Financial                   | 18        | 1.600         | 38,247     | 181   |
-| HSBC                               | 19        | 1.529         | 36,545     | 171   |
-| UBS                                | 20        | 1.130         | 27,014     | 152   |
-| TOTAL                              | 100%      | 2,390,342     | 3,851      |       |
-| Leveraged Loans                    | FY 2016   |               |            |       |
-| Mkt. Share                         | Volume    |               |            |       |
-| Rank                               | (%)       | (USD Million) | Deal Count |       |
-| Bank of America Merrill Lynch      | 1         | 9.821         | 140,932    | 776   |
-| JP Morgan                          | 2         | 9.818         | 140,892    | 689   |
-| Goldman Sachs                      | 3         | 6.890         | 98,873     | 472   |
-| Credit Suisse                      | 4         | 6.135         | 88,033     | 449   |
-| Barclays                           | 5         | 6.055         | 86,893     | 411   |
-| Wells Fargo                        | 6         | 5.878         | 84,345     | 459   |
-| Morgan Stanley                     | 7         | 5.744         | 82,421     | 338   |
-| Citi                               | 8         | 5.629         | 80,777     | 366   |
-| Deutsche Bank                      | 9         | 5.368         | 77,035     | 396   |
-| RBC Capital Markets                | 10        | 4.147         | 59,511     | 311   |
-| Jefferies                          | 11        | 2.951         | 42,347     | 239   |
-| SunTrust Robinson Humphrey         | 12        | 2.568         | 36,854     | 297   |
-| BMO Capital Markets                | 13        | 1.942         | 27,862     | 263   |
-| UBS                                | 14        | 1.766         | 25,337     | 145   |
-| Kohlberg Kravis Roberts & Co       | 15        | 1.692         | 24,278     | 85    |
-| Mitsubishi UFJ Financial Group Inc | 16        | 1.496         | 21,472     | 113   |
-| Macquarie                          | 17        | 1.467         | 21,054     | 128   |
-| PNC Financial Services Group Inc   | 18        | 1.413         | 20,276     | 144   |
-| HSBC                               | 19        | 1.339         | 19,208     | 108   |
-| Antares Capital LP                 | 20        | 1.273         | 18,265     | 184   |
-|                                    |           |               |            |       |
-| TOTAL                              | 100%      | 1,435,015     | 2,575      |       |
+![](Preview%202024-09-27%2000.48.56.png)
+![](Preview%202024-09-27%2000.49.08.png)
+![](Preview%202024-09-27%2000.49.14.png)
+
+
 
 ##### Exhibit 3 **(continued)**
 
-| LBO Loans                     | FY 2016   |               |            |     |
-|-------------------------------|-----------|---------------|------------|-----|
-| Mkt. Share                    | Volume    |               |            |     |
-| Rank                          | (%)       | (USD Million) | Deal Count |     |
-| Jefferies                     | 1         | 9.047         | 13,159     | 100 |
-| Credit Suisse                 | 2         | 6.908         | 10,047     | 91  |
-| Bank of America Merrill Lynch | 3         | 6.295         | 9,156      | 73  |
-| Goldman Sachs                 | 4         | 6.091         | 8,860      | 80  |
-| Antares Capital LP            | 5         | 5.910         | 8,595      | 91  |
-| Morgan Stanley                | 6         | 5.898         | 8,579      | 56  |
-| Barclays                      | 7         | 5.806         | 8,445      | 78  |
-| RBC Capital Markets           | 8         | 5.119         | 7,446      | 65  |
-| Macquarie                     | 9         | 4.618         | 6,717      | 50  |
-| Citi                          | 10        | 4.330         | 6,297      | 40  |
-| Deutsche Bank                 | 11        | 3.999         | 5,817      | 57  |
-| JP Morgan                     | 12        | 3.925         | 5,709      | 41  |
-| Nomura                        | 13        | 3.192         | 4,642      | 26  |
-| BMO Capital Markets           | 14        | 2.712         | 3,945      | 67  |
-| Kohlberg Kravis Roberts & Co  | 15        | 2.372         | 3,450      | 22  |
-| SunTrust Robinson Humphrey    | 16        | 2.353         | 3,423      | 37  |
-| Wells Fargo                   | 17        | 2.246         | 3,266      | 28  |
-| UBS                           | 18        | 2.224         | 3,235      | 26  |
-| Golub Capital LLC             | 19        | 1.927         | 2,803      | 26  |
-| Citizens Financial Group Inc  | 20        | 1.833         | 2,666      | 33  |
-| TOTAL                         | 100%      |               | 145,445    | 426 |
+
 
 Source: Bloomberg, Syndicated Loans League Tables, FY 2017.
 
@@ -207,104 +134,49 @@ Lead share (%) Net % of respondants tightening standards for C&I loans Source: V
 
 Note: The graph is compiled from the DealScan database of loan originations and corresponds to U.S. nonfinancial syndicated loans. Data on credit standard tightening comes from Federal Reserve Senior Loan Officer Opinion Survey on Bank Lending Practices. The series corresponds to the net percentage of domestic respondents tightening standards for commercial and industrial (C&I) loans to large and medium-sized firms. Lead share is a three-month rolling window average (equally weighted). The horizontal axis is modified to match the timing of the survey. Shaded areas indicate U.S. economic recessions as defined by NBER. 
 
-![12_image_0.png](12_image_0.png)
+![](Preview%202024-09-27%2000.49.23.png)
 
 Source: S&P Capital IQ, Leveraged Commentary & Data.
 
 Note: Includes investor groups that either participated in three or more loans or made $10 million of commitments.
 
 ##### Exhibit 6 Leveraged Loans Holdings by Investor Type
+![](Preview%202024-09-27%2000.49.27.png)
+![](Preview%202024-09-27%2000.49.36.png)
 
-| Asian      | Canadian                  | European   | Finance   |                     |       |      |       |
-|------------|---------------------------|------------|-----------|---------------------|-------|------|-------|
-| Bank       | Bank                      | Bank       | Co.       | CLOs, Ins.  Comp. & |       |      |       |
-|            | Loan, Hedge  & High-Yield | Securities | U.S.      |                     |       |      |       |
-|            | Funds                     | Firm       | Bank      |                     |       |      |       |
-| 1994       | 17.2%                     | 5.3%       | 18.6%     | 4.9%                | 23.5% | 1.1% | 29.5% |
-| 1995       | 14.1%                     | 4.7%       | 19.1%     | 5.1%                | 22.6% | 1.4% | 33.1% |
-| 1996       | 11.0%                     | 5.9%       | 17.4%     | 3.1%                | 30.0% | 2.9% | 29.7% |
-| 1997       | 11.1%                     | 3.5%       | 15.8%     | 4.1%                | 32.4% | 3.8% | 29.3% |
-| 1998       | 7.1%                      | 7.3%       | 21.0%     | 4.5%                | 30.6% | 1.8% | 27.8% |
-| 1999       | 3.7%                      | 4.6%       | 14.7%     | 6.5%                | 41.7% | 0.5% | 28.3% |
-| 2000       | 4.3%                      | 5.0%       | 10.1%     | 4.3%                | 49.3% | 1.6% | 25.4% |
-| 2001       | 1.5%                      | 2.6%       | 8.4%      | 9.2%                | 52.4% | 2.2% | 23.6% |
-| 2002       | 1.7%                      | 2.2%       | 9.1%      | 7.6%                | 59.9% | 2.0% | 17.5% |
-| 2003       | 1.1%                      | 1.6%       | 6.5%      | 9.2%                | 66.6% | 0.6% | 14.4% |
-| 2004       | 3.8%                      | 1.5%       | 11.4%     | 6.4%                | 63.6% | 1.4% | 12.0% |
-| 2005       | 3.1%                      | 1.2%       | 8.5%      | 7.0%                | 66.9% | 1.1% | 12.3% |
-| 2006       | 2.3%                      | 0.9%       | 7.5%      | 5.9%                | 73.9% | 2.0% | 7.5%  |
-| 2007       | 2.2%                      | 1.2%       | 5.8%      | 3.8%                | 79.2% | 2.3% | 5.5%  |
-| 2008       | 2.3%                      | 2.3%       | 9.0%      | 6.9%                | 65.2% | 3.5% | 10.8% |
-| 2009       | 0.6%                      | 3.4%       | 7.2%      | 4.6%                | 65.1% | 4.7% | 14.3% |
-| 2010       | 1.6%                      | 1.6%       | 4.6%      | 4.6%                | 77.4% | 1.9% | 8.3%  |
-| 2011       | 2.1%                      | 1.9%       | 5.1%      | 4.2%                | 77.0% | 1.3% | 8.5%  |
-| 2012       | 1.3%                      | 0.9%       | 3.2%      | 2.3%                | 84.8% | 1.2% | 6.3%  |
-| 2013       | 1.1%                      | 0.9%       | 3.4%      | 2.3%                | 83.6% | 1.7% | 7.0%  |
-| 2014       | 0.8%                      | 0.8%       | 2.9%      | 1.5%                | 88.2% | 1.5% | 4.4%  |
-| 2015       | 1.7%                      | 1.1%       | 2.5%      | 1.4%                | 84.8% | 1.6% | 6.9%  |
-| 2016       | 1.3%                      | 1.2%       | 2.7%      | 1.2%                | 86.8% | 1.9% | 5.0%  |
-| 2017       | 1.5%                      | 1.0%       | 2.4%      | 0.9%                | 88.6% | 1.2% | 4.3%  |
-| YTD Sep 18 | 0.8%                      | 0.5%       | 2.7%      | 1.1%                | 90.5% | 1.1% | 3.3%  |
+
 
 ##### Exhibit 6 (Continued)
 Subset of the above:
+![](Preview%202024-09-27%2000.49.40.png)
+![](CleanShot%202024-09-27%20-002906@2x.png)
 
-| Traditional  Accounts   |                |        |        |
-|-------------------------|----------------|--------|--------|
-| (Prime Funds,  CLOs)    |                |        |        |
-| RelativeValue                         | Other  (Finco, |        |        |
-|                         | Insurance)     |        |        |
-| 2002                    | 1.05%          | 86.96% | 11.99% |
-| 2003                    | 9.80%          | 77.20% | 13.00% |
-| 2004                    | 9.25%          | 79.48% | 11.27% |
-| 2005                    | 11.73%         | 79.61% | 8.66%  |
-| 2006                    | 16.89%         | 73.42% | 9.70%  |
-| 2007                    | 26.82%         | 65.81% | 7.37%  |
-| 2008                    | 32.00%         | 57.94% | 10.06% |
-| 2009                    | 31.82%         | 59.30% | 8.88%  |
-| 2010                    | 32.60%         | 57.58% | 9.82%  |
-| 2011                    | 30.09%         | 59.38% | 10.53% |
-| 2012                    | 22.69%         | 70.64% | 6.68%  |
-| 2013                    | 8.79%          | 84.68% | 6.53%  |
-| 2014                    | 9.80%          | 84.02% | 6.18%  |
-| 2015                    | 10.93%         | 82.55% | 6.53%  |
-| 2016                    | 6.86%          | 85.99% | 7.15%  |
-| 2017                    | 5.55%          | 87.40% | 7.05%  |
-| YTD Sep 18              | 6.34%          | 87.06% | 6.61%  |
 
 Source: Standard & Poor's, Leveraged Data and Commentary.
 
 
-
-![15_image_0.png](15_image_0.png)
-
-![16_image_0.png](16_image_0.png)
-
-![16_image_1.png](16_image_1.png)
-
 ##### Exhibit 9 Total Loan Fund Assets under Management (billion U.S. dollars)
 Year-end data points Monthly data points Source: Standard & Poor's, Leveraged Data and Commentary.
-
+![](Preview%202024-09-27%2000.50.53.png)
 ##### Exhibit 10 Average Leveraged Loan Multiples of EBITDA
 
-![17_image_0.png](17_image_0.png)
+![](Preview%202024-09-27%2000.51.01.png)
 
 First Lien Second Lien LBO
 Source: Standard & Poor's, Leveraged Data and Commentary.
 
 Note: Includes borrowers with EBITDA of more than $50 million.
 
-![18_image_1.png](18_image_1.png)
+
 
 Source: Standard & Poor's, Leveraged Data and Commentary.
 
-![18_image_0.png](18_image_0.png)
 
 Source: Standard & Poor's, Leveraged Data and Commentary.
 
 ##### Exhibit 11 Volume and Fraction of Covenant-Lite Loans
 1 KPMG, *Credit Markets Update December 31, 2017* 2 Bloomberg, *Global Syndicated League Tables FY 2017* 20
-
+![](Preview%202024-09-27%2000.51.12.png)
 ## Endnotes
 
 3 Loan Syndications and Trading Association, *2017 Secondary Trading & Settlement Summary: A Record Year for Trading* , January 30, 2018. 
