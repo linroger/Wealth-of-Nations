@@ -70,7 +70,7 @@ Based on *The Only Game in Town* by Glosten-Milgrom.
    $$ \text{ask} - \left(\frac{1}{2} \times 1 + \frac{1}{2} \times 0\right) = \text{ask} - \frac{1}{2}. $$
 
    The average profit is the average of these two "profits,  " so break-even is when:
-   $$ \frac{1}{2} \times (\text{ask} - 1) + \frac{1}{2} \times (\text{ask} - \frac{1}{2}) = 0,    $$
+   $$ \frac{1}{2} \times (\text{ask} - 1) + \frac{1}{2} \times (\text{ask} - \frac{1}{2}) = 0,     $$
    or $\text{ask} = \frac{3}{4}$.
 
    (Equivalently,  $\frac{3}{4}$ is the expected value of the stock given a buy order).
@@ -83,7 +83,7 @@ Based on *The Only Game in Town* by Glosten-Milgrom.
    $$ \left(\frac{1}{2} \times 1 + \frac{1}{2} \times 0\right) - \text{bid} = \frac{1}{2} - \text{bid}. $$
 
    A similar calculation to that for the ask price,  but for the bid price solves:
-   $$ \frac{1}{2} \times (0 - \text{bid}) + \frac{1}{2} \times \left(\frac{1}{2} - \text{bid}\right) = 0,    $$
+   $$ \frac{1}{2} \times (0 - \text{bid}) + \frac{1}{2} \times \left(\frac{1}{2} - \text{bid}\right) = 0,     $$
    or $\text{bid} = \frac{1}{4}$.
 
    (Equivalently,  $\frac{1}{4}$ is the expected value of the stock given a sell order).
