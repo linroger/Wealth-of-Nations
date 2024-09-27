@@ -45,7 +45,7 @@ Exclusivity period - the initial 120-day period immediately following the petiti
 Fraudulent transfer - transfer of assets from the company when the company is insolvent,  makes the company insolvent,  or is not at fair market value.
 
 Impaired claim - A claim that under a given plan of reorganization will return less than 100 cents on the dollar to its owners. Creditors whose claims are impaired but not wiped out have the right to vote on the plan of reorganization. (Owners of claims that are wiped out,  for example,  common stockholders are "deemed to reject" the plan and do not vote.)
-Involuntary petition - a bankruptcy filing submitted by the creditors of a company rather than the company itself. An involuntary petition requires the participation of no fewer than three creditors with *bona fide* claims of at least $10, 000.
+Involuntary petition - a bankruptcy filing submitted by the creditors of a company rather than the company itself. An involuntary petition requires the participation of no fewer than three creditors with *bona fide* claims of at least $10,  000.
 
 Liquidation - In Chapter 7,  the process by which the debtor’s assets are identified and sold,  and the proceeds distributed to creditors. Liquidation is administered by a government-appointed trustee.
 
