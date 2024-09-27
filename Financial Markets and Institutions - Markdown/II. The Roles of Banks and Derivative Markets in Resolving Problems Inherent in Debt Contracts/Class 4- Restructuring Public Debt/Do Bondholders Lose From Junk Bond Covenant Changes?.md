@@ -397,7 +397,7 @@ Public debt can be renegotiated more easily than has been assumed in the academi
 
 ### Appendix A
 
-### List ofIssuers
+### List of Issuers
 
 Container Corp. Of North America Continental Cablevision Cooper Companies Days Inns of America Dr Pepper/Seven Up E-II Holdings E.F.Hutton Group Farley Fiber Industries Foodmaker Forstmann GAF Hammond Harvard Industries Holiday Lamson & Sessions
 
@@ -411,6 +411,44 @@ Lear Petroleum Levi Strauss Associates Magma Copper Memorex Telex International 
 
 ## Appendix B
 
+### Proofs of Propositions 1 and 2
+
+There are **N + 1** players with an approval threshold of **M + 1**. From the point of view of any player, the strategies of other players can be described by the number who plan to consent, **Y**, and the number who plan to withhold consent, **N - Y**. Let **q** be the probability that a particular player errs, that is, that he does not play his Nash strategy. Let **λ** be the probability that at least **M + 1** of the other **N** holders consent. Let **θ** be the probability that exactly **M** of the other **N** holders consent. Let **μ** be the probability that at most **M - 1** of the other **N** players consent.
+
+### Lemma:
+If **Y ≥ M + 1**, then **θ/λ → 0** as **q → 0**.  
+If **Y ≤ M**, then **θ/λ → ∞** as **q → 0**.
+
+### Proof:
+The probabilities **θ** and **λ** are given by the following expressions:
+
+$$
+θ = \sum_{i+1\ge M} \binom{Y}{i} \binom{N - Y}{j} q^{Y - i + j} (1 - q)^{i + N - Y - j}
+$$
+
+$$
+λ = \sum_{k=M+1+i+j=k} \binom{Y}{i} \binom{N - Y}{j} q^{Y - i + j} (1 - q)^{i + N - Y - j}
+$$
+
+As **q → 0**, only the terms with the smallest exponents of **q** contribute to the summations. Therefore, as **q → 0**:
+$$
+θ ≈
+\begin{cases}
+\binom{N - Y}{M - Y} q^{M - Y} (1 - q)^{N - M + Y}, & \text{if } M ≥ Y \\
+\binom{Y}{M} q^{Y - M} (1 - q)^{M + N - Y}, & \text{if } M < Y
+\end{cases}$$
+
+$$
+
+λ ≈
+\binom{N - Y}{M + 1 - Y} q^{M + 1 - Y} (1 - q)^{N - M - 1 + Y}, \quad \text{if } M + 1 ≥ Y
+$$
+
+
+Finally, taking the ratio **θ/λ** leaves a positive power of **q** in the numerator when **Y ≥ M + 1** and a positive power of **q** in the denominator when **Y ≤ M**.
+
+
+Let me know if you'd like any further adjustments!
 ### Proofs of Propositions 1 and 2
 
 There are $N+1$ players with an approval threshold of $M+1$ From the point ofview of any player,  the strategies of other players can be described by the number who plan to consent,  $Y$ ,  and the number who plan to withhold consent,  $N-Y.$ Let $q$ be the probability that a particular player errs,  that is,  that he does not play his Nash strategy. Let 入 be the probability that at least $M+1$ of the other $N$ holders consent. Let $\theta$ be the probability that exactly M of the other $N$ holders consent. Let $\mu$ be the probability that at most $M-1$ of the other $N$ players consent LEMMA. If $Y\geq M+1$ , then $\Theta/\lambda\rightarrow0$ as $q\rightarrow0$ If $Y\leq M$ , then $\Theta/\lambda\rightarrow0$
