@@ -1,6 +1,7 @@
 ---
 title: Class Note 5A Coercive Exchange Offers and Exit Consents
 ---
+
 # Class Note 5A Coercive Exchange Offers and Exit Consents
 
 ### Class Note 5A: Coercive Exchange Offers and Exit Consents

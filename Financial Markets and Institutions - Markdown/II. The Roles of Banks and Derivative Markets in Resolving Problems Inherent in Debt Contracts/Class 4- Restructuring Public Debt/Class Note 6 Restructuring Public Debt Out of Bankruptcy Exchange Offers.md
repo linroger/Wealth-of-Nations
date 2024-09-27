@@ -19,7 +19,7 @@ Suppose that you own 1% of the old bonds,  with face value 0.016. Your return fr
 
 1. **Suppose that you expect the offer to succeed**,  for example,  because every other holder tenders,  and $f=0.99$. You choose between tendering and "holding out" by not tendering.
 
-   A. To determine what you get if you tender,  do the following calculation. If you tender,  then all are tendered. Your new bond is paid (1% of) 1 when the firm is worth 2,  and worth (1% of) $1-0.3=0.7$ when the firm is worth 1 (this is because the bank has a senior claim on 0.3). The expected value of this claim is $(1\% \,    of) \,    0.2(1) + 0.6(0.7) = 0.62$. 1% of 0.62 is 0.0062.
+   A. To determine what you get if you tender,  do the following calculation. If you tender,  then all are tendered. Your new bond is paid (1% of) 1 when the firm is worth 2,  and worth (1% of) $1-0.3=0.7$ when the firm is worth 1 (this is because the bank has a senior claim on 0.3). The expected value of this claim is $(1\% \,     of) \,     0.2(1) + 0.6(0.7) = 0.62$. 1% of 0.62 is 0.0062.
 
    B. If,  instead,  you hold out and refuse to tender the bond,  the offer will still succeed (because only 99% is needed). Then your bond is senior to the public bonds that tender: you will get paid before those that tender when the firm is worth 1. The bank is first paid 0.3,  leaving $1-0.3=0.7$. This means you are paid the full face value of 0.016 if you hold out instead of exchanging. You receive 0.016 when the firm is worth 1 and when it is worth 2: as a holdout,  you receive 0.016 with probability 0.8,  an expected value of 0.0128. This exceeds the 0.0062 that you get from tendering your bond.
 
@@ -43,7 +43,7 @@ Keep everything from the last example,  except let the bonds with face $P'=1$ of
 
 As before,  suppose that you own 1% of the bonds,  and you expect all of the other bonds to tender ($f=0.99$). If you tender,  all of the bonds are tendered,  and you get 1% of $1-B=1-0.3=0.7$,  or 0.007. Your expected return from tendering is then:
 
-$$ (1\% \,    of) \,    q_2 P' + q_1 (1 - B) = (1\% \,    of) \,    0.2(1) + 0.6(0.7) = (1\% \,    of) \,    0.62 $$
+$$ (1\% \,     of) \,     q_2 P' + q_1 (1 - B) = (1\% \,     of) \,     0.2(1) + 0.6(0.7) = (1\% \,     of) \,     0.62 $$
 
 This is 0.0062.
 
@@ -51,7 +51,7 @@ If you hold out,  then those who tender are senior to you. When the firm is wort
 
 By holding out,  you will get $P=1.6$ when the firm is worth 2,  and nothing otherwise. Your expected payment from holding out is then:
 
-$$ (1\% \,    of) \,    q_1 P = (1\% \,    of) \,    0.2(1.6) $$
+$$ (1\% \,     of) \,     q_1 P = (1\% \,     of) \,     0.2(1.6) $$
 
 or 0.0032. This is less than the 0.0062 that you obtain from exchanging your bond. Therefore if you expect the offer to succeed,  you exchange. A prophecy that the offer to exchange will succeed is self-fulfilling.
 
