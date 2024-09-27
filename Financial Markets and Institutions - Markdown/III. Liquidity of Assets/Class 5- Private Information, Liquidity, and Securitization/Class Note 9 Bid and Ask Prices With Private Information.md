@@ -104,5 +104,4 @@ Based on *The Only Game in Town* by Glosten-Milgrom.
 - **Private information implies that buying or selling a security will move the price**,
    even if you have no information and the market is competitive.
 
-- **Market efficiency** is consistent with the ability to make money by trading if you have private information
-   (but it is often difficult to tell if you have information that is really private!).
+- **Market efficiency** is consistent with the ability to make money by trading if you have private information (but it is often difficult to tell if you have information that is really private!).
