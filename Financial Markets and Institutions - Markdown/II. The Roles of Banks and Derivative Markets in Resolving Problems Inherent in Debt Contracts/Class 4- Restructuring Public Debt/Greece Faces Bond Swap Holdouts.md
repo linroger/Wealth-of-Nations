@@ -16,7 +16,7 @@ ATHENS--The overall participation rate in an unprecedented Greek debt-restructur
 
 The official said 97% of the bonds involved in Greece's debt restructuring agreement,  which cleared the way for its $\euro 130$ billion ($173 billion) bailout,  have been tendered in the swap,  exceeding the 95% target the country was aiming for under the plan.
 
-"We want to achieve a maximum participation from the remaining $\euro6.4$ billion still outstanding, " the official said.
+"We want to achieve a maximum participation from the remaining $\euro6.4$ billion still outstanding,  " the official said.
 
 His comments come after investors holding 16 foreign-laws bonds last week agreed to key changes allowing amendments in bond contracts to force the remaining investors into the plan.
 
@@ -36,7 +36,7 @@ Bondholders possessing $\euro 199$ billion out of the total $\euro$206 billion b
 
 Earlier,  the Public Debt Management Agency said investors holding 20 of the 36 bonds that haven't yet been included in the swap agreement have either voted down or otherwise failed to approve key changes to the bond contracts. The PDMA statement came after a series of bondholder meetings held between March 27 to 29.
 
-"The Republic accepted the effective amendment of all series where the extraordinary resolutions were approved by the requisite majority and re-opened the consent solicitation for all series where meetings have been adjourned to April 18, " it said. Apart from the bondholders who postponed meetings,  a previous April 4 deadline for participation in the foreign-law bond swap still applies,  as does a scheduled April 11 settlement date.
+"The Republic accepted the effective amendment of all series where the extraordinary resolutions were approved by the requisite majority and re-opened the consent solicitation for all series where meetings have been adjourned to April 18,  " it said. Apart from the bondholders who postponed meetings,  a previous April 4 deadline for participation in the foreign-law bond swap still applies,  as does a scheduled April 11 settlement date.
 
 The euro-zone ministers said they had been "informed that a failure to make timely payment of Greece's eligible foreign law bonds that are not exchanged does not constitute an event of default under Greece's new bonds issued in the exchange."
 

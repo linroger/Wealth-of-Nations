@@ -16,13 +16,11 @@ Stable URL: http://www.jstor.com/stable/2353184
 
 ## I.Introduction
 
-It has longbeen recognized thatfinancial debt covenants can reduce the agency costs of debt and thereby increase the value of the firm. But there is noguarantee that covenantswhich were optimal when the debt was issued remain optimal over time. 2 As a firm's economic environment changes and as its investment opportunities vary,  therenegotiation of covenants may be desirable. Most researchers have assumed that it is not cost-effective to renegotiate the covenants of diffusely held public debt securities and,  as a result,  havefocused on the renegotiation of bank or privately placed debt. 
-
+It has longbeen recognized thatfinancial debt covenants can reduce the agency costs of debt and thereby increase the value of the firm. But there is noguarantee that covenantswhich were optimal when the debt was issued remain optimal over time. 2 As a firm's economic environment changes and as its investment opportunities vary,  therenegotiation of covenants may be desirable. Most researchers have assumed that it is not cost-effective to renegotiate the covenants of diffusely held public debt securities and,  as a result,  havefocused on the renegotiation of bank or privately placed debt.
 
 1. See,  e.g.,  Kalay and John (1982),  who analyze the optimal structure and covenants which restrict dividend payments. 3. See,  e.g.,  Bulow and Shoven (1978),  Berlin and Loeys
 
 This article documents that firms can and do change the covenants of their public debt indentures through consent solicitations. A game-theoretic model shows that bondholders may consent to covenant changes even when it is not in thein collective interest to do so. Despite this finding,  bondholder returns around solicitations are positive. Further analysis indicates that bond holders coordinate their actions to modify or defeat disadvantageous proposals and therefore can demand some of the gains resulting from covenant modifications. The policy implication of this study is that bondhold ers may not need additional regulatory or judicial protection in the solicitation process,
-
 
 The first goal of this article is to document that firms can and do change the covenants of their public debt securities through consent solicitations. Section II describes the mechanics of soliciting bondholder consents and presents summary statistics on a sample of solicitations which took place during the years 1988 and 1989. The following conclusions are reported and explained. (1) Consent solicitations rarely involve investment grade debt andusually seek to modify more than one bond issue at a time. (2) Some firms ask for covenant changes alone while others combine consent solicitations with exchange offers or tender offers. (3) Consent solicitations generally propose to remove or relax covenants that are thought to prevent stockholder expropriation of bondholder wealth,  for example,  covenants that restrict a company's ability to pay dividends,  to incur additional debt,  to engage in transactions with a controlling shareholder,  or to sell assets without forcing the purchaser to assume the company's obligations with respect to the bonds. (4) Most solicitations are ultimately successful,  although many of the original proposals require modification before receiving bondholder approval SectionIII begins with a game-theoretic analysis of consent solicita-
 
@@ -36,16 +34,15 @@ Pensating bondholders is consistent with the Asquith and Wizman 1990) and Cook, 
 
 ## II. The Mechanics of Consent Solicitations: Description and Summary Statistics
 
-The TrustIndenture Act of 1939 and most indenturesprohibit the alteration of interest or principal provisions without the consent of each bondholder affected by the changes. Other terms of the indenture,  however,  may be changed with less than unanimous approval. In fact, most indenture agreements provide for covenant modifications with the consent of either a majority or 2/3 of the outstanding face value of the bond issue. In the simplest form of a consent solicitation,  the issuer mails a
+The TrustIndenture Act of 1939 and most indenturesprohibit the alteration of interest or principal provisions without the consent of each bondholder affected by the changes. Other terms of the indenture,  however,  may be changed with less than unanimous approval. In fact,  most indenture agreements provide for covenant modifications with the consent of either a majority or 2/3 of the outstanding face value of the bond issue. In the simplest form of a consent solicitation,  the issuer mails a
 
-solicitation statement to each holder of a certain bond issue. This statement describes the proposed modifications to the indenture under which the bonds were issued and asks bondholders to consent to these modifications on or before a particular date. The firm usually offers a consent payment as an inducement to consent,  for example,  \$10 for every $S1, 000$ principal amount owned. If the issuer receives the requi-. Site number of consents,  it executes a supplemental indenture incorporating the modifications and sends consent payments to those bondholders who consented before the deadline. Note,  however,  that these covenant changes bind all bondholders,  consenting or not. If the issuer does not receive a sufficient number of consents,  or
+solicitation statement to each holder of a certain bond issue. This statement describes the proposed modifications to the indenture under which the bonds were issued and asks bondholders to consent to these modifications on or before a particular date. The firm usually offers a consent payment as an inducement to consent,  for example,  \$10 for every $S1,   000$ principal amount owned. If the issuer receives the requi-. Site number of consents,  it executes a supplemental indenture incorporating the modifications and sends consent payments to those bondholders who consented before the deadline. Note,  however,  that these covenant changes bind all bondholders,  consenting or not. If the issuer does not receive a sufficient number of consents,  or
 
 Does not anticipate that it will receive a sufficient number,  it can terminate the solicitation or extend the deadline. Ifit chooses to extend the deadline,  it may also sweeten the solicitation by raising the consent payment or by proposing a more appealing set of modifications. No consent payments are made,  however,  if the solicitation ultimately fails. Consent solicitations are often combined with exchange or tender
 
 Offers. Consents in such offers are called exit consents because bondholders vote on the modifications immediately before tendering their securities. In these situations firms usually allow only consenting bondholders toparticipate in the exchange or tender offer,  that is,  frms require exit consents. As a result,  if a sufficient number of bondholders tender their securities and consent to the terms of the solicitation,  dissenting bondholders suffer a loss of covenant protection without receiving any form of compensation. These solicitations may or may not offer consent payments in addition to the opportunity to tender securities From the description of the various forms of consent solicitations
 
 The reader may have already sensed their coercive nature. The analysis of coercion,  however,  is postponed until the following section. The restof this section discusses the data set collectedfor this article and presents some summary statistics withrespect to the practice of consent solicitations. A preliminary sample of solicitation events was collected by searching through 1988 and 1989 news wires. The sample was then pared down in two ways. First,  since this article focuses on the modification of diffusely held public debt,  solicitations that followed negotiations between the firm and itsbondholders were discarded as more closely resembling privately placed debt renegotiation. Second,  because the primary purpose of distressed solicitations is not to modify covenants
-
 
 But to obtain immediate relief in the form of interest deferral and principal forgiveness,  these were also removed from the sample. After these two cuts,  there remained 58 solicitations by 55 distinct issuers with respect to 148 debt issues. Because press releases usually did not contain sufficient information
 about the terms of the consent solicitations and because solicitation documents are often not filed with the SEC,  all of the issuers and the two major solicitation agents (D.F.King & Co. And Georgeson & Co.) were asked to furnish solicitation statements. Some of the information gathered from these documents and from the press releases is reported below. AppendixA lists the issuers of the bonds for which modifications were sought. Only 4 of the 55 sported investment grade ratings (i.e.,  BBB and above by Standard and Poor (S&P),  Baa and above by Moody's). The most obvious reason that investment-grade debt did not make muchof an appearance is thathighlyrated debtrarely carries protective covenants (see Brook 1990). Of the 58 events,  25 were simple consent soliciations,  24 were ac-
@@ -63,29 +60,27 @@ Diluting protective covenants is not in itself a cause for concern. As long as t
 Transactions to Be Consummated if Bondholders Consent to the TABLE 1 Proposed Covenant Modifications
 ![](CleanShot%202024-09-27%20-002940@2x.png)
 
-
 Note.—Issuers in the sample asked bondholders to modify protective covenants in order to permit
 
 These transactions. Otherincludes the acquisition of another company,  a merger of equals,  defensive recapitalization,  the curing of nonpayment defaults,  and the settlement of a lawsuit
 
-
 ### III. A Game-theoretic Analysis of Consent Solicitations
 
-If bondholders can coordinate their actions,  the analysis of consent solicitations is simple: bondholders will accept an issuer's proposal if and only if they benefit from the changes. Consequently,  firms will propose only those changes that increase the value of the firm as a whole andshare at least some of thisincreasedvalue with thebondholders. This section,  therefore,  focuses on situations in which bondholders cannot coordinate their actions. 9 Let there be $N+1$ bondholders,  $N\geq2$ .Each bondholder owns one bond and may consent,  $C$，or not consent,  $NC$ to the proposed indenture amendments. Let $M+1\in([N+1]/2, N]$ , be the approval threshold. If $M$ orless of theholders consent,  the amendments are not adopted and each bond is worth $B$ dollars. If $M+1$ ormoreof the holders consent,  the amendments are adopted and each consenting
+If bondholders can coordinate their actions,  the analysis of consent solicitations is simple: bondholders will accept an issuer's proposal if and only if they benefit from the changes. Consequently,  firms will propose only those changes that increase the value of the firm as a whole andshare at least some of thisincreasedvalue with thebondholders. This section,  therefore,  focuses on situations in which bondholders cannot coordinate their actions. 9 Let there be $N+1$ bondholders,  $N\geq2$ .Each bondholder owns one bond and may consent,  $C$，or not consent,  $NC$ to the proposed indenture amendments. Let $M+1\in([N+1]/2,   N]$ ,  be the approval threshold. If $M$ orless of theholders consent,  the amendments are not adopted and each bond is worth $B$ dollars. If $M+1$ ormoreof the holders consent,  the amendments are adopted and each consenting
 
 ------------------------------------------------------------------
 
-holder receives,  inexchange forhis old bond,  a package of new securities and cash worth a total of $B_{n}$ . In addition,  each consenting holder receives a consent payment of $\$p\geq0$ .At the same time,  each nonconsenting holder keeps his old bond which,  because of the covenant eviscerations,  is now worth $B^{\prime}<B$ Note,  by theway，that a solicitationwithout an exchange or tender offer reduces to the specialcase $B_{n}=B^{\prime}$ Let $S$ denote the vector of actions by the $N+1$ players and let $S_i$
+holder receives,  inexchange forhis old bond,  a package of new securities and cash worth a total of $B_{n}$ . In addition,  each consenting holder receives a consent payment of $\$p\geq0$ .At the same time,    each nonconsenting holder keeps his old bond which,    because of the covenant eviscerations,    is now worth $B^{\prime}<B$ Note,    by theway，that a solicitationwithout an exchange or tender offer reduces to the specialcase $B_{n}=B^{\prime}$ Let $S$ denote the vector of actions by the $N+1$ players and let $S_i$
 
 denote the vector of actions of all players but player $i$ .The payoff functions of the game，following directly from the rules described above,  are as follows:
 
-$$\left.\pi_{i}(C, S_{-i})=\left\{\begin{array}{ll}B_{n}+p&\text{if at least}M+1\text{other holders consent};\\B_{n}+p&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent};\end{array}\right.\right.$$
+$$\left.\pi_{i}(C,   S_{-i})=\left\{\begin{array}{ll}B_{n}+p&\text{if at least}M+1\text{other holders consent};\\B_{n}+p&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent};\end{array}\right.\right.$$
 
-$$\left.\pi_{i}(NC, S_{-i})=\left\{\begin{array}{ll}B'&\text{if at least}M+1\text{other holders consent};\\B&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent}.\end{array}\right.\right.$$
+$$\left.\pi_{i}(NC,   S_{-i})=\left\{\begin{array}{ll}B'&\text{if at least}M+1\text{other holders consent};\\B&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent}.\end{array}\right.\right.$$
 
 If $B_{n}\:+\:p\:\geq\:B$ ,  that is,  if the bondholders weakly benefit from the solicitation,  the weakly dominant strategy equilibrium has everyone consenting. This inequality would hold if the stockholders are willing at least to compensate bondholders for the losses suffered from the removal or weakening of the protective covenants. In that case,  stock holders benefit from the solicitation only if the modifications increase firm value. Assume now that $B_{n}\:+\:p\:<\:B$ .That is,  assume that a successful
 
-solicitation and exchange would lower the value of bondholder positions. There are two possible cases here. If $B_{n}\:+\:p\:<\:B^{\prime}$，so that bondholders are better off holding their original bonds even if the solicitation is successful,  NC weakly dominates and the solicitation is doomed to fail. If,  on the other hand,  $B_{n}\:+\:p\:>\:B^{\prime}$ ,  bondholders prefer tobein the consenting majority rather than be caught in the nonconsenting minority. This is the most interesting case: since $B>B_{n}$ $+p>B^{\prime}$ , bondholders as a group dislike the terms of the solicitation Nevertheless,  an individual bondholder might consent for fear of receiving only $B^{\prime}$ should the solicitation succeed despite his vote.
+solicitation and exchange would lower the value of bondholder positions. There are two possible cases here. If $B_{n}\:+\:p\:<\:B^{\prime}$，so that bondholders are better off holding their original bonds even if the solicitation is successful,  NC weakly dominates and the solicitation is doomed to fail. If,  on the other hand,  $B_{n}\:+\:p\:>\:B^{\prime}$ ,  bondholders prefer tobein the consenting majority rather than be caught in the nonconsenting minority. This is the most interesting case: since $B>B_{n}$ $+p>B^{\prime}$ ,  bondholders as a group dislike the terms of the solicitation Nevertheless,  an individual bondholder might consent for fear of receiving only $B^{\prime}$ should the solicitation succeed despite his vote.
 
 ------------------------------------------------------------------
 
@@ -104,9 +99,6 @@ thatwould make the soliciation more likely to succeed: strengthen the incentive 
 The analysis of this section reveals that requiring bondholders to consent in order to receive consent payments or requiring that they consent in order to participate in the exchange or tender offer can lead to coercive outcomes. Absent both these requirements,  bondholders can vote against covenant changes without forfeiting either consent payments or the right to participate in the exchange offer. In other words,  they may assure themselves of the payoffs available in the event of the solicitation's success without having to contribute to that success. 12 Formally stated,  it is easy to show that without these two requirements bondholders would never approve disadvantageous covenant changes. One may now return to the data and ask whether or not firms structure their consent solicitations in a coercive way. Table 2 answers this question in the affirmative. Of the 48 solicitations for which sufficient modifications (i.e.,  making *consent payments') or conditioning participation in an exchange or tender offer on consenting to covenant modifications (i.e.,  requiring exit consents') may lead individual bondholders to consent to wealth-reducing changes. This table shows the number of consent solicitations that made these consent payments or required exit consents. Solicitations for which the terms could not be obtained are not included.
 
 ![](CleanShot%202024-09-27%20-002938@2x.png)
-
-
-
 
 Information was available,  44 either made consent payments available only to consenting bondholders,  required exit consents,  or did both.
 
@@ -130,12 +122,12 @@ To examine the hypotheses outlined above empirically,  stock and bond price data
 
 Est rate risk,  define the following variables
 
-a: the abnormal return of the bond around the event date,  
+a: the abnormal return of the bond around the event date,
 $P_{-1}$ : the price of the bond before the event date,
 $Y_{-1}$：the yield to maturity of the bond before the event date,
-$P_{+1}$ : the price of thebond after the event date, 
+$P_{+1}$ : the price of thebond after the event date,
 $y_{+1}$ : the yield to maturity of the bond after the event date,
-$\Delta y_T$ : the change in a matched-maturity Treasury yield from before the event date to after the event date,  and 
+$\Delta y_T$ : the change in a matched-maturity Treasury yield from before the event date to after the event date,  and
 ${} \Delta s {}$ : the change in the credit spreadbetweenbonds of similar ratings and Treasuries over the event date.
 
 Let $P(y)$ denote the standard pricing function for a given yield-tomaturity,  y. For all monthly data,  abnormal returns were defined as
@@ -144,7 +136,7 @@ $$a=\{P_{+1}/P_{-1}\}-\{P(y_{-1}+\Delta y_{T}+\Delta s)/P_{-1}\}.$$
 
 This definition adjusts for both interest rate changes and credit spread changes over the event date. Since credit spread data were not available on a daily basis,  daily abnormal returns were defined as
 
-$$a=\{P_{+1}/P_{-1}\}-\{\mathrm{P}(y_{-1}+\Delta y_{T})/P_{-1}\}, $$
+$$a=\{P_{+1}/P_{-1}\}-\{\mathrm{P}(y_{-1}+\Delta y_{T})/P_{-1}\},   $$
 
 Which controls only for interest rate changes. Since the window around the event was typically set between 3 and 5 days,  the failure to control for credit spread changes should not have much of an effect on the results. If a solicitation event involved more than one debt issue,  the abnormal return for the event was taken as the average of the abnormal returns over the issues. Since the abnormal returns of different issues over the same event are likely tobe highly correlated,  the standard deviations of the abnormal returns from these conglomerate issues are comparable to those from individual issues. To the extent that the abnormal returns across issues for a given event are less than perfectly correlated,  the tests of significance reported below would be conservative.
 
@@ -162,12 +154,12 @@ Abnormally positive stock and bond returns provide only indirect evidence in fav
 
 ## A.The Magnitude of Consent Payments
 
-According to the theory of Section II,  consent payments of any magnitude cangenerate outcomes in which bondholders approve harmful indenture modifications. Therefore, "large" consent payments are more indicative of compensation for lost covenant protection and of
+According to the theory of Section II,  consent payments of any magnitude cangenerate outcomes in which bondholders approve harmful indenture modifications. Therefore,  "large" consent payments are more indicative of compensation for lost covenant protection and of
 
 ![500](CleanShot%202024-09-27%20-002937@2x.png)
-Note. For one-sided tests,  $t_{gg}(21)\:=\:1.721$ $\iota_{, \mathrm{os}}(28)$ = 1.701. All stock returns were computed using daily data. Returns were adjusted，alternately,  for changes in thelevel of the S&P 50 o Index andNasdaq Composite Index. One outlier,  with an abnormal return of about 36096 was omitted from this table.
+Note. For one-sided tests,  $t_{gg}(21)\:=\:1.721$ $\iota_{,   \mathrm{os}}(28)$ = 1.701. All stock returns were computed using daily data. Returns were adjusted，alternately,  for changes in thelevel of the S&P 50 o Index andNasdaq Composite Index. One outlier,  with an abnormal return of about 36096 was omitted from this table.
 
-gains sharing than of coercion. But how large is“large''? While this question cannot be answered precisely,  it is useful to note that consent solicitations which ask for very minor and technical changes usually offer bondholders \$1 per $\$1, 000$ face amount aspaymentfor the time and effort expended in filling out the appropriate forms. This article's sample contained one solicitation of that type.) Therefore,  one might argue that consentpayments neednotbe much larger than Sl per $\$1, 000$ to generate coercive outcomes. But,  across 23 solicitations that made consent payments,  16 the average and median payments were $\$20.51$ and $\$15$ per $S1, 000$ face amount,  respectively. Only 2 of the 23 were below $S5$ and 9 of the 23 were above $s20$ .Thelargest two consent payments were \$60 and \$95. Therefore,  consent payments seem more indicative of efforts to satisfy bondholders than indicative of unnecessarily generous attempts at coercion. As evident from the statistics reported in the previous paragraph,
+gains sharing than of coercion. But how large is“large''? While this question cannot be answered precisely,  it is useful to note that consent solicitations which ask for very minor and technical changes usually offer bondholders \$1 per $\$1,  000$ face amount aspaymentfor the time and effort expended in filling out the appropriate forms. This article's sample contained one solicitation of that type.) Therefore,    one might argue that consentpayments neednotbe much larger than Sl per $\$1,  000$ to generate coercive outcomes. But,    across 23 solicitations that made consent payments,    16 the average and median payments were $\$20.51$ and $\$15$ per $S1,  000$ face amount,    respectively. Only 2 of the 23 were below $S5$ and 9 of the 23 were above $s20$ .Thelargest two consent payments were \$60 and \$95. Therefore,  consent payments seem more indicative of efforts to satisfy bondholders than indicative of unnecessarily generous attempts at coercion. As evident from the statistics reported in the previous paragraph,
 
 The size of the consent payments varied considerably across solicitations. This is also consistent with the gains-sharing hypothesis. Each set of bondholders had tobepersuaded to accept theunique set of risks and potential losses which arose from each firm's proposal.
 
@@ -185,11 +177,11 @@ Of the 12 solicitations which were followed by the formation of bondholder group
 
 ## $D$ .The Modification of Issuer Proposals
 
-In 55 events for which data were available，23,  or $42\%$ , of the issuers modified solicitation terms after an initial failure to obtain a sufficient number of bondholder consents. Of these modified solicitations,  the following data were available about the changesproposed by thefirms: 17 increased payment terms (i.e.,  the consent payment,  the tender price,  the promised interest rate,  etc.),  3 requested more moderate covenant changes than initially sought,  and 2 both increased payment terms and requested more moderate covenant changes. The relatively frequent improvement of terms supports the view thatbondholders andstockholders arrive at a mutually satisfactory division of the gains which would result from the proposed transaction
+In 55 events for which data were available，23,  or $42\%$ ,  of the issuers modified solicitation terms after an initial failure to obtain a sufficient number of bondholder consents. Of these modified solicitations,  the following data were available about the changesproposed by thefirms: 17 increased payment terms (i.e.,  the consent payment,  the tender price,  the promised interest rate,  etc.),  3 requested more moderate covenant changes than initially sought,  and 2 both increased payment terms and requested more moderate covenant changes. The relatively frequent improvement of terms supports the view thatbondholders andstockholders arrive at a mutually satisfactory division of the gains which would result from the proposed transaction
 
 ## $E$ .Magnitude of Payment Term Modifications
 
-Across 19 increases in payment terms after an initial unsuccessful solicitation,  the average and median increases were $S40.28$ and $\$18.40$ per $\$1, 000$ face amount,  respectively. The range of the increases was. $\$5-\$160.$ It seems highly unlikely that a median initial consent payment of $\$15$ could not induce coercion while an addition of $\$18.40$ could And the coercion hypothesis cannot explain the wide range ofimprovement in payment terms. The bondholder coordination hypothesis,  however,  easily explains these increases as efforts,  in each particular. Instance,  to satisfy bondholders In summary,  the empirical evidence is inconsistent with the hypothesis that firms systematically coerce bondholders into consenting to modifications at disadvantageous terms. This evidence also supports the hypothesis that actual or potential coordination allows bondholders to realize some of the gains expected from covenant modifications.
+Across 19 increases in payment terms after an initial unsuccessful solicitation,  the average and median increases were $S40.28$ and $\$18.40$ per $\$1,  000$ face amount,    respectively. The range of the increases was. $\$5-\$160.$ It seems highly unlikely that a median initial consent payment of $\$15$ could not induce coercion while an addition of $\$18.40$ could And the coercion hypothesis cannot explain the wide range ofimprovement in payment terms. The bondholder coordination hypothesis,  however,  easily explains these increases as efforts,  in each particular. Instance,  to satisfy bondholders In summary,  the empirical evidence is inconsistent with the hypothesis that firms systematically coerce bondholders into consenting to modifications at disadvantageous terms. This evidence also supports the hypothesis that actual or potential coordination allows bondholders to realize some of the gains expected from covenant modifications.
 
 ### VI. Conclusion
 
@@ -246,11 +238,11 @@ SCI Holdings & \\
 
 ### Proofs of Propositions 1 and 2
 
-There are **N + 1** players with an approval threshold of **M + 1**. From the point of view of any player, the strategies of other players can be described by the number who plan to consent, **Y**, and the number who plan to withhold consent, **N - Y**. Let **q** be the probability that a particular player errs, that is, that he does not play his Nash strategy. Let **λ** be the probability that at least **M + 1** of the other **N** holders consent. Let **θ** be the probability that exactly **M** of the other **N** holders consent. Let **μ** be the probability that at most **M - 1** of the other **N** players consent.
+There are **N + 1** players with an approval threshold of **M + 1**. From the point of view of any player,  the strategies of other players can be described by the number who plan to consent,  **Y**,  and the number who plan to withhold consent,  **N - Y**. Let **q** be the probability that a particular player errs,  that is,  that he does not play his Nash strategy. Let **λ** be the probability that at least **M + 1** of the other **N** holders consent. Let **θ** be the probability that exactly **M** of the other **N** holders consent. Let **μ** be the probability that at most **M - 1** of the other **N** players consent.
 
 ### Proofs of Propositions 1 and 2
 
-There are $N+1$ players with an approval threshold of $M+1$ From the point ofview of any player,  the strategies of other players can be described by the number who plan to consent,  $Y$ ,  and the number who plan to withhold consent,  $N-Y.$ Let $q$ be the probability that a particular player errs,  that is,  that he does not play his Nash strategy. Let 入 be the probability that at least $M+1$ of the other $N$ holders consent. Let $\theta$ be the probability that exactly M of the other $N$ holders consent. Let $\mu$ be the probability that at most $M-1$ of the other $N$ players consent LEMMA. If $Y\geq M+1$ , then $\Theta/\lambda\rightarrow0$ as $q\rightarrow0$ If $Y\leq M$ , then $\Theta/\lambda\rightarrow0$
+There are $N+1$ players with an approval threshold of $M+1$ From the point ofview of any player,  the strategies of other players can be described by the number who plan to consent,  $Y$ ,  and the number who plan to withhold consent,  $N-Y.$ Let $q$ be the probability that a particular player errs,  that is,  that he does not play his Nash strategy. Let 入 be the probability that at least $M+1$ of the other $N$ holders consent. Let $\theta$ be the probability that exactly M of the other $N$ holders consent. Let $\mu$ be the probability that at most $M-1$ of the other $N$ players consent LEMMA. If $Y\geq M+1$ ,  then $\Theta/\lambda\rightarrow0$ as $q\rightarrow0$ If $Y\leq M$ ,  then $\Theta/\lambda\rightarrow0$
 
 as $q\rightarrow0$ Proof. The probabilities 0 and $\lambda$ are givenby the following expressions
 
@@ -258,7 +250,8 @@ $$\theta=\sum_{i+j=M}\binom{Y}{i}\binom{N-Y}{j}q^{Y-i+j}(1-q)^{i+N-Y-j}$$
 
 $$ \lambda=\sum_{k=M+1}^{N}\sum_{i+j=k}\binom{Y}{i}\binom{N-Y}{j}q^{Y-i+j}(1-q)^{i+N-Y-j}. $$
 
-As $q\to0$ , only the terms with the smallest exponents of $q$ contribute to the summations. Therefore,  as $q\rightarrow0$
+As $q\to0$ ,  only the terms with the smallest exponents of $q$ contribute to the summations. Therefore,  as $q\rightarrow0$
+
 $$\begin{align*}
 \theta &\approx 
 \begin{cases} 
@@ -299,9 +292,9 @@ players consent. In this case,  the lemma reveals that $\hat{\theta}/\lambda\rig
 
 One in which all players consent. Proof. The payoff functions of the game are
 
-$$\left.\pi_{i}(C, S_{-i})=\left\{\begin{array}{ll}B_{n}+p&\text{if at least }M+1\text{other holders consent};\\B_{n}+p&\text{if exactly }M\text{other holders consent};\\B+p&\text{if at most }M-1\text{other holders consent};\end{array}\right.\right.$$
+$$\left.\pi_{i}(C,   S_{-i})=\left\{\begin{array}{ll}B_{n}+p&\text{if at least }M+1\text{other holders consent};\\B_{n}+p&\text{if exactly }M\text{other holders consent};\\B+p&\text{if at most }M-1\text{other holders consent};\end{array}\right.\right.$$
 
-$$\left.\pi_{i}(NC, S_{-i})=\left\{\begin{array}{ll}B'&\text{if at least}M+1\text{other holders consent};\\B&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent}.\end{array}\right.\right.$$
+$$\left.\pi_{i}(NC,   S_{-i})=\left\{\begin{array}{ll}B'&\text{if at least}M+1\text{other holders consent};\\B&\text{if exactly}M\text{other holders consent};\\B&\text{if at most}M-1\text{other holders consent}.\end{array}\right.\right.$$
 
 It is easy to verify that the only symmetric Nash equilibrium of this game has all players consenting. The expected value of consenting is
 
@@ -311,7 +304,7 @@ Using (2),  the expected value of not consenting,  players will consent so long 
 
 $$B_{n}+p-B^{\prime}>(\theta/\lambda)[B_{n}+p)]-(\mu/\lambda)p.$$
 
-From the probability expressions given in the proof of the lemma,  it follows directly that all consenting implies that $\theta\rightarrow0$ $\lambda\to1$ , and $\mu\rightarrow0$ . Therefore,  the right-hand side of (B 4) goes to 0 .Since the conditions of the problem ensure that $\bar{B}_{n}\:+\:p\:-\:B^{\prime}>0$ ,  (B 4) is satisfied and all consenting is THP. Q.E.D.
+From the probability expressions given in the proof of the lemma,  it follows directly that all consenting implies that $\theta\rightarrow0$ $\lambda\to1$ ,  and $\mu\rightarrow0$ . Therefore,  the right-hand side of (B 4) goes to 0 .Since the conditions of the problem ensure that $\bar{B}_{n}\:+\:p\:-\:B^{\prime}>0$ ,  (B 4) is satisfied and all consenting is THP. Q.E.D.
 
 ## References
 
