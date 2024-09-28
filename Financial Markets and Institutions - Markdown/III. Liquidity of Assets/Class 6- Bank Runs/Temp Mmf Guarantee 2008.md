@@ -1,8 +1,9 @@
 ---
-title: "Temporary Guarantee Program For Money Funds "
-aliases: ["Temporary Guarantee Program For Money Funds "]
-linter-yaml-title-alias: "Temporary Guarantee Program For Money Funds "
+title: Temporary Guarantee Program For Money Funds
+aliases: [Temporary Guarantee Program For Money Funds]
+linter-yaml-title-alias: Temporary Guarantee Program For Money Funds
 ---
+
 # Temporary Guarantee Program For Money Funds
 
 FROM THE INVESTMENT MANAGEMENT PRACTICE GROUP
@@ -13,7 +14,7 @@ The following is an Executive Summary of certain of the relevant provisions of t
 
 ## Key Points
 
-Eligibility - only **registered** open-end funds that have adopted a **policy** of maintaining a stable $1 net asset value or share price and that operate in **compliance with Rule 2a-7** are eligible to participate in the program. The Fund must make an election to participate in the Program by October 8,  2008. Only Funds with a market-based NAV of at least $0.995 as of September 19,  2008,  are eligible to participate in the Program.
+Eligibility - only **registered** open-end funds that have adopted a **policy** of maintaining a stable $1 net asset value or share price and that operate in **compliance with Rule 2a-7** are eligible to participate in the program. The Fund must make an election to participate in the Program by October 8,   2008. Only Funds with a market-based NAV of at least $0.995 as of September 19,  2008,  are eligible to participate in the Program.
 
 Guarantee Events and Guarantee Amount - A Guarantee Event is the first day after September 19,  2008 (the "Agreement Date"),  on which the market-based NAV is less than $0.995 ("NAV Break" or "Guarantee Event"). Note: if an NAV Break is cured (the market-based NAV is brought to $0.995 or above without consideration of the Guarantee Payment) prior to the date the Board takes action to commence the liquidation of the Fund (as described below),  then no Guarantee Event is deemed to occur and no payment will be made under the Program. A Guarantee Cure Events notice must be delivered to the Treasury in such circumstances.
 
@@ -22,7 +23,7 @@ Guarantee Events and Guarantee Amount - A Guarantee Event is the first day after
 - the lesser of the
 - (i) number of shares held on that date or
 - (ii) the number of shares held on the date of the Guarantee Event.
-- **Note,  if a** shareholder owns 100 shares as of September 19,  then sells 50,  then reacquires 25 shares before the Guarantee Event,  then 75 shares are covered even though 25 shares were acquired after the Agreement Date. However,  if the shareholder reduces his account to $0 after September 19,  then reacquires 75 shares before the Guarantee Event,  no shares are covered. Reduction of the account to $0 removes the account from coverage.
+- **Note,  if a** shareholder owns 100 shares as of September 19,  then sells 50,  then reacquires 25 shares before the Guarantee Event,  then 75 shares are covered even though 25 shares were acquired after the Agreement Date. However,  if the shareholder reduces his account to $0 after September 19,   then reacquires 75 shares before the Guarantee Event,   no shares are covered. Reduction of the account to $0 removes the account from coverage.
 - The Guarantee Amount is $1 per share less
 - (i) the amount of cash and other assets distributed by the Fund,  including amounts distributed as income or gain,  since the Guarantee Event,  and
 - (ii) the amount of cash and other assets held by the Fund on the Payment Date (other than amounts held in reserve to meet disclosed liabilities) that are designated for distribution to shareholders upon liquidation of the Fund.
