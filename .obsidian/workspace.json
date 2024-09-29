@@ -44,9 +44,19 @@
             "id": "14250ea0a0dbc3c9",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage"
+              }
+            }
+          },
+          {
+            "id": "52851b974bba944a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md"
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md"
               }
             }
           }
@@ -250,8 +260,27 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "14250ea0a0dbc3c9",
+  "active": "52851b974bba944a",
   "lastOpenFiles": [
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Note 12 – Commercial Paper.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Deciphering the Liquidity and Credit Crunch 2007–2008.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Note On Securitization(1).md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Note On the Leveraged Loan Market.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Breaking the Buck.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Bank Runs Deposit Insurance and Liquidity.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 10 Liquidity and Liquidity Management.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9 Bid and Ask Prices With Private Information.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Southland Prepackaged Bankruptcy Submission.docx.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Southland Corp. (c).md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Slides Note 9 Bidask.not New 2020.md",
+    "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Note 13 the Ltcm Meltdown.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Pilgrim Prime Rate Trust.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Runs On Money Market Mutual Funds.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Sivs An Oasis of Calm in the Sub Prime Maelstrom.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Securitized Banking and the Run On Repo.md",
@@ -260,11 +289,7 @@
     "svg-cache/2604c0fa98143a8b2991433dd06bfaa8.svg",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Shleifer Limits of Arbitrage 1997.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides the Ltcm Meltdown Liquidity and “performance Based Arbitrage.”.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/How the Eggheads Cracked.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Long Term Capital Management L.p. (a).md",
     "Attachments/CleanShot 2024-09-27 -002945@2x copy.png",
-    "Attachments/d/5/5.md",
-    "Attachments/d/5/e/e.md",
     "Attachments/d/5/e",
     "Attachments/d/5",
     "Attachments/d",
@@ -273,21 +298,6 @@
     "Attachments/Finder 2024-09-27 20.37.00.png",
     "Attachments/Finder 2024-09-27 20.36.50.png",
     "Attachments/CleanShot 2024-09-27 -002941@2x.png",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Asset Backed Commercial Paper Understanding the Risks.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Pilgrim Prime Rate Trust.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp Mmf Guarantee 2008.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Bank Runs Deposit Insurance and Liquidity.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Money Market Mutual Fund Liquidity Facility.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Runs On Money Market Mutual Funds.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 05 Us Bankruptcy Rules.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Do Bondholders Lose From Junk Bond Covenant Changes?.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 5A Coercive Exchange Offers and Exit Consents.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of CIT Group (a).md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Merrill Coercive Exchange Offers.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Greece Faces Bond Swap Holdouts.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Slide 4 Restructuring Debt Outside Bankruptcy.md",
     "Attachments/CleanShot 2024-09-27 -002940@2x.png",
     "Attachments/CleanShot 2024-09-27 -002938@2x.png",
     "Attachments/CleanShot 2024-09-27 -002937@2x.png",
