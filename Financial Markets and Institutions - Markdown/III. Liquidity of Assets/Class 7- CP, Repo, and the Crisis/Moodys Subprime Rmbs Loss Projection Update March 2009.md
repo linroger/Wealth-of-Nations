@@ -312,3 +312,36 @@ Moody's projects the default likelihood of each non-delinquent loan by applying 
 Moody's applied Updated LTVs and general assumptions regarding the costs of maintenance and liquidation (10% of the current home price), interest (10%), taxes and insurance (7%), and gross proceeds 
 (70% of projected property value) to defaulted loans in order to calculate loan loss severities: Loss Severity = (Updated LTV - Net Proceeds) / Updated LTV, where Net Proceeds = Gross Proceeds - Maintenance and Liquidation Costs - Interest Costs - Taxes and Insurance Expenses Although the above assumptions are based on historical data on home liquidation, an increase in foreclosure sale and REO liquidation timelines along with higher discounts on liquidations may result in higher actual loss severities than expected. 
 
+
+
+
+----
+
+![](Preview%202024-09-29%2002.53.42.tiff)
+
+![](Dropover%202024-09-29%2002.53.54.png)
+
+![](Dropover%202024-09-29%2002.54.04.png)
+
+![](Dropover%202024-09-29%2002.54.11.png)
+
+![](Dropover%202024-09-29%2002.54.23.png)
+
+![](Dropover%202024-09-29%2002.54.30.png)
+
+![](Dropover%202024-09-29%2002.54.43.png)
+
+![](Preview%202024-09-29%2002.55.06.png)
+
+![](Preview%202024-09-29%2002.55.18.png)
+
+
+![](Preview%202024-09-29%2002.55.26.png)
+
+
+![](Preview%202024-09-29%2002.55.32.png)
+
+
+![](Preview%202024-09-29%2002.55.39.png)
+
+
