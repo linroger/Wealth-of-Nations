@@ -1,8 +1,8 @@
 ---
-title: Class Slides Effects of Mmf Regulations in the United States
+title: Class Slides Effects of MMF Regulations in the United States
 ---
 
-# Class Slides Effects of Mmf Regulations in the United States
+# Class Slides Effects of MMF Regulations in the United States
 
 Panel C. Total September 1519 fund-level flows
 
