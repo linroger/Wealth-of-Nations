@@ -8,18 +8,18 @@ linter-yaml-title-alias: "Syndicated Bank Loans: 2006 Default Review and 2007 Ou
 
 ## Summary
 
-- Twenty-eight issuers defaulted on approximately $6.0 billion of syndicated bank loans in 2006,       down from thirty issuers that defaulted on roughly $13.4 billion in 2005. Of the twenty-eight loan defaulters,  eight were rated by Moody’s,  and they accounted for approximately $2.6 billion in dollar volume.
+- Twenty-eight issuers defaulted on approximately $6.0 billion of syndicated bank loans in 2006,        down from thirty issuers that defaulted on roughly $13.4 billion in 2005. Of the twenty-eight loan defaulters,  eight were rated by Moody’s,  and they accounted for approximately $2.6 billion in dollar volume.
 - Distress in the automobile industry accounted for over one-third of 2006 defaulting loan volume,  as seven automotive companies defaulted on approximately $2.3 billion in loans.
 - Mirroring the credit environment for syndicated bank loans,  the dollar volume of Moody's-rated corporate bond defaults also decreased in 2006. A total of twenty-eight Moody's-rated issuers defaulted on $7.8 billion in debt in 2006 compared with twenty-nine corporate issuers that defaulted on $28.3 billion in 2005.
 - Speculative-grade loan and bond default rates declined substantially in 2006. At the end of 2006,  the loan default rate had fallen to 0.6% from 1.8% at the beginning of the year,  while the bond default rate had declined to 1.9% from 2.3%.
-- Recovery rates on defaulted bonds declined during 2006,  while loan recovery rates were relatively steady. The issue-weighted average senior unsecured bond recovery rate for defaulting issuers fell to $43.4 in 2006 from $61.0 in 2005 (relative to par of $100),       while the average loan recovery rate was roughly unchanged in 2006 at approximately $88.0.
+- Recovery rates on defaulted bonds declined during 2006,  while loan recovery rates were relatively steady. The issue-weighted average senior unsecured bond recovery rate for defaulting issuers fell to $43.4 in 2006 from $61.0 in 2005 (relative to par of $100),        while the average loan recovery rate was roughly unchanged in 2006 at approximately $88.0.
 - Moody's forecasting model for its global speculative-grade bond default rate predicts that the global speculative-grade default rate will rise from its current 1.7% level to 2.6% by the end of 2007. Given the strong historical correlation between speculative-grade bond and loan default rates,  Moody's expects the speculative-grade loan default rate to increase to 2.1% from its current 0.6% by the end of 2007. Although credit quality remained relatively steady in 2006,  slower expected economic growth in 2007 and the large amounts of low-quality bonds issued in 2004 are expected to lead to climbing default rates during 2007.
 
 New York Kenneth Emery 1.212.553.1653 Richard Cantor Sharon Ou
 
 ## Loan Defaults
 
-As reflected in a benign corporate credit environment,  in 2006 the dollar volume of syndicated bank loan defaults declined more than 50% from 2005 levels. Exhibit 1 shows that twenty-eight issuers defaulted on approximately $6.0 billion of bank loans in 2006,       down from thirty issuers that defaulted on roughly $13.4 billion in 2005. Of the twenty-eight 2006 loan defaulters,  eight were rated by Moody's and they accounted for approximately $2.6 billion in volume.
+As reflected in a benign corporate credit environment,  in 2006 the dollar volume of syndicated bank loan defaults declined more than 50% from 2005 levels. Exhibit 1 shows that twenty-eight issuers defaulted on approximately $6.0 billion of bank loans in 2006,        down from thirty issuers that defaulted on roughly $13.4 billion in 2005. Of the twenty-eight 2006 loan defaulters,  eight were rated by Moody's and they accounted for approximately $2.6 billion in volume.
 
 Among these eight,  six were based in the US,  while there was one defaulter based in France and one in Germany. In 2005 there were eleven Moody's-rated loan defaults,  all by US issuers. The Appendix includes summary descriptions of the eight 2006 loan default events.
 
@@ -42,7 +42,7 @@ Mirroring the credit environment for syndicated bank loans,  the dollar volume o
 
 Exhibit 3 Global Bond Default Volume Fell Sharply in 2006
 
-Dana Corporation,  together with Dana Credit Corporation,  was the year's largest default at approximately $1.9 billion. Corporate bond defaults were concentrated in the US in 2006,       with twenty-two issuers defaulting on a total of $6.4 billion in debt. Four issuers defaulted on $1.2 billion in Europe,       and two bond issuers based in South America defaulted on $0.2 billion in debt.
+Dana Corporation,  together with Dana Credit Corporation,  was the year's largest default at approximately $1.9 billion. Corporate bond defaults were concentrated in the US in 2006,        with twenty-two issuers defaulting on a total of $6.4 billion in debt. Four issuers defaulted on $1.2 billion in Europe,        and two bond issuers based in South America defaulted on $0.2 billion in debt.
 
 ![](Finder%202024-09-29%2002.43.46.png)
 
@@ -59,7 +59,7 @@ Exhibit 5 US Speculative-Grade Loan and Bond Default Rates
 
 ## Bond And Loan Recovery Rates
 
-Recovery rates on defaulted bonds declined in 2006,  while loan recovery rates were relatively steady. Exhibit 6 shows that the issue-weighted average senior unsecured bond recovery rate for defaulting issuers rose to $43.4 in 2006 from $61.0 in 2005 (relative to par of $100),       while the average loan recovery rate was unchanged at approximately $80.
+Recovery rates on defaulted bonds declined in 2006,  while loan recovery rates were relatively steady. Exhibit 6 shows that the issue-weighted average senior unsecured bond recovery rate for defaulting issuers rose to $43.4 in 2006 from $61.0 in 2005 (relative to par of $100),        while the average loan recovery rate was unchanged at approximately $80.
 
 Reflecting the currently benign credit environment,  both bond and loan recovery rates remain relatively high by historical standards. Moody's studies,  as well as academic research,  have noted that when default rates are high,  as they were in 2001 and 2002,  recovery rates tend to be low,  and vice versa. 2
 
@@ -86,7 +86,7 @@ On the negative side,  consensus macroeconomic forecasts for 2007 predict slower
 
 ## Dana Corporation
 
-On March 1,  2006,  Dana Corporation ("Dana") failed to make interest payments on its 7% Senior Notes due 2029 and its 6.5% Senior Notes due 2009. Two days later,  Dana became the sixth Moody's-rated automotive parts supplier to file for Chapter 11 bankruptcy protection since the beginning of 2005,  citing an erosion of operating performance as well as lower production levels in the automotive sector. The Toledo,  Ohio-based company supplies axles,  brakes,  drive shafts,  and other parts to many automakers,  but Ford Motor Co. and General Motors Corp. are by far its two largest customers. Dana has been impacted by declines in market shares of its two largest customers,  increased pricing pressures,  higher raw material costs,  and operational inefficiencies in its commercial vehicle segment. As a result of these events and their credit impact,  Dana defaulted on approximately $1,      582 million of bonds and $400 million loans.
+On March 1,  2006,  Dana Corporation ("Dana") failed to make interest payments on its 7% Senior Notes due 2029 and its 6.5% Senior Notes due 2009. Two days later,  Dana became the sixth Moody's-rated automotive parts supplier to file for Chapter 11 bankruptcy protection since the beginning of 2005,  citing an erosion of operating performance as well as lower production levels in the automotive sector. The Toledo,  Ohio-based company supplies axles,  brakes,  drive shafts,  and other parts to many automakers,  but Ford Motor Co. and General Motors Corp. are by far its two largest customers. Dana has been impacted by declines in market shares of its two largest customers,  increased pricing pressures,  higher raw material costs,  and operational inefficiencies in its commercial vehicle segment. As a result of these events and their credit impact,  Dana defaulted on approximately $1,       582 million of bonds and $400 million loans.
 
 ## Dura Operating Corp
 
