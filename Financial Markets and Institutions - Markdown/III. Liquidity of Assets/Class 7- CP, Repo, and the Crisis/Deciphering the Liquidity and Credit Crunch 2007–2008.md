@@ -46,7 +46,7 @@ In hindsight,  it is clear that one distorting force leading to the popularity o
 
 Moreover,  in retrospect,  the statistical models of many professional investors and credit-rating agencies provided overly optimistic forecasts about structured finance products. One reason is that these models were based on historically low mortgage default and delinquency rates. More importantly,  past downturns in housing prices were primarily regional phenomena—the United States had not experienced a nationwide decline in housing prices in the period following World War II. The assumed low cross-regional correlation of house prices generated a perceived diversification benefit that especially boosted the valuations of AAA-rated tranches (as explained in this symposium in the paper by Coval,  Jurek,  and Stafford).
 
-In addition,  structured products may have received more favorable ratings compared to corporate bonds because rating agencies collected higher fees for structured products. "Rating at the edge" might also have contributed to favorable ratings of structured products versus corporate bonds; while a AAA-rated bond represents a band of risk ranging from a near-zero default risk to a risk that just makes it into the AAA-rated group,  banks worked closely with the rating agencies to ensure that AAA tranches were always sliced in such a way that they *just* crossed the dividing line to reach the AAA rating. Fund managers,  "searching for yield, " were attracted to buying structured products because they seemingly offered high expected returns with a small probability of catastrophic loss. In addition,  some
+In addition,  structured products may have received more favorable ratings compared to corporate bonds because rating agencies collected higher fees for structured products. "Rating at the edge" might also have contributed to favorable ratings of structured products versus corporate bonds; while a AAA-rated bond represents a band of risk ranging from a near-zero default risk to a risk that just makes it into the AAA-rated group,  banks worked closely with the rating agencies to ensure that AAA tranches were always sliced in such a way that they *just* crossed the dividing line to reach the AAA rating. Fund managers,  "searching for yield,  " were attracted to buying structured products because they seemingly offered high expected returns with a small probability of catastrophic loss. In addition,  some
 
 1 To see this,  consider a bank that hypothetically holds two perfectly negatively correlated BBB-rated assets. If it were to hold the assets directly on its books,  it would face a high capital charge. On the other hand,  if it were to bundle both assets in a structured investment vehicle,  the structured investment vehicle could issue essentially risk-free AAA-rated assets that the bank can hold on its books at near zero capital charge.
 Fund managers may have favored the relatively illiquid junior tranches precisely because they trade so infrequently and were therefore hard to value. These managers could make their monthly returns appear attractively smooth over time because they had some flexibility with regard to when they could revalue their portfolios.
@@ -66,7 +66,7 @@ The trigger for the liquidity crisis was an increase in subprime mortgage defaul
 Figure 1 Decline in Mortgage Credit Default Swap ABX Indices (the ABX 7-1 series initiated in January 1,  2007)
 
 Note: Each ABX index is based on a basket of 20 credit default swaps referencing asset-backed securities containing subprime mortgages of different ratings. An investor seeking to insure against the default of the underlying securities pays a periodic fee (spread) which—at initiation of the series—is set to guarantee an index price of 100. This is the reason why the ABX 7-1 series,  initiated in January 2007,  starts at a price of 100. In addition,  when purchasing the default insurance after initiation,  the protection buyer has to pay an upfront fee of (100 - ABX price). As the price of the ABX drops,  the upfront fee rises and previous sellers of credit default swaps suffer losses.
-declines,  the cost of insuring a basket of mortgages of a certain rating against default increases. On May 4,  2007,  UBS shut down its internal hedge fund,  Dillon Read,  after suffering about $125 million of subprime-related losses. Later that month,  Moody's put 62 tranches across 21 U.S. subprime deals on "downgrade review, " indicating that it was likely these tranches would be downgraded in the near future. This review led to a deterioration of the prices of mortgage-related products.
+declines,  the cost of insuring a basket of mortgages of a certain rating against default increases. On May 4,  2007,  UBS shut down its internal hedge fund,  Dillon Read,  after suffering about $125 million of subprime-related losses. Later that month,  Moody's put 62 tranches across 21 U.S. subprime deals on "downgrade review,  " indicating that it was likely these tranches would be downgraded in the near future. This review led to a deterioration of the prices of mortgage-related products.
 
 Rating downgrades of other tranches by Moody's,  Standard & Poor's,  and Fitch unnerved the credit markets in June and July 2007. In mid-June,  two hedge funds run by Bear Stearns had trouble meeting margin calls,  leading Bear Stearns to inject $3.2 billion in order to protect its reputation. Then a major U.S. home loan lender,  Countrywide Financial Corp.,  announced an earnings drop on July 24. And on July 26,  an index from the National Association of Home Builders revealed that new home sales had declined 6.6 percent year-on-year,  and the largest U.S. home-
 
@@ -88,7 +88,7 @@ Following this event,  a variety of market signals showed that money market part
 
 ## The Libor,  Repo,  And Federal Funds Markets
 
-In addition to the commercial paper market,  banks use the repo market,  the federal funds market,  and the interbank market to finance themselves. Repurchase agreements,  or "repos, " allow market participants to obtain collateralized funding by selling their own or their clients' securities and agreeing to repurchase them when the loan matures. The U.S. federal funds rate is the overnight interest rate at which banks lend reserves to each other to meet the central bank's reserve requirements. In the interbank or LIBOR (London Interbank Offered Rate) market,  banks make unsecured,  short-term (typically overnight to three-month) loans to each other. The interest rate is individually agreed upon. LIBOR is an average indicative interest rate quote for such loans.
+In addition to the commercial paper market,  banks use the repo market,  the federal funds market,  and the interbank market to finance themselves. Repurchase agreements,  or "repos,  " allow market participants to obtain collateralized funding by selling their own or their clients' securities and agreeing to repurchase them when the loan matures. The U.S. federal funds rate is the overnight interest rate at which banks lend reserves to each other to meet the central bank's reserve requirements. In the interbank or LIBOR (London Interbank Offered Rate) market,  banks make unsecured,  short-term (typically overnight to three-month) loans to each other. The interest rate is individually agreed upon. LIBOR is an average indicative interest rate quote for such loans.
 
 An interest rate spread measures the difference in interest rates between two bonds of different risk. These credit spreads had shrunk to historically low levels during the "liquidity bubble" but they began to surge upward in the summer of 2007. Historically,  many market observers focused on the TED spread,  the difference between the risky LIBOR rate and the risk-free U.S. Treasury bill rate. In times of uncertainty,  banks charge higher interest for unsecured loans,  which increases the LIBOR rate. Further,  banks want to get first-rate collateral,  which makes holding Treasury bonds more attractive and pushes down the Treasury bond rate. For both reasons,  the TED spread widens in times of crises,  as shown in Figure 3. The TED spread provides a useful basis for gauging the severity of the current liquidity crisis.
 
@@ -96,7 +96,7 @@ An interest rate spread measures the difference in interest rates between two bo
 
 In the period August 1–9,  2007,  many quantitative hedge funds,  which use trading strategies based on statistical models,  suffered large losses,  triggering margin calls and fire sales. Crowded trades caused high correlation across quant trading strategies (for details,  see Brunnermeier,  2008 a; Khandani and Lo,  2007). The first "illiquidity wave" on the interbank market started on August 9. At that time,  the perceived default and liquidity risks of banks rose significantly,  driving up the LIBOR. In response to the freezing up of the interbank market on August 9,  the European Central Bank injected €95 billion in overnight credit into the interbank market. The U.S. Federal Reserve followed suit,  injecting $24 billion.
 
-To alleviate the liquidity crunch,  the Federal Reserve reduced the discount rate by half a percentage point to 5.75 percent on August 17,  2007,  broadened the type of collateral that banks could post,  and lengthened the lending horizon to 30 days. However,  the 7, 000 or so banks that can borrow at the Fed's discount window are historically reluctant to do so because of the stigma associated with
+To alleviate the liquidity crunch,  the Federal Reserve reduced the discount rate by half a percentage point to 5.75 percent on August 17,  2007,  broadened the type of collateral that banks could post,  and lengthened the lending horizon to 30 days. However,  the 7,  000 or so banks that can borrow at the Fed's discount window are historically reluctant to do so because of the stigma associated with
 
 ![9_image_0_Deciphering_the_Liquidity_and_Credit_Crunch_2007–2008.png](9_image_0_Deciphering_the_Liquidity_and_Credit_Crunch_2007–2008.png)
 
@@ -129,11 +129,11 @@ A second event was that of March 11,  2008,  when the Federal Reserve announced 
 
 Moreover,  after trading hours ended on March 11,  2008,  a hedge fund sent Goldman Sachs an e-mail asking it to step into a contractual relationship that would increase Goldman's direct exposure to Bear Stearns. Given the late request,  Goldman only "novated" (accepted) the new contract on the morning of March 12. In the meantime,  the late acceptance was (wrongly) interpreted as a refusal and was leaked to the media,  causing unease among Bear Stearns's hedge fund clients. This incident might have contributed to the run on Bear by its hedge fund clients and other counterparties. Bear's liquidity situation worsened dramatically the next day as it was suddenly unable to secure funding on the repo market.
 
-Bear Stearns had about 150 million trades spread across various counterparties. It was therefore considered "too interconnected" to be allowed to fail suddenly. Some big party had to step in to minimize counterparty credit risk. Over the weekend,  officials from the Federal Reserve Bank of New York helped broker a deal,  through which JPMorgan Chase would acquire Bear Stearns for $236 million,  or $2 per share (ultimately increased to $10 per share). By comparison,  Bear Stearns's shares had traded at around $150 less than a year before. The New York Fed also agreed to grant a $30 billion loan to JPMorgan Chase. On Sunday night,  the Fed cut the discount rate from 3.5 percent to 3.25 percent and for the first time opened the discount window to investment banks,  via the new Primary Dealer Credit Facility (PDCF),  an overnight funding facility for investment banks. This step temporarily eased the liquidity problems of the other investment banks,  including Lehman Brothers.
+Bear Stearns had about 150 million trades spread across various counterparties. It was therefore considered "too interconnected" to be allowed to fail suddenly. Some big party had to step in to minimize counterparty credit risk. Over the weekend,  officials from the Federal Reserve Bank of New York helped broker a deal,  through which JPMorgan Chase would acquire Bear Stearns for $236 million,   or $2 per share (ultimately increased to $10 per share). By comparison,   Bear Stearns's shares had traded at around $150 less than a year before. The New York Fed also agreed to grant a $30 billion loan to JPMorgan Chase. On Sunday night,  the Fed cut the discount rate from 3.5 percent to 3.25 percent and for the first time opened the discount window to investment banks,  via the new Primary Dealer Credit Facility (PDCF),  an overnight funding facility for investment banks. This step temporarily eased the liquidity problems of the other investment banks,  including Lehman Brothers.
 
 ## Government-Sponsored Enterprises: Fannie Mae And Freddie Mac
 
-Mortgage delinquency rates continued to increase in the subsequent months. By mid-June 2008,  the interest rate spread between "agency bonds, " of the government-sponsored enterprises Fannie Mae and Freddie Mac,  and Treasury bonds had widened again. Fannie Mae and Freddie Mac at that time were two publicly traded but government-chartered institutions that securitized a large fraction of U.S. mortgages and had about $1.5 trillion in bonds outstanding. After IndyMac,  a large private mortgage broker,  was put in conservatorship by the Federal Deposit Insurance Corporation (FDIC) on Friday,  July 11,  problems at Fannie and Freddie flared up,  prompting Treasury Secretary Henry Paulson on the evening of Sunday,  July 13,  to announce plans to make their implicit government guarantee explicit. Despite this support,  the stock prices of Fannie and Freddie slid further in the subsequent weeks,  ultimately forcing government officials to put them in federal conservatorship on September 7. This step constituted a "credit event" for a large number of outstanding credit default swaps,  triggering large payments to those who had bought these swaps. Note that Ginnie Mae,  the third government-sponsored enterprise,  always enjoyed full government guarantee.
+Mortgage delinquency rates continued to increase in the subsequent months. By mid-June 2008,  the interest rate spread between "agency bonds,  " of the government-sponsored enterprises Fannie Mae and Freddie Mac,  and Treasury bonds had widened again. Fannie Mae and Freddie Mac at that time were two publicly traded but government-chartered institutions that securitized a large fraction of U.S. mortgages and had about $1.5 trillion in bonds outstanding. After IndyMac,  a large private mortgage broker,  was put in conservatorship by the Federal Deposit Insurance Corporation (FDIC) on Friday,  July 11,  problems at Fannie and Freddie flared up,  prompting Treasury Secretary Henry Paulson on the evening of Sunday,  July 13,  to announce plans to make their implicit government guarantee explicit. Despite this support,  the stock prices of Fannie and Freddie slid further in the subsequent weeks,  ultimately forcing government officials to put them in federal conservatorship on September 7. This step constituted a "credit event" for a large number of outstanding credit default swaps,  triggering large payments to those who had bought these swaps. Note that Ginnie Mae,  the third government-sponsored enterprise,  always enjoyed full government guarantee.
 
 ## Lehman Brothers,  Merrill Lynch,  And AIG
 
@@ -141,13 +141,13 @@ Unlike Bear Stearns,  Lehman Brothers had survived the fallout in March 2008,  b
 
 The effects of Lehman's bankruptcy would ripple throughout the global financial markets,  but not before AIG,  a large international insurance company,  disclosed that it faced a serious liquidity shortage. Like investment banks,  AIG had been increasingly active in the credit derivatives business,  including credit default swaps. On Tuesday,  September 16,  2008,  AIG's stock price fell more than 90 percent,  capping off a large decline from the previous days. Owing to AIG's interconnectedness in the credit derivatives business,  the Federal Reserve quickly organized a bailout of $85 billion in exchange for an 80 percent equity stake. The AIG bailout was extended by a further $37 billion in October and another $40 billion in November.
 
-The ripple effects of Lehman's demise were difficult to predict,  because Lehman had counterparties across the globe. First,  and most importantly,  many money market funds suffered losses. Some "broke the buck"—their share price dropped below $1—while others supported their funds via cash injections. To avoid the broad repercussions of a run on money market funds,  the U.S. Treasury set aside $80 billion to guarantee brokers' money market funds. Second,  the prices paid for credit default swaps that offer protection against defaults of the remaining banks soared,  as each bank tried to protect itself against counterparty credit risk—that is,  the risk that other banks would default. Third,  financial non-assetbacked commercial paper experienced a sharp fall (see Figure 2),  which led to the introduction of the Commercial Paper Funding Facility by the Fed.
+The ripple effects of Lehman's demise were difficult to predict,  because Lehman had counterparties across the globe. First,  and most importantly,  many money market funds suffered losses. Some "broke the buck"—their share price dropped below $1—while others supported their funds via cash injections. To avoid the broad repercussions of a run on money market funds,   the U.S. Treasury set aside $80 billion to guarantee brokers' money market funds. Second,  the prices paid for credit default swaps that offer protection against defaults of the remaining banks soared,  as each bank tried to protect itself against counterparty credit risk—that is,  the risk that other banks would default. Third,  financial non-assetbacked commercial paper experienced a sharp fall (see Figure 2),  which led to the introduction of the Commercial Paper Funding Facility by the Fed.
 
 ## Coordinated Bailout,  Stock Market Decline,  Washington Mutual,  Wachovia,  And Citibank
 
 As can be seen by the extreme spike in the TED spread in Figure 3,  the credit markets deteriorated significantly in subsequent weeks. 2 Washington Mutual suffered a "silent" bank run. Instead of publicly queuing in front of bank tellers,  customers and fund managers withdrew funds electronically. Soon afterwards,  Washington Mutual was placed in receivership by the Federal Deposit Insurance Corporation (FDIC),  and then sold to JPMorgan Chase. In a move also facilitated by the FDIC,  Wachovia announced on September 29 that it was selling its banking operation to Citibank,  but after a bidding contest,  Wachovia ultimately fell into the hands of Wells Fargo.
 
-The overall stock market fell off a cliff,  losing about $8 trillion in the year after its peak in October 2007. More importantly,  Wall Street's problems seemed to spill over to Main Street. Credit for firms and local and state governments tightened,  infecting the global economy. It became more and more clear that a proactive,  coordinated action across all solvent banks had to replace the reactive piecemeal approach. After news broke on September 19,  2008,  that the Treasury Secretary would propose a $700 billion bailout plan,  a political quarrel started and ultimately led to a bailout plan that included foreclosure-mitigation elements for homeowners,  provisions to purchase troubled mortgage assets,  and a coordinated forced recapitalization of banks. Despite this,  Citibank needed additional support in November and several facilities were established to enable the Fed to buy commercial paper and almost any type of asset-backed security and agency paper. The Fed's balance sheet roughly doubled from about $1.2 trillion in November 2007 to about
+The overall stock market fell off a cliff,  losing about $8 trillion in the year after its peak in October 2007. More importantly,   Wall Street's problems seemed to spill over to Main Street. Credit for firms and local and state governments tightened,   infecting the global economy. It became more and more clear that a proactive,   coordinated action across all solvent banks had to replace the reactive piecemeal approach. After news broke on September 19,   2008,   that the Treasury Secretary would propose a $700 billion bailout plan,  a political quarrel started and ultimately led to a bailout plan that included foreclosure-mitigation elements for homeowners,  provisions to purchase troubled mortgage assets,  and a coordinated forced recapitalization of banks. Despite this,  Citibank needed additional support in November and several facilities were established to enable the Fed to buy commercial paper and almost any type of asset-backed security and agency paper. The Fed's balance sheet roughly doubled from about $1.2 trillion in November 2007 to about
 
 2 Focusing on the TED spread here is somewhat misleading since part of the rise in LIBOR is due to central banks' increase in collateralized lending. Collateralized lending enjoys seniority and hence makes the more junior unsecured LIBOR lending more risky and therefore more expensive.
 $2.3 trillion in December 2008. On December 16,  2008,  the Fed set its target interest rate between zero and a quarter percent.
@@ -178,12 +178,12 @@ The mechanisms that explain why liquidity can suddenly evaporate operate through
 
 ## Borrower'S Balance Sheet Effects: Loss Spiral And Margin Spiral
 
-A *loss spiral* arises for leveraged investors because a decline in the value of assets erodes the investors' net worth much faster than their gross worth (because of their leverage) and the amount that they can borrow falls. For example,  consider an investor who buys $100 million worth of assets on 10 percent margin. This investor finances only $10 million with its own capital and borrows $90 million. The leverage ratio is 10. Now suppose that the value of the acquired asset declines temporarily to $95 million. The investor,  who started out with $10 million in capital,  now has lost $5 million and has only $5 million of its own capital remaining. Holding the leverage ratio constant at 10,  this investor is forced to reduce the overall position to $50 million—which means selling assets worth $45 million exactly when the price is low. These sales depress the price further,  inducing more selling and so on. This loss spiral arises as an equilibrium because some other potential buyers with expertise may face similar constraints at the same time (as pointed out in the seminal paper by
+A *loss spiral* arises for leveraged investors because a decline in the value of assets erodes the investors' net worth much faster than their gross worth (because of their leverage) and the amount that they can borrow falls. For example,  consider an investor who buys $100 million worth of assets on 10 percent margin. This investor finances only $10 million with its own capital and borrows $90 million. The leverage ratio is 10. Now suppose that the value of the acquired asset declines temporarily to $95 million. The investor,  who started out with $10 million in capital,   now has lost $5 million and has only $5 million of its own capital remaining. Holding the leverage ratio constant at 10,   this investor is forced to reduce the overall position to $50 million—which means selling assets worth $45 million exactly when the price is low. These sales depress the price further,  inducing more selling and so on. This loss spiral arises as an equilibrium because some other potential buyers with expertise may face similar constraints at the same time (as pointed out in the seminal paper by
 
 ![16_image_0_Deciphering_the_Liquidity_and_Credit_Crunch_2007–2008.png](16_image_0_Deciphering_the_Liquidity_and_Credit_Crunch_2007–2008.png)
 
 Figure 4 The Two Liquidity Spirals: Loss Spiral and Margin Spiral Source: Brunnermeier and Pedersen (forthcoming). Note: Funding problems force leveraged investors to unwind their positions causing 1) more losses and 2) higher margins and haircuts,  which in turn exacerbate the funding problems and so on.
-Shleifer and Vishny,  1992) and also because other potential buyers find it more profitable to wait out the loss spiral before reentering the market. In more extreme cases,  other traders might even engage in "predatory trading, " deliberately forcing others to liquidate their positions at fire-sale prices (Brunnermeier and Pedersen,  2005).
+Shleifer and Vishny,  1992) and also because other potential buyers find it more profitable to wait out the loss spiral before reentering the market. In more extreme cases,  other traders might even engage in "predatory trading,  " deliberately forcing others to liquidate their positions at fire-sale prices (Brunnermeier and Pedersen,  2005).
 
 The *margin/haircut spiral* reinforces the loss spiral,  as shown in Figure 4. As margins or haircuts rise,  the investor has to sell even more because the investor needs to reduce its leverage ratio (which was held constant in the loss spiral). Margins and haircuts spike in times of large price drops,  leading to a general tightening of lending. In Brunnermeier and Pedersen (forthcoming),  my coauthor and I show that a vicious cycle emerges,  where higher margins and haircuts force de-leveraging and more sales,  which increase margins further and force more sales,  leading to the possibility of multiple equilibria. Adrian and Shin (forthcoming) confirm this spiral empirically for investment banks.
 
@@ -195,7 +195,7 @@ It is individually rational to expose oneself to the risk of getting caught in a
 
 4 A number of academic papers focus on the loss spiral. Most models produce a cushioning effect of margins and haircuts since margins decrease at times of crisis in these models (for example,  Gromb and Vayanos,  2002; He and Krishnamurthy,  2008). In Kiyotaki and Moore (1997),  the ratio between asset value and credit limit is constant. In Bernanke and Gertler (1989) and Fisher (1933) lending standards deteriorate; in Geanakoplos (2003) margins increase during crises.
 
-5 While most current risk measures like Value-at-Risk (VaR) focus on the risk of an individual financial institution,  in Adrian and Brunnermeier (2008),  my coauthor and I develop a new risk measure,  "CoVaR, " that explicitly takes the risk spillovers into account.
+5 While most current risk measures like Value-at-Risk (VaR) focus on the risk of an individual financial institution,  in Adrian and Brunnermeier (2008),  my coauthor and I develop a new risk measure,  "CoVaR,  " that explicitly takes the risk spillovers into account.
 
 6 Funding constraints need not be binding for liquidity spirals to arise. Simply the fear that funding constraints might be binding in the future makes speculators and arbitrageurs reluctant to invest in a
 
@@ -220,7 +220,7 @@ Liquidity reasons,  early withdrawals force a bank to liquidate long-maturity as
 
 Deposit insurance has made bank runs almost obsolete,  but runs can occur on other financial institutions. Not rolling over commercial paper is,  in effect,  a run on the issuer of asset-backed commercial paper. Furthermore,  Bear Stearns essentially experienced a bank run in March 2008 when hedge funds,  which typically park a sizable amount of liquid wealth with their prime brokers,  pulled out those funds. In September 2008,  AIG faced a "margin run" as explained in Gorton (2008). Several counterparties requested additional collateral from AIG for its credit default swap positions. These requests would have brought the firm down if the Fed had not injected additional funds.
 
-While classic models of bank runs focus on debt holders,  one may argue that the problem also extends to equity holders,  such as investors in a hedge fund or mutual funds (Shleifer and Vishny,  1997). Equity holders who withdraw their capital receive a share of the hedge fund's net asset value. In this case,  an early-mover advantage arises to the extent that fund managers sell liquid assets first. To see this point,  consider a fund that holds $50 million in highly liquid cash and $50 million in hard-to-sell illiquid securities that at short notice can be sold for only $30 million. If the fund services early withdrawals using its cash cushion,  then early withdrawers receive their full share of the mark-to-market net asset value of $100 million. But once the fund has to sell the illiquid assets under pressure to pay out the remaining investors,  net asset value declines and late withdrawers receive only a percentage share of the sale price of the remaining assets,  which is $30 million,  not $50 million. In sum,  a first-mover advantage can make financial institutions in general,  not only banks,  subject to runs.
+While classic models of bank runs focus on debt holders,  one may argue that the problem also extends to equity holders,  such as investors in a hedge fund or mutual funds (Shleifer and Vishny,  1997). Equity holders who withdraw their capital receive a share of the hedge fund's net asset value. In this case,  an early-mover advantage arises to the extent that fund managers sell liquid assets first. To see this point,  consider a fund that holds $50 million in highly liquid cash and $50 million in hard-to-sell illiquid securities that at short notice can be sold for only $30 million. If the fund services early withdrawals using its cash cushion,   then early withdrawers receive their full share of the mark-to-market net asset value of $100 million. But once the fund has to sell the illiquid assets under pressure to pay out the remaining investors,  net asset value declines and late withdrawers receive only a percentage share of the sale price of the remaining assets,  which is $30 million,   not $50 million. In sum,  a first-mover advantage can make financial institutions in general,  not only banks,  subject to runs.
 
 ## Network Effects: Counterparty Credit Risk And Gridlock Risk
 
@@ -250,26 +250,26 @@ An increase in mortgage delinquencies due to a nationwide decline in housing pri
 
 ## References
 
-Abreu,  Dilip,  and Markus K. Brunnermeier. 2002. "Synchronization Risk and Delayed Arbitrage." *Journal of Financial Economics, * 66 (2–3):
+Abreu,  Dilip,  and Markus K. Brunnermeier. 2002. "Synchronization Risk and Delayed Arbitrage." *Journal of Financial Economics,  * 66 (2–3):
 341– 60.
 
-Abreu,  Dilip,  and Markus K. Brunnermeier. 2003. "Bubbles and Crashes." *Econometrica, * 71 (1): 173–204.
+Abreu,  Dilip,  and Markus K. Brunnermeier. 2003. "Bubbles and Crashes." *Econometrica,  * 71 (1): 173–204.
 
 Adrian,  Tobias,  and Markus K. Brunnermeier. 2008. "CoVaR." http://www.princeton.edu/markus/research/papers/CoVaR.
 
 Adrian,  Tobias,  and Hyun Song Shin. Forthcoming. "Liquidity and Leverage." *Journal of* Financial Intermediation.
 
-Allen,  Franklin,  and Douglas Gale. 2000."Financial Contagion." *Journal of Political Economy, * 108 (1): 1–33.
+Allen,  Franklin,  and Douglas Gale. 2000."Financial Contagion." *Journal of Political Economy,  * 108 (1): 1–33.
 
-Allen,  Franklin,  and Douglas Gale. 2004."Financial Intermediaries and Markets." *Econometrica, * 72 (4): 1023– 61.
+Allen,  Franklin,  and Douglas Gale. 2004."Financial Intermediaries and Markets." *Econometrica,  * 72 (4): 1023– 61.
 
 Allen,  Franklin,  and Douglas Gale. 2007. Understanding Financial Crises. Clarendon Lectures in Economics. Oxford,  UK: Oxford University Press.
 
 Berman,  Dennis K. 2007. "Sketchy Loans Abound: With Capital Plentiful,  Debt Buyers Take Subprime-Type Risk." *Wall Street Journal*,  March 27,  page C 1.
 
-Bernanke,  Ben,  and Mark Gertler. 1989. "Agency Costs,  Net Worth,  and Business Fluctuations." *American Economic Review, * 79 (1): 14 –31.
+Bernanke,  Ben,  and Mark Gertler. 1989. "Agency Costs,  Net Worth,  and Business Fluctuations." *American Economic Review,  * 79 (1): 14 –31.
 
-Bernanke,  Ben,  Mark Gertler,  and Simon Gilchrist. 1996. "The Financial Accelerator and the Flight to Quality." *Review of Economics and Statistics, * 78 (1): 1–15.
+Bernanke,  Ben,  Mark Gertler,  and Simon Gilchrist. 1996. "The Financial Accelerator and the Flight to Quality." *Review of Economics and Statistics,  * 78 (1): 1–15.
 
 Bernardo,  Antonio E.,  and Ivo Welch. 2004."Liquidity and Financial Markets Run." *Quarterly* Journal of Economics,  119 (1): 135–58.
 
@@ -282,25 +282,25 @@ Brunnermeier,  Markus K.,  and Lasse Heje Pedersen. 2005. "Predatory Trading." *
 
 Brunnermeier,  Markus K.,  and Lasse Heje Pedersen. Forthcoming. "Market Liquidity and Funding Liquidity." *Review of Financial* Studies.
 
-Caballero,  Ricardo J.,  and Arvind Krishnamurthy. 2008. "Collective Risk Management in a Flight to Quality Episode." *Journal of Finance, * 63 (5): 2195–2230.
+Caballero,  Ricardo J.,  and Arvind Krishnamurthy. 2008. "Collective Risk Management in a Flight to Quality Episode." *Journal of Finance,  * 63 (5): 2195–2230.
 
 Calomiris,  Charles,  and Charles Kahn. 1991. "The Role of Demandable Debt in Structuring Optimal Banking Arrangements." American Economic Review,  81 (3): 497–513.
 
-Diamond,  Douglas,  W.,  and Philip H. Dybvig. 1983. "Bank Runs,  Deposit Insurance,  and Liquidity." *Journal of Political Economy, * 91 (3): 401– 419.
+Diamond,  Douglas,  W.,  and Philip H. Dybvig. 1983. "Bank Runs,  Deposit Insurance,  and Liquidity." *Journal of Political Economy,  * 91 (3): 401– 419.
 
 Diamond,  Douglas W.,  and Raghuram G. Rajan. 2000. "A Theory of Bank Capital." Journal of Finance,  55 (6): 2431– 65.
 
 Diamond,  Douglas W.,  and Raghuram G. Rajan. 2001. "Liquidity Risk,  Liquidity Creation and Financial Fragility: A Theory of Banking." Journal of Political Economy,  109 (2): 287–327.
 
-Diamond,  Douglas W.,  and Raghuram G. Rajan. 2005. "Liquidity Shortage and Banking Crisis." *Journal of Finance, * 60 (2): 615– 647.
+Diamond,  Douglas W.,  and Raghuram G. Rajan. 2005. "Liquidity Shortage and Banking Crisis." *Journal of Finance,  * 60 (2): 615– 647.
 
 Duffie,  Darrell. 2008. "Innovations in Credit Risk Transfer: Implications for Financial Stability." BIS Working Paper 255. http://www.bis.org/publ/work255.pdf.
 
 Eisenberg,  Larry K.,  and Thomas H. Noe. 2001. "Systemic Risk in Financial Systems." Management Science,  47 (2): 236 - 49.
 
-Fisher,  Irving. 1933. "The Debt-Deflation Theory of Great Depressions." *Econometrica, * 1 (4): 337–57.
+Fisher,  Irving. 1933. "The Debt-Deflation Theory of Great Depressions." *Econometrica,  * 1 (4): 337–57.
 
-Freixas,  Xavier,  and Rochet,  Jean-Charles. 1997. *Microeconomics of Banking, * Cambridge,  MA: MIT Press.
+Freixas,  Xavier,  and Rochet,  Jean-Charles. 1997. *Microeconomics of Banking,  * Cambridge,  MA: MIT Press.
 
 Geanakoplos,  John. 2003. "Liquidity,  Default,  and Crashes: Endogenous Contracts in General Equilibrium." In *Advances in Economics and Econometrics: Theory and Applications II,  Econometric* Society Monographs: Eighth World Congress,  vol. 2,  ed. M. Dewatripont,  L. P. Hansen,  and S. J.
 
@@ -310,7 +310,7 @@ Gromb,  Denis,  and Dimitri Vayanos. 2002. "Equilibrium and Welfare in Markets w
 
 He,  Ziguo,  and Arvind Krishnamurthy. 2008. "Intermediated Asset Prices." http://www.kellogg. northwestern. Edu/faculty/krisharvind/htm/ work. Html.
 
-Holmstrom,  Bengt,  and Jean Tirole. 1997. "Financial Intermediation,  Loanable Funds,  and the Real Sector." *Quarterly Journal of Economics, * 112 (1): 35–52.
+Holmstrom,  Bengt,  and Jean Tirole. 1997. "Financial Intermediation,  Loanable Funds,  and the Real Sector." *Quarterly Journal of Economics,  * 112 (1): 35–52.
 
 Holmstrom,  Bengt,  and Jean Tirole. 1998."Private and Public Supply of Liquidity." *Journal* of Political Economy,  106 (1): 1–39.
 
@@ -320,26 +320,26 @@ Keys,  Benjamin J.,  Tanmoy K. Mukherjee,  Amit Seru,  and Vikrant Vig. 2008. "D
 
 Khandani,  Amir E.,  and Andrew W. Lo. 2007. "What Happened to the Quants in August 2007?" *Journal of Investment Management*,  5 (4): 5–54.
 
-Kiyotaki,  Nobuhiro,  and John Moore. 1997. "Credit Cycles." *Journal of Political Economy, * 105 (2): 211– 48.
+Kiyotaki,  Nobuhiro,  and John Moore. 1997. "Credit Cycles." *Journal of Political Economy,  * 105 (2): 211– 48.
 
-Kyle,  Albert S. 1985. "Continuous Auctions and Insider Trading." *Econometrica, * 53 (6): 1315– 35.
+Kyle,  Albert S. 1985. "Continuous Auctions and Insider Trading." *Econometrica,  * 53 (6): 1315– 35.
 
 Mitchell,  Mark,  Lasse Heje Pedersen,  and Todd Pulvino. 2007. "Slow Moving Capital." American Economic Review,  97 (2): 215–20.
 
 Morris,  Stephen Edward,  and Hyun Song Shin. 2004. "Liquidity Black Holes." *Review of* Finance,  8 (1): 1–18.
 
-Myers,  Stewart. 1977. "Determinants of Corporate Borrowing." *Journal of Financial Economics, *
+Myers,  Stewart. 1977. "Determinants of Corporate Borrowing." *Journal of Financial Economics,  *
 5 (2): 147–75.
 
-Nakamoto,  Michiyo,  and David Wighton. 2007. "Citigroup Chief Stays Bullish on Buyouts." *Financial Times, * July 9,  2007. Available at:
+Nakamoto,  Michiyo,  and David Wighton. 2007. "Citigroup Chief Stays Bullish on Buyouts." *Financial Times,  * July 9,  2007. Available at:
 http://www.ft.com/cms/s/0/80e2987a-2e5011dc-821c-0000779fd2ac.html.
 
-Shleifer,  Andrei,  and Vishny,  Robert W. 1992. "Liquidation Values and Debt Capacity: A Market Equilibrium Approach." *Journal of Finance, *
+Shleifer,  Andrei,  and Vishny,  Robert W. 1992. "Liquidation Values and Debt Capacity: A Market Equilibrium Approach." *Journal of Finance,  *
 47 (4): 1343– 66.
 
-Shleifer,  Andrei,  and Vishny,  Robert W. 1997. "The Limits of Arbitrage." *Journal of Finance, * 52 (1): 35–55.
+Shleifer,  Andrei,  and Vishny,  Robert W. 1997. "The Limits of Arbitrage." *Journal of Finance,  * 52 (1): 35–55.
 
-Stein,  Jeremy C. 2005. "Why Are Most Funds Open-End? Competition and the Limits of Arbitrage." *Quarterly Journal of Economics, * 120 (1):
+Stein,  Jeremy C. 2005. "Why Are Most Funds Open-End? Competition and the Limits of Arbitrage." *Quarterly Journal of Economics,  * 120 (1):
 247–72.
 
 UBS. 2008. "Shareholder Report on UBS's Write-Downs." April,  18. Available at: http://www. ubs. Com/1/e/investors/shareholderreport. Html.
