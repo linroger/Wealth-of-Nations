@@ -1,20 +1,12 @@
 ---
-title: 'Moody’s Approach to Assessing the Adequacy of "liquidity Risk Insurance"'
+title: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
+aliases:
+  - Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 ---
-
-# Moody’s Approach to Assessing the Adequacy of "liquidity Risk Insurance"
-
-### Rating Methodology
-
-![](https://storage.simpletex.cn/view/fAQAH7pIB1Az0sRUqdXNdGgPbUrgksNPQ)
-
-## RATING METHODOLOGY
 
 # Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 
-Reduced Availability of Traditional Backstop Heigbtens Need for Systemic Analysis
-
-Product of the Standing Committee on Liquidity and Confidence Sensitivity
+### Rating Methodology
 
 ## Summary Opinion
 
@@ -30,8 +22,6 @@ We note that liquidity profiles vary significantly for issuers across different 
 
 To accommodate this diversity, Moody's uses an issuer-by-issuer approach to assess the adequacy of liquidity insurance arrangements. Moody's avoids the use of pre-determined target liquidity levels.
 
-------------------------------------------------------------------
-
 # What Moody's is Doing to Address the Changing Landscape of Alternate Liquidity
 
 In response to the current squeeze in available backstop arrangements - and the potential for increased systemic risk - Moody's has stepped up our outreach program around this issue. Over the course of the past year, the Standing Committee on Confidence Sensitivity and Liquidity has been in active contact with issuers, investors, and intermediaries regarding alternate liquidity issues. Our outreach program is an iterative process, and further refinement to our approach is likely as a result of our active dialogue.
@@ -39,10 +29,8 @@ In response to the current squeeze in available backstop arrangements - and the 
 We see this issue as the most important concern facing the fixed income market at present. The committee is conducting internal seminars on a number of current themes and trends in the marketplace and is giving bankers feedback on a variety of new, liquidity-related products.
 
 The Standing Committee is also soliciting the views of issuers, investors, and bankers on an array of alternate liquidity topics including the adequacy of commercial paper backstop. Committee members are approaching commercial paper issuers directly worldwide, on a global basis, to solicit views. In our discussions, a majority of issuers have expressed the belief that the required amount of alternate liquidity for commercial paper should factor:
-
-● The issuer's cashflow matched against its short-term debt maturity profile
-
-● The issuer's ability to manage its working capital and capital spending
+- The issuer's cashflow matched against its short-term debt maturity profile
+- The issuer's ability to manage its working capital and capital spending
 
  Funding diversity through regular global market access and/or securitizations
 
@@ -52,13 +40,6 @@ The new environment requires a more refined and systematic analysis. In short, t
 
 The cornerstone of our approach is based on the fact that the issuer's individual circumstances will always transcend general criteria. This approach is essential to our proper governance and ultimately to the value we deliver to the market.
 
-Editor
-
-Authors
-
-Pamela M. Stumpp Daniel Gates
-
-------------------------------------------------------------------
 
 ## Market Developments
 
@@ -82,8 +63,6 @@ Issuers tell us that they are seeing a marked change over the past two to three 
 Some issuers are responding to the squeeze by shifting their approach to liquidity risk insurance. Moody's is seeing lower levels of committed facilities to support commercial paper programs; backstop supports that are being managed to average - but not to peak - commercial paper outstandings; shorter average maturities and, most of all, greater reliance on alternate sources of liquidity
 
 As the cost of backstop arrangements moves up, there is a concomitant pressure to reduce “insurance coverage” causing concern about an increase in systemic risks.
-
-------------------------------------------------------------------
 
 # Moody's Step-By-Step Approach
 
@@ -290,17 +269,13 @@ Moody's Commercial Paper Defaults and Rating Transitions, 1972-1998 - May 1998).
 
 Since 1972, 11 issuers with Moody's ratings have defaulted on commercial paper. Exhibit 2 lists these issuers along with details of their defaults and their ratings before default. Moody's short-term debt rat ings emphasize default risk, rather than the emphasis on expected loss for long term ratings. It is noteworthy that most defaults eventually resulted in full recovery for commercial paper holders. This illustrates the importance of immediacy in considering various sources of cash. For all sources of cash we consider immediacy (critical), quality, and diversity
 
-------------------------------------------------------------------
-
 ## The following considerations apply for various liquidity sources:
 
 ### INTERNAL SOURCES OF LIQUIDITY
 
 Cash on Hand
-
 In evaluating an issuer's cash on-hand we consider:
-
-·Currencies in which an issuer invests Possible complications related to cross border repatriation, currency conversion and tax issues.
+· Currencies in which an issuer invests Possible complications related to cross border repatriation, currency conversion and tax issues.
 
 Near Term Cash Assets
 
