@@ -1,14 +1,8 @@
 ---
-title: Moodys Subprime Rmbs Loss Projection Update March 2009
+title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 ---
 
-# Moodys Subprime Rmbs Loss Projection Update March 2009
-# Structured Finance Rating Methodology Subprime Rmbs Loss Projection Update,  March 2009
-
-_Subprime_RMBS_Loss_Projection_Update_
-![0_Subprime_RMBS_Loss_Projection_Update_0.Png](0_Subprime_RMBS_Loss_Projection_Update_0.Png)
-
-www.moodys.com
+# Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 
 ## Contents - Summary
 
@@ -58,7 +52,7 @@ However,  as noted above,  intervention attributable to the Homeowner Affordabil
 
 | Figure 4                                                                    |                       |            |            |            |             |             |          |            |
 |-----------------------------------------------------------------------------|-----------------------|------------|------------|------------|-------------|-------------|----------|------------|
-| 1 st Lien Subprime Average Performance,        by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
+| 1 st Lien Subprime Average Performance,              by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
 |                                                                             | % of Original Balance |            |            |            |             |             |          |            |
 | Origination                                                                 | Pool                  | 30-59 Days | 60-89 Days | 90+ Days   |             | Real Estate | Total    | Cumulative |
 | Quarter                                                                     | Factor                | Delinquent | Delinquent | Delinquent | Foreclosure | Owned       | 60+ Days | Loss       |
@@ -393,6 +387,39 @@ Exhibit 15 shows the baseline one-year default rate forecasts across industries 
 
 ![](Dropover%202024-09-29%2002.54.43.png)
 
+1.There is only one European issuer in the Consumer Service industry
+
+Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody’s-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. further to0.2in 2009 from 0.3 in 2008.Among investment-grade companies,         of issuers are expected to have their ratings downgraded toBa1 orbelow in the coming twelve months.On the otherhand,  only   of speculative-grade issuers are expected to become rising stars in 2009.
+
+**Recovery Outlook**
+
+As recovery rates are negatively correlated with default rates,  Moody’s expectsrecovery rates to decline in 2009 as default rates continue to increase.Moreover,  recoveries are likely to be below historical averages as aresult of strong loan issuance inrecent years.The increasing share of loans in issuers’liability structures implies less protection for loan investors because it entails a corresponding reduction in the share of total debt junior to the loans—which servesas a first-loss cushion for theloansin the event of default.For unsecured bond holders,  the increasing loan shares imply more debt senior to the bonds and,  therefore,  lower recovery rates on those bonds.Based on Moody’s current LGD assessments,  the average expectedrecovery rate across all U.S.first lien loans is   ,  which compares with ahistorical average of   from Moody’s ultimate recovery database. For senior unsecured bonds,  the average expected recovery rate is   which is also lower than historical average of   (see Exhibit 16). In light of the current economic slowdown,  we also present the LGD outlook under regularand stress-downturn scenarios where firm-wide recovery rates average   and   respectively. In the previous two credit cycles of1991 and 2001,  firm-wide recovery rates averaged roughly   . However,  the current downturn,  and its impact on firm-wide recovery rates,  could certainly be more severe than those associated with the previous two credit cycles.
+
+**Corporate Default and Recovery Rates,  1920-2008**
+
+Exhibit 16
+![](f5b129b84cbe41a54130da80b3bcbe5a07081595dc60b1b4ed40bef9ce2687d5.png)
+**Rating Accuracy Metrics.**
+
+Moody’s ratings have historically proven to be effective predictors of default. This is illustrated in Exhibit 17,  which plots the average and median ratings of roughly 1,  300 corporate issuers that defaulted from 1983 to 2008. The chart shows that Moody’s-rated issuers have,  on average,  been downgraded to the Ba3 level as early as fiveyears prior to default.Among issuers that defaulted in2008,  the average rating is Ba2fiveyears prior to default,  which is slightly higher than its comparable historical average. In the year prior to default,  2008. defaulters’ ratings were downgraded to B2 on average,  which is comparable to historical average since 1983
+
+Exhibit 17
+![](7016775767f2e47f504b3e8a4b7f9a6132dc24c204ff1f68cbc0ce686ec22b1c.png)
+As a valuable tool tomeasure credit risk,  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default.Ametric designed to measure this aspect of ratings performance is the cumulative accuracy profile(CAP) plot as shown in Exhibit 18.A rating system that possessed no predictive information about default risk would lie on the   line; the further the CAP curve
+
+**Corporate Default and Recovery Rates,  1920-2008**
+
+bows toward the northwest comer,  the betterit is at identifying defaults in the riskiest rating categories.Exhibi 18 shows that the CAP curvefor 2008liesbelow the one for the1983-2008period,  which indicates a worse performance in 2008relative to the historical average.The drop inrating performance in 2008is largely the result of several investment-grade defaults in the banking and financial sectors,  including Lehman Brothers,  Washington Mutual and three Icelandic banks.
+
+Exhibit 18
+![](f71ff7b9aad919132b0ff709098d51be717e744967b23105bc13620ccc430a2a.png)
+Another way to measure rating performance is the accuracy ratio,  which is derived from the CAP curve.The accuracy ratio (AR) is the ratio of the area between the CAP curve and the   line,  to the maximum possible area above the   line. AR values range from minus one to positive one and a higher AR indicates better. rating accuracy. Exhibit 19 shows both oneand five-year horizon accuracy ratios for the period of 1983-2008. The graph suggests that the one-year accuracy ratiois positively correlated with the credit cycle: when defaults increase,  the accuracy ratio falls.At the five-year horizon this correlation is much less evident. In the short run,  the stability objective of Moody’s rating system dampens rating changes; at longer time horizons,  the stability objective is less of a constraint,  and accuracy increases.
+
+Exhibit 19
+![](19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png)
+
+### Data and Tables
+
 ![](Preview%202024-09-29%2002.55.06.png)
 
 ![](Preview%202024-09-29%2002.55.18.png)
@@ -464,3 +491,19 @@ Exhibit 15 shows the baseline one-year default rate forecasts across industries 
 ![](Preview%202024-09-29%2002.59.44.png)
 
 ![](Preview%202024-09-29%2002.59.55.png)
+
+**Guide to Data Tables and Charts**
+
+In this section we briefly describe theinterpretation of some of the Exhibits contained in thisreport Methodological details are discussed in separate sections below.
+
+Exhibit 11 presents Moody’s speculative-grade default rate forecast for 2009.The model generated point forecasts for each month are shown,  as well as forecasted optimistic and pessmistic bounds. The pessimistic and optimistic bounds represent positive and negative economic scenarios for the U.S. unemployment rate and highyield spread.
+
+Exhibit 17 was derived bymapping Moody’sratings to a linear scale,  then taking the average and median values of the numerically mapped ratings
+
+Exhibit 27 shows average senior unsecured recovery rates by letter rating and year prior to default.Each cell in the table indicates the average recovery rate on senior unsecured bonds with a specific rating within T years of default. For example,  the   two-year B recovery rate reported in Exhibit 27 indicates that the average recovery rate on B rated issues that default at some time within a two-year period,  not mean recovery rate for issuers rated B exactly two years before default Together with issuer-weighted average cumulative default. rates,  these multi-period recovery estimates are use to calculate cumulative expected credit loss rates,  as presented in Exhibit 28
+
+Exhibits 38 through 42 show issuer-weighted historical average default rates by rating category over various investment horizons. These data were generated by averaging the multi-year default rates of cohorts formed at monthly intervals. In addition to being statements of historical fact,  these data are also useful proxies for expected default rates.For example,  over a five-year period a portfolio of B-rated issuers defaulted at a   average rate between1983 and 2008(see Exhibit 40).For an investor with a five-year exposure to a B-rated debt obligation or counterparty,  this estimate also happens to be the best estimate of the expected risk of default for a B-rated exposure based on the available historical data,  particularly over long investment horizons
+
+Exhibit 46 shows average cumulative volume-weighted default rates by rating category. Whereas issuer-basec. default rates weight each issuer equally,  these data weight each issuer by the total volume of defaulted debt; larger defaults receive relatively more weight. Average default rates based on debt volume affected are less suitable estimates of expected default risk.One reason is that issuer default volumes vary considerably over time. On average,  a leveraged corporate issuer defaults on approximately   million of bonds. However that total can be very high (e.g.   billion for WorldCom). Issuer-based default rates receive particular. emphasis in the rating process because the expected likelihood of default of a debt issuer holding a given rating is expected be the sameregardlessof differencesin the nominalsizes of the exposures
+
+Exhibit 47 shows the cumulative issuer-weighted historical default rates of cohorts formed at annual intervals between theyears 1970 and 2008(January 1of each year).These data are a subset of the data used to calculate the issuer-weighted averages shown in Exhibits 38 through 40(which,  again,  are based on cohorts formed at monthly time intervals).The default rates in Exhibit 47maybe useful for scenario analysis.For example,  if one believed that future default rates for a given pool of issuers will behave as they did in,  say,  1997,  then one can use the January 1,  1997 cohort cumulative default rates as proxies for expected default rates.
