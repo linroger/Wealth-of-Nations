@@ -58,7 +58,7 @@ However,  as noted above,  intervention attributable to the Homeowner Affordabil
 
 | Figure 4                                                                    |                       |            |            |            |             |             |          |            |
 |-----------------------------------------------------------------------------|-----------------------|------------|------------|------------|-------------|-------------|----------|------------|
-| 1 st Lien Subprime Average Performance,  by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
+| 1 st Lien Subprime Average Performance,        by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
 |                                                                             | % of Original Balance |            |            |            |             |             |          |            |
 | Origination                                                                 | Pool                  | 30-59 Days | 60-89 Days | 90+ Days   |             | Real Estate | Total    | Cumulative |
 | Quarter                                                                     | Factor                | Delinquent | Delinquent | Delinquent | Foreclosure | Owned       | 60+ Days | Loss       |
@@ -147,7 +147,7 @@ As noted above,  we have tempered its "no-intervention" loss projections to acco
 
 ## Estimating Modification Rates
 
-In light of the HASP plan's goals and industry-wide call to action,  as well as the incentive payments and cost-sharing it offers,  servicers are likely to seek to implement more aggressive modification terms wherever possible. The $1, 000 upfront cash incentive provided to servicers for each modification will alleviate additional costs associated with active loss mitigation efforts and could encourage servicers to modify more loans. In forecasting modification rates under the HASP plan,  we assume that servicers will be reasonably aggressive in their modification efforts.
+In light of the HASP plan's goals and industry-wide call to action,  as well as the incentive payments and cost-sharing it offers,  servicers are likely to seek to implement more aggressive modification terms wherever possible. The $1,  000 upfront cash incentive provided to servicers for each modification will alleviate additional costs associated with active loss mitigation efforts and could encourage servicers to modify more loans. In forecasting modification rates under the HASP plan,  we assume that servicers will be reasonably aggressive in their modification efforts.
 
 Given these assumptions and constraints,  Moody's modification analysis begins by projecting the balance of loans that will be modified. The starting point for this projection is Moody's calculation of the percentage of expected future defaults using the methodology described above. This calculation is made by merely taking projected future losses,  as a percentage of the outstanding balance divided by expected future severity. Once we derive expected future defaults without intervention,  we then determine the balance of loans which may be modified by eliminating those that are identified as ineligible,  including:
 
@@ -253,7 +253,7 @@ The resulting total projected losses for the 2005,  2006 and 2007 vintages are s
 In Moody's updated projections,  the 2005 vintage will ultimately lose an average of 13% of original securitized balance,  corresponding to an additional loss of 36% of the outstanding balance. 2006 vintage subprime pools will ultimately lose an average of 30% of the original securitized balance,  corresponding to an additional loss of 45% of the outstanding balance. Subprime pools issued in 2007 pools will on average lose 36% of original balance,  an additional 42% of the outstanding collateral balance. A number of factors will influence the extent to which ultimate losses differ from Moody's updated projections. Loss severities will depend in part on whether home price depreciation proceeds ahead of or behind Moody's expectation as well as the speed of the foreclosure and liquidation process. Future default frequencies will likely be influenced by broad economic factors such as unemployment. Further economic decline would hasten the pace of new defaults,  while a strong rebound might dampen it. And,  among the largest uncertainties,  the willingness of the government to directly intervene in the housing and/or securitization markets could have substantial impact on the ultimate outcome. There will continue to be much uncertainty about the ultimate scope and effectiveness of the recently announced Homeowner Affordability and Stability Plan for at least several months,  and potentially well over a year. Given this uncertainty and the rating implications of successful,  large-scale loss mitigation efforts,  Moody's has tempered its loss expectations accordingly. If the program ultimately proves underutilized or recidivism rates exceed our estimates,  we may revise our loss projections accordingly.
 
 | Figure 8                                                            |                                       |                                 |       |       |       |       |
-|---------------------------------------------------------------------|---------------------------------------|---------------------------------|-------|-------|-------|-------|
+| ------------------------------------------------------------------- | ------------------------------------- | ------------------------------- | ----- | ----- | ----- | ----- |
 | Summary of Moody's Subprime loss Projections By Quarter of Issuance |                                       |                                 |       |       |       |       |
 |                                                                     | Loss Projections (% Outstanding Bal.) | Expected Loss (% Original Bal.) |       |       |       |       |
 | Moody's                                                             |                                       |                                 |       |       |       |       |
@@ -262,18 +262,18 @@ In Moody's updated projections,  the 2005 vintage will ultimately lose an averag
 |                                                                     | Subprime DBF  Method                  |                                 |       |       |       |       |
 | Origination  Quarter                                                | With                                  |                                 |       |       |       |       |
 |                                                                     | Modification  Adjustment              | Net Change                      |       |       |       |       |
-| 1 Q 2005                                                             | 34.0%                                 | 30.0%                           | -4.0% | 7.5%  | 6.9%  | -0.6% |
-| 2 Q 2005                                                             | 37.4%                                 | 33.1%                           | -4.3% | 11.0% | 10.1% | -0.9% |
-| 3 Q 2005                                                             | 41.8%                                 | 37.0%                           | -4.8% | 15.4% | 14.2% | -1.2% |
-| 4 Q 2005                                                             | 44.7%                                 | 39.6%                           | -5.1% | 21.7% | 19.8% | -1.8% |
-| 1 Q 2006                                                             | 47.4%                                 | 42.0%                           | -5.4% | 25.8% | 23.7% | -2.1% |
-| 2 Q 2006                                                             | 52.0%                                 | 46.4%                           | -5.7% | 30.7% | 28.2% | -2.5% |
-| 3 Q 2006                                                             | 51.3%                                 | 45.1%                           | -6.2% | 36.4% | 32.9% | -3.5% |
-| 4 Q 2006                                                             | 52.1%                                 | 45.7%                           | -6.4% | 40.1% | 35.9% | -4.1% |
-| 1 Q 2007                                                             | 51.2%                                 | 44.7%                           | -6.5% | 41.6% | 37.1% | -4.5% |
-| 2 Q 2007                                                             | 50.9%                                 | 44.3%                           | -6.5% | 43.4% | 38.4% | -5.1% |
-| 3 Q 2007                                                             | 48.4%                                 | 42.1%                           | -6.4% | 40.2% | 35.1% | -5.1% |
-| 4 Q 2007                                                             | 42.1%                                 | 36.4%                           | -5.7% | 36.1% | 31.3% | -4.8% |
+| 1 Q 2005                                                            | 34.0%                                 | 30.0%                           | -4.0% | 7.5%  | 6.9%  | -0.6% |
+| 2 Q 2005                                                            | 37.4%                                 | 33.1%                           | -4.3% | 11.0% | 10.1% | -0.9% |
+| 3 Q 2005                                                            | 41.8%                                 | 37.0%                           | -4.8% | 15.4% | 14.2% | -1.2% |
+| 4 Q 2005                                                            | 44.7%                                 | 39.6%                           | -5.1% | 21.7% | 19.8% | -1.8% |
+| 1 Q 2006                                                            | 47.4%                                 | 42.0%                           | -5.4% | 25.8% | 23.7% | -2.1% |
+| 2 Q 2006                                                            | 52.0%                                 | 46.4%                           | -5.7% | 30.7% | 28.2% | -2.5% |
+| 3 Q 2006                                                            | 51.3%                                 | 45.1%                           | -6.2% | 36.4% | 32.9% | -3.5% |
+| 4 Q 2006                                                            | 52.1%                                 | 45.7%                           | -6.4% | 40.1% | 35.9% | -4.1% |
+| 1 Q 2007                                                            | 51.2%                                 | 44.7%                           | -6.5% | 41.6% | 37.1% | -4.5% |
+| 2 Q 2007                                                            | 50.9%                                 | 44.3%                           | -6.5% | 43.4% | 38.4% | -5.1% |
+| 3 Q 2007                                                            | 48.4%                                 | 42.1%                           | -6.4% | 40.2% | 35.1% | -5.1% |
+| 4 Q 2007                                                            | 42.1%                                 | 36.4%                           | -5.7% | 36.1% | 31.3% | -4.8% |
 
 ## Impact Of Updated Loss Projections On Ratings
 
@@ -328,7 +328,68 @@ Moody's applied Updated LTVs and general assumptions regarding the costs of main
 
 ![](Dropover%202024-09-29%2002.54.23.png)
 
+**Corporate Default and Recovery Rates,  1920-2008**
+
+The recovery data discussed above is based on debt trading prices 30 days after the default date.An alternative recovery measure is based on ultimate recoveries,  or the value creditors realize at the resolution of a default event.For example,  for issuers filing for bankruptcy,  the ultimate recoveries are the present values of the cash and/or securities that creditors actuallyreceive when these issuers exit bankruptcy,  typically 1-2 years following their initial default dates.
+
+In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody’s Ultimate Recovery Database.Last year,  Moody’s added 20 firms that either emerged from bankruptcy or resolved their default events in 2008.The average “firm-wide”recovery rate for these 20 firms was   ,  below 2007’s   level,  but still well above the long-term average of   since 1987.As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages.However,  among the10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer’s default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed cyclicality of ultimate recovery rates and default rates.
+
 ![](Dropover%202024-09-29%2002.54.30.png)
+
+1. Some of thesenumbers differ from last year’s report due to newdata being added to the Uitimate Recovery Database during 2008.
+1. There were only two sr. sub bond defaults in 2008.
+
+As highlighted above,  Moody’s and other academic researchers have found that annual corporate default rates are negatively correlated with annual average recovery rates as measured bypost-default trading prices. There is also a similar negative relationshipusing ultimate data.As shown inpanel Ain Exhibit 9,  a linear regression of annual average senior unsecured bond recovery rates on annual speculative-grade default rates yields an R-square value of 0.5.In panel B using firm-wide ultimate recoveries,  a similar negative correlation isalso observedwith anR-square of 0.4
+
+**Corporate Default and Recovery Rates,  1920-2008**
+
+**Exhibit 9**
+
+Correlation between Default and Recovery Rates
+
+Moody’s credit ratings are opinions of relative expected credit losses upon default,  which are functions of both the probability of default and severity of default (LGD). Exhibit 10 shows annual credit loss rates from 1982 to 2008 for Moody’s-rated corporate issuers. In 2008,  the rising default rate,  coupled with a higher loss severity rate,  led to an increase in the credit lossrate among Moody’s-rated issuers to   ,  compared to   in 2007. The average annual credit loss rate since 1982 is   (see underlying data in Exhibit 29)
+
+Exhibit 10
+![](d736bf5cd6656dd57faf000dd0dc80f72cbee80d23f0e87f0a33cac060a132e7.png)
+
+**Default and Recovery Outlook for 2009**
+
+**Default Rate Forecasts**
+
+The ongoing banking crisis and global economic downtum makeit almost certain that default rates will continue to climb sharply during 20o9. The only outstanding questions are to what levels they will rise and how quickly.Because the impact of the current economic downturn on corporate debt issuers is likely to be more severe than for the two most recent credit cycles of the early 1990s and 2000s,  Moody’s expects that the speculative-grade default rate willexceed the peaks of   and   reached in those cycles,  respectively. Indeed,  the speculative-grade default rate could exceed the   record level set in 1933 when the speculative-grade market was solely a fallen angel market comprised exclusively of downgraded. investment-grade issuers.
+
+Moody’s formal forecasting model,  the Credit Transition Model   ,  indicates that the global issuerweighted speculative-grade default rate willhit a peak of   in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of.   at the endof 2008.In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
+
+Exhibit 11 shows the model’s baseline forecasts through 2009,  as well as the optimistic and pessimistic forecast scenarios. The baseline forecast assumes that the unemployment rate will increase to.   in the U.S. and   in Europe by year end.We note,  however,  that the high level of uncertainty surrounding the likely severity and length of the current global economic downturn imply similarlyhigh uncertainty around the point estimates of model-based forecasts of default rates.Moreover,  some of the model’s main drivers,  including the current record lowratings mix of Moody’s issuers and record high levels of high yield bond spreads,  are in ranges not seen in the historical data used to parameterize the model,  implying heightened model risk.
+
+Exhibit 11
+![](502692e1577f88dfbc8a5309c7dc18d1d77c24cefa193020d68cd4e742f589c4.png)
+
+The high level of the high yield bond spread,  which is a primary driver underlying the model’s forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1.oo0 basis points,  also climbed sharply and now stands at   of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
+
+**Corporate Default and Recovery Rates,  1920-2008**
+
+high yield spreads,  and Moody’s Distressed Issuer index.The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the speculative-grade default rate.During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1,  000 basis points,  and were associated with peak speculative-grade default rates of roughly   . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo0 basis points in the high yield spread suggests that speculative-grade default rates could approach  
+
+Exhibit 12
+![](d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png)
+
+The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers.As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost   of Moody’s speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . roughly   of issuers currently rated Caa1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
+
+Exhibit 13
+![](72e1978fbcba22ae6cd273b73e27b2e045873f74136a051ef3942b166b5edf73.png)
+
+**Corporate Default and Recovery Rates,  1920-2008**
+
+In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of   billion in debt is coming due over the next three years,  which more than doubles the refunding needs of   billion between 2008 and   .This increase in issuers’ refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007.Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
+
+Exhibit 14
+![](8de854e5dd959227e89652a4a1e0b31ded87c2a9bfba5062b9e3c92e7c31131f.png)
+
+Across geographical regions,  the speculative default rate is expected to climb to   in the U.S. by year-end 2009,  while the European default rate is expected to rise more sharply to   .Driving this differential is the currently weaker ratings mix among European speculative-grade issuers relative to U.S. issuers.
+
+Exhibit 15 shows the baseline one-year default rate forecasts across industries in both the U.S. and Europe. In the U.S.,  the consumer transportation industry,  comprised mostly of airline companies,  is expected to experience the highest default rate at over.   .In Europe,  the most troubled sectoris expected to be durable consumer goods
+![](1e30a420691664048397c52acfac36e2994d8321608cd4590d305b7b91001587.png)
 
 ![](Dropover%202024-09-29%2002.54.43.png)
 
