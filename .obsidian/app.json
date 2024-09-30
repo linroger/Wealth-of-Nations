@@ -6,7 +6,8 @@
   "propertiesInDocument": "hidden",
   "userIgnoreFilters": [
     "Attachments/",
-    "Tags/"
+    "Tags/",
+    "svg-cache/"
   ],
   "showUnsupportedFiles": true
 }
