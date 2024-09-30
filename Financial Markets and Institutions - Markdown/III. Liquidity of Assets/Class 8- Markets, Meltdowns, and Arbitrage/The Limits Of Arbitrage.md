@@ -47,7 +47,7 @@ $$p_{2}=V-S_{2}+F_{2}.$$
  At time t = 2,  the price of the asset either recovers to V,  or it does not. If it recovers,  arbitrageurs invest in cash. If noise traders continue to be confused,  then arbitrageurs want to invest all of F 2 in the underpriced asset,  since its price rises to V at t = 3 for sure. In this case,  the arbitrageurs' demand for the asset $$Q_A(2) = F_2/p_2$$ and,  since the aggregate demand for the asset must equal the unit supply,  the price is given by: $$p_{2}=V-S_{2}+F_{2}.$$
  We assume that $F_2 < S_2$,  so the arbitrage resources are not sufficient to bring the period 2 price to fundamental value,  unless of course noise trader misperceptions have corrected anyway.
 
- In period 1,  arbitrageurs do not necessarily want to invest all of F 1 in the asset. They might want to keep some of the money in cash in case the asset becomes even more underpriced at t = 2,  so they could invest more in that asset. Accordingly,  denote by D 1 the amount that arbitrageurs invest in the asset at t = 1. In this case,  $$Q_A(1) = D_1/p_1,       $$ and
+ In period 1,  arbitrageurs do not necessarily want to invest all of F 1 in the asset. They might want to keep some of the money in cash in case the asset becomes even more underpriced at t = 2,  so they could invest more in that asset. Accordingly,  denote by D 1 the amount that arbitrageurs invest in the asset at t = 1. In this case,  $$Q_A(1) = D_1/p_1,        $$ and
 $$p_{1}=V-S_{1}+D_{1}.$$
  We again assume that,  in the range of parameter values we are focusing on,  arbitrage resources are not sufficient to bring prices all the way to fundamental values,  i.e.,  F 1 < S 1.
 
@@ -58,7 +58,7 @@ $$p_{1}=V-S_{1}+D_{1}.$$
 
  Under these informational assumptions,  individual arbitrageurs who experience relatively poor returns in a given period lose market share to those with better returns. Moreover,  since all arbitrageurs in a given segment are taking the same positions,  they all attract or lose investors simultaneously,  depending on the performance of their common arbitrage strategy. Specifically,  investors' aggregate supply of funds to the arbitrageurs in a particular segment at time 2 is an increasing function of arbitrageurs' gross return between time 1 and time 2 (call this performance-based-arbitrage or PBA). Denoting this function by G,  and recognizing that the return on the asset is given by P 2/P 1' the arbitrageurs' supply of funds at t = 2 is given by:
 
-$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\},        $$
+$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\},         $$
 with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
  If arbitrageurs do as well as some benchmark given by performance of arbitrageurs in other markets,  which for simplicity we assume to be zero return,  they neither gain nor lose funds under management. However,  they gain (lose) funds if they outperform (under perform) that benchmark. Because of the extremely poor quality of investors' information,  past performance of arbitrageurs completely determines the resources they get to manage,  regardless of the actual opportunities available in their market.
 
@@ -66,9 +66,9 @@ with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
 
  Since our results do not rely on the concavity of the G function,  we focus on a linear G,  given by
 
-$$G(x)=a x+1-a,        \qquad\mathrm{with}\quad a\equiv1,        $$
+$$G(x)=a x+1-a,         \qquad\mathrm{with}\quad a\equiv1,         $$
 $$\mathbf{\Sigma}_{1}).\qquad(\mathbf{6})$$
-$$\{\ +(1\,        -\,        a)F_{1}=F_{1}-$$
+$$\{\ +(1\,         -\,         a)F_{1}=F_{1}-$$
 $$\mathbf{\Sigma}$$
  G (x) = ax + 1 - a,  with a: 1,  (5)
  Where x is arbitrageur's gross return. In this case,  equation (4) becomes:
@@ -108,7 +108,7 @@ $$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}
 
  The first order condition to the arbitrageur's optimization problem is given by: V P 2 V
 
-$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\,        \frac{V}{p_{2}}\equiv0\tag{8}$$
+$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\,         \frac{V}{p_{2}}\equiv0\tag{8}$$
 
  With strict inequality holding if and only if D 1 = F 1,  and equality holding if D 1 < F 1. The first term of equation (8) is an incremental benefit to arbitrageurs from an extra dollar of investment if the market recovers at t = 2. The second term is the incremental loss if the price falls at t = 2 before recovering at t = 3,  and so they have foregone the option of being able to invest more in that case. Condition (8) holds with a strict equality if the risk of price deterioration is high enough,  and this deterioration is severe enough,  that arbitrageurs choose to hold back some funds for the option to invest more at time 2. On the other hand,  equation (8) holds with a strict inequality if q is low,  if Pi is low relative to V (S 1 is large),  if P 2 is not too low relative to Pi (S not too large relative to Sj). That is to say,  the initial displacement must be very large and prices should be expected to recover with a high probability rather than fall further. If they do fall,  it cannot be by too much. Under these circumstances,  arbitrageurs choose to be fully invested at t = 1 rather than hold spare reserves for t = 2. We describe the case in which mispricing is so severe at t = 1 that arbitrageurs choose to be fully invested as "extreme circumstances,  " and discuss it at some length.
  This discussion can be summarized more formally in:
@@ -148,7 +148,7 @@ $$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr
  For concreteness,  it is easier to focus on the case of Proposition 3,  when arbitrageurs are fully invested. In this case,  we have that
 
 $$({\mathfrak{g}})$$
-$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],        $$
+$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],         $$
 
  as long as aF 1 < Pl. The condition that a F1 < Pi is a simple stability condition in this model,  which basically says that arbitrageurs do not lose so much money that in equilibrium they bail out of the market completely. If aF,  > Pl,  then at t = 2 the only equilibrium price is P 2 = V - S,  and arbitrageurs bail out of the market completely. In the stable equilibrium,  arbitrageurs lose funds under management as prices fall,  and hence liquidate some holdings,  but they still stay in the market.
 

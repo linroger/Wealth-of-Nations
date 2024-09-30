@@ -77,7 +77,7 @@ ACA had a higher nominal default probability than the asset it was insuring.
 - Appears that some regulations allowed a minimum rating requirement without regard to the default probability of the insured instrument.
  **The correlation of the insured and the insurer was ignored.**
 - ACA's business,  both with respect to insurance and management,  was structured finance.
- - One financial institution entered into $6.7 billion of trades with ACA in 3Q07,    when the approximate mark-to-market loss on the insured securities may have been multiple times ACA's capital.*Based on TABX 40-100% @ approx $0.40 in 8/07,  assuming all CDOs were mezzanine.
+ - One financial institution entered into $6.7 billion of trades with ACA in 3Q07,     when the approximate mark-to-market loss on the insured securities may have been multiple times ACA's capital.*Based on TABX 40-100% @ approx $0.40 in 8/07,  assuming all CDOs were mezzanine.
 
 # Counterparty Risk: Lessons Learned
  **Already re-learned:**

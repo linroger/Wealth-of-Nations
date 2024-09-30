@@ -1,6 +1,7 @@
 ---
 title: Turmoil in Financial Markets the Risk Business
 ---
+
 # Turmoil in Financial Markets the Risk Business
 
 - **Special Article: Turmoil In Financial Markets: The Risk Business**
@@ -54,7 +55,7 @@ title: Turmoil in Financial Markets the Risk Business
 	- The most striking thing about LTCM is not how similar it is to other hedge funds,  but how different.
 	- Indeed hedge funds in general are surprisingly different,  one from another.
 	- The first was formed in 1949 by Alfred Winslow Jones.
-	- At the last count,  there were getting on for 3, 000 hedge funds,  managing around $200 billion of investors' money,  according to TAss,  a research firm.
+	- At the last count,  there were getting on for 3,  000 hedge funds,  managing around $200 billion of investors' money,  according to TAss,  a research firm.
 	- Although there is no simple definition of a hedge fund,  they do have certain things in common.
 	- They are structured as limited partnerships,  often offshore,  which means that they are largely unregulated.
 	- They charge fat fees,  normally 20% of profits.
@@ -121,7 +122,7 @@ title: Turmoil in Financial Markets the Risk Business
 	- This exposure was mostly quite trifling compared with banks' total assets or capital.
 	- But these admissions were beside the point.
 	- Many banks have followed similar strategies to Long-Term Capital-but,  in aggregate,  on a bigger scale.
-	- According to some reports,  whereas LTCM had an exposure of $80 billion to arbitrage between American Treasuries,  banks had $3 trillion tied up in similar bets.
+	- According to some reports,  whereas LTCM had an exposure of $80 billion to arbitrage between American Treasuries,   banks had $3 trillion tied up in similar bets.
 	- It was for this reason that the Fed felt it had no choice but to organise the rescue of LTCM,  as Mr. Greenspan made clear in testimony to Congress.
 	- Had the fund gone bust,  and its positions been liquidated in a firesale,  it would have made banks' bets even more loss-making than they already were.
 	- Since these are revalued daily,  the banks could quickly have become technically insolvent.

@@ -7,10 +7,9 @@ linter-yaml-title-alias: "Class 5 Private Information,  Liquidity,  and Securiti
 # Class 5 Private Information,  Liquidity,  and Securitization
 
 %% Begin Waypoint %%
-
-- **[[Class 5- Private Information,   Liquidity,   and Securitization]]**
+- **[[Class 5- Private Information, Liquidity, and Securitization]]**
 	- [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders]]
-	- [[Class 5- Private Information,   Liquidity,   and Securitization]]
+	- [[Class 5- Private Information, Liquidity, and Securitization]]
 	- [[Class Note 9 Bid and Ask Prices With Private Information]]
 	- [[Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information]]
 	- [[Class Note 10 Liquidity and Liquidity Management]]
@@ -19,5 +18,6 @@ linter-yaml-title-alias: "Class 5 Private Information,  Liquidity,  and Securiti
 	- [[Southland Prepackaged Bankruptcy Submission.docx]]
 	- [[The High Frequency Arms Race]]
 	- [[The Only Game in Town Walter Bagehot]]
+	- [[Untitled]]
 
 %% End Waypoint %%
