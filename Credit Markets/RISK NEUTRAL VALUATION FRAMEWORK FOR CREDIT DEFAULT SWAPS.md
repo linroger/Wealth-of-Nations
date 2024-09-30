@@ -17,13 +17,11 @@ This set of lecture notes provides a thorough explanation of the risk neutral va
 1. CDS duration,  ParSpread,  and valuation formulas
 
 ## RISK NEUTRAL VALUATION PRINCIPLES
-
 The risk neutral valuation framework is based on the following principles:
-
 1. Each instrument is uniquely defined by its cumulative future cash flows: $CF(t),  \quad t \geq 0 \quad (1)$
-1. Risk neutral valuation uses a "market implied" probability measure $\mathbb{P}$ for determining prices of securities.
-1. A bank savings account security $B$ is used as a numeraire for discounting future cash flows: $B(t) = e^{\int_0^t r_s ds},  \quad t \geq 0$
-1. The present value is obtained as: $$PV(t) = B(t) \cdot \mathbb{E}\left[\int_t^{\infty} B(s)^{-1} \cdot dCF(s) | \mathcal{F}_t\right] \quad (2)$$
+2. Risk neutral valuation uses a "market implied" probability measure $\mathbb{P}$ for determining prices of securities.
+3. A bank savings account security $B$ is used as a numeraire for discounting future cash flows: $$B(t) = e^{\int_0^t r_s ds},  \quad t \geq 0$$
+4. The present value is obtained as: $$PV(t) = B(t) \cdot \mathbb{E}\left[\int_t^{\infty} B(s)^{-1} \cdot dCF(s) | \mathcal{F}_t\right] \quad (2)$$
 
 ## SIMPLE CASE: DETERMINISTIC INTEREST RATES
 
@@ -36,10 +34,9 @@ For the simple case of deterministic interest rates:
 ## CDS PREMIUM/FIXED LEG CASH FLOWS
 
 For CDS premium/fixed leg cash flows:
-
 1. Quarterly coupon payments until maturity $T = T_n$: ${c_i,  T_i}_{i=1…n},  \quad 0 \leq t < T_1 < … < T_n \quad (5)$
-1. We denote the random/stochastic issuer default time by: $\tau \in [0,  \infty)$
-1. Cumulative Premium Leg cash flows have stochastic dependence on $\tau$: $$PL(s):= \sum_{i=1}^n c_i \cdot \mathbf{1}_{{s \geq T_i}} \cdot \mathbf{1}_{{\tau > T_i}} \quad (6)$$
+2. We denote the random/stochastic issuer default time by: $\tau \in [0,  \infty)$
+3. Cumulative Premium Leg cash flows have stochastic dependence on $\tau$: $$PL(s):= \sum_{i=1}^n c_i \cdot \mathbf{1}_{{s \geq T_i}} \cdot \mathbf{1}_{{\tau > T_i}} \quad (6)$$
 
 ## VALUATION FRAMEWORK FOR CREDIT-RISKY CASH FLOWS
 
@@ -75,7 +72,7 @@ $= (1 - R) \cdot \int_t^T DF(t,  s) \cdot dDP(t,  s). \quad (20)$
 
 The intuitive interpretation is that the default leg present value at the (random) issuer default time is:
 
-$PV_{CDS_DL}(t) = \int_t^T (1 - R) \cdot DF(t,  s) \cdot dDP(t,  s) \quad (21)$
+$$ PV_{CDS_DL}(t) = \int_t^T (1 - R) \cdot DF(t,  s) \cdot dDP(t,  s) \tag{21} $$
 
 This is obtained by:
 
@@ -88,18 +85,18 @@ This is obtained by:
 Hazard rates $h(t,  s)$ represent infinitesimal probabilities of default at future time $s$,  using market information as of time $t$.
 
 1. Similar concept to forward interest rates.
-1. Hazard rate curves $h(t,  \cdot)$ defined implicitly from Survival Probability curves: $SP(t,  s) = \exp\left[-\int_t^s h(t,  u) du\right],  \quad 0 \leq t \leq s. \quad (24)$
-1. Or defined explicitly as: $h(t,  s) = -\frac{\partial}{\partial s} \ln[SP(t,  s)] = -\frac{1}{SP(t,  s)} \cdot \frac{\partial SP}{\partial s}(t,  s). \quad (25)$
+1. Hazard rate curves $h(t,  \cdot)$ defined implicitly from Survival Probability curves: $$SP(t,  s) = \exp\left[-\int_t^s h(t,  u) du\right],  \quad 0 \leq t \leq s. \tag{24}$$
+1. Or defined explicitly as: $$h(t,  s) = -\frac{\partial}{\partial s} \ln[SP(t,  s)] = -\frac{1}{SP(t,  s)} \cdot \frac{\partial SP}{\partial s}(t,  s). \tag{25}$$
 
 ## PROPERTIES OF HAZARD RATES
 
 Hazard rates $h(t,  s)$ quantify conditional probabilities of default "around" specific times $s$ in the future:
-$\mathbb{P}(s < \tau \leq s + \varepsilon | \tau > s,  \tau > t) \quad (26)$
+$$\mathbb{P}(s < \tau \leq s + \varepsilon | \tau > s,  \tau > t) \tag{26}$$
 
-$= \frac{\mathbb{P}(s < \tau \leq s + \varepsilon | \tau > t)}{\mathbb{P}(\tau > s | \tau > t)}$
-$= \frac{SP(t,  s) - SP(t,  s + \varepsilon)}{SP(t,  s)}$
-$= 1 - \exp\left[-\int_s^{s+\varepsilon} h(t,  u) du\right]$
-$\simeq h(t,  s) \cdot \varepsilon,  \quad 0 \leq t \leq s.$
+$$= \frac{\mathbb{P}(s < \tau \leq s + \varepsilon | \tau > t)}{\mathbb{P}(\tau > s | \tau > t)}$$
+$$= \frac{SP(t,  s) - SP(t,  s + \varepsilon)}{SP(t,  s)}$$
+$$= 1 - \exp\left[-\int_s^{s+\varepsilon} h(t,  u) du\right]$$
+$$\simeq h(t,  s) \cdot \varepsilon,  \quad 0 \leq t \leq s.$$
 
 ## VALUATION OF CDS DEFAULT/LOSS LEG USING HAZARD RATES
 
