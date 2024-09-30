@@ -1,8 +1,8 @@
 ---
 title: Money Market Mutual Fund Liquidity Facility
+aliases: [Money Market Mutual Fund Liquidity Facility]
+linter-yaml-title-alias: Money Market Mutual Fund Liquidity Facility
 ---
-
-Here’s the document formatted as requested:
 
 # Money Market Mutual Fund Liquidity Facility
 
@@ -25,7 +25,7 @@ Here’s the document formatted as requested:
 
 ### Funds
 
-   - A Fund must identify itself as a Prime,  Single State,  or Other Tax Exempt money market fund under item A0.\1 of Securities and Exchange Commission Form N-MFP.
+   - A Fund must identify itself as a Prime,  Single State,  or Other Tax Exempt money market fund under item A 0.\1 of Securities and Exchange Commission Form N-MFP.
 
 ### Advance Maturity
 

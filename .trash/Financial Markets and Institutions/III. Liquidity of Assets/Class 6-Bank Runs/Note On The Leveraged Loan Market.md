@@ -6,7 +6,7 @@ title: Note On The Leveraged Loan Market
 
 A leveraged loan is a senior secured syndicated credit that has a non-investment-grade rating or is priced like a non-investment-grade loan (which means that it carries a similar risk). Typically,  data providers classify loans as leveraged based on the spread: If the spread exceeds a certain threshold,  the loan is considered leveraged. This cutoff point is a moving target,  as spreads tend to compress in periods of credit expansion and expand in economic downturns. As will be discussed later in this note,  leveraged loans are primarily held by institutional investors. It is due to the wide investor base that leveraged loans—as distinct from other syndicated loans—are treated as a separate asset class and receive a lot of coverage from financial analysts.
 
-Starting in the late 1990s,  leveraged loans were the main form of financing for highly levered corporate transactions. Over 90% of all LBOs worldwide were backed by a leveraged loan. In contrast,  only 7% of all LBOs had a senior bond and 22% had a subordinated bond as part of debt financing. Not considering revolving credit,  leveraged loans on average accounted for 75% of the debt financing of LBOs,  while bonds accounted for less than 12%. (See **Exhibit 1** for the funding structure of a typical LBO.) Of the leveraged loans issued in 2017,  almost 45% were used to finance sponsored transactions. The leveraged loan market experienced a severe contraction during the 2007–2009 financial crisis,  hitting its lowest point in the fourth quarter of 2008. However,  the overall syndicated loan market and leveraged loan market,  in particular,  had been on the rise since. According to Bloomberg,  the total volume of U.S. syndicated loans was roughly $2.4 trillion in 2017,         an 18.97% increase from the previous year. U.S. leveraged loan volume in 2017 was about $1.5 trillion,  up 48.43% from the previous year. (See **Exhibit 2** for the evolution of annual leveraged loan issuance in the global market.)
+Starting in the late 1990s,  leveraged loans were the main form of financing for highly levered corporate transactions. Over 90% of all LBOs worldwide were backed by a leveraged loan. In contrast,  only 7% of all LBOs had a senior bond and 22% had a subordinated bond as part of debt financing. Not considering revolving credit,  leveraged loans on average accounted for 75% of the debt financing of LBOs,  while bonds accounted for less than 12%. (See **Exhibit 1** for the funding structure of a typical LBO.) Of the leveraged loans issued in 2017,  almost 45% were used to finance sponsored transactions. The leveraged loan market experienced a severe contraction during the 2007–2009 financial crisis,  hitting its lowest point in the fourth quarter of 2008. However,  the overall syndicated loan market and leveraged loan market,  in particular,  had been on the rise since. According to Bloomberg,  the total volume of U.S. syndicated loans was roughly $2.4 trillion in 2017,          an 18.97% increase from the previous year. U.S. leveraged loan volume in 2017 was about $1.5 trillion,  up 48.43% from the previous year. (See **Exhibit 2** for the evolution of annual leveraged loan issuance in the global market.)
 
 The goal of this note is to introduce key concepts related to the leveraged loan market and to outline the primary factors that influence leveraged loan issuance. In particular,  the note explains the roles that banks and institutional investors play in this segment of the loan market.
 
@@ -92,13 +92,13 @@ Close were the largest investors in—and arguably the largest driving force beh
 
 Exhibit 7 illustrates the structure of a typical CLO. To structure a CLO,  a collateral manager—typically an investment management company—sets up a bankruptcy-remote special purpose vehicle (SPV). The collateral manager then assembles a collateral portfolio by acquiring pieces of syndicated corporate loans,  engages with the underwriter and credit rating agency to structure and rate the deal,  and issues securities to investors backed by the principal and interest payments from the loans. A CLO manager's compensation is only weakly tied to deal performance. CLO managers used to receive a base fee on the order of 40–50 basis points per year,  typically senior to all notes,  but this is likely to change with the risk retention for securitized products,  required by the Dodd-Frank Act. CLO managers are not required to hold equity in the deal,  but most often do own a share of the equity,  receive an incentive fee that is subordinate to equity,  or have a partial claim on the residual interest. CLO decisions are made by the CLO managers,  so the fact that their incentives are tied to the equity tranche and not to the whole overall structure—as they would be for any other lender—is important.
 
-To put together a collateral pool,  a CLO usually participates in over 100 syndications. An average CLO is roughly $500 million in size (in 2007,         it was $571 million,  and in 2012,  it was $486 million). The average size of an individual loan holding in a CLO portfolio is $2 to $3 million. (While the average size of a high-yield syndicated loan is $522 million,  each participant in the syndicate finances only a fraction of the loan,  hence,  the small size of individual loan holdings in a CLO portfolio.) Syndication before securitization is a key difference between corporate loan securitization and other types of securitization. For example,  after origination,  a subprime mortgage ($150,        000–$190,  000 on average) is typically sold by the originating lender—as part of a pool—to other investors. In the case of a securitization,  this mortgage pool would be used as part of the collateral held by the SPV. At no point are any of the individual mortgages split into parts; in other words,  there is only one direct claim against the borrower of the original mortgage. However,  the fact that securitized leveraged loans are syndicated implies that there are other non-CLO lenders in the syndicate. Although securitization has been shown to suffer from multiple agency problems,  in the corporate segment,  the presence of other lenders creates a mechanism that counterweights these effects.
+To put together a collateral pool,  a CLO usually participates in over 100 syndications. An average CLO is roughly $500 million in size (in 2007,          it was $571 million,  and in 2012,  it was $486 million). The average size of an individual loan holding in a CLO portfolio is $2 to $3 million. (While the average size of a high-yield syndicated loan is $522 million,  each participant in the syndicate finances only a fraction of the loan,  hence,  the small size of individual loan holdings in a CLO portfolio.) Syndication before securitization is a key difference between corporate loan securitization and other types of securitization. For example,  after origination,  a subprime mortgage ($150,         000–$190,  000 on average) is typically sold by the originating lender—as part of a pool—to other investors. In the case of a securitization,  this mortgage pool would be used as part of the collateral held by the SPV. At no point are any of the individual mortgages split into parts; in other words,  there is only one direct claim against the borrower of the original mortgage. However,  the fact that securitized leveraged loans are syndicated implies that there are other non-CLO lenders in the syndicate. Although securitization has been shown to suffer from multiple agency problems,  in the corporate segment,  the presence of other lenders creates a mechanism that counterweights these effects.
 
 ### Implications For Market Conditions
 
 To summarize some of the points raised in this note,  the inflow of institutional,  non-bank money into the syndicated loan market—and specifically the securitization boom—is central for understanding the evolution of the leveraged loan market and the syndicated loan market more broadly.
 
-After an explosive rise,  CLO issuance—like other types of securitization—came to a halt in 2008 and 2009. The market seemed to have missed the fact that securitization of corporate loans differed in an important way from securitization of other asset classes. Leveraged loan performance through 2008–2010 was not nearly as bad as expected. In 2010 alone,  Moody's upgraded the ratings of more than 280 tranches in 75 deals (8.5% of Moody's rated CLO universe). CLO issuance has since recovered,  enjoying a slow and steady rise. (See **Exhibit 8**.) Loan mutual funds,  the other major player in the market,  have blossomed only after the financial crisis,  their assets under management nearly tripling from 2010:Q4 through 2013:Q4. (See **Exhibit 9**.) The combined assets under management of U.S. Close and loan mutual funds was around $400 billion at the beginning of 2013,         and it was roughly $660 billion as of January 2018.
+After an explosive rise,  CLO issuance—like other types of securitization—came to a halt in 2008 and 2009. The market seemed to have missed the fact that securitization of corporate loans differed in an important way from securitization of other asset classes. Leveraged loan performance through 2008–2010 was not nearly as bad as expected. In 2010 alone,  Moody's upgraded the ratings of more than 280 tranches in 75 deals (8.5% of Moody's rated CLO universe). CLO issuance has since recovered,  enjoying a slow and steady rise. (See **Exhibit 8**.) Loan mutual funds,  the other major player in the market,  have blossomed only after the financial crisis,  their assets under management nearly tripling from 2010:Q4 through 2013:Q4. (See **Exhibit 9**.) The combined assets under management of U.S. Close and loan mutual funds was around $400 billion at the beginning of 2013,          and it was roughly $660 billion as of January 2018.
 
 The rise and fall in the supply of leveraged credit influences not only the availability but also the term of the leveraged financing. The Loan-to-EBITDA ratio (a common way of measuring leverage) had been steadily rising from 2003 through 2007,  which coincides with the CLO expansion. At the peak of the securitization boom,  the average Loan-to-EBITDA ratio for large LBO transactions was 4.8. After a fall in 2008–2009,  tolerance for leverage was back to the pre-crisis level,  with an even bigger fraction of second-lien tranches. Indeed,  in the first three quarters of 2018,  issuance of covenant-lite loans totaled $305 billion in volume (on track to surpass 2017's total volume of $375 billion),  compared to a pre-financial crisis high of $97 billion. But easing had been selective and,  despite signs of leveraged loan recovery (and perhaps even of market hitting),  loan spreads remained substantially above the 2006–2007 levels.
 
@@ -166,25 +166,25 @@ All Syndicated Loans & FY 2016 & & & \\
 \hline
 Mkt. Share & Volume & & & \\ 
 \hline
-Bank of America Merrill Lynch & 1 & 12.683 & 303,        173 & 1,        315 \\ 
+Bank of America Merrill Lynch & 1 & 12.683 & 303,         173 & 1,         315 \\ 
 \hline
-JP Morgan & 2 & 12.516 & 299,        180 & 1,        196 \\ 
+JP Morgan & 2 & 12.516 & 299,         180 & 1,         196 \\ 
 \hline
-Wells Fargo & 3 & 8.075 & 193,        031 & 936 \\ 
+Wells Fargo & 3 & 8.075 & 193,         031 & 936 \\ 
 \hline
-Citi & 4 & 7.518 & 179,        707 & 647 \\ 
+Citi & 4 & 7.518 & 179,         707 & 647 \\ 
 \hline
-Barclays & 5 & 4.833 & 115,        523 & 528 \\ 
+Barclays & 5 & 4.833 & 115,         523 & 528 \\ 
 \hline
-Goldman Sachs & 6 & 4.651 & 111,        183 & 516 \\ 
+Goldman Sachs & 6 & 4.651 & 111,         183 & 516 \\ 
 \hline
-Credit Suisse & 7 & 3.977 & 95,        061 & 477 \\ 
+Credit Suisse & 7 & 3.977 & 95,         061 & 477 \\ 
 \hline
-Morgan Stanley & 8 & 3.899 & 93,        205 & 377 \\ 
+Morgan Stanley & 8 & 3.899 & 93,         205 & 377 \\ 
 \hline
-Deutsche Bank & 9 & 3.855 & 92,        145 & 446 \\ 
+Deutsche Bank & 9 & 3.855 & 92,         145 & 446 \\ 
 \hline
-RBC Capital Markets & 10 & 3.232 & 77,        253 & 385 \\ 
+RBC Capital Markets & 10 & 3.232 & 77,         253 & 385 \\ 
 \hline
 \end{tabular}
 \end{document}
@@ -203,47 +203,47 @@ LBO Loans & FY 2016 & & & \\
 \hline
 Mkt. Share & Volume & & & \\ 
 \hline
-Jefferies & 1 & 9.047 & 13,       159 & 100 \\ 
+Jefferies & 1 & 9.047 & 13,        159 & 100 \\ 
 \hline
-Credit Suisse & 2 & 6.908 & 10,       047 & 91 \\ 
+Credit Suisse & 2 & 6.908 & 10,        047 & 91 \\ 
 \hline
-Bank of America Merrill Lynch & 3 & 6.295 & 9,       156 & 73 \\ 
+Bank of America Merrill Lynch & 3 & 6.295 & 9,        156 & 73 \\ 
 \hline
-Goldman Sachs & 4 & 6.091 & 8,       860 & 80 \\ 
+Goldman Sachs & 4 & 6.091 & 8,        860 & 80 \\ 
 \hline
-Antares Capital LP & 5 & 5.910 & 8,       595 & 91 \\ 
+Antares Capital LP & 5 & 5.910 & 8,        595 & 91 \\ 
 \hline
-Morgan Stanley & 6 & 5.898 & 8,       579 & 56 \\ 
+Morgan Stanley & 6 & 5.898 & 8,        579 & 56 \\ 
 \hline
-Barclays & 7 & 5.806 & 8,       445 & 78 \\ 
+Barclays & 7 & 5.806 & 8,        445 & 78 \\ 
 \hline
-RBC Capital Markets & 8 & 5.119 & 7,       446 & 65 \\ 
+RBC Capital Markets & 8 & 5.119 & 7,        446 & 65 \\ 
 \hline
-Macquarie & 9 & 4.618 & 6,       717 & 50 \\ 
+Macquarie & 9 & 4.618 & 6,        717 & 50 \\ 
 \hline
-Citi & 10 & 4.330 & 6,       297 & 40 \\ 
+Citi & 10 & 4.330 & 6,        297 & 40 \\ 
 \hline
-Deutsche Bank & 11 & 3.999 & 5,       817 & 57 \\ 
+Deutsche Bank & 11 & 3.999 & 5,        817 & 57 \\ 
 \hline
-JP Morgan & 12 & 3.925 & 5,       709 & 41 \\ 
+JP Morgan & 12 & 3.925 & 5,        709 & 41 \\ 
 \hline
-Nomura & 13 & 3.192 & 4,       642 & 26 \\ 
+Nomura & 13 & 3.192 & 4,        642 & 26 \\ 
 \hline
-BMO Capital Markets & 14 & 2.712 & 3,       945 & 67 \\ 
+BMO Capital Markets & 14 & 2.712 & 3,        945 & 67 \\ 
 \hline
-Kohlberg Kravis Roberts & Co & 15 & 2.372 & 3,       450 & 22 \\ 
+Kohlberg Kravis Roberts & Co & 15 & 2.372 & 3,        450 & 22 \\ 
 \hline
-SunTrust Robinson Humphrey & 16 & 2.353 & 3,       423 & 37 \\ 
+SunTrust Robinson Humphrey & 16 & 2.353 & 3,        423 & 37 \\ 
 \hline
-Wells Fargo & 17 & 2.246 & 3,       266 & 28 \\ 
+Wells Fargo & 17 & 2.246 & 3,        266 & 28 \\ 
 \hline
-UBS & 18 & 2.224 & 3,       235 & 26 \\ 
+UBS & 18 & 2.224 & 3,        235 & 26 \\ 
 \hline
-Golub Capital LLC & 19 & 1.927 & 2,       803 & 26 \\ 
+Golub Capital LLC & 19 & 1.927 & 2,        803 & 26 \\ 
 \hline
-Citizens Financial Group Inc & 20 & 1.833 & 2,       666 & 33 \\ 
+Citizens Financial Group Inc & 20 & 1.833 & 2,        666 & 33 \\ 
 \hline
-TOTAL & 100\% & & 145,       445 & 426 \\ 
+TOTAL & 100\% & & 145,        445 & 426 \\ 
 \hline
 \end{tabular}
 \end{document}
@@ -259,7 +259,7 @@ TOTAL & 100\% & & 145,       445 & 426 \\
 \hline
 Lead share (\%) & Net \% of respondents tightening standards for C&I loans \\ 
 \hline
-Source: Victoria Ivashina and David S. Scharfstein,        "Loan Syndication and Credit Cycles,       " American Economic Review: Papers and Proceedings 100,        no. 2 (2010). \\ 
+Source: Victoria Ivashina and David S. Scharfstein,         "Loan Syndication and Credit Cycles,        " American Economic Review: Papers and Proceedings 100,         no. 2 (2010). \\ 
 \hline
 \end{tabular}
 \end{document}
@@ -273,9 +273,9 @@ Source: Victoria Ivashina and David S. Scharfstein,        "Loan Syndication and
 \centering
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline
-Asian & Canadian & European & Finance & CLOs,        Ins. & Co. & Bank \\ 
+Asian & Canadian & European & Finance & CLOs,         Ins. & Co. & Bank \\ 
 \hline
-Bank & Loan,        Hedge & High-Yield & Firm &  &  & \\ 
+Bank & Loan,         Hedge & High-Yield & Firm &  &  & \\ 
 \hline
 \end{tabular}
 \end{document}
