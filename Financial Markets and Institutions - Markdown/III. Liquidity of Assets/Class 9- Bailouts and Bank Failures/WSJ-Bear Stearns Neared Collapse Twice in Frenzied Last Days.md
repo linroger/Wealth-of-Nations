@@ -60,7 +60,7 @@ Messrs. Paulson and Geithner wanted a deal to sell Bear Stearns in place by earl
 
 The Bear Stearns and J.P. Morgan buildings,  less than a block from each other,  were hives of activity. As J.P. Morgan and Flowers furiously conducted due diligence,  Bear Stearns's directors met periodically throughout the day in Mr. Molinaro's sixth-floor conference room.
 
-Early that afternoon,  Flowers presented a tempting proposal: It would buy 90% of the company for $3 billion in cash,   or roughly $28 a share. But the deal was contingent upon Flowers lining up a consortium of lenders to provide $20 billion to finance Bear Stearns's continuing operations.
+Early that afternoon,  Flowers presented a tempting proposal: It would buy 90% of the company for $3 billion in cash,    or roughly $28 a share. But the deal was contingent upon Flowers lining up a consortium of lenders to provide $20 billion to finance Bear Stearns's continuing operations.
 
 Hours later,  J.P. Morgan said it might be willing to pay between $8 and $12 a share. That would value the company at between $945 million and $1.4 billion.
 
@@ -84,7 +84,7 @@ Bear Stearns CFO Samuel Molinaro finds out that the federal government wants his
 
 TIM BOWER
 
-Soon,  though,  J.P. Morgan was back,  floating the price of $4 a share. Under the plan,   the Federal Reserve would take responsibility for $30 billion in hard-to-trade securities on Bear Stearns's books,  with potential for both profit or loss.
+Soon,  though,  J.P. Morgan was back,  floating the price of $4 a share. Under the plan,    the Federal Reserve would take responsibility for $30 billion in hard-to-trade securities on Bear Stearns's books,  with potential for both profit or loss.
 
 Bear Stearns directors were getting angry. How could the deal price go from $8 to $4 in a few hours? Chairman James Cayne -- himself a large shareholder and the firm's chief executive for 14 years until forced out in January -- was irate.
 
@@ -124,11 +124,11 @@ Mr. Schwartz looked around the room to each board member. "Do I have anyone who'
 
 The Bear Stearns CEO,  exhausted and deflated,  did not participate.
 
-At about 7 p.m.,  when [The Wall Street Journal's Web site broke the news](https://archive.is/o/uKM5J/https://www.wsj.com/amp/articles/SB120569598608739825) of the $2 price,   people at rival firms were stunned. Morgan Stanley CEO John Mack and his financial team -- who were preparing for the firm's upcoming earnings announcement -- wondered aloud whether $2 was a typo and should have read $20.
+At about 7 p.m.,  when [The Wall Street Journal's Web site broke the news](https://archive.is/o/uKM5J/https://www.wsj.com/amp/articles/SB120569598608739825) of the $2 price,    people at rival firms were stunned. Morgan Stanley CEO John Mack and his financial team -- who were preparing for the firm's upcoming earnings announcement -- wondered aloud whether $2 was a typo and should have read $20.
 
 Late Sunday night,  as lawyers raced to finalize the merger agreement,  executives of the New York Fed convened a call for Wall Street CEOs. So many people were dialing in that officials were repeatedly interrupted by the announcement of new participants.
 
-Messrs. Geithner and Dimon led off with some brief remarks,  noting that J.P. Morgan would be guaranteeing Bear Stearns's debts and that if the pact hadn't come together,  the market impact may have been catastrophic. During the question-and-answer session,   [Citigroup](https://archive.is/o/uKM5J/https://www.wsj.com/market-data/quotes/C) Inc.'s new CEO,  Vikram Pandit,  spoke up.
+Messrs. Geithner and Dimon led off with some brief remarks,  noting that J.P. Morgan would be guaranteeing Bear Stearns's debts and that if the pact hadn't come together,  the market impact may have been catastrophic. During the question-and-answer session,    [Citigroup](https://archive.is/o/uKM5J/https://www.wsj.com/market-data/quotes/C) Inc.'s new CEO,  Vikram Pandit,  spoke up.
 
 Mr. Pandit -- who did not initially identify himself -- asked a shrewd but technical question: How would the deal affect the risk to Bear Stearns's trading partners on certain long-term contracts?
 
@@ -144,7 +144,7 @@ It was the beginning of another long week. By Tuesday morning,  J.P. Morgan's la
 
 "Don't you understand that we have a problem?" Mr. Dimon asked Mr. Schwartz the next time the two talked. "Shareholders may vote this down!"
 
-Mr. Schwartz,  who had been taking a beating over the low price,  knew an opening when he saw one. "What do you mean,   _'we_' have a problem?"
+Mr. Schwartz,  who had been taking a beating over the low price,  knew an opening when he saw one. "What do you mean,    _'we_' have a problem?"
 
 It was a rare moment in his three months as CEO when something wasn't Mr. Schwartz's problem. He was inclined to make some concessions,  he told his advisers,  but not without a higher offer.
 
@@ -184,7 +184,7 @@ On Easter morning,  Mr. Schwartz called Mr. Dimon. "There's a psychological limi
 
 With tension so high between the two sides,  Messrs. Geithner and Paulson were concerned that,  far below the markets' radar,  Bear Stearns was again becoming a threat to the financial system. In a call to Mr. Dimon,  Mr. Paulson reluctantly agreed to bless a higher price.
 
-Before markets opened the next morning,  J.P. Morgan countered with a final bid: about $10 a share,   valuing the brokerage at $1.2 billion,  for 39.5% of the firm's stock. To make it palatable to the Fed,  J.P. Morgan assumed responsibility for the first $1 billion of any potential losses,   reducing the government's exposure to $29 billion.
+Before markets opened the next morning,  J.P. Morgan countered with a final bid: about $10 a share,    valuing the brokerage at $1.2 billion,  for 39.5% of the firm's stock. To make it palatable to the Fed,  J.P. Morgan assumed responsibility for the first $1 billion of any potential losses,    reducing the government's exposure to $29 billion.
 
 The deal was approved,  markets opened smoothly and most investors remained happily unaware of the week's turmoil. Yet for Bear Stearns,  the federal government and J.P. Morgan,  it was an unsatisfying denouement in many ways.
 

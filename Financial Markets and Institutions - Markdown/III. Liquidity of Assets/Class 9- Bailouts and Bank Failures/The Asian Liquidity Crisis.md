@@ -1,6 +1,7 @@
 ---
 title: The Asian Liquidity Crisis
 ---
+
 # The Asian Liquidity Crisis
 
 NBER WORKING PAPER SERIES
@@ -25,7 +26,7 @@ These claims miss a central lesson from the Asian crisis. This crash is not a ne
 1. The collapse of fixed exchange rates occurs because stabilizing banks and keeping the exchange rate peg become mutually incompatible objectives. To help the banks,  the Central Bank must pursue an expansionary policy,  either to keep interest rates from rising (and further wreck the banks) or to provide lender-of-last-resort funds. But in either case private agents will use the additional domestic currency to buy reserves,  eventually causing the collapse of the fixed exchange rate. It is in this sense that we observe "twin crises": a financial crisis and a balance of payments crisis. 5. The punishment is much larger than the crime.
 Moderately weak fundamentals (especially real exchange rate overvaluation) and small changes in exogenous circumstances (terms of trade,  world interest rates) can cause large changes in asset prices and economic activity. The magnifying mechanism is the financial system,  whose collapse causes costly asset liquidation and an unnecessarily large credit crunch.
 
-In previous work (Chang and Velasco 1998 a, b) we have discussed the theoretical aspects of classic financial crises in open economies In this paper we shall argue that,  by and large,  the recent Asian crises fit the patterns just described and resemble in many ways the experience of countries like Chile in 1982 and Mexico in 1994. Fiscal policy was cautious in the preceding years. While real fundamentals such as the real exchange rate and the current account deficit,  did weaken in the run-up to the crises,  the degree to which this happened varied substantially across the Asian economies in trouble. What these countries had in common,  and to a striking degree,  was a situation of international illiquidity evidenced by sharply rising ratios of hard currency short term liabilities to liquid assets. As such,  they were extremely vulnerable to a reversal of capital inflows,  which occurred (and massively) in the second half of 1997. Bankruptcies,  payments moratoria and asset price collapses (including the exchange rate,  the price of domestic money) proliferated. The financial panic fed on itself,  causing foreign creditors to call in loans and depositors to withdraw funds from banks --all of which magnified the illiquidity of domestic financial institutions and forced yet another round of costly asset liquidation and price deflation.
+In previous work (Chang and Velasco 1998 a,  b) we have discussed the theoretical aspects of classic financial crises in open economies In this paper we shall argue that,  by and large,  the recent Asian crises fit the patterns just described and resemble in many ways the experience of countries like Chile in 1982 and Mexico in 1994. Fiscal policy was cautious in the preceding years. While real fundamentals such as the real exchange rate and the current account deficit,  did weaken in the run-up to the crises,  the degree to which this happened varied substantially across the Asian economies in trouble. What these countries had in common,  and to a striking degree,  was a situation of international illiquidity evidenced by sharply rising ratios of hard currency short term liabilities to liquid assets. As such,  they were extremely vulnerable to a reversal of capital inflows,  which occurred (and massively) in the second half of 1997. Bankruptcies,  payments moratoria and asset price collapses (including the exchange rate,  the price of domestic money) proliferated. The financial panic fed on itself,  causing foreign creditors to call in loans and depositors to withdraw funds from banks --all of which magnified the illiquidity of domestic financial institutions and forced yet another round of costly asset liquidation and price deflation.
 
 This financial fragility had its roots in inappropriate microeconomic policies followed during previous years. As we document below,  financial liberalization measures in Asia resulted in a deterioration of the international liquidity position of the financial system,  much as it happened in Chile and Mexico. These measures,  carried out at a time of large capital inflows,  created the conditions for a crisis. Much of the borrowing was in dollars and,  especially in the period right before the crisis,  short term. These two factors left domestic banks exposed to exchange risk and to the mood swings of lenders who had to roll over large loan volumes at short intervals.
 
@@ -50,7 +51,7 @@ Economic growth was impressive in Chile and moderate in Mexico; in both countrie
 
 Capital inflows were massive,  averaging more than 6.7% of Mexican GDP in 1990-1994. The large inflows pushed the real exchange rate up,  as shown by Tables 1 and 2. Chile's appreciation was 30 percent between 1978 (the year an exchange-rate stabilization was adopted) and year-end 1981. Estimates for Mexico's varied,  but common opinion put the real appreciation accumulated in 1988-1993 at 15-20%. In neither country was there agreement that the observed appreciation constituted misalignment. Both governments (and many observers) argued that the bulk of such relative price changes was an equilibrium phenomenon,  due to trade liberalization,  deregulation and other competitivenes-enhancing structural reforms. The current account deteriorated nonetheless,  and reached alarming proportions in both countries (14% of GDP in Chile in 1991,  nearly 7% in Mexico in 1994). But markets seemed not to mind,  and capital inflows continued at constant (and even falling) interest rate spreads until shortly before the collapse. As a result,  and in spite of the large external deficits,  international reserves were rising until late 1981 in Chile,  and early 1994 in Mexico.
 
-During the upswing,  domestic financial markets boomed. This was a result of both deregulation and the intermediation of large capital inflows from abroad. Both countries privatized their largest banks --Chile in the mid-1970 and Mexico in the early 1990s-- while engaging in a fully-fledged round of financial liberalization. Interest rate ceilings were abolished,  required reserve ratios lowered,  regulations concerning foreign-currency denominated assets and liabilites relaxed,  boundaries between banks and other financial institutions re-drawn. Indicators of "financial deepening, " such as the ratio of M2 to GDP,  rose quickly. So did lending by both banks and non-banks: in Chile the share of financial system loans to the private sector in GDP rose from 5 percent in 1974 to over 82 percent in 1982; for Mexico this share went from 26 percent in 1991 to 41 percent in 1994 (see Table 3). Predictably,  asset prices boomed in both countries. The real stock price index nearly quadrupled in Chile in the three years after1978; similarly,  prices of land and urban real estate skyrocketed.
+During the upswing,  domestic financial markets boomed. This was a result of both deregulation and the intermediation of large capital inflows from abroad. Both countries privatized their largest banks --Chile in the mid-1970 and Mexico in the early 1990s-- while engaging in a fully-fledged round of financial liberalization. Interest rate ceilings were abolished,  required reserve ratios lowered,  regulations concerning foreign-currency denominated assets and liabilites relaxed,  boundaries between banks and other financial institutions re-drawn. Indicators of "financial deepening,  " such as the ratio of M2 to GDP,  rose quickly. So did lending by both banks and non-banks: in Chile the share of financial system loans to the private sector in GDP rose from 5 percent in 1974 to over 82 percent in 1982; for Mexico this share went from 26 percent in 1991 to 41 percent in 1994 (see Table 3). Predictably,  asset prices boomed in both countries. The real stock price index nearly quadrupled in Chile in the three years after1978; similarly,  prices of land and urban real estate skyrocketed.
 
 1. The operational balance is the public sector borrowing requirement minus the inflationary component of debt payments. There was some debate in 1995 about whether the actual Mexican deficit was higher in 1994,  if lending by state development banks was added. We do not believe so,  since this lending was on commercial terms and often against collateral,  it does not belong in an economic measure of the deficit. For a more detailed discussion see Sachs,  Tornell and Velasco (1996b).
 
@@ -177,7 +178,7 @@ We have discussed these and other points at length in our theoretical papers (Ch
 
 ## V. Financial Illiquidity In The Asian Crisis
 
-Given the theory outlined in the preceding section,  an obvious question is whether the Asean 5 countries were internationally illiquid at the time their crises erupted. Answering this requires making the concept of "international illiquidity" operational,  which requires identifying the institutions that comprise a country's "financial system, " as well as their relevant "short term assets and liabilities in foreign currency." The appropriate definitions depend on government policy.
+Given the theory outlined in the preceding section,  an obvious question is whether the Asean 5 countries were internationally illiquid at the time their crises erupted. Answering this requires making the concept of "international illiquidity" operational,  which requires identifying the institutions that comprise a country's "financial system,  " as well as their relevant "short term assets and liabilities in foreign currency." The appropriate definitions depend on government policy.
 
 Our definition of a financial system will naturally include domestic banks and other domestic financial entities that perform bank-like operations (such as Thailand's finance companies). In addition,  because Asian governments were committed to act as lenders of last resort of private financial institutions,  the Asian central banks will be included as well. This inclusion is justified because,  in the presence of such a commitment,  a crisis affecting private financial institutions will force a central bank to honor it,  which may pull the government itself into the crisis. Indeed,  we shall argue later that a balance of payments crisis is best understood as a situation in which a central bank runs out of international liquidity in an attempt to fight a financial crisis.
 
@@ -190,7 +191,7 @@ In addition,  if there is a fixed exchange rate,  demandable deposits in domesti
 In spite of the data limitations just noted,  the evidence on the Asean-5 countries does suggest that the international liquidity position of their financial systems deteriorated before the crisis. This is can be seen most clearly from the BIS data on foreign bank lending. Table 13 describes the behavior of the ratio of short term loans from international banks to reserves; obviously,  an increase in the ratio implies a higher likelihood of international illiquidity. The table shows that the ratio increased between mid 1994 and mid 1997 in every case except for Indonesia,  where the ratio was stable. (In Korea,  Malaysia and Thailand the ratio had also increased between 1990 and 1994. It had fallen in Indonesia but not by much. It had fallen sharply in the Philippines,  but this was probably an anomaly following the Philippine Brady debt restructuring of 1991.)
 It is also notable that the levels of the short term debt to reserves ratio at the end of 1996 were substantially over one in Korea,  Indonesia,  and Thailand. This suggests a financially fragile situation,  in the sense that international reserves would not have been sufficient to repay the short term debt had foreign banks decided not to roll it over. While the level of the short term debt to reserves ratio was below one in Malaysia and the Philippines (the two countries among the Asean 5 least affected by the crisis),  it doubled between mid 1994 and mid 1997. A comparison with Latin American countries is also telling. The short term debt/reserves ratio was stable and below one in Brazil,  Chile,  Colombia,  and Peru; in Argentina and Mexico it was 1.2 in mid 1997,  thus exceeding one but not by much,  and had been falling.
 
-The BIS tables suggest,  in addition,  that the proportion of foreign bank lending intermediated by the domestic banking sector was stable in each case except Thailand. In the case of Thailand,  the decline in the share of the domestic banking sector in foreign borrowing is attributable,  by and large,  to the increased importance of finance companies. Finance companies seem to have emerged in response to regulatory distortions,  but performed bank-like functions. In fact,  they are included in the International Finance Statistics as part of the group "Other Banking Institutions;" the IFS notes that although finance companies were "not licensed to accept deposits from the public, " they "issued promissory notes at terms comparable to the time deposits at commercial banks." 16 The importance of Thailand's finance companies in the financial systems was also underscored by the fact that the Bank of Thailand was committed to support them as a lender of last resort. 17 The evidence thus strongly indicates that the short term external liabilities of the financial system were growing faster than its liquid international assets. In our interpretation,  this trend deteriorated the international liquidity position of the Asean 5 countries to the point where a loss of confidence from foreign creditors could bring the financial system to a crisis.
+The BIS tables suggest,  in addition,  that the proportion of foreign bank lending intermediated by the domestic banking sector was stable in each case except Thailand. In the case of Thailand,  the decline in the share of the domestic banking sector in foreign borrowing is attributable,  by and large,  to the increased importance of finance companies. Finance companies seem to have emerged in response to regulatory distortions,  but performed bank-like functions. In fact,  they are included in the International Finance Statistics as part of the group "Other Banking Institutions;" the IFS notes that although finance companies were "not licensed to accept deposits from the public,  " they "issued promissory notes at terms comparable to the time deposits at commercial banks." 16 The importance of Thailand's finance companies in the financial systems was also underscored by the fact that the Bank of Thailand was committed to support them as a lender of last resort. 17 The evidence thus strongly indicates that the short term external liabilities of the financial system were growing faster than its liquid international assets. In our interpretation,  this trend deteriorated the international liquidity position of the Asean 5 countries to the point where a loss of confidence from foreign creditors could bring the financial system to a crisis.
 
 The behavior of domestic deposits vis a vis international reserves suggests a similar picture. Table 14 shows the evolution of the ratio of M2 to foreign reserves for the Asian 5 economies before their crises. The high level of the M2/reserves ratio seems consistent with the hypothesis of international illiquidity. At the end of 1996,  the M2/reserves ratio was almost
 
@@ -276,7 +277,7 @@ Acute illiquidity left Asia vulnerable to a sharp reversal in the direction of c
 and that is exactly what happened in the second half of 1997. Available information suggests that short term inflows suddenly reversed themselves during 1997. Data from the Institute of
 
 22See Corsetti,  Pesenti and Roubini (1998),  Sachs and Radelet (1998),  Asian Development Bank (1998).
-International Finance shows,  in particular,  that net international inflows of capital to the Asean 5 countries fell dramatically to –US$12 bn. in 1997,  from US$ 93 bn in 1996. This fall in inflows is accounted by and large by the behavior of foreign banks,  whose positions in the Asean 5 countries dropped by US$ 21.3 bn. in 1997 after increasing by US$ 55.5 bn in 1996. Combining this information with BIS data,  which shows that foreign banks increased their lending to the Asean 5 countries by US$ 13 bn. in the first half of 1997,  Radelet and Sachs (1998) conclude that there must have been a capital outflow of about US$ 34 bn. in the second half of 1997,  equivalent to a negative shock of 3.6 of GDP.
+International Finance shows,  in particular,  that net international inflows of capital to the Asean 5 countries fell dramatically to –US$12 bn. in 1997,   from US$ 93 bn in 1996. This fall in inflows is accounted by and large by the behavior of foreign banks,  whose positions in the Asean 5 countries dropped by US$ 21.3 bn. in 1997 after increasing by US$ 55.5 bn in 1996. Combining this information with BIS data,  which shows that foreign banks increased their lending to the Asean 5 countries by US$ 13 bn. in the first half of 1997,   Radelet and Sachs (1998) conclude that there must have been a capital outflow of about US$ 34 bn. in the second half of 1997,  equivalent to a negative shock of 3.6 of GDP.
 
 This suggests that when potatoes became hot in mid 1997,  international bankers panicked and decided to close their exposure to the more troubled Asian countries. They were able to pull out simply by refusing to roll over their loans,  given the prevalence of short term borrowing. The run by international creditors may,  in addition,  have been not only possible but also self fulfilling. As discussed by Calvo (1995) and Chang and Velasco (1998b),  when domestic financial entities contract short term debt abroad to finance less liquid investments,  a coordination failure becomes possible. No individual creditor will find it profitable to roll over its loan if she believes that the others will not either and that,  as a consequence,  domestic borrowers will be forced into bankruptcy. In turn,  the sudden increase in the need for liquidity may in fact crush the financial system,  confirming creditors' expectations.
 
@@ -287,7 +288,7 @@ Does this mean that we simply view the Asian crisis as a jump to a bad equilibri
 Theory can help clarify matters somewhat. Recent models of crises (Obstfeld 1994,  Cole and Kehoe 1996,  Velasco 1997) show that there is a "middle region" for fundamentals (debt,
 
 23Even Corsetti,  Pesenti and Roubini (1998),  who are notoriously skeptical of such line of explanation. recognize as much. See p. 44 of their paper.
-overvaluation,  unemployment,  etc.) that are neither "too good" nor "too bad, " where crises can occur if and only if contagion sets in or expectations turn pessimistic.Our emphasis on illiquidity complements this perspective,  and underscores the fact that financial factors are at least as important as real ones in trying to determine where that middle region lies in which self-fulfilling crashes can take place. While the behavior of real macroeconomic fundamentals was quite varied across Asian countries,  illiquidity was a common feature to all of the ones that eventually found themselves in a crisis. In this the troubled Asian crisis differed from 1990s Latin America,  which also suffered from large real appreciation and current account deficits,  but where financial systems were a great deal more liquid,  and banking sectors more solid. Paradoxically,  this incipient solidity was the result of the cleanup following earlier debt and/or banking crises in Argentina,  Brazil,  Chile,  Mexico and Venezuela.
+overvaluation,  unemployment,  etc.) that are neither "too good" nor "too bad,  " where crises can occur if and only if contagion sets in or expectations turn pessimistic.Our emphasis on illiquidity complements this perspective,  and underscores the fact that financial factors are at least as important as real ones in trying to determine where that middle region lies in which self-fulfilling crashes can take place. While the behavior of real macroeconomic fundamentals was quite varied across Asian countries,  illiquidity was a common feature to all of the ones that eventually found themselves in a crisis. In this the troubled Asian crisis differed from 1990s Latin America,  which also suffered from large real appreciation and current account deficits,  but where financial systems were a great deal more liquid,  and banking sectors more solid. Paradoxically,  this incipient solidity was the result of the cleanup following earlier debt and/or banking crises in Argentina,  Brazil,  Chile,  Mexico and Venezuela.
 
 Our interpretation also helps account for some noteworthy features of the Asian episode.
 
@@ -311,7 +312,7 @@ We conclude by considering what light the Asian episode sheds on some hotly cont
 
 ## 1. Financial Liberalization And Fragility
 
-In their (1996) paper on the "twin crises, " Kaminsky and Reinhart found that: a) Of the 26 banking crises they study,  18 are preceded by financial sector liberalization within a five year interval and b) Financial liberalizations accurately signal 71 percent of all balance of payments crises and 67 percent of all banking crises. The experiences of Chile,  Mexico,  and now East Asia,  strongly confirm this general tendency. Freeing interest rates,  lowering reserve requirements,  and enhancing competition in the banking sector are sound policies on many grounds --and indeed,  countries in which they are applied often experience an expansion in financial intermediation.
+In their (1996) paper on the "twin crises,  " Kaminsky and Reinhart found that: a) Of the 26 banking crises they study,  18 are preceded by financial sector liberalization within a five year interval and b) Financial liberalizations accurately signal 71 percent of all balance of payments crises and 67 percent of all banking crises. The experiences of Chile,  Mexico,  and now East Asia,  strongly confirm this general tendency. Freeing interest rates,  lowering reserve requirements,  and enhancing competition in the banking sector are sound policies on many grounds --and indeed,  countries in which they are applied often experience an expansion in financial intermediation.
 
 But they can also sharply reduce the liquidity of the financial sector,  and hence set the stage for a potential crisis.
 
@@ -368,56 +369,56 @@ The usual (and valid) objection is moral hazard. But this need not be a rational
 
 # References
 
-Akerlof,  G. and P. Romer,  "Looting: The Economic Underworld of Bankruptcy for Profit, " Brookings Papers in Economic Activity 2,  1993,  1-60.
+Akerlof,  G. and P. Romer,  "Looting: The Economic Underworld of Bankruptcy for Profit,  " Brookings Papers in Economic Activity 2,  1993,  1-60.
 
-Asian Development Bank,  "Overview Volume, " ADB / World Bank Senior Policy Seminar on Managing Global Financial Integration in Asia: Emerging Lessons and Prospective Challenges,  Discussion Draft,  March 1998 Calvo,  G.,  "Varieties of Capital Market Crises, " Working Paper 15,  Center for International Economics,  University of Maryland,  1995. Calvo,  G.,  "Comment on Sachs,  Tornell and Velasco, " Brookings Papers on Economic Activity,  No. 1,  1996,  199-203.
+Asian Development Bank,  "Overview Volume,  " ADB / World Bank Senior Policy Seminar on Managing Global Financial Integration in Asia: Emerging Lessons and Prospective Challenges,  Discussion Draft,  March 1998 Calvo,  G.,  "Varieties of Capital Market Crises,  " Working Paper 15,  Center for International Economics,  University of Maryland,  1995. Calvo,  G.,  "Comment on Sachs,  Tornell and Velasco,  " Brookings Papers on Economic Activity,  No. 1,  1996,  199-203.
 
 Calvo,  G. and E. Mendoza,  "Reflections on Mexico's Balance of Payments Crisis: A Chronicle of a Death Foretold." Journal of International Economics,  1996,  235-264.
 
-Caprio,  G.,  and D. Klingebiel,  "Dealing With Bank Insolvencies: Cross Country Experience, "
-mimeo,  The World Bank,  1993 Chang,  R. and A. Velasco,  "Financial Fragility and the Exchange Rate Regime, " RR \#98-05,  C.V. Starr Center for Applied Economics,  NYU,  February 1998 (1998a). Also NBER WP 6469.
+Caprio,  G.,  and D. Klingebiel,  "Dealing With Bank Insolvencies: Cross Country Experience,  "
+mimeo,  The World Bank,  1993 Chang,  R. and A. Velasco,  "Financial Fragility and the Exchange Rate Regime,  " RR \#98-05,  C.V. Starr Center for Applied Economics,  NYU,  February 1998 (1998a). Also NBER WP 6469.
 
-Chang,  R. and A. Velasco,  "Financial Crises in Emerging Markets: A Canonical Model, " Working Paper,  Federal Reserve Bank of Atlanta,  March 1998 (1998b).
+Chang,  R. and A. Velasco,  "Financial Crises in Emerging Markets: A Canonical Model,  " Working Paper,  Federal Reserve Bank of Atlanta,  March 1998 (1998b).
 
-Chinn,  M. "Before the Fall: Were East Asian Currencies Overvalued?, " NBER Working Paper 6491,  April 1998 Corbo,  V. and L. Hernandez,  "Macroeconomic Adjustment to Capital Inflows. Latin American Style versus East Asian Style" The World Bank Policy Research Working Paper 1377,  1994.
+Chinn,  M. "Before the Fall: Were East Asian Currencies Overvalued?,  " NBER Working Paper 6491,  April 1998 Corbo,  V. and L. Hernandez,  "Macroeconomic Adjustment to Capital Inflows. Latin American Style versus East Asian Style" The World Bank Policy Research Working Paper 1377,  1994.
 
 Corsetti,  G.,  P. Pesenti and N. Roubini,  "What Caused the Asian Currency and Financial Crises?" mimeo,  NYU,  March 1998.
 
-Demirguc-Kent,  A.,  and E. Detragiache,  "Financial Liberalization and Financial Fragility, " working paper,  IMF and World Bank,  1998 Diamond,  D. and P. Dybvig,  "Bank Runs,  Deposit Insurance,  and Liquidity,  " Journal of Political Economy,  91,  1983,  401-419.
+Demirguc-Kent,  A.,  and E. Detragiache,  "Financial Liberalization and Financial Fragility,  " working paper,  IMF and World Bank,  1998 Diamond,  D. and P. Dybvig,  "Bank Runs,  Deposit Insurance,  and Liquidity,  " Journal of Political Economy,  91,  1983,  401-419.
 
-D. Diamond,  "Liquidity,  Banks and Markets, " Journal of Political Economy,  105,  1997,  928956.
+D. Diamond,  "Liquidity,  Banks and Markets,  " Journal of Political Economy,  105,  1997,  928956.
 
-Diaz-Alejandro,  C.F.,  "Good-bye Financial Repression,  Hello Financial Crash, " Journal of Development Economics 19,  1985.
+Diaz-Alejandro,  C.F.,  "Good-bye Financial Repression,  Hello Financial Crash,  " Journal of Development Economics 19,  1985.
 
-Dornbusch,  R.,  I. Goldfajn and R. Valdes,  "Currency Crises and Collapses, " Brookings Papers on Economic Activity 2,  pp. 219-295,  1995.
+Dornbusch,  R.,  I. Goldfajn and R. Valdes,  "Currency Crises and Collapses,  " Brookings Papers on Economic Activity 2,  pp. 219-295,  1995.
 
-Frankel,  J. and Andrew K. Rose,  "Currency Crashes in Emerging Markets: An Empirical Treatment, " Journal of International Economics 41,  pp. 351-368,  1996.
+Frankel,  J. and Andrew K. Rose,  "Currency Crashes in Emerging Markets: An Empirical Treatment,  " Journal of International Economics 41,  pp. 351-368,  1996.
 
 Gavin,  M.,  and R. Hausmann. 1995. "The Roots of Banking Crises: The Macroeconomic Context" mimeo,  Inter-American Development Bank.
 
-Goldfajn,  I. and R. Valdes,  "Capital Flows and the Twin Crises: The Role of Liquidity, " Working Paper 97-87,  International Monetary Fund,  July 1997.
+Goldfajn,  I. and R. Valdes,  "Capital Flows and the Twin Crises: The Role of Liquidity,  " Working Paper 97-87,  International Monetary Fund,  July 1997.
 
-Hellman,  T.,  Murdoch,  K.,  and J.E. Stiglitz,  "Addressing Moral Hazard in Banking: Deposit Rate Controls vs. Capital Requirements, "unpublished manuscript,  1994 Kaminsky,  G. and C. Reinhart,  "The Twin Crises: The Causes of Banking and Balance of Payments Problems, " International Finance Discussion Paper No. 544,  Board of Governors of the Federal Reserve System,  March 1996.
+Hellman,  T.,  Murdoch,  K.,  and J.E. Stiglitz,  "Addressing Moral Hazard in Banking: Deposit Rate Controls vs. Capital Requirements,  "unpublished manuscript,  1994 Kaminsky,  G. and C. Reinhart,  "The Twin Crises: The Causes of Banking and Balance of Payments Problems,  " International Finance Discussion Paper No. 544,  Board of Governors of the Federal Reserve System,  March 1996.
 
-Krugman,  P.,  "A Model of Balance of Payments Crises, " Journal of Money,  Credit and Banking,  1979,  311-325.
+Krugman,  P.,  "A Model of Balance of Payments Crises,  " Journal of Money,  Credit and Banking,  1979,  311-325.
 
-Krugman,  P. "What Happened in Asia?, " mimeo,  MIT,  1998.
+Krugman,  P. "What Happened in Asia?,  " mimeo,  MIT,  1998.
 
-Radelet,  S.,  and J. Sachs,  "The Onset of the Asian Financial Crisis, " mimeo,  Harvard Institute for International Development,  March 1998.
+Radelet,  S.,  and J. Sachs,  "The Onset of the Asian Financial Crisis,  " mimeo,  Harvard Institute for International Development,  March 1998.
 
-Obstfeld,  M.,  "The Logic of Currency Crises, " Cahiers Economiques et Monetaires No. 34,  1994.
+Obstfeld,  M.,  "The Logic of Currency Crises,  " Cahiers Economiques et Monetaires No. 34,  1994.
 
-Sachs,  J.,  "Alternative Approaches to Financial Crises in Emerging Markets, " Development Discussion Paper No. 568,  Harvard Institute for International Development,  January 1997. Sachs,  J.,  A. Tornell and A. Velasco,  "The Collapse of the Mexican Peso: What Have We Learned?" Economic Policy 22,  1996a,  13-56.
+Sachs,  J.,  "Alternative Approaches to Financial Crises in Emerging Markets,  " Development Discussion Paper No. 568,  Harvard Institute for International Development,  January 1997. Sachs,  J.,  A. Tornell and A. Velasco,  "The Collapse of the Mexican Peso: What Have We Learned?" Economic Policy 22,  1996a,  13-56.
 
-Sachs,  J.,  A. Tornell and A. Velasco,  "The Mexican Peso Crisis: Sudden Death or Death Foretold?, " Journal of International Economics,  1996b,  265-283.
+Sachs,  J.,  A. Tornell and A. Velasco,  "The Mexican Peso Crisis: Sudden Death or Death Foretold?,  " Journal of International Economics,  1996b,  265-283.
 
-Sachs,  J.,  A. Tornell and A. Velasco,  "Financial Crises in Emerging Markets: The Lessons from 1995, " Brookings Papers on Economic Activity,  No. 1,  1996b,  147-198.
+Sachs,  J.,  A. Tornell and A. Velasco,  "Financial Crises in Emerging Markets: The Lessons from 1995,  " Brookings Papers on Economic Activity,  No. 1,  1996b,  147-198.
 
-Velasco,  A.,  "Financial and Balance of Payments Crises, " Journal of Development Economics 27,  1987,  pp. 263-283.
+Velasco,  A.,  "Financial and Balance of Payments Crises,  " Journal of Development Economics 27,  1987,  pp. 263-283.
 
 Velasco,  A. "Liberalization,  Crisis,  Intervention: The Chilean Financial System 1975-1985." in T. Balino and V. Sundarajan (eds.) Banking Crises. International Monetary Fund,  1991.
 
-Velasco,  A. and P. Cabezas,  "A Tale of Two Countries: Alternative Responses to Capital Inflows, " in M. Kahler (ed.),  Capital Flows and Financial Crises,  Cornell University Press for the Council on Foreign Relations,  forthcoming 1998.
+Velasco,  A. and P. Cabezas,  "A Tale of Two Countries: Alternative Responses to Capital Inflows,  " in M. Kahler (ed.),  Capital Flows and Financial Crises,  Cornell University Press for the Council on Foreign Relations,  forthcoming 1998.
 
 ## 49 Table 1: Chile Macro Indicators
 
@@ -608,21 +609,21 @@ Table 13 Short Term Debt vs Reserves
 | Short-Term Debt (millions of US$)        |           |                         |                         |          |        |         |
 |------------------------------------------|-----------|-------------------------|-------------------------|----------|--------|---------|
 |                                          | Indonesia | Korea                   | Malaysia    Philippines | Thailand | Total  |         |
-| Jun-90                                   | 10, 360    | 15, 528                  | 1, 761                   | 3, 019    | 7, 026  | 37, 694  |
-| Jun-94                                   | 18, 882    | 34, 908                  | 8, 203                   | 2, 646    | 27, 151 | 91, 790  |
-| Jun-97                                   | 34, 661    | 70, 182                  | 16, 268                  | 8, 293    | 45, 567 | 174, 971 |
-| International Reserves (millions of US$) | |                         | |          | |         |
-| | Indonesia | Korea | Malaysia Philippines | Thailand | Total |         |
-| Jun-90 | 4, 693 | 14, 642 | 8, 114 | 948 | 11, 882 | 40, 279 |
-| Jun-94 | 10, 915 | 21, 684 | 32, 608 | 6, 527 | 27, 375 | 99, 109 |
-| Jun-97 | 20, 336 | 34, 069 | 26, 586 | 9, 781 | 31, 361 | 122, 133 |
-| Debt to Reserves Ratio |           | |                         | |        | |
-| | Korea | Malaysia Philippines | Thailand | Total |        | |
-| | Indonesia | |                         | |        | |
+| Jun-90                                   | 10,  360    | 15,  528                  | 1,  761                   | 3,  019    | 7,  026  | 37,  694  |
+| Jun-94                                   | 18,  882    | 34,  908                  | 8,  203                   | 2,  646    | 27,  151 | 91,  790  |
+| Jun-97                                   | 34,  661    | 70,  182                  | 16,  268                  | 8,  293    | 45,  567 | 174,  971 |
+| International Reserves (millions of US$) | | | | | | |
+| | Indonesia | Korea | Malaysia Philippines | Thailand | Total | |
+| Jun-90 | 4,  693 | 14,  642 | 8,  114 | 948 | 11,  882 | 40,  279 |
+| Jun-94 | 10,  915 | 21,  684 | 32,  608 | 6,  527 | 27,  375 | 99,  109 |
+| Jun-97 | 20,  336 | 34,  069 | 26,  586 | 9,  781 | 31,  361 | 122,  133 |
+| Debt to Reserves Ratio | | | | | | |
+| | Korea | Malaysia Philippines | Thailand | Total | | |
+| | Indonesia | | | | | |
 | Jun-90 | 2.208 | 1.061 | 0.217 | 3.185 | 0.591 | 0.936 |
 | Jun-94 | 1.730 | 1.610 | 0.252 | 0.405 | 0.992 | 0.926 |
 | Jun-97 | 1.704 | 2.060 | 0.612 | 0.848 | 1.453 | 1.433 |
-| Source: BIS,  IMF |           | |                         | |        | |
+| Source: BIS,  IMF | | | | | | |
 
 |       | Indonesia   | Korea   | Malaysia  Philippines   Thailand   |       |      |
 |-------|-------------|---------|------------------------------------|-------|------|
@@ -643,41 +644,41 @@ Table 15
 | Total Debt (US $ millions)                |        |                               |        |         |         |         |
 |-------------------------------------------|--------|-------------------------------|--------|---------|---------|---------|
 | Indonesia                                 | Korea  | Malaysia Philippines Thailand | Total  |         |         |         |
-|                                           | 71, 039 |                               |        |         |         |         |
-| Jun-90                                    | 20, 076 | 23, 369                        | 6, 864  | 9, 055   | 11, 675  |         |
-|                                           | 13, 874 | 5, 990                         | 36, 545 | 135, 443 |         |         |
-| Jun-94                                    | 30, 902 | 48, 132                        |        |         |         |         |
-| Jun-97                                    | 58, 726 | 103, 432                       | 28, 820 | 14, 115  | 69, 382  | 274, 475 |
-| Short-Term Debt (US $ millions) |        | |        | |         | |
-| Indonesia | Korea | Malaysia Philippines Thailand | Total |         | |         |
-| Jun-90 | 10, 360 | 15, 528 | 1, 761 | 3, 019 | 7, 026 | 37, 694 |
-| | 8, 203 | 2, 646 | 27, 151 | 91, 790 |         | |
-| Jun-94 | 18, 882 | 34, 908 |        | |         | |
-| Jun-97 | 70, 182 | 16, 268 | 8, 293 | 45, 567 | 174, 971 | |
-| 34, 661 |        | |        | |         | |
-| Short Term as % of Total Debt |        | |        | |         | |
-| Indonesia | Korea | Malaysia Philippines Thailand | Total |         | |         |
-| | 33.34 | 60.18 | 53.06 |         | |         |
-| Jun-90 | 51.60 | 66.45 | 25.66 |         | |         |
+|                                           | 71,  039 |                               |        |         |         |         |
+| Jun-90                                    | 20,  076 | 23,  369                        | 6,  864  | 9,  055   | 11,  675  |         |
+|                                           | 13,  874 | 5,  990                         | 36,  545 | 135,  443 |         |         |
+| Jun-94                                    | 30,  902 | 48,  132                        |        |         |         |         |
+| Jun-97                                    | 58,  726 | 103,  432                       | 28,  820 | 14,  115  | 69,  382  | 274,  475 |
+| Short-Term Debt (US $ millions) | | | | | | |
+| Indonesia | Korea | Malaysia Philippines Thailand | Total | | | |
+| Jun-90 | 10,  360 | 15,  528 | 1,  761 | 3,  019 | 7,  026 | 37,  694 |
+| | 8,  203 | 2,  646 | 27,  151 | 91,  790 | | |
+| Jun-94 | 18,  882 | 34,  908 | | | | |
+| Jun-97 | 70,  182 | 16,  268 | 8,  293 | 45,  567 | 174,  971 | |
+| 34,  661 | | | | | | |
+| Short Term as % of Total Debt | | | | | | |
+| Indonesia | Korea | Malaysia Philippines Thailand | Total | | | |
+| | 33.34 | 60.18 | 53.06 | | | |
+| Jun-90 | 51.60 | 66.45 | 25.66 | | | |
 | Jun-94 | 61.10 | 72.53 | 59.12 | 44.17 | 74.29 | 67.77 |
 | Jun-97 | 59.02 | 67.85 | 56.45 | 58.75 | 65.68 | 63.75 |
-| Source: Bank Of International Settlements | |                               | |         | |         |
+| Source: Bank Of International Settlements | | | | | | |
 
 Short-Term Debt and Total Debt
 
 | Total Debt (US$ millions)                 | Malaysia    Philippines   | Thailand   | Total   |        |        |         |
 |-------------------------------------------|---------------------------|------------|---------|--------|--------|---------|
 | Indonesia                                 | Korea                     |            |         |        |        |         |
-| Jun-90                                    | 20, 076                    | 23, 369     | 6, 864   | 9, 055  | 11, 675 | 71, 039  |
-| Jun-94                                    | 30, 902                    | 48, 132     | 13, 874  | 5, 990  | 36, 545 | 135, 443 |
-| Jun-97                                    | 58, 726                    | 103, 432    | 28, 820  | 14, 115 | 69, 382 | 274, 475 |
+| Jun-90                                    | 20,  076                    | 23,  369     | 6,  864   | 9,  055  | 11,  675 | 71,  039  |
+| Jun-94                                    | 30,  902                    | 48,  132     | 13,  874  | 5,  990  | 36,  545 | 135,  443 |
+| Jun-97                                    | 58,  726                    | 103,  432    | 28,  820  | 14,  115 | 69,  382 | 274,  475 |
 | Currency Positions (Claims - Liabilities) |                           |            |         |        |        |         |
 | Korea                                     | Malaysia   Philippines    | Thailand   | Total   |        |        |         |
 | Indonesia                                 |                           |            |         |        |        |         |
-| 468                                       | 2, 685                     | 212        | 430     | 679    | 4, 474  |         |
+| 468                                       | 2,  685                     | 212        | 430     | 679    | 4,  474  |         |
 | Jun-90                                    |                           |            |         |        |        |         |
-| Jun-94                                    | 843                       | 3, 182      | 1, 513   | 323    | 2, 145  | 8, 006   |
-| Jun-97                                    | 1, 262                     | 6, 152      | 2, 977   | 2, 239  | 3, 906  | 16, 536  |
+| Jun-94                                    | 843                       | 3,  182      | 1,  513   | 323    | 2,  145  | 8,  006   |
+| Jun-97                                    | 1,  262                     | 6,  152      | 2,  977   | 2,  239  | 3,  906  | 16,  536  |
 | Local Currency as a % of Total Debt       |                           |            |         |        |        |         |
 | Korea                                     | Malaysia Philippines      | Thailand   | Total   |        |        |         |
 | Indonesia                                 | 11.49                     | 3.09       | 4.75    | 5.82   | 6.30   |         |
