@@ -7,12 +7,11 @@ linter-yaml-title-alias: "Class 8Markets,  Meltdowns,  and Arbitrage"
 # Class 8Markets,  Meltdowns,  and Arbitrage
 
 %% Begin Waypoint %%
-
-- **[[Class 8- Markets,  Meltdowns,  and Arbitrage]]**
+- **[[Class 8- Markets, Meltdowns, and Arbitrage]]**
 	- [[Case Study of JP Morgan]]
-	- [[Class 8- Markets,  Meltdowns,  and Arbitrage]]
+	- [[Class 8- Markets, Meltdowns, and Arbitrage]]
 	- [[Class Note 13 The LTCM Meltdown]]
-	- [[Class Slides the Ltcm Meltdown Liquidity and “performance Based Arbitrage.”]]
+	- [[Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”]]
 	- [[Class Slldes On Repurchase Agreements]]
 	- [[How the Eggheads Cracked]]
 	- [[Lessons From The Crisis]]
