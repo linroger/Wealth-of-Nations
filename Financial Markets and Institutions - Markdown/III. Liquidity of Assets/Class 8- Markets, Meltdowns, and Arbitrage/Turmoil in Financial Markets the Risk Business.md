@@ -1,5 +1,182 @@
 ---
 title: Turmoil in Financial Markets the Risk Business
 ---
-
 # Turmoil in Financial Markets the Risk Business
+
+- **Special Article: Turmoil In Financial Markets: The Risk Business**
+	- Many people think that hedge funds are to blame for the turmoil in the world's financial markets.
+	- The collapse of Long-Term Capital Management is discussed.
+- **Abstract**
+	- Hedge funds,  those bold adventurers of the financial markets,  have lost pots of money as markets have fallen sharply.
+	- They are also getting much of the blame for the very turmoil that brought them low.
+	- Long-Term Capital Management nearly went bust in September and was saved only when the Federal Reserve organized its rescue.
+	- Other hedge funds are already paying the price for the fund's demise.
+	- Tarring all hedge funds with the brush that has been used for LTCM is wrong.
+	- Hedge funds,  in general,  are surprisingly different from one another.
+	- Few hedge funds are as hugely leveraged as LTCM.
+	- The combination of apparently low-risk strategies with enormous leverage may be rare among hedge funds,  but it is by no means uncommon in other parts of the finance industry.
+	- Investment banks routinely have leverage in excess of 20 to 1.
+	- Banks' role in the present financial turmoil is crucial.
+	- It is important to take a look at how banks manage their own financial risk.
+- Many think that hedge funds are to blame for the turmoil in the world's financial markets.
+	- They are not.
+	- The planned opening session at a big hedge-fund gathering in Bermuda this week had been entitled: How to Handle the Flood of Assets Coming In.
+	- A late substitution was announced: Crisis and Corrections: Implications for Hedge Funds.
+	- How quickly the mood has swung in financial markets,  from carefree bullishness to deep pessimism.
+	- Hedge funds,  those bold adventurers of the financial markets,  have lost pots of money as markets have fallen sharply,  which is bad enough.
+	- Now,  to add insult to injury,  they are getting much of the blame for the very turmoil that brought them low.
+	- They make good whipping boys.
+	- It is convenient that they tend to be run by colourful and conspicuous types-men such as George Soros,  who (sometimes) runs the Quantum group of funds,  or Julian Robertson,  who runs Tiger,  the biggest hedge fund of all.
+	- They shroud their operations in secrecy and are blamed for manipulating markets from Hong Kong to London.
+	- Critics accuse them of being nothing more than rapacious speculators,  borrowing heavily to beef up their bets.
+	- This enormous amount of footloose money,  it is argued,  can bend the financial markets out of shape-and it has.
+	- Mr. Robertson was in fact the star turn at the Bermuda conference (run by MAR/Hedge,  a newsletter).
+	- Only days before he spoke,  via satellite link,  Tiger had lost nearly $2 billion,  more than a tenth of its assets,  in 24 hours.
+	- The cause was the dollar's plunge against the yen; some currency traders blamed Tiger for worsening that fall as it fled from the currency.
+	- Hedge funds had also been blamed,  a day earlier,  when Treasury bond prices jumped unexpectedly sharply.
+	- Any big swing in any market is now routinely attributed to this or that hedge fund getting in or out.
+	- Market-makers' fears that they will find themselves on the wrong end of such trades has made them fearful of all trading.
+- This has been partly responsible for the widening of bid-ask spreads (the difference between the price a trader is willing to pay for a security and the price at which he offers to sell it).
+	- This,  in turn,  signals the drying up of liquidity in many financial markets.
+	- There is even a particular villain,  an exemplary specimen,  on which critics can focus: Long-Term Capital Management (LTCM).
+	- Founded by,  among others,  two Nobel laureates in economics,  a former vice-chairman of the Federal Reserve,  and one of Wall Street's most successful bond-traders,  Long-Term Capital nearly went bust in September.
+	- It was saved only when the Federal Reserve organised its rescue by many of the banks that had previously lent it billions of dollars.
+	- According to Alan Greenspan,  the Fed's chairman,  if the fund had failed it could have inflicted serious damage on many market participants,  and "could potentially have impaired the economies of many nations,  including our own."
+	- Although its rescue has staved off the worst consequences,  rumours that LTCM is busy unwinding its huge positions continue to spook the markets.
+	- Other hedge funds are already paying a price for the fund's demise.
+	- Banks,  blamed for lending too generously to LTCM and its fellow hedge funds before,  are now being more miserly.
+	- Some hedge funds have had credit lines cut; most are having to stump up far more collateral as security against loans.
+	- Investors are starting to withdraw money and redemptions are expected to soar as the financial year ends.
+	- Hardest hit,  ironically,  are the largish group of hedge funds that have performed well of late,  for the simple reason that they have the cash.
+	- To cap it all,  there are now calls in Congress and elsewhere for the funds to be regulated.
+- **Through a hedge backwards Hang on a moment.**
+	- Tarring all hedge funds with the brush that has been used for LTCM is wrong.
+	- The most striking thing about LTCM is not how similar it is to other hedge funds,  but how different.
+	- Indeed hedge funds in general are surprisingly different,  one from another.
+	- The first was formed in 1949 by Alfred Winslow Jones.
+	- At the last count,  there were getting on for 3, 000 hedge funds,  managing around $200 billion of investors' money,  according to TAss,  a research firm.
+	- Although there is no simple definition of a hedge fund,  they do have certain things in common.
+	- They are structured as limited partnerships,  often offshore,  which means that they are largely unregulated.
+	- They charge fat fees,  normally 20% of profits.
+	- They are open only to the rich,  to whom they offer the prospect of making absolute returns rather than relative ones-that is,  they concentrate on making money,  not on outperforming an index.
+- **Do hedge funds speculate wildly?**
+	- Many see themselves not as speculators at all but as arbitrageurs.
+	- That means they are looking for assets whose prices are temporarily out of line with their fundamental values,  selling those they deem expensive or buying any they think cheap.
+	- By doing this,  in principle,  the hedge funds can help to make markets more efficient.
+	- Given the huge losses run up by some hedge funds,  "arbitrage" might now look like a fancy word for reckless speculation.
+	- Stephen Ross,  an economist at MIT,  argues that opportunities for pure arbitrage-defined as "no risk of losing money"-are very limited.
+	- For instance,  if an investor could borrow at 4% and lend at 5% for the same length of time,  in each case dealing with institutions with the same credit risk,  he would become very rich.
+	- That is why such opportunities are rare.
+	- Most of what hedge funds do is "expectations arbitrage",  in which the chances of making a profit simply exceed the chances of making a loss.
+	- Mr. Ross guesses that,  worldwide,  the total available profits to be made from both sorts of arbitrage-the returns in excess of what one might expect,  given the risk-amount to less than $50 billion,  a tiny sum compared with the amounts sloshing around world financial markets.
+	- Most so-called arbitrage has an element of betting.
+	- As Mr. Ross puts it,  "there is no hard line between arbitrage and speculation; it is a continuum."
+	- In other words,  many hedge funds do indeed speculate.
+	- But there is nothing wrong in that.
+	- Markets need speculators.
+	- By taking one side of a trade that others do not want,  speculators improve liquidity.
+	- Indeed,  the current drying-up of liquidity in many markets is in part a consequence of the credit squeeze being inflicted on hedge funds by banks.
+- Yet whether speculating or arbitraging,  hedge funds do not,  or at least do not generally,  pursue the same strategies: they follow many different ones.
+	- Some,  such as Tiger or Moore Capital,  bet on macroeconomic trends,  such as the direction of an exchange rate.
+	- Others focus on particular sorts of events,  such as bankruptcies or mergers,  or merely play the stock market.
+	- Still others,  such as LTCM,  go in for "market-neutral" arbitrage.
+	- This aims to make money whatever happens to the direction of,  say,  interest rates or the stock market,  by buying assets that seem relatively cheap and simultaneously short-selling assets that seem overpriced.
+	- Such funds account for around 10% of total hedge-fund assets.
+	- Few hedge funds are as hugely leveraged as LTCM.
+	- By the time it was rescued,  LTCM had piled roughly $50 of borrowing on to every dollar of equity.
+	- Earlier,  its leverage had been more like 20 to 1: but subsequent losses consumed much of its equity.
+	- According to George Van,  of Van Hedge Fund Advisers,  a consultancy,  almost a third of
+
+ hedge funds do not borrow at all.
+	- A further 54% borrow no more than the amount of equity their investors put into them.
+	- Among the rest,  it is extremely rare to see leverage greater than ten to one.
+	- LTCM was probably unique.
+- **Why is leverage on LTCM's scale so rare?**
+	- If a bet is a risky one,  it will make a lot of money anyway.
+	- When the bet is relatively safe,  the profit to be made from it will be meagre-unless you bet big.
+	- That is why the large macro hedge funds,  such as Quantum or Tiger,  will leverage more in bonds,  say,  than in currencies,  which are far more volatile.
+	- Few if any hedge funds would be so foolish as to leverage their bets on the likes of the Russian bond market.
+- **Market-neutral strategies,  Long-Term Capital's chosen field,  were supposed to be the safest of the lot.**
+	- One of the fund's main strategies was to exploit tiny differences between the price of a newly issued ("on the run") 30-year American Treasury bond,  and a similar one issued previously ("off the run").
+	- There is little economic reason for these bonds to have different yields.
+	- Yet off-the-run Treasuries often trade slightly cheaper than on-the-run ones.
+	- LTCM bet that their yields would converge by buying off-the-run Treasuries and selling their on-the-run counterparts short.
+	- The potential profits were tiny-no more than a few basis points (hundredths of a percentage point).
+	- So the fund multiplied its bets by borrowing.
+	- LTCM sources say that such positions were leveraged some 30 to 40 times.
+	- In contrast,  LTCM had much lower leverage on its bet that yields on Danish mortgage-backed securities would converge with those on American Treasuries-a far riskier speculation.
+	- The fund aimed to be about as risky as the American stock market as a whole.
+	- This ambition meant that it was far more leveraged than other market-neutral hedge funds,  which typically aim for lower volatility than shares.
+	- According to Mr. Van,  other market-neutral hedge funds earned an average of 14% a year over the past five years,  compared with LTCM's more stratospheric average of 40% a year in 1994-97.
+	- That is one reason to believe that other market-neutral funds will not find themselves in the same straits as LTCM.
+- **A hedge by any other name**
+	- The combination of apparently low-risk strategies with enormous leverage may be rare among hedge funds,  but it is by no means uncommon in other parts of the finance industry.
+	- In fact,  says Bob Schulman of Tremont Advisors,  a consultancy,  that is just what the trading arms of banks do.
+	- Investment banks routinely have leverage in excess of 20 to 1.
+	- Like LTCM,  they make much greater use of derivatives to leverage their bets than do most hedge funds.
+	- (They also make more extensive use of the sort of financial rocket-science for which two of LTCM's founders won the Nobel prize.)
+	- Mr. Ross reckons that banks punt the same amount of capital in this way as all hedge funds put together.
+	- Banks' role in the present financial turmoil is crucial.
+	- After LTCM was rescued,  many investment banks were quick to reveal details of their exposure to LTCM in particular,  and in some cases to hedge funds in general.
+	- This exposure was mostly quite trifling compared with banks' total assets or capital.
+	- But these admissions were beside the point.
+	- Many banks have followed similar strategies to Long-Term Capital-but,  in aggregate,  on a bigger scale.
+	- According to some reports,  whereas LTCM had an exposure of $80 billion to arbitrage between American Treasuries,  banks had $3 trillion tied up in similar bets.
+	- It was for this reason that the Fed felt it had no choice but to organise the rescue of LTCM,  as Mr. Greenspan made clear in testimony to Congress.
+	- Had the fund gone bust,  and its positions been liquidated in a firesale,  it would have made banks' bets even more loss-making than they already were.
+	- Since these are revalued daily,  the banks could quickly have become technically insolvent.
+	- Might that happen anyway?
+	- Unlike LTCM,  banks have several sources of income,  from normal banking business in the case of commercial banks,  to corporate finance business or stockbroking for investment banks.
+	- Moreover,  they have built up substantial capital in the bull markets of the past few years,  which gives them a cushion to fall back on.
+	- Still,  nobody on Wall Street would be surprised if,  when normality returns,  it emerges that at least one investment bank was,  at some point,  on the brink of going under.
+- **Mousetraps and models**
+	- Why have banks done so badly?
+	- After all,  recent years have seen many financial crises: the 1987 stock market crash; the breakup of Europe's exchange-rate mechanism in 1992-93; the bond market crash in February 1994; the Mexican crisis of 1995.
+	- As a result,  banks have spent much time and money developing sophisticated risk management models.
+	- The most favoured,  used by LTCM and most banks is the "value-at-risk" (VAR) model.
+	- This purports to give a bank an idea of the amount of money it is likely to lose over a certain period; if this goes up,  the bank can reduce its positions or put up extra capital.
+	- Unfortunately,  there are some big flaws in the VAR approach.
+	- The first is in that word "likely".
+	- The models assume that markets are neat places where bad things,  such as stock market crashes,  rarely happen.
+	- If you imagine a "normal probability bell curve",  extreme movements are represented by the thin tails on either side.
+	- Unfortunately,  it seems that such outcomes happen more frequently than the models allow.
+	- The tails,  in other words,  may be fatter,  something which statisticians have a suitably off-putting word for: leptokurtosis.
+- A second problem arose because of the particular nature of the bets the banks were making.
+	- Recall that these were often bets on the spreads between different assets,  such as different European government bonds,  or between bonds issued in emerging markets and American Treasuries-and the bet was that these spreads would narrow.
+	- The past few months have seen a dramatic and unexpected widening of such spreads.
+	- The banks' risk models assumed that the spreads were relatively stable and predictable because they had been in the past.
+	- Third,  the value-at-risk models implicitly assumed that banks could always get out of their positions: they made no allowance for liquidity risk.
+	- Unfortunately,  the exit has been well and truly jammed as everybody scrambled to get out of the same positions at the same time.
+	- Intermediaries,  mostly investment banks,  became less willing to bid for assets.
+	- With liquidity reduced,  volatility tended to rise and prices to fall,  in turn forcing the banks to sell even more.
+	- This vicious circle began in Asia a year or so ago,  when currency crises there led to a sharp increase in emerging market bond yields.
+	- Several studies have cleared hedge funds of blame for this.
+	- One,  by Will Goetzmann,  Stephen Brown and James Park,  three American economists,  found that the weight of hedge-fund bets in a given week had no bearing on the direction that markets took during that period.
+- The trouble spread to developed economies in April,  when investment banks' bond-trading desks started to lose money for the first time since 1994,  in this case in mortgage-backed securities.
+	- Bid-offer spreads in that market started to widen.
+	- As the banks started to cut their other risky assets,  liquidity was reduced in the market for high yield ("junk") corporate bonds.
+	- Things became much worse in August,  after the Russian government devalued.
+	- The Russian crisis added to the markets' problems in three ways.
+		- First,  the de facto default increased the riskiness of emerging sovereign debt in the eyes of investors,  who had until then assumed that they would at worst be rescheduled and that the IMF would almost always bail out a government.
+		- Since such assets had suddenly become riskier,  risk-management models advised selling some of them-leading to more falls in prices and a reduced appetite among buyers.
+		- Second,  many investors lost their shirts in Russia,  and so needed to reduce risks in other markets to reflect their diminished equity.
+		- Third,  some investment banks refused to honour hedge contracts sold to investors,  arguing that the Russian government default was a case of force majeure,  freeing them from the obligation.
+		- This too increased perceived risks.
+- By this point,  the banks' risk-management models were shuddering ominously,  ordering risks to be reduced across the board,  and restraining traders from making bids-which served only to reduce liquidity even further.
+	- The news of LTCM's troubles and its rescue was the last straw.
+	- Banks assumed that other hedge funds held huge,  loss-making positions that might have to be unwound.
+	- And not just hedge funds: there were rumours aplenty that several investment banks were on the verge of going bust.
+	- The recent collapse in the dollar against the yen was probably due
+
+ to forced liquidation of positions by both banks and hedge funds in which they had borrowed in yen and invested the proceeds in dollars.
+
+- **Where now?**
+	- Keen to restore their balance sheets,  investment banks are unlikely to return to risk-taking with any enthusiasm soon.
+	- Until the huge portfolios of LTCM and investment banks are seen as desirable,  rather than as a potential cause of further price declines,  many markets are likely to remain paralysed.
+	- This would,  ironically,  be a perfect opportunity for hedge funds to come to the rescue with a dose of contrarian speculation-sorry,  arbitrage-if only they were not being beaten up by the very investment banks they would help out of their difficulties.
+	- That is one reason why the brouhaha about hedge funds is so misplaced.
+	- Many are already shadows of their former selves.
+	- Once bitten,  and with regulators breathing down their necks,  banks will continue to tighten lending to them.
+	- For banks and their regulators alike,  it is more important to take a long,  hard look at how banks manage their own financial risks,  and at the rules for allocating capital against their loans.
+	- But bear in mind that banks' losses to "dangerously" unregulated hedge funds are in the tens of millions of dollars.
+	- Their losses in emerging-market lending,  which is regulated,  run in the tens of billions.
