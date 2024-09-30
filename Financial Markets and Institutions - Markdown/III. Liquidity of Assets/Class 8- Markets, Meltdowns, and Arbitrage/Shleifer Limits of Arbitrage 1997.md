@@ -74,7 +74,7 @@ $$p_{1}=V-S_{1}+D_{1}.$$
 
  Under these informational assumptions,  individual arbitrageurs who experience relatively poor returns in a given period lose market share to those with better returns. Moreover,  since all arbitrageurs in a given segment are taking the same positions,  they all attract or lose investors simultaneously,  depending on the performance of their common arbitrage strategy. Specifically,  investors' aggregate supply of funds to the arbitrageurs in a particular segment at time 2 is an increasing function of arbitrageurs' gross return between time 1 and time 2 (call this performance-based-arbitrage or PBA). Denoting this function by G,  and recognizing that the return on the asset is given by $p_2$/$p_1$' the arbitrageurs' supply of funds at $t = 2$ is given by:
 
-$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\},  $$
+$$F_{2}=F_{1}*G\{(D_{1}/F_{1})*(p_{2}/p_{1})+(F_{1}-D_{1})/F_{1}\},   $$
 with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
  If arbitrageurs do as well as some benchmark given by performance of arbitrageurs in other markets,  which for simplicity we assume to be zero return,  they neither gain nor lose funds under management. However,  they gain (lose) funds if they outperform (under perform) that benchmark. Because of the extremely poor quality of investors' information,  past performance of arbitrageurs completely determines the resources they get to manage,  regardless of the actual opportunities available in their market.
 
@@ -82,11 +82,11 @@ with $G(1)=1$,  $G^{\prime}\equiv1$,  and $G^{\prime\prime}\equiv0$. (4)
 
  Since our results do not rely on the concavity of the G function,  we focus on a linear G,  given by
 
-$$G(x)=a x+1-a,  \qquad\mathrm{with}\quad a\equiv1,  $$
+$$G(x)=a x+1-a,   \qquad\mathrm{with}\quad a\equiv1,   $$
 $$({\mathfrak{s}}{\mathfrak{b}})$$
 
 $$\mathbf{\Sigma}_{1}).\qquad(\mathbf{6})$$
-$$\{\ +(1\,  -\,  a)F_{1}=F_{1}-$$
+$$\{\ +(1\,   -\,   a)F_{1}=F_{1}-$$
 $$\mathbf{\Sigma}$$
  G(x) = ax + 1 - a,  with a : 1,  (5)
  where x is arbitrageur's gross return. In this case,  equation (4) becomes:
@@ -113,7 +113,7 @@ $${\mathsf{F}}_{2}=$$
  1. Our research assistant,  Matthew Ellman of Harvard University,  has solved a model in which allowing arbitrageurs to offer high-powered incentive contracts does not permit the arbitrageurs with better investment opportunities to separate themselves. The result is driven by two factors: first,  limited liability precludes contracts from discouraging imitators through large penalties for poor performance,  which are more likely to be levied against imitators,  and,  second,  better arbitrageurs have more valuable alternative uses of their time,  making it difficult to discourage the imitators by paying only for success since,  at the contract necessary to meet the individual rationality constraint of the better arbitrageurs,  the imitators still earn enough by sheer luck to cover their lower opportunity costs.
 
 ' Hedge fund managers typically do get a large incentive component in their compensation,  but we are not aware of increases in that component,  and cuts in fees,  to avert withdrawal of funds.
- When $S_2$ = S,  in contrast,  arbitrageurs third period funds are given by $$W = (V/p_2) * [a{D,   * p_2 p_1 + F_1 - D_1} + (1 - a)F_1]$$. Arbitrageurs then maximize:
+ When $S_2$ = S,  in contrast,  arbitrageurs third period funds are given by $$W = (V/p_2) * [a{D,    * p_2 p_1 + F_1 - D_1} + (1 - a)F_1]$$. Arbitrageurs then maximize:
 
 $$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}$$ $$+q\bigg{(}\frac{V}{p_{2}}\bigg{)}*\bigg{\{}a\bigg{(}\frac{D_{1}*p_{2}}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}\bigg{\}}\tag{7}$$
 
@@ -124,7 +124,7 @@ $$EW=(1-q)\bigg{\{}a\bigg{(}\frac{D_{1}*V}{p_{1}}+F_{1}-D_{1}\bigg{)}+(1-a)F_{1}
  This case corresponds most closely to the earlier models of limited arbitrage. There is one final interesting benchmark in this model,  namely the case of a = 1. This is the case in which arbitrageurs cannot replenish the funds they have lost,  but do not suffer withdrawals beyond what they have lost. We will return to this special case below.
 
  The first order condition to the arbitrageur's optimization problem is given by: V $p_2$ V
-$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\,  \frac{V}{p_{2}}\equiv0\tag{8}$$
+$$(1-q)\biggl{(}\frac{V}{p_{1}}-1\biggr{)}+q\biggl{(}\frac{p_{2}}{p_{1}}-1\biggr{)}\,   \frac{V}{p_{2}}\equiv0\tag{8}$$
  with strict inequality holding if and only if $D_1$ = $F_1$,  and equality holding if $D_1$ < $F_1$. The first term of equation (8) is an incremental benefit to arbitrageurs from an extra dollar of investment if the market recovers at $t = 2$. The second term is the incremental loss if the price falls at $t = 2$ before recovering at t = 3,  and so they have foregone the option of being able to invest more in that case. Condition (8) holds with a strict equality if the risk of price deterioration is high enough,  and this deterioration is severe enough,  that arbitrageurs choose to hold back some funds for the option to invest more at time 2. On the other hand,  equation (8) holds with a strict inequality if q is low,  if Pi is low relative to V ($S_1$ is large),  if $p_2$ is not too low relative to Pi (S not too large relative to Sj). That is to say,  the initial displacement must be very large and prices should be expected to recover with a high probability rather than fall further. If they do fall,  it cannot be by too much. Under these circumstances,  arbitrageurs choose to be fully invested at $t = 1$ rather than hold spare reserves for $t = 2$. We describe the case in which mispricing is so severe at $t = 1$ that arbitrageurs choose to be fully invested as "extreme circumstances,  " and discuss it at some length.
 
  This discussion can be summarized more formally in:
@@ -163,7 +163,7 @@ show that a higher a makes the market less efficient. As a increases,  the equil
  For concreteness,  it is easier to focus on the case of Proposition 3,  when arbitrageurs are fully invested. In this case,  we have that
 
 $$({\mathfrak{g}})$$
-$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],  $$
+$$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],   $$
 
  as long as a$F_1$ < Pl. The condition that a$F_1$ < Pi is a simple stability condition in this model,  which basically says that arbitrageurs do not lose so much money that in equilibrium they bail out of the market completely. If aF,  > Pl,  then at $t = 2$ the only equilibrium price is $p_2$ = V - S,  and arbitrageurs bail out of the market completely. In the stable equilibrium,  arbitrageurs lose funds under management as prices fall,  and hence liquidate some holdings,  but they still stay in the market.
 
@@ -197,7 +197,7 @@ $$p_{2}=[V-S-a F_{1}+F_{1}]/[1-a F_{1}/p_{1}],  $$
 
  Finally,  PBA supposes that all arbitrageurs have the same sensitivity of funds under management to performance,  and that all invest in the mispriced asset from the beginning. In fact,  arbitrageurs differ. Some may have access to resources independent of past performance,  and as a result might be able to invest more when prices diverge further from fundamentals. The introduction of a substantial number of such arbitrageurs can undo the effects of performance-based liquidations. If the new arbitrageurs reverse the price decline,  the already invested arbitrageurs make money and hence no longer need to liquidate their holdings,  However,  after a very large noise trader shock that we have in the model,  most arbitrageurs operating in a market are likely to find themselves fully committed. Even if some of them have held back initially,  at some point most of them entered and even accumulated substantial debts to bet against the mispricing. As the mispricing gets deeper,  withdrawals,  as well as feared future withdrawals,  cause them to liquidate. Admittedly,  the total amount of capital available for arbitrage is huge,  and perhaps outsiders can come in when insiders liquidate. But in practice,  arbitrage markets are specialized,  and arbitrageurs typically lack the experience and reputations to engage in arbitrage across multiple markets with other people's money. For this reason,  outside capital does not come in to stabilize a market. In extreme circumstances,  then,  PBA is likely to be important and little fresh capital will be available to stabilize the market.
 
- - According to the New York Stock Exchange (NYSE) Fact Book for 1993,  the total dollar value of U.S. equities held by closed-end funds was only $20.1 billion compared to $617 billion for (open-end) mutual funds,  $1,  038 billion for private pension funds (who typically have an open-end arrangement with their outside managers),   and $6,  006 billion in total U.S. equities.
+ - According to the New York Stock Exchange (NYSE) Fact Book for 1993,  the total dollar value of U.S. equities held by closed-end funds was only $20.1 billion compared to $617 billion for (open-end) mutual funds,  $1,   038 billion for private pension funds (who typically have an open-end arrangement with their outside managers),    and $6,  006 billion in total U.S. equities.
 
 ## IV. Empirical Implications
 
