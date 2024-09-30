@@ -144,17 +144,19 @@ aliases:
 ```
 
 ```latex
+\documentclass{standalone}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta, positioning}
+
 \begin{document}
 \begin{tikzpicture}[node distance=1.5cm, >=Stealth]
     % Define nodes
     \node (start) at (0,0) {};
-    \node[above=of start] (p1) {$\frac{1}{2}$};
-    \node[right=of start] (ask) {Initial Ask=$\frac{3}{4}$};
+    \node[above left=of start] (p1) {$\frac{1}{2}$};
+    \node[above right=of start] (ask) {Initial Ask=$\frac{3}{4}$};
     \node[right=of ask] (p2) {$\frac{9}{10}$};
-    \node[below=of start] (p3) {$\frac{1}{2}$};
-    \node[right=of start] (bid) {Initial Bid=$\frac{1}{4}$};
+    \node[below left=of start] (p3) {$\frac{1}{2}$};
+    \node[below right=of start] (bid) {Initial Bid=$\frac{1}{4}$};
     \node[right=of bid] (p4) {$\frac{1}{10}$};
 
     % Draw arrows
