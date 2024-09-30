@@ -9,102 +9,44 @@ The central bank announced aggressive measures over the past month, pledging to 
 For now, according to traders, market stresses [triggered by the coronavirus pandemic](https://archive.is/o/IsIqk/https://www.wsj.com/livecoverage/coronavirus-2020-04-06) have eased. But strains remain. Borrowing cash required for day-to-day operations, for example, still costs companies more than it should. Analysts said key details around certain Fed facilities remain unclear, and some of its actions have yet to begin. And assets that haven’t been backed by the Fed, including commercial mortgage-backed securities, are still in distress.
 
 Here are some of the key moves the Fed has announced, what has happened to date and how markets have reacted:
+![](PixelSnap%202%202024-09-30%2005.08.52.png)
 
-Federal funds rate targetSource: Federal Reserve via St. Louis Fed
-
-%RECESSIONLower limitUpper limit2010’12’14’16’18’200.00.51.01.52.02.5
-
-**Date:** March 3
-
-**Policy:** emergency rate cut No. 1
-
-Fed cut its benchmark rate by a half-percentage point to a range between 1% and 1.25%.
-
-**Market targeted:** multiple assets
-
-**Market reaction:** Stocks fell, and the yield on the benchmark 10-year U.S. Treasury note dropped below 1% for the first time.
-
-Value of mortgage-backed obligations andTreasurys held by Federal ReserveSource: Federal Reserve via St. Louis Fed
-
-.trillionRECESSIONMortgage-backed securitiesU.S. Treasurys2008’10’12’14’16’18’2001234$5
-
-**Date:** March 15
-
-**Policy:** Treasury and MBS buying
-
-The Fed said it would buy at least $500 billion in Treasury securities and $200 billion in mortgage-backed securities backed by Fannie Mae and Freddie Mac on the open market for as long as needed to help unclog essential bond markets.
-
-**Market targeted:**Treasurys, agency mortgage-backed securities
+![](Safari%202024-09-30%2005.08.57.png)
 
 **Market reaction:** Treasurys rallied after the surprise announcement. Analysts in the bond market said that while the purchases were a good first step, other assets, including corporate debt, needed support. The yield on the U.S. 10-year note fell to 0.724%, compared with 0.97% in the previous trading session. Yields fall as bond prices rise.
 
-Weekly change in total Federal Reserve assetsSource: Federal Reserve via St. Louis Fed
+![](Safari%202024-09-30%2005.09.01.png)
 
-.billionRECESSION2008’09’10’11’12’13’14’15’16’17’18’19’20-200-1000100200300400500$600
 
-Invesco KBW Bank ETFSource: FactSetAs of April 7, 4 p.m. ET
-
-Fed cuts rates near zeroJan. ’20Feb.MarchApril25303540455055$60
-
-**Date:** March 15
-
-**Policy:** emergency rate cut No. 2
-
-The Fed cut rates to near zero and said it would hold them there until it is confident that the economy has weathered the pandemic. Since the central bank began announcing its interest-rate moves in 1994, it had never cut rates twice between scheduled meetings.
-
-**Market targeted:** multiple assets
+![](Safari%202024-09-30%2005.09.08.png)
 
 **Market reaction:** S&P 500 futures dropped by their maximum of 5% that evening, with analysts saying the cut—which investors had expected—signaled the central bank’s alarm about the fallout from the virus.
 
-Overnight rate for repurchase agreementsSource: FactSet
-
-%Jan. ’20Feb.MarchApril-0.250.000.250.500.751.001.251.501.75
-
-**Date:** March 15
-
-**Policy:** unlimited repos
-
-The Fed offered nearly unlimited sums of short-term loans to 24 large financial institutions, known as primary dealers. They are the Fed’s exclusive counterparties in the market for repurchase agreements, or repos. The repo market, a crucial piece of the plumbing underpinning financial markets, had frozen as investment managers raced for cash.
+![](Safari%202024-09-30%2005.09.16.png)
 
 **Market targeted:** Treasury repurchase agreements.
 
 **Market reaction:** The cost of borrowing short-term in repo markets didn’t fall immediately. Repo rates remained elevated after the Fed committed $1.5 trillion in the days following the announcement, but funding has since improved over the past few weeks. Overnight and longer-term repo rates are now low and stable, according to dealers.
 
-Cross-currency basis on three-monthovernight indexed swapsSource: Deutsche BankNote: Data as of April 3
+![](Safari%202024-09-30%2005.09.21.png)
 
-.pct. pts.PoundEuroYenJan. ’20March-2.5-2.0-1.5-1.0-0.50.0
-
-**Date:** March 15
-
-**Policy:** foreign-exchange swap lines
-
-Seeking to ease dollar shortages in the foreign-exchange markets, the Fed updated a 2008 program to make U.S. dollars available to foreign central banks, including the European Central Bank and the Bank of Japan, at near-zero interest rates. It expanded the program March 19 to include a total of 14 central banks and set it to last for at least six months.
-
+![](Safari%202024-09-30%2005.09.27.png)
 **Market targeted:** currencies
 
 **Market reaction:** The effects took time to seep through the market. Demand for dollars against the euro declined, while Japanese demand for the U.S. currency remained high until last week. Rates on cross-currency basis swaps, contracts in which one party borrows currency from another and lends its own currency in return, were deeply negative in mid-March, signaling a surge in demand for dollars. Use of the Fed’s central-bank swap lines jumped by $349 billion.
 
-Commercial paper ratesSource: Deutsche BankNote: Three-month non-financial data as of March31; Three-month non-financial A2/P2/F2 data as ofApril 2.
 
-%Three-month non-financialThree-month non-financial A2/P2/F2Jan. ’20Feb.MarchApril01234
 
-**Date:** March 17
+![](Safari%202024-09-30%2005.09.33.png)
 
-**Policy:** commercial-paper funding facility
-
-The Fed said it would buy short-term loans to U.S. corporations in the $1.1 trillion commercial-paper market, in which companies fund day-to-day operations including payroll. The central bank’s facility will purchase three-month debt from businesses with high credit ratings to ensure that eligible issuers can roll over debts when they come due.
-
-**Market targeted:** commercial paper, investment-grade debt
-
-**Market reaction:** The announcement of the facility alleviated immediate strains, removing worries that companies would lose access to short-term markets. “It’s a symbol,” said Alexandra Wilson-Elizondo, senior credit portfolio manager at MacKay Shields. But the program won’t formally launch until April 14, according to the New York Fed, and myriad details are unclear. The cost for companies borrowing in the commercial-paper market remains elevated.
 
 Dow Jones U.S. Mortgage REIT IndexSource: FactSetAs of April 7, 5:53 p.m. ET
 
-RECESSION2012’16’20020406080100
 
-**Date:** March 17 
+![](Safari%202024-09-30%2005.09.39.png)
 
-**Policy:** primary dealer credit facility
+
+
 
 The Fed relaunched a crisis-era facility that allows 24 large financial institutions to access short-term loans of up to three months. These primary dealers will be able to pledge a broader range of collateral than the government-backed debt typically required, and the Fed will charge the same 0.25% rate available for banks at its so-called discount window.
 
@@ -112,13 +54,6 @@ The Fed relaunched a crisis-era facility that allows 24 large financial institut
 
 **Market reaction:** This facility has broadly soothed nerves in fixed-income markets, including agency-backed mortgages, but analysts remain concerned about other distressed assets. Those include commercial and residential mortgages not guaranteed by the government that hedge funds and real-estate investment trusts are selling. JPMorgan’s Matthew Jozoff estimates that more than $1.9 trillion of securitized products remain in distress.
 
-Weekly percentage change in U.S. moneymarket fund asset levelsSource: FactSet
-
-%2019’20-202468
-
-**Date:** March 18 
-
-**Policy:** money-market mutual-fund liquidity
 
 The Fed said it would launch a new lending facility to backstop the $4 trillion money-market mutual-fund industry. Households and other investors had been redeeming their money-market holdings for cash. The Fed will make loans to banks to buy eligible high-quality assets from funds so the funds have cash to give to departing investors. On March 23, the Fed expanded eligible assets to include certificates of deposit and municipal bonds.
 
@@ -126,27 +61,15 @@ The Fed said it would launch a new lending facility to backstop the $4 trillion 
 
 **Market reaction:** Signs of stress are easing, and investors have put money back into U.S. money-market funds. Most important, analysts said targeted lending programs have created room for dealers to set prices and match buyers with sellers. In the money markets, bank commercial deposits and longer-dated commercial paper have begun to trade again.
 
-iShares iBoxx $ Investment Grade CorporateBond ETFSource: FactSetAs of April 7, 8 p.m. ET
-
-Jan. ’20Feb.MarchApril105110115120125130$135
-
-**Date:** March 23
-
-**Policy:** primary market corporate-credit facility and secondary market corporate-credit facility
+![](Safari%202024-09-30%2005.09.45.png)
 
 The Fed said it would buy investment-grade debt issued by companies such as [Intel](https://archive.is/o/IsIqk/https://quotes.wsj.com/INTC) Corp. and [PepsiCo](https://archive.is/o/IsIqk/https://quotes.wsj.com/PEP) Inc., along with exchange-traded funds of highly rated bonds. The Fed also said it would lend money directly to businesses, bypassing banks with bridge loans of up to four years.
 
+![](Safari%202024-09-30%2005.09.49.png)
 **Market targeted:** investment-grade corporate bonds
 
 **Market reaction:** Goldman Sachs analysts and others said the actions helped to stabilize the corporate-bond market, which came under significant stress. But investors and rating firms remain concerned that companies will default or be downgraded as dwindling revenue makes meeting financial obligations a struggle.
 
-ICE BofA US ABS & CMBS IndexSource: FactSet
-
-Jan. ’20Feb.MarchApril949698100102104106
-
-**Date:** March 23
-
-**Policy:** term asset-backed securities loan facility
 
 The Fed said it would lend money to investors to buy the highest-rated securities backed by credit-card loans and other consumer debt through a 2008 crisis-era facility to support consumerand business-credit markets. The facility props up the market for some asset-backed securities, which bundle loans into bonds.
 
