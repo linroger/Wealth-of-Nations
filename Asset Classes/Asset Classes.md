@@ -7,20 +7,19 @@ linter-yaml-title-alias: ASSET CLASSES
 # ASSET CLASSES
 
 %% Begin Waypoint %%
-
 - **[[Asset Classes]]**
 	- [[Asset Classes]]
 	- **[[Derivatives]]**
-		- [[Derivative Securities,   NYU Courant]]
+		- [[Derivative Securities, NYU Courant]]
 		- [[Derivatives]]
 		- **[[Forward and Futures]]**
 			- [[EURODOLLAR FUTURES]]
 			- [[Forward and Futures]]
 			- **[[Forward Exchange Rate Contracts]]**
 				- **[[Foreign Exchange Notes]]**
-					- [[Exchange-Rate Determination in Short,   Medium,   and Long Run.jpeg]]
+					- [[Exchange-Rate Determination in Short, Medium, and Long Run.jpeg]]
 					- [[Foreign Exchange Notes]]
-					- [[Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Foreign Exchange Notes/Interest Rates,   Carry Trades,   and Exchange Rate Movements]]
+					- [[Interest Rates, Carry Trades, and Exchange Rate Movements]]
 					- [[LR Exchange Rate Determination Notes]]
 					- [[SR Exchange Rate Determination Notes]]
 					- [[The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf]]
@@ -35,7 +34,7 @@ linter-yaml-title-alias: ASSET CLASSES
 				- [[Hedging with Forwards]]
 		- **[[Options]]**
 			- [[Black Scholes Derivation]]
-			- [[Derivative Securities,   NYU Courant]]
+			- [[Derivative Securities, NYU Courant]]
 			- **[[Option Strategies]]**
 				- [[1x2 Ratio Vertical Spread with Puts - Fidelity]]
 				- [[1x2 Ratio Volatility Spread with Puts - Fidelity]]
@@ -45,7 +44,7 @@ linter-yaml-title-alias: ASSET CLASSES
 				- [[Bull Put Spread - Fidelity]]
 				- [[Cash Secured Short Put - Fidelity (1)]]
 				- [[Cash Secured Short Put - Fidelity]]
-				- [[Cost of Carry Definition,   Models,   Factors and Formula]]
+				- [[Cost of Carry Definition, Models, Factors and Formula]]
 				- [[Covered Strangle - Fidelity]]
 				- [[Long Butterfly Spread with Calls - Fidelity]]
 				- [[Long Butterfly Spread with Puts - Fidelity]]
@@ -73,11 +72,10 @@ linter-yaml-title-alias: ASSET CLASSES
 			- [[Options and Futures Pricing.pdf]]
 			- [[Options Financial Engineering]]
 			- [[Options]]
-			- [[Asset Classes/Derivatives/Options/The Pricing of Options and Corporate Liabilities]]
+			- [[The Pricing of Options and Corporate Liabilities]]
 		- **[[Swaps]]**
 			- [[Swaps Complete]]
 			- [[Swaps]]
-			- [[What Is an Interest Rate Swap  Chatham Financial]]
 	- **[[Equities]]**
 		- [[Equities]]
 		- [[Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows]]
@@ -93,7 +91,7 @@ linter-yaml-title-alias: ASSET CLASSES
 			- [[Notes-Handbook of Fixed Income Securities 1]]
 			- [[Treasury Buybacks — TreasuryDirect]]
 			- [[Treasury Futures]]
-			- [[Understanding Bonds,   Pricing And The Risks]]
+			- [[Understanding Bonds, Pricing And The Risks]]
 			- [[Yield Curves]]
 		- [[Fixed Income Securities]]
 

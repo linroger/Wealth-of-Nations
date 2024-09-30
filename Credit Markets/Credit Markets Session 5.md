@@ -35,8 +35,8 @@ April 30 2024
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035225976.png)
 Main idea: model interaction between components of the capital structure of a corporation
 
-- Assets value of corporation modeled by stochastic process $$\left(A_t\right)_{t\geq0},  A_t>0 \tag{1}$$
-- Corporate Liabilities are known and denoted by $$\left(K_t\right)_{t\geq0},  K_t\geq0 \tag{2}$$
+- Assets value of corporation modeled by stochastic process $$\left(A_t\right)_{t\geq0},   A_t>0 \tag{1}$$
+- Corporate Liabilities are known and denoted by $$\left(K_t\right)_{t\geq0},   K_t\geq0 \tag{2}$$
 
 ### BOOK VALUE OF EQUITY AND LEVERAGE
 - Leverage $L$ of the corporate capital structure defined as
@@ -54,19 +54,19 @@ Reminder: Black-Scholes '73 option pricing formulas
 
 - Stock price process $S_t$ follows geometric Brownian motion with constant drift $r$ and volatility $\sigma$ (under risk neutral measure)
 
-$$\frac{dS_t}{S_t}=r\cdot dt+\sigma\cdot dW_t,  S_0>0,  \tag{5}$$
+$$\frac{dS_t}{S_t}=r\cdot dt+\sigma\cdot dW_t,   S_0>0,   \tag{5}$$
 
 $$S_t=S_0\cdot\exp\left[\left(r-\frac12\sigma^2\right)\cdot t+\sigma\cdot W_t\right].\tag{6}$$
 
 - Stock log-price $S_t$ is normally distributed:
 
-$$\log\left(\frac{S_t}{S_0}\right)\sim\mathcal{N}\left[\left(r-\frac12\sigma^2\right)\cdot t,  \sigma^2\cdot t\right].\tag{7}$$
+$$\log\left(\frac{S_t}{S_0}\right)\sim\mathcal{N}\left[\left(r-\frac12\sigma^2\right)\cdot t,   \sigma^2\cdot t\right].\tag{7}$$
 
 # REMINDER: BLACK-SCHOLES '73 OPTION PRICING FORMULAS
 
 ### EQUATION BREAKDOWN
 
-$$\text{Call} (S_0,   K,   T,   \sigma,   r) = e^{-rT} \cdot \mathbb{E}[(S_T - K)^+ | \mathcal{F}_0]$$
+$$\text{Call} (S_0,    K,    T,    \sigma,    r) = e^{-rT} \cdot \mathbb{E}[(S_T - K)^+ | \mathcal{F}_0]$$
 
 - **$S_0$**: The initial stock price at time $t = 0$.
 - **$K$**: The strike price of the option,  i.e.,  the price at which the holder of the option can buy the stock at maturity.
@@ -76,7 +76,7 @@ $$\text{Call} (S_0,   K,   T,   \sigma,   r) = e^{-rT} \cdot \mathbb{E}[(S_T - K
 - **$\mathbb{E}[(S_T - K)^+ | \mathcal{F}_0]$**: The expected value of the payoff of the call option at maturity,  conditioned on the filtration $\mathcal{F}_0$,  which represents the information available at time $t = 0$.
 ### PAYOFF FUNCTION
 
-The payoff of a European call option at maturity is given by $(S_T - K)^+$,  where $x^+ = \max(x,   0)$. This means that the holder of the option will exercise it and benefit from the payoff if $S_T > K$ (stock price at maturity exceeds the strike price),  and will let it expire worthless otherwise.
+The payoff of a European call option at maturity is given by $(S_T - K)^+$,  where $x^+ = \max(x,    0)$. This means that the holder of the option will exercise it and benefit from the payoff if $S_T > K$ (stock price at maturity exceeds the strike price),  and will let it expire worthless otherwise.
 
 ### RISK-NEUTRAL VALUATION
 
@@ -91,7 +91,7 @@ $$S_T = S_0 e^{(r - \frac{1}{2} \sigma^2)T + \sigma \sqrt{T} Z}$$
 where $Z$ is a standard normal random variable.
 The Black-Scholes formula for a European call option can then be expressed as:
 
-$$\text{Call}(S_0,   K,   T,   \sigma,   r) = S_0 N(d_1) - e^{-rT} K N(d_2)$$
+$$\text{Call}(S_0,    K,    T,    \sigma,    r) = S_0 N(d_1) - e^{-rT} K N(d_2)$$
 
 where:
 
@@ -100,21 +100,21 @@ where:
 - **$d_2 = d_1 - \sigma \sqrt{T}$**
 This formula results from integrating the payoff function over the probability density function of $S_T$,  using the properties of the log-normal distribution and the properties of stochastic calculus.
 - Fair value price of European Call option with maturity T and strike K given by
-	- $$= S_0 · \Phi (d_+) - e^{-r T} · K · \Phi (d_-),  \tag{9}$$
+	- $$= S_0 · \Phi (d_+) - e^{-r T} · K · \Phi (d_-),   \tag{9}$$
 	- $$d_\pm = \frac{\log (S_0/K) + (r \pm \frac{1}{2}\sigma^2) · T}{\sigma \cdot \sqrt{T}}\tag{10}$$
 - Intuition behind option pricing formulas
 	- use risk-neutral measure $$d\tilde{P}$$ and stock-forward measure $$d\tilde{P}_* = \frac{S_T}{S_0 e^{rT}} d\tilde{P}$$
 
  (via Girsanov transform):
 
-+$$ \begin{align} \text{Call} (S_0,   K,   T,   \sigma,   r) &= e^{-rT} \cdot \mathbb{E} \left[(S_T - K)^+ \mid \mathcal{F}_0 \right] \tag{11} \\ &= e^{-rT} \cdot \mathbb{E} \left[ (S_T - K) \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] \\ &= S_0 \cdot \mathbb{E} \left[\frac{S_T}{S_0 e^{rT}} \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] - e^{-rT} \cdot K \cdot \mathbb{E} \left[\mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] \\ &= S_0 \cdot \mathbb{P}(S_T > K \mid \mathcal{F}_0) - K \cdot e^{-rT} \cdot \mathbb{P}(S_T > K \mid \mathcal{F}_0) \tag{12} \\ &= S_0 \cdot \Phi (d_+) - e^{-rT} \cdot K \cdot \Phi (d_-) \tag{13} \end{align}$$
++$$ \begin{align} \text{Call} (S_0,    K,    T,    \sigma,    r) &= e^{-rT} \cdot \mathbb{E} \left[(S_T - K)^+ \mid \mathcal{F}_0 \right] \tag{11} \\ &= e^{-rT} \cdot \mathbb{E} \left[ (S_T - K) \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] \\ &= S_0 \cdot \mathbb{E} \left[\frac{S_T}{S_0 e^{rT}} \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] - e^{-rT} \cdot K \cdot \mathbb{E} \left[\mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] \\ &= S_0 \cdot \mathbb{P}(S_T > K \mid \mathcal{F}_0) - K \cdot e^{-rT} \cdot \mathbb{P}(S_T > K \mid \mathcal{F}_0) \tag{12} \\ &= S_0 \cdot \Phi (d_+) - e^{-rT} \cdot K \cdot \Phi (d_-) \tag{13} \end{align}$$
 
 - It's all about measuring the event $\{S_T > K\}$ under $\mathbb{P}$ and $\mathbb{P}_*$
 
 ## INTUITION BEHIND OPTION DELTA HEDGING
 1. **Definition of Delta**:
 
-   $$\Delta_{\text{Call}} (S_0,   K,   T,   \sigma,   r,   t)\tag{14}$$
+   $$\Delta_{\text{Call}} (S_0,    K,    T,    \sigma,    r,    t)\tag{14}$$
 
    $$= \frac{\partial}{\partial S_0} \left\{ e^{-rT} \cdot \mathbb{E} \left[(S_T - K)^+ \mid \mathcal{F}_0 \right] \right\}$$
 
@@ -137,27 +137,27 @@ $$= \Phi(d_+)\tag{16}$$
 - **Implied Distribution Function**:
 		- The statement about the implied distribution refers to the model-independent cumulative distribution function $\mathbb{P}(S_T \leq K \mid \mathcal{F}_0)$. This function can be derived by evaluating how market prices of options (both calls and puts) across various strike prices $K$ reflect the cumulative probabilities under the risk-neutral measure. This method involves using the Breeden-Litzenberger identity which expresses that the second derivative of option prices with respect to strike prices provides the density function under the risk-neutral measure.
 ### RECOVERING THE MARKET IMPLIED DISTRIBUTION OF $S_T$
-1. **Intuition behind option delta hedging:**$$\Delta \text{Call} (S_0,   K,   T,   \sigma,   r) = \frac{\partial}{\partial S_0} \left\{ e^{-rT} \mathbb{E}[(S_T - K)^+ \mid \mathcal{F}_0] \right\}$$$$ = e^{-rT} \mathbb{E} \left[\frac{\partial}{\partial S_0} (S_T - K)^+ \mid \mathcal{F}_0 \right]$$$$= e^{-rT} \mathbb{E} \left[\frac{S_T}{S_0} \mathbf{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] = \mathbb{P}^* [S_T > K \mid \mathcal{F}_0] = \Phi(d_+)$$
+1. **Intuition behind option delta hedging:**$$\Delta \text{Call} (S_0,    K,    T,    \sigma,    r) = \frac{\partial}{\partial S_0} \left\{ e^{-rT} \mathbb{E}[(S_T - K)^+ \mid \mathcal{F}_0] \right\}$$$$ = e^{-rT} \mathbb{E} \left[\frac{\partial}{\partial S_0} (S_T - K)^+ \mid \mathcal{F}_0 \right]$$$$= e^{-rT} \mathbb{E} \left[\frac{S_T}{S_0} \mathbf{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] = \mathbb{P}^* [S_T > K \mid \mathcal{F}_0] = \Phi(d_+)$$
 1. **Recovering the market implied distribution of $S_T$:**
-   $$\text{Call}(S_0,   K + \Delta K,   \ldots) - \text{Call}(S_0,   K,   \ldots) \approx \frac{\partial}{\partial K} \text{Call}(S_0,   K,   \ldots)$$
+   $$\text{Call}(S_0,    K + \Delta K,    \ldots) - \text{Call}(S_0,    K,    \ldots) \approx \frac{\partial}{\partial K} \text{Call}(S_0,    K,    \ldots)$$
    $$= \frac{\partial}{\partial K} \left\{ e^{-rT} \mathbb{E}[(S_T - K)^+ \mid \mathcal{F}_0] \right\} = e^{-rT} \mathbb{E}[\mathbf{1}_{\{S_T \leq K\}} \mid \mathcal{F}_0] = e^{-rT} \mathbb{P}[S_T \leq K \mid \mathcal{F}_0]$$
 1. **Credit default event:**
-   $$\frac{dA_t}{A_t} = r \,   dt + \sigma_A \,   dW_t,   \quad A_0 > 0$$
+   $$\frac{dA_t}{A_t} = r \,    dt + \sigma_A \,    dW_t,    \quad A_0 > 0$$
    $$A_t = A_0 \exp \left(\left(r - \frac{1}{2} \sigma_A^2 \right) t + \sigma_A W_t \right)$$
 $$ \tau = \begin{cases}
-   T,   & \text{if } A_T \leq K \\
-   \infty,   & \text{if } A_T > K
+   T,    & \text{if } A_T \leq K \\
+   \infty,    & \text{if } A_T > K
    \end{cases}$$
-4. **Equity Fair Value:**$$E_0 = e^{-rT} \mathbb{E}[(A_T - K)^+ \mid \mathcal{F}_0] = \text{Call}(A_0,   K,   T,   \sigma_A,   r)$$$$= A_0 \Phi(d_+) - e^{-rT} K \Phi(d_-),   \quad d_{\pm} = \frac{\log(A_0/K) + (r \pm \frac{1}{2} \sigma_A^2) T}{\sigma_A \sqrt{T}}$$
+4. **Equity Fair Value:**$$E_0 = e^{-rT} \mathbb{E}[(A_T - K)^+ \mid \mathcal{F}_0] = \text{Call}(A_0,    K,    T,    \sigma_A,    r)$$$$= A_0 \Phi(d_+) - e^{-rT} K \Phi(d_-),    \quad d_{\pm} = \frac{\log(A_0/K) + (r \pm \frac{1}{2} \sigma_A^2) T}{\sigma_A \sqrt{T}}$$
 + Is the market implied distribution of $S_T$ log-normal with constant volatility σ? Not really …
 ### STRUCTURAL CREDIT DEFAULT MODEL: MERTON '74 EXTENSION
-+ At time horizon $T$,   the firm has the contractual obligation to liquidate the assets and repay the fixed liabilities $K_T = K$
++ At time horizon $T$,    the firm has the contractual obligation to liquidate the assets and repay the fixed liabilities $K_T = K$
 + No refinancing of debt is allowed!
 + Credit default triggered if value of assets $A_T$ is below liabilities $K$ (Book Value of Equity < 0) at time horizon $T$
-+ Equity investors have limited liability,   so their payout at T is
++ Equity investors have limited liability,    so their payout at T is
 	+ $$EquityPayout = (BVE_T)^+ = (A_T - K)^+\tag{18}$$
-+ Bond investors take over the assets in case of default,   their payout at T is
-	+ $$BondPayout = \min (K,   A_T) = A_T - (A_T - K)^+\tag{19}$$
++ Bond investors take over the assets in case of default,    their payout at T is
+	+ $$BondPayout = \min (K,    A_T) = A_T - (A_T - K)^+\tag{19}$$
 ### POSSIBLE PATHS OF ASSET VALUES RELATIVE TO LIABILITIES
 
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035320204.png)
@@ -166,11 +166,11 @@ $$ \tau = \begin{cases}
 + Constant interest rates $r$
 + Constant asset volatility $σ_A$
 + Asset value process $A_t$ follows a geometric Brownian motion with drift (under risk neutral measure)
-	+ $$\frac{dA_t}{A_t} = r \cdot dt + σ_A \cdot dW_t,   A_0 > 0\tag{20}$$
+	+ $$\frac{dA_t}{A_t} = r \cdot dt + σ_A \cdot dW_t,    A_0 > 0\tag{20}$$
 	+ $$A_t = A_0 \cdot \exp \left[\left(r - \frac{1}{2} \sigma_A^2 \right) \cdot t + σ_A \cdot W_t \right]\tag{21}$$
 + Default time τ is discrete and given by
 	+ $$τ = \begin{cases}
-        T,   & A_T < K \_T ≥ K
+        T,    & A_T < K \_T ≥ K
       \end{cases}\tag{22}$$### EQUITY VALUE AS A FUNCTION OF ASSETS AND LIABILITIES
 
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035424495.png)
@@ -180,8 +180,8 @@ $$ \tau = \begin{cases}
 + … via Black-Scholes-Merton risk-neutral valuation formula$$
 \begin{aligned}
 &E_0=e^{-r\cdot T}\cdot\mathrm{E}\left[\left(A_T-K\right)^+\left|\mathcal{F}_0\right]\right.&& (23)  \\
-&=Call\left(A_0,  K,  T,  \sigma_A,  r,  \right) \\
-&=A_0\cdot\Phi\left(d_+\right)-e^{-r\cdot T}\cdot K\cdot\Phi\left(d_-\right),   \\
+&=Call\left(A_0,   K,   T,   \sigma_A,   r,   \right) \\
+&=A_0\cdot\Phi\left(d_+\right)-e^{-r\cdot T}\cdot K\cdot\Phi\left(d_-\right),    \\
 &d_{\pm}=\frac{-\log\left(L_{0}\right)+\left(r\pm\frac{1}{2}\sigma_{A}^{2}\right)\cdot T}{\sigma_{A}\cdot\sqrt{T}}&& \text{(24)}
 \end{aligned}
 $$
@@ -191,7 +191,7 @@ $$
 # FAIR VALUE OF RISKY BOND / RISKY LIABILITIES
 - Computed from risky bond payoff function:
 	+$$ \begin{aligned}
-B_0=e^{-r\cdot T}\cdot\mathbb{E}\left[\min\left(K,  A_T\right)|\mathcal{F}_0\right]&& \text{(25)}  \\
+B_0=e^{-r\cdot T}\cdot\mathbb{E}\left[\min\left(K,   A_T\right)|\mathcal{F}_0\right]&& \text{(25)}  \\
 =e^{-r\cdot T}\cdot\mathbb{E}\left[A_T-\left(A_T-K\right)^+|\mathcal{F}_0\right] \\
 =A_0-\left[A_0\cdot\Phi\left(d_+\right)-e^{-r\cdot T}\cdot K\cdot\Phi\left(d_-\right)\right] \\
 =A_0\cdot\Phi\left(-d_+\right)+e^{-r\cdot T}\cdot K\cdot\Phi\left(d_-\right).
@@ -202,18 +202,18 @@ B_0=e^{-r\cdot T}\cdot\mathbb{E}\left[\min\left(K,  A_T\right)|\mathcal{F}_0\rig
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035543887.png)
 
 ### SURVIVAL AND DEFAULT PROBABILITIES FOR TIME HORIZON $T$
-- Survival Probability computed as $$SP(0,  T)=\mathbb{P}\left[\tau>T|\mathcal{F}_0\right]\\=\mathbb{P}\left[A_T>K|\mathcal{F}_0\right]\\=\Phi\left(d_-\right).\tag{27}$$
+- Survival Probability computed as $$SP(0,   T)=\mathbb{P}\left[\tau>T|\mathcal{F}_0\right]\\=\mathbb{P}\left[A_T>K|\mathcal{F}_0\right]\\=\Phi\left(d_-\right).\tag{27}$$
 - Default Probability computed as
-$$DP(0,  T)=1-SP(0,  T)=1-\Phi\left(d_-\right)\\=\Phi\left(-d_-\right).\tag{28}$$
+$$DP(0,   T)=1-SP(0,   T)=1-\Phi\left(d_-\right)\\=\Phi\left(-d_-\right).\tag{28}$$
 ### HAZARD RATES AND“DISTANCE TO DEFAULT"
 - Flat Hazard Rate computed as
 
-$$h=-\frac1T\cdot\log\left(SP(0,  T)\right)=-\frac1T\cdot\log\left(\Phi\left(d_-\right)\right)\tag{29}$$
+$$h=-\frac1T\cdot\log\left(SP(0,   T)\right)=-\frac1T\cdot\log\left(\Phi\left(d_-\right)\right)\tag{29}$$
 
 - Using KMV "Distance to Default"/DD notation:
 $$
 
-\begin{align} DD &= d_{-} \tag{30} \\ DP(0,  T) &= \Phi(-DD) \tag{31} \\ SP(0,  T) &= \Phi(DD) \tag{32} \end{align}
+\begin{align} DD &= d_{-} \tag{30} \\ DP(0,   T) &= \Phi(-DD) \tag{31} \\ SP(0,   T) &= \Phi(DD) \tag{32} \end{align}
 
 $$
 ### RISKY BOND YIELD AND CREDIT SPREAD
@@ -230,7 +230,7 @@ $$=-\frac1T\cdot\log\left(e^{r\cdot T}\cdot L_0^{-1}\cdot\Phi\left(-d_+\right)+\
 $$
 
 \begin{aligned}
-&R=\mathbb{E}\left[\frac{A_T}K|A_T<K,  \mathcal{F}_0\right]&   \\
+&R=\mathbb{E}\left[\frac{A_T}K|A_T<K,   \mathcal{F}_0\right]&   \\
 &=\frac{\mathrm{E}\left[\frac{A_T}K\cdot\mathrm{I}_{\{A_T<K\}}|\mathcal{F}_0\right]}{\mathbb{P}\left[A_T<K|\mathcal{F}_0\right]} \\
 &=\frac{A_0}K\cdot\frac{\Phi\left(-d_+\right)}{\Phi\left(-d_-\right)}
 \end{aligned}\tag{35}
@@ -241,8 +241,8 @@ $$
 
 ## EXPECTED RECOVERY ON DEFAULT EQUITY VS. ASSETS VOLATILITIES
 - We apply Ito's lemma to the equity price:
-$$\frac{dE_{\rm t}}{E_{\rm t}}=\frac{1}{E_{\rm t}}\cdot\frac{\partial E}{\partial A}\left(A_{\rm t},  K\right)\cdot dA_{\rm t}+…\tag{36}$$
-$$=\frac{A_{\rm t}}{E_{\rm t}}\cdot DeltaCall\left(A_{\rm t},  K\right)\cdot\sigma_{A}\cdot dW_{\rm t}+…$$
+$$\frac{dE_{\rm t}}{E_{\rm t}}=\frac{1}{E_{\rm t}}\cdot\frac{\partial E}{\partial A}\left(A_{\rm t},   K\right)\cdot dA_{\rm t}+…\tag{36}$$
+$$=\frac{A_{\rm t}}{E_{\rm t}}\cdot DeltaCall\left(A_{\rm t},   K\right)\cdot\sigma_{A}\cdot dW_{\rm t}+…$$
 $$=\frac{A_{\rm t}}{E_{\rm t}}\cdot\Phi\left(d_{+}\right)\cdot\sigma_{A}\cdot dW_{\rm t}+…$$
 - Connection between equity vol $\sigma_{E}$ and assets vol $\sigma_{A}$ ($t$ =0):
 $$\sigma_{E}=\frac{A_{0}}{E_{0}}\cdot\Phi\left(d_{+}\right)\cdot\sigma_{A}.\tag{37}$$
@@ -261,10 +261,10 @@ Zero-correlation case obtain only for un-leveraged companies only (when Assets =
 
 #### FAIR VALUE OF EQUITY CALL OPTION (STRIKE K AND MATURITY T < T) FAIR VALUE OF EQUITY
 
-$$E_{t}=EquityValue(\,  T)=e^{-r\cdot(\,  T-t)}\cdot\mathbb{E}\left[\left(A_{T}-K\right)^{+}\,  |\mathcal{F}_{t}\right]\tag{40}$$ $$=Call\left(A_{t},  K,  \,  T-t,  \sigma_{A},  r\right).$$
+$$E_{t}=EquityValue(\,   T)=e^{-r\cdot(\,   T-t)}\cdot\mathbb{E}\left[\left(A_{T}-K\right)^{+}\,   |\mathcal{F}_{t}\right]\tag{40}$$ $$=Call\left(A_{t},   K,   \,   T-t,   \sigma_{A},   r\right).$$
 Fair Value of Equity Call derived from payoff function:
-$$EquityCall\left(E_{0},  k,  t\right)=e^{-r\cdot t}\cdot\mathbb{E}\left[\left(E_{t}-k\right)^{+}\,  |\mathcal{F}_{0}\right]\tag{41}$$
-$$=e^{-r\cdot t}\cdot\mathbb{E}\left[\left(\,  Call\left(A_{t},  K,  \,  T-t,  \sigma_{A},  r,  \,  \right)-k\right)^{+}\,  |\mathcal{F}_{0}\right].$$
+$$EquityCall\left(E_{0},   k,   t\right)=e^{-r\cdot t}\cdot\mathbb{E}\left[\left(E_{t}-k\right)^{+}\,   |\mathcal{F}_{0}\right]\tag{41}$$
+$$=e^{-r\cdot t}\cdot\mathbb{E}\left[\left(\,   Call\left(A_{t},   K,   \,   T-t,   \sigma_{A},   r,   \,   \right)-k\right)^{+}\,   |\mathcal{F}_{0}\right].$$
 Value obtained by 1-dimensional integration of the call function vs the log-normal density of $A_{t}$.
 
 ## IMPLIED VOLATILITY SURFACES
@@ -340,21 +340,21 @@ Outputs
 	- idiosyncratic risk $Z_i$ (specific for company $i$) and
 	- systematic/market risk X (common tall companies)
 - The portion of systematic/market factor risk in $W^i_t$ (and $A^i_t$) controlled via Gaussian correlation coefficient $ρ^i$:
-$$Corr\left(W_{T}^{i},  X\right)=\rho_{i}\in[-1,  1]\tag{42}$$
+$$Corr\left(W_{T}^{i},   X\right)=\rho_{i}\in[-1,   1]\tag{42}$$
 $$W_{T}^{i}=\sqrt{T}\cdot\left(\sqrt{1-\rho_{i}}\cdot Z^{i}+\rho_{i}\cdot X\right)\tag{43}$$
-$$X,  Z_{i}\sim\mathcal{N}\left(0,  1\right),  \ \ X\perp Z_{j},  \ \ Z_{i}\perp Z_{j},  i\neq j\tag{44}$$
+$$X,   Z_{i}\sim\mathcal{N}\left(0,   1\right),   \ \ X\perp Z_{j},   \ \ Z_{i}\perp Z_{j},   i\neq j\tag{44}$$
 
 #### ASSETS CROSS-CORRELATIONS: VIA COMMON MARKET FACTOR
 - Assets become explicitly dependent on the level of the common market factor $X$:
 $$A^i_T = A^i_0 \cdot \exp \left(\left(r - \frac{1}{2} \sigma^2_i \right) T + \sigma_i \cdot W^i_T \right)\tag{45}$$
 $$= A^i_0 \cdot \exp \left(\left(r - \frac{1}{2} \sigma^2_i \right) T + \sigma_i \cdot \sqrt{T} \cdot (\sqrt{1-\rho_i} \cdot Z^i + \rho_i \cdot X) \right)\tag{46}$$
 	- **Cross-correlations between assets $A^i_T$ and $A^j_T$ given by**
-$$\text{Corr}(A^i_T,   A^j_T) = \rho_i \cdot \rho_j,   \quad i \neq j\tag{47}$$
+$$\text{Corr}(A^i_T,    A^j_T) = \rho_i \cdot \rho_j,    \quad i \neq j\tag{47}$$
 	- $A^i_T$ and $A^j_T$ are independent,  conditional on $X$
 #### SURVIVAL PROBABILITY FORMULAS
 - **Unconditional survival probabilities $p'$:**
 $$p' = \mathbb{P}[T_i \geq T] = \mathbb{P}[A^i_T > K_i]\tag{48}$$
-$$= \mathbb{P} \left[\frac{W^i_T}{\sqrt{T}} < d'_i \right] = \Phi(d'_i),  \tag{49}$$
+$$= \mathbb{P} \left[\frac{W^i_T}{\sqrt{T}} < d'_i \right] = \Phi(d'_i),   \tag{49}$$
 $$d'_i = \Phi^{-1}(p')\tag{50}$$
 	- **Conditional survival probabilities $p'_x$:**
 $$p'_x:= \mathbb{P}[T_i \geq T \mid X = x] = \mathbb{P} \left[\frac{W^i_T}{\sqrt{T}} < d'_i \mid X = x \right]\tag{51}$$
@@ -362,12 +362,12 @@ $$= \mathbb{P} \left[\sqrt{1-\rho_i} \cdot Z^i + \rho_i \cdot x < d'_i \mid X = 
 $$= \mathbb{P} \left[Z^i < \frac{d'_i - \rho_i \cdot x}{\sqrt{1-\rho^2_i}} \right] = \Phi \left(\frac{d'_i - \rho_i \cdot x}{\sqrt{1-\rho^2_i}} \right)\tag{53}$$
 ## CORRELATED DEFAULTS MEASURING JOINT CREDIT DEFAULTS
 - Conditional on $X$,  default times τi are independent,  hence
-$$\mathbb{P}\left[\tau_{i}>T,  \tau_{j}>T|X=x\right]=\rho_{x}^{i}\cdot p_{x}^{j}\tag{54}$$
+$$\mathbb{P}\left[\tau_{i}>T,   \tau_{j}>T|X=x\right]=\rho_{x}^{i}\cdot p_{x}^{j}\tag{54}$$
 - Joint credit survival/default probabilities ($\varphi=\Phi^{\prime}$):
-$$\mathbb{P}\left[\tau_{i}>T,  \tau_{j}>T\right]\tag{55}$$
-$$=\int_{-\infty}^{\infty}\mathbb{P}\left[\tau_{i}>T,  \tau_{j}>T|X=x\right]\cdot\varphi\left(x\right)dx\tag{56}$$
+$$\mathbb{P}\left[\tau_{i}>T,   \tau_{j}>T\right]\tag{55}$$
+$$=\int_{-\infty}^{\infty}\mathbb{P}\left[\tau_{i}>T,   \tau_{j}>T|X=x\right]\cdot\varphi\left(x\right)dx\tag{56}$$
 $$=\int_{-\infty}^{\infty}\!\!p_{x}^{i}\cdot p_{x}^{j}\cdot\varphi\left(x\right)dx\tag{57}$$
-$$= \int_{-\infty}^\infty \Phi \left(\frac{d'_i - \rho_i \cdot x}{\sqrt{1-\rho^2_i}} \right) \cdot \Phi \left(\frac{d'_j - \rho_j \cdot x}{\sqrt{1-\rho^2_j}} \right) \cdot \phi(x) \,   dx\tag{58}$$
+$$= \int_{-\infty}^\infty \Phi \left(\frac{d'_i - \rho_i \cdot x}{\sqrt{1-\rho^2_i}} \right) \cdot \Phi \left(\frac{d'_j - \rho_j \cdot x}{\sqrt{1-\rho^2_j}} \right) \cdot \phi(x) \,    dx\tag{58}$$
 
 ## POOLS OF HOMOGENEOUS CREDIT ISSUERS
 
@@ -384,7 +384,7 @@ $$L_{T}=\frac{(1-R)}{n}\cdot\sum_{i=1}^{n}\mathbb{I}_{\{\tau_{i}\leq T\}}\tag{59
 - Conditional default events are independent and Bernoulli distributed
 $$\mathbb{I}_{\{\tau_{i}\leq T\}}|X=x\sim\text{Bernoulli}\left(1-p_{x}\right)\tag{60}$$
 Therefore,  their sum follows the Binomial distribution
-$$\sum_{i=1}^{n}\mathbb{1}_{\{\tau_{i}\leq T\}}|X=x\sim Binomial\left(n-p_{x}\right),  \tag{61}$$
+$$\sum_{i=1}^{n}\mathbb{1}_{\{\tau_{i}\leq T\}}|X=x\sim Binomial\left(n-p_{x}\right),   \tag{61}$$
 $$\mathbb{P}\left[\sum_{i=1}^{n}\mathbb{1}_{\{\tau_{i}\leq T\}}=k|X=x\right]=\binom{n}{k}\cdot\left(1-p_{x}\right)^{k}\cdot p_{x}^{n-k}\tag{62}$$
 ## JOINT/CORRELATED CREDIT EVENTS: "K OUT OF N" DEFAULTS
 - We are interested in counting the number of defaults in the pool,  as well as the distribution of the pool loss $L_T$ at T
@@ -433,38 +433,38 @@ $$=\int_{-\infty}^{\infty}\binom{n}{k}\cdot p_{x}^{k}\cdot\left(1-p_{x}\right)^{
 ## CREDIT RISK DETAILS FOR UNDERLYING POOL INSTRUMENTS
 - Synthetic pool: equally weighted basket of n CDS instruments,  e.g. CDX IG index basket
 - Total notional of the pool normalized t1,  i.e. each CDS notional is $\frac{1}{n}$
-- CDS issuer default times τi,  i = 1..n CDS issuer expected default recoveries $R_i,   i = 1..n$
+- CDS issuer default times τi,  i = 1..n CDS issuer expected default recoveries $R_i,    i = 1..n$
 - Default Loss Given Default payments are
-$$L_{i}=\frac{1}{n}\cdot(1-R_{i})\,  ,  i=1..n\tag{66}$$
+$$L_{i}=\frac{1}{n}\cdot(1-R_{i})\,   ,   i=1..n\tag{66}$$
 ## CDO TRANCHES: STRUCTURAL SUBORDINATION "WATERFALL" LOGIC
 
 ![500](Credit%20Markets%20Session%205-20240508043040259.png)
 
 ### CDO "WATERFALL" LOGIC FOR TRANCHE DEFAULT LEG
-- Cumulative losses in the pool at time $t\in[0,  \,  T]$ given by
-- $$L_{t}=\frac{1}{n}\cdot\sum_{i=1}^{n}\left(1-R_{i}\right)\mathbb{1}_{\{\tau_{i}\leq t\}},  \,  L_{0}=0\tag{67}$$
+- Cumulative losses in the pool at time $t\in[0,   \,   T]$ given by
+- $$L_{t}=\frac{1}{n}\cdot\sum_{i=1}^{n}\left(1-R_{i}\right)\mathbb{1}_{\{\tau_{i}\leq t\}},   \,   L_{0}=0\tag{67}$$
 - Cumulative losses in the \[a,  d] tranche at time t ∈ \[0,  T]
-- $$L_{t}^{[a,  d]}=\left(L_{t}-a\right)^{+}-\left(L_{t}-d\right)^{+}=L_{t}^{[0,  d]}-L_{t}^{[0,  a]}\tag{68}$$
-- Notice that $L_{t}^{[a,  d]}\leq t\leq T$ is a discrete jump process paying the portfolio losses within the $[a,  d]$ tranche until maturity $T$
+- $$L_{t}^{[a,   d]}=\left(L_{t}-a\right)^{+}-\left(L_{t}-d\right)^{+}=L_{t}^{[0,   d]}-L_{t}^{[0,   a]}\tag{68}$$
+- Notice that $L_{t}^{[a,   d]}\leq t\leq T$ is a discrete jump process paying the portfolio losses within the $[a,   d]$ tranche until maturity $T$
 - Maximum loss on \[a,  d] tranche is d − a (tranche "wipe-out")
 ## CDO "WATERFALL" LOGIC FOR TRANCHE PREMIUM LEG
 - Outstanding/non-defaulted \[a,  d] tranche notional at time t
-- $${\cal N}_{t}^{[a,  d]}=d-a-L_{t}^{[a,  d]}={\cal N}_{t}^{[0,  d]}-{\cal N}_{t}^{[0,  a]}\tag{69}$$
-- Premium leg cash-flow payments for the \[a,  d] tranche occur on (quarterly) cash-flow times ${T_k},   k = 1..K$
-- … on the outstanding tranche notional $N^{[a,  d]}_{T_k}$ at time $T_k$: $$C_{k}^{[a,  d]}=c\cdot\Delta\,  T_{k}\cdot N_{T_{k}}^{[a,  d]}=c\cdot\Delta\,  T_{k}\cdot\left(N_{T_{k}}^{[0,  d]}-N_{T_{k}}^{[0,  a]}\right)\tag{70}$$
-- Maximum premium leg payment on $[a,  d]$ tranche is $c\cdot\Delta\,  T_{k}\cdot(d-a)$,  minimum payment is 0 (tranche "wipe out")
+- $${\cal N}_{t}^{[a,   d]}=d-a-L_{t}^{[a,   d]}={\cal N}_{t}^{[0,   d]}-{\cal N}_{t}^{[0,   a]}\tag{69}$$
+- Premium leg cash-flow payments for the \[a,  d] tranche occur on (quarterly) cash-flow times ${T_k},    k = 1..K$
+- … on the outstanding tranche notional $N^{[a,   d]}_{T_k}$ at time $T_k$: $$C_{k}^{[a,   d]}=c\cdot\Delta\,   T_{k}\cdot N_{T_{k}}^{[a,   d]}=c\cdot\Delta\,   T_{k}\cdot\left(N_{T_{k}}^{[0,   d]}-N_{T_{k}}^{[0,   a]}\right)\tag{70}$$
+- Maximum premium leg payment on $[a,   d]$ tranche is $c\cdot\Delta\,   T_{k}\cdot(d-a)$,  minimum payment is 0 (tranche "wipe out")
 ## CDO \[A,  D] TRANCHE PRICING: PREMIUM LEG
 
 Present Value Of Premium/Fixed Leg Is Given By
-$$P V_{C D O\_P L}\left(0\right)=\mathbb{E}\left[\sum_{k=1}^{K}DF(0,  \,  T_{k})\cdot c\cdot\Delta T_{k}\cdot N_{T_{k}}^{[a,  d]}\right].\tag{71}$$
-$$=c\cdot\sum_{k=1}^{K}DF(0,  \,  T_{k})\cdot\Delta T_{k}\cdot\mathbb{E}\left[N_{T_{k}}^{[a,  d]}\right]\tag{72}$$ $$=c\cdot\sum_{k=1}^{K}D F(0,  \,  T_{k})\cdot\Delta\,  T_{k}\cdot\left(d-a-\mathrm{{E}}\left[L_{T_{k}}^{[a,  d]}\right]\right)\tag{73}$$
+$$P V_{C D O\_P L}\left(0\right)=\mathbb{E}\left[\sum_{k=1}^{K}DF(0,   \,   T_{k})\cdot c\cdot\Delta T_{k}\cdot N_{T_{k}}^{[a,   d]}\right].\tag{71}$$
+$$=c\cdot\sum_{k=1}^{K}DF(0,   \,   T_{k})\cdot\Delta T_{k}\cdot\mathbb{E}\left[N_{T_{k}}^{[a,   d]}\right]\tag{72}$$ $$=c\cdot\sum_{k=1}^{K}D F(0,   \,   T_{k})\cdot\Delta\,   T_{k}\cdot\left(d-a-\mathrm{{E}}\left[L_{T_{k}}^{[a,   d]}\right]\right)\tag{73}$$
 
 ## CDO \[A,  D] TRANCHE PRICING PRESENT VALUE AND PAR SPREAD OF THE \[A,  D] TRANCHE
 
-$$PV_{CDO}\left(0\right)=PV_{CDO\_PL}\left(0\right)-PV_{CDO\_PL}\left(0\right),  \tag{77}$$
+$$PV_{CDO}\left(0\right)=PV_{CDO\_PL}\left(0\right)-PV_{CDO\_PL}\left(0\right),   \tag{77}$$
 $$ParSpread_{CDO}\left(0\right)=c\cdot\frac{PV_{CDO\_PL}\left(0\right)}{PV_{CDO\_PL}\left(0\right)}\tag{78}$$
-In practice,  we need to compute the "Expected Tranche Loss" at each premium payment time $\left\{\,  T_{k}\right\}$,  $k=1..K$
-$$\mathbb{E}\left[L_{T_{k-1}}^{\left[a,  d\right]}\right]=\mathbb{E}\left[\left(L_{T_{k}}-a\right)^{+}\right]-\mathbb{E}\left[\left(L_{T_{k}}-d\right)^{+}\right]\tag{79}$$
+In practice,  we need to compute the "Expected Tranche Loss" at each premium payment time $\left\{\,   T_{k}\right\}$,  $k=1..K$
+$$\mathbb{E}\left[L_{T_{k-1}}^{\left[a,   d\right]}\right]=\mathbb{E}\left[\left(L_{T_{k}}-a\right)^{+}\right]-\mathbb{E}\left[\left(L_{T_{k}}-d\right)^{+}\right]\tag{79}$$
 … which can be computed explicitly from the distribution of the pool loss $L_{T_{k}}$
 
 ## BASE CORRELATION MODEL FOR QUOTING CDTRANCHES
