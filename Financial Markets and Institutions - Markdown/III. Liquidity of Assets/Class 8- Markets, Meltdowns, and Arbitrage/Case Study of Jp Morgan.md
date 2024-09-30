@@ -1,5 +1,5 @@
 ---
-title: Case Study of Jp Morgan
+title: Case Study of JP Morgan
 ---
 
-# Case Study of Jp Morgan
+# Case Study of JP Morgan
