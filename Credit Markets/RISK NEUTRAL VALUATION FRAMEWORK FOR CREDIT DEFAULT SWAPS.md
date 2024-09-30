@@ -34,27 +34,26 @@ For the simple case of deterministic interest rates:
 ## CDS PREMIUM/FIXED LEG CASH FLOWS
 
 For CDS premium/fixed leg cash flows:
-1. Quarterly coupon payments until maturity $T = T_n$: ${c_i,  T_i}_{i=1…n},  \quad 0 \leq t < T_1 < … < T_n \quad (5)$
+1. Quarterly coupon payments until maturity $$T = T_n$: ${c_i,  T_i}_{i=1…n},  \quad 0 \leq t < T_1 < … < T_n \tag{5}$$
 2. We denote the random/stochastic issuer default time by: $\tau \in [0,  \infty)$
-3. Cumulative Premium Leg cash flows have stochastic dependence on $\tau$: $$PL(s):= \sum_{i=1}^n c_i \cdot \mathbf{1}_{{s \geq T_i}} \cdot \mathbf{1}_{{\tau > T_i}} \quad (6)$$
+3. Cumulative Premium Leg cash flows have stochastic dependence on $\tau$: $$PL(s):= \sum_{i=1}^n c_i \cdot \mathbf{1}_{{s \geq T_i}} \cdot \mathbf{1}_{{\tau > T_i}} \tag{6}$$
 
 ## VALUATION FRAMEWORK FOR CREDIT-RISKY CASH FLOWS
 
 The valuation framework for credit-risky cash flows assumes:
-
 1. $DF(t,  s)$ is the deterministic risk-free discount factor (as of time $t$,  for time $s$).
-1. The $DF(t,  \cdot)$ curve can be calibrated from market quotes via bootstrapping.
-1. $\tau \in [0,  \infty)$ is the random/stochastic issuer default time.
-1. Market implied issuer survival & default probabilities: $$SP(t,  s):= \mathbb{P}(\tau > s | \tau > t),  \quad 0 \leq t \leq s,  \quad (7)$$ $$DP(t,  s):= \mathbb{P}(\tau \leq s | \tau > t) = 1 - SP(t,  s). \quad (8)$$
+2. The $DF(t,  \cdot)$ curve can be calibrated from market quotes via bootstrapping.
+3. $\tau \in [0,  \infty)$ is the random/stochastic issuer default time.
+4. Market implied issuer survival & default probabilities: $$SP(t,  s):= \mathbb{P}(\tau > s | \tau > t),  \quad 0 \leq t \leq s,  \quad (7)$$ $$DP(t,  s):= \mathbb{P}(\tau \leq s | \tau > t) = 1 - SP(t,  s). \quad (8)$$
 
 ## CDS DEFAULT/LOSS LEG CASH FLOWS
 
 For CDS default/loss leg cash flows:
 
 1. Recovery Rate given default is denoted by $R$.
-1. For simplicity ("basic model"),  we assume $R$ is constant.
-1. $R$ can be thought of as the expected (average) recovery rate for a given issuer and seniority rank.
-1. Default Leg cash flows until time $s$ are given by: $DL(s):= (1 - R) \cdot \mathbf{1}_{{\tau \leq s}} \quad (15)$
+2. For simplicity ("basic model"),  we assume $R$ is constant.
+3. $R$ can be thought of as the expected (average) recovery rate for a given issuer and seniority rank.
+4. Default Leg cash flows until time $s$ are given by: $DL(s):= (1 - R) \cdot \mathbf{1}_{{\tau \leq s}} \quad (15)$
 
 ## VALUATION OF CDS DEFAULT/LOSS LEG (USING FUBINI)
 
