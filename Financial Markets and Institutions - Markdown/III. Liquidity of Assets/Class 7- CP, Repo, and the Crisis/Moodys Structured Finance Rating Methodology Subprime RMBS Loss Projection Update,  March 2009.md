@@ -52,7 +52,7 @@ However,  as noted above,  intervention attributable to the Homeowner Affordabil
 
 | Figure 4                                                                    |                       |            |            |            |             |             |          |            |
 |-----------------------------------------------------------------------------|-----------------------|------------|------------|------------|-------------|-------------|----------|------------|
-| 1 st Lien Subprime Average Performance,              by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
+| 1 st Lien Subprime Average Performance,               by Quarterly Vintage  As of 12/31/08 |                       |            |            |            |             |             |          |            |
 |                                                                             | % of Original Balance |            |            |            |             |             |          |            |
 | Origination                                                                 | Pool                  | 30-59 Days | 60-89 Days | 90+ Days   |             | Real Estate | Total    | Cumulative |
 | Quarter                                                                     | Factor                | Delinquent | Delinquent | Delinquent | Foreclosure | Owned       | 60+ Days | Loss       |
@@ -389,7 +389,7 @@ Exhibit 15 shows the baseline one-year default rate forecasts across industries 
 
 1.There is only one European issuer in the Consumer Service industry
 
-Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody’s-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. further to0.2in 2009 from 0.3 in 2008.Among investment-grade companies,         of issuers are expected to have their ratings downgraded toBa1 orbelow in the coming twelve months.On the otherhand,  only   of speculative-grade issuers are expected to become rising stars in 2009.
+Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody’s-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. further to0.2in 2009 from 0.3 in 2008.Among investment-grade companies,          of issuers are expected to have their ratings downgraded toBa1 orbelow in the coming twelve months.On the otherhand,  only   of speculative-grade issuers are expected to become rising stars in 2009.
 
 **Recovery Outlook**
 

@@ -75,7 +75,7 @@ Given the proximate causes of high bank holdings of mortgage-backed securities (
 
 The Federal Reserve opened new facilities that allowed banks to borrow against illiquid positions. But as more banks tried to sell out of their positions,  prices plummeted further,  and concerns about illiquidity turned to potential insolvency—despite being able to borrow against the full value of their illiquid assets—there was now not enough asset value to offset the liabilities. Bank runs started,  with the bankruptcy of Lehman Brothers the trigger for a worldwide panic. Interbank lending froze up,  with banks resuming lending to one another overnight only after a variety of interventions by central banks and finance ministries,  including guarantees of bank debt and bank recapitalizations. But,  even well-capitalized banks still seem unwilling to lend.
 
-- 3. This is why Diamond and Rajan (2008) argue that regulators may want to raise interest rates more than strictly necessitated by current economic conditions in good times,  so as to offset the incentive for banks to take on illiquidity when they know it will cut rates sharply in bad times. 4 This suggests a difficulty with countercyclical regulatory capital requirements. They are inconsistent with the"market capital requirement, " prompting banks to escape stricter regulatory norms in good times through regulatory arbitrage,  while providing little relief in bad times as banks are held to the higher market norms.
+- 3. This is why Diamond and Rajan (2008) argue that regulators may want to raise interest rates more than strictly necessitated by current economic conditions in good times,  so as to offset the incentive for banks to take on illiquidity when they know it will cut rates sharply in bad times. 4 This suggests a difficulty with countercyclical regulatory capital requirements. They are inconsistent with the"market capital requirement,  " prompting banks to escape stricter regulatory norms in good times through regulatory arbitrage,  while providing little relief in bad times as banks are held to the higher market norms.
 
 ## V. **The Credit Crunch**
 
@@ -108,10 +108,10 @@ We have offered some conjectures on the causes of the crisis and suggested some 
 
 Benmelech,  Efraim,  and Jennifer Dlugosz. 2008. "The Alchemy of CDOs' Credit Ratings." Unpublished.
 
-Diamond,  Douglas W.,  and Raghuram G. Rajan. 2001. "Liquidity Risk,  Liquidity Creation and Financial Fragility: A Theory of Banking." *Journal of Political Economy, * 109(2):
+Diamond,  Douglas W.,  and Raghuram G. Rajan. 2001. "Liquidity Risk,  Liquidity Creation and Financial Fragility: A Theory of Banking." *Journal of Political Economy,  * 109(2):
 287–327.
 
-Diamond,  Douglas W.,  and Raghuram G. Rajan. 2005. "Liquidity Shortages and Banking Cises." *Journal of Finance, * 60(2): 615–47.
+Diamond,  Douglas W.,  and Raghuram G. Rajan. 2005. "Liquidity Shortages and Banking Cises." *Journal of Finance,  * 60(2): 615–47.
 
 Diamond,  Douglas W.,  and Raghuram G. Rajan. 2008. "Illiquidity and Interest Rate Policy." Unpublished.
 

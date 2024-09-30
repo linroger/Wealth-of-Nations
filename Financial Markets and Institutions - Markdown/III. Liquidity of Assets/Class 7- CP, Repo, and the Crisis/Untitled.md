@@ -3,6 +3,7 @@ title: Special Comment
 aliases: [Special Comment]
 linter-yaml-title-alias: Special Comment
 ---
+
 # Special Comment
 
 ## Table of Contents
@@ -13,11 +14,11 @@ linter-yaml-title-alias: Special Comment
 
 This report comprises Moody's twenty-second annual default study in which we update statistics on the default,  loss,  and rating transition experience of corporate bond and loan issuers for 2008,  as wellas for the historical period since 1920 Briefly,  we find that
 
- 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,  2008,  104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
+ 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,   2008,   104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
 
 The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the bankruptcy of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
 
-Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,  12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
+Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,   12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
 
 <table>
 	<tbody>
@@ -81,7 +82,7 @@ Across regions,  84 of the 101 defaulters in 2008 were North American issuers (7
 
  Moody's global speculative-grade default rate ended 2008 at $4.1\%$ more than quadrupling 2007's year-end level of $0.9\%$ .The default rate for all Moody's-rated corporate issuers rose to $1.9\%$ at the end of 2008 from $0.3\%$ at year-end 2007
 
- Measured on a dollar volume basis,  Moody's global speculative-grade bond default rate ended 2008 at $5.8\%$ , up from 2007's year-end level of $0.6\%$ . Among all Moody's-rated issuers,  the volume-weighted default rate increased from $0.1\%$ in 2007 to $2.2\%$ in 2008
+ Measured on a dollar volume basis,  Moody's global speculative-grade bond default rate ended 2008 at $5.8\%$ ,  up from 2007's year-end level of $0.6\%$ . Among all Moody's-rated issuers,  the volume-weighted default rate increased from $0.1\%$ in 2007 to $2.2\%$ in 2008
 
  Moody's global speculative-grade default rate forecasting model predicts that the speculative-grade default rate will jump sharply to $16.4\%$ in the fourth quarter of 2009,  a level that,  if it materializes,  would exceed the peaks reached in 1991 and 2001
 
@@ -103,9 +104,9 @@ In the following three sections,  we first summarize corporate default experienc
 
 # 2008 - Financial Crisis Leads to Record Default Volumes
 
-The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the bankruptcy of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2, 000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
+The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the bankruptcy of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
 
-World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,  84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,  defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
+World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,   84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,   defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
 
 ------------------------------------------------------------------
 
@@ -115,7 +116,7 @@ Exhibit 1
 
 ![](https://storage.simpletex.cn/view/fxXHkXynslcwxSTC2TX80kWGDFE6GFeg8)
 
-Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming, & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and Banking sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting financial institutions in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
+Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming,  & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and Banking sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting financial institutions in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
 
 A unique characteristic of initial default events in 2008 was the high incidence of distressed exchanges. With debt markets essentially closed for high yield issuers,  and the scarcity of DiP financing making bankruptcy a less attractive option,  distressed issuers with unsustainable capital structures or liquidity problems had few options other than to offer debt exchanges,  effectively implementing out-of-court restructurings that constitute events of default under Moody's definition of default. Of the 101 defaulters in 2008,  $23\%$ ,  Or 23,  were distressed exchanges,  which is more than double the historical average of $10\%$ of total initial default events. Exhibit 2 breaks down the 101 defaults in 2008 by initial default type and broad industry.
 
@@ -226,7 +227,7 @@ Exhibit 2
 	</tbody>
 </table>
 
-As a result of rapidly increasing defaults in 20 o 8,  the trailing twelve-month issuer-weighted default rate for all Moody's-rated issuers jumped from $0.3\%$ in 2007 to $1.9\%$ in 2008,  marking its first up-tick since 2001. Among speculative-grade issuers,  the default rate rose to $4.1\%$ in 2008,  more than a fourfold increase from its closing level of $0.9\%$ at the end of 2007. To put this in historical perspective,  since 1983,  Moodys annual default rate for speculative-grade corporate issuers has averaged $4.4\%$ , with the annual peak in 2001 at $10.1\%$ and the trough in 2007 at $0.9\%$ . Before 1983,  the speculative-grade default rate reached a record peak of $15.4\%$ during the Great Depression (see Exhibit 3). Measured on a dollar volume basis,  Moody's speculative-grade corporate bond default rate jumped from $0.6\%$ in 2007 to $5.8\%$ in 2008. And the volume-weighted default rate for all Moody's-rated issuers increased to $2.2\%$ in 2008 from $0.1\%$ in 2007.
+As a result of rapidly increasing defaults in 20 o 8,  the trailing twelve-month issuer-weighted default rate for all Moody's-rated issuers jumped from $0.3\%$ in 2007 to $1.9\%$ in 2008,  marking its first up-tick since 2001. Among speculative-grade issuers,  the default rate rose to $4.1\%$ in 2008,  more than a fourfold increase from its closing level of $0.9\%$ at the end of 2007. To put this in historical perspective,  since 1983,  Moodys annual default rate for speculative-grade corporate issuers has averaged $4.4\%$ ,  with the annual peak in 2001 at $10.1\%$ and the trough in 2007 at $0.9\%$ . Before 1983,  the speculative-grade default rate reached a record peak of $15.4\%$ during the Great Depression (see Exhibit 3). Measured on a dollar volume basis,  Moody's speculative-grade corporate bond default rate jumped from $0.6\%$ in 2007 to $5.8\%$ in 2008. And the volume-weighted default rate for all Moody's-rated issuers increased to $2.2\%$ in 2008 from $0.1\%$ in 2007.
 
 Exhibit 3
 
@@ -420,49 +421,49 @@ Exhibit 6
 		<tr>
 			<td>Lehman Brothers Holdinqs,  Inc.</td>
 			<td>United States</td>
-			<td>120, 164</td>
+			<td>120,  164</td>
 			<td>$9.3\%$</td>
 		</tr>
 		<tr>
 			<td>Kaupthinq Bank hf</td>
 			<td>lceland</td>
-			<td>20, 063</td>
+			<td>20,  063</td>
 			<td>$4.0\%$</td>
 		</tr>
 		<tr>
 			<td>Glitnir banki hf</td>
 			<td>lceland</td>
-			<td>18, 773</td>
+			<td>18,  773</td>
 			<td>$3.0\%$</td>
 		</tr>
 		<tr>
 			<td>GMAC LLC</td>
 			<td>United States</td>
-			<td>17, 190</td>
+			<td>17,  190</td>
 			<td>$69.9\%$</td>
 		</tr>
 		<tr>
 			<td>Washington Mutual Bank</td>
 			<td>United States</td>
-			<td>13, 600</td>
+			<td>13,  600</td>
 			<td>$26.5\%$</td>
 		</tr>
 		<tr>
 			<td>Residential Capital,  LLC</td>
 			<td>United States</td>
-			<td>12, 315</td>
+			<td>12,  315</td>
 			<td>$51.7\%$</td>
 		</tr>
 		<tr>
 			<td>Landsbanki Islands hf</td>
 			<td>lceland</td>
-			<td>12, 161</td>
+			<td>12,  161</td>
 			<td>$3.0\%$</td>
 		</tr>
 		<tr>
 			<td>Washington Mutual,  Inc.</td>
 			<td>United States</td>
-			<td>5, 746</td>
+			<td>5,  746</td>
 			<td>$57.0\%$</td>
 		</tr>
 		<tr>
@@ -629,7 +630,7 @@ Exhibit 7
 
 The recovery data discussed above is based on debt trading prices 30 days after the default date. An alternative recovery measure is based on ultimate recoveries,  or the value creditors realize at the resolution of a default event. For example,  for issuers filing for bankruptcy,  the ultimate recoveries are the present values of the cash and/or securities that creditors actuallyreceive when these issuers exit bankruptcy,  typically 1-2 years following their initial default dates.
 
-In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from bankruptcy or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was $63.0\%$ , below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed cyclicality of ultimate recovery rates and default rates.
+In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from bankruptcy or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was $63.0\%$ ,  below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed cyclicality of ultimate recovery rates and default rates.
 
 Exhibit 8
 
@@ -744,7 +745,7 @@ Exhibit 10
 
 The ongoing banking crisis and global economic downtum makeit almost certain that default rates will continue to climb sharply during 20 o 9. The only outstanding questions are to what levels they will rise and how quickly. Because the impact of the current economic downturn on corporate debt issuers is likely to be more severe than for the two most recent credit cycles of the early 1990 s and 2000 s,  Moody's expects that the speculative-grade default rate willexceed the peaks of $11.9\%$ and $10.4\%$ reached in those cycles,  respectively. Indeed,  the speculative-grade default rate could exceed the $15.4\%$ record level set in 1933 when the speculative-grade market was solely a fallen angel market comprised exclusively of downgraded. Investment-grade issuers.
 
-Moody's formal forecasting model,  the Credit Transition Model $(CTM)^{8}$ , indicates that the global issuerweighted speculative-grade default rate willhit a peak of $16.4\%$ in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of. $4.1\%$ at the endof 2008. In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
+Moody's formal forecasting model,  the Credit Transition Model $(CTM)^{8}$ ,  indicates that the global issuerweighted speculative-grade default rate willhit a peak of $16.4\%$ in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of. $4.1\%$ at the endof 2008. In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
 
 Exhibit 11 shows the model's baseline forecasts through 2009,  as well as the optimistic and pessimistic forecast scenarios. The baseline forecast assumes that the unemployment rate will increase to. $9.0\%$ in the U.S. and $8.2\%$ in Europe by year end. We note,  however,  that the high level of uncertainty surrounding the likely severity and length of the current global economic downturn imply similarlyhigh uncertainty around the point estimates of model-based forecasts of default rates. Moreover,  some of the model's main drivers,  including the current record lowratings mix of Moody's issuers and record high levels of high yield bond spreads,  are in ranges not seen in the historical data used to parameterize the model,  implying heightened model risk.
 
@@ -752,19 +753,19 @@ Exhibit 11
 
 ![](https://storage.simpletex.cn/view/f9YhaqBE0SXruA6BryMokla9F3DB1Rl1Q)
 
-The high level of the high yield bond spread,  which is a primary driver underlying the model's forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2, 000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. Oo 0 basis points,  also climbed sharply and now stands at $52.6\%$ of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
+The high level of the high yield bond spread,  which is a primary driver underlying the model's forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. Oo 0 basis points,  also climbed sharply and now stands at $52.6\%$ of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
 
 ------------------------------------------------------------------
 
 # Corporate Default and Recovery Rates,  1920-2008
 
-high yield spreads,  and Moody’s Distressed Issuer index. The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the speculative-grade default rate. During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1, 000 basis points,  and were associated with peak speculative-grade default rates of roughly $10-12\%$ . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo 0 basis points in the high yield spread suggests that speculative-grade default rates could approach $20\%$
+high yield spreads,  and Moody’s Distressed Issuer index. The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the speculative-grade default rate. During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1,  000 basis points,  and were associated with peak speculative-grade default rates of roughly $10-12\%$ . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo 0 basis points in the high yield spread suggests that speculative-grade default rates could approach $20\%$
 
 Exhibit 12
 
 ![](https://storage.simpletex.cn/view/fRaNQcBl2Xr7BSNHA5wK92MOcz9th0UqK)
 
-The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers. As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost $25\%$ of Moody's speculative-grade issuers,  the highest level recorded since 1983. Moreover, . Roughly $60\%$ of issuers currently rated Caa 1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
+The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers. As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost $25\%$ of Moody's speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . Roughly $60\%$ of issuers currently rated Caa 1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
 
 Exhibit 13
 
@@ -774,7 +775,7 @@ Exhibit 13
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,  which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
+In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,   which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
 
 Exhibit 14
 
@@ -951,7 +952,7 @@ Besides forecasting default rates,  the CTM can also forecast probabilities of u
 
 # Recovery Outlook
 
-As recovery rates are negatively correlated with default rates,  Moody's expectsrecovery rates to decline in 2009 as default rates continue to increase. Moreover,  recoveries are likely to be below historical averages as aresult of strong loan issuance inrecent years. The increasing share of loans in issuers'liability structures implies less protection for loan investors because it entails a corresponding reduction in the share of total debt junior to the loans—which servesas a first-loss cushion for theloansin the event of default. For unsecured bond holders,  the increasing loan shares imply more debt senior to the bonds and,  therefore,  lower recovery rates on those bonds. Based on Moody's current LGD assessments,  the average expectedrecovery rate across all U.S.first lien loans is $68\%$ , which compares with ahistorical average of $87\%$ from Moody's ultimate recovery database. For senior unsecured bonds,  the average expected recovery rate is $33\%$ which is also lower than historical average of $40\%$ (see Exhibit 16). In light of the current economic slowdown,  we also present the LGD outlook under regularand stress-downturn scenarios where firm-wide recovery rates average $45\%$ and $35\%$ respectively. In the previous two credit cycles of 1991 and 2001,  firm-wide recovery rates averaged roughly $45\%$ . However,  the current downturn,  and its impact on firm-wide recovery rates,  could certainly be more severe than those associated with the previous two credit cycles.
+As recovery rates are negatively correlated with default rates,  Moody's expectsrecovery rates to decline in 2009 as default rates continue to increase. Moreover,  recoveries are likely to be below historical averages as aresult of strong loan issuance inrecent years. The increasing share of loans in issuers'liability structures implies less protection for loan investors because it entails a corresponding reduction in the share of total debt junior to the loans—which servesas a first-loss cushion for theloansin the event of default. For unsecured bond holders,  the increasing loan shares imply more debt senior to the bonds and,  therefore,  lower recovery rates on those bonds. Based on Moody's current LGD assessments,  the average expectedrecovery rate across all U.S.first lien loans is $68\%$ ,  which compares with ahistorical average of $87\%$ from Moody's ultimate recovery database. For senior unsecured bonds,  the average expected recovery rate is $33\%$ which is also lower than historical average of $40\%$ (see Exhibit 16). In light of the current economic slowdown,  we also present the LGD outlook under regularand stress-downturn scenarios where firm-wide recovery rates average $45\%$ and $35\%$ respectively. In the previous two credit cycles of 1991 and 2001,  firm-wide recovery rates averaged roughly $45\%$ . However,  the current downturn,  and its impact on firm-wide recovery rates,  could certainly be more severe than those associated with the previous two credit cycles.
 
 ------------------------------------------------------------------
 
@@ -963,7 +964,7 @@ Exhibit 16
 
 # Rating Accuracy Metrics
 
-Moody’s ratings have historically proven to be effective predictors of default. This is illustrated in Exhibit 17,  which plots the average and median ratings of roughly 1, 300 corporate issuers that defaulted from 1983 to 2008. The chart shows that Moody’s-rated issuers have,  on average,  been downgraded to the Ba 3 level as early as fiveyears prior to default. Among issuers that defaulted in 2008,  the average rating is Ba 2 fiveyears prior to default,  which is slightly higher than its comparable historical average. In the year prior to default,  2008. Defaulters' ratings were downgraded to B 2 on average,  which is comparable to historical average since 1983
+Moody’s ratings have historically proven to be effective predictors of default. This is illustrated in Exhibit 17,  which plots the average and median ratings of roughly 1,  300 corporate issuers that defaulted from 1983 to 2008. The chart shows that Moody’s-rated issuers have,  on average,  been downgraded to the Ba 3 level as early as fiveyears prior to default. Among issuers that defaulted in 2008,  the average rating is Ba 2 fiveyears prior to default,  which is slightly higher than its comparable historical average. In the year prior to default,  2008. Defaulters' ratings were downgraded to B 2 on average,  which is comparable to historical average since 1983
 
 Exhibit 17
 
@@ -1273,15 +1274,15 @@ Exhibit 20
 			<td>Glitnir banki hf</td>
 			<td>lceland</td>
 			<td>Seized by regulators</td>
-			<td>$\$13, 365$</td>
-			<td>$\$5, 408$</td>
+			<td>$\$13,  365$</td>
+			<td>$\$5,  408$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
 			<td>$\|\|$ SAAN ance R V</td>
 			<td>siallu Natharlande</td>
 			<td>TH</td>
-			<td>410, 00. 851</td>
+			<td>410,  00. 851</td>
 			<td>PU,  TVL</td>
 			<td>100 Y</td>
 		</tr>
@@ -1321,7 +1322,7 @@ Exhibit 20
 			<td>Harrah's Entertainment,  Inc.</td>
 			<td>United States</td>
 			<td>Distressed exchange</td>
-			<td>$\$1, 142$</td>
+			<td>$\$1,  142$</td>
 			<td> </td>
 			<td>$No^{4}$</td>
 		</tr>
@@ -1329,7 +1330,7 @@ Exhibit 20
 			<td>Harrah's Operating Company,  Inc.</td>
 			<td>United States</td>
 			<td>Distressed exchange</td>
-			<td>$\$1, 082$</td>
+			<td>$\$1,  082$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -1417,8 +1418,8 @@ Exhibit 20
 			<td>Kaupthino Bank hf 11</td>
 			<td>lceland</td>
 			<td>Seized by regulators</td>
-			<td>$\$18, 282$</td>
-			<td>$\$1, 781$</td>
+			<td>$\$18,  282$</td>
+			<td>$\$1,  781$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
@@ -1441,8 +1442,8 @@ Exhibit 20
 			<td>Landsbanki Islands hf</td>
 			<td>lceland</td>
 			<td>Seized by regulators</td>
-			<td>$\$11, 015$</td>
-			<td>$\$1, 146$</td>
+			<td>$\$11,  015$</td>
+			<td>$\$1,  146$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
@@ -1481,8 +1482,8 @@ Exhibit 20
 			<td>Lehman Brothers Holdings,  Inc.</td>
 			<td>United States</td>
 			<td>Chapter 11</td>
-			<td>$\$118, 164$</td>
-			<td>$\$2, 000$</td>
+			<td>$\$118,  164$</td>
+			<td>$\$2,  000$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
@@ -1738,7 +1739,7 @@ Bond
 			<td>Caoital. LLC Residential</td>
 			<td>United States</td>
 			<td>Distressed exchange</td>
-			<td>$\$12, 315$</td>
+			<td>$\$12,  315$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -1787,7 +1788,7 @@ Bond
 			<td>United States</td>
 			<td>Chapter 11</td>
 			<td> </td>
-			<td>$\$2, 520$</td>
+			<td>$\$2,  520$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
@@ -1834,7 +1835,7 @@ Bond
 			<td>Tembec : Industries. Inc.</td>
 			<td>Canada</td>
 			<td>Distressed exchange</td>
-			<td>$\$1, 200$</td>
+			<td>$\$1,  200$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -1850,8 +1851,8 @@ Bond
 			<td>L</td>
 			<td>HU 10 Lates M</td>
 			<td> </td>
-			<td>41, 000 SRO</td>
-			<td>$\varphi|, \varrho uu$</td>
+			<td>41,  000 SRO</td>
+			<td>$\varphi|,  \varrho uu$</td>
 			<td>TES $v$</td>
 		</tr>
 		<tr>
@@ -1883,7 +1884,7 @@ Bond
 			<td>United States</td>
 			<td>Chapter 11</td>
 			<td>$\$960$</td>
-			<td>$\$1, 310$</td>
+			<td>$\$1,  310$</td>
 			<td>Yes</td>
 		</tr>
 		<tr>
@@ -1906,7 +1907,7 @@ Bond
 			<td>Trump Entertainment Resorts Holdinqs,  L.P.</td>
 			<td>United States</td>
 			<td>Missed interest payment</td>
-			<td>$\$1, 249$</td>
+			<td>$\$1,  249$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -1946,7 +1947,7 @@ Bond
 			<td>Washinoton Mutual Bank</td>
 			<td>United States</td>
 			<td>Receivership</td>
-			<td>$\$13, 600$</td>
+			<td>$\$13,  600$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -1954,7 +1955,7 @@ Bond
 			<td>Washin Mutual. Inc</td>
 			<td>United States</td>
 			<td>Chapter 11</td>
-			<td>$\$5, 746$</td>
+			<td>$\$5,  746$</td>
 			<td> </td>
 			<td>Yes</td>
 		</tr>
@@ -2013,70 +2014,70 @@ Largest Moody's-Rated Defaults,  1920-2008
 		</tr>
 		<tr>
 			<td>Lehman Brothers Holdings Inc.</td>
-			<td>$\$120, 483$</td>
+			<td>$\$120,  483$</td>
 			<td>2008</td>
 			<td>FIRE: Finance</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Worldcom,  Inc.</td>
-			<td>$\$33, 608$</td>
+			<td>$\$33,  608$</td>
 			<td>2002</td>
 			<td>Telecommunications</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>GMAC LLC</td>
-			<td>$\$29, 821$</td>
+			<td>$\$29,  821$</td>
 			<td>2008</td>
 			<td>FIRE: Finance</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Kaupthing Bank Hf</td>
-			<td>$\$20, 063$</td>
+			<td>$\$20,  063$</td>
 			<td>2008</td>
 			<td>Banking</td>
 			<td>lceland</td>
 		</tr>
 		<tr>
 			<td>Washington Mutual,  Inc.</td>
-			<td>$\$19, 346$</td>
+			<td>$\$19,  346$</td>
 			<td>2008</td>
 			<td>Banking</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Glitnir Banki Hf</td>
-			<td>$\$18, 773$</td>
+			<td>$\$18,  773$</td>
 			<td>2008</td>
 			<td>Banking</td>
 			<td>lceland</td>
 		</tr>
 		<tr>
 			<td>NTL Communications Corp.</td>
-			<td>$\$16, 429$</td>
+			<td>$\$16,  429$</td>
 			<td>2002</td>
 			<td>Media: Broadcasting & Subscription</td>
 			<td>United Kingdom</td>
 		</tr>
 		<tr>
 			<td>Adelphia Communications Corp.</td>
-			<td>$\$16, 256$</td>
+			<td>$\$16,  256$</td>
 			<td>2002</td>
 			<td>Media: Broadcasting & Subscription</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Enron Corp.</td>
-			<td>$\$13, 852$</td>
+			<td>$\$13,  852$</td>
 			<td>2001</td>
 			<td>Energy: Electricity</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Tribune C Company</td>
-			<td>$\$12, 674$</td>
+			<td>$\$12,  674$</td>
 			<td>2008</td>
 			<td>Media: Diversified& Production</td>
 			<td>United States</td>
@@ -2745,12 +2746,12 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$1, 190$</td>
+			<td>$\$1,  190$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 190$</td>
-			<td>$\$1, 190$</td>
+			<td>$\$1,  190$</td>
+			<td>$\$1,  190$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 190$</td>
+			<td>$\$1,  190$</td>
 		</tr>
 		<tr>
 			<td>1984</td>
@@ -2769,36 +2770,36 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 595$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
+			<td>$\$1,  595$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
 		</tr>
 		<tr>
 			<td>1985</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$S 0$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 595$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
+			<td>$\$1,  595$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 595$</td>
+			<td>$\$1,  595$</td>
 		</tr>
 		<tr>
 			<td>1986</td>
 			<td>$\$138$</td>
 			<td>$\$0$</td>
 			<td>$\$138$</td>
-			<td>$\$3, 766$</td>
+			<td>$\$3,  766$</td>
 			<td>$SO$</td>
-			<td>$\$3, 766$</td>
-			<td>$\$3, 904$</td>
+			<td>$\$3,  766$</td>
+			<td>$\$3,  904$</td>
 			<td>$\$0$</td>
-			<td>$\$3, 904$</td>
+			<td>$\$3,  904$</td>
 		</tr>
 		<tr>
 			<td>IUUV 1987</td>
@@ -2817,36 +2818,36 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$40$</td>
 			<td>$\$0$</td>
 			<td>$\$40$</td>
-			<td>$\$9, 363$</td>
+			<td>$\$9,  363$</td>
 			<td>$\$242$</td>
-			<td>$\$9, 605$</td>
-			<td>$\$9, 403$</td>
+			<td>$\$9,  605$</td>
+			<td>$\$9,  403$</td>
 			<td>$\$242$</td>
-			<td>$\$9, 645$</td>
+			<td>$\$9,  645$</td>
 		</tr>
 		<tr>
 			<td>1901 MA T</td>
 			<td>540</td>
 			<td>$\Phi U$</td>
 			<td>$\psi 4 U$</td>
-			<td>$\varphi 9, 909$</td>
+			<td>$\varphi 9,  909$</td>
 			<td>$\Psi\angle 4\angle$ M A ···</td>
-			<td>$\varphi 9, 000$ r</td>
+			<td>$\varphi 9,  000$ r</td>
 			<td>59.400</td>
 			<td>$5\angle 4\angle$ 100 N T</td>
-			<td>$\varphi 9, 64$</td>
+			<td>$\varphi 9,  64$</td>
 		</tr>
 		<tr>
 			<td>1988</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$5, 194$</td>
+			<td>$\$5,  194$</td>
 			<td>$\$361$</td>
-			<td>$\$5, 555$</td>
-			<td>$\$5, 194$</td>
+			<td>$\$5,  555$</td>
+			<td>$\$5,  194$</td>
 			<td>$\$361$</td>
-			<td>$\$5, 555$</td>
+			<td>$\$5,  555$</td>
 		</tr>
 		<tr>
 			<td>1200</td>
@@ -2862,25 +2863,25 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 		</tr>
 		<tr>
 			<td>1989</td>
-			<td>$\$1, 506$</td>
+			<td>$\$1,  506$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 506$</td>
-			<td>$\$10, 196$</td>
+			<td>$\$1,  506$</td>
+			<td>$\$10,  196$</td>
 			<td>0</td>
-			<td>$\$10, 196$</td>
-			<td>$\$11, 702$</td>
+			<td>$\$10,  196$</td>
+			<td>$\$11,  702$</td>
 			<td>$\$0$</td>
-			<td>$\$11, 702$</td>
+			<td>$\$11,  702$</td>
 		</tr>
 		<tr>
 			<td>1909</td>
-			<td>$\varphi 1, 300$</td>
+			<td>$\varphi 1,  300$</td>
 			<td>$\varphi U$</td>
-			<td>$\varphi 1, 300$</td>
-			<td>10, 190 1 1</td>
+			<td>$\varphi 1,  300$</td>
+			<td>10,  190 1 1</td>
 			<td> </td>
-			<td>$\varphi|0, 190$</td>
-			<td>1, 102</td>
+			<td>$\varphi|0,  190$</td>
+			<td>1,  102</td>
 			<td>$\Phi U$</td>
 			<td>|./ H</td>
 		</tr>
@@ -2889,12 +2890,12 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$19, 559$</td>
-			<td>$\$1, 603$</td>
-			<td>$\$21, 161$</td>
-			<td>$\$19, 559$</td>
-			<td>$\$1, 603$</td>
-			<td>$\$21, 161$</td>
+			<td>$\$19,  559$</td>
+			<td>$\$1,  603$</td>
+			<td>$\$21,  161$</td>
+			<td>$\$19,  559$</td>
+			<td>$\$1,  603$</td>
+			<td>$\$21,  161$</td>
 		</tr>
 		<tr>
 			<td>I 990</td>
@@ -2910,25 +2911,25 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 		</tr>
 		<tr>
 			<td>1991</td>
-			<td>$\$1, 348$</td>
+			<td>$\$1,  348$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 348$</td>
-			<td>$\$14, 924$</td>
+			<td>$\$1,  348$</td>
+			<td>$\$14,  924$</td>
 			<td>$\$350$</td>
-			<td>$\$15, 274$</td>
-			<td>$\$16, 272$</td>
+			<td>$\$15,  274$</td>
+			<td>$\$16,  272$</td>
 			<td>$\$350$</td>
-			<td>$\$16, 622$</td>
+			<td>$\$16,  622$</td>
 		</tr>
 		<tr>
 			<td>1991</td>
-			<td>$\varphi 1, 340$</td>
+			<td>$\varphi 1,  340$</td>
 			<td>$\Phi U$</td>
 			<td>$\varphi|,  y 40$</td>
-			<td>14, 924 DO</td>
+			<td>14,  924 DO</td>
 			<td>3050</td>
-			<td>$\varphi|5, \angle/4$</td>
-			<td>${\mathbf{\varphi}}10, \angle/\angle$</td>
+			<td>$\varphi|5,  \angle/4$</td>
+			<td>${\mathbf{\varphi}}10,  \angle/\angle$</td>
 			<td>500</td>
 			<td>$\varphi|b,  b$</td>
 		</tr>
@@ -2937,48 +2938,48 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$6, 418$</td>
+			<td>$\$6,  418$</td>
 			<td>$\$698$</td>
-			<td>$\$7, 116$</td>
-			<td>$\$6, 418$</td>
+			<td>$\$7,  116$</td>
+			<td>$\$6,  418$</td>
 			<td>$\$698$</td>
-			<td>$\$7, 116$</td>
+			<td>$\$7,  116$</td>
 		</tr>
 		<tr>
 			<td>1992</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$S 0$</td>
-			<td>$\$6, 418$</td>
+			<td>$\$6,  418$</td>
 			<td>$\$698$</td>
-			<td>$\$7, 116$</td>
-			<td>$\$6, 418$</td>
+			<td>$\$7,  116$</td>
+			<td>$\$6,  418$</td>
 			<td>$\$698$</td>
-			<td>$\$7, 116$</td>
+			<td>$\$7,  116$</td>
 		</tr>
 		<tr>
 			<td>1993</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$1, 827$</td>
+			<td>$\$1,  827$</td>
 			<td>$\$424$</td>
-			<td>$\$2, 251$</td>
-			<td>$\$1, 827$</td>
+			<td>$\$2,  251$</td>
+			<td>$\$1,  827$</td>
 			<td>$\$424$</td>
-			<td>$\$2, 251$</td>
+			<td>$\$2,  251$</td>
 		</tr>
 		<tr>
 			<td>1994</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$2, 100$</td>
+			<td>$\$2,  100$</td>
 			<td>$\$299$</td>
-			<td>$\$2, 399$</td>
-			<td>$\$2, 100$</td>
+			<td>$\$2,  399$</td>
+			<td>$\$2,  100$</td>
 			<td>$\$299$</td>
-			<td>$\$2, 399$</td>
+			<td>$\$2,  399$</td>
 		</tr>
 		<tr>
 			<td>IVV 1995</td>
@@ -2997,168 +2998,168 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$4, 788$</td>
+			<td>$\$4,  788$</td>
 			<td>$\$27$</td>
-			<td>$\$4, 816$</td>
-			<td>$\$4, 788$</td>
+			<td>$\$4,  816$</td>
+			<td>$\$4,  788$</td>
 			<td>$\$27$</td>
-			<td>$\$4, 816$</td>
+			<td>$\$4,  816$</td>
 		</tr>
 		<tr>
 			<td>1996</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$4, 053$</td>
-			<td>$\$1, 435$</td>
-			<td>$\$5, 488$</td>
-			<td>$\$4, 053$</td>
-			<td>$\$1, 435$</td>
-			<td>$\$5, 488$</td>
+			<td>$\$4,  053$</td>
+			<td>$\$1,  435$</td>
+			<td>$\$5,  488$</td>
+			<td>$\$4,  053$</td>
+			<td>$\$1,  435$</td>
+			<td>$\$5,  488$</td>
 		</tr>
 		<tr>
 			<td>1997</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$5, 104$</td>
+			<td>$\$5,  104$</td>
 			<td>$\$948$</td>
-			<td>$\$6, 052$</td>
-			<td>$\$5, 104$</td>
+			<td>$\$6,  052$</td>
+			<td>$\$5,  104$</td>
 			<td>$\$948$</td>
-			<td>$\$6, 052$</td>
+			<td>$\$6,  052$</td>
 		</tr>
 		<tr>
 			<td>1998</td>
 			<td>$\$399$</td>
 			<td>$\$0$</td>
 			<td>$\$399$</td>
-			<td>$\$9, 825$</td>
-			<td>$\$2, 817$</td>
-			<td>$\$12, 642$</td>
-			<td>$\$10, 224$</td>
-			<td>$\$2, 817$</td>
-			<td>$\$13, 041$</td>
+			<td>$\$9,  825$</td>
+			<td>$\$2,  817$</td>
+			<td>$\$12,  642$</td>
+			<td>$\$10,  224$</td>
+			<td>$\$2,  817$</td>
+			<td>$\$13,  041$</td>
 		</tr>
 		<tr>
 			<td>1999</td>
 			<td>$\$461$</td>
-			<td>$\$1, 225$</td>
-			<td>$\$1, 686$</td>
-			<td>$\$26, 222$</td>
-			<td>$\$13, 044$</td>
-			<td>$\$39, 266$</td>
-			<td>$\$26, 683$</td>
-			<td>$\$14, 269$</td>
-			<td>$\$40, 952$</td>
+			<td>$\$1,  225$</td>
+			<td>$\$1,  686$</td>
+			<td>$\$26,  222$</td>
+			<td>$\$13,  044$</td>
+			<td>$\$39,  266$</td>
+			<td>$\$26,  683$</td>
+			<td>$\$14,  269$</td>
+			<td>$\$40,  952$</td>
 		</tr>
 		<tr>
 			<td>2000</td>
-			<td>$\$4, 115$</td>
-			<td>$\$3, 950$</td>
-			<td>$\$8, 065$</td>
-			<td>$\$25, 296$</td>
-			<td>$\$21, 567$</td>
-			<td>$\$46, 863$</td>
-			<td>$\$29, 411$</td>
-			<td>$\$25, 517$</td>
-			<td>$\$54, 928$</td>
+			<td>$\$4,  115$</td>
+			<td>$\$3,  950$</td>
+			<td>$\$8,  065$</td>
+			<td>$\$25,  296$</td>
+			<td>$\$21,  567$</td>
+			<td>$\$46,  863$</td>
+			<td>$\$29,  411$</td>
+			<td>$\$25,  517$</td>
+			<td>$\$54,  928$</td>
 		</tr>
 		<tr>
 			<td>2001</td>
-			<td>$\$22, 351$</td>
-			<td>$\$5, 363$</td>
-			<td>$\$27, 714$</td>
-			<td>$\$75, 981$</td>
-			<td>$\$33, 850$</td>
-			<td>$\$109, 830$</td>
-			<td>$\$98, 331$</td>
-			<td>$\$39, 213$</td>
-			<td>$\$137, 544$</td>
+			<td>$\$22,  351$</td>
+			<td>$\$5,  363$</td>
+			<td>$\$27,  714$</td>
+			<td>$\$75,  981$</td>
+			<td>$\$33,  850$</td>
+			<td>$\$109,  830$</td>
+			<td>$\$98,  331$</td>
+			<td>$\$39,  213$</td>
+			<td>$\$137,  544$</td>
 		</tr>
 		<tr>
 			<td>2002</td>
-			<td>$\$55, 565$</td>
-			<td>$\$13, 122$</td>
-			<td>$\$68, 687$</td>
-			<td>3106, 831</td>
-			<td>$\$35, 728$</td>
-			<td>$\$142, 559$</td>
-			<td>$\$162, 396$</td>
-			<td>$\$48, 850$</td>
-			<td>$\$211, 246$</td>
+			<td>$\$55,  565$</td>
+			<td>$\$13,  122$</td>
+			<td>$\$68,  687$</td>
+			<td>3106,  831</td>
+			<td>$\$35,  728$</td>
+			<td>$\$142,  559$</td>
+			<td>$\$162,  396$</td>
+			<td>$\$48,  850$</td>
+			<td>$\$211,  246$</td>
 		</tr>
 		<tr>
 			<td>2003</td>
 			<td>$\$0$</td>
 			<td>$\$870$</td>
 			<td>$\$870$</td>
-			<td>$\$35, 024$</td>
-			<td>$\$9, 428$</td>
-			<td>$\$44, 451$</td>
-			<td>$\$35, 024$</td>
-			<td>$\$10, 297$</td>
-			<td>$\$45, 321$</td>
+			<td>$\$35,  024$</td>
+			<td>$\$9,  428$</td>
+			<td>$\$44,  451$</td>
+			<td>$\$35,  024$</td>
+			<td>$\$10,  297$</td>
+			<td>$\$45,  321$</td>
 		</tr>
 		<tr>
 			<td>2004</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$11, 810$</td>
-			<td>$\$3, 932$</td>
-			<td>$\$15, 742$</td>
-			<td>$\$11, 810$</td>
-			<td>$\$3, 932$</td>
-			<td>$\$15, 742$</td>
+			<td>$\$11,  810$</td>
+			<td>$\$3,  932$</td>
+			<td>$\$15,  742$</td>
+			<td>$\$11,  810$</td>
+			<td>$\$3,  932$</td>
+			<td>$\$15,  742$</td>
 		</tr>
 		<tr>
 			<td>2005</td>
-			<td>$\$2, 155$</td>
-			<td>$\$2, 825$</td>
-			<td>$\$4, 980$</td>
-			<td>$\$26, 598$</td>
-			<td>$\$8, 745$</td>
-			<td>$\$35, 343$</td>
-			<td>$\$28, 753$</td>
-			<td>$\$11, 570$</td>
-			<td>$\$40, 323$</td>
+			<td>$\$2,  155$</td>
+			<td>$\$2,  825$</td>
+			<td>$\$4,  980$</td>
+			<td>$\$26,  598$</td>
+			<td>$\$8,  745$</td>
+			<td>$\$35,  343$</td>
+			<td>$\$28,  753$</td>
+			<td>$\$11,  570$</td>
+			<td>$\$40,  323$</td>
 		</tr>
 		<tr>
 			<td>2006</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$SO$</td>
-			<td>$\$7, 758$</td>
-			<td>$\$2, 630$</td>
-			<td>$\$10, 388$</td>
-			<td>$\$7, 758$</td>
-			<td>$\$2, 630$</td>
-			<td>$\$10, 388$</td>
+			<td>$\$7,  758$</td>
+			<td>$\$2,  630$</td>
+			<td>$\$10,  388$</td>
+			<td>$\$7,  758$</td>
+			<td>$\$2,  630$</td>
+			<td>$\$10,  388$</td>
 		</tr>
 		<tr>
 			<td>2007</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$s 0$</td>
-			<td>$\$4, 755$</td>
-			<td>$\$1, 983$</td>
-			<td>$\$6, 738$</td>
-			<td>$\$4, 755$</td>
-			<td>$\$1, 983$</td>
-			<td>$\$6, 738$</td>
+			<td>$\$4,  755$</td>
+			<td>$\$1,  983$</td>
+			<td>$\$6,  738$</td>
+			<td>$\$4,  755$</td>
+			<td>$\$1,  983$</td>
+			<td>$\$6,  738$</td>
 		</tr>
 		<tr>
 			<td>2008</td>
-			<td>$\$182, 820$</td>
-			<td>$\$10, 335$</td>
-			<td>$\$193, 155$</td>
-			<td>$\$55, 814$</td>
-			<td>$\$32, 223$</td>
-			<td>$\$88, 037$</td>
-			<td>$\$238, 634$</td>
-			<td>$\$42, 557$</td>
-			<td>$\$281, 191$</td>
+			<td>$\$182,  820$</td>
+			<td>$\$10,  335$</td>
+			<td>$\$193,  155$</td>
+			<td>$\$55,  814$</td>
+			<td>$\$32,  223$</td>
+			<td>$\$88,  037$</td>
+			<td>$\$238,  634$</td>
+			<td>$\$42,  557$</td>
+			<td>$\$281,  191$</td>
 		</tr>
 	</tbody>
 </table>
@@ -3202,7 +3203,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$3, 904$</td>
+			<td>$\$3,  904$</td>
 		</tr>
 		<tr>
 			<td>1987</td>
@@ -3215,7 +3216,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$9, 645$</td>
+			<td>$\$9,  645$</td>
 		</tr>
 		<tr>
 			<td>1988</td>
@@ -3228,7 +3229,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$5, 555$</td>
+			<td>$\$5,  555$</td>
 		</tr>
 		<tr>
 			<td>1989</td>
@@ -3238,10 +3239,10 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>0</td>
 			<td>48</td>
 			<td>$s 0$</td>
-			<td>$\$1, 144$</td>
+			<td>$\$1,  144$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$10, 558$</td>
+			<td>$\$10,  558$</td>
 		</tr>
 		<tr>
 			<td>1990</td>
@@ -3254,7 +3255,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$200$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>S 20, 961</td>
+			<td>S 20,  961</td>
 		</tr>
 		<tr>
 			<td>1991</td>
@@ -3267,7 +3268,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$999$</td>
 			<td>$\$0$</td>
-			<td>$\$15, 623$</td>
+			<td>$\$15,  623$</td>
 		</tr>
 		<tr>
 			<td>1992</td>
@@ -3280,7 +3281,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$7, 116$</td>
+			<td>$\$7,  116$</td>
 		</tr>
 		<tr>
 			<td>1993</td>
@@ -3293,7 +3294,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$2, 251$</td>
+			<td>$\$2,  251$</td>
 		</tr>
 		<tr>
 			<td>1994</td>
@@ -3306,7 +3307,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$0$</td>
 			<td>$\$774$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 625$</td>
+			<td>$\$1,  625$</td>
 		</tr>
 		<tr>
 			<td>1995</td>
@@ -3319,7 +3320,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$4, 816$</td>
+			<td>$\$4,  816$</td>
 		</tr>
 		<tr>
 			<td>1996</td>
@@ -3332,7 +3333,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$0$</td>
 			<td>$\$0$</td>
 			<td>$\$218$</td>
-			<td>$\$5, 270$</td>
+			<td>$\$5,  270$</td>
 		</tr>
 		<tr>
 			<td>1997</td>
@@ -3345,7 +3346,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$\$614$</td>
 			<td>$\$0$</td>
 			<td>$\$310$</td>
-			<td>$\$5, 129$</td>
+			<td>$\$5,  129$</td>
 		</tr>
 		<tr>
 			<td>1998</td>
@@ -3355,10 +3356,10 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>0</td>
 			<td>45</td>
 			<td>$SO$</td>
-			<td>$\$1, 444$</td>
+			<td>$\$1,  444$</td>
 			<td>$\$0$</td>
 			<td>$\$0$</td>
-			<td>$\$11, 597$</td>
+			<td>$\$11,  597$</td>
 		</tr>
 		<tr>
 			<td>1999</td>
@@ -3368,10 +3369,10 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>6</td>
 			<td>78</td>
 			<td>$s 0$</td>
-			<td>$\$3, 445$</td>
-			<td>$\$4, 012$</td>
-			<td>$\$1, 608$</td>
-			<td>$\$31, 887$</td>
+			<td>$\$3,  445$</td>
+			<td>$\$4,  012$</td>
+			<td>$\$1,  608$</td>
+			<td>$\$31,  887$</td>
 		</tr>
 		<tr>
 			<td>2000</td>
@@ -3381,10 +3382,10 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>2</td>
 			<td>116</td>
 			<td>$SO$</td>
-			<td>$\$1, 048$</td>
+			<td>$\$1,  048$</td>
 			<td>$\$713$</td>
 			<td>$\$238$</td>
-			<td>$\$52, 929$</td>
+			<td>$\$52,  929$</td>
 		</tr>
 		<tr>
 			<td>2001</td>
@@ -3393,11 +3394,11 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>16</td>
 			<td>7</td>
 			<td>146</td>
-			<td>$\$2, 758$</td>
-			<td>$\$7, 832$</td>
-			<td>$\$10, 635$</td>
-			<td>$\$2, 034$</td>
-			<td>$\$114, 284$</td>
+			<td>$\$2,  758$</td>
+			<td>$\$7,  832$</td>
+			<td>$\$10,  635$</td>
+			<td>$\$2,  034$</td>
+			<td>$\$114,  284$</td>
 		</tr>
 		<tr>
 			<td>2002</td>
@@ -3407,10 +3408,10 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>15</td>
 			<td>999</td>
 			<td>$SO$</td>
-			<td>$\$1, 112$</td>
-			<td>$\$48, 007$</td>
-			<td>$\$9, 196$</td>
-			<td>$\$152, 930$</td>
+			<td>$\$1,  112$</td>
+			<td>$\$48,  007$</td>
+			<td>$\$9,  196$</td>
+			<td>$\$152,  930$</td>
 		</tr>
 		<tr>
 			<td>2003</td>
@@ -3421,9 +3422,9 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>62</td>
 			<td>$s 0$</td>
 			<td>$\$374$</td>
-			<td>$\$3, 623$</td>
-			<td>$\$3, 038$</td>
-			<td>$\$38, 286$</td>
+			<td>$\$3,  623$</td>
+			<td>$\$3,  038$</td>
+			<td>$\$38,  286$</td>
 		</tr>
 		<tr>
 			<td>2004</td>
@@ -3434,9 +3435,9 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>34</td>
 			<td>$\$183$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 873$</td>
+			<td>$\$1,  873$</td>
 			<td>$\$100$</td>
-			<td>$\$13, 587$</td>
+			<td>$\$13,  587$</td>
 		</tr>
 		<tr>
 			<td>2005</td>
@@ -3449,7 +3450,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$207$</td>
 			<td>$\$100$</td>
-			<td>$\$40, 015$</td>
+			<td>$\$40,  015$</td>
 		</tr>
 		<tr>
 			<td>2006</td>
@@ -3460,9 +3461,9 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>22</td>
 			<td>$SO$</td>
 			<td>$\$0$</td>
-			<td>$\$1, 601$</td>
+			<td>$\$1,  601$</td>
 			<td>$\$167$</td>
-			<td>$\$8, 620$</td>
+			<td>$\$8,  620$</td>
 		</tr>
 		<tr>
 			<td>2007</td>
@@ -3475,7 +3476,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>$s 0$</td>
 			<td>$\$771$</td>
 			<td>$\$0$</td>
-			<td>$\$5, 967$</td>
+			<td>$\$5,  967$</td>
 		</tr>
 		<tr>
 			<td>2008</td>
@@ -3486,9 +3487,9 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 			<td>84</td>
 			<td>$s 0$</td>
 			<td>$\$270$</td>
-			<td>$\$53, 374$</td>
-			<td>$\$1, 311$</td>
-			<td>$\$226, 236$</td>
+			<td>$\$53,  374$</td>
+			<td>$\$1,  311$</td>
+			<td>$\$226,  236$</td>
 		</tr>
 	</tbody>
 </table>
@@ -3774,7 +3775,7 @@ Exhibit 25
 			<td> </td>
 		</tr>
 		<tr>
-			<td>Gainev , f Carnoration</td>
+			<td>Gainev ,  f Carnoration</td>
 			<td>Pavment default</td>
 			<td>51.65%</td>
 			<td> </td>
@@ -3884,7 +3885,7 @@ Exhibit 25
 			<td> </td>
 		</tr>
 		<tr>
-			<td>LUUIS $\mathbf{v}|\mathbf{C}\mathbf{e}\mathbf{S}, \mathbf{T}|\mathbf{C}.$</td>
+			<td>LUUIS $\mathbf{v}|\mathbf{C}\mathbf{e}\mathbf{S},  \mathbf{T}|\mathbf{C}.$</td>
 			<td>BITE OEIAUIL 1</td>
 			<td>$0\angle. 6 U 70$</td>
 			<td>bl. 1076</td>
@@ -4339,7 +4340,7 @@ Corporate Default and Recovery Rates,  1920-2008
 			<td> </td>
 		</tr>
 		<tr>
-			<td>$\mathsf{PRC}, \mathsf{LLC}$ Primus Talo 4 i 16 mr</td>
+			<td>$\mathsf{PRC},  \mathsf{LLC}$ Primus Talo 4 i 16 mr</td>
 			<td>Bankruptcy</td>
 			<td>$61.88\%$</td>
 			<td>$25.00\%$</td>
@@ -4471,7 +4472,7 @@ Corporate Default and Recovery Rates,  1920-2008
 			<td> </td>
 		</tr>
 		<tr>
-			<td>Semcrude, L.P</td>
+			<td>Semcrude,  L.P</td>
 			<td>Bankruprcy</td>
 			<td>82.40%</td>
 			<td> </td>
