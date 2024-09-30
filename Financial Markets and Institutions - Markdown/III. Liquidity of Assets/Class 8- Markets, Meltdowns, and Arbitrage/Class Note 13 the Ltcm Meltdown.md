@@ -18,7 +18,7 @@ All of this we can easily understand in the Diamond-Dybvigbank run model.It show
 
 The goal of this class note is to understand the risks in taking positions that are very similar to riskless arbitrage opportunities.I want to both simplify and extend the ideas in the Shleifer-Vishny paper in the packet,  "The Limits to Arbitrage." Read the words in that paper.You can use the math in this note if you do not want to invest in the math in their model
 
-Begin with a traditional arbitrage opportunity.Suppose that shares of ExxonMobil on the NYSE sold for $\$90$ per share,  and thoseon the Chicagostock exchange sold for $\$80$ per share.If you can simultaneously buy 1 millon in Chicago shares and sell short 1 million on the NYSE,   you make a sure profit by immediately covering the short with the shares you buy in Chicago.If the cost were less than $\$10$ per share,  anyone who saw this would make the trade.It takes little skill to see that all ExxonMobil shares are the same security,  so we expect that the price will not be much different on the two exchanges.
+Begin with a traditional arbitrage opportunity.Suppose that shares of ExxonMobil on the NYSE sold for $\$90$ per share,   and thoseon the Chicagostock exchange sold for $\$80$ per share.If you can simultaneously buy 1 millon in Chicago shares and sell short 1 million on the NYSE,    you make a sure profit by immediately covering the short with the shares you buy in Chicago.If the cost were less than $\$10$ per share,  anyone who saw this would make the trade.It takes little skill to see that all ExxonMobil shares are the same security,  so we expect that the price will not be much different on the two exchanges.
 
 Suppose that instead,  there were two "effectively similar" trades. For example,  suppose that a share of a holding company would distribute one share of ExxonMobil plus one of ChevronTexaco in exactly two years,  and that the holding company was selling forless than the price of one share of ExxonMobil plus one of ChevronTexaco You can't just short one share of ExxonMobil and one of ChevronTexaco and buy one share of the holding company to immediately cover the short.There are two problems: the items are not legally identical,  and it may be that some others do not see that the holding company will eventually be exactly identical to the two shares of oil stock. Because they are not legally identical,  you must carry the position for two years to cover the short. Further,  if not everyone sees that positions are identical; the prices will not
 
@@ -52,11 +52,11 @@ in general
 
 If instead the nonPBA investor waits until date 2 to invest (and just holds treasury bills yielding $0\%$ for the period),  then the price will be 70 or 100(with prob q and 1-q respectively). When the price drops to 70,  the non PBA investor will buy $D_{1}$ units,  and when the price is 100,  the investor will continue to hold treasury bills. The expected date 3 value of waiting until date 2 to take a position is.
 
-$$[\mathrm{q}(100/70)+(1\mathrm{-q})1]\mathrm{D}_{1}\quad\mathrm{or},  \mathrm{q}(\mathrm{V}\mathrm{p}_{2})+(1\mathrm{-q})]\mathrm{D}_{1}$$
+$$[\mathrm{q}(100/70)+(1\mathrm{-q})1]\mathrm{D}_{1}\quad\mathrm{or},   \mathrm{q}(\mathrm{V}\mathrm{p}_{2})+(1\mathrm{-q})]\mathrm{D}_{1}$$
 
 The non PBA investor will go ahead and invest at date 1 when it gives a larger expected value of assets,  or:
 
-$$100/80\:\geq q(100/70)+(1-q),  \:\mathrm{or}$$
+$$100/80\:\geq q(100/70)+(1-q),   \:\mathrm{or}$$
 
 $$\mathrm{q}<7/12=0.58\\\mathrm{or~in~general:}\:q\leq\frac{p_{2}(V-p_{1})}{p_{1}(V-p_{2})}\:.$$
 
@@ -134,27 +134,27 @@ $$\begin{aligned}
 &=\:0.25(3/7)+1=1.0525\:\mathrm{(for~q=0.25)}
 \end{aligned}$$
 
-The two-period return of the long-term fund (assuming that it raises no new capital at date 2,   so it can't scale up its bet if the price goes down at date 2).
+The two-period return of the long-term fund (assuming that it raises no new capital at date 2,    so it can't scale up its bet if the price goes down at date 2).
 
 The ability to lock in the funds for the long term allows the fund to take different bets in markets with less competition. This is part of the story behind the establishment of LTCM.Their reputation was so strong that they could get moneylocked in.
 
-The problem arose when they lost so much money that they faced margin calls. For a large enough loss,  evenLTCM had the equivalent of PBA,  leading to forced sales at the bottom. LTCM had locked in investor's old money. But once they had lost enough to face margin calls,   their ability to raise new capital to meet the calls without liquidating their positions was limited.Not only was there standard PBA uncertainty about LTCM's ability to continue to make excess returns at low risk,   but there was a bank run style collective action problem. Unless LTCM could attract enough capital to meet all near term margin calls,  it would be forced to get out at the bottom.Anticipating this,  they would be unable to raise smaller amounts of capital. Since the market thought it was likely that they would soon liquidate and push down the price,   the current price of their positions moved against them due to front running.
+The problem arose when they lost so much money that they faced margin calls. For a large enough loss,   evenLTCM had the equivalent of PBA,   leading to forced sales at the bottom. LTCM had locked in investor's old money. But once they had lost enough to face margin calls,    their ability to raise new capital to meet the calls without liquidating their positions was limited.Not only was there standard PBA uncertainty about LTCM's ability to continue to make excess returns at low risk,    but there was a bank run style collective action problem. Unless LTCM could attract enough capital to meet all near term margin calls,   it would be forced to get out at the bottom.Anticipating this,   they would be unable to raise smaller amounts of capital. Since the market thought it was likely that they would soon liquidate and push down the price,    the current price of their positions moved against them due to front running.
 
-Let us modify the notion that LTCM will not lose funds under management,   to assume instead that theywill lose them only if their loss isvery large(defined below).If LTCM assumed that their losses would not be“very large",  this would not affect the position that they take. And if they (and others like them) did get such a loss,   it would push down the price as they were forced to liquidate.
+Let us modify the notion that LTCM will not lose funds under management,    to assume instead that theywill lose them only if their loss isvery large(defined below).If LTCM assumed that their losses would not be“very large",   this would not affect the position that they take. And if they (and others like them) did get such a loss,    it would push down the price as they were forced to liquidate.
 
-A large unanticipated price drop would result in a meltdown (forced liquidation) A meltdown causes an even larger price drop when the arbs (LTCM in particular) liquidate. Normally,   the trades of arbs are a stabilizing force,   offsetting the trades of noise traders who would push the price further below100.When there is a meltdown,   this reverses.Instead of being a stabilizing force,  the arbs further destabilize the price by joining the selling
+A large unanticipated price drop would result in a meltdown (forced liquidation) A meltdown causes an even larger price drop when the arbs (LTCM in particular) liquidate. Normally,    the trades of arbs are a stabilizing force,    offsetting the trades of noise traders who would push the price further below100.When there is a meltdown,    this reverses.Instead of being a stabilizing force,   the arbs further destabilize the price by joining the selling
 
-To evaluate this further,  we need to think about price formation.This gets a bit complicated,   and we will just follow Shelifer-Vishny.
+To evaluate this further,   we need to think about price formation.This gets a bit complicated,    and we will just follow Shelifer-Vishny.
 
-The prices we used in table 1 are those that prevail AFTER the arbs have put on their trades.If there were no trades coming in during a period,  theprice would remain unchanged.If there were only noise trading,  the price goes down when noise traders sell and up when they buy. If there is also some trade by arbs,   the price changes by the net amount of trade.Thatis:
+The prices we used in table 1 are those that prevail AFTER the arbs have put on their trades.If there were no trades coming in during a period,   theprice would remain unchanged.If there were only noise trading,   the price goes down when noise traders sell and up when they buy. If there is also some trade by arbs,    the price changes by the net amount of trade.Thatis:
 
 $$P_t=\left\{\begin{matrix}P_{t-1}+\text{Noise trade }+\text{arb trades}\quad\text{(happens with prob q)}\\P_{t-1}+\text{News trades}\quad\text{(happens with prob 1-q)}\end{matrix}\right\}$$
 
-We could allow for arb trades in addition to news trades,   but in normal circumstances,  news trades from many investors who see the mis-pricing will be sufficient to remove arbitrage opportunities.
+We could allow for arb trades in addition to news trades,    but in normal circumstances,   news trades from many investors who see the mis-pricing will be sufficient to remove arbitrage opportunities.
 
-Let us assume that LTCM already had established a position in the trade before date 1 (because of past mis-pricing),   and was long 20 units. Thus if LTCM was not long 20 units,   the price would be lower by 20. Arbs who are subject to PBA would not trade before date 2. (In practice,   other arbs sometimes copied LTCM,   so there might be some others who each took smaller positions in the same bets as LTCM.We will ignore this.) The prices in back in table 1include the efforts of various arbs.If they were not present. the date 1 and 2 prices would be lower,   in part because of liquidity differences,  in part because of "noise trader" selling.
+Let us assume that LTCM already had established a position in the trade before date 1 (because of past mis-pricing),    and was long 20 units. Thus if LTCM was not long 20 units,    the price would be lower by 20. Arbs who are subject to PBA would not trade before date 2. (In practice,    other arbs sometimes copied LTCM,    so there might be some others who each took smaller positions in the same bets as LTCM.We will ignore this.) The prices in back in table 1include the efforts of various arbs.If they were not present. the date 1 and 2 prices would be lower,    in part because of liquidity differences,   in part because of "noise trader" selling.
 
-Table 2 shows the impact of the arbs.Before date 1,  LTCM had a position of 20. On date 1,   the price is 80. The price would have dropped on that date,   but LTCM bought 5 more,  offsetting selling of 5 by noise traders on date 1. There is further noise trade on date 2 with probabiliy q.If the noise trade occurs at date 2 it is noise trader selling of 25. This is partly offset by added buying of 5 more units by LTCM,   and buying of 10 units
+Table 2 shows the impact of the arbs.Before date 1,   LTCM had a position of 20. On date 1,    the price is 80. The price would have dropped on that date,    but LTCM bought 5 more,   offsetting selling of 5 by noise traders on date 1. There is further noise trade on date 2 with probabiliy q.If the noise trade occurs at date 2 it is noise trader selling of 25. This is partly offset by added buying of 5 more units by LTCM,    and buying of 10 units
 
  
 by PBA arbs who see the opportunity (and are willing to bet now that it is short-term arbitrage).
@@ -172,7 +172,7 @@ Table 2: Trades by arbs and noise traders that produce prices in table 1.
 			<th colspan="2">If News trade at date 2</th>
 		</tr>
 		<tr>
-			<th>|Noise trade |occurs at l,   |and with |prob. q At 2</th>
+			<th>|Noise trade |occurs at l,    |and with |prob. q At 2</th>
 			<th>Ltcm Trade</th>
 			<th>Ltcm Position</th>
 			<th>Other Arb Trade</th>
@@ -237,9 +237,9 @@ Table 2: Trades by arbs and noise traders that produce prices in table 1.
 	</tbody>
 </table>
 
-Supposeinstead that thingsplay out differently on and after date 1.TheRussian default causes panic selling at date 1 by noise traders,  when LTCM already has a position of 20.The noise trade at 1 is now -30 .If this loss is large enough to force LTCM out immediately at date 1,  forcing them to sell 20 at date 1,  look at the meltdown in table 3:
+Supposeinstead that thingsplay out differently on and after date 1.TheRussian default causes panic selling at date 1 by noise traders,   when LTCM already has a position of 20.The noise trade at 1 is now -30 .If this loss is large enough to force LTCM out immediately at date 1,   forcing them to sell 20 at date 1,   look at the meltdown in table 3:
 
-Table 3: A meltdown after the Russian default,   if LTCM must liquidate immediately
+Table 3: A meltdown after the Russian default,    if LTCM must liquidate immediately
 
 <table>
 	<tbody>
@@ -251,7 +251,7 @@ Table 3: A meltdown after the Russian default,   if LTCM must liquidate immediat
 			<th colspan="2">If News trade at date 2</th>
 		</tr>
 		<tr>
-			<th>Noise trade |occurs at l,   with and prob at date $\div2$ 4 1</th>
+			<th>Noise trade |occurs at l,    with and prob at date $\div2$ 4 1</th>
 			<th>|LTCM trade</th>
 			<th>$\mathrm{LTCM}$ |position</th>
 			<th>Other arb trade</th>
@@ -316,14 +316,14 @@ Table 3: A meltdown after the Russian default,   if LTCM must liquidate immediat
 	</tbody>
 </table>
 
-The panic from the Russian crisis would make the price fall by 30 (from 80 to 50 on date 1)by itself.By forcing the LTCM to liquidate,  it makes the price fall by 50(80 to 30). The losses force aliquidation,  in awayvery similar to a bankrun.
+The panic from the Russian crisis would make the price fall by 30 (from 80 to 50 on date 1)by itself.By forcing the LTCM to liquidate,   it makes the price fall by 50(80 to 30). The losses force aliquidation,   in awayvery similar to a bankrun.
 
-In practice,  LTCM was careful to get some advanced assurance from margin lenders not to force immediate margin calls.As a result,  they had some time to meet the calls.We can interpret this as meaning that they are not forced out at date 1,  but can wait until date 2 to sell.If the news trade were to arrive on date 2 (which happens with
+In practice,   LTCM was careful to get some advanced assurance from margin lenders not to force immediate margin calls.As a result,   they had some time to meet the calls.We can interpret this as meaning that they are not forced out at date 1,   but can wait until date 2 to sell.If the news trade were to arrive on date 2 (which happens with
 
  
-probability 1-q),   they could avoid liquidating their position. However,   with probabilty q,   the noise trade of -25 comes in at date 2,   and LTCM would be forced to sell on date 2.
+probability 1-q),    they could avoid liquidating their position. However,    with probabilty q,    the noise trade of -25 comes in at date 2,    and LTCM would be forced to sell on date 2.
 
-Suppose that LTCM could delayliquidation until date 2,  and it could still buy5 at date 1 to seek a profit.Then the prices after the Russian default would be those shown in table 4.
+Suppose that LTCM could delayliquidation until date 2,   and it could still buy5 at date 1 to seek a profit.Then the prices after the Russian default would be those shown in table 4.
 
 Table 4:A delayed meltdown if LTCM canwait toliquidate:
 
@@ -337,7 +337,7 @@ Table 4:A delayed meltdown if LTCM canwait toliquidate:
 			<th colspan="2">If News trade at t=2</th>
 		</tr>
 		<tr>
-			<th>Noise Trade Occurs At 1,   And With $\operatorname{Prob}\operatorname{q}\operatorname{At}2$</th>
+			<th>Noise Trade Occurs At 1,    And With $\operatorname{Prob}\operatorname{q}\operatorname{At}2$</th>
 			<th>LTCM Trade</th>
 			<th>LTCM Position</th>
 			<th>Other Arb Trade</th>
@@ -402,10 +402,10 @@ Table 4:A delayed meltdown if LTCM canwait toliquidate:
 	</tbody>
 </table>
 
-Let us compute the expected price change from date 1 to 2.With probability q,  there is a noise trade that forces it down to 15,   because LTCM is forced out. With probability 1-q,   there is a news trade,   that pushes the price up to 75 (and then LTCM is not forced out). The expected price change is then:
+Let us compute the expected price change from date 1 to 2.With probability q,   there is a noise trade that forces it down to 15,    because LTCM is forced out. With probability 1-q,    there is a news trade,    that pushes the price up to 75 (and then LTCM is not forced out). The expected price change is then:
 
 $$\begin{matrix}\mathrm{q(15-55)+(1-q)(75-55)=}&20-\mathrm{q(60)}\end{matrix}$$
 
-For $q=$ ，this is +5 ,  but for $q=0.5$ ,   it is -10 .Let's assume $q=0.5$ ,   and we will learn something about thefront runningproblem faced by LTCM.
+For $q=$ ，this is +5 ,   but for $q=0.5$ ,    it is -10 .Let's assume $q=0.5$ ,    and we will learn something about thefront runningproblem faced by LTCM.
 
-When the expected price change from date1 to 2is negative,  any traderwho knows that he or she must sell on date 2 will instead sell on date 1.Further,   if not subject to PBA,  it will be profitable to short on date 1 so long as the expected price change is negative.If some of this trade occurs,  it will further reduce the date 1 price.We will examine this in homework 5.
+When the expected price change from date1 to 2is negative,   any traderwho knows that he or she must sell on date 2 will instead sell on date 1.Further,    if not subject to PBA,   it will be profitable to short on date 1 so long as the expected price change is negative.If some of this trade occurs,   it will further reduce the date 1 price.We will examine this in homework 5.
