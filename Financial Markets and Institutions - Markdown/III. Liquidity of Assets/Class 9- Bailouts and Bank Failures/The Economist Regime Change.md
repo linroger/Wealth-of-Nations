@@ -29,7 +29,7 @@ Governments are spending freely to help households with soaring energy bills,  e
 
 ## A long list
 
-The pressure on governments to spend will not abate much. Ageing populations push up outlays on health care and pensions. Governments want to decarbonise their economies,  which will take significant public front-loaded investment. After Russia’s war on Ukraine,  nato members are reiterating previously unmet promises to meet their target of spending 2% of gdp on defence. In isolation,  many of these pressures may be manageable. In combination,  they will place budgets under huge pressure.
+The pressure on governments to spend will not abate much. Ageing populations push up outlays on health care and pensions. Governments want to decarbonise their economies,  which will take significant public front-loaded investment. After Russia’s war on Ukraine,   nato members are reiterating previously unmet promises to meet their target of spending 2% of gdp on defence. In isolation,  many of these pressures may be manageable. In combination,  they will place budgets under huge pressure.
 
 In theory,  big-spending governments plus rising interest rates are a recipe for persistently high inflation and/or a bond-market rout. Investors have given Britain a stark reminder of this danger,  reacting to Ms Truss’s largesse by selling British assets,  especially government bonds. Yet for countries with more stable economic polices,  long-term borrowing remains cheap by historical standards,  especially once the possibility of higher inflation is taken into account. One consequence of ageing populations is a global glut of savings chasing scarce investment opportunities. There remains plenty of appetite for government debt. 
 
