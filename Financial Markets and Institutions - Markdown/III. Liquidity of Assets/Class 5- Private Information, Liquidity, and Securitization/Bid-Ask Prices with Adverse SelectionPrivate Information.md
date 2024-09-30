@@ -1,3 +1,7 @@
+---
+aliases:
+  - Bid-Ask Prices with Adverse Selection/Private Information
+---
 # Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information
 
 ## I. Introduction to Liquidity
@@ -13,8 +17,8 @@
 ### A. Information Structure
 1. **Private Information**:
    - Informed traders know exactly what the firm will be worth on a fixed future date.
-   - Let \( V \) be the unknown value; everyone knows \( V \) will be either 0 or 1, and informed traders know which value will occur.
-   - Uninformed liquidity traders believe the probability that \( V = 1 \) is \( \frac{1}{2} \).
+   - Let $V$ be the unknown value; everyone knows $V$ will be either 0 or 1, and informed traders know which value will occur.
+   - Uninformed liquidity traders believe the probability that $V = 1$ is $\frac{1}{2}$.
 
    $$ 
    \begin{array}{c|c}
@@ -34,7 +38,7 @@
    - Buy when the stock is underpriced at the ask, sell when overpriced at the bid, and do nothing if the value is between the bid and ask.
 2. **Liquidity Traders**:
    - Buy when they have excess liquidity and sell when they need liquidity.
-   - Half of all liquidity traders buy and the other half sell, with each liquidity trader buying with probability \( \frac{1}{2} \).
+   - Half of all liquidity traders buy and the other half sell, with each liquidity trader buying with probability $\frac{1}{2}$.
 
 3. **Market Maker Behavior**:
    - Market makers earn zero monopoly profits and break even on average across trades.
@@ -56,14 +60,14 @@
 
 ## IV. One Period Example
 1. **Absence of Trades**:
-   - The stock price would be \( \frac{1}{2} \) due to the \( 50-50 \) chance of being worth \( 1 \) or \( 0 \).
+   - The stock price would be $\frac{1}{2}$ due to the $50-50$ chance of being worth $1$ or $0$.
   
 2. **Trading Orders**:
-   - When an order comes in, the probability it is informed is \( \frac{1}{2} \).
+   - When an order comes in, the probability it is informed is $\frac{1}{2}$.
 
 ### A. Determining the Ask Price
 1. If a buy order comes in from an informed trader:
-   - The private information indicates the stock is worth \( 1 \).
+   - The private information indicates the stock is worth $1$.
    - The market maker's profit:
      $$
      \text{Profit} = \text{ask} - 1
@@ -86,7 +90,7 @@
 
 ### B. Determining the Bid Price
 1. If a sell order comes from an informed trader:
-   - The private information indicates the stock is worth \( 0 \).
+   - The private information indicates the stock is worth $0$.
    - The market maker's profit:
      $$
      \text{Profit} = 0 - \text{bid}
@@ -117,21 +121,54 @@
    - Market efficiency allows trading profits with private information, although it can be hard to determine if one possesses truly private information.
 
 ## VI. Graphical Representation
-\[
-\begin{tikzpicture}
-    \draw[->] (0,0) -- (3,0) node[right] {Probability};
-    \draw[->] (0,0) -- (0,3) node[above] {Value};
-    \draw[dashed] (1.5,0) -- (1.5,3);
-    \draw[dashed] (0,1.5) -- (3,1.5);
-    \node at (1.5,-0.2) {Initial Ask = ¾};
-    \node at (1.5,1.8) {Initial Bid = ¼};
-    \fill[gray!20] (0,0) rectangle (1.5,1.5);
-    \node at (0.75,0.75) {V=0};
-    \fill[gray!30] (1.5,0) rectangle (3,1.5);
-    \node at (2.25,0.75) {V=1};
-\end{tikzpicture}
-\]
 
+
+```latex
+\begin{document}
+\begin{tikzpicture}[node distance=2cm]
+    \node (start) at (0,0) {};
+    \node[above=of start] (p1) {$\frac{1}{2}$};
+    \node[above right=of start] (ask) {Initial Ask=$\frac{3}{4}$};
+    \node[above right=of ask] (p2) {$\frac{9}{10}$};
+    \node[below=of start] (p3) {$\frac{1}{2}$};
+    \node[below right=of start] (bid) {Initial Bid=$\frac{1}{4}$};
+    \node[below right=of bid] (p4) {$\frac{1}{10}$};
+    \draw[->] (p1) -- (ask);
+    \draw[->] (ask) -- (p2);
+    \draw[->] (p3) -- (bid);
+    \draw[->] (bid) -- (p4);
+    \draw[->] (start) -- (p1);
+    \draw[->] (start) -- (p3);
+\end{tikzpicture}
+\end{document}
+```
+
+```latex
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning}
+\begin{document}
+\begin{tikzpicture}[node distance=1.5cm, >=Stealth]
+    % Define nodes
+    \node (start) at (0,0) {};
+    \node[above=of start] (p1) {$\frac{1}{2}$};
+    \node[right=of start] (ask) {Initial Ask=$\frac{3}{4}$};
+    \node[right=of ask] (p2) {$\frac{9}{10}$};
+    \node[below=of start] (p3) {$\frac{1}{2}$};
+    \node[right=of start] (bid) {Initial Bid=$\frac{1}{4}$};
+    \node[right=of bid] (p4) {$\frac{1}{10}$};
+
+    % Draw arrows
+    \draw[->] (p1) -- (ask);
+    \draw[->] (ask) -- (p2);
+    \draw[->] (p3) -- (bid);
+    \draw[->] (bid) -- (p4);
+    
+    % Additional lines for aesthetics
+    \draw[->] (start) -- (p1);
+    \draw[->] (start) -- (p3);
+\end{tikzpicture}
+\end{document}
+```
 ## VII. Results of the Model
 - **Summary**:
   - Private information creates a bid-ask spread.

@@ -22,6 +22,6 @@ linter-yaml-title-alias: Class 6 Bank Runs
 	- [[Runs On Money Market Mutual Funds]]
 	- [[Temp MMF Guarantee 2008]]
 	- [[Untitled 1]]
-	- [[Untitled]]
+	- [[Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Untitled]]
 
 %% End Waypoint %%

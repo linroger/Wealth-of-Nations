@@ -31,7 +31,7 @@ linter-yaml-title-alias: "Class 7CP,  Repo,  and the Crisis"
 	- [[Securitized Banking and the Run On Repo]]
 	- [[SIVS An Oasis of Calm in the Sub Prime Maelstrom]]
 	- [[The Credit Crisis-Conjectures About Causes And Remedies]]
-	- [[Untitled]]
+	- [[Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Untitled]]
 	- [[When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009]]
 
 %% End Waypoint %%
