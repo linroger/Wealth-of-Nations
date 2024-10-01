@@ -359,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
+                "file": "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md"
+                "file": "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md"
               }
             }
           }
@@ -429,8 +429,11 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "b71c892976cbd730",
+  "active": "019b3fb0ca1b4eb7",
   "lastOpenFiles": [
+    "Financial Instruments/Lecture Notes/Lecture Notes.md",
+    "Financial Instruments/Financial Instruments.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
     "HBR Notes/HBR Notes.md",
     "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
     "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
@@ -446,9 +449,7 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/III. Liquidity of Assets.md",
     "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
     "Financial Instruments/Review Session Notes/Review Session Notes.md",
-    "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Financial Instruments/Assignments/Assignments.md",
-    "Financial Instruments/Financial Instruments.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.svg",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.png",
@@ -460,7 +461,6 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/How the Eggheads Cracked.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Moody's Lessons From the Crisis.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/The Economist Margin Call of the Wild.md",
     "Attachments/4_Case_Study_JP_Morgan_0.png",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Attachments/Finder 2024-09-25 05.05.10.png",
