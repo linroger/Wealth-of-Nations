@@ -1,6 +1,7 @@
 ---
 title: Lecture Notes
 ---
+
 # Lecture Notes
 
 %% Begin Waypoint %%
