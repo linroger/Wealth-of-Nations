@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "6fe6a3e964c41277",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Instruments"
+              }
+            }
+          },
+          {
             "id": "7417136abbc9e841",
             "type": "leaf",
             "state": {
@@ -119,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
+                "file": "Financial Instruments/Financial Instruments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
+                "file": "Financial Instruments/Financial Instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md"
+                "file": "Financial Instruments/Financial Instruments.md"
               }
             }
           }
@@ -264,14 +274,16 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "b49846f243ab1729",
+  "active": "0731bc047f1cd4c7",
   "lastOpenFiles": [
+    "Financial Instruments/Financial Instruments.md",
+    "Financial Instruments/Assignments/Assignments.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.svg",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.png",
     "svg-cache/cc5fbb0bc7812b850e9cf39d3ec1f03d.svg",
     "svg-cache/cc5fbb0bc7812b850e9cf39d3ec1f03d.png",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Temp MMF Guarantee 2008.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
@@ -295,14 +307,12 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Value of Bank Durability Borrowers as Bank Stakeholders.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/The Economist a Brave New World.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/The Economist Regime Change.md",
-    "Financial Engineering/9._Introduction_to_Real_Options.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Attachments/Finder 2024-09-25 05.05.10.png",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",
     "Attachments/Finder 2024-09-25 05.06.34.png",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency-1.png",
     "Attachments/CleanShot 2024-09-23 -002849@2x.png",
-    "Attachments/9_Dodd_Frank_0.png",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
     "Attachments/Preview 2024-09-29 03.35.00.tiff",
