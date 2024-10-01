@@ -90,6 +90,135 @@
             }
           },
           {
+            "id": "4a6ee5c4318f98f6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Financial Instruments/Lecture Notes"
+              }
+            }
+          },
+          {
+            "id": "b042bf42800e2f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d860ca3b0e9943a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions - Markdown/Financial Markets and Institutions - Markdown.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c28ee579591a2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f5ec8b5f9265364",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Fixed Income Asset Pricing"
+              }
+            }
+          },
+          {
+            "id": "70da2d9f2b1ca946",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Attachments"
+              }
+            }
+          },
+          {
+            "id": "2866eba248f173bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "607f05ef6772939d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Investments/Advanced Investments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74259b910d17c145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f64a4b736c029b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdf0fd0ccac49d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7417136abbc9e841",
             "type": "leaf",
             "state": {
@@ -129,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -204,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Instruments/Financial Instruments.md",
+                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Instruments/Financial Instruments.md",
+                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Instruments/Financial Instruments.md"
+                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md"
               }
             }
           }
@@ -274,10 +403,23 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "0731bc047f1cd4c7",
+  "active": "fdf0fd0ccac49d22",
   "lastOpenFiles": [
-    "Financial Instruments/Financial Instruments.md",
+    "Asset Classes/Equities/Equities.md",
+    "Asset Classes/Asset Classes.md",
+    "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+    "Advanced Investments/Advanced Investments.md",
+    "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Fixed Income Lecture Notes.md",
+    "Fixed Income Asset Pricing/Fixed Income Asset Pricing.md",
+    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts.md",
+    "Financial Markets and Institutions - Markdown/Financial Markets and Institutions - Markdown.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/III. Liquidity of Assets.md",
+    "Financial Instruments/Fixed Income Asset Pricing Midterm.md",
+    "Financial Instruments/Review Session Notes/Review Session Notes.md",
+    "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Financial Instruments/Assignments/Assignments.md",
+    "Financial Instruments/Financial Instruments.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Bid-Ask Prices with Adverse SelectionPrivate Information.md",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.svg",
     "svg-cache/e98246f61d9868a2fa2d775d28c3451e.png",
@@ -293,20 +435,7 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Turmoil in Financial Markets the Risk Business.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Case Study of JP Morgan.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/The Limits Of Arbitrage.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Note 13 The LTCM Meltdown.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slldes On Repurchase Agreements.md",
-    "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/Forward Exchange Rate Contracts.md",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class 4- Restructuring Public Debt.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class 8- Markets, Meltdowns, and Arbitrage.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/III. Liquidity of Assets.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Long Term Capital Management L.p. (a).md",
     "Attachments/4_Case_Study_JP_Morgan_0.png",
-    "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Shleifer Limits of Arbitrage 1997.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Value of Bank Durability Borrowers as Bank Stakeholders.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/The Economist a Brave New World.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/The Economist Regime Change.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Attachments/Finder 2024-09-25 05.05.10.png",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/Class 1-Introduction to Financial Markets and Intermediation/Financial Distress, Reorganization, And Organizational Efficiency (attachments)/Financial Distress, Reorganization, And Organizational Efficiency.png",

@@ -7,6 +7,7 @@ linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 # FIXED INCOME LECTURE NOTES
 
 %% Begin Waypoint %%
+
 - **[[Fixed Income Lecture Notes]]**
 	- [[Fixed Income Lecture Notes]]
 	- [[Inflation Swaps]]

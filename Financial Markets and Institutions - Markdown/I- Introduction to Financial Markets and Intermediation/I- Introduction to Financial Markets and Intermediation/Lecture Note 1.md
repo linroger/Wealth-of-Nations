@@ -88,3 +88,6 @@ Next Class A. Let's have some suggestions for how to get out of this situation o
 - A 100% vote required to change these "key covenants."
 - Thus,  even if public bondholders had the information,  they probably could not use it.
 - Changes to other covenants in bonds require a 2/3 vote in dollar value,  and 50% measured in the fraction of bondholders (not weighted by dollar value).
+
+[Class Note 1 Borrower-Lender conflicts and implied agency problems](Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md)
+[Lecture Slides 1](Lecture%20Slides%201.md)

@@ -5,6 +5,7 @@ title: Financial Markets and Institutions - Markdown
 # Financial Markets and Institutions - Markdown
 
 %% Begin Waypoint %%
+
 - **[[Financial Markets and Institutions - Markdown]]**
 	- [[Financial Markets and Institutions - Markdown]]
 	- **[[I- Introduction to Financial Markets and Intermediation]]**
