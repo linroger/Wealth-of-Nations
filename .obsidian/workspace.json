@@ -219,6 +219,32 @@
             }
           },
           {
+            "id": "b3b76658e4577dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b71c892976cbd730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7417136abbc9e841",
             "type": "leaf",
             "state": {
@@ -258,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -333,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md"
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md"
               }
             }
           }
@@ -403,8 +429,11 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "fdf0fd0ccac49d22",
+  "active": "b71c892976cbd730",
   "lastOpenFiles": [
+    "HBR Notes/HBR Notes.md",
+    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
+    "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1.md",
     "Asset Classes/Equities/Equities.md",
     "Asset Classes/Asset Classes.md",
     "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
@@ -432,9 +461,6 @@
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/How the Eggheads Cracked.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Moody's Lessons From the Crisis.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/The Economist Margin Call of the Wild.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Turmoil in Financial Markets the Risk Business.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Case Study of JP Morgan.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
     "Attachments/4_Case_Study_JP_Morgan_0.png",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Attachments/Finder 2024-09-25 05.05.10.png",

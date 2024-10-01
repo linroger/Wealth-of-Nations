@@ -15,7 +15,7 @@ linter-yaml-title-alias: HBR NOTES
 	- [[HBR Notes]]
 	- [[HBS Notes on Currency Swaps]]
 	- [[Note on A Strategic Perspective on Bankruptcy]]
-	- [[Note on Long-Term Capital Management, L.P. HBP]]
+	- [[Note on Long-Term Capital Management,  L.P. HBP]]
 	- [[Note on The Dodd-Frank Act and Its Impact]]
 	- [[HBR Notes/Note on the Leveraged Loan Market]]
 	- [[Notes on Basic Options Properties]]
