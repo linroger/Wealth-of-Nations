@@ -1,9 +1,11 @@
 ---
 title: Financial Instruments
 ---
+
 # Financial Instruments
 
 %% Begin Waypoint %%
+
 - **[[Financial Instruments]]**
 	- **[[Assignments]]**
 	- [[Financial Instruments]]
