@@ -131,7 +131,14 @@ $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
   - **Never exercise a put** if $D^- > K \times (1 - e^{-r^{\prime}T})$.
 - To see this, consider the call (for the put it is similar).
 - The value of a call is always higher than the value of a forward contract with the same strike price (the call always pays at least as much as the forward!):
-$$C(S,K,t,T)\ \geq\ S-P V(D)-K e^{-r T}$$$$\geq\ S-D^{+}-K e^{-r T}$$$$>\ S-K(1-e^{-r T})-K e^{-r T}$$$$=\ S-K$$
+$$
+\begin{align}
+C(S, K, t, T) &\geq S - PV(D) - K e^{-rT} \\
+              &\geq S - D^{+} - K e^{-rT} \\
+              &> S - K(1 - e^{-rT}) - K e^{-rT} \\
+              &= S - K
+\end{align}
+$$
 - =⇒ Sell the option, rather than exercise it.
 
 ## AMERICAN OPTIONS. DIVIDEND RULES - 2
@@ -232,10 +239,8 @@ $$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 2. Compute bonds$B_{0}=e^{-r/2}\left(p_{1,u}^{A}-\Delta S_{1,u}\right)=54.733$
 3. The replicating portfolio is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
 - At time i = 1 the replicating portfolio has payoffs
-
-$\qquad\text{In the Up Node}P_{1,u}=\Delta S_{1,u}+B_{0}e^{r/2}=0$
-
-In the Down Node $P_{1,d}=\Delta S_{1,d}+B_{0}e^{r/2}=19.114$
+	- In the Up Node $P_{1,u}=\Delta S_{1,u}+B_{0}e^{r/2}=0$ 
+	- In the Down Node $P_{1,d}=\Delta S_{1,d}+B_{0}e^{r/2}=19.114$
 
 - At time i = 1 we need to rebalance.
 - In the up node, ∆ = 0, and so we are out of the market. - In the down node, the option holder is supposed to optimally exercise the option, and so we
@@ -244,30 +249,21 @@ $$P_{1,d}=K-S_{1,d}=19.114$$
 - Note that the node (2, d) is never reached under the optimal exercise strategy.
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
-
-- What if the option holder does not exercise the American option in node (1, d)?
-- In this case, we need to keep going with the replicating portfolio until time i = 2.
-- The new replicating portfolio has ∆1,d = (pA
-2,du − pA
-2,dd)/(S2,du − S2,dd) = −1 and B1,d = er/2(p2,u − ∆1,dS2,u) = 99.005.
-
-- The value of the new replicating portfolio in node (1, d) is
-$$P_{1,d}^{m e w}=\Delta_{1,d}S_{1,d}+B_{1,d}=18.119$$
-- The value of the *new* replicating portfolio is **lower** than the value P1,d = 19.114 obtained
-earlier from the initial replicating strategy.
-- =⇒ The fact that the counterpart forgets to exercise the American option at node (1, d)
-make us earn money:
-
-Profit from suboptimal exercise of option holder = P1,d − P new
-1,d = 19.113 − 18.119 = 0.99
-
+- What if the option holder does not exercise the American option in node $(1,d)$?
+   - In this case, we must continue with the replicating portfolio until time $i = 2$.
+   - The new replicating portfolio is:
+      - $\Delta_{1,d} = \frac{p_{2,du}^A - p_{2,dd}^A}{S_{2,du} - S_{2,dd}} = -1$.
+      - $B_{1,d} = e^{r/2}(p_2^A - \Delta_{1,d} S_{2,u}) = 99.005$.
+   
+   - The value of the new replicating portfolio in node $(1,d)$ is $P_{1,d}^{new} = \Delta_{1,d} S_{1,d} + B_{1,d} = 18.119$.
+   - The value is lower than the value obtained earlier: $P_{1,d} = 19.114$ from the initial replicating strategy.
+   - – = ⇒The fact that the counterpart forgets to exercise the American option at node (1,d) make us earn money:
+Profit from suboptimal exercise of option holder = $$P_{1,d} − P^{new}_{1,d} = 19.113 − 18.119 = 0.99$$
 ## CONCLUSION
-
-- American options are much harder to evaluate because of the timing decision of *when* to
-exercise, if at all.
-- The decision to exercise or not relies on the value of the option in case of no exercise. - The methodology requires a backward procedure to evaluate such option to wait.
-- Binomial trees are especially useful, because the procedure is naturally backward
-- However, binomial trees are restrictive
-- Hard to use with multiple factors (e.g. what if volatility is stochastic?) - Hard to use for path-dependent securities
-- To deal with these issues, new methodologies have recently being put forward to value American
-options by Monte Carlo Simulations
+- **American options** are harder to evaluate due to the timing decision of when to exercise (if at all).
+   - The decision to exercise relies on the value of the option in case of no exercise.
+   - The methodology requires a backward procedure to evaluate the option to wait.
+- **Binomial trees** are useful due to the backward procedure, but they are restrictive.
+   - They are hard to use with multiple factors (e.g., if volatility is stochastic).
+   - They are also challenging for path-dependent securities.
+- **New methodologies**, such as Monte Carlo simulations, have been introduced to handle these complexities.
