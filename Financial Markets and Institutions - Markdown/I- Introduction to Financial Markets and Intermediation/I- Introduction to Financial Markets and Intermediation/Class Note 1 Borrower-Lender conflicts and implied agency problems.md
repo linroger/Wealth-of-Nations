@@ -32,7 +32,7 @@ We could get fancy and use the states model to take account of the positive"beta
 Clearly,  project 1 is the best investment. An owner-managed firm with no debt would select it,  . since all require the same initial outlay.
 
  1. What about a firm with debt with face $s=600$ in place?
-	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,         thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
+	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,           thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
 
 	```latex
 
@@ -47,8 +47,8 @@ Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hlin
 
 ```latex
 
-The levered firm would select project number 2,    despite its lower net present value,    because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,         and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,         he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
-This does not mean that firms"want" to go bankrupt. Instead,          it is a statement about debt capacity. If the leverage ratio gets too high,          then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,         with a lower net present value. Potential bondholders can put themselves into the owner's shoes,          and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do,          but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value,          F,          that the borrower prefers project 1?
+The levered firm would select project number 2,      despite its lower net present value,      because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,           and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,           he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
+This does not mean that firms"want" to go bankrupt. Instead,            it is a statement about debt capacity. If the leverage ratio gets too high,            then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,           with a lower net present value. Potential bondholders can put themselves into the owner's shoes,            and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do,            but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value,            F,            that the borrower prefers project 1?
 The borrower's equity payoff from Project 1 and 2 with debt of face F is:
 ```latex
 \begin{document}

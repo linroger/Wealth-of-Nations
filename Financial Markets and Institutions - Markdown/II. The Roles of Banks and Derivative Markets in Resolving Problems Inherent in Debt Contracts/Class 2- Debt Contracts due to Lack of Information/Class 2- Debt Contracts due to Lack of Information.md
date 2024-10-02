@@ -7,7 +7,6 @@ linter-yaml-title-alias: Class 2 Debt Contracts due to Lack of Information
 # Class 2 Debt Contracts due to Lack of Information
 
 %% Begin Waypoint %%
-
 - **[[Class 2- Debt Contracts due to Lack of Information]]**
 	- [[A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt]]
 	- [[A Strategic Perspective On Bankruptcy]]
@@ -19,6 +18,7 @@ linter-yaml-title-alias: Class 2 Debt Contracts due to Lack of Information
 	- [[Creditor Control Rights and Firm Investment Policy]]
 	- [[Governance in Financial Distress and Bankruptcy]]
 	- [[MGM Prospectus]]
+	- [[Untitled]]
 	- [[Wellman Inc the Importance of Loan Covenants]]
 
 %% End Waypoint %%

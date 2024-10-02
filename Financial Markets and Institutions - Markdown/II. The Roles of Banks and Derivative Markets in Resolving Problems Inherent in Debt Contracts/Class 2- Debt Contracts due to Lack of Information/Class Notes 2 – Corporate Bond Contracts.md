@@ -9,13 +9,14 @@ Bonds are defined by legal contracts,  called *indentures*,  which spell out the
 10 years (approximately),  7 5/8 coupon,  issued at par,  rated BB/Ba2,  which is two notches below investment grade.
 
 | Inside the prospectus (which I've posted on the canvas webpage),  we see:
-| See: |           | |
-|-----------------------------------------------------------|----------|--------------|-----------|
-| | Per Note | Total |           |
-| Initial public offering price(1) | 100% | $750, 000, 000 |           |
-| Underwriting discount                                                 | 0.325%   | $ | 2, 437, 500 |
-| Proceeds,  before expenses,  to MGM MIRAGE(1) | 99.675% | $747, 562, 500 | |
-| (1) Plus accrued interest,  if any |          | |           |
+
+| See:                                          |          |                  |
+| --------------------------------------------- | -------- | ---------------- |
+|                                               | Per Note | Total            |
+| Initial public offering price(1)              | 100%     | $750,   000,   000 |
+| Underwriting discount                         | 0.325%   | $2,   437,   500   |
+| Proceeds,   before expenses,   to MGM MIRAGE(1) | 99.675%  | $747,   562,   500 |
+| (1) Plus accrued interest,   if any            |          |                  |
 
 So the underwriters,  led by Barclays,  BNP,  UBS,  and Wachovia,  share $2.4375MM.
 
@@ -36,7 +37,8 @@ First,  let's look at this optional redemption. On page S-10,  we get this:
 The notes are redeemable at our election,  in whole or in part at any time at a redemption price equal to the greater of:
 
 - 100% of the principal amount of the notes then outstanding; or
-- as determined by an Independent Investment Banker,  the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued to the date of redemption) discounted to the redemption date on a semiannual basis (assuming a 360-day year consisting of 12 30-day months) at the Adjusted Treasury Rate,  plus 50 basis points,  plus,  in either of the above cases,  accrued and unpaid interest to the date of redemption on the notes to be redeemed.
+- as determined by an Independent Investment Banker,  the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued to the date of redemption) discounted to the redemption date on a semiannual basis (assuming a 360-day year consisting of 12 30-day months) at the Adjusted Treasury Rate,  plus 50 basis points,
+plus,  in either of the above cases,  accrued and unpaid interest to the date of redemption on the notes to be redeemed.
 
 What is the purpose of this call? MGM can buy the bond back for the maximum of (i) par,  and (ii) the present value of the future payments on the note,  discounted at the Treasury rate plus 50 basis points. To see what this means,  note that:
 
@@ -70,29 +72,37 @@ In the prospectus on page S-12,  we see:
 
 ## Limitations On Liens
 
- Other than as provided below under "Exempted Liens and Sale-Lease-Back Transactions, " neither MGM MIRAGE nor any of the Subsidiary Guarantors may issue,  assume,  or guarantee any indebtedness secured by a Lien upon any Principal Property or on any evidences of Indebtedness or shares of capital stock of,  or other ownership interests in,  any Subsidiaries (regardless of whether the Principal Property,  Indebtedness,  capital stock,  or ownership interests were acquired before or after the date of the indenture) without effectively providing that the notes shall be secured equally and ratably with (or prior to) such Indebtedness so long as such Indebtedness shall be so secured,  except that this restriction will not apply to: (a) Liens existing on the date of original issuance of the notes; (b) - (l) [other exceptions]
+ Other than as provided below under "Exempted Liens and Sale-Lease-Back Transactions,  " neither MGM MIRAGE nor any of the Subsidiary Guarantors may issue,  assume,  or guarantee any indebtedness secured by a Lien upon any Principal Property or on any evidences of Indebtedness or shares of capital stock of,  or other ownership interests in,  any Subsidiaries (regardless of whether the Principal Property,  Indebtedness,  capital stock,  or ownership interests were acquired before or after the date of the indenture) without effectively providing that the notes shall be secured equally and ratably with (or prior to) such Indebtedness so long as such Indebtedness shall be so secured,  except that this restriction will not apply to: (a) Liens existing on the date of original issuance of the notes; (b) - (l) [other exceptions]
 Restrictions on Sale and Leaseback Transactions: A sale-and-leaseback transaction is almost equivalent,  economically,  to secured borrowing. Firm sells an asset to another firm (e.g. GE Capital) and simultaneously enters a long-term contract to lease the same asset. If the firm defaults on the contract,  the owner can take back the asset. If the lease term covers the economic life of the asset,  this is very,  very close to secured borrowing (note that the owner gets to keep the asset after the lease expires,  but its economic life is over).
 So this is similar to the negative pledge clause. However,  it is not possible to pledge some of the value of the sold asset to the bondholders,  so what this restriction says instead is that sale-and-leaseback is OK as long as the sale proceeds either
 
-- Buy new assets that are available to the bondholders,  or - Are spent on retiring MGM debt. Other than as provided below under " - Exempted Liens and Sale and Lease-Back Transactions, " neither MGM MIRAGE nor any Subsidiary Guarantor will enter into any Sale and Lease-Back Transaction unless either:
- (i) [the notes would also be secured by the property] or
- (ii)[MGM spends the sale proceeds paying down debt].
+- Buy new assets that are available to the bondholders,  or - Are spent on retiring MGM debt. Other than as provided below under " - Exempted Liens and Sale and Lease-Back Transactions,  " neither MGM MIRAGE nor any Subsidiary Guarantor will enter into any Sale and Lease-Back Transaction unless either:
+ (i) the notes would also be secured by the property or
+ (ii)MGM spends the sale proceeds paying down debt.
 Exempted Liens and Sale and Lease-Back Transactions
-[MGM can enter into such transactions for up to 15% of its Consolidated Net Tangible Assets].
+MGM can enter into such transactions for up to 15% of its Consolidated Net Tangible Assets.
 Consolidation,  Merger,  and Sale of Assets This just says that MGM will not be involved in a merger or acquisition,  either as acquirer or target,  unless
 - The resulting firm is still a U.S. firm responsible for paying this bond - The merger does not cause a default. This prospectus does not contain some other common bond covenants,  such as
-- Dividend and share-repurchase restrictions
-- Asset-sale restrictions
-- Requirements to maintain and/or insure assets. With any covenant,  the key questions are
-- What bad incentives does it address?
-- What good actions does it interfere with? - Does the benefit of the first outweigh the costs of the second?
+	- Dividend and share-repurchase restrictions
+	- Asset-sale restrictions
+	- Requirements to maintain and/or insure assets.
+- With any covenant,  the key questions are
+	- What bad incentives does it address?
+	- What good actions does it interfere with?
+	- Does the benefit of the first outweigh the costs of the second?
 
 ## Rights of Creditors Upon Default
 
 Following the covenants,  the indenture lists the **Events of Default**:
- a) Default on interest beyond a 30-day grace period b) Default on principal when it's due c) Acceleration of any other sufficiently big debt of MGM
+ a) Default on interest beyond a 30-day grace period
+ b) Default on principal when it's due
+ c) Acceleration of any other sufficiently big debt of MGM
  d) A sufficiently big judgment against MGM
- e) Default on any *other* covenants,  if *either* i) the trustee wants to pursue this,  or ii) the trustee does not want to pursue it but holders of at least 25% of the bond do want to pursue it,  and holders of no more than 50% of the bond disagree Reading further down,  we can condense the legalese to the following: So to put it another way,  if the debtor defaults,  then
+ e) Default on any *other* covenants,  if *either*
+
+ - i) the trustee wants to pursue this,  or
+ - ii) the trustee does not want to pursue it but holders of at least 25% of the bond do want to pursue it,  and holders of no more than 50% of the bond disagree
+Reading further down,  we can condense the legalese to the following: So to put it another way,  if the debtor defaults,  then
 
 - If the default is a failure to pay this bond on time,  then every creditor has the individual right to take legal action to force payment. This sort of default is called a *financial default*
 - But if the default is on anything else,  i.e. a *covenant default*,  then the trustee has the right to take action,  but individual creditors *do not*. Instead,  we see that: o A majority (by value) of bondholders can tell the trustee what to do o A quarter of bondholders can take action,  *provided that* a majority does not oppose them So while it might seem that a bondholder can pursue any failure on an indenture,  in fact,  his rights are more limited than that.
@@ -111,7 +121,7 @@ HEADLINE: Getty Images Announces Commencement of Consent Solicitation for 0.50% 
 
  Notwithstanding Getty Images' position regarding notices of default,  it is seeking an amendment to,  and a waiver of the alleged or existing default or event of default under,  the Indenture. The proposed amendment to the Indenture would provide that no notice of default delivered to Getty Images on or prior to March 2,  2007 that specifies as the basis for the default a failure to file with the SEC the Third Quarter Form 10-Q and/or the Company's Annual Report on Form 10-K for the year ended December 31,  2006,  as applicable,  and to file the applicable reports with the trustee under the Indenture,  shall have any force or effect with respect to the exercise of remedies by the trustee or any holder of Debentures if Getty Images files the applicable reports on or prior to May 1,  2007. The Consent Solicitation also includes a waiver of any defaults and events of default under Section 17.01 of the Indenture that may exist as a result of its failure to file the Third Quarter Form 10-Q.
 
- Getty Images proposes to make a cash payment to consenting holders of the Debentures of $5.00 per $1, 000 in aggregate principal amount of the Debentures (the "consent payment") held by such consenting holders,  upon or promptly following expiration of the Consent Solicitation. Only registered holders of the Debentures on the January 4,  2007,  record date that validly deliver,  and do not revoke,  consents prior to 5:00 p.m. New York City time on January 17,  2007,  the expiration of the Consent Solicitation,  will be eligible to receive the consent payment.
+ Getty Images proposes to make a cash payment to consenting holders of the Debentures of $5.00 per $1,  000 in aggregate principal amount of the Debentures (the "consent payment") held by such consenting holders,  upon or promptly following expiration of the Consent Solicitation. Only registered holders of the Debentures on the January 4,  2007,  record date that validly deliver,  and do not revoke,  consents prior to 5:00 p.m. New York City time on January 17,  2007,  the expiration of the Consent Solicitation,  will be eligible to receive the consent payment.
 
  The consummation of the Consent Solicitation (including the payment of the consent payment) is subject to the receipt of valid consents in respect of a majority in aggregate principal amount of all outstanding Debentures,  the execution of the supplemental indenture by us and the trustee under the Indenture,  and the absence of any existing or proposed law or regulation or any proceeding that would make unlawful or invalid or enjoin or delay the proposed amendment,  the entering into of the supplemental indenture,  or the payment of the consent payment.
 
