@@ -49,23 +49,22 @@ buy the option and (c) invest K × e−r(T−t). Today we get S − CA − Ke−
 ## EXAMPLE: SPY OPTIONS
 
 - As an example, consider the SPY options.
-- Next figure plots the March 17, 2023 call and put options for various moneyness *K/S*0.
-- To compare with the option prices on S&P 500, I normalize option values by the value of
-the index.
-- Thus, the figure plots *Call/S*0 and *Put/S*0
+	- The following figures plot the March 17, 2023, call and put options for various moneyness $K/S_0$.
+	- The option values are normalized by the value of the index, so the figure plots $Call/S_0$ and $Put/S_0$.
 - The figure also plots the intrinsic value, also normalized by the value of the index:
 For Puts: Normalized Intrinsic Value$\,=\dfrac{\max(K-S_{0})}{S_{0}}=\max(\text{Moneyness}-1,0)$
 
 For Calls: Normalized Intrinsic Value$\,=\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\text{Moneyness})$
 
 ## EXAMPLE: SPY OPTIONS EXAMPLE: SPY OPTIONS - NOTE
+  ![SPY Options](https://storage.simpletex.cn/view/fK7NXo8YqYiiLI0nkGXrHP7fZNP4FMZ3Y)
 
 ![|500](CleanShot%202024-02-13%20-000374@2x.png)
 
 1. American [Options](Options.md) are always as valuable as Europeans.
-- True in the diagram for puts, not quite for calls
-- Differences in the underlying securities: paper index versus an ETF
-- Settlement differences: cash for SPX, shares for SPY
+	- True in the diagram for puts, not quite for calls
+	- Differences in the underlying securities: paper index versus an ETF
+	- Settlement differences: cash for SPX, shares for SPY
 - Tradings costs (e.g. bid-ask spread) bigger for SPY than SPX
 2. The European ITM Put Option is below its intrinsic value, but the American ITM Put Option is above.
 3. The American Put option touches the intrinsic value for high$\frac{K}{S_0}$..
@@ -73,14 +72,14 @@ For Calls: Normalized Intrinsic Value$\,=\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\te
 
 ## AMERICAN CALL OPTIONS: EARLY EXERCISE
 
-- **Question**: Should you ever exercise an American Call option on a non dividend paying stock
-before maturity?
-- **Example**: You own a 3 month Call option with K = 100. Today S = 105.
+- **Question**: Should you ever exercise an American Call option on a non dividend paying stock before maturity?
+- **Example**: Example: You own a 3-month Call option with $K=100$, and today $S=105$. Should you exercise now or wait until maturity?
+  - Since $C(S,K,T) \geq \max(0, S - K \times e^{-rT})$, selling the option is better as $C(S,K,T) > S - K$.
 	- If you exercise you gain $5 = S − K$. 
 	- If you wait one more day, you may get more as the price may increase.
 But you may also lose.
 - Should you exercise now or wait until maturity?
-- If you sell the option, you get$C(S, K, 0, T)$today. If you exercise, you get$S − K$.
+- If you sell the option, you get $C(S, K, 0, T)$ today. If you exercise, you get $S − K$.
 - We know that for non dividend paying stocks
 $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
 - Since $S − Ke^{−rT} > S − K > 0$, selling the option is better as $C(S, K, 0, T) > S − K$
@@ -104,11 +103,11 @@ $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
 	- (Good) We get any dividends paid between now and maturity
 	- (Bad) We pay K today instead of in the future =⇒ lose the interest on K.
 	- (Bad) We pay K today for a stock that may be worth less than K at T.
-- Even if$S > K$today, it may well be that$S_{T} < K$, in which case we will not want to exercise.
+- Even if $S > K$ today, it may well be that $S_{T} < K$, in which case we will not want to exercise.
 - S today reflects all of the possible possibilities, including low$S_T$.
-- By waiting, we reserve the right of **not to exercise if**$S_T < K$
-- "But if we exercise we get S − K today… "
-	- Yes, but you can get more by shorting the stock and buying bonds (see earlier). In fact, this strategy pays handsomely exactly when$S_T < K$at maturity.
+- By waiting, we reserve the right of **not to exercise if** $S_T < K$
+- "But if we exercise we get $S − K$ today… "
+	- Yes, but you can get more by shorting the stock and buying bonds (see earlier). In fact, this strategy pays handsomely exactly when  $S_T < K$ at maturity.
 
 ## AMERICAN OPTIONS. PROS AND CONS OF EARLY EXERCISE
 
@@ -124,16 +123,14 @@ $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
 
 ## AMERICAN OPTIONS. DIVIDEND RULES
 
-- Suppose dividends are unknown, but
-D+ = max PV \[dividends until maturity]
-D− = min PV \[dividends until maturity]
-
-- Then
-- Never exercise a call if D+ < K × (1 − e^{-rT})
-- Never exercise a put if D− > K × (1 − e^{-rT})
+- Suppose dividends are unknown, but:
+  $D^+ = \max PV[\mathrm{dividends~until~maturity}]$
+  $D^- = \min PV[\mathrm{dividends~until~maturity}]$
+- Then:
+  - **Never exercise a call** if $D^+ < K \times (1 - e^{-rT})$.
+  - **Never exercise a put** if $D^- > K \times (1 - e^{-r^{\prime}T})$.
 - To see this, consider the call (for the put it is similar).
-- The value of a call is always higher than the value of a forward contract with the same strike
-price (the call always pays at least as much as the forward!):
+- The value of a call is always higher than the value of a forward contract with the same strike price (the call always pays at least as much as the forward!):
 $$C(S,K,t,T)\ \geq\ S-P V(D)-K e^{-r T}$$$$\geq\ S-D^{+}-K e^{-r T}$$$$>\ S-K(1-e^{-r T})-K e^{-r T}$$$$=\ S-K$$
 - =⇒ Sell the option, rather than exercise it.
 
