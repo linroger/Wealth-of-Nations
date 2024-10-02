@@ -1,12 +1,8 @@
 ---
-title: Special Comment
-aliases: [Special Comment]
-linter-yaml-title-alias: Special Comment
+title: Corporate Default and Recovery Rates,  1920-2008
+aliases: ["Corporate Default and Recovery Rates,  1920-2008", Special Comment]
+linter-yaml-title-alias: "Corporate Default and Recovery Rates,  1920-2008"
 ---
-
-# Special Comment
-
-## Table of Contents
 
 # Corporate Default and Recovery Rates,  1920-2008
 
@@ -14,11 +10,11 @@ linter-yaml-title-alias: Special Comment
 
 This report comprises Moody's twenty-second annual default study in which we update statistics on the default,  loss,  and rating transition experience of corporate bond and loan issuers for 2008,  as wellas for the historical period since 1920 Briefly,  we find that
 
- 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,   2008,   104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
+ 101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,    2008,    104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
 
 The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the bankruptcy of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
 
-Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,   12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
+Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,    12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
 
 <table>
 	<tbody>
@@ -106,7 +102,7 @@ In the following three sections,  we first summarize corporate default experienc
 
 The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the bankruptcy of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
 
-World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,   84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,   defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
+World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,    84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,    defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
 
 ------------------------------------------------------------------
 
@@ -775,7 +771,7 @@ Exhibit 13
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,   which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
+In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,    which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
 
 Exhibit 14
 
