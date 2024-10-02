@@ -37,9 +37,17 @@ Billions of dollars; quarterly figures are seasonally adjusted annual rates
 
 Introduction to Topic 1: **Capital structure and the choice of the sources of funds.** - What are the consequences of capital structure choice? What might change?
 
-- Probability of default - Payoffs to equity - Payoffs to manager (possibly if tied to debt or equity) - Tax Payments - Control over corporate decisions
+- Probability of default
+- Payoffs to equity
+- Payoffs to manager (possibly if tied to debt or equity) 
+- Tax Payments 
+- Control over corporate decisions
 - Does it matter who owns a firm's debt or equity?
-- The publicsmall diffuse holders - Large individual investors - Large institutional investors = Financial Intermediaries - Other publicly-held firms (Suppliers,  customers,  etc.)
+- The public small diffuse holders 
+- Large individual investors 
+- Large institutional investors 
+- = Financial Intermediaries 
+- Other publicly-held firms (Suppliers,  customers,  etc.)
 - We begin with the simplest case: owner managed firms issuing debt (bonds) to outside small "public" holders. In practice,  it is rare for owner-managed firms to issue bonds directly. This will be Class Note 1.
 ![7_image_0.png](7_image_0.png)
 Business 35202 slides. From Class Note 1. Douglas W Diamond 1. **No debt**
