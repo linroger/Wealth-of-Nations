@@ -43,11 +43,11 @@
   "make-md",
   "github-sync",
   "swiftlatex-render",
-  "latex-render",
   "custom-save",
   "formatto-format",
   "obsidian-export-to-tex",
   "image-upload-toolkit",
   "awesome-image",
-  "smart-title"
+  "smart-title",
+  "obsidian-latex-render"
 ]
