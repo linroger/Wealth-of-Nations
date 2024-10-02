@@ -85,14 +85,14 @@ For Calls: Normalized Intrinsic Value$\,=\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\te
 - **Question**: Should you ever exercise an American Call option on a non dividend paying stock
 before maturity?
 - **Example**: You own a 3 month Call option with K = 100. Today S = 105.
-- If you exercise you gain $5 = S − K$. 
+	- If you exercise you gain $5 = S − K$. 
 	- If you wait one more day, you may get more as the price may increase.
 But you may also lose.
 - Should you exercise now or wait until maturity?
 - If you sell the option, you get$C(S, K, 0, T)$today. If you exercise, you get$S − K$.
 - We know that for non dividend paying stocks
 $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
-- Since$S − Ke^{−rT} > S − K > 0$, selling the option is better as$C(S, K, 0, T) > S − K$
+- Since $S − Ke^{−rT} > S − K > 0$, selling the option is better as $C(S, K, 0, T) > S − K$
 
 ## AMERICAN CALL OPTIONS: EARLY EXERCISE
 
