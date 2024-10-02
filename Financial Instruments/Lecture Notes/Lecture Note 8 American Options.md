@@ -136,9 +136,10 @@ $$C(S,K,t,T)\ \geq\ S-P V(D)-K e^{-r T}$$$$\geq\ S-D^{+}-K e^{-r T}$$$$>\ S-K(1-
 
 ## AMERICAN OPTIONS. DIVIDEND RULES - 2
 
-- It is only optimal to exercise an American Call at maturity, or just before a dividend payment. - It is never optimal to exercise an American Put just before a dividend payment.
+- It is only optimal to exercise an American Call at maturity, or just before a dividend payment.
+- It is never optimal to exercise an American Put just before a dividend payment.
 - Intuitively, consider the figures
-- ![|500](CleanShot%202024-02-13%20-000375@2x.png)
+![](CleanShot%202024-10-02%20-003074@2x.png)
 - By exercising a Call at (1) instead of (2) you: (A) lose both the interest between (1) and (2), and the right not to exercise; (B) gain nothing, as there is no dividend between (1) and (2). It cannot be optimal.
 - By exercising a Call at (3) instead of (2) you: (A) lose both the dividend, and the right not to exercise; (B) gain a little interest, but small given the small interval.
 - By exercising a Put at (2) instead of (3) you: (A) lose both the dividend and the right not to exercise; (B) gain a little interest, but small given the small interval.
@@ -150,21 +151,22 @@ $$C(S,K,t,T)\ \geq\ S-P V(D)-K e^{-r T}$$$$\geq\ S-D^{+}-K e^{-r T}$$$$>\ S-K(1-
 - On May 11 2007 the S&P 100 closed at 689.83. You are 7% in-the-money.
 - Question: Is it time to exercise?
 - Or keeping the option alive has still sufficient value to wait longer?
-- In order to decide whether it is optimal to exercise, we have to compare the payoff today (if exercise) with the expected payoff in the future (if we wait)
-- That is, we exercise if and only if K − S > Discounted Expected Future Payoff If Wait
+- In order to decide whether it is optimal to exercise, we have to compare the payoff today (if exercised) with the expected payoff in the future (if waiting).
+	- We exercise if and only if: $$K - S > \text{Discounted Expected Future Payoff if Wait}$$
 - How do we compute the discounted expected future payoff if we wait?
 - Binomial Trees are excellent tools that allow us to perform this computation.
 
 ## AMERICAN OPTION: TWO STEP TREE
 
-- Let$S_{0}=100$;
+- Let  $S_{0}=100$;
 - $K=100$,
 - $T=1$,
 - $r=2\%$,
 - $\sigma=30\%\Longrightarrow u=e^{r\sqrt{T}}=1.34986$and
 - $q^{*}=0.4707$.
 - Consider a put option with K = 100. The European option is given by
-![](CleanShot%202024-02-13%20-000376@2x.png)
+- ![](CleanShot%202024-10-02%20-003075@2x.png)
+
 
 ## AMERICAN OPTION: TWO STEP TREE
 
@@ -172,7 +174,7 @@ $$C(S,K,t,T)\ \geq\ S-P V(D)-K e^{-r T}$$$$\geq\ S-D^{+}-K e^{-r T}$$$$>\ S-K(1-
 - At maturity i = 2 the payoff of the American option is the same as the European option
 $$p_{2,j}^{A}=p_{2,j}^{E}\quad\mathrm{~for~}\ j=u u,\ u d,\ d u,\ d d$$
 - At i = 1, at each node u and d compare the payoff if exercise with expected payoff if wait.
-- In node (1, u) the put option is OTM =⇒ no exercise. Note that$p^{A}_{1,u} = 0$.
+- In node (1, u) the put option is OTM =⇒ no exercise. Note that $p^{A}_{1,u} = 0$.
 - In node (1, d)
 	1. If exercise get K − S = 100 − 80.886 = 19.114.
 	2. If wait, the value of the option is equal to the European counterpart
