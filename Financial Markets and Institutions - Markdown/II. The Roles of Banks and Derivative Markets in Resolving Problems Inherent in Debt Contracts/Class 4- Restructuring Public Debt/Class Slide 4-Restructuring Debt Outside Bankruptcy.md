@@ -435,7 +435,7 @@ Suppose a fraction "f" of other bonds are exchanged to the new bond
 			<td>1</td>
 			<td>0.3</td>
 			<td>$\min\{0.7$,  f$\}$</td>
-			<td>$\max\{0, 0.7-\mathbf{f}\}$</td>
+			<td>$\max\{0,  0.7-\mathbf{f}\}$</td>
 		</tr>
 		<tr>
 			<td>$0. I$</td>
@@ -560,7 +560,7 @@ Suppose a fraction f=1 of other bonds are exchanged to the new bond
 			<td> </td>
 			<td>0.3</td>
 			<td>71 $\min\{0.7,  f\}=0.7$</td>
-			<td>$\max\{0, 0.7-f\}=0$</td>
+			<td>$\max\{0,  0.7-f\}=0$</td>
 		</tr>
 		<tr>
 			<td>0.2</td>
@@ -611,7 +611,7 @@ Exit consent votes are almost always contingent on a minimum fraction tendering.
 - Value of bond as it stands= B
 - Value of new bond that you get if you tender,  vote yes and the vote passes: Bn
 - - Value of old bond if the consent vote passes (some covenants are removed): B'
-- -  Payment for consent vote,  in addition to new bond = p. This is called the consent payment.
+- - Payment for consent vote,  in addition to new bond = p. This is called the consent payment.
 - - If you hold it all the issue (are pivotal): you compare Bn +p to B.
 
 If you expect the consent vote to succeed,  small non-pivotal will tender if and only if B,  +p ≥ B'.
@@ -625,4 +625,4 @@ In the "Senior Priming of Junior" in note 6
 
 - For a 1% holder of the bond - p=0 (no consent payment) Bn=0.0062 B=0.0032
 - - B=0.001 (1% of the 0.\1 payoff from liquidation with B=. 3 of bank senior)
-- - B,  >B: The punishment was used for "good, " not evil.
+- - B,  >B: The punishment was used for "good,  " not evil.
