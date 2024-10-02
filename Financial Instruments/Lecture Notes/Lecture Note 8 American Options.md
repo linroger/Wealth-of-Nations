@@ -186,8 +186,7 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,d}]=e^{-r/2}E^{*}[p_{2}^{
 - The value of the option at time 0 is then$$p_{0}^{A}=e^{-r/2}E^{*}\left[p_{1}^{A}\right]=e^{-r/2}\;(1-q^{*})\;p_{1,d}^{A}=10.017$$
 
 ## AMERICAN OPTION: TWO STEP TREE
-
-![|500](CleanShot%202024-02-13%20-000379@2x.png)
+![](CleanShot%202024-10-02%20-003076@2x.png)
 
 ## AMERICAN OPTIONS. MULTI STEP TREES
 
@@ -202,8 +201,8 @@ $$V_{i,j}^{A}=\operatorname*{max}\Big\{\ g_{i,j}\,\ \ e^{-r\times h}\times E^{*}
 $$p_{i,j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,j}\,\ \ e^{-r\times h}\times\big(q^{*}\times p_{i+1,j}^{A}+(1-q^{*})\times p_{i+1,j+1}^{A}\big)\Big\}$$
 
 ## AMERICAN OPTIONS. MULTI STEP TREES BINOMIAL TREE MODEL
+![](CleanShot%202024-10-02%20-003077@2x.png)
 
-![|500](CleanShot%202024-02-13%20-000380@2x.png)
 
 ## MULTI STEP TREE: DOES IT WORK?
 
@@ -215,14 +214,16 @@ $$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 - The value of the corresponding American Option is pA = 0.0529, a little lower than the market value.
 
 ## MULTI STEP TREE: DOES IT WORK? BINOMIAL TREE MODEL
+![](CleanShot%202024-10-02%20-003078@2x.png)
 
-![](CleanShot%202024-02-13%20-000381@2x.png)
-
+- ![](https://storage.simpletex.cn/view/ffPgGtPeGrgkGlKC3pXOd7sbSkSlBTI7u)
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
 - Can we "dynamically replicate" an American option using a portfolio of stocks and bonds?
 - Yes! Once we solve for the optimal exercise strategy, we have a standard option tree. - Consider the earlier example:
-![|500](CleanShot%202024-02-13%20-000382@2x.png)
+
+![](https://storage.simpletex.cn/view/fniSs76T3dR8R2gYxCr02RG9gB4BAGpeC)
+
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
 - Suppose you sold the option to a client. - At time i = 0 we must set up a portfolio that replicates pA
