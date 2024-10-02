@@ -29,13 +29,17 @@ $$V_{0}=E^{*}\left[e^{-rT}V(S_{1})\right]=e^{-rT}\left[q^{*}V(S_{1,u})+(1-q^{*})
 - For instance, a call option has price given by
 
 ```latex
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\begin{document}
 \begin{tikzpicture}
   % Define the nodes
   \node (i0) {$i = 0$};
-  \node[below=1cm of i0,draw,inner sep=5pt] (box0) {
+  \node[below=2cm of i0,draw,inner sep=5pt] (box0) {
     \begin{tabular}{l}
-      $S_0 = 100.000$ 
-      $q_0^* = 0.4587$ 
+      $S_0 = 100.000$ \\
+      $q_0^* = 0.4587$ \\
       $c_0 = e^{-rT} \times q_0^* \times c_{1,u} = 15.731$
     \end{tabular}
   };
@@ -44,17 +48,18 @@ $$V_{0}=E^{*}\left[e^{-rT}V(S_{1})\right]=e^{-rT}\left[q^{*}V(S_{1,u})+(1-q^{*})
   \node[right=3cm of i0] (i1) {$i = 1$};
   \node[draw,above right=0.5cm and 1cm of i1,inner sep=5pt] (box1u) {
     \begin{tabular}{l}
-      $S_{1,u} = 134.986$ 
+      $S_{1,u} = 134.986$ \\
       $c_{1,u} = 34.986$
     \end{tabular}
   };
   \node[draw,below right=0.5cm and 1cm of i1,inner sep=5pt] (box1d) {
     \begin{tabular}{l}
-      $S_{1,d} = 74.082$ 
+      $S_{1,d} = 74.082$ \\
       $c_{1,d} = 0$
     \end{tabular}
   };
 \end{tikzpicture}
+\end{document}
 ```
 
 $i=0$$i=1$$S_{1,u}=134.986$$c_{1,u}=34.986$$S_{0}=100.000$$q_{0}^{*}=0.4587$$c_{0}=e^{-rT}\times q_{0}^{*}\times c_{1,u}=15.731$$S_{1,d}=74.082$$c_{1,d}=0$
