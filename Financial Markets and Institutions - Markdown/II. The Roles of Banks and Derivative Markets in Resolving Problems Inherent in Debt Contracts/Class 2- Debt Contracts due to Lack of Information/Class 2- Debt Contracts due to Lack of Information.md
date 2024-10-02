@@ -16,6 +16,7 @@ linter-yaml-title-alias: Class 2 Debt Contracts due to Lack of Information
 	- [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants]]
 	- [[Class Slides 2-Debt as a Promise and a Threat]]
 	- [[Creditor Control Rights and Firm Investment Policy]]
+	- [[Discussion of Loan Covenants vs. Bond Covenants]]
 	- [[Governance in Financial Distress and Bankruptcy]]
 	- [[MGM Prospectus]]
 	- [[Wellman Inc the Importance of Loan Covenants]]
