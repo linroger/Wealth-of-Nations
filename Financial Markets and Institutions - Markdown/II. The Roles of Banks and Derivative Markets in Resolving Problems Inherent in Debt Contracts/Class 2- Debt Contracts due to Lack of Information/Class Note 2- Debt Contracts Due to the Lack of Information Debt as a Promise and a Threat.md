@@ -6,6 +6,8 @@ linter-yaml-title-alias: "Class Note 2 Debt Contracts Due to the Lack of Informa
 
 # Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat
 
+[Class Slides 2-Debt as a Promise and a Threat](Class%20Slides%202-Debt%20as%20a%20Promise%20and%20a%20Threat.md)
+
    This is our initial view of the role of debt in corporate control. This is simple but abstract.
 
    This will not be our only view of this issue.
@@ -26,7 +28,7 @@ linter-yaml-title-alias: "Class Note 2 Debt Contracts Due to the Lack of Informa
 		 - The net cash flows to the firm are very unobservable in practice for many firms.
 		 - In addition,  most other conflicts of interest faced by borrowers can be reinterpreted as equivalent to the borrower's ability to retain underreported cash.
 			- The ability to retain underreported cash is simply the most extreme example of a conflict of interest.
-   - The project costs $1 to fund,      and its realized value is a random variable with realization denoted by $V$.
+   - The project costs $1 to fund,         and its realized value is a random variable with realization denoted by $V$.
 	  - The distribution of $V$,  the value of the project,  known to all borrowers and lenders is:
 		 - $H=1.4$ million with probability $P=0.8$
 		 - $L=1$ million with probability $1−P=0.2$.
@@ -114,7 +116,6 @@ linter-yaml-title-alias: "Class Note 2 Debt Contracts Due to the Lack of Informa
 		 - I will not yet add this complication.
 
 ### Debt Contracts Can Be Improved by Costly Monitoring
-
    - The next section shows the value of monitoring in allowing renegotiation of loan contracts.
 
 #### The Value of Monitoring in Restructuring and Renegotiation of Debt

@@ -12,7 +12,6 @@ linter-yaml-title-alias: Class 2 Debt Contracts due to Lack of Information
 	- [[A Strategic Perspective On Bankruptcy]]
 	- [[Class 2- Debt Contracts due to Lack of Information]]
 	- [[Class Note 2- Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat]]
-	- [[Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat]]
 	- [[Class Notes 2 – Corporate Bond Contracts]]
 	- [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants]]
 	- [[Class Slides 2-Debt as a Promise and a Threat]]
