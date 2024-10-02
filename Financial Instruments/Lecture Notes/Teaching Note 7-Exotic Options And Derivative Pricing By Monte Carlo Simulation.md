@@ -46,13 +46,13 @@ $$V_{0}=E^{*}\left[e^{-rT}V(S_{1})\right]=e^{-rT}\left[q^{*}V(S_{1,u})+(1-q^{*})
   
   % Nodes for i = 1
   \node[right=3cm of i0] (i1) {$i = 1$};
-  \node[draw,above right=0.5cm and 1cm of i1,inner sep=5pt] (box1u) {
+  \node[draw,above right=1cm and 2cm of i1,inner sep=5pt] (box1u) {
     \begin{tabular}{l}
       $S_{1,u} = 134.986$ \\
       $c_{1,u} = 34.986$
     \end{tabular}
   };
-  \node[draw,below right=0.5cm and 1cm of i1,inner sep=5pt] (box1d) {
+  \node[draw,below right=1cm and 2cm of i1,inner sep=5pt] (box1d) {
     \begin{tabular}{l}
       $S_{1,d} = 74.082$ \\
       $c_{1,d} = 0$
