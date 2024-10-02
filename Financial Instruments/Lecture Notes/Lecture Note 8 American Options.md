@@ -16,20 +16,13 @@ linter-yaml-title-alias: LECTURE NOTE 8 AMERICAN OPTIONS
 2.3 Dynamic Replication
 
 ## AMERICAN OPTIONS
-
-- An American Option is identical to a European Option, but it can be exercised *anytime* before
-expiration.
-- Examples of American options
-1. Individual stock options
-2. Some options that essentially track indexes: e.g. SPY (CBOE)
-3. Some widely traded OTC interest rate options
-- E.g. American Interest Rate Swaptions (options to enter into an interest rate swap) are
-particularly popular.
-4. American options embedded in other contracts
-- E.g. Callable and Puttable bonds; Convertible [Bonds](Bonds.md); Mortgages.
-5. Real options
-- Real investments have optionality (e.g. option to invest in a new project, option to close
-down a plant etc.)
+- An American Option is identical to a European Option, but it can be exercised anytime before expiration. 
+- Examples of American options:
+  1. Individual stock options
+  2. Some options that essentially track indexes: e.g., SPY (CBOE)
+  3. Some widely traded OTC interest rate options (e.g., American Interest Rate Swaptions, options to enter into an interest rate swap)
+  4. American options embedded in other contracts (e.g., Callable and Puttable bonds; Convertible Bonds; Mortgages)
+  5. Real options (e.g., option to invest in a new project, option to close down a plant, etc.)
 - In all these cases, not only decide IF we want to exercise the option, but also **WHEN**.
 
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
@@ -96,11 +89,10 @@ $$C(S,K,T)\geq\operatorname*{max}(0,S-K e^{-r T})$$
 
 ## AMERICAN CALL OPTIONS: EARLY EXERCISE
 
--- What if we cannot sell the option? Is it optimal to exercise early?
-
-  - No. If you exercise, you get$S - K$, which at maturity is$(S - K)e^{rT}$.
-  - Instead, keep the call, short the stock for$S$and buy bonds.
-	 - At$T$, you have$$\left.Se^{rT}-S_T+\max(S_T-K)=\left\{\begin{array}{ll}Se^{rT}-K=(S-K)e^{rT}+K(e^{rT}-1)&\mathrm{if}&S_T>K\\Se^{rT}-S_T>Se^{rT}-K&\mathrm{if}&S_T<K\end{array}\right.\right.$$- Either way, it is more than$(S - K)e^{rT}$. Especially if$S_T < K$at maturity, we make a killing.
+- What if we cannot sell the option? Is it optimal to exercise early?
+	  - No. If you exercise, you get $S - K$, which at maturity is $(S - K)e^{rT}$.
+	  - Instead, keep the call, short the stock for $S$ and buy bonds.
+	 - At  $T$, you have $$\left.Se^{rT}-S_T+\max(S_T-K)=\left\{\begin{array}{ll}Se^{rT}-K=(S-K)e^{rT}+K(e^{rT}-1)&\mathrm{if}&S_T>K\\Se^{rT}-S_T>Se^{rT}-K&\mathrm{if}&S_T<K\end{array}\right.\right.$$ - Either way, it is more than $(S - K)e^{rT}$. Especially if $S_T < K$ at maturity, we make a killing.
 - "An American Call on a non dividend paying stock is always worth more alive than dead"
 - Intuition:
   - If we exercise early, we lose both
@@ -223,8 +215,7 @@ $$p_{i,j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,j}\,\ \ e^{-r\times h}\times\big
 $$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 - The three month interest rate is r = 0.0483 and the dividend yield around δ = 0.0191.
 - The implied volatility that exactly prices the S&P 500 put option is σ = 0.10366
-- The value of the corresponding American Option is pA = 0.0529, a little lower than the market
-value.
+- The value of the corresponding American Option is pA = 0.0529, a little lower than the market value.
 
 ## MULTI STEP TREE: DOES IT WORK? BINOMIAL TREE MODEL
 
