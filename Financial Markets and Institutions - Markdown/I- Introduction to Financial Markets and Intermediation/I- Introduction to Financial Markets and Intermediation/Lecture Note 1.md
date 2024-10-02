@@ -59,10 +59,10 @@ An unlevered firm will choose Project 1 1 2. **What about a firm with debt with 
 The fixed payment of $600 is a sunk cost. If the firm is going to default,  then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,  or zero if the firm value is less than 600.
 Contingent cash flows to equity when debt of $600 is in place
 
-| Project   | Value if D   | Value if P     | Expected Value   |
-|-----------|--------------|----------------|------------------|
-| 1         | 0            | 1500-600 = 900 | 450              |
-| 2         | 0            | 1551-600 = 951 | 475.5            |
+| Project | Value if D | Value if P     | Expected Value |
+| ------- | ---------- | -------------- | -------------- |
+| 1       | 0          | 1500-600 = 900 | 450            |
+| 2       | 0          | 1551-600 = 951 | 475.5          |
 
 An owner-managed firm with debt of 600 in place will choose project 2,  despite its negative net present value,  because the "piece of the action" that goes to the equity is worth more than with project 1. Face value of 600 exceeds the debt capacity of the firm,  because it removes incentives for proper investment. What is the debt capacity of the firm? What is the highest face value,  F,  that the borrower prefers project 1?
 The borrower's equity payoff from Project 1 with debt of face F is:

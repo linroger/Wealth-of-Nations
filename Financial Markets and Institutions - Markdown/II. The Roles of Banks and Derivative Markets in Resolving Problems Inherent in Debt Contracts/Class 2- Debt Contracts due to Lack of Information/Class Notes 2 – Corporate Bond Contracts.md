@@ -13,10 +13,10 @@ Bonds are defined by legal contracts,  called *indentures*,  which spell out the
 | See:                                          |          |                  |
 | --------------------------------------------- | -------- | ---------------- |
 |                                               | Per Note | Total            |
-| Initial public offering price(1)              | 100%     | $750,   000,   000 |
-| Underwriting discount                         | 0.325%   | $2,   437,   500   |
-| Proceeds,   before expenses,   to MGM MIRAGE(1) | 99.675%  | $747,   562,   500 |
-| (1) Plus accrued interest,   if any            |          |                  |
+| Initial public offering price(1)              | 100%     | $750,    000,    000 |
+| Underwriting discount                         | 0.325%   | $2,    437,    500   |
+| Proceeds,    before expenses,    to MGM MIRAGE(1) | 99.675%  | $747,    562,    500 |
+| (1) Plus accrued interest,    if any            |          |                  |
 
 So the underwriters,  led by Barclays,  BNP,  UBS,  and Wachovia,  share $2.4375MM.
 
