@@ -51,8 +51,7 @@ $$C^{A}(S,K,t,T)\geq\operatorname*{max}(S-K\times e^{-r(T-t)})$$
 - If *S > K* × e−r(T−t) and CA(S, K, t, T) *< S* − K × e−r(T−t), then (a) short stock S, (b)
 buy the option and (c) invest K × e−r(T−t). Today we get S − CA − Ke−r(T−t) > 0.
 - At maturity T,
-- If$S_{T} > K$, exercise the option, obtain ST − K, cash in K from bond investment, and
-pay the short −ST, netting$0.
+- If $S_{T} > K$, exercise the option, obtain ST − K, cash in K from bond investment, and pay the short −ST, netting$0.
 - If$S_{T} < K$, cash in K from bond investment, and pay the short −ST, netting K−ST > 0
 - (Note that the above no arbitrage bound also holds for European options.)
 
@@ -85,8 +84,9 @@ For Calls: Normalized Intrinsic Value$\,=\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\te
 
 - **Question**: Should you ever exercise an American Call option on a non dividend paying stock
 before maturity?
-- **Example**: You own a 3 month Call option with K = 100. Today S = 105. If you exercise,
-you gain$5 = S − K$. If you wait one more day, you may get more as the price may increase.
+- **Example**: You own a 3 month Call option with K = 100. Today S = 105.
+- If you exercise you gain $5 = S − K$. 
+	- If you wait one more day, you may get more as the price may increase.
 But you may also lose.
 - Should you exercise now or wait until maturity?
 - If you sell the option, you get$C(S, K, 0, T)$today. If you exercise, you get$S − K$.

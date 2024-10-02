@@ -199,7 +199,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 8 American Options.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 8 American Options.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 8 American Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md"
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 8 American Options.md"
               }
             }
           }
@@ -354,6 +354,7 @@
   },
   "active": "bdca97d71c628efc",
   "lastOpenFiles": [
+    "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
     "Financial Engineering/10._Other_Topics_in_Quantitative_Finance.md",
     "Advanced Investments/Week 4-Advanced Investments/Week 4-Advanced Investments.md",
     "Advanced Investments/Week 3-Advanced Investments/Week 3-Advanced Investments.md",
@@ -385,7 +386,6 @@
     "svg-cache/d711589292a9ed69de4899702f9ccea6.svg",
     "svg-cache/63444a53f0c27ab27f39b26ea925c688.svg",
     "svg-cache/63444a53f0c27ab27f39b26ea925c688.png",
-    "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class Note 2- Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat.md",
     "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.svg",
     "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.png",
     "svg-cache/471dc0902d67a60723bd1ede322a088f.svg",
