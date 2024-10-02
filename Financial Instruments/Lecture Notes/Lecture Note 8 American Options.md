@@ -26,16 +26,14 @@ linter-yaml-title-alias: LECTURE NOTE 8 AMERICAN OPTIONS
 - In all these cases, not only decide IF we want to exercise the option, but also **WHEN**.
 
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
+1. **American options are at least as valuable as European options**:
+$$C^{A}(S,K,t,T) \geq C^{E}(S,K,t,T)$$
 
-- American options must satisfy some basic no arbitrage bounds.
-1. American options are at least as valuable as European options
-$$C^{A}(S,K,t,T)\geq C^{E}(S,K,t,T);\;\;\;\;\;P^{A}(S,K,t,T)\geq P^{E}(S,K,t,T)$$
-2. American options with longer time to maturity are at least as valuable as the same option with
-shorter time to maturity. If T2 *> T*1
-$$C^{A}(S,K,t,T_{2})\geq C^{A}(S,K,t,T_{1});\;\;\;\;\;P^{A}(S,K,t,T_{2})\geq P^{A}(S,K,t,T_{1})$$
-3. An American option is at least as valuable as its intrinsic value
-$$C^{A}(S,K,t,T)\geq\operatorname*{max}(S-K);\;\;\;\;\;P^{A}(S,K,t,T)\geq\operatorname*{max}(K-S)$$
-
+$$ P^{A}(S,K,t,T) \geq P^{E}(S,K,t,T) $$
+2. **American options with longer time to maturity are at least as valuable as the same option with shorter time to maturity**. If $T_2 > T_1$: $$C^{A}(S,K,t,T_2) \geq C^{A}(S,K,t,T_1)$$
+$$P^{A}(S,K,t,T_2) \geq P^{A}(S,K,t,T_1) $$
+3. **An American option is at least as valuable as its intrinsic value**:$$C^{A}(S,K,t,T) \geq \max(S - K, 0); $$$$ P^{A}(S,K,t,T) \geq \max(K - S, 0)$$
+4. **An American Call option on non-dividend-paying stocks** has the following bound: $$C^{A}(S,K,t,T) \geq \max(S - K \times e^{-r(T-t)}, 0)$$
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
 
 4. An American Call option on a non dividend paying stocks has
