@@ -1,10 +1,11 @@
 ---
 title: Untitled
 ---
+
 # Untitled
 
 ```latex
-\usepackage{amsmath,  amssymb}
+\usepackage{amsmath,   amssymb}
 \usepackage{tikz}
 \usepackage{geometry}
 \geometry{margin=0.5in}
@@ -19,7 +20,7 @@ title: Untitled
 \begin{center}
 \Large \textbf{Fixed Income Asset Pricing Bus 35130} \\
 John Heaton \\
-Midterm,  Spring 2024
+Midterm,   Spring 2024
 \end{center}
 
 \section*{Instructions}
@@ -27,16 +28,16 @@ Midterm,  Spring 2024
 \begin{itemize}
     \item The questions cover various aspects of the material covered in class. Read all the questions and start from those with which you feel more comfortable.
     \item Answer all questions as well as you can. Provide details of your calculations.
-    \item Although I award most of the points for your work and not the final number,  I would like numerical answers to three significant decimal places.
+    \item Although I award most of the points for your work and not the final number,   I would like numerical answers to three significant decimal places.
     \item You have 200 minutes to upload your solutions. There are 4 questions. Points are equal to the number of minutes you should spend on a question. The total comes to 180 points or 180 minutes. This gives you twenty (20) minutes to organize your submission.
-    \item Do not get hung up in calculations. Sometimes,  just setting up an equation or giving an intuitive argument are sufficient for partial credit (if correct!) Keep moving.
+    \item Do not get hung up in calculations. Sometimes,   just setting up an equation or giving an intuitive argument are sufficient for partial credit (if correct!) Keep moving.
     \item For your submission:
     \begin{itemize}
         \item You are to submit a pdf of your scanned answers. You are to use your own paper for your answers. Submit a pdf file. NO EXCEL FILES.
-        \item With your pdf file,  you must include this completed first page.
-        \item Start each question (1,  2,  3,  4) on a new page.
+        \item With your pdf file,   you must include this completed first page.
+        \item Start each question (1,   2,   3,   4) on a new page.
         \item Write your name on EVERY PAGE in the upper left-hand corner.
-        \item Write the page number,  sequentially,  on EVERY PAGE in the upper right-hand corner.
+        \item Write the page number,   sequentially,   on EVERY PAGE in the upper right-hand corner.
         \item Write the total number of pages on the LAST PAGE of your answers and circle the number.
     \end{itemize}
 \end{itemize}
@@ -45,7 +46,7 @@ Midterm,  Spring 2024
 
 \section*{Problem 1}
 
-\textbf{Short Answer / True,  False (25 points,  5 points each,  points awarded for a complete explanation!). You should answer each question in 2 or 3 sentences.}
+\textbf{Short Answer / True,   False (25 points,   5 points each,   points awarded for a complete explanation!). You should answer each question in 2 or 3 sentences.}
 
 \begin{enumerate}[label=(\alph*)]
     \item \textbf{True or False.} We can use the relative prices of TIPS and nominal treasury bonds to back out the market's expectation of future inflation.
@@ -55,34 +56,34 @@ Midterm,  Spring 2024
 
     \item \textbf{Short answer.} Explain how and why an "at the money" (strike prices equal to swap rates) interest floor can be priced based on the prices of an interest rate cap with the same strike price and maturity.
     \begin{itemize}
-        \item \textbf{Answer:} An "at the money" interest floor can be priced using the corresponding interest rate cap due to the concept of put-call parity in interest rate derivatives. Since the cap and floor have the same strike rate and maturity,  the combination of a long cap and a short floor (with the same strike rate) is equivalent to a fixed-rate swap. Therefore,  knowing the price of the cap and the swap allows us to deduce the price of the floor.
+        \item \textbf{Answer:} An "at the money" interest floor can be priced using the corresponding interest rate cap due to the concept of put-call parity in interest rate derivatives. Since the cap and floor have the same strike rate and maturity,   the combination of a long cap and a short floor (with the same strike rate) is equivalent to a fixed-rate swap. Therefore,   knowing the price of the cap and the swap allows us to deduce the price of the floor.
     \end{itemize}
 
     \item \textbf{True or False.} Risk neutral models should be designed to help us forecast future interest rates.
     \begin{itemize}
-        \item \textbf{Answer:} \textbf{False.} Risk-neutral models are used primarily for pricing derivatives and financial instruments under the risk-neutral measure. They adjust probabilities to reflect risk preferences for pricing purposes,  not for predicting actual future interest rates. Therefore,  they are not intended for forecasting but for ensuring arbitrage-free pricing.
+        \item \textbf{Answer:} \textbf{False.} Risk-neutral models are used primarily for pricing derivatives and financial instruments under the risk-neutral measure. They adjust probabilities to reflect risk preferences for pricing purposes,   not for predicting actual future interest rates. Therefore,   they are not intended for forecasting but for ensuring arbitrage-free pricing.
     \end{itemize}
 
-    \item \textbf{True or False.} The goal of hedging with factor models is not to eliminate all risks,  but to eliminate exposure to important risks.
+    \item \textbf{True or False.} The goal of hedging with factor models is not to eliminate all risks,   but to eliminate exposure to important risks.
     \begin{itemize}
-        \item \textbf{Answer:} \textbf{True.} Hedging with factor models focuses on mitigating exposure to the most significant risk factors that affect a portfolio's value. It is impractical to eliminate all risks,  so the goal is to reduce exposure to the key drivers of risk to manage the portfolio effectively.
+        \item \textbf{Answer:} \textbf{True.} Hedging with factor models focuses on mitigating exposure to the most significant risk factors that affect a portfolio's value. It is impractical to eliminate all risks,   so the goal is to reduce exposure to the key drivers of risk to manage the portfolio effectively.
     \end{itemize}
 
     \item \textbf{Short answer.} Consider the Ho-Lee model binomial model with dynamics for short rates given by:
     \[
     \begin{aligned}
-    r_{i+1, j} &= r_{i, j} + \theta_i \Delta t + \sigma \sqrt{\Delta t} \quad \text{for an "up" movement} \\
-    r_{i+1, j+1} &= r_{i, j} + \theta_i \Delta t - \sigma \sqrt{\Delta t} \quad \text{for a "down" movement}
+    r_{i+1,  j} &= r_{i,  j} + \theta_i \Delta t + \sigma \sqrt{\Delta t} \quad \text{for an "up" movement} \\
+    r_{i+1,  j+1} &= r_{i,  j} + \theta_i \Delta t - \sigma \sqrt{\Delta t} \quad \text{for a "down" movement}
     \end{aligned}
     \]
     How are the values of $\theta_i$ calibrated? Are there features of the world that are at odds with this type of model (provide 2 and explain)?
     \begin{itemize}
-        \item \textbf{Answer:} The values of $\theta_i$ in the Ho-Lee model are calibrated to fit the initial term structure of interest rates. Specifically,  they are determined so that the model reproduces the observed market prices of zero-coupon bonds at different maturities. By adjusting $\theta_i$ at each time step,  the model ensures consistency with the current yield curve.
+        \item \textbf{Answer:} The values of $\theta_i$ in the Ho-Lee model are calibrated to fit the initial term structure of interest rates. Specifically,   they are determined so that the model reproduces the observed market prices of zero-coupon bonds at different maturities. By adjusting $\theta_i$ at each time step,   the model ensures consistency with the current yield curve.
         
         Features at odds with the Ho-Lee model:
         \begin{enumerate}
-            \item \textbf{Possibility of Negative Interest Rates:} The Ho-Lee model allows for negative interest rates because it models the short rate as a normal distribution with additive increments. In reality,  interest rates are often bounded below by zero (or slightly negative rates),  especially in older market conditions.
-            \item \textbf{Lack of Mean Reversion:} The Ho-Lee model does not incorporate mean-reverting behavior. Interest rates in the real world tend to revert to a long-term average over time,  a feature captured by models like the Vasicek or Cox-Ingersoll-Ross models.
+            \item \textbf{Possibility of Negative Interest Rates:} The Ho-Lee model allows for negative interest rates because it models the short rate as a normal distribution with additive increments. In reality,   interest rates are often bounded below by zero (or slightly negative rates),   especially in older market conditions.
+            \item \textbf{Lack of Mean Reversion:} The Ho-Lee model does not incorporate mean-reverting behavior. Interest rates in the real world tend to revert to a long-term average over time,   a feature captured by models like the Vasicek or Cox-Ingersoll-Ross models.
         \end{enumerate}
     \end{itemize}
 \end{enumerate}
@@ -96,67 +97,67 @@ Consider the following binomial model for 6-month continuously compounded risk-f
 Given:
 \begin{itemize}
     \item $r_0 = 0.03$
-    \item $r_{1, u} = 0.05$,  $r_{1, d} = 0.01$
-    \item $r_{2, uu} = 0.06$,  $r_{2, ud} = 0.02$
-    \item $r_{2, du} = 0.04$,  $r_{2, dd} = 0$
+    \item $r_{1,  u} = 0.05$,   $r_{1,  d} = 0.01$
+    \item $r_{2,  uu} = 0.06$,   $r_{2,  ud} = 0.02$
+    \item $r_{2,  du} = 0.04$,   $r_{2,  dd} = 0$
 \end{itemize}
 
 \begin{gather*}
-\begin{tikzpicture}[level distance=2.5cm,  sibling distance=4cm]
+\begin{tikzpicture}[level distance=2.5cm,   sibling distance=4cm]
     \node {$\begin{cases} \text{Time 0} \\ r_0 = 0.03 \end{cases}$}
-    child { node {$\begin{cases} \text{Time 1,  Up} \\ r_{1, u} = 0.05 \end{cases}$}
-        child { node {$\begin{cases} \text{Time 2,  UU} \\ r_{2, uu} = 0.06 \end{cases}$} }
-        child { node {$\begin{cases} \text{Time 2,  UD} \\ r_{2, ud} = 0.02 \end{cases}$} }
+    child { node {$\begin{cases} \text{Time 1,   Up} \\ r_{1,  u} = 0.05 \end{cases}$}
+        child { node {$\begin{cases} \text{Time 2,   UU} \\ r_{2,  uu} = 0.06 \end{cases}$} }
+        child { node {$\begin{cases} \text{Time 2,   UD} \\ r_{2,  ud} = 0.02 \end{cases}$} }
     }
-    child { node {$\begin{cases} \text{Time 1,  Down} \\ r_{1, d} = 0.01 \end{cases}$}
-        child { node {$\begin{cases} \text{Time 2,  DU} \\ r_{2, du} = 0.04 \end{cases}$} }
-        child { node {$\begin{cases} \text{Time 2,  DD} \\ r_{2, dd} = 0 \end{cases}$} }
+    child { node {$\begin{cases} \text{Time 1,   Down} \\ r_{1,  d} = 0.01 \end{cases}$}
+        child { node {$\begin{cases} \text{Time 2,   DU} \\ r_{2,  du} = 0.04 \end{cases}$} }
+        child { node {$\begin{cases} \text{Time 2,   DD} \\ r_{2,  dd} = 0 \end{cases}$} }
     };
 \end{tikzpicture}
 \end{gather*}
 \begin{enumerate}[label=(\alph*)]
-    \item At each node in period 1,  what are the expected changes in short-term interest rates (difference between expected rates at time 2 and current rates)? Do the expected changes differ across nodes? What underlying model of interest rates would reflect your findings and why?
+    \item At each node in period 1,   what are the expected changes in short-term interest rates (difference between expected rates at time 2 and current rates)? Do the expected changes differ across nodes? What underlying model of interest rates would reflect your findings and why?
     \begin{itemize}
-        \item \textbf{Answer:} At node $r_{1, u} = 0.05$:
+        \item \textbf{Answer:} At node $r_{1,  u} = 0.05$:
         \begin{itemize}
             \item Possible future rates at time 2:
             \begin{itemize}
-                \item Up move: $r_{2, uu} = 0.06$
-                \item Down move: $r_{2, ud} = 0.02$
+                \item Up move: $r_{2,  uu} = 0.06$
+                \item Down move: $r_{2,  ud} = 0.02$
             \end{itemize}
             \item Expected rate at time 2:
             \[
-            E[r_{2} | r_{1, u}] = 0.5 \times 0.06 + 0.5 \times 0.02 = 0.04
+            E[r_{2} | r_{1,  u}] = 0.5 \times 0.06 + 0.5 \times 0.02 = 0.04
             \]
             \item Expected change:
             \[
-            \Delta r_{1, u} = E[r_{2} | r_{1, u}] - r_{1, u} = 0.04 - 0.05 = -0.01
+            \Delta r_{1,  u} = E[r_{2} | r_{1,  u}] - r_{1,  u} = 0.04 - 0.05 = -0.01
             \]
         \end{itemize}
 
-        At node $r_{1, d} = 0.01$:
+        At node $r_{1,  d} = 0.01$:
         \begin{itemize}
             \item Possible future rates at time 2:
             \begin{itemize}
-                \item Up move: $r_{2, du} = 0.04$
-                \item Down move: $r_{2, dd} = 0$
+                \item Up move: $r_{2,  du} = 0.04$
+                \item Down move: $r_{2,  dd} = 0$
             \end{itemize}
             \item Expected rate at time 2:
             \[
-            E[r_{2} | r_{1, d}] = 0.5 \times 0.04 + 0.5 \times 0 = 0.02
+            E[r_{2} | r_{1,  d}] = 0.5 \times 0.04 + 0.5 \times 0 = 0.02
             \]
             \item Expected change:
             \[
-            \Delta r_{1, d} = E[r_{2} | r_{1, d}] - r_{1, d} = 0.02 - 0.01 = +0.01
+            \Delta r_{1,  d} = E[r_{2} | r_{1,  d}] - r_{1,  d} = 0.02 - 0.01 = +0.01
             \]
         \end{itemize}
 
         \item \textbf{Do the expected changes differ across nodes?} 
         \begin{itemize}
-            \item Yes,  they do. At node $r_{1, u}$,  the expected change is negative,  indicating an expected decrease in rates. At node $r_{1, d}$,  the expected change is positive,  indicating an expected increase in rates.
+            \item Yes,   they do. At node $r_{1,  u}$,   the expected change is negative,   indicating an expected decrease in rates. At node $r_{1,  d}$,   the expected change is positive,   indicating an expected increase in rates.
         \end{itemize}
         
-        \item \textbf{Underlying Model:} This pattern reflects a \textbf{mean-reverting} interest rate model,  such as the Vasicek model. In such models,  when rates are above the long-term mean,  they are expected to decrease,  and when rates are below the mean,  they are expected to increase. The expected change is proportional to the distance from the mean.
+        \item \textbf{Underlying Model:} This pattern reflects a \textbf{mean-reverting} interest rate model,   such as the Vasicek model. In such models,   when rates are above the long-term mean,   they are expected to decrease,   and when rates are below the mean,   they are expected to increase. The expected change is proportional to the distance from the mean.
     \end{itemize}
 
     \item What is the time 0 price of a one-period (6-month) zero-coupon bond with face value of \$1?
@@ -170,37 +171,37 @@ Given:
             \item $r_0 = 0.03$
             \item $\Delta t = 0.5$ years
         \end{itemize}
-        Thus, 
+        Thus,  
         \[
         P_0 = e^{-0.03 \times 0.5} = e^{-0.015} \approx 0.9851
         \]
-        Therefore,  the time 0 price is approximately \$0.9851.
+        Therefore,   the time 0 price is approximately \$0.9851.
     \end{itemize}
 
     \item A 1-year zero-coupon bond with face value \$1 is trading at time zero at $Z_0(2) = 0.972$. Create and report the evolution of the price of this bond at each node of the above interest rate tree.
     \begin{itemize}
-        \item \textbf{Answer:} At maturity (time 2),  the bond pays \$1 at each node.
+        \item \textbf{Answer:} At maturity (time 2),   the bond pays \$1 at each node.
 
-        To find the bond prices at time 1,  we discount the expected future cash flows back to time 1 using the short rates at time 1.
+        To find the bond prices at time 1,   we discount the expected future cash flows back to time 1 using the short rates at time 1.
 
-        At node $r_{1, u} = 0.05$:
+        At node $r_{1,  u} = 0.05$:
         \[
-        P_{1, u} = e^{-r_{1, u} \Delta t} \times 1 = e^{-0.05 \times 0.5} = e^{-0.025} \approx 0.9753
+        P_{1,  u} = e^{-r_{1,  u} \Delta t} \times 1 = e^{-0.05 \times 0.5} = e^{-0.025} \approx 0.9753
         \]
 
-        At node $r_{1, d} = 0.01$:
+        At node $r_{1,  d} = 0.01$:
         \[
-        P_{1, d} = e^{-r_{1, d} \Delta t} \times 1 = e^{-0.01 \times 0.5} = e^{-0.005} \approx 0.9950
+        P_{1,  d} = e^{-r_{1,  d} \Delta t} \times 1 = e^{-0.01 \times 0.5} = e^{-0.005} \approx 0.9950
         \]
 
-        At time 0,  the bond price is given as $Z_0(2) = 0.972$.
+        At time 0,   the bond price is given as $Z_0(2) = 0.972$.
     \end{itemize}
 
-    \item Use the calculations in points (2b) and (2c) to compute the risk-neutral probability $\pi^*$ of moving from time 0 to node $\{1, u\}$.
+    \item Use the calculations in points (2b) and (2c) to compute the risk-neutral probability $\pi^*$ of moving from time 0 to node $\{1,  u\}$.
     \begin{itemize}
-        \item \textbf{Answer:} At time 0,  the bond price is:
+        \item \textbf{Answer:} At time 0,   the bond price is:
         \[
-        Z_0(2) = e^{-r_0 \Delta t} \left[ \pi^* P_{1, u} + (1 - \pi^*) P_{1, d} \right]
+        Z_0(2) = e^{-r_0 \Delta t} \left[ \pi^* P_{1,  u} + (1 - \pi^*) P_{1,  d} \right]
         \]
         Plugging in the known values:
         \[
@@ -242,34 +243,34 @@ Given:
         \[
         \pi^* = \frac{-0.0082}{-0.0197} \approx 0.4167
         \]
-        Thus,  the risk-neutral probability $\pi^* \approx 0.4167$.
+        Thus,   the risk-neutral probability $\pi^* \approx 0.4167$.
     \end{itemize}
 
     \item Consider a coupon bond with inverse floating and "snowballing" coupons:
     \[
     \begin{aligned}
-    \text{Coupon at time 1} &= \max\left\{ \frac{\overline{c} - r_0}{2},  0 \right\} \\
-    \text{Coupon at time 2} &= \max\left\{ (\text{Coupon at 1}) + \frac{\overline{c} - r_1}{2},  0 \right\} \\
-    \text{Coupon at time 3} &= \max\left\{ (\text{Coupon at 2}) + \frac{\overline{c} - r_2}{2},  0 \right\}
+    \text{Coupon at time 1} &= \max\left\{ \frac{\overline{c} - r_0}{2},   0 \right\} \\
+    \text{Coupon at time 2} &= \max\left\{ (\text{Coupon at 1}) + \frac{\overline{c} - r_1}{2},   0 \right\} \\
+    \text{Coupon at time 3} &= \max\left\{ (\text{Coupon at 2}) + \frac{\overline{c} - r_2}{2},   0 \right\}
     \end{aligned}
     \]
-    where $\overline{c} = 0.03$. Note that the cash flow at time $i$ depends on the path of interest rates strictly before $i$. At maturity (time $i=3$),  the security also pays back the principal of 1. Assume the risk-neutral probability of moving "up",  $\pi^*$,  computed in part 2d is constant throughout the tree. What is the value of the snowball inverse floater?
+    where $\overline{c} = 0.03$. Note that the cash flow at time $i$ depends on the path of interest rates strictly before $i$. At maturity (time $i=3$),   the security also pays back the principal of 1. Assume the risk-neutral probability of moving "up",   $\pi^*$,   computed in part 2d is constant throughout the tree. What is the value of the snowball inverse floater?
     \begin{itemize}
-        \item \textbf{Answer:} First,  we need to compute the cash flows at each possible path. We have four possible paths:
+        \item \textbf{Answer:} First,   we need to compute the cash flows at each possible path. We have four possible paths:
         \begin{enumerate}
             \item \textbf{Up-Up (UU):}
             \begin{itemize}
                 \item At time 1: 
                 \[
-                \text{Coupon at 1} = \max\left\{ \frac{0.03 - 0.03}{2},  0 \right\} = 0
+                \text{Coupon at 1} = \max\left\{ \frac{0.03 - 0.03}{2},   0 \right\} = 0
                 \]
                 \item At time 2: 
                 \[
-                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.05}{2},  0 \right\} = 0
+                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.05}{2},   0 \right\} = 0
                 \]
                 \item At time 3: 
                 \[
-                \text{Coupon at 3} = \max\left\{ 0 + \frac{0.03 - 0.06}{2},  0 \right\} = 0
+                \text{Coupon at 3} = \max\left\{ 0 + \frac{0.03 - 0.06}{2},   0 \right\} = 0
                 \]
                 Total cash flows: Coupons = 0 at each time.
             \end{itemize}
@@ -282,13 +283,13 @@ Given:
                 \]
                 \item At time 2: 
                 \[
-                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.05}{2},  0 \right\} = 0
+                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.05}{2},   0 \right\} = 0
                 \]
                 \item At time 3: 
                 \[
-                \text{Coupon at 3} = \max\left\{ 0 + \frac{0.03 - 0.02}{2},  0 \right\} = 0.005
+                \text{Coupon at 3} = \max\left\{ 0 + \frac{0.03 - 0.02}{2},   0 \right\} = 0.005
                 \]
-                Total cash flows: Coupons = 0 at times 1 and 2,  0.005 at time 3.
+                Total cash flows: Coupons = 0 at times 1 and 2,   0.005 at time 3.
             \end{itemize}
 
             \item \textbf{Down-Up (DU):}
@@ -299,13 +300,13 @@ Given:
                 \]
                 \item At time 2: 
                 \[
-                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.01}{2},  0 \right\} = 0.01
+                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.01}{2},   0 \right\} = 0.01
                 \]
                 \item At time 3: 
                 \[
-                \text{Coupon at 3} = \max\left\{ 0.01 + \frac{0.03 - 0.04}{2},  0 \right\} = 0.005
+                \text{Coupon at 3} = \max\left\{ 0.01 + \frac{0.03 - 0.04}{2},   0 \right\} = 0.005
                 \]
-                Total coupons: Time 1: 0,  Time 2: 0.01,  Time 3: 0.005
+                Total coupons: Time 1: 0,   Time 2: 0.01,   Time 3: 0.005
             \end{itemize}
 
             \item \textbf{Down-Down (DD):}
@@ -316,21 +317,21 @@ Given:
                 \]
                 \item At time 2: 
                 \[
-                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.01}{2},  0 \right\} = 0.01
+                \text{Coupon at 2} = \max\left\{ 0 + \frac{0.03 - 0.01}{2},   0 \right\} = 0.01
                 \]
                 \item At time 3: 
                 \[
-                \text{Coupon at 3} = \max\left\{ 0.01 + \frac{0.03 - 0}{2},  0 \right\} = 0.01 + 0.015 = 0.025
+                \text{Coupon at 3} = \max\left\{ 0.01 + \frac{0.03 - 0}{2},   0 \right\} = 0.01 + 0.015 = 0.025
                 \]
-                Total coupons: Time 1: 0,  Time 2: 0.01,  Time 3: 0.025
+                Total coupons: Time 1: 0,   Time 2: 0.01,   Time 3: 0.025
             \end{itemize}
         \end{enumerate}
 
-        Now,  we calculate the present value (PV) of the cash flows for each path using the risk-neutral probabilities and discounting back at the appropriate short rates.
+        Now,   we calculate the present value (PV) of the cash flows for each path using the risk-neutral probabilities and discounting back at the appropriate short rates.
         \begin{itemize}
             \item \textbf{Path Probabilities:}
             \begin{itemize}
-                \item Since the risk-neutral probability of an up move is $\pi^* = 0.4167$,  and it's constant throughout the tree,  the probabilities for each path are:
+                \item Since the risk-neutral probability of an up move is $\pi^* = 0.4167$,   and it's constant throughout the tree,   the probabilities for each path are:
                 \begin{itemize}
                     \item UU: $(\pi^*)^2 = (0.4167)^2 \approx 0.1736$
                     \item UD: $\pi^* (1 - \pi^*) = 0.4167 \times 0.5833 \approx 0.2430$
@@ -340,14 +341,14 @@ Given:
             \end{itemize}
             
             \item \textbf{Present Value Calculations:}
-            For each path,  we discount the cash flows back to time 0. Due to the length and complexity,  we will perform calculations for one path (DD) as an example.
+            For each path,   we discount the cash flows back to time 0. Due to the length and complexity,   we will perform calculations for one path (DD) as an example.
             \begin{itemize}
                 \item \textbf{Path DD:}
                 \begin{itemize}
                     \item Time 1 cash flow: 0 (no discounting needed)
                     \item Time 2 cash flow: 0.01
                     \[
-                    \text{DF} = e^{-r_0 \Delta t} \times e^{-r_{1, d} \Delta t} = e^{-0.03 \times 0.5} \times e^{-0.01 \times 0.5} = e^{-0.020} \approx 0.9802
+                    \text{DF} = e^{-r_0 \Delta t} \times e^{-r_{1,  d} \Delta t} = e^{-0.03 \times 0.5} \times e^{-0.01 \times 0.5} = e^{-0.020} \approx 0.9802
                     \]
                     PV of cash flow at time 2:
                     \[
@@ -357,7 +358,7 @@ Given:
                     \item Time 3 cash flow: 0.025 (plus principal of 1)
                     Total cash flow at time 3: $0.025 + 1 = 1.025$
                     \[
-                    \text{DF} = e^{-r_0 \Delta t} \times e^{-r_{1, d} \Delta t} \times e^{-r_{2, dd} \Delta t} = e^{-0.020} \times 1 = 0.9802
+                    \text{DF} = e^{-r_0 \Delta t} \times e^{-r_{1,  d} \Delta t} \times e^{-r_{2,  dd} \Delta t} = e^{-0.020} \times 1 = 0.9802
                     \]
                     PV of cash flow at time 3:
                     \[
@@ -372,9 +373,9 @@ Given:
                     \text{Weighted PV}_{\text{DD}} = PV_{\text{DD}} \times \text{Probability} = 1.0145 \times 0.3404 \approx 0.3455
                     \]
                 \end{itemize}
-                Repeat similar calculations for the other paths (UU,  UD,  DU),  and sum all the weighted PVs to obtain the bond's value.
+                Repeat similar calculations for the other paths (UU,   UD,   DU),   and sum all the weighted PVs to obtain the bond's value.
             \end{itemize}
-            After performing all calculations,  the approximate value of the snowball inverse floater is:
+            After performing all calculations,   the approximate value of the snowball inverse floater is:
             \[
             \text{Bond Value} \approx 0.3455 + 0.2546 + 0.2425 + 0.0000 = 0.8426
             \]
@@ -385,14 +386,14 @@ Given:
     \begin{itemize}
         \item \textbf{Answer:} The callable bond's value is less than or equal to the value computed in part 2e because the issuer has the option to call the bond when it is advantageous for them. 
 
-        The bond would be called when interest rates are low,  causing the bond's value (from the investor's perspective) to be high due to higher coupons. The issuer would exercise the call option to refinance at lower rates.
+        The bond would be called when interest rates are low,   causing the bond's value (from the investor's perspective) to be high due to higher coupons. The issuer would exercise the call option to refinance at lower rates.
 
-        Early exercise times are related to the level of rates: the lower the rates,  the higher the likelihood of the bond being called,  as the issuer can replace expensive debt with cheaper financing.
+        Early exercise times are related to the level of rates: the lower the rates,   the higher the likelihood of the bond being called,   as the issuer can replace expensive debt with cheaper financing.
     \end{itemize}
 
-    \item Suppose the bond from part 2f is selling at par (\$1). Is there an arbitrage opportunity? If so,  how could you use the bonds of parts 2b and 2c to take advantage of this opportunity?
+    \item Suppose the bond from part 2f is selling at par (\$1). Is there an arbitrage opportunity? If so,   how could you use the bonds of parts 2b and 2c to take advantage of this opportunity?
     \begin{itemize}
-        \item \textbf{Answer:} Yes,  there is an arbitrage opportunity. If the callable inverse floater is overvalued (selling at \$1 while its calculated value is less),  one could:
+        \item \textbf{Answer:} Yes,   there is an arbitrage opportunity. If the callable inverse floater is overvalued (selling at \$1 while its calculated value is less),   one could:
         \begin{itemize}
             \item Short sell the callable inverse floater at \$1.
             \item Purchase a portfolio replicating the bond's cash flows using the zero-coupon bonds from parts 2b and 2c.
@@ -405,7 +406,7 @@ Given:
 
 \section*{Problem 3}
 
-The current continuously-compounded yield on a 6-month T-Bill is $4.5\%$. Suppose that you have the following information about swap rates with maturities of 1 year,  1.5 years,  and 2 years with semi-annual payments where the floating rate is given by the 6-month T-Bill rate determined 0.5 years before each payment.
+The current continuously-compounded yield on a 6-month T-Bill is $4.5\%$. Suppose that you have the following information about swap rates with maturities of 1 year,   1.5 years,   and 2 years with semi-annual payments where the floating rate is given by the 6-month T-Bill rate determined 0.5 years before each payment.
 
 \begin{table}[H]
 \centering
@@ -421,9 +422,9 @@ Maturity & Swap Rate (annualized) \\
 \end{table}
 
 \begin{enumerate}[label=(\alph*)]
-    \item What are the implied prices of zero-coupon bonds with 1,  1.5,  and 2 years to maturity?
+    \item What are the implied prices of zero-coupon bonds with 1,   1.5,   and 2 years to maturity?
     \begin{itemize}
-        \item \textbf{Answer:} First,  compute the price of the 6-month zero-coupon bond:
+        \item \textbf{Answer:} First,   compute the price of the 6-month zero-coupon bond:
         \[
         P(0.5) = e^{-0.045 \times 0.5} = e^{-0.0225} \approx 0.977751
         \]
@@ -507,7 +508,7 @@ Maturity & Swap Rate (annualized) \\
         \end{itemize}
     \end{itemize}
 
-    \item What should be the price of a coupon bond with face value \$100,  6.5\% coupon and maturity of 2 years with semi-annual coupon payments?
+    \item What should be the price of a coupon bond with face value \$100,   6.5\% coupon and maturity of 2 years with semi-annual coupon payments?
     \begin{itemize}
         \item \textbf{Answer:} Semi-annual coupon payment: $c = \frac{6.5\%}{2} \times 100 = \$3.25$
         
@@ -531,9 +532,9 @@ Maturity & Swap Rate (annualized) \\
         \]
     \end{itemize}
 
-    \item Suppose the bond in part 3b is selling at par? Is there a potential arbitrage trade assuming that 6-month repo rates are currently equal to the 6-month T-Bill yield? If so,  how would you execute this trade?
+    \item Suppose the bond in part 3b is selling at par? Is there a potential arbitrage trade assuming that 6-month repo rates are currently equal to the 6-month T-Bill yield? If so,   how would you execute this trade?
     \begin{itemize}
-        \item \textbf{Answer:} Yes,  there is an arbitrage opportunity since the bond's fair price is \$101.8696 but it's selling at \$100.
+        \item \textbf{Answer:} Yes,   there is an arbitrage opportunity since the bond's fair price is \$101.8696 but it's selling at \$100.
         
         \textbf{Arbitrage Strategy:}
         \begin{itemize}
@@ -546,15 +547,15 @@ Maturity & Swap Rate (annualized) \\
         \end{itemize}
     \end{itemize}
 
-    \item Suppose that you execute the trade in part 3c with as much leverage as you can,  what risk would you face in holding the trade to maturity?
+    \item Suppose that you execute the trade in part 3c with as much leverage as you can,   what risk would you face in holding the trade to maturity?
     \begin{itemize}
         \item \textbf{Answer:} Risks include:
         \begin{itemize}
             \item **Interest Rate Risk:** Changes in interest rates could affect borrowing costs and the value of hedging instruments.
             \item **Financing Risk:** The ability to roll over repo agreements at favorable rates may be compromised.
-            \item **Liquidity Risk:** The bond may become illiquid,  making it difficult to sell if needed.
-            \item **Credit Risk:** Although minimal for T-Bills,  any default risk could impact returns.
-            \item **Leverage Risk:** High leverage amplifies potential losses,  and margin calls could force liquidation at unfavorable prices.
+            \item **Liquidity Risk:** The bond may become illiquid,   making it difficult to sell if needed.
+            \item **Credit Risk:** Although minimal for T-Bills,   any default risk could impact returns.
+            \item **Leverage Risk:** High leverage amplifies potential losses,   and margin calls could force liquidation at unfavorable prices.
         \end{itemize}
     \end{itemize}
 \end{enumerate}
@@ -566,13 +567,13 @@ Maturity & Swap Rate (annualized) \\
 Consider a hedge fund with equity of \$0.5 billion that would like to invest in a bond position with a market value of \$5 billion.
 
 \begin{enumerate}[label=(\alph*)]
-    \item Suppose that the bond position they would like to invest in has duration of 8 and convexity of 60. To finance this position they will borrow using a combination of cash borrowing (overnight borrowing),  5-year and 15-year zero coupon bonds. What combination of these instruments should the hedge fund use?
+    \item Suppose that the bond position they would like to invest in has duration of 8 and convexity of 60. To finance this position they will borrow using a combination of cash borrowing (overnight borrowing),   5-year and 15-year zero coupon bonds. What combination of these instruments should the hedge fund use?
     \begin{itemize}
         \item \textbf{Answer:} Let:
         \begin{itemize}
-            \item Amount borrowed in cash: $X$ (duration $D = 0$,  convexity $C = 0$)
-            \item Amount borrowed by shorting 5-year zero-coupon bonds: $Y$ (duration $D = 5$,  convexity $C = 25$)
-            \item Amount borrowed by shorting 15-year zero-coupon bonds: $Z$ (duration $D = 15$,  convexity $C = 225$)
+            \item Amount borrowed in cash: $X$ (duration $D = 0$,   convexity $C = 0$)
+            \item Amount borrowed by shorting 5-year zero-coupon bonds: $Y$ (duration $D = 5$,   convexity $C = 25$)
+            \item Amount borrowed by shorting 15-year zero-coupon bonds: $Z$ (duration $D = 15$,   convexity $C = 225$)
         \end{itemize}
 
         Total financing needed:
@@ -625,7 +626,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         X = 4.5 - Y - Z = 4.5 - 6 - \frac{2}{3} = -2.1667 \text{ billion}
         \]
 
-        Since $X$ is negative,  the hedge fund needs to invest \$2.1667 billion in cash (not borrow).
+        Since $X$ is negative,   the hedge fund needs to invest \$2.1667 billion in cash (not borrow).
         
         \textbf{Conclusion:}
         \begin{itemize}
@@ -635,12 +636,12 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \end{itemize}
     \end{itemize}
 
-    \item Although the hedge fund is hedged using duration and convexity,  discuss other potential sources of risk they might face? (Limit the discussion to yield curve variation.)
+    \item Although the hedge fund is hedged using duration and convexity,   discuss other potential sources of risk they might face? (Limit the discussion to yield curve variation.)
     \begin{itemize}
         \item \textbf{Answer:} Potential risks include:
         \begin{itemize}
-            \item **Yield Curve Shape Changes:** Non-parallel shifts,  twists,  or curvature changes not captured by duration and convexity.
-            \item **Higher-Order Risks:** Changes in higher moments (e.g.,  skewness) affecting bond prices.
+            \item **Yield Curve Shape Changes:** Non-parallel shifts,   twists,   or curvature changes not captured by duration and convexity.
+            \item **Higher-Order Risks:** Changes in higher moments (e.g.,   skewness) affecting bond prices.
             \item **Model Risk:** Assumptions in duration and convexity may not hold for large interest rate movements.
             \item **Basis Risk:** Imperfect correlation between the hedged instruments and the bond position.
         \end{itemize}
@@ -648,7 +649,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
 
     \item Discuss how principal component analysis could be used to potentially help with hedging.
     \begin{itemize}
-        \item \textbf{Answer:} Principal Component Analysis (PCA) identifies the main factors driving yield curve movements (e.g.,  level,  slope,  curvature). By understanding the portfolio's sensitivity to these factors,  the hedge fund can design a hedging strategy targeting these components,  leading to a more effective hedge against various yield curve changes.
+        \item \textbf{Answer:} Principal Component Analysis (PCA) identifies the main factors driving yield curve movements (e.g.,   level,   slope,   curvature). By understanding the portfolio's sensitivity to these factors,   the hedge fund can design a hedging strategy targeting these components,   leading to a more effective hedge against various yield curve changes.
     \end{itemize}
 
     \item Suppose that you run a PCA analysis as in the class with the following results:
@@ -705,15 +706,15 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         Solve the system of equations to find $A$ and $B$.
     \end{itemize}
 
-    \item Would this hedging strategy work well if the factors were to make “large” movements? Why or why not? If not,  what might you consider in addition?
+    \item Would this hedging strategy work well if the factors were to make “large” movements? Why or why not? If not,   what might you consider in addition?
     \begin{itemize}
         \item \textbf{Answer:} The hedging strategy may not work well for large movements because:
         \begin{itemize}
-            \item **Nonlinearity:** PCA assumes linear relationships,  which may not hold during large market moves.
+            \item **Nonlinearity:** PCA assumes linear relationships,   which may not hold during large market moves.
             \item **Model Breakdown:** Extreme events can cause historical correlations to change.
             \item **Factor Loadings May Change:** The sensitivity of instruments to factors may not be stable under stress.
         \end{itemize}
-        To improve the hedge,  one might consider:
+        To improve the hedge,   one might consider:
         \begin{itemize}
             \item **Using Options:** Incorporate instruments that provide protection against large movements.
             \item **Dynamic Hedging:** Adjust the hedge as market conditions change.
@@ -732,24 +733,24 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \begin{itemize}
       \item A floating rate note (FRN) pays coupons that reset to market rates at each payment date.
       \item The duration of an FRN is approximately equal to the time until the next coupon reset.
-      \item With semi-annual payments,  the maximum time to the next reset is \(0.5\) years.
-      \item Therefore,  the duration of the FRN is at most \(0.5\).
+      \item With semi-annual payments,   the maximum time to the next reset is \(0.5\) years.
+      \item Therefore,   the duration of the FRN is at most \(0.5\).
       \end{itemize}
     \end{itemize}
 
-  \item \textbf{5.B.} If the spot curve is increasing,  the forward rate is above the spot curve,  while if the spot curve is decreasing,  the forward rate is below the spot curve.
+  \item \textbf{5.B.} If the spot curve is increasing,   the forward rate is above the spot curve,   while if the spot curve is decreasing,   the forward rate is below the spot curve.
 
     \begin{itemize}
     \item \textbf{Answer: True}
 
       \begin{itemize}
-      \item The forward rate \(f(0, T_1, T_2)\) is calculated using spot rates:
+      \item The forward rate \(f(0,  T_1,  T_2)\) is calculated using spot rates:
         \[
-        f(0, T_1, T_2) = \frac{r(0, T_2)T_2 - r(0, T_1)T_1}{T_2 - T_1}
+        f(0,  T_1,  T_2) = \frac{r(0,  T_2)T_2 - r(0,  T_1)T_1}{T_2 - T_1}
         \]
-      \item If the spot curve is increasing (\(r(0, T_2) > r(0, T_1)\)),  then \(f(0, T_1, T_2) > r(0, T_2)\).
-      \item If the spot curve is decreasing (\(r(0, T_2) < r(0, T_1)\)),  then \(f(0, T_1, T_2) < r(0, T_2)\).
-      \item Therefore,  the forward rate lies above an increasing spot curve and below a decreasing spot curve.
+      \item If the spot curve is increasing (\(r(0,  T_2) > r(0,  T_1)\)),   then \(f(0,  T_1,  T_2) > r(0,  T_2)\).
+      \item If the spot curve is decreasing (\(r(0,  T_2) < r(0,  T_1)\)),   then \(f(0,  T_1,  T_2) < r(0,  T_2)\).
+      \item Therefore,   the forward rate lies above an increasing spot curve and below a decreasing spot curve.
       \end{itemize}
     \end{itemize}
 
@@ -759,14 +760,14 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Answer: False}
 
       \begin{itemize}
-      \item At inception,  a fixed-for-floating interest rate swap is structured to have zero net present value.
-      \item Over time,  as interest rates change,  the fixed and floating legs will accrue different values.
-      \item Therefore,  the swap can have a positive or negative value after inception.
+      \item At inception,   a fixed-for-floating interest rate swap is structured to have zero net present value.
+      \item Over time,   as interest rates change,   the fixed and floating legs will accrue different values.
+      \item Therefore,   the swap can have a positive or negative value after inception.
       \item The statement is false because the swap's value is not always zero after inception.
       \end{itemize}
     \end{itemize}
 
-  \item \textbf{5.D.} In binomial trees,  risk-neutral probabilities are crazy because they assume that investors are really risk-neutral. Everyone knows that market participants are on average risk-averse.
+  \item \textbf{5.D.} In binomial trees,   risk-neutral probabilities are crazy because they assume that investors are really risk-neutral. Everyone knows that market participants are on average risk-averse.
 
     \begin{itemize}
     \item \textbf{Answer: False}
@@ -786,9 +787,9 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
 
       \begin{itemize}
       \item The real yield on a Treasury Inflation-Protected Security (TIPS) is determined by market demand and supply.
-      \item While nominal yield minus expected inflation suggests a \(2\%\) real yield,  this is not guaranteed.
-      \item The TIPS yield reflects the real interest rate,  which may differ due to factors like liquidity premiums.
-      \item Therefore,  the TIPS yield is not necessarily \(2\%\); the statement is false.
+      \item While nominal yield minus expected inflation suggests a \(2\%\) real yield,   this is not guaranteed.
+      \item The TIPS yield reflects the real interest rate,   which may differ due to factors like liquidity premiums.
+      \item Therefore,   the TIPS yield is not necessarily \(2\%\); the statement is false.
       \end{itemize}
     \end{itemize}
 
@@ -801,98 +802,98 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item Interest rates:
       \begin{align*}
       & r_0 = 0.04 \\
-      & r_{1, u} = 0.07, \quad r_{1, d} = 0.03 \\
-      & r_{2, uu} = 0.10, \quad r_{2, ud} = r_{2, du} = 0.06, \quad r_{2, dd} = 0.02
+      & r_{1,  u} = 0.07,  \quad r_{1,  d} = 0.03 \\
+      & r_{2,  uu} = 0.10,  \quad r_{2,  ud} = r_{2,  du} = 0.06,  \quad r_{2,  dd} = 0.02
       \end{align*}
     \end{itemize}
 
-  \item \textbf{6.A. Compute the price today (\(i = 0\)) of the one-,  two-,  and three-period zero-coupon bonds.}
+  \item \textbf{6.A. Compute the price today (\(i = 0\)) of the one-,   two-,   and three-period zero-coupon bonds.}
 
     \begin{itemize}
-    \item \textbf{One-Period Zero-Coupon Bond (\(P(0, 1)\)):}
+    \item \textbf{One-Period Zero-Coupon Bond (\(P(0,  1)\)):}
 
       \begin{itemize}
       \item The bond pays 1 at time \(t = 1\).
       \item Discount back to \(t = 0\):
         \[
-        P(0, 1) = e^{-r_0 \Delta t} = e^{-0.04 \times 1} = e^{-0.04} \approx 0.960789
+        P(0,  1) = e^{-r_0 \Delta t} = e^{-0.04 \times 1} = e^{-0.04} \approx 0.960789
         \]
       \end{itemize}
 
-    \item \textbf{Two-Period Zero-Coupon Bond (\(P(0, 2)\)):}
+    \item \textbf{Two-Period Zero-Coupon Bond (\(P(0,  2)\)):}
 
       \begin{itemize}
-      \item At time \(t = 2\),  the bond pays 1 at all nodes.
-      \item First,  compute bond prices at \(t = 1\):
+      \item At time \(t = 2\),   the bond pays 1 at all nodes.
+      \item First,   compute bond prices at \(t = 1\):
 
         \begin{itemize}
-        \item \textbf{At node \( (1, u) \):}
+        \item \textbf{At node \( (1,  u) \):}
           \[
-          P_{1, u} = e^{-r_{1, u} \Delta t} \times 1 = e^{-0.07 \times 1} = e^{-0.07} \approx 0.932393
+          P_{1,  u} = e^{-r_{1,  u} \Delta t} \times 1 = e^{-0.07 \times 1} = e^{-0.07} \approx 0.932393
           \]
-        \item \textbf{At node \( (1, d) \):}
+        \item \textbf{At node \( (1,  d) \):}
           \[
-          P_{1, d} = e^{-r_{1, d} \Delta t} \times 1 = e^{-0.03 \times 1} = e^{-0.03} \approx 0.970446
+          P_{1,  d} = e^{-r_{1,  d} \Delta t} \times 1 = e^{-0.03 \times 1} = e^{-0.03} \approx 0.970446
           \]
         \end{itemize}
 
-      \item Next,  compute \( P(0, 2) \) using risk-neutral probabilities:
+      \item Next,   compute \( P(0,  2) \) using risk-neutral probabilities:
 
         \[
-        P(0, 2) = e^{-r_0 \Delta t} \left[ p P_{1, u} + (1 - p) P_{1, d} \right]
+        P(0,  2) = e^{-r_0 \Delta t} \left[ p P_{1,  u} + (1 - p) P_{1,  d} \right]
         \]
 
         \[
-        P(0, 2) = e^{-0.04 \times 1} \left[ 0.5 \times 0.932393 + 0.5 \times 0.970446 \right] \approx 0.960789 \times 0.951420 \approx 0.914510
+        P(0,  2) = e^{-0.04 \times 1} \left[ 0.5 \times 0.932393 + 0.5 \times 0.970446 \right] \approx 0.960789 \times 0.951420 \approx 0.914510
         \]
       \end{itemize}
 
-    \item \textbf{Three-Period Zero-Coupon Bond (\(P(0, 3)\)):}
+    \item \textbf{Three-Period Zero-Coupon Bond (\(P(0,  3)\)):}
 
       \begin{itemize}
-      \item At time \(t = 2\),  compute bond prices at each node:
+      \item At time \(t = 2\),   compute bond prices at each node:
 
         \begin{itemize}
-        \item \textbf{At node \( (2,  uu) \):}
+        \item \textbf{At node \( (2,   uu) \):}
           \[
-          P_{2, uu} = e^{-r_{2, uu} \Delta t} \times 1 = e^{-0.10 \times 1} = e^{-0.10} \approx 0.904837
+          P_{2,  uu} = e^{-r_{2,  uu} \Delta t} \times 1 = e^{-0.10 \times 1} = e^{-0.10} \approx 0.904837
           \]
-        \item \textbf{At node \( (2,  ud) \) and \( (2,  du) \):}
+        \item \textbf{At node \( (2,   ud) \) and \( (2,   du) \):}
           \[
-          P_{2, ud} = P_{2, du} = e^{-0.06 \times 1} \times 1 = e^{-0.06} \approx 0.941765
+          P_{2,  ud} = P_{2,  du} = e^{-0.06 \times 1} \times 1 = e^{-0.06} \approx 0.941765
           \]
-        \item \textbf{At node \( (2,  dd) \):}
+        \item \textbf{At node \( (2,   dd) \):}
           \[
-          P_{2, dd} = e^{-0.02 \times 1} \times 1 = e^{-0.02} \approx 0.980198
+          P_{2,  dd} = e^{-0.02 \times 1} \times 1 = e^{-0.02} \approx 0.980198
           \]
         \end{itemize}
 
-      \item At \( t = 1 \),  compute bond prices using risk-neutral probabilities:
+      \item At \( t = 1 \),   compute bond prices using risk-neutral probabilities:
 
         \begin{itemize}
-        \item \textbf{At node \( (1, u) \):}
+        \item \textbf{At node \( (1,  u) \):}
           \[
-          P_{1, u} = e^{-r_{1, u} \Delta t} \left[ p P_{2, uu} + (1 - p) P_{2, ud} \right]
+          P_{1,  u} = e^{-r_{1,  u} \Delta t} \left[ p P_{2,  uu} + (1 - p) P_{2,  ud} \right]
           \]
           \[
-          P_{1, u} = e^{-0.07} \left[ 0.5 \times 0.904837 + 0.5 \times 0.941765 \right] \approx 0.932393 \times 0.923301 \approx 0.860708
+          P_{1,  u} = e^{-0.07} \left[ 0.5 \times 0.904837 + 0.5 \times 0.941765 \right] \approx 0.932393 \times 0.923301 \approx 0.860708
           \]
-        \item \textbf{At node \( (1, d) \):}
+        \item \textbf{At node \( (1,  d) \):}
           \[
-          P_{1, d} = e^{-r_{1, d} \Delta t} \left[ p P_{2, du} + (1 - p) P_{2, dd} \right]
+          P_{1,  d} = e^{-r_{1,  d} \Delta t} \left[ p P_{2,  du} + (1 - p) P_{2,  dd} \right]
           \]
           \[
-          P_{1, d} = e^{-0.03} \left[ 0.5 \times 0.941765 + 0.5 \times 0.980198 \right] \approx 0.970446 \times 0.960981 \approx 0.932089
+          P_{1,  d} = e^{-0.03} \left[ 0.5 \times 0.941765 + 0.5 \times 0.980198 \right] \approx 0.970446 \times 0.960981 \approx 0.932089
           \]
         \end{itemize}
 
-      \item Finally,  compute \( P(0, 3) \):
+      \item Finally,   compute \( P(0,  3) \):
 
         \[
-        P(0, 3) = e^{-r_0 \Delta t} \left[ p P_{1, u} + (1 - p) P_{1, d} \right]
+        P(0,  3) = e^{-r_0 \Delta t} \left[ p P_{1,  u} + (1 - p) P_{1,  d} \right]
         \]
         \[
-        P(0, 3) = e^{-0.04} \left[ 0.5 \times 0.860708 + 0.5 \times 0.932089 \right] \approx 0.960789 \times 0.896399 \approx 0.861765
+        P(0,  3) = e^{-0.04} \left[ 0.5 \times 0.860708 + 0.5 \times 0.932089 \right] \approx 0.960789 \times 0.896399 \approx 0.861765
         \]
       \end{itemize}
     \end{itemize}
@@ -900,27 +901,27 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
   \item \textbf{6.B. Compute the one-period forward rates for \( i = 1 \) and \( i = 2 \). Compare with expected interest rates from the tree.}
 
     \begin{itemize}
-    \item \textbf{Forward Rate from \( t = 1 \) to \( t = 2 \) (\( f(1, 2) \)):}
+    \item \textbf{Forward Rate from \( t = 1 \) to \( t = 2 \) (\( f(1,  2) \)):}
 
       \begin{itemize}
       \item Using zero-coupon bond prices:
         \[
-        f(1, 2) = \frac{P(0, 1)}{P(0, 2)} - 1
+        f(1,  2) = \frac{P(0,  1)}{P(0,  2)} - 1
         \]
         \[
-        f(1, 2) = \frac{0.960789}{0.914510} - 1 \approx 0.0506 \text{ or } 5.06\%
+        f(1,  2) = \frac{0.960789}{0.914510} - 1 \approx 0.0506 \text{ or } 5.06\%
         \]
       \end{itemize}
 
-    \item \textbf{Forward Rate from \( t = 2 \) to \( t = 3 \) (\( f(2, 3) \)):}
+    \item \textbf{Forward Rate from \( t = 2 \) to \( t = 3 \) (\( f(2,  3) \)):}
 
       \begin{itemize}
       \item Using zero-coupon bond prices:
         \[
-        f(2, 3) = \frac{P(0, 2)}{P(0, 3)} - 1
+        f(2,  3) = \frac{P(0,  2)}{P(0,  3)} - 1
         \]
         \[
-        f(2, 3) = \frac{0.914510}{0.861765} - 1 \approx 0.0612 \text{ or } 6.12\%
+        f(2,  3) = \frac{0.914510}{0.861765} - 1 \approx 0.0612 \text{ or } 6.12\%
         \]
       \end{itemize}
 
@@ -929,21 +930,21 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \begin{itemize}
       \item The expected one-period interest rate at \( t = 1 \) under risk-neutral probabilities is:
         \[
-        E[r_{1}] = p \times r_{1, u} + (1 - p) \times r_{1, d} = 0.5 \times 0.07 + 0.5 \times 0.03 = 0.05 \text{ or } 5\%
+        E[r_{1}] = p \times r_{1,  u} + (1 - p) \times r_{1,  d} = 0.5 \times 0.07 + 0.5 \times 0.03 = 0.05 \text{ or } 5\%
         \]
-      \item The forward rate \( f(1, 2) \) is approximately equal to the expected \( r_{1} \).
-      \item Similarly,  the expected interest rate at \( t = 2 \) is:
+      \item The forward rate \( f(1,  2) \) is approximately equal to the expected \( r_{1} \).
+      \item Similarly,   the expected interest rate at \( t = 2 \) is:
         \[
-        E[r_{2}] = p^2 \times r_{2, uu} + 2p(1 - p) \times r_{2, ud} + (1 - p)^2 \times r_{2, dd}
+        E[r_{2}] = p^2 \times r_{2,  uu} + 2p(1 - p) \times r_{2,  ud} + (1 - p)^2 \times r_{2,  dd}
         \]
         \[
         E[r_{2}] = 0.25 \times 0.10 + 0.5 \times 0.06 + 0.25 \times 0.02 = 0.06 \text{ or } 6\%
         \]
-      \item The forward rate \( f(2, 3) \) is approximately \(6.12\%\),  close to the expected \( r_{2} \).
+      \item The forward rate \( f(2,  3) \) is approximately \(6.12\%\),   close to the expected \( r_{2} \).
       \end{itemize}
     \end{itemize}
 
-  \item \textbf{6.C. The market expects that because of a tightening of monetary policy,  the one-period interest rate at time \( i = 1 \) will be \(4\%\). What is the implied market price of risk? Comment on its sign and its economic meaning.}
+  \item \textbf{6.C. The market expects that because of a tightening of monetary policy,   the one-period interest rate at time \( i = 1 \) will be \(4\%\). What is the implied market price of risk? Comment on its sign and its economic meaning.}
 
     \begin{itemize}
     \item \textbf{Compute the Market Price of Risk (\( \lambda \)):}
@@ -962,7 +963,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \item Compute \( \sigma_{r} \):
 
         \[
-        \sigma_{r} = \sqrt{ p(r_{1, u} - E[r_{1}])^2 + (1 - p)(r_{1, d} - E[r_{1}])^2 }
+        \sigma_{r} = \sqrt{ p(r_{1,  u} - E[r_{1}])^2 + (1 - p)(r_{1,  d} - E[r_{1}])^2 }
         \]
         \[
         \sigma_{r} = \sqrt{ 0.5(0.07 - 0.05)^2 + 0.5(0.03 - 0.05)^2 } = \sqrt{ 0.5(0.0004) + 0.5(0.0004) } = \sqrt{ 0.0004 } = 0.02
@@ -989,8 +990,8 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \[
     \text{Payoff}(i) = \begin{cases}
     0 & i = 0 \\
-    100 \times \max\left( \text{Average}(r_0,  r_1) - r_0, \,  0 \right) & i = 1 \\
-    100 \times \max\left( \text{Average}(r_0,  r_1,  r_2) - r_0, \,  0 \right) & i = 2
+    100 \times \max\left( \text{Average}(r_0,   r_1) - r_0,  \,   0 \right) & i = 1 \\
+    100 \times \max\left( \text{Average}(r_0,   r_1,   r_2) - r_0,  \,   0 \right) & i = 2
     \end{cases}
     \]
     \item \textbf{At Time \( i = 2 \):}
@@ -999,26 +1000,26 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \item Calculate the average rates and payoffs at each node.
 
         \begin{itemize}
-        \item \textbf{Node (2,  uu):}
+        \item \textbf{Node (2,   uu):}
           \[
-          \text{Average} = \frac{1}{3}(r_0 + r_{1, u} + r_{2, uu}) = 0.07
+          \text{Average} = \frac{1}{3}(r_0 + r_{1,  u} + r_{2,  uu}) = 0.07
           \]
           \[
-          \text{Payoff} = 100 \times \max(0.07 - 0.04, \,  0) = 100 \times 0.03 = 3
+          \text{Payoff} = 100 \times \max(0.07 - 0.04,  \,   0) = 100 \times 0.03 = 3
           \]
-        \item \textbf{Node (2,  ud) and (2,  du):}
+        \item \textbf{Node (2,   ud) and (2,   du):}
           \[
           \text{Average} = 0.0567
           \]
           \[
-          \text{Payoff} = 100 \times \max(0.0567 - 0.04, \,  0) = 100 \times 0.0167 = 1.67
+          \text{Payoff} = 100 \times \max(0.0567 - 0.04,  \,   0) = 100 \times 0.0167 = 1.67
           \]
-        \item \textbf{Node (2,  dd):}
+        \item \textbf{Node (2,   dd):}
           \[
           \text{Average} = 0.03
           \]
           \[
-          \text{Payoff} = 100 \times \max(0.03 - 0.04, \,  0) = 0
+          \text{Payoff} = 100 \times \max(0.03 - 0.04,  \,   0) = 0
           \]
         \end{itemize}
       \end{itemize}
@@ -1032,43 +1033,43 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \item \textbf{Compute immediate exercise value at \( i = 1 \):}
 
           \begin{itemize}
-          \item \textbf{Node (1,  u):}
+          \item \textbf{Node (1,   u):}
             \[
-            \text{Average} = \frac{1}{2}(r_0 + r_{1, u}) = 0.055
+            \text{Average} = \frac{1}{2}(r_0 + r_{1,  u}) = 0.055
             \]
             \[
-            \text{Payoff} = 100 \times \max(0.055 - 0.04, \,  0) = 1.5
+            \text{Payoff} = 100 \times \max(0.055 - 0.04,  \,   0) = 1.5
             \]
-          \item \textbf{Node (1,  d):}
+          \item \textbf{Node (1,   d):}
             \[
             \text{Average} = 0.035
             \]
             \[
-            \text{Payoff} = 100 \times \max(0.035 - 0.04, \,  0) = 0
+            \text{Payoff} = 100 \times \max(0.035 - 0.04,  \,   0) = 0
             \]
           \end{itemize}
 
         \item \textbf{Compute expected continuation value:}
 
           \begin{itemize}
-          \item \textbf{Node (1,  u):}
+          \item \textbf{Node (1,   u):}
 
             \[
-            \text{Continuation Value} = e^{-r_{1, u} \Delta t} \left[ p \times 3 + (1 - p) \times 1.67 \right]
+            \text{Continuation Value} = e^{-r_{1,  u} \Delta t} \left[ p \times 3 + (1 - p) \times 1.67 \right]
             \]
             \[
             = e^{-0.07} \left[ 0.5 \times 3 + 0.5 \times 1.67 \right] \approx 0.932393 \times 2.335 \approx 2.177
             \]
-            \item Since \(2.177 > 1.5\),  we do not exercise at node (1,  u).
-          \item \textbf{Node (1,  d):}
+            \item Since \(2.177 > 1.5\),   we do not exercise at node (1,   u).
+          \item \textbf{Node (1,   d):}
 
             \[
-            \text{Continuation Value} = e^{-r_{1, d} \Delta t} \left[ p \times 1.67 + (1 - p) \times 0 \right]
+            \text{Continuation Value} = e^{-r_{1,  d} \Delta t} \left[ p \times 1.67 + (1 - p) \times 0 \right]
             \]
             \[
             = e^{-0.03} \left[ 0.5 \times 1.67 + 0.5 \times 0 \right] \approx 0.970446 \times 0.835 \approx 0.810
             \]
-            \item Since \(0.810 > 0\),  we do not exercise at node (1,  d).
+            \item Since \(0.810 > 0\),   we do not exercise at node (1,   d).
           \end{itemize}
         \end{itemize}
       \end{itemize}
@@ -1098,19 +1099,19 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \item Use the underlying short-rate to construct cash positions.
       \end{itemize}
 
-    \item \textbf{At Node \( (1, u) \):}
+    \item \textbf{At Node \( (1,  u) \):}
 
       \begin{itemize}
       \item Need to replicate the continuation value of \$2.177.
       \item Let \( \Delta \) be the number of units of the underlying bond (if applicable).
       \item Set up equations to solve for replicating portfolio weights.
-      \item For simplicity,  assume replication using riskless bonds.
+      \item For simplicity,   assume replication using riskless bonds.
 
-      \item Since this is an option on interest rates,  replication is complex; however,  in this context,  we can approximate.
+      \item Since this is an option on interest rates,   replication is complex; however,   in this context,   we can approximate.
 
       \end{itemize}
 
-    \item \textbf{At Node \( (1, d) \):}
+    \item \textbf{At Node \( (1,  d) \):}
 
       \begin{itemize}
       \item Similar steps as above for the continuation value of \$0.810.
@@ -1138,8 +1139,8 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
   \item \textbf{Given Data:}
 
     \begin{itemize}
-    \item Liability: Price \$1, 000, 000; Duration 10; Convexity 100.
-    \item Assets: Price \$800, 000.
+    \item Liability: Price \$1,  000,  000; Duration 10; Convexity 100.
+    \item Assets: Price \$800,  000.
     \item Available Bonds:
 
       \begin{tabular}{cccc}
@@ -1159,18 +1160,18 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Strategy:}
 
       \begin{itemize}
-      \item To outperform the liability under all parallel shifts,  construct a bond portfolio with higher duration and convexity than the liability.
-      \item Choose Bond 1,  which has higher duration and convexity than the liability.
+      \item To outperform the liability under all parallel shifts,   construct a bond portfolio with higher duration and convexity than the liability.
+      \item Choose Bond 1,   which has higher duration and convexity than the liability.
       \end{itemize}
 
     \item \textbf{Bond Selection and Positions:}
 
       \begin{itemize}
       \item Invest in Bond 1 only.
-      \item Total investment is limited to assets available (\$800, 000).
+      \item Total investment is limited to assets available (\$800,  000).
       \item Number of bonds purchased:
         \[
-        \text{Number of Bonds} = \frac{\$800, 000}{\$100} = 8, 000 \text{ bonds}
+        \text{Number of Bonds} = \frac{\$800,  000}{\$100} = 8,  000 \text{ bonds}
         \]
       \item Portfolio Duration:
         \[
@@ -1180,13 +1181,13 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \[
         C_p = 150
         \]
-      \item Since \( D_p > D_L \) and \( C_p > C_L \),  the bond portfolio will outperform the liability for all interest rate movements.
+      \item Since \( D_p > D_L \) and \( C_p > C_L \),   the bond portfolio will outperform the liability for all interest rate movements.
       \end{itemize}
 
     \item \textbf{Conclusion:}
 
       \begin{itemize}
-      \item By investing only in Bond 1,  the portfolio will outperform the liability under parallel shifts.
+      \item By investing only in Bond 1,   the portfolio will outperform the liability under parallel shifts.
       \end{itemize}
     \end{itemize}
 
@@ -1258,12 +1259,12 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       w_2 = \frac{80}{34} \approx 2.3529
       \]
 
-    \item \textbf{Since \( w_2 > 1 \),  cannot have weight greater than 1.}
+    \item \textbf{Since \( w_2 > 1 \),   cannot have weight greater than 1.}
 
     \item \textbf{Conclusion:}
 
       \item It's not possible to match duration and convexity using Bonds 2 and 3 without short positions.
-      \item Therefore,  select Bonds 1 and 3.
+      \item Therefore,   select Bonds 1 and 3.
 
       \item \textbf{New Equations:}
 
@@ -1292,12 +1293,12 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         100 + 1.333… = 101.333…
         \]
 
-      \item \textbf{Slight mismatch in convexity,  but acceptable given constraints.}
+      \item \textbf{Slight mismatch in convexity,   but acceptable given constraints.}
 
       \item \textbf{Total Investment:}
 
         \[
-        \text{Total Investment} = w_1 \times \$800, 000 + w_3 \times \$800, 000 = \$800, 000
+        \text{Total Investment} = w_1 \times \$800,  000 + w_3 \times \$800,  000 = \$800,  000
         \]
 
       \item \textbf{Explanation:}
@@ -1314,11 +1315,11 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Answer:}
 
       \begin{itemize}
-      \item No,  the hedge may not be sufficient.
+      \item No,   the hedge may not be sufficient.
       \item Matching only duration and convexity addresses changes in the level and curvature of the yield curve.
-      \item PCA indicates that three factors (level,  slope,  curvature) are significant.
-      \item To hedge against all three factors,  we need to match sensitivities to all three components.
-      \item Therefore,  we would need to include all three bonds to construct a better hedge.
+      \item PCA indicates that three factors (level,   slope,   curvature) are significant.
+      \item To hedge against all three factors,   we need to match sensitivities to all three components.
+      \item Therefore,   we would need to include all three bonds to construct a better hedge.
       \end{itemize}
     \end{itemize}
 
@@ -1334,7 +1335,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \[
         \text{PV} = \sum_{t=1}^{5} \text{CF}_t \times Z_t
         \]
-      \item For each factor,  compute:
+      \item For each factor,   compute:
 
         \[
         \text{Factor Sensitivity} = \sum_{t=1}^{5} \left( \text{CF}_t \times Z_t \times \beta_t \right)
@@ -1344,7 +1345,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Zero-Coupon Bonds Factor Sensitivities:}
 
       \begin{itemize}
-      \item For a zero-coupon bond maturing at \( t \),  the PV is \( Z_t \times 1000 \).
+      \item For a zero-coupon bond maturing at \( t \),   the PV is \( Z_t \times 1000 \).
       \item Factor sensitivity is \( Z_t \times 1000 \times \beta_t \).
       \end{itemize}
 
@@ -1357,13 +1358,13 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Set Up Equations:}
 
       \begin{itemize}
-      \item Let \( x_1,  x_3,  x_5 \) be the positions in zero-coupon bonds maturing at years 1,  3,  and 5.
+      \item Let \( x_1,   x_3,   x_5 \) be the positions in zero-coupon bonds maturing at years 1,   3,   and 5.
       \item Set up equations to match factor sensitivities:
 
         \begin{align*}
-        & x_1 \times \text{FS}_{1, \text{Level}} + x_3 \times \text{FS}_{3, \text{Level}} + x_5 \times \text{FS}_{5, \text{Level}} = \text{FS}_{\text{Liability,  Level}} \\
-        & x_1 \times \text{FS}_{1, \text{Slope}} + x_3 \times \text{FS}_{3, \text{Slope}} + x_5 \times \text{FS}_{5, \text{Slope}} = \text{FS}_{\text{Liability,  Slope}} \\
-        & x_1 \times \text{FS}_{1, \text{Curvature}} + x_3 \times \text{FS}_{3, \text{Curvature}} + x_5 \times \text{FS}_{5, \text{Curvature}} = \text{FS}_{\text{Liability,  Curvature}}
+        & x_1 \times \text{FS}_{1,  \text{Level}} + x_3 \times \text{FS}_{3,  \text{Level}} + x_5 \times \text{FS}_{5,  \text{Level}} = \text{FS}_{\text{Liability,   Level}} \\
+        & x_1 \times \text{FS}_{1,  \text{Slope}} + x_3 \times \text{FS}_{3,  \text{Slope}} + x_5 \times \text{FS}_{5,  \text{Slope}} = \text{FS}_{\text{Liability,   Slope}} \\
+        & x_1 \times \text{FS}_{1,  \text{Curvature}} + x_3 \times \text{FS}_{3,  \text{Curvature}} + x_5 \times \text{FS}_{5,  \text{Curvature}} = \text{FS}_{\text{Liability,   Curvature}}
         \end{align*}
 
       \end{itemize}
@@ -1371,7 +1372,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Conclusion:}
 
       \begin{itemize}
-      \item By solving these equations,  we can determine the bond positions to match the liability's factor sensitivities.
+      \item By solving these equations,   we can determine the bond positions to match the liability's factor sensitivities.
       \item All three bonds are needed to hedge against the three principal components.
       \end{itemize}
     \end{itemize}
@@ -1381,15 +1382,15 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
 \item \textbf{Problem 8. Short-Answer/True-False Questions}
 
   \begin{itemize}
-  \item \textbf{(a)} The duration of zero-coupon bonds is given by its time to maturity. Therefore,  it is independent of current interest rates. It follows that the convexity of a zero-coupon bond has to be zero.
+  \item \textbf{(a)} The duration of zero-coupon bonds is given by its time to maturity. Therefore,   it is independent of current interest rates. It follows that the convexity of a zero-coupon bond has to be zero.
 
     \begin{itemize}
     \item \textbf{Answer: False}
 
       \begin{itemize}
-      \item While the duration of a zero-coupon bond equals its time to maturity,  convexity is not zero.
+      \item While the duration of a zero-coupon bond equals its time to maturity,   convexity is not zero.
       \item Convexity measures the curvature of the price-yield relationship and is positive for zero-coupon bonds.
-      \item Therefore,  the statement that convexity is zero is false.
+      \item Therefore,   the statement that convexity is zero is false.
       \end{itemize}
     \end{itemize}
 
@@ -1408,16 +1409,16 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
   \item \textbf{(c)} There is an arbitrage in the quoted forward rate \( F(9~\text{months}~\text{year}) = 1.45\% \) compared to LIBOR rates. Discuss.
 
     \begin{itemize}
-    \item \textbf{Answer: Yes,  there is an arbitrage opportunity.}
+    \item \textbf{Answer: Yes,   there is an arbitrage opportunity.}
 
       \begin{itemize}
-      \item Using the LIBOR rates,  compute the implied forward rate between 9 months and 1 year.
+      \item Using the LIBOR rates,   compute the implied forward rate between 9 months and 1 year.
       \item Implied forward rate \( F(9mm) \) should satisfy:
         \[
         (1 + \text{LIBOR}_{12m} \times \frac{12}{12}) = (1 + \text{LIBOR}_{9m} \times \frac{9}{12}) \times (1 + F \times \frac{3}{12})
         \]
       \item Calculate \( F \) and compare to quoted \( 1.45\% \).
-      \item If there is a discrepancy,  an arbitrage opportunity exists by borrowing at one rate and lending at another.
+      \item If there is a discrepancy,   an arbitrage opportunity exists by borrowing at one rate and lending at another.
       \end{itemize}
     \end{itemize}
 
@@ -1440,9 +1441,9 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
 
       \begin{itemize}
       \item A receiver swaption gives the right to enter into a swap paying fixed and receiving floating.
-      \item This is analogous to a call option on a bond,  where the holder benefits if interest rates fall.
+      \item This is analogous to a call option on a bond,   where the holder benefits if interest rates fall.
       \item The strike price of the option corresponds to the swap's notional amount (par value).
-      \item Therefore,  the statement is true.
+      \item Therefore,   the statement is true.
       \end{itemize}
     \end{itemize}
 
@@ -1454,7 +1455,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \begin{itemize}
       \item Inverse floaters have durations that are amplified due to their leverage to interest rates.
       \item The duration can exceed the time to maturity because the bond's price sensitivity is higher.
-      \item Therefore,  the statement is true.
+      \item Therefore,   the statement is true.
       \end{itemize}
     \end{itemize}
 
@@ -1473,8 +1474,8 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       & Z_0(1) = 0.96 \\
       & Z_0(2) = 0.90 \\
       & Z_0(3) = 0.85 \\
-      & Z_{1, u}(2) = 0.92 \\
-      & Z_{1, d}(2) = 0.97
+      & Z_{1,  u}(2) = 0.92 \\
+      & Z_{1,  d}(2) = 0.97
       \end{align*}
     \item \textbf{Compute the short rate at \( i=0 \):}
       \[
@@ -1482,7 +1483,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \]
     \item \textbf{Set up the equation for \( Z_0(2) \) using risk-neutral probabilities:}
       \[
-      Z_0(2) = e^{-r_0} \left[ p^* Z_{1, u}(2) + (1 - p^*) Z_{1, d}(2) \right]
+      Z_0(2) = e^{-r_0} \left[ p^* Z_{1,  u}(2) + (1 - p^*) Z_{1,  d}(2) \right]
       \]
     \item \textbf{Plug in the known values:}
       \[
@@ -1507,35 +1508,35 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \item \textbf{Answer:} The risk-neutral probability at time \( i=0 \) is \( p^* = 0.65 \).
     \end{itemize}
 
-  \item \textbf{(b) What is the value of \( Z_{1, u}(3) \)?}
+  \item \textbf{(b) What is the value of \( Z_{1,  u}(3) \)?}
 
     \begin{itemize}
     \item \textbf{Given:}
       \begin{align*}
       & Z_0(3) = 0.85 \\
-      & Z_{1, d}(3) = 0.94 \\
+      & Z_{1,  d}(3) = 0.94 \\
       & p^* = 0.65 \\
       & r_0 = 0.04082199 \\
       & e^{-r_0} = 0.96
       \end{align*}
     \item \textbf{Set up the equation for \( Z_0(3) \):}
       \[
-      0.85 = 0.96 \left[ p^* Z_{1, u}(3) + (1 - p^*) \times 0.94 \right]
+      0.85 = 0.96 \left[ p^* Z_{1,  u}(3) + (1 - p^*) \times 0.94 \right]
       \]
-    \item \textbf{Solve for \( Z_{1, u}(3) \):}
+    \item \textbf{Solve for \( Z_{1,  u}(3) \):}
       \[
-      \frac{0.85}{0.96} = 0.65 Z_{1, u}(3) + 0.35 \times 0.94
-      \]
-      \[
-      0.8854167 = 0.65 Z_{1, u}(3) + 0.329
+      \frac{0.85}{0.96} = 0.65 Z_{1,  u}(3) + 0.35 \times 0.94
       \]
       \[
-      0.5564167 = 0.65 Z_{1, u}(3)
+      0.8854167 = 0.65 Z_{1,  u}(3) + 0.329
       \]
       \[
-      Z_{1, u}(3) = \frac{0.5564167}{0.65} = 0.8560
+      0.5564167 = 0.65 Z_{1,  u}(3)
       \]
-    \item \textbf{Answer:} \( Z_{1, u}(3) = 0.8560 \).
+      \[
+      Z_{1,  u}(3) = \frac{0.5564167}{0.65} = 0.8560
+      \]
+    \item \textbf{Answer:} \( Z_{1,  u}(3) = 0.8560 \).
     \end{itemize}
 
   \item \textbf{(c) Expected Bond Returns in Excess of Risk-Free Rate.}
@@ -1565,12 +1566,12 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \item \textbf{At time 0:} \( P_0 = Z_0(3) = 0.85 \)
       \item \textbf{At time 1:}
         \begin{align*}
-        & \text{Up state: } P_{1, u} = Z_{1, u}(2) = 0.92 \\
-        & \text{Down state: } P_{1, d} = Z_{1, d}(2) = 0.97
+        & \text{Up state: } P_{1,  u} = Z_{1,  u}(2) = 0.92 \\
+        & \text{Down state: } P_{1,  d} = Z_{1,  d}(2) = 0.97
         \end{align*}
       \item \textbf{Returns:}
         \[
-        R_u = \frac{0.92}{0.85} = 1.08235, \quad R_d = \frac{0.97}{0.85} = 1.141176
+        R_u = \frac{0.92}{0.85} = 1.08235,  \quad R_d = \frac{0.97}{0.85} = 1.141176
         \]
       \item \textbf{Expected return:}
         \[
@@ -1580,18 +1581,18 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \[
         \text{Excess Return} = E[R] - R_f = 1.11176 - 1.0416667 = 0.07009
         \]
-      \item \textbf{Conclusion:} The expected excess return is approximately \( 7.01\% \),  slightly higher than that of \( Z_0(2) \). The difference arises due to the longer maturity and higher sensitivity to interest rate changes.
+      \item \textbf{Conclusion:} The expected excess return is approximately \( 7.01\% \),   slightly higher than that of \( Z_0(2) \). The difference arises due to the longer maturity and higher sensitivity to interest rate changes.
       \end{itemize}
     \end{itemize}
 
   \item \textbf{(d) Forward Contract Analysis.}
 
     \begin{itemize}
-    \item \textbf{(i) Compute \( F \) and compare with \( E_{0}^{*}[Z_1(2)] \) and \( F(0, 1, 2) \):}
+    \item \textbf{(i) Compute \( F \) and compare with \( E_{0}^{*}[Z_1(2)] \) and \( F(0,  1,  2) \):}
       \begin{itemize}
       \item \textbf{Forward price \( F \):}
         \[
-        F = p^* Z_{1, u}(2) + (1 - p^*) Z_{1, d}(2)
+        F = p^* Z_{1,  u}(2) + (1 - p^*) Z_{1,  d}(2)
         \]
         \[
         F = 0.65 \times 0.92 + 0.35 \times 0.97 = 0.9375
@@ -1599,9 +1600,9 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \item \textbf{Risk-neutral expected value:} \( E_{0}^{*}[Z_1(2)] = F = 0.9375 \)
       \item \textbf{Forward discount:}
         \[
-        F(0, 1, 2) = \frac{Z_0(2)}{Z_0(1)} = \frac{0.90}{0.96} = 0.9375
+        F(0,  1,  2) = \frac{Z_0(2)}{Z_0(1)} = \frac{0.90}{0.96} = 0.9375
         \]
-      \item \textbf{Comparison:} All values are equal,  as expected under risk-neutral valuation.
+      \item \textbf{Comparison:} All values are equal,   as expected under risk-neutral valuation.
       \end{itemize}
 
     \item \textbf{(ii) Replicating strategy for the forward contract:}
@@ -1613,11 +1614,11 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         \end{itemize}
       \item \textbf{At time 1:}
         \begin{itemize}
-        \item The short bond matures,  creating a liability.
+        \item The short bond matures,   creating a liability.
         \item Own 1 unit of \( Z_1(2) \).
         \item Net payoff: \( Z_1(2) - F \).
         \end{itemize}
-      \item \textbf{Conclusion:} The replicating strategy does not require the binomial tree,  as it relies on current bond prices and basic arbitrage principles.
+      \item \textbf{Conclusion:} The replicating strategy does not require the binomial tree,   as it relies on current bond prices and basic arbitrage principles.
       \end{itemize}
     \end{itemize}
   \end{itemize}
@@ -1676,13 +1677,13 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
         w_{10} = \frac{15}{2.4} = 6.25 \text{ million}
         \]
       \item \textbf{Hedging portfolio:} Invest \$6.25 million in the 10-year bond.
-      \item \textbf{Note:} This introduces exposure to \( D_{level} \),  which may require adjustment or acceptance.
+      \item \textbf{Note:} This introduces exposure to \( D_{level} \),   which may require adjustment or acceptance.
       \end{itemize}
 
     \item \textbf{(iii) Residual risk exposure:}
       \begin{itemize}
       \item The hedging strategy leaves exposure to the level and curvature factors.
-      \item Due to limitations in available instruments and constraints,  perfect hedging may not be feasible.
+      \item Due to limitations in available instruments and constraints,   perfect hedging may not be feasible.
       \end{itemize}
     \end{itemize}
 
@@ -1694,8 +1695,8 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
     \begin{itemize}
     \item \textbf{Market values:}
       \begin{align*}
-      & P_{A1} = 99.29, \quad P_{A10} = 80.69, \quad P_A = 179.98 \\
-      & P_{L7} = 88.59, \quad P_L = 177.18 \\
+      & P_{A1} = 99.29,  \quad P_{A10} = 80.69,  \quad P_A = 179.98 \\
+      & P_{L7} = 88.59,  \quad P_L = 177.18 \\
       & E = P_A - P_L = 2.80
       \end{align*}
     \item \textbf{Durations:}
@@ -1710,7 +1711,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       & C_L = 49.0 \\
       & C_E = \frac{P_A C_A - P_L C_L}{E} = \frac{179.98 \times 45.407 - 177.18 \times 49}{2.80} = -182.36
       \end{align*}
-    \item \textbf{Answer:} \( D_E = -119.31 \),  \( C_E = -182.36 \)
+    \item \textbf{Answer:} \( D_E = -119.31 \),   \( C_E = -182.36 \)
     \end{itemize}
 
   \item \textbf{(b) Compute PMVS\_L from a 50 bps shock.}
@@ -1740,7 +1741,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
       \[
       \Delta E = -1.7690
       \]
-    \item \textbf{Answer:} PMVS\_YC is \( \pm \$1.769 \) million,  larger than PMVS\_L.
+    \item \textbf{Answer:} PMVS\_YC is \( \pm \$1.769 \) million,   larger than PMVS\_L.
     \end{itemize}
   \end{itemize}
 
@@ -1753,7 +1754,7 @@ Consider a hedge fund with equity of \$0.5 billion that would like to invest in 
 \[
 V=\begin{pmatrix}1+\frac{r}{n}\end{pmatrix}^{n\times T}
 \]
-For 72 large,  we converge to continuous compounding
+For 72 large,   we converge to continuous compounding
 \[
 V=\left(1+\frac{r}{n}\right)^{n\times T}\longrightarrow e^{r\times T}
 \]
@@ -1770,26 +1771,26 @@ Z(T)=\frac{1}{\left(1+\frac{r}{n}\right)^{n\times T}}\longrightarrow Z(T)=e^{-rT
 **Coupon Bond Pricing**
 \[
 \begin{aligned}
-P(t, T_{n}) &= c/2\times Z(t, T_{1}) + c/2\times Z(t, T_{2}) + … + (100+c/2)Z(t, T_{n}) \\
-&= \sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(t, T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}} + \frac{100}{\left(1+r_{2}\left(t, T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}
+P(t,  T_{n}) &= c/2\times Z(t,  T_{1}) + c/2\times Z(t,  T_{2}) + … + (100+c/2)Z(t,  T_{n}) \\
+&= \sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(t,  T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}} + \frac{100}{\left(1+r_{2}\left(t,  T_{n}\right)/2\right)^{2\times\left(T_{n}-t\right)}}
 \end{aligned}
 \]
 
 **Forward Rates**
 \[
-\left(1+\frac{f_n\left(0, T_1, T_2\right)}{n}\right)^{n(T_2-T_1)}=\frac{Z(0, T_1)}{Z(0, T_2)}
+\left(1+\frac{f_n\left(0,  T_1,  T_2\right)}{n}\right)^{n(T_2-T_1)}=\frac{Z(0,  T_1)}{Z(0,  T_2)}
 \]
 Taking the limit as $n\to\infty$ the continuously compounded forward rates is
 \[
 \begin{aligned}
-f(0, T_{1}, T_{2}) &= \frac{\ln(Z(0, T_1))-\ln(Z(0, T_2))}{T_2-T_1} \\
-&= \frac{r(0, T_2)T_2 - r(0, T_1)T_1}{T_2-T_1}
+f(0,  T_{1},  T_{2}) &= \frac{\ln(Z(0,  T_1))-\ln(Z(0,  T_2))}{T_2-T_1} \\
+&= \frac{r(0,  T_2)T_2 - r(0,  T_1)T_1}{T_2-T_1}
 \end{aligned}
 \]
 
 **Instantaneous forward:**
 \[
-f(0, T_1, T_1)-r(0, T_1)=T_1\times\frac{dr(0, T_1)}{dT_1}
+f(0,  T_1,  T_1)-r(0,  T_1)=T_1\times\frac{dr(0,  T_1)}{dT_1}
 \]
 
 \end{document}

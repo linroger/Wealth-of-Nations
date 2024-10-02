@@ -28,9 +28,7 @@ $$V_{0}=E^{*}\left[e^{-rT}V(S_{1})\right]=e^{-rT}\left[q^{*}V(S_{1,u})+(1-q^{*})
 
 - For instance, a call option has price given by
 
-```tikzpicture
-\usetikzlibrary{positioning}
-\documentclass{standalone}
+```latex
 \begin{tikzpicture}
   % Define the nodes
   \node (i0) {$i = 0$};
@@ -57,7 +55,6 @@ $$V_{0}=E^{*}\left[e^{-rT}V(S_{1})\right]=e^{-rT}\left[q^{*}V(S_{1,u})+(1-q^{*})
     \end{tabular}
   };
 \end{tikzpicture}
-
 ```
 
 $i=0$$i=1$$S_{1,u}=134.986$$c_{1,u}=34.986$$S_{0}=100.000$$q_{0}^{*}=0.4587$$c_{0}=e^{-rT}\times q_{0}^{*}\times c_{1,u}=15.731$$S_{1,d}=74.082$$c_{1,d}=0$
