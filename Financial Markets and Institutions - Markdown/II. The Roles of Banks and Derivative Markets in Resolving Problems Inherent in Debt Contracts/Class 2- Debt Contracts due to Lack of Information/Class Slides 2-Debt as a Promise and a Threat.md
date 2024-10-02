@@ -1,11 +1,10 @@
 ---
-title: "Class Slides 2-Debt as a Promise and a Threat "
-aliases: ["Class Slides 2-Debt as a Promise and a Threat "]
-linter-yaml-title-alias: "Class Slides 2-Debt as a Promise and a Threat "
+title: Class Slides 2-Debt as a Promise and a Threat
 ---
+
 # Class Slides 2-Debt as a Promise and a Threat
 
-Business 35202 Class 2
+[Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat](Class%20Note%202-Debt%20Contracts%20Due%20to%20the%20Lack%20of%20Information%20Debt%20as%20a%20Promise%20and%20a%20Threat.md)
 
 ## An Extreme Free Cash Flow Problem
 
@@ -62,7 +61,7 @@ Liquidation is useful as a penalty that a borrower can avoid by paying the debt,
 - This means choosing when to liquidate (to penalize the borrower) and when to not liquidate,  as a function of the payment made.
 
 ###### Lets see how to use liquidation
-- If liquidate the payoff of (borrower,  lender)= (0, 0)
+- If liquidate the payoff of (borrower,  lender)= (0,  0)
 - For payment without liquidation,  the payoff of (borrower,  lender) is: (V-payment,  payment)
 
 ##### A list of payments (Equity,  a),  V=1.4
@@ -71,7 +70,7 @@ Liquidation is useful as a penalty that a borrower can avoid by paying the debt,
 	<tbody>
 		<tr>
 			<th>Payment</th>
-			<th>Liquidate $(Y, \mathbb{N})$</th>
+			<th>Liquidate $(Y,  \mathbb{N})$</th>
 			<th>(Borrower,  Lender)</th>
 		</tr>
 		<tr>
@@ -123,7 +122,7 @@ A list of payments
 	<tbody>
 		<tr>
 			<th>Payment</th>
-			<th>Liquidate $(Y, \mathbb{N})$</th>
+			<th>Liquidate $(Y,  \mathbb{N})$</th>
 			<th>(Borrower,  Lender)</th>
 		</tr>
 		<tr>
@@ -175,7 +174,7 @@ A list of payments
 	<tbody>
 		<tr>
 			<th>Payment</th>
-			<th>Liquidate $(Y, \mathbb{N})$</th>
+			<th>Liquidate $(Y,  \mathbb{N})$</th>
 			<th>(Borrower,  Lender)</th>
 		</tr>
 		<tr>
@@ -227,7 +226,7 @@ A list of payments
 	<tbody>
 		<tr>
 			<th>Payment</th>
-			<th>Liquidate $(Y, \mathbb{N})$</th>
+			<th>Liquidate $(Y,  \mathbb{N})$</th>
 			<th>(Borrower,  Lender)</th>
 		</tr>
 		<tr>
