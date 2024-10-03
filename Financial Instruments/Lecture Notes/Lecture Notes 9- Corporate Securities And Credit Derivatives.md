@@ -6,7 +6,7 @@ linter-yaml-title-alias: LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVAT
 
 # LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
 
-[Lecture Note 8 American Options](Lecture%20Note%208%20American%20Options.md)
+[Teaching Note 8-American Options](Teaching%20Note%208-American%20Options.md)
 [Lecture Notes 9ACredit Default Swaps](Lecture%20Notes%209A-%20Credit%20Default%20Swaps.md)
 
 ## FINANCIAL INSTRUMENTS TEACHING NOTE 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES

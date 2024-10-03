@@ -5,11 +5,9 @@ title: Lecture Notes
 # Lecture Notes
 
 %% Begin Waypoint %%
-
 - **[[Lecture Notes]]**
 	- [[Lecture Note 5- Black Scholes Formula]]
 	- [[Lecture Note 6-Implied Volatility]]
-	- [[Lecture Note 8 American Options]]
 	- [[Lecture Notes 9- Corporate Securities And Credit Derivatives]]
 	- [[Lecture Notes 9A- Credit Default Swaps]]
 	- [[Lecture Notes 10- Interest Rate Derivatives]]
@@ -19,5 +17,6 @@ title: Lecture Notes
 	- **[[Teaching Note 3 Swaps- Financial Instruments]]**
 	- **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation]]
+	- [[Teaching Note 8-American Options]]
 
 %% End Waypoint %%
