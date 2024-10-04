@@ -39,7 +39,8 @@ $$\begin{array}{l l l}{{E\left[r_{1}\right]}}&{{=}}&{{\frac{1}{2}r_{1,u}+\frac{1
 
 $$\begin{array}{r c l}{{Z_{0}\left(1\right)}}&{{=}}&{{\mathrm{Zero~at~time~0~that~matures~at~time~1}}}\\ {{Z_{1,u}\left(2\right)}}&{{=}}&{{\mathrm{Zero~at~time~1~in~node~}u p\mathrm{~that~matures~at~time~2}}}\end{array}$$
 
-## RELATIVE PRICING ON TREES - **EXAMPLE:** BOND AND OPTION
+## RELATIVE PRICING ON TREES
+- **EXAMPLE:** BOND AND OPTION
 - Suppose that by using any of the methodologies in TN 1 we obtained the following discounts:
 
 $$Z_{0}\left(1\right)=0.9916,\ Z_{0}\left(2\right)=0.9781,\ Z_{0}\left(3\right)=0.9615$$
