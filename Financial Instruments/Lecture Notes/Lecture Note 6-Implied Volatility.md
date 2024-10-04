@@ -3,10 +3,7 @@ title: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMUL
 aliases: [LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
 ---
----
-title: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
-aliases: [LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
-linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
+
 # LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
 ## FINANCIAL INSTRUMENTS TEACHING NOTE 7 EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
 John Heaton The University of Chicago Booth School of Business
@@ -73,6 +70,7 @@ max(Si
 - The value of the security is the average of the realizations
 $$\tilde{V}_{0}=\mathrm{average~of~}\{e^{-r T}V(S_{1}^{1}), e^{-r T}V(S_{1}^{2}), e^{-r T}V(S_{1}^{3}), …, e^{-r T}V(S_{1}^{N})\}=\frac{1}{N}\sum\limits_{i=1}^{N}e^{-r T}V(S_{1}^{i})$$
 - For instance,  given q∗ = 0.4587,  we obtain the following table
+
 |           |        |   RAND() Move on Tree Price at T |   Payoff |   discounted |
 |-----------|--------|----------------------------------|----------|--------------|
 | 0.457335  | up     |                          134.986 |   34.986 |       34.293 |
@@ -104,6 +102,7 @@ $i=0$$i=1$$i=2$$S_{2, uu}=152.847$$S_{1, u}=123.631$$S_{0}=100$$S_{1, d}=80.886$
 - Again,  the value of any derivative security with payoff V (S2) is given by
 $$V(S)=E^{*}[e^{-r T}V(S_{2})]$$
 - For instance,  with N = 10 simulations,  we may obtain something as follows:
+
 |           |       |          |      |   RAND() Move on Tree RAND() Move on Tree Price at T |   Payoff |   discounted |
 |-----------|-------|----------|------|------------------------------------------------------|----------|--------------|
 | 0.535163  | down  | 0.621716 | down |                                               65.425 |    0     |          0   |
@@ -121,6 +120,7 @@ $$V(S)=E^{*}[e^{-r T}V(S_{2})]$$
 - With N = 1000 simuations,  the price is �V0 = 10.453 with _s.e._ = 0.657.
 - The value from the risk neutral tree is instead 11.476
 - A 10-step tree is as follows:
+
 | Stock Assumption   | Option Assumption   | Tree        | Risk Neutral Prob   |
 |--------------------|---------------------|-------------|---------------------|
 | mu                 |                     |             |                     |

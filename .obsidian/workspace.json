@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md"
+                "file": "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md"
               }
             }
           }
@@ -226,11 +226,12 @@
   },
   "active": "98e455c4eddfe500",
   "lastOpenFiles": [
+    "Financial Engineering/9._Introduction_to_Real_Options.md",
+    "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Attachments/Obsidian 2024-10-04 16.38.00.png",
     "Attachments/Obsidian 2024-10-04 16.37.53.png",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
-    "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Attachments/9/f/f.md",
     "Attachments/9/f/4/4.md",
     "Attachments/9/f/4",
@@ -266,7 +267,6 @@
     "Attachments/CleanShot 2024-10-02 -003076@2x.png",
     "Attachments/CleanShot 2024-10-02 -003075@2x.png",
     "Attachments/CleanShot 2024-10-02 -003074@2x.png",
-    "svg-cache/6ef15ba49210292cf97067381cb18a91.svg",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
