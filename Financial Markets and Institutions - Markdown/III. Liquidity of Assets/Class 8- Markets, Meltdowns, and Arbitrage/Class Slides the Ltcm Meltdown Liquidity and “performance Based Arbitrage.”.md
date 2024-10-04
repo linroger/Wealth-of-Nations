@@ -143,7 +143,7 @@ $$
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,  } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} \\
+   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  \\
    1 & 80 & -5 & +5 & 25 & 0 & 0 & 0 \\
@@ -162,7 +162,7 @@ $$
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,  } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{News trade (Prob 1-q)} \\
+   \text{Date} & \text{Price} & \text{Noise trade occurs at 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{News trade (Prob 1-q)} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  &  \\
    1 & 30 & -30 & -20 & 0 & 0 & 0 & -50 &  \\
@@ -187,7 +187,7 @@ $$
    $$ 
    \begin{array}{|c|c|c|c|c|c|c|c|c|}
    \hline
-   \text{Date} & \text{Price} & \text{Noise Trade Occurs At Date 1,  } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{Reverted Price If News Trade} \\
+   \text{Date} & \text{Price} & \text{Noise Trade Occurs At Date 1,   } & \text{LTCM Trade} & \text{LTCM Position} & \text{Other Arb Trade} & \text{Other Arb Position} & \text{Total Order Imbalance} & \text{Reverted Price If News Trade} \\
    \hline
    0 & 80 &  & 20 &  &  &  &  &  \\
    1 & 55 & -30 & +5 & 25 & 0 & 0 & -25 &  \\

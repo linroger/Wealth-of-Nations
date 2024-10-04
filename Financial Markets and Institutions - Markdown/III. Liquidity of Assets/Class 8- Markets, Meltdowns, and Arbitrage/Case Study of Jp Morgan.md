@@ -26,10 +26,10 @@ Morgan's consolidated balance-sheet,  which exhibits an excess of deposits over 
 
 | USD mn          | 2012      | 2011      |
 |-----------------|-----------|-----------|
-| Total assets    | 2,  359,  141 | 2,  265,  792 |
-| Loans           | 733,  796   | 723,  720   |
-| Deposits        | 1,  193,  593 | 1,  127,  806 |
-| Excess deposits | 459,  797   | 404,  086   |
+| Total assets    | 2,   359,   141 | 2,   265,   792 |
+| Loans           | 733,   796   | 723,   720   |
+| Deposits        | 1,   193,   593 | 1,   127,   806 |
+| Excess deposits | 459,   797   | 404,   086   |
 
 Source: JP Morgan 2012 Annual report
 
@@ -53,7 +53,7 @@ At the same time,  the management reiterated the importance of generating profit
 | Year              | SCP revenues (USD mn)   |
 |-------------------|-------------------------|
 | 2008              | 170                     |
-| 2009              | 1,  050                   |
+| 2009              | 1,   050                   |
 | 2010              | 149                     |
 | 2011              | 453                     |
 | Source: JP Morgan |                         |
@@ -74,11 +74,11 @@ The graph below shows the sharp rise in the open interest in CDX. NA. IG. 9 (in 
 ![4_Case_Study_JP_Morgan_0.png](4_Case_Study_JP_Morgan_0.png)
 
 Source: Markit
-The is trend continued and while the portfolio may be qualified as "risk neutral" it was actually highly exposed to a convergence of the risk between High Yield and Investment Grade risks. To illustrate,  even if the portfolio appeared to neutralized at the end of 2011,  the High Yield and Investment Grade positions although they were symmetrical did not move at the same pace: - tightening of the High Yield: $575 million loss - widening of the Investment Grade $50 million in revenue Total $525 million loss By the end of February,   losses at the SCP had increased by $69 million 12. At the end of March 2012,  the mark-to-market loss on the portfolio was already at USD 718 mn. Further worsening of the situation and worsening rumors following articles by the Wall Street Journal and Bloomberg left no other option to the management but to file an 8-K report containing information about the first quarter result on 13 April 2012 followed by a conference call. Mark-to market losses of the SCP (2012) USD mn January February March April May June December
+The is trend continued and while the portfolio may be qualified as "risk neutral" it was actually highly exposed to a convergence of the risk between High Yield and Investment Grade risks. To illustrate,  even if the portfolio appeared to neutralized at the end of 2011,  the High Yield and Investment Grade positions although they were symmetrical did not move at the same pace: - tightening of the High Yield: $575 million loss - widening of the Investment Grade $50 million in revenue Total $525 million loss By the end of February,    losses at the SCP had increased by $69 million 12. At the end of March 2012,  the mark-to-market loss on the portfolio was already at USD 718 mn. Further worsening of the situation and worsening rumors following articles by the Wall Street Journal and Bloomberg left no other option to the management but to file an 8-K report containing information about the first quarter result on 13 April 2012 followed by a conference call. Mark-to market losses of the SCP (2012) USD mn January February March April May June December
 
 10 in reference also to the whale which had reached Westminster in [2010?] 11 London Whale Rattles Debt Market,  Wall Street Journal 6 th April 2012 12 Report of JPMorgan Chase & Co. Management Task Force Regarding 2012 CIO Losses January 2013
 
-| Ytd Loss   | 100   | 169   | 718   | 2,  132   | 3,  695   | 4,  400   | 6,  200   |
+| Ytd Loss   | 100   | 169   | 718   | 2,   132   | 3,   695   | 4,   400   | 6,   200   |
 |------------|-------|-------|-------|---------|---------|---------|---------|
 
 In summary,  the decision to reduce risk in early 2012,  using the word of J. Dimon,  had "morphed into something that,  rather than protecting the firm,  created new and potentially larger risks" 13. The losses were not the result of rogue trading,  but rather transactions wrongly executed and raise serious questions of risk management and control of the CIO activity.

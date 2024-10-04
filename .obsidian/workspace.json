@@ -54,32 +54,6 @@
             }
           },
           {
-            "id": "bdca97d71c628efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "562bf9e772f5dc6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 2-Futures Contracts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60013c563a9e176c",
             "type": "leaf",
             "state": {
@@ -95,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/7._BlackScholesModel.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Slides Effects of MMF Regulations in the United States.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Slides Effects of MMF Regulations in the United States.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Slides Effects of MMF Regulations in the United States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md"
+                "file": "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class Slides Effects of MMF Regulations in the United States.md"
               }
             }
           }
@@ -248,19 +222,26 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "bdca97d71c628efc",
+  "active": "3f338498b7bfd30c",
   "lastOpenFiles": [
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Lessons From The Crisis.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Moody's Lessons From the Crisis.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Value of Bank Durability Borrowers as Bank Stakeholders.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles/WSJ-Excerpts From the Lehman Report.md",
+    "Financial Engineering/7._BlackScholesModel.md",
+    "Advanced Investments/Advanced Investments.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Case Study of JP Morgan.md",
+    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 6- Bank Runs/Pilgrim Prime Rate Trust.md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Southland Corp. (c).md",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class Note 10 Liquidity and Liquidity Management.md",
     "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/MGM Prospectus.md",
     "Financial Markets and Institutions - Markdown/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class Notes 2 – Corporate Bond Contracts.md",
     "Financial Engineering/10._Other_Topics_in_Quantitative_Finance.md",
-    "Advanced Investments/Advanced Investments.md",
     "Advanced Investments/Week 3-Advanced Investments/Week 3-Advanced Investments.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Advanced Investments/Week 1-Advanced Investments/Week 1-Advanced Investments.md",
-    "Financial Engineering/7._BlackScholesModel.md",
     "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Financial Instruments/Lecture Notes/Teaching Note 2-Futures Contracts.md",
@@ -274,13 +255,6 @@
     "Attachments/CleanShot 2024-10-02 -003075@2x.png",
     "Attachments/CleanShot 2024-10-02 -003074@2x.png",
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
-    "Advanced Investments/Week 4-Advanced Investments/Week 4-Advanced Investments.md",
-    "Advanced Investments/Week 1-Advanced Investments/Untitled.md",
-    "Advanced Investments/Week 1-Advanced Investments/DetailedLectureNotes_Week1.md",
-    "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
-    "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
-    "Advanced Investments/Week 6-Advanced Investments/Week 6-Advanced Investments.md",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Securitized Banking and the Run On Repo.md",
     "svg-cache/6ef15ba49210292cf97067381cb18a91.svg",
     "svg-cache/6ef15ba49210292cf97067381cb18a91.png",
     "svg-cache/4ee405e5485776ae432a20710419c2e6.svg",
