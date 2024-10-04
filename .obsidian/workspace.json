@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
               }
             }
           }
@@ -224,10 +224,10 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "98e455c4eddfe500",
+  "active": "dd38a9025bc99f00",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
+    "Untitled.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
     "Financial Instruments/Lecture Notes/Teaching Note 8-American Options.md",
