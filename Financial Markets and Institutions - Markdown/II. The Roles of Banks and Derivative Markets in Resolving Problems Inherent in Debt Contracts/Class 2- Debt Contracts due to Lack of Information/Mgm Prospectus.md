@@ -12,14 +12,14 @@ Form of prospectus disclosing information,  facts,  andevents covered in both fo
 Filed Pursuant to Rule 424 (b)(5)
 Registration No. 333−133925 A filing fee of $80,  250.00,  calculated in accordance with Rule 457 (r),  has been transmitted to the SEC in connection with the securities offered by means of this prospectus supplement.
 
-We are one of the largest gaming companies in the world. We own what we believe to be the finest collection of casino resorts in the world. We are offering $750 million of our 7.625% senior notes due 2017. We will pay interest on the notes on January 15 and July 15 of each year,   commencing on July 15,   2007. The notes will mature on January 15,   2017. We may redeem the notes in whole or in part at any time prior to their maturity at the redemption price set forth in this prospectus supplement. The notes will be guaranteed by substantially all our subsidiaries. The notes will be general unsecured senior obligations of us and each guarantor,   respectively,   and will rank equally with or senior to all existing or future indebtedness of us and each guarantor,   respectively. We intend to use the proceeds to repay a portion of the outstanding amount under our $7.0 billion senior credit facility and for general corporate purposes. See "Risk Factors" beginning on page S−3 to read about important factors you should consider before buying the notes.
+We are one of the largest gaming companies in the world. We own what we believe to be the finest collection of casino resorts in the world. We are offering $750 million of our 7.625% senior notes due 2017. We will pay interest on the notes on January 15 and July 15 of each year,    commencing on July 15,    2007. The notes will mature on January 15,    2017. We may redeem the notes in whole or in part at any time prior to their maturity at the redemption price set forth in this prospectus supplement. The notes will be guaranteed by substantially all our subsidiaries. The notes will be general unsecured senior obligations of us and each guarantor,    respectively,    and will rank equally with or senior to all existing or future indebtedness of us and each guarantor,    respectively. We intend to use the proceeds to repay a portion of the outstanding amount under our $7.0 billion senior credit facility and for general corporate purposes. See "Risk Factors" beginning on page S−3 to read about important factors you should consider before buying the notes.
 
 |                                             | Per Note   | Total         |           |
 |---------------------------------------------|------------|---------------|-----------|
-| Initial public offering price (1)            | 100%       | $ 750,  000,  000 |           |
-| Underwriting discount                       | 0.325%     | $             | 2,  437,  500 |
-| Proceeds,   before expenses,   to MGM MIRAGE (1) | 99.675%    | $ 747,  562,  500 |           |
-| (1) Plus accrued interest,   if any.          |            |               |           |
+| Initial public offering price (1)            | 100%       | $ 750,   000,   000 |           |
+| Underwriting discount                       | 0.325%     | $             | 2,   437,   500 |
+| Proceeds,    before expenses,    to MGM MIRAGE (1) | 99.675%    | $ 747,   562,   500 |           |
+| (1) Plus accrued interest,    if any.          |            |               |           |
 
 Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved of these securities or determined if this prospectus supplement and the accompanying prospectus are truthful or complete. Any representation to the contrary is a criminal offense. None of the Nevada Gaming Commission,  the Nevada Gaming Control Board,  the New Jersey Division of Gaming Enforcement,  the New Jersey Casino Control Commission,  the Michigan Gaming Control Board,  the Mississippi Gaming Commission,  the Illinois Gaming Board,  nor any other gaming authority has passed upon the accuracy or adequacy of this prospectus supplement,  or the accompanying prospectus,  or the investment merits of the securities offered. Any representation to the contrary is unlawful. The Attorney General of the State of New York has not passed upon or endorsed the merits of this offering. Any representation to the contrary is unlawful. We expect that delivery of the notes will be made to investors in book-entry form on or about December 21,  2006.
 
@@ -48,7 +48,7 @@ In this prospectus supplement,  except where the context otherwise requires,  we
 
 We are one of the largest gaming companies in the world. We own what we believe to be the world's finest collection of casino resorts. We own and operate Bellagio,  MGM Grand,  Mandalay Bay,  The Mirage,  Luxor,  Treasure Island ("TI"),  New York−New York,  Excalibur,  Monte Carlo,  Circus Circus−Las Vegas,  and Slots−A−Fun located in Las Vegas,  Nevada. We also own and operate Circus Circus−Reno,  located in Reno,  Nevada,  Gold Strike and Nevada Landing,  located in Jean,  Nevada,  Railroad Pass,  located in Henderson,  Nevada,  MGM Grand Detroit,  located in Detroit,  Michigan,  Gold Strike,  located in Tunica County,  Mississippi,  and Beau Rivage,  a beachfront resort located in Biloxi,  Mississippi. Beau Rivage reopened on August 29,  2006,  after being closed for business for one year due to extensive damage from Hurricane Katrina. We are also a 50% owner of Silver Legacy,  located in Reno,  Nevada,  a 50% owner of Borgata,  a destination casino resort on Renaissance Pointe in Atlantic City,  New Jersey,  and 50% owner of Grand Victoria,  a riverboat casino in Elgin,  Illinois. We also have a 50% interest in the MGM Grand Macau under construction in Macau S.A.R. We are developing CityCenter,  a multi−billion dollar mixed−use urban development project on the Las Vegas Strip. We are also developing a permanent hotel-casino facility in Detroit,  Michigan,  which is expected to replace the current interim casino facility in late 2007. In addition,  our other operations include the Shadow Creek golf course in North Las Vegas,  two golf courses at the Primm Valley Resorts,  and a 50% investment in The Signature at MGM Grand,  a condominium-hotel development in Las Vegas,  Nevada.
 
-In October 2006,  we entered into an agreement to sell our subsidiaries that operate Colorado Belle Resort & Casino and Edgewater Resort & Casino,  located in Laughlin,  Nevada,  including substantially all of the assets of those resorts,  subject to customary sales conditions and regulatory approvals,  for approximately $200 million,   subject to certain working capital adjustments. We expect this transaction to be completed by the second quarter of 2007. Also in October 2006,   we entered into an agreement to sell our subsidiary that operates the Primm Valley Resorts (Whiskey Pete's,   Buffalo Bill’s,   and the Primm Valley Resort),   located in Primm,   Nevada,   including substantially all of the assets of those resorts,   other than the golf courses,   subject to customary sales conditions and regulatory approvals,   for approximately $400 million,  subject to certain working capital adjustments. We expect this transaction to be completed by the end of the first quarter of 2007.
+In October 2006,  we entered into an agreement to sell our subsidiaries that operate Colorado Belle Resort & Casino and Edgewater Resort & Casino,  located in Laughlin,  Nevada,  including substantially all of the assets of those resorts,  subject to customary sales conditions and regulatory approvals,  for approximately $200 million,    subject to certain working capital adjustments. We expect this transaction to be completed by the second quarter of 2007. Also in October 2006,    we entered into an agreement to sell our subsidiary that operates the Primm Valley Resorts (Whiskey Pete's,    Buffalo Bill’s,    and the Primm Valley Resort),    located in Primm,    Nevada,    including substantially all of the assets of those resorts,    other than the golf courses,    subject to customary sales conditions and regulatory approvals,    for approximately $400 million,  subject to certain working capital adjustments. We expect this transaction to be completed by the end of the first quarter of 2007.
 
 Our principal executive office is located at 3600 Las Vegas Boulevard South,  Las Vegas,  Nevada 89109. Our telephone number is (702) 693-7120.
 
@@ -114,7 +114,7 @@ Prior to this offering,  there was no public market for the notes. We have been 
 
 ## S−4 Use Of Proceeds
 
-We plan to use the net proceeds from the offering of these notes (approximately $746 million after commissions and offering expenses) to repay a portion of the outstanding amount under our $7.0 billion credit facility and for general corporate purposes. The $7.0 billion credit facility matures on October 3,   2011,   and bears interest (6.5% as of November 30,   2006) based upon the bank reference rate plus an applicable margin ranging from 0.00% to 0.375% or reserve-adjusted LIBOR rate plus an applicable margin ranging from 0.375% to 1.375%. As of November 30,   2006,   there was approximately $5.1 billion outstanding under the $7.0 billion credit facility.
+We plan to use the net proceeds from the offering of these notes (approximately $746 million after commissions and offering expenses) to repay a portion of the outstanding amount under our $7.0 billion credit facility and for general corporate purposes. The $7.0 billion credit facility matures on October 3,    2011,    and bears interest (6.5% as of November 30,    2006) based upon the bank reference rate plus an applicable margin ranging from 0.00% to 0.375% or reserve-adjusted LIBOR rate plus an applicable margin ranging from 0.375% to 1.375%. As of November 30,    2006,    there was approximately $5.1 billion outstanding under the $7.0 billion credit facility.
 
 ## Ratio Of Earnings To Fixed Charges
 
@@ -122,7 +122,7 @@ The following table sets forth our ratio of earnings to fixed charges for the pe
 
 |                                    | Nine Months Ended   |       |       |       |       |       |       |
 |------------------------------------|---------------------|-------|-------|-------|-------|-------|-------|
-| For the Years Ended December 31,     | September 30,         |       |       |       |       |       |       |
+| For the Years Ended December 31,      | September 30,          |       |       |       |       |       |       |
 | 2001                               | 2002                | 2003  | 2004  | 2005  | 2005  | 2006  |       |
 | Ratio of Earnings to Fixed Charges | 1.43 x               | 2.09 x | 1.86 x | 2.27 x | 1.92 x | 2.04 x | 1.87 x |
 
@@ -172,7 +172,7 @@ The notes will be: - senior obligations of MGM MIRAGE that will be equal in righ
 
 - Senior in right of payment to the $710 million 9.75% senior subordinated notes due 2007 of MGM
 MIRAGE and the $400 million 8.375% senior subordinated notes due 2011 of MGM MIRAGE,  together referred to herein as the "Subordinated Notes,  " and future Indebtedness that may be subordinated to the notes;
-- Senior in right of payment to the guarantees by MGM MIRAGE of the $492.2 million 10.25% senior subordinated notes due 2007 of Mandalay Resort Group,   the $297.6 million 9.375% senior subordinated notes due 2010 of Mandalay Resort Group,  and the $150 million 7.625% senior subordinated debentures due 2013 of Mandalay Resort Group,  (such notes together referred to herein as the "Subordinated Mandalay Notes");
+- Senior in right of payment to the guarantees by MGM MIRAGE of the $492.2 million 10.25% senior subordinated notes due 2007 of Mandalay Resort Group,    the $297.6 million 9.375% senior subordinated notes due 2010 of Mandalay Resort Group,  and the $150 million 7.625% senior subordinated debentures due 2013 of Mandalay Resort Group,  (such notes together referred to herein as the "Subordinated Mandalay Notes");
 - Guaranteed on a senior basis by each of the Subsidiaries of MGM MIRAGE other than Excluded Subsidiaries (see "— Subsidiary Guarantees" below) with the guarantee of Mandalay Resort Group being senior in right of payment to its obligations under the Subordinated Mandalay Notes; and
 - Effectively subordinated to all Indebtedness of Excluded Subsidiaries. As of September 30,  2006,  the Excluded Subsidiaries of MGM MIRAGE had outstanding Indebtedness of $37 million (excluding Indebtedness owed to MGM MIRAGE or any Subsidiary Guarantor).
 
@@ -184,7 +184,7 @@ MGM MIRAGE or any of its subsidiaries that may adversely affect the holders of t
 
 ## Principal,  Maturity,  and Interest
 
-The notes will initially be $750 million in aggregate principal amount. In addition,   we may issue an unlimited amount of additional notes under the indenture from time to time after this offering. We may create and issue additional notes with the same terms as the notes offered hereby so that the additional notes will form a single class with the notes offered hereby. MGM MIRAGE will issue the notes in denominations of $1,  000 and integral multiples of $1,  000. The notes will mature on January 15,  2017.
+The notes will initially be $750 million in aggregate principal amount. In addition,    we may issue an unlimited amount of additional notes under the indenture from time to time after this offering. We may create and issue additional notes with the same terms as the notes offered hereby so that the additional notes will form a single class with the notes offered hereby. MGM MIRAGE will issue the notes in denominations of $1,  000 and integral multiples of $1,  000. The notes will mature on January 15,  2017.
 
 Interest on the notes will accrue at the rate of 7.625% per annum and will be payable semiannually in arrears on and of each year until maturity,  beginning on July 15,  2007. Interest on the notes will accrue from the issue date of such notes or,  if interest has already been paid,  from the date it was most recently paid with respect to such notes. MGM MIRAGE will make each interest payment to the holders of record of the notes on the immediately preceding January 1 and July 1. Interest will be computed on the basis of a 360-day year comprised of twelve 30-day months.
 
@@ -292,7 +292,7 @@ Events of default in respect of the notes mean any of the following: - default i
 - Default in the payment of principal of or premium,  if any,  on any notes when due;
 - The acceleration of the maturity of any Indebtedness of MGM MIRAGE or any Subsidiary Guarantor
 (other than Non-recourse Indebtedness),  at any one time,  in an amount in excess of the greater of (a) $25 million and (b) 5% of Consolidated Net Tangible Assets,  if such acceleration is not annulled within 30 days after written notice as provided in the indenture;
-- Entry of final judgments against MGM MIRAGE or any Subsidiary Guarantor which remain undischarged for a period of 60 days,  provided that the aggregate of all such judgments exceeds $25 million,   and judgments exceeding $25 million remain undischarged for 60 days after notice as provided in the indenture;
+- Entry of final judgments against MGM MIRAGE or any Subsidiary Guarantor which remain undischarged for a period of 60 days,  provided that the aggregate of all such judgments exceeds $25 million,    and judgments exceeding $25 million remain undischarged for 60 days after notice as provided in the indenture;
 - Default in the performance,  or breach,  of any covenants or warranties in the indenture in respect of the notes if the default continues uncured for a period of 60 days after written notice to us by the trustee or to us and the trustee by the holders of at least 25% in principal amount of the outstanding notes as provided in the indenture; or
 - Certain events of bankruptcy,  insolvency,  or reorganization. If an event of default occurs and continues,  then the trustee or the holders of not less than 25% in principal amount of the outstanding notes may,  by a notice in writing to us,  and to the trustee if given by such holders,  declare to be due and payable immediately the principal of the outstanding notes.
 
@@ -419,9 +419,9 @@ Set forth below are certain defined terms used in the indenture. Reference is ma
 
 "Excluded Subsidiary" means MGM Grand Detroit,  LLC and its Subsidiaries (including MGM Grand Detroit II,  LLC),  MGMM Insurance Company,  Circus Circus New Jersey,  Inc.,  Go Vegas,  MGM MIRAGE Online,  LLC,  Pine Hills Development II,  Revive Partners,  LLC,  M 3 Nevada Insurance Company,  Nevada Landing Partnership (which owns 50% of Grand Victoria) (but only until such time as we receive the Illinois Gaming Approval),  other subsidiaries that may from time to time become Excluded Subsidiaries under the indenture (if,  among other conditions,  such other subsidiaries are not guarantors of our other indebtedness and are not subject to any covenants in,  or liens securing,  the Credit Facility or the Existing Senior Notes),  and MGM MIRAGE's non-U.S. Subsidiaries whose only tangible assets are located in foreign nations and their U.S. holding companies,  provided such holding companies have no other assets or operations and provided that,  except for MGM Grand Detroit,  LLC to the extent of any amounts of proceeds of borrowings under the Credit Facility made available to MGM Grand Detroit,  LLC,  if any Excluded Subsidiary becomes subject to the covenants in the Credit Facility applicable to the Subsidiary Guarantors or grants any Liens to secure the Credit Facility,  or if any Excluded Subsidiary guarantees or grants any Liens to secure any of the Existing Senior Notes,  such Excluded Subsidiary will thereafter not be an Excluded Subsidiary.
 
-"Existing Senior Notes" means (i) MGM MIRAGE's 6% senior notes due 2009 in the original aggregate principal amount of $1,  050 million,   (ii) MGM MIRAGE's 8.50% senior notes due 2010 in the original aggregate principal amount of $850 million,  (iii) MGM MIRAGE's 6.75% senior notes due 2012 in the original aggregate principal amount of $550 million,   (iv) MGM MIRAGE's 6.75% senior notes due 2013 in the original aggregate principal amount of $500 million,  (v) MGM MIRAGE's 5.875% senior notes due
+"Existing Senior Notes" means (i) MGM MIRAGE's 6% senior notes due 2009 in the original aggregate principal amount of $1,   050 million,    (ii) MGM MIRAGE's 8.50% senior notes due 2010 in the original aggregate principal amount of $850 million,  (iii) MGM MIRAGE's 6.75% senior notes due 2012 in the original aggregate principal amount of $550 million,    (iv) MGM MIRAGE's 6.75% senior notes due 2013 in the original aggregate principal amount of $500 million,  (v) MGM MIRAGE's 5.875% senior notes due
 
-2014 in the original aggregate principal amount of $525 million,   (vi) MGM MIRAGE's 6.625% senior notes due 2015 in the original aggregate principal amount of $875 million,  (vii) MGM MIRAGE's 6.875% senior notes due 2016 in the original aggregate principal amount of $250 million,  (viii) the Mandalay Senior Notes,  and (ix) the Mirage Notes.
+2014 in the original aggregate principal amount of $525 million,    (vi) MGM MIRAGE's 6.625% senior notes due 2015 in the original aggregate principal amount of $875 million,  (vii) MGM MIRAGE's 6.875% senior notes due 2016 in the original aggregate principal amount of $250 million,  (viii) the Mandalay Senior Notes,  and (ix) the Mirage Notes.
 
 "Funded Debt" means all Indebtedness of MGM MIRAGE or any Subsidiary Guarantor which
 (i) matures by its terms on,  or is renewable at the option of any obligor thereon to,  a date more than one year after the date of original issuance of such Indebtedness and (ii) ranks at least pari passu with the notes or the applicable Subsidiary Guarantee.
@@ -441,7 +441,7 @@ Of the partnership interests,  outstanding voting stock,  or other equity intere
 
 "Mirage Notes" means (i) Mirage Resorts,  Incorporated's 6.75% notes due 2007 in the original aggregate principal amount of $200 million,  (ii) Mirage Resorts,  Incorporated's 6.75% notes due 2008 in
 
-The original aggregate principal amount of $200 million,   and (iii) Mirage Resorts,   Incorporated's 7.25% debentures due 2017 in the original aggregate principal amount of $100 million.
+The original aggregate principal amount of $200 million,    and (iii) Mirage Resorts,    Incorporated's 7.25% debentures due 2017 in the original aggregate principal amount of $100 million.
 
 "Nevada Landing Partnership" means Nevada Landing Partnership,  an Illinois general partnership. “Non-recourse Indebtedness" means Indebtedness the terms of which provide that the lender's claim for repayment of such Indebtedness is limited solely to a claim against the property which secures such Indebtedness.
 
@@ -467,18 +467,18 @@ Subject to the terms and conditions of an underwriting agreement among us,  the 
 |                                   | Principal   |             |             |
 |-----------------------------------|-------------|-------------|-------------|
 | Underwriters                      | Amount      |             |             |
-| Barclays Capital Inc.             | $           | 120,  000,  000 |             |
-| BNP Paribas Securities Corp.      | 120,  000,  000 |             |             |
-| Wachovia Capital Markets,   LLC     | 120,  000,  000 |             |             |
-| UBS Securities LLC                | 120,  000,  000 |             |             |
-| Greenwich Capital Markets,   Inc.   | 60,  000,  000  |             |             |
-| Citigroup Global Markets Inc.     | 45,  000,  000  |             |             |
-| Deutsche Bank Securities Inc.     | 45,  000,  000  |             |             |
-| J.P. Morgan Securities Inc.       | 45,  000,  000  |             |             |
-| Commerzbank Capital Markets Corp. | 30,  000,  000  |             |             |
-| Daiwa Securities America Inc.     | 30,  000,  000  |             |             |
-| Jefferies & Company,   Inc.         | 15,  000,  000  |             |             |
-|                                   | Total       | $           | 750,  000,  000 |
+| Barclays Capital Inc.             | $           | 120,   000,   000 |             |
+| BNP Paribas Securities Corp.      | 120,   000,   000 |             |             |
+| Wachovia Capital Markets,    LLC     | 120,   000,   000 |             |             |
+| UBS Securities LLC                | 120,   000,   000 |             |             |
+| Greenwich Capital Markets,    Inc.   | 60,   000,   000  |             |             |
+| Citigroup Global Markets Inc.     | 45,   000,   000  |             |             |
+| Deutsche Bank Securities Inc.     | 45,   000,   000  |             |             |
+| J.P. Morgan Securities Inc.       | 45,   000,   000  |             |             |
+| Commerzbank Capital Markets Corp. | 30,   000,   000  |             |             |
+| Daiwa Securities America Inc.     | 30,   000,   000  |             |             |
+| Jefferies & Company,    Inc.         | 15,   000,   000  |             |             |
+|                                   | Total       | $           | 750,   000,   000 |
 
 The obligations of the underwriters under the underwriting agreement,  including their agreement to purchase notes from us,  are several and not joint. The underwriting agreement provides that the underwriters will purchase all the notes if any of them are purchased.
 
@@ -592,7 +592,7 @@ Except as otherwise provided in the applicable prospectus supplement,  we expect
 
 The following table sets forth our ratio of earnings to fixed charges for the periods indicated:
 
-| For the Years Ended December 31,     |      |      |      |      |
+| For the Years Ended December 31,      |      |      |      |      |
 |------------------------------------|------|------|------|------|
 | 2001                               | 2002 | 2003 | 2004 | 2005 |
 
