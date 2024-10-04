@@ -101,7 +101,7 @@ For now,  let's just note two things that we should keep in mind:
 
    The first inequality on the left just reflects that $\log(1 + x) \leq x$ for any real $x$. The second inequality on the right is a special case of a mathematical law called **Jensen's inequality**. For risky returns with non-zero variance,  both inequalities are strict. We get a more precise statement about the relation between these two expectations if we impose an assumption about the statistical distribution of returns. More on this below.
 
-1. The log of the weighted average of simple returns (i.e.,  the log of a portfolio return) is not equal to the weighted average of the log returns of the individual assets. Suppose we have $N$ assets and we collect their returns $R_1,   R_2,   \ldots,   R_N$ in the vector $r$. For a portfolio with weights $\omega$,  the (simple) return on a portfolio is simply the weighted average of individual asset (simple) returns:
+1. The log of the weighted average of simple returns (i.e.,  the log of a portfolio return) is not equal to the weighted average of the log returns of the individual assets. Suppose we have $N$ assets and we collect their returns $R_1,    R_2,    \ldots,    R_N$ in the vector $r$. For a portfolio with weights $\omega$,  the (simple) return on a portfolio is simply the weighted average of individual asset (simple) returns:
 
    $$
    R_p = \omega^{\prime} r \tag{3.7}
@@ -137,7 +137,7 @@ Empirically,  we also see that the distribution of historical returns is closer 
 
 But there are some important exceptions from log-normality: Occasionally,  the stock market experiences violent crashes. This makes the left tail of the distribution much fatter than in a normal distribution. Occasionally,  there are also huge upward movements in a single month. This generates the fat right tail of the distribution in the top panel of Figure 3.2.
 
-The log-normal distribution has a number of properties that we will use in the coming weeks. If $r_t \sim N(\mu,   \sigma^2)$ and $1 + R_t = \exp(r_t)$,  then:
+The log-normal distribution has a number of properties that we will use in the coming weeks. If $r_t \sim N(\mu,    \sigma^2)$ and $1 + R_t = \exp(r_t)$,  then:
 
 $$
 \log \mathbb{E}[1 + R_t] = \mathbb{E}[\log(1 + R_t)] + \frac{1}{2} \operatorname{var}[\log(1 + R_t)] = \mathbb{E}[r_t] + \frac{1}{2} \operatorname{var}(r_t) = \mu + \frac{1}{2} \sigma^2 \tag{3.8}
@@ -169,7 +169,7 @@ $$
 P_t = \frac{\mathbb{E}_t[D_{t+1}]}{1 + R} + \frac{\mathbb{E}_t[D_{t+2}]}{(1 + R)^2} + \frac{\mathbb{E}_t[D_{t+3}]}{(1 + R)^3} + \ldots \tag{3.11}
 $$
 
-where $P_t$ is the present value of cash flows,  $D_{t+1},   D_{t+2},   \ldots$ are future cash flows,  and $R$ is a (risk-adjusted) discount rate. Here we are interested in the valuation of the stock market in aggregate,  so $D$ would represent the aggregate dividends of all stocks. More precisely,  $D_t$ would comprise aggregate dividends plus aggregate share repurchases,  i.e.,  the entire flow of cash to investors. To keep it short,  I'll just refer to $D_t$ as dividends.
+where $P_t$ is the present value of cash flows,  $D_{t+1},    D_{t+2},    \ldots$ are future cash flows,  and $R$ is a (risk-adjusted) discount rate. Here we are interested in the valuation of the stock market in aggregate,  so $D$ would represent the aggregate dividends of all stocks. More precisely,  $D_t$ would comprise aggregate dividends plus aggregate share repurchases,  i.e.,  the entire flow of cash to investors. To keep it short,  I'll just refer to $D_t$ as dividends.
 
 You may also recall that if the expected cash flows are growing at a constant rate $G$,  so that $\mathbb{E}_t[D_{t+1}] = (1 + G)D_t$,  $\mathbb{E}_t[D_{t+2}] = (1 + G)^2D_t$,  then we get the so-called Gordon growth model:
 
@@ -353,7 +353,7 @@ A reasonable starting point for such a model of sentiment could be that sentimen
 We can capture these properties with a first-order autoregressive process,  or AR(1) process:
 
 $$
-s_{t+1} = \phi s_t + \eta_{t+1},   \quad \eta_{t+1} \sim \mathcal{N}(0,   \sigma_s^2)
+s_{t+1} = \phi s_t + \eta_{t+1},    \quad \eta_{t+1} \sim \mathcal{N}(0,    \sigma_s^2)
 $$
 
 where $0 < \phi < 1$,  which makes sentiment mean-reverting. Thus,  every period,  sentiment is subject to an unpredictable shock $\eta_{t+1}$. In addition,  some of the previous period's sentiment carries over to the next period through the $s_t$ term. In this model,  we have:
@@ -443,13 +443,13 @@ $$
 I simulate unexpected changes in log dividends as a normal random variable:
 
 $$
-d_{t+1} - d_t = g + \varepsilon_{t+1},   \quad \varepsilon_{t+1} \sim \mathcal{N}(0,   \sigma_d^2) \tag{3.38}
+d_{t+1} - d_t = g + \varepsilon_{t+1},    \quad \varepsilon_{t+1} \sim \mathcal{N}(0,    \sigma_d^2) \tag{3.38}
 $$
 
 and the level of sentiment as in (3.30):
 
 $$
-\eta_{t+1} \sim \mathcal{N}(0,   \sigma_s^2) 
+\eta_{t+1} \sim \mathcal{N}(0,    \sigma_s^2) 
 $$
 
 i.e.,  also with normally distributed shocks. Based on the simulated $d_t$ and $s_t$ series,  I then calculate a series of first $v_t$,  and then $F_t$ and $P_t$ using the above formulas. Finally,  I get a series of realized log returns by solving (3.18) for $r_{t+1}$,  which yields:
