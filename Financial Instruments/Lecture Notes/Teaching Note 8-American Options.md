@@ -26,18 +26,18 @@ aliases: [LECTURE NOTE 8 AMERICAN OPTIONS]
 
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
 1. **American options are at least as valuable as European options**:
-$$C^{A}(S,   K,   t,   T) \geq C^{E}(S,   K,   t,   T)$$
+$$C^{A}(S,    K,    t,    T) \geq C^{E}(S,    K,    t,    T)$$
 
-$$ P^{A}(S,   K,   t,   T) \geq P^{E}(S,   K,   t,   T) $$
-2. **American options with longer time to maturity are at least as valuable as the same option with shorter time to maturity**. If $T_2 > T_1$: $$C^{A}(S,   K,   t,   T_2) \geq C^{A}(S,   K,   t,   T_1)$$
-$$P^{A}(S,   K,   t,   T_2) \geq P^{A}(S,   K,   t,   T_1) $$
-3. **An American option is at least as valuable as its intrinsic value**:$$C^{A}(S,   K,   t,   T) \geq \max(S - K,    0); $$$$ P^{A}(S,   K,   t,   T) \geq \max(K - S,    0)$$
-4. **An American Call option on non-dividend-paying stocks** has the following bound: $$C^{A}(S,   K,   t,   T) \geq \max(S - K \times e^{-r(T-t)},    0)$$
+$$ P^{A}(S,    K,    t,    T) \geq P^{E}(S,    K,    t,    T) $$
+2. **American options with longer time to maturity are at least as valuable as the same option with shorter time to maturity**. If $T_2 > T_1$: $$C^{A}(S,    K,    t,    T_2) \geq C^{A}(S,    K,    t,    T_1)$$
+$$P^{A}(S,    K,    t,    T_2) \geq P^{A}(S,    K,    t,    T_1) $$
+3. **An American option is at least as valuable as its intrinsic value**:$$C^{A}(S,    K,    t,    T) \geq \max(S - K,     0); $$$$ P^{A}(S,    K,    t,    T) \geq \max(K - S,     0)$$
+4. **An American Call option on non-dividend-paying stocks** has the following bound: $$C^{A}(S,    K,    t,    T) \geq \max(S - K \times e^{-r(T-t)},     0)$$
 
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
 
 1. An American Call option on a non dividend paying stocks has
-$$C^{A}(S,   K,   t,   T)\geq\operatorname*{max}(S-K\times e^{-r(T-t)})$$
+$$C^{A}(S,    K,    t,    T)\geq\operatorname*{max}(S-K\times e^{-r(T-t)})$$
 - To see this,  if *S < K* × e−r(T−t) =⇒ right-hand-side = 0 and the inequality is obvious.
 - If *S > K* × e−r(T−t) and CA(S,  K,  t,  T) *< S* − K × e−r(T−t),  then (a) short stock S,  (b)
 buy the option and (c) invest K × e−r(T−t). Today we get S − CA − Ke−r(T−t) > 0.
@@ -52,9 +52,9 @@ buy the option and (c) invest K × e−r(T−t). Today we get S − CA − Ke−
 	- The following figures plot the March 17,  2023,  call and put options for various moneyness $K/S_0$.
 	- The option values are normalized by the value of the index,  so the figure plots $Call/S_0$ and $Put/S_0$.
 - The figure also plots the intrinsic value,  also normalized by the value of the index:
-For Puts: Normalized Intrinsic Value$\,   =\dfrac{\max(K-S_{0})}{S_{0}}=\max(\text{Moneyness}-1,   0)$
+For Puts: Normalized Intrinsic Value$\,    =\dfrac{\max(K-S_{0})}{S_{0}}=\max(\text{Moneyness}-1,    0)$
 
-For Calls: Normalized Intrinsic Value$\,   =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\text{Moneyness})$
+For Calls: Normalized Intrinsic Value$\,    =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-\text{Moneyness})$
 
 ## EXAMPLE: SPY OPTIONS EXAMPLE: SPY OPTIONS - NOTE
 
@@ -75,15 +75,15 @@ For Calls: Normalized Intrinsic Value$\,   =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1-
 
 - **Question**: Should you ever exercise an American Call option on a non dividend paying stock before maturity?
 - **Example**: Example: You own a 3-month Call option with $K=100$,  and today $S=105$. Should you exercise now or wait until maturity?
-  - Since $C(S,   K,   T) \geq \max(0,    S - K \times e^{-rT})$,  selling the option is better as $C(S,   K,   T) > S - K$.
+  - Since $C(S,    K,    T) \geq \max(0,     S - K \times e^{-rT})$,  selling the option is better as $C(S,    K,    T) > S - K$.
 	- If you exercise you gain $5 = S − K$.
 	- If you wait one more day,  you may get more as the price may increase.
 But you may also lose.
 - Should you exercise now or wait until maturity?
-- If you sell the option,  you get $C(S,    K,    0,    T)$ today. If you exercise,  you get $S − K$.
+- If you sell the option,  you get $C(S,     K,     0,     T)$ today. If you exercise,  you get $S − K$.
 - We know that for non dividend paying stocks
-$$C(S,   K,   T)\geq\operatorname*{max}(0,   S-K e^{-r T})$$
-- Since $S − Ke^{−rT} > S − K > 0$,  selling the option is better as $C(S,    K,    0,    T) > S − K$
+$$C(S,    K,    T)\geq\operatorname*{max}(0,    S-K e^{-r T})$$
+- Since $S − Ke^{−rT} > S − K > 0$,  selling the option is better as $C(S,     K,     0,     T) > S − K$
 
 ## AMERICAN CALL OPTIONS: EARLY EXERCISE
 
@@ -134,7 +134,7 @@ $$C(S,   K,   T)\geq\operatorname*{max}(0,   S-K e^{-r T})$$
 - The value of a call is always higher than the value of a forward contract with the same strike price (the call always pays at least as much as the forward!):
 $$
 \begin{align}
-C(S,    K,    t,    T) &\geq S - PV(D) - K e^{-rT} \\
+C(S,     K,     t,     T) &\geq S - PV(D) - K e^{-rT} \\
               &\geq S - D^{+} - K e^{-rT} \\
               &> S - K(1 - e^{-rT}) - K e^{-rT} \\
               &= S - K
@@ -179,18 +179,18 @@ $$
 
 - Consider now the American put option
 - At maturity i = 2 the payoff of the American option is the same as the European option
-$$p_{2,   j}^{A}=p_{2,   j}^{E}\quad\mathrm{~for~}\ j=u u,   \ u d,   \ d u,   \ d d$$
+$$p_{2,    j}^{A}=p_{2,    j}^{E}\quad\mathrm{~for~}\ j=u u,    \ u d,    \ d u,    \ d d$$
 - At i = 1,  at each node u and d compare the payoff if exercise with expected payoff if wait.
-- In node (1,  u) the put option is OTM =⇒ no exercise. Note that $p^{A}_{1,   u} = 0$.
+- In node (1,  u) the put option is OTM =⇒ no exercise. Note that $p^{A}_{1,    u} = 0$.
 - In node (1,  d)
 	1. If exercise get K − S = 100 − 80.886 = 19.114.
 	1. If wait,  the value of the option is equal to the European counterpart
 
-Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,   d}]=e^{-r/2}E^{*}[p_{2}^{E}|S_{1,   d}]=18.119$
+Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{2}^{E}|S_{1,    d}]=18.119$
 
 - Thus,  **exercise in node** (1,  d) is optimal.
-- =⇒ The value of the option in node (1,  d) is equal to 19.114. That is$$p_{1,   d}^{A}=\operatorname*{max}{(K-S_{1,   d},   \mathrm{Value~of~Option~if~Wait})}$$
-- The value of the option at time 0 is then$$p_{0}^{A}=e^{-r/2}E^{*}\left[p_{1}^{A}\right]=e^{-r/2}\;(1-q^{*})\;p_{1,   d}^{A}=10.017$$
+- =⇒ The value of the option in node (1,  d) is equal to 19.114. That is$$p_{1,    d}^{A}=\operatorname*{max}{(K-S_{1,    d},    \mathrm{Value~of~Option~if~Wait})}$$
+- The value of the option at time 0 is then$$p_{0}^{A}=e^{-r/2}E^{*}\left[p_{1}^{A}\right]=e^{-r/2}\;(1-q^{*})\;p_{1,    d}^{A}=10.017$$
 
 ## AMERICAN OPTION: TWO STEP TREE
 
@@ -200,13 +200,13 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,   d}]=e^{-r/2}E^{*}[p_{2
 
 - The tree methodology can be easily extended to many steps. - Remember that the pair (*i,  j*) represent time i = 0,  1,  2*…,  n* and node j = 1,  2,  …,  n
 - With European style derivatives,  we solve for prices Vi,  j using the rule
-$$V_{i,   j}^{E}=e^{-r\times h}\times E^{*}\left[V_{i+1}^{E}|(i,   j)\right]$$
+$$V_{i,    j}^{E}=e^{-r\times h}\times E^{*}\left[V_{i+1}^{E}|(i,    j)\right]$$
 - where h = *T/n* is the time interval between steps.
-- With American style derivatives,  we solve for prices$V_{i,   j}$using the rule
-$$V_{i,   j}^{A}=\operatorname*{max}\Big\{\ g_{i,   j}\,   \ \ e^{-r\times h}\times E^{*}\left[V_{i+1}^{A}|(i,   j)\right]\Big\}$$
+- With American style derivatives,  we solve for prices$V_{i,    j}$using the rule
+$$V_{i,    j}^{A}=\operatorname*{max}\Big\{\ g_{i,    j}\,    \ \ e^{-r\times h}\times E^{*}\left[V_{i+1}^{A}|(i,    j)\right]\Big\}$$
 - where gi,  j is the payoff from the American derivative if exercise occurs in node (*i,  j*)
 - For instance,  for the case of put options,  we have
-$$p_{i,   j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,   j}\,   \ \ e^{-r\times h}\times\big(q^{*}\times p_{i+1,   j}^{A}+(1-q^{*})\times p_{i+1,   j+1}^{A}\big)\Big\}$$
+$$p_{i,    j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,    j}\,    \ \ e^{-r\times h}\times\big(q^{*}\times p_{i+1,    j}^{A}+(1-q^{*})\times p_{i+1,    j+1}^{A}\big)\Big\}$$
 
 ## AMERICAN OPTIONS. MULTI STEP TREES BINOMIAL TREE MODEL
 
@@ -237,28 +237,28 @@ $$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 
 - Suppose you sold the option to a client. - At time i = 0 we must set up a portfolio that replicates pA
 1. The same rule as in TN 4 applies:
-1. Compute$\Delta=(p_{1,   u}^{A}-p_{1,   d}^{A})/(S_{1,   u}-S_{1,   d})=-0.447$
-1. Compute bonds$B_{0}=e^{-r/2}\left(p_{1,   u}^{A}-\Delta S_{1,   u}\right)=54.733$
+1. Compute$\Delta=(p_{1,    u}^{A}-p_{1,    d}^{A})/(S_{1,    u}-S_{1,    d})=-0.447$
+1. Compute bonds$B_{0}=e^{-r/2}\left(p_{1,    u}^{A}-\Delta S_{1,    u}\right)=54.733$
 1. The replicating portfolio is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
 - At time i = 1 the replicating portfolio has payoffs
-	- In the Up Node $P_{1,   u}=\Delta S_{1,   u}+B_{0}e^{r/2}=0$
-	- In the Down Node $P_{1,   d}=\Delta S_{1,   d}+B_{0}e^{r/2}=19.114$
+	- In the Up Node $P_{1,    u}=\Delta S_{1,    u}+B_{0}e^{r/2}=0$
+	- In the Down Node $P_{1,    d}=\Delta S_{1,    d}+B_{0}e^{r/2}=19.114$
 - At time i = 1 we need to rebalance.
 - In the up node,  ∆ = 0,  and so we are out of the market. - In the down node,  the option holder is supposed to optimally exercise the option,  and so we
 simply hand them the payoff
-$$P_{1,   d}=K-S_{1,   d}=19.114$$
+$$P_{1,    d}=K-S_{1,    d}=19.114$$
 - Note that the node (2,  d) is never reached under the optimal exercise strategy.
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
-- What if the option holder does not exercise the American option in node $(1,   d)$?
+- What if the option holder does not exercise the American option in node $(1,    d)$?
    - In this case,  we must continue with the replicating portfolio until time $i = 2$.
    - The new replicating portfolio is:
-	  - $\Delta_{1,   d} = \frac{p_{2,   du}^A - p_{2,   dd}^A}{S_{2,   du} - S_{2,   dd}} = -1$.
-	  - $B_{1,   d} = e^{r/2}(p_2^A - \Delta_{1,   d} S_{2,   u}) = 99.005$.
-   - The value of the new replicating portfolio in node $(1,   d)$ is $P_{1,   d}^{new} = \Delta_{1,   d} S_{1,   d} + B_{1,   d} = 18.119$.
-   - The value is lower than the value obtained earlier: $P_{1,   d} = 19.114$ from the initial replicating strategy.
+	  - $\Delta_{1,    d} = \frac{p_{2,    du}^A - p_{2,    dd}^A}{S_{2,    du} - S_{2,    dd}} = -1$.
+	  - $B_{1,    d} = e^{r/2}(p_2^A - \Delta_{1,    d} S_{2,    u}) = 99.005$.
+   - The value of the new replicating portfolio in node $(1,    d)$ is $P_{1,    d}^{new} = \Delta_{1,    d} S_{1,    d} + B_{1,    d} = 18.119$.
+   - The value is lower than the value obtained earlier: $P_{1,    d} = 19.114$ from the initial replicating strategy.
    - – = ⇒The fact that the counterpart forgets to exercise the American option at node (1,  d) make us earn money:
-Profit from suboptimal exercise of option holder = $$P_{1,   d} − P^{new}_{1,   d} = 19.113 − 18.119 = 0.99$$
+Profit from suboptimal exercise of option holder = $$P_{1,    d} − P^{new}_{1,    d} = 19.113 − 18.119 = 0.99$$
 ## CONCLUSION
 - **American options** are harder to evaluate due to the timing decision of when to exercise (if at all).
    - The decision to exercise relies on the value of the option in case of no exercise.

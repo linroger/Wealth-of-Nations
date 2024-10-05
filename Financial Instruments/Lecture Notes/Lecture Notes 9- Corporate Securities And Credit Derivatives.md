@@ -43,9 +43,9 @@ $$V_{T}=V_{0}\times e^{\left(\mu-\frac{1}{2}\sigma^{2}\right)T+\sigma\sqrt{T}\ep
 - The payoff to equity holders is then the one of a call option
 $$\operatorname*{max}{\big(}V_{T}-F{\big)}$$
 - If we denote E0 the value of equity today,  we can apply Black and Scholes formula and obtain
-$$E_{0}=\mathrm{Call}\left(V_{0}, F, r, T, \sigma\right)$$
+$$E_{0}=\mathrm{Call}\left(V_{0},  F,  r,  T,  \sigma\right)$$
 - where Call (V0,  F,  r,  T,  σ) is just Black & Scholes formula
-$$\mathrm{Call}\left(V_{0}, F, r, T, \sigma\right)=V_{0}\;N(d_{1})-F\;e^{-r T}\;N(d_{2})$$
+$$\mathrm{Call}\left(V_{0},  F,  r,  T,  \sigma\right)=V_{0}\;N(d_{1})-F\;e^{-r T}\;N(d_{2})$$
 
 $$d_{1}=\frac{\ln\left(\frac{V_{0}}{F}\right)+\left(r+\sigma^{2}/2\right)T}{\sigma\sqrt{T}};\;\;\;\;\;d_{2}=d_{1}-\sigma\sqrt{T}$$
 
@@ -62,20 +62,20 @@ $${\mathrm{Volatility~of~Equity~Returns}}=\sigma_{E}=\left({\frac{V N(d_{1})}{V 
 ![](12cfba8371.png)
 ## THE MERTON MODEL - THE VALUE OF DEBT
 - What is the value of defaultable debt in the model? - The payoff to debt holders is
-$$\operatorname*{min}\left(V_{T}, F\right)=V_{T}-\operatorname*{max}\left(V_{T}-F\right)$$
+$$\operatorname*{min}\left(V_{T},  F\right)=V_{T}-\operatorname*{max}\left(V_{T}-F\right)$$
 - The value today of this payoff is then
-$$D_{0}=V_{0}-E_{0}=V_{0}-C a l l(V_{0}, F, r, T, \sigma)$$
+$$D_{0}=V_{0}-E_{0}=V_{0}-C a l l(V_{0},  F,  r,  T,  \sigma)$$
 - Note that this expression also comes immediately from the balance sheet identity
 
 ## ASSETS OF A FIRM = DEBT + EQUITY
-- Exploiting put call parity,  we can express the value of debt alternatively,  and more intuitively,  as$$D_{0}=Fe^{-r\times T}-Put(V_{0}, F, r, T, \sigma)$$The value of debt is equal to the risk free debt$Fe^{-rT}$minus a put option,  representing the (risk adjusted) expected losses due to the possibility that risky assets will not be sufficient to pay the debt at maturity.
+- Exploiting put call parity,  we can express the value of debt alternatively,  and more intuitively,  as$$D_{0}=Fe^{-r\times T}-Put(V_{0},  F,  r,  T,  \sigma)$$The value of debt is equal to the risk free debt$Fe^{-rT}$minus a put option,  representing the (risk adjusted) expected losses due to the possibility that risky assets will not be sufficient to pay the debt at maturity.
 ## CREDIT SPREADS UNDER THE MERTON MODEL
 - We can then use the Merton's model to compute a corporate bond credit spread.
-- From the definition of yield to maturity$y$for a corporate bond,  we have the equality$$D_{0}=e^{-y\times T}\times F\quad\implies\quad Fe^{-r\times T}-Put(V_{0}, F, r, T, \sigma)=e^{-y\times T}F$$
+- From the definition of yield to maturity$y$for a corporate bond,  we have the equality$$D_{0}=e^{-y\times T}\times F\quad\implies\quad Fe^{-r\times T}-Put(V_{0},  F,  r,  T,  \sigma)=e^{-y\times T}F$$
 - which implies
-$$e^{-r\times T}-P u t\left(\frac{V_{0}}{F}, r, T, \sigma\right)=e^{-y\times T}1-e^{r\times T}\times P u t\left(\frac{V_{0}}{F}, r, T, \sigma\right)=e^{-(y-r)\times T}$$
+$$e^{-r\times T}-P u t\left(\frac{V_{0}}{F},  r,  T,  \sigma\right)=e^{-y\times T}1-e^{r\times T}\times P u t\left(\frac{V_{0}}{F},  r,  T,  \sigma\right)=e^{-(y-r)\times T}$$
 - and finally
-$$\mathrm{Credit~Spread}=y-r=-{\frac{1}{T}}l o g\left[1-e^{r\times T}P u t\left({\frac{V_{0}}{F}}, r, T, \sigma\right)\right]$$
+$$\mathrm{Credit~Spread}=y-r=-{\frac{1}{T}}l o g\left[1-e^{r\times T}P u t\left({\frac{V_{0}}{F}},  r,  T,  \sigma\right)\right]$$
 
 ## CREDIT SPREADS UNDER THE MERTON MODEL
 
@@ -103,11 +103,11 @@ $$
 $$
 
 - That is,  senior and junior debt and equity must satisfy
-	- Payoff of Senior Debt =$V − max (V − F_S,  0)$
-	- Payoff of Junior Debt =$max (V − F_S,  0) − max (V − (F_S + F-J),  0)$
-	- Payoff of Equity =$max (V − (F_S + F_J),  0)$
+	- Payoff of Senior Debt =$V − max (V − F_S,   0)$
+	- Payoff of Junior Debt =$max (V − F_S,   0) − max (V − (F_S + F-J),   0)$
+	- Payoff of Equity =$max (V − (F_S + F_J),   0)$
 - We have then have
-$$\begin{aligned}D_{S}~&=~V-BSC\left(V, F_S, r, T, \sigma\right)\\D_{J}~&=~BSC\left(V, F_S, r, T, \sigma\right)-BSC\left(V, F_S+F_J, r, T, \sigma\right)\\E_0~&=~BSC\left(V, F_S+F_J, r, T, \sigma\right)\end{aligned}$$
+$$\begin{aligned}D_{S}~&=~V-BSC\left(V,  F_S,  r,  T,  \sigma\right)\\D_{J}~&=~BSC\left(V,  F_S,  r,  T,  \sigma\right)-BSC\left(V,  F_S+F_J,  r,  T,  \sigma\right)\\E_0~&=~BSC\left(V,  F_S+F_J,  r,  T,  \sigma\right)\end{aligned}$$
 - Next Figure plots$D_{J}\mathrm{~and~}D_{S}\mathrm{~when~}F_S=F_J=100.$
 
 ## RELATIVE PRICING OF JUNIOR AND SENIOR DEBT
@@ -130,7 +130,7 @@ $$\begin{aligned}D_{S}~&=~V-BSC\left(V, F_S, r, T, \sigma\right)\\D_{J}~&=~BSC\l
 	- Therefore,  the exercised warrants are worth
 $$\text{Value of 1 Share{\it  after }Exercise}-K=\frac{V_{T}+m\times K}{n+m}-K=\frac{n}{n+m}\left(\frac{V_{T}}{n}-K\right)$$
 - The term$V_{T}/n$is the value of one share without the warrants. The term$n/(n+m)$is called "dilution adjustment".
-- Thus:$$\text{Value of warrants}=\frac{n}{n+m}BSC\left(\frac{V_{0}}{n}, K, r, \sigma, T\right)$$
+- Thus:$$\text{Value of warrants}=\frac{n}{n+m}BSC\left(\frac{V_{0}}{n},  K,  r,  \sigma,  T\right)$$
 
 ## BOND AND EQUITY HOLDERS' CONFLICTS OF INTEREST
 
@@ -143,7 +143,7 @@ conflict between equity holders and debt holders.
 - Equity holders are long a call option =⇒ They like dividend payments
 	- The decrease in value of equity is less than the dollar amount received in dividends.
 	- Intuition: The Delta of equity is less than 1,  ∆ = N(d1) < 1,  =⇒$1 dollar decrease in assets V implies less than$1 decrease in equity.
-- Example: A firm has V =$10bil,  F =$10bil,  T = 5,  r = 2%,  σ = 10%. Then$E_0$=$1.4066 bil.
+- Example: A firm has V =$10bil,   F =$10bil,  T = 5,  r = 2%,  σ = 10%. Then$E_0$=$1.4066 bil.
 	- If the firm makes a cash dividend payment of$1 bil =⇒ V = 9 =⇒ E0 = 0.7794 =⇒ Equity lost 0.6272 bil in equity value,  but got the 1 bil cash.
 	- Where is this money coming from?
 - The value of bonds must have gone down by the same amount =⇒ Bondholders dislike dividend payments.
@@ -191,7 +191,7 @@ Distance to Default (DD)$=$$d_{2}=\dfrac{\ln\left(\dfrac{V_{0}}{F}\right)+\left(
 	- The market value of equity;
 	- The volatility of equity.
 - From the Black Scholes formula for equity we obtained earlier
-$$E_{0}=\mathrm{Call}(V_{0}, K, T, r, \delta, \sigma)=N\left(d_{1}\right)V_{0}-K e^{-r(T-t)}N\left(d_{2}\right)$$
+$$E_{0}=\mathrm{Call}(V_{0},  K,  T,  r,  \delta,  \sigma)=N\left(d_{1}\right)V_{0}-K e^{-r(T-t)}N\left(d_{2}\right)$$
 - Note that here we may use a different K,  as the horizon is different
 - From here,  we can also compute the volatility of equity$$\sigma_{E}\ =\ N\left(d_{1}\right)\left(\frac{V_{0}}{E_{0}}\right)\sigma$$
 - Therefore,  we set
@@ -225,7 +225,7 @@ $$d_{2}=2.69\quad\mathrm{~and~}\quad p_{T}=36\mathrm{bp}$$
 ## THE CREDIT DERIVATIVES MARKET
 
 - Credit derivatives are securities whose payoff depend on a "credit event"
-- The credit event could be "default, " change in the credit rating of the issuer,  or change in credit spreads.
+- The credit event could be "default,  " change in the credit rating of the issuer,  or change in credit spreads.
 - The credit derivatives market skyrocketed in the 2000 - 2008 period.
 ![](593a5e60298e50f161ea6a9ef817db3f.png)
 
@@ -278,7 +278,7 @@ d highly esoream market nk loan mand its base of companies,  credit derivavey. T
 - In principle,  the credit default swap spread should coincide with the credit spread of the underlying bond.
 	- For instance,  with the credit spread formula in Merton's model discussed earlier:
 
-$$\mathrm{Credit~Spread}=y-r=-{\frac{1}{T}}l o g\left[1-e^{r\times T}P u t\left({\frac{V_{0}}{F}}, r, T, \sigma\right)\right]$$
+$$\mathrm{Credit~Spread}=y-r=-{\frac{1}{T}}l o g\left[1-e^{r\times T}P u t\left({\frac{V_{0}}{F}},  r,  T,  \sigma\right)\right]$$
 
 - However,  traders do not use this formula,  for a number of reasons:
 	- The bonds underlying CDS are not zero coupon,  and so we have to adjust for coupon payments of the underlying bonds.
