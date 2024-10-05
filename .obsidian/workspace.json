@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9- Corporate Securities And Credit Derivatives.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
+                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md"
               }
             }
           }
@@ -224,14 +224,14 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "37f5db6ed6019b14",
+  "active": "98e455c4eddfe500",
   "lastOpenFiles": [
     "Financial Instruments/Lecture Notes/Lecture Notes 9- Corporate Securities And Credit Derivatives.md",
+    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
     "Financial Instruments/Lecture Notes/Teaching Note 8-American Options.md",
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
     "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
-    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Financial Engineering/9._Introduction_to_Real_Options.md",
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Attachments/Obsidian 2024-10-04 16.38.00.png",
