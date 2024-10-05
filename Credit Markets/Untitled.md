@@ -1,14 +1,14 @@
 # WHAT IS CREDIT DEFAULT RISK?
 
-- Course objective: introduce basic concepts on pricing, trading and portfolio risk management for credit instruments. Discuss credit market segments, seniority ranks, instrument types & specs, [Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md), execution venues and trading protocols
-- Understand the valuation of an instrument with default risk
-- Focus on:
-	 - corporate bonds and loans,
-	 - foreign sovereign bonds,
-	 - fixed income ETFs,
-	 - Credit Default Swaps (CDS) and
-	 - CDS Indices
-- Good insight into the daily activity of a credit trading desk
++ Course objective: introduce basic concepts on pricing, trading and portfolio risk management for credit instruments. Discuss credit market segments, seniority ranks, instrument types & specs, [Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md), execution venues and trading protocols
++ Understand the valuation of an instrument with default risk
++ Focus on:
+	 + corporate bonds and loans,
+	 + foreign sovereign bonds,
+	 + fixed income ETFs,
+	 + Credit Default Swaps (CDS) and
+	 + CDS Indices
++ Good insight into the daily activity of a credit trading desk
 
 # WHAT IS CREDIT DEFAULT RISK?
 
@@ -16,31 +16,31 @@
 
 # WHEN DOES A COMPANY DEFAULT?
 
-- Issuer default triggered by non-payment of contractual obligation!
-- Usually, caused by missed coupon or principal payment
-- In default, coupon payments are stopped and all liabilities becomes due
-- Assets are liquidated and used to pay the debt holders, based on seniority rank in the capital structure
-- Technical/Non-financial default: can lead to accelerated debt repayment and financial default
-- See appendix on "structural" vs "reduced form" credit risk modeling approaches
++ Issuer default triggered by non-payment of contractual obligation!
++ Usually, caused by missed coupon or principal payment
++ In default, coupon payments are stopped and all liabilities becomes due
++ Assets are liquidated and used to pay the debt holders, based on seniority rank in the capital structure
++ Technical/Non-financial default: can lead to accelerated debt repayment and financial default
++ See appendix on "structural" vs "reduced form" credit risk modeling approaches
 
 # CREDIT MARKET SEGMENTS
 
-- Investment Grade
-	 - low risk of default
-- Speculative Grade / High Yield
-	 - higher risk of default
-- Role of credit rating agencies in assessing issuer default risk
++ Investment Grade
+	 + low risk of default
++ Speculative Grade / High Yield
+	 + higher risk of default
++ Role of credit rating agencies in assessing issuer default risk
 ![](Credit%20Markets%20Session%201-20240404084600781.webp)
 # INSTRUMENT TYPES & CONTRACTUAL SPECS CONTRACTUAL SPECS: CORPORATE BONDS
 
-- Issuer name
-- Issue currency, price and amount
-- Issue maturity
-- Seniority rank in capital structure
-- Coupon payment type: fixed rate, floating rate (+ reset index), variable rate, etc
-- Coupon frequency & day count convention: semi-annual, 30/360, etc
-- Call/Put schedules / embedded optionality: right to exercise call/put options at pre-specified prices
-- Covenants (positive vs negative, mostly high yield)
++ Issuer name
++ Issue currency, price and amount
++ Issue maturity
++ Seniority rank in capital structure
++ Coupon payment type: fixed rate, floating rate (+ reset index), variable rate, etc
++ Coupon frequency & day count convention: semi-annual, 30/360, etc
++ Call/Put schedules / embedded optionality: right to exercise call/put options at pre-specified prices
++ Covenants (positive vs negative, mostly high yield)
 ![](Credit%20Markets%20Session%201-20240404084609921.webp)
 # INSTRUMENT TYPES & CONTRACTUAL SPECS FIXED RATE IG BOND EXAMPLE: ORACLE
 
@@ -86,89 +86,101 @@ Instrument types & contractual specs
 
 Market Participants: Mostly Institutional Players
 
-- Commercial and investment banks
-- Pension funds
-- Insurance companies
-- Mutual funds
-- Various asset managers / ETF issuers
-- Hedge funds
-- Sovereign funds
-- Retail Clients: mostly via ETFs
++ Commercial and investment banks
++ Pension funds
++ Insurance companies
++ Mutual funds
++ Various asset managers / ETF issuers
++ Hedge funds
++ Sovereign funds
++ Retail Clients: mostly via ETFs
 
 # QUOTING CONVENTIONS
 
-- Yield: for Investment Grade bonds with maturity < 1 year
-- Spread (to Treasury Benchmark Yield): for Investment Grade bonds with maturity > 1 year
-- Clean price: for High Yield bonds
-- Bonds are fungible and uniquely identified via ISIN/CUSIP codes (market convention), SEDOL codes, FIGI codes, etc.
++ Yield: for Investment Grade bonds with maturity < 1 year
++ Spread (to Treasury Benchmark Yield): for Investment Grade bonds with maturity > 1 year
++ Clean price: for High Yield bonds
++ Bonds are fungible and uniquely identified via ISIN/CUSIP codes (market convention), SEDOL codes, FIGI codes, etc.
 
 # SIZE OF THE US CORPORATE BOND MARKET
 
-- USD denominated corporate bonds
-- ~100K bonds total ~10K liquid
-- Outstanding notional value: ~ 10T USD
-- Average daily volume: ~ 40B USD
-- Trades sizes smaller than a$100,000 are viewed as "odd lots".
++ USD denominated corporate bonds
++ ~100K bonds total ~10K liquid
++ Outstanding notional value: ~ 10T USD
++ Average daily volume: ~ 40B USD
++ Trades sizes smaller than a$100,000 are viewed as "odd lots".
 
 # SIFMA: FIXED INCOME OUTSTANDING AND NEW ISSUES (2023) IG BONDS LIQUIDITY (SOURCE: MORGAN STANLEY 2023) HEDGING AND RELATED INSTRUMENTS
 
 ![](Credit%20Markets%20Session%201-20240404084914556.webp)
 
-- US treasuries
-- US treasury futures
-- Credit Default Swaps
-- CDX credit indices
-- Fixed income ETFs
++ US treasuries
++ US treasury futures
++ Credit Default Swaps
++ CDX credit indices
++ Fixed income ETFs
 ![](Credit%20Markets%20Session%201-20240404084918964.webp)
 # TRADING
 
-- ~70% over-the-counter (with broker-dealers)
-- ~30% on electronic trading venues
-- Trading volume moving gradually from OTC to electronic
++ ~70% over-the-counter (with broker-dealers)
++ ~30% on electronic trading venues
++ Trading volume moving gradually from OTC to electronic
 	 venues
-- US Bond trades reported to FINRA TRACE facility (up to 15 mins delayed)
++ US Bond trades reported to FINRA TRACE facility (up to 15 mins delayed)
 
 # TRANSITION FROM OTC TO ELECTRONIC TRADING VENUES
 
 #### MARKET STRUCTURE: OTC/BILATERAL WITH BROKER-DEALERS (70%)
 
-- Brokers provide markets to clients, e.g. via MSG1 (principal market maker)
-- Brokers also act as agents between buyers and sellers
-- Negotiation over the Phone / IB Chat
-- Bloomberg VCON confirmation
-- Electronic connectivity to broker via API
-- Bloomberg FIT, TSOX and BOLT screens
-- Single bonds vs Portfolio trading
++ Brokers provide markets to clients, e.g. via MSG1 (principal market maker)
++ Brokers also act as agents between buyers and sellers
++ Negotiation over the Phone / IB Chat
++ Bloomberg VCON confirmation
++ Electronic connectivity to broker via API
++ Bloomberg FIT, TSOX and BOLT screens
++ Single bonds vs Portfolio trading
 #### MARKET STRUCTURE: ELECTRONIC VENUES (30%) ORDER EXECUTION PROTOCOLS (VIA FIX)
-- RFQ: "Request For Quote" (auction based) vs LOB: "Limit Order Book" (live trading)
-- RFQ venues: MarketAxess (80% of electronic volume),
++ RFQ: "Request For Quote" (auction based) vs LOB: "Limit Order Book" (live trading)
++ RFQ venues: MarketAxess (80% of electronic volume),
 	 TradeWeb, TrueMid, etc
-- LOB venues: ICEBondPoint, TradeWebDirect, TheMuniCenter, MTSBondPro, TrueMid, etc
-- Anonymous vs Bilateral trading
-- GUI click-trading vs API trading
++ LOB venues: ICEBondPoint, TradeWebDirect, TheMuniCenter, MTSBondPro, TrueMid, etc
++ Anonymous vs Bilateral trading
++ GUI click-trading vs API trading
 
 ## BOND CASH-FLOW, PRICES AND YIELDS
 
 Bond cash-flows, prices and yields
 
-- Fixed-rate bond cash-flows for maturity$T=T_n$:
++ Fixed-rate bond cash-flows for maturity$T=T_n$:
+
 $$\{c_i,T_i\}_{i=1..n},\quad0\leq t<T_1<…<T_n \tag{1}$$
-- Quoting bonds: price to “continuously componded" yield conversion
+
++ Quoting bonds: price to “continuously componded" yield conversion
+
 $$B_t=B(t,y):=\sum_{i=1}^nc_i\cdot e^{(t-T_i)\cdot y}\tag{2}$$
-- Cash-flow weights:
+
++ Cash-flow weights:
+
 $$w_i=w_i(t,y):=\frac{c_i\cdot e^{(t-T_i)\cdot y}}{B_t}>0 \tag{3}$$
 
 # BOND CASH-FLOW, PRICES AND YIELDS BOND VALUATION FORMULAS (0 ACCRUED, T+0 SETTLE)
 
 Bond valuation formulas (0 accrued, t+0 settle)
 
-- Bullet fixed-rate bond with semi-annual coupon pct. c and$T$years to maturity:
++ Bullet fixed-rate bond with semi-annual coupon pct. c and$T$years to maturity:
+
 $$B_0=B(0,c,T,y)=\sum_{k=1}^{2T}\frac c2\cdot e^{-k\cdot\frac y2}+e^{-T\cdot y}\tag{4}$$
+
  Simple bond price (using geometric series formula):
+
 $$\mathcal{B}_{0}=1+\frac{\frac{\xi}{2}-\left(\mathbf{e}^{\frac{y}{2}}-1\right)}{\mathbf{e}^{\frac{y}{2}}-1}\cdot\left(1-\mathbf{e}^{-T\cdot y}\right).\tag{5}$$
+
 Bullet fixed-rate bond with semi-annual coupon pct.$c$and$T$years to maturity:
+
 $$B_{0}=B(0,c,\,T,y)=\sum_{k=1}^{2T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}\tag{4}$$
+
 Using "semi-annual yield":$y_{\text{sa}}=2\cdot\left(\mathbf{e}^{\frac{y}{2}}-1\right)$
+
 $$B_0=1+\frac{c-y_{sa}}{y_{sa}}\cdot\left[1-\left(1+\frac{y_{sa}}2\right)^{-2T}\right]\tag{6}$$
 
 ### BOND VALUATION SURFACE (0 ACCRUED, T+0 SETTLE)
@@ -180,13 +192,14 @@ $$B_0=1+\frac{c-y_{sa}}{y_{sa}}\cdot\left[1-\left(1+\frac{y_{sa}}2\right)^{-2T}\
 # COMMENTS
 
 Bond trading at 100% "par" price:$$B_{0}=1\iff c=y_{s a}\iff\left(1+{\frac{c}{2}}\right)$$
+
 New issue pricing (primary market):
 pricing "at par" ⇐⇒
 "semi-annual coupon" = "semi-annual yield"
 
-- When yield > coupon, bond trades below par
-- When yield < coupon, bond trades above par
-- Bond price is increasing in coupon, decreasing in yield
++ When yield > coupon, bond trades below par
++ When yield < coupon, bond trades above par
++ Bond price is increasing in coupon, decreasing in yield
 ## TIME SENSITIVITY: THETA/CARRY = "YIELD"
 
 $$\frac{\partial B}{\partial t}\left(t,y\right)=\frac{\partial}{\partial t}\left[\sum_{i=1}^{n}c_{i}\cdot e^{\left(t-T_{i}\right)\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial t}\left[e^{\left(t-T_{i}\right)\cdot y}\right]\tag{8}$$
@@ -214,9 +227,11 @@ $$\begin{aligned}&\frac{\partial^2B}{\partial y^2}=\frac{\partial^2}{\partial y^
 Theta/Carry
 
 $$\begin{array}{l}\mbox{\it Theta}=\frac{\partial B}{\partial t}=y\cdot B_{t}\end{array}\tag{14}$$
+
 "DV01" (-1bp change in yield) and Duration
 
 $$DV01=-\frac{\partial B}{\partial y}=B_{t}\cdot D,\quad D=\sum_{l=1}^{n}\left(\ T_{l}=t\right)\cdot w_{l}>0\tag{15}$$
+
 Convexity (-1bp change in yield) and Gamma
 
 $$\frac{\partial^{2}B}{\partial y^{2}}=B_{t}\cdot\Gamma,\quad\Gamma=\sum_{l=1}^{n}\left(T_{l}-t\right)^{2}\cdot w_{l}>0\tag{16}$$
