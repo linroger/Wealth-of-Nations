@@ -752,6 +752,7 @@ value of multiple underlying variables
 - Barrier options,  Asian options,  Lookback options - Options on maximum,  options on relative returns across securities
 - MCS are also very useful to value securities under general processes for underlying stochastic
 variable,  such as
-- Stochastic volatility - Stochastic interest rates
+- Stochastic volatility 
+- Stochastic interest rates
 - Jumps
 - The ever increasing gains in the computer speed make MCS methodology increasingly attractive.
