@@ -14,6 +14,7 @@ linter-yaml-title-alias: CREDIT MARKETS
 	- [[Credit Markets]]
 	- [[Risk Neutral Valuation Framework for Credit Default Swaps]]
 	- [[Untitled 1]]
+	- [[Untitled 2]]
 	- [[Untitled]]
 
 %% End Waypoint %%

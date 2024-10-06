@@ -1,3 +1,7 @@
+---
+title: Untitled 1
+---
+# Untitled 1
 ### LaTeX for Bond Market Prices EOD ###
 
 ```latex
@@ -840,7 +844,6 @@ date & class & ticker & isin & figi & bidPrice & askPrice & accrued & bidYield &
 \end{document}
 ```
 
-
 ### LaTeX for CDS Market Data EOD ###
 
 ```latex
@@ -933,7 +936,6 @@ date & ticker & short_name & tier & sector & region & currency & doc_clause & ru
 \end{table}
 \end{document}
 ```
-
 
 ### LaTeX for CDX IG 42 5Y Basket Composition ###
 
@@ -1077,7 +1079,6 @@ date & index_symbol & index_ticker & index_series & index_weight & ticker & name
 \end{document}
 ```
 
-
 ### LaTeX for CDX Symbology ###
 
 ```latex
@@ -1116,7 +1117,6 @@ CDX_CXPHY742 & CXPHY742 & Curncy & MARKIT CDX HY & MARKIT CDX.NA.HY 06/31 & CRED
 \end{table}
 \end{document}
 ```
-
 
 ### LaTeX for Corporate Symbology ###
 
@@ -1400,7 +1400,6 @@ VZ & Corp & BBG012MB8P10 & USU9221ABY39 & VZ5252610 & US91282CGM73 & VZ 2.355 03
 \end{document}
 ```
 
-
 ### LaTeX for Government On-The-Run ###
 
 ```latex
@@ -1438,7 +1437,6 @@ GT7C Govt & 2024-04-19 00:00:00 & BBG01L3DFFJ0 & US91282CJX02 \\
 \end{table}
 \end{document}
 ```
-
 
 ### LaTeX for Government Symbology ###
 
@@ -1838,7 +1836,6 @@ T & Govt & BBG01G5ZMM43 & US91282CGV72 & TSRYS5565937 & T 3 3/4 04/15/26 & US TR
 \end{table}
 \end{document}
 ```
-
 
 ### LaTeX for LQD Basket Composition ###
 

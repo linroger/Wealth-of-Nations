@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Untitled 1.md"
+                "file": "Credit Markets/Untitled 2.md"
               }
             }
           }
@@ -240,8 +240,9 @@
   },
   "active": "d56d12297c7d6cda",
   "lastOpenFiles": [
-    "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
     "Credit Markets/Untitled 1.md",
+    "Credit Markets/Untitled 2.md",
+    "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Credit Markets/ Credit Market Solutions.md",
     "Attachments/CreditMarketSolutions_7_1.png",
@@ -280,7 +281,6 @@
     "Financial Instruments/Lecture Notes/Lecture Notes 10- Interest Rate Derivatives.md",
     "Financial Instruments/Financial Instruments.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
