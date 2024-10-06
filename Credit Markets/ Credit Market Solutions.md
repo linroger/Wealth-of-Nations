@@ -3414,6 +3414,23 @@ govt_symbology_otr = govt_symbology_otr.sort_values(by='TTM')
 display(govt_symbology_otr)
 ```
 
+```latex
+\begin{document}
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+        und\_bench\_isin & security & name & type & coupon & acc\_first & maturity & rank & amt\_out & term & TTM \\ \hline
+        US 91282 CKH 33 & T 4 1/2 03/31/26 & US TREASURY N/B & US GOVERNMENT & 4.500 & 2024-03-31 & 2026-03-31 & Unsecured & 66000.0 & 1.995893 & 1.995893 \\ \hline
+        US 91282 CKG 59 & T 4 1/8 03/31/29 & US TREASURY N/B & US GOVERNMENT & 4.125 & 2024-03-31 & 2029-03-31 & Unsecured & 67000.0 & 4.996578 & 4.996578 \\ \hline
+        US 91282 CKF 76 & T 4 1/8 03/31/31 & US TREASURY N/B & US GOVERNMENT & 4.125 & 2024-03-31 & 2031-03-31 & Unsecured & 43000.0 & 6.995209 & 6.995209 \\ \hline
+        US 91282 CJZ 59 & T 4 02/15/34 & US TREASURY N/B & US GOVERNMENT & 4.000 & 2024-02-15 & 2034-02-15 & Unsecured & 84104.0 & 10.001369 & 9.875428 \\ \hline
+        US 912810 TZ 12 & T 4 1/2 02/15/44 & US TREASURY N/B & US GOVERNMENT & 4.500 & 2024-02-15 & 2044-02-15 & Unsecured & 29684.0 & 19.961670 & 19.874059 \\ \hline
+        US 912810 TX 63 & T 4 1/4 02/15/54 & US TREASURY N/B & US GOVERNMENT & 4.250 & 2024-02-15 & 2054-02-15 & Unsecured & 48846.0 & 30.001369 & 29.875428 \\ \hline
+    \end{tabular}
+\end{document}
+```
+
+
 <div>
 <style scoped>
 	.dataframe tbody tr th: only-of-type {
