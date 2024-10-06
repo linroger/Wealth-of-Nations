@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Untitled 2.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Untitled 2.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Untitled 2.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Untitled 2.md"
+                "file": "Credit Markets/ Credit Market Solutions.md"
               }
             }
           }
@@ -240,6 +240,7 @@
   },
   "active": "d56d12297c7d6cda",
   "lastOpenFiles": [
+    "Credit Markets/Untitled.md",
     "Credit Markets/Untitled 1.md",
     "Credit Markets/Untitled 2.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
@@ -255,7 +256,6 @@
     "Attachments/CreditMarketSolutions_129_2.png",
     "Attachments/CreditMarketSolutions_131_1.png",
     "Attachments/CreditMarketSolutions_131_2.png",
-    "Credit Markets/Untitled.md",
     "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",

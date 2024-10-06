@@ -42,12 +42,12 @@
   "inline-math",
   "make-md",
   "github-sync",
-  "swiftlatex-render",
   "custom-save",
   "formatto-format",
   "obsidian-export-to-tex",
   "image-upload-toolkit",
   "awesome-image",
   "smart-title",
-  "obsidian-latex-render"
+  "obsidian-latex-render",
+  "latex-render"
 ]

@@ -157,15 +157,15 @@ Bond cash-flows,  prices and yields
 
 - Fixed-rate bond cash-flows for maturity$T=T_n$:
 
-$$\{c_i,  T_i\}_{i=1..n},  \quad0\leq t<T_1<…<T_n \tag{1}$$
+$$\{c_i,   T_i\}_{i=1..n},   \quad0\leq t<T_1<…<T_n \tag{1}$$
 
 - Quoting bonds: price to “continuously componded" yield conversion
 
-$$B_t=B(t,  y):=\sum_{i=1}^nc_i\cdot e^{(t-T_i)\cdot y}\tag{2}$$
+$$B_t=B(t,   y):=\sum_{i=1}^nc_i\cdot e^{(t-T_i)\cdot y}\tag{2}$$
 
 - Cash-flow weights:
 
-$$w_i=w_i(t,  y):=\frac{c_i\cdot e^{(t-T_i)\cdot y}}{B_t}>0 \tag{3}$$
+$$w_i=w_i(t,   y):=\frac{c_i\cdot e^{(t-T_i)\cdot y}}{B_t}>0 \tag{3}$$
 
 # BOND CASH-FLOW,  PRICES AND YIELDS BOND VALUATION FORMULAS (0 ACCRUED,  T+0 SETTLE)
 
@@ -173,7 +173,7 @@ Bond valuation formulas (0 accrued,  t+0 settle)
 
 - Bullet fixed-rate bond with semi-annual coupon pct. c and$T$years to maturity:
 
-$$B_0=B(0,  c,  T,  y)=\sum_{k=1}^{2T}\frac c2\cdot e^{-k\cdot\frac y2}+e^{-T\cdot y}\tag{4}$$
+$$B_0=B(0,   c,   T,   y)=\sum_{k=1}^{2T}\frac c2\cdot e^{-k\cdot\frac y2}+e^{-T\cdot y}\tag{4}$$
 
  Simple bond price (using geometric series formula):
 
@@ -181,7 +181,7 @@ $$\mathcal{B}_{0}=1+\frac{\frac{\xi}{2}-\left(\mathbf{e}^{\frac{y}{2}}-1\right)}
 
 Bullet fixed-rate bond with semi-annual coupon pct.$c$and$T$years to maturity:
 
-$$B_{0}=B(0,  c,  \,  T,  y)=\sum_{k=1}^{2T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}\tag{4}$$
+$$B_{0}=B(0,   c,   \,   T,   y)=\sum_{k=1}^{2T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}\tag{4}$$
 
 Using "semi-annual yield":$y_{\text{sa}}=2\cdot\left(\mathbf{e}^{\frac{y}{2}}-1\right)$
 
@@ -206,25 +206,25 @@ pricing "at par" ⇐⇒
 - Bond price is increasing in coupon,  decreasing in yield
 ## TIME SENSITIVITY: THETA/CARRY = "YIELD"
 
-$$\frac{\partial B}{\partial t}\left(t,  y\right)=\frac{\partial}{\partial t}\left[\sum_{i=1}^{n}c_{i}\cdot e^{\left(t-T_{i}\right)\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial t}\left[e^{\left(t-T_{i}\right)\cdot y}\right]\tag{8}$$
+$$\frac{\partial B}{\partial t}\left(t,   y\right)=\frac{\partial}{\partial t}\left[\sum_{i=1}^{n}c_{i}\cdot e^{\left(t-T_{i}\right)\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial t}\left[e^{\left(t-T_{i}\right)\cdot y}\right]\tag{8}$$
 
 $$=\sum_{i=1}^{n}c_{i}\cdot y\cdot e^{\left(t-T_{i}\right)\cdot y}=y\cdot\left[\sum_{i=1}^{n}c_{i}\cdot e^{\left(t-T_{i}\right)\cdot y}\right]=y\cdot B_{t}.$$
 
-$$B\left(t+\Delta t,  y\right)=B\left(t,  y\right)\approx B_{t}\cdot y\cdot\Delta t.\tag{9}$$
+$$B\left(t+\Delta t,   y\right)=B\left(t,   y\right)\approx B_{t}\cdot y\cdot\Delta t.\tag{9}$$
 
 ## YIELD SENSITIVITY: DURATION/D = "WEIGHTED SUM OF TTMS”
 
 $$\frac{\partial B}{\partial y}=\frac{\partial}{\partial y}\left[\sum_{i=1}^{n}c_{i}\cdot e^{(t-T_{i})\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial y}\left[e^{(t-T_{i})\cdot y}\right]\tag{10}$$
 
-$$=\sum_{i=1}^{n}c_{i}\cdot(t-T_{i})\cdot e^{(t-T_{i})\cdot y}=-B_{t}\cdot\sum_{i=1}^{n}\left(\,  T_{i}-t\right)\cdot w_{i}=-B_{t}\cdot D.$$
+$$=\sum_{i=1}^{n}c_{i}\cdot(t-T_{i})\cdot e^{(t-T_{i})\cdot y}=-B_{t}\cdot\sum_{i=1}^{n}\left(\,   T_{i}-t\right)\cdot w_{i}=-B_{t}\cdot D.$$
 
-$$\beta\left(t,  y+\Delta y\right)-\beta\left(t,  y\right)\approx-B_{t}\cdot D\cdot\Delta y.\tag{11}$$$$\frac{\partial B}{\partial y}=\frac{\partial}{\partial y}\left[\sum_{i=1}^{n}c_{i}\cdot e^{(t-T_{i})\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial y}\left[e^{(t-T_{i})\cdot y}\right]\tag{10}$$
+$$\beta\left(t,   y+\Delta y\right)-\beta\left(t,   y\right)\approx-B_{t}\cdot D\cdot\Delta y.\tag{11}$$$$\frac{\partial B}{\partial y}=\frac{\partial}{\partial y}\left[\sum_{i=1}^{n}c_{i}\cdot e^{(t-T_{i})\cdot y}\right]=\sum_{i=1}^{n}c_{i}\cdot\frac{\partial}{\partial y}\left[e^{(t-T_{i})\cdot y}\right]\tag{10}$$
 
-$$=\sum_{i=1}^{n}c_{i}\cdot(t-T_{i})\cdot e^{(t-T_{i})\cdot y}=-B_{t}\cdot\sum_{i=1}^{n}\left(\ T_{i}-t\right)\cdot w_{i}=-B_{t}\cdot D.B\left(t,  y+\Delta y\right)-B\left(t,  y\right)\approx-B_{t}\cdot D\cdot\Delta y.\tag{11}$$
+$$=\sum_{i=1}^{n}c_{i}\cdot(t-T_{i})\cdot e^{(t-T_{i})\cdot y}=-B_{t}\cdot\sum_{i=1}^{n}\left(\ T_{i}-t\right)\cdot w_{i}=-B_{t}\cdot D.B\left(t,   y+\Delta y\right)-B\left(t,   y\right)\approx-B_{t}\cdot D\cdot\Delta y.\tag{11}$$
 
 ## YIELD CONVEXITY: GAMMA/ Γ = "WEIGHTED SUM OF SQUARED TTMS"
 
-$$\begin{aligned}&\frac{\partial^2B}{\partial y^2}=\frac{\partial^2}{\partial y^2}\left[\sum_{i=1}^nc_i\cdot\mathrm{e}^{(t-T_i)\cdot y}\right]=\sum_{i=1}^nc_i\cdot\frac{\partial^2}{\partial y^2}\left[\mathrm{e}^{(t-T_i)\cdot y}\right]\quad(12)\\\\&=\sum_{i=1}^nc_i\cdot(T_i-t)^2\cdot\mathrm{e}^{(t-T_i)\cdot y}=B_t\cdot\sum_{i=1}^n\left(T_i-t\right)^2\cdot\mathrm{w}_i=B_t\cdot\Gamma.\\\\&B\left(t,  y+\Delta y\right)-B\left(t,  y\right)\approx B_t\cdot\left[-D\cdot\Delta y+\frac12\cdot\Gamma\cdot\left(\Delta y\right)^2\right].\quad(13)\end{aligned}$$
+$$\begin{aligned}&\frac{\partial^2B}{\partial y^2}=\frac{\partial^2}{\partial y^2}\left[\sum_{i=1}^nc_i\cdot\mathrm{e}^{(t-T_i)\cdot y}\right]=\sum_{i=1}^nc_i\cdot\frac{\partial^2}{\partial y^2}\left[\mathrm{e}^{(t-T_i)\cdot y}\right]\quad(12)\\\\&=\sum_{i=1}^nc_i\cdot(T_i-t)^2\cdot\mathrm{e}^{(t-T_i)\cdot y}=B_t\cdot\sum_{i=1}^n\left(T_i-t\right)^2\cdot\mathrm{w}_i=B_t\cdot\Gamma.\\\\&B\left(t,   y+\Delta y\right)-B\left(t,   y\right)\approx B_t\cdot\left[-D\cdot\Delta y+\frac12\cdot\Gamma\cdot\left(\Delta y\right)^2\right].\quad(13)\end{aligned}$$
 
 ## SUMMARY OF SENSITIVITIES (YIELD PARAMETRIZATION)
 
@@ -234,16 +234,16 @@ $$\begin{array}{l}\mbox{\it Theta}=\frac{\partial B}{\partial t}=y\cdot B_{t}\en
 
 "DV01" (-1bp change in yield) and Duration
 
-$$DV01=-\frac{\partial B}{\partial y}=B_{t}\cdot D,  \quad D=\sum_{l=1}^{n}\left(\ T_{l}=t\right)\cdot w_{l}>0\tag{15}$$
+$$DV01=-\frac{\partial B}{\partial y}=B_{t}\cdot D,   \quad D=\sum_{l=1}^{n}\left(\ T_{l}=t\right)\cdot w_{l}>0\tag{15}$$
 
 Convexity (-1bp change in yield) and Gamma
 
-$$\frac{\partial^{2}B}{\partial y^{2}}=B_{t}\cdot\Gamma,  \quad\Gamma=\sum_{l=1}^{n}\left(T_{l}-t\right)^{2}\cdot w_{l}>0\tag{16}$$
+$$\frac{\partial^{2}B}{\partial y^{2}}=B_{t}\cdot\Gamma,   \quad\Gamma=\sum_{l=1}^{n}\left(T_{l}-t\right)^{2}\cdot w_{l}>0\tag{16}$$
 
 Simple bond price dynamics
 
 $$\begin{align}
-dB_t &= dB(t,   y_t) = \frac{\partial B}{\partial t} \cdot dt + \frac{\partial B}{\partial y} \cdot dy_t + \frac{1}{2} \frac{\partial^2 B}{\partial y^2} \cdot \sigma_y^2 \cdot dt,   & (17) \\
+dB_t &= dB(t,    y_t) = \frac{\partial B}{\partial t} \cdot dt + \frac{\partial B}{\partial y} \cdot dy_t + \frac{1}{2} \frac{\partial^2 B}{\partial y^2} \cdot \sigma_y^2 \cdot dt,    & (17) \\
 &= y \cdot B_t \cdot dt - B_t \cdot D \cdot dy_t + \frac{1}{2} \cdot B_t \cdot \Gamma \cdot \sigma_y^2 \cdot dt. \nonumber \\
 \frac{dB_t}{B_t} &= \left( y_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_y^2 \right) \cdot dt - D_t \cdot dy_t. & (18)
 \end{align}$$
@@ -272,21 +272,21 @@ $$\text{``yield''} + \text{``yield curve roll down''} + \text{``yield convexity'
 ## Z-SPREAD PARAMETRIZATION
 
 - Interest rate curve bootstrapping & risk-free bond valuation
-$$ G_t = G(t,   r) \coloneqq \sum_{i=1}^{n} c_i \cdot e^{(t-T_i)\cdot r_i} \tag{20} $$
+$$ G_t = G(t,    r) \coloneqq \sum_{i=1}^{n} c_i \cdot e^{(t-T_i)\cdot r_i} \tag{20} $$
 - Bond price to z-spread conversion
 
-$$ B_t = B(t,   r,   s) \coloneqq \sum_{i=1}^{n} c_i \cdot e^{(t-T_i) \cdot (r_i+s)} \tag{21} $$
+$$ B_t = B(t,    r,    s) \coloneqq \sum_{i=1}^{n} c_i \cdot e^{(t-T_i) \cdot (r_i+s)} \tag{21} $$
 - Cash-flow spread weights:
 
-$$ \widetilde{\omega}_i = \widetilde{\omega}_i(t,   r,   s) \coloneqq \frac{c_i \cdot e^{(T_i - t) \cdot (r_i+s)}}{B_t} > 0 \tag{22} $$
+$$ \widetilde{\omega}_i = \widetilde{\omega}_i(t,    r,    s) \coloneqq \frac{c_i \cdot e^{(T_i - t) \cdot (r_i+s)}}{B_t} > 0 \tag{22} $$
 
 ## SUMMARY OF BOND SENSITIVITIES (SPREAD PARAMETRIZATION)
 - Theta/Carry
 $$ \Theta = \frac{\partial B}{\partial t} = B_t \cdot \sum_{i=1}^{n} (r_i + s) \cdot \omega_i \approx B_t \cdot y \tag{23} $$
 - "CS01" (-1bp change in spread) and Spread Duration $D$
-$$ CS01 = -\frac{\partial B}{\partial s} = B_t \cdot D,   \quad D = \sum_{i=1}^{n} (T_i - t) \cdot \omega_i > 0 \tag{24} $$
+$$ CS01 = -\frac{\partial B}{\partial s} = B_t \cdot D,    \quad D = \sum_{i=1}^{n} (T_i - t) \cdot \omega_i > 0 \tag{24} $$
 - Spread Convexity (-1bp change in spread) and Gamma $\Gamma$
-$$ \frac{\partial^2 B}{\partial s^2} = B_t \cdot \Gamma,   \quad \Gamma = \sum_{i=1}^{n} (T_i - t)^2 \cdot \omega_i > 0 \tag{25} $$
+$$ \frac{\partial^2 B}{\partial s^2} = B_t \cdot \Gamma,    \quad \Gamma = \sum_{i=1}^{n} (T_i - t)^2 \cdot \omega_i > 0 \tag{25} $$
 ## IR-HEDGED BOND PRICE DYNAMICS
 
 $$ \frac{dB_t}{B_t} = \left( s_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_s^2 \right) \cdot dt - D \cdot ds_t \tag{26} $$
@@ -314,15 +314,15 @@ $$\text{spread} + \text{spread curve roll down} + \text{spread convexity}$$.
 
 ## STRUCTURAL CREDIT RISK MODELS
 
-- Introduced by Robert C. Merton (1974),   refined by Black-Cox (1976) and others.
-- Equity value represented as call option on company Assets,   using Liabilities as strike
+- Introduced by Robert C. Merton (1974),    refined by Black-Cox (1976) and others.
+- Equity value represented as call option on company Assets,    using Liabilities as strike
 - Issuer default triggered by Assets falling below Liabilities (predictable default time)
 - Structural credit risk quantified by solving a Black-Scholes-Merton-type equation.
 - Moody's KMV implementation widely used by credit analysts
 
 ## REDUCED FORM CREDIT RISK MODELS
 
-- Introduced by Jarrow & Turnbull (1995),   Duffie & Singleton (1999) and others.
+- Introduced by Jarrow & Turnbull (1995),    Duffie & Singleton (1999) and others.
 - Default driven by exogenous Default Intensity (Hazard Rate) process
 - Default occurs without warning (non-predictable default time)
 - Dynamics of exogenous default intensity process calibrated to market prices
