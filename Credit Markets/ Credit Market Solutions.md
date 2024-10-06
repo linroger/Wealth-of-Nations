@@ -90,7 +90,7 @@ display(sofr_swaps_symbology)
 
 ```latex
 \begin{document}
-\begin{tabular}{c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\begin{table}{c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
  & ticker & isin & figi & security & name & coupon & start_date & maturity & term & TTM & date & class & bidPrice & askPrice & accrued & bidYield & askYield & midPrice & midYield  \\ \hline
  0 & AAPL & US037833AL42 & BBG004HST0K7 & AAPL 3.85 05/04/43 & APPLE INC & 3.850 & 2013-05-03 & 2043-05-04 & 30.001369 & 19.088296 & 2024-04-19 & Corp & 82.155 & 82.733 & 1.8070 & 5.357 & 5.302 & 82.4440 & 5.3295  \\ \hline
@@ -98,7 +98,7 @@ display(sofr_swaps_symbology)
  2 & AAPL & US037833BA77 & BBG0081TNL50 & AAPL 3.45 02/09/45 & APPLE INC & 3.450 & 2015-02-09 & 2045-02-09 & 30.001369 & 20.859685 & 2024-04-19 & Corp & 75.944 & 76.561 & 0.7095 & 5.387 & 5.328 & 76.2525 & 5.3575  \\ \hline
  3 & AAPL & US037833BH21 & BBG008N1BQC1 & AAPL 4 3/8 05/13/45 & APPLE INC & 4.375 & 2015-05-13 & 2045-05-13 & 30.001369 & 21.114305 & 2024-04-19 & Corp & 87.214 & 87.825 & 1.9445 & 5.399 & 5.345 & 87.5195 & 5.3720  \\ \hline
  4 & DIS & US254687DV52 & BBG00QNKP8R8 & DIS 6.55 03/15/33 & WALT DISNEY COMPANY/THE & 6.550 & 2019-11-22 & 2033-03-15 & 13.311431 & 8.952772 & 2024-04-19 & Corp & 109.441 & 110.055 & 0.6910 & 5.209 & 5.127 & 109.7480 & 5.1680  \\ \hline
-\end{tabular}
+\end{table}
 \end{document}
 ```
 
