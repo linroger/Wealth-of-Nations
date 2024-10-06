@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/ Credit Market Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Untitled 1.md"
+                "file": "Credit Markets/ Credit Market Solutions.md"
               }
             }
           }
@@ -238,11 +238,21 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "d56d12297c7d6cda",
+  "active": "c112d56a768d8830",
   "lastOpenFiles": [
-    "Credit Markets/Untitled.md",
-    "Credit Markets/Untitled 1.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Credit Markets/ Credit Market Solutions.md",
+    "Attachments/CreditMarketSolutions_7_1.png",
+    "Attachments/CreditMarketSolutions_10_1.png",
+    "Attachments/CreditMarketSolutions_20_1.png",
+    "Attachments/CreditMarketSolutions_101_1.png",
+    "Attachments/CreditMarketSolutions_101_2.png",
+    "Attachments/CreditMarketSolutions_124_1.png",
+    "Attachments/CreditMarketSolutions_129_1.png",
+    "Attachments/CreditMarketSolutions_129_2.png",
+    "Attachments/CreditMarketSolutions_131_1.png",
+    "Attachments/CreditMarketSolutions_131_2.png",
+    "Credit Markets/Untitled.md",
     "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
@@ -253,20 +263,15 @@
     "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
     "Financial Engineering/9._Introduction_to_Real_Options.md",
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
-    "Attachments/Obsidian 2024-10-04 16.38.00.png",
-    "Attachments/Obsidian 2024-10-04 16.37.53.png",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
     "Attachments/9/f/f.md",
     "Attachments/9/f/4/4.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",
-    "Attachments/9/f/4/9f437bafc6f0d76f8ad3f0af6ad25e9b6688c490ee3fc154ba46b7b54eb57e4b.png",
-    "Attachments/Obsidian 2024-10-04 16.37.30.png",
     "Attachments/8/0/7/7.md",
     "Attachments/8/0/7",
     "Attachments/8/0",
-    "Attachments/8/0/7/807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
     "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
     "Untitled 1.md",
@@ -275,12 +280,6 @@
     "Financial Instruments/Financial Instruments.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1 Introduction To Fixed Income Securities.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding The Yield Curve- Part 1.md",
-    "Attachments/CleanShot 2024-10-02 -003078@2x.png",
-    "Attachments/CleanShot 2024-10-02 -003077@2x.png",
-    "Attachments/CleanShot 2024-10-02 -003076@2x.png",
-    "Attachments/CleanShot 2024-10-02 -003075@2x.png",
-    "Attachments/CleanShot 2024-10-02 -003074@2x.png",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
