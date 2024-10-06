@@ -3384,6 +3384,26 @@ display(govt_on_the_run_simple)
 </table>
 </div>
 
+```latex
+\begin{document}
+\begin{tabular}{lllllrllllll}
+\toprule
+figi & ticker & class & bbg & name & tenor & type & dcc & exchange & country & currency & status \\
+\midrule
+BBG00KFWPJJ9 & USOSFR1 & Curncy & USOSFR1 Curncy & USD OIS  ANN VS SOFR 1Y & 1 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPJX3 & USOSFR2 & Curncy & USOSFR2 Curncy & USD OIS  ANN VS SOFR 2Y & 2 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPK15 & USOSFR3 & Curncy & USOSFR3 Curncy & USD OIS  ANN VS SOFR 3Y & 3 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPK51 & USOSFR5 & Curncy & USOSFR5 Curncy & USD OIS  ANN VS SOFR 5Y & 5 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPK79 & USOSFR7 & Curncy & USOSFR7 Curncy & USD OIS  ANN VS SOFR 7Y & 7 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPKB4 & USOSFR10 & Curncy & USOSFR10 Curncy & USD OIS  ANN VS SOFR 10Y & 10 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPKF0 & USOSFR20 & Curncy & USOSFR20 Curncy & USD OIS  ANN VS SOFR 20Y & 20 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+BBG00KFWPKH8 & USOSFR30 & Curncy & USOSFR30 Curncy & USD OIS  ANN VS SOFR 30Y & 30 & SWAP & ACT/360 & NONE & US & USD & ACTV \\
+\bottomrule
+\end{tabular}
+\end{document}
+```
+
+
 ```python
 # Create symbology for on-the-run treasuries only
 govt_symbology_otr = govt_symbology[govt_symbology['isin'].isin(govt_on_the_run_simple['isin'])]
