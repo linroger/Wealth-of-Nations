@@ -3385,10 +3385,9 @@ display(govt_on_the_run_simple)
 </div>
 
 ```latex
-\usepackage{booktabs}
 \begin{document}
-\tiny
-\begin{tabular}{lllllrllllll}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllr}
 \toprule
 figi & ticker  & bbg & name & tenor & currency  \\
 \midrule
@@ -3401,9 +3400,11 @@ BBG00KFWPKB4 & USOSFR10  & USOSFR10 Curncy & USD OIS  ANN VS SOFR 10Y & 10  & AC
 BBG00KFWPKF0 & USOSFR20  & USOSFR20 Curncy & USD OIS  ANN VS SOFR 20Y & 20  & ACT/360    \\
 BBG00KFWPKH8 & USOSFR30  & USOSFR30 Curncy & USD OIS  ANN VS SOFR 30Y & 30  & ACT/360    \\
 \bottomrule
-\end{tabular}
+\end{tabular}%
+}
 \end{document}
 ```
+
 
 
 ```python
