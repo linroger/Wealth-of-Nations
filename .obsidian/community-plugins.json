@@ -9,7 +9,6 @@
   "markdown-table-editor",
   "obsidian-linter",
   "obsidian-text-format",
-  "alx-folder-note",
   "folder-notes",
   "numerals",
   "macOS-keyboard-nav-obsidian",
@@ -48,5 +47,6 @@
   "image-upload-toolkit",
   "awesome-image",
   "smart-title",
-  "latex-render"
+  "latex-render",
+  "obsidian-filename-heading-sync"
 ]
