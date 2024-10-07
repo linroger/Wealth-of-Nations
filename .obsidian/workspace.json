@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md"
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md"
               }
             }
           }
@@ -274,7 +274,15 @@
   },
   "active": "9dec6111be784c99",
   "lastOpenFiles": [
+    "Credit Markets/Credit Markets Session 3.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Introduction.md",
     "Credit Markets/Credit Market PSETS/ Credit Market Solutions.md",
     "Credit Markets/Credit Market PSETS/Credit Markets Homework 4.md",
     "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
@@ -287,7 +295,6 @@
     "Credit Markets/Credit Market Session 2.md",
     "Attachments/open?vault=FinNotes&file=output:.inetloc",
     "Credit Markets/Credit Markets Session 4.md",
-    "Credit Markets/Credit Markets Session 3.md",
     "Attachments/40abbd555f187572d320b913dc03b5207acfd94d8402fce74fd237a0facd1a6f.png",
     "Attachments/d5e5de894bf3308483831ecea969d94b7174e8b33918a63886019677e5e66fc4.png",
     "Attachments/d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png",
@@ -304,13 +311,6 @@
     "Credit Markets/Credit Markets.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Credit Markets/Untitled 2.md",
-    "Credit Markets/Black-Scholes Model.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
-    "Financial Instruments/Lecture Notes/Lecture Notes 9- Corporate Securities And Credit Derivatives.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 8-American Options.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
-    "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",

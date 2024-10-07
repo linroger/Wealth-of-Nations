@@ -1,7 +1,7 @@
 ---
 title: Investor Size,  Liquidity And Prime Money Market Fund Stress
-aliases: ["Investor Size,  Liquidity And Prime Money Market Fund Stress"]
-linter-yaml-title-alias: "Investor Size,  Liquidity And Prime Money Market Fund Stress"
+aliases: ["Investor Size,   Liquidity And Prime Money Market Fund Stress"]
+linter-yaml-title-alias: "Investor Size,   Liquidity And Prime Money Market Fund Stress"
 ---
 
 # Investor Size,  Liquidity And Prime Money Market Fund Stress
@@ -9,8 +9,6 @@ linter-yaml-title-alias: "Investor Size,  Liquidity And Prime Money Market Fund 
 Massive redemptions at money market funds (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.
 
 Building on previous studies of the underlying drivers,  we find that large investors' withdrawals did not differentiate across prime institutional MMFs according to these funds' asset liquidity positions. We also find that,  faced with large redemptions,  the managers of these funds disposed of the less liquid securities in their portfolios,  marking a departure from their behaviour in tranquil times. This is likely to have exacerbated market-wide liquidity shortages. After the Federal Reserve's announcement of the Money Market Mutual Fund Liquidity Facility,  all funds strengthened their liquidity positions,  with those hardest-hit by outflows attempting to catch up with peers.
-
-JEL classification: G23,  G28,  E58.
 
 Key takeaways
 
@@ -50,7 +48,7 @@ regulation differentiates between retail and institutional funds. Only individua
 
 In early March 2020,  the initial sanguine reaction of investors to the threat posed by Covid-19 gave way to a frantic "dash-for-cash" Prime institutional MMFs saw 20 consecutive days of outflows between 6 and 26 March 2020 (henceforth,  the run or stress period). The redemption dynamics in the midst of this acute market turmoil diverged widely across MMF types.
 
-Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,   first panel,   red line),   increasing their pre-stress AUM by almost a third. Similarly,   European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,   with inflows around $80 billion (third panel,  red line).
+Government MMFs saw massive inflows over the course of March 2020 as investors fled to safety in both the United States and Europe. By the end of the month,  US government MMFs had notched up investor inflows of around $800 billion (Graph 1,    first panel,    red line),    increasing their pre-stress AUM by almost a third. Similarly,    European dollar-denominated CNAV funds saw almost a 70% increase in their AUM,    with inflows around $80 billion (third panel,  red line).
 
 At the same time,  most other MMF classes experienced outflows. US prime institutional MMFs and European dollar-denominated LVNAV funds underwent a run-type event,  with withdrawals reaching roughly $100 and $90 billion,  respectively
 (Graph 1,  first panel,  green solid line,  and third panel,  yellow line). Daily outflows from US prime institutional MMFs exceeded 2% of the previous-day AUM for eight trading days in a row,  an extraordinary event from a historical perspective. European dollardenominated LVNAV funds had a similar experience Within the prime institutional MMF universe,  the experience of individual funds was highly uneven. During the run,  cumulative redemptions ranged from 5 to 40% of pre-run AUM for half of the funds,  with a quarter of the funds faring much worse
@@ -110,7 +108,7 @@ MMF managers could respond to the large redemptions in two alternative ways. The
 
 13 To the extent that large investors concentrate in specific funds,  each one knows that other similarly informed investors stand ready to redeem strategically. In the presence of a first-mover advantage,  this increases the incentive to withdraw swiftly at the sign of trouble (Schmidt et al (2016)).
 
-14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,   with a median of $1 million and an interquartile range between $77,  500 and $10 million.
+14 In our sample,  minimum investment sizes range from a single US dollar to $5 billion,    with a median of $1 million and an interquartile range between $77,   500 and $10 million.
 
 # Quantifying The Role Of Liquidity And Investor Size In Mmf Run Risk
 
@@ -145,7 +143,7 @@ In this context,  ௐ and ெூ measure how the intensity of the run varied on 
 |                                                                                                                                                                                                                                        | (2.893)                          |          |          |       |
 | Other controls1                                                                                                                                                                                                                        | Y                                | Y        | Y        | Y     |
 | Time fixed effects                                                                                                                                                                                                                     | Y                                | Y        | Y        | Y     |
-| Number of observations                                                                                                                                                                                                                 | 1,  020                            | 1,  020    | 1,  020    | 1,  020 |
+| Number of observations                                                                                                                                                                                                                 | 1,   020                            | 1,   020    | 1,   020    | 1,   020 |
 | R-squared                                                                                                                                                                                                                              | 0.063                            | 0.079    | 0.080    | 0.081 |
 | t-statistic calculated with robust standard errors in parentheses; ***/**/* indicates statistical significance at the 1/5/10% level. The sample  includes prime institutional funds as defined by CRANE in the period 6–26 March 2020. |                                  |          |          |       |
 
@@ -221,7 +219,7 @@ Finally,  panel C of Table B presents the results for the first two weeks after 
 | Time fixed effects                                                                                                                              | Y         | Y         |
 | Number of observations                                                                                                                          | 315       | 315       |
 | R-squared                                                                                                                                       | 0.297     | 0.746     |
-| Panel B: run,   pre-MMLF (6–18 Mar 2020)                                                                                                          |           |           |
+| Panel B: run,    pre-MMLF (6–18 Mar 2020)                                                                                                          |           |           |
 | (3) Outflow                                                                                                                                     | 0.0421    | 0.175***  |
 |                                                                                                                                                 | (1.456)   | (5.322)   |
 | (4) Lagged outflow                                                                                                                              | –0.222*** | 0.008     |

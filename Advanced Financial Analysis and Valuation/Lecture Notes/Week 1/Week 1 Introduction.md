@@ -4,7 +4,7 @@ aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 ---
 
-# ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
+# Week 1 Introduction
 
 [Week 1 Introduction](Week%201%20Introduction.md)
 [Week 1 Market Efficiency](Week%201%20Market%20Efficiency.md)
@@ -24,7 +24,7 @@ linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBA
 
 # CORE ISSUES IN VALUATION
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427155951161.png)
+![](Week%201%20Introduction-20240427155951161.png)
 
 ### THE BASIS OF VALUATION: DISCOUNTED DIVIDEND MODEL
 
@@ -42,7 +42,7 @@ linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBA
 - We then convert these forecasts into free cash flows
 ‒ This is essentially the DCF model
 - Using the cash flows with the markets leads to an entity model where you first determine the value of the entire entity (or enterprise)
-- ![|500](Z.%20Clippings/Week%201%20Introduction-20240427160122754.png)
+- ![|500](Week%201%20Introduction-20240427160122754.png)
 
 ## WHAT ARE THE CORE CHALLENGES IN VALUATION?
 
@@ -103,7 +103,7 @@ From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013, Exam
 
 The effect of this change resulted in a reduction of product costs, as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013, the change resulted in a benefit to net income of $15 million or $0.10 in basic earnings per share.
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427160357638.png)
+![](Week%201%20Introduction-20240427160357638.png)
 
 ## UNDERSTANDING THE BUSINESS MODEL IS KEY
 
@@ -123,20 +123,20 @@ RNOA = Return on Net Operating Assets ≈ ROIC
 
 - But note that RNOA/ROIC is of similar magnitude across industries
 	- ‒ Firms differ in how they create value
-![](Z.%20Clippings/Week%201%20Introduction-20240427160456335.png)
+![](Week%201%20Introduction-20240427160456335.png)
 
 ## PROFIT MARGIN VS. ASSET TURNOVER
 
 AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
-![](Z.%20Clippings/Week%201%20Introduction-20240427160518336.png)
+![](Week%201%20Introduction-20240427160518336.png)
 You can find this graph and the underlying industry data on Canvas (see Useful Material folder)
 Value Driver Model for Forecasting FCF
 
 ## VALUE DRIVERS AND KEY PERFORMANCE INDICATORS (KPIS)
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427160547094.png)
+![](Week%201%20Introduction-20240427160547094.png)
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427160808826.png)
+![](Week%201%20Introduction-20240427160808826.png)
 
 ### BASIC IDEA OF VALUE DRIVER MODEL
 
@@ -163,10 +163,10 @@ Revenues Operating margin
 	- ‒Investment rate (or asset turnover)
 - You can bring in other businessmodel specific drivers
 	- ‒Connect them to three main drivers
-![250](Z.%20Clippings/Week%201%20Introduction-20240427160828128.png)
+![250](Week%201%20Introduction-20240427160828128.png)
 ## EXAMPLE OF SIMPLE VALUE DRIVER MODEL
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161015465.png)
+![](Week%201%20Introduction-20240427161015465.png)
 
 - Sales growth estimates (yoy): 1.2%, 2%, 2%, 2.2%
 - Margin and NOA turnover: constant
@@ -193,7 +193,7 @@ Revenues Operating margin
 
 ## SUMMARY: VALUATION SEQUENCE
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161134688.png)
+![](Week%201%20Introduction-20240427161134688.png)
 Take the narrative apart and bring it into the valuation.  By the time you are done, each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
 
 Listen to people who know the business better than you do and use their suggestions to fine tune your narrative and perhaps even alter it.  Work out the effects on value of alternative narratives for the company.
@@ -214,7 +214,7 @@ Listen to people who know the business better than you do and use t
 
 ## THREE‐STAGE MODEL
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161148277.png)
+![](Week%201%20Introduction-20240427161148277.png)
 ROIC
 Time
 Time segment
@@ -227,7 +227,7 @@ Time segment
 
 ## NEAR‐TERM FLOWS AS % OF VALUE FOR TWO EXAMPLES
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161212882.png)
+![](Week%201%20Introduction-20240427161212882.png)
 
 ## NEAR‐TERM CASH FLOWS VS. TERMINAL VALUE
 
@@ -277,7 +277,7 @@ Competitive advantage and economic moats:
 
 ## COMPETITION AND RETURNS (OR ECONOMIC PROFITS)
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161702059.png)
+![](Week%201%20Introduction-20240427161702059.png)
 
 - High returns attract competitors
 	- ‒ Competitors settle for lower returns that are still attractive
@@ -285,7 +285,7 @@ Competitive advantage and economic moats:
 
 ## MOATS AND THE DECAY IN THE SPREAD
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161710220.png)
+![](Week%201%20Introduction-20240427161710220.png)
 
 - Economic profit declines on average
 	- ‒ But not necessarily for all companies (at the same rate)
@@ -293,16 +293,16 @@ Competitive advantage and economic moats:
 
 ## DECAY IN INDUSTRY PROFITABILITY: HIGH VS. LOW COMPETITION
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161723663.png)
+![](Week%201%20Introduction-20240427161723663.png)
 Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51, no. 2 (2013): 399‐436.
 
 ## MEAN REVERSION IN SALES GROWTH
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161744126.png)
+![](Week%201%20Introduction-20240427161744126.png)
 
 ### MEAN REVERSION IN ROIC
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427161749825.png)
+![](Week%201%20Introduction-20240427161749825.png)
 
 ### MEAN REVERSION IN OPERATING MARGIN
 
@@ -310,7 +310,7 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 
 ### MEAN REVERSION IN ASSET TURNOVER
 
-![](Z.%20Clippings/Attachments%201/Week%201%20Introduction-20240427161756252.png)
+![](Attachments%201/Week%201%20Introduction-20240427161756252.png)
 
 ### MULTIPLES REVIEW AND KEY CHALLENGES
 
@@ -358,11 +358,11 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 
 ## EXAMPLE: PE RATIOS AND NON‐RECURRING ITEMS
 - COMPARING PE RATIOS IN THE NEWSPAPER INDUSTRY
-![](Z.%20Clippings/Week%201%20Introduction-20240427162429940.png)
+![](Week%201%20Introduction-20240427162429940.png)
 
 ## EXAMPLE: PE RATIOS AFTER ADJUSTMENTS
 
-![](Z.%20Clippings/Week%201%20Introduction-20240427162521414.png)
+![](Week%201%20Introduction-20240427162521414.png)
 
 ## WHICH MULTIPLE SHOULD WE USE?
 - Koller et al. recommend EBITA or NOPAT multiple (see Ch. 18)
@@ -379,7 +379,7 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 ## ILLUSTRATING THE IMPACT OF CAPITAL STRUCTURE
 - EV/EBITA is not affected by leverage but PE is
 - Note that you cannot even sign the effect of leverage on the PE ratio
-![](Z.%20Clippings/Attachments%201/Week%201%20Introduction-20240427162550994.png)
+![](Attachments%201/Week%201%20Introduction-20240427162550994.png)
 ## MULTIPLES: SUMMARY
 - Relatively quick and "easy"
 	- Assumes other firms are "comparable" and their securities are correctly priced

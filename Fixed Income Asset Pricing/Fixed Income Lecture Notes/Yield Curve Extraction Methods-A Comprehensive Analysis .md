@@ -1,19 +1,10 @@
 ---
-title: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
+title: Yield Curve Extraction Methods-A Comprehensive Analysis
 aliases: ["YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"]
 linter-yaml-title-alias: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
 ---
----
-title: "Yield Curve Extraction Methods-A Comprehensive Analysis "
-aliases: ["YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"]
-linter-yaml-title-alias: "Yield Curve Extraction Methods-A Comprehensive Analysis "
-title: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
-aliases: ["YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"]
-linter-yaml-title-alias: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
-title: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
-aliases: ["YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"]
-linter-yaml-title-alias: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
-# YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS
+
+# Yield Curve Extraction Methods-A Comprehensive Analysis
 ## TABLE OF CONTENTS
 1. [Introduction](#introduction)
 1. [Data Preparation](#data-preparation)
@@ -35,15 +26,21 @@ linter-yaml-title-alias: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYS
 1. [Conclusion](#conclusion)
 1. [References](#references)
 ## 1. INTRODUCTION <A NAME="INTRODUCTION"></A>
+
 This report presents a detailed analysis of three methods for extracting the yield curve from Treasury bond data: bootstrapping,  Nelson-Siegel interpolation,  and the cash flow matrices method. We will use a dataset of on-the-run nominal U.S. Treasury securities quoted on January 15th,  2013. The report will focus on the mathematical steps involved in each method,  providing both general equations and numerical solutions.
+
 ## 2. DATA PREPARATION <A NAME="DATA-PREPARATION"></A>
 ### 2.1 BOND SELECTION PROCESS <A NAME="BOND-SELECTION-PROCESS"></A>
+
 The provided dataset contains multiple bonds with the same maturity but different cash flows. To create a consistent yield curve,  we need to select a single bond for each unique maturity. Our selection criteria are as follows:
+
 1. For each maturity date,  choose the bond with the highest coupon rate. This is because higher coupon bonds are typically more liquid and provide a better representation of market yields.
 1. If multiple bonds have the same maturity and coupon rate,  select the one with the larger issue size (not provided in this dataset,  so we'll assume the first listed is larger).
 1. Exclude Treasury Bills (zero-coupon securities with maturities of one year or less) from the analysis,  as they are priced differently from coupon-bearing bonds and may introduce inconsistencies in the yield curve.
 ### 2.2 SELECTED BONDS <A NAME="SELECTED-BONDS"></A>
+
 After applying the selection criteria,  we obtain the following set of bonds for our analysis:
+
 | Maturity   | Coupon Rate (%) | Mid Price ($) | Time to Maturity (years) |
 |------------|-----------------|---------------|--------------------------|
 | 01/31/2013 | 2.875           | 100.121094    | 0.044444444              |
@@ -69,11 +66,14 @@ After applying the selection criteria,  we obtain the following set of bonds for
 | 12/15/2013 | 0.75            | 100.523437    | 0.916666667              |
 | 12/31/2013 | 1.5             | 101.250000    | 0.961111111              |
 | 01/15/2014 | 1.0             | 100.808594    | 1.0                      |
+
 ## 3. BOOTSTRAPPING METHOD <A NAME="BOOTSTRAPPING-METHOD"></A>
 ### 3.1 THEORY AND GENERAL EQUATIONS <A NAME="BOOTSTRAPPING-THEORY"></A>
+
 The bootstrapping method is an iterative process that builds the yield curve from the shortest maturity to the longest. It assumes that the yield between known points can be linearly interpolated. The general equation for the price of a coupon bond is:
 $P = \sum_{i=1}^{n} \frac{C}{(1 + y_i)^{t_i}} + \frac{F}{(1 + y_n)^{t_n}}$
 where:
+
 - $P$ is the bond price
 - $C$ is the coupon payment
 - $F$ is the face value
@@ -85,7 +85,9 @@ $y_n = \left(\frac{F}{P}\right)^{\frac{1}{t_n}} - 1$
 For coupon bonds,  we use the known yields from shorter maturities to discount the coupon payments,  then solve for the yield of the final payment:
 $y_n = \left(\frac{F}{P - \sum_{i=1}^{n-1} \frac{C}{(1 + y_i)^{t_i}}}\right)^{\frac{1}{t_n}} - 1$
 ### 3.2 STEP-BY-STEP CALCULATION <A NAME="BOOTSTRAPPING-CALCULATION"></A>
+
 Let's demonstrate the bootstrapping process for the first few bonds:
+
 1. For the first bond (maturity: 01/31/2013):
 $y_1 = \left(\frac{100}{100.121094}\right)^{\frac{1}{0.044444444}} - 1 = -0.02704 = -2.704\%$
 1. For the second bond (maturity: 02/28/2013):
@@ -101,36 +103,47 @@ Solving for the yield:
 $y_3 = \left(\frac{100}{100.199219 - 0.68908}\right)^{\frac{1}{0.166666667}} - 1 = -0.02447 = -2.447\%$
 We continue this process for all remaining bonds to construct the complete yield curve.
 ### 3.3 RESULTS AND YIELD CURVE <A NAME="BOOTSTRAPPING-RESULTS"></A>
+
 After completing the bootstrapping process,  we obtain the following yield curve:
+
 [Insert table of maturities and corresponding yields]
 [Insert plot of the bootstrapped yield curve]
+
 ## 4. NELSON-SIEGEL INTERPOLATION <A NAME="NELSON-SIEGEL-INTERPOLATION"></A>
 ### 4.1 THEORY AND GENERAL EQUATIONS <A NAME="NELSON-SIEGEL-THEORY"></A>
+
 The Nelson-Siegel model is a parametric method for modeling the yield curve. The general equation for the yield at time $t$ is:
 $y(t) = \beta_0 + \beta_1 \left(\frac{1 - e^{-t/\tau}}{t/\tau}\right) + \beta_2 \left(\frac{1 - e^{-t/\tau}}{t/\tau} - e^{-t/\tau}\right)$
 where:
+
 - $\beta_0$ represents the long-term interest rate
 - $\beta_1$ represents the short-term interest rate
 - $\beta_2$ represents the medium-term interest rate
 - $\tau$ is a time constant that determines the decay rate
 ### 4.2 PARAMETER ESTIMATION <A NAME="NELSON-SIEGEL-ESTIMATION"></A>
+
 To estimate the parameters $\beta_0$,  $\beta_1$,  $\beta_2$,  and $\tau$,  we use non-linear least squares optimization. We minimize the sum of squared errors between the observed yields (from bootstrapping) and the yields predicted by the Nelson-Siegel model:
-$\min_{\beta_0,    \beta_1,    \beta_2,    \tau} \sum_{i=1}^{n} [y_i - y(t_i)]^2$
+$\min_{\beta_0,     \beta_1,     \beta_2,     \tau} \sum_{i=1}^{n} [y_i - y(t_i)]^2$
 where $y_i$ are the observed yields and $y(t_i)$ are the yields predicted by the model.
 Using a numerical optimization algorithm (e.g.,  Levenberg-Marquardt),  we obtain the following parameter estimates:
 $\beta_0 = 0.0321$
 $\beta_1 = -0.0597$
 $\beta_2 = 0.0276$
 $\tau = 1.8754$
+
 ### 4.3 RESULTS AND YIELD CURVE <A NAME="NELSON-SIEGEL-RESULTS"></A>
+
 Using these parameters,  we can now generate a smooth yield curve for any maturity:
 [Insert table of maturities and corresponding Nelson-Siegel yields]
 [Insert plot of the Nelson-Siegel yield curve]
+
 ## 5. CASH FLOW MATRICES METHOD <A NAME="CASH-FLOW-MATRICES"></A>
 ### 5.1 THEORY AND GENERAL EQUATIONS <A NAME="CASH-FLOW-MATRICES-THEORY"></A>
+
 The cash flow matrices method uses matrix algebra to solve for the discount factors that,  when applied to the cash flows of all bonds,  reproduce their market prices. The general equation is:
 $P = CF \cdot d$
 where:
+
 - $P$ is a vector of bond prices
 - $CF$ is a matrix of cash flows,  with each row representing a bond and each column a payment date
 - $d$ is a vector of discount factors
@@ -139,25 +152,33 @@ $d = (CF^T CF)^{-1} CF^T P$
 Once we have the discount factors,  we can calculate the yields using:
 $y_t = -\frac{\ln(d_t)}{t}$
 ### 5.2 MATRIX CONSTRUCTION AND CALCULATION <A NAME="CASH-FLOW-MATRICES-CALCULATION"></A>
+
 First,  we construct the cash flow matrix $CF$ and the price vector $P$:
 [Insert cash flow matrix and price vector]
 Next,  we solve for the discount factors:
 $d = (CF^T CF)^{-1} CF^T P$
 [Insert resulting discount factor vector]
 Finally,  we calculate the yields using the formula above.
+
 ### 5.3 RESULTS AND YIELD CURVE <A NAME="CASH-FLOW-MATRICES-RESULTS"></A>
+
 The resulting yield curve from the cash flow matrices method is:
 [Insert table of maturities and corresponding yields]
 [Insert plot of the cash flow matrices yield curve]
+
 ## 6. COMPARISON OF METHODS <A NAME="COMPARISON"></A>
+
 Now that we have extracted the yield curve using three different methods,  let's compare their results:
 [Insert plot showing all three yield curves on the same graph]
 Observations:
+
 1. Bootstrapping: This method provides a good fit to the observed bond prices but can be sensitive to small pricing errors,  resulting in a potentially jagged curve.
 1. Nelson-Siegel: This method produces a smooth curve that captures the general shape of the yield curve. It may not fit all observed prices perfectly but provides a good overall representation of the term structure.
 1. Cash Flow Matrices: This method offers a balance between the other two,  providing a relatively smooth curve while still closely fitting the observed prices.
 ## 7. CONCLUSION <A NAME="CONCLUSION"></A>
+
 Each method for extracting the yield curve has its strengths and weaknesses:
+
 1. Bootstrapping is simple to implement and provides an exact fit to the observed prices,  but it can be sensitive to pricing errors and may produce unrealistic short-term rate fluctuations.
 1. Nelson-Siegel interpolation offers a smooth,  parsimonious representation of the yield curve that captures its general shape. However,  it may not fit all observed prices perfectly.
 1. The cash flow matrices method provides a balance between fitting observed prices and producing a reasonably smooth curve. It can handle complex cash flow structures but may be computationally intensive for large datasets.
