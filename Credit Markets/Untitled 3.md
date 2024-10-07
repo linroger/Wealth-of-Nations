@@ -57,29 +57,7 @@ Let us now see if the $h$ -day volatility increases in proportion to ${\sqrt{h}}
 Table 5.1: Standard Deviations (volatility) for the Normal Distributions.
 Next,  if $S_{t}$ were to be modeled s satisfying
 $$\frac{\Delta S_t}{S_t}\approx\mu\Delta t+\sigma W_t,  $$
-using the increment Brownian motion $W_{t}$ ,  it is not enough to check
-
- ![500](https://storage.simpletex.cn/view/fxa3qvEsXPO7Qs8VPL9RCWV58aT5hoSgE)
-Figure 5.2: 1-day percentage changes of KOSPI 200.
- ![500](https://storage.simpletex.cn/view/finYmeh5KrRk00hXNNinUnSWnAR6QrNS2)
-Figure 5.3: 1-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
-
- ![500](https://storage.simpletex.cn/view/fYYVVnMOGDLqd7DnxwTWDGNnqSoNvdfoZ)
-Figure 5.4: 2-day percentage changes of KOSPI 200 with Normal Distribution Approximation
- ![500](https://storage.simpletex.cn/view/fZ5QHYCkMIiQuSXoZGAky6lgqkXArY0x1)
-Figure 5.5: 3-day percentage changes of KOSPI 200 with Normal Distribution Approximation
-
- ![500](https://storage.simpletex.cn/view/fnd0crhyxU1d7XtfIEiPf362chZcAN3ig)
-Figure 5.6: 5-day percentage changes of KOSPI 200 with Normal Distribution Approximation
- ![500](https://storage.simpletex.cn/view/fnl2xNcDvTK1NKmWA17ISKSPgUGSCM5l3)
-Figure 5.7:7-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
-
- ![500](https://storage.simpletex.cn/view/fPkeABOgRryFG7wRNgu2g3v2LFmGdPRDk)
-Figure 5.8: Overlaid normal distributions.
- ![500](https://storage.simpletex.cn/view/fL4PBqggGIezYei4q2E6hEKAHuHFiSzXG)
-Figure 5.9: Change of the $h$ -day Volatilities
-
-that the standard deviation of $\Delta S_{t}/S_{t}$ scales like $\sqrt{h}$ .We alsoneed to check the independence of increment. In order to do that,  let us go back to the stochastic differential equation for $S_{t}$ and rewrite $d\log S_{t}$ using the Ito formula as:
+using the increment Brownian motion $W_{t}$ ,  it is not enough to check that the standard deviation of $\Delta S_{t}/S_{t}$ scales like $\sqrt{h}$ .We alsoneed to check the independence of increment. In order to do that,  let us go back to the stochastic differential equation for $S_{t}$ and rewrite $d\log S_{t}$ using the Ito formula as:
 $$d\log S_t=(\mu-\frac{1}{2}\sigma^2)dt+\sigma dW_t.$$
 Therefore we can write
 $$\Delta\log S_t\approx\left(\mu-\frac{1}{2}\sigma^2\right)\Delta t+\sigma\Delta W_t.$$
@@ -536,3 +514,24 @@ $$1-N(d)=N(-d)$$
 for the cumulative normal distribution $N(d)$
 This Black-Scholes formula also gives the replicating portfolio $(\xi_{t},   \zeta_{t})$ for the put option that consists of $\xi_{t}$ units of riskless bond and $\zeta_{t}$ shares of stock by
 $$\left\{\begin{array}{ll}\xi_t=Ke^{-rT}N(-d_2),   \\\\\zeta_t=-N(-d_1).\end{array}\right.$$
+
+### 
+![500](https://storage.simpletex.cn/view/fxa3qvEsXPO7Qs8VPL9RCWV58aT5hoSgE)
+Figure 5.2: 1-day percentage changes of KOSPI 200.
+ ![500](https://storage.simpletex.cn/view/finYmeh5KrRk00hXNNinUnSWnAR6QrNS2)
+Figure 5.3: 1-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
+
+ ![500](https://storage.simpletex.cn/view/fYYVVnMOGDLqd7DnxwTWDGNnqSoNvdfoZ)
+Figure 5.4: 2-day percentage changes of KOSPI 200 with Normal Distribution Approximation
+ ![500](https://storage.simpletex.cn/view/fZ5QHYCkMIiQuSXoZGAky6lgqkXArY0x1)
+Figure 5.5: 3-day percentage changes of KOSPI 200 with Normal Distribution Approximation
+
+ ![500](https://storage.simpletex.cn/view/fnd0crhyxU1d7XtfIEiPf362chZcAN3ig)
+Figure 5.6: 5-day percentage changes of KOSPI 200 with Normal Distribution Approximation
+ ![500](https://storage.simpletex.cn/view/fnl2xNcDvTK1NKmWA17ISKSPgUGSCM5l3)
+Figure 5.7:7-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
+
+ ![500](https://storage.simpletex.cn/view/fPkeABOgRryFG7wRNgu2g3v2LFmGdPRDk)
+Figure 5.8: Overlaid normal distributions.
+ ![500](https://storage.simpletex.cn/view/fL4PBqggGIezYei4q2E6hEKAHuHFiSzXG)
+Figure 5.9: Change of the $h$ -day Volatilities
