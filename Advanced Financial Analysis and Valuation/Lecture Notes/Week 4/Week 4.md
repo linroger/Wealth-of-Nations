@@ -1,3 +1,4 @@
+# Week 4
 %% Begin Waypoint %%
 - **[[Week 4]]**
 	- [[Week 4 ESOs and Vaulation]]

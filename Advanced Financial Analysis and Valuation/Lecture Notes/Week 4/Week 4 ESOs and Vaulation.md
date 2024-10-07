@@ -1,6 +1,7 @@
 ---
 title: Week 4 ESOs and Vaulation
 ---
+# Week 4 ESOs and Vaulation
 
 Thomas Rauter
 
@@ -30,15 +31,15 @@ Thomas Rauter
 - Young and high‐growth firms are often short on cash
 	   - ESOs allow cash‐poor firms with growth prospects to compete for talent
 - As a consequence, ESOs are highly used in high‐growth companies
-- ![400](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503013907497.png)
+- ![400](Week%204%20ESOs%20and%20Vaulation-20240503013907497.png)
 - From a valuation perspective, compensation (or equity‐linked securities) are tricky
-   - Value of compensation (or securities) depends on the value of the stock that you are trying to estimate – creates circularity
+- Value of compensation (or securities) depends on the value of the stock that you are trying to estimate– creates circularity
 
 ## STOCK‐BASED COMPENSATION @ GOOGLE
 
 - 25% of operating income and 8% of total expenses
 - Including comp changes operating margin by 6%
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503013938092.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503013938092.png)
 
 ## EMPLOYEE STOCK OPTIONS
 - Employee stock options, like warrants, conversion options on bonds, etc.
@@ -71,11 +72,11 @@ firm is a heavy user of stock compensation
 ## BASIC ACCOUNTING RECAP FOR STOCK COMPENSATION (CONT.)
 
 - Example: Suppose Firm A grants **10MM ESOs** with an **exercise price of $50** on 12/31/2005 when Firm A's stock price was $50. On that date, Firm A uses an option pricing model to determine the **fair value of these ESOs at $30 each**. The ESOs fully vest in **4 years**. All the ESOs are exercised on 12/31/2011; Firm A's stock price was $120 at that time.
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014131264.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014131264.png)
 
 ## BOTH FUTURE AND PAST GRANTS ARE RELEVANT
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014212124.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014212124.png)
 
 ## DEALING WITH FUTURE GRANTS
 - Cash‐equivalent cost of future stock option grants :
@@ -91,7 +92,7 @@ firm is a heavy user of stock compensation
 
 ## EXAMPLE: YELP INC. – INCORRECT
 
-![](Z.%20Clippings/20and%20Vaulation-20240503014542156.png)
+![](20and%20Vaulation-20240503014542156.png)
 
 - Other Non‐Cash Charges (Benefits) exactly
 match the Credit Suisse estimates for stockbased compensation (Figure 13 in the report)
@@ -100,7 +101,7 @@ amount)
 
 ## EXAMPLE: FACEBOOK – CORRECT
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014550055.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014550055.png)
 Here, the analyst added stock‐based compensation in the calculation of Adjusted EBITDA but subtracted it again in the calculation of FCF for valuation
 
 ## DEALING WITH PAST GRANTS
@@ -130,7 +131,7 @@ Here, the analyst added stock‐based compensation in the calculation o
 
 ## ESO VALUATION: EXAMPLE
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014713501.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014713501.png)
 
 - At fiscal year end, Microsoft's (current) stock price was $80
 - Thus, Microsoft had a large number of "in the money" ESOs (outstanding and exercisable)
@@ -138,14 +139,14 @@ Here, the analyst added stock‐based compensation in the calculation o
 
 ## ESO VALUATION: EXERCISE VALUE APPROACH I
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014728408.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014728408.png)
 
 - Even considering only exercisable (i.e., vested) options and ignoring potential stock price
 increases, the overhang (or option value) is significant
 
 ## ESO VALUATION: EXERCISE VALUE APPROACH II
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014744317.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014744317.png)
 
 - Considering all outstanding options causes the overhang to grow considerably
  - Note this approach still ignores potential stock price increases
@@ -153,7 +154,7 @@ increases, the overhang (or option value) is significant
 
 ## ESO VALUATION: BLACK‐SCHOLES APPROACH
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014801782.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014801782.png)
 
 - Value of the options computed from Black‐Scholes model using assumptions given
 	   - See spreadsheet on Canvas
@@ -163,7 +164,7 @@ increases, the overhang (or option value) is significant
 
 ## ESO TAX BENEFITS
 
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503014829574.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503014829574.png)
 
 - The tax benefit highlighted in yellow is what you divide by the value of the options exercised (i.e., tax deduction) to obtain TESO
 	   - In 2000: 5535/15814 = 35%
@@ -201,7 +202,7 @@ increases, the overhang (or option value) is significant
 ## APPENDIX DETAILS ON BLACK‐SCHOLES MODEL
 
 - Value of call options without dividends:
-![300](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503015155745.png)
+![300](Week%204%20ESOs%20and%20Vaulation-20240503015155745.png)
 
 - Value of call options with dividends:
 - Note:  Can adjust the Black‐Scholes
@@ -215,4 +216,4 @@ value for dilution effect by multiplying the balance sheet value by th
 		   - Tax rate at which firm receives tax benefits from options
 		   - Depends on firm's tax position and the mix of qualified vs. nonqualified options
 		   - $t_{ESO}$ varies between 0 and marginal tax rate, depending on mix of options
-![](Z.%20Clippings/Week%204%20ESOs%20and%20Vaulation-20240503015322174.png)
+![](Week%204%20ESOs%20and%20Vaulation-20240503015322174.png)
