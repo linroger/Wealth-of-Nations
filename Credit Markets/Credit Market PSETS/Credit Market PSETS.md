@@ -6,9 +6,13 @@ title: Credit Market PSETS
 
 %% Begin Waypoint %%
 - **[[Credit Market PSETS]]**
+	- [[ Credit Market Solutions]]
+	- [[Advanced Usage of QuantLib analytics library]]
 	- [[Basic Usage of QuantLib analytics library]]
+	- [[Credit Market Homework 1]]
 	- [[Credit Market PSETS]]
-	- [[Credit Market Solution to Homework 1]]
 	- [[Credit Markets Homework 2]]
+	- [[Credit Markets Homework 3]]
+	- [[Credit Markets Homework 4]]
 
 %% End Waypoint %%

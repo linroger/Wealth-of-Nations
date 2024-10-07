@@ -1,8 +1,8 @@
 ---
-title: Credit Market Solution to Homework 1
+title: Credit Market Homework 1
 ---
 
-# Credit Market Solution to Homework 1
+# Credit Market Homework 1
 
 ## FINM 35700 - Spring 2024
 
@@ -281,10 +281,10 @@ cut_off_date_10y = pd.to_datetime('2014-04-01')
 govt_symbology_10y = govt_symbology[govt_symbology['start_date'] >= cut_off_date_10y].copy()
 
 # Plot the US Treasury coupons by issue date (last 10 years)
-govt_symbology_10y.plot(x='start_date',       y='coupon',       grid=True,       style='-*',       title='US Treasury coupons by issue date (last 10 years)',       figsize=(12,      8))
+govt_symbology_10y.plot(x='start_date',        y='coupon',        grid=True,        style='-*',        title='US Treasury coupons by issue date (last 10 years)',        figsize=(12,       8))
 ```
 
-    <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},       xlabel='start_date'>
+    <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},        xlabel='start_date'>
 
 
 
@@ -301,8 +301,8 @@ What can you say about the overall level of issued coupons in the last 4 years?
 ```python
 import plotly.express as px
 
-fig = px.scatter(govt_symbology_10y,       x='start_date',       y='coupon',       title='US Treasury coupons by issue date (last 10 years)')
-fig.update_layout(xaxis_title='Issue Date',       yaxis_title='Coupon',       template='plotly_white')
+fig = px.scatter(govt_symbology_10y,        x='start_date',        y='coupon',        title='US Treasury coupons by issue date (last 10 years)')
+fig.update_layout(xaxis_title='Issue Date',        yaxis_title='Coupon',        template='plotly_white')
 fig.show()
 ```
 
@@ -312,10 +312,10 @@ cut_off_date_4y = pd.to_datetime('2020-04-01')
 govt_symbology_4y = govt_symbology[govt_symbology['start_date'] >= cut_off_date_4y].copy()
 
 # Plot the US Treasury coupons by issue date (last 10 years)
-govt_symbology_4y.plot(x='start_date',       y='coupon',       grid=True,       style='-*',       title='US Treasury coupons by issue date (last 4 years)',       figsize=(12,      8))
+govt_symbology_4y.plot(x='start_date',        y='coupon',        grid=True,        style='-*',        title='US Treasury coupons by issue date (last 4 years)',        figsize=(12,       8))
 
 # describe
-govt_symbology_4y[['start_date',       'coupon']].describe()
+govt_symbology_4y[['start_date',        'coupon']].describe()
 ```
 
 <div>
@@ -401,7 +401,7 @@ Based on the summary statistics provided,  we can make following observations:
 Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2 Y,  3 Y,  5 Y,  7 Y,  10 Y,  20 Y and 30 Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for on-the-run treasuries only,  to be used later on for the on-the-run government yield curve bootstrapping.
 
 ```python
-# Load govt_on_the_run,       as of 2024-04-01
+# Load govt_on_the_run,        as of 2024-04-01
 
 # Keep OTR treasuries only
 govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B|C')]
@@ -715,7 +715,7 @@ corp_symbology = corp_symbology[(corp_symbology['mty_typ'] == 'AT MATURITY')
                                    & (corp_symbology['cpn_type'] == 'FIXED')]
 
 # Keep selected columns only
-corp_symbology = corp_symbology[['ticker',       'isin',       'figi',       'security',       'name',       'coupon',       'start_date',       'maturity',       'term',       'TTM']]
+corp_symbology = corp_symbology[['ticker',        'isin',        'figi',        'security',        'name',        'coupon',        'start_date',        'maturity',        'term',        'TTM']]
 
 # Filter for VZ issuer
 corp_symbology_vz =  corp_symbology[corp_symbology['ticker'] == 'VZ']
@@ -863,15 +863,15 @@ display(bond_market_prices_eod.head())
 
 ```python
 # Merge market data as of 2024-04-01 into treasury symbology
-govt_agg = govt_symbology.merge(bond_market_prices_eod,        on=['class',      'ticker',      'figi',      'isin'])
+govt_agg = govt_symbology.merge(bond_market_prices_eod,         on=['class',       'ticker',       'figi',       'isin'])
 
 govt_agg.head()
 
 # Plot a graph/scatter plot of treasury mid yields by TTM
-govt_agg.plot(x='TTM',       y='midYield',       grid=True,       style='*',       title='US Treasury Yields by TTM',       figsize=(12,      8))
+govt_agg.plot(x='TTM',        y='midYield',        grid=True,        style='*',        title='US Treasury Yields by TTM',        figsize=(12,       8))
 ```
 
-    <Axes: title={'center': 'US Treasury Yields by TTM'},       xlabel='TTM'>
+    <Axes: title={'center': 'US Treasury Yields by TTM'},        xlabel='TTM'>
 
 
 
@@ -882,16 +882,16 @@ govt_agg.plot(x='TTM',       y='midYield',       grid=True,       style='*',    
 
 ```python
 Merge market data as of 2024-04-01 into treasury symbology
-govt_agg = govt_symbology.merge(bond_market_prices_eod,        on=['class',      'ticker',      'figi',      'isin'])
+govt_agg = govt_symbology.merge(bond_market_prices_eod,         on=['class',       'ticker',       'figi',       'isin'])
 
 govt_agg.head()
 
-fig = px.scatter(govt_agg,       x='TTM',       y='midYield',       title='US Treasury Yields by TTM')
-fig.update_layout(xaxis_title='Time to Maturity (Years)',       yaxis_title='Mid Yield',       template='plotly_white')
+fig = px.scatter(govt_agg,        x='TTM',        y='midYield',        title='US Treasury Yields by TTM')
+fig.update_layout(xaxis_title='Time to Maturity (Years)',        yaxis_title='Mid Yield',        template='plotly_white')
 fig.show()
 ```
 
-      Cell In[25],       line 1
+      Cell In[25],        line 1
         Merge market data as of 2024-04-01 into treasury symbology
                                      ^
     SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
@@ -904,11 +904,11 @@ Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 
 ```python
 # Merge market data as of 2024-04-01 into treasury OTR symbology
-govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod,        on=['class',      'ticker',      'figi',      'isin'])
+govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod,         on=['class',       'ticker',       'figi',       'isin'])
 
-fig = px.scatter(govt_agg_otr,       x='TTM',       y='midYield',       title='OTR US Treasury yields by TTM')
+fig = px.scatter(govt_agg_otr,        x='TTM',        y='midYield',        title='OTR US Treasury yields by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',       yaxis_title='Mid Yield',       template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',        yaxis_title='Mid Yield',        template='plotly_white')
 Fig.Show ()
 ```
 
@@ -923,14 +923,14 @@ List the unique tickers/issuers available in the dataframe.
 
 ```python
 # Merge market data as of 2024-04-01 into corp symbology
-Corp_agg = corp_symbology.Merge (bond_market_prices_eod,        on=['ticker',      'figi',      'isin'])
+Corp_agg = corp_symbology.Merge (bond_market_prices_eod,         on=['ticker',       'figi',       'isin'])
 
 Print (corp_symbology. Shape)
 
 Display (corp_agg.Head ())
 ```
 
-    (67,       10)
+    (67,        10)
 
 <div>
 <style scoped>
@@ -1088,7 +1088,7 @@ Display (corp_agg.Head ())
 
 ```python
 # Unique tickers
-corp_agg_unique_tickers = corp_agg [['ticker',       'name']]. drop_duplicates ()
+corp_agg_unique_tickers = corp_agg [['ticker',        'name']]. drop_duplicates ()
 
 Display (corp_agg_unique_tickers)
 ```
@@ -1169,10 +1169,10 @@ Add a separate line for on-the-run US treasury yield curve (risk free curve).
 What can you say about the credit issuer yields,  compared to US treasury yields?
 
 ```python
-Fig = px.Scatter (corp_agg,       x='TTM',       y='midYield',       color='ticker',       title='Corporate Bond Yields by TTM')
-Fig. Add_trace (px.Scatter (govt_agg_otr,       x='TTM',       y='midYield'). Data[0])
+Fig = px.Scatter (corp_agg,        x='TTM',        y='midYield',        color='ticker',        title='Corporate Bond Yields by TTM')
+Fig. Add_trace (px.Scatter (govt_agg_otr,        x='TTM',        y='midYield'). Data[0])
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',       yaxis_title='Mid Yield',       template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',        yaxis_title='Mid Yield',        template='plotly_white')
 Fig.Show ()
 ```
 
@@ -1194,16 +1194,16 @@ Where
 
 ```python
 # Use the column 'und_bench_yield' to identify the underlying benchmark bond for each bond issue.
-corp_merged = corp_agg.Merge (bond_symbology [['isin',       'und_bench_isin']],       on='isin')
+corp_merged = corp_agg.Merge (bond_symbology [['isin',        'und_bench_isin']],        on='isin')
 
 # Create df containing govt_benchmark_yields
-govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin',       'midYield']]
-Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',       'isin': 'und_bench_isin'},       inplace=True)
+govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin',        'midYield']]
+Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',        'isin': 'und_bench_isin'},        inplace=True)
 
 # Add benchmark bond yield
-Corp_merged = corp_merged.Merge (govt_benchmark_yields,       on='und_bench_isin')
+Corp_merged = corp_merged.Merge (govt_benchmark_yields,        on='und_bench_isin')
 Corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
-display (corp_merged [['ticker',       'isin',       'figi',       'security',       'und_bench_isin',       'midYield',       'und_bench_yield',       'credit_spread']])
+display (corp_merged [['ticker',        'isin',        'figi',        'security',        'und_bench_isin',        'midYield',        'und_bench_yield',        'credit_spread']])
 
 
 ```
@@ -1368,9 +1368,9 @@ display (corp_merged [['ticker',       'isin',       'figi',       'security',  
 Plot a graph/scatter plot of credit spread curves by TTM (one line per issuer).
 
 ```python
-Fig = px.Scatter (corp_merged,       x='TTM',       y='credit_spread',       color='ticker',       title='Corporate Bond Credit Spreads by TTM')
+Fig = px.Scatter (corp_merged,        x='TTM',        y='credit_spread',        color='ticker',        title='Corporate Bond Credit Spreads by TTM')
 Fig. Update_traces (mode='lines+markers') 
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',       yaxis_title='Credit Spread',       template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',        yaxis_title='Credit Spread',        template='plotly_white')
 Fig.Show ()
 ```
 
@@ -1388,14 +1388,14 @@ Where
 
 ```python
 # Interpolate OTR Treasury yields on corporate bond TTMs
-Interp_tsy_yield_vec = np.Interp (corp_merged['TTM'],       govt_agg_otr['TTM'],       govt_agg_otr['midYield'])
+Interp_tsy_yield_vec = np.Interp (corp_merged['TTM'],        govt_agg_otr['TTM'],        govt_agg_otr['midYield'])
 
 # Add interp_tsy_yield and g_spread
 Corp_merged['interp_tsy_yield'] = interp_tsy_yield_vec
 Corp_merged['g_spread'] = corp_merged['midYield'] - corp_merged['interp_tsy_yield']
 
 # Display results
-display (corp_merged [['ticker',       'isin',       'figi',       'security',       'und_bench_isin',       'midYield',       'und_bench_yield',       'credit_spread',       'interp_tsy_yield',       'g_spread']])
+display (corp_merged [['ticker',        'isin',        'figi',        'security',        'und_bench_isin',        'midYield',        'und_bench_yield',        'credit_spread',        'interp_tsy_yield',        'g_spread']])
 ```
 
 <div>
@@ -1582,9 +1582,9 @@ display (corp_merged [['ticker',       'isin',       'figi',       'security',  
 Plot a graph/scatter plot of g-spread curves by TTM (one line per issuer).
 
 ```python
-Fig = px.Scatter (corp_merged,       x='TTM',       y='g_spread',       color='ticker',       title='Corporate Bond G-Spreads by TTM')
+Fig = px.Scatter (corp_merged,        x='TTM',        y='g_spread',        color='ticker',        title='Corporate Bond G-Spreads by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',       yaxis_title='G-Spread',       template='plotly_white') 
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',        yaxis_title='G-Spread',        template='plotly_white') 
 Fig.Show ()
 ```
 
@@ -1732,8 +1732,8 @@ Display (corp_symbology_orcl.Transpose ())
 ```python
 # Construct fixed rate cashflow schedule for ORCL 2.95 04/01/30
 
-Issue_date = ql.Date (1,       4,       2020)        # 2020-04-01
-Maturity_date = ql.Date (1,       4,       2030)     # 2030-04-01
+Issue_date = ql.Date (1,        4,        2020)        # 2020-04-01
+Maturity_date = ql.Date (1,        4,        2030)     # 2030-04-01
 
 Coupon_freq = ql. Semiannual
 Coupon_term = ql.Period (coupon_freq)
@@ -1743,13 +1743,13 @@ Date_generation = ql. DateGeneration. Backward
 Month_end = True
 
 # Fixed_rate_schedule
-Fixed_rate_schedule = ql.Schedule (issue_date,      
-                       Maturity_date,      
-                       Coupon_term,      
-                       Calendar,      
-                       Day_count_conv,      
-                       Day_count_conv,      
-                       Date_generation,      
+Fixed_rate_schedule = ql.Schedule (issue_date,       
+                       Maturity_date,       
+                       Coupon_term,       
+                       Calendar,       
+                       Day_count_conv,       
+                       Day_count_conv,       
+                       Date_generation,       
                        Month_end)
 ```
 
@@ -1776,21 +1776,21 @@ Face_value = 100
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
-    Settlement_days,      
-    Face_value,      
-    Fixed_rate_schedule,      
-    Coupons,      
-    Day_count,      
+    Settlement_days,       
+    Face_value,       
+    Fixed_rate_schedule,       
+    Coupons,       
+    Day_count,       
     Payment_convention)
 ```
 
 ```python
 # Display the contractual cashflows. 
-X = [(cf.Date (). To_date (),       cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
-Cf_date_fixed,       cf_amount = zip (*x)
-Fixed_rate_bond_cashflows = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,       'CashFlowAmount': cf_amount})
+X = [(cf.Date (). To_date (),        cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
+Cf_date_fixed,        cf_amount = zip (*x)
+Fixed_rate_bond_cashflows = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,        'CashFlowAmount': cf_amount})
 
-# Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),       up to the face value multiplier.
+# Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),        up to the face value multiplier.
 Display (fixed_rate_bond_cashflows)
 ```
 

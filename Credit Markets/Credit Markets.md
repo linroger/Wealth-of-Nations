@@ -8,7 +8,6 @@ linter-yaml-title-alias: CREDIT MARKETS
 
 %% Begin Waypoint %%
 - **[[Credit Markets]]**
-	- [[ Credit Market Solutions]]
 	- [[Black-Scholes Model]]
 	- **[[Credit Market PSETS]]**
 	- [[Credit Market Session 2]]
