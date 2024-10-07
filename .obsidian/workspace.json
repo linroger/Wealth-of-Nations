@@ -11,12 +11,9 @@
             "id": "98e455c4eddfe500",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Tags/#primers/#primers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments"
               }
             }
           },
@@ -203,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +237,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -273,10 +266,16 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "254fecc44fade116",
+  "active": "98e455c4eddfe500",
   "lastOpenFiles": [
-    "Tags/#primers/#primers.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Teaching Note 3 Swaps- Financial Instruments.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 2-Futures Contracts.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
+    "Financial Instruments/Review Session Notes/Currency Swaps.md",
+    "Financial Instruments/Review Session Notes/Binomial Trees and Option Pricing MBA.md",
+    "Tags/#primers/#primers.md",
     "Tags/#primers",
     "Credit Markets/Credit Markets.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
@@ -296,11 +295,7 @@
     "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
     "Credit Markets/Credit Market PSETS/Credit Markets Homework 2.md",
     "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
-    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-    "Credit Markets/Credit Markets Session 1.md",
-    "Credit Markets/Credit Market Session 2.md",
     "Attachments/open?vault=FinNotes&file=output:.inetloc",
-    "Credit Markets/Credit Markets Session 4.md",
     "Attachments/40abbd555f187572d320b913dc03b5207acfd94d8402fce74fd237a0facd1a6f.png",
     "Attachments/d5e5de894bf3308483831ecea969d94b7174e8b33918a63886019677e5e66fc4.png",
     "Attachments/d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png",
@@ -311,8 +306,6 @@
     "Attachments/807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png",
     "Attachments/1e30a420691664048397c52acfac36e2994d8321608cd4590d305b7b91001587.png",
     "Attachments/19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png",
-    "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
-    "Credit Markets/Credit Markets Session 5.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",

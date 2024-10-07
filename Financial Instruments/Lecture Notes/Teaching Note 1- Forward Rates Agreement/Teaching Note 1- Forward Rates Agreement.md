@@ -4,7 +4,7 @@ aliases: [LECTURE NOTE 1 FORWARD RATES AGREEMENT]
 linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 ---
 
-# LECTURE NOTE 1 FORWARD RATES AGREEMENT
+# Teaching Note 1- Forward Rates Agreement
 
 %% Begin Waypoint %%
 
