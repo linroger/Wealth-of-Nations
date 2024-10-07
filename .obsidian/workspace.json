@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md"
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
               }
             }
           }
@@ -268,12 +268,13 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "github-sync:Sync with Remote": false,
-      "formatto-format:Format Document": false,
-      "obisidian-note-linker:Note Linker": false
+      "formatto-format:Format Document": false
     }
   },
-  "active": "9dec6111be784c99",
+  "active": "14b0fd9d627efe84",
   "lastOpenFiles": [
+    "Credit Markets/Credit Markets.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
     "Credit Markets/Credit Markets Session 3.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -308,9 +309,7 @@
     "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Untitled.md",
-    "Credit Markets/Credit Markets.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
-    "Credit Markets/Untitled 2.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",

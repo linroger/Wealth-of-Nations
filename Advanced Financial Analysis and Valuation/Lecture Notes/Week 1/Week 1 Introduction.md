@@ -1,5 +1,5 @@
 ---
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
+title: Week 1 Introduction
 aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 ---
@@ -62,7 +62,7 @@ Accounting Analysis and Shenanigans
 ## CENTRAL ROLE OF ACCOUNTING
 
 - Allow us to understand the business model and the economics of the firm
-	- ‒ Profitability and, in particular, value creation
+	- ‒ Profitability and,  in particular,  value creation
 	- ‒ Connects the narrative and the numbers
 - Financial statements provide a starting point
 	- ‒ Past trends are often the basis for forecasts
@@ -79,7 +79,7 @@ Accounting Analysis and Shenanigans
 	- ‒ Asset turnover
 - Common ratio cheat sheet (on Canvas)
 - Separating operating and financing activities
-	- ‒ Excess cash (e.g., Apple) & interest revenue, non‐operating assets
+	- ‒ Excess cash (e.g.,  Apple) & interest revenue,  non‐operating assets
 	- ‒ Basic idea: Understand and analyze core business
 	- ‒ We use ROIC rather than ROA
 	- ‒ Invested capital = Operating assets – operating liabilities
@@ -99,9 +99,9 @@ Accounting Analysis and Shenanigans
 
 ## EXAMPLE: CHANGE IN AMORTIZATION METHOD
 
-From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013, ExampleCo completed a review of its rental equipment amortization methodology and updated the methodology in order to add greater precision to cost amortization. The previous method recognized accelerated amortization of costs at a rate faster than the decline in the equipment value due to the recognition of charges in addition to the normal rental curve amortization to account for potential damage. The Company's most recent analysis has shown that its amortization curves can reasonably capture the effect of potential damage and therefore eliminates the need for additional charges and provides a better correlation of costs to revenue. The modified approach to amortizing the cost of the equipment is based on updated rental curves, which incorporate damage estimates, and provides a more systematic method for recognizing the replacement costs. The Company anticipates this new method will better align the recognition of costs with related revenue.
+From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013,  ExampleCo completed a review of its rental equipment amortization methodology and updated the methodology in order to add greater precision to cost amortization. The previous method recognized accelerated amortization of costs at a rate faster than the decline in the equipment value due to the recognition of charges in addition to the normal rental curve amortization to account for potential damage. The Company's most recent analysis has shown that its amortization curves can reasonably capture the effect of potential damage and therefore eliminates the need for additional charges and provides a better correlation of costs to revenue. The modified approach to amortizing the cost of the equipment is based on updated rental curves,  which incorporate damage estimates,  and provides a more systematic method for recognizing the replacement costs. The Company anticipates this new method will better align the recognition of costs with related revenue.
 
-The effect of this change resulted in a reduction of product costs, as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013, the change resulted in a benefit to net income of $15 million or $0.10 in basic earnings per share.
+The effect of this change resulted in a reduction of product costs,  as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013,  the change resulted in a benefit to net income of $15 million or $0.10 in basic earnings per share.
 
 ![](Week%201%20Introduction-20240427160357638.png)
 
@@ -117,7 +117,7 @@ The effect of this change resulted in a reduction of product costs, as reported 
 
 ## BUSINESS MODELS DIFFER IN THEIR NUMBERS
 
-- Industries below differ in key ratios like their profit margin (PM), leverage, operating cycle or market‐to‐book ratio
+- Industries below differ in key ratios like their profit margin (PM),  leverage,  operating cycle or market‐to‐book ratio
 	- ‒ Key ratios reflect differences in the business models or industries
 RNOA = Return on Net Operating Assets ≈ ROIC
 
@@ -168,7 +168,7 @@ Revenues Operating margin
 
 ![](Week%201%20Introduction-20240427161015465.png)
 
-- Sales growth estimates (yoy): 1.2%, 2%, 2%, 2.2%
+- Sales growth estimates (yoy): 1.2%,  2%,  2%,  2.2%
 - Margin and NOA turnover: constant
 - Your turnover forecast pins down your forecasted NOA (and hence investments)
 	- ∆NOA is change in investment = required net investment
@@ -179,12 +179,12 @@ Revenues Operating margin
 	- ‒ Consider change in Net PPE
 	- ‒ The change in Net PPE is Change Gross PPE – Change Accumulated Depreciation
 	- ‒ Subtracting the change in Net PPE from NOPAT means:
-		- Subtracting the change in Gross PPE (e.g., new stuff bought)
-		- Adding back depreciation of the period (i.e., undoing non‐cash items)
+		- Subtracting the change in Gross PPE (e.g.,  new stuff bought)
+		- Adding back depreciation of the period (i.e.,  undoing non‐cash items)
 - Consider a firm with 1000 in Net PPE (Gross PPE ‐ Accumulated Depreciation)
 	- ‒ Suppose the firm has depreciation of 200 and buys new PPE for 400
 - Avenue 1: Directly adjust investment and depreciation
-- To go from NOPAT to FCF, we want to subtract the 400 in investment and add back the 200 in depreciation
+- To go from NOPAT to FCF,  we want to subtract the 400 in investment and add back the 200 in depreciation
 	- ‒ Cash used up is 200 = 400 – 200
 - Avenue 2: Adjust the net change in PPE
 	- ‒ New Net PPE is 1200
@@ -194,15 +194,15 @@ Revenues Operating margin
 ## SUMMARY: VALUATION SEQUENCE
 
 ![](Week%201%20Introduction-20240427161134688.png)
-Take the narrative apart and bring it into the valuation.  By the time you are done, each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
+Take the narrative apart and bring it into the valuation.  By the time you are done,  each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
 
 Listen to people who know the business better than you do and use their suggestions to fine tune your narrative and perhaps even alter it.  Work out the effects on value of alternative narratives for the company.
 
 ## DETAILED FORECASTING VS. VALUE‐DRIVER APPROACH
 
 - Most common: Detailed (three‐statement) approach
-‒ Pro‐forma income statement, balance sheet and cash flow statement
-‒ More flexibility to capture specific changes, events, and trends
+‒ Pro‐forma income statement,  balance sheet and cash flow statement
+‒ More flexibility to capture specific changes,  events,  and trends
 ‒ Be careful about internal consistency
 
 - Value‐driver approach
@@ -220,7 +220,7 @@ Time
 Time segment
 
 - Use varying levels of detail
-	- ‒ Forecast period 1: More detail (e.g., line items)
+	- ‒ Forecast period 1: More detail (e.g.,  line items)
 	- ‒ Forecast period 2: Key value drivers and fading
 	- ‒ TV period: Typically perpetuity (perhaps with growth)
 		- FCF in TV can also be determined in terms of key value drivers (Week 3)
@@ -236,12 +236,12 @@ small percentage of overall value
 - For model with short forecast horizon:
 	- ‒ The bulk of the value resides in the terminal value
 	- ‒ Valuation is very sensitive to terminal value assumptions
-		- Steady‐state FCF, growth rate, WACC
+		- Steady‐state FCF,  growth rate,  WACC
 - What is the purpose of the second stage?
  - NORMALIZATION
 	 - ‒ Fades the FCF to sustainable level before using TV formula
-- Almost all the action is in the long run, not the near term
-	- ‒ This is the problem with multiples – focus on the near term (e.g., forward E)
+- Almost all the action is in the long run,  not the near term
+	- ‒ This is the problem with multiples – focus on the near term (e.g.,  forward E)
 	- ‒ Market excesses tend to manifest in unrealistic TV valuations 
 
 ## IMPORTANCE OF MOATS ECONOMIC MOATS
@@ -251,8 +251,8 @@ small percentage of overall value
 	- Economic profit (ROIC > WACC)
 - ‒ Ability to do so follows from its strategy and competitive position
 Competitive advantage and economic moats:
-- "The key to investing is … determining the competitive advantage of any given company and, above all, the durability of that advantage. The products or services that have wide, sustainable moats around them are the ones that deliver rewards to investors."
-(Warren Buffett, Fortune 1999)
+- "The key to investing is … determining the competitive advantage of any given company and,  above all,  the durability of that advantage. The products or services that have wide,  sustainable moats around them are the ones that deliver rewards to investors."
+(Warren Buffett,  Fortune 1999)
 - Moat concept combines economic profit and competitive advantage
 - Why does the "durability" of the advantage matter?
 - Morningstar uses moat concept and assigns:
@@ -265,14 +265,14 @@ Competitive advantage and economic moats:
 - Key questions in analyzing companies
 	- ‒ What is the source of the competitive advantage?
 	- ‒ How sustainable is the competitive advantage?
-- Moat sources (i.e., reasons why ROIC > WACC)
-	- ‒ Intangible assets (e.g., brands, patents, government licenses)
-	- ‒ Cost advantage (e.g., economies of scale, location)
-	- ‒ Switching costs (e.g., operating systems)
+- Moat sources (i.e.,  reasons why ROIC > WACC)
+	- ‒ Intangible assets (e.g.,  brands,  patents,  government licenses)
+	- ‒ Cost advantage (e.g.,  economies of scale,  location)
+	- ‒ Switching costs (e.g.,  operating systems)
 	- ‒ Network effects (value of services increases as more people use the service)
 	- ‒ Efficient scale (limited market is already served by one or just a few companies)
 - Economic moats have a life cycle and are changing over time
-	- ‒ Competition can make moats unstable or erode them (e.g., P&G, SAP)
+	- ‒ Competition can make moats unstable or erode them (e.g.,  P&G,  SAP)
 	- ‒ Are moats sustainable or narrowing? 
 
 ## COMPETITION AND RETURNS (OR ECONOMIC PROFITS)
@@ -281,7 +281,7 @@ Competitive advantage and economic moats:
 
 - High returns attract competitors
 	- ‒ Competitors settle for lower returns that are still attractive
-- Over time, competition drives ROIC down to the cost of capital
+- Over time,  competition drives ROIC down to the cost of capital
 
 ## MOATS AND THE DECAY IN THE SPREAD
 
@@ -289,12 +289,12 @@ Competitive advantage and economic moats:
 
 - Economic profit declines on average
 	- ‒ But not necessarily for all companies (at the same rate)
-- Moats can play an important role in slowing down the decay in the spread (i.e., difference between ROIC and WACC)
+- Moats can play an important role in slowing down the decay in the spread (i.e.,  difference between ROIC and WACC)
 
 ## DECAY IN INDUSTRY PROFITABILITY: HIGH VS. LOW COMPETITION
 
 ![](Week%201%20Introduction-20240427161723663.png)
-Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51, no. 2 (2013): 399‐436.
+Source: Li,  Feng,  Russell Lundholm,  and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51,  no. 2 (2013): 399‐436.
 
 ## MEAN REVERSION IN SALES GROWTH
 
@@ -322,12 +322,12 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
  - MULTIPLES CAN BE A GOOD STARTING POINT
 	- ‒ Gauge value of current operations
 	- ‒ Easy to capitalize consensus earnings forecast
-		- If consensus is $1.50 per share and PE ratio for peer group is 20, then share price should be around $30
+		- If consensus is $1.50 per share and PE ratio for peer group is 20,  then share price should be around $30
 	- What is key for this valuation?
 
 ## ONE ISSUE: MULTIPLES TYPICALLY FOCUS ON THE NEAR TERM
 - That is in contrast to what we discussed earlier
-- When you try to build in the long‐run, multiples become tricky
+- When you try to build in the long‐run,  multiples become tricky
 
 ## BASIC IDEA
 - PE ratio is essentially based on a perpetuity
@@ -337,10 +337,10 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 	- You can view earnings as an estimate of "normalized" cash flow to equity in steady state (rather than the dividend)
 	- Thus: P = E/r P/E = 1/r
 		- This is just the simplest representation
-- We can add other factors (e.g., growth)
+- We can add other factors (e.g.,  growth)
 	- P/E = 1/(r‐g)
 	- PEG ratio
-- We can also capitalize different flow variables (e.g., EBITDA)
+- We can also capitalize different flow variables (e.g.,  EBITDA)
 
 ## CHALLENGES FOR MULTIPLES
 - Multiple is essentially a valuation model with a forecast horizon of T=1
@@ -348,13 +348,13 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 	- Complexity of valuation has not disappeared – all 'crammed' into:
 		- Multiple (reflects growth and cost of capital)
 		- The "E" (needs to be normalized to capture long‐run value creation)
-- For multiples, comparability is key
+- For multiples,  comparability is key
 	- Challenge: Finding comparables and adjusting their earnings
 - Adjustments are much more important for multiples (than DCF)
 	- Differences in strategy and in accounting methods
-		- Acquisitions, operating leases, pensions, stock compensation, etc.
-	- Earnings need to be normalized (e.g., adjusted for non‐recurring items)
-		- Discontinued operations, impairments, restructuring, etc.
+		- Acquisitions,  operating leases,  pensions,  stock compensation,  etc.
+	- Earnings need to be normalized (e.g.,  adjusted for non‐recurring items)
+		- Discontinued operations,  impairments,  restructuring,  etc.
 
 ## EXAMPLE: PE RATIOS AND NON‐RECURRING ITEMS
 - COMPARING PE RATIOS IN THE NEWSPAPER INDUSTRY
@@ -369,12 +369,12 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 	- Gives you an entity value
 		- Just like EV/EBITDA multiple
 	- Need to subtract financial debt and add financial assets to get to equity value
-- By not excluding depreciation, EBITA makes firms with in‐house production more comparable to firms with outsourcing
+- By not excluding depreciation,  EBITA makes firms with in‐house production more comparable to firms with outsourcing
 - Why use a number "higher up" in the income statement?
 	- Tends to be less distorted by non‐recurring charges
 	- EBITA or NOPAT do not commingle operating and financing activities
 		- Less distorted by differences in capital structure across companies
-		- For PE ratio, cto have similar capital structure (see next slide)
+		- For PE ratio,  cto have similar capital structure (see next slide)
 
 ## ILLUSTRATING THE IMPACT OF CAPITAL STRUCTURE
 - EV/EBITA is not affected by leverage but PE is
@@ -401,11 +401,11 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of�
 	- Forecast horizon is too short
 	- Implausible terminal value
 	- Growth and investment are not connected or incompatible
-	- Other liabilities (e.g., leases, stock compensation) are not accounted for
+	- Other liabilities (e.g.,  leases,  stock compensation) are not accounted for
 	- Double counting
 	- No scenarios
-- Green, Hand and Zhang (2016) analyze sample of DCF models in analyst reports
-	- Find on average 3 mistakes and 4 questionable judgments (e.g., TV)
+- Green,  Hand and Zhang (2016) analyze sample of DCF models in analyst reports
+	- Find on average 3 mistakes and 4 questionable judgments (e.g.,  TV)
 	- Valuation effect ranges from ‐2% to 14%
 - Pre‐recordings for this class are designed to help you with some of the technical issues
 
