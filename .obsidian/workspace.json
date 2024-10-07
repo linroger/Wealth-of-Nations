@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
+                "file": "Credit Markets/Untitled 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Untitled 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
+                "file": "Credit Markets/Untitled 3.md"
               }
             }
           }
@@ -237,14 +237,16 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "a2422600cf1fc676",
+  "active": "98e455c4eddfe500",
   "lastOpenFiles": [
+    "Credit Markets/Credit Markets.md",
+    "Credit Markets/Untitled 3.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
+    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Credit Markets/ Credit Market Solutions.md",
     "Credit Markets/Untitled.md",
     "Credit Markets/Untitled 1.md",
     "Credit Markets/Untitled 2.md",
-    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Attachments/CreditMarketSolutions_7_1.png",
     "Attachments/CreditMarketSolutions_10_1.png",
     "Attachments/CreditMarketSolutions_20_1.png",
@@ -278,8 +280,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 10- Interest Rate Derivatives.md",
-    "Financial Instruments/Financial Instruments.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
