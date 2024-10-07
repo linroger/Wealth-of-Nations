@@ -7,7 +7,6 @@ linter-yaml-title-alias: CREDIT MARKETS
 # Credit Markets
 
 %% Begin Waypoint %%
-
 - **[[Credit Markets]]**
 	- [[ Credit Market Solutions]]
 	- [[Black-Scholes Model]]
@@ -19,7 +18,5 @@ linter-yaml-title-alias: CREDIT MARKETS
 	- [[Credit Markets Session 5]]
 	- [[Credit Markets]]
 	- [[Risk Neutral Valuation Framework for Credit Default Swaps]]
-	- [[Untitled 2]]
-	- [[Untitled]]
 
 %% End Waypoint %%
