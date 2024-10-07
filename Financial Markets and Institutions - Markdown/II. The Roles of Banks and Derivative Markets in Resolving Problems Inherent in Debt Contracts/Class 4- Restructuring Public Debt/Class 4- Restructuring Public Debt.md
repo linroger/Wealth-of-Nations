@@ -14,7 +14,7 @@ linter-yaml-title-alias: Class 4Restructuring Public Debt
 	- [[Class Note 5A Coercive Exchange Offers and Exit Consents]]
 	- [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers]]
 	- [[Class Slide 4-Restructuring Debt Outside Bankruptcy]]
-	- [[Do Bondholders Lose From Junk Bond Covenant Changes?]]
+	- [[Do Bondholders Lose From Junk Bond Covenant Changes]]
 	- [[Greece Faces Bond Swap Holdouts]]
 	- [[Merrill Coercive Exchange Offers]]
 	- [[Note On LBO Capital Structure Module Note]]

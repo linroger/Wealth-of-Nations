@@ -25,6 +25,6 @@ linter-yaml-title-alias: Class 9Bailouts and Bank Failures
 	- [[The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo ]]
 	- [[The Value of Bank Durability Borrowers as Bank Stakeholders]]
 	- [[Update On Outstanding Lending Facilities]]
-	- [[Why Did Cryptocurrencies Terrausd and Lunaunravel? Stablecoin Price Crash Explained;declines Undermine Developers' Claims They Couldcreate a New Form of Finance Not Marred By Thedestabilizing Bank Runs]]
+	- [[Why Did Cryptocurrencies Terrausd and Lunaunravel Stablecoin Price Crash Explained;declines Undermine Developers' Claims They Couldcreate a New Form of Finance Not Marred By Thedestabilizing Bank Runs]]
 
 %% End Waypoint %%

@@ -1,8 +1,10 @@
 ---
 title: Reflections On Modern Bank Runs a Case Study of Northern Rock*
+aliases:
+  - Reflections On Modern Bank Runs a Case Study of Northern Rock*
 ---
 
-# Reflections On Modern Bank Runs a Case Study of Northern Rock*
+# Reflections On Modern Bank Runs a Case Study of Northern Rock
 
 Reflections on Modern Bank Runs:
 A Case Study of Northern Rock* Hyun Song Shin Princeton University August 2008 Abstract: The UK bank Northern Rock was the most high-profile casualty of the credit crisis of 2007 when it suffered its depositor run in September. In spite of the television images of long lines of depositors outside its branch offices,  the run on Northern Rock was unlike the textbook retail depositor run caused by coordination failure. Also,  contrary to received wisdom,  its reliance on securitization was not an immediate factor in its failure. Rather,  its problems stemmed from its high leverage coupled with reliance on institutional investors for shortterm funding. When the de-leveraging in the credit markets began in August 2007,  it was uniquely vulnerable to the shrinking of lender balance sheets arising from the tick-up in measured risks. Northern Rock shows that modern banking cannot be viewed separately from capital market developments.

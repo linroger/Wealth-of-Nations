@@ -22,7 +22,6 @@ linter-yaml-title-alias: ASSIGNMENTS
 # ASSIGNMENTS
 
 %% Begin Waypoint %%
-
 - **[[Assignments]]**
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]
@@ -42,8 +41,8 @@ linter-yaml-title-alias: ASSIGNMENTS
 		- **[[PSET 5 Solution (attachments)]]**
 			- [[CleanShot 2024-09-19 -002780@2x.png]]
 			- [[Finder 2024-09-19 09.37.16.png]]
-			- [[Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39 1]]
-			- [[Finder 2024-09-19 09.39.56.png|Finder 2024-09-19 09.39]]
+			- [[Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39 1]]
+			- [[Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39]]
 			- [[PSET 5 Solution (attachments)]]
 		- [[PSET 5 Solution]]
 		- [[PSET 6 Solution]]
