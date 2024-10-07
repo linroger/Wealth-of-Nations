@@ -33,7 +33,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/ Credit Market Solutions.md",
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Solution to Homework 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dec6111be784c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit MarketHomework 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/ Credit Market Solutions.md",
+                "file": "Credit Markets/Credit Market PSETS/Credit MarketHomework 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/ Credit Market Solutions.md",
+                "file": "Credit Markets/Credit Market PSETS/Credit MarketHomework 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/ Credit Market Solutions.md"
+                "file": "Credit Markets/Credit Market PSETS/Credit MarketHomework 2.md"
               }
             }
           }
@@ -259,8 +272,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b335010b0a3958ca",
+  "active": "9dec6111be784c99",
   "lastOpenFiles": [
+    "Credit Markets/ Credit Market Solutions.md",
+    "Credit Markets/Credit Market PSETS/Credit MarketHomework 2.md",
+    "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+    "Credit Markets/Credit Market PSETS/Credit Market Solution to Homework 1.md",
+    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
     "Credit Markets/Credit Markets Session 1.md",
     "Credit Markets/Credit Market Session 2.md",
     "Attachments/open?vault=FinNotes&file=output:.inetloc",
@@ -279,7 +297,6 @@
     "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Untitled.md",
-    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
     "Credit Markets/Credit Markets.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Credit Markets/Untitled 2.md",
@@ -287,7 +304,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9A- Credit Default Swaps.md",
-    "Credit Markets/ Credit Market Solutions.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9- Corporate Securities And Credit Derivatives.md",
     "Financial Instruments/Lecture Notes/Teaching Note 8-American Options.md",
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
@@ -295,8 +311,6 @@
     "Financial Engineering/9._Introduction_to_Real_Options.md",
     "Financial Instruments/Lecture Notes/Lecture Note 5- Black Scholes Formula.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 7 A Rundown On Continuous Time Models.md",
-    "Attachments/9/f/f.md",
-    "Attachments/9/f/4/4.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",

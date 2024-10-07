@@ -5,7 +5,7 @@ title: Week 3 Financial Risk Analysis
 [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)
 [Week 3 Financial Risk Analysis](Week%203%20Financial%20Risk%20Analysis.md)
 
-[Credit Markets](Credit%20Markets.md)
+[Credit Markets](Credit%20Markets/Credit%20Markets.md)
 [8. Credit Modeling and Credit Derivatives](8.%20Credit%20Modeling%20and%20Credit%20Derivatives.pdf)
 [Teaching Notes 9- Corporate Securities And Credit Derivatives](Teaching%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md)
 [Teaching Notes 9A- Credit Default Swaps](Teaching%20Notes%209A-%20Credit%20Default%20Swaps.md)
