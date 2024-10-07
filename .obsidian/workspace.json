@@ -11,9 +11,12 @@
             "id": "98e455c4eddfe500",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Credit Markets"
+                "file": "Tags/#primers/#primers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -125,8 +128,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,8 +273,11 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "14b0fd9d627efe84",
+  "active": "254fecc44fade116",
   "lastOpenFiles": [
+    "Tags/#primers/#primers.md",
+    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Tags/#primers",
     "Credit Markets/Credit Markets.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
     "Credit Markets/Credit Markets Session 3.md",
@@ -308,8 +313,6 @@
     "Attachments/19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png",
     "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
-    "Credit Markets/Untitled.md",
-    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Attachments/9/f/4",
     "Attachments/9/f",
     "Attachments/9",
@@ -317,7 +320,6 @@
     "Attachments/8/0",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
-    "Attachments/Preview 2024-09-30 11.05.40.tiff",
-    "Attachments/Preview 2024-09-29 03.35.00.tiff"
+    "Attachments/Preview 2024-09-30 11.05.40.tiff"
   ]
 }
