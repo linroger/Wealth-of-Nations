@@ -1,9 +1,3 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
@@ -59,21 +53,21 @@ Thomas Rauter
 	- 1) Ethylene cracker
 		 - Forecast assumes cracker's operating rate improves from 90.2% to 100%
 		 - Dow will operate cracker more efficiently due to the $72.9MM capital investment
-		 - Ethaneratio remaint's efficiency can't be improved, which is why Dow needs to build a more efficient cracker in Stage 3
+		 - Ethaneratio remains constant: Plant's efficiency can't be improved, which is why Dow needs to build a more efficient cracker in Stage 3
 	- 2) Polyethylene plant
 		 - Forecast assumes plant's operating rate increases from 65% to 100% driven by investments
 
 ## DOW PBB CASE: EXHIBIT 9A (UNTIL 2002)
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518043854695.png)
+![](7b8994db3748cb7082d4b8240f95ddda.png)
 
 ## DOW PBB CASE: EXHIBIT 9B (UNTIL 2002 ONLY)
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518043928463.png)
+![](5fad9c980884db2aacc5ad03dbf33bf7.png)
 
 ## DOW PBB CASE: EXHIBIT 9B (UNTIL 2002 ONLY)
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044002284.png)
+![](587dc061140e0df2678255ee3c44fc63.png)
 
 ## WHAT RISKS DOES DOW FACE? (QUESTION 1)
  - Given the cash flow estimates, the next step is to think about potential risks
@@ -125,11 +119,11 @@ Thomas Rauter
 
 ## EVOLUTION OF ARG COUNTRY RISK PREMIUM
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044126243.png)
+![](e25b5852ad6f97e958fec70e848ac3fb.png)
 
 ## VALUATION WITH DISCOUNT RATE ADJUSTMENTS SCENARIO ANALYSIS
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044204144.png)
+![](0fcf9582a96f3d845e65d42bb1cabc48.png)
 
 ## SCENARIO
  - Core idea: Consider explicit risks
@@ -159,15 +153,15 @@ Thomas Rauter
 
 ## SCENARIO 1: 2003 EXPROPRIATION
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044318970.png)
+![](88a7f76ca1bf4349791d94c93b0ddd66.png)
 
 ## SCENARIO 2: 100% EXPORTS
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044346147.png)
+![](e1a67ad2362e5e27763e039ce4c4c26c.png)
 
 ## VALUATION IN DIFFERENT SCENARIOS
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044407783.png)
+![](5563f29043f6bcf33f2a8527036c8424.png)
 
  - Note that a discount rate of 20% implies risks that are much greater than no sales
 in Argentina and 50% tax on repatriated profits
@@ -190,12 +184,12 @@ discount factor adjustments are
 
 ## MNCS DURING CURRENCY CRISES
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044444267.png)
+![](99f096b6a4bb76565e8ec204639e9917.png)
 Desai, Foley and Forbes (2007, RFS)
 
 ## WHAT ELSE COULD ONE CONSIDER?
 
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044458208.png)
+![](bf2edba51466d0411b7f026b860dedd3.png)
 
  - Dow treated it like a capital budgeting project from the parent shareholder
 perspective, and not like buying a private company
@@ -204,7 +198,7 @@ perspective, and not like buying a private company
  - Discount rate adjustments are common (see table below)
 	- Risks need to be handled consistently, either in cash flows or the discount rate
 	- Double counting is a major issue
-![500](Z.%20Clippings/Week%208-%20Dow%20Chemical%20Case-%20Assignment%20Review-20240518044518226.png)
+![](d7534315a50473230d6d89450bde670e.png)
 ## SUMMING UP
 
  - Be explicit about what certain risks would do to your business or target

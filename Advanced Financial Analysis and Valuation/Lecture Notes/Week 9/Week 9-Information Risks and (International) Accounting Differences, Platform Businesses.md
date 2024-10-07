@@ -1,9 +1,4 @@
----
-title: INTERNATIONAL ACCOUNTING DIFFERENCES
-aliases: [INTERNATIONAL ACCOUNTING DIFFERENCES]
-linter-yaml-title-alias: INTERNATIONAL ACCOUNTING DIFFERENCES
----
-## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
+
 
 ## TODAY
 
@@ -23,13 +18,13 @@ linter-yaml-title-alias: INTERNATIONAL ACCOUNTING DIFFERENCES
 # INTERNATIONAL ACCOUNTING DIFFERENCES
 ## EVOLUTION OF ACCOUNTING STANDARDS
 
-![500](Week%209-20240518152828758.png)
+![](342618fd2e9a63f7be454abc6aed1b89.png)
 
  - Standards continue to evolve and rule changes can pose significant challenges
 
 ## ACCOUNTING STANDARDS MAP
 
-![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518153520802.png)
+![](f8bf5429c361fe9ed1663f3c37a9a0c1.png)
 
 ## IFRS ADOPTION WORLDWIDE
 - - International Financial Reporting Standards (IFRS) has become the de‐facto global reporting language
@@ -41,7 +36,7 @@ linter-yaml-title-alias: INTERNATIONAL ACCOUNTING DIFFERENCES
 	- Statutory reporting often still follows local GAAP
 		- E.g., a non‐listed private subsidiary 
 		- E.g., parent‐only accounts
-		- ![|478](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518153700597.png)
+		- ![](7c349dedee13466e9c00e9cc08c8e796.png)
 
 ## 'APPLES TO APPLES' APPROACH AT MORGAN STANLEY
 - “Valuation is the biggest challenge for global investing”
@@ -56,7 +51,7 @@ linter-yaml-title-alias: INTERNATIONAL ACCOUNTING DIFFERENCES
 
 ## CREDIT SUISSE HOLT APPROACH: OPERATING RETURNS (CFROI)
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518153842974.png)
+![](a314217da104e48bc0cecf84c83fbb04.png)
 CFROI is defined as the average economic return on all of a company's investment projects in a given year. It is a multi‐year concept, close to the IRR of the existing projects
 
 ## ACCOUNTING DIFFERENCES AND VALUATION
@@ -96,19 +91,19 @@ CFROI is defined as the average economic return on all of a company'
 
 ## EARNINGS OPACITY AROUND THE WORLD
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154053283.png)
+![](504ad9e2e965b2f34ce7bf729667a037.png)
 
 - The aggregate score is an average over 4 metrics capturing a wide range of practices that make earnings more opaque. 
 - The full sample consists of 70,955 firm year observations for fiscal years 1990 to 1999 across 31 countries and 8,616 non‐financial firms.
 
 ## UPDATED TRANSPARENCY SCORES
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154147694.png)
+![](d6b557a5bbf18af62cca39ae2d6abc9f.png)
 Higher score means LESS transparent
 
 ## UPDATED TRANSPARENCY SCORES (CONT.)
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154216063.png)
+![](c82faf1fe29679315846986806731fc2.png)
 
  - The correlation in the scores across time is very high (> 0.70)
  - The rank order of countries has not much changed over the years
@@ -176,7 +171,7 @@ prepared in accordance with IFRSs **as adopted by the EU**"
 
 ## "NEW VARIATION"
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154632399.png)
+![](0ba61c391dfce8147837dc026d5c16d1.png)
 
  - Examples of companies in same sector that treat amortization differently
 
@@ -213,19 +208,19 @@ prepared in accordance with IFRSs **as adopted by the EU**"
 
 Claim: Expense 5 is a non‐recurring expense or non‐cash item (like depreciation and amortization)
 But why stop there?
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154857353.png)
+![](25c1d7a5c04335ee135402d8f20f57d9.png)
 
 ## PROXIM ‐ WAS IT 6¢ PROFIT OR  $3.87 LOSS?
 
  - Proxim has excluded almost every expense in their pro forma earnings (2001)
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154934620.png)
+![](d10545de69894e85116490a6658e0a3f.png)
 
  - Revenues were only $85 million
  - Only expenses that are not excluded:   COGS, SG&A, and R&D 
 
 ## WEWORK: "COMMUNITY ADJUSTED EBITDA"
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518154951715.png)
+![](d383287c544e32b05ed4d3af1f3451a8.png)
 WeWork devised "Community Adjusted EBITDA" to measure net income before not only interest, taxes, depreciation, and amortization, but also "building and community‐level operating expenses," a category that includes rent and tenancy expenses, utilities, internet, the salaries of building staff, and the cost of building amenities (which WeWork described as "our largest category of expenses").
 
 ## COMMON PRACTICE
@@ -241,7 +236,7 @@ WeWork devised "Community Adjusted EBITDA" to measure net income before not only
 
 ## WIDENING GAAP COMMON 
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155054290.png)
+![](6ee1abf6e3dcc2ac8600725599215cec.png)
 
 ## EXCLUSIONS IN NON‐GAAP NUMBERS
 
@@ -256,7 +251,7 @@ WeWork devised "Community Adjusted EBITDA" to measure net income before not only
  - Advertising
  - Interest expenses
  - Litigation related charges
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155219506.png)
+![](abe506bcdff278fc05baea03a673bab2.png)
 # NON‐GAAP REPORTING REVISITED ## HOW SHOULD WE THINK ABOUT NON‐GAAP REPORTING?
  - This practice leads to "new" accounting differences
 	- Despite US GAAP, firms start defining their numbers on their own
@@ -271,7 +266,7 @@ WeWork devised "Community Adjusted EBITDA" to measure net income before not only
 
 ## SPECIAL ITEMS CAN BE MATERIAL (BUT ALSO RECURRING)
 
-![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155320872.png)
+![](f6b84e22f4cf2382fa587205bb474974.png)
 
 ## EXAMPLE FOR POTENTIAL TO MISLEAD
  - Delphi created a non‐GAAP measure: "operating cash flow"
@@ -313,11 +308,11 @@ Operating CF = net income + depreciation & other non‐cash charges �
 
 # DROPBOX: INVESTOR PRESENTATION HIGHLIGHTS NON‐GAAP
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155543076.png)
+![](5de726dd2ba38c50cdfb3038c5bcdf95.png)
 
 ## DROPBOX: RECONCILIATION
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155605293.png)
+![](976d664054cc8c00dc54db8502868e9d.png)
 
 ## CAN YOU GET IN TROUBLE FOR NON‐GAAP REPORTING?
 
@@ -334,13 +329,13 @@ by 6% three days later when the one‐time gain was revealed
 # PLATFORM AND SUBSCRIPTION BUSINESSES
 ## NEW BUSINESS MODEL
 - #### Subscription Business Growth Versus the SP 500
-- ![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155720887.png)
+- ![](af8bd2e70fbd80a0d3a5cdfefc37d7e5.png)
 
 # CUSTOMER ‐BASED VALUATION: BLUE APRON
 
 ## RECALL: UNIT ECONOMICS
 
-![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155746905.png)
+![](5649ab0b09bbcb934598ce83b5e7c867.png)
 
 ## WHAT IS CUSTOMER‐BASED VALUATION?
  - We can use unit economic decompositions to value the entire firm: Customer Based Corporate Valuation (CBCV)
@@ -352,14 +347,14 @@ by 6% three days later when the one‐time gain was revealed
  - This same structure can be applied to any level of unit
 	- Higher level customer (business, store)
 	- Supply‐side unit (restaurant, plane)
-![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155829338.png)
+![](36a4cebd0ff451ccbdad34ea299920df.png)
 ## VALUATION EXAMPLE: BLUE APRON AT IPO
 
  - CAC = Total Marketing Expense / Total Customers Acquired in Period = $94
  - Lifetime value (LTV) = Revenue * Gross Margin = 939 * 31.2% = $293
 	- Assume cohort lasts for 3 years and gross margin stays at Q1'17 levels
  - LTV / CAC = 3.1x
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518155915891.png)
+![](24017771e77ddbc4015461622b2e2f6b.png)
 ## BLUE APRON: NUMBER OF CUSTOMERS
 
  - Active customers (S1, 2017) = 1.04M
@@ -378,7 +373,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 	- IPO Valued Blue Apron at 1.9B
  - Even using all their numbers with no scrutiny, IPO was heavily overvalued
 	- Market cap < 40M
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518160125277.png)
+![](60cab78917edb1aaa79b9a80a36684d5.png)
 ## MODELING ISSUES WITH CBCV
 - HETEROGENEITY OF CUSTOMERS
 	- Firms go from customers with strongest product‐market fit to weakest
@@ -396,7 +391,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 
 ## COMMON ERRORS (MAUBOUSSIN)
 
-![500](Z.%20Clippings/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518160754520.png)
+![](60423097173a249ff3081cd172f572ac.png)
 
 # SAAS VALUATION
 
@@ -415,7 +410,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 
 ## ASC 606 EXAMPLE: ALTERYX
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518160434088.png)
+![](6928510aafa14d84ee1a6d6c501d38c9.png)
 
  - Some recognition of revenue up front
  - RPO in Year 1 = Sum of future revenues
@@ -428,7 +423,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 and "quasi‐unforecastable" 
  - Example: Zoom valuation
 	- JPM in Nov 2020
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518160520671.png)
+![](faf6fddd3a7386ba5122662a896ea719.png)
 ## SAAS VALUATION (USING SALES MULTIPLE)
 
  - Common method for valuing SaaS firms is using a multiple based off of ARR:
@@ -445,7 +440,7 @@ traditional UC market + combined education and UC market
 
 ## SAAS VALUATION USING MULTIPLES  -
 
-![500](Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses-20240518160559561.png)
+![](7e24147c51d2dce855a9fb808cd60c4d.png)
 
 - VALUATION GUIDE BY SAAS CAPITAL
 	- DESCRIBES COMMON SALES‐MULTIPLE APPROACH TO SAAS COMPANY VALUATION

@@ -1,9 +1,3 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
@@ -14,7 +8,7 @@ Zoom  - Valuing a SaaS Business
  - Bernstein Research (Feb 2021): With low interest rates bulk of DCF value is in TV and "quasi-unforecastable"
  - Example: Zoom valuation
 	- JPM in Nov 2020
-![500](Week%209-%20Zoom%20Assignment%20Review-20240518161009413.png)
+![](4b775203c5243a6ede33f1ec167ccb43.png)
 ## SAAS VALUATION (USING SALES MULTIPLE)
  - Common method for valuing SaaS firms is using a multiple based off of ARR:
 	- ARR x Multiple = Value
@@ -31,12 +25,12 @@ traditional UC market + combined education and UC market
 ## SAAS VALUATION USING MULTIPLES
 - Valuation Guide By Saas Capital
 	- Describes common sales-multiple approach to SaaS company valuation
-	- ![500](Week%209-%20Zoom%20Assignment%20Review-20240518161132230.png)
+	- ![](2760eb34b5052234dac2ae7aba913730.png)
 See SaaS Capital guide (on Canvas) for meaning of acronyms
 
 ## SALES MULTIPLE VALUATION (AS OF JAN 2020)
 
-![500](Z.%20Clippings/Week%209-%20Zoom%20Assignment%20Review-20240518161212160.png)
+![](14832b0cd3230769a2d9b60a20d85bb0.png)
 
 ## ZOOM VALUATION USING VALUE DRIVER MODEL
  - Use long-term estimates of ARR, TAM, and NOPAT margin to calculate valuation 10 or 15 years out
@@ -55,19 +49,19 @@ See SaaS Capital guide (on Canvas) for meaning of acronyms
 
 ## ZOOM: FUNDAMENTAL VALUATION
 
-![500](Week%209-%20Zoom%20Assignment%20Review-20240518161308405.png)
+![](849ae76a3a9a8dc7b58678ba4e5b783c.png)
 Share price in Dec 2020 = $337
 
 ## ZOOM VALUATION: SUMMARY
  - Scenario analysis to estimate range of implied price per share
  - It is hard to justify the $337 price with our analyst-based range of assumptions, even fixing long-term assumptions at the high end of range
- - ![500](Week%209-%20Zoom%20Assignment%20Review-20240518161340002.png)
+ - ![](2ed2e990b4f8d2c5d375b60367140122.png)
  - TAM estimates have not changed much
 	- Still at $86bn in August 2021
 
 ## JPM VALUATION (NOV 2020): PRICE TARGET ($450)
 
-![500](Week%209-%20Zoom%20Assignment%20Review-20240518161400196.png)
+![](cab5fc47aad08cfa5385651778836f9f.png)
 
  - Note that the NOPAT is smaller than FCF  - why?
 	- We add back D&A, but there is also CAPEX
@@ -78,10 +72,10 @@ Share price in Dec 2020 = $337
 
 ## HOW DID THE ANALYST TREAT SBC?
 - Note the future dilution:
-![500](Week%209-%20Zoom%20Assignment%20Review-20240518161423833.png)
+![](63cff9464c5266ddc1b87b55f790b085.png)
 
  - Adjusting our valuation to SBC:
- - ![500](Week%209-%20Zoom%20Assignment%20Review-20240518161438143.png)
+ - ![](b0296e7b89d213fa9db34058d27f2d5a.png)
 
 ## JPM: TAM CLAIM
  - JPM: $40bn TAM estimate

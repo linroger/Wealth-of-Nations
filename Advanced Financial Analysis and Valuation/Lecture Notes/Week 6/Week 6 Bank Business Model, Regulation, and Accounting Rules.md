@@ -1,28 +1,3 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
-
-Thomas Rauter
-
-[Week 6 Bank Business Model, Regulation, and Accounting Rules](Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md)
-[Week 6 Bank Analysis and Valuation](Week%206%20Bank%20Analysis%20and%20Valuation.md)
-[HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio](HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
-[HBS Citigroup 2007-Financial Reporting And Regulatory Capital](HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md)
-[PSET 6Evaluating Bank Balance Sheets and Loan Portfolios](PSET%206-%20Evaluating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios.md)
-[HKS The Banking Industry](HKS%20The%20Banking%20Industry.md)
-[Week 6 Assignment Review](Week%206%20Assignment%20Review.md)
-
-[BANKS AND LIQUIDITY CREATION](BANKS%20AND%20LIQUIDITY%20CREATION.md)
-[BANKS AND LIQUIDITY CREATION](BANKS%20AND%20LIQUIDITY%20CREATION.md)
-[Bank Regulation and Management](Bank%20Regulation%20and%20Management.md)
-[Bank CreditDefinition, How It Works, Types, and Examples](Bank%20Credit-%20Definition,%20How%20It%20Works,%20Types,%20and%20Examples.md)
-[BANK DEBT VS. BONDS](BANK%20DEBT%20VS.%20BONDS.md)
-[What Is a Standby Letter of Credit (SLOC) and How Does It Work](What%20Is%20a%20Standby%20Letter%20of%20Credit%20(SLOC)%20and%20How%20Does%20It%20Work.md)
-[Understanding Bank CapitalA Primer — Money, Banking and Financial Markets](Understanding%20Bank%20Capital-%20A%20Primer%20—%20Money,%20Banking%20and%20Financial%20Markets.md)
-
-# ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 Banks: Business Model, Regulation and Accounting Rules
 
@@ -61,12 +36,12 @@ credit cards)
 
 ## BALANCE SHEETS OF U.S. BANKS
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503012948300.png)
+![](348ae1376b2afaad5fb7aba135f798a1.png)
 Source: FDIC, all institutions * Includes bank premises and goodwill; ** includes interbank borrowings and senior/subordinated debt issuances
 
 ## INCOME STATEMENTS OF U.S. BANKS (AGGREGATE)
 
-![](Z.%20Clippings/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013238737.png)
+![](c14280fef924cec96ba2e19c519092a5.png)
 Source: FDIC, all institutions
 
 ## BANKS ARE VERY DIFFERENT
@@ -126,13 +101,13 @@ develop their own internal models, which require approval
 - For example, investments in U.S. treasuries have a weight of 0%, but consumer
 mortgage loans have positive and much higher weights        - Aside: Lack of risk weights for sovereign debt is a major flaw of bank regulation
 - In addition to credit/counter-party risk, banks consider the value-at-risk (VaR) for
-market risk in theitfolio when computing RWA        - p VaR is defined as the probability of a loss greater than VaR is (at most) p
+market risk in their securities portfolio when computing RWA        - p VaR is defined as the probability of a loss greater than VaR is (at most) p
 - Capital ratios are expressed in terms of RWA
 	   - E.g., Tier 1 capital ratio = Tier 1 capital over total RWA
 
 ## RISK-WEIGHTED ASSETS (RWA) (CONT.)
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013305757.png)
+![](151f1c8d6d16a3ab10764edb722a8af4.png)
 
 ### KEY BASEL III RATIOS
 - Common Tier 1 ratio: CT1 / RWA > 4.5%
@@ -144,26 +119,30 @@ growth is judged to result in an unacceptable build-up of systemic risk        -
 requirements are even more stringent
 - Basel III also includes a (simple) leverage ratio of equity to assets (including offbalance sheet exposures): Equity/Total assets > 3%        - Not based on risk models
 - Liquidity ratios
-	   - LCR (Liquidit)
+	   - LCR (Liquidity Coverage Ratio)
 	   - NSFR (Net Stable Funding Ratio)
 		   - "Stable funding" excludes *short-term* wholesale funding (also from interbank lending)
 
-## BASEL III REGULALIPPINGS/WEEK%206%20BANK%20BUSINESS%20MODEL,%20REGULATION,%20AND%20ACCOUNTING%20RULES-20240503013349050.PNG)
+## BASEL III REGULATION
+
+![](34cbe6562cc91d2366ea3849778b0d25.png)
 
 ### PHASED -IN IMPLEMENTATION
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013352810.png)
+![](dd4c95dd7bda613a88e5701f5a74366a.png)
 Source: Accenture
 
- - Basel III HandboED-IN IMPLEMENTATION (CONT.)
+ - Basel III Handbook 2011
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013404173.png)
+## PHASED-IN IMPLEMENTATION (CONT.)
+
+![](9ba1598ac1c991009329d70dabc98e77.png)
 
 ## LOAN LOSS ACCOUNTING
 
-### PROVISION AND AN AND LEASE LOSSES
+### PROVISION AND ALLOWANCE FOR LOAN AND LEASE LOSSES
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013433342.png)
+![](1d36ad45092793858aca191474bc44a0.png)
 
 - Banks maintain reserve accounts to offset losses they incur on bad loans
 - A loan loss provision is an expense creating an allowance for uncollected loan
@@ -183,16 +162,16 @@ payments
 losses" to models based on "expected losses" (CECL):        - IFRS 9
 	   - U.S. GAAP (ASC 326)
 
-## HIGH-LEVEL DIFFEFRS AND US GAAP
+## HIGH-LEVEL DIFFERENCES BETWEEN IFRS AND US GAAP
  - Fasb And Iasb Both Adopted An Expected Credit Loss Approach And Replaced The Incurred Loss Approach. However, Some Differences Remain:
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013447694.png)
+![](a4922ce8471810933bfd4d95dc873fd6.png)
 
 Life of Loan
 Not Mandated (greater flexibility)
 
-## HIGH-LEVEL DIFFEFRS AND US GAAP
+## HIGH-LEVEL DIFFERENCES BETWEEN IFRS AND US GAAP
 
-![](Z.%20Clippings/Attachments%201/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013455990.png)
+![](0bcfc9ea70d1377e18e72a10f1b00e94.png)
 
 Source: KPMG Advisory Insight, PwC In depth Report (2017), Congressional Research Service (2018)
 
@@ -213,13 +192,15 @@ Reversion to unadjusted historical information at the input or output level is r
 	   - For heterogeneous loans, the provision and impairment are determined on a
 case-by-case basis
 
-## CYCLICALITY IN LZ.%20CLIPPINGS/WEEK%206%20BANK%20BUSINESS%20MODEL,%20REGULATION,%20AND%20ACCOUNTING%20RULES-20240503013509714.PNG)
+## CYCLICALITY IN LOAN LOSSES
+
+![](a13c861ec8b9402bb5ee9727649fb742.png)
 
 ### DELAY IN LLPS AND NET CHARGE-OFFS
 - During 2007-2008, banks increased their LLPs to catch up with rising charge-offs
 	   - LLPs should be cover future loan losses (not current ones)
 	   - LLPs increase in a middle of a crisis (procyclicality)
-![](Z.%20Clippings/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013529487.png)
+![](ac5a761bac8def01fcff19415b5000c5.png)
 ## THE INCURRED LOSS MODEL IN THE FINANCIAL CRISIS
 
 - In the U.S.:
@@ -268,7 +249,7 @@ delay implementing CECL until December 31, 2020, or until the end of the coronav
 
 ## RECENT JUMP IN LOAN LOSS PROVISIONS
 
-![](Z.%20Clippings/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules-20240503013537679.png)
+![](2e5f53bc3510ce54a57ac25e4ab67c7e.png)
 
 - Two effects: CECL adoption and COVID
 Source: Financial Times, FactSet

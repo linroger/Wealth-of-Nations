@@ -1,36 +1,32 @@
----
-title: Week 1 Ratio Analysis + Valuation Review
----
-
-[Week 1 Introduction](Week%201%20Introduction.md)
-[Week 1 Market Efficiency](Week%201%20Market%20Efficiency.md)
-[Week 1 Ratio Analysis + Valuation Review](Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)
+[Week 1 Introduction](Zhe/Week%201/Week%201%20Introduction.md)
+[Week 1 Market Efficiency](Zhe/Week%201/Week%201%20Market%20Efficiency.md)
+[Week 1 Ratio Analysis + Valuation Review](Zhe/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)
 
 ## RATIO ANALYSIS REVIEW
 
 We can decompose ROE, a common profitability measure, into operating and financing parts. We use ROIC rather than the more traditional ROA:
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201307298.png)
+![](47f6500fe5d8755b4df15b4982060e45.png)
 
 - ROIC captures only operating items whereas ROA commingles operating and non-operating
 	- E.g., net income (ROA's numerator) includes both sales revenue (operating) and gains on trading securities (non-operating)
 	- E.g., total assets (ROA's denominator) includes both inventory (operating) and excess cash and marketable securities (non-operating)
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201338763.png)
+![](f74f105527ff6562e1a3c4a125c50e21.png)
 
 ## USING ROIC
 
 Using ROIC means reclassifying items in the balance sheet and income statement as operating or investing.
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201452441.png)
+![](34cc6de96cecefe0792bf378a3304df2.png)
 
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201711193.png)
+![](28e623f0c852fc77c1da480e48501bd0.png)
 
 ### RECLASSIFICATION PROCESS
 - Operating items are part of the company's core business and affect the NOPAT.
 - Investing items are related to how the business finances its operations and growth.
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201732949.png)
+![](f0cb236942d39633b9810a12b6fc3aa2.png)
 ### ROIC DEEP DIVE
 A detailed look into ROIC can provide insights into a firm's operational efficiency and profitability.
 You can also take a deeper dive into ROIC
-![500](Advanced%20Financial%20Analysis%20and%20Valuation%20Lecture%20Notes-20240419201757910.png)
+![](7b42d00a60d7036264e3148ecb368471.png)
 ---
 
 - UPS’ ROIC advantage over FedEx comes from advantages in both operating margin and turnover
@@ -48,53 +44,23 @@ $$ \text{ROIC} = \text{Post-tax Operating Profit Margin} \times \text{Invested C
 $$ \text{Post-tax Operating Profit Margin} = \frac{\text{NOPAT}}{\text{Revenue}} $$
 
 $$ \text{Invested Capital Turnover} = \frac{\text{Revenue}}{\text{Avg. Invested Capital}} $$
+$$
+\begin{array}{|l|l|}
+\hline
+\textbf{Ratio} & \textbf{Definition} \\ \hline
+\text{Return on equity (ROE)} & \frac{\text{Net income available for common}}{\text{Avg. common shareholders' equity}} \\ \hline
+\text{Return on invested capital (ROIC)} & \frac{\text{NOPAT}}{\text{Avg. invested capital}} \\ \hline
+\text{Return on newly invested capital (RONIC)} & \frac{\text{NOPAT}_{t+1} - \text{NOPAT}_{t}}{\text{Invested capital}_{t+1} - \text{Invested capital}_{t}} \\ \hline
+\text{Invested capital turnover} & \frac{\text{Revenue}}{\text{Avg. invested capital}} \\ \hline
+\text{Total asset turnover} & \frac{\text{Revenue}}{\text{Avg. total assets}} \\ \hline
+\text{Fixed asset turnover} & \frac{\text{Revenue}}{\text{Avg. fixed assets}} \\ \hline
+\text{Net operating profit after tax (NOPAT) margin} & \frac{\text{Operating income (or EBIT)} \times (1-\text{tax rate})}{\text{Revenue}} \\ \hline
+\text{Days sales outstanding} & \frac{\text{Accounts receivable}}{\text{Revenue} / 365} \\ \hline
+\text{Days payables outstanding} & \frac{\text{Accounts payable}}{\text{COGS} / 365} \\ \hline
+\text{Inventory turns} & \frac{\text{COGS}}{\text{Avg. inventory}} \\ \hline
+\end{array}
+$$
 
-| Ratio                                         | Definition                                                                                                    |     |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --- |
-
-| Return on equity (ROE)                        | $$\frac{\text{Net income available for common}}{\text{Avg. common shareholders' equity}}$$
-
-                    |     |
-
-| Return on assets (ROA)                        | $$\frac{\text{Net income + (interest expense} \times \text{(1-tax rate))}}{\text{Avg. total assets}}$$
-
-        |     |
-
-| Return on invested capital (ROIC)             | $$\frac{\text{NOPAT}}{\text{Avg. invested capital}}$$
-
-                                                         |     |
-
-| Return on newly invested capital (RONIC)      | $$\frac{\text{NOPAT}_{t+1} - \text{NOPAT}_{t}}{\text{Invested capital}_{t+1} - \text{invested capital}_{t}}$$
-
- |     |
-
-| Invested capital turnover                     | $$\frac{\text{Revenue}}{\text{Avg. invested capital}}$$
-
-                                                       |     |
-
-| Total asset turnover                          | $$\frac{\text{Revenue}}{\text{Avg. total assets}}$$
-
-                                                           |     |
-
-| Fixed asset turnover                          | $$\frac{\text{Revenue}}{\text{Avg. fixed assets}}$$
-
-                                                           |     |
-
-| Net operating profit after tax (NOPAT) margin | $$\frac{\text{Operating income (or EBIT)} \times \text{(1-tax rate)}}{\text{Revenue}}$$
-
-                       |     |
-
-| Days sales outstanding                        | $$\frac{\text{Accounts receivable}}{\text{Revenue} / 365}$$
-
-                                                   |     |
-
-| Days payables outstanding                     | $$\frac{\text{Accounts payable}}{\text{COGS} / 365}$$
-
-                                                         |     |
-
-| Inventory turns                               | $$\frac{\text{COGS}}{\text{Avg. inventory}}$$
-
-                                                                 |     |
 
 ## VALUATION REVIEW
 
@@ -115,7 +81,7 @@ $$V_0=\sum_{t=1}^\infty\frac{Projected\textit{ Future Payoffs}_t}{(l^2+Discount\
 ### VALUATION BASICS: DIVIDEND DISCOUNT MODEL ("DDM")
 
 - In theory, the dividend discount model is what underpins value:
-- ![](Z.%20Clippings/duction-20240430070400507.png)
+- ![](179280fa1e69d0ab1dd2e546a4d10037.png)
 - However, the DDM's usefulness relies heavily on the ability to forecast future dividends
 	- Dividends are chosen by management and many companies do not pay dividends
 	- In practice, we rarely use the DDM
@@ -123,19 +89,19 @@ $$V_0=\sum_{t=1}^\infty\frac{Projected\textit{ Future Payoffs}_t}{(l^2+Discount\
 ### OVERVIEW OF COMMON VALUATION METHODS
 
 Instead, we use measures of flows between the firm and the market (s), e.g., free cash flow, because these flows can be better estimated than dividends.
-![](Z.%20Clippings/Week%201%20Introduction-20240430070424005.png)
+![](7856be1646d7babb6998471a3a86b2eb.png)
 
 ## ENTERPRISE VS. EQUITY METHOD VALUATION
 
 - Enterprise valuation models value the flows (cash flows, earnings, etc.) due to all investors (i.e., both equity and debt holders)
 - Equity valuation models value the flows due to equity holders only
 - The two models can be bridged by:
-![](Z.%20Clippings/Week%201%20Introduction-20240430070518379.png)
+![](af5232b5117c85953567b0f598017104.png)
 ## ENTERPRISE DCF REVIEW
 
 - This model discounts **free cash flow** (i.e., cash flow generated by business operations - less any reinvestment back into the business - that is available to all investors) at the weighted average cost of capital (i.e., a blend of the cost of debt and the cost of equity)
 - Ideally used to value companies that will maintain their capital structure at a target leverage ratio
-![](Z.%20Clippings/Week%201%20Introduction-20240430070537661.png)
+![](1ff37736d5e1f2021817ce23373bace1.png)
 ### FOUR-PART PROCESS
 
 1. **Free Cash Flow ("FCF")**
@@ -178,23 +144,25 @@ At a high level, free cash flow is calculated as:
 
 $$\text{FCF} = \text{NOPAT} + \text{D\&A} - \text{increase in non-cash WC} - \text{capital expenditures} - \text{other adjustments to invested capital}$$
 
-- ![](Z.%20Clippings/Week%201%20Introduction-20240430065500761.png)
+- ![](e629d3668bd30ab52c13c33d6bfada65.png)
 
 ---
 
-## ENTERPRISE .)
+## ENTERPRISE DCF REVIEW (CONT.)
 
-!s/Attachments%201/Week%201%20Introduction-20240430070839683.png)
+![](282fb15410f651458c418eaca129f629.png)
 
-![](Z.%20Clippings/Week%201%20Introduction-20240430070902224.png)
+![](3833f246a0c8fadd2ae41e7a46d704eb.png)
 
-### ECONOMIC PROFIT[](Z.%20Clippings/Week%201%20Introduction-20240430070944839.png)
+### ECONOMIC PROFIT MODEL REVIEW
 
-![](Z.%20Clippings/Week%201%20Introduction-20240430071008690.png)
+![](d0c3566e553d142cc0f34904f31461b8.png)
 
-![](Z.%20Clippings/Week%201%20Introduction-20240430071022323.png)
+![](d29b0d36e48ca034d4ab093e93bbe7b7.png)
 
-![](Z.%20Clippings/Attachments%201/Week%201%20Introduction-20240430071040238.png)
+![](51a13933fd8986a1e9d83e9dff72159e.png)
+
+![](f1ac6f299ac7edc54dff342011d520a0.png)
 
 ### DISCOUNTING
 

@@ -1,8 +1,3 @@
----
-title: INTERNATIONAL (OR INSTITUTIONAL) RISKS
-aliases: [INTERNATIONAL (OR INSTITUTIONAL) RISKS]
-linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
----
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## TODAY
@@ -94,14 +89,14 @@ linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
  - Political risk is highlycorrelated with information & governance problems and macroeconomic issues
 	 - Connected or corrupt firms generally have an incentive to be opaque
 	 - Get funding from politicallyconnected banks rather than capital markets
-![400](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518044929869.png)
+![](242674d35a08ce2a7cbf972d28b0f59b.png)
 ## KAROLYI EM BOOK: SIX INSTITUTIONAL RISK FACTORS
 
-![500](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045007871.png)
+![](b312d323bfd73708150aacab4602a116.png)
 
 ## HOW DO EMERGING MARKETS RANK OVERALL?
 
-![500](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045042734.png)
+![](f3b89071bca877008bab0cc1df34c49e.png)
 
 ###### KAROLYI: CRACKING THE EMERGING MARKETS ENGIMA
 
@@ -121,7 +116,7 @@ linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
 
 ## INT'L DIFFERENCES IN COST OF EQUITY: HAIL AND LEUZ (2006)
 
-![500](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045134270.png)
+![](59a5cdde570496e52356d71b4964966a.png)
 
 - $r_AVG$ = Average implied cost of equity for firms in this country from 1992 to 2001 based on local prices and local analyst forecasts
 - Note that these rates are the total cost of equity, not spreads over inflation or risk‐free rates. We will come back to this below.
@@ -152,10 +147,10 @@ linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
 
 ## GLOBAL VALUATION IN MULTIPLE STEPS
 
-![500](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045306521.png)
+![](cd8a7aba3f9f4ada9455a9c0a14d1f9d.png)
 
 ## GLOBAL VALUATION: STEP 1
-  - ![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045343687.png)
+  - ![](2d9fff44d5fda823ad820f09bd9fd4ad.png)
   - HYPER‐INFLATIONARY ECONOMY
 	‒ In hyper inflation countries, nominal forecasts are dominated by inflation rate
 	‒ Forecast real cash flows (exclude or back out inflation)
@@ -166,7 +161,7 @@ linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
 
 ## GLOBAL VALUATION: STEP 2
 
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045419205.png)
+![](4195383486cc0868def1cea6700ffc0a.png)
 
  - Financial data are typically collected in local currency
 	‒ Local currency data more relevant to local management
@@ -189,7 +184,7 @@ linter-yaml-title-alias: INTERNATIONAL (OR INSTITUTIONAL) RISKS
 
 ## GLOBAL VALUATION: STEP 3
 
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045502739.png)
+![](3c2a855fdbd3521e4e118bc59c6a86e2.png)
 
  - Assess possible risks to see whether they are separately identifiable and could be captured in projected (future) cash flows
  - Risks that are captured in this step should no longer be "included" in the discount rate
@@ -214,7 +209,7 @@ Steps:
 
 ## ILLUSTRATING SCENARIO VS. RISK PREMIUM APPROACH
 
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045555240.png)
+![](cb7cc3095e73f175c146970544ec58ec.png)
 
 ## REASONS TO ADJUST CASH FLOWS
  - It often seems that many (international) risks are too hard to quantify
@@ -240,7 +235,7 @@ Steps:
 
 ## GLOBAL VALUATION: STEP 4 (OPTIONAL)
 
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045635429.png)
+![](7b7f1a7604abb30cd9ecde5bf15d1dc2.png)
 
  - Future cash flows can be translated into home currency using forward rates:
 	‒ Obtain these forward rates from banks or FX traders, but they
@@ -252,7 +247,7 @@ Steps:
 
 ## GLOBAL VALUATION: STEP 5
 
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518045716209.png)
+![](92a5dfd084685720b798b76a7b432a0c.png)
 
  - Be consistent:
 	‒ Ifyou have converted cash flows into dollars in Step 4, then you need to use dollar discount rate (with dollar inflation expectation) in Step 5
@@ -341,12 +336,12 @@ when returns are serially correlated
 
 ## ILLUSTRATING PROBLEMS WITH HISTORICAL EQUITY PREMIUM
 Historical equity premium still seems to reflect a country's development, history and also industry concentration
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518050150515.png)
+![](3a8b25ff0ed093709828a3605116d963.png)
 ## HISTORICAL VS. IMPLIED PREMIA
  - Implied equity risk premia vs. geometric and arithmetic averages of historical risk premia (for stocks over treasury bonds):
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518050212613.png)
+![](64bd99ae4de8859c588c92b6890c7178.png)
 ## IMPLIED COST OF CAPITAL AT MARKET LEVEL (USING DDM)
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518050237980.png)
+![](74c96a5156fce7a1aa37a4184e5aad37.png)
 You could do this calculation for foreign indices OR add country risk premium to equity RP on the left
 
 ## COST OF EQUITY CAPITAL USING THE CAPM: BETA
@@ -404,7 +399,7 @@ KEY INPUT: INSTITUTIONAL INVESTOR COUNTRY CREDIT RISK RATINGS
 	‒ Ratings are on a scale of 0100
 	‒ Higher scores are better 
 	– highest possible is 100
-![500](Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518050540471.png)
+![](283b057c6704b66321e8331f22f29ac3.png)
 ## ILLUSTRATION OF EHV APPROACH
  - Plug rating into the model:
 	‒ Cost of equity capital = 12*(0.051537 ‐ 0.01036*Ln(IICCR))
@@ -423,12 +418,12 @@ KEY INPUT: INSTITUTIONAL INVESTOR COUNTRY CREDIT RISK RATINGS
 
 ## ADJUSTING THE RISK PREMIUM: BASIC IDEA
 
- - Use different sources ge about the investment to assign weights for the risks that go into the average premium
+ - Use different sources and your knowledge about the investment to assign weights for the risks that go into the average premium
 	‒ Then assess to what extent your specific project is exposed to these particular risks and adjust according to the weights
 	‒ These adjustments and approaches are "fuzzy" but as Keynes said:
 		- "It is better to be roughly right than precisely wrong"
  - For example, Karolyi radar charts:
- - ![500](Z.%20Clippings/Week%208%20Bringing%20International%20Risks%20into%20the%20Valuation%20Process-20240518050625629.png)
+ - ![](236cbf5ad0fed565946e72495c50556b.png)
 Note: The lower (or the more negative) the numbers the higher the risk
 
 ## KEY LESSONS: INTERNATIONAL COST OF CAPITAL

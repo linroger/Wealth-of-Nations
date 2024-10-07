@@ -1,8 +1,3 @@
----
-title: COST OF CAPITAL FOR PRIVATE FIRMS
-aliases: [COST OF CAPITAL FOR PRIVATE FIRMS]
-linter-yaml-title-alias: COST OF CAPITAL FOR PRIVATE FIRMS
----
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## GAME PLAN
@@ -59,7 +54,7 @@ Journal of Financial Economics 1993
 	‒ From WRDS or homepage of Prof. Ken French:
 	‒ http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
-![](Z.%20Clippings/%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518025607331.png)
+![](8dc839f7c15531100a9525b01c4278bb.png)
 
 ## EXAMPLE: 3‐FACTOR COST OF CAPITAL
  - Follow same procedure as CAPM estimates, but include Size and BM in regression:
@@ -116,7 +111,7 @@ $$\mathrm{P}_{0}=\sum_{t=1}^{\infty}\ \frac{\mathrm{D}_{t}}{\left(1+\mathrm{R}_{
 	- Use a target debt‐to‐equity ratio
 ##  - **APPROACH 2:** SEE DAMODARAN READING
 
-![](Z.%20Clippings/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518030439567.png)
+![](ad2137d571e390994d008d0e6b922de4.png)
 
  - Note the similarity of asset betas
 	‒ Compute median or average by industry and then re‐lever for your firm's capital structure
@@ -134,13 +129,13 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 $$\mathrm{tal~\beta_{i}=\frac{Market~\beta_{i}}{\rho_{im}}=\frac{Market~\beta_{i}}{\sqrt{R-Sq}}=\frac{0.82}{\sqrt{0.16}}=2.05}$$
 ## ILLUSTRATION: SECURE MAIL SOFTWARE
 
-![](Z.%20Clippings/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518030838324.png)
+![](d4e1b4b36c80f3f9775f48f7743a0c0f.png)
 
 - Note that this formula for unlevering the beta assumes that the risk of the debt tax shields equals the risk of the firm (and debt beta is zero)
 
 ## ILLUSTRATION: SECURE MAIL SOFTWARE (CONT.)
 
-![](Z.%20Clippings/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518030911101.png)
+![](5c9597a04e708666f240566562f8bef9.png)
 
 Cost Of Debt  - Private Companies Rarely Have Publicly Traded Debt
 
@@ -158,7 +153,7 @@ Cost Of Debt  - Private Companies Rarely Have Publicly Traded Debt
 
 ## SYNTHETIC RATINGS AND COST OF DEBT
 
-![](Z.%20Clippings/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518031023517.png)
+![](d09ae9c4b32bf544c741ead1f71f3899.png)
 
  - Steps:
 	‒ Compute the interest coverage ratio
@@ -205,4 +200,4 @@ To illustrate:
 	 - Risk of asset fire‐sales
 	 - High reliance on human capital
 	 - High importance on postsales service, warranties, and parts
-- ![](Z.%20Clippings/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms-20240518031557664.png)
+- ![](dfe93510282e0b1c4e7aa256de597102.png)

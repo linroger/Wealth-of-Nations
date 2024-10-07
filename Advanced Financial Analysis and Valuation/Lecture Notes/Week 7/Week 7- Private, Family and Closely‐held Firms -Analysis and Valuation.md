@@ -1,9 +1,4 @@
----
-title: TODAY
-aliases: [TODAY]
-linter-yaml-title-alias: TODAY
----
-## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
+
 
 # TODAY
  - More than 60% of global GDP driven by "closely held" public or private firms
@@ -17,31 +12,30 @@ linter-yaml-title-alias: TODAY
  - Determining the control premium (or minority discount) and liquidity premium
  - Kohler case
  - Analyzing corporate governance
-	 - Closely‐held fice
+	 - Closely‐held firms and governance
 	 - Does governance matter for valuation?
 
 ## U.S. PRIVATE FIRMS: BIG AND GROWING IN NUMBERS
 
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518032219951.png)
+![](7eacf14cdaab73c0227baff0944eed3f.png)
 1 Unique U.S.‐based common stock PERMCO on CRSP as of December of each year per monthly file
 2 Number of corporations per IRS SOI aggregate data. Excludes partnerships
 
-## U.S. PRIVATE FIEDIUM‐TO‐LARGE PRIVATE U.S. COMPANIES BY INDUSTRY
-
-![](Z.%20Clippings/ate,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518032259967.png)
-
+## U.S. PRIVATE FIRMS (CONT.)
+ - MEDIUM‐TO‐LARGE PRIVATE U.S. COMPANIES BY INDUSTRY
+![](88915009770656410b3846e635aad8de.png)
  - N = 70,425 non‐financial firms filing 1120, 1120‐S, or 1065 and also filing Schedule M‐3 (> $10 million in assets) but not filing with SEC
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518032332927.png)
+![](c036e85016d18a058a11e9457b2f66e6.png)
 ## PRIVATE FIRMS: EXAMPLES
  - Important consideration for valuation of private firms:
 	- Value (Share) = Value (Cash Flows) + Value (Control)
 	- Value of control can be substantial
 
-## CLOSELY‐HELD (BU EXAMPLES
+## CLOSELY‐HELD (BUT PUBLIC) FIRMS: EXAMPLES
  - Important consideration for valuation "closely held" firms:
 	- Value (Share) = Value (Cash Flows) + Value (Control)
 	- Value of shares for controlling shareholders can be very different from noncontrolling ones
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518032721784.png)
+![](749210ec45417789fe24657cb6599f80.png)
 
 # VALUING PRIVATE COMPANIES
 
@@ -181,22 +175,22 @@ $$
 > A growing number of family‐owned businesses in emerging markets could hit $1bn in sales from
 > 2010‐2025
 
-- Dispr base is the exception, rather than the norm
+- Dispersed shareholder base is the exception, rather than the norm
 - Ownership is typically concentrated around the world
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518033856747.png) - As with private firms:
+![](a888aecbed18c7e22588b914fd285f66.png) - As with private firms:
     - Insiders have control
-    - Controlling bid
+    - Controlling blocks are illiquid
 Source: McKinsey
 
 ## INSIDER OWNERSHIP AROUND THE WORLD
-![](Z.%20Clippings/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518033922764.png)
+![](235b4a31bff5aa78393028ccb4437300.png)
 Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 
-## INSIDER OWNERSHILD (CONT.)
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518033957598.png)
+## INSIDER OWNERSHIP AROUND THE WORLD (CONT.)
+![](602f136ca2d5685df99393b166438791.png)
 
 ## EVOLUTION OF OWNERSHIP CONCENTRATION
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518034058139.png)
+![](e4e24a16f32b59cffcb65f89422997c8.png)
 Source: Aminadav & Papaioannou, Journal of Finance, 2020
 
 ## INSIDER OWNERSHIP AND CORPORATE GOVERNANCE
@@ -230,13 +224,15 @@ Source: Aminadav & Papaioannou, Journal of Finance, 2020
     - Voting rights    
     - Board positions
     - Management
- - Commonly used st- Dual share classes     
+ - Commonly used structures to enhance control
+    - Dual share classes     
     - Enhanced (or super) voting rights
     - Pyramids
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518034515865.png)
+![](324ebf99c94bb07dcc80addd0a0083d1.png)
 
-## EXAMPLE: RENONGIP STRUCTURE OF FIRMS CONTROLLED BY RENONG BERHAD
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518034541135.png)
+## EXAMPLE: RENONG BERHAD 
+OWNERSHIP STRUCTURE OF FIRMS CONTROLLED BY RENONG BERHAD
+![](5126a73bd4ef5c467a77541e0cc4214b.png)
 
  - UEM bought shares in parent, Renong Berhad, for an artificially high price
     - Renong shares purchased were held by family members in UEM's and Renong's management who wanted to 'get out'
@@ -279,14 +275,14 @@ Source: Aminadav & Papaioannou, Journal of Finance, 2020
  - Survey results are consistent with holding patterns of U.S. investors
     - Leuz, Lins and Warnock (RFS 2008):
 U.S. investors stay away from stocks with "problematic ownership structures", particularly in countries with weak legal systems and when information flows are poor
- - Evidence that goed by markets (in valuations & even returns)
+ - Evidence that governance is priced by markets (in valuations & even returns)
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMERGING MARKETS
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518035004706.png)
-Considering the insernance scores, what would be your valuation of Company if it were located / listed in each of the below emerging markets?
+![](056fe36879b6be38f01970a031eeab87.png)
+Considering the institutional & governance scores, what would be your valuation of Company if it were located / listed in each of the below emerging markets?
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMS (CONT.)
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518035034059.png)
+![](de95e0b2f43e1b4fc3dc8a7172b1c65c.png)
 What cost of equity would you apply to Company if it were located and listed in each of the emerging markets below?
  - Survey respondents tend to incorporate higher premiums in their cost of equity
 estimates than what was implied in their valuation discounts (on previous slide)
@@ -309,8 +305,8 @@ Source: ST Investor Protection and Governance in the Valuation of Emer
 - Same applies for multiples
  - Be careful about double‐counting
 
-## EXAMPLE: BEWAREING
-![](Z.%20Clippings/Attachments%201/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation-20240518035143818.png)
+## EXAMPLE: BEWARE OF DOUBLE COUNTING
+![](6503a77b20942d99298c2afd358607ed.png)
 ## APPENDIX 
 RELATED‐PARTY TRANSACTIONS: RULES
  - In the US (ASC 850): Firms are required to disclose material related‐party transactions

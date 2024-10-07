@@ -1,9 +1,3 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
@@ -49,13 +43,13 @@ Thomas Rauter
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1
 - Analyze Kohler Co.'S Business Mix From Exhibit 4
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518041835882.png)
+![](cabcf763ba1ffa768143c8947aac57f6.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1 (CONT.)
  - Analyze Kohler Co.'s business mix from Exhibit 4
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518041906370.png)
+![](4a7c21f56b17c8082da2bc4269ae57ec.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 2  - BETA CALCULATION
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518041954392.png)
+![](62e53159d171dbd6c7ba831db6146d95.png)
 
 ## RISK OF DEBT TAX SHIELDS
  - Two different assumptions: Affects how you unlever and relever equity betas
@@ -73,20 +67,20 @@ $$\beta_A=\beta_E\times\left[\frac1{1+(1-T_C)^D/_E}\right]$$
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 3
 - Cost Of Equity
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042218192.png)
+![](29bca100d7530292541629532b7cea72.png)
 
 (a) Assumes debt beta = 0 (because leverage is not high)
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 4
 - Cost Of Debt
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042243619.png)
+![](3f1eb343074a91c4b80b07f99c42ea18.png)
 # APPROXIMATING HERBERT KOHLER'S OFFER: STEP 5
 - Wacc And Total Beta
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042325414.png)
+![](5d369ec68109e14466a2ad4a611559da.png)
 $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i}\times\sigma_{m}\times\rho_{im}}{\sigma_{m}^{2}}=\frac{\sigma_{i}\times\rho_{im}}{\sigma_{m}}\quad+\frac{Market~\beta_{i}}{\rho_{im}}\neq\frac{\sigma_{i}}{\sigma_{m}}}$$
 ## APPROXIMATING HERBERT KOHLER'S OFFER : STEP 6
  - Changes in NWC (positive numbers are uses of cash)
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042558941.png)
+![](c95fc222d576a99c4e7bb9a3246825a5.png)
  - Note:
 	- Calculations for 1998 are for 8 months. They are for 12 months in all subsequent years
 	 - See Exhibits 3a and 6a (balance sheets) to compute the 8-month cash flows consistently
@@ -94,20 +88,21 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7 (HBS)
 - Dcf Valuation:
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042631378.png)
+![](7fdeb0495a6eadcb83fa6035e34eeb67.png)
 # APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7 (ADJUSTED)
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042715020.png)
+![](b3f47e11a9d74a50b08ae9d0341b956e.png)
 
-## ADJUSTMENTS TO VALUISCOUNTS OR PREMIA WOULD YOU APPLY IN THIS SITUATION?
+## ADJUSTMENTS TO VALUATION?
+ - What discounts or premia would you apply in this situation?
  - Whose perspective is relevant?
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
  - Apply minority discountand liquidity discount to arrive at Herbert Kohler's offer of $55,400 per share (using typical WACC)
-![500](Z.%20Clippings/Attachments%201/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042758424.png)
+![](b4dbfdd6ea5a6b4e7b2aed6693d66ecc.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
  - Using total beta and adjusted WACC of 14.18% to reflect lack of diversification
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042830671.png)
+![](c0a1b1d6c2cd330b199f275b6febcec5.png)
  - With total beta approach, a lackof marketability discount of 20% (less than on previous slide) brings value already below $55,400
  - This calculation could be viewed as the "value to Kohler"
 	- He would argue that he is not diversified
@@ -125,16 +120,16 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 
 ## EXHIBIT 7B
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518042929749.png)
+![](cf605bef455eebd1d83e2b2fda5d284e.png)
 
 ## MULTIPLES VALUATION
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043005491.png)
+![](d33a2e5dd9654d0d89e1267452b09e83.png)
 Applying a control premium (25%) to this number based on legal doctrine would get you close to $200K
 
 ## "DESIRED" VALUATION ADJUSTMENTS
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043020480.png)
+![](2dcc08fbe6d06436f8df3bf14f533134.png)
 
  - Perspective matters
 	- There are "consistent" combinations depending on the perspective
@@ -175,16 +170,16 @@ Applying a control premium (25%) to this number based on legal doctrine would ge
 ## APPENDIX
 ## HISTORICAL BALANCE SHEET
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043208966.png)
+![](af1c979eada81a0256fd3e62974286a3.png)
 
 ## PROJECTED BALANCE SHEET
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043239415.png)
+![](bb697ab38237aab946e7e2f88dac4206.png)
 
 ## PROJECTED INCOME STATEMENT
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043258560.png)
+![](74ff61c18f338c4c3b8fc04d872d70cd.png)
 
 ## PROJECTED CASH FLOW STATEMENTS
 
-![500](Z.%20Clippings/Week%207-%20Kohler%20Case%20Assignment%20Review-20240518043327322.png)
+![](2134bd6493c510ede0b6d8d5f69c440e.png)

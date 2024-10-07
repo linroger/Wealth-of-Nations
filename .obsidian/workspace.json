@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98e455c4eddfe500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7cfe0990aef226cb",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Attachments"
+                "path": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1"
               }
             }
           },
@@ -37,19 +24,6 @@
               "type": "markdown",
               "state": {
                 "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dec6111be784c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -203,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -273,53 +243,52 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "98e455c4eddfe500",
+  "active": "c112d56a768d8830",
   "lastOpenFiles": [
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
-    "Advanced Financial Analysis and Valuation/BMW Valuation Multiples.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Overnight Index Swaps (OIS).md",
-    "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Teaching Note 3 Swaps- Financial Instruments.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 2-Futures Contracts.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Teaching Note 1- Forward Rates Agreement.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
-    "Financial Instruments/Review Session Notes/Currency Swaps.md",
-    "Financial Instruments/Review Session Notes/Binomial Trees and Option Pricing MBA.md",
-    "Tags/#primers/#primers.md",
-    "Tags/#primers",
-    "Credit Markets/Credit Markets.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3 Financial Risk Analysis.md",
+    "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
+    "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
+    "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",
+    "Attachments/84142850beacda61f5eddba71b4772f7.png",
+    "Attachments/b09ef50a2a9345aa8bdc2a9814b48206.png",
+    "Attachments/5e2970890124cc0b8a46a3fc8dbdf56e.png",
+    "Attachments/8d012b97a32484f22c2b938f2592c20e.png",
+    "Attachments/0afcc6662687105cc7d22e71f6b49048.png",
+    "Attachments/ae9b588a4867fda8b108ae849841a10a.png",
+    "Attachments/b66ed4a07d1539c3765b9d0e5739b914.png",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Retail.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Dollar General Case- Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Fundamentals Of Forecasting.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3 Cyclical Industries (and Advanced Forecasting).md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 Valuing Young and High‐Growth Companies.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5 Pharmaceuticals and Intangibles in Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Bank Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Bank Business Model, Regulation, and Accounting Rules.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Cost of Capital Review, Implied Model, Private Firms.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Kohler Case Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8 Opportunities And Risks Of Investing Internationally.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8- Dow Chemical Case- Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8 Bringing International Risks into the Valuation Process.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9-Information Risks and (International) Accounting Differences, Platform Businesses.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9- Zoom Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Ratio Analysis + Valuation Review.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Market Efficiency.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
-    "Credit Markets/Credit Markets Session 3.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Introduction.md",
-    "Credit Markets/Credit Market PSETS/ Credit Market Solutions.md",
-    "Credit Markets/Credit Market PSETS/Credit Markets Homework 4.md",
-    "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
-    "Credit Markets/Credit Market PSETS/Credit Markets Homework 3.md",
-    "Attachments/open?vault=FinNotes&file=output:.inetloc",
-    "Attachments/40abbd555f187572d320b913dc03b5207acfd94d8402fce74fd237a0facd1a6f.png",
-    "Attachments/d5e5de894bf3308483831ecea969d94b7174e8b33918a63886019677e5e66fc4.png",
-    "Attachments/d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png",
-    "Attachments/d736bf5cd6656dd57faf000dd0dc80f72cbee80d23f0e87f0a33cac060a132e7.png",
-    "Attachments/f5b129b84cbe41a54130da80b3bcbe5a07081595dc60b1b4ed40bef9ce2687d5.png",
-    "Attachments/f71ff7b9aad919132b0ff709098d51be717e744967b23105bc13620ccc430a2a.png",
-    "Attachments/8de854e5dd959227e89652a4a1e0b31ded87c2a9bfba5062b9e3c92e7c31131f.png",
-    "Attachments/807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png",
-    "Attachments/1e30a420691664048397c52acfac36e2994d8321608cd4590d305b7b91001587.png",
-    "Attachments/19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png",
-    "Attachments/9/f/4",
-    "Attachments/9/f",
-    "Attachments/9",
-    "Attachments/8/0/7",
-    "Attachments/8/0",
-    "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
-    "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
-    "Attachments/Preview 2024-09-30 11.05.40.tiff"
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9",
+    "Tags/#primers"
   ]
 }

@@ -1,21 +1,5 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
 
-Thomas Rauter
-
-[Week 2 Retail](Week%202%20Retail.md)
-[Week 2 Dollar General Case- Assignment Review](Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
-[Dollar General Case Study](Dollar%20General%20Case%20Study.md)
-[HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
-[PSET 2- DOLLAR TREE CASE STUDY](PSET%202-%20DOLLAR%20TREE%20CASE%20STUDY.md)
-[JP Morgan Deep Discount Retail Sector Report](JP%20Morgan%20Deep%20Discount%20Retail%20Sector%20Report.md)
-[PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)
-
-# ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-
+# Week 2 Fundamentals Of Forecasting
 ## FUNDAMENTALS OF FORECASTING
 
 ## INSIDE VS. OUTSIDE VIEW
@@ -76,15 +60,15 @@ Thomas Rauter
 
 ## VOLATILE AND COMPETITIVE INDUSTRIES
 
-![500](Z.%20Clippings/Week%202%20Fundamentals%20Of%20Forecasting-20240502210010165.png)
+![](d30ee93c4be5bdc2f333d51a6cd0cc8b.png)
 
 ## LESS VOLATILE AND COMPETITIVE INDUSTRIES
 
-![500](Z.%20Clippings/Week%202%20Fundamentals%20Of%20Forecasting-20240502210038473.png)
+![](5246e2f67c8d5042a1cdbe24e535ca4b.png)
 
 ## METRICS BY INDUSTRY
 
-![500](Z.%20Clippings/mentals%20Of%20Forecasting-20240502210137194.png)
+![](cabd5a82acc936b26bc09bb9527f78d4.png)
 
 ## OUTSIDE VIEW
 
@@ -121,7 +105,7 @@ view
 ## SALES GROWTH BASE RATES (ILLUSTRATION)
 
 What percentage of the universe grew sales at a CAGR of 20-25% for three years?
-![500](Z.%20Clippings/Week%202%20Fundamentals%20Of%20Forecasting-20240502210228946.png)
+![](84834b5caa194447abc6f2ce5f2042cb.png)
 
 ## ANALYST FORECASTS ANALYSTS' FORECASTS ARE TOO OPTIMISTIC
 
@@ -137,13 +121,13 @@ What percentage of the universe grew sales at a CAGR of 20-25% for three years?
 - Analysts also tend to be overconfident in their forecasts
 	   - Range of forecasts tends to be too narrow
 
-### OVERCONFIDENCE IN ECASTS
+### OVERCONFIDENCE IN SALES GROWTH FORECASTS
 
-![500](Z.%20Clippings/Week%202%20Fundamentals%20Of%20Forecasting-20240502210334163.png)
+![](0d99fa60d9cf8bc9d401d72db737c01d.png)
 
 ### OVERCONFIDENCE IN EARNINGS GROWTH FORECASTS
 
-![500](Z.%20Clippings/Attachments%201/Week%202%20Fundamentals%20Of%20Forecasting-20240502210338245.png)
+![](7b431070a92bb5845645ca5a95530443.png)
 
 Where Does Optimism Come From?
 
@@ -172,17 +156,18 @@ Where Does Optimism Come From?
 - LTG forecasts are overly optimistic
 	   - Large forecasts tend to have larger errors
 	   - Forecasted long run growth on average 7% (p.a.) higher than its realization
-- LTG around equity ofstematically too optimistic
+- LTG around equity offerings
+	   - Systematically too optimistic
 	   - Analysts affiliated to the lead bank most optimistic
 
 ## ANALYST FORECASTS: LTG ESTIMATE BIAS
 
-![500](Z.%20Clippings/Week%202%20Fundamentals%20Of%20Forecasting-20240502210349914.png)
+![](b970b731c94441906ebf3d6f09d8492f.png)
 Source: Data based on Chan et al 2003 Table 9
 
 ## LTG FORECASTS AND STOCK RETURNS
 
-![500](Z.%20Clippings/Attachments%201/Week%202%20Fundamentals%20Of%20Forecasting-20240502210359782.png)
+![](ccc493c3bada2acd0c3134bcde5e9851.png)
 Source: BGLS 2017
 
 - One-year ahead returns to stocks with the lowest LTG forecasts are substantially higher than returns to stocks with the highest LTG

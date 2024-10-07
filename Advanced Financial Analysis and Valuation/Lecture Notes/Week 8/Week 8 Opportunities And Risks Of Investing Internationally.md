@@ -1,9 +1,3 @@
----
-title: "OPPORTUNITIES OF INVESTING ABROAD: FDI AND M&A"
-aliases: ["OPPORTUNITIES OF INVESTING ABROAD: FDI AND M&A"]
-linter-yaml-title-alias: "OPPORTUNITIES OF INVESTING ABROAD: FDI AND M&A"
----
-
 Thomas Rauter
 
 ## THIS PRE-RECORDING
@@ -28,10 +22,10 @@ Thomas Rauter
 	 ‒ Firms become more international in their operations
 	 ‒ Best opportunities have often been abroad
 	‒ Increasingly, emerging market companies are engaging in cross-border M&A too
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518050855426.png)
+![](e11293d67da4513ac39bdee0062b3960.png)
 ## CROSS-BORDER M&A ACCOUNTS FOR 25-30%
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518050921672.png)
+![](6f42af0cbb2e4f296474e86a1f1d92b7.png)
 
 ## EMERGING MARKET COMPANIES
  - At the start of the 90s, companies from U.S., Western Europe and Japan represented the bulk of the global economy
@@ -61,12 +55,12 @@ Thomas Rauter
 
 ## DIVERSIFICATION ILLUSTRATED STARTING FROM UK BENCHMARK
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051022583.png)
+![](76e12ccdcb9fe4b49e1049ccd56c3706.png)
 Global Equity Model (GEM2L)
 
 ## EMERGING MARKET VS. DEVELOPED MARKET RETURNS
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051047203.png)
+![](0a82581cab5ecb6fd9a2f889d9ff8ee0.png)
 
  - Emerging markets have historically outperformed developed markets
 	‒ But they also are riskier  - see volatility in chart above
@@ -81,7 +75,7 @@ Global Equity Model (GEM2L)
 	‒ Focused on developed markets and larger cap stocks (e.g., MSCI EAFE index)
 
 Figure 2: Going Abroad Has Provided Diversification
-![500](Z.%20Clippings/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051132763.png)
+![](aa03ea8c4c0d5fb429715f53ece7498d.png)
 Even a small fraction of foreign investment in developed economies dominated a 100% US portfolio
 
 ## DIVERSIFICATION BENEFITS FROM EMERGING MARKETS (EMS)
@@ -96,11 +90,11 @@ Even a small fraction of foreign investment in developed economies dominated a 1
 
 ## CHANGES IN CORRELATIONS OVER TIME
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051205453.png)
+![](b6da18b73de98988a88f017d5d06c59c.png)
 
 ## CHANGES IN CORRELATIONS OVER TIME (CONT.)
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051232815.png)
+![](ea38bf25f24d31c0efc9cf370f7f858e.png)
 
 ## IS IT STILL WORTH IT (GIVEN INCREASE IN CORRELATIONS)?
  - Do we care about a low correlation per se?
@@ -109,10 +103,10 @@ Even a small fraction of foreign investment in developed economies dominated a 1
 	‒ They also depend on expected returns and volatility
  - It is possible that diversification benefits and the Sharpe ratio increase, despite the fact that correlations increase
 	‒ Not only correlations, but also returns and risk in EMs have changed over time
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051302953.png)
+![](72e49dcc3283b9b7f1691dbbbb05c9f4.png)
 ## TREND TOWARDS INVESTMENTS IN INTERNATIONAL SMALL CAPS
  - These investments are often motivated by lower correlations of small caps
-![500](Z.%20Clippings/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051318848.png)
+![](4d76ef317684ed981466826dd9bdd8ee.png)
 ## TREND TOWARDS INTERNATIONAL SMALL CAPS (CONT.)
  - Conceptually, it makes sense that multinationals and large global players in EMs offer less diversification
 	‒ But again, we also need to consider expected returns and volatility
@@ -135,7 +129,7 @@ Even a small fraction of foreign investment in developed economies dominated a 1
 
 ## CORRELATIONS WITH U.S. RETURNS IN THE FINANCIAL CRISIS
 
-![500](Z.%20Clippings/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051408786.png)
+![](63ef2bab6295c5af5492a5915d7a1787.png)
 
  - Similar results could be shown for other crises
  - Despite widespread negative returns, there are substantial differences in how EMs fare during crises
@@ -158,12 +152,12 @@ Even a small fraction of foreign investment in developed economies dominated a 1
 
 ## HOME BIAS IN U.S. INVESTORS' PORTFOLIOS
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051506539.png)
+![](4d252552db9154a107d814d63c4a70d6.png)
 Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 
 ## HOME BIAS IN U.S. INVESTORS' PORTFOLIOS (CONT.)
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051533336.png)
+![](a259b76f2205e9b6bebc185dd4426d39.png)
 
 - HOME BIAS HAS NOT SUBSTANTIALLY CHANGED FROM 1994 TO 2004
 
@@ -219,44 +213,44 @@ Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 
 ## ECONOMIST INTELLIGENCE UNIT (EIU)
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051715601.png)
+![](35483879a2d3fc8b55f157546b0a61be.png)
 
 ## ECONOMIST INTELLIGENCE UNIT (EIU)
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051756240.png)
+![](362634a277bc56556df73f746240019f.png)
 
 ## TRANSPARENCY INTERNATIONAL
 
 CORRUPTION PERCEPTIONS INDEX 2015
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051823480.png)
+![](825bacf00ff0dc154956509415ceb883.png)
 
 ## INSTITUTIONAL INVESTOR MAGAZINE: COUNTRY CREDIT RISK RATINGS
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051908337.png)
+![](f8854c698b387f23385a8e5373d0f803.png)
 
 ## COUNTRY SCORES FOR INSTITUTIONAL QUALITY (OR GOVERNANCE)
 
-![500](Z.%20Clippings/tunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051926999.png)
+![](3b806e6a6139e943a187b29df6191dd8.png)
 
 Source: World Bank, Worldwide Governance Indicators, 2018
 
 ## COUNTRY SCORES FOR INSTITUTIONAL QUALITY (OR GOVERNANCE)
 
-![500](Z.%20Clippings/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518051959839.png)
+![](8601168908a2502783b555e72397744c.png)
 Source: World Bank, Worldwide Governance Indicators, 2018
 
 ## COUNTRY SCORES FOR INSTITUTIONAL QUALITY (OR GOVERNANCE)
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518052032734.png)
+![](bc608e6ad27a0007d86f04a67a17ad45.png)
 Source: World Bank, Worldwide Governance Indicators, 2018
 
 ## COMPONENTS OF COUNTRY RISK: RADAR CHARTS
 
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518052053735.png)
+![](87ff3ed6e2d299630cc9152e14be6537.png)
 
 ## DEVELOPED VS. EMERGING MARKETS
 
-![500](Z.%20Clippings/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518052114550.png)
+![](939413108c9157ce1852acb92aab7cac.png)
 
 # INTERNATIONAL COST OF CAPITAL IN PRACTICE
 ## HOW DO WE CAPTURE INTERNATIONAL RISKS?
@@ -273,6 +267,6 @@ Source: World Bank, Worldwide Governance Indicators, 2018
 ## WHAT DO PRACTITIONERS DO?
  - There are many different models and proposed approaches
 	‒ Different values for Exxon Mobile investment in Argentina (in 2005):
-![500](Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally-20240518052235450.png)
+![](0555ef14899a81b739ae1ad30cf57de7.png)
  - Salomon Smith Barney survey (2002):
 "Unfortunately, the only real consensus is that there is no consensus on how to estimate the international cost of capital. Almost every academic or practitioner has a different recommendation."

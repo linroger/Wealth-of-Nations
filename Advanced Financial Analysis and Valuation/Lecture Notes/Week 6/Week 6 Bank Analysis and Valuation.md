@@ -1,27 +1,3 @@
----
-title: MOATS AND COMPETITIVE ANALYSIS
-aliases: [MOATS AND COMPETITIVE ANALYSIS]
-linter-yaml-title-alias: MOATS AND COMPETITIVE ANALYSIS
----
-
-[Week 6 Bank Business Model, Regulation, and Accounting Rules](Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md)
-[Week 6 Bank Analysis and Valuation](Week%206%20Bank%20Analysis%20and%20Valuation.md)
-[HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio](HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
-[HBS Citigroup 2007-Financial Reporting And Regulatory Capital](HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md)
-[PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios](PSET%206-%20Evaluating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios.md)
-[Week 6 Assignment Review](Week%206%20Assignment%20Review.md)
-[HKS The Banking Industry](HKS%20The%20Banking%20Industry.md)
-
-[BANKS AND LIQUIDITY CREATION](BANKS%20AND%20LIQUIDITY%20CREATION.md)
-[BANKS AND LIQUIDITY CREATION](BANKS%20AND%20LIQUIDITY%20CREATION.md)
-[Bank Regulation and Management](Bank%20Regulation%20and%20Management.md)
-[Bank Credit- Definition, How It Works, Types, and Examples](Bank%20Credit-%20Definition,%20How%20It%20Works,%20Types,%20and%20Examples.md)
-[BANK DEBT VS. BONDS](BANK%20DEBT%20VS.%20BONDS.md)
-[What Is a Standby Letter of Credit (SLOC) and How Does It Work](What%20Is%20a%20Standby%20Letter%20of%20Credit%20(SLOC)%20and%20How%20Does%20It%20Work.md)
-[Understanding Bank Capital- A Primer — Money, Banking and Financial Markets](Understanding%20Bank%20Capital-%20A%20Primer%20—%20Money,%20Banking%20and%20Financial%20Markets.md)
-
-## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-
 ### BANK ANALYSIS AND VALUATION
 
 **Today's Focus:**
@@ -36,8 +12,6 @@ linter-yaml-title-alias: MOATS AND COMPETITIVE ANALYSIS
 	 - Flow-to-equity model
 	 - Economic-profit model
 - **Relative valuation (or multiples)**
-
----
 
 ### BANKS ARE VERY DIFFERENT
 - Banks' Financial Statements Are Very Different
@@ -76,7 +50,7 @@ linter-yaml-title-alias: MOATS AND COMPETITIVE ANALYSIS
 
 ### GOING THE EXTRA MILE: CYCLICALITY OF LENDING DISTANCES
 
-![|500](Pasted%20image%2020240426225309.png)
+![](995e6cc43b6677f190123d240205296b.png)
 Source: Granja, Leuz and Rajan (JF 2022)
 
 - **Average lending distance is cyclical**
@@ -86,7 +60,7 @@ Source: Granja, Leuz and Rajan (JF 2022)
 
 # MOATS AND COMPETITIVE ANALYSIS
 
-![|500](Pasted%20image%2020240426225732.png)
+![](7ccf2e4269166aa0a8cca3dace19e428.png)
 
 ### MOAT SOURCES IN BANKING - MOATS AND SOURCES OF COMPETITIVE ADVANTAGE
 
@@ -102,14 +76,12 @@ Source: Granja, Leuz and Rajan (JF 2022)
 	 - Economies of scope can be a source of a competitive advantage
 - **Relationship lending & soft information (e.g., in business loans)**
 
----
 
 ### ECONOMIES OF SCALE AT J.P. MORGAN
 > [!quote]
 > "Our scale creates huge cost efficiencies and enables significant resources to be brought to bear for the benefit of our company. For example, in global technology, we have nearly 30,000 programmers, application developers and information technology employees who keep our 7,200 applications, 32 data centers, 58,000 servers, 300,000 desktops and global network operating smoothly for all our clients. Resources like these allow us to constantly improve our operating efficiencies and bring enormous capability to deal with issues when we need to do so such as adjusting to all the new global rules and requirements. In total, we believe that expense synergies across the company save us approximately $3 billion a year."
 > - Jamie Dimon letter to shareholders (JPM 2013 annual report)
 
----
 
 ### ECONOMIES OF SCOPE AT J.P. MORGAN
 
@@ -128,13 +100,13 @@ Source: Granja, Leuz and Rajan (JF 2022)
 ### VALUE DRIVERS IN BANK LENDING
 
 Most important profitability metric for banks
-![|500](Pasted%20image%2020240426225934.png)
+![](53ed0e01e56e580205923bc7eb75b0d1.png)
 
 ### NET INTEREST MARGIN FOR U.S. BANKS
 
 $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  assets}}$$
 
-![|500](Z.%20Clippings/Pasted%20image%2020240426230031.png)
+![](33d0b2d7191a3a0b040d0f2e6e22fdd9.png)
 
 ### ECONOMIC SPREAD ANALYSIS
 - **NIM does not measure value creation, as it does not account for duration mismatch**
@@ -149,7 +121,7 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ### ECONOMIC SPREAD ANALYSIS (CONT.)
 
-![|500](Pasted%20image%2020240426230104.png)
+![](1df22f2b3c55df294c57f879c3d3af85.png)
 
 ## MODIGLIANI -MILLER TAX PENALTY
 - **Debt creates value through tax shields because interest is tax-deductible**
@@ -180,19 +152,19 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ## COMERICA (CMA): KEY RATIOS
 
-![](Pasted%20image%2020240426230239.png)
+![](94604899cfc21290cfaa9f2cb346d8c3.png)
 
 ## CMA: LOAN PORTFOLIO
 
-![](Pasted%20image%2020240426230257.png)
+![](e3c65080a8710c7258491e5270409460.png)
 
 ## JPM: KEY VALUES
 
-![](Pasted%20image%2020240426230318.png)
+![](eb900ea6fa8ef08045f4c648595208db.png)
 
 ## JPM: REVENUE BY BUSINESS
 
-![](Z.%20Clippings/Pasted%20image%2020240426230340.png)
+![](264497b8608b40ca50a1b12ad3b5fdbb.png)
 
 # BLACKSTONE AND CITIGROUP CASE
 
@@ -228,12 +200,12 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 	 - We can derive $CFE$ as net income ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
 		  - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
 	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders, including dividends, share repurchases, and new share issuances
-![|500](Pasted%20image%2020240426230531.png)
+![](2597f4f51cb6585ab5b5591a4796dccd.png)
 - Discount with cost of equity ($k_e$)
 
 ### EXAMPLE: CASH FLOW TO EQUITY
 
-![|500](Z.%20Clippings/Pasted%20image%2020240426230620.png)
+![](12e701058fc31e1617bbcbce4dfefd81.png)
 
 ## BANK BETAS
 - **We do not use WACC for banks**
@@ -255,11 +227,7 @@ $$\text{Economic Profit}_t = \text{Book Value}_{t-1} * (ROE_t - k_e)$$
 $$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^T \frac{\text{Economic Profit}_t}{(1+k_e)^t} + \frac{TV_T}{(1+k_e)^T}$$
 
 $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
-
----
-
 - Sometimes called "abnormal earnings" or "excess return" model
----
 ### FLOW TO EQUITY EXAMPLE: DEUTSCHE BANK
 
 # FLOW TO EQUITY VALUATION: DEUTSCHE BANK
@@ -291,12 +259,12 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 
 ### STEP 1: EXPECTED NET INCOME
 
-![|500](Pasted%20image%2020240426231007.png)
+![](7c3fc693795a66a58c62fbc6d2b7ac01.png)
 Source: Damodaran Chapter 14: Table 14.4 Deutsche Bank – Expected ROE(%) and Net Income Millions of US $ Note: Common equity number is end-of-previous year number plus beginning-of-year forecasted increases in Tier 1 capital.
 
 ### STEP 2: REGULATORY CAPITAL AND REINVESTMENT
 
-![|500](Pasted%20image%2020240426231029.png)
+![](4967557a1cde0d20f6fcd3e4e3dbc062.png)
 
 - Forecast: RWA → capital ratio
 	- → T1 capital = required equity
@@ -307,7 +275,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
 ### DEUTSCHE BANK: FCFE AND TERMINAL VALUE
 
-![|500](Pasted%20image%2020240426231115.png)
+![](24578d9552c9c586c019776092e15c70.png)
 
 - Expected net income in year 11: $$\text{Expected net income in year 11} = $8,161 \times 1.01 = \$8,243$$
 - Expected retention ratio in perpetuity: $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
@@ -315,7 +283,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
 ### DEUTSCHE BANK: FAILURE RISK AND VALUE PER SHARE
 - **Summing over the PV terms on previous slide implies an equity value:**
-![|500](Pasted%20image%2020240426232233.png)
+![](1f455b0ff2677642758cc5c983df129e.png)
 - Key Points:
 	- Illustration of flow-to-equity model
 	- Valuation incorporates capital raising (and dilution): Divide by shares outstanding
@@ -325,7 +293,7 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 
 ### RELATIVE VALUATION
 
-![|350](Pasted%20image%2020240426232136.png)
+![](97cdaedf156549bcd1107b5ce6e3bd1f.png)
 
 ### MARKET‐TO‐BOOK IS FREQUENTLY USED FOR BANKS
 - For banks, book value is measured closer to market value (or FV):
@@ -337,7 +305,7 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 
   $$\frac{P}{BV} = \frac{ROE \times (1 - \frac{g}{ROE}) \times (1+g)}{ke^{-g}}$$
 
-![350](Pasted%20image%2020240426232136.png)
+![](97cdaedf156549bcd1107b5ce6e3bd1f.png)
 
 ## MARKET-TO-BOOK RATIO
 -$MTB (\frac{P}{BV})$ is a linear function of ROE:
@@ -348,4 +316,4 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
   - Account for banks' impairment and provisioning policies (as they determine $BV$).
 ### MARKET -TO-BOOK RATIOS OVER TIME
 
-![](Pasted%20image%2020240426232059.png)
+![](a5b16c9f699242910e7835eb8a613cd3.png)

@@ -1,9 +1,3 @@
----
-title: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS]
-linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
----
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
@@ -32,7 +26,7 @@ Thomas Rauter
 
 ## ASSESSMENT OF DG PERFORMANCE: OVER TIME
 
-![](Z.%20Clippings/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503003749449.png)
+![](a111b8893a2c52c817420be41efd5f64.png)
 
 - Sharp decline in earnings from $350.2MM in FY2005 to $137.9MM in FY2006, despite increase in revenues
    - Increase in COGS and SG&A as % of revenue
@@ -40,13 +34,13 @@ Thomas Rauter
 - Increase in market ratios driven by smaller denominator
    - Market may have viewed earnings decline as transitory
 
-## ASSESSMENT OF DGLATIVE TO PEERS
+## ASSESSMENT OF DG PERFORMANCE: RELATIVE TO PEERS
 
 - Family Dollar (size, business overlap) and Dollar Tree (size) seem to be reasonable comparables
 - Until FY2006, DG's profit margin was better than Family Dollar's but worsened due to the new strategy
 - DG's FY2006 ROA and ROE were worse than Family Dollar's or Dollar Tree's - DG's market ratios tend to look better than peers (Why? Driven by denominator)
    - Market-to-book is more stable than PE (less affected by transitory items)
-![](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503003828828.png)
+![](49659fd1cc0c80fcf0f1b85f7efdcbc1.png)
 ## CAUSE FOR DG PERFORMANCE DECLINE
 
 #### RESTRUCTURING PLAN
@@ -57,13 +51,13 @@ Thomas Rauter
    - Mark-downs and inventory impairment charges recorded in FY2006
 - New strategies expected to contribute negatively to earnings beyond current FY ($71.2MM remaining in special items)
    - What do you do with these future charges in 2007 valuation?
-- DG expects its neenhance store appearance and customer satisfaction while reducing employee turnover and inventory shrink
+- DG expects its new strategies to enhance store appearance and customer satisfaction while reducing employee turnover and inventory shrink
 - Does the market pricing or the KKR offer reflect these improvements?
 
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007)
 
 (A) Adjusting For Non-Recurring Items (Excl. Net Sales Adjustment)
-![](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503004027660.png)
+![](4ce14116f4b8f02aa89ada23d44d08ac.png)
 
 Mark down adjustment
 
@@ -76,13 +70,13 @@ Mark down adjustment
 	- $165.3MM * 25.8% margins =$42.7MM if using actual FY2006
 	- $165.3MM * 28.7% margins =$47.5MM if using FY2005 because actual FY2006 margins are likely depressed
 - But 28.7% is the topline margin relative to sales. We need the margin as it relates to the cost number:
-- 28.7% / (1-28.7%)relative to COGS
+- 28.7% / (1-28.7%) = 40.3% margin relative to COGS
    - $165.3MM * 40.3% = $66.6M
 
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007) (B)
 
 Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
-![](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503004229091.png)
+![](821b7bcf6c2e76f3827f90d909bb2787.png)
 
 ## ASSESSMENT OF DG'S FUTURE PROSPECTS FORECAST FOR FY2007 (YEAR ENDED FEB. 2008)
 - Key drivers are growth, gross margin, and SG&A - two reasonable approaches:
@@ -94,13 +88,13 @@ Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
    - Consider average of historical and pro forma FY2006 gross margin
 - SG&A expense as % of revenues:
    - Consider average of historical and pro forma FY2006 metric
-- Interest income actual from FY2006 (for simplicity)
+- Interest income and expense: Use actual from FY2006 (for simplicity)
 - Effective tax rate: Use actual from FY2006 - Depreciation: Use past relation with sales (as store growth likely leads to D&A)
 
 ## ASSESSMENT OF DG FUTURE PROSPECTS (A)
 
 SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
-![](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503004608850.png)
+![](6eff0608c8f918f88bd4ab0b7c3ee4aa.png)
 
 ## ASSESSMENT OF KKR OFFER VALUATION
 
@@ -115,19 +109,20 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 	   - DG's transaction value / adj. EBITDA = around 12x (11.6 - 12.1)
 	   - Using transaction value / forward EBITDA = around 9.5x
 
-## SHORT-TERM AFTERMAT2007, DOLLAR GENERAL'S SHAREHOLDERS APPROVED THE OFFER TO TAKE THE COMPANY PRIVATE
+## SHORT-TERM AFTERMATH
+- On June 22, 2007, Dollar General's shareholders approved the offer to take the company private
 	   - Dollar General said that of the shares that voted—249.8 million shares, more than 79% of the total outstanding—99% were in favor of the merger
 - Chairman and CEO David A. Perdue said that he would retire upon completion of the deal
 	   - Mr. Perdue realized ~$30 million from the transaction
 - End of July, 2007, the banks that financed the deal sold the debt to TPG for as little as 87 cents on the dollar
-![500](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503004838510.png)
+![](c44bab1276353e7791ec6225a451aaac.png)
 ## LONGER-TERM AFTERMATH
 
-- Dollar General Ir 2009 and raised $823 million, making it the largest retail IPO in more than a decade
+- Dollar General IPO-ed in November 2009 and raised $823 million, making it the largest retail IPO in more than a decade
 - With the advent of the pandemic, Dollar General benefited from a combination of economic uncertainty and consumer desire to stock up on household goods
 - As of January 8, 2021, its stock had risen 40% compared to one year prior
 - It rose to over $250 in 2022 (but has declined substantially in 2023)
-![](Z.%20Clippings/Attachments%201/Week%202%20Dollar%20General%20Case-%20Assignment%20Review-20240503005103104.png)
+![](222f82ee63808e735953de23925150e3.png)
 ## KEY TAKE-AWAYS
 
 - Measurement of corporate performance is challenging
@@ -153,7 +148,7 @@ Broader Motivations Dollar General Motivations
    - Cost of being a public firm
    - Because mgmt believes the public market is undervaluing the firm
 
-[Week 2 Dollar General CaseAssignment Review](Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
+[Week 2 Dollar General CaseAssignment Review](Zhe/Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
 [Dollar General Case Study](Dollar%20General%20Case%20Study.md)
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
 [PSET 2- DOLLAR TREE CASE STUDY](PSET%202-%20DOLLAR%20TREE%20CASE%20STUDY.md)
