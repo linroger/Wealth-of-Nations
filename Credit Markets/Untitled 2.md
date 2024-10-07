@@ -330,7 +330,7 @@ Select US Treasury bonds only (class = ‘Govt’,  ticker = ‘T’). For each 
 <span id="cb4-3">govt_symbology_10y <span>=</span> govt_symbology[govt_symbology[<span>'start_date'</span>] <span>&gt;=</span> cut_off_date_10y].copy()</span>
 <span id="cb4-4"></span>
 <span id="cb4-5"><span># Plot the US Treasury coupons by issue date (last 10 years)</span></span>
-<span id="cb4-6">govt_symbology_10y.plot(x<span>=</span><span>'start_date'</span>,      y<span>=</span><span>'coupon'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-*'</span>,      title<span>=</span><span>'US Treasury coupons by issue date (last 10 years)'</span>,      figsize<span>=</span>(<span>12</span>,     <span>8</span>))</span>
+<span id="cb4-6">govt_symbology_10y.plot(x<span>=</span><span>'start_date'</span>,        y<span>=</span><span>'coupon'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-*'</span>,        title<span>=</span><span>'US Treasury coupons by issue date (last 10 years)'</span>,        figsize<span>=</span>(<span>12</span>,       <span>8</span>))</span>
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-5-output-1.png)
@@ -342,8 +342,8 @@ Plot the time series of coupons for for US treasury notes/bonds issued in the la
 ```latex
 <span id="cb5-1"><span>import</span> plotly.express <span>as</span> px</span>
 <span id="cb5-2"></span>
-<span id="cb5-3">fig <span>=</span> px.scatter(govt_symbology_10y,      x<span>=</span><span>'start_date'</span>,      y<span>=</span><span>'coupon'</span>,      title<span>=</span><span>'US Treasury coupons by issue date (last 10 years)'</span>)</span>
-<span id="cb5-4">fig.update_layout(xaxis_title<span>=</span><span>'Issue Date'</span>,      yaxis_title<span>=</span><span>'Coupon'</span>,      template<span>=</span><span>'ggplot2'</span>)</span>
+<span id="cb5-3">fig <span>=</span> px.scatter(govt_symbology_10y,        x<span>=</span><span>'start_date'</span>,        y<span>=</span><span>'coupon'</span>,        title<span>=</span><span>'US Treasury coupons by issue date (last 10 years)'</span>)</span>
+<span id="cb5-4">fig.update_layout(xaxis_title<span>=</span><span>'Issue Date'</span>,        yaxis_title<span>=</span><span>'Coupon'</span>,        template<span>=</span><span>'ggplot2'</span>)</span>
 <span id="cb5-5">fig.show()</span>
 ```
 
@@ -357,10 +357,10 @@ Unable to display output for mime type(s): application/vnd.plotly.v1+json
 <span id="cb7-3">govt_symbology_4y <span>=</span> govt_symbology[govt_symbology[<span>'start_date'</span>] <span>&gt;=</span> cut_off_date_4y].copy()</span>
 <span id="cb7-4"></span>
 <span id="cb7-5"><span># Plot the US Treasury coupons by issue date (last 10 years)</span></span>
-<span id="cb7-6">govt_symbology_4y.plot(x<span>=</span><span>'start_date'</span>,      y<span>=</span><span>'coupon'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-*'</span>,      title<span>=</span><span>'US Treasury coupons by issue date (last 4 years)'</span>,      figsize<span>=</span>(<span>12</span>,     <span>8</span>))</span>
+<span id="cb7-6">govt_symbology_4y.plot(x<span>=</span><span>'start_date'</span>,        y<span>=</span><span>'coupon'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-*'</span>,        title<span>=</span><span>'US Treasury coupons by issue date (last 4 years)'</span>,        figsize<span>=</span>(<span>12</span>,       <span>8</span>))</span>
 <span id="cb7-7"></span>
 <span id="cb7-8"><span># describe</span></span>
-<span id="cb7-9">govt_symbology_4y[[<span>'start_date'</span>,      <span>'coupon'</span>]].describe()</span>
+<span id="cb7-9">govt_symbology_4y[[<span>'start_date'</span>,        <span>'coupon'</span>]].describe()</span>
 ```
 
 |  | start_date | coupon |
@@ -390,7 +390,7 @@ Based on the summary statistics provided,  we can make following observations:
 Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2 Y,  3 Y,  5 Y,  7 Y,  10 Y,  20 Y and 30 Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for on-the-run treasuries only,  to be used later on for the on-the-run government yield curve bootstrapping.
 
 ```latex
-<span id="cb8-1"><span># Load govt_on_the_run,      as of 2024-04-01</span></span>
+<span id="cb8-1"><span># Load govt_on_the_run,        as of 2024-04-01</span></span>
 <span id="cb8-2"></span>
 <span id="cb8-3"><span># Keep OTR treasuries only</span></span>
 <span id="cb8-4">govt_on_the_run_simple <span>=</span> govt_on_the_run[<span>~</span>govt_on_the_run[<span>'ticker'</span>].<span>str</span>.contains(<span>'B|C'</span>)]</span>
@@ -445,7 +445,7 @@ Create a separate dataframe for VZ issuer only (ticker = ‘VZ’) and display i
 <span id="cb10-6">                                   <span>&amp;</span> (corp_symbology[<span>'cpn_type'</span>] <span>==</span> <span>'FIXED'</span>)]</span>
 <span id="cb10-7"></span>
 <span id="cb10-8"><span># Keep selected columns only</span></span>
-<span id="cb10-9">corp_symbology <span>=</span> corp_symbology[[<span>'ticker'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'security'</span>,      <span>'name'</span>,      <span>'coupon'</span>,      <span>'start_date'</span>,      <span>'maturity'</span>,      <span>'term'</span>,      <span>'TTM'</span>]]</span>
+<span id="cb10-9">corp_symbology <span>=</span> corp_symbology[[<span>'ticker'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'security'</span>,        <span>'name'</span>,        <span>'coupon'</span>,        <span>'start_date'</span>,        <span>'maturity'</span>,        <span>'term'</span>,        <span>'TTM'</span>]]</span>
 <span id="cb10-10"></span>
 <span id="cb10-11"><span># Filter for VZ issuer</span></span>
 <span id="cb10-12">corp_symbology_vz <span>=</span>  corp_symbology[corp_symbology[<span>'ticker'</span>] <span>==</span> <span>'VZ'</span>]</span>
@@ -512,24 +512,24 @@ Plot a graph/scatter plot of treasury mid yields by TTM.
 
 ```latex
 <span id="cb12-1"><span># Merge market data as of 2024-04-01 into treasury symbology</span></span>
-<span id="cb12-2">govt_agg <span>=</span> govt_symbology.merge(bond_market_prices_eod,       on<span>=</span>[<span>'class'</span>,     <span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb12-2">govt_agg <span>=</span> govt_symbology.merge(bond_market_prices_eod,         on<span>=</span>[<span>'class'</span>,       <span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb12-3"></span>
 <span id="cb12-4">govt_agg.head()</span>
 <span id="cb12-5"></span>
 <span id="cb12-6"><span># Plot a graph/scatter plot of treasury mid yields by TTM</span></span>
-<span id="cb12-7">govt_agg.plot(x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*'</span>,      title<span>=</span><span>'US Treasury Yields by TTM'</span>,      figsize<span>=</span>(<span>12</span>,     <span>8</span>))</span>
+<span id="cb12-7">govt_agg.plot(x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*'</span>,        title<span>=</span><span>'US Treasury Yields by TTM'</span>,        figsize<span>=</span>(<span>12</span>,       <span>8</span>))</span>
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-12-output-1.png)
 
 ```latex
 <span id="cb13-1"><span># Merge market data as of 2024-04-01 into treasury symbology</span></span>
-<span id="cb13-2">govt_agg <span>=</span> govt_symbology.merge(bond_market_prices_eod,       on<span>=</span>[<span>'class'</span>,     <span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb13-2">govt_agg <span>=</span> govt_symbology.merge(bond_market_prices_eod,         on<span>=</span>[<span>'class'</span>,       <span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb13-3"></span>
 <span id="cb13-4">govt_agg.head()</span>
 <span id="cb13-5"></span>
-<span id="cb13-6">fig <span>=</span> px.scatter(govt_agg,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>,      title<span>=</span><span>'US Treasury Yields by TTM'</span>)</span>
-<span id="cb13-7">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,      yaxis_title<span>=</span><span>'Mid Yield'</span>,      template<span>=</span><span>'plotly_white'</span>)</span>
+<span id="cb13-6">fig <span>=</span> px.scatter(govt_agg,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>,        title<span>=</span><span>'US Treasury Yields by TTM'</span>)</span>
+<span id="cb13-7">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,        yaxis_title<span>=</span><span>'Mid Yield'</span>,        template<span>=</span><span>'plotly_white'</span>)</span>
 <span id="cb13-8">fig.show()</span>
 ```
 
@@ -545,11 +545,11 @@ Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 
 ```latex
 <span id="cb15-1"><span># Merge market data as of 2024-04-01 into treasury OTR symbology</span></span>
-<span id="cb15-2">govt_agg_otr <span>=</span> govt_symbology_otr.merge(bond_market_prices_eod,       on<span>=</span>[<span>'class'</span>,     <span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb15-2">govt_agg_otr <span>=</span> govt_symbology_otr.merge(bond_market_prices_eod,         on<span>=</span>[<span>'class'</span>,       <span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb15-3"></span>
-<span id="cb15-4">fig <span>=</span> px.scatter(govt_agg_otr,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>,      title<span>=</span><span>'OTR US Treasury yields by TTM'</span>)</span>
+<span id="cb15-4">fig <span>=</span> px.scatter(govt_agg_otr,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>,        title<span>=</span><span>'OTR US Treasury yields by TTM'</span>)</span>
 <span id="cb15-5">fig.update_traces(mode<span>=</span><span>'lines+markers'</span>)</span>
-<span id="cb15-6">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,      yaxis_title<span>=</span><span>'Mid Yield'</span>,      template<span>=</span><span>'plotly_white'</span>)</span>
+<span id="cb15-6">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,        yaxis_title<span>=</span><span>'Mid Yield'</span>,        template<span>=</span><span>'plotly_white'</span>)</span>
 <span id="cb15-7">fig.show()</span>
 ```
 
@@ -568,7 +568,7 @@ List the unique tickers/issuers available in the dataframe.
 
 ```latex
 <span id="cb17-1"><span># Merge market data as of 2024-04-01 into corp symbology</span></span>
-<span id="cb17-2">corp_agg <span>=</span> corp_symbology.merge(bond_market_prices_eod,       on<span>=</span>[<span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb17-2">corp_agg <span>=</span> corp_symbology.merge(bond_market_prices_eod,         on<span>=</span>[<span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb17-3"></span>
 <span id="cb17-4"><span>print</span>(corp_symbology.shape)</span>
 <span id="cb17-5"></span>
@@ -585,7 +585,7 @@ List the unique tickers/issuers available in the dataframe.
 
 ```latex
 <span id="cb19-1"><span># Unique tickers</span></span>
-<span id="cb19-2">corp_agg_unique_tickers <span>=</span> corp_agg[[<span>'ticker'</span>,      <span>'name'</span>]].drop_duplicates()</span>
+<span id="cb19-2">corp_agg_unique_tickers <span>=</span> corp_agg[[<span>'ticker'</span>,        <span>'name'</span>]].drop_duplicates()</span>
 <span id="cb19-3"></span>
 <span id="cb19-4">display(corp_agg_unique_tickers)</span>
 ```
@@ -610,10 +610,10 @@ Add a separate line for on-the-run US treasury yield curve (risk free curve).
 What can you say about the credit issuer yields,  compared to US treasury yields?
 
 ```latex
-<span id="cb20-1">fig <span>=</span> px.scatter(corp_agg,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>,      color<span>=</span><span>'ticker'</span>,      title<span>=</span><span>'Corporate Bond Yields by TTM'</span>)</span>
-<span id="cb20-2">fig.add_trace(px.scatter(govt_agg_otr,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>).data[<span>0</span>])</span>
+<span id="cb20-1">fig <span>=</span> px.scatter(corp_agg,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>,        color<span>=</span><span>'ticker'</span>,        title<span>=</span><span>'Corporate Bond Yields by TTM'</span>)</span>
+<span id="cb20-2">fig.add_trace(px.scatter(govt_agg_otr,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>).data[<span>0</span>])</span>
 <span id="cb20-3">fig.update_traces(mode<span>=</span><span>'lines+markers'</span>)</span>
-<span id="cb20-4">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,      yaxis_title<span>=</span><span>'Mid Yield'</span>,      template<span>=</span><span>'plotly_white'</span>)</span>
+<span id="cb20-4">fig.update_layout(xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,        yaxis_title<span>=</span><span>'Mid Yield'</span>,        template<span>=</span><span>'plotly_white'</span>)</span>
 <span id="cb20-5">fig.show()</span>
 ```
 
@@ -639,16 +639,16 @@ Where
 
 ```latex
 <span id="cb22-1"><span># Use the column 'und_bench_yield' to identify the underlying benchmark bond for each bond issue.</span></span>
-<span id="cb22-2">corp_merged <span>=</span> corp_agg.merge(bond_symbology[[<span>'isin'</span>,      <span>'und_bench_isin'</span>]],      on<span>=</span><span>'isin'</span>)</span>
+<span id="cb22-2">corp_merged <span>=</span> corp_agg.merge(bond_symbology[[<span>'isin'</span>,        <span>'und_bench_isin'</span>]],        on<span>=</span><span>'isin'</span>)</span>
 <span id="cb22-3"></span>
 <span id="cb22-4"><span># Create df containing govt_benchmark_yields</span></span>
-<span id="cb22-5">govt_benchmark_yields <span>=</span> bond_market_prices_eod[bond_market_prices_eod[<span>'class'</span>] <span>==</span> <span>'Govt'</span>][[<span>'isin'</span>,      <span>'midYield'</span>]]</span>
-<span id="cb22-6">govt_benchmark_yields.rename(columns<span>=</span>{<span>'midYield'</span>: <span>'und_bench_yield'</span>,      <span>'isin'</span>: <span>'und_bench_isin'</span>},      inplace<span>=</span><span>True</span>)</span>
+<span id="cb22-5">govt_benchmark_yields <span>=</span> bond_market_prices_eod[bond_market_prices_eod[<span>'class'</span>] <span>==</span> <span>'Govt'</span>][[<span>'isin'</span>,        <span>'midYield'</span>]]</span>
+<span id="cb22-6">govt_benchmark_yields.rename(columns<span>=</span>{<span>'midYield'</span>: <span>'und_bench_yield'</span>,        <span>'isin'</span>: <span>'und_bench_isin'</span>},        inplace<span>=</span><span>True</span>)</span>
 <span id="cb22-7"></span>
 <span id="cb22-8"><span># Add benchmark bond yield</span></span>
-<span id="cb22-9">corp_merged <span>=</span> corp_merged.merge(govt_benchmark_yields,      on<span>=</span><span>'und_bench_isin'</span>)</span>
+<span id="cb22-9">corp_merged <span>=</span> corp_merged.merge(govt_benchmark_yields,        on<span>=</span><span>'und_bench_isin'</span>)</span>
 <span id="cb22-10">corp_merged[<span>'credit_spread'</span>] <span>=</span> corp_merged[<span>'midYield'</span>] <span>-</span> corp_merged[<span>'und_bench_yield'</span>]</span>
-<span id="cb22-11">display(corp_merged[[<span>'ticker'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'security'</span>,      <span>'und_bench_isin'</span>,      <span>'midYield'</span>,      <span>'und_bench_yield'</span>,      <span>'credit_spread'</span>]])</span>
+<span id="cb22-11">display(corp_merged[[<span>'ticker'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'security'</span>,        <span>'und_bench_isin'</span>,        <span>'midYield'</span>,        <span>'und_bench_yield'</span>,        <span>'credit_spread'</span>]])</span>
 <span id="cb22-12"></span>
 ```
 
@@ -673,9 +673,9 @@ Where
 Plot a graph/scatter plot of credit spread curves by TTM (one line per issuer).
 
 ```latex
-<span id="cb23-1">fig <span>=</span> px.scatter(corp_merged,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'credit_spread'</span>,      color<span>=</span><span>'ticker'</span>,      title<span>=</span><span>'Corporate Bond Credit Spreads by TTM'</span>)</span>
+<span id="cb23-1">fig <span>=</span> px.scatter(corp_merged,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'credit_spread'</span>,        color<span>=</span><span>'ticker'</span>,        title<span>=</span><span>'Corporate Bond Credit Spreads by TTM'</span>)</span>
 <span id="cb23-2">fig.update_traces(mode<span>=</span><span>'lines+markers'</span>) </span>
-<span id="cb23-3">fig. Update_layout (xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,      yaxis_title<span>=</span><span>'Credit Spread'</span>,      template<span>=</span><span>'plotly_white'</span>)</span>
+<span id="cb23-3">fig. Update_layout (xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,        yaxis_title<span>=</span><span>'Credit Spread'</span>,        template<span>=</span><span>'plotly_white'</span>)</span>
 <span id="cb23-4">fig.Show ()</span>
 ```
 
@@ -697,14 +697,14 @@ Where
 
 ```latex
 <span id="cb25-1"><span># Interpolate OTR Treasury yields on corporate bond TTMs</span></span>
-<span id="cb25-2">interp_tsy_yield_vec <span>=</span> np.Interp (corp_merged[<span>'TTM'</span>],      govt_agg_otr[<span>'TTM'</span>],      govt_agg_otr[<span>'midYield'</span>])</span>
+<span id="cb25-2">interp_tsy_yield_vec <span>=</span> np.Interp (corp_merged[<span>'TTM'</span>],        govt_agg_otr[<span>'TTM'</span>],        govt_agg_otr[<span>'midYield'</span>])</span>
 <span id="cb25-3"></span>
 <span id="cb25-4"><span># Add interp_tsy_yield and g_spread</span></span>
 <span id="cb25-5">corp_merged[<span>'interp_tsy_yield'</span>] <span>=</span> interp_tsy_yield_vec</span>
 <span id="cb25-6">corp_merged[<span>'g_spread'</span>] <span>=</span> corp_merged[<span>'midYield'</span>] <span>-</span> corp_merged[<span>'interp_tsy_yield'</span>]</span>
 <span id="cb25-7"></span>
 <span id="cb25-8"><span># Display results</span></span>
-<span id="cb25-9">display (corp_merged [[<span>'ticker'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'security'</span>,      <span>'und_bench_isin'</span>,      <span>'midYield'</span>,      <span>'und_bench_yield'</span>,      <span>'credit_spread'</span>,      <span>'interp_tsy_yield'</span>,      <span>'g_spread'</span>]])</span>
+<span id="cb25-9">display (corp_merged [[<span>'ticker'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'security'</span>,        <span>'und_bench_isin'</span>,        <span>'midYield'</span>,        <span>'und_bench_yield'</span>,        <span>'credit_spread'</span>,        <span>'interp_tsy_yield'</span>,        <span>'g_spread'</span>]])</span>
 ```
 
 |  | ticker | isin | figi | security | und_bench_isin | midYield | und_bench_yield | credit_spread | interp_tsy_yield | g_spread |
@@ -728,9 +728,9 @@ Where
 Plot a graph/scatter plot of g-spread curves by TTM (one line per issuer).
 
 ```latex
-<span id="cb26-1">fig <span>=</span> px.Scatter (corp_merged,      x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'g_spread'</span>,      color<span>=</span><span>'ticker'</span>,      title<span>=</span><span>'Corporate Bond G-Spreads by TTM'</span>)</span>
+<span id="cb26-1">fig <span>=</span> px.Scatter (corp_merged,        x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'g_spread'</span>,        color<span>=</span><span>'ticker'</span>,        title<span>=</span><span>'Corporate Bond G-Spreads by TTM'</span>)</span>
 <span id="cb26-2">fig. Update_traces (mode<span>=</span><span>'lines+markers'</span>)</span>
-<span id="cb26-3">fig. Update_layout (xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,      yaxis_title<span>=</span><span>'G-Spread'</span>,      template<span>=</span><span>'plotly_white'</span>) </span>
+<span id="cb26-3">fig. Update_layout (xaxis_title<span>=</span><span>'Time to Maturity (Years)'</span>,        yaxis_title<span>=</span><span>'G-Spread'</span>,        template<span>=</span><span>'plotly_white'</span>) </span>
 <span id="cb26-4">fig.Show ()</span>
 ```
 
@@ -784,8 +784,8 @@ Going forward,  we will be using QuantLib for curve calibration (US Treasury + S
 ```latex
 <span id="cb29-1"><span># Construct fixed rate cashflow schedule for ORCL 2.95 04/01/30</span></span>
 <span id="cb29-2"></span>
-<span id="cb29-3">issue_date <span>=</span> ql.Date (<span>1</span>,      <span>4</span>,      <span>2020</span>)        <span># 2020-04-01</span></span>
-<span id="cb29-4">maturity_date <span>=</span> ql.Date (<span>1</span>,      <span>4</span>,      <span>2030</span>)     <span># 2030-04-01</span></span>
+<span id="cb29-3">issue_date <span>=</span> ql.Date (<span>1</span>,        <span>4</span>,        <span>2020</span>)        <span># 2020-04-01</span></span>
+<span id="cb29-4">maturity_date <span>=</span> ql.Date (<span>1</span>,        <span>4</span>,        <span>2030</span>)     <span># 2030-04-01</span></span>
 <span id="cb29-5"></span>
 <span id="cb29-6">coupon_freq <span>=</span> ql. Semiannual</span>
 <span id="cb29-7">coupon_term <span>=</span> ql.Period (coupon_freq)</span>
@@ -795,13 +795,13 @@ Going forward,  we will be using QuantLib for curve calibration (US Treasury + S
 <span id="cb29-11">month_end <span>=</span> <span>True</span></span>
 <span id="cb29-12"></span>
 <span id="cb29-13"><span># fixed_rate_schedule</span></span>
-<span id="cb29-14">fixed_rate_schedule <span>=</span> ql.Schedule (issue_date,     </span>
-<span id="cb29-15">                       maturity_date,     </span>
-<span id="cb29-16">                       coupon_term,     </span>
-<span id="cb29-17">                       calendar,     </span>
-<span id="cb29-18">                       day_count_conv,     </span>
-<span id="cb29-19">                       day_count_conv,     </span>
-<span id="cb29-20">                       date_generation,     </span>
+<span id="cb29-14">fixed_rate_schedule <span>=</span> ql.Schedule (issue_date,       </span>
+<span id="cb29-15">                       maturity_date,       </span>
+<span id="cb29-16">                       coupon_term,       </span>
+<span id="cb29-17">                       calendar,       </span>
+<span id="cb29-18">                       day_count_conv,       </span>
+<span id="cb29-19">                       day_count_conv,       </span>
+<span id="cb29-20">                       date_generation,       </span>
 <span id="cb29-21">                       month_end)</span>
 ```
 
@@ -828,21 +828,21 @@ Going forward,  we will be using QuantLib for curve calibration (US Treasury + S
 <span id="cb30-20"><span># Construct the fixed_rate_bond</span></span>
 <span id="cb30-21">face_value <span>=</span> <span>100</span></span>
 <span id="cb30-22">fixed_rate_bond <span>=</span> ql.FixedRateBond (</span>
-<span id="cb30-23">    settlement_days,     </span>
-<span id="cb30-24">    face_value,     </span>
-<span id="cb30-25">    fixed_rate_schedule,     </span>
-<span id="cb30-26">    coupons,     </span>
-<span id="cb30-27">    day_count,     </span>
+<span id="cb30-23">    settlement_days,       </span>
+<span id="cb30-24">    face_value,       </span>
+<span id="cb30-25">    fixed_rate_schedule,       </span>
+<span id="cb30-26">    coupons,       </span>
+<span id="cb30-27">    day_count,       </span>
 <span id="cb30-28">    payment_convention)</span>
 ```
 
 ```latex
 <span id="cb31-1"><span># Display the contractual cashflows. </span></span>
-<span id="cb31-2">x <span>=</span> [(cf.Date (). To_date (),      cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
-<span id="cb31-3">cf_date_fixed,      cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
-<span id="cb31-4">fixed_rate_bond_cashflows <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_fixed,      <span>'CashFlowAmount'</span>: cf_amount})</span>
+<span id="cb31-2">x <span>=</span> [(cf.Date (). To_date (),        cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
+<span id="cb31-3">cf_date_fixed,        cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
+<span id="cb31-4">fixed_rate_bond_cashflows <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_fixed,        <span>'CashFlowAmount'</span>: cf_amount})</span>
 <span id="cb31-5"></span>
-<span id="cb31-6"><span># Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),      up to the face value multiplier.</span></span>
+<span id="cb31-6"><span># Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),        up to the face value multiplier.</span></span>
 <span id="cb31-7">display (fixed_rate_bond_cashflows)</span>
 ```
 
@@ -959,36 +959,36 @@ Going forward,  we will be using QuantLib for curve calibration (US Treasury + S
 <span id="cb39-1"><span># dates</span></span>
 <span id="cb39-2">todays_date <span>=</span> ql.Date.TodaysDate ()</span>
 <span id="cb39-3">test_date <span>=</span> todays_date <span>+</span> <span>90</span></span>
-<span id="cb39-4"><span>print</span>(<span>'todays_date ='</span>,      todays_date)</span>
-<span id="cb39-5"><span>print</span>(<span>'test_date ='</span>,      test_date)</span>
+<span id="cb39-4"><span>print</span>(<span>'todays_date ='</span>,        todays_date)</span>
+<span id="cb39-5"><span>print</span>(<span>'test_date ='</span>,        test_date)</span>
 <span id="cb39-6"></span>
 <span id="cb39-7"></span>
 <span id="cb39-8"><span># calendars</span></span>
 <span id="cb39-9">calendar <span>=</span> ql.UnitedStates (ql. UnitedStates. GovernmentBond)</span>
-<span id="cb39-10">holiday_list <span>=</span> <span>list</span>(calendar.HolidayList (todays_date,      test_date))</span>
-<span id="cb39-11"><span>print</span>(<span>'holiday_list ='</span>,      holiday_list)</span>
+<span id="cb39-10">holiday_list <span>=</span> <span>list</span>(calendar.HolidayList (todays_date,        test_date))</span>
+<span id="cb39-11"><span>print</span>(<span>'holiday_list ='</span>,        holiday_list)</span>
 <span id="cb39-12"></span>
 <span id="cb39-13"></span>
 <span id="cb39-14"><span># day count conventions</span></span>
 <span id="cb39-15">day_count <span>=</span> ql. Actual 360 ()</span>
-<span id="cb39-16"><span>print</span>(<span>'day_count ='</span>,      day_count)</span>
+<span id="cb39-16"><span>print</span>(<span>'day_count ='</span>,        day_count)</span>
 <span id="cb39-17"></span>
 <span id="cb39-18"><span># year fractions</span></span>
-<span id="cb39-19">test_year_fraction <span>=</span> day_count.YearFraction (todays_date,      test_date)</span>
-<span id="cb39-20"><span>print</span>(<span>'Year Fraction  from'</span>,      todays_date,      <span>'to'</span>,      test_date,     <span>'] ='</span>,      test_year_fraction)</span>
+<span id="cb39-19">test_year_fraction <span>=</span> day_count.YearFraction (todays_date,        test_date)</span>
+<span id="cb39-20"><span>print</span>(<span>'Year Fraction  from'</span>,        todays_date,        <span>'to'</span>,        test_date,       <span>'] ='</span>,        test_year_fraction)</span>
 ```
 
 ```latex
-Todays_date = October 6 th,      2024
-Test_date = January 4 th,      2025
-Holiday_list = [Date (14,     10,     2024),      Date (11,     11,     2024),      Date (28,     11,     2024),      Date (25,     12,     2024),      Date (1,     1,     2025)]
+Todays_date = October 6 th,        2024
+Test_date = January 4 th,        2025
+Holiday_list = [Date (14,       10,       2024),        Date (11,       11,       2024),        Date (28,       11,       2024),        Date (25,       12,       2024),        Date (1,       1,       2025)]
 Day_count = Actual/360 day counter
-Year Fraction  from October 6 th,      2024 to January 4 th,      2025 ] = 0.25
-Todays_date = October 6 th,      2024
-Test_date = January 4 th,      2025
-Holiday_list = [Date (14,     10,     2024),      Date (11,     11,     2024),      Date (28,     11,     2024),      Date (25,     12,     2024),      Date (1,     1,     2025)]
+Year Fraction  from October 6 th,        2024 to January 4 th,        2025 ] = 0.25
+Todays_date = October 6 th,        2024
+Test_date = January 4 th,        2025
+Holiday_list = [Date (14,       10,       2024),        Date (11,       11,       2024),        Date (28,       11,       2024),        Date (25,       12,       2024),        Date (1,       1,       2025)]
 Day_count = Actual/360 day counter
-Year Fraction  from October 6 th,      2024 to January 4 th,      2025 ] = 0.25
+Year Fraction  from October 6 th,        2024 to January 4 th,        2025 ] = 0.25
 ```
 
 ## 2. Cashflow Schedules
@@ -996,8 +996,8 @@ Year Fraction  from October 6 th,      2024 to January 4 th,      2025 ] = 0.25
 ## a. Construct semi-annual cashflow schedule object,  for fixed-rate bonds
 
 ```latex
-<span id="cb41-1">issue_date <span>=</span> ql.Date (<span>2</span>,      <span>4</span>,      <span>2024</span>)        <span># 2024-04-02</span></span>
-<span id="cb41-2">maturity_date <span>=</span> ql.Date (<span>2</span>,      <span>4</span>,      <span>2028</span>)     <span># 2028-04-02</span></span>
+<span id="cb41-1">issue_date <span>=</span> ql.Date (<span>2</span>,        <span>4</span>,        <span>2024</span>)        <span># 2024-04-02</span></span>
+<span id="cb41-2">maturity_date <span>=</span> ql.Date (<span>2</span>,        <span>4</span>,        <span>2028</span>)     <span># 2028-04-02</span></span>
 <span id="cb41-3">coupon_freq <span>=</span> ql. Semiannual</span>
 <span id="cb41-4">coupon_term <span>=</span> ql.Period (coupon_freq)</span>
 <span id="cb41-5">calendar <span>=</span> ql.UnitedStates (ql. UnitedStates. GovernmentBond)</span>
@@ -1006,13 +1006,13 @@ Year Fraction  from October 6 th,      2024 to January 4 th,      2025 ] = 0.25
 <span id="cb41-8">month_end <span>=</span> <span>True</span></span>
 <span id="cb41-9"></span>
 <span id="cb41-10"><span># fixed_rate_schedule</span></span>
-<span id="cb41-11">fixed_rate_schedule <span>=</span> ql.Schedule (issue_date,     </span>
-<span id="cb41-12">                       maturity_date,     </span>
-<span id="cb41-13">                       coupon_term,     </span>
-<span id="cb41-14">                       calendar,     </span>
-<span id="cb41-15">                       day_count_conv,     </span>
-<span id="cb41-16">                       day_count_conv,     </span>
-<span id="cb41-17">                       date_generation,     </span>
+<span id="cb41-11">fixed_rate_schedule <span>=</span> ql.Schedule (issue_date,       </span>
+<span id="cb41-12">                       maturity_date,       </span>
+<span id="cb41-13">                       coupon_term,       </span>
+<span id="cb41-14">                       calendar,       </span>
+<span id="cb41-15">                       day_count_conv,       </span>
+<span id="cb41-16">                       day_count_conv,       </span>
+<span id="cb41-17">                       date_generation,       </span>
 <span id="cb41-18">                       month_end)</span>
 ```
 
@@ -1023,24 +1023,24 @@ Year Fraction  from October 6 th,      2024 to January 4 th,      2025 ] = 0.25
 - use startDate (),  endDate ()
 
 ```latex
-<span id="cb42-1"><span>print</span>(<span>"All dates: "</span>,      <span>list</span>(fixed_rate_schedule))</span>
-<span id="cb42-2"><span>print</span>(<span>"Length: "</span>,      <span>len</span>(fixed_rate_schedule))</span>
-<span id="cb42-3"><span>print</span>(<span>"The 3 rd coupon date: "</span>,      [fixed_rate_schedule])  <span># random access</span></span>
-<span id="cb42-4"><span>print</span>(<span>"Start Date: "</span>,      fixed_rate_schedule.StartDate ())</span>
-<span id="cb42-5"><span>print</span>(<span>"End Date: "</span>,      fixed_rate_schedule.EndDate ())</span>
+<span id="cb42-1"><span>print</span>(<span>"All dates: "</span>,        <span>list</span>(fixed_rate_schedule))</span>
+<span id="cb42-2"><span>print</span>(<span>"Length: "</span>,        <span>len</span>(fixed_rate_schedule))</span>
+<span id="cb42-3"><span>print</span>(<span>"The 3 rd coupon date: "</span>,        [fixed_rate_schedule])  <span># random access</span></span>
+<span id="cb42-4"><span>print</span>(<span>"Start Date: "</span>,        fixed_rate_schedule.StartDate ())</span>
+<span id="cb42-5"><span>print</span>(<span>"End Date: "</span>,        fixed_rate_schedule.EndDate ())</span>
 ```
 
 ```latex
-All dates:  [Date (2,     4,     2024),      Date (2,     10,     2024),      Date (2,     4,     2025),      Date (2,     10,     2025),      Date (2,     4,     2026),      Date (2,     10,     2026),      Date (2,     4,     2027),      Date (2,     10,     2027),      Date (2,     4,     2028)]
+All dates:  [Date (2,       4,       2024),        Date (2,       10,       2024),        Date (2,       4,       2025),        Date (2,       10,       2025),        Date (2,       4,       2026),        Date (2,       10,       2026),        Date (2,       4,       2027),        Date (2,       10,       2027),        Date (2,       4,       2028)]
 Length:  9
 The 3 rd coupon date:  [&lt; QuantLib. QuantLib. Schedule; proxy of &lt; Swig Object of type 'Schedule *' at 0 x 3073 ef 540&gt; &gt;]
-Start Date:  April 2 nd,      2024
-End Date:  April 2 nd,      2028
-All dates:  [Date (2,     4,     2024),      Date (2,     10,     2024),      Date (2,     4,     2025),      Date (2,     10,     2025),      Date (2,     4,     2026),      Date (2,     10,     2026),      Date (2,     4,     2027),      Date (2,     10,     2027),      Date (2,     4,     2028)]
+Start Date:  April 2 nd,        2024
+End Date:  April 2 nd,        2028
+All dates:  [Date (2,       4,       2024),        Date (2,       10,       2024),        Date (2,       4,       2025),        Date (2,       10,       2025),        Date (2,       4,       2026),        Date (2,       10,       2026),        Date (2,       4,       2027),        Date (2,       10,       2027),        Date (2,       4,       2028)]
 Length:  9
 The 3 rd coupon date:  [&lt; QuantLib. QuantLib. Schedule; proxy of &lt; Swig Object of type 'Schedule *' at 0 x 3073 ef 540&gt; &gt;]
-Start Date:  April 2 nd,      2024
-End Date:  April 2 nd,      2028
+Start Date:  April 2 nd,        2024
+End Date:  April 2 nd,        2028
 ```
 
 ## c. Construct quarterly cashflow schedule object,  for floating-rate bonds
@@ -1048,35 +1048,35 @@ End Date:  April 2 nd,      2028
 ```latex
 <span id="cb44-1"><span># floating_rate_bond_schedule</span></span>
 <span id="cb44-2">floating_rate_schedule <span>=</span> ql.Schedule (</span>
-<span id="cb44-3">    issue_date,     </span>
-<span id="cb44-4">    maturity_date,     </span>
-<span id="cb44-5">    ql.Period (ql. Quarterly),     </span>
-<span id="cb44-6">    calendar,     </span>
-<span id="cb44-7">    day_count_conv,     </span>
-<span id="cb44-8">    day_count_conv,     </span>
-<span id="cb44-9">    date_generation,     </span>
-<span id="cb44-10">    month_end,     </span>
+<span id="cb44-3">    issue_date,       </span>
+<span id="cb44-4">    maturity_date,       </span>
+<span id="cb44-5">    ql.Period (ql. Quarterly),       </span>
+<span id="cb44-6">    calendar,       </span>
+<span id="cb44-7">    day_count_conv,       </span>
+<span id="cb44-8">    day_count_conv,       </span>
+<span id="cb44-9">    date_generation,       </span>
+<span id="cb44-10">    month_end,       </span>
 <span id="cb44-11">)</span>
 ```
 
 ## d. Inspect the quarterly cashflow schedule
 
 ```latex
-<span id="cb45-1"><span>print</span>(<span>"All dates: "</span>,      <span>list</span>(floating_rate_schedule))</span>
-<span id="cb45-2"><span>print</span>(<span>"Length: "</span>,      <span>len</span>(floating_rate_schedule))</span>
-<span id="cb45-3"><span>print</span>(<span>"Start Date: "</span>,      fixed_rate_schedule.StartDate ())</span>
-<span id="cb45-4"><span>print</span>(<span>"End Date: "</span>,      fixed_rate_schedule.EndDate ())</span>
+<span id="cb45-1"><span>print</span>(<span>"All dates: "</span>,        <span>list</span>(floating_rate_schedule))</span>
+<span id="cb45-2"><span>print</span>(<span>"Length: "</span>,        <span>len</span>(floating_rate_schedule))</span>
+<span id="cb45-3"><span>print</span>(<span>"Start Date: "</span>,        fixed_rate_schedule.StartDate ())</span>
+<span id="cb45-4"><span>print</span>(<span>"End Date: "</span>,        fixed_rate_schedule.EndDate ())</span>
 ```
 
 ```latex
-All dates:  [Date (2,     4,     2024),      Date (2,     7,     2024),      Date (2,     10,     2024),      Date (2,     1,     2025),      Date (2,     4,     2025),      Date (2,     7,     2025),      Date (2,     10,     2025),      Date (2,     1,     2026),      Date (2,     4,     2026),      Date (2,     7,     2026),      Date (2,     10,     2026),      Date (2,     1,     2027),      Date (2,     4,     2027),      Date (2,     7,     2027),      Date (2,     10,     2027),      Date (2,     1,     2028),      Date (2,     4,     2028)]
+All dates:  [Date (2,       4,       2024),        Date (2,       7,       2024),        Date (2,       10,       2024),        Date (2,       1,       2025),        Date (2,       4,       2025),        Date (2,       7,       2025),        Date (2,       10,       2025),        Date (2,       1,       2026),        Date (2,       4,       2026),        Date (2,       7,       2026),        Date (2,       10,       2026),        Date (2,       1,       2027),        Date (2,       4,       2027),        Date (2,       7,       2027),        Date (2,       10,       2027),        Date (2,       1,       2028),        Date (2,       4,       2028)]
 Length:  17
-Start Date:  April 2 nd,      2024
-End Date:  April 2 nd,      2028
-All dates:  [Date (2,     4,     2024),      Date (2,     7,     2024),      Date (2,     10,     2024),      Date (2,     1,     2025),      Date (2,     4,     2025),      Date (2,     7,     2025),      Date (2,     10,     2025),      Date (2,     1,     2026),      Date (2,     4,     2026),      Date (2,     7,     2026),      Date (2,     10,     2026),      Date (2,     1,     2027),      Date (2,     4,     2027),      Date (2,     7,     2027),      Date (2,     10,     2027),      Date (2,     1,     2028),      Date (2,     4,     2028)]
+Start Date:  April 2 nd,        2024
+End Date:  April 2 nd,        2028
+All dates:  [Date (2,       4,       2024),        Date (2,       7,       2024),        Date (2,       10,       2024),        Date (2,       1,       2025),        Date (2,       4,       2025),        Date (2,       7,       2025),        Date (2,       10,       2025),        Date (2,       1,       2026),        Date (2,       4,       2026),        Date (2,       7,       2026),        Date (2,       10,       2026),        Date (2,       1,       2027),        Date (2,       4,       2027),        Date (2,       7,       2027),        Date (2,       10,       2027),        Date (2,       1,       2028),        Date (2,       4,       2028)]
 Length:  17
-Start Date:  April 2 nd,      2024
-End Date:  April 2 nd,      2028
+Start Date:  April 2 nd,        2024
+End Date:  April 2 nd,        2028
 ```
 
 ## 3. Discount Curve / Yield Curve Term Structure
@@ -1085,7 +1085,7 @@ End Date:  April 2 nd,      2028
 
 ```latex
 <span id="cb47-1"><span># Set the static valuation date: 2024-04-02</span></span>
-<span id="cb47-2">calc_date <span>=</span> ql.Date (<span>2</span>,      <span>4</span>,      <span>2024</span>)</span>
+<span id="cb47-2">calc_date <span>=</span> ql.Date (<span>2</span>,        <span>4</span>,        <span>2024</span>)</span>
 <span id="cb47-3">ql.Settings.Instance (). EvaluationDate <span>=</span> calc_date</span>
 <span id="cb47-4"></span>
 <span id="cb47-5"><span># using 5% flat interest rate for testing</span></span>
@@ -1094,7 +1094,7 @@ End Date:  April 2 nd,      2028
 <span id="cb47-8">day_count <span>=</span> ql. Actual 360 ()</span>
 <span id="cb47-9">calendar <span>=</span> ql.UnitedStates (ql. UnitedStates. GovernmentBond)</span>
 <span id="cb47-10">continuous_comp <span>=</span> ql. Continuous <span># continously compounded rate of 5%</span></span>
-<span id="cb47-11">flat_yield_curve <span>=</span> ql.FlatForward (calc_date,      rate_handle,      day_count,      continuous_comp)</span>
+<span id="cb47-11">flat_yield_curve <span>=</span> ql.FlatForward (calc_date,        rate_handle,        day_count,        continuous_comp)</span>
 <span id="cb47-12">flat_yield_curve_handle <span>=</span> ql.YieldTermStructureHandle (flat_yield_curve)</span>
 ```
 
@@ -1102,32 +1102,32 @@ End Date:  April 2 nd,      2028
 
 ```latex
 <span id="cb48-1">ref_date <span>=</span> flat_yield_curve.ReferenceDate ()</span>
-<span id="cb48-2">test_date <span>=</span> ql.Date (<span>30</span>,      <span>6</span>,      <span>2025</span>)</span>
+<span id="cb48-2">test_date <span>=</span> ql.Date (<span>30</span>,        <span>6</span>,        <span>2025</span>)</span>
 <span id="cb48-3"></span>
 <span id="cb48-4"><span># calc year fraction between ref_date and test_date</span></span>
-<span id="cb48-5">yearFrac <span>=</span> flat_yield_curve.DayCounter (). YearFraction (ref_date,      test_date)</span>
+<span id="cb48-5">yearFrac <span>=</span> flat_yield_curve.DayCounter (). YearFraction (ref_date,        test_date)</span>
 <span id="cb48-6"></span>
-<span id="cb48-7"><span>print</span>(<span>"Reference Date ="</span>,      ref_date)</span>
-<span id="cb48-8"><span>print</span>(<span>"Test Date ="</span>,      test_date)</span>
-<span id="cb48-9"><span>print</span>(<span>"Year Fraction between Reference Date and Test Date : "</span>,      yearFrac)</span>
-<span id="cb48-10"><span>print</span>(<span>"Discount Factor for Test Date"</span>,      test_date,      <span>": "</span>,      flat_yield_curve.Discount (test_date))</span>
-<span id="cb48-11"><span>print</span>(<span>"custom DF calculation for Test Date"</span>,      test_date,      <span>": "</span>,      np.Exp (<span>-</span>flat_rate.Value () <span>*</span> yearFrac))</span>
-<span id="cb48-12"><span>print</span>(<span>"Difference in Discount Factor: "</span>,      flat_yield_curve.Discount (test_date) <span>-</span> np.Exp (<span>-</span>flat_rate.Value () <span>*</span> yearFrac))</span>
+<span id="cb48-7"><span>print</span>(<span>"Reference Date ="</span>,        ref_date)</span>
+<span id="cb48-8"><span>print</span>(<span>"Test Date ="</span>,        test_date)</span>
+<span id="cb48-9"><span>print</span>(<span>"Year Fraction between Reference Date and Test Date : "</span>,        yearFrac)</span>
+<span id="cb48-10"><span>print</span>(<span>"Discount Factor for Test Date"</span>,        test_date,        <span>": "</span>,        flat_yield_curve.Discount (test_date))</span>
+<span id="cb48-11"><span>print</span>(<span>"custom DF calculation for Test Date"</span>,        test_date,        <span>": "</span>,        np.Exp (<span>-</span>flat_rate.Value () <span>*</span> yearFrac))</span>
+<span id="cb48-12"><span>print</span>(<span>"Difference in Discount Factor: "</span>,        flat_yield_curve.Discount (test_date) <span>-</span> np.Exp (<span>-</span>flat_rate.Value () <span>*</span> yearFrac))</span>
 <span id="cb48-13"></span>
 ```
 
 ```latex
-Reference Date = April 2 nd,      2024
-Test Date = June 30 th,      2025
+Reference Date = April 2 nd,        2024
+Test Date = June 30 th,        2025
 Year Fraction between Reference Date and Test Date :  1.261111111111111
-Discount Factor for Test Date June 30 th,      2025 :  0.9388913116117773
-Custom DF calculation for Test Date June 30 th,      2025 :  0.9388913116117772
+Discount Factor for Test Date June 30 th,        2025 :  0.9388913116117773
+Custom DF calculation for Test Date June 30 th,        2025 :  0.9388913116117772
 Difference in Discount Factor: 1.1102230246251565 e-16
-Reference Date = April 2 nd,      2024
-Test Date = June 30 th,      2025
+Reference Date = April 2 nd,        2024
+Test Date = June 30 th,        2025
 Year Fraction between Reference Date and Test Date :  1.261111111111111
-Discount Factor for Test Date June 30 th,      2025 :  0.9388913116117773
-Custom DF calculation for Test Date June 30 th,      2025 :  0.9388913116117772
+Discount Factor for Test Date June 30 th,        2025 :  0.9388913116117773
+Custom DF calculation for Test Date June 30 th,        2025 :  0.9388913116117772
 Difference in Discount Factor: 1.1102230246251565 e-16
 ```
 
@@ -1170,41 +1170,41 @@ Difference in Discount Factor: 1.1102230246251565 e-16
 <span id="cb50-32"><span># Construct the fixed_rate_bond</span></span>
 <span id="cb50-33">face_value <span>=</span> <span>100</span></span>
 <span id="cb50-34">fixed_rate_bond <span>=</span> ql.FixedRateBond (</span>
-<span id="cb50-35">    settlement_days,     </span>
-<span id="cb50-36">    face_value,     </span>
-<span id="cb50-37">    fixed_rate_schedule,     </span>
-<span id="cb50-38">    coupons,     </span>
-<span id="cb50-39">    day_count,     </span>
+<span id="cb50-35">    settlement_days,       </span>
+<span id="cb50-36">    face_value,       </span>
+<span id="cb50-37">    fixed_rate_schedule,       </span>
+<span id="cb50-38">    coupons,       </span>
+<span id="cb50-39">    day_count,       </span>
 <span id="cb50-40">    payment_convention)</span>
 ```
 
 ## b. Investigate the fixed-rate bond cash-flows
 
 ```latex
-<span id="cb51-1">x <span>=</span> [(cf.Date (),      cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
-<span id="cb51-2">cf_date_fixed,      cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
-<span id="cb51-3">cf_frame_fixed <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_fixed,      <span>'CashFlowAmount'</span>: cf_amount})</span>
+<span id="cb51-1">x <span>=</span> [(cf.Date (),        cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
+<span id="cb51-2">cf_date_fixed,        cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
+<span id="cb51-3">cf_frame_fixed <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_fixed,        <span>'CashFlowAmount'</span>: cf_amount})</span>
 <span id="cb51-4">display (cf_frame_fixed)</span>
 ```
 
 |  | CashFlowDate | CashFlowAmount |
 | --- | --- | --- |
-| 0 | October 2 nd,      2024 | 2.0 |
-| 1 | April 2 nd,      2025 | 2.0 |
-| 2 | October 2 nd,      2025 | 2.0 |
-| 3 | April 2 nd,      2026 | 2.0 |
-| 4 | October 2 nd,      2026 | 2.0 |
-| 5 | April 2 nd,      2027 | 2.0 |
-| 6 | October 2 nd,      2027 | 2.0 |
-| 7 | April 2 nd,      2028 | 2.0 |
-| 8 | April 2 nd,      2028 | 100.0 |
+| 0 | October 2 nd,        2024 | 2.0 |
+| 1 | April 2 nd,        2025 | 2.0 |
+| 2 | October 2 nd,        2025 | 2.0 |
+| 3 | April 2 nd,        2026 | 2.0 |
+| 4 | October 2 nd,        2026 | 2.0 |
+| 5 | April 2 nd,        2027 | 2.0 |
+| 6 | October 2 nd,        2027 | 2.0 |
+| 7 | April 2 nd,        2028 | 2.0 |
+| 8 | April 2 nd,        2028 | 100.0 |
 
 ## c. Constructing a floating rate bond object: linked to SOFR index
 
 ```latex
 <span id="cb52-1"><span># sofr_term_structure_handle: using 5% flat interest rate for testing</span></span>
 <span id="cb52-2">rate_handle <span>=</span> ql.QuoteHandle (ql.SimpleQuote (<span>5</span><span>/</span><span>100</span>))</span>
-<span id="cb52-3">sofr_term_structure <span>=</span> ql.FlatForward (calc_date,      rate_handle,      day_count_floater,      ql. Continuous)</span>
+<span id="cb52-3">sofr_term_structure <span>=</span> ql.FlatForward (calc_date,        rate_handle,        day_count_floater,        ql. Continuous)</span>
 <span id="cb52-4">sofr_term_structure_handle <span>=</span> ql.YieldTermStructureHandle (sofr_term_structure)</span>
 <span id="cb52-5"></span>
 <span id="cb52-6"><span># Set SOFR index history</span></span>
@@ -1213,47 +1213,47 @@ Difference in Discount Factor: 1.1102230246251565 e-16
 <span id="cb52-9"></span>
 <span id="cb52-10"><span># Set SOFR fixings</span></span>
 <span id="cb52-11">im.ClearHistory (sofr_index.Name ())</span>
-<span id="cb52-12">sofr_index.AddFixing (ql.Date (<span>28</span>,      ql. March,      <span>2024</span>),      <span>5</span><span>/</span><span>100</span>)</span>
-<span id="cb52-13">sofr_index.AddFixing (ql.Date (<span>1</span>,      ql. April,      <span>2024</span>),      <span>5</span><span>/</span><span>100</span>)</span>
+<span id="cb52-12">sofr_index.AddFixing (ql.Date (<span>28</span>,        ql. March,        <span>2024</span>),        <span>5</span><span>/</span><span>100</span>)</span>
+<span id="cb52-13">sofr_index.AddFixing (ql.Date (<span>1</span>,        ql. April,        <span>2024</span>),        <span>5</span><span>/</span><span>100</span>)</span>
 <span id="cb52-14"></span>
 <span id="cb52-15"></span>
 <span id="cb52-16"><span># floating_rate_bond</span></span>
-<span id="cb52-17">floating_rate_bond <span>=</span> ql.FloatingRateBond (settlement_days,     </span>
-<span id="cb52-18">                                face_value,     </span>
-<span id="cb52-19">                                floating_rate_schedule,     </span>
-<span id="cb52-20">                                sofr_index,     </span>
-<span id="cb52-21">                                day_count_floater,     </span>
-<span id="cb52-22">                                payment_convention,     </span>
-<span id="cb52-23">                                spreads<span>=</span>[<span>25</span><span>/</span><span>10000</span>],      <span># 25 bps floating rate</span></span>
+<span id="cb52-17">floating_rate_bond <span>=</span> ql.FloatingRateBond (settlement_days,       </span>
+<span id="cb52-18">                                face_value,       </span>
+<span id="cb52-19">                                floating_rate_schedule,       </span>
+<span id="cb52-20">                                sofr_index,       </span>
+<span id="cb52-21">                                day_count_floater,       </span>
+<span id="cb52-22">                                payment_convention,       </span>
+<span id="cb52-23">                                spreads<span>=</span>[<span>25</span><span>/</span><span>10000</span>],        <span># 25 bps floating rate</span></span>
 <span id="cb52-24">                                issueDate<span>=</span>issue_date)</span>
 ```
 
 ```latex
-<span id="cb53-1">x <span>=</span> [(cf.Date (),      cf.Amount ()) <span>for</span> cf <span>in</span> floating_rate_bond.Cashflows ()]</span>
-<span id="cb53-2">cf_date_float,      cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
-<span id="cb53-3">cf_frame_float <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_float,      <span>'CashFlowAmount'</span>: cf_amount})</span>
+<span id="cb53-1">x <span>=</span> [(cf.Date (),        cf.Amount ()) <span>for</span> cf <span>in</span> floating_rate_bond.Cashflows ()]</span>
+<span id="cb53-2">cf_date_float,        cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
+<span id="cb53-3">cf_frame_float <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date_float,        <span>'CashFlowAmount'</span>: cf_amount})</span>
 <span id="cb53-4">display (cf_frame_float)</span>
 ```
 
 |  | CashFlowDate | CashFlowAmount |
 | --- | --- | --- |
-| 0 | July 2 nd,      2024 | 1.335104 |
-| 1 | October 2 nd,      2024 | 1.349865 |
-| 2 | January 2 nd,      2025 | 1.349865 |
-| 3 | April 2 nd,      2025 | 1.320345 |
-| 4 | July 2 nd,      2025 | 1.335104 |
-| 5 | October 2 nd,      2025 | 1.349865 |
-| 6 | January 2 nd,      2026 | 1.349865 |
-| 7 | April 2 nd,      2026 | 1.320345 |
-| 8 | July 2 nd,      2026 | 1.335104 |
-| 9 | October 2 nd,      2026 | 1.349865 |
-| 10 | January 2 nd,      2027 | 1.350044 |
-| 11 | April 2 nd,      2027 | 1.320520 |
-| 12 | July 2 nd,      2027 | 1.335104 |
-| 13 | October 2 nd,      2027 | 1.350044 |
-| 14 | January 2 nd,      2028 | 1.350044 |
-| 15 | April 2 nd,      2028 | 1.335370 |
-| 16 | April 2 nd,      2028 | 100.000000 |
+| 0 | July 2 nd,        2024 | 1.335104 |
+| 1 | October 2 nd,        2024 | 1.349865 |
+| 2 | January 2 nd,        2025 | 1.349865 |
+| 3 | April 2 nd,        2025 | 1.320345 |
+| 4 | July 2 nd,        2025 | 1.335104 |
+| 5 | October 2 nd,        2025 | 1.349865 |
+| 6 | January 2 nd,        2026 | 1.349865 |
+| 7 | April 2 nd,        2026 | 1.320345 |
+| 8 | July 2 nd,        2026 | 1.335104 |
+| 9 | October 2 nd,        2026 | 1.349865 |
+| 10 | January 2 nd,        2027 | 1.350044 |
+| 11 | April 2 nd,        2027 | 1.320520 |
+| 12 | July 2 nd,        2027 | 1.335104 |
+| 13 | October 2 nd,        2027 | 1.350044 |
+| 14 | January 2 nd,        2028 | 1.350044 |
+| 15 | April 2 nd,        2028 | 1.335370 |
+| 16 | April 2 nd,        2028 | 100.000000 |
 
 ## 5. Bond Present Value Calculation (no credit risk)
 
@@ -1264,12 +1264,12 @@ Difference in Discount Factor: 1.1102230246251565 e-16
 <span id="cb54-2">bond_engine <span>=</span> ql.DiscountingBondEngine (flat_yield_curve_handle)</span>
 <span id="cb54-3">fixed_rate_bond.SetPricingEngine (bond_engine)</span>
 <span id="cb54-4">fixed_rate_bond_pv <span>=</span> fixed_rate_bond.NPV ()</span>
-<span id="cb54-5"><span>print</span>(<span>'fixed_rate_bond_pv ='</span>,      fixed_rate_bond_pv)</span>
+<span id="cb54-5"><span>print</span>(<span>'fixed_rate_bond_pv ='</span>,        fixed_rate_bond_pv)</span>
 <span id="cb54-6"></span>
 <span id="cb54-7"><span># floating_rate_bond PV</span></span>
 <span id="cb54-8">floating_rate_bond.SetPricingEngine (bond_engine)</span>
 <span id="cb54-9">floating_rate_bond_pv <span>=</span> floating_rate_bond.NPV ()</span>
-<span id="cb54-10"><span>print</span>(<span>'floating_rate_bond_pv ='</span>,      floating_rate_bond_pv)</span>
+<span id="cb54-10"><span>print</span>(<span>'floating_rate_bond_pv ='</span>,        floating_rate_bond_pv)</span>
 ```
 
 ```latex
@@ -1287,12 +1287,12 @@ Floating_rate_bond_pv = 100.91327849916415
 <span id="cb56-3">used_bond_pv <span>=</span> fixed_rate_bond_pv</span>
 <span id="cb56-4"></span>
 <span id="cb56-5"><span># Validate floating-rate bond PV</span></span>
-<span id="cb56-6">discount_yearfrac <span>=</span> np.Zeros ((<span>len</span>(used_cf_frame,     )))</span>
-<span id="cb56-7">discount_factor <span>=</span> np.Zeros ((<span>len</span>(used_cf_frame,     )))</span>
+<span id="cb56-6">discount_yearfrac <span>=</span> np.Zeros ((<span>len</span>(used_cf_frame,       )))</span>
+<span id="cb56-7">discount_factor <span>=</span> np.Zeros ((<span>len</span>(used_cf_frame,       )))</span>
 <span id="cb56-8"></span>
 <span id="cb56-9">i <span>=</span> <span>0</span></span>
 <span id="cb56-10"><span>for</span> cf_date <span>in</span> used_cf_frame[<span>'CashFlowDate'</span>]:</span>
-<span id="cb56-11">    discount_yearfrac[i] <span>=</span> flat_yield_curve.DayCounter (). YearFraction (flat_yield_curve.ReferenceDate (),      cf_date)</span>
+<span id="cb56-11">    discount_yearfrac[i] <span>=</span> flat_yield_curve.DayCounter (). YearFraction (flat_yield_curve.ReferenceDate (),        cf_date)</span>
 <span id="cb56-12">    discount_factor[i] <span>=</span> flat_yield_curve.Discount (cf_date)</span>
 <span id="cb56-13">    i <span>+=</span> <span>1</span></span>
 <span id="cb56-14"></span>
@@ -1305,21 +1305,21 @@ Floating_rate_bond_pv = 100.91327849916415
 
 |  | CashFlowDate | CashFlowAmount | YearFrac | DiscountFactor | NPV |
 | --- | --- | --- | --- | --- | --- |
-| 0 | October 2 nd,      2024 | 2.0 | 0.508333 | 0.974904 | 1.949807 |
-| 1 | April 2 nd,      2025 | 2.0 | 1.013889 | 0.950569 | 1.901138 |
-| 2 | October 2 nd,      2025 | 2.0 | 1.522222 | 0.926713 | 1.853426 |
-| 3 | April 2 nd,      2026 | 2.0 | 2.027778 | 0.903582 | 1.807163 |
-| 4 | October 2 nd,      2026 | 2.0 | 2.536111 | 0.880905 | 1.761810 |
-| 5 | April 2 nd,      2027 | 2.0 | 3.041667 | 0.858917 | 1.717833 |
-| 6 | October 2 nd,      2027 | 2.0 | 3.550000 | 0.837361 | 1.674722 |
-| 7 | April 2 nd,      2028 | 2.0 | 4.058333 | 0.816346 | 1.632693 |
-| 8 | April 2 nd,      2028 | 100.0 | 4.058333 | 0.816346 | 81.634627 |
+| 0 | October 2 nd,        2024 | 2.0 | 0.508333 | 0.974904 | 1.949807 |
+| 1 | April 2 nd,        2025 | 2.0 | 1.013889 | 0.950569 | 1.901138 |
+| 2 | October 2 nd,        2025 | 2.0 | 1.522222 | 0.926713 | 1.853426 |
+| 3 | April 2 nd,        2026 | 2.0 | 2.027778 | 0.903582 | 1.807163 |
+| 4 | October 2 nd,        2026 | 2.0 | 2.536111 | 0.880905 | 1.761810 |
+| 5 | April 2 nd,        2027 | 2.0 | 3.041667 | 0.858917 | 1.717833 |
+| 6 | October 2 nd,        2027 | 2.0 | 3.550000 | 0.837361 | 1.674722 |
+| 7 | April 2 nd,        2028 | 2.0 | 4.058333 | 0.816346 | 1.632693 |
+| 8 | April 2 nd,        2028 | 100.0 | 4.058333 | 0.816346 | 81.634627 |
 
 ```latex
 <span id="cb57-1">pv_manual <span>=</span> used_cf_frame[<span>'NPV'</span>].<span>sum</span>()</span>
-<span id="cb57-2"><span>print</span>(<span>'NPV engine = '</span>,      used_bond_pv)</span>
-<span id="cb57-3"><span>print</span>(<span>'NPV manual = '</span>,      pv_manual)</span>
-<span id="cb57-4"><span>print</span>(<span>'NPV diff = '</span>,      pv_manual <span>-</span> used_bond_pv)</span>
+<span id="cb57-2"><span>print</span>(<span>'NPV engine = '</span>,        used_bond_pv)</span>
+<span id="cb57-3"><span>print</span>(<span>'NPV manual = '</span>,        pv_manual)</span>
+<span id="cb57-4"><span>print</span>(<span>'NPV diff = '</span>,        pv_manual <span>-</span> used_bond_pv)</span>
 ```
 
 ```latex
@@ -1334,19 +1334,19 @@ NPV diff =  0.0
 ## c. Bond Clean vs Dirty Prices (adjusted to settle date)
 
 ```latex
-<span id="cb59-1"><span>print</span>(<span>'Bond Notional = '</span>,      fixed_rate_bond.Notional ())</span>
-<span id="cb59-2"><span>print</span>(<span>'Settle Date = '</span>,      fixed_rate_bond.SettlementDate ())</span>
-<span id="cb59-3"><span>print</span>(<span>'Discount Factor to Settle Date = '</span>,      <span>round</span>(flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),      <span>4</span>))</span>
-<span id="cb59-4"><span>print</span>(<span>'Bond NPV (Calc Date) = '</span>,      <span>round</span>(fixed_rate_bond.NPV (),      <span>4</span>))</span>
-<span id="cb59-5"><span>print</span>(<span>'Bond NPV Adjusted to Settle Date = '</span>,      <span>round</span>(fixed_rate_bond.NPV () <span>/</span> flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),      <span>4</span>))</span>
-<span id="cb59-6"><span>print</span>(<span>'Bond Dirty Price = '</span>,      <span>round</span>(fixed_rate_bond.DirtyPrice (),      <span>4</span>))</span>
-<span id="cb59-7"><span>print</span>(<span>'Bond Clean Price = '</span>,      <span>round</span>(fixed_rate_bond.CleanPrice (),      <span>4</span>))</span>
-<span id="cb59-8"><span>print</span>(<span>'Bond Accrued = '</span>,      <span>round</span>(fixed_rate_bond.AccruedAmount (),      <span>4</span>))</span>
+<span id="cb59-1"><span>print</span>(<span>'Bond Notional = '</span>,        fixed_rate_bond.Notional ())</span>
+<span id="cb59-2"><span>print</span>(<span>'Settle Date = '</span>,        fixed_rate_bond.SettlementDate ())</span>
+<span id="cb59-3"><span>print</span>(<span>'Discount Factor to Settle Date = '</span>,        <span>round</span>(flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),        <span>4</span>))</span>
+<span id="cb59-4"><span>print</span>(<span>'Bond NPV (Calc Date) = '</span>,        <span>round</span>(fixed_rate_bond.NPV (),        <span>4</span>))</span>
+<span id="cb59-5"><span>print</span>(<span>'Bond NPV Adjusted to Settle Date = '</span>,        <span>round</span>(fixed_rate_bond.NPV () <span>/</span> flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),        <span>4</span>))</span>
+<span id="cb59-6"><span>print</span>(<span>'Bond Dirty Price = '</span>,        <span>round</span>(fixed_rate_bond.DirtyPrice (),        <span>4</span>))</span>
+<span id="cb59-7"><span>print</span>(<span>'Bond Clean Price = '</span>,        <span>round</span>(fixed_rate_bond.CleanPrice (),        <span>4</span>))</span>
+<span id="cb59-8"><span>print</span>(<span>'Bond Accrued = '</span>,        <span>round</span>(fixed_rate_bond.AccruedAmount (),        <span>4</span>))</span>
 ```
 
 ```latex
 Bond Notional =  100.0
-Settle Date =  April 3 rd,      2024
+Settle Date =  April 3 rd,        2024
 Discount Factor to Settle Date =  0.9999
 Bond NPV (Calc Date) =  95.9332
 Bond NPV Adjusted to Settle Date =  95.9465
@@ -1354,7 +1354,7 @@ Bond Dirty Price =  95.9465
 Bond Clean Price =  95.9356
 Bond Accrued =  0.0109
 Bond Notional =  100.0
-Settle Date =  April 3 rd,      2024
+Settle Date =  April 3 rd,        2024
 Discount Factor to Settle Date =  0.9999
 Bond NPV (Calc Date) =  95.9332
 Bond NPV Adjusted to Settle Date =  95.9465
@@ -1370,7 +1370,7 @@ Bond Accrued =  0.0109
 ```latex
 <span id="cb61-1"><span># start with interest_rate_bump = 0</span></span>
 <span id="cb61-2">interest_rate_bump <span>=</span> ql.SimpleQuote (<span>0.0</span>)</span>
-<span id="cb61-3">flat_yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (flat_yield_curve_handle,      ql.QuoteHandle (interest_rate_bump))</span>
+<span id="cb61-3">flat_yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (flat_yield_curve_handle,        ql.QuoteHandle (interest_rate_bump))</span>
 <span id="cb61-4"></span>
 <span id="cb61-5">bond_engine <span>=</span> ql.DiscountingBondEngine (ql.YieldTermStructureHandle (flat_yield_curve_bumped))</span>
 <span id="cb61-6">fixed_rate_bond.SetPricingEngine (bond_engine)</span>
@@ -1378,19 +1378,19 @@ Bond Accrued =  0.0109
 <span id="cb61-8">price_base <span>=</span> fixed_rate_bond.CleanPrice ()</span>
 <span id="cb61-9"></span>
 <span id="cb61-10"><span># Original price (zero interest rate bump)</span></span>
-<span id="cb61-11"><span>print</span>(<span>"Price (base case): "</span>,      <span>round</span>(price_base,      <span>4</span>))</span>
+<span id="cb61-11"><span>print</span>(<span>"Price (base case): "</span>,        <span>round</span>(price_base,        <span>4</span>))</span>
 <span id="cb61-12"></span>
 <span id="cb61-13"><span># Bump interest rate by +1 bps (parallel shift)</span></span>
 <span id="cb61-14">interest_rate_bump.SetValue (<span>0.0001</span>)</span>
 <span id="cb61-15">price_up_1 bp <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb61-16"><span>print</span>(<span>"Price in +1 bps scenario: "</span>,      <span>round</span>(price_up_1 bp,      <span>4</span>))</span>
-<span id="cb61-17"><span>print</span>(<span>"Price diff in +1 bps scenario: "</span>,      <span>round</span>(price_up_1 bp <span>-</span> price_base,      <span>6</span>))</span>
+<span id="cb61-16"><span>print</span>(<span>"Price in +1 bps scenario: "</span>,        <span>round</span>(price_up_1 bp,        <span>4</span>))</span>
+<span id="cb61-17"><span>print</span>(<span>"Price diff in +1 bps scenario: "</span>,        <span>round</span>(price_up_1 bp <span>-</span> price_base,        <span>6</span>))</span>
 <span id="cb61-18"></span>
 <span id="cb61-19"><span># Bump interest rate by -1 bps (parallel shift)</span></span>
 <span id="cb61-20">interest_rate_bump.SetValue (<span>-</span><span>0.0001</span>)</span>
 <span id="cb61-21">price_down_1 bp <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb61-22"><span>print</span>(<span>"Price for -1 bps scenario: "</span>,      <span>round</span>(price_down_1 bp,      <span>4</span>))</span>
-<span id="cb61-23"><span>print</span>(<span>"Price diff in -1 bps scenario: "</span>,      <span>round</span>(price_down_1 bp <span>-</span> price_base,      <span>6</span>))</span>
+<span id="cb61-22"><span>print</span>(<span>"Price for -1 bps scenario: "</span>,        <span>round</span>(price_down_1 bp,        <span>4</span>))</span>
+<span id="cb61-23"><span>print</span>(<span>"Price diff in -1 bps scenario: "</span>,        <span>round</span>(price_down_1 bp <span>-</span> price_base,        <span>6</span>))</span>
 <span id="cb61-24"></span>
 <span id="cb61-25"> <span># Remove interest rate bump</span></span>
 <span id="cb61-26">interest_rate_bump.SetValue (<span>0</span>)</span>
@@ -1414,14 +1414,14 @@ Price diff in -1 bps scenario:  0.036283
 
 ```latex
 <span id="cb63-1"><span># Compute scenario delta/gamma sensitivities</span></span>
-<span id="cb63-2">dv 01 <span>=</span> <span>round</span>((price_down_1 bp <span>-</span> price_base) <span>*</span> <span>1 e 4</span> <span>/</span> <span>100</span>,      <span>4</span>)</span>
-<span id="cb63-3">duration <span>=</span> <span>round</span>(dv 01 <span>/</span> fixed_rate_bond.DirtyPrice () <span>*</span> <span>100</span>,      <span>4</span>)</span>
+<span id="cb63-2">dv 01 <span>=</span> <span>round</span>((price_down_1 bp <span>-</span> price_base) <span>*</span> <span>1 e 4</span> <span>/</span> <span>100</span>,        <span>4</span>)</span>
+<span id="cb63-3">duration <span>=</span> <span>round</span>(dv 01 <span>/</span> fixed_rate_bond.DirtyPrice () <span>*</span> <span>100</span>,        <span>4</span>)</span>
 <span id="cb63-4">gamma_1 bp <span>=</span> (price_down_1 bp <span>-</span> <span>2</span><span>*</span>price_base <span>+</span> price_up_1 bp) <span>*</span> <span>1 e 8</span> <span>/</span> <span>100</span></span>
-<span id="cb63-5">convexity <span>=</span> <span>round</span>(gamma_1 bp <span>/</span> fixed_rate_bond.DirtyPrice () <span>*</span> <span>100</span>,      <span>4</span>)</span>
+<span id="cb63-5">convexity <span>=</span> <span>round</span>(gamma_1 bp <span>/</span> fixed_rate_bond.DirtyPrice () <span>*</span> <span>100</span>,        <span>4</span>)</span>
 <span id="cb63-6"></span>
-<span id="cb63-7"><span>print</span>(<span>"DV 01: "</span>,      dv 01)</span>
-<span id="cb63-8"><span>print</span>(<span>"Duration: "</span>,      duration)</span>
-<span id="cb63-9"><span>print</span>(<span>"Convexity: "</span>,      convexity)</span>
+<span id="cb63-7"><span>print</span>(<span>"DV 01: "</span>,        dv 01)</span>
+<span id="cb63-8"><span>print</span>(<span>"Duration: "</span>,        duration)</span>
+<span id="cb63-9"><span>print</span>(<span>"Convexity: "</span>,        convexity)</span>
 <span id="cb63-10"></span>
 <span id="cb63-11"></span>
 ```
@@ -1440,12 +1440,12 @@ Convexity:  14.9262
 ```latex
 <span id="cb65-1"><span># Use original interest rate yield of 5%</span></span>
 <span id="cb65-2"><span># flat_rate.SetValue (0.05)</span></span>
-<span id="cb65-3"><span>print</span>(<span>'Bond PV for'</span>,      flat_rate.Value ()<span>*</span><span>100</span>,      <span>'pct yield: '</span>,      <span>round</span>(fixed_rate_bond.NPV (),      <span>4</span>))</span>
+<span id="cb65-3"><span>print</span>(<span>'Bond PV for'</span>,        flat_rate.Value ()<span>*</span><span>100</span>,        <span>'pct yield: '</span>,        <span>round</span>(fixed_rate_bond.NPV (),        <span>4</span>))</span>
 <span id="cb65-4"></span>
 <span id="cb65-5"></span>
 <span id="cb65-6"><span># Change interest rate yield to 6% and recompute bond PV</span></span>
 <span id="cb65-7">flat_rate.SetValue (<span>0.06</span>)</span>
-<span id="cb65-8"><span>print</span>(<span>'Bond PV for'</span>,      flat_rate.Value ()<span>*</span><span>100</span>,      <span>'pct yield: '</span>,      <span>round</span>(fixed_rate_bond.NPV (),      <span>4</span>))</span>
+<span id="cb65-8"><span>print</span>(<span>'Bond PV for'</span>,        flat_rate.Value ()<span>*</span><span>100</span>,        <span>'pct yield: '</span>,        <span>round</span>(fixed_rate_bond.NPV (),        <span>4</span>))</span>
 <span id="cb65-9"></span>
 <span id="cb65-10"><span># Set interest rate yield back to 5%</span></span>
 <span id="cb65-11">flat_rate.SetValue (<span>0.05</span>)</span>
@@ -1470,26 +1470,26 @@ Bond PV for 6.0 pct yield: 92.3743
 <span id="cb67-7">settle_date <span>=</span> fixed_rate_bond.SettlementDate (calc_date)</span>
 <span id="cb67-8">day_counter <span>=</span> fixed_rate_bond.DayCounter ()</span>
 <span id="cb67-9"></span>
-<span id="cb67-10"><span>print</span>(<span>'day_counter ='</span>,      day_counter)</span>
-<span id="cb67-11"><span>print</span>(<span>'coupon_freq ='</span>,      coupon_freq)</span>
-<span id="cb67-12"><span>print</span>(<span>'calc_date ='</span>,      calc_date)</span>
-<span id="cb67-13"><span>print</span>(<span>'settle_date ='</span>,      settle_date)</span>
+<span id="cb67-10"><span>print</span>(<span>'day_counter ='</span>,        day_counter)</span>
+<span id="cb67-11"><span>print</span>(<span>'coupon_freq ='</span>,        coupon_freq)</span>
+<span id="cb67-12"><span>print</span>(<span>'calc_date ='</span>,        calc_date)</span>
+<span id="cb67-13"><span>print</span>(<span>'settle_date ='</span>,        settle_date)</span>
 <span id="cb67-14"></span>
 <span id="cb67-15"></span>
-<span id="cb67-16">implied_yield <span>=</span> fixed_rate_bond.BondYield (bond_market_price,      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>100</span></span>
-<span id="cb67-17"><span>print</span>(<span>'implied_yield ='</span>,      <span>round</span>(implied_yield,      <span>4</span>))</span>
+<span id="cb67-16">implied_yield <span>=</span> fixed_rate_bond.BondYield (bond_market_price,        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>100</span></span>
+<span id="cb67-17"><span>print</span>(<span>'implied_yield ='</span>,        <span>round</span>(implied_yield,        <span>4</span>))</span>
 ```
 
 ```latex
 Day_counter = Actual/Actual (ISMA) day counter
 Coupon_freq = 2
-Calc_date = April 2 nd,      2024
-Settle_date = April 3 rd,      2024
+Calc_date = April 2 nd,        2024
+Settle_date = April 3 rd,        2024
 Implied_yield = 5.4076
 Day_counter = Actual/Actual (ISMA) day counter
 Coupon_freq = 2
-Calc_date = April 2 nd,      2024
-Settle_date = April 3 rd,      2024
+Calc_date = April 2 nd,        2024
+Settle_date = April 3 rd,        2024
 Implied_yield = 5.4076
 ```
 
@@ -1500,21 +1500,21 @@ Implied_yield = 5.4076
 ```latex
 <span id="cb69-1"><span># flat_bond_yield (used as an input to compute duration and convexity)</span></span>
 <span id="cb69-2">flat_bond_yield <span>=</span> <span>5.5</span> <span># in pct</span></span>
-<span id="cb69-3">flat_bond_yield_rate <span>=</span> ql.InterestRate (flat_bond_yield<span>/</span><span>100</span>,      day_count,      compounding,      coupon_freq)</span>
+<span id="cb69-3">flat_bond_yield_rate <span>=</span> ql.InterestRate (flat_bond_yield<span>/</span><span>100</span>,        day_count,        compounding,        coupon_freq)</span>
 <span id="cb69-4"></span>
 <span id="cb69-5"><span># Calc Duration and Convexity</span></span>
-<span id="cb69-6">bond_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,      flat_bond_yield_rate)</span>
-<span id="cb69-7">bond_convexity <span>=</span> ql.BondFunctions.Convexity (fixed_rate_bond,      flat_bond_yield_rate)</span>
+<span id="cb69-6">bond_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,        flat_bond_yield_rate)</span>
+<span id="cb69-7">bond_convexity <span>=</span> ql.BondFunctions.Convexity (fixed_rate_bond,        flat_bond_yield_rate)</span>
 <span id="cb69-8"></span>
 <span id="cb69-9"><span># Calc z-spread for a given market price</span></span>
-<span id="cb69-10">bond_market_price <span>=</span> <span>95.3194</span>     <span># Clean market price,      implies zero Z-Spread!</span></span>
-<span id="cb69-11">bond_market_price <span>=</span> <span>95</span>          <span># Test market price,      implies Z-Spread &gt; 0</span></span>
-<span id="cb69-12">bond_zspread <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,      bond_market_price,      flat_yield_curve,      day_count,      compounding,      coupon_freq,      settle_date)</span>
+<span id="cb69-10">bond_market_price <span>=</span> <span>95.3194</span>     <span># Clean market price,        implies zero Z-Spread!</span></span>
+<span id="cb69-11">bond_market_price <span>=</span> <span>95</span>          <span># Test market price,        implies Z-Spread &gt; 0</span></span>
+<span id="cb69-12">bond_zspread <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,        bond_market_price,        flat_yield_curve,        day_count,        compounding,        coupon_freq,        settle_date)</span>
 <span id="cb69-13"></span>
 <span id="cb69-14"><span># Print results</span></span>
-<span id="cb69-15"><span>print</span>(<span>'Bond Duration ='</span>,      <span>round</span>(bond_duration,      <span>4</span>))</span>
-<span id="cb69-16"><span>print</span>(<span>'Bond Convexity ='</span>,      <span>round</span>(bond_convexity,      <span>4</span>))</span>
-<span id="cb69-17"><span>print</span>(<span>'Bond Z-Spread bps ='</span>,      <span>round</span>(bond_zspread <span>*</span> <span>10000</span>,      <span>4</span>))</span>
+<span id="cb69-15"><span>print</span>(<span>'Bond Duration ='</span>,        <span>round</span>(bond_duration,        <span>4</span>))</span>
+<span id="cb69-16"><span>print</span>(<span>'Bond Convexity ='</span>,        <span>round</span>(bond_convexity,        <span>4</span>))</span>
+<span id="cb69-17"><span>print</span>(<span>'Bond Z-Spread bps ='</span>,        <span>round</span>(bond_zspread <span>*</span> <span>10000</span>,        <span>4</span>))</span>
 ```
 
 ```latex
@@ -1529,10 +1529,10 @@ Bond Z-Spread bps = 26.5978
 ## b. Validate Z-Spread
 
 ```latex
-<span id="cb71-1"><span>def</span> calc_clean_price_with_zspread (fixed_rate_bond,      yield_curve_handle,      zspread):</span>
+<span id="cb71-1"><span>def</span> calc_clean_price_with_zspread (fixed_rate_bond,        yield_curve_handle,        zspread):</span>
 <span id="cb71-2">    zspread_quote <span>=</span> ql.SimpleQuote (zspread)</span>
 <span id="cb71-3">    zspread_quote_handle <span>=</span> ql.QuoteHandle (zspread_quote)</span>
-<span id="cb71-4">    yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (yield_curve_handle,      zspread_quote_handle,      ql. Compounded,      ql. Semiannual)</span>
+<span id="cb71-4">    yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (yield_curve_handle,        zspread_quote_handle,        ql. Compounded,        ql. Semiannual)</span>
 <span id="cb71-5">    yield_curve_bumped_handle <span>=</span> ql.YieldTermStructureHandle (yield_curve_bumped)</span>
 <span id="cb71-6">    </span>
 <span id="cb71-7">    <span># Set Valuation engine</span></span>
@@ -1544,12 +1544,12 @@ Bond Z-Spread bps = 26.5978
 
 ```latex
 <span id="cb72-1"><span># Compare the original and the z-spread computed clean prices</span></span>
-<span id="cb72-2">bond_zspread_price <span>=</span> calc_clean_price_with_zspread (fixed_rate_bond,      flat_yield_curve_handle,      bond_zspread)</span>
+<span id="cb72-2">bond_zspread_price <span>=</span> calc_clean_price_with_zspread (fixed_rate_bond,        flat_yield_curve_handle,        bond_zspread)</span>
 <span id="cb72-3"></span>
-<span id="cb72-4"><span>print</span>(<span>'Bond Z-Spread bps ='</span>,      <span>round</span>(bond_zspread <span>*</span> <span>10000</span>,      <span>2</span>))</span>
-<span id="cb72-5"><span>print</span>(<span>'bond_market_price ='</span>,      bond_market_price)</span>
-<span id="cb72-6"><span>print</span>(<span>'bond_zspread_price ='</span>,      bond_zspread_price)</span>
-<span id="cb72-7"><span>print</span>(<span>'bond price diff ='</span>,      bond_zspread_price <span>-</span> bond_market_price)</span>
+<span id="cb72-4"><span>print</span>(<span>'Bond Z-Spread bps ='</span>,        <span>round</span>(bond_zspread <span>*</span> <span>10000</span>,        <span>2</span>))</span>
+<span id="cb72-5"><span>print</span>(<span>'bond_market_price ='</span>,        bond_market_price)</span>
+<span id="cb72-6"><span>print</span>(<span>'bond_zspread_price ='</span>,        bond_zspread_price)</span>
+<span id="cb72-7"><span>print</span>(<span>'bond price diff ='</span>,        bond_zspread_price <span>-</span> bond_market_price)</span>
 ```
 
 ```latex
@@ -1577,12 +1577,12 @@ Bond price diff = -5.144329406903125 e-12
 <span id="cb74-7"></span>
 <span id="cb74-8"><span># Create BondHelper object</span></span>
 <span id="cb74-9">bond_helper <span>=</span> ql.BondHelper (</span>
-<span id="cb74-10">    tsy_clean_price_handle,     </span>
+<span id="cb74-10">    tsy_clean_price_handle,       </span>
 <span id="cb74-11">    fixed_rate_bond)</span>
 <span id="cb74-12"></span>
 <span id="cb74-13">bond_helper_list <span>=</span> [bond_helper]</span>
 <span id="cb74-14">        </span>
-<span id="cb74-15">tsy_flat_yield_curve <span>=</span> ql.PiecewiseLogCubicDiscount (calc_date,      bond_helper_list,      day_count)</span>
+<span id="cb74-15">tsy_flat_yield_curve <span>=</span> ql.PiecewiseLogCubicDiscount (calc_date,        bond_helper_list,        day_count)</span>
 <span id="cb74-16">tsy_flat_yield_curve.EnableExtrapolation ()</span>
 <span id="cb74-17"></span>
 <span id="cb74-18">tsy_yield_curve_handle <span>=</span> ql.YieldTermStructureHandle (tsy_flat_yield_curve)</span>
@@ -1591,19 +1591,19 @@ Bond price diff = -5.144329406903125 e-12
 ## b. Display the calibrated Treasury discount curve dataframe
 
 ```latex
-<span id="cb75-1"><span>def</span> get_yield_curve_details_df (yield_curve,      curve_dates<span>=</span><span>None</span>):</span>
+<span id="cb75-1"><span>def</span> get_yield_curve_details_df (yield_curve,        curve_dates<span>=</span><span>None</span>):</span>
 <span id="cb75-2">    </span>
 <span id="cb75-3">    <span>if</span>(curve_dates <span>==</span> <span>None</span>):</span>
 <span id="cb75-4">        curve_dates <span>=</span> yield_curve.Dates ()</span>
 <span id="cb75-5"></span>
 <span id="cb75-6">    dates <span>=</span> [d.to_date () <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb75-7">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb75-8">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb75-9">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,      yield_curve.DayCounter (),      ql. Compounded). Rate () <span>*</span> <span>100</span>,      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb75-7">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb75-8">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb75-9">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,        yield_curve.DayCounter (),        ql. Compounded). Rate () <span>*</span> <span>100</span>,        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
 <span id="cb75-10"></span>
-<span id="cb75-11">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,     </span>
-<span id="cb75-12">                             <span>'YearFrac'</span>: yearfracs,     </span>
-<span id="cb75-13">                             <span>'DiscountFactor'</span>: discounts,     </span>
+<span id="cb75-11">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,       </span>
+<span id="cb75-12">                             <span>'YearFrac'</span>: yearfracs,       </span>
+<span id="cb75-13">                             <span>'DiscountFactor'</span>: discounts,       </span>
 <span id="cb75-14">                             <span>'ZeroRate'</span>: zeroRates})                             </span>
 <span id="cb75-15">    <span>return</span> yield_curve_details_df</span>
 ```
@@ -1613,8 +1613,8 @@ Bond price diff = -5.144329406903125 e-12
 <span id="cb76-2">tsy_flat_yield_curve_simple_df <span>=</span> get_yield_curve_details_df (tsy_flat_yield_curve)                  <span># using calibration grid</span></span>
 <span id="cb76-3">display (tsy_flat_yield_curve_simple_df)</span>
 <span id="cb76-4"></span>
-<span id="cb76-5">grid_dates <span>=</span> [tsy_flat_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,     <span>30</span>,     <span>2</span>))]</span>
-<span id="cb76-6">tsy_flat_yield_curve_details_df <span>=</span> get_yield_curve_details_df (tsy_flat_yield_curve,      grid_dates)    <span># using external grid</span></span>
+<span id="cb76-5">grid_dates <span>=</span> [tsy_flat_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,       <span>30</span>,       <span>2</span>))]</span>
+<span id="cb76-6">tsy_flat_yield_curve_details_df <span>=</span> get_yield_curve_details_df (tsy_flat_yield_curve,        grid_dates)    <span># using external grid</span></span>
 <span id="cb76-7">display (tsy_flat_yield_curve_details_df)</span>
 ```
 
@@ -1644,11 +1644,11 @@ Bond price diff = -5.144329406903125 e-12
 ## c. Plot the calibrated Treasury Zero Rates and Discount Factors curves
 
 ```latex
-<span id="cb77-1">plt <span>=</span> tsy_flat_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'ZeroRate'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'Treasury Flat Curve: Zero Rates'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb77-1">plt <span>=</span> tsy_flat_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'ZeroRate'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'Treasury Flat Curve: Zero Rates'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb77-2">plt. Set_ylabel (<span>'Zero Rate (%)'</span>)</span>
 <span id="cb77-3">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb77-4"></span>
-<span id="cb77-5">plt <span>=</span> tsy_flat_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'DiscountFactor'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'Treasury Flat Curve: Discount Factors'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb77-5">plt <span>=</span> tsy_flat_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'DiscountFactor'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'Treasury Flat Curve: Discount Factors'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb77-6">plt. Set_ylabel (<span>'Discount Factors'</span>)</span>
 <span id="cb77-7">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -1665,12 +1665,12 @@ Bond price diff = -5.144329406903125 e-12
 <span id="cb79-3"></span>
 <span id="cb79-4">fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)</span>
 <span id="cb79-5">risk_free_bond_price <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb79-6">risk_free_bond_yield <span>=</span> fixed_rate_bond.BondYield (risk_free_bond_price,      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>100</span></span>
+<span id="cb79-6">risk_free_bond_yield <span>=</span> fixed_rate_bond.BondYield (risk_free_bond_price,        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>100</span></span>
 <span id="cb79-7"></span>
-<span id="cb79-8"><span>print</span>(<span>'tsy_clean_price_quote: '</span>,      tsy_clean_price_quote)</span>
-<span id="cb79-9"><span>print</span>(<span>'risk_free_bond_price: '</span>,      risk_free_bond_price)</span>
-<span id="cb79-10"><span>print</span>(<span>'price_calibration_error: '</span>,      risk_free_bond_price<span>-</span>tsy_clean_price_quote)</span>
-<span id="cb79-11"><span>print</span>(<span>'risk_free_bond_yield: '</span>,      risk_free_bond_yield)</span>
+<span id="cb79-8"><span>print</span>(<span>'tsy_clean_price_quote: '</span>,        tsy_clean_price_quote)</span>
+<span id="cb79-9"><span>print</span>(<span>'risk_free_bond_price: '</span>,        risk_free_bond_price)</span>
+<span id="cb79-10"><span>print</span>(<span>'price_calibration_error: '</span>,        risk_free_bond_price<span>-</span>tsy_clean_price_quote)</span>
+<span id="cb79-11"><span>print</span>(<span>'risk_free_bond_yield: '</span>,        risk_free_bond_yield)</span>
 ```
 
 ```latex
@@ -1706,8 +1706,8 @@ This homework relies on:
 <span id="cb81-2"><span>import</span> pandas <span>as</span> pd</span>
 <span id="cb81-3"><span>import</span> datetime <span>as</span> dt</span>
 <span id="cb81-4"></span>
-<span id="cb81-5"><span># Use static calculation/valuation date of 2024-04-08,      matching data available in the market prices EOD file</span></span>
-<span id="cb81-6">calc_date <span>=</span> ql.Date (<span>8</span>,      <span>4</span>,      <span>2024</span>)</span>
+<span id="cb81-5"><span># Use static calculation/valuation date of 2024-04-08,        matching data available in the market prices EOD file</span></span>
+<span id="cb81-6">calc_date <span>=</span> ql.Date (<span>8</span>,        <span>4</span>,        <span>2024</span>)</span>
 <span id="cb81-7">ql.Settings.Instance (). EvaluationDate <span>=</span> calc_date</span>
 ```
 
@@ -1741,7 +1741,7 @@ Filter the symbology frame for fixed rate bonds only (cpn_type=“FIXED”).
 <span id="cb82-21"></span>
 <span id="cb82-22">bond_symbology</span>
 <span id="cb82-23"></span>
-<span id="cb82-24"><span># Load govt_on_the_run,      as of 2024-04-08</span></span>
+<span id="cb82-24"><span># Load govt_on_the_run,        as of 2024-04-08</span></span>
 <span id="cb82-25"></span>
 <span id="cb82-26"></span>
 <span id="cb82-27"><span># Keep OTR treasuries only</span></span>
@@ -1782,13 +1782,13 @@ Use one row of the symbology dataframe as input to the function. Use the helper 
 <span id="cb83-2">    <span>"""</span></span>
 <span id="cb83-3"><span>    convert dt. Date to ql. Date</span></span>
 <span id="cb83-4"><span>    """</span></span>
-<span id="cb83-5">    <span>if</span> <span>isinstance</span>(date,      dt. Date):</span>
-<span id="cb83-6">        <span>return</span> ql.Date (date. Day,      date. Month,      date. Year)</span>
-<span id="cb83-7">    <span>elif</span> <span>isinstance</span>(date,      <span>str</span>):</span>
-<span id="cb83-8">        date <span>=</span> dt.Datetime.Strptime (date,      <span>"%Y-%m-</span><span>%d</span><span>"</span>). Date ()</span>
-<span id="cb83-9">        <span>return</span> ql.Date (date. Day,      date. Month,      date. Year)</span>
+<span id="cb83-5">    <span>if</span> <span>isinstance</span>(date,        dt. Date):</span>
+<span id="cb83-6">        <span>return</span> ql.Date (date. Day,        date. Month,        date. Year)</span>
+<span id="cb83-7">    <span>elif</span> <span>isinstance</span>(date,        <span>str</span>):</span>
+<span id="cb83-8">        date <span>=</span> dt.Datetime.Strptime (date,        <span>"%Y-%m-</span><span>%d</span><span>"</span>). Date ()</span>
+<span id="cb83-9">        <span>return</span> ql.Date (date. Day,        date. Month,        date. Year)</span>
 <span id="cb83-10">    <span>else</span>:</span>
-<span id="cb83-11">        <span>raise</span> <span>ValueError</span>(<span>f"to_qldate,      </span><span>{</span><span>type</span>(date)<span>}</span><span>,      </span><span>{</span>date<span>}</span><span>"</span>)</span>
+<span id="cb83-11">        <span>raise</span> <span>ValueError</span>(<span>f"to_qldate,        </span><span>{</span><span>type</span>(date)<span>}</span><span>,        </span><span>{</span>date<span>}</span><span>"</span>)</span>
 ```
 
 ```latex
@@ -1818,15 +1818,15 @@ Use one row of the symbology dataframe as input to the function. Use the helper 
 <span id="cb84-24">    date_generation<span>=</span>ql. DateGeneration. Backward</span>
 <span id="cb84-25">    </span>
 <span id="cb84-26">    <span># Create schedule using ql. MakeSchedule interface (with keyword arguments)</span></span>
-<span id="cb84-27">    schedule <span>=</span> ql.MakeSchedule (effectiveDate<span>=</span>acc_first,       <span># this may not be the same as the bond's start date</span></span>
-<span id="cb84-28">                            terminationDate<span>=</span>maturity,     </span>
-<span id="cb84-29">                            tenor<span>=</span>period,     </span>
-<span id="cb84-30">                            calendar<span>=</span>calendar,     </span>
-<span id="cb84-31">                            convention<span>=</span>business_day_convention,     </span>
-<span id="cb84-32">                            terminalDateConvention<span>=</span>termination_date_convention,     </span>
-<span id="cb84-33">                            rule<span>=</span>date_generation,     </span>
-<span id="cb84-34">                            endOfMonth<span>=</span><span>True</span>,     </span>
-<span id="cb84-35">                            firstDate<span>=</span>ql.Date (),     </span>
+<span id="cb84-27">    schedule <span>=</span> ql.MakeSchedule (effectiveDate<span>=</span>acc_first,         <span># this may not be the same as the bond's start date</span></span>
+<span id="cb84-28">                            terminationDate<span>=</span>maturity,       </span>
+<span id="cb84-29">                            tenor<span>=</span>period,       </span>
+<span id="cb84-30">                            calendar<span>=</span>calendar,       </span>
+<span id="cb84-31">                            convention<span>=</span>business_day_convention,       </span>
+<span id="cb84-32">                            terminalDateConvention<span>=</span>termination_date_convention,       </span>
+<span id="cb84-33">                            rule<span>=</span>date_generation,       </span>
+<span id="cb84-34">                            endOfMonth<span>=</span><span>True</span>,       </span>
+<span id="cb84-35">                            firstDate<span>=</span>ql.Date (),       </span>
 <span id="cb84-36">                            nextToLastDate<span>=</span>ql.Date ())</span>
 <span id="cb84-37">    <span>return</span> schedule</span>
 ```
@@ -1834,12 +1834,12 @@ Use one row of the symbology dataframe as input to the function. Use the helper 
 ```latex
 <span id="cb85-1"><span># Use one row of the symbology dataframe as input to the create_schedule_from_symbology () function.</span></span>
 <span id="cb85-2">corp_bond_details <span>=</span> bond_symbology[bond_symbology[<span>'class'</span>] <span>==</span> <span>'Corp'</span>]. Iloc[<span>10</span>]</span>
-<span id="cb85-3"><span>print</span>(<span>"Corp bond details for"</span>,      corp_bond_details[<span>'security'</span>])</span>
+<span id="cb85-3"><span>print</span>(<span>"Corp bond details for"</span>,        corp_bond_details[<span>'security'</span>])</span>
 <span id="cb85-4">display (corp_bond_details)</span>
 <span id="cb85-5"></span>
 <span id="cb85-6"><span># Create cashflow_schedule</span></span>
 <span id="cb85-7">cashflow_schedule <span>=</span> create_schedule_from_symbology (corp_bond_details)</span>
-<span id="cb85-8">display (<span>"Cashflow dates for"</span>,      corp_bond_details[<span>'security'</span>])</span>
+<span id="cb85-8">display (<span>"Cashflow dates for"</span>,        corp_bond_details[<span>'security'</span>])</span>
 <span id="cb85-9"></span>
 <span id="cb85-10"><span># List cashflow dates</span></span>
 <span id="cb85-11"><span>for</span> date <span>in</span> cashflow_schedule:</span>
@@ -1850,48 +1850,48 @@ Use one row of the symbology dataframe as input to the function. Use the helper 
 ```latex
 Corp bond details for AAPL 3.35 02/09/27
 Corp bond details for AAPL 3.35 02/09/27
-February 9 th,      2017
-August 9 th,      2017
-February 9 th,      2018
-August 9 th,      2018
-February 9 th,      2019
-August 9 th,      2019
-February 9 th,      2020
-August 9 th,      2020
-February 9 th,      2021
-August 9 th,      2021
-February 9 th,      2022
-August 9 th,      2022
-February 9 th,      2023
-August 9 th,      2023
-February 9 th,      2024
-August 9 th,      2024
-February 9 th,      2025
-August 9 th,      2025
-February 9 th,      2026
-August 9 th,      2026
-February 9 th,      2027
-February 9 th,      2017
-August 9 th,      2017
-February 9 th,      2018
-August 9 th,      2018
-February 9 th,      2019
-August 9 th,      2019
-February 9 th,      2020
-August 9 th,      2020
-February 9 th,      2021
-August 9 th,      2021
-February 9 th,      2022
-August 9 th,      2022
-February 9 th,      2023
-August 9 th,      2023
-February 9 th,      2024
-August 9 th,      2024
-February 9 th,      2025
-August 9 th,      2025
-February 9 th,      2026
-August 9 th,      2026
-February 9 th,      2027
+February 9 th,        2017
+August 9 th,        2017
+February 9 th,        2018
+August 9 th,        2018
+February 9 th,        2019
+August 9 th,        2019
+February 9 th,        2020
+August 9 th,        2020
+February 9 th,        2021
+August 9 th,        2021
+February 9 th,        2022
+August 9 th,        2022
+February 9 th,        2023
+August 9 th,        2023
+February 9 th,        2024
+August 9 th,        2024
+February 9 th,        2025
+August 9 th,        2025
+February 9 th,        2026
+August 9 th,        2026
+February 9 th,        2027
+February 9 th,        2017
+August 9 th,        2017
+February 9 th,        2018
+August 9 th,        2018
+February 9 th,        2019
+August 9 th,        2019
+February 9 th,        2020
+August 9 th,        2020
+February 9 th,        2021
+August 9 th,        2021
+February 9 th,        2022
+August 9 th,        2022
+February 9 th,        2023
+August 9 th,        2023
+February 9 th,        2024
+August 9 th,        2024
+February 9 th,        2025
+August 9 th,        2025
+February 9 th,        2026
+August 9 th,        2026
+February 9 th,        2027
 ```
 
 ```latex
@@ -1920,7 +1920,7 @@ Currency                          USD
 Status                           ACTV
 Term                         9.998631
 TTM                          2.839151
-Name: 10,      dtype: object
+Name: 10,        dtype: object
 ```
 
 ## c. Add function to construct generic fixed rate bond objects from symbology data
@@ -1941,7 +1941,7 @@ Use one row of the symbology dataframe as input to the function. Use create_sche
 <span id="cb90-11">    <span>elif</span> details[<span>'class'</span>] <span>==</span> <span>'Govt'</span>:</span>
 <span id="cb90-12">        day_count <span>=</span> ql.ActualActual (ql. ActualActual. ISMA)</span>
 <span id="cb90-13">    <span>else</span>:</span>
-<span id="cb90-14">        <span>raise</span> <span>ValueError</span>(<span>f"unsupported asset class,      </span><span>{</span><span>type</span>(details[<span>'class'</span>])<span>}</span><span>,      </span><span>{</span>details[<span>'class'</span>]<span>}</span><span>"</span>)</span>
+<span id="cb90-14">        <span>raise</span> <span>ValueError</span>(<span>f"unsupported asset class,        </span><span>{</span><span>type</span>(details[<span>'class'</span>])<span>}</span><span>,        </span><span>{</span>details[<span>'class'</span>]<span>}</span><span>"</span>)</span>
 <span id="cb90-15"></span>
 <span id="cb90-16">    </span>
 <span id="cb90-17">    <span># Create issue_date from details['start_date']</span></span>
@@ -1964,13 +1964,13 @@ Use one row of the symbology dataframe as input to the function. Use create_sche
 <span id="cb90-34">        </span>
 <span id="cb90-35">    <span># Create fixed rate bond object</span></span>
 <span id="cb90-36">    fixed_rate_bond <span>=</span> ql.FixedRateBond (</span>
-<span id="cb90-37">        days_settle,     </span>
-<span id="cb90-38">        face_value,     </span>
-<span id="cb90-39">        schedule,     </span>
-<span id="cb90-40">        [coupon],     </span>
-<span id="cb90-41">        day_count,     </span>
-<span id="cb90-42">        payment_convention,     </span>
-<span id="cb90-43">        redemption,     </span>
+<span id="cb90-37">        days_settle,       </span>
+<span id="cb90-38">        face_value,       </span>
+<span id="cb90-39">        schedule,       </span>
+<span id="cb90-40">        [coupon],       </span>
+<span id="cb90-41">        day_count,       </span>
+<span id="cb90-42">        payment_convention,       </span>
+<span id="cb90-43">        redemption,       </span>
 <span id="cb90-44">        issue_date)        </span>
 <span id="cb90-45"></span>
 <span id="cb90-46">    <span>return</span> fixed_rate_bond</span>
@@ -1980,20 +1980,20 @@ Use one row of the symbology dataframe as input to the function. Use create_sche
 <span id="cb91-1"><span># Use one row of the symbology dataframe as input to the function.</span></span>
 <span id="cb91-2">corp_bond_object <span>=</span> create_bond_from_symbology (corp_bond_details)</span>
 <span id="cb91-3"></span>
-<span id="cb91-4"><span>print</span>(<span>"Corp bond object details for"</span>,      corp_bond_details[<span>'security'</span>])</span>
-<span id="cb91-5"><span>print</span>(<span>'Start date: '</span>,      corp_bond_object.StartDate ())</span>
-<span id="cb91-6"><span>print</span>(<span>'Maturity date: '</span>,      corp_bond_object.MaturityDate ())</span>
-<span id="cb91-7"><span>print</span>(<span>'Bond face notional: '</span>,      corp_bond_object.Notional ())</span>
+<span id="cb91-4"><span>print</span>(<span>"Corp bond object details for"</span>,        corp_bond_details[<span>'security'</span>])</span>
+<span id="cb91-5"><span>print</span>(<span>'Start date: '</span>,        corp_bond_object.StartDate ())</span>
+<span id="cb91-6"><span>print</span>(<span>'Maturity date: '</span>,        corp_bond_object.MaturityDate ())</span>
+<span id="cb91-7"><span>print</span>(<span>'Bond face notional: '</span>,        corp_bond_object.Notional ())</span>
 ```
 
 ```latex
 Corp bond object details for AAPL 3.35 02/09/27
-Start date: February 9 th,      2017
-Maturity date: February 9 th,      2027
+Start date: February 9 th,        2017
+Maturity date: February 9 th,        2027
 Bond face notional: 100.0
 Corp bond object details for AAPL 3.35 02/09/27
-Start date: February 9 th,      2017
-Maturity date: February 9 th,      2027
+Start date: February 9 th,        2017
+Maturity date: February 9 th,        2027
 Bond face notional: 100.0
 ```
 
@@ -2009,14 +2009,14 @@ The results dataframe should contain following columns:
 Pick one government and one corporate bond from symbology,  create the bond objects and display the future cashflows.
 
 ```latex
-<span id="cb93-1"><span>def</span> get_bond_cashflows (bond: ql. FixedRateBond,      calc_date<span>=</span>ql. Date) <span>-&gt;</span> pd. DataFrame:</span>
-<span id="cb93-2">    <span>'''Returns all future cashflows as of calc_date,      i.e. with payment dates &gt; calc_date.</span></span>
+<span id="cb93-1"><span>def</span> get_bond_cashflows (bond: ql. FixedRateBond,        calc_date<span>=</span>ql. Date) <span>-&gt;</span> pd. DataFrame:</span>
+<span id="cb93-2">    <span>'''Returns all future cashflows as of calc_date,        i.e. with payment dates &gt; calc_date.</span></span>
 <span id="cb93-3"><span>    '''</span>    </span>
 <span id="cb93-4">    day_counter <span>=</span> bond.DayCounter ()    </span>
 <span id="cb93-5">    </span>
-<span id="cb93-6">    x <span>=</span> [(cf.Date (),      day_counter.YearFraction (calc_date,      cf.Date ()),      cf.Amount ()) <span>for</span> cf <span>in</span> bond.Cashflows ()]</span>
-<span id="cb93-7">    cf_date,      cf_yearFrac,      cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
-<span id="cb93-8">    cashflows_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date,      <span>'CashFlowYearFrac'</span>: cf_yearFrac,      <span>'CashFlowAmount'</span>: cf_amount})</span>
+<span id="cb93-6">    x <span>=</span> [(cf.Date (),        day_counter.YearFraction (calc_date,        cf.Date ()),        cf.Amount ()) <span>for</span> cf <span>in</span> bond.Cashflows ()]</span>
+<span id="cb93-7">    cf_date,        cf_yearFrac,        cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
+<span id="cb93-8">    cashflows_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date,        <span>'CashFlowYearFrac'</span>: cf_yearFrac,        <span>'CashFlowAmount'</span>: cf_amount})</span>
 <span id="cb93-9"></span>
 <span id="cb93-10">    <span># filter for payment dates &gt; calc_date</span></span>
 <span id="cb93-11">    cashflows_df <span>=</span> cashflows_df[cashflows_df. CashFlowYearFrac <span>&gt;</span> <span>0</span>]</span>
@@ -2024,9 +2024,9 @@ Pick one government and one corporate bond from symbology,  create the bond obje
 ```
 
 ```latex
-<span id="cb94-1"><span># Pick one government and one corporate bond from symbology,      create the bond objects.</span></span>
+<span id="cb94-1"><span># Pick one government and one corporate bond from symbology,        create the bond objects.</span></span>
 <span id="cb94-2">govt_bond_details <span>=</span> bond_symbology[bond_symbology[<span>'class'</span>] <span>==</span> <span>'Govt'</span>]. Iloc[<span>10</span>]</span>
-<span id="cb94-3">display (<span>"Govt bond details for"</span>,      govt_bond_details[<span>'security'</span>])</span>
+<span id="cb94-3">display (<span>"Govt bond details for"</span>,        govt_bond_details[<span>'security'</span>])</span>
 <span id="cb94-4">display (govt_bond_details)</span>
 <span id="cb94-5"></span>
 <span id="cb94-6"><span># Create govt_bond_object</span></span>
@@ -2059,18 +2059,18 @@ Currency                          USD
 Status                           ACTV
 Term                        30.001369
 TTM                          0.856947
-Name: 339,      dtype: object
+Name: 339,        dtype: object
 ```
 
 ```latex
 <span id="cb98-1"><span># Govt bond: display the future cashflows.</span></span>
-<span id="cb98-2"><span>print</span>(<span>"Govt bond future cashflows for"</span>,      govt_bond_details[<span>'security'</span>])</span>
-<span id="cb98-3">govt_bond_cf <span>=</span> get_bond_cashflows (govt_bond_object,      calc_date<span>=</span>calc_date)</span>
+<span id="cb98-2"><span>print</span>(<span>"Govt bond future cashflows for"</span>,        govt_bond_details[<span>'security'</span>])</span>
+<span id="cb98-3">govt_bond_cf <span>=</span> get_bond_cashflows (govt_bond_object,        calc_date<span>=</span>calc_date)</span>
 <span id="cb98-4">display (govt_bond_cf)</span>
 <span id="cb98-5"></span>
 <span id="cb98-6"><span># Corp bond: display the future cashflows.</span></span>
-<span id="cb98-7"><span>print</span>(<span>"Corp bond future cashflows for"</span>,      corp_bond_details[<span>'security'</span>])</span>
-<span id="cb98-8">corp_bond_cf <span>=</span> get_bond_cashflows (corp_bond_object,      calc_date<span>=</span>calc_date)</span>
+<span id="cb98-7"><span>print</span>(<span>"Corp bond future cashflows for"</span>,        corp_bond_details[<span>'security'</span>])</span>
+<span id="cb98-8">corp_bond_cf <span>=</span> get_bond_cashflows (corp_bond_object,        calc_date<span>=</span>calc_date)</span>
 <span id="cb98-9">display (corp_bond_cf)</span>
 ```
 
@@ -2083,19 +2083,19 @@ Corp bond future cashflows for AAPL 3.35 02/09/27
 
 |  | CashFlowDate | CashFlowYearFrac | CashFlowAmount |
 | --- | --- | --- | --- |
-| 58 | August 15 th,      2024 | 0.333333 | 3.8125 |
-| 59 | February 15 th,      2025 | 0.833333 | 3.8125 |
-| 60 | February 15 th,      2025 | 0.833333 | 100.0000 |
+| 58 | August 15 th,        2024 | 0.333333 | 3.8125 |
+| 59 | February 15 th,        2025 | 0.833333 | 3.8125 |
+| 60 | February 15 th,        2025 | 0.833333 | 100.0000 |
 
 |  | CashFlowDate | CashFlowYearFrac | CashFlowAmount |
 | --- | --- | --- | --- |
-| 14 | August 9 th,      2024 | 0.336111 | 1.675 |
-| 15 | February 9 th,      2025 | 0.836111 | 1.675 |
-| 16 | August 9 th,      2025 | 1.336111 | 1.675 |
-| 17 | February 9 th,      2026 | 1.836111 | 1.675 |
-| 18 | August 9 th,      2026 | 2.336111 | 1.675 |
-| 19 | February 9 th,      2027 | 2.836111 | 1.675 |
-| 20 | February 9 th,      2027 | 2.836111 | 100.000 |
+| 14 | August 9 th,        2024 | 0.336111 | 1.675 |
+| 15 | February 9 th,        2025 | 0.836111 | 1.675 |
+| 16 | August 9 th,        2025 | 1.336111 | 1.675 |
+| 17 | February 9 th,        2026 | 1.836111 | 1.675 |
+| 18 | August 9 th,        2026 | 2.336111 | 1.675 |
+| 19 | February 9 th,        2027 | 2.836111 | 1.675 |
+| 20 | February 9 th,        2027 | 2.836111 | 100.000 |
 
 ## Problem 2: US Treasury yield curve calibration (On-The-Runs)
 
@@ -2116,10 +2116,10 @@ Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 <span id="cb100-3">govt_symbology_otr <span>=</span> govt_symbology_otr. Sort_values (by<span>=</span><span>'TTM'</span>)</span>
 <span id="cb100-4"></span>
 <span id="cb100-5"><span># Merge market data as of 2024-04-01 into treasury OTR symbology</span></span>
-<span id="cb100-6">govt_combined_otr <span>=</span> govt_symbology_otr.Merge (bond_market_prices_eod,       on<span>=</span>[<span>'class'</span>,     <span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb100-6">govt_combined_otr <span>=</span> govt_symbology_otr.Merge (bond_market_prices_eod,         on<span>=</span>[<span>'class'</span>,       <span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb100-7"></span>
 <span id="cb100-8"><span># Plot a graph/scatter plot of treasury OTR mid yields by TTM</span></span>
-<span id="cb100-9">govt_combined_otr.Plot (x<span>=</span><span>'TTM'</span>,      y<span>=</span><span>'midYield'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'OTR US Treasury yields by TTM'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb100-9">govt_combined_otr.Plot (x<span>=</span><span>'TTM'</span>,        y<span>=</span><span>'midYield'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'OTR US Treasury yields by TTM'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-67-output-1.png)
@@ -2134,8 +2134,8 @@ Display the calibration results for the mid curve,  using get_yield_curve_detail
 
 ```latex
 <span id="cb101-1"><span>def</span> calibrate_yield_curve_from_frame (</span>
-<span id="cb101-2">        calc_date: ql. Date,     </span>
-<span id="cb101-3">        treasury_details: pd. DataFrame,     </span>
+<span id="cb101-2">        calc_date: ql. Date,       </span>
+<span id="cb101-3">        treasury_details: pd. DataFrame,       </span>
 <span id="cb101-4">        price_quote_column: <span>str</span>):</span>
 <span id="cb101-5">    <span>'''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid price quotes.</span></span>
 <span id="cb101-6"><span>    '''</span></span>
@@ -2149,52 +2149,52 @@ Display the calibration results for the mid curve,  using get_yield_curve_detail
 <span id="cb101-14"></span>
 <span id="cb101-15">    bond_helpers <span>=</span> []</span>
 <span id="cb101-16">    </span>
-<span id="cb101-17">    <span>for</span> index,      row <span>in</span> sorted_details_frame.Iterrows ():</span>
+<span id="cb101-17">    <span>for</span> index,        row <span>in</span> sorted_details_frame.Iterrows ():</span>
 <span id="cb101-18">        bond_object <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb101-19">        </span>
 <span id="cb101-20">        tsy_clean_price_quote <span>=</span> row[price_quote_column]</span>
 <span id="cb101-21">        tsy_clean_price_handle <span>=</span> ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))</span>
 <span id="cb101-22">        </span>
-<span id="cb101-23">        bond_helper <span>=</span> ql.BondHelper (tsy_clean_price_handle,      bond_object)</span>
+<span id="cb101-23">        bond_helper <span>=</span> ql.BondHelper (tsy_clean_price_handle,        bond_object)</span>
 <span id="cb101-24">        bond_helpers.Append (bond_helper)</span>
 <span id="cb101-25">        </span>
-<span id="cb101-26">    yield_curve <span>=</span> ql.PiecewiseLogCubicDiscount (calc_date,      bond_helpers,      day_count)</span>
-<span id="cb101-27">    <span># yield_curve = ql.PiecewiseFlatForward (calc_date,      bond_helpers,      day_count)</span></span>
+<span id="cb101-26">    yield_curve <span>=</span> ql.PiecewiseLogCubicDiscount (calc_date,        bond_helpers,        day_count)</span>
+<span id="cb101-27">    <span># yield_curve = ql.PiecewiseFlatForward (calc_date,        bond_helpers,        day_count)</span></span>
 <span id="cb101-28">    </span>
 <span id="cb101-29">    yield_curve.EnableExtrapolation ()</span>
 <span id="cb101-30">    <span>return</span> yield_curve</span>
 <span id="cb101-31"></span>
 <span id="cb101-32"></span>
 <span id="cb101-33"></span>
-<span id="cb101-34"><span>def</span> get_yield_curve_details_df (yield_curve,      curve_dates<span>=</span><span>None</span>):</span>
+<span id="cb101-34"><span>def</span> get_yield_curve_details_df (yield_curve,        curve_dates<span>=</span><span>None</span>):</span>
 <span id="cb101-35">    </span>
 <span id="cb101-36">    <span>if</span>(curve_dates <span>==</span> <span>None</span>):</span>
 <span id="cb101-37">        curve_dates <span>=</span> yield_curve.Dates ()</span>
 <span id="cb101-38"></span>
 <span id="cb101-39">    dates <span>=</span> [d.to_date () <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb101-40">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb101-41">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb101-42">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,      yield_curve.DayCounter (),      ql. Compounded). Rate () <span>*</span> <span>100</span>,      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb101-40">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb101-41">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb101-42">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,        yield_curve.DayCounter (),        ql. Compounded). Rate () <span>*</span> <span>100</span>,        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
 <span id="cb101-43"></span>
-<span id="cb101-44">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,     </span>
-<span id="cb101-45">                             <span>'YearFrac'</span>: yearfracs,     </span>
-<span id="cb101-46">                             <span>'DiscountFactor'</span>: discounts,     </span>
+<span id="cb101-44">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,       </span>
+<span id="cb101-45">                             <span>'YearFrac'</span>: yearfracs,       </span>
+<span id="cb101-46">                             <span>'DiscountFactor'</span>: discounts,       </span>
 <span id="cb101-47">                             <span>'ZeroRate'</span>: zeroRates})                             </span>
 <span id="cb101-48">    <span>return</span> yield_curve_details_df</span>
 ```
 
 ```latex
-<span id="cb102-1"><span># Calibrate the bid,      ask and mid discount factor curves as of 2024-04-08.</span></span>
-<span id="cb102-2">tsy_yield_curve_bid <span>=</span> calibrate_yield_curve_from_frame (calc_date,      govt_combined_otr,      <span>'bidPrice'</span>)</span>
-<span id="cb102-3">tsy_yield_curve_mid <span>=</span> calibrate_yield_curve_from_frame (calc_date,      govt_combined_otr,      <span>'midPrice'</span>)</span>
-<span id="cb102-4">tsy_yield_curve_ask <span>=</span> calibrate_yield_curve_from_frame (calc_date,      govt_combined_otr,      <span>'askPrice'</span>)</span>
+<span id="cb102-1"><span># Calibrate the bid,        ask and mid discount factor curves as of 2024-04-08.</span></span>
+<span id="cb102-2">tsy_yield_curve_bid <span>=</span> calibrate_yield_curve_from_frame (calc_date,        govt_combined_otr,        <span>'bidPrice'</span>)</span>
+<span id="cb102-3">tsy_yield_curve_mid <span>=</span> calibrate_yield_curve_from_frame (calc_date,        govt_combined_otr,        <span>'midPrice'</span>)</span>
+<span id="cb102-4">tsy_yield_curve_ask <span>=</span> calibrate_yield_curve_from_frame (calc_date,        govt_combined_otr,        <span>'askPrice'</span>)</span>
 <span id="cb102-5"></span>
 <span id="cb102-6"><span># Display the calibration results for the mid curve</span></span>
 <span id="cb102-7">tsy_yield_curve_df <span>=</span> get_yield_curve_details_df (tsy_yield_curve_mid)</span>
 <span id="cb102-8">display (tsy_yield_curve_df)</span>
 <span id="cb102-9"></span>
-<span id="cb102-10">ql_dates_yearly <span>=</span> [calc_date <span>+</span> ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,      <span>30</span>,      <span>1</span>))]</span>
-<span id="cb102-11">tsy_yield_curve_monthly_df <span>=</span> get_yield_curve_details_df (tsy_yield_curve_mid,      curve_dates<span>=</span>ql_dates_yearly)</span>
+<span id="cb102-10">ql_dates_yearly <span>=</span> [calc_date <span>+</span> ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,        <span>30</span>,        <span>1</span>))]</span>
+<span id="cb102-11">tsy_yield_curve_monthly_df <span>=</span> get_yield_curve_details_df (tsy_yield_curve_mid,        curve_dates<span>=</span>ql_dates_yearly)</span>
 <span id="cb102-12">display (tsy_yield_curve_monthly_df)</span>
 ```
 
@@ -2246,11 +2246,11 @@ Display the calibration results for the mid curve,  using get_yield_curve_detail
 Create a graph/scatter plot of the newly computed mid yields by maturity.
 
 ```latex
-<span id="cb103-1">plt <span>=</span> tsy_yield_curve_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span>[<span>'ZeroRate'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'US Treasury OTR yield curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb103-1">plt <span>=</span> tsy_yield_curve_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span>[<span>'ZeroRate'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'US Treasury OTR yield curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb103-2">plt. Set_ylabel (<span>'Zero Rate (%)'</span>)</span>
 <span id="cb103-3">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb103-4"></span>
-<span id="cb103-5">plt <span>=</span> tsy_yield_curve_monthly_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span>[<span>'ZeroRate'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'US Treasury Yearly yield curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb103-5">plt <span>=</span> tsy_yield_curve_monthly_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span>[<span>'ZeroRate'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'US Treasury Yearly yield curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb103-6">plt. Set_ylabel (<span>'Zero Rate (%)'</span>)</span>
 <span id="cb103-7">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -2264,11 +2264,11 @@ Create a graph/scatter plot of the newly computed mid yields by maturity.
 Plot the discount factor curve up to the 30 years point,  using a 6 months discretization grid.
 
 ```latex
-<span id="cb105-1">plt <span>=</span> tsy_yield_curve_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span>[<span>'DiscountFactor'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'US Treasury OTR discount factor curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb105-1">plt <span>=</span> tsy_yield_curve_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span>[<span>'DiscountFactor'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'US Treasury OTR discount factor curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb105-2">plt. Set_ylabel (<span>'Discount Factor'</span>)</span>
 <span id="cb105-3">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb105-4"></span>
-<span id="cb105-5">plt <span>=</span> tsy_yield_curve_monthly_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span>[<span>'DiscountFactor'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'US Treasury Yearly discount factor curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb105-5">plt <span>=</span> tsy_yield_curve_monthly_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span>[<span>'DiscountFactor'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'US Treasury Yearly discount factor curve as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb105-6">plt. Set_ylabel (<span>'Discount Factor'</span>)</span>
 <span id="cb105-7">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -2299,7 +2299,7 @@ To validate the calibration,  compare the calculated clean mid prices to the ori
 <span id="cb107-4"></span>
 <span id="cb107-5"><span># Calculate mid prices</span></span>
 <span id="cb107-6">calculated_mid_prices <span>=</span> []</span>
-<span id="cb107-7"><span>for</span> index,      row <span>in</span> govt_combined_otr.Iterrows ():</span>
+<span id="cb107-7"><span>for</span> index,        row <span>in</span> govt_combined_otr.Iterrows ():</span>
 <span id="cb107-8">    bond_object <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb107-9">    bond_object.SetPricingEngine (bond_engine)</span>
 <span id="cb107-10">    calculated_mid_prices.Append (bond_object.CleanPrice ())</span>
@@ -2308,7 +2308,7 @@ To validate the calibration,  compare the calculated clean mid prices to the ori
 <span id="cb107-13">govt_combined_otr[<span>'calib_error'</span>] <span>=</span> govt_combined_otr[<span>'midPrice'</span>] <span>-</span> govt_combined_otr[<span>'calc_mid_price'</span>]</span>
 <span id="cb107-14"></span>
 <span id="cb107-15"><span># Compare the calculated clean mid prices to the original market mid prices.</span></span>
-<span id="cb107-16">display (govt_combined_otr [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'midPrice'</span>,      <span>'calc_mid_price'</span>,      <span>'calib_error'</span>]])</span>
+<span id="cb107-16">display (govt_combined_otr [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'midPrice'</span>,        <span>'calc_mid_price'</span>,        <span>'calib_error'</span>]])</span>
 ```
 
 |  | security | isin | figi | midPrice | calc_mid_price | calib_error |
@@ -2336,12 +2336,12 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb108-2">compounding <span>=</span> ql. Compounded</span>
 <span id="cb108-3">coupon_freq <span>=</span> ql. Semiannual</span>
 <span id="cb108-4"></span>
-<span id="cb108-5"><span># Calculate dv 01 s,      durations and convexities</span></span>
+<span id="cb108-5"><span># Calculate dv 01 s,        durations and convexities</span></span>
 <span id="cb108-6">dv 01 s <span>=</span> []</span>
 <span id="cb108-7">calc_durations <span>=</span> []</span>
 <span id="cb108-8">calc_convexities <span>=</span> []</span>
 <span id="cb108-9"></span>
-<span id="cb108-10"><span>for</span> index,      row <span>in</span> govt_combined_otr.Iterrows ():</span>
+<span id="cb108-10"><span>for</span> index,        row <span>in</span> govt_combined_otr.Iterrows ():</span>
 <span id="cb108-11">    </span>
 <span id="cb108-12">    bond_object <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb108-13">    bond_object.SetPricingEngine (bond_engine)</span>
@@ -2349,11 +2349,11 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb108-15">    settle_date <span>=</span> bond_object.SettlementDate (calc_date)</span>
 <span id="cb108-16">    day_counter <span>=</span> bond_object.DayCounter ()    </span>
 <span id="cb108-17">    </span>
-<span id="cb108-18">    bond_yield <span>=</span> bond_object.BondYield (row[<span>'calc_mid_price'</span>],      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>100</span></span>
+<span id="cb108-18">    bond_yield <span>=</span> bond_object.BondYield (row[<span>'calc_mid_price'</span>],        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>100</span></span>
 <span id="cb108-19">    </span>
-<span id="cb108-20">    flat_int_rate <span>=</span> ql.InterestRate (bond_yield <span>/</span> <span>100</span>,      day_counter,      compounding,      coupon_freq)</span>
-<span id="cb108-21">    bond_duration <span>=</span> ql.BondFunctions.Duration (bond_object,      flat_int_rate)</span>
-<span id="cb108-22">    bond_convexity <span>=</span> ql.BondFunctions.Convexity (bond_object,      flat_int_rate)</span>
+<span id="cb108-20">    flat_int_rate <span>=</span> ql.InterestRate (bond_yield <span>/</span> <span>100</span>,        day_counter,        compounding,        coupon_freq)</span>
+<span id="cb108-21">    bond_duration <span>=</span> ql.BondFunctions.Duration (bond_object,        flat_int_rate)</span>
+<span id="cb108-22">    bond_convexity <span>=</span> ql.BondFunctions.Convexity (bond_object,        flat_int_rate)</span>
 <span id="cb108-23">    bond_dv 01 <span>=</span> bond_object.DirtyPrice () <span>*</span> bond_duration <span>/</span> <span>100</span></span>
 <span id="cb108-24">    </span>
 <span id="cb108-25">    dv 01 s.Append (bond_dv 01)</span>
@@ -2365,7 +2365,7 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb108-31">govt_combined_otr[<span>'duration'</span>] <span>=</span> calc_durations</span>
 <span id="cb108-32">govt_combined_otr[<span>'convexity'</span>] <span>=</span> calc_convexities</span>
 <span id="cb108-33"></span>
-<span id="cb108-34">display (govt_combined_otr [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'calc_mid_price'</span>,      <span>'dv01'</span>,      <span>'duration'</span>,      <span>'convexity'</span>]])</span>
+<span id="cb108-34">display (govt_combined_otr [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'calc_mid_price'</span>,        <span>'dv01'</span>,        <span>'duration'</span>,        <span>'convexity'</span>]])</span>
 ```
 
 |  | security | isin | figi | calc_mid_price | dv 01 | duration | convexity |
@@ -2389,18 +2389,18 @@ Extend the dataframe with the following scenario sensitivities metrics:
 | --- | --- | --- |
 
 ```latex
-<span id="cb109-1"><span># Calculate scenario dv 01 s,      durations and convexities</span></span>
+<span id="cb109-1"><span># Calculate scenario dv 01 s,        durations and convexities</span></span>
 <span id="cb109-2">scen_dv 01 s <span>=</span> []</span>
 <span id="cb109-3">scen_durations <span>=</span> []</span>
 <span id="cb109-4">scen_convexities <span>=</span> []</span>
 <span id="cb109-5"></span>
-<span id="cb109-6"><span>for</span> index,      row <span>in</span> govt_combined_otr.Iterrows ():</span>
+<span id="cb109-6"><span>for</span> index,        row <span>in</span> govt_combined_otr.Iterrows ():</span>
 <span id="cb109-7">    bond_object <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb109-8">    bond_object.SetPricingEngine (bond_engine)</span>
 <span id="cb109-9">    </span>
 <span id="cb109-10">    <span># create interest rate scenarios</span></span>
 <span id="cb109-11">    interest_rate_bump <span>=</span> ql.SimpleQuote (<span>0.0</span>)</span>
-<span id="cb109-12">    calibrated_yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (tsy_yield_curve_mid_handle,      ql.QuoteHandle (interest_rate_bump))</span>
+<span id="cb109-12">    calibrated_yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (tsy_yield_curve_mid_handle,        ql.QuoteHandle (interest_rate_bump))</span>
 <span id="cb109-13">    bond_engine_bumped <span>=</span> ql.DiscountingBondEngine (ql.YieldTermStructureHandle (calibrated_yield_curve_bumped))</span>
 <span id="cb109-14">    bond_object.SetPricingEngine (bond_engine_bumped)</span>
 <span id="cb109-15">    dirty_price_base <span>=</span> bond_object.DirtyPrice ()</span>
@@ -2427,7 +2427,7 @@ Extend the dataframe with the following scenario sensitivities metrics:
 <span id="cb109-36">govt_combined_otr[<span>'scen_duration'</span>] <span>=</span> scen_durations</span>
 <span id="cb109-37">govt_combined_otr[<span>'scen_convexity'</span>] <span>=</span> scen_convexities</span>
 <span id="cb109-38"></span>
-<span id="cb109-39">display (govt_combined_otr [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,     <span>'scen_dv01'</span>,      <span>'scen_duration'</span>,      <span>'scen_convexity'</span>]])</span>
+<span id="cb109-39">display (govt_combined_otr [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,       <span>'scen_dv01'</span>,        <span>'scen_duration'</span>,        <span>'scen_convexity'</span>]])</span>
 ```
 
 |  | security | isin | figi | scen_dv 01 | scen_duration | scen_convexity |
@@ -2448,7 +2448,7 @@ Restrict the symbology dataframe to fixed rate corporate bonds only and create t
 ```latex
 <span id="cb110-1"><span># Create the fixed-rate corporate bond symbology + combined dataframes</span></span>
 <span id="cb110-2">corp_symbology <span>=</span> bond_symbology[bond_symbology[<span>'cpn_type'</span>] <span>==</span> <span>'FIXED'</span>]</span>
-<span id="cb110-3">corp_combined <span>=</span> corp_symbology.Merge (bond_market_prices_eod,       on<span>=</span>[<span>'class'</span>,     <span>'ticker'</span>,     <span>'figi'</span>,     <span>'isin'</span>])</span>
+<span id="cb110-3">corp_combined <span>=</span> corp_symbology.Merge (bond_market_prices_eod,         on<span>=</span>[<span>'class'</span>,       <span>'ticker'</span>,       <span>'figi'</span>,       <span>'isin'</span>])</span>
 <span id="cb110-4"></span>
 <span id="cb110-5">display (corp_combined.Head ())</span>
 ```
@@ -2465,16 +2465,16 @@ Restrict the symbology dataframe to fixed rate corporate bonds only and create t
 <span id="cb111-1"><span># Create the corporate bond objects and store them in a dictionary</span></span>
 <span id="cb111-2">corp_bond_object_dict <span>=</span> {}</span>
 <span id="cb111-3"></span>
-<span id="cb111-4"><span>for</span> index,      row <span>in</span> corp_combined.Iterrows ():</span>
+<span id="cb111-4"><span>for</span> index,        row <span>in</span> corp_combined.Iterrows ():</span>
 <span id="cb111-5">    bond_details <span>=</span> row. To_dict ()</span>
 <span id="cb111-6">    corp_bond_object <span>=</span> create_bond_from_symbology (bond_details)</span>
 <span id="cb111-7">    corp_bond_object_dict[row[<span>'security'</span>]] <span>=</span> corp_bond_object</span>
 <span id="cb111-8">    </span>
 <span id="cb111-9"><span># Display the future cashflows for one corp bond object in the dictionary</span></span>
 <span id="cb111-10">corp_bond_key <span>=</span> corp_combined. Iloc[<span>10</span>][<span>'security'</span>]</span>
-<span id="cb111-11">corp_bond_cf <span>=</span> get_bond_cashflows (corp_bond_object_dict[corp_bond_key],      calc_date<span>=</span>calc_date)</span>
+<span id="cb111-11">corp_bond_cf <span>=</span> get_bond_cashflows (corp_bond_object_dict[corp_bond_key],        calc_date<span>=</span>calc_date)</span>
 <span id="cb111-12"></span>
-<span id="cb111-13"><span>print</span>(<span>"Corp bond future cashflows for"</span>,      corp_bond_key)</span>
+<span id="cb111-13"><span>print</span>(<span>"Corp bond future cashflows for"</span>,        corp_bond_key)</span>
 <span id="cb111-14">display (corp_bond_cf)</span>
 ```
 
@@ -2485,13 +2485,13 @@ Corp bond future cashflows for AAPL 3.35 02/09/27
 
 |  | CashFlowDate | CashFlowYearFrac | CashFlowAmount |
 | --- | --- | --- | --- |
-| 14 | August 9 th,      2024 | 0.336111 | 1.675 |
-| 15 | February 9 th,      2025 | 0.836111 | 1.675 |
-| 16 | August 9 th,      2025 | 1.336111 | 1.675 |
-| 17 | February 9 th,      2026 | 1.836111 | 1.675 |
-| 18 | August 9 th,      2026 | 2.336111 | 1.675 |
-| 19 | February 9 th,      2027 | 2.836111 | 1.675 |
-| 20 | February 9 th,      2027 | 2.836111 | 100.000 |
+| 14 | August 9 th,        2024 | 0.336111 | 1.675 |
+| 15 | February 9 th,        2025 | 0.836111 | 1.675 |
+| 16 | August 9 th,        2025 | 1.336111 | 1.675 |
+| 17 | February 9 th,        2026 | 1.836111 | 1.675 |
+| 18 | August 9 th,        2026 | 2.336111 | 1.675 |
+| 19 | February 9 th,        2027 | 2.836111 | 1.675 |
+| 20 | February 9 th,        2027 | 2.836111 | 100.000 |
 
 ## b. Compute analytical Yields and Z-Spreads
 
@@ -2514,7 +2514,7 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb113-9">calc_yields <span>=</span> []</span>
 <span id="cb113-10">calc_zspreads <span>=</span> []</span>
 <span id="cb113-11"></span>
-<span id="cb113-12"><span>for</span> index,      row <span>in</span> corp_combined.Iterrows ():</span>
+<span id="cb113-12"><span>for</span> index,        row <span>in</span> corp_combined.Iterrows ():</span>
 <span id="cb113-13">        </span>
 <span id="cb113-14">    bond_object <span>=</span> create_bond_from_symbology (row)    </span>
 <span id="cb113-15">    bond_object.SetPricingEngine (bond_engine)</span>
@@ -2525,12 +2525,12 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb113-20">    clean_price <span>=</span> bond_object.CleanPrice ()</span>
 <span id="cb113-21">    </span>
 <span id="cb113-22">    <span># yield in pct</span></span>
-<span id="cb113-23">    calc_yield <span>=</span> bond_object.BondYield (clean_price,      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>1 e 2</span></span>
-<span id="cb113-24">    flat_int_rate <span>=</span> ql.InterestRate (calc_yield <span>/</span> <span>100</span>,      day_counter,      compounding,      coupon_freq)</span>
+<span id="cb113-23">    calc_yield <span>=</span> bond_object.BondYield (clean_price,        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>1 e 2</span></span>
+<span id="cb113-24">    flat_int_rate <span>=</span> ql.InterestRate (calc_yield <span>/</span> <span>100</span>,        day_counter,        compounding,        coupon_freq)</span>
 <span id="cb113-25">    bond_market_price <span>=</span> row[<span>'midPrice'</span>]</span>
 <span id="cb113-26">    </span>
 <span id="cb113-27">    <span># zspread in bps</span></span>
-<span id="cb113-28">    calc_zspread <span>=</span> ql.BondFunctions.ZSpread (bond_object,      bond_market_price,      tsy_yield_curve_mid,      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>1 e 4</span></span>
+<span id="cb113-28">    calc_zspread <span>=</span> ql.BondFunctions.ZSpread (bond_object,        bond_market_price,        tsy_yield_curve_mid,        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>1 e 4</span></span>
 <span id="cb113-29">    </span>
 <span id="cb113-30">    calc_yields.Append (calc_yield)</span>
 <span id="cb113-31">    calc_zspreads.Append (calc_zspread)</span>
@@ -2539,7 +2539,7 @@ Extend the dataframe with the following calculated risk metrics:
 <span id="cb113-34">corp_combined[<span>'calc_yield'</span>] <span>=</span> calc_yields</span>
 <span id="cb113-35">corp_combined[<span>'calc_zspread'</span>] <span>=</span> calc_zspreads</span>
 <span id="cb113-36"></span>
-<span id="cb113-37">display (corp_combined [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'midPrice'</span>,      <span>'calc_yield'</span>,      <span>'calc_zspread'</span>]])</span>
+<span id="cb113-37">display (corp_combined [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'midPrice'</span>,        <span>'calc_yield'</span>,        <span>'calc_zspread'</span>]])</span>
 ```
 
 |  | security | isin | figi | midPrice | calc_yield | calc_zspread |
@@ -2565,10 +2565,10 @@ Pick 3 corporate bonds (at your discretion) and use function below to re-price t
 Validate that you match the original market prices,  which were used as input to the z-Spread function.
 
 ```latex
-<span id="cb114-1"><span>def</span> calc_clean_price_with_zspread (fixed_rate_bond,      yield_curve_handle,      zspread):</span>
+<span id="cb114-1"><span>def</span> calc_clean_price_with_zspread (fixed_rate_bond,        yield_curve_handle,        zspread):</span>
 <span id="cb114-2">    zspread_quote <span>=</span> ql.SimpleQuote (zspread)</span>
 <span id="cb114-3">    zspread_quote_handle <span>=</span> ql.QuoteHandle (zspread_quote)</span>
-<span id="cb114-4">    yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (yield_curve_handle,      zspread_quote_handle,      ql. Compounded,      ql. Semiannual)</span>
+<span id="cb114-4">    yield_curve_bumped <span>=</span> ql.ZeroSpreadedTermStructure (yield_curve_handle,        zspread_quote_handle,        ql. Compounded,        ql. Semiannual)</span>
 <span id="cb114-5">    yield_curve_bumped_handle <span>=</span> ql.YieldTermStructureHandle (yield_curve_bumped)</span>
 <span id="cb114-6">    </span>
 <span id="cb114-7">    <span># Set Valuation engine</span></span>
@@ -2592,19 +2592,19 @@ Validate that you match the original market prices,  which were used as input to
 <span id="cb115-11"><span># Calculate prices with zspreads</span></span>
 <span id="cb115-12">bond_zspread_prices <span>=</span> []</span>
 <span id="cb115-13"></span>
-<span id="cb115-14"><span>for</span> index,      row <span>in</span> corp_combined_small.Iterrows ():</span>
+<span id="cb115-14"><span>for</span> index,        row <span>in</span> corp_combined_small.Iterrows ():</span>
 <span id="cb115-15">    </span>
 <span id="cb115-16">    bond_object <span>=</span> create_bond_from_symbology (row)    </span>
 <span id="cb115-17">    bond_object.SetPricingEngine (bond_engine)</span>
 <span id="cb115-18">        </span>
-<span id="cb115-19">    bond_zspread_price <span>=</span> calc_clean_price_with_zspread (bond_object,      tsy_yield_curve_mid_handle,      row[<span>'calc_zspread'</span>]<span>/</span><span>1 e 4</span>)</span>
+<span id="cb115-19">    bond_zspread_price <span>=</span> calc_clean_price_with_zspread (bond_object,        tsy_yield_curve_mid_handle,        row[<span>'calc_zspread'</span>]<span>/</span><span>1 e 4</span>)</span>
 <span id="cb115-20">    bond_zspread_prices.Append (bond_zspread_price)</span>
 <span id="cb115-21">    </span>
-<span id="cb115-22"><span># Validate that you match the original market prices,      which were used as input to the z-Spread function.</span></span>
+<span id="cb115-22"><span># Validate that you match the original market prices,        which were used as input to the z-Spread function.</span></span>
 <span id="cb115-23">corp_combined_small[<span>'bond_zspread_price'</span>] <span>=</span> bond_zspread_prices</span>
 <span id="cb115-24">corp_combined_small[<span>'price_difference'</span>] <span>=</span> corp_combined_small[<span>'midPrice'</span>] <span>-</span> corp_combined_small[<span>'bond_zspread_price'</span>]</span>
 <span id="cb115-25"></span>
-<span id="cb115-26">display (corp_combined_small [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'calc_zspread'</span>,      <span>'midPrice'</span>,      <span>'bond_zspread_price'</span>,     <span>'price_difference'</span>]])</span>
+<span id="cb115-26">display (corp_combined_small [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'calc_zspread'</span>,        <span>'midPrice'</span>,        <span>'bond_zspread_price'</span>,       <span>'price_difference'</span>]])</span>
 ```
 
 |  | security | isin | figi | calc_zspread | midPrice | bond_zspread_price | price_difference |
@@ -2636,7 +2636,7 @@ Display the head of the dataframe.
 <span id="cb116-9">calc_durations <span>=</span> []</span>
 <span id="cb116-10">calc_convexities <span>=</span> []</span>
 <span id="cb116-11"></span>
-<span id="cb116-12"><span>for</span> index,      row <span>in</span> corp_combined.Iterrows ():</span>
+<span id="cb116-12"><span>for</span> index,        row <span>in</span> corp_combined.Iterrows ():</span>
 <span id="cb116-13">    </span>
 <span id="cb116-14">    bond_object <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb116-15">    bond_object.SetPricingEngine (bond_engine)</span>
@@ -2644,11 +2644,11 @@ Display the head of the dataframe.
 <span id="cb116-17">    settle_date <span>=</span> bond_object.SettlementDate (calc_date)</span>
 <span id="cb116-18">    day_counter <span>=</span> bond_object.DayCounter ()    </span>
 <span id="cb116-19">    </span>
-<span id="cb116-20">    bond_yield <span>=</span> bond_object.BondYield (row[<span>'midPrice'</span>],      day_counter,      compounding,      coupon_freq,      settle_date) <span>*</span> <span>100</span></span>
+<span id="cb116-20">    bond_yield <span>=</span> bond_object.BondYield (row[<span>'midPrice'</span>],        day_counter,        compounding,        coupon_freq,        settle_date) <span>*</span> <span>100</span></span>
 <span id="cb116-21">    </span>
-<span id="cb116-22">    flat_int_rate <span>=</span> ql.InterestRate (bond_yield <span>/</span> <span>100</span>,      day_counter,      compounding,      coupon_freq)</span>
-<span id="cb116-23">    bond_duration <span>=</span> ql.BondFunctions.Duration (bond_object,      flat_int_rate)</span>
-<span id="cb116-24">    bond_convexity <span>=</span> ql.BondFunctions.Convexity (bond_object,      flat_int_rate)        </span>
+<span id="cb116-22">    flat_int_rate <span>=</span> ql.InterestRate (bond_yield <span>/</span> <span>100</span>,        day_counter,        compounding,        coupon_freq)</span>
+<span id="cb116-23">    bond_duration <span>=</span> ql.BondFunctions.Duration (bond_object,        flat_int_rate)</span>
+<span id="cb116-24">    bond_convexity <span>=</span> ql.BondFunctions.Convexity (bond_object,        flat_int_rate)        </span>
 <span id="cb116-25">    </span>
 <span id="cb116-26">    calc_durations.Append (bond_duration)</span>
 <span id="cb116-27">    calc_convexities.Append (bond_convexity)</span>
@@ -2657,7 +2657,7 @@ Display the head of the dataframe.
 <span id="cb116-30">corp_combined[<span>'calc_duration'</span>] <span>=</span> calc_durations</span>
 <span id="cb116-31">corp_combined[<span>'calc_convexity'</span>] <span>=</span> calc_convexities</span>
 <span id="cb116-32"></span>
-<span id="cb116-33">display (corp_combined [[<span>'security'</span>,      <span>'isin'</span>,      <span>'figi'</span>,      <span>'midPrice'</span>,      <span>'calc_duration'</span>,      <span>'calc_convexity'</span>]]. head ())</span>
+<span id="cb116-33">display (corp_combined [[<span>'security'</span>,        <span>'isin'</span>,        <span>'figi'</span>,        <span>'midPrice'</span>,        <span>'calc_duration'</span>,        <span>'calc_convexity'</span>]]. head ())</span>
 ```
 
 |  | security | isin | figi | midPrice | calc_duration | calc_convexity |
@@ -2672,17 +2672,17 @@ Display the head of the dataframe.
 <span id="cb117-1"><span># Visualize duration and convexity for one ticker (for better understanding of risks) [Not part of homework]</span></span>
 <span id="cb117-2">corp_combined_aapl <span>=</span> corp_combined[corp_combined[<span>'ticker'</span>] <span>==</span> <span>'AAPL'</span>]</span>
 <span id="cb117-3"></span>
-<span id="cb117-4">plt <span>=</span> corp_combined_aapl.Plot (x<span>=</span><span>'maturity'</span>,      y<span>=</span>[<span>'calc_duration'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'Duration for AAPL bonds as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb117-4">plt <span>=</span> corp_combined_aapl.Plot (x<span>=</span><span>'maturity'</span>,        y<span>=</span>[<span>'calc_duration'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'Duration for AAPL bonds as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb117-5">plt. Set_ylabel (<span>'Duration'</span>)</span>
 <span id="cb117-6">plt. Set_xlabel (<span>'Maturity date'</span>)</span>
 <span id="cb117-7"></span>
-<span id="cb117-8">plt <span>=</span> corp_combined_aapl.Plot (x<span>=</span><span>'maturity'</span>,      y<span>=</span>[<span>'calc_convexity'</span>],      style<span>=</span><span>'*-'</span>,      grid<span>=</span><span>True</span>,      title<span>=</span><span>f'Convexity for AAPL bonds as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb117-8">plt <span>=</span> corp_combined_aapl.Plot (x<span>=</span><span>'maturity'</span>,        y<span>=</span>[<span>'calc_convexity'</span>],        style<span>=</span><span>'*-'</span>,        grid<span>=</span><span>True</span>,        title<span>=</span><span>f'Convexity for AAPL bonds as of </span><span>{</span>as_of_date<span>.</span>date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb117-9">plt. Set_ylabel (<span>'Convexity'</span>)</span>
 <span id="cb117-10">plt. Set_xlabel (<span>'Maturity date'</span>)</span>
 ```
 
 ```latex
-Text (0.5,      0,      'Maturity date')
+Text (0.5,        0,        'Maturity date')
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-81-output-2.png)
@@ -2736,7 +2736,7 @@ Overnight Index Swap contract is an interest rate swap contract exchanging and o
 
 ```latex
 <span id="cb119-1"><span># Set the static valuation date: 2023-04-14</span></span>
-<span id="cb119-2">calc_date <span>=</span> ql.Date (<span>14</span>,      <span>4</span>,      <span>2023</span>)</span>
+<span id="cb119-2">calc_date <span>=</span> ql.Date (<span>14</span>,        <span>4</span>,        <span>2023</span>)</span>
 <span id="cb119-3">ql.Settings.Instance (). EvaluationDate <span>=</span> calc_date</span>
 <span id="cb119-4"></span>
 <span id="cb119-5"><span># calendar</span></span>
@@ -2745,18 +2745,18 @@ Overnight Index Swap contract is an interest rate swap contract exchanging and o
 <span id="cb119-8"><span># settle_days</span></span>
 <span id="cb119-9">settle_days <span>=</span> <span>2</span></span>
 <span id="cb119-10"></span>
-<span id="cb119-11"><span># SOFR OIS swap tenors: 1 Y,      2 Y,      3 Y,      5 Y 7 Y,      10 Y,      20 Y and 30 Y</span></span>
-<span id="cb119-12">SOFR_tenors <span>=</span> [ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> [<span>1</span>,      <span>2</span>,      <span>3</span>,      <span>5</span>,      <span>7</span>,      <span>10</span>,      <span>20</span>,      <span>30</span>]]</span>
+<span id="cb119-11"><span># SOFR OIS swap tenors: 1 Y,        2 Y,        3 Y,        5 Y 7 Y,        10 Y,        20 Y and 30 Y</span></span>
+<span id="cb119-12">SOFR_tenors <span>=</span> [ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> [<span>1</span>,        <span>2</span>,        <span>3</span>,        <span>5</span>,        <span>7</span>,        <span>10</span>,        <span>20</span>,        <span>30</span>]]</span>
 <span id="cb119-13">               </span>
 <span id="cb119-14"><span># SOFR OIS swap rates (as of 2023-04-14)</span></span>
-<span id="cb119-15">SOFR_rates <span>=</span> [<span>4.81</span>,      <span>4.11</span>,      <span>3.73</span>,      <span>3.38</span>,      <span>3.32</span>,      <span>3.26</span>,      <span>3.20</span>,      <span>3.02</span>]</span>
+<span id="cb119-15">SOFR_rates <span>=</span> [<span>4.81</span>,        <span>4.11</span>,        <span>3.73</span>,        <span>3.38</span>,        <span>3.32</span>,        <span>3.26</span>,        <span>3.20</span>,        <span>3.02</span>]</span>
 <span id="cb119-16"></span>
 <span id="cb119-17">SOFR_OIS_swap_helpers <span>=</span> []</span>
-<span id="cb119-18"><span>for</span> (SOFR_tenor,      SOFR_rate) <span>in</span> <span>zip</span>(SOFR_tenors,      SOFR_rates):</span>
-<span id="cb119-19">    SOFR_OIS_swap_helpers.Append (ql.OISRateHelper (settle_days,      SOFR_tenor,      ql.QuoteHandle (ql.SimpleQuote (SOFR_rate<span>/</span><span>100</span>)),      ql.Sofr ()))</span>
+<span id="cb119-18"><span>for</span> (SOFR_tenor,        SOFR_rate) <span>in</span> <span>zip</span>(SOFR_tenors,        SOFR_rates):</span>
+<span id="cb119-19">    SOFR_OIS_swap_helpers.Append (ql.OISRateHelper (settle_days,        SOFR_tenor,        ql.QuoteHandle (ql.SimpleQuote (SOFR_rate<span>/</span><span>100</span>)),        ql.Sofr ()))</span>
 <span id="cb119-20"></span>
 <span id="cb119-21"><span># Create SOFR yield curve</span></span>
-<span id="cb119-22">sofr_yield_curve <span>=</span> ql.PiecewiseLinearZero (settle_days,      calendar,      SOFR_OIS_swap_helpers,      ql. Actual 360 ())</span>
+<span id="cb119-22">sofr_yield_curve <span>=</span> ql.PiecewiseLinearZero (settle_days,        calendar,        SOFR_OIS_swap_helpers,        ql. Actual 360 ())</span>
 <span id="cb119-23">sofr_yield_curve.EnableExtrapolation ()</span>
 <span id="cb119-24">sofr_yield_curve_handle <span>=</span> ql.YieldTermStructureHandle (sofr_yield_curve)</span>
 <span id="cb119-25"></span>
@@ -2764,37 +2764,37 @@ Overnight Index Swap contract is an interest rate swap contract exchanging and o
 ```
 
 ```latex
-April 18 th,      2023
-April 18 th,      2023
+April 18 th,        2023
+April 18 th,        2023
 ```
 
 ## b. Display the calibrated SOFR discount curve dataframe
 
 ```latex
-<span id="cb121-1"><span>def</span> get_yield_curve_details_df (yield_curve,      curve_dates<span>=</span><span>None</span>):</span>
+<span id="cb121-1"><span>def</span> get_yield_curve_details_df (yield_curve,        curve_dates<span>=</span><span>None</span>):</span>
 <span id="cb121-2">    </span>
 <span id="cb121-3">    <span>if</span>(curve_dates <span>==</span> <span>None</span>):</span>
 <span id="cb121-4">        curve_dates <span>=</span> yield_curve.Dates ()</span>
 <span id="cb121-5"></span>
 <span id="cb121-6">    dates <span>=</span> [d.to_date () <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb121-7">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb121-8">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
-<span id="cb121-9">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,      yield_curve.DayCounter (),      ql. Compounded). Rate () <span>*</span> <span>100</span>,      <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb121-7">    discounts <span>=</span> [<span>round</span>(yield_curve.Discount (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb121-8">    yearfracs <span>=</span> [<span>round</span>(yield_curve.TimeFromReference (d),        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
+<span id="cb121-9">    zeroRates <span>=</span> [<span>round</span>(yield_curve.ZeroRate (d,        yield_curve.DayCounter (),        ql. Compounded). Rate () <span>*</span> <span>100</span>,        <span>3</span>) <span>for</span> d <span>in</span> curve_dates]</span>
 <span id="cb121-10"></span>
-<span id="cb121-11">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,     </span>
-<span id="cb121-12">                             <span>'YearFrac'</span>: yearfracs,     </span>
-<span id="cb121-13">                             <span>'DiscountFactor'</span>: discounts,     </span>
+<span id="cb121-11">    yield_curve_details_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: dates,       </span>
+<span id="cb121-12">                             <span>'YearFrac'</span>: yearfracs,       </span>
+<span id="cb121-13">                             <span>'DiscountFactor'</span>: discounts,       </span>
 <span id="cb121-14">                             <span>'ZeroRate'</span>: zeroRates})                             </span>
 <span id="cb121-15">    <span>return</span> yield_curve_details_df</span>
 <span id="cb121-16"></span>
 <span id="cb121-17"></span>
 <span id="cb121-18"></span>
 <span id="cb121-19"><span># Display SOFR yield curve</span></span>
-<span id="cb121-20">grid_dates <span>=</span> [sofr_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,     <span>30</span>,     <span>2</span>))]</span>
+<span id="cb121-20">grid_dates <span>=</span> [sofr_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,       <span>30</span>,       <span>2</span>))]</span>
 <span id="cb121-21"></span>
 <span id="cb121-22"></span>
 <span id="cb121-23">sofr_yield_curve_simple_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve)                  <span># using calibration grid</span></span>
-<span id="cb121-24">sofr_yield_curve_details_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve,      grid_dates)    <span># using external grid</span></span>
+<span id="cb121-24">sofr_yield_curve_details_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve,        grid_dates)    <span># using external grid</span></span>
 <span id="cb121-25"></span>
 <span id="cb121-26">display (sofr_yield_curve_simple_df)</span>
 <span id="cb121-27">display (sofr_yield_curve_details_df)</span>
@@ -2833,11 +2833,11 @@ April 18 th,      2023
 ## c. Plot the calibrated SOFR Zero Rates and Discount Factors curves
 
 ```latex
-<span id="cb122-1">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'ZeroRate'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'SOFR Curve: Zero Rates'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb122-1">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'ZeroRate'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'SOFR Curve: Zero Rates'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb122-2">plt. Set_ylabel (<span>'Zero Rate (%)'</span>)</span>
 <span id="cb122-3">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb122-4"></span>
-<span id="cb122-5">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'DiscountFactor'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'SOFR Curve: Discount Factors'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb122-5">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'DiscountFactor'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'SOFR Curve: Discount Factors'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb122-6">plt. Set_ylabel (<span>'Discount Factors'</span>)</span>
 <span id="cb122-7">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -2855,13 +2855,13 @@ April 18 th,      2023
 <span id="cb124-4"></span>
 <span id="cb124-5"><span>print</span>(<span>'SOFR Swap valuation: PVs should be close to zero!'</span>)</span>
 <span id="cb124-6"></span>
-<span id="cb124-7"><span>for</span> (SOFR_tenor,      SOFR_rate) <span>in</span> <span>zip</span>(SOFR_tenors,      SOFR_rates):    </span>
-<span id="cb124-8">    start_date <span>=</span> calendar.Advance (calc_date,      settle_days,      ql. Days)</span>
-<span id="cb124-9">    schedule <span>=</span> ql.MakeSchedule (start_date,      calendar.Advance (start_date,      SOFR_tenor),      ql.Period (<span>'1 Y'</span>),      calendar<span>=</span>calendar)        </span>
-<span id="cb124-10">    oisSwap <span>=</span> ql.MakeOIS (SOFR_tenor,      sofr_index,      SOFR_rate<span>/</span><span>100</span>,      nominal<span>=</span><span>100</span>)</span>
+<span id="cb124-7"><span>for</span> (SOFR_tenor,        SOFR_rate) <span>in</span> <span>zip</span>(SOFR_tenors,        SOFR_rates):    </span>
+<span id="cb124-8">    start_date <span>=</span> calendar.Advance (calc_date,        settle_days,        ql. Days)</span>
+<span id="cb124-9">    schedule <span>=</span> ql.MakeSchedule (start_date,        calendar.Advance (start_date,        SOFR_tenor),        ql.Period (<span>'1 Y'</span>),        calendar<span>=</span>calendar)        </span>
+<span id="cb124-10">    oisSwap <span>=</span> ql.MakeOIS (SOFR_tenor,        sofr_index,        SOFR_rate<span>/</span><span>100</span>,        nominal<span>=</span><span>100</span>)</span>
 <span id="cb124-11">    </span>
 <span id="cb124-12">    <span># oisSwap.SetPricingEngine (swap_engine)</span></span>
-<span id="cb124-13">    <span>print</span>(<span>'Swap PV for'</span>,      SOFR_tenor,      <span>'tenor /'</span>,      SOFR_rate,      <span>'coupon : '</span>,      oisSwap.NPV ()) </span>
+<span id="cb124-13">    <span>print</span>(<span>'Swap PV for'</span>,        SOFR_tenor,        <span>'tenor /'</span>,        SOFR_rate,        <span>'coupon : '</span>,        oisSwap.NPV ()) </span>
 <span id="cb124-14">    </span>
 ```
 
@@ -2895,34 +2895,34 @@ Swap PV for 30 Y tenor / 3.02 coupon : -6.394884621840902 e-14
 <span id="cb126-2"></span>
 <span id="cb126-3">CDS_day_count <span>=</span> ql. Actual 360 ()</span>
 <span id="cb126-4"></span>
-<span id="cb126-5"><span># CDS standard tenors: 1 Y,      2 Y,      3 Y,      5 Y 7 Y and 10 Y</span></span>
-<span id="cb126-6">CDS_tenors <span>=</span> [ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> [<span>1</span>,      <span>2</span>,      <span>3</span>,      <span>5</span>,      <span>7</span>,      <span>10</span>]]</span>
+<span id="cb126-5"><span># CDS standard tenors: 1 Y,        2 Y,        3 Y,        5 Y 7 Y and 10 Y</span></span>
+<span id="cb126-6">CDS_tenors <span>=</span> [ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> [<span>1</span>,        <span>2</span>,        <span>3</span>,        <span>5</span>,        <span>7</span>,        <span>10</span>]]</span>
 <span id="cb126-7">              </span>
 <span id="cb126-8"><span># CDS spreads for IBM as of calc_date = 2023-04-14</span></span>
-<span id="cb126-9">CDS_spreads <span>=</span> [<span>17.25</span>,      <span>24.09</span>,      <span>35.58</span>,      <span>55.58</span>,      <span>70.51</span>,      <span>79.92</span>]</span>
+<span id="cb126-9">CDS_spreads <span>=</span> [<span>17.25</span>,        <span>24.09</span>,        <span>35.58</span>,        <span>55.58</span>,        <span>70.51</span>,        <span>79.92</span>]</span>
 <span id="cb126-10"></span>
-<span id="cb126-11">CDS_helpers <span>=</span> [ql.SpreadCdsHelper ((CDS_spread <span>/</span> <span>10000.0</span>),      CDS_tenor,      settle_days,      ql.TARGET (),     </span>
-<span id="cb126-12">                                  ql. Quarterly,      ql. Following,      ql. DateGeneration. TwentiethIMM,      CDS_day_count,      CDS_recovery_rate,      sofr_yield_curve_handle)</span>
+<span id="cb126-11">CDS_helpers <span>=</span> [ql.SpreadCdsHelper ((CDS_spread <span>/</span> <span>10000.0</span>),        CDS_tenor,        settle_days,        ql.TARGET (),       </span>
+<span id="cb126-12">                                  ql. Quarterly,        ql. Following,        ql. DateGeneration. TwentiethIMM,        CDS_day_count,        CDS_recovery_rate,        sofr_yield_curve_handle)</span>
 <span id="cb126-13">               </span>
-<span id="cb126-14"><span>for</span> (CDS_spread,      CDS_tenor) <span>in</span> <span>zip</span>(CDS_spreads,      CDS_tenors)]</span>
+<span id="cb126-14"><span>for</span> (CDS_spread,        CDS_tenor) <span>in</span> <span>zip</span>(CDS_spreads,        CDS_tenors)]</span>
 <span id="cb126-15"></span>
 <span id="cb126-16"><span># bootstrap hazard_rate_curve</span></span>
-<span id="cb126-17">hazard_rate_curve <span>=</span> ql.PiecewiseFlatHazardRate (calc_date,      CDS_helpers,      CDS_day_count)</span>
+<span id="cb126-17">hazard_rate_curve <span>=</span> ql.PiecewiseFlatHazardRate (calc_date,        CDS_helpers,        CDS_day_count)</span>
 <span id="cb126-18">hazard_rate_curve.EnableExtrapolation ()</span>
 <span id="cb126-19"></span>
 <span id="cb126-20"><span># Display calibrated hazard rates and survival probabilities</span></span>
-<span id="cb126-21">hazard_list <span>=</span> [(hr[<span>0</span>]. To_date (),      </span>
-<span id="cb126-22">                CDS_day_count.YearFraction (calc_date,      hr[<span>0</span>]),     </span>
-<span id="cb126-23">                hr[<span>1</span>] <span>*</span> <span>100</span>,     </span>
-<span id="cb126-24">                np.Exp (<span>-</span>hr[<span>1</span>]<span>*</span>CDS_day_count.YearFraction (calc_date,      hr[<span>0</span>])),     </span>
+<span id="cb126-21">hazard_list <span>=</span> [(hr[<span>0</span>]. To_date (),        </span>
+<span id="cb126-22">                CDS_day_count.YearFraction (calc_date,        hr[<span>0</span>]),       </span>
+<span id="cb126-23">                hr[<span>1</span>] <span>*</span> <span>100</span>,       </span>
+<span id="cb126-24">                np.Exp (<span>-</span>hr[<span>1</span>]<span>*</span>CDS_day_count.YearFraction (calc_date,        hr[<span>0</span>])),       </span>
 <span id="cb126-25">                hazard_rate_curve.SurvivalProbability (hr[<span>0</span>])) <span>for</span> hr <span>in</span> hazard_rate_curve.Nodes ()]</span>
 <span id="cb126-26"></span>
-<span id="cb126-27">grid_dates,      year_frac,      hazard_rates,      sp_manual,      surv_probs <span>=</span> <span>zip</span>(<span>*</span>hazard_list)</span>
+<span id="cb126-27">grid_dates,        year_frac,        hazard_rates,        sp_manual,        surv_probs <span>=</span> <span>zip</span>(<span>*</span>hazard_list)</span>
 <span id="cb126-28"></span>
-<span id="cb126-29">hazard_rates_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: grid_dates,      </span>
-<span id="cb126-30">                                     <span>'YearFrac'</span>: year_frac,     </span>
-<span id="cb126-31">                                     <span>'HazardRate'</span>: hazard_rates,     </span>
-<span id="cb126-32">                                     <span>'SPManual'</span>: sp_manual,     </span>
+<span id="cb126-29">hazard_rates_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: grid_dates,        </span>
+<span id="cb126-30">                                     <span>'YearFrac'</span>: year_frac,       </span>
+<span id="cb126-31">                                     <span>'HazardRate'</span>: hazard_rates,       </span>
+<span id="cb126-32">                                     <span>'SPManual'</span>: sp_manual,       </span>
 <span id="cb126-33">                                     <span>'SurvivalProb'</span>: surv_probs})</span>
 <span id="cb126-34"><span>print</span>(hazard_rates_df)</span>
 ```
@@ -2949,11 +2949,11 @@ Swap PV for 30 Y tenor / 3.02 coupon : -6.394884621840902 e-14
 ## b. Plot the calibrated Hazard Rate and Survival Probability curves
 
 ```latex
-<span id="cb128-1">plt <span>=</span> hazard_rates_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'HazardRate'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'IBM Hazard Rates Curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb128-1">plt <span>=</span> hazard_rates_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'HazardRate'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'IBM Hazard Rates Curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb128-2">plt. Set_ylabel (<span>'Hazard Rate (%)'</span>)</span>
 <span id="cb128-3">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb128-4"></span>
-<span id="cb128-5">plt <span>=</span> hazard_rates_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'SurvivalProb'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'IBM Survival Probability Curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb128-5">plt <span>=</span> hazard_rates_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'SurvivalProb'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'IBM Survival Probability Curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb128-6">plt. Set_ylabel (<span>'Survival Probability'</span>)</span>
 <span id="cb128-7">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -2972,40 +2972,40 @@ Swap PV for 30 Y tenor / 3.02 coupon : -6.394884621840902 e-14
 <span id="cb130-5"></span>
 <span id="cb130-6">contractual_spread <span>=</span> <span>100</span> <span>/</span> <span>10000</span></span>
 <span id="cb130-7"></span>
-<span id="cb130-8">cds_start_date <span>=</span> ql.Date (<span>14</span>,      <span>4</span>,      <span>2023</span>)</span>
-<span id="cb130-9">cds_maturity_date <span>=</span> ql.Date (<span>20</span>,      <span>6</span>,      <span>2028</span>)</span>
+<span id="cb130-8">cds_start_date <span>=</span> ql.Date (<span>14</span>,        <span>4</span>,        <span>2023</span>)</span>
+<span id="cb130-9">cds_maturity_date <span>=</span> ql.Date (<span>20</span>,        <span>6</span>,        <span>2028</span>)</span>
 <span id="cb130-10"></span>
 <span id="cb130-11"><span># Create CDS schedule</span></span>
-<span id="cb130-12">cds_schedule <span>=</span> ql.MakeSchedule (cds_start_date,      cds_maturity_date,      ql.Period (<span>'3 M'</span>),     </span>
-<span id="cb130-13">                            ql. Quarterly,      ql.TARGET (),      ql. Following,      ql. Unadjusted,      ql. DateGeneration. TwentiethIMM)</span>
+<span id="cb130-12">cds_schedule <span>=</span> ql.MakeSchedule (cds_start_date,        cds_maturity_date,        ql.Period (<span>'3 M'</span>),       </span>
+<span id="cb130-13">                            ql. Quarterly,        ql.TARGET (),        ql. Following,        ql. Unadjusted,        ql. DateGeneration. TwentiethIMM)</span>
 <span id="cb130-14"></span>
 <span id="cb130-15"><span># Create CDS object</span></span>
-<span id="cb130-16">cds_obj <span>=</span> ql.CreditDefaultSwap (side,      face_notional,      contractual_spread,      cds_schedule,      ql. Following,      ql. Actual 360 ())</span>
+<span id="cb130-16">cds_obj <span>=</span> ql.CreditDefaultSwap (side,        face_notional,        contractual_spread,        cds_schedule,        ql. Following,        ql. Actual 360 ())</span>
 <span id="cb130-17"></span>
 <span id="cb130-18"><span># Create CDS Implied Credit Curve and pricing engine</span></span>
 <span id="cb130-19">cds_surv_prob_curve_handle <span>=</span> ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)</span>
 <span id="cb130-20"></span>
-<span id="cb130-21">cds_pricing_engine <span>=</span> ql.MidPointCdsEngine (cds_surv_prob_curve_handle,      CDS_recovery_rate,      sofr_yield_curve_handle)</span>
+<span id="cb130-21">cds_pricing_engine <span>=</span> ql.MidPointCdsEngine (cds_surv_prob_curve_handle,        CDS_recovery_rate,        sofr_yield_curve_handle)</span>
 <span id="cb130-22">cds_obj.SetPricingEngine (cds_pricing_engine)</span>
 <span id="cb130-23"></span>
 <span id="cb130-24"></span>
 <span id="cb130-25"><span># Print CDS valuation results</span></span>
-<span id="cb130-26"><span>print</span>(<span>'CDS protection start date: '</span>,      cds_obj.ProtectionStartDate ())</span>
-<span id="cb130-27"><span>print</span>(<span>'CDS fair/par spread: '</span>,      <span>round</span>(cds_obj.FairSpread ()<span>*</span><span>10000</span>,      <span>3</span>))</span>
-<span id="cb130-28"><span>print</span>(<span>'CDS PV: '</span>,      <span>round</span>(cds_obj.NPV (),      <span>4</span>))    </span>
-<span id="cb130-29"><span>print</span>(<span>'CDS Premium Leg PV: '</span>,      <span>round</span>(cds_obj.CouponLegNPV (),      <span>4</span>))</span>
-<span id="cb130-30"><span>print</span>(<span>'CDS Default Leg PV'</span>,      <span>round</span>(cds_obj.DefaultLegNPV (),      <span>4</span>))</span>
-<span id="cb130-31"><span>print</span>(<span>'Survival Prob. To Maturity: '</span>,      <span>round</span>(hazard_rate_curve.SurvivalProbability (cds_maturity_date),      <span>4</span>))</span>
+<span id="cb130-26"><span>print</span>(<span>'CDS protection start date: '</span>,        cds_obj.ProtectionStartDate ())</span>
+<span id="cb130-27"><span>print</span>(<span>'CDS fair/par spread: '</span>,        <span>round</span>(cds_obj.FairSpread ()<span>*</span><span>10000</span>,        <span>3</span>))</span>
+<span id="cb130-28"><span>print</span>(<span>'CDS PV: '</span>,        <span>round</span>(cds_obj.NPV (),        <span>4</span>))    </span>
+<span id="cb130-29"><span>print</span>(<span>'CDS Premium Leg PV: '</span>,        <span>round</span>(cds_obj.CouponLegNPV (),        <span>4</span>))</span>
+<span id="cb130-30"><span>print</span>(<span>'CDS Default Leg PV'</span>,        <span>round</span>(cds_obj.DefaultLegNPV (),        <span>4</span>))</span>
+<span id="cb130-31"><span>print</span>(<span>'Survival Prob. To Maturity: '</span>,        <span>round</span>(hazard_rate_curve.SurvivalProbability (cds_maturity_date),        <span>4</span>))</span>
 ```
 
 ```latex
-CDS protection start date: April 14 th,      2023
+CDS protection start date: April 14 th,        2023
 CDS fair/par spread: 55.502
 CDS PV: 2.0855
 CDS Premium Leg PV: 4.6868
 CDS Default Leg PV -2.6013
 Survival Prob. To Maturity: 0.9512
-CDS protection start date: April 14 th,      2023
+CDS protection start date: April 14 th,        2023
 CDS fair/par spread: 55.502
 CDS PV: 2.0855
 CDS Premium Leg PV: 4.6868
@@ -3018,21 +3018,21 @@ Survival Prob. To Maturity: 0.9512
 ## a. Create Corporate Bond
 
 ```latex
-<span id="cb132-1">issue_date <span>=</span> ql.Date (<span>14</span>,      <span>4</span>,      <span>2023</span>)</span>
-<span id="cb132-2">maturity_date <span>=</span> ql.Date (<span>14</span>,      <span>4</span>,      <span>2027</span>)</span>
+<span id="cb132-1">issue_date <span>=</span> ql.Date (<span>14</span>,        <span>4</span>,        <span>2023</span>)</span>
+<span id="cb132-2">maturity_date <span>=</span> ql.Date (<span>14</span>,        <span>4</span>,        <span>2027</span>)</span>
 <span id="cb132-3">coupon_freq <span>=</span> ql. Semiannual</span>
 <span id="cb132-4">coupon_term <span>=</span> ql.Period (coupon_freq)</span>
 <span id="cb132-5">calendar <span>=</span> ql.UnitedStates (ql. UnitedStates. GovernmentBond)</span>
 <span id="cb132-6">day_count_conv <span>=</span> ql. Unadjusted</span>
 <span id="cb132-7">date_generation <span>=</span> ql. DateGeneration. Backward</span>
 <span id="cb132-8">month_end <span>=</span> <span>True</span></span>
-<span id="cb132-9">schedule <span>=</span> ql.Schedule (issue_date,     </span>
-<span id="cb132-10">                       maturity_date,     </span>
-<span id="cb132-11">                       coupon_term,     </span>
-<span id="cb132-12">                       calendar,     </span>
-<span id="cb132-13">                       day_count_conv,     </span>
-<span id="cb132-14">                       day_count_conv,     </span>
-<span id="cb132-15">                       date_generation,     </span>
+<span id="cb132-9">schedule <span>=</span> ql.Schedule (issue_date,       </span>
+<span id="cb132-10">                       maturity_date,       </span>
+<span id="cb132-11">                       coupon_term,       </span>
+<span id="cb132-12">                       calendar,       </span>
+<span id="cb132-13">                       day_count_conv,       </span>
+<span id="cb132-14">                       day_count_conv,       </span>
+<span id="cb132-15">                       date_generation,       </span>
 <span id="cb132-16">                       month_end)</span>
 <span id="cb132-17"></span>
 <span id="cb132-18"><span># Corp Bonds specs</span></span>
@@ -3045,30 +3045,30 @@ Survival Prob. To Maturity: 0.9512
 <span id="cb132-25"><span># Construct the FixedRateBond</span></span>
 <span id="cb132-26">face_value <span>=</span> <span>100</span></span>
 <span id="cb132-27">fixed_rate_bond <span>=</span> ql.FixedRateBond (</span>
-<span id="cb132-28">    settlement_days,     </span>
-<span id="cb132-29">    face_value,     </span>
-<span id="cb132-30">    schedule,     </span>
-<span id="cb132-31">    coupons,     </span>
-<span id="cb132-32">    day_count,     </span>
+<span id="cb132-28">    settlement_days,       </span>
+<span id="cb132-29">    face_value,       </span>
+<span id="cb132-30">    schedule,       </span>
+<span id="cb132-31">    coupons,       </span>
+<span id="cb132-32">    day_count,       </span>
 <span id="cb132-33">    payment_convention)</span>
 <span id="cb132-34"></span>
-<span id="cb132-35">x <span>=</span> [(cf.Date (),      cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
-<span id="cb132-36">cf_date,      cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
-<span id="cb132-37">cf_frame <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date,      <span>'CashFlowAmount'</span>: cf_amount})</span>
+<span id="cb132-35">x <span>=</span> [(cf.Date (),        cf.Amount ()) <span>for</span> cf <span>in</span> fixed_rate_bond.Cashflows ()]</span>
+<span id="cb132-36">cf_date,        cf_amount <span>=</span> <span>zip</span>(<span>*</span>x)</span>
+<span id="cb132-37">cf_frame <span>=</span> pd.DataFrame (data<span>=</span>{<span>'CashFlowDate'</span>: cf_date,        <span>'CashFlowAmount'</span>: cf_amount})</span>
 <span id="cb132-38">display (cf_frame)</span>
 ```
 
 |  | CashFlowDate | CashFlowAmount |
 | --- | --- | --- |
-| 0 | October 14 th,      2023 | 2.0 |
-| 1 | April 14 th,      2024 | 2.0 |
-| 2 | October 14 th,      2024 | 2.0 |
-| 3 | April 14 th,      2025 | 2.0 |
-| 4 | October 14 th,      2025 | 2.0 |
-| 5 | April 14 th,      2026 | 2.0 |
-| 6 | October 14 th,      2026 | 2.0 |
-| 7 | April 14 th,      2027 | 2.0 |
-| 8 | April 14 th,      2027 | 100.0 |
+| 0 | October 14 th,        2023 | 2.0 |
+| 1 | April 14 th,        2024 | 2.0 |
+| 2 | October 14 th,        2024 | 2.0 |
+| 3 | April 14 th,        2025 | 2.0 |
+| 4 | October 14 th,        2025 | 2.0 |
+| 5 | April 14 th,        2026 | 2.0 |
+| 6 | October 14 th,        2026 | 2.0 |
+| 7 | April 14 th,        2027 | 2.0 |
+| 8 | April 14 th,        2027 | 100.0 |
 
 ## b. Price Corporate Bond on Risk-Free Yield Curve (without Credit Risk)
 
@@ -3082,10 +3082,10 @@ Survival Prob. To Maturity: 0.9512
 <span id="cb133-7"></span>
 <span id="cb133-8">fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)</span>
 <span id="cb133-9">risk_free_bond_price <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb133-10">risk_free_bond_yield <span>=</span> fixed_rate_bond.BondYield (risk_free_bond_price,      day_counter,      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb133-10">risk_free_bond_yield <span>=</span> fixed_rate_bond.BondYield (risk_free_bond_price,        day_counter,        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
 <span id="cb133-11"></span>
-<span id="cb133-12"><span>print</span>(<span>'risk_free_bond_price: '</span>,      risk_free_bond_price)</span>
-<span id="cb133-13"><span>print</span>(<span>'risk_free_bond_yield: '</span>,      risk_free_bond_yield)</span>
+<span id="cb133-12"><span>print</span>(<span>'risk_free_bond_price: '</span>,        risk_free_bond_price)</span>
+<span id="cb133-13"><span>print</span>(<span>'risk_free_bond_yield: '</span>,        risk_free_bond_yield)</span>
 ```
 
 ```latex
@@ -3102,23 +3102,23 @@ Risk_free_bond_yield: 3.5807016439305506
 <span id="cb135-2">bond_recovery_rate <span>=</span> <span>0.4</span></span>
 <span id="cb135-3"></span>
 <span id="cb135-4"><span># cds_curve_risky_bond_engine: using calibrated IBM CDS curve</span></span>
-<span id="cb135-5">cds_curve_risky_bond_engine <span>=</span> ql.RiskyBondEngine (cds_surv_prob_curve_handle,      bond_recovery_rate,      sofr_yield_curve_handle)</span>
+<span id="cb135-5">cds_curve_risky_bond_engine <span>=</span> ql.RiskyBondEngine (cds_surv_prob_curve_handle,        bond_recovery_rate,        sofr_yield_curve_handle)</span>
 <span id="cb135-6">fixed_rate_bond.SetPricingEngine (cds_curve_risky_bond_engine)</span>
 <span id="cb135-7"></span>
 <span id="cb135-8"><span># 3. Calculate intrinsic risky bond on custom survival probability curve</span></span>
 <span id="cb135-9">risky_bond_price <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb135-10">risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (risky_bond_price,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb135-10">risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (risky_bond_price,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
 <span id="cb135-11"></span>
-<span id="cb135-12"><span>print</span>(<span>'risky_bond_price: '</span>,      risky_bond_price)</span>
-<span id="cb135-13"><span>print</span>(<span>'risky_bond_yield: '</span>,      risky_bond_yield)</span>
+<span id="cb135-12"><span>print</span>(<span>'risky_bond_price: '</span>,        risky_bond_price)</span>
+<span id="cb135-13"><span>print</span>(<span>'risky_bond_yield: '</span>,        risky_bond_yield)</span>
 <span id="cb135-14"></span>
-<span id="cb135-15"><span># Compute the credit I-Spread,      relative to risk-free bond (SOFR curve)</span></span>
+<span id="cb135-15"><span># Compute the credit I-Spread,        relative to risk-free bond (SOFR curve)</span></span>
 <span id="cb135-16">risky_bond_credit_ispread_bps <span>=</span> (risky_bond_yield <span>-</span> risk_free_bond_yield) <span>*</span> <span>100</span></span>
-<span id="cb135-17"><span>print</span>(<span>'risky_bond_ispread_bps: '</span>,      risky_bond_credit_ispread_bps)</span>
+<span id="cb135-17"><span>print</span>(<span>'risky_bond_ispread_bps: '</span>,        risky_bond_credit_ispread_bps)</span>
 <span id="cb135-18"></span>
 <span id="cb135-19"><span># Calc z-spread</span></span>
-<span id="cb135-20">risky_bond_zspread_bps <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,      risky_bond_price,      sofr_yield_curve,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
-<span id="cb135-21"><span>print</span>(<span>'risky_bond_zspread_bps: '</span>,      risky_bond_zspread_bps)</span>
+<span id="cb135-20">risky_bond_zspread_bps <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,        risky_bond_price,        sofr_yield_curve,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
+<span id="cb135-21"><span>print</span>(<span>'risky_bond_zspread_bps: '</span>,        risky_bond_zspread_bps)</span>
 <span id="cb135-22"></span>
 ```
 
@@ -3139,26 +3139,26 @@ Risky_bond_zspread_bps: 47.38435336049067
 
 ```latex
 <span id="cb137-1"><span># 2. Create custom survival probability curve</span></span>
-<span id="cb137-2">custom_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,      ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>11</span>)]</span>
-<span id="cb137-3">custom_average_hazard_rates <span>=</span> [<span>0.0030</span>,      <span>0.0060</span>,      <span>0.0090</span>,      <span>0.0110</span>,      <span>0.0125</span>,      <span>0.0140</span>,      <span>0.0150</span>,      <span>0.0160</span>,      <span>0.0170</span>,      <span>0.0180</span>,      <span>0.0190</span>]</span>
+<span id="cb137-2">custom_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,        ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>11</span>)]</span>
+<span id="cb137-3">custom_average_hazard_rates <span>=</span> [<span>0.0030</span>,        <span>0.0060</span>,        <span>0.0090</span>,        <span>0.0110</span>,        <span>0.0125</span>,        <span>0.0140</span>,        <span>0.0150</span>,        <span>0.0160</span>,        <span>0.0170</span>,        <span>0.0180</span>,        <span>0.0190</span>]</span>
 <span id="cb137-4">custom_surv_prob_levels <span>=</span> [np.Exp (<span>-</span>T <span>*</span> custom_average_hazard_rates[T]) <span>for</span> T <span>in</span> <span>range</span>(<span>11</span>)]</span>
-<span id="cb137-5"><span># custom_surv_prob_levels = [1.0,      0.9950,      0.9860,      0.9733,      0.9569,      0.9370,      0.9166,      0.8940,      0.8728,      0.8504,      0.8269]</span></span>
+<span id="cb137-5"><span># custom_surv_prob_levels = [1.0,        0.9950,        0.9860,        0.9733,        0.9569,        0.9370,        0.9166,        0.8940,        0.8728,        0.8504,        0.8269]</span></span>
 <span id="cb137-6"></span>
 <span id="cb137-7"><span># custom_surv_prob_curve</span></span>
-<span id="cb137-8">custom_surv_prob_curve <span>=</span> ql.SurvivalProbabilityCurve (custom_surv_prob_dates,      custom_surv_prob_levels,      ql. Actual 360 (),      ql.TARGET ())</span>
+<span id="cb137-8">custom_surv_prob_curve <span>=</span> ql.SurvivalProbabilityCurve (custom_surv_prob_dates,        custom_surv_prob_levels,        ql. Actual 360 (),        ql.TARGET ())</span>
 <span id="cb137-9">custom_surv_prob_curve.EnableExtrapolation ()</span>
 <span id="cb137-10">custom_surv_prob_curve_handle <span>=</span> ql.DefaultProbabilityTermStructureHandle (custom_surv_prob_curve)</span>
 <span id="cb137-11"></span>
 <span id="cb137-12"><span># 3. Display custom credit curve</span></span>
-<span id="cb137-13">custom_surv_prob_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: custom_surv_prob_dates,     </span>
-<span id="cb137-14">                                          <span>'Average Hazard Rates'</span>: custom_average_hazard_rates,     </span>
+<span id="cb137-13">custom_surv_prob_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Date'</span>: custom_surv_prob_dates,       </span>
+<span id="cb137-14">                                          <span>'Average Hazard Rates'</span>: custom_average_hazard_rates,       </span>
 <span id="cb137-15">                                          <span>'Survival Probs'</span>: custom_surv_prob_levels})</span>
 <span id="cb137-16"></span>
-<span id="cb137-17">plt <span>=</span> custom_surv_prob_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'Average Hazard Rates'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'Custom Hazard Rate Curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb137-17">plt <span>=</span> custom_surv_prob_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'Average Hazard Rates'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'Custom Hazard Rate Curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb137-18">plt. Set_ylabel (<span>'Hazard Rate (%)'</span>)</span>
 <span id="cb137-19">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb137-20"></span>
-<span id="cb137-21">plt <span>=</span> custom_surv_prob_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'Survival Probs'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>'Custom Survival Probability Curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb137-21">plt <span>=</span> custom_surv_prob_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'Survival Probs'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>'Custom Survival Probability Curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb137-22">plt. Set_ylabel (<span>'Survival Probability'</span>)</span>
 <span id="cb137-23">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -3174,23 +3174,23 @@ Risky_bond_zspread_bps: 47.38435336049067
 <span id="cb139-2">bond_recovery_rate <span>=</span> <span>0.4</span></span>
 <span id="cb139-3"></span>
 <span id="cb139-4"><span># custom_curve_risky_bond_engine</span></span>
-<span id="cb139-5">custom_curve_risky_bond_engine <span>=</span> ql.RiskyBondEngine (custom_surv_prob_curve_handle,      bond_recovery_rate,      sofr_yield_curve_handle)</span>
+<span id="cb139-5">custom_curve_risky_bond_engine <span>=</span> ql.RiskyBondEngine (custom_surv_prob_curve_handle,        bond_recovery_rate,        sofr_yield_curve_handle)</span>
 <span id="cb139-6">fixed_rate_bond.SetPricingEngine (custom_curve_risky_bond_engine)</span>
 <span id="cb139-7"></span>
 <span id="cb139-8"><span># 3. Price risky bond on custom survival probability curve</span></span>
 <span id="cb139-9">risky_bond_price <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb139-10">risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (risky_bond_price,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb139-10">risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (risky_bond_price,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
 <span id="cb139-11"></span>
-<span id="cb139-12"><span>print</span>(<span>'risky_bond_price: '</span>,      risky_bond_price)</span>
-<span id="cb139-13"><span>print</span>(<span>'risky_bond_yield: '</span>,      risky_bond_yield)</span>
+<span id="cb139-12"><span>print</span>(<span>'risky_bond_price: '</span>,        risky_bond_price)</span>
+<span id="cb139-13"><span>print</span>(<span>'risky_bond_yield: '</span>,        risky_bond_yield)</span>
 <span id="cb139-14"></span>
-<span id="cb139-15"><span># Compute the credit I-Spread,      relative to risk-free bond (SOFR curve)</span></span>
+<span id="cb139-15"><span># Compute the credit I-Spread,        relative to risk-free bond (SOFR curve)</span></span>
 <span id="cb139-16">risky_bond_credit_ispread_bps <span>=</span> (risky_bond_yield <span>-</span> risk_free_bond_yield) <span>*</span> <span>100</span></span>
-<span id="cb139-17"><span>print</span>(<span>'risky_bond_ispread_bps: '</span>,      risky_bond_credit_ispread_bps)</span>
+<span id="cb139-17"><span>print</span>(<span>'risky_bond_ispread_bps: '</span>,        risky_bond_credit_ispread_bps)</span>
 <span id="cb139-18"></span>
 <span id="cb139-19"><span># Calc z-spread</span></span>
-<span id="cb139-20">risky_bond_zspread_bps <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,      risky_bond_price,      sofr_yield_curve,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
-<span id="cb139-21"><span>print</span>(<span>'risky_bond_zspread_bps: '</span>,      risky_bond_zspread_bps)</span>
+<span id="cb139-20">risky_bond_zspread_bps <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,        risky_bond_price,        sofr_yield_curve,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
+<span id="cb139-21"><span>print</span>(<span>'risky_bond_zspread_bps: '</span>,        risky_bond_zspread_bps)</span>
 <span id="cb139-22"></span>
 ```
 
@@ -3211,8 +3211,8 @@ Risky_bond_zspread_bps: 75.04528626811556
 
 ```latex
 <span id="cb141-1"><span># nelson_siegel curve shape: Nelson-Siegel</span></span>
-<span id="cb141-2"><span>def</span> nelson_siegel (params,      maturity):</span>
-<span id="cb141-3">    <span>''' params = (theta 1,      theta 2,      theta 3,      lambda)'''</span>    </span>
+<span id="cb141-2"><span>def</span> nelson_siegel (params,        maturity):</span>
+<span id="cb141-3">    <span>''' params = (theta 1,        theta 2,        theta 3,        lambda)'''</span>    </span>
 <span id="cb141-4">    </span>
 <span id="cb141-5">    <span>if</span>(maturity <span>&gt;</span> <span>0</span>):</span>
 <span id="cb141-6">        slope_1 <span>=</span> (<span>1</span> <span>-</span> np.Exp (<span>-</span>maturity<span>/</span>params[<span>3</span>]))<span>/</span>(maturity<span>/</span>params[<span>3</span>])</span>
@@ -3226,7 +3226,7 @@ Risky_bond_zspread_bps: 75.04528626811556
 <span id="cb141-14">    <span>return</span> total_value</span>
 <span id="cb141-15"></span>
 <span id="cb141-16"><span># nelson_siegel_extended curve shape: Nelson-Siegel-Svensson</span></span>
-<span id="cb141-17"><span>def</span> nelson_siegel_extended (params,      maturity):</span>
+<span id="cb141-17"><span>def</span> nelson_siegel_extended (params,        maturity):</span>
 <span id="cb141-18"></span>
 <span id="cb141-19">    <span>if</span>(maturity <span>&gt;</span> <span>0</span>):</span>
 <span id="cb141-20">        slope_1 <span>=</span> (<span>1</span> <span>-</span> np.Exp (<span>-</span>maturity<span>/</span>params[<span>3</span>]))<span>/</span>(maturity<span>/</span>params[<span>3</span>])</span>
@@ -3255,24 +3255,24 @@ Risky_bond_zspread_bps: 75.04528626811556
 
 ```latex
 <span id="cb142-1"></span>
-<span id="cb142-2">curve_shapes_df <span>=</span> pd.DataFrame ([T,      nelson_siegel ([<span>1</span>,      <span>0</span>,      <span>0</span>,      <span>2</span>],      T),      </span>
-<span id="cb142-3">                                 nelson_siegel ([<span>0</span>,      <span>1</span>,      <span>0</span>,      <span>2</span>],      T),      </span>
-<span id="cb142-4">                                 nelson_siegel ([<span>0</span>,      <span>0</span>,      <span>2</span>,      <span>2</span>],      T)] <span>for</span> T <span>in</span> <span>range</span>(<span>0</span>,     <span>30</span>,     <span>1</span>))</span>
-<span id="cb142-5">curve_shapes_df. Columns <span>=</span> [<span>'TTM'</span>,      <span>'Level'</span>,      <span>'Slope'</span>,      <span>'Curvature'</span>]</span>
+<span id="cb142-2">curve_shapes_df <span>=</span> pd.DataFrame ([T,        nelson_siegel ([<span>1</span>,        <span>0</span>,        <span>0</span>,        <span>2</span>],        T),        </span>
+<span id="cb142-3">                                 nelson_siegel ([<span>0</span>,        <span>1</span>,        <span>0</span>,        <span>2</span>],        T),        </span>
+<span id="cb142-4">                                 nelson_siegel ([<span>0</span>,        <span>0</span>,        <span>2</span>,        <span>2</span>],        T)] <span>for</span> T <span>in</span> <span>range</span>(<span>0</span>,       <span>30</span>,       <span>1</span>))</span>
+<span id="cb142-5">curve_shapes_df. Columns <span>=</span> [<span>'TTM'</span>,        <span>'Level'</span>,        <span>'Slope'</span>,        <span>'Curvature'</span>]</span>
 <span id="cb142-6"></span>
-<span id="cb142-7">curve_shapes_df 2 <span>=</span> pd.DataFrame ([T,      nelson_siegel_extended ([<span>1</span>,      <span>0</span>,      <span>0</span>,      <span>2</span>,      <span>0</span>,      <span>0</span>],      T),      </span>
-<span id="cb142-8">                                 nelson_siegel_extended ([<span>0</span>,      <span>1</span>,      <span>0</span>,      <span>2</span>,      <span>0</span>,      <span>0</span>],      T),      </span>
-<span id="cb142-9">                                 nelson_siegel_extended ([<span>0</span>,      <span>0</span>,      <span>2</span>,      <span>2</span>,      <span>0</span>,      <span>0</span>],      T),      </span>
-<span id="cb142-10">                                 nelson_siegel_extended ([<span>0</span>,      <span>0</span>,      <span>0</span>,      <span>2</span>,      <span>1</span>,      <span>10</span>],      T)] <span>for</span> T <span>in</span> <span>range</span>(<span>0</span>,     <span>30</span>,     <span>1</span>))</span>
-<span id="cb142-11">curve_shapes_df 2. Columns <span>=</span> [<span>'TTM'</span>,      <span>'Level'</span>,      <span>'Slope'</span>,      <span>'Curvature_1'</span>,      <span>'Curvature_2'</span>]</span>
+<span id="cb142-7">curve_shapes_df 2 <span>=</span> pd.DataFrame ([T,        nelson_siegel_extended ([<span>1</span>,        <span>0</span>,        <span>0</span>,        <span>2</span>,        <span>0</span>,        <span>0</span>],        T),        </span>
+<span id="cb142-8">                                 nelson_siegel_extended ([<span>0</span>,        <span>1</span>,        <span>0</span>,        <span>2</span>,        <span>0</span>,        <span>0</span>],        T),        </span>
+<span id="cb142-9">                                 nelson_siegel_extended ([<span>0</span>,        <span>0</span>,        <span>2</span>,        <span>2</span>,        <span>0</span>,        <span>0</span>],        T),        </span>
+<span id="cb142-10">                                 nelson_siegel_extended ([<span>0</span>,        <span>0</span>,        <span>0</span>,        <span>2</span>,        <span>1</span>,        <span>10</span>],        T)] <span>for</span> T <span>in</span> <span>range</span>(<span>0</span>,       <span>30</span>,       <span>1</span>))</span>
+<span id="cb142-11">curve_shapes_df 2. Columns <span>=</span> [<span>'TTM'</span>,        <span>'Level'</span>,        <span>'Slope'</span>,        <span>'Curvature_1'</span>,        <span>'Curvature_2'</span>]</span>
 <span id="cb142-12"></span>
 <span id="cb142-13"><span>print</span>(curve_shapes_df 2.Head ())</span>
 <span id="cb142-14"></span>
-<span id="cb142-15">plt <span>=</span> curve_shapes_df.Plot (x<span>=</span><span>'TTM'</span>,      y<span>=</span>[<span>'Level'</span>,      <span>'Slope'</span>,      <span>'Curvature'</span>],      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-'</span>,      title<span>=</span><span>'Nelson-Siegel basis functions'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb142-15">plt <span>=</span> curve_shapes_df.Plot (x<span>=</span><span>'TTM'</span>,        y<span>=</span>[<span>'Level'</span>,        <span>'Slope'</span>,        <span>'Curvature'</span>],        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-'</span>,        title<span>=</span><span>'Nelson-Siegel basis functions'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb142-16">plt. Set_ylabel (<span>'Curve Level'</span>)</span>
 <span id="cb142-17">plt. Set_xlabel (<span>'Time to maturity (years)'</span>)</span>
 <span id="cb142-18"></span>
-<span id="cb142-19">plt <span>=</span> curve_shapes_df 2.Plot (x<span>=</span><span>'TTM'</span>,      y<span>=</span>[<span>'Level'</span>,      <span>'Slope'</span>,      <span>'Curvature_1'</span>,      <span>'Curvature_2'</span>],      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-'</span>,      title<span>=</span><span>'Nelson-Siegel-Svensson basis functions'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb142-19">plt <span>=</span> curve_shapes_df 2.Plot (x<span>=</span><span>'TTM'</span>,        y<span>=</span>[<span>'Level'</span>,        <span>'Slope'</span>,        <span>'Curvature_1'</span>,        <span>'Curvature_2'</span>],        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-'</span>,        title<span>=</span><span>'Nelson-Siegel-Svensson basis functions'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb142-20">plt. Set_ylabel (<span>'Curve Level'</span>)</span>
 <span id="cb142-21">plt. Set_xlabel (<span>'Time to maturity (years)'</span>)</span>
 ```
@@ -3293,7 +3293,7 @@ Risky_bond_zspread_bps: 75.04528626811556
 ```
 
 ```latex
-Text (0.5,      0,      'Time to maturity (years)')
+Text (0.5,        0,        'Time to maturity (years)')
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-96-output-3.png)
@@ -3303,28 +3303,28 @@ Text (0.5,      0,      'Time to maturity (years)')
 ## c. Constructing smooth Nelson-Siegel hazard rate / survival probability curves
 
 ```latex
-<span id="cb145-1"><span># nelson_siegel_params = [theta 1,      theta 2,      theta 3,      lambda] = [long term level,      short - long slope,      curvature,      lambda]</span></span>
-<span id="cb145-2">nelson_siegel_params <span>=</span> [<span>0.0300</span>,      <span>-</span><span>0.0100</span>,      <span>-</span><span>0.0010</span>,      <span>2</span>]</span>
+<span id="cb145-1"><span># nelson_siegel_params = [theta 1,        theta 2,        theta 3,        lambda] = [long term level,        short - long slope,        curvature,        lambda]</span></span>
+<span id="cb145-2">nelson_siegel_params <span>=</span> [<span>0.0300</span>,        <span>-</span><span>0.0100</span>,        <span>-</span><span>0.0010</span>,        <span>2</span>]</span>
 <span id="cb145-3"></span>
-<span id="cb145-4">nelson_siegel_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,      ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
-<span id="cb145-5">nelson_siegel_average_hazard_rates <span>=</span> [nelson_siegel (nelson_siegel_params,      T) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
+<span id="cb145-4">nelson_siegel_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,        ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
+<span id="cb145-5">nelson_siegel_average_hazard_rates <span>=</span> [nelson_siegel (nelson_siegel_params,        T) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
 <span id="cb145-6">nelson_siegel_surv_prob_levels <span>=</span> [np.Exp (<span>-</span>T <span>*</span> nelson_siegel_average_hazard_rates[T]) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
 <span id="cb145-7"></span>
 <span id="cb145-8"><span># nelson_siegel_surv_prob_curve</span></span>
-<span id="cb145-9">nelson_siegel_credit_curve <span>=</span> ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,      nelson_siegel_surv_prob_levels,      ql. Actual 360 (),      ql.TARGET ())</span>
+<span id="cb145-9">nelson_siegel_credit_curve <span>=</span> ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,        nelson_siegel_surv_prob_levels,        ql. Actual 360 (),        ql.TARGET ())</span>
 <span id="cb145-10">nelson_siegel_credit_curve.EnableExtrapolation ()</span>
 <span id="cb145-11">nelson_siegel_credit_curve_handle <span>=</span> ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)</span>
 <span id="cb145-12"></span>
-<span id="cb145-13">nelson_siegel_surv_prob_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Dates'</span>: nelson_siegel_surv_prob_dates,     </span>
-<span id="cb145-14">                                          <span>'Average Hazard Rates'</span>: nelson_siegel_average_hazard_rates,     </span>
+<span id="cb145-13">nelson_siegel_surv_prob_df <span>=</span> pd.DataFrame (data<span>=</span>{<span>'Dates'</span>: nelson_siegel_surv_prob_dates,       </span>
+<span id="cb145-14">                                          <span>'Average Hazard Rates'</span>: nelson_siegel_average_hazard_rates,       </span>
 <span id="cb145-15">                                          <span>'Survival Probs'</span>: nelson_siegel_surv_prob_levels})</span>
 <span id="cb145-16"><span># print (nelson_siegel_surv_prob_df)</span></span>
 <span id="cb145-17"></span>
-<span id="cb145-18">plt <span>=</span> nelson_siegel_surv_prob_df.Plot (x<span>=</span><span>'Dates'</span>,      y<span>=</span>[<span>'Average Hazard Rates'</span>],      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-'</span>,      title<span>=</span><span>'Nelson-Siegel smooth hazard rate curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb145-18">plt <span>=</span> nelson_siegel_surv_prob_df.Plot (x<span>=</span><span>'Dates'</span>,        y<span>=</span>[<span>'Average Hazard Rates'</span>],        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-'</span>,        title<span>=</span><span>'Nelson-Siegel smooth hazard rate curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb145-19">plt. Set_ylabel (<span>'Average hazard rate'</span>)</span>
 <span id="cb145-20">plt. Set_xlabel (<span>'Maturity'</span>)</span>
 <span id="cb145-21"></span>
-<span id="cb145-22">plt <span>=</span> nelson_siegel_surv_prob_df.Plot (x<span>=</span><span>'Dates'</span>,      y<span>=</span>[<span>'Survival Probs'</span>],      grid<span>=</span><span>True</span>,      style<span>=</span><span>'-'</span>,      title<span>=</span><span>'Nelson-Siegel smooth survival probability curve'</span>,      figsize<span>=</span>(<span>12</span>,     <span>5</span>))</span>
+<span id="cb145-22">plt <span>=</span> nelson_siegel_surv_prob_df.Plot (x<span>=</span><span>'Dates'</span>,        y<span>=</span>[<span>'Survival Probs'</span>],        grid<span>=</span><span>True</span>,        style<span>=</span><span>'-'</span>,        title<span>=</span><span>'Nelson-Siegel smooth survival probability curve'</span>,        figsize<span>=</span>(<span>12</span>,       <span>5</span>))</span>
 <span id="cb145-23">plt. Set_ylabel (<span>'Survival Prob'</span>)</span>
 <span id="cb145-24">plt. Set_xlabel (<span>'Maturity'</span>)</span>
 <span id="cb145-25"></span>
@@ -3341,23 +3341,23 @@ Text (0.5,      0,      'Time to maturity (years)')
 <span id="cb147-2">bond_recovery_rate <span>=</span> <span>0.4</span></span>
 <span id="cb147-3"></span>
 <span id="cb147-4"><span># nelson_siegel_risky_bond_engine</span></span>
-<span id="cb147-5">nelson_siegel_risky_bond_engine <span>=</span> ql.RiskyBondEngine (nelson_siegel_credit_curve_handle,      bond_recovery_rate,      sofr_yield_curve_handle)</span>
+<span id="cb147-5">nelson_siegel_risky_bond_engine <span>=</span> ql.RiskyBondEngine (nelson_siegel_credit_curve_handle,        bond_recovery_rate,        sofr_yield_curve_handle)</span>
 <span id="cb147-6">fixed_rate_bond.SetPricingEngine (nelson_siegel_risky_bond_engine)</span>
 <span id="cb147-7"></span>
 <span id="cb147-8"><span># Price risky bond using Nelson-Siegel survival probability curve</span></span>
 <span id="cb147-9">nelson_siegel_risky_bond_price <span>=</span> fixed_rate_bond.CleanPrice ()</span>
-<span id="cb147-10">nelson_siegel_risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (nelson_siegel_risky_bond_price,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb147-10">nelson_siegel_risky_bond_yield <span>=</span> fixed_rate_bond.BondYield (nelson_siegel_risky_bond_price,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
 <span id="cb147-11"></span>
-<span id="cb147-12"><span>print</span>(<span>'nelson_siegel_surv_prob_risky_bond_price: '</span>,      nelson_siegel_risky_bond_price)</span>
-<span id="cb147-13"><span>print</span>(<span>'nelson_siegel_surv_prob_risky_bond_yield: '</span>,      nelson_siegel_risky_bond_yield)</span>
+<span id="cb147-12"><span>print</span>(<span>'nelson_siegel_surv_prob_risky_bond_price: '</span>,        nelson_siegel_risky_bond_price)</span>
+<span id="cb147-13"><span>print</span>(<span>'nelson_siegel_surv_prob_risky_bond_yield: '</span>,        nelson_siegel_risky_bond_yield)</span>
 <span id="cb147-14"></span>
 <span id="cb147-15"><span># Compute the credit I-Spread (relative to risk-free SOFR bond)</span></span>
 <span id="cb147-16">nelson_siegel_risky_bond_credit_ispread <span>=</span> (nelson_siegel_risky_bond_yield <span>-</span> risk_free_bond_yield) <span>*</span> <span>1 e 2</span></span>
-<span id="cb147-17"><span>print</span>(<span>'nelson_siegel_risky_bond_ispread: '</span>,      nelson_siegel_risky_bond_credit_ispread)</span>
+<span id="cb147-17"><span>print</span>(<span>'nelson_siegel_risky_bond_ispread: '</span>,        nelson_siegel_risky_bond_credit_ispread)</span>
 <span id="cb147-18"></span>
 <span id="cb147-19"><span># Compute z-spread</span></span>
-<span id="cb147-20">nelson_siegel_risky_bond_zspread <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,      nelson_siegel_risky_bond_price,      sofr_yield_curve,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
-<span id="cb147-21"><span>print</span>(<span>'nelson_siegel_risky_bond_zspread: '</span>,      nelson_siegel_risky_bond_zspread)</span>
+<span id="cb147-20">nelson_siegel_risky_bond_zspread <span>=</span> ql.BondFunctions.ZSpread (fixed_rate_bond,        nelson_siegel_risky_bond_price,        sofr_yield_curve,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>1 e 4</span></span>
+<span id="cb147-21"><span>print</span>(<span>'nelson_siegel_risky_bond_zspread: '</span>,        nelson_siegel_risky_bond_zspread)</span>
 <span id="cb147-22"></span>
 ```
 
@@ -3396,25 +3396,25 @@ This homework relies on:
 | # Problem 1: Risk & Scenario analysis for a fixed rate corporate bond (yield model) ## Use the QuantLib Basic notebook (or previous homeworks) as templates. |
 | --- |
 | # Problem 2: Perpetual bonds ## a. Price a fixed rate perpetual bond We are interested in a fixed rate perpetual bond (infinite maturity) on a face notional of $100 and semi-annual coupon c. |
-| Assuming that the bond has a (continuously componded) yield of y,      what is the fair value price of the bond? |
-| For simplicity,      you can assume T+0 settlement and zero accrued. |
+| Assuming that the bond has a (continuously componded) yield of y,        what is the fair value price of the bond? |
+| For simplicity,        you can assume T+0 settlement and zero accrued. |
 | You can use following sympy code (implementing Formula 5 from Session 1) as a starting point. |
 | ::: {  .cell execution_count=103} ``` {. Python .cell-code} # import libraries import sympy as sp |
 | # define fixed rate bond specs as symbolic variables T = sp.Symbols (‘T’) c = sp.Symbols (‘c’) y = sp.Symbols (‘y’) |
-| # define symbolic equation for generic fixed rate bond pv bond_pv_eq = 1 + (c/2 / (sp.Exp (y/2) - 1) - 1 )* (1 - sp.Exp (-T*y)) print (‘Analytic formula for bond_pv:’,      bond_pv_eq) display (bond_pv_eq) ``` |
+| # define symbolic equation for generic fixed rate bond pv bond_pv_eq = 1 + (c/2 / (sp.Exp (y/2) - 1) - 1 )* (1 - sp.Exp (-T*y)) print (‘Analytic formula for bond_pv:’,        bond_pv_eq) display (bond_pv_eq) ``` |
 | ::: {. Cell-output .cell-output-stdout} |
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: ::: |
-| We start with the formula for pricing a risky fixed rate bond on a face of 100%,      derived in Lecture 1,      formulas [4] and [5]. |
+| We start with the formula for pricing a risky fixed rate bond on a face of 100%,        derived in Lecture 1,        formulas [4] and [5]. |
 |  |
 |  |
 |  |
 | Remember that the the semi-annual yield is given by: . |
-| In the case of the fixed rate perpetual bond,      the bond maturity and cashflows extend to “infinity”,      so the pricing formula simplifies in terms of to |
+| In the case of the fixed rate perpetual bond,        the bond maturity and cashflows extend to “infinity”,        so the pricing formula simplifies in terms of to |
 |  |
-| To obtain the fair price on a face of $100,      one has to multiply the formula above by 100: |
-| ## b. Perpetual bonds priced “at par” For which yield y does the bond trade “at par”,      i.e. fair value price = $100? |
+| To obtain the fair price on a face of $100,        one has to multiply the formula above by 100: |
+| ## b. Perpetual bonds priced “at par” For which yield y does the bond trade “at par”,        i.e. fair value price = $100? |
 |  |
-| Hence,      the perpetual bond trades “at par” if the smi-annual yield matches the semi-annual coupon c (same result as for “regular” fixed rate bonds). |
+| Hence,        the perpetual bond trades “at par” if the smi-annual yield matches the semi-annual coupon c (same result as for “regular” fixed rate bonds). |
 | ## c. Duration and DV 01 for a fixed rate perpetual bond Compute Duration and DV 01 of the perpetual bond. |
 | ::: {  .cell execution_count=104} ``` {. Python .cell-code} # define symbolic equations perpetual_bond_price = c / (sp.Exp (y/2) - 1) / 2 print (‘1. Perpetual bond price (with coupon c):’) display (perpetual_bond_price) |
 | # find first and second order derivatives first_order_derivative = perpetual_bond_price.Diff (y) print (‘2. Perpetual bond DV 01:’) display (-first_order_derivative) |
@@ -3423,7 +3423,7 @@ This homework relies on:
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: |
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: |
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: ::: |
-| Hence,      PV 01 and duration of a fixed rate perpetual bond are given by |
+| Hence,        PV 01 and duration of a fixed rate perpetual bond are given by |
 |  |
 |  |
 | ## d. Convexity of a fixed rate perpetual bond Compute the convexity of the perpetual bond. |
@@ -3433,7 +3433,7 @@ This homework relies on:
 | ::: {. Cell-output .cell-output-stdout} |
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: |
 | ::: {. Cell-output .cell-output-display .cell-output-markdown} ::: ::: |
-| Hence,      second order derivative and convexity of the fixed rate perpetual bond are given by |
+| Hence,        second order derivative and convexity of the fixed rate perpetual bond are given by |
 |  |
 |  |
 
@@ -3452,7 +3452,7 @@ Plot the historial time series of SOFR rates for the available [1 Y,  2 Y,  3 Y,
 ```latex
 <span id="cb149-1"><span># sofr_symbology</span></span>
 <span id="cb149-2">sofr_symbology <span>=</span> pd. Read_excel (<span>'./data/sofr_swaps_symbology. Xlsx'</span>)</span>
-<span id="cb149-3">sofr_symbology. Set_index (<span>'figi'</span>,      inplace<span>=</span><span>True</span>)</span>
+<span id="cb149-3">sofr_symbology. Set_index (<span>'figi'</span>,        inplace<span>=</span><span>True</span>)</span>
 <span id="cb149-4">display (sofr_symbology)</span>
 <span id="cb149-5"></span>
 <span id="cb149-6"><span># sofr_market_quotes</span></span>
@@ -3460,11 +3460,11 @@ Plot the historial time series of SOFR rates for the available [1 Y,  2 Y,  3 Y,
 <span id="cb149-8"><span># print (sofr_market_quotes.Head ())</span></span>
 <span id="cb149-9"></span>
 <span id="cb149-10"><span># pivot to get SOFR rates time series</span></span>
-<span id="cb149-11">sofr_quotes_ts <span>=</span> sofr_market_quotes.Pivot (index<span>=</span><span>"date"</span>,      columns<span>=</span><span>"figi"</span>,      values<span>=</span><span>"midRate"</span>)</span>
+<span id="cb149-11">sofr_quotes_ts <span>=</span> sofr_market_quotes.Pivot (index<span>=</span><span>"date"</span>,        columns<span>=</span><span>"figi"</span>,        values<span>=</span><span>"midRate"</span>)</span>
 <span id="cb149-12">sofr_quotes_ts. Columns <span>=</span> sofr_symbology. Tenor[sofr_quotes_ts. Columns]</span>
 <span id="cb149-13"><span># print (sofr_quotes_ts.Head ())</span></span>
 <span id="cb149-14"></span>
-<span id="cb149-15">plt <span>=</span> sofr_quotes_ts.Plot (grid<span>=</span><span>True</span>,      style<span>=</span><span>'-'</span>,      title<span>=</span><span>'SOFR Swaps: historical time series'</span>,      figsize<span>=</span>(<span>12</span>,     <span>8</span>))</span>
+<span id="cb149-15">plt <span>=</span> sofr_quotes_ts.Plot (grid<span>=</span><span>True</span>,        style<span>=</span><span>'-'</span>,        title<span>=</span><span>'SOFR Swaps: historical time series'</span>,        figsize<span>=</span>(<span>12</span>,       <span>8</span>))</span>
 <span id="cb149-16">plt. Set_ylabel (<span>'SOFR Rate'</span>)</span>
 <span id="cb149-17">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -3498,8 +3498,8 @@ Follow section 1 b in the QuantLib Advanced notebook.
 
 ```latex
 <span id="cb151-1"><span>def</span> calibrate_sofr_curve_from_frame (</span>
-<span id="cb151-2">        calc_date: ql. Date,     </span>
-<span id="cb151-3">        sofr_details: pd. DataFrame,     </span>
+<span id="cb151-2">        calc_date: ql. Date,       </span>
+<span id="cb151-3">        sofr_details: pd. DataFrame,       </span>
 <span id="cb151-4">        rate_quote_column: <span>str</span>):</span>
 <span id="cb151-5">    <span>'''Create a calibrated yield curve from a SOFR details dataframe which includes rate quotes.</span></span>
 <span id="cb151-6"><span>    '''</span></span>
@@ -3519,17 +3519,17 @@ Follow section 1 b in the QuantLib Advanced notebook.
 <span id="cb151-20">    </span>  
 <span id="cb151-21">    sofr_helpers <span>=</span> []</span>  
 <span id="cb151-22">    </span>  
-<span id="cb151-23">    <span>for</span> index,      row <span>in</span> sorted_details_frame.Iterrows ():</span>  
+<span id="cb151-23">    <span>for</span> index,        row <span>in</span> sorted_details_frame.Iterrows ():</span>  
 <span id="cb151-24">        sofr_quote <span>=</span> row[rate_quote_column]</span>  
 <span id="cb151-25">        tenor_in_years <span>=</span> row[<span>'tenor'</span>]</span>  
-<span id="cb151-26">        sofr_tenor <span>=</span> ql.Period (tenor_in_years,      ql. Years)</span>  
+<span id="cb151-26">        sofr_tenor <span>=</span> ql.Period (tenor_in_years,        ql. Years)</span>  
 <span id="cb151-27">        </span>  
 <span id="cb151-28">        <span># create sofr_rate_helper</span></span>  
-<span id="cb151-29">        sofr_helper <span>=</span> ql.OISRateHelper (settle_days,      sofr_tenor,      ql.QuoteHandle (ql.SimpleQuote (sofr_quote<span>/</span><span>100</span>)),      ql.Sofr ())</span>  
+<span id="cb151-29">        sofr_helper <span>=</span> ql.OISRateHelper (settle_days,        sofr_tenor,        ql.QuoteHandle (ql.SimpleQuote (sofr_quote<span>/</span><span>100</span>)),        ql.Sofr ())</span>  
 <span id="cb151-30">                        </span>  
 <span id="cb151-31">        sofr_helpers.Append (sofr_helper)</span>  
 <span id="cb151-32">        </span>  
-<span id="cb151-33">    sofr_yield_curve <span>=</span> ql.PiecewiseLinearZero (settle_days,      calendar,      sofr_helpers,      day_count)</span>  
+<span id="cb151-33">    sofr_yield_curve <span>=</span> ql.PiecewiseLinearZero (settle_days,        calendar,        sofr_helpers,        day_count)</span>  
 <span id="cb151-34">    sofr_yield_curve.EnableExtrapolation ()</span>  
 <span id="cb151-35">    </span>  
 <span id="cb151-36">    <span>return</span> sofr_yield_curve</span>
@@ -3537,11 +3537,11 @@ Follow section 1 b in the QuantLib Advanced notebook.
 
 ```latex
 <span id="cb152-1"><span># sofr_combined</span></span>
-<span id="cb152-2">sofr_combined <span>=</span> sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes[<span>'date'</span>] <span>==</span> <span>'2024-04-15'</span>],      how<span>=</span><span>'left'</span>,      on<span>=</span>[<span>'figi'</span>])</span>
+<span id="cb152-2">sofr_combined <span>=</span> sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes[<span>'date'</span>] <span>==</span> <span>'2024-04-15'</span>],        how<span>=</span><span>'left'</span>,        on<span>=</span>[<span>'figi'</span>])</span>
 <span id="cb152-3">display (sofr_combined.Head ())</span>
 <span id="cb152-4"></span>
 <span id="cb152-5"><span># calibrate SOFR discount curve</span></span>
-<span id="cb152-6">sofr_yield_curve <span>=</span> calibrate_sofr_curve_from_frame (calc_date,      sofr_combined,      <span>'midRate'</span>)</span>
+<span id="cb152-6">sofr_yield_curve <span>=</span> calibrate_sofr_curve_from_frame (calc_date,        sofr_combined,        <span>'midRate'</span>)</span>
 <span id="cb152-7">sofr_yield_curve_handle <span>=</span> ql.YieldTermStructureHandle (sofr_yield_curve)</span>
 ```
 
@@ -3559,11 +3559,11 @@ Follow section 1 d (in the QuantLib Advanced notebook) to display the calibratio
 
 ```latex
 <span id="cb153-1"><span># Display and plot SOFR yield curve</span></span>
-<span id="cb153-2">grid_dates <span>=</span> [sofr_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,      ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,     <span>30</span>,     <span>1</span>))]</span>
+<span id="cb153-2">grid_dates <span>=</span> [sofr_yield_curve.ReferenceDate () <span>+</span> ql.Period (y,        ql. Years) <span>for</span> y <span>in</span> <span>list</span>(<span>range</span>(<span>0</span>,       <span>30</span>,       <span>1</span>))]</span>
 <span id="cb153-3"></span>
 <span id="cb153-4"></span>
 <span id="cb153-5">sofr_yield_curve_simple_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve)                  <span># using calibration grid</span></span>
-<span id="cb153-6">sofr_yield_curve_details_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve,      grid_dates)    <span># using external grid</span></span>
+<span id="cb153-6">sofr_yield_curve_details_df <span>=</span> get_yield_curve_details_df (sofr_yield_curve,        grid_dates)    <span># using external grid</span></span>
 <span id="cb153-7"></span>
 <span id="cb153-8">display (sofr_yield_curve_simple_df)</span>
 <span id="cb153-9">display (sofr_yield_curve_details_df)</span>
@@ -3620,11 +3620,11 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 
 ```latex
 <span id="cb154-1"><span># Plot the SOFR yield curve</span></span>
-<span id="cb154-2">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'ZeroRate'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>f'SOFR Curve: Zero Rates as of </span><span>{</span>calc_date<span>.</span>to_date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb154-2">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'ZeroRate'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>f'SOFR Curve: Zero Rates as of </span><span>{</span>calc_date<span>.</span>to_date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb154-3">plt. Set_ylabel (<span>'Zero Rate (%)'</span>)</span>
 <span id="cb154-4">plt. Set_xlabel (<span>'Date'</span>)</span>
 <span id="cb154-5"></span>
-<span id="cb154-6">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,      y<span>=</span><span>'DiscountFactor'</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*-'</span>,      title<span>=</span><span>f'SOFR Curve: Discount Factors as of </span><span>{</span>calc_date<span>.</span>to_date ()<span>}</span><span>'</span>,      figsize<span>=</span>(<span>12</span>,     <span>4</span>))</span>
+<span id="cb154-6">plt <span>=</span> sofr_yield_curve_details_df.Plot (x<span>=</span><span>'Date'</span>,        y<span>=</span><span>'DiscountFactor'</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*-'</span>,        title<span>=</span><span>f'SOFR Curve: Discount Factors as of </span><span>{</span>calc_date<span>.</span>to_date ()<span>}</span><span>'</span>,        figsize<span>=</span>(<span>12</span>,       <span>4</span>))</span>
 <span id="cb154-7">plt. Set_ylabel (<span>'Discount Factors'</span>)</span>
 <span id="cb154-8">plt. Set_xlabel (<span>'Date'</span>)</span>
 ```
@@ -3635,18 +3635,18 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 
 | # Problem 4: CDS Hazard Rate calibration and valuation ## Follow Section “2. CDS Hazard Rate calibration + Pricing” in the QuantLib Advanced notebook !!! |
 | --- |
-| # Problem 1: Pricing risky bonds in the hazard rate model ## This is building upon - Homework 2 “Problem 2: US Treasury yield curve calibration (On-The-Runs)”,      - Homework 3 “Problem 3: US SOFR swap curve calibration” and - Homework 3 “Problem 4: CDS Hazard Rate calibration”. |
-| ## a. Prepare the market data ### Load the symbology + market data dataframes. Calibrate the following curves as of 2024-04-19: - the “on-the-run” US Treasury curve,      - the US SOFR curve and - the IBM CDS hazard rate curve (on the top of SOFR discount curve). |
+| # Problem 1: Pricing risky bonds in the hazard rate model ## This is building upon - Homework 2 “Problem 2: US Treasury yield curve calibration (On-The-Runs)”,        - Homework 3 “Problem 3: US SOFR swap curve calibration” and - Homework 3 “Problem 4: CDS Hazard Rate calibration”. |
+| ## a. Prepare the market data ### Load the symbology + market data dataframes. Calibrate the following curves as of 2024-04-19: - the “on-the-run” US Treasury curve,        - the US SOFR curve and - the IBM CDS hazard rate curve (on the top of SOFR discount curve). |
 | ::: {  .cell} ``` {. Python .cell-code} # US Treasury “On-The-Run” yield curve calibration # Follow Homework 2 Problem 2 and populate the US Treasury On-The-Run symbology + market data frame |
 | # Load bond_symbology. Xlsx bond_symbology = pd. Read_excel (‘./data/bond_symbology. Xlsx’) bond_symbology = bond_symbology[bond_symbology[‘cpn_type’] == ‘FIXED’] |
 | # Add term and TTM columns bond_symbology[‘term’] = (bond_symbology[‘maturity’] - bond_symbology[‘start_date’]). Dt. Days / 365.25 bond_symbology[‘TTM’] = (bond_symbology[‘maturity’] - as_of_date). Dt. Days / 365.25 |
 | # Load bond_market_prices_eod bond_market_prices_eod = pd. Read_excel (‘./data/bond_market_prices_eod. Xlsx’) |
 | # Add mid prices and yields bond_market_prices_eod[‘midPrice’] = 0.5_(bond_market_prices_eod[‘bidPrice’] + bond_market_prices_eod[‘askPrice’]) bond_market_prices_eod[‘midYield’] = 0.5_(bond_market_prices_eod[‘bidYield’] + bond_market_prices_eod[‘askYield’]) |
-| # Load govt_on_the_run,      as of 2024-04-19 govt_on_the_run = pd. Read_excel (‘./data/govt_on_the_run. Xlsx’) |
+| # Load govt_on_the_run,        as of 2024-04-19 govt_on_the_run = pd. Read_excel (‘./data/govt_on_the_run. Xlsx’) |
 | # Keep OTR treasuries only govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run[‘ticker’]. Str.Contains (‘B|C’)] |
 | # Create symbology for on-the-run treasuries only govt_symbology_otr = bond_symbology[bond_symbology[‘isin’]. Isin (govt_on_the_run_simple[‘isin’])]. Copy () govt_symbology_otr = govt_symbology_otr. Sort_values (by=‘maturity’) |
-| # Merge market data as of 2024-04-19 into treasury OTR symbology govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,      on=[‘class’,     ‘ticker’,     ‘figi’,     ‘isin’]) display (govt_combined_otr.Head ()) |
-| # tsy_yield_curve calibration tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,      govt_combined_otr,      ‘midPrice’) tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve) |
+| # Merge market data as of 2024-04-19 into treasury OTR symbology govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,        on=[‘class’,       ‘ticker’,       ‘figi’,       ‘isin’]) display (govt_combined_otr.Head ()) |
+| # tsy_yield_curve calibration tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,        govt_combined_otr,        ‘midPrice’) tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve) |
 | ``` |
 | ::: {. Cell-output .cell-output-display} |
 | ```{=html} |
@@ -3654,10 +3654,10 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 | .dataframe thead th { text-align: right; } |
 | ::: ::: |
 | ::: {  .cell} ``` {. Python .cell-code} # SOFR risk-free yield curve calibration # Follow Homework 3 Problem 3 and populate the SOFR symbology + market data frame |
-| # sofr_symbology sofr_symbology = pd. Read_excel (‘./data/sofr_swaps_symbology. Xlsx’) sofr_symbology. Set_index (‘figi’,      inplace=True) display (sofr_symbology) |
+| # sofr_symbology sofr_symbology = pd. Read_excel (‘./data/sofr_swaps_symbology. Xlsx’) sofr_symbology. Set_index (‘figi’,        inplace=True) display (sofr_symbology) |
 | # sofr_market_quotes sofr_market_quotes = pd. Read_excel (‘./data/sofr_swaps_market_data_eod. Xlsx’) |
-| # sofr_combined sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes[‘date’] == as_of_date],      how=‘left’,      on=[‘figi’]) display (sofr_combined.Head ()) |
-| # sofr_yield_curve calibration sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,      sofr_combined,      ‘midRate’) sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve) |
+| # sofr_combined sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes[‘date’] == as_of_date],        how=‘left’,        on=[‘figi’]) display (sofr_combined.Head ()) |
+| # sofr_yield_curve calibration sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,        sofr_combined,        ‘midRate’) sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve) |
 | ``` |
 | ::: {. Cell-output .cell-output-display} |
 | ```{=html} |
@@ -3671,27 +3671,27 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 | ::: ::: |
 | ::: { #28380123 .cell} ``` {. Python .cell-code} # Credit curve calibration using IBM CDS par spreads # Follow Homework 3 Problem 4 and create the IBM hazard rate curve |
 | # cds_market_quotes cds_market_quotes = pd. Read_excel (‘./data/cds_market_data_eod. Xlsx’) |
-| # Create par spreads (bps) dataframe par_spread_col_names = [f’par_spread_{n}y’ for n in [1,     2,     3,     5,     7,     10]] cds_par_spreads_df = cds_market_quotes. Set_index (‘date’)[par_spread_col_names] |
+| # Create par spreads (bps) dataframe par_spread_col_names = [f’par_spread_{n}y’ for n in [1,       2,       3,       5,       7,       10]] cds_par_spreads_df = cds_market_quotes. Set_index (‘date’)[par_spread_col_names] |
 | cds_par_spreads = list (cds_par_spreads_df. Loc[as_of_date]) print (cds_par_spreads) |
 | # cds_recovery_rate cds_recovery_rate = 0.4 |
-| # hazard_rate_curve hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,      sofr_yield_curve_handle,      cds_par_spreads,      cds_recovery_rate) |
+| # hazard_rate_curve hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,        sofr_yield_curve_handle,        cds_par_spreads,        cds_recovery_rate) |
 | # hazard_rate_curve calibrated to IBM CDS par spreads default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve) ``` |
 | ::: {. Cell-output .cell-output-stdout} |
 | ## b. Create the IBM risky bond objects ### Identify the following 3 IBM fixed rate bonds in the symbology table and create the corresponding fixed rate bonds (3 bond objects). |
 | - security = ‘IBM 3.3 05/15/26’ / figi = ‘BBG 00 P 3 BLH 05’ - security = ‘IBM 3.3 01/27/27’ / figi = ‘BBG 00 FVNGFP 3’ - security = ‘IBM 3 1/2 05/15/29’ / figi = ‘BBG 00 P 3 BLH 14’ |
-| Use the create_bond_from_symbology () function (discussed in from Homework 2,      Problem 1 b) to create the bonds objects. |
+| Use the create_bond_from_symbology () function (discussed in from Homework 2,        Problem 1 b) to create the bonds objects. |
 | List the bond cashflows using the get_bond_cashflows () function. |
 | ::: {  .cell} ``` {. Python .cell-code} # corp_symbology_ibm corp_symbology_ibm = bond_symbology[(bond_symbology. Ticker == ‘IBM’) & (bond_symbology. Cpn_type == ‘FIXED’)] |
-| # corp_combined_ibm corp_combined_ibm = corp_symbology_ibm.Merge (bond_market_prices_eod,      how=‘inner’,      on=[‘class’,      ‘ticker’,      ‘isin’,      ‘figi’]) corp_combined_ibm. Set_index (‘figi’,      inplace=True) |
-| # Keep selected IBM bonds only ibm_selected_figis = [‘BBG 00 P 3 BLH 05’,      ‘BBG 00 FVNGFP 3’,      ‘BBG 00 P 3 BLH 14’] ibm_df = corp_combined_ibm. Loc[ibm_selected_figis] |
+| # corp_combined_ibm corp_combined_ibm = corp_symbology_ibm.Merge (bond_market_prices_eod,        how=‘inner’,        on=[‘class’,        ‘ticker’,        ‘isin’,        ‘figi’]) corp_combined_ibm. Set_index (‘figi’,        inplace=True) |
+| # Keep selected IBM bonds only ibm_selected_figis = [‘BBG 00 P 3 BLH 05’,        ‘BBG 00 FVNGFP 3’,        ‘BBG 00 P 3 BLH 14’] ibm_df = corp_combined_ibm. Loc[ibm_selected_figis] |
 | display (ibm_df. T) ``` |
 | ::: {. Cell-output .cell-output-display} |
 | ```{=html} |
 | .dataframe tbody tr th { vertical-align: top; } |
 | .dataframe thead th { text-align: right; } |
 | ::: ::: |
-| ::: {  .cell} ``` {. Python .cell-code} # Create ibm_bond_objects ibm_bond_objects = [ create_bond_from_symbology (df_row. To_dict ()) for index,      df_row in ibm_df.Iterrows ()] |
-| # List the bond cashflows for i in range (0,      3): print (‘Bond cashflows for’,      ibm_df. Iloc[i][‘security’]) display (get_bond_cashflows (ibm_bond_objects[i],      calc_date)) |
+| ::: {  .cell} ``` {. Python .cell-code} # Create ibm_bond_objects ibm_bond_objects = [ create_bond_from_symbology (df_row. To_dict ()) for index,        df_row in ibm_df.Iterrows ()] |
+| # List the bond cashflows for i in range (0,        3): print (‘Bond cashflows for’,        ibm_df. Iloc[i][‘security’]) display (get_bond_cashflows (ibm_bond_objects[i],        calc_date)) |
 | ``` |
 | ::: {. Cell-output .cell-output-stdout} |
 | ::: {. Cell-output .cell-output-display} |
@@ -3713,13 +3713,13 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 | Price the 3 IBM bonds using the CDS-calibrated hazard rate curve for IBM (via RiskyBondEngine). |
 | Display the clean prices and yields for the 3 test bonds. |
 | ::: {  .cell} ``` {. Python .cell-code} # flat_recovery_rate flat_recovery_rate = 0.40 |
-| # Risky bond engine uses the calibrated CDS hazard rate curve for pricing credit default risk risky_bond_engine = ql.RiskyBondEngine (default_prob_curve_handle,      flat_recovery_rate,      tsy_yield_curve_handle) |
+| # Risky bond engine uses the calibrated CDS hazard rate curve for pricing credit default risk risky_bond_engine = ql.RiskyBondEngine (default_prob_curve_handle,        flat_recovery_rate,        tsy_yield_curve_handle) |
 | # Model/intrinsic prices and yields ibm_model_prices = [] ibm_model_yields = [] |
-| # Print the clean prices and yields for the 3 test bonds for i in range (0,      3): fixed_rate_bond = ibm_bond_objects[i] fixed_rate_bond.SetPricingEngine (risky_bond_engine) |
-| corpBondModelPrice = round (fixed_rate_bond.CleanPrice (),      3) corpBondModelYield = round (fixed_rate_bond.BondYield (corpBondModelPrice,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) * 100,      3) |
+| # Print the clean prices and yields for the 3 test bonds for i in range (0,        3): fixed_rate_bond = ibm_bond_objects[i] fixed_rate_bond.SetPricingEngine (risky_bond_engine) |
+| corpBondModelPrice = round (fixed_rate_bond.CleanPrice (),        3) corpBondModelYield = round (fixed_rate_bond.BondYield (corpBondModelPrice,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) * 100,        3) |
 | ibm_model_prices.Append (corpBondModelPrice) ibm_model_yields.Append (corpBondModelYield) |
 | # Display relevant metrics ibm_df[‘modelPrice’] = ibm_model_prices ibm_df[‘modelYield’] = ibm_model_yields |
-| display (ibm_df [[‘security’,      ‘modelPrice’,      ‘modelYield’]]) |
+| display (ibm_df [[‘security’,        ‘modelPrice’,        ‘modelYield’]]) |
 | ``` |
 | ::: {. Cell-output .cell-output-display} |
 | ```{=html} |
@@ -3732,14 +3732,14 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 | - basisPrice = modelPrice - midPrice - basisYield = modelYield - midYield |
 | Are the CDS intrinsic prices lower or higher than the bond prices observed on the market? What factors could explain the basis? |
 | ::: {  .cell} ``` {. Python .cell-code} # Compute basis ibm_df[‘basisPrice’] = ibm_df[‘modelPrice’] - ibm_df[‘midPrice’] ibm_df[‘basisYield’] = ibm_df[‘modelYield’] - ibm_df[‘midYield’] |
-| # Display relevant metrics display (ibm_df [[‘security’,      ‘midPrice’,      ‘modelPrice’,      ‘basisPrice’,      ‘midYield’,      ‘modelYield’,      ‘basisYield’]]) ``` |
+| # Display relevant metrics display (ibm_df [[‘security’,        ‘midPrice’,        ‘modelPrice’,        ‘basisPrice’,        ‘midYield’,        ‘modelYield’,        ‘basisYield’]]) ``` |
 | ::: {. Cell-output .cell-output-display} |
 | ```{=html} |
 | .dataframe tbody tr th { vertical-align: top; } |
 | .dataframe thead th { text-align: right; } |
 | ::: ::: |
-| CDS-implied,      intrinsic bond prices are higher than bond market prices. |
-| Following factors could explain the basis dislocation for the 3 IBM bonds: 1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the credit risk in the IBM issuer curve,      relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis arbitrage trades,      as discussed in Session 2. 2. Risk-free yield curve mismatch: the (synthetic) SOFR yield curve is tighter than the (cash) US Treasury curve. This is usually due to a funding differential for cash vs. Synthetic products. 3. Temporarily dislocation: Individual bonds are temporarily dislocated from their “fair value” from the issuer curve (e.g. in a Nelson-Siegel type parametric model). This can happen due to buying vs. Selling imbalance in that particular bond. 4. Liquidity discounts: in general,      less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied “richer” basis (wider in yield space). |
+| CDS-implied,        intrinsic bond prices are higher than bond market prices. |
+| Following factors could explain the basis dislocation for the 3 IBM bonds: 1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the credit risk in the IBM issuer curve,        relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis arbitrage trades,        as discussed in Session 2. 2. Risk-free yield curve mismatch: the (synthetic) SOFR yield curve is tighter than the (cash) US Treasury curve. This is usually due to a funding differential for cash vs. Synthetic products. 3. Temporarily dislocation: Individual bonds are temporarily dislocated from their “fair value” from the issuer curve (e.g. in a Nelson-Siegel type parametric model). This can happen due to buying vs. Selling imbalance in that particular bond. 4. Liquidity discounts: in general,        less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied “richer” basis (wider in yield space). |
 
 ## Problem 2: Compute scenario sensitivities for risky bonds
 
@@ -3756,8 +3756,8 @@ Remember that IR 01 = Dirty_Price * Duration.
 ```latex
 <span id="cb156-1"><span># Bump interest rate by -1 bps (parallel shift)</span></span>
 <span id="cb156-2">interest_rate_scenario_1 bp_down <span>=</span> ql.SimpleQuote (<span>-</span><span>0.0001</span>)</span>
-<span id="cb156-3">tsy_yield_curve_handle_1 bp_down <span>=</span> ql.YieldTermStructureHandle (ql.ZeroSpreadedTermStructure (tsy_yield_curve_handle,      ql.QuoteHandle (interest_rate_scenario_1 bp_down)))</span>
-<span id="cb156-4">risky_bond_engine_1 bp_down <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle,      flat_recovery_rate,      tsy_yield_curve_handle_1 bp_down)</span>
+<span id="cb156-3">tsy_yield_curve_handle_1 bp_down <span>=</span> ql.YieldTermStructureHandle (ql.ZeroSpreadedTermStructure (tsy_yield_curve_handle,        ql.QuoteHandle (interest_rate_scenario_1 bp_down)))</span>
+<span id="cb156-4">risky_bond_engine_1 bp_down <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle,        flat_recovery_rate,        tsy_yield_curve_handle_1 bp_down)</span>
 ```
 
 ```latex
@@ -3768,7 +3768,7 @@ Remember that IR 01 = Dirty_Price * Duration.
 <span id="cb157-5"></span>
 <span id="cb157-6"></span>
 <span id="cb157-7"><span># Calculate IR 01 and duration</span></span>
-<span id="cb157-8"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,      <span>3</span>):</span>
+<span id="cb157-8"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,        <span>3</span>):</span>
 <span id="cb157-9">    fixed_rate_bond <span>=</span> ibm_bond_objects[i]</span>
 <span id="cb157-10">    </span>
 <span id="cb157-11">    <span># Calc model dirty price for base case</span></span>
@@ -3793,7 +3793,7 @@ Remember that IR 01 = Dirty_Price * Duration.
 <span id="cb157-30">ibm_df[<span>'scen_IR 01'</span>] <span>=</span> ibm_scen_IR 01</span>
 <span id="cb157-31">ibm_df[<span>'scen_duration'</span>] <span>=</span> ibm_scen_duration</span>
 <span id="cb157-32"></span>
-<span id="cb157-33">display (ibm_df [[<span>'security'</span>,      <span>'scen_IR01'</span>,      <span>'scen_duration'</span>]])</span>
+<span id="cb157-33">display (ibm_df [[<span>'security'</span>,        <span>'scen_IR01'</span>,        <span>'scen_duration'</span>]])</span>
 ```
 
 |  | security | scen_IR 01 | scen_duration |
@@ -3820,7 +3820,7 @@ Compare the analytic DV 01 s vs. The scenario IR 01 s. Are they expected to be 
 <span id="cb158-3">ibm_analytic_DV 01 s <span>=</span> []</span>
 <span id="cb158-4"></span>
 <span id="cb158-5"><span># Calculate IR 01 and duration</span></span>
-<span id="cb158-6"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,      <span>3</span>):</span>
+<span id="cb158-6"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,        <span>3</span>):</span>
 <span id="cb158-7">    fixed_rate_bond <span>=</span> ibm_bond_objects[i]</span>
 <span id="cb158-8">    </span>
 <span id="cb158-9">    <span># Calc model dirty price for base case</span></span>
@@ -3828,8 +3828,8 @@ Compare the analytic DV 01 s vs. The scenario IR 01 s. Are they expected to be 
 <span id="cb158-11">    dirty_price_base <span>=</span> fixed_rate_bond.DirtyPrice ()</span>
 <span id="cb158-12">    </span>
 <span id="cb158-13">    <span># Compute analytical duration and DV 01</span></span>
-<span id="cb158-14">    bond_yield_rate <span>=</span> ql.InterestRate (ibm_model_yields[i]<span>/</span><span>100</span>,      ql.ActualActual (ql. ActualActual. ISMA),      ql. Compounded,      ql. Semiannual)</span>
-<span id="cb158-15">    analytic_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,      bond_yield_rate)</span>
+<span id="cb158-14">    bond_yield_rate <span>=</span> ql.InterestRate (ibm_model_yields[i]<span>/</span><span>100</span>,        ql.ActualActual (ql. ActualActual. ISMA),        ql. Compounded,        ql. Semiannual)</span>
+<span id="cb158-15">    analytic_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,        bond_yield_rate)</span>
 <span id="cb158-16">    analytic_DV 01 <span>=</span> analytic_duration <span>*</span> dirty_price_base <span>/</span><span>100</span> </span>
 <span id="cb158-17"></span>
 <span id="cb158-18">    ibm_analytic_durations.Append (analytic_duration)</span>
@@ -3840,7 +3840,7 @@ Compare the analytic DV 01 s vs. The scenario IR 01 s. Are they expected to be 
 <span id="cb158-23">ibm_df[<span>'analytic_DV 01'</span>] <span>=</span> ibm_analytic_DV 01 s</span>
 <span id="cb158-24">ibm_df[<span>'analytic_duration'</span>] <span>=</span> ibm_analytic_durations</span>
 <span id="cb158-25"></span>
-<span id="cb158-26">display (ibm_df [[<span>'security'</span>,      <span>'analytic_DV01'</span>,      <span>'analytic_duration'</span>]])</span>
+<span id="cb158-26">display (ibm_df [[<span>'security'</span>,        <span>'analytic_DV01'</span>,        <span>'analytic_duration'</span>]])</span>
 ```
 
 |  | security | analytic_DV 01 | analytic_duration |
@@ -3855,7 +3855,7 @@ Compare the analytic DV 01 s vs. The scenario IR 01 s. Are they expected to be 
 
 ```latex
 <span id="cb159-1"><span># Compare the analytical DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?</span></span>
-<span id="cb159-2">display (ibm_df [[<span>'security'</span>,      <span>'scen_IR01'</span>,      <span>'analytic_DV01'</span>]])</span>
+<span id="cb159-2">display (ibm_df [[<span>'security'</span>,        <span>'scen_IR01'</span>,        <span>'analytic_DV01'</span>]])</span>
 ```
 
 |  | security | scen_IR 01 | analytic_DV 01 |
@@ -3889,23 +3889,23 @@ Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be simila
 <span id="cb160-4"><span>print</span>(cds_par_spreads_1 bp_down)</span>
 <span id="cb160-5"></span>
 <span id="cb160-6"><span># hazard_rate_curve</span></span>
-<span id="cb160-7">hazard_rate_curve_1 bp_down <span>=</span> calibrate_cds_hazard_rate_curve (calc_date,      sofr_yield_curve_handle,      cds_par_spreads_1 bp_down,      cds_recovery_rate)</span>
+<span id="cb160-7">hazard_rate_curve_1 bp_down <span>=</span> calibrate_cds_hazard_rate_curve (calc_date,        sofr_yield_curve_handle,        cds_par_spreads_1 bp_down,        cds_recovery_rate)</span>
 <span id="cb160-8">default_prob_curve_handle_1 bp_down <span>=</span> ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve_1 bp_down)</span>
 <span id="cb160-9"></span>
 <span id="cb160-10"><span># Risky bond engine for CDS Par Spread -1 bp scenario</span></span>
-<span id="cb160-11">risky_bond_engine_cds_1 bp_down <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle_1 bp_down,      flat_recovery_rate,      tsy_yield_curve_handle)</span>
+<span id="cb160-11">risky_bond_engine_cds_1 bp_down <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle_1 bp_down,        flat_recovery_rate,        tsy_yield_curve_handle)</span>
 ```
 
 ```latex
-[12.0769,      17.3082,      24.866,      39.6501,      53.9093,      65.3221]
-[11.0769,      16.3082,      23.866,      38.6501,      52.9093,      64.3221]
+[12.0769,        17.3082,        24.866,        39.6501,        53.9093,        65.3221]
+[11.0769,        16.3082,        23.866,        38.6501,        52.9093,        64.3221]
 ```
 
 ```latex
 <span id="cb162-1"><span># Calculate CS 01</span></span>
 <span id="cb162-2">ibm_model_cs 01 <span>=</span> []</span>
 <span id="cb162-3"></span>
-<span id="cb162-4"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,      <span>3</span>):</span>
+<span id="cb162-4"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,        <span>3</span>):</span>
 <span id="cb162-5">    fixed_rate_bond <span>=</span> ibm_bond_objects[i]     </span>
 <span id="cb162-6">    price_base <span>=</span> ibm_model_prices[i]   </span>
 <span id="cb162-7">    </span>
@@ -3923,7 +3923,7 @@ Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be simila
 <span id="cb162-19">ibm_df[<span>'CS 01'</span>] <span>=</span> ibm_model_cs 01</span>
 <span id="cb162-20"></span>
 <span id="cb162-21"><span># Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?</span></span>
-<span id="cb162-22">display (ibm_df [[<span>'security'</span>,      <span>'scen_IR01'</span>,      <span>'analytic_DV01'</span>,      <span>'CS01'</span>]])</span>
+<span id="cb162-22">display (ibm_df [[<span>'security'</span>,        <span>'scen_IR01'</span>,        <span>'analytic_DV01'</span>,        <span>'CS01'</span>]])</span>
 ```
 
 |  | security | scen_IR 01 | analytic_DV 01 | CS 01 |
@@ -3951,12 +3951,12 @@ Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped recove
 ```latex
 <span id="cb163-1"><span># Bump recovery rate by 1% up</span></span>
 <span id="cb163-2">flat_recovery_rate_1 pct_up <span>=</span> flat_recovery_rate <span>+</span> <span>0.01</span></span>
-<span id="cb163-3">risky_bond_engine_rec_1 pct_up <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle,      flat_recovery_rate_1 pct_up,      tsy_yield_curve_handle)</span>
+<span id="cb163-3">risky_bond_engine_rec_1 pct_up <span>=</span> ql.RiskyBondEngine (default_prob_curve_handle,        flat_recovery_rate_1 pct_up,        tsy_yield_curve_handle)</span>
 <span id="cb163-4"></span>
 <span id="cb163-5"><span># Calculate REC 01</span></span>
 <span id="cb163-6">ibm_model_rec 01 <span>=</span> []</span>
 <span id="cb163-7"></span>
-<span id="cb163-8"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,      <span>3</span>):</span>
+<span id="cb163-8"><span>for</span> i <span>in</span> <span>range</span>(<span>0</span>,        <span>3</span>):</span>
 <span id="cb163-9">    fixed_rate_bond <span>=</span> ibm_bond_objects[i]</span>
 <span id="cb163-10">    price_base <span>=</span> ibm_model_prices[i]    </span>
 <span id="cb163-11">    </span>
@@ -3971,7 +3971,7 @@ Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped recove
 <span id="cb163-20"></span>
 <span id="cb163-21"><span># Display relevant metrics</span></span>
 <span id="cb163-22">ibm_df[<span>'REC 01'</span>] <span>=</span> ibm_model_rec 01</span>
-<span id="cb163-23"><span>print</span>(ibm_df [[<span>'security'</span>,      <span>'REC01'</span>]])</span>
+<span id="cb163-23"><span>print</span>(ibm_df [[<span>'security'</span>,        <span>'REC01'</span>]])</span>
 ```
 
 ```latex
@@ -4005,14 +4005,14 @@ Plot the VZ yields (Y-axis) by TTM (X-axis).
 <span id="cb165-2">corp_symbology_vz <span>=</span> bond_symbology[(bond_symbology. Ticker <span>==</span> <span>'VZ'</span>) <span>&amp;</span> (bond_symbology. Cpn_type <span>==</span> <span>'FIXED'</span>) <span>&amp;</span> (bond_symbology. Amt_out <span>&gt;</span> <span>100</span>)]</span>
 <span id="cb165-3"></span>
 <span id="cb165-4"><span># Create vz_df</span></span>
-<span id="cb165-5">vz_df <span>=</span> corp_symbology_vz.Merge (bond_market_prices_eod,      how<span>=</span><span>'inner'</span>,      on<span>=</span>[<span>'class'</span>,      <span>'ticker'</span>,      <span>'isin'</span>,      <span>'figi'</span>])</span>
+<span id="cb165-5">vz_df <span>=</span> corp_symbology_vz.Merge (bond_market_prices_eod,        how<span>=</span><span>'inner'</span>,        on<span>=</span>[<span>'class'</span>,        <span>'ticker'</span>,        <span>'isin'</span>,        <span>'figi'</span>])</span>
 <span id="cb165-6"></span>
 <span id="cb165-7"><span># Sort the dataframe by bond maturity and display the head of the dataframe.</span></span>
-<span id="cb165-8">vz_df. Sort_values (<span>'maturity'</span>,      inplace<span>=</span><span>True</span>)</span>
+<span id="cb165-8">vz_df. Sort_values (<span>'maturity'</span>,        inplace<span>=</span><span>True</span>)</span>
 <span id="cb165-9">display (vz_df.Head ())</span>
 <span id="cb165-10"></span>
 <span id="cb165-11"><span># Plot the VZ yields (Y-axis) by TTM (X-axis).</span></span>
-<span id="cb165-12">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'TTM'</span>,      y <span>=</span> <span>'midYield'</span>,      figsize <span>=</span> (<span>12</span>,      <span>6</span>),      title <span>=</span> <span>"VZ Market Yields (pct)"</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*'</span>)</span>
+<span id="cb165-12">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'TTM'</span>,        y <span>=</span> <span>'midYield'</span>,        figsize <span>=</span> (<span>12</span>,        <span>6</span>),        title <span>=</span> <span>"VZ Market Yields (pct)"</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*'</span>)</span>
 <span id="cb165-13">plt. Set_ylabel (<span>'Bond Yields (pct)'</span>)</span>
 <span id="cb165-14">plt. Set_xlabel (<span>'Bond TTM'</span>)</span>
 ```
@@ -4038,8 +4038,8 @@ For each bond,  compute the bond DV 01,  using Section “9. Analytical Duration
 Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liquidity adjuster for the purpose of this exercise.
 
 ```latex
-<span id="cb167-1"><span>def</span> nelson_siegel (params,      maturity):</span>
-<span id="cb167-2">    <span>''' params = (theta 1,      theta 2,      theta 3,      lambda)'''</span>        </span>
+<span id="cb167-1"><span>def</span> nelson_siegel (params,        maturity):</span>
+<span id="cb167-2">    <span>''' params = (theta 1,        theta 2,        theta 3,        lambda)'''</span>        </span>
 <span id="cb167-3">    <span>if</span>(maturity <span>==</span> <span>0</span> <span>or</span> params[<span>3</span>] <span>&lt;=</span> <span>0</span>):</span>
 <span id="cb167-4">        slope_1 <span>=</span> <span>1</span></span>
 <span id="cb167-5">        curvature <span>=</span> <span>0</span></span>
@@ -4051,34 +4051,34 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb167-11">    </span>
 <span id="cb167-12">    <span>return</span> total_value</span>
 <span id="cb167-13"></span>
-<span id="cb167-14"><span>def</span> create_nelson_siegel_curve (calc_date,      nelson_siegel_params):</span>
-<span id="cb167-15">    <span>''' nelson_siegel_params = (theta 1,      theta 2,      theta 3,      lambda)'''</span>            </span>
-<span id="cb167-16">    nelson_siegel_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,      ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
-<span id="cb167-17">    nelson_siegel_average_hazard_rates <span>=</span> [nelson_siegel (nelson_siegel_params,      T) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
+<span id="cb167-14"><span>def</span> create_nelson_siegel_curve (calc_date,        nelson_siegel_params):</span>
+<span id="cb167-15">    <span>''' nelson_siegel_params = (theta 1,        theta 2,        theta 3,        lambda)'''</span>            </span>
+<span id="cb167-16">    nelson_siegel_surv_prob_dates <span>=</span> [calc_date <span>+</span> ql.Period (T ,        ql. Years) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
+<span id="cb167-17">    nelson_siegel_average_hazard_rates <span>=</span> [nelson_siegel (nelson_siegel_params,        T) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
 <span id="cb167-18">    nelson_siegel_surv_prob_levels <span>=</span> [np.Exp (<span>-</span>T <span>*</span> nelson_siegel_average_hazard_rates[T]) <span>for</span> T <span>in</span> <span>range</span>(<span>31</span>)]</span>
 <span id="cb167-19">    </span>
 <span id="cb167-20">    <span># cap and floor survival probs</span></span>
-<span id="cb167-21">    nelson_siegel_surv_prob_levels <span>=</span> [<span>max</span>(<span>min</span>(x,     <span>1</span>),     <span>1 e-8</span>) <span>for</span> x <span>in</span> nelson_siegel_surv_prob_levels]</span>
+<span id="cb167-21">    nelson_siegel_surv_prob_levels <span>=</span> [<span>max</span>(<span>min</span>(x,       <span>1</span>),       <span>1 e-8</span>) <span>for</span> x <span>in</span> nelson_siegel_surv_prob_levels]</span>
 <span id="cb167-22"></span>
 <span id="cb167-23">    <span># nelson_siegel_surv_prob_curve</span></span>
-<span id="cb167-24">    nelson_siegel_credit_curve <span>=</span> ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,      nelson_siegel_surv_prob_levels,      ql. Actual 360 (),      ql.TARGET ())</span>
+<span id="cb167-24">    nelson_siegel_credit_curve <span>=</span> ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,        nelson_siegel_surv_prob_levels,        ql. Actual 360 (),        ql.TARGET ())</span>
 <span id="cb167-25">    nelson_siegel_credit_curve.EnableExtrapolation ()</span>
 <span id="cb167-26">    nelson_siegel_credit_curve_handle <span>=</span> ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)</span>
 <span id="cb167-27">    </span>
 <span id="cb167-28">    <span>return</span>(nelson_siegel_credit_curve_handle)</span>
 <span id="cb167-29"></span>
 <span id="cb167-30"></span>
-<span id="cb167-31"><span>def</span> calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,      </span>
-<span id="cb167-32">                      calc_date,      </span>
-<span id="cb167-33">                      fixed_rate_bond_objects,      </span>
-<span id="cb167-34">                      tsy_yield_curve_handle,      </span>
+<span id="cb167-31"><span>def</span> calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,        </span>
+<span id="cb167-32">                      calc_date,        </span>
+<span id="cb167-33">                      fixed_rate_bond_objects,        </span>
+<span id="cb167-34">                      tsy_yield_curve_handle,        </span>
 <span id="cb167-35">                      bond_recovery_rate <span>=</span> <span>0.4</span>):</span>
 <span id="cb167-36">    </span>
 <span id="cb167-37">    <span># nelson_siegel_surv_prob_curve_handle</span></span>
-<span id="cb167-38">    nelson_siegel_surv_prob_curve_handle <span>=</span> create_nelson_siegel_curve (calc_date,      nelson_siegel_params)</span>
+<span id="cb167-38">    nelson_siegel_surv_prob_curve_handle <span>=</span> create_nelson_siegel_curve (calc_date,        nelson_siegel_params)</span>
 <span id="cb167-39">    </span>
 <span id="cb167-40">    <span># nelson_siegel_risky_bond_engine</span></span>
-<span id="cb167-41">    nelson_siegel_risky_bond_engine <span>=</span> ql.RiskyBondEngine (nelson_siegel_surv_prob_curve_handle,      bond_recovery_rate,      tsy_yield_curve_handle)</span>
+<span id="cb167-41">    nelson_siegel_risky_bond_engine <span>=</span> ql.RiskyBondEngine (nelson_siegel_surv_prob_curve_handle,        bond_recovery_rate,        tsy_yield_curve_handle)</span>
 <span id="cb167-42">    </span>
 <span id="cb167-43">    bond_model_prices <span>=</span> []</span>
 <span id="cb167-44">    bond_model_yields <span>=</span> []</span>
@@ -4087,26 +4087,26 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb167-47">        fixed_rate_bond.SetPricingEngine (nelson_siegel_risky_bond_engine)</span>
 <span id="cb167-48">        </span>
 <span id="cb167-49">        bond_price <span>=</span> fixed_rate_bond.CleanPrice ()                </span>
-<span id="cb167-50">        bond_yield <span>=</span> fixed_rate_bond.BondYield (bond_price,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb167-50">        bond_yield <span>=</span> fixed_rate_bond.BondYield (bond_price,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
 <span id="cb167-51">        </span>
 <span id="cb167-52">        bond_model_prices.Append (bond_price)</span>
 <span id="cb167-53">        bond_model_yields.Append (bond_yield)</span>
 <span id="cb167-54">    </span>
-<span id="cb167-55">    <span>return</span>(bond_model_prices,      bond_model_yields)</span>
+<span id="cb167-55">    <span>return</span>(bond_model_prices,        bond_model_yields)</span>
 <span id="cb167-56"></span>
-<span id="cb167-57"><span>def</span> nelson_siegel_sse (nelson_siegel_params,      </span>
-<span id="cb167-58">                      calc_date,      </span>
-<span id="cb167-59">                      fixed_rate_bond_objects,      </span>
-<span id="cb167-60">                      market_prices,      </span>
-<span id="cb167-61">                      calib_weights,     </span>
-<span id="cb167-62">                      tsy_yield_curve_handle,      </span>
+<span id="cb167-57"><span>def</span> nelson_siegel_sse (nelson_siegel_params,        </span>
+<span id="cb167-58">                      calc_date,        </span>
+<span id="cb167-59">                      fixed_rate_bond_objects,        </span>
+<span id="cb167-60">                      market_prices,        </span>
+<span id="cb167-61">                      calib_weights,       </span>
+<span id="cb167-62">                      tsy_yield_curve_handle,        </span>
 <span id="cb167-63">                      bond_recovery_rate <span>=</span> <span>0.4</span>):</span>
 <span id="cb167-64">    </span>
 <span id="cb167-65">    <span># bond_model_prices</span></span>
-<span id="cb167-66">    bond_model_prices,      bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,      </span>
-<span id="cb167-67">                      calc_date,      </span>
-<span id="cb167-68">                      fixed_rate_bond_objects,      </span>
-<span id="cb167-69">                      tsy_yield_curve_handle,      </span>
+<span id="cb167-66">    bond_model_prices,        bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,        </span>
+<span id="cb167-67">                      calc_date,        </span>
+<span id="cb167-68">                      fixed_rate_bond_objects,        </span>
+<span id="cb167-69">                      tsy_yield_curve_handle,        </span>
 <span id="cb167-70">                      bond_recovery_rate)</span>
 <span id="cb167-71">    <span># sse    </span></span>
 <span id="cb167-72">    sse <span>=</span> <span>0</span></span>
@@ -4118,7 +4118,7 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb167-78">    <span>return</span>(sse)    </span>
 <span id="cb167-79"></span>
 <span id="cb167-80"></span>
-<span id="cb167-81"><span>def</span> create_bonds_and_weights (bond_details,      tsy_yield_curve_handle):</span>
+<span id="cb167-81"><span>def</span> create_bonds_and_weights (bond_details,        tsy_yield_curve_handle):</span>
 <span id="cb167-82">    </span>
 <span id="cb167-83">    <span># risk_free_bond_engine</span></span>
 <span id="cb167-84">    risk_free_bond_engine <span>=</span> ql.DiscountingBondEngine (tsy_yield_curve_handle)</span>
@@ -4130,16 +4130,16 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb167-90">    bond_DV 01 s <span>=</span> []    </span>
 <span id="cb167-91">    bond_durations <span>=</span> []    </span>
 <span id="cb167-92">    </span>
-<span id="cb167-93">    <span>for</span> index,      row <span>in</span> bond_details.Iterrows ():</span>
+<span id="cb167-93">    <span>for</span> index,        row <span>in</span> bond_details.Iterrows ():</span>
 <span id="cb167-94">        fixed_rate_bond <span>=</span> create_bond_from_symbology (row)</span>
 <span id="cb167-95">        fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)</span>
 <span id="cb167-96">        </span>
 <span id="cb167-97">        fixed_rate_bond_objects.Append (fixed_rate_bond)</span>
 <span id="cb167-98">        </span>
 <span id="cb167-99">        bond_price <span>=</span> row[<span>'midPrice'</span>]                </span>
-<span id="cb167-100">        bond_yield <span>=</span> fixed_rate_bond.BondYield (bond_price,      ql. Thirty 360 (ql. Thirty 360. USA),      ql. Compounded,      ql. Semiannual) <span>*</span> <span>100</span></span>
-<span id="cb167-101">        bond_yield_rate <span>=</span> ql.InterestRate (bond_yield<span>/</span><span>100</span>,      ql.ActualActual (ql. ActualActual. ISMA),      ql. Compounded,      ql. Semiannual)</span>
-<span id="cb167-102">        bond_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,      bond_yield_rate)</span>
+<span id="cb167-100">        bond_yield <span>=</span> fixed_rate_bond.BondYield (bond_price,        ql. Thirty 360 (ql. Thirty 360. USA),        ql. Compounded,        ql. Semiannual) <span>*</span> <span>100</span></span>
+<span id="cb167-101">        bond_yield_rate <span>=</span> ql.InterestRate (bond_yield<span>/</span><span>100</span>,        ql.ActualActual (ql. ActualActual. ISMA),        ql. Compounded,        ql. Semiannual)</span>
+<span id="cb167-102">        bond_duration <span>=</span> ql.BondFunctions.Duration (fixed_rate_bond,        bond_yield_rate)</span>
 <span id="cb167-103">        bond_DV 01   <span>=</span> fixed_rate_bond.DirtyPrice () <span>*</span> bond_duration</span>
 <span id="cb167-104">        </span>
 <span id="cb167-105">        bond_market_prices.Append (bond_price)</span>
@@ -4152,7 +4152,7 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb167-112">    sum_calib_weights <span>=</span> <span>sum</span>(calib_weights)</span>
 <span id="cb167-113">    calib_weights <span>=</span> [x <span>/</span> sum_calib_weights <span>for</span> x <span>in</span> calib_weights]</span>
 <span id="cb167-114">    </span>
-<span id="cb167-115">    <span>return</span>(fixed_rate_bond_objects,      calib_weights,      bond_market_prices,      bond_yields,      bond_DV 01 s,      bond_durations)</span>
+<span id="cb167-115">    <span>return</span>(fixed_rate_bond_objects,        calib_weights,        bond_market_prices,        bond_yields,        bond_DV 01 s,        bond_durations)</span>
 ```
 
 ```latex
@@ -4160,26 +4160,26 @@ Use 1/DV 01 as SSE weights,  as discussed in Lecture 3. You can ignore the liqui
 <span id="cb168-2">bond_recovery_rate <span>=</span> <span>0.4</span></span>
 <span id="cb168-3"></span>
 <span id="cb168-4"><span># initial_nelson_siegel_params</span></span>
-<span id="cb168-5">initial_nelson_siegel_params <span>=</span> [<span>0.03</span>,      <span>-</span><span>0.01</span>,      <span>0.02</span>,      <span>5.0</span>]</span>
-<span id="cb168-6"><span>print</span>(<span>'initial_nelson_siegel_params: '</span>,      initial_nelson_siegel_params)</span>
+<span id="cb168-5">initial_nelson_siegel_params <span>=</span> [<span>0.03</span>,        <span>-</span><span>0.01</span>,        <span>0.02</span>,        <span>5.0</span>]</span>
+<span id="cb168-6"><span>print</span>(<span>'initial_nelson_siegel_params: '</span>,        initial_nelson_siegel_params)</span>
 <span id="cb168-7"></span>
-<span id="cb168-8">fixed_rate_bond_objects,      calib_weights,      bond_market_prices,      bond_yields,      bond_DV 01 s,      bond_durations <span>=</span> create_bonds_and_weights (vz_df,      tsy_yield_curve_handle)</span>
+<span id="cb168-8">fixed_rate_bond_objects,        calib_weights,        bond_market_prices,        bond_yields,        bond_DV 01 s,        bond_durations <span>=</span> create_bonds_and_weights (vz_df,        tsy_yield_curve_handle)</span>
 <span id="cb168-9">vz_df[<span>'duration'</span>] <span>=</span> bond_durations</span>
 <span id="cb168-10">vz_df[<span>'calib_weight'</span>] <span>=</span> calib_weights</span>
 <span id="cb168-11"></span>
-<span id="cb168-12">init_bond_model_prices,      init_bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (initial_nelson_siegel_params,      calc_date,      fixed_rate_bond_objects,      tsy_yield_curve_handle,      bond_recovery_rate)</span>
+<span id="cb168-12">init_bond_model_prices,        init_bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (initial_nelson_siegel_params,        calc_date,        fixed_rate_bond_objects,        tsy_yield_curve_handle,        bond_recovery_rate)</span>
 <span id="cb168-13">vz_df[<span>'initModelPrice'</span>] <span>=</span> init_bond_model_prices</span>
 <span id="cb168-14">vz_df[<span>'initModelYield'</span>] <span>=</span> init_bond_model_yields</span>
 <span id="cb168-15"></span>
-<span id="cb168-16">display (vz_df [[<span>'security'</span>,      <span>'midPrice'</span>,      <span>'initModelPrice'</span>,      <span>'calib_weight'</span>]]. head ())</span>
+<span id="cb168-16">display (vz_df [[<span>'security'</span>,        <span>'midPrice'</span>,        <span>'initModelPrice'</span>,        <span>'calib_weight'</span>]]. head ())</span>
 <span id="cb168-17"></span>
 <span id="cb168-18"><span># initial_sse</span></span>
-<span id="cb168-19">initial_sse <span>=</span> nelson_siegel_sse (initial_nelson_siegel_params,      calc_date,      fixed_rate_bond_objects,      bond_market_prices,      calib_weights,      tsy_yield_curve_handle,      bond_recovery_rate)</span>
-<span id="cb168-20"><span>print</span>(<span>'initial_sse ='</span>,      initial_sse)</span>
+<span id="cb168-19">initial_sse <span>=</span> nelson_siegel_sse (initial_nelson_siegel_params,        calc_date,        fixed_rate_bond_objects,        bond_market_prices,        calib_weights,        tsy_yield_curve_handle,        bond_recovery_rate)</span>
+<span id="cb168-20"><span>print</span>(<span>'initial_sse ='</span>,        initial_sse)</span>
 ```
 
 ```latex
-Initial_nelson_siegel_params: [0.03,      -0.01,      0.02,      5.0]
+Initial_nelson_siegel_params: [0.03,        -0.01,        0.02,        5.0]
 Initial_sse = 25.591932200527502
 ```
 
@@ -4202,25 +4202,25 @@ Create the calibrated/smooth credit curve corresponding to the optimal model par
 ```latex
 <span id="cb170-1"><span>from</span> scipy. Optimize <span>import</span> minimize</span>
 <span id="cb170-2"></span>
-<span id="cb170-3"><span>def</span> calibrate_nelson_siegel_model (initial_nelson_siegel_params,     </span>
-<span id="cb170-4">                                  calc_date,      </span>
-<span id="cb170-5">                                  bond_details,      </span>
-<span id="cb170-6">                                  tsy_yield_curve_handle,      </span>
+<span id="cb170-3"><span>def</span> calibrate_nelson_siegel_model (initial_nelson_siegel_params,       </span>
+<span id="cb170-4">                                  calc_date,        </span>
+<span id="cb170-5">                                  bond_details,        </span>
+<span id="cb170-6">                                  tsy_yield_curve_handle,        </span>
 <span id="cb170-7">                                  bond_recovery_rate <span>=</span> <span>0.4</span>):</span>
 <span id="cb170-8">    <span># create_bonds_and_weights</span></span>
-<span id="cb170-9">    fixed_rate_bond_objects,      calib_weights,      bond_market_prices,      bond_yields,      bond_DV 01 s,      bond_durations <span>=</span> create_bonds_and_weights (bond_details,      tsy_yield_curve_handle)</span>
+<span id="cb170-9">    fixed_rate_bond_objects,        calib_weights,        bond_market_prices,        bond_yields,        bond_DV 01 s,        bond_durations <span>=</span> create_bonds_and_weights (bond_details,        tsy_yield_curve_handle)</span>
 <span id="cb170-10">    </span>
 <span id="cb170-11">    <span># start calibration</span></span>
-<span id="cb170-12">    param_bounds <span>=</span> [(<span>1 e-3</span>,      <span>0.1</span>),      (<span>-</span><span>0.1</span>,      <span>0.1</span>),      (<span>-</span><span>0.1</span>,      <span>0.1</span>),      (<span>1 e-3</span>,      <span>10</span>)]</span>
+<span id="cb170-12">    param_bounds <span>=</span> [(<span>1 e-3</span>,        <span>0.1</span>),        (<span>-</span><span>0.1</span>,        <span>0.1</span>),        (<span>-</span><span>0.1</span>,        <span>0.1</span>),        (<span>1 e-3</span>,        <span>10</span>)]</span>
 <span id="cb170-13">            </span>
-<span id="cb170-14">    calib_results <span>=</span> minimize (nelson_siegel_sse,     </span>
-<span id="cb170-15">                                            initial_nelson_siegel_params,      </span>
-<span id="cb170-16">                                            args <span>=</span> (calc_date,      </span>
-<span id="cb170-17">                                                    fixed_rate_bond_objects,      </span>
-<span id="cb170-18">                                                    bond_market_prices,      </span>
-<span id="cb170-19">                                                    calib_weights,     </span>
-<span id="cb170-20">                                                    tsy_yield_curve_handle,      </span>
-<span id="cb170-21">                                                    bond_recovery_rate),     </span>
+<span id="cb170-14">    calib_results <span>=</span> minimize (nelson_siegel_sse,       </span>
+<span id="cb170-15">                                            initial_nelson_siegel_params,        </span>
+<span id="cb170-16">                                            args <span>=</span> (calc_date,        </span>
+<span id="cb170-17">                                                    fixed_rate_bond_objects,        </span>
+<span id="cb170-18">                                                    bond_market_prices,        </span>
+<span id="cb170-19">                                                    calib_weights,       </span>
+<span id="cb170-20">                                                    tsy_yield_curve_handle,        </span>
+<span id="cb170-21">                                                    bond_recovery_rate),       </span>
 <span id="cb170-22">                                            bounds <span>=</span> param_bounds)</span>
 <span id="cb170-23"></span>
 <span id="cb170-24"></span>
@@ -4230,19 +4230,19 @@ Create the calibrated/smooth credit curve corresponding to the optimal model par
 
 ```latex
 <span id="cb171-1"><span># calibrate_nelson_siegel_model</span></span>
-<span id="cb171-2">calib_results <span>=</span> calibrate_nelson_siegel_model (initial_nelson_siegel_params,      calc_date,      vz_df,      tsy_yield_curve_handle,      bond_recovery_rate)</span>
+<span id="cb171-2">calib_results <span>=</span> calibrate_nelson_siegel_model (initial_nelson_siegel_params,        calc_date,        vz_df,        tsy_yield_curve_handle,        bond_recovery_rate)</span>
 <span id="cb171-3"><span>print</span>(calib_results)</span>
 <span id="cb171-4">    </span>
 <span id="cb171-5"><span># calib_nelson_siegel_params</span></span>
 <span id="cb171-6">calib_nelson_siegel_params <span>=</span> calib_results. X</span>
-<span id="cb171-7"><span>print</span>(<span>'calib_nelson_siegel_params: '</span>,      calib_nelson_siegel_params)</span>
+<span id="cb171-7"><span>print</span>(<span>'calib_nelson_siegel_params: '</span>,        calib_nelson_siegel_params)</span>
 <span id="cb171-8"></span>
 <span id="cb171-9"><span># calib_nelson_siegel_curve</span></span>
-<span id="cb171-10">calib_nelson_siegel_curve <span>=</span> create_nelson_siegel_curve (calc_date,      calib_nelson_siegel_params)</span>
+<span id="cb171-10">calib_nelson_siegel_curve <span>=</span> create_nelson_siegel_curve (calc_date,        calib_nelson_siegel_params)</span>
 <span id="cb171-11"></span>
 <span id="cb171-12"><span># calib_sse</span></span>
-<span id="cb171-13">calib_sse <span>=</span> nelson_siegel_sse (calib_nelson_siegel_params,      calc_date,      fixed_rate_bond_objects,      bond_market_prices,      calib_weights,      tsy_yield_curve_handle,      bond_recovery_rate)</span>
-<span id="cb171-14"><span>print</span>(<span>'initial_sse ='</span>,      <span>round</span>(initial_sse,      <span>3</span>),      <span>'calib_sse ='</span>,      <span>round</span>(calib_sse,      <span>3</span>))</span>
+<span id="cb171-13">calib_sse <span>=</span> nelson_siegel_sse (calib_nelson_siegel_params,        calc_date,        fixed_rate_bond_objects,        bond_market_prices,        calib_weights,        tsy_yield_curve_handle,        bond_recovery_rate)</span>
+<span id="cb171-14"><span>print</span>(<span>'initial_sse ='</span>,        <span>round</span>(initial_sse,        <span>3</span>),        <span>'calib_sse ='</span>,        <span>round</span>(calib_sse,        <span>3</span>))</span>
 ```
 
 ```latex
@@ -4271,15 +4271,15 @@ Add following columns to the dataframe and display the head of the results:
 
 ```latex
 <span id="cb173-1"><span># Price all Verizon bonds on the calibrated credit curve and compute the corresponding yields.</span></span>
-<span id="cb173-2">bond_model_prices,      bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,      calc_date,      fixed_rate_bond_objects,      tsy_yield_curve_handle,      bond_recovery_rate)</span>
+<span id="cb173-2">bond_model_prices,        bond_model_yields <span>=</span> calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,        calc_date,        fixed_rate_bond_objects,        tsy_yield_curve_handle,        bond_recovery_rate)</span>
 <span id="cb173-3"></span>
 <span id="cb173-4">vz_df[<span>'modelPrice'</span>] <span>=</span> bond_model_prices</span>
 <span id="cb173-5">vz_df[<span>'modelYield'</span>] <span>=</span> bond_model_yields</span>
 <span id="cb173-6">vz_df[<span>'edgePrice'</span>] <span>=</span> vz_df[<span>'modelPrice'</span>] <span>-</span> vz_df[<span>'midPrice'</span>]</span>
 <span id="cb173-7">vz_df[<span>'edgeYield'</span>] <span>=</span> vz_df[<span>'modelYield'</span>] <span>-</span> vz_df[<span>'midYield'</span>]</span>
 <span id="cb173-8"></span>
-<span id="cb173-9">display (vz_df [[<span>'security'</span>,      <span>'midPrice'</span>,     <span>'initModelPrice'</span>,      <span>'modelPrice'</span>,      <span>'edgePrice'</span>]]. head ())</span>
-<span id="cb173-10">display (vz_df [[<span>'security'</span>,      <span>'midYield'</span>,     <span>'initModelYield'</span>,      <span>'modelYield'</span>,      <span>'edgeYield'</span>]]. head ())</span>
+<span id="cb173-9">display (vz_df [[<span>'security'</span>,        <span>'midPrice'</span>,       <span>'initModelPrice'</span>,        <span>'modelPrice'</span>,        <span>'edgePrice'</span>]]. head ())</span>
+<span id="cb173-10">display (vz_df [[<span>'security'</span>,        <span>'midYield'</span>,       <span>'initModelYield'</span>,        <span>'modelYield'</span>,        <span>'edgeYield'</span>]]. head ())</span>
 ```
 
 |  | security | midPrice | initModelPrice | modelPrice | edgePrice |
@@ -4310,40 +4310,40 @@ What do you think about the quality of the model fit?
 
 ```latex
 <span id="cb174-1"><span># Plot the model vs market prices (Y-axis) by maturity (X-axis).</span></span>
-<span id="cb174-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,      y <span>=</span> [<span>'midPrice'</span>,      <span>'modelPrice'</span>],      figsize <span>=</span> (<span>12</span>,      <span>6</span>),      title <span>=</span> <span>"Market vs Model Prices"</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*'</span>)</span>
+<span id="cb174-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,        y <span>=</span> [<span>'midPrice'</span>,        <span>'modelPrice'</span>],        figsize <span>=</span> (<span>12</span>,        <span>6</span>),        title <span>=</span> <span>"Market vs Model Prices"</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*'</span>)</span>
 <span id="cb174-3">plt. Set_ylabel (<span>'Bond Prices (pct)'</span>)</span>
 <span id="cb174-4">plt. Set_xlabel (<span>'Bond Maturity'</span>)</span>
 ```
 
 ```latex
-Text (0.5,      0,      'Bond Maturity')
+Text (0.5,        0,        'Bond Maturity')
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-144-output-2.png)
 
 ```latex
 <span id="cb176-1"><span># Plot the model vs market yields (Y-axis) by maturity (X-axis).</span></span>
-<span id="cb176-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,      y <span>=</span> [<span>'midYield'</span>,      <span>'modelYield'</span>],      figsize <span>=</span> (<span>12</span>,      <span>6</span>),      title <span>=</span> <span>"Market vs Model Yields (pct)"</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*'</span>)</span>
+<span id="cb176-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,        y <span>=</span> [<span>'midYield'</span>,        <span>'modelYield'</span>],        figsize <span>=</span> (<span>12</span>,        <span>6</span>),        title <span>=</span> <span>"Market vs Model Yields (pct)"</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*'</span>)</span>
 <span id="cb176-3">plt. Set_ylabel (<span>'Bond Yields (pct)'</span>)</span>
 <span id="cb176-4">plt. Set_xlabel (<span>'Bond Maturity'</span>)</span>
 ```
 
 ```latex
-Text (0.5,      0,      'Bond Maturity')
+Text (0.5,        0,        'Bond Maturity')
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-145-output-2.png)
 
 ```latex
 <span id="cb178-1"><span># Plot the edges in yield space (Y-axis) by maturity (X-axis).</span></span>
-<span id="cb178-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,      y <span>=</span> [<span>'edgeYield'</span>],      figsize <span>=</span> (<span>12</span>,      <span>6</span>),      title <span>=</span> <span>"Model Edges in yield space (pct)"</span>,      grid<span>=</span><span>True</span>,      style<span>=</span><span>'*'</span>)</span>
-<span id="cb178-3">plt.Axhline (<span>0</span>,      color<span>=</span><span>'red'</span>,      linestyle<span>=</span><span>'--'</span>,      alpha<span>=</span><span>0.7</span>)</span>
+<span id="cb178-2">plt <span>=</span> vz_df.Plot (x<span>=</span><span>'maturity'</span>,        y <span>=</span> [<span>'edgeYield'</span>],        figsize <span>=</span> (<span>12</span>,        <span>6</span>),        title <span>=</span> <span>"Model Edges in yield space (pct)"</span>,        grid<span>=</span><span>True</span>,        style<span>=</span><span>'*'</span>)</span>
+<span id="cb178-3">plt.Axhline (<span>0</span>,        color<span>=</span><span>'red'</span>,        linestyle<span>=</span><span>'--'</span>,        alpha<span>=</span><span>0.7</span>)</span>
 <span id="cb178-4">plt. Set_ylabel (<span>'Yield Edge (pct)'</span>)</span>
 <span id="cb178-5">plt. Set_xlabel (<span>'Bond Maturity'</span>)</span>
 ```
 
 ```latex
-Text (0.5,      0,      'Bond Maturity')
+Text (0.5,        0,        'Bond Maturity')
 ```
 
 ![](file:///Users/rogerlin/Cursor_Projects/Credit_Markets/CreditMarketSolutions_files/figure-html/cell-146-output-2.png)

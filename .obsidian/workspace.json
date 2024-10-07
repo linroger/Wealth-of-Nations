@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Untitled 1.md",
+                "file": "Credit Markets/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Untitled 1.md"
+                "file": "Credit Markets/Untitled 2.md"
               }
             }
           }
@@ -251,12 +251,15 @@
   },
   "active": "7cfe0990aef226cb",
   "lastOpenFiles": [
-    "Credit Markets/Credit Markets Session 1.md",
-    "Credit Markets/Untitled 1.md",
+    "Credit Markets/Credit Markets Session 4.md",
     "Credit Markets/Credit Markets.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Credit Markets/Credit Markets Session 3.md",
+    "Credit Markets/Credit Market Session 2.md",
     "Credit Markets/Untitled.md",
     "Credit Markets/Untitled 2.md",
+    "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
+    "Credit Markets/Credit Markets Session 1.md",
     "Credit Markets/Black-Scholes Model.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled.md",
@@ -272,7 +275,6 @@
     "Attachments/CreditMarketSolutions_129_2.png",
     "Attachments/CreditMarketSolutions_131_1.png",
     "Attachments/CreditMarketSolutions_131_2.png",
-    "Credit Markets/Risk Neutral Valuation Framework for Credit Default Swaps.md",
     "Credit Markets/Credit Markets Session 5.md",
     "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
     "Financial Instruments/Lecture Notes/Lecture Notes 9- Corporate Securities And Credit Derivatives.md",
@@ -290,8 +292,6 @@
     "Attachments/8/0/7/7.md",
     "Attachments/8/0/7",
     "Attachments/8/0",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
-    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Financial Markets and Institutions - Markdown/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Articles",
     "Attachments/Preview 2024-09-30 11.05.40.tiff",
