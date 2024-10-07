@@ -10,6 +10,7 @@ linter-yaml-title-alias: CREDIT MARKETS
 - **[[Credit Markets]]**
 	- [[ Credit Market Solutions]]
 	- **[[Credit Market PSETS]]**
+	- [[Credit Markets Session 1]]
 	- [[Credit Markets Session 5]]
 	- [[Credit Markets]]
 	- [[Risk Neutral Valuation Framework for Credit Default Swaps]]
