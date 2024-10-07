@@ -5,6 +5,7 @@ title: Lecture Notes
 # Lecture Notes
 
 %% Begin Waypoint %%
+
 - **[[Lecture Notes]]**
 	- [[Lecture Note 5- Black Scholes Formula]]
 	- [[Lecture Note 6-Implied Volatility]]

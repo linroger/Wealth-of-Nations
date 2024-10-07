@@ -84,8 +84,8 @@ Operating Performance at Acquisition (2003):
 	     - 	Revenue: $500 million
 	     - 	Cost of Goods Sold (COGS): $350 million
 	     - 	Gross Profit (Operating Income): $150 million
-	     - 	Selling,     General & Administrative Expenses (SG&A): $75 million
-	     - 	Earnings Before Interest,     Taxes,     Depreciation,     and Amortization (EBITDA): $75 million
+	     - 	Selling,        General & Administrative Expenses (SG&A): $75 million
+	     - 	Earnings Before Interest,        Taxes,        Depreciation,        and Amortization (EBITDA): $75 million
 	     - 	Net Income: $30.6 million
 
 Valuation Multiple:
@@ -134,7 +134,7 @@ Rationale:
 
 Integration Challenges
 
-	     - 	Integration issues arose,     requiring more capital expenditures than planned.
+	     - 	Integration issues arose,        requiring more capital expenditures than planned.
 	     - 	The onset of the housing market collapse in late 2007 severely impacted revenues and profitability.
 
 1. Onset of Financial Distress
@@ -156,7 +156,7 @@ Key Observations:
 
 	     - 	Significant revenue declines in 2008 and 2009 due to the housing market collapse.
 	     - 	EBITDA margins dropped from 11.0% in 2007 to as low as 6.0% in 2009 and 2010.
-	     - 	Modest recovery in 2011,     with EBITDA improving to $79.75 million.
+	     - 	Modest recovery in 2011,        with EBITDA improving to $79.75 million.
 
 Key Financial Ratios
 
@@ -181,7 +181,7 @@ Revenue Analysis:
 
 EBITDA Margin Analysis:
 
-	     - 	The drop in EBITDA margins indicates increased operating inefficiencies,     possibly due to integration issues with HomeLux and fixed costs not scaling down with revenue declines.
+	     - 	The drop in EBITDA margins indicates increased operating inefficiencies,        possibly due to integration issues with HomeLux and fixed costs not scaling down with revenue declines.
 	     - 	The improvement in 2011 suggests that some operational challenges are being addressed.
 
 Balance Sheet Examination
@@ -189,13 +189,13 @@ Balance Sheet Examination
 Assets:
 
 	     - 	Cash: Increased to $28.6 million by the end of 2011.
-	     - 	Accounts Receivable and Inventory: Reduced,     possibly due to tighter working capital management.
-	     - 	Goodwill: Remains high at $728.3 million,     indicating potential impairment risk.
+	     - 	Accounts Receivable and Inventory: Reduced,        possibly due to tighter working capital management.
+	     - 	Goodwill: Remains high at $728.3 million,        indicating potential impairment risk.
 
 Liabilities:
 
-	     - 	Accounts Payable: Reduced,     which may impact supplier relationships.
-	     - 	Total Debt: Remains unchanged at $625 million,     indicating no debt reduction efforts.
+	     - 	Accounts Payable: Reduced,        which may impact supplier relationships.
+	     - 	Total Debt: Remains unchanged at $625 million,        indicating no debt reduction efforts.
 
 Capital Structure Analysis
 
@@ -219,8 +219,8 @@ Identification of Key Issues
 
 	1.	Overleveraged Capital Structure: The company cannot service its existing debt with current EBITDA levels.
 	2.	Liquidity Concerns: Imminent maturities of $400 million in secured debt with slim refinancing prospects.
-	3.	Underwater Equity: The enterprise value is less than total debt,     implying that Train & Co.’s equity investment is worthless in the current state.
-	4.	Operational Risks: While there is some improvement,     the company faces uncertainties in fully recovering to previous performance levels.
+	3.	Underwater Equity: The enterprise value is less than total debt,        implying that Train & Co.’s equity investment is worthless in the current state.
+	4.	Operational Risks: While there is some improvement,        the company faces uncertainties in fully recovering to previous performance levels.
 
 1. The Three-Step Restructuring Process
 
@@ -232,7 +232,7 @@ Enterprise Value Estimation
 
 Methodology:
 
-	     - 	Use the EBITDA multiples method,     which is common in valuing companies like HomeMax.
+	     - 	Use the EBITDA multiples method,        which is common in valuing companies like HomeMax.
 	     - 	Select an appropriate EBITDA multiple based on industry standards and current market conditions.
 
 Calculations:
@@ -240,8 +240,8 @@ Calculations:
 	1.	Determine 2011 EBITDA:
 	     - 	EBITDA (2011): $79.75 million
 	2.	Select an Appropriate EBITDA Multiple:
-	     - 	Based on the market conditions and similar companies,     we use a multiple of 7.0x.
-	     - 	Rationale: Although multiples were higher in previous years,     the current market is more conservative due to economic uncertainties.
+	     - 	Based on the market conditions and similar companies,        we use a multiple of 7.0x.
+	     - 	Rationale: Although multiples were higher in previous years,        the current market is more conservative due to economic uncertainties.
 	3.	Calculate Enterprise Value (EV):
 	     - 	EV = EBITDA × Multiple
 	     - 	EV = $79.75 million × 7.0 = $558.25 million
@@ -285,7 +285,7 @@ Recovery Waterfall:
 
 Conclusion:
 
-	     - 	The Senior Notes are the fulcrum security,     as they are the class where the debt begins to be impaired and will likely receive equity in a restructuring.
+	     - 	The Senior Notes are the fulcrum security,        as they are the class where the debt begins to be impaired and will likely receive equity in a restructuring.
 
 Step 2: Determining the Appropriate Capital Structure
 
@@ -304,7 +304,7 @@ Calculations:
 
 	1.	Select a Target Leverage Ratio:
 	     - 	Industry standards suggest a leverage ratio of 3.0x to 3.5x EBITDA is sustainable.
-	     - 	Choose 3.5x for this case,     given the company’s recovery signs.
+	     - 	Choose 3.5x for this case,        given the company’s recovery signs.
 	2.	Calculate Debt Capacity:
 	     - 	Debt Capacity = EBITDA × Target Leverage Ratio
 	     - 	Debt Capacity = $79.75 million × 3.5 = $279.125 million
@@ -329,7 +329,7 @@ Benefits:
 
 	     - 	Reduced Debt Service Obligations: Lower interest payments improve cash flow.
 	     - 	Improved Financial Stability: A more manageable debt load reduces bankruptcy risk.
-	     - 	Alignment of Interests: Creditors become equity holders,     aligning their interests with the company’s success.
+	     - 	Alignment of Interests: Creditors become equity holders,        aligning their interests with the company’s success.
 
 Step 3: Executing the Restructuring Plan
 
@@ -362,8 +362,8 @@ Overcoming Potential Obstacles
 
 Holdout Problem:
 
-	     - 	Issue: Some creditors may refuse to participate,     hoping for full repayment later.
-	     - 	Solution: Structure the deal to make non-participation less attractive,     such as:
+	     - 	Issue: Some creditors may refuse to participate,        hoping for full repayment later.
+	     - 	Solution: Structure the deal to make non-participation less attractive,        such as:
 	     - 	Conditioning the exchange offer on a high participation rate.
 	     - 	Offering better terms for early participants.
 	     - 	Highlighting the risks of bankruptcy if the restructuring fails.
@@ -381,25 +381,25 @@ First Lien Lenders (1L)
 
 	     - 	Position: Senior secured creditors with collateral coverage.
 	     - 	Expectations: Full repayment with minimal risk.
-	     - 	Negotiation Leverage: High,     as they can enforce their claims through collateral.
+	     - 	Negotiation Leverage: High,        as they can enforce their claims through collateral.
 
 Second Lien Lenders (2L)
 
 	     - 	Position: Junior secured creditors with partial collateral coverage.
 	     - 	Expectations: Full recovery but aware of refinancing limitations.
-	     - 	Negotiation Leverage: Moderate,     willing to accept equity for potential upside.
+	     - 	Negotiation Leverage: Moderate,        willing to accept equity for potential upside.
 
 Senior Note Holders
 
 	     - 	Position: Unsecured creditors facing significant impairment.
-	     - 	Expectations: Maximize recovery,     prefer to avoid bankruptcy costs.
-	     - 	Negotiation Leverage: Limited,     but can delay proceedings if not satisfied.
+	     - 	Expectations: Maximize recovery,        prefer to avoid bankruptcy costs.
+	     - 	Negotiation Leverage: Limited,        but can delay proceedings if not satisfied.
 
 Train & Co.
 
 	     - 	Position: Equity holders with investment underwater.
 	     - 	Expectations: Retain some value and avoid complete loss.
-	     - 	Negotiation Leverage: Limited,     but their cooperation can facilitate a smoother restructuring.
+	     - 	Negotiation Leverage: Limited,        but their cooperation can facilitate a smoother restructuring.
 
 Negotiation Dynamics and Strategies
 
@@ -414,15 +414,15 @@ Key Components of the Plan
 
 	1.	New First Lien Loan:
 	     - 	Amount: $275 million
-	     - 	Terms: Market rates,     secured by the company’s assets.
+	     - 	Terms: Market rates,        secured by the company’s assets.
 	     - 	Use of Proceeds: Repay existing 1L debt and provide working capital.
 	2.	Equity Allocation:
-	     - 	Total New Shares Issued: 9,    900,    000
+	     - 	Total New Shares Issued: 9,       900,       000
 	     - 	Allocation:
-	     - 	Second Lien Lenders (2L): 44.06% (4,    405,    500 shares)
-	     - 	Senior Note Holders: 50.99% (5,    098,    500 shares)
-	     - 	Train & Co.: 2.98% (298,    000 shares,     including original shares)
-	     - 	Management: 1.98% (198,    000 shares)
+	     - 	Second Lien Lenders (2L): 44.06% (4,       405,       500 shares)
+	     - 	Senior Note Holders: 50.99% (5,       098,       500 shares)
+	     - 	Train & Co.: 2.98% (298,       000 shares,        including original shares)
+	     - 	Management: 1.98% (198,       000 shares)
 	3.	Cash Payments:
 	     - 	2L Lenders: Receive $25 million in cash from excess loan proceeds.
 
@@ -436,57 +436,57 @@ Equity Value Determination
 	     - 	Equity Value = EV - New Debt
 	     - 	Equity Value = $558.25 million - $275 million = $283.25 million
 	3.	Equity Value per Share:
-	     - 	Total Shares Post-Restructuring: 9,    900,    000 (new shares) + 100,    000 (original shares) = 10,    000,    000 shares
+	     - 	Total Shares Post-Restructuring: 9,       900,       000 (new shares) + 100,       000 (original shares) = 10,       000,       000 shares
 	     - 	Equity Value per Share = Equity Value / Total Shares
-	     - 	Equity Value per Share = $283.25 million / 10,    000,    000 shares = $28.325 per share
+	     - 	Equity Value per Share = $283.25 million / 10,       000,       000 shares = $28.325 per share
 
 Second Lien Lenders (2L) Recovery
 
 	1.	Cash Payment:
 	     - 	Total Cash Received: $25 million
-	     - 	Cash per $1,    000 Face Value Note:
+	     - 	Cash per $1,       000 Face Value Note:
 	     - 	Total 2L Debt: $150 million
-	     - 	Number of $1,    000 Notes: $150 million / $1,    000 = 150,    000 notes
-	     - 	Cash per Note: $25 million / 150,    000 notes = $166.67 per note
+	     - 	Number of $1,       000 Notes: $150 million / $1,       000 = 150,       000 notes
+	     - 	Cash per Note: $25 million / 150,       000 notes = $166.67 per note
 	2.	Equity Allocation:
-	     - 	Total Shares Allocated: 4,    405,    500 shares
-	     - 	Shares per Note: 4,    405,    500 shares / 150,    000 notes ≈ 29.37 shares per note
+	     - 	Total Shares Allocated: 4,       405,       500 shares
+	     - 	Shares per Note: 4,       405,       500 shares / 150,       000 notes ≈ 29.37 shares per note
 	3.	Equity Value per Note:
 	     - 	Equity Value per Note = Shares per Note × Equity Value per Share
 	     - 	Equity Value per Note = 29.37 shares × $28.325 ≈ $831.76
 	4.	Total Recovery per Note:
 	     - 	Total Recovery = Cash per Note + Equity Value per Note
-	     - 	Total Recovery = $166.67 + $831.76 ≈ $998.43 per $1,    000 note
+	     - 	Total Recovery = $166.67 + $831.76 ≈ $998.43 per $1,       000 note
 	5.	Recovery Percentage:
 	     - 	Recovery % = Total Recovery per Note / Face Value
-	     - 	Recovery % = $998.43 / $1,    000 ≈ 99.84%
+	     - 	Recovery % = $998.43 / $1,       000 ≈ 99.84%
 
 Senior Note Holders Recovery
 
 	1.	Equity Allocation:
-	     - 	Total Shares Allocated: 5,    098,    500 shares
+	     - 	Total Shares Allocated: 5,       098,       500 shares
 	     - 	Total Senior Notes: $225 million
-	     - 	Number of $1,    000 Notes: $225 million / $1,    000 = 225,    000 notes
-	     - 	Shares per Note: 5,    098,    500 shares / 225,    000 notes ≈ 22.66 shares per note
+	     - 	Number of $1,       000 Notes: $225 million / $1,       000 = 225,       000 notes
+	     - 	Shares per Note: 5,       098,       500 shares / 225,       000 notes ≈ 22.66 shares per note
 	2.	Equity Value per Note:
 	     - 	Equity Value per Note = Shares per Note × Equity Value per Share
 	     - 	Equity Value per Note = 22.66 shares × $28.325 ≈ $642.12
 	3.	Total Recovery per Note:
 	     - 	Total Recovery = Equity Value per Note (no cash payment)
-	     - 	Total Recovery = $642.12 per $1,    000 note
+	     - 	Total Recovery = $642.12 per $1,       000 note
 	4.	Recovery Percentage:
 	     - 	Recovery % = Total Recovery per Note / Face Value
-	     - 	Recovery % = $642.12 / $1,    000 ≈ 64.21%
+	     - 	Recovery % = $642.12 / $1,       000 ≈ 64.21%
 
 Train & Co. Recovery
 
 	1.	Equity Retained:
-	     - 	Original Shares: 100,    000 shares
-	     - 	New Shares Allocated: 198,    000 shares
-	     - 	Total Shares: 298,    000 shares
+	     - 	Original Shares: 100,       000 shares
+	     - 	New Shares Allocated: 198,       000 shares
+	     - 	Total Shares: 298,       000 shares
 	2.	Equity Value:
 	     - 	Equity Value = Total Shares × Equity Value per Share
-	     - 	Equity Value = 298,    000 shares × $28.325 ≈ $8.44 million
+	     - 	Equity Value = 298,       000 shares × $28.325 ≈ $8.44 million
 	3.	Recovery Percentage:
 	     - 	Original Equity Investment: $262.5 million (from initial acquisition)
 	     - 	Recovery % = Equity Value / Original Investment
@@ -494,14 +494,14 @@ Train & Co. Recovery
 
 Rationale:
 
-	     - 	While Train & Co. recover only a small fraction of their initial investment,     retaining an equity stake may provide upside potential if the company performs well post-restructuring.
+	     - 	While Train & Co. recover only a small fraction of their initial investment,        retaining an equity stake may provide upside potential if the company performs well post-restructuring.
 
 Management Equity
 
-	1.	Equity Granted: 198,    000 shares
+	1.	Equity Granted: 198,       000 shares
 	2.	Equity Value:
 	     - 	Equity Value = Shares × Equity Value per Share
-	     - 	Equity Value = 198,    000 shares × $28.325 ≈ $5.61 million
+	     - 	Equity Value = 198,       000 shares × $28.325 ≈ $5.61 million
 
 Rationale:
 
@@ -540,10 +540,10 @@ Equity Value per Share Over Time:
 	     - 	2012 Projection:
 	     - 	Equity Value = EV - Debt
 	     - 	Equity Value = $794.02 million - $275 million = $519.02 million
-	     - 	Equity Value per Share = $519.02 million / 10,    000,    000 shares = $51.90 per share
+	     - 	Equity Value per Share = $519.02 million / 10,       000,       000 shares = $51.90 per share
 	     - 	2013 Projection:
-	     - 	Equity Value = $1,    096.34 million - $275 million = $821.34 million
-	     - 	Equity Value per Share = $821.34 million / 10,    000,    000 shares = $82.13 per share
+	     - 	Equity Value = $1,       096.34 million - $275 million = $821.34 million
+	     - 	Equity Value per Share = $821.34 million / 10,       000,       000 shares = $82.13 per share
 
 Rationale:
 
@@ -556,7 +556,7 @@ Scenario Analysis for Senior Note Holders
 
 Assumptions:
 
-	     - 	Purchase Price of Notes: Bought at 50% of face value ($500 per $1,    000 note)
+	     - 	Purchase Price of Notes: Bought at 50% of face value ($500 per $1,       000 note)
 	     - 	Shares Received per Note: 22.66 shares
 
 Effective Cost per Share:
@@ -570,8 +570,8 @@ Return Calculations:
 	2.	Gain per Share: $51.90 - $22.07 = $29.83
 	3.	Total Gain per Note: $29.83 × 22.66 ≈ $676.26
 	4.	Cash on Cash Return:
-	     - 	Total Recovery per Note: $51.90 × 22.66 ≈ $1,    176.26
-	     - 	Return Multiple: $1,    176.26 / $500 ≈ 2.35x
+	     - 	Total Recovery per Note: $51.90 × 22.66 ≈ $1,       176.26
+	     - 	Return Multiple: $1,       176.26 / $500 ≈ 2.35x
 	5.	Internal Rate of Return (IRR):
 	     - 	Assuming a 2-year investment period (end of 2010 to end of 2012).
 	     - 	IRR Calculation: Solving for IRR in the equation:
@@ -598,7 +598,7 @@ Risk Considerations
 Conclusion on Expected Returns:
 
 	     - 	Distressed investors stand to gain substantial returns if the company meets or exceeds projections.
-	     - 	The risk-return profile must be carefully evaluated,     considering both the potential rewards and inherent risks.
+	     - 	The risk-return profile must be carefully evaluated,        considering both the potential rewards and inherent risks.
 
 1. Conclusion
 
@@ -606,12 +606,12 @@ The HomeMax Inc. case study illustrates the complexities and opportunities inher
 
 Key Lessons for Oaktree Recruits:
 
-	1.	Comprehensive Financial Analysis: Always start with a thorough understanding of the company’s financials,     including operating performance and balance sheet strength.
+	1.	Comprehensive Financial Analysis: Always start with a thorough understanding of the company’s financials,        including operating performance and balance sheet strength.
 	2.	Valuation Skills: Accurately estimate enterprise value using appropriate methods and market multiples.
 	3.	Stakeholder Engagement: Understand the perspectives and motivations of all stakeholders to facilitate effective negotiations.
 	4.	Restructuring Expertise: Design restructuring plans that optimize the capital structure and align interests for long-term success.
 	5.	Risk Management: Assess potential risks and develop strategies to mitigate them while capitalizing on opportunities.
-	6.	Execution: Be prepared for complexities in executing the restructuring plan,     including legal considerations and potential holdouts.
+	6.	Execution: Be prepared for complexities in executing the restructuring plan,        including legal considerations and potential holdouts.
 
 By mastering these skills and approaches,  you will be well-equipped to navigate the challenging yet rewarding field of distressed debt investing. Remember that patience,  diligence,  and a thorough understanding of both the numbers and the people involved are key to success.
 

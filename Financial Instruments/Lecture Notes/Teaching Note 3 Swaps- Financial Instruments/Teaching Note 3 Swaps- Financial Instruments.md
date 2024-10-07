@@ -33,7 +33,7 @@ linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
 
 %% End Waypoint %%
 
-# Teaching Note 3 SwapsFinancial Instruments
+# Teaching Note 3 Swaps- Financial Instruments
 ## OVERVIEW
 - Back to the example,  assume the US firm is due to receive the 5 mil euros in 5 equal installments,  every 6 months.
 - The US company can enter into five forward (or futures) contracts,  and hedge each single installment as a stand-alone cash flow.$$S_0 = 1.2673,  \ r_{USD} = 5\%,  \ r_{EUR} = 3\%$$

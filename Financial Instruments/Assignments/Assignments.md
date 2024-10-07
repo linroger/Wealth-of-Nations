@@ -1,5 +1,5 @@
 ---
-title: ASSIGNMENTS
+title: Assignments
 aliases: [ASSIGNMENTS]
 linter-yaml-title-alias: ASSIGNMENTS
 ---
@@ -19,9 +19,10 @@ title: ASSIGNMENTS
 aliases: [ASSIGNMENTS]
 linter-yaml-title-alias: ASSIGNMENTS
 
-# ASSIGNMENTS
+# Assignments
 
 %% Begin Waypoint %%
+
 - **[[Assignments]]**
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]

@@ -13,7 +13,20 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1"
+                "path": "Financial Instruments"
+              }
+            }
+          },
+          {
+            "id": "394ba9cc3d5f3be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -102,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5024719238281
+    "width": 280.5024719238281
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -177,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,16 +230,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md"
+              }
+            }
+          },
+          {
+            "id": "928a58204c6f1d25",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,9 +268,24 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "c112d56a768d8830",
+  "active": "394ba9cc3d5f3be8",
   "lastOpenFiles": [
+    "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Asset Classes/Equities/Miller Modigliani Theorems.md",
+    "Financial Instruments/Financial Instruments.md",
+    "Financial Instruments/Lecture Notes/Lecture Notes.md",
+    "Credit Markets/Credit Markets.md",
+    "Untitled.md",
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
+    "HBR Notes/HBR Notes.md",
+    "Asset Classes/Asset Classes.md",
+    "Advanced Investments/Week 1-Advanced Investments/Week 1-Advanced Investments.md",
+    "Advanced Investments/Advanced Investments.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Teaching Note 3 Swaps- Financial Instruments.md",
+    "Financial Instruments/Assignments/Assignments.md",
+    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3 Financial Risk Analysis.md",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
@@ -266,20 +306,6 @@
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 Valuing Young and High‐Growth Companies.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5 Pharmaceuticals and Intangibles in Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Bank Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Bank Business Model, Regulation, and Accounting Rules.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Cost of Capital Review, Implied Model, Private Firms.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7- Kohler Case Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8 Opportunities And Risks Of Investing Internationally.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8- Dow Chemical Case- Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8 Bringing International Risks into the Valuation Process.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9-Information Risks and (International) Accounting Differences, Platform Businesses.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9- Zoom Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Ratio Analysis + Valuation Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Market Efficiency.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",

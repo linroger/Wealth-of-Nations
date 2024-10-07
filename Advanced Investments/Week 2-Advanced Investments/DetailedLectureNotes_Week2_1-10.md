@@ -4,7 +4,7 @@ aliases: [LECTURE 2]
 linter-yaml-title-alias: LECTURE 2
 ---
 
-# LECTURE 2
+# DetailedLectureNotes_Week2_1-10
 
 We now extend our optimal portfolio choice framework to allow for multiple risky assets.
 
