@@ -342,7 +342,7 @@ We multiply by 100 twice: once to account for 100 contracts, and the second time
 
 This is like the payment on an FRA paid in arrears, except that the futures contract settles in June, but our interest expense is not paid until September. Thus we have 3 months to earn or pay interest on our Eurodollar gain or loss before we actually have to make the interest payment.
 
-### HEDGING WITH [EURODOLLAR FUTURES](EURODOLLAR%20FUTURES.md)
+### HEDGING WITH [EuroDollar Futures](EuroDollar%20Futures.md)
 
 Recall that when the FRA settles on the borrowing date, the payment is the *present value* of the change in borrowing cost. The FRA is thus tailed automatically as part of the agreement. With the Eurodollar contract, by contrast, we need to tail the position explicitly. We do this by shorting fewer than 100 contracts, using the implied 3-month Eurodollar rate of 1.8% as our discount factor. Thus, we enter into: $$\text{Number of Eurodollar contracts} = \frac{100}{1 + 0.018} \approx -98.2318$$
 

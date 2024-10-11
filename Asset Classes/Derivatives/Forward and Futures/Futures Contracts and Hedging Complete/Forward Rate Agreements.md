@@ -1,23 +1,23 @@
 ---
-title: FORWARD LOANS
+title: Forward Rate Agreements
 aliases: [FORWARD LOANS]
 linter-yaml-title-alias: FORWARD LOANS
 ---
 
-# FORWARD LOANS
+# Forward Rate Agreements
 ## DEFINITION
 - A **forward loan** is engineered like any forward contract,  except that what is being bought or sold is not a currency or commodity,  but instead,  a loan.
 	 - At time$t_0$,  we write a contract that will settle at a future date$t_1$.
 	 - At settlement,  the trader receives (delivers) a loan that matures at$t_2$.
 ## SPECIFICATIONS
 - The contract will specify the interest rate that will apply to this loan.
-	 - This interest rate is called the **forward rate** and will be denoted by$F(t_0,  t_1,  t_2)$.
+	 - This interest rate is called the **forward rate** and will be denoted by$F(t_0,   t_1,   t_2)$.
 - The forward rate is determined at$t_0$.
 - $T_1$is the start date of the future loan.
 - $T_2$is the date at which the loan matures.
 ## EXAMPLE
-- We write a contract at$t_0$such that at a future date, $t_1$,  USD 100 are received; the principal and interest are paid at$t_2$
-- The interest is$F_{t_0} \delta$,  where$\delta$is the day-count adjustment, $\frac{ACT}{360}$:$$\delta = \frac{t_2 - t_1}{360}$$
+- We write a contract at$t_0$such that at a future date,  $t_1$,  USD 100 are received; the principal and interest are paid at$t_2$
+- The interest is$F_{t_0} \delta$,  where$\delta$is the day-count adjustment,  $\frac{ACT}{360}$:$$\delta = \frac{t_2 - t_1}{360}$$
 ## APPLICATIONS
 
 - Forward loans permit a great deal of flexibility in balance sheet,  tax,  and risk management. The need for forward loans arises under the following conditions:
@@ -29,9 +29,9 @@ linter-yaml-title-alias: FORWARD LOANS
 
 - It is straightforward to see how forward loans help to accomplish these goals. With the forward loan of Figure 3.10,  the party has agreed to receive 100 dollars at$t_1$and to pay them back at$t_2$with interest.
 - The key point is that the interest rate on this forward loan is fixed at time$t_0$.
-- The forward rate$F(t_0,  t_1,  t_2)$"locks in" an unknown future variable at time$t_0$and thus eliminates the risk associated with the unknown rate.
+- The forward rate$F(t_0,   t_1,   t_2)$"locks in" an unknown future variable at time$t_0$and thus eliminates the risk associated with the unknown rate.
 - The$L_{t_1}$is the LIBOR interest rate for a$(t_2 - t_1)$period loan and can be observed only at the future date$t_1$.
-- Fixing$F(t_0,  t_1,  t_2)$will eliminate the risk associated with$L_{t_1}$.
+- Fixing$F(t_0,   t_1,   t_2)$will eliminate the risk associated with$L_{t_1}$.
 
 We begin with the cash flow diagram for the forward loan shown in Figure 3.11 a.
 
@@ -49,7 +49,7 @@ We begin with the cash flow diagram for the forward loan shown in Figure 3.11 a.
 - This instrument is a paid-in-arrears FRA. In an FRA contract,  the purchaser accepts the receipt of the following sum at time$t_2$:
 - FRA contract specifies:
 	 - Notional amount N
-	 - Dates$t_1,  t_2$
+	 - Dates$t_1,   t_2$
 	 - "Price"$F_{t_0}$
 	 - Payoff is:$$N(L_{t_1} - F_{t_0})\delta$$
 	 - Buyer pays fixed$F_{t_0}\delta N$
@@ -65,7 +65,7 @@ We begin with the cash flow diagram for the forward loan shown in Figure 3.11 a.
 	- Settling at$t_1$reduces seller's credit risk
 	- $F_{t_0}\delta N$is fair value of$L_{t_1}\delta N$at$t_0$
 - The N represents a notional principal since the principal amount will never be exchanged. However,  it needs to be specified in order to determine the amount of interest to be exchanged.
-- It is paid-in-arrears because the unknown interest, $L_{t_1}$,  will be known at time$t_1$,  the interest payments are exchanged at time$t_2$,  when the forward (fictitious) loan is due.
+- It is paid-in-arrears because the unknown interest,  $L_{t_1}$,  will be known at time$t_1$,  the interest payments are exchanged at time$t_2$,  when the forward (fictitious) loan is due.
 - In the case of market-traded FRA contracts,  there is one additional complication. The settlement is not done in-arrears at time$t_2$. Instead,  FRAs are settled at$t_1$,  and the transaction will involve the following discounted cash flows.
 ## DEFINITION OF THE FRA
 
@@ -83,7 +83,7 @@ Where:
 - DAYS is the number of days in the contract period
 - BASIS is the day count convention (e.g. 360 for dollars,  365 for sterling)
 - Settling at$t_1$instead of$t_2$has one subtle advantage for the FRA seller,  which is often a bank.
-- If during$[t_0,  t_1]$the interest rate has moved in favor of the bank,  time$t_1$settlement will reduce the marginal credit risk associated with the payoff.
+- If during$[t_0,   t_1]$the interest rate has moved in favor of the bank,  time$t_1$settlement will reduce the marginal credit risk associated with the payoff.
 	- The bank can then operate with a lower credit line.
 - Note one important interpretation. An FRA contract can be visualized as an exchange of two interest payments.
 - The purchaser of the FRA will be paying the known interest$F_{t_0} \delta N$and is accepting the (unknown) amount$L_{t_1} \delta N$.
@@ -120,7 +120,7 @@ Mathematically,
 
 - The$t_2$cash flows are given by:$$100 + 100L_{t_{1}\delta}\tag{(4.1)}$$
 - Discounting this value to time$t_1$:$$\frac{100(1 + L_{t_1}\delta)}{1 + L_{t_1}\delta} = 100$$
-- Total value of the cash flows generated by the forward loan contract: Exactly zero for all times$t$during the interval$[t_0,  t_1]$.
+- Total value of the cash flows generated by the forward loan contract: Exactly zero for all times$t$during the interval$[t_0,   t_1]$.
 
 So in summary:
 

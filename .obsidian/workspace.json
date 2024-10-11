@@ -11,9 +11,12 @@
             "id": "7cfe0990aef226cb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Instruments"
+                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -115,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
+                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md"
               }
             }
           },
@@ -248,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,12 +271,19 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "2bda436a566acf62",
+  "active": "7cfe0990aef226cb",
   "lastOpenFiles": [
+    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+    "Asset Classes/Derivatives/Options/Option Strategies/What Is A Covered Straddle - Fidelity.md",
+    "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
+    "Asset Classes/Derivatives/Forward and Futures/Futures Contracts and Hedging Complete/Forward Rate Agreements.md",
+    "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
+    "Asset Classes/Derivatives/Forward and Futures/EuroDollar Futures.md",
+    "HBR Notes/Note on Long-Term Capital Management, L.P. HBP.md",
     "Financial Instruments/Financial Instruments.md",
     "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
-    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Asset Classes/Equities/Miller Modigliani Theorems.md",
     "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Credit Markets/Credit Markets.md",
@@ -300,12 +310,6 @@
     "Attachments/b66ed4a07d1539c3765b9d0e5739b914.png",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Retail.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Dollar General Case- Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2 Fundamentals Of Forecasting.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3 Cyclical Industries (and Advanced Forecasting).md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 Valuing Young and High‐Growth Companies.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4 ESOs and Vaulation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",
@@ -314,7 +318,6 @@
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9",
-    "Tags/#primers"
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9"
   ]
 }
