@@ -4,7 +4,7 @@ title: Week 6 Assignment Review
 
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms
-Case: Citigroup,   Blackstone,  and the Sale of a Loan Portfolio
+Case: Citigroup,     Blackstone,  and the Sale of a Loan Portfolio
 
 ## CITIGROUP AND BLACKSTONE
 - Part 1: Examine and understand Citigroup's financial statements
@@ -16,7 +16,7 @@ Case: Citigroup,   Blackstone,  and the Sale of a Loan Portfolio
 	   - Evaluating the sale of Citigroup's loan portfolio to Blackstone
 	   - Valuing debt
 		   - What  is the value of a loan (portfolio)?
-		   - Expected cash flows,   default and discount rates for debt
+		   - Expected cash flows,     default and discount rates for debt
 		   - Computing the cost of (risky) debt
 
 # Week 6 Assignment Review
@@ -26,7 +26,7 @@ Case: Citigroup,   Blackstone,  and the Sale of a Loan Portfolio
 		   - Consumer and corporate loans
 		   - Typically held to maturity
 		   - Reported at historical (or amortized) cost
-	   - Allowance for loan losses: 2.1% (=$16,  117 / $777,  993)
+	   - Allowance for loan losses: 2.1% (=$16,    117 / $777,  993)
 		   - Estimate of uncollectible amounts (contra‐asset)
 	   - Trading account assets $539 billion (25% of total assets)
 		   - Investments in credit (and equity) securities that Citigroup is ready to sell
@@ -34,7 +34,7 @@ Case: Citigroup,   Blackstone,  and the Sale of a Loan Portfolio
 - Liabilities
 	   - Total deposits ($826 billion; 38% of total assets)
 	   - Short‐term borrowing and long‐term debt ($574 billion; 26%)
-	   - Very high (simple) leverage: 18.3 (=$2,  074,  033/$113,  598)
+	   - Very high (simple) leverage: 18.3 (=$2,    074,    033/$113,  598)
 
 ## PRIMARY LINE ITEMS: INCOME STATEMENT
 - No "classic" revenue for banks
@@ -49,11 +49,11 @@ Case: Citigroup,   Blackstone,  and the Sale of a Loan Portfolio
 		   - Primarily driven by subprime exposure: ‐$21.8 billion
 	   - Provisions for loan losses increased from 6.7 billion (2006) to 17.4 billion (2007)
 		   - What happened to loan losses in 2007?
-		   - Loan losses ($11.7 bn) were not much higher than 2005,   but used up ALLL in 2006 
+		   - Loan losses ($11.7 bn) were not much higher than 2005,     but used up ALLL in 2006 
 
 Recall from Recording: Delay in LLPs and net charge‐offs
 
-- During 2007‐2008,   banks increased their LLPs to catch up with rising charge‐offs
+- During 2007‐2008,     banks increased their LLPs to catch up with rising charge‐offs
 	   - LLPs should cover future loan losses (not current ones)
 	   - LLPs increase in a middle of a crisis (procyclicality)
 ![](9756852e9cab2f384b9fbc4c1db45e96.png)
@@ -103,8 +103,8 @@ Total Capital
 - Approximately 10% decline in trading assets
 - Journal Entry:
 	- Dr. Principal Transactions 
-		– Unrealized Losses on Trading Assets  50,  000
-	- Cr. Trading account assets 50,  000
+		– Unrealized Losses on Trading Assets  50,    000
+	- Cr. Trading account assets 50,    000
 - Losses reduce retained earnings and common shareholders' equity by $50 billion
 - Effect on Tier 1 Capital Ratio:
 $$
@@ -118,8 +118,8 @@ $$
 $$
 
 $$ \begin{gathered}
-Tier1CapitalRatio=\frac{Tier1Capital}{Risk-weightedAsests}=\frac{89,  226}{1,  253,  321}=7.1296 \\
-Tier1CapitalRatio=\frac{89,  226-50,  000}{1,  253,  321-100\%*50,  000}=3.26\% 
+Tier1CapitalRatio=\frac{Tier1Capital}{Risk-weightedAsests}=\frac{89,    226}{1,    253,    321}=7.1296 \\
+Tier1CapitalRatio=\frac{89,    226-50,    000}{1,    253,    321-100\%*50,    000}=3.26\% 
 \end{gathered}$$
 - Citi would be undercapitalized violating minimum Tier 1 Capital requirements
        - What could Citi do in response?
@@ -143,8 +143,8 @@ $5.07 billion
            - Under pressure to sell assets
 - How does the deal change Citigroup's exposure to defaults in the loan portfolio? How  will it affect Citi's Tier 1 capital ratio? 
        - Bridge loans are not intended to hold to maturity: marked‐to‐market
-           - Asset value decline directly affects income,   retained earnings,   Tier 1 capital
-       - Immediately take a hit on sale,   but less exposed to future increases in default risk
+           - Asset value decline directly affects income,     retained earnings,     Tier 1 capital
+       - Immediately take a hit on sale,     but less exposed to future increases in default risk
        - New secured loans (to PE firms) would likely have a lower risk weight
 
 ## WOULD SELLING ASSETS IMPROVE THE TIER 1 RATIO?
@@ -152,16 +152,16 @@ $5.07 billion
 - Assume for simplicity that they sell $10 billion
        - No gain or loss on sale (optimistic)
 - Starting point:
-	- $$\text{Tier 1 Ratio}=\frac{\text{Tier 1 Capital}}{\text{Risk-weightedAsests}}=\frac{39,  226}{1,  203,  321}=3.26\% $$
+	- $$\text{Tier 1 Ratio}=\frac{\text{Tier 1 Capital}}{\text{Risk-weightedAsests}}=\frac{39,    226}{1,    203,    321}=3.26\% $$
 - Effect of the sale:
-	-  $$\text{Tier 1 Ratio}=\frac{39,  226}{1,  203,  321+[10,  000*0\%]-[10,  000*100\%]}=3.29\%$$
+	-  $$\text{Tier 1 Ratio}=\frac{39,    226}{1,    203,    321+[10,    000*0\%]-[10,    000*100\%]}=3.29\%$$
 ## WHAT ELSE COULD CITIGROUP DO TO COVER $50B LOSS?
 - Key insight: Asset sale does not move the dial on Tier 1 Capital
        - Buyers will discount the assets 
 - Raise Capital:
        - Suppose Citi sells $10 billion of common stock to raise cash
        - The new Tier 1 Capital Ratio is:
-	       - $$\text{Tier 1 Capital Ratio}=\frac{39,  226+10,  000}{1,  203,  321+10,  000*0\%}=4.1\%$$
+	       - $$\text{Tier 1 Capital Ratio}=\frac{39,    226+10,    000}{1,    203,    321+10,    000*0\%}=4.1\%$$
        - Raising capital improves Tier 1 much faster than selling assets
 - Why not raise capital instead of selling assets?
        - Dilution of existing shareholders due to "fire sale" of equity at depressed stock prices
@@ -208,12 +208,12 @@ Epilogue: What happened to the loan portfolio?
 - Blackstone and Citi entered the deal in April 2008
 - Blackstone exited completely by 2013 realizing 2x the invested (equity) capital
        - Roughly 15% p.a.
-- In retrospect,   the timing of the deal was probably not ideal for Blackstone
-       - Subsequently,   CDS skyrocketed,   secondary loan market prices fell and loans 
+- In retrospect,     the timing of the deal was probably not ideal for Blackstone
+       - Subsequently,     CDS skyrocketed,     secondary loan market prices fell and loans 
 were marked to 70 cents on the dollar at their low point (March 2009)
        - Better deals may have been available later in the crisis
            - But timing the market is hard
-- Blackstone did not face margin calls,   but they came close
+- Blackstone did not face margin calls,     but they came close
        - Their equity stake was written down to close to zero and only recovered slowly
 
 Average bid quote for leveraged loans over crisis
@@ -239,7 +239,7 @@ or significant value drivers are unobservable
 ![](2a91cfaa2c9ffd768a26df88e85b3caf.png)
 
 
-[Week 6 Bank Business Model,   Regulation,   and Accounting Rules](Zhe/Week%206/Week%206%20Bank%20Business%20Model,  %20Regulation,  %20and%20Accounting%20Rules.md)
+[Week 6 Bank Business Model,     Regulation,     and Accounting Rules](Zhe/Week%206/Week%206%20Bank%20Business%20Model,    %20Regulation,    %20and%20Accounting%20Rules.md)
 [Week 6 Bank Analysis and Valuation](Zhe/Week%206/Week%206%20Bank%20Analysis%20and%20Valuation.md)
 [HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio](HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
 [HBS Citigroup 2007-Financial Reporting And Regulatory Capital](HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md)

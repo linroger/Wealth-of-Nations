@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md"
+                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md"
               }
             }
           },
@@ -273,7 +273,12 @@
   },
   "active": "7cfe0990aef226cb",
   "lastOpenFiles": [
+    "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
+    "Advanced Financial Analysis and Valuation/Problem Sets/PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
     "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
     "Asset Classes/Derivatives/Options/Option Strategies/What Is A Covered Straddle - Fidelity.md",
     "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
@@ -283,7 +288,6 @@
     "HBR Notes/Note on Long-Term Capital Management, L.P. HBP.md",
     "Financial Instruments/Financial Instruments.md",
     "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
-    "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Asset Classes/Equities/Miller Modigliani Theorems.md",
     "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Credit Markets/Credit Markets.md",
@@ -296,8 +300,6 @@
     "Advanced Investments/Advanced Investments.md",
     "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Teaching Note 3 Swaps- Financial Instruments.md",
     "Financial Instruments/Assignments/Assignments.md",
-    "Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3 Financial Risk Analysis.md",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
     "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",
@@ -308,8 +310,6 @@
     "Attachments/0afcc6662687105cc7d22e71f6b49048.png",
     "Attachments/ae9b588a4867fda8b108ae849841a10a.png",
     "Attachments/b66ed4a07d1539c3765b9d0e5739b914.png",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 9/Week 9.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",
