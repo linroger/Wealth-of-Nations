@@ -4,7 +4,7 @@ aliases: [BOND YIELD FACTORS]
 linter-yaml-title-alias: BOND YIELD FACTORS
 ---
 
-# BOND YIELD FACTORS
+# Week 7-Advanced Investments
 
 Lecture 7
 Our goal in this session is to better understand the risk and return properties of fixedincome instruments such as U.S. Treasury bonds.$^1$ For now,  we focus on $\textit{defaultfree}$ bonds,  i.e.,  we assume that the cash flows (coupons and principal) that the bonds promise to pay will be paid for sure. More precisely,  we will for now focus on nominal default-free bonds,  which are bonds that promise a fıxed stream of dollar cash flows that are not adjusted for inflation. For example,  if you buy a nominal bond default-free bond today that matures 10 years from now,  you will know for sure how many dollars of principal payment you will get back at the maturity date,  but you don't know the purchasing power this dollar cash fow will have at the maturity date.

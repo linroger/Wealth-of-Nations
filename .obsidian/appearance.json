@@ -18,6 +18,9 @@
     "accent-yellow",
     "[ui] Compact Tabs",
     "caption and center image",
-    "image_link_centering"
+    "image_link_centering",
+    "folder_view_headers",
+    "safaritabs",
+    "latex_tables"
   ]
 }

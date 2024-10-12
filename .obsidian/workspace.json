@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
+                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Earnings Before Interest and Taxes (EBIT) Formula and Example.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e554e1f977f9eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +131,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
+                "file": "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md"
               }
             }
           },
@@ -268,15 +282,18 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "github-sync:Sync with Remote": false,
-      "formatto-format:Format Document": false
+      "formatto-format:Format Document": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22b3283e4118448a",
+  "active": "3e554e1f977f9eb1",
   "lastOpenFiles": [
+    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Earnings Before Interest and Taxes (EBIT) Formula and Example.md",
     "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Problem Sets/PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md",
-    "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
     "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
     "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
@@ -298,8 +315,6 @@
     "Asset Classes/Asset Classes.md",
     "Advanced Investments/Week 1-Advanced Investments/Week 1-Advanced Investments.md",
     "Advanced Investments/Advanced Investments.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 3 Swaps- Financial Instruments/Teaching Note 3 Swaps- Financial Instruments.md",
-    "Financial Instruments/Assignments/Assignments.md",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
     "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",
