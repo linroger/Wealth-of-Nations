@@ -1,7 +1,9 @@
 ---
 title: Week 8-Advanced Investments
-aliases: [8.3 INFLATION RISK AND HEDGING]
+aliases:
+  - 8.3 INFLATION RISK AND HEDGING
 linter-yaml-title-alias: 8.3 INFLATION RISK AND HEDGING
+cssclass: "academia"
 ---
 
 So far we have discussed portfolio choice in terms of nominal returns. This means we have not taken into account the loss of purchasing power that an investor may experience over time due to inflation. The loss of purchasing power that a long-term investor experiences over time can be substantial even with moderate inflation rates. From a portfolio choice viewpoint,  the key question is whether the risk of such loss of purchasing power can be altered by choosing an appropriate asset mix in the portfolio
@@ -66,22 +68,22 @@ The blue line in the figure shows the nominal final value. For example,  the poi
 | 1922-23 | 3.529.1 | 51.4 | 6,                                                   384.5 | 9.965.0 | 81.0 | 344.4 | 1,                                                   683.5 | 3,                                                   600.0 | 4,                                                   254.1 | 9.965.(|
 | 9 months) | 1.496.1 | 180.6 | 11,                                                   836.5 | 13.513.2 |  | 931.0 | 3.725.0 |  |  | 13.513 |
 
-|           | Ordinar Total | Revenue Of Which Taxes Yielded | Ordinary $Expen-$ ditures | Excess of Revenue (+)or$Ex-$ penditure (-) |
-| --------- | ------------- | ------------------------------ | ------------------------- | ------------------------------------------ |
-| 1923:     |               |                                |                           |                                            |
-| November  | 68.1          | 63.2                           |                           |                                            |
-| December  | 333.9         | 312.3                          | 668.7                     | -334.8                                     |
-| 1924:     |               |                                |                           |                                            |
-| January   | 520.6         | 503.5                          | 396.5                     | +124.1                                     |
-| February  | 445.0         | 418.0                          | 462.8                     | -17.8                                      |
-| March     | 632.4         | 595.3                          | 498.6                     | 133.8                                      |
-| April     | 579.5         | 523.8                          | 523.5                     | +56.0                                      |
-| May       | 566.7         | 518.7                          | 459.1                     | +107.6                                     |
-| June      | 529.7         | 472.3                          | 504.5                     | +25.2                                      |
-| July      | 622.2         | 583.1                          | 535.1                     | +86.9                                      |
-| August    | 618.2         | 592.0                          | 597.6                     | +20.6                                      |
-| September | 665.6         | 609.2                          | 581.6                     | +84.0                                      |
-| October   | 714.3         | 686.7                          | 693.0                     | +21.3                                      |
+|           | Ordinary Total | Revenue Of Which Taxes Yielded | Ordinary $Expen-$ ditures | Excess of Revenue (+)or$Ex-$ penditure (-) |
+| --------- | -------------- | ------------------------------ | ------------------------- | ------------------------------------------ |
+| 1923:     |                |                                |                           |                                            |
+| November  | 68.1           | 63.2                           |                           |                                            |
+| December  | 333.9          | 312.3                          | 668.7                     | -334.8                                     |
+| 1924:     |                |                                |                           |                                            |
+| January   | 520.6          | 503.5                          | 396.5                     | +124.1                                     |
+| February  | 445.0          | 418.0                          | 462.8                     | -17.8                                      |
+| March     | 632.4          | 595.3                          | 498.6                     | 133.8                                      |
+| April     | 579.5          | 523.8                          | 523.5                     | +56.0                                      |
+| May       | 566.7          | 518.7                          | 459.1                     | +107.6                                     |
+| June      | 529.7          | 472.3                          | 504.5                     | +25.2                                      |
+| July      | 622.2          | 583.1                          | 535.1                     | +86.9                                      |
+| August    | 618.2          | 592.0                          | 597.6                     | +20.6                                      |
+| September | 665.6          | 609.2                          | 581.6                     | +84.0                                      |
+| October   | 714.3          | 686.7                          | 693.0                     | +21.3                                      |
 
 Figure 8.3: Top-10 hyperinflations in world history
 
