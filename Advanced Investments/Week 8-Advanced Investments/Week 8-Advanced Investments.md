@@ -147,7 +147,7 @@ using the commonly used approximation$^2$
 $$R_{t:t+12}^r\approx R_{t:t+12}-\Pi_{t:t+12}.\tag{8.13}$$
 Unless the inflation rate is huge $R_t:t+12^r=(1+R_{t:t+12})/(1+\Pi_{t:t+12})-1\approx R_{t:t+12}-\Pi_{t:t+12}$ With returns and inflation in logs,  i.e.,  $r_t:t+12^r=\log(1+R_{t:t+12}^r)$ and $\pi_t:t+12=\log(1+\Pi_{t:t+12})$,  it would be exact: $r_t:t+12^{r}=r_{t:t+12}-\pi_{t:t+12}.$
 
-# TO ESTIMATE EACH ASSET CLASSES' EXPOSURE TO INFLATION RISK,  I THEN REGRESS THESE REAL RETURNS ON UNEXPECTED INFLATION AND CHANGES IN EXPECTED INFLATION$^3$
+ TO ESTIMATE EACH ASSET CLASSES' EXPOSURE TO INFLATION RISK,  I THEN REGRESS THESE REAL RETURNS ON UNEXPECTED INFLATION AND CHANGES IN EXPECTED INFLATION$^3$
 
 $$R_{t:t+12}^{r}=a+\beta_{\pi}UE_{t:t+12}+\beta_{\mathrm{E}\:\pi}\Delta E_{t:t+12}+e_{t:t+12}.\tag{8.14}$$
 The two slope coefficients $\beta_\pi$ and $\beta\mathbb{E}_\pi$ capture exposure to the two types of inflation risk. For a real asset with zero exposure to inflation risk,  we would expect $\beta_\pi=0$ and $\beta_{\mathrm{E}\pi}=0.$ For a nominal asset we would expect $\beta_\pi<0$ and $\beta_{\mathrm{E}\pi}<0.$
@@ -177,13 +177,13 @@ Table 8.1: Inflation betas of asset classes
 | Estimates | 0.06 | 2.75 | 10.78 | 0.23 |
 | $t$-statistic | (1.91 1 | (1.40 | 1.93 |  |
 
-|  | Revenue | Expenditures |
-| --- | --- | --- |
-|  | Taxes | Sundries | Deficit Cowered by Loan Transactions | Total | Repay. meant of Floating Debt | Interest on Floating Debt | $Subsi.$ dies to Rail. roads | Execu. tion of $Ver.$ sailles Treaty | $Sun.$ dries | Total |
-| 1920-21 | 4.090.8 | 132.9 | 7,                                                   041,                                                   9 | 11.266.6 | 821.7 |  | - |  | - | 11.265. |
-| 1921-22 | 5.235.7 | 100.5 | 6.627.4 | 11.963.6 | 1.039.5 | 811.6 | 1.114.4 | $S0.\1.6$ | 5.738.4 | 11.963. |
-| 1922-23 | 3.529.1 | 51.4 | 6,                                                   384.5 | 9.965.0 | 81.0 | 344.4 | 1,                                                   683.5 | 3,                                                   600.0 | 4,                                                   254.1 | 9.965.(|
-| 9 months) | 1.496.1 | 180.6 | 11,                                                   836.5 | 13.513.2 |  | 931.0 | 3.725.0 |  |  | 13.513 |
+|           | Revenue | Expenditures |                                                             |          |                               |                           |                                                            |                                                            |                                                            |         |
+| --------- | ------- | ------------ | ----------------------------------------------------------- | -------- | ----------------------------- | ------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ------- |
+|           | Taxes   | Sundries     | Deficit Cowered by Loan Transactions                        | Total    | Repay. meant of Floating Debt | Interest on Floating Debt | $Subsi.$ dies to Rail. roads                               | Execu. tion of $Ver.$ sailles Treaty                       | $Sun.$ dries                                               | Total   |
+| 1920-21   | 4.090.8 | 132.9        | 7, 041,                                                   9 | 11.266.6 | 821.7                         |                           | -                                                          |                                                            | -                                                          | 11.265. |
+| 1921-22   | 5.235.7 | 100.5        | 6.627.4                                                     | 11.963.6 | 1.039.5                       | 811.6                     | 1.114.4                                                    | $S0.\1.6$                                                  | 5.738.4                                                    | 11.963. |
+| 1922-23   | 3.529.1 | 51.4         | 6,                                                   384.5  | 9.965.0  | 81.0                          | 344.4                     | 1,                                                   683.5 | 3,                                                   600.0 | 4,                                                   254.1 | 9.965.( |
+| 9 months) | 1.496.1 | 180.6        | 11,                                                   836.5 | 13.513.2 |                               | 931.0                     | 3.725.0                                                    |                                                            |                                                            | 13.513  |
 
 |           | Ordinar Total | Revenue Of Which Taxes Yielded | Ordinary $Expen-$ ditures | Excess of Revenue (+)or$Ex-$ penditure (-) |
 | --------- | ------------- | ------------------------------ | ------------------------- | ------------------------------------------ |
