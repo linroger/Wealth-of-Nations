@@ -145,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md"
               }
             }
           },
@@ -299,10 +299,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b3dc0a794848493",
+  "active": "b335010b0a3958ca",
   "lastOpenFiles": [
-    "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Financial Ratios/Earnings Before Interest and Taxes (EBIT) Formula and Example.md",
     "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
