@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md"
+                "file": "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md"
               }
             }
           },
@@ -271,8 +271,9 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "7cfe0990aef226cb",
+  "active": "22b3283e4118448a",
   "lastOpenFiles": [
+    "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Problem Sets/PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
@@ -287,7 +288,6 @@
     "Asset Classes/Derivatives/Forward and Futures/EuroDollar Futures.md",
     "HBR Notes/Note on Long-Term Capital Management, L.P. HBP.md",
     "Financial Instruments/Financial Instruments.md",
-    "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
     "Asset Classes/Equities/Miller Modigliani Theorems.md",
     "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Credit Markets/Credit Markets.md",

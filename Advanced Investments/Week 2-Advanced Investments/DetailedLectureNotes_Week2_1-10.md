@@ -23,7 +23,7 @@ Consider N risky assets with an N ⇥ 1 vector of returns r and expected returns
 
 We will often look at excess returns
 
-$$z=r-\iota R_{f},  \qquad\mu=\mathbb{E}[z]$$
+$$z=r-\iota R_{f},   \qquad\mu=\mathbb{E}[z]$$
 
 Very important for our portfolio choice analysis is the N⇥N covariance matrix of returns
 
@@ -36,7 +36,7 @@ For analyzing portfolio risk and return,  we need to know a few rules on how the
 (in terms of the proportion of the portfolio's market value accounted for by each asset) is collected in the N ⇥ 1 portfolio weight vector! = (!1,  !2*,  …,  *!N)0. Then the portfolio return is Rp =!0r,  (2.3)
 and the expected portfolio return
 
-$$R_{p}=\omega^{\prime}r,  $$
+$$R_{p}=\omega^{\prime}r,   $$
 $$(2.3)$$
 
 $$\mathbb{E}[R_{p}]=\omega^{\prime}\mathbb{E}[\mathbf{r}].$$
@@ -54,7 +54,7 @@ So if the portfolio has positive weight on both assets,  !1 > 0 and!2 > 0,  then
 
 Sometimes we are interested in the covariances of returns of the individual assets that are in the portfolio with the return of the overall portfolio. We can get this vector of covariances by post-multiplying the covariance matrix with the portfolio weight vector,
 
-$$\left(\begin{array}{c}{{\operatorname{cov}(R_{1},  R_{p})}}\\ {{\operatorname{cov}(R_{2},  R_{p})}}\\ {{\ldots}}\\ {{\operatorname{cov}(R_{N},  R_{N})}}\end{array}\right)=\Sigma\boldsymbol{\omega}.$$
+$$\left(\begin{array}{c}{{\operatorname{cov}(R_{1},   R_{p})}}\\ {{\operatorname{cov}(R_{2},   R_{p})}}\\ {{\ldots}}\\ {{\operatorname{cov}(R_{N},   R_{N})}}\end{array}\right)=\Sigma\boldsymbol{\omega}.$$
 $$(2.8)$$
 .
 
@@ -65,17 +65,17 @@ Let's now turn to finding the optimal portfolio weight when we have multiple ris
 If the investor starts with wealth W0 at the beginning of a period and invests proportions! of this initial wealth into the N risky assets and the rest in the risk-free asset,  then the total investment in risky assets accounts for a proportion 0! = PNi!i of initial wealth and the rest,  10! is allocated to the risk-free asset. Hence the return on the investor's wealth portfolio is
 
 $$(2.9)$$
-$$R_{w}=(1-\iota^{\prime}\omega)R_{f}+r^{\prime}\omega,  $$
+$$R_{w}=(1-\iota^{\prime}\omega)R_{f}+r^{\prime}\omega,   $$
 $$R_{w}=R_{f}+z^{\prime}\omega.$$
 $$(2.10)$$
-$$+\,  R_{w}).$$
+$$+\,   R_{w}).$$
 or,  equivalently,
 Rw = Rf + z0!. (2.10)
 The investor's wealth at the end of the period is W = W0(1 + Rw).
 
 The investors' objective is the same as in the single risky asset case in the previous
 lecture
-$$\operatorname*{max}_{\omega}\mathbb{E}[U(W)]\quad\mathrm{s.t.}W=W_{0}(1+R_{w}),  $$
+$$\operatorname*{max}_{\omega}\mathbb{E}[U(W)]\quad\mathrm{s.t.}W=W_{0}(1+R_{w}),   $$
 but Rw now depends on a vector of portfolio weights!,  not just a single risky asset
 portfolio weight,  that the investor is trying to optimize. The first-order condition of
 this problem is analogous to the single risky asset case,  but now we have N first order conditions instead of just one.
@@ -121,7 +121,7 @@ The risky asset portfolio with weights!⇤ is the tangency portfolio that you al
 
 To get some intuition for what the optimal portfolio solution does and how it depends on expected returns and correlations,  suppose we have N = 2 and
 
-$$\mu=\begin{pmatrix}\mu_{1}\\ \mu_{2}\end{pmatrix},  \qquad\Sigma=\sigma^{2}\begin{pmatrix}1&\rho\\ \rho&1\end{pmatrix}$$
+$$\mu=\begin{pmatrix}\mu_{1}\\ \mu_{2}\end{pmatrix},   \qquad\Sigma=\sigma^{2}\begin{pmatrix}1&\rho\\ \rho&1\end{pmatrix}$$
 $$\mathrm{Then}$$
 $$\Sigma^{-1}=\frac{1}{\sigma^{2}(1-\rho^{2})}\begin{pmatrix}1&-\rho\\ -\rho&1\end{pmatrix}$$
 Plugging into $\left(2.18\right)$ we get.
@@ -148,7 +148,7 @@ We can see the risk contribution of assets to the overall portfolio by examining
 
 var(Rp) =!0⌃! is a vector of covariances,  so the pre-multiplication by!0 forms a weighted sum of these covariances,  i.e.,
 
-$$\operatorname{var}(R_{p})=\omega_{1}\underbrace{\operatorname{cov}(R_{1},  R_{p})}_{\begin{subarray}{c}\operatorname{Risk}\\ \operatorname{condition}\\ \operatorname{of~asset~1}\end{subarray}}+\omega_{2}\operatorname{cov}(R_{2},  R_{p})+\ldots+\omega_{N}\operatorname{cov}(R_{N},  R_{p})$$
+$$\operatorname{var}(R_{p})=\omega_{1}\underbrace{\operatorname{cov}(R_{1},   R_{p})}_{\begin{subarray}{c}\operatorname{Risk}\\ \operatorname{condition}\\ \operatorname{of~asset~1}\end{subarray}}+\omega_{2}\operatorname{cov}(R_{2},   R_{p})+\ldots+\omega_{N}\operatorname{cov}(R_{N},   R_{p})$$
 $$(2.22)$$
 
 We have now decomposed the overall portfolio variance in the pieces that come from each asset. How much risk each asset brings to the portfolio is determined by how much of this asset is in the portfolio,  i.e.,  its portfolio weight,  times the risk contribution measured by the covariance cov(Ri,  Rp). For the same weight,  an asset that has a higher covariance with the portfolio return adds more risk to the portfolio.
@@ -161,7 +161,7 @@ The systematic risk of asset i is measured by
 
 $$(2.23)$$
 
-$$\beta_{i}={\frac{\mathrm{cov}(R_{i},  R_{p})}{\mathrm{var}(R_{p})}}.$$
+$$\beta_{i}={\frac{\mathrm{cov}(R_{i},   R_{p})}{\mathrm{var}(R_{p})}}.$$
 $$(2.24)$$
 var(Rp). (2.24)
 One important take-away at this point is that systematic risk is investor specific.
@@ -173,11 +173,11 @@ Now let's assume the investor's portfolio is mean-variance optimal,  i.e.,  it h
 
 With these optimal portfolio weights,  following (2.8),  individual assets have a vector of covariances
 
-$$\Sigma\omega^{*}=\Sigma\Sigma^{-1}\mu=\mu,  $$
+$$\Sigma\omega^{*}=\Sigma\Sigma^{-1}\mu=\mu,   $$
 
 and,  following (2.5),  we have the portfolio variance
 
-$$\operatorname{var}(R^{*})=\omega^{*\prime}\Sigma\omega^{*}=\omega^{*\prime}\mu=\mu^{*},  $$
+$$\operatorname{var}(R^{*})=\omega^{*\prime}\Sigma\omega^{*}=\omega^{*\prime}\mu=\mu^{*},   $$
 var(R⇤) =!⇤0⌃!⇤ =!⇤0µ = µ⇤,  (2.26)
 $$(2.25)$$
 $$(2.26)$$
@@ -192,7 +192,7 @@ $$(2.27)$$
 $$(2.28)$$
 $$\mu=\beta^{*}\mu^{*}.$$
 $\frac{3}{4}$ 4.
-$$\mathbb{E}[Z_{i}]=\beta_{i}^{*}\,  \mathbb{E}[Z^{*}],  $$
+$$\mathbb{E}[Z_{i}]=\beta_{i}^{*}\,   \mathbb{E}[Z^{*}],   $$
 $\left(2.29\right)^{\frac{1}{2}}$
 µ = ⇤µ⇤. (2.28)
 For an asset $i$,  therefore,  .
@@ -206,7 +206,7 @@ Furthermore,  equation (2.29) tells us that if the portfolio with return R⇤ is
 
 Otherwise,  if we could find such an asset i that violates condition (2.29),  we could improve our portfolio's Sharpe ratio by adding more of asset i to the portfolio (if the expected return is higher than required) or taking some of it out,  and possibly shorting it (if the expected return is lower than required). For example,  if an asset i has E[Zi] > ⇤i E[Z⇤],  it would make sense for the investor to take more of asset i into the portfolio,  because this would contribute to a relatively small amount of portfolio risk,  but a relatively big expected excess return.
 
-$$\mathrm{agel}\,  \$$
+$$\mathrm{agel}\,   \$$
 
 ##
 
@@ -218,7 +218,7 @@ $$(2.31)$$
 Ri = ai + ⇤i R⇤ + "i (2.30)
 where cov(R⇤,  "i) = 0. This decomposition shows that movements in Ri are partly
 due to movements perfectly aligned with R⇤ (systematic) and partly due to movements uncorrelated with R⇤ (idiosyncratic). Taking the variance of the leftand right-hand sides,
-$$\operatorname{var}(R_{i})=(\beta_{i}^{*})^{2}\operatorname{var}(R^{*})+\operatorname{var}(\varepsilon_{i}),  $$
+$$\operatorname{var}(R_{i})=(\beta_{i}^{*})^{2}\operatorname{var}(R^{*})+\operatorname{var}(\varepsilon_{i}),   $$
 2 var(R⇤) + var("i),  (2.31)
 we have now broken the total risk of asset i,  var(Ri),  into two components: Systematic risk,  (⇤i)2 var(R⇤),  and idiosyncratic risk,  var("i).
 
@@ -234,14 +234,14 @@ We can also show that when the condition (2.29) holds,  and hence R⇤ is truly 
 
 To see this,  start from (2.29),
 
-$$\mathbb{E}[Z_{i}]={\frac{\operatorname{cov}(Z_{i},  R^{*})}{\operatorname{var}(R^{*})}}\,  \mathbb{E}[Z^{*}]$$
+$$\mathbb{E}[Z_{i}]={\frac{\operatorname{cov}(Z_{i},   R^{*})}{\operatorname{var}(R^{*})}}\,   \mathbb{E}[Z^{*}]$$
 $$(2.32)$$
 
 and let i = var(Zi)1/2,  = var(R⇤)1/2 and let ⇢i denote the correlation of Zi and R⇤.
 
 Since |⇢i| 1,  it is true that
 
-$$|\operatorname{cov}(Z_{i},  R^{*})|=|\rho_{i}|\sigma_{i}\sigma\leq\sigma_{i}\sigma$$
+$$|\operatorname{cov}(Z_{i},   R^{*})|=|\rho_{i}|\sigma_{i}\sigma\leq\sigma_{i}\sigma$$
  $\diamond$ (2.32) and rearranging,  we get.
 | cov(Zi,  R⇤)| = |⇢i|i i (2.33)
 $\text{Uniting}\cup\text{I}$
@@ -263,7 +263,7 @@ Because we are interested in this compositional question,  we now focus on the *
 
 Supply is then given by the weights of the *market portfolio* of risky assets. This is the portfolio in which the weight of each asset is equal to ratio of the asset's market capitalization (price times shares outstanding),  *mcap*i,  to the aggregate market capitalization of all risky assets:
 
-$$\omega_{m,  i}={\frac{m c a p_{i}}{\sum_{j=1}^{N}m c a p_{j}}}.$$
+$$\omega_{m,   i}={\frac{m c a p_{i}}{\sum_{j=1}^{N}m c a p_{j}}}.$$
 
 To see how equilibrium plays out,  in a first simple thought experiment,  suppose all investors want to hold the same portfolio,  i.e,  they all want to have the same proportions
 
@@ -276,7 +276,7 @@ How would the market get to such an equilibrium in which the market clears? Pric
 Now let's analyze what happens when investors not only want to hold identical portfolios,  but their demands come from mean-variance optimization: they all want to hold portfolios with weights according to our optimal risky asset portfolio formula (2.18)
 and they have the same beliefs about expected returns,  variances,  and covariances. Then prices of risky assets must adjust such that the optimal portfolio ends up being equal to the market portfolio. And the return R⇤ is then equal to the market portfolio return Rm. This means that the relationship in (2.29) now becomes
 
-$$\mathbb{E}[Z_{i}]={\frac{\operatorname{cov}(Z_{i},  R_{m})}{\operatorname{var}(R_{m})}}\,  \mathbb{E}[Z_{m}]=\beta_{i}\,  \mathbb{E}[Z_{m}]$$
+$$\mathbb{E}[Z_{i}]={\frac{\operatorname{cov}(Z_{i},   R_{m})}{\operatorname{var}(R_{m})}}\,   \mathbb{E}[Z_{m}]=\beta_{i}\,   \mathbb{E}[Z_{m}]$$
 
 which is the Capital Asset Pricing Model (CAPM)! So the CAPM results from combining the assumption that investors have identical beliefs about risk and return and seek to hold mean-variance optimal portfolios with the market equilibrium condition that demand equals supply.
 
@@ -406,7 +406,7 @@ The key is that this standard error depends on the variance,  while the standard
 $${\mathrm{s.e.}}({\hat{\sigma}}(n)^{2})={\frac{\sqrt{2}}{\sqrt{n T}}}{\frac{\sigma^{2}}{n}}={\frac{1}{n^{3/2}}}{\frac{\sqrt{2}}{\sqrt{T}}}\sigma^{2}$$
 $$(2.43)$$
 $$45$$
-$\text{(}\!\!\text{C)}\!\!\text{Stefan Nagel}\,  \\,  \text{!}$
+$\text{(}\!\!\text{C)}\!\!\text{Stefan Nagel}\,   \\,   \text{!}$
 
 If we look at the ratio of the true variance,  which falls by factor of 1/n and the standard error,  which falls by a factor of 1 n3/2,  we see that the ratio rises by (1/n)/n3/2 = n. In other words,  the standard error falls relative to the true variance. This means we gain in precision!
 
@@ -537,7 +537,7 @@ can be combined with evidence from data to obtain a *posterior* distribution tha
 
 Let's start with the prior beliefs. Suppose we think,  a priori,  that a reasonable number for expected excess returns of the risky assets under consideration is 5%. Then,  our prior mean vector (the mean of the prior probability distribution) µ0 is a vector in which all elements are equal to 0.05. This does not mean at all that we are certain about this number,  but we see it as a reasonable starting point. Bayesian statistics (under the assumption that both the prior distribution and the deviations of realized excess returns from µ are normally distributed) then tells us that our posterior mean is
 
-$$\hat{\mu}=\phi\bar{z}+(1-\phi)\mu_{0},  $$
+$$\hat{\mu}=\phi\bar{z}+(1-\phi)\mu_{0},   $$
 $$(2.47)$$
 µˆ =!z¯ + (1 ⇥!)µ0,  (2.47)
 i.e.,  it's a weighted average of sample average excess returns of the assets and the prior mean. How much weight! we would optimally put on the information coming from the observed data,  z¯ vs. the weight 1⇥! on the prior mean depends on: (i) how informative the data is (higher! if the sample is larger and returns are less volatile); (ii) the precision of our prior beliefs that µ is in the vicinity of µ0 (lower! if our prior beliefs are more precise).
@@ -573,7 +573,7 @@ Now the posterior mean is pulling the estimates away from the individual-asset t
 
 Now let's refine this a little. For many assets,  it might not be all that plausible that the true elements of µ are drawn from distributions with a common mean µ0 because the assets dier substantially in their levels of risk. For example,  think of a portfolio of long-term U.S. Treasury bonds and a broad stock market portfolio. It does not seem plausible,  *a priori*,  that the lower-risk Treasury bond portfolio would earn the same expected return as a broad stock portfolio. For this reason,  it may be better to work with risk-adjusted measures of expected returns,  such as the Sharpe Ratio
 
-$\text{(}\!\!\text{C)}\!\!\text{Stefan Nagel}\,  \$.
+$\text{(}\!\!\text{C)}\!\!\text{Stefan Nagel}\,   \$.
 
 For the kind of application we have in mind in this course,  where we are trying to form a portfolio that invests in a number of broad asset classes,  a reasonable prior view,  before seeing data on this,  might be that each of these asset classes have a tendency to deliver similar Sharpe ratios,  i.e.,  that the true ratios
 
@@ -592,7 +592,7 @@ And as we discussed above for shrinking means,  we can use an empirical Bayes ap
 
 $$\hat{s}_{i}=\phi\frac{\bar{z}_{i}}{\hat{\sigma}_{i}}+(1-\phi)\mathbf{\iota}\bar{\hat{s}}.$$
 $$(2.53)$$
-$${\hat{\mu}}_{i}={\hat{s}}_{i}{\hat{\sigma}}_{i},  $$
+$${\hat{\mu}}_{i}={\hat{s}}_{i}{\hat{\sigma}}_{i},   $$
 $$(2.54)$$
 
 $${\mathrm{e~formula}}.$$
@@ -656,7 +656,7 @@ $$\widehat{\mathbf{C}}=\phi\overline{{{\mathbf{C}}}}+(1-\phi)\mathbf{C}_{0}.$$
 
 Then our estimate of the covariance matrix becomes
 
-$${\widehat{\Sigma}}={\widehat{\mathbf{S}}}{\widehat{C}}{\widehat{\mathbf{S}}},  $$
+$${\widehat{\Sigma}}={\widehat{\mathbf{S}}}{\widehat{C}}{\widehat{\mathbf{S}}},   $$
 $\left(2.59\right)^{\circ}$
 ⌃✓ = S✓C✓S✓,  (2.59)
 where S✓ is the estimated version of S,  i.e.,  with estimated standard deviations on its diagonal.
@@ -734,7 +734,7 @@ Among investment practitioners,  the approach to portfolio allocation embodied i
 The motivation investment practitioners give for this approach is typically a bit different from the way we arrived at it here. Risk parity is often presented as the idea that each asset class should be held with a weight that has each asset class make the same risk contribution to the portfolio,  or,  in other words,  it gets the same "risk budget."
 Recall our decomposition of the portfolio variance in (2.22):
 
-$$\mathrm{var}(R_{p})=\omega_{1}\underbrace{\mathrm{cov}(R_{1},  R_{p})}_{\begin{subarray}{c}\mathrm{Risk}\\ \mathrm{contribution}\\ \mathrm{of\ asset\ 1}\end{subarray}}+\omega_{2}\,  \mathrm{cov}(R_{2},  R_{p})+\ldots+\omega_{N}\,  \mathrm{cov}(R_{N},  R_{p})\tag{2.65}$$
+$$\mathrm{var}(R_{p})=\omega_{1}\underbrace{\mathrm{cov}(R_{1},   R_{p})}_{\begin{subarray}{c}\mathrm{Risk}\\ \mathrm{contribution}\\ \mathrm{of\ asset\ 1}\end{subarray}}+\omega_{2}\,   \mathrm{cov}(R_{2},   R_{p})+\ldots+\omega_{N}\,   \mathrm{cov}(R_{N},   R_{p})\tag{2.65}$$
 
 The risk contributions of each asset class per unit of weight are represented by the covariances cov(Ri,  Rp),  and their total risk contribution to the portfolio by this covariance times the portfolio weight. With risk-parity weights proportional to 1/i and the assumption that the correlation matrix of the asset classes is an equicorrelation matrix,  one can show that ⇢i cov(Ri,  Rp) is then the same for each asset class—i.e.,  each asset
 
