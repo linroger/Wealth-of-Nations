@@ -5,7 +5,7 @@ source: https://www.fidelity.com/learning-center/investment-products/options/opt
 author: The Options Institute at CBOE®
 ---
 
-# LONG CALENDAR SPREAD WITH PUTS - FIDELITY
+# Long Calendar Spread with Puts - Fidelity
 
 > ## Excerpt
 > A long calendar spread with puts is created by buying one

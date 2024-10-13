@@ -42,27 +42,27 @@ Miller and Modigliani's second proposition,  in the absence of taxes,  states th
 
 $r_E=r_0+(r_0−r_D)\frac{D}{E}$
 
-	 - $r_0$﻿ is the cost of capital for an unlevered firm,   
-	 - $r_D$﻿ is the cost of debt,   
-	 - $D$﻿ is the market value of debt,   
+	 - $r_0$﻿ is the cost of capital for an unlevered firm,     
+	 - $r_D$﻿ is the cost of debt,     
+	 - $D$﻿ is the market value of debt,     
 	 - $E$﻿ is the market value of equity.
 - As the firm increases its debt ($D$﻿),  the risk (and hence the return required by shareholders) increases. This equation demonstrates that as a firm takes on more debt,  the risk (and hence the required return by shareholders) increases linearly. This is because equity holders have a residual claim on the firm's income: they receive what's left after all obligations,  including debt,  are met. More debt implies that there are more fixed obligations,  and hence more risk to equity holders.
 - The firm's overall cost of capital (WACC),  denoted ($r_A$﻿),  which is a weighted average of the cost of equity and the cost of debt,  remains constant:$r_A=\frac{D}{V} * r_D + \frac{E}{V} r_E=r_0$﻿
 
 $r_A=\frac{D}{V} * r_D + \frac{E}{V} r_E=r_0$
 
-	 - Here,   $V$﻿ is the total market value of the firm ($V = D + E$﻿). This equation indicates that the firm's weighted average cost of capital is independent of its capital structure and equal to the firm's cost of capital as if it were all-equity financed.
+	 - Here,     $V$﻿ is the total market value of the firm ($V = D + E$﻿). This equation indicates that the firm's weighted average cost of capital is independent of its capital structure and equal to the firm's cost of capital as if it were all-equity financed.
 	 
 	 **Assumptions Behind Proposition II**
 	 
-	 1. **Perfect capital markets**: There are no taxes,    no bankruptcy costs,    investors can borrow and lend at the risk-free rate,    and there is no information asymmetry.
+	 1. **Perfect capital markets**: There are no taxes,      no bankruptcy costs,      investors can borrow and lend at the risk-free rate,      and there is no information asymmetry.
 	 2. **Homogeneous expectations**: All investors have the same expectations regarding the firm's future earnings and risks.
 	 3. **100% payout ratio**: All earnings are distributed to the investors. This assumption is needed to conclude that the cost of equity increases linearly with the debt-equity ratio.
 	 
 	 **Implications and Criticisms**
 	 
-	 - Proposition II provides the base theory that underpins the risk and return trade-off in capital structure decisions. As the firm leverages up,    the equity holders bear more risk,    which should be compensated by a higher expected return,    increasing the cost of equity. However,    the firm's overall cost of capital remains constant and is not affected by the capital structure changes.
-	 - It's important to note that in the real world,    the assumptions of the M&M Proposition II do not hold. For example,    interest expenses are tax-deductible,    which reduces the cost of debt and,    consequently,    the WACC. This gives firms an incentive to use debt in their capital structure,    leading to a deviation from the M&M proposition II. Additionally,    increasing debt increases the risk of bankruptcy,    which can lead to bankruptcy costs,    further complicating the relationship between capital structure and firm value.
+	 - Proposition II provides the base theory that underpins the risk and return trade-off in capital structure decisions. As the firm leverages up,      the equity holders bear more risk,      which should be compensated by a higher expected return,      increasing the cost of equity. However,      the firm's overall cost of capital remains constant and is not affected by the capital structure changes.
+	 - It's important to note that in the real world,      the assumptions of the M&M Proposition II do not hold. For example,      interest expenses are tax-deductible,      which reduces the cost of debt and,      consequently,      the WACC. This gives firms an incentive to use debt in their capital structure,      leading to a deviation from the M&M proposition II. Additionally,      increasing debt increases the risk of bankruptcy,      which can lead to bankruptcy costs,      further complicating the relationship between capital structure and firm value.
 
 **3. Dividend Irrelevance Theorem**
 

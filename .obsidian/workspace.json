@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
+                "file": "Asset Classes/Derivatives/Options/Option Strategies/Long Calendar Spread with Puts - Fidelity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
+                "file": "Asset Classes/Derivatives/Options/Option Strategies/Long Calendar Spread with Puts - Fidelity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
+                "file": "Asset Classes/Derivatives/Options/Option Strategies/Long Calendar Spread with Puts - Fidelity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md"
+                "file": "Asset Classes/Derivatives/Options/Option Strategies/Long Calendar Spread with Puts - Fidelity.md"
               }
             }
           },
@@ -290,7 +290,6 @@
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian42-brat:BRAT": false,
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
@@ -301,7 +300,14 @@
   },
   "active": "b335010b0a3958ca",
   "lastOpenFiles": [
+    "Asset Classes/Derivatives/Options/Option Strategies/Cash Secured Short Put.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
+    "Asset Classes/Derivatives/Options/Option Strategies/Long Butterfly Spread with Calls - Fidelity.md",
+    "Asset Classes/Derivatives/Options/Option Strategies/Bear Put Spread - Fidelity.md",
+    "Asset Classes/Derivatives/Options/Option Strategies/Option Strategies.md",
+    "Asset Classes/Equities/Miller Modigliani Theorems.md",
+    "Asset Classes/Equities/Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows.md",
+    "Credit Markets/Credit Market PSETS/Credit Market Homework 1.md",
     "Advanced Investments/Week 7-Advanced Investments/Week 7-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Financial Ratios/Earnings Before Interest and Taxes (EBIT) Formula and Example.md",
     "Advanced Investments/Week 2-Advanced Investments/DetailedLectureNotes_Week2_1-10.md",
@@ -318,16 +324,9 @@
     "Asset Classes/Derivatives/Forward and Futures/EuroDollar Futures.md",
     "HBR Notes/Note on Long-Term Capital Management, L.P. HBP.md",
     "Financial Instruments/Financial Instruments.md",
-    "Asset Classes/Equities/Miller Modigliani Theorems.md",
     "Financial Instruments/Lecture Notes/Lecture Notes.md",
     "Credit Markets/Credit Markets.md",
     "Untitled.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1 Introduction.md",
-    "HBR Notes/HBR Notes.md",
-    "Asset Classes/Asset Classes.md",
-    "Advanced Investments/Week 1-Advanced Investments/Week 1-Advanced Investments.md",
-    "Advanced Investments/Advanced Investments.md",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
     "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",
