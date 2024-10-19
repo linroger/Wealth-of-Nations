@@ -81,15 +81,12 @@
             "id": "baa773731299b5a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Math Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Fixed Income Asset Pricing"
               },
               "icon": "lucide-file",
-              "title": "Math Notes"
+              "title": "Fixed Income Asset Pricing"
             }
           },
           {
@@ -98,13 +95,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Markets/Credit Market PSETS/ Credit Market Solutions.md",
+                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credit Market Solutions"
+              "title": "Derivative Securities, NYU Courant"
             }
           },
           {
@@ -177,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Notes.md",
+                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +267,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Math Notes"
+              "title": "Backlinks for Derivative Securities, NYU Courant"
             }
           },
           {
@@ -279,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Notes.md",
+                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Math Notes"
+              "title": "Outgoing links from Derivative Securities, NYU Courant"
             }
           },
           {
@@ -306,10 +303,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Notes.md"
+                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Notes"
+              "title": "Outline of Derivative Securities, NYU Courant"
             }
           },
           {
@@ -348,11 +345,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "baa773731299b5a6",
+  "active": "d56d12297c7d6cda",
   "lastOpenFiles": [
+    "Credit Markets/Credit Market PSETS/ Credit Market Solutions.md",
+    "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
+    "Advanced Investments/Advanced Investments.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
     "Untitled 1.md",
     "Math Notes.md",
-    "Untitled.md",
+    "HomeMax Case Study Solution.md",
+    "HBR Notes/A Primer on Distressed Investing.md",
+    "HBR Notes/A Primer on Money Market Mutual Funds.md",
+    "HBR Notes/HBR Case Study- LTCM.md",
+    "HBR Notes/HBR Case Study- Oaktree.md",
     "Advanced Investments/Week 8-Advanced Investments/Week 8-Advanced Investments.md",
     "Asset Classes/Derivatives/Options/Option Strategies/Long Calendar Spread with Puts - Fidelity.md",
     "Asset Classes/Derivatives/Options/Option Strategies/Cash Secured Short Put.md",
@@ -368,15 +373,7 @@
     "Advanced Investments/Week 2-Advanced Investments/Week 2-Advanced Investments.md",
     "Advanced Financial Analysis and Valuation/Problem Sets/PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6 Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-    "Credit Markets/Credit Market PSETS/Basic Usage of QuantLib analytics library.md",
-    "Asset Classes/Derivatives/Options/Option Strategies/What Is A Covered Straddle - Fidelity.md",
-    "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
-    "Asset Classes/Derivatives/Forward and Futures/Futures Contracts and Hedging Complete/Forward Rate Agreements.md",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
-    "Asset Classes/Derivatives/Forward and Futures/EuroDollar Futures.md",
-    "HBR Notes/Note on Long-Term Capital Management, L.P. HBP.md",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
     "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",

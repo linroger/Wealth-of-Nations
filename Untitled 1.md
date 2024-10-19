@@ -1,6 +1,7 @@
 ---
 title: Untitled 1
 ---
+
 # Untitled 1
 **A Comprehensive Guide to Constructing Synthetic Replicating Portfolios**
 
