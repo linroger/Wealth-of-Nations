@@ -1,5 +1,5 @@
 ---
-title: OVERVIEW OF FORWARD RATE ANALYSIS
+title: Understanding The Yield CurvePart 1
 aliases: [OVERVIEW OF FORWARD RATE ANALYSIS]
 linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
 ---
@@ -7,7 +7,7 @@ linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
 Salomon Brothers
 ANITI ILMANEN
 
-# OVERVIEW OF FORWARD RATE ANALYSIS
+# Understanding The Yield CurvePart 1
 ## UNDERSTANDING THE YIELD CURVE: PART 1
 
 Introduction 1
@@ -52,7 +52,7 @@ Forward rate analysis also can be valuable in direct applications. Forward rates
 
 ## COMPUTATION OF PAR,  SPOT AND FORWARD RATES
 
-At the outset,  it is useful to review the concepts "yield to maturity, " "par yield, " "spot rate, " and "forward rate" to ensure that we are using our terms consistently. Appendix A is a reference that describes the notation and definitions of the main concepts used throughout the series Understanding the Yield Curve. Our analysis focuses on government bonds that have known cash flows (no default risk,  no embedded options). Yield to maturity is the single discount rate that equates the present value of a bond's cash flows to its market price. A yield curve is a graph of bond yields against their maturities. (Alternatively,  bond yields may be plotted against their durations,  as we do in many figures in this report.) The best-known yield curve is the on-the-run Treasury curve. On-the-run bonds are the most recently issued government bonds at each maturity sector.
+At the outset,  it is useful to review the concepts "yield to maturity,  " "par yield,  " "spot rate,  " and "forward rate" to ensure that we are using our terms consistently. Appendix A is a reference that describes the notation and definitions of the main concepts used throughout the series Understanding the Yield Curve. Our analysis focuses on government bonds that have known cash flows (no default risk,  no embedded options). Yield to maturity is the single discount rate that equates the present value of a bond's cash flows to its market price. A yield curve is a graph of bond yields against their maturities. (Alternatively,  bond yields may be plotted against their durations,  as we do in many figures in this report.) The best-known yield curve is the on-the-run Treasury curve. On-the-run bonds are the most recently issued government bonds at each maturity sector.
 
 Because these bonds are always issued with price near par (100),  the on-the-run curve often resembles the par yield curve,  which is a curve constructed for theoretical bonds whose prices equal par.
 
@@ -69,10 +69,10 @@ Thus,  it can be unbundled into a set of zeros,  which can be valued separately.
 
 A single cash flow is easy to analyze,  but its discount rate can be unbundled even further to one-period rates. That is,  a multiyear spot rate can be decomposed into a product of one-year forward rates,  the simplest building blocks in a term structure of interest rates. A given term structure of spot rates implies a specific term structure of forward rates. For example,  if the m-year and n-year spot rates are known,  the annualized forward rate between maturities m and n,  fp,  p,  is easily computed from Equation (2).
 
-$$(1 + f{}_{\rm m, n}){}^{\rm n-m} = \frac{(1+s_{\rm n})^{\rm n}}{(1+s_{\rm m})^{\rm m}} \tag{2}$$
-The forward rate is the interest rate for a loan between any two dates in the future,  contracted today. Any forward rate can be "locked in" today by buying one unit of the n-year zero at price $P_n,  = \frac{100}{(1+s_n)^n}$ and by shortselling $\frac{P_n}{P_m}$ units of the m-year zero at price $P_m = \frac{100}{(1+s_m)^m}$.
+$$(1 + f{}_{\rm m,  n}){}^{\rm n-m} = \frac{(1+s_{\rm n})^{\rm n}}{(1+s_{\rm m})^{\rm m}} \tag{2}$$
+The forward rate is the interest rate for a loan between any two dates in the future,  contracted today. Any forward rate can be "locked in" today by buying one unit of the n-year zero at price $P_n,   = \frac{100}{(1+s_n)^n}$ and by shortselling $\frac{P_n}{P_m}$ units of the m-year zero at price $P_m = \frac{100}{(1+s_m)^m}$.
 
-(Such a weighting requires no net investment today because both the cash inflow and the cash outflow amount to P, .) The one-year forward rate $(f^{n-1, n}$ such as $f_{1, 2},  f_{2, 3},  f_{3, 4},  …)$ represents a special case of Equation (2) in which $m = n-1$. The spot rate represents another special case in which m = 0; thus,  $s_n = f_{0, n}$.
+(Such a weighting requires no net investment today because both the cash inflow and the cash outflow amount to P,  .) The one-year forward rate $(f^{n-1,  n}$ such as $f_{1,  2},   f_{2,  3},   f_{3,  4},   …)$ represents a special case of Equation (2) in which $m = n-1$. The spot rate represents another special case in which m = 0; thus,  $s_n = f_{0,  n}$.
 
 To summarize,  a par rate is used to discount a set of cash flows (those of a par bond) to today,  a spot rate is used to discount a single future cash flow to today and a forward rate is used to discount a single future cash flow to another (nearer) future date. The par yield curve,  the spot rate curve and the forward rate curve contain the same information about today's term structure of interest rates? - if one set of rates is known,  it is easy to compute the other sets Figure | shows a hypothetical example of the three curves. In Appendix B,  we show how the spot and forward rates were computed based on the par yields.
 
@@ -83,7 +83,7 @@ However,  the three curves are identical only if they are horizontal. In other c
 
 Therefore,  spot rates are (geometric) averages of one or more forward between zero yields (spot curve). Because these assets have special liquidity characteristics,  these curves may not be representative of the broad Treasury market. Therefore. the par. spot or forward rate curve is typically estimated using a broad universe of coupon Treasury bond prices. Many different "curve fitting" techniques exist,  but a common goal rates. Similarly,  par rates are averages of one or more spot rates; thus,  par curves have the flattest shape of the three curves. In Appendix C,  we discuss further the relationship between spot and forward rate curves.
 
-It is useful to view forward rates as break-even rates. The implied spot rates one year forward $(f_{1, 2},  f_{1, 3},  f_{1, 4},  …)$ are,  by construction,  equal to such future spot rates that would make all government bonds earn the same return over the next year as the (riskless) one-year zero. For example,  the holding-period return of today's two-year zero (whose rate today is s, ) will depend on its selling rate (as a one-year zero) in one year's time. The implied one-year spot rate one year forward ($f_{0, 5}$) is computed as the selling rate that would make the two-year zero's return (the left-hand side of Equation (3)) equal to the one-year spot rate (the right-hand side of Equation (3))®. Formally,  Equation (3) is derived from Equation (2) by setting $m = 1$ and $n = 2$ and rearranging.
+It is useful to view forward rates as break-even rates. The implied spot rates one year forward $(f_{1,  2},   f_{1,  3},   f_{1,  4},   …)$ are,  by construction,  equal to such future spot rates that would make all government bonds earn the same return over the next year as the (riskless) one-year zero. For example,  the holding-period return of today's two-year zero (whose rate today is s,  ) will depend on its selling rate (as a one-year zero) in one year's time. The implied one-year spot rate one year forward ($f_{0,  5}$) is computed as the selling rate that would make the two-year zero's return (the left-hand side of Equation (3)) equal to the one-year spot rate (the right-hand side of Equation (3))®. Formally,  Equation (3) is derived from Equation (2) by setting $m = 1$ and $n = 2$ and rearranging.
 
 Consider an example using numbers from Figure 1,  in which the one-year spot rate (s;) equals 6% and the two-year spot rate ($S_2$) equals 8.08\%.
 
@@ -95,7 +95,7 @@ Consider an example using numbers from Figure 1,  in which the one-year spot rat
 	- If the one-year rate increases,  but by less than 420 basis points,  the capital loss of the two-year zero will not fully offset its initial yield advantage over the one-year zero.
 
 More generally,  if the yield changes implied by the forward rates are subsequently realized,  all government bonds,  regardless of maturity,  earn the same holding-period return. In addition,  all self-financed positions of government bonds (such as long a barbel! versus short a bullet) earn a return of $0\%;$ that is,  they break even. In contrast,  if the yield curve remains unchanged over a year,  each n-year zero earns the
-corresponding one-year forward rate f $_{\mathrm{n-1, n}}.$ This can be seen from Equation 2 when $m=n-l; 1+f _\mathrm{n-1, n}$ equals $(1+s_{n})^{n/(1+s_{n-1})^{n-1}}$,  which is the holding-period return from buying an n-year zero at rate s $_\mathrm{n}$,  and selling it one year later at rate s $_{\mathrm{n-1}}.$ Thus,  the one-year forward rate equals a zero's horizon return for an unchanged yield curve (see Appendix C for details).
+corresponding one-year forward rate f $_{\mathrm{n-1,  n}}.$ This can be seen from Equation 2 when $m=n-l; 1+f _\mathrm{n-1,  n}$ equals $(1+s_{n})^{n/(1+s_{n-1})^{n-1}}$,  which is the holding-period return from buying an n-year zero at rate s $_\mathrm{n}$,  and selling it one year later at rate s $_{\mathrm{n-1}}.$ Thus,  the one-year forward rate equals a zero's horizon return for an unchanged yield curve (see Appendix C for details).
 
 In this section,  we describe some economic forces that influence the term structure of forward rates or,  more generally,  the yield curve shape. The three main influences are the market's rate expectations,  the bond risk premia (expected return differentials across bonds) and the so-called convexity bias. In fact,  these three components fully determine the yield curve; we will show in later reports that the difference between each one-year forward rate and the one-year spot rate is approximately equal to the sum of an expected spot rate change,  a bond risk premium and the convexity bias. We first discuss how each component influences the curve shape,  and then we analyze their combined impact.
 
@@ -193,7 +193,7 @@ Once an investor has identified a sector with abnormally high forward rates
 Above,  forwards are used quite loosely to identify cheap maturity sectors. A more formal way to use forwards is to construct quantitative cheapness indicators for duration-neutral flattening trades,  such as barbell-bullet
 trades. We first introduce some concepts with an example of a market-directional trade.
 
-When the yield curve is upward sloping,  long-term bonds’ yield advantage over the riskless short-term bond provides a cushion against rising yields. In a sense,  duration extensions are"cheap" when the yield curve is very steep and the cushion (positive carry) is large. These trades only lose money if capital losses caused by rising rates offset the initial yield advantage. Moreover,  the longer-term bonds’rolling yield advantages $^{18}$ over the short-term bond are even larger than their yield advantages. The one-year forward rate (f $_\mathrm{n-1, n})$ is,  by construction,  equal to the n-year zero's rolling yield (see Appendix C). Thus,  it is a direct measure of the n-year zero's rolling yield advantage. (Another forward-related measure,  the change in the n-1 year spot rate implied by the forwards ($f_{1,  n}, -s_{n-1}$),  tells how much the yield curve has to shift to offset this advantage and to equate the holding-period returns of the n-year zero and the one-year zero.)
+When the yield curve is upward sloping,  long-term bonds’ yield advantage over the riskless short-term bond provides a cushion against rising yields. In a sense,  duration extensions are"cheap" when the yield curve is very steep and the cushion (positive carry) is large. These trades only lose money if capital losses caused by rising rates offset the initial yield advantage. Moreover,  the longer-term bonds’rolling yield advantages $^{18}$ over the short-term bond are even larger than their yield advantages. The one-year forward rate (f $_\mathrm{n-1,  n})$ is,  by construction,  equal to the n-year zero's rolling yield (see Appendix C). Thus,  it is a direct measure of the n-year zero's rolling yield advantage. (Another forward-related measure,  the change in the n-1 year spot rate implied by the forwards ($f_{1,   n},  -s_{n-1}$),  tells how much the yield curve has to shift to offset this advantage and to equate the holding-period returns of the n-year zero and the one-year zero.)
 
 Because one-period forward rates measure zeros' near-term expected returns,  they can be viewed as indicators of cheap maturity sectors. The use of such cheapness indicators does not require any subjective interest rate view. Instead,  it requires a belief,  motivated by history,  that an unchanged yield curve is a good base case scenario If this is true,  long-term bonds have higher (lower) near-term expected returns than short-term bonds when the forward rate curve is upward sloping (downward sloping). In the long run,  a strategy that adjusts the portfolio duration dynamically based on the curve shape should earn a higher average return than constant-duration strategies
 
@@ -211,12 +211,12 @@ The barbell (of the 30-year bond and three-month bill) over the duration-matched
 - $s_n$: Annualized n-year spot rate; the discount rate of an n-year zero.
 - $s^*_{n-1}$: Annualized n-1 year spot rate next period; superscript * denotes next period's (year's) value.
 - $\Delta s_{n-1}$: Realized change in the n-1 year spot rate between today and next period $(= s^*_{n-1} - s_{n-1})$.
-- $f_{m, n}$: Annualized forward rate between maturities m and n.
-- $f_{n-1, n}$: One-year forward rate between maturities (n-1) and n; also the n-year zero’s rolling yield.
-- $f_{1, n}$: Annualized forward rate between maturities 1 and n; also called the implied forward.
-- $\Delta f_{n-1}$: Implied change in the n-1 year spot rate between today and next period $(= f_{1, n} - s_{n-1})$; also called the break-even yield change (over the next period) implied by the forwards.
-- $\Delta f_{z_n}$: Implied change in the yield of an n-year zero,  a specific bond,  over the next period $(= f_{1, n} - s_n)$.
-- $FSP$: Forward-spot premium $(FSP_n = f_{n-1, n} - s_1)$.
+- $f_{m,  n}$: Annualized forward rate between maturities m and n.
+- $f_{n-1,  n}$: One-year forward rate between maturities (n-1) and n; also the n-year zero’s rolling yield.
+- $f_{1,  n}$: Annualized forward rate between maturities 1 and n; also called the implied forward.
+- $\Delta f_{n-1}$: Implied change in the n-1 year spot rate between today and next period $(= f_{1,  n} - s_{n-1})$; also called the break-even yield change (over the next period) implied by the forwards.
+- $\Delta f_{z_n}$: Implied change in the yield of an n-year zero,  a specific bond,  over the next period $(= f_{1,  n} - s_n)$.
+- $FSP$: Forward-spot premium $(FSP_n = f_{n-1,  n} - s_1)$.
 - $h_n$: Realized holding-period return of an n-year zero over one period (year).
 - Rolling Yield: A bond’s horizon return given a scenario of unchanged yield curve; sum of yield and rolldown return.
 - Bond Risk Premium (BRP): Expected return of a long-term bond over the next period (year) in excess of the riskless one-period bond; for the n-year zero,  $BRP_n = E(h_n - s_1)$.
@@ -239,8 +239,8 @@ These relations are discussed in more detail in the appendix of Market's Rate Ex
 
 The relation is exact if spot rates and forward rates are continuously compounded.
 
-$$\mathrm{f}_{\mathrm{m, n}}\approx\frac{\mathrm{ns}_{\mathrm{n}}-\mathrm{ms}_{\mathrm{m}}}{\mathrm{n}-\mathrm{m}}\tag{8}$$
-For one-year forward rates ($m = n-1$),  Equation (8) can be simplified to $$\rm f_{n-1, n}\approx s_{n}+(n-1)* (\rm s_{n}-s_{n-1})$$
+$$\mathrm{f}_{\mathrm{m,  n}}\approx\frac{\mathrm{ns}_{\mathrm{n}}-\mathrm{ms}_{\mathrm{m}}}{\mathrm{n}-\mathrm{m}}\tag{8}$$
+For one-year forward rates ($m = n-1$),  Equation (8) can be simplified to $$\rm f_{n-1,  n}\approx s_{n}+(n-1)* (\rm s_{n}-s_{n-1})$$
 Equation (9) shows that the forward rate is equal to an n-year zero's one-year horizon return given an unchanged yield curve scenario: a sum of the initial yield and the rolldown return (the zero's duration at horizon
 (n-!) multiplied by the amount the zero rolls down the yield curve as it ages). This horizon return is often called the rolling yield. Thus,  the one-year forward rates proxy for near-term expected returns at different parts of the yield curve if the yield curve is expected to remain unchanged.
 
@@ -261,46 +261,46 @@ P = \frac{C}{1 + y} + \frac{C}{(1 + y)^2} + \cdots + \frac{C + 100}{(1 + y)^n}
 $$
 $$
 P = \frac{C}{1 + s_1} + \frac{C}{(1 + s_2)^2} + \cdots + \frac{C + 100}{(1 + s_n)^n}$$
-where P is the bond price,  C is the coupon rate (in percentage),  y is the annual yield to maturity (expressed as a decimal),  s is the annual spot rate (expressed as a decimal),  and n is the time to maturity (in years).
+where P is the bond price,   C is the coupon rate (in percentage),   y is the annual yield to maturity (expressed as a decimal),   s is the annual spot rate (expressed as a decimal),   and n is the time to maturity (in years).
 
-We only show the computation for the first two years,  which have par rates of 6% and 8%. For the first year,  par,  spot,  and forward rates are equal (6%). Longer spot rates are solved recursively using known values of the par bond's price and cash flows and the previously solved spot rates.
+We only show the computation for the first two years,   which have par rates of 6% and 8%. For the first year,   par,   spot,   and forward rates are equal (6%). Longer spot rates are solved recursively using known values of the par bond's price and cash flows and the previously solved spot rates.
 
-Every par bond's price is 100 (par) by construction; thus,  its yield (the par rate) equals its coupon rate. Because the two-year par bond's market price (100) and cash flows (8 and 108) are known,  as is the one-year spot rate
-(6%),  it is easy to solve for the two-year spot rate as the only unknown in the following equation:
+Every par bond's price is 100 (par) by construction; thus,   its yield (the par rate) equals its coupon rate. Because the two-year par bond's market price (100) and cash flows (8 and 108) are known,   as is the one-year spot rate
+(6%),   it is easy to solve for the two-year spot rate as the only unknown in the following equation:
 
-$$100=\frac{\rm C}{1+\rm s_{1}}+\frac{\rm C}{(1+\rm s_{2})^{2}}=\frac{8}{1.06}+\frac{108}{(1+\rm s_{2})^{2}}\, .\tag{6}$$
-A little manipulation shows that the solution for s> is 8.08%. Equation (6) also can be used to compute par rates when only spot rates are known. If the spot rates are known,  the coupon rate C,  which equals the par rate,  is the only unknown in Equation (6).
+$$100=\frac{\rm C}{1+\rm s_{1}}+\frac{\rm C}{(1+\rm s_{2})^{2}}=\frac{8}{1.06}+\frac{108}{(1+\rm s_{2})^{2}}\,  .\tag{6}$$
+A little manipulation shows that the solution for s> is 8.08%. Equation (6) also can be used to compute par rates when only spot rates are known. If the spot rates are known,   the coupon rate C,   which equals the par rate,   is the only unknown in Equation (6).
 
 The forward rate between one and two years is computed using Equation
 (3) and the known one-year and two-year spot rates.
 
-$$(1+\mathrm{f}_{1, 2})=\frac{(1+\mathrm{s}_{2})^{2}}{1+\mathrm{s}_{1}}=\frac{(1.0808)^{2}}{1.06}=1.1020\tag{7}$$
-The solution for f; is 10.20%. The other spot rates and one-year forward rates (f23,  f3.4,  etc.) in Figure 9 are computed in the same way. These numbers are shown graphically in Figure 1.
+$$(1+\mathrm{f}_{1,  2})=\frac{(1+\mathrm{s}_{2})^{2}}{1+\mathrm{s}_{1}}=\frac{(1.0808)^{2}}{1.06}=1.1020\tag{7}$$
+The solution for f; is 10.20%. The other spot rates and one-year forward rates (f23,   f3.4,   etc.) in Figure 9 are computed in the same way. These numbers are shown graphically in Figure 1.
 
-where s*, .) is the n-1 year spot rate next year. If the yield curve follows a random walk,  the best forecast for s*, .; is (today's) s, 
+where s*,  .) is the n-1 year spot rate next year. If the yield curve follows a random walk,   the best forecast for s*,  .; is (today's) s,  
 
-1. Therefore,  the n-year zero's expected holding period return equals the one-year forward rate in Equation (9). The key question is whether it is more reasonable to assume that the current spot rates are the optimal forecasts of future spot rates than to assume that forwards are the optimal forecasts. We present later empirical evidence which shows that the "random walk" forecast of an unchanged yield curve is more accurate than the forecast implied by the forwards.
+1. Therefore,   the n-year zero's expected holding period return equals the one-year forward rate in Equation (9). The key question is whether it is more reasonable to assume that the current spot rates are the optimal forecasts of future spot rates than to assume that forwards are the optimal forecasts. We present later empirical evidence which shows that the "random walk" forecast of an unchanged yield curve is more accurate than the forecast implied by the forwards.
 
-Equation (9) shows that the (one-year) forward rate curve lies above the spot curve as long as the latter is upward sloping (and the rolldown return is positive). Conversely,  if the spot curve is inverted,  the rolldown return is negative,  and the forward rate curve lies below the spot curve. If the spot curve is first rising and then declining,  the forward rate curve crosses it from above at its peak. Finally,  the forward rate curve can become downward sloping even when the spot curve is upward sloping,  if the spot curve's slope is first steep and then flattens (reducing the rolldown return).
+Equation (9) shows that the (one-year) forward rate curve lies above the spot curve as long as the latter is upward sloping (and the rolldown return is positive). Conversely,   if the spot curve is inverted,   the rolldown return is negative,   and the forward rate curve lies below the spot curve. If the spot curve is first rising and then declining,   the forward rate curve crosses it from above at its peak. Finally,   the forward rate curve can become downward sloping even when the spot curve is upward sloping,   if the spot curve's slope is first steep and then flattens (reducing the rolldown return).
 
 The calculations below illustrate this point and show that the approximation is good - within a few basis points from the correct values
 $$
 
-f_{1, 2} \approx 8.08 + 1 \times (8.08 - 6.00) = 8.08 + 2.08 = 10.16;
+f_{1,  2} \approx 8.08 + 1 \times (8.08 - 6.00) = 8.08 + 2.08 = 10.16;
 
 $$
 $$
 
-f_{2, 3} \approx 9.72 + 2 \times (9.72 - 8.08) = 9.72 + 3.28 = 13.00;
+f_{2,  3} \approx 9.72 + 2 \times (9.72 - 8.08) = 9.72 + 3.28 = 13.00;
 
 $$
 $$
 
-f_{3, 4} \approx 10.86 + 3 \times (10.86 - 9.72) = 10.86 + 3.42 = 14.28;
+f_{3,  4} \approx 10.86 + 3 \times (10.86 - 9.72) = 10.86 + 3.42 = 14.28;
 
 $$
 $$
 
-f_{4, 5} \approx 11.44 + 4 \times (11.44 - 10.86) = 11.44 + 2.32 = 13.76.
+f_{4,  5} \approx 11.44 + 4 \times (11.44 - 10.86) = 11.44 + 2.32 = 13.76.
 
 $$
