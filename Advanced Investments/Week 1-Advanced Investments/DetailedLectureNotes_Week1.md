@@ -1,11 +1,12 @@
 ---
-title: LECTURE 1
+title: DetailedLectureNotes_Week1
 aliases: [LECTURE 1]
 linter-yaml-title-alias: LECTURE 1
 ---
+
 Advanced Investments Stefan Nagel University of Chicago ii ©
 
-# LECTURE 1
+# DetailedLectureNotes_Week1
 
 Investment decisions can be broken down into
 
@@ -14,7 +15,7 @@ Investment decisions can be broken down into
 
 We will spend a good portion of the time in this course on learning how we can assess properties of risk and return of different asset classes. Knowing these risk-return properties,  and their economic drivers,  is a prerequisite for implementing optimal portfolio choice models.
 
-We use Rt to denote returns of an asset in period t. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the t subscript. An N × 1 vector of returns on N assets in period t is denoted with rt = (R1, t,  R2, t,  …,  RN, t)
+We use Rt to denote returns of an asset in period t. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the t subscript. An N × 1 vector of returns on N assets in period t is denoted with rt = (R1,  t,  R2,  t,  …,  RN,  t)
 ′. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
 
 # 1.1 PROBABILITY DISTRIBUTIONS OF RETURNS
@@ -37,7 +38,7 @@ stocks at the end of month t − 1.
 
 Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal probability distribution function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ±15% range are very rare.
 
-![Financial Distress,  Reorganization,  And Organizational Efficiency-2.png](Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%201-Introduction%20to%20Financial%20Markets%20and%20Intermediation/Financial%20Distress, %20Reorganization, %20And%20Organizational%20Efficiency%20(attachments)/Financial%20Distress, %20Reorganization, %20And%20Organizational%20Efficiency-2.png)
+![Financial Distress,  Reorganization,  And Organizational Efficiency-2.png](Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%201-Introduction%20to%20Financial%20Markets%20and%20Intermediation/Financial%20Distress,  %20Reorganization,  %20And%20Organizational%20Efficiency%20(attachments)/Financial%20Distress,  %20Reorganization,  %20And%20Organizational%20Efficiency-2.png)
 
 That said,  if we look more closely,  this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ±15% range are very rare,  they do happen occasionally. Yet according to the normal distribution,  the probability of this happening should be extremely close to zero.
 
@@ -75,7 +76,7 @@ $$(1.2)$$
 
 Given a time-series of returns from t = 1 to t = T,  we can estimate variance as
 
-$$\hat{\sigma}^{2}=\frac{1}{T-1}\sum_{t=1}^{T}(R_{t}-\bar{R})^{2}, \qquad\bar{R}=\frac{1}{T}\sum_{t=1}^{T}R_{t}\tag{1.3}$$
+$$\hat{\sigma}^{2}=\frac{1}{T-1}\sum_{t=1}^{T}(R_{t}-\bar{R})^{2},   \qquad\bar{R}=\frac{1}{T}\sum_{t=1}^{T}R_{t}\tag{1.3}$$
 
 i.e.,  we take all the deviations from the mean return,  square them,  and then average them across all time periods from t = 1 to T.
 
@@ -126,13 +127,13 @@ Consider the following example. Suppose asset A has a price of $0.80 and in the 
 1 2
 (see Figure 1.4a). Asset B also has a price of $0.80 and a low payoff of $0.50 with p =
 1 2
-,  but the higher payoff is split into two: $2.00 with probability p =
+,    but the higher payoff is split into two: $2.00 with probability p =
 1 4 and $1.00 also with p =
 1 4
 (see Figure 1.4b).
 
 Note that both assets have the same expected return E[RA] = E[RB] = 25%. But the risks are different. Asset A's payoffs are symmetric around the expected payoff of
-$1. In contrast,  B's payoff has positive skewness. There is a chance of a positive payoff of $2.00 that is far above the expected payoff.
+$1. In contrast,    B's payoff has positive skewness. There is a chance of a positive payoff of $2.00 that is far above the expected payoff.
 
 What do variance and semi-variance tell us? Variances are
 
@@ -251,7 +252,7 @@ that delivers payoffs in such states of the world.
 
 How exactly the investor's aversion to risk looks like,  e.g.,  which types of risk the investor fears the most,  is determined by the functional form of U(W). We work with a power-utility function
 
-$$U(W)=\frac{W^{1-\gamma}-1}{1-\gamma}, \qquad U^{\prime}(W)=W^{-\gamma}, $$
+$$U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},   \qquad U^{\prime}(W)=W^{-\gamma},   $$
 
 where γ > 0 is the relative risk aversion coefficient. For γ = 1,  it may seem that U(W)
 is undefined,  but in fact the limit for γ → 1 does exist and it is simply the natural logarithm of W.
@@ -269,7 +270,7 @@ $$(1.11)$$
 ′(W) = W−γ(1.11)
 Power utility has has several desirable properties. First,  marginal utility declines with wealth. The parameter γ controls the curvature of U(W) and hence it controls the degree of risk aversion. Examples for γ = 2 and γ = 5 are shown in Figure 1.11.
 
-Second,  portfolio choices based on maximizing E[U(W)] with this function scale plausibly with wealth. If an investor with power utility has $1, 000 in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
+Second,  portfolio choices based on maximizing E[U(W)] with this function scale plausibly with wealth. If an investor with power utility has $1,  000 in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
 
 ![17_image_0.png](17_image_0.png)
 
@@ -311,7 +312,7 @@ Moreover,  if we want to use a utility function to capture the risk attitude of 
 
 Let's now consider a simple portfolio choice problem using CRRA preferences. Suppose the investor wants to choose among two assets: A risk-free asset that offers return Rf and a risky asset that offers IID returns R. If the investor starts with W0 at the beginning of a period and invests a proportion ω into the risky asset,  then the return on their wealth portfolio is
 
-partition is $$R_{w}=(1-\omega)R_{f}+\omega R=R_{f}+\omega(R-R_{f}).\tag{1.15}$$ Below we'll use the rules that $\mathbb{E}[\omega(R-R_{f})]=\omega\, \mathbb{E}[R-R_{f}]$ and $\mathrm{var}(\omega R)=\omega^{2}\, \mathrm{var}(R)$.
+partition is $$R_{w}=(1-\omega)R_{f}+\omega R=R_{f}+\omega(R-R_{f}).\tag{1.15}$$ Below we'll use the rules that $\mathbb{E}[\omega(R-R_{f})]=\omega\,   \mathbb{E}[R-R_{f}]$ and $\mathrm{var}(\omega R)=\omega^{2}\,   \mathrm{var}(R)$.
 If the wealth portfolio earns the overall return Rw,  then the investor's wealth at the end of the period is W = W0(1 + Rw). Therefore,  the investors' objective is to
 
 $$(1.15)$$
@@ -325,7 +326,7 @@ Now note from (1.15) that if we increase ω by one unit,  we're changing the wea
 
 $$(1.17)$$
 
-$$\mathbb{E}[U^{\prime}(W)W_{0}(R-R_{f})]=0, $$
+$$\mathbb{E}[U^{\prime}(W)W_{0}(R-R_{f})]=0,   $$
 ′(W)W0(R − Rf)] = 0,  (1.18)
 or,  after dividing by W0 (which is known at the beginning of the period),
 
@@ -372,7 +373,7 @@ We would now like to solve the first-order condition in 1.19 for ω with CRRA pr
 20 ©
 For this reason,  we will now use an approximation approach. As it turns out,  this approximation will lead us to a solution that trades off mean and variance of returns,  and hence provides foundation for the mean-variance approach to portfolio choice that you encountered in your introductory investments course and that is pervasive in industry practice. We first scale the first-order condition 1.19 to
 
-$$\mathbb{E}\left[{\frac{U^{\prime}(W)}{U^{\prime}(\mathbb{E}[W])}}(R-R_{f})\right]=0, $$
+$$\mathbb{E}\left[{\frac{U^{\prime}(W)}{U^{\prime}(\mathbb{E}[W])}}(R-R_{f})\right]=0,   $$
 $$(1.21)$$
 
 where we divided by U
@@ -393,14 +394,14 @@ But we should keep in mind that it would not be accurate for very big shocks tha
 
 Substituting this approximation into the first-order condition (1.19),  we get
 
-$$\mathbb{E}[\{1-\gamma\omega(R-\mathbb{E}[R])\}\, (R-R_{f})]=0, $$
-$$\mathbb{E}[R-R_{f}]-\gamma\omega\operatorname{var}(R)=0, $$
+$$\mathbb{E}[\{1-\gamma\omega(R-\mathbb{E}[R])\}\,   (R-R_{f})]=0,   $$
+$$\mathbb{E}[R-R_{f}]-\gamma\omega\operatorname{var}(R)=0,   $$
 and hence
 E[R − Rf] − γω var(R) = 0,  (1.25)
 5For those interested in the details: A first-order Taylor approximation of U
 ′(W) around expected
 
-wealth $\mathbb{E}[W]$ yields $$\frac{U^{\prime}(W)}{U^{\prime}(\mathbb{E}[W])}\approx1+\frac{U^{\prime\prime}(\mathbb{E}\, W)}{U^{\prime}(\mathbb{E}[W])}(W-\mathbb{E}[W]).\tag{1.22}$$ With power utility,  $U^{\prime\prime}(\mathbb{E}\, W)/U^{\prime}(\mathbb{E}[W])=-\gamma/\, \mathbb{E}[W]$. Combining with the approximation $W_{0}\approx\mathbb{E}[W]$
+wealth $\mathbb{E}[W]$ yields $$\frac{U^{\prime}(W)}{U^{\prime}(\mathbb{E}[W])}\approx1+\frac{U^{\prime\prime}(\mathbb{E}\,   W)}{U^{\prime}(\mathbb{E}[W])}(W-\mathbb{E}[W]).\tag{1.22}$$ With power utility,  $U^{\prime\prime}(\mathbb{E}\,   W)/U^{\prime}(\mathbb{E}[W])=-\gamma/\,   \mathbb{E}[W]$. Combining with the approximation $W_{0}\approx\mathbb{E}[W]$
 and W − E[W] = W0ω(R − E[R]),  we then get the stated result.
 $$(1.24)$$
 $$(1.25)$$
@@ -445,7 +446,7 @@ $$(1.27)$$
 At an annual horizon,  a plausible value for E[R − Rf],  based on historical data,  is 5%;
 a plausible value for var(R) is 0.03. Plugging in these values,  we can solve for γ ≈ 2.92.
 
-$\text{(C)Stefan Nagel}\, \, 2024$.
+$\text{(C)Stefan Nagel}\,   \,   2024$.
 23 ©
 
 ![25_image_0.png](25_image_0.png)
@@ -515,13 +516,13 @@ The assumption of IID noise is actually not a bad approximation. As we will disc
 
 If we make the additional assumption that the noise shocks are normally distributed,
 
-$$\varepsilon_{t}\sim{\mathcal{N}}(0, \sigma^{2})$$
+$$\varepsilon_{t}\sim{\mathcal{N}}(0,   \sigma^{2})$$
 $$(1.32)$$
 $$(1.33)$$
 
 and we have no other knowledge about the location of µ than what we saw in the data set of returns from t = 1 to T,  then
 
-$$\mu-\hat{\mu}\sim{\mathcal{N}}(0, \mathrm{s.e.}(\hat{\mu})^{2})$$
+$$\mu-\hat{\mu}\sim{\mathcal{N}}(0,   \mathrm{s.e.}(\hat{\mu})^{2})$$
 
 This means that our knowledge about the location of µ is now summarized by ˆµ and normal distribution around ˆµ with standard deviation equal to the standard error s.e*.(ˆµ*)0.\1 The higher the standard error,  the more uncertain we are about the location of µ.
 
@@ -579,6 +580,6 @@ The reason is that if one,  say asset A,  has a higher SR than the other,  asset
 
 Once we have picked the asset,  we can then lever up or down to achieve the optimal risky asset share
 
-$$\omega\approx\frac{\mathbb{E}[R-R_{f}]}{\gamma\, \mathrm{var}(R)}=\frac{1}{\gamma\sigma}\times SR.\tag{1.36}$$
+$$\omega\approx\frac{\mathbb{E}[R-R_{f}]}{\gamma\,   \mathrm{var}(R)}=\frac{1}{\gamma\sigma}\times SR.\tag{1.36}$$
 
 Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an asset returns. We'll get to this important point in the next session.

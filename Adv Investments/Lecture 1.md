@@ -1,6 +1,7 @@
 ---
 title: Lecture 1
 ---
+
 # Lecture 1
 ## Advanced Investments Lecture 1
 
@@ -13,7 +14,7 @@ In this course,  we focus mostly on macro decisions. The asset allocation decisi
 
 We will spend a good portion of the time in this course on learning how we can assess properties of risk and return of different asset classes. Knowing these risk-return properties,  and their economic drivers,  is a prerequisite for implementing optimal portfolio choice models.
 
-We use $R_{t}$ to denote returns of an asset in period $t$. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the $t$ subscript. An $N \times 1$ vector of returns on $N$ assets in period $t$ is denoted with $\boldsymbol{r}_{t}=\left(R_{1,  t},  R_{2,  t},  \ldots,  R_{N,  t}\right)^{\prime}$. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
+We use $R_{t}$ to denote returns of an asset in period $t$. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the $t$ subscript. An $N \times 1$ vector of returns on $N$ assets in period $t$ is denoted with $\boldsymbol{r}_{t}=\left(R_{1,   t},   R_{2,   t},   \ldots,   R_{N,   t}\right)^{\prime}$. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
 
 ### 1.1 Probability distributions of returns
 
@@ -25,7 +26,7 @@ $$
 
 \begin{equation*}
 
-R_{t} \sim \mathcal{N}\left(\mu,  \sigma^{2}\right) \tag{1.1}
+R_{t} \sim \mathcal{N}\left(\mu,   \sigma^{2}\right) \tag{1.1}
 
 \end{equation*}
 
@@ -35,13 +36,13 @@ The empirical counterpart to a probability distribution is the empirical distrib
 
 Let's focus on the stock market index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the stock market index with $R$. To look at empirical distribution of returns,  I use monthly returns data from 1927 to 2022 on a value-weighted index of the entire U.S. stock market from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' market capitalization at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate market capitalization of all U.S. stocks at the end of month $t-1$.
 
-Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal probability distribution function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\%$ range are very rare.
+Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal probability distribution function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\\%$ range are very rare.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
 
 Figure 1.1: Empirical distribution of monthly U.S. stock market returns 1927-2022 with normal distribution fit
 
-That said,  if we look more closely,  this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ${} \pm 15 \%$ range are very rare,  they do happen occasionally. Yet according to the normal distribution,  the probability of this happening should be extremely close to zero.
+That said,  if we look more closely,  this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ${} \pm 15 \\%$ range are very rare,  they do happen occasionally. Yet according to the normal distribution,  the probability of this happening should be extremely close to zero.
 
 Another question that we will defer for a couple of weeks concerns changes in the probability distribution over time. For example,  is the distribution of future stock returns the same in an economic boom period and in times when we are in a deep recession? Probably not. This is then a question of how the conditional distribution of returns looks like. For example,  following a big market crash (i.e.,  conditional on very low recent returns) does the probability distribution of returns look the same as after a boom period in the stock market (i.e.,  conditional on very high recent returns)?
 
@@ -49,7 +50,7 @@ But one thing at a a time. For now,  we are going to stick to the assumption tha
 
 The IID assumption is a useful approximation to get us started,  but this is not to say that this is entirely the right perspective. We will later spend a considerable amount of time precisely on the empirical evidence that returns are not IID. But for now,  to discuss basic properties of risk and return,  it makes sense conceptually to leave the issue of dynamically changing probability distributions for the next step of our analysis.
 
-Since we are dealing with IID returns,  we reduce notational clutter by dropping the time-subscripts and just write $\mathbb{E}[R],  \operatorname{var}(R)$,  and so on.
+Since we are dealing with IID returns,  we reduce notational clutter by dropping the time-subscripts and just write $\mathbb{E}[R],   \operatorname{var}(R)$,  and so on.
 
 ### 1.2 What is risk?
 
@@ -81,7 +82,7 @@ $$
 
 \begin{equation*}
 
-\hat{\sigma}^{2}=\frac{1}{T-1} \sum_{t=1}^{T}\left(R_{t}-\bar{R}\right)^{2},  \quad \bar{R}=\frac{1}{T} \sum_{t=1}^{T} R_{t} \tag{1.3}
+\hat{\sigma}^{2}=\frac{1}{T-1} \sum_{t=1}^{T}\left(R_{t}-\bar{R}\right)^{2},   \quad \bar{R}=\frac{1}{T} \sum_{t=1}^{T} R_{t} \tag{1.3}
 
 \end{equation*}
 
@@ -93,7 +94,7 @@ i.e.,  we take all the deviations from the mean return,  square them,  and then 
 
 Figure 1.2: Return distributions with different variances and same expected return
 
-Figure 1.2 shows three probability distributions. All with the same expected value ${} \mathbb{E}[R]=0.5 \%$ (which is about a typical average monthly return on a broad stock market index),  and three different variances. Using variance to measure risk,  asset A is the preferred asset,  as it has the lowest variance.
+Figure 1.2 shows three probability distributions. All with the same expected value ${} \mathbb{E}[R]=0.5 \\%$ (which is about a typical average monthly return on a broad stock market index),  and three different variances. Using variance to measure risk,  asset A is the preferred asset,  as it has the lowest variance.
 
 There are cases where we know that variance is a perfect measure of risk. This is when the distribution of returns is fully described by mean and variance. This is the case for the normal distribution.
 
@@ -131,17 +132,17 @@ Note that for a symmetric distribution,  such as a normal distribution,  semi-va
 
 Figure 1.3: Return distributions with same variances and same expected return
 
-An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both probability distributions of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 %$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
+An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both probability distributions of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
 
-In contrast,  semi-variances differ. Asset (A) has $\operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than $50 %$ of the probability mass,  i.e.,  less than $50 %$ of the area under the probability distribution function,  is accounted for by returns lower than the expected return of $0.5 %$. This second feature dominates and leads to a lower semi-variance than for asset (A).
+In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the probability distribution function,  is accounted for by returns lower than the expected return of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
 
 That asset (B) is better for a risk averse investor is not obvious at all. For example,  an investor who does not worry too much about small losses but is very averse to big losses might prefer asset (A).
 
 Generally,  there are certainly reasons for variance not being a perfect measure of risk,  but the idea that semi-variance is typically a better criterion is a fallacy.
 
-Consider the following example. Suppose asset $A$ has a price of $$ 0.80$ and in the following period delivers payoffs $$ 1.50$ or $$ 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $$ 0.80$ and a low payoff of $$ 0.50$ with $p=\frac{1}{2}$,  but the higher payoff is split into two: $$ 2.00$ with probability $p=\frac{1}{4}$ and $$ 1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
+Consider the following example. Suppose asset $A$ has a price of $$ 0.80$ and in the following period delivers payoffs $$ 1.50$ or $$ 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $$ 0.80$ and a low payoff of $$ 0.50$ with $p=\frac{1}{2}$,   but the higher payoff is split into two: $$ 2.00$ with probability $p=\frac{1}{4}$ and $$ 1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
 
-Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 %$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $$ 1$. In contrast,  $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $$ 2.00$ that is far above the expected payoff.
+Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 \%$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $$ 1$. In contrast,   $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $$ 2.00$ that is far above the expected payoff.
 
 What do variance and semi-variance tell us? Variances are
 
@@ -181,7 +182,7 @@ But this would be an odd choice. Any risk averse person,  no matter how weak the
 
 Figure 1.4: Evaluating upside risk
 
-Now focus on the second stage gamble. We invest $$ 1.50$ and get payoffs with an expected value of $\frac{1}{2} $ 2.00+\frac{1}{2} $ 1.00=$ 1.50$,  i.e.,  an expected return of $0 %$. Thus,  we get no compensation for the risk that we are taking in this second stage of the gamble. Any risk averse person would prefer to avoid this second stage gamble if an alternative gamble is available that delivers the same expected payoff,  but for sure,  without uncertainty. How can we avoid this second stage gamble? Easy. Take gamble $A$ instead of gamble $B$. Therefore,  any risk averse person would prefer asset $A$ over asset $B$.
+Now focus on the second stage gamble. We invest $$ 1.50$ and get payoffs with an expected value of $\frac{1}{2} $ 2.00+\frac{1}{2} $ 1.00=$ 1.50$,  i.e.,  an expected return of $0 \%$. Thus,  we get no compensation for the risk that we are taking in this second stage of the gamble. Any risk averse person would prefer to avoid this second stage gamble if an alternative gamble is available that delivers the same expected payoff,  but for sure,  without uncertainty. How can we avoid this second stage gamble? Easy. Take gamble $A$ instead of gamble $B$. Therefore,  any risk averse person would prefer asset $A$ over asset $B$.
 
 Focusing on semi-variance would mislead us by ignoring uncertainty on the upside in gamble $B$. It makes a difference to us whether there is uncertainty on the upside. Holding the expected return conditional on being on the upside fixed,  knowing for sure what you get conditional on being on the upside is better than being uncertain about how much upside you will get.
 
@@ -189,9 +190,9 @@ The broader point here is that the idea that we should not care about uncertaint
 
 This does not mean that variance is always a good measure of risk. Later in this course,  we will also encounter investment strategies that produce highly skewed return distributions for which variance is,  indeed,  a poor measure of risk. Depending on the investor's preferences,  a measure that gives more weight to downside risks than variance does may well be appropriate. For now,  we'll just keep in mind that some of the oftenmentioned arguments against variance as a measure of risk are not well founded.
 
-Another common downside-risk measure is Value-at-Risk. Value-at-Risk (VaR) is a number for the loss that won't be exceeded with $95 %$ or sometimes $99 %$ confidence. Here we focus on the $99 %$ version. Losses bigger than the VaR should only arise,  on average,  $1 %$ of the time. Figure 1.5 illustrates this for the distribution of monthly U.S. stock market returns from Figure 1.1 earlier. The estimated VaR in this case is $-14.17 %$. This means that in $1 %$ of all months in the sample monthly losses exceeded $-14.17 %$.
+Another common downside-risk measure is Value-at-Risk. Value-at-Risk (VaR) is a number for the loss that won't be exceeded with $95 \%$ or sometimes $99 \%$ confidence. Here we focus on the $99 \%$ version. Losses bigger than the VaR should only arise,  on average,  $1 \%$ of the time. Figure 1.5 illustrates this for the distribution of monthly U.S. stock market returns from Figure 1.1 earlier. The estimated VaR in this case is $-14.17 \%$. This means that in $1 \%$ of all months in the sample monthly losses exceeded $-14.17 \%$.
 
-For comparison,  I also added lines that show the mean and the mean minus 2.326 times the standard deviation. If the distribution of stock returns was exactly normal,  then the VaR would be equal to the mean minus 2.326 times the standard deviation,  which is $-11.54 %$. This a smaller loss than the VaR we estimated,  but not much smaller. So in terms of the VaR,  normality is not a bad approximation in this case.
+For comparison,  I also added lines that show the mean and the mean minus 2.326 times the standard deviation. If the distribution of stock returns was exactly normal,  then the VaR would be equal to the mean minus 2.326 times the standard deviation,  which is $-11.54 \%$. This a smaller loss than the VaR we estimated,  but not much smaller. So in terms of the VaR,  normality is not a bad approximation in this case.
 
 Another indication that normality is not a bad approximation here,  the semi-variance is almost identical to the one-half the variance of these returns (and hence $\sqrt{2}$ times the square root of the semi-variance is almost identical to the standard deviation). So I did not plot a semi-variance measure.
 
@@ -201,21 +202,21 @@ Figure 1.5: Estimated Value-at-Risk based on empirical distribution of monthly U
 
 An obvious shortcoming of the VaR measure is that it does not take into account how big the losses are that exceed the VaR. It only tells us about the probability that we will see losses bigger than the VaR,  but not the magnitude.
 
-One measure that fixes this is the Expected Shortfall. It tells us the expected value of the losses that exceed the VaR,  i.e. $\mathbb{E}[R \mid R<V a R]$. For the monthly stock returns in Figure 1.5,  the expected shortfall is $-19.64 %$. To estimate it,  I took all the monthly stock return observations that are lower than the VaR. I averaged them to get the estimated of the expected shortfall.
+One measure that fixes this is the Expected Shortfall. It tells us the expected value of the losses that exceed the VaR,  i.e. $\mathbb{E}[R \mid R<V a R]$. For the monthly stock returns in Figure 1.5,  the expected shortfall is $-19.64 \%$. To estimate it,  I took all the monthly stock return observations that are lower than the VaR. I averaged them to get the estimated of the expected shortfall.
 
 Semi-variance,  VaR,  and expected shortfall measures can be useful as an additional risk metric if losses beyond a certain threshold are of particular relevance. For example,  if we want to find a portfolio strategy subject to the constraint that losses (or probability of losses) do not exceed a certain threshold. Such thresholds sometimes also have regulatory relevance (e.g.,  in bank or insurance regulation). But even these measures struggle with capturing the risk of extreme market crashes.
 
 ### 1.2.1 Crash risk
 
-As we saw above,  for monthly stock returns normality doesn't seem to be a bad approximation for returns on a broad stock market index. As a note of caution though: if one looks farther out into the left tail,  beyond the $99 %$ VaR,  the normal distribution no longer provides a good approximation of the distribution. By assuming a normal distribution,  we would underestimate the frequency and severity of occasional stock market crashes.
+As we saw above,  for monthly stock returns normality doesn't seem to be a bad approximation for returns on a broad stock market index. As a note of caution though: if one looks farther out into the left tail,  beyond the $99 \%$ VaR,  the normal distribution no longer provides a good approximation of the distribution. By assuming a normal distribution,  we would underestimate the frequency and severity of occasional stock market crashes.
 
 We can see this best in daily data. Figure 1.6a plots the empirical distribution of daily returns on the same U.S. stock market index that provided the monthly returns earlier in Figure 1.5,  overlaid with a best-fitting normal distribution. From this plot the deviations from normality seem minor.
 
-However,  we are interested in tail behavior,  so we need to zoom into the tails to see what's going on there. This is done in Figure 1.6b. The 99% VaR for these daily returns is $-3.12 %$. If we look at losses that exceed this threshold,  their empirical probability is far higher than the probability implied by a normal distribution. For losses exceeding $-5 %$,  the normal distribution would imply probabilities that are essentially zero,  for all practical purposes. But several crashes of this magnitude happened in the past one hundred years.
+However,  we are interested in tail behavior,  so we need to zoom into the tails to see what's going on there. This is done in Figure 1.6b. The 99% VaR for these daily returns is $-3.12 \%$. If we look at losses that exceed this threshold,  their empirical probability is far higher than the probability implied by a normal distribution. For losses exceeding $-5 \%$,  the normal distribution would imply probabilities that are essentially zero,  for all practical purposes. But several crashes of this magnitude happened in the past one hundred years.
 
-The biggest loss in Figure 1.6b at the very left happened on October 19,  1987,  a day that came to be known as Black Monday. The CRSP value-weighted index that we are working with here fell by $17.13 %$ on that day. The S&P500 index,  which focuses on the largest firms in the U.S. stock market fell by about $20 %$. Figure 1.7 shows the price chart of the S&P500 index around Black Monday. This was (and still is) the biggest daily drop in (U.S.) history!
+The biggest loss in Figure 1.6b at the very left happened on October 19,  1987,  a day that came to be known as Black Monday. The CRSP value-weighted index that we are working with here fell by $17.13 \%$ on that day. The S&P500 index,  which focuses on the largest firms in the U.S. stock market fell by about $20 \%$. Figure 1.7 shows the price chart of the S&P500 index around Black Monday. This was (and still is) the biggest daily drop in (U.S.) history!
 
-If daily stock returns were normally distributed,  a drop by $20 %$ in a single day should happen,  on average,  less than once in $10^{88}$ days. For comparison,  the age of the universe is estimated to be less than 20 billion years,  which is less than $10^{13}$ days! So it's safe to say that the normal distribution severely underestimates the possibility of large stock market crashes.
+If daily stock returns were normally distributed,  a drop by $20 \%$ in a single day should happen,  on average,  less than once in $10^{88}$ days. For comparison,  the age of the universe is estimated to be less than 20 billion years,  which is less than $10^{13}$ days! So it's safe to say that the normal distribution severely underestimates the possibility of large stock market crashes.
 
 That the stock market is exposed to such crash risk is useful to keep in mind. Many standard quantitative models built into asset allocation software rely heavily on variances and covariances as measures of risk and hence they do not fully account for the presence of this crash risk (because it's mathematically difficult to do so). For this reason,  it may make sense to use simulation methods to check the extent to which the return on a target portfolio is exposed to crash risk and whether this level of crash risk is acceptable,
 
@@ -253,7 +254,7 @@ $$
 
 \begin{equation*}
 
-U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},  \quad U^{\prime}(W)=W^{-\gamma} \tag{1.9}
+U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},   \quad U^{\prime}(W)=W^{-\gamma} \tag{1.9}
 
 \end{equation*}
 
@@ -285,13 +286,13 @@ $$
 
 Power utility has has several desirable properties. First,  marginal utility declines with wealth. The parameter $\gamma$ controls the curvature of $U(W)$ and hence it controls the degree of risk aversion. Examples for $\gamma=2$ and $\gamma=5$ are shown in Figure 1.11.
 
-Second,  portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has $$ 1, 000$ in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
+Second,  portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has $$ 1,  000$ in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
 
 [^0]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 
 Figure 1.8: Power utility and marginal utility
 
-then an investor with $$ 1 \mathrm{~m}$ of wealth and the same $\gamma$ would also put half of it into risky assets and half into the risk-free asset. Thus,  a power-utility investor's exposure to risky bets,  measured as the proportion of wealth invested in risky assets,  does not change with the wealth level. Another way of saying this is that relative risk aversion is constant. We therefore refer to power utility also as constant relative risk aversion (CRRA) preferences. ${ }^{2}$
+then an investor with $1 \mathrm{~m}$ of wealth and the same $\gamma$ would also put half of it into risky assets and half into the risk-free asset. Thus,  a power-utility investor's exposure to risky bets,  measured as the proportion of wealth invested in risky assets,  does not change with the wealth level. Another way of saying this is that relative risk aversion is constant. We therefore refer to power utility also as constant relative risk aversion (CRRA) preferences. ${ }^{2}$
 
 CRRA may not be entirely empirically realistic,  but it's quite reasonable. Certainly
 
@@ -303,7 +304,7 @@ it is much more reasonable than a utility function that implies that the dollar 
 
 Figure 1.9 shows some data on this from the 2022 version of the Survey of Consumer Finances conducted by the Federal Reserve Board. I grouped all survey respondents into 20 groups based on their total level of financial assets (stocks,  bonds,  including retirement accounts,  bank deposits,  etc.). The x-axis shows the average log wealth of respondents in each group,  i.e.,  the wealthiest households are in the right-most group. The y-axis shows the average equity share,  i.e.,  the proportion of financial assets invested in stocks (directly held and via mutual funds,  including retirement accounts). I use only data from survey respondents who have at least some investment in stocks. ${ }^{3}$
 
-There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 %$ to $60 %$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on
+There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on
 
 [^2]average,  $$ 4 \mathrm{~K}$ in wealth; households in the highest group have $$ 90 \mathrm{~m}$ on average.
 
@@ -403,7 +404,7 @@ Figure 1.10 illustrates this with a power utility example $(\gamma=5)$. The blue
 
 Figure 1.10: Two-state example: Marginal benefit and cost of higher risky asset share (power utility with $\gamma=5$ )
 
-risk aversion and the associated concavity of utility. The yellow line shows the marginal cost. As we shift more into the risky asset,  and as we are getting poorer in the state in which the risky asset has losses,  the marginal cost of wealth reductions in the bad state are getting bigger. This is again a consequence of risk aversion and the associated concavity of utility. The red line shows the combined consequence in terms of expected marginal benefits and costs. We reach the optimum,  where expected marginal benefits and costs exactly balance,  at a risky asset share slightly below $50 %$.
+risk aversion and the associated concavity of utility. The yellow line shows the marginal cost. As we shift more into the risky asset,  and as we are getting poorer in the state in which the risky asset has losses,  the marginal cost of wealth reductions in the bad state are getting bigger. This is again a consequence of risk aversion and the associated concavity of utility. The red line shows the combined consequence in terms of expected marginal benefits and costs. We reach the optimum,  where expected marginal benefits and costs exactly balance,  at a risky asset share slightly below $50 \%$.
 
 If the risky asset's return in the good state was higher,  then the marginal benefit would be higher and the optimum where marginal cost and benefit balance in expectation would be at a higher risky asset share. The same would be true if the loss of the risky asset in the bad state was smaller.
 
@@ -463,7 +464,7 @@ $$
 
 [^4]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-024.jpg?height=980&width=1186&top_left_y=296&top_left_x=426)
 
-Figure 1.11: Actual marginal utility and first-order approximation (power utility with $\gamma=5,  W_{0}=1 ; \omega=0.5$ ). Risky asset return on $x$-axis shown in excess of $\mathbb{E}[R]$
+Figure 1.11: Actual marginal utility and first-order approximation (power utility with $\gamma=5,   W_{0}=1 ; \omega=0.5$ ). Risky asset return on $x$-axis shown in excess of $\mathbb{E}[R]$
 
 which we can solve for the optimal risky asset share
 
@@ -487,13 +488,13 @@ of marginal utility may substantially overstate the risks. This may be relevant 
 
 Taking this into account,  variance would have to be supplemented by skewness,  or some other measures that capture asymmetry in outliers. But variance would still be an important chunk of the risk.
 
-The longer the horizon over which we measure returns,  the bigger the deviations of ending wealth from the wealth level around which we are approximating marginal utility. Moreover,  at long horizons returns basically have to be skewed because they can't be less than $-100 %$,  while the upside is unlimited. So approximation errors are likely to grow with the return measurement horizon. But we can avoid large approximating errors due to long horizons by using means and variances measured over short horizons such as monthly rather than multi-year periods (and,  correspondingly,  rebalancing the portfolio more frequently back to the optimal portfolio share).
+The longer the horizon over which we measure returns,  the bigger the deviations of ending wealth from the wealth level around which we are approximating marginal utility. Moreover,  at long horizons returns basically have to be skewed because they can't be less than $-100 \%$,  while the upside is unlimited. So approximation errors are likely to grow with the return measurement horizon. But we can avoid large approximating errors due to long horizons by using means and variances measured over short horizons such as monthly rather than multi-year periods (and,  correspondingly,  rebalancing the portfolio more frequently back to the optimal portfolio share).
 
 ### 1.5 Calibrating risk aversion
 
 Risk aversion determines which distribution of portfolio returns we want. But what is a plausible value for $\gamma$ ? How much does a typical investor really care about risk?
 
-One way of getting some rough idea about likely plausible magnitudes for risk aversion is to look at the portfolio of the "average" investor (with "average" we really mean wealth-weighted average,  but to reduce clutter,  we'll just say "average"). How does the average investor's portfolio look like? Let's do a rough back-of-the-envelope calculation where we treat all bonds,  government and corporate,  as risk-free asset and let's treat stocks as the risky asset class. We ignore other assets. Then we compute the average investor's equity share as the total market value of equity securities divided by the sum of outstanding equity and debt securities held by U.S. domestic investors. The Financial Accounts of the United States tells us that this share is $57 %$ at the end of 2022. Figure 1.12 shows the post-WWII history of this equity share.
+One way of getting some rough idea about likely plausible magnitudes for risk aversion is to look at the portfolio of the "average" investor (with "average" we really mean wealth-weighted average,  but to reduce clutter,  we'll just say "average"). How does the average investor's portfolio look like? Let's do a rough back-of-the-envelope calculation where we treat all bonds,  government and corporate,  as risk-free asset and let's treat stocks as the risky asset class. We ignore other assets. Then we compute the average investor's equity share as the total market value of equity securities divided by the sum of outstanding equity and debt securities held by U.S. domestic investors. The Financial Accounts of the United States tells us that this share is $57 \%$ at the end of 2022. Figure 1.12 shows the post-WWII history of this equity share.
 
 So to explain the average investor's asset allocation at the end of 2022 with our formula (1.26),  we need it to yield
 
@@ -507,7 +508,7 @@ $$
 
 $$
 
-At an annual horizon,  a plausible value for $\mathbb{E}\left[R-R_{f}\right]$,  based on historical data,  is $5 %$; a plausible value for $\operatorname{var}(R)$ is 0.03 . Plugging in these values,  we can solve for $\gamma \approx 2.92$.
+At an annual horizon,  a plausible value for $\mathbb{E}\left[R-R_{f}\right]$,  based on historical data,  is $5 \%$; a plausible value for $\operatorname{var}(R)$ is 0.03 . Plugging in these values,  we can solve for $\gamma \approx 2.92$.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-026.jpg?height=947&width=1199&top_left_y=291&top_left_x=425)
 
@@ -519,7 +520,7 @@ This tells us that relative risk aversion in the range of around 2 to 3 is a pla
 
 When we try to figure out the best choices for our own portfolio,  it's also useful to keep an eye on what this implies for what the rest of the market,  i.e.,  other investors must be doing. In other words,  it's useful to consider how our own choices fit into the bigger scheme of things in terms of market equilibrium.
 
-Consider the data we just discussed that the average investor in the U.S. seems to have an equity share of roughly $60 %$. Now suppose according to our beliefs about expected returns and risk,  and considering our own risk aversion,  we come to the conclusion that we want to hold $80 %$ percent in equities. But for us to hold more in equities than the average investor,  someone else must be willing to hold less than the average investor.
+Consider the data we just discussed that the average investor in the U.S. seems to have an equity share of roughly $60 \%$. Now suppose according to our beliefs about expected returns and risk,  and considering our own risk aversion,  we come to the conclusion that we want to hold $80 \%$ percent in equities. But for us to hold more in equities than the average investor,  someone else must be willing to hold less than the average investor.
 
 Along the same lines,  if we decide to increase our equity share (for example,  because
 
@@ -529,7 +530,7 @@ This equilibrium thinking leads to a number of important insights:
 
 Price can change without (much) buying or selling: For example,  what happens if the average investor wants to get more exposure to equities and hold a portfolio with a higher equity share? Again,  in the short-run at least,  the supply of bonds and stocks is fixed. So investors' desire for a higher equity share cannot be satisfied by giving them a greater number of shares. Instead,  the price must adjust. If investors want to hold more shares of stocks than the total supply available to the market,  stock prices will go up (and possibly bond prices go down). This has two effects. First,  a rise in the price with expectations of future prices and fundamentals unchanged lowers the expected return of equities. This makes equities less attractive and lowers investors' desired equity share. At the same time,  the rise in the price raises the aggregate equity share at market prices. Both of these effects contribute to getting investors' desired equity share to equal the aggregate equity share at market prices. If the price rise is big enough,  desired portfolio weights and market portfolio become equal,  supply equals demand and the market clears and is in equilibrium.
 
-If we aim to hold a risky asset share that differs from the market's aggregate equity share at current prices,  we are implicitly expressing the view that we are different from the average investor,  either in terms of beliefs about risk and return $\left(\mathbb{E}\left[R-R_{f}\right]\right.$ and $\left.\operatorname{var}(R)\right)$ or risk aversion $(\gamma)$. For example,  if the market's aggregate equity share is $60 %$,  but we hold an equity share of $80 %$,  we are implicitly taking a stand that we are less risk averse than the typical investor or more optimistic about equity risk and return than the average investor.
+If we aim to hold a risky asset share that differs from the market's aggregate equity share at current prices,  we are implicitly expressing the view that we are different from the average investor,  either in terms of beliefs about risk and return $\left(\mathbb{E}\left[R-R_{f}\right]\right.$ and $\left.\operatorname{var}(R)\right)$ or risk aversion $(\gamma)$. For example,  if the market's aggregate equity share is $60 \%$,  but we hold an equity share of $80 \%$,  we are implicitly taking a stand that we are less risk averse than the typical investor or more optimistic about equity risk and return than the average investor.
 
 Similarly,  if we change our share differently from how the market's aggregate equity share changes,  we are implicitly expressing the view that our beliefs about risk and return,  or our risk aversion,  have changed differently from the average investor's.
 
@@ -601,7 +602,7 @@ $$
 
 \begin{equation*}
 
-\varepsilon_{t} \sim \mathcal{N}\left(0,  \sigma^{2}\right) \tag{1.32}
+\varepsilon_{t} \sim \mathcal{N}\left(0,   \sigma^{2}\right) \tag{1.32}
 
 \end{equation*}
 
@@ -613,13 +614,13 @@ $$
 
 \begin{equation*}
 
-\mu-\hat{\mu} \sim \mathcal{N}\left(0,  \text { s.e. }(\hat{\mu})^{2}\right) \tag{1.33}
+\mu-\hat{\mu} \sim \mathcal{N}\left(0,   \text { s.e. }(\hat{\mu})^{2}\right) \tag{1.33}
 
 \end{equation*}
 
 $$
 
-This means that our knowledge about the location of $\mu$ is now summarized by $\hat{\mu}$ and normal distribution around $\hat{\mu}$ with standard deviation equal to the standard error s.e. $(\hat{\mu}) .^{7}$ The higher the standard error,  the more uncertain we are about the location of $\mu$. There is a $95 %$ chance that the true $\mu$ lies within $\hat{\mu} \pm 1.96 \times$ s.e. $(\hat{\mu})$,  or approximately,  $\hat{\mu} \pm 2 \times$ s.e. $(\hat{\mu})$.
+This means that our knowledge about the location of $\mu$ is now summarized by $\hat{\mu}$ and normal distribution around $\hat{\mu}$ with standard deviation equal to the standard error s.e. $(\hat{\mu}) .^{7}$ The higher the standard error,  the more uncertain we are about the location of $\mu$. There is a $95 \%$ chance that the true $\mu$ lies within $\hat{\mu} \pm 1.96 \times$ s.e. $(\hat{\mu})$,  or approximately,  $\hat{\mu} \pm 2 \times$ s.e. $(\hat{\mu})$.
 
 [^5]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-030.jpg?height=987&width=1201&top_left_y=290&top_left_x=424)
 
@@ -639,9 +640,9 @@ $$
 
 $$
 
-Let's put some numbers of this to understand what sort of magnitudes of standard errors we will typically face in an investments application. Let's take the return on the aggregate stock market (e.g.,  an ETF that invests in a value-weighted broad market index). The standard deviation of annual returns is about $\sigma=0.20$ (i.e.,  20%). So with 10 years of data,  we have a standard error,  s.e. $(\hat{\mu})=0.20 / \sqrt{10} \approx 0.063$. This is huge! So if our estimate of the mean annual return is,  say,  $\hat{\mu}=8 %$ (a plausible number) then,  with $95 %$ probability,  the true $\mu$ would be located within $8 % \pm 2 \times 6.3 %$. In other words,  we basically have little idea where the true $\mu$ is! It could be positive $20 %$ per year,  or even negative. Even with hundred years of data,  the standard error is still substantial:
+Let's put some numbers of this to understand what sort of magnitudes of standard errors we will typically face in an investments application. Let's take the return on the aggregate stock market (e.g.,  an ETF that invests in a value-weighted broad market index). The standard deviation of annual returns is about $\sigma=0.20$ (i.e.,  20%). So with 10 years of data,  we have a standard error,  s.e. $(\hat{\mu})=0.20 / \sqrt{10} \approx 0.063$. This is huge! So if our estimate of the mean annual return is,  say,  $\hat{\mu}=8 \%$ (a plausible number) then,  with $95 \%$ probability,  the true $\mu$ would be located within $8 % \pm 2 \times 6.3 \%$. In other words,  we basically have little idea where the true $\mu$ is! It could be positive $20 \%$ per year,  or even negative. Even with hundred years of data,  the standard error is still substantial:
 
-s.e. $(\hat{\mu})=0.20 / \sqrt{100} \approx 0.02$. So our $95 %$ interval in this case extends $\pm 4 %$,  which no longer includes negative values but still means that the true $\mu$ likely could lie in a wide range.
+s.e. $(\hat{\mu})=0.20 / \sqrt{100} \approx 0.02$. So our $95 \%$ interval in this case extends $\pm 4 \%$,  which no longer includes negative values but still means that the true $\mu$ likely could lie in a wide range.
 
 Of course,  once we use such a long data set to estimate expected returns,  we might also wonder whether data from so long ago is still informative about the expected return that can be earned on the stock market going forward. Perhaps the true $\mu$ has changed over time. After all,  the economy,  they types of firms on the stock market,  who participates in stock market investing,  etc. is all quite different from a century ago. This is a fundamental tradeoff we face: If we use more recent data for estimation,  we can be more confident that the estimates are actually still relevant if $\mu$ slowly changes over time. If we use data that extends further back in time,  we get more statistically more precise estimates under the assumption that $\mu$ is constant over time.
 
@@ -661,17 +662,12 @@ When returns are not IID,  things are more complicated. But we'll get to this la
 
 Table 1.1: Annualized risk and return estimates for various asset classes 1980-2021
 
-|   | Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold |
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-| $\hat{m u}-r_{f}$ | 0.079 | 0.060 | 0.102 | 0.091 | 0.030 | 0.041 | 0.037 | 0.074 | 0.007 |
-
-| $\hat{\sigma}$ | 0.157 | 0.172 | 0.177 | 0.209 | 0.064 | 0.087 | 0.068 | 0.170 | 0.175 |
-
-| SR | 0.503 | 0.348 | 0.580 | 0.434 | 0.467 | 0.470 | 0.536 | 0.437 | 0.038 |
-
-| s.e. $(\hat{\mu})$ | 0.024 | 0.026 | 0.027 | 0.032 | 0.010 | 0.013 | 0.010 | 0.026 | 0.027 |
+|                    | Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold  |
+| ------------------ | ------ | -------- | ----- | ----- | ------- | ------- | ------- | ----- | ----- |
+| $\hat{m u}-r_{f}$  | 0.079  | 0.060    | 0.102 | 0.091 | 0.030   | 0.041   | 0.037   | 0.074 | 0.007 |
+| $\hat{\sigma}$     | 0.157  | 0.172    | 0.177 | 0.209 | 0.064   | 0.087   | 0.068   | 0.170 | 0.175 |
+| SR                 | 0.503  | 0.348    | 0.580 | 0.434 | 0.467   | 0.470   | 0.536   | 0.437 | 0.038 |
+| s.e. $(\hat{\mu})$ | 0.024  | 0.026    | 0.027 | 0.032 | 0.010   | 0.013   | 0.010   | 0.026 | 0.027 ||
 
 Table 1.1 shows annualized estimates of mean returns in excess of the average T-bill return and risk measures for various asset classes over the period 1980-2022. Stocks:
 
