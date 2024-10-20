@@ -282,12 +282,11 @@ So by observing TIPS prices, we can directly observe real yields! Given $P_{10, 
   
 Figure 8.6 shows the real yields extracted from 5- and 10-year TIPS. While real yields were between 1 and 2 percent prior to the Great Financial Crisis (GFC) in 2008/09, real yields after the GFC spent extended periods of time in negative territory. It is unusual for nominal yields to be negative since investors could also hold money as zero-interest cash instead of bonds. ${ }^{6}$ But there is nothing necessarily unusual about real yields turning negative if the inflation rate is above zero. A zero-interest deposit account or holding paper money would also have a negative real return in this case.
   
-The figure also shows that the 10-year real yield tends to be above the 5 -year real yield. This suggests that the real yield curve may be upward-sloping on average, like the nominal yield curve. Evidence from the U.K. where a longer history of real yields is available than in the U.S. indicates that the real yield curve may be flatter than the nominal yield curve. How big the wedge is between the slopes may depend on whether we are in an inflationary environment or not. If inflation risk is high, long-term nominal
+The figure also shows that the 10-year real yield tends to be above the 5 -year real yield. This suggests that the real yield curve may be upward-sloping on average, like the nominal yield curve. Evidence from the U.K. where a longer history of real yields is available than in the U.S. indicates that the real yield curve may be flatter than the nominal yield curve. How big the wedge is between the slopes may depend on whether we are in an inflationary environment or not. If inflation risk is high, long-term nominal bonds are risky, as our analysis showed earlier, and so it makes sense that investors would ask for an additional risk premium, in the form of additional yield, for long-term nominal bonds compared with inflation-protected bonds that are not exposed to inflation risk.
   
 [^40]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-282.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
   
 Figure 8.7: Breakeven inflation rates extracted from TIPS prices
-bonds are risky, as our analysis showed earlier, and so it makes sense that investors would ask for an additional risk premium, in the form of additional yield, for long-term nominal bonds compared with inflation-protected bonds that are not exposed to inflation risk.
   
 The spike of real yields in Figure 8.6 in the fall of 2008 highlights a potential problem with TIPS. TIPS are not as liquid as regular Treasury bonds. In the fall of 2008, some big investors liquidated large positions in TIPS that lead to depressed prices of TIPS and the spike in real yields that we see in the figure. This was a time when the economy entered a deep recession and the Fed had rapidly lowered short-term interest rates. It would be very unusual for real interest rates to go up in such an environment. But these real yields from TIPS at the time were distorted due to the price pressure of these liquidations in an illiquid market.
   
@@ -405,7 +404,7 @@ With multiple risky assets, estimation of covariances could be done analogously 
   
 For a U.S. investor, a rise in the U.S. inflation rate leads to a loss of purchasing power, unless the assets are hedged against U.S. inflation risk. But if the portfolio includes foreign assets, what does foreign inflation do to the real value of the U.S. investor's portfolio? To be concrete, suppose that the U.S. investor owns a foreign government bond with nominally fixed cash flows in foreign currency. The investor's purchasing power depends on the nominal dollar value of the bond deflated by the U.S. consumer price index. Hence, foreign inflation does not directly reduce the purchasing power that the U.S. investor gets from this bond. But foreign inflation is likely to have an effect on the exchange rate that reduces the value of the foreign bond in terms of U.S. dollars, and thereby affects the investor's purchasing power indirectly.
   
-Let $S_{t}$ be the exchange rate in terms of units of foreign currency that must be paid to get $$ 1$. A theory of exchange rates called purchasing-power parity (PPP) says that exchange rates should reflect the different levels of purchasing power that currencies have. The idea is that in an ideal world in which trade is frictionless, the prices of goods and services should be the same across countries once they are expressed in the same currency,
+Let $S_{t}$ be the exchange rate in terms of units of foreign currency that must be paid to get 1$. A theory of exchange rates called purchasing-power parity (PPP) says that exchange rates should reflect the different levels of purchasing power that currencies have. The idea is that in an ideal world in which trade is frictionless, the prices of goods and services should be the same across countries once they are expressed in the same currency,
   
 $$
 \begin{equation*}
@@ -413,7 +412,7 @@ S_{t}=\frac{C P I_{\text {foreign }}}{C P I_{U S}} \tag{8.27}
 \end{equation*}
 $$
   
-so if prices in local currency are higher in the foreign country, one should have to pay more than one unit of foreign currency to obtain $$ 1$ so that the exchange rate undoes the differences in price levels. In terms of exchange rate changes over time, we then get
+so if prices in local currency are higher in the foreign country, one should have to pay more than one unit of foreign currency to obtain 1$ so that the exchange rate undoes the differences in price levels. In terms of exchange rate changes over time, we then get
   
 $$
 \begin{equation*}
@@ -429,7 +428,7 @@ Now, the empirical evidence does not suggest that (8.28) is a great description 
   
 Figure 8.10: Inflation and exchange rate to USD in Turkey
   
-A recent example is the hyperinflation that started in Turkey in 2022. Figure 8.10 plots the consumer price index in Turkey since 2017. Prices more than quadrupled during the seven years shown in the plot, a rise by about $350 \%$, which means the local purchasing power of the Turkish lira fell by about $78 \%$. The same plot also shows the exchange rate, expressed in units of Turkish lira per $$ 1$. As the purchasing power of the lira fell, the exchange rate depreciated strongly from around $1 / 4=0.25$ dollars per lira down to $1 / 27=0.037$ dollars per lira, which is a lira depreciation of about $85 \%$, which is roughly in the same ballpark as the loss of purchasing power of the lira, and hence roughly in line with (8.28).
+A recent example is the hyperinflation that started in Turkey in 2022. Figure 8.10 plots the consumer price index in Turkey since 2017. Prices more than quadrupled during the seven years shown in the plot, a rise by about $350 \%$, which means the local purchasing power of the Turkish lira fell by about $78 \%$. The same plot also shows the exchange rate, expressed in units of Turkish lira per 1$. As the purchasing power of the lira fell, the exchange rate depreciated strongly from around $1 / 4=0.25$ dollars per lira down to $1 / 27=0.037$ dollars per lira, which is a lira depreciation of about $85 \%$, which is roughly in the same ballpark as the loss of purchasing power of the lira, and hence roughly in line with (8.28).
   
 The consequences of the Turkish inflation for an U.S. investor holding Turkish bonds is that the dollar value of these bonds has fallen by a large percentage. So foreign inflation risk is highly relevant for the U.S. investor, but it manifests indirectly through exchange rate movements.
   
@@ -471,7 +470,7 @@ From a central banker's viewpoint, the fact that we see these experience-depende
 [^42]| Table G3 | Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index (in millions of gold marks) |  |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  | Revenue |  |  |  | Expenditures |  |  |  |  |  |
-|  | Taxes | Sundries | Deficit Covered by Loan Transactions | Total | Repay- <br> ment <br> of <br> Floating <br> Debt | Interest <br> on <br> Floating <br> Debt | Subsi- <br> dies <br> to <br> Rail- <br> roads | Execution of Versailles Treaty | Sundries | Total |
+|  | Taxes | Sundries | Deficit Covered by Loan Transactions | Total | Repayment  of Floating Debt | Interest <br> on Floating Debt | Subsidies to  Railroads | Execution of Versailles Treaty | Sundries | Total |
 | 1920-21 | 4,090.8 | 132.9 | 7,041.9 | 11,265.6 | 821.7 | - | - | — | - | 11,265.6 |
 | 1921-22 | 5,235.7 | 100.5 | 6,627.4 | 11,963.6 | 1,039.5 | 811.6 | 1,114.4 | 5,110.6 | 5,738.4 | 11,963.4 |
 | 1922-23 | 3,529.1 | 51.4 | 6,384.5 | 9,965.0 | 81.0 | 344.4 | 1,685.5 | 3,600.0 | 4,254.1 | 9,965.0 |

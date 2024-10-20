@@ -1,10 +1,12 @@
 ---
 title: TIPS
-aliases: [TIPS]
+aliases:
+  - TIPS
 linter-yaml-title-alias: TIPS
+alias: TIPS
 ---
 
-# TIPS
+# TIPS Derivations
 ## INDEX RATIO
 $$
 \text{Index Ratio}(t) = \max\left(\frac{\text{Reference CPI}(t)}{\text{CPI}(t_{\text{issuance}})}, 1.0\right)
@@ -80,8 +82,8 @@ $$
 $$B_{z}^{TIPS}(t)=e^{-r_{real}(t,T)*(T-t)} \times 100 \times \frac{\text{Idx}(t)}{\text{Idx}(0)}$$
  
 - Dollar Present Value of a Coupon Paying TIPS $B_{c}^{TIPS}(t,T)$ is:
-$$B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left[\frac{c + 100}{2} \sum_{i=1}^{n} Z^{\text{real}}(t, T_i) + 100 \times Z^{\text{real}}(t,T_{{}n})\right]$$
-$$B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{real}(t,T_{i})*(T-t)} + 100 \times e^{-r_{real}(t,T)*(T-t)} \right]$$
+$$B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left$\frac{c + 100}{2} \sum_{i=1}^{n} Z^{\text{real}}(t, T_i) + 100 \times Z^{\text{real}}(t,T_{{}n})\right$$$
+$$B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{real}(t,T_{i})*(T-t)} + 100 \times e^{-r_{real}(t,T)*(T-t)} \right$$$
 
 # REAL AND NOMINAL RATES UNDER PERFECT FORESIGHT
 Consider a nominal zero coupon bond at $t=0$:
@@ -136,32 +138,32 @@ To solve for the duration of $B_{c}^{TIPS}(t,T)$ in terms of inflation $\pi$, we
 Given the bond price equation:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$
 
 $$
 We can follow these steps to derive the duration in terms of $\pi$:
 1. **Differentiate $B_{c}^{TIPS}(t,T)$ with respect to $\pi$**:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = \frac{\partial}{\partial \pi} \left\{ e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right] \right\}
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = \frac{\partial}{\partial \pi} \left\{ e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$ \right\}
 
 $$
 2. **Apply the product rule**:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \frac{\partial}{\partial \pi} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] \right\} + \left(\frac{\partial}{\partial \pi} e^{\pi t} \right) \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \frac{\partial}{\partial \pi} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ \right\} + \left(\frac{\partial}{\partial \pi} e^{\pi t} \right) \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$
 
 $$
 3. **Differentiate the exponential terms**:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right\} + t e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right\} + t e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$
 
 $$
 4. **Factor out common terms**:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right] \right\}
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$ \right\}
 
 $$
 5. **Normalize by the bond price**:
@@ -173,30 +175,30 @@ $$
 Substitute the expression for $B_{c}^{TIPS}(t,T)$:
 $$
 
-D_{\pi}^{TIPS} = \frac{e^{\pi t} \left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right] \right\}}{e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]}
+D_{\pi}^{TIPS} = \frac{e^{\pi t} \left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$ \right\}}{e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$}
 
 $$
 Simplify the expression:
 $$
 
-D_{\pi}^{TIPS} = \frac{\left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]}{\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}}
+D_{\pi}^{TIPS} = \frac{\left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$}{\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}}
 
 $$
 This is the duration of $B_{c}^{TIPS}(t,T)$ in terms of inflation $\pi$.
 
-To find the convexity of \( B_{c}^{TIPS}(t,T) \) in terms of inflation \( \pi \), we need to compute the second derivative of the bond price with respect to \( \pi \) and then normalize it by the bond price itself. Convexity measures the sensitivity of the duration to changes in the interest rate or inflation.
+To find the convexity of $B_{c}^{TIPS}(t,T)$ in terms of inflation $\pi$, we need to compute the second derivative of the bond price with respect to $\pi$ and then normalize it by the bond price itself. Convexity measures the sensitivity of the duration to changes in the interest rate or inflation.
 
 ### STEPS TO FIND CONVEXITY
 1. **First Derivative with respect to $\pi$**:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right] \right\}
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial \pi} = e^{\pi t} \left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$ \right\}
 
 $$
 2. **Second Derivative with respect to $\pi$**:
 $$
 
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial \pi^2} = e^{\pi t} \left\{ \frac{\partial}{\partial \pi} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] \right\}
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial \pi^2} = e^{\pi t} \left\{ \frac{\partial}{\partial \pi} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ \right\}
 
 $$
 Applying the product rule and differentiating each term inside the braces:
@@ -209,7 +211,7 @@ $$
 Factor out $e^{\pi t}$:
 $$
 
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial \pi^2} = e^{\pi t} \left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + 2t \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t^2 \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] \right\}
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial \pi^2} = e^{\pi t} \left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + 2t \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t^2 \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ \right\}
 
 $$
 4. **Normalize by the Bond Price**:
@@ -221,13 +223,13 @@ $$
 Substitute the expression for $B_{c}^{TIPS}(t,T)$:
 $$
 
-C_{\pi}^{TIPS} = \frac{e^{\pi t} \left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + 2t \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t^2 \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] \right\}}{e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]}
+C_{\pi}^{TIPS} = \frac{e^{\pi t} \left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + 2t \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t^2 \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ \right\}}{e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$}
 
 $$
 Simplify the expression:
 $$
 
-C_{\pi}^{TIPS} = \frac{\left\{ \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + 2t \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] + t^2 \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right] \right\}}{\left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right]}
+C_{\pi}^{TIPS} = \frac{\left\{ \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t)^2 e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + 2t \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ + t^2 \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)} \right$ \right\}}{\left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i)) (T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_n - t)}\right$}
 
 $$
 ### NOTABLE FEATURES OF CONVEXITY WITH RESPECT TO INFLATION
@@ -314,7 +316,7 @@ For TIPS:
 - The price $B_{c}^{TIPS}(t,T)$ in terms of nominal rates is:
   $$
 
-  B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right]
+  B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right$
 
  $$
 - The duration $D^{TIPS}$ with respect to nominal rates is:
@@ -349,7 +351,7 @@ $$
 
 k = \frac{
 \left(\frac{\sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 2 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}}{\sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 2 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}} \right)
-\left(e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right] \right)
+\left(e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right$ \right)
 }{
 \left(\frac{\sum_{i=1}^{n} T_i e^{-r_{\text{nominal}} T_i} + T_n e^{-r_{\text{nominal}} T_n}}{\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}} T_i} + 100 e^{-r_{\text{nominal}} T_n}} \right)
 \left(\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}} T_i} + 100 e^{-r_{\text{nominal}} T_n} \right)
@@ -361,7 +363,7 @@ $$
 
 k = \frac{
 \left(\sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 2 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)} \right)
-e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right]
+e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right$
 }{
 \left(\sum_{i=1}^{n} T_i e^{-r_{\text{nominal}} T_i} + T_n e^{-r_{\text{nominal}} T_n} \right)
 }
@@ -372,7 +374,7 @@ $$
 
 k = \frac{
 \left(\sum_{i=1}^{n} (T_i - t) e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 2 (T_n - t) e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)} \right)
-\left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right]
+\left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_i))(T_i - t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T))(T_n - t)}\right$
 }{
 \left(\sum_{i=1}^{n} T_i e^{-r_{\text{nominal}} T_i} + T_n e^{-r_{\text{nominal}} T_n} \right)
 \left(\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}} T_i} + 100 e^{-r_{\text{nominal}} T_n} \right)
@@ -381,9 +383,6 @@ k = \frac{
 $$
 This formula allows you to calculate the hedge ratio required to hedge the interest rate risk of a TIPS security using a nominal Treasury security.
 
-
-
----
 
 To rewrite the given equation in terms of nominal rates using the given relationships, let's proceed step-by-step.
 Given:
@@ -415,7 +414,7 @@ Given:
 Starting with the original equation:
 $$
 
-B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{real}}(t,T_{i}) \times (T_{i}-t)} + 100 \times e^{-r_{\text{real}}(t,T) \times (T-t)} \right]
+B_{c}^{TIPS}(t,T)=\frac{\text{Idx}(t)}{\text{Idx}(0)} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{real}}(t,T_{i}) \times (T_{i}-t)} + 100 \times e^{-r_{\text{real}}(t,T) \times (T-t)} \right$
 
 $$
 
@@ -444,42 +443,42 @@ $$
 Substitute these into the original equation:
 $$
 
-B_{c}^{TIPS}(t,T) = \frac{\text{Idx}(t)}{\text{Idx}(0)} \left[\frac{c + 100}{2} \sum_{i=1}^{n} \left(e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)}\right) + 100 \times \left(e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)}\right) \right]
+B_{c}^{TIPS}(t,T) = \frac{\text{Idx}(t)}{\text{Idx}(0)} \left$\frac{c + 100}{2} \sum_{i=1}^{n} \left(e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)}\right) + 100 \times \left(e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)}\right) \right$
 
 $$
 
 Next, simplify the terms inside the summation and the last term:
 $$
 
-B_{c}^{TIPS}(t,T) = \frac{\text{Idx}(t)}{\text{Idx}(0)} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)} \right]
+B_{c}^{TIPS}(t,T) = \frac{\text{Idx}(t)}{\text{Idx}(0)} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)} \right$
 
 $$
 
 Notice that $\frac{\text{Idx}(t)}{\text{Idx}(0)}$ can be written as $e^{\pi \times t} \times e^{-\pi \times 0} = e^{\pi \times t}$:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)} \right]
+B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t)} \times e^{\pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t)} \times e^{\pi \times (T-t)} \right$
 
 $$
 
 Finally, combine the exponents:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t) + \pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t) + \pi \times (T-t)} \right]
+B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{-r_{\text{nominal}}(t,T_{i}) \times (T_{i}-t) + \pi \times (T_{i}-t)} + 100 \times e^{-r_{\text{nominal}}(t,T) \times (T-t) + \pi \times (T-t)} \right$
 
 $$
 
 Since $e^{a} \times e^{b} = e^{a+b}$, we get:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) \times (T_{i}-t)} + 100 \times e^{(\pi - r_{\text{nominal}}(t,T)) \times (T-t)} \right]
+B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) \times (T_{i}-t)} + 100 \times e^{(\pi - r_{\text{nominal}}(t,T)) \times (T-t)} \right$
 
 $$
 
 Therefore, the equation in terms of nominal rates is:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) \times (T_{i}-t)} + 100 \times e^{(\pi - r_{\text{nominal}}(t,T)) \times (T-t)} \right]
+B_{c}^{TIPS}(t,T) = e^{\pi \times t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) \times (T_{i}-t)} + 100 \times e^{(\pi - r_{\text{nominal}}(t,T)) \times (T-t)} \right$
 
 $$
 
@@ -489,7 +488,7 @@ $$
 To find the first derivative of
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$
 
 $$
 with respect to $r_{\text{nominal}}(t,T)$, we will follow these steps:
@@ -498,7 +497,7 @@ with respect to $r_{\text{nominal}}(t,T)$, we will follow these steps:
 First, let's rewrite the equation for clarity:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$
 
 $$
 Now, let's take the derivative with respect to $r_{\text{nominal}}(t,T)$:
@@ -519,7 +518,7 @@ $$
 So, the derivative of the summation term is:
 $$
 
-\frac{\partial}{\partial r_{\text{nominal}}(t,T)} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} = \sum_{i=1}^{n} \left[- (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right]
+\frac{\partial}{\partial r_{\text{nominal}}(t,T)} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} = \sum_{i=1}^{n} \left$- (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right$
 
 $$
 #### 2. DIFFERENTIATE THE FINAL TERM
@@ -539,19 +538,19 @@ $$
 Combining these results, we get:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} \left[- (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right] + 100 \left[- (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right] \right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} \left$- (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right$ + 100 \left$- (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$ \right$
 
 $$
 Simplify by factoring out the negative sign and combining terms:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$
 
 $$
 Therefore, the first derivative of $B_{c}^{TIPS}(t,T)$ with respect to $r_{\text{nominal}}(t,T)$ is:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$
 
 $$
 
@@ -560,7 +559,7 @@ To find the second derivative of $B_{c}^{TIPS}(t,T)$ with respect to $r_{\text{n
 The first derivative is:
 $$
 
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$
 
 $$
 To find the second derivative, we need to differentiate this expression with respect to $r_{\text{nominal}}(t,T)$ again. 
@@ -593,16 +592,16 @@ $$
 Combining these results, we get:
 $$
 
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = - e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} \left[- (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right] + 100 \left[- (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right] \right]$$
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = - e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} \left$- (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} \right$ + 100 \left$- (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$ \right$$$
 
 Simplify by factoring out the negative sign and combining terms:
 
 $$
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left[ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]$$
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left$ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$$$
 
 Therefore, the second derivative of $B_{c}^{TIPS}(t,T)$ with respect to $r_{\text{nominal}}(t,T)$ is:
 $$
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]$$
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$$$
 ---
 
 To find the duration of $B_{c}^{TIPS}(t,T)$ in terms of $r_{\text{nominal}}(t,T)$, we need to calculate the negative of the first derivative of the bond price with respect to the nominal interest rate, divided by the bond price itself:
@@ -614,18 +613,18 @@ $$
 Using the first derivative of $B_{c}^{TIPS}(t,T)$ with respect to $r_{\text{nominal}}(t,T)$:
 
 $$
-\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left[ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]
+\frac{\partial B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)} = - e^{\pi t} \left$ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$
 $$
 
 The bond price $B_{c}^{TIPS}(t,T)$ is given by:
 
 $$
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]$$
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$$$
 
 Now, we can plug these into the duration formula:
 $$
 
-\text{Duration} = -\frac{1}{e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]} \cdot \left(e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right] \right)
+\text{Duration} = -\frac{1}{e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$} \cdot \left(e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t) e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$ \right)
 
 $$
 Simplify the expression by canceling out the $e^{\pi t}$ terms:
@@ -654,17 +653,17 @@ $$
 We already found the second derivative:
 
 $$
-\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left[ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]$$
+\frac{\partial^2 B_{c}^{TIPS}(t,T)}{\partial r_{\text{nominal}}(t,T)^2} = e^{\pi t} \left$ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$$$
 
 The bond price $B_{c}^{TIPS}(t,T)$ is given by:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]$$
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$$$
 
 To find the convexity, we need to divide the second derivative by the bond price:
 
 $$
-\text{Convexity} = \frac{e^{\pi t} \left[ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right]}{e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right]}$$
+\text{Convexity} = \frac{e^{\pi t} \left$ \frac{c + 100}{2} \sum_{i=1}^{n} (T_{i} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 (T_{n} - t)^2 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)} \right$}{e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T)) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T)) (T_{n}-t)}\right$}$$
 
 Simplify by canceling out the $e^{\pi t}$ terms:
 $$
@@ -691,7 +690,7 @@ $$
 To find the first derivative of $B_{c}^{TIPS}(t,T)$ with respect to $r_{\text{nominal}}(t,T_{i})$, we will use the equation derived previously:
 $$
 
-B_{c}^{TIPS}(t,T) = e^{\pi t} \left[\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T_{{n}})) (T_{{n}}-t)}\right]
+B_{c}^{TIPS}(t,T) = e^{\pi t} \left$\frac{c + 100}{2} \sum_{i=1}^{n} e^{(\pi - r_{\text{nominal}}(t,T_{i})) (T_{i}-t)} + 100 e^{(\pi - r_{\text{nominal}}(t,T_{{n}})) (T_{{n}}-t)}\right$
 
 $$
 Since we need the derivative with respect to $r_{\text{nominal}}(t,T_{i})$, we focus on the term involving $r_{\text{nominal}}(t,T_{i})$:
@@ -919,7 +918,7 @@ The price of TIPS is given by:
 
 $$
 
-P_{c}^{TIPS}(0, T_{n}) = \frac{I_{dx}(t)}{I_{dx}(0)} \times \left[\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right]
+P_{c}^{TIPS}(0, T_{n}) = \frac{I_{dx}(t)}{I_{dx}(0)} \times \left$\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right$
 
 $$
 ### DERIVATIVE OF THE PRICE OF TIPS WITH RESPECT TO $R_{N}$
@@ -928,16 +927,16 @@ The derivative is:
 
 $$
 
-\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} = \frac{I_{dx}(t)}{I_{dx}(0)} \times \left[\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right]
+\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} = \frac{I_{dx}(t)}{I_{dx}(0)} \times \left$\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right$
 
 $$
-### MULTIPLICATION OF THE DERIVATIVE BY $\FRAC{ 1}{P_{C}^{TIPS}(0, T_N)}$
+### MULTIPLICATION OF THE DERIVATIVE BY $\frac{ 1}{P_{C}^{TIPS}(0, T_N)}$
 
 To find the result, we multiply the derivative by the reciprocal of the original price:
 
 $$
 
-\frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{I_{dx}(0)}{I_{dx}(t)} \times \frac{1}{\left[\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right]}
+\frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{I_{dx}(0)}{I_{dx}(t)} \times \frac{1}{\left$\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right$}
 
 $$
 
@@ -945,7 +944,7 @@ Therefore,
 
 $$
 
-\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} \times \frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{\frac{I_{dx}(t)}{I_{dx}(0)} \left[\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right]}{\frac{I_{dx}(t)}{I_{dx}(0)} \left[\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right]}
+\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} \times \frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{\frac{I_{dx}(t)}{I_{dx}(0)} \left$\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right$}{\frac{I_{dx}(t)}{I_{dx}(0)} \left$\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right$}
 
 $$
 ### SIMPLIFYING THE EXPRESSION
@@ -954,7 +953,7 @@ The terms $\frac{I_{dx}(t)}{I_{dx}(0)}$ cancel out, giving us:
 
 $$
 
-\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} \times \frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{\left[\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right]}{\left[\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right]}
+\frac{dP_{c}^{TIPS}(0, T_{n})}{dr_{n}} \times \frac{1}{P_{c}^{TIPS}(0, T_{n})} = \frac{\left$\frac{c \times 100}{2} \sum_{i=1}^{n} \left(-T_{i} e^{-r_{n} T_{i} + \pi T_{i}} \right) - 100 T_{n} e^{-r_{n} T_{n} + \pi T_{n}} \right$}{\left$\frac{c \times 100}{2} \sum_{i=1}^{n} e^{-r_{n} T_{i} + \pi T_{i}} + 100 e^{-r_{n} T_{n} + \pi T_{n}} \right$}
 
 $$
 
@@ -1188,8 +1187,8 @@ Let's proceed with the calculations.
                                                                                                                            
 
   The relationship between nominal interest rate ((r)), real interest rate ((r_{real})), and inflation rate ((i))
-  can typically be approximated by the Fisher Equation, which is given by: [1 + r = (1 + r_{real})(1 + i)] This
-  equation can be rearranged to solve for the real interest rate: [r_{real} = \frac{1 + r}{1 + i} - 1]
+  can typically be approximated by the Fisher Equation, which is given by: $1 + r = (1 + r_{real})(1 + i)$ This
+  equation can be rearranged to solve for the real interest rate: $r_{real} = \frac{1 + r}{1 + i} - 1$
 
                                              Importance in Financial Decisions                                             
                                                                                                                            
@@ -1272,9 +1271,9 @@ Let's proceed with the calculations.
 	                                            Expected Return Calculation                                                
                                                                                                                            
 
-  For inflation-linked bonds, the expected return can be modeled as: [\text{Expected Return}{\text{ILB}} = \text{Real
-  Yield} + \text{Inflation Rate}] For nominal bonds, the expected return is simply the nominal yield: [\text{Expected
-  Return}{\text{NB}} = \text{Nominal Yield}]
+  For inflation-linked bonds, the expected return can be modeled as: $\text{Expected Return}{\text{ILB}} = \text{Real
+  Yield} + \text{Inflation Rate}$ For nominal bonds, the expected return is simply the nominal yield: $\text{Expected
+  Return}{\text{NB}} = \text{Nominal Yield}$
 
                                                 Risk and Return Trade-offs                                                 
                                                                                                                            
@@ -1398,21 +1397,21 @@ Let's proceed with the calculations.
                                                                                                                            
 
    1 Express Real Bond Price:
-	  - Using continuous compounding for TIPS, the price of TIPS (Z_{real}(0, T)) can be modelled as: [Z_{real}(0, T)
-		= 100 \times \exp(-r_{real} \times T)]
+	  - Using continuous compounding for TIPS, the price of TIPS (Z_{real}(0, T)) can be modelled as: $Z_{real}(0, T)
+		= 100 \times \exp(-r_{real} \times T)$
    2 Connect Real and Nominal Bond Prices:
 	  - From the formula, the nominal zero-coupon bond price (Z(0, T)) related to the real rate and break-even
-		inflation: [Z(0, T) = Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)]
+		inflation: $Z(0, T) = Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)$
 	  - This represents how TIPS are priced in the market accounting for expected inflation.
    3 Duration Calculation:
-	  - Duration formula under continuous compounding for nominal bonds: [D = -\frac{1}{P} \frac{dP}{dr}]
-	  - For TIPS, incorporating the relationship with nominal rates: [D_{TIPS} = -\frac{1}{Z(0, T)} \times \frac{d}{dr}
-		\left[Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)\right]]
+	  - Duration formula under continuous compounding for nominal bonds: $D = -\frac{1}{P} \frac{dP}{dr}$
+	  - For TIPS, incorporating the relationship with nominal rates: $D_{TIPS} = -\frac{1}{Z(0, T)} \times \frac{d}{dr}
+		\left$Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)\right$$
 	  - Simplify using the product rule in differentiation.
    4 Convexity Calculation:
-	  - Convexity formula under continuous compounding: [C = \frac{1}{P} \frac{d^2P}{dr^2}]
-	  - Applying it to TIPS using the simplified price formula: [C_{TIPS} = \frac{1}{Z(0, T)} \times \frac{d^2}{dr^2}
-		\left[Z_{aligned}(0, T)\right]]
+	  - Convexity formula under continuous compounding: $C = \frac{1}{P} \frac{d^2P}{dr^2}$
+	  - Applying it to TIPS using the simplified price formula: $C_{TIPS} = \frac{1}{Z(0, T)} \times \frac{d^2}{dr^2}
+		\left$Z_{aligned}(0, T)\right$$
 
                                                     Steps to Implement                                                     
                                                                                                                            
@@ -1463,41 +1462,40 @@ Let's proceed with the calculations.
                                                 1. Real Bond Price Formula:                                                
                                                                                                                            
 
-  For TIPS, the real bond price using continuous compounding over time to maturity (T) is: [Z_{real}(0, T) = 100
-  \times \exp(-r_{real} \times T)]
+  For TIPS, the real bond price using continuous compounding over time to maturity (T) is: $Z_{real}(0, T) = 100
+  \times \exp(-r_{real} \times T)$
 
                                            2. Connection to Nominal Bond Prices:                                           
                                                                                                                            
 
   Given (Z_{real}(0, T)) and the break-even rate (\pi(0, T)), the nominal bond price (Z(0, T)) can be expressed as:
-  [Z(0, T) = Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)] [Z(0, T) = 100 \times \exp(-r_{real} \times T) \times
-  \exp(-\pi(0, T) \times T)] [Z(0, T) = 100 \times \exp(-(r_{real} + \pi(0, T)) \times T)]
+  $Z(0, T) = Z_{real}(0, T) \times \exp(-\pi(0, T) \times T)$ $Z(0, T) = 100 \times \exp(-r_{real} \times T) \times
+  \exp(-\pi(0, T) \times T)$ $Z(0, T) = 100 \times \exp(-(r_{real} + \pi(0, T)) \times T)$
 
   Here, (r_{nominal} = r_{real} + \pi(0, T)) represents the nominal rate after adjustment for inflation expectation.
 
                                                    3. Deriving Duration:                                                   
                                                                                                                            
 
-  Duration (D) measures the price sensitivity to infinitesimal changes in the interest rate: [D = -\frac{1}{Z(0, T)}
-  \cdot \frac{dZ(0, T)}{dr_{nominal}}]
+  Duration (D) measures the price sensitivity to infinitesimal changes in the interest rate: $D = -\frac{1}{Z(0, T)}
+  \cdot \frac{dZ(0, T)}{dr_{nominal}}$
 
-  Using the price formula given: [\frac{dZ(0, T)}{dr_{nominal}} = \frac{d}{dr_{nominal}} \left[100 \times
-  \exp(-(r_{real} + \pi(0, T)) \times T) \right]] [= -T \cdot 100 \times \exp(-(r_{real} + \pi(0, T)) \times T)] [=
-  -T \cdot Z(0, T)]
+  Using the price formula given: $$\frac{dZ(0, T)}{dr_{nominal}} = \frac{d}{dr_{nominal}} \left 100 \times
+  \exp(-(r_{real} + \pi(0, T)) \times T) \right = -T \cdot 100 \times \exp(-(r_{real} + \pi(0, T)) \times T) =-T \cdot Z(0, T)$$
 
-  So, duration given by: [D = - \frac{1}{Z(0, T)} \times (-T \cdot Z(0, T))] [D = T]
+  So, duration given by: $D = - \frac{1}{Z(0, T)} \times (-T \cdot Z(0, T))$ $D = T$
 
                                                   4. Deriving Convexity:                                                   
                                                                                                                            
 
-  Convexity (C) measures the sensitivity of the duration of a bond to changes in interest rates: [C = \frac{1}{Z(0,
-  T)} \cdot \frac{d^2Z(0, T)}{dr_{nominal}^2}]
+  Convexity (C) measures the sensitivity of the duration of a bond to changes in interest rates: $C = \frac{1}{Z(0,
+  T)} \cdot \frac{d^2Z(0, T)}{dr_{nominal}^2}$
 
-  Using the earlier derivative: [\frac{d^2Z(0, T)}{dr_{nominal}^2} = \frac{d}{dr_{nominal}} \left[-T \cdot 100 \times
-  \exp(-(r_{real} + \pi(0, T)) \times T) \right]] [= T^2 \cdot 100 \times \exp(-(r_{real} + \pi(0, T)) \times T)] [=
-  T^2 \cdot Z(0, T)]
+  Using the earlier derivative: $\frac{d^2Z(0, T)}{dr_{nominal}^2} = \frac{d}{dr_{nominal}} \left$-T \cdot 100 \times
+  \exp(-(r_{real} + \pi(0, T)) \times T) \right$$ $= T^2 \cdot 100 \times \exp(-(r_{real} + \pi(0, T)) \times T)$ $=
+  T^2 \cdot Z(0, T)$
 
-  So, convexity given by: [C = \frac{1}{Z(0, T)} \times (T^2 \cdot Z(0, T))] [C = T^2]
+  So, convexity given by: $C = \frac{1}{Z(0, T)} \times (T^2 \cdot Z(0, T))$ $C = T^2$
 
                                                         Conclusion                                                         
                                                                                                                            

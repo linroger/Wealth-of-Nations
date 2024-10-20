@@ -17,7 +17,6 @@ linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 	- [[Teaching Note 5 Risk Neutral Pricing]]
 	- [[Teaching Note 6 Mortgage Backed Securities]]
 	- [[Teaching Note 7 A Rundown On Continuous Time Models]]
-	- [[TIPS Derivations]]
 	- [[Understanding the Yield Curve Notes]]
 	- [[Understanding The Yield Curve- Part 1]]
 	- [[Understanding the Yield Curve- Part 2]]
