@@ -1,6 +1,7 @@
 ---
 title: Lecture 8- Inflation & Sovereign Default Risk
 ---
+  [Teaching Note 2- Interest Rate Risk Management And Factors](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md)
   
 # Lecture 8- Inflation & Sovereign Default Risk
   
@@ -465,20 +466,20 @@ Examining the plot, we see that as inflation rates were rising throughout the 19
   
 The solid lines in the figure show the inflation prediction that comes out of a model in which each birth cohort of individuals forms inflation expectations by estimating an $\mathrm{AR}(1)$ model of the inflation rate using inflation data that they have seen during their lifetimes. These solid lines match quite well the opening of the gap between young and old in the 1970s/80s, and the subsequent closing of this gap and eventual reversal. This means that we can approximately understand people's inflation expectations as being informed by the mean and persistence of the inflation rates that they have experienced during their lifetimes.
   
-From a central banker's viewpoint, the fact that we see these experience-dependent differences between young and old means that experiences exert a force that is not so easy to overcome just with words and announcements. Moreover, the unanchoring of inflation expectations that central bankers are typically worried about is likely to happen more quickly for younger individuals. ${ }^{8}$ On the other hand, once expectations of the general population have become unanchored, it will be particularly difficult to re-anchor those
+From a central banker's viewpoint, the fact that we see these experience-dependent differences between young and old means that experiences exert a force that is not so easy to overcome just with words and announcements. Moreover, the unanchoring of inflation expectations that central bankers are typically worried about is likely to happen more quickly for younger individuals. ${ }^{8}$ On the other hand, once expectations of the general population have become unanchored, it will be particularly difficult to re-anchor those of older individuals because a few quarters of low inflation will do little to alter their extensive set of historical experiences.
   
-[^42]| Table G3 | Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index (in millions of gold marks) |  |  |  |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+[^42]
+| Table G3 | Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index (in millions of gold marks) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- |
 |  | Revenue |  |  |  | Expenditures |  |  |  |  |  |
 |  | Taxes | Sundries | Deficit Covered by Loan Transactions | Total | Repayment  of Floating Debt | Interest <br> on Floating Debt | Subsidies to  Railroads | Execution of Versailles Treaty | Sundries | Total |
 | 1920-21 | 4,090.8 | 132.9 | 7,041.9 | 11,265.6 | 821.7 | - | - | — | - | 11,265.6 |
 | 1921-22 | 5,235.7 | 100.5 | 6,627.4 | 11,963.6 | 1,039.5 | 811.6 | 1,114.4 | 5,110.6 | 5,738.4 | 11,963.4 |
 | 1922-23 | 3,529.1 | 51.4 | 6,384.5 | 9,965.0 | 81.0 | 344.4 | 1,685.5 | 3,600.0 | 4,254.1 | 9,965.0 |
-| 1923-24 (first <br> 9 months) | 1,496.1 | 180.6 | 11,836.5 | 13,513.2 | — | 931.0 | 3,725.0 | - | - | 13,513.2 |
+| 1923-24 (first 9 months) | 1,496.1 | 180.6 | 11,836.5 | 13,513.2 | — | 931.0 | 3,725.0 | - | - | 13,513.2 |
   
 Source: Young [36, vol. 2, p. 393].
 Figure 8.12: Government budget in Germany in years leading up to 1923 hyperinflation Source: Sargent, T.J., 1982. The ends of four big inflations. In Inflation: Causes and effects (pp. 41-98). University of Chicago Press.
-of older individuals because a few quarters of low inflation will do little to alter their extensive set of historical experiences.
   
 It's good news for the Federal Reserve that a big unanchoring of inflation expectations has not happened yet following the recent surge of inflation in 2022. The breakeven inflation rates in Figure 8.7 shows that the bond market prices in somewhat higher expected inflation, but this is still far from the expected inflation rates of around $10 \%$ that were registered the last time inflation surged in the early 1980s.
   
@@ -538,30 +539,30 @@ In contrast, when a government has external debt, denominated in foreign currenc
   
 [^43]governments choose the path of default instead. As the dashed line in Figure 8.16 shows, there are time periods when a large share of countries in the world are in a state of default on external debt, including the 1980s when many developing countries experienced fiscal crises and default.
   
-When a bond is at risk of default, investors reduce the price they are willing to pay. This raises the yield of the bond and as a compensation for the risk of default. To be concrete, consider the following example. Outstanding debt is in the form of a zero-coupon bond with principal of $$ 1$ and maturity in one period. The probability that the government will default is $10 \%$. Suppose that if the government defaults, it will restructure the debt so that bond holders obtain a value that is worth only $40 \%$ of the principal that they are owed. Hence, the recovery rate is $40 \%$, or the loss given default is $1-0.40=60 \% .{ }^{10}$ Suppose that investors price default-free bonds to earn a yield of $5 \%$.
+When a bond is at risk of default, investors reduce the price they are willing to pay. This raises the yield of the bond and as a compensation for the risk of default. To be concrete, consider the following example. Outstanding debt is in the form of a zero-coupon bond with principal of 1$ and maturity in one period. The probability that the government will default is $10 \%$. Suppose that if the government defaults, it will restructure the debt so that bond holders obtain a value that is worth only $40 \%$ of the principal that they are owed. Hence, the recovery rate is $40 \%$, or the loss given default is $1-0.40=60 \% .{ }^{10}$ Suppose that investors price default-free bonds to earn a yield of $5 \%$.
   
 Let's first consider the case of risk-neutral investors. Risk-neutral investors would price this bond subject to default risk at the expected payoff discounted at the defaultfree yield,
   
 $$
 \begin{equation*}
 P=\frac{0.90 \times $ 1+0.10 \times $ 0.40}{1+0.05}=$ 0.8952 \tag{8.29}
-\end{equation*}
-$$
+\end{equation*} $$
+
+
   
-which means that the promised yield is $1 / 0.8952-1=11.71 \%$. It's called the promised yield because this is what the borrower promises to pay, but the investor (fully) earns it only if the issuer does not default on the obligations of the bond. The higher the default probability, and the lower the recovery rate, the lower the price.
+which means that the promised yield is \$1 / 0.8952-1=11.71 \%$. It's called the promised yield because this is what the borrower promises to pay, but the investor (fully) earns it only if the issuer does not default on the obligations of the bond. The higher the default probability, and the lower the recovery rate, the lower the price.
   
-The credit spread relative to the default-free yield, $11.71 \%-5 \%=6.71 \%$ is the additional yield that the investor earns in the event that there is no default. This additional yield the investor earns in the no-default case is compensation for the losses the investor will experience if there is default. In the case of risk-neutral investors that we are considering here, the magnitude of the credit spread is exactly equal to the expected loss as a percentage of the price of the bond:
+The credit spread relative to the default-free yield, \$11.71 \%-5 \%=6.71 \%$ is the additional yield that the investor earns in the event that there is no default. This additional yield the investor earns in the no-default case is compensation for the losses the investor will experience if there is default. In the case of risk-neutral investors that we are considering here, the magnitude of the credit spread is exactly equal to the expected loss as a percentage of the price of the bond:
   
 $$
 \begin{equation*}
 0.1 \times \frac{0.60}{0.8952}=6.71 \% \tag{8.30}
 \end{equation*}
-$$
   
 Despite the elevated credit spread, the expected return on this risky bond is the same as the default-free yield,
   
 $$
-\begin{equation*}
+$$\begin{equation*}
 \mathbb{E}[R]=0.9 \times 11.71 \%+0.1 \times\left(\frac{0.40}{0.8952}-1\right)=5 \% \tag{8.31}
 \end{equation*}
 $$
@@ -619,12 +620,11 @@ U^{\prime \prime}(W) & =-\gamma W^{-\gamma-1} \tag{1.13}
 $$
   
 and so
-  
 $$
 \begin{equation*}
 \frac{U^{\prime \prime}\left(W_{0}\right) W_{0}}{U^{\prime}\left(W_{0}\right)}=-\gamma \tag{1.14}
 \end{equation*}
-  
+  $$
 i.e., indeed constant.
   
 [^2]:    ${ }^{3}$ There are a variety of reasons why poorer people do not participate in the stock market at all (i.e., have zero holdings of stocks or stock mutual funds) that have nothing to do with risk aversion. To control for these other factors driving participation, I condition on having at least some stock market investment.

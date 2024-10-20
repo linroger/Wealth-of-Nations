@@ -6,7 +6,7 @@ aliases: ["DERIVATIVE SECURITIES,   NYU COURANT"]
 linter-yaml-title-alias: "DERIVATIVE SECURITIES,   NYU COURANT"
 ---
 
-# Derivative Securities,  NYU Courant
+# Derivative Securities, NYU Courant
 ## PROFESSOR OF MATHEMATICS
 
 Courant Institute,  New York University
