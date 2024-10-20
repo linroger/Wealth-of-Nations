@@ -656,7 +656,7 @@ In terms of seeing how investments in TIPS and Treasury bonds perform in a relat
 
   
 
-Figure 8.8a shows the investment experience in real terms of an investor in the two ETFs. For this analysis, I invest $$ 1$ in each ETF at the beginning in 2010. I then track the value of this investment (with reinvested dividends). Over the entire sample period, the investment in the TIPS ETF grew to slightly less than $$ 1.20$ in real terms (i.e., after deflating by the CPI). In contrast, the investment in Treasury bonds almost did not grow at all in real terms over the full period. This wedge in performance indicates that over this 12-year period, inflation must have been higher than the inflation expectations, i.e., breakeven inflation, that were priced into the prices of TIPS and regular Treasury bonds initially.
+Figure 8.8a shows the investment experience in real terms of an investor in the two ETFs. For this analysis, I invest 1$ in each ETF at the beginning in 2010. I then track the value of this investment (with reinvested dividends). Over the entire sample period, the investment in the TIPS ETF grew to slightly less than 1.20$ in real terms (i.e., after deflating by the CPI). In contrast, the investment in Treasury bonds almost did not grow at all in real terms over the full period. This wedge in performance indicates that over this 12-year period, inflation must have been higher than the inflation expectations, i.e., breakeven inflation, that were priced into the prices of TIPS and regular Treasury bonds initially.
 
   
 
