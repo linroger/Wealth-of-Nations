@@ -1,8 +1,8 @@
 ---
-title: Lecture 6
+title: Lecture 6-Leverage,  Tail Risk,  Volatility Products
 ---
 
-# Lecture 6
+# Lecture 6-Leverage,  Tail Risk,  Volatility Products
 
 Optimal asset allocation models may sometimes recommend allocations in which risky assets account for more than $100 \%$ of the total wealth invested in the portfolio. The excess over and above $100 \%$ needs to be financed with debt,  either explicitly so,  or implicitly by taking positions in derivative securities to get the level of risk exposure that the asset allocation model prescribes.
 
@@ -10,7 +10,7 @@ A good example is the risk parity strategy that we looked at in lecture 2. Back 
 
 Because the risk parity strategy has high weights in bonds,  which have relatively low volatility,  the overall volatility of the risk parity portfolio is quite low if the weights are scaled to sum up to one. Over the last 30 years,  the annualized volatility was $6.92 \%$ with an annualized mean excess return of $4.95 \%$. The volatility of this portfolio is much lower than the volatility of the stock index,  which was $15.31 \%$ over the same time period,  with mean excess return of $8.02 \%$. This means that an investor who,  given their level of risk aversion,  would be comfortable holding a portfolio with volatility equal to the stock index volatility,  would find the risk parity portfolio to be insufficiently risky and would want to take on leverage to increase the risk and return of the risk parity portfolio. Indeed,  investment managers offering risk parity funds often lever up the risk parity portfolio so that it achieves a level of volatility comparable to the stock index volatility.
 
-How much leverage do we need to get it up to $15 \%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$,  we have portfolio variance $\operatorname{var}\left(R_{p,  t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So,  in terms of standard deviations,  and with $R_{t}$ now the return of the risk parity portfolio,  we are looking for an $\omega$ that delivers
+How much leverage do we need to get it up to $15 \%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$,  we have portfolio variance $\operatorname{var}\left(R_{p,   t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So,  in terms of standard deviations,  and with $R_{t}$ now the return of the risk parity portfolio,  we are looking for an $\omega$ that delivers
 
 $$
 
@@ -18,7 +18,7 @@ $$
 
 $$
 
-which we can solve for $\omega=2.21$. In other words,  for every $$ 1$ of the investors' wealth,  we take $$ 2.21$ exposure to the risk parity strategy (which is constructed with weights of the asset classes in the risk parity portfolio summing up to one),  funded by $$ 1.21$ of debt. Figure 6.1 shows the weights of the leveraged risk parity strategy that the investor then ends up holding once the risk parity strategy is combined with leverage. The weights now add up to 2.21,  instead of to one.
+which we can solve for $\omega=2.21$. In other words,  for every $$ 1$ of the investors' wealth,   we take $$ 2.21$ exposure to the risk parity strategy (which is constructed with weights of the asset classes in the risk parity portfolio summing up to one),   funded by $$ 1.21$ of debt. Figure 6.1 shows the weights of the leveraged risk parity strategy that the investor then ends up holding once the risk parity strategy is combined with leverage. The weights now add up to 2.21,  instead of to one.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
 
@@ -46,15 +46,15 @@ $$
 
 Which of these two is a better measure depends on the purpose for which we use the measure and on the nature of the short positions.
 
-If we are interested in understanding the funding requirements of a portfolio,  the leverage ratio in (6.1) may be more informative than the net leverage ratio. In an ideal frictionless world,  an investor could use the proceeds from a short sale as financing to enter a long position. For example,  the investor could sell short $$ 100$ worth of stock and use the proceeds to buy $$ 100$ of stock and thereby construct a long-short portfolio with zero NAV investment. But this is not how this works in practice. In practice,  the investor would have to leave the short sale proceeds of $$ 100$ as collateral deposit with the broker because the broker wants to make sure that the investor has sufficient funds to repurchase the stock when the short position is closed at some point. In fact,  since there is the risk that the stock price could rise subsequent to the execution of the short sale,  the broker will require more than $$ 100$ of collateral deposit. For stocks this could be something like $$ 150$ (called initial margin),  and this required amount will rise (called variation margin) if the price of the stock rises subsequently. In this way,  the broker tries to ensure that the investor has sufficient funds to eventually repurchase the stock even if the stock price has gone up. So short sales don't generate funding,  they consume funding. The leverage ratio then provides a better characterization of the funding needs of the portfolio. By ignoring short positions,  it does not account for the fact that short positions consume funding,  but at least it does not assume that short positions generate funding. It treats a $$ 100$ short sale as generating a margin requirement of $$ 100$. In contrast,  by subtracting short positions from the long position,  using the net leverage ratio in (6.3) to assess funding requirements would assume that a $$ 100$ short sale requires no margin whatsoever and therefore generates $$ 100$ of funding that can be used to finance long positions.
+If we are interested in understanding the funding requirements of a portfolio,  the leverage ratio in (6.1) may be more informative than the net leverage ratio. In an ideal frictionless world,  an investor could use the proceeds from a short sale as financing to enter a long position. For example,  the investor could sell short $$ 100$ worth of stock and use the proceeds to buy $$ 100$ of stock and thereby construct a long-short portfolio with zero NAV investment. But this is not how this works in practice. In practice,   the investor would have to leave the short sale proceeds of $$ 100$ as collateral deposit with the broker because the broker wants to make sure that the investor has sufficient funds to repurchase the stock when the short position is closed at some point. In fact,  since there is the risk that the stock price could rise subsequent to the execution of the short sale,  the broker will require more than $$ 100$ of collateral deposit. For stocks this could be something like $$ 150$ (called initial margin),   and this required amount will rise (called variation margin) if the price of the stock rises subsequently. In this way,   the broker tries to ensure that the investor has sufficient funds to eventually repurchase the stock even if the stock price has gone up. So short sales don't generate funding,   they consume funding. The leverage ratio then provides a better characterization of the funding needs of the portfolio. By ignoring short positions,   it does not account for the fact that short positions consume funding,   but at least it does not assume that short positions generate funding. It treats a $$ 100$ short sale as generating a margin requirement of $$ 100$. In contrast,   by subtracting short positions from the long position,   using the net leverage ratio in (6.3) to assess funding requirements would assume that a $$ 100$ short sale requires no margin whatsoever and therefore generates $$ 100$ of funding that can be used to finance long positions.
 
-Here is an example. Suppose we want to invest $$ 1 \mathrm{~m}$ of wealth to buy $$ 1.5 \mathrm{~m}$ of asset $A$ and short $$ 0.5 \mathrm{~m}$ of asset $B$. Suppose for now that our broker requires only to keep the $$ 0.5 \mathrm{~m}$ short-sale proceeds as collateral for the short sale of asset $B$,  not more. Then we can use our $$ 1 \mathrm{~m}$ of wealth combined with $$ 0.5$ of debt financing to finance the long position. The difference between the leverage ratio in (6.1) and unity correctly gives us the amount of debt financing required: $1.5-1=0.5$ in this case. In contrast,  the net leverage ratio is 1.0 in this case,  which doesn't reveal the debt funding needs.
+Here is an example. Suppose we want to invest $$ 1 \mathrm{~m}$ of wealth to buy $$ 1.5 \mathrm{~m}$ of asset $A$ and short $$ 0.5 \mathrm{~m}$ of asset $B$. Suppose for now that our broker requires only to keep the $$ 0.5 \mathrm{~m}$ short-sale proceeds as collateral for the short sale of asset $B$,   not more. Then we can use our $$ 1 \mathrm{~m}$ of wealth combined with $$ 0.5$ of debt financing to finance the long position. The difference between the leverage ratio in (6.1) and unity correctly gives us the amount of debt financing required: $1.5-1=0.5$ in this case. In contrast,  the net leverage ratio is 1.0 in this case,  which doesn't reveal the debt funding needs.
 
 In practice,  our broker will ask some excess collateral for the short position-i.e.,  more than the proceeds from the short sale - which is called margin. So the calculation
 
 based on the leverage ratio in (6.1) actually understates the debt funding needs. We will discuss margin requirements shortly in the context of leveraged investing more generally.
 
-If we want to use versions of a leverage ratio to gauge how risky a portfolio is,  then whether the leverage ratio or the net leverage ratio is better depends on the nature of short positions. Consider first the case that short positions are hedges of long positions,  which means that the assets held long have strong positive correlation with the assets that are sold short. In this case,  the overall the long minus short position has reduced risk compared to a long-only position and the net leverage ratio may be a better measure. For example,  if we invest $$ 1 \mathrm{~m}$ of wealth to buy $$ 1.5 \mathrm{~m}$ of asset $A$ and short $$ 0.5 \mathrm{~m}$ of asset $B$,  and the returns of asset $B$ have a correlation of one with the returns of asset $A$,  then we are really just exposed to $$ 1 \mathrm{~m}$ worth of asset $A$ risk,  because part of our long position in $A$ is perfectly hedged by the short position in asset $B$. So subtracting short positions from the long positions as in the net leverage ratio (6.3) is the right thing to do in this case. By netting long and short positions,  this formulation accounts for the risk-reducing effect of short positions. In contrast,  if a substantial part of the short positions are not hedges and actually add to the risk of the portfolio because the correlation is much lower than one,  the leverage ratio (6.1) may be better. If most short positions are not hedges and are adding risk to the portfolio,  the gross leverage ratio
+If we want to use versions of a leverage ratio to gauge how risky a portfolio is,  then whether the leverage ratio or the net leverage ratio is better depends on the nature of short positions. Consider first the case that short positions are hedges of long positions,  which means that the assets held long have strong positive correlation with the assets that are sold short. In this case,  the overall the long minus short position has reduced risk compared to a long-only position and the net leverage ratio may be a better measure. For example,  if we invest $$ 1 \mathrm{~m}$ of wealth to buy $$ 1.5 \mathrm{~m}$ of asset $A$ and short $$ 0.5 \mathrm{~m}$ of asset $B$,  and the returns of asset $B$ have a correlation of one with the returns of asset $A$,  then we are really just exposed to $$ 1 \mathrm{~m}$ worth of asset $A$ risk,   because part of our long position in $A$ is perfectly hedged by the short position in asset $B$. So subtracting short positions from the long positions as in the net leverage ratio (6.3) is the right thing to do in this case. By netting long and short positions,  this formulation accounts for the risk-reducing effect of short positions. In contrast,  if a substantial part of the short positions are not hedges and actually add to the risk of the portfolio because the correlation is much lower than one,  the leverage ratio (6.1) may be better. If most short positions are not hedges and are adding risk to the portfolio,  the gross leverage ratio
 
 Gross leverage $=\frac{\text { Value of long }+ \text { short positions }}{\text { NAV }}=$ Sum of absolute value of portfolio weights.
 
@@ -68,13 +68,13 @@ Before we look at risk and return consequences,  it's useful to first look in mo
 
 Suppose you want to buy $$ 2 \mathrm{~m}$ of stocks,  but financed with borrowed money,  to the extent possible. The most direct way of doing this is to obtain a margin loan from a broker. The broker takes the assets in the account,  including the stocks bought with the margin loan,  as collateral.
 
-The maximum the broker will lend is less than the total amount of collateral available in the account. The difference is the margin requirement,  or the haircut. For example,  with a $50 \%$ initial margin requirement,  the broker will require a $50 \%$ equity contribution from you. In this example,  if you want a initiate a position of $$ 2 \mathrm{~m}$ worth of stocks as the total assets in your account,  you will need to make an equity contribution of $$ 2 \mathrm{~m}$ $\times 0.50=$ 1 \mathrm{~m}$. Hence,  the broker will provide provide at most $$ 2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 1 \mathrm{~m}$ of margin loans for this portfolio of $$ 2 \mathrm{~m}$ worth of stocks.
+The maximum the broker will lend is less than the total amount of collateral available in the account. The difference is the margin requirement,  or the haircut. For example,  with a $50 \%$ initial margin requirement,  the broker will require a $50 \%$ equity contribution from you. In this example,  if you want a initiate a position of $$ 2 \mathrm{~m}$ worth of stocks as the total assets in your account,   you will need to make an equity contribution of $$ 2 \mathrm{~m}$ $\times 0.50=$ 1 \mathrm{~m}$. Hence,  the broker will provide provide at most $$ 2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 1 \mathrm{~m}$ of margin loans for this portfolio of $$ 2 \mathrm{~m}$ worth of stocks.
 
-After the leveraged position is initiated,  the broker will require a maintenance margin that is lower than the initial margin requirement. A typical value is $25 \%$ or slightly above. Let's stick to $25 \%$. This means that when the value of the stock portfolio falls a lot,  you will have to deposit additional cash into your account (this is a margin call). For example,  if the value falls from $$ 2 \mathrm{~m}$ initially to $$ 1.2 \mathrm{~m}$,  then,  given the margin debt of $$ 1 \mathrm{~m}$,  your equity position has fallen to $$ 1.2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 0.2 \mathrm{~m}$,  which is less than the required maintenance margin of $$ 1.2 \mathrm{~m} \times 0.25=$ 0.3 \mathrm{~m}$.
+After the leveraged position is initiated,  the broker will require a maintenance margin that is lower than the initial margin requirement. A typical value is $25 \%$ or slightly above. Let's stick to $25 \%$. This means that when the value of the stock portfolio falls a lot,  you will have to deposit additional cash into your account (this is a margin call). For example,  if the value falls from $$ 2 \mathrm{~m}$ initially to $$ 1.2 \mathrm{~m}$,   then,   given the margin debt of $$ 1 \mathrm{~m}$,  your equity position has fallen to $$ 1.2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 0.2 \mathrm{~m}$,   which is less than the required maintenance margin of $$ 1.2 \mathrm{~m} \times 0.25=$ 0.3 \mathrm{~m}$.
 
 If you do not respond promptly to the margin call (typically until the next business day) and deposit additional funds,  the lender will take the collateral and liquidate it. Thus,  the collateral gets replenished with additional funds daily. From the broker's viewpoint,  the loan is therefore very safe. The broker is only exposed to the risk of loss if a price move between the last collateral replenishment until the time of liquidation is so big that it burns through all the maintenance margin. For this reason,  for professional investors like hedge funds,  the interest rates on margin loans are very close to the risk-free rate.
 
-Suppose you enter this leveraged position in stocks ( $$ 2 \mathrm{~m}$ in stocks,  financed with margin loan of $$ 1 \mathrm{~m}$,  with initial margin $50 \%$ ) for one year. During this one year period,  the stock portfolio earns a random return of $R$. At the end of the year you sell the stock portfolio and pay back the margin loan. The interest rate on the margin loan is the risk-free rate,  which happens to be $5 \%$. The cash flows from your leveraged position are then as shown in the table below (with one simplification: the table only shows the cash flow for the initial margin. It does not show the cash flows that arise if the asset price changes during the margin loan's lifetime and maintenance margin requirements trigger margin calls).
+Suppose you enter this leveraged position in stocks ( $$ 2 \mathrm{~m}$ in stocks,   financed with margin loan of $$ 1 \mathrm{~m}$,   with initial margin $50 \%$ ) for one year. During this one year period,   the stock portfolio earns a random return of $R$. At the end of the year you sell the stock portfolio and pay back the margin loan. The interest rate on the margin loan is the risk-free rate,   which happens to be $5 \%$. The cash flows from your leveraged position are then as shown in the table below (with one simplification: the table only shows the cash flow for the initial margin. It does not show the cash flows that arise if the asset price changes during the margin loan's lifetime and maintenance margin requirements trigger margin calls).
 
 |   | $\mathrm{t}=0$ | $\mathrm{t}=1$ |
 
@@ -88,13 +88,13 @@ Suppose you enter this leveraged position in stocks ( $$ 2 \mathrm{~m}$ in stock
 
 For bonds,  but sometimes for stocks,  too,  it is very common to structure collateralized borrowing in the form of sale and repurchase agreement (repo). Legally,  the
 
-borrower initially sells the collateral ( $$ 2 \mathrm{~m}$ of stocks in our example) to the lender with a simultaneous commitment to repurchase it at a later date at a somewhat higher price,  and this repurchase price is already fixed on the initiation date of the repo. For example,  the numbers corresponding to our margin loan example above would be that the borrower commits to repurchase the collateral at a price of $$ 2 \times(1+0.05)$. The interest implied by the repurchase price ( $5 \%$ in our example) is known as the repo rate. Repos are economically still like a loan,  but structuring the loan as a sale and subsequent repurchase of a security makes the loan even safer for the lender,  because it makes it legally easier for the lender to liquidate the collateral in the event the borrower defaults on the loan. Repo rates are therefore basically risk-free rates.
+borrower initially sells the collateral ( $$ 2 \mathrm{~m}$ of stocks in our example) to the lender with a simultaneous commitment to repurchase it at a later date at a somewhat higher price,   and this repurchase price is already fixed on the initiation date of the repo. For example,   the numbers corresponding to our margin loan example above would be that the borrower commits to repurchase the collateral at a price of $$ 2 \times(1+0.05)$. The interest implied by the repurchase price ( $5 \%$ in our example) is known as the repo rate. Repos are economically still like a loan,  but structuring the loan as a sale and subsequent repurchase of a security makes the loan even safer for the lender,  because it makes it legally easier for the lender to liquidate the collateral in the event the borrower defaults on the loan. Repo rates are therefore basically risk-free rates.
 
 ### 6.1.2 Swaps and forwards
 
 Derivatives contracts are frequently used as an alternative way of obtaining leverage. One very common type of contract is a total return swap (TRS). In a TRS,  one counterparty pays the other the total return that an underlying asset earned over the life of the contract,  while the other party makes a fixed payment that was agreed upon at the initiation date of the contract.
 
-In our example,  suppose that the counterparties (investor and broker) agree to a TRS with notional amount of $$ 2 \mathrm{~m}$. In the TRS,  the broker promises to pay the investor the total return of a specified stock portfolio (e.g.,  a stock index) during the coming year times the notional amount. This means if the stock portfolio earns the return $R$ (which is uncertain at the time of contract initiation),  the broker pays the investor $$ 2 \mathrm{~m} \times R$ (if $R$ happens to be negative,  the investor pays the broker). In turn,  the investor promises the broker to pay the notional amount times a fixed interest rate $R_{\text {swap }}$. So the net cash flow to the investor is $$ 2 m\left(R-R_{\text {swap }}\right)$.
+In our example,  suppose that the counterparties (investor and broker) agree to a TRS with notional amount of $$ 2 \mathrm{~m}$. In the TRS,   the broker promises to pay the investor the total return of a specified stock portfolio (e.g.,   a stock index) during the coming year times the notional amount. This means if the stock portfolio earns the return $R$ (which is uncertain at the time of contract initiation),   the broker pays the investor $$ 2 \mathrm{~m} \times R$ (if $R$ happens to be negative,   the investor pays the broker). In turn,   the investor promises the broker to pay the notional amount times a fixed interest rate $R_{\text {swap }}$. So the net cash flow to the investor is $$ 2 m\left(R-R_{\text {swap }}\right)$.
 
 What would that fixed interest rate $R_{\text {swap }}$ have to be? We can see this easily if we compare the swap cash flows to the cash flows from a margin loan:
 
@@ -108,7 +108,7 @@ The stock portfolio is worth $$ 2 \mathrm{~m} \times(1+R)$
 
 The investor pays back margin loan $$ 2 \mathrm{~m} \times\left(1+R_{f}\right)$
 
-Note that what the investor receives at $t=1$ net is $$ 2 m\left(R-r_{f}\right)$. By absence of arbitrage,  since the cash flows to the investor in the first period in the margin loan case are the same as those in the swap case,  and the risk of cash flows in the second period are the same (risky return $R$ minus a fixed number) the cash flows to the investor in the second period also have to be the same - otherwise there would be an arbitrage opportunity between margin loans and swap markets. Hence,  $R_{\text {swap }}=R_{f}$ must hold. ${ }^{1}$
+Note that what the investor receives at $t=1$ net is $$ 2 m\left(R-r_{f}\right)$. By absence of arbitrage,   since the cash flows to the investor in the first period in the margin loan case are the same as those in the swap case,   and the risk of cash flows in the second period are the same (risky return $R$ minus a fixed number) the cash flows to the investor in the second period also have to be the same - otherwise there would be an arbitrage opportunity between margin loans and swap markets. Hence,   $R_{\text {swap }}=R_{f}$ must hold. ${ }^{1}$
 
 In addition,  a typical swap contract would also require the investor to post margin. In the table below,  I calculate the net cash flows to the investor if the risk-free rate is $R_{f}=0.05$ and the required initial margin is $50 \%$ of the notional amount of the swap.
 
@@ -126,7 +126,7 @@ In addition,  a typical swap contract would also require the investor to post ma
 
 Comparing the cash flows of the TRS with the margin loan above,  we see that they are exactly the same. Hence,  a TRS achieves the same purpose as a margin loan. But some of the terms could be different. For example,  TRS could have lower margin requirements than a margin loan.
 
-In this one period case,  the TRS is equivalent to another type of derivative,  a forward contract. ${ }^{2}$ The forward contract version of our example would be an agreement at $t=0$ to purchase the stock portfolio at $t=1$ at a price of $$ 2 \mathrm{~m} \times(1+0.05)$,  where this price,  the forward price is already contractually fixed at $t=0$. The resulting cash flows for the investor from the forward contract are then the same as in the swap: The investor receives an asset with value $$ 2 \mathrm{~m} \times(1+R)$ and pays $$ 2 \mathrm{~m} \times(1+0.05)$ for it,  which leaves a net cash flow (before margin payments) of $$ 2 \mathrm{~m} \times(R-0.05)$. But unlike forward contracts,  a swap can involve a whole stream of payments. For example,  a TRS could specify that each quarter,  the swap pays the $$ 2 \mathrm{~m}$ times the return earned by the stock portfolio $R$ in that quarter minus the three-month risk-free interest rate.
+In this one period case,  the TRS is equivalent to another type of derivative,  a forward contract. ${ }^{2}$ The forward contract version of our example would be an agreement at $t=0$ to purchase the stock portfolio at $t=1$ at a price of $$ 2 \mathrm{~m} \times(1+0.05)$,   where this price,   the forward price is already contractually fixed at $t=0$. The resulting cash flows for the investor from the forward contract are then the same as in the swap: The investor receives an asset with value $$ 2 \mathrm{~m} \times(1+R)$ and pays $$ 2 \mathrm{~m} \times(1+0.05)$ for it,  which leaves a net cash flow (before margin payments) of $$ 2 \mathrm{~m} \times(R-0.05)$. But unlike forward contracts,   a swap can involve a whole stream of payments. For example,   a TRS could specify that each quarter,   the swap pays the $$ 2 \mathrm{~m}$ times the return earned by the stock portfolio $R$ in that quarter minus the three-month risk-free interest rate.
 
 [^25]
 
@@ -182,7 +182,7 @@ The long-run returns shown in the table at the bottom of the figure may seem puz
 
 This seemingly strange behavior of long-run returns is the reason why discussions of levered ETFs often come with statements such as that these ETFs are "only suitable for investors with a short horizon" and "not suitable for a long-term buy-and-hold investor." Further,  these discussions often mention "volatility decay" as the source of long-run value destruction for a buy-and-hold investor,  usually with examples such as the following one:
 
-Suppose a 3x levered ETF tracks an index that has a value of 100 and the ETF has a NAV of $$ 100$ at the end of day $t=0$. The index then falls by $10 \%$ on day $t=1$,  then rises by $10 \%$ on day $t=2$. Thus,  over this two-day period,  the market fell by $1 \%$. What's the levered ETF's performance? It falls by $30 \%$ on day $t=1$,  to a NAV of $$ 70$,  then it rises by $30 \%$ to NAV of $$ 91$. So while the index fell by $1 \%$ over the two-day period,  the 3 x levered ETF fell by $9 \%$ (not $3 \%$ as one naively may have expected). Now if you repeat this example with bigger price moves (say $15 \%$ instead of $10 \%$ daily moves for the index),  you'll get an even bigger discrepancy of the two-day ETF return from three times the index return. Hence the name volatility decay.
+Suppose a 3x levered ETF tracks an index that has a value of 100 and the ETF has a NAV of $$ 100$ at the end of day $t=0$. The index then falls by $10 \%$ on day $t=1$,   then rises by $10 \%$ on day $t=2$. Thus,   over this two-day period,   the market fell by $1 \%$. What's the levered ETF's performance? It falls by $30 \%$ on day $t=1$,   to a NAV of $$ 70$,   then it rises by $30 \%$ to NAV of $$ 91$. So while the index fell by $1 \%$ over the two-day period,  the 3 x levered ETF fell by $9 \%$ (not $3 \%$ as one naively may have expected). Now if you repeat this example with bigger price moves (say $15 \%$ instead of $10 \%$ daily moves for the index),  you'll get an even bigger discrepancy of the two-day ETF return from three times the index return. Hence the name volatility decay.
 
 So this looks bad. Are we exposing ourselves to inevitable wealth destruction if we buy-and-hold a levered ETF for the long-term? How is this possible? We are just taking a position in the index. It's levered,  but still,  wealth can't just evaporate just because we take a levered position. Leverage can increase the risk of a disastrous return,  but it should at the same time also increase the chances of a very large gain. It should not have the effect of leading to certain wealth destruction.
 
@@ -216,15 +216,15 @@ Periods greater than one year are annualized.
 
 Figure 6.3: Levered exchange-traded product UPRO
 
-Let's deepen the puzzle further. Suppose the index return is IID,  and denoted by $R_{m,  t}$ with $\mathbb{E}\left[R_{m,  t}\right]=\mu$. For simplicity,  suppose that $R_{F}=0$ so that the one-period return of a leveraged position in the index,  with leverage ratio $\omega>1$,  is $R_{t}=\omega R_{m,  t}$. Now consider first the expected two-period compound return on the index
+Let's deepen the puzzle further. Suppose the index return is IID,  and denoted by $R_{m,   t}$ with $\mathbb{E}\left[R_{m,   t}\right]=\mu$. For simplicity,  suppose that $R_{F}=0$ so that the one-period return of a leveraged position in the index,  with leverage ratio $\omega>1$,  is $R_{t}=\omega R_{m,   t}$. Now consider first the expected two-period compound return on the index
 
 $$
 
 \begin{align*}
 
-\mathbb{E}\left[R_{m,  1: 2}\right] & =\mathbb{E}\left[\left(1+R_{m,  1}\right)\left(1+R_{m,  2}\right)\right]-1 \\
+\mathbb{E}\left[R_{m,   1: 2}\right] & =\mathbb{E}\left[\left(1+R_{m,   1}\right)\left(1+R_{m,   2}\right)\right]-1 \\
 
-& =\mu+\mu+\mathbb{E}\left[R_{m,  1} R_{m,  2}\right] \\
+& =\mu+\mu+\mathbb{E}\left[R_{m,   1} R_{m,   2}\right] \\
 
 & =2 \mu+\mu^{2} . \tag{6.4}
 
@@ -238,13 +238,13 @@ $$
 
 \begin{align*}
 
-\mathbb{E}\left[R_{1: 2}\right] & =\mathbb{E}\left[\left(1+\omega R_{m,  1}\right)\left(1+\omega R_{m,  2}\right)\right]-1 \\
+\mathbb{E}\left[R_{1: 2}\right] & =\mathbb{E}\left[\left(1+\omega R_{m,   1}\right)\left(1+\omega R_{m,   2}\right)\right]-1 \\
 
 & =2 \omega \mu+\omega^{2} \mu^{2} \\
 
 & =2 \omega \mu+\omega \mu^{2}+\left(\omega^{2}-\omega\right) \mu^{2} \\
 
-& =\omega \mathbb{E}\left[R_{m,  1: 2}\right]+\left(\omega^{2}-\omega\right) \mu^{2} \tag{6.5}
+& =\omega \mathbb{E}\left[R_{m,   1: 2}\right]+\left(\omega^{2}-\omega\right) \mu^{2} \tag{6.5}
 
 \end{align*}
 
@@ -254,13 +254,13 @@ The first term on the bottom line is the expected two-period return of a static 
 
 One could do the same calculation for more periods than two. The result would be qualitatively the same. In terms of expected return,  there is no hint whatsoever that a constant-leverage strategy leads to wealth destruction in terms of expected return! Its expected long-run compound return is even higher than the expected return of a static leveraged strategy that takes leverage initially but then does not rebalance subsequently.
 
-To understand what's going on,  let's have a look at simulations. I simulate log-normal daily index returns over 3 years with 250 trading days in each year. The log risk-free rate is $r_{f}=0.02 / 250$,  index log excess returns are distributed $r_{m,  t}-r_{f} \sim \mathcal{N}\left(\mu,  \sigma^{2}\right)$ with $\mu=0.02 / 250$ and $\sigma=0.20 / \sqrt{250}$. I then calculate,  every day,  the return on a leveraged strategy that takes constant leverage $\omega$,  rebalanced every day,  with daily return
+To understand what's going on,  let's have a look at simulations. I simulate log-normal daily index returns over 3 years with 250 trading days in each year. The log risk-free rate is $r_{f}=0.02 / 250$,  index log excess returns are distributed $r_{m,   t}-r_{f} \sim \mathcal{N}\left(\mu,   \sigma^{2}\right)$ with $\mu=0.02 / 250$ and $\sigma=0.20 / \sqrt{250}$. I then calculate,  every day,  the return on a leveraged strategy that takes constant leverage $\omega$,  rebalanced every day,  with daily return
 
 $$
 
 \begin{equation*}
 
-R_{t}=R_{f}+\omega\left(R_{m,  t}-R_{f}\right) \tag{6.6}
+R_{t}=R_{f}+\omega\left(R_{m,   t}-R_{f}\right) \tag{6.6}
 
 \end{equation*}
 
@@ -272,7 +272,7 @@ I then compound these returns for 750 days,  and I simulate many such paths.
 
 Figure 6.4: Simulated compound returns over 3 years in a $3 x$ leveraged strategy
 
-Figure 6.4 shows 100 such paths. A closer look at the figure shows that a large number of these paths end at 3 -year returns lower than zero. On these paths,  the wealth destruction story seems to play out. But note that there are some paths on which the wealth gain is enormous. On the path with the maximum wealth gain among these 100 paths,  the 3 x leveraged strategy earns more than $2, 000 \%$ over the 3 -year period. Also,  because the strategy is rebalancing back to 3 x leverage every period,  wealth never falls to zero. Whenever there is a loss,  leverage goes up above 3 x (as the equity in our position falls),  but we rebalance back to 3 x ,  which reduces the risk of a big loss that could wipe out all wealth. In contrast,  a strategy that takes $3 x$ leverage in the beginning and then does not rebalance every period faces a high risk that a sequence of bad returns completely wipe out all wealth.
+Figure 6.4 shows 100 such paths. A closer look at the figure shows that a large number of these paths end at 3 -year returns lower than zero. On these paths,  the wealth destruction story seems to play out. But note that there are some paths on which the wealth gain is enormous. On the path with the maximum wealth gain among these 100 paths,  the 3 x leveraged strategy earns more than $2,  000 \%$ over the 3 -year period. Also,  because the strategy is rebalancing back to 3 x leverage every period,  wealth never falls to zero. Whenever there is a loss,  leverage goes up above 3 x (as the equity in our position falls),  but we rebalance back to 3 x ,  which reduces the risk of a big loss that could wipe out all wealth. In contrast,  a strategy that takes $3 x$ leverage in the beginning and then does not rebalance every period faces a high risk that a sequence of bad returns completely wipe out all wealth.
 
 Thus,  returns are extremely skewed. Very often,  the leveraged strategy loses in the long-term,  but in some cases it earns a spectacular return. And in some cases,  it suffers huge losses,  but losses that are still smaller than the losses one would get from a levered strategy without rebalancing.
 
@@ -282,7 +282,7 @@ We can see this more clearly in the histogram shown in Figure 6.5. The blue bars
 
 Figure 6.5: Histogram of simulated compound returns over 3 years in 3 x leveraged and unleveraged strategy
 
-show the histogram of 3 x levered 3 -year returns from 1, 000 simulations. It shows that in the majority of simulation runs,  the 3 -year return is negative,  but there is also a very long right-tail of rare,  but extremely large positive returns. In comparison,  the orange bars show the histogram of the index returns without leverage. For index returns the vast majority of 3-year returns are positive,  and the right tail of positive returns is much less pronounced.
+show the histogram of 3 x levered 3 -year returns from 1,  000 simulations. It shows that in the majority of simulation runs,  the 3 -year return is negative,  but there is also a very long right-tail of rare,  but extremely large positive returns. In comparison,  the orange bars show the histogram of the index returns without leverage. For index returns the vast majority of 3-year returns are positive,  and the right tail of positive returns is much less pronounced.
 
 This resolves our puzzle: An investor in a 3x levered strategy experiences extremely skewed returns. Most of the time,  the strategy yields negative long-run returns. On commonly occurring paths,  there is wealth destruction. But with a small probability,  the strategy achieves an extremely large positive return. As a consequence,  in terms of expected returns,  or expected wealth,  in the long-run,  the strategy looks just fine. There is no mysterious wealth destruction. As we calculated earlier,  the leveraged strategy's expected long-run return is more than 3 x higher than the expected long-run return of the index.
 
@@ -306,15 +306,15 @@ Overall,  this analysis shows how a simple leveraged strategy with regular rebal
 
 We can get further insights into the risk-return profile of leveraged strategies by examining in more detail how long-term returns of leveraged strategies relate to the long-term returns on the underlying index. Figure 6.6 shows scatter plots of several leveraged strategies' simulated 3 -year returns against the 3-year market index returns.
 
-The blue circles show the 3 -year returns of a strategy where we initially pick a leverage ratio of 3.0 and then refrain from rebalancing during the 3 -year period (with 750 trading days). As one would expect,  the long-term return of this strategy,  $R_{t: t+750}$,  is linear in the long-term return on the index,  $R_{m,  t: t+750}$. More precisely,
+The blue circles show the 3 -year returns of a strategy where we initially pick a leverage ratio of 3.0 and then refrain from rebalancing during the 3 -year period (with 750 trading days). As one would expect,  the long-term return of this strategy,  $R_{t: t+750}$,  is linear in the long-term return on the index,  $R_{m,   t: t+750}$. More precisely,
 
 $$
 
 \begin{align*}
 
-R_{t: t+750} & =\left(1+R_{f}\right)^{750}(1-\omega)+\omega\left(1+R_{m,  t: t+750}\right)-1 \\
+R_{t: t+750} & =\left(1+R_{f}\right)^{750}(1-\omega)+\omega\left(1+R_{m,   t: t+750}\right)-1 \\
 
-& \left.=\left(1+R_{f}\right)^{750}+\omega\left[1+R_{m,  t: t+750}\right)-\left(1+R_{f}\right)^{750}\right]-1 \tag{6.7}
+& \left.=\left(1+R_{f}\right)^{750}+\omega\left[1+R_{m,   t: t+750}\right)-\left(1+R_{f}\right)^{750}\right]-1 \tag{6.7}
 
 \end{align*}
 
@@ -330,13 +330,13 @@ Figure 6.6: Simulated 3-year returns of various leveraged strategies as function
 
 In contrast,  as the scatter plot of red circles shows,  the constant-leverage strategy's loss is bounded by $-100 \%$. This is due to the frequent rebalancing. Every time the index declines and the leveraged strategy experiences a daily loss-which would lead to rising leverage in the absence of rebalancing - the strategy sells some index investment to reduce leverage back to the target leverage of $\omega=3$. This quick de-risking following losses ensures that the strategy never experiences a loss big enough to wipe out all wealth invested in it.
 
-To be more precise,  the constant-leverage strategy would perfectly achieve this avoidance of losses in excess of $-100 \%$ if it was possible to continuously rebalance at infinitesimally small time intervals and if the price process of the underlying index was a diffusion,  which means that the price path is continuous even as we examine smaller and smaller time intervals (in other words,  there are no discrete price jumps). This is obviously not exactly true in reality. And in the simulations we're looking at here,  I simulated daily returns,  not returns over infinitesimally small time intervals and rebalancing takes place only once per day,  not continuously. Over these daily intervals,  it is theoretically possible that a randomly drawn return could be sufficiently negative that it wipes out all wealth in the strategy,  and possibly more - it is just so unlikely that it never happened in the 1, 000 simulation runs of 750 trading days that I used to construct Figure 6.6.
+To be more precise,  the constant-leverage strategy would perfectly achieve this avoidance of losses in excess of $-100 \%$ if it was possible to continuously rebalance at infinitesimally small time intervals and if the price process of the underlying index was a diffusion,  which means that the price path is continuous even as we examine smaller and smaller time intervals (in other words,  there are no discrete price jumps). This is obviously not exactly true in reality. And in the simulations we're looking at here,  I simulated daily returns,  not returns over infinitesimally small time intervals and rebalancing takes place only once per day,  not continuously. Over these daily intervals,  it is theoretically possible that a randomly drawn return could be sufficiently negative that it wipes out all wealth in the strategy,  and possibly more - it is just so unlikely that it never happened in the 1,  000 simulation runs of 750 trading days that I used to construct Figure 6.6.
 
 Another interesting feature of the long-term return of the constant-leverage strategy is that its relationship to the long-term index return is convex: The slope is increasing in the index return.
 
 A convex payoff of this sort should remind you of a financial instrument that you encountered in your introductory investments course: A call option.
 
-For example,  let the index level at the start of the three-year period be $S_{t}$ and the index level at the end of the three-year period $S_{T}$ and consider options with the index as the underlying asset. A three-year at-the-money European call option with a strike or exercise price $K$ offers a payoff of $\max \left(0,  S_{T}-K\right)$ at the end of the three-year period. Hence,  this is a kinked,  convex payoff.
+For example,  let the index level at the start of the three-year period be $S_{t}$ and the index level at the end of the three-year period $S_{T}$ and consider options with the index as the underlying asset. A three-year at-the-money European call option with a strike or exercise price $K$ offers a payoff of $\max \left(0,   S_{T}-K\right)$ at the end of the three-year period. Hence,  this is a kinked,  convex payoff.
 
 What's the connection to our constant-leverage strategy? Recall that the payoff of a European call option can be replicated by a dynamically rebalanced leveraged position in the index financed by borrowing at the risk-free rate. The positions in this replicating can be obtained from the Black-Scholes formula. The Black-Scholes formula expresses the price of a European call option (on a non-dividend paying underlying asset) that gives the right,  but not the obligation to obtain one share of the underlying asset as
 
@@ -356,7 +356,7 @@ $$
 
 \begin{equation*}
 
-\Delta_{t}=N\left(d_{1}\right),  \quad d_{1}=\frac{\log S_{t}-\log K+\left(r_{f}+\frac{\sigma^{2}}{2}\right)(T-t)}{\sigma \sqrt{T-t}} \tag{6.9}
+\Delta_{t}=N\left(d_{1}\right),   \quad d_{1}=\frac{\log S_{t}-\log K+\left(r_{f}+\frac{\sigma^{2}}{2}\right)(T-t)}{\sigma \sqrt{T-t}} \tag{6.9}
 
 \end{equation*}
 
@@ -368,7 +368,7 @@ $$
 
 \begin{equation*}
 
-B_{t}=N\left(d_{2}\right) K \exp \left[-r_{f}(T-t)\right],  \quad d_{2}=d_{1}-\sigma \sqrt{T-t} \tag{6.10}
+B_{t}=N\left(d_{2}\right) K \exp \left[-r_{f}(T-t)\right],   \quad d_{2}=d_{1}-\sigma \sqrt{T-t} \tag{6.10}
 
 \end{equation*}
 
@@ -600,7 +600,7 @@ Figure 4: Tail Hedge Performance in Crises
 
 | Trend Following | Long | $51 \%$ | $10 \%$ | 2% | 21% | 3.2% |
 
-Figure 6.10: Payoff of Tail Risk Hedging Strategies during Severe Market Downturns Source: CAIA Association,  "Tail Risk Hedging, ",  August 25,  2021.
+Figure 6.10: Payoff of Tail Risk Hedging Strategies during Severe Market Downturns Source: CAIA Association,  "Tail Risk Hedging,  ",  August 25,  2021.
 
 The remaining rows show assets that are often considered as candidate tail-risk hedges: U.S Treasury bonds,  buying credit protection via credit-default swaps (CDS) (which pays out well if many companies default on their debts),  various exchange rates,  commodities,  and a few assets in the bottom group that we will discus in more detail. To be a suitable tail-risk hedge,  we would want to see that the asset reliably performs well when stocks do extremely poorly.
 
@@ -630,7 +630,7 @@ This weighted average of option prices in the VIX calculation is constructed suc
 
 Under these more general assumptions the VIX calculation is based on,  if investors were risk-neutral,  the level of the VIX would provide the expected volatility of the S&P500 index over the next 30 days. On average,  then,  if we observe a level of $V I X_{t}$ on day $t$,  the level of volatility that is realized subsequently over days $t+1$ to $t+30$ should be equal to $V I X_{t}$. In reality,  of course,  investors are risk averse and it's possible that they view unexpected changes in volatility as a systematic risk that commands a risk premium. If so,  the level of VIX may be expected volatility plus or minus a risk premium.
 
-tail risk hedging program just before the COVID crisis in early 2020. See "The Inside Story of CalPERS' Untimely Tail-Hedge Unwind, " Institutional investor,  April 14,  2020.
+tail risk hedging program just before the COVID crisis in early 2020. See "The Inside Story of CalPERS' Untimely Tail-Hedge Unwind,  " Institutional investor,  April 14,  2020.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-223.jpg?height=893&width=1117&top_left_y=291&top_left_x=531)
 
@@ -658,17 +658,17 @@ Now that we understand VIX,  let's turn to VIX futures,  whose tail-risk hedging
 
 | vX37/U2 | 09/14/2022 | 0 |   | 0 | 0 | 24.325 | 0 |
 
-| vX/U2 | 09/21/2022 | 23.85 | $-0.50$ | 24.45 | 23.65 | 24.35 | 22, 024 |
+| vX/U2 | 09/21/2022 | 23.85 | $-0.50$ | 24.45 | 23.65 | 24.35 | 22,  024 |
 
 | vX39/U2 | 09/28/2022 | 0 |   | 0 | 0 | 24.35 | 0 |
 
 | vX40N2 | 10/05/2022 | 0 |   | 0 | 0 |   | 0 |
 
-| vXV22 | 10/19/2022 | 25.50 | -0.467 | 26.02 | 25.37 | 25.967 | 11, 576 |
+| vXV22 | 10/19/2022 | 25.50 | -0.467 | 26.02 | 25.37 | 25.967 | 11,  576 |
 
-| vx/X2 | 11/16/2022 | 26.32 | -0.382 | 26.76 | 26.20 | 26.702 | 4, 430 |
+| vx/X2 | 11/16/2022 | 26.32 | -0.382 | 26.76 | 26.20 | 26.702 | 4,  430 |
 
-| vXIZ2 | 12/21/2022 | 26.57 | -0.33 | 26.95 | 26.50 | 26.90 | 1, 859 |
+| vXIZ2 | 12/21/2022 | 26.57 | -0.33 | 26.95 | 26.50 | 26.90 | 1,  859 |
 
 | VX/F3 | 01/18/2023 | 27.72 | $-0.31$ | 28.05 | 27.65 | 28.03 | 913 |
 
@@ -682,7 +682,7 @@ Now that we understand VIX,  let's turn to VIX futures,  whose tail-risk hedging
 
 Figure 6.12: CBOE VIX Futures Prices on August 25,  2022
 
-For example,  consider the VIX futures prices from August 25,  2022 shown in Figure 6.12. The price for futures expiring on October $10 / 19 / 2022$ was $$ 25.50$. And so the payoff on October 19,  2022 of a long position entered on August 22,  2022 would be the level of the VIX on October 19 minus $$ 25.50$ ( $\times 1000$ since each futures contract is for a notional value of 1000 times the index). If there were no margin requirements,  no money would change hands at all at the initiation of the contract on August 25. But
+For example,  consider the VIX futures prices from August 25,  2022 shown in Figure 6.12. The price for futures expiring on October $10 / 19 / 2022$ was $$ 25.50$. And so the payoff on October 19,   2022 of a long position entered on August 22,   2022 would be the level of the VIX on October 19 minus $$ 25.50$ ( $\times 1000$ since each futures contract is for a notional value of 1000 times the index). If there were no margin requirements,  no money would change hands at all at the initiation of the contract on August 25. But
 
 in practice futures exchanges require that some initial margin will have to be posted (a small percentage of the contract value) and more margin will have to be posted if the position makes losses until the day of expiration.
 

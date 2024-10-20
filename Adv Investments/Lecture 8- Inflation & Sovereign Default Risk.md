@@ -3,7 +3,7 @@ title: Untitled 6
 ---
   
 
-# Lecture 8
+# Lecture 8- Inflation & Sovereign Default Risk
 
   
 
@@ -65,7 +65,7 @@ In the rest of this lecture, we will take the perspective of an investor who car
 
   
 
-At long horizons, the difference between nominal and real returns can be huge. Figure 8.1 shows the history of CPI inflation in the U.S. during the post world war II period, measured as the percentage change in CPI over 12-month intervals. Investors in the 1970s and 1980s experienced inflation rates above $10 %$. These inflation rates could turn
+At long horizons, the difference between nominal and real returns can be huge. Figure 8.1 shows the history of CPI inflation in the U.S. during the post world war II period, measured as the percentage change in CPI over 12-month intervals. Investors in the 1970s and 1980s experienced inflation rates above $10 \%$. These inflation rates could turn
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-269.jpg?height=936&width=1199&top_left_y=296&top_left_x=474)
 
@@ -73,7 +73,7 @@ At long horizons, the difference between nominal and real returns can be huge. F
 
 Figure 8.2: Final values in real and nominal terms of a 20-year long investment in a portfolio of U.S. Treasury bonds with 5-10 year maturity
 
-a $10 %$ yield on a Treasury bond into a zero return in real terms. Over the subsequent decades, inflation rates fell to much lower levels and were more stable. Only very recently, in the wake of the COVID pandemic, inflation started rising again to levels we had not seen since the early 1980s.
+a $10 \%$ yield on a Treasury bond into a zero return in real terms. Over the subsequent decades, inflation rates fell to much lower levels and were more stable. Only very recently, in the wake of the COVID pandemic, inflation started rising again to levels we had not seen since the early 1980s.
 
   
 
@@ -87,25 +87,25 @@ The blue line in the figure shows the nominal final value. For example, the poin
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-| Hungary ${ }^{1}$ | Aug. 1945 | Jul. 1946 | Jul. 1946 | $4.19 \times 10^{16} %$ | 207% | 15.0 hours | Pengő | Consumer |
+| Hungary ${ }^{1}$ | Aug. 1945 | Jul. 1946 | Jul. 1946 | $4.19 \times 10^{16} \%$ | 207\% | 15.0 hours | Pengő | Consumer |
 
-| Zimbabwe $^{2}$ | Mar. 2007 | Mid-Nov. 2008 | Mid-Nov. 2008 | $7.96 \times 10^{10} %$ | 98.0% | 24.7 hours | Dollar | Implied Exchange Rate* |
+| Zimbabwe $^{2}$ | Mar. 2007 | Mid-Nov. 2008 | Mid-Nov. 2008 | $7.96 \times 10^{10} \%$ | 98.0\% | 24.7 hours | Dollar | Implied Exchange Rate* |
 
-| Yugoslavia ${ }^{3}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 313,000,000% | 64.6% | 1.41 days | Dinar | Consumer |
+| Yugoslavia ${ }^{3}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 313,000,000\% | 64.6\% | 1.41 days | Dinar | Consumer |
 
-| Republika Srpska ${ }^{4}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 297,000,000% | 64.3% | 1.41 days | Dinar | Consumer |
+| Republika Srpska ${ }^{4}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 297,000,000\% | 64.3\% | 1.41 days | Dinar | Consumer |
 
-| Germany ${ }^{5}$ | Aug. 1922 | Dec. 1923 | Oct. 1923 | 29,500% | 20.9% | 3.70 days | Papiermark | Wholesale |
+| Germany ${ }^{5}$ | Aug. 1922 | Dec. 1923 | Oct. 1923 | 29,500\% | 20.9\% | 3.70 days | Papiermark | Wholesale |
 
-| Greece ${ }^{6}$ | May. 1941 | Dec. 1945 | Oct. 1944 | 13,800% | $17.9 %$ | 4.27 days | Drachma | Exchange Rate |
+| Greece ${ }^{6}$ | May. 1941 | Dec. 1945 | Oct. 1944 | 13,800\% | $17.9 \%$ | 4.27 days | Drachma | Exchange Rate |
 
-| China§ ${ }^{7}$ | Oct. 1947 | Mid-May 1949 | Apr. 1949 | 5,070% | $14.1 %$ | 5.34 days | Yuan | Wholesale for Shanghai |
+| China§ ${ }^{7}$ | Oct. 1947 | Mid-May 1949 | Apr. 1949 | 5,070\% | $14.1 \%$ | 5.34 days | Yuan | Wholesale for Shanghai |
 
-| Free City of Danzig ${ }^{8}$ | Aug. 1922 | Mid-Oct. 1923 | Sep. 1923 | 2,440% | $11.4 %$ | 6.52 days | German Papiermark | Exchange Rate** |
+| Free City of Danzig ${ }^{8}$ | Aug. 1922 | Mid-Oct. 1923 | Sep. 1923 | 2,440\% | $11.4 \%$ | 6.52 days | German Papiermark | Exchange Rate** |
 
-| Armenia ${ }^{9}$ | Oct. 1993 | Dec. 1994 | Nov. 1993 | 438% | 5.77% | 12.5 days | Dram & Russian Ruble | Consumer |
+| Armenia ${ }^{9}$ | Oct. 1993 | Dec. 1994 | Nov. 1993 | 438\% | 5.77\% | 12.5 days | Dram & Russian Ruble | Consumer |
 
-| Turkmenistan $\dagger \dagger^{10}$ | Jan. 1992 | Nov. 1993 | Nov. 1993 | $429 %$ | $5.71 %$ | 12.7 days | Manat | Consumer |
+| Turkmenistan $\dagger \dagger^{10}$ | Jan. 1992 | Nov. 1993 | Nov. 1993 | $429 \%$ | $5.71 \%$ | 12.7 days | Manat | Consumer |
 
   
 
@@ -117,15 +117,15 @@ terms of purchasing power, the investor who started in 1956 just achieved a pres
 
   
 
-Investors who started a little later, say in 1963 and held the portfolio until 1982, experienced a loss of purchasing power of about $10 %$, even though in nominal terms their portfolio more than doubled.
+Investors who started a little later, say in 1963 and held the portfolio until 1982, experienced a loss of purchasing power of about $10 \%$, even though in nominal terms their portfolio more than doubled.
 
   
 
-Investors who started in the mid-1970s and held the portfolio until 1995 had an initially terrible experience in real terms. However, due to bond yields coming down in the second half of the 1980s and the 1990s, and hence increasing bond prices, these investors also benefited from a huge nominal return on their bond holdings. Since inflation rates had come down at that time, too, this also meant a high real return. So overall, while there is a huge gap from real returns to the huge nominal returns of around $700 %$, by 1995 these investors ended up more than doubling their purchasing power. The low real returns in the first half of their 20-year period were more than offset by the high real returns in the second half.
+Investors who started in the mid-1970s and held the portfolio until 1995 had an initially terrible experience in real terms. However, due to bond yields coming down in the second half of the 1980s and the 1990s, and hence increasing bond prices, these investors also benefited from a huge nominal return on their bond holdings. Since inflation rates had come down at that time, too, this also meant a high real return. So overall, while there is a huge gap from real returns to the huge nominal returns of around $700 \%$, by 1995 these investors ended up more than doubling their purchasing power. The low real returns in the first half of their 20-year period were more than offset by the high real returns in the second half.
 
   
 
-The inflation rates above 10% per year experienced by the U.S. in the 1970s and 1980s were a substantial drag on real returns for investors holding securities with nominally fixed payoffs. Investors in other developed countries experienced similar rates of inflation around the same time. In Germany inflation peaked at $8 %$; in the U.K. the peak was at $25 %$. However, these inflation rates pale against the inflation rates that some countries throughout history have experienced during episodes of hyperinflation.
+The inflation rates above 10\% per year experienced by the U.S. in the 1970s and 1980s were a substantial drag on real returns for investors holding securities with nominally fixed payoffs. Investors in other developed countries experienced similar rates of inflation around the same time. In Germany inflation peaked at $8 \%$; in the U.K. the peak was at $25 \%$. However, these inflation rates pale against the inflation rates that some countries throughout history have experienced during episodes of hyperinflation.
 
   
 
@@ -419,7 +419,7 @@ Table (8.1) shows the results from these regressions for three asset classes: U.
 
   
 
-Real returns of long-term bonds have strong exposure to inflation risks. A one percentage point higher unexpected inflation is associated with 2.39 percentage points lower real return during the same period. A one percentage point rise in one-year inflation expectations is associated with 2.29 percentage points lower long-term bond returns! A rise in inflation expectations is terrible news for nominal long-term bond holders. The $R^{2}$ of this regression of $49 %$ also highlights that unexpected inflation shocks and changes in inflation expectations together explain a large share of variation
+Real returns of long-term bonds have strong exposure to inflation risks. A one percentage point higher unexpected inflation is associated with 2.39 percentage points lower real return during the same period. A one percentage point rise in one-year inflation expectations is associated with 2.29 percentage points lower long-term bond returns! A rise in inflation expectations is terrible news for nominal long-term bond holders. The $R^{2}$ of this regression of $49 \%$ also highlights that unexpected inflation shocks and changes in inflation expectations together explain a large share of variation
 
   
 
@@ -431,7 +431,7 @@ For the stock market index in Panel B the picture is more mixed. On the one hand
 
   
 
-Panel C shows the results for gold. Gold has a positive exposure to both inflation risk factors. The $t$-statistics are both smaller than the usual threshold of 1.96, but the one on the expected inflation variable is very close and indicates significance at least at a $10 %$ level. So there are some hints that gold not only provides real returns protected from inflation risk, but in addition, its real returns may have positive exposure to inflation risk factors, so that real returns are actually higher when inflation surges and lower when inflation declines. This may reflect that investors are willing to pay an extra insurance premium for real assets, or equivalently, tolerate a relatively low expected return, as a price of enjoying inflation protection when inflation surges.
+Panel C shows the results for gold. Gold has a positive exposure to both inflation risk factors. The $t$-statistics are both smaller than the usual threshold of 1.96, but the one on the expected inflation variable is very close and indicates significance at least at a $10 \%$ level. So there are some hints that gold not only provides real returns protected from inflation risk, but in addition, its real returns may have positive exposure to inflation risk factors, so that real returns are actually higher when inflation surges and lower when inflation declines. This may reflect that investors are willing to pay an extra insurance premium for real assets, or equivalently, tolerate a relatively low expected return, as a price of enjoying inflation protection when inflation surges.
 
   
 
@@ -465,7 +465,7 @@ One way of doing so is to look at episodes where the inflation shock was just so
 
 Figure 8.5 presents evidence from the German hyperinflation during the 1920s. The authors of this study hand-collected data on stock prices of several hundred stocks listed
 
-on the Berlin stock exchange. The time series shown in the chart cover the period from start of 1920 until September 1923 during which the CPI in Germany (red solid line) rose by a bit less than 10 million times. As the figure shows, stock prices (blue solid line) rose largely in lockstep by the same factor. In contrast, nominal long-term bonds (4.5% Deutsche Reichsschatzanweisung) of course did not rise at all and hence owners of these bonds basically experienced a total loss in real terms.
+on the Berlin stock exchange. The time series shown in the chart cover the period from start of 1920 until September 1923 during which the CPI in Germany (red solid line) rose by a bit less than 10 million times. As the figure shows, stock prices (blue solid line) rose largely in lockstep by the same factor. In contrast, nominal long-term bonds (4.5\% Deutsche Reichsschatzanweisung) of course did not rise at all and hence owners of these bonds basically experienced a total loss in real terms.
 
   
 
@@ -485,7 +485,7 @@ While stocks may provide some protection from inflation risks, stocks of course 
 
   
 
-Here is how TIPS work. Coupon and principal of TIPS are not fixed in nominal terms, but they grow with the CPI, as measured by the CPI three months before the coupon or principal payment date. For example, suppose a 10-year TIPS is issued at the end of month $t$ with a 10-year maturity. For simplicity, suppose the principal value is $$ 1$ and the coupon payments occur every 12 months (instead of the actual semi-annual payment frequency) at a coupon rate of $c^{r} %$. This coupon rate specified in the terms of TIPS is a real coupon rate. Then the first coupon payment in month $t+12$ in nominal terms will be
+Here is how TIPS work. Coupon and principal of TIPS are not fixed in nominal terms, but they grow with the CPI, as measured by the CPI three months before the coupon or principal payment date. For example, suppose a 10-year TIPS is issued at the end of month $t$ with a 10-year maturity. For simplicity, suppose the principal value is $$ 1$ and the coupon payments occur every 12 months (instead of the actual semi-annual payment frequency) at a coupon rate of $c^{r} \%$. This coupon rate specified in the terms of TIPS is a real coupon rate. Then the first coupon payment in month $t+12$ in nominal terms will be
 
   
 
@@ -537,7 +537,7 @@ This means that at time $t$ the future nominal cash flows of TIPS are uncertain.
 
   
 
-TIPS are immune to both types of inflation risk we discussed above. If the current CPI unexpectedly goes up by $x %$, then all future coupons and principal payments will be $x %$ higher in nominal terms, but in real terms they remain unchanged, hence the real value of TIPS stays unchanged and there is no loss of purchasing power. If current expectations of future inflation go up by $x$ percentage points per year until bond maturity, coupon payments and the outstanding principal amount are expected to grow by an additional $x$ percentage points more per year in nominal terms, but in real terms they will stay the same. Hence, the real value of TIPS stays unchanged and there is no loss of purchasing power.
+TIPS are immune to both types of inflation risk we discussed above. If the current CPI unexpectedly goes up by $x \%$, then all future coupons and principal payments will be $x \%$ higher in nominal terms, but in real terms they remain unchanged, hence the real value of TIPS stays unchanged and there is no loss of purchasing power. If current expectations of future inflation go up by $x$ percentage points per year until bond maturity, coupon payments and the outstanding principal amount are expected to grow by an additional $x$ percentage points more per year in nominal terms, but in real terms they will stay the same. Hence, the real value of TIPS stays unchanged and there is no loss of purchasing power.
 
   
 
@@ -869,7 +869,7 @@ Figure 8.10: Inflation and exchange rate to USD in Turkey
 
   
 
-A recent example is the hyperinflation that started in Turkey in 2022. Figure 8.10 plots the consumer price index in Turkey since 2017. Prices more than quadrupled during the seven years shown in the plot, a rise by about $350 %$, which means the local purchasing power of the Turkish lira fell by about $78 %$. The same plot also shows the exchange rate, expressed in units of Turkish lira per $$ 1$. As the purchasing power of the lira fell, the exchange rate depreciated strongly from around $1 / 4=0.25$ dollars per lira down to $1 / 27=0.037$ dollars per lira, which is a lira depreciation of about $85 %$, which is roughly in the same ballpark as the loss of purchasing power of the lira, and hence roughly in line with (8.28).
+A recent example is the hyperinflation that started in Turkey in 2022. Figure 8.10 plots the consumer price index in Turkey since 2017. Prices more than quadrupled during the seven years shown in the plot, a rise by about $350 \%$, which means the local purchasing power of the Turkish lira fell by about $78 \%$. The same plot also shows the exchange rate, expressed in units of Turkish lira per $$ 1$. As the purchasing power of the lira fell, the exchange rate depreciated strongly from around $1 / 4=0.25$ dollars per lira down to $1 / 27=0.037$ dollars per lira, which is a lira depreciation of about $85 \%$, which is roughly in the same ballpark as the loss of purchasing power of the lira, and hence roughly in line with (8.28).
 
   
 
@@ -897,7 +897,7 @@ Inflation expectations: The reason why expectations of future inflation can gene
 
   
 
-Central banks, tasked with ensuring price stability, worry about this expectations effect because a mere change in people's beliefs about the future could generate inflation. Possibly, inflation could be completely self-fulfilling. Then if people expect $10 %$ inflation going forward, this generates current inflation of $10 %$; if people will expect $100 %$ going forward, this generates current inflation of $100 %$; and so on. Any level of current inflation could arise. Put differently, if such self-fulfilling dynamics take hold, inflation will be extremely unstable and could easily explode. Once this happens, it would take big changes in interest rates to generate a big output gap, i.e., a deep recession, to counteract this self-fulfilling inflationary dynamic.
+Central banks, tasked with ensuring price stability, worry about this expectations effect because a mere change in people's beliefs about the future could generate inflation. Possibly, inflation could be completely self-fulfilling. Then if people expect $10 \%$ inflation going forward, this generates current inflation of $10 \%$; if people will expect $100 \%$ going forward, this generates current inflation of $100 \%$; and so on. Any level of current inflation could arise. Put differently, if such self-fulfilling dynamics take hold, inflation will be extremely unstable and could easily explode. Once this happens, it would take big changes in interest rates to generate a big output gap, i.e., a deep recession, to counteract this self-fulfilling inflationary dynamic.
 
   
 
@@ -973,7 +973,7 @@ of older individuals because a few quarters of low inflation will do little to a
 
   
 
-It's good news for the Federal Reserve that a big unanchoring of inflation expectations has not happened yet following the recent surge of inflation in 2022. The breakeven inflation rates in Figure 8.7 shows that the bond market prices in somewhat higher expected inflation, but this is still far from the expected inflation rates of around $10 %$ that were registered the last time inflation surged in the early 1980s.
+It's good news for the Federal Reserve that a big unanchoring of inflation expectations has not happened yet following the recent surge of inflation in 2022. The breakeven inflation rates in Figure 8.7 shows that the bond market prices in somewhat higher expected inflation, but this is still far from the expected inflation rates of around $10 \%$ that were registered the last time inflation surged in the early 1980s.
 
   
 
@@ -1077,7 +1077,7 @@ When governments get into a fiscal crisis and have much of their debt denominate
 
   
 
-Looking at the world history of such crises, the solid line in Figure 8.16 shows what the authors call "Composite Probability of Domestic Default": this is the share of countries in a given year that have either high inflation (above 20%) or are in a state of default on their domestic debt. ${ }^{9}$ The vast majority of these cases are hyperinflations, not default.
+Looking at the world history of such crises, the solid line in Figure 8.16 shows what the authors call "Composite Probability of Domestic Default": this is the share of countries in a given year that have either high inflation (above 20\%) or are in a state of default on their domestic debt. ${ }^{9}$ The vast majority of these cases are hyperinflations, not default.
 
   
 
@@ -1089,7 +1089,7 @@ In contrast, when a government has external debt, denominated in foreign currenc
 
   
 
-When a bond is at risk of default, investors reduce the price they are willing to pay. This raises the yield of the bond and as a compensation for the risk of default. To be concrete, consider the following example. Outstanding debt is in the form of a zero-coupon bond with principal of $$ 1$ and maturity in one period. The probability that the government will default is $10 %$. Suppose that if the government defaults, it will restructure the debt so that bond holders obtain a value that is worth only $40 %$ of the principal that they are owed. Hence, the recovery rate is $40 %$, or the loss given default is $1-0.40=60 % .{ }^{10}$ Suppose that investors price default-free bonds to earn a yield of $5 %$.
+When a bond is at risk of default, investors reduce the price they are willing to pay. This raises the yield of the bond and as a compensation for the risk of default. To be concrete, consider the following example. Outstanding debt is in the form of a zero-coupon bond with principal of $$ 1$ and maturity in one period. The probability that the government will default is $10 \%$. Suppose that if the government defaults, it will restructure the debt so that bond holders obtain a value that is worth only $40 \%$ of the principal that they are owed. Hence, the recovery rate is $40 \%$, or the loss given default is $1-0.40=60 \% .{ }^{10}$ Suppose that investors price default-free bonds to earn a yield of $5 \%$.
 
   
 
@@ -1109,11 +1109,11 @@ $$
 
   
 
-which means that the promised yield is $1 / 0.8952-1=11.71 %$. It's called the promised yield because this is what the borrower promises to pay, but the investor (fully) earns it only if the issuer does not default on the obligations of the bond. The higher the default probability, and the lower the recovery rate, the lower the price.
+which means that the promised yield is $1 / 0.8952-1=11.71 \%$. It's called the promised yield because this is what the borrower promises to pay, but the investor (fully) earns it only if the issuer does not default on the obligations of the bond. The higher the default probability, and the lower the recovery rate, the lower the price.
 
   
 
-The credit spread relative to the default-free yield, $11.71 %-5 %=6.71 %$ is the additional yield that the investor earns in the event that there is no default. This additional yield the investor earns in the no-default case is compensation for the losses the investor will experience if there is default. In the case of risk-neutral investors that we are considering here, the magnitude of the credit spread is exactly equal to the expected loss as a percentage of the price of the bond:
+The credit spread relative to the default-free yield, $11.71 \%-5 \%=6.71 \%$ is the additional yield that the investor earns in the event that there is no default. This additional yield the investor earns in the no-default case is compensation for the losses the investor will experience if there is default. In the case of risk-neutral investors that we are considering here, the magnitude of the credit spread is exactly equal to the expected loss as a percentage of the price of the bond:
 
   
 
@@ -1121,7 +1121,7 @@ $$
 
 \begin{equation*}
 
-0.1 \times \frac{0.60}{0.8952}=6.71 % \tag{8.30}
+0.1 \times \frac{0.60}{0.8952}=6.71 \% \tag{8.30}
 
 \end{equation*}
 
@@ -1137,7 +1137,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}[R]=0.9 \times 11.71 %+0.1 \times\left(\frac{0.40}{0.8952}-1\right)=5 % \tag{8.31}
+\mathbb{E}[R]=0.9 \times 11.71 \%+0.1 \times\left(\frac{0.40}{0.8952}-1\right)=5 \% \tag{8.31}
 
 \end{equation*}
 
@@ -1149,7 +1149,7 @@ $$
 
   
 
-Now, in practice investors are not risk neutral. And defaults are typically viewed as systematic risks. They are more likely to happen in economic downturns in which other risky assets perform poorly, too. Hence, investors require an expected return premium to hold default-risky bonds. Suppose that investors are willing to pay only $$ 0.83$ for this bond. Then the promised yield is $1 / 0.83-1=20.48 %$, and hence the expected return is
+Now, in practice investors are not risk neutral. And defaults are typically viewed as systematic risks. They are more likely to happen in economic downturns in which other risky assets perform poorly, too. Hence, investors require an expected return premium to hold default-risky bonds. Suppose that investors are willing to pay only $$ 0.83$ for this bond. Then the promised yield is $1 / 0.83-1=20.48 \%$, and hence the expected return is
 
   
 
@@ -1157,7 +1157,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}[R]=0.9 \times 20.48 %+0.1 \times\left(\frac{0.40}{0.83}-1\right)=13.25 % \tag{8.32}
+\mathbb{E}[R]=0.9 \times 20.48 \%+0.1 \times\left(\frac{0.40}{0.83}-1\right)=13.25 \% \tag{8.32}
 
 \end{equation*}
 
@@ -1165,19 +1165,19 @@ $$
 
   
 
-which is hence $8.25 %$ higher than the default-free yield. In this case, the promised yield of $20.48 %$ has three components:
+which is hence $8.25 \%$ higher than the default-free yield. In this case, the promised yield of $20.48 \%$ has three components:
 
   
 
-The default-free yield of $5 %$
+The default-free yield of $5 \%$
 
-Expected loss due to default $0.1 \times \frac{0.60}{0.83}=7.23 %$
+Expected loss due to default $0.1 \times \frac{0.60}{0.83}=7.23 \%$
 
-Expected excess return $8.25 %$
+Expected excess return $8.25 \%$
 
   
 
-The credit spread of $20.48 %-5 %=15.48 %$ is the sum of the last two components.
+The credit spread of $20.48 \%-5 \%=15.48 \%$ is the sum of the last two components.
 
 This makes clear that for bonds with substantial risk of default one should not interpret the promised yield as an expected return. If default risk is substantial, the expected return can be far lower than the promised yield.
 
@@ -1207,7 +1207,7 @@ Figure 8.17: Risk and average excess returns on sovereign debt
 
 Source: Meyer, J., Reinhart, C.M. and Trebesch, C., 2022. Sovereign bonds since Waterloo. The Quarterly Journal of Economics, 137(3), pp.1615-1680.
 
-defaulters is substantial: many betas reach 0.4 to 0.6 and in annualized terms their excess return was about $10 %$. For comparison, the U.S. stock market earned about $10 %$ excess return annually during this period, so the risk compensation that sovereign bond investors earned during this period was actually quite a bit higher than predicted by the CAPM.
+defaulters is substantial: many betas reach 0.4 to 0.6 and in annualized terms their excess return was about $10 \%$. For comparison, the U.S. stock market earned about $10 \%$ excess return annually during this period, so the risk compensation that sovereign bond investors earned during this period was actually quite a bit higher than predicted by the CAPM.
 
   
 
