@@ -2,7 +2,7 @@
 title: Lecture 5
 ---
 
-# Lecture 5
+# Lecture 5- Dynamic Portfolio Choice
 
 When we derived mean-variance optimal portfolio weights in earlier lectures,  we assumed an IID setting. Moreover,  when we derived the optimal portfolio formulas,  we assumed that the investor maximizes expected utility of wealth at a one-period horizon. Based on the IID assumption,  we plugged estimates of unconditional means and covariances into the resulting optimal portfolio formula. This brings up two issues.
 
@@ -64,9 +64,9 @@ R_{t: t+h} & =\left(1+R_{t+1}\right)\left(1+R_{t+2}\right) \times \ldots \times\
 
 $$
 
-At long horizons,  the effects coming from compounding of returns can be substantial and they make the effects of a change in the rate of return nonlinear,  especially at high rates of return. For example,  earning an annual return of $20 %$ for 10 years yields a 10-year return of about $500 %$,  but doubling the return to $40 %$ per year leads to a much more than doubling of the 10-year return to about 2, 800%.
+At long horizons,  the effects coming from compounding of returns can be substantial and they make the effects of a change in the rate of return nonlinear,  especially at high rates of return. For example,  earning an annual return of $20 \%$ for 10 years yields a 10-year return of about $500 \%$,  but doubling the return to $40 \%$ per year leads to a much more than doubling of the 10-year return to about 2, 800%.
 
-This bring up the question how we could estimate the expected long-run return. One approach we could consider is to simply measure $R_{t: t+h}$ in the past data and compute the average $R_{t: t+h}$ and use this as our estimate of $\mathbb{E}\left[R_{t: t+h}\right]$. But since long-term returns have skewed distributions (recall our discussion in lecture 3 that downside in the long-run is limited at $-100 %$ while the upside is unlimited),  taking means of long-run returns may produce somewhat unreliable estimates of expected long-run returns. Compounding some estimate of a mean short-run return may deliver a more precise estimate of the expected long-run return.
+This bring up the question how we could estimate the expected long-run return. One approach we could consider is to simply measure $R_{t: t+h}$ in the past data and compute the average $R_{t: t+h}$ and use this as our estimate of $\mathbb{E}\left[R_{t: t+h}\right]$. But since long-term returns have skewed distributions (recall our discussion in lecture 3 that downside in the long-run is limited at $-100 \%$ while the upside is unlimited),  taking means of long-run returns may produce somewhat unreliable estimates of expected long-run returns. Compounding some estimate of a mean short-run return may deliver a more precise estimate of the expected long-run return.
 
 There may also be many situations in which it is simply not feasible to estimate average long-run returns on historical data. For example,  you may not have access to the historical data itself,  but just summary measures of mean short-term returns that someone else has calculated. Is there a way to compound these short-term mean returns to get an estimate of long-run expected return?
 
@@ -98,11 +98,11 @@ $$
 
 the geometric mean takes into account the effects of compounding. There is an active debate among investment practitioners whether the geometric or the arithmetic is more appropriate for estimating the expected long-run return of various asset classes.
 
-The geometric mean is always weakly smaller than the arithmetic mean. In the case where all returns in all periods are equal,  the arithmetic mean and geometric mean are equal,  too. Otherwise,  the geometric mean is smaller. One quick way of getting the intuition which of the two means is lower is to think of the case in which the return in the last period is $-100 %$,  i.e.,  a total loss. In this case,  the geometric mean is always $-100 %$,  irrespective of what the returns are in the other periods before the last. In contrast,  the arithmetic mean can be well above $-100 %$.
+The geometric mean is always weakly smaller than the arithmetic mean. In the case where all returns in all periods are equal,  the arithmetic mean and geometric mean are equal,  too. Otherwise,  the geometric mean is smaller. One quick way of getting the intuition which of the two means is lower is to think of the case in which the return in the last period is $-100 \%$,  i.e.,  a total loss. In this case,  the geometric mean is always $-100 \%$,  irrespective of what the returns are in the other periods before the last. In contrast,  the arithmetic mean can be well above $-100 \%$.
 
-Many people intuitively think that,  therefore,  compounding the geometric mean should be the appropriate way to estimate the long-run expected returns because this approach "properly" reflects the effects of compounding on the long-run return. Their reasoning typically goes as follows: When an asset goes first up and then back down to the same price,  with a compounded two-period return of zero,  the percentage increase is bigger than the percentage decrease. But the arithmetic mean averages the increase and decrease and hence comes to a misleading result. For example,  with a sequence of two returns of $+50 %, -33.33 %$,  these two returns have arithmetic mean of $8.34 %$,  i.e.,  greater than zero,  but obviously this sequence leaves you with unchanged wealth at the end as $(1+0.50) \times(1-0.3333)-1 \approx 0$. So the arithmetic mean seems to overstate the expected long-run return?
+Many people intuitively think that,  therefore,  compounding the geometric mean should be the appropriate way to estimate the long-run expected returns because this approach "properly" reflects the effects of compounding on the long-run return. Their reasoning typically goes as follows: When an asset goes first up and then back down to the same price,  with a compounded two-period return of zero,  the percentage increase is bigger than the percentage decrease. But the arithmetic mean averages the increase and decrease and hence comes to a misleading result. For example,  with a sequence of two returns of $+50 %, -33.33 \%$,  these two returns have arithmetic mean of $8.34 \%$,  i.e.,  greater than zero,  but obviously this sequence leaves you with unchanged wealth at the end as $(1+0.50) \times(1-0.3333)-1 \approx 0$. So the arithmetic mean seems to overstate the expected long-run return?
 
-This thinking is a fallacy! Suppose that $+50 %, -33.33 %$ are the two only possible returns,  each with equal probability. There are two periods. So the "long-run" here is two periods,  and the "short-run" is one period. What are the possible outcomes for the factor by which wealth grows (or falls) over these two periods? There are four,  each with probability $\frac{1}{4}$ :
+This thinking is a fallacy! Suppose that $+50 %, -33.33 \%$ are the two only possible returns,  each with equal probability. There are two periods. So the "long-run" here is two periods,  and the "short-run" is one period. What are the possible outcomes for the factor by which wealth grows (or falls) over these two periods? There are four,  each with probability $\frac{1}{4}$ :
 
 $(1+0.50) \times(1+0.50)=2.25$
 
@@ -112,13 +112,13 @@ $(1-0.3333) \times(1+0.50)=1$
 
 $\cdot$ $(1-0.3333) \times(1-0.3333)=0.4445$
 
-Averaging across these four possible outcomes (as each has equal probability) we get an average of about 1.174 . This means the expected long-run return is $17.4 %$. What would one get if one takes an arithmetic mean or geometric mean from a long sample of returns in this world and then compounds this mean return?
+Averaging across these four possible outcomes (as each has equal probability) we get an average of about 1.174 . This means the expected long-run return is $17.4 \%$. What would one get if one takes an arithmetic mean or geometric mean from a long sample of returns in this world and then compounds this mean return?
 
-The arithmetic mean of a long sample of equally likely $+50 %, -33.33 %$ returns is $8.34 %$. Compounding this arithmetic mean of $8.34 %$ delivers $(1+0.0834)^{2}-1 \approx 0.174$,  which is the correct expected long-run return! In contrast,  the geometric mean is too pessimistic. The geometric mean of a long sample of equally likely $+50 %, -33.33 %$ returns is $0 %$. Compounding it yields $0 %$,  which is obviously not the correct answer.
+The arithmetic mean of a long sample of equally likely ${} +50 \%, -33.33 \%$ returns is $8.34 \%$. Compounding this arithmetic mean of $8.34 \%$ delivers $(1+0.0834)^{2}-1 \approx 0.174$,  which is the correct expected long-run return! In contrast,  the geometric mean is too pessimistic. The geometric mean of a long sample of equally likely ${} +50 \%, -33.33 \%$ returns is $0 \%$. Compounding it yields $0 \%$,  which is obviously not the correct answer.
 
-In some sense,  the geometric mean pays too much attention to the downside and not enough to the upside. More precisely,  it does not give enough consideration to the fact that going up twice in a row by $50 %$ produces a long-term return that leads to an overall gain in percentage terms ( $125 %$ ) that far exceeds the loss of going down twice by $33 %$ $(-55 %)$.
+In some sense,  the geometric mean pays too much attention to the downside and not enough to the upside. More precisely,  it does not give enough consideration to the fact that going up twice in a row by $50 \%$ produces a long-term return that leads to an overall gain in percentage terms ( $125 \%$ ) that far exceeds the loss of going down twice by $33 \%$ ${} (-55 \%)$.
 
-Similarly,  someone who focuses just on sequences in which the two possible realizations alternate,  as in the "typical reasoning" above,  i.e.,  $+50 %, -33.33 %$,  or $-33.33 %$ followed by $+50 %$ gets a geometric mean of
+Similarly,  someone who focuses just on sequences in which the two possible realizations alternate,  as in the "typical reasoning" above,  i.e.,  ${} +50 \%, -33.33 \%$,  or $-33.33 \%$ followed by $+50 \%$ gets a geometric mean of
 
 $$
 
@@ -130,7 +130,7 @@ $$
 
 $$
 
-Compounding this number again leads to an expected long-run return estimate that is too low. The two sequences of returns considered in this reasoning are the two out of four possible price sequences in which prices happen to be,  by chance,  strongly mean reverting. Each return is followed by a return of the opposite sign. But focusing only on these ignores that there can also be continuation sequences where returns are positive (or negative) twice in a row. And one of these continuation sequences has,  due to compounding,  a huge upside of $+125 %$ return.
+Compounding this number again leads to an expected long-run return estimate that is too low. The two sequences of returns considered in this reasoning are the two out of four possible price sequences in which prices happen to be,  by chance,  strongly mean reverting. Each return is followed by a return of the opposite sign. But focusing only on these ignores that there can also be continuation sequences where returns are positive (or negative) twice in a row. And one of these continuation sequences has,  due to compounding,  a huge upside of $+125 \%$ return.
 
 We can see this more generally if we assume IID log-normally distributed returns.
 
@@ -206,7 +206,7 @@ $$
 
 $$
 
-What if returns are not IID? For example,  what if the asset price is mean-reverting so that following a high return in period $t$,  the expected return for period $t+1$ is lower than following a low return in period $t$ ? In this case,  returns are negatively autocorrelated. We won't develop explicit general formulas for this case,  but we can get some intuition from our simple example above. Let's take the extreme case where prices are completely mean-reverting so that the two sequences with $+50 %, -33.33 %$ or $-33.33 %, +50 %$ are in fact the only possibilities,  each now with probability $\frac{1}{2}$. Wealth growth is zero over the two periods in each case. Hence,  the long-run expected return is now zero. The arithmetic mean of a long series of returns is still $8.34 %$ in this case,  so compounding the arithmetic mean now overstates the expected long-run returns. The geometric mean is zero and compounding it delivers the correct result of expected long-run return of zero.
+What if returns are not IID? For example,  what if the asset price is mean-reverting so that following a high return in period $t$,  the expected return for period $t+1$ is lower than following a low return in period $t$ ? In this case,  returns are negatively autocorrelated. We won't develop explicit general formulas for this case,  but we can get some intuition from our simple example above. Let's take the extreme case where prices are completely mean-reverting so that the two sequences with ${} +50 \%, -33.33 \%$ or ${} -33.33 \%, +50 \%$ are in fact the only possibilities,  each now with probability $\frac{1}{2}$. Wealth growth is zero over the two periods in each case. Hence,  the long-run expected return is now zero. The arithmetic mean of a long series of returns is still $8.34 \%$ in this case,  so compounding the arithmetic mean now overstates the expected long-run returns. The geometric mean is zero and compounding it delivers the correct result of expected long-run return of zero.
 
 In summary,  only in this extreme case of complete mean reversion where the price level does not change in the long run,  and prices always bounce up and down around the same long-run price level,  compounding the geometric mean delivers the correct estimate of the expected long-run return. In contrast,  in the IID case,  without any autocorrelation in returns,  compounding the arithmetic mean delivers the correct estimate.
 
@@ -232,11 +232,11 @@ Table 5.1: Estimation of expected long-run returns in the sentiment model
 
 |   |   |   | 1.24 | 1.24 |
 
-Table 5.1 shows the result. Let's focus first on the last column. It shows the results from the simulation for the case where sentiment is always zero. In this case,  there is no mean-reversion in prices and returns are IID. The expected return over a 10-year (40quarter) horizon in this case is $147 %$. As our analysis above suggested,  compounding the arithmetic mean of the simulated returns delivers exactly the same result: $147 %$. In contrast,  compounding the geometric mean of the simulated results yields an estimate of $124 %$ that is too low relative to the true expected 10-year return.
+Table 5.1 shows the result. Let's focus first on the last column. It shows the results from the simulation for the case where sentiment is always zero. In this case,  there is no mean-reversion in prices and returns are IID. The expected return over a 10-year (40quarter) horizon in this case is $147 \%$. As our analysis above suggested,  compounding the arithmetic mean of the simulated returns delivers exactly the same result: $147 \%$. In contrast,  compounding the geometric mean of the simulated results yields an estimate of $124 \%$ that is too low relative to the true expected 10-year return.
 
-To see the effects of extremely strong mean-reversion,  consider the first column where $\phi=0.15$ and hence sentiment has low persistence. In this (unrealistic) case,  compounding the arithmetic mean yields a wildly inaccurate estimate of $842 %$ compared with a true expected 10-year return of $157 %$. The compounded geometric mean in this case is again $124 %$ and so too low relative to the true expected 10 -year return,  but it's much closer than the compounded arithmetic mean.
+To see the effects of extremely strong mean-reversion,  consider the first column where $\phi=0.15$ and hence sentiment has low persistence. In this (unrealistic) case,  compounding the arithmetic mean yields a wildly inaccurate estimate of $842 \%$ compared with a true expected 10-year return of $157 \%$. The compounded geometric mean in this case is again $124 \%$ and so too low relative to the true expected 10 -year return,  but it's much closer than the compounded arithmetic mean.
 
-In the more realistic case of $\phi=0.95$ (which,  as we discussed in Lecture 3 produces a log price-dividend ratio that is roughly as persistent as the log price-dividend in empirical data),  the situation is very different. Now the compounded arithmetic mean of $167 %$ is closer to the true expected 10-year return of $157 %$ than the compounded geometric mean,  which is again $124 % .^{1}$
+In the more realistic case of $\phi=0.95$ (which,  as we discussed in Lecture 3 produces a log price-dividend ratio that is roughly as persistent as the log price-dividend in empirical data),  the situation is very different. Now the compounded arithmetic mean of $167 \%$ is closer to the true expected 10-year return of $157 \%$ than the compounded geometric mean,  which is again $124 \% .^{1}$
 
 Table 5.2 shows how this looks like in empirical data. I use quarterly returns on the CRSP value-weighted stock index from 1927 to 2022. The first row in the table
 
@@ -448,7 +448,7 @@ The approximation in (5.27) is exact if returns are log-normal even over infinit
 
 The further reality deviates from these conditions,  the bigger will be the approximation error. When returns are not extreme (e.g.,  no extremely large stock market crashes) and time-interval of between rebalancing points not too long (e.g.,  daily rather than multi-year intervals),  the approximation is quite accurate. But we do need to keep in mind what the conditions are under which the approximation could work poorly.
 
-Perhaps most important to keep in mind is that approximation errors in (5.27) can become particularly troublesome for levered portfolios. If one chooses a debt-financed levered portfolio,  with $\omega_{t}>1$,  and portfolio rebalancing is only possible at discrete time intervals (say,  once per month),  not continuously,  then there is a possibility that wealth could fall to zero (and without limited liability it would be negative). For example,  if an investor with $$ 1 \mathrm{~m}$ wealth has $$ 10 \mathrm{~m}$ invested in stocks financed with $$ 9 \mathrm{~m}$ of debt,  a return equal to or worse than $-10 %$ percent return would completely wipe out all wealth. The probability of this happening may be tiny,  but it is not zero. So what about the log return on our portfolio in this case of total wipeout where the simple return on the portfolio is $-100 %$ ? Well,  the log return does not even exist! In this case the log return would be $\log (1-1)=\log (0)$,  but $\log$ of zero is not defined,  nor is $\log$ of a negative number. So it's not even possible to calculate a log return when we have a total loss on the portfolio,  or when our wealth becomes negative.
+Perhaps most important to keep in mind is that approximation errors in (5.27) can become particularly troublesome for levered portfolios. If one chooses a debt-financed levered portfolio,  with $\omega_{t}>1$,  and portfolio rebalancing is only possible at discrete time intervals (say,  once per month),  not continuously,  then there is a possibility that wealth could fall to zero (and without limited liability it would be negative). For example,  if an investor with  1 $\mathrm{~m}$ wealth has  10 $\mathrm{~m}$ invested in stocks financed with 9 $\mathrm{~m}$ of debt,  a return equal to or worse than $-10 \%$ percent return would completely wipe out all wealth. The probability of this happening may be tiny,  but it is not zero. So what about the log return on our portfolio in this case of total wipeout where the simple return on the portfolio is $-100 \%$ ? Well,  the log return does not even exist! In this case the log return would be $\log (1-1)=\log (0)$,  but $\log$ of zero is not defined,  nor is $\log$ of a negative number. So it's not even possible to calculate a log return when we have a total loss on the portfolio,  or when our wealth becomes negative.
 
 Yet,  if we look at the approximation formula (5.27),  for $\omega_{t}=10$,
 
@@ -462,9 +462,9 @@ r_{p,  t+1} \approx r_{f}+10 \times\left(r_{t+1}-r_{f}\right)-45 \times \sigma^{
 
 $$
 
-[^23]we see that for a very low $r_{t+1}$ with a huge negative value,  the portfolio $\log$ return $r_{p,  t+1}$ can be very deep in negative territory. But,  no matter how deep in negative territory it is,  $\exp \left(r_{p,  t+1}\right)$ always greater than zero and hence the implied simple portfolio return $R_{p,  t+1}=\exp \left(r_{p,  t+1}\right)-1$ is always greater than $-100 %$. So,  based on the approximation formula,  one could falsely conclude that wealth can never fall to zero,  no matter how high leverage is and no matter how bad the return on our assets. But this an artifact of approximation error. The actual value of a leveraged portfolio can fall to zero (or below - at this point it is then a question whether limited liability protects the leveraged borrower).
+[^23]we see that for a very low $r_{t+1}$ with a huge negative value,  the portfolio $\log$ return $r_{p,  t+1}$ can be very deep in negative territory. But,  no matter how deep in negative territory it is,  $\exp \left(r_{p,  t+1}\right)$ always greater than zero and hence the implied simple portfolio return $R_{p,  t+1}=\exp \left(r_{p,  t+1}\right)-1$ is always greater than $-100 \%$. So,  based on the approximation formula,  one could falsely conclude that wealth can never fall to zero,  no matter how high leverage is and no matter how bad the return on our assets. But this an artifact of approximation error. The actual value of a leveraged portfolio can fall to zero (or below - at this point it is then a question whether limited liability protects the leveraged borrower).
 
-Of course,  if the investor rebalanced at extremely high frequency,  say every minute in this example,  then even in a month with $-10 %$ return,  the investor's wealth would not be wiped out unless this $-10 %$ return takes place in a single minute (which is extremely unlikely). If the negative return is instead due to many smaller increments of negative returns,  then frequent rebalancing would have already de-risked the portfolio after the first small loss before the second small loss hits,  and again it would have been rebalanced before the third small loss hits,  etc. So when we use this approximation formula for the log portfolio return,  we are implicitly assuming that the investor will be rebalancing the portfolio to always get back to $\omega_{t}$ at extremely high frequency.
+Of course,  if the investor rebalanced at extremely high frequency,  say every minute in this example,  then even in a month with $-10 \%$ return,  the investor's wealth would not be wiped out unless this $-10 \%$ return takes place in a single minute (which is extremely unlikely). If the negative return is instead due to many smaller increments of negative returns,  then frequent rebalancing would have already de-risked the portfolio after the first small loss before the second small loss hits,  and again it would have been rebalanced before the third small loss hits,  etc. So when we use this approximation formula for the log portfolio return,  we are implicitly assuming that the investor will be rebalancing the portfolio to always get back to $\omega_{t}$ at extremely high frequency.
 
 ### 5.2.2 Intractability of the dynamic portfolio problem
 
@@ -612,7 +612,7 @@ r_{t}=r_{f}+\mu+\sigma \varepsilon_{t},  \quad \varepsilon_{t} \sim \mathcal{N}(
 
 $$
 
-with the $\log$ risk-free rate set to a constant $r_{f}=0.02 / 250 ; \sigma=0.20 / \sqrt{250}$,  i.e.,  an annualized $\log$ stock index return volatility of $20 %$; and $\mu=0.02 / 250$,  i.e.,  an annualized equity premium over the risk-free rate of about $250 \times\left[\exp \left(\mu+\sigma^{2} / 2\right)-1\right]=4 %$.
+with the $\log$ risk-free rate set to a constant $r_{f}=0.02 / 250 ; \sigma=0.20 / \sqrt{250}$,  i.e.,  an annualized $\log$ stock index return volatility of $20 \%$; and $\mu=0.02 / 250$,  i.e.,  an annualized equity premium over the risk-free rate of about $250 \times\left[\exp \left(\mu+\sigma^{2} / 2\right)-1\right]=4 \%$.
 
 We then start the simulation with wealth $W_{0}=1$ invested into the stock index and risk-free asset according to the rule (5.36) for a given $\gamma$,  which gives us the same optimal share $\omega$ each period (since expected return and volatility are constant in these simulations). Then the portfolio earns a log return in the first period according to our log-linear approximation (5.27)
 
@@ -664,19 +664,16 @@ stayed ahead of the others most of the time until around day 40, 000,  it subseq
 
 Figure 5.1c shows that up to 1 million trading days ( 4, 000 years) the growth-optimal portfolio stays ahead of the others. Does this mean that we have found the point where it outperforms the others forever? Not clear. That it is ahead for so long is not a mathematical proof that we have found the point in time from which onwards it dominates forever. But even if it did,  what relevance does this have for a practical portfolio choice problem that it outperformed all the others,  finally,  after 400 years? And in other circumstances,  if the path of random shocks that generated the stock index returns is different,  it could take more longer,  say 1, 000 years? Or 10, 000?
 
-To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10, 000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our portfolio choice rule. We always start with $$ 1$ of wealth and then simulate 1, 000 return series with length of 10, 000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
+To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10, 000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our portfolio choice rule. We always start with 1$ of wealth and then simulate 1, 000 return series with length of 10, 000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
 
-Figure 5.2a shows the result. We can see that the growth-optimal portfolio with $\gamma=1$ does not clearly dominate other portfolios. It has less downside risk than the portfolio with $\gamma=0.5$. The latter portfolio is so risky that it frequently leads to large losses that bring the wealth at the end of our evaluation period close to zero. However,  as Figure 5.2 b shows,  which zooms in on the right tail of the distribution that is cut off in Figure 5.2 a ,  the riskiness of the $\gamma=0.5$ portfolio also brings substantially higher chances than the growth-optimal portfolio of an extremely large wealth gain. And it delivers a higher return on average,  as shown in the table below: on average,  wealth grows by $4695 %$ with $\gamma=0.5$ and only $1001 %$ with the growth-optimal portfolio strategy.
+Figure 5.2a shows the result. We can see that the growth-optimal portfolio with $\gamma=1$ does not clearly dominate other portfolios. It has less downside risk than the portfolio with $\gamma=0.5$. The latter portfolio is so risky that it frequently leads to large losses that bring the wealth at the end of our evaluation period close to zero. However,  as Figure 5.2 b shows,  which zooms in on the right tail of the distribution that is cut off in Figure 5.2 a ,  the riskiness of the $\gamma=0.5$ portfolio also brings substantially higher chances than the growth-optimal portfolio of an extremely large wealth gain. And it delivers a higher return on average,  as shown in the table below: on average,  wealth grows by $4695 \%$ with $\gamma=0.5$ and only $1001 \%$ with the growth-optimal portfolio strategy.
 
 Table 5.5: Simulations of portfolio risk and return over 40-year horizon
 
-|   | $\gamma=0.5$ | $\gamma=0.75$ | $\gamma=1$ | $\gamma=1.25$ | $\gamma=1.5$ | $\gamma=1.75$ | $\gamma=2$ |
-
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-| Mean | 46.95 | 17.53 | 10.01 | 7.02 | 5.49 | 4.57 | 3.97 |
-
-| S.D. | 348.37 | 57.38 | 20.18 | 10.35 | 6.47 | 4.55 | 3.44 |
+|      | $\gamma=0.5$ | $\gamma=0.75$ | $\gamma=1$ | $\gamma=1.25$ | $\gamma=1.5$ | $\gamma=1.75$ | $\gamma=2$ |
+| ---- | ------------ | ------------- | ---------- | ------------- | ------------ | ------------- | ---------- |
+| Mean | 46.95        | 17.53         | 10.01      | 7.02          | 5.49         | 4.57          | 3.97       |
+| S.D. | 348.37       | 57.38         | 20.18      | 10.35         | 6.47         | 4.55          | 3.44       |
 
 Which of these portfolio allocation policies,  and the probability distribution of wealth
 
@@ -838,7 +835,7 @@ In this case,  the optimal fixed weight is horizon dependent. A short-horizon in
 
 By the same token,  the optimal fixed-weight solution again underscores the absence of any "time-diversification" in the IID case. With IID returns we have $\operatorname{var}\left(r_{t: t+h}\right) / h=\sigma^{2}$ and hence the optimal portfolio share is independent of the investor's horizon.
 
-Table 5.6: Shortand long-horizon optimal fixed-weight portfolios in the sentiment model
+Table 5.6: Short and long-horizon optimal fixed-weight portfolios in the sentiment model
 
 |   | $\phi=0.15$ | $\phi=0.55$ | $\phi=0.95$ |
 
@@ -866,11 +863,11 @@ Unfortunately,  the returns on such a portfolio over,  say,  a 10-year horizon a
 
 Many institutional investors follow variants of the fixed-weight strategy that we discussed in the previous section. Many balanced funds,  for example,  follow a strict policy of regularly rebalancing to fixed weights. Vanguard Balanced Index Fund describes its investment policy as follows:
 
-With $60 %$ of its assets,  the fund seeks to track the investment performance of the CRSP US Total Market Index,  which represents nearly 100% of the investable U.S. Stock market covering large-,  mid-,  small-,  and micro-cap stocks regularly traded on the New York Stock Exchange and NASDAQ. The fund typically holds the largest 1, 200-1, 300 stocks in the CRSP US Total Market Index and a representative sample of the remainder of the index […]. With $40 %$ of its assets,  the fund seeks to track the investment performance of the Bloomberg U.S. Aggregate Float Adjusted Bond Index …
+With $60 \%$ of its assets,  the fund seeks to track the investment performance of the CRSP US Total Market Index,  which represents nearly 100\% of the investable U.S. Stock market covering large-,  mid-,  small-,  and micro-cap stocks regularly traded on the New York Stock Exchange and NASDAQ. The fund typically holds the largest 1, 200-1, 300 stocks in the CRSP US Total Market Index and a representative sample of the remainder of the index […]. With $40 \%$ of its assets,  the fund seeks to track the investment performance of the Bloomberg U.S. Aggregate Float Adjusted Bond Index …
 
 Target date funds,  which have become ubiquitous as a retirement investment vehicle in $401(\mathrm{k})$ and other retirement accounts,  have target allocations that follow a preset glide path toward the funds target date (usually lower allocations to equity over time). These funds also regularly rebalance their portfolio weights to set them equal to the target glide path weights. These weights are not literally fixed,  but they vary only according to a deterministic schedule as a function of the investor's age. In this sense,  they also resemble the fixed-weight strategy we analyzed in this section. There is no uncertainty about future weights.
 
-Endowments and pension funds typically set a strategic asset allocation policy that specifies weights for different asset classes with a range around the target. This is like approximately fixed weights with some flexibility. Figure 5.3 shows an example from CalPERS. While the "income" (fixed income) portion of their portfolio is 1.6 percentage points above the target of $28 %$,  this deviation is still well within the range of $+/-6$ percentage points allowed by their policy. Portfolio managers can,  but don't have to rebalance yet toward the target. It becomes an active choice.
+Endowments and pension funds typically set a strategic asset allocation policy that specifies weights for different asset classes with a range around the target. This is like approximately fixed weights with some flexibility. Figure 5.3 shows an example from CalPERS. While the "income" (fixed income) portion of their portfolio is 1.6 percentage points above the target of $28 \%$,  this deviation is still well within the range of $+/-6$ percentage points allowed by their policy. Portfolio managers can,  but don't have to rebalance yet toward the target. It becomes an active choice.
 
 So what are we effectively doing if we rebalance frequently toward a fixed target allocation? Rebalancing requires selling assets that have appreciated (hence their portfolio weight has increased) and buying assets that have fallen in value. So we are effectively following a contrarian strategy.
 
@@ -884,29 +881,29 @@ Public Employees' Retirement Fund (PERF) As of September 30,  2021
 
 |   | Ending <br> Asset <br> Value (bil) | Current Allocation (%) | Policy Target Weight (%) | Policy Variance <br> (%) | Policy Range |
 
-| Public Equity ${ }^{1}$ | $ 241.1 | 50.2% | 50.0% | 0.2% | $\pm 7 %$ |
+| Public Equity ${ }^{1}$ | $ 241.1 | 50.2\% | 50.0\% | 0.2\% | $\pm 7 \%$ |
 
-| Private Equity ${ }^{2}$ | $ 44.0 | 9.2% | 8.0% | 1.2% | $\pm 4 %$ |
+| Private Equity ${ }^{2}$ | $ 44.0 | 9.2\% | 8.0\% | 1.2\% | $\pm 4 \%$ |
 
-| Income ${ }^{1}$ | $ 142.0 | 29.6% | 28.0% | 1.6% | $\pm 6 %$ |
+| Income ${ }^{1}$ | $ 142.0 | 29.6\% | 28.0\% | 1.6\% | $\pm 6 \%$ |
 
-| Real Assets ${ }^{2}$ | $ 48.5 | 10.1% | 13.0% | (2.9%) | $\pm 5 %$ |
+| Real Assets ${ }^{2}$ | $ 48.5 | 10.1\% | 13.0\% | (2.9%) | $\pm 5 \%$ |
 
-| Total Fund | $ 11.2 | 2.3% |   |   |   |
+| Total Fund | $ 11.2 | 2.3\% |   |   |   |
 
-| Opportunistic ${ }^{2}$ | $ 3.2 | 0.7% |   |   |   |
+| Opportunistic ${ }^{2}$ | $ 3.2 | 0.7\% |   |   |   |
 
-| LLER $^{3}$ | $ 7.8 | 1.6% |   |   |   |
+| LLER $^{3}$ | $ 7.8 | 1.6\% |   |   |   |
 
-| Other | $ 0.2 | 0.0% |   |   |   |
+| Other | $ 0.2 | 0.0\% |   |   |   |
 
 | Financing & Liquidity | $ (7.0) | (1.5%) |   |   |   |
 
 | Trust Level Financing ${ }^{4}$ | $ (14.8) | (3.1%) |   |   |   |
 
-| Liquidity ${ }^{4}$ | $ 7.8 | $1.6 %$ | $1.0 %$ | $0.6 %$ | $-6 %$ to $+3 %$ |
+| Liquidity ${ }^{4}$ | $ 7.8 | $1.6 \%$ | $1.0 \%$ | $0.6 \%$ | $-6 \%$ to $+3 \%$ |
 
-| Total PERF | $ 479.8 | 100.0% | 100.0% |   |   |
+| Total PERF | $ 479.8 | 100.0\% | 100.0\% |   |   |
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-180.jpg?height=524&width=527&top_left_y=540&top_left_x=1189)
 
@@ -1052,7 +1049,7 @@ Let's do a simple empirical calculation of the returns that we would have earned
 
 The table looks at three strategies:
 
-a fixed-weight strategy with $60 %$ in stocks,  $40 %$ in bonds,  rebalanced at the end of every quarter
+a fixed-weight strategy with $60 \%$ in stocks,  $40 \%$ in bonds,  rebalanced at the end of every quarter
 
 an adaptive allocation strategy using the weights show in Figure 5.4
 
@@ -1064,7 +1061,7 @@ Panel A looks at mean,  standard deviation,  and Sharpe ratio of quarterly retur
 
 average exposure to stocks. If returns were IID,  as we have assumed in our theoretical analyses so far,  this should not be the case. Part of this worse performance is due to a somewhat lower average excess return. This is consistent with the evidence we discussed that high stock market valuation levels have historically been followed by relatively poor returns on stocks. The contrarian market-timing of the fixed-weight strategy provides a little performance boost relative to the passive adaptive asset allocation strategy.
 
-Panel B takes the perspective of a long-term investor and evaluates outcomes of the three strategies at a 10-year investment horizon ( $h=40$ quarters). With long-term returns,  we should not simply take means and standard deviations of simple long-term returns to calculate a Sharpe ratio. For the Sharpe ratio to be a good summary of the risk-return profile of an asset or portfolio,  the distribution of the returns should not be too far from normal. However,  long-term simple returns are strongly positively skewed (since they have downside bounded at $-100 %$,  but unlimited upside) and hence variance of long-term simple returns is not a good risk measure. But an examination of the optimal fixed-weight formula (5.48) gives us a hint how we could address the issue. Under the log-normal distribution,  the numerator in that formula is the log expected simple long-run excess return and the formula relates it to the variance of the long-run log return in the denominator. In the same way,  we can construct a long-run Sharpe ratio with good properties for log-normally distributed returns as follows:
+Panel B takes the perspective of a long-term investor and evaluates outcomes of the three strategies at a 10-year investment horizon ( $h=40$ quarters). With long-term returns,  we should not simply take means and standard deviations of simple long-term returns to calculate a Sharpe ratio. For the Sharpe ratio to be a good summary of the risk-return profile of an asset or portfolio,  the distribution of the returns should not be too far from normal. However,  long-term simple returns are strongly positively skewed (since they have downside bounded at $-100 \%$,  but unlimited upside) and hence variance of long-term simple returns is not a good risk measure. But an examination of the optimal fixed-weight formula (5.48) gives us a hint how we could address the issue. Under the log-normal distribution,  the numerator in that formula is the log expected simple long-run excess return and the formula relates it to the variance of the long-run log return in the denominator. In the same way,  we can construct a long-run Sharpe ratio with good properties for log-normally distributed returns as follows:
 
 $$
 
@@ -1116,11 +1113,11 @@ An alternative fixed-weight strategy that sets the weight to the long-run averag
 
 Figure 5.5: Equity share of market-timing portfolio (first 100 observations from simulation,  $\phi=0.95$ )
 
-Figure 5.5 illustrates how the weights of these strategies look like with a cut of 100 quarters from one simulation run with $\phi=0.95$. With $\gamma=5$,  the myopic market-timing strategy invests on average about $56 %$ of the portfolio in the stock market. This is the fixed weight for the third strategy in the list above. The myopic market-timing strategy has weights that vary around this level from around zero to occasionally above one. Periods when the weight is low are periods when the conditional expected excess return on the stock market is low; periods when the weight is high are periods when the conditional expected excess return is high. When the weight is below zero,  this means
+Figure 5.5 illustrates how the weights of these strategies look like with a cut of 100 quarters from one simulation run with $\phi=0.95$. With $\gamma=5$,  the myopic market-timing strategy invests on average about $56 \%$ of the portfolio in the stock market. This is the fixed weight for the third strategy in the list above. The myopic market-timing strategy has weights that vary around this level from around zero to occasionally above one. Periods when the weight is low are periods when the conditional expected excess return on the stock market is low; periods when the weight is high are periods when the conditional expected excess return is high. When the weight is below zero,  this means
 
 that the strategy takes a short position in the stock market; when it's above one,  the strategy takes a leveraged position in the stock market financed by borrowing at the risk-free rate.
 
-The optimal fixed-weight strategy has a risky asset weight of around $68 %$,  which is substantially higher than the average weight of the myopic market-timing strategy. This reflects the fact that the optimal fixed-weight strategy takes into account the long-term variance-reducing effect of mean-reversion. This makes a stock market investment look more attractive,  hence the higher weight.
+The optimal fixed-weight strategy has a risky asset weight of around $68 \%$,  which is substantially higher than the average weight of the myopic market-timing strategy. This reflects the fact that the optimal fixed-weight strategy takes into account the long-term variance-reducing effect of mean-reversion. This makes a stock market investment look more attractive,  hence the higher weight.
 
 Table 5.8 shows the expected utility from the three strategies for a long-term investor with a 10-year (40-quarter) horizon. For this investor,  expected utility is then given by
 

@@ -1,8 +1,8 @@
 ---
-title: Lecture 4
+title: Lecture 4Investor Sentiment
 ---
 
-# Lecture 4- Investor Sentiment
+# Lecture 4Investor Sentiment
 
 In the last lecture we discussed that the aggregate valuation of the stock market,  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying investor sentiment could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.
 
@@ -30,7 +30,7 @@ $$
 
 \begin{equation*}
 
-v_{t}=\frac{1}{1-\rho}(c+g-\theta),  \tag{4.2}
+v_{t}=\frac{1}{1-\rho}(c+g-\theta),   \tag{4.2}
 
 \end{equation*}
 
@@ -150,7 +150,7 @@ There are techniques for adjusting standard errors and $t$-statistics for autoco
 
 | Intercept | Slope     | adj. $R^{2}$ |
 | --------- | --------- | ------------ |
-| 0.23      | -1.67     | $18 \%$      |
+| 0.23      | -1.67     | $18 \\%$      |
 | $(3.01)$  | $(-2.03)$ |              |
 
 with absolute value bigger than 1.96 suggests that the negative relation between analyst long-term real growth forecasts and future real returns is unlikely to be due to chance. But it's not far away from 1.96,  so there is still substantial statistical uncertainty about the magnitude of the effect. The coefficient estimate of -1.67 suggests a large effect: A one percentage point higher expectation of annualized long-term real growth is associated with 1.67 percentage points lower annualized excess returns over the next five years.
@@ -237,7 +237,7 @@ Figure 4.6: Experienced real payout growth and subsequent 5-year log excess retu
 
 a series of the negative of subsequent 5 -year excess returns. This means that in every quarter $t$,  the figure shows the experienced payout growth series that uses data up to quarter $t$ and then the negative of the average excess returns during the subsequent quarters $t+1$ to $t+20$. I take the negative of these future average excess returns because high experienced payout growth should mean positive sentiment and hence low future returns. If I take the negative of the future returns,  the series should then be positively correlated (which is visually easier to see than a negative correlation). As the figure shows,  the two series are quite highly positively correlated. Hence,  high experienced payout growth forecasts low future excess returns.
 
-Let's also check whether we can forecast next quarter's stock market returns with the experienced payout growth series. Table 4.2 reruns the same regressions that we ran in the last lecture,  but now with experienced payout growth instead of $\log P / D$ as the predictor of $t+1$ returns. The slope coefficient $b$ captures the strength of the predictive relationship. As the table shows,  compared with the $\log P / D$ regressions from the last lecture,  the predictive relationship is actually a little stronger than for the log $P / D$ ratio: the $t$ -statistics are a little higher and the $R^{2}$ are somewhat higher as well. Focusing on the regressions with excess returns as dependent variable in Panel C,  a one standard deviation rise in experienced payout growth,  which is 0.33 percentage points,  is associated with next quarter excess returns being lower by $-5.967 \times 0.33=1.97$ 
+Let's also check whether we can forecast next quarter's stock market returns with the experienced payout growth series. Table 4.2 reruns the same regressions that we ran in the last lecture,  but now with experienced payout growth instead of $\log P / D$ as the predictor of $t+1$ returns. The slope coefficient $b$ captures the strength of the predictive relationship. As the table shows,  compared with the $\log P / D$ regressions from the last lecture,  the predictive relationship is actually a little stronger than for the log $P / D$ ratio: the $t$ -statistics are a little higher and the $R^{2}$ are somewhat higher as well. Focusing on the regressions with excess returns as dependent variable in Panel C,  a one standard deviation rise in experienced payout growth,  which is 0.33 percentage points,  is associated with next quarter excess returns being lower by $-5.967 \times 0.33=1.97$
 
 Table 4.2: Predictive regressions of one-quarter-ahead returns on experienced dividend growth,  1927-2021
 
@@ -253,7 +253,6 @@ Table 4.2: Predictive regressions of one-quarter-ahead returns on experienced di
 | Estimates               | 0.067       | $-5.967$   | 0.028   |
 | $t$-statistic           | $(4.632)$   | $(-3.448)$ |         |
 
-
 Overall,  these results are broadly in line with the notion that investor sentiment about future cash flow growth becomes more positive when investors have experienced a string of several years of high real payout growth.
 
 ### 4.3 Fund flows as sentiment indicator
@@ -268,7 +267,7 @@ Figure 4.7: Assets of U.S. mutual funds and ETFs
 
 opposite direction. But it would be rather surprising if there was no price impact of retail investor demand. Retail investor flows in and out of the market,  including flows through mutual funds and ETFs,  are not trivial relative to the overall market capitalization of the stock market. There is little reason to think that professional investors would perfectly accommodate these demands by altering their portfolios without demanding price concessions,  i.e.,  without retail investor flows having some price impact. ${ }^{7}$
 
-Data on total aggregate retail investor stock holdings is not available. For this reason,  I focus here on retail investor flows in and out of mutual funds (MF) and exchange-traded funds (ETF). To get a sense of the magnitudes of retail investor holdings through these intermediated channels,  Figure 4.7 shows the time-series of aggregate assets of U.S. MF and ETF from the U.S. Financial Accounts. For comparison,  I also plot the aggregate market capitalization of all stocks listed in the U.S. In the fourth quarter of 2021,  mutual funds held close to  30\$ trillion in assets,  and this was about half of the total stock market capitalization of  60\$ trillion.
+Data on total aggregate retail investor stock holdings is not available. For this reason,  I focus here on retail investor flows in and out of mutual funds (MF) and exchange-traded funds (ETF). To get a sense of the magnitudes of retail investor holdings through these intermediated channels,  Figure 4.7 shows the time-series of aggregate assets of U.S. MF and ETF from the U.S. Financial Accounts. For comparison,  I also plot the aggregate market capitalization of all stocks listed in the U.S. In the fourth quarter of 2021,  mutual funds held close to 30\$ trillion in assets,  and this was about half of the total stock market capitalization of 60\$ trillion.
 
 Not all of the mutual funds included in these aggregate statistics in this figure are
 
@@ -298,17 +297,17 @@ Table 4.3: Relation of equity mutual fund and ETF flows to price-dividend ratio 
 
 | --- | --- | --- | --- | --- |
 
-| $(1)$ | -0.68 | 0.22 |   | $25 %$ |
+| $(1)$ | -0.68 | 0.22 |   | $25 \%$ |
 
 |   | $(-4.73)$ | $(4.83)$ |   |   |
 
-| $(2)$ | -0.60 | 0.19 | 0.14 | $29 %$ |
+| $(2)$ | -0.60 | 0.19 | 0.14 | $29 \%$ |
 
 |   | $(-4.76)$ | $(4.75)$ | $(2.26)$ |   |
 
 Table 4.3 presents some statistical tests of the relationship between flows,  $\log P / D$,  and lagged 12-month returns. The table shows the results of a regression of monthly flows (in percent) on the $\log P / D$ at the end of the previous month and stock market returns during the previous 12 months. Since flows are strongly autocorrelated,  I adjust the $t$-statistics for autocorrelation. ${ }^{9}$.
 
-The results confirm the impression from the figures. Both the $\log P / D$ ratio and lagged returns are positively related to equity MF and ETF flows. For example,  the second regression with both $\log P / D$ ratio and lagged returns as explanatory variables shows that a 10 percentage point higher past return over the past 12 months (less than one standard deviation) is associated with about $10 \times 0.14=1.4$ percentage points (of aggregate stock market cap) higher equity fund inflow in the next month (which is a bit more than one standard deviations of the monthly flows). The $R^{2}$ of ${} 29 \%$ shows that log $P / D$ and lagged past returns together explain a substantial portion of monthly flows.
+The results confirm the impression from the figures. Both the $\log P / D$ ratio and lagged returns are positively related to equity MF and ETF flows. For example,  the second regression with both $\log P / D$ ratio and lagged returns as explanatory variables shows that a 10 percentage point higher past return over the past 12 months (less than one standard deviation) is associated with about $10 \times 0.14=1.4$ percentage points (of aggregate stock market cap) higher equity fund inflow in the next month (which is a bit more than one standard deviations of the monthly flows). The $R^{2}$ of ${} 29 \\%$ shows that log $P / D$ and lagged past returns together explain a substantial portion of monthly flows.
 
 Broadly,  these facts are consistent with (although not proof of) the view that retail investor sentiment plays a role in driving the cycles in valuation levels that we see in valuation ratios like the $P / D$ ratio.
 
@@ -352,7 +351,7 @@ Another approach to measuring sentiment is to extract it from textual informatio
 
 The recent breakthroughs in artificial intelligence with large language models (LLM) such as those underlying Open AI's ChatGPT open up opportunities to push these sorts
 
-```
+```latex
 Here is a piece of news:
 "%s"
 Do you think this news will increase or decrease %s?
@@ -383,8 +382,6 @@ Figure 4.12: Economic sentiment measure extracted from archived New York Times a
 
 Source: Bybee,  J.L.,  2023,  The Ghost in the Machine: Generating Beliefs with Large Language Models,  working paper,  Yale School of Management.
 
-
-
 This example of sentiment extraction using LLMs is surely just a first cut of what can be done in relatively simple ways by using publicly available pre-trained versions of LLMs. A lot of new advances seem likely in this area in the coming years.
 
 ### 4.4 Bubbly assets
@@ -392,7 +389,6 @@ This example of sentiment extraction using LLMs is surely just a first cut of wh
 Occasionally assets trade at prices that seem far removed from any notion of fundamental value. Meme stocks like GameStop and AMC may fall into this category. In early 2021,  prices for these stocks exploded. See Figure 4.13. Previously almost worthless stocks became stocks with huge multi-billion dollar market capitalization.
 
 The notion of sentiment we have considered so far - expectations about cash flows,  and,  possibly,  time-varying risk aversion and risk perceptions - may not help much to explain why valuations of these stocks reached stratospheric levels. We now consider the possibility that investors may be willing to pay a high price for an asset today even if they are not convinced,  based on their own beliefs,  that cash flow expectations can justify this high price. Instead,  investors' motivation for paying a high price in these situations may be that they expect that they can resell the asset to an investor in the future who is willing to pay an even higher price. We will explore how we can modify our valuation models to capture such cases.
-
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-140.jpg?height=521&width=1326&top_left_y=626&top_left_x=345)
 
@@ -403,8 +399,6 @@ Market Summary > AMC Entertainment Holdings Inc
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-140.jpg?height=857&width=1353&top_left_y=1363&top_left_x=337)
 
 Figure 4.13: Prices of meme stocks
-
-
 
 Recall (3.18) from last lecture:
 
@@ -418,7 +412,7 @@ v_{t}=c+\Delta d_{t+1}-r_{t+1}+\rho v_{t+1} \tag{4.9}
 
 $$
 
-Iterating forward on this equation,  imposing the transversality condition $\lim _{T \rightarrow \infty} \rho^{T+1} v_{T+1}=$ 0 and taking time- $t$ conditional expectations gave us the present-value relation (4.1). Assuming additionally that investors price the asset to earn,  in expectation,  a constant required rate of return $\theta, (4.1)$ becomes
+Iterating forward on this equation,  imposing the transversality condition $\lim _{T \rightarrow \infty} \rho^{T+1} v_{T+1}=$ 0 and taking time- $t$ conditional expectations gave us the present-value relation (4.1). Assuming additionally that investors price the asset to earn,  in expectation,  a constant required rate of return $\theta,  (4.1)$ becomes
 
 $$
 
@@ -504,7 +498,7 @@ The value that $A$ investors would be willing to pay at $t$ if they knew that in
 
 If this is what's going on,  if investors are betting on resale to "greater fools" in the future,  then we should not see investors holding on to assets for a long time. They should resell once new optimists have entered the market and the price has moved up. Trading volume therefore should be high in such situations.
 
-Figure 4.14 shows that this is what happened when the stock price of GameStop took off in early 2021. Trading volume was incredibly high. Around the price peak on January 22,  2021,  almost 200 million shares changed hands in a single day. This was about three times the total number of shares outstanding of GameStop at the time! So each existing share of GameStop changed hands several times per day,  on average! The total dollar amount of shares traded on January 22,  2021 was about $13bn. For comparison,  less than $1 %$ of outstanding Apple shares changed hands on the same day (and somewhat less than $1 %$ per day is a typical number for liquid stocks). And these numbers are still missing a big part of the trading activity,  because there was also frantic trading going on in GameStop options,  not only in the stock.
+Figure 4.14 shows that this is what happened when the stock price of GameStop took off in early 2021. Trading volume was incredibly high. Around the price peak on January 22,  2021,  almost 200 million shares changed hands in a single day. This was about three times the total number of shares outstanding of GameStop at the time! So each existing share of GameStop changed hands several times per day,  on average! The total dollar amount of shares traded on January 22,  2021 was about $13bn. For comparison,   less than $1 \%$ of outstanding Apple shares changed hands on the same day (and somewhat less than $1 \%$ per day is a typical number for liquid stocks). And these numbers are still missing a big part of the trading activity,  because there was also frantic trading going on in GameStop options,  not only in the stock.
 
 GameStop is an extreme case,  but similar dynamics may be at work at other times in other assets. Links between speculative trading based on short-term capital gain expectations and trading volume appear in historical accounts of asset price bubbles throughout the centuries. ${ }^{11}$ The New York Stock Exchange set a trading volume records
 
@@ -514,7 +508,7 @@ Figure 4.14: GameStop trading volume
 
 during the stock price boom in 1928 and 1929 before the "Black Thursday" stock market crash of October 24,  1929. ${ }^{12}$
 
-Figure 4.15 shows on prices and volume from the internet stock bubble in the late 1990s. Trading volume in this figure is show in terms of monthly turnover,  which is the number of shares traded in a month divided by the number of shares outstanding. In the years after the internet appeared in the 1990s,  hundreds of newly listed internet stocks appeared in US stock markets. As the figure shows,  trading volume in these stocks was elevated throughout 1998 and 1999 and it reached a peak of more than $100 %$ turnover per month. This is far less than what we saw above for GameStop,  but it's still extreme relative to the typical non-internet stock which has a turnover of less than $20 %$ per month.
+Figure 4.15 shows on prices and volume from the internet stock bubble in the late 1990s. Trading volume in this figure is show in terms of monthly turnover,  which is the number of shares traded in a month divided by the number of shares outstanding. In the years after the internet appeared in the 1990s,  hundreds of newly listed internet stocks appeared in US stock markets. As the figure shows,  trading volume in these stocks was elevated throughout 1998 and 1999 and it reached a peak of more than $100 \%$ turnover per month. This is far less than what we saw above for GameStop,  but it's still extreme relative to the typical non-internet stock which has a turnover of less than $20 \%$ per month.
 
 What drives investors' beliefs that future resale to an optimistic investor may be possible? Some possibilities:
 
@@ -532,7 +526,7 @@ returns may forecast higher future asset demand of optimistic investors. In our 
 
 Entry of new investors: If recent high returns,  or media attention to an asset,  predictably draw in new investors - perhaps due to "fear of missing out" (FOMO)this may be a predictable source of higher asset demand in the future.
 
-Short sellers throw in the towel: Price rises generate losses for short sellers betting against an asset's price rise,  which can in turn generate liquidity problems for these short sellers. These problems may force them to liquidate their short positions. Figure 4.16 shows that this happened in dramatic fashion in the case of GameStop. Before January 2021,  short interest (i.e.,  how many shares were shorted by short sellers) was very high,  close to $100 %$ of shares outstanding. But when the price exploded in January 2021,  short interest collapsed as short sellers closed their positions by buying back shares. This further exacerbated the price rise,  because to close a short position,  they have to buy back the shares that they sold short earlier. ${ }^{13}$
+Short sellers throw in the towel: Price rises generate losses for short sellers betting against an asset's price rise,  which can in turn generate liquidity problems for these short sellers. These problems may force them to liquidate their short positions. Figure 4.16 shows that this happened in dramatic fashion in the case of GameStop. Before January 2021,  short interest (i.e.,  how many shares were shorted by short sellers) was very high,  close to $100 \%$ of shares outstanding. But when the price exploded in January 2021,  short interest collapsed as short sellers closed their positions by buying back shares. This further exacerbated the price rise,  because to close a short position,  they have to buy back the shares that they sold short earlier. ${ }^{13}$
 
 [^19]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-146.jpg?height=809&width=1359&top_left_y=341&top_left_x=318)
 
@@ -548,7 +542,7 @@ So far we focused on a type of asset price bubble where expectations of some inv
 
 In some cases,  though,  investors are willing to pay substantial prices for assets where
 
-long positions for a fee. They then sell these borrowed shares,  in the hope of purchasing back the shares later at a lower price and returning them to the investors they borrowed the shares from. This effectively raises the supply of shares available for long positions. In the case GameStop,  the $80 %$ short interest prior to January 2021 effectively almost doubled the supply of shares that long investors had to hold.
+long positions for a fee. They then sell these borrowed shares,  in the hope of purchasing back the shares later at a lower price and returning them to the investors they borrowed the shares from. This effectively raises the supply of shares available for long positions. In the case GameStop,  the $80 \%$ short interest prior to January 2021 effectively almost doubled the supply of shares that long investors had to hold.
 
 there may be no prospect at all of any cash flow from the asset. Cryptocurrencies are one recent example. For example,  bitcoin does not pay any dividends and it will never pay any dividends. Yet people are willing to pay thousands of dollars for one bitcoin.
 
