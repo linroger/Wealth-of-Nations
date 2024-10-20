@@ -1,8 +1,8 @@
 ---
-title: Lecture 1
+title: Lecture 1Probability Distributions of Returns
 ---
 
-# Lecture 1
+# Lecture 1Probability Distributions of Returns
 ## Advanced Investments Lecture 1
 
 Investment decisions can be broken down into
@@ -14,7 +14,7 @@ In this course,  we focus mostly on macro decisions. The asset allocation decisi
 
 We will spend a good portion of the time in this course on learning how we can assess properties of risk and return of different asset classes. Knowing these risk-return properties,  and their economic drivers,  is a prerequisite for implementing optimal portfolio choice models.
 
-We use $R_{t}$ to denote returns of an asset in period $t$. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the $t$ subscript. An $N \times 1$ vector of returns on $N$ assets in period $t$ is denoted with $\boldsymbol{r}_{t}=\left(R_{1,   t},   R_{2,   t},   \ldots,   R_{N,   t}\right)^{\prime}$. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
+We use $R_{t}$ to denote returns of an asset in period $t$. Sometimes when it's clear that we are looking at returns over one period (and not,  say,  a time-series of returns) I may omit the $t$ subscript. An $N \times 1$ vector of returns on $N$ assets in period $t$ is denoted with $\boldsymbol{r}_{t}=\left(R_{1,     t},     R_{2,     t},     \ldots,     R_{N,     t}\right)^{\prime}$. More generally,  lowercase bold is my notation for vectors; uppercase bold for matrices.
 
 ### 1.1 Probability distributions of returns
 
@@ -26,7 +26,7 @@ $$
 
 \begin{equation*}
 
-R_{t} \sim \mathcal{N}\left(\mu,   \sigma^{2}\right) \tag{1.1}
+R_{t} \sim \mathcal{N}\left(\mu,     \sigma^{2}\right) \tag{1.1}
 
 \end{equation*}
 
@@ -50,7 +50,7 @@ But one thing at a a time. For now,  we are going to stick to the assumption tha
 
 The IID assumption is a useful approximation to get us started,  but this is not to say that this is entirely the right perspective. We will later spend a considerable amount of time precisely on the empirical evidence that returns are not IID. But for now,  to discuss basic properties of risk and return,  it makes sense conceptually to leave the issue of dynamically changing probability distributions for the next step of our analysis.
 
-Since we are dealing with IID returns,  we reduce notational clutter by dropping the time-subscripts and just write $\mathbb{E}[R],   \operatorname{var}(R)$,  and so on.
+Since we are dealing with IID returns,  we reduce notational clutter by dropping the time-subscripts and just write $\mathbb{E}[R],     \operatorname{var}(R)$,  and so on.
 
 ### 1.2 What is risk?
 
@@ -82,7 +82,7 @@ $$
 
 \begin{equation*}
 
-\hat{\sigma}^{2}=\frac{1}{T-1} \sum_{t=1}^{T}\left(R_{t}-\bar{R}\right)^{2},   \quad \bar{R}=\frac{1}{T} \sum_{t=1}^{T} R_{t} \tag{1.3}
+\hat{\sigma}^{2}=\frac{1}{T-1} \sum_{t=1}^{T}\left(R_{t}-\bar{R}\right)^{2},     \quad \bar{R}=\frac{1}{T} \sum_{t=1}^{T} R_{t} \tag{1.3}
 
 \end{equation*}
 
@@ -140,9 +140,9 @@ That asset (B) is better for a risk averse investor is not obvious at all. For e
 
 Generally,  there are certainly reasons for variance not being a perfect measure of risk,  but the idea that semi-variance is typically a better criterion is a fallacy.
 
-Consider the following example. Suppose asset $A$ has a price of $$ 0.80$ and in the following period delivers payoffs $$ 1.50$ or $$ 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $$ 0.80$ and a low payoff of $$ 0.50$ with $p=\frac{1}{2}$,   but the higher payoff is split into two: $$ 2.00$ with probability $p=\frac{1}{4}$ and $$ 1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
+Consider the following example. Suppose asset $A$ has a price of $$ 0.80$ and in the following period delivers payoffs $$ 1.50$ or $$ 0.50$ each with probability $p=\frac{1}{2}$ (see Figure 1.4a). Asset $B$ also has a price of $$ 0.80$ and a low payoff of $$ 0.50$ with $p=\frac{1}{2}$,     but the higher payoff is split into two: $$ 2.00$ with probability $p=\frac{1}{4}$ and $$ 1.00$ also with $p=\frac{1}{4}$ (see Figure 1.4b).
 
-Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 \%$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $$ 1$. In contrast,   $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $$ 2.00$ that is far above the expected payoff.
+Note that both assets have the same expected return $\mathbb{E}\left[R_{A}\right]=E\left[R_{B}\right]=25 \%$. But the risks are different. Asset $A$ 's payoffs are symmetric around the expected payoff of $$ 1$. In contrast,     $B$ 's payoff has positive skewness. There is a chance of a positive payoff of $$ 2.00$ that is far above the expected payoff.
 
 What do variance and semi-variance tell us? Variances are
 
@@ -254,7 +254,7 @@ $$
 
 \begin{equation*}
 
-U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},   \quad U^{\prime}(W)=W^{-\gamma} \tag{1.9}
+U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},     \quad U^{\prime}(W)=W^{-\gamma} \tag{1.9}
 
 \end{equation*}
 
@@ -464,7 +464,7 @@ $$
 
 [^4]![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-024.jpg?height=980&width=1186&top_left_y=296&top_left_x=426)
 
-Figure 1.11: Actual marginal utility and first-order approximation (power utility with $\gamma=5,   W_{0}=1 ; \omega=0.5$ ). Risky asset return on $x$-axis shown in excess of $\mathbb{E}[R]$
+Figure 1.11: Actual marginal utility and first-order approximation (power utility with $\gamma=5,     W_{0}=1 ; \omega=0.5$ ). Risky asset return on $x$-axis shown in excess of $\mathbb{E}[R]$
 
 which we can solve for the optimal risky asset share
 
@@ -602,7 +602,7 @@ $$
 
 \begin{equation*}
 
-\varepsilon_{t} \sim \mathcal{N}\left(0,   \sigma^{2}\right) \tag{1.32}
+\varepsilon_{t} \sim \mathcal{N}\left(0,     \sigma^{2}\right) \tag{1.32}
 
 \end{equation*}
 
@@ -614,7 +614,7 @@ $$
 
 \begin{equation*}
 
-\mu-\hat{\mu} \sim \mathcal{N}\left(0,   \text { s.e. }(\hat{\mu})^{2}\right) \tag{1.33}
+\mu-\hat{\mu} \sim \mathcal{N}\left(0,     \text { s.e. }(\hat{\mu})^{2}\right) \tag{1.33}
 
 \end{equation*}
 

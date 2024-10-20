@@ -1,8 +1,8 @@
 ---
-title: Lecture 3
+title: Lecture 3Dynamics of Returns
 ---
 
-# Lecture 3
+# Lecture 3Dynamics of Returns
 
 ## Lecture 3
 
@@ -52,7 +52,7 @@ $$
 
 Figure 3.1: Distribution of monthly stock market returns 1927-2021 conditional on gain or loss in previous month
 
-for some constants $a,  b>0$. If we had instead $b<0$,  this would be a model for reversals where high past returns predict low future returns. We can use regressions to estimate such models of conditional expected returns.
+for some constants $a,   b>0$. If we had instead $b<0$,  this would be a model for reversals where high past returns predict low future returns. We can use regressions to estimate such models of conditional expected returns.
 
 We often omit stating the conditioning information explicitly and just write $\mathbb{E}_{t}[\cdot]$,  e.g. $E_{t}\left[R_{t+1}\right]$. This is imprecise because this notation is not explicit about the type of information we are conditioning on,  but reduces clutter in our notation. Typically this notation means that we think of the expectations conditioned on whatever is observable to an investor at time $t$.
 
@@ -62,7 +62,7 @@ If returns are independently and identically (IID) distributed,  then conditiona
 
 In this lecture and the coming ones,  we will pay more attention to the dynamics of returns over time. This means that we will have to take into account the compounding of returns.
 
-Unfortunately,  working with compound returns is messy,  because compounding is multiplicative. Consider an asset that earns a sequence of returns over time: $R_{t+1},  R_{t+2},  \ldots,  R_{T}$. Calculation of the long-run return on this asset from time $t$ to $t+T$ involves compounding of returns over multiple periods:
+Unfortunately,  working with compound returns is messy,  because compounding is multiplicative. Consider an asset that earns a sequence of returns over time: $R_{t+1},   R_{t+2},   \ldots,   R_{T}$. Calculation of the long-run return on this asset from time $t$ to $t+T$ involves compounding of returns over multiple periods:
 
 $$
 
@@ -130,7 +130,7 @@ $$
 
 [^8]The first inequality on the left just reflects that $\log (1+x) \leq x$ for any real $x$. The second inequality on the right is a special case of a mathematical law called Jensen's inequality. For risky returns with non-zero variance,  both inequalities are strict. We get a more precise statement about the relation between these two expectations if we impose an assumption about the statistical distribution of returns. More on this below.
 
-Second,  the log of weighted average of simple returns (i.e.,  the log of a portfolio return) is not equal to the weighted average of the log returns of the individual assets. Suppose we have $N$ assets and we collect their returns $R_{1},  R_{2},  \ldots,  R_{N}$ in the vector $\boldsymbol{r}$. For a portfolio with weights $\boldsymbol{\omega}$,  the (simple) return on a portfolio is simply the weighted average of individual asset (simple) returns:
+Second,  the log of weighted average of simple returns (i.e.,  the log of a portfolio return) is not equal to the weighted average of the log returns of the individual assets. Suppose we have $N$ assets and we collect their returns $R_{1},   R_{2},   \ldots,   R_{N}$ in the vector $\boldsymbol{r}$. For a portfolio with weights $\boldsymbol{\omega}$,  the (simple) return on a portfolio is simply the weighted average of individual asset (simple) returns:
 
 $$
 
@@ -188,7 +188,7 @@ But there are some important exceptions from log-normality: Occasionally the sto
 
 The log-normal distribution has a number of properties that we will use in the coming
 
-weeks. If $r_{t} \sim \mathcal{N}\left(\mu,  \sigma^{2}\right)$ and $1+R_{t}=\exp \left(r_{t}\right)$,  then
+weeks. If $r_{t} \sim \mathcal{N}\left(\mu,   \sigma^{2}\right)$ and $1+R_{t}=\exp \left(r_{t}\right)$,  then
 
 $$
 
@@ -248,9 +248,9 @@ P_{t}=\frac{\mathbb{E}_{t}\left[D_{t+1}\right]}{1+R}+\frac{\mathbb{E}_{t}\left[D
 
 $$
 
-where $P_{t}$ is present value of cash flows,  $D_{t+1},  D_{t+2},  \ldots$ are future cash flows,  and $R$ is a (risk-adjusted) discount rate. Here we are interested in the valuation of the stock market in aggregate,  so $D$ would represent the aggregate dividends of all stocks. More precisely,  $D_{t}$ would comprise aggregate dividends plus aggregate share repurchases,  i.e.,  the entire flow of cash to investors. To keep it short,  I'll just refer to $D_{t}$ as dividends.
+where $P_{t}$ is present value of cash flows,  $D_{t+1},   D_{t+2},   \ldots$ are future cash flows,  and $R$ is a (risk-adjusted) discount rate. Here we are interested in the valuation of the stock market in aggregate,  so $D$ would represent the aggregate dividends of all stocks. More precisely,  $D_{t}$ would comprise aggregate dividends plus aggregate share repurchases,  i.e.,  the entire flow of cash to investors. To keep it short,  I'll just refer to $D_{t}$ as dividends.
 
-You may also recall that if the expected cash flows are growing at constant rate $G$,  so that $\mathbb{E}_{t}\left[D_{t+1}\right]=(1+G) D_{t},  \mathbb{E}_{t}\left[D_{t+2}\right]=(1+G)^{2} D_{t}$,  then we get the so-called Gordon growth model
+You may also recall that if the expected cash flows are growing at constant rate $G$,  so that $\mathbb{E}_{t}\left[D_{t+1}\right]=(1+G) D_{t},   \mathbb{E}_{t}\left[D_{t+2}\right]=(1+G)^{2} D_{t}$,  then we get the so-called Gordon growth model
 
 $$
 
@@ -554,7 +554,7 @@ $$
 
 \begin{equation*}
 
-s_{t+1}=\phi s_{t}+\eta_{t+1},  \quad \eta_{t+1} \sim \mathcal{N}\left(0,  \sigma_{s}^{2}\right) \tag{3.30}
+s_{t+1}=\phi s_{t}+\eta_{t+1},   \quad \eta_{t+1} \sim \mathcal{N}\left(0,   \sigma_{s}^{2}\right) \tag{3.30}
 
 \end{equation*}
 
@@ -622,7 +622,7 @@ It is also possible that the risk premium that rational investors demand,  and t
 
 At this point,  it's useful to reflect a bit on the possibility that sentiment of not-sorational investors could have some impact on the stock market valuation overall. If such sentiment reflects excessive optimism or pessimism about future cash flows and affects prices,  then there is a market inefficiency. In an efficient market,  prices are supposed to reflect a rational assessment of the information available at a point in time,  not sentiment disconnected from fundamentals.
 
-A common argument in modern finance against existence of such market inefficiencies is that "smart money, " i.e.,  highly sophisticated professional investors,  would take advantage of such market inefficiencies by trading against them and thereby eliminating them. But how strong is this force against market inefficiencies? This depends on the level of aggregation that we are interested in (e.g.,  individual stock level or at an aggregate level,  say the market portfolio) and the nature of the riskiness of the assets involved.
+A common argument in modern finance against existence of such market inefficiencies is that "smart money,  " i.e.,  highly sophisticated professional investors,  would take advantage of such market inefficiencies by trading against them and thereby eliminating them. But how strong is this force against market inefficiencies? This depends on the level of aggregation that we are interested in (e.g.,  individual stock level or at an aggregate level,  say the market portfolio) and the nature of the riskiness of the assets involved.
 
 Consider first individual stocks. Suppose there are lots of idiosyncratic mispricings. Idiosyncratic here means that whether a stock is overor undervalued is totally random and not systematically related to,  say,  firms' industry,  their size,  or other common attributes that firms may have. In this case,  a hedge fund can run a "pairs trading" strategy,  taking long positions in undervalued stocks and pairing each long position with a short position in an overvalued stock that has highly correlated returns because it's in the same industry,  has the same size,  etc. The high correlation ensures that the pair long-short position has relatively little risk because the short position to a large extent hedges the risk of the long position. Moreover,  putting lots of such pairs together into a portfolio results in a lot of the remaining risk being diversified away. As a consequence,  very little risk is left in this portfolio. Hence,  if these kinds of market inefficiencies existed,  it would be an extremely attractive opportunity that hedge funds or other smart-money investors would aggressively exploit and thereby largely eliminate. For exactly that reason,  these sorts of inefficiencies are unlikely to be big.
 
@@ -702,7 +702,7 @@ $$
 
 \begin{equation*}
 
-d_{t+1}-d_{t}=g+\varepsilon_{t+1},  \quad \varepsilon_{t+1} \sim \mathcal{N}\left(0,  \sigma_{d}^{2}\right) \tag{3.38}
+d_{t+1}-d_{t}=g+\varepsilon_{t+1},   \quad \varepsilon_{t+1} \sim \mathcal{N}\left(0,   \sigma_{d}^{2}\right) \tag{3.38}
 
 \end{equation*}
 
@@ -714,7 +714,7 @@ $$
 
 \begin{equation*}
 
-s_{t+1}=\phi s_{t}+\eta_{t+1},  \quad \eta_{t+1} \sim \mathcal{N}\left(0,  \sigma_{s}^{2}\right) \tag{3.39}
+s_{t+1}=\phi s_{t}+\eta_{t+1},   \quad \eta_{t+1} \sim \mathcal{N}\left(0,   \sigma_{s}^{2}\right) \tag{3.39}
 
 \end{equation*}
 
@@ -732,7 +732,7 @@ r_{t+1}=c+\Delta d_{t+1}+\rho v_{t+1}-v_{t} \tag{3.40}
 
 $$
 
-Plugging the simulated $d_{t},  v_{t}$ series into this formula then yields the simulated log returns series.
+Plugging the simulated $d_{t},   v_{t}$ series into this formula then yields the simulated log returns series.
 
 I pick parameters that make the series have properties close to the actual stock market index return and price-dividend ratio series at a quarterly frequency: $\rho=0.99$ (the parameter in the log-linearization that is very close to one),  $g=0.01$ (expected log dividend growth); $\theta=0.02$ (unconditional expected log return). I set the volatility of dividend shocks to $\sigma_{d}=0.07$.
 
@@ -762,7 +762,7 @@ r_{t+1}=a+b s_{t}+e_{t+1}
 
 $$
 
-Basically,  we are fitting a straight line with slope $b$ and intercept $a$ through the scatter plots we just looked at. Once we have an estimate of the regression coefficients $a,  b$-let's label them $\hat{a},  \hat{b}$-we can form an estimate of the conditional expected next-quarter log return as $\hat{a}+\hat{b} s_{t}$.
+Basically,  we are fitting a straight line with slope $b$ and intercept $a$ through the scatter plots we just looked at. Once we have an estimate of the regression coefficients $a,   b$-let's label them $\hat{a},   \hat{b}$-we can form an estimate of the conditional expected next-quarter log return as $\hat{a}+\hat{b} s_{t}$.
 
 Table 3.1: Predictive regressions of one-quarter-ahead log returns on the log sentiment level $s_{t}$
 
@@ -774,7 +774,7 @@ Table 3.1: Predictive regressions of one-quarter-ahead log returns on the log se
 
 | $R^{2}$ | 0.40 | 0.21 | 0.02 |
 
-To see what such a regression delivers on average (or said differently,  in expectation),  I now generate 1, 000 simulated series of returns and sentiment,  each with length 400 quarters. I run the regression above on each of these simulated 400-quarter series. So for each simulated series,  I get one set of estimates $\hat{a},  \hat{b}$. Table 3.1 shows average $\hat{b}$ across
+To see what such a regression delivers on average (or said differently,  in expectation),  I now generate 1,  000 simulated series of returns and sentiment,  each with length 400 quarters. I run the regression above on each of these simulated 400-quarter series. So for each simulated series,  I get one set of estimates $\hat{a},   \hat{b}$. Table 3.1 shows average $\hat{b}$ across
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-094.jpg?height=1681&width=963&top_left_y=420&top_left_x=540)
 
@@ -784,13 +784,13 @@ Figure 3.7: One period ahead $\log$ returns,  $r_{t+1}$ and $\log$ sentiment,  $
 
 Figure 3.8: Distribution of estimated slope coefficient in return-prediction regression (each simulation run has 400 quarters of data)
 
-the 1, 000 simulations. I also calculate the average $R^{2}$,  which shows how much of the variance of $r_{t+1}$ is explained by the predictable component $b s_{t}$.
+the 1,  000 simulations. I also calculate the average $R^{2}$,  which shows how much of the variance of $r_{t+1}$ is explained by the predictable component $b s_{t}$.
 
 In line with the intuition from the scatter plots. When $\phi$ is low,  there is a strong negative relationship between $r_{t+1}$ and $s_{t}$ as shown by the large negative average slope coefficient of -0.85 and the high $R^{2}$ of $40 %$. The high $R^{2}$ basically says the same thing as our visual impression from the scatter plot for $\phi=0.15$ where we can see the negative relationship just by eyeballing the scatter plot.
 
 In contrast,  when $\phi=0.95$,  the average slope coefficient is much,  much smaller $(-0.07)$ and the $R^{2}$ is much lower $(2 %)$. Again,  this lines up well with what we concluded from the scatter plot: if there is any predictive relationship,  it must be weak,  because we can't really see it in the scatter plot.
 
-In this high persistence case,  $\phi=0.95$,  how difficult is it,  statistically,  to pin down the slope coefficient? We can get an idea by looking at the different estimates $\hat{b}$ we get across the 1, 000 simulation runs. Figure 3.8 presents a histogram. The variation in $\hat{b}$ across the different simulation runs is substantial! It is not all that unlikely that an estimates ends up quite close to zero-which looks like returns are only very weakly predictable,  even though the magnitudes of mispricing are substantial.
+In this high persistence case,  $\phi=0.95$,  how difficult is it,  statistically,  to pin down the slope coefficient? We can get an idea by looking at the different estimates $\hat{b}$ we get across the 1,  000 simulation runs. Figure 3.8 presents a histogram. The variation in $\hat{b}$ across the different simulation runs is substantial! It is not all that unlikely that an estimates ends up quite close to zero-which looks like returns are only very weakly predictable,  even though the magnitudes of mispricing are substantial.
 
 Moreover,  we get this result that the slope $b$ is difficult to estimate precisely even though we are looking at really long samples here in these simulation runs. In practice,  the sample length of 400 quarters we are using here would be unusually long. And it's not only 400 quarters long here,  but we also know for sure that the underlying process of sentiment and dividend growth,  and their parameters,  are not changing over time. In practice,  using a 400-quarter sample of data to estimate these sorts of predictive relationship runs into questions whether the predictive relationship we are trying to uncover could really be stable over such a long period of time. So,  in practice we would be even less certain about the predictive relationship between measures of misvaluation and future return.
 
@@ -968,7 +968,7 @@ $$
 
 \begin{equation*}
 
-G=G_{r}+\pi,  \quad Y=Y_{r}+\pi \tag{3.44}
+G=G_{r}+\pi,   \quad Y=Y_{r}+\pi \tag{3.44}
 
 \end{equation*}
 
@@ -1008,7 +1008,7 @@ $$
 
 \begin{equation*}
 
-\omega_{t}\left(R_{t+1}-R_{f,  t}\right) \tag{3.46}
+\omega_{t}\left(R_{t+1}-R_{f,   t}\right) \tag{3.46}
 
 \end{equation*}
 
@@ -1016,7 +1016,7 @@ $$
 
 Then I move forward one quarter and use all data until the end of quarter 1937Q2 to estimate the regression and calculate a portfolio return in quarter 1937Q3,  and so on,  until the end of 2021 .
 
-If it happens to be the case that stock market excess returns are predictable out-ofsample,  then it should be somewhat likely that $\left(R_{t+1}-R_{f,  t}\right)$ will be high in times when the portfolio weight $\omega_{t}$ is high,  and that $\left(R_{t+1}-R_{f,  t}\right)$ low when $\omega_{t}$ is low. In this case,  the market-timing strategy will be successful and should earn a higher Sharpe ratio than the Sharpe ratio an investor would have earned from holding a constant portfolio share invested in the stock market.
+If it happens to be the case that stock market excess returns are predictable out-ofsample,  then it should be somewhat likely that $\left(R_{t+1}-R_{f,   t}\right)$ will be high in times when the portfolio weight $\omega_{t}$ is high,  and that $\left(R_{t+1}-R_{f,   t}\right)$ low when $\omega_{t}$ is low. In this case,  the market-timing strategy will be successful and should earn a higher Sharpe ratio than the Sharpe ratio an investor would have earned from holding a constant portfolio share invested in the stock market.
 
 The blue line in Figure 3.13 shows the time-series of predicted excess return $\hat{r}_{t}$ that comes out of this exercise. When it's positive,  the pseudo-OOS trading strategy takes a long position in the stock market index,  when it's negative,  it takes a short position.
 
@@ -1064,13 +1064,13 @@ To understand this better,  a first point to note is that our evaluation of perf
 
 The root of the problem is that the signal we are getting from a predictive regression is not a perfect signal of expected returns. It is distorted by noise because the predictive regression coefficients we use to construct the predicted returns and then the portfolio weight are subject to estimation error. To examine the consequences of such noise in portfolio weights,  let's consider the extreme case where expected returns are actually constant and the investor's timing strategy is based purely on noise. Is timing based on noise worse,  in terms of Sharpe ratio,  than just being fully invested with $100 %$ weight in the stock market at all times?
 
-Let $R_{f,  t}=0$ for simplicity. Stock market returns are generated as
+Let $R_{f,   t}=0$ for simplicity. Stock market returns are generated as
 
 $$
 
 \begin{equation*}
 
-R_{t+1}=\mu+\sigma \varepsilon_{t+1},  \quad \varepsilon_{t+1} \sim \mathcal{N}(0, 1) \tag{3.47}
+R_{t+1}=\mu+\sigma \varepsilon_{t+1},   \quad \varepsilon_{t+1} \sim \mathcal{N}(0,  1) \tag{3.47}
 
 \end{equation*}
 
@@ -1082,7 +1082,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}\left[\mu R_{t+1}\right]=\mu^{2},  \quad \operatorname{var}\left(\mu R_{t+1}\right)=\mu^{2} \sigma^{2} . \tag{3.48}
+\mathbb{E}\left[\mu R_{t+1}\right]=\mu^{2},   \quad \operatorname{var}\left(\mu R_{t+1}\right)=\mu^{2} \sigma^{2} . \tag{3.48}
 
 \end{equation*}
 
@@ -1094,7 +1094,7 @@ $$
 
 \begin{equation*}
 
-\omega_{t}=\mu+\sigma_{u} u_{t},  \quad u_{t} \sim \mathcal{N}(0, 1) \tag{3.49}
+\omega_{t}=\mu+\sigma_{u} u_{t},   \quad u_{t} \sim \mathcal{N}(0,  1) \tag{3.49}
 
 \end{equation*}
 
@@ -1144,19 +1144,19 @@ $$
 
 \begin{equation*}
 
-\omega_{t}=\frac{\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,  t}}{\gamma \operatorname{var}_{t}\left(R_{t+1}\right)} \tag{3.52}
+\omega_{t}=\frac{\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,   t}}{\gamma \operatorname{var}_{t}\left(R_{t+1}\right)} \tag{3.52}
 
 \end{equation*}
 
 $$
 
-So far we have focused on the numerator,  trying to identity variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,  t}$ in the data. But we can also improve our asset allocation if we focus on the denominator and identify variation in $\operatorname{var}_{t}\left(R_{t+1}\right)$ in the data. To identify periods when the reward for taking risk in the stock market is high,  we can look for periods in which expected returns are higher than average,  or periods in which volatility is lower than average (or a combination of both). We now focus on predicting volatility.
+So far we have focused on the numerator,  trying to identity variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,   t}$ in the data. But we can also improve our asset allocation if we focus on the denominator and identify variation in $\operatorname{var}_{t}\left(R_{t+1}\right)$ in the data. To identify periods when the reward for taking risk in the stock market is high,  we can look for periods in which expected returns are higher than average,  or periods in which volatility is lower than average (or a combination of both). We now focus on predicting volatility.
 
 To generate a time-series of volatility,  I take a series of daily returns on the CRSP value-weighted stock market index. Each quarter I calculate the standard deviation of daily returns and I annualize (multiply by $\sqrt{250}$ ). Figure 3.16 displays the time-series of these annualized quarterly standard deviations of daily returns.
 
 As the figure shows,  there is a lot of variation over time in the level of volatility. Tranquil periods like the early 1990s or the years prior to the financial crisis in 2008/09 have volatility below $10 %$. But in quarters of turmoil,  such as at the onset of the COVID pandemic in the first quarter of 2020,  the height of the financial crisis in the last quarter of 2008,  the last quarter of 1987 (which included the "Black Monday" crash),  and the onset of the Great Depression at the end of 1929 have volatility above $40 %$ annualized.
 
-The first thing we should check is whether our earlier market-timing strategy based on the $\log P / D$ ratio,  which tried to exploit variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,  t}$,  inadvertently also timed volatility,  and perhaps in the wrong direction. We can check this by regressing
+The first thing we should check is whether our earlier market-timing strategy based on the $\log P / D$ ratio,  which tried to exploit variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,   t}$,  inadvertently also timed volatility,  and perhaps in the wrong direction. We can check this by regressing
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-112.jpg?height=922&width=1201&top_left_y=287&top_left_x=424)
 
@@ -1208,13 +1208,13 @@ positive related to volatility or not. If they are,  then a strategy that scales
 
 To check whether conditional expected excess returns are positively related to volatility,  Panel B shows a regression of quarterly excess returns on lagged volatility. The estimated slope coefficient on lagged volatility is positive,  so there is a positive empirical relationship. But with a $t$-statistic a little below two,  it is not statistically significant at conventional significance levels,  despite about $90+$ years of data,  and the $R^{2}$ is quite low. So it's not a strong positive relationship. It may be sufficiently weak for a volatilitytiming strategy to still have some beneficial effect on performance.
 
-I will not attempt to derive the optimal utility-maximizing volatility-timing strategy here. Instead,  let's just start with the observation that if the expected excess return conditional on lagged volatility is constant,  $\mathbb{E}\left[R_{t+1} \mid \sigma_{t}\right]-R_{f,  t}=\mu$,  a mean-variance optimizing investor who looks one period ahead and uses the formula (3.52) would select a risky asset share of
+I will not attempt to derive the optimal utility-maximizing volatility-timing strategy here. Instead,  let's just start with the observation that if the expected excess return conditional on lagged volatility is constant,  $\mathbb{E}\left[R_{t+1} \mid \sigma_{t}\right]-R_{f,   t}=\mu$,  a mean-variance optimizing investor who looks one period ahead and uses the formula (3.52) would select a risky asset share of
 
 $$
 
 \begin{equation*}
 
-\omega_{t}=\frac{\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,  t}}{\gamma \operatorname{var}_{t}\left(R_{t+1}\right)} \tag{3.53}
+\omega_{t}=\frac{\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,   t}}{\gamma \operatorname{var}_{t}\left(R_{t+1}\right)} \tag{3.53}
 
 \end{equation*}
 
@@ -1242,4 +1242,4 @@ $$
 
 For this simple volatility-timing strategy,  we don't need to estimate any parameters. It is directly out-of-sample implementable. All we need is a measure of lagged volatility.
 
-I calculate the time series of volatility-timing strategy excess returns as $\omega_{t}\left(R_{t+1}-\right.$ $R_{f,  t}$ ). I then standardize the realized return by dividing by the full sample standard deviation (recall that this standardization turns the returns into a "realized Sharpe ratio"). I then cumulate these standardized returns over time. The red line in Figure (3.17) shows the result. For comparison,  I also show the cumulative standardized returns of a strategy that is always $100 %$ invested in the stock market index. The volatility-timing strategy shows some improvement relative to the $100 %$ stock market index strategy. Looking closer,  we can also see that the volatility-timing strategy managed to partly avoid big downturns like in late 2008,  during the financial crisis,  or in the early 1930s,  during the onset of the Great Depression. The big down-moves in the stock market in these episodes were preceded in earlier months by elevated levels of volatility,  which leads the volatility-timing strategy to reduce equity exposure prior to the downturn.
+I calculate the time series of volatility-timing strategy excess returns as $\omega_{t}\left(R_{t+1}-\right.$ $R_{f,   t}$ ). I then standardize the realized return by dividing by the full sample standard deviation (recall that this standardization turns the returns into a "realized Sharpe ratio"). I then cumulate these standardized returns over time. The red line in Figure (3.17) shows the result. For comparison,  I also show the cumulative standardized returns of a strategy that is always $100 %$ invested in the stock market index. The volatility-timing strategy shows some improvement relative to the $100 %$ stock market index strategy. Looking closer,  we can also see that the volatility-timing strategy managed to partly avoid big downturns like in late 2008,  during the financial crisis,  or in the early 1930s,  during the onset of the Great Depression. The big down-moves in the stock market in these episodes were preceded in earlier months by elevated levels of volatility,  which leads the volatility-timing strategy to reduce equity exposure prior to the downturn.

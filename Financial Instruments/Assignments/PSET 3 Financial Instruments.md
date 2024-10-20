@@ -133,7 +133,7 @@ $$K= \frac{$52,575,650,000.00}{$53,893 K,600,000.00}= 0.97575545334$$
 
 The VeroTende Bank executives meet Greek officials, describe the currency swap and quote the rate calculated in point (1). To their surprise, the Greek Finance Minister explains that they have decided to be advised by another bank. They shake hands and the finance Minister leaves.
 
-Some rumors say that Goldman Sachs has set up a currency swap with structured as above, but with two minor differences:[[Lecture 1]](#_ftn1)
+Some rumors say that Goldman Sachs has set up a currency swap with structured as above, but with two minor differences:[[Lecture 1- Probability Distributions of Returns]](#_ftn1)
 
 - a. For the exchange of principal at time t = 0 the exchange rate utilized is not the market spot rate (i.e. 0.8475 USD / EUR), but rather the historical average of the spot exchange rate between March 12th 2001 and June 1st 2001, that is 0.8148 USD / EUR;
 - b)  The rate quoted for the payments in euro is 7.00%
@@ -399,4 +399,4 @@ He can use this relationship to calculate compounded interest rate with call opt
 
 ---
 
-[[Lecture 1]](#_ftnref1) This exercise is motivated by a real deal between Goldman Sachs and Greece. However, **all** of the details in this exercise are fictitious, as details of the deal are not known. For initial reference, please visit https://www.goldmansachs.com/media-relations/in-the-news/archive/greece.html
+[[Lecture 1- Probability Distributions of Returns]](#_ftnref1) This exercise is motivated by a real deal between Goldman Sachs and Greece. However, **all** of the details in this exercise are fictitious, as details of the deal are not known. For initial reference, please visit https://www.goldmansachs.com/media-relations/in-the-news/archive/greece.html

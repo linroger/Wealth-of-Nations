@@ -1,8 +1,8 @@
 ---
-title: Lecture 2
+title: Lecture 2Asset Allocation with Multiple Risky Assets
 ---
 
-# Lecture 2
+# Lecture 2Asset Allocation with Multiple Risky Assets
 
 We now extend our optimal portfolio choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
 
@@ -20,7 +20,7 @@ $$
 
 \begin{equation*}
 
-\boldsymbol{z}=\boldsymbol{r}-\boldsymbol{\iota} R_{f},  \quad \boldsymbol{\mu}=\mathbb{E}[\boldsymbol{z}] \tag{2.1}
+\boldsymbol{z}=\boldsymbol{r}-\boldsymbol{\iota} R_{f},    \quad \boldsymbol{\mu}=\mathbb{E}[\boldsymbol{z}] \tag{2.1}
 
 \end{equation*}
 
@@ -38,7 +38,7 @@ $$
 
 $$
 
-For analyzing portfolio risk and return,  we need to know a few rules on how the moments of portfolio returns,  e.g.,  mean and variance,  depend on moments of individual asset returns. Suppose we have a portfolio with $N$ assets and the weight of every asset (in terms of the proportion of the portfolio's market value accounted for by each asset) is collected in the $N \times 1$ portfolio weight vector $\boldsymbol{\omega}=\left(\omega_{1},  \omega_{2},  \ldots,  \omega_{N}\right)^{\prime}$. Then the portfolio return is
+For analyzing portfolio risk and return,  we need to know a few rules on how the moments of portfolio returns,  e.g.,  mean and variance,  depend on moments of individual asset returns. Suppose we have a portfolio with $N$ assets and the weight of every asset (in terms of the proportion of the portfolio's market value accounted for by each asset) is collected in the $N \times 1$ portfolio weight vector $\boldsymbol{\omega}=\left(\omega_{1},    \omega_{2},    \ldots,    \omega_{N}\right)^{\prime}$. Then the portfolio return is
 
 $$
 
@@ -102,13 +102,13 @@ $$
 
 \left(\begin{array}{c}
 
-\operatorname{cov}\left(R_{1},  R_{p}\right)  \tag{2.8}\\
+\operatorname{cov}\left(R_{1},    R_{p}\right)  \tag{2.8}\\
 
-\operatorname{cov}\left(R_{2},  R_{p}\right) \\
+\operatorname{cov}\left(R_{2},    R_{p}\right) \\
 
 \ldots \\
 
-\operatorname{cov}\left(R_{N},  R_{N}\right)
+\operatorname{cov}\left(R_{N},    R_{N}\right)
 
 \end{array}\right)=\boldsymbol{\Sigma} \boldsymbol{\omega} .
 
@@ -150,7 +150,7 @@ $$
 
 \begin{equation*}
 
-\max _{\boldsymbol{\omega}} \mathbb{E}[U(W)] \quad \text { s.t. } W=W_{0}\left(1+R_{w}\right),  \tag{2.11}
+\max _{\boldsymbol{\omega}} \mathbb{E}[U(W)] \quad \text { s.t. } W=W_{0}\left(1+R_{w}\right),    \tag{2.11}
 
 \end{equation*}
 
@@ -252,7 +252,7 @@ To get some intuition for what the optimal portfolio solution does and how it de
 
 $$
 
-\boldsymbol{\mu}=\binom{\mu_{1}}{\mu_{2}},  \quad \boldsymbol{\Sigma}=\sigma^{2}\left(\begin{array}{ll}
+\boldsymbol{\mu}=\binom{\mu_{1}}{\mu_{2}},    \quad \boldsymbol{\Sigma}=\sigma^{2}\left(\begin{array}{ll}
 
 1 & \rho  \tag{2.19}\\
 
@@ -304,7 +304,7 @@ $\operatorname{var}\left(R_{p}\right)=\boldsymbol{\omega}^{\prime} \boldsymbol{\
 
 $$
 
-\operatorname{var}\left(R_{p}\right)=\omega_{1} \underbrace{\operatorname{cov}\left(R_{1},  R_{p}\right)}_{\begin{array}{c}_
+\operatorname{var}\left(R_{p}\right)=\omega_{1} \underbrace{\operatorname{cov}\left(R_{1},    R_{p}\right)}_{\begin{array}{c}_
 
 _\text { Risk }  \tag{2.22}\\_
 
@@ -312,11 +312,11 @@ _\text { contribution } \\_
 
 _\text { of asset 1 }_
 
-_\end{array}}+\omega_{2} \operatorname{cov}\left(R_{2},  R_{p}\right)+\ldots+\omega_{N} \operatorname{cov}\left(R_{N},  R_{p}\right)
+_\end{array}}+\omega_{2} \operatorname{cov}\left(R_{2},    R_{p}\right)+\ldots+\omega_{N} \operatorname{cov}\left(R_{N},    R_{p}\right)
 
 $$
 
-We have now decomposed the overall portfolio variance in the pieces that come from each asset. How much risk each asset brings to the portfolio is determined by how much of this asset is in the portfolio,  i.e.,  its portfolio weight,  times the risk contribution measured by the covariance $\operatorname{cov}\left(R_{i},  R_{p}\right)$. For the same weight,  an asset that has a higher covariance with the portfolio return adds more risk to the portfolio.
+We have now decomposed the overall portfolio variance in the pieces that come from each asset. How much risk each asset brings to the portfolio is determined by how much of this asset is in the portfolio,  i.e.,  its portfolio weight,  times the risk contribution measured by the covariance $\operatorname{cov}\left(R_{i},    R_{p}\right)$. For the same weight,  an asset that has a higher covariance with the portfolio return adds more risk to the portfolio.
 
 Dividing by $\operatorname{var}\left(R_{p}\right)$ on both sides,  we can express the risk contributions as shares of total portfolio risk. We get
 
@@ -336,7 +336,7 @@ $$
 
 \begin{equation*}
 
-\beta_{i}=\frac{\operatorname{cov}\left(R_{i},  R_{p}\right)}{\operatorname{var}\left(R_{p}\right)} . \tag{2.24}
+\beta_{i}=\frac{\operatorname{cov}\left(R_{i},    R_{p}\right)}{\operatorname{var}\left(R_{p}\right)} . \tag{2.24}
 
 \end{equation*}
 
@@ -414,7 +414,7 @@ Furthermore,  equation (2.29) tells us that if the portfolio with return $R^{*}$
 
 Otherwise,  if we could find such an asset $i$ that violates condition (2.29),  we could improve our portfolio's Sharpe ratio by adding more of asset $i$ to the portfolio (if the expected return is higher than required) or taking some of it out,  and possibly shorting it (if the expected return is lower than required). For example,  if an asset $i$ has $\mathbb{E}\left[Z_{i}\right]>\beta_{i}^{*} \mathbb{E}\left[Z^{*}\right]$,  it would make sense for the investor to take more of asset $i$ into the portfolio,  because this would contribute to a relatively small amount of portfolio risk,  but a relatively big expected excess return.
 
-We can decompose the total risk of an asset into systematic and idiosyncratic components. Note that $\beta_{i}^{*}=\operatorname{cov}\left(R_{i},  R^{*}\right) / \operatorname{var}\left(R^{*}\right)$ is an ordinary least squares (OLS) regression slope coefficient in a regression of $R_{i}$ on $R^{*}$. This means we can decompose $R_{i}$ as follows
+We can decompose the total risk of an asset into systematic and idiosyncratic components. Note that $\beta_{i}^{*}=\operatorname{cov}\left(R_{i},    R^{*}\right) / \operatorname{var}\left(R^{*}\right)$ is an ordinary least squares (OLS) regression slope coefficient in a regression of $R_{i}$ on $R^{*}$. This means we can decompose $R_{i}$ as follows
 
 $$
 
@@ -426,19 +426,19 @@ R_{i}=a_{i}+\beta_{i}^{*} R^{*}+\varepsilon_{i} \tag{2.30}
 
 $$
 
-where $\operatorname{cov}\left(R^{*},  \varepsilon_{i}\right)=0$. This decomposition shows that movements in $R_{i}$ are partly due to movements perfectly aligned with $R^{*}$ (systematic) and partly due to movements uncorrelated with $R^{*}$ (idiosyncratic). Taking the variance of the leftand right-hand sides,
+where $\operatorname{cov}\left(R^{*},    \varepsilon_{i}\right)=0$. This decomposition shows that movements in $R_{i}$ are partly due to movements perfectly aligned with $R^{*}$ (systematic) and partly due to movements uncorrelated with $R^{*}$ (idiosyncratic). Taking the variance of the leftand right-hand sides,
 
 $$
 
 \begin{equation*}
 
-\operatorname{var}\left(R_{i}\right)=\left(\beta_{i}^{*}\right)^{2} \operatorname{var}\left(R^{*}\right)+\operatorname{var}\left(\varepsilon_{i}\right),  \tag{2.31}
+\operatorname{var}\left(R_{i}\right)=\left(\beta_{i}^{*}\right)^{2} \operatorname{var}\left(R^{*}\right)+\operatorname{var}\left(\varepsilon_{i}\right),    \tag{2.31}
 
 \end{equation*}
 
 $$
 
-we have now broken the total risk of asset $i,  \operatorname{var}\left(R_{i}\right)$,  into two components: Systematic risk,  $\left(\beta_{i}^{*}\right)^{2} \operatorname{var}\left(R^{*}\right)$,  and idiosyncratic risk,  $\operatorname{var}\left(\varepsilon_{i}\right)$.
+we have now broken the total risk of asset $i,    \operatorname{var}\left(R_{i}\right)$,  into two components: Systematic risk,  $\left(\beta_{i}^{*}\right)^{2} \operatorname{var}\left(R^{*}\right)$,  and idiosyncratic risk,  $\operatorname{var}\left(\varepsilon_{i}\right)$.
 
 Since systematic risk determines an assets (un)attractiveness,  not the idiosyncratic risk,  Sharpe Ratios are not good measures of the reward to risk ratio for individual assets,  because the Sharpe Ratio uses total volatility as a risk measure,  not just the systematic risk component.
 
@@ -456,19 +456,19 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}\left[Z_{i}\right]=\frac{\operatorname{cov}\left(Z_{i},  R^{*}\right)}{\operatorname{var}\left(R^{*}\right)} \mathbb{E}\left[Z^{*}\right] \tag{2.32}
+\mathbb{E}\left[Z_{i}\right]=\frac{\operatorname{cov}\left(Z_{i},    R^{*}\right)}{\operatorname{var}\left(R^{*}\right)} \mathbb{E}\left[Z^{*}\right] \tag{2.32}
 
 \end{equation*}
 
 $$
 
-and let $\sigma_{i}=\operatorname{var}\left(Z_{i}\right)^{1 / 2},  \sigma=\operatorname{var}\left(R^{*}\right)^{1 / 2}$ and let $\rho_{i}$ denote the correlation of $Z_{i}$ and $R^{*}$. Since $\left|\rho_{i}\right| \leq 1$,  it is true that
+and let $\sigma_{i}=\operatorname{var}\left(Z_{i}\right)^{1 / 2},    \sigma=\operatorname{var}\left(R^{*}\right)^{1 / 2}$ and let $\rho_{i}$ denote the correlation of $Z_{i}$ and $R^{*}$. Since $\left|\rho_{i}\right| \leq 1$,  it is true that
 
 $$
 
 \begin{equation*}
 
-\left|\operatorname{cov}\left(Z_{i},  R^{*}\right)\right|=\left|\rho_{i}\right| \sigma_{i} \sigma \leq \sigma_{i} \sigma \tag{2.33}
+\left|\operatorname{cov}\left(Z_{i},    R^{*}\right)\right|=\left|\rho_{i}\right| \sigma_{i} \sigma \leq \sigma_{i} \sigma \tag{2.33}
 
 \end{equation*}
 
@@ -498,7 +498,7 @@ $$
 
 \begin{equation*}
 
-\omega_{m,  i}=\frac{m_{c a p}}{\sum_{j=1}^{N} m_{c a p}^{j}} \tag{2.35}
+\omega_{m,    i}=\frac{m_{c a p}}{\sum_{j=1}^{N} m_{c a p}^{j}} \tag{2.35}
 
 \end{equation*}
 
@@ -516,7 +516,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}\left[Z_{i}\right]=\frac{\operatorname{cov}\left(Z_{i},  R_{m}\right)}{\operatorname{var}\left(R_{m}\right)} \mathbb{E}\left[Z_{m}\right]=\beta_{i} \mathbb{E}\left[Z_{m}\right] \tag{2.36}
+\mathbb{E}\left[Z_{i}\right]=\frac{\operatorname{cov}\left(Z_{i},    R_{m}\right)}{\operatorname{var}\left(R_{m}\right)} \mathbb{E}\left[Z_{m}\right]=\beta_{i} \mathbb{E}\left[Z_{m}\right] \tag{2.36}
 
 \end{equation*}
 
@@ -538,7 +538,7 @@ The market portfolio is a very special portfolio. Aside from new issues of stock
 
 |   | VITNX | Benchmark | +/- Weight |   |   | VITNX | Benchmark |
 
-| Number of stocks | 3, 620 | 4, 094 | $-474$ | Earnings growth rate |   | $19.6 %$ | $19.6 %$ |
+| Number of stocks | 3,  620 | 4,  094 | $-474$ | Earnings growth rate |   | $19.6 %$ | $19.6 %$ |
 
 | Avg market cap | $$ 440.8$ billion | $$ 440.9$ billion | $$ 0.2$ billion | Short-term reserves |   | - | N/A |
 
@@ -720,13 +720,13 @@ which is smaller,  by factor $1 / \sqrt{n}$,  than the standard error when we us
 
 Figure 2.3: Distribution of annualized mean estimates when returns are measured at different measurement frequencies
 
-Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10, 000$ daily returns by drawing from a normal distribution such that the annualized returns (assuming 250 trading days per year) have mean 0.05 and standard deviation 0.20 . I calculate the mean and standard deviation of these daily returns. Then I aggregate the returns to annual returns by summing the daily returns within 250 -day windows (if I do it by
+Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10,   000$ daily returns by drawing from a normal distribution such that the annualized returns (assuming 250 trading days per year) have mean 0.05 and standard deviation 0.20 . I calculate the mean and standard deviation of these daily returns. Then I aggregate the returns to annual returns by summing the daily returns within 250 -day windows (if I do it by
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 
 Figure 2.4: Distribution of annualized standard deviation estimates when returns are measured at different measurement frequencies
 
-properly compounding the daily returns,  the results are very similar). I calculate the mean and standard deviation of these annual returns. Then I repeat this 1, 000 times each with a new random draw of a daily return series of length $T=10, 000$.
+properly compounding the daily returns,  the results are very similar). I calculate the mean and standard deviation of these annual returns. Then I repeat this 1,  000 times each with a new random draw of a daily return series of length $T=10,   000$.
 
 Figures 2.3 shows that the distribution of the mean of annual returns and distribution of the annualized mean estimated from daily returns (i.e.g,  daily return mean times 250) is basically identical,  as expected based on our earlier standard error calculations. In contrast,  Figure 2.4 shows that the distribution of annualized standard deviations estimated from daily returns (i.e.,  daily return standard deviation times $\sqrt{250}$ ) is far smaller than the standard deviation of annual returns. The annualized standard deviations estimated from daily returns are much closer to the true standard deviation of 0.20. In other words,  these estimates are much more precise.
 
@@ -1170,7 +1170,7 @@ The motivation investment practitioners give for this approach is typically a bi
 
 $$
 
-\operatorname{var}\left(R_{p}\right)=\omega_{1} \underbrace{\operatorname{cov}\left(R_{1},  R_{p}\right)}_{\begin{array}{c}_
+\operatorname{var}\left(R_{p}\right)=\omega_{1} \underbrace{\operatorname{cov}\left(R_{1},    R_{p}\right)}_{\begin{array}{c}_
 
 _\text { Risk }  \tag{2.65}\\_
 
@@ -1178,11 +1178,11 @@ _\text { contribution } \\_
 
 _\text { of asset } 1_
 
-_\end{array}}+\omega_{2} \operatorname{cov}\left(R_{2},  R_{p}\right)+\ldots+\omega_{N} \operatorname{cov}\left(R_{N},  R_{p}\right)
+_\end{array}}+\omega_{2} \operatorname{cov}\left(R_{2},    R_{p}\right)+\ldots+\omega_{N} \operatorname{cov}\left(R_{N},    R_{p}\right)
 
 $$
 
-The risk contributions of each asset class per unit of weight are represented by the covariances $\operatorname{cov}\left(R_{i},  R_{p}\right)$,  and their total risk contribution to the portfolio by this covariance times the portfolio weight. With risk-parity weights proportional to $1 / \sigma_{i}$ and the assumption that the correlation matrix of the asset classes is an equicorrelation matrix,  one can show that $\omega_{i} \operatorname{cov}\left(R_{i},  R_{p}\right)$ is then the same for each asset class-i.e.,  each asset
+The risk contributions of each asset class per unit of weight are represented by the covariances $\operatorname{cov}\left(R_{i},    R_{p}\right)$,  and their total risk contribution to the portfolio by this covariance times the portfolio weight. With risk-parity weights proportional to $1 / \sigma_{i}$ and the assumption that the correlation matrix of the asset classes is an equicorrelation matrix,  one can show that $\omega_{i} \operatorname{cov}\left(R_{i},    R_{p}\right)$ is then the same for each asset class-i.e.,  each asset
 
 class accounts for the same share of total portfolio risk. ${ }^{2}$ This is what people mean when they say that a risk parity strategy then gives each asset class an equal risk budget for its contribution to portfolio risk (and keep in mind that this statement is true only if the equicorrelation assumption holds).
 
