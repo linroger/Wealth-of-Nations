@@ -648,9 +648,7 @@ The reason why the inflation risk premium shows up in breakeven inflation is tha
 
   
 
-Breakeven inflation has significant advantages compared with survey-based inflation expectations measures. First, it is based on market prices and investors have stronger incentives to get their forecast "right" than the respondents in surveys. Second, breakeven inflation is available at high frequency. Based on TIPS prices, we can therefore observe inflation expectations at daily or even higher frequency. Third, there is a whole term
-
-structure of breakeven inflation rates based on the outstanding maturities of TIPS. So we can see investors' views about future inflation over short and long horizons.
+Breakeven inflation has significant advantages compared with survey-based inflation expectations measures. First, it is based on market prices and investors have stronger incentives to get their forecast "right" than the respondents in surveys. Second, breakeven inflation is available at high frequency. Based on TIPS prices, we can therefore observe inflation expectations at daily or even higher frequency. Third, there is a whole term structure of breakeven inflation rates based on the outstanding maturities of TIPS. So we can see investors' views about future inflation over short and long horizons.
 
   
 
