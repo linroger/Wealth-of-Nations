@@ -148,13 +148,10 @@ On caveat though is that the statistical confidence in these relationships is no
 
 There are techniques for adjusting standard errors and $t$-statistics for autocorrelation ${ }^{1}$. If I apply these,  fitted to the data in the bottom panel of Figure 4.2,  I get the following coefficient estimates (and $t$-statistics in parentheses): The $t$-statistic of -2.03
 
-| Intercept | Slope | adj. $R^{2}$ |
-
-| --- | --- | --- |
-
-| 0.23 | -1.67 | $18 %$ |
-
-| $(3.01)$ | $(-2.03)$ |   |
+| Intercept | Slope     | adj. $R^{2}$ |
+| --------- | --------- | ------------ |
+| 0.23      | -1.67     | $18 \%$      |
+| $(3.01)$  | $(-2.03)$ |              |
 
 with absolute value bigger than 1.96 suggests that the negative relation between analyst long-term real growth forecasts and future real returns is unlikely to be due to chance. But it's not far away from 1.96,  so there is still substantial statistical uncertainty about the magnitude of the effect. The coefficient estimate of -1.67 suggests a large effect: A one percentage point higher expectation of annualized long-term real growth is associated with 1.67 percentage points lower annualized excess returns over the next five years.
 
@@ -184,23 +181,15 @@ Table 4.1 presents the results,  with $t$-statistics shown in parentheses. In li
 
 [^12]Table 4.1: Relation of expected excess returns from surveys to price-dividend ratio and past returns
 
-|   |   |   |   |   |
-
-| --- | --- | --- | --- | --- |
-
-|   | Const. | Log P/D | Lagged 1Y Return | $R^{2}$ |
-
-| Professional Forecasters | -0.001 | 0.020 | -0.201 | 0.209 |
-
-|   | $(-0.017)$ | $(0.782)$ | $(-4.591)$ |   |
-
-| Retail investors | 0.050 | 0.003 | 0.025 | 0.039 |
-
-|   | $(2.393)$ | $(0.429)$ | $(2.428)$ |   |
-
-| CFOs | -0.010 | 0.015 | 0.006 | 0.029 |
-
-|   | $(-0.381)$ | $(1.821)$ | $(0.526)$ |   |
+|                          |            |           |                  |         |
+| ------------------------ | ---------- | --------- | ---------------- | ------- |
+|                          | Const.     | Log P/D   | Lagged 1Y Return | $R^{2}$ |
+| Professional Forecasters | -0.001     | 0.020     | -0.201           | 0.209   |
+|                          | $(-0.017)$ | $(0.782)$ | $(-4.591)$       |         |
+| Retail investors         | 0.050      | 0.003     | 0.025            | 0.039   |
+|                          | $(2.393)$  | $(0.429)$ | $(2.428)$        |         |
+| CFOs                     | -0.010     | 0.015     | 0.006            | 0.029   |
+|                          | $(-0.381)$ | $(1.821)$ | $(0.526)$        |         |
 
 In contrast,  the estimated coefficients for the one-year lagged excess return are very different. Professional forecasters are strongly contrarian with respect to lagged one-year returns,  individual investors are extrapolative,  and CFOs are roughly neutral. For example,  if the excess return in the last year is higher by 10 percentage points,  professional forecasters expect a 2 percentage point lower excess return in the next year. In the same situation,  individual investors expect 0.25 percentage points higher returns.
 
@@ -248,33 +237,22 @@ Figure 4.6: Experienced real payout growth and subsequent 5-year log excess retu
 
 a series of the negative of subsequent 5 -year excess returns. This means that in every quarter $t$,  the figure shows the experienced payout growth series that uses data up to quarter $t$ and then the negative of the average excess returns during the subsequent quarters $t+1$ to $t+20$. I take the negative of these future average excess returns because high experienced payout growth should mean positive sentiment and hence low future returns. If I take the negative of the future returns,  the series should then be positively correlated (which is visually easier to see than a negative correlation). As the figure shows,  the two series are quite highly positively correlated. Hence,  high experienced payout growth forecasts low future excess returns.
 
-Let's also check whether we can forecast next quarter's stock market returns with the experienced payout growth series. Table 4.2 reruns the same regressions that we ran in the last lecture,  but now with experienced payout growth instead of $\log P / D$ as the predictor of $t+1$ returns. The slope coefficient $b$ captures the strength of the predictive relationship. As the table shows,  compared with the $\log P / D$ regressions from the last lecture,  the predictive relationship is actually a little stronger than for the log $P / D$ ratio: the $t$-statistics are a little higher and the $R^{2}$ are somewhat higher as well. Focusing on the regressions with excess returns as dependent variable in Panel C,  a one standard deviation rise in experienced payout growth,  which is 0.33 percentage points,  is associated with next quarter excess returns being lower by $-5.967 \times 0.33=1.97$
+Let's also check whether we can forecast next quarter's stock market returns with the experienced payout growth series. Table 4.2 reruns the same regressions that we ran in the last lecture,  but now with experienced payout growth instead of $\log P / D$ as the predictor of $t+1$ returns. The slope coefficient $b$ captures the strength of the predictive relationship. As the table shows,  compared with the $\log P / D$ regressions from the last lecture,  the predictive relationship is actually a little stronger than for the log $P / D$ ratio: the $t$ -statistics are a little higher and the $R^{2}$ are somewhat higher as well. Focusing on the regressions with excess returns as dependent variable in Panel C,  a one standard deviation rise in experienced payout growth,  which is 0.33 percentage points,  is associated with next quarter excess returns being lower by $-5.967 \times 0.33=1.97$ 
 
 Table 4.2: Predictive regressions of one-quarter-ahead returns on experienced dividend growth,  1927-2021
 
-|   | a | b | $R^{2}$ |
+|                         | a           | b          | $R^{2}$ |
+| ----------------------- | ----------- | ---------- | ------- |
+| Panel A: Log returns    |             |            |         |
+| Estimates               | 0.066       | $-5.664$   | 0.028   |
+| $t$-statistic           | $(4.900)$   | $(-3.474)$ |         |
+| Panel B: Simple returns |             |            |         |
+| Estimates               | -0.927      | $-5.755$   | 0.026   |
+| $t$-statistic           | $(-64.692)$ | $(-3.337)$ |         |
+| Panel C: Excess returns |             |            |         |
+| Estimates               | 0.067       | $-5.967$   | 0.028   |
+| $t$-statistic           | $(4.632)$   | $(-3.448)$ |         |
 
-| --- | --- | --- | --- |
-
-| Panel A: Log returns |   |   |   |
-
-| Estimates | 0.066 | $-5.664$ | 0.028 |
-
-| $t$-statistic | $(4.900)$ | $(-3.474)$ |   |
-
-| Panel B: Simple returns |   |   |   |
-
-| Estimates | -0.927 | $-5.755$ | 0.026 |
-
-| $t$-statistic | $(-64.692)$ | $(-3.337)$ |   |
-
-| Panel C: Excess returns |   |   |   |
-
-| Estimates | 0.067 | $-5.967$ | 0.028 |
-
-| $t$-statistic | $(4.632)$ | $(-3.448)$ |   |
-
-percentage points (the quarterly excess returns are not annualized,  so these are big numbers).
 
 Overall,  these results are broadly in line with the notion that investor sentiment about future cash flow growth becomes more positive when investors have experienced a string of several years of high real payout growth.
 
@@ -290,11 +268,11 @@ Figure 4.7: Assets of U.S. mutual funds and ETFs
 
 opposite direction. But it would be rather surprising if there was no price impact of retail investor demand. Retail investor flows in and out of the market,  including flows through mutual funds and ETFs,  are not trivial relative to the overall market capitalization of the stock market. There is little reason to think that professional investors would perfectly accommodate these demands by altering their portfolios without demanding price concessions,  i.e.,  without retail investor flows having some price impact. ${ }^{7}$
 
-Data on total aggregate retail investor stock holdings is not available. For this reason,  I focus here on retail investor flows in and out of mutual funds (MF) and exchange-traded funds (ETF). To get a sense of the magnitudes of retail investor holdings through these intermediated channels,  Figure 4.7 shows the time-series of aggregate assets of U.S. MF and ETF from the U.S. Financial Accounts. For comparison,  I also plot the aggregate market capitalization of all stocks listed in the U.S. In the fourth quarter of 2021,  mutual funds held close to $$ 30$ trillion in assets,  and this was about half of the total stock market capitalization of $$ 60$ trillion.
+Data on total aggregate retail investor stock holdings is not available. For this reason,  I focus here on retail investor flows in and out of mutual funds (MF) and exchange-traded funds (ETF). To get a sense of the magnitudes of retail investor holdings through these intermediated channels,  Figure 4.7 shows the time-series of aggregate assets of U.S. MF and ETF from the U.S. Financial Accounts. For comparison,  I also plot the aggregate market capitalization of all stocks listed in the U.S. In the fourth quarter of 2021,  mutual funds held close to  30\$ trillion in assets,  and this was about half of the total stock market capitalization of  60\$ trillion.
 
 Not all of the mutual funds included in these aggregate statistics in this figure are
 
-[^14]domestic U.S. equity funds. At the end of 2021Q4,  about $$ 5.5$ trillion was accounted for by bond funds and about $$ 4$ trillion by international funds. The international funds may also hold a portion in U.S. stocks,  though. Overall,  this suggests that MF and ETF assets in U.S. domestic equity account for around $3 / 4$ of the aggregate MF + ETF assets shown in Figure 4.7.
+[^14]domestic U.S. equity funds. At the end of 2021Q4,  about 5.5$ trillion was accounted for by bond funds and about 4$ trillion by international funds. The international funds may also hold a portion in U.S. stocks,  though. Overall,  this suggests that MF and ETF assets in U.S. domestic equity account for around $3 / 4$ of the aggregate MF + ETF assets shown in Figure 4.7.
 
 The majority of these funds' shares are held by retail investors,  including holdings through self-directed retirement accounts like 401k accounts and IRAs. Moreover,  most of these equity funds are ones where the fund manager may be able to pick which stocks to buy,  but does not have discretion to invest in other asset than equity (except for a small holding of cash). In summary,  retail investors control a substantial share of the stock market through these mutual funds and ETF holdings.
 
@@ -330,7 +308,7 @@ Table 4.3: Relation of equity mutual fund and ETF flows to price-dividend ratio 
 
 Table 4.3 presents some statistical tests of the relationship between flows,  $\log P / D$,  and lagged 12-month returns. The table shows the results of a regression of monthly flows (in percent) on the $\log P / D$ at the end of the previous month and stock market returns during the previous 12 months. Since flows are strongly autocorrelated,  I adjust the $t$-statistics for autocorrelation. ${ }^{9}$.
 
-The results confirm the impression from the figures. Both the $\log P / D$ ratio and lagged returns are positively related to equity MF and ETF flows. For example,  the second regression with both $\log P / D$ ratio and lagged returns as explanatory variables shows that a 10 percentage point higher past return over the past 12 months (less than one standard deviation) is associated with about $10 \times 0.14=1.4$ percentage points (of aggregate stock market cap) higher equity fund inflow in the next month (which is a bit more than one standard deviations of the monthly flows). The $R^{2}$ of $29 %$ shows that log $P / D$ and lagged past returns together explain a substantial portion of monthly flows.
+The results confirm the impression from the figures. Both the $\log P / D$ ratio and lagged returns are positively related to equity MF and ETF flows. For example,  the second regression with both $\log P / D$ ratio and lagged returns as explanatory variables shows that a 10 percentage point higher past return over the past 12 months (less than one standard deviation) is associated with about $10 \times 0.14=1.4$ percentage points (of aggregate stock market cap) higher equity fund inflow in the next month (which is a bit more than one standard deviations of the monthly flows). The $R^{2}$ of ${} 29 \%$ shows that log $P / D$ and lagged past returns together explain a substantial portion of monthly flows.
 
 Broadly,  these facts are consistent with (although not proof of) the view that retail investor sentiment plays a role in driving the cycles in valuation levels that we see in valuation ratios like the $P / D$ ratio.
 
@@ -374,24 +352,15 @@ Another approach to measuring sentiment is to extract it from textual informatio
 
 The recent breakthroughs in artificial intelligence with large language models (LLM) such as those underlying Open AI's ChatGPT open up opportunities to push these sorts
 
-```latex
-
+```
 Here is a piece of news:
-
 "%s"
-
 Do you think this news will increase or decrease %s?
-
 Write your answer as:
-
 {increase/decrease/uncertain}:
-
 {confidence (0-1)}:
-
 {magnitude of increase/decrease (0-1)}:
-
 {explanation (less than 25 words)}
-
 ```
 
 Figure 4.11: Prompting GPT-3.5 to generate economic expectations
@@ -402,11 +371,11 @@ of analyses to a much more sophisticated level. LLMs can potentially "understand
 
 One idea is to use LLMs to approximate how humans' expectations about the economy overall,  or the stock market specifically,  would respond to news. Take some news article. Would reading the article make a typical human more optimistic or more pessimistic? The idea is not that the LLM could become a super-human forecaster of the future. Instead,  the idea is that the LLM,  by being trained on a huge corpus of text written by humans,  may have learned to approximate how humans interpret news.
 
-Figure 4.12 shows an example of how to prompt OpenAI's GPT-3.5 to generate economic expectations based on news article headlines. The first $% \mathrm{~s}$ is a placeholder for the news headline that is provided to the GPT. To implement the prompt,  one would replace it with the text of an actual news article headline. The second %s below is a place holder for the specific type of economic expectation that the GPT is supposed to generate. For example,  this could be "GDP growth."
+Figure 4.12 shows an example of how to prompt OpenAI's GPT-3.5 to generate economic expectations based on news article headlines. The first $\mathrm{~s}$ is a placeholder for the news headline that is provided to the GPT. To implement the prompt,  one would replace it with the text of an actual news article headline. The second %s below is a place holder for the specific type of economic expectation that the GPT is supposed to generate. For example,  this could be "GDP growth."
 
 After prompting the GPT with a large number of archived article headlines from various months in the past,  one can then summarize the overall sentiment each month by taking the proportion of articles to which GPT responds with "increase" of GDP growth minus the proportion of articles to which GPT responds with "decrease" of GDP growth. One can do the same thing for other macroeconomic indicators such as industrial production growth,  employment,  stock market index returns,  etc.
 
-Figure 4.12 shows an aggregate measure of economic sentiment that averages over the
+Figure 4.12 shows an aggregate measure of economic sentiment that averages over the economic expectations measures for individual macroeconomic indicators every month (blue line). It also shows the cyclically-adjusted price-to-earnings ratio that we looked at in the last lecture. There is clearly a strong positive correlation between the two series. This is quite remarkable since the construction of the economic sentiment measure did not use any direct information about the price level of the stock market. Even so,  the sentiment measure matches quite well the depressed value of the stock market relative to earnings in the late 1970s,  the boom in the late 1990s,  and the drop during the financial crisis in 2007/08,  for example.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-139.jpg?height=481&width=1532&top_left_y=323&top_left_x=313)
 
@@ -414,7 +383,7 @@ Figure 4.12: Economic sentiment measure extracted from archived New York Times a
 
 Source: Bybee,  J.L.,  2023,  The Ghost in the Machine: Generating Beliefs with Large Language Models,  working paper,  Yale School of Management.
 
-economic expectations measures for individual macroeconomic indicators every month (blue line). It also shows the cyclically-adjusted price-to-earnings ratio that we looked at in the last lecture. There is clearly a strong positive correlation between the two series. This is quite remarkable since the construction of the economic sentiment measure did not use any direct information about the price level of the stock market. Even so,  the sentiment measure matches quite well the depressed value of the stock market relative to earnings in the late 1970s,  the boom in the late 1990s,  and the drop during the financial crisis in 2007/08,  for example.
+
 
 This example of sentiment extraction using LLMs is surely just a first cut of what can be done in relatively simple ways by using publicly available pre-trained versions of LLMs. A lot of new advances seem likely in this area in the coming years.
 
@@ -422,19 +391,8 @@ This example of sentiment extraction using LLMs is surely just a first cut of wh
 
 Occasionally assets trade at prices that seem far removed from any notion of fundamental value. Meme stocks like GameStop and AMC may fall into this category. In early 2021,  prices for these stocks exploded. See Figure 4.13. Previously almost worthless stocks became stocks with huge multi-billion dollar market capitalization.
 
-The notion of sentiment we have considered so far - expectations about cash flows,  and,  possibly,  time-varying risk aversion and risk perceptions - may not help much to explain why valuations of these stocks reached stratospheric levels. We now consider
+The notion of sentiment we have considered so far - expectations about cash flows,  and,  possibly,  time-varying risk aversion and risk perceptions - may not help much to explain why valuations of these stocks reached stratospheric levels. We now consider the possibility that investors may be willing to pay a high price for an asset today even if they are not convinced,  based on their own beliefs,  that cash flow expectations can justify this high price. Instead,  investors' motivation for paying a high price in these situations may be that they expect that they can resell the asset to an investor in the future who is willing to pay an even higher price. We will explore how we can modify our valuation models to capture such cases.
 
-Market Summary > GameStop Corp
-
-14.51 uso
-
-Follow
-
-$+10.53(264.57 %) \uparrow$ past 5 years
-
-Closed: Jan 19,  7:59 PM EST $\cdot$ Disclaimer
-
-After hours 14.510 0.\1 (0.00%)
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-140.jpg?height=521&width=1326&top_left_y=626&top_left_x=345)
 
@@ -446,7 +404,7 @@ Market Summary > AMC Entertainment Holdings Inc
 
 Figure 4.13: Prices of meme stocks
 
-the possibility that investors may be willing to pay a high price for an asset today even if they are not convinced,  based on their own beliefs,  that cash flow expectations can justify this high price. Instead,  investors' motivation for paying a high price in these situations may be that they expect that they can resell the asset to an investor in the future who is willing to pay an even higher price. We will explore how we can modify our valuation models to capture such cases.
+
 
 Recall (3.18) from last lecture:
 
