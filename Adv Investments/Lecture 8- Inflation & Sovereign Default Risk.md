@@ -77,35 +77,24 @@ a $10 \%$ yield on a Treasury bond into a zero return in real terms. Over the su
 
   
 
-Figure 8.2 illustrates the consequences that inflation had for the experiences of longterm bond investors during the past decades. In this figure, I consider an investor who invests $$ 1$ to purchase a portfolio of 5-10 year U.S. Treasury bonds and rebalances this portfolio every month so that it stays within the 5-10 year maturity band. The investor does this rebalancing for 20 years and I then look at the final value of the portfolio after 20 years in nominal terms and in real terms. The bonds in this portfolio are regular U.S. Treasury bonds that have principal and coupons fixed in nominal terms (we'll discuss a different kind that offers inflation-adjusted payoffs later in this lecture).
+Figure 8.2 illustrates the consequences that inflation had for the experiences of longterm bond investors during the past decades. In this figure, I consider an investor who invests 1$ to purchase a portfolio of 5-10 year U.S. Treasury bonds and rebalances this portfolio every month so that it stays within the 5-10 year maturity band. The investor does this rebalancing for 20 years and I then look at the final value of the portfolio after 20 years in nominal terms and in real terms. The bonds in this portfolio are regular U.S. Treasury bonds that have principal and coupons fixed in nominal terms (we'll discuss a different kind that offers inflation-adjusted payoffs later in this lecture).
 
   
 
-The blue line in the figure shows the nominal final value. For example, the point on the blue line for 1975 says that an investor who held this bond portfolio from 1956 to 1975 turned the initial $$ 1$ into around $$ 2.1$. The real line shows the real value, after removing the effects of inflation. The point for 1975 on the red line therefore says that in
+The blue line in the figure shows the nominal final value. For example, the point on the blue line for 1975 says that an investor who held this bond portfolio from 1956 to 1975 turned the initial 1$ into around 2.1$. The real line shows the real value, after removing the effects of inflation. The point for 1975 on the red line therefore says that in
 
-| LoCATION | Start <br> Date | End Date | Month With <br> Highest <br> Inflation <br> Rate | HigHEST <br> MONTHLY <br> INFLATION <br> RATE | `EQUIVALENT DAILY InfLATION RATE` | TIME <br> REQUIRED <br> FOR PRICES <br> TO <br> DoUble | Currency | Type of Price INDEX |
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-| Hungary ${ }^{1}$ | Aug. 1945 | Jul. 1946 | Jul. 1946 | $4.19 \times 10^{16} \%$ | 207\% | 15.0 hours | Pengő | Consumer |
-
-| Zimbabwe $^{2}$ | Mar. 2007 | Mid-Nov. 2008 | Mid-Nov. 2008 | $7.96 \times 10^{10} \%$ | 98.0\% | 24.7 hours | Dollar | Implied Exchange Rate* |
-
-| Yugoslavia ${ }^{3}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 313,000,000\% | 64.6\% | 1.41 days | Dinar | Consumer |
-
-| Republika Srpska ${ }^{4}$ | Apr. 1992 | Jan. 1994 | Jan. 1994 | 297,000,000\% | 64.3\% | 1.41 days | Dinar | Consumer |
-
-| Germany ${ }^{5}$ | Aug. 1922 | Dec. 1923 | Oct. 1923 | 29,500\% | 20.9\% | 3.70 days | Papiermark | Wholesale |
-
-| Greece ${ }^{6}$ | May. 1941 | Dec. 1945 | Oct. 1944 | 13,800\% | $17.9 \%$ | 4.27 days | Drachma | Exchange Rate |
-
-| China§ ${ }^{7}$ | Oct. 1947 | Mid-May 1949 | Apr. 1949 | 5,070\% | $14.1 \%$ | 5.34 days | Yuan | Wholesale for Shanghai |
-
-| Free City of Danzig ${ }^{8}$ | Aug. 1922 | Mid-Oct. 1923 | Sep. 1923 | 2,440\% | $11.4 \%$ | 6.52 days | German Papiermark | Exchange Rate** |
-
-| Armenia ${ }^{9}$ | Oct. 1993 | Dec. 1994 | Nov. 1993 | 438\% | 5.77\% | 12.5 days | Dram & Russian Ruble | Consumer |
-
-| Turkmenistan $\dagger \dagger^{10}$ | Jan. 1992 | Nov. 1993 | Nov. 1993 | $429 \%$ | $5.71 \%$ | 12.7 days | Manat | Consumer |
+| LoCATION                            | Start <br> Date | End Date      | Month With <br> Highest <br> Inflation <br> Rate | HigHEST <br> MONTHLY <br> INFLATION <br> RATE | `EQUIVALENT DAILY InfLATION RATE` | TIME <br> REQUIRED <br> FOR PRICES <br> TO <br> DoUble | Currency             | Type of Price INDEX    |
+| ----------------------------------- | --------------- | ------------- | ------------------------------------------------ | --------------------------------------------- | --------------------------------- | ------------------------------------------------------ | -------------------- | ---------------------- |
+| Hungary ${ }^{1}$                   | Aug. 1945       | Jul. 1946     | Jul. 1946                                        | $4.19 \times 10^{16} \%$                      | 207\%                             | 15.0 hours                                             | Pengő                | Consumer               |
+| Zimbabwe $^{2}$                     | Mar. 2007       | Mid-Nov. 2008 | Mid-Nov. 2008                                    | $7.96 \times 10^{10} \%$                      | 98.0\%                            | 24.7 hours                                             | Dollar               | Implied Exchange Rate* |
+| Yugoslavia ${ }^{3}$                | Apr. 1992       | Jan. 1994     | Jan. 1994                                        | 313,000,000\%                                 | 64.6\%                            | 1.41 days                                              | Dinar                | Consumer               |
+| Republika Srpska ${ }^{4}$          | Apr. 1992       | Jan. 1994     | Jan. 1994                                        | 297,000,000\%                                 | 64.3\%                            | 1.41 days                                              | Dinar                | Consumer               |
+| Germany ${ }^{5}$                   | Aug. 1922       | Dec. 1923     | Oct. 1923                                        | 29,500\%                                      | 20.9\%                            | 3.70 days                                              | Papiermark           | Wholesale              |
+| Greece ${ }^{6}$                    | May. 1941       | Dec. 1945     | Oct. 1944                                        | 13,800\%                                      | $17.9 \%$                         | 4.27 days                                              | Drachma              | Exchange Rate          |
+| China§ ${ }^{7}$                    | Oct. 1947       | Mid-May 1949  | Apr. 1949                                        | 5,070\%                                       | $14.1 \%$                         | 5.34 days                                              | Yuan                 | Wholesale for Shanghai |
+| Free City of Danzig ${ }^{8}$       | Aug. 1922       | Mid-Oct. 1923 | Sep. 1923                                        | 2,440\%                                       | $11.4 \%$                         | 6.52 days                                              | German Papiermark    | Exchange Rate**        |
+| Armenia ${ }^{9}$                   | Oct. 1993       | Dec. 1994     | Nov. 1993                                        | 438\%                                         | 5.77\%                            | 12.5 days                                              | Dram & Russian Ruble | Consumer               |
+| Turkmenistan $\dagger \dagger^{10}$ | Jan. 1992       | Nov. 1993     | Nov. 1993                                        | $429 \%$                                      | $5.71 \%$                         | 12.7 days                                              | Manat                | Consumer               |
 
   
 
@@ -129,9 +118,7 @@ The inflation rates above 10\% per year experienced by the U.S. in the 1970s and
 
   
 
-Figure 8.5 lists the most extreme hyperinflations in world history as ranked by the
-
-maximum monthly inflation rate. The record was set in Hungary shortly after the end of the second world war. Around the peak of inflation, prices tripled in a single day. Around the peak of the hyperinflation in Germany in 1922/23, it took about four days for prices to double. In each of these cases, owners of assets with nominally fixed payoffs found their wealth completely wiped out. Borrowers with nominally fixed liabilities saw their debts effectively erased in real terms.
+Figure 8.5 lists the most extreme hyperinflations in world history as ranked by the maximum monthly inflation rate. The record was set in Hungary shortly after the end of the second world war. Around the peak of inflation, prices tripled in a single day. Around the peak of the hyperinflation in Germany in 1922/23, it took about four days for prices to double. In each of these cases, owners of assets with nominally fixed payoffs found their wealth completely wiped out. Borrowers with nominally fixed liabilities saw their debts effectively erased in real terms.
 
   
 
@@ -237,11 +224,7 @@ where we expressed the real value in terms of dollars as of some base year in wh
 
   
 
-Now consider the effects of an unexpected sudden increase in the level of the $C P I_{t}$, i.e., unexpected inflation. This does not change the discount rate and, since the asset is a nominal asset, it does not change the expected nominal cash flow, but it lowers the real value of this expected cash flow $\frac{C P I_{\text {base }}}{C P I_{t}} \mathbb{E}_{t}\left[D_{A, t+1}\right]$. As a consequence, $V_{A, t}^{r}$ falls. This
-
-  
-
-[^35]reflects the unexpected loss of purchasing power. A nominal asset does not protect the investors against such loss of purchasing power.
+Now consider the effects of an unexpected sudden increase in the level of the $C P I_{t}$, i.e., unexpected inflation. This does not change the discount rate and, since the asset is a nominal asset, it does not change the expected nominal cash flow, but it lowers the real value of this expected cash flow $\frac{C P I_{\text {base }}}{C P I_{t}} \mathbb{E}_{t}\left[D_{A, t+1}\right]$. As a consequence, $V_{A, t}^{r}$ falls. This [^35]reflects the unexpected loss of purchasing power. A nominal asset does not protect the investors against such loss of purchasing power.
 
   
 
@@ -475,19 +458,13 @@ The last two months until the peak and end of inflation in November 1923 are mis
 
 Overall, data from this hyperinflation episode provides strong support to the notion that stocks are a real asset and that stockholders' real wealth is largely protected against extreme rises in inflation. (That said, if hyperinflation were to trigger social unrest, revolution and expropriation, then stockholders would lose nevertheless.)
 
-  
-
 ### 8.4 Inflation-protected bonds
-
-  
 
 While stocks may provide some protection from inflation risks, stocks of course are exposed to many other macroeconomic risk factors. A risk averse investor seeking inflation protection may prefer a bond-like investment that offers coupons and principal that are fixed in real terms rather than uncertain. In many countries, such inflation-protected bonds are now available. The U.S. Treasury started issuing Treasury Inflation Protected Securities (TIPS) in 1997. The British government has issued inflation-protected bonds since 1981 .
 
   
 
-Here is how TIPS work. Coupon and principal of TIPS are not fixed in nominal terms, but they grow with the CPI, as measured by the CPI three months before the coupon or principal payment date. For example, suppose a 10-year TIPS is issued at the end of month $t$ with a 10-year maturity. For simplicity, suppose the principal value is $$ 1$ and the coupon payments occur every 12 months (instead of the actual semi-annual payment frequency) at a coupon rate of $c^{r} \%$. This coupon rate specified in the terms of TIPS is a real coupon rate. Then the first coupon payment in month $t+12$ in nominal terms will be
-
-  
+Here is how TIPS work. Coupon and principal of TIPS are not fixed in nominal terms, but they grow with the CPI, as measured by the CPI three months before the coupon or principal payment date. For example, suppose a 10-year TIPS is issued at the end of month $t$ with a 10-year maturity. For simplicity, suppose the principal value is 1$ and the coupon payments occur every 12 months (instead of the actual semi-annual payment frequency) at a coupon rate of $c^{r} \%$. This coupon rate specified in the terms of TIPS is a real coupon rate. Then the first coupon payment in month $t+12$ in nominal terms will be
 
 $$
 
@@ -533,7 +510,7 @@ $$
 
   
 
-This means that at time $t$ the future nominal cash flows of TIPS are uncertain. They depend on the yet-unknown future values of the CPI. But the real cash flows are essentially certain. The reason why I write 'essentially' is that there is a little deviation from truly fixed and certain real cash flow values due to the fact that the indexing is to the CPI three months before and not the CPI during the measurement month. (The reason for this lag is the practical issue that the CPI first needs to be calculated and published before it can be used to adjust coupon and principal payments). Without this imperfection, deflating the coupon and principal payments with the CPI at the time of the payments would lead to real cash flows, expressed in time $t$ dollars, that are $c^{r} \times $ 1$ before maturity, and $\left($ 1+c^{r} \times $ 1\right)$ at maturity. In the following discussion, we ignore the slight timing mismatch between CPI measurement and payment dates and we assume that TIPS cash flows are fixed and certain in real terms. ${ }^{5}$
+This means that at time $t$ the future nominal cash flows of TIPS are uncertain. They depend on the yet-unknown future values of the CPI. But the real cash flows are essentially certain. The reason why I write 'essentially' is that there is a little deviation from truly fixed and certain real cash flow values due to the fact that the indexing is to the CPI three months before and not the CPI during the measurement month. (The reason for this lag is the practical issue that the CPI first needs to be calculated and published before it can be used to adjust coupon and principal payments). Without this imperfection, deflating the coupon and principal payments with the CPI at the time of the payments would lead to real cash flows, expressed in time $t$ dollars, that are $c^{r} \times  1$ before maturity, and $\left( 1+c^{r} \times  1\right)$ at maturity. In the following discussion, we ignore the slight timing mismatch between CPI measurement and payment dates and we assume that TIPS cash flows are fixed and certain in real terms. ${ }^{5}$
 
   
 
@@ -1149,9 +1126,7 @@ $$
 
   
 
-Now, in practice investors are not risk neutral. And defaults are typically viewed as systematic risks. They are more likely to happen in economic downturns in which other risky assets perform poorly, too. Hence, investors require an expected return premium to hold default-risky bonds. Suppose that investors are willing to pay only $$ 0.83$ for this bond. Then the promised yield is $1 / 0.83-1=20.48 \%$, and hence the expected return is
-
-  
+Now, in practice investors are not risk neutral. And defaults are typically viewed as systematic risks. They are more likely to happen in economic downturns in which other risky assets perform poorly, too. Hence, investors require an expected return premium to hold default-risky bonds. Suppose that investors are willing to pay only 0.83$ for this bond. Then the promised yield is $1 / 0.83-1=20.48 \%$, and hence the expected return is
 
 $$
 
@@ -1162,9 +1137,6 @@ $$
 \end{equation*}
 
 $$
-
-  
-
 which is hence $8.25 \%$ higher than the default-free yield. In this case, the promised yield of $20.48 \%$ has three components:
 
   
@@ -1265,7 +1237,7 @@ $$
 
 \end{equation*}
 
-$$
+
 
   
 
@@ -1447,7 +1419,7 @@ ${ }^{6}$ To me more precise, holdings is not quite the correct description. VXX
 
   
 
-[^34]:    ${ }^{6}$ Note that for this channel to be operative, the expectations hypothesis does not have to hold exactly. All that is required is that expectations of future short-term interest rates are one driver of long-term
+[^34]:   ${ }^{6}$ Note that for this channel to be operative, the expectations hypothesis does not have to hold exactly. All that is required is that expectations of future short-term interest rates are one driver of long-term
 
   
 
