@@ -61,13 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "AppleJobTrialSourceCode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "AppleJobTrialSourceCode"
             }
           },
           {
@@ -214,7 +214,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -319,10 +320,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b335010b0a3958ca",
+  "active": "1cf6b06110924627",
   "lastOpenFiles": [
     "Clippings/Sterilization Definition and Example in Foreign Exchange.md",
-    "Untitled.md",
+    "AppleJobTrialSourceCode.md",
     "Clippings/People's Bank of China (PBoC) What It Is and Responsibilities.md",
     "Credit Markets/Black-Scholes Model.md",
     "Credit Markets/Credit Market Session 2.md",
