@@ -2,6 +2,8 @@
 title: Lecture 7-Risk and Return of Bonds
 ---
 
+[Fixed Income Asset Pricing](Fixed%20Income%20Asset%20Pricing.md)
+
 # Lecture 7-Risk and Return of Bonds
 
 Our goal in this session is to better understand the risk and return properties of fixedincome instruments such as U.S. Treasury bonds. ${ }^{1}$ For now,  we focus on default-free bonds,  i.e.,  we assume that the cash flows (coupons and principal) that the bonds promise to pay will be paid for sure. More precisely,  we will for now focus on nominal default-free bonds,  which are bonds that promise a fixed stream of dollar cash flows that are not adjusted for inflation. For example,  if you buy a nominal bond default-free bond today that matures 10 years from now,  you will know for sure how many dollars of principal payment you will get back at the maturity date,  but you don't know the purchasing power this dollar cash flow will have at the maturity date.
@@ -16,7 +18,7 @@ U.S. Treasury bonds pay a stream of semi-annual coupons and a final principal pa
 
 [^29]principal payment and nothing else. Fortunately,  we can convert the prices and yields of regular U.S. Treasury bonds into zero-coupon bond prices and yields. We won't go into the details of how to do this,  but basically one views a Treasury bond as a portfolio of zero-coupon bonds: one for the first coupon payment,  one for the second,  …,  and one for the final principal payment. The price of the Treasury bond then must be,  based on no-arbitrage principles,  the sum of the prices of these individual zero-coupon bonds. If at every point in time one observes prices of many Treasury bonds with different maturities,  one can search for zero-coupon bond prices such that,  when they are summed up to to represent each Treasury bond as a portfolio of zero-coupon bonds,  they reproduce the observed prices of Treasury bonds.
 
-So let's say someone has done this for us. We therefore observe at time $t$ the prices $P_{n,      t}$ of zero-coupon bonds with maturity in $n$ years and which make a single payment of $$ 1$ at maturity. As a few lectures ago,      when we analyzed how the stock market pricedividend ratio relates to future cash flow growth and future returns,      it was convenient to work with $\log$ prices $p_{n,  t}=\log \left(P_{n,  t}\right)$. As we will see now,  doing so is actually particularly convenient for analyzing bonds. The absence of cash-flow risk makes the relationship between current log prices and future log returns particularly simple and we won't need the linearization approximation that we used for stock market valuation.
+So let's say someone has done this for us. We therefore observe at time $t$ the prices $P_{n,       t}$ of zero-coupon bonds with maturity in $n$ years and which make a single payment of $$ 1$ at maturity. As a few lectures ago,       when we analyzed how the stock market pricedividend ratio relates to future cash flow growth and future returns,       it was convenient to work with $\log$ prices $p_{n,  t}=\log \left(P_{n,  t}\right)$. As we will see now,  doing so is actually particularly convenient for analyzing bonds. The absence of cash-flow risk makes the relationship between current log prices and future log returns particularly simple and we won't need the linearization approximation that we used for stock market valuation.
 
 When financial market participants discuss bond prices,  they often do so not in terms of prices,  but in terms of yield,  which is just a transformation of the price. The yield-to-maturity (or often just "yield") of a zero-coupon bond is defined as
 
@@ -24,19 +26,19 @@ $$
 
 \begin{equation*}
 
-Y_{n,      t}=\left(\frac{1}{P_{n,      t}}\right)^{\frac{1}{n}}-1 \tag{7.1}
+Y_{n,       t}=\left(\frac{1}{P_{n,       t}}\right)^{\frac{1}{n}}-1 \tag{7.1}
 
 \end{equation*}
 
 $$
 
-So yields move in the inverse direction from prices. The $\log$ yield-to-maturity is $y_{n,      t}=$ $\log \left(1+Y_{n,      t}\right)$,  i.e.,
+So yields move in the inverse direction from prices. The $\log$ yield-to-maturity is $y_{n,       t}=$ $\log \left(1+Y_{n,       t}\right)$,  i.e.,
 
 $$
 
 \begin{equation*}
 
-y_{n,      t}=-\frac{1}{n} p_{n,      t} \tag{7.2}
+y_{n,       t}=-\frac{1}{n} p_{n,       t} \tag{7.2}
 
 \end{equation*}
 
@@ -48,7 +50,7 @@ $$
 
 \begin{equation*}
 
-r_{n,      t}=p_{n-1,      t}-p_{n,      t-1} \tag{7.3}
+r_{n,       t}=p_{n-1,       t}-p_{n,       t-1} \tag{7.3}
 
 \end{equation*}
 
@@ -56,7 +58,7 @@ $$
 
 In what follows,  to reduce clutter,  I will often just write yields,  prices,  and returns for $\log$ yields,  $\log$ prices,  and log returns of bonds.
 
-If we plot yields $y_{n,      t}$ as a function of maturity $n$ we obtain the zero-coupon yield curve. As an example,  Figure 7.1 presents two snapshots of the yield curve in April 2021
+If we plot yields $y_{n,       t}$ as a function of maturity $n$ we obtain the zero-coupon yield curve. As an example,  Figure 7.1 presents two snapshots of the yield curve in April 2021
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
 
@@ -66,7 +68,7 @@ and June 2023. ${ }^{2}$ We see that the yield curve can change shape. It was up
 
 ### 7.2 Present-value relations for bonds
 
-But first we focus on what yields tell us about the future returns for an investor holding these bonds. Consider a zero-coupon bond that has,  at time $t,      n$ years left until maturity. Now consider the return of this bond in the last year before it matures,  i.e.,  in year $t+n$. It pays off $$ 1$ at $t+n$ and costs $P_{1,  t+n-1}$ one year earlier,  so the return earned from holding
+But first we focus on what yields tell us about the future returns for an investor holding these bonds. Consider a zero-coupon bond that has,  at time $t,       n$ years left until maturity. Now consider the return of this bond in the last year before it matures,  i.e.,  in year $t+n$. It pays off $$ 1$ at $t+n$ and costs $P_{1,  t+n-1}$ one year earlier,  so the return earned from holding
 
 [^30]this bond during this last year is
 
@@ -94,7 +96,7 @@ $$
 
 \begin{equation*}
 
-r_{1,      t+n}=-p_{1,      t+n-1} \tag{7.5}
+r_{1,       t+n}=-p_{1,       t+n-1} \tag{7.5}
 
 \end{equation*}
 
@@ -106,9 +108,9 @@ $$
 
 \begin{align*}
 
-& r_{2,      t+n-1}=-p_{2,      t+n-2}+p_{1,      t+n-1}  \tag{7.6}\\
+& r_{2,       t+n-1}=-p_{2,       t+n-2}+p_{1,       t+n-1}  \tag{7.6}\\
 
-& r_{3,      t+n-2}=-p_{3,      t+n-3}+p_{2,      t+n-2} \cdots \tag{7.7}
+& r_{3,       t+n-2}=-p_{3,       t+n-3}+p_{2,       t+n-2} \cdots \tag{7.7}
 
 \end{align*}
 
@@ -120,7 +122,7 @@ $$
 
 \begin{equation*}
 
-p_{n,      t}=-\sum_{i=1}^{n} r_{n-i+1,      t+i} \tag{7.8}
+p_{n,       t}=-\sum_{i=1}^{n} r_{n-i+1,       t+i} \tag{7.8}
 
 \end{equation*}
 
@@ -136,7 +138,7 @@ $$
 
 \begin{equation*}
 
-y_{n,      t}=-\frac{1}{n} p_{n,      t}=\frac{1}{n} \sum_{i=1}^{n} r_{n-i+1,      t+i} \tag{7.9}
+y_{n,       t}=-\frac{1}{n} p_{n,       t}=\frac{1}{n} \sum_{i=1}^{n} r_{n-i+1,       t+i} \tag{7.9}
 
 \end{equation*}
 
@@ -144,15 +146,15 @@ $$
 
 The yield tells us the average return that we will be getting for sure if we hold the bond to maturity. Of course,  if the $n$-year bond is held for a time shorter than $n$ years,  the holding period return will be uncertain.
 
-The identity (7.9) also tells us something about the time-series properties of bond returns. Period-by-period returns can be subject to random shocks,  but their mean over $n$ periods is fixed based on the price observable at $t$. Therefore,  returns must be negatively autocorrelated! For example,  consider a two-year bond. If the log return in period $t+1$ is higher than the bond's time- $t$ yield $y_{2,      t}$,  then the log return in period $t+2$ must be lower than $y_{2,      t}$ so that the mean of the two log returns still adds up to
+The identity (7.9) also tells us something about the time-series properties of bond returns. Period-by-period returns can be subject to random shocks,  but their mean over $n$ periods is fixed based on the price observable at $t$. Therefore,  returns must be negatively autocorrelated! For example,  consider a two-year bond. If the log return in period $t+1$ is higher than the bond's time- $t$ yield $y_{2,       t}$,  then the log return in period $t+2$ must be lower than $y_{2,       t}$ so that the mean of the two log returns still adds up to
 
-$y_{2,      t}$. So mechanically,  it must be the case that returns in the two periods are negatively correlated.
+$y_{2,       t}$. So mechanically,  it must be the case that returns in the two periods are negatively correlated.
 
 More precisely,  (7.9) applied to a two-year zero-coupon bond tells us that
 
 $$
 
-y_{2,      t}=\frac{1}{2}\left(r_{2,      t+1}+r_{1,      t+2}\right)
+y_{2,       t}=\frac{1}{2}\left(r_{2,       t+1}+r_{1,       t+2}\right)
 
 $$
 
@@ -160,11 +162,11 @@ which we can solve for
 
 $$
 
-r_{1,      t+2}=2 y_{2,      t}-r_{2,      t+1}
+r_{1,       t+2}=2 y_{2,       t}-r_{2,       t+1}
 
 $$
 
-Therefore,  for a given yield $y_{2,      t}$ at time $t$,  we know that the future return $r_{1,      t+2}$ is perfectly negatively correlated with $r_{2,      t+1}$. For example,  if the return $r_{2,      t+1}$ in period $t+1$ is one percentage point higher,  then the return $r_{1,      t+2}$ in period $t+2$ will be one percentage point lower.
+Therefore,  for a given yield $y_{2,       t}$ at time $t$,  we know that the future return $r_{1,       t+2}$ is perfectly negatively correlated with $r_{2,       t+1}$. For example,  if the return $r_{2,       t+1}$ in period $t+1$ is one percentage point higher,  then the return $r_{1,       t+2}$ in period $t+2$ will be one percentage point lower.
 
 This is very important for a long-term investor. Imagine an investor with a 10-year horizon who just purchased a 10-year zero-coupon bond. It's possible that this bond falls in price tomorrow. This may seem like bad news for the investor. But there is good news at the same time: The returns of the bond will then for sure be higher going forward from tomorrow. Thus,  evaluating a bond investment in a portfolio choice framework in which one assumes IID returns may not be a good idea. The long-run risk of long-term bonds is a lot lower than the short-run risk of long-term bonds.
 
@@ -184,23 +186,23 @@ $$
 
 \begin{align*}
 
-\text { level }_{t} & =\frac{1}{10} \sum_{n=1}^{10} y_{n,      t} \\
+\text { level }_{t} & =\frac{1}{10} \sum_{n=1}^{10} y_{n,       t} \\
 
-\text { slope }_{t} & =y_{10,      t}-y_{1,      t} \\
+\text { slope }_{t} & =y_{10,       t}-y_{1,       t} \\
 
-\text { curvature }_{t} & =y_{5,      t}-\frac{y_{1,      t}+y_{10,      t}}{2} . \tag{7.10}
+\text { curvature }_{t} & =y_{5,       t}-\frac{y_{1,       t}+y_{10,       t}}{2} . \tag{7.10}
 
 \end{align*}
 
 $$
 
-The labels level,  slope,  and curvature should be self-explanatory. We can now check how movements in bond yields can be reduced to movements in these three factors by running a regression of yield changes,  $\Delta y_{n,      t}=y_{n,      t}-y_{n,      t-1}$,  on contemporaneous changes in these yield factors $\Delta$ level $_{t}=$ level $_{t}-$ level $_{t-1},      \Delta$ slope $_{t}=$ slope $_{t}-$ slope $_{t-1}$,  $\Delta$ curvature $_{t}-$ curvature $_{t-1}$. The coefficients $b_{n},      c_{n},      d_{n}$ in this regression
+The labels level,  slope,  and curvature should be self-explanatory. We can now check how movements in bond yields can be reduced to movements in these three factors by running a regression of yield changes,  $\Delta y_{n,       t}=y_{n,       t}-y_{n,       t-1}$,  on contemporaneous changes in these yield factors $\Delta$ level $_{t}=$ level $_{t}-$ level $_{t-1},       \Delta$ slope $_{t}=$ slope $_{t}-$ slope $_{t-1}$,  $\Delta$ curvature $_{t}-$ curvature $_{t-1}$. The coefficients $b_{n},       c_{n},       d_{n}$ in this regression
 
 $$
 
 \begin{equation*}
 
-\Delta y_{n,      t}=a+b_{n} \Delta \text { level }_{t}+c_{n} \Delta \text { slope }_{t}+d_{n} \Delta \text { curvature }_{t}+e_{t} \tag{7.11}
+\Delta y_{n,       t}=a+b_{n} \Delta \text { level }_{t}+c_{n} \Delta \text { slope }_{t}+d_{n} \Delta \text { curvature }_{t}+e_{t} \tag{7.11}
 
 \end{equation*}
 
@@ -242,11 +244,11 @@ To model the risk of a bond,  or of a portfolio of bonds,  we would like to know
 
 $$
 
-r_{n,      t}=a+b_{n} \Delta \text { level }_{t}+c_{n} \Delta \text { slope }_{t}+d_{n} \Delta \text { curvature }_{t}+e_{t}
+r_{n,       t}=a+b_{n} \Delta \text { level }_{t}+c_{n} \Delta \text { slope }_{t}+d_{n} \Delta \text { curvature }_{t}+e_{t}
 
 $$
 
-The results we get from these regressions will be closely related to the results we obtained with yield changes as the dependent variable,  because at daily measurement frequency,  $r_{n,      t} \approx-n \Delta y_{n,      t}$. Therefore,  the regression coefficients when we have returns as dependent variable are those from earlier in Table 7.1,  but multiplied by the maturity of the bond $n$ and with flipped sign. Figure 7.3 plots the coefficients for bonds with maturities from one to 10 years.
+The results we get from these regressions will be closely related to the results we obtained with yield changes as the dependent variable,  because at daily measurement frequency,  $r_{n,       t} \approx-n \Delta y_{n,       t}$. Therefore,  the regression coefficients when we have returns as dependent variable are those from earlier in Table 7.1,  but multiplied by the maturity of the bond $n$ and with flipped sign. Figure 7.3 plots the coefficients for bonds with maturities from one to 10 years.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
 
@@ -256,7 +258,7 @@ As the figure shows,  long-term bond returns have a much more negative $b_{n}$ c
 
 The coefficient in the regressions with returns as dependent variable are like "betas" of the bond with maturity $n$ with respect to the three bond risk factors. Once we have these coefficients,  we can answer questions like: What is effect on the return of a bond if the yield curve slope increases by 10bp? ${ }^{4}$ The answer is 10 bp times the estimate of the coefficient $c_{n}$.
 
-The coefficient $b_{n}$ in the regression estimates the (negative of the) duration of the bond. The duration of a bond measures the negative of the change in log price of a bond induced by a change in the $\log$ yield,  i.e.,  $-\partial p_{n,      t} / \partial y_{n,      t}$. For a zero-coupon bond,  duration is always equal to time until maturity,  i.e.,  $-\partial p_{n,      t} / \partial y_{n,      t}=n$. This is what Figure 7.3 shows: The $b_{n}$ coefficients are equal to the negative of maturity of the bond.
+The coefficient $b_{n}$ in the regression estimates the (negative of the) duration of the bond. The duration of a bond measures the negative of the change in log price of a bond induced by a change in the $\log$ yield,  i.e.,  $-\partial p_{n,       t} / \partial y_{n,       t}$. For a zero-coupon bond,  duration is always equal to time until maturity,  i.e.,  $-\partial p_{n,       t} / \partial y_{n,       t}=n$. This is what Figure 7.3 shows: The $b_{n}$ coefficients are equal to the negative of maturity of the bond.
 
 Since level,  slope,  and curvature factors explain almost all movement in yields across the maturity spectrum,  it is also natural that the most common yield curve trades used by professional investors are effectively taking positions in these three factors. Figure 7.4 illustrates these trades. An investor who anticipates that the yield curve will shift down in a parallel shift can profit from this by buying bonds across the maturity spectrum,  which means essentially buying the level factor. This is a directional bet on a shift in the entire yield curve. An investor who anticipates that the yield curve will steepen can take advantage of this with a yield curve trade known as a steepener. This trade takes a long position in short-term bonds and a short position in long-term bonds,  which is essentially a short position in the slope factor. An investor anticipating that the yield curve will become more concave will sell bonds of medium maturity and go long in bonds with short and long maturity,  which is essentially a short position in the curvature factor. This is known as a butterfly trade.
 
@@ -272,7 +274,7 @@ simplify things by assuming there are just two types of bonds: a short term bond
 
 More specifically,  suppose investors are considering an investment with a two-year horizon. They face the following alternatives.
 
-First,  invest in the two-year bond,  which delivers a two-year annualized log return from $t$ to $t+2$ equal to the bond's yield $y_{t,      2}$. Since $y_{t,      2}$ is known at time $t$,  the return is known for sure,  there is no uncertainty.
+First,  invest in the two-year bond,  which delivers a two-year annualized log return from $t$ to $t+2$ equal to the bond's yield $y_{t,       2}$. Since $y_{t,       2}$ is known at time $t$,  the return is known for sure,  there is no uncertainty.
 
 Second,  invest in the one-year bond and roll over the investment into a new one-year bond once the first one matures. This yields the annualized log return
 
@@ -280,13 +282,13 @@ $$
 
 \begin{equation*}
 
-\frac{1}{2}\left(y_{1,      t}+y_{1,      t+1}\right) \tag{7.12}
+\frac{1}{2}\left(y_{1,       t}+y_{1,       t+1}\right) \tag{7.12}
 
 \end{equation*}
 
 $$
 
-The short-term bond yield $y_{1,      t+1}$ is not known yet at $t$ and hence uncertain.
+The short-term bond yield $y_{1,       t+1}$ is not known yet at $t$ and hence uncertain.
 
 For the bond market to be in equilibrium,  bond prices must adjust such that neither one of this strategy is more attractive to investors than the other (otherwise the bond market would not be in equilibrium.) Investors should be indifferent between the two strategies. But one strategy has a certain payoff,  the other one has an uncertain payoff. How can we compare them? We need a few more assumptions. Let's allow for the possibility that investors demand a risk premium $\lambda_{2}$ (not necessarily positive) for holding two-year bonds and assume that this risk premium is constant. This means that the expected return on the long-term bond that investors require in equilibrium should equal to the expected return from rolling over the short-term bond plus $\lambda_{2}$. As an approximation,  let's ignore the differences between expected simple and expected log returns and let's set equal the expected log returns of the strategies,  with an adjustment for the risk premium $\lambda_{2}$ :
 
@@ -294,7 +296,7 @@ $$
 
 \begin{equation*}
 
-y_{2,      t}=\lambda_{2}+\frac{1}{2}\left(y_{1,      t}+\mathbb{E}_{t}\left[y_{1,      t+1}\right]\right) \tag{7.13}
+y_{2,       t}=\lambda_{2}+\frac{1}{2}\left(y_{1,       t}+\mathbb{E}_{t}\left[y_{1,       t+1}\right]\right) \tag{7.13}
 
 \end{equation*}
 
@@ -302,13 +304,13 @@ $$
 
 If this holds,  investors are indifferent between the two strategies. ${ }^{5}$
 
-So now we have a theory of the yield curve! To see this,  subtract $y_{1,      t}$ on both sides of (7.13). We get
+So now we have a theory of the yield curve! To see this,  subtract $y_{1,       t}$ on both sides of (7.13). We get
 
 $$
 
 \begin{equation*}
 
-y_{2,      t}-y_{1,      t}=\lambda_{2}+\frac{1}{2}\left(\mathbb{E}_{t}\left[y_{1,      t+1}\right]-y_{1,      t}\right) \tag{7.14}
+y_{2,       t}-y_{1,       t}=\lambda_{2}+\frac{1}{2}\left(\mathbb{E}_{t}\left[y_{1,       t+1}\right]-y_{1,       t}\right) \tag{7.14}
 
 \end{equation*}
 
@@ -322,7 +324,7 @@ $$
 
 \begin{equation*}
 
-y_{n,      t}=\lambda_{n}+\frac{1}{n} \sum_{i=1}^{n} \mathbb{E}_{t}\left[y_{1,      t+i-1}\right] \tag{7.15}
+y_{n,       t}=\lambda_{n}+\frac{1}{n} \sum_{i=1}^{n} \mathbb{E}_{t}\left[y_{1,       t+i-1}\right] \tag{7.15}
 
 \end{equation*}
 
@@ -360,7 +362,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}\left[y_{n,      t}-y_{1,      t}\right]=\lambda_{n} \tag{7.17}
+\mathbb{E}\left[y_{n,       t}-y_{1,       t}\right]=\lambda_{n} \tag{7.17}
 
 \end{equation*}
 
@@ -434,25 +436,25 @@ The fact that 3-month T-bill and 2-year Treasury yield movements in Figure 7.8 a
 
 long-term bonds are not a good investment because when the rate rises get implemented in the future,  long-term bond prices will fall at that point. But the market doesn't work in this way. If bond market investors are already aware that rate rises are likely coming,  bond prices already reflect these expectations of future interest rate hikes. At that time it is therefore already too late to sell long-term bonds.
 
-To get a more precise statement of this,  start with the return definition $r_{n,      t+1}=$ $p_{n-1,      t+1}-p_{n,      t}$ and then substitute $p_{n,      t}=-n y_{n,      t}$ and the expectations hypothesis (7.15). We get
+To get a more precise statement of this,  start with the return definition $r_{n,       t+1}=$ $p_{n-1,       t+1}-p_{n,       t}$ and then substitute $p_{n,       t}=-n y_{n,       t}$ and the expectations hypothesis (7.15). We get
 
 $$
 
 \begin{equation*}
 
-r_{n,      t+1}=y_{1,      t}+n \lambda_{n}-(n-1) \lambda_{n-1}-\left(\mathbb{E}_{t+1}-\mathbb{E}_{t}\right) \sum_{i=1}^{n-1} y_{1,      t+i} \tag{7.18}
+r_{n,       t+1}=y_{1,       t}+n \lambda_{n}-(n-1) \lambda_{n-1}-\left(\mathbb{E}_{t+1}-\mathbb{E}_{t}\right) \sum_{i=1}^{n-1} y_{1,       t+i} \tag{7.18}
 
 \end{equation*}
 
 $$
 
-The bond return has three components: (i) the short-term yield; (ii) a risk premium; (iii) unexpected changes in expectations of future short-term yields,  calculated as the expectation at time $t+1$ of future short-term rates minus the expectation at time $t$. If short-term interest rates follow exactly the path that was expected at $t$ and so the same path is still expected at $t+1$,  then term (iii) is zero and a long-term bond investment earns the short-term yield $y_{1,      t}$ plus the risk premium $n \lambda_{n}-(n-1) \lambda_{n-1}$. Now let's take expectations 7.18 to calculate the expected return and subtract $y_{1,      t}$ on both sides:
+The bond return has three components: (i) the short-term yield; (ii) a risk premium; (iii) unexpected changes in expectations of future short-term yields,  calculated as the expectation at time $t+1$ of future short-term rates minus the expectation at time $t$. If short-term interest rates follow exactly the path that was expected at $t$ and so the same path is still expected at $t+1$,  then term (iii) is zero and a long-term bond investment earns the short-term yield $y_{1,       t}$ plus the risk premium $n \lambda_{n}-(n-1) \lambda_{n-1}$. Now let's take expectations 7.18 to calculate the expected return and subtract $y_{1,       t}$ on both sides:
 
 $$
 
 \begin{equation*}
 
-\mathbb{E}_{t}\left[r_{n,      t+1}\right]-y_{1,      t}=n \lambda_{n}-(n-1) \lambda_{n-1} \tag{7.19}
+\mathbb{E}_{t}\left[r_{n,       t+1}\right]-y_{1,       t}=n \lambda_{n}-(n-1) \lambda_{n-1} \tag{7.19}
 
 \end{equation*}
 
@@ -546,7 +548,7 @@ $$
 
 \begin{equation*}
 
-r_{n,      t+1}=y_{1,      t}+n \lambda_{n}-(n-1) \lambda_{n-1}-\left(\mathbb{E}_{t+1}-\mathbb{E}_{t}\right) \sum_{i=1}^{n-1} y_{1,      t+i} \tag{7.21}
+r_{n,       t+1}=y_{1,       t}+n \lambda_{n}-(n-1) \lambda_{n-1}-\left(\mathbb{E}_{t+1}-\mathbb{E}_{t}\right) \sum_{i=1}^{n-1} y_{1,       t+i} \tag{7.21}
 
 \end{equation*}
 
@@ -556,7 +558,7 @@ The longer the maturity $n$ of the bond,  the more terms of future expected shor
 
 So if long-term bonds have more volatile returns,  does this mean that long-term bonds should also earn a higher risk premium than short-term bonds? While this may seem plausible,  it's not obvious. Note that we are looking at the volatility of short-term returns here. But recall that for a long-term investor,  a long-term bond is actually a risk-free investment - at least it's risk-free if the long-term investor cares about nominal payoffs,  without adjusting for inflation. So if this kind of long-term view dominates among investors,  it's also possible that long-term bond earn a smaller risk premium than short-term bonds. Let's see what the data says.
 
-In our analysis of bond returns,  we have so far focused on log returns,  due to the convenience of working with logs. But investors' care about simple,  not log returns. So in the data,  we will look at simple returns in excess of short-term bond returns. However,  the differences are quite small. For example,  if $R_{n,      t+1}$ is log-normal,  $\mathbb{E}\left[r_{n,      t+1}\right]$ $=0.02$ and $\operatorname{var}\left(r_{n,      t+1}\right)=0.05^{2}$ (which is empirically realistic,  as we will see shortly),  then $\mathbb{E}\left[R_{n,      t+1}\right] \approx \exp \left(0.02+0.05^{2} / 2\right)-1 \approx 0.0215$.
+In our analysis of bond returns,  we have so far focused on log returns,  due to the convenience of working with logs. But investors' care about simple,  not log returns. So in the data,  we will look at simple returns in excess of short-term bond returns. However,  the differences are quite small. For example,  if $R_{n,       t+1}$ is log-normal,  $\mathbb{E}\left[r_{n,       t+1}\right]$ $=0.02$ and $\operatorname{var}\left(r_{n,       t+1}\right)=0.05^{2}$ (which is empirically realistic,  as we will see shortly),  then $\mathbb{E}\left[R_{n,       t+1}\right] \approx \exp \left(0.02+0.05^{2} / 2\right)-1 \approx 0.0215$.
 
 Table 7.2: Risk and return of U.S. Treasury bonds,  annualized estimates
 
@@ -602,7 +604,7 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}_{t}\left[r_{n,      t+1}\right]-y_{1,      t}=n \lambda_{n}-(n-1) \lambda_{n-1} \tag{7.22}
+\mathbb{E}_{t}\left[r_{n,       t+1}\right]-y_{1,       t}=n \lambda_{n}-(n-1) \lambda_{n-1} \tag{7.22}
 
 \end{equation*}
 
@@ -618,7 +620,7 @@ $$
 
 \begin{equation*}
 
-\frac{1}{9}\left(\sum_{i=2}^{10} R_{i,      t+1}\right)-R_{1,      t+1}=a+b\left(y_{10,      t}-y_{1,      t}\right)+e_{t+1} \tag{7.23}
+\frac{1}{9}\left(\sum_{i=2}^{10} R_{i,       t+1}\right)-R_{1,       t+1}=a+b\left(y_{10,       t}-y_{1,       t}\right)+e_{t+1} \tag{7.23}
 
 \end{equation*}
 
@@ -654,7 +656,7 @@ $$
 
 \begin{equation*}
 
-\frac{1}{9}\left(\sum_{i=2}^{10} R_{i,      t+1}\right)-R_{1,      t+1}=a+d \mathbb{1}_{82 t o 21}+b\left(y_{10,      t}-y_{1,      t}\right)+e_{t+1} \tag{7.24}
+\frac{1}{9}\left(\sum_{i=2}^{10} R_{i,       t+1}\right)-R_{1,       t+1}=a+d \mathbb{1}_{82 t o 21}+b\left(y_{10,       t}-y_{1,       t}\right)+e_{t+1} \tag{7.24}
 
 \end{equation*}
 
@@ -694,13 +696,13 @@ $$
 
 \begin{equation*}
 
-\mathbb{E}\left[R_{b,      t}\right]-R_{f}=\beta\left(\mathbb{E}\left[R_{m,      t}\right]-R_{f}\right),      \quad \beta=\frac{\operatorname{cov}\left(R_{m,      t},      R_{b,      t}\right)}{\operatorname{var}\left(R_{m,      t}\right)} \tag{7.25}
+\mathbb{E}\left[R_{b,       t}\right]-R_{f}=\beta\left(\mathbb{E}\left[R_{m,       t}\right]-R_{f}\right),       \quad \beta=\frac{\operatorname{cov}\left(R_{m,       t},       R_{b,       t}\right)}{\operatorname{var}\left(R_{m,       t}\right)} \tag{7.25}
 
 \end{equation*}
 
 $$
 
-If $\mathbb{E}\left[R_{b,      t}\right]-R_{f}$ is higher than $\beta\left(\mathbb{E}\left[R_{m,      t}\right]-R_{f}\right)$,  then adding bonds to the risky asset portion of the portfolio would improve the Sharpe ratio of the overall portfolio.
+If $\mathbb{E}\left[R_{b,       t}\right]-R_{f}$ is higher than $\beta\left(\mathbb{E}\left[R_{m,       t}\right]-R_{f}\right)$,  then adding bonds to the risky asset portion of the portfolio would improve the Sharpe ratio of the overall portfolio.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-262.jpg?height=909&width=1199&top_left_y=294&top_left_x=428)
 
@@ -710,7 +712,7 @@ Therefore,  whether bonds are an attractive addition to the portfolio depends on
 
 Let's focus first on the 10-year bond's beta. In the 1970s,  the beta started out close to zero. Hence,  in this environment,  adding some bonds to a stock portfolio would make sense even if the expected return on bonds is just slightly above the yield on Treasury bills. But throughout the 1970s and 1980s,  the beta went up,  eventually fluctuating around 0.5 . This means that bonds at that time brought substantial systematic risk to a stock portfolio. When the stock market fell,  bond prices would fall substantially,
 
-too. With $\beta_{t}=0.5$,  bonds would have to offer more than half the equity premium $\mathbb{E}_{t}\left[R_{m,      t+1}\right]-R_{f,      t}$ to be an attractive asset to add to a portfolio that is fully invested in the stock market.
+too. With $\beta_{t}=0.5$,  bonds would have to offer more than half the equity premium $\mathbb{E}_{t}\left[R_{m,       t+1}\right]-R_{f,       t}$ to be an attractive asset to add to a portfolio that is fully invested in the stock market.
 
 Then,  in the late 1990s,  the beta dropped dramatically,  often into negative territory. Now bonds were a hedge of stock market risk: a falling stock market coincided with rising bond prices during these years. Adding bonds to a stock market portfolio could be valuable even if bonds offered less expected return than Treasury bills.
 
@@ -740,7 +742,7 @@ $$
 
 \begin{equation*}
 
-\omega_{\text {bonds },      t}=0.40-\beta_{t},      \quad \omega_{\text {stocks },      t}=1-\omega_{\text {bonds },      t} . \tag{7.26}
+\omega_{\text {bonds },       t}=0.40-\beta_{t},       \quad \omega_{\text {stocks },       t}=1-\omega_{\text {bonds },       t} . \tag{7.26}
 
 \end{equation*}
 

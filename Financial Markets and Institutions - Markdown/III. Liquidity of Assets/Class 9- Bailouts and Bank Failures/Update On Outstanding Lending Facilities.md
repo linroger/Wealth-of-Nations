@@ -46,7 +46,7 @@ On March 18,  2020,  the Board authorized the Federal Reserve Bank of Boston (FR
 Update. The MMLF began lending on March 23,  2020. As of April 14,  2020:
 
 - The total outstanding amount of the FRBB's loans under the MMLF was $51,  090,  933,  336.
-- The fair value of the collateral pledged to the FRBB was $51,  042,  576,  029. In addition,   the Department of the Treasury is providing $10 billion as credit protection to the FRBB.
+- The fair value of the collateral pledged to the FRBB was $51,   042,   576,   029. In addition,    the Department of the Treasury is providing $10 billion as credit protection to the FRBB.
 - The amount of interest,  fees,  and other revenue or items of value received by the FRBB,  reported on an accrual basis,  was $34,  178,  127.
 - As described in the Board's initial report to Congress regarding the MMLF,  the MMLF includes features that are intended to mitigate risk to the Federal Reserve. The Board continues to expect that the MMLF will not result in losses to the Federal Reserve.
 

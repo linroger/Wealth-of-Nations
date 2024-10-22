@@ -277,7 +277,7 @@ Acute illiquidity left Asia vulnerable to a sharp reversal in the direction of c
 and that is exactly what happened in the second half of 1997. Available information suggests that short term inflows suddenly reversed themselves during 1997. Data from the Institute of
 
 22See Corsetti,  Pesenti and Roubini (1998),  Sachs and Radelet (1998),  Asian Development Bank (1998).
-International Finance shows,  in particular,  that net international inflows of capital to the Asean 5 countries fell dramatically to –US$12 bn. in 1997,   from US$ 93 bn in 1996. This fall in inflows is accounted by and large by the behavior of foreign banks,  whose positions in the Asean 5 countries dropped by US$ 21.3 bn. in 1997 after increasing by US$ 55.5 bn in 1996. Combining this information with BIS data,  which shows that foreign banks increased their lending to the Asean 5 countries by US$ 13 bn. in the first half of 1997,   Radelet and Sachs (1998) conclude that there must have been a capital outflow of about US$ 34 bn. in the second half of 1997,  equivalent to a negative shock of 3.6 of GDP.
+International Finance shows,  in particular,  that net international inflows of capital to the Asean 5 countries fell dramatically to –US$12 bn. in 1997,    from US$ 93 bn in 1996. This fall in inflows is accounted by and large by the behavior of foreign banks,  whose positions in the Asean 5 countries dropped by US$ 21.3 bn. in 1997 after increasing by US$ 55.5 bn in 1996. Combining this information with BIS data,  which shows that foreign banks increased their lending to the Asean 5 countries by US$ 13 bn. in the first half of 1997,    Radelet and Sachs (1998) conclude that there must have been a capital outflow of about US$ 34 bn. in the second half of 1997,  equivalent to a negative shock of 3.6 of GDP.
 
 This suggests that when potatoes became hot in mid 1997,  international bankers panicked and decided to close their exposure to the more troubled Asian countries. They were able to pull out simply by refusing to roll over their loans,  given the prevalence of short term borrowing. The run by international creditors may,  in addition,  have been not only possible but also self fulfilling. As discussed by Calvo (1995) and Chang and Velasco (1998b),  when domestic financial entities contract short term debt abroad to finance less liquid investments,  a coordination failure becomes possible. No individual creditor will find it profitable to roll over its loan if she believes that the others will not either and that,  as a consequence,  domestic borrowers will be forced into bankruptcy. In turn,  the sudden increase in the need for liquidity may in fact crush the financial system,  confirming creditors' expectations.
 
@@ -609,9 +609,9 @@ Table 13 Short Term Debt vs Reserves
 | Short-Term Debt (millions of US$)        |           |                         |                         |          |        |         |
 |------------------------------------------|-----------|-------------------------|-------------------------|----------|--------|---------|
 |                                          | Indonesia | Korea                   | Malaysia    Philippines | Thailand | Total  |         |
-| Jun-90                                   | 10,  360    | 15,  528                  | 1,  761                   | 3,  019    | 7,  026  | 37,  694  |
-| Jun-94                                   | 18,  882    | 34,  908                  | 8,  203                   | 2,  646    | 27,  151 | 91,  790  |
-| Jun-97                                   | 34,  661    | 70,  182                  | 16,  268                  | 8,  293    | 45,  567 | 174,  971 |
+| Jun-90                                   | 10,   360    | 15,   528                  | 1,   761                   | 3,   019    | 7,   026  | 37,   694  |
+| Jun-94                                   | 18,   882    | 34,   908                  | 8,   203                   | 2,   646    | 27,   151 | 91,   790  |
+| Jun-97                                   | 34,   661    | 70,   182                  | 16,   268                  | 8,   293    | 45,   567 | 174,   971 |
 | International Reserves (millions of US$) | | | | | | |
 | | Indonesia | Korea | Malaysia Philippines | Thailand | Total | |
 | Jun-90 | 4,  693 | 14,  642 | 8,  114 | 948 | 11,  882 | 40,  279 |
@@ -644,11 +644,11 @@ Table 15
 | Total Debt (US $ millions)                |        |                               |        |         |         |         |
 |-------------------------------------------|--------|-------------------------------|--------|---------|---------|---------|
 | Indonesia                                 | Korea  | Malaysia Philippines Thailand | Total  |         |         |         |
-|                                           | 71,  039 |                               |        |         |         |         |
-| Jun-90                                    | 20,  076 | 23,  369                        | 6,  864  | 9,  055   | 11,  675  |         |
-|                                           | 13,  874 | 5,  990                         | 36,  545 | 135,  443 |         |         |
-| Jun-94                                    | 30,  902 | 48,  132                        |        |         |         |         |
-| Jun-97                                    | 58,  726 | 103,  432                       | 28,  820 | 14,  115  | 69,  382  | 274,  475 |
+|                                           | 71,   039 |                               |        |         |         |         |
+| Jun-90                                    | 20,   076 | 23,   369                        | 6,   864  | 9,   055   | 11,   675  |         |
+|                                           | 13,   874 | 5,   990                         | 36,   545 | 135,   443 |         |         |
+| Jun-94                                    | 30,   902 | 48,   132                        |        |         |         |         |
+| Jun-97                                    | 58,   726 | 103,   432                       | 28,   820 | 14,   115  | 69,   382  | 274,   475 |
 | Short-Term Debt (US $ millions) | | | | | | |
 | Indonesia | Korea | Malaysia Philippines Thailand | Total | | | |
 | Jun-90 | 10,  360 | 15,  528 | 1,  761 | 3,  019 | 7,  026 | 37,  694 |
@@ -669,16 +669,16 @@ Short-Term Debt and Total Debt
 | Total Debt (US$ millions)                 | Malaysia    Philippines   | Thailand   | Total   |        |        |         |
 |-------------------------------------------|---------------------------|------------|---------|--------|--------|---------|
 | Indonesia                                 | Korea                     |            |         |        |        |         |
-| Jun-90                                    | 20,  076                    | 23,  369     | 6,  864   | 9,  055  | 11,  675 | 71,  039  |
-| Jun-94                                    | 30,  902                    | 48,  132     | 13,  874  | 5,  990  | 36,  545 | 135,  443 |
-| Jun-97                                    | 58,  726                    | 103,  432    | 28,  820  | 14,  115 | 69,  382 | 274,  475 |
+| Jun-90                                    | 20,   076                    | 23,   369     | 6,   864   | 9,   055  | 11,   675 | 71,   039  |
+| Jun-94                                    | 30,   902                    | 48,   132     | 13,   874  | 5,   990  | 36,   545 | 135,   443 |
+| Jun-97                                    | 58,   726                    | 103,   432    | 28,   820  | 14,   115 | 69,   382 | 274,   475 |
 | Currency Positions (Claims - Liabilities) |                           |            |         |        |        |         |
 | Korea                                     | Malaysia   Philippines    | Thailand   | Total   |        |        |         |
 | Indonesia                                 |                           |            |         |        |        |         |
-| 468                                       | 2,  685                     | 212        | 430     | 679    | 4,  474  |         |
+| 468                                       | 2,   685                     | 212        | 430     | 679    | 4,   474  |         |
 | Jun-90                                    |                           |            |         |        |        |         |
-| Jun-94                                    | 843                       | 3,  182      | 1,  513   | 323    | 2,  145  | 8,  006   |
-| Jun-97                                    | 1,  262                     | 6,  152      | 2,  977   | 2,  239  | 3,  906  | 16,  536  |
+| Jun-94                                    | 843                       | 3,   182      | 1,   513   | 323    | 2,   145  | 8,   006   |
+| Jun-97                                    | 1,   262                     | 6,   152      | 2,   977   | 2,   239  | 3,   906  | 16,   536  |
 | Local Currency as a % of Total Debt       |                           |            |         |        |        |         |
 | Korea                                     | Malaysia Philippines      | Thailand   | Total   |        |        |         |
 | Indonesia                                 | 11.49                     | 3.09       | 4.75    | 5.82   | 6.30   |         |

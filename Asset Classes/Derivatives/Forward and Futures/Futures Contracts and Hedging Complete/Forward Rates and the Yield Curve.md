@@ -1,7 +1,7 @@
 ---
-title: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATES**"
-aliases: ["**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATES**", Forward Rates]
-linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATES**"
+title: Forward Rates and the Yield Curve
+aliases: ["**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**",  Forward Rates]
+linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**"
 ---
 
 ## **BOND PRICING USING ZERO-COUPON BONDS**
@@ -27,7 +27,7 @@ linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATE
 - Forward rates equal the spot rates implied for the future that would make all bonds earn the same return
 - If forwards are realized,  all self-financed bond positions earn zero return (break even)
 - If the curve is unchanged,  an n-year zero's horizon return equals the n-1 year forward rate
-# **-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATES**
+# Forward Rates and the Yield Curve
 - In this example:
 	 - The par and spot curves are upward sloping
 	 - The forward rate curve is first upward sloping,  then inverts
@@ -53,7 +53,7 @@ linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATE
 ## **-FORWARD RATES AS BREAK-EVEN RATES**
 - The implied 1-year spot rates 1 year forward are:
 	 - Equal to future spot rates that equate all bonds' next year return to that of 1-year zero
-- The implied 1-year spot rate 1 year forward f 1, 2​ is:
+- The implied 1-year spot rate 1 year forward f 1,  2​ is:
 	 - The selling rate that makes the 2-year zero's return (LHS) equal the 1-year spot rate (RHS):
 - 2-year zero return=P 1,  in 1 yearP 2,  today−1​
 - 1-year spot rate=1+s 1​
@@ -62,8 +62,8 @@ linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATE
 	 - 2-year spot rate s 2=8.08​
 	 - Plugging into equation:
 		  - 1001.1020∇⋅100 (1.08082)−1=1+0.06​
-		  - ∴f 1, 2=10.20​
-- If f 1, 2​ is realized:
+		  - ∴f 1,  2=10.20​
+- If f 1,  2​ is realized:
 	 - The 2-year zero return equals the 1-year spot rate
 	 - All bonds earn equal holding period returns
 - If the curve is unchanged:
@@ -80,7 +80,7 @@ linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,  SPOT,  AND PAR RATE
 
 # CARRY TRADE [Carry Trade 1](Carry%20Trade%201.md)
 
-Carry trade involves borrowing funds at a lower interest rate and investing them in assets that yield a higher interest rate. The difference between the interest earned and the interest paid is known as the “carry, ” and it represents the profit from the trade.
+Carry trade involves borrowing funds at a lower interest rate and investing them in assets that yield a higher interest rate. The difference between the interest earned and the interest paid is known as the “carry,  ” and it represents the profit from the trade.
 
 Negative carry trade is the opposite of carry trade,  where the cost of borrowing exceeds the yield on the investment. A negative carry trade occurs when an investor borrows funds at a higher interest rate and invests in assets yielding a lower interest rate. This leads to a loss,  or negative carry.
 
@@ -152,7 +152,7 @@ These three components fully determine the yield-curve; it can be shown that the
 
 ![Untitled](file:///Users/rogerlin/Downloads/a6e011dc-0304-4657-a83a-45529d28a9b2%252FExport-d6f59a94-eb94-4c36-a827-7adc40e6813d/Yield%20Curves%20000680c441ec43c68f8d832e5af8117a/Untitled.jpeg?lastModify=1706363157)
 
-![Untitled](data: image/svg+xml, %3 Csvg xmlns=" http://www.w3.org/2000/svg" viewBox="0 0 1550 832"%3 E%3 C/svg%3 E)
+![Untitled](data: image/svg+xml,  %3 Csvg xmlns=" http://www.w3.org/2000/svg" viewBox="0 0 1550 832"%3 E%3 C/svg%3 E)
 
 |Stage:|Full Recession|Early Recovery|Full Recovery|Early Recession|
 |---|---|---|---|---|
@@ -365,11 +365,11 @@ These three components fully determine the yield-curve; it can be shown that the
 		  - Directly measured by 1-year forward rate f_{n-1,  n}
 		  - Equals n-year zero's horizon return if curve unchanged
 	 - Other measure:
-		  - Change in (n-1)-year spot rate implied by forwards$(f_{1,  n} - s_{n-1})$
+		  - Change in (n-1)-year spot rate implied by forwards$(f_{1,   n} - s_{n-1})$
 		  - Tells yield shift needed to offset advantage of n-year zero over 1-year zero
 **Relation between 1-year forward and rolling yield**
--Approximate equation:$$f_{m,  n} \approx \frac{n S_{n}-m S_{m}}{n-m}$$
-For 1-year forwards (m = n - 1):$$f_{n-1,  n} \approx S_{n}+(n-1)\left (S_{n}-S_{n-1}\right)$$
+-Approximate equation:$$f_{m,   n} \approx \frac{n S_{n}-m S_{m}}{n-m}$$
+For 1-year forwards (m = n - 1):$$f_{n-1,   n} \approx S_{n}+(n-1)\left (S_{n}-S_{n-1}\right)$$
 - Forward rate = sum of:
 	 - N-year zero initial yield
 	 - Rolldown return
@@ -446,4 +446,4 @@ Where:
 	 - **Barbell** strategy: Maturities concentrated at two extremes
 	 - **Ladder** strategy: Equal maturities periodically
 	 - **Riding the curve**: Holding as bond price rises and selling before maturity
-- Fixed-income managers can also seek extra return with a bond investment strategy known as riding the yield curve,  or rolling down the yield curve. When the yield curve slopes upward,  as a bond approaches maturity or “rolls down the yield curve, ” it is valued at successively lower yields and higher prices. Using this strategy,  a bond is held for a period of time as it appreciates in price and is sold before maturity to realize the gain. As long as the yield curve remains normal,  or in an upward slope,  this strategy can continuously add to total return on a bond portfolio.
+- Fixed-income managers can also seek extra return with a bond investment strategy known as riding the yield curve,  or rolling down the yield curve. When the yield curve slopes upward,  as a bond approaches maturity or “rolls down the yield curve,  ” it is valued at successively lower yields and higher prices. Using this strategy,  a bond is held for a period of time as it appreciates in price and is sold before maturity to realize the gain. As long as the yield curve remains normal,  or in an upward slope,  this strategy can continuously add to total return on a bond portfolio.
