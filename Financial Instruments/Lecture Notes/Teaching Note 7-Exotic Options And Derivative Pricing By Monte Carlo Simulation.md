@@ -25,7 +25,7 @@ Booth School of Business
 - Consider again a one-step tree (to begin with).
 - Assume $S_{0}=100$,  $K=100$,  $I^{\prime}=1$,  $r=2\%$,  $\sigma=30\%$
 - Given that $u=e^{\sigma\sqrt T}=1.34986$,  the price of any derivative security with payoff $V(S_{1})$ can be computed as:
-$$V_0=E^*\left[e^{-rT}V(S_1)\right]=e^{-rT}\left[q^*V(S_{1,        u})+(1-q^*)V(S_{1,        d})\right]$$
+$$V_0=E^*\left[e^{-rT}V(S_1)\right]=e^{-rT}\left[q^*V(S_{1,         u})+(1-q^*)V(S_{1,         d})\right]$$
 
 - For instance,  a call option has price given by
 ![Image](https://storage.simpletex.cn/view/fggSV0S4U88gX3659uLg38kS5HVFXGaWy)
@@ -37,11 +37,11 @@ $$V_0=E^*\left[e^{-rT}V(S_1)\right]=e^{-rT}\left[q^*V(S_{1,        u})+(1-q^*)V(
 - We can simulate `RAND()` many times,  say $N `.
   - Whenever the realization `RAND()>q^{*}` we say that we went down the tree.
   - Whenever `RAND()<q^{*}`,  we say we went up the tree.
-- Compute the value of the stock price at time $T=1$,  $S_{1,        u}$ or $S_{1,        d}$ for each simulation.
+- Compute the value of the stock price at time $T=1$,  $S_{1,         u}$ or $S_{1,         d}$ for each simulation.
   - Let $S_{1}^{i}$ denote the realization of $S_{1}$ in simulation run $i `.
-  - Compute the payoff of the security at time $T=1$ for each simulation run,  e.g. $V(S_{1}^{i})=\max(S_{1}^{i}-K,        0)$.
+  - Compute the payoff of the security at time $T=1$ for each simulation run,  e.g. $V(S_{1}^{i})=\max(S_{1}^{i}-K,         0)$.
 - The value of the security is the average of the realizations:
-$$\left\{e^{-rT}V(S_{1}^{1}),         e^{-rT}V(S_{1}^{2}),         e^{-rT}V(S_{1}^{3}),         \dots,         e^{-rT}V(S_{1}^{N})\right\}=\frac{1}{N}$$
+$$\left\{e^{-rT}V(S_{1}^{1}),          e^{-rT}V(S_{1}^{2}),          e^{-rT}V(S_{1}^{3}),          \dots,          e^{-rT}V(S_{1}^{N})\right\}=\frac{1}{N}$$
 
 ## Monte Carlo Simulations on the Risk Neutral Trees
 - For instance,  given $q^{*}=0.4587$,  we obtain the following table:
@@ -88,12 +88,12 @@ RAND & Move Tree On & Price at T & Payoff & Discounted \\
   - The number of simulations $N$ should be large enough to obtain a reasonable “standard error",  that is,  standard deviation of our estimate itself.
   - This is computed as the standard deviation of our discounted payoff,  divided by $\sqrt{N}$.
 
-$$\mathrm{error~}=\frac{\mathrm{Standard~Deviation~of~}\{e^{-rT}V(S_{1}^{1}),        e^{-rT}V(S_{1}^{2}),        e^{-rT}\}}{\sqrt{N}}$$
+$$\mathrm{error~}=\frac{\mathrm{Standard~Deviation~of~}\{e^{-rT}V(S_{1}^{1}),         e^{-rT}V(S_{1}^{2}),         e^{-rT}\}}{\sqrt{N}}$$
 
 - In the previous example,  the standard error was $s.e.=5.715$
   - This implies that with 95% probability,  the true value of the security is between
 
-$$\mathrm{Confidence~Interval}=[\widehat{V}_{0}-2\times s.e.,        \widehat{V}_{0}+2\times s.e.]=[5.715,         28.577]$$
+$$\mathrm{Confidence~Interval}=[\widehat{V}_{0}-2\times s.e.,         \widehat{V}_{0}+2\times s.e.]=[5.715,          28.577]$$
 
 - Given the number of simulations,  we give $95\%$ probability that the true value is between 5.715 and 28.577,  a rather large interval.
 - Increasing the number of simulations to $N=1000$,  we obtain ${\tilde{V}}_{0}=15.725$ with $s.e.=0.54$.
@@ -165,8 +165,8 @@ $$\mathrm{Asian~Put~Option}=\max\left(K-\{\mathrm{Average~of~}S_{t}\mathrm{~from
 
 ![Image](https://storage.simpletex.cn/view/fmRoxEFxVUMCVdshZFukREtd6q1aRSwS7)
 
-- Even if $S_{2,        ud}=S_{2,        du}=100$,  the payoff when the final price is 100 depends on the path of $S$,  namely,  whether $S_{1}=S_{1,        u}=123.631$ or $S_{1}=S_{1,        d}=80.886$.
-- In this case,  we can compute the value of the security on the tree $V_{0}=\Sigma_{j=1}^{4}Q_{j}^{*}V_{2,        j}=7.45$.
+- Even if $S_{2,         ud}=S_{2,         du}=100$,  the payoff when the final price is 100 depends on the path of $S$,  namely,  whether $S_{1}=S_{1,         u}=123.631$ or $S_{1}=S_{1,         d}=80.886$.
+- In this case,  we can compute the value of the security on the tree $V_{0}=\Sigma_{j=1}^{4}Q_{j}^{*}V_{2,         j}=7.45$.
 - 1000 Monte Carlo simulations yield $\widehat V_{0}=7.560$ with $s.e.=0.316$.
 
 ## Why Monte Carlo Simulations?
@@ -186,11 +186,11 @@ $$\mathrm{Asian~Put~Option}=\max\left(K-\{\mathrm{Average~of~}S_{t}\mathrm{~from
 	- The option comes into existence if the stock hits an upper (up and in) or a lower (down and in) barrier.
   - **Lookback Options**:
 	- The final payoff depends on the maximum or minimum value achieved by the stock before maturity. For instance:
-$$g_T=\max(S_0,        \dots,        S_T)-S_T$$
+$$g_T=\max(S_0,         \dots,         S_T)-S_T$$
 
   - **Asian Strike Options**:
 	- The strike price is equal to the average stock price. E.g.
-$$g_T=\max(S_T-\text{Average}(S_0,        \dots,        S_T),        0)$$
+$$g_T=\max(S_T-\text{Average}(S_0,         \dots,         S_T),         0)$$
 
 ## Monte Carlo Simulations without Trees
 - There is no reason to limit MC simulations to trees.
@@ -206,7 +206,7 @@ $$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{rh}$$
 - One way to simulate is then to use the following algorithm:
 $$S_{t+h}=S_t\times e^{(r-\frac{\sigma^2}{2})h+\sigma\sqrt{h}\epsilon_t}$$
 - Where:
-$$\epsilon_t\sim N(0,        1)$$
+$$\epsilon_t\sim N(0,         1)$$
 - The rules of the log-normal distribution imply:
 $$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{(r-\frac{\sigma^2}{2})h+\left\{E^*[\sigma\sqrt{h}\times\epsilon_t]+1/2Var[\sigma\sqrt{h}\times\epsilon_t]\right\}}=e^{rh}$$
 - Moreover,  $\sigma^{2}$ converges to the (annualized) variance of log returns $Var[\log(S_{t+h}/S_{t})]$.
@@ -237,26 +237,26 @@ $$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{(r-\frac{\sigma^2}{2})h+\left\{E^*[\sig
 ## Monte Carlo Simulations with Many "Factors"
 - Consider an option that pays the maximum between the stock return on IBM and Apple within a pre-specified period.
   - That is,  if $S_{0}$ and $N_{0}$ are the current prices of the two stocks,  the payoff at maturity of the option is:
-$$\text{Payoff at}T=\max\left(\frac{S_T}{S_0},        \frac{N_T}{N_0}\right)$$
+$$\text{Payoff at}T=\max\left(\frac{S_T}{S_0},         \frac{N_T}{N_0}\right)$$
 - How much would you pay for this security?
   - We can use Monte Carlo Simulations to find out.
   - The risk-neutral processes of $S_{t}$ and $N_{t}$ are the same as before,  so we simulate:
-$$S_{t+h}=S_{t}\times e^{(r-\frac{\sigma_{S}^{2}}{2})h+\sigma_{S}\sqrt{h}\epsilon_{1,        t}}$$
-$$N_{t+h}=N_{t}\times e^{(r-\frac{\sigma_{N}^{2}}{2})h+\sigma_{N}\sqrt{h}\epsilon_{2,        t}}$$
-- If IBM and Apple are correlated stocks (as they are),  we need a methodology to simulate correlated shocks $\epsilon_{1,        t}$ and $\epsilon_{2,        t}$.
-  - Let $\hat{\epsilon}_t$ and $\hat{\epsilon}_{t}$ be standard normal,  uncorrelated with $\epsilon_{1,        t}$. Then define:
-$$\epsilon_{2,        t}=\rho\epsilon_{1,        t}+\sqrt{1-\rho^{2}}\widehat{\epsilon}_{t}$$
-  - Claim: $\epsilon_{2,        t}$ has zero mean,  variance 1,  and correlation $\rho$ with $\epsilon_{1,        t}$ (check!).
+$$S_{t+h}=S_{t}\times e^{(r-\frac{\sigma_{S}^{2}}{2})h+\sigma_{S}\sqrt{h}\epsilon_{1,         t}}$$
+$$N_{t+h}=N_{t}\times e^{(r-\frac{\sigma_{N}^{2}}{2})h+\sigma_{N}\sqrt{h}\epsilon_{2,         t}}$$
+- If IBM and Apple are correlated stocks (as they are),  we need a methodology to simulate correlated shocks $\epsilon_{1,         t}$ and $\epsilon_{2,         t}$.
+  - Let $\hat{\epsilon}_t$ and $\hat{\epsilon}_{t}$ be standard normal,  uncorrelated with $\epsilon_{1,         t}$. Then define:
+$$\epsilon_{2,         t}=\rho\epsilon_{1,         t}+\sqrt{1-\rho^{2}}\widehat{\epsilon}_{t}$$
+  - Claim: $\epsilon_{2,         t}$ has zero mean,  variance 1,  and correlation $\rho$ with $\epsilon_{1,         t}$ (check!).
 
 ## Monte Carlo Simulations with Many "Factors"
 - For each simulation run $i$,  compute the discounted payoff:
-$$V^i=e^{-rT}\max\left(\frac{S_T^i}{S_0},        \frac{N_T^i}{N_0}\right)$$
+$$V^i=e^{-rT}\max\left(\frac{S_T^i}{S_0},         \frac{N_T^i}{N_0}\right)$$
 - The price of the security is then:
 $$\widehat{V}_0=\frac{1}{n}\sum\limits_{i=1}^nV^i$$
 
 - Assuming $\sigma_{S}=\sigma_{N}=0.3$,  $r=0.02$,  and $\rho=0.7$,  the value of this option is $\widehat{V}_{0}=1.134$.
 - As a second example,  consider an option with the payoff:
-$$\text{Payoff at}T=\max\left(\frac{S_T}{S_0}-\frac{N_T}{N_0},        0\right)$$
+$$\text{Payoff at}T=\max\left(\frac{S_T}{S_0}-\frac{N_T}{N_0},         0\right)$$
   - That is,  it pays only when the first stock (say IBM) does better than the second (say Apple).
   - The same simulations show that the fair value of this option is $\widehat V_{0}=0.1$.
 - Note that the difference between one option and another is simply the final payoff. The methodology is identical.

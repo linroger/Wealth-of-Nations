@@ -1,10 +1,8 @@
 ---
-title: Lecture Slides 1
-aliases: [Lecture Slides 1 Debt Pricing]
-linter-yaml-title-alias: Lecture Slides 1 Debt Pricing
+title: Lecture Note 1Debt Pricing
 ---
 
-# Lecture Slides 1
+# Lecture Note 1Debt Pricing
 
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**
 - Strategic effects of debt. How much is too much? - Bankruptcy & Reorganization: bargaining and strategy. - Debt contract renegotiation. - Debt exchange offers when bankruptcy is the alternative - Distressed Debt Investing (especially during a financial crisis). - Capital structure is more than debt versus equity: it is a choice of source of funds: who holds and enforces the terms of securities that a firm issues.
@@ -37,17 +35,9 @@ Billions of dollars; quarterly figures are seasonally adjusted annual rates
 
 Introduction to Topic 1: **Capital structure and the choice of the sources of funds.** - What are the consequences of capital structure choice? What might change?
 
-- Probability of default
-- Payoffs to equity
-- Payoffs to manager (possibly if tied to debt or equity)
-- Tax Payments
-- Control over corporate decisions
+- Probability of default - Payoffs to equity - Payoffs to manager (possibly if tied to debt or equity) - Tax Payments - Control over corporate decisions
 - Does it matter who owns a firm's debt or equity?
-- The public small diffuse holders
-- Large individual investors
-- Large institutional investors
-- = Financial Intermediaries
-- Other publicly-held firms (Suppliers,  customers,  etc.)
+- The publicsmall diffuse holders - Large individual investors - Large institutional investors = Financial Intermediaries - Other publicly-held firms (Suppliers,  customers,  etc.)
 - We begin with the simplest case: owner managed firms issuing debt (bonds) to outside small "public" holders. In practice,  it is rare for owner-managed firms to issue bonds directly. This will be Class Note 1.
 ![7_image_0.png](7_image_0.png)
 Business 35202 slides. From Class Note 1. Douglas W Diamond 1. **No debt**
@@ -63,10 +53,10 @@ An unlevered firm will choose Project 1 1 2. **What about a firm with debt with 
 The fixed payment of $600 is a sunk cost. If the firm is going to default,  then it does not care "how big" the default is. It wants to make more when not in default. Equity gets the residual claim in excess of 600,  or zero if the firm value is less than 600.
 Contingent cash flows to equity when debt of $600 is in place
 
-| Project   | Value if D   | Value if P     | Expected Value   |
-|-----------|--------------|----------------|------------------|
-| 1         | 0            | 1500-600 = 900 | 450              |
-| 2         | 0            | 1551-600 = 951 | 475.5            |
+| Project | Value if D | Value if P     | Expected Value |
+| ------- | ---------- | -------------- | -------------- |
+| 1       | 0          | 1500-600 = 900 | 450            |
+| 2       | 0          | 1551-600 = 951 | 475.5          |
 
 An owner-managed firm with debt of 600 in place will choose project 2,  despite its negative net present value,  because the "piece of the action" that goes to the equity is worth more than with project 1. Face value of 600 exceeds the debt capacity of the firm,  because it removes incentives for proper investment. What is the debt capacity of the firm? What is the highest face value,  F,  that the borrower prefers project 1?
 The borrower's equity payoff from Project 1 with debt of face F is:
@@ -74,7 +64,7 @@ The borrower's equity payoff from Project 1 with debt of face F is:
 ½ (1500-F) + ½ (0) (for F between 500 and 1500),  0 for F>1500. The borrower's equity payoff from Project 2 with debt of face F is: ½(1551 - F) + ½(0) for F<1551 0 for F> 1551. The debt capacity must be less than 500,  because if the firm will certainly default in Depression,  all that matters is what it is worth in prosperity.
 For F < 500,  Project 1 is preferred for all F that satisfy 1000-F ≥ ½(1551-F),  which solves out to F≤ 449. As a result,  449 is the debt capacity in face value.
 
-# Debt Pricing
+# Lecture Note 1Debt Pricing
 
 Suppose lenders require an expected return of r for investing in any security of the firm. If the firm issued debt with face value 448 debt,  it would choose project 1,  and then the debt could raise up to 448 1+r. (Project 1 is also selected for face 449,  because the borrower will not hurt the lender if it does not help himself.) If the firm issued debt with face F>449,  it would lead to project 2 and raise½F + ½(0)
 1+r.
@@ -92,3 +82,6 @@ Next Class A. Let's have some suggestions for how to get out of this situation o
 - A 100% vote required to change these "key covenants."
 - Thus,  even if public bondholders had the information,  they probably could not use it.
 - Changes to other covenants in bonds require a 2/3 vote in dollar value,  and 50% measured in the fraction of bondholders (not weighted by dollar value).
+
+[Class Note 1 Borrower-Lender conflicts and implied agency problems](Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md)
+[Lecture Slides 1](Lecture%20Slides%201.md)
