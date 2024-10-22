@@ -214,8 +214,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,11 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Derivative Securities, NYU Courant"
+              "title": "Outline"
             }
           },
           {
@@ -298,12 +295,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
