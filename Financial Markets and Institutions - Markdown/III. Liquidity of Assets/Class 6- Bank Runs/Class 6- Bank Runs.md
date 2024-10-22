@@ -15,7 +15,6 @@ linter-yaml-title-alias: Class 6 Bank Runs
 	- [[Class 6- Bank Runs]]
 	- [[Investor Size Liquidity and Prime Money Market Fund Stress]]
 	- [[Investor Size, Liquidity And Prime Money Market Fund Stress]]
-	- [[Money Market Mutual Fund Liquidity Facility 1]]
 	- [[Money Market Mutual Fund Liquidity Facility]]
 	- [[Note On the Leveraged Loan Market]]
 	- [[Pilgrim Prime Rate Trust]]
