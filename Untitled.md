@@ -1,34 +1,6 @@
 1. ContentView.swift
 ```
 
-//
-//  ContentView.swift
-//  JobApplicationTracker
-//
-
-import SwiftUI
-
-struct ContentView: View {
-    @EnvironmentObject var jobStore: JobStore
-
-    var body: some View {
-        TabView {
-            JobsView()
-                .tabItem {
-                    Label("Jobs", systemImage: "briefcase.fill")
-                }
-                .tag(0)
-
-            StatsView()
-                .tabItem {
-                    Label("Stats", systemImage: "chart.bar.fill")
-                }
-                .tag(1)
-        }
-        .tint(Color.accentColor) // .accentColor replaced with .tint for modern SwiftUI
-    }
-}
-
 ```
 2. JobsView.swift
 ```
