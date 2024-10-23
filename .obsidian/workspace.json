@@ -61,13 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AppleJobTrialSourceCode.md",
+                "file": "HBR Notes/A Primer on Distressed Investing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppleJobTrialSourceCode"
+              "title": "A Primer on Distressed Investing"
             }
           },
           {
@@ -205,7 +205,7 @@
             }
           },
           {
-            "id": "1cf6b06110924627",
+            "id": "5c8d5deed344af2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -230,36 +230,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b682317f365baaff",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Derivative Securities, NYU Courant"
-            }
-          },
-          {
             "id": "1cd29bfacbf212d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asset Classes/Derivatives/Derivative Securities, NYU Courant.md",
-                "linksCollapsed": false,
+                "file": "HBR Notes/A Primer on Distressed Investing.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Derivative Securities, NYU Courant"
+              "title": "Outgoing links from A Primer on Distressed Investing"
             }
           },
           {
@@ -280,9 +261,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "HBR Notes/A Primer on Distressed Investing.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of A Primer on Distressed Investing"
             }
           },
           {
@@ -320,8 +303,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cf6b06110924627",
+  "active": "2b6b595c94c6700b",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Southland Corp. (c).md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Slides Note 9 Bidask.not New 2020.md",
+    "HBR Notes/Notes on Debtor-in-Possession DIP Financing.md",
+    "Financial Engineering/10.md",
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Financial Engineering/10. Other Topics in Quantitative Finance.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
+    "Comps Definition,  How They're Used in Analysis,  and Example.md",
+    "HBR Notes/Lecture 13- Difference-In-Differences (Part 2 Of 2).md",
+    "HBR Notes/HBR Case Study- LTCM.md",
+    "HBR Notes/A Primer on Money Market Mutual Funds.md",
+    "HBR Notes/A Primer on Distressed Investing.md",
+    "HBR Notes/A Primer on Bank Liquidity.md",
+    "HBR Notes/Untitled.md",
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "Math Notes.md",
+    "Untitled 1.md",
+    "Adv Investments/Lecture 1- Probability Distributions of Returns.md",
     "Clippings/Sterilization Definition and Example in Foreign Exchange.md",
     "AppleJobTrialSourceCode.md",
     "Clippings/People's Bank of China (PBoC) What It Is and Responsibilities.md",
@@ -330,25 +331,7 @@
     "Credit Markets/Credit Market PSETS/Credit Markets Homework 2.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Greece Faces Bond Swap Holdouts.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of CIT Group (a).md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of Cit Group (b).md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Note On LBO Capital Structure Module Note.md",
-    "Clippings/How Does China Manage Its Money Supply?.md",
-    "Clippings/Why Is the Chinese Yuan Pegged?.md",
-    "Clippings/China's State Administration of Foreign Exchange (SAFE) Overview.md",
-    "Clippings/Top 10 Countries With the Biggest Forex Reserves.md",
-    "Clippings/Foreign Exchange Reserves What They Are, Why Countries Hold Them.md",
-    "HBR Notes/Untitled.md",
-    "Clippings/Clippings.md",
     "Clippings",
-    "Untitled 1.md",
-    "Math Notes.md",
-    "HomeMax Case Study Solution.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6- Bank Runs/Investor Size, Liquidity And Prime Money Market Fund Stress.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
-    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Note 1- Debt Pricing.md",
-    "Financial Markets and Institutions - Markdown/Lecture Note 1- Debt Pricing.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 6- Bank Runs/Pilgrim Prime Rate Trust.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/The High Frequency Arms Race.md",
     "Adv Investments",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
