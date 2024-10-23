@@ -1,12 +1,13 @@
 ---
 title: "Comps Definition,  How They're Used in Analysis,  and Example"
 ---
+
 # Comps Definition,  How They're Used in Analysis,  and Example
 ## WHAT ARE COMPS?
 
 The term comps,  short for comparables,  carries different meanings depending on the industry and context,  but generally entails a comparison of financial metrics and other factors to quantify performance or determine valuation.
 
-In retail,  it refers to a company's same-store sales compared to the previous year or a similar store. Similarly,  in financial analysis,  comps is short for "comparable company analysis, " which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate,  comps are used to assess a property's value by comparing it to similar properties.
+In retail,  it refers to a company's same-store sales compared to the previous year or a similar store. Similarly,  in financial analysis,  comps is short for "comparable company analysis,  " which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate,  comps are used to assess a property's value by comparing it to similar properties.
 
 ### KEY TAKEAWAYS
 
@@ -21,11 +22,11 @@ Stores that have been open for less than one year are new stores. New stores typ
 
 ## CALCULATING AND USING RETAIL SALES COMPS
 
-To calculate a company's sales growth rate,  subtract the previous year's sales from the current year's sales and then divide the difference by the previous year's amount. For example,  if Company A earned $2 million in revenues last year and $4 million this year,  the calculation to determine its growth rate is $4 million minus $2 million,  divided by $2 million,  or 100%.
+To calculate a company's sales growth rate,   subtract the previous year's sales from the current year's sales and then divide the difference by the previous year's amount. For example,  if Company A earned $2 million in revenues last year and $4 million this year,  the calculation to determine its growth rate is $4 million minus $2 million,  divided by $2 million,  or 100%.
 
 An inquisitive investor digs deeper and asks how much of the growth was due to new stores compared to old stores. They discover that new stores generated $3 million of the current year's sales and stores open for one or more years generated only $1 million of sales.
 
-To calculate comp sales,  the investor does not include sales from new stores. The new calculation is $1 million,  minus $2 million,  divided by $2 million,  or -50%. When comp store sales are up,  the company's sales are increasing at its current stores. When total sales growth is up and comp stores are down,  the company is generating most of its revenue from the opening of new stores to maintain growth,  which could be a sign of turmoil.
+To calculate comp sales,  the investor does not include sales from new stores. The new calculation is $1 million,   minus $2 million,  divided by $2 million,  or -50%. When comp store sales are up,  the company's sales are increasing at its current stores. When total sales growth is up and comp stores are down,  the company is generating most of its revenue from the opening of new stores to maintain growth,  which could be a sign of turmoil.
 
 Comps not only provide investors and analysts with important information about the financial health of a company,  but they also help retailers assess how well their existing stores perform against other locations.
 

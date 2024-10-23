@@ -1,31 +1,31 @@
 ---
-title: FIXED INCOME ASSET PRICING
+title: PSET II Fixed Income Asset Pricing 1
 aliases: [FIXED INCOME ASSET PRICING]
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING
 ---
 
-# FIXED INCOME ASSET PRICING
+# PSET II Fixed Income Asset Pricing 1
 
 Bus 35130
 Spring 2024
 John Heaton
-March 25, 2024
+March 25,  2024
 
 ## HOMEWORK 2 DUE AT THE BEGINNING OF CLASS 3
 
-This homework is on the pricing and risk assessment of Leveraged Inverse Floaters. Please, write the solution to the homework as a clean report addressed to the principals of the fixed income group at JCH Fixed Income Group, LLP. The principals of JCH Fixed Income Group are very demanding, so make sure to describe exactly the source of your results. However, the report must be clean and concise. An appendix to the report may contain any additional material. The data for this homework are collected in the data file *HW2 Data.xls* available on canvas. Note 1: For each section below, there are questions that require pencil and paper (PP) answers, and questions that require actual computation using data and computer programs (CP). You are to do both. Note 2: As with previous homework assignments there are "guides" for doing the homework in Excel, Matlab and Python. In each code provides partial solutions to the questions.
+This homework is on the pricing and risk assessment of Leveraged Inverse Floaters. Please,  write the solution to the homework as a clean report addressed to the principals of the fixed income group at JCH Fixed Income Group,  LLP. The principals of JCH Fixed Income Group are very demanding,  so make sure to describe exactly the source of your results. However,  the report must be clean and concise. An appendix to the report may contain any additional material. The data for this homework are collected in the data file *HW2 Data.xls* available on canvas. Note 1: For each section below,  there are questions that require pencil and paper (PP) answers,  and questions that require actual computation using data and computer programs (CP). You are to do both. Note 2: As with previous homework assignments there are "guides" for doing the homework in Excel,  Matlab and Python. In each code provides partial solutions to the questions.
 
-To make the code run you are required to complete some formulas or to produce some of the results yourself. You are not required to use any of the guides, but use of one of them is recommended.
+To make the code run you are required to complete some formulas or to produce some of the results yourself. You are not required to use any of the guides,  but use of one of them is recommended.
 
 ## LEVERAGE INVERSE FLOATERS
 
-Recommended Reading: Veronesi's Book. Chapter 2 (esp. 2.8); Chapter 3 (esp. 3.7) In an environment of low interest rates, inverse floaters are popular investment vehicles that allow a fund manager to obtain a higher yield, by betting on the direction of the movement in interest rates. In particular, consider the following term sheet for a Leveraged Inverse Floater.
+Recommended Reading: Veronesi's Book. Chapter 2 (esp. 2.8); Chapter 3 (esp. 3.7) In an environment of low interest rates,  inverse floaters are popular investment vehicles that allow a fund manager to obtain a higher yield,  by betting on the direction of the movement in interest rates. In particular,  consider the following term sheet for a Leveraged Inverse Floater.
 
 ## LEVERAGED INVERSE FLOATER TERM SHEET
 
-| Date                    | February 17, 2009                                        |
+| Date                    | February 17,  2009                                        |
 |-------------------------|----------------------------------------------------------|
-| Maturity                | February 17, 2014 (5 year)                               |
+| Maturity                | February 17,  2014 (5 year)                               |
 | Payments Frequency      | Semi-annual                                              |
 | Interest Payment        | Base Interest Rate minus 2 times Reference Interest Rate |
 | Base Interest Rate      | 10%                                                      |
@@ -67,12 +67,12 @@ where:
 - $C$is the coupon payment.
 - $P$is the price of the bond.
 - $T$is the time to maturity in years.
-### CALCULATIONS FOR MATURITIES 0.5, 1, AND 1.5 YEARS
+### CALCULATIONS FOR MATURITIES 0.5,  1,  AND 1.5 YEARS
 #### MATURITY 0.5 YEARS
 - **Given Values**:
 - Price ($P$): 100.5
 - Face Value ($F$): 100
-- Coupon Payment ($C$): 1.25 (Assuming a 2.5% annual coupon rate, prorated for 0.5 years)
+- Coupon Payment ($C$): 1.25 (Assuming a 2.5% annual coupon rate,  prorated for 0.5 years)
 - Time to Maturity ($T$): 0.5
 - **Z-Factor**:
 
@@ -108,7 +108,7 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 - **Given Values**:
 - Price ($P$): 101.5
 - Face Value ($F$): 100
-- Coupon Payment ($C$): 3.75 (Assuming a 2.5% annual coupon rate, prorated for 1.5 years)
+- Coupon Payment ($C$): 3.75 (Assuming a 2.5% annual coupon rate,  prorated for 1.5 years)
 - Time to Maturity ($T$): 1.5
 - **Z-Factor**:
 
@@ -164,12 +164,12 @@ where:
 - $P$is the price of the bond.
 - $T$is the time to maturity in years.
 
-# CALCULATIONS FOR MATURITIES 0.5, 1, AND 1.5 YEARS
+# CALCULATIONS FOR MATURITIES 0.5,  1,  AND 1.5 YEARS
 
 ## MATURITY 0.5 YEARS
 - Price ($P$): 102.6953
 - Face Value ($F$): 100 (assumed)
-- Coupon Payment ($C$): 100 × 0.03 × 0.5 = 1.5 (semi-annual coupon rate of 0.03, prorated for 0.5 years)
+- Coupon Payment ($C$): 100 × 0.03 × 0.5 = 1.5 (semi-annual coupon rate of 0.03,  prorated for 0.5 years)
 - Time to Maturity ($T$): 0.5
 
 ### Z-FACTOR
@@ -205,7 +205,7 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 ## MATURITY 1.5 YEARS
 - Price ($P$): 107.7109
 - Face Value ($F$): 100 (assumed)
-- Coupon Payment ($C$): 100 × 0.0288 × 1.5 = 4.32 (semi-annual coupon rate of 0.0288, prorated for 1.5 years)
+- Coupon Payment ($C$): 100 × 0.0288 × 1.5 = 4.32 (semi-annual coupon rate of 0.0288,  prorated for 1.5 years)
 - Time to Maturity ($T$): 1.5
 
 ### Z-FACTOR
@@ -228,69 +228,69 @@ Do the following:
 (PP) Describe **bootstrap** methodology for extracting the term structure of interest rates.
 
 - Step 1: We begin the bootstrap methodology for
-- The bootstrap methodology extracts interest rates embedded in the prices of zero coupon bonds of a similar credit risk across different maturities. It begins with the aggregation of the market prices for similar types of bonds across the maturity spectrum. Using the market price and semiannual coupon for the shortest maturity bond, we can extract the price of the zero coupon bond with the same maturity for this cash flow strip. Using this zero coupon bond price, we can then solve for the zero coupon bond price for the next shortest maturity, and once we calculate this, we can then solve for the zero coupon bond price of the following shortest maturity cash flow strip. We continue this process until we reach the final maturity. Once we accomplish this, we are left with a range of zero coupon bond prices for various maturities at a given date. From these zero coupon bond prices, we can then derive the spot yield, which would be the discounting factor used to discount a \$100 face value bond to the corresponding zero coupon bond price. This would give us the spot yields for the range of maturities, which forms the term structure.
+- The bootstrap methodology extracts interest rates embedded in the prices of zero coupon bonds of a similar credit risk across different maturities. It begins with the aggregation of the market prices for similar types of bonds across the maturity spectrum. Using the market price and semiannual coupon for the shortest maturity bond,  we can extract the price of the zero coupon bond with the same maturity for this cash flow strip. Using this zero coupon bond price,  we can then solve for the zero coupon bond price for the next shortest maturity,  and once we calculate this,  we can then solve for the zero coupon bond price of the following shortest maturity cash flow strip. We continue this process until we reach the final maturity. Once we accomplish this,  we are left with a range of zero coupon bond prices for various maturities at a given date. From these zero coupon bond prices,  we can then derive the spot yield,  which would be the discounting factor used to discount a \$100 face value bond to the corresponding zero coupon bond price. This would give us the spot yields for the range of maturities,  which forms the term structure.
 
 > [!NOTE]
 > 1. Gather market data:
 >
-> 	 - Collect the available market data for various fixed-income securities, such as government bonds, corporate bonds, or interest rate swaps.
-> 	 - The data should include the security's price, coupon rate (if applicable), maturity date, and any other relevant information.
-> 2. Identify the shortest maturity security:
+> 	 - Collect the available market data for various fixed-income securities,  such as government bonds,  corporate bonds,  or interest rate swaps.
+> 	 - The data should include the security's price,  coupon rate (if applicable),  maturity date,  and any other relevant information.
+> 1. Identify the shortest maturity security:
 >
-> 	 - From the collected market data, identify the security with the shortest maturity date.
+> 	 - From the collected market data,  identify the security with the shortest maturity date.
 > 	 - This security will serve as the starting point for the bootstrap process.
-> 3. Determine the spot rate for the shortest maturity:
+> 1. Determine the spot rate for the shortest maturity:
 >
 > 	 - Calculate the spot rate (zero-coupon rate) for the shortest maturity security.
-> 	 - For a zero-coupon bond, the spot rate is simply the yield to maturity.
-> 	 - For a coupon-bearing bond, the spot rate can be derived from the bond's price and coupon payments using the following formula:
+> 	 - For a zero-coupon bond,  the spot rate is simply the yield to maturity.
+> 	 - For a coupon-bearing bond,  the spot rate can be derived from the bond's price and coupon payments using the following formula:
 > Bond Price = Coupon Payments × Discount Factors + Face Value × Discount Factor at Maturity
 > where Discount Factor = 1 / (1 + Spot Rate)^Time to Maturity
-> 4. Move to the next shortest maturity:
+> 1. Move to the next shortest maturity:
 >
 > 	 - Select the security with the next shortest maturity date from the remaining market data.
-> 5. Determine the discount factors for known maturities:
+> 1. Determine the discount factors for known maturities:
 >
-> 	 - Using the spot rates calculated in the previous steps, determine the discount factors for all maturities up to the current security's maturity.
+> 	 - Using the spot rates calculated in the previous steps,  determine the discount factors for all maturities up to the current security's maturity.
 > 	 - The discount factor for a given maturity is calculated as: Discount Factor = 1 / (1 + Spot Rate)^Time to Maturity
-> 6. Calculate the spot rate for the current maturity:
+> 1. Calculate the spot rate for the current maturity:
 >
 > 	 - Use the bond pricing formula to set up an equation that relates the security's price to its coupon payments and the unknown spot rate.
-> 	 - Solve the equation for the unknown spot rate, considering the discount factors for the known maturities.
+> 	 - Solve the equation for the unknown spot rate,  considering the discount factors for the known maturities.
 > 	 - This spot rate represents the zero-coupon rate for the current maturity.
-> 7. Repeat steps 4-6:
+> 1. Repeat steps 4-6:
 >
 > 	 - Continue the process by moving to the next shortest maturity security and repeating steps 4-6.
-> 	 - At each iteration, use the previously calculated spot rates to determine the discount factors for the known maturities and solve for the unknown spot rate.
-> 8. Construct the yield curve:
+> 	 - At each iteration,  use the previously calculated spot rates to determine the discount factors for the known maturities and solve for the unknown spot rate.
+> 1. Construct the yield curve:
 >
-> 	 - After completing the iterations for all available maturities, the result is a series of spot rates corresponding to different maturities.
+> 	 - After completing the iterations for all available maturities,  the result is a series of spot rates corresponding to different maturities.
 > 	 - Plot these spot rates against their respective maturities to create the yield curve.
-> 	 - The yield curve represents the term structure of interest rates, showing the relationship between interest rates and maturities.
-> 9. Interpolation and extrapolation (optional):
+> 	 - The yield curve represents the term structure of interest rates,  showing the relationship between interest rates and maturities.
+> 1. Interpolation and extrapolation (optional):
 >
-> 	 - If desired, interpolation techniques can be used to estimate spot rates for maturities that are not directly observed in the market data.
+> 	 - If desired,  interpolation techniques can be used to estimate spot rates for maturities that are not directly observed in the market data.
 > 	 - Extrapolation methods can be employed to extend the yield curve beyond the longest available maturity.
 
-(PP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills, Notes and Bonds on February 17, 2009. Use these data to manually compute the spot rates for maturity 0.5, 1, and 1.5. Show your work. TIP: Maturity 0.4999
-can be considered 0.5, and so on.
+(PP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,  Notes and Bonds on February 17,  2009. Use these data to manually compute the spot rates for maturity 0.5,  1,  and 1.5. Show your work. TIP: Maturity 0.4999
+can be considered 0.5,  and so on.
 
 $$\begin{align*}
-Z(0,0.5) &= \frac{102.6935 - 99.70412776}{1.03} \\
-Z(0,1) &= \frac{105.7617 - 0.0325 \times 99.70412776 - 99.92425116}{1.0325} \\
-Z(0,1.5) &= \frac{107.7109 - 0.0288 (99.29125116 + 99.70412776)}{1.0288} - 99.1395 \\
+Z(0, 0.5) &= \frac{102.6935 - 99.70412776}{1.03} \\
+Z(0, 1) &= \frac{105.7617 - 0.0325 \times 99.70412776 - 99.92425116}{1.0325} \\
+Z(0, 1.5) &= \frac{107.7109 - 0.0288 (99.29125116 + 99.70412776)}{1.0288} - 99.1395 \\
 r &= 2 \left( \frac{100}{(99.7042 - 1)^2} \right) - 0.00593355 \\
 r &= 2 \left( \frac{100}{(99.29125116 + 1)^2} \right) - 0.000709507 \\
 r &= 2 \left( \frac{100}{(99.1395 + 1)^{2/3}} \right) - 0.00576968
 \end{align*}$$
 
-(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills, Notes and Bonds on February 17, 2009. (i) Use these data to bootstrap the term structure of interest rates for as long a maturity as possible, and obtain the discount function. In particular, you will see that for several maturities, you will have a choice of which bonds to use in your bootstrap.
+(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,  Notes and Bonds on February 17,  2009. (i) Use these data to bootstrap the term structure of interest rates for as long a maturity as possible,  and obtain the discount function. In particular,  you will see that for several maturities,  you will have a choice of which bonds to use in your bootstrap.
 
-Compute two discount curves, (a) one that uses the most recently issued bonds (as of 02/19/2009), and (b) one that uses the oldest bonds. Discuss the differences. Make sure to report what data you actually use for the bootstrap as well as any approximation you have to carry out. \[Note: The bonds with highest coupon are the oldest ones].
+Compute two discount curves,  (a) one that uses the most recently issued bonds (as of 02/19/2009),  and (b) one that uses the oldest bonds. Discuss the differences. Make sure to report what data you actually use for the bootstrap as well as any approximation you have to carry out. \[Note: The bonds with highest coupon are the oldest ones].
 (ii) Plot the resulting term structure of interest rates (i.e. the spot rate function)
 for both cases (a) and (b). Discuss the difference and any other visible feature of the yield curve.
 
-The two term structures appear to be roughly similar, although the off the run bonds appear to have greater fluctuations, and at times, a higher spot rate. This could be due to the fact that off the run bonds are not traded as regularly, and are oftentimes held in a portfolio until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds, and that this would result in the less smooth term structure we observe.
+The two term structures appear to be roughly similar,  although the off the run bonds appear to have greater fluctuations,  and at times,  a higher spot rate. This could be due to the fact that off the run bonds are not traded as regularly,  and are oftentimes held in a portfolio until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds,  and that this would result in the less smooth term structure we observe.
 
 ![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401170538265.png
 
@@ -330,29 +330,29 @@ The two term structures appear to be roughly similar, although the off the run b
 (PP) Describe the cash flows of the Leverage Inverse Floater provided in Term Sheet.
 
 How can we decompose the Leverage Inverse Floater into simpler securities?
-- The leveraged Inverse Floater can be decomposed into a long position in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10, in addition to a short position in 2 floating rate coupon bonds 
-(PP) Discuss intuitively the benefits from investing in the Leverage Inverse Floaters as compared to an existing, traded, regular fixed rate note with the same maturity.
+- The leveraged Inverse Floater can be decomposed into a long position in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10,  in addition to a short position in 2 floating rate coupon bonds 
+(PP) Discuss intuitively the benefits from investing in the Leverage Inverse Floaters as compared to an existing,  traded,  regular fixed rate note with the same maturity.
 1. Higher yield: The LIF provides a higher yield due to the leverage factor and the inverse relationship with the reference interest rate.
-2. Interest rate hedge: The LIF can act as a hedge against rising interest rates, as its coupon payments increase when the reference interest rate decreases.
+2. Interest rate hedge: The LIF can act as a hedge against rising interest rates,  as its coupon payments increase when the reference interest rate decreases.
 (CP) Use the results in Point 1 to compute the price of Leverage Inverse Floater described in the Term Sheet (which term structure do you use? Remember you have to come up with one price and not two. Explain your choice). 
 
 ## 3. DURATION AND CONVEXITY
 
 (PP) Describe the **duration** of a fixed income security and how it is calculated in general. How is the duration of the Leverage Inverse Floater calculated? What are its components?
 
-- The duration of a bond measures it's price sensitivity to changes in interest rates, representing the weighted average time until a bond's cash flows are received.
+- The duration of a bond measures it's price sensitivity to changes in interest rates,  representing the weighted average time until a bond's cash flows are received.
 - The Macaulay duration is defined as
 $$D^{M c}=-\frac{(1+y/2)}{P}\frac{d P}{d y}$$
-- Or equivalently,
+- Or equivalently, 
 $$D^{M c}=\frac{1}{2}\sum_{j=1}^{n}w_{j}\times j$$
 where
-$$w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right),\;w_{n}=\frac{1}{P}\left(\frac{c/2+100}{\left(1+\frac{y}{2}\right)^{n}}\right)$$
+$$w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right), \;w_{n}=\frac{1}{P}\left(\frac{c/2+100}{\left(1+\frac{y}{2}\right)^{n}}\right)$$
 
 ## MODIFIED DURATION
 
 - The modified duration is instead defined as
 $$M D=-\frac{1}{P}\frac{d P}{d y}$$
-- Or equivalently,
+- Or equivalently, 
 $$M D=\frac{D^{M c}}{\left(1+\frac{y}{2}\right)}$$
 (CP) Calculate the duration of the Leverage Inverse Floater. Plot the value of the Leverage Inverse Floater against a hypothetical parallel shift in the term structure of interest rates.
 ![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401212426843.png)

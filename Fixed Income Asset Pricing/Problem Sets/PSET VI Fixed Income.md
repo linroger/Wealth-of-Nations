@@ -1,10 +1,10 @@
 ---
-title: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
+title: PSET VI Fixed Income
 aliases: [FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON]
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
 ---
 
-# FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
+# PSET VI Fixed Income
 
 ## HOMEWORK 6
 
@@ -15,14 +15,14 @@ Note As with past homeworks there are "guides" for doing the homework in Excel, 
 
 Attached below you will find the prospectus of Freddie Mac 6%,  20-year callable bond,  issued on June 7,  2007. Your task in this homework is to obtain its fair valuation,  using both the Ho-Lee model and the Simple BDT model. Proceed as follows:
 
-1. (CP) Use the data in *"HW6 Data Bonds.xls"* and extract the discount curve $Z(0,  T)$ from the Treasuries using Nelson-Siegel model.
+1. (CP) Use the data in *"HW6 Data Bonds.xls"* and extract the discount curve $Z(0,   T)$ from the Treasuries using Nelson-Siegel model.
 
 - Here are the discount curves and forward rates and 6 month Treasury yields plotted against time to maturity.
 - ![500](Z.%20Clippings/Fixed%20Income%20PSET%206-20240508225148684.png)
 - ![500](Z.%20Clippings/0PSET%206-20240508225138557.png)
 1. (CP) Build the Ho-Lee tree,  given by
 
-$$r_{i+1, j}=r_{i, j}+\theta(i)\times\Delta+\sigma\times\sqrt{\Delta}\times\epsilon_{i+1}$$
+$$r_{i+1,  j}=r_{i,  j}+\theta(i)\times\Delta+\sigma\times\sqrt{\Delta}\times\epsilon_{i+1}$$
 
 where $σ$ is the volatility of interest rates,  $θ(i)$ are chosen to fit the term structure of interest rates exactly,  and
 

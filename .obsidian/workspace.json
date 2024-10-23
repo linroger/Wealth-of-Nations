@@ -56,21 +56,6 @@
             }
           },
           {
-            "id": "b335010b0a3958ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HBR Notes/A Primer on Distressed Investing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Primer on Distressed Investing"
-            }
-          },
-          {
             "id": "baa773731299b5a6",
             "type": "leaf",
             "state": {
@@ -152,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +190,7 @@
             }
           },
           {
-            "id": "5c8d5deed344af2a",
+            "id": "cc849d1bdef41972",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -235,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HBR Notes/A Primer on Distressed Investing.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solutions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Primer on Distressed Investing"
+              "title": "Outgoing links from PSET 7 Solutions"
             }
           },
           {
@@ -262,10 +247,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HBR Notes/A Primer on Distressed Investing.md"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 7 Solutions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Primer on Distressed Investing"
+              "title": "Outline of PSET 7 Solutions"
             }
           },
           {
@@ -276,6 +261,24 @@
               "state": {},
               "icon": "unlink",
               "title": "Broken links"
+            }
+          },
+          {
+            "id": "3a400f1467274134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           }
         ],
@@ -303,34 +306,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b6b595c94c6700b",
+  "active": "6a1b20511ec99132",
   "lastOpenFiles": [
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Southland Corp. (c).md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Slides Note 9 Bidask.not New 2020.md",
-    "HBR Notes/Notes on Debtor-in-Possession DIP Financing.md",
-    "Financial Engineering/10.md",
-    "Financial Engineering/1. DeterministicCashFlows.md",
-    "Financial Engineering/10. Other Topics in Quantitative Finance.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-    "Comps Definition,  How They're Used in Analysis,  and Example.md",
-    "HBR Notes/Lecture 13- Difference-In-Differences (Part 2 Of 2).md",
-    "HBR Notes/HBR Case Study- LTCM.md",
-    "HBR Notes/A Primer on Money Market Mutual Funds.md",
-    "HBR Notes/A Primer on Distressed Investing.md",
-    "HBR Notes/A Primer on Bank Liquidity.md",
-    "HBR Notes/Untitled.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
-    "Math Notes.md",
-    "Untitled 1.md",
-    "Adv Investments/Lecture 1- Probability Distributions of Returns.md",
+    "Asset Classes/Derivatives/Options/Derivative Securities, NYU Courant.md",
     "Clippings/Sterilization Definition and Example in Foreign Exchange.md",
-    "AppleJobTrialSourceCode.md",
-    "Clippings/People's Bank of China (PBoC) What It Is and Responsibilities.md",
-    "Credit Markets/Black-Scholes Model.md",
-    "Credit Markets/Credit Market Session 2.md",
-    "Credit Markets/Credit Market PSETS/Credit Markets Homework 2.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Greece Faces Bond Swap Holdouts.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of CIT Group (a).md",
+    "Asset Classes/Equities/Miller Modigliani Theorems.md",
+    "Asset Classes/Equities/Lecture Note 2- Computing Cost of Capital.md",
+    "Asset Classes/Equities/Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows.md",
+    "Asset Classes/Derivatives/Forward and Futures/Futures Contracts and Hedging Complete/Forward Loans.md",
+    "Asset Classes/Derivatives/Forward and Futures/Forwards and Futures Complete.md",
+    "Asset Classes/Fixed Income Securities/Bonds/Treasury Buybacks — TreasuryDirect.md",
+    "Asset Classes/Fixed Income Securities/Bonds/Bond Pricing in Discrete Time.md",
+    "Asset Classes/Fixed Income Securities/Bonds/Leveraged Loan Primer.md",
+    "Asset Classes/Fixed Income Securities/Bonds/Notes-Handbook of Fixed Income Securities 1.md",
+    "Asset Classes/Fixed Income Securities/Bonds/Bond Complete.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Leverage Ratio What It Is, What It Tells You, How to Calculate.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+    "Financial Engineering/9. Introduction to Real Options.md",
+    "Financial Engineering/10. Other Topics in Quantitative Finance.md",
+    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
+    "Financial Engineering/7. Black Scholes Model.md",
+    "Financial Engineering/6. A Brief Introduction to Stochastic Calculus.md",
+    "Financial Engineering/5. Mean Variance-CAPM.md",
+    "Financial Engineering/10.md",
+    "Financial Engineering/2.md",
+    "Financial Instruments/Assignments/Solutions/PSET 7 Solution-Financial Instruments.md",
+    "Financial Instruments/Assignments/Solutions/PSET 6 Solution-Financial Instruments.md",
     "Clippings",
     "Adv Investments",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
