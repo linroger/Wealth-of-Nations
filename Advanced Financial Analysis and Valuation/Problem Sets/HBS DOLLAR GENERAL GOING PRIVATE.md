@@ -139,7 +139,7 @@ DG discontinued its traditional inventory packaway management model in an attemp
 
 ## REAL ESTATE STRATEGY
 
-In November 2006, DG announced significant changes to its real estate strategy. As part of a plan, approved by the board of directors, to enhance the store experience for customers, DG announced that it would close, by the end of fiscal 2007, approximately 400 stores that [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md) not meet its real estate criteria. Further, it would remodel or relocate approximately 300 stores during fiscal 2007 and decelerate new store openings, with the expectation of opening 300 new stores in fiscal 2007.
+In November 2006, DG announced significant changes to its real estate strategy. As part of a plan, approved by the board of directors, to enhance the store experience for customers, DG announced that it would close, by the end of fiscal 2007, approximately 400 stores that did not meet its real estate criteria. Further, it would remodel or relocate approximately 300 stores during fiscal 2007 and decelerate new store openings, with the expectation of opening 300 new stores in fiscal 2007.
 
 During fiscal 2006, DG opened 537 new stores and closed 237 stores, including the 128 store closings identified in its strategic review (see Table A below).
 
@@ -194,7 +194,7 @@ Eventually, according to management, Family Dollar would like to expand westward
 Fred's operates 675 discount stores in 15 mostly southeastern states, primarily in small towns.
 
 Nearly 45% of Fred's stores have full-service pharmacies (it also fills mail-order prescriptions). The retailer opened 55 stores last year and expects to increase its store count by as many as 40 new locations in 2007. Fred's is also anticipating adding 15 to 25 pharmacies to its stores this year.
-Fred's responded to Wal-Mart's announcement in September 2006 that it was lowering prices on generic drugs to$4 per prescription by following suit in select stores. Fred's said it will evaluate the success of the program and possibly extend it to other markets as Wal-Mart [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md).
+Fred's responded to Wal-Mart's announcement in September 2006 that it was lowering prices on generic drugs to$4 per prescription by following suit in select stores. Fred's said it will evaluate the success of the program and possibly extend it to other markets as Wal-Mart did.
 
 ## DOLLAR TREE STORES, INC. NASAQ: DLTR
 

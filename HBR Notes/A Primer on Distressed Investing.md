@@ -28,7 +28,7 @@ The paper is organized as follows:
 - In Section 1 we describe the restructuring process in terms of three steps: valuation of the distressed firm's assets,  development of a new capital structure for the distressed firm,  and execution of the plan to gain control of the distressed firm and implement the new capital structure.
 - Section 2 uses a hypothetical case study to illustrate the three-step process and the fact that distressed investing is more than a mechanical process or mere financial exercise. To navigate the three-step investing process success-fully,  distress investors must consider a host of legal,  financial,  and behavioral problems.
 - Section 3 examines the potential for profits from distressed investing in the context of our hypothetical example. The purpose of this discussion is to explore the risk-reward proposition of distressed investing.
-- Section 4 provides a discussion of the factors that conspire to mak[DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md)uccessful distressed investing difficult. The potential profits from distressed investing come out of various structural and behavioral aspects of the market and the complexity encountered in both valuing the distressed firm and constructing and executing a successful restructuring plan.
+- Section 4 provides a discussion of the factors that conspire to makdiduccessful distressed investing difficult. The potential profits from distressed investing come out of various structural and behavioral aspects of the market and the complexity encountered in both valuing the distressed firm and constructing and executing a successful restructuring plan.
 
 ## THE THREE-STEP RESTRUCTURING PROCESS
 
@@ -52,7 +52,7 @@ Exhibit 1 Summary Data for Acquisition of HomeMax
 |Revenue|$500.00|1st Lien Loan|$200.00|Cash|$10.00|
 |COGS|350.00|Sr. Notes|100.00|Accounts Receivable|20.55|
 |Operating Income|$150.00|Assumed Liabilities|74.72|Inventory|61.64|
-|Sell,    Gen. & Adm. Exp.|$75.00|Equity Contribution|187.78|Goodwill|370.31|
+|Sell,     Gen. & Adm. Exp.|$75.00|Equity Contribution|187.78|Goodwill|370.31|
 |Depr. & Amor. Exp.|10.00|||Prop. PI. & Eq.|100.00|
 |Interest Exp.|20.00||$562.50||$562.50|
 |Earnings before Tax|$45.00|||Valuation||
@@ -64,15 +64,15 @@ Exhibit 1 Summary Data for Acquisition of HomeMax
 
 HomeMax was a late-2003 leveraged buyout by Train & Co.
 
-(Train),  a well-regarded private equity investment firm,  which purchased HomeMax just as the recovery from the 2000-2002 recession began to accelerate. Train paid $562.5 million for HomeMax,    which in 2003 generated $75 million in earnings before interest,  taxes,  depreciation,  and amortization (EBITDA) on revenues of $500 million. The price paid by Train represented a valuation multiple of 7.5 times (in the industry,  and hereafter in this article,  this is expressed as "7.5x)
+(Train),  a well-regarded private equity investment firm,  which purchased HomeMax just as the recovery from the 2000-2002 recession began to accelerate. Train paid $562.5 million for HomeMax,     which in 2003 generated $75 million in earnings before interest,  taxes,  depreciation,  and amortization (EBITDA) on revenues of $500 million. The price paid by Train represented a valuation multiple of 7.5 times (in the industry,  and hereafter in this article,  this is expressed as "7.5x)
 
-EBITDA,  which was in line with where retailers were being valued at that time.' Train financed the acquisition,  which included approximately $75 million of assumed liabilities,    with $200 million in secured bank debt,  $100 million in senior notes,    and an equity contribution of $262.5 million. Summary data for the leveraged acquisition are set forth as in Exhibit 1.
+EBITDA,  which was in line with where retailers were being valued at that time.' Train financed the acquisition,  which included approximately $75 million of assumed liabilities,     with $200 million in secured bank debt,  $100 million in senior notes,     and an equity contribution of $262.5 million. Summary data for the leveraged acquisition are set forth as in Exhibit 1.
 
-Initially,  the acquisition appeared to be a stroke of genius. As the economy recovered and housing expanded at record rates,  sales grew approximately 15% annually and Train's operating execution expanded its EBITDA margin (EBITDA/Revenues) from 15% to 19%. HomeMax began generating so much free cash flow that Train immediately started extracting dividends and,  by the end of 2006,  it had reduced its net equity investment to slightly over $100 million. Had it sold HomeMax at that time for the then going market multiple for retailers of 8.5x EBITDA,    it might have generated an investment gain of approximately $800 million!
+Initially,  the acquisition appeared to be a stroke of genius. As the economy recovered and housing expanded at record rates,  sales grew approximately 15% annually and Train's operating execution expanded its EBITDA margin (EBITDA/Revenues) from 15% to 19%. HomeMax began generating so much free cash flow that Train immediately started extracting dividends and,  by the end of 2006,  it had reduced its net equity investment to slightly over $100 million. Had it sold HomeMax at that time for the then going market multiple for retailers of 8.5x EBITDA,     it might have generated an investment gain of approximately $800 million!
 
 But it did not. Instead,  impressed with its investment acumen and buoyed by its still bullish outlook for the housing market,  Train decided to make a significant acquisition to rapidly expand HomeMax into Northern California—a contiguous,  and similarly upscale,  geographic region —by purchasing HomeLux,  a strategically similar home product retailer. HomeLux,  in Train's view,  was almost exactly like HomeMax in 2003,  but with even more upside potential.
 
-In 2006 it generated $500 million in revenue but only $60 million in EBITDA,  representing an EBITDA margin of 12% as compared to the 19% earned by HomeMax. Assuming Train could quickly integrate HomeLux's operations with HomeMax,  they were expected to generate comparable operating results (if not improved results given the larger operating scale). So confident was HomeMax that it could realize significant operating synergies,  it agreed to buy HomeLux for $540 million,    representing a slight premium of 9.0x HomeLux's 2006 EBITDA of $60 million. After taking into account $70 million in assumed liabilities,    HomeMax financed the transaction with $325 million in debt and a $145 million equity contribution (which was actually less than the dividends they had already extracted from HomeMax—so in a sense they were purchasing HomeLux with no additional investor capital). Summary data relating to the HomeLux acquisition is set forth in Exhibit 2.
+In 2006 it generated $500 million in revenue but only $60 million in EBITDA,  representing an EBITDA margin of 12% as compared to the 19% earned by HomeMax. Assuming Train could quickly integrate HomeLux's operations with HomeMax,  they were expected to generate comparable operating results (if not improved results given the larger operating scale). So confident was HomeMax that it could realize significant operating synergies,  it agreed to buy HomeLux for $540 million,     representing a slight premium of 9.0x HomeLux's 2006 EBITDA of $60 million. After taking into account $70 million in assumed liabilities,     HomeMax financed the transaction with $325 million in debt and a $145 million equity contribution (which was actually less than the dividends they had already extracted from HomeMax—so in a sense they were purchasing HomeLux with no additional investor capital). Summary data relating to the HomeLux acquisition is set forth in Exhibit 2.
 
 However,  things did not go as planned. Integration issues hurt financial performance and required significantly more capital expenditures than budgeted. In addition,  Train,  like almost everyone else,  had not foreseen the housing collapse in late 2007 and the significant recession that ensued. The enlarged HomeMax suffered revenue declines of 20% in 2008 and 15% in 2009,  and the EBITDA margin collapsed to as low as 6%,  resulting in moderately negative cash flow (see Exhibit 3). While this might have been financed with incremental secured bank debt,  the banks had almost completely withdrawn from the market at that time and Train was forced to contribute incremental equity in 2009 and 2010 just to keep HomeMax solvent.
 
@@ -80,9 +80,9 @@ However,  things did not go as planned. Integration issues hurt financial perfor
 
 Let's assume that it is now the first calendar quarter of 2012.
 
-After reviewing the performance data in Exhibit 3,  it appears that the economy stabilized in 2011,  HomeMax's operations improved significantly and,  compared to 2010,  its EBITDA increased by approximately 50% to $79.75 million during 2011. However,    as shown in Exhibit 4,    at the end of 2011,    HomeMax's total debt is $625 million,  giving it financial leverage of 7.8x EBITDA.
+After reviewing the performance data in Exhibit 3,  it appears that the economy stabilized in 2011,  HomeMax's operations improved significantly and,  compared to 2010,  its EBITDA increased by approximately 50% to $79.75 million during 2011. However,     as shown in Exhibit 4,     at the end of 2011,     HomeMax's total debt is $625 million,  giving it financial leverage of 7.8x EBITDA.
 
-This poses a serious problem for Train. Given HomeMax's slower growth outlook in general,  and the mixed outlook for housing at the end of 2011,  the market valuation multiple for firms like HomeMax had declined to 7.0x EBITDA,  implying a total enterprise value for HomeMax of only $558 million (i.e.,    7 x $79.75 million). Since HomeMax's total debt is $625 million,    Train is materially "under water" (i.e.,    it has lost all of its equity investment). Putting Train aside,    HomeMax also has a looming liquidity problem because both its first-and second-lien secured notes (hereinafter referred to as "IL" and "2L,   " respectively) mature at the end of the current year (December 31,    2012). Furthermore,    HomeMax's bankers have advised the firm that it is very unlikely that these notes can be refinanced for at least two reasons: First,    the 1L and 2L debt in aggregate represent $400 million,  or 5.0x leverage,  which is significantly more than the 3.0 to 3.5x leverage that lenders are willing to extend in the current climate. Second. the $100 million in senior notes that Train used to finance the original HomeMax buyout in 2004 are maturing in 2014.
+This poses a serious problem for Train. Given HomeMax's slower growth outlook in general,  and the mixed outlook for housing at the end of 2011,  the market valuation multiple for firms like HomeMax had declined to 7.0x EBITDA,  implying a total enterprise value for HomeMax of only $558 million (i.e.,     7 x $79.75 million). Since HomeMax's total debt is $625 million,     Train is materially "under water" (i.e.,     it has lost all of its equity investment). Putting Train aside,     HomeMax also has a looming liquidity problem because both its first-and second-lien secured notes (hereinafter referred to as "IL" and "2L,    " respectively) mature at the end of the current year (December 31,     2012). Furthermore,     HomeMax's bankers have advised the firm that it is very unlikely that these notes can be refinanced for at least two reasons: First,     the 1L and 2L debt in aggregate represent $400 million,  or 5.0x leverage,  which is significantly more than the 3.0 to 3.5x leverage that lenders are willing to extend in the current climate. Second. the $100 million in senior notes that Train used to finance the original HomeMax buyout in 2004 are maturing in 2014.
 
 This is a problem because even if a lender could be found to refinance the maturing 1L and 2L debt,  they would be reluctant to do so because,  in just two years,  HomeMax will face another refinancing challenge: Right now it looks like there is not sufficient enterprise value to cover the senior notes (i.e.,  HomeMax's enterprise value is only $558 million compared to its total debt of $625 million),  and so those notes (collectively,  the senior notes due 6/30/14 and the senior notes due 9/30/15) now appear impossible to refinance.
 
@@ -94,7 +94,7 @@ Exhibit 2 Summary Data for Acquisition of HomeLux
 |Revenue|$500.00|Addit'l 1st Lien||$50 Cash  <br>$||
 |COGS|370.00|New 2nd Lien||150 Accounts Receivable|22.00|
 |Operating Income|$130.00|New Sr Notes||125 Inventory|60.00|
-|Sell,    Gen. & Adm. Exp.|70.00|Assumed Liabilities||70 Goodwill|358.00|
+|Sell,     Gen. & Adm. Exp.|70.00|Assumed Liabilities||70 Goodwill|358.00|
 |Depr. & Amor. Exp.|10.00|Equity Contribution||145 Prop. PI. & Eq.|100.00|
 |Interest Exp.|||$540|$|540.00|
 |Earnings before Tax|$50.00|||Valuation||
@@ -107,7 +107,7 @@ Exhibit 3 HomeMax Post-Acquisition Operating Performance
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |($MM)|2007|2008|2009|2010|2011|
-|Revenue|$1,   264.9|$1,   011.9|$860.1|$868.7|$886.10|
+|Revenue|$1,    264.9|$1,    011.9|$860.1|$868.7|$886.10|
 |Operating Margin|354.2|253.0|215.0|217.2|239.25|
 |EBITDA|139.1|70.8|51.6|52.1|79.75|
 |Interest Expense|47.0|47.0|47.0|47.0|47.00|
@@ -130,15 +130,15 @@ Exhibit 4 Summary Balance Sheet and Capital Structure Detail
 |Cash|$23.3|$19.3|$23.5|$17.2|$28.6|
 |Accounts Receivable|76.2|61.0|35.3|38.1|36.4|
 |Inventory|173.3|235.7|153.2|119.0|109.2|
-|Property,    Plant and Equipment|257.2|251.5|246.3|241.7|239.5|
+|Property,     Plant and Equipment|257.2|251.5|246.3|241.7|239.5|
 |Goodwill|728.3|728.3|728.3|728.3|728.3|
-|Total Assets|$1,   258.3|$1,   295.7|$1,   186.6|$1,   144.2|$1,   142.0|
+|Total Assets|$1,    258.3|$1,    295.7|$1,    186.6|$1,    144.2|$1,    142.0|
 |||||||
 |Accts. Payable|$231.0|$269.7|$174.6|$145.4|$137.4|
 |Total Debt|625.0|625.0|625.0|625.0|625.0|
 |Total Liabilities|856.03|894.68|799.56|770.45|762.42|
 |Equity|$402.3|$401.0|$387.1|$373.8|$379.6|
-|Liabs & Owners' Equity|$1,   258.3|$1,   295.7|$1,   186.6|$1,   144.2|$1,    142.0|
+|Liabs & Owners' Equity|$1,    258.3|$1,    295.7|$1,    186.6|$1,    144.2|$1,     142.0|
 |Panel B Capital Structure at Year End 2011 ($MM)||||||
 |EBITDA =|79.75|||Marker Price|Leverage|
 |Instrument||Amount|Leverage|Multiple 1|Multiple 2|
@@ -176,7 +176,7 @@ Exhibit 5 Projected Recovery Values of Debt Tranches
 |($MM)|2007|2008|2009|2010|2011|
 |EBITDA ($MM)|$139.14|$70.83|$51.61|$52.12|$79.75|
 |Valuation Multiple|7.50|6.00|6.00|6.50|7.00|
-|Enterprise Value ($MM)|$1,   043.53|$425.00|$309.65|$338.80|$558.24|
+|Enterprise Value ($MM)|$1,    043.53|$425.00|$309.65|$338.80|$558.24|
 |1st Lien Loan Amount ($MM)|250.00|250.00|250.00|250.00|250.00|
 |Value for more Junior Creditors ($MM)|$793.53|$175.00|$59.65|$88.80|$308.24|
 |2nd Lien Loan Amount ($MM)|$150.00|$150.00|$150.00|$150.00|$150.00|
@@ -209,7 +209,7 @@ Looking back to Exhibit 5,  it seems fairly clear that Home-Max is worth well in
 
 ![[image1 2.png|image1 2.png]]
 
-What will be the perspective of the 2L creditors? Based on the assumed 2011 valuation of $558 million (Exhibit 5),    it is fairly clear that the 2L lenders would enjoy a full recovery in a bankruptcy and thus they too will approach the voluntary restructuring with the view that they should get at least a full recovery. However,    the 2L creditors are in a very interesting position because of the debt capacity issue discussed earlier. The impetus for the restructuring is the fact that the capital markets will not refinance all the secured debt. Assuming new lenders might provide $275 million in new secured loans (approximately 3.5x 2011 EBITDA of $79.75 million),    the $250 million of 1L debt could be refinanced,  but only $25 million of the 2L's $150 million outstanding amount could be refinanced. So the holders of the 2L,  which we will assume contain some new distressed investors that purchased notes at a discount,  will recognize that they must accept equity because that would be the likely outcome in a bankruptcy. Of course,  from the perspective of the distressed holders,  this was likely their strategy all along. Indeed,  they might be disappointed that HomeMax operations improved so quickly because if they purchased in 2009 they may have hoped to get all of HomeMax's equity.
+What will be the perspective of the 2L creditors? Based on the assumed 2011 valuation of $558 million (Exhibit 5),     it is fairly clear that the 2L lenders would enjoy a full recovery in a bankruptcy and thus they too will approach the voluntary restructuring with the view that they should get at least a full recovery. However,     the 2L creditors are in a very interesting position because of the debt capacity issue discussed earlier. The impetus for the restructuring is the fact that the capital markets will not refinance all the secured debt. Assuming new lenders might provide $275 million in new secured loans (approximately 3.5x 2011 EBITDA of $79.75 million),     the $250 million of 1L debt could be refinanced,  but only $25 million of the 2L's $150 million outstanding amount could be refinanced. So the holders of the 2L,  which we will assume contain some new distressed investors that purchased notes at a discount,  will recognize that they must accept equity because that would be the likely outcome in a bankruptcy. Of course,  from the perspective of the distressed holders,  this was likely their strategy all along. Indeed,  they might be disappointed that HomeMax operations improved so quickly because if they purchased in 2009 they may have hoped to get all of HomeMax's equity.
 
 The bottom line,  then,  is that the 21 holders will not accept less than $150 million in value (i.e.,  cash or new securi-ties) in the voluntary restructuring. But whether this will be all equity or some mix of cash,  debt and equity must be negotiated. It should also be noted that,  given the valuation,  the trading value of the 2L notes will likely be fairly close to par and that this market assessment will be a further negotiating lever supporting their demand for a par recovery.
 
@@ -241,21 +241,21 @@ Exhibit 7 Restructuring Analysis
 |---|---|---|---|---|---|---|---|---|---|---|
 |Class|Original Debt  <br>($ millions) ($ millions)|Debt|Original Shares of Stock|New Shares of Stock|Total Shares|%  <br>New  <br>Shares|Shares|% Shares per  <br>Note|Recovery  <br>$*|Total Recovery  <br>$|
 |New IL Loan||$275|||||||||
-|New HomeMax  <br>Stock||||$9,   900,   000|||||||
-|Original IL|$250|(250)|||||||$1,   000.00|$250,   000,   000|
-|Original 2L|150|(25)||4,   405,   500|4,   405,   500||44.50% 44.06% 29.37|29.37|1,   003.71|150,   556,   750|
-|Sr. Notes|225|||5,   098,   500|5,   098,   500||51.50% 50.99%|22.66|645.81|145,   307,   250|
-|Equity|||100,   000|198,   000|298,   000|2.00%|2.98%||8,   493,   000|8,   493,   000|
-|Management||||198,   000|198,   000|2.00%|1.98%||5,   643,   000|5,   643,   000|
-|Total||||$9,   900,   000|$10,   000,   000|100.00%|100%||$14,   136,   000|$560,   000,   000|
+|New HomeMax  <br>Stock||||$9,    900,    000|||||||
+|Original IL|$250|(250)|||||||$1,    000.00|$250,    000,    000|
+|Original 2L|150|(25)||4,    405,    500|4,    405,    500||44.50% 44.06% 29.37|29.37|1,    003.71|150,    556,    750|
+|Sr. Notes|225|||5,    098,    500|5,    098,    500||51.50% 50.99%|22.66|645.81|145,    307,    250|
+|Equity|||100,    000|198,    000|298,    000|2.00%|2.98%||8,    493,    000|8,    493,    000|
+|Management||||198,    000|198,    000|2.00%|1.98%||5,    643,    000|5,    643,    000|
+|Total||||$9,    900,    000|$10,    000,    000|100.00%|100%||$14,    136,    000|$560,    000,    000|
 
 ## THE PLAN TO RESTRUCTURE HOMEMAX
 
 What is proposed below is but one possible restructuring outcome. Other scenarios might have been negotiated depending on the predilections of the constituent parties; however,  the one presented here is plausible. Specifically,  the key features of the plan include the following:
 
-HomeMax will enter into a new $275 million 1st lien (3.5x leverage) term loan and use the proceeds,    among other things,    to pay off the existing 1L loan. HomeMax will also issue 9,   900,   000 new shares of common stock,    which will effectively dilute the original 100,   000 outstanding shares held by Train. Subtracting the $275 million loan obligation from the 2011 estimate of enterprise value found in Exhibit 5 of $560 million (we round up from $558.25 million to simplify the numbers),  " the implied equity value for HomeMax is $285 million or $28.50 per fully diluted share.
+HomeMax will enter into a new $275 million 1st lien (3.5x leverage) term loan and use the proceeds,     among other things,     to pay off the existing 1L loan. HomeMax will also issue 9,    900,    000 new shares of common stock,     which will effectively dilute the original 100,    000 outstanding shares held by Train. Subtracting the $275 million loan obligation from the 2011 estimate of enterprise value found in Exhibit 5 of $560 million (we round up from $558.25 million to simplify the numbers),  " the implied equity value for HomeMax is $285 million or $28.50 per fully diluted share.
 
-The existing 2L Note will in aggregate receive $150 million in the form of the remaining $25 million of the new loan proceeds plus approximately $125 million in newly issued shares (which is 44% of the restructured firm's equity). Holders of the 2L notes will have the opportunity to exchange each existing note for $166.70 in cash and 29.37 shares of stock,  which represents an equity recovery of $837.005 ($28.50 per share x 29.37 shares) for an implied aggregate per bond recovery of $1,   003.71 ($166.70 in cash plus $837.005 in equity).
+The existing 2L Note will in aggregate receive $150 million in the form of the remaining $25 million of the new loan proceeds plus approximately $125 million in newly issued shares (which is 44% of the restructured firm's equity). Holders of the 2L notes will have the opportunity to exchange each existing note for $166.70 in cash and 29.37 shares of stock,  which represents an equity recovery of $837.005 ($28.50 per share x 29.37 shares) for an implied aggregate per bond recovery of $1,    003.71 ($166.70 in cash plus $837.005 in equity).
 
 The Senior Notes will in aggregate receive 51.50% of the newly issued shares. Holders will have the opportunity to exchange each existing Note for 22.66 shares of stock for an implied per bond recovery of $646 (22.66 shares × $28.50).
 
@@ -269,7 +269,7 @@ The 1Ls receive 100% of their claim out of the proceeds from the new 1st Lien fi
 
 The 2Ls receive a full recovery (albeit in both cash and equity).
 
-Train and management were able to extract about $14.1 million of value,    as compared to a potential $0 recovery in a bankruptcy. This sum is about 50% of what a bankruptcy would have cost had they not cooperated.
+Train and management were able to extract about $14.1 million of value,     as compared to a potential $0 recovery in a bankruptcy. This sum is about 50% of what a bankruptcy would have cost had they not cooperated.
 
 The Senior Notes are theoretically better off in the restructuring since the estate would have lost an assumed $30 million in value due to bankruptcy costs.
 
@@ -277,7 +277,7 @@ Now let's consider the deal from Train's perspective.
 
 They may have calculated that they could have gotten more by forcing a bankruptcy and extending their option to take advantage of a potential economic turnaround. However,  for this to work out,  the enterprise value of HomeMax would have had to increase to $669.1 million,  or an additional 20%.
 
-The basic analysis behind this conclusion is that for the value of the equity of Train and Management to equal the $14.1 million in the settlement,    the enterprise value of HomeMax must be $669.1 million:
+The basic analysis behind this conclusion is that for the value of the equity of Train and Management to equal the $14.1 million in the settlement,     the enterprise value of HomeMax must be $669.1 million:
 
 Equity Value - Enterprise Value(EV) - Total Value Face Debt - Bankrupty Costs
 
@@ -327,7 +327,7 @@ Exhibit 8 HomeMax Operating and Valuation Projections
 |EBITDA|$52.12|$79.75|$109.52|$132.89|
 |EBITDA %|6.0%|9.0%|12.0%|14.0%|
 |Valuation Multiple|6.50|7.00|7.25|8.25|
-|Enterprise Value|$338.80|$558.24|$794.03|$1,   096.32|
+|Enterprise Value|$338.80|$558.24|$794.03|$1,    096.32|
 |Less Debt|625.00|275.00|275.00|275.00|
 |Equity|(286.20)|$283.24|$519.03|$821.32|
 |Per Share|NM|$28.32|$51.90|$82.13|
@@ -352,7 +352,7 @@ However,  it should be noted that there can be many issues that will make a volu
 
 How does one analyze the potential investment return to the distressed investor in the HomeMax example? The first issue is determining a comparable basis of analysis.
 
-Let's consider an investor in the Notes. That investor exchanged the Note for 22.66 shares of stock at the end of 2011 and,  at the time of exchange,  the shares were valued at $28.32 (see Exhibit 8). But what was the "cost" of those shares to the investor? That depends on when the Notes were purchased and the trading levels at that time. For example,    assume that the investor bought the Notes at the end of 2010 for a price of 50.38 In that case,    the effective cost of the equity actually received in the restructuring would then be $22.07/ share ($500/22.66)." Thus,    after the exchange offer,    the investor had more than a 28% ($6.25/22.07) improvement in the value of the investment in simple terms. Moreover,  the owner of the Note also received two interest payments of $50,  which increases the holding period return to 51%. But the distressed investor will always be looking forward and attempting to estimate future performance and the implications for the return on investment.
+Let's consider an investor in the Notes. That investor exchanged the Note for 22.66 shares of stock at the end of 2011 and,  at the time of exchange,  the shares were valued at $28.32 (see Exhibit 8). But what was the "cost" of those shares to the investor? That depends on when the Notes were purchased and the trading levels at that time. For example,     assume that the investor bought the Notes at the end of 2010 for a price of 50.38 In that case,     the effective cost of the equity actually received in the restructuring would then be $22.07/ share ($500/22.66)." Thus,     after the exchange offer,     the investor had more than a 28% ($6.25/22.07) improvement in the value of the investment in simple terms. Moreover,  the owner of the Note also received two interest payments of $50,  which increases the holding period return to 51%. But the distressed investor will always be looking forward and attempting to estimate future performance and the implications for the return on investment.
 
 Assume that Exhibit 8 shows the investor's projected performance for HomeMax for 2012 and 2013. If these projections are even close to being realized then the distressed investor should realize very attractive investment returns. But this assessment is based on the estimated enterprise value (and corresponding equity value) of the restructured firm,  not on realized values.
 
@@ -360,13 +360,13 @@ If HomeMax were a publicly traded firm,  it would be apparent from trading price
 
 He would then have to confront the complicated problem of how to exit or monetize the investment. In market environments where there is strong investor demand for initial public stock offerings (IPOs),  this approach might be used —in effect selling the company to the public market. Alternatively,  the new equity holders could try to sell HomeMax to a strategic or,  more commonly,  a financial buyer. However,  the interest and ability of such investors can be cyclical,  which is a further risk element the distressed investor must consider.
 
-To examine the possible returns to the distressed investor,  consider the range of potential levels of EBITDA for 2012 in combination with different EBITDA valuation multiples shown in Exhibit 9. For example,  if HomeMax generates approximately the same EBITDA in 2012 that it earned in 2011 ($79.75 million) and the valuation multiple is the same (7.00x),    the enterprise value of the firm will be $558.3 million (Panel A),  and the per share value of the firm's equity will be $28.33 per share (Panel B).
+To examine the possible returns to the distressed investor,  consider the range of potential levels of EBITDA for 2012 in combination with different EBITDA valuation multiples shown in Exhibit 9. For example,  if HomeMax generates approximately the same EBITDA in 2012 that it earned in 2011 ($79.75 million) and the valuation multiple is the same (7.00x),     the enterprise value of the firm will be $558.3 million (Panel A),  and the per share value of the firm's equity will be $28.33 per share (Panel B).
 
-Distressed investors typically use two metrics to measure the return on investment. The first is the so-called "cash on cash" return. For example,  assume the investor paid X for the investment and in aggregate (including interest and fees) recovered Y. In that case,  Y/X measures the ratio of value received to invested capital. In Panel C,  the estimated cash on cash return is calculated assuming a purchase at the end of 2010,  the receipt of interest during 2011,  40 and a monetization at year-end 2012 at a range of valuations. For example,  if we assume that EBITDA is equal to $79.75 and the valuation multiple of EBITDA is 7.0X,    then the estimated value of HomeMax's shares of stock is $28.33 and the cash on cash return would be 1.48x.
+Distressed investors typically use two metrics to measure the return on investment. The first is the so-called "cash on cash" return. For example,  assume the investor paid X for the investment and in aggregate (including interest and fees) recovered Y. In that case,  Y/X measures the ratio of value received to invested capital. In Panel C,  the estimated cash on cash return is calculated assuming a purchase at the end of 2010,  the receipt of interest during 2011,  40 and a monetization at year-end 2012 at a range of valuations. For example,  if we assume that EBITDA is equal to $79.75 and the valuation multiple of EBITDA is 7.0X,     then the estimated value of HomeMax's shares of stock is $28.33 and the cash on cash return would be 1.48x.
 
 The second return metric is the investment's internal rate of return or IRR. In Panel D we compute the expected internal rates of return (IRR) over the same time period assuming the same range of exiting valuations and interim cash flows. For example,  in the investor's "base" case,  where
 
-2012 EBITDA is expected to improve to $109.52 million,    and assuming no change in valuation multiple,    the value per share is expected to increase to $49.16 per share for a cash on cash return of 2.43x and an IRR of 61.0%. But as can also be seen in Panel D,  the distressed investor faces significant downside risk should the economy falter or if management in unable to improve the integration of HomeLux into the company. In the most extreme case considered earlier in Exhibit 7,  in which EBITDA drops back to $60 million and the multiple falls to 6.0x,  the distressed investor is assumed to have an IRR of -28.0%!
+2012 EBITDA is expected to improve to $109.52 million,     and assuming no change in valuation multiple,     the value per share is expected to increase to $49.16 per share for a cash on cash return of 2.43x and an IRR of 61.0%. But as can also be seen in Panel D,  the distressed investor faces significant downside risk should the economy falter or if management in unable to improve the integration of HomeLux into the company. In the most extreme case considered earlier in Exhibit 7,  in which EBITDA drops back to $60 million and the multiple falls to 6.0x,  the distressed investor is assumed to have an IRR of -28.0%!
 
 Clearly,  the potential rewards of distress investing are great but so are the possibilities of loss. In sum,  the ultimate success or failure of the restructuring depends on the firm's ability to generate cash flow (EBITDA) as well as on general market conditions that determine valuation multiples.
 

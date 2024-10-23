@@ -7,7 +7,7 @@ aliases:
 + [[Ch1 Derivative Markets]]
 + [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 + [[Deriving Forward Exchange Rate Numerical Example]]
-+ [[Differences Between Commodities and Financial Assets]]
++ [[PRIMARY VS. SECONDARY COMMODITIES]]
 + [[Foreign Exchange Quoting Conventions]]
 + [[Forward Contracts on Exchange Rates]]
 + [[Forwards and Futures Notes]]

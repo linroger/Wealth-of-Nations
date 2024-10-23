@@ -7,7 +7,6 @@ linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 # Teaching Note 1- Forward Rates Agreement
 
 %% Begin Waypoint %%
-
 - **[[Teaching Note 1- Forward Rates Agreement]]**
 	- [[Carry Trade]]
 	- [[Ch1 Derivative Markets]]
@@ -17,7 +16,8 @@ linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 	- [[Forward Contracts on Exchange Rates]]
 	- [[Forwards and Futures Notes]]
 	- [[Hedging Strategies with Forwards]]
-	- [[Interest Rates,   Carry Trades,   and Exchange Rate Movements]]
+	- [[Interest Rates, Carry Trades, and Exchange Rate Movements]]
+	- [[PRIMARY VS. SECONDARY COMMODITIES]]
 	- [[Teaching Note 1- Forward Rates Agreement]]
 
 %% End Waypoint %%
@@ -26,8 +26,7 @@ linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 	- [[Ch1 Derivative Markets]]
 	- [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 	- [[Deriving Forward Exchange Rate Numerical Example]]
-	- [[Differences Between Commodities and Financial Assets]]
-	- [[Foreign Exchange Quoting Conventions]]
+	- [[Differences Between Co[[PRIMARY VS. SECONDARY COMMODITIES]]uoting Conventions]]
 	- [[Forward Contracts on Exchange Rates]]
 	- [[Forwards and Futures Notes]]
 	- [[Hedging Strategies with Forwards]]

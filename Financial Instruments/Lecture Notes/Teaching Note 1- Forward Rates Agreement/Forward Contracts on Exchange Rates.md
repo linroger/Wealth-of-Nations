@@ -3,7 +3,7 @@
 + [[Ch1 Derivative Markets]]
 + [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 + [[Deriving Forward Exchange Rate Numerical Example]]
-+ [[Differences Between Commodities and Financial Assets]]
++ [[PRIMARY VS. SECONDARY COMMODITIES]]
 + [[Foreign Exchange Quoting Conventions]]
 + [[Forward Contracts on Exchange Rates]]
 + [[Forwards and Futures Notes]]
@@ -136,4 +136,4 @@ At maturity,
 
 [Deriving Forward Exchange Rate Numerical Example 1](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example%201.md)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
-[Differences Between Commodities and Financial Assets](Differences%20Between%20Commodities%20and%20Financial%20Assets.md)
+[PRIMARY VS. SECONDARY COMMODITIES](PRIMARY%20VS.%20SECONDARY%20COMMODITIES.md)

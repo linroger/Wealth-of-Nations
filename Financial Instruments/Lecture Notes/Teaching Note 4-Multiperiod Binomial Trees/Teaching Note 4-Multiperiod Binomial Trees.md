@@ -7,10 +7,9 @@ linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 # LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 
 %% Begin Waypoint %%
-
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
-	- [[Hedging Procedure]]
+	- [[CALCULATE STOCK PRICES AT DIFFERENT NODES]]
 	- [[Options Strategies Construction]]
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[The Pricing of Options and Corporate Liabilities]]

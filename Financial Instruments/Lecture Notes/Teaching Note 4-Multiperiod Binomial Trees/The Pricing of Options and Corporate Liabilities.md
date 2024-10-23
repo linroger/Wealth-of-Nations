@@ -10,7 +10,7 @@ linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]
-	- [[Hedging Procedure]]
+	- [[CALCULATE STOCK PRICES AT DIFFERENT NODES]]
 	- [[Options Strategies Construction]]
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]

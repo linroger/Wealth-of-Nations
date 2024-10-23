@@ -8,7 +8,7 @@ linter-yaml-title-alias: COVERED INTEREST RATE PARITY
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 
 [PSET 1-Financial Instruments](PSET%201-Financial%20Instruments.md)
-[PSET 2 Financial Instruments](PSET%202%20Financial%20Instruments.md)
+[1          EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY](1%20%20%20%20%20%20%20%20%20%20EXPLOITING%20AN%20APPARENT%20ARBITRAGE%20OPPORTUNITY.md)
 
 # COVERED INTEREST RATE PARITY
 ## 1. MODEL PARAMETERS

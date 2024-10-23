@@ -47,12 +47,15 @@
             "id": "f6915c3fbfce250c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation"
+                "file": "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "I- Introduction to Financial Markets and Intermediation"
+              "title": "HBS DOLLAR GENERAL GOING PRIVATE"
             }
           },
           {
@@ -269,6 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HBS DOLLAR GENERAL GOING PRIVATE"
             }
           }
         ],
@@ -306,8 +310,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a1b20511ec99132",
+  "active": "f6915c3fbfce250c",
   "lastOpenFiles": [
+    "HBR Notes/A Primer on Distressed Investing.md",
+    "HBR Notes/A Primer on Bank Liquidity.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Differences Between Commodities and Financial Assets.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 3 Understanding The Term Structure Of Interest Rates.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 4 Interest Rate Derivatives.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/FORWARD RATES AND TERM STRUCTURE.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/PRIMARY VS. SECONDARY COMMODITIES.md",
+    "Financial Instruments/Assignments/1          EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
+    "HBR Notes/HBR Case StudyLTCM.md",
+    "Tags/#primers+notes",
+    "Asset Classes/Derivatives/Options/Options and Futures Pricing.pdf",
     "Asset Classes/Derivatives/Options/Derivative Securities, NYU Courant.md",
     "Clippings/Sterilization Definition and Example in Foreign Exchange.md",
     "Asset Classes/Equities/Miller Modigliani Theorems.md",
@@ -324,16 +340,6 @@
     "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
     "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
     "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
-    "Financial Engineering/9. Introduction to Real Options.md",
-    "Financial Engineering/10. Other Topics in Quantitative Finance.md",
-    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
-    "Financial Engineering/7. Black Scholes Model.md",
-    "Financial Engineering/6. A Brief Introduction to Stochastic Calculus.md",
-    "Financial Engineering/5. Mean Variance-CAPM.md",
-    "Financial Engineering/10.md",
-    "Financial Engineering/2.md",
-    "Financial Instruments/Assignments/Solutions/PSET 7 Solution-Financial Instruments.md",
-    "Financial Instruments/Assignments/Solutions/PSET 6 Solution-Financial Instruments.md",
     "Clippings",
     "Adv Investments",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
@@ -351,8 +357,6 @@
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7"
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5"
   ]
 }
