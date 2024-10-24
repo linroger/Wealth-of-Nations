@@ -569,12 +569,9 @@ Table 2.1: Annualized mean,  standard deviations,  and correlations for various 
 
 ```latex
 \begin{document}
-\begin{table}[]
-\centering
-\label{table}
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
 \hline
-{\bfseries         } & {\bfseries Stocks} & {\bfseries I-Stocks} & {\bfseries Value } & {\bfseries Small } & {\bfseries T-Bonds} & {\bfseries I-Bonds} & {\bfseries C-Bonds} & {\bfseries REITS} & {\bfseries Gold } \\ \hline\hline
+         & Stocks & I-Stocks & Value  & Small  & T-Bonds & I-Bonds & C-Bonds & REITS & Gold  \\ \hline\hline
 Mean     & 0.079  & 0.060    & 0.102  & 0.091  & 0.030   & 0.041   & 0.037   & 0.074 & 0.007 \\ \hline
 Std.dev. & 0.157  & 0.172    & 0.177  & 0.209  & 0.064   & 0.087   & 0.068   & 0.170 & 0.175 \\ \hline
 Stocks   & 1.000  & 0.711    & 0.877  & 0.851  & 0.056   & 0.243   & 0.349   & 0.652 & 0.086 \\ \hline
@@ -587,39 +584,11 @@ C-Bonds  & 0.349  & 0.308    & 0.281  & 0.222  & 0.816   & 0.478   & 1.000   & 0
 REITS    & 0.652  & 0.520    & 0.689  & 0.632  & 0.120   & 0.308   & 0.393   & 1.000 & 0.128 \\ \hline
 Gold     & 0.086  & 0.173    & 0.028  & 0.069  & 0.117   & 0.349   & 0.157   & 0.128 & 1.000 \\ \hline
 \end{tabular}
-\end{table}
 \end{document}
 ```
 
 
-|   | Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold |
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-| Mean | 0.079 | 0.060 | 0.102 | 0.091 | 0.030 | 0.041 | 0.037 | 0.074 | 0.007 |
-
-| Std.dev. | 0.157 | 0.172 | 0.177 | 0.209 | 0.064 | 0.087 | 0.068 | 0.170 | 0.175 |
-
-|   |   |   |   |   |   |   |   |   |   |
-
-| Stocks | 1.000 | 0.711 | 0.877 | 0.851 | 0.056 | 0.243 | 0.349 | 0.652 | 0.086 |
-
-| I-Stocks | 0.711 | 1.000 | 0.647 | 0.599 | 0.048 | 0.545 | 0.308 | 0.520 | 0.173 |
-
-| Value | 0.877 | 0.647 | 1.000 | 0.823 | -0.025 | 0.192 | 0.281 | 0.689 | 0.028 |
-
-| Small | 0.851 | 0.599 | 0.823 | 1.000 | -0.079 | 0.166 | 0.222 | 0.632 | 0.069 |
-
-| T-Bonds | 0.056 | 0.048 | -0.025 | -0.079 | 1.000 | 0.435 | 0.816 | 0.120 | 0.117 |
-
-| I-Bonds | 0.243 | 0.545 | 0.192 | 0.166 | 0.435 | 1.000 | 0.478 | 0.308 | 0.349 |
-
-| C-Bonds | 0.349 | 0.308 | 0.281 | 0.222 | 0.816 | 0.478 | 1.000 | 0.393 | 0.157 |
-
-| REITS | 0.652 | 0.520 | 0.689 | 0.632 | 0.120 | 0.308 | 0.393 | 1.000 | 0.128 |
-
-| Gold | 0.086 | 0.173 | 0.028 | 0.069 | 0.117 | 0.349 | 0.157 | 0.128 | 1.000 |
-
+![](CleanShot%202024-10-24%20-003108@2x.png)
 Table 2.1 shows an example from the same data of several asset classes that we already looked at last lecture. I broke the covariances into standard deviations (shown in the second row) and correlations (matrix below the second row). The underlying data are monthly returns,  but I annualized the mean returns and standard deviations by multiplying with 12 and $\sqrt{12}$,  respectively.
 
 Note that we are now considering Treasury bonds,  and also the other bond asset classes,  as risky assets. In Lecture 1,  we did a crude calculation of the average investor's risky asset share where we lumped Treasury bonds and other bonds into a broad riskfree asset class. Here we are now taking a more refined approach where only short-term Treasury bills are viewed as risk-free while bonds with maturities beyond one year are viewed as risky. And,  indeed,  the table above shows that the return standard deviations of the bond asset classes are substantial.
