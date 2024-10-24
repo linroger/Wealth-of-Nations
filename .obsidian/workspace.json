@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
+                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hull White Term Structure Simulations with QuantLib Python"
+              "title": "On the Convergence of Hull White Monte Carlo Simulations"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
+                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hull White Term Structure Simulations with QuantLib Python"
+              "title": "Backlinks for On the Convergence of Hull White Monte Carlo Simulations"
             }
           }
         ],
@@ -225,9 +225,16 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
+    "Attachments/standard_deviation_of_discount_factors 1.png",
+    "Attachments/standard_deviation_of_discount_factors.png",
+    "Clippings/Option Model Handbook, Part III European Option Pricing With QuantLib Python.md",
+    "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
+    "Attachments/binomial_tree_for_varying_steps.png",
+    "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
+    "Attachments/mean_of_short_rates.png",
+    "Attachments/variance_of_short_rates.png",
     "Attachments/Unknown.png",
     "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
-    "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
     "Clippings/Modeling Fixed Rate Bonds in QuantLib Python.md",
     "Clippings/Introduction to QuantLib Python.md",
     "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
@@ -255,11 +262,6 @@
     "Attachments/Keep It 2024-10-24 10.52.14.png",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Attachments/Keep It 2024-10-24 10.48.12.png",
-    "Attachments/Keep It 2024-10-24 10.47.46.png",
-    "Attachments/Keep It 2024-10-24 10.47.27.png",
-    "Attachments/Keep It 2024-10-24 10.47.20.png",
-    "Attachments/Keep It 2024-10-24 10.47.10.png",
-    "Attachments/CleanShot 2024-10-24 -003126@2x.png",
     "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
     "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
@@ -268,8 +270,6 @@
     "Advanced Investments/Advanced Investments Lecture Notes.md",
     "Advanced Investments/Advanced Investments.md",
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md",
-    "Clippings/China's Monetary Policy.md",
-    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md"
+    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md"
   ]
 }
