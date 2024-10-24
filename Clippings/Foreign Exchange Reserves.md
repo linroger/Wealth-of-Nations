@@ -1,11 +1,11 @@
 ---
-title: Foreign Exchange Reserves What They Are,  Why Countries Hold Them
+title: Foreign Exchange Reserves
 source: "https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp"
 description: "Foreign exchange reserves are supplies of foreign currency held by a central bank."
 tags: ["clippings"]
 ---
 
-# Foreign Exchange Reserves What They Are,  Why Countries Hold Them
+# Foreign Exchange Reserves
 ## What Are Foreign Exchange Reserves?
 
 Foreign exchange reserves are assets that are denominated in a foreign currency held by a central bank. These reserves are used to back liabilities and influence monetary policy.
@@ -45,7 +45,7 @@ As of May 2024,  China held $768.3 billion in U.S. Treasury securities,  making 
 
 ## Who Has the Largest Foreign Exchange Reserves in the World?
 
-According to an [analysis of foreign exchange reserves](https://www.investopedia.com/articles/investing/033115/10-countries-biggest-forex-reserves.asp),  China has the largest foreign exchange reserve in the world,  holding over $3.6 trillion. Japan came in second,  holding $1.3 trillion,  and Switzerland followed with $890 billion.
+According to an [analysis of foreign exchange reserves](https://www.investopedia.com/articles/investing/033115/10-countries-biggest-forex-reserves.asp),  China has the largest foreign exchange reserve in the world,  holding over $3.6 trillion. Japan came in second,    holding $1.3 trillion,  and Switzerland followed with $890 billion.
 
 ## How Much Money Total Is Held in Foreign Exchange Reserve?
 

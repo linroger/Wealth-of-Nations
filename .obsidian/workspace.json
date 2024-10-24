@@ -113,6 +113,291 @@
             }
           },
           {
+            "id": "c64236a4b98a2c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market PSETS"
+            }
+          },
+          {
+            "id": "66c80a2c1f403230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market Session 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market Session 2"
+            }
+          },
+          {
+            "id": "c842f5945b19c2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market Solutions"
+            }
+          },
+          {
+            "id": "d8724918c973af81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Usage of QuantLib analytics library"
+            }
+          },
+          {
+            "id": "4b48a3c42ef5f528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market PSETS"
+            }
+          },
+          {
+            "id": "1150a8ac3353d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Markets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Markets"
+            }
+          },
+          {
+            "id": "31c2aab61303ed16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market Solutions"
+            }
+          },
+          {
+            "id": "2ece4a10d9de2225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market PSETS"
+            }
+          },
+          {
+            "id": "0e831725290db1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Markets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Markets"
+            }
+          },
+          {
+            "id": "5fa6b7c88a854e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Chinese Currency Peg.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chinese Currency Peg"
+            }
+          },
+          {
+            "id": "87822c02b963c91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Chinese Currency Peg.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chinese Currency Peg"
+            }
+          },
+          {
+            "id": "59658da5061f20e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Financial Analysis and Valuation"
+            }
+          },
+          {
+            "id": "c270645e71e7d94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial Ratios"
+            }
+          },
+          {
+            "id": "cdb1ad1edc596a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Lecture Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Notes"
+            }
+          },
+          {
+            "id": "dbe0e1bddf002bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
+          },
+          {
+            "id": "422f3495d96def44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2"
+            }
+          },
+          {
+            "id": "2841008d63f239a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3"
+            }
+          },
+          {
+            "id": "bbe9637b8d87f512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4"
+            }
+          },
+          {
+            "id": "02440f7294551a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market PSETS"
+            }
+          },
+          {
             "id": "208d8643f8d3a57f",
             "type": "leaf",
             "state": {
@@ -158,7 +443,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -317,34 +602,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6648d4f5fe714203",
+  "active": "bbe9637b8d87f512",
   "lastOpenFiles": [
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Lecture Notes.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
+    "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+    "Clippings/Chinese Currency Peg.md",
+    "Credit Markets/Credit Markets.md",
+    "Clippings/Top 10 Countries With the Biggest Forex Reserves.md",
+    "Clippings/Foreign Exchange Sterilization.md",
+    "Clippings/People's Bank of China (PBoC).md",
+    "Clippings/Foreign Exchange Reserves.md",
+    "Clippings/China's Monetary Policy.md",
+    "Clippings/China's State Administration of Foreign Exchange (SAFE) Overview.md",
     "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+    "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
+    "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
+    "Credit Markets/Credit Market Solutions.md",
+    "Credit Markets/Credit Market Session 2.md",
+    "Credit Markets/Credit Markets Session 4.md",
+    "Credit Markets/Credit Markets Session 3.md",
+    "Credit Markets/Credit Markets Session 1.md",
     "Attachments/9/9.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1.md",
-    "Tags/#primers+notes/#primers+notes.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Lecture Notes.md",
-    "Attachments/Attachments.md",
-    "svg-cache/svg-cache.md",
-    "Tags/Tags.md",
-    "Credit Markets/Credit Markets.md",
-    "Financial Engineering/Financial Engineering.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Ch1 Introduction to Derivative Markets.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Deriving Forward Exchange Rate Numerical Example.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Foreign Exchange Quoting Conventions.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Forward Contracts on Exchange Rates.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Forwards and Futures Notes.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Hedging Strategies with Forwards.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates, Carry Trades, and Exchange Rate Movements.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/PRIMARY VS. SECONDARY COMMODITIES.md",
     "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
     "Fixed Income",
     "Tags/#primers+notes",

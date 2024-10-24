@@ -33,13 +33,13 @@ Observation: ~380 US cash treasury instruments (bills,  notes and bonds) activel
 ## THE NELSON-SIEGEL MODEL FOR SMOOTH YIELD CURVES
 
 The Nelson-Siegel '87 Model
-Idea: decompose the spot/zero yield curve $y(\,     T)$ into 3 "basis function shapes":
+Idea: decompose the spot/zero yield curve $y(\,      T)$ into 3 "basis function shapes":
 
 Level: $$\theta_{1}\cdot1$$
 
-Slope: $$\theta_{2}\cdot\frac{1-e^{-\,     T/\lambda}}{T/\lambda}$$
+Slope: $$\theta_{2}\cdot\frac{1-e^{-\,      T/\lambda}}{T/\lambda}$$
 
-Curvature/"hump": $$\theta_{3}\cdot\left(\frac{1-e^{-\,     T/\lambda}}{T/\lambda}-e^{-\,     T/\lambda}\right)$$
+Curvature/"hump": $$\theta_{3}\cdot\left(\frac{1-e^{-\,      T/\lambda}}{T/\lambda}-e^{-\,      T/\lambda}\right)$$
 
 - … and calibrate/control the yield curve shape via
 	- "basis loadings" q1,  q2,  q3 parameters and
@@ -47,7 +47,7 @@ Curvature/"hump": $$\theta_{3}\cdot\left(\frac{1-e^{-\,     T/\lambda}}{T/\lambd
 - Svensson '94 extension
 	- added "second hump" shape: q4 ·
 
-$${\frac{1-e^{-\,     T/\lambda_{2}}}{T/\lambda_{2}}}-e^{-\,     T/\lambda_{2}}$$
+$${\frac{1-e^{-\,      T/\lambda_{2}}}{T/\lambda_{2}}}-e^{-\,      T/\lambda_{2}}$$
 
 ## NELSON-SIEGEL BASIS FUNCTIONS
 
@@ -98,24 +98,24 @@ What problem are we trying to solve?
 RECAP: PRICING RISKY INSTRUMENTS (CASH BONDS AND CDS)
 
 - For a given issuer and seniority rank,  prices for all risky instruments (with known specs) can be computed from
-- … the discount factor curve $DF(0,      T),      T ≥ t ≥ 0$,  calibrated to risk-free rates market (TSY & SOFR) and
-- … the hazard rate curve $h(t,      T),      T ≥ t ≥ 0$.
-- Very useful to think of "average" hazard rates $H(t,      T)$
+- … the discount factor curve $DF(0,       T),       T ≥ t ≥ 0$,  calibrated to risk-free rates market (TSY & SOFR) and
+- … the hazard rate curve $h(t,       T),       T ≥ t ≥ 0$.
+- Very useful to think of "average" hazard rates $H(t,       T)$
 
-$$H(t,     \,     T)=\frac{1}{T-t}\int_{t}^{T}h(t,     s)ds\tag{1}$$
+$$H(t,      \,      T)=\frac{1}{T-t}\int_{t}^{T}h(t,      s)ds\tag{1}$$
 
-$$SP(t,     \,     T)=\exp\left[(t-T)\cdot H(t,     \,     T)\right]\tag{2}$$
+$$SP(t,      \,      T)=\exp\left[(t-T)\cdot H(t,      \,      T)\right]\tag{2}$$
 
 ## IMPLEMENTING A "SMOOTH" CREDIT RISK MODEL
 
 Main idea: use parametric form for average hazard rate curve as of time $t$
 
-$$H(t,     T)=H(t,     T|\theta_{t})\tag{3}$$
+$$H(t,      T)=H(t,      T|\theta_{t})\tag{3}$$
 
 Parameter vector $\theta_{t}$ controls the "shape" (level,  slope,  convexity,  etc) of the credit curve.
 The implied parametric form for the survival probability curve is given by
 
-$${\mathcal{S}}P(t,     T)={\mathcal{S}}P(t,     T|\theta_{t})=\exp\left[(t-T)\cdot H(t,     T|\theta_{t})\right]\tag{4}$$
+$${\mathcal{S}}P(t,      T)={\mathcal{S}}P(t,      T|\theta_{t})=\exp\left[(t-T)\cdot H(t,      T|\theta_{t})\right]\tag{4}$$
 
 ![](9877b9bbc57ca3163a1e0785f4f9bbd9.png)
 
@@ -127,9 +127,9 @@ q1 = 3%,  q2 = −1%,  q3 = −0.1%,  l = 5 q1 = 3%,  q2 = −1%,  q3 = −0.1%,
 - For each instrument,  determine calibration weights based on liquidity and riskiness,  e.g. $w_i = \frac{"*LiqScore_i"}{DV 01_i}$
 - Model calibration consists of minimizing the SSE ("Sum of Squared Errors") between model and market prices:
 
-$$SSE(t,     \theta):=\sum_{i=1}^{N}w_{i}\cdot\left|MarketPrice_{t}^{i}-ModelPrice_{t}^{i}(\theta)\right|^{2},     \tag{5}$$
+$$SSE(t,      \theta):=\sum_{i=1}^{N}w_{i}\cdot\left|MarketPrice_{t}^{i}-ModelPrice_{t}^{i}(\theta)\right|^{2},      \tag{5}$$
 
-$$\theta_{t}^{*}=\begin{array}{c}\mbox{\it argmin}\\ \theta\end{array}\left\{SSE(t,     \theta)\right\}\tag{6}$$
+$$\theta_{t}^{*}=\begin{array}{c}\mbox{\it argmin}\\ \theta\end{array}\left\{SSE(t,      \theta)\right\}\tag{6}$$
 
 ## NELSON-SIEGEL CALIBRATION: VERIZON G-SPREADS
 

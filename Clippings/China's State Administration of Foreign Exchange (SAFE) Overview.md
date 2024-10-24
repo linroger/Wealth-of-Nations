@@ -27,7 +27,7 @@ The agency is administered at the state level and is made up of seven department
 
 - Drafting policies and [regulations](https://www.investopedia.com/terms/r/regulation-i.asp) related to foreign reserves and foreign exchanges
 - Supervising and inspecting [forex](https://www.investopedia.com/terms/f/forex.asp) transactions
-- Managing China's forex,  gold reserves,  and foreign currency [assets](https://www.investopedia.com/terms/a/asset.asp)6﻿﻿7
+- Managing China's forex,   gold reserves,  and foreign currency [assets](https://www.investopedia.com/terms/a/asset.asp)6﻿﻿7
 
 SAFE is also involved in the study and implementation of policy measures for the advancement of the convertibility of the country's official national currency,  the [renminbi](https://www.investopedia.com/terms/forex/c/cny-china-yuan-renminbi.asp) (CNY/RMB)0.\1﻿ The significance of an adjustment in the currency's value to the global economy,  along with China's huge forex reserves,  makes the agency an increasingly important player in international forex and [financial markets](https://www.investopedia.com/terms/f/financial-market.asp).
 

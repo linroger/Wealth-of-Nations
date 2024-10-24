@@ -272,9 +272,9 @@ What Is Special About Sovereigns?
 
 ### SIMPLE VALUATION FORMULAS (FLAT HAZARD RATE MODEL)
 
-$$PV_{CDS}\left(c,    r,    h,    R,    T\right)=\left[\frac{c-(1-R)\cdot h}{r+h}\right]\cdot\left[1-e^{-T\cdot(r+h)}\right]. \tag{1}$$
+$$PV_{CDS}\left(c,     r,     h,     R,     T\right)=\left[\frac{c-(1-R)\cdot h}{r+h}\right]\cdot\left[1-e^{-T\cdot(r+h)}\right]. \tag{1}$$
 
-$$PV_{Bond}\left(c,    r,    h,    R,    T\right)=1+\left[\frac{c-r-(1-R)\cdot h}{r+h}\right]\cdot\left[1-e^{-T\cdot(r+h)}\right] \tag{2}$$
+$$PV_{Bond}\left(c,     r,     h,     R,     T\right)=1+\left[\frac{c-r-(1-R)\cdot h}{r+h}\right]\cdot\left[1-e^{-T\cdot(r+h)}\right] \tag{2}$$
 
 See next session for details on the Hazard Rate Model
 
