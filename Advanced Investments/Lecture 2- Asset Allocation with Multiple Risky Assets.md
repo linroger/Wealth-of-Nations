@@ -4,7 +4,7 @@ tags: [tag_example,  example_tag]
 title: Lecture 2Asset Allocation with Multiple Risky Assets
 ---
 
-# Lecture 2Asset Allocation with Multiple Risky Assets
+# Lecture 2- Asset Allocation with Multiple Risky Assets
 
 We now extend our optimal portfolio choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
 
@@ -568,11 +568,12 @@ $$
 Table 2.1: Annualized mean,   standard deviations,   and correlations for various asset classes 1980-2022
 
 ```latex
+\usepackage{graphicx}
 \begin{document}
+\resizebox{\textwidth}{2cm}{
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-\tiny
 \hline
-         & Stocks & I-Stocks & Value  & Small  & T-Bonds & I-Bonds & C-Bonds & REITS & Gold  \\ \hline\hline
+         & Stocks & I-Stocks & Value  & Small  & T-Bonds & I-Bonds & C-Bonds & REITS & Gold  \\ \hline
 Mean     & 0.079  & 0.060    & 0.102  & 0.091  & 0.030   & 0.041   & 0.037   & 0.074 & 0.007 \\ \hline
 Std.dev. & 0.157  & 0.172    & 0.177  & 0.209  & 0.064   & 0.087   & 0.068   & 0.170 & 0.175 \\ \hline
 Stocks   & 1.000  & 0.711    & 0.877  & 0.851  & 0.056   & 0.243   & 0.349   & 0.652 & 0.086 \\ \hline
@@ -584,7 +585,7 @@ I-Bonds  & 0.243  & 0.545    & 0.192  & 0.166  & 0.435   & 1.000   & 0.478   & 0
 C-Bonds  & 0.349  & 0.308    & 0.281  & 0.222  & 0.816   & 0.478   & 1.000   & 0.393 & 0.157 \\ \hline
 REITS    & 0.652  & 0.520    & 0.689  & 0.632  & 0.120   & 0.308   & 0.393   & 1.000 & 0.128 \\ \hline
 Gold     & 0.086  & 0.173    & 0.028  & 0.069  & 0.117   & 0.349   & 0.157   & 0.128 & 1.000 \\ \hline
-\end{tabular}
+\end{tabular}}
 \end{document}
 ```
 
