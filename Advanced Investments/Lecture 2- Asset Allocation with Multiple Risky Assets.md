@@ -527,33 +527,15 @@ If we take a position different from the market portfolio,  there must be,  for 
 
 The market portfolio is a very special portfolio. Aside from new issues of stocks,  delistings,  and needs to reinvest dividends,  holding the market portfolio does not require any trading. For example,  if we hold the market portfolio and the price of asset $i$ goes up from yesterday to today more than the market overall,  its weight in our portfolio goes up. However,  its weight goes up exactly the same in the market portfolio. Hence,  we don't have to trade to keep holding the market portfolio. This is why index funds typically follow value-weighted indices where asset weights depend on stocks' market capitalization relative to the aggregate market capitalization of all stocks in the index,  just like in the market portfolio.
 
-| VITNX | Institutional Total Stock Market Index Fund Institutional Shares |   |   |   |   | Inst $\vee$ |   | 罗 $\square$ |
-
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-| Overview | Performance & Price |   | Fees & Costs | Portfolio | Yield & Distribution | Fund literature |   |
-
-|   | VITNX | Benchmark | +/- Weight |   |   | VITNX | Benchmark |
-
-| Number of stocks | 3,  620 | 4,  094 | $-474$ | Earnings growth rate |   | $19.6/% | $19.6/% |
-
-| Avg market cap | $$ 440.8$ billion | $$ 440.9$ billion | $$ 0.2$ billion | Short-term reserves |   | - | N/A |
-
-| Median market cap | $$ 122.9$ billion | $122.9 billion | $$ 0.0$ billion | P/E ratio |   | 19.3 x | 19.3 x |
-
-|   |   |   |   | P/B ratio |   | $3.5 x$ | 3.5 x |
-
-|   |   |   |   | Turnover rate (Fiscal y | 12/31/2021) | 4.8% | N/A |
+![](CleanShot%202024-10-24%20-003106@2x.png)
 
 Figure 2.1: Turnover rate of Vanguard Total Stock Market Index Fund (VITNX)
 
-Because trading needs are so minimal,  holding the market portfolio,  or more generally a value-weighted portfolio,  is very cheap in terms of trading cost. As an example,  Figure (2.1) shows some portfolio statistics for the Vanguard Total Stock Market Index Fund. This is a fund that aims to replicate the performance of the entire market portfolio of U.S. stocks as represented by the CRSP value-weighted index. As the figure shows,  the turnover rate of this fund is less than $5/% per year. This means that only $5/% of the portfolio's total value is traded each year. Most of this is accounted for by dividends,  proceeds from mergers that must be reinvested,  and investment in initial or seasoned
+Because trading needs are so minimal,  holding the market portfolio,  or more generally a value-weighted portfolio,  is very cheap in terms of trading cost. As an example,  Figure (2.1) shows some portfolio statistics for the Vanguard Total Stock Market Index Fund. This is a fund that aims to replicate the performance of the entire market portfolio of U.S. stocks as represented by the CRSP value-weighted index. As the figure shows,  the turnover rate of this fund is less than $5/% per year. This means that only $5/% of the portfolio's total value is traded each year. Most of this is accounted for by dividends,  proceeds from mergers that must be reinvested,  and investment in initial or seasoned public offerings that come to the market. But other than this,  there is basically no need to trade.
 
-public offerings that come to the market. But other than this,  there is basically no need to trade.
+> [!Figure 2.2: From Pershing Square Capital Management Annual Letter 2015]
+> popular indexes are market-cap weighted. This means that the larger the market cap of the company,  the larger its representation in the index. In other words,  as the stock price rises,  its weighting in the index increases,  and the index fund is required to buy more of the company. While value investors typically buy more as stock prices decline (assuming intrinsic value has also not declined),  market-cap weighted index funds do the opposite. They are inherently momentum investors,  forced to buy more as stock prices rise,  magnifying the risk of overvaluation of the index components.
 
-popular indexes are market-cap weighted. This means that the larger the market cap of the company,  the larger its representation in the index. In other words,  as the stock price rises,  its weighting in the index increases,  and the index fund is required to buy more of the company. While value investors typically buy more as stock prices decline (assuming intrinsic value has also not declined),  market-cap weighted index funds do the opposite. They are inherently momentum investors,  forced to buy more as stock prices rise,  magnifying the risk of overvaluation of the index components.
-
-Figure 2.2: From Pershing Square Capital Management Annual Letter 2015
 
 There is also a lot of misconception out there about the mechanics of running a market-capitalization weighted portfolio like the Vanguard Total Stock Market Index Fund or any other market-capitalization weighted fund. One popular misconception is that market-cap weighting implies that the fund has to purchase more shares when prices go up. This fuels the concern that the presence of market-cap weighted funds in the market may lead to asset price bubbles where price increases cause further mechanical buying,  which leads to further price increases not justified by fundamentals,  etc. Figure 2.2 shows an example from Bill Ackman's (Pershing Square Capital Management) 2015 letter to shareholders. This sort of argument is mistaken,  however. If the price of an asset in a market-cap weighted portfolio rises by $x/%,  then,  everything else equal,  the weight of the asset in a market-capitalization weighted index rises by $x/%. At the same time,  the weight of the asset in a market-capitalization weighted portfolio also rises by $x/%-without any trading. Therefore,  after this price change,  the asset's weight in the portfolio is still exactly equal to the share that a market-capitalization weighted index fund wants it to be. There is zero need to trade.
 
@@ -584,6 +566,23 @@ $$
 $$
 
 Table 2.1: Annualized mean,  standard deviations,  and correlations for various asset classes 1980-2022
+
+
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+{\bfseries         } & {\bfseries Stocks} & {\bfseries I-Stocks} & {\bfseries Value } & {\bfseries Small } & {\bfseries T-Bonds} & {\bfseries I-Bonds} & {\bfseries C-Bonds} & {\bfseries REITS} & {\bfseries Gold } \\ \hline\hline
+Mean     & 0.079  & 0.060    & 0.102  & 0.091  & 0.030   & 0.041   & 0.037   & 0.074 & 0.007 \\ \hline
+Std.dev. & 0.157  & 0.172    & 0.177  & 0.209  & 0.064   & 0.087   & 0.068   & 0.170 & 0.175 \\ \hline
+Stocks   & 1.000  & 0.711    & 0.877  & 0.851  & 0.056   & 0.243   & 0.349   & 0.652 & 0.086 \\ \hline
+I-Stocks & 0.711  & 1.000    & 0.647  & 0.599  & 0.048   & 0.545   & 0.308   & 0.520 & 0.173 \\ \hline
+Value    & 0.877  & 0.647    & 1.000  & 0.823  & -0.025  & 0.192   & 0.281   & 0.689 & 0.028 \\ \hline
+Small    & 0.851  & 0.599    & 0.823  & 1.000  & -0.079  & 0.166   & 0.222   & 0.632 & 0.069 \\ \hline
+T-Bonds  & 0.056  & 0.048    & -0.025 & -0.079 & 1.000   & 0.435   & 0.816   & 0.120 & 0.117 \\ \hline
+I-Bonds  & 0.243  & 0.545    & 0.192  & 0.166  & 0.435   & 1.000   & 0.478   & 0.308 & 0.349 \\ \hline
+C-Bonds  & 0.349  & 0.308    & 0.281  & 0.222  & 0.816   & 0.478   & 1.000   & 0.393 & 0.157 \\ \hline
+REITS    & 0.652  & 0.520    & 0.689  & 0.632  & 0.120   & 0.308   & 0.393   & 1.000 & 0.128 \\ \hline
+Gold     & 0.086  & 0.173    & 0.028  & 0.069  & 0.117   & 0.349   & 0.157   & 0.128 & 1.000 \\ \hline
+\end{tabular
 
 |   | Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold |
 
