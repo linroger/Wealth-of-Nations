@@ -4,7 +4,7 @@ tags: [tag_example,  example_tag]
 title: Lecture 3Dynamics of Returns
 ---
 
-# Lecture 3Dynamics of Returns
+# Lecture 3- Dynamics of Returns
 
 ## Lecture 3
 
@@ -146,23 +146,21 @@ $$
 
 The same is not true for log returns. A weighted average of log returns is not equal to the $\log$ return on the portfolio,  $r_{p}=\log \left(\boldsymbol{\omega}^{\prime} \boldsymbol{r}\right)$.
 
-Now that we have log returns in our toolbox,  we can also get a more realistic in our assumptions about the distribution of returns. In the past two lectures,  we assumed in some analyses and simulations that simple returns are normally distributed. Strictly speaking,  this assumption did not really make economic sense. The support of the normal distribution is unbounded in both tails. This means that assuming normally distributed returns implies positive probability on the event that returns are less than $-100 %$,  which is impossible for assets like equity where investors are protected by limited liability and hence can lose at most their initial investment.
+Now that we have log returns in our toolbox,  we can also get a more realistic in our assumptions about the distribution of returns. In the past two lectures,  we assumed in some analyses and simulations that simple returns are normally distributed. Strictly speaking,  this assumption did not really make economic sense. The support of the normal distribution is unbounded in both tails. This means that assuming normally distributed returns implies positive probability on the event that returns are less than $-100/%,  which is impossible for assets like equity where investors are protected by limited liability and hence can lose at most their initial investment.
 
 At short horizons,  this issue is negligible because typical return magnitudes are so small. But it matters more over longer horizons. This is why now that we are paying more attention to long-run dynamics,  we need to address this issue.
 
-Figure 3.2 illustrates this. It shows the empirical distribution of stock market returns from 1927-2022. The top panel shows the distribution of monthly returns,  the middle panel annual returns,  and the bottom panel 10-year returns. We see that for monthly returns the fact that returns are bounded below at $-100 %$ does not really matter. It's just extremely unlikely that a monthly return would ever get even close to a loss of this magnitude. As a consequence,  the distribution of monthly returns looks quite symmetric. The magnitudes of upside moves tend to be similar to the magnitudes of downside moves.
+Figure 3.2 illustrates this. It shows the empirical distribution of stock market returns from 1927-2022. The top panel shows the distribution of monthly returns,  the middle panel annual returns,  and the bottom panel 10-year returns. We see that for monthly returns the fact that returns are bounded below at $-100/% does not really matter. It's just extremely unlikely that a monthly return would ever get even close to a loss of this magnitude. As a consequence,  the distribution of monthly returns looks quite symmetric. The magnitudes of upside moves tend to be similar to the magnitudes of downside moves.
 
-In contrast,  for 10-year returns,  the picture is different. Looking at the upside in the bottom panel of Figure 3.2,  we can see 10-year periods with realized returns of $400 %$ or more. On the downside,  of course,  there are no downside moves of similar magnitude. The biggest losses over 10-year periods in this data set are returns of around $-50 %$. As
+In contrast,  for 10-year returns,  the picture is different. Looking at the upside in the bottom panel of Figure 3.2,  we can see 10-year periods with realized returns of 400/% or more. On the downside,  of course,  there are no downside moves of similar magnitude. The biggest losses over 10-year periods in this data set are returns of around -50/%. As a consequence,  the empirical distribution of 10 -year returns is strongly asymmetric. It basically has to be as the upside is unbounded but the downside is limited to -100 %.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-076.jpg?height=1060&width=1330&top_left_y=359&top_left_x=346)
 
 Figure 3.2: Empirical stock market return distributions when returns are measured over different horizons,  1927-2022
 
-a consequence,  the empirical distribution of 10 -year returns is strongly asymmetric. It basically has to be as the upside is unbounded but the downside is limited to $-100 %$.
-
 In contrast,  it is an economically sensible approximation for many types of assets,  although of course not always literally true,  that $\log$ returns,  $r=\log (1+R)$,  are normally distributed.
 
-If log returns are normally distributed,  this means that simple returns plus one,  $1+R=\exp (r)$,  are log-normally distributed. Since $\exp (r)-1$ is bounded below by -1 when $r$ is normally distributed,  the log-normal distribution is consistent exactly with the theoretical lower bound on stock returns of $-100 %$. So,  using the log-normal distribution for $1+R$,  we can have a distribution of one plus simple returns that is realistically right-skewed and bounded below at zero,  but is still fully described by mean
+If log returns are normally distributed,  this means that simple returns plus one,  $1+R=\exp (r)$,  are log-normally distributed. Since $\exp (r)-1$ is bounded below by -1 when $r$ is normally distributed,  the log-normal distribution is consistent exactly with the theoretical lower bound on stock returns of $-100/%. So,  using the log-normal distribution for $1+R$,  we can have a distribution of one plus simple returns that is realistically right-skewed and bounded below at zero,  but is still fully described by mean
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-077.jpg?height=955&width=1199&top_left_y=284&top_left_x=474)
 
@@ -628,13 +626,13 @@ A common argument in modern finance against existence of such market inefficienc
 
 Consider first individual stocks. Suppose there are lots of idiosyncratic mispricings. Idiosyncratic here means that whether a stock is overor undervalued is totally random and not systematically related to,  say,  firms' industry,  their size,  or other common attributes that firms may have. In this case,  a hedge fund can run a "pairs trading" strategy,  taking long positions in undervalued stocks and pairing each long position with a short position in an overvalued stock that has highly correlated returns because it's in the same industry,  has the same size,  etc. The high correlation ensures that the pair long-short position has relatively little risk because the short position to a large extent hedges the risk of the long position. Moreover,  putting lots of such pairs together into a portfolio results in a lot of the remaining risk being diversified away. As a consequence,  very little risk is left in this portfolio. Hence,  if these kinds of market inefficiencies existed,  it would be an extremely attractive opportunity that hedge funds or other smart-money investors would aggressively exploit and thereby largely eliminate. For exactly that reason,  these sorts of inefficiencies are unlikely to be big.
 
-Now consider the stock market as a whole. Suppose,  for instance,  that the stock market portfolio as a whole is overvalued by $50 %$ and smart-money investors know about this overvaluation (without any uncertainty about the degree of misvaluation). Unfortunately for them,  there is no way to construct a low-risk,  high-return trade that exploits this misvaluation. Unlike in the pairs trading example,  there is no other asset class out there that has a return that is highly correlated with the stock market. In other words,  one cannot really hedge the risk of a short position in the overvalued stock market with a long position in some other asset class. As a consequence,  taking a bet agains stock market overor undervaluation is necessarily risky. Recall that a typical
+Now consider the stock market as a whole. Suppose,  for instance,  that the stock market portfolio as a whole is overvalued by $50/% and smart-money investors know about this overvaluation (without any uncertainty about the degree of misvaluation). Unfortunately for them,  there is no way to construct a low-risk,  high-return trade that exploits this misvaluation. Unlike in the pairs trading example,  there is no other asset class out there that has a return that is highly correlated with the stock market. In other words,  one cannot really hedge the risk of a short position in the overvalued stock market with a long position in some other asset class. As a consequence,  taking a bet agains stock market overor undervaluation is necessarily risky. Recall that a typical
 
-one-standard deviation move in the stock market in a single year is a $20 %$ return. So if an investor stays out of the market due to concerns about overvaluation,  this investor takes a substantial risk that they could experience a performance shortfall of $20 %$ or more relative to a broad stock index. For an investor who responded to overvaluation by taking short position in the stock market,  the performance shortfall in this case would be even bigger.
+one-standard deviation move in the stock market in a single year is a $20/% return. So if an investor stays out of the market due to concerns about overvaluation,  this investor takes a substantial risk that they could experience a performance shortfall of $20/% or more relative to a broad stock index. For an investor who responded to overvaluation by taking short position in the stock market,  the performance shortfall in this case would be even bigger.
 
 Moreover,  even if smart-money investors are correct in their judgment that the stock market is misvalued,  it could take years until the misvaluation is corrected. And since betting against the entire stock market is very risky,  substantial losses can pile up until the position finally pays off. This means smart-money investors may have to write many quarterly letters to their outside investors pleading with them to be patient and arguing that their position will win in the long run. Yet,  outside investors are rarely patient enough to see this through. As the economist John Maynard Keynes,  who,  was also an active speculator in markets,  once remarked: "Markets can stay irrational longer than you can stay solvent."
 
-One well-known example is the famous value investor Julian Robertson of Tiger Management during the technology stock bubble during the late 1990s. Tech stock prices were going through the roof in 1999,  before crashing sharply in March 2000. In mid-1999,  tech stocks seemed extremely overvalued. Julian Robertson decided to exit long positions in tech stocks and to bet against further price rises of tech stocks. Unfortunately for him,  prices kept rising at a fast pace. His funds started to suffer outflows. In October 1999,  Tiger Management increased the redemption period for investors from 3 to 6 months in to curb outflows. But nevertheless,  in the last quarter of 1999,  their funds lost about $25 %$ of its assets through withdrawals. In March 2000,  Robertson threw in the towel and announced the liquidation of his funds,  just a few days before the start of the technology stock crash.
+One well-known example is the famous value investor Julian Robertson of Tiger Management during the technology stock bubble during the late 1990s. Tech stock prices were going through the roof in 1999,  before crashing sharply in March 2000. In mid-1999,  tech stocks seemed extremely overvalued. Julian Robertson decided to exit long positions in tech stocks and to bet against further price rises of tech stocks. Unfortunately for him,  prices kept rising at a fast pace. His funds started to suffer outflows. In October 1999,  Tiger Management increased the redemption period for investors from 3 to 6 months in to curb outflows. But nevertheless,  in the last quarter of 1999,  their funds lost about $25/% of its assets through withdrawals. In March 2000,  Robertson threw in the towel and announced the liquidation of his funds,  just a few days before the start of the technology stock crash.
 
 Figure 3.5 shows the monthly flows of the Jaguar fund,  one of the funds managed by Tiger Management,  and compares with the the flows of the Quantum fund,  managed by George Soros. Soros took a very different approach. He tried to "ride the bubble" until the end,  with long positions in tech stocks until March 2000. At the start of the crash,  he quickly reduced these positions. His performance in late 1999 and early 2000 therefore was much better than Julian Robertson's. As the figure shows,  this made a dramatic difference to the timing of flows. The Jaguar fund had strong outflows in the second half of 1999 before being closed down in the first quarter of 2000. The Quantum fund also suffered outflows once its long positions got hit by the crash in March 2000. But due to the prior inflows as well as the large gains it had achieved on its long positions,  the Quantum fund was able to weather those outflows. After the Quantum fund exited tech stock positions quickly in the wake of the crash,  outflows stopped a couple of months
 
@@ -650,7 +648,7 @@ The bottom line of all this is that betting against misvaluation of the entire m
 
 Overall,  it's quite implausible that smart money would lean aggressively against misvaluation at the aggregate stock market level.
 
-Another argument that is often made is that professional investors manage most of the money invested in the stock market and so it must be professionals,  not the likely less sophisticated individual investors that effectively determine pricing in the stock market. However,  according to the U.S. Financial Accounts,  at the end of 2021,  individual investors held about $37 %$ of total stock market capitalization directly,  and an additional roughly $25 %$ indirectly through mutual funds,  ETFs,  and direct-contribution retirement products. This means that a substantial share of equity investments is directly or indirectly controlled by individual investors. The investment products that individual investors purchase in the mutual funds and ETF space are often quite narrowly defined (e.g.,  a stock fund,  a bond fund,  or a stock fund focused on a specific sector,  etc.). By
+Another argument that is often made is that professional investors manage most of the money invested in the stock market and so it must be professionals,  not the likely less sophisticated individual investors that effectively determine pricing in the stock market. However,  according to the U.S. Financial Accounts,  at the end of 2021,  individual investors held about $37/% of total stock market capitalization directly,  and an additional roughly $25/% indirectly through mutual funds,  ETFs,  and direct-contribution retirement products. This means that a substantial share of equity investments is directly or indirectly controlled by individual investors. The investment products that individual investors purchase in the mutual funds and ETF space are often quite narrowly defined (e.g.,  a stock fund,  a bond fund,  or a stock fund focused on a specific sector,  etc.). By
 
 allocating money to these products,  it is the individual investors who are effectively making the allocation decision at the asset-class level,  not the professional managers running these funds. Professionals,  or the computer algorithms they use,  then decide on how the allocated flows are invested in individual securities within the asset class,  but the asset-class level allocation decision is left to individuals.
 
@@ -740,7 +738,7 @@ I pick parameters that make the series have properties close to the actual stock
 
 A key question we should look into is how the persistence of sentiment affects the nature of mispricing and the return predictability that follows from it. For this reason,  I will show results for several different values of $\phi$ in (3.39). For each value of $\phi$,  I look for a value of the sentiment shocks $\sigma_{s}$ that makes the standard deviation of $s_{t}$ equal to 0.20 . In other words,  I want to see the effects of changing persistence of sentiment without changing the typical magnitudes of sentiment-induced misvaluation.
 
-Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length of 400 quarters and for two different values of $\phi: \phi=0.15$ in the top panel and $\phi=0.95$ in the bottom panel. In both cases,  there is a substantial degree of misvaluation due to the time-varying investor sentiment,  often exceeding $+30 %$ or $-30 %$ of the fundamental value. But which value of $\phi$ we pick makes a big difference for how fast misvaluation corrects. In the top panel,  if investor sentiment is not very persistent,  mispricing corrects very quickly and so we get relatively high-frequency variation of the price around fundamental value. In contrast,  with $\phi=0.95$ in the bottom panel,  investor sentiment is highly persistent and we get long-lasting cycles of misvaluation.
+Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length of 400 quarters and for two different values of $\phi: \phi=0.15$ in the top panel and $\phi=0.95$ in the bottom panel. In both cases,  there is a substantial degree of misvaluation due to the time-varying investor sentiment,  often exceeding $+30/% or $-30/% of the fundamental value. But which value of $\phi$ we pick makes a big difference for how fast misvaluation corrects. In the top panel,  if investor sentiment is not very persistent,  mispricing corrects very quickly and so we get relatively high-frequency variation of the price around fundamental value. In contrast,  with $\phi=0.95$ in the bottom panel,  investor sentiment is highly persistent and we get long-lasting cycles of misvaluation.
 
 Which of the two cases would make it easier for a smart investor to profit from misvaluation? Clearly the first case. In this case,  if the investor recognizes at a certain point in time that there is big misvaluation,  then,  because sentiment has low persistence,  it's very likely that this misvaluation will correct soon. A bet against misvaluation is therefore likely to pay off soon. In contrast,  in the high-persistence case in the bottom panel,  an investor could correctly diagnose that there is,  say,  undervaluation (such as around quarter 245 in the plot) but then it can take another 5 to 10 years until the
 
@@ -781,7 +779,7 @@ Figure 3.8: Distribution of estimated slope coefficient in return-prediction reg
 
 the 1,  000 simulations. I also calculate the average $R^{2}$,  which shows how much of the variance of $r_{t+1}$ is explained by the predictable component $b s_{t}$.
 
-In line with the intuition from the scatter plots. When $\phi$ is low,  there is a strong negative relationship between $r_{t+1}$ and $s_{t}$ as shown by the large negative average slope coefficient of -0.85 and the high $R^{2}$ of $40 %$. The high $R^{2}$ basically says the same thing as our visual impression from the scatter plot for $\phi=0.15$ where we can see the negative relationship just by eyeballing the scatter plot.
+In line with the intuition from the scatter plots. When $\phi$ is low,  there is a strong negative relationship between $r_{t+1}$ and $s_{t}$ as shown by the large negative average slope coefficient of -0.85 and the high $R^{2}$ of $40/%. The high $R^{2}$ basically says the same thing as our visual impression from the scatter plot for $\phi=0.15$ where we can see the negative relationship just by eyeballing the scatter plot.
 
 In contrast,  when $\phi=0.95$,  the average slope coefficient is much,  much smaller $(-0.07)$ and the $R^{2}$ is much lower $(2 %)$. Again,  this lines up well with what we concluded from the scatter plot: if there is any predictive relationship,  it must be weak,  because we can't really see it in the scatter plot.
 
@@ -809,29 +807,9 @@ As Panel A shows,  the results are quite weak. The sign of the coefficient is as
 
 Table 3.2: Predictive regressions of one-quarter-ahead returns on the lagged log pricedividend ratio,  1927-2022
 
-|   | a | b | $R^{2}$ |
+![300](CleanShot%202024-10-24%20-003110@2x.png)
 
-| --- | --- | --- | --- |
-
-| Panel A: Log returns |   |   |   |
-
-| Estimates | 0.095 | $-0.021$ | 0.006 |
-
-| $t$-statistic | $(2.325)$ | $(-1.776)$ |   |
-
-| Panel B: Simple returns |   |   |   |
-
-| Estimates | -0.868 | $-0.030$ | 0.013 |
-
-| $t$-statistic | $(-20.172)$ | $(-2.428)$ |   |
-
-| Panel C: Excess returns |   |   |   |
-
-| Estimates | 0.124 | $-0.030$ | 0.012 |
-
-| $t$-statistic | $(2.877)$ | $(-2.412)$ |   |
-
-thresholds for statistical significance at a $5 %$ confidence level (this threshold is at -1.96). And the $R^{2}$ of $0.6 %$ tells us that the $\log \mathrm{P} / \mathrm{D}$ ratio explains very little of the variation of future returns.
+thresholds for statistical significance at a $5/% confidence level (this threshold is at -1.96). And the $R^{2}$ of $0.6/% tells us that the $\log \mathrm{P} / \mathrm{D}$ ratio explains very little of the variation of future returns.
 
 While the present-value identity framework based on log-linear approximation that we used in this lecture relates the $\log \mathrm{P} / \mathrm{D}$ ratio to future $\log$ returns and future $\log$ dividend growth,  for the purpose of choosing an asset allocation we are actually not really interested directly in expected log returns. Instead,  we want to know expected simple returns. Yet,  a regression with log returns as dependent variable gives us forecasts of log returns,  not forecasts of simple returns. To illustrate what difference this makes,  recall from (3.10) that if returns are conditionally log normal,  the conditional expected simple return return relates to the conditional expected log return as follows:
 
@@ -847,7 +825,7 @@ $$
 
 If $\operatorname{var}_{t}\left(r_{t+1}\right)$ was constant,  then the difference between conditional expected simple and log returns would be roughly constant most of the difference would be absorbed by the intercept term $a$ in the regression without affecting the slope coefficient $b$. However,  in reality volatility is time-varying and it may also vary with $\log \mathrm{P} / \mathrm{D}$,  which means it can affect the slope coefficient. So,  to get usable inputs for asset allocation optimization,  it makes sense for us to use simple,  not log returns as the dependent variable in the regression.
 
-Panel B of Table 4.2 shows the result: The slope coefficient is much bigger than in Panel A,  the $t$-statistic is now -2.428 ,  which is statistically significantly different from zero at a $5 %$ level,  and the $R^{2}$ is now $1.3 %$.
+Panel B of Table 4.2 shows the result: The slope coefficient is much bigger than in Panel A,  the $t$-statistic is now -2.428 ,  which is statistically significantly different from zero at a $5/% level,  and the $R^{2}$ is now $1.3/%.
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-098.jpg?height=911&width=1201&top_left_y=298&top_left_x=424)
 
@@ -870,7 +848,7 @@ In the present-value identity model that we worked with in this lecture,  repurc
 The blue line in Figure 3.9 adds repurchases to dividends when computing the log price-dividend ratio. As the figure shows,  this completely eliminates the unusual level shift in the $\log \mathrm{P} / \mathrm{D}$ ratio.
 
 Table 3.3: Predictive regressions of one-quarter-ahead returns on the lagged repurchaseadjusted $\log$ price-dividend ratio,  1927-2022
-
+![300](CleanShot%202024-10-24%20-003111@2x.png)
 |   | a | b | $R^{2}$ |
 
 | --- | --- | --- | --- |
@@ -895,9 +873,9 @@ Table 3.3: Predictive regressions of one-quarter-ahead returns on the lagged rep
 
 Table 3.3 shows that the repurchase-adjustment also improves the ability of the log price-dividend ratio to predict returns: In all three panels for the different types of returns,  the $t$-statistics are of greater magnitude and the $R^{2}$ are higher than in Table 4.2 .
 
-Interestingly,  the results in Table 3.3,  and,  specifically,  the estimates of the regression slope coefficient and $R^{2}$,  are quite close to what we obtained in the simulations in Table 3.1 in the case $\phi=0.95$. (In these simulations,  $s_{t}$ and $\log \mathrm{P} / \mathrm{D}$ are equal up to a constant,  so the slope coefficient and $R^{2}$ would be the same if we had run the regressions in the simulated data on $\log \mathrm{P} / \mathrm{D}$ instead of $s_{t}$.) Recall that for this value of $\phi$,  sentimentinduced misvaluation was very large and persistent. So our empirical finding of seemingly small $R^{2}$ of around $2 %$ can be consistent with large,  highly persistent sentiment-driven time-varying misvaluation of the aggregate stock market.
+Interestingly,  the results in Table 3.3,  and,  specifically,  the estimates of the regression slope coefficient and $R^{2}$,  are quite close to what we obtained in the simulations in Table 3.1 in the case $\phi=0.95$. (In these simulations,  $s_{t}$ and $\log \mathrm{P} / \mathrm{D}$ are equal up to a constant,  so the slope coefficient and $R^{2}$ would be the same if we had run the regressions in the simulated data on $\log \mathrm{P} / \mathrm{D}$ instead of $s_{t}$.) Recall that for this value of $\phi$,  sentimentinduced misvaluation was very large and persistent. So our empirical finding of seemingly small $R^{2}$ of around $2/% can be consistent with large,  highly persistent sentiment-driven time-varying misvaluation of the aggregate stock market.
 
-But this also means,  as in our simulations,  that the return predictability is likely difficult to exploit in an investment strategy. For example,  as in our simulations,  the uncertainty about the magnitude of the slope coefficient is substantial. For example,  in Panel C the $t$-statistic for the estimate of $b$ is around -3 ,  and one standard error is a little less than 0.02. This means that it's quite likely (again using a Bayesian interpretation of statistical estimates) that the true coefficient could be substantially smaller or bigger than the estimate shown in Panel C. So our prediction of returns based on these estimates in Panel C is quite likely to be wrong in a substantial way. And that the $R^{2}$ is only around $2 %$ tells us that most of the future returns will be unpredictable,  even if we happened to stumble on the true slope coefficient in our estimates.
+But this also means,  as in our simulations,  that the return predictability is likely difficult to exploit in an investment strategy. For example,  as in our simulations,  the uncertainty about the magnitude of the slope coefficient is substantial. For example,  in Panel C the $t$-statistic for the estimate of $b$ is around -3 ,  and one standard error is a little less than 0.02. This means that it's quite likely (again using a Bayesian interpretation of statistical estimates) that the true coefficient could be substantially smaller or bigger than the estimate shown in Panel C. So our prediction of returns based on these estimates in Panel C is quite likely to be wrong in a substantial way. And that the $R^{2}$ is only around $2/% tells us that most of the future returns will be unpredictable,  even if we happened to stumble on the true slope coefficient in our estimates.
 
 ### 3.8 Other valuation measures
 
@@ -1041,7 +1019,7 @@ But perhaps the way we have constructed the excess return forecasts in this pseu
 
 Figure 3.15: Distribution of the difference in cumulative standardized excess returns of predictive regression minus trailing mean strategy in sentiment model simulations
 
-I won't try to figure out the optimal degree of shrinkage here. Instead,  I'll try something very simple. I take the predictive regression coefficient estimates every period and I shrink them halfway towards the trailing mean. Put differently,  my forecast now is a weighted average of the predictive regression forecast and the trailing mean with weight $50 %$. The red line shows the result. This simple shrinkage strategy does better than all the others!
+I won't try to figure out the optimal degree of shrinkage here. Instead,  I'll try something very simple. I take the predictive regression coefficient estimates every period and I shrink them halfway towards the trailing mean. Put differently,  my forecast now is a weighted average of the predictive regression forecast and the trailing mean with weight $50/%. The red line shows the result. This simple shrinkage strategy does better than all the others!
 
 Even so,  it's quite clear that OOS forecasting of excess returns on a stock market investment is not easy. Some observers conclude from this that the market must be macro efficient,  i.e.,  that there is little mispricing at the aggregate stock market level. While this could be true,  it does not follow necessarily from the fact that returns are hard to forecast OOS. Stock market excess returns would also be difficult to forecast in a world in which there is substantial mispricing,  with large deviations in stock prices from their fundamental values at the aggregate market level,  if this mispricing is very persistent. If mispricing is not followed by quick price corrections,  the mispricing does not represent a great investment opportunity even for the smartest investors.
 
@@ -1057,7 +1035,7 @@ Given the earlier evidence from in-sample predictive regressions that the price-
 
 To understand this better,  a first point to note is that our evaluation of performance in Figure 3.14 was based on cumulated standardized excess returns. Standardizing excess returns by their standard deviation over the full sample means we effectively compared the alternative strategies in terms of their Sharpe ratios. So we'll focus here on understanding why market-timing attempts can produce a poor Sharpe ratio even if the portfolio weights are based on a return-prediction model that actually produces a somewhat informative signal about expected excess returns.
 
-The root of the problem is that the signal we are getting from a predictive regression is not a perfect signal of expected returns. It is distorted by noise because the predictive regression coefficients we use to construct the predicted returns and then the portfolio weight are subject to estimation error. To examine the consequences of such noise in portfolio weights,  let's consider the extreme case where expected returns are actually constant and the investor's timing strategy is based purely on noise. Is timing based on noise worse,  in terms of Sharpe ratio,  than just being fully invested with $100 %$ weight in the stock market at all times?
+The root of the problem is that the signal we are getting from a predictive regression is not a perfect signal of expected returns. It is distorted by noise because the predictive regression coefficients we use to construct the predicted returns and then the portfolio weight are subject to estimation error. To examine the consequences of such noise in portfolio weights,  let's consider the extreme case where expected returns are actually constant and the investor's timing strategy is based purely on noise. Is timing based on noise worse,  in terms of Sharpe ratio,  than just being fully invested with $100/% weight in the stock market at all times?
 
 Let $R_{f,    t}=0$ for simplicity. Stock market returns are generated as
 
@@ -1149,7 +1127,7 @@ So far we have focused on the numerator,  trying to identity variation in $\math
 
 To generate a time-series of volatility,  I take a series of daily returns on the CRSP value-weighted stock market index. Each quarter I calculate the standard deviation of daily returns and I annualize (multiply by $\sqrt{250}$ ). Figure 3.16 displays the time-series of these annualized quarterly standard deviations of daily returns.
 
-As the figure shows,  there is a lot of variation over time in the level of volatility. Tranquil periods like the early 1990s or the years prior to the financial crisis in 2008/09 have volatility below $10 %$. But in quarters of turmoil,  such as at the onset of the COVID pandemic in the first quarter of 2020,  the height of the financial crisis in the last quarter of 2008,  the last quarter of 1987 (which included the "Black Monday" crash),  and the onset of the Great Depression at the end of 1929 have volatility above $40 %$ annualized.
+As the figure shows,  there is a lot of variation over time in the level of volatility. Tranquil periods like the early 1990s or the years prior to the financial crisis in 2008/09 have volatility below $10/%. But in quarters of turmoil,  such as at the onset of the COVID pandemic in the first quarter of 2020,  the height of the financial crisis in the last quarter of 2008,  the last quarter of 1987 (which included the "Black Monday" crash),  and the onset of the Great Depression at the end of 1929 have volatility above $40/% annualized.
 
 The first thing we should check is whether our earlier market-timing strategy based on the $\log P / D$ ratio,  which tried to exploit variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,    t}$,  inadvertently also timed volatility,  and perhaps in the wrong direction. We can check this by regressing
 
@@ -1161,15 +1139,11 @@ the quarterly volatility observations on the repurchase-adjusted $\log P / D$ ra
 
 Table 3.4: Predicting standard deviations with the lagged repurchase-adjusted $\log P / D$ ratio,  1927-2022
 
-|   | a | b | $R^{2}$ |
+|               | a         | b          | $R^{2}$ |
+| ------------- | --------- | ---------- | ------- |
+| Estimates     | 0.305     | -0.051     | 0.032   |
+| $t$-statistic | $(2.368)$ | $(-1.324)$ |         |
 
-| --- | --- | --- | --- |
-
-| Estimates | 0.305 | -0.051 | 0.032 |
-
-| $t$-statistic | $(2.368)$ | $(-1.324)$ |   |
-
-|   |   |   |   |
 
 The negative slope coefficient means that volatility tends to be somewhat higher when $P / D$ is lower. These are the times when our market-timing strategy raised the weight on the stock market index. So our market-timing strategy did inadvertently time volatility in the wrong direction. This may have lowered the Sharpe ratio that we achieved with this strategy a little bit,  but probably not by much as the relationship between the repurchase-adjusted $\log P / D$ ratio and future volatility is very weak: as the $t$-statistic shows,  the slope coefficient estimate is not statistically significant at
 
@@ -1195,7 +1169,7 @@ Table 3.5: Predicting excess returns and standard deviations with lagged standar
 
 | $t$-statistic | $(0.311)$ | $(1.868)$ |   |   |   |
 
-We can see this in the regressions show in Table 3.5. Panel A shows the parameter estimates from regressing the annualized standard deviation of daily returns within quarter $t$ on the lagged standard deviation in quarter $t$. In other words,  the $b$ coefficient in this regression is the autocorrelation coefficient of the volatility time series from Figure 3.16. The estimate for this coefficient of 0.650 shows that volatility is strongly positively autocorrelated. And the $R^{2}$ of $42.1 %$ shows that just with its own lagged value,  we can predict a substantial share of next-quarter variation in volatility. Thus,  volatility is indeed strongly persistent and predictable. This means that when volatility is above its long-run average in the current quarter,  it is also likely to be above the long-run average in the next quarter,  but also,  on average,  somewhat closer to the long-term average than in the current quarter. By the same token,  if volatility is below the long-run average in the current quarter,  it is also likely to be below the long-run average in the next quarter,  but also,  on average,  closer to the to the long-term average than in the current quarter.
+We can see this in the regressions show in Table 3.5. Panel A shows the parameter estimates from regressing the annualized standard deviation of daily returns within quarter $t$ on the lagged standard deviation in quarter $t$. In other words,  the $b$ coefficient in this regression is the autocorrelation coefficient of the volatility time series from Figure 3.16. The estimate for this coefficient of 0.650 shows that volatility is strongly positively autocorrelated. And the $R^{2}$ of $42.1/% shows that just with its own lagged value,  we can predict a substantial share of next-quarter variation in volatility. Thus,  volatility is indeed strongly persistent and predictable. This means that when volatility is above its long-run average in the current quarter,  it is also likely to be above the long-run average in the next quarter,  but also,  on average,  somewhat closer to the long-term average than in the current quarter. By the same token,  if volatility is below the long-run average in the current quarter,  it is also likely to be below the long-run average in the next quarter,  but also,  on average,  closer to the to the long-term average than in the current quarter.
 
 Whether volatility timing could improve the Sharpe ratio of an investment strategy depends on whether conditional expected excess returns of the stock market index are
 
@@ -1237,4 +1211,4 @@ $$
 
 For this simple volatility-timing strategy,  we don't need to estimate any parameters. It is directly out-of-sample implementable. All we need is a measure of lagged volatility.
 
-I calculate the time series of volatility-timing strategy excess returns as $\omega_{t}\left(R_{t+1}-\right.$ $R_{f,    t}$ ). I then standardize the realized return by dividing by the full sample standard deviation (recall that this standardization turns the returns into a "realized Sharpe ratio"). I then cumulate these standardized returns over time. The red line in Figure (3.17) shows the result. For comparison,  I also show the cumulative standardized returns of a strategy that is always $100 %$ invested in the stock market index. The volatility-timing strategy shows some improvement relative to the $100 %$ stock market index strategy. Looking closer,  we can also see that the volatility-timing strategy managed to partly avoid big downturns like in late 2008,  during the financial crisis,  or in the early 1930s,  during the onset of the Great Depression. The big down-moves in the stock market in these episodes were preceded in earlier months by elevated levels of volatility,  which leads the volatility-timing strategy to reduce equity exposure prior to the downturn.
+I calculate the time series of volatility-timing strategy excess returns as $\omega_{t}\left(R_{t+1}-\right.$ $R_{f,    t}$ ). I then standardize the realized return by dividing by the full sample standard deviation (recall that this standardization turns the returns into a "realized Sharpe ratio"). I then cumulate these standardized returns over time. The red line in Figure (3.17) shows the result. For comparison,  I also show the cumulative standardized returns of a strategy that is always $100/% invested in the stock market index. The volatility-timing strategy shows some improvement relative to the $100/% stock market index strategy. Looking closer,  we can also see that the volatility-timing strategy managed to partly avoid big downturns like in late 2008,  during the financial crisis,  or in the early 1930s,  during the onset of the Great Depression. The big down-moves in the stock market in these episodes were preceded in earlier months by elevated levels of volatility,  which leads the volatility-timing strategy to reduce equity exposure prior to the downturn.
