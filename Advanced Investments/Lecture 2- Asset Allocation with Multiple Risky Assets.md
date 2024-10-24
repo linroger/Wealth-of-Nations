@@ -567,7 +567,11 @@ $$
 
 Table 2.1: Annualized mean,  standard deviations,  and correlations for various asset classes 1980-2022
 
-
+```latex
+\begin{document}
+\begin{table}[]
+\centering
+\label{table}
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
 \hline
 {\bfseries         } & {\bfseries Stocks} & {\bfseries I-Stocks} & {\bfseries Value } & {\bfseries Small } & {\bfseries T-Bonds} & {\bfseries I-Bonds} & {\bfseries C-Bonds} & {\bfseries REITS} & {\bfseries Gold } \\ \hline\hline
@@ -582,7 +586,11 @@ I-Bonds  & 0.243  & 0.545    & 0.192  & 0.166  & 0.435   & 1.000   & 0.478   & 0
 C-Bonds  & 0.349  & 0.308    & 0.281  & 0.222  & 0.816   & 0.478   & 1.000   & 0.393 & 0.157 \\ \hline
 REITS    & 0.652  & 0.520    & 0.689  & 0.632  & 0.120   & 0.308   & 0.393   & 1.000 & 0.128 \\ \hline
 Gold     & 0.086  & 0.173    & 0.028  & 0.069  & 0.117   & 0.349   & 0.157   & 0.128 & 1.000 \\ \hline
-\end{tabular
+\end{tabular}
+\end{table}
+\end{document}
+```
+
 
 |   | Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold |
 
