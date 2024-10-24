@@ -13,7 +13,7 @@ linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 # LECTURE NOTE 5 BLACK SCHOLES FORMULA
 
 [Binomial Tree Steps](Binomial%20Tree%20Steps.md)
-[Ch1 Derivative Markets](Ch1%20Derivative%20Markets.md)
+[Ch1 Introduction to Derivative Markets](Ch1%20Introduction%20to%20Derivative%20Markets.md)
 [The Pricing of Options and Corporate Liabilities](Asset%20Classes/Derivatives/Options/The%20Pricing%20of%20Options%20and%20Corporate%20Liabilities.md)
 
 ## FINANCIAL INSTRUMENTS TEACHING NOTE 5 BLACK AND SCHOLES FORMULA

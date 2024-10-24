@@ -38,6 +38,81 @@
             }
           },
           {
+            "id": "e69a2cbd00a4105f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carry Trade"
+            }
+          },
+          {
+            "id": "67a4fb5d64e50fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Engineering/Financial Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial Engineering"
+            }
+          },
+          {
+            "id": "5a411665897b6ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Markets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Markets"
+            }
+          },
+          {
+            "id": "abf9f3e4e0cf5b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Market PSETS"
+            }
+          },
+          {
+            "id": "6648d4f5fe714203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Markets/Credit Markets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Markets"
+            }
+          },
+          {
             "id": "208d8643f8d3a57f",
             "type": "leaf",
             "state": {
@@ -83,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,38 +317,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b90fa44cb16bb3e",
+  "active": "6648d4f5fe714203",
   "lastOpenFiles": [
-    "Adv Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
-    "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
-    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
-    "Fixed Income/Fixed Income.md",
-    "Fixed Income",
-    "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
-    "HBR Notes/A Primer on Distressed Investing.md",
-    "HBR Notes/A Primer on Bank Liquidity.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Differences Between Commodities and Financial Assets.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 3 Understanding The Term Structure Of Interest Rates.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 4 Interest Rate Derivatives.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/FORWARD RATES AND TERM STRUCTURE.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md",
+    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+    "Attachments/9/9.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 8/Week 8.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 7/Week 7.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 6/Week 6.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5/Week 5.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4/Week 4.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3/Week 3.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2/Week 2.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1/Week 1.md",
+    "Tags/#primers+notes/#primers+notes.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Lecture Notes.md",
+    "Attachments/Attachments.md",
+    "svg-cache/svg-cache.md",
+    "Tags/Tags.md",
+    "Credit Markets/Credit Markets.md",
+    "Financial Engineering/Financial Engineering.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Ch1 Introduction to Derivative Markets.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Deriving Forward Exchange Rate Numerical Example.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Foreign Exchange Quoting Conventions.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Forward Contracts on Exchange Rates.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Forwards and Futures Notes.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Hedging Strategies with Forwards.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates, Carry Trades, and Exchange Rate Movements.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/PRIMARY VS. SECONDARY COMMODITIES.md",
-    "Financial Instruments/Assignments/1          EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
-    "HBR Notes/HBR Case StudyLTCM.md",
+    "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
+    "Fixed Income",
     "Tags/#primers+notes",
     "Asset Classes/Derivatives/Options/Options and Futures Pricing.pdf",
-    "Asset Classes/Derivatives/Options/Derivative Securities, NYU Courant.md",
-    "Clippings/Sterilization Definition and Example in Foreign Exchange.md",
-    "Asset Classes/Equities/Miller Modigliani Theorems.md",
-    "Asset Classes/Equities/Lecture Note 2- Computing Cost of Capital.md",
-    "Asset Classes/Equities/Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows.md",
-    "Asset Classes/Derivatives/Forward and Futures/Futures Contracts and Hedging Complete/Forward Loans.md",
-    "Asset Classes/Derivatives/Forward and Futures/Forwards and Futures Complete.md",
-    "Asset Classes/Fixed Income Securities/Bonds/Treasury Buybacks — TreasuryDirect.md",
-    "Asset Classes/Fixed Income Securities/Bonds/Bond Pricing in Discrete Time.md",
-    "Asset Classes/Fixed Income Securities/Bonds/Leveraged Loan Primer.md",
-    "Asset Classes/Fixed Income Securities/Bonds/Notes-Handbook of Fixed Income Securities 1.md",
     "Clippings",
     "Adv Investments",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
