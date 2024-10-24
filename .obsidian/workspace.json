@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
+                "file": "Advanced Investments/Lecture 3- Dynamics of Returns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2- Asset Allocation with Multiple Risky Assets"
+              "title": "Lecture 3- Dynamics of Returns"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
+                "file": "Advanced Investments/Lecture 3- Dynamics of Returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 2- Asset Allocation with Multiple Risky Assets"
+              "title": "Backlinks for Lecture 3- Dynamics of Returns"
             }
           }
         ],
@@ -210,11 +210,11 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
+    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
     "Attachments/CleanShot 2024-10-24 -003108@2x.png",
     "Attachments/CleanShot 2024-10-24 -003106@2x.png",
     "Advanced Investments/Advanced Investments Lecture Notes.docx",
     "Advanced Investments/Advanced Investments Lecture Notes.md",
-    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Attachments/Attachments.md",
     "Attachments/0db413cc85a45d6c4a10a6761426a226.png",
@@ -254,7 +254,6 @@
     "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
     "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png",
     "Attachments/9c51031c984f0f8377c4b2c4881981f5.png",
-    "Attachments/84142850beacda61f5eddba71b4772f7.png",
-    "Attachments/b09ef50a2a9345aa8bdc2a9814b48206.png"
+    "Attachments/84142850beacda61f5eddba71b4772f7.png"
   ]
 }

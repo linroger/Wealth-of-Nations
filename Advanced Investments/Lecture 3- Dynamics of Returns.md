@@ -11,7 +11,7 @@ title: Lecture 3Dynamics of Returns
 
 
 
-# Lecture 3Dynamics of Returns
+# Lecture 3- Dynamics of Returns
 
 ## Lecture 3
 
