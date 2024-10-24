@@ -39,9 +39,9 @@ Over two periods,  the stock price can have the following values:
 
 For a European call option with exercise price$K = 100$,  the payoffs at$t=2$are:
 
-- $C_{uu} = \max(S_{uu} - K,  0)$,
-- $C_{ud} = \max(S_{ud} - K,  0)$,
-- $C_{dd} = \max(S_{dd} - K,  0)$.
+- $C_{uu} = \max(S_{uu} - K,   0)$,
+- $C_{ud} = \max(S_{ud} - K,   0)$,
+- $C_{dd} = \max(S_{dd} - K,   0)$.
 
 ## STEP 4: DERIVE THE REPLICATING PORTFOLIO AT$T=1$
 
@@ -65,7 +65,7 @@ $$C_0 = \Delta \cdot S_0 + B \cdot (1+r)$$
 
 To find the initial cost of replicating the option,  which gives us the price of the call option at$t=0$.
 
-Let's now proceed with calculations for the specific values,  starting by calculating$C_{uu}$, $C_{ud}$,  and$C_{dd}$.
+Let's now proceed with calculations for the specific values,  starting by calculating$C_{uu}$,  $C_{ud}$,  and$C_{dd}$.
 
 code_interpreter(
 
@@ -78,18 +78,18 @@ S_U * D OR S_D * U S_DD = S_{0} * D**2
 
 # CALCULATE OPTION PAYOFFS AT EXPIRY
 
-$C_{UU} = MAX(S_{UU} - K,  0)$
-$C_{UD} = MAX(S_{UD} - K,  0)$
-$C_{DD} = MAX(S_{DD} - K,  0)$
-$(S_{UU},  S_{UD},  S_{DD},  C_{UU},  C_{UD},  C_{DD})$
+$C_{UU} = MAX(S_{UU} - K,   0)$
+$C_{UD} = MAX(S_{UD} - K,   0)$
+$C_{DD} = MAX(S_{DD} - K,   0)$
+$(S_{UU},   S_{UD},   S_{DD},   C_{UU},   C_{UD},   C_{DD})$
 
 (121.00000000000001,  100,  82.64462809917354,  21.000000000000014,  0,  0)
 
 The stock prices and option payoffs at expiry are as follows:
 
-- $S_{uu} = 121$, $C_{uu} = 21$,
-- $S_{ud} = 100$, $C_{ud} = 0$,
-- $S_{dd} = 82.64$, $C_{dd} = 0$.
+- $S_{uu} = 121$,  $C_{uu} = 21$,
+- $S_{ud} = 100$,  $C_{ud} = 0$,
+- $S_{dd} = 82.64$,  $C_{dd} = 0$.
 
 ## STEP 7: CALCULATE Δ AND$B$FOR$T=1$
 

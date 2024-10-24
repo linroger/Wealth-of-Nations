@@ -13,7 +13,7 @@ title: Advanced Investments
 	- [[Lecture 3- Dynamics of Returns]]
 	- [[Lecture 4- Investor Sentiment]]
 	- [[Lecture 5- Dynamic Portfolio Choice]]
-	- [[Lecture 6-Leverage,  Tail Risk,  Volatility Products]]
+	- [[Lecture 6-Leverage,    Tail Risk,    Volatility Products]]
 	- [[Lecture 7-Risk and Return of Bonds]]
 	- [[Lecture 8- Inflation & Sovereign Default Risk]]
 

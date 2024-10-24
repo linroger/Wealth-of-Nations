@@ -8,486 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62872605a866e24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 2- Asset Allocation with Multiple Risky Assets"
-            }
-          },
-          {
-            "id": "8b90fa44cb16bb3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Investments/Advanced Investments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Investments"
-            }
-          },
-          {
-            "id": "e69a2cbd00a4105f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carry Trade"
-            }
-          },
-          {
-            "id": "67a4fb5d64e50fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Engineering/Financial Engineering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Engineering"
-            }
-          },
-          {
-            "id": "5a411665897b6ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Markets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Markets"
-            }
-          },
-          {
-            "id": "abf9f3e4e0cf5b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market PSETS"
-            }
-          },
-          {
-            "id": "6648d4f5fe714203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Markets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Markets"
-            }
-          },
-          {
-            "id": "c64236a4b98a2c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market PSETS"
-            }
-          },
-          {
-            "id": "66c80a2c1f403230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market Session 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market Session 2"
-            }
-          },
-          {
-            "id": "c842f5945b19c2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market Solutions"
-            }
-          },
-          {
-            "id": "d8724918c973af81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Usage of QuantLib analytics library"
-            }
-          },
-          {
-            "id": "4b48a3c42ef5f528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market PSETS"
-            }
-          },
-          {
-            "id": "1150a8ac3353d6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Markets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Markets"
-            }
-          },
-          {
-            "id": "31c2aab61303ed16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market Solutions"
-            }
-          },
-          {
-            "id": "2ece4a10d9de2225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market PSETS"
-            }
-          },
-          {
-            "id": "0e831725290db1eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Markets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Markets"
-            }
-          },
-          {
-            "id": "5fa6b7c88a854e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Chinese Currency Peg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chinese Currency Peg"
-            }
-          },
-          {
-            "id": "87822c02b963c91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Chinese Currency Peg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chinese Currency Peg"
-            }
-          },
-          {
-            "id": "59658da5061f20e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "c270645e71e7d94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Financial Ratios"
-            }
-          },
-          {
-            "id": "cdb1ad1edc596a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "4f3dcf49d3f14d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 4 Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "88f84be4ee05c6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "0e63e0ccd042d28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 5"
-            }
-          },
-          {
-            "id": "9f9a82ee40c3d226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 5"
-            }
-          },
-          {
-            "id": "a549e5a31e26c08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1 Introduction to Financial Analysis"
-            }
-          },
-          {
-            "id": "5af6e7c1c72328ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 3"
-            }
-          },
-          {
-            "id": "97d500654cb63ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes Advanced Financial Analysis and Valuation"
-            }
-          },
-          {
-            "id": "60b5e2d1b88214f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Investments/Advanced Investments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Investments"
-            }
-          },
-          {
-            "id": "02440f7294551a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credit Market PSETS"
-            }
-          },
-          {
-            "id": "208d8643f8d3a57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets and Institutions - Markdown/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I- Introduction to Financial Markets and Intermediation"
-            }
-          },
-          {
-            "id": "6f428a1d5eeae960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Investments/Advanced Investments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Investments"
-            }
-          },
-          {
             "id": "3f338498b7bfd30c",
             "type": "leaf",
             "state": {
@@ -502,8 +22,7 @@
               "title": "Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation"
             }
           }
-        ],
-        "currentTab": 26
+        ]
       }
     ],
     "direction": "vertical"
@@ -624,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
+                "file": "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -634,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 3"
+              "title": "Backlinks for Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation"
             }
           }
         ],
@@ -658,39 +177,38 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "github-sync:Sync with Remote": false,
-      "formatto-format:Format Document": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "formatto-format:Format Document": false
     }
   },
-  "active": "3a400f1467274134",
+  "active": "3f338498b7bfd30c",
   "lastOpenFiles": [
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md",
+    "Clippings/China's Monetary Policy.md",
+    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
+    "Advanced Investments/Advanced Investments.md",
+    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
+    "Clippings/Chinese Currency Peg.md",
+    "Credit Markets/Credit Markets.md",
+    "Credit Markets/Credit Market PSETS/Credit Market Solutions.md",
+    "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
+    "Credit Markets/Credit Market Session 2.md",
+    "Financial Engineering/Financial Engineering.md",
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Pharmaceuticals and Intangibles in Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-    "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1 Advanced Financial Analysis and Valuation/Week 1 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3 Advanced Financial Analysis and Valuation/Week 3 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5 Advanced Financial Analysis and Valuation/Week 5 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9 Advanced Financial Analysis and Valuation/Week 9 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Ratio Analysis + Valuation Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Market Efficiency.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9-Information Risks and (International) Accounting Differences, Platform Businesses.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9- Zoom Assignment Review.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3",

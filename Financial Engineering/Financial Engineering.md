@@ -8,7 +8,7 @@ title: Financial Engineering
 
 - **[[Financial Engineering]]**
 	- [[1. DeterministicCashFlows]]
-	- [[2. Forwards,  Swaps,  Futures,  and Options]]
+	- [[2. Forwards,   Swaps,   Futures,   and Options]]
 	- [[5. Mean Variance-CAPM]]
 	- [[6. A Brief Introduction to Stochastic Calculus]]
 	- [[7. Black Scholes Model]]

@@ -17,7 +17,7 @@ linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
 	- [[Forward Contracts on Exchange Rates]]
 	- [[Forwards and Futures Notes]]
 	- [[Hedging Strategies with Forwards]]
-	- [[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,    Carry Trades,    and Exchange Rate Movements]]
+	- [[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,     Carry Trades,     and Exchange Rate Movements]]
 	- [[Teaching Note 1 Forward Rates Agreement]]
 
 ## WHAT IS A CARRY TRADE?
@@ -65,7 +65,7 @@ The trader’s observation is supported by:
 
 | Setting                                           | Value      |
 |---------------------------------------------------|------------|
-| Price of the CTD Can 2% December 1,    2051 bond     | 98.964     |
+| Price of the CTD Can 2% December 1,     2051 bond     | 98.964     |
 | Accrued interest: (170/365) x 2                   | 0.932      |
 | (170 days = June 1 to November 18 settlement date)|            |
 | Financing rate (actual repo rate)                 | 0.20%      |
@@ -111,20 +111,20 @@ The trader initiates a cash-and-carry trade that involves the following steps:
 
 (per$100,  000.00 notional amount)
 
-- **Purchase the CTD bond:**$98,   964 +$932 =$99,  896 (Price of bond + Accrued interest)
-- **Financing costs until LGB delivery:**$99,   896 x 0.0020 x 133/365 =$73 (Amount borrowed to buy bond × Short-term financing rate × Number of days/365)
-- **Income during the life of the LGB contract:**$1,   000 + ($1,  000 x 0.0020 x 120/365) = C$1,  001 (Coupon income + (Coupon income × Short-term financing rate × Number of days/365))
-- **Total costs of the bond position:**$99,   896 +$73 -$1,   001 = C$98,  968 (Investment + Financing - Income)
+- **Purchase the CTD bond:**$98,    964 +$932 =$99,  896 (Price of bond + Accrued interest)
+- **Financing costs until LGB delivery:**$99,    896 x 0.0020 x 133/365 =$73 (Amount borrowed to buy bond × Short-term financing rate × Number of days/365)
+- **Income during the life of the LGB contract:**$1,    000 + ($1,  000 x 0.0020 x 120/365) = C$1,  001 (Coupon income + (Coupon income × Short-term financing rate × Number of days/365))
+- **Total costs of the bond position:**$99,    896 +$73 -$1,    001 = C$98,  968 (Investment + Financing - Income)
 
 ### DELIVERY PRICE OF THE DELIVERABLE BOND AT LGB FUTURES DELIVERY
 
-($220,   720 x 0.4481) +$658* =$99,   563 (*$100,  000 x 2% coupon x 30/365)
+($220,    720 x 0.4481) +$658* =$99,    563 (*$100,  000 x 2% coupon x 30/365)
 
 - Futures invoice price × Conversion factor + Accrued interest received by the seller from the bond buyer
 
 ### ARBITRAGE PROFIT (PER LGB FUTURES)
 
-$99,   563 -$98,  968 =$595 (Delivery price of the deliverable bond - Total costs of the bond position)
+$99,    563 -$98,  968 =$595 (Delivery price of the deliverable bond - Total costs of the bond position)
 
 In the present strategy the cash-and-carry transaction results in a profit of$595 per contract.
 
@@ -134,11 +134,11 @@ In the present strategy the cash-and-carry transaction results in a profit of$59
 
 | Item                                   | AMOUNT                                      | COMMENTS                                                        |
 |----------------------------------------|---------------------------------------------|-----------------------------------------------------------------|
-| Purchase the CTD bond                  |$98,   964 +$932 =$99,   896                    | Price of bond + Accrued interest                                |
-| Financing costs until LGB delivery     |$99,   896 x 0.0020 x 133/365 =$73            | Amount borrowed to buy bond × Short-term financing rate × Number of days/365 |
+| Purchase the CTD bond                  |$98,    964 +$932 =$99,    896                    | Price of bond + Accrued interest                                |
+| Financing costs until LGB delivery     |$99,    896 x 0.0020 x 133/365 =$73            | Amount borrowed to buy bond × Short-term financing rate × Number of days/365 |
 | Income during the life of the LGB contract (credit and reinvestment of the coupon: December 1 to March 31) |$1000 + ($1000 x 0.0020 x 120/365) = C$1001 | Coupon income + (Coupon income × Short-term financing rate × Number of days/365) |
-| Total costs of the bond position       |$99,   896 +$73 -$1001 = C$98,   968            | Investment + Financing - Income                                 |
-| Delivery price of the deliverable bond at LGB futures delivery | ($220,   720 x 0.4481) +$658* =$99,   563       | Futures invoice price × Conversion factor + Accrued interest received by the seller from the bond buyer |
-| Arbitrage profit (per LGB futures)     |$99,   563 -$98,   968 =$595                    | Delivery price of the deliverable bond - Total costs of the bond position |
+| Total costs of the bond position       |$99,    896 +$73 -$1001 = C$98,    968            | Investment + Financing - Income                                 |
+| Delivery price of the deliverable bond at LGB futures delivery | ($220,    720 x 0.4481) +$658* =$99,    563       | Futures invoice price × Conversion factor + Accrued interest received by the seller from the bond buyer |
+| Arbitrage profit (per LGB futures)     |$99,    563 -$98,    968 =$595                    | Delivery price of the deliverable bond - Total costs of the bond position |
 
 - $100,  000 x 2% coupon x 30/365

@@ -282,10 +282,10 @@ cut_off_date_10y = pd.to_datetime('2014-04-01')
 govt_symbology_10y = govt_symbology[govt_symbology['start_date'] >= cut_off_date_10y].copy()
 
 # Plot the US Treasury coupons by issue date (last 10 years)
-govt_symbology_10y.plot(x='start_date',                  y='coupon',                  grid=True,                  style='-*',                  title='US Treasury coupons by issue date (last 10 years)',                  figsize=(12,                 8))
+govt_symbology_10y.plot(x='start_date',                    y='coupon',                    grid=True,                    style='-*',                    title='US Treasury coupons by issue date (last 10 years)',                    figsize=(12,                   8))
 ```
 
-    <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},                  xlabel='start_date'>
+    <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},                    xlabel='start_date'>
 
 
 
@@ -302,8 +302,8 @@ What can you say about the overall level of issued coupons in the last 4 years?
 ```python
 import plotly.express as px
 
-fig = px.scatter(govt_symbology_10y,                  x='start_date',                  y='coupon',                  title='US Treasury coupons by issue date (last 10 years)')
-fig.update_layout(xaxis_title='Issue Date',                  yaxis_title='Coupon',                  template='plotly_white')
+fig = px.scatter(govt_symbology_10y,                    x='start_date',                    y='coupon',                    title='US Treasury coupons by issue date (last 10 years)')
+fig.update_layout(xaxis_title='Issue Date',                    yaxis_title='Coupon',                    template='plotly_white')
 fig.show()
 ```
 
@@ -313,10 +313,10 @@ cut_off_date_4y = pd.to_datetime('2020-04-01')
 govt_symbology_4y = govt_symbology[govt_symbology['start_date'] >= cut_off_date_4y].copy()
 
 # Plot the US Treasury coupons by issue date (last 10 years)
-govt_symbology_4y.plot(x='start_date',                  y='coupon',                  grid=True,                  style='-*',                  title='US Treasury coupons by issue date (last 4 years)',                  figsize=(12,                 8))
+govt_symbology_4y.plot(x='start_date',                    y='coupon',                    grid=True,                    style='-*',                    title='US Treasury coupons by issue date (last 4 years)',                    figsize=(12,                   8))
 
 # describe
-govt_symbology_4y[['start_date',                  'coupon']].describe()
+govt_symbology_4y[['start_date',                    'coupon']].describe()
 ```
 
 <div>
@@ -402,7 +402,7 @@ Based on the summary statistics provided,  we can make following observations:
 Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2 Y,  3 Y,  5 Y,  7 Y,  10 Y,  20 Y and 30 Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for on-the-run treasuries only,  to be used later on for the on-the-run government yield curve bootstrapping.
 
 ```python
-# Load govt_on_the_run,                  as of 2024-04-01
+# Load govt_on_the_run,                    as of 2024-04-01
 
 # Keep OTR treasuries only
 govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B|C')]
@@ -716,7 +716,7 @@ corp_symbology = corp_symbology[(corp_symbology['mty_typ'] == 'AT MATURITY')
                                    & (corp_symbology['cpn_type'] == 'FIXED')]
 
 # Keep selected columns only
-corp_symbology = corp_symbology[['ticker',                  'isin',                  'figi',                  'security',                  'name',                  'coupon',                  'start_date',                  'maturity',                  'term',                  'TTM']]
+corp_symbology = corp_symbology[['ticker',                    'isin',                    'figi',                    'security',                    'name',                    'coupon',                    'start_date',                    'maturity',                    'term',                    'TTM']]
 
 # Filter for VZ issuer
 corp_symbology_vz =  corp_symbology[corp_symbology['ticker'] == 'VZ']
@@ -864,15 +864,15 @@ display(bond_market_prices_eod.head())
 
 ```python
 # Merge market data as of 2024-04-01 into treasury symbology
-govt_agg = govt_symbology.merge(bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+govt_agg = govt_symbology.merge(bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 
 govt_agg.head()
 
 # Plot a graph/scatter plot of treasury mid yields by TTM
-govt_agg.plot(x='TTM',                  y='midYield',                  grid=True,                  style='*',                  title='US Treasury Yields by TTM',                  figsize=(12,                 8))
+govt_agg.plot(x='TTM',                    y='midYield',                    grid=True,                    style='*',                    title='US Treasury Yields by TTM',                    figsize=(12,                   8))
 ```
 
-    <Axes: title={'center': 'US Treasury Yields by TTM'},                  xlabel='TTM'>
+    <Axes: title={'center': 'US Treasury Yields by TTM'},                    xlabel='TTM'>
 
 
 
@@ -883,16 +883,16 @@ govt_agg.plot(x='TTM',                  y='midYield',                  grid=True
 
 ```python
 Merge market data as of 2024-04-01 into treasury symbology
-govt_agg = govt_symbology.merge(bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+govt_agg = govt_symbology.merge(bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 
 govt_agg.head()
 
-fig = px.scatter(govt_agg,                  x='TTM',                  y='midYield',                  title='US Treasury Yields by TTM')
-fig.update_layout(xaxis_title='Time to Maturity (Years)',                  yaxis_title='Mid Yield',                  template='plotly_white')
+fig = px.scatter(govt_agg,                    x='TTM',                    y='midYield',                    title='US Treasury Yields by TTM')
+fig.update_layout(xaxis_title='Time to Maturity (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 fig.show()
 ```
 
-      Cell In[25],                  line 1
+      Cell In[25],                    line 1
         Merge market data as of 2024-04-01 into treasury symbology
                                      ^
     SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
@@ -905,11 +905,11 @@ Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 
 ```python
 # Merge market data as of 2024-04-01 into treasury OTR symbology
-govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 
-fig = px.scatter(govt_agg_otr,                  x='TTM',                  y='midYield',                  title='OTR US Treasury yields by TTM')
+fig = px.scatter(govt_agg_otr,                    x='TTM',                    y='midYield',                    title='OTR US Treasury yields by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                  yaxis_title='Mid Yield',                  template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 Fig.Show ()
 ```
 
@@ -924,14 +924,14 @@ List the unique tickers/issuers available in the dataframe.
 
 ```python
 # Merge market data as of 2024-04-01 into corp symbology
-Corp_agg = corp_symbology.Merge (bond_market_prices_eod,                   on=['ticker',                 'figi',                 'isin'])
+Corp_agg = corp_symbology.Merge (bond_market_prices_eod,                     on=['ticker',                   'figi',                   'isin'])
 
 Print (corp_symbology. Shape)
 
 Display (corp_agg.Head ())
 ```
 
-    (67,                  10)
+    (67,                    10)
 
 <div>
 <style scoped>
@@ -1089,7 +1089,7 @@ Display (corp_agg.Head ())
 
 ```python
 # Unique tickers
-corp_agg_unique_tickers = corp_agg [['ticker',                  'name']]. drop_duplicates ()
+corp_agg_unique_tickers = corp_agg [['ticker',                    'name']]. drop_duplicates ()
 
 Display (corp_agg_unique_tickers)
 ```
@@ -1170,10 +1170,10 @@ Add a separate line for on-the-run US treasury yield curve (risk free curve).
 What can you say about the credit issuer yields,  compared to US treasury yields?
 
 ```python
-Fig = px.Scatter (corp_agg,                  x='TTM',                  y='midYield',                  color='ticker',                  title='Corporate Bond Yields by TTM')
-Fig. Add_trace (px.Scatter (govt_agg_otr,                  x='TTM',                  y='midYield'). Data[0])
+Fig = px.Scatter (corp_agg,                    x='TTM',                    y='midYield',                    color='ticker',                    title='Corporate Bond Yields by TTM')
+Fig. Add_trace (px.Scatter (govt_agg_otr,                    x='TTM',                    y='midYield'). Data[0])
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                  yaxis_title='Mid Yield',                  template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 Fig.Show ()
 ```
 
@@ -1195,16 +1195,16 @@ Where
 
 ```python
 # Use the column 'und_bench_yield' to identify the underlying benchmark bond for each bond issue.
-corp_merged = corp_agg.Merge (bond_symbology [['isin',                  'und_bench_isin']],                  on='isin')
+corp_merged = corp_agg.Merge (bond_symbology [['isin',                    'und_bench_isin']],                    on='isin')
 
 # Create df containing govt_benchmark_yields
-govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin',                  'midYield']]
-Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',                  'isin': 'und_bench_isin'},                  inplace=True)
+govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin',                    'midYield']]
+Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',                    'isin': 'und_bench_isin'},                    inplace=True)
 
 # Add benchmark bond yield
-Corp_merged = corp_merged.Merge (govt_benchmark_yields,                  on='und_bench_isin')
+Corp_merged = corp_merged.Merge (govt_benchmark_yields,                    on='und_bench_isin')
 Corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
-display (corp_merged [['ticker',                  'isin',                  'figi',                  'security',                  'und_bench_isin',                  'midYield',                  'und_bench_yield',                  'credit_spread']])
+display (corp_merged [['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread']])
 
 
 ```
@@ -1369,9 +1369,9 @@ display (corp_merged [['ticker',                  'isin',                  'figi
 Plot a graph/scatter plot of credit spread curves by TTM (one line per issuer).
 
 ```python
-Fig = px.Scatter (corp_merged,                  x='TTM',                  y='credit_spread',                  color='ticker',                  title='Corporate Bond Credit Spreads by TTM')
+Fig = px.Scatter (corp_merged,                    x='TTM',                    y='credit_spread',                    color='ticker',                    title='Corporate Bond Credit Spreads by TTM')
 Fig. Update_traces (mode='lines+markers') 
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                  yaxis_title='Credit Spread',                  template='plotly_white')
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                    yaxis_title='Credit Spread',                    template='plotly_white')
 Fig.Show ()
 ```
 
@@ -1389,14 +1389,14 @@ Where
 
 ```python
 # Interpolate OTR Treasury yields on corporate bond TTMs
-Interp_tsy_yield_vec = np.Interp (corp_merged['TTM'],                  govt_agg_otr['TTM'],                  govt_agg_otr['midYield'])
+Interp_tsy_yield_vec = np.Interp (corp_merged['TTM'],                    govt_agg_otr['TTM'],                    govt_agg_otr['midYield'])
 
 # Add interp_tsy_yield and g_spread
 Corp_merged['interp_tsy_yield'] = interp_tsy_yield_vec
 Corp_merged['g_spread'] = corp_merged['midYield'] - corp_merged['interp_tsy_yield']
 
 # Display results
-display (corp_merged [['ticker',                  'isin',                  'figi',                  'security',                  'und_bench_isin',                  'midYield',                  'und_bench_yield',                  'credit_spread',                  'interp_tsy_yield',                  'g_spread']])
+display (corp_merged [['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread',                    'interp_tsy_yield',                    'g_spread']])
 ```
 
 <div>
@@ -1583,9 +1583,9 @@ display (corp_merged [['ticker',                  'isin',                  'figi
 Plot a graph/scatter plot of g-spread curves by TTM (one line per issuer).
 
 ```python
-Fig = px.Scatter (corp_merged,                  x='TTM',                  y='g_spread',                  color='ticker',                  title='Corporate Bond G-Spreads by TTM')
+Fig = px.Scatter (corp_merged,                    x='TTM',                    y='g_spread',                    color='ticker',                    title='Corporate Bond G-Spreads by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                  yaxis_title='G-Spread',                  template='plotly_white') 
+Fig. Update_layout (xaxis_title='Time to Maturity (Years)',                    yaxis_title='G-Spread',                    template='plotly_white') 
 Fig.Show ()
 ```
 
@@ -1733,8 +1733,8 @@ Display (corp_symbology_orcl.Transpose ())
 ```python
 # Construct fixed rate cashflow schedule for ORCL 2.95 04/01/30
 
-Issue_date = ql.Date (1,                  4,                  2020)        # 2020-04-01
-Maturity_date = ql.Date (1,                  4,                  2030)     # 2030-04-01
+Issue_date = ql.Date (1,                    4,                    2020)        # 2020-04-01
+Maturity_date = ql.Date (1,                    4,                    2030)     # 2030-04-01
 
 Coupon_freq = ql. Semiannual
 Coupon_term = ql.Period (coupon_freq)
@@ -1744,13 +1744,13 @@ Date_generation = ql. DateGeneration. Backward
 Month_end = True
 
 # Fixed_rate_schedule
-Fixed_rate_schedule = ql.Schedule (issue_date,                 
-                       Maturity_date,                 
-                       Coupon_term,                 
-                       Calendar,                 
-                       Day_count_conv,                 
-                       Day_count_conv,                 
-                       Date_generation,                 
+Fixed_rate_schedule = ql.Schedule (issue_date,                   
+                       Maturity_date,                   
+                       Coupon_term,                   
+                       Calendar,                   
+                       Day_count_conv,                   
+                       Day_count_conv,                   
+                       Date_generation,                   
                        Month_end)
 ```
 
@@ -1777,21 +1777,21 @@ Face_value = 100
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
-    Settlement_days,                 
-    Face_value,                 
-    Fixed_rate_schedule,                 
-    Coupons,                 
-    Day_count,                 
+    Settlement_days,                   
+    Face_value,                   
+    Fixed_rate_schedule,                   
+    Coupons,                   
+    Day_count,                   
     Payment_convention)
 ```
 
 ```python
 # Display the contractual cashflows. 
-X = [(cf.Date (). To_date (),                  cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
-Cf_date_fixed,                  cf_amount = zip (*x)
-Fixed_rate_bond_cashflows = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,                  'CashFlowAmount': cf_amount})
+X = [(cf.Date (). To_date (),                    cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
+Cf_date_fixed,                    cf_amount = zip (*x)
+Fixed_rate_bond_cashflows = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,                    'CashFlowAmount': cf_amount})
 
-# Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),                  up to the face value multiplier.
+# Cashflows match the ones displayed on page 13 (from Bloomberg CSHF screenshot),                    up to the face value multiplier.
 Display (fixed_rate_bond_cashflows)
 ```
 
@@ -2016,37 +2016,37 @@ QuoteHandle.Value ()
 # Dates
 Todays_date = ql.Date.TodaysDate ()
 Test_date = todays_date + 90
-Print ('todays_date =',                  todays_date)
-Print ('test_date =',                  test_date)
+Print ('todays_date =',                    todays_date)
+Print ('test_date =',                    test_date)
 
 
 # Calendars
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
-Holiday_list = list (calendar.HolidayList (todays_date,                  test_date))
-Print ('holiday_list =',                  holiday_list)
+Holiday_list = list (calendar.HolidayList (todays_date,                    test_date))
+Print ('holiday_list =',                    holiday_list)
 
 
 # Day count conventions
 Day_count = ql. Actual 360 ()
-Print ('day_count =',                  day_count)
+Print ('day_count =',                    day_count)
 
 # Year fractions
-Test_year_fraction = day_count.YearFraction (todays_date,                  test_date)
-Print ('Year Fraction  from',                  todays_date,                  'to',                  test_date,                 '] =',                  test_year_fraction)
+Test_year_fraction = day_count.YearFraction (todays_date,                    test_date)
+Print ('Year Fraction  from',                    todays_date,                    'to',                    test_date,                   '] =',                    test_year_fraction)
 ```
 
-    Todays_date = May 4 th,                  2024
-    Test_date = August 2 nd,                  2024
-    Holiday_list = [Date (27,                 5,                 2024),                  Date (19,                 6,                 2024),                  Date (4,                 7,                 2024)]
+    Todays_date = May 4 th,                    2024
+    Test_date = August 2 nd,                    2024
+    Holiday_list = [Date (27,                   5,                   2024),                    Date (19,                   6,                   2024),                    Date (4,                   7,                   2024)]
     Day_count = Actual/360 day counter
-    Year Fraction  from May 4 th,                  2024 to August 2 nd,                  2024 ] = 0.25
+    Year Fraction  from May 4 th,                    2024 to August 2 nd,                    2024 ] = 0.25
 
 # 2. Cashflow Schedules
 ## a. Construct semi-annual cashflow schedule object,  for fixed-rate bonds
 
 ```python
-Issue_date = ql.Date (2,                  4,                  2024)        # 2024-04-02
-Maturity_date = ql.Date (2,                  4,                  2028)     # 2028-04-02
+Issue_date = ql.Date (2,                    4,                    2024)        # 2024-04-02
+Maturity_date = ql.Date (2,                    4,                    2028)     # 2028-04-02
 Coupon_freq = ql. Semiannual
 Coupon_term = ql.Period (coupon_freq)
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
@@ -2055,13 +2055,13 @@ Date_generation = ql. DateGeneration. Backward
 Month_end = True
 
 # Fixed_rate_schedule
-Fixed_rate_schedule = ql.Schedule (issue_date,                 
-                       Maturity_date,                 
-                       Coupon_term,                 
-                       Calendar,                 
-                       Day_count_conv,                 
-                       Day_count_conv,                 
-                       Date_generation,                 
+Fixed_rate_schedule = ql.Schedule (issue_date,                   
+                       Maturity_date,                   
+                       Coupon_term,                   
+                       Calendar,                   
+                       Day_count_conv,                   
+                       Day_count_conv,                   
+                       Date_generation,                   
                        Month_end)
 ```
 
@@ -2071,55 +2071,55 @@ Fixed_rate_schedule = ql.Schedule (issue_date,
 - Use startDate (),  endDate ()
 
 ```python
-Print ("All dates: ",                  list (fixed_rate_schedule))
-Print ("Length: ",                  len (fixed_rate_schedule))
-Print ("The 3 rd coupon date: ",                  [fixed_rate_schedule])  # random access
-Print ("Start Date: ",                  fixed_rate_schedule.StartDate ())
-Print ("End Date: ",                  fixed_rate_schedule.EndDate ())
+Print ("All dates: ",                    list (fixed_rate_schedule))
+Print ("Length: ",                    len (fixed_rate_schedule))
+Print ("The 3 rd coupon date: ",                    [fixed_rate_schedule])  # random access
+Print ("Start Date: ",                    fixed_rate_schedule.StartDate ())
+Print ("End Date: ",                    fixed_rate_schedule.EndDate ())
 ```
 
-    All dates:  [Date (2,                 4,                 2024),                  Date (2,                 10,                 2024),                  Date (2,                 4,                 2025),                  Date (2,                 10,                 2025),                  Date (2,                 4,                 2026),                  Date (2,                 10,                 2026),                  Date (2,                 4,                 2027),                  Date (2,                 10,                 2027),                  Date (2,                 4,                 2028)]
+    All dates:  [Date (2,                   4,                   2024),                    Date (2,                   10,                   2024),                    Date (2,                   4,                   2025),                    Date (2,                   10,                   2025),                    Date (2,                   4,                   2026),                    Date (2,                   10,                   2026),                    Date (2,                   4,                   2027),                    Date (2,                   10,                   2027),                    Date (2,                   4,                   2028)]
     Length:  9
     The 3 rd coupon date:  [<QuantLib.QuantLib.Schedule; proxy of <Swig Object of type 'Schedule *' at 0x17891c9c0> >]
-    Start Date:  April 2 nd,                  2024
-    End Date:  April 2 nd,                  2028
+    Start Date:  April 2 nd,                    2024
+    End Date:  April 2 nd,                    2028
 
 ## c. Construct quarterly cashflow schedule object,  for floating-rate bonds
 
 ```python
 # Floating_rate_bond_schedule
 Floating_rate_schedule = ql.Schedule (
-    Issue_date,                 
-    Maturity_date,                 
-    Ql.Period (ql. Quarterly),                 
-    Calendar,                 
-    Day_count_conv,                 
-    Day_count_conv,                 
-    Date_generation,                 
-    Month_end,                 
+    Issue_date,                   
+    Maturity_date,                   
+    Ql.Period (ql. Quarterly),                   
+    Calendar,                   
+    Day_count_conv,                   
+    Day_count_conv,                   
+    Date_generation,                   
+    Month_end,                   
 )
 ```
 
 ## d. Inspect the quarterly cashflow schedule
 
 ```python
-Print ("All dates: ",                  list (floating_rate_schedule))
-Print ("Length: ",                  len (floating_rate_schedule))
-Print ("Start Date: ",                  fixed_rate_schedule.StartDate ())
-Print ("End Date: ",                  fixed_rate_schedule.EndDate ())
+Print ("All dates: ",                    list (floating_rate_schedule))
+Print ("Length: ",                    len (floating_rate_schedule))
+Print ("Start Date: ",                    fixed_rate_schedule.StartDate ())
+Print ("End Date: ",                    fixed_rate_schedule.EndDate ())
 ```
 
-    All dates:  [Date (2,                 4,                 2024),                  Date (2,                 7,                 2024),                  Date (2,                 10,                 2024),                  Date (2,                 1,                 2025),                  Date (2,                 4,                 2025),                  Date (2,                 7,                 2025),                  Date (2,                 10,                 2025),                  Date (2,                 1,                 2026),                  Date (2,                 4,                 2026),                  Date (2,                 7,                 2026),                  Date (2,                 10,                 2026),                  Date (2,                 1,                 2027),                  Date (2,                 4,                 2027),                  Date (2,                 7,                 2027),                  Date (2,                 10,                 2027),                  Date (2,                 1,                 2028),                  Date (2,                 4,                 2028)]
+    All dates:  [Date (2,                   4,                   2024),                    Date (2,                   7,                   2024),                    Date (2,                   10,                   2024),                    Date (2,                   1,                   2025),                    Date (2,                   4,                   2025),                    Date (2,                   7,                   2025),                    Date (2,                   10,                   2025),                    Date (2,                   1,                   2026),                    Date (2,                   4,                   2026),                    Date (2,                   7,                   2026),                    Date (2,                   10,                   2026),                    Date (2,                   1,                   2027),                    Date (2,                   4,                   2027),                    Date (2,                   7,                   2027),                    Date (2,                   10,                   2027),                    Date (2,                   1,                   2028),                    Date (2,                   4,                   2028)]
     Length:  17
-    Start Date:  April 2 nd,                  2024
-    End Date:  April 2 nd,                  2028
+    Start Date:  April 2 nd,                    2024
+    End Date:  April 2 nd,                    2028
 
 # 3. Discount Curve / Yield Curve Term Structure
 ## a. Constructing a Flat Yield Curve
 
 ```python
 # Set the static valuation date: 2024-04-02
-Calc_date = ql.Date (2,                  4,                  2024)
+Calc_date = ql.Date (2,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 
 # Using 5% flat interest rate for testing
@@ -2128,7 +2128,7 @@ Rate_handle = ql.QuoteHandle (flat_rate)
 Day_count = ql. Actual 360 ()
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 Continuous_comp = ql. Continuous # continously compounded rate of 5%
-Flat_yield_curve = ql.FlatForward (calc_date,                  rate_handle,                  day_count,                  continuous_comp)
+Flat_yield_curve = ql.FlatForward (calc_date,                    rate_handle,                    day_count,                    continuous_comp)
 Flat_yield_curve_handle = ql.YieldTermStructureHandle (flat_yield_curve)
 ```
 
@@ -2136,26 +2136,26 @@ Flat_yield_curve_handle = ql.YieldTermStructureHandle (flat_yield_curve)
 
 ```python
 Ref_date = flat_yield_curve.ReferenceDate ()
-Test_date = ql.Date (30,                  6,                  2025)
+Test_date = ql.Date (30,                    6,                    2025)
 
 # Calc year fraction between ref_date and test_date
-YearFrac = flat_yield_curve.DayCounter (). YearFraction (ref_date,                  test_date)
+YearFrac = flat_yield_curve.DayCounter (). YearFraction (ref_date,                    test_date)
 
-Print ("Reference Date =",                  ref_date)
-Print ("Test Date =",                  test_date)
-Print ("Year Fraction between Reference Date and Test Date : ",                  yearFrac)
-Print ("Discount Factor for Test Date",                  test_date,                  ": ",                  flat_yield_curve.Discount (test_date))
-Print ("custom DF calculation for Test Date",                  test_date,                  ": ",                  np.Exp (-flat_rate.Value () * yearFrac))
-Print ("Difference in Discount Factor: ",                  flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))
+Print ("Reference Date =",                    ref_date)
+Print ("Test Date =",                    test_date)
+Print ("Year Fraction between Reference Date and Test Date : ",                    yearFrac)
+Print ("Discount Factor for Test Date",                    test_date,                    ": ",                    flat_yield_curve.Discount (test_date))
+Print ("custom DF calculation for Test Date",                    test_date,                    ": ",                    np.Exp (-flat_rate.Value () * yearFrac))
+Print ("Difference in Discount Factor: ",                    flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))
 
 
 ```
 
-    Reference Date = April 2 nd,                  2024
-    Test Date = June 30 th,                  2025
+    Reference Date = April 2 nd,                    2024
+    Test Date = June 30 th,                    2025
     Year Fraction between Reference Date and Test Date :  1.261111111111111
-    Discount Factor for Test Date June 30 th,                  2025 :  0.9388913116117773
-    Custom DF calculation for Test Date June 30 th,                  2025 :  0.9388913116117772
+    Discount Factor for Test Date June 30 th,                    2025 :  0.9388913116117773
+    Custom DF calculation for Test Date June 30 th,                    2025 :  0.9388913116117772
     Difference in Discount Factor: 1.1102230246251565 e-16
 
 # 4. Fixed and Floating Rate Bonds
@@ -2196,40 +2196,40 @@ Face_value = 100
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
-    Settlement_days,                 
-    Face_value,                 
-    Fixed_rate_schedule,                 
-    Coupons,                 
-    Day_count,                 
+    Settlement_days,                   
+    Face_value,                   
+    Fixed_rate_schedule,                   
+    Coupons,                   
+    Day_count,                   
     Payment_convention)
 ```
 
 ## b. Investigate the fixed-rate bond cash-flows
 
 ```python
-X = [(cf.Date (),                  cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
-Cf_date_fixed,                  cf_amount = zip (*x)
-Cf_frame_fixed = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,                  'CashFlowAmount': cf_amount})
+X = [(cf.Date (),                    cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
+Cf_date_fixed,                    cf_amount = zip (*x)
+Cf_frame_fixed = pd.DataFrame (data={'CashFlowDate': cf_date_fixed,                    'CashFlowAmount': cf_amount})
 Display (cf_frame_fixed)
 ```
 
             CashFlowDate  CashFlowAmount
-    0  October 2 nd,                  2024             2.0
-    1    April 2 nd,                  2025             2.0
-    2  October 2 nd,                  2025             2.0
-    3    April 2 nd,                  2026             2.0
-    4  October 2 nd,                  2026             2.0
-    5    April 2 nd,                  2027             2.0
-    6  October 2 nd,                  2027             2.0
-    7    April 2 nd,                  2028             2.0
-    8    April 2 nd,                  2028           100.0
+    0  October 2 nd,                    2024             2.0
+    1    April 2 nd,                    2025             2.0
+    2  October 2 nd,                    2025             2.0
+    3    April 2 nd,                    2026             2.0
+    4  October 2 nd,                    2026             2.0
+    5    April 2 nd,                    2027             2.0
+    6  October 2 nd,                    2027             2.0
+    7    April 2 nd,                    2028             2.0
+    8    April 2 nd,                    2028           100.0
 
 ## c. Constructing a floating rate bond object: linked to SOFR index
 
 ```python
 # Sofr_term_structure_handle: using 5% flat interest rate for testing
 Rate_handle = ql.QuoteHandle (ql.SimpleQuote (5/100))
-Sofr_term_structure = ql.FlatForward (calc_date,                  rate_handle,                  day_count_floater,                  ql. Continuous)
+Sofr_term_structure = ql.FlatForward (calc_date,                    rate_handle,                    day_count_floater,                    ql. Continuous)
 Sofr_term_structure_handle = ql.YieldTermStructureHandle (sofr_term_structure)
 
 # Set SOFR index history
@@ -2238,47 +2238,47 @@ Sofr_index = ql.Sofr (sofr_term_structure_handle)
 
 # Set SOFR fixings
 Im.ClearHistory (sofr_index.Name ())
-Sofr_index.AddFixing (ql.Date (28,                  ql. March,                  2024),                  5/100)
-Sofr_index.AddFixing (ql.Date (1,                  ql. April,                  2024),                  5/100)
+Sofr_index.AddFixing (ql.Date (28,                    ql. March,                    2024),                    5/100)
+Sofr_index.AddFixing (ql.Date (1,                    ql. April,                    2024),                    5/100)
 
 
 # Floating_rate_bond
-Floating_rate_bond = ql.FloatingRateBond (settlement_days,                 
-                                Face_value,                 
-                                Floating_rate_schedule,                 
-                                Sofr_index,                 
-                                Day_count_floater,                 
-                                Payment_convention,                 
-                                Spreads=[25/10000],                  # 25 bps floating rate
+Floating_rate_bond = ql.FloatingRateBond (settlement_days,                   
+                                Face_value,                   
+                                Floating_rate_schedule,                   
+                                Sofr_index,                   
+                                Day_count_floater,                   
+                                Payment_convention,                   
+                                Spreads=[25/10000],                    # 25 bps floating rate
                                 IssueDate=issue_date)
 
 ```
 
 ```python
-X = [(cf.Date (),                  cf.Amount ()) for cf in floating_rate_bond.Cashflows ()]
-Cf_date_float,                  cf_amount = zip (*x)
-Cf_frame_float = pd.DataFrame (data={'CashFlowDate': cf_date_float,                  'CashFlowAmount': cf_amount})
+X = [(cf.Date (),                    cf.Amount ()) for cf in floating_rate_bond.Cashflows ()]
+Cf_date_float,                    cf_amount = zip (*x)
+Cf_frame_float = pd.DataFrame (data={'CashFlowDate': cf_date_float,                    'CashFlowAmount': cf_amount})
 Print (cf_frame_float)
 ```
 
              CashFlowDate  CashFlowAmount
-    0      July 2 nd,                  2024        1.335104
-    1   October 2 nd,                  2024        1.349865
-    2   January 2 nd,                  2025        1.349865
-    3     April 2 nd,                  2025        1.320345
-    4      July 2 nd,                  2025        1.335104
-    5   October 2 nd,                  2025        1.349865
-    6   January 2 nd,                  2026        1.349865
-    7     April 2 nd,                  2026        1.320345
-    8      July 2 nd,                  2026        1.335104
-    9   October 2 nd,                  2026        1.349865
-    10  January 2 nd,                  2027        1.350044
-    11    April 2 nd,                  2027        1.320520
-    12     July 2 nd,                  2027        1.335104
-    13  October 2 nd,                  2027        1.350044
-    14  January 2 nd,                  2028        1.350044
-    15    April 2 nd,                  2028        1.335370
-    16    April 2 nd,                  2028      100.000000
+    0      July 2 nd,                    2024        1.335104
+    1   October 2 nd,                    2024        1.349865
+    2   January 2 nd,                    2025        1.349865
+    3     April 2 nd,                    2025        1.320345
+    4      July 2 nd,                    2025        1.335104
+    5   October 2 nd,                    2025        1.349865
+    6   January 2 nd,                    2026        1.349865
+    7     April 2 nd,                    2026        1.320345
+    8      July 2 nd,                    2026        1.335104
+    9   October 2 nd,                    2026        1.349865
+    10  January 2 nd,                    2027        1.350044
+    11    April 2 nd,                    2027        1.320520
+    12     July 2 nd,                    2027        1.335104
+    13  October 2 nd,                    2027        1.350044
+    14  January 2 nd,                    2028        1.350044
+    15    April 2 nd,                    2028        1.335370
+    16    April 2 nd,                    2028      100.000000
 
 # 5. Bond Present Value Calculation (no credit risk)
 ## a. Direct function call using risk-free bond pricing engine
@@ -2288,12 +2288,12 @@ Print (cf_frame_float)
 Bond_engine = ql.DiscountingBondEngine (flat_yield_curve_handle)
 Fixed_rate_bond.SetPricingEngine (bond_engine)
 Fixed_rate_bond_pv = fixed_rate_bond.NPV ()
-Print ('fixed_rate_bond_pv =',                  fixed_rate_bond_pv)
+Print ('fixed_rate_bond_pv =',                    fixed_rate_bond_pv)
 
 # Floating_rate_bond PV
 Floating_rate_bond.SetPricingEngine (bond_engine)
 Floating_rate_bond_pv = floating_rate_bond.NPV ()
-Print ('floating_rate_bond_pv =',                  floating_rate_bond_pv)
+Print ('floating_rate_bond_pv =',                    floating_rate_bond_pv)
 ```
 
     Fixed_rate_bond_pv = 95.93321956659715
@@ -2307,12 +2307,12 @@ Used_cf_frame = cf_frame_fixed
 Used_bond_pv = fixed_rate_bond_pv
 
 # Validate floating-rate bond PV
-Discount_yearfrac = np.Zeros ((len (used_cf_frame,                 )))
-Discount_factor = np.Zeros ((len (used_cf_frame,                 )))
+Discount_yearfrac = np.Zeros ((len (used_cf_frame,                   )))
+Discount_factor = np.Zeros ((len (used_cf_frame,                   )))
 
 I = 0
 For cf_date in used_cf_frame['CashFlowDate']:
-    Discount_yearfrac[i] = flat_yield_curve.DayCounter (). YearFraction (flat_yield_curve.ReferenceDate (),                  cf_date)
+    Discount_yearfrac[i] = flat_yield_curve.DayCounter (). YearFraction (flat_yield_curve.ReferenceDate (),                    cf_date)
     Discount_factor[i] = flat_yield_curve.Discount (cf_date)
     I += 1
 
@@ -2427,9 +2427,9 @@ Used_cf_frame
 
 ```python
 Pv_manual = used_cf_frame['NPV']. Sum ()
-Print ('NPV engine = ',                  used_bond_pv)
-Print ('NPV manual = ',                  pv_manual)
-Print ('NPV diff = ',                  pv_manual - used_bond_pv)
+Print ('NPV engine = ',                    used_bond_pv)
+Print ('NPV manual = ',                    pv_manual)
+Print ('NPV diff = ',                    pv_manual - used_bond_pv)
 ```
 
     NPV engine =  95.93321956659715
@@ -2439,19 +2439,19 @@ Print ('NPV diff = ',                  pv_manual - used_bond_pv)
 ## c. Bond Clean vs Dirty Prices (adjusted to settle date)
 
 ```python
-Print ('Bond Notional = ',                  fixed_rate_bond.Notional ())
-Print ('Settle Date = ',                  fixed_rate_bond.SettlementDate ())
-Print ('Discount Factor to Settle Date = ',                  round (flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                  4))
-Print ('Bond NPV (Calc Date) = ',                  round (fixed_rate_bond.NPV (),                  4))
-Print ('Bond NPV Adjusted to Settle Date = ',                  round (fixed_rate_bond.NPV () / flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                  4))
-Print ('Bond Dirty Price = ',                  round (fixed_rate_bond.DirtyPrice (),                  4))
-Print ('Bond Clean Price = ',                  round (fixed_rate_bond.CleanPrice (),                  4))
-Print ('Bond Accrued = ',                  round (fixed_rate_bond.AccruedAmount (),                  4))
+Print ('Bond Notional = ',                    fixed_rate_bond.Notional ())
+Print ('Settle Date = ',                    fixed_rate_bond.SettlementDate ())
+Print ('Discount Factor to Settle Date = ',                    round (flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                    4))
+Print ('Bond NPV (Calc Date) = ',                    round (fixed_rate_bond.NPV (),                    4))
+Print ('Bond NPV Adjusted to Settle Date = ',                    round (fixed_rate_bond.NPV () / flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                    4))
+Print ('Bond Dirty Price = ',                    round (fixed_rate_bond.DirtyPrice (),                    4))
+Print ('Bond Clean Price = ',                    round (fixed_rate_bond.CleanPrice (),                    4))
+Print ('Bond Accrued = ',                    round (fixed_rate_bond.AccruedAmount (),                    4))
 
 ```
 
     Bond Notional =  100.0
-    Settle Date =  April 3 rd,                  2024
+    Settle Date =  April 3 rd,                    2024
     Discount Factor to Settle Date =  0.9999
     Bond NPV (Calc Date) =  95.9332
     Bond NPV Adjusted to Settle Date =  95.9465
@@ -2465,7 +2465,7 @@ Print ('Bond Accrued = ',                  round (fixed_rate_bond.AccruedAmount 
 ```python
 # Start with interest_rate_bump = 0
 Interest_rate_bump = ql.SimpleQuote (0.0)
-Flat_yield_curve_bumped = ql.ZeroSpreadedTermStructure (flat_yield_curve_handle,                  ql.QuoteHandle (interest_rate_bump))
+Flat_yield_curve_bumped = ql.ZeroSpreadedTermStructure (flat_yield_curve_handle,                    ql.QuoteHandle (interest_rate_bump))
 
 Bond_engine = ql.DiscountingBondEngine (ql.YieldTermStructureHandle (flat_yield_curve_bumped))
 Fixed_rate_bond.SetPricingEngine (bond_engine)
@@ -2473,19 +2473,19 @@ Fixed_rate_bond.SetPricingEngine (bond_engine)
 Price_base = fixed_rate_bond.CleanPrice ()
 
 # Original price (zero interest rate bump)
-Print ("Price (base case): ",                  round (price_base,                  4))
+Print ("Price (base case): ",                    round (price_base,                    4))
 
 # Bump interest rate by +1 bps (parallel shift)
 Interest_rate_bump.SetValue (0.0001)
 Price_up_1 bp = fixed_rate_bond.CleanPrice ()
-Print ("Price in +1 bps scenario: ",                  round (price_up_1 bp,                  4))
-Print ("Price diff in +1 bps scenario: ",                  round (price_up_1 bp - price_base,                  6))
+Print ("Price in +1 bps scenario: ",                    round (price_up_1 bp,                    4))
+Print ("Price diff in +1 bps scenario: ",                    round (price_up_1 bp - price_base,                    6))
 
 # Bump interest rate by -1 bps (parallel shift)
 Interest_rate_bump.SetValue (-0.0001)
 Price_down_1 bp = fixed_rate_bond.CleanPrice ()
-Print ("Price for -1 bps scenario: ",                  round (price_down_1 bp,                  4))
-Print ("Price diff in -1 bps scenario: ",                  round (price_down_1 bp - price_base,                  6))
+Print ("Price for -1 bps scenario: ",                    round (price_down_1 bp,                    4))
+Print ("Price diff in -1 bps scenario: ",                    round (price_down_1 bp - price_base,                    6))
 
  # Remove interest rate bump
 Interest_rate_bump.SetValue (0)
@@ -2503,14 +2503,14 @@ Interest_rate_bump.SetValue (0)
 
 ```python
 # Compute scenario delta/gamma sensitivities
-Dv 01 = round ((price_down_1 bp - price_base) * 1 e 4 / 100,                  4)
-Duration = round (dv 01 / fixed_rate_bond.DirtyPrice () * 100,                  4)
+Dv 01 = round ((price_down_1 bp - price_base) * 1 e 4 / 100,                    4)
+Duration = round (dv 01 / fixed_rate_bond.DirtyPrice () * 100,                    4)
 Gamma_1 bp = (price_down_1 bp - 2*price_base + price_up_1 bp) * 1 e 8 / 100
-Convexity = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,                  4)
+Convexity = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,                    4)
 
-Print ("DV 01: ",                  dv 01)
-Print ("Duration: ",                  duration)
-Print ("Convexity: ",                  convexity)
+Print ("DV 01: ",                    dv 01)
+Print ("Duration: ",                    duration)
+Print ("Convexity: ",                    convexity)
 
 
 
@@ -2525,12 +2525,12 @@ Print ("Convexity: ",                  convexity)
 ```python
 # Use original interest rate yield of 5%
 # Flat_rate.SetValue (0.05)
-Print ('Bond PV for',                  flat_rate.Value ()*100,                  'pct yield: ',                  round (fixed_rate_bond.NPV (),                  4))
+Print ('Bond PV for',                    flat_rate.Value ()*100,                    'pct yield: ',                    round (fixed_rate_bond.NPV (),                    4))
 
 
 # Change interest rate yield to 6% and recompute bond PV
 Flat_rate.SetValue (0.06)
-Print ('Bond PV for',                  flat_rate.Value ()*100,                  'pct yield: ',                  round (fixed_rate_bond.NPV (),                  4))
+Print ('Bond PV for',                    flat_rate.Value ()*100,                    'pct yield: ',                    round (fixed_rate_bond.NPV (),                    4))
 
 # Set interest rate yield back to 5%
 Flat_rate.SetValue (0.05)
@@ -2551,20 +2551,20 @@ Compounding = ql. Compounded
 Settle_date = fixed_rate_bond.SettlementDate (calc_date)
 Day_counter = fixed_rate_bond.DayCounter ()
 
-Print ('day_counter =',                  day_counter)
-Print ('coupon_freq =',                  coupon_freq)
-Print ('calc_date =',                  calc_date)
-Print ('settle_date =',                  settle_date)
+Print ('day_counter =',                    day_counter)
+Print ('coupon_freq =',                    coupon_freq)
+Print ('calc_date =',                    calc_date)
+Print ('settle_date =',                    settle_date)
 
 
-Implied_yield = fixed_rate_bond.BondYield (bond_market_price,                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 100
-Print ('implied_yield =',                  round (implied_yield,                  4))
+Implied_yield = fixed_rate_bond.BondYield (bond_market_price,                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
+Print ('implied_yield =',                    round (implied_yield,                    4))
 ```
 
     Day_counter = Actual/Actual (ISMA) day counter
     Coupon_freq = 2
-    Calc_date = April 2 nd,                  2024
-    Settle_date = April 3 rd,                  2024
+    Calc_date = April 2 nd,                    2024
+    Settle_date = April 3 rd,                    2024
     Implied_yield = 5.4076
 
 # 7. Analytical Duration,  Convexity and Z-Spread (flat yield model)
@@ -2573,21 +2573,21 @@ Print ('implied_yield =',                  round (implied_yield,                
 ```python
 # Flat_bond_yield (used as an input to compute duration and convexity)
 Flat_bond_yield = 5.5 # in pct
-Flat_bond_yield_rate = ql.InterestRate (flat_bond_yield/100,                  day_count,                  compounding,                  coupon_freq)
+Flat_bond_yield_rate = ql.InterestRate (flat_bond_yield/100,                    day_count,                    compounding,                    coupon_freq)
 
 # Calc Duration and Convexity
-Bond_duration = ql.BondFunctions.Duration (fixed_rate_bond,                  flat_bond_yield_rate)
-Bond_convexity = ql.BondFunctions.Convexity (fixed_rate_bond,                  flat_bond_yield_rate)
+Bond_duration = ql.BondFunctions.Duration (fixed_rate_bond,                    flat_bond_yield_rate)
+Bond_convexity = ql.BondFunctions.Convexity (fixed_rate_bond,                    flat_bond_yield_rate)
 
 # Calc z-spread for a given market price
-Bond_market_price = 95.3194     # Clean market price,                  implies zero Z-Spread!
-Bond_market_price = 95          # Test market price,                  implies Z-Spread > 0
-Bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                  bond_market_price,                  flat_yield_curve,                  day_count,                  compounding,                  coupon_freq,                  settle_date)
+Bond_market_price = 95.3194     # Clean market price,                    implies zero Z-Spread!
+Bond_market_price = 95          # Test market price,                    implies Z-Spread > 0
+Bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                    bond_market_price,                    flat_yield_curve,                    day_count,                    compounding,                    coupon_freq,                    settle_date)
 
 # Print results
-Print ('Bond Duration =',                  round (bond_duration,                  4))
-Print ('Bond Convexity =',                  round (bond_convexity,                  4))
-Print ('Bond Z-Spread bps =',                  round (bond_zspread * 10000,                  4))
+Print ('Bond Duration =',                    round (bond_duration,                    4))
+Print ('Bond Convexity =',                    round (bond_convexity,                    4))
+Print ('Bond Z-Spread bps =',                    round (bond_zspread * 10000,                    4))
 
 ```
 
@@ -2598,10 +2598,10 @@ Print ('Bond Z-Spread bps =',                  round (bond_zspread * 10000,     
 ## b. Validate Z-Spread
 
 ```python
-Def calc_clean_price_with_zspread (fixed_rate_bond,                  yield_curve_handle,                  zspread):
+Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_curve_handle,                    zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
-    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                  zspread_quote_handle,                  ql. Compounded,                  ql. Semiannual)
+    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                    zspread_quote_handle,                    ql. Compounded,                    ql. Semiannual)
     Yield_curve_bumped_handle = ql.YieldTermStructureHandle (yield_curve_bumped)
     
     # Set Valuation engine
@@ -2614,12 +2614,12 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,                  yield_curve
 
 ```python
 # Compare the original and the z-spread computed clean prices
-Bond_zspread_price = calc_clean_price_with_zspread (fixed_rate_bond,                  flat_yield_curve_handle,                  bond_zspread)
+Bond_zspread_price = calc_clean_price_with_zspread (fixed_rate_bond,                    flat_yield_curve_handle,                    bond_zspread)
 
-Print ('Bond Z-Spread bps =',                  round (bond_zspread * 10000,                  2))
-Print ('bond_market_price =',                  bond_market_price)
-Print ('bond_zspread_price =',                  bond_zspread_price)
-Print ('bond price diff =',                  bond_zspread_price - bond_market_price)
+Print ('Bond Z-Spread bps =',                    round (bond_zspread * 10000,                    2))
+Print ('bond_market_price =',                    bond_market_price)
+Print ('bond_zspread_price =',                    bond_zspread_price)
+Print ('bond price diff =',                    bond_zspread_price - bond_market_price)
 ```
 
     Bond Z-Spread bps = 26.6
@@ -2640,12 +2640,12 @@ Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
 
 # Create BondHelper object
 Bond_helper = ql.BondHelper (
-    Tsy_clean_price_handle,                 
+    Tsy_clean_price_handle,                   
     Fixed_rate_bond)
 
 Bond_helper_list = [bond_helper]
         
-Tsy_flat_yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                  bond_helper_list,                  day_count)
+Tsy_flat_yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                    bond_helper_list,                    day_count)
 Tsy_flat_yield_curve.EnableExtrapolation ()
 
 Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_flat_yield_curve)
@@ -2655,19 +2655,19 @@ Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_flat_yield_curve)
 ## b. Display the calibrated Treasury discount curve dataframe
 
 ```python
-Def get_yield_curve_details_df (yield_curve,                  curve_dates=None):
+Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
         Curve_dates = yield_curve.Dates ()
 
     dates = [d.to_date () for d in curve_dates]
-    Discounts = [round (yield_curve.Discount (d),                  3) for d in curve_dates]
-    Yearfracs = [round (yield_curve.TimeFromReference (d),                  3) for d in curve_dates]
-    ZeroRates = [round (yield_curve.ZeroRate (d,                  yield_curve.DayCounter (),                  ql. Compounded). Rate () * 100,                  3) for d in curve_dates]
+    Discounts = [round (yield_curve.Discount (d),                    3) for d in curve_dates]
+    Yearfracs = [round (yield_curve.TimeFromReference (d),                    3) for d in curve_dates]
+    ZeroRates = [round (yield_curve.ZeroRate (d,                    yield_curve.DayCounter (),                    ql. Compounded). Rate () * 100,                    3) for d in curve_dates]
 
-    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                 
-                             'YearFrac': yearfracs,                 
-                             'DiscountFactor': discounts,                 
+    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                   
+                             'YearFrac': yearfracs,                   
+                             'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
 ```
@@ -2677,8 +2677,8 @@ Def get_yield_curve_details_df (yield_curve,                  curve_dates=None):
 Tsy_flat_yield_curve_simple_df = get_yield_curve_details_df (tsy_flat_yield_curve)                  # using calibration grid
 Display (tsy_flat_yield_curve_simple_df)
 
-Grid_dates = [tsy_flat_yield_curve.ReferenceDate () + ql.Period (y,                  ql. Years) for y in list (range (0,                 30,                 2))]
-Tsy_flat_yield_curve_details_df = get_yield_curve_details_df (tsy_flat_yield_curve,                  grid_dates)    # using external grid
+Grid_dates = [tsy_flat_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   2))]
+Tsy_flat_yield_curve_details_df = get_yield_curve_details_df (tsy_flat_yield_curve,                    grid_dates)    # using external grid
 Display (tsy_flat_yield_curve_details_df)
 
 ```
@@ -2863,16 +2863,16 @@ Display (tsy_flat_yield_curve_details_df)
 ## c. Plot the calibrated Treasury Zero Rates and Discount Factors curves
 
 ```python
-Plt = tsy_flat_yield_curve_details_df.Plot (x='Date',                  y='ZeroRate',                  grid=True,                  style='*-',                  title='Treasury Flat Curve: Zero Rates',                  figsize=(12,                 4))
+Plt = tsy_flat_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title='Treasury Flat Curve: Zero Rates',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = tsy_flat_yield_curve_details_df.Plot (x='Date',                  y='DiscountFactor',                  grid=True,                  style='*-',                  title='Treasury Flat Curve: Discount Factors',                  figsize=(12,                 4))
+Plt = tsy_flat_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title='Treasury Flat Curve: Discount Factors',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -2891,12 +2891,12 @@ Risk_free_bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_handle)
 
 Fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)
 Risk_free_bond_price = fixed_rate_bond.CleanPrice ()
-Risk_free_bond_yield = fixed_rate_bond.BondYield (risk_free_bond_price,                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 100
+Risk_free_bond_yield = fixed_rate_bond.BondYield (risk_free_bond_price,                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
 
-Print ('tsy_clean_price_quote: ',                  tsy_clean_price_quote)
-Print ('risk_free_bond_price: ',                  risk_free_bond_price)
-Print ('price_calibration_error: ',                  risk_free_bond_price-tsy_clean_price_quote)
-Print ('risk_free_bond_yield: ',                  risk_free_bond_yield)
+Print ('tsy_clean_price_quote: ',                    tsy_clean_price_quote)
+Print ('risk_free_bond_price: ',                    risk_free_bond_price)
+Print ('price_calibration_error: ',                    risk_free_bond_price-tsy_clean_price_quote)
+Print ('risk_free_bond_yield: ',                    risk_free_bond_yield)
 
 ```
 
@@ -2929,8 +2929,8 @@ Import QuantLib as ql
 Import pandas as pd
 Import datetime as dt
 
-# Use static calculation/valuation date of 2024-04-08,                  matching data available in the market prices EOD file
-Calc_date = ql.Date (8,                  4,                  2024)
+# Use static calculation/valuation date of 2024-04-08,                    matching data available in the market prices EOD file
+Calc_date = ql.Date (8,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 ```
 
@@ -2964,7 +2964,7 @@ Display (bond_market_prices_eod.Head ())
 
 Bond_symbology
 
-# Load govt_on_the_run,                  as of 2024-04-08
+# Load govt_on_the_run,                    as of 2024-04-08
 
 
 # Keep OTR treasuries only
@@ -3325,13 +3325,13 @@ Def get_ql_date (date) -> ql. Date:
     """
     Convert dt. Date to ql. Date
     """
-    If isinstance (date,                  dt. Date):
-        Return ql.Date (date. Day,                  date. Month,                  date. Year)
-    Elif isinstance (date,                  str):
-        Date = dt.Datetime.Strptime (date,                  "%Y-%m-%d"). Date ()
-        Return ql.Date (date. Day,                  date. Month,                  date. Year)
+    If isinstance (date,                    dt. Date):
+        Return ql.Date (date. Day,                    date. Month,                    date. Year)
+    Elif isinstance (date,                    str):
+        Date = dt.Datetime.Strptime (date,                    "%Y-%m-%d"). Date ()
+        Return ql.Date (date. Day,                    date. Month,                    date. Year)
     Else:
-        Raise ValueError (f"to_qldate,                  {type (date)},                  {date}")
+        Raise ValueError (f"to_qldate,                    {type (date)},                    {date}")
 ```
 
 ```python
@@ -3361,15 +3361,15 @@ Def create_schedule_from_symbology (details: dict):
     Date_generation=ql. DateGeneration. Backward
     
     # Create schedule using ql. MakeSchedule interface (with keyword arguments)
-    Schedule = ql.MakeSchedule (effectiveDate=acc_first,                   # this may not be the same as the bond's start date
-                            TerminationDate=maturity,                 
-                            Tenor=period,                 
-                            Calendar=calendar,                 
-                            Convention=business_day_convention,                 
-                            TerminalDateConvention=termination_date_convention,                 
-                            Rule=date_generation,                 
-                            EndOfMonth=True,                 
-                            FirstDate=ql.Date (),                 
+    Schedule = ql.MakeSchedule (effectiveDate=acc_first,                     # this may not be the same as the bond's start date
+                            TerminationDate=maturity,                   
+                            Tenor=period,                   
+                            Calendar=calendar,                   
+                            Convention=business_day_convention,                   
+                            TerminalDateConvention=termination_date_convention,                   
+                            Rule=date_generation,                   
+                            EndOfMonth=True,                   
+                            FirstDate=ql.Date (),                   
                             NextToLastDate=ql.Date ())
     Return schedule
 ```
@@ -3377,12 +3377,12 @@ Def create_schedule_from_symbology (details: dict):
 ```python
 # Use one row of the symbology dataframe as input to the create_schedule_from_symbology () function.
 Corp_bond_details = bond_symbology[bond_symbology['class'] == 'Corp']. Iloc[10]
-Print ("Corp bond details for",                  corp_bond_details['security'])
+Print ("Corp bond details for",                    corp_bond_details['security'])
 Display (corp_bond_details)
 
 # Create cashflow_schedule
 Cashflow_schedule = create_schedule_from_symbology (corp_bond_details)
-Print ("Cashflow dates for",                  corp_bond_details['security'])
+Print ("Cashflow dates for",                    corp_bond_details['security'])
 
 # List cashflow dates
 For date in cashflow_schedule:
@@ -3420,31 +3420,31 @@ For date in cashflow_schedule:
     Status                           ACTV
     Term                         9.998631
     TTM                          2.839151
-    Name: 10,                  dtype: object
+    Name: 10,                    dtype: object
 
 
     Cashflow dates for AAPL 3.35 02/09/27
-    February 9 th,                  2017
-    August 9 th,                  2017
-    February 9 th,                  2018
-    August 9 th,                  2018
-    February 9 th,                  2019
-    August 9 th,                  2019
-    February 9 th,                  2020
-    August 9 th,                  2020
-    February 9 th,                  2021
-    August 9 th,                  2021
-    February 9 th,                  2022
-    August 9 th,                  2022
-    February 9 th,                  2023
-    August 9 th,                  2023
-    February 9 th,                  2024
-    August 9 th,                  2024
-    February 9 th,                  2025
-    August 9 th,                  2025
-    February 9 th,                  2026
-    August 9 th,                  2026
-    February 9 th,                  2027
+    February 9 th,                    2017
+    August 9 th,                    2017
+    February 9 th,                    2018
+    August 9 th,                    2018
+    February 9 th,                    2019
+    August 9 th,                    2019
+    February 9 th,                    2020
+    August 9 th,                    2020
+    February 9 th,                    2021
+    August 9 th,                    2021
+    February 9 th,                    2022
+    August 9 th,                    2022
+    February 9 th,                    2023
+    August 9 th,                    2023
+    February 9 th,                    2024
+    August 9 th,                    2024
+    February 9 th,                    2025
+    August 9 th,                    2025
+    February 9 th,                    2026
+    August 9 th,                    2026
+    February 9 th,                    2027
 
 ## c. Add function to construct generic fixed rate bond objects from symbology data
 
@@ -3464,7 +3464,7 @@ Def create_bond_from_symbology (details: dict):
     Elif details['class'] == 'Govt':
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
-        Raise ValueError (f"unsupported asset class,                  {type (details['class'])},                  {details['class']}")
+        Raise ValueError (f"unsupported asset class,                    {type (details['class'])},                    {details['class']}")
 
     
     # Create issue_date from details['start_date']
@@ -3487,13 +3487,13 @@ Def create_bond_from_symbology (details: dict):
         
     # Create fixed rate bond object
     Fixed_rate_bond = ql.FixedRateBond (
-        Days_settle,                 
-        Face_value,                 
-        Schedule,                 
-        [coupon],                 
-        Day_count,                 
-        Payment_convention,                 
-        Redemption,                 
+        Days_settle,                   
+        Face_value,                   
+        Schedule,                   
+        [coupon],                   
+        Day_count,                   
+        Payment_convention,                   
+        Redemption,                   
         Issue_date)        
 
     Return fixed_rate_bond
@@ -3504,16 +3504,16 @@ Def create_bond_from_symbology (details: dict):
 # Use one row of the symbology dataframe as input to the function.
 Corp_bond_object = create_bond_from_symbology (corp_bond_details)
 
-Print ("Corp bond object details for",                  corp_bond_details['security'])
-Print ('Start date: ',                  corp_bond_object.StartDate ())
-Print ('Maturity date: ',                  corp_bond_object.MaturityDate ())
-Print ('Bond face notional: ',                  corp_bond_object.Notional ())
+Print ("Corp bond object details for",                    corp_bond_details['security'])
+Print ('Start date: ',                    corp_bond_object.StartDate ())
+Print ('Maturity date: ',                    corp_bond_object.MaturityDate ())
+Print ('Bond face notional: ',                    corp_bond_object.Notional ())
 
 ```
 
     Corp bond object details for AAPL 3.35 02/09/27
-    Start date: February 9 th,                  2017
-    Maturity date: February 9 th,                  2027
+    Start date: February 9 th,                    2017
+    Maturity date: February 9 th,                    2027
     Bond face notional: 100.0
 
 ## d. Add function that returns a dataframe with (future) cash flows details for a bond object
@@ -3528,14 +3528,14 @@ The results dataframe should contain following columns:
 Pick one government and one corporate bond from symbology,  create the bond objects and display the future cashflows.
 
 ```python
-Def get_bond_cashflows (bond: ql. FixedRateBond,                  calc_date=ql. Date) -> pd. DataFrame:
-    '''Returns all future cashflows as of calc_date,                  i.e. with payment dates > calc_date.
+Def get_bond_cashflows (bond: ql. FixedRateBond,                    calc_date=ql. Date) -> pd. DataFrame:
+    '''Returns all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
     '''    
     Day_counter = bond.DayCounter ()    
     
-    X = [(cf.Date (),                  day_counter.YearFraction (calc_date,                  cf.Date ()),                  cf.Amount ()) for cf in bond.Cashflows ()]
-    Cf_date,                  cf_yearFrac,                  cf_amount = zip (*x)
-    Cashflows_df = pd.DataFrame (data={'CashFlowDate': cf_date,                  'CashFlowYearFrac': cf_yearFrac,                  'CashFlowAmount': cf_amount})
+    X = [(cf.Date (),                    day_counter.YearFraction (calc_date,                    cf.Date ()),                    cf.Amount ()) for cf in bond.Cashflows ()]
+    Cf_date,                    cf_yearFrac,                    cf_amount = zip (*x)
+    Cashflows_df = pd.DataFrame (data={'CashFlowDate': cf_date,                    'CashFlowYearFrac': cf_yearFrac,                    'CashFlowAmount': cf_amount})
 
     # filter for payment dates > calc_date
     Cashflows_df = cashflows_df[cashflows_df. CashFlowYearFrac > 0]
@@ -3544,9 +3544,9 @@ Def get_bond_cashflows (bond: ql. FixedRateBond,                  calc_date=ql. 
 ```
 
 ```python
-# Pick one government and one corporate bond from symbology,                  create the bond objects.
+# Pick one government and one corporate bond from symbology,                    create the bond objects.
 Govt_bond_details = bond_symbology[bond_symbology['class'] == 'Govt']. Iloc[10]
-Print ("Govt bond details for",                  govt_bond_details['security'])
+Print ("Govt bond details for",                    govt_bond_details['security'])
 Display (govt_bond_details)
 
 # Create govt_bond_object
@@ -3582,17 +3582,17 @@ Govt_bond_object = create_bond_from_symbology (govt_bond_details)
     Status                           ACTV
     Term                        30.001369
     TTM                          0.856947
-    Name: 348,                  dtype: object
+    Name: 348,                    dtype: object
 
 ```python
 # Govt bond: display the future cashflows.
-Print ("Govt bond future cashflows for",                  govt_bond_details['security'])
-Govt_bond_cf = get_bond_cashflows (govt_bond_object,                  calc_date=calc_date)
+Print ("Govt bond future cashflows for",                    govt_bond_details['security'])
+Govt_bond_cf = get_bond_cashflows (govt_bond_object,                    calc_date=calc_date)
 Display (govt_bond_cf)
 
 # Corp bond: display the future cashflows.
-Print ("Corp bond future cashflows for",                  corp_bond_details['security'])
-Corp_bond_cf = get_bond_cashflows (corp_bond_object,                  calc_date=calc_date)
+Print ("Corp bond future cashflows for",                    corp_bond_details['security'])
+Corp_bond_cf = get_bond_cashflows (corp_bond_object,                    calc_date=calc_date)
 Display (corp_bond_cf)
 ```
 
@@ -3735,13 +3735,13 @@ Govt_symbology_otr = bond_symbology[bond_symbology['isin']. Isin (govt_on_the_ru
 Govt_symbology_otr = govt_symbology_otr. Sort_values (by='TTM')
 
 # Merge market data as of 2024-04-01 into treasury OTR symbology
-Govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+Govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 
 # Plot a graph/scatter plot of treasury OTR mid yields by TTM
-Govt_combined_otr.Plot (x='TTM',                  y='midYield',                  grid=True,                  style='*-',                  title='OTR US Treasury yields by TTM',                  figsize=(12,                 4))
+Govt_combined_otr.Plot (x='TTM',                    y='midYield',                    grid=True,                    style='*-',                    title='OTR US Treasury yields by TTM',                    figsize=(12,                   4))
 ```
 
-    <Axes: title={'center': 'OTR US Treasury yields by TTM'},                  xlabel='TTM'>
+    <Axes: title={'center': 'OTR US Treasury yields by TTM'},                    xlabel='TTM'>
 
 
 
@@ -3760,8 +3760,8 @@ Display the calibration results for the mid curve,  using get_yield_curve_detail
 
 ```python
 Def calibrate_yield_curve_from_frame (
-        Calc_date: ql. Date,                 
-        Treasury_details: pd. DataFrame,                 
+        Calc_date: ql. Date,                   
+        Treasury_details: pd. DataFrame,                   
         Price_quote_column: str):
     '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid price quotes.
     '''
@@ -3775,52 +3775,52 @@ Def calibrate_yield_curve_from_frame (
 
     Bond_helpers = []
     
-    For index,                  row in sorted_details_frame.Iterrows ():
+    For index,                    row in sorted_details_frame.Iterrows ():
         Bond_object = create_bond_from_symbology (row)
         
         Tsy_clean_price_quote = row[price_quote_column]
         Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
         
-        Bond_helper = ql.BondHelper (tsy_clean_price_handle,                  bond_object)
+        Bond_helper = ql.BondHelper (tsy_clean_price_handle,                    bond_object)
         Bond_helpers.Append (bond_helper)
         
-    Yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                  bond_helpers,                  day_count)
-    # yield_curve = ql.PiecewiseFlatForward (calc_date,                  bond_helpers,                  day_count)
+    Yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                    bond_helpers,                    day_count)
+    # yield_curve = ql.PiecewiseFlatForward (calc_date,                    bond_helpers,                    day_count)
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
 
 
 
-Def get_yield_curve_details_df (yield_curve,                  curve_dates=None):
+Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
         Curve_dates = yield_curve.Dates ()
 
     dates = [d.to_date () for d in curve_dates]
-    Discounts = [round (yield_curve.Discount (d),                  3) for d in curve_dates]
-    Yearfracs = [round (yield_curve.TimeFromReference (d),                  3) for d in curve_dates]
-    ZeroRates = [round (yield_curve.ZeroRate (d,                  yield_curve.DayCounter (),                  ql. Compounded). Rate () * 100,                  3) for d in curve_dates]
+    Discounts = [round (yield_curve.Discount (d),                    3) for d in curve_dates]
+    Yearfracs = [round (yield_curve.TimeFromReference (d),                    3) for d in curve_dates]
+    ZeroRates = [round (yield_curve.ZeroRate (d,                    yield_curve.DayCounter (),                    ql. Compounded). Rate () * 100,                    3) for d in curve_dates]
 
-    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                 
-                             'YearFrac': yearfracs,                 
-                             'DiscountFactor': discounts,                 
+    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                   
+                             'YearFrac': yearfracs,                   
+                             'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
 ```
 
 ```python
-# Calibrate the bid,                  ask and mid discount factor curves as of 2024-04-08.
-Tsy_yield_curve_bid = calibrate_yield_curve_from_frame (calc_date,                  govt_combined_otr,                  'bidPrice')
-Tsy_yield_curve_mid = calibrate_yield_curve_from_frame (calc_date,                  govt_combined_otr,                  'midPrice')
-Tsy_yield_curve_ask = calibrate_yield_curve_from_frame (calc_date,                  govt_combined_otr,                  'askPrice')
+# Calibrate the bid,                    ask and mid discount factor curves as of 2024-04-08.
+Tsy_yield_curve_bid = calibrate_yield_curve_from_frame (calc_date,                    govt_combined_otr,                    'bidPrice')
+Tsy_yield_curve_mid = calibrate_yield_curve_from_frame (calc_date,                    govt_combined_otr,                    'midPrice')
+Tsy_yield_curve_ask = calibrate_yield_curve_from_frame (calc_date,                    govt_combined_otr,                    'askPrice')
 
 # Display the calibration results for the mid curve
 Tsy_yield_curve_df = get_yield_curve_details_df (tsy_yield_curve_mid)
 Display (tsy_yield_curve_df)
 
-Ql_dates_yearly = [calc_date + ql.Period (y,                  ql. Years) for y in list (range (0,                  30,                  1))]
-Tsy_yield_curve_monthly_df = get_yield_curve_details_df (tsy_yield_curve_mid,                  curve_dates=ql_dates_yearly)
+Ql_dates_yearly = [calc_date + ql.Period (y,                    ql. Years) for y in list (range (0,                    30,                    1))]
+Tsy_yield_curve_monthly_df = get_yield_curve_details_df (tsy_yield_curve_mid,                    curve_dates=ql_dates_yearly)
 Display (tsy_yield_curve_monthly_df)
 
 ```
@@ -4154,17 +4154,17 @@ Display (tsy_yield_curve_monthly_df)
 Create a graph/scatter plot of the newly computed mid yields by maturity.
 
 ```python
-Plt = tsy_yield_curve_df.Plot (x='Date',                  y=['ZeroRate'],                  style='*-',                  grid=True,                  title=f'US Treasury OTR yield curve as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = tsy_yield_curve_df.Plot (x='Date',                    y=['ZeroRate'],                    style='*-',                    grid=True,                    title=f'US Treasury OTR yield curve as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                  y=['ZeroRate'],                  style='*-',                  grid=True,                  title=f'US Treasury Yearly yield curve as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                    y=['ZeroRate'],                    style='*-',                    grid=True,                    title=f'US Treasury Yearly yield curve as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -4180,16 +4180,16 @@ Plt. Set_xlabel ('Date')
 Plot the discount factor curve up to the 30 years point,  using a 6 months discretization grid.
 
 ```python
-Plt = tsy_yield_curve_df.Plot (x='Date',                  y=['DiscountFactor'],                  style='*-',                  grid=True,                  title=f'US Treasury OTR discount factor curve as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = tsy_yield_curve_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury OTR discount factor curve as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Discount Factor')
 Plt. Set_xlabel ('Date')
 
-Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                  y=['DiscountFactor'],                  style='*-',                  grid=True,                  title=f'US Treasury Yearly discount factor curve as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury Yearly discount factor curve as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Discount Factor')
 Plt. Set_xlabel ('Date')
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -4223,7 +4223,7 @@ Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 
 # Calculate mid prices
 Calculated_mid_prices = []
-For index,                  row in govt_combined_otr.Iterrows ():
+For index,                    row in govt_combined_otr.Iterrows ():
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
     Calculated_mid_prices.Append (bond_object.CleanPrice ())
@@ -4232,7 +4232,7 @@ Govt_combined_otr['calc_mid_price'] = calculated_mid_prices
 Govt_combined_otr['calib_error'] = govt_combined_otr['midPrice'] - govt_combined_otr['calc_mid_price']
 
 # Compare the calculated clean mid prices to the original market mid prices.
-display (govt_combined_otr [['security',                  'isin',                  'figi',                  'midPrice',                  'calc_mid_price',                  'calib_error']])
+display (govt_combined_otr [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_mid_price',                    'calib_error']])
 ```
 
 <div>
@@ -4345,12 +4345,12 @@ Extend the dataframe with the following calculated risk metrics:
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
-# Calculate dv 01 s,                  durations and convexities
+# Calculate dv 01 s,                    durations and convexities
 Dv 01 s = []
 Calc_durations = []
 Calc_convexities = []
 
-For index,                  row in govt_combined_otr.Iterrows ():
+For index,                    row in govt_combined_otr.Iterrows ():
     
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
@@ -4358,11 +4358,11 @@ For index,                  row in govt_combined_otr.Iterrows ():
     Settle_date = bond_object.SettlementDate (calc_date)
     Day_counter = bond_object.DayCounter ()    
     
-    Bond_yield = bond_object.BondYield (row['calc_mid_price'],                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 100
+    Bond_yield = bond_object.BondYield (row['calc_mid_price'],                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
     
-    Flat_int_rate = ql.InterestRate (bond_yield / 100,                  day_counter,                  compounding,                  coupon_freq)
-    Bond_duration = ql.BondFunctions.Duration (bond_object,                  flat_int_rate)
-    Bond_convexity = ql.BondFunctions.Convexity (bond_object,                  flat_int_rate)
+    Flat_int_rate = ql.InterestRate (bond_yield / 100,                    day_counter,                    compounding,                    coupon_freq)
+    Bond_duration = ql.BondFunctions.Duration (bond_object,                    flat_int_rate)
+    Bond_convexity = ql.BondFunctions.Convexity (bond_object,                    flat_int_rate)
     Bond_dv 01 = bond_object.DirtyPrice () * bond_duration / 100
     
     Dv 01 s.Append (bond_dv 01)
@@ -4374,7 +4374,7 @@ Govt_combined_otr['dv 01'] = dv 01 s
 Govt_combined_otr['duration'] = calc_durations
 Govt_combined_otr['convexity'] = calc_convexities
 
-display (govt_combined_otr [['security',                  'isin',                  'figi',                  'calc_mid_price',                  'dv01',                  'duration',                  'convexity']])
+display (govt_combined_otr [['security',                    'isin',                    'figi',                    'calc_mid_price',                    'dv01',                    'duration',                    'convexity']])
 
 ```
 
@@ -4492,18 +4492,18 @@ Extend the dataframe with the following scenario sensitivities metrics:
 |-------|-------|-------------|
 
 ```python
-# Calculate scenario dv 01 s,                  durations and convexities
+# Calculate scenario dv 01 s,                    durations and convexities
 Scen_dv 01 s = []
 Scen_durations = []
 Scen_convexities = []
 
-For index,                  row in govt_combined_otr.Iterrows ():
+For index,                    row in govt_combined_otr.Iterrows ():
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
     
     # create interest rate scenarios
     Interest_rate_bump = ql.SimpleQuote (0.0)
-    Calibrated_yield_curve_bumped = ql.ZeroSpreadedTermStructure (tsy_yield_curve_mid_handle,                  ql.QuoteHandle (interest_rate_bump))
+    Calibrated_yield_curve_bumped = ql.ZeroSpreadedTermStructure (tsy_yield_curve_mid_handle,                    ql.QuoteHandle (interest_rate_bump))
     Bond_engine_bumped = ql.DiscountingBondEngine (ql.YieldTermStructureHandle (calibrated_yield_curve_bumped))
     Bond_object.SetPricingEngine (bond_engine_bumped)
     Dirty_price_base = bond_object.DirtyPrice ()
@@ -4530,7 +4530,7 @@ Govt_combined_otr['scen_dv 01'] = scen_dv 01 s
 Govt_combined_otr['scen_duration'] = scen_durations
 Govt_combined_otr['scen_convexity'] = scen_convexities
 
-display (govt_combined_otr [['security',                  'isin',                  'figi',                 'scen_dv01',                  'scen_duration',                  'scen_convexity']])
+display (govt_combined_otr [['security',                    'isin',                    'figi',                   'scen_dv01',                    'scen_duration',                    'scen_convexity']])
 
 ```
 
@@ -4637,7 +4637,7 @@ Restrict the symbology dataframe to fixed rate corporate bonds only and create t
 ```python
 # Create the fixed-rate corporate bond symbology + combined dataframes
 Corp_symbology = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
-Corp_combined = corp_symbology.Merge (bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+Corp_combined = corp_symbology.Merge (bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 
 Display (corp_combined.Head ())
 ```
@@ -4813,16 +4813,16 @@ Display (corp_combined.Head ())
 # Create the corporate bond objects and store them in a dictionary
 Corp_bond_object_dict = {}
 
-For index,                  row in corp_combined.Iterrows ():
+For index,                    row in corp_combined.Iterrows ():
     Bond_details = row. To_dict ()
     Corp_bond_object = create_bond_from_symbology (bond_details)
     Corp_bond_object_dict[row['security']] = corp_bond_object
     
 # Display the future cashflows for one corp bond object in the dictionary
 Corp_bond_key = corp_combined. Iloc[10]['security']
-Corp_bond_cf = get_bond_cashflows (corp_bond_object_dict[corp_bond_key],                  calc_date=calc_date)
+Corp_bond_cf = get_bond_cashflows (corp_bond_object_dict[corp_bond_key],                    calc_date=calc_date)
 
-Print ("Corp bond future cashflows for",                  corp_bond_key)
+Print ("Corp bond future cashflows for",                    corp_bond_key)
 Display (corp_bond_cf)
 ```
 
@@ -4919,7 +4919,7 @@ Coupon_freq = ql. Semiannual
 Calc_yields = []
 Calc_zspreads = []
 
-For index,                  row in corp_combined.Iterrows ():
+For index,                    row in corp_combined.Iterrows ():
         
     Bond_object = create_bond_from_symbology (row)    
     Bond_object.SetPricingEngine (bond_engine)
@@ -4930,12 +4930,12 @@ For index,                  row in corp_combined.Iterrows ():
     Clean_price = bond_object.CleanPrice ()
     
     # yield in pct
-    Calc_yield = bond_object.BondYield (clean_price,                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 1 e 2
-    Flat_int_rate = ql.InterestRate (calc_yield / 100,                  day_counter,                  compounding,                  coupon_freq)
+    Calc_yield = bond_object.BondYield (clean_price,                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 1 e 2
+    Flat_int_rate = ql.InterestRate (calc_yield / 100,                    day_counter,                    compounding,                    coupon_freq)
     Bond_market_price = row['midPrice']
     
     # zspread in bps
-    Calc_zspread = ql.BondFunctions.ZSpread (bond_object,                  bond_market_price,                  tsy_yield_curve_mid,                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 1 e 4
+    Calc_zspread = ql.BondFunctions.ZSpread (bond_object,                    bond_market_price,                    tsy_yield_curve_mid,                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 1 e 4
     
     Calc_yields.Append (calc_yield)
     Calc_zspreads.Append (calc_zspread)
@@ -4944,7 +4944,7 @@ For index,                  row in corp_combined.Iterrows ():
 Corp_combined['calc_yield'] = calc_yields
 Corp_combined['calc_zspread'] = calc_zspreads
 
-display (corp_combined [['security',                  'isin',                  'figi',                  'midPrice',                  'calc_yield',                  'calc_zspread']])
+display (corp_combined [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_yield',                    'calc_zspread']])
 
 ```
 
@@ -5086,10 +5086,10 @@ Pick 3 corporate bonds (at your discretion) and use function below to re-price t
 Validate that you match the original market prices,  which were used as input to the z-Spread function.
 
 ```python
-Def calc_clean_price_with_zspread (fixed_rate_bond,                  yield_curve_handle,                  zspread):
+Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_curve_handle,                    zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
-    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                  zspread_quote_handle,                  ql. Compounded,                  ql. Semiannual)
+    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                    zspread_quote_handle,                    ql. Compounded,                    ql. Semiannual)
     Yield_curve_bumped_handle = ql.YieldTermStructureHandle (yield_curve_bumped)
     
     # Set Valuation engine
@@ -5114,19 +5114,19 @@ Corp_combined_small = corp_combined[: 3]. Copy ()
 # Calculate prices with zspreads
 Bond_zspread_prices = []
 
-For index,                  row in corp_combined_small.Iterrows ():
+For index,                    row in corp_combined_small.Iterrows ():
     
     Bond_object = create_bond_from_symbology (row)    
     Bond_object.SetPricingEngine (bond_engine)
         
-    Bond_zspread_price = calc_clean_price_with_zspread (bond_object,                  tsy_yield_curve_mid_handle,                  row['calc_zspread']/1 e 4)
+    Bond_zspread_price = calc_clean_price_with_zspread (bond_object,                    tsy_yield_curve_mid_handle,                    row['calc_zspread']/1 e 4)
     Bond_zspread_prices.Append (bond_zspread_price)
     
-# Validate that you match the original market prices,                  which were used as input to the z-Spread function.
+# Validate that you match the original market prices,                    which were used as input to the z-Spread function.
 Corp_combined_small['bond_zspread_price'] = bond_zspread_prices
 Corp_combined_small['price_difference'] = corp_combined_small['midPrice'] - corp_combined_small['bond_zspread_price']
 
-display (corp_combined_small [['security',                  'isin',                  'figi',                  'calc_zspread',                  'midPrice',                  'bond_zspread_price',                 'price_difference']])
+display (corp_combined_small [['security',                    'isin',                    'figi',                    'calc_zspread',                    'midPrice',                    'bond_zspread_price',                   'price_difference']])
 ```
 
 <div>
@@ -5214,7 +5214,7 @@ Coupon_freq = ql. Semiannual
 Calc_durations = []
 Calc_convexities = []
 
-For index,                  row in corp_combined.Iterrows ():
+For index,                    row in corp_combined.Iterrows ():
     
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
@@ -5222,11 +5222,11 @@ For index,                  row in corp_combined.Iterrows ():
     Settle_date = bond_object.SettlementDate (calc_date)
     Day_counter = bond_object.DayCounter ()    
     
-    Bond_yield = bond_object.BondYield (row['midPrice'],                  day_counter,                  compounding,                  coupon_freq,                  settle_date) * 100
+    Bond_yield = bond_object.BondYield (row['midPrice'],                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
     
-    Flat_int_rate = ql.InterestRate (bond_yield / 100,                  day_counter,                  compounding,                  coupon_freq)
-    Bond_duration = ql.BondFunctions.Duration (bond_object,                  flat_int_rate)
-    Bond_convexity = ql.BondFunctions.Convexity (bond_object,                  flat_int_rate)        
+    Flat_int_rate = ql.InterestRate (bond_yield / 100,                    day_counter,                    compounding,                    coupon_freq)
+    Bond_duration = ql.BondFunctions.Duration (bond_object,                    flat_int_rate)
+    Bond_convexity = ql.BondFunctions.Convexity (bond_object,                    flat_int_rate)        
     
     Calc_durations.Append (bond_duration)
     Calc_convexities.Append (bond_convexity)
@@ -5235,7 +5235,7 @@ For index,                  row in corp_combined.Iterrows ():
 Corp_combined['calc_duration'] = calc_durations
 Corp_combined['calc_convexity'] = calc_convexities
 
-display (corp_combined [['security',                  'isin',                  'figi',                  'midPrice',                  'calc_duration',                  'calc_convexity']]. head ())
+display (corp_combined [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_duration',                    'calc_convexity']]. head ())
 
 ```
 
@@ -5319,17 +5319,17 @@ display (corp_combined [['security',                  'isin',                  '
 # Visualize duration and convexity for one ticker (for better understanding of risks) [Not part of homework]
 Corp_combined_aapl = corp_combined[corp_combined['ticker'] == 'AAPL']
 
-Plt = corp_combined_aapl.Plot (x='maturity',                  y=['calc_duration'],                  style='*-',                  grid=True,                  title=f'Duration for AAPL bonds as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_duration'],                    style='*-',                    grid=True,                    title=f'Duration for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Duration')
 Plt. Set_xlabel ('Maturity date')
 
-Plt = corp_combined_aapl.Plot (x='maturity',                  y=['calc_convexity'],                  style='*-',                  grid=True,                  title=f'Convexity for AAPL bonds as of {as_of_date.Date ()}',                  figsize=(12,                 4))
+Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_convexity'],                    style='*-',                    grid=True,                    title=f'Convexity for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Convexity')
 Plt. Set_xlabel ('Maturity date')
 
 ```
 
-    Text (0.5,                  0,                  'Maturity date')
+    Text (0.5,                    0,                    'Maturity date')
 
 
 
@@ -5385,7 +5385,7 @@ Overnight Index Swap contract is an interest rate swap contract exchanging and o
 
 ```python
 # Set the static valuation date: 2023-04-14
-Calc_date = ql.Date (14,                  4,                  2023)
+Calc_date = ql.Date (14,                    4,                    2023)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 
 # Calendar
@@ -5394,18 +5394,18 @@ Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 # Settle_days
 Settle_days = 2
 
-# SOFR OIS swap tenors: 1 Y,                  2 Y,                  3 Y,                  5 Y 7 Y,                  10 Y,                  20 Y and 30 Y
-SOFR_tenors = [ql.Period (y,                  ql. Years) for y in [1,                  2,                  3,                  5,                  7,                  10,                  20,                  30]]
+# SOFR OIS swap tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y,                    10 Y,                    20 Y and 30 Y
+SOFR_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10,                    20,                    30]]
                
 # SOFR OIS swap rates (as of 2023-04-14)
-SOFR_rates = [4.81,                  4.11,                  3.73,                  3.38,                  3.32,                  3.26,                  3.20,                  3.02]
+SOFR_rates = [4.81,                    4.11,                    3.73,                    3.38,                    3.32,                    3.26,                    3.20,                    3.02]
 
 SOFR_OIS_swap_helpers = []
-For (SOFR_tenor,                  SOFR_rate) in zip (SOFR_tenors,                  SOFR_rates):
-    SOFR_OIS_swap_helpers.Append (ql.OISRateHelper (settle_days,                  SOFR_tenor,                  ql.QuoteHandle (ql.SimpleQuote (SOFR_rate/100)),                  ql.Sofr ()))
+For (SOFR_tenor,                    SOFR_rate) in zip (SOFR_tenors,                    SOFR_rates):
+    SOFR_OIS_swap_helpers.Append (ql.OISRateHelper (settle_days,                    SOFR_tenor,                    ql.QuoteHandle (ql.SimpleQuote (SOFR_rate/100)),                    ql.Sofr ()))
 
 # Create SOFR yield curve
-Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                  calendar,                  SOFR_OIS_swap_helpers,                  ql. Actual 360 ())
+Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                    calendar,                    SOFR_OIS_swap_helpers,                    ql. Actual 360 ())
 Sofr_yield_curve.EnableExtrapolation ()
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
@@ -5413,35 +5413,35 @@ Print (sofr_yield_curve.ReferenceDate ())
 
 ```
 
-    April 18 th,                  2023
+    April 18 th,                    2023
 
 ## b. Display the calibrated SOFR discount curve dataframe
 
 ```python
-Def get_yield_curve_details_df (yield_curve,                  curve_dates=None):
+Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
         Curve_dates = yield_curve.Dates ()
 
     dates = [d.to_date () for d in curve_dates]
-    Discounts = [round (yield_curve.Discount (d),                  3) for d in curve_dates]
-    Yearfracs = [round (yield_curve.TimeFromReference (d),                  3) for d in curve_dates]
-    ZeroRates = [round (yield_curve.ZeroRate (d,                  yield_curve.DayCounter (),                  ql. Compounded). Rate () * 100,                  3) for d in curve_dates]
+    Discounts = [round (yield_curve.Discount (d),                    3) for d in curve_dates]
+    Yearfracs = [round (yield_curve.TimeFromReference (d),                    3) for d in curve_dates]
+    ZeroRates = [round (yield_curve.ZeroRate (d,                    yield_curve.DayCounter (),                    ql. Compounded). Rate () * 100,                    3) for d in curve_dates]
 
-    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                 
-                             'YearFrac': yearfracs,                 
-                             'DiscountFactor': discounts,                 
+    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                   
+                             'YearFrac': yearfracs,                   
+                             'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
 
 
 
 # Display SOFR yield curve
-Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                  ql. Years) for y in list (range (0,                 30,                 2))]
+Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   2))]
 
 
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
-Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                  grid_dates)    # using external grid
+Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
 Print (sofr_yield_curve_simple_df)
 Print (sofr_yield_curve_details_df)
@@ -5478,16 +5478,16 @@ Print (sofr_yield_curve_details_df)
 ## c. Plot the calibrated SOFR Zero Rates and Discount Factors curves
 
 ```python
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                  y='ZeroRate',                  grid=True,                  style='*-',                  title='SOFR Curve: Zero Rates',                  figsize=(12,                 5))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title='SOFR Curve: Zero Rates',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                  y='DiscountFactor',                  grid=True,                  style='*-',                  title='SOFR Curve: Discount Factors',                  figsize=(12,                 5))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title='SOFR Curve: Discount Factors',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -5507,13 +5507,13 @@ Sofr_index = ql.Sofr (sofr_yield_curve_handle)
 
 Print ('SOFR Swap valuation: PVs should be close to zero!')
 
-For (SOFR_tenor,                  SOFR_rate) in zip (SOFR_tenors,                  SOFR_rates):    
-    Start_date = calendar.Advance (calc_date,                  settle_days,                  ql. Days)
-    Schedule = ql.MakeSchedule (start_date,                  calendar.Advance (start_date,                  SOFR_tenor),                  ql.Period ('1 Y'),                  calendar=calendar)        
-    OisSwap = ql.MakeOIS (SOFR_tenor,                  sofr_index,                  SOFR_rate/100,                  nominal=100)
+For (SOFR_tenor,                    SOFR_rate) in zip (SOFR_tenors,                    SOFR_rates):    
+    Start_date = calendar.Advance (calc_date,                    settle_days,                    ql. Days)
+    Schedule = ql.MakeSchedule (start_date,                    calendar.Advance (start_date,                    SOFR_tenor),                    ql.Period ('1 Y'),                    calendar=calendar)        
+    OisSwap = ql.MakeOIS (SOFR_tenor,                    sofr_index,                    SOFR_rate/100,                    nominal=100)
     
     # oisSwap.SetPricingEngine (swap_engine)
-    Print ('Swap PV for',                  SOFR_tenor,                  'tenor /',                  SOFR_rate,                  'coupon : ',                  oisSwap.NPV ()) 
+    Print ('Swap PV for',                    SOFR_tenor,                    'tenor /',                    SOFR_rate,                    'coupon : ',                    oisSwap.NPV ()) 
     
 ```
 
@@ -5535,34 +5535,34 @@ CDS_recovery_rate = 0.4
 
 CDS_day_count = ql. Actual 360 ()
 
-# CDS standard tenors: 1 Y,                  2 Y,                  3 Y,                  5 Y 7 Y and 10 Y
-CDS_tenors = [ql.Period (y,                  ql. Years) for y in [1,                  2,                  3,                  5,                  7,                  10]]
+# CDS standard tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y and 10 Y
+CDS_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10]]
               
 # CDS spreads for IBM as of calc_date = 2023-04-14
-CDS_spreads = [17.25,                  24.09,                  35.58,                  55.58,                  70.51,                  79.92]
+CDS_spreads = [17.25,                    24.09,                    35.58,                    55.58,                    70.51,                    79.92]
 
-CDS_helpers = [ql.SpreadCdsHelper ((CDS_spread / 10000.0),                  CDS_tenor,                  settle_days,                  ql.TARGET (),                 
-                                  Ql. Quarterly,                  ql. Following,                  ql. DateGeneration. TwentiethIMM,                  CDS_day_count,                  CDS_recovery_rate,                  sofr_yield_curve_handle)
+CDS_helpers = [ql.SpreadCdsHelper ((CDS_spread / 10000.0),                    CDS_tenor,                    settle_days,                    ql.TARGET (),                   
+                                  Ql. Quarterly,                    ql. Following,                    ql. DateGeneration. TwentiethIMM,                    CDS_day_count,                    CDS_recovery_rate,                    sofr_yield_curve_handle)
                
-For (CDS_spread,                  CDS_tenor) in zip (CDS_spreads,                  CDS_tenors)]
+For (CDS_spread,                    CDS_tenor) in zip (CDS_spreads,                    CDS_tenors)]
 
 # Bootstrap hazard_rate_curve
-Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                  CDS_helpers,                  CDS_day_count)
+Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                    CDS_helpers,                    CDS_day_count)
 Hazard_rate_curve.EnableExtrapolation ()
 
 # Display calibrated hazard rates and survival probabilities
-Hazard_list = [(hr[0]. To_date (),                  
-                CDS_day_count.YearFraction (calc_date,                  hr[0]),                 
-                Hr[1] * 100,                 
-                Np.Exp (-hr[1]*CDS_day_count.YearFraction (calc_date,                  hr[0])),                 
+Hazard_list = [(hr[0]. To_date (),                    
+                CDS_day_count.YearFraction (calc_date,                    hr[0]),                   
+                Hr[1] * 100,                   
+                Np.Exp (-hr[1]*CDS_day_count.YearFraction (calc_date,                    hr[0])),                   
                 Hazard_rate_curve.SurvivalProbability (hr[0])) for hr in hazard_rate_curve.Nodes ()]
 
-Grid_dates,                  year_frac,                  hazard_rates,                  sp_manual,                  surv_probs = zip (*hazard_list)
+Grid_dates,                    year_frac,                    hazard_rates,                    sp_manual,                    surv_probs = zip (*hazard_list)
 
-Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                  
-                                     'YearFrac': year_frac,                 
-                                     'HazardRate': hazard_rates,                 
-                                     'SPManual': sp_manual,                 
+Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                    
+                                     'YearFrac': year_frac,                   
+                                     'HazardRate': hazard_rates,                   
+                                     'SPManual': sp_manual,                   
                                      'SurvivalProb': surv_probs})
 Print (hazard_rates_df)
 
@@ -5580,17 +5580,17 @@ Print (hazard_rates_df)
 ## b. Plot the calibrated Hazard Rate and Survival Probability curves
 
 ```python
-Plt = hazard_rates_df.Plot (x='Date',                  y='HazardRate',                  grid=True,                  style='*-',                  title='IBM Hazard Rates Curve',                  figsize=(12,                 5))
+Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRate',                    grid=True,                    style='*-',                    title='IBM Hazard Rates Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Hazard Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = hazard_rates_df.Plot (x='Date',                  y='SurvivalProb',                  grid=True,                  style='*-',                  title='IBM Survival Probability Curve',                  figsize=(12,                 5))
+Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title='IBM Survival Probability Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Survival Probability')
 Plt. Set_xlabel ('Date')
 
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -5611,34 +5611,34 @@ Face_notional = 100
 
 Contractual_spread = 100 / 10000
 
-Cds_start_date = ql.Date (14,                  4,                  2023)
-Cds_maturity_date = ql.Date (20,                  6,                  2028)
+Cds_start_date = ql.Date (14,                    4,                    2023)
+Cds_maturity_date = ql.Date (20,                    6,                    2028)
 
 # Create CDS schedule
-Cds_schedule = ql.MakeSchedule (cds_start_date,                  cds_maturity_date,                  ql.Period ('3 M'),                 
-                            Ql. Quarterly,                  ql.TARGET (),                  ql. Following,                  ql. Unadjusted,                  ql. DateGeneration. TwentiethIMM)
+Cds_schedule = ql.MakeSchedule (cds_start_date,                    cds_maturity_date,                    ql.Period ('3 M'),                   
+                            Ql. Quarterly,                    ql.TARGET (),                    ql. Following,                    ql. Unadjusted,                    ql. DateGeneration. TwentiethIMM)
 
 # Create CDS object
-Cds_obj = ql.CreditDefaultSwap (side,                  face_notional,                  contractual_spread,                  cds_schedule,                  ql. Following,                  ql. Actual 360 ())
+Cds_obj = ql.CreditDefaultSwap (side,                    face_notional,                    contractual_spread,                    cds_schedule,                    ql. Following,                    ql. Actual 360 ())
 
 # Create CDS Implied Credit Curve and pricing engine
 Cds_surv_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)
 
-Cds_pricing_engine = ql.MidPointCdsEngine (cds_surv_prob_curve_handle,                  CDS_recovery_rate,                  sofr_yield_curve_handle)
+Cds_pricing_engine = ql.MidPointCdsEngine (cds_surv_prob_curve_handle,                    CDS_recovery_rate,                    sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_pricing_engine)
 
 
 # Print CDS valuation results
-Print ('CDS protection start date: ',                  cds_obj.ProtectionStartDate ())
-Print ('CDS fair/par spread: ',                  round (cds_obj.FairSpread ()*10000,                  3))
-Print ('CDS PV: ',                  round (cds_obj.NPV (),                  4))    
-Print ('CDS Premium Leg PV: ',                  round (cds_obj.CouponLegNPV (),                  4))
-Print ('CDS Default Leg PV',                  round (cds_obj.DefaultLegNPV (),                  4))
-Print ('Survival Prob. To Maturity: ',                  round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                  4))
+Print ('CDS protection start date: ',                    cds_obj.ProtectionStartDate ())
+Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
+Print ('CDS PV: ',                    round (cds_obj.NPV (),                    4))    
+Print ('CDS Premium Leg PV: ',                    round (cds_obj.CouponLegNPV (),                    4))
+Print ('CDS Default Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
+Print ('Survival Prob. To Maturity: ',                    round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                    4))
 
 ```
 
-    CDS protection start date: April 14 th,                  2023
+    CDS protection start date: April 14 th,                    2023
     CDS fair/par spread: 55.502
     CDS PV: 2.0855
     CDS Premium Leg PV: 4.6868
@@ -5649,21 +5649,21 @@ Print ('Survival Prob. To Maturity: ',                  round (hazard_rate_curve
 ## a. Create Corporate Bond
 
 ```python
-Issue_date = ql.Date (14,                  4,                  2023)
-Maturity_date = ql.Date (14,                  4,                  2027)
+Issue_date = ql.Date (14,                    4,                    2023)
+Maturity_date = ql.Date (14,                    4,                    2027)
 Coupon_freq = ql. Semiannual
 Coupon_term = ql.Period (coupon_freq)
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 Day_count_conv = ql. Unadjusted
 Date_generation = ql. DateGeneration. Backward
 Month_end = True
-Schedule = ql.Schedule (issue_date,                 
-                       Maturity_date,                 
-                       Coupon_term,                 
-                       Calendar,                 
-                       Day_count_conv,                 
-                       Day_count_conv,                 
-                       Date_generation,                 
+Schedule = ql.Schedule (issue_date,                   
+                       Maturity_date,                   
+                       Coupon_term,                   
+                       Calendar,                   
+                       Day_count_conv,                   
+                       Day_count_conv,                   
+                       Date_generation,                   
                        Month_end)
 
 # Corp Bonds specs
@@ -5676,30 +5676,30 @@ Payment_convention = ql. Unadjusted
 # Construct the FixedRateBond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
-    Settlement_days,                 
-    Face_value,                 
-    Schedule,                 
-    Coupons,                 
-    Day_count,                 
+    Settlement_days,                   
+    Face_value,                   
+    Schedule,                   
+    Coupons,                   
+    Day_count,                   
     Payment_convention)
 
-X = [(cf.Date (),                  cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
-Cf_date,                  cf_amount = zip (*x)
-Cf_frame = pd.DataFrame (data={'CashFlowDate': cf_date,                  'CashFlowAmount': cf_amount})
+X = [(cf.Date (),                    cf.Amount ()) for cf in fixed_rate_bond.Cashflows ()]
+Cf_date,                    cf_amount = zip (*x)
+Cf_frame = pd.DataFrame (data={'CashFlowDate': cf_date,                    'CashFlowAmount': cf_amount})
 Print (cf_frame)
 
 ```
 
              CashFlowDate  CashFlowAmount
-    0  October 14 th,                  2023             2.0
-    1    April 14 th,                  2024             2.0
-    2  October 14 th,                  2024             2.0
-    3    April 14 th,                  2025             2.0
-    4  October 14 th,                  2025             2.0
-    5    April 14 th,                  2026             2.0
-    6  October 14 th,                  2026             2.0
-    7    April 14 th,                  2027             2.0
-    8    April 14 th,                  2027           100.0
+    0  October 14 th,                    2023             2.0
+    1    April 14 th,                    2024             2.0
+    2  October 14 th,                    2024             2.0
+    3    April 14 th,                    2025             2.0
+    4  October 14 th,                    2025             2.0
+    5    April 14 th,                    2026             2.0
+    6  October 14 th,                    2026             2.0
+    7    April 14 th,                    2027             2.0
+    8    April 14 th,                    2027           100.0
 
 ## b. Price Corporate Bond on Risk-Free Yield Curve (without Credit Risk)
 
@@ -5713,10 +5713,10 @@ Risk_free_bond_engine = ql.DiscountingBondEngine (sofr_yield_curve_handle)
 
 Fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)
 Risk_free_bond_price = fixed_rate_bond.CleanPrice ()
-Risk_free_bond_yield = fixed_rate_bond.BondYield (risk_free_bond_price,                  day_counter,                  ql. Compounded,                  ql. Semiannual) * 100
+Risk_free_bond_yield = fixed_rate_bond.BondYield (risk_free_bond_price,                    day_counter,                    ql. Compounded,                    ql. Semiannual) * 100
 
-Print ('risk_free_bond_price: ',                  risk_free_bond_price)
-Print ('risk_free_bond_yield: ',                  risk_free_bond_yield)
+Print ('risk_free_bond_price: ',                    risk_free_bond_price)
+Print ('risk_free_bond_yield: ',                    risk_free_bond_yield)
 
 ```
 
@@ -5730,23 +5730,23 @@ Print ('risk_free_bond_yield: ',                  risk_free_bond_yield)
 Bond_recovery_rate = 0.4
 
 # Cds_curve_risky_bond_engine: using calibrated IBM CDS curve
-Cds_curve_risky_bond_engine = ql.RiskyBondEngine (cds_surv_prob_curve_handle,                  bond_recovery_rate,                  sofr_yield_curve_handle)
+Cds_curve_risky_bond_engine = ql.RiskyBondEngine (cds_surv_prob_curve_handle,                    bond_recovery_rate,                    sofr_yield_curve_handle)
 Fixed_rate_bond.SetPricingEngine (cds_curve_risky_bond_engine)
 
 # 3. Calculate intrinsic risky bond on custom survival probability curve
 Risky_bond_price = fixed_rate_bond.CleanPrice ()
-Risky_bond_yield = fixed_rate_bond.BondYield (risky_bond_price,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100
+Risky_bond_yield = fixed_rate_bond.BondYield (risky_bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
 
-Print ('risky_bond_price: ',                  risky_bond_price)
-Print ('risky_bond_yield: ',                  risky_bond_yield)
+Print ('risky_bond_price: ',                    risky_bond_price)
+Print ('risky_bond_yield: ',                    risky_bond_yield)
 
-# Compute the credit I-Spread,                  relative to risk-free bond (SOFR curve)
+# Compute the credit I-Spread,                    relative to risk-free bond (SOFR curve)
 Risky_bond_credit_ispread_bps = (risky_bond_yield - risk_free_bond_yield) * 100
-Print ('risky_bond_ispread_bps: ',                  risky_bond_credit_ispread_bps)
+Print ('risky_bond_ispread_bps: ',                    risky_bond_credit_ispread_bps)
 
 # Calc z-spread
-Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                  risky_bond_price,                  sofr_yield_curve,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 1 e 4
-Print ('risky_bond_zspread_bps: ',                  risky_bond_zspread_bps)
+Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                    risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
+Print ('risky_bond_zspread_bps: ',                    risky_bond_zspread_bps)
 
 
 ```
@@ -5761,31 +5761,31 @@ Print ('risky_bond_zspread_bps: ',                  risky_bond_zspread_bps)
 
 ```python
 # 2. Create custom survival probability curve
-Custom_surv_prob_dates = [calc_date + ql.Period (T ,                  ql. Years) for T in range (11)]
-Custom_average_hazard_rates = [0.0030,                  0.0060,                  0.0090,                  0.0110,                  0.0125,                  0.0140,                  0.0150,                  0.0160,                  0.0170,                  0.0180,                  0.0190]
+Custom_surv_prob_dates = [calc_date + ql.Period (T ,                    ql. Years) for T in range (11)]
+Custom_average_hazard_rates = [0.0030,                    0.0060,                    0.0090,                    0.0110,                    0.0125,                    0.0140,                    0.0150,                    0.0160,                    0.0170,                    0.0180,                    0.0190]
 Custom_surv_prob_levels = [np.Exp (-T * custom_average_hazard_rates[T]) for T in range (11)]
-# Custom_surv_prob_levels = [1.0,                  0.9950,                  0.9860,                  0.9733,                  0.9569,                  0.9370,                  0.9166,                  0.8940,                  0.8728,                  0.8504,                  0.8269]
+# Custom_surv_prob_levels = [1.0,                    0.9950,                    0.9860,                    0.9733,                    0.9569,                    0.9370,                    0.9166,                    0.8940,                    0.8728,                    0.8504,                    0.8269]
 
 # Custom_surv_prob_curve
-Custom_surv_prob_curve = ql.SurvivalProbabilityCurve (custom_surv_prob_dates,                  custom_surv_prob_levels,                  ql. Actual 360 (),                  ql.TARGET ())
+Custom_surv_prob_curve = ql.SurvivalProbabilityCurve (custom_surv_prob_dates,                    custom_surv_prob_levels,                    ql. Actual 360 (),                    ql.TARGET ())
 Custom_surv_prob_curve.EnableExtrapolation ()
 Custom_surv_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (custom_surv_prob_curve)
 
 # 3. Display custom credit curve
-Custom_surv_prob_df = pd.DataFrame (data={'Date': custom_surv_prob_dates,                 
-                                          'Average Hazard Rates': custom_average_hazard_rates,                 
+Custom_surv_prob_df = pd.DataFrame (data={'Date': custom_surv_prob_dates,                   
+                                          'Average Hazard Rates': custom_average_hazard_rates,                   
                                           'Survival Probs': custom_surv_prob_levels})
 
-Plt = custom_surv_prob_df.Plot (x='Date',                  y='Average Hazard Rates',                  grid=True,                  style='*-',                  title='Custom Hazard Rate Curve',                  figsize=(12,                 5))
+Plt = custom_surv_prob_df.Plot (x='Date',                    y='Average Hazard Rates',                    grid=True,                    style='*-',                    title='Custom Hazard Rate Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Hazard Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = custom_surv_prob_df.Plot (x='Date',                  y='Survival Probs',                  grid=True,                  style='*-',                  title='Custom Survival Probability Curve',                  figsize=(12,                 5))
+Plt = custom_surv_prob_df.Plot (x='Date',                    y='Survival Probs',                    grid=True,                    style='*-',                    title='Custom Survival Probability Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Survival Probability')
 Plt. Set_xlabel ('Date')
 ```
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -5803,23 +5803,23 @@ Plt. Set_xlabel ('Date')
 Bond_recovery_rate = 0.4
 
 # Custom_curve_risky_bond_engine
-Custom_curve_risky_bond_engine = ql.RiskyBondEngine (custom_surv_prob_curve_handle,                  bond_recovery_rate,                  sofr_yield_curve_handle)
+Custom_curve_risky_bond_engine = ql.RiskyBondEngine (custom_surv_prob_curve_handle,                    bond_recovery_rate,                    sofr_yield_curve_handle)
 Fixed_rate_bond.SetPricingEngine (custom_curve_risky_bond_engine)
 
 # 3. Price risky bond on custom survival probability curve
 Risky_bond_price = fixed_rate_bond.CleanPrice ()
-Risky_bond_yield = fixed_rate_bond.BondYield (risky_bond_price,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100
+Risky_bond_yield = fixed_rate_bond.BondYield (risky_bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
 
-Print ('risky_bond_price: ',                  risky_bond_price)
-Print ('risky_bond_yield: ',                  risky_bond_yield)
+Print ('risky_bond_price: ',                    risky_bond_price)
+Print ('risky_bond_yield: ',                    risky_bond_yield)
 
-# Compute the credit I-Spread,                  relative to risk-free bond (SOFR curve)
+# Compute the credit I-Spread,                    relative to risk-free bond (SOFR curve)
 Risky_bond_credit_ispread_bps = (risky_bond_yield - risk_free_bond_yield) * 100
-Print ('risky_bond_ispread_bps: ',                  risky_bond_credit_ispread_bps)
+Print ('risky_bond_ispread_bps: ',                    risky_bond_credit_ispread_bps)
 
 # Calc z-spread
-Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                  risky_bond_price,                  sofr_yield_curve,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 1 e 4
-Print ('risky_bond_zspread_bps: ',                  risky_bond_zspread_bps)
+Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                    risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
+Print ('risky_bond_zspread_bps: ',                    risky_bond_zspread_bps)
 
 
 ```
@@ -5834,8 +5834,8 @@ Print ('risky_bond_zspread_bps: ',                  risky_bond_zspread_bps)
 
 ```python
 # Nelson_siegel curve shape: Nelson-Siegel
-Def nelson_siegel (params,                  maturity):
-    ''' params = (theta 1,                  theta 2,                  theta 3,                  lambda)'''    
+Def nelson_siegel (params,                    maturity):
+    ''' params = (theta 1,                    theta 2,                    theta 3,                    lambda)'''    
     
     If (maturity > 0):
         Slope_1 = (1 - np.Exp (-maturity/params[3]))/(maturity/params[3])
@@ -5849,7 +5849,7 @@ Def nelson_siegel (params,                  maturity):
     Return total_value
 
 # Nelson_siegel_extended curve shape: Nelson-Siegel-Svensson
-Def nelson_siegel_extended (params,                  maturity):
+Def nelson_siegel_extended (params,                    maturity):
 
     If (maturity > 0):
         Slope_1 = (1 - np.Exp (-maturity/params[3]))/(maturity/params[3])
@@ -5879,24 +5879,24 @@ Def nelson_siegel_extended (params,                  maturity):
 
 ```python
 
-Curve_shapes_df = pd.DataFrame ([T,                  nelson_siegel ([1,                  0,                  0,                  2],                  T),                  
-                                 Nelson_siegel ([0,                  1,                  0,                  2],                  T),                  
-                                 Nelson_siegel ([0,                  0,                  2,                  2],                  T)] for T in range (0,                 30,                 1))
-Curve_shapes_df. Columns = ['TTM',                  'Level',                  'Slope',                  'Curvature']
+Curve_shapes_df = pd.DataFrame ([T,                    nelson_siegel ([1,                    0,                    0,                    2],                    T),                    
+                                 Nelson_siegel ([0,                    1,                    0,                    2],                    T),                    
+                                 Nelson_siegel ([0,                    0,                    2,                    2],                    T)] for T in range (0,                   30,                   1))
+Curve_shapes_df. Columns = ['TTM',                    'Level',                    'Slope',                    'Curvature']
 
-Curve_shapes_df 2 = pd.DataFrame ([T,                  nelson_siegel_extended ([1,                  0,                  0,                  2,                  0,                  0],                  T),                  
-                                 Nelson_siegel_extended ([0,                  1,                  0,                  2,                  0,                  0],                  T),                  
-                                 Nelson_siegel_extended ([0,                  0,                  2,                  2,                  0,                  0],                  T),                  
-                                 Nelson_siegel_extended ([0,                  0,                  0,                  2,                  1,                  10],                  T)] for T in range (0,                 30,                 1))
-Curve_shapes_df 2. Columns = ['TTM',                  'Level',                  'Slope',                  'Curvature_1',                  'Curvature_2']
+Curve_shapes_df 2 = pd.DataFrame ([T,                    nelson_siegel_extended ([1,                    0,                    0,                    2,                    0,                    0],                    T),                    
+                                 Nelson_siegel_extended ([0,                    1,                    0,                    2,                    0,                    0],                    T),                    
+                                 Nelson_siegel_extended ([0,                    0,                    2,                    2,                    0,                    0],                    T),                    
+                                 Nelson_siegel_extended ([0,                    0,                    0,                    2,                    1,                    10],                    T)] for T in range (0,                   30,                   1))
+Curve_shapes_df 2. Columns = ['TTM',                    'Level',                    'Slope',                    'Curvature_1',                    'Curvature_2']
 
 Print (curve_shapes_df 2.Head ())
 
-Plt = curve_shapes_df.Plot (x='TTM',                  y=['Level',                  'Slope',                  'Curvature'],                  grid=True,                  style='-',                  title='Nelson-Siegel basis functions',                  figsize=(12,                 5))
+Plt = curve_shapes_df.Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature'],                    grid=True,                    style='-',                    title='Nelson-Siegel basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
-Plt = curve_shapes_df 2.Plot (x='TTM',                  y=['Level',                  'Slope',                  'Curvature_1',                  'Curvature_2'],                  grid=True,                  style='-',                  title='Nelson-Siegel-Svensson basis functions',                  figsize=(12,                 5))
+Plt = curve_shapes_df 2.Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature_1',                    'Curvature_2'],                    grid=True,                    style='-',                    title='Nelson-Siegel-Svensson basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
@@ -5913,7 +5913,7 @@ Plt. Set_xlabel ('Time to maturity (years)')
 
 
 
-    Text (0.5,                  0,                  'Time to maturity (years)')
+    Text (0.5,                    0,                    'Time to maturity (years)')
 
 
 
@@ -5927,35 +5927,35 @@ Plt. Set_xlabel ('Time to maturity (years)')
 ## c. Constructing smooth Nelson-Siegel hazard rate / survival probability curves
 
 ```python
-# Nelson_siegel_params = [theta 1,                  theta 2,                  theta 3,                  lambda] = [long term level,                  short - long slope,                  curvature,                  lambda]
-Nelson_siegel_params = [0.0300,                  -0.0100,                  -0.0010,                  2]
+# Nelson_siegel_params = [theta 1,                    theta 2,                    theta 3,                    lambda] = [long term level,                    short - long slope,                    curvature,                    lambda]
+Nelson_siegel_params = [0.0300,                    -0.0100,                    -0.0010,                    2]
 
-Nelson_siegel_surv_prob_dates = [calc_date + ql.Period (T ,                  ql. Years) for T in range (31)]
-Nelson_siegel_average_hazard_rates = [nelson_siegel (nelson_siegel_params,                  T) for T in range (31)]
+Nelson_siegel_surv_prob_dates = [calc_date + ql.Period (T ,                    ql. Years) for T in range (31)]
+Nelson_siegel_average_hazard_rates = [nelson_siegel (nelson_siegel_params,                    T) for T in range (31)]
 Nelson_siegel_surv_prob_levels = [np.Exp (-T * nelson_siegel_average_hazard_rates[T]) for T in range (31)]
 
 # Nelson_siegel_surv_prob_curve
-Nelson_siegel_credit_curve = ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,                  nelson_siegel_surv_prob_levels,                  ql. Actual 360 (),                  ql.TARGET ())
+Nelson_siegel_credit_curve = ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,                    nelson_siegel_surv_prob_levels,                    ql. Actual 360 (),                    ql.TARGET ())
 Nelson_siegel_credit_curve.EnableExtrapolation ()
 Nelson_siegel_credit_curve_handle = ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)
 
-Nelson_siegel_surv_prob_df = pd.DataFrame (data={'Dates': nelson_siegel_surv_prob_dates,                 
-                                          'Average Hazard Rates': nelson_siegel_average_hazard_rates,                 
+Nelson_siegel_surv_prob_df = pd.DataFrame (data={'Dates': nelson_siegel_surv_prob_dates,                   
+                                          'Average Hazard Rates': nelson_siegel_average_hazard_rates,                   
                                           'Survival Probs': nelson_siegel_surv_prob_levels})
 # Print (nelson_siegel_surv_prob_df)
 
-Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                  y=['Average Hazard Rates'],                  grid=True,                  style='-',                  title='Nelson-Siegel smooth hazard rate curve',                  figsize=(12,                 5))
+Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Average Hazard Rates'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth hazard rate curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Average hazard rate')
 Plt. Set_xlabel ('Maturity')
 
-Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                  y=['Survival Probs'],                  grid=True,                  style='-',                  title='Nelson-Siegel smooth survival probability curve',                  figsize=(12,                 5))
+Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Survival Probs'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth survival probability curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Survival Prob')
 Plt. Set_xlabel ('Maturity')
 
 
 ```
 
-    Text (0.5,                  0,                  'Maturity')
+    Text (0.5,                    0,                    'Maturity')
 
 
 
@@ -5973,23 +5973,23 @@ Plt. Set_xlabel ('Maturity')
 Bond_recovery_rate = 0.4
 
 # Nelson_siegel_risky_bond_engine
-Nelson_siegel_risky_bond_engine = ql.RiskyBondEngine (nelson_siegel_credit_curve_handle,                  bond_recovery_rate,                  sofr_yield_curve_handle)
+Nelson_siegel_risky_bond_engine = ql.RiskyBondEngine (nelson_siegel_credit_curve_handle,                    bond_recovery_rate,                    sofr_yield_curve_handle)
 Fixed_rate_bond.SetPricingEngine (nelson_siegel_risky_bond_engine)
 
 # Price risky bond using Nelson-Siegel survival probability curve
 Nelson_siegel_risky_bond_price = fixed_rate_bond.CleanPrice ()
-Nelson_siegel_risky_bond_yield = fixed_rate_bond.BondYield (nelson_siegel_risky_bond_price,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100
+Nelson_siegel_risky_bond_yield = fixed_rate_bond.BondYield (nelson_siegel_risky_bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
 
-Print ('nelson_siegel_surv_prob_risky_bond_price: ',                  nelson_siegel_risky_bond_price)
-Print ('nelson_siegel_surv_prob_risky_bond_yield: ',                  nelson_siegel_risky_bond_yield)
+Print ('nelson_siegel_surv_prob_risky_bond_price: ',                    nelson_siegel_risky_bond_price)
+Print ('nelson_siegel_surv_prob_risky_bond_yield: ',                    nelson_siegel_risky_bond_yield)
 
 # Compute the credit I-Spread (relative to risk-free SOFR bond)
 Nelson_siegel_risky_bond_credit_ispread = (nelson_siegel_risky_bond_yield - risk_free_bond_yield) * 1 e 2
-Print ('nelson_siegel_risky_bond_ispread: ',                  nelson_siegel_risky_bond_credit_ispread)
+Print ('nelson_siegel_risky_bond_ispread: ',                    nelson_siegel_risky_bond_credit_ispread)
 
 # Compute z-spread
-Nelson_siegel_risky_bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                  nelson_siegel_risky_bond_price,                  sofr_yield_curve,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 1 e 4
-Print ('nelson_siegel_risky_bond_zspread: ',                  nelson_siegel_risky_bond_zspread)
+Nelson_siegel_risky_bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                    nelson_siegel_risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
+Print ('nelson_siegel_risky_bond_zspread: ',                    nelson_siegel_risky_bond_zspread)
 
 
 ```
@@ -6032,13 +6032,13 @@ Def get_ql_date (date) -> ql. Date:
     """
     Convert dt. Date to ql. Date
     """
-    If isinstance (date,                  dt. Date):
-        Return ql.Date (date. Day,                  date. Month,                  date. Year)
-    Elif isinstance (date,                  str):
-        Date = dt.Datetime.Strptime (date,                  "%Y-%m-%d"). Date ()
-        Return ql.Date (date. Day,                  date. Month,                  date. Year)
+    If isinstance (date,                    dt. Date):
+        Return ql.Date (date. Day,                    date. Month,                    date. Year)
+    Elif isinstance (date,                    str):
+        Date = dt.Datetime.Strptime (date,                    "%Y-%m-%d"). Date ()
+        Return ql.Date (date. Day,                    date. Month,                    date. Year)
     Else:
-        Raise ValueError (f"to_qldate,                  {type (date)},                  {date}")
+        Raise ValueError (f"to_qldate,                    {type (date)},                    {date}")
     
 Def create_schedule_from_symbology (details: dict):
     '''Create a QuantLib cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
@@ -6066,15 +6066,15 @@ Def create_schedule_from_symbology (details: dict):
     Date_generation=ql. DateGeneration. Backward
     
     # Create schedule using ql. MakeSchedule interface (with keyword arguments)
-    Schedule = ql.MakeSchedule (effectiveDate=acc_first,                   # this may not be the same as the bond's start date
-                            TerminationDate=maturity,                 
-                            Tenor=period,                 
-                            Calendar=calendar,                 
-                            Convention=business_day_convention,                 
-                            TerminalDateConvention=termination_date_convention,                 
-                            Rule=date_generation,                 
-                            EndOfMonth=True,                 
-                            FirstDate=ql.Date (),                 
+    Schedule = ql.MakeSchedule (effectiveDate=acc_first,                     # this may not be the same as the bond's start date
+                            TerminationDate=maturity,                   
+                            Tenor=period,                   
+                            Calendar=calendar,                   
+                            Convention=business_day_convention,                   
+                            TerminalDateConvention=termination_date_convention,                   
+                            Rule=date_generation,                   
+                            EndOfMonth=True,                   
+                            FirstDate=ql.Date (),                   
                             NextToLastDate=ql.Date ())
     Return schedule
 
@@ -6091,7 +6091,7 @@ Def create_bond_from_symbology (details: dict):
     Elif details['class'] == 'Govt':
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
-        Raise ValueError (f"unsupported asset class,                  {type (details['class'])},                  {details['class']}")
+        Raise ValueError (f"unsupported asset class,                    {type (details['class'])},                    {details['class']}")
 
     
     # Create issue_date from details['start_date']
@@ -6114,25 +6114,25 @@ Def create_bond_from_symbology (details: dict):
         
     # Create fixed rate bond object
     Fixed_rate_bond = ql.FixedRateBond (
-        Days_settle,                 
-        Face_value,                 
-        Schedule,                 
-        [coupon],                 
-        Day_count,                 
-        Payment_convention,                 
-        Redemption,                 
+        Days_settle,                   
+        Face_value,                   
+        Schedule,                   
+        [coupon],                   
+        Day_count,                   
+        Payment_convention,                   
+        Redemption,                   
         Issue_date)        
 
     Return fixed_rate_bond
 
-Def get_bond_cashflows (bond: ql. FixedRateBond,                  calc_date=ql. Date) -> pd. DataFrame:
-    '''Returns all future cashflows as of calc_date,                  i.e. with payment dates > calc_date.
+Def get_bond_cashflows (bond: ql. FixedRateBond,                    calc_date=ql. Date) -> pd. DataFrame:
+    '''Returns all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
     '''    
     Day_counter = bond.DayCounter ()    
     
-    X = [(cf.Date (),                  day_counter.YearFraction (calc_date,                  cf.Date ()),                  cf.Amount ()) for cf in bond.Cashflows ()]
-    Cf_date,                  cf_yearFrac,                  cf_amount = zip (*x)
-    Cashflows_df = pd.DataFrame (data={'CashFlowDate': cf_date,                  'CashFlowYearFrac': cf_yearFrac,                  'CashFlowAmount': cf_amount})
+    X = [(cf.Date (),                    day_counter.YearFraction (calc_date,                    cf.Date ()),                    cf.Amount ()) for cf in bond.Cashflows ()]
+    Cf_date,                    cf_yearFrac,                    cf_amount = zip (*x)
+    Cashflows_df = pd.DataFrame (data={'CashFlowDate': cf_date,                    'CashFlowYearFrac': cf_yearFrac,                    'CashFlowAmount': cf_amount})
 
     # filter for payment dates > calc_date
     Cashflows_df = cashflows_df[cashflows_df. CashFlowYearFrac > 0]
@@ -6140,8 +6140,8 @@ Def get_bond_cashflows (bond: ql. FixedRateBond,                  calc_date=ql. 
 
 
 Def calibrate_yield_curve_from_frame (
-        Calc_date: ql. Date,                 
-        Treasury_details: pd. DataFrame,                 
+        Calc_date: ql. Date,                   
+        Treasury_details: pd. DataFrame,                   
         Price_quote_column: str):
     '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid price quotes.
     '''
@@ -6155,44 +6155,44 @@ Def calibrate_yield_curve_from_frame (
 
     Bond_helpers = []
     
-    For index,                  row in sorted_details_frame.Iterrows ():
+    For index,                    row in sorted_details_frame.Iterrows ():
         Bond_object = create_bond_from_symbology (row)
         
         Tsy_clean_price_quote = row[price_quote_column]
         Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
         
-        Bond_helper = ql.BondHelper (tsy_clean_price_handle,                  bond_object)
+        Bond_helper = ql.BondHelper (tsy_clean_price_handle,                    bond_object)
         Bond_helpers.Append (bond_helper)
         
-    Yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                  bond_helpers,                  day_count)
-    # yield_curve = ql.PiecewiseFlatForward (calc_date,                  bond_helpers,                  day_count)
+    Yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,                    bond_helpers,                    day_count)
+    # yield_curve = ql.PiecewiseFlatForward (calc_date,                    bond_helpers,                    day_count)
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
 
 
 
-Def get_yield_curve_details_df (yield_curve,                  curve_dates=None):
+Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
         Curve_dates = yield_curve.Dates ()
 
     dates = [d.to_date () for d in curve_dates]
-    Discounts = [round (yield_curve.Discount (d),                  3) for d in curve_dates]
-    Yearfracs = [round (yield_curve.TimeFromReference (d),                  3) for d in curve_dates]
-    ZeroRates = [round (yield_curve.ZeroRate (d,                  yield_curve.DayCounter (),                  ql. Compounded). Rate () * 100,                  3) for d in curve_dates]
+    Discounts = [round (yield_curve.Discount (d),                    3) for d in curve_dates]
+    Yearfracs = [round (yield_curve.TimeFromReference (d),                    3) for d in curve_dates]
+    ZeroRates = [round (yield_curve.ZeroRate (d,                    yield_curve.DayCounter (),                    ql. Compounded). Rate () * 100,                    3) for d in curve_dates]
 
-    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                 
-                             'YearFrac': yearfracs,                 
-                             'DiscountFactor': discounts,                 
+    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,                   
+                             'YearFrac': yearfracs,                   
+                             'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
 
 
-Def calc_clean_price_with_zspread (fixed_rate_bond,                  yield_curve_handle,                  zspread):
+Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_curve_handle,                    zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
-    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                  zspread_quote_handle,                  ql. Compounded,                  ql. Semiannual)
+    Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,                    zspread_quote_handle,                    ql. Compounded,                    ql. Semiannual)
     Yield_curve_bumped_handle = ql.YieldTermStructureHandle (yield_curve_bumped)
     
     # Set Valuation engine
@@ -6203,8 +6203,8 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,                  yield_curve
 
 
 Def calibrate_sofr_curve_from_frame (
-        Calc_date: ql. Date,                 
-        Sofr_details: pd. DataFrame,                 
+        Calc_date: ql. Date,                   
+        Sofr_details: pd. DataFrame,                   
         Rate_quote_column: str):
     '''Create a calibrated yield curve from a SOFR details dataframe which includes rate quotes.
     '''
@@ -6224,39 +6224,39 @@ Def calibrate_sofr_curve_from_frame (
     
     Sofr_helpers = []
     
-    For index,                  row in sorted_details_frame.Iterrows ():
+    For index,                    row in sorted_details_frame.Iterrows ():
         Sofr_quote = row[rate_quote_column]
         Tenor_in_years = row['tenor']
-        Sofr_tenor = ql.Period (tenor_in_years,                  ql. Years)
+        Sofr_tenor = ql.Period (tenor_in_years,                    ql. Years)
         
         # create sofr_rate_helper
-        Sofr_helper = ql.OISRateHelper (settle_days,                  sofr_tenor,                  ql.QuoteHandle (ql.SimpleQuote (sofr_quote/100)),                  ql.Sofr ())
+        Sofr_helper = ql.OISRateHelper (settle_days,                    sofr_tenor,                    ql.QuoteHandle (ql.SimpleQuote (sofr_quote/100)),                    ql.Sofr ())
                         
         Sofr_helpers.Append (sofr_helper)
         
-    Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                  calendar,                  sofr_helpers,                  day_count)
+    Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                    calendar,                    sofr_helpers,                    day_count)
     Sofr_yield_curve.EnableExtrapolation ()
     
     Return sofr_yield_curve
 
 
-Def calibrate_cds_hazard_rate_curve (calc_date,                  sofr_yield_curve_handle,                  cds_par_spreads_bps,                  cds_recovery_rate = 0.4):
+Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads_bps,                    cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
     CDS_settle_days = 2
 
     CDS_day_count = ql. Actual 360 ()
 
-    # CDS standard tenors: 1 Y,                  2 Y,                  3 Y,                  5 Y 7 Y and 10 Y
-    CDS_tenors = [ql.Period (y,                  ql. Years) for y in [1,                  2,                  3,                  5,                  7,                  10]]
+    # CDS standard tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y and 10 Y
+    CDS_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10]]
               
 
-    CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                  CDS_tenor,                  CDS_settle_days,                  ql.TARGET (),                 
-                                  Ql. Quarterly,                  ql. Following,                  ql. DateGeneration. TwentiethIMM,                  CDS_day_count,                  cds_recovery_rate,                  sofr_yield_curve_handle)
+    CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                    CDS_tenor,                    CDS_settle_days,                    ql.TARGET (),                   
+                                  Ql. Quarterly,                    ql. Following,                    ql. DateGeneration. TwentiethIMM,                    CDS_day_count,                    cds_recovery_rate,                    sofr_yield_curve_handle)
                
-    For (cds_par_spread,                  CDS_tenor) in zip (cds_par_spreads_bps,                  CDS_tenors)]
+    For (cds_par_spread,                    CDS_tenor) in zip (cds_par_spreads_bps,                    CDS_tenors)]
 
     # bootstrap hazard_rate_curve
-    Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                  CDS_helpers,                  CDS_day_count)
+    Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                    CDS_helpers,                    CDS_day_count)
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
@@ -6267,16 +6267,16 @@ Def get_hazard_rates_df (hazard_rate_curve):
     
     CDS_day_count = ql. Actual 360 ()
     
-    Hazard_list = [(hr[0]. To_date (),                  
-                CDS_day_count.YearFraction (calc_date,                  hr[0]),                 
-                Hr[1] * 1 e 4,                 
+    Hazard_list = [(hr[0]. To_date (),                    
+                CDS_day_count.YearFraction (calc_date,                    hr[0]),                   
+                Hr[1] * 1 e 4,                   
                 Hazard_rate_curve.SurvivalProbability (hr[0])) for hr in hazard_rate_curve.Nodes ()]
 
-    Grid_dates,                  year_frac,                  hazard_rates,                  surv_probs = zip (*hazard_list)
+    Grid_dates,                    year_frac,                    hazard_rates,                    surv_probs = zip (*hazard_list)
 
-    Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                  
-                                     'YearFrac': year_frac,                 
-                                     'HazardRateBps': hazard_rates,                                                      
+    Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                    
+                                     'YearFrac': year_frac,                   
+                                     'HazardRateBps': hazard_rates,                                                        
                                      'SurvivalProb': surv_probs})
     Return (hazard_rates_df)
 
@@ -6294,8 +6294,8 @@ Display the fixed rate bond cashflows.
 # Import tools from previous homeworks
 
 
-# Use static calculation/valuation date of 2024-04-15,                  matching data available in the market prices EOD file
-Calc_date = ql.Date (15,                  4,                  2024)
+# Use static calculation/valuation date of 2024-04-15,                    matching data available in the market prices EOD file
+Calc_date = ql.Date (15,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 ```
 
@@ -6303,54 +6303,54 @@ Ql.Settings.Instance (). EvaluationDate = calc_date
 
     ModuleNotFoundError                       Traceback (most recent call last)
 
-    Cell In[99],                  line 2
+    Cell In[99],                    line 2
           1 # import tools from previous homeworks
     ----> 2 from credit_market_tools import *
-          4 # Use static calculation/valuation date of 2024-04-15,                  matching data available in the market prices EOD file
-          5 calc_date = ql.Date (15,                  4,                  2024)
+          4 # Use static calculation/valuation date of 2024-04-15,                    matching data available in the market prices EOD file
+          5 calc_date = ql.Date (15,                    4,                    2024)
 
 
     ModuleNotFoundError: No module named 'credit_market_tools'
 
 ```python
 # Bond_details
-Test_bond_details = {'class': 'Corp',                 
-                'start_date': '2024-04-15',                  
-                'acc_first': '2024-04-15',                  
-                'maturity': '2034-04-15',                  
-                'coupon': 5,                 
-                'dcc' : '30/360',                 
+Test_bond_details = {'class': 'Corp',                   
+                'start_date': '2024-04-15',                    
+                'acc_first': '2024-04-15',                    
+                'maturity': '2034-04-15',                    
+                'coupon': 5,                   
+                'dcc' : '30/360',                   
                 'days_settle' : 2}
 
 # Use create_bond_from_symbology () to create the bond
 Test_fixed_rate_bond = create_bond_from_symbology (test_bond_details)
 
-Test_fixed_rate_bond_cashflows_df = get_bond_cashflows (test_fixed_rate_bond,                  calc_date)
+Test_fixed_rate_bond_cashflows_df = get_bond_cashflows (test_fixed_rate_bond,                    calc_date)
 Print (test_fixed_rate_bond_cashflows_df)
 ```
 
               CashFlowDate  CashFlowYearFrac  CashFlowAmount
-    0   October 15 th,                  2024          0.508333             2.5
-    1     April 15 th,                  2025          1.008333             2.5
-    2   October 15 th,                  2025          1.508333             2.5
-    3     April 15 th,                  2026          2.008333             2.5
-    4   October 15 th,                  2026          2.508333             2.5
-    5     April 15 th,                  2027          3.008333             2.5
-    6   October 15 th,                  2027          3.508333             2.5
-    7     April 15 th,                  2028          4.008333             2.5
-    8   October 15 th,                  2028          4.508333             2.5
-    9     April 15 th,                  2029          5.008333             2.5
-    10  October 15 th,                  2029          5.508333             2.5
-    11    April 15 th,                  2030          6.008333             2.5
-    12  October 15 th,                  2030          6.508333             2.5
-    13    April 15 th,                  2031          7.008333             2.5
-    14  October 15 th,                  2031          7.508333             2.5
-    15    April 15 th,                  2032          8.008333             2.5
-    16  October 15 th,                  2032          8.508333             2.5
-    17    April 15 th,                  2033          9.008333             2.5
-    18  October 15 th,                  2033          9.508333             2.5
-    19    April 15 th,                  2034         10.008333             2.5
-    20    April 15 th,                  2034         10.008333           100.0
+    0   October 15 th,                    2024          0.508333             2.5
+    1     April 15 th,                    2025          1.008333             2.5
+    2   October 15 th,                    2025          1.508333             2.5
+    3     April 15 th,                    2026          2.008333             2.5
+    4   October 15 th,                    2026          2.508333             2.5
+    5     April 15 th,                    2027          3.008333             2.5
+    6   October 15 th,                    2027          3.508333             2.5
+    7     April 15 th,                    2028          4.008333             2.5
+    8   October 15 th,                    2028          4.508333             2.5
+    9     April 15 th,                    2029          5.008333             2.5
+    10  October 15 th,                    2029          5.508333             2.5
+    11    April 15 th,                    2030          6.008333             2.5
+    12  October 15 th,                    2030          6.508333             2.5
+    13    April 15 th,                    2031          7.008333             2.5
+    14  October 15 th,                    2031          7.508333             2.5
+    15    April 15 th,                    2032          8.008333             2.5
+    16  October 15 th,                    2032          8.508333             2.5
+    17    April 15 th,                    2033          9.008333             2.5
+    18  October 15 th,                    2033          9.508333             2.5
+    19    April 15 th,                    2034         10.008333             2.5
+    20    April 15 th,                    2034         10.008333           100.0
 
 ## b. Compute the bond price,  DV 01,  duration and convexity (analytic method)
 
@@ -6361,20 +6361,20 @@ Assume that the market yield of the bond is 6%. Compute the bond price,  DV 01, 
 Test_bond_yield = 6
 
 # Test_bond_clean_price
-Test_bond_clean_price = test_fixed_rate_bond.CleanPrice (test_bond_yield/100,                  test_fixed_rate_bond.DayCounter (),                  ql. Compounded,                  ql. Semiannual)
-Test_bond_dirty_price = test_fixed_rate_bond.DirtyPrice (test_bond_yield/100,                  test_fixed_rate_bond.DayCounter (),                  ql. Compounded,                  ql. Semiannual)
+Test_bond_clean_price = test_fixed_rate_bond.CleanPrice (test_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual)
+Test_bond_dirty_price = test_fixed_rate_bond.DirtyPrice (test_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual)
 
-# Compute analytical dv 01,                  duration and convexity
-Test_bond_yield_rate = ql.InterestRate (test_bond_yield/100,                  test_fixed_rate_bond.DayCounter (),                  ql. Compounded,                  ql. Semiannual)
-Test_bond_duration = ql.BondFunctions.Duration (test_fixed_rate_bond,                  test_bond_yield_rate)
-Test_bond_convexity = ql.BondFunctions.Convexity (test_fixed_rate_bond,                  test_bond_yield_rate)
+# Compute analytical dv 01,                    duration and convexity
+Test_bond_yield_rate = ql.InterestRate (test_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual)
+Test_bond_duration = ql.BondFunctions.Duration (test_fixed_rate_bond,                    test_bond_yield_rate)
+Test_bond_convexity = ql.BondFunctions.Convexity (test_fixed_rate_bond,                    test_bond_yield_rate)
 Test_bond_dv 01 = test_bond_duration * test_bond_dirty_price / 100
 
-Print ('test_bond_clean_price: ',                  round (test_bond_clean_price,                  2))
-Print ('test_bond_dirty_price: ',                  round (test_bond_dirty_price,                  2))
-Print ('test_bond_dv 01: ',                  round (test_bond_dv 01,                  2))
-Print ('test_bond_duration: ',                  round (test_bond_duration,                  2))
-Print ('test_bond_convexity: ',                  round (test_bond_convexity,                  2))
+Print ('test_bond_clean_price: ',                    round (test_bond_clean_price,                    2))
+Print ('test_bond_dirty_price: ',                    round (test_bond_dirty_price,                    2))
+Print ('test_bond_dv 01: ',                    round (test_bond_dv 01,                    2))
+Print ('test_bond_duration: ',                    round (test_bond_duration,                    2))
+Print ('test_bond_convexity: ',                    round (test_bond_convexity,                    2))
 
 
 ```
@@ -6399,31 +6399,31 @@ $$\begin{align}
 \Delta B (y) = B\left (y+\Delta y\right)-B\left (y\right)\approx B\cdot\left[- D\cdot\Delta y+\frac{1}{2}\cdot\Gamma\cdot\left (\Delta y\right)^{2}\right]
 \end{align}$$
 
-We implement formula [13] into the `calc_second_order_price_change (...)` function,                  taking into account that $B (y)$ is the dirty bond price.
+We implement formula [13] into the `calc_second_order_price_change (...)` function,                    taking into account that $B (y)$ is the dirty bond price.
 
 
 
 ```python
-Def calc_second_order_price_change (dirty_price,                  yield_diff,                  duration,                  convexity):
+Def calc_second_order_price_change (dirty_price,                    yield_diff,                    duration,                    convexity):
     Return dirty_price * (- yield_diff * duration + 0.5 * yield_diff*yield_diff*convexity)
 
 # Bond_yield_grid : yield grid [from 1% to 11% in steps of 0.5%]    
-Bond_yield_grid = [y for y in np.Arange (1,                  11.5,                  0.5)]
+Bond_yield_grid = [y for y in np.Arange (1,                    11.5,                    0.5)]
 
 # Scenario_prices
-Scenario_prices = [round (test_fixed_rate_bond.CleanPrice (y/100,                  test_fixed_rate_bond.DayCounter (),                  ql. Compounded,                  ql. Semiannual),                  3) for y in bond_yield_grid]
+Scenario_prices = [round (test_fixed_rate_bond.CleanPrice (y/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual),                    3) for y in bond_yield_grid]
 
 # Second_order_approx_prices
-Second_order_approx_prices = [round (test_bond_clean_price + calc_second_order_price_change (test_bond_dirty_price,                  (y - test_bond_yield) / 100,                  test_bond_duration,                  test_bond_convexity),                  2) 
+Second_order_approx_prices = [round (test_bond_clean_price + calc_second_order_price_change (test_bond_dirty_price,                    (y - test_bond_yield) / 100,                    test_bond_duration,                    test_bond_convexity),                    2) 
                                    For y in bond_yield_grid]
 
 # Plot bond_scennarios_df
-Bond_scenarios_df = pd.DataFrame (data={'ScenYields': bond_yield_grid,                  'ScenPrices': scenario_prices,                  'ApproxPrices': second_order_approx_prices})
+Bond_scenarios_df = pd.DataFrame (data={'ScenYields': bond_yield_grid,                    'ScenPrices': scenario_prices,                    'ApproxPrices': second_order_approx_prices})
 Print (bond_scenarios_df.Round (1))
 
 # Plot Scenario Prices for "analytic re-pricing" vs "second-order approximations
-Plt = bond_scenarios_df.Plot (x='ScenYields',                  y=['ScenPrices',                  'ApproxPrices'],                  grid=True,                  style='-*',                  title='Scenario Prices for "analytic re-pricing" vs "second-order approximations"',                  figsize=(12,                 4))
-Plt.Axhline (test_bond_clean_price,                  color='red',                  linestyle='--',                  alpha=0.7)
+Plt = bond_scenarios_df.Plot (x='ScenYields',                    y=['ScenPrices',                    'ApproxPrices'],                    grid=True,                    style='-*',                    title='Scenario Prices for "analytic re-pricing" vs "second-order approximations"',                    figsize=(12,                   4))
+Plt.Axhline (test_bond_clean_price,                    color='red',                    linestyle='--',                    alpha=0.7)
 Plt. Set_ylabel ('Scenario Price')
 Plt. Set_xlabel ('Yield')
 
@@ -6456,7 +6456,7 @@ Plt. Set_xlabel ('Yield')
 
 
 
-    Text (0.5,                  0,                  'Yield')
+    Text (0.5,                    0,                    'Yield')
 
 
 
@@ -6474,17 +6474,17 @@ Compute and show the second-order scenario price approximation in the extreme ev
 
 How accurate is the second-order scenario price approximations (using duration and convexity sensitivities)?
 
-Compute and show the analytic DV 01,                  duration and convexity in the extreme event scenario.
+Compute and show the analytic DV 01,                    duration and convexity in the extreme event scenario.
 
 
 ```python
 Extreme_event_bond_yield = 15
-Extreme_event_bond_clean_price = round (test_fixed_rate_bond.CleanPrice (extreme_event_bond_yield/100,                  test_fixed_rate_bond.DayCounter (),                  ql. Compounded,                  ql. Semiannual),                  3)
-Extreme_event_second_order_approx_price = round (test_bond_clean_price + calc_second_order_price_change (test_bond_dirty_price,                  (extreme_event_bond_yield - test_bond_yield) / 100,                  test_bond_duration,                  test_bond_convexity),                  2) 
+Extreme_event_bond_clean_price = round (test_fixed_rate_bond.CleanPrice (extreme_event_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual),                    3)
+Extreme_event_second_order_approx_price = round (test_bond_clean_price + calc_second_order_price_change (test_bond_dirty_price,                    (extreme_event_bond_yield - test_bond_yield) / 100,                    test_bond_duration,                    test_bond_convexity),                    2) 
                              
-Print ('extreme_event_scenario_price: ',                  extreme_event_bond_clean_price)
-Print ('extreme_event_approx_price: ',                  extreme_event_second_order_approx_price)
-Print ('extreme_event_approx_error: ',                  round (extreme_event_second_order_approx_price - extreme_event_bond_clean_price,                  2))                             
+Print ('extreme_event_scenario_price: ',                    extreme_event_bond_clean_price)
+Print ('extreme_event_approx_price: ',                    extreme_event_second_order_approx_price)
+Print ('extreme_event_approx_error: ',                    round (extreme_event_second_order_approx_price - extreme_event_bond_clean_price,                    2))                             
 ```
 
     Extreme_event_scenario_price: 49.033
@@ -6497,9 +6497,9 @@ Print ('extreme_event_approx_error: ',                  round (extreme_event_sec
 ## a. Price a fixed rate perpetual bond
 We are interested in a fixed rate perpetual bond (infinite maturity) on a face notional of $100 and semi-annual coupon c.
 
-Assuming that the bond has a (continuously componded) yield of y,                  what is the fair value price of the bond?
+Assuming that the bond has a (continuously componded) yield of y,                    what is the fair value price of the bond?
 
-For simplicity,                  you can assume T+0 settlement and zero accrued. 
+For simplicity,                    you can assume T+0 settlement and zero accrued. 
 
 You can use following sympy code (implementing Formula 5 from Session 1) as a starting point.
 
@@ -6515,7 +6515,7 @@ Y = sp.Symbols ('y')
 
 # Define symbolic equation for generic fixed rate bond pv
 Bond_pv_eq =  1 + (c/2  / (sp.Exp (y/2) - 1) - 1 )* (1 - sp.Exp (-T*y))
-Print ('Analytic formula for bond_pv: ',                  bond_pv_eq)
+Print ('Analytic formula for bond_pv: ',                    bond_pv_eq)
 Display (bond_pv_eq)
 ```
 
@@ -6526,10 +6526,10 @@ Display (bond_pv_eq)
 $\displaystyle \left (1 - e^{- T y}\right) \left (\frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)} - 1\right) + 1$
 
 
-We start with the formula for pricing a risky fixed rate bond on a face of 100%,                  derived in Lecture 1,                  formulas [4] and [5].
+We start with the formula for pricing a risky fixed rate bond on a face of 100%,                    derived in Lecture 1,                    formulas [4] and [5].
 
 $$\begin{align}
-B_{0}^{T}=B (0,                  c,                  T,                  y)=\sum_{k=1}^{2 T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}
+B_{0}^{T}=B (0,                    c,                    T,                    y)=\sum_{k=1}^{2 T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}
 \end{align}$$
 
 $$\begin{align}
@@ -6542,28 +6542,28 @@ $$\begin{align}
 
 Remember that the the semi-annual yield is given by:  $y_{sa} = 2 \cdot \left (e^{\frac{y}{2}}-1 \right)$.
 
-In the case of the fixed rate perpetual bond,                  the bond maturity and cashflows extend to "infinity",                  so the pricing formula simplifies in terms of $y_{sa}$ to
+In the case of the fixed rate perpetual bond,                    the bond maturity and cashflows extend to "infinity",                    so the pricing formula simplifies in terms of $y_{sa}$ to
 
 $$\begin{align}
-B_{0}^{\infty}=B (0,                  c,                 \infty,                  y)=\sum_{k=1}^{\infty}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}} =  \frac{c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)}=\frac{c}{y_{sa}},                 
+B_{0}^{\infty}=B (0,                    c,                   \infty,                    y)=\sum_{k=1}^{\infty}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}} =  \frac{c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)}=\frac{c}{y_{sa}},                   
 \end{align}$$
 
 
-To obtain the fair price on a face of $100,                  one has to multiply the formula above by 100:
+To obtain the fair price on a face of $100,                    one has to multiply the formula above by 100:
 $$\begin{align}
-B_{0}^{\infty}(100) =  \frac{100 \cdot c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)} = 100 \cdot \frac{c}{y_{sa}},                 
+B_{0}^{\infty}(100) =  \frac{100 \cdot c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)} = 100 \cdot \frac{c}{y_{sa}},                   
 \end{align}$$
 
 
 ## b. Perpetual bonds priced "at par"
-For which yield y does the bond trade "at par",                  i.e. fair value price = $100?
+For which yield y does the bond trade "at par",                    i.e. fair value price = $100?
 
 $$\begin{align}
 B_{0}^{\infty}(100)=100 \iff y=2\cdot \ln \left ( 1 + \frac{c}{2} \right) \iff y_{sa} = c.
 \end{align}$$
 
 
-Hence,                  the perpetual bond trades "at par" if the smi-annual yield $y_{sa}$ matches the semi-annual coupon c (same result as for "regular" fixed rate bonds).
+Hence,                    the perpetual bond trades "at par" if the smi-annual yield $y_{sa}$ matches the semi-annual coupon c (same result as for "regular" fixed rate bonds).
 
 ## c. Duration and DV 01 for a fixed rate perpetual bond
 Compute Duration and DV 01 of the perpetual bond.
@@ -6606,7 +6606,7 @@ $\displaystyle \frac{c e^{\frac{y}{2}}}{4 \left (e^{\frac{y}{2}} - 1\right)^{2}}
 $\displaystyle \frac{e^{\frac{y}{2}}}{2 e^{\frac{y}{2}} - 2}$
 
 
-Hence,                  PV 01 and duration of a fixed rate perpetual bond are given by
+Hence,                    PV 01 and duration of a fixed rate perpetual bond are given by
 
 $$\begin{align}
 PV 01 = -\frac{\partial B}{\partial y} = -\frac{\partial}{\partial y}\left[\frac{c}{2 \cdot \left ( e^{\frac{y}{2}}-1 \right) }\right]=\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) }{y_{sa}^2}
@@ -6647,7 +6647,7 @@ $\displaystyle - \frac{c \left (\left (e^{\frac{y}{2}} - 1\right) e^{\frac{y}{2}
 $\displaystyle \frac{\left (1 + e^{- \frac{y}{2}}\right) e^{y}}{4 \left (- 2 e^{\frac{y}{2}} + e^{y} + 1\right)}$
 
 
-Hence,                  second order derivative and convexity $\Gamma$ of the fixed rate perpetual bond are given by
+Hence,                    second order derivative and convexity $\Gamma$ of the fixed rate perpetual bond are given by
 
 $$\begin{align}
 \frac{\partial^{2} B}{\partial y^{2}} = \frac{\partial^{2}}{\partial y^{2}}\left[\frac{\frac{c}{2}}{e^{\frac{y}{2}}-1}\right] = \frac{\partial}{\partial y}\left[\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} \right] = \frac{c \cdot e^{\frac{y}{2}} \cdot \left (e^{\frac{y}{2}} + 1 \right)}{8 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^3}  = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) \cdot \left ( 2 + \frac{y_{sa}}{2} \right)}{y_{sa}^3}
@@ -6668,13 +6668,13 @@ Load the `sofr_swap_symbology` Excel file into a dataframe. Print all swap tenor
 
 Load the `sofr_swaps_market_data_eod` Excel file into a dataframe. Print all dates available.
 
-Plot the historial time series of SOFR rates for the available [1 Y,                  2 Y,                  3 Y,                  5 Y,                  7 Y,                  10 Y,                  20 Y,                  30 Y] tenors.
+Plot the historial time series of SOFR rates for the available [1 Y,                    2 Y,                    3 Y,                    5 Y,                    7 Y,                    10 Y,                    20 Y,                    30 Y] tenors.
 
 
 ```python
 # Sofr_symbology
 Sofr_symbology = pd. Read_excel ('./data/sofr_swaps_symbology. Xlsx')
-Sofr_symbology. Set_index ('figi',                  inplace=True)
+Sofr_symbology. Set_index ('figi',                    inplace=True)
 Display (sofr_symbology)
 
 # Sofr_market_quotes
@@ -6682,11 +6682,11 @@ Sofr_market_quotes = pd. Read_excel ('./data/sofr_swaps_market_data_eod. Xlsx')
 # Print (sofr_market_quotes.Head ())
 
 # Pivot to get SOFR rates time series
-Sofr_quotes_ts = sofr_market_quotes.Pivot (index="date",                  columns="figi",                  values="midRate")
+Sofr_quotes_ts = sofr_market_quotes.Pivot (index="date",                    columns="figi",                    values="midRate")
 Sofr_quotes_ts. Columns = sofr_symbology. Tenor[sofr_quotes_ts. Columns]
 # Print (sofr_quotes_ts.Head ())
 
-Plt = sofr_quotes_ts.Plot (grid=True,                  style='-',                  title='SOFR Swaps: historical time series',                  figsize=(12,                 8))
+Plt = sofr_quotes_ts.Plot (grid=True,                    style='-',                    title='SOFR Swaps: historical time series',                    figsize=(12,                   8))
 Plt. Set_ylabel ('SOFR Rate')
 Plt. Set_xlabel ('Date')
 ```
@@ -6858,7 +6858,7 @@ Plt. Set_xlabel ('Date')
 
 
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -6880,8 +6880,8 @@ Follow section 1 b in the QuantLib Advanced notebook.
 
 ```python
 Def calibrate_sofr_curve_from_frame (
-        Calc_date: ql. Date,                 
-        Sofr_details: pd. DataFrame,                 
+        Calc_date: ql. Date,                   
+        Sofr_details: pd. DataFrame,                   
         Rate_quote_column: str):
     '''Create a calibrated yield curve from a SOFR details dataframe which includes rate quotes.
     '''
@@ -6901,17 +6901,17 @@ Def calibrate_sofr_curve_from_frame (
     
     Sofr_helpers = []
     
-    For index,                  row in sorted_details_frame.Iterrows ():
+    For index,                    row in sorted_details_frame.Iterrows ():
         Sofr_quote = row[rate_quote_column]
         Tenor_in_years = row['tenor']
-        Sofr_tenor = ql.Period (tenor_in_years,                  ql. Years)
+        Sofr_tenor = ql.Period (tenor_in_years,                    ql. Years)
         
         # create sofr_rate_helper
-        Sofr_helper = ql.OISRateHelper (settle_days,                  sofr_tenor,                  ql.QuoteHandle (ql.SimpleQuote (sofr_quote/100)),                  ql.Sofr ())
+        Sofr_helper = ql.OISRateHelper (settle_days,                    sofr_tenor,                    ql.QuoteHandle (ql.SimpleQuote (sofr_quote/100)),                    ql.Sofr ())
                         
         Sofr_helpers.Append (sofr_helper)
         
-    Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                  calendar,                  sofr_helpers,                  day_count)
+    Sofr_yield_curve = ql.PiecewiseLinearZero (settle_days,                    calendar,                    sofr_helpers,                    day_count)
     Sofr_yield_curve.EnableExtrapolation ()
     
     Return sofr_yield_curve
@@ -6920,11 +6920,11 @@ Def calibrate_sofr_curve_from_frame (
 
 ```python
 # Sofr_combined
-Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == '2024-04-15'],                  how='left',                  on=['figi'])
+Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == '2024-04-15'],                    how='left',                    on=['figi'])
 Display (sofr_combined.Head ())
 
 # Calibrate SOFR discount curve
-Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                  sofr_combined,                  'midRate')
+Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                    sofr_combined,                    'midRate')
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
 ```
@@ -7074,11 +7074,11 @@ Follow section 1 d (in the QuantLib Advanced notebook) to display the calibratio
 
 ```python
 # Display and plot SOFR yield curve
-Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                  ql. Years) for y in list (range (0,                 30,                 1))]
+Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   1))]
 
 
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
-Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                  grid_dates)    # using external grid
+Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
 Display (sofr_yield_curve_simple_df)
 Display (sofr_yield_curve_details_df)
@@ -7426,11 +7426,11 @@ Plot the SOFR zero rates and discount factor curves by maturity. Follow section 
 
 ```python
 # Plot the SOFR yield curve
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                  y='ZeroRate',                  grid=True,                  style='*-',                  title=f'SOFR Curve: Zero Rates as of {calc_date. To_date ()}',                  figsize=(12,                 4))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title=f'SOFR Curve: Zero Rates as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                  y='DiscountFactor',                  grid=True,                  style='*-',                  title=f'SOFR Curve: Discount Factors as of {calc_date. To_date ()}',                  figsize=(12,                 4))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title=f'SOFR Curve: Discount Factors as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')
 ```
@@ -7438,7 +7438,7 @@ Plt. Set_xlabel ('Date')
 
 
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -7472,10 +7472,10 @@ Cds_market_quotes = pd. Read_excel ('./data/cds_market_data_eod. Xlsx')
 Print (cds_market_quotes.Head ())
 
 # Create par spreads (bps) dataframe
-Par_spread_col_names = [f'par_spread_{n}y' for n in [1,                 2,                 3,                 5,                 7,                 10]]
+Par_spread_col_names = [f'par_spread_{n}y' for n in [1,                   2,                   3,                   5,                   7,                   10]]
 Cds_par_spreads_df = cds_market_quotes. Set_index ('date')[par_spread_col_names]
 
-Plt = cds_par_spreads_df.Plot (grid=True,                  style='-',                  title='IBM CDS Par Spreads ',                  figsize=(12,                 8))
+Plt = cds_par_spreads_df.Plot (grid=True,                    style='-',                    title='IBM CDS Par Spreads ',                    figsize=(12,                   8))
 Plt. Set_ylabel ('IBM CDS Par Spreads')
 Plt. Set_xlabel ('Date')
 
@@ -7506,7 +7506,7 @@ Plt. Set_xlabel ('Date')
 
 
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -7522,23 +7522,23 @@ Follow section 2 a in the QuantLib Advanced notebook. Use the calibrated SOFR di
 
 
 ```python
-Def calibrate_cds_hazard_rate_curve (calc_date,                  sofr_yield_curve_handle,                  cds_par_spreads_bps,                  cds_recovery_rate = 0.4):
+Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads_bps,                    cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
     CDS_settle_days = 2
 
     CDS_day_count = ql. Actual 360 ()
 
-    # CDS standard tenors: 1 Y,                  2 Y,                  3 Y,                  5 Y 7 Y and 10 Y
-    CDS_tenors = [ql.Period (y,                  ql. Years) for y in [1,                  2,                  3,                  5,                  7,                  10]]
+    # CDS standard tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y and 10 Y
+    CDS_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10]]
               
 
-    CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                  CDS_tenor,                  CDS_settle_days,                  ql.TARGET (),                 
-                                  Ql. Quarterly,                  ql. Following,                  ql. DateGeneration. TwentiethIMM,                  CDS_day_count,                  cds_recovery_rate,                  sofr_yield_curve_handle)
+    CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                    CDS_tenor,                    CDS_settle_days,                    ql.TARGET (),                   
+                                  Ql. Quarterly,                    ql. Following,                    ql. DateGeneration. TwentiethIMM,                    CDS_day_count,                    cds_recovery_rate,                    sofr_yield_curve_handle)
                
-    For (cds_par_spread,                  CDS_tenor) in zip (cds_par_spreads_bps,                  CDS_tenors)]
+    For (cds_par_spread,                    CDS_tenor) in zip (cds_par_spreads_bps,                    CDS_tenors)]
 
     # bootstrap hazard_rate_curve
-    Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                  CDS_helpers,                  CDS_day_count)
+    Hazard_rate_curve = ql.PiecewiseFlatHazardRate (calc_date,                    CDS_helpers,                    CDS_day_count)
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
@@ -7549,16 +7549,16 @@ Def get_hazard_rates_df (hazard_rate_curve):
     
     CDS_day_count = ql. Actual 360 ()
     
-    Hazard_list = [(hr[0]. To_date (),                  
-                CDS_day_count.YearFraction (calc_date,                  hr[0]),                 
-                Hr[1] * 1 e 4,                 
+    Hazard_list = [(hr[0]. To_date (),                    
+                CDS_day_count.YearFraction (calc_date,                    hr[0]),                   
+                Hr[1] * 1 e 4,                   
                 Hazard_rate_curve.SurvivalProbability (hr[0])) for hr in hazard_rate_curve.Nodes ()]
 
-    Grid_dates,                  year_frac,                  hazard_rates,                  surv_probs = zip (*hazard_list)
+    Grid_dates,                    year_frac,                    hazard_rates,                    surv_probs = zip (*hazard_list)
 
-    Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                  
-                                     'YearFrac': year_frac,                 
-                                     'HazardRateBps': hazard_rates,                                                      
+    Hazard_rates_df = pd.DataFrame (data={'Date': grid_dates,                    
+                                     'YearFrac': year_frac,                   
+                                     'HazardRateBps': hazard_rates,                                                        
                                      'SurvivalProb': surv_probs})
     Return (hazard_rates_df)
 
@@ -7574,7 +7574,7 @@ Print (cds_par_spreads)
 Cds_recovery_rate = 0.4
 
 # Hazard_rate_curve
-Hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,                  sofr_yield_curve_handle,                  cds_par_spreads,                  cds_recovery_rate)
+Hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads,                    cds_recovery_rate)
 
 # Hazard_rates_df
 Hazard_rates_df = get_hazard_rates_df (hazard_rate_curve)
@@ -7583,7 +7583,7 @@ Print (hazard_rates_df)
 
 ```
 
-    [11.7219,                  16.1196,                  23.6826,                  37.2246,                  52.551,                  63.7804]
+    [11.7219,                    16.1196,                    23.6826,                    37.2246,                    52.551,                    63.7804]
              Date   YearFrac  HazardRateBps  SurvivalProb
     0  2024-04-12   0.000000      19.372676      1.000000
     1  2025-06-20   1.205556      19.372676      0.997667
@@ -7599,11 +7599,11 @@ Follow section 2 b in the QuantLib Advanced notebook. Use the calibrated SOFR di
 
 
 ```python
-Plt = hazard_rates_df.Plot (x='Date',                  y='HazardRateBps',                  grid=True,                  style='*-',                  title=f'IBM Hazard Rates Curve as of {calc_date. To_date ()}',                  figsize=(12,                 4))
+Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRateBps',                    grid=True,                    style='*-',                    title=f'IBM Hazard Rates Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Hazard Rate (bps)')
 Plt. Set_xlabel ('Date')
 
-Plt = hazard_rates_df.Plot (x='Date',                  y='SurvivalProb',                  grid=True,                  style='*-',                  title=f'IBM Survival Probability Curve as of {calc_date. To_date ()}',                  figsize=(12,                 4))
+Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title=f'IBM Survival Probability Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Survival Probability')
 Plt. Set_xlabel ('Date')
 
@@ -7612,7 +7612,7 @@ Plt. Set_xlabel ('Date')
 
 
 
-    Text (0.5,                  0,                  'Date')
+    Text (0.5,                    0,                    'Date')
 
 
 
@@ -7635,32 +7635,32 @@ Face_notional = 100
 Contractual_spread = 100 / 10000
 
 Cds_start_date = calc_date
-Cds_maturity_date = ql.Date (20,                  6,                  2029)
+Cds_maturity_date = ql.Date (20,                    6,                    2029)
 
 # Create CDS schedule
-Cds_schedule = ql.MakeSchedule (cds_start_date,                  cds_maturity_date,                  ql.Period ('3 M'),                 
-                            Ql. Quarterly,                  ql.TARGET (),                  ql. Following,                  ql. Unadjusted,                  ql. DateGeneration. TwentiethIMM)
+Cds_schedule = ql.MakeSchedule (cds_start_date,                    cds_maturity_date,                    ql.Period ('3 M'),                   
+                            Ql. Quarterly,                    ql.TARGET (),                    ql. Following,                    ql. Unadjusted,                    ql. DateGeneration. TwentiethIMM)
 
 # Create CDS object
-Cds_obj = ql.CreditDefaultSwap (side,                  face_notional,                  contractual_spread,                  cds_schedule,                  ql. Following,                  ql. Actual 360 ())
+Cds_obj = ql.CreditDefaultSwap (side,                    face_notional,                    contractual_spread,                    cds_schedule,                    ql. Following,                    ql. Actual 360 ())
 
 # Create CDS pricing engine
 Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)
-Cds_engine = ql.MidPointCdsEngine (default_prob_curve_handle,                  cds_recovery_rate,                  sofr_yield_curve_handle)
+Cds_engine = ql.MidPointCdsEngine (default_prob_curve_handle,                    cds_recovery_rate,                    sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_engine)
 
 
 # Print CDS valuation results
-Print ('CDS protection start date: ',                  cds_obj.ProtectionStartDate ())
-Print ('CDS fair/par spread: ',                  round (cds_obj.FairSpread ()*10000,                  3))
-Print ('CDS PV: ',                  round (cds_obj.NPV (),                  4))    
-Print ('CDS Premium Leg PV: ',                  round (cds_obj.CouponLegNPV (),                  4))
-Print ('CDS Default Leg PV',                  round (cds_obj.DefaultLegNPV (),                  4))
-Print ('Survival Prob. To Maturity: ',                  round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                  4))
+Print ('CDS protection start date: ',                    cds_obj.ProtectionStartDate ())
+Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
+Print ('CDS PV: ',                    round (cds_obj.NPV (),                    4))    
+Print ('CDS Premium Leg PV: ',                    round (cds_obj.CouponLegNPV (),                    4))
+Print ('CDS Default Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
+Print ('Survival Prob. To Maturity: ',                    round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                    4))
 
 ```
 
-    CDS protection start date: April 12 th,                  2024
+    CDS protection start date: April 12 th,                    2024
     CDS fair/par spread: 37.172
     CDS PV: 2.9014
     CDS Premium Leg PV: 4.6179
@@ -7683,11 +7683,11 @@ Print ('Survival Prob. To Maturity: ',                  round (hazard_rate_curve
 
 This homework relies on multiple files (from previous weeks):
 
-- The bond symbology file `bond_symbology`,                  
-- The "on-the-run" treasuries data file `govt_on_the_run`,                 
-- The bond market data file `bond_market_prices_eod`,                 
+- The bond symbology file `bond_symbology`,                    
+- The "on-the-run" treasuries data file `govt_on_the_run`,                   
+- The bond market data file `bond_market_prices_eod`,                   
 - The CDS data file `cds_market_data_eod`. 
-- The SOFR OIS Swap symbology file `sofr_swap_symbology`,                 
+- The SOFR OIS Swap symbology file `sofr_swap_symbology`,                   
 - The SOFR OIS Swap market data file `sofr_swaps_market_data_eod`.
 
 
@@ -7697,8 +7697,8 @@ This homework relies on multiple files (from previous weeks):
 # Import tools from previous homeworks
 From credit_market_tools import *
 
-# Use static calculation/valuation date of 2024-04-19,                  matching data available in the market prices EOD file
-Calc_date = ql.Date (19,                  4,                  2024)
+# Use static calculation/valuation date of 2024-04-19,                    matching data available in the market prices EOD file
+Calc_date = ql.Date (19,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 
 # Calculation/valuation date as pd datetime
@@ -7708,13 +7708,13 @@ As_of_date = pd. To_datetime ('2024-04-19')
 -----------------------------------------------------------
 # Problem 1: Pricing risky bonds in the hazard rate model
 ## This is building upon
-- Homework 2 "Problem 2: US Treasury yield curve calibration (On-The-Runs)",                 
+- Homework 2 "Problem 2: US Treasury yield curve calibration (On-The-Runs)",                   
 - Homework 3 "Problem 3: US SOFR swap curve calibration" and
 - Homework 3 "Problem 4: CDS Hazard Rate calibration".
 
 ## a. Prepare the market data
 ### Load the symbology + market data dataframes. Calibrate the following curves as of 2024-04-19:
-- The "on-the-run" US Treasury curve,                 
+- The "on-the-run" US Treasury curve,                   
 - The US SOFR curve and 
 - The IBM CDS hazard rate curve (on the top of SOFR discount curve).
 
@@ -7739,7 +7739,7 @@ Bond_market_prices_eod = pd. Read_excel ('./data/bond_market_prices_eod. Xlsx')
 Bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 Bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
 
-# Load govt_on_the_run,                  as of 2024-04-19
+# Load govt_on_the_run,                    as of 2024-04-19
 Govt_on_the_run = pd. Read_excel ('./data/govt_on_the_run. Xlsx')
 
 # Keep OTR treasuries only
@@ -7750,11 +7750,11 @@ Govt_symbology_otr = bond_symbology[bond_symbology['isin']. Isin (govt_on_the_ru
 Govt_symbology_otr = govt_symbology_otr. Sort_values (by='maturity')
 
 # Merge market data as of 2024-04-19 into treasury OTR symbology
-Govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,                   on=['class',                 'ticker',                 'figi',                 'isin'])
+Govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,                     on=['class',                   'ticker',                   'figi',                   'isin'])
 Display (govt_combined_otr.Head ())
 
 # Tsy_yield_curve calibration
-Tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,                  govt_combined_otr,                  'midPrice')
+Tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,                    govt_combined_otr,                    'midPrice')
 Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve)
 
 
@@ -7937,18 +7937,18 @@ Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve)
 
 # Sofr_symbology
 Sofr_symbology = pd. Read_excel ('./data/sofr_swaps_symbology. Xlsx')
-Sofr_symbology. Set_index ('figi',                  inplace=True)
+Sofr_symbology. Set_index ('figi',                    inplace=True)
 Display (sofr_symbology)
 
 # Sofr_market_quotes
 Sofr_market_quotes = pd. Read_excel ('./data/sofr_swaps_market_data_eod. Xlsx')
 
 # Sofr_combined
-Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == as_of_date],                  how='left',                  on=['figi'])
+Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == as_of_date],                    how='left',                    on=['figi'])
 Display (sofr_combined.Head ())
 
 # Sofr_yield_curve calibration
-Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                  sofr_combined,                  'midRate')
+Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                    sofr_combined,                    'midRate')
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
 ```
@@ -8264,7 +8264,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 Cds_market_quotes = pd. Read_excel ('./data/cds_market_data_eod. Xlsx')
 
 # Create par spreads (bps) dataframe
-Par_spread_col_names = [f'par_spread_{n}y' for n in [1,                 2,                 3,                 5,                 7,                 10]]
+Par_spread_col_names = [f'par_spread_{n}y' for n in [1,                   2,                   3,                   5,                   7,                   10]]
 Cds_par_spreads_df = cds_market_quotes. Set_index ('date')[par_spread_col_names]
 
 Cds_par_spreads = list (cds_par_spreads_df. Loc[as_of_date])
@@ -8274,13 +8274,13 @@ Print (cds_par_spreads)
 Cds_recovery_rate = 0.4
 
 # Hazard_rate_curve
-Hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,                  sofr_yield_curve_handle,                  cds_par_spreads,                  cds_recovery_rate)
+Hazard_rate_curve = calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads,                    cds_recovery_rate)
 
 # Hazard_rate_curve calibrated to IBM CDS par spreads
 Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)
 ```
 
-    [12.0769,                  17.3082,                  24.866,                  39.6501,                  53.9093,                  65.3221]
+    [12.0769,                    17.3082,                    24.866,                    39.6501,                    53.9093,                    65.3221]
 
 
 ## b. Create the IBM risky bond objects
@@ -8290,7 +8290,7 @@ Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rat
 - Security = 'IBM 3.3 01/27/27' / figi = 'BBG 00 FVNGFP 3'
 - Security = 'IBM 3 1/2 05/15/29' / figi = 'BBG 00 P 3 BLH 14'
 
-Use the create_bond_from_symbology () function (discussed in from Homework 2,                  Problem 1 b) to create the bonds objects.
+Use the create_bond_from_symbology () function (discussed in from Homework 2,                    Problem 1 b) to create the bonds objects.
 
 List the bond cashflows using the get_bond_cashflows () function.
 
@@ -8302,11 +8302,11 @@ List the bond cashflows using the get_bond_cashflows () function.
 Corp_symbology_ibm = bond_symbology[(bond_symbology. Ticker == 'IBM') & (bond_symbology. Cpn_type == 'FIXED')]
 
 # Corp_combined_ibm
-Corp_combined_ibm = corp_symbology_ibm.Merge (bond_market_prices_eod,                  how='inner',                  on=['class',                  'ticker',                  'isin',                  'figi'])
-Corp_combined_ibm. Set_index ('figi',                  inplace=True)
+Corp_combined_ibm = corp_symbology_ibm.Merge (bond_market_prices_eod,                    how='inner',                    on=['class',                    'ticker',                    'isin',                    'figi'])
+Corp_combined_ibm. Set_index ('figi',                    inplace=True)
 
 # Keep selected IBM bonds only
-Ibm_selected_figis = ['BBG 00 P 3 BLH 05',                  'BBG 00 FVNGFP 3',                  'BBG 00 P 3 BLH 14']
+Ibm_selected_figis = ['BBG 00 P 3 BLH 05',                    'BBG 00 FVNGFP 3',                    'BBG 00 P 3 BLH 14']
 Ibm_df = corp_combined_ibm. Loc[ibm_selected_figis]
 
 Display (ibm_df. T)
@@ -8537,12 +8537,12 @@ Display (ibm_df. T)
 
 ```python
 # Create ibm_bond_objects
-Ibm_bond_objects = [ create_bond_from_symbology (df_row. To_dict ()) for index,                  df_row in ibm_df.Iterrows ()]
+Ibm_bond_objects = [ create_bond_from_symbology (df_row. To_dict ()) for index,                    df_row in ibm_df.Iterrows ()]
 
 # List the bond cashflows
-For i in range (0,                  3):
-    Print ('Bond cashflows for',                  ibm_df. Iloc[i]['security'])
-    Display (get_bond_cashflows (ibm_bond_objects[i],                  calc_date)) 
+For i in range (0,                    3):
+    Print ('Bond cashflows for',                    ibm_df. Iloc[i]['security'])
+    Display (get_bond_cashflows (ibm_bond_objects[i],                    calc_date)) 
 
 ```
 
@@ -8576,37 +8576,37 @@ For i in range (0,                  3):
   <tbody>
     <tr>
       <th>9</th>
-      <td>May 15 th,                  2024</td>
+      <td>May 15 th,                    2024</td>
       <td>0.072222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>November 15 th,                  2024</td>
+      <td>November 15 th,                    2024</td>
       <td>0.572222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>May 15 th,                  2025</td>
+      <td>May 15 th,                    2025</td>
       <td>1.072222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>November 15 th,                  2025</td>
+      <td>November 15 th,                    2025</td>
       <td>1.572222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>May 15 th,                  2026</td>
+      <td>May 15 th,                    2026</td>
       <td>2.072222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>May 15 th,                  2026</td>
+      <td>May 15 th,                    2026</td>
       <td>2.072222</td>
       <td>100.00</td>
     </tr>
@@ -8645,43 +8645,43 @@ For i in range (0,                  3):
   <tbody>
     <tr>
       <th>14</th>
-      <td>July 27 th,                  2024</td>
+      <td>July 27 th,                    2024</td>
       <td>0.272222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>15</th>
-      <td>January 27 th,                  2025</td>
+      <td>January 27 th,                    2025</td>
       <td>0.772222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>16</th>
-      <td>July 27 th,                  2025</td>
+      <td>July 27 th,                    2025</td>
       <td>1.272222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>January 27 th,                  2026</td>
+      <td>January 27 th,                    2026</td>
       <td>1.772222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>July 27 th,                  2026</td>
+      <td>July 27 th,                    2026</td>
       <td>2.272222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>January 27 th,                  2027</td>
+      <td>January 27 th,                    2027</td>
       <td>2.772222</td>
       <td>1.65</td>
     </tr>
     <tr>
       <th>20</th>
-      <td>January 27 th,                  2027</td>
+      <td>January 27 th,                    2027</td>
       <td>2.772222</td>
       <td>100.00</td>
     </tr>
@@ -8720,73 +8720,73 @@ For i in range (0,                  3):
   <tbody>
     <tr>
       <th>9</th>
-      <td>May 15 th,                  2024</td>
+      <td>May 15 th,                    2024</td>
       <td>0.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>November 15 th,                  2024</td>
+      <td>November 15 th,                    2024</td>
       <td>0.572222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>May 15 th,                  2025</td>
+      <td>May 15 th,                    2025</td>
       <td>1.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>November 15 th,                  2025</td>
+      <td>November 15 th,                    2025</td>
       <td>1.572222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>May 15 th,                  2026</td>
+      <td>May 15 th,                    2026</td>
       <td>2.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>November 15 th,                  2026</td>
+      <td>November 15 th,                    2026</td>
       <td>2.572222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>15</th>
-      <td>May 15 th,                  2027</td>
+      <td>May 15 th,                    2027</td>
       <td>3.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>16</th>
-      <td>November 15 th,                  2027</td>
+      <td>November 15 th,                    2027</td>
       <td>3.572222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>May 15 th,                  2028</td>
+      <td>May 15 th,                    2028</td>
       <td>4.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>November 15 th,                  2028</td>
+      <td>November 15 th,                    2028</td>
       <td>4.572222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>May 15 th,                  2029</td>
+      <td>May 15 th,                    2029</td>
       <td>5.072222</td>
       <td>1.75</td>
     </tr>
     <tr>
       <th>20</th>
-      <td>May 15 th,                  2029</td>
+      <td>May 15 th,                    2029</td>
       <td>5.072222</td>
       <td>100.00</td>
     </tr>
@@ -8807,19 +8807,19 @@ Display the clean prices and yields for the 3 test bonds.
 Flat_recovery_rate = 0.40
 
 # Risky bond engine uses the calibrated CDS hazard rate curve for pricing credit default risk 
-Risky_bond_engine = ql.RiskyBondEngine (default_prob_curve_handle,                  flat_recovery_rate,                  tsy_yield_curve_handle)
+Risky_bond_engine = ql.RiskyBondEngine (default_prob_curve_handle,                    flat_recovery_rate,                    tsy_yield_curve_handle)
 
 # Model/intrinsic prices and yields
 Ibm_model_prices = []
 Ibm_model_yields = []
 
 # Print the clean prices and yields for the 3 test bonds
-For i in range (0,                  3):
+For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
     Fixed_rate_bond.SetPricingEngine (risky_bond_engine)
     
-    CorpBondModelPrice = round (fixed_rate_bond.CleanPrice (),                  3)
-    CorpBondModelYield = round (fixed_rate_bond.BondYield (corpBondModelPrice,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100,                  3)
+    CorpBondModelPrice = round (fixed_rate_bond.CleanPrice (),                    3)
+    CorpBondModelYield = round (fixed_rate_bond.BondYield (corpBondModelPrice,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100,                    3)
 
     Ibm_model_prices.Append (corpBondModelPrice)
     Ibm_model_yields.Append (corpBondModelYield)
@@ -8829,7 +8829,7 @@ For i in range (0,                  3):
 Ibm_df['modelPrice'] = ibm_model_prices
 Ibm_df['modelYield'] = ibm_model_yields
 
-display (ibm_df [['security',                  'modelPrice',                  'modelYield']])
+display (ibm_df [['security',                    'modelPrice',                    'modelYield']])
 
 ```
 
@@ -8906,7 +8906,7 @@ Ibm_df['basisPrice'] = ibm_df['modelPrice'] - ibm_df['midPrice']
 Ibm_df['basisYield'] = ibm_df['modelYield'] - ibm_df['midYield']
 
 # Display relevant metrics
-display (ibm_df [['security',                  'midPrice',                  'modelPrice',                  'basisPrice',                  'midYield',                  'modelYield',                  'basisYield']])
+display (ibm_df [['security',                    'midPrice',                    'modelPrice',                    'basisPrice',                    'midYield',                    'modelYield',                    'basisYield']])
 ```
 
 
@@ -8983,20 +8983,20 @@ display (ibm_df [['security',                  'midPrice',                  'mod
 </div>
 
 
-CDS-implied,                  intrinsic bond prices are higher than bond market prices.
+CDS-implied,                    intrinsic bond prices are higher than bond market prices.
 
 Following factors could explain the basis dislocation for the 3 IBM bonds:
-1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the credit risk in the IBM issuer curve,                  relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis arbitrage trades,                  as discussed in Session 2. 
+1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the credit risk in the IBM issuer curve,                    relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis arbitrage trades,                    as discussed in Session 2. 
 2. Risk-free yield curve mismatch: the (synthetic) SOFR yield curve is tighter than the (cash) US Treasury curve. This is usually due to a funding differential for cash vs. Synthetic products.
 3. Temporarily dislocation: Individual bonds are temporarily dislocated from their "fair value" from the issuer curve (e.g. in a Nelson-Siegel type parametric model). This can happen due to buying vs. Selling imbalance in that particular bond.
-4. Liquidity discounts: in general,                  less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied "richer" basis (wider in yield space).
+4. Liquidity discounts: in general,                    less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied "richer" basis (wider in yield space).
 
 -----------------------------------------------------------
 # Problem 2: Compute scenario sensitivities for risky bonds
 ## a. Compute scenario IR 01 s and Durations for the 3 IBM bonds
 Use the 3 IBM test bonds defined in Problem 1. 
 
-Compute the scenario IR 01 and Durations using a '-1 bp' interest rate shock,                  as described in Section 6. "Market Data Scenarios" in the QuantLib Basics notebook.
+Compute the scenario IR 01 and Durations using a '-1 bp' interest rate shock,                    as described in Section 6. "Market Data Scenarios" in the QuantLib Basics notebook.
 
 Display the computed scenario IR 01 and Durations.
 
@@ -9007,8 +9007,8 @@ Remember that IR 01 = Dirty_Price * Duration.
 ```python
 # Bump interest rate by -1 bps (parallel shift)
 Interest_rate_scenario_1 bp_down = ql.SimpleQuote (-0.0001)
-Tsy_yield_curve_handle_1 bp_down = ql.YieldTermStructureHandle (ql.ZeroSpreadedTermStructure (tsy_yield_curve_handle,                  ql.QuoteHandle (interest_rate_scenario_1 bp_down)))
-Risky_bond_engine_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle,                  flat_recovery_rate,                  tsy_yield_curve_handle_1 bp_down)
+Tsy_yield_curve_handle_1 bp_down = ql.YieldTermStructureHandle (ql.ZeroSpreadedTermStructure (tsy_yield_curve_handle,                    ql.QuoteHandle (interest_rate_scenario_1 bp_down)))
+Risky_bond_engine_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle,                    flat_recovery_rate,                    tsy_yield_curve_handle_1 bp_down)
 ```
 
 
@@ -9020,7 +9020,7 @@ Ibm_scen_duration = []
 
 
 # Calculate IR 01 and duration
-For i in range (0,                  3):
+For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
     
     # Calc model dirty price for base case
@@ -9045,7 +9045,7 @@ For i in range (0,                  3):
 Ibm_df['scen_IR 01'] = ibm_scen_IR 01
 Ibm_df['scen_duration'] = ibm_scen_duration
 
-display (ibm_df [['security',                  'scen_IR01',                  'scen_duration']])
+display (ibm_df [['security',                    'scen_IR01',                    'scen_duration']])
 
 ```
 
@@ -9117,7 +9117,7 @@ Ibm_analytic_durations = []
 Ibm_analytic_DV 01 s = []
 
 # Calculate IR 01 and duration
-For i in range (0,                  3):
+For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
     
     # Calc model dirty price for base case
@@ -9125,8 +9125,8 @@ For i in range (0,                  3):
     Dirty_price_base = fixed_rate_bond.DirtyPrice ()
     
     # Compute analytical duration and DV 01
-    Bond_yield_rate = ql.InterestRate (ibm_model_yields[i]/100,                  ql.ActualActual (ql. ActualActual. ISMA),                  ql. Compounded,                  ql. Semiannual)
-    Analytic_duration = ql.BondFunctions.Duration (fixed_rate_bond,                  bond_yield_rate)
+    Bond_yield_rate = ql.InterestRate (ibm_model_yields[i]/100,                    ql.ActualActual (ql. ActualActual. ISMA),                    ql. Compounded,                    ql. Semiannual)
+    Analytic_duration = ql.BondFunctions.Duration (fixed_rate_bond,                    bond_yield_rate)
     Analytic_DV 01 = analytic_duration * dirty_price_base /100 
 
     Ibm_analytic_durations.Append (analytic_duration)
@@ -9137,7 +9137,7 @@ For i in range (0,                  3):
 Ibm_df['analytic_DV 01'] = ibm_analytic_DV 01 s
 Ibm_df['analytic_duration'] = ibm_analytic_durations
 
-display (ibm_df [['security',                  'analytic_DV01',                  'analytic_duration']])
+display (ibm_df [['security',                    'analytic_DV01',                    'analytic_duration']])
 
 ```
 
@@ -9198,7 +9198,7 @@ display (ibm_df [['security',                  'analytic_DV01',                 
 
 ```python
 # Compare the analytical DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?
-display (ibm_df [['security',                  'scen_IR01',                  'analytic_DV01']])
+display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01']])
 ```
 
 
@@ -9255,14 +9255,14 @@ display (ibm_df [['security',                  'scen_IR01',                  'an
 </div>
 
 
-DV 01 s and IR 01 s are expected to be similar,                  since a -1 bp change in the (risk free) interest rate curve causes approximately a -1 bp change in the (risky) bond yield curve.
+DV 01 s and IR 01 s are expected to be similar,                    since a -1 bp change in the (risk free) interest rate curve causes approximately a -1 bp change in the (risky) bond yield curve.
 
 ## c. Compute scenario CS 01 s (credit spread sensitivities) for the 3 IBM bonds
 Use the 3 IBM test bonds defined in Problem 1. 
 
 Apply a '-1 bp' (parallel shift) scenario to the IBM CDS Par Spread quotes and calibrate the scenario hazard rate curve. 
 
-Create a new scenario RiskyBondEngine,                  using the scenario hazard rate curve.
+Create a new scenario RiskyBondEngine,                    using the scenario hazard rate curve.
 
 Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped hazard rate curve) to obtain the '-1 bp' scenario CS 01 (credit spread sensitivities).
 
@@ -9276,16 +9276,16 @@ Print (cds_par_spreads)
 Print (cds_par_spreads_1 bp_down)
 
 # Hazard_rate_curve
-Hazard_rate_curve_1 bp_down = calibrate_cds_hazard_rate_curve (calc_date,                  sofr_yield_curve_handle,                  cds_par_spreads_1 bp_down,                  cds_recovery_rate)
+Hazard_rate_curve_1 bp_down = calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads_1 bp_down,                    cds_recovery_rate)
 Default_prob_curve_handle_1 bp_down = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve_1 bp_down)
 
 # Risky bond engine for CDS Par Spread -1 bp scenario
-Risky_bond_engine_cds_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle_1 bp_down,                  flat_recovery_rate,                  tsy_yield_curve_handle)
+Risky_bond_engine_cds_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle_1 bp_down,                    flat_recovery_rate,                    tsy_yield_curve_handle)
 
 ```
 
-    [12.0769,                  17.3082,                  24.866,                  39.6501,                  53.9093,                  65.3221]
-    [11.0769,                  16.3082,                  23.866,                  38.6501,                  52.9093,                  64.3221]
+    [12.0769,                    17.3082,                    24.866,                    39.6501,                    53.9093,                    65.3221]
+    [11.0769,                    16.3082,                    23.866,                    38.6501,                    52.9093,                    64.3221]
 
 
 
@@ -9293,7 +9293,7 @@ Risky_bond_engine_cds_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle_
 # Calculate CS 01
 Ibm_model_cs 01 = []
 
-For i in range (0,                  3):
+For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]     
     Price_base = ibm_model_prices[i]   
     
@@ -9311,7 +9311,7 @@ For i in range (0,                  3):
 Ibm_df['CS 01'] = ibm_model_cs 01
 
 # Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?
-display (ibm_df [['security',                  'scen_IR01',                  'analytic_DV01',                  'CS01']])
+display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01',                    'CS01']])
 
 ```
 
@@ -9374,14 +9374,14 @@ display (ibm_df [['security',                  'scen_IR01',                  'an
 </div>
 
 
-CS 01 s and DV 01 s are expected to be similar,                  since a -1 bp change in the credit spread curve causes approximately a -1 bp change in the (risky) bond yield curve.
+CS 01 s and DV 01 s are expected to be similar,                    since a -1 bp change in the credit spread curve causes approximately a -1 bp change in the (risky) bond yield curve.
 
 ## d. Compute scenario REC 01 (recovery rate sensitivity) for the 3 IBM bonds
 Use the 3 IBM test bonds defined in Problem 1. 
 
-Apply a +1% scenario bump to the IBM recovery rate (bump the flat_recovery_rate parameter by 1%,                  from 40% to 41%).
+Apply a +1% scenario bump to the IBM recovery rate (bump the flat_recovery_rate parameter by 1%,                    from 40% to 41%).
 
-Create a new scenario RiskyBondEngine,                  using the scenario new recovery rate.
+Create a new scenario RiskyBondEngine,                    using the scenario new recovery rate.
 
 Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped recovery rate) to obtain the +1% scenario REC 01 (recovery rate sensitivity).
 
@@ -9390,12 +9390,12 @@ Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped recove
 ```python
 # Bump recovery rate by 1% up
 Flat_recovery_rate_1 pct_up = flat_recovery_rate + 0.01
-Risky_bond_engine_rec_1 pct_up = ql.RiskyBondEngine (default_prob_curve_handle,                  flat_recovery_rate_1 pct_up,                  tsy_yield_curve_handle)
+Risky_bond_engine_rec_1 pct_up = ql.RiskyBondEngine (default_prob_curve_handle,                    flat_recovery_rate_1 pct_up,                    tsy_yield_curve_handle)
 
 # Calculate REC 01
 Ibm_model_rec 01 = []
 
-For i in range (0,                  3):
+For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
     Price_base = ibm_model_prices[i]    
     
@@ -9410,7 +9410,7 @@ For i in range (0,                  3):
 
 # Display relevant metrics
 Ibm_df['REC 01'] = ibm_model_rec 01
-print (ibm_df [['security',                  'REC01']])
+print (ibm_df [['security',                    'REC01']])
 
 ```
 
@@ -9423,20 +9423,20 @@ print (ibm_df [['security',                  'REC01']])
 
 -----------------------------------------------------------
 # Problem 3: Perpetual CDS
-We are interested in a perpetual CDS contract (infinite maturity) on a face notional of $100,                  flat interest rate of 4% and coupon of 5% (quarterly payments).
+We are interested in a perpetual CDS contract (infinite maturity) on a face notional of $100,                    flat interest rate of 4% and coupon of 5% (quarterly payments).
 
-For simplicity,                  we assuming a flat hazard rate of 1% per annum,                  a recovery rate of 40%,                  T+0 settlement and zero accrued.
+For simplicity,                    we assuming a flat hazard rate of 1% per annum,                    a recovery rate of 40%,                    T+0 settlement and zero accrued.
 
 Use the simple CDS valuation formulas derived in Session 3 as a template.
 
-The value of the perpetual CDS is obtained as a limit case of the simple CDS valuation formulas derived in Session 3,                  for $T \to \infty$.
+The value of the perpetual CDS is obtained as a limit case of the simple CDS valuation formulas derived in Session 3,                    for $T \to \infty$.
 
 $$\begin{align}
-PV_{CDS\_PL}\left (c,                  r,                  h,                  R,                  \infty \right) = \frac{c}{4 \cdot \left (e^{\left (r+h\right)/4}-1 \right)} \simeq \frac{c}{r+h}
+PV_{CDS\_PL}\left (c,                    r,                    h,                    R,                    \infty \right) = \frac{c}{4 \cdot \left (e^{\left (r+h\right)/4}-1 \right)} \simeq \frac{c}{r+h}
 \end{align}$$
 
 $$\begin{align}
-PV_{CDS\_DL}\left (c,                  r,                  h,                  R,                 \infty \right) = \frac{\left (1-R\right)\cdot h}{r+h} 
+PV_{CDS\_DL}\left (c,                    r,                    h,                    R,                   \infty \right) = \frac{\left (1-R\right)\cdot h}{r+h} 
 \end{align}$$
 
 $$\begin{align}
@@ -9450,17 +9450,17 @@ CDS\_ParSpread = c \cdot \frac{PV_{CDS\_DL}}{PV_{CDS\_PL}} \simeq \left (1-R\rig
 
 
 ```python
-Def calc_perpetual_cds_premium_leg_pv (c,                  r,                  h,                  R,                  face):
+Def calc_perpetual_cds_premium_leg_pv (c,                    r,                    h,                    R,                    face):
     Return (c / 4 / (np.Exp ((r+h)/4)-1) * face)
 
-Def calc_perpetual_cds_default_leg_pv (c,                  r,                  h,                  R,                  face):
+Def calc_perpetual_cds_default_leg_pv (c,                    r,                    h,                    R,                    face):
     Return ((1 - R) * h / (r + h) * face)
 
-Def calc_perpetual_cds_pv (c,                  r,                  h,                  R,                  face):
-    Return (calc_perpetual_cds_premium_leg_pv (c,                  r,                  h,                  R,                  face) - calc_perpetual_cds_default_leg_pv (c,                  r,                  h,                  R,                  face))
+Def calc_perpetual_cds_pv (c,                    r,                    h,                    R,                    face):
+    Return (calc_perpetual_cds_premium_leg_pv (c,                    r,                    h,                    R,                    face) - calc_perpetual_cds_default_leg_pv (c,                    r,                    h,                    R,                    face))
 
-Def calc_perpetual_cds_par_spread (c,                  r,                  h,                  R,                  face):
-    Return (c * calc_perpetual_cds_default_leg_pv (c,                  r,                  h,                  R,                  face) / calc_perpetual_cds_premium_leg_pv (c,                  r,                  h,                  R,                  face))
+Def calc_perpetual_cds_par_spread (c,                    r,                    h,                    R,                    face):
+    Return (c * calc_perpetual_cds_default_leg_pv (c,                    r,                    h,                    R,                    face) / calc_perpetual_cds_premium_leg_pv (c,                    r,                    h,                    R,                    face))
 ```
 
 ## a. Compute the fair value of the CDS premium and default legs.
@@ -9476,12 +9476,12 @@ R = 0.40
 Face = 100
 
 # Perpetual_cds_premium_leg_pv
-Perpetual_cds_premium_leg_pv = calc_perpetual_cds_premium_leg_pv (c,                  r,                  h,                  R,                  face)
-Print ('perpetual_cds_premium_leg_pv: ',                  round (perpetual_cds_premium_leg_pv,                  2))
+Perpetual_cds_premium_leg_pv = calc_perpetual_cds_premium_leg_pv (c,                    r,                    h,                    R,                    face)
+Print ('perpetual_cds_premium_leg_pv: ',                    round (perpetual_cds_premium_leg_pv,                    2))
 
 # Perpetual_cds_default_leg_pv
-Perpetual_cds_default_leg_pv = calc_perpetual_cds_default_leg_pv (c,                  r,                  h,                  R,                  face)
-Print ('perpetual_cds_default_leg_pv: ',                  round (perpetual_cds_default_leg_pv,                  2))
+Perpetual_cds_default_leg_pv = calc_perpetual_cds_default_leg_pv (c,                    r,                    h,                    R,                    face)
+Print ('perpetual_cds_default_leg_pv: ',                    round (perpetual_cds_default_leg_pv,                    2))
 ```
 
     Perpetual_cds_premium_leg_pv: 99.38
@@ -9491,14 +9491,14 @@ Print ('perpetual_cds_default_leg_pv: ',                  round (perpetual_cds_d
 
 
 ```python
-Perpetual_cds_pv = calc_perpetual_cds_pv (c,                  r,                  h,                  R,                  face)
-Print ('perpetual_cds_pv: ',                  round (perpetual_cds_pv,                  2))
+Perpetual_cds_pv = calc_perpetual_cds_pv (c,                    r,                    h,                    R,                    face)
+Print ('perpetual_cds_pv: ',                    round (perpetual_cds_pv,                    2))
 
-Perpetual_cds_par_spread_bps = calc_perpetual_cds_par_spread (c,                  r,                  h,                  R,                  face) * 1 e 4
-Print ('perpetual_cds_par_spread_bps: ',                  round (perpetual_cds_par_spread_bps,                  2))
+Perpetual_cds_par_spread_bps = calc_perpetual_cds_par_spread (c,                    r,                    h,                    R,                    face) * 1 e 4
+Print ('perpetual_cds_par_spread_bps: ',                    round (perpetual_cds_par_spread_bps,                    2))
 
 Perpetual_cds_par_spread_approx_bps = (1 - R) * h * 1 e 4
-Print ('perpetual_cds_par_spread_approx_bps: ',                  round (perpetual_cds_par_spread_approx_bps,                  2))
+Print ('perpetual_cds_par_spread_approx_bps: ',                    round (perpetual_cds_par_spread_approx_bps,                    2))
 
 ```
 
@@ -9520,27 +9520,27 @@ Using the scenario method.
 ```python
 # CDS IR 01 
 R_1 bp_down = r - 0.0001
-Perpetual_cds_pv_r_1 bp_down = calc_perpetual_cds_pv (c,                  r_1 bp_down,                  h,                  R,                  face)
+Perpetual_cds_pv_r_1 bp_down = calc_perpetual_cds_pv (c,                    r_1 bp_down,                    h,                    R,                    face)
 Perpetual_cds_ir 01 = perpetual_cds_pv_r_1 bp_down - perpetual_cds_pv
-Print ('perpetual_cds_ir 01 ($): ',                  round (perpetual_cds_ir 01,                  2))
+Print ('perpetual_cds_ir 01 ($): ',                    round (perpetual_cds_ir 01,                    2))
 
 # CDS HR 01 
 H_1 bp_down = h - 0.0001
-Perpetual_cds_pv_h_1 bp_down = calc_perpetual_cds_pv (c,                  r,                  h_1 bp_down,                  R,                  face)
+Perpetual_cds_pv_h_1 bp_down = calc_perpetual_cds_pv (c,                    r,                    h_1 bp_down,                    R,                    face)
 Perpetual_cds_hr 01 = perpetual_cds_pv_h_1 bp_down - perpetual_cds_pv
-Print ('perpetual_cds_hr 01 ($): ',                  round (perpetual_cds_hr 01,                  2))
+Print ('perpetual_cds_hr 01 ($): ',                    round (perpetual_cds_hr 01,                    2))
 
 # CDS CS 01
-Perpetual_cds_par_spread_h_1 bp_down = calc_perpetual_cds_par_spread (c,                  r,                  h_1 bp_down,                  R,                  face) * 1 e 4
+Perpetual_cds_par_spread_h_1 bp_down = calc_perpetual_cds_par_spread (c,                    r,                    h_1 bp_down,                    R,                    face) * 1 e 4
 Perpetual_cds_par_spread_bps_delta = perpetual_cds_par_spread_bps - perpetual_cds_par_spread_h_1 bp_down
 Perpetual_cds_cs 01 = perpetual_cds_hr 01 / perpetual_cds_par_spread_bps_delta
-Print ('perpetual_cds_cs 01 ($): ',                  round (perpetual_cds_cs 01,                  2))
+Print ('perpetual_cds_cs 01 ($): ',                    round (perpetual_cds_cs 01,                    2))
 
 # CDS REC 01 
 R_1 pct_up = R + 0.01
-Perpetual_cds_pv_R_1 pct_up = calc_perpetual_cds_pv (c,                  r,                  h,                  R_1 pct_up,                  face)
+Perpetual_cds_pv_R_1 pct_up = calc_perpetual_cds_pv (c,                    r,                    h,                    R_1 pct_up,                    face)
 Perpetual_cds_rec 01 = perpetual_cds_pv_R_1 pct_up - perpetual_cds_pv
-Print ('perpetual_cds_rec 01 ($): ',                  round (perpetual_cds_rec 01,                  2))
+Print ('perpetual_cds_rec 01 ($): ',                    round (perpetual_cds_rec 01,                    2))
 
 
 ```
@@ -9554,12 +9554,12 @@ Print ('perpetual_cds_rec 01 ($): ',                  round (perpetual_cds_rec 0
 ## d. At what time T does the (implied) default probability over next 10 years drop to 1%?
 
 $$\begin{align}
-\mathbb{P} \left (\tau \in [T,                  T+10] \right) = 1/100
+\mathbb{P} \left (\tau \in [T,                    T+10] \right) = 1/100
 \end{align}$$
 
 
 $$\begin{align}
-\mathbb{P} \left (\tau \in [T,                  T+10] \right)
+\mathbb{P} \left (\tau \in [T,                    T+10] \right)
 \end{align}$$
 
 $$\begin{align}
@@ -9576,7 +9576,7 @@ $$\begin{align}
 
 
 $$\begin{align}
-\mathbb{P} \left (\tau \in [T,                  T+10] \right) = 1/100
+\mathbb{P} \left (\tau \in [T,                    T+10] \right) = 1/100
 \end{align}$$
 
 $$\begin{align}
@@ -9591,7 +9591,7 @@ $$\begin{align}
 ```python
 # Calc T:
 T = np.Log (100*(1-np.Exp (-h*10)))/h
-Print ('T =',                  T)
+Print ('T =',                    T)
 ```
 
     T = 225.3001724944001
@@ -9600,7 +9600,7 @@ Print ('T =',                  T)
 -----------------------------------------------------------
 # Problem 4: Nelson-Siegel model for smooth hazard rate curves
 
-## This exercise implements tsome of the concepts introduced in Lecture 4,                  Section 1 "Parametric Hazard Rate Models"
+## This exercise implements tsome of the concepts introduced in Lecture 4,                    Section 1 "Parametric Hazard Rate Models"
 
 ## Follow Section "3. Smooth parametric yield and hazard rate curves: the Nelson-Siegel model" in the QuantLib Advanced notebook
 ## You can also take a look at Dr. Mark Hendricks Fixed Income notebooks describing the Nelson-Siegel model calibration on US Treasuries (GitHub repo link posted in Canvas).
@@ -9618,14 +9618,14 @@ Plot the VZ yields (Y-axis) by TTM (X-axis).
 Corp_symbology_vz = bond_symbology[(bond_symbology. Ticker == 'VZ') & (bond_symbology. Cpn_type == 'FIXED') & (bond_symbology. Amt_out > 100)]
 
 # Create vz_df
-Vz_df = corp_symbology_vz.Merge (bond_market_prices_eod,                  how='inner',                  on=['class',                  'ticker',                  'isin',                  'figi'])
+Vz_df = corp_symbology_vz.Merge (bond_market_prices_eod,                    how='inner',                    on=['class',                    'ticker',                    'isin',                    'figi'])
 
 # Sort the dataframe by bond maturity and display the head of the dataframe.
-Vz_df. Sort_values ('maturity',                  inplace=True)
+Vz_df. Sort_values ('maturity',                    inplace=True)
 Display (vz_df.Head ())
 
 # Plot the VZ yields (Y-axis) by TTM (X-axis).
-Plt = vz_df.Plot (x='TTM',                  y = 'midYield',                  figsize = (12,                  6),                  title = "VZ Market Yields (pct)",                  grid=True,                  style='*')
+Plt = vz_df.Plot (x='TTM',                    y = 'midYield',                    figsize = (12,                    6),                    title = "VZ Market Yields (pct)",                    grid=True,                    style='*')
 Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond TTM')
 
@@ -9803,7 +9803,7 @@ Plt. Set_xlabel ('Bond TTM')
 
 
 
-    Text (0.5,                  0,                  'Bond TTM')
+    Text (0.5,                    0,                    'Bond TTM')
 
 
 
@@ -9814,17 +9814,17 @@ Plt. Set_xlabel ('Bond TTM')
 
 
 ## b. Create the Nelson-Siegel curve shape (4 parameters) and compute the corresponding SSE function.
-For a given set of parameters,                  write a function to compute the SSE "Sum of Squared Errors" penalty function in price space (defined as sum of squared differences between model and market prices for all Verizon fixed-rate bonds).
+For a given set of parameters,                    write a function to compute the SSE "Sum of Squared Errors" penalty function in price space (defined as sum of squared differences between model and market prices for all Verizon fixed-rate bonds).
 
 
-For each bond,                  compute the bond DV 01,                  using Section "9. Analytical Duration" in the QuantLib Basics notebook as a template.
+For each bond,                    compute the bond DV 01,                    using Section "9. Analytical Duration" in the QuantLib Basics notebook as a template.
 
-Use 1/DV 01 as SSE weights,                  as discussed in Lecture 3. You can ignore the liquidity adjuster for the purpose of this exercise.
+Use 1/DV 01 as SSE weights,                    as discussed in Lecture 3. You can ignore the liquidity adjuster for the purpose of this exercise.
 
 
 ```python
-Def nelson_siegel (params,                  maturity):
-    ''' params = (theta 1,                  theta 2,                  theta 3,                  lambda)'''        
+Def nelson_siegel (params,                    maturity):
+    ''' params = (theta 1,                    theta 2,                    theta 3,                    lambda)'''        
     If (maturity == 0 or params[3] <= 0):
         Slope_1 = 1
         Curvature = 0
@@ -9836,34 +9836,34 @@ Def nelson_siegel (params,                  maturity):
     
     Return total_value
 
-Def create_nelson_siegel_curve (calc_date,                  nelson_siegel_params):
-    ''' nelson_siegel_params = (theta 1,                  theta 2,                  theta 3,                  lambda)'''            
-    Nelson_siegel_surv_prob_dates = [calc_date + ql.Period (T ,                  ql. Years) for T in range (31)]
-    Nelson_siegel_average_hazard_rates = [nelson_siegel (nelson_siegel_params,                  T) for T in range (31)]
+Def create_nelson_siegel_curve (calc_date,                    nelson_siegel_params):
+    ''' nelson_siegel_params = (theta 1,                    theta 2,                    theta 3,                    lambda)'''            
+    Nelson_siegel_surv_prob_dates = [calc_date + ql.Period (T ,                    ql. Years) for T in range (31)]
+    Nelson_siegel_average_hazard_rates = [nelson_siegel (nelson_siegel_params,                    T) for T in range (31)]
     Nelson_siegel_surv_prob_levels = [np.Exp (-T * nelson_siegel_average_hazard_rates[T]) for T in range (31)]
     
     # cap and floor survival probs
-    Nelson_siegel_surv_prob_levels = [max (min (x,                  1),                  1 e-8) for x in nelson_siegel_surv_prob_levels]
+    Nelson_siegel_surv_prob_levels = [max (min (x,                    1),                    1 e-8) for x in nelson_siegel_surv_prob_levels]
 
     # nelson_siegel_surv_prob_curve
-    Nelson_siegel_credit_curve = ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,                  nelson_siegel_surv_prob_levels,                  ql. Actual 360 (),                  ql.TARGET ())
+    Nelson_siegel_credit_curve = ql.SurvivalProbabilityCurve (nelson_siegel_surv_prob_dates,                    nelson_siegel_surv_prob_levels,                    ql. Actual 360 (),                    ql.TARGET ())
     Nelson_siegel_credit_curve.EnableExtrapolation ()
     Nelson_siegel_credit_curve_handle = ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)
     
     Return (nelson_siegel_credit_curve_handle)
 
 
-Def calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,                  
-                      Calc_date,                  
-                      Fixed_rate_bond_objects,                  
-                      Tsy_yield_curve_handle,                  
+Def calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,                    
+                      Calc_date,                    
+                      Fixed_rate_bond_objects,                    
+                      Tsy_yield_curve_handle,                    
                       Bond_recovery_rate = 0.4):
     
     # nelson_siegel_surv_prob_curve_handle
-    Nelson_siegel_surv_prob_curve_handle = create_nelson_siegel_curve (calc_date,                  nelson_siegel_params)
+    Nelson_siegel_surv_prob_curve_handle = create_nelson_siegel_curve (calc_date,                    nelson_siegel_params)
     
     # nelson_siegel_risky_bond_engine
-    Nelson_siegel_risky_bond_engine = ql.RiskyBondEngine (nelson_siegel_surv_prob_curve_handle,                  bond_recovery_rate,                  tsy_yield_curve_handle)
+    Nelson_siegel_risky_bond_engine = ql.RiskyBondEngine (nelson_siegel_surv_prob_curve_handle,                    bond_recovery_rate,                    tsy_yield_curve_handle)
     
     Bond_model_prices = []
     Bond_model_yields = []
@@ -9872,26 +9872,26 @@ Def calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,
         Fixed_rate_bond.SetPricingEngine (nelson_siegel_risky_bond_engine)
         
         Bond_price = fixed_rate_bond.CleanPrice ()                
-        Bond_yield = fixed_rate_bond.BondYield (bond_price,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100
+        Bond_yield = fixed_rate_bond.BondYield (bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
         
         Bond_model_prices.Append (bond_price)
         Bond_model_yields.Append (bond_yield)
     
-    Return (bond_model_prices,                  bond_model_yields)
+    Return (bond_model_prices,                    bond_model_yields)
 
-Def nelson_siegel_sse (nelson_siegel_params,                  
-                      Calc_date,                  
-                      Fixed_rate_bond_objects,                  
-                      Market_prices,                  
-                      Calib_weights,                 
-                      Tsy_yield_curve_handle,                  
+Def nelson_siegel_sse (nelson_siegel_params,                    
+                      Calc_date,                    
+                      Fixed_rate_bond_objects,                    
+                      Market_prices,                    
+                      Calib_weights,                   
+                      Tsy_yield_curve_handle,                    
                       Bond_recovery_rate = 0.4):
     
     # bond_model_prices
-    Bond_model_prices,                  bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,                  
-                      Calc_date,                  
-                      Fixed_rate_bond_objects,                  
-                      Tsy_yield_curve_handle,                  
+    Bond_model_prices,                    bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,                    
+                      Calc_date,                    
+                      Fixed_rate_bond_objects,                    
+                      Tsy_yield_curve_handle,                    
                       Bond_recovery_rate)
     # sse    
     Sse = 0
@@ -9903,7 +9903,7 @@ Def nelson_siegel_sse (nelson_siegel_params,
     Return (sse)    
 
 
-Def create_bonds_and_weights (bond_details,                  tsy_yield_curve_handle):
+Def create_bonds_and_weights (bond_details,                    tsy_yield_curve_handle):
     
     # risk_free_bond_engine
     Risk_free_bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_handle)
@@ -9915,16 +9915,16 @@ Def create_bonds_and_weights (bond_details,                  tsy_yield_curve_han
     Bond_DV 01 s = []    
     Bond_durations = []    
     
-    For index,                  row in bond_details.Iterrows ():
+    For index,                    row in bond_details.Iterrows ():
         Fixed_rate_bond = create_bond_from_symbology (row)
         Fixed_rate_bond.SetPricingEngine (risk_free_bond_engine)
         
         Fixed_rate_bond_objects.Append (fixed_rate_bond)
         
         Bond_price = row['midPrice']                
-        Bond_yield = fixed_rate_bond.BondYield (bond_price,                  ql. Thirty 360 (ql. Thirty 360. USA),                  ql. Compounded,                  ql. Semiannual) * 100
-        Bond_yield_rate = ql.InterestRate (bond_yield/100,                  ql.ActualActual (ql. ActualActual. ISMA),                  ql. Compounded,                  ql. Semiannual)
-        Bond_duration = ql.BondFunctions.Duration (fixed_rate_bond,                  bond_yield_rate)
+        Bond_yield = fixed_rate_bond.BondYield (bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
+        Bond_yield_rate = ql.InterestRate (bond_yield/100,                    ql.ActualActual (ql. ActualActual. ISMA),                    ql. Compounded,                    ql. Semiannual)
+        Bond_duration = ql.BondFunctions.Duration (fixed_rate_bond,                    bond_yield_rate)
         Bond_DV 01   = fixed_rate_bond.DirtyPrice () * bond_duration
         
         Bond_market_prices.Append (bond_price)
@@ -9937,7 +9937,7 @@ Def create_bonds_and_weights (bond_details,                  tsy_yield_curve_han
     Sum_calib_weights = sum (calib_weights)
     Calib_weights = [x / sum_calib_weights for x in calib_weights]
     
-    Return (fixed_rate_bond_objects,                  calib_weights,                  bond_market_prices,                  bond_yields,                  bond_DV 01 s,                  bond_durations)
+    Return (fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations)
 
 ```
 
@@ -9947,26 +9947,26 @@ Def create_bonds_and_weights (bond_details,                  tsy_yield_curve_han
 Bond_recovery_rate = 0.4
 
 # Initial_nelson_siegel_params
-Initial_nelson_siegel_params = [0.03,                  -0.01,                  0.02,                  5.0]
-Print ('initial_nelson_siegel_params: ',                  initial_nelson_siegel_params)
+Initial_nelson_siegel_params = [0.03,                    -0.01,                    0.02,                    5.0]
+Print ('initial_nelson_siegel_params: ',                    initial_nelson_siegel_params)
 
-Fixed_rate_bond_objects,                  calib_weights,                  bond_market_prices,                  bond_yields,                  bond_DV 01 s,                  bond_durations = create_bonds_and_weights (vz_df,                  tsy_yield_curve_handle)
+Fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations = create_bonds_and_weights (vz_df,                    tsy_yield_curve_handle)
 Vz_df['duration'] = bond_durations
 Vz_df['calib_weight'] = calib_weights
 
-Init_bond_model_prices,                  init_bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (initial_nelson_siegel_params,                  calc_date,                  fixed_rate_bond_objects,                  tsy_yield_curve_handle,                  bond_recovery_rate)
+Init_bond_model_prices,                    init_bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (initial_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    tsy_yield_curve_handle,                    bond_recovery_rate)
 Vz_df['initModelPrice'] = init_bond_model_prices
 Vz_df['initModelYield'] = init_bond_model_yields
 
-display (vz_df [['security',                  'midPrice',                  'initModelPrice',                  'calib_weight']]. head ())
+display (vz_df [['security',                    'midPrice',                    'initModelPrice',                    'calib_weight']]. head ())
 
 # Initial_sse
-Initial_sse = nelson_siegel_sse (initial_nelson_siegel_params,                  calc_date,                  fixed_rate_bond_objects,                  bond_market_prices,                  calib_weights,                  tsy_yield_curve_handle,                  bond_recovery_rate)
-Print ('initial_sse =',                  initial_sse)
+Initial_sse = nelson_siegel_sse (initial_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    bond_market_prices,                    calib_weights,                    tsy_yield_curve_handle,                    bond_recovery_rate)
+Print ('initial_sse =',                    initial_sse)
 
 ```
 
-    Initial_nelson_siegel_params: [0.03,                  -0.01,                  0.02,                  5.0]
+    Initial_nelson_siegel_params: [0.03,                    -0.01,                    0.02,                    5.0]
 
 
 
@@ -10050,25 +10050,25 @@ Create the calibrated/smooth credit curve corresponding to the optimal model par
 ```python
 From scipy. Optimize import minimize
 
-Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,                 
-                                  Calc_date,                  
-                                  Bond_details,                  
-                                  Tsy_yield_curve_handle,                  
+Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,                   
+                                  Calc_date,                    
+                                  Bond_details,                    
+                                  Tsy_yield_curve_handle,                    
                                   Bond_recovery_rate = 0.4):
     # create_bonds_and_weights
-    Fixed_rate_bond_objects,                  calib_weights,                  bond_market_prices,                  bond_yields,                  bond_DV 01 s,                  bond_durations = create_bonds_and_weights (bond_details,                  tsy_yield_curve_handle)
+    Fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations = create_bonds_and_weights (bond_details,                    tsy_yield_curve_handle)
     
     # start calibration
-    Param_bounds = [(1 e-3,                  0.1),                  (-0.1,                  0.1),                  (-0.1,                  0.1),                  (1 e-3,                  10)]
+    Param_bounds = [(1 e-3,                    0.1),                    (-0.1,                    0.1),                    (-0.1,                    0.1),                    (1 e-3,                    10)]
             
-    Calib_results = minimize (nelson_siegel_sse,                 
-                                            Initial_nelson_siegel_params,                  
-                                            Args = (calc_date,                  
-                                                    Fixed_rate_bond_objects,                  
-                                                    Bond_market_prices,                  
-                                                    Calib_weights,                 
-                                                    Tsy_yield_curve_handle,                  
-                                                    Bond_recovery_rate),                 
+    Calib_results = minimize (nelson_siegel_sse,                   
+                                            Initial_nelson_siegel_params,                    
+                                            Args = (calc_date,                    
+                                                    Fixed_rate_bond_objects,                    
+                                                    Bond_market_prices,                    
+                                                    Calib_weights,                   
+                                                    Tsy_yield_curve_handle,                    
+                                                    Bond_recovery_rate),                   
                                             Bounds = param_bounds)
 
 
@@ -10080,19 +10080,19 @@ Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,
 
 ```python
 # Calibrate_nelson_siegel_model
-Calib_results = calibrate_nelson_siegel_model (initial_nelson_siegel_params,                  calc_date,                  vz_df,                  tsy_yield_curve_handle,                  bond_recovery_rate)
+Calib_results = calibrate_nelson_siegel_model (initial_nelson_siegel_params,                    calc_date,                    vz_df,                    tsy_yield_curve_handle,                    bond_recovery_rate)
 Print (calib_results)
     
 # Calib_nelson_siegel_params
 Calib_nelson_siegel_params = calib_results. X
-Print ('calib_nelson_siegel_params: ',                  calib_nelson_siegel_params)
+Print ('calib_nelson_siegel_params: ',                    calib_nelson_siegel_params)
 
 # Calib_nelson_siegel_curve
-Calib_nelson_siegel_curve = create_nelson_siegel_curve (calc_date,                  calib_nelson_siegel_params)
+Calib_nelson_siegel_curve = create_nelson_siegel_curve (calc_date,                    calib_nelson_siegel_params)
 
 # Calib_sse
-Calib_sse = nelson_siegel_sse (calib_nelson_siegel_params,                  calc_date,                  fixed_rate_bond_objects,                  bond_market_prices,                  calib_weights,                  tsy_yield_curve_handle,                  bond_recovery_rate)
-Print ('initial_sse =',                  round (initial_sse,                  3),                  'calib_sse =',                  round (calib_sse,                  3))
+Calib_sse = nelson_siegel_sse (calib_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    bond_market_prices,                    calib_weights,                    tsy_yield_curve_handle,                    bond_recovery_rate)
+Print ('initial_sse =',                    round (initial_sse,                    3),                    'calib_sse =',                    round (calib_sse,                    3))
 
 ```
 
@@ -10110,7 +10110,7 @@ Print ('initial_sse =',                  round (initial_sse,                  3)
     Initial_sse = 25.592 calib_sse = 0.21
 
 
-## d. Compute smooth model prices,                  yields and "edges"
+## d. Compute smooth model prices,                    yields and "edges"
 
 Price all Verizon bonds on the calibrated credit curve and compute the corresponding model yields and edges.
 
@@ -10123,15 +10123,15 @@ Add following columns to the dataframe and display the head of the results:
 
 ```python
 # Price all Verizon bonds on the calibrated credit curve and compute the corresponding yields.
-Bond_model_prices,                  bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,                  calc_date,                  fixed_rate_bond_objects,                  tsy_yield_curve_handle,                  bond_recovery_rate)
+Bond_model_prices,                    bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    tsy_yield_curve_handle,                    bond_recovery_rate)
 
 Vz_df['modelPrice'] = bond_model_prices
 Vz_df['modelYield'] = bond_model_yields
 Vz_df['edgePrice'] = vz_df['modelPrice'] - vz_df['midPrice']
 Vz_df['edgeYield'] = vz_df['modelYield'] - vz_df['midYield']
 
-display (vz_df [['security',                  'midPrice',                 'initModelPrice',                  'modelPrice',                  'edgePrice']]. head ())
-display (vz_df [['security',                  'midYield',                 'initModelYield',                  'modelYield',                  'edgeYield']]. head ())
+display (vz_df [['security',                    'midPrice',                   'initModelPrice',                    'modelPrice',                    'edgePrice']]. head ())
+display (vz_df [['security',                    'midYield',                   'initModelYield',                    'modelYield',                    'edgeYield']]. head ())
 ```
 
 
@@ -10291,7 +10291,7 @@ What do you think about the quality of the model fit?
 
 ```python
 # Plot the model vs market prices (Y-axis) by maturity (X-axis).
-Plt = vz_df.Plot (x='maturity',                  y = ['midPrice',                  'modelPrice'],                  figsize = (12,                  6),                  title = "Market vs Model Prices",                  grid=True,                  style='*')
+Plt = vz_df.Plot (x='maturity',                    y = ['midPrice',                    'modelPrice'],                    figsize = (12,                    6),                    title = "Market vs Model Prices",                    grid=True,                    style='*')
 Plt. Set_ylabel ('Bond Prices (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
@@ -10300,7 +10300,7 @@ Plt. Set_xlabel ('Bond Maturity')
 
 
 
-    Text (0.5,                  0,                  'Bond Maturity')
+    Text (0.5,                    0,                    'Bond Maturity')
 
 
 
@@ -10313,7 +10313,7 @@ Plt. Set_xlabel ('Bond Maturity')
 
 ```python
 # Plot the model vs market yields (Y-axis) by maturity (X-axis).
-Plt = vz_df.Plot (x='maturity',                  y = ['midYield',                  'modelYield'],                  figsize = (12,                  6),                  title = "Market vs Model Yields (pct)",                  grid=True,                  style='*')
+Plt = vz_df.Plot (x='maturity',                    y = ['midYield',                    'modelYield'],                    figsize = (12,                    6),                    title = "Market vs Model Yields (pct)",                    grid=True,                    style='*')
 Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
@@ -10322,7 +10322,7 @@ Plt. Set_xlabel ('Bond Maturity')
 
 
 
-    Text (0.5,                  0,                  'Bond Maturity')
+    Text (0.5,                    0,                    'Bond Maturity')
 
 
 
@@ -10335,8 +10335,8 @@ Plt. Set_xlabel ('Bond Maturity')
 
 ```python
 # Plot the edges in yield space (Y-axis) by maturity (X-axis).
-Plt = vz_df.Plot (x='maturity',                  y = ['edgeYield'],                  figsize = (12,                  6),                  title = "Model Edges in yield space (pct)",                  grid=True,                  style='*')
-Plt.Axhline (0,                  color='red',                  linestyle='--',                  alpha=0.7)
+Plt = vz_df.Plot (x='maturity',                    y = ['edgeYield'],                    figsize = (12,                    6),                    title = "Model Edges in yield space (pct)",                    grid=True,                    style='*')
+Plt.Axhline (0,                    color='red',                    linestyle='--',                    alpha=0.7)
 Plt. Set_ylabel ('Yield Edge (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
@@ -10345,7 +10345,7 @@ Plt. Set_xlabel ('Bond Maturity')
 
 
 
-    Text (0.5,                  0,                  'Bond Maturity')
+    Text (0.5,                    0,                    'Bond Maturity')
 
 
 
@@ -10356,4 +10356,4 @@ Plt. Set_xlabel ('Bond Maturity')
 
 
 ### What do you think about the quality of the model fit?
-Model fit looks good,                  given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 Nelson-Siegel model parameters.
+Model fit looks good,                    given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 Nelson-Siegel model parameters.
