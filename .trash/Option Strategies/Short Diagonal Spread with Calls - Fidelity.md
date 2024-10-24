@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_221_Short Diagonal Spread with Calls - Fidelity.md
+- Alias_222_Short Diagonal Spread with Calls - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:12 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-diagonal-spread-calls
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT DIAGONAL SPREAD WITH CALLS - FIDELITY
 

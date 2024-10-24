@@ -1,8 +1,15 @@
 ---
-title: Binomial Trees and Option Pricing MBA
-aliases: [BINOMIAL TREES AND OPTION PRICING MBA]
+aliases:
+- BINOMIAL TREES AND OPTION PRICING MBA
+- Alias_189_Binomial Trees and Option Pricing MBA.md
+- Alias_188_Binomial Trees and Option Pricing MBA.md
 linter-yaml-title-alias: BINOMIAL TREES AND OPTION PRICING MBA
+tags:
+- tag_example
+title: Binomial Trees and Option Pricing MBA
 ---
+
+
 
 # Binomial Trees and Option Pricing MBA
 ## 1. BINOMIAL TREES IN PHARMACEUTICALS

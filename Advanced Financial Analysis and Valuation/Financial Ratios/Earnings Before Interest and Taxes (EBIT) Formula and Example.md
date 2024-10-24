@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_306_Earnings Before Interest and Taxes (EBIT) Formula and Example.md
+- Alias_309_Earnings Before Interest and Taxes (EBIT) Formula and Example.md
+tags:
+- tag_example
 title: Earnings Before Interest and Taxes (EBIT) Formula and Example
 ---
+
+
 
 # Earnings Before Interest and Taxes (EBIT) Formula and Example
 ## WHAT IS EARNINGS BEFORE INTEREST AND TAXES (EBIT)?

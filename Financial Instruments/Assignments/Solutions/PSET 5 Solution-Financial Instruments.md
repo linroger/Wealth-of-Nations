@@ -1,8 +1,15 @@
 ---
-title: PSET 5 Financial Instruments
-aliases: [PSET 5 Financial Instruments]
+aliases:
+- PSET 5 Financial Instruments
+- Alias_157_PSET 5 Solution-Financial Instruments.md
+- Alias_158_PSET 5 Solution-Financial Instruments.md
 linter-yaml-title-alias: PSET 5 Financial Instruments
+tags:
+- tag_example
+title: PSET 5 Financial Instruments
 ---
+
+
 
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments

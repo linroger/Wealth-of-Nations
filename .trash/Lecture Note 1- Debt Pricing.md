@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_196_Lecture Note 1- Debt Pricing.md
+- Alias_195_Lecture Note 1- Debt Pricing.md
+tags:
+- tag_example
 title: Lecture Note 1Debt Pricing
 ---
+
+
 
 # Lecture Note 1- Debt Pricing
 

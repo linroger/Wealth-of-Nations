@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_327_Week 1 Market Efficiency.md
+- Alias_324_Week 1 Market Efficiency.md
+tags:
+- tag_example
+---
+
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 [Week 1 Introduction](Zhe/Week%201/Week%201%20Introduction.md)

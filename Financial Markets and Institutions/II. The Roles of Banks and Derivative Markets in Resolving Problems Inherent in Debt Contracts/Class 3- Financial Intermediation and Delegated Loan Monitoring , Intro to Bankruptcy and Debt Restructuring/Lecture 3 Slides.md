@@ -1,8 +1,17 @@
 ---
-title: Direct Finance Without Monitoring
-aliases: [Direct Finance Without Monitoring]
+aliases:
+- Direct Finance Without Monitoring
+- Alias_26_Lecture 3 Slides.md
+- Example_Alias_Lecture 3 Slides
 linter-yaml-title-alias: Direct Finance Without Monitoring
+tags:
+- tag_example
+- example_tag
+title: Direct Finance Without Monitoring
 ---
+
+
+
 
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1
 

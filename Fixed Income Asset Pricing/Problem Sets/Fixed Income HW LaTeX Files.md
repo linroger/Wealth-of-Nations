@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_360_Fixed Income HW LaTeX Files.md
+- Alias_363_Fixed Income HW LaTeX Files.md
+tags:
+- tag_example
 title: Fixed Income HW LaTeX Files
 ---
+
+
 # Fixed Income HW LaTeX Files
 ### HW 1
 

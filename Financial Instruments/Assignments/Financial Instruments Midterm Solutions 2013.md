@@ -1,8 +1,15 @@
 ---
-title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-aliases: [FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS]
+aliases:
+- FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+- Alias_147_Financial Instruments Midterm Solutions 2013.md
+- Alias_148_Financial Instruments Midterm Solutions 2013.md
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+tags:
+- tag_example
+title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 ---
+
+
 
 ---
 

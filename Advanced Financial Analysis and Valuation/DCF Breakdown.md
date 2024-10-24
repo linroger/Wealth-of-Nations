@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_286_DCF Breakdown.md
+- Alias_289_DCF Breakdown.md
+tags:
+- tag_example
+---
+
 # DCF BREAKDOWN
 
 ### 1. PREPARATION AND ASSUMPTIONS

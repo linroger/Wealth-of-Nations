@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_293_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
+- Alias_296_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
+tags:
+- tag_example
 title: HBS Citigroup 2007-Financial Reporting And Regulatory Capital
 ---
+
+
 ## CITIGROUP 2007: FINANCIAL REPORTING AND REGULATORY CAPITAL
 
 In early 2008, Jake Merando was trying to understand the implications of the deepening U.S. housing crisis for the financial health of Citigroup, one of the world's largest banks.  Merando, a banking analyst at an investment firm, was considering Citigroup's future as the financial crisis continued.  The fourth quarter of 2007 was shaping up to be the worst in Citigroup's 196-year history (see **Exhibit 1**), and tremendous uncertainty surrounded both the firm and the industry.

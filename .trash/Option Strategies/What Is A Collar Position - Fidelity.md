@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_245_What Is A Collar Position - Fidelity.md
+- Alias_246_What Is A Collar Position - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:51:50 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/collar
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # WHAT IS A COLLAR POSITION? - FIDELITY
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_227_Covered Strangle - Fidelity.md
+- Alias_228_Covered Strangle - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:09 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/covered-strangle
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # COVERED STRANGLE - FIDELITY
 

@@ -1,3 +1,14 @@
+---
+aliases:
+- Alias_0_AppleJobTrialSourceCode.md
+- Example_Alias_AppleJobTrialSourceCode
+tags:
+- tag_example
+- example_tag
+---
+
+
+
 # AppleJobTrialSourceCode
 #### 1. ContentView.swift
 ```

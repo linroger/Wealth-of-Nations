@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_361_Fixed Income HW Assignments.md
+- Alias_358_Fixed Income HW Assignments.md
+tags:
+- tag_example
 title: Fixed Income HW Assignments
 ---
+
+
 
 # Fixed Income HW Assignments
 ### HW 1

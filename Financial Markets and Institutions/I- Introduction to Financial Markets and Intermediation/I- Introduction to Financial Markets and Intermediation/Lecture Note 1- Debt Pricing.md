@@ -1,8 +1,17 @@
 ---
-title: Lecture Note 1Debt Pricing
-aliases: [Debt Pricing]
+aliases:
+- Debt Pricing
+- Alias_102_Lecture Note 1- Debt Pricing.md
+- Example_Alias_Lecture Note 1- Debt Pricing
 linter-yaml-title-alias: Debt Pricing
+tags:
+- tag_example
+- example_tag
+title: Lecture Note 1Debt Pricing
 ---
+
+
+
 
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**
 - Strategic effects of debt. How much is too much? - Bankruptcy & Reorganization: bargaining and strategy. - Debt contract renegotiation. - Debt exchange offers when bankruptcy is the alternative - Distressed Debt Investing (especially during a financial crisis). - Capital structure is more than debt versus equity: it is a choice of source of funds: who holds and enforces the terms of securities that a firm issues.

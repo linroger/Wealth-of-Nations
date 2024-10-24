@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_297_PSET 5- Pharmaceuticals And Intangibles In Valuation.md
+- Alias_294_PSET 5- Pharmaceuticals And Intangibles In Valuation.md
+tags:
+- tag_example
+---
+
 # PSET 5 PHARMACEUTICALS AND INTANGIBLES IN VALUATION
 
 ### CASE: *MEDFIELD PHARMACEUTICALS (DARDEN)*

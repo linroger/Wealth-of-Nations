@@ -1,8 +1,15 @@
 ---
-aliases: ["**TREASURY BOND FUTURES CONTRACT**"]
-title: "**TREASURY BOND FUTURES CONTRACT**"
-linter-yaml-title-alias: "**TREASURY BOND FUTURES CONTRACT**"
+aliases:
+- Alias_272_Treasury Futures.md
+- '**TREASURY BOND FUTURES CONTRACT**'
+- Alias_269_Treasury Futures.md
+linter-yaml-title-alias: '**TREASURY BOND FUTURES CONTRACT**'
+tags:
+- tag_example
+title: '**TREASURY BOND FUTURES CONTRACT**'
 ---
+
+
 # **TREASURY BOND FUTURES CONTRACT**
 
 - The Treasury bond (T-bond) futures contract is the most successful interest rate futures contract, traded on the Chicago Mercantile Exchange (CME).

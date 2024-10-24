@@ -1,6 +1,16 @@
 ---
+aliases:
+- Alias_40_Runs and Interventions in the Time of Covid 19 Evidence From Money Funds.md
+- Example_Alias_Runs and Interventions in the Time of Covid 19 Evidence From Money
+  Funds
+tags:
+- tag_example
+- example_tag
 title: Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
 ---
+
+
+
 
 # Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
 

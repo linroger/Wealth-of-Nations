@@ -1,8 +1,15 @@
 ---
-title: 4.1.1 $\textbf{CASH FLOW EXPECTATIONS}$
-aliases: [4.1.1 $\textbf{CASH FLOW EXPECTATIONS}$, 4.1.1 CASH FLOW EXPECTATIONS$, Cash flow expectations]
+aliases:
+- 411 textbfCASH FLOW EXPECTATIONS
+- Cash flow expectations
+- 411 CASH FLOW EXPECTATIONS
+- Alias_250_Week 4-Advanced Investments.md
 linter-yaml-title-alias: 4.1.1 $\textbf{CASH FLOW EXPECTATIONS}$
+tags:
+- tag_example
+title: 4.1.1 $\textbf{CASH FLOW EXPECTATIONS}$
 ---
+
 
 Lecture 4
 

@@ -1,8 +1,15 @@
 ---
-title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
-aliases: [LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES]
+aliases:
+- LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
+- Alias_183_Teaching Note 4-Multiperiod Binomial Trees.md
+- Alias_184_Teaching Note 4-Multiperiod Binomial Trees.md
 linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
+tags:
+- tag_example
+title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 ---
+
+
 
 # LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 

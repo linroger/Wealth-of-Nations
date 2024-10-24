@@ -1,6 +1,16 @@
 ---
+aliases:
+- Alias_2_HomeMax Case Study Solution.md
+- Example_Alias_HomeMax Case Study Solution
+tags:
+- tag_example
+- example_tag
 title: HomeMax Case Study Solution
 ---
+
+
+
+
 
 # HomeMax Case Study Solution
 

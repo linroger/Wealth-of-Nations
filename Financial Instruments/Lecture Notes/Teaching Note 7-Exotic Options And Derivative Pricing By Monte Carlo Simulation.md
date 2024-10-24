@@ -1,8 +1,18 @@
 ---
+aliases:
+- Alias_162_Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md
+- Teaching Note 7 Exotic Options and Derivative Pricing by Monte Carlo Simulation
+- Teaching Note 7Exotic Options and Derivative Pricing by Monte Carlo Simulation
+- LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
+- Alias_161_Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md
+linter-yaml-title-alias: Teaching Note 7 Exotic Options and Derivative Pricing by
+  Monte Carlo Simulation
+tags:
+- tag_example
 title: Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation
-aliases: [Teaching Note 7 Exotic Options and Derivative Pricing by Monte Carlo Simulation,  Teaching Note 7Exotic Options and Derivative Pricing by Monte Carlo Simulation,  LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
-linter-yaml-title-alias: Teaching Note 7 Exotic Options and Derivative Pricing by Monte Carlo Simulation
 ---
+
+
 
 # Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation
 

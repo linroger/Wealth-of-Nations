@@ -1,8 +1,17 @@
 ---
-title: Note On LBO Capital Structure Module Note
-aliases: [Note On LBO Capital Structure]
+aliases:
+- Note On LBO Capital Structure
+- Example_Alias_Note On LBO Capital Structure Module Note
+- Alias_8_Note On LBO Capital Structure Module Note.md
 linter-yaml-title-alias: Note On LBO Capital Structure
+tags:
+- tag_example
+- example_tag
+title: Note On LBO Capital Structure Module Note
 ---
+
+
+
 
 # Note On LBO Capital Structure Module Note
 

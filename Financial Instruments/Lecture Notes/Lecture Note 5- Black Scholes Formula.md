@@ -1,8 +1,15 @@
 ---
-title: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-aliases: [LECTURE NOTE 5 BLACK SCHOLES FORMULA]
+aliases:
+- Alias_166_Lecture Note 5- Black Scholes Formula.md
+- LECTURE NOTE 5 BLACK SCHOLES FORMULA
+- Alias_165_Lecture Note 5- Black Scholes Formula.md
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
+tags:
+- tag_example
+title: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 ---
+
+
 
 ---
 

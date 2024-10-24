@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_338_Credit Markets Session 4.md
+- Alias_335_Credit Markets Session 4.md
+tags:
+- tag_example
 title: Credit Markets Session 4
 ---
+
+
 
 # Credit Markets Session 4
 ## CALIBRATION AND MODEL PRICES

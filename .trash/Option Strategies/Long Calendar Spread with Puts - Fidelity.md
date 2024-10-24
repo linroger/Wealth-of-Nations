@@ -1,10 +1,16 @@
 ---
+aliases:
+- Alias_242_Long Calendar Spread with Puts - Fidelity.md
+- Alias_243_Long Calendar Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:36 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/long-calendar-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 title: Long Calendar Spread with Puts - Fidelity
 ---
+
+
 
 # Long Calendar Spread with Puts - Fidelity
 

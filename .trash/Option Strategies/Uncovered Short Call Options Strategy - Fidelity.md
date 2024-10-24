@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_231_Uncovered Short Call Options Strategy - Fidelity.md
+- Alias_232_Uncovered Short Call Options Strategy - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:53:29 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/shortcall-uncovered
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # UNCOVERED SHORT CALL OPTIONS STRATEGY - FIDELITY
 

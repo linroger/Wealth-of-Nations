@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_150_PSET 3 Solution-Financial Instruments.md
+- Alias_151_PSET 3 Solution-Financial Instruments.md
+tags:
+- tag_example
 title: PSET 3 Solution-Financial Instruments
 ---
+
+
 
 ---
 

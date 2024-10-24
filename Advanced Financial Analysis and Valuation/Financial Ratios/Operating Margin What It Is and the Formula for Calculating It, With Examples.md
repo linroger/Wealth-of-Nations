@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_305_Operating Margin What It Is and the Formula for Calculating It, With Examples.md
+- Alias_308_Operating Margin What It Is and the Formula for Calculating It, With Examples.md
+tags:
+- tag_example
+---
+
 ## WHAT IS OPERATING MARGIN?
 
 The operating margin measures how much profit a company makes on a dollar of sales after paying for variable costs of production, such as wages and raw materials, but before paying interest or tax. It is calculated by dividing a company’s operating income by its net sales. Higher ratios are generally better, illustrating the company is efficient in its operations and is good at turning sales into profits. 

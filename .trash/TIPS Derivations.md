@@ -1,10 +1,16 @@
 ---
-title: TIPS
-aliases:
-  - TIPS
-linter-yaml-title-alias: TIPS
 alias: TIPS
+aliases:
+- Alias_198_TIPS Derivations.md
+- TIPS
+- Alias_197_TIPS Derivations.md
+linter-yaml-title-alias: TIPS
+tags:
+- tag_example
+title: TIPS
 ---
+
+
 
 # TIPS Derivations
 ## INDEX RATIO

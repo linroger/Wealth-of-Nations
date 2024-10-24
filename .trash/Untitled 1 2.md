@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_212_Untitled 1 2.md
+- Alias_213_Untitled 1 2.md
+tags:
+- tag_example
 title: Untitled 1
 ---
+
+
 
 # Untitled 1
 ### LaTeX for Bond Market Prices EOD ###

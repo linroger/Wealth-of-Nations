@@ -1,8 +1,16 @@
 ---
-aliases: [LR EXCHANGE RATE DETERMINATION NOTES, Exchange Rate Determination]
-title: LR EXCHANGE RATE DETERMINATION NOTES
+aliases:
+- LR EXCHANGE RATE DETERMINATION NOTES
+- Alias_268_LR Exchange Rate Determination Notes.md
+- Alias_265_LR Exchange Rate Determination Notes.md
+- Exchange Rate Determination
 linter-yaml-title-alias: LR EXCHANGE RATE DETERMINATION NOTES
+tags:
+- tag_example
+title: LR EXCHANGE RATE DETERMINATION NOTES
 ---
+
+
 
 # LR EXCHANGE RATE DETERMINATION NOTES
 ## EXCHANGE-RATE DETERMINATION IN THE LONG RUN

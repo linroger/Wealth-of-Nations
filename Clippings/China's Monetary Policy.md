@@ -1,9 +1,19 @@
 ---
-title: "China's Monetary Policy"
-source: "https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp"
-description: "Here is how the Central Bank of China manages its currency rates and the money supply."
-tags: ["clippings"]
+aliases:
+- Example_Alias_China's Monetary Policy
+- Alias_111_China's Monetary Policy.md
+description: Here is how the Central Bank of China manages its currency rates and
+  the money supply.
+source: https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
+tags:
+- clippings
+- tag_example
+- example_tag
+title: China's Monetary Policy
 ---
+
+
+
 
 # China's Monetary Policy
 

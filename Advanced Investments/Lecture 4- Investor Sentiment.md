@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Lecture 4- Investor Sentiment
+- Alias_118_Lecture 4- Investor Sentiment.md
+tags:
+- tag_example
+- example_tag
 title: Lecture 4Investor Sentiment
 ---
+
+
+
 
 # Lecture 4Investor Sentiment
 

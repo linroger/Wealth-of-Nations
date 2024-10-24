@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_325_Week 7- Cost of Capital Review, Implied Model, Private Firms.md
+- Alias_322_Week 7- Cost of Capital Review, Implied Model, Private Firms.md
+tags:
+- tag_example
+---
+
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## GAME PLAN

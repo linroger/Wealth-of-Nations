@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_262_EuroDollar Futures.md
+- Alias_259_EuroDollar Futures.md
+tags:
+- tag_example
 title: EuroDollar Futures
 ---
+
+
 
 # EuroDollar Futures
 - The Eurodollar contract is based on a$1 million 3-month deposit earning LIBOR (the London Interbank Offer Rate),  which is the average borrowing rate faced by large international London banks. The 1-month LIBOR contract is similar.

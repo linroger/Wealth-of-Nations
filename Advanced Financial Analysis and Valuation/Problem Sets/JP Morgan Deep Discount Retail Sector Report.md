@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_303_JP Morgan Deep Discount Retail Sector Report.md
+- Alias_300_JP Morgan Deep Discount Retail Sector Report.md
+tags:
+- tag_example
+---
+
 # BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 
 On June 12th, we hosted our 1 st Annual Dollar Store Tour in Chicago featuring more than a dozen members of management from Dollar Tree, Dollar General, Family Dollar, and Big Lots. Overall, the tour served as an opportunity to compare/contrast each low-end retailer, while also obtaining a better understanding of the merchandising initiatives underway at each company. Below and enclosed, we have outlined the key takeaways from each stop on the tour and our latest sector update on the dollar space.

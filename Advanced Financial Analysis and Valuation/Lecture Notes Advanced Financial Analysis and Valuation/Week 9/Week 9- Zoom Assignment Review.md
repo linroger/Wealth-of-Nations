@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_322_Week 9- Zoom Assignment Review.md
+- Alias_319_Week 9- Zoom Assignment Review.md
+tags:
+- tag_example
+---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_300_HKS The Banking Industry.md
+- Alias_297_HKS The Banking Industry.md
+tags:
+- tag_example
+---
+
 The Banking Industry Faculty Research Working Paper Series
 
 ## THE BANKING INDUSTRY

@@ -1,8 +1,15 @@
 ---
-title: Assignments
-aliases: [ASSIGNMENTS]
+aliases:
+- ASSIGNMENTS
+- Alias_142_Assignments.md
+- Alias_141_Assignments.md
 linter-yaml-title-alias: ASSIGNMENTS
+tags:
+- tag_example
+title: Assignments
 ---
+
+
 
 ---
 

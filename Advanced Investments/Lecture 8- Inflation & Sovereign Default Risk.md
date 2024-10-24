@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Lecture 8- Inflation & Sovereign Default Risk
+- Alias_119_Lecture 8- Inflation & Sovereign Default Risk.md
+tags:
+- tag_example
+- example_tag
 title: Lecture 8- Inflation & Sovereign Default Risk
 ---
+
+
+
   [Teaching Note 2- Interest Rate Risk Management And Factors](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md)
   
 # Lecture 8- Inflation & Sovereign Default Risk

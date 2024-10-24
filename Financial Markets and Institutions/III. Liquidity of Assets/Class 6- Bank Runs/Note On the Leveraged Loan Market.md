@@ -1,8 +1,17 @@
 ---
-title: Note On The Leveraged Loan Market
-aliases: [Note On The Leveraged Loan Market]
+aliases:
+- Alias_89_Note On the Leveraged Loan Market.md
+- Example_Alias_Note On the Leveraged Loan Market
+- Note On The Leveraged Loan Market
 linter-yaml-title-alias: Note On The Leveraged Loan Market
+tags:
+- tag_example
+- example_tag
+title: Note On The Leveraged Loan Market
 ---
+
+
+
 
 # Note On the Leveraged Loan Market
 

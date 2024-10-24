@@ -1,10 +1,17 @@
 ---
 Owner: RRoger Lin
 URL: https://math.nyu.edu/~kohn/derivative_securities.html
+aliases:
+- DERIVATIVE SECURITIES,   NYU COURANT
+- Alias_207_Derivative Securities, NYU Courant.md
+- Alias_208_Derivative Securities, NYU Courant.md
+linter-yaml-title-alias: DERIVATIVE SECURITIES,   NYU COURANT
+tags:
+- tag_example
 title: Derivative Securities,  NYU Courant
-aliases: ["DERIVATIVE SECURITIES,   NYU COURANT"]
-linter-yaml-title-alias: "DERIVATIVE SECURITIES,   NYU COURANT"
 ---
+
+
 
 # Derivative Securities, NYU Courant
 ## PROFESSOR OF MATHEMATICS

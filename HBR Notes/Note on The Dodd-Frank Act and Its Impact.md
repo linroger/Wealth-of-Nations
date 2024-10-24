@@ -1,8 +1,14 @@
 ---
 Owner: RRoger Lin
+aliases:
+- Alias_131_Note on The Dodd-Frank Act and Its Impact.md
+- Alias_130_Note on The Dodd-Frank Act and Its Impact.md
 tags:
-  - Primers/Notes
+- Primers/Notes
+- tag_example
 ---
+
+
 # The Dodd-Frank Act and Its Impact
 
 On July 21, 2010, President Obama signed into law the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act), one of the most sweeping financial reform bills in the history of the United States. The Dodd-Frank Act, in response to the preceding financial crisis of 2008–09, fundamentally changed the finance industry and greatly affected its biggest players. This technical note gives an overview of the most important parts of the act (and other regulatory reform) and the effect these reforms may have on the country’s largest financial institutions. It is important to note that the Dodd-Frank Act does not necessarily create hard and fast rules but often provides only guidance for regulators to proceed with rulemaking activities.

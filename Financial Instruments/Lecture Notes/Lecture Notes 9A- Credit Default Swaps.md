@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_163_Lecture Notes 9A- Credit Default Swaps.md
+- Alias_162_Lecture Notes 9A- Credit Default Swaps.md
+tags:
+- tag_example
 title: Lecture Notes 9A-Credit Default Swaps
 ---
+
+
 
 # Lecture Notes 9A-Credit Default Swaps
 ### Financial Instruments

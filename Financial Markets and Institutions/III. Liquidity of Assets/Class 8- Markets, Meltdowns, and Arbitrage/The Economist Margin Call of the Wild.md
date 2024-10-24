@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_The Economist Margin Call of the Wild
+- Alias_91_The Economist Margin Call of the Wild.md
+tags:
+- tag_example
+- example_tag
 title: The Economist Margin Call of the Wild
 ---
+
+
+
 
 # The Economist Margin Call of the Wild
 

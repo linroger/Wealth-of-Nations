@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
+- Alias_74_WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
+tags:
+- tag_example
+- example_tag
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 ---
+
+
+
 
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_340_Credit Markets Session 1.md
+- Alias_337_Credit Markets Session 1.md
+tags:
+- tag_example
 title: Credit Markets Session 1
 ---
+
+
 
 # Credit Markets Session 1
 - Course objective: introduce basic concepts on pricing,  trading and portfolio risk management for credit instruments. Discuss credit market segments,  seniority ranks,  instrument types & specs,  quoting conventions,  execution venues and trading protocols

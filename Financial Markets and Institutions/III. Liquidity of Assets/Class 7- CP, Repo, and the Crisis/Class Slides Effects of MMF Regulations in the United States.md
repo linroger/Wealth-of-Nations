@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_48_Class Slides Effects of MMF Regulations in the United States.md
+- Example_Alias_Class Slides Effects of MMF Regulations in the United States
+tags:
+- tag_example
+- example_tag
 title: Class Slides Effects of MMF Regulations in the United States
 ---
+
+
+
 
 # Class Slides Effects of MMF Regulations in the United States
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_238_Long Calendar Spread with Calls - Fidelity.md
+- Alias_239_Long Calendar Spread with Calls - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:30 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/long-calendar-spread-calls
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # LONG CALENDAR SPREAD WITH CALLS - FIDELITY
 

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_211_Untitled 1 3.md
+- Alias_210_Untitled 1 3.md
+tags:
+- tag_example
 title: Risk Neutral Valuation Framework for Credit Default Swaps
 ---
+
+
 
 # Risk Neutral Valuation Framework for Credit Default Swaps
 ## OVERVIEW

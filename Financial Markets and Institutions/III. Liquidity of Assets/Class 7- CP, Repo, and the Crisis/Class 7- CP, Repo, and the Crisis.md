@@ -1,8 +1,17 @@
 ---
+aliases:
+- Example_Alias_Class 7- CP, Repo, and the Crisis
+- Alias_43_Class 7- CP, Repo, and the Crisis.md
+- Class 7CP,  Repo,  and the Crisis
+linter-yaml-title-alias: Class 7CP,  Repo,  and the Crisis
+tags:
+- tag_example
+- example_tag
 title: Class 7CP,  Repo,  and the Crisis
-aliases: ["Class 7CP,  Repo,  and the Crisis"]
-linter-yaml-title-alias: "Class 7CP,  Repo,  and the Crisis"
 ---
+
+
+
 
 # Class 7- CP, Repo, and the Crisis
 

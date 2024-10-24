@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_The Dodd Frank Act and Its Impact
+- Alias_61_The Dodd Frank Act and Its Impact.md
+tags:
+- tag_example
+- example_tag
 title: The Dodd Frank Act and Its Impact
 ---
+
+
+
 
 # The Dodd Frank Act and Its Impact
 

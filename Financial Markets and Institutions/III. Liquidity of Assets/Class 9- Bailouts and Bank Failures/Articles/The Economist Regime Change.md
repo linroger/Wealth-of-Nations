@@ -1,7 +1,16 @@
 ---
+aliases:
+- Example_Alias_The Economist Regime Change
+- Alias_70_The Economist Regime Change.md
 banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
+tags:
+- tag_example
+- example_tag
 title: The Economist Regime Change
 ---
+
+
+
 
 ![](4a643986b2694830401910f31df7403911f5d2ef.avif.png)
 

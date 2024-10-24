@@ -1,8 +1,15 @@
 ---
-title: PSET 4 Solution Financial instruments
-aliases: [PSET 4 Solution Financial instruments]
+aliases:
+- PSET 4 Solution Financial instruments
+- Alias_156_PSET 4 Solution-Financial Instruments.md
+- Alias_155_PSET 4 Solution-Financial Instruments.md
 linter-yaml-title-alias: PSET 4 Solution Financial instruments
+tags:
+- tag_example
+title: PSET 4 Solution Financial instruments
 ---
+
+
 
 ---
 

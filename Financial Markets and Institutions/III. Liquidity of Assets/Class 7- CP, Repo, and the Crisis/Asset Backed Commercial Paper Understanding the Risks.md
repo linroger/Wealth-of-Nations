@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_36_Asset Backed Commercial Paper Understanding the Risks.md
+- Example_Alias_Asset Backed Commercial Paper Understanding the Risks
+tags:
+- tag_example
+- example_tag
 title: Asset Backed Commercial Paper Understanding the Risks
 ---
+
+
+
 
 # Asset Backed Commercial Paper Understanding the Risks
 # Structured Finance Special Report

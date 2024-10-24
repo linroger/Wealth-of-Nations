@@ -1,8 +1,18 @@
 ---
+aliases:
+- Alias_41_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
+- Example_Alias_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
+- Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
+linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
+  Risk Insurance"
+tags:
+- tag_example
+- example_tag
 title: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
-aliases: [Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"]
-linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 ---
+
+
+
 
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 

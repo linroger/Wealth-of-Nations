@@ -1,8 +1,18 @@
 ---
+aliases:
+- Example_Alias_Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information
+- Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION -PRIVATE INFORMATION
+- Alias_75_Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information.md
+linter-yaml-title-alias: Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION -PRIVATE
+  INFORMATION
+tags:
+- tag_example
+- example_tag
 title: Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION -PRIVATE INFORMATION
-aliases: [Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION -PRIVATE INFORMATION]
-linter-yaml-title-alias: Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION -PRIVATE INFORMATION
 ---
+
+
+
 
 # Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information
 ### Class note 9 BID and ASK PRICES WITH ADVERSE SELECTION/PRIVATE INFORMATION

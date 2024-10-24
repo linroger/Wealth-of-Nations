@@ -1,8 +1,15 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
+aliases:
+- Alias_280_Miller Modigliani Theorems.md
+- Alias_283_Miller Modigliani Theorems.md
+tags:
+- Primers/Notes
+- tag_example
 title: Miller Modigliani Theorems
 ---
+
+
 
 **The Miller Modigliani Theorems**
 

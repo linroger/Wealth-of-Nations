@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_374_Teaching Note 1-Introduction To Fixed Income Securities.md
+- Alias_371_Teaching Note 1-Introduction To Fixed Income Securities.md
+tags:
+- tag_example
 title: Teaching Note 1-Introduction To Fixed Income Securities
 ---
+
+
 
 # Teaching Note 1-Introduction To Fixed Income Securities
 

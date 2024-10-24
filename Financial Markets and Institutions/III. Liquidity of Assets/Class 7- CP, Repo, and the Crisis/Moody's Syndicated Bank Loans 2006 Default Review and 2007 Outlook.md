@@ -1,8 +1,17 @@
 ---
-title: "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
-aliases: ["Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"]
-linter-yaml-title-alias: "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
+aliases:
+- Alias_50_Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook.md
+- Example_Alias_Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
+- 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
+linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
+tags:
+- tag_example
+- example_tag
+title: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
 ---
+
+
+
 
 # Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_236_Short Butterfly Spread with Calls - Fidelity.md
+- Alias_235_Short Butterfly Spread with Calls - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:58 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-butterfly-spread-calls
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT BUTTERFLY SPREAD WITH CALLS - FIDELITY
 

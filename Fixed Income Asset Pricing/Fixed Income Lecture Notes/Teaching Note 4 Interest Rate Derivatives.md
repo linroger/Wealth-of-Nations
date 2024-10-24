@@ -1,7 +1,14 @@
 ---
-aliases: [Interest Rate Derivatives]
+aliases:
+- Interest Rate Derivatives
+- Alias_370_Teaching Note 4 Interest Rate Derivatives.md
+- Alias_373_Teaching Note 4 Interest Rate Derivatives.md
+tags:
+- tag_example
 title: Teaching Note 4 Interest Rate Derivatives
 ---
+
+
 # Teaching Note 4 Interest Rate Derivatives
 
 John Heaton

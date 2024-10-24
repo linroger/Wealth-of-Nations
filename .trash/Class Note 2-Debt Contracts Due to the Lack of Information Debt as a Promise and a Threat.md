@@ -1,8 +1,20 @@
 ---
-aliases: ["Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"]
-title: "Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
-linter-yaml-title-alias: "Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
+aliases:
+- Alias_201_Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise
+  and a Threat.md
+- Alias_202_Class Note 2-Debt Contracts Due to the Lack of Information Debt as a Promise
+  and a Threat.md
+- 'Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and
+  a Threat'
+linter-yaml-title-alias: 'Class Note 2-Debt Contracts Due to the Lack of Information:
+  Debt as a Promise and a Threat'
+tags:
+- tag_example
+title: 'Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise
+  and a Threat'
 ---
+
+
 
 # Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat
 

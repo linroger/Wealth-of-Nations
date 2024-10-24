@@ -1,8 +1,15 @@
 ---
-title: 1. American Options
-aliases: [1. American Options]
+aliases:
+- 1. American Options
+- Alias_157_PSET 7 Solution-Financial Instruments.md
+- Alias_156_PSET 7 Solution-Financial Instruments.md
 linter-yaml-title-alias: 1. American Options
+tags:
+- tag_example
+title: 1. American Options
 ---
+
+
 
 ---
 

@@ -1,6 +1,18 @@
 ---
-title: The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
+aliases:
+- Alias_51_The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied
+  Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md
+- Example_Alias_The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied
+  Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
+tags:
+- tag_example
+- example_tag
+title: The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last
+  Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 ---
+
+
+
 
 # The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 

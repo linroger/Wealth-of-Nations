@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Note 13 The LTCM Meltdown
+- Alias_95_Class Note 13 The LTCM Meltdown.md
+tags:
+- tag_example
+- example_tag
 title: Class Note 13 The LTCM Meltdown
 ---
+
+
+
 
 # Class Note 13 The LTCM Meltdown
 

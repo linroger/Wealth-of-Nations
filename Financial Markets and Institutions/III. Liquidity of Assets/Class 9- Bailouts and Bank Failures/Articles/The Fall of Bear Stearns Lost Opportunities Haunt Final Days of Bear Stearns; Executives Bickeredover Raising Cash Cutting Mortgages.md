@@ -1,8 +1,20 @@
 ---
-title: "The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns "
-aliases: ["The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns "]
-linter-yaml-title-alias: "The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns "
+aliases:
+- Example_Alias_The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear
+  Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
+- Alias_73_The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
+  Executives Bickeredover Raising Cash Cutting Mortgages.md
+- 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
+linter-yaml-title-alias: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days
+  of Bear Stearns '
+tags:
+- tag_example
+- example_tag
+title: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 ---
+
+
+
 
 # The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
 

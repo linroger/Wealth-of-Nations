@@ -1,6 +1,15 @@
 ---
-title: Class Note 12 – Commercial Paper
+aliases:
+- "Example_Alias_Class Note 12 \u2013 Commercial Paper"
+- "Alias_39_Class Note 12 \u2013 Commercial Paper.md"
+tags:
+- tag_example
+- example_tag
+title: "Class Note 12 \u2013 Commercial Paper"
 ---
+
+
+
 
 # Class Note 12 – Commercial Paper
 

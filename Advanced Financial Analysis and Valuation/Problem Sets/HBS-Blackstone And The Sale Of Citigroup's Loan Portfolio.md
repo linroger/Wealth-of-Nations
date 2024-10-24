@@ -1,6 +1,13 @@
 ---
-title: "HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio"
+aliases:
+- Alias_302_HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio.md
+- Alias_305_HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio.md
+tags:
+- tag_example
+title: HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio
 ---
+
+
 ## BLACKSTONE AND THE SALE OF CITIGROUP'S LOAN PORTFOLIO
 
 At the end of March 2008, Bennett J. Goodman (HBS'84), a Senior Managing Director at Blackstone, one of the world's largest private equity firms, was reviewing materials for the potential purchase of a $6.11 billion pool of leveraged loans from Citigroup, one of the world's largest banking entities. Most of these loans were used to finance large leveraged buyouts (LBOs) that had been announced in late 2006 and early 2007. In a number of cases, Blackstone had considered making an equity investment. The research and due diligence that Blackstone had performed in the process gave Goodman some degree of confidence that he understood the risks in the loan portfolio. TPG, another large private equity firm that was considering partnering with Blackstone in purchasing the loan pool, had also researched and even participated in many of the LBOs.

@@ -1,9 +1,16 @@
 ---
-title: Forwards and Futures Complete
-aliases: [FORWARDS AND FUTURES COMPLETE]
+aliases:
+- Alias_260_Forwards and Futures Complete.md
+- FORWARDS AND FUTURES COMPLETE
+- Alias_263_Forwards and Futures Complete.md
 linter-yaml-title-alias: FORWARDS AND FUTURES COMPLETE
-tags: [1]
+tags:
+- 1
+- tag_example
+title: Forwards and Futures Complete
 ---
+
+
 
 # Forwards and Futures Complete
 

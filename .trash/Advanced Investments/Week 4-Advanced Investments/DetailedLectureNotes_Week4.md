@@ -1,8 +1,15 @@
 ---
-title: LECTURE 4
-aliases: [LECTURE 4]
+aliases:
+- Alias_249_DetailedLectureNotes_Week4.md
+- LECTURE 4
+- Alias_251_DetailedLectureNotes_Week4.md
 linter-yaml-title-alias: LECTURE 4
+tags:
+- tag_example
+title: LECTURE 4
 ---
+
+
 # LECTURE 4
 
 In the last lecture we discussed that the aggregate valuation of the stock market, as measured by ratios such as the price-dividend or price-earnings ratios, varies strongly over time. And we discussed that a model with time-varying investor sentiment could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.

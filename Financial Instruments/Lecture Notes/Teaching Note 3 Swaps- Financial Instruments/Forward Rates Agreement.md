@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_166_Forward Rates Agreement.md
+- Alias_167_Forward Rates Agreement.md
+tags:
+- tag_example
+---
+
 [Deriving Forward Exchange Rate Numerical Example 1](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example%201.md)
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)
 [Interest Rates, Carry Trades, and Exchange Rate Movements](Asset%20Classes/Derivatives/Forward%20and%20Futures/Forward%20Exchange%20Rate%20Contracts/Foreign%20Exchange%20Notes/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)

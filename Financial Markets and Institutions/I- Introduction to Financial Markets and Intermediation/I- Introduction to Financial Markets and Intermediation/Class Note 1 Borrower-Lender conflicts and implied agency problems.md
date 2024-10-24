@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_104_Class Note 1 Borrower-Lender conflicts and implied agency problems.md
+- Example_Alias_Class Note 1 Borrower-Lender conflicts and implied agency problems
+tags:
+- tag_example
+- example_tag
 title: Class Note 1 Borrower-Lender conflicts and implied agency problems
 ---
+
+
+
 
 # Class Note 1 Borrower-Lender conflicts and implied agency problems
 

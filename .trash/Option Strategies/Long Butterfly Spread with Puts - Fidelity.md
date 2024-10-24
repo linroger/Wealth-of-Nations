@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_234_Long Butterfly Spread with Puts - Fidelity.md
+- Alias_233_Long Butterfly Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:25 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/long-butterfly-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # LONG BUTTERFLY SPREAD WITH PUTS - FIDELITY
 

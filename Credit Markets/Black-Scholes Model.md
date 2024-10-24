@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_342_Black-Scholes Model.md
+- Alias_339_Black-Scholes Model.md
+tags:
+- tag_example
 title: Black-Scholes Model
 ---
+
+
 
 # Black-Scholes Model
 ### Black-Scholes Model

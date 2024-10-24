@@ -1,8 +1,15 @@
 ---
-title: Bad links (111 files)
-aliases: [Bad links (111 files)]
+aliases:
+- Alias_205_consistency-report.md
+- Alias_204_consistency-report.md
+- Bad links (111 files)
 linter-yaml-title-alias: Bad links (111 files)
+tags:
+- tag_example
+title: Bad links (111 files)
 ---
+
+
 
 # Bad links (111 files)
 

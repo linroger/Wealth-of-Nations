@@ -1,9 +1,18 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-aliases: [Bank Liquidity]
+aliases:
+- Example_Alias_A Primer on Bank Liquidity
+- Bank Liquidity
+- Alias_125_A Primer on Bank Liquidity.md
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
 title: A Primer on Bank Liquidity
 ---
+
+
+
 
 # A Primer on Bank Liquidity
 

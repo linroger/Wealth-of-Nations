@@ -1,9 +1,16 @@
 ---
 Owner: RRoger Lin
-tags: [Options]
-aliases: [Options]
+aliases:
+- Alias_260_Options Financial Engineering.md
+- Options
+- Alias_257_Options Financial Engineering.md
+tags:
+- Options
+- tag_example
 title: Options Financial Engineering
 ---
+
+
 
 # Options Financial Engineering
 ## OPTIONS AS INSTRUMENTS OF VOLATILITY

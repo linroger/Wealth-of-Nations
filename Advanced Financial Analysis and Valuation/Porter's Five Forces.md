@@ -1,6 +1,13 @@
 ---
-title: "Porter's Five Forces"
+aliases:
+- Alias_285_Porter's Five Forces.md
+- Alias_288_Porter's Five Forces.md
+tags:
+- tag_example
+title: Porter's Five Forces
 ---
+
+
 
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.
 

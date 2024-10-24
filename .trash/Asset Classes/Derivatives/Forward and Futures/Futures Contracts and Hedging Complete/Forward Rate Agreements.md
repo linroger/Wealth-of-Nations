@@ -1,8 +1,15 @@
 ---
-title: Forward Rate Agreements
-aliases: [FORWARD LOANS]
+aliases:
+- FORWARD LOANS
+- Alias_264_Forward Rate Agreements.md
+- Alias_261_Forward Rate Agreements.md
 linter-yaml-title-alias: FORWARD LOANS
+tags:
+- tag_example
+title: Forward Rate Agreements
 ---
+
+
 
 # Forward Rate Agreements
 ## DEFINITION

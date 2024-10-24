@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_328_Week 6 Assignment Review.md
+- Alias_331_Week 6 Assignment Review.md
+tags:
+- tag_example
 title: Week 6 Assignment Review
 ---
+
+
 
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms

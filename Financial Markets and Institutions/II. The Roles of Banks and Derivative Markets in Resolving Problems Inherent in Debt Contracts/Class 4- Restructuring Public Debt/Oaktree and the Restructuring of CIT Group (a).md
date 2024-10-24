@@ -1,8 +1,17 @@
 ---
-title: Oaktree and the Restructuring of CIT Group (a)
-aliases: [Oaktree And The Restructuring Of Cit Group (A)]
+aliases:
+- Oaktree And The Restructuring Of Cit Group (A)
+- Alias_11_Oaktree and the Restructuring of CIT Group (a).md
+- Example_Alias_Oaktree and the Restructuring of CIT Group (a)
 linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
+tags:
+- tag_example
+- example_tag
+title: Oaktree and the Restructuring of CIT Group (a)
 ---
+
+
+
 
 [Oaktree and the Restructuring of Cit Group (b)](Oaktree%20 and%20 the%20 Restructuring%20 of%20 Cit%20 Group%20 (b). Md)
 [Note On LBO Capital Structure](Note%20On%20LBO%20Capital%20Structure%20Module%20Note.md)

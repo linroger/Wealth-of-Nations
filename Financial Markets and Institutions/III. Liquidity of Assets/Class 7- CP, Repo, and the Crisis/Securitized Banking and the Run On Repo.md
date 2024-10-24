@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Securitized Banking and the Run On Repo
+- Alias_42_Securitized Banking and the Run On Repo.md
+tags:
+- tag_example
+- example_tag
 title: Securitized Banking and the Run On Repo
 ---
+
+
+
 
 # Securitized Banking and the Run On Repo
 

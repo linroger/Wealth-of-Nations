@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_321_Week 7- Kohler Case Assignment Review.md
+- Alias_324_Week 7- Kohler Case Assignment Review.md
+tags:
+- tag_example
+---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

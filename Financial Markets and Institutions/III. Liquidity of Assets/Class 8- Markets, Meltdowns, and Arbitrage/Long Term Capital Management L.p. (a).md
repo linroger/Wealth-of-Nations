@@ -1,8 +1,17 @@
 ---
+aliases:
+- Alias_92_Long Term Capital Management L.p. (a).md
+- Long-Term Capital Management,  L.P. (A)
+- Example_Alias_Long Term Capital Management L
+linter-yaml-title-alias: Long-Term Capital Management,  L.P. (A)
+tags:
+- tag_example
+- example_tag
 title: Long-Term Capital Management,  L.P. (A)
-aliases: ["Long-Term Capital Management,  L.P. (A)"]
-linter-yaml-title-alias: "Long-Term Capital Management,  L.P. (A)"
 ---
+
+
+
 
 # Long Term Capital Management L.p. (a)
 

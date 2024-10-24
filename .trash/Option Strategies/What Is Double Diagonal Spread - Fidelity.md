@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_232_What Is Double Diagonal Spread - Fidelity.md
+- Alias_233_What Is Double Diagonal Spread - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:16 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/double-diagonal-spread
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # WHAT IS DOUBLE DIAGONAL SPREAD? - FIDELITY
 

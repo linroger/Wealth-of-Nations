@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_273_Leveraged Loan Primer.md
+- Alias_270_Leveraged Loan Primer.md
+tags:
+- tag_example
 title: Leveraged Loan Primer
 ---
+
+
 # Leveraged Loan Primer
 
 [DiD](Lecture%2013-%20Difference-In-Differences%20(Part%202%20Of%202).md)# LEVERAGED LOAN PRIMER

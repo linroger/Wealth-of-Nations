@@ -1,8 +1,18 @@
 ---
-aliases: [BINOMIAL TREES AND MONTE CARLO SIMULATIONS, Risk Neutral Pricing, Binomial Tree Pricing, Monte Carlo Pricing]
-title: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
+aliases:
+- Risk Neutral Pricing
+- Binomial Tree Pricing
+- Alias_366_Teaching Note 5 Risk Neutral Pricing.md
+- Alias_369_Teaching Note 5 Risk Neutral Pricing.md
+- Monte Carlo Pricing
+- BINOMIAL TREES AND MONTE CARLO SIMULATIONS
 linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
+tags:
+- tag_example
+title: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
 ---
+
+
 
 # BINOMIAL TREES AND MONTE CARLO SIMULATIONS
 

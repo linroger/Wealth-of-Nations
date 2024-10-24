@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_62_Options For Deposit Insurance Reform.md
+- Example_Alias_Options For Deposit Insurance Reform
+tags:
+- tag_example
+- example_tag
 title: Options For Deposit Insurance Reform
 ---
+
+
+
 # Options For Deposit Insurance Reform
 
 OPTIONS FOR DEPOSIT INSURANCE REFORM

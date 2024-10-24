@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_The Economist Intangible Capitalism
+- Alias_67_The Economist Intangible Capitalism.md
+tags:
+- tag_example
+- example_tag
 title: The Economist Intangible Capitalism
 ---
+
+
+
 
 # The Economist Intangible Capitalism
 # Intangible Capitalism

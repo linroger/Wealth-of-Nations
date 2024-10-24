@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_290_BMW Valuation Multiples.md
+- Alias_287_BMW Valuation Multiples.md
+tags:
+- tag_example
 title: BMW Valuation Multiples
 ---
+
+
 
 # BMW Valuation Multiples
 

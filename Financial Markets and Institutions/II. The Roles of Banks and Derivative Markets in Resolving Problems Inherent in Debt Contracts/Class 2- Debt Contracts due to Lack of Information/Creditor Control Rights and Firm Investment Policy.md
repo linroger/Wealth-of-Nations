@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Creditor Control Rights and Firm Investment Policy
+- Alias_21_Creditor Control Rights and Firm Investment Policy.md
+tags:
+- tag_example
+- example_tag
 title: Creditor Control Rights and Firm Investment Policy
 ---
+
+
+
 
 # Creditor Control Rights and Firm Investment Policy
 

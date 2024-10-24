@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_223_1x2 Ratio Volatility Spread with Puts - Fidelity.md
+- Alias_224_1x2 Ratio Volatility Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:44:17 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/1x2-ratio-volatility-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # 1X2 RATIO VOLATILITY SPREAD WITH PUTS - FIDELITY
 

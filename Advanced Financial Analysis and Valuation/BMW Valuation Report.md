@@ -1,8 +1,15 @@
 ---
+aliases:
+- Alias_281_BMW Valuation Report.md
+- <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
+- Alias_284_BMW Valuation Report.md
+linter-yaml-title-alias: <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
+tags:
+- tag_example
 title: BMW Valuation Report
-aliases: ['<A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT']
-linter-yaml-title-alias: '<A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT'
 ---
+
+
 
 **Executive Summary**
 

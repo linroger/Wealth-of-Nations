@@ -1,8 +1,15 @@
 ---
-title: PSET 2GROUP ASSIGNMENT
-aliases: [PSET 2GROUP ASSIGNMENT]
+aliases:
+- Alias_291_PSET 2- GROUP ASSIGNMENT.md
+- PSET 2GROUP ASSIGNMENT
+- Alias_294_PSET 2- GROUP ASSIGNMENT.md
 linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
+tags:
+- tag_example
+title: PSET 2GROUP ASSIGNMENT
 ---
+
+
 # PSET 2GROUP ASSIGNMENT
 
 **BUSN 30131 85: Advanced Financial Analysis and Valuation**

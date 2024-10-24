@@ -1,9 +1,16 @@
 ---
-title: Week 8-Advanced Investments
-aliases: [8.3 INFLATION RISK AND HEDGING]
+aliases:
+- Alias_250_Week 8-Advanced Investments.md
+- Alias_252_Week 8-Advanced Investments.md
+- 8.3 INFLATION RISK AND HEDGING
+cssclass: academia
 linter-yaml-title-alias: 8.3 INFLATION RISK AND HEDGING
-cssclass: "academia"
+tags:
+- tag_example
+title: Week 8-Advanced Investments
 ---
+
+
 
 So far,  we have discussed portfolio choice in terms of nominal returns. This means we have not taken into account the loss of purchasing power that an investor may experience over time due to inflation. The loss of purchasing power that a long-term investor experiences over time can be substantial even with moderate inflation rates. From a portfolio choice viewpoint,  the key question is whether the risk of such loss of purchasing power can be altered by choosing an appropriate asset mix in the portfolio.
 

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_314_Week 5 Pharmaceuticals and Intangibles in Valuation.md
+- Alias_317_Week 5 Pharmaceuticals and Intangibles in Valuation.md
+tags:
+- tag_example
 title: PHARMA VALUE DRIVERS
 ---
+
+
 
 #### TODAY
 - Health care & pharmaceuticals

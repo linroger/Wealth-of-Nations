@@ -1,3 +1,11 @@
+---
+aliases:
+- "Alias_326_Week 7- Private, Family and Closely\u2010held Firms -Analysis and Valuation.md"
+- "Alias_323_Week 7- Private, Family and Closely\u2010held Firms -Analysis and Valuation.md"
+tags:
+- tag_example
+---
+
 
 
 # TODAY

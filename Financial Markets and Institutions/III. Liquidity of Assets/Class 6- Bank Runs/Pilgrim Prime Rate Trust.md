@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Pilgrim Prime Rate Trust
+- Alias_84_Pilgrim Prime Rate Trust.md
+tags:
+- tag_example
+- example_tag
 title: Pilgrim Prime Rate Trust
 ---
+
+
+
 
 # Pilgrim Prime Rate Trust
 

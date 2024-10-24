@@ -1,9 +1,16 @@
 ---
+aliases:
+- Alias_368_Understanding the Yield Curve- Part 2.md
+- Alias_365_Understanding the Yield Curve- Part 2.md
+- Market's Rate Expectations and Forward rates
+linter-yaml-title-alias: Market's Rate Expectations and Forward rates
+tags:
+- tag_example
+- 5031
 title: Understanding the Yield CurvePart 2
-aliases: ["Market's Rate Expectations and Forward rates"]
-linter-yaml-title-alias: "Market's Rate Expectations and Forward rates"
-tags: [5031]
 ---
+
+
 
 # Understanding the Yield CurvePart 2
 

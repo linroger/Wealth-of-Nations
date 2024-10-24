@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_362_Fixed Income Assignments LATEX Completed.md
+- Alias_359_Fixed Income Assignments LATEX Completed.md
+tags:
+- tag_example
 title: Fixed Income Assignments LATEX Completed
 ---
+
+
 
 # Fixed Income Assignments LATEX Completed
 

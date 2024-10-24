@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_279_Bond Complete.md
+- Alias_276_Bond Complete.md
+tags:
+- tag_example
 title: Bond Complete
 ---
+
+
 # Bond Complete
 
 **Section 1: Understanding Debt Securities**

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_219_Short Condor Spread with Calls - Fidelity.md
+- Alias_220_Short Condor Spread with Calls - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:00 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-condor-spread-calls
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT CONDOR SPREAD WITH CALLS - FIDELITY
 

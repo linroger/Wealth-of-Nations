@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_223_Short Condor Spread with Puts - Fidelity.md
+- Alias_222_Short Condor Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:07 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-condor-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT CONDOR SPREAD WITH PUTS - FIDELITY
 

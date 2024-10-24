@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_220_Uncovered Short Put - Fidelity.md
+- Alias_221_Uncovered Short Put - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:40 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/shortput-uncovered
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # UNCOVERED SHORT PUT - FIDELITY
 

@@ -1,11 +1,18 @@
 ---
 Owner: RRoger Lin
-tags:
-  - Case-Studies
 aliases:
-  - Restructuring
+- Example_Alias_Oaktree and the Restructuring of CIT Group
+- Alias_126_Oaktree and the Restructuring of CIT Group.md
+- Restructuring
+tags:
+- Case-Studies
+- tag_example
+- example_tag
 title: Oaktree and the Restructuring of CIT Group
 ---
+
+
+
 
 [[HBR Case Study- Oaktree]]
 

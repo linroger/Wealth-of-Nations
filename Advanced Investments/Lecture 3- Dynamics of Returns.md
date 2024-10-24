@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Lecture 3- Dynamics of Returns
+- Alias_112_Lecture 3- Dynamics of Returns.md
+tags:
+- tag_example
+- example_tag
 title: Lecture 3Dynamics of Returns
 ---
+
+
+
 
 # Lecture 3Dynamics of Returns
 

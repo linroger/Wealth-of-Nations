@@ -1,11 +1,17 @@
 ---
+aliases:
+- Alias_225_Cash Secured Short Put.md
+- Alias_226_Cash Secured Short Put.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:21 (UTC -06:00)
-tags: []
-source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/shortput-cashsecured
-author: The Options Institute at CBOE®
-title: Cash Secured Short Put
 cssclass: academia
+source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/shortput-cashsecured
+tags:
+- tag_example
+title: Cash Secured Short Put
 ---
+
+
 
 # Cash Secured Short Put
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_234_1x2 Ratio Vertical Spread with Puts - Fidelity.md
+- Alias_235_1x2 Ratio Vertical Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:41:56 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/1x2-ratio-vertical-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # 1X2 RATIO VERTICAL SPREAD WITH PUTS - FIDELITY
 

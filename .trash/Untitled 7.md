@@ -1,8 +1,15 @@
 ---
-title: Untitled
-aliases: [Teaching Note 1 Introduction To Fixed Income Securities]
+aliases:
+- Alias_203_Untitled 7.md
+- Teaching Note 1 Introduction To Fixed Income Securities
+- Alias_204_Untitled 7.md
 linter-yaml-title-alias: Teaching Note 1 Introduction To Fixed Income Securities
+tags:
+- tag_example
+title: Untitled
 ---
+
+
 
 # Untitled
 # Introduction to Fixed Income Securities

@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Slides 2-Debt as a Promise and a Threat
+- Alias_20_Class Slides 2-Debt as a Promise and a Threat.md
+tags:
+- tag_example
+- example_tag
 title: Class Slides 2-Debt as a Promise and a Threat
 ---
+
+
+
 
 # Class Slides 2-Debt as a Promise and a Threat
 

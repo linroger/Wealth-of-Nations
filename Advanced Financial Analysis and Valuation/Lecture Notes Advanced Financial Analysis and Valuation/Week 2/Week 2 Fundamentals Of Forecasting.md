@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_316_Week 2 Fundamentals Of Forecasting.md
+- Alias_319_Week 2 Fundamentals Of Forecasting.md
+tags:
+- tag_example
+---
+
 
 # Week 2 Fundamentals Of Forecasting
 ## FUNDAMENTALS OF FORECASTING

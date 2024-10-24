@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_27_The Workout Crew.md
+- Example_Alias_The Workout Crew
+tags:
+- tag_example
+- example_tag
 title: The Workout Crew
 ---
+
+
+
 
 # The Workout Crew
 

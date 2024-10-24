@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_312_Operating Income vs. Net Income What's the Difference.md
+- Alias_309_Operating Income vs. Net Income What's the Difference.md
+tags:
+- tag_example
+---
+
 
 ## Operating Income vs. Net Income: An Overview
 

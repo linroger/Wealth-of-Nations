@@ -1,8 +1,16 @@
 ---
-aliases: [SR EXCHANGE RATE DETERMINATION NOTES,  Exchange Rate Determination]
-title: SR Exchange Rate Determination Notes
+aliases:
+- Alias_269_SR Exchange Rate Determination Notes.md
+- SR EXCHANGE RATE DETERMINATION NOTES
+- Alias_266_SR Exchange Rate Determination Notes.md
+- Exchange Rate Determination
 linter-yaml-title-alias: SR EXCHANGE RATE DETERMINATION NOTES
+tags:
+- tag_example
+title: SR Exchange Rate Determination Notes
 ---
+
+
 
 # SR Exchange Rate Determination Notes
 

@@ -1,3 +1,11 @@
+---
+aliases:
+- "Alias_314_Week 4 Valuing Young and High\u2010Growth Companies.md"
+- "Alias_311_Week 4 Valuing Young and High\u2010Growth Companies.md"
+tags:
+- tag_example
+---
+
 [Week 4 ESOs and Vaulation](Zhe/Week%204/Week%204%20ESOs%20and%20Vaulation.md)
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

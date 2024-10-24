@@ -1,8 +1,15 @@
 ---
-title: BINOMIAL OPTION PRICING
-aliases: [BINOMIAL OPTION PRICING]
+aliases:
+- Alias_182_Binomial Option Pricing.md
+- Alias_183_Binomial Option Pricing.md
+- BINOMIAL OPTION PRICING
 linter-yaml-title-alias: BINOMIAL OPTION PRICING
+tags:
+- tag_example
+title: BINOMIAL OPTION PRICING
 ---
+
+
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_320_Week 2 Dollar General Case- Assignment Review.md
+- Alias_317_Week 2 Dollar General Case- Assignment Review.md
+tags:
+- tag_example
+---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

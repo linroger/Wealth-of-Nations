@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_245_Protective Put Option Strategy - Fidelity.md
+- Alias_244_Protective Put Option Strategy - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-02-04T03:34:55 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/protective-put
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # PROTECTIVE PUT OPTION STRATEGY - FIDELITY
 

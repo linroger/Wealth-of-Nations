@@ -1,8 +1,17 @@
 ---
-title: Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
-aliases: [Class Slides 2 Discussion of Loan Covenants Vs Bond Covenants]
+aliases:
+- Example_Alias_Class Slides 2 Discussion of Loan Covenants Vs
+- Class Slides 2 Discussion of Loan Covenants Vs Bond Covenants
+- Alias_13_Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants.md
 linter-yaml-title-alias: Class Slides 2 Discussion of Loan Covenants Vs Bond Covenants
+tags:
+- tag_example
+- example_tag
+title: Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 ---
+
+
+
 
 # Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 

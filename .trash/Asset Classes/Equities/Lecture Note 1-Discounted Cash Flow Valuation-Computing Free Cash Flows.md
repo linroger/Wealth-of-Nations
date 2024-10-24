@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_280_Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows.md
+- Alias_277_Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows.md
+tags:
+- tag_example
 title: Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows
 ---
+
+
 
 # Lecture Note 1-Discounted Cash Flow Valuation-Computing Free Cash Flows
 

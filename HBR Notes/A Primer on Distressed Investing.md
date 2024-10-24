@@ -1,9 +1,18 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-aliases: [Distressed Debt]
+aliases:
+- Example_Alias_A Primer on Distressed Investing
+- Alias_121_A Primer on Distressed Investing.md
+- Distressed Debt
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
 title: A Primer on Distressed Investing
 ---
+
+
+
 
 # A Primer on Distressed Investing
 

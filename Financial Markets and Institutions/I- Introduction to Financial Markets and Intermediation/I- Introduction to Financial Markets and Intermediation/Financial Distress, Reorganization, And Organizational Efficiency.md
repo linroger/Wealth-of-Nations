@@ -1,8 +1,18 @@
 ---
+aliases:
+- Financial Distress,   Reorganization,   And Organizational Efficiency
+- Alias_103_Financial Distress, Reorganization, And Organizational Efficiency.md
+- Example_Alias_Financial Distress, Reorganization, And Organizational Efficiency
+linter-yaml-title-alias: Financial Distress,   Reorganization,   And Organizational
+  Efficiency
+tags:
+- tag_example
+- example_tag
 title: Financial Distress,  Reorganization,  And Organizational Efficiency
-aliases: ["Financial Distress,   Reorganization,   And Organizational Efficiency"]
-linter-yaml-title-alias: "Financial Distress,   Reorganization,   And Organizational Efficiency"
 ---
+
+
+
 
 ---
 

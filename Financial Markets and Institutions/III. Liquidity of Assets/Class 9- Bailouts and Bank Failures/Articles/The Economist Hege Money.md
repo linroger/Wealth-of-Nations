@@ -1,8 +1,17 @@
 ---
-title: The Economist Hege-Money
-aliases: [The Economist Hege-Money]
+aliases:
+- Example_Alias_The Economist Hege Money
+- Alias_66_The Economist Hege Money.md
+- The Economist Hege-Money
 linter-yaml-title-alias: The Economist Hege-Money
+tags:
+- tag_example
+- example_tag
+title: The Economist Hege-Money
 ---
+
+
+
 # The Economist Hege Money
 
 # Hege-Money

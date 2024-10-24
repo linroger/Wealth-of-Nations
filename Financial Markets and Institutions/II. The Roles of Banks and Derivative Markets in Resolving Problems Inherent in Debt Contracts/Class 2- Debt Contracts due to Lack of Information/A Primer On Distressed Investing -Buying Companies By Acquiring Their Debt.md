@@ -1,6 +1,16 @@
 ---
+aliases:
+- Example_Alias_A Primer On Distressed Investing -Buying Companies By Acquiring Their
+  Debt
+- Alias_16_A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
+tags:
+- tag_example
+- example_tag
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 ---
+
+
+
 
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 

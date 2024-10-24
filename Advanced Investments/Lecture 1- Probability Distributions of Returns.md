@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Lecture 1- Probability Distributions of Returns
+- Alias_113_Lecture 1- Probability Distributions of Returns.md
+tags:
+- tag_example
+- example_tag
 title: Lecture 1Probability Distributions of Returns
 ---
+
+
+
 
 # Lecture 1Probability Distributions of Returns
 ## Advanced Investments Lecture 1

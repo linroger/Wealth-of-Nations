@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_292_Dollar General Case Study.md
+- Alias_295_Dollar General Case Study.md
+tags:
+- tag_example
+---
+
 # DOLLAR GENERAL CASE STUDY
 
 1a. Dollar General's performance over time and relative to peers:

@@ -1,8 +1,17 @@
 ---
-title: "Moody's Bank Loan RatingsPricing Implications and Approach"
-aliases: ["Moody's Bank Loan RatingsPricing Implications and Approach"]
-linter-yaml-title-alias: "Moody's Bank Loan RatingsPricing Implications and Approach"
+aliases:
+- Alias_33_Moody's Bank Loan Ratings- Pricing Implications and Approach.md
+- Example_Alias_Moody's Bank Loan Ratings- Pricing Implications and Approach
+- Moody's Bank Loan RatingsPricing Implications and Approach
+linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
+tags:
+- tag_example
+- example_tag
+title: Moody's Bank Loan RatingsPricing Implications and Approach
 ---
+
+
+
 
 # Moody's Bank Loan Ratings- Pricing Implications and Approach
 

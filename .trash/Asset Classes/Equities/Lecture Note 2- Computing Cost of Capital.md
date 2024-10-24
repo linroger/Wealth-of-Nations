@@ -1,8 +1,15 @@
 ---
-title: Lecture Note 2Computing Cost of Capital
-aliases: [LECTURE NOTE 2COMPUTING COST OF CAPITAL]
+aliases:
+- Alias_279_Lecture Note 2- Computing Cost of Capital.md
+- Alias_282_Lecture Note 2- Computing Cost of Capital.md
+- LECTURE NOTE 2COMPUTING COST OF CAPITAL
 linter-yaml-title-alias: LECTURE NOTE 2COMPUTING COST OF CAPITAL
+tags:
+- tag_example
+title: Lecture Note 2Computing Cost of Capital
 ---
+
+
 
 # Lecture Note 2Computing Cost of Capital
 ## COST OF EQUITY,  COST OF PREFERRED STOCK AND COST OF DEBT

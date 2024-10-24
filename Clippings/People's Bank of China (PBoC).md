@@ -1,9 +1,19 @@
 ---
-title: "People's Bank of China (PBoC)"
-source: "https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp"
-description: "The People's Bank of China is the central bank of the People's Republic of China and is located in Beijing."
-tags: ["clippings"]
+aliases:
+- Alias_110_People's Bank of China (PBoC).md
+- Example_Alias_People's Bank of China (PBoC)
+description: The People's Bank of China is the central bank of the People's Republic
+  of China and is located in Beijing.
+source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
+tags:
+- clippings
+- tag_example
+- example_tag
+title: People's Bank of China (PBoC)
 ---
+
+
+
 
 # People's Bank of China (PBoC)
 ## What Is the People's Bank of China (PBoC)?

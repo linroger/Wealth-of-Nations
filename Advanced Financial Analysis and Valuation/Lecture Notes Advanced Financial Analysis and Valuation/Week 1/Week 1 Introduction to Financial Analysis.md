@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_325_Week 1 Introduction to Financial Analysis.md
+- Alias_328_Week 1 Introduction to Financial Analysis.md
+tags:
+- tag_example
 title: Week 1 Introduction to Financial Analysis
 ---
+
+
 
 # Week 1 Introduction to Financial Analysis
 

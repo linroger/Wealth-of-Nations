@@ -1,8 +1,20 @@
 ---
-title: "Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model"
-aliases: ["Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model"]
-linter-yaml-title-alias: "Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model"
+aliases:
+- Example_Alias_Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig
+  Model
+- 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
+- Alias_87_Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig
+  Model.md
+linter-yaml-title-alias: 'Banks And Liquidity Creation: A Simple Exposition Of The
+  Diamond-Dybvig Model'
+tags:
+- tag_example
+- example_tag
+title: 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
 ---
+
+
+
 
 # Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model
 

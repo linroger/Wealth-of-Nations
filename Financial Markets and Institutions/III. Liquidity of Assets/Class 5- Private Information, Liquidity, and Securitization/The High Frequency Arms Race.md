@@ -1,8 +1,17 @@
 ---
+aliases:
+- 'The HFT Arms Race: Example'
+- Example_Alias_The High Frequency Arms Race
+- Alias_77_The High Frequency Arms Race.md
+linter-yaml-title-alias: 'The HFT Arms Race: Example'
+tags:
+- tag_example
+- example_tag
 title: The High Frequency Arms Race
-aliases: ["The HFT Arms Race: Example"]
-linter-yaml-title-alias: "The HFT Arms Race: Example"
 ---
+
+
+
 
 A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar Slides,  Sept 2015
 

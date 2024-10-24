@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_365_Fixed Income Python Code.md
+- Alias_362_Fixed Income Python Code.md
+tags:
+- tag_example
 title: Fixed Income Python Code
 ---
+
+
 
 # Fixed Income Python Code
 

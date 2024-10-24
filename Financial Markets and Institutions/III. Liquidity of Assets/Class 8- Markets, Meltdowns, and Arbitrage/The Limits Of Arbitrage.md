@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_94_The Limits Of Arbitrage.md
+- Example_Alias_The Limits Of Arbitrage
+tags:
+- tag_example
+- example_tag
 title: The Limits Of Arbitrage
 ---
+
+
+
 
 # The Limits Of Arbitrage
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_219_Anatomy of a Covered Call - Fidelity.md
+- Alias_218_Anatomy of a Covered Call - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-02-04T03:37:59 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/anatomy-of-a-covered-call
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # ANATOMY OF A COVERED CALL - FIDELITY
 

@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Lecture 2- Asset Allocation with Multiple Risky Assets
+- Alias_115_Lecture 2- Asset Allocation with Multiple Risky Assets.md
+tags:
+- tag_example
+- example_tag
 title: Lecture 2Asset Allocation with Multiple Risky Assets
 ---
+
+
+
 
 # Lecture 2Asset Allocation with Multiple Risky Assets
 

@@ -1,8 +1,18 @@
 ---
+aliases:
+- Corporate Default and Recovery Rates,  1920-2008
+- Example_Alias_Moody's Corporate Default and Recovery Rates,  1920-2008
+- Alias_37_Moody's Corporate Default and Recovery Rates,  1920-2008.md
+- Special Comment
+linter-yaml-title-alias: Corporate Default and Recovery Rates,  1920-2008
+tags:
+- tag_example
+- example_tag
 title: Corporate Default and Recovery Rates,  1920-2008
-aliases: ["Corporate Default and Recovery Rates,  1920-2008", Special Comment]
-linter-yaml-title-alias: "Corporate Default and Recovery Rates,  1920-2008"
 ---
+
+
+
 
 # Moody's Corporate Default and Recovery Rates,  1920-2008
 

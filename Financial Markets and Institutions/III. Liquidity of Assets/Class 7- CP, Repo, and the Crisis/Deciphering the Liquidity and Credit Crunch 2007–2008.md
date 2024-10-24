@@ -1,6 +1,15 @@
 ---
-title: Deciphering the Liquidity and Credit Crunch 2007–2008
+aliases:
+- "Example_Alias_Deciphering the Liquidity and Credit Crunch 2007\u20132008"
+- "Alias_38_Deciphering the Liquidity and Credit Crunch 2007\u20132008.md"
+tags:
+- tag_example
+- example_tag
+title: "Deciphering the Liquidity and Credit Crunch 2007\u20132008"
 ---
+
+
+
 
 # Deciphering the Liquidity and Credit Crunch 2007–2008
 

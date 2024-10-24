@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_346_Credit Market Solutions.md
+- Alias_349_Credit Market Solutions.md
+tags:
+- tag_example
 title: Credit Market Solutions
 ---
+
+
 
 # Credit Market Solutions
 ## Solution to Homework 1

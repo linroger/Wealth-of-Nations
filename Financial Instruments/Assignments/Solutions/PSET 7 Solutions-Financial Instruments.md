@@ -1,8 +1,15 @@
 ---
-title: PSET 7 SOLUTIONS
-aliases: [PSET 7 SOLUTIONS]
+aliases:
+- Alias_153_PSET 7 Solutions-Financial Instruments.md
+- Alias_154_PSET 7 Solutions-Financial Instruments.md
+- PSET 7 SOLUTIONS
 linter-yaml-title-alias: PSET 7 SOLUTIONS
+tags:
+- tag_example
+title: PSET 7 SOLUTIONS
 ---
+
+
 
 # PSET 7 SOLUTIONS
 ## WINTER 2024

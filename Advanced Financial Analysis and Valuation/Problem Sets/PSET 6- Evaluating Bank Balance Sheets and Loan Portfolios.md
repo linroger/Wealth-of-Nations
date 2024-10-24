@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_301_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
+- Alias_304_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
+tags:
+- tag_example
 title: PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ---
+
+
 
 # PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ### ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS BUSINESS 30131

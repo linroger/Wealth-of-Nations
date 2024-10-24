@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_226_Bear Call Spread - Fidelity.md
+- Alias_227_Bear Call Spread - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:45:06 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/bear-call-spread
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # BEAR CALL SPREAD - FIDELITY
 

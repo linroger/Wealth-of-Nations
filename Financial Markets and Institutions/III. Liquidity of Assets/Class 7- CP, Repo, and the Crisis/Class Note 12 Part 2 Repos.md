@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Note 12 Part 2 Repos
+- Alias_46_Class Note 12 Part 2 Repos.md
+tags:
+- tag_example
+- example_tag
 title: Class Note 12 Part 2 Repos
 ---
+
+
+
 
 # Class Note 12 Part 2 Repos
 ## Repurchase Agreements (Repos)

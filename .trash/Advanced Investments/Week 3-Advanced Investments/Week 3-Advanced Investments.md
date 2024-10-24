@@ -1,8 +1,15 @@
 ---
-title: LECTURE 3
-aliases: [LECTURE 3]
+aliases:
+- Alias_253_Week 3-Advanced Investments.md
+- Alias_256_Week 3-Advanced Investments.md
+- LECTURE 3
 linter-yaml-title-alias: LECTURE 3
+tags:
+- tag_example
+title: LECTURE 3
 ---
+
+
 
 # LECTURE 3
 

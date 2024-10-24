@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_7_Merrill Coercive Exchange Offers.md
+- Example_Alias_Merrill Coercive Exchange Offers
+tags:
+- tag_example
+- example_tag
 title: Merrill Coercive Exchange Offers
 ---
+
+
+
 
 # Merrill Coercive Exchange Offers
 

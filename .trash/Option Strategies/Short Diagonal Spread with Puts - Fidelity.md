@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_228_Short Diagonal Spread with Puts - Fidelity.md
+- Alias_229_Short Diagonal Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:54:17 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-diagonal-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT DIAGONAL SPREAD WITH PUTS - FIDELITY
 

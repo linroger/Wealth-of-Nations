@@ -1,8 +1,19 @@
 ---
-aliases: ["Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information", Bid-Ask Prices with Adverse Selection/Private Information]
-title: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
-linter-yaml-title-alias: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
+aliases:
+- 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
+- Bid-Ask Prices with Adverse Selection/Private Information
+- Alias_80_Bid-Ask Prices with Adverse SelectionPrivate Information.md
+- Example_Alias_Bid-Ask Prices with Adverse SelectionPrivate Information
+linter-yaml-title-alias: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private
+  Information'
+tags:
+- tag_example
+- example_tag
+title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
 ---
+
+
+
 
 # Bid-Ask Prices with Adverse SelectionPrivate Information
 

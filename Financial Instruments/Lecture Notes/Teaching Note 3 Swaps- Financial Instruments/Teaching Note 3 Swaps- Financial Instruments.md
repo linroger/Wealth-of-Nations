@@ -1,8 +1,15 @@
 ---
-title: Teaching Note 3 SwapsFinancial Instruments
-aliases: [HEDGING WITH CURRENCY SWAPS]
+aliases:
+- HEDGING WITH CURRENCY SWAPS
+- Alias_170_Teaching Note 3 Swaps- Financial Instruments.md
+- Alias_169_Teaching Note 3 Swaps- Financial Instruments.md
 linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
+tags:
+- tag_example
+title: Teaching Note 3 SwapsFinancial Instruments
 ---
+
+
 
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 **[[Teaching Note 1Forward Rates Agreement]]**

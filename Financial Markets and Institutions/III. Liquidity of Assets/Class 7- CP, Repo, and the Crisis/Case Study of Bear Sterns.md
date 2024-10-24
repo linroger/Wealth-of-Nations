@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Case Study of Bear Sterns
+- Alias_45_Case Study of Bear Sterns.md
+tags:
+- tag_example
+- example_tag
 title: Case Study of Bear Sterns
 ---
+
+
+
 
 # Case Study of Bear Sterns
 

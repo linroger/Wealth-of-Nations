@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_334_Credit Market Session 2.md
+- Alias_337_Credit Market Session 2.md
+tags:
+- tag_example
 title: Credit Market Session 2
 ---
+
+
 
 # Credit Market Session 2
 ## SOVEREIGN BONDS,  ETFS,  CDS AND CDX

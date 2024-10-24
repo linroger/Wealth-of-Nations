@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_288_HBS Westlake Case.md
+- Alias_291_HBS Westlake Case.md
+tags:
+- tag_example
+---
+
 # HBS WESTLAKE  CASE
 
 Westlake generates value primarily as a vertically integrated producer of commodity petrochemicals, specifically in the olefins and vinyls chains. In the olefins segment, which accounted for 62% of 2003 sales (Exhibit 5A), Westlake uses natural gas-derived feedstocks (ethane) to produce ethylene. Ethylene is then used to produce polyethylene and styrene. Westlake has 2,800mm lbs of annual ethylene capacity and 1,400mm lbs of polyethylene capacity (Exhibit 9A), making it the 8th largest producer in North America with a 4% share of industry capacity (Exhibit 7A).

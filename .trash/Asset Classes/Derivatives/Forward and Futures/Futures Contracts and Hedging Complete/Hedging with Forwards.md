@@ -1,10 +1,19 @@
 ---
 Owner: RRoger Lin
-tags: [Forwards-and-Futures,  Hedging]
-aliases: [THE BASIC HEDGING DECISION, Forwards Contracts]
-title: THE BASIC HEDGING DECISION
+aliases:
+- Forwards Contracts
+- THE BASIC HEDGING DECISION
+- Alias_267_Hedging with Forwards.md
+- Alias_264_Hedging with Forwards.md
 linter-yaml-title-alias: THE BASIC HEDGING DECISION
+tags:
+- Forwards-and-Futures
+- Hedging
+- tag_example
+title: THE BASIC HEDGING DECISION
 ---
+
+
 
   [[0. Finance Notes/1. Financial Instruments/Derivatives/Forward and Futures/Forwards and Futures Notes]]
 

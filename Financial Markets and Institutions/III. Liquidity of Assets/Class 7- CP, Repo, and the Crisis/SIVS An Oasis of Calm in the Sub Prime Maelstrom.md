@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_30_SIVS An Oasis of Calm in the Sub Prime Maelstrom.md
+- Example_Alias_SIVS An Oasis of Calm in the Sub Prime Maelstrom
+tags:
+- tag_example
+- example_tag
 title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 ---
+
+
+
 
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom
 

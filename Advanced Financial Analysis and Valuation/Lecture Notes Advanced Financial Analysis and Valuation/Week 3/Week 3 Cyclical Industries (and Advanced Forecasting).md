@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_316_Week 3 Cyclical Industries (and Advanced Forecasting).md
+- Alias_313_Week 3 Cyclical Industries (and Advanced Forecasting).md
+tags:
+- tag_example
+---
+
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 

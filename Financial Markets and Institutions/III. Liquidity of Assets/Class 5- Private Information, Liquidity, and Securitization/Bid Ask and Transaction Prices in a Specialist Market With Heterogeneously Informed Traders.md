@@ -1,8 +1,22 @@
 ---
-title: Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously Informed Traders*
-aliases: ["Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously Informed Traders*"]
-linter-yaml-title-alias: "Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously Informed Traders*"
+aliases:
+- Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
+  Informed Traders*
+- Example_Alias_Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
+  Informed Traders
+- Alias_76_Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
+  Informed Traders.md
+linter-yaml-title-alias: Bid,  Ask,  and **Transaction** Prices in a Specialist Market
+  with Heterogeneously Informed Traders*
+tags:
+- tag_example
+- example_tag
+title: Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
+  Informed Traders*
 ---
+
+
+
 
 # Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders
 

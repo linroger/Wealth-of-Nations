@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_197_Math Notes.md
+- Alias_196_Math Notes.md
+tags:
+- tag_example
 title: Math Notes
 ---
+
+
 
 # Math Notes
 

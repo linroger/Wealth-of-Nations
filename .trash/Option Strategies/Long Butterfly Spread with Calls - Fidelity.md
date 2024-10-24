@@ -1,10 +1,16 @@
 ---
+aliases:
+- Alias_238_Long Butterfly Spread with Calls - Fidelity.md
+- Alias_237_Long Butterfly Spread with Calls - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:20 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/long-butterfly-spread-calls
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 title: Long Butterfly Spread with Calls - Fidelity
 ---
+
+
 
 # Long Butterfly Spread with Calls - Fidelity
 

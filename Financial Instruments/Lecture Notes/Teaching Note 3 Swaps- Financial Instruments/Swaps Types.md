@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_169_Swaps Types.md
+- Alias_168_Swaps Types.md
+tags:
+- tag_example
+---
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

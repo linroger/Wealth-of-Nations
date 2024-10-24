@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_334_Week 8- Dow Chemical Case- Assignment Review.md
+- Alias_331_Week 8- Dow Chemical Case- Assignment Review.md
+tags:
+- tag_example
+---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_273_Understanding Bonds, Pricing And The Risks.md
+- Alias_276_Understanding Bonds, Pricing And The Risks.md
+tags:
+- tag_example
+---
+
 # UNDERSTANDING BONDS, PRICING AND THE RISKS
 
 "My name is Bond, James Bond"

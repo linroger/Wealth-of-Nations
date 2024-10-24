@@ -1,10 +1,18 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-aliases: [THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION, Currency Swaps]
-title: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
+aliases:
+- Alias_129_HBS Notes on Currency Swaps.md
+- THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
+- Currency Swaps
+- Alias_130_HBS Notes on Currency Swaps.md
 linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
+tags:
+- Primers/Notes
+- tag_example
+title: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
 ---
+
+
 
 ![[Untitled 5.jpeg|Untitled 5.jpeg]]
 [[Swaps]]

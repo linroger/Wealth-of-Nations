@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_78_Class Note 9 Bid and Ask Prices With Private Information.md
+- Example_Alias_Class Note 9 Bid and Ask Prices With Private Information
+tags:
+- tag_example
+- example_tag
 title: Class Note 9 Bid and Ask Prices With Private Information
 ---
+
+
+
 
 # Class Note 9 Bid and Ask Prices With Private Information
 

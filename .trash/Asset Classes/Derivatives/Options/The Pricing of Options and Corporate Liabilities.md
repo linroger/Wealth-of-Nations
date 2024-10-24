@@ -1,8 +1,14 @@
 ---
 Owner: RRoger Lin
+aliases:
+- Alias_258_The Pricing of Options and Corporate Liabilities.md
+- Alias_255_The Pricing of Options and Corporate Liabilities.md
 tags:
-  - Papers
+- Papers
+- tag_example
 ---
+
+
 # THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 
 [Black Scholes Derivation](0.%20Finance%20Notes/Options/Options%20Math/Black%20Scholes%20Derivation/Black%20Scholes%20Derivation.md)

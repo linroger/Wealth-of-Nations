@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Runs On Money Market Mutual Funds
+- Alias_88_Runs On Money Market Mutual Funds.md
+tags:
+- tag_example
+- example_tag
 title: Runs On Money Market Mutual Funds
 ---
+
+
+
 
 # Runs On Money Market Mutual Funds
 

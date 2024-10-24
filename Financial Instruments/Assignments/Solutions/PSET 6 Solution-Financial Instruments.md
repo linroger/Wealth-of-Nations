@@ -1,8 +1,15 @@
 ---
-title: Solution to Homework 6
-aliases: [Solution to Homework 6]
+aliases:
+- Alias_155_PSET 6 Solution-Financial Instruments.md
+- Solution to Homework 6
+- Alias_154_PSET 6 Solution-Financial Instruments.md
 linter-yaml-title-alias: Solution to Homework 6
+tags:
+- tag_example
+title: Solution to Homework 6
 ---
+
+
 
 # Solution to Homework 6
 

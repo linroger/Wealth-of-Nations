@@ -1,10 +1,18 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-aliases: ["Long-Term Capital Management,   L.P. (A)",  Long Term Capital Management]
+aliases:
+- Long Term Capital Management
+- Long-Term Capital Management,   L.P. (A)
+- Alias_128_Note on Long-Term Capital Management, L.P. HBP.md
+- Alias_129_Note on Long-Term Capital Management, L.P. HBP.md
+linter-yaml-title-alias: Long-Term Capital Management,   L.P. (A)
+tags:
+- Primers/Notes
+- tag_example
 title: Note on Long-Term Capital Management,  L.P. HBP
-linter-yaml-title-alias: "Long-Term Capital Management,   L.P. (A)"
 ---
+
+
 
 **Harvard Business School**
 

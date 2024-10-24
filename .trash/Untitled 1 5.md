@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_207_Untitled 1 5.md
+- Alias_206_Untitled 1 5.md
+tags:
+- tag_example
 title: Untitled 1
 ---
+
+
 
 # Untitled 1
 **A Comprehensive Guide to Constructing Synthetic Replicating Portfolios**

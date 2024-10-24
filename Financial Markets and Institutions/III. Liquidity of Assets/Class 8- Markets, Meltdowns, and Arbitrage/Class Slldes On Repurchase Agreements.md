@@ -1,8 +1,17 @@
 ---
-title: Class SlIdes On Repurchase Agreements
-aliases: [Class SlIdes On Repurchase Agreements]
+aliases:
+- Example_Alias_Class Slldes On Repurchase Agreements
+- Alias_98_Class Slldes On Repurchase Agreements.md
+- Class SlIdes On Repurchase Agreements
 linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
+tags:
+- tag_example
+- example_tag
+title: Class SlIdes On Repurchase Agreements
 ---
+
+
+
 
 # Class Slldes On Repurchase Agreements
 

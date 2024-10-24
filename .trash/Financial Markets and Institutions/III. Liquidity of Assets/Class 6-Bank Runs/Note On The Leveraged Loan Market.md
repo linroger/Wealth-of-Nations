@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_216_Note On The Leveraged Loan Market.md
+- Alias_217_Note On The Leveraged Loan Market.md
+tags:
+- tag_example
 title: Note On The Leveraged Loan Market
 ---
+
+
 
 # Note On The Leveraged Loan Market
 

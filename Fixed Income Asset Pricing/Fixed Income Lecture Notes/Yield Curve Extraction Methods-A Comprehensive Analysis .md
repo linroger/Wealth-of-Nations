@@ -1,8 +1,15 @@
 ---
+aliases:
+- 'YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS'
+- Alias_376_Yield Curve Extraction Methods-A Comprehensive Analysis .md
+- Alias_373_Yield Curve Extraction Methods-A Comprehensive Analysis .md
+linter-yaml-title-alias: 'YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS'
+tags:
+- tag_example
 title: Yield Curve Extraction Methods-A Comprehensive Analysis
-aliases: ["YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"]
-linter-yaml-title-alias: "YIELD CURVE EXTRACTION METHODS: A COMPREHENSIVE ANALYSIS"
 ---
+
+
 
 # Yield Curve Extraction Methods-A Comprehensive Analysis
 ## TABLE OF CONTENTS

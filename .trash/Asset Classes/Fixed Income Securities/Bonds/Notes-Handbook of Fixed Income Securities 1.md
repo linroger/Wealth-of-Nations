@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_274_Notes-Handbook of Fixed Income Securities 1.md
+- Alias_277_Notes-Handbook of Fixed Income Securities 1.md
+tags:
+- tag_example
 title: Notes-Handbook of Fixed Income Securities 1
 ---
+
+
 # Notes-Handbook of Fixed Income Securities 1
 
 [Fixed Income Analytics](Fixed%20Income%20Analytics.md)

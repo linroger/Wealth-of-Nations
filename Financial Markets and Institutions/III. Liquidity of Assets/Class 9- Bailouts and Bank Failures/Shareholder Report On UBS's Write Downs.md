@@ -1,6 +1,15 @@
 ---
-title: "Shareholder Report On UBS's Write Downs"
+aliases:
+- Example_Alias_Shareholder Report On UBS's Write Downs
+- Alias_54_Shareholder Report On UBS's Write Downs.md
+tags:
+- tag_example
+- example_tag
+title: Shareholder Report On UBS's Write Downs
 ---
+
+
+
 # Shareholder Report On UBS's Write Downs
 
 Ab **UBS AG**

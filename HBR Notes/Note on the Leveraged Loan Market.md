@@ -1,11 +1,16 @@
 ---
 Owner: RRoger Lin
-tags:
-  - Primers/Notes
 aliases:
-  - Leveraged Loans
+- Leveraged Loans
+- Alias_131_Note on the Leveraged Loan Market.md
+- Alias_132_Note on the Leveraged Loan Market.md
+tags:
+- Primers/Notes
+- tag_example
 title: Note on the Leveraged Loan Market
 ---
+
+
 
 [[Notes- Contemporary Financial Intermediation]]
 **Note on the Leveraged Loan Market**

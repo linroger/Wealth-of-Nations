@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_180_Forwards and Futures Notes.md
+- Alias_179_Forwards and Futures Notes.md
+tags:
+- tag_example
 title: Forwards and Futures Notes
 ---
+
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

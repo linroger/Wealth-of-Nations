@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_345_Credit Markets Homework 2.md
+- Alias_342_Credit Markets Homework 2.md
+tags:
+- tag_example
 title: Credit Markets Homework 2
 ---
+
+
 
 # Credit Markets Homework 2
 

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_312_Week 3 Financial Risk Analysis.md
+- Alias_315_Week 3 Financial Risk Analysis.md
+tags:
+- tag_example
 title: Week 3 Financial Risk Analysis
 ---
+
+
 
 # Week 3 Financial Risk Analysis
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION

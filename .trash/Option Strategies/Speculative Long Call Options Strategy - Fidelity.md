@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_218_Speculative Long Call Options Strategy - Fidelity.md
+- Alias_217_Speculative Long Call Options Strategy - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:45 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/longcall-speculative
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SPECULATIVE LONG CALL OPTIONS STRATEGY - FIDELITY
 

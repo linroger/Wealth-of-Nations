@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_4_Class Note 4 Restructuring Debt Outside Bankruptcy.md
+- Example_Alias_Class Note 4 Restructuring Debt Outside Bankruptcy
+tags:
+- tag_example
+- example_tag
 title: Class Note 4 Restructuring Debt Outside Bankruptcy
 ---
+
+
+
 
 # Class Note 4 Restructuring Debt Outside Bankruptcy
 **Course:** Financial Markets and Institutions

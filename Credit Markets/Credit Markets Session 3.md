@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_341_Credit Markets Session 3.md
+- Alias_338_Credit Markets Session 3.md
+tags:
+- tag_example
 title: Credit Markets Session 3
 ---
+
+
 
 # Credit Markets Session 3
 1. CDS pricing in the Hazard Rate Model

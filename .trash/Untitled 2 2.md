@@ -1,7 +1,13 @@
 ---
-tags: []
+aliases:
+- Alias_205_Untitled 2 2.md
+- Alias_206_Untitled 2 2.md
+tags:
+- tag_example
 title: Untitled 2
 ---
+
+
 
 # Untitled 2
 

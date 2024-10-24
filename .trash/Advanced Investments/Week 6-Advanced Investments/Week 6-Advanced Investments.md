@@ -1,8 +1,13 @@
 ---
-title: $\textbf{6. 1}$ $\textbf{SOURCES OF LEVERAGE}$
-aliases: [$\textbf{6. 1}$ $\textbf{SOURCES OF LEVERAGE}$]
+aliases:
+- textbf6 1 textbfSOURCES OF LEVERAGE
+- Alias_255_Week 6-Advanced Investments.md
 linter-yaml-title-alias: $\textbf{6. 1}$ $\textbf{SOURCES OF LEVERAGE}$
+tags:
+- tag_example
+title: $\textbf{6. 1}$ $\textbf{SOURCES OF LEVERAGE}$
 ---
+
 
 ---
 title: $\textbf{6. 1}$ Sources of leverage

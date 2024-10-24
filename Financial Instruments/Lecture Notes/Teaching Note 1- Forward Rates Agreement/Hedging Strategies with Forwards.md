@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_174_Hedging Strategies with Forwards.md
+- Alias_173_Hedging Strategies with Forwards.md
+tags:
+- tag_example
 title: Hedging Strategies with Forwards
 ---
+
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

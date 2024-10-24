@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_304_Fixed Asset Turnover Ratio Explained With Examples.md
+- Alias_307_Fixed Asset Turnover Ratio Explained With Examples.md
+tags:
+- tag_example
+---
+
 0 of 1 minute, 27 secondsVolume 0%
 
 ## WHAT IS THE FIXED ASSET TURNOVER RATIO?

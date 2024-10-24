@@ -1,8 +1,17 @@
 ---
-title: "The Credit Crisis: Conjectures About Causes And Remedies"
-aliases: ["The Credit Crisis: Conjectures About Causes And Remedies"]
-linter-yaml-title-alias: "The Credit Crisis: Conjectures About Causes And Remedies"
+aliases:
+- Example_Alias_The Credit Crisis-Conjectures About Causes And Remedies
+- Alias_47_The Credit Crisis-Conjectures About Causes And Remedies.md
+- 'The Credit Crisis: Conjectures About Causes And Remedies'
+linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
+tags:
+- tag_example
+- example_tag
+title: 'The Credit Crisis: Conjectures About Causes And Remedies'
 ---
+
+
+
 
 # The Credit Crisis-Conjectures About Causes And Remedies
 

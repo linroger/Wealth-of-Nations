@@ -1,8 +1,15 @@
 ---
-title: PRICING AN INFLATION SWAP
-aliases: [PRICING AN INFLATION SWAP]
+aliases:
+- Alias_371_Inflation Swaps.md
+- PRICING AN INFLATION SWAP
+- Alias_368_Inflation Swaps.md
 linter-yaml-title-alias: PRICING AN INFLATION SWAP
+tags:
+- tag_example
+title: PRICING AN INFLATION SWAP
 ---
+
+
 ---
 title: PRICING AN INFLATION SWAP
 aliases: [PRICING AN INFLATION SWAP,  Inflation Swaps]

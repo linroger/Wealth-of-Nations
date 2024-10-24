@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_330_Week 8 Bringing International Risks into the Valuation Process.md
+- Alias_333_Week 8 Bringing International Risks into the Valuation Process.md
+tags:
+- tag_example
+---
+
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## TODAY

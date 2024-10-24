@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_A Strategic Perspective On Bankruptcy
+- Alias_17_A Strategic Perspective On Bankruptcy.md
+tags:
+- tag_example
+- example_tag
 title: A Strategic Perspective On Bankruptcy
 ---
+
+
+
 
 # A Strategic Perspective On Bankruptcy
 

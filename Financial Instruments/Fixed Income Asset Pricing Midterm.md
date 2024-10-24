@@ -1,7 +1,14 @@
 ---
+aliases:
+- Fixed Income Asset Pricing Bus 35130 Spring 2019 John Heaton and Oleg Sydyak
+- Alias_139_Fixed Income Asset Pricing Midterm.md
+- Alias_140_Fixed Income Asset Pricing Midterm.md
+tags:
+- tag_example
 title: Fixed Income Asset Pricing Midterm
-aliases: [Fixed Income Asset Pricing Bus 35130 Spring 2019 John Heaton and Oleg Sydyak]
 ---
+
+
 
 # Fixed Income Asset Pricing Midterm
 

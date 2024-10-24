@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_310_Week 4 ESOs and Vaulation.md
+- Alias_313_Week 4 ESOs and Vaulation.md
+tags:
+- tag_example
+---
+
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 

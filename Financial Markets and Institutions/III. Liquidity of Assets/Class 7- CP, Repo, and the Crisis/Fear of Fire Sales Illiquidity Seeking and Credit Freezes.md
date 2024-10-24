@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Fear of Fire Sales Illiquidity Seeking and Credit Freezes
+- Alias_35_Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
+tags:
+- tag_example
+- example_tag
 title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 ---
+
+
+
 
 # Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 

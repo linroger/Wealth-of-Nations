@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_311_How to Use Price-To-Sales Ratios to Value Stocks.md
+- Alias_308_How to Use Price-To-Sales Ratios to Value Stocks.md
+tags:
+- tag_example
+---
+
 
 Investors are always seeking ways to compare the value of stocks. The price-to-sales ratio utilizes a company's market capitalization and revenue to determine whether the stock is valued properly.
 

@@ -1,8 +1,15 @@
 ---
+aliases:
+- Alias_163_Teaching Note 2-Futures Contracts.md
+- 'EXAMPLE: HEDGING WITH FUTURES'
+- Alias_164_Teaching Note 2-Futures Contracts.md
+linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
+tags:
+- tag_example
 title: Teaching Note 2-Futures Contracts
-aliases: ["EXAMPLE: HEDGING WITH FUTURES"]
-linter-yaml-title-alias: "EXAMPLE: HEDGING WITH FUTURES"
 ---
+
+
 
 [Carry Trade 1](Carry%20Trade%201.md)
 

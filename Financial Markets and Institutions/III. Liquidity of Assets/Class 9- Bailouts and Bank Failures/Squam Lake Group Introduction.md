@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Squam Lake Group Introduction
+- Alias_52_Squam Lake Group Introduction.md
+tags:
+- tag_example
+- example_tag
 title: Squam Lake Group Introduction
 ---
+
+
+
 
 # Squam Lake Group Introduction
 # Chapter 1 Introduction

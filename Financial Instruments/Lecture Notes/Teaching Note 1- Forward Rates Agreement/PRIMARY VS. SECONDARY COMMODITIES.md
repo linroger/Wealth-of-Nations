@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_176_PRIMARY VS. SECONDARY COMMODITIES.md
+- Alias_177_PRIMARY VS. SECONDARY COMMODITIES.md
+tags:
+- tag_example
 title: PRIMARY VS. SECONDARY COMMODITIES
 ---
+
+
 
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]

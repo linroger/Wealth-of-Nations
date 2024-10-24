@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_295_HBS Case- Medfield Pharmaceuticals.md
+- Alias_298_HBS Case- Medfield Pharmaceuticals.md
+tags:
+- tag_example
+---
+
 # HBS CASE MEDFIELD PHARMACEUTICALS
 ## MEDFIELD PHARMACEUTICALS
 

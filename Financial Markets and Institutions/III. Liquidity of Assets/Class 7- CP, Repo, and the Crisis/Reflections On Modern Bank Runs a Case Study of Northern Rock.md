@@ -1,8 +1,16 @@
 ---
-title: Reflections On Modern Bank Runs a Case Study of Northern Rock*
 aliases:
-  - Reflections On Modern Bank Runs a Case Study of Northern Rock*
+- Alias_32_Reflections On Modern Bank Runs a Case Study of Northern Rock.md
+- Reflections On Modern Bank Runs a Case Study of Northern Rock*
+- Example_Alias_Reflections On Modern Bank Runs a Case Study of Northern Rock
+tags:
+- tag_example
+- example_tag
+title: Reflections On Modern Bank Runs a Case Study of Northern Rock*
 ---
+
+
+
 
 # Reflections On Modern Bank Runs a Case Study of Northern Rock
 

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_243_Cash Secured Short Put - Fidelity.md
+- Alias_244_Cash Secured Short Put - Fidelity.md
+tags:
+- tag_example
+---
+
 # CASH SECURED SHORT PUT - FIDELITY
 ### GOAL
 

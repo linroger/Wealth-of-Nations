@@ -1,8 +1,15 @@
 ---
-title: 1          GREECE CURRENCY SWAPS
-aliases: [1          GREECE CURRENCY SWAPS]
-linter-yaml-title-alias: 1          GREECE CURRENCY SWAPS
+aliases:
+- Alias_147_PSET 3 Financial Instruments.md
+- "1\_\_\_\_\_\_\_\_\_ GREECE CURRENCY SWAPS"
+- Alias_146_PSET 3 Financial Instruments.md
+linter-yaml-title-alias: "1\_\_\_\_\_\_\_\_\_ GREECE CURRENCY SWAPS"
+tags:
+- tag_example
+title: "1\_\_\_\_\_\_\_\_\_ GREECE CURRENCY SWAPS"
 ---
+
+
 
 **Homework 3**
 Roger Lin

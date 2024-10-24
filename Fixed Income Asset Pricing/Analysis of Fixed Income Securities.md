@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_358_Analysis of Fixed Income Securities.md
+- Alias_355_Analysis of Fixed Income Securities.md
+tags:
+- tag_example
 title: Analysis of Fixed Income Securities
 ---
+
+
 
 # Analysis of Fixed Income Securities
 

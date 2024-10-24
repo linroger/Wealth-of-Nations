@@ -1,8 +1,16 @@
 ---
+aliases:
+- Alias_159_Lecture Note 6-Implied Volatility.md
+- Alias_158_Lecture Note 6-Implied Volatility.md
+- LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
+linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
+  CARLO SIMULATION
+tags:
+- tag_example
 title: Teaching Note 6Implied Volatility
-aliases: [LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
-linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
 ---
+
+
 
 # Teaching Note 6Implied Volatility
 - **Title**: Implied Volatility

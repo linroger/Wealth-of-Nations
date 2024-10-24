@@ -1,8 +1,15 @@
 ---
-title: PSET II Fixed Income Asset Pricing 1
-aliases: [FIXED INCOME ASSET PRICING]
+aliases:
+- Alias_361_PSET II Fixed Income Asset Pricing 1.md
+- FIXED INCOME ASSET PRICING
+- Alias_364_PSET II Fixed Income Asset Pricing 1.md
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING
+tags:
+- tag_example
+title: PSET II Fixed Income Asset Pricing 1
 ---
+
+
 
 # PSET II Fixed Income Asset Pricing 1
 

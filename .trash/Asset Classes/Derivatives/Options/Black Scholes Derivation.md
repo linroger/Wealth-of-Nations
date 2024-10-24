@@ -1,8 +1,14 @@
 ---
 Owner: RRoger Lin
+aliases:
+- Alias_258_Black Scholes Derivation.md
+- Alias_261_Black Scholes Derivation.md
 tags:
-  - Options
+- Options
+- tag_example
 ---
+
+
 # BLACK SCHOLES DERIVATION
 
 The Black-Scholes equation is a partial differential equation, which describes the price of the option over time. The equation is:

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_343_Basic Usage of QuantLib analytics library.md
+- Alias_346_Basic Usage of QuantLib analytics library.md
+tags:
+- tag_example
 title: Basic Usage of QuantLib analytics library
 ---
+
+
 
 # Basic Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/

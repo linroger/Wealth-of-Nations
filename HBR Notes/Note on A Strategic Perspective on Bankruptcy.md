@@ -1,10 +1,19 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-title: A Strategic Perspective on Bankruptcy
-aliases: [A Strategic Perspective on Bankruptcy]
+aliases:
+- Alias_124_Note on A Strategic Perspective on Bankruptcy.md
+- A Strategic Perspective on Bankruptcy
+- Example_Alias_Note on A Strategic Perspective on Bankruptcy
 linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
+title: A Strategic Perspective on Bankruptcy
 ---
+
+
+
 
 ![[Untitled 8.jpeg|Untitled 8.jpeg]]
 

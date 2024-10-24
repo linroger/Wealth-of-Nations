@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_57_Update On Outstanding Lending Facilities.md
+- Example_Alias_Update On Outstanding Lending Facilities
+tags:
+- tag_example
+- example_tag
 title: Update On Outstanding Lending Facilities
 ---
+
+
+
 
 # Update On Outstanding Lending Facilities
 

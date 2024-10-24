@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Note 10 Liquidity and Liquidity Management
+- Alias_81_Class Note 10 Liquidity and Liquidity Management.md
+tags:
+- tag_example
+- example_tag
 title: Class Note 10 Liquidity and Liquidity Management
 ---
+
+
+
 
 # Class Note 10 Liquidity and Liquidity Management
 

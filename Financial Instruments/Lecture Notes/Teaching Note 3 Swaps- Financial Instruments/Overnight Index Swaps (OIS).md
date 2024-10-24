@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_168_Overnight Index Swaps (OIS).md
+- Alias_167_Overnight Index Swaps (OIS).md
+tags:
+- tag_example
 title: Overnight Index Swaps (Is)
 ---
+
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

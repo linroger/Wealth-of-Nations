@@ -1,8 +1,15 @@
 ---
-title: WINTER 2024 JOHN HEATON
-aliases: [WINTER 2024 JOHN HEATON]
+aliases:
+- WINTER 2024 JOHN HEATON
+- Alias_144_PSET 5 Financial Instruments.md
+- Alias_143_PSET 5 Financial Instruments.md
 linter-yaml-title-alias: WINTER 2024 JOHN HEATON
+tags:
+- tag_example
+title: WINTER 2024 JOHN HEATON
 ---
+
+
 [Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
 [Teaching Note 4-Multiperiod Binomial Trees](Teaching%20Note%204-Multiperiod%20Binomial%20Trees.md)
 # WINTER 2024 JOHN HEATON

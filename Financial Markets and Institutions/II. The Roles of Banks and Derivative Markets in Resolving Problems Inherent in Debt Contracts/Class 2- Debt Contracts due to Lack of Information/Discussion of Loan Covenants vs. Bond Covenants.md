@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Discussion of Loan Covenants vs
+- Alias_24_Discussion of Loan Covenants vs. Bond Covenants.md
+tags:
+- tag_example
+- example_tag
 title: Discussion of Loan Covenants vs. Bond Covenants
 ---
+
+
+
 # Discussion of Loan Covenants vs. Bond Covenants
 
 Business 35202 Douglas W. Diamond

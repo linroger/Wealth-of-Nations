@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_275_Bond Pricing in Discrete Time.md
+- Alias_278_Bond Pricing in Discrete Time.md
+tags:
+- tag_example
 title: Bond Pricing in Discrete Time
 ---
+
+
 # Bond Pricing in Discrete Time
 
 Macaulay duration is the weighted average time until a bond's cash flows are received. The weights are the present value of each cash flow divided by the bond’s price.

@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_171_Ch1 Introduction to Derivative Markets.md
+- Alias_172_Ch1 Introduction to Derivative Markets.md
+tags:
+- tag_example
 title: Ch1 Introduction to Derivative Markets
 ---
+
+
 
 # Ch1 Introduction to Derivative Markets
 

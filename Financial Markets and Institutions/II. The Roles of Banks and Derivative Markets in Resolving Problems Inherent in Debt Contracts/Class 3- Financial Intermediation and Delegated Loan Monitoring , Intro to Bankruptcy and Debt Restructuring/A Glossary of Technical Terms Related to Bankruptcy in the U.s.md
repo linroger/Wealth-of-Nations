@@ -1,8 +1,18 @@
 ---
+aliases:
+- A Glossary of Technical Terms Related to Bankruptcy in the US
+- Example_Alias_A Glossary of Technical Terms Related to Bankruptcy in the U
+- Alias_25_A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
+linter-yaml-title-alias: A Glossary of Technical Terms Related to Bankruptcy in the
+  US
+tags:
+- tag_example
+- example_tag
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
-aliases: [A Glossary of Technical Terms Related to Bankruptcy in the US]
-linter-yaml-title-alias: A Glossary of Technical Terms Related to Bankruptcy in the US
 ---
+
+
+
 
 # A Glossary of Technical Terms Related to Bankruptcy in the U.s
 

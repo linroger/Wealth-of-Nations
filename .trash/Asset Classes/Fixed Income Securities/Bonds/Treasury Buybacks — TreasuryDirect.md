@@ -1,8 +1,15 @@
 ---
-title: Treasury Buybacks — TreasuryDirect
-aliases: [TREASURY BUYBACKS — TREASURYDIRECT]
-linter-yaml-title-alias: TREASURY BUYBACKS — TREASURYDIRECT
+aliases:
+- "Alias_275_Treasury Buybacks \u2014 TreasuryDirect.md"
+- "Alias_272_Treasury Buybacks \u2014 TreasuryDirect.md"
+- "TREASURY BUYBACKS \u2014 TREASURYDIRECT"
+linter-yaml-title-alias: "TREASURY BUYBACKS \u2014 TREASURYDIRECT"
+tags:
+- tag_example
+title: "Treasury Buybacks \u2014 TreasuryDirect"
 ---
+
+
 
 # Treasury Buybacks — TreasuryDirect
 

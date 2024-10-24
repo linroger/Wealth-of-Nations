@@ -1,8 +1,15 @@
 ---
-title: Week 7-Advanced Investments
-aliases: [BOND YIELD FACTORS]
+aliases:
+- Alias_253_Week 7-Advanced Investments.md
+- BOND YIELD FACTORS
+- Alias_251_Week 7-Advanced Investments.md
 linter-yaml-title-alias: BOND YIELD FACTORS
+tags:
+- tag_example
+title: Week 7-Advanced Investments
 ---
+
+
 
 # Week 7-Advanced Investments
 

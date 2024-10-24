@@ -1,8 +1,15 @@
 ---
-title: DetailedLectureNotes_Week1
-aliases: [LECTURE 1]
+aliases:
+- LECTURE 1
+- Alias_249_DetailedLectureNotes_Week1.md
+- Alias_248_DetailedLectureNotes_Week1.md
 linter-yaml-title-alias: LECTURE 1
+tags:
+- tag_example
+title: DetailedLectureNotes_Week1
 ---
+
+
 
 Advanced Investments Stefan Nagel University of Chicago ii ©
 

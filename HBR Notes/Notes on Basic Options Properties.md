@@ -1,9 +1,18 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-aliases: [Options]
+aliases:
+- Options
+- Alias_122_Notes on Basic Options Properties.md
+- Example_Alias_Notes on Basic Options Properties
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
 title: Notes on Basic Options Properties
 ---
+
+
+
 
 # Notes on Basic Options Properties
 

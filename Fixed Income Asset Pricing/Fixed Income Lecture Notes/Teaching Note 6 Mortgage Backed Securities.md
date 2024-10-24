@@ -1,7 +1,15 @@
 ---
-aliases: [MBS, Mortgage Backed Securities]
+aliases:
+- MBS
+- Alias_375_Teaching Note 6 Mortgage Backed Securities.md
+- Mortgage Backed Securities
+- Alias_372_Teaching Note 6 Mortgage Backed Securities.md
+tags:
+- tag_example
 title: Teaching Note 6 Mortgage Backed Securities
 ---
+
+
 
 [[Fixed Income Lecture Notes]]
  [[Introduction to Fixed Income Asset Pricing]]

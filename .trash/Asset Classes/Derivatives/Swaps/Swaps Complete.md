@@ -1,8 +1,15 @@
 ---
-title: SWAPS LECTURE NOTES
-aliases: [SWAPS LECTURE NOTES]
+aliases:
+- Alias_271_Swaps Complete.md
+- SWAPS LECTURE NOTES
+- Alias_268_Swaps Complete.md
 linter-yaml-title-alias: SWAPS LECTURE NOTES
+tags:
+- tag_example
+title: SWAPS LECTURE NOTES
 ---
+
+
 
 [Interest Rate Derivatives](Teaching%20Notes%2010-%20Interest%20Rate%20Derivatives.md)# SWAPS COMPLETE
 

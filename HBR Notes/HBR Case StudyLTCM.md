@@ -1,8 +1,17 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
+aliases:
+- Example_Alias_HBR Case StudyLTCM
+- Alias_123_HBR Case StudyLTCM.md
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
 title: HBR Case StudyLTCM
 ---
+
+
+
 
 # HBR Case StudyLTCM
 **Summary**

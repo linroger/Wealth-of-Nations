@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_341_Advanced Usage of QuantLib analytics library.md
+- Alias_344_Advanced Usage of QuantLib analytics library.md
+tags:
+- tag_example
 title: Advanced Usage of QuantLib analytics library
 ---
+
+
 
 # Advanced Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/

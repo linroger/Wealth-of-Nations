@@ -1,11 +1,17 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
-created: 
-aliases: [WHAT ARE MONEY MARKET FUNDS?,  Mutual Funds]
-title: A Primer on Money Market Mutual Funds
+aliases:
+- WHAT ARE MONEY MARKET FUNDS
+- Mutual Funds
+- Alias_127_A Primer on Money Market Mutual Funds.md
+created: null
 linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
+tags:
+- Primers/Notes
+- tag_example
+title: A Primer on Money Market Mutual Funds
 ---
+
 
 # A Primer on Money Market Mutual Funds
 

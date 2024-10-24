@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_330_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
+- Alias_327_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
+tags:
+- tag_example
+---
+
 
 Banks: Business Model, Regulation and Accounting Rules
 

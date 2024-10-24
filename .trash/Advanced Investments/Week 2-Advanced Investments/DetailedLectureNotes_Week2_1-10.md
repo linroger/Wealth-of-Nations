@@ -1,8 +1,15 @@
 ---
-title: DetailedLectureNotes_Week2_1-10
-aliases: [LECTURE 2]
+aliases:
+- Alias_252_DetailedLectureNotes_Week2_1-10.md
+- Alias_254_DetailedLectureNotes_Week2_1-10.md
+- LECTURE 2
 linter-yaml-title-alias: LECTURE 2
+tags:
+- tag_example
+title: DetailedLectureNotes_Week2_1-10
 ---
+
+
 
 # DetailedLectureNotes_Week2_1-10
 

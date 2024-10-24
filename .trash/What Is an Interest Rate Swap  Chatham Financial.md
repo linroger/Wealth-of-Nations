@@ -1,8 +1,14 @@
 ---
 Owner: RRoger Lin
+aliases:
+- Alias_199_What Is an Interest Rate Swap  Chatham Financial.md
+- Alias_198_What Is an Interest Rate Swap  Chatham Financial.md
 tags:
-  - Swaps
+- Swaps
+- tag_example
 ---
+
+
 # WHAT IS AN INTEREST RATE SWAP CHATHAM FINANCIAL
 
 [https://www.chathamfinancial.com/insights/what-is-an-interest-rate-swap](https://www.chathamfinancial.com/insights/what-is-an-interest-rate-swap)

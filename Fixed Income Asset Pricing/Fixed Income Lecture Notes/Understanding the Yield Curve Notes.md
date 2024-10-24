@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_370_Understanding the Yield Curve Notes.md
+- Alias_367_Understanding the Yield Curve Notes.md
+tags:
+- tag_example
 title: Understanding the Yield Curve Notes
 ---
+
+
 # Understanding the Yield Curve Notes
 
 ### EXPLANATION OF THE IMPLIED FORWARD RATE CALCULATION

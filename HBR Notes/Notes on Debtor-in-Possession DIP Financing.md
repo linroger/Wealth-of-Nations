@@ -1,8 +1,17 @@
 ---
 Owner: RRoger Lin
-tags: [Primers/Notes]
+aliases:
+- Example_Alias_Notes on Debtor-in-Possession DIP Financing
+- Alias_120_Notes on Debtor-in-Possession DIP Financing.md
+tags:
+- Primers/Notes
+- tag_example
+- example_tag
 title: Notes on Debtor-in-Possession DIP Financing
 ---
+
+
+
 
 # Notes on Debtor-in-Possession DIP Financing
 

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_332_Week 8 Opportunities And Risks Of Investing Internationally.md
+- Alias_335_Week 8 Opportunities And Risks Of Investing Internationally.md
+tags:
+- tag_example
+---
+
 Thomas Rauter
 
 ## THIS PRE-RECORDING

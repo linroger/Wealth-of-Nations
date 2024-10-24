@@ -1,8 +1,15 @@
 ---
-title: Forward Loans
-aliases: [FORWARD LOANS]
+aliases:
+- FORWARD LOANS
+- Alias_263_Forward Loans.md
+- Alias_266_Forward Loans.md
 linter-yaml-title-alias: FORWARD LOANS
+tags:
+- tag_example
+title: Forward Loans
 ---
+
+
 
 # Forward Loans
 ### DEFINITION

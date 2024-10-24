@@ -1,8 +1,22 @@
 ---
-title: "When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007–2009"
-aliases: ["When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007–2009"]
-linter-yaml-title-alias: "When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007–2009"
+aliases:
+- "When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007\u2013\
+  2009"
+- Alias_31_When Safe Proved Risky Commercial Paper During the Financial Crisis of
+  2007 2009.md
+- Example_Alias_When Safe Proved Risky Commercial Paper During the Financial Crisis
+  of 2007 2009
+linter-yaml-title-alias: "When Safe Proved Risky: Commercial Paper During the Financial\
+  \ Crisis of 2007\u20132009"
+tags:
+- tag_example
+- example_tag
+title: "When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007\u2013\
+  2009"
 ---
+
+
+
 
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
 

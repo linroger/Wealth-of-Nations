@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_224_Long Call Cash Backed Options Strategy - Fidelity.md
+- Alias_225_Long Call Cash Backed Options Strategy - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:41 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/longcall-cashbacked
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # LONG CALL CASH BACKED OPTIONS STRATEGY - FIDELITY
 

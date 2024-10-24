@@ -1,6 +1,18 @@
 ---
-title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
+aliases:
+- Alias_65_The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
+  Executives Swung From Hope to Despair in the Space of a Week.md
+- Example_Alias_The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear
+  Stearns; Executives Swung From Hope to Despair in the Space of a Week
+tags:
+- tag_example
+- example_tag
+title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
+  Executives Swung From Hope to Despair in the Space of a Week
 ---
+
+
+
 
 # The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
 

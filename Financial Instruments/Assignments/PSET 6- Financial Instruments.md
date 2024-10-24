@@ -1,8 +1,15 @@
 ---
-title: PSET 6Financial Instruments
-aliases: [PSET 6Financial Instruments]
+aliases:
+- PSET 6Financial Instruments
+- Alias_150_PSET 6- Financial Instruments.md
+- Alias_149_PSET 6- Financial Instruments.md
 linter-yaml-title-alias: PSET 6Financial Instruments
+tags:
+- tag_example
+title: PSET 6Financial Instruments
 ---
+
+
 
 # PSET 6Financial Instruments
 

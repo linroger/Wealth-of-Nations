@@ -1,8 +1,15 @@
 ---
 Owner: RRoger Lin
-tags: [Case-Studies]
+aliases:
+- Alias_128_HBR Case Study- Oaktree.md
+- Alias_127_HBR Case Study- Oaktree.md
+tags:
+- Case-Studies
+- tag_example
 title: HBR Case StudyOaktree
 ---
+
+
 
 # HBR Case StudyOaktree
 

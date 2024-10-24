@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_230_Cost of Carry Definition, Models, Factors and Formula.md
+- Alias_229_Cost of Carry Definition, Models, Factors and Formula.md
+tags:
+- tag_example
+---
+
 # COST OF CARRY DEFINITION, MODELS, FACTORS AND FORMULA
 ## WHAT IS COST OF CARRY?
 

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_321_Week 2 Retail.md
+- Alias_318_Week 2 Retail.md
+tags:
+- tag_example
+---
+
 [Week 2 Retail](Zhe/Week%202/Week%202%20Retail.md)
 [Week 2 Fundamentals Of Forecasting](Zhe/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
 [Week 2 Dollar General CaseAssignment Review](Zhe/Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)

@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_326_Week 1 Ratio Analysis + Valuation Review.md
+- Alias_329_Week 1 Ratio Analysis + Valuation Review.md
+tags:
+- tag_example
+---
+
 [Week 1 Introduction](Zhe/Week%201/Week%201%20Introduction.md)
 [Week 1 Market Efficiency](Zhe/Week%201/Week%201%20Market%20Efficiency.md)
 [Week 1 Ratio Analysis + Valuation Review](Zhe/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)

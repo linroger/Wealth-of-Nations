@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_302_PSET 3 Advanced Financial Analysis and Valuation.md
+- Alias_299_PSET 3 Advanced Financial Analysis and Valuation.md
+tags:
+- tag_example
+---
+
 # PSET 3 ADVANCED FINANCIAL ANALYSIS AND VALUATION
 
 [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)

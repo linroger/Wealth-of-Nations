@@ -1,6 +1,13 @@
 ---
-title: "Comps Definition,  How They're Used in Analysis,  and Example"
+aliases:
+- Alias_307_Comps Definition, How They're Used in Analysis, and Example.md
+- Alias_310_Comps Definition, How They're Used in Analysis, and Example.md
+tags:
+- tag_example
+title: Comps Definition,  How They're Used in Analysis,  and Example
 ---
+
+
 
 # Comps Definition,  How They're Used in Analysis,  and Example
 ## WHAT ARE COMPS?

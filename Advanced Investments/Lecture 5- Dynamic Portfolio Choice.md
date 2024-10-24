@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_116_Lecture 5- Dynamic Portfolio Choice.md
+- Example_Alias_Lecture 5- Dynamic Portfolio Choice
+tags:
+- tag_example
+- example_tag
 title: Lecture 5Dynamic Portfolio Choice
 ---
+
+
+
 
 # Lecture 5Dynamic Portfolio Choice
 

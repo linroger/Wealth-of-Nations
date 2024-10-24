@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_49_Case Study of Northern Rock.md
+- Example_Alias_Case Study of Northern Rock
+tags:
+- tag_example
+- example_tag
 title: Case Study of Northern Rock
 ---
+
+
+
 
 # Case Study of Northern Rock
 

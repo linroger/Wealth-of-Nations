@@ -1,10 +1,16 @@
 ---
+aliases:
+- Alias_240_What Is A Covered Straddle - Fidelity.md
+- Alias_241_What Is A Covered Straddle - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:01 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/covered-straddle
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 title: What Is A Covered Straddle - Fidelity
 ---
+
+
 
 # What Is A Covered Straddle - Fidelity
 

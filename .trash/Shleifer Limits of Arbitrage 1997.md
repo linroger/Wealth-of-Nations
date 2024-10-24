@@ -1,8 +1,15 @@
 ---
-title: The Limits Of Arbitrage
-aliases: [The Limits Of Arbitrage]
+aliases:
+- Alias_199_Shleifer Limits of Arbitrage 1997.md
+- Alias_200_Shleifer Limits of Arbitrage 1997.md
+- The Limits Of Arbitrage
 linter-yaml-title-alias: The Limits Of Arbitrage
+tags:
+- tag_example
+title: The Limits Of Arbitrage
 ---
+
+
 
 # The Limits Of Arbitrage
 

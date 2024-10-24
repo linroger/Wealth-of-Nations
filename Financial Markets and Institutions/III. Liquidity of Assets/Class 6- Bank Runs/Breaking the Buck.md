@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Breaking the Buck
+- Alias_85_Breaking the Buck.md
+tags:
+- tag_example
+- example_tag
 title: Breaking the Buck
 ---
+
+
+
 
 # Breaking the Buck
 

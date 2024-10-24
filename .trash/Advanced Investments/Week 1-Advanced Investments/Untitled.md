@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_247_Untitled.md
+- Alias_248_Untitled.md
+tags:
+- tag_example
 title: Untitled
 ---
+
+
 
 # Untitled
 

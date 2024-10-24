@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_241_Short Calendar Spread with Puts - Fidelity.md
+- Alias_242_Short Calendar Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:53:16 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-calendar-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT CALENDAR SPREAD WITH PUTS - FIDELITY
 

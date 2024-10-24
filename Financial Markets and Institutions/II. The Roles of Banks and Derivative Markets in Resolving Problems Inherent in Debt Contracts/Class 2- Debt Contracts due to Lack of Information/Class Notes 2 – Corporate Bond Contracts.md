@@ -1,6 +1,15 @@
 ---
-title: Class Notes 2 – Corporate Bond Contracts
+aliases:
+- "Alias_18_Class Notes 2 \u2013 Corporate Bond Contracts.md"
+- "Example_Alias_Class Notes 2 \u2013 Corporate Bond Contracts"
+tags:
+- tag_example
+- example_tag
+title: "Class Notes 2 \u2013 Corporate Bond Contracts"
 ---
+
+
+
 
 # Class Notes 2 – Corporate Bond Contracts
 

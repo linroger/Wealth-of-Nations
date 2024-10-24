@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_59_The Asian Liquidity Crisis.md
+- Example_Alias_The Asian Liquidity Crisis
+tags:
+- tag_example
+- example_tag
 title: The Asian Liquidity Crisis
 ---
+
+
+
 
 # The Asian Liquidity Crisis
 

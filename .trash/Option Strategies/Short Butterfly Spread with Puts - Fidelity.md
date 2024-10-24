@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_236_Short Butterfly Spread with Puts - Fidelity.md
+- Alias_237_Short Butterfly Spread with Puts - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:53:05 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/short-butterfly-spread-puts
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # SHORT BUTTERFLY SPREAD WITH PUTS - FIDELITY
 

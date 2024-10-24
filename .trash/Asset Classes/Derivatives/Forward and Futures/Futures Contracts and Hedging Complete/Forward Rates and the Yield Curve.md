@@ -1,8 +1,16 @@
 ---
+aliases:
+- Alias_265_Forward Rates and the Yield Curve.md
+- Forward Rates
+- '**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**'
+- Alias_262_Forward Rates and the Yield Curve.md
+linter-yaml-title-alias: '**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**'
+tags:
+- tag_example
 title: Forward Rates and the Yield Curve
-aliases: ["**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**",  Forward Rates]
-linter-yaml-title-alias: "**-RELATIONSHIPS BETWEEN FORWARD,   SPOT,   AND PAR RATES**"
 ---
+
+
 
 ## **BOND PRICING USING ZERO-COUPON BONDS**
 

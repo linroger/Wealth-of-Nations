@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Note On Terrausd May 21 2022
+- Alias_56_Class Note On Terrausd May 21 2022.md
+tags:
+- tag_example
+- example_tag
 title: Class Note On Terrausd May 21 2022
 ---
+
+
+
 
 # Class Note On Terrausd May 21 2022
 

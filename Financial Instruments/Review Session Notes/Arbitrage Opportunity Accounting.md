@@ -1,8 +1,15 @@
 ---
-title: ARBITRAGE OPPORTUNITY ACCOUNTING
-aliases: [ARBITRAGE OPPORTUNITY ACCOUNTING]
+aliases:
+- Alias_187_Arbitrage Opportunity Accounting.md
+- Alias_186_Arbitrage Opportunity Accounting.md
+- ARBITRAGE OPPORTUNITY ACCOUNTING
 linter-yaml-title-alias: ARBITRAGE OPPORTUNITY ACCOUNTING
+tags:
+- tag_example
+title: ARBITRAGE OPPORTUNITY ACCOUNTING
 ---
+
+
 
 # ARBITRAGE OPPORTUNITY ACCOUNTING
 ## 1. DETERMINING CURRENCY SWAP RATES

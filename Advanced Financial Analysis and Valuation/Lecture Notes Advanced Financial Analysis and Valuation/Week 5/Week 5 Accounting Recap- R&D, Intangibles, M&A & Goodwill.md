@@ -1,7 +1,15 @@
 ---
-tags: [1,  2]
+aliases:
+- Alias_318_Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md
+- Alias_315_Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md
+tags:
+- 1
+- 2
+- tag_example
 title: DOES CAPITALIZATION MATTER?
 ---
+
+
 
 #### ACCOUNTING FOR R&D AND INTANGIBLES
 

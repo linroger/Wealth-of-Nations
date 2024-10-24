@@ -1,10 +1,17 @@
 ---
 Owner: RRoger Lin
-tags: [Papers]
-title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
-aliases: [THE PRICING OF OPTIONS AND CORPORATE LIABILITIES]
+aliases:
+- Alias_185_The Pricing of Options and Corporate Liabilities.md
+- Alias_186_The Pricing of Options and Corporate Liabilities.md
+- THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
+tags:
+- Papers
+- tag_example
+title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 ---
+
+
 
 # THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**

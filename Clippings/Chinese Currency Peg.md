@@ -1,9 +1,19 @@
 ---
+aliases:
+- Example_Alias_Chinese Currency Peg
+- Alias_106_Chinese Currency Peg.md
+description: Explore China's currency peg,     which has helped Asia's largest economy
+  enjoy robust growth and continued prosperity by making the nation's exports cheaper.
+source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
+tags:
+- clippings
+- tag_example
+- example_tag
 title: Chinese Currency Peg
-source: "https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp"
-description: "Explore China's currency peg,     which has helped Asia's largest economy enjoy robust growth and continued prosperity by making the nation's exports cheaper."
-tags: ["clippings"]
 ---
+
+
+
 
 # Chinese Currency Peg
 ## What Is China's Currency Peg?

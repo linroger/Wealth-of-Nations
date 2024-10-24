@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_101_Financial Distress,  Reorganization,  And Organizational Efficiency.md
+- Example_Alias_Financial Distress,  Reorganization,  And Organizational Efficiency
+tags:
+- tag_example
+- example_tag
 title: Financial Distress,  Reorganization,  And Organizational Efficiency
 ---
+
+
+
 
 # Financial Distress,  Reorganization,  And Organizational Efficiency
 

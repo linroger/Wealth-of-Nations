@@ -1,8 +1,21 @@
 ---
-title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
-aliases: [The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo]
-linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
+aliases:
+- Alias_64_The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the
+  Use of Repo .md
+- 'Example_Alias_The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through
+  the Use of Repo '
+- The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
+linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet
+  Through the Use of Repo
+tags:
+- tag_example
+- example_tag
+title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use
+  of Repo
 ---
+
+
+
 
 # The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
 

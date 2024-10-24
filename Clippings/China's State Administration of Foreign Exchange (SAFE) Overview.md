@@ -1,9 +1,19 @@
 ---
-title: "China's State Administration of Foreign Exchange (SAFE) Overview"
-source: "https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp"
-description: "China's State Administration of Foreign Exchange is the country's official state-run foreign exchange regulatory agency."
-tags: ["clippings"]
+aliases:
+- Alias_108_China's State Administration of Foreign Exchange (SAFE) Overview.md
+- Example_Alias_China's State Administration of Foreign Exchange (SAFE) Overview
+description: China's State Administration of Foreign Exchange is the country's official
+  state-run foreign exchange regulatory agency.
+source: https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
+tags:
+- clippings
+- tag_example
+- example_tag
+title: China's State Administration of Foreign Exchange (SAFE) Overview
 ---
+
+
+
 
 # China's State Administration of Foreign Exchange (SAFE) Overview
 ## What Is China's State Administration of Foreign Exchange (SAFE)?

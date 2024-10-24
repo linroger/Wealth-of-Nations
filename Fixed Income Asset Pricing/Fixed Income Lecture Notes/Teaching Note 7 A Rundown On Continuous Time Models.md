@@ -1,7 +1,17 @@
 ---
-aliases: [Continuous Time Models, Vasicek Model, Ho-Lee Model, Continuous Time]
+aliases:
+- Continuous Time
+- Alias_367_Teaching Note 7 A Rundown On Continuous Time Models.md
+- Vasicek Model
+- Ho-Lee Model
+- Continuous Time Models
+- Alias_364_Teaching Note 7 A Rundown On Continuous Time Models.md
+tags:
+- tag_example
 title: Teaching Note 7 A Rundown On Continuous Time Models
 ---
+
+
 
 # Teaching Note 7 A Rundown On Continuous Time Models
 

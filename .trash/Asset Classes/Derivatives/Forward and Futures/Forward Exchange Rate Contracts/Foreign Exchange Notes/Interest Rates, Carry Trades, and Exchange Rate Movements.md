@@ -1,8 +1,17 @@
 ---
-aliases: ["INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS", Carry Trade, Exchange Rate Movements]
+aliases:
+- Alias_267_Interest Rates, Carry Trades, and Exchange Rate Movements.md
+- INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS
+- Alias_270_Interest Rates, Carry Trades, and Exchange Rate Movements.md
+- Exchange Rate Movements
+- Carry Trade
+linter-yaml-title-alias: INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS
+tags:
+- tag_example
 title: INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS
-linter-yaml-title-alias: "INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS"
 ---
+
+
 # INTEREST RATES, CARRY TRADES, AND EXCHANGE RATE MOVEMENTS
 
 Federal Reserve Bank of San Francisco

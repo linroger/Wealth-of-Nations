@@ -1,9 +1,15 @@
 ---
 Owner: RRoger Lin
-tags:
-  - Bonds
 URL: https://www.notion.so/Yield-Curves-000680c441ec43c68f8d832e5af8117a?pvs=4
+aliases:
+- Alias_271_Yield Curves.md
+- Alias_274_Yield Curves.md
+tags:
+- Bonds
+- tag_example
 ---
+
+
 
 - A **yield curve** graphs bond yields against their maturities
 	 - Alternatively, plot yields against durations

@@ -1,8 +1,16 @@
 ---
-title: Do Bondholders Lose From Junk Bond Covenant Changes?
 aliases:
-  - Do Bondholders Lose From Junk Bond Covenant Changes?
+- Alias_12_Do Bondholders Lose From Junk Bond Covenant Changes.md
+- Example_Alias_Do Bondholders Lose From Junk Bond Covenant Changes
+- Do Bondholders Lose From Junk Bond Covenant Changes?
+tags:
+- tag_example
+- example_tag
+title: Do Bondholders Lose From Junk Bond Covenant Changes?
 ---
+
+
+
 
 # Do Bondholders Lose From Junk Bond Covenant Changes
 

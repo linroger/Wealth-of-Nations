@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_178_Deriving Forward Exchange Rate Numerical Example.md
+- Alias_179_Deriving Forward Exchange Rate Numerical Example.md
+tags:
+- tag_example
 title: Deriving Forward Exchange Rate Numerical Example
 ---
+
+
 # Deriving Forward Exchange Rate Numerical Example
 
 [Carry Trade](Carry%20Trade.md)

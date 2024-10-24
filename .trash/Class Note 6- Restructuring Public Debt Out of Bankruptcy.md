@@ -1,8 +1,15 @@
 ---
-title: Class Note 6-Restructuring public debt out of bankruptcy
-aliases: [Class Note 6-Restructuring public debt out of bankruptcy]
+aliases:
+- Class Note 6-Restructuring public debt out of bankruptcy
+- Alias_202_Class Note 6- Restructuring Public Debt Out of Bankruptcy.md
+- Alias_203_Class Note 6- Restructuring Public Debt Out of Bankruptcy.md
 linter-yaml-title-alias: Class Note 6-Restructuring public debt out of bankruptcy
+tags:
+- tag_example
+title: Class Note 6-Restructuring public debt out of bankruptcy
 ---
+
+
 
 # Class Note 6-Restructuring public debt out of bankruptcy
 ### Class Note 6: Restructuring public debt out of bankruptcy

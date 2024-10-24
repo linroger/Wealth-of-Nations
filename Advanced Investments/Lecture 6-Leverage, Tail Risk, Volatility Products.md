@@ -1,6 +1,15 @@
 ---
+aliases:
+- Alias_114_Lecture 6-Leverage, Tail Risk, Volatility Products.md
+- Example_Alias_Lecture 6-Leverage, Tail Risk, Volatility Products
+tags:
+- tag_example
+- example_tag
 title: Lecture 6-Leverage,  Tail Risk,  Volatility Products
 ---
+
+
+
 
 # Lecture 6-Leverage,  Tail Risk,  Volatility Products
 

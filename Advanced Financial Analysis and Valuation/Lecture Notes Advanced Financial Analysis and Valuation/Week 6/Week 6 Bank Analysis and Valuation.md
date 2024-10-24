@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_329_Week 6 Bank Analysis and Valuation.md
+- Alias_332_Week 6 Bank Analysis and Valuation.md
+tags:
+- tag_example
 title: MOATS AND COMPETITIVE ANALYSIS
 ---
+
+
 ### BANK ANALYSIS AND VALUATION
 
 **Today's Focus:**

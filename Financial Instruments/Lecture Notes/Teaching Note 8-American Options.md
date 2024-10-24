@@ -1,7 +1,14 @@
 ---
+aliases:
+- LECTURE NOTE 8 AMERICAN OPTIONS
+- Alias_159_Teaching Note 8-American Options.md
+- Alias_160_Teaching Note 8-American Options.md
+tags:
+- tag_example
 title: Teaching Note 8-American Options
-aliases: [LECTURE NOTE 8 AMERICAN OPTIONS]
 ---
+
+
 
 # Teaching Note 8-American Options
 

@@ -1,8 +1,21 @@
 ---
-title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitraged
-aliases: [Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitraged, Class Slides the Ltcm Meltdown Liquidity and “performance Based Arbitrage]
-linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitraged
+aliases:
+- "Class Slides the Ltcm Meltdown Liquidity and \u201Cperformance Based Arbitrage"
+- "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitraged"
+- "Alias_96_Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitrage.\u201D\
+  .md"
+- "Example_Alias_Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based\
+  \ Arbitrage"
+linter-yaml-title-alias: "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance\
+  \ Based Arbitraged"
+tags:
+- tag_example
+- example_tag
+title: "Class Slides The LTCM Meltdown Liquidity and \u201CPerformance Based Arbitraged"
 ---
+
+
+
 
 # Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 

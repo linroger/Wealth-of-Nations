@@ -1,6 +1,18 @@
 ---
-title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
+aliases:
+- Example_Alias_Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
+  Update,  March 2009
+- Alias_44_Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
+  Update,  March 2009.md
+tags:
+- tag_example
+- example_tag
+title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
+  Update,  March 2009
 ---
+
+
+
 
 # Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 

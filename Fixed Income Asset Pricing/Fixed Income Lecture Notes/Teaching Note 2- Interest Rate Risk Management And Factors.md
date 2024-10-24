@@ -1,8 +1,15 @@
 ---
-title: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
-aliases: [TREASURY TRANSACTION AND CASH FLOW ANALYSIS]
+aliases:
+- Alias_377_Teaching Note 2- Interest Rate Risk Management And Factors.md
+- Alias_374_Teaching Note 2- Interest Rate Risk Management And Factors.md
+- TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
+tags:
+- tag_example
+title: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 ---
+
+
 
 ---
 

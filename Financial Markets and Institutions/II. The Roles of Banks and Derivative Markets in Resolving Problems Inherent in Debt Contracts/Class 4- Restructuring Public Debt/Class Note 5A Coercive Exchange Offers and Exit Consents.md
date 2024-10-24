@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Class Note 5A Coercive Exchange Offers and Exit Consents
+- Alias_5_Class Note 5A Coercive Exchange Offers and Exit Consents.md
+tags:
+- tag_example
+- example_tag
 title: Class Note 5A Coercive Exchange Offers and Exit Consents
 ---
+
+
+
 
 # Class Note 5A Coercive Exchange Offers and Exit Consents
 

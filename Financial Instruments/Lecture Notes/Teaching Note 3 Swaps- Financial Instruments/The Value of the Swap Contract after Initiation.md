@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_171_The Value of the Swap Contract after Initiation.md
+- Alias_170_The Value of the Swap Contract after Initiation.md
+tags:
+- tag_example
+---
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

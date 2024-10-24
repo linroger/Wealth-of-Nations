@@ -1,3 +1,11 @@
+---
+aliases:
+- Alias_289_PSET 2- DOLLAR TREE CASE STUDY.md
+- Alias_292_PSET 2- DOLLAR TREE CASE STUDY.md
+tags:
+- tag_example
+---
+
 # DOLLAR TREE CASE STUDY
 ## 1. DOLLAR GENERAL’S PERFORMANCE
 

@@ -1,9 +1,15 @@
 ---
+aliases:
+- Alias_240_Long Put - Speculative - Fidelity.md
+- Alias_239_Long Put - Speculative - Fidelity.md
+author: "The Options Institute at CBOE\xAE"
 created: 2024-01-29T05:52:52 (UTC -06:00)
-tags: []
 source: https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/longput-speculative
-author: The Options Institute at CBOE®
+tags:
+- tag_example
 ---
+
+
 
 # LONG PUT - SPECULATIVE - FIDELITY
 

@@ -1,8 +1,15 @@
 ---
-title: Week 1-Advanced Investments
-aliases: [Lecture 1]
+aliases:
+- Lecture 1
+- Alias_247_Week 1-Advanced Investments.md
+- Alias_246_Week 1-Advanced Investments.md
 linter-yaml-title-alias: Lecture 1
+tags:
+- tag_example
+title: Week 1-Advanced Investments
 ---
+
+
 
 ### Advanced Investments
 

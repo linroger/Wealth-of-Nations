@@ -1,8 +1,17 @@
 ---
-title: Temporary Guarantee Program For Money Funds
-aliases: [Temporary Guarantee Program For Money Funds]
+aliases:
+- Example_Alias_Temp MMF Guarantee 2008
+- Temporary Guarantee Program For Money Funds
+- Alias_82_Temp MMF Guarantee 2008.md
 linter-yaml-title-alias: Temporary Guarantee Program For Money Funds
+tags:
+- tag_example
+- example_tag
+title: Temporary Guarantee Program For Money Funds
 ---
+
+
+
 
 # Temp MMF Guarantee 2008
 

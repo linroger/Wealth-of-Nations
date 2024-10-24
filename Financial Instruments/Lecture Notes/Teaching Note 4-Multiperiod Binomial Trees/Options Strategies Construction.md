@@ -1,8 +1,15 @@
 ---
-title: OPTIONS STRATEGIES CONSTRUCTION
-aliases: [OPTIONS STRATEGIES CONSTRUCTION]
+aliases:
+- Alias_181_Options Strategies Construction.md
+- OPTIONS STRATEGIES CONSTRUCTION
+- Alias_182_Options Strategies Construction.md
 linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
+tags:
+- tag_example
+title: OPTIONS STRATEGIES CONSTRUCTION
 ---
+
+
 
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]

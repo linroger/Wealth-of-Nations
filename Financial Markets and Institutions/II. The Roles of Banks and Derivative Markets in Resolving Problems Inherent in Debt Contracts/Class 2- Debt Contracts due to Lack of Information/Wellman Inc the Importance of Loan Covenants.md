@@ -1,6 +1,15 @@
 ---
+aliases:
+- Example_Alias_Wellman Inc the Importance of Loan Covenants
+- Alias_15_Wellman Inc the Importance of Loan Covenants.md
+tags:
+- tag_example
+- example_tag
 title: Wellman Inc the Importance of Loan Covenants
 ---
+
+
+
 
 # Wellman Inc the Importance of Loan Covenants
 

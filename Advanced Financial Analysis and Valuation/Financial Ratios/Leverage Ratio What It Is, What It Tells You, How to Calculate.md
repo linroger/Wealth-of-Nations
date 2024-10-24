@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_303_Leverage Ratio What It Is, What It Tells You, How to Calculate.md
+- Alias_306_Leverage Ratio What It Is, What It Tells You, How to Calculate.md
+tags:
+- tag_example
 title: Leverage Ratio What It Is,  What It Tells You,  How to Calculate
 ---
+
+
 # Leverage Ratio What It Is,  What It Tells You,  How to Calculate
 ## What Is a Leverage Ratio?
 

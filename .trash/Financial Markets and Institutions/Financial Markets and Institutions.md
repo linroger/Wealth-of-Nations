@@ -1,6 +1,13 @@
 ---
+aliases:
+- Alias_214_Financial Markets and Institutions.md
+- Alias_215_Financial Markets and Institutions.md
+tags:
+- tag_example
 title: Financial Markets and Institutions
 ---
+
+
 
 # Financial Markets and Institutions
 
