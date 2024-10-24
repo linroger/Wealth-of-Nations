@@ -52,19 +52,8 @@ a $10 \%$ yield on a Treasury bond into a zero return in real terms. Over the su
 Figure 8.2 illustrates the consequences that inflation had for the experiences of longterm bond investors during the past decades. In this figure, I consider an investor who invests 1$ to purchase a portfolio of 5-10 year U.S. Treasury bonds and rebalances this portfolio every month so that it stays within the 5-10 year maturity band. The investor does this rebalancing for 20 years and I then look at the final value of the portfolio after 20 years in nominal terms and in real terms. The bonds in this portfolio are regular U.S. Treasury bonds that have principal and coupons fixed in nominal terms (we'll discuss a different kind that offers inflation-adjusted payoffs later in this lecture).
   
 The blue line in the figure shows the nominal final value. For example, the point on the blue line for 1975 says that an investor who held this bond portfolio from 1956 to 1975 turned the initial 1$ into around 2.1$. The real line shows the real value, after removing the effects of inflation. The point for 1975 on the red line therefore says that in terms of purchasing power, the investor who started in 1956 just achieved a preservation of the purchasing power of his investment, but not more than this: the real return was zero.
+![](Keep%20It%202024-10-24%2010.52.05.png)
 
-| LoCATION                            | Start Date | End Date      | Month With Highest Inflation Rate | HigHEST MONTHLY INFLATION RATE | EQUIVALENT DAILY InfLATION RATE | TIME REQUIRED FOR PRICES TO DoUble | Currency             | Type of Price INDEX    |
-| ----------------------------------- | --------------- | ------------- | ------------------------------------------------ | --------------------------------------------- | --------------------------------- | ------------------------------------------------------ | -------------------- | ---------------------- |
-| Hungary ${ }^{1}$                   | Aug. 1945       | Jul. 1946     | Jul. 1946                                        | $4.19 \times 10^{16} \%$                      | 207\%                             | 15.0 hours                                             | Pengő                | Consumer               |
-| Zimbabwe $^{2}$                     | Mar. 2007       | Mid-Nov. 2008 | Mid-Nov. 2008                                    | $7.96 \times 10^{10} \%$                      | 98.0\%                            | 24.7 hours                                             | Dollar               | Implied Exchange Rate* |
-| Yugoslavia ${ }^{3}$                | Apr. 1992       | Jan. 1994     | Jan. 1994                                        | 313,000,000\%                                 | 64.6\%                            | 1.41 days                                              | Dinar                | Consumer               |
-| Republika Srpska ${ }^{4}$          | Apr. 1992       | Jan. 1994     | Jan. 1994                                        | 297,000,000\%                                 | 64.3\%                            | 1.41 days                                              | Dinar                | Consumer               |
-| Germany ${ }^{5}$                   | Aug. 1922       | Dec. 1923     | Oct. 1923                                        | 29,500\%                                      | 20.9\%                            | 3.70 days                                              | Papiermark           | Wholesale              |
-| Greece ${ }^{6}$                    | May. 1941       | Dec. 1945     | Oct. 1944                                        | 13,800\%                                      | $17.9 \%$                         | 4.27 days                                              | Drachma              | Exchange Rate          |
-| China§ ${ }^{7}$                    | Oct. 1947       | Mid-May 1949  | Apr. 1949                                        | 5,070\%                                       | $14.1 \%$                         | 5.34 days                                              | Yuan                 | Wholesale for Shanghai |
-| Free City of Danzig ${ }^{8}$       | Aug. 1922       | Mid-Oct. 1923 | Sep. 1923                                        | 2,440\%                                       | $11.4 \%$                         | 6.52 days                                              | German Papiermark    | Exchange Rate**        |
-| Armenia ${ }^{9}$                   | Oct. 1993       | Dec. 1994     | Nov. 1993                                        | 438\%                                         | 5.77\%                            | 12.5 days                                              | Dram & Russian Ruble | Consumer               |
-| Turkmenistan $\dagger \dagger^{10}$ | Jan. 1992       | Nov. 1993     | Nov. 1993                                        | $429 \%$                                      | $5.71 \%$                         | 12.7 days                                              | Manat                | Consumer               |
   
 Figure 8.3: Top-10 hyperinflations in world history
 Source: Hanke, S.H. and Krus, N., 2013. World hyperinflations. In: Routledge handbook of major events in economic history (pp. 384-394). Routledge.
@@ -203,18 +192,8 @@ $$
 The two slope coefficients $\beta_{\pi}$ and $\beta_{\mathbb{E} \pi}$ capture exposure to the two types of inflation risk. For a real asset with zero exposure to inflation risk, we would expect $\beta_{\pi}=0$ and $\beta_{\mathbb{E} \pi}=0$. For a nominal asset we would expect $\beta_{\pi}<0$ and $\beta_{\mathbb{E} \pi}<0$.
   
 Table 8.1: Inflation betas of asset classes
+![400](Keep%20It%202024-10-24%2010.52.14.png)
 
-|   | $a$ | $\beta_{\pi}$ | $\beta_{\mathbb{E} \pi}$ | $R^{2}$ |
-| --- | --- | --- | --- | --- |
-| Panel A: Long-term bonds |   |   |   |   |
-| Estimates | 0.04 | $-2.39$ | $-2.29$ | 0.49 |
-| $t$-statistic | $(4.37)$ | $(-4.09)$ | $(-1.38)$ |   |
-| Panel B: Stock market index |   |   |   |   |
-| Estimates | 0.09 | $-2.41$ | $-0.07$ | 0.08 |
-| $t$-statistic | $(3.99)$ | $(-1.59)$ | $(-0.02)$ |   |
-| Panel C: Gold |   |   |   |   |
-| Estimates | 0.06 | 2.75 | 10.78 | 0.23 |
-| $t$-statistic | (1.91) | (1.40) | (1.93) |   |
   
 Table (8.1) shows the results from these regressions for three asset classes: U.S. Treasury bonds with maturities between 5 to 10 years, the CRSP value-weighted stock market index, and gold. The data is from 1971 to 2023. The results in the table show stark differences across asset classes.
   
@@ -478,16 +457,11 @@ The solid lines in the figure show the inflation prediction that comes out of a 
 From a central banker's viewpoint, the fact that we see these experience-dependent differences between young and old means that experiences exert a force that is not so easy to overcome just with words and announcements. Moreover, the unanchoring of inflation expectations that central bankers are typically worried about is likely to happen more quickly for younger individuals. ${ }^{8}$ On the other hand, once expectations of the general population have become unanchored, it will be particularly difficult to re-anchor those of older individuals because a few quarters of low inflation will do little to alter their extensive set of historical experiences.
   
 [^42]
-| Table G3 | Real German Revenues and Expenditures, Calculated on the Basis of the Cost-of-Living Index (in millions of gold marks) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- |
-|  | Revenue |  |  |  | Expenditures |  |  |  |  |  |
-|  | Taxes | Sundries | Deficit Covered by Loan Transactions | Total | Repayment  of Floating Debt | Interest <br> on Floating Debt | Subsidies to  Railroads | Execution of Versailles Treaty | Sundries | Total |
-| 1920-21 | 4,090.8 | 132.9 | 7,041.9 | 11,265.6 | 821.7 | - | - | — | - | 11,265.6 |
-| 1921-22 | 5,235.7 | 100.5 | 6,627.4 | 11,963.6 | 1,039.5 | 811.6 | 1,114.4 | 5,110.6 | 5,738.4 | 11,963.4 |
-| 1922-23 | 3,529.1 | 51.4 | 6,384.5 | 9,965.0 | 81.0 | 344.4 | 1,685.5 | 3,600.0 | 4,254.1 | 9,965.0 |
-| 1923-24 (first 9 months) | 1,496.1 | 180.6 | 11,836.5 | 13,513.2 | — | 931.0 | 3,725.0 | - | - | 13,513.2 |
+![](Keep%20It%202024-10-24%2010.52.29.png)
+
+=
   
-Source: Young [36, vol. 2, p. 393].
+Source: Young \[36, vol. 2, p. 393].
 Figure 8.12: Government budget in Germany in years leading up to 1923 hyperinflation Source: Sargent, T.J., 1982. The ends of four big inflations. In Inflation: Causes and effects (pp. 41-98). University of Chicago Press.
   
 It's good news for the Federal Reserve that a big unanchoring of inflation expectations has not happened yet following the recent surge of inflation in 2022. The breakeven inflation rates in Figure 8.7 shows that the bond market prices in somewhat higher expected inflation, but this is still far from the expected inflation rates of around $10 \%$ that were registered the last time inflation surged in the early 1980s.

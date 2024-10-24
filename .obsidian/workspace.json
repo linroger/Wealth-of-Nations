@@ -48,9 +48,24 @@
               "icon": "lucide-file",
               "title": "Lecture 8- Inflation & Sovereign Default Risk"
             }
+          },
+          {
+            "id": "c03cff7257b852dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fixed Income HW Assignments"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
+                "file": "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 8- Inflation & Sovereign Default Risk"
+              "title": "Backlinks for Fixed Income HW Assignments"
             }
           }
         ],
@@ -208,8 +223,15 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "de21b127a0356992",
+  "active": "c03cff7257b852dd",
   "lastOpenFiles": [
+    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
+    "Attachments/9/f/4/4.md",
+    "Attachments/Attachments.md",
+    "Attachments/Keep It 2024-10-24 10.52.05.png",
+    "Attachments/Keep It 2024-10-24 10.52.29.png",
+    "Attachments/Keep It 2024-10-24 10.52.40.png",
+    "Attachments/Keep It 2024-10-24 10.52.14.png",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Attachments/Keep It 2024-10-24 10.48.12.png",
     "Attachments/Keep It 2024-10-24 10.47.46.png",
@@ -218,18 +240,12 @@
     "Attachments/Keep It 2024-10-24 10.47.10.png",
     "Attachments/CleanShot 2024-10-24 -003126@2x.png",
     "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
-    "Attachments/Dropover 2024-10-24 10.37.52.png",
-    "Attachments/Dropover 2024-10-24 10.37.37.png",
-    "Attachments/Dropover 2024-10-24 10.37.20.png",
-    "Attachments/Paste 2024-10-24 10.43.16.png",
-    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
     "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Advanced Investments/Lecture 3- Dynamics of Returns.md",
     "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
     "Advanced Investments/Advanced Investments Lecture Notes.docx",
     "Advanced Investments/Advanced Investments Lecture Notes.md",
-    "Attachments/Attachments.md",
     "Attachments/Attachment 107.bin",
     "Attachments/Attachment 106.bin",
     "Attachments/Attachment 105.bin",
