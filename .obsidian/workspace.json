@@ -8,78 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "394ba9cc3d5f3be8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Financial Markets and Institutions"
-              },
-              "icon": "lucide-file",
-              "title": "Financial Markets and Institutions"
-            }
-          },
-          {
-            "id": "8d21f36c63257532",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation"
-              },
-              "icon": "lucide-file",
-              "title": "I- Introduction to Financial Markets and Intermediation"
-            }
-          },
-          {
-            "id": "2ba54372cd26c434",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation"
-              },
-              "icon": "lucide-file",
-              "title": "I- Introduction to Financial Markets and Intermediation"
-            }
-          },
-          {
-            "id": "f6915c3fbfce250c",
+            "id": "62872605a866e24c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
+                "file": "Adv Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HBS DOLLAR GENERAL GOING PRIVATE"
+              "title": "Lecture 2- Asset Allocation with Multiple Risky Assets"
             }
           },
           {
-            "id": "baa773731299b5a6",
+            "id": "8b90fa44cb16bb3e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Fixed Income Asset Pricing"
+                "file": "Adv Investments/Adv Investments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixed Income Asset Pricing"
-            }
-          },
-          {
-            "id": "62872605a866e24c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png"
-              },
-              "icon": "lucide-image",
-              "title": "77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb"
+              "title": "Adv Investments"
             }
           },
           {
@@ -113,18 +68,6 @@
             }
           },
           {
-            "id": "60013c563a9e176c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Advanced Investments/Week 8-Advanced Investments"
-              },
-              "icon": "lucide-file",
-              "title": "Week 8-Advanced Investments"
-            }
-          },
-          {
             "id": "3f338498b7bfd30c",
             "type": "leaf",
             "state": {
@@ -140,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,19 +134,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "cc849d1bdef41972",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -310,8 +242,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6915c3fbfce250c",
+  "active": "8b90fa44cb16bb3e",
   "lastOpenFiles": [
+    "Adv Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
+    "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
+    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+    "Fixed Income/Fixed Income.md",
+    "Fixed Income",
+    "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
     "HBR Notes/A Primer on Distressed Investing.md",
     "HBR Notes/A Primer on Bank Liquidity.md",
     "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Differences Between Commodities and Financial Assets.md",
@@ -335,11 +274,6 @@
     "Asset Classes/Fixed Income Securities/Bonds/Bond Pricing in Discrete Time.md",
     "Asset Classes/Fixed Income Securities/Bonds/Leveraged Loan Primer.md",
     "Asset Classes/Fixed Income Securities/Bonds/Notes-Handbook of Fixed Income Securities 1.md",
-    "Asset Classes/Fixed Income Securities/Bonds/Bond Complete.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Leverage Ratio What It Is, What It Tells You, How to Calculate.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Comps Definition, How They're Used in Analysis, and Example.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
     "Clippings",
     "Adv Investments",
     "Asset Classes/Derivatives/Forward and Futures/Forward Exchange Rate Contracts/The Deutsche Bank Guide to Exchange-Rate Determination 1.pdf",
@@ -352,11 +286,9 @@
     "Attachments/8d012b97a32484f22c2b938f2592c20e.png",
     "Attachments/0afcc6662687105cc7d22e71f6b49048.png",
     "Attachments/ae9b588a4867fda8b108ae849841a10a.png",
-    "Attachments/b66ed4a07d1539c3765b9d0e5739b914.png",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 1",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes/Week 3",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4",
-    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 5"
+    "Advanced Financial Analysis and Valuation/Lecture Notes/Week 4"
   ]
 }

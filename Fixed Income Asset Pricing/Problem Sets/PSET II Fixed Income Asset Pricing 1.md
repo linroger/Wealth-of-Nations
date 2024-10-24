@@ -23,9 +23,9 @@ Recommended Reading: Veronesi's Book. Chapter 2 (esp. 2.8); Chapter 3 (esp. 3.7)
 
 ## LEVERAGED INVERSE FLOATER TERM SHEET
 
-| Date                    | February 17,  2009                                        |
+| Date                    | February 17,   2009                                        |
 |-------------------------|----------------------------------------------------------|
-| Maturity                | February 17,  2014 (5 year)                               |
+| Maturity                | February 17,   2014 (5 year)                               |
 | Payments Frequency      | Semi-annual                                              |
 | Interest Payment        | Base Interest Rate minus 2 times Reference Interest Rate |
 | Base Interest Rate      | 10%                                                      |
@@ -276,21 +276,21 @@ Do the following:
 can be considered 0.5,  and so on.
 
 $$\begin{align*}
-Z(0, 0.5) &= \frac{102.6935 - 99.70412776}{1.03} \\
-Z(0, 1) &= \frac{105.7617 - 0.0325 \times 99.70412776 - 99.92425116}{1.0325} \\
-Z(0, 1.5) &= \frac{107.7109 - 0.0288 (99.29125116 + 99.70412776)}{1.0288} - 99.1395 \\
+Z(0,  0.5) &= \frac{102.6935 - 99.70412776}{1.03} \\
+Z(0,  1) &= \frac{105.7617 - 0.0325 \times 99.70412776 - 99.92425116}{1.0325} \\
+Z(0,  1.5) &= \frac{107.7109 - 0.0288 (99.29125116 + 99.70412776)}{1.0288} - 99.1395 \\
 r &= 2 \left( \frac{100}{(99.7042 - 1)^2} \right) - 0.00593355 \\
 r &= 2 \left( \frac{100}{(99.29125116 + 1)^2} \right) - 0.000709507 \\
 r &= 2 \left( \frac{100}{(99.1395 + 1)^{2/3}} \right) - 0.00576968
 \end{align*}$$
 
-(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,  Notes and Bonds on February 17,  2009. (i) Use these data to bootstrap the term structure of interest rates for as long a maturity as possible,  and obtain the discount function. In particular,  you will see that for several maturities,  you will have a choice of which bonds to use in your bootstrap.
+(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,   Notes and Bonds on February 17,   2009. (i) Use these data to bootstrap the term structure of interest rates for as long a maturity as possible,   and obtain the discount function. In particular,   you will see that for several maturities,   you will have a choice of which bonds to use in your bootstrap.
 
-Compute two discount curves,  (a) one that uses the most recently issued bonds (as of 02/19/2009),  and (b) one that uses the oldest bonds. Discuss the differences. Make sure to report what data you actually use for the bootstrap as well as any approximation you have to carry out. \[Note: The bonds with highest coupon are the oldest ones].
+Compute two discount curves,   (a) one that uses the most recently issued bonds (as of 02/19/2009),   and (b) one that uses the oldest bonds. Discuss the differences. Make sure to report what data you actually use for the bootstrap as well as any approximation you have to carry out. \[Note: The bonds with highest coupon are the oldest ones].
 (ii) Plot the resulting term structure of interest rates (i.e. the spot rate function)
 for both cases (a) and (b). Discuss the difference and any other visible feature of the yield curve.
 
-The two term structures appear to be roughly similar,  although the off the run bonds appear to have greater fluctuations,  and at times,  a higher spot rate. This could be due to the fact that off the run bonds are not traded as regularly,  and are oftentimes held in a portfolio until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds,  and that this would result in the less smooth term structure we observe.
+The two term structures appear to be roughly similar,   although the off the run bonds appear to have greater fluctuations,   and at times,   a higher spot rate. This could be due to the fact that off the run bonds are not traded as regularly,   and are oftentimes held in a portfolio until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds,   and that this would result in the less smooth term structure we observe.
 
 ![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401170538265.png
 
@@ -330,29 +330,29 @@ The two term structures appear to be roughly similar,  although the off the run 
 (PP) Describe the cash flows of the Leverage Inverse Floater provided in Term Sheet.
 
 How can we decompose the Leverage Inverse Floater into simpler securities?
-- The leveraged Inverse Floater can be decomposed into a long position in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10,  in addition to a short position in 2 floating rate coupon bonds 
-(PP) Discuss intuitively the benefits from investing in the Leverage Inverse Floaters as compared to an existing,  traded,  regular fixed rate note with the same maturity.
+- The leveraged Inverse Floater can be decomposed into a long position in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10,   in addition to a short position in 2 floating rate coupon bonds 
+(PP) Discuss intuitively the benefits from investing in the Leverage Inverse Floaters as compared to an existing,   traded,   regular fixed rate note with the same maturity.
 1. Higher yield: The LIF provides a higher yield due to the leverage factor and the inverse relationship with the reference interest rate.
-2. Interest rate hedge: The LIF can act as a hedge against rising interest rates,  as its coupon payments increase when the reference interest rate decreases.
+2. Interest rate hedge: The LIF can act as a hedge against rising interest rates,   as its coupon payments increase when the reference interest rate decreases.
 (CP) Use the results in Point 1 to compute the price of Leverage Inverse Floater described in the Term Sheet (which term structure do you use? Remember you have to come up with one price and not two. Explain your choice). 
 
 ## 3. DURATION AND CONVEXITY
 
 (PP) Describe the **duration** of a fixed income security and how it is calculated in general. How is the duration of the Leverage Inverse Floater calculated? What are its components?
 
-- The duration of a bond measures it's price sensitivity to changes in interest rates,  representing the weighted average time until a bond's cash flows are received.
+- The duration of a bond measures it's price sensitivity to changes in interest rates,   representing the weighted average time until a bond's cash flows are received.
 - The Macaulay duration is defined as
 $$D^{M c}=-\frac{(1+y/2)}{P}\frac{d P}{d y}$$
-- Or equivalently, 
+- Or equivalently,  
 $$D^{M c}=\frac{1}{2}\sum_{j=1}^{n}w_{j}\times j$$
 where
-$$w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right), \;w_{n}=\frac{1}{P}\left(\frac{c/2+100}{\left(1+\frac{y}{2}\right)^{n}}\right)$$
+$$w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right),  \;w_{n}=\frac{1}{P}\left(\frac{c/2+100}{\left(1+\frac{y}{2}\right)^{n}}\right)$$
 
 ## MODIFIED DURATION
 
 - The modified duration is instead defined as
 $$M D=-\frac{1}{P}\frac{d P}{d y}$$
-- Or equivalently, 
+- Or equivalently,  
 $$M D=\frac{D^{M c}}{\left(1+\frac{y}{2}\right)}$$
 (CP) Calculate the duration of the Leverage Inverse Floater. Plot the value of the Leverage Inverse Floater against a hypothetical parallel shift in the term structure of interest rates.
 ![](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401212426843.png)
