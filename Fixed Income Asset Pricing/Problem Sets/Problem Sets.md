@@ -5,7 +5,6 @@ title: Problem Sets
 # Problem Sets
 
 %% Begin Waypoint %%
-
 - **[[Problem Sets]]**
 	- [[BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1]]
 	- [[Fixed Income Assignments LATEX Completed]]

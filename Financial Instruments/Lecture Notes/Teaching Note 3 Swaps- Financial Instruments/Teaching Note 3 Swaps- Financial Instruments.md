@@ -30,7 +30,6 @@ title: Teaching Note 3 SwapsFinancial Instruments
 [Overnight Index Swaps (OIS)](Overnight%20Index%20Swaps%20(OIS).md)
 
 %% Begin Waypoint %%
-
 - **[[Teaching Note 3 Swaps- Financial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

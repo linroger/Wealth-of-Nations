@@ -5,7 +5,6 @@ title: Week 2 Advanced Financial Analysis and Valuation
 # Week 2 Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%
-
 - **[[Week 2]]**
 	- [[Week 2 Advanced Financial Analysis and Valuation]]
 	- [[Week 2 Dollar General Case- Assignment Review]]
