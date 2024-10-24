@@ -570,6 +570,7 @@ Table 2.1: Annualized mean,  standard deviations,  and correlations for various 
 ```latex
 \begin{document}
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\tiny
 \hline
          & Stocks & I-Stocks & Value  & Small  & T-Bonds & I-Bonds & C-Bonds & REITS & Gold  \\ \hline\hline
 Mean     & 0.079  & 0.060    & 0.102  & 0.091  & 0.030   & 0.041   & 0.037   & 0.074 & 0.007 \\ \hline
