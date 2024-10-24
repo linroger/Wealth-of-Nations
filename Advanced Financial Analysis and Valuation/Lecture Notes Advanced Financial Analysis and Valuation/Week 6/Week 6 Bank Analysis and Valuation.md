@@ -1,3 +1,6 @@
+---
+title: MOATS AND COMPETITIVE ANALYSIS
+---
 ### BANK ANALYSIS AND VALUATION
 
 **Today's Focus:**
@@ -21,8 +24,8 @@
 - Separation of operating and financing items makes little sense
 	 - Banks largely have financial assets
 	 - Deposits could be viewed as raw material
-	 - Fixed assets are not so important, except IT
-- Bank invest heavily in intangible assets (e.g., human capital)
+	 - Fixed assets are not so important,  except IT
+- Bank invest heavily in intangible assets (e.g.,  human capital)
 - Regulation and the role of (equity) capital
 ### IMPORTANCE OF REGULATORY CAPITAL
 - Regulation Is Part Of The Business Model
@@ -41,7 +44,7 @@
 - **Deposit inflows (in good times) lead to more lending**
 	 - Remember deposits are like working capital for banks
 	 - Banks are reluctant to let capital sit idle on their balance sheets
-- **Asset values rise with the cycle, which in turn raises collateral values**
+- **Asset values rise with the cycle,  which in turn raises collateral values**
 	 - Makes it easier for banks and borrowers to engage
 - **Competition in local markets can exacerbate the cycle**
 	 - Lending standards typically decline in booms
@@ -51,11 +54,11 @@
 ### GOING THE EXTRA MILE: CYCLICALITY OF LENDING DISTANCES
 
 ![](995e6cc43b6677f190123d240205296b.png)
-Source: Granja, Leuz and Rajan (JF 2022)
+Source: Granja,  Leuz and Rajan (JF 2022)
 
 - **Average lending distance is cyclical**
-	 - As the economy heats up, banks' lending distances expand
-	 - In the bust, default rates on distance loans are higher
+	 - As the economy heats up,  banks' lending distances expand
+	 - In the bust,  default rates on distance loans are higher
 - **Distance lending is partly driven by local competition & deposit inflows**
 
 # MOATS AND COMPETITIVE ANALYSIS
@@ -74,14 +77,12 @@ Source: Granja, Leuz and Rajan (JF 2022)
 	 - Many deposits are 'sticky' (but possible tech disruption)
 - **Deep customer relationships spanning multiple product lines can generate switching costs**
 	 - Economies of scope can be a source of a competitive advantage
-- **Relationship lending & soft information (e.g., in business loans)**
-
+- **Relationship lending & soft information (e.g.,  in business loans)**
 
 ### ECONOMIES OF SCALE AT J.P. MORGAN
 > [!quote]
-> "Our scale creates huge cost efficiencies and enables significant resources to be brought to bear for the benefit of our company. For example, in global technology, we have nearly 30,000 programmers, application developers and information technology employees who keep our 7,200 applications, 32 data centers, 58,000 servers, 300,000 desktops and global network operating smoothly for all our clients. Resources like these allow us to constantly improve our operating efficiencies and bring enormous capability to deal with issues when we need to do so such as adjusting to all the new global rules and requirements. In total, we believe that expense synergies across the company save us approximately $3 billion a year."
+> "Our scale creates huge cost efficiencies and enables significant resources to be brought to bear for the benefit of our company. For example,  in global technology,  we have nearly 30, 000 programmers,  application developers and information technology employees who keep our 7, 200 applications,  32 data centers,  58, 000 servers,  300, 000 desktops and global network operating smoothly for all our clients. Resources like these allow us to constantly improve our operating efficiencies and bring enormous capability to deal with issues when we need to do so such as adjusting to all the new global rules and requirements. In total,  we believe that expense synergies across the company save us approximately $3 billion a year."
 > - Jamie Dimon letter to shareholders (JPM 2013 annual report)
-
 
 ### ECONOMIES OF SCOPE AT J.P. MORGAN
 
@@ -89,10 +90,10 @@ Source: Granja, Leuz and Rajan (JF 2022)
 > "Each of our four major businesses operates at good economies of scale and gets significant additional advantages from the other businesses. We believe this is one of the key reasons we have maintained good financial performance. Below are some pretty powerful examples:
 >
 > - Our North America Investment Bank generates 29% of its investment banking revenue through Commercial Bank clients covered locally.
-> - Our Global Corporate Bank helped generate $1.3 billion in revenue for our fixed income sales and trading operation, increasing business to our trading desks.
-> - Our Private Bank gets new clients from both our Investment Bank and our Commercial Bank. And the Private Bank and Commercial Bank would have a hard time existing without our Chase retail branch network. In fact, 55% of Commercial Bank clients and 35% of Private Bank households visit our retail branches each quarter.
-> - Of our $1.6 trillion of assets under management, approximately $300 billion comes from the Corporate & Investment Bank (CIB), the Commercial Bank or the Consumer Bank.
-> - Fifty-five percent of retail mortgages and 40% of Chase-branded credit cards are sold through the retail branches. In total, we believe that the combination of our businesses accounts for $15 billion of additional revenue, which helps drive both profits and customer satisfaction. Each of our businesses would be worse off but for the other three."
+> - Our Global Corporate Bank helped generate $1.3 billion in revenue for our fixed income sales and trading operation,  increasing business to our trading desks.
+> - Our Private Bank gets new clients from both our Investment Bank and our Commercial Bank. And the Private Bank and Commercial Bank would have a hard time existing without our Chase retail branch network. In fact,  55% of Commercial Bank clients and 35% of Private Bank households visit our retail branches each quarter.
+> - Of our $1.6 trillion of assets under management,  approximately $300 billion comes from the Corporate & Investment Bank (CIB),  the Commercial Bank or the Consumer Bank.
+> - Fifty-five percent of retail mortgages and 40% of Chase-branded credit cards are sold through the retail branches. In total,  we believe that the combination of our businesses accounts for $15 billion of additional revenue,  which helps drive both profits and customer satisfaction. Each of our businesses would be worse off but for the other three."
 >   - Jamie Dimon letter to shareholders (JPM 2013 annual report)
 
 # VALUE DRIVERS IN BANKING & SPREAD ANALYSIS
@@ -109,8 +110,8 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 ![](33d0b2d7191a3a0b040d0f2e6e22fdd9.png)
 
 ### ECONOMIC SPREAD ANALYSIS
-- **NIM does not measure value creation, as it does not account for duration mismatch**
-	 - A greater mismatch increases margin due to term premium (i.e., risk)
+- **NIM does not measure value creation,  as it does not account for duration mismatch**
+	 - A greater mismatch increases margin due to term premium (i.e.,  risk)
 - **Value creation is better measured as the difference between the rate a bank receives on loans and the maturity-matched return on loans in financial markets**
 	 - Opportunity cost (or cost of capital)
 - **Decomposition of NIM**
@@ -130,10 +131,10 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 - **Tax shield for debt but tax penalty for assets**
 	 - Banks are usually net holders of financial assets
 		  - This follows from the capital requirements
-		  - Thus, it is really the equity capital that determines the (net) tax penalty
+		  - Thus,  it is really the equity capital that determines the (net) tax penalty
 	 - **Banks incur a negative net tax effect**
 - **This implies that equity capital is costly for banks because of the tax penalty**
-	 - If you use a levered cost of equity, this penalty is included in the valuation
+	 - If you use a levered cost of equity,  this penalty is included in the valuation
 
 ### KEY METRICS FOR BANKS: SUMMARY
 - **Key performance metric used for banks is ROE**
@@ -176,7 +177,7 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 - **Part 2: Valuing a loan portfolio**
 	 - Evaluating the sale of Citigroup's loan portfolio to Blackstone
 	 - **What is the value of a loan (portfolio)?**
-		  - Expected cash flows, default and discount rates for debt
+		  - Expected cash flows,  default and discount rates for debt
 		  - Computing the cost of (risky) debt
 
 # DIFFERENT APPROACH TO VALUATION
@@ -191,15 +192,15 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 - **Could use equity models**
 	 - Capital (equity) is the key input
 	 - Flow-to-equity model or economic profit model
-- **For banks, book value is a more appropriate "benchmark" to compute the cost of capital charge for economic profits**
+- **For banks,  book value is a more appropriate "benchmark" to compute the cost of capital charge for economic profits**
 	 - Why?
 
 ### CASH FLOW-TO-EQUITY MODEL
 
-- **Equity value equals present value of future cash flows to equity (CFE), discounted at the cost of equity, $k_e$:**
+- **Equity value equals present value of future cash flows to equity (CFE),  discounted at the cost of equity,  $k_e$:**
 	 - We can derive $CFE$ as net income ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
 		  - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
-	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders, including dividends, share repurchases, and new share issuances
+	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders,  including dividends,  share repurchases,  and new share issuances
 ![](2597f4f51cb6585ab5b5591a4796dccd.png)
 - Discount with cost of equity ($k_e$)
 
@@ -218,7 +219,7 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 # ECONOMIC PROFIT MODEL: EQUITY VERSION
 
 - Economic profit model can also be applied as an equity model
-  - Now, we use equity capital, ROE, RONE, and $k_e$
+  - Now,  we use equity capital,  ROE,  RONE,  and $k_e$
 
 $$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^{\infty} \frac{\text{Economic Profit}_t}{(1+k_e)^t}$$
 
@@ -227,13 +228,14 @@ $$\text{Economic Profit}_t = \text{Book Value}_{t-1} * (ROE_t - k_e)$$
 $$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^T \frac{\text{Economic Profit}_t}{(1+k_e)^t} + \frac{TV_T}{(1+k_e)^T}$$
 
 $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
+
 - Sometimes called "abnormal earnings" or "excess return" model
 ### FLOW TO EQUITY EXAMPLE: DEUTSCHE BANK
 
 # FLOW TO EQUITY VALUATION: DEUTSCHE BANK
 - Deutsche Bank in October 2016
 	  - Major losses in 2015 and "current" year (2016)
-	  - Drop in Tier 1 regulatory capital in 2015, but still much higher than in the past
+	  - Drop in Tier 1 regulatory capital in 2015,  but still much higher than in the past
 	  - $14 billion fine by DoJ triggered panic in markets
 	  - Rumors of possible default or state takeover
 	  - Stock price dropped to $13.33
@@ -249,11 +251,11 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 	 - Rationale: Deutsche will earn its cost of equity in steady state
 - **Risk-adjusted assets (RWA) will grow by only 1.00% per year**
 - **Tier 1 capital ratio will improve to 15.67% (set to 75th percentile of all banks)**
-	 - Assumption implies reinvestments (i.e., building up capital)
+	 - Assumption implies reinvestments (i.e.,  building up capital)
 - **Cost of equity:**
 	 - Assume 10.20% (75th percentile of all banks)
-		  - Consistent with capital shortfall, they should have high CoE
-	 - After year 5, cost of equity declines to 9.44% by year 10 (median of all banks)
+		  - Consistent with capital shortfall,  they should have high CoE
+	 - After year 5,  cost of equity declines to 9.44% by year 10 (median of all banks)
 		  - Consistent with increase in (equity) capital
 - **Perpetual growth rate g = 1.00%**
 
@@ -268,18 +270,18 @@ Source: Damodaran Chapter 14: Table 14.4 Deutsche Bank – Expected ROE(%) and N
 
 - Forecast: RWA → capital ratio
 	- → T1 capital = required equity
-- Capital requirement is estimated based on RWA, not just equity
+- Capital requirement is estimated based on RWA,  not just equity
 	- Reflects Capital Regulation
 
-Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital and Reinvestment (In millions of US $) Note: The total reinvestment includes beginning-of-year increases in Tier 1 capital given forecasted growth in RWA, plus losses (which are assumed to occur at the end of the year)
+Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital and Reinvestment (In millions of US $) Note: The total reinvestment includes beginning-of-year increases in Tier 1 capital given forecasted growth in RWA,  plus losses (which are assumed to occur at the end of the year)
 
 ### DEUTSCHE BANK: FCFE AND TERMINAL VALUE
 
 ![](24578d9552c9c586c019776092e15c70.png)
 
-- Expected net income in year 11: $$\text{Expected net income in year 11} = $8,161 \times 1.01 = \$8,243$$
+- Expected net income in year 11: $$\text{Expected net income in year 11} = $8, 161 \times 1.01 = \$8, 243$$
 - Expected retention ratio in perpetuity: $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
-- Terminal Value (TV) of equity: $$ \text{TV of equity} = \frac{$8,243 \times (1 - 0.1059)}{ 0.09440.01} = $87,317$$
+- Terminal Value (TV) of equity: $$ \text{TV of equity} = \frac{$8, 243 \times (1 - 0.1059)}{ 0.09440.01} = $87, 317$$
 
 ### DEUTSCHE BANK: FAILURE RISK AND VALUE PER SHARE
 - **Summing over the PV terms on previous slide implies an equity value:**
@@ -296,12 +298,12 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 ![](97cdaedf156549bcd1107b5ce6e3bd1f.png)
 
 ### MARKET‐TO‐BOOK IS FREQUENTLY USED FOR BANKS
-- For banks, book value is measured closer to market value (or FV):
+- For banks,  book value is measured closer to market value (or FV):
 
   $$ P = \frac{Div}{ke^{-g}} = \frac{BV \times ROE \times \text{Payout Ratio} \times (1+g)}{ke^{-g}} $$
 
 ## DIVISION BY BOOK VALUE
-- When both sides are divided by BV, we obtain:
+- When both sides are divided by BV,  we obtain:
 
   $$\frac{P}{BV} = \frac{ROE \times (1 - \frac{g}{ROE}) \times (1+g)}{ke^{-g}}$$
 
@@ -311,7 +313,7 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 -$MTB (\frac{P}{BV})$ is a linear function of ROE:
   - **Bank with a higher expected ROE should trade at a higher MTB ratio.**
   - **The connection between economic profits and the market-to-book ratio.**
-- As always, comparability is essential:
+- As always,  comparability is essential:
   - Consider business model differences (growth and profitability).
   - Account for banks' impairment and provisioning policies (as they determine $BV$).
 ### MARKET -TO-BOOK RATIOS OVER TIME

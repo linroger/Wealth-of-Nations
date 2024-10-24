@@ -1,0 +1,15 @@
+---
+title: Week 5 Advanced Financial Analysis and Valuation
+---
+
+# Week 5 Advanced Financial Analysis and Valuation
+
+%% Begin Waypoint %%
+
+- **[[Week 5 Advanced Financial Analysis and Valuation]]**
+	- [[Week 5 Accounting Recap- R&D,    Intangibles,    M&A & Goodwill]]
+	- [[Week 5 Advanced Financial Analysis and Valuation]]
+	- [[Week 5 Pharmaceuticals and Intangibles in Valuation]]
+	
+
+%% End Waypoint %%

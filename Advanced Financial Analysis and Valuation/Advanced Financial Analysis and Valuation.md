@@ -17,7 +17,7 @@ linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION
 	- [[Financial Accounting- Class Notes]]
 	- **[[Financial Ratios]]**
 	- [[Financial_Statements.xlsm]]
-	- **[[Lecture Notes]]**
+	- **[[Lecture Notes Advanced Financial Analysis and Valuation]]**
 	- [[Porter's Five Forces]]
 	- **[[Problem Sets]]**
 
