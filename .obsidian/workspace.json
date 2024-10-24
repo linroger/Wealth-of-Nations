@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
+                "file": "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "On the Convergence of Hull White Monte Carlo Simulations"
+              "title": "Valuing European Option Using the Heston Model in QuantLib Python"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
+                "file": "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for On the Convergence of Hull White Monte Carlo Simulations"
+              "title": "Backlinks for Valuing European Option Using the Heston Model in QuantLib Python"
             }
           }
         ],
@@ -225,10 +225,13 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
+    "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
+    "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
+    "Attachments/Discount_Factor_Error1.png",
+    "Attachments/Discount_Factor_Error.png",
     "Attachments/standard_deviation_of_discount_factors 1.png",
     "Attachments/standard_deviation_of_discount_factors.png",
     "Clippings/Option Model Handbook, Part III European Option Pricing With QuantLib Python.md",
-    "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
     "Attachments/binomial_tree_for_varying_steps.png",
     "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
     "Attachments/mean_of_short_rates.png",
@@ -258,10 +261,7 @@
     "Attachments/Attachments.md",
     "Attachments/Keep It 2024-10-24 10.52.05.png",
     "Attachments/Keep It 2024-10-24 10.52.29.png",
-    "Attachments/Keep It 2024-10-24 10.52.40.png",
-    "Attachments/Keep It 2024-10-24 10.52.14.png",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
-    "Attachments/Keep It 2024-10-24 10.48.12.png",
     "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
     "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
