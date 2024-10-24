@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "c03cff7257b852dd",
+            "id": "cb048f3855ec8dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PSET VI Fixed Income"
+              "title": "Backlinks for Lecture 8- Inflation & Sovereign Default Risk"
             }
           }
         ],
@@ -223,10 +223,15 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "c03cff7257b852dd",
+  "active": "de21b127a0356992",
   "lastOpenFiles": [
-    "combined_markdown_content.txt",
+    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW LaTeX Files.md",
+    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
+    "combined_markdown_content.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 6 Mortgage Backed Securities.txt",
@@ -236,7 +241,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.txt",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve- Part 2.txt",
     "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
     "Attachments/9/f/4/4.md",
     "Attachments/Attachments.md",
@@ -266,10 +270,6 @@
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Financial Ratios/Financial Ratios.md",
-    "Clippings/Chinese Currency Peg.md",
-    "Credit Markets/Credit Markets.md"
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md"
   ]
 }
