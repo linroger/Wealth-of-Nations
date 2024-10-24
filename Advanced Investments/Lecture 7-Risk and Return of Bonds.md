@@ -20,7 +20,7 @@ U.S. Treasury bonds pay a stream of semi-annual coupons and a final principal pa
 
 [^29]principal payment and nothing else. Fortunately,  we can convert the prices and yields of regular U.S. Treasury bonds into zero-coupon bond prices and yields. We won't go into the details of how to do this,  but basically one views a Treasury bond as a portfolio of zero-coupon bonds: one for the first coupon payment,  one for the second,  …,  and one for the final principal payment. The price of the Treasury bond then must be,  based on no-arbitrage principles,  the sum of the prices of these individual zero-coupon bonds. If at every point in time one observes prices of many Treasury bonds with different maturities,  one can search for zero-coupon bond prices such that,  when they are summed up to to represent each Treasury bond as a portfolio of zero-coupon bonds,  they reproduce the observed prices of Treasury bonds.
 
-So let's say someone has done this for us. We therefore observe at time $t$ the prices $P_{n,         t}$ of zero-coupon bonds with maturity in $n$ years and which make a single payment of $$ 1$ at maturity. As a few lectures ago,         when we analyzed how the stock market pricedividend ratio relates to future cash flow growth and future returns,         it was convenient to work with $\log$ prices $p_{n,  t}=\log \left(P_{n,  t}\right)$. As we will see now,  doing so is actually particularly convenient for analyzing bonds. The absence of cash-flow risk makes the relationship between current log prices and future log returns particularly simple and we won't need the linearization approximation that we used for stock market valuation.
+So let's say someone has done this for us. We therefore observe at time $t$ the prices $P_{n,         t}$ of zero-coupon bonds with maturity in $n$ years and which make a single payment of $1$ at maturity. As a few lectures ago,         when we analyzed how the stock market pricedividend ratio relates to future cash flow growth and future returns,         it was convenient to work with $\log$ prices $p_{n,  t}=\log \left(P_{n,  t}\right)$. As we will see now,  doing so is actually particularly convenient for analyzing bonds. The absence of cash-flow risk makes the relationship between current log prices and future log returns particularly simple and we won't need the linearization approximation that we used for stock market valuation.
 
 When financial market participants discuss bond prices,  they often do so not in terms of prices,  but in terms of yield,  which is just a transformation of the price. The yield-to-maturity (or often just "yield") of a zero-coupon bond is defined as
 
@@ -70,7 +70,7 @@ and June 2023. ${ }^{2}$ We see that the yield curve can change shape. It was up
 
 ### 7.2 Present-value relations for bonds
 
-But first we focus on what yields tell us about the future returns for an investor holding these bonds. Consider a zero-coupon bond that has,  at time $t,         n$ years left until maturity. Now consider the return of this bond in the last year before it matures,  i.e.,  in year $t+n$. It pays off $$ 1$ at $t+n$ and costs $P_{1,  t+n-1}$ one year earlier,  so the return earned from holding
+But first we focus on what yields tell us about the future returns for an investor holding these bonds. Consider a zero-coupon bond that has,  at time $t,         n$ years left until maturity. Now consider the return of this bond in the last year before it matures,  i.e.,  in year $t+n$. It pays off $1$ at $t+n$ and costs $P_{1,  t+n-1}$ one year earlier,  so the return earned from holding
 
 [^30]this bond during this last year is
 
@@ -214,28 +214,7 @@ capture how strongly the yield of a bond with time-to-maturity $n$ is exposed to
 
 Table 7.1: Explanatory power of level,  slope,  and curvature factors for daily bond yield changes
 
-|   | 1 yr | 2 yr | 3 yr | 4 yr | 5 yr | 6 yr | 7 yr | 8 yr | 9 yr | 10 yr |
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-| Intercept | 0.00 | -0.00 | -0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-
-| Level | 0.99 | 1.03 | 1.01 | 1.00 | 0.99 | 0.99 | 0.99 | 0.99 | 0.99 | 0.99 |
-
-| Slope | -0.53 | -0.44 | -0.32 | -0.17 | -0.03 | 0.10 | 0.22 | 0.32 | 0.40 | 0.47 |
-
-| Curvature | -0.58 | 0.14 | 0.49 | 0.54 | 0.42 | 0.22 | -0.00 | -0.22 | -0.41 | -0.58 |
-
-| $R^{2}$ | 1.00 | 0.96 | 0.98 | 1.00 | 1.00 | 0.99 | 0.99 | 0.99 | 1.00 | 1.00 |
-
-|   |   |   |   |   |   |   |   |   |   |   |
-
-| $R^{2}$ level and slope only | 0.96 | 0.96 | 0.96 | 0.97 | 0.98 | 0.99 | 0.99 | 0.99 | 0.98 | 0.96 |
-
-|   |   |   |   |   |   |   |   |   |   |   |
-
-| $R^{2}$ level only | 0.64 | 0.85 | 0.93 | 0.97 | 0.98 | 0.98 | 0.96 | 0.93 | 0.90 | 0.87 |
-
+![](CleanShot%202024-10-24%20-003126@2x.png)
 Table 7.1 shows the results from running these regressions with daily yield changes and data from the last 50 years. The first block of rows shows the intercept and slope coefficient estimates and the $R^{2}$ from the regressions on all three factors. There are three things to note. First,  the slope coefficient of the level factor is extremely close to 1.0 for bonds at all maturities. This means that when the level of the yield curve shifts,  all bonds tend to move in lockstep by the same magnitude (plus possibly some movement that may be uncorrelated with the level). Second,  short maturity bonds have negative coefficients on the slope factor while long-term bonds have positive coefficients,  which should make intuitive sense: When the slope steepens,  short-term yields decline relative to long-term yields. Third,  the $R^{2}$ is extremely close to $100/%. This means that the three factors explain almost all the day-to-day variation in yields on these 10 maturities. So for all practical purposes,    we can focus our thinking regarding the drivers of bond yields on interpreting just these three factors. Moreover,    the risks of a bond portfolio then must be driven almost entirely by these three factors. So if we want to assess the riskiness of a bond portfolio,    we can focus our attention on the portfolio's exposure to these three factors. ${ }^{3}$
 
 The rows below show the $R^{2}$ (coefficient estimates omitted) for specifications where I only use level and slope or slope only. The contribution of the curvature factor turns out to be very small. Just level and slope alone explain $96/% or more of the variation
@@ -333,11 +312,6 @@ y_{n,         t}=\lambda_{n}+\frac{1}{n} \sum_{i=1}^{n} \mathbb{E}_{t}\left[y_{1
 $$
 
 [^33]where $\lambda_{n}$ is a maturity-specific risk premium. The yield curve slope then is
-
-$$
-
-  
-
 $$
 
 \begin{equation*}
@@ -392,7 +366,7 @@ Moving the federal funds rate usually required adjustments to the level of reser
 
 But in the GFC,  methods of monetary policy implementation changed. As Figure 7.5 shows,  the federal funds rate basically hit zero during this time and stayed there for years. Further economic stimulus through lowering the federal funds rate was not possible. The Fed therefore looked for alternative approaches that could affect long-term bond yields (that had not yet hit zero). While in normal open market operations the Fed would only transact in T-bills (which have short maturities up to a year),  in the GFC the Fed started a program called quantitative easing in which the Fed purchased longer-dated Treasury bonds and also mortgage-backed securities in order bring down long-term bond yields. While normal market operations would be done in tiny quantities,  and the total supply of reserves that banks held was small,  quantitative easing was done in massive quantities which lead to a huge expansion in the reserve balances that banks held at the Fed.
 
-Figure 7.6 shows the reserve balances. They reached a peak of close to $$ 3$ trillion around 2015,  and then an all-time high (so far) in 2020 due to a further round of
+Figure 7.6 shows the reserve balances. They reached a peak of close to $3$ trillion around 2015,  and then an all-time high (so far) in 2020 due to a further round of
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-245.jpg?height=936&width=1349&top_left_y=302&top_left_x=407)
 
