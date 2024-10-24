@@ -67,7 +67,7 @@ may be an even better proxy for the risk of a levered portfolio.
 Before we look at risk and return consequences,  it's useful to first look in more detail at the mechanisms used by investors in practice to obtain leverage. Some of them involve actual borrowing of money,  but others are structured as derivative contracts in which borrowing is implicit,  not explicit.
 
 ### 6.1.1 Margin loans and repo
-
+![](app://2d50da59b996e9c682dfb2698e680a3d659c/Users/rogerlin/Wealth%20of%20Nations/Attachments/Paste%202024-10-24%2010.37.00.png?1729791521765)
 Suppose you want to buy $2 \mathrm{~m}$ of stocks,  but financed with borrowed money,  to the extent possible. The most direct way of doing this is to obtain a margin loan from a broker. The broker takes the assets in the account,  including the stocks bought with the margin loan,  as collateral.
 
 The maximum the broker will lend is less than the total amount of collateral available in the account. The difference is the margin requirement,  or the haircut. For example,  with a $50 \%$ initial margin requirement,  the broker will require a $50 \%$ equity contribution from you. In this example,  if you want a initiate a position of $2 \mathrm{~m}$ worth of stocks as the total assets in your account,     you will need to make an equity contribution of $2 \mathrm{~m}$ $\times 0.50=$ 1 \mathrm{~m}$. Hence,  the broker will provide provide at most $2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 1 \mathrm{~m}$ of margin loans for this portfolio of $2 \mathrm{~m}$ worth of stocks.
@@ -77,6 +77,7 @@ After the leveraged position is initiated,  the broker will require a maintenanc
 If you do not respond promptly to the margin call (typically until the next business day) and deposit additional funds,  the lender will take the collateral and liquidate it. Thus,  the collateral gets replenished with additional funds daily. From the broker's viewpoint,  the loan is therefore very safe. The broker is only exposed to the risk of loss if a price move between the last collateral replenishment until the time of liquidation is so big that it burns through all the maintenance margin. For this reason,  for professional investors like hedge funds,  the interest rates on margin loans are very close to the risk-free rate.
 
 Suppose you enter this leveraged position in stocks ( $2 \mathrm{~m}$ in stocks,     financed with margin loan of $1 \mathrm{~m}$,     with initial margin $50 \%$ ) for one year. During this one year period,     the stock portfolio earns a random return of $R$. At the end of the year you sell the stock portfolio and pay back the margin loan. The interest rate on the margin loan is the risk-free rate,     which happens to be $5 \%$. The cash flows from your leveraged position are then as shown in the table below (with one simplification: the table only shows the cash flow for the initial margin. It does not show the cash flows that arise if the asset price changes during the margin loan's lifetime and maintenance margin requirements trigger margin calls).
+![300](Keep%20It%202024-10-24%2010.39.33.png)
 
 |   | $\mathrm{t}=0$ | $\mathrm{t}=1$ |
 
@@ -113,7 +114,7 @@ The investor pays back margin loan $2 \mathrm{~m} \times\left(1+R_{f}\right)$
 Note that what the investor receives at $t=1$ net is $2 m\left(R-r_{f}\right)$. By absence of arbitrage,     since the cash flows to the investor in the first period in the margin loan case are the same as those in the swap case,     and the risk of cash flows in the second period are the same (risky return $R$ minus a fixed number) the cash flows to the investor in the second period also have to be the same - otherwise there would be an arbitrage opportunity between margin loans and swap markets. Hence,     $R_{\text {swap }}=R_{f}$ must hold. ${ }^{1}$
 
 In addition,  a typical swap contract would also require the investor to post margin. In the table below,  I calculate the net cash flows to the investor if the risk-free rate is $R_{f}=0.05$ and the required initial margin is $50 \%$ of the notional amount of the swap.
-
+![300](Keep%20It%202024-10-24%2010.39.27.png)
 |   | $\mathrm{t}=0$ | $\mathrm{t}=1$ |
 
 | --- | --- | --- |
@@ -141,36 +142,8 @@ Table 6.2 shows typical margin requirements (ranges that include initial and mai
 Margin requirements by security type.
 
 The table lists the margin requirements and their implied level of leverage in various security markets. The data are obtained by collating information from prime brokers and derivatives exchanges as of March 2010.
-![300](CleanShot%202024-10-24%20-003115@2x.png)
-|   | Margin <br> (haircut) | Implied <br> leverage |
 
-| --- | --- | --- |
-
-| Treasuries | $0.1-3 \%$ | $33-100$ |
-
-| Investment grade corp bonds | $5-10 \%$ | $10-20$ |
-
-| High yield bonds | $10-15 \%$ | $6.6-10$ |
-
-| Convertible bonds | $15-20 \%$ | $5-6.6$ |
-
-| Equities | $5-50 \%$ | $2-20$ |
-
-| Commodity futures | $10 \%$ | 10 |
-
-| Financial futures | $3 \%$ | 33 |
-
-| Foreign exchange futures | $2 \%$ | 50 |
-
-| Options (equity) | $75 \%$ | 1.3 |
-
-| Interest rate swaps | $1 \%$ | 100 |
-
-| Foreign exchange swaps | $1 \%$ | 100 |
-
-| Total return swaps | $10 \%$ | 10 |
-
-Figure 6.2: Typical margin requirements
+![500](Keep%20It%202024-10-24%2010.39.19.png)
 
 Source: Ang,  A.,  Gorovyy,  S. and Van Inwegen,  G.B.,  2011. Hedge fund leverage. Journal of Financial Economics,  102(1),  pp0.\1-126.
 
