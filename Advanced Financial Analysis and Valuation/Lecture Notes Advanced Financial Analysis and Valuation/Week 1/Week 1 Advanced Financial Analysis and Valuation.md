@@ -8,7 +8,7 @@ title: Week 1 Advanced Financial Analysis and Valuation
 
 - **[[Week 1 Advanced Financial Analysis and Valuation]]**
 	- [[Week 1 Advanced Financial Analysis and Valuation]]
-	- [[Week 1 Introduction]]
+	- [[Week 1 Introduction to Financial Analysis]]
 	- [[Week 1 Market Efficiency]]
 	- [[Week 1 Ratio Analysis + Valuation Review]]
 

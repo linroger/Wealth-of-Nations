@@ -9,5 +9,6 @@
     "Tags/",
     "svg-cache/"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true
 }

@@ -328,7 +328,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4/Week 4 Advanced Financial Analysis and Valuation.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -338,33 +338,18 @@
             }
           },
           {
-            "id": "026a38928f4243ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4/Week 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 4"
-            }
-          },
-          {
             "id": "88f84be4ee05c6ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4/Week 4.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 4"
+              "title": "Week 3"
             }
           },
           {
@@ -373,13 +358,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Advanced Financial Analysis and Valuation.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 5 Advanced Financial Analysis and Valuation"
+              "title": "Week 5"
+            }
+          },
+          {
+            "id": "9f9a82ee40c3d226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 5"
+            }
+          },
+          {
+            "id": "a549e5a31e26c08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 Introduction to Financial Analysis"
+            }
+          },
+          {
+            "id": "5af6e7c1c72328ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3"
             }
           },
           {
@@ -473,7 +503,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -594,7 +624,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/Problem Sets/HBS DOLLAR GENERAL GOING PRIVATE.md",
+                "file": "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -604,11 +634,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HBS DOLLAR GENERAL GOING PRIVATE"
+              "title": "Backlinks for Week 3"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -632,19 +662,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e63e0ccd042d28b",
+  "active": "3a400f1467274134",
   "lastOpenFiles": [
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Pharmaceuticals and Intangibles in Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Advanced Financial Analysis and Valuation.md",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5 Pharmaceuticals and Intangibles in Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4/Week 4.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4/Week 4 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1 Advanced Financial Analysis and Valuation/Week 1 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3 Advanced Financial Analysis and Valuation/Week 3 Advanced Financial Analysis and Valuation.md",
@@ -653,18 +687,14 @@
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9 Advanced Financial Analysis and Valuation/Week 9 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Ratio Analysis + Valuation Review.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Market Efficiency.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9-Information Risks and (International) Accounting Differences, Platform Businesses.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9- Zoom Assignment Review.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9/Week 9 Advanced Financial Analysis and Valuation.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 9",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Retail.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2/Week 2 Fundamentals Of Forecasting.md",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 2",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6",
     "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 7",

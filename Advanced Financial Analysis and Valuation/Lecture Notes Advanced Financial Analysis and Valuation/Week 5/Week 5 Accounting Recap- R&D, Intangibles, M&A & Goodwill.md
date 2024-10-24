@@ -12,7 +12,7 @@ title: DOES CAPITALIZATION MATTER?
 | Difference                               | IFRS                                                                                                                           | US GAAP                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Internally Developed R&D and Intangibles | R: Research costs are expensed (IAS 38) <br> D: Internally developed intangible assets are generally capitalized and amortized | R&D: costs are generally expensed as incurred (ASC 730)<br>D: Exception for software  <br>- special capitalization criteria:  <br>• Software developed for internal use (application development stage)  <br>• Software developed for sale to third parties (technological feasibility)  <br>• Website development cost (under IFRS expensed) |
-| Acquired In‐Process R&D (IPR&D) Projects | The acquired IPR&D is capitalized (IAS 38.8,   24,   26)                                                                           | Only IPR&D acquired in a business combination is capitalized post‐acquisition <br> (Not capitalized when a single asset/group of assets is acquired,   ASC 730‐10‐25‐2c)                                                                                                                                                                        |
+| Acquired In‐Process R&D (IPR&D) Projects | The acquired IPR&D is capitalized (IAS 38.8,      24,      26)                                                                           | Only IPR&D acquired in a business combination is capitalized post‐acquisition <br> (Not capitalized when a single asset/group of assets is acquired,      ASC 730‐10‐25‐2c)                                                                                                                                                                        |
 
 Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
@@ -53,7 +53,7 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
 ##### M&A ACCOUNTING 101: ILLUSTRATIVE EXAMPLE
 - Assume Big Buys Little For $50Mm. Little Has Net Assets Of $15Mm
-	- Little has net assets of $15M: $5M cash,  $5M A/R,   $10M PPE,  $5M debt
+	- Little has net assets of $15M: $5M cash,  $5M A/R,      $10M PPE,  $5M debt
 		- Big determines that the value of Little's PPE should be stepped up by $5M to meet fair value of the assets
 		- Big identifies that Little has intangible assets worth $5M
 	- Therefore,  Big books goodwill of $50MM – ($15MM + $5MM + $5MM) = $25MM
