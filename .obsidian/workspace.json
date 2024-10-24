@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Lecture 3- Dynamics of Returns.md",
+                "file": "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3- Dynamics of Returns"
+              "title": "Lecture 6-Leverage, Tail Risk, Volatility Products"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Lecture 3- Dynamics of Returns.md",
+                "file": "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 3- Dynamics of Returns"
+              "title": "Backlinks for Lecture 6-Leverage, Tail Risk, Volatility Products"
             }
           }
         ],
@@ -210,16 +210,19 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
+    "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
+    "Advanced Investments/Lecture 4- Investor Sentiment.md",
+    "Advanced Investments/Lecture 3- Dynamics of Returns.md",
+    "Attachments/Microsoft Word 2024-10-24 10.27.48.png",
+    "Attachments/Microsoft Word 2024-10-24 10.27.39.png",
     "Attachments/CleanShot 2024-10-24 -003111@2x.png",
     "Attachments/CleanShot 2024-10-24 -003110@2x.png",
     "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
-    "Advanced Investments/Lecture 3- Dynamics of Returns.md",
     "Attachments/CleanShot 2024-10-24 -003109@2x.png",
     "Attachments/CleanShot 2024-10-24 -003108@2x.png",
     "Attachments/CleanShot 2024-10-24 -003106@2x.png",
     "Advanced Investments/Advanced Investments Lecture Notes.docx",
     "Advanced Investments/Advanced Investments Lecture Notes.md",
-    "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Attachments/Attachments.md",
     "Attachments/0db413cc85a45d6c4a10a6761426a226.png",
     "Attachments/0afcc6662687105cc7d22e71f6b49048.png",
@@ -252,9 +255,6 @@
     "Credit Markets/Credit Market PSETS/Advanced Usage of QuantLib analytics library.md",
     "Credit Markets/Credit Market Session 2.md",
     "Financial Engineering/Financial Engineering.md",
-    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md",
-    "Attachments/77b655c9deced4b3094186e624f0662ef6f8dbfe28c49c2c1732c3867f7f57eb.png",
-    "Attachments/27a8dd885d876f0e0de1859e530bb71a.png",
-    "Attachments/3ae4fc585a8ea52c2a08d6a815215553.png"
+    "Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Carry Trade.md"
   ]
 }

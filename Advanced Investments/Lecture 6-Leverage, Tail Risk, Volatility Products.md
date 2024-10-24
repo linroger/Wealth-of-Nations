@@ -11,7 +11,7 @@ title: Lecture 6-Leverage,  Tail Risk,  Volatility Products
 
 
 
-# Lecture 6-Leverage,  Tail Risk,  Volatility Products
+# Lecture 6-Leverage, Tail Risk, Volatility Products
 
 Optimal asset allocation models may sometimes recommend allocations in which risky assets account for more than $100 \%$ of the total wealth invested in the portfolio. The excess over and above $100 \%$ needs to be financed with debt,  either explicitly so,  or implicitly by taking positions in derivative securities to get the level of risk exposure that the asset allocation model prescribes.
 
@@ -359,7 +359,7 @@ C_{t}=\Delta_{t} S_{t}-B_{t} \tag{6.8}
 
 $$
 
-where $\Delta_{t}$,  with $0<\Delta_{t}<1$,  is the number of shares of the underlying asset in the replicating portfolio and $B_{t}$ is the amount borrowed at the risk-free rate. Hence,  the right-hand side is the amount of wealth that must be invested in the replicating portfolio to exactly replicate the payoff of the call option. By absence of arbitrage then,  the price of the call option must be equal to the cost of this replicating portfolio. The BlackScholes formula further provides expressions
+where $\Delta_{t}$,  with $0<\Delta_{t}<1$,  is the number of shares of the underlying asset in the replicating portfolio and $B_{t}$ is the amount borrowed at the risk-free rate. Hence,  the right-hand side is the amount of wealth that must be invested in the replicating portfolio to exactly replicate the payoff of the call option. By absence of arbitrage then,  the price of the call option must be equal to the cost of this replicating portfolio. The Black Scholes formula further provides expressions
 
 $$
 
@@ -383,7 +383,7 @@ B_{t}=N\left(d_{2}\right) K \exp \left[-r_{f}(T-t)\right],    \quad d_{2}=d_{1}-
 
 $$
 
-where $N($.$) denotes the normal cumulative distribution function that maps numbers$ from $-\infty$ to $+\infty$ into -1 to +1 .
+where $N($.) denotes the normal cumulative distribution function that maps numbers from $-\infty$ to $+\infty$ into -1 to +1 .
 
 Thus,  the Black-Scholes model tells us that a call option is equivalent to a levered position in the index. The leverage ratio of the replicating portfolio is
 

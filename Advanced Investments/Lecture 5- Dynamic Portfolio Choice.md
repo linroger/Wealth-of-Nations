@@ -1,15 +1,8 @@
 ---
-aliases:
-- Alias_116_Lecture 5- Dynamic Portfolio Choice.md
-- Example_Alias_Lecture 5- Dynamic Portfolio Choice
-tags:
-- tag_example
-- example_tag
+aliases: [Alias_116_Lecture 5- Dynamic Portfolio Choice.md,  Example_Alias_Lecture 5- Dynamic Portfolio Choice]
+tags: [tag_example,  example_tag]
 title: Lecture 5Dynamic Portfolio Choice
 ---
-
-
-
 
 # Lecture 5Dynamic Portfolio Choice
 
@@ -31,7 +24,7 @@ $$
 
 \begin{equation*}
 
-r_{t+1}=r_{f}+\mu_{t}+\sigma \varepsilon_{t+1},   \quad \varepsilon_{t+1} \sim \mathcal{N}(0,  1) \tag{5.1}
+r_{t+1}=r_{f}+\mu_{t}+\sigma \varepsilon_{t+1},    \quad \varepsilon_{t+1} \sim \mathcal{N}(0,   1) \tag{5.1}
 
 \end{equation*}
 
@@ -109,9 +102,9 @@ the geometric mean takes into account the effects of compounding. There is an ac
 
 The geometric mean is always weakly smaller than the arithmetic mean. In the case where all returns in all periods are equal,  the arithmetic mean and geometric mean are equal,  too. Otherwise,  the geometric mean is smaller. One quick way of getting the intuition which of the two means is lower is to think of the case in which the return in the last period is $-100 \%$,  i.e.,  a total loss. In this case,  the geometric mean is always $-100 \%$,  irrespective of what the returns are in the other periods before the last. In contrast,  the arithmetic mean can be well above $-100 \%$.
 
-Many people intuitively think that,  therefore,  compounding the geometric mean should be the appropriate way to estimate the long-run expected returns because this approach "properly" reflects the effects of compounding on the long-run return. Their reasoning typically goes as follows: When an asset goes first up and then back down to the same price,  with a compounded two-period return of zero,  the percentage increase is bigger than the percentage decrease. But the arithmetic mean averages the increase and decrease and hence comes to a misleading result. For example,  with a sequence of two returns of $+50 %,  -33.33 \%$,  these two returns have arithmetic mean of $8.34 \%$,  i.e.,  greater than zero,  but obviously this sequence leaves you with unchanged wealth at the end as $(1+0.50) \times(1-0.3333)-1 \approx 0$. So the arithmetic mean seems to overstate the expected long-run return?
+Many people intuitively think that,  therefore,  compounding the geometric mean should be the appropriate way to estimate the long-run expected returns because this approach "properly" reflects the effects of compounding on the long-run return. Their reasoning typically goes as follows: When an asset goes first up and then back down to the same price,  with a compounded two-period return of zero,  the percentage increase is bigger than the percentage decrease. But the arithmetic mean averages the increase and decrease and hence comes to a misleading result. For example,  with a sequence of two returns of $+50 %,   -33.33 \%$,  these two returns have arithmetic mean of $8.34 \%$,  i.e.,  greater than zero,  but obviously this sequence leaves you with unchanged wealth at the end as $(1+0.50) \times(1-0.3333)-1 \approx 0$. So the arithmetic mean seems to overstate the expected long-run return?
 
-This thinking is a fallacy! Suppose that $+50 %,  -33.33 \%$ are the two only possible returns,  each with equal probability. There are two periods. So the "long-run" here is two periods,  and the "short-run" is one period. What are the possible outcomes for the factor by which wealth grows (or falls) over these two periods? There are four,  each with probability $\frac{1}{4}$ :
+This thinking is a fallacy! Suppose that $+50 %,   -33.33 \%$ are the two only possible returns,  each with equal probability. There are two periods. So the "long-run" here is two periods,  and the "short-run" is one period. What are the possible outcomes for the factor by which wealth grows (or falls) over these two periods? There are four,  each with probability $\frac{1}{4}$ :
 
 $(1+0.50) \times(1+0.50)=2.25$
 
@@ -123,11 +116,11 @@ $\cdot$ $(1-0.3333) \times(1-0.3333)=0.4445$
 
 Averaging across these four possible outcomes (as each has equal probability) we get an average of about 1.174 . This means the expected long-run return is $17.4 \%$. What would one get if one takes an arithmetic mean or geometric mean from a long sample of returns in this world and then compounds this mean return?
 
-The arithmetic mean of a long sample of equally likely ${} +50 \%,  -33.33 \%$ returns is $8.34 \%$. Compounding this arithmetic mean of $8.34 \%$ delivers $(1+0.0834)^{2}-1 \approx 0.174$,  which is the correct expected long-run return! In contrast,  the geometric mean is too pessimistic. The geometric mean of a long sample of equally likely ${} +50 \%,  -33.33 \%$ returns is $0 \%$. Compounding it yields $0 \%$,  which is obviously not the correct answer.
+The arithmetic mean of a long sample of equally likely ${} +50 \%,   -33.33 \%$ returns is $8.34 \%$. Compounding this arithmetic mean of $8.34 \%$ delivers $(1+0.0834)^{2}-1 \approx 0.174$,  which is the correct expected long-run return! In contrast,  the geometric mean is too pessimistic. The geometric mean of a long sample of equally likely ${} +50 \%,   -33.33 \%$ returns is $0 \%$. Compounding it yields $0 \%$,  which is obviously not the correct answer.
 
 In some sense,  the geometric mean pays too much attention to the downside and not enough to the upside. More precisely,  it does not give enough consideration to the fact that going up twice in a row by $50 \%$ produces a long-term return that leads to an overall gain in percentage terms ( $125 \%$ ) that far exceeds the loss of going down twice by $33 \%$ ${} (-55 \%)$.
 
-Similarly,  someone who focuses just on sequences in which the two possible realizations alternate,  as in the "typical reasoning" above,  i.e.,  ${} +50 \%,  -33.33 \%$,  or $-33.33 \%$ followed by $+50 \%$ gets a geometric mean of
+Similarly,  someone who focuses just on sequences in which the two possible realizations alternate,  as in the "typical reasoning" above,  i.e.,  ${} +50 \%,   -33.33 \%$,  or $-33.33 \%$ followed by $+50 \%$ gets a geometric mean of
 
 $$
 
@@ -215,7 +208,7 @@ $$
 
 $$
 
-What if returns are not IID? For example,  what if the asset price is mean-reverting so that following a high return in period $t$,  the expected return for period $t+1$ is lower than following a low return in period $t$ ? In this case,  returns are negatively autocorrelated. We won't develop explicit general formulas for this case,  but we can get some intuition from our simple example above. Let's take the extreme case where prices are completely mean-reverting so that the two sequences with ${} +50 \%,  -33.33 \%$ or ${} -33.33 \%,  +50 \%$ are in fact the only possibilities,  each now with probability $\frac{1}{2}$. Wealth growth is zero over the two periods in each case. Hence,  the long-run expected return is now zero. The arithmetic mean of a long series of returns is still $8.34 \%$ in this case,  so compounding the arithmetic mean now overstates the expected long-run returns. The geometric mean is zero and compounding it delivers the correct result of expected long-run return of zero.
+What if returns are not IID? For example,  what if the asset price is mean-reverting so that following a high return in period $t$,  the expected return for period $t+1$ is lower than following a low return in period $t$ ? In this case,  returns are negatively autocorrelated. We won't develop explicit general formulas for this case,  but we can get some intuition from our simple example above. Let's take the extreme case where prices are completely mean-reverting so that the two sequences with ${} +50 \%,   -33.33 \%$ or ${} -33.33 \%,   +50 \%$ are in fact the only possibilities,  each now with probability $\frac{1}{2}$. Wealth growth is zero over the two periods in each case. Hence,  the long-run expected return is now zero. The arithmetic mean of a long series of returns is still $8.34 \%$ in this case,  so compounding the arithmetic mean now overstates the expected long-run returns. The geometric mean is zero and compounding it delivers the correct result of expected long-run return of zero.
 
 In summary,  only in this extreme case of complete mean reversion where the price level does not change in the long run,  and prices always bounce up and down around the same long-run price level,  compounding the geometric mean delivers the correct estimate of the expected long-run return. In contrast,  in the IID case,  without any autocorrelation in returns,  compounding the arithmetic mean delivers the correct estimate.
 
@@ -295,7 +288,7 @@ $$
 
 \begin{equation*}
 
-\operatorname{var}\left(r_{t: t+h}\right)=h \sigma^{2},   \quad \sigma^{2}=\operatorname{var}\left(r_{t}\right) \tag{5.18}
+\operatorname{var}\left(r_{t: t+h}\right)=h \sigma^{2},    \quad \sigma^{2}=\operatorname{var}\left(r_{t}\right) \tag{5.18}
 
 \end{equation*}
 
@@ -379,19 +372,19 @@ $$
 
 \begin{equation*}
 
-W_{t+h}=W_{t}\left(1+R_{p,   t: t+h}\right),   \tag{5.22}
+W_{t+h}=W_{t}\left(1+R_{p,    t: t+h}\right),    \tag{5.22}
 
 \end{equation*}
 
 $$
 
-where $R_{p,   t: t+h}$ is the return on the wealth portfolio from $t$ to $t+h$,  which can be written as
+where $R_{p,    t: t+h}$ is the return on the wealth portfolio from $t$ to $t+h$,  which can be written as
 
 $$
 
 \begin{equation*}
 
-R_{p,   t: t+h}=\left(1+R_{p,   t+1}\right) \times\left(1+R_{p,   t+2}\right) \times \ldots \times\left(1+R_{p,   t+h}\right)-1 \tag{5.23}
+R_{p,    t: t+h}=\left(1+R_{p,    t+1}\right) \times\left(1+R_{p,    t+2}\right) \times \ldots \times\left(1+R_{p,    t+h}\right)-1 \tag{5.23}
 
 \end{equation*}
 
@@ -403,7 +396,7 @@ $$
 
 \begin{equation*}
 
-R_{p,   t: t+h}=\exp \left(r_{p,   t: t+h}\right)-1,   \quad \text { where } \quad r_{p,   t: t+h}=r_{p,   t+1}+r_{p,   t+2}+\ldots+r_{p,   t+h} \tag{5.24}
+R_{p,    t: t+h}=\exp \left(r_{p,    t: t+h}\right)-1,    \quad \text { where } \quad r_{p,    t: t+h}=r_{p,    t+1}+r_{p,    t+2}+\ldots+r_{p,    t+h} \tag{5.24}
 
 \end{equation*}
 
@@ -415,7 +408,7 @@ $$
 
 \begin{equation*}
 
-R_{p,   t+1}=R_{f}+\omega_{t}\left(R_{t+1}-R_{f}\right) \tag{5.25}
+R_{p,    t+1}=R_{f}+\omega_{t}\left(R_{t+1}-R_{f}\right) \tag{5.25}
 
 \end{equation*}
 
@@ -427,7 +420,7 @@ $$
 
 \begin{equation*}
 
-\log \left(1+R_{p,   t+1}\right)=\log \left[1+R_{f}+\omega_{t}\left(R_{t+1}-R_{f}\right)\right] \tag{5.26}
+\log \left(1+R_{p,    t+1}\right)=\log \left[1+R_{f}+\omega_{t}\left(R_{t+1}-R_{f}\right)\right] \tag{5.26}
 
 \end{equation*}
 
@@ -437,13 +430,13 @@ the right-hand side is a rather intractable nonlinear function. Unlike for simpl
 
 ### 5.2.1 Approximation of the log portfolio return
 
-To break this intractability,  we use a second-order Taylor approximation of the log portfolio return. We don't need to go into the details of how to do this,  but what we obtain,  for $r_{p,   t+1}=\log \left(1+R_{p,   t+1}\right)$,  is the following:
+To break this intractability,  we use a second-order Taylor approximation of the log portfolio return. We don't need to go into the details of how to do this,  but what we obtain,  for $r_{p,    t+1}=\log \left(1+R_{p,    t+1}\right)$,  is the following:
 
 $$
 
 \begin{equation*}
 
-r_{p,   t+1} \approx r_{f}+\omega_{t}\left(r_{t+1}-r_{f}\right)+\frac{1}{2} \omega_{t}\left(1-\omega_{t}\right) \sigma^{2} \tag{5.27}
+r_{p,    t+1} \approx r_{f}+\omega_{t}\left(r_{t+1}-r_{f}\right)+\frac{1}{2} \omega_{t}\left(1-\omega_{t}\right) \sigma^{2} \tag{5.27}
 
 \end{equation*}
 
@@ -451,7 +444,7 @@ $$
 
 where $\sigma^{2}=\operatorname{var}\left(r_{t+1}\right)$ and $r_{f}=\log \left(1+R_{f}\right){ }^{4}$ With this approximation,  the calculation of the portfolio log return is not quite as straightforward as the calculation of the simple portfolio return,  because we not only have the weighted average of $r_{t+1}$ and $r_{f}$,  but also the term $\omega_{t}\left(1-\omega_{t}\right)$. But still,  it's a lot more tractable than the nonlinear function we approximated.
 
-As for any approximation,  it is useful to understand when the approximation works well and when it does not. To illustrate,  suppose we want to measure the log portfolio return $r_{p,   t+1}$ over a one-quarter horizon after we picked a portfolio weight $\omega_{t}$ at the beginning of the quarter.
+As for any approximation,  it is useful to understand when the approximation works well and when it does not. To illustrate,  suppose we want to measure the log portfolio return $r_{p,    t+1}$ over a one-quarter horizon after we picked a portfolio weight $\omega_{t}$ at the beginning of the quarter.
 
 The approximation in (5.27) is exact if returns are log-normal even over infinitesimally small return measurement periods (which means there are never any discrete jumps in the stock price),  and the portfolio is continuously rebalanced within the quarter back to the portfolio weight $\omega_{t}$ that we chose at the start of the quarter,  with infinitesimally small time intervals between rebalancing points.
 
@@ -465,13 +458,13 @@ $$
 
 \begin{equation*}
 
-r_{p,   t+1} \approx r_{f}+10 \times\left(r_{t+1}-r_{f}\right)-45 \times \sigma^{2} \tag{5.28}
+r_{p,    t+1} \approx r_{f}+10 \times\left(r_{t+1}-r_{f}\right)-45 \times \sigma^{2} \tag{5.28}
 
 \end{equation*}
 
 $$
 
-[^23]we see that for a very low $r_{t+1}$ with a huge negative value,  the portfolio $\log$ return $r_{p,   t+1}$ can be very deep in negative territory. But,  no matter how deep in negative territory it is,  $\exp \left(r_{p,   t+1}\right)$ always greater than zero and hence the implied simple portfolio return $R_{p,   t+1}=\exp \left(r_{p,   t+1}\right)-1$ is always greater than $-100 \%$. So,  based on the approximation formula,  one could falsely conclude that wealth can never fall to zero,  no matter how high leverage is and no matter how bad the return on our assets. But this an artifact of approximation error. The actual value of a leveraged portfolio can fall to zero (or below - at this point it is then a question whether limited liability protects the leveraged borrower).
+[^23]we see that for a very low $r_{t+1}$ with a huge negative value,  the portfolio $\log$ return $r_{p,    t+1}$ can be very deep in negative territory. But,  no matter how deep in negative territory it is,  $\exp \left(r_{p,    t+1}\right)$ always greater than zero and hence the implied simple portfolio return $R_{p,    t+1}=\exp \left(r_{p,    t+1}\right)-1$ is always greater than $-100 \%$. So,  based on the approximation formula,  one could falsely conclude that wealth can never fall to zero,  no matter how high leverage is and no matter how bad the return on our assets. But this an artifact of approximation error. The actual value of a leveraged portfolio can fall to zero (or below - at this point it is then a question whether limited liability protects the leveraged borrower).
 
 Of course,  if the investor rebalanced at extremely high frequency,  say every minute in this example,  then even in a month with $-10 \%$ return,  the investor's wealth would not be wiped out unless this $-10 \%$ return takes place in a single minute (which is extremely unlikely). If the negative return is instead due to many smaller increments of negative returns,  then frequent rebalancing would have already de-risked the portfolio after the first small loss before the second small loss hits,  and again it would have been rebalanced before the third small loss hits,  etc. So when we use this approximation formula for the log portfolio return,  we are implicitly assuming that the investor will be rebalancing the portfolio to always get back to $\omega_{t}$ at extremely high frequency.
 
@@ -487,7 +480,7 @@ $$
 
 \begin{equation*}
 
-r_{p,   t: t+h}=r_{p,   t+1}+r_{p,   t+2}+\ldots+r_{p,   t+h} \tag{5.29}
+r_{p,    t: t+h}=r_{p,    t+1}+r_{p,    t+2}+\ldots+r_{p,    t+h} \tag{5.29}
 
 \end{equation*}
 
@@ -495,11 +488,11 @@ $$
 
 More precisely,  we would need to be able to assess how the long-run riskiness changes when we consider a change in $\omega_{t}$. This is very difficult. The difficulty arises from two sources.
 
-To see the first difficulty,  note first that the riskiness of the long-term returns will depend on the degree of mean-reversion in risky asset prices. For example,  the evidence we discussed in the previous section suggests that stocks may be somewhat less risky in the long-run than in the short run. But if there is mean-reversion,  how much risk reduction there will be depends not only on the properties of stock market returns,  but also on how much weight we will will have in stocks in future periods,  i.e.,  it depends on future portfolio weights $\omega_{t+1},   \omega_{t+2},   \ldots$.
+To see the first difficulty,  note first that the riskiness of the long-term returns will depend on the degree of mean-reversion in risky asset prices. For example,  the evidence we discussed in the previous section suggests that stocks may be somewhat less risky in the long-run than in the short run. But if there is mean-reversion,  how much risk reduction there will be depends not only on the properties of stock market returns,  but also on how much weight we will will have in stocks in future periods,  i.e.,  it depends on future portfolio weights $\omega_{t+1},    \omega_{t+2},    \ldots$.
 
-To illustrate,  consider an example with a two-period horizon,  $h=2$ where mean reversion is extremely strong and the previous period's log return completely reverts with no new random shock in the second period $r_{t+2}=-r_{t+1}$ without a new random shock in $t+2$. In this case,  an investor holding the asset until $t+1$ faces risk,  but and investor holding it for two periods does not because $r_{t: t+2}=r_{t+1}+r_{t+2}=0$. But what if the investor finds it optimal to not hold the risky asset at all in the second period? If,  for example,  $\omega_{t}=1$ is optimal,  but in the next period the investor finds $\omega_{t+1}=0$ to be optimal,  then the portfolio return from the first period,  $\left(r_{p,   t+1}=r_{t+1}\right)$ will not cancel out with the portfolio return in the second period $\left(r_{p,   t+1}=r_{f}\right)$. So whether the portfolio return is mean-reverting depends on the future portfolio weights that we don't know yet at time $t$.
+To illustrate,  consider an example with a two-period horizon,  $h=2$ where mean reversion is extremely strong and the previous period's log return completely reverts with no new random shock in the second period $r_{t+2}=-r_{t+1}$ without a new random shock in $t+2$. In this case,  an investor holding the asset until $t+1$ faces risk,  but and investor holding it for two periods does not because $r_{t: t+2}=r_{t+1}+r_{t+2}=0$. But what if the investor finds it optimal to not hold the risky asset at all in the second period? If,  for example,  $\omega_{t}=1$ is optimal,  but in the next period the investor finds $\omega_{t+1}=0$ to be optimal,  then the portfolio return from the first period,  $\left(r_{p,    t+1}=r_{t+1}\right)$ will not cancel out with the portfolio return in the second period $\left(r_{p,    t+1}=r_{f}\right)$. So whether the portfolio return is mean-reverting depends on the future portfolio weights that we don't know yet at time $t$.
 
-The second problem is that the uncertain future portfolio weights $\omega_{t+1},   \omega_{t+2},   \ldots$ introduce additional sources of randomness in future portfolio returns that make the longterm portfolio return non-log-normal,  even if the risky asset returns are log-normally distributed.
+The second problem is that the uncertain future portfolio weights $\omega_{t+1},    \omega_{t+2},    \ldots$ introduce additional sources of randomness in future portfolio returns that make the longterm portfolio return non-log-normal,  even if the risky asset returns are log-normally distributed.
 
 But in certain special cases,  the problem gets much simpler.
 
@@ -513,27 +506,27 @@ $$
 
 \mathbb{E}_{t}\left[U\left(W_{T}\right)\right] & =\mathbb{E}_{t}\left[\log \left(W_{t+h}\right)\right] \\
 
-& =\log \left(W_{t}\right)+\mathbb{E}_{t}\left[\log \left(r_{p,   t: t+h}\right)\right] \\
+& =\log \left(W_{t}\right)+\mathbb{E}_{t}\left[\log \left(r_{p,    t: t+h}\right)\right] \\
 
-& =\log \left(W_{t}\right)+r_{p,   t+1}+r_{p,   t+2}+\ldots+r_{p,   t+h} \tag{5.30}
+& =\log \left(W_{t}\right)+r_{p,    t+1}+r_{p,    t+2}+\ldots+r_{p,    t+h} \tag{5.30}
 
 \end{align*}
 
 $$
 
-Maximizing this expected utility for $\gamma=1$ is equivalent to maximizing the expected log long-run return on the portfolio. Since the portfolio return is a sum of individual period $\log$ returns,  and the portfolio weight $\omega_{t}$ only affects the period $t+1$ portfolio return,  and not the other returns in the more distant future,  this objective calls simply for choosing $\omega_{t}$ to maximize $\mathbb{E}_{t}\left[r_{p,   t+1}\right]$. In other words,  the dynamic multi-period problem reduces to a simple one-period problem that calls for maximizing the expected log portfolio return over the next period! The problem simplifies nicely in this special case.
+Maximizing this expected utility for $\gamma=1$ is equivalent to maximizing the expected log long-run return on the portfolio. Since the portfolio return is a sum of individual period $\log$ returns,  and the portfolio weight $\omega_{t}$ only affects the period $t+1$ portfolio return,  and not the other returns in the more distant future,  this objective calls simply for choosing $\omega_{t}$ to maximize $\mathbb{E}_{t}\left[r_{p,    t+1}\right]$. In other words,  the dynamic multi-period problem reduces to a simple one-period problem that calls for maximizing the expected log portfolio return over the next period! The problem simplifies nicely in this special case.
 
 As we will see now,  this solution in the $\gamma=1$ case is closely connected to an approach to dynamic portfolio choice that has a devoted following among some investment practitioners. The approach is sometimes advertised as a universally preferable approach that is suitable for any investor irrespective of their risk preferences. As we will see,  this claim does not make sense. But let's first look at the approach.
 
 The idea is to look for portfolio weights that maximize the long-run growth rate of wealth,  or,  equivalently,  the geometric mean return. This portfolio is known as the growth-optimal portfolio,  or a portfolio selected according to the Kelly Criterion.
 
-The geometric mean of the portfolio return $R_{p,   t}$ over the next $h$ periods is
+The geometric mean of the portfolio return $R_{p,    t}$ over the next $h$ periods is
 
 $$
 
 \begin{equation*}
 
-\exp \left(\frac{1}{h} \sum_{s=t+1}^{t+h} r_{p,   s}\right)-1 \tag{5.31}
+\exp \left(\frac{1}{h} \sum_{s=t+1}^{t+h} r_{p,    s}\right)-1 \tag{5.31}
 
 \end{equation*}
 
@@ -545,17 +538,17 @@ $$
 
 \begin{equation*}
 
-\lim _{h \rightarrow \infty} \exp \left(\frac{1}{h} \sum_{s=t+1}^{t+h} r_{p,   s}\right)-1=\exp \left(\mathbb{E}\left[r_{p,   s}\right]\right)-1 \tag{5.32}
+\lim _{h \rightarrow \infty} \exp \left(\frac{1}{h} \sum_{s=t+1}^{t+h} r_{p,    s}\right)-1=\exp \left(\mathbb{E}\left[r_{p,    s}\right]\right)-1 \tag{5.32}
 
 \end{equation*}
 
 $$
 
-As this expression shows,  to maximize the geometric mean at very long horizons,  we should maximize $\mathbb{E}\left[r_{p,   s}\right]$,  i.e.,  we should maximize the expected $\log$ return of the portfolio. And to maximize $\mathbb{E}\left[r_{p,   s}\right]$ for all the periods $s$ from $t+1$ to $t+h$ within our investment horizon,  we want to maximize the conditional expected log return,  $\mathbb{E}_{t}\left[r_{p,   t+1}\right]$,  every period - so this is exactly the same approach as the solution in the $\gamma=1$ case above.
+As this expression shows,  to maximize the geometric mean at very long horizons,  we should maximize $\mathbb{E}\left[r_{p,    s}\right]$,  i.e.,  we should maximize the expected $\log$ return of the portfolio. And to maximize $\mathbb{E}\left[r_{p,    s}\right]$ for all the periods $s$ from $t+1$ to $t+h$ within our investment horizon,  we want to maximize the conditional expected log return,  $\mathbb{E}_{t}\left[r_{p,    t+1}\right]$,  every period - so this is exactly the same approach as the solution in the $\gamma=1$ case above.
 
 It is very important to keep in mind that when we maximize the long-run growth rate of wealth,  or the geometric mean,  or the expected log return,  we do not maximize the expected long-run growth rate of wealth,  or the expected long-run return. From our discussion of geometric vs. arithmetic mean we now know that maximizing the geometric mean is not the same thing as maximizing the expected long-run return of the portfolio. (Recall that in the IID log-normal returns case,  we obtain the long-run return by compounding the arithmetic,  not the geometric mean.)
 
-Now suppose we want to follow the growth-optimal portfolio strategy. This requires that every period we choose a portfolio that maximizes the expected log return of the portfolio next period. Which combination of the risk-free and risky asset achieves this goal? Using our approximated portfolio log return from (5.27),  maximizing $\mathbb{E}_{t}\left[r_{p,   t+1}\right]$ means
+Now suppose we want to follow the growth-optimal portfolio strategy. This requires that every period we choose a portfolio that maximizes the expected log return of the portfolio next period. Which combination of the risk-free and risky asset achieves this goal? Using our approximated portfolio log return from (5.27),  maximizing $\mathbb{E}_{t}\left[r_{p,    t+1}\right]$ means
 
 $$
 
@@ -615,7 +608,7 @@ $$
 
 \begin{equation*}
 
-r_{t}=r_{f}+\mu+\sigma \varepsilon_{t},   \quad \varepsilon_{t} \sim \mathcal{N}(0,  1) \tag{5.37}
+r_{t}=r_{f}+\mu+\sigma \varepsilon_{t},    \quad \varepsilon_{t} \sim \mathcal{N}(0,   1) \tag{5.37}
 
 \end{equation*}
 
@@ -629,7 +622,7 @@ $$
 
 \begin{equation*}
 
-r_{p,   1} \approx r_{f}+\omega\left(r_{1}-r_{f}\right)+\frac{1}{2} \omega(1-\omega) \sigma^{2} \tag{5.38}
+r_{p,    1} \approx r_{f}+\omega\left(r_{1}-r_{f}\right)+\frac{1}{2} \omega(1-\omega) \sigma^{2} \tag{5.38}
 
 \end{equation*}
 
@@ -641,7 +634,7 @@ $$
 
 \begin{equation*}
 
-W_{1}=W_{0} \exp \left(r_{p,   1}\right) \tag{5.39}
+W_{1}=W_{0} \exp \left(r_{p,    1}\right) \tag{5.39}
 
 \end{equation*}
 
@@ -663,7 +656,7 @@ Figure 5.1b shows that the answer is no. This figure shows wealth for the first 
 
 ![](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=613&width=768&top_left_y=1710&top_left_x=543)
 
-(c) Simulated up to $1,  000,  000$ days ( $\approx 4,  000$ years) 170
+(c) Simulated up to $1,   000,   000$ days ( $\approx 4,   000$ years) 170
 
 (C)Stefan Nagel 2024
 
@@ -673,7 +666,7 @@ stayed ahead of the others most of the time until around day 40,  000,  it subse
 
 Figure 5.1c shows that up to 1 million trading days ( 4,  000 years) the growth-optimal portfolio stays ahead of the others. Does this mean that we have found the point where it outperforms the others forever? Not clear. That it is ahead for so long is not a mathematical proof that we have found the point in time from which onwards it dominates forever. But even if it did,  what relevance does this have for a practical portfolio choice problem that it outperformed all the others,  finally,  after 400 years? And in other circumstances,  if the path of random shocks that generated the stock index returns is different,  it could take more longer,  say 1,  000 years? Or 10,  000?
 
-To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10,  000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our portfolio choice rule. We always start with 1$ of wealth and then simulate 1,  000 return series with length of 10,  000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
+To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10,  000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a pension fund. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our portfolio choice rule. We always start with 1$ of wealth and then simulate 1,   000 return series with length of 10,   000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
 
 Figure 5.2a shows the result. We can see that the growth-optimal portfolio with $\gamma=1$ does not clearly dominate other portfolios. It has less downside risk than the portfolio with $\gamma=0.5$. The latter portfolio is so risky that it frequently leads to large losses that bring the wealth at the end of our evaluation period close to zero. However,  as Figure 5.2 b shows,  which zooms in on the right tail of the distribution that is cut off in Figure 5.2 a ,  the riskiness of the $\gamma=0.5$ portfolio also brings substantially higher chances than the growth-optimal portfolio of an extremely large wealth gain. And it delivers a higher return on average,  as shown in the table below: on average,  wealth grows by $4695 \%$ with $\gamma=0.5$ and only $1001 \%$ with the growth-optimal portfolio strategy.
 
@@ -712,7 +705,7 @@ $$
 
 \mathbb{E}\left[U\left(W_{t+h}\right)\right] & =(1-\gamma) \mathbb{E}\left[\exp \left\{(1-\gamma) w_{t+h}\right\}\right] \\
 
-& =(1-\gamma) W_{t} \mathbb{E}\left[\exp \left\{(1-\gamma) r_{p,   t: t+h}\right\}\right] \tag{5.40}
+& =(1-\gamma) W_{t} \mathbb{E}\left[\exp \left\{(1-\gamma) r_{p,    t: t+h}\right\}\right] \tag{5.40}
 
 \end{align*}
 
@@ -724,13 +717,13 @@ $$
 
 \begin{equation*}
 
-r_{p,   t: t+h} \approx h r_{f}+\omega\left(r_{t: t+h}-h r_{f}\right)+\frac{h}{2} \omega(1-\omega) \sigma^{2} \tag{5.41}
+r_{p,    t: t+h} \approx h r_{f}+\omega\left(r_{t: t+h}-h r_{f}\right)+\frac{h}{2} \omega(1-\omega) \sigma^{2} \tag{5.41}
 
 \end{equation*}
 
 $$
 
-where $\omega$ is a weight that is fixed over time. Because we are working with weights that are fixed over time now,  we get around the problem we discussed in the beginning that with uncertain future portfolio weights,  the long-term portfolio return is not log-normal,  even if risky asset returns are log-normal. Here,  with fixed weights and assuming that risky asset returns are log-normal,  the long-term portfolio return,  $\exp \left(r_{p,   t: t+h}\right)$,  is log-normal.
+where $\omega$ is a weight that is fixed over time. Because we are working with weights that are fixed over time now,  we get around the problem we discussed in the beginning that with uncertain future portfolio weights,  the long-term portfolio return is not log-normal,  even if risky asset returns are log-normal. Here,  with fixed weights and assuming that risky asset returns are log-normal,  the long-term portfolio return,  $\exp \left(r_{p,    t: t+h}\right)$,  is log-normal.
 
 Wealth at the end of the investment horizon,  $W_{t+h}$,  is then log-normally distributed as well. In this case it is convenient to maximize the log of expected utility (which produces the same result as maximizing expected utility),  which is
 
@@ -738,7 +731,7 @@ $$
 
 \begin{equation*}
 
-\log \mathbb{E}\left[U\left(W_{t+h}\right)\right]=\log (1-\gamma)+w_{0}+(1-\gamma) \mathbb{E}\left[r_{p,   t: t+h}\right]+\frac{1}{2}(1-\gamma)^{2} \operatorname{var}\left(r_{p,   t: t+h}\right) \tag{5.42}
+\log \mathbb{E}\left[U\left(W_{t+h}\right)\right]=\log (1-\gamma)+w_{0}+(1-\gamma) \mathbb{E}\left[r_{p,    t: t+h}\right]+\frac{1}{2}(1-\gamma)^{2} \operatorname{var}\left(r_{p,    t: t+h}\right) \tag{5.42}
 
 \end{equation*}
 
@@ -750,7 +743,7 @@ $$
 
 \begin{equation*}
 
-\max _{\omega} \mathbb{E}\left[r_{p,   t: t+h}\right]+\frac{1}{2}(1-\gamma) \operatorname{var}\left(r_{p,   t: t+h}\right) \tag{5.43}
+\max _{\omega} \mathbb{E}\left[r_{p,    t: t+h}\right]+\frac{1}{2}(1-\gamma) \operatorname{var}\left(r_{p,    t: t+h}\right) \tag{5.43}
 
 \end{equation*}
 
@@ -762,9 +755,9 @@ $$
 
 \begin{align*}
 
-\mathbb{E}\left[r_{p,   t: t+h}\right] & =h r_{f}+\omega\left(\mathbb{E}\left[r_{t: t+h}\right]-h r_{f}\right)  \tag{5.44}\\
+\mathbb{E}\left[r_{p,    t: t+h}\right] & =h r_{f}+\omega\left(\mathbb{E}\left[r_{t: t+h}\right]-h r_{f}\right)  \tag{5.44}\\
 
-\operatorname{var}\left(r_{p,   t: t+h}\right) & =\omega^{2} \operatorname{var}\left(r_{t: t+h}\right) . \tag{5.45}
+\operatorname{var}\left(r_{p,    t: t+h}\right) & =\omega^{2} \operatorname{var}\left(r_{t: t+h}\right) . \tag{5.45}
 
 \end{align*}
 
@@ -901,37 +894,37 @@ Public Employees' Retirement Fund (PERF) As of September 30,  2021
 
 Figure 5.3: CalPERS Asset allocation September 2021
 
-To see the contrast to a passive strategy,  recall our discussion in Lecture 2 of the absence of trading needs when an investor holds the market portfolio,  or,  more generally,  when an investor replicates a value-weighted index. As a reminder,  let's quickly revisit this using the example of a value-weighted stock index. With $N$ stocks,  a price $p_{i,   t}$ of stock $i$ at time $t$,  and shares outstanding for each stock of $s_{i}$ (assumed constant),  the weight of each stock in the index at $t$ is
+To see the contrast to a passive strategy,  recall our discussion in Lecture 2 of the absence of trading needs when an investor holds the market portfolio,  or,  more generally,  when an investor replicates a value-weighted index. As a reminder,  let's quickly revisit this using the example of a value-weighted stock index. With $N$ stocks,  a price $p_{i,    t}$ of stock $i$ at time $t$,  and shares outstanding for each stock of $s_{i}$ (assumed constant),  the weight of each stock in the index at $t$ is
 
 $$
 
 \begin{equation*}
 
-w_{i,   t}=\frac{p_{i,   t} s_{i}}{\sum_{i=1}^{N} p_{i,   t} s_{i}} \tag{5.51}
+w_{i,    t}=\frac{p_{i,    t} s_{i}}{\sum_{i=1}^{N} p_{i,    t} s_{i}} \tag{5.51}
 
 \end{equation*}
 
 $$
 
-Now suppose we own shares exactly in the right proportion so that our portfolio weights are $w_{i,   t}$ at time $t$. If we hold this portfolio until $t+1$ without trading,  our weights will be
+Now suppose we own shares exactly in the right proportion so that our portfolio weights are $w_{i,    t}$ at time $t$. If we hold this portfolio until $t+1$ without trading,  our weights will be
 
 $$
 
 \begin{equation*}
 
-\frac{p_{i,   t+1} s_{i}}{\sum_{i=1}^{N} p_{i,   t+1} s_{i}} \tag{5.52}
+\frac{p_{i,    t+1} s_{i}}{\sum_{i=1}^{N} p_{i,    t+1} s_{i}} \tag{5.52}
 
 \end{equation*}
 
 $$
 
-based on the new prices $p_{i,   t+1}$ at time $t+1$. And these weights in (5.52) are also exactly the new index weights
+based on the new prices $p_{i,    t+1}$ at time $t+1$. And these weights in (5.52) are also exactly the new index weights
 
 $$
 
 \begin{equation*}
 
-w_{i,   t+1}=\frac{p_{i,   t+1} s_{i}}{\sum_{i=1}^{N} p_{i,   t} s_{i}} \tag{5.53}
+w_{i,    t+1}=\frac{p_{i,    t+1} s_{i}}{\sum_{i=1}^{N} p_{i,    t} s_{i}} \tag{5.53}
 
 \end{equation*}
 
@@ -975,13 +968,13 @@ $$
 
 $$
 
-Next,  we take the view that we can agree with the average investor in the U.S. market with respect to changes in expected future cash flows of stocks; we also take the view that we would share future changes in the average investor's perceived risk and risk aversion. So if such changes lead to changes in market values of stocks and bonds,  we just want to follow along. We therefore look up the aggregate market value of equity held by U.S. investors at $t=0$,  denoted $V_{e,   0}$,  and of bonds,  $V_{b,   0}$. In the following period,  $t=1,  2,   \ldots$,  when aggregate market values have changed to $V_{e,   t}$ and $V_{b,   t}$,  our target portfolio weight is
+Next,  we take the view that we can agree with the average investor in the U.S. market with respect to changes in expected future cash flows of stocks; we also take the view that we would share future changes in the average investor's perceived risk and risk aversion. So if such changes lead to changes in market values of stocks and bonds,  we just want to follow along. We therefore look up the aggregate market value of equity held by U.S. investors at $t=0$,  denoted $V_{e,    0}$,  and of bonds,  $V_{b,    0}$. In the following period,  $t=1,   2,    \ldots$,  when aggregate market values have changed to $V_{e,    t}$ and $V_{b,    t}$,  our target portfolio weight is
 
 $$
 
 \begin{equation*}
 
-\omega_{t}=0.60 \times \frac{V_{e,   t} / V_{e,   0}}{0.6 \times V_{e,   t} / V_{e,   0}+0.4 \times V_{b,   t} / V_{b,   0}} \tag{5.55}
+\omega_{t}=0.60 \times \frac{V_{e,    t} / V_{e,    0}}{0.6 \times V_{e,    t} / V_{e,    0}+0.4 \times V_{b,    t} / V_{b,    0}} \tag{5.55}
 
 \end{equation*}
 
@@ -993,7 +986,7 @@ The same logic applies analogously with more than two asset classes. For example
 
 Nobel laureate Bill Sharpe has called this approach to (mostly avoid) portfolio rebalancing an adaptive asset allocation policy. ${ }^{5}$
 
-I use the data on aggregate stock and debt holdings of U.S. investors that we looked at earlier in Figure 1.12 to calculate $V_{e,   t}$ and $V_{b,   t}$ at the end of every quarter from December 1951 to December 2022. And then,  starting with an initial portfolio of $60 / 40$ at the end of 1951,  I use these to calculate the adaptive allocation to equity following (5.55) every quarter. Figure 5.4 shows the result.
+I use the data on aggregate stock and debt holdings of U.S. investors that we looked at earlier in Figure 1.12 to calculate $V_{e,    t}$ and $V_{b,    t}$ at the end of every quarter from December 1951 to December 2022. And then,  starting with an initial portfolio of $60 / 40$ at the end of 1951,  I use these to calculate the adaptive allocation to equity following (5.55) every quarter. Figure 5.4 shows the result.
 
 As the figure shows,  the adaptive portfolio has above-average allocations to equity following stock market booms such as in the late 1990s,  or in the years prior to the
 
@@ -1057,15 +1050,15 @@ $$
 
 \begin{equation*}
 
-L R S R=\frac{\log \left(1+\mathbb{E}\left[R_{p,   t: t+h}\right]\right) / h-r_{f,   t: t+h} / h}{\sqrt{\operatorname{var}\left(r_{p,   t: t+h}\right)} / \sqrt{h}} \tag{5.56}
+L R S R=\frac{\log \left(1+\mathbb{E}\left[R_{p,    t: t+h}\right]\right) / h-r_{f,    t: t+h} / h}{\sqrt{\operatorname{var}\left(r_{p,    t: t+h}\right)} / \sqrt{h}} \tag{5.56}
 
 \end{equation*}
 
 $$
 
-where $r_{f,   t: t+h}$ is an appropriate proxy for the rate of return on a long-term risk-free investment over the horizon $h$.
+where $r_{f,    t: t+h}$ is an appropriate proxy for the rate of return on a long-term risk-free investment over the horizon $h$.
 
-If returns are IID $\log$-normal,  then $\log \left(1+\mathbb{E}\left[R_{p,   t: t+h}\right]\right)$ and $\operatorname{var}\left(r_{p,   t: t+h}\right)$ grow proportionally with $h$ and hence $L R S R$ does not change with horizon-which is a sensible result for an IID environment.
+If returns are IID $\log$-normal,  then $\log \left(1+\mathbb{E}\left[R_{p,    t: t+h}\right]\right)$ and $\operatorname{var}\left(r_{p,    t: t+h}\right)$ grow proportionally with $h$ and hence $L R S R$ does not change with horizon-which is a sensible result for an IID environment.
 
 Panel B shows that the long-run Sharpe ratios are all lower than the Sharpe ratios in Panel A for the fixed-weight strategies. This is a consequence of using the bond portfolio returns as risk-free asset return proxies. Long-term bonds had higher returns than T-bills during the sample period analyzed in this table,  so we are subtracting higher numbers when we construct excess returns. (If one uses T-bill returns instead,  the long-run Sharpe ratios are slightly higher than the short-run Sharpe ratios in Panel A,  consistent with a variance-reducing effect of mean reversion in stock prices). In terms of relative performance between the three strategies,  the message from the longterm Sharpe ratios in Panel B is the same as in Panel A: the adaptive asset allocation strategy underperforms.
 
@@ -1079,13 +1072,13 @@ $$
 
 \begin{equation*}
 
-\omega_{t}=\frac{\mathbb{E}_{t}\left[r_{t+1}\right]-r_{f,   t}+\frac{1}{2} \sigma_{t}^{2}}{\gamma \sigma_{t}^{2}} \tag{5.57}
+\omega_{t}=\frac{\mathbb{E}_{t}\left[r_{t+1}\right]-r_{f,    t}+\frac{1}{2} \sigma_{t}^{2}}{\gamma \sigma_{t}^{2}} \tag{5.57}
 
 \end{equation*}
 
 $$
 
-With this method,  we choose a portfolio every period as if future returns were generated IID. But when the next period arrives,  we recompute the solution now based on $\mathbb{E}_{t+1}\left[r_{t+2}\right],   \sigma_{t+1}^{2}=\operatorname{var}_{t+1}\left(r_{t+2}\right)$,  and $r_{f,   t+1}$ (which would not have changed if returns were truly IID). We reshuffle our portfolio accordingly.
+With this method,  we choose a portfolio every period as if future returns were generated IID. But when the next period arrives,  we recompute the solution now based on $\mathbb{E}_{t+1}\left[r_{t+2}\right],    \sigma_{t+1}^{2}=\operatorname{var}_{t+1}\left(r_{t+2}\right)$,  and $r_{f,    t+1}$ (which would not have changed if returns were truly IID). We reshuffle our portfolio accordingly.
 
 This approach clearly takes advantage of the opportunities that arise from having information about time varying expected returns or volatilities. This can potentially be a substantial improvement over a policy that simply ignores these opportunities and sticks to a fixed portfolio. But we are not taking into account the effects that work through the long-run portfolio return variance that we discussed above. For example,  if mean-reversion makes stocks less risky in the long-run and hence a more attractive asset,  the formula in (5.57) does not take this into account because it uses only the short-run variance. So the myopic market-timing strategy is not necessarily utility-improving for a long-term investor.
 
@@ -1127,7 +1120,7 @@ $$
 
 \begin{equation*}
 
-W_{t+h}=W_{t}\left(1+R_{p,   t: t+h}\right) \tag{5.59}
+W_{t+h}=W_{t}\left(1+R_{p,    t: t+h}\right) \tag{5.59}
 
 \end{equation*}
 
@@ -1155,8 +1148,6 @@ This is also the reason why the myopic market-timing strategy does not show a ut
 
 We can also see that the fixed-weight strategy that sets the weight equal to the longterm average of the myopic market-timing strategy is inferior to the optimal fixed-weight strategy. This again has to do with the fact that the optimal fixed-weight strategy takes into account the long-term variance-reducing effect of mean-reversion,  while the strategy that sets fixed weights equal to the mean of myopic market-timing weights ignores this reduction in long-term variance - and this is particularly detrimental to expected utility when mean-reversion is very strong,  i.e.,  for low $\phi$.
 
-As we discussed,  the myopic market-timing strategy is not fully optimal for the longterm investor because it allocates each period as if returns were IID going forwardwhich they are not. Since the problem is intractable,  we can't figure out exactly how much more we would need to allocate to stocks to optimally exploit the fact that stocks are less riskier in the long-run (than it may seem from a short-horizon analysis) due to mean-reversion. But we can try a heuristic approach that may go some of the way towards the fully optimal solution: Use the myopic market-timing formula (5.57),  but instead of the short-run variance $\sigma^{2}$ (which is constant in the sentiment model that we are simulating here) plug in the long-run variance $\operatorname{var}\left(r_{p,   t: t+h}\right) / h$ from the optimal fixed weight strategy formula (5.49). This produces only a slight improvement: in the $\phi=0.95$ case,  the long-term investor gets expected utility of 0.198 instead of 0.194 . This confirms that the myopic market-timing strategy is not fully optimal,  but it seems difficult to improve it in a substantial way.
+As we discussed,  the myopic market-timing strategy is not fully optimal for the longterm investor because it allocates each period as if returns were IID going forwardwhich they are not. Since the problem is intractable,  we can't figure out exactly how much more we would need to allocate to stocks to optimally exploit the fact that stocks are less riskier in the long-run (than it may seem from a short-horizon analysis) due to mean-reversion. But we can try a heuristic approach that may go some of the way towards the fully optimal solution: Use the myopic market-timing formula (5.57),  but instead of the short-run variance $\sigma^{2}$ (which is constant in the sentiment model that we are simulating here) plug in the long-run variance $\operatorname{var}\left(r_{p,    t: t+h}\right) / h$ from the optimal fixed weight strategy formula (5.49). This produces only a slight improvement: in the $\phi=0.95$ case,  the long-term investor gets expected utility of 0.198 instead of 0.194 . This confirms that the myopic market-timing strategy is not fully optimal,  but it seems difficult to improve it in a substantial way.
 
-The bottom line is that the myopic market-timing strategy seems like a reasonable approach,  even though it's not fully optimal. One caveat,  though,  is that in these simulations we knew exactly the value of conditional expected stock market returns at every point in time. In practice,  we would have to estimate this with the predictive regression techniques we discussed in earlier lectures. This introduces estimation noise into the portfolio weights which will lead to some degree of performance deterioration. As a consequence,  in practice,  the optimal fixed-weight strategy may be quite competitive relative to the myopic market-timing strategy. It takes into account the effects of meanreversion on the long-run variance,  but does not try to exploit predictability of excess
-
-returns for market timing.
+The bottom line is that the myopic market-timing strategy seems like a reasonable approach,  even though it's not fully optimal. One caveat,  though,  is that in these simulations we knew exactly the value of conditional expected stock market returns at every point in time. In practice,  we would have to estimate this with the predictive regression techniques we discussed in earlier lectures. This introduces estimation noise into the portfolio weights which will lead to some degree of performance deterioration. As a consequence,  in practice,  the optimal fixed-weight strategy may be quite competitive relative to the myopic market-timing strategy. It takes into account the effects of meanreversion on the long-run variance,  but does not try to exploit predictability of excess returns for market timing.

@@ -32,7 +32,7 @@ $$
 
 \begin{equation*}
 
-v_{t}=\frac{1}{1-\rho}(c+g-\theta),       \tag{4.2}
+v_{t}=\frac{1}{1-\rho}(c+g-\theta),        \tag{4.2}
 
 \end{equation*}
 
@@ -414,7 +414,7 @@ v_{t}=c+\Delta d_{t+1}-r_{t+1}+\rho v_{t+1} \tag{4.9}
 
 $$
 
-Iterating forward on this equation,  imposing the transversality condition $\lim _{T \rightarrow \infty} \rho^{T+1} v_{T+1}=$ 0 and taking time- $t$ conditional expectations gave us the present-value relation (4.1). Assuming additionally that investors price the asset to earn,  in expectation,  a constant required rate of return $\theta,      (4.1)$ becomes
+Iterating forward on this equation,  imposing the transversality condition $\lim _{T \rightarrow \infty} \rho^{T+1} v_{T+1}=$ 0 and taking time- $t$ conditional expectations gave us the present-value relation (4.1). Assuming additionally that investors price the asset to earn,  in expectation,  a constant required rate of return $\theta,       (4.1)$ becomes
 
 $$
 
@@ -500,7 +500,7 @@ The value that $A$ investors would be willing to pay at $t$ if they knew that in
 
 If this is what's going on,  if investors are betting on resale to "greater fools" in the future,  then we should not see investors holding on to assets for a long time. They should resell once new optimists have entered the market and the price has moved up. Trading volume therefore should be high in such situations.
 
-Figure 4.14 shows that this is what happened when the stock price of GameStop took off in early 2021. Trading volume was incredibly high. Around the price peak on January 22,  2021,  almost 200 million shares changed hands in a single day. This was about three times the total number of shares outstanding of GameStop at the time! So each existing share of GameStop changed hands several times per day,  on average! The total dollar amount of shares traded on January 22,  2021 was about $13bn. For comparison,       less than $1 \%$ of outstanding Apple shares changed hands on the same day (and somewhat less than $1 \%$ per day is a typical number for liquid stocks). And these numbers are still missing a big part of the trading activity,  because there was also frantic trading going on in GameStop options,  not only in the stock.
+Figure 4.14 shows that this is what happened when the stock price of GameStop took off in early 2021. Trading volume was incredibly high. Around the price peak on January 22,  2021,  almost 200 million shares changed hands in a single day. This was about three times the total number of shares outstanding of GameStop at the time! So each existing share of GameStop changed hands several times per day,  on average! The total dollar amount of shares traded on January 22,  2021 was about $13bn. For comparison,        less than $1 \%$ of outstanding Apple shares changed hands on the same day (and somewhat less than $1 \%$ per day is a typical number for liquid stocks). And these numbers are still missing a big part of the trading activity,  because there was also frantic trading going on in GameStop options,  not only in the stock.
 
 GameStop is an extreme case,  but similar dynamics may be at work at other times in other assets. Links between speculative trading based on short-term capital gain expectations and trading volume appear in historical accounts of asset price bubbles throughout the centuries. ${ }^{11}$ The New York Stock Exchange set a trading volume records
 
