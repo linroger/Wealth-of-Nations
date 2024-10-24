@@ -303,7 +303,7 @@ How does a mean-variance optimizing investor think about a new asset that could 
 We can see the risk contribution of assets to the overall portfolio by examining the portfolio variance in equation (2.5). Note from (2.8) that the expression $\boldsymbol{\Sigma} \boldsymbol{\omega}$ in
 
 $\operatorname{var}\left(R_{p}\right)=\boldsymbol{\omega}^{\prime} \boldsymbol{\Sigma} \boldsymbol{\omega}$ is a vector of covariances,  so the pre-multiplication by $\boldsymbol{\omega}^{\prime}$ forms a weighted sum of these covariances,  i.e.,
-\operatorname{var}\left(R_{p}\right) = \omega_{1} 
+$$\operatorname{var}\left(R_{p}\right) = \omega_{1} 
 \underbrace{\operatorname{cov}\left(R_{1}, R_{p}\right)}_{
 \begin{array}{c}
 \text{Risk} \\
@@ -311,7 +311,7 @@ $\operatorname{var}\left(R_{p}\right)=\boldsymbol{\omega}^{\prime} \boldsymbol{\
 \text{of asset 1}
 \end{array}
 } 
-+ \omega_{2} \operatorname{cov}\left(R_{2}, R_{p}\right) + \ldots + \omega_{N} \operatorname{cov}\left(R_{N}, R_{p}\right)
++ \omega_{2} \operatorname{cov}\left(R_{2}, R_{p}\right) + \ldots + \omega_{N} \operatorname{cov}\left(R_{N}, R_{p}\right)$$
 
 We have now decomposed the overall portfolio variance in the pieces that come from each asset. How much risk each asset brings to the portfolio is determined by how much of this asset is in the portfolio,  i.e.,  its portfolio weight,  times the risk contribution measured by the covariance $\operatorname{cov}\left(R_{i},       R_{p}\right)$. For the same weight,  an asset that has a higher covariance with the portfolio return adds more risk to the portfolio.
 
