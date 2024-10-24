@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
+                "file": "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8- Inflation & Sovereign Default Risk"
+              "title": "Hull White Term Structure Simulations with QuantLib Python"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
+                "file": "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 8- Inflation & Sovereign Default Risk"
+              "title": "Backlinks for Hull White Term Structure Simulations with QuantLib Python"
             }
           }
         ],
@@ -225,6 +225,12 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
+    "Attachments/Unknown.png",
+    "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
+    "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
+    "Clippings/Modeling Fixed Rate Bonds in QuantLib Python.md",
+    "Clippings/Introduction to QuantLib Python.md",
+    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
     "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md",
@@ -241,7 +247,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.txt",
-    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
     "Attachments/9/f/4/4.md",
     "Attachments/Attachments.md",
     "Attachments/Keep It 2024-10-24 10.52.05.png",
@@ -265,11 +270,6 @@
     "Financial Instruments/Lecture Notes/Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/CALCULATE STOCK PRICES AT DIFFERENT NODES.md",
     "Clippings/China's Monetary Policy.md",
-    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 3/Week 3.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 1/Week 1 Introduction to Financial Analysis.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 5/Week 5.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation.md"
+    "Credit Markets/Credit Market PSETS/Credit Market PSETS.md"
   ]
 }
