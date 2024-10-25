@@ -152,22 +152,33 @@ We will setup the Heston model with two different initial conditions:
 As a first step, let's look at QuantLib's Levenberg-Marquardt solver. The initial condition considered is `theta, kappa, sigma, rho, v0 = (0.02,0.2,0.5,0.1,0.01)`
 
 ```
-```
-- theta, kappa, sigma, rho, v0 = (0.02, 0.2, 0.5, 0.1, 0.01)
-- theta, kappa, sigma, rho, v0 = (0.07, 0.5, 0.1, 0.1, 0.1)
-```
+model1, engine1 = setup_model(
+    yield_ts, dividend_ts, spot, 
+    init_condition=(0.02,0.2,0.5,0.1,0.01))
+heston_helpers1, grid_data1 = setup_helpers(
+    engine1, expiration_dates, strikes, data, 
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model1.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>lm</span> <span>=</span> <span>ql</span><span>.</span><span>LevenbergMarquardt</span><span>(</span><span>1e-8</span><span>,</span> <span>1e-8</span><span>,</span> <span>1e-8</span><span>)</span>
-<span>model1</span><span>.</span><span>calibrate</span><span>(</span><span>heston_helpers1</span><span>,</span> <span>lm</span><span>,</span> 
-                 <span>ql</span><span>.</span><span>EndCriteria</span><span>(</span><span>500</span><span>,</span> <span>300</span><span>,</span> <span>1.0e-8</span><span>,</span><span>1.0e-8</span><span>,</span> <span>1.0e-8</span><span>))</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model1</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers1</span><span>,</span> <span>grid_data1</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"QL LM1"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model1</span><span>.</span><span>params</span><span>()))</span>
+%%time
+lm = ql.LevenbergMarquardt(1e-8, 1e-8, 1e-8)
+model1.calibrate(heston_helpers1, lm, 
+                 ql.EndCriteria(500, 300, 1.0e-8,1.0e-8, 1.0e-8))
+theta, kappa, sigma, rho, v0 = model1.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers1, grid_data1)
+summary.append(["QL LM1", error] + list(model1.params()))
+```
+
+```
+theta = 0.125748, kappa = 7.915000, sigma = 1.887854, rho = -0.364942, v0 = 0.055397
+Average Abs Error (%) : 3.015268051
+CPU times: user 4.86 s, sys: 0 ns, total: 4.86 s
+Wall time: 4.86 s
 ```
 
 ```
@@ -180,26 +191,26 @@ Wall time: 4.86 s
 Methods like Levenberg-Marquardt solve for local minimas and do not search for global minimas. The solver is very sensitive to the initial conditions. Let's set a different set of initial conditions, and see what happens below. The initial condition considered is `theta, kappa, sigma, rho, v0 = (0.07,0.5,0.1,0.1,0.1)`
 
 ```
-<span></span><span>model1</span><span>,</span> <span>engine1</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span> 
-    <span>init_condition</span><span>=</span><span>(</span><span>0.07</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>))</span>
-<span>heston_helpers1</span><span>,</span> <span>grid_data1</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine1</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span> 
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model1</span><span>.</span><span>params</span><span>())</span>
+model1, engine1 = setup_model(
+    yield_ts, dividend_ts, spot, 
+    init_condition=(0.07,0.5,0.1,0.1,0.1))
+heston_helpers1, grid_data1 = setup_helpers(
+    engine1, expiration_dates, strikes, data, 
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model1.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>lm</span> <span>=</span> <span>ql</span><span>.</span><span>LevenbergMarquardt</span><span>(</span><span>1e-8</span><span>,</span> <span>1e-8</span><span>,</span> <span>1e-8</span><span>)</span>
-<span>model1</span><span>.</span><span>calibrate</span><span>(</span><span>heston_helpers1</span><span>,</span> <span>lm</span><span>,</span> 
-                 <span>ql</span><span>.</span><span>EndCriteria</span><span>(</span><span>500</span><span>,</span> <span>300</span><span>,</span> <span>1.0e-8</span><span>,</span><span>1.0e-8</span><span>,</span> <span>1.0e-8</span><span>))</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model1</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers1</span><span>,</span> <span>grid_data1</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"QL LM2"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model1</span><span>.</span><span>params</span><span>()))</span>
+%%time
+lm = ql.LevenbergMarquardt(1e-8, 1e-8, 1e-8)
+model1.calibrate(heston_helpers1, lm, 
+                 ql.EndCriteria(500, 300, 1.0e-8,1.0e-8, 1.0e-8))
+theta, kappa, sigma, rho, v0 = model1.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers1, grid_data1)
+summary.append(["QL LM2", error] + list(model1.params()))
 ```
 
 ```
@@ -216,25 +227,25 @@ We see that the solver produces a 11% average of absolute error. This is not par
 Here we are going to try the same exercise but using Scipy. Scipy has far more optimization, minimization and root finding algorithms that are very robust. So by leveraging Scipy, we can take advantage of this rich set of options at hand.
 
 ```
-<span></span><span>model2</span><span>,</span> <span>engine2</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span> 
-    <span>init_condition</span><span>=</span><span>(</span><span>0.02</span><span>,</span><span>0.2</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.01</span><span>))</span>
-<span>heston_helpers2</span><span>,</span> <span>grid_data2</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine2</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model2</span><span>.</span><span>params</span><span>())</span>
+model2, engine2 = setup_model(
+    yield_ts, dividend_ts, spot, 
+    init_condition=(0.02,0.2,0.5,0.1,0.01))
+heston_helpers2, grid_data2 = setup_helpers(
+    engine2, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model2.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span><span>model2</span><span>,</span> <span>heston_helpers2</span><span>)</span>
-<span>sol</span> <span>=</span> <span>root</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>,</span> <span>method</span><span>=</span><span>'lm'</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model2</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers2</span><span>,</span> <span>grid_data2</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy LM1"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model2</span><span>.</span><span>params</span><span>()))</span>
+%%time
+cost_function = cost_function_generator(model2, heston_helpers2)
+sol = root(cost_function, initial_condition, method='lm')
+theta, kappa, sigma, rho, v0 = model2.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers2, grid_data2)
+summary.append(["Scipy LM1", error] + list(model2.params()))
 ```
 
 ```
@@ -247,25 +258,25 @@ Wall time: 4.65 s
 The solution for this particular case seems to be fairly robust. Both solvers (QuantLib and Scipy) seem to have landed on more or less the same solution for this particular initial condition. Let's see how Scipy does for the second initial condition considered above - `theta, kappa, sigma, rho, v0 = (0.07,0.5,0.1,0.1,0.1)`
 
 ```
-<span></span><span>model2</span><span>,</span> <span>engine2</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span>
-    <span>init_condition</span><span>=</span><span>(</span><span>0.07</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>))</span>
-<span>heston_helpers2</span><span>,</span> <span>grid_data2</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine2</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model2</span><span>.</span><span>params</span><span>())</span>
+model2, engine2 = setup_model(
+    yield_ts, dividend_ts, spot,
+    init_condition=(0.07,0.5,0.1,0.1,0.1))
+heston_helpers2, grid_data2 = setup_helpers(
+    engine2, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model2.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span><span>model2</span><span>,</span> <span>heston_helpers2</span><span>)</span>
-<span>sol</span> <span>=</span> <span>root</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>,</span> <span>method</span><span>=</span><span>'lm'</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model2</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers2</span><span>,</span> <span>grid_data2</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy LM2"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model2</span><span>.</span><span>params</span><span>()))</span>
+%%time
+cost_function = cost_function_generator(model2, heston_helpers2)
+sol = root(cost_function, initial_condition, method='lm')
+theta, kappa, sigma, rho, v0 = model2.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers2, grid_data2)
+summary.append(["Scipy LM2", error] + list(model2.params()))
 ```
 
 ```
@@ -280,31 +291,30 @@ For this particular case, Scipy solver has performed significantly better. It wo
 ##### Using Least Squares Method
 
 If you want to use a simpler approach like least squares, you can do that with Scipy. Here is how you would use it.
-
 ```
-<span></span><span>from</span> <span>scipy.optimize</span> <span>import</span> <span>least_squares</span>
-```
-
-```
-<span></span><span>model3</span><span>,</span> <span>engine3</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span> 
-    <span>init_condition</span><span>=</span><span>(</span><span>0.02</span><span>,</span><span>0.2</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.01</span><span>))</span>
-<span>heston_helpers3</span><span>,</span> <span>grid_data3</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine3</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model3</span><span>.</span><span>params</span><span>())</span>
+from scipy.optimize import least_squares
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span><span>model3</span><span>,</span> <span>heston_helpers3</span><span>)</span>
-<span>sol</span> <span>=</span> <span>least_squares</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model3</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers3</span><span>,</span> <span>grid_data3</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy LS1"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model3</span><span>.</span><span>params</span><span>()))</span>
+model3, engine3 = setup_model(
+    yield_ts, dividend_ts, spot, 
+    init_condition=(0.02,0.2,0.5,0.1,0.01))
+heston_helpers3, grid_data3 = setup_helpers(
+    engine3, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model3.params())
+```
+
+```
+%%time
+cost_function = cost_function_generator(model3, heston_helpers3)
+sol = least_squares(cost_function, initial_condition)
+theta, kappa, sigma, rho, v0 = model3.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers3, grid_data3)
+summary.append(["Scipy LS1", error] + list(model3.params()))
 ```
 
 ```
@@ -317,25 +327,25 @@ Wall time: 4.55 s
 With the second initial condition:
 
 ```
-<span></span><span>model3</span><span>,</span> <span>engine3</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span> 
-    <span>init_condition</span><span>=</span><span>(</span><span>0.07</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>))</span>
-<span>heston_helpers3</span><span>,</span> <span>grid_data3</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine3</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model3</span><span>.</span><span>params</span><span>())</span>
+model3, engine3 = setup_model(
+    yield_ts, dividend_ts, spot, 
+    init_condition=(0.07,0.5,0.1,0.1,0.1))
+heston_helpers3, grid_data3 = setup_helpers(
+    engine3, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model3.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span><span>model3</span><span>,</span> <span>heston_helpers3</span><span>)</span>
-<span>sol</span> <span>=</span> <span>least_squares</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model3</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers3</span><span>,</span> <span>grid_data3</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy LS2"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model3</span><span>.</span><span>params</span><span>()))</span>
+%%time
+cost_function = cost_function_generator(model3, heston_helpers3)
+sol = least_squares(cost_function, initial_condition)
+theta, kappa, sigma, rho, v0 = model3.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers3, grid_data3)
+summary.append(["Scipy LS2", error] + list(model3.params()))
 ```
 
 ```
@@ -350,31 +360,30 @@ Wall time: 28.1 s
 ##### Using Differential Evolution
 
 The above methods are more suited to finding local minimas. One method that makes an attempt at searching for global minima is the differential evolution. Both QuantLib and Scipy have implementations of this method. Scipy however has a lot more bells and whistles to tune and calibrate the methodology. Let's take a look at the Scipy's `differential_evolution` methodology.
-
 ```
-<span></span><span>from</span> <span>scipy.optimize</span> <span>import</span> <span>differential_evolution</span>
-```
-
-```
-<span></span><span>model4</span><span>,</span> <span>engine4</span> <span>=</span> <span>setup_model</span><span>(</span><span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>)</span>
-<span>heston_helpers4</span><span>,</span> <span>grid_data4</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine4</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model4</span><span>.</span><span>params</span><span>())</span>
-<span>bounds</span> <span>=</span> <span>[(</span><span>0</span><span>,</span><span>1</span><span>),(</span><span>0.01</span><span>,</span><span>15</span><span>),</span> <span>(</span><span>0.01</span><span>,</span><span>1.</span><span>),</span> <span>(</span><span>-</span><span>1</span><span>,</span><span>1</span><span>),</span> <span>(</span><span>0</span><span>,</span><span>1.0</span><span>)</span> <span>]</span>
+from scipy.optimize import differential_evolution
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span>
-    <span>model4</span><span>,</span> <span>heston_helpers4</span><span>,</span> <span>norm</span><span>=</span><span>True</span><span>)</span>
-<span>sol</span> <span>=</span> <span>differential_evolution</span><span>(</span><span>cost_function</span><span>,</span> <span>bounds</span><span>,</span> <span>maxiter</span><span>=</span><span>100</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model4</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers4</span><span>,</span> <span>grid_data4</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy DE1"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model4</span><span>.</span><span>params</span><span>()))</span>
+model4, engine4 = setup_model(yield_ts, dividend_ts, spot)
+heston_helpers4, grid_data4 = setup_helpers(
+    engine4, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model4.params())
+bounds = [(0,1),(0.01,15), (0.01,1.), (-1,1), (0,1.0) ]
+```
+
+```
+%%time
+cost_function = cost_function_generator(
+    model4, heston_helpers4, norm=True)
+sol = differential_evolution(cost_function, bounds, maxiter=100)
+theta, kappa, sigma, rho, v0 = model4.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers4, grid_data4)
+summary.append(["Scipy DE1", error] + list(model4.params()))
 ```
 
 ```
@@ -387,25 +396,25 @@ Wall time: 1min 39s
 In the above example, I am setting the variable `maxiter` in order to limit the time taken. In production scenarios, you may want to try a larger number or not provide any value and default to 1000. This can help search a larger area of the parameter space.
 
 ```
-<span></span><span>model4</span><span>,</span> <span>engine4</span> <span>=</span> <span>setup_model</span><span>(</span><span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>)</span>
-<span>heston_helpers4</span><span>,</span> <span>grid_data4</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine4</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model4</span><span>.</span><span>params</span><span>())</span>
-<span>bounds</span> <span>=</span> <span>[(</span><span>0</span><span>,</span><span>1</span><span>),(</span><span>0.01</span><span>,</span><span>15</span><span>),</span> <span>(</span><span>0.01</span><span>,</span><span>1.</span><span>),</span> <span>(</span><span>-</span><span>1</span><span>,</span><span>1</span><span>),</span> <span>(</span><span>0</span><span>,</span><span>1.0</span><span>)</span> <span>]</span>
+model4, engine4 = setup_model(yield_ts, dividend_ts, spot)
+heston_helpers4, grid_data4 = setup_helpers(
+    engine4, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model4.params())
+bounds = [(0,1),(0.01,15), (0.01,1.), (-1,1), (0,1.0) ]
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span>
-    <span>model4</span><span>,</span> <span>heston_helpers4</span><span>,</span> <span>norm</span><span>=</span><span>True</span><span>)</span>
-<span>sol</span> <span>=</span> <span>differential_evolution</span><span>(</span><span>cost_function</span><span>,</span> <span>bounds</span><span>,</span> <span>maxiter</span><span>=</span><span>100</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model4</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers4</span><span>,</span> <span>grid_data4</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy DE2"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model4</span><span>.</span><span>params</span><span>()))</span>
+%%time
+cost_function = cost_function_generator(
+    model4, heston_helpers4, norm=True)
+sol = differential_evolution(cost_function, bounds, maxiter=100)
+theta, kappa, sigma, rho, v0 = model4.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers4, grid_data4)
+summary.append(["Scipy DE2", error] + list(model4.params()))
 ```
 
 ```
@@ -422,49 +431,49 @@ Here we will use the Basin Hopping (annealing like) method to solve for the para
 I have chosen bounds based on a very basic reasoning. One needs careful reasoning to use appropriate bounds for the problem at hand.
 
 ```
-<span></span><span>from</span> <span>scipy.optimize</span> <span>import</span> <span>basinhopping</span>
+from scipy.optimize import basinhopping
 ```
 
 ```
-<span></span><span>class</span> <span>MyBounds</span><span>(</span><span>object</span><span>):</span>
-     <span>def</span> <span>__init__</span><span>(</span><span>self</span><span>,</span> <span>xmin</span><span>=</span><span>[</span><span>0.</span><span>,</span><span>0.01</span><span>,</span><span>0.01</span><span>,</span><span>-</span><span>1</span><span>,</span><span>0</span><span>],</span> <span>xmax</span><span>=</span><span>[</span><span>1</span><span>,</span><span>15</span><span>,</span><span>1</span><span>,</span><span>1</span><span>,</span><span>1.0</span><span>]</span> <span>):</span>
-         <span>self</span><span>.</span><span>xmax</span> <span>=</span> <span>np</span><span>.</span><span>array</span><span>(</span><span>xmax</span><span>)</span>
-         <span>self</span><span>.</span><span>xmin</span> <span>=</span> <span>np</span><span>.</span><span>array</span><span>(</span><span>xmin</span><span>)</span>
-     <span>def</span> <span>__call__</span><span>(</span><span>self</span><span>,</span> <span>**</span><span>kwargs</span><span>):</span>
-         <span>x</span> <span>=</span> <span>kwargs</span><span>[</span><span>"x_new"</span><span>]</span>
-         <span>tmax</span> <span>=</span> <span>bool</span><span>(</span><span>np</span><span>.</span><span>all</span><span>(</span><span>x</span> <span>&lt;=</span> <span>self</span><span>.</span><span>xmax</span><span>))</span>
-         <span>tmin</span> <span>=</span> <span>bool</span><span>(</span><span>np</span><span>.</span><span>all</span><span>(</span><span>x</span> <span>&gt;=</span> <span>self</span><span>.</span><span>xmin</span><span>))</span>
-         <span>return</span> <span>tmax</span> <span>and</span> <span>tmin</span>
-<span>bounds</span> <span>=</span> <span>[(</span><span>0</span><span>,</span><span>1</span><span>),(</span><span>0.01</span><span>,</span><span>15</span><span>),</span> <span>(</span><span>0.01</span><span>,</span><span>1.</span><span>),</span> <span>(</span><span>-</span><span>1</span><span>,</span><span>1</span><span>),</span> <span>(</span><span>0</span><span>,</span><span>1.0</span><span>)</span> <span>]</span>
+class MyBounds(object):
+     def __init__(self, xmin=[0..01,0.01,-1,0], xmax=[1,15,1,1,1.0] ):
+         self.xmax = np.array(xmax)
+         self.xmin = np.array(xmin)
+     def __call__(self, **kwargs):
+         x = kwargs["x_new"]
+         tmax = bool(np.all(x <= self.xmax))
+         tmin = bool(np.all(x >= self.xmin))
+         return tmax and tmin
+bounds = [(0,1),(0.01,15), (0.01,1.), (-1,1), (0,1.0) ]
 ```
 
 ```
-<span></span><span>model5</span><span>,</span> <span>engine5</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span>
-    <span>init_condition</span><span>=</span><span>(</span><span>0.02</span><span>,</span><span>0.2</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.01</span><span>))</span>
-<span>heston_helpers5</span><span>,</span> <span>grid_data5</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine5</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model5</span><span>.</span><span>params</span><span>())</span>
+model5, engine5 = setup_model(
+    yield_ts, dividend_ts, spot,
+    init_condition=(0.02,0.2,0.5,0.1,0.01))
+heston_helpers5, grid_data5 = setup_helpers(
+    engine5, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model5.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>mybound</span> <span>=</span> <span>MyBounds</span><span>()</span>
-<span>minimizer_kwargs</span> <span>=</span> <span>{</span><span>"method"</span><span>:</span> <span>"L-BFGS-B"</span><span>,</span> <span>"bounds"</span><span>:</span> <span>bounds</span> <span>}</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span>
-    <span>model5</span><span>,</span> <span>heston_helpers5</span><span>,</span> <span>norm</span><span>=</span><span>True</span><span>)</span>
-<span>sol</span> <span>=</span> <span>basinhopping</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>,</span> <span>niter</span><span>=</span><span>5</span><span>,</span>
-                   <span>minimizer_kwargs</span><span>=</span><span>minimizer_kwargs</span><span>,</span>
-                   <span>stepsize</span><span>=</span><span>0.005</span><span>,</span>
-                   <span>accept_test</span><span>=</span><span>mybound</span><span>,</span>
-                   <span>interval</span><span>=</span><span>10</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model5</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers5</span><span>,</span> <span>grid_data5</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy BH1"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model5</span><span>.</span><span>params</span><span>()))</span>
+%%time
+mybound = MyBounds()
+minimizer_kwargs = {"method": "L-BFGS-B", "bounds": bounds }
+cost_function = cost_function_generator(
+    model5, heston_helpers5, norm=True)
+sol = basinhopping(cost_function, initial_condition, niter=5,
+                   minimizer_kwargs=minimizer_kwargs,
+                   stepsize=0.005,
+                   accept_test=mybound,
+                   interval=10)
+theta, kappa, sigma, rho, v0 = model5.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers5, grid_data5)
+summary.append(["Scipy BH1", error] + list(model5.params()))
 ```
 
 ```
@@ -475,32 +484,32 @@ Wall time: 2min 14s
 ```
 
 ```
-<span></span><span>model5</span><span>,</span> <span>engine5</span> <span>=</span> <span>setup_model</span><span>(</span>
-    <span>yield_ts</span><span>,</span> <span>dividend_ts</span><span>,</span> <span>spot</span><span>,</span>
-    <span>init_condition</span><span>=</span><span>(</span><span>0.07</span><span>,</span><span>0.5</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>,</span><span>0.1</span><span>))</span>
-<span>heston_helpers5</span><span>,</span> <span>grid_data5</span> <span>=</span> <span>setup_helpers</span><span>(</span>
-    <span>engine5</span><span>,</span> <span>expiration_dates</span><span>,</span> <span>strikes</span><span>,</span> <span>data</span><span>,</span>
-    <span>calculation_date</span><span>,</span> <span>spot</span><span>,</span> <span>yield_ts</span><span>,</span> <span>dividend_ts</span>
-<span>)</span>
-<span>initial_condition</span> <span>=</span> <span>list</span><span>(</span><span>model5</span><span>.</span><span>params</span><span>())</span>
+model5, engine5 = setup_model(
+    yield_ts, dividend_ts, spot,
+    init_condition=(0.07,0.5,0.1,0.1,0.1))
+heston_helpers5, grid_data5 = setup_helpers(
+    engine5, expiration_dates, strikes, data,
+    calculation_date, spot, yield_ts, dividend_ts
+)
+initial_condition = list(model5.params())
 ```
 
 ```
-<span></span><span>%%</span><span>time</span>
-<span>mybound</span> <span>=</span> <span>MyBounds</span><span>()</span>
-<span>minimizer_kwargs</span> <span>=</span> <span>{</span><span>"method"</span><span>:</span> <span>"L-BFGS-B"</span><span>,</span> <span>"bounds"</span><span>:</span> <span>bounds</span><span>}</span>
-<span>cost_function</span> <span>=</span> <span>cost_function_generator</span><span>(</span>
-    <span>model5</span><span>,</span> <span>heston_helpers5</span><span>,</span> <span>norm</span><span>=</span><span>True</span><span>)</span>
-<span>sol</span> <span>=</span> <span>basinhopping</span><span>(</span><span>cost_function</span><span>,</span> <span>initial_condition</span><span>,</span> <span>niter</span><span>=</span><span>5</span><span>,</span>
-                   <span>minimizer_kwargs</span><span>=</span><span>minimizer_kwargs</span><span>,</span>
-                   <span>stepsize</span><span>=</span><span>0.005</span><span>,</span>
-                   <span>accept_test</span><span>=</span><span>mybound</span><span>,</span>
-                   <span>interval</span><span>=</span><span>10</span><span>)</span>
-<span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span> <span>=</span> <span>model5</span><span>.</span><span>params</span><span>()</span>
-<span>print</span> <span>"theta = </span><span>%f</span><span>, kappa = </span><span>%f</span><span>, sigma = </span><span>%f</span><span>, rho = </span><span>%f</span><span>, v0 = </span><span>%f</span><span>"</span> <span>%</span> \
-    <span>(</span><span>theta</span><span>,</span> <span>kappa</span><span>,</span> <span>sigma</span><span>,</span> <span>rho</span><span>,</span> <span>v0</span><span>)</span>
-<span>error</span> <span>=</span> <span>calibration_report</span><span>(</span><span>heston_helpers5</span><span>,</span> <span>grid_data5</span><span>)</span>
-<span>summary</span><span>.</span><span>append</span><span>([</span><span>"Scipy BH2"</span><span>,</span> <span>error</span><span>]</span> <span>+</span> <span>list</span><span>(</span><span>model5</span><span>.</span><span>params</span><span>()))</span>
+%%time
+mybound = MyBounds()
+minimizer_kwargs = {"method": "L-BFGS-B", "bounds": bounds}
+cost_function = cost_function_generator(
+    model5, heston_helpers5, norm=True)
+sol = basinhopping(cost_function, initial_condition, niter=5,
+                   minimizer_kwargs=minimizer_kwargs,
+                   stepsize=0.005,
+                   accept_test=mybound,
+                   interval=10)
+theta, kappa, sigma, rho, v0 = model5.params()
+print "theta = %f, kappa = %f, sigma = %f, rho = %f, v0 = %f" % \
+    (theta, kappa, sigma, rho, v0)
+error = calibration_report(heston_helpers5, grid_data5)
+summary.append(["Scipy BH2", error] + list(model5.params()))
 ```
 
 ```
@@ -519,22 +528,26 @@ The global solvers such as Differential Evolution and Basin Hopping are capable 
 Hope you find this useful!
 
 ```
-<span></span><span>from</span> <span>pandas</span> <span>import</span> <span>DataFrame</span>
-<span>DataFrame</span><span>(</span>
-    <span>summary</span><span>,</span>
-    <span>columns</span><span>=</span><span>[</span><span>"Name"</span><span>,</span> <span>"Avg Abs Error"</span><span>,</span><span>"Theta"</span><span>,</span> <span>"Kappa"</span><span>,</span> <span>"Sigma"</span><span>,</span> <span>"Rho"</span><span>,</span> <span>"V0"</span><span>],</span>
-    <span>index</span><span>=</span><span>[</span><span>''</span><span>]</span><span>*</span><span>len</span><span>(</span><span>summary</span><span>))</span>
+from pandas import DataFrame
+DataFrame(
+    summary,
+    columns=["Name", "Avg Abs Error","Theta", "Kappa", "Sigma", "Rho", "V0"],
+    index=['']*len(summary))
 ```
 
-|  | Name | Avg Abs Error | Theta | Kappa | Sigma | Rho | V0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | QL LM1 | 3.015268 | 0.125748 | 7.915000e+00 | 1.887854 | -0.364942 | 0.055397 |
-|  | QL LM2 | 11.007433 | 0.084523 | 1.625740e-08 | 0.132289 | -0.514278 | 0.099928 |
-|  | Scipy LM1 | 3.015253 | 0.125747 | 7.915687e+00 | 1.887934 | -0.364944 | 0.055394 |
-|  | Scipy LM2 | 7.019500 | 0.048184 | -5.489029e-01 | 0.197958 | -0.999547 | 0.090571 |
-|  | Scipy LS1 | 3.015251 | 0.125747 | 7.915814e+00 | 1.887949 | -0.364944 | 0.055394 |
-|  | Scipy LS2 | 5.096414 | 3.136774 | 4.896844e-06 | -0.000245 | -0.000010 | 1.597904 |
-|  | Scipy DE1 | 2.859113 | 0.123221 | 5.012199e+00 | 0.950309 | -0.570340 | 0.078440 |
-|  | Scipy DE2 | 2.876087 | 0.122251 | 4.996804e+00 | 0.849266 | -0.637706 | 0.079484 |
-|  | Scipy BH1 | 2.850972 | 0.123455 | 5.074067e+00 | 0.995095 | -0.562106 | 0.079009 |
-|  | Scipy BH2 | 2.863356 | 0.123403 | 4.791319e+00 | 0.904397 | -0.593711 | 0.079215 |
+```
+
+```
+
+| Name      | Avg Abs Error | Theta    | Kappa         | Sigma     | Rho       | V0       |
+| --------- | ------------- | -------- | ------------- | --------- | --------- | -------- |
+| QL LM1    | 3.015268      | 0.125748 | 7.915000e+00  | 1.887854  | -0.364942 | 0.055397 |
+| QL LM2    | 11.007433     | 0.084523 | 1.625740e-08  | 0.132289  | -0.514278 | 0.099928 |
+| Scipy LM1 | 3.015253      | 0.125747 | 7.915687e+00  | 1.887934  | -0.364944 | 0.055394 |
+| Scipy LM2 | 7.019500      | 0.048184 | -5.489029e-01 | 0.197958  | -0.999547 | 0.090571 |
+| Scipy LS1 | 3.015251      | 0.125747 | 7.915814e+00  | 1.887949  | -0.364944 | 0.055394 |
+| Scipy LS2 | 5.096414      | 3.136774 | 4.896844e-06  | -0.000245 | -0.000010 | 1.597904 |
+| Scipy DE1 | 2.859113      | 0.123221 | 5.012199e+00  | 0.950309  | -0.570340 | 0.078440 |
+| Scipy DE2 | 2.876087      | 0.122251 | 4.996804e+00  | 0.849266  | -0.637706 | 0.079484 |
+| Scipy BH1 | 2.850972      | 0.123455 | 5.074067e+00  | 0.995095  | -0.562106 | 0.079009 |
+| Scipy BH2 | 2.863356      | 0.123403 | 4.791319e+00  | 0.904397  | -0.593711 | 0.079215 |
