@@ -153,92 +153,74 @@ legend = ax.legend(loc="upper right")
 
 The whole volatility surface can also be visualised as shown below.
 
-In \[10\]:
+```
+plot_years = np.arange(0, 2, 0.1)
+plot_strikes = np.arange(535, 750, 1)
+fig = plt.figure()
+ax = fig.gca(projection='3d')
+X, Y = np.meshgrid(plot_strikes, plot_years)
+Z = np.array([local_vol_surface.localVol(y, x) 
+              for xr, yr in zip(X, Y) 
+                  for x, y in zip(xr,yr) ]
+             ).reshape(len(X), len(X[0]))
 
+surf = ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap=cm.coolwarm, 
+                linewidth=0.1)
+fig.colorbar(surf, shrink=0.5, aspect=5)
 ```
 
-plot\_years \= np.arange(0,  2,  0.1)
-plot\_strikes \= np.arange(535,  750,  1)
-fig \= plt.figure()
-ax \= fig.gca(projection\='3d')
-X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
-Z \= np.array(\[black\_var\_surface.blackVol(y,  x)
-			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr,  yr) \]
-			 ).reshape(len(X),  len(X\[0\]))
-
-surf \= ax.plot\_surface(X,  Y,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
-				linewidth\=0.1)
-fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
-
-```python
-
-Out\[10\]:
+One can also construct a local volatility surface (_a la_ Dupire) using the ```LocalVolSurface```. There are some issues with this as shown below.
 
 ```
-
-One can also construct a local volatility surface (_a la_ Dupire) using the ```LocalVolSurface
-```. There are some issues with this as shown below.
-
-In \[11\]:
-
+local_vol_surface = ql.LocalVolSurface(
+    ql.BlackVolTermStructureHandle(black_var_surface), 
+    flat_ts, 
+    dividend_ts, 
+    spot)
 ```
 
-local\_vol\_surface \= ql.LocalVolSurface(
-	ql.BlackVolTermStructureHandle(black\_var\_surface),
-	flat\_ts,
-	dividend\_ts,
-	spot)
+```
+plot_years = np.arange(0, 2, 0.1)
+plot_strikes = np.arange(535, 750, 1)
+fig = plt.figure()
+ax = fig.gca(projection='3d')
+X, Y = np.meshgrid(plot_strikes, plot_years)
+Z = np.array([local_vol_surface.localVol(y, x) 
+              for xr, yr in zip(X, Y) 
+                  for x, y in zip(xr,yr) ]
+             ).reshape(len(X), len(X[0]))
 
-```python
-
-In \[12\]:
-
+surf = ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap=cm.coolwarm, 
+                linewidth=0.1)
+fig.colorbar(surf, shrink=0.5, aspect=5)
 ```
 
-plot\_years \= np.arange(0,  2,  0.1)
-plot\_strikes \= np.arange(535,  750,  1)
-fig \= plt.figure()
-ax \= fig.gca(projection\='3d')
-X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
-Z \= np.array(\[local\_vol\_surface.localVol(y,  x)
-			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr,  yr) \]
-			 ).reshape(len(X),  len(X\[0\]))
 
-surf \= ax.plot\_surface(X,  Y,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
-				linewidth\=0.1)
-fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
+The correct pricing of local volatility surface requires an arbitrage free implied volatility surface. If the input implied volatility surface is not arbitrage free, this can lead to negative transition probabilities and/or negative local volatilities and can give rise to mispricing. Refer to Fengler's arbtirage free smoothing [1] which QuantLib currently lacks.
 
-```python
-
-Out\[12\]:
+When you use an arbitrary smoothing, you will notice that the local volatility surface leads to undesired negative volatilities.
 
 ```
+black_var_surface.setInterpolation("bicubic")
+local_vol_surface = ql.LocalVolSurface(
+    ql.BlackVolTermStructureHandle(black_var_surface), 
+    flat_ts, 
+    dividend_ts, 
+    spot)
+plot_years = np.arange(0, 2, 0.15)
+plot_strikes = np.arange(535, 750, 10)
+fig = plt.figure()
+ax = fig.gca(projection='3d')
+X, Y = np.meshgrid(plot_strikes, plot_years)
+Z = np.array([local_vol_surface.localVol(y, x) 
+              for xr, yr in zip(X, Y) 
+                  for x, y in zip(xr,yr) ]
+             ).reshape(len(X), len(X[0]))
 
-```python
-
+surf = ax.plot_surface(Y,X, Z, rstride=1, cstride=1, cmap=cm.coolwarm, 
+                linewidth=0.1)
+fig.colorbar(surf, shrink=0.5, aspect=5)
 ```
-
-black\_var\_surface.setInterpolation("bicubic")
-local\_vol\_surface \= ql.LocalVolSurface(
-	ql.BlackVolTermStructureHandle(black\_var\_surface),
-	flat\_ts,
-	dividend\_ts,
-	spot)
-plot\_years \= np.arange(0,  2,  0.15)
-plot\_strikes \= np.arange(535,  750,  10)
-fig \= plt.figure()
-ax \= fig.gca(projection\='3d')
-X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
-Z \= np.array(\[local\_vol\_surface.localVol(y,  x)
-			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr,  yr) \]
-			 ).reshape(len(X),  len(X\[0\]))
-
-surf \= ax.plot\_surface(Y,  X,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
-				linewidth\=0.1)
-fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
 ```python
 
@@ -269,7 +251,7 @@ Heston Model Calibration
 
 Heston model is defined by the following stochastic differential equations.
 
-dS(t,  S)dv(t,  S)dW1dW2\=\=\=μSdt+v√SdW1κ(θ−v)dt+σv√dW2ρdtdS(t,  S)\=μSdt+vSdW1dv(t,  S)\=κ(θ−v)dt+σvdW2dW1dW2\=ρdt
+$$dS(t,  S)dv(t,  S)dW1dW2\=\=\=μSdt+v√SdW1κ(θ−v)dt+σv√dW2ρdtdS(t,  S)\=μSdt+vSdW1dv(t,  S)\=κ(θ−v)dt+σvdW2dW1dW2\=ρdt$$
 
 \\begin{eqnarray} dS(t,   S) &=& \\mu S dt + \\sqrt{v} S dW\_1 \\\\ dv(t,   S) &=& \\kappa (\\theta - v) dt + \\sigma \\sqrt{v} dW\_2 \\\\ dW\_1 dW\_2 &=& \\rho dt \\end{eqnarray}
 
