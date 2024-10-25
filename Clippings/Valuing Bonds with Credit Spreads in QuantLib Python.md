@@ -4,6 +4,7 @@ source: "https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.
 description: "Provides an example of valuing bonds with credit spreads using QuantLib Python. This post walks through an example of shifting the yield term structure."
 tags: ["#python #quantlib #finance #python-notebook"]
 ---
+
 # Valuing Bonds with Credit Spreads in QuantLib Python
 
 Provides an example of valuing bonds with credit spreads using QuantLib Python. This post walks through an example of shifting the yield term structure.
@@ -16,7 +17,7 @@ As usual,  let us start by importing the QuantLib library and pick a valuation d
 
 ```python
 import QuantLib as ql
-calc_date = ql.Date(26,  7,  2016)
+calc_date = ql.Date(26,   7,   2016)
 ql.Settings.instance().evaluationDate = calc_date
 ```
 
@@ -27,25 +28,25 @@ flat_rate = ql.SimpleQuote(0.0015)
 rate_handle = ql.QuoteHandle(flat_rate)
 day_count = ql.Actual360()
 calendar = ql.UnitedStates()
-ts_yield = ql.FlatForward(calc_date,  rate_handle,  day_count)
+ts_yield = ql.FlatForward(calc_date,   rate_handle,   day_count)
 ts_handle = ql.YieldTermStructureHandle(ts_yield)
 ```
 
 Now let us construct the bond itself. We do that by first constructing the schedule,  and then passing the schedule into the bond.
 
 ```python
-issue_date = ql.Date(15,  7,  2016)
-maturity_date = ql.Date(15,  7,  2021)
+issue_date = ql.Date(15,   7,   2016)
+maturity_date = ql.Date(15,   7,   2021)
 tenor = ql.Period(ql.Semiannual)
 calendar = ql.UnitedStates()
 bussiness_convention = ql.Unadjusted
 date_generation = ql.DateGeneration.Backward
 month_end = False
-schedule = ql.Schedule (issue_date,  maturity_date,  
-                        tenor,  calendar,  
-                        bussiness_convention, 
+schedule = ql.Schedule (issue_date,   maturity_date,   
+                        tenor,   calendar,   
                         bussiness_convention,  
-                        date_generation,  
+                        bussiness_convention,   
+                        date_generation,   
                         month_end)
 ```
 
@@ -59,10 +60,10 @@ coupons = [coupon_rate]
 settlement_days = 0
 face_value = 100
 fixed_rate_bond = ql.FixedRateBond(
-    settlement_days,  
-    face_value,  
-    schedule,  
-    coupons,  
+    settlement_days,   
+    face_value,   
+    schedule,   
+    coupons,   
     day_count)
 ```
 
@@ -107,7 +108,7 @@ The whole yield curve can be shifted up and down,  and the bond revalued with th
 ```python
 spread1 = ql.SimpleQuote(0.0050)
 spread_handle1 = ql.QuoteHandle(spread1)
-ts_spreaded1 = ql.ZeroSpreadedTermStructure(ts_handle,  spread_handle1)
+ts_spreaded1 = ql.ZeroSpreadedTermStructure(ts_handle,   spread_handle1)
 ts_spreaded_handle1 = ql.YieldTermStructureHandle(ts_spreaded1)
 
 bond_engine = ql.DiscountingBondEngine(ts_spreaded_handle1)
@@ -140,11 +141,11 @@ The above method allows only for parallel shift of the yield curve. The `Spreade
 spread21 = ql.SimpleQuote(0.0050)
 spread22 = ql.SimpleQuote(0.0050)
 start_date = calc_date
-end_date = calendar.advance(start_date,  ql.Period(50,  ql.Years))
+end_date = calendar.advance(start_date,   ql.Period(50,   ql.Years))
 ts_spreaded2 = ql.SpreadedLinearZeroInterpolatedTermStructure(
-    ts_handle, 
-    [ql.QuoteHandle(spread21),  ql.QuoteHandle(spread22)], 
-    [start_date,  end_date]
+    ts_handle,  
+    [ql.QuoteHandle(spread21),   ql.QuoteHandle(spread22)],  
+    [start_date,   end_date]
 )
 ts_spreaded_handle2 = ql.YieldTermStructureHandle(ts_spreaded2)
 

@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+                "file": "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valuing Bonds with Credit Spreads in QuantLib Python"
+              "title": "Heston Model Calibration Using QuantLib Python and Scipy Optimize"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+                "file": "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Valuing Bonds with Credit Spreads in QuantLib Python"
+              "title": "Backlinks for Heston Model Calibration Using QuantLib Python and Scipy Optimize"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "564745512c8d50bb",
   "lastOpenFiles": [
-    "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
     "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+    "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
+    "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
     "Clippings/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
     "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "Clippings/Obsidian Web Clipper.md",
@@ -283,7 +284,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.txt",
     "Attachments/9/f/4/4.md",
-    "Attachments/Attachments.md",
     "Attachments/Keep It 2024-10-24 10.52.05.png",
     "Attachments/Keep It 2024-10-24 10.52.29.png"
   ]
