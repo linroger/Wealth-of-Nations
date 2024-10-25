@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
+                "file": "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valuing Treasury Futures Using QuantLib Python"
+              "title": "Valuing Options on Commodity Futures Using QuantLib Python"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
+                "file": "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Valuing Treasury Futures Using QuantLib Python"
+              "title": "Backlinks for Valuing Options on Commodity Futures Using QuantLib Python"
             }
           }
         ],
@@ -225,8 +225,9 @@
   },
   "active": "de21b127a0356992",
   "lastOpenFiles": [
-    "Clippings/Short Interest Rate Model Calibration in QuantLib Python.md",
     "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
+    "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
+    "Clippings/Short Interest Rate Model Calibration in QuantLib Python.md",
     "Clippings/Modeling Vanilla Interest Rate Swaps Using QuantLib Python.md",
     "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
     "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
@@ -269,7 +270,6 @@
     "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Advanced Investments/Lecture 3- Dynamics of Returns.md",
-    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
-    "Advanced Investments/Advanced Investments Lecture Notes.md"
+    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md"
   ]
 }
