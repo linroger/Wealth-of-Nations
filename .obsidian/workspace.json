@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
+                "file": "QuantLib-Python/Valuing Options on Commodity Futures Using QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
+                "file": "QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/American Option Pricing with QuantLib and Python.md",
+                "file": "QuantLib-Python/American Option Pricing with QuantLib and Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/American Option Pricing with QuantLib and Python.md",
+                "file": "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "American Option Pricing with QuantLib and Python"
+              "title": "China Investment Corporation (CIC) Meaning, Criticism"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/American Option Pricing with QuantLib and Python.md",
+                "file": "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for American Option Pricing with QuantLib and Python"
+              "title": "Backlinks for China Investment Corporation (CIC) Meaning, Criticism"
             }
           }
         ],
@@ -268,44 +268,45 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "cd5ce453cb13659b",
+  "active": "646b7cfa4cb674fd",
   "lastOpenFiles": [
-    "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
-    "Clippings/American Option Pricing with QuantLib and Python.md",
+    "China Foreign Exchange Reserves/China's Monetary Policy.md",
+    "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
+    "China Foreign Exchange Reserves/China Foreign Exchange Reserves.md",
+    "QuantLib-Python/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
+    "China Foreign Exchange Reserves",
+    "QuantLib-Python/American Options Pricing using QuantLib and Python.md",
+    "QuantLib-Python/Valuing Treasury Futures Using QuantLib Python.md",
+    "QuantLib-Python/American Option Pricing with QuantLib and Python.md",
+    "QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
     "QuantLib-Python/QuantLib-Python.md",
-    "Clippings/Modeling Vanilla Interest Rate Swaps Using QuantLib Python.md",
+    "QuantLib-Python/Modeling Vanilla Interest Rate Swaps Using QuantLib Python.md",
     "QuantLib-Python",
-    "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
-    "Clippings/This post explains valuing American Options using QuantLib and Python.md",
-    "Clippings/People's Bank of China (PBoC).md",
-    "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
+    "QuantLib-Python/Valuing European Option Using the Heston Model in QuantLib Python.md",
+    "China Foreign Exchange Reserves/People's Bank of China (PBoC).md",
+    "QuantLib-Python/On the Convergence of Hull White Monte Carlo Simulations.md",
     "Clippings/Obsidian Web Clipper.md",
     "Attachments/Binomial_Tree_Price_For_Varying_Steps.png",
     "Clippings/Clippings.md",
-    "Clippings/Chinese Currency Peg.md",
-    "Clippings/Valuing Callable Bonds Using QuantLib Python.md",
-    "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
-    "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
-    "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
-    "Clippings/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
-    "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
-    "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
-    "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
-    "Clippings/Short Interest Rate Model Calibration in QuantLib Python.md",
+    "China Foreign Exchange Reserves/Chinese Currency Peg.md",
+    "QuantLib-Python/Valuing Callable Bonds Using QuantLib Python.md",
+    "QuantLib-Python/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+    "QuantLib-Python/Valuing Convertible Bonds Using QuantLib Python.md",
+    "QuantLib-Python/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
+    "QuantLib-Python/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
+    "QuantLib-Python/Valuing Options on Commodity Futures Using QuantLib Python.md",
+    "QuantLib-Python/Short Interest Rate Model Calibration in QuantLib Python.md",
     "Attachments/Discount_Factor_Error1.png",
     "Attachments/Discount_Factor_Error.png",
     "Attachments/standard_deviation_of_discount_factors 1.png",
     "Attachments/standard_deviation_of_discount_factors.png",
-    "Clippings/Option Model Handbook, Part III European Option Pricing With QuantLib Python.md",
+    "QuantLib-Python/Option Model Handbook, Part III European Option Pricing With QuantLib Python.md",
     "Attachments/binomial_tree_for_varying_steps.png",
-    "Clippings/Hull White Term Structure Simulations with QuantLib Python.md",
+    "QuantLib-Python/Hull White Term Structure Simulations with QuantLib Python.md",
     "Attachments/mean_of_short_rates.png",
     "Attachments/variance_of_short_rates.png",
     "Attachments/Unknown.png",
-    "Clippings/Modeling Fixed Rate Bonds in QuantLib Python.md",
-    "Clippings/Introduction to QuantLib Python.md",
-    "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+    "QuantLib-Python/Modeling Fixed Rate Bonds in QuantLib Python.md",
     "combined_markdown_content.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
@@ -314,7 +315,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 4 Interest Rate Derivatives.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding The Yield Curve- Part 1.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.txt",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Attachments/Keep It 2024-10-24 10.52.05.png"
   ]
 }
