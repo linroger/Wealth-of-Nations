@@ -50,6 +50,21 @@
             }
           },
           {
+            "id": "564745512c8d50bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Obsidian Web Clipper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Web Clipper"
+            }
+          },
+          {
             "id": "cb048f3855ec8dd9",
             "type": "leaf",
             "state": {
@@ -65,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Valuing Options on Commodity Futures Using QuantLib Python"
+              "title": "Backlinks for Obsidian Web Clipper"
             }
           }
         ],
@@ -223,10 +238,13 @@
       "formatto-format:Format Document": false
     }
   },
-  "active": "de21b127a0356992",
+  "active": "564745512c8d50bb",
   "lastOpenFiles": [
-    "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
+    "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Clippings.md",
     "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
+    "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
     "Clippings/Short Interest Rate Model Calibration in QuantLib Python.md",
     "Clippings/Modeling Vanilla Interest Rate Swaps Using QuantLib Python.md",
     "Clippings/Valuing European Option Using the Heston Model in QuantLib Python.md",
@@ -267,9 +285,6 @@
     "Attachments/Keep It 2024-10-24 10.52.29.png",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
-    "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
-    "Advanced Investments/Lecture 4- Investor Sentiment.md",
-    "Advanced Investments/Lecture 3- Dynamics of Returns.md",
-    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md"
+    "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md"
   ]
 }
