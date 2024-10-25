@@ -20,7 +20,7 @@ import QuantLib as ql
 In this blog I will work through an example of valuing convertible bonds in QuantLib. Lets start by doing the usual setup of creating a `calculation_date` and setting it as the `evaluationDate`.
 
 ```python
-calculation_date = ql.Date(9,  1,  2004)
+calculation_date = ql.Date(9,   1,   2004)
 ql.Settings.instance().evaluationDate = calculation_date
 ```
 
@@ -42,8 +42,8 @@ spot_price = 29.04
 conversion_price = 26.0
 conversion_ratio = 3.84615  # BBG quotes 38.4615; had to scale by a factor of 10
 
-issue_date = ql.Date(15,  3,  2002)        
-maturity_date = ql.Date(15,  3,  2022)
+issue_date = ql.Date(15,   3,   2002)        
+maturity_date = ql.Date(15,   3,   2022)
 
 settlement_days = 2
 calendar = ql.UnitedStates(ql.UnitedStates.GovernmentBond)
@@ -55,9 +55,9 @@ day_count = ql.Thirty360()
 accrual_convention = ql.Unadjusted
 payment_convention = ql.Unadjusted
 
-call_dates = [ql.Date(20,  3,  2007)]
+call_dates = [ql.Date(20,   3,   2007)]
 call_price = 100.0
-put_dates = [ql.Date(20,  3,  2007),   ql.Date(15,  3,  2012),   ql.Date(15,  3,  2017)]
+put_dates = [ql.Date(20,   3,   2007),    ql.Date(15,   3,   2012),    ql.Date(15,   3,   2017)]
 put_price = 100.0
 
 # assumptions
@@ -73,18 +73,18 @@ The call and put schedule for this bond is created as shown below. Here for each
 callability_schedule = ql.CallabilitySchedule()
 
 for call_date in call_dates:
-   callability_price  = ql.CallabilityPrice(call_price,   
+   callability_price  = ql.CallabilityPrice(call_price,    
                                             ql.CallabilityPrice.Clean)
-   callability_schedule.append(ql.Callability(callability_price,   
-                                       ql.Callability.Call,  
+   callability_schedule.append(ql.Callability(callability_price,    
+                                       ql.Callability.Call,   
                                        call_date)
                         )
     
 for put_date in put_dates:
-    puttability_price = ql.CallabilityPrice(put_price,   
+    puttability_price = ql.CallabilityPrice(put_price,    
                                             ql.CallabilityPrice.Clean)
-    callability_schedule.append(ql.Callability(puttability_price,  
-                                               ql.Callability.Put,  
+    callability_schedule.append(ql.Callability(puttability_price,   
+                                               ql.Callability.Put,   
                                                put_date))
 ```
 
@@ -93,35 +93,35 @@ Any dividend information for the underlying stock is used to form the `DividendS
 ```python
 dividend_schedule = ql.DividendSchedule() # No dividends
 dividend_amount = dividend_yield*spot_price
-next_dividend_date = ql.Date(1,  12,  2004)
+next_dividend_date = ql.Date(1,   12,   2004)
 dividend_amount = spot_price*dividend_yield
 for i in range(4):
-    date = calendar.advance(next_dividend_date,   1,   ql.Years)
+    date = calendar.advance(next_dividend_date,    1,    ql.Years)
     dividend_schedule.append(
-        ql.FixedDividend(dividend_amount,   date)
+        ql.FixedDividend(dividend_amount,    date)
     )
 ```
 
 Now we build the fixed coupon convertible bond object
 
 ```python
-schedule = ql.Schedule(issue_date,   maturity_date,   tenor,  
-                       calendar,   accrual_convention,   accrual_convention,  
-                       ql.DateGeneration.Backward,   False)
+schedule = ql.Schedule(issue_date,    maturity_date,    tenor,   
+                       calendar,    accrual_convention,    accrual_convention,   
+                       ql.DateGeneration.Backward,    False)
 
 credit_spread_handle = ql.QuoteHandle(ql.SimpleQuote(credit_spread_rate))
-exercise = ql.AmericanExercise(calculation_date,   maturity_date)
+exercise = ql.AmericanExercise(calculation_date,    maturity_date)
 
-convertible_bond = ql.ConvertibleFixedCouponBond(exercise,  
-                                                 conversion_ratio,  
-                                                 dividend_schedule,  
-                                                 callability_schedule,   
-                                                 credit_spread_handle,  
-                                                 issue_date,  
-                                                 settlement_days,  
-                                                 [coupon],  
-                                                 day_count,  
-                                                 schedule,  
+convertible_bond = ql.ConvertibleFixedCouponBond(exercise,   
+                                                 conversion_ratio,   
+                                                 dividend_schedule,   
+                                                 callability_schedule,    
+                                                 credit_spread_handle,   
+                                                 issue_date,   
+                                                 settlement_days,   
+                                                 [coupon],   
+                                                 day_count,   
+                                                 schedule,   
                                                  redemption)
 ```
 
@@ -130,18 +130,18 @@ Build the Black-Scholes-Merton process to model the equity part
 ```python
 spot_price_handle = ql.QuoteHandle(ql.SimpleQuote(spot_price))
 yield_ts_handle = ql.YieldTermStructureHandle(
-    ql.FlatForward(calculation_date,   risk_free_rate,   day_count)
+    ql.FlatForward(calculation_date,    risk_free_rate,    day_count)
 )
 dividend_ts_handle = ql.YieldTermStructureHandle(
-    ql.FlatForward(calculation_date,   dividend_yield,   day_count)
+    ql.FlatForward(calculation_date,    dividend_yield,    day_count)
 )
 volatility_ts_handle = ql.BlackVolTermStructureHandle(
-    ql.BlackConstantVol(calculation_date,   calendar,  volatility,   day_count)
+    ql.BlackConstantVol(calculation_date,    calendar,   volatility,    day_count)
 )
 
-bsm_process = ql.BlackScholesMertonProcess(spot_price_handle,   
-                                           dividend_ts_handle,  
-                                           yield_ts_handle,  
+bsm_process = ql.BlackScholesMertonProcess(spot_price_handle,    
+                                           dividend_ts_handle,   
+                                           yield_ts_handle,   
                                            volatility_ts_handle)
 ```
 
@@ -149,14 +149,14 @@ Build the convertible bond pricing engine
 
 ```python
 time_steps = 1000
-engine = ql.BinomialConvertibleEngine(bsm_process,   "crr",   time_steps)
+engine = ql.BinomialConvertibleEngine(bsm_process,    "crr",    time_steps)
 ```
 
 Price the bond
 
 ```python
 convertible_bond.setPricingEngine(engine)
-print "NPV ",   convertible_bond.NPV()
+print "NPV ",    convertible_bond.NPV()
 ```
 
 ```python
