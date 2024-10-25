@@ -1,7 +1,10 @@
 ---
 tags: [sigma]
-title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
+title: Strikes Market Value Model Value Relative Error (%)
 ---
+
+# Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
+## Strikes    Market Value     Model Value   Relative Error (%)
 
 Provides an introduction to constructing implied volatility surface consistent with the smile observed in the market and calibrating Heston model using QuantLib Python.
 
@@ -25,7 +28,7 @@ In \[2\]:
 day\_count \= ql.Actual365Fixed()
 calendar \= ql.UnitedStates()
 
-calculation\_date \= ql.Date(6,  11,  2015)
+calculation\_date \= ql.Date(6,   11,   2015)
 
 spot \= 659.37
 ql.Settings.instance().evaluationDate \= calculation\_date
@@ -34,9 +37,9 @@ dividend\_yield \= ql.QuoteHandle(ql.SimpleQuote(0.0))
 risk\_free\_rate \= 0.01
 dividend\_rate \= 0.0
 flat\_ts \= ql.YieldTermStructureHandle(
-    ql.FlatForward(calculation\_date,  risk\_free\_rate,  day\_count))
+    ql.FlatForward(calculation\_date,   risk\_free\_rate,   day\_count))
 dividend\_ts \= ql.YieldTermStructureHandle(
-    ql.FlatForward(calculation\_date,  dividend\_rate,  day\_count))
+    ql.FlatForward(calculation\_date,   dividend\_rate,   day\_count))
 
 ```
 
@@ -45,79 +48,83 @@ Following is a sample matrix of volatility quote by exipiry and strike. The vola
 In \[3\]:
 
 ```python
-expiration\_dates \= \[ql.Date(6, 12, 2015),  ql.Date(6, 1, 2016),  ql.Date(6, 2, 2016), 
-                    ql.Date(6, 3, 2016),  ql.Date(6, 4, 2016),  ql.Date(6, 5, 2016),  
-                    ql.Date(6, 6, 2016),  ql.Date(6, 7, 2016),  ql.Date(6, 8, 2016), 
-                    ql.Date(6, 9, 2016),  ql.Date(6, 10, 2016),  ql.Date(6, 11, 2016),  
-                    ql.Date(6, 12, 2016),  ql.Date(6, 1, 2017),  ql.Date(6, 2, 2017), 
-                    ql.Date(6, 3, 2017),  ql.Date(6, 4, 2017),  ql.Date(6, 5, 2017),  
-                    ql.Date(6, 6, 2017),  ql.Date(6, 7, 2017),  ql.Date(6, 8, 2017), 
-                    ql.Date(6, 9, 2017),  ql.Date(6, 10, 2017),  ql.Date(6, 11, 2017)\]
-strikes \= \[527.50,  560.46,  593.43,  626.40,  659.37,  692.34,  725.31,  758.28\]
+expiration\_dates \= \[ql.Date(6,  12,  2015),   ql.Date(6,  1,  2016),   ql.Date(6,  2,  2016),  
+                    ql.Date(6,  3,  2016),   ql.Date(6,  4,  2016),   ql.Date(6,  5,  2016),   
+                    ql.Date(6,  6,  2016),   ql.Date(6,  7,  2016),   ql.Date(6,  8,  2016),  
+                    ql.Date(6,  9,  2016),   ql.Date(6,  10,  2016),   ql.Date(6,  11,  2016),   
+                    ql.Date(6,  12,  2016),   ql.Date(6,  1,  2017),   ql.Date(6,  2,  2017),  
+                    ql.Date(6,  3,  2017),   ql.Date(6,  4,  2017),   ql.Date(6,  5,  2017),   
+                    ql.Date(6,  6,  2017),   ql.Date(6,  7,  2017),   ql.Date(6,  8,  2017),  
+                    ql.Date(6,  9,  2017),   ql.Date(6,  10,  2017),   ql.Date(6,  11,  2017)\]
+strikes \= \[527.50,   560.46,   593.43,   626.40,   659.37,   692.34,   725.31,   758.28\]
 data \= \[
-\[0.37819,  0.34177,  0.30394,  0.27832,  0.26453,  0.25916,  0.25941,  0.26127\], 
-\[0.3445,  0.31769,  0.2933,  0.27614,  0.26575,  0.25729,  0.25228,  0.25202\], 
-\[0.37419,  0.35372,  0.33729,  0.32492,  0.31601,  0.30883,  0.30036,  0.29568\], 
-\[0.37498,  0.35847,  0.34475,  0.33399,  0.32715,  0.31943,  0.31098,  0.30506\], 
-\[0.35941,  0.34516,  0.33296,  0.32275,  0.31867,  0.30969,  0.30239,  0.29631\], 
-\[0.35521,  0.34242,  0.33154,  0.3219,  0.31948,  0.31096,  0.30424,  0.2984\], 
-\[0.35442,  0.34267,  0.33288,  0.32374,  0.32245,  0.31474,  0.30838,  0.30283\], 
-\[0.35384,  0.34286,  0.33386,  0.32507,  0.3246,  0.31745,  0.31135,  0.306\], 
-\[0.35338,  0.343,  0.33464,  0.32614,  0.3263,  0.31961,  0.31371,  0.30852\], 
-\[0.35301,  0.34312,  0.33526,  0.32698,  0.32766,  0.32132,  0.31558,  0.31052\], 
-\[0.35272,  0.34322,  0.33574,  0.32765,  0.32873,  0.32267,  0.31705,  0.31209\], 
-\[0.35246,  0.3433,  0.33617,  0.32822,  0.32965,  0.32383,  0.31831,  0.31344\], 
-\[0.35226,  0.34336,  0.33651,  0.32869,  0.3304,  0.32477,  0.31934,  0.31453\], 
-\[0.35207,  0.34342,  0.33681,  0.32911,  0.33106,  0.32561,  0.32025,  0.3155\], 
-\[0.35171,  0.34327,  0.33679,  0.32931,  0.3319,  0.32665,  0.32139,  0.31675\], 
-\[0.35128,  0.343,  0.33658,  0.32937,  0.33276,  0.32769,  0.32255,  0.31802\], 
-\[0.35086,  0.34274,  0.33637,  0.32943,  0.3336,  0.32872,  0.32368,  0.31927\], 
-\[0.35049,  0.34252,  0.33618,  0.32948,  0.33432,  0.32959,  0.32465,  0.32034\], 
-\[0.35016,  0.34231,  0.33602,  0.32953,  0.33498,  0.3304,  0.32554,  0.32132\], 
-\[0.34986,  0.34213,  0.33587,  0.32957,  0.33556,  0.3311,  0.32631,  0.32217\], 
-\[0.34959,  0.34196,  0.33573,  0.32961,  0.3361,  0.33176,  0.32704,  0.32296\], 
-\[0.34934,  0.34181,  0.33561,  0.32964,  0.33658,  0.33235,  0.32769,  0.32368\], 
-\[0.34912,  0.34167,  0.3355,  0.32967,  0.33701,  0.33288,  0.32827,  0.32432\], 
-\[0.34891,  0.34154,  0.33539,  0.3297,  0.33742,  0.33337,  0.32881,  0.32492\]\]
+\[0.37819,   0.34177,   0.30394,   0.27832,   0.26453,   0.25916,   0.25941,   0.26127\],  
+\[0.3445,   0.31769,   0.2933,   0.27614,   0.26575,   0.25729,   0.25228,   0.25202\],  
+\[0.37419,   0.35372,   0.33729,   0.32492,   0.31601,   0.30883,   0.30036,   0.29568\],  
+\[0.37498,   0.35847,   0.34475,   0.33399,   0.32715,   0.31943,   0.31098,   0.30506\],  
+\[0.35941,   0.34516,   0.33296,   0.32275,   0.31867,   0.30969,   0.30239,   0.29631\],  
+\[0.35521,   0.34242,   0.33154,   0.3219,   0.31948,   0.31096,   0.30424,   0.2984\],  
+\[0.35442,   0.34267,   0.33288,   0.32374,   0.32245,   0.31474,   0.30838,   0.30283\],  
+\[0.35384,   0.34286,   0.33386,   0.32507,   0.3246,   0.31745,   0.31135,   0.306\],  
+\[0.35338,   0.343,   0.33464,   0.32614,   0.3263,   0.31961,   0.31371,   0.30852\],  
+\[0.35301,   0.34312,   0.33526,   0.32698,   0.32766,   0.32132,   0.31558,   0.31052\],  
+\[0.35272,   0.34322,   0.33574,   0.32765,   0.32873,   0.32267,   0.31705,   0.31209\],  
+\[0.35246,   0.3433,   0.33617,   0.32822,   0.32965,   0.32383,   0.31831,   0.31344\],  
+\[0.35226,   0.34336,   0.33651,   0.32869,   0.3304,   0.32477,   0.31934,   0.31453\],  
+\[0.35207,   0.34342,   0.33681,   0.32911,   0.33106,   0.32561,   0.32025,   0.3155\],  
+\[0.35171,   0.34327,   0.33679,   0.32931,   0.3319,   0.32665,   0.32139,   0.31675\],  
+\[0.35128,   0.343,   0.33658,   0.32937,   0.33276,   0.32769,   0.32255,   0.31802\],  
+\[0.35086,   0.34274,   0.33637,   0.32943,   0.3336,   0.32872,   0.32368,   0.31927\],  
+\[0.35049,   0.34252,   0.33618,   0.32948,   0.33432,   0.32959,   0.32465,   0.32034\],  
+\[0.35016,   0.34231,   0.33602,   0.32953,   0.33498,   0.3304,   0.32554,   0.32132\],  
+\[0.34986,   0.34213,   0.33587,   0.32957,   0.33556,   0.3311,   0.32631,   0.32217\],  
+\[0.34959,   0.34196,   0.33573,   0.32961,   0.3361,   0.33176,   0.32704,   0.32296\],  
+\[0.34934,   0.34181,   0.33561,   0.32964,   0.33658,   0.33235,   0.32769,   0.32368\],  
+\[0.34912,   0.34167,   0.3355,   0.32967,   0.33701,   0.33288,   0.32827,   0.32432\],  
+\[0.34891,   0.34154,   0.33539,   0.3297,   0.33742,   0.33337,   0.32881,   0.32492\]\]
 
 ```
 
 Implied Volatility Surface
 --------------------------
 
-Each row in ``` data ``` is a different exipiration time,  and each column corresponds to various strikes as given in ``` strikes ```. We load all this data into the ``` QuantLib ``` ``` Matrix ``` object. This can then be used seamlessly in the various surface construction routines. The variable ``` implied_vols ``` holds the above data in a ``` Matrix ``` format. One unusual bit of info that one needs to pay attention to is the ordering of the rows and columns in the ``` Matrix ``` object. The implied volatilities in the ``` QuantLib ``` context needs to have strikes along the row dimension and expiries in the column dimension. This is transpose of the way the data was constructed above. All of this detail is taken care by swapping the  $i$ and  $j$ variables below. Pay attention to the line:
+Each row in ``` data ``` is a different exipiration time,  and each column corresponds to various strikes as given in ``` strikes ```. We load all this data into the ``` QuantLib ``` ``` Matrix ``` object. This can then be used seamlessly in the various surface construction routines. The variable ``` implied_vols ``` holds the above data in a ``` Matrix ``` format. One unusual bit of info that one needs to pay attention to is the ordering of the rows and columns in the ``` Matrix ``` object. The implied volatilities in the ``` QuantLib ``` context needs to have strikes along the row dimension and expiries in the column dimension. This is transpose of the way the data was constructed above. All of this detail is taken care by swapping the $i$ and $j$ variables below. Pay attention to the line:
 
 ```python
 implied_vols[i][j] = data[j][i]
 ```
 
 in the cell below.
+
 ```python
-implied_vols = ql.Matrix(len(strikes), len(expiration_dates))
+implied_vols = ql.Matrix(len(strikes),  len(expiration_dates))
 for i in range(implied_vols.rows()):
     for j in range(implied_vols.columns()):
         implied_vols[i][j] = data[j][i]
 ```
+
 Now the Black volatility surface can be constructed using the ```BlackVarianceSurface ``` method.
 
 ```python
 black_var_surface = ql.BlackVarianceSurface(
-    calculation_date, calendar, 
-    expiration_dates, strikes, 
-    implied_vols, day_count)
+    calculation_date,  calendar,  
+    expiration_dates,  strikes,  
+    implied_vols,  day_count)
 ```
+
 The volatilities for any given strike and expiry pair can be easily obtained using ```black_var_surface```shown below.
 
 ```python
 strike = 600.0
 expiry = 1.2 # years
-black_var_surface.blackVol(expiry, strike)
+black_var_surface.blackVol(expiry,  strike)
 ```
 
 ```0.3352982638587421 ```
 
 Visualization
-```
+
+```python
 import numpy as np
 % matplotlib inline
 from mpl\_toolkits.mplot3d import Axes3D
@@ -127,24 +134,24 @@ from matplotlib import cm
 
 Given an expiry,  we can visualize the volatility as a function of the strike.
 
-```
-strikes\_grid \= np.arange(strikes\[0\],  strikes\[\-1\], 10)
+```python
+strikes\_grid \= np.arange(strikes\[0\],   strikes\[\-1\],  10)
 expiry \= 1.0 \# years
-implied\_vols \= \[black\_var\_surface.blackVol(expiry,  s)
+implied\_vols \= \[black\_var\_surface.blackVol(expiry,   s)
 				for s in strikes\_grid\] \# can interpolate here
 actual\_data \= data\[11\] \# cherry picked the data for given expiry
 
-fig,  ax \= plt.subplots()
-ax.plot(strikes\_grid,  implied\_vols,  label\="Black Surface")
-ax.plot(strikes,  actual\_data,  "o",  label\="Actual")
-ax.set\_xlabel("Strikes",  size\=12)
-ax.set\_ylabel("Vols",  size\=12)
+fig,   ax \= plt.subplots()
+ax.plot(strikes\_grid,   implied\_vols,   label\="Black Surface")
+ax.plot(strikes,   actual\_data,   "o",   label\="Actual")
+ax.set\_xlabel("Strikes",   size\=12)
+ax.set\_ylabel("Vols",   size\=12)
 legend \= ax.legend(loc\="upper right")
 ```
 
 ```python
 
-![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAZcAAAESCAYAAAAxG5hmAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+![](data:image/png;base64,  iVBORw0KGgoAAAANSUhEUgAAAZcAAAESCAYAAAAxG5hmAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzt3Xl4VdXVx/HvL0CCzCAKEVFoqsUBFVQcKJIqSBQUnAVn
 1NIqgSJtlVZfg+WtqNUqSK2t2GKVyQFEUQGHiFZfgRqBCoikooCAWkaRBEjW+8c5iTfhAoHc3Jub
 rM/z5OGcfYa7NhdY7L3P2VtmhnPOORdLKYkOwDnnXM3jycU551zMeXJxzjkXc55cnHPOxZwnF+ec
@@ -401,10 +408,10 @@ ax \= fig.gca(projection\='3d')
 X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
 Z \= np.array(\[black\_var\_surface.blackVol(y,  x)
 			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr, yr) \]
+				  for x,  y in zip(xr,  yr) \]
 			 ).reshape(len(X),  len(X\[0\]))
 
-surf \= ax.plot\_surface(X, Y, Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
+surf \= ax.plot\_surface(X,  Y,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
 				linewidth\=0.1)
 fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
@@ -416,7 +423,7 @@ Out\[10\]:
 
 ```python
 
-![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAWAAAADtCAYAAACBOK/+AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+![](data:image/png;base64,  iVBORw0KGgoAAAANSUhEUgAAAWAAAADtCAYAAACBOK/+AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzsvXm4JXdd7vv5/WquNe+5p8wgSUhIAgEJBhRRJHoxIorK
 PXA9ItyL+jidIyoe5dxz9ApcVB7geHhEkDGESzRETgAZTAwEAhIIIXRChu6ku9PD7j2stWqtmut3
 /6hVi9U7e3fvsXt3Uu/z9NN7qFWrqvZa7/rW+3u/71copShRokSJEqcf8kwfQIkSJUo8VVEScIkS
@@ -1445,7 +1452,7 @@ ax \= fig.gca(projection\='3d')
 X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
 Z \= np.array(\[local\_vol\_surface.localVol(y,  x)
 			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr, yr) \]
+				  for x,  y in zip(xr,  yr) \]
 			 ).reshape(len(X),  len(X\[0\]))
 
 surf \= ax.plot\_surface(X,  Y,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
@@ -1460,7 +1467,7 @@ Out\[12\]:
 
 ```python
 
-![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAVoAAADtCAYAAAD+6b0PAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+![](data:image/png;base64,  iVBORw0KGgoAAAANSUhEUgAAAVoAAADtCAYAAAD+6b0PAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzsvXmUJHd95fv5xZoZkUvtXdXVLbWEltaKGiwMFhhsBJZs
 I4zwe4YBv2NsMDbGAz7H7+E3Hj/MHPuMGeAce2CMeQzmebDNcgBbsseSQGCNtXY3EkhCEtq71Wr1
 VkvuGfvv/REV2dHZWVVZVVmlLBH3nD5dS6xZETe+cX/3e39CSkmGDBkyZNg8KC/2AWTIkCHDSx0Z
@@ -2367,9 +2374,9 @@ kqRBuKSFRYA7Oz0iSdKfgSOAAkzXg6xOe0HPaHV0dHRaGF11oKOjo9PC6IFWR0dHp4X5PwP+TBTv
 edtQAAAAAElFTkSuQmCC
 )
 
-The correct pricing of local volatility surface requires an arbitrage free implied volatility surface. If the input implied volatility surface is not arbitrage free,  this can lead to negative transition probabilities and/or negative local volatilities and can give rise to mispricing. Refer to Fengler's arbtirage free smoothing \[1\] which QuantLib currently lacks.
+The correct pricing of local volatility surface requires an arbitrage free implied volatility surface. If the input implied volatility surface is not arbitrage free,   this can lead to negative transition probabilities and/or negative local volatilities and can give rise to mispricing. Refer to Fengler's arbtirage free smoothing \[1\] which QuantLib currently lacks.
 
-When you use an arbitrary smoothing,  you will notice that the local volatility surface leads to undesired negative volatilities.
+When you use an arbitrary smoothing,   you will notice that the local volatility surface leads to undesired negative volatilities.
 
 In \[13\]:
 
@@ -2388,10 +2395,10 @@ ax \= fig.gca(projection\='3d')
 X,  Y \= np.meshgrid(plot\_strikes,  plot\_years)
 Z \= np.array(\[local\_vol\_surface.localVol(y,  x)
 			  for xr,  yr in zip(X,  Y)
-				  for x,  y in zip(xr, yr) \]
+				  for x,  y in zip(xr,  yr) \]
 			 ).reshape(len(X),  len(X\[0\]))
 
-surf \= ax.plot\_surface(Y, X,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
+surf \= ax.plot\_surface(Y,  X,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
 				linewidth\=0.1)
 fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
@@ -2403,15 +2410,15 @@ fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 \---------------------------------------------------------------------------
 RuntimeError                              Traceback (most recent call last)
  in ()
-     12 Z = np.array(\[local\_vol\_surface.localVol(y,  x) 
-     13               for xr,  yr in zip(X,  Y)
-\---> 14                   for x,  y in zip(xr, yr) \]     15              ).reshape(len(X),  len(X\[0\]))
+     12 Z = np.array(\[local\_vol\_surface.localVol(y,   x) 
+     13               for xr,   yr in zip(X,   Y)
+\---> 14                   for x,   y in zip(xr,  yr) \]     15              ).reshape(len(X),   len(X\[0\]))
      16 
 
-C:\\Users\\gbalaram\\Documents\\Code\\env\\Lib\\site-packages\\QuantLib\\QuantLib.pyc in localVol(self,  \*args)
+C:\\Users\\gbalaram\\Documents\\Code\\env\\Lib\\site-packages\\QuantLib\\QuantLib.pyc in localVol(self,   \*args)
    7467 
-   7468     def localVol(self,  \*args):
-\-> 7469         return \_QuantLib.LocalVolTermStructure\_localVol(self,  \*args)
+   7468     def localVol(self,   \*args):
+\-> 7469         return \_QuantLib.LocalVolTermStructure\_localVol(self,   \*args)
    7470 
    7471     def enableExtrapolation(self):
 
@@ -2420,7 +2427,7 @@ RuntimeError: negative local vol^2 at strike 655 and time 0.75; the black vol su
 
 ```python
 
-![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAV0AAADtCAYAAAAcNaZ2AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+![](data:image/png;base64,  iVBORw0KGgoAAAANSUhEUgAAAV0AAADtCAYAAAAcNaZ2AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJztnXmYFPWd/9/V53T3DDMqXlwu9yFyzwC6surGAxRUdJUY
 XcUjyiMikhhD/MVVd1E0PhtUjMREIRvR1c3GhYRhNCCoIcyAyg5EDAIecVBmBZnpnqOP6q7fH+RT
 frumurq6u86e7+t5eASnp/rb1VXv+nw/pyBJEjgcDodjDR67F8DhcDi9CS66HA6HYyFcdDkcDsdC
@@ -2761,13 +2768,13 @@ Heston Model Calibration
 
 Heston model is defined by the following stochastic differential equations.
 
-dS(t, S)dv(t, S)dW1dW2\=\=\=μSdt+v√SdW1κ(θ−v)dt+σv√dW2ρdtdS(t, S)\=μSdt+vSdW1dv(t, S)\=κ(θ−v)dt+σvdW2dW1dW2\=ρdt
+dS(t,  S)dv(t,  S)dW1dW2\=\=\=μSdt+v√SdW1κ(θ−v)dt+σv√dW2ρdtdS(t,  S)\=μSdt+vSdW1dv(t,  S)\=κ(θ−v)dt+σvdW2dW1dW2\=ρdt
 
-\\begin{eqnarray} dS(t,  S) &=& \\mu S dt + \\sqrt{v} S dW\_1 \\\\ dv(t,  S) &=& \\kappa (\\theta - v) dt + \\sigma \\sqrt{v} dW\_2 \\\\ dW\_1 dW\_2 &=& \\rho dt \\end{eqnarray}
+\\begin{eqnarray} dS(t,   S) &=& \\mu S dt + \\sqrt{v} S dW\_1 \\\\ dv(t,   S) &=& \\kappa (\\theta - v) dt + \\sigma \\sqrt{v} dW\_2 \\\\ dW\_1 dW\_2 &=& \\rho dt \\end{eqnarray}
 
 Here the asset is modeled as a stochastic process that depends on volatility $v$ which is a mean reverting stochastic process with a constant volatility of volatility $\\sigma$. The two stochastic processes have a correlation $\\rho$.
 
-Let us look at how we can calibrate the Heston model to some market quotes. As an example,  let's say we are interested in trading options with 1 year maturity. So we will calibrate the Heston model to fit to market volatility quotes with one year maturity. Before we do that,  we need to construct the pricing engine that the calibration routines would need. In order to do that,  we start by constructing the Heston model with some dummy starting parameters as shown below.
+Let us look at how we can calibrate the Heston model to some market quotes. As an example,   let's say we are interested in trading options with 1 year maturity. So we will calibrate the Heston model to fit to market volatility quotes with one year maturity. Before we do that,   we need to construct the pricing engine that the calibration routines would need. In order to do that,   we start by constructing the Heston model with some dummy starting parameters as shown below.
 
 In \[14\]:
 
@@ -2785,7 +2792,7 @@ engine \= ql.AnalyticHestonEngine(model)
 
 ```python
 
-Now that we have the Heston model and a pricing engine,  let us pick the quotes with all strikes and 1 year maturity in order to calibrate the Heston model. We build the Heston model helper which will be fed into the calibration routines.
+Now that we have the Heston model and a pricing engine,   let us pick the quotes with all strikes and 1 year maturity in order to calibrate the Heston model. We build the Heston model helper which will be fed into the calibration routines.
 
 In \[15\]:
 
@@ -2815,7 +2822,7 @@ In \[16\]:
 
 lm \= ql.LevenbergMarquardt(1e-8,  1e-8,  1e-8)
 model.calibrate(heston\_helpers,  lm,
-				 ql.EndCriteria(500,  50,  1.0e-8, 1.0e-8,  1.0e-8))
+				 ql.EndCriteria(500,  50,  1.0e-8,  1.0e-8,  1.0e-8))
 theta,  kappa,  sigma,  rho,  v0 \= model.params()
 
 ```python
@@ -2879,7 +2886,7 @@ Average Abs Error (%) : 2.440
 References
 ----------
 
-\[1\] Mathias R. Fengler,  _Arbitrage Free Smoothing of Implied Volatility Surface_,  [https://core.ac.uk/download/files/153/6978470.pdf](https://core.ac.uk/download/files/153/6978470.pdf)
+\[1\] Mathias R. Fengler,   _Arbitrage Free Smoothing of Implied Volatility Surface_,   [https://core.ac.uk/download/files/153/6978470.pdf](https://core.ac.uk/download/files/153/6978470.pdf)
 
 Click here to download the [ipython notebook](/extra/notebooks/heston_model_calibration_smile.ipynb).
 
@@ -2900,7 +2907,7 @@ Click here to download the [ipython notebook](/extra/notebooks/heston_model_cali
 * * *
 
 ![](/images/me.png)  
-I am Goutham Balaraman,  and I explore topics in quantitative finance,  programming,  and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).  
+I am Goutham Balaraman,   and I explore topics in quantitative finance,   programming,   and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).  
 
 * * *
 
@@ -2913,4 +2920,4 @@ Updated posts from this blog and transcripts of Luigi's screencasts on YouTube i
 
 [Atom](http://gouthamanbalaraman.com/feeds/all.atom.xml)   [RSS](http://gouthamanbalaraman.com/feeds/all.rss.xml)
 
- jQuery(document).ready(function($) { $("div.collapseheader").click(function () { $header = $(this).children("span").first(); $codearea = $(this).children(".input\_area"); console.log($(this).children()); $codearea.slideToggle(500,  function () { $header.text(function () { return $codearea.is(":visible") ? "Collapse Code" : "Expand Code"; }); }); }); }); jQuery(document).ready(function($) { $("body table").addClass("table table-sm table-hover"); $("body table").attr("border", 0); }); MathJax.Hub.Config({ "HTML-CSS": { styles: { ".MathJax .mo,  .MathJax .mi": {color: "black ! important"}} },  tex2jax: {inlineMath: \[\['$', '$'\],  \['\\\\\\\\(', '\\\\\\\\)'\]\], processEscapes: true} });
+ jQuery(document).ready(function($) { $("div.collapseheader").click(function () { $header = $(this).children("span").first(); $codearea = $(this).children(".input\_area"); console.log($(this).children()); $codearea.slideToggle(500,   function () { $header.text(function () { return $codearea.is(":visible") ? "Collapse Code" : "Expand Code"; }); }); }); }); jQuery(document).ready(function($) { $("body table").addClass("table table-sm table-hover"); $("body table").attr("border",  0); }); MathJax.Hub.Config({ "HTML-CSS": { styles: { ".MathJax .mo,   .MathJax .mi": {color: "black ! important"}} },   tex2jax: {inlineMath: \[\['$',  '$'\],   \['\\\\\\\\(',  '\\\\\\\\)'\]\],  processEscapes: true} });
