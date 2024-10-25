@@ -45,5 +45,7 @@
   "latex-render",
   "obsidian-filename-heading-sync",
   "sheets",
-  "docxer"
+  "docxer",
+  "structured-tree",
+  "note-linker-with-previewer"
 ]
