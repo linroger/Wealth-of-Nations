@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
+                "file": "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heston Model Calibration Using QuantLib Python and Scipy Optimize"
+              "title": "An Introduction to Interest Rate Term Structure in QuantLib Python"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
+                "file": "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heston Model Calibration Using QuantLib Python and Scipy Optimize"
+              "title": "Backlinks for An Introduction to Interest Rate Term Structure in QuantLib Python"
             }
           }
         ],
@@ -240,8 +240,11 @@
   },
   "active": "564745512c8d50bb",
   "lastOpenFiles": [
-    "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+    "Clippings/Chinese Currency Peg.md",
+    "Clippings/American Option Pricing with QuantLib and Python.md",
+    "Clippings/Valuing Callable Bonds Using QuantLib Python.md",
     "Clippings/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
+    "Clippings/Valuing Bonds with Credit Spreads in QuantLib Python.md",
     "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
     "Clippings/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
     "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
@@ -271,8 +274,6 @@
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
-    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW LaTeX Files.md",
-    "Investor Size, Liquidity And Prime Money Market Fund Stress.md",
     "combined_markdown_content.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
@@ -283,7 +284,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.txt",
-    "Attachments/9/f/4/4.md",
     "Attachments/Keep It 2024-10-24 10.52.05.png",
     "Attachments/Keep It 2024-10-24 10.52.29.png"
   ]

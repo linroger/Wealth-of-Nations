@@ -1,19 +1,11 @@
 ---
-aliases:
-- Example_Alias_Chinese Currency Peg
-- Alias_106_Chinese Currency Peg.md
-description: Explore China's currency peg,     which has helped Asia's largest economy
+aliases: [Example_Alias_Chinese Currency Peg,  Alias_106_Chinese Currency Peg.md]
+description: Explore China's currency peg,      which has helped Asia's largest economy
   enjoy robust growth and continued prosperity by making the nation's exports cheaper.
 source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
-tags:
-- clippings
-- tag_example
-- example_tag
+tags: [clippings,  tag_example,  example_tag]
 title: Chinese Currency Peg
 ---
-
-
-
 
 # Chinese Currency Peg
 ## What Is China's Currency Peg?
@@ -39,15 +31,15 @@ Exports are a major driver of any economy because they represent money flowing 
 
 [Currency manipulation](https://www.investopedia.com/articles/forex/061115/yuan-vs-rmb-understanding-difference.asp) has helped China thrive as its economy has repeatedly experienced robust growth rates hovering around 10% from 1995 to 2010. Since 2010,  however,  China's growth rates have been decreasing,  hovering around 7%,  with continued decreases after the pandemic,  to 3% in 2022 (latest data). Reasons for the slowing growth are many,  including an aging population,  structural issues,  and inefficiencies of state-led economic policies0.\1
 
-Due to robust growth from the 1990s onwards,     China's [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) per capita increased from $474 in 1994 to $12,  720 in 2022,  an increase of more than 2,  500% in 28 years. By comparison,  the United Kingdom's GDP per capita only increased 134% during the same period0.\1
+Due to robust growth from the 1990s onwards,      China's [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) per capita increased from $474 in 1994 to $12,  720 in 2022,  an increase of more than 2,  500% in 28 years. By comparison,  the United Kingdom's GDP per capita only increased 134% during the same period0.\1
 
 ## Costs and Benefits
 
-While these facts and figures are generally positive for China,  that is not the case for everyone. U.S. manufacturers and workers have complained about the Chinese trade surplus,     claiming that the yuan peg has granted Chinese companies an unfair advantage. As a result,  U.S. lawmakers [have called for the revaluation](https://www.investopedia.com/articles/forex/09/chinas-peg-to-the-dollar.asp) of China's currency0.\1
+While these facts and figures are generally positive for China,  that is not the case for everyone. U.S. manufacturers and workers have complained about the Chinese trade surplus,      claiming that the yuan peg has granted Chinese companies an unfair advantage. As a result,  U.S. lawmakers [have called for the revaluation](https://www.investopedia.com/articles/forex/09/chinas-peg-to-the-dollar.asp) of China's currency0.\1
 
 While opponents of yuan pegging have complained,  they may be oversimplifying the situation. An artificially low yuan is not without its benefits. The currency peg means cheap Chinese goods for U.S. consumers,  a development that can help keep overall inflation at a modest level.
 
-The benefits of less expensive goods extend to businesses. U.S. companies that use less expensive imported items from China to make goods enjoy reduced production costs. With lower expenses,  firms can either lower the prices for consumers,  increase their profits,     or both.
+The benefits of less expensive goods extend to businesses. U.S. companies that use less expensive imported items from China to make goods enjoy reduced production costs. With lower expenses,  firms can either lower the prices for consumers,  increase their profits,      or both.
 
 Chinese [trade deficits](https://www.investopedia.com/terms/t/trade_deficit.asp) also provide a boon to the broader economy as they necessitate the movement of capital to the United States from China. If this [foreign capital](https://www.investopedia.com/terms/f/foreign-investment.asp) goes toward purchasing interest-bearing securities,  such as U.S. Treasuries,  this creates downward pressure on borrowing costs and encourages stronger investments. In addition,  lower interest rates support economic growth.
 
