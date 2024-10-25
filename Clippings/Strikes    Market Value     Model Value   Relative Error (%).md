@@ -93,72 +93,41 @@ implied_vols[i][j] = data[j][i]
 
 in the cell below.
 ```python
-implied\_vols \= ql.Matrix(len(strikes),  len(expiration\_dates))
-for i in range(implied\_vols.rows()):
-	for j in range(implied\_vols.columns()):
-		implied\_vols\[i\]\[j\] \= data\[j\]\[i\]
-
+implied_vols = ql.Matrix(len(strikes), len(expiration_dates))
+for i in range(implied_vols.rows()):
+    for j in range(implied_vols.columns()):
+        implied_vols[i][j] = data[j][i]
 ```
 Now the Black volatility surface can be constructed using the ```BlackVarianceSurface ``` method.
 
 ```python
-black\_var\_surface \= ql.BlackVarianceSurface(
-	calculation\_date,  calendar,
-	expiration\_dates,  strikes,
-	implied\_vols,  day\_count)
-
+black_var_surface = ql.BlackVarianceSurface(
+    calculation_date, calendar, 
+    expiration_dates, strikes, 
+    implied_vols, day_count)
 ```
-
-black\_var\_surface \= ql.BlackVarianceSurface(
-	calculation\_date,  calendar,
-	expiration\_dates,  strikes,
-	implied\_vols,  day\_count)
+The volatilities for any given strike and expiry pair can be easily obtained using ```black_var_surface```shown below.
 
 ```python
-
-The volatilities for any given strike and expiry pair can be easily obtained using ```
-black_var_surface
-``` shown below.
-
-In \[6\]:
-
+strike = 600.0
+expiry = 1.2 # years
+black_var_surface.blackVol(expiry, strike)
 ```
 
-strike \= 600.0
-expiry \= 1.2 \# years
-black\_var\_surface.blackVol(expiry,  strike)
-
-```python
-
-Out\[6\]:
-
-```
-
-0.3352982638587421
-
-```python
+```0.3352982638587421 ```
 
 Visualization
--------------
-
-In \[7\]:
-
 ```
-
 import numpy as np
 % matplotlib inline
 from mpl\_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 from matplotlib import cm
-
-```python
+```
 
 Given an expiry,  we can visualize the volatility as a function of the strike.
 
-In \[8\]:
-
 ```
-
 strikes\_grid \= np.arange(strikes\[0\],  strikes\[\-1\], 10)
 expiry \= 1.0 \# years
 implied\_vols \= \[black\_var\_surface.blackVol(expiry,  s)
@@ -171,6 +140,7 @@ ax.plot(strikes,  actual\_data,  "o",  label\="Actual")
 ax.set\_xlabel("Strikes",  size\=12)
 ax.set\_ylabel("Vols",  size\=12)
 legend \= ax.legend(loc\="upper right")
+```
 
 ```python
 
