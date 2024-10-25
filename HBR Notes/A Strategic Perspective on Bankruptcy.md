@@ -12,11 +12,6 @@ tags:
 title: A Strategic Perspective on Bankruptcy
 ---
 
-
-
-
-![[Untitled 8.jpeg|Untitled 8.jpeg]]
-
 # A Strategic Perspective on Bankruptcy
 
 For the managers of a company with obligations to claimholders that exceed its ability to fulfill them, the choice between out-of-court reorganization and a court-supervised reorganization under Chapter 11 of the U.S. Bankruptcy Code involves complex economic, legal, and ethical considerations.

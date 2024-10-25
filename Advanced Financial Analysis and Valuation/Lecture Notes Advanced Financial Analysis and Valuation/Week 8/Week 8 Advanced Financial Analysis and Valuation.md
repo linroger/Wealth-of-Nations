@@ -1,7 +1,7 @@
 ---
 title: Week 8 Advanced Financial Analysis and Valuation
 ---
-# Week 8 Advanced Financial Analysis and Valuation
+# [[Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 8/Week 8.md|Week 8]] [[Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md|Advanced Financial Analysis and Valuation]]
 
 %% Begin Waypoint %%
 

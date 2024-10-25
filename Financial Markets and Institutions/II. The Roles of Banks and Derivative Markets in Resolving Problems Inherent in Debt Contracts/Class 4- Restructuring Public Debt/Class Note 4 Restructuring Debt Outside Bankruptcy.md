@@ -12,7 +12,7 @@ title: Class Note 4 Restructuring Debt Outside Bankruptcy
 
 
 # Class Note 4 Restructuring Debt Outside Bankruptcy
-**Course:** Financial Markets and Institutions
+**Course:** [[Financial Markets and Institutions/Financial Markets and Institutions.md|Financial Markets and Institutions]]
 **Professor:** Douglas W. Diamond
 **Class Note 4:** Restructuring Debt Outside Bankruptcy
 

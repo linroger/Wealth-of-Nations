@@ -1,17 +1,9 @@
 ---
-aliases:
-- Alias_105_Lecture Slides 1.md
-- Lecture Slides 1 Debt Pricing
-- Example_Alias_Lecture Slides 1
+aliases: [Alias_105_Lecture Slides 1.md,  Lecture Slides 1 Debt Pricing,  Example_Alias_Lecture Slides 1]
 linter-yaml-title-alias: Lecture Slides 1 Debt Pricing
-tags:
-- tag_example
-- example_tag
+tags: [tag_example,  example_tag]
 title: Lecture Slides 1
 ---
-
-
-
 
 # Lecture Slides 1
 

@@ -13,7 +13,7 @@ title: "Class Note 12 \u2013 Commercial Paper"
 
 # Class Note 12 – Commercial Paper
 
-Financial Markets and Institutions Douglas W. Diamond Business 35202
+[[Financial Markets and Institutions/Financial Markets and Institutions.md|Financial Markets and Institutions]] Douglas W. Diamond Business 35202
 
 Overview
 

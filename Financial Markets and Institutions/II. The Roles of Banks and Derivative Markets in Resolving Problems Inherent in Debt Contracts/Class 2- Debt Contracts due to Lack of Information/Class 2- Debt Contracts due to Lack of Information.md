@@ -18,7 +18,7 @@ title: Class 2 Debt Contracts due to Lack of Information
 %% Begin Waypoint %%
 - **[[Class 2- Debt Contracts due to Lack of Information]]**
 	- [[A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt]]
-	- [[A Strategic Perspective On Bankruptcy]]
+	- [[Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/A Strategic Perspective On Bankruptcy]]
 	- [[Class 2- Debt Contracts due to Lack of Information]]
 	- [[Class Note 2- Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat]]
 	- [[Class Notes 2 – Corporate Bond Contracts]]

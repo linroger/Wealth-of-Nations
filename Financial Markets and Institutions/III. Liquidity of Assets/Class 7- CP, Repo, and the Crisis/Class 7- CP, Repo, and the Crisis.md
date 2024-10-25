@@ -29,7 +29,6 @@ title: Class 7CP,  Repo,  and the Crisis
 	- [[Fear of Fire Sales Illiquidity Seeking and Credit Freezes]]
 	- [[Fremont Financial Case Questions]]
 	- [[Fremont Financial Corp. (b)]]
-	- [[Hw 7 Sumbissions]]
 	- [[Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance]]
 	- [[Moody's Bank Loan Ratings- Pricing Implications and Approach]]
 	- [[Moody's Corporate Default and Recovery Rates,  1920-2008]]

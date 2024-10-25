@@ -2,7 +2,7 @@
 title: Week 3 Advanced Financial Analysis and Valuation
 ---
 
-# Week 3 Advanced Financial Analysis and Valuation
+# Week 3 [[Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md|Advanced Financial Analysis and Valuation]]
 
 %% Begin Waypoint %%
 
