@@ -250,83 +250,62 @@ Heston Model Calibration
 ------------------------
 
 Heston model is defined by the following stochastic differential equations.
+$$\begin{eqnarray} dS(t,   S) = \mu S dt + \sqrt{v} S dW_1 \\ dv(t,   S) = \kappa (\theta - v) dt + \sigma \sqrt{v} dW_2 \\ dW_1 dW_2 = \rho dt \end{eqnarray}$$
 
-$$dS(t,  S)dv(t,  S)dW1dW2\=\=\=μSdt+v√SdW1κ(θ−v)dt+σv√dW2ρdtdS(t,  S)\=μSdt+vSdW1dv(t,  S)\=κ(θ−v)dt+σvdW2dW1dW2\=ρdt$$
-
-\\begin{eqnarray} dS(t,   S) &=& \\mu S dt + \\sqrt{v} S dW\_1 \\\\ dv(t,   S) &=& \\kappa (\\theta - v) dt + \\sigma \\sqrt{v} dW\_2 \\\\ dW\_1 dW\_2 &=& \\rho dt \\end{eqnarray}
-
-Here the asset is modeled as a stochastic process that depends on volatility $v$ which is a mean reverting stochastic process with a constant volatility of volatility $\\sigma$. The two stochastic processes have a correlation $\\rho$.
+Here the asset is modeled as a stochastic process that depends on volatility $v$ which is a mean reverting stochastic process with a constant volatility of volatility $\\sigma$. The two stochastic processes have a correlation $\rho$.
 
 Let us look at how we can calibrate the Heston model to some market quotes. As an example,   let's say we are interested in trading options with 1 year maturity. So we will calibrate the Heston model to fit to market volatility quotes with one year maturity. Before we do that,   we need to construct the pricing engine that the calibration routines would need. In order to do that,   we start by constructing the Heston model with some dummy starting parameters as shown below.
 
-In \[14\]:
+```
+# dummy parameters
+v0 = 0.01; kappa = 0.2; theta = 0.02; rho = -0.75; sigma = 0.5;
+
+process = ql.HestonProcess(flat_ts, dividend_ts, 
+                           ql.QuoteHandle(ql.SimpleQuote(spot)), 
+                           v0, kappa, theta, sigma, rho)
+model = ql.HestonModel(process)
+engine = ql.AnalyticHestonEngine(model) 
+# engine = ql.FdHestonVanillaEngine(model)
 
 ```
-
-\# dummy parameters
-v0 \= 0.01; kappa \= 0.2; theta \= 0.02; rho \= \-0.75; sigma \= 0.5;
-
-process \= ql.HestonProcess(flat\_ts,  dividend\_ts,
-						   ql.QuoteHandle(ql.SimpleQuote(spot)),
-						   v0,  kappa,  theta,  sigma,  rho)
-model \= ql.HestonModel(process)
-engine \= ql.AnalyticHestonEngine(model)
-\# engine = ql.FdHestonVanillaEngine(model)
-
-```python
 
 Now that we have the Heston model and a pricing engine,   let us pick the quotes with all strikes and 1 year maturity in order to calibrate the Heston model. We build the Heston model helper which will be fed into the calibration routines.
 
-In \[15\]:
+```
+heston_helpers = []
+black_var_surface.setInterpolation("bicubic")
+one_year_idx = 11 # 12th row in data is for 1 year expiry
+date = expiration_dates[one_year_idx]
+for j, s in enumerate(strikes):
+    t = (date - calculation_date )
+    p = ql.Period(t, ql.Days)
+    sigma = data[one_year_idx][j]
+    #sigma = black_var_surface.blackVol(t/365.25, s)
+    helper = ql.HestonModelHelper(p, calendar, spot, s, 
+                                  ql.QuoteHandle(ql.SimpleQuote(sigma)),
+                                  flat_ts, 
+                                  dividend_ts)
+    helper.setPricingEngine(engine)
+    heston_helpers.append(helper)
 
 ```
 
-heston\_helpers \= \[\]
-black\_var\_surface.setInterpolation("bicubic")
-one\_year\_idx \= 11 \# 12th row in data is for 1 year expiry
-date \= expiration\_dates\[one\_year\_idx\]
-for j,  s in enumerate(strikes):
-	t \= (date \- calculation\_date )
-	p \= ql.Period(t,  ql.Days)
-	sigma \= data\[one\_year\_idx\]\[j\]
-	#sigma = black\_var\_surface.blackVol(t/365.25,  s)
-	helper \= ql.HestonModelHelper(p,  calendar,  spot,  s,
-								  ql.QuoteHandle(ql.SimpleQuote(sigma)),
-								  flat\_ts,
-								  dividend\_ts)
-	helper.setPricingEngine(engine)
-	heston\_helpers.append(helper)
-
-```python
-
-In \[16\]:
-
 ```
-
 lm \= ql.LevenbergMarquardt(1e-8,  1e-8,  1e-8)
 model.calibrate(heston\_helpers,  lm,
 				 ql.EndCriteria(500,  50,  1.0e-8,  1.0e-8,  1.0e-8))
 theta,  kappa,  sigma,  rho,  v0 \= model.params()
-
-```python
-
-In \[17\]:
-
 ```
 
+```
 print "theta = %f,  kappa = %f,  sigma = %f,  rho = %f,  v0 = %f" % (theta,  kappa,  sigma,  rho,  v0)
-
-```python
-
 ```
 
+```
 theta = 0.135147,  kappa = 1.878471,  sigma = 0.002035,  rho = -1.000000,  v0 = 0.043485
-
-```python
+```
 
 Let us look at the quality of calibration by pricing the options used in the calibration using the model and lets get an estimate of the relative error.
-
-In \[18\]:
 
 ```
 
@@ -351,6 +330,7 @@ print "Average Abs Error (%%) : %5.3f" % (avg)
 
 ```
 
+```
         Strikes    Market Value     Model Value   Relative Error (%)
 ======================================================================
 		 527.50 184.23863 177.26114 -3.7872037
@@ -363,8 +343,7 @@ print "Average Abs Error (%%) : %5.3f" % (avg)
 		 758.28 67.62146 70.44848 4.1806550
 ----------------------------------------------------------------------
 Average Abs Error (%) : 2.440
-
-```python
+```
 
 References
 ----------
@@ -372,8 +351,6 @@ References
 \[1\] Mathias R. Fengler,   _Arbitrage Free Smoothing of Implied Volatility Surface_,   [https://core.ac.uk/download/files/153/6978470.pdf](https://core.ac.uk/download/files/153/6978470.pdf)
 
 Click here to download the [ipython notebook](/extra/notebooks/heston_model_calibration_smile.ipynb).
-
-  
   
    [quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)    
 
@@ -388,19 +365,3 @@ Click here to download the [ipython notebook](/extra/notebooks/heston_model_cali
 *   [QuantLib Python Cookbook Announcement](http://gouthamanbalaraman.com/blog/quantlib-python-cookbook-announcement.html)
 
 * * *
-
-![](/images/me.png)  
-I am Goutham Balaraman,   and I explore topics in quantitative finance,   programming,   and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).  
-
-* * *
-
-**Checkout my book**
-
-[![](/images/cookbook.png)](https://leanpub.com/quantlibpythoncookbook)  
-Updated posts from this blog and transcripts of Luigi's screencasts on YouTube is compiled into [QuantLib Python Cookbook](https://leanpub.com/quantlibpythoncookbook) .
-
-© [Goutham Balaraman](http://gouthamanbalaraman.com) Proudly powered by [Pelican](http://getpelican.com/)
-
-[Atom](http://gouthamanbalaraman.com/feeds/all.atom.xml)   [RSS](http://gouthamanbalaraman.com/feeds/all.rss.xml)
-
- jQuery(document).ready(function($) { $("div.collapseheader").click(function () { $header = $(this).children("span").first(); $codearea = $(this).children(".input\_area"); console.log($(this).children()); $codearea.slideToggle(500,   function () { $header.text(function () { return $codearea.is(":visible") ? "Collapse Code" : "Expand Code"; }); }); }); }); jQuery(document).ready(function($) { $("body table").addClass("table table-sm table-hover"); $("body table").attr("border",  0); }); MathJax.Hub.Config({ "HTML-CSS": { styles: { ".MathJax .mo,   .MathJax .mi": {color: "black ! important"}} },   tex2jax: {inlineMath: \[\['$',  '$'\],   \['\\\\\\\\(',  '\\\\\\\\)'\]\],  processEscapes: true} });
