@@ -11,7 +11,7 @@ European options on an equity underlying such as an index (S&P 500) or a stock (
 
 In \[1\]:
 
-```latex
+```python
 import QuantLib as ql
 import math
 
@@ -21,7 +21,7 @@ First let us define some of the basic data conventions such as the day\_count,  
 
 In \[2\]:
 
-```latex
+```python
 day\_count \= ql.Actual365Fixed()
 calendar \= ql.UnitedStates()
 
@@ -44,7 +44,7 @@ Following is a sample matrix of volatility quote by exipiry and strike. The vola
 
 In \[3\]:
 
-```latex
+```python
 expiration\_dates \= \[ql.Date(6, 12, 2015),  ql.Date(6, 1, 2016),  ql.Date(6, 2, 2016), 
                     ql.Date(6, 3, 2016),  ql.Date(6, 4, 2016),  ql.Date(6, 5, 2016),  
                     ql.Date(6, 6, 2016),  ql.Date(6, 7, 2016),  ql.Date(6, 8, 2016), 
@@ -85,55 +85,27 @@ data \= \[
 Implied Volatility Surface
 --------------------------
 
-Each row in ```
-data
-``` is a different exipiration time,  and each column corresponds to various strikes as given in ```
-strikes
-```. We load all this data into the ```
-QuantLib
-``` ```
-Matrix
-``` object. This can then be used seamlessly in the various surface construction routines. The variable ```
-implied_vols
-``` holds the above data in a ```
-Matrix
-``` format. One unusual bit of info that one needs to pay attention to is the ordering of the rows and columns in the ```
-Matrix
-``` object. The implied volatilities in the ```
-QuantLib
-``` context needs to have strikes along the row dimension and expiries in the column dimension. This is transpose of the way the data was constructed above. All of this detail is taken care by swapping the ```
-i
-``` and ```
-j
+Each row in ``` data ``` is a different exipiration time,  and each column corresponds to various strikes as given in ``` strikes ```. We load all this data into the ``` QuantLib ``` ``` Matrix ``` object. This can then be used seamlessly in the various surface construction routines. The variable ``` implied_vols ``` holds the above data in a ``` Matrix ``` format. One unusual bit of info that one needs to pay attention to is the ordering of the rows and columns in the ``` Matrix ``` object. The implied volatilities in the ``` QuantLib ``` context needs to have strikes along the row dimension and expiries in the column dimension. This is transpose of the way the data was constructed above. All of this detail is taken care by swapping the  $i$ and  $j$ variables below. Pay attention to the line:
 
-``` variables below. Pay attention to the line:
-
-```
-
-```latex
+```python
 implied_vols[i][j] = data[j][i]
 ```
 
-```latex
-
 in the cell below.
-
-In \[4\]:
-
-```
-
+```python
 implied\_vols \= ql.Matrix(len(strikes),  len(expiration\_dates))
 for i in range(implied\_vols.rows()):
 	for j in range(implied\_vols.columns()):
 		implied\_vols\[i\]\[j\] \= data\[j\]\[i\]
 
-```latex
+```
+Now the Black volatility surface can be constructed using the ```BlackVarianceSurface ``` method.
 
-Now the Black volatility surface can be constructed using the ```
-BlackVarianceSurface
-``` method.
-
-In \[5\]:
+```python
+black\_var\_surface \= ql.BlackVarianceSurface(
+	calculation\_date,  calendar,
+	expiration\_dates,  strikes,
+	implied\_vols,  day\_count)
 
 ```
 
@@ -142,7 +114,7 @@ black\_var\_surface \= ql.BlackVarianceSurface(
 	expiration\_dates,  strikes,
 	implied\_vols,  day\_count)
 
-```latex
+```python
 
 The volatilities for any given strike and expiry pair can be easily obtained using ```
 black_var_surface
@@ -156,7 +128,7 @@ strike \= 600.0
 expiry \= 1.2 \# years
 black\_var\_surface.blackVol(expiry,  strike)
 
-```latex
+```python
 
 Out\[6\]:
 
@@ -164,7 +136,7 @@ Out\[6\]:
 
 0.3352982638587421
 
-```latex
+```python
 
 Visualization
 -------------
@@ -179,7 +151,7 @@ from mpl\_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 from matplotlib import cm
 
-```latex
+```python
 
 Given an expiry,  we can visualize the volatility as a function of the strike.
 
@@ -200,7 +172,7 @@ ax.set\_xlabel("Strikes",  size\=12)
 ax.set\_ylabel("Vols",  size\=12)
 legend \= ax.legend(loc\="upper right")
 
-```latex
+```python
 
 ![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAZcAAAESCAYAAAAxG5hmAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzt3Xl4VdXVx/HvL0CCzCAKEVFoqsUBFVQcKJIqSBQUnAVn
@@ -466,13 +438,13 @@ surf \= ax.plot\_surface(X, Y, Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
 				linewidth\=0.1)
 fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
-```latex
+```python
 
 Out\[10\]:
 
 ```
 
-```latex
+```python
 
 ![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAWAAAADtCAYAAACBOK/+AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzsvXm4JXdd7vv5/WquNe+5p8wgSUhIAgEJBhRRJHoxIorK
@@ -1490,7 +1462,7 @@ local\_vol\_surface \= ql.LocalVolSurface(
 	dividend\_ts,
 	spot)
 
-```latex
+```python
 
 In \[12\]:
 
@@ -1510,13 +1482,13 @@ surf \= ax.plot\_surface(X,  Y,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm
 				linewidth\=0.1)
 fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
-```latex
+```python
 
 Out\[12\]:
 
 ```
 
-```latex
+```python
 
 ![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAVoAAADtCAYAAAD+6b0PAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJzsvXmUJHd95fv5xZoZkUvtXdXVLbWEltaKGiwMFhhsBJZs
@@ -2453,11 +2425,11 @@ surf \= ax.plot\_surface(Y, X,  Z,  rstride\=1,  cstride\=1,  cmap\=cm.coolwarm,
 				linewidth\=0.1)
 fig.colorbar(surf,  shrink\=0.5,  aspect\=5)
 
-```latex
+```python
 
 ```
 
-```latex
+```python
 \---------------------------------------------------------------------------
 RuntimeError                              Traceback (most recent call last)
  in ()
@@ -2476,7 +2448,7 @@ C:\\Users\\gbalaram\\Documents\\Code\\env\\Lib\\site-packages\\QuantLib\\QuantLi
 RuntimeError: negative local vol^2 at strike 655 and time 0.75; the black vol surface is not smooth enough
 ```
 
-```latex
+```python
 
 ![](data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAV0AAADtCAYAAAAcNaZ2AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAIABJREFUeJztnXmYFPWd/9/V53T3DDMqXlwu9yFyzwC6surGAxRUdJUY
@@ -2841,7 +2813,7 @@ model \= ql.HestonModel(process)
 engine \= ql.AnalyticHestonEngine(model)
 \# engine = ql.FdHestonVanillaEngine(model)
 
-```latex
+```python
 
 Now that we have the Heston model and a pricing engine,  let us pick the quotes with all strikes and 1 year maturity in order to calibrate the Heston model. We build the Heston model helper which will be fed into the calibration routines.
 
@@ -2865,7 +2837,7 @@ for j,  s in enumerate(strikes):
 	helper.setPricingEngine(engine)
 	heston\_helpers.append(helper)
 
-```latex
+```python
 
 In \[16\]:
 
@@ -2876,7 +2848,7 @@ model.calibrate(heston\_helpers,  lm,
 				 ql.EndCriteria(500,  50,  1.0e-8, 1.0e-8,  1.0e-8))
 theta,  kappa,  sigma,  rho,  v0 \= model.params()
 
-```latex
+```python
 
 In \[17\]:
 
@@ -2884,13 +2856,13 @@ In \[17\]:
 
 print "theta = %f,  kappa = %f,  sigma = %f,  rho = %f,  v0 = %f" % (theta,  kappa,  sigma,  rho,  v0)
 
-```latex
+```python
 
 ```
 
 theta = 0.135147,  kappa = 1.878471,  sigma = 0.002035,  rho = -1.000000,  v0 = 0.043485
 
-```latex
+```python
 
 Let us look at the quality of calibration by pricing the options used in the calibration using the model and lets get an estimate of the relative error.
 
@@ -2915,7 +2887,7 @@ avg \= avg\*100.0/len(heston\_helpers)
 print "-"\*70
 print "Average Abs Error (%%) : %5.3f" % (avg)
 
-```latex
+```python
 
 ```
 
@@ -2932,7 +2904,7 @@ print "Average Abs Error (%%) : %5.3f" % (avg)
 ----------------------------------------------------------------------
 Average Abs Error (%) : 2.440
 
-```latex
+```python
 
 References
 ----------
