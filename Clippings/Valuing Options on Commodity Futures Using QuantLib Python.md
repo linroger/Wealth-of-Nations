@@ -79,6 +79,8 @@ print "%-20s: %4.4f" %("Vega", black.vega(T) )
 print "%-20s: %4.4f" %("Rho", black.rho( T) )
 
 ```
+
+
 ```
 Option Price        : 7.9686
 Delta               : 0.9875
@@ -87,12 +89,54 @@ Theta               : -0.9356
 Vega                : 1.0285
 Rho                 : 7.3974
 ```
+
+
+
 ## Natural Gas Futures Option
 
 I saw [this](http://quantlib.10058.n7.nabble.com/Quantlib-methods-for-option-pricing-td17018.html) question on quantlib users group. Thought I will add this example as well.
 
 Call option with a 3.5 strike, spot 2.919, volatility 0.4251. The interest rate is 0.15%.
+```
+interest_rate = 0.0015
+calc_date = ql.Date(23,9,2015)
+yield_curve = ql.FlatForward(calc_date, 
+                             interest_rate,
+                             day_count,
+                             ql.Compounded,
+                             ql.Continuous)
 
+ql.Settings.instance().evaluationDate = calc_date
+T = 96.12/365.
+
+strike = 3.5
+spot = 2.919
+volatility = 0.4251
+flavor = ql.Option.Call
+
+discount = yield_curve.discount(T)
+strikepayoff = ql.PlainVanillaPayoff(flavor, strike)
+stddev = volatility*math.sqrt(T)
+
+strikepayoff = ql.PlainVanillaPayoff(flavor, strike)
+black = ql.BlackCalculator(strikepayoff, spot, stddev, discount)
+
+print "%-20s: %4.4f" %("Option Price", black.value() )
+print "%-20s: %4.4f" %("Delta", black.delta(spot) )
+print "%-20s: %4.4f" %("Gamma", black.gamma(spot) )
+print "%-20s: %4.4f" %("Theta", black.theta(spot, T) )
+print "%-20s: %4.4f" %("Vega", black.vega(T) )
+print "%-20s: %4.4f" %("Rho", black.rho( T) )
+```
+
+```
+Option Price        : 0.0789
+Delta               : 0.2347
+Gamma               : 0.4822
+Theta               : -0.3711
+Vega                : 0.4600
+Rho                 : 0.1597
+```
 ## Conclusion
 
 In this notebook, I demonstrated how Black formula can be used to value options on commodity futures. It is worth pointing out that different vendors usually have different scaling conventions when it comes to reporting greeks. One would needs to take that into account when comparing the values shown by QuantLib with that of other vendors
@@ -100,3 +144,11 @@ In this notebook, I demonstrated how Black formula can be used to value options 
 ## References
 
 \[1\] Fischer Black, *The pricing of commodity contracts*, Journal of Financial Economics, (3) 167-179 (1976)
+
+**Related Post**
+
+- [QuantLib Python Tutorials With Examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html)
+- [On the Convergence of Hull White Monte Carlo Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
+- [Short Interest Rate Model Calibration in QuantLib Python](http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html)
+- [QuantLib Python Cookbook Announcement](http://gouthamanbalaraman.com/blog/quantlib-python-cookbook-announcement.html)
+- [Valuing Bonds with Credit Spreads in QuantLib Python](http://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.html)
