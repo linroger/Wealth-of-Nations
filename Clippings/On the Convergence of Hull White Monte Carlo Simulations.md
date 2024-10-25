@@ -24,13 +24,93 @@ The variables used in this post are described below:
 - `num_paths` is the number of paths in the simulation
 - `a` is the constant parameter in the Hull-White model
 - `sigma` is the constant parameter $\sigma$ in the Hull-White model that describes volatility
+```
+import QuantLib as ql
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.integrate import simps, cumtrapz, romb
+% matplotlib inline
+import math
 
+todays_date = ql.Date(15, 1, 2015)
+ql.Settings.instance().evaluationDate = todays_date
+```
 The `get_path_generator` function creates the a path generator. This function takes various inputs such as
-
+```
+def get_path_generator(timestep, hw_process, length, 
+                       low_discrepancy=False, brownian_bridge=True):
+    """
+    Returns a path generator
+    """
+    if low_discrepancy:
+        usg = ql.UniformLowDiscrepancySequenceGenerator(timestep)
+        rng = ql.GaussianLowDiscrepancySequenceGenerator(usg)
+        seq = ql.GaussianSobolPathGenerator(
+                hw_process, length, timestep, rng,brownian_bridge)
+    else:
+        usg = ql.UniformRandomSequenceGenerator(timestep, ql.UniformRandomGenerator())
+        rng = ql.GaussianRandomSequenceGenerator(usg)
+        seq = ql.GaussianPathGenerator(
+                hw_process, length, timestep, rng, brownian_bridge)
+    return seq
+```
 The `generate_paths` function uses the generic path generator produced by the `get_path_generator` function to return a tuple of the array of the points in the time grid and a matrix of the short rates generated.
-
+```
+def generate_paths(num_paths, timestep, seq):
+    arr = np.zeros((num_paths, timestep+1))
+    for i in range(num_paths):
+        sample_path = seq.next()
+        path = sample_path.value()
+        time = [path.time(j) for j in range(len(path))]
+        value = [path[j] for j in range(len(path))]
+        arr[i, :] = np.array(value)
+    return np.array(time), arr
+```
 The `generate_paths_zero_price` essentially is a wrapper around `generate_path_generator` and `generate_paths` taking all the required raw inputs. This function returns the average of zero prices from all the paths for different points in time. I wrote this out so that I can conveniently change all the required inputs and easily plot the results.
+```
+def generate_paths_zero_price(spot_curve_handle, a, sigma, timestep, length, 
+                              num_paths, avg_grid_array, low_discrepancy=False, 
+                              brownian_bridge=True):
+    """
+    This function returns a tuple (T_array, F_array), where T_array is the array 
+    of points in the time grid, and F_array is the array of the average of zero 
+    prices observed from the simulation.
+    """
+    hw_process = ql.HullWhiteProcess(spot_curve_handle, a, sigma)
+    seq = get_path_generator(
+            timestep, hw_process, length, low_discrepancy, brownian_bridge
+    )
+    time, paths = generate_paths(num_paths, timestep, seq)
+    avgs = [(time[j],(np.mean([math.exp(-simps(paths[i][0:j], time[0:j])) 
+                               for i in range(num_paths)]))) 
+            for j in avg_grid_array
+            ]
+    return zip(*avgs)
 
+def generate_paths_discount_factors(spot_curve_handle, a, sigma, timestep, length, 
+                              num_paths, avg_grid_array, low_discrepancy=False, 
+                              brownian_bridge=True):
+    """
+    This function returns a tuple (T_array, S_matrix), where T_array is the array 
+    of points in the time grid, and S_matrix is the matrix of the spot rates for 
+    each path in the different points in the time grid.
+    """
+    hw_process = ql.HullWhiteProcess(spot_curve_handle, a, sigma)
+    seq = get_path_generator(
+            timestep, hw_process, length, low_discrepancy, brownian_bridge
+    )
+    time, paths = generate_paths(num_paths, timestep, seq)
+    arr = np.zeros((num_paths, len(avg_grid_array)))
+    for i in range(num_paths):
+        arr[i, :] =  [np.exp(-simps(paths[i][0:j], time[0:j])) for j in avg_grid_array ]
+    t_array = [time[j] for j in avg_grid_array]
+    return t_array, arr
+
+def V(t,T, a, sigma):
+    """ Variance of the integral of short rates, used below"""
+    return sigma*sigma/a/a*(T-t + 2.0/a*math.exp(-a*(T-t)) - 
+                            1.0/(2.0*a)*math.exp(-2.0*a*(T-t)) - 3.0/(2.0*a) )
+```
 ## Factors affecting the convergence
 
 In order to understand the convergence of Monte-Carlo for the Hull-White model,  let us compare the market discount factor,

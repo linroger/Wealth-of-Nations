@@ -70,13 +70,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/This post explains valuing American Options using QuantLib and Python.md",
+                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This post explains valuing American Options using QuantLib and Python"
+              "title": "On the Convergence of Hull White Monte Carlo Simulations"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/This post explains valuing American Options using QuantLib and Python.md",
+                "file": "Clippings/On the Convergence of Hull White Monte Carlo Simulations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for This post explains valuing American Options using QuantLib and Python"
+              "title": "Backlinks for On the Convergence of Hull White Monte Carlo Simulations"
             }
           }
         ],
@@ -255,9 +255,9 @@
   },
   "active": "36ef3e9b470868e2",
   "lastOpenFiles": [
+    "Clippings/This post explains valuing American Options using QuantLib and Python.md",
     "Attachments/Binomial_Tree_Price_For_Varying_Steps.png",
     "Clippings/Clippings.md",
-    "Clippings/This post explains valuing American Options using QuantLib and Python.md",
     "Clippings/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
     "Clippings/Chinese Currency Peg.md",
     "Clippings/American Option Pricing with QuantLib and Python.md",
@@ -299,7 +299,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Yield Curve Notes.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.txt",
-    "Attachments/Keep It 2024-10-24 10.52.05.png",
-    "Attachments/Keep It 2024-10-24 10.52.29.png"
+    "Attachments/Keep It 2024-10-24 10.52.05.png"
   ]
 }
