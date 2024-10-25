@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Web Clipper"
+              "title": "Valuing Convertible Bonds Using QuantLib Python"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Web Clipper"
+              "title": "Backlinks for Valuing Convertible Bonds Using QuantLib Python"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "564745512c8d50bb",
   "lastOpenFiles": [
-    "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
+    "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "Clippings/Clippings.md",
     "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
     "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
@@ -284,7 +285,6 @@
     "Attachments/Keep It 2024-10-24 10.52.05.png",
     "Attachments/Keep It 2024-10-24 10.52.29.png",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
-    "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
-    "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md"
+    "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md"
   ]
 }
