@@ -1,10 +1,10 @@
 {
   "cssTheme": "LaTeX",
   "accentColor": "#ffc599",
-  "textFontFamily": "SF Pro Display,CMU Serif",
-  "interfaceFontFamily": "SF Pro Display,SF Pro Rounded",
+  "textFontFamily": "SF Pro Display,Latin Modern Roman,CMU Serif",
+  "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "translucency": true,
   "enabledCssSnippets": [
     "centered_table",
@@ -16,7 +16,6 @@
     "ipad",
     "sf-symbols",
     "accent-yellow",
-    "[ui] Compact Tabs",
     "caption and center image",
     "image_link_centering",
     "folder_view_headers",

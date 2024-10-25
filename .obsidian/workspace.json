@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
+                "file": "China Foreign Exchange Reserves/Chinese Currency Peg.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "China Investment Corporation (CIC) Meaning, Criticism"
+              "title": "Chinese Currency Peg"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
+                "file": "China Foreign Exchange Reserves/Chinese Currency Peg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,21 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for China Investment Corporation (CIC) Meaning, Criticism"
+              "title": "Backlinks for Chinese Currency Peg"
+            }
+          },
+          {
+            "id": "450c7a3a0fe06363",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -253,25 +267,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": true,
+      "github-sync:Sync with Remote": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
-      "github-sync:Sync with Remote": false,
       "formatto-format:Format Document": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "cd5ce453cb13659b",
   "lastOpenFiles": [
-    "China Foreign Exchange Reserves/China's Monetary Policy.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW LaTeX Files.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md",
     "China Foreign Exchange Reserves/China Investment Corporation (CIC) Meaning, Criticism.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md",
+    "China Foreign Exchange Reserves/China's Monetary Policy.md",
     "China Foreign Exchange Reserves/China Foreign Exchange Reserves.md",
     "QuantLib-Python/Heston Model Calibration Using QuantLib Python and Scipy Optimize.md",
     "China Foreign Exchange Reserves",
@@ -295,18 +313,14 @@
     "QuantLib-Python/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
     "QuantLib-Python/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "QuantLib-Python/Valuing Options on Commodity Futures Using QuantLib Python.md",
-    "QuantLib-Python/Short Interest Rate Model Calibration in QuantLib Python.md",
     "Attachments/Discount_Factor_Error1.png",
     "Attachments/Discount_Factor_Error.png",
     "Attachments/standard_deviation_of_discount_factors 1.png",
     "Attachments/standard_deviation_of_discount_factors.png",
-    "QuantLib-Python/Option Model Handbook, Part III European Option Pricing With QuantLib Python.md",
     "Attachments/binomial_tree_for_varying_steps.png",
-    "QuantLib-Python/Hull White Term Structure Simulations with QuantLib Python.md",
     "Attachments/mean_of_short_rates.png",
     "Attachments/variance_of_short_rates.png",
     "Attachments/Unknown.png",
-    "QuantLib-Python/Modeling Fixed Rate Bonds in QuantLib Python.md",
     "combined_markdown_content.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
