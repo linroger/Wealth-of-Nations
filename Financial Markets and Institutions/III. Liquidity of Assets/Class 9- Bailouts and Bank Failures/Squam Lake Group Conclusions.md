@@ -124,13 +124,11 @@ Government regulators may also resist some of our proposals. We argue,  for exam
 
 Finally,  our proposals would have their greatest benefit when they alter the behavior of financial institutions before a crisis occurs. This cannot happen unless the relevant decision-makers—financial executives,  current and potential creditors,  boards of directors—believe that the environment has truly changed. This will take time. It may also require the failure of one or more important financial firms without government bailouts for people to genuinely believe that a new regime is in place and that every large financial institution will not be bailed out. These challenges can be met and overcome. With appropriate new regulations,  financial firms can again resume their critical role of matching lenders with borrowers to help raise standards of living around the world. If new regulations are misguided,  however,  we will continue to be threatened by severe financial crises and the recessions and unemployment that often accompany them,  or we will face the even worse prospect of an overregulated and politicized financial system that cannot support a dynamic growing economy. We all should hope that policymakers are up to the task. Our book aims to support this effort.
 
-## Notes
+## Bibliography
 
 1. See,  for example,  SEC Office of Inspector General,  SEC's Oversight of Bear Stearns and Related Entities: The Consolidated Supervised Entity Program,  SEC Report 446-A,  September 25,  2008. This report would have received greater public attention had it not been released at the height of the World Financial Crisis.
-1. Kate Kelly,  "Lost Opportunities Haunt Final Days of Bear Stearns: Executives Bickered Over Raising Cash,  Cutting Mortgages,  " *Wall Street Journal*,
-May 27,  2008,  A 1.
+1. Kate Kelly,  "Lost Opportunities Haunt Final Days of Bear Stearns: Executives Bickered Over Raising Cash,  Cutting Mortgages,  " *Wall Street Journal*, May 27,  2008,  A 1.
 
 1. Compensation data taken from page 130 of the November 2007 Bear Stearns SEC 10 K filing,  http://www.bearstearns.com/includes/pdfs/ investor_relations/proxy/10 k 2007. Pdf.
 1. Alan Greenspan,  "Proposals for Improving the Regulation of the Housing Government Sponsored Enterprises,  " February 24,  2004,  testimony to the Committee on Banking,  Housing and Urban Affairs,  U.S. Senate,  108 th Cong.,  1 st sess.,  www.federalreserve.gov/boarddocs/testimony/ 2004/20040224/default. Htm.
-1. "The Specter of Lehman Shadows Trade Partners: Derivatives Pacts Remain in Limbo for Municipalities,  Firms,  " *Wall Street Journal*,  September 17,  2009,  C 1,  http://online.wsj.com/article/SB125313981633417557
-.html.
+1. "The Specter of Lehman Shadows Trade Partners: Derivatives Pacts Remain in Limbo for Municipalities,  Firms,  " *Wall Street Journal*,  September 17,  2009,  C 1,  http://online.wsj.com/article/SB125313981633417557.html.

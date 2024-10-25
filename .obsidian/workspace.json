@@ -145,13 +145,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HBR Notes/A Strategic Perspective on Bankruptcy.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Strategic Perspective on Bankruptcy"
+              "title": "Squam Lake Group Conclusions"
             }
           },
           {
@@ -269,10 +269,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HBR Notes/A Strategic Perspective on Bankruptcy.md"
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Strategic Perspective on Bankruptcy"
+              "title": "Outline of Squam Lake Group Conclusions"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HBR Notes/A Strategic Perspective on Bankruptcy.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Strategic Perspective on Bankruptcy"
+              "title": "Backlinks for Squam Lake Group Conclusions"
             }
           },
           {
@@ -324,10 +324,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HBR Notes/A Strategic Perspective on Bankruptcy.md"
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for A Strategic Perspective on Bankruptcy"
+              "title": "File properties for Squam Lake Group Conclusions"
             }
           }
         ],
@@ -355,8 +355,13 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "eae4774b26e161e7",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Introduction.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET VI Fixed Income.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
+    "HBR Notes/A Strategic Perspective on Bankruptcy.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Slides 1.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class 8- Markets, Meltdowns, and Arbitrage.md",
@@ -379,12 +384,7 @@
     "QuantLib-Python/Valuing Treasury Futures Using QuantLib Python.md",
     "QuantLib-Python/American Option Pricing with QuantLib and Python.md",
     "QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
-    "QuantLib-Python/QuantLib-Python.md",
-    "QuantLib-Python/Modeling Vanilla Interest Rate Swaps Using QuantLib Python.md",
     "QuantLib-Python",
-    "QuantLib-Python/Valuing European Option Using the Heston Model in QuantLib Python.md",
-    "China Foreign Exchange Reserves/People's Bank of China (PBoC).md",
-    "QuantLib-Python/On the Convergence of Hull White Monte Carlo Simulations.md",
     "Attachments/Binomial_Tree_Price_For_Varying_Steps.png",
     "Attachments/Discount_Factor_Error1.png",
     "Attachments/Discount_Factor_Error.png",
