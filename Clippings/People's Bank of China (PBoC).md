@@ -1,19 +1,11 @@
 ---
-aliases:
-- Alias_110_People's Bank of China (PBoC).md
-- Example_Alias_People's Bank of China (PBoC)
+aliases: [Alias_110_People's Bank of China (PBoC).md,  Example_Alias_People's Bank of China (PBoC)]
 description: The People's Bank of China is the central bank of the People's Republic
   of China and is located in Beijing.
 source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
-tags:
-- clippings
-- tag_example
-- example_tag
-title: People's Bank of China (PBoC)
+tags: [clippings,  tag_example,  example_tag]
+title: "People's Bank of China (PBoC)"
 ---
-
-
-
 
 # People's Bank of China (PBoC)
 ## What Is the People's Bank of China (PBoC)?
@@ -42,9 +34,9 @@ The PBoC’s foreign exchange reserves have grown to $3.2 trillion in mid-2022 w
 
 ## History of the PBoC
 
-The PBoC was established on Dec. 1,   1948,   and is responsible for [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp) and fiscal regulation in Mainland China. The PBoC is one of the largest central banks in the world,  with over $3 trillion in [foreign exchange reserves](https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp). The Huabei Bank,  the Beihai Bank,  and the Xibei Farmer Bank were consolidated to form the PBoC after the Chinese Communist Party's victory and the creation of the People's Republic of China0.\1
+The PBoC was established on Dec. 1,    1948,    and is responsible for [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp) and fiscal regulation in Mainland China. The PBoC is one of the largest central banks in the world,  with over $3 trillion in [foreign exchange reserves](https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp). The Huabei Bank,  the Beihai Bank,  and the Xibei Farmer Bank were consolidated to form the PBoC after the Chinese Communist Party's victory and the creation of the People's Republic of China0.\1
 
-In September 1983,  the State Council decided that the PBoC should become the central bank. The bank's first headquarters were in Shijiazhuang,   Hebei,   and were later moved to Beijing in 1949. Between 1950 and 1978,  the PBoC was the only bank in the nation and oversaw both central banking and commercial banking operations. All other banks within mainland China,  such as the Bank of China,   were either divisions of the PBoC or did not accept deposits0.\1
+In September 1983,  the State Council decided that the PBoC should become the central bank. The bank's first headquarters were in Shijiazhuang,    Hebei,    and were later moved to Beijing in 1949. Between 1950 and 1978,  the PBoC was the only bank in the nation and oversaw both central banking and commercial banking operations. All other banks within mainland China,  such as the Bank of China,    were either divisions of the PBoC or did not accept deposits0.\1
 
 ## Responsibilities of the PBoC
 

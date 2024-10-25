@@ -29,13 +29,19 @@ Here :
 In contrast,  the Black-Scholes-Merton process assumes that the volatility is constant.
 
 Let us consider a European call option for AAPL with a strike price of \$130 maturing on 15th Jan,  2016. Let the spot price be \$127.62. The volatility of the underlying stock is know to be 20%,  and has a dividend yield of 1.63%. We assume a short term risk free rate of 0.1%. Lets value this option as of 8th May,  2015.
-
+```
+import QuantLib as ql
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.integrate import simps, cumtrapz, romb
+% matplotlib inline
+import math
+```
 Using the above inputs,  we construct the European option as shown below.
 
-In \[3\]:
 
-```latex
-# Valuing European Option Using the Heston Model in QuantLib Python
+```
+```# Valuing European Option Using the Heston Model in QuantLib Python
 payoff = ql.PlainVanillaPayoff(option_type,  strike_price)
 exercise = ql.EuropeanExercise(maturity_date)
 european_option = ql.VanillaOption(payoff,  exercise)
