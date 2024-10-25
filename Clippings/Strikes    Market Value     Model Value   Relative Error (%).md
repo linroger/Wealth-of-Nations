@@ -2,13 +2,6 @@
 tags: [sigma]
 title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ---
-# Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
-Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
-============================================================================
-
- May 19,  2016   by  [Goutham Balaraman](http://gouthamanbalaraman.com/author/goutham-balaraman.html)
-
- Share on: [Diaspora\*](https://sharetodiaspora.github.io/?title=Modeling%20Volatility%20Smile%20and%20Heston%20Model%20Calibration%20Using%20QuantLib%20Python&url=http%3A//gouthamanbalaraman.com/blog/volatility-smile-heston-model-calibration-quantlib-python.html "Share on Diaspora") / [Twitter](http://twitter.com/home?status=Modeling%20Volatility%20Smile%20and%20Heston%20Model%20Calibration%20Using%20QuantLib%20Python%20http%3A//gouthamanbalaraman.com/blog/volatility-smile-heston-model-calibration-quantlib-python.html "Share on Twitter") / [Facebook](http://www.facebook.com/sharer/sharer.php?u=http%3A//gouthamanbalaraman.com/blog/volatility-smile-heston-model-calibration-quantlib-python.html "Share on Facebook") / [Google+](https://plus.google.com/share?url=http%3A//gouthamanbalaraman.com/blog/volatility-smile-heston-model-calibration-quantlib-python.html "Share on Google Plus") / [Email](mailto:?subject=Modeling%20Volatility%20Smile%20and%20Heston%20Model%20Calibration%20Using%20QuantLib%20Python&body=http%3A//gouthamanbalaraman.com/blog/volatility-smile-heston-model-calibration-quantlib-python.html "Share via Email") / [Bloglovin](http://www.bloglovin.com/blog/14559547/?claim=cqravg9v4n2)
 
 Provides an introduction to constructing implied volatility surface consistent with the smile observed in the market and calibrating Heston model using QuantLib Python.
 

@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
+                "file": "Clippings/Strikes    Market Value     Model Value   Relative Error (%).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valuing Convertible Bonds Using QuantLib Python"
+              "title": "Strikes    Market Value     Model Value   Relative Error (%)"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
+                "file": "Clippings/Strikes    Market Value     Model Value   Relative Error (%).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Valuing Convertible Bonds Using QuantLib Python"
+              "title": "Backlinks for Strikes    Market Value     Model Value   Relative Error (%)"
             }
           }
         ],
@@ -240,9 +240,9 @@
   },
   "active": "564745512c8d50bb",
   "lastOpenFiles": [
-    "Clippings/Obsidian Web Clipper.md",
     "Clippings/Valuing Convertible Bonds Using QuantLib Python.md",
-    "Clippings/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Strikes    Market Value     Model Value   Relative Error (%).md",
     "Clippings/Clippings.md",
     "Clippings/Valuing Options on Commodity Futures Using QuantLib Python.md",
     "Clippings/Valuing Treasury Futures Using QuantLib Python.md",
