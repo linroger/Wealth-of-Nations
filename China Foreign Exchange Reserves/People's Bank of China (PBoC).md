@@ -70,4 +70,4 @@ The Huabei Bank,  Beihai Bank,  and Xibei Farmer Bank were merged to form the Pe
 
 ## The Bottom Line
 
-The People's Bank of China (PBOC) is China's central bank. Founded in 1948,  it manages the nation's monetary policy and financial stability,  serving as the exclusive issuer of the Chinese yuan. It also oversees foreign exchange reserves. The People's Bank of China impacts interest rates,  inflation,  and the overall stability of China's financial system.
+The People's Bank of China (PBOC) is China's central bank. Founded in 1948,  it manages the nation's monetary policy and financial stability,  serving as the exclusive issuer of the Chinese yuan. It also oversees [[China Foreign Exchange Reserves/Foreign Exchange Reserves.md|foreign exchange reserves]]. The People's Bank of China impacts interest rates,  inflation,  and the overall stability of China's financial system.

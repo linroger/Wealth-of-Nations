@@ -190,13 +190,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Pricing of Financial Instruments/Asset Price Dynamics.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asset Price Dynamics"
+              "title": "Squam Lake Group Letter"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Primers/Notes",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -369,14 +369,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md"
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Squam Lake Group Conclusions"
+              "title": "File properties for Squam Lake Group Letter"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -400,10 +400,10 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "b4bd318541cb23c6",
+  "active": "646b7cfa4cb674fd",
   "lastOpenFiles": [
-    "Financial Instruments/Pricing of Financial Instruments/Pricing of Financial Instruments.md",
     "Financial Instruments/Pricing of Financial Instruments/Asset Price Dynamics.md",
+    "Financial Instruments/Pricing of Financial Instruments/Pricing of Financial Instruments.md",
     "Financial Instruments/Financial Instruments.md",
     "Financial Instruments/Pricing of Financial Instruments",
     "Financial Engineering/1. DeterministicCashFlows.md",

@@ -1,11 +1,14 @@
+---
+title: Asset Price Dynamics
+---
 
 # Asset Price Dynamics
 
 ### Introduction
 
-These notes give assumptions of asset price returns that are derived from the efficient markets hypothesis. Although a hypothesis, there is widespread empirical evidence that broadly supports the hypothesis and therefore the assumptions made on the process governing asset price changes. Continuous time stochastic processes are discussed and the geometric Brownian motion model for stock price changes is derived. We first look at rates of return as if they are known for certain and then consider the realistic case that asset price returns are unknown in advance
+These notes give assumptions of asset price returns that are derived from the efficient markets hypothesis. Although a hypothesis,  there is widespread empirical evidence that broadly supports the hypothesis and therefore the assumptions made on the process governing asset price changes. Continuous time stochastic processes are discussed and the geometric Brownian motion model for stock price changes is derived. We first look at rates of return as if they are known for certain and then consider the realistic case that asset price returns are unknown in advance
 
-Keywords: continuously compounded rate of return, stochastic process, ran dom walk, martingale, Markov property Wiener process, geometric Brownian. Motion, Ito calculus
+Keywords: continuously compounded rate of return,  stochastic process,  ran dom walk,  martingale,  Markov property Wiener process,  geometric Brownian. Motion,  Ito calculus
 
 Reading: You should read Hull chapter 12 and perhaps the very first part of chapter 13.
 
@@ -23,15 +26,15 @@ It is important to know the rate of return. However to compare rates of return o
 
 ### Compound Rates of Return
 
-Compound interest rates are calculated by assuming that the principal (initial investment) plus interest is re-invested each period. Compounding might be done annually, semi-annually, quarterly, monthly or even daily. Assuming the re-investment is done after each period, the per-period interest rate 7 on the investment satisfies.
+Compound interest rates are calculated by assuming that the principal (initial investment) plus interest is re-invested each period. Compounding might be done annually,  semi-annually,  quarterly,  monthly or even daily. Assuming the re-investment is done after each period,  the per-period interest rate 7 on the investment satisfies.
 
 $$(1+r(T))=(1+r)^T.$$
 
-Now consider dividing up each period into 772 sub-periods each of length $\Delta t$ This is illustrated in Figure 1. Then if the compounding is done $7t$ times per period, the compound interest rate 7 satisfies
+Now consider dividing up each period into 772 sub-periods each of length $\Delta t$ This is illustrated in Figure 1. Then if the compounding is done $7t$ times per period,  the compound interest rate 7 satisfies
 
 $$(1+r(T))=(1+\frac{r}{n})^{nT}.$$
 
-For example consider a time period of one-year and suppose an investment of 100 that yields 120 after two years ( $T=2$ ) has a rate of return $r(2)=0.2$ If the interest rate is annualised using annual compounding ( $n=1$ ，T= 2)，then $r=0.09544$ ; with semi-annual compounding ( $n=2$ ， $T=2$ ）the annualised interest rate is $r=0.09327$ ;with quarterly compounding $n=4$ $T=2$ ）the annualised interest rate is $r=0.0922075$ etc
+For example consider a time period of one-year and suppose an investment of 100 that yields 120 after two years ( $T=2$ ) has a rate of return $r(2)=0.2$ If the interest rate is annualised using annual compounding ( $n=1$，T= 2)，then $r=0.09544$ ; with semi-annual compounding ( $n=2$，$T=2$）the annualised interest rate is $r=0.09327$ ;with quarterly compounding $n=4$ $T=2$）the annualised interest rate is $r=0.0922075$ etc
 
 ![](https://storage.simpletex.cn/view/ffUKgCmdWso8v4tb3oGTFqTNKagSg7q96)
 
@@ -42,7 +45,7 @@ Figure 1: DIVIDING A TIME INTERVAL $Tl$ SUB-PERIODS
 Suppose that compounding is done $7t.$ times per period and let the length of time between compounding be denoted by $\Delta t=\frac{1}{n}$ . Continuous compounding occurs as $\Delta t\rightarrow0$ or equivalently as $n\to0$ .In this case the compounding factor $T$ satisfies
 $$(1+\frac{r}{n})^{nT}=(1+r\Delta t)^{\frac{T}{\Delta t}}.$$
 
-Let $m=\frac{1}{r\Delta t}$ , then
+Let $m=\frac{1}{r\Delta t}$ ,  then
 
 $$(1+r\Delta t)^{\frac{T}{\Delta t}}=(1+\frac{1}{m})^{mrT}=\left((1+\frac{1}{m})^{m}\right)^{rT}.$$
 
@@ -71,7 +74,7 @@ This is known as the continuously compounded rate of return
 
 ### The Continuously Compounded Rate of Return
 
-The continuously compounded rate of return has the property that longer period rates of return canbe computed simply by adding shorter continuously compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7t$ denote the continuously compounded rate ofreturn from period $t$ to $t+1$ ,that is
+The continuously compounded rate of return has the property that longer period rates of return canbe computed simply by adding shorter continuously compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7t$ denote the continuously compounded rate ofreturn from period $t$ to $t+1$ , that is
 $$r_t=\ln\left(\frac{B_{t+1}}{B_t}\right)$$
 
 where $B_{t}$ is the value of the asset at time $t$ .Let $r(T)$ denote the continuously compounded rate of return over the period 0 to $T$
@@ -138,7 +141,7 @@ and so the standard deviation is $\sigma_{2}={\sqrt{2}}$
 
 ### A Stochastic Process for Asset Prices
 
-The efficient markets hypothesis implies that all relevant information is rapidly assimilated into asset prices. Thus asset prices will respond only to new information (news) and since news is essentially unforecastable so to are asset prices. The efficient market hypothesis also implies that it is impossible to consistently make abnormal profits by trading on publically available information and in particular the past history of asset prices. Thus only the current asset price is relevant in predicting future prices and past prices are irrelevant. This property is know as the Markov property for stock prices. If we add a further assumption that the variability of asset prices is roughly constant over time, then the asset price is said to follow a random walk. This was true of our coin tossing example above.
+The efficient markets hypothesis implies that all relevant information is rapidly assimilated into asset prices. Thus asset prices will respond only to new information (news) and since news is essentially unforecastable so to are asset prices. The efficient market hypothesis also implies that it is impossible to consistently make abnormal profits by trading on publically available information and in particular the past history of asset prices. Thus only the current asset price is relevant in predicting future prices and past prices are irrelevant. This property is know as the Markov property for stock prices. If we add a further assumption that the variability of asset prices is roughly constant over time,  then the asset price is said to follow a random walk. This was true of our coin tossing example above.
 
 Let $u_{t}$ denote the randomrate of return from period $t$ to $t+1$ .Then
 
@@ -152,7 +155,7 @@ The return $ut$ is now random because the future asset price is unknown. It can 
 
 $$\ln S_{t+1}=\ln S_t+\ln(1+u_t).$$
 
-We can then see how the stochastic process for the asset price evolves. Sup pose we start from a given value $S_{0}$ ,then
+We can then see how the stochastic process for the asset price evolves. Sup pose we start from a given value $S_{0}$ , then
 
 $$\begin{aligned}
 &\ln S_{1} =\ln S_0+\ln(1+u_0) \\
@@ -168,7 +171,7 @@ $$\ln S_T=\ln S_0+\sum_{i=0}^{T-1}\omega_i.$$
 
 We shall assume that $\omega_{t}$ is a random variable which is identically and independently distributed and such that the expected value $\operatorname { E} [ \omega _{t}]$ = $\nu$ and variance $\operatorname{Var}[\omega_{t}]=\sigma^{2}$ .There is a great deal of evidence to support the assumption that $w_{t}$ is independently and identically distributed and over short time horizons. It is also usually reasonable to assume that the expected value $V$ and variance $\sigma^{2}$ are independent of time for the short time horizons that we normally consider in pricing options.
 
-We shall make a further assumption that each $\omega_{t}$ is normally distributed Since the sum of randomly distributed random variables is normally distributed, and since $S_{0}$ is known the natural logarithm of the asset price will also be normally distributed. Taking expectations we can therefore show that
+We shall make a further assumption that each $\omega_{t}$ is normally distributed Since the sum of randomly distributed random variables is normally distributed,  and since $S_{0}$ is known the natural logarithm of the asset price will also be normally distributed. Taking expectations we can therefore show that
 
 $$\mathrm{E}[\ln S_T]=\ln S_0+\nu T$$
 
@@ -201,7 +204,7 @@ We have seen that $\ln S_{T}$ is normally distributed with mean (expected value)
 
 Figure 4: A LOGNORMAL DISTRIBUTION
 
-Which has a standard normal distribution with mean of zero and standard deviation of one. Such avariable is called a standard normalvariable. To make this transformation, we subtract the mean and divide by the standard deviation (square root of the variance). Thus
+Which has a standard normal distribution with mean of zero and standard deviation of one. Such avariable is called a standard normalvariable. To make this transformation,  we subtract the mean and divide by the standard deviation (square root of the variance). Thus
 
 $$\frac{\ln S_T-\ln S_0-\nu T}{\sigma\sqrt{T}}$$
 
@@ -226,7 +229,7 @@ This value is known as the geometric mean. It is another measure of the average 
 
 mean as $\nu=0.195826$ or $19.58\%$ per period² which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the arithmetic mean return, the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
+There is a simple relationship between the arithmetic mean return,  the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
 
 $$\begin{matrix}1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2\end{matrix}$$
 
@@ -234,7 +237,7 @@ Or
 
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
 
-Since rates of return are typically less than one, the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ O 1
+Since rates of return are typically less than one,  the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ O 1
 
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
@@ -268,11 +271,11 @@ Hence the standard deviation of $V$ is simply $\sigma/{\sqrt{T}}$
 
 We will now consider the stochastic process in more detail and see how to take limits as the length of the time interval goes to zero. This will produce a continuous time stochastic process.
 
-Consider a variable $iL$ which takes on values at discrete points in time $t=0,1,\ldots, T$ and suppose that $Z$ evolvesaccording to the following rule:
+Consider a variable $iL$ which takes on values at discrete points in time $t=0, 1, \ldots,  T$ and suppose that $Z$ evolvesaccording to the following rule:
 
 $$z_{t+1}=z_{t}+\epsilon;\quad W_{0}\quad\mathrm{fixed}$$
 
-Where $t$ is a random drawing from a standardized normal distribution, that is with mean of zero and variance of one. The draws are assumed to be independently distributed. This represents a random walk where on average $iL$ remains unchanged each period but where the standard deviation of the realized value is one each period. At date $t=0$ ,we have $E[z_{T}]=z_{0}$ and the variance $Var[z_{T}]=T$ as the draws are independent.
+Where $t$ is a random drawing from a standardized normal distribution,  that is with mean of zero and variance of one. The draws are assumed to be independently distributed. This represents a random walk where on average $iL$ remains unchanged each period but where the standard deviation of the realized value is one each period. At date $t=0$ , we have $E[z_{T}]=z_{0}$ and the variance $Var[z_{T}]=T$ as the draws are independent.
 
 Now divide the periods into $TL$ subperiods each of length $\Delta t$ .To keep the process equivalent the variance in the shock must also be reduced so that the standard deviation is $\sqrt{\Delta t}$ .The resulting process isknown as aWiener process. The Wiener process has two important properties:
 
@@ -302,7 +305,7 @@ $$\mathrm{Var}[z (T)]=N\Delta t=T$$
 
 Or the standard deviation of $z (T)$ is $\sqrt{T}$
 
-Now consider what happens in the limit as $\Delta t\to 0$ ,that is as the length of the interval becomes an infinitesimal $dt$ .We replace $\Delta z (t+\Delta t)$ by $dz (t)$
+Now consider what happens in the limit as $\Delta t\to 0$ , that is as the length of the interval becomes an infinitesimal $dt$ .We replace $\Delta z (t+\Delta t)$ by $dz (t)$
 
 Which has a mean of zero and standard deviation of $dt$ .This continuous time stochastic process is also known as Brownian Motion after its use in physics to describe the motion of particles subject to a large number of small molecular shocks
 
@@ -310,7 +313,7 @@ This process is easily generalized to allow for a non-zero mean and arbitrary st
 
 $$dx=a\:dt+b\:dz$$
 
-where $U.$ and $b$ are constants. This formula for the change in the value of ${:}L$ consists of two components, a deterministic component adt and a stochastic component $b$ $dz ( t)$ .The deterministic component is $dx= a$ $dt$ or $\frac {dx}{dt}$ = $a$ which shows that $x$ = $x_{0}+ at$ so that $d.$ is simply the trend term for $JL$ Thus the increase in the value of ${:}\boldsymbol{L}$ over one time period is $d$ .The stochastic component $b$ $dz ( t)$ adds noise or variability to the path for $2 L$ .The amount of variability added is $b$ times the Wiener process. Since the Wiener process has a standard deviation of one the generalizedprocess has a standard deviation of $b$
+where $U.$ and $b$ are constants. This formula for the change in the value of ${:}L$ consists of two components,  a deterministic component adt and a stochastic component $b$ $dz ( t)$ .The deterministic component is $dx= a$ $dt$ or $\frac {dx}{dt}$ = $a$ which shows that $x$ = $x_{0}+ at$ so that $d.$ is simply the trend term for $JL$ Thus the increase in the value of ${:}\boldsymbol{L}$ over one time period is $d$ .The stochastic component $b$ $dz ( t)$ adds noise or variability to the path for $2 L$ .The amount of variability added is $b$ times the Wiener process. Since the Wiener process has a standard deviation of one the generalizedprocess has a standard deviation of $b$
 
 ### The Asset Price Process
 
@@ -340,19 +343,19 @@ $$\frac{dS (t)}{S (t)}=\left (\nu+\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 This is a special case of Ito's lemma. Ito's lemma shows that for any process of the form
 
-$$dx=a (x, t) dt+b (x, t) dz$$
+$$dx=a (x,  t) dt+b (x,  t) dz$$
 
-Then the function $G (x, t)$ follows the process
+Then the function $G (x,  t)$ follows the process
 
-$$dG=\left (\frac{\partial G}{\partial x}a (x, t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x, t)\right) dt+\frac{\partial G}{\partial x}b (x, t) dz.$$
+$$dG=\left (\frac{\partial G}{\partial x}a (x,  t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,  t)\right) dt+\frac{\partial G}{\partial x}b (x,  t) dz.$$
 
 We'll see how to use Ito's lemma. We have
 
 $$d\:\ln S (t)=\nu\:dt+\sigma\: dz.$$
 
-Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x, t)=e^{x}$ . Then upon differentiating
+Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,  t)=e^{x}$ . Then upon differentiating
 
-$$\frac{\partial G}{\partial x}=e^x=S,\quad\frac{\partial^2 G}{\partial S^2}=e^x=S,\quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial x}=e^x=S, \quad\frac{\partial^2 G}{\partial S^2}=e^x=S, \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence using Ito's lemma
 $$dS (t)=(\nu S (t)+0+\frac{1}{2}\sigma^{2}S (t)) dt+\sigma S (t)\:dz$$ or
@@ -373,7 +376,7 @@ $$ds (t)=\mu S (t)\:dt+\sigma S (s)\: dz.$$
 
 Now consider the function $G (S)=\ln S$ . Differentiating we have
 
-$$\frac{\partial G}{\partial S}=1,\quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},\quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial S}=1, \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2}, \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence substituting into Ito's lemma we get
 
@@ -381,9 +384,9 @@ $$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 ### The forward price
 
-As wehave seen before the forwardprice just depends on the current price of the underlying, the interest rate and the time to expiration. With continuous compounding we can write the forward price equation as
+As wehave seen before the forwardprice just depends on the current price of the underlying,  the interest rate and the time to expiration. With continuous compounding we can write the forward price equation as
 
-$$F (S (t), t)=S (t) e^{r (T-t)}.$$
+$$F (S (t),  t)=S (t) e^{r (T-t)}.$$
 
 This shows the forward price is a stochastic process which depends on the price of the underlying asset which itself is a stocastic process. Since we have that the forward price is a function of a stochastic process we can use Ito's lemma. Upon differentiation we have
 

@@ -1,7 +1,7 @@
 ---
 title: Week 7 Advanced Financial Analysis and Valuation
 ---
-# Week 7 Advanced Financial Analysis and Valuation
+# [[Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 7/Week 7.md|Week 7]] [[Advanced Financial Analysis and Valuation/Advanced Financial Analysis and Valuation.md|Advanced Financial Analysis and Valuation]]
 
 %% Begin Waypoint %%
 

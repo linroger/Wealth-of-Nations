@@ -1,7 +1,13 @@
 ---
-aliases: [Notes,  Example_Alias_Squam Lake Group Letter,  Chapter 1 Introduction,  Alias_53_Squam Lake Group Letter.md]
-linter-yaml-title-alias: Notes
-tags: [tag_example,  example_tag]
+aliases:
+  - Notes
+  - Example_Alias_Squam Lake Group Letter
+  - Chapter 1 Introduction
+  - Alias_53_Squam Lake Group Letter.md
+linter-yaml-title-alias: 
+tags:
+  - tag_example
+  - example_tag
 title: Squam Lake Group Letter
 ---
 
