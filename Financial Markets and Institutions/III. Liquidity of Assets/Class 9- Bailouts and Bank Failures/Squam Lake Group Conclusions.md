@@ -1,15 +1,8 @@
 ---
-aliases:
-- Alias_63_Squam Lake Group Conclusions.md
-- Example_Alias_Squam Lake Group Conclusions
-tags:
-- tag_example
-- example_tag
+aliases: [Alias_63_Squam Lake Group Conclusions.md,  Example_Alias_Squam Lake Group Conclusions]
+tags: [tag_example,  example_tag]
 title: Squam Lake Group Conclusions
 ---
-
-
-
 
 # Squam Lake Group Conclusions
 
@@ -68,7 +61,7 @@ Public accounts of its demise emphasize the disagreement within the firm over wh
 To have had more capital in the months and years leading up to the crisis. Our regulatory hybrid securities (Chapter 7) could also have been issued by Bear Stearns and converted in time to reduce its interest payments and debt overhang problems during this difficult time.
 
 Second,  our proposal for compensation holdbacks (Chapter 6) would have provided an additional buffer against taxpayer losses when Bear Stearns failed. It might also have changed the discussions within the firm about whether to cut risk exposure and raise capital during the early stages of the World Financial Crisis. In the five years before it was absorbed by J.P. Morgan,  Bear Stearns paid over $17 billion in employee compensation and benefits. Our proposal for compensation holdbacks might have set aside
-$2 billion or more of this total. 3 In the Bear Stearns rescue,  the Federal Reserve provided J.P. Morgan protection against losses on roughly $30 billion of Bear Stearns' hardto-value securities. This guarantee was structured so that the Fed had a senior loan against the assets of $28.8 billion and J.P. Morgan had a junior loan of $1.15 billion. As of December 31,   2009,   the fair-market value of these securities had fallen to $27.2 billion. Thus,  compensation holdbacks would have materially reduced the Fed's risk on this loan.
+$2 billion or more of this total. 3 In the Bear Stearns rescue,  the Federal Reserve provided J.P. Morgan protection against losses on roughly $30 billion of Bear Stearns' hardto-value securities. This guarantee was structured so that the Fed had a senior loan against the assets of $28.8 billion and J.P. Morgan had a junior loan of $1.15 billion. As of December 31,    2009,    the fair-market value of these securities had fallen to $27.2 billion. Thus,  compensation holdbacks would have materially reduced the Fed's risk on this loan.
 
 At the time of Bear Stearns' takeover,  its employees were estimated to have held more than 30 percent of its outstanding shares. Thus,  Bear Stearns seems to have satisfied the often heard corporate-governance proposal for improving the incentives of executives by making employees hold their firm's shares. As we explain in Chapter 6,  however,  the key compensation issue from the perspective of systemic risk is not better aligning the incentives of managers with shareholders' incentives. Managers who receive stock become more aligned with stockholders,  but this does not align them with society.
 
@@ -102,7 +95,7 @@ Most important,  had our proposals been in place and understood,  expectations o
 
 ## American International Group
 
-AIG's regulators were ill-equipped to understand the workings of AIG Financial Products,  the subsidiary that wrote the derivatives that played a critical role in AIG's problems. AIG's financing crisis arose because many of its derivative contracts forced it to post large amounts of additional collateral if its credit ratings from Moody's and Standard and Poor's were downgraded. When AIG's ratings were downgraded in September 2008 in the wake of Lehman's failure,  AIG was required to post more than $13 billion in collateral. Although failure to post the collateral would have meant AIG was in default on its contracts,   it was not able to raise funds quickly enough to do so. AIG had written more than $375 billion in credit default swaps,  including $70 billion on CDOs,  and was a significant counterparty to many of the financial system's most important firms. Its default would have led to significant losses for many of them. To prevent AIG's default,  authorities rescued the firm the day after Lehman's bankruptcy.
+AIG's regulators were ill-equipped to understand the workings of AIG Financial Products,  the subsidiary that wrote the derivatives that played a critical role in AIG's problems. AIG's financing crisis arose because many of its derivative contracts forced it to post large amounts of additional collateral if its credit ratings from Moody's and Standard and Poor's were downgraded. When AIG's ratings were downgraded in September 2008 in the wake of Lehman's failure,  AIG was required to post more than $13 billion in collateral. Although failure to post the collateral would have meant AIG was in default on its contracts,    it was not able to raise funds quickly enough to do so. AIG had written more than $375 billion in credit default swaps,  including $70 billion on CDOs,  and was a significant counterparty to many of the financial system's most important firms. Its default would have led to significant losses for many of them. To prevent AIG's default,  authorities rescued the firm the day after Lehman's bankruptcy.
 
 A systemic regulator armed with the information and tools we propose could in many ways have helped AIG,  taxpayers,  and the overall financial system. Because of AIG's size,  it would have faced substantially higher capital requirements as it grew in the years preceding the crisis (Chapter 5). Our proposed information infrastructure would have revealed its burgeoning unhedged CDS positions—information that,  in turn,  could have triggered the systemic regulator to initiate risk-control conversations with AIG management long before the fateful Lehman bankruptcy
 (Chapter 3). The regulators overseeing AIG Financial Products had no reason to consider how a failure of AIG would affect its counterparties,  but a systemic regulator would have been responsible for assessing the firm's interactions with other systemically important institutions. AIG's living will would have discussed obvious distress scenarios—one of which likely would have been a rating-agency downgrade (Chapter 8). Compensation holdbacks might have raised the incentive of key AIG managers to limit the firm's growing risk (Chapter 6). Finally,  by giving AIG an incentive to use and clear standardized CDS contracts,  our recommendations would have reduced AIG's systemic importance
@@ -127,8 +120,7 @@ Finally,  our proposals would have their greatest benefit when they alter the be
 ## Bibliography
 
 1. See,  for example,  SEC Office of Inspector General,  SEC's Oversight of Bear Stearns and Related Entities: The Consolidated Supervised Entity Program,  SEC Report 446-A,  September 25,  2008. This report would have received greater public attention had it not been released at the height of the World Financial Crisis.
-1. Kate Kelly,  "Lost Opportunities Haunt Final Days of Bear Stearns: Executives Bickered Over Raising Cash,  Cutting Mortgages,  " *Wall Street Journal*, May 27,  2008,  A 1.
-
+1. Kate Kelly,  "Lost Opportunities Haunt Final Days of Bear Stearns: Executives Bickered Over Raising Cash,  Cutting Mortgages,  " *Wall Street Journal*,  May 27,  2008,  A 1.
 1. Compensation data taken from page 130 of the November 2007 Bear Stearns SEC 10 K filing,  http://www.bearstearns.com/includes/pdfs/ investor_relations/proxy/10 k 2007. Pdf.
 1. Alan Greenspan,  "Proposals for Improving the Regulation of the Housing Government Sponsored Enterprises,  " February 24,  2004,  testimony to the Committee on Banking,  Housing and Urban Affairs,  U.S. Senate,  108 th Cong.,  1 st sess.,  www.federalreserve.gov/boarddocs/testimony/ 2004/20040224/default. Htm.
 1. "The Specter of Lehman Shadows Trade Partners: Derivatives Pacts Remain in Limbo for Municipalities,  Firms,  " *Wall Street Journal*,  September 17,  2009,  C 1,  http://online.wsj.com/article/SB125313981633417557.html.
