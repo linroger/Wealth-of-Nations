@@ -190,13 +190,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Pricing of Financial Instruments/Untitled.md",
+                "file": "Financial Instruments/Pricing of Financial Instruments/Asset Price Dynamics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Asset Price Dynamics"
             }
           },
           {
@@ -403,7 +403,7 @@
   "active": "b4bd318541cb23c6",
   "lastOpenFiles": [
     "Financial Instruments/Pricing of Financial Instruments/Pricing of Financial Instruments.md",
-    "Financial Instruments/Pricing of Financial Instruments/Untitled.md",
+    "Financial Instruments/Pricing of Financial Instruments/Asset Price Dynamics.md",
     "Financial Instruments/Financial Instruments.md",
     "Financial Instruments/Pricing of Financial Instruments",
     "Financial Engineering/1. DeterministicCashFlows.md",

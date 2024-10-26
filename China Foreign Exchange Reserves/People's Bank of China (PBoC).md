@@ -30,7 +30,7 @@ The People's Bank of China (PBoC) is the [central bank](https://www.investopedia
 - Administering the credit reporting industry
 - Performing any other functions the State Council dictates1
 
-The PBoC’s foreign exchange reserves have grown to $3.2 trillion in mid-2022 which is the result of a consistently positive [balance of payments](https://www.investopedia.com/terms/b/bop.asp) (BOP) over the years. Its total reserves fell from $3.4 trillion in January 2022 to $2.5 trillion in mid-2022.2
+The PBoC’s [[China Foreign Exchange Reserves/Foreign Exchange Reserves.md|foreign exchange reserves]] have grown to $3.2 trillion in mid-2022 which is the result of a consistently positive [balance of payments](https://www.investopedia.com/terms/b/bop.asp) (BOP) over the years. Its total reserves fell from $3.4 trillion in January 2022 to $2.5 trillion in mid-2022.2
 
 ## History of the PBoC
 
@@ -40,7 +40,7 @@ In September 1983,  the State Council decided that the PBoC should become the ce
 
 ## Responsibilities of the PBoC
 
-The PBoC is responsible for drafting laws and regulations for its financial functions,  including implementing monetary policy to maintain financial stability and economic growth in China. Additional responsibilities involve setting interest rates,  regulating financial markets,  issuing the Renminbi currency for circulation,  regulating interbank lending and the interbank [bond](https://www.investopedia.com/terms/b/bond.asp) market,  managing foreign exchange,  and recording foreign currency transactions0.\1
+The PBoC is responsible for drafting laws and regulations for its financial functions,  including implementing monetary policy to maintain financial stability and economic growth in China. Additional responsibilities involve setting interest rates,  regulating financial markets,  issuing the Renminbi currency for circulation,  regulating interbank lending and the interbank [bond](https://www.investopedia.com/terms/b/bond.asp) market,  managing [[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Foreign Exchange Quoting Conventions.md|foreign exchange]],  and recording foreign currency transactions0.\1
 
 Public companies in China are funded by the PBoC. Funding for companies was previously provided through [grant](https://www.investopedia.com/terms/g/grant.asp) transfers by the state. The State-Owned Bank,  under the direct supervision of the PBoC,  manages grant transfer operations. The bank is run by a board of directors. The PBoC is run by Governor Yi Gang,  five deputy governors,  and a chief inspector0.\1
 

@@ -1,4 +1,4 @@
-# Untitled
+
 # Asset Price Dynamics
 
 ### Introduction
@@ -17,8 +17,6 @@ The rate of return is simply the end value less the initial value as a proportio
 
 $$r(T)=\frac{B_T-B_0}{B_0}$$
 
-------------------------------------------------------------------
-
 or equivalently the rate of return $r(T)$ satisfies $B_{T}=B_{0}(1+r(T))$
 
 It is important to know the rate of return. However to compare rates of return on different investments with different time horizons it is also important to have a measure of the rate of return per period. One method of making this comparison is to use continuously compounded rates of return. To explain this we first consider compound returns and then show what happens when the compounding is continuous.
@@ -35,8 +33,6 @@ $$(1+r(T))=(1+\frac{r}{n})^{nT}.$$
 
 For example consider a time period of one-year and suppose an investment of 100 that yields 120 after two years ( $T=2$ ) has a rate of return $r(2)=0.2$ If the interest rate is annualised using annual compounding ( $n=1$ ，T= 2)，then $r=0.09544$ ; with semi-annual compounding ( $n=2$ ， $T=2$ ）the annualised interest rate is $r=0.09327$ ;with quarterly compounding $n=4$ $T=2$ ）the annualised interest rate is $r=0.0922075$ etc
 
-------------------------------------------------------------------
-
 ![](https://storage.simpletex.cn/view/ffUKgCmdWso8v4tb3oGTFqTNKagSg7q96)
 
 Figure 1: DIVIDING A TIME INTERVAL $Tl$ SUB-PERIODS
@@ -49,8 +45,6 @@ $$(1+\frac{r}{n})^{nT}=(1+r\Delta t)^{\frac{T}{\Delta t}}.$$
 Let $m=\frac{1}{r\Delta t}$ , then
 
 $$(1+r\Delta t)^{\frac{T}{\Delta t}}=(1+\frac{1}{m})^{mrT}=\left((1+\frac{1}{m})^{m}\right)^{rT}.$$
-
-------------------------------------------------------------------
 
 As we let the interval between compounding $\Delta t$ gotozero then $TIl\longrightarrow\mathcal{X}$ The limit of (1+) m as $TIl\to\mathbb{X}$ is well known. In particular we have
 
@@ -77,11 +71,7 @@ This is known as the continuously compounded rate of return
 
 ### The Continuously Compounded Rate of Return
 
-The continuously compounded rate of return has the property that longer period rates of return canbe computed simply by adding shorter continuousl
-
-------------------------------------------------------------------
-
-compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7t$ denote the continuously compounded rate ofreturn from period $t$ to $t+1$ ,that is
+The continuously compounded rate of return has the property that longer period rates of return canbe computed simply by adding shorter continuously compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7t$ denote the continuously compounded rate ofreturn from period $t$ to $t+1$ ,that is
 $$r_t=\ln\left(\frac{B_{t+1}}{B_t}\right)$$
 
 where $B_{t}$ is the value of the asset at time $t$ .Let $r(T)$ denote the continuously compounded rate of return over the period 0 to $T$
@@ -104,8 +94,6 @@ Let $Tt$ denote the rate of return between $t$ and $t+1$ .Then over any sub inte
 
 $$B_{t+\Delta t}=(1+r_t\Delta t)B_t.$$
 
-------------------------------------------------------------------
-
 Then taking the limit as $\Delta t\to0$ wehave $B_{t+\Delta t}-B_{t}\rightarrow dB(t)$ where $B(t)$ is the price at time $t$ and $\Delta t\to dt$ .Hence we can write
 
 $$dB(t)=r_tB(t)dt$$
@@ -127,11 +115,7 @@ We have assumed so far that the rate of return was known so that we were dealing
 
 ## A Coin Tossing Example
 
-To examine the form that uncertain returns may take it is useful to think first of a very simple stochastic process. This we have already seen as the binomial model is itself a stochastic process. As an example consider the case of tossing a fair coin where one unit is won if the coin ends up Heads
-
-------------------------------------------------------------------
-
-And one unit is lost if the coin ends up Tails. An example of the possible payoffs for a particular sequence of Heads and Tails is illustrated in Figure 2.
+To examine the form that uncertain returns may take it is useful to think first of a very simple stochastic process. This we have already seen as the binomial model is itself a stochastic process. As an example consider the case of tossing a fair coin where one unit is won if the coin ends up Heads and one unit is lost if the coin ends up Tails. An example of the possible payoffs for a particular sequence of Heads and Tails is illustrated in Figure 2.
 
 ![](https://storage.simpletex.cn/view/f9zZHpUNI5vVPMghAudPcVfdyHyt83qg5)
 
@@ -142,8 +126,6 @@ The important properties of this example are that the distribution of returns ar
 There are some important implications to note about this process. First let $\mathcal{L}_{t}$ denote the winnings on the $t$ th toss. Wehave $x_{0}=0$ and $\operatorname{E}[x_{1}]=0$ where $\operatorname{E}[x_{t}]$ denotes the expected winnings at date $t$ .Then we also have at any date
 
 $$\mathrm{E}[x_{t+1}]=x_t.$$
-
-------------------------------------------------------------------
 
 Any process with this property is said to be a martingale. Another important property is that the variance of $JL$ is increasing proportionately to the number of tosses. In particular letting $\sigma_{t}^{2}$ denote the variance of the winnings at the $t$ th toss we have $\sigma_{t}^{2}=t$ or in terms of the standard deviation (the square root of the variance
 $$\sigma_t=\sqrt{t}.$$
@@ -162,8 +144,6 @@ Let $u_{t}$ denote the randomrate of return from period $t$ to $t+1$ .Then
 
 $$S_{t+1}=(1+u_t)S_t.$$
 
-------------------------------------------------------------------
-
 ![](https://storage.simpletex.cn/view/fPnzp8bayxqdOsGO0OdTnCWbEFLrK1zc5)
 
 Figure 3: COIN TOSSING EXAMPLE: THE VARIANCE IS PROPORTIONAL TOTIME
@@ -171,8 +151,6 @@ Figure 3: COIN TOSSING EXAMPLE: THE VARIANCE IS PROPORTIONAL TOTIME
 The return $ut$ is now random because the future asset price is unknown. It can be considered as a random shock or disturbance. Taking natural logarithm of both sides gives
 
 $$\ln S_{t+1}=\ln S_t+\ln(1+u_t).$$
-
-------------------------------------------------------------------
 
 We can then see how the stochastic process for the asset price evolves. Sup pose we start from a given value $S_{0}$ ,then
 
@@ -198,8 +176,6 @@ And
 
 $$\mathrm{Var}[\ln S_T]=\sigma^2T.$$
 
-------------------------------------------------------------------
-
 Since the logarithm of the asset price is normally distributed the asset price itself is said to be lognormally distributed. In practice when one looks at the empirical evidence asset prices are reasonably closely lognormally distributed
 
 ### Lognormal Random Variable
@@ -221,8 +197,6 @@ so that $\mu$ is the expected continuously compounded rate of return. We will ex
 
 We have seen that $\ln S_{T}$ is normally distributed with mean (expected value) of $\ln S_{0}+\nu T$ and variance of $\sigma^{2}T$ .It is useful to transform this to a variable
 
-------------------------------------------------------------------
-
 ![](https://storage.simpletex.cn/view/f27aoMy9u0h6n2n43RygODDQq14wOut9V)
 
 Figure 4: A LOGNORMAL DISTRIBUTION
@@ -233,7 +207,6 @@ $$\frac{\ln S_T-\ln S_0-\nu T}{\sigma\sqrt{T}}$$
 
 is a standard normal variable. We let $N(x)$ denote the cumulative probability that the standard normal variable is less than or equal to $JL$ .A standard normal distribution is drawn in Figure 5. It can be seen that $N(0)=0.5$ as the normal distribution is symmetric and half the distribution is to the left of the mean value of zero. It also follows from symmetry that if $x>0$ then $1-N(x)=N(-x)$ .We will use this property later when we look at the Black-Scholes formula.
 
-------------------------------------------------------------------
 
 ![](https://storage.simpletex.cn/view/fImKzLbWz40TylI7fUX6pKP3qgr8SpTO9)
 
@@ -301,8 +274,6 @@ $$z_{t+1}=z_{t}+\epsilon;\quad W_{0}\quad\mathrm{fixed}$$
 
 Where $t$ is a random drawing from a standardized normal distribution, that is with mean of zero and variance of one. The draws are assumed to be independently distributed. This represents a random walk where on average $iL$ remains unchanged each period but where the standard deviation of the realized value is one each period. At date $t=0$ ,we have $E[z_{T}]=z_{0}$ and the variance $Var[z_{T}]=T$ as the draws are independent.
 
-------------------------------------------------------------------
-
 Now divide the periods into $TL$ subperiods each of length $\Delta t$ .To keep the process equivalent the variance in the shock must also be reduced so that the standard deviation is $\sqrt{\Delta t}$ .The resulting process isknown as aWiener process. The Wiener process has two important properties:
 
 Property 1 The change in $iL$ over a small interval of time satisfies:
@@ -333,8 +304,6 @@ Or the standard deviation of $z (T)$ is $\sqrt{T}$
 
 Now consider what happens in the limit as $\Delta t\to 0$ ,that is as the length of the interval becomes an infinitesimal $dt$ .We replace $\Delta z (t+\Delta t)$ by $dz (t)$
 
-------------------------------------------------------------------
-
 Which has a mean of zero and standard deviation of $dt$ .This continuous time stochastic process is also known as Brownian Motion after its use in physics to describe the motion of particles subject to a large number of small molecular shocks
 
 This process is easily generalized to allow for a non-zero mean and arbitrary standard deviation. A generalized Wiener process for a variable $3 L$ is defined in terms of $dz (t)$ as follows
@@ -355,7 +324,7 @@ $$d\:\ln S (t)=\nu\:dt+\sigma\:dz$$
 
 Where Z is a standard Wiener process. The right-hand-side of the equation is just a random variable that is evolving through time. The term $V$ is called the
 
-------------------------------------------------------------------
+
 
 Drift parameter and the standard deviation of the continuously compounded rate of return is $\sqrt{Var[r (t)]}=\sigma\sqrt{\Delta t}$ and the term $U$ is referred to as the volatility of the asset return.
 
@@ -386,12 +355,7 @@ Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x, t)=e^{x}$ . Then upon differentiatin
 $$\frac{\partial G}{\partial x}=e^x=S,\quad\frac{\partial^2 G}{\partial S^2}=e^x=S,\quad\frac{\partial G}{\partial t}=0.$$
 
 Hence using Ito's lemma
-
-$$dS (t)=(\nu S (t)+0+\frac{1}{2}\sigma^{2}S (t)) dt+\sigma S (t)\:dz$$
-
-------------------------------------------------------------------
-
-Or
+$$dS (t)=(\nu S (t)+0+\frac{1}{2}\sigma^{2}S (t)) dt+\sigma S (t)\:dz$$ or
 
 $$d\: S (t)=(\nu+\frac 12\sigma^2) S (t)\:dt+\sigma S (t)\:dz$$
 
