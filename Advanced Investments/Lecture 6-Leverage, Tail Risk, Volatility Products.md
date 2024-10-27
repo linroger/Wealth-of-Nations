@@ -12,7 +12,7 @@ A good example is the risk parity strategy that we looked at in lecture 2. Back 
 
 Because the risk parity strategy has high weights in bonds,  which have relatively low volatility,  the overall volatility of the risk parity portfolio is quite low if the weights are scaled to sum up to one. Over the last 30 years,  the annualized volatility was $6.92 \%$ with an annualized mean excess return of $4.95 \%$. The volatility of this portfolio is much lower than the volatility of the stock index,  which was $15.31 \%$ over the same time period,  with mean excess return of $8.02 \%$. This means that an investor who,  given their level of risk aversion,  would be comfortable holding a portfolio with volatility equal to the stock index volatility,  would find the risk parity portfolio to be insufficiently risky and would want to take on leverage to increase the risk and return of the risk parity portfolio. Indeed,  investment managers offering risk parity funds often lever up the risk parity portfolio so that it achieves a level of volatility comparable to the stock index volatility.
 
-How much leverage do we need to get it up to $15 \%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$,  we have portfolio variance $\operatorname{var}\left(R_{p,      t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So,  in terms of standard deviations,  and with $R_{t}$ now the return of the risk parity portfolio,  we are looking for an $\omega$ that delivers
+How much leverage do we need to get it up to $15 \%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$,  we have portfolio variance $\operatorname{var}\left(R_{p,       t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So,  in terms of standard deviations,  and with $R_{t}$ now the return of the risk parity portfolio,  we are looking for an $\omega$ that delivers
 
 $$
 
@@ -70,7 +70,7 @@ Before we look at risk and return consequences,  it's useful to first look in mo
 ![](app://2d50da59b996e9c682dfb2698e680a3d659c/Users/rogerlin/Wealth%20of%20Nations/Attachments/Paste%202024-10-24%2010.37.00.png?1729791521765)
 Suppose you want to buy $2 \mathrm{~m}$ of stocks,  but financed with borrowed money,  to the extent possible. The most direct way of doing this is to obtain a margin loan from a broker. The broker takes the assets in the account,  including the stocks bought with the margin loan,  as collateral.
 
-The maximum the broker will lend is less than the total amount of collateral available in the account. The difference is the margin requirement,  or the haircut. For example,  with a $50 \%$ initial margin requirement,  the broker will require a $50 \%$ equity contribution from you. In this example,  if you want a initiate a position of $2 \mathrm{~m}$ worth of stocks as the total assets in your account,  you will need to make an equity contribution of $2 \mathrm{~m}$ $\times 0.50=$ 1 \mathrm{~m}$. Hence,   the broker will provide provide at most $2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 1 \mathrm{~m}$ of margin loans for this portfolio of $2 \mathrm{~m}$ worth of stocks.
+The maximum the broker will lend is less than the total amount of collateral available in the account. The difference is the margin requirement,  or the haircut. For example,  with a $50 \%$ initial margin requirement,  the broker will require a $50 \%$ equity contribution from you. In this example,  if you want a initiate a position of $2 \mathrm{~m}$ worth of stocks as the total assets in your account,  you will need to make an equity contribution of $2 \mathrm{~m}$ $\times 0.50=$ 1 \mathrm{~m}$. Hence,    the broker will provide provide at most $2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 1 \mathrm{~m}$ of margin loans for this portfolio of $2 \mathrm{~m}$ worth of stocks.
 
 After the leveraged position is initiated,  the broker will require a maintenance margin that is lower than the initial margin requirement. A typical value is $25 \%$ or slightly above. Let's stick to $25 \%$. This means that when the value of the stock portfolio falls a lot,  you will have to deposit additional cash into your account (this is a margin call). For example,  if the value falls from $2 \mathrm{~m}$ initially to $1.2 \mathrm{~m}$,  then,  given the margin debt of $1 \mathrm{~m}$,  your equity position has fallen to $1.2 \mathrm{~m}-$ 1 \mathrm{~m}=$ 0.2 \mathrm{~m}$,  which is less than the required maintenance margin of $1.2 \mathrm{~m} \times 0.25=$ 0.3 \mathrm{~m}$.
 
@@ -179,15 +179,15 @@ The scatter graph charts the daily NAV-to-NAV results of the fund against its un
 
 Figure 6.3: Levered exchange-traded product UPRO
 
-Let's deepen the puzzle further. Suppose the index return is IID,  and denoted by $R_{m,      t}$ with $\mathbb{E}\left[R_{m,      t}\right]=\mu$. For simplicity,  suppose that $R_{F}=0$ so that the one-period return of a leveraged position in the index,  with leverage ratio $\omega>1$,  is $R_{t}=\omega R_{m,      t}$. Now consider first the expected two-period compound return on the index
+Let's deepen the puzzle further. Suppose the index return is IID,  and denoted by $R_{m,       t}$ with $\mathbb{E}\left[R_{m,       t}\right]=\mu$. For simplicity,  suppose that $R_{F}=0$ so that the one-period return of a leveraged position in the index,  with leverage ratio $\omega>1$,  is $R_{t}=\omega R_{m,       t}$. Now consider first the expected two-period compound return on the index
 
 $$
 
 \begin{align*}
 
-\mathbb{E}\left[R_{m,      1: 2}\right] & =\mathbb{E}\left[\left(1+R_{m,      1}\right)\left(1+R_{m,      2}\right)\right]-1 \\
+\mathbb{E}\left[R_{m,       1: 2}\right] & =\mathbb{E}\left[\left(1+R_{m,       1}\right)\left(1+R_{m,       2}\right)\right]-1 \\
 
-& =\mu+\mu+\mathbb{E}\left[R_{m,      1} R_{m,      2}\right] \\
+& =\mu+\mu+\mathbb{E}\left[R_{m,       1} R_{m,       2}\right] \\
 
 & =2 \mu+\mu^{2} . \tag{6.4}
 
@@ -201,13 +201,13 @@ $$
 
 \begin{align*}
 
-\mathbb{E}\left[R_{1: 2}\right] & =\mathbb{E}\left[\left(1+\omega R_{m,      1}\right)\left(1+\omega R_{m,      2}\right)\right]-1 \\
+\mathbb{E}\left[R_{1: 2}\right] & =\mathbb{E}\left[\left(1+\omega R_{m,       1}\right)\left(1+\omega R_{m,       2}\right)\right]-1 \\
 
 & =2 \omega \mu+\omega^{2} \mu^{2} \\
 
 & =2 \omega \mu+\omega \mu^{2}+\left(\omega^{2}-\omega\right) \mu^{2} \\
 
-& =\omega \mathbb{E}\left[R_{m,      1: 2}\right]+\left(\omega^{2}-\omega\right) \mu^{2} \tag{6.5}
+& =\omega \mathbb{E}\left[R_{m,       1: 2}\right]+\left(\omega^{2}-\omega\right) \mu^{2} \tag{6.5}
 
 \end{align*}
 
@@ -217,13 +217,13 @@ The first term on the bottom line is the expected two-period return of a static 
 
 One could do the same calculation for more periods than two. The result would be qualitatively the same. In terms of expected return,  there is no hint whatsoever that a constant-leverage strategy leads to wealth destruction in terms of expected return! Its expected long-run compound return is even higher than the expected return of a static leveraged strategy that takes leverage initially but then does not rebalance subsequently.
 
-To understand what's going on,  let's have a look at simulations. I simulate log-normal daily index returns over 3 years with 250 trading days in each year. The log risk-free rate is $r_{f}=0.02 / 250$,  index log excess returns are distributed $r_{m,      t}-r_{f} \sim \mathcal{N}\left(\mu,      \sigma^{2}\right)$ with $\mu=0.02 / 250$ and $\sigma=0.20 / \sqrt{250}$. I then calculate,  every day,  the return on a leveraged strategy that takes constant leverage $\omega$,  rebalanced every day,  with daily return
+To understand what's going on,  let's have a look at simulations. I simulate log-normal daily index returns over 3 years with 250 trading days in each year. The log risk-free rate is $r_{f}=0.02 / 250$,  index log excess returns are distributed $r_{m,       t}-r_{f} \sim \mathcal{N}\left(\mu,       \sigma^{2}\right)$ with $\mu=0.02 / 250$ and $\sigma=0.20 / \sqrt{250}$. I then calculate,  every day,  the return on a leveraged strategy that takes constant leverage $\omega$,  rebalanced every day,  with daily return
 
 $$
 
 \begin{equation*}
 
-R_{t}=R_{f}+\omega\left(R_{m,      t}-R_{f}\right) \tag{6.6}
+R_{t}=R_{f}+\omega\left(R_{m,       t}-R_{f}\right) \tag{6.6}
 
 \end{equation*}
 
@@ -235,7 +235,7 @@ I then compound these returns for 750 days,  and I simulate many such paths.
 
 Figure 6.4: Simulated compound returns over 3 years in a $3 x$ leveraged strategy
 
-Figure 6.4 shows 100 such paths. A closer look at the figure shows that a large number of these paths end at 3 -year returns lower than zero. On these paths,  the wealth destruction story seems to play out. But note that there are some paths on which the wealth gain is enormous. On the path with the maximum wealth gain among these 100 paths,  the 3 x leveraged strategy earns more than $2,     000 \%$ over the 3 -year period. Also,  because the strategy is rebalancing back to 3 x leverage every period,  wealth never falls to zero. Whenever there is a loss,  leverage goes up above 3 x (as the equity in our position falls),  but we rebalance back to 3 x ,  which reduces the risk of a big loss that could wipe out all wealth. In contrast,  a strategy that takes $3 x$ leverage in the beginning and then does not rebalance every period faces a high risk that a sequence of bad returns completely wipe out all wealth.
+Figure 6.4 shows 100 such paths. A closer look at the figure shows that a large number of these paths end at 3 -year returns lower than zero. On these paths,  the wealth destruction story seems to play out. But note that there are some paths on which the wealth gain is enormous. On the path with the maximum wealth gain among these 100 paths,  the 3 x leveraged strategy earns more than $2,      000 \%$ over the 3 -year period. Also,  because the strategy is rebalancing back to 3 x leverage every period,  wealth never falls to zero. Whenever there is a loss,  leverage goes up above 3 x (as the equity in our position falls),  but we rebalance back to 3 x ,  which reduces the risk of a big loss that could wipe out all wealth. In contrast,  a strategy that takes $3 x$ leverage in the beginning and then does not rebalance every period faces a high risk that a sequence of bad returns completely wipe out all wealth.
 
 Thus,  returns are extremely skewed. Very often,  the leveraged strategy loses in the long-term,  but in some cases it earns a spectacular return. And in some cases,  it suffers huge losses,  but losses that are still smaller than the losses one would get from a levered strategy without rebalancing.
 
@@ -269,15 +269,15 @@ Overall,  this analysis shows how a simple leveraged strategy with regular rebal
 
 We can get further insights into the risk-return profile of leveraged strategies by examining in more detail how long-term returns of leveraged strategies relate to the long-term returns on the underlying index. Figure 6.6 shows scatter plots of several leveraged strategies' simulated 3 -year returns against the 3-year market index returns.
 
-The blue circles show the 3 -year returns of a strategy where we initially pick a leverage ratio of 3.0 and then refrain from rebalancing during the 3 -year period (with 750 trading days). As one would expect,  the long-term return of this strategy,  $R_{t: t+750}$,  is linear in the long-term return on the index,  $R_{m,      t: t+750}$. More precisely,
+The blue circles show the 3 -year returns of a strategy where we initially pick a leverage ratio of 3.0 and then refrain from rebalancing during the 3 -year period (with 750 trading days). As one would expect,  the long-term return of this strategy,  $R_{t: t+750}$,  is linear in the long-term return on the index,  $R_{m,       t: t+750}$. More precisely,
 
 $$
 
 \begin{align*}
 
-R_{t: t+750} & =\left(1+R_{f}\right)^{750}(1-\omega)+\omega\left(1+R_{m,      t: t+750}\right)-1 \\
+R_{t: t+750} & =\left(1+R_{f}\right)^{750}(1-\omega)+\omega\left(1+R_{m,       t: t+750}\right)-1 \\
 
-& \left.=\left(1+R_{f}\right)^{750}+\omega\left[1+R_{m,      t: t+750}\right)-\left(1+R_{f}\right)^{750}\right]-1 \tag{6.7}
+& \left.=\left(1+R_{f}\right)^{750}+\omega\left[1+R_{m,       t: t+750}\right)-\left(1+R_{f}\right)^{750}\right]-1 \tag{6.7}
 
 \end{align*}
 
@@ -299,7 +299,7 @@ Another interesting feature of the long-term return of the constant-leverage str
 
 A convex payoff of this sort should remind you of a financial instrument that you encountered in your introductory investments course: A call option.
 
-For example,  let the index level at the start of the three-year period be $S_{t}$ and the index level at the end of the three-year period $S_{T}$ and consider options with the index as the underlying asset. A three-year at-the-money European call option with a strike or exercise price $K$ offers a payoff of $\max \left(0,      S_{T}-K\right)$ at the end of the three-year period. Hence,  this is a kinked,  convex payoff.
+For example,  let the index level at the start of the three-year period be $S_{t}$ and the index level at the end of the three-year period $S_{T}$ and consider options with the index as the underlying asset. A three-year at-the-money European call option with a strike or exercise price $K$ offers a payoff of $\max \left(0,       S_{T}-K\right)$ at the end of the three-year period. Hence,  this is a kinked,  convex payoff.
 
 What's the connection to our constant-leverage strategy? Recall that the payoff of a European call option can be replicated by a dynamically rebalanced leveraged position in the index financed by borrowing at the risk-free rate. The positions in this replicating can be obtained from the Black-Scholes formula. The Black-Scholes formula expresses the price of a European call option (on a non-dividend paying underlying asset) that gives the right,  but not the obligation to obtain one share of the underlying asset as
 
@@ -319,7 +319,7 @@ $$
 
 \begin{equation*}
 
-\Delta_{t}=N\left(d_{1}\right),      \quad d_{1}=\frac{\log S_{t}-\log K+\left(r_{f}+\frac{\sigma^{2}}{2}\right)(T-t)}{\sigma \sqrt{T-t}} \tag{6.9}
+\Delta_{t}=N\left(d_{1}\right),       \quad d_{1}=\frac{\log S_{t}-\log K+\left(r_{f}+\frac{\sigma^{2}}{2}\right)(T-t)}{\sigma \sqrt{T-t}} \tag{6.9}
 
 \end{equation*}
 
@@ -331,7 +331,7 @@ $$
 
 \begin{equation*}
 
-B_{t}=N\left(d_{2}\right) K \exp \left[-r_{f}(T-t)\right],      \quad d_{2}=d_{1}-\sigma \sqrt{T-t} \tag{6.10}
+B_{t}=N\left(d_{2}\right) K \exp \left[-r_{f}(T-t)\right],       \quad d_{2}=d_{1}-\sigma \sqrt{T-t} \tag{6.10}
 
 \end{equation*}
 
