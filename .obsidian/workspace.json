@@ -245,6 +245,16 @@
             }
           },
           {
+            "id": "1417159a7a9e38bd",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
+          },
+          {
             "id": "cb048f3855ec8dd9",
             "type": "leaf",
             "state": {
@@ -260,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -445,7 +455,7 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "cbca9e1439738dc7",
+  "active": "1417159a7a9e38bd",
   "lastOpenFiles": [
     "Financial Instruments/Financial Instruments.md",
     "Financial Instruments/Untitled.md",
