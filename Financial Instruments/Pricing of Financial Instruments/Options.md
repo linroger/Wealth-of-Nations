@@ -2540,7 +2540,7 @@ These notes explore the conceptual tools that help investors in assessing the �
 
 As a special application of this kind of query, we can then assess relative riskiness. Given a choice between two mutually exclusive portfolios $A$ and $B$ ,both having the same expected payoffs (average payoffs), which of these portfolios will a“risk-averse” investor choose? We will explore three different notions of risk aversion that help answering such questions: (i) preference for certainty; (ii) variance aversion; (iii) stochastic dominance.
 
-Keywords: Roy's Safety First Rule, Value at Risk, Domar-Musgrave Risk Measure, Conditional Value at Risk, Variance and Semi-Variance, Lower Partial Moments, Coherent risk Measures, Risk Aversion, Risk Premia, 1 st and 2 nd order stochastic dominance
+Keywords: Roy's Safety First Rule, Value at Risk, Domar-Musgrave Risk Measure, Conditional Value at Risk, Variance and Semi-Variance, Lower Partial Moments, Coherent risk Measures, Risk Aversion, Risk Premia, 1st and 2nd order stochastic dominance
 
 Reading: Chapter 18 from Hull as a supplement to these notes.
 
