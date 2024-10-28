@@ -11,15 +11,12 @@
             "id": "cbca9e1439738dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "jupyter-view",
               "state": {
-                "file": "Clippings/China Reserve Requirements, GFC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "/Jupyter Notebook 2024-10-28-09-10-06.ipynb"
               },
-              "icon": "lucide-file",
-              "title": "China Reserve Requirements, GFC"
+              "icon": "none",
+              "title": "Jupyter Notebook 2024-10-28-09-10-06.ipynb"
             }
           },
           {
@@ -256,10 +253,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clippings/China Reserve Requirements, GFC.md"
+                "file": "/Jupyter Notebook 2024-10-28-09-10-06.ipynb"
               },
               "icon": "lucide-info",
-              "title": "File properties for China Reserve Requirements, GFC"
+              "title": "File properties for Jupyter Notebook 2024-10-28-09-10-06"
             }
           }
         ],
@@ -284,13 +281,17 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "formatto-format:Format Document": false,
-      "structured-tree:Open Structured Tree": false
+      "structured-tree:Open Structured Tree": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "cbca9e1439738dc7",
   "lastOpenFiles": [
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6 Advanced Financial Analysis and Valuation.md",
+    "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Clippings/China Reserve Requirements, GFC.md",
+    "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 6/Week 6 Advanced Financial Analysis and Valuation.md",
     "Vault.md",
     "Financial Instruments/Untitled.md",
     "Financial Instruments/Financial Instruments.md",
@@ -315,7 +316,6 @@
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
     "Advanced Investments/Lecture 3- Dynamics of Returns.md",
-    "Advanced Investments/Lecture 1- Probability Distributions of Returns.md",
     "Financial Instruments/Pricing of Financial Instruments",
     "China Foreign Exchange Reserves",
     "QuantLib-Python",
@@ -333,7 +333,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 6 Mortgage Backed Securities.txt",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 1-Introduction To Fixed Income Securities.txt",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 4 Interest Rate Derivatives.txt",
     "Attachments/Keep It 2024-10-24 10.52.05.png"
   ]
 }
