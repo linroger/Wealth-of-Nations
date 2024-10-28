@@ -98,13 +98,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendices/Appendix 5. C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM.md",
+                "file": "Appendices/Appendix 5. A TAXES AND THE FORWARD PRICE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appendix 5. C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM"
+              "title": "Appendix 5. A TAXES AND THE FORWARD PRICE"
             }
           }
         ],
@@ -272,10 +272,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Appendices/Appendix 5. C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM.md"
+                "file": "Appendices/Appendix 5. A TAXES AND THE FORWARD PRICE.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Appendix 5. C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM"
+              "title": "File properties for Appendix 5. A TAXES AND THE FORWARD PRICE"
             }
           }
         ],
@@ -308,7 +308,7 @@
   "active": "5271d4355d14fed7",
   "lastOpenFiles": [
     "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md",
-    "Appendices/Appendix 5. C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM.md",
+    "Appendices/Appendix 5. A TAXES AND THE FORWARD PRICE.md",
     "Appendices/Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Forward Rates and Term Structure.md",
