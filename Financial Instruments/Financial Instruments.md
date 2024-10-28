@@ -24,7 +24,7 @@ Buying a stock is a risky investment. Buying a call option on that stock is even
 
 We will now illustrate how to calculate $\Delta$ in a simple binomial example Once $\Delta$ is known the option price itself can be calculated as any risk-free investment must in the absence of arbitrage opportunities earn the risk-free rate ofreturn.
 
-Consider a simple example where the price of the underlying stock is 100 and at the end of three months it has either risen to 175 or has fallen to 75. There is an "up” state and a"down” state. Let $u=0.75$ and $d=-0.25$ , SO that the value of the stock in three months in the up state is $100(1+u)=175$ and the value in the down state is $100(1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ , and the net growth in the value of the stock in the down state is $-25\%$
+Consider a simple example where the price of the underlying stock is 100 and at the end of three months it has either risen to 175 or has fallen to 75. There is an "up” state and a"down” state. Let $u=0.75$ and $d=-0.25$ ,  SO that the value of the stock in three months in the up state is $100(1+u)=175$ and the value in the down state is $100(1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,  and the net growth in the value of the stock in the down state is $-25\%$
 
 Since the stock can either rise by $75\%$ or fall by $25\%$ buying the stock is a risky investment. Now consider an at the money call option on this stock with a strike price of 100. If the stock goes up then in three months the call can be exercised for a profit of 175-100=75 and if the price of the stock goes down,  then the call will not be exercised. Thus the payoff to the call option is 75 in the up state and 0 in the down state. So the call is also risky. Suppose however,  that we consider buying $\Delta$ units of the stock and writing one call. The payoff from this portfolio is $175\Delta-75$ in the up state: the stock has gone up to 175 but the call option we have written will be exercised against us so we have an obligation of 75 The payoff in the down state is simply $75\Delta$ as the call option is not exercised in the down state. To make this portfolio risk-free it is necessary to choose $\Delta$ such that
 
@@ -32,7 +32,7 @@ $$175\Delta-75=75\Delta $$
 
 so that the payoff is the same no matter whether we are in the up state or the down state. Solving for $\Delta$ gives $\Delta=3/4$ .Thus to completely hedge out the risk in the stock,  we should sell four call options for every three units of stock we buy. The payoff from such a portfolio is given in Table 1. The value in three months time is 225 in both states and hence the portfolio is riskfree. Since it is risk-free it can be valued using the risk-free rate of interest. Suppose the risk-free rate of interest is 1/4 or $25\%$ .The present value of this portfolio is 225/(1+1/4)=180 .The value of the portfolio now is simply the current value of the share,  $3\times100=300$ less $4c$ where $C$ is the price of the call option. If there are no arbitrage possibilities then the value of this portfolio must alsohave a value of 3180: $$300-4c=180$$ So solving for the call price gives $c=30$ .This shows that the Delta-hedge can be used to price the option.
 
-The same procedure can be generalized. Let S be the value of the underlying stock,  so its terminal value is $S_{u}=(1+u)S$ in the up state and $S_{d}=(1+d)S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0, S_{u}-K]$ be the value of the call option in the up state and
+The same procedure can be generalized. Let S be the value of the underlying stock,  so its terminal value is $S_{u}=(1+u)S$ in the up state and $S_{d}=(1+d)S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0,  S_{u}-K]$ be the value of the call option in the up state and
 <table>
 	<tbody>
 		<tr>
@@ -64,7 +64,7 @@ The same procedure can be generalized. Let S be the value of the underlying stoc
 
 Table 1: Risk-Free Portfolio - Example
 
-$c_{d}=\operatorname*{max}[0, S_{d}-K]$ is the value of the call option in the down state. Remember,  that the call option gives us the right to buy the underlying at a price of $K$，so for example in the up state when the stock is worth $S_{u}$ .the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
+$c_{d}=\operatorname*{max}[0,  S_{d}-K]$ is the value of the call option in the down state. Remember,  that the call option gives us the right to buy the underlying at a price of $K$，so for example in the up state when the stock is worth $S_{u}$ .the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
 
 Now consider the $\Delta$ -hedgeportfolio thatwrites one call and buys $\Delta$ units of the underlying. The payoffs from this portfolio are given in Table 2. The value of $\Delta$ is chosen so that the portfolio is riskless,  $\Delta S_{d}-c_{d}=\Delta S_{u}-c_{u}$ i.e.
 $$\Delta=\frac{c_u-c_d}{S_u-S_d}=\frac{c_u-c_d}{(u-d)S}.$$
@@ -170,7 +170,7 @@ And
 
 $$B=\frac{1}{1+r}(c_d-\Delta S_d)=\frac{1}{1+r}\left(c_d-\frac{(1+d)S(c_u-c_d)}{(S_u-S_d)}\right).$$
 
-This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$ .The value of the call in the up state is $c_{u}=S_{u}-k$ and this is illustrated on the vertical axis. Also drawn is the line connected the two points $(S_{d}, c_{d})$ and $(S_{u}, c_{u})$ .The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r)B$ .It can be seen that the line is never downward sloping,  so $\Delta\geq0$ and the slope is always less than $45^{o}$ , so $\Delta\leq1$ 0.\1 The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset)
+This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$ .The value of the call in the up state is $c_{u}=S_{u}-k$ and this is illustrated on the vertical axis. Also drawn is the line connected the two points $(S_{d},  c_{d})$ and $(S_{u},  c_{u})$ .The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r)B$ .It can be seen that the line is never downward sloping,  so $\Delta\geq0$ and the slope is always less than $45^{o}$ ,  so $\Delta\leq1$ 0.\1 The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset)
 
 The cost of synthesizing the option is the cost of the portfolio of $\Delta$ units of the shares and investing $B$ in bonds
 
@@ -213,7 +213,7 @@ to give $p=(r-d)/(u-d)$ exactly as before and this value of $P$ can then be used
 
 We've considered a one period binomial model where the stock price can go either up or down by factors $(1+u)$ and $(1+d)$ .We can the use information
 
-on the current stock price $S$ , the risk-free interest rate 7 and the strike price $K$ to determine the value of the option. We did this in three different ways. First by creating a riskless portfolio of the stock and the option. Second by creating a synthetic option that replicates the payoffs to the option using the underlying stock and the risk-free asset. In both cases we use an arbitrage argument that any two portfolios or assets that deliver the same payoffs must trade at the same price. Thirdly we derived the risk-neutral probability such that all assets and portfolios are valued by their expected present value. This ten allows the option to be evaluated in the same way using these riskadjusted probabilities.
+on the current stock price $S$ ,  the risk-free interest rate 7 and the strike price $K$ to determine the value of the option. We did this in three different ways. First by creating a riskless portfolio of the stock and the option. Second by creating a synthetic option that replicates the payoffs to the option using the underlying stock and the risk-free asset. In both cases we use an arbitrage argument that any two portfolios or assets that deliver the same payoffs must trade at the same price. Thirdly we derived the risk-neutral probability such that all assets and portfolios are valued by their expected present value. This ten allows the option to be evaluated in the same way using these riskadjusted probabilities.
 
 The next thing to do is to allow for more than one period in the binomial model to see if the price of the option can still be calculated in a similar and similarly simple fashion.
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -270,7 +270,7 @@ In the one-period binomial model there are two possible end values and in the tw
 
 ### Binomial Coefficients
 
-The numbers inPascal's triangle are called the binomial coefficients and the binomial coefficients are usually written $\binom nk$ for $n, k\geq0$ where
+The numbers inPascal's triangle are called the binomial coefficients and the binomial coefficients are usually written $\binom nk$ for $n,  k\geq0$ where
 
 $$\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{k!(n-k)!}$$
 
@@ -357,7 +357,7 @@ $$\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{k!(n-k)!}$$
 
 Table 1: Pascal's Triangle
 
-is the $(k+1)$ -th number in the $(n+1)$ -th row of the triangle. Here $k!=$ $k\times k-1\times k-2\times\ldots\times2\times1$ and by convention 0!=1 .Thus if $n=4$ and $k=2$ , then
+is the $(k+1)$ -th number in the $(n+1)$ -th row of the triangle. Here $k!=$ $k\times k-1\times k-2\times\ldots\times2\times1$ and by convention 0!=1 .Thus if $n=4$ and $k=2$ ,  then
 $$\begin{pmatrix}4\\2\end{pmatrix}=\frac{4!}{2!\times2!}=\frac{4\times3\times2\times1}{(2\times1)(2\times1)}=\frac{24}{4}=6.$$
 
 The binomial coefficients show us the number of ways the returns can be generated by $k$ down returns and $n-k$ up returns
@@ -442,9 +442,9 @@ Table 2: End Asset Values and Probabilities in $7l$ -period Binomial Mode
 
 Using risk-neutral valuation,  the price of the call which matures in $Tt$ periods is calculated as
 
-$$c_0=\frac{1}{R^n}\left(\sum_{k=0}^n\binom{n}{k}\rho^k(1-\rho)^{n-k}\max[S_0U^kD^{n-k}-X, 0]\right)$$
+$$c_0=\frac{1}{R^n}\left(\sum_{k=0}^n\binom{n}{k}\rho^k(1-\rho)^{n-k}\max[S_0U^kD^{n-k}-X,  0]\right)$$
 
-where $\rho=(R-D)/(U-D)$ is the risk-neutral probability and $U$ and $D$ are the factors given above. Thusgiven the strike price $X$ , the time tomaturity $7t$ , the risk-free interest rate 7 , it is possible to calculate the callvalue
+where $\rho=(R-D)/(U-D)$ is the risk-neutral probability and $U$ and $D$ are the factors given above. Thusgiven the strike price $X$ ,  the time tomaturity $7t$ ,  the risk-free interest rate 7 ,  it is possible to calculate the callvalue
 
 Let $JL$ denote the minimum number of up branches that need to be taken for the terminal value $S_{0}U^{x}D^{n-x}$ to be greater than the strike price $X$ .Then the above formula can bewritten as
 
@@ -483,9 +483,9 @@ $$\Delta S_{0}+B=\frac{1}{R}\left(\frac{US_{0}(R-D)}{(U-D)}-X\frac{(R-D)}{(U-D)}
 Afour period example is illustrated inFigure 1. The example is the same as before with with $u=0.75$ ， $d=-0.25$ ， $S=100$ ， $X=100$ and $r=0.25$ but
 
 
-extended over four periods. The upper diagrams shows the stock price in all possible cases,  the middle diagram the call price and the lower diagram the replicating portfolio of $\Delta$ units of the stock and borrowing a certain amount of the risk-free asset
+extended over four periods. The upper diagrams shows the stock price in all possible cases,   the middle diagram the call price and the lower diagram the replicating portfolio of $\Delta$ units of the stock and borrowing a certain amount of the risk-free asset
 
-As can be seen the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus the replicating portfolic is dynamic and it is necessary to reoptimise the portfolio every period. It is however,  true that the change in the portfolio required is self-financing That is the proceeds from the sale of the old portfolio are just that required to buy the new portfolio at every node of the tree.
+As can be seen the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus the replicating portfolic is dynamic and it is necessary to reoptimise the portfolio every period. It is however,   true that the change in the portfolio required is self-financing That is the proceeds from the sale of the old portfolio are just that required to buy the new portfolio at every node of the tree.
 
 Exercise: Check that the replicating portfolio is self-financing
 
@@ -504,7 +504,7 @@ $$143=100 (1+\nu)^2.$$
 
 This value is known as the geometric mean. It is another measure of the averagereturn over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or 19.58% per period? Which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the arithmetic mean return,  the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^2=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
+There is a simple relationship between the arithmetic mean return,   the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^2=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
 
 $$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
 
@@ -512,7 +512,7 @@ Or
 
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
 
-Since rates of return are typically less than one,  the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ or
+Since rates of return are typically less than one,   the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ or
 
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
@@ -521,11 +521,11 @@ This approximation will be better the smaller are the interest rates and the sma
 
 ## Expectless than the expected
 
-We can see the same difference between arithmetic and geometric rates of return in our binomial model to show that the end values for the underlying asset will be asymmetrically distributed. Consider a binomial model where the $up$ and down factors are $U=1.3$ and $D=1.1$ .Thus the asset either increases by $30\%$ or by $10\%$ .Suppose that each is equally likely so that the average return is $20\%$ .Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,  143 if there is either one up and one down or one down and one up,  or 121 if there are two downs. The probability of these three outcomes,  169, 143 and 121 are $\frac{1}{4}$ ， $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
+We can see the same difference between arithmetic and geometric rates of return in our binomial model to show that the end values for the underlying asset will be asymmetrically distributed. Consider a binomial model where the $up$ and down factors are $U=1.3$ and $D=1.1$ .Thus the asset either increases by $30\%$ or by $10\%$ .Suppose that each is equally likely so that the average return is $20\%$ .Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,   143 if there is either one up and one down or one down and one up,   or 121 if there are two downs. The probability of these three outcomes,   169,  143 and 121 are $\frac{1}{4}$ ， $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
 
 $$\frac{1}{4}\times 69+\frac{1}{2}\times 143+\frac{1}{4}\times 121=144.$$
 
-However the return is less than 144 in three of the four possible ending values Thus after two periods the distribution of the end values is asymmetric with most of the distribution below the average value. We say that the distribution of the ending values is skewed to the right. The most likely out,  the mode,  is 143 and it is also in this case equal to the median as the ending value is equally likely to be above or below 143.
+However the return is less than 144 in three of the four possible ending values Thus after two periods the distribution of the end values is asymmetric with most of the distribution below the average value. We say that the distribution of the ending values is skewed to the right. The most likely out,   the mode,   is 143 and it is also in this case equal to the median as the ending value is equally likely to be above or below 143.
 
 Consider the two-period model where the up and down factors are $1+\mu+\sigma$ and $1+\mu-\sigma$ ， the initial value of the asset is $S_{0}$ and both up and down
 
@@ -540,17 +540,17 @@ $$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)^2-\sigma^2\right)$$
 
 So that the median is below the mean by an amount equal to the variance Since we have already shown that $(1+\nu)^{2}=(1+\mu)^{2}-\sigma^{2}$ ， the median of the end value is just $S_{0}(1+\nu)^{2}$
 
-The binomial modelis easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$ ,  thus the returns in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
+The binomial modelis easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$ ,   thus the returns in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
 
 $$S_0\left ((1+\mu+\sigma)^{\frac{n}{2}}\right)\left ((1+\mu-\sigma)^{\frac{n}{2}}\right)=((1+\mu+\sigma)(1+\mu-\sigma))^{\frac{n}{2}}$$
 
-As there will be roughly an equal number of up returns and down returns Thegeometric return thatproduces the same outcome after $Tl$ periods is $(1+g)^{n}$ , thus
+As there will be roughly an equal number of up returns and down returns Thegeometric return thatproduces the same outcome after $Tl$ periods is $(1+g)^{n}$ ,  thus
 $$(1+\nu)^n=((1+\mu+\sigma)(1+\mu-\sigma))^\frac{n}{2}$$
 
-Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the underlying asset and the arithmetic mean gives the average value,  the median is always below the average. Thus one should always expect to have less than the average value more than half the time.
+Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the underlying asset and the arithmetic mean gives the average value,   the median is always below the average. Thus one should always expect to have less than the average value more than half the time.
 
 
-### Example:u=0.75,  $d=-0.25$ r=0.25,  $X=100$
+### Example:u=0.75,   $d=-0.25$ r=0.25,   $X=100$
 
 ![](https://storage.simpletex.cn/view/fUH7qnbN24NLAVuVynt7tYKrbYxEpiV2m)
 
@@ -560,22 +560,22 @@ Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE
 
 ### Introduction
 
-In these notes we consider the risk of an option and relate it to the standard capital asset pricing model. If we are simply interested in valuing the option,  then we can largely ignore this issue. We have seen from our notes on the oneperiod binomial model that to price an option we only need to know the price of the underlying asset. It is not necessary to know whether the underlying asset is priced fairly relative to other assets or indeed anything about other assets at all. However,  if we are interested in forming an investment portfolic that includes options or other derivatives,  then the risk and return of that portfolio will depend on the risk and return characteristics of the options. Thus we will need to know how the $\beta$ of an option relates to the $\beta$ of the underlying stock.
+In these notes we consider the risk of an option and relate it to the standard capital asset pricing model. If we are simply interested in valuing the option,   then we can largely ignore this issue. We have seen from our notes on the oneperiod binomial model that to price an option we only need to know the price of the underlying asset. It is not necessary to know whether the underlying asset is priced fairly relative to other assets or indeed anything about other assets at all. However,   if we are interested in forming an investment portfolic that includes options or other derivatives,   then the risk and return of that portfolio will depend on the risk and return characteristics of the options. Thus we will need to know how the $\beta$ of an option relates to the $\beta$ of the underlying stock.
 
 We can examine the issue of risk in a simple binomial model. So this is what we shall do. Most textbooks on options don’t discuss risk and therefore you will need to keep these notes for your revision.
 
 ## Risk in the binomial model
 
-We'll use the simple example we used when discussing the one period binomial model. Suppose the price of the underlying stock is 100 and at the end of the period it has either risen to 175 or has fallen to 75. That is $u=0.75$ and $d=-0.25$ ,  so that the value of the stock after one period in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,  and the net growth in the value of the stock in the down state is $-25\%$
+We'll use the simple example we used when discussing the one period binomial model. Suppose the price of the underlying stock is 100 and at the end of the period it has either risen to 175 or has fallen to 75. That is $u=0.75$ and $d=-0.25$ ,   so that the value of the stock after one period in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,   and the net growth in the value of the stock in the down state is $-25\%$
 
 
-We showed that in determining the price of the option,  the probability that the stock price rises of falls was irrelevant. Now however suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$ 0.\1 The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$ .Given that the price of the call is 30,  the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$ .Thus the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
+We showed that in determining the price of the option,   the probability that the stock price rises of falls was irrelevant. Now however suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$ 0.\1 The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$ .Given that the price of the call is 30,   the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$ .Thus the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
 
 The standard deviation of the rate of return on the stock is often simply referred to as the stock's volatility. The volatility of the stock is
 
 $$\sigma_S=\sqrt{\frac{4}{5}(75-55)^2+\frac{1}{5}(-25-55)^2}=40\%$$
 
-And the standard deviation of the rate of return on the call option,  or the call's volatility is
+And the standard deviation of the rate of return on the call option,   or the call's volatility is
 
 $$\sigma_C=\sqrt{\frac{4}{5}(150-100)^2+\frac{1}{5}(-100-100)^2}=100\%.$$
 
@@ -586,7 +586,7 @@ Now remember that $\Delta$ measures the responsiveness of the value of the call 
 $$\Omega\equiv\frac{S}{c}\Delta $$
 
 
-To be the elasticity of the option,  that is the percentage change in the call value relative to a given percentage change in the stock value. In our example $S=100$ and $c=30$ , so that $\Omega=2.5$
+To be the elasticity of the option,   that is the percentage change in the call value relative to a given percentage change in the stock value. In our example $S=100$ and $c=30$ ,  so that $\Omega=2.5$
 
 This is not a coincidence. If 71 is the probability of the up state and $1-\pi$ is the probability of the down state then expected rate of return on the stock and its volatility are：
 
@@ -596,7 +596,7 @@ Equally the expected rate of return on the call and its volatility are
 
 $$\mu_C=\frac{\pi c_u+(1-\pi) c_d-c}{c}\quad\mathrm{and}\quad\sigma_C=\sqrt{\pi (1-\pi)}\frac{c_u-c_d}{c}.$$
 
-Then remembering that $\Delta$ is the change in the call price over the change in the stock price,  we have
+Then remembering that $\Delta$ is the change in the call price over the change in the stock price,   we have
 
 $$\Omega\equiv\frac{S}{c}\Delta=\frac{S}{c}\frac{c_{u}-c_{d}}{(u-d) S}=\frac{c_{u}-c_{d}}{c (u-d)}.$$
 
@@ -631,11 +631,11 @@ Or
 
 $$\mu_C=r+\left (\frac{\mu_S-r}{\sigma_S}\right)\sigma_C.$$
 
-This is of course the standard equation used to express an asset as a portfolic of the stock and the risk-free asset,  that we have seen previously in Asset Pricing and Portfolio Choice. As we know the call option can be replicated by a fraction of the stock and selling the risk-free asset this should not be surprising. That is the risk and return of the call lie on somewhere on the risk-return line with intercept of 7 and slope of $(\mu_{S}-r)/\sigma_{S}$ .The elasticity $\Omega 2$ gives the position of the call along this line. Rewriting our equation on the excess return again
+This is of course the standard equation used to express an asset as a portfolic of the stock and the risk-free asset,   that we have seen previously in Asset Pricing and Portfolio Choice. As we know the call option can be replicated by a fraction of the stock and selling the risk-free asset this should not be surprising. That is the risk and return of the call lie on somewhere on the risk-return line with intercept of 7 and slope of $(\mu_{S}-r)/\sigma_{S}$ .The elasticity $\Omega 2$ gives the position of the call along this line. Rewriting our equation on the excess return again
 
 $$\mu_C=\Omega\mu_S+(1-\Omega)r.$$
 
-Thus the call can be seen as the portfolio of the stock and the risk-free asset with a weight of $S 2$ attached to the stock. Since we have seen that to synthesize the call requires borrowing the risk-free asset,  we have that $\Omega>1$ and the callvolatility is always greater than the stockvolatility
+Thus the call can be seen as the portfolio of the stock and the risk-free asset with a weight of $S 2$ attached to the stock. Since we have seen that to synthesize the call requires borrowing the risk-free asset,   we have that $\Omega>1$ and the callvolatility is always greater than the stockvolatility
 
 This is seen in Figure 1. In the diagram the call option is always to the right of the underlying stock as it will have higher volatility and higher expected return than the underlying asset itself. It can also be seen that a call with a higher strike price will be more risky and therefore will lie further out along the risk and return line.
 
@@ -644,12 +644,12 @@ If the same analysis is repeated for a put option it is found that $\Delta$ is n
 
 ![](https://storage.simpletex.cn/view/f4X5qdEn8nqYtIlAagw7VHInAspIEPLf9)
 
-Figure 1: RISK-RETURN DIAGRAM: $(\sigma, \mu)$
+Figure 1: RISK-RETURN DIAGRAM: $(\sigma,  \mu)$
 
 Selling the underlying asset and buying the risk-free asset (investing). As the underlying asset is sold short a put option will be located on the lower arm of the risk-return diagram. The expected return is reduced because there is a future obligation from the short sale rather than a return although the obligations are still risky and therefore have a positive standard deviation. It can therefore be seen that put options are never of themselves efficient portfolios although since they will be negatively correlated with the underlying asset they can provide good hedging opportunities
 
 
-We now consider the $\beta$ of a call option. The Capital AssetPricing Model shows that for any asset,  the ezcess return or risk-premium satisfies
+We now consider the $\beta$ of a call option. The Capital AssetPricing Model shows that for any asset,   the ezcess return or risk-premium satisfies
 
 $$\mu_S-r=\beta_S (\mu_M-r)$$
 
@@ -659,33 +659,33 @@ It is therefore simple to combine our excess return equation for the call and th
 
 $$\mu_C-r=\Omega\beta_S (\mu_M-r).$$
 
-It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market,  so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$ .The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$ , since $\Omega>1$ for a call option,  it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. 2 This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$ .The security market line intercepts the vertical axis at 7 the rate of return on the risk-free asset which is uncorrelated with the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock,  their value goes up as the stock goes down,  so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
+It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market,   so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$ .The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$ ,  since $\Omega>1$ for a call option,   it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. 2 This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$ .The security market line intercepts the vertical axis at 7 the rate of return on the risk-free asset which is uncorrelated with the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock,   their value goes up as the stock goes down,   so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
 
 
 ![](https://storage.simpletex.cn/view/fy8nMdnXM5lnTosq8WrlOypVTIbgNSuA0)
 
-## Figure 2: SECURITY MARKET LINE: $(\beta, \mu)$
+## Figure 2: SECURITY MARKET LINE: $(\beta,  \mu)$
 
-Let's return once again to our simple example and suppose that the expected rate of return on the market portfolio is $40\%$ .Then since the excess return on the stock is $30\%$ and the excess return on the market portfolio is $40-25=15\%$ , the beta of the stock is $\beta_{S}=2$ and the beta of the option is $\beta_{C}=\Omega\beta_{S}=5$ .Since $\beta>0$ and the expected rate of return on the market portfolio is greater than the risk-free rate,  the expected rate of return on the call is also greater than the risk-free rate. Remember that the expected rate of return on the call using the risk-neutral probabilities is equal to the risk-free rate. Thus the risk-neutral probability for the up state is less than the true probability,  $p<\pi$ .This simply reflects that in adjusting for the risk of the call the probability of the high rate of return is shaded downward to
+Let's return once again to our simple example and suppose that the expected rate of return on the market portfolio is $40\%$ .Then since the excess return on the stock is $30\%$ and the excess return on the market portfolio is $40-25=15\%$ ,  the beta of the stock is $\beta_{S}=2$ and the beta of the option is $\beta_{C}=\Omega\beta_{S}=5$ .Since $\beta>0$ and the expected rate of return on the market portfolio is greater than the risk-free rate,   the expected rate of return on the call is also greater than the risk-free rate. Remember that the expected rate of return on the call using the risk-neutral probabilities is equal to the risk-free rate. Thus the risk-neutral probability for the up state is less than the true probability,   $p<\pi$ .This simply reflects that in adjusting for the risk of the call the probability of the high rate of return is shaded downward to
 
 
 Refect an aversion to risk. In our example the risk-neutral probability is 1/2 and the actual probability of the up state is 4/5
 
 ## Summary
 
-These notes have provided a connection between option pricing and standard models of portfolio choice and the Capital Asset Pricing Model (CAPM). The connection is provided by the option elasticity $S 2$ .We have seen previously that $\Delta$ measures how much of the stock to buy to create a riskless hedge or to replicate the option. The option elasticity,  $\leq 2$ is a proportionate measure of $\Delta$ ， $\Omega=S\Delta/c$ .The elasticity $S 2$ ：therefore measures the proportion of the portfolio placed in the underlying asset in order to replicate the option. It is therefore a portfolio weight rather a quantity of stock bought. The elasticity of the call option will be no less than one since to replicate the call option it will be necessary to borrow,  that is go short in the risk-free asset,  to fund the acquisition of the underlying asset. The elasticity also can be combined with the beta of the stock,  $\beta_{S}$ to calculate the beta of the call option $\beta_{C}=\Omega\beta_{C}$ Since $\Omega\geq 1$ the call option will be a more aggressive asset that the underlying stock.
+These notes have provided a connection between option pricing and standard models of portfolio choice and the Capital Asset Pricing Model (CAPM). The connection is provided by the option elasticity $S 2$ .We have seen previously that $\Delta$ measures how much of the stock to buy to create a riskless hedge or to replicate the option. The option elasticity,   $\leq 2$ is a proportionate measure of $\Delta$ ， $\Omega=S\Delta/c$ .The elasticity $S 2$ ：therefore measures the proportion of the portfolio placed in the underlying asset in order to replicate the option. It is therefore a portfolio weight rather a quantity of stock bought. The elasticity of the call option will be no less than one since to replicate the call option it will be necessary to borrow,   that is go short in the risk-free asset,   to fund the acquisition of the underlying asset. The elasticity also can be combined with the beta of the stock,   $\beta_{S}$ to calculate the beta of the call option $\beta_{C}=\Omega\beta_{C}$ Since $\Omega\geq 1$ the call option will be a more aggressive asset that the underlying stock.
 ////////////////////////////////////////////////////////////////////////////////////
 # Exotic Options
 
 These notes describe the payoffs to some of the so-called erotic options. There are a variety of different types of exotic options. Some of these options are path dependent so that the value of the option depends on the previous values of the underlying as well as the current price of the underlying
 
-Keywords: Digital options,  Barrier options,  Path dependent options,  Lookback options,  Asian options.
+Keywords: Digital options,   Barrier options,   Path dependent options,   Lookback options,   Asian options.
 
 Reading Hull Chapter 22 [Just read about the different types exotic options and their payoffs. Ignore the equations describing how they are priced for the moment.]
 
 ### Introduction
 
-American and European puts and calls are sometimes referred to as plain vanilla options. There are however a wide variety of other types of options that are traded. These are sometimes referred to as exotic options. In the past most exotic options were traded in over the counter markets rather than exchanges,  but more recently these alternative option types can be found on exchange markets too. The variety and types of options that are available are really only limited by imagination. As long as the payoff can be well specified,  it can depend on any property of the price of the underlying asset. The following list just gives a few examples
+American and European puts and calls are sometimes referred to as plain vanilla options. There are however a wide variety of other types of options that are traded. These are sometimes referred to as exotic options. In the past most exotic options were traded in over the counter markets rather than exchanges,   but more recently these alternative option types can be found on exchange markets too. The variety and types of options that are available are really only limited by imagination. As long as the payoff can be well specified,   it can depend on any property of the price of the underlying asset. The following list just gives a few examples
 
 ## Digital Options
 
@@ -701,43 +701,43 @@ $$p_T^b=\left\{\begin{array}{ll}1&\text{if}S_T\leq X\\0&\text{if}S_T>X.\end{arra
 
 ### Range Forward Contract
 
-A range forward contract specifies a band $[X_{2},  X_{1}]$ .If the price of the underlying at maturity is within the band then the holder is obliged to buy the asset at its current price. If the price of the underlying at maturity is below $X_{2}$ then the holder has to buy at $X_{2}$ and if the price of the underlying at maturity is above $X_{1}$ then the holder has to buy at $X_{1}$ .The range forward is designed so that the initialvalue of the contract is zero and therefore similar to a forward contract. It is equivalent to a combination of a long call option with a strike price of $X_{1}$ and a written put option with a strike price of $X_{2}$ ，where the strike prices are chosen so that the put and the call have the same prices. The payoff at maturity to a range forward contract is $\operatorname*{max}[S_{T}-X_{1},  0]-\operatorname*{max}[X_{2}-S_{T},  0]$
+A range forward contract specifies a band $[X_{2},   X_{1}]$ .If the price of the underlying at maturity is within the band then the holder is obliged to buy the asset at its current price. If the price of the underlying at maturity is below $X_{2}$ then the holder has to buy at $X_{2}$ and if the price of the underlying at maturity is above $X_{1}$ then the holder has to buy at $X_{1}$ .The range forward is designed so that the initialvalue of the contract is zero and therefore similar to a forward contract. It is equivalent to a combination of a long call option with a strike price of $X_{1}$ and a written put option with a strike price of $X_{2}$ ，where the strike prices are chosen so that the put and the call have the same prices. The payoff at maturity to a range forward contract is $\operatorname*{max}[S_{T}-X_{1},   0]-\operatorname*{max}[X_{2}-S_{T},   0]$
 
 ### Break Forward
 
-A break forward contract specifies a delivery price $K$ and a break price $B$ at which the forward price can be broken. Thus at the maturity date,  the break price will be paid on a long forward position if $-B>S_{T}-K$ .For example if the break price is $\$10$ and the delivery price is S 100,  the payoff to the long forward position is $S_{T}-100$ .If $S_{T}<90$ ,  there will be a loss of more than S 10 and it will be worth while to pay the break price of $\$10$ .The payof
+A break forward contract specifies a delivery price $K$ and a break price $B$ at which the forward price can be broken. Thus at the maturity date,   the break price will be paid on a long forward position if $-B>S_{T}-K$ .For example if the break price is $\$10$ and the delivery price is S 100,   the payoff to the long forward position is $S_{T}-100$ .If $S_{T}<90$ ,   there will be a loss of more than S 10 and it will be worth while to pay the break price of $\$10$ .The payof
 
 
-At maturity is therefore $\operatorname*{max}[S_{T}-100, -10]=\operatorname*{max}[S_{T}-90, 0]-10$ .This then is just like a call option with a strike price of S 90 but where a payment of $\$10$ is paid at maturity. Since the break forward costs nothing when it is initiated,  it is essentially a deferred payment option,  where the payment of the initial cost of the option is deferred until maturity. Suppose that the interest rate until maturity is $\frac{1}{9}$ ,  then in our example a call option with a strike price of $\$90$ which costs $\$9$ us equivalent to a long break forward with a delivery price of $\$100$ and break price of 810 .In general letting 7 denote the interest to maturity and $C_{t}$ the current price of the call option with a strike price $X$ ,  then the call option is equivalent to a long position in a break forward contract with delivery price $X+(1+r) c_{t}$ and break price $(1+r) c_{t}$
+At maturity is therefore $\operatorname*{max}[S_{T}-100,  -10]=\operatorname*{max}[S_{T}-90,  0]-10$ .This then is just like a call option with a strike price of S 90 but where a payment of $\$10$ is paid at maturity. Since the break forward costs nothing when it is initiated,   it is essentially a deferred payment option,   where the payment of the initial cost of the option is deferred until maturity. Suppose that the interest rate until maturity is $\frac{1}{9}$ ,   then in our example a call option with a strike price of $\$90$ which costs $\$9$ us equivalent to a long break forward with a delivery price of $\$100$ and break price of 810 .In general letting 7 denote the interest to maturity and $C_{t}$ the current price of the call option with a strike price $X$ ,   then the call option is equivalent to a long position in a break forward contract with delivery price $X+(1+r) c_{t}$ and break price $(1+r) c_{t}$
 
 ## Rainbow Options
 
-It is possible to write options on more than one underlying asset. Such options are called rainbow options. For example a put option may specify that you have the option to deliver one from a range of different assets. Clearly if the exercise price is the same for all assets specified,  and if you decide to exercise your option to sell,  you will choose to deliver that asset with the lowest current price. Thus if there are two assets specified and their prices are $S^{\mathrm{I}}$ and $S^{2}$ ， then the intrinsic value of the put option is
+It is possible to write options on more than one underlying asset. Such options are called rainbow options. For example a put option may specify that you have the option to deliver one from a range of different assets. Clearly if the exercise price is the same for all assets specified,   and if you decide to exercise your option to sell,   you will choose to deliver that asset with the lowest current price. Thus if there are two assets specified and their prices are $S^{\mathrm{I}}$ and $S^{2}$ ， then the intrinsic value of the put option is
 
-$$x\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S^1,  S^2]&\text{if}\min[S^1,  S^2]\leq X\\0&\text{if}\min[S^1,  S^2]>X.\end{array}\right.$$
+$$x\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S^1,   S^2]&\text{if}\min[S^1,   S^2]\leq X\\0&\text{if}\min[S^1,   S^2]>X.\end{array}\right.$$
 
 ## "As-you-like-it" Options
 
-This is an option where the holder can decide at a specific time whether the option is a put or a call option. Suppose that the where the decision must be made is $t$ . The value of the option at this time is $\max[c_{t},  p_{t}]$ .If the as-you-like-option offers the choice between a European put and a European
+This is an option where the holder can decide at a specific time whether the option is a put or a call option. Suppose that the where the decision must be made is $t$ . The value of the option at this time is $\max[c_{t},   p_{t}]$ .If the as-you-like-option offers the choice between a European put and a European
 
 
-Call with the same strike price and same maturity date $T$ , then the put call parity condition can be used and
+Call with the same strike price and same maturity date $T$ ,  then the put call parity condition can be used and
 
-$$\max[c_t,  p_t]=\max\left[c_t,  c_t+\frac{X}{(1+r)}-S_t\right]=c_t+\max\left[0, \frac{X}{(1+r)}-S_t\right]$$
+$$\max[c_t,   p_t]=\max\left[c_t,   c_t+\frac{X}{(1+r)}-S_t\right]=c_t+\max\left[0,  \frac{X}{(1+r)}-S_t\right]$$
 
 Where 7 is the risk-free interest rate between $t$ and thematurity date $T$ .The as-you-like-it option therefore consist of aportfolio of a call option with strike price $X$ and maturity at date $T$ and a put option with strike price $\frac{X}{(1+r)}$ and maturity at date $t$
 
 ## Barrier Options
 
-Barrier options have a payoff that depends on whether the underlying asset reaches a certain level,  the barrier,  prior to maturity. There are two main varieties of barrier option. The knock-in only pays out if the price of the underlying reaches the barrier and the knock-out only pays out if the underlying does not reach the barrier. These can be further classified by whether the barrier is set above or below the initial value of the underlying asset. If the barrier is above the initial value of the underlying,  it is said to be an up option. If the barrier is below the initial value of the underlying asset,  it is said tobe a down option. The payoff at maturity for a down-and-out call option is
+Barrier options have a payoff that depends on whether the underlying asset reaches a certain level,   the barrier,   prior to maturity. There are two main varieties of barrier option. The knock-in only pays out if the price of the underlying reaches the barrier and the knock-out only pays out if the underlying does not reach the barrier. These can be further classified by whether the barrier is set above or below the initial value of the underlying asset. If the barrier is above the initial value of the underlying,   it is said to be an up option. If the barrier is below the initial value of the underlying asset,   it is said tobe a down option. The payoff at maturity for a down-and-out call option is
 $$c_T^{down-out}=\left\{\begin{array}{lll}c_T&\text{if}\:S_t>B&\text{for all}\: t\leq T\\0&\text{if}\:S_t<B&\text{for any}\: t\leq T\end{array}\right.$$
 
-Where $B$ is the barrier and $CT$ is the value of the plain vanilla call option. Clearly if you own both a down and out call option together with a down an in call option on the same underlying with the same barrier,  strike prices and maturity,  then you have a plain vanilla call option. So for calls and puts and down and up options:
+Where $B$ is the barrier and $CT$ is the value of the plain vanilla call option. Clearly if you own both a down and out call option together with a down an in call option on the same underlying with the same barrier,   strike prices and maturity,   then you have a plain vanilla call option. So for calls and puts and down and up options:
 
 $$\mathrm{vanilla}=\mathrm{in}+\mathrm{out}.$$
 
 
-Barrier option sometimes specify a double barrier with an upper and lower limit. Sometimes the barrier changes over time. Sometimes a rebate is paid if the barrier is hit. Some options become barrier options if a particulan value,  usually the strike price,  for the underlying is reached
+Barrier option sometimes specify a double barrier with an upper and lower limit. Sometimes the barrier changes over time. Sometimes a rebate is paid if the barrier is hit. Some options become barrier options if a particulan value,   usually the strike price,   for the underlying is reached
 
 ### Lookback Options
 
@@ -745,4 +745,4 @@ Lookback options have a payof that depends on the maximum or minimum value that 
 
 ## Asian Options
 
-An Asian option has a payoff that depends on the average price of the underlying asset from its starting date. Thus the intrinsic value of an average price Asian call option is $\operatorname*{max}[0,  S_{ave}-X]$ ，where $S_{ave}$ is the average value of the asset from the start of the option to the current date. Another type of Asian option is the average strike price type,  where the strike price is the average value. In this case the intrinsic value of the call is $\operatorname*{max}[0,  S_{t}-S_{ave}]$ and the intrinsic value of the put is $\operatorname*{max}[S_{ave}-S_{t},  0]$
+An Asian option has a payoff that depends on the average price of the underlying asset from its starting date. Thus the intrinsic value of an average price Asian call option is $\operatorname*{max}[0,   S_{ave}-X]$ ，where $S_{ave}$ is the average value of the asset from the start of the option to the current date. Another type of Asian option is the average strike price type,   where the strike price is the average value. In this case the intrinsic value of the call is $\operatorname*{max}[0,   S_{t}-S_{ave}]$ and the intrinsic value of the put is $\operatorname*{max}[S_{ave}-S_{t},   0]$
