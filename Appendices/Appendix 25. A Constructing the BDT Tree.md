@@ -43,7 +43,7 @@ The volatilities in Table 25.1 are yield volatilities. Thus,  to verify the vola
 
 $$0.5\times\ln\left (\frac{0.8832^{-1}-1}{0.9023^{-1}-1}\right)=0.1$$
 
-From Figure 25.14,  the 3-year bond in year 1 (which will be a 2-year bond) will be worth either $\$0.7560$ ,    with a yield of $0.7560^{-1/2}-$ l=0.1501 or $0.8099^{-1/2}-1=0.1112$ The yield volatility is then
+From Figure 25.14,  the 3-year bond in year 1 (which will be a 2-year bond) will be worth either $\$0.7560$ ,      with a yield of $0.7560^{-1/2}-$ l=0.1501 or $0.8099^{-1/2}-1=0.1112$ The yield volatility is then
 
 $$0.5\times\ln\left (\frac{0.1501}{0.1112}\right)=0.15$$
 
@@ -61,24 +61,24 @@ $$\$0.9091=\frac{1}{1+R_0}$$
 
 Thus,  $R_{0}=0.10$
 
-For the second node,  the year-1 price of a 1-year bond is $P (1,    2,    r_{u})$ or $P (1,    2,    r_{d})$ We require that two conditions be satisfied
+For the second node,  the year-1 price of a 1-year bond is $P (1,      2,      r_{u})$ or $P (1,      2,      r_{d})$ We require that two conditions be satisfied
 
 $$\begin{aligned}
-\$0.8116& =\frac{1}{1+0.10}\left[0.5\times P (1,    2,    r_{u})+0.5\times P (1,    2,    r_{d})\right] \\
+\$0.8116& =\frac{1}{1+0.10}\left[0.5\times P (1,      2,      r_{u})+0.5\times P (1,      2,      r_{d})\right] \\
 &=\frac{1}{1+0.10}\left (0.5\times\frac{1}{1+R_{1}e^{2\sigma_{1}}}+0.5\times\frac{1}{1+R_{1}}\right) s \\
-\text{0.10}& =0.5\times\ln ([P (1,    2,    r_{u})^{-1}-1]/[P (1,    2,    r_{d})^{-1}-1]) \\
+\text{0.10}& =0.5\times\ln ([P (1,      2,      r_{u})^{-1}-1]/[P (1,      2,      r_{d})^{-1}-1]) \\
 &=0.5\times\ln (R_{1}e^{2\sigma}/R_{1})
 \end{aligned}$$
 
-The second equation gives us $\sigma=0.1$ ,    and this value enables us to solve the first equation to obtain $R_{\mathrm{l}}=0.1082$
+The second equation gives us $\sigma=0.1$ ,      and this value enables us to solve the first equation to obtain $R_{\mathrm{l}}=0.1082$
 
-It is a bit messier to solve for the next set of conditions,    but conceptually we are still fitting two parameters ( $R_{2}$ and $\sigma_{2}$ ) to match two inputs (the 3-year yield and the 2-year yield volatility 1 year hence). The possible prices of a 2-year bond at the two nodes in year 1 arc $P (1,    3,    r_{u})$ and $P (1,    3,    r_{d}).$ Thus,    we have the two conditions
+It is a bit messier to solve for the next set of conditions,      but conceptually we are still fitting two parameters ( $R_{2}$ and $\sigma_{2}$ ) to match two inputs (the 3-year yield and the 2-year yield volatility 1 year hence). The possible prices of a 2-year bond at the two nodes in year 1 arc $P (1,      3,      r_{u})$ and $P (1,      3,      r_{d}).$ Thus,      we have the two conditions
 
 $$\begin{aligned}
-\$0.7118& =\frac{1}{1+0.10}\left[0.5\times P (1,    3,    r_{u})+0.5\times P (1,    3,    r_{d})\right] \\
+\$0.7118& =\frac{1}{1+0.10}\left[0.5\times P (1,      3,      r_{u})+0.5\times P (1,      3,      r_{d})\right] \\
 &=\frac{1}{1+0.10}\left[0.5\times\frac{1}{1.1322}\left (0.5\times\frac{1}{1+R_{2}e^{4\sigma_{2}}}+0.5\times\frac{1}{1+R_{2}e^{2\sigma_{2}}}\right)\right] \\
 &+0.5\times\frac{1}{1.1082}\left (0.5\times\frac{1}{1+R_{2}e^{2\sigma_{2}}}+0.5\times\frac{1}{1+R_{2}}\right) \\
-\text{0.15}& =0.5\times\ln ([P (1,    3,    r_{u})^{-1/2}-1]/[P (1,    3,    r_{d})^{-1/2}-1]) 
+\text{0.15}& =0.5\times\ln ([P (1,      3,      r_{u})^{-1/2}-1]/[P (1,      3,      r_{d})^{-1/2}-1]) 
 \end{aligned}$$
 
-By iterating,    it is possible to solve $R_{2}$ and $\sigma_{2}$ . In the same way,    it is possible to solve for the parameters for each subsequent period.
+By iterating,      it is possible to solve $R_{2}$ and $\sigma_{2}$ . In the same way,      it is possible to solve for the parameters for each subsequent period.

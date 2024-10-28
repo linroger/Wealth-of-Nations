@@ -1,11 +1,11 @@
 ---
-title: Appendix 20. A Valuation Using Discounted Cash Flow
-aliases: [A Valuation Using Discounted Cash Flow]
+title: Appendix 20.A Valuation Using Discounted Cash Flow
+aliases: [Valuation Using Discounted Cash Flow]
 ---
 
-# Appendix 20. A Valuation Using Discounted Cash Flow
+# Appendix 20.A Valuation Using Discounted Cash Flow
 
-For the special case where the stock follows geometric Brownian motion,  and where the claim has the payoff $S^{u}$ ,  we can also use discounted cash flow (DCF) to value the claim. In general,  there is no reason to use DCF when we can perform risk-neutral valuation,  bu it is instructive to see how DCF works in the case where a claim pays $S^{a}$ .We can value the claim by discounting the expected payoff under the physical measure at an appropriate discount rate. To do this we must compute the expected value of the claim and discount the expected payoff appropriately We know that the stock has a Sharpe ratio of $(\alpha-r)/\sigma$ . Equation (20.34) tells us that $S^{u}$ follows geometric Brownian motion with drift $a (\alpha-\delta)+0.5 a (a-1)\sigma^{2}$ and diffusion term $a_0 dZ$ gives us the process followed by $S^{a}$ . The requirement for equal Sharpe ratios tells that the expected return for a claim paying $S^{a},      \alpha_{a}$ must satisfy
+For the special case where the stock follows geometric Brownian motion,  and where the claim has the payoff $S^{u}$ ,  we can also use discounted cash flow (DCF) to value the claim. In general,  there is no reason to use DCF when we can perform risk-neutral valuation,  bu it is instructive to see how DCF works in the case where a claim pays $S^{a}$ .We can value the claim by discounting the expected payoff under the physical measure at an appropriate discount rate. To do this we must compute the expected value of the claim and discount the expected payoff appropriately We know that the stock has a Sharpe ratio of $(\alpha-r)/\sigma$ . Equation (20.34) tells us that $S^{u}$ follows geometric Brownian motion with drift $a (\alpha-\delta)+0.5 a (a-1)\sigma^{2}$ and diffusion term $a_0 dZ$ gives us the process followed by $S^{a}$ . The requirement for equal Sharpe ratios tells that the expected return for a claim paying $S^{a},       \alpha_{a}$ must satisfy
 $$\frac{\alpha_a-r}{a\sigma}=\frac{\alpha-r}{\sigma}$$
 This implies that $\alpha_{a}$ is
 $$\alpha_{a}=a (\alpha-r)+r$$
@@ -15,8 +15,8 @@ The economic issue is that if $\alpha$ is the equilibrium return for the stock-t
 $$\mathrm{E}_{0}\left[S (T)^{a}\right]=S (0)^{a}e^{[a (\alpha-\delta)+\frac{1}{2}a (a-1)\sigma^{2}]T}$$
 The expected return on this claim,  which is also the appropriate discount rate,  is given by expression (20.46). The price at time 0 of a claim paying $S (T)^{a}$ at time 1 is therefore the discounted expected payoff:
 $$\begin{aligned}
-F_{0,      T}^{P}(S^{a})& =e^{-[r+a (\alpha-r)]T}\mathrm{E}(S (T)^{a})  \\
+F_{0,       T}^{P}(S^{a})& =e^{-[r+a (\alpha-r)]T}\mathrm{E}(S (T)^{a})  \\
 &=e^{-[r+a (\alpha-r)]T}S (0)^{a}e^{[a (\alpha-\delta)+\frac{1}{2}a (a-1)\sigma^{2}]T} \\
 &=S (0)^{a}e^{-rT}e^{[a (r-\delta)+\frac{1}{2}a (a-1)\sigma^{2}]T}
 \end{aligned}$$
-Note that the risk premium on the stock,      $\alpha-r$ drops out of the derivation. This illustrates that DCF yields the same answer as risk-neutral pricing. The use of a constant discount rate works in this case because the payoff to the claim is relatively simple. In many cases computing a price using DCF will be more difficult than computing the price using risk neutral valuation.
+Note that the risk premium on the stock,       $\alpha-r$ drops out of the derivation. This illustrates that DCF yields the same answer as risk-neutral pricing. The use of a constant discount rate works in this case because the payoff to the claim is relatively simple. In many cases computing a price using DCF will be more difficult than computing the price using risk neutral valuation.
