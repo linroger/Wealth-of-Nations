@@ -14,7 +14,7 @@ title: OPTIONS STRATEGIES CONSTRUCTION
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]
-	- [[CALCULATE STOCK PRICES AT DIFFERENT NODES]]
+	- [[Calculate Stock Prices at Different Nodes]]
 	- [[Options Strategies Construction]]
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]

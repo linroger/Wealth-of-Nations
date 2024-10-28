@@ -1,20 +1,16 @@
 ---
-aliases:
-- Alias_185_CALCULATE STOCK PRICES AT DIFFERENT NODES.md
-- Alias_184_CALCULATE STOCK PRICES AT DIFFERENT NODES.md
-- CALCULATE STOCK PRICES AT DIFFERENT NODES
+aliases: [Calculate Stock Prices at Different Nodes]
 linter-yaml-title-alias: CALCULATE STOCK PRICES AT DIFFERENT NODES
-tags:
-- tag_example
-title: CALCULATE STOCK PRICES AT DIFFERENT NODES
+tags: []
+title: Calculate Stock Prices at Different Nodes
 ---
 
-
+# Calculate Stock Prices at Different Nodes
 
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]
-	- [[CALCULATE STOCK PRICES AT DIFFERENT NODES]]
+	- [[Calculate Stock Prices at Different Nodes]]
 	- [[Options Strategies Construction]]
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]
@@ -46,9 +42,9 @@ Over two periods,  the stock price can have the following values:
 
 For a European call option with exercise price$K = 100$,  the payoffs at$t=2$are:
 
-- $C_{uu} = \max(S_{uu} - K,   0)$,
-- $C_{ud} = \max(S_{ud} - K,   0)$,
-- $C_{dd} = \max(S_{dd} - K,   0)$.
+- $C_{uu} = \max(S_{uu} - K,    0)$,
+- $C_{ud} = \max(S_{ud} - K,    0)$,
+- $C_{dd} = \max(S_{dd} - K,    0)$.
 
 ## STEP 4: DERIVE THE REPLICATING PORTFOLIO AT$T=1$
 
@@ -78,17 +74,17 @@ code_interpreter(
 
  Given values S 0 = 100 # Initial stock price u = 1.1 # Up factor d = 1/u # Down factor K = 100 # Strike price r = 0.05 # Risk-free rate
 
-# CALCULATE STOCK PRICES AT DIFFERENT NODES
+# Calculate Stock Prices at Different Nodes
 
 S_UU = S 0 * U**2 S_UD = S 0 #
 S_U * D OR S_D * U S_DD = S_{0} * D**2
 
 # CALCULATE OPTION PAYOFFS AT EXPIRY
 
-$C_{UU} = MAX(S_{UU} - K,   0)$
-$C_{UD} = MAX(S_{UD} - K,   0)$
-$C_{DD} = MAX(S_{DD} - K,   0)$
-$(S_{UU},   S_{UD},   S_{DD},   C_{UU},   C_{UD},   C_{DD})$
+$C_{UU} = MAX(S_{UU} - K,    0)$
+$C_{UD} = MAX(S_{UD} - K,    0)$
+$C_{DD} = MAX(S_{DD} - K,    0)$
+$(S_{UU},    S_{UD},    S_{DD},    C_{UU},    C_{UD},    C_{DD})$
 
 (121.00000000000001,  100,  82.64462809917354,  21.000000000000014,  0,  0)
 

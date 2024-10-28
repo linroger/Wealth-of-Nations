@@ -12,7 +12,7 @@ title: Teaching Note 6Implied Volatility
 
 
 
-# Teaching Note 6Implied Volatility
+# Lecture Note 6-Implied Volatility
 - **Title**: Implied Volatility
 - **Author**: John Heaton
 - **Institution**: The University of Chicago Booth School of Business
