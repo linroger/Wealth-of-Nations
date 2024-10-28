@@ -143,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial Derivatives and Quantitative Methods"
+              "title": "Options"
             }
           }
         ],
@@ -317,10 +317,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md"
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Financial Derivatives and Quantitative Methods"
+              "title": "File properties for Options"
             }
           }
         ],
@@ -350,14 +350,14 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "0f3760406ae22b97",
   "lastOpenFiles": [
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Asset Price Dynamics.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
     "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Calculate Stock Prices at Different Nodes.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Asset Price Dynamics.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
     "Financial Instruments/Untitled.md",
     "Appendices/Appendix 5.A Taxes and the Forward Price.md",
     "Appendices/Appendix 25. A Constructing the BDT Tree.md",

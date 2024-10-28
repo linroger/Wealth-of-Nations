@@ -1,5 +1,5 @@
 ---
-title: Pricing of Financial Instruments
+title: Financial Derivatives and Quantitative Methods
 ---
 
 # Financial Derivatives and Quantitative Methods
