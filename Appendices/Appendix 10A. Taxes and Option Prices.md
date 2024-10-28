@@ -1,8 +1,9 @@
 ---
-title: TAXES AND OPTION PRICES
+title: Appendix 10A. Taxes and Option Prices
+aliases: [Taxes and Option Prices]
 ---
 
-# TAXES AND OPTION PRICES
+# Appendix 10A. Taxes and Option Prices
 
 It is possible to solve for a binomial price when there are taxes. Suppose that each form of income is taxed at a different rate: interest at the rate $\tau_{i}$ ,  capital gains on a stock at the rate $l_{g}$ ,  capital gains on options at the rate $l0$ ,  and dividends at the rate $\tau_{d}$ We assume that taxes on all forms of income are paid on an accrual basis,  and that there is no limit on the ability to deduct losses or to offset losses on one form of income against gains on another form of income.
 

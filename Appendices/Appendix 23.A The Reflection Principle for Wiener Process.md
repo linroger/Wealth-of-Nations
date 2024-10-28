@@ -1,8 +1,9 @@
 ---
-title: Appendix 23. A THE REFLECTION PRINCIPLE
+title: Appendix 23.A The Reflection Principle for Wiener Process
+aliases: [The Reflection Principle for Wiener Process]
 ---
 
-# Appendix 23. A THE REFLECTION PRINCIPLE
+# Appendix 23.A The Reflection Principle for Wiener Process
 
 For every standard Brownian path there is an equally likely path that can be constructed by reflecting the path,  or a portion of the path,  with respect to a horizontal line. Figure 23.5 shows a Brownian path,  $X_{r}$ ,  denoted by ABC,  that is reflected beginning at the poin where the path reaches $X_{t}=70$ .Notice that the path BD is a mirror image,  reflected vertically around the line $X=70$ ,  of the original path BC. We will see that by considering the reflected path,  it is possible to transform barrier probability calculations into standard normal probability calculations
 
@@ -10,9 +11,9 @@ Suppose we have a Brownian motion that starts at $X_{0}$ and follows the process
 
 $$dX_{t}=\sigma dZ_{t}$$
 
-Thus,  $X_{I}$ is normally distributed with mean $X_{0}$ and variance $\sigma^{2}T$ .We want to know the joint probability that at time $T,   X_{T}$ will have hit the barrier $H<X_{0}$ and will also be above the level $K\geq H$ . If we let $\underline{X}_{\mathrm{r}}$ denote the lowest value of $X$ between O and $I$ ,  we wish to compute the joint probability
+Thus,  $X_{I}$ is normally distributed with mean $X_{0}$ and variance $\sigma^{2}T$ .We want to know the joint probability that at time $T,     X_{T}$ will have hit the barrier $H<X_{0}$ and will also be above the level $K\geq H$ . If we let $\underline{X}_{\mathrm{r}}$ denote the lowest value of $X$ between O and $I$ ,  we wish to compute the joint probability
 
-$$\Pr (X_{T}>K,   \underline{X}_{T}\leq H)$$
+$$\Pr (X_{T}>K,     \underline{X}_{T}\leq H)$$
 
 ## FIGURE 23.5
 
@@ -31,28 +32,28 @@ Of paths that start at 80,  hit 70,  and end up below 40. But for this second se
 The level 40 in this example can be expressed as
 $$\begin{array}{c}70-(100-70)=H-(K-H)\\=2 H-K\end{array}$$
 Thus,  the fraction of Brownian paths which satisfy our conditions is
-$$\Pr (X_{t}>K\:,   \underline{X}_{t}\leq H)=\Pr (X_{T}<2 H-K)$$
+$$\Pr (X_{t}>K\:,     \underline{X}_{t}\leq H)=\Pr (X_{T}<2 H-K)$$
 This is a standard normal probability calculation:
 $$\begin{aligned}
 \operatorname*{Pr}(X_{T}<2 H-K)& =\mathrm{Pr}\left (\frac{X_{T}-X_{0}}{\sigma\sqrt{T}}\leq\frac{2 H-K-X_{0}}{\sigma\sqrt{T}}\right) \\
 &=N\left (\frac{2 H-K-X_{0}}{\sigma\sqrt{T}}\right)
 \end{aligned}$$
-Because of the reflection principle,   the calculation with the hitting boundary involves only a standard normal calculation.
+Because of the reflection principle,     the calculation with the hitting boundary involves only a standard normal calculation.
 
-Example 23.1 Suppose $X_{0}=80,   \sigma=10$ ,   $H=70$ $K=100$ ,   and $T=5$ years. We have
+Example 23.1 Suppose $X_{0}=80,     \sigma=10$ ,     $H=70$ $K=100$ ,     and $T=5$ years. We have
 $$\begin{aligned}
-\Pr (X_{T}>100,   \underline{X}_{T}\leq 70|X_{0}=80)& =N\left ({\frac{2\times 70-100-80}{10{\sqrt{5}}}}\right) \\
+\Pr (X_{T}>100,     \underline{X}_{T}\leq 70|X_{0}=80)& =N\left ({\frac{2\times 70-100-80}{10{\sqrt{5}}}}\right) \\
 &=N (-1.7889)=0.0368\:\equiv 
 \end{aligned}$$
-If we wish to calculate $\Pr (X_{T}>100,   \underline{X}_{T}>70)$ (the probability that a knockout call will pay off),   we can use the fact that hitting and not hitting are mutually exclusive events. Thus,   
+If we wish to calculate $\Pr (X_{T}>100,     \underline{X}_{T}>70)$ (the probability that a knockout call will pay off),     we can use the fact that hitting and not hitting are mutually exclusive events. Thus,     
 $$\begin{aligned}
-\mathrm{Pr}(X_{T}>K,   \underline{X}_{T}>H)& =\mathrm{Pr}(X_{T}>K)-\mathrm{Pr}(X_{T}>K,   \underline{X}_{T}\leq H) \\
+\mathrm{Pr}(X_{T}>K,     \underline{X}_{T}>H)& =\mathrm{Pr}(X_{T}>K)-\mathrm{Pr}(X_{T}>K,     \underline{X}_{T}\leq H) \\
 &=N\left (\frac{X_{0}-K}{\sigma\sqrt{T}}\right)-N\left (\frac{2 H-K-X_{0}}{\sigma\sqrt{T}}\right)
 \end{aligned}$$
 
-The actual barrier formulas differ in two respects from equations (23.48) and (23.49) First,   with geometric Brownian motion,   $\ln (X_{t})$ is normally distributed rather than $X_{t}$ .This results in $X_{0}$ ,   $K$ ,   $H$ ,   being replaced with $\ln (X_{0})$ ,   etc.
+The actual barrier formulas differ in two respects from equations (23.48) and (23.49) First,     with geometric Brownian motion,     $\ln (X_{t})$ is normally distributed rather than $X_{t}$ .This results in $X_{0}$ ,     $K$ ,     $H$ ,     being replaced with $\ln (X_{0})$ ,     etc.
 
-More importantly,   we assumed that $X$ was a Brownian motion with no drift. The construction of the reflection depends crucially on this assumption. By rewriting equatior 23.6,   however,   you can see that it reduces to equation (23.48) when $r-\delta-0.5\sigma^{2}=0$ (the logarithmic drift is zero):
+More importantly,     we assumed that $X$ was a Brownian motion with no drift. The construction of the reflection depends crucially on this assumption. By rewriting equatior 23.6,     however,     you can see that it reduces to equation (23.48) when $r-\delta-0.5\sigma^{2}=0$ (the logarithmic drift is zero):
 
 $$\exp\left (2\frac{r-\delta-0.5\sigma^2}{\sigma^2}\ln (H/S)\right) N\left[\frac{2\ln (H)-\ln (S)-\ln (K)+(r-\delta-0.5\sigma^2) T}{\sigma\sqrt{T}}\right]$$
 
@@ -60,6 +61,6 @@ The incorporation of drift into barrier problems is discussed in Harrison (1985)
 
 ## References
 
-Harrison,   J. M.,   1985,   Brownian Motion and Stochastic Flow Systems,   John Wiley & Sons,   New York
+Harrison,     J. M.,     1985,     Brownian Motion and Stochastic Flow Systems,     John Wiley & Sons,     New York
 
 
