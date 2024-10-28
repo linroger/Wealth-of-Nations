@@ -18,7 +18,7 @@ The important insight is that broker-dealers are marked-to-market for tax purpos
 $$F_{0,      1}=S_0\left(1+r\right)-Div$$
 The same as equation (5.5).
 
-# Appendix 5.C FORWARD AND FUTURES PRICES WHEN INTEREST RATES ARE RANDOM
+# Appendix 5.C Forward and Futures Prices When Interest Rates Are Random
 
 This appendix formalizes the difference between forward and futures prices and shows the relationship between them when interest rates are stochastic. We will use the following notation:
 
@@ -83,30 +83,8 @@ Suppose that $C(K_{\mathrm{l}})<$ $C(K_{2})$ ; i.e.,       a lower strike call h
 - The net is $K_{2}-K_{1}$ which is positive.
 
 What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens,      we can simply exercise the purchased option,       earning the payoffs in the table. If it is not optimal to exercise the purchased option,      we can sell it,      earning even higher payoffs
-$$
-\usepackage{multirow}
-\begin{table}[]
-\begin{tabular}{lllll}
-\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Transaction}}} & \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Time 0}}} & \multicolumn{3}{c}{\textbf{Expiration or Exercise}} \\
-\multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{\textbf{\$S\_T}} & \multicolumn{1}{c}{\textbf{$\mathbf{K}_{1}\leq\mathbf{S}_{\mathrm{T}}\leq\mathbf{K}_{2}$}} & \multicolumn{1}{c}{\textbf{$S_{\mathrm{T}}>\mathbf{K}_{2}$}} \\
-Buy 1 $K_{1}$-strike call & $-C (K_1)$ & 0 & $S_{T}-K_{\mathrm{l}}$ & $S_T$ $K$ 一 \\
-Sell $K_{2}$-strike call & $C (K_2)$ & 0 & 0 & $\underline{K_2-S_T}$ \\
-Total & $C (K,      )-C (K_{1})$ & 0 & $S_{T}-K_{\perp}$ & $K_{2}$ $,      -K.$ I
-\end{tabular}
-\end{table}
-$$
-```latex
-% Please add the following required packages to your document preamble:
-\begin{document}
-\usepackage{multirow}
-\begin{tabular}{lllll}
-\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Transaction}}} & \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Time 0}}} & \multicolumn{3}{c}{\textbf{Expiration or Exercise}}                                                                                                                                             \\
-\multicolumn{1}{c}{}                                      & \multicolumn{1}{c}{}                                 & \multicolumn{1}{c}{\textbf{\$S\_T}} & \multicolumn{1}{c}{\textbf{$\mathbf{K}_{1}\leq\mathbf{S}_{\mathrm{T}}\leq\mathbf{K}_{2}$}} & \multicolumn{1}{c}{\textbf{$S_{\mathrm{T}}>\mathbf{K}_{2}$}} \\
-Buy 1 $K_{1}$-strike call                                 & $-C (K_1)$                                           & 0                                   & $S_{T}-K_{\mathrm{l}}$                                                                     & $S_T$ $K$ 一                                                  \\
-Sell $K_{2}$-strike call                                  & $C (K_2)$                                            & 0                                   & 0                                                                                          & $\underline{K_2-S_T}$                                        \\
-Total                                                     & $C (K,      )-C (K_{1})$                               & 0                                   & $S_{T}-K_{\perp}$                                                                          & $K_{2}$ $,      -K.$  I                                       
-\end{tabular}
-```
+
+
 
 <table>
 	<tbody>
@@ -207,6 +185,21 @@ Time 0. We earn net premium since the initial assumption is that $C(K_{\mathrm{l
 
 What adjustments do we have to make if the options are American? If the written $K_{\mathrm{l}}$ option is exercised,       we can duplicate the payoffs in the table by throwing our option away (if $K_{1}\leq S_{T}\leq K_{2})$ or exercising it (if $S_{T}\geq K_{2}$ ). Since it never makes sense to discard an unexpired option,       and since exercise may not be optimal,       we can do at least as well as the payoff in the table if the options are American. You may have noticed that if the options are European,      we can put a tighter restriction on the difference incall premiums—namely,       $C(K_{1})-C(K_{2})<PV(K_{2}-K_{1})$ We would show this by lending $PV(K_{2}-K_{1})$ instead of $K_{2}-K_{1}$ . This strategy does not work if the options are American,       since we do not know how long it will be before the options are exercised,       and,      hence,       we do not know what time to use in computing the present value.
 
+```latex
+
+\usepackage{tikz}
+\begin{document}
+  \begin{tikzpicture}[domain=0:4]
+    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
+    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
+    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
+    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
+    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
+    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
+  \end{tikzpicture}
+\end{document}
+
+```
 ### The Call Premium Is a Convex Function of the Strike Price.
 This proposition says that as the option moves more into the money,      its premium increases at a faster rate. To prove it,       suppose that $C(K_{2})\geq\lambda C(K_{1})+(1-\lambda)C(K_{3})$ We can make money initially by selling the $K_{2}$ -strike call,       buying $\lambda$ $K_{\mathrm{l}}$ -strike calls,       and buying $1-\lambda$ $K_{3}$ -strike calls. Table 9.12 summarizes the results.
 
