@@ -305,13 +305,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendices/Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
+                "file": "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Risk-Neutral Pricing and Marginal Utility in the Binomial Model"
+              "title": "Appendix 5.C Forward And Futures Prices When Interest Rates Are Random"
             }
           }
         ],
@@ -469,10 +469,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Appendices/Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md"
+                "file": "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Risk-Neutral Pricing and Marginal Utility in the Binomial Model"
+              "title": "File properties for Appendix 5.C Forward And Futures Prices When Interest Rates Are Random"
             }
           }
         ],
@@ -502,8 +502,9 @@
   },
   "active": "c2877fc173dcd427",
   "lastOpenFiles": [
-    "Appendices/Appendices.md",
     "Appendices/Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
+    "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md",
+    "Appendices/Appendices.md",
     "Financial Instruments/Pricing of Financial Instruments/Options.md",
     "Appendices",
     "Financial Instruments/Pricing of Financial Instruments/Pricing of Financial Instruments.md",
@@ -529,7 +530,6 @@
     "HBR Notes/A Strategic Perspective on Bankruptcy.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Lecture Slides 1.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class 8- Markets, Meltdowns, and Arbitrage.md",
     "China Foreign Exchange Reserves",
     "QuantLib-Python",
     "Attachments/Binomial_Tree_Price_For_Varying_Steps.png",
