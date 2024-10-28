@@ -113,13 +113,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendices/Untitled 1.md",
+                "file": "Appendices/Appendix 16.A An Alternative Approach to Expensing Option Grants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Appendix 16.A An Alternative Approach to Expensing Option Grants"
             }
           }
         ],
@@ -287,10 +287,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Appendices/Untitled 1.md"
+                "file": "Appendices/Appendix 16.A An Alternative Approach to Expensing Option Grants.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 1"
+              "title": "File properties for Appendix 16.A An Alternative Approach to Expensing Option Grants"
             }
           }
         ],
@@ -320,9 +320,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "67561ce3c0705fc9",
+  "active": "ea1a0a5e0c98a87a",
   "lastOpenFiles": [
+    "Appendices/Appendix 10.A Taxes and Option Prices.md",
     "Appendices/Appendix 19.A Formulas for Geometric Average Options.md",
+    "Appendices/Untitled 1.md",
     "Appendices/Appendix 20. A Valuation Using Discounted Cash Flow.md",
     "Appendices/Appendix 9.B Algebraic Proofs of Strike-Price Relations.md",
     "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md",
@@ -330,14 +332,12 @@
     "Appendices/Untitled.md",
     "Appendices/Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
     "Appendices/Appendix 17A. Calculation of Optimal Time to Drill an Oil Well.md",
-    "Appendices/Appendix 16A. An Alternative Approach to Expensing Option Grants.md",
+    "Appendices/Appendix 16.A An Alternative Approach to Expensing Option Grants.md",
     "Appendices/Appendix 18.B Constructing a Normal Probability Plot.md",
-    "Appendices/Appendix 10A. Taxes and Option Prices.md",
     "Appendices/Appendix 25. A Constructing the BDT Tree.md",
     "Appendices/Appendix 23.A The Reflection Principle for Wiener Process.md",
     "Appendices/Appendix 21.C Solutions for Black-Scholes PDE.md",
     "Appendices/Appendix 21.C SOLUTIONS FOR PRICES AND PROBABILITIES.md",
-    "Appendices/Untitled 1.md",
     "Appendices/Appendices.md",
     "preamble.sty",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",

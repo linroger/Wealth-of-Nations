@@ -1,8 +1,9 @@
 ---
 title: Appendix 16A. An Alternative Approach to Expensing Option Grants
+aliases:
 ---
 
-# Appendix 16A. An Alternative Approach to Expensing Option Grants
+# Appendix 16.A An Alternative Approach to Expensing Option Grants
 
 How should companies account for compensation options? One approach is to fully deduct the market value of the option at exercise; this is the approach taken in taxing option grants: A deduction at exercise gives an expense with a present value equal to the price at grant. However,  by waiting to deduct the expense,  the firm's reported income in earlier years will not reflect the economic value of compensation in those years.
 
