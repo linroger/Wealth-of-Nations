@@ -15,7 +15,7 @@ title: Foreign Exchange Quoting Conventions
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]
-- [[PRIMARY VS. SECONDARY COMMODITIES]]
+- [[Primary vs. Secondary Commodities]]
 - [[Foreign Exchange Quoting Conventions]]
 - [[Forward Contracts on Exchange Rates]]
 - [[Forwards and Futures Notes]]

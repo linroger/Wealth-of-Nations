@@ -18,7 +18,7 @@ title: Teaching Note 7 A Rundown On Continuous Time Models
 [[Fixed Income Lecture Notes]]
  [[Introduction to Fixed Income Asset Pricing]]
  [[Lecture Note 2Interest Rate Risk Management And Factors]]
- [[FORWARD RATES AND TERM STRUCTURE]]
+ [[Forward Rates and Term Structure]]
  [[Teaching Note 4 Interest Rate Derivatives]]
  [[Teaching Note 5 Risk Neutral Pricing]]
 [Teaching Note 6 Mortgage Backed Securities](Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)

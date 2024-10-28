@@ -23,7 +23,7 @@ title: Teaching Note 1Forward Rates Agreement
 	- [[Forwards and Futures Notes]]
 	- [[Hedging Strategies with Forwards]]
 	- [[Interest Rates, Carry Trades, and Exchange Rate Movements]]
-	- [[PRIMARY VS. SECONDARY COMMODITIES]]
+	- [[Primary vs. Secondary Commodities]]
 	- [[Teaching Note 1- Forward Rates Agreement]]
 
 %% End Waypoint %%
@@ -32,7 +32,7 @@ title: Teaching Note 1Forward Rates Agreement
 	- [[Ch1 Introduction to Derivative Markets]]
 	- [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 	- [[Deriving Forward Exchange Rate Numerical Example]]
-	- [[Differences Between Co[[PRIMARY VS. SECONDARY COMMODITIES]]uoting Conventions]]
+	- [[Differences Between Co[[Primary vs. Secondary Commodities]]uoting Conventions]]
 	- [[Forward Contracts on Exchange Rates]]
 	- [[Forwards and Futures Notes]]
 	- [[Hedging Strategies with Forwards]]
