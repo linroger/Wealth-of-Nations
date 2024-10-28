@@ -28,19 +28,19 @@ Let $X$ be the exercise price and $S_{T}$ the price of the underlying stock at t
 
 $$p_T=\left\{\begin{array}{ll}X-S_T&\text{if}S_T\leq X\\0&\text{if}S_T>X.\end{array}\right.$$
 
-or more simply $p_{T}=\operatorname*{max}[X-S_{T},   0]$ .If $S_{T}<X$，then the put is said to finish in-the-money and the option will be exercised. The holder of this option will buy the underlying stock at a price of $S_{T}$ and exercise their right to sell it to the writer at the strike price of $X$ ,  to make a profit of $X-S_{T}$ If $S_{T}>X$，the option is said to finish out-of-the-money and exercising the right to sell the underlying asset would result in a loss. So the right to sell won't be exercised. The payoff will be zero in this case. Hence with an option the payoff is never negative. Assets with non-negative payoffs are know as limited liability assets.
+or more simply $p_{T}=\operatorname*{max}[X-S_{T},     0]$ .If $S_{T}<X$，then the put is said to finish in-the-money and the option will be exercised. The holder of this option will buy the underlying stock at a price of $S_{T}$ and exercise their right to sell it to the writer at the strike price of $X$ ,  to make a profit of $X-S_{T}$ If $S_{T}>X$，the option is said to finish out-of-the-money and exercising the right to sell the underlying asset would result in a loss. So the right to sell won't be exercised. The payoff will be zero in this case. Hence with an option the payoff is never negative. Assets with non-negative payoffs are know as limited liability assets.
 
-Suppose that you hold a put option on a stock $PDQ$ .The exercise price is 1000 and the expiration date is in four weeks. The current stock price of $PDQ$ is 1109. If the stock is still at 1109 in four weeks time,  you we let the option expire without exercising your right to sell at 1000. If you exercised your right to sell you would have to deliver the stock,  which would cost you 1109,  and you would receive only 1000 in return. Clearly exercising the option to sell would result in a loss. You will not exercise and your payoff is $\operatorname*{max}[X-S_{T},   0]=\operatorname*{max}[1000-1109,   0]=0$ .However,  if $PDQ$ does badly and the stock price falls to 900 after four weeks,  you as holder of the put option will do well. In that case you can exercise your right to sell,  buying the stock at the reduced price of 900 and selling it to the holder at 1000. The payoff at maturity is $\operatorname*{max}[X-S_{T},   0]=\operatorname*{max}[1000-900,   0]=100$ per unit.
+Suppose that you hold a put option on a stock $PDQ$ .The exercise price is 1000 and the expiration date is in four weeks. The current stock price of $PDQ$ is 1109. If the stock is still at 1109 in four weeks time,  you we let the option expire without exercising your right to sell at 1000. If you exercised your right to sell you would have to deliver the stock,  which would cost you 1109,  and you would receive only 1000 in return. Clearly exercising the option to sell would result in a loss. You will not exercise and your payoff is $\operatorname*{max}[X-S_{T},     0]=\operatorname*{max}[1000-1109,     0]=0$ .However,  if $PDQ$ does badly and the stock price falls to 900 after four weeks,  you as holder of the put option will do well. In that case you can exercise your right to sell,  buying the stock at the reduced price of 900 and selling it to the holder at 1000. The payoff at maturity is $\operatorname*{max}[X-S_{T},     0]=\operatorname*{max}[1000-900,     0]=100$ per unit.
 
 Equally the payoff to the holder of a call option is
 
 $$c_T=\left\{\begin{array}{ll}0&\text{if}S_T\leq X\\S_T-X&\text{if}S_T>X.\end{array}\right.$$
 
-or more simply $c_{T}=\max[0,   S_{T}-X]$ .In this case the call finishes in the money if $S_{T}>X$ as the option holder can exercise the right to buy the underlying asset at a price of $X$ when it is worth the greater amount $S_{T}$ .If $S_{T}\leq X$ ,  the call option finishes out of the money and the right to buy will go unexercised
+or more simply $c_{T}=\max[0,     S_{T}-X]$ .In this case the call finishes in the money if $S_{T}>X$ as the option holder can exercise the right to buy the underlying asset at a price of $X$ when it is worth the greater amount $S_{T}$ .If $S_{T}\leq X$ ,  the call option finishes out of the money and the right to buy will go unexercised
 
-The writer of the call option has exactly the reverse of the payoff to the holder. The writer of the call has a payoff of $- c_{T}$ = $- \max [ 0,    S_{T}- X]$ = $\operatorname*{min}[0,   X-S_{T}]$ .When the option is exercised the writer will have to deliver a stock worth $S_{T}$ and receives a payment of $X$ from the holder. Since $S_{T}>X$ the writer makes a loss of $X-S_{T}$ .Likewise the payoff at maturity to the writer of a put option is $-p_{T}=-\operatorname*{max}[X-S_{T},   0]=\operatorname*{min}[S_{T}-X,   0]$
+The writer of the call option has exactly the reverse of the payoff to the holder. The writer of the call has a payoff of $- c_{T}$ = $- \max [ 0,      S_{T}- X]$ = $\operatorname*{min}[0,     X-S_{T}]$ .When the option is exercised the writer will have to deliver a stock worth $S_{T}$ and receives a payment of $X$ from the holder. Since $S_{T}>X$ the writer makes a loss of $X-S_{T}$ .Likewise the payoff at maturity to the writer of a put option is $-p_{T}=-\operatorname*{max}[X-S_{T},     0]=\operatorname*{min}[S_{T}-X,     0]$
 
-The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus the intrinsic value of the call option at time $t$ is $\operatorname*{max}[0,   S_{t}-X]$ where $S_{t}$ is the current price of the underlying asset and the intrinsic value of a put option is $\operatorname*{max}[X-S_{t},   0]$
+The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus the intrinsic value of the call option at time $t$ is $\operatorname*{max}[0,     S_{t}-X]$ where $S_{t}$ is the current price of the underlying asset and the intrinsic value of a put option is $\operatorname*{max}[X-S_{t},     0]$
 
 An American option will always trade at a price at or above its intrinsic value,  since with an American option it is always possible to exercise the
 
@@ -153,7 +153,7 @@ Three things are immediately obvious from this table. First the option prices in
 
 For a given strike price,  the table shows that the price of calls increases with the date to maturity. That is $C_{t}(T_{2})\geq C_{t}(T_{1})$ for $T_{2}>T_{1}$ where $C_{t}(T_{1})$ is the price of an American call option at date $t$ that matures at date $T_{1}$ and $C_{t}(T_{2})$ is the an option of the same type and class and with the same strike price but with a longer maturity. 1 From the table we can see that August calls on Tesco stock with a strike price of 160 trade at 27 but the longer maturity November calls trade at 31. There would be a simple arbitrage opportunity if $C_{t}(T_{1})>C_{t}(T_{2})$ for $T_{2}>T_{1}$ .Suppose that the prices were reversed and the
 
-November call on Tesco trades at 27 and the August call trades at 31. Then buying the lower priced November call and writing the August call yields a net infow of 4 today. Either the August call expires or is exercised prior to maturity. In either case its value is $\operatorname*{max}[0,   S_{t^{\prime}}-X]$ where $t^{\prime}$ is the maturity date in August or some time prior to the maturity date when the call is exercised. The value of the position is $C_{t^{\prime}}(Nov)-\operatorname*{max}[0,   S_{t^{\prime}}-X]$ . If this is positive then sell the November call at date $t^{\prime}$ to make a profit. Otherwise exercise the November call. Exercising the call yields the same value of $\operatorname*{max}[0,   S_{t^{\prime}}-X]$ no matter what the maturity date. So there is a completely offsetting gain from the bought November call and the written August call. In either case an arbitrage profit has been made. Note that this does not say anything about how the call value changes over time until maturity. It only compares prices at a particular date of options with different expiration dates. Neither does the argument work for European options which cannot be exercised early. However as a empirical matter European options do demonstrate the same pattern of prices rising with date to maturity
+November call on Tesco trades at 27 and the August call trades at 31. Then buying the lower priced November call and writing the August call yields a net infow of 4 today. Either the August call expires or is exercised prior to maturity. In either case its value is $\operatorname*{max}[0,     S_{t^{\prime}}-X]$ where $t^{\prime}$ is the maturity date in August or some time prior to the maturity date when the call is exercised. The value of the position is $C_{t^{\prime}}(Nov)-\operatorname*{max}[0,     S_{t^{\prime}}-X]$ . If this is positive then sell the November call at date $t^{\prime}$ to make a profit. Otherwise exercise the November call. Exercising the call yields the same value of $\operatorname*{max}[0,     S_{t^{\prime}}-X]$ no matter what the maturity date. So there is a completely offsetting gain from the bought November call and the written August call. In either case an arbitrage profit has been made. Note that this does not say anything about how the call value changes over time until maturity. It only compares prices at a particular date of options with different expiration dates. Neither does the argument work for European options which cannot be exercised early. However as a empirical matter European options do demonstrate the same pattern of prices rising with date to maturity
 
 Equally clear is that a call with a lower strike price must command a higher price. Thus $C_{t}(X_{1})\geq C_{t}(X_{2})$ if $X_{2}>X_{1}$ . This can be seen from Table 1. For example,  May calls on Rolls-Royce with a strike price of 200 are worth 11 but the May calls with the lower strike price of 180 are worth 22. This is simply because the call gives the holder the option to buy and the lower the exercise price at which the stock can be bought the more valuable is the option. If this were not true and $C_{t}( X_{1})$ < $C_{t}( X_{2})$ for $X_{2}>X_{1}$ then there is an arbitrage opportunity and the appropriate response is a bull spread. The payoffs can be seen in Table 2. This strategy buys the call with the lower strike price of $X_{1}$ and writes the call with the higher strike price of $X_{2}$ leading to cash inflow now of $C_{t}(X_{2})-C_{t}(X_{1})>0$ . In each case the payoff at maturity is non-negative. Thus for European options $c_{t}(X_{1})\geq c_{t}(X_{2})$ for $X_{2}>X_{1}$ .Equally suppose the options are of the American type,  then if the written option is exercised early,  the holder of that option will pay us $X_{2}$ for the stock. If we exercise the bought option immediately,  the stock can be
 
@@ -315,13 +315,13 @@ There are basically three varieties of trading strategies. A hedge combines an o
 
 ## A hedge
 
-Suppose that you write a call option. The payoff to a call option at maturity is $\operatorname*{max}[0,   S_{T}-X]$ where $X$ is the strike price and $S_{T}$ is the price of the underlying at maturity. Your payoff at maturity having written the call is therefore min $[0,   X-S_{T}]$ . If the price of the underlying rises above the strike price you will make a loss. Moreover,  these losses are potentially unlimited
+Suppose that you write a call option. The payoff to a call option at maturity is $\operatorname*{max}[0,     S_{T}-X]$ where $X$ is the strike price and $S_{T}$ is the price of the underlying at maturity. Your payoff at maturity having written the call is therefore min $[0,     X-S_{T}]$ . If the price of the underlying rises above the strike price you will make a loss. Moreover,  these losses are potentially unlimited
 
 If the price rises far above the strike price you are in a very exposed position. You may want to hedge or cover this risk. The obvious way to do so is to buy the stock which you will be obliged to deliver if the call is exercised. Taking a long position in the stock to hedge a written call is known as writing a covered call.
 
-The payoff at maturity to writing a covered call is $\operatorname*{min}[S_{T},   X]$ . This is far less risky than the naked short position in the call itself as now the worst that can happen is that you sell the underlying at a price below its market value. Of course the hedged position is costly,  it costs $S_{t}-c_{t}$，whereas the naked position has a positive initial inflow of cash of $Ct$ the price of the call option.
+The payoff at maturity to writing a covered call is $\operatorname*{min}[S_{T},     X]$ . This is far less risky than the naked short position in the call itself as now the worst that can happen is that you sell the underlying at a price below its market value. Of course the hedged position is costly,  it costs $S_{t}-c_{t}$，whereas the naked position has a positive initial inflow of cash of $Ct$ the price of the call option.
 
-Likewise if you buy a put option there will loss if the price of the underlying rises equal to the cost of the put option $p_{t}$ .The payoff at maturity will be $\max[0,   X-S_{T}]$ .However,  you will have to buy the stock if you wish to exercise the right to sell at the strike price $X$ .Thus you may wish to buy the stock in advance at the cost of $S_{t}$ .In this case the payoff at maturity is $\max[S_{T},   X]$ and the initial cost is $S_{t}+p_{t}$ .Going long in the put and the stock is known as a protective put strategy
+Likewise if you buy a put option there will loss if the price of the underlying rises equal to the cost of the put option $p_{t}$ .The payoff at maturity will be $\max[0,     X-S_{T}]$ .However,  you will have to buy the stock if you wish to exercise the right to sell at the strike price $X$ .Thus you may wish to buy the stock in advance at the cost of $S_{t}$ .In this case the payoff at maturity is $\max[S_{T},     X]$ and the initial cost is $S_{t}+p_{t}$ .Going long in the put and the stock is known as a protective put strategy
 
 ## A spread
 
@@ -421,7 +421,7 @@ $$c_t-p_t=E[k\cdot(S_T-X)]=E[k\cdot S_T]-XE[k]=S_t-\frac{X}{(1+r)}$$
 
 since by definition the appropriately discounted value of the stock price at time $T$ is the stock price now,  $S_{t}$ ,  and $E[k]$ is the appropriate discount factor. Again we have the same put-call parity condition.
 
-To labour the point once more remember that the payoff at maturity from writing a covered call is $\operatorname*{min}[S_{T},   X]$ .Suppose that in addition you go short in a risk free bond with a face value of $X$ .The overall payoff at maturity is $\operatorname*{min}[S_{T}-X,   0]$ ,  the same as writing a put option. The value of this portfolio is $S_{t}-c_{t}-\frac{X}{(1+r)}$ ,  which must equal the value of writing the put option,  $-p_{t}$
+To labour the point once more remember that the payoff at maturity from writing a covered call is $\operatorname*{min}[S_{T},     X]$ .Suppose that in addition you go short in a risk free bond with a face value of $X$ .The overall payoff at maturity is $\operatorname*{min}[S_{T}-X,     0]$ ,  the same as writing a put option. The value of this portfolio is $S_{t}-c_{t}-\frac{X}{(1+r)}$ ,  which must equal the value of writing the put option,  $-p_{t}$
 
 # 3 Arbitrage Bounds
 
@@ -429,7 +429,7 @@ We will know consider the payoff to the option prior to maturity. We will establ
 
 The intrinsic value or parity value of an option at time $t$ is the payoff to the option if the current date were the maturity date. Thus the intrinsic
 
-value of the call option at time $t$ is $\operatorname*{max}[0,   S_{t}-X]$ where $St$ is the current price of the underlying asset and the intrinsic value of a put option is $\max[X-S_{t},   0]$
+value of the call option at time $t$ is $\operatorname*{max}[0,     S_{t}-X]$ where $St$ is the current price of the underlying asset and the intrinsic value of a put option is $\max[X-S_{t},     0]$
 
 An American option will always trade at a price at or above its intrinsic value,  since with an American option it is always possible to exercise the option now and realise the intrinsic value. The difference between the price of an option an its intrinsic value is known as the premium or time value of the option. Thus the price of an option is the sum of its intrinsic value plus its premium
 
@@ -437,13 +437,13 @@ $$\text{price of option}=\text{intrinsic value}+\text{time value}.$$
 
 If an option is initially set up at the money,  $S_{0}=X$ then the intrinsic value of the option is 0 and the premium and price are equivalent. This accounts for why the option price is sometimes referred to as the premium. We will use the term time value to avoid confusion
 
-A European call option also has a positive time value. That is the price of a European call option cannot be less than its intrinsic value. Remember that the payoff to the call option is $Max[S_{T}-X,   0]$ .The call can be valued using the stochastic discount factors $k$ .Thus the value of the call option at time $t$ is $c_{t}=E[k\cdot Max[S_{T}-X,   0]]$ . Clearly
+A European call option also has a positive time value. That is the price of a European call option cannot be less than its intrinsic value. Remember that the payoff to the call option is $Max[S_{T}-X,     0]$ .The call can be valued using the stochastic discount factors $k$ .Thus the value of the call option at time $t$ is $c_{t}=E[k\cdot Max[S_{T}-X,     0]]$ . Clearly
 
 $$c_t\ge E[k\cdot(S_T-X)]=E[k\cdot S_T]-XE[k]=S_t-\frac{X}{(1+r)}$$
 
-where thefirst inequality comes from the definition of the maximum and the other equalities follow as $E[k\cdot S_{T}]=S_{t}$ 1,  the stochastically discounted value of the stock at maturity is its current value,  and the fact that $E[k]=\frac{1}{(1+r)}$ Equally since $S_{T}\geq0$ and $X\geq0$ ,  it follows that $Max[S_{T}-X,   0]\leq S_{T}$；sO $c_{t}\leq E[k\cdot S_{T}]=S_{t}$ .Since the call cannot command a negative price we have for the arbitrageboundsfor a call option
+where thefirst inequality comes from the definition of the maximum and the other equalities follow as $E[k\cdot S_{T}]=S_{t}$ 1,  the stochastically discounted value of the stock at maturity is its current value,  and the fact that $E[k]=\frac{1}{(1+r)}$ Equally since $S_{T}\geq0$ and $X\geq0$ ,  it follows that $Max[S_{T}-X,     0]\leq S_{T}$；sO $c_{t}\leq E[k\cdot S_{T}]=S_{t}$ .Since the call cannot command a negative price we have for the arbitrageboundsfor a call option
 
-$$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},   0\right].$$
+$$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},     0\right].$$
 
 <table>
 	<tbody>
@@ -476,7 +476,7 @@ $$S_t\ge c_t\ge\max\left[S_t-\frac{X}{(1+r)},   0\right].$$
 
 Since the strike price on the RHS is discounted we have $\frac{X}{(1+r)}<X$ ,  so that
 
-$$c_t\ge\max\left[S_t-\frac{X}{(1+r)},   0\right]>\max[S_t-X,   0]$$
+$$c_t\ge\max\left[S_t-\frac{X}{(1+r)},     0\right]>\max[S_t-X,     0]$$
 
 for $t<T$ and $r>0$ ,  so the European call has value greater than its intrinsic value at any date prior to maturity
 
@@ -532,13 +532,13 @@ An American option cannot beless valuable than the equivalent European option as
 
 The qualification that the underlying asset should be non-dividend paying is important. It may be optimal to exercise an American option early if the underlying asset is a dividend paying stock. Let $D_{t}$ denote the present value of dividends paid on the underlying during the remainder of the options life. Then the lower bound for the call option is $S_{t}-D_{t}-\frac{X}{(1+r)}$ .If $D_{t}$ is large enough,  then this lower bound can below the intrinsic value of $S_{t}-X$ .In this case it may be optimal to exercise early. To take an extreme case suppose that the call is in the money but the firm on which the option is written is unexpectedly to be liquidated and all the asset value is to be paid out in dividends. Then after the dividend payment,  the stock is worthless and the call option can never be in the money. In this case it is best to exercise early and take the positive value of exercise now.
 
-By analogy the arbitrage bounds for a European put option on a nondividend paying stock with a payoff of $Max[X-S_{T},    0]$ are
+By analogy the arbitrage bounds for a European put option on a nondividend paying stock with a payoff of $Max[X-S_{T},      0]$ are
 
-$$X\ge p_t\ge\max\left[\frac{X}{(1+r)}-S_t,    0\right].$$
+$$X\ge p_t\ge\max\left[\frac{X}{(1+r)}-S_t,      0\right].$$
 
 Note that an American put option cannot be less than its intrinsic value,  so the arbitrage bounds for an American put option are
 
-$$X\geq P_t\geq\max[X-S_t,    0].$$
+$$X\geq P_t\geq\max[X-S_t,      0].$$
 
 For an American put option early exercise can be optimal even if the underlying asset pays no dividends. To take an extreme example,  suppose that $S_{t}=0$ but $X>0$ .It is impossible to gain more by waiting since the stock price cannot fall further. In addition the gain to be had by waiting is discounted at the risk-free rate,  and if the interest rate is positive it is better to exercise now rather than wait. If exercise is ever optimal before maturity then $P_{t}=X-S_{t}$ since if $P_{t}>X-S_{t}$ it would be better to sell the option rather than exercise it.
 
@@ -603,28 +603,17 @@ $$C_t-P_t=S_t-X.$$
 
 If in addition the option is set up at date $t$ and the strike price is set so that the option is at-the-money (that is $X=S_{t}$ ) then we have exact parity between the put and call prices for American options too and $C_{t}=P_{t}$
 
-
-### Exercises:
-
-Exercise 4: The current gold price is $\$500$ per ounce. The forward price for delivery in one year is \$575 per ounce. The cost of storing an ounce of gold for one year is $\$40$ and this must be paid now in advance. The risk-free rate of interest is $10\%$ per annum. If you own ten ounces of gold,    how can you exploit an arbitrage opportunity to make $\$190$
-
-Exercise 5: Consider a forward contract written on a non-dividend paying asset. The current spot price is $\$65$ .The maturity of the contract is in 90 days and the interest rate over this period is $1.1\%$ .Determine the forward price. What is the value of this contract? A corporate client wants a 90-day
-
-forward contract with the delivery price set at $\$60$ .What is the value of this contract? (See Hull p0.\1).
-
-Exercise 6: Consider a one year futures contract on an underlying commodity that pays no income. It costs $\$5$ per unit to store the commodity with payment being made at the end of the period. The current price of the commodity is S 200 and the annual interest rate is $6\%$ . Find the arbitrage-free price of the futures contract. (See Hull p0.\1)
-
 # One Period Binomial Model
 
-These notes consider the one period binomial model to exactly price an option. We will consider three different methods of pricing an option: deltahedging,    creating a synthetic option using the underlying asset and the riskfree asset and calculating the risk-neutral probabilities or stochastic discount factors. All methods will be used again when we extend the binomial model beyond one period and when we consider continuous trading
+These notes consider the one period binomial model to exactly price an option. We will consider three different methods of pricing an option: deltahedging,  creating a synthetic option using the underlying asset and the riskfree asset and calculating the risk-neutral probabilities or stochastic discount factors. All methods will be used again when we extend the binomial model beyond one period and when we consider continuous trading
 
-Keywords: Delta-hedging,    synthetic options,    replication,    risk-neutral probabilities,    risk-neutral valuation.
+Keywords: Delta-hedging,  synthetic options,  replication,  risk-neutral probabilities,  risk-neutral valuation.
 
 Reading: Start of chapter 11 from Hull.
 
 ### Binomial Model
 
-To value options exactly it is necessary to make specific assumptions about the determinants of the price of the underlying security. In practice this often means that a continuous stochastic process for the underlying is estimated or inferred from observations on past prices. However,    the essential aspects can all be embodied in a simple binomial model in which the underlying asset can be one of two possible values at the end of each period; to put in starkly the asset can either go up or go down in value. By considering more than one period a binomial tree is constructed,    where the price that an asset has branches out,    either upward or downward at each point in time. These binomial trees can provide a remarkably good approximation to a more complex stochastic process provided that the number of periods is reasonably large,    say above thirty.
+To value options exactly it is necessary to make specific assumptions about the determinants of the price of the underlying security. In practice this often means that a continuous stochastic process for the underlying is estimated or inferred from observations on past prices. However,  the essential aspects can all be embodied in a simple binomial model in which the underlying asset can be one of two possible values at the end of each period; to put in starkly the asset can either go up or go down in value. By considering more than one period a binomial tree is constructed,  where the price that an asset has branches out,  either upward or downward at each point in time. These binomial trees can provide a remarkably good approximation to a more complex stochastic process provided that the number of periods is reasonably large,  say above thirty.
 
 In fact nearly all the basic principles of derivative pricing can be explained with a one or two period binomial model and this section develops the one period binomial model to study how options are exactly priced and the riskiness and elasticity of options.
 
@@ -634,21 +623,21 @@ Buying a stock is a risky investment. Buying a call option on that stock is even
 
 We will now illustrate how to calculate $\Delta$ in a simple binomial example Once $\Delta$ is known the option price itself can be calculated as any risk-free investment must in the absence of arbitrage opportunities earn the risk-free rate ofreturn.
 
-Consider a simple example where the price of the underlying stock is 100 and at the end of three months it has either risen to 175 or has fallen to 75. There is an "up" state and a"down” state. Let $u=0.75$ and $d=-0.25$ ,   SO that the value of the stock in three months in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,   and the net growth in the value of the stock in the down state is $-25\%$
+Consider a simple example where the price of the underlying stock is 100 and at the end of three months it has either risen to 175 or has fallen to 75. There is an "up" state and a"down” state. Let $u=0.75$ and $d=-0.25$ ,  SO that the value of the stock in three months in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,  and the net growth in the value of the stock in the down state is $-25\%$
 
 Since the stock can either rise by $75\%$ or fall by $25\%$ buying the stock is a risky investment. Now consider an at the money call option on this stock with a strike price of 100. If the stock goes up then in three months the
 
-Call can be exercised for a profit of 175-100=75 and if the price of the stock goes down,    then the call will not be exercised. Thus the payoff to the call option is 75 in the up state and 0 in the down state. So the call is also risky. Suppose however,    that we consider buying $\Delta$ units of the stock and writing one call. The payoff from this portfolio is $175\Delta-75$ in the up state: the stock has gone up to 175 but the call option we have written will be exercised against us so we have an obligation of 75 The payoff in the down state is simply $75\Delta$ as the call option is not exercised in the down state. To make this portfolio risk-free it is necessary to choose $\Delta$ such that
+Call can be exercised for a profit of 175-100=75 and if the price of the stock goes down,  then the call will not be exercised. Thus the payoff to the call option is 75 in the up state and 0 in the down state. So the call is also risky. Suppose however,  that we consider buying $\Delta$ units of the stock and writing one call. The payoff from this portfolio is $175\Delta-75$ in the up state: the stock has gone up to 175 but the call option we have written will be exercised against us so we have an obligation of 75 The payoff in the down state is simply $75\Delta$ as the call option is not exercised in the down state. To make this portfolio risk-free it is necessary to choose $\Delta$ such that
 
 $$175\Delta-75=75\Delta $$
 
-So that the payof is the same no matter whether we are in the up state or the down state. Solving for $\Delta$ gives $\Delta=3/4$ .Thus to completely hedge out the risk in the stock,    we should sell four call options for every three units of stock we buy. The payoff from such a portfolio is given in Table 1. The value in three months time is 225 in both states and hence the portfolio is riskfree. Since it is risk-free it can be valued using the risk-free rate of interest Suppose the risk-free rate of interest is 1/4 or $25\%$ .The present value of this portfolio is 225/(1+1/4)=180 .The value of the portfolio now is simply the current value of the share,    $3\times 100=300$ less $4 c$ where $C$ is the price of the call option. If there are no arbitrage possibilities then the value of this portfolio must also have a value of 3180:
+So that the payof is the same no matter whether we are in the up state or the down state. Solving for $\Delta$ gives $\Delta=3/4$ .Thus to completely hedge out the risk in the stock,  we should sell four call options for every three units of stock we buy. The payoff from such a portfolio is given in Table 1. The value in three months time is 225 in both states and hence the portfolio is riskfree. Since it is risk-free it can be valued using the risk-free rate of interest Suppose the risk-free rate of interest is 1/4 or $25\%$ .The present value of this portfolio is 225/(1+1/4)=180 .The value of the portfolio now is simply the current value of the share,  $3\times 100=300$ less $4 c$ where $C$ is the price of the call option. If there are no arbitrage possibilities then the value of this portfolio must also have a value of 3180:
 
 $$300-4 c=180.$$
 
 So solving for the call price gives $c=30$ .This shows that the $\Delta$ -hedge can be used to price the option.
 
-The same procedure can be generalized. Let S be the value of the underlying stock,    so its terminal value is $S_{u}=(1+u) S$ in the up state and $S_{d}=(1+d) S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0,    S_{u}-K]$ be the value of the call option in the up state and
+The same procedure can be generalized. Let S be the value of the underlying stock,  so its terminal value is $S_{u}=(1+u) S$ in the up state and $S_{d}=(1+d) S$ in the down state. Let $K$ be the strike price of the option and $c_{u}=\operatorname*{max}[0,      S_{u}-K]$ be the value of the call option in the up state and
 
 <table>
 	<tbody>
@@ -681,19 +670,19 @@ The same procedure can be generalized. Let S be the value of the underlying stoc
 
 Table 1: Risk-Free Portfolio - Example
 
-$c_{d}=\operatorname*{max}[0,    S_{d}-K]$ is the value of the call option in the down state. Remember,    that the call option gives us the right to buy the underlying at a priceof $K$ ，so for example in the up state when the stock is worth $S_{u}$ .the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
+$c_{d}=\operatorname*{max}[0,      S_{d}-K]$ is the value of the call option in the down state. Remember,  that the call option gives us the right to buy the underlying at a priceof $K$，so for example in the up state when the stock is worth $S_{u}$ .the option gives the right to buy at $K$ and asset that can be sold for $S_{u}$ .Thus the option will be exercised for a profit of $S_{u}-K$ if $S_{u}-K>0$ and won't be exercised otherwise.
 
-Now consider the $\Delta$ -hedge portfolio that writes one call and buys $\Delta$ units of the underlying. The payoffs from this portfolio are given in Table 2. The value of $\Delta$ is chosen so that the portfolio is riskless,    $\Delta S_{d}-c_{d}=\Delta S_{u}-c_{u}$ i.e.
+Now consider the $\Delta$ -hedge portfolio that writes one call and buys $\Delta$ units of the underlying. The payoffs from this portfolio are given in Table 2. The value of $\Delta$ is chosen so that the portfolio is riskless,  $\Delta S_{d}-c_{d}=\Delta S_{u}-c_{u}$ i.e.
 $$\Delta=\frac{c_u-c_d}{S_u-S_d}=\frac{c_u-c_d}{(u-d) S}.$$
 
-The value ofthe risk-free portfoliois evaluated at the risk-free rate ofinterest 7 ,    so that
+The value of the risk-free portfoliois evaluated at the risk-free rate ofinterest 7 ,  so that
 $$\Delta S-c=\frac{\Delta S_d-c_d}{(1+r)}.$$
 
-Using the value of $\Delta$ just derived,    and substituting $(1+d) S$ for $S_{d}$ and solving for $C$ gives after some manipulation
+Using the value of $\Delta$ just derived,  and substituting $(1+d) S$ for $S_{d}$ and solving for $C$ gives after some manipulation
 
 $$c=\frac{pc_u+(1-p) c_d}{(1+r)}$$
 
-Where $p$ = $( r- d) / ( u- d)$ .Thus for any values of $S$ ， $K$ ， 7 ， $UL$ and $d$ the value of the call option can be calculated from this formula.
+Where $p$ = $( rd) / ( ud)$ .Thus for any values of $S$，$K$，7，$UL$ and $d$ the value of the call option can be calculated from this formula.
 
 There is a natural interpretation for $\Delta$ .It is the difference in the value of the call at maturity $c_{u}-c_{d}$ in the up state rather than the down state
 
@@ -773,7 +762,7 @@ $$175\Delta+(1+1/4) B=75$$
 
 $$75\Delta+(1+1/4) B=0.$$
 
-Solving these two equations simultaneously gives $\Delta=3/4$ and $B$ = -45 Thus the option can be replicated by borrowing 45 and buying $\frac{3}{4}$ units of the stock. Since the stock costs 100 the the cost of buying 3/4 of a unit of stock is 75. Thus the net cost of synthesizing the option is the price we pay minus the amount borrowed,    75-45=30 .Again the portfolio that replicates or synthesizes the call must have the same price as the call itself. Hence $c=30$ and we reach exactly the same conclusion as before. The payoffs are summarized in Table 3.
+Solving these two equations simultaneously gives $\Delta=3/4$ and $B$ = -45 Thus the option can be replicated by borrowing 45 and buying $\frac{3}{4}$ units of the stock. Since the stock costs 100 the the cost of buying 3/4 of a unit of stock is 75. Thus the net cost of synthesizing the option is the price we pay minus the amount borrowed,  75-45=30 .Again the portfolio that replicates or synthesizes the call must have the same price as the call itself. Hence $c=30$ and we reach exactly the same conclusion as before. The payoffs are summarized in Table 3.
 
 Again it is simple to generalize this procedure. To find the number of shares to be bought $\Delta$ and the amount to invest $B$ to synthesize the option it is only necessary to solve simultaneously the following two equations:
 
@@ -787,7 +776,7 @@ And
 
 $$B=\frac{1}{1+r}(c_d-\Delta S_d)=\frac{1}{1+r}\left (c_d-\frac{(1+d) S (c_u-c_d)}{(S_u-S_d)}\right).$$
 
-This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$ .The value of the call in the up stateis $c_{u}=S_{u}-k$ and this is illustrated on the vertical axis. Also drawn is the line connected the two points $(S_{d},    c_{d})$ and $(S_{u},    c_{u})$ .The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r) B$ .It can be seen that the line is never downward sloping,    so $\Delta\geq 0$ and the slope is always less than $45^{o}$ ,   SO $\Delta\leq 1$ 0.\1 The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset)
+This is illustrated graphically in Figure 1. The payoff at maturity to the call option is illustrated by the thick line. The two possible end values for the stock $S_{u}$ and $S_{d}$ are drawn on the horizontal axis. The strike price $K$ has been chosen between the two values $S_{u}$ and $S_{d}$ so that in the down state the call option expires valueless and $c_{u}=0$ .The value of the call in the up stateis $c_{u}=S_{u}-k$ and this is illustrated on the vertical axis. Also drawn is the line connected the two points $(S_{d},      c_{d})$ and $(S_{u},      c_{u})$ .The slope of this line is $\Delta$ and the intercept with the vertical axis is $-\Delta S_{d}=-(1+r) B$ .It can be seen that the line is never downward sloping,  so $\Delta\geq 0$ and the slope is always less than $45^{o}$ ,  SO $\Delta\leq 1$ 0.\1 The intercept with the vertical axis is zero or negative indicating that the portfolio that synthesizes the call option involves borrowing (selling rather than buying the risk-free asset)
 
 The cost of synthesizing the option is the cost of the portfolio of $\Delta$ units of the shares and investing $B$ in bonds
 
@@ -802,7 +791,7 @@ EXERCISE: Repeat for a put option.
 The previous two subsections have derived a simple expression for the price of the call option
 $$c=\frac{pc_u+(1-p) c_d}{(1+r)}.$$
 
-In this expression the value of the call optionisthepresentvalue ofaweighted average of the call at maturity,    either $Cu$ in the up state,    or $Cd$ in the down state. It is tempting to interpret $P$ in this equation as a probability. It is
+In this expression the value of the call optionisthepresentvalue ofaweighted average of the call at maturity,  either $Cu$ in the up state,  or $Cd$ in the down state. It is tempting to interpret $P$ in this equation as a probability. It is
 
 ![](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
 
@@ -812,15 +801,15 @@ Important to notice two things about this formula. First $P$ cannot be the proba
 
 To give an interpretation to $\not P$ imagine a situation where all individuals were indifferent to risk. Such as situation is known as a risk-neutral world In such a situation all individuals would agree to value any risky prospect
 
-Simply by its expected present value. Since the formula for the value of the call is the expected present value when $p$ is interpreted as the probability of an upward movement in the stock,    $\rho$ is interpreted as a risk-neutral probability and this method of valuing the derivative is calledrisk neutral valuation. It is a simple and general principle that can be used for valuing all derivative securities.
+Simply by its expected present value. Since the formula for the value of the call is the expected present value when $p$ is interpreted as the probability of an upward movement in the stock,  $\rho$ is interpreted as a risk-neutral probability and this method of valuing the derivative is calledrisk neutral valuation. It is a simple and general principle that can be used for valuing all derivative securities.
 
-To see how it can be used,    let's revisit our simple example again. Using the method of risk neutral valuation,    the expected value of the stock at the end of the period is $175 p+75 (1-p)$ ,    so the expected present value using the risk-neutral probabilities is
+To see how it can be used,  let's revisit our simple example again. Using the method of risk neutral valuation,  the expected value of the stock at the end of the period is $175 p+75 (1-p)$ ,  so the expected present value using the risk-neutral probabilities is
 
 $$\frac{175 p+75 (1-p)}{(1+1/4)}.$$
 
-This must equal the actual value of the stock which is 100. This gives one equation in one unknown,    $P$ ,    and solving gives $p=\frac{1}{2}$ .To value the call we simple use risk-neutral valuation again. The call at maturity is worth 75 in the up state and 0 in the down state,    so the expected value using the risk neutral probabilities is (1/2) 75 and the present value of this expectation is (1/2) 75/(5/4)=30
+This must equal the actual value of the stock which is 100. This gives one equation in one unknown,  $P$ ,  and solving gives $p=\frac{1}{2}$ .To value the call we simple use risk-neutral valuation again. The call at maturity is worth 75 in the up state and 0 in the down state,  so the expected value using the risk neutral probabilities is (1/2) 75 and the present value of this expectation is (1/2) 75/(5/4)=30
 
-Again generalising this method,    $P$ is solved from the equation
+Again generalising this method,  $P$ is solved from the equation
 
 $$S=\frac{p (1+u) S+(1-p)(1+d) S}{(1+r)}$$
 
@@ -830,7 +819,7 @@ To give $p=(r-d)/(u-d)$ exactly as before and this value of $P$ can then be used
 
 We've considered a one period binomial model where the stock price can go either up or down by factors $(1+u)$ and $(1+d)$ .We can the use information
 
-On the current stock price $S$ ,   the risk-free interest rate 7 and the strike price $K$ to determine the value of the option. We did this in three different ways. First by creating a riskless portfolio of the stock and the option. Second by creating a synthetic option that replicates the payoffs to the option using the underlying stock and the risk-free asset. In both cases we use an arbitrage argument that any two portfolios or assets that deliver the same payoffs must trade at the same price. Thirdly we derived the risk-neutral probability such that all assets and portfolios are valued by their expected present value. This ten allows the option to be evaluated in the same way using these riskadjusted probabilities.
+On the current stock price $S$ ,  the risk-free interest rate 7 and the strike price $K$ to determine the value of the option. We did this in three different ways. First by creating a riskless portfolio of the stock and the option. Second by creating a synthetic option that replicates the payoffs to the option using the underlying stock and the risk-free asset. In both cases we use an arbitrage argument that any two portfolios or assets that deliver the same payoffs must trade at the same price. Thirdly we derived the risk-neutral probability such that all assets and portfolios are valued by their expected present value. This ten allows the option to be evaluated in the same way using these riskadjusted probabilities.
 
 The next thing to do is to allow for more than one period in the binomial model to see if the price of the option can still be calculated in a similar and similarly simple fashion.
 
@@ -844,11 +833,11 @@ Reading: Hull Chapter 11.
 
 ### The Two-Period Model
 
-The binomial model is extended by adding to new branches of the tree after each node. Proceeding in the same way as with the one period model after each node the price of the underlying asset either increases by a factor of $u$ or decreases by a factor $d$ 1 Thus whether the value of the underlying after two periods is either $(1+u)^{2}S$ if the stock has gone up in two successive periods. $(1+d)^{2}S$ if the stock has gone down in two successive periods,    $(1+u)(1+d) S$ if the stock first went up and then went down,    or $(1+d)(1+u) S$ if the stock went down and then went up in the second period. Since $(1+u)(1+d)=$ $(1+d)(1+u)$ ，the value of the stock is the same whether it first went up and then down or down and then up. Thus the two branches of the tree recombine after two periods and there are only three possible values for the
+The binomial model is extended by adding to new branches of the tree after each node. Proceeding in the same way as with the one period model after each node the price of the underlying asset either increases by a factor of $u$ or decreases by a factor $d$ 1 Thus whether the value of the underlying after two periods is either $(1+u)^{2}S$ if the stock has gone up in two successive periods. $(1+d)^{2}S$ if the stock has gone down in two successive periods,  $(1+u)(1+d) S$ if the stock first went up and then went down,  or $(1+d)(1+u) S$ if the stock went down and then went up in the second period. Since $(1+u)(1+d)=$ $(1+d)(1+u)$，the value of the stock is the same whether it first went up and then down or down and then up. Thus the two branches of the tree recombine after two periods and there are only three possible values for the
 
 Value of the underlying after two periods. (After $7 L$ periods there will be $n-1$ possible ending values for the underlying asset in such a recombinant tree).
 
-The objective is to find the value of the option or derivative at the initial node of the tree. Let's consider an example with $u=0.75$ . $d$ = -0.25 $S=100$ ,   . $X=100$ and $r=0.25$ and extend it to two periods. The ending values for the underlying asset are 306.25,    131.25 and 56.25. To value the call option at the initial node we first value the call at the final nodes and then work backward. The value of the call at the final nodes is simply 206.25,    31.25 and 0 ,   that is the stock value minus the strike price. The value at the intermediate note then can than be computed using the methods of delta hedging,    synthetic options or risk neutral valuation used in the section on the one period model. The method of risk neutral valuation is simple because the risk neutral probability is the same for each period as it depends only on $u$ ， $d$ and 7 that are unchanging. Taking this risk-neutral valuation method,    the value following the first up move is
+The objective is to find the value of the option or derivative at the initial node of the tree. Let's consider an example with $u=0.75$ . $d$ = -0.25 $S=100$ ,  . $X=100$ and $r=0.25$ and extend it to two periods. The ending values for the underlying asset are 306.25,  131.25 and 56.25. To value the call option at the initial node we first value the call at the final nodes and then work backward. The value of the call at the final nodes is simply 206.25,  31.25 and 0 ,  that is the stock value minus the strike price. The value at the intermediate note then can than be computed using the methods of delta hedging,  synthetic options or risk neutral valuation used in the section on the one period model. The method of risk neutral valuation is simple because the risk neutral probability is the same for each period as it depends only on $u$，$d$ and 7 that are unchanging. Taking this risk-neutral valuation method,  the value following the first up move is
 
 $$\frac{\frac{1}{2}(206.25+31.25)}{(1+\frac{1}{4})}=95$$
 
@@ -867,15 +856,15 @@ The risk neutral valuation method also gives a very simple method of calculating
 Of two up movements in the underlying stock is ${\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{4}}$ . The probability of stock ending with a value of 131.25 is the probability of an up movement followed by a down movement plus the probability of a down movement followed by an up movement. Thus the risk neutral probability for this event is ${\frac{1}{2}}\times{\frac{1}{2}}+{\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{2}}$ . Thus the value of the call option can also be evaluated directly as
 $$\frac{\frac{1}{4}(206.25)+\frac{1}{2}(31.25)}{(1+\frac{1}{4})^2}=43.$$
 
-Likewise the state prices are easily calculated (by dividing the risk neutral probabilities by $(1+r)^{2}=\frac{25}{16}$ ) tobe $q_{uu}=\frac{4}{25}$ ： $q_{ud}=q_{du}=\frac{8}{25}$ and $q_{dd}=\frac{4}{25}$ Thus the call value could also easily be calculated as
+Likewise the state prices are easily calculated (by dividing the risk neutral probabilities by $(1+r)^{2}=\frac{25}{16}$ ) tobe $q_{uu}=\frac{4}{25}$：$q_{ud}=q_{du}=\frac{8}{25}$ and $q_{dd}=\frac{4}{25}$ Thus the call value could also easily be calculated as
 
 $$\frac{4}{25}(206.25)+\frac{8}{25}(31.25)=43.$$
 
 ### American Options
 
-As we have seen a European call option will have a positive time value as the lower bound for the European call is $S_{t}-X/(1+r)\geq S_{t}-X$ with inequality if $r>0$ .Since American options can'tbe worth less than equivalent European options it follows that American call options on non-dividend paying stock will not be exercised early because selling the option will always dominate exercising it. Intuitively an early exercise will involving paying the strike price earlier and this is undesirable. However,    American put options can be exercised early because this will involve receiving the strike price earlier. The two period binomial model can be used to illustrate this possibility
+As we have seen a European call option will have a positive time value as the lower bound for the European call is $S_{t}-X/(1+r)\geq S_{t}-X$ with inequality if $r>0$ .Since American options can'tbe worth less than equivalent European options it follows that American call options on non-dividend paying stock will not be exercised early because selling the option will always dominate exercising it. Intuitively an early exercise will involving paying the strike price earlier and this is undesirable. However,  American put options can be exercised early because this will involve receiving the strike price earlier. The two period binomial model can be used to illustrate this possibility
 
-Consider a put option in our example with a strike price $X=100$ .The value of this put option at the final nodes is 0 ， 0 and 43.75. Thus the value of the put option following an up movement in the first period is 0 as the option can never get back in the money. However,    following a down movement in the first period the value of the option is using the state prices
+Consider a put option in our example with a strike price $X=100$ .The value of this put option at the final nodes is 0，0 and 43.75. Thus the value of the put option following an up movement in the first period is 0 as the option can never get back in the money. However,  following a down movement in the first period the value of the option is using the state prices
 
 ${\frac{2}{5}}(41.75)=17.5$ .But early exercise of the option would give 25. Thus early exercise is the better alternative and the option must have a value of 25 if it is of the American type. At the initial node the option is thus worth 10 if it is an American option and 7 if it is a European option that cannot be exercised early at the end of the first period.
 
@@ -887,7 +876,7 @@ In the one-period binomial model there are two possible end values and in the tw
 
 ### Binomial Coefficients
 
-The numbers inPascal's triangle are called the binomial coefficients and the binomial coefficients are usually written $\binom nk$ for $n,    k\geq 0$ where
+The numbers inPascal's triangle are called the binomial coefficients and the binomial coefficients are usually written $\binom nk$ for $n,      k\geq 0$ where
 
 $$\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{k! (n-k)!}$$
 
@@ -974,7 +963,7 @@ $$\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{k! (n-k)!}$$
 
 Table 1: Pascal's Triangle
 
-Is the $(k+1)$ -th number in the $(n+1)$ -th row of the triangle. Here $k!=$ $k\times k-1\times k-2\times\ldots\times 2\times 1$ and by convention 0!=1 .Thus if $n=4$ and $k=2$ ,   then
+Is the $(k+1)$ -th number in the $(n+1)$ -th row of the triangle. Here $k!=$ $k\times k-1\times k-2\times\ldots\times 2\times 1$ and by convention 0!=1 .Thus if $n=4$ and $k=2$ ,  then
 $$\begin{pmatrix}4\\2\end{pmatrix}=\frac{4!}{2!\times 2!}=\frac{4\times 3\times 2\times 1}{(2\times 1)(2\times 1)}=\frac{24}{4}=6.$$
 
 The binomial coefficients show us the number of ways the returns can be generated by $k$ down returns and $n-k$ up returns
@@ -989,13 +978,13 @@ We say this is a binomial random variable with parameter 71 .For example say $n=
 Probability that we have $JL$ or more than $iL$ “up"-states in $TL$ periods. This is given by
 $$B_\pi (x)=\sum_{k=x}^n\binom{n}{k}a^k (1-a)^{n-k}.$$
 
-For example,    if we want to know the probability that we have two or more up states in four periods we have to calculate
+For example,  if we want to know the probability that we have two or more up states in four periods we have to calculate
 
 $$\begin{pmatrix}4\\2\end{pmatrix}\pi^2 (1-\pi)^2+\begin{pmatrix}4\\3\end{pmatrix}\pi^3 (1-\pi)^1+\begin{pmatrix}4\\4\end{pmatrix}\pi^4 (1-\pi)^0=6\pi^2 (1-\pi)^2+4\pi^3 (1-\pi)+\pi^4.$$
 
 ### The distribution of the end values
 
-Let $U$ = $( 1+ u)$ ， $D$ = $( 1+ d)$ and $R$ = (1 + $r)$ .If there are $k$ down returns and $n-k$ up returns then the end value of the asset after 772 periods is $S_{n}=S_{0}U^{n-k}D^{k}$ .The number of ways of attaining this ending value is given by the binomial coeficient $\binom nk$ .Suppose that the probability of an "up”return is $7 i$ and the probability of a down return is $(1-\pi)$ .Then the probability of reaching the end value of $S_{n}=S_{0}U^{n-k}D^{k}$ by any one route is $\pi^{n-k}(1-\pi)^{k}$ . Thus the probability of reaching this end value is the number of ways of reaching it $\binom nk$ times the probability $\pi^{n-k}(1-\pi)^{k}$ of reaching it by any given route. The information is summarized in Table 2
+Let $U$ = $( 1+ u)$，$D$ = $( 1+ d)$ and $R$ = (1 + $r)$ .If there are $k$ down returns and $n-k$ up returns then the end value of the asset after 772 periods is $S_{n}=S_{0}U^{n-k}D^{k}$ .The number of ways of attaining this ending value is given by the binomial coefficient $\binom nk$ .Suppose that the probability of an "up”return is $7 i$ and the probability of a down return is $(1-\pi)$ .Then the probability of reaching the end value of $S_{n}=S_{0}U^{n-k}D^{k}$ by any one route is $\pi^{n-k}(1-\pi)^{k}$ . Thus the probability of reaching this end value is the number of ways of reaching it $\binom nk$ times the probability $\pi^{n-k}(1-\pi)^{k}$ of reaching it by any given route. The information is summarized in Table 2
 
 The expected value of the asset after $Tl$ periods is givenby the equation
 
@@ -1018,7 +1007,7 @@ Although complicated in form this is very routine computation that can be madein
 		<tr>
 			<td>$S_{0}U^{n-1}$ ${}^{1}D^{1}$ $r 2$</td>
 			<td>$n-1$ ups and 1 downs</td>
-			<td>- (1 ,    一 - $\pi )$ T</td>
+			<td>- (1 ,  一 - $\pi )$ T</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{n-2}D^{2}$ $r\boldsymbol{l}$</td>
@@ -1057,11 +1046,11 @@ Table 2: End Asset Values and Probabilities in $7 l$ -period Binomial Mode
 
 ### Pricing the Call Option
 
-Using risk-neutral valuation,    the price of the call which matures in. $Tt$ periods is calculated as
+Using risk-neutral valuation,  the price of the call which matures in. $Tt$ periods is calculated as
 
-$$c_0=\frac{1}{R^n}\left (\sum_{k=0}^n\binom{n}{k}\rho^k (1-\rho)^{n-k}\max[S_0 U^kD^{n-k}-X,    0]\right)$$
+$$c_0=\frac{1}{R^n}\left (\sum_{k=0}^n\binom{n}{k}\rho^k (1-\rho)^{n-k}\max[S_0 U^kD^{n-k}-X,      0]\right)$$
 
-Where $\rho=(R-D)/(U-D)$ is the risk-neutral probability and $U$ and $D$ are the factors given above. Thus given the strike price $X$ ,   the time to maturity $7 t$ ,   the risk-free interest rate 7 it is possible to calculate the callvalue
+Where $\rho=(R-D)/(U-D)$ is the risk-neutral probability and $U$ and $D$ are the factors given above. Thus given the strike price $X$ ,  the time to maturity $7 t$ ,  the risk-free interest rate 7 it is possible to calculate the callvalue
 
 Let $JL$ denote the minimum number of up branches that need to be taken for the terminalvalue $S_{0}U^{x}D^{n-x}$ tobe greater than the strike price $X$ .Then the above formula can bewritten as
 
@@ -1069,7 +1058,7 @@ $$c_0=S_0\sum_{k=x}^n\begin{pmatrix}n\\k\end{pmatrix}\rho^k (1-\rho)^{n-k}\frac{
 
 Remember that $B_{\pi}(x)$ denotes the probability that the binomial random variable with parameter 71 has at least $2 L$ up-states after $Tl$ periods. Letting
 
-$iL$ be the number of “up-states"such that the end value of the stock is at least the strike price $X$ ，the call option price can be written more simply as
+$iL$ be the number of “up-states"such that the end value of the stock is at least the strike price $X$，the call option price can be written more simply as
 
 $$c_0=S_0 B_s (x)-\frac{X}{R^n}B_\rho (x)$$
 
@@ -1099,9 +1088,9 @@ $$\Delta S_{0}+B=\frac{1}{R}\left (\frac{US_{0}(R-D)}{(U-D)}-X\frac{(R-D)}{(U-D)
 
 Afour period example is illustrated inFigure 1. The example is the same as before with with $u=0.75$ ， $d=-0.25$ ， $S=100$ ， $X=100$ and $r=0.25$ but
 
-Extended over four periods. The upper diagrams shows the stock price in all possible cases,    the middle diagram the call price and the lower diagram the replicating portfolio of $\Delta$ units of the stock and borrowing a certain amount of the risk-free asset
+Extended over four periods. The upper diagrams shows the stock price in all possible cases,      the middle diagram the call price and the lower diagram the replicating portfolio of $\Delta$ units of the stock and borrowing a certain amount of the risk-free asset
 
-As can be seen the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus the replicating portfolic is dynamic and it is necessary to reoptimise the portfolio every period. It is however,    true that the change in the portfolio required is self-financing That is the proceeds from the sale of the old portfolio are just that required to buy the new portfolio at every node of the tree.
+As can be seen the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus the replicating portfolic is dynamic and it is necessary to reoptimise the portfolio every period. It is however,      true that the change in the portfolio required is self-financing That is the proceeds from the sale of the old portfolio are just that required to buy the new portfolio at every node of the tree.
 
 Exercise: Check that the replicating portfolio is self-financing
 
@@ -1119,7 +1108,7 @@ $$143=100 (1+\nu)^2.$$
 
 This value is known as the geometric mean. It is another measure of the average return over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or 19.58% per period? Which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the arithmetic mean return,    the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
+There is a simple relationship between the arithmetic mean return,      the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
 
 $$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
 
@@ -1127,7 +1116,7 @@ Or
 
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
 
-Since rates of return are typically less than one,    the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ or
+Since rates of return are typically less than one,      the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ or
 
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
@@ -1135,11 +1124,11 @@ This approximation will be better the smaller are the interest rates and the sma
 
 ## Expectless than the expected
 
-We can see the same difference between arithmetic and geometric rates of return in our binomial model to show that the end values for the underlying asset will be asymmetrically distributed. Consider a binomial model where the $up$ and down factors are $U=1.3$ and $D=1.1$ .Thus the asset either increases by $30\%$ or by $10\%$ .Suppose that each is equally likely so that the average return is $20\%$ .Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,    143 if there is either one up and one down or one down and one up,    or 121 if there are two downs. The probability of these three outcomes,    169,   143 and 121 are $\frac{1}{4}$ ， $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
+We can see the same difference between arithmetic and geometric rates of return in our binomial model to show that the end values for the underlying asset will be asymmetrically distributed. Consider a binomial model where the $up$ and down factors are $U=1.3$ and $D=1.1$ .Thus the asset either increases by $30\%$ or by $10\%$ .Suppose that each is equally likely so that the average return is $20\%$ .Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,      143 if there is either one up and one down or one down and one up,      or 121 if there are two downs. The probability of these three outcomes,      169,     143 and 121 are $\frac{1}{4}$ ， $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
 
 $$\frac{1}{4}\times 69+\frac{1}{2}\times 143+\frac{1}{4}\times 121=144.$$
 
-However the return is less than 144 in three of the four possible ending values Thus after two periods the distribution of the end values is asymmetric with most of the distribution below the average value. We say that the distribution of the ending values is skewed to the right. The most likely out,    the mode,    is 143 and it is also in this case equal to the median as the ending value is equally likely to be above or below 143.
+However the return is less than 144 in three of the four possible ending values Thus after two periods the distribution of the end values is asymmetric with most of the distribution below the average value. We say that the distribution of the ending values is skewed to the right. The most likely out,      the mode,      is 143 and it is also in this case equal to the median as the ending value is equally likely to be above or below 143.
 
 Consider the two-period model where the up and down factors are $1+\mu+\sigma$ and $1+\mu-\sigma$ ， the initial value of the asset is $S_{0}$ and both up and down
 
@@ -1153,16 +1142,16 @@ $$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)^2-\sigma^2\right)$$
 
 So that the median is below themean by an amount equal to the variance Since we have already shown that $(1+\nu)^{2}=(1+\mu)^{2}-\sigma^{2}$ ， the median of the end value is just $S_{0}(1+\nu)^{2}$
 
-The binomial modelis easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$ ,   thus the returns in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
+The binomial modelis easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$ ,     thus the returns in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
 
 $$S_0\left ((1+\mu+\sigma)^{\frac{n}{2}}\right)\left ((1+\mu-\sigma)^{\frac{n}{2}}\right)=((1+\mu+\sigma)(1+\mu-\sigma))^{\frac{n}{2}}$$
 
-As there will be roughly an equal number of up returns and down returns Thegeometric return thatproduces the same outcome after $Tl$ periods is $(1+g)^{n}$ ,   thus
+As there will be roughly an equal number of up returns and down returns Thegeometric return thatproduces the same outcome after $Tl$ periods is $(1+g)^{n}$ ,     thus
 $$(1+\nu)^n=((1+\mu+\sigma)(1+\mu-\sigma))^\frac{n}{2}$$
 
-Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the underlying asset and the arithmetic mean gives the average value,    the median is always below the average. Thus one should always expect tohave less than the average value more than half the time.
+Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the underlying asset and the arithmetic mean gives the average value,      the median is always below the average. Thus one should always expect tohave less than the average value more than half the time.
 
-Example:u=0.75,    $d=-0.25$ $r=0.25$ $x=100$
+Example:u=0.75,      $d=-0.25$ $r=0.25$ $x=100$
 
 ![](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
 
@@ -1172,21 +1161,21 @@ Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE
 
 ### Introduction
 
-In these notes we consider the risk of an option and relate it to the standard capital asset pricing model. If we are simply interested in valuing the option then we can largely ignore this issue. We have seen from our notes on the oneperiod binomial model that to price an option we only need to know the price of the underlying asset. It is not necessary to know whether the underlying asset is priced fairly relative to other assets or indeed anything about other assets at all. However,    if we are interested in forming an investment portfolic that includes options or other derivatives,    then the risk and return of that portfolio will depend on the risk and return characteristics of the options. Thus we will need to know how the $\beta$ of an option relates to the $\beta$ of the underlying stock.
+In these notes we consider the risk of an option and relate it to the standard capital asset pricing model. If we are simply interested in valuing the option then we can largely ignore this issue. We have seen from our notes on the oneperiod binomial model that to price an option we only need to know the price of the underlying asset. It is not necessary to know whether the underlying asset is priced fairly relative to other assets or indeed anything about other assets at all. However,      if we are interested in forming an investment portfolic that includes options or other derivatives,      then the risk and return of that portfolio will depend on the risk and return characteristics of the options. Thus we will need to know how the $\beta$ of an option relates to the $\beta$ of the underlying stock.
 
 We can examine the issue of risk in a simple binomial model. So this is what we shall do. Most textbooks on options don’t discuss risk and therefore you will need to keep these notes for your revision.
 
 ## Risk in the binomial model
 
-We'll use the simple example we used when discussing the one period binomial model. Suppose the price of the underlying stock is 100 and at the end of the period it has either risen to 175 or has fallen to 75. That is $u=0.75$ and $d=-0.25$ ,    so that the value of the stock after one period in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,    and the net growth in the value of the stock in the down state is $-25\%$
+We'll use the simple example we used when discussing the one period binomial model. Suppose the price of the underlying stock is 100 and at the end of the period it has either risen to 175 or has fallen to 75. That is $u=0.75$ and $d=-0.25$ ,      so that the value of the stock after one period in the up state is $100 (1+u)=175$ and the value in the down state is $100 (1+d)=75$ .The net growth rate of the value of the stock in the up state is $75\%$ ,      and the net growth in the value of the stock in the down state is $-25\%$
 
-We showed that in determining the price of the option,    the probability that the stock price rises of falls was irrelevant. Now however suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$ 0.\1 The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$ .Given that the price of the call is 30,    the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$ .Thus the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
+We showed that in determining the price of the option,      the probability that the stock price rises of falls was irrelevant. Now however suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$ 0.\1 The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$ .Given that the price of the call is 30,      the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$ .Thus the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
 
 The standard deviation of the rate of return on the stock is often simply referred to as the stock's volatility. The volatility of the stock is
 
 $$\sigma_S=\sqrt{\frac{4}{5}(75-55)^2+\frac{1}{5}(-25-55)^2}=40\%$$
 
-And the standard deviation of the rate of return on the call option,    or the call's volatility is
+And the standard deviation of the rate of return on the call option,      or the call's volatility is
 
 $$\sigma_C=\sqrt{\frac{4}{5}(150-100)^2+\frac{1}{5}(-100-100)^2}=100\%.$$
 
@@ -1196,7 +1185,7 @@ Now remember that $\Delta$ measures the responsiveness of the value of the call 
 
 $$\Omega\equiv\frac{S}{c}\Delta $$
 
-To be the elasticity of the option,    that is the percentage change in the call value relative to a given percentage change in the stock value. In our example $S=100$ and $c=30$ ,   so that $\Omega=2.5$
+To be the elasticity of the option,      that is the percentage change in the call value relative to a given percentage change in the stock value. In our example $S=100$ and $c=30$ ,     so that $\Omega=2.5$
 
 This is not a coincidence. If 711 is the probability of the up state and $1-\pi$ is the probability of the down state then expected rate of return on the stock and its volatility are：
 
@@ -1206,7 +1195,7 @@ Equally the expected rate of return on the call and its volatility are
 
 $$\mu_C=\frac{\pi c_u+(1-\pi) c_d-c}{c}\quad\mathrm{and}\quad\sigma_C=\sqrt{\pi (1-\pi)}\frac{c_u-c_d}{c}.$$
 
-Then remembering that $\Delta$ is the change in the call price over the change in the stock price,    we have
+Then remembering that $\Delta$ is the change in the call price over the change in the stock price,      we have
 
 $$\Omega\equiv\frac{S}{c}\Delta=\frac{S}{c}\frac{c_{u}-c_{d}}{(u-d) S}=\frac{c_{u}-c_{d}}{c (u-d)}.$$
 
@@ -1240,11 +1229,11 @@ Or
 
 $$\mu_C=r+\left (\frac{\mu_S-r}{\sigma_S}\right)\sigma_C.$$
 
-This is of course the standard equation used to express an asset as a portfolic of the stock and the risk-free asset,    that we have seen previously in Asset Pricing and Portfolio Choice. As we know the call option can be replicated by a fraction of the stock and selling the risk-free asset this should not be surprising. That is the risk and return of the call lie on somewhere on the risk-return line with intercept of 7 and slope of $(\mu_{S}-r)/\sigma_{S}$ .The elasticity $\Omega 2$ gives the position of the call along this line. Rewriting our equation on the excess return again
+This is of course the standard equation used to express an asset as a portfolic of the stock and the risk-free asset,      that we have seen previously in Asset Pricing and Portfolio Choice. As we know the call option can be replicated by a fraction of the stock and selling the risk-free asset this should not be surprising. That is the risk and return of the call lie on somewhere on the risk-return line with intercept of 7 and slope of $(\mu_{S}-r)/\sigma_{S}$ .The elasticity $\Omega 2$ gives the position of the call along this line. Rewriting our equation on the excess return again
 
 $$\mu_C=\Omega\mu_S+(1-\Omega)r.$$
 
-Thus the call can be seen as the portfolio of the stock and the risk-free asset with a weight of $\leq 2$ attached to the stock. Since we have seen that to synthesize the call requires borrowing the risk-free asset,    we have that $\Omega>1$ and the callvolatility is always greater than the stock volatility
+Thus the call can be seen as the portfolio of the stock and the risk-free asset with a weight of $\leq 2$ attached to the stock. Since we have seen that to synthesize the call requires borrowing the risk-free asset,      we have that $\Omega>1$ and the callvolatility is always greater than the stock volatility
 
 This is seen in Figure 1. In the diagram the call option is always to the right of the underlying stock as it will have higher volatility and higher expected return than the underlying asset itself. It can also be seen that a call with a higher strike price will be more risky and therefore will lie further out along the risk and return line.
 
@@ -1252,11 +1241,11 @@ If the same analysis is repeated for a put option it is found that $\Delta$ is n
 
 ![](./images/fS3aWRHCn97wSgeec43nok6ydwF4uck3Y.png)
 
-Figure 1: RISK-RETURN D 1 AGRAM: $(\sigma,   \mu)$
+Figure 1: RISK-RETURN D 1 AGRAM: $(\sigma,     \mu)$
 
 Selling the underlying asset and buying the risk-free asset (investing). As the underlying asset is sold short a put option will be located on the lower arm of the risk-return diagram. The expected return is reduced because there is a future obligation from the short sale rather than a return although the obligations are still risky and therefore have a positive standard deviation. It can therefore be seen that put options are never of themselves effcient portfolios although since they will be negatively correlated with the underlying asset they can provide good hedging opportunities
 
-We now consider the $\beta$ of a call option. The Capital Asset Pricing Model shows that for any asset,    the ezcess return or risk-premium satisfies
+We now consider the $\beta$ of a call option. The Capital Asset Pricing Model shows that for any asset,      the ezcess return or risk-premium satisfies
 
 $$\mu_S-r=\beta_S (\mu_M-r)$$
 
@@ -1266,31 +1255,31 @@ It is therefore simple to combine our excess return equation for the call and th
 
 $$\mu_C-r=\Omega\beta_S (\mu_M-r).$$
 
-It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market,    so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$ .The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$ ,   since $\Omega>1$ for a call option,    it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. 2 This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$ .The security market line intercepts the vertical axis at 7 the rate ofreturn on the risk-free asset which isuncorrelatedwith the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock,    their value goes up as the stock goes down,    so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
+It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market,      so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$ .The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$ ,     since $\Omega>1$ for a call option,      it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. 2 This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$ .The security market line intercepts the vertical axis at 7 the rate ofreturn on the risk-free asset which isuncorrelatedwith the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock,      their value goes up as the stock goes down,      so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
 
 ![](./images/fldFEUqZq5HbQYGRmx1yNbXhTNK4pFgWx.png)
 
-## Figure 2: SECURITY MARKET LINE: $(\beta,   \mu)$
+## Figure 2: SECURITY MARKET LINE: $(\beta,     \mu)$
 
-Let's return once again to our simple example and suppose that the expected rate of return on the market portfolio is $40\%$ .Then since the excess return on the stock is $30\%$ and the excess return on the market portfolio is $40-25=15\%$ ,   the beta of the stock is $\beta_{S}=2$ and the beta of the option is $\beta_{C}=\Omega\beta_{S}=5$ .Since $\beta>0$ and the expected rate of return on the market portfolio is greater than the risk-free rate,    the expected rate of return on the call is also greater than the risk-free rate. Remember that the expected rate of return on the call using the risk-neutral probabilities is equal to the risk-free rate. Thus the risk-neutral probability for the up state is less than the true probability,    $p<\pi$ .This simply reflects that in adjusting for the risk of the call the probability of the high rate of return is shaded downward to
+Let's return once again to our simple example and suppose that the expected rate of return on the market portfolio is $40\%$ .Then since the excess return on the stock is $30\%$ and the excess return on the market portfolio is $40-25=15\%$ ,     the beta of the stock is $\beta_{S}=2$ and the beta of the option is $\beta_{C}=\Omega\beta_{S}=5$ .Since $\beta>0$ and the expected rate of return on the market portfolio is greater than the risk-free rate,      the expected rate of return on the call is also greater than the risk-free rate. Remember that the expected rate of return on the call using the risk-neutral probabilities is equal to the risk-free rate. Thus the risk-neutral probability for the up state is less than the true probability,      $p<\pi$ .This simply reflects that in adjusting for the risk of the call the probability of the high rate of return is shaded downward to
 
 Refect an aversion to risk. In our example the risk-neutral probability is 1/2 and the actual probability of the up state is 4/5
 
 ## Summary
 
-These notes have provided a connection between option pricing and standard models of portfolio choice and the Capital Asset Pricing Model (CAPM). The connection is provided by the option elasticity $S 2$ .We have seen previously that $\Delta$ measures how much of the stock to buy to create a riskless hedge or to replicate the option. The option elasticity,    $\leq 2$ is a proportionate measure of $\Delta$ ， $\Omega=S\Delta/c$ .The elasticity $S 2$ ：therefore measures the proportion of the portfolio placed in the underlying asset in order to replicate the option. It is therefore a portfolio weight rather a quantity of stock bought. The elasticity of the call option will be no less than one since to replicate the call option it will be necessary to borrow,    that is go short in the risk-free asset,    to fund the acquisition of the underlying asset. The elasticity also can be combined with the beta of the stock,    $\beta_{S}$ to calculate the beta of the call option $\beta_{C}=\Omega\beta_{C}$ Since $\Omega\geq 1$ the call option will be a more aggressive asset that the underlying stock.
+These notes have provided a connection between option pricing and standard models of portfolio choice and the Capital Asset Pricing Model (CAPM). The connection is provided by the option elasticity $S 2$ .We have seen previously that $\Delta$ measures how much of the stock to buy to create a riskless hedge or to replicate the option. The option elasticity,      $\leq 2$ is a proportionate measure of $\Delta$ ， $\Omega=S\Delta/c$ .The elasticity $S 2$ ：therefore measures the proportion of the portfolio placed in the underlying asset in order to replicate the option. It is therefore a portfolio weight rather a quantity of stock bought. The elasticity of the call option will be no less than one since to replicate the call option it will be necessary to borrow,      that is go short in the risk-free asset,      to fund the acquisition of the underlying asset. The elasticity also can be combined with the beta of the stock,      $\beta_{S}$ to calculate the beta of the call option $\beta_{C}=\Omega\beta_{C}$ Since $\Omega\geq 1$ the call option will be a more aggressive asset that the underlying stock.
 
 # Exotic Options
 
 These notes describe the payoffs to some of the so-called erotic options. There are a variety of different types of exotic options. Some of these options are path dependent so that the value of the option depends on the previous values of the underlying as well as the current price of the underlying
 
-Keywords: Digital options,    Barrier options,    Path dependent options,    Lookback options,    Asian options.
+Keywords: Digital options,      Barrier options,      Path dependent options,      Lookback options,      Asian options.
 
 Reading Hull Chapter 22 [Just read about the different types exotic options and their payoffs. Ignore the equations describing how they are priced for the moment.]
 
 ### Introduction
 
-American and European puts and calls are sometimes referred to as plain vanilla options. There are however a wide variety of other types of options that are traded. These are sometimes referred to as exotic options. In the past most exotic options were traded in over the counter markets rather than exchanges,    but more recently these alternative option types can be found on exchange markets too. The variety and types of options that are available are really only limited by imagination. As long as the payoff can be well specified,    it can depend on any property of the price of the underlying asset. The following list just gives a few examples
+American and European puts and calls are sometimes referred to as plain vanilla options. There are however a wide variety of other types of options that are traded. These are sometimes referred to as exotic options. In the past most exotic options were traded in over the counter markets rather than exchanges,      but more recently these alternative option types can be found on exchange markets too. The variety and types of options that are available are really only limited by imagination. As long as the payoff can be well specified,      it can depend on any property of the price of the underlying asset. The following list just gives a few examples
 
 ## Digital Options
 
@@ -1305,40 +1294,40 @@ $$p_T^b=\left\{\begin{array}{ll}1&\text{if}S_T\leq X\\0&\text{if}S_T>X.\end{arra
 
 ## Range Forward Contract
 
-A range forward contract specifies a band $[X_{2},    X_{1}]$ .If the price of the underlying at maturity is within the band then the holder is obliged to buy the asset at its current price. If the price of the underlying at maturity is below $X_{2}$ then the holder has to buy at $X_{2}$ and if the price of the underlying at maturity is above $X_{1}$ then the holder has to buy at $X_{1}$ .The range forward is designed so that the initial value of the contract is zero and therefore similar to a forward contract. It is equivalent to a combination of a long call option with a strike price of $X_{1}$ and a written put option with a strike price of $X_{2}$ ，where the strike prices are chosen so that the put and the call have the same prices. The payoff at maturity to a range forward contract is $\operatorname*{max}[S_{T}-X_{1},    0]-\operatorname*{max}[X_{2}-S_{T},    0]$
+A range forward contract specifies a band $[X_{2},      X_{1}]$ .If the price of the underlying at maturity is within the band then the holder is obliged to buy the asset at its current price. If the price of the underlying at maturity is below $X_{2}$ then the holder has to buy at $X_{2}$ and if the price of the underlying at maturity is above $X_{1}$ then the holder has to buy at $X_{1}$ .The range forward is designed so that the initial value of the contract is zero and therefore similar to a forward contract. It is equivalent to a combination of a long call option with a strike price of $X_{1}$ and a written put option with a strike price of $X_{2}$ ，where the strike prices are chosen so that the put and the call have the same prices. The payoff at maturity to a range forward contract is $\operatorname*{max}[S_{T}-X_{1},      0]-\operatorname*{max}[X_{2}-S_{T},      0]$
 
 ### Break Forward
 
-A break forward contract specifies a delivery price $K$ and a break price $B$ at which the forward price can be broken. Thus at the maturity date,    the break price will be paid on a long forward position if $-B>S_{T}-K$ .For example if the break price is $\$10$ and the delivery price is S 100,    the payoff to the long forward position is $S_{T}-100$ .If $S_{T}<90$ ,    there will be a loss of more than S 10 and it will be worth while to pay the break price of $\$10$ .The payof
+A break forward contract specifies a delivery price $K$ and a break price $B$ at which the forward price can be broken. Thus at the maturity date,      the break price will be paid on a long forward position if $-B>S_{T}-K$ .For example if the break price is $\$10$ and the delivery price is S 100,      the payoff to the long forward position is $S_{T}-100$ .If $S_{T}<90$ ,      there will be a loss of more than S 10 and it will be worth while to pay the break price of $\$10$ .The payof
 
-At maturity is therefore $\operatorname*{max}[S_{T}-100,   -10]=\operatorname*{max}[S_{T}-90,   0]-10$ .This then is just like a call option with a strike price of S 90 but where a payment of $\$10$ is paid at maturity. Since the break forward costs nothing when it is initiated,    it is essentially a deferred payment option,    where the payment of the initial cost of the option is deferred until maturity. Suppose that the interest rate until maturity is $\frac{1}{9}$ ,    then in our example a call option with a strike price of $\$90$ which costs $\$9$ us equivalent to a long break forward with a delivery price of $\$100$ and break price of $\$10$ .In general letting 7 denote the interest to maturity and $C_{t}$ the current price of the call option with a strike price $X$ ,    then the call option is equivalent to a long position in a break forward contract with delivery price $X+(1+r) c_{t}$ and break price $(1+r) c_{t}$
+At maturity is therefore $\operatorname*{max}[S_{T}-100,     -10]=\operatorname*{max}[S_{T}-90,     0]-10$ .This then is just like a call option with a strike price of S 90 but where a payment of $\$10$ is paid at maturity. Since the break forward costs nothing when it is initiated,      it is essentially a deferred payment option,      where the payment of the initial cost of the option is deferred until maturity. Suppose that the interest rate until maturity is $\frac{1}{9}$ ,      then in our example a call option with a strike price of $\$90$ which costs $\$9$ us equivalent to a long break forward with a delivery price of $\$100$ and break price of $\$10$ .In general letting 7 denote the interest to maturity and $C_{t}$ the current price of the call option with a strike price $X$ ,      then the call option is equivalent to a long position in a break forward contract with delivery price $X+(1+r) c_{t}$ and break price $(1+r) c_{t}$
 
 ## Rainbow Options
 
-It is possible to write options on more than one underlying asset. Such options are called rainbow options. For example a put option may specify that you have the option to deliver one from a range of different assets. Clearly if the exercise price is the same for all assets specified,    and if you decide to exercise your option to sell,    you will choose to deliver that asset with the lowest current price. Thus if there are two assets specified and their prices are $S^{\mathrm{I}}$ and $S^{2}$ ,    then the intrinsic value of the put option is
+It is possible to write options on more than one underlying asset. Such options are called rainbow options. For example a put option may specify that you have the option to deliver one from a range of different assets. Clearly if the exercise price is the same for all assets specified,      and if you decide to exercise your option to sell,      you will choose to deliver that asset with the lowest current price. Thus if there are two assets specified and their prices are $S^{\mathrm{I}}$ and $S^{2}$ ,      then the intrinsic value of the put option is
 
-$$x\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S^1,    S^2]&\text{if}\min[S^1,    S^2]\leq X\\0&\text{if}\min[S^1,    S^2]>X.\end{array}\right.$$
+$$x\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S^1,      S^2]&\text{if}\min[S^1,      S^2]\leq X\\0&\text{if}\min[S^1,      S^2]>X.\end{array}\right.$$
 
 ## "As-you-like-it" Options
 
-This is an option where the holder can decide at a specific time whether the option is a put or a call option. Suppose that the where the decision must be made is $t$ . The value of the option at this time is $\max[c_{t},    p_{t}]$ .If the as-you-like-option offers the choice between a European put and a European
+This is an option where the holder can decide at a specific time whether the option is a put or a call option. Suppose that the where the decision must be made is $t$ . The value of the option at this time is $\max[c_{t},      p_{t}]$ .If the as-you-like-option offers the choice between a European put and a European
 
-Call with the same strike price and same maturity date $T$ ,   then the put call parity condition can be used and
+Call with the same strike price and same maturity date $T$ ,     then the put call parity condition can be used and
 
-$$\max[c_t,    p_t]=\max\left[c_t,    c_t+\frac{X}{(1+r)}-S_t\right]=c_t+\max\left[0,   \frac{X}{(1+r)}-S_t\right]$$
+$$\max[c_t,      p_t]=\max\left[c_t,      c_t+\frac{X}{(1+r)}-S_t\right]=c_t+\max\left[0,     \frac{X}{(1+r)}-S_t\right]$$
 
 Where 7 is the risk-free interest rate between $t$ and thematurity date $T$ .The as-you-like-it option therefore consist of aportfolio of a call option with strike price $X$ and maturity at date $T$ and a put option with strike price $\frac{X}{(1+r)}$ and maturity at date $t$
 
 ## Barrier Options
 
-Barrier options have a payoff that depends on whether the underlying asset reaches a certain level,    the barrier,    prior to maturity. There are two main varieties of barrier option. The knock-in only pays out if the price of the underlying reaches the barrier and the knock-out only pays out if the underlying does not reach the barrier. These can be further classified by whether the barrier is set above or below the initial value of the underlying asset. If the barrier is above the initial value of the underlying,    it is said to be an up option. If the barrier is below the initial value of the underlying asset,    it is said tobe a down option. The payoff at maturity for a down-and-out call option is
+Barrier options have a payoff that depends on whether the underlying asset reaches a certain level,      the barrier,      prior to maturity. There are two main varieties of barrier option. The knock-in only pays out if the price of the underlying reaches the barrier and the knock-out only pays out if the underlying does not reach the barrier. These can be further classified by whether the barrier is set above or below the initial value of the underlying asset. If the barrier is above the initial value of the underlying,      it is said to be an up option. If the barrier is below the initial value of the underlying asset,      it is said tobe a down option. The payoff at maturity for a down-and-out call option is
 $$c_T^{down-out}=\left\{\begin{array}{lll}c_T&\text{if}\:S_t>B&\text{for all}\: t\leq T\\0&\text{if}\:S_t<B&\text{for any}\: t\leq T\end{array}\right.$$
 
-Where $B$ is the barrier and. $CT$ is the value of the plain vanilla call option. Clearly if you own both a down and out call option together with a down an in call option on the same underlying with the same barrier,    strike prices and maturity,    then you have a plain vanilla call option. So for calls and puts and down and up options:
+Where $B$ is the barrier and. $CT$ is the value of the plain vanilla call option. Clearly if you own both a down and out call option together with a down an in call option on the same underlying with the same barrier,      strike prices and maturity,      then you have a plain vanilla call option. So for calls and puts and down and up options:
 
 $$\mathrm{vanilla}=\mathrm{in}+\mathrm{out}.$$
 
-Barrier option sometimes specify a double barrier with an upper and lower limit. Sometimes the barrier changes over time. Sometimes a rebate is paid if the barrier is hit. Some options become barrier options if a particulan value,    usually the strike price,    for the underlying is reached
+Barrier option sometimes specify a double barrier with an upper and lower limit. Sometimes the barrier changes over time. Sometimes a rebate is paid if the barrier is hit. Some options become barrier options if a particulan value,      usually the strike price,      for the underlying is reached
 
 ### Lookback Options
 
@@ -1346,15 +1335,15 @@ Lookback options have a payof that depends on the maximum or minimum value that 
 
 ## Asian Options
 
-An Asian option has a payoff that depends on the average price of the underlying asset from its starting date. Thus the intrinsic value of an average price Asian call option is $\operatorname*{max}[0,    S_{ave}-X]$ ,   where $S_{ave}$ is the average value of the asset from the start of the option to the current date. Another type of Asian option is the average strike price type,    where the strike price is the average value. In this case the intrinsic value of the call is $\operatorname*{max}[0,    S_{t}-S_{ave}]$ and the intrinsic value of the put is $\operatorname*{max}[S_{ave}-S_{t},    0]$
+An Asian option has a payoff that depends on the average price of the underlying asset from its starting date. Thus the intrinsic value of an average price Asian call option is $\operatorname*{max}[0,      S_{ave}-X]$ ,     where $S_{ave}$ is the average value of the asset from the start of the option to the current date. Another type of Asian option is the average strike price type,      where the strike price is the average value. In this case the intrinsic value of the call is $\operatorname*{max}[0,      S_{t}-S_{ave}]$ and the intrinsic value of the put is $\operatorname*{max}[S_{ave}-S_{t},      0]$
 
 # Asset Price Dynamics
 
 ### Introduction
 
-These notes give assumptions of asset price returns that are derived from the efficient markets hypothesis. Although a hypothesis,    there is widespread empirical evidence that broadly supports the hypothesis and therefore the assumptions made on the process governing asset price changes. Continuous time stochastic processes are discussed and the geometric Brownian motion model for stock price changes is derived. We first look at rates of return as if they are known for certain and then consider the realistic case that asset price returns are unknown in advance
+These notes give assumptions of asset price returns that are derived from the efficient markets hypothesis. Although a hypothesis,      there is widespread empirical evidence that broadly supports the hypothesis and therefore the assumptions made on the process governing asset price changes. Continuous time stochastic processes are discussed and the geometric Brownian motion model for stock price changes is derived. We first look at rates of return as if they are known for certain and then consider the realistic case that asset price returns are unknown in advance
 
-Keywords: continuously compounded rate of return,    stochastic process,    ran dom walk,    martingale,    Markov property Wiener process,    geometric Brownian motion,    Ito calculus
+Keywords: continuously compounded rate of return,      stochastic process,      ran dom walk,      martingale,      Markov property Wiener process,      geometric Brownian motion,      Ito calculus
 
 Reading: You should read Hull chapter 12 and perhaps the very first part of chapter 13.
 
@@ -1372,11 +1361,11 @@ It is important to know the rate of return. However to compare rates of return o
 
 ## Compound Rates of Return
 
-Compound interest rates are calculated by assuming that the principal (initial investment) plus interest is re-invested each period. Compounding might be done annually,    semi-annually,    quarterly,    monthly or even daily. Assuming the re-investment is done after each period,    the per-period interest rate 7 On the investment satisfies
+Compound interest rates are calculated by assuming that the principal (initial investment) plus interest is re-invested each period. Compounding might be done annually,      semi-annually,      quarterly,      monthly or even daily. Assuming the re-investment is done after each period,      the per-period interest rate 7 On the investment satisfies
 
 $$(1+r (T))=(1+r)^T.$$
 
-Now consider dividing up each period into 772 sub-periods each of length $\Delta t$ This is illustrated in Figure 1. Then if the compounding is done $7 t$ times per period,    the compound interest rate 7 satisfies
+Now consider dividing up each period into 772 sub-periods each of length $\Delta t$ This is illustrated in Figure 1. Then if the compounding is done $7 t$ times per period,      the compound interest rate 7 satisfies
 
 $$(1+r (T))=(1+\frac{r}{n})^{nT}.$$
 
@@ -1391,7 +1380,7 @@ Figure 1: DIVIDING A TIME INTERVAL $Tl$ SUB-PERIODS
 Suppose that compounding is done $7 t.$ times per period and let the length of time between compounding be denoted by $\Delta t=\frac{1}{n}$ . Continuous compounding occurs as $\Delta t\rightarrow 0$ or equivalently as $n\to 0$ .In this case the compounding factor $T$ satisfies
 $$(1+\frac{r}{n})^{nT}=(1+r\Delta t)^{\frac{T}{\Delta t}}.$$
 
-Let $m=\frac{1}{r\Delta t}$ ,    then
+Let $m=\frac{1}{r\Delta t}$ ,      then
 
 $$(1+r\Delta t)^{\frac{T}{\Delta t}}=(1+\frac{1}{m})^{mrT}=\left ((1+\frac{1}{m})^{m}\right)^{rT}.$$
 
@@ -1422,7 +1411,7 @@ This isknown as the continuously compounded rate ofreturn
 
 The continuously compounded rate of return has the property that longer period rates of return can be computed simply by adding shorter continuously
 
-Compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7 t$ denote the continuously compounded rate of return from period $t$ to $t+1$ ,   that is
+Compounded rates of return. This is a very convenient feature which makes using the continuously compounded rates of return especially simple. To see this let $7 t$ denote the continuously compounded rate of return from period $t$ to $t+1$ ,     that is
 $$r_t=\ln\left (\frac{B_{t+1}}{B_t}\right)$$
 
 Where $B_{t}$ is the value of the asset at time $t$ .Let $r (T)$ denote the continuously compounded rate of return over the period 0 to $T$
@@ -1491,7 +1480,7 @@ And so the standard deviation is $\sigma_{2}={\sqrt{2}}$
 
 ### A Stochastic Process for Asset Prices
 
-The efficient markets hypothesis implies that all relevant information is rapidly assimilated into asset prices. Thus asset prices will respond only to new information (news) and since news is essentially unforecastable so to are asset prices. The efficient market hypothesis also implies that it is impossible to consistently make abnormal profits by trading on publically available information and in particular the past history of asset prices. Thus only the current asset price is relevant in predicting future prices and past prices are irrelevant. This property is know as the Markov property for stock prices. If we add a further assumption that the variability of asset prices is roughly constant over time,    then the asset price is said to follow a random walk. This was true of our coin tossing example above.
+The efficient markets hypothesis implies that all relevant information is rapidly assimilated into asset prices. Thus asset prices will respond only to new information (news) and since news is essentially unforecastable so to are asset prices. The efficient market hypothesis also implies that it is impossible to consistently make abnormal profits by trading on publically available information and in particular the past history of asset prices. Thus only the current asset price is relevant in predicting future prices and past prices are irrelevant. This property is know as the Markov property for stock prices. If we add a further assumption that the variability of asset prices is roughly constant over time,      then the asset price is said to follow a random walk. This was true of our coin tossing example above.
 
 Let $u_{t}$ denote the random rate of return from period $t$ to $t+1$ .Then
 
@@ -1505,7 +1494,7 @@ The return $ut$ is now random because the future asset price is unknown. It can 
 
 $$\ln S_{t+1}=\ln S_t+\ln (1+u_t).$$
 
-We can then see how the stochastic process for the asset price evolves. Sup pose we start from a given value $S_{0}$ ,   then
+We can then see how the stochastic process for the asset price evolves. Sup pose we start from a given value $S_{0}$ ,     then
 
 $$\begin{aligned}
 &\ln S_{1} =\ln S_0+\ln (1+u_0) \\
@@ -1521,7 +1510,7 @@ $$\ln S_T=\ln S_0+\sum_{i=0}^{T-1}\omega_i.$$
 
 We shall assume that $\omega_{t}$ is a random variable which is identically and independently distributed and such that the expected value $\operatorname { E} [ \omega _{t}]$ = $\nu$ and variance $\operatorname{Var}[\omega_{t}]=\sigma^{2}$ .There is a great deal of evidence to support the assumption that $w_{t}$ is independently and identically distributed and over short time horizons. It is also usually reasonable to assume that the expected value $V$ and variance $\sigma^{2}$ are independent of time for the short time horizons that we normally consider in pricing options.
 
-We shall make a further assumption that each $\omega_{t}$ is normally distributed Since the sum of randomly distributed random variables is normally distributed,    and since $S_{0}$ is known the natural logarithm of the asset price will also be normally distributed. Taking expectations we can therefore show that
+We shall make a further assumption that each $\omega_{t}$ is normally distributed Since the sum of randomly distributed random variables is normally distributed,      and since $S_{0}$ is known the natural logarithm of the asset price will also be normally distributed. Taking expectations we can therefore show that
 
 $$\mathrm{E}[\ln S_T]=\ln S_0+\nu T$$
 
@@ -1568,7 +1557,7 @@ This value is known as the geometric mean. It is another measure of the average 
 
 Mean as $\nu=0.195826$ or $19.58\%$ per period² which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the arithmetic mean return,    the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
+There is a simple relationship between the arithmetic mean return,      the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$ .The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$ .Substituting and expanding this gives
 
 $$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
 
@@ -1576,7 +1565,7 @@ Or
 
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
 
-Since rates of return are typically less than one,    the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ O 1
+Since rates of return are typically less than one,      the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ O 1
 
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
@@ -1608,11 +1597,11 @@ Hence the standard deviation of $V$ is simply $\sigma/{\sqrt{T}}$
 
 We will now consider the stochastic process in more detail and see how to take limits as the length of the time interval goes to zero. This will produce a continuous time stochastic process.
 
-Consider a variable $iL$ which takes on values at discrete points in time $t=0,   1,   \ldots,    T$ and suppose that $Z$ evolves according to the following rule:
+Consider a variable $iL$ which takes on values at discrete points in time $t=0,     1,     \ldots,      T$ and suppose that $Z$ evolves according to the following rule:
 
 $$z_{t+1}=z_{t}+\epsilon;\quad W_{0}\quad\mathrm{fixed}$$
 
-Where $t$ is a random drawing from a standardized normal distribution,    that is with mean of zero and variance of one. The draws are assumed to be independently distributed. This represents a random walk where on average $iL$ remains unchanged each period but where the standard deviation of the realized value is one each period. At date $t=0$ ,   we have $E[z_{T}]=z_{0}$ and the variance $Var[z_{T}]=T$ as the draws are independent.
+Where $t$ is a random drawing from a standardized normal distribution,      that is with mean of zero and variance of one. The draws are assumed to be independently distributed. This represents a random walk where on average $iL$ remains unchanged each period but where the standard deviation of the realized value is one each period. At date $t=0$ ,     we have $E[z_{T}]=z_{0}$ and the variance $Var[z_{T}]=T$ as the draws are independent.
 
 Now divide the periods into $TL$ subperiods each of length $\Delta t$ .To keep the process equivalent the variance in the shock must also be reduced so that the standard deviation is $\sqrt{\Delta t}$ .The resulting process isknown as aWiener process. The Wiener process has two important properties:
 
@@ -1642,7 +1631,7 @@ $$\mathrm{Var}[z (T)]=N\Delta t=T$$
 
  Or the standard deviation of $z (T)$ is $\sqrt{T}$
 
-Now consider what happens in the limit as $\Delta t\to 0$ ,   that is as the length of the interval becomes an infinitesimal $dt$ .We replace $\Delta z (t+\Delta t)$ by $dz (t)$
+Now consider what happens in the limit as $\Delta t\to 0$ ,     that is as the length of the interval becomes an infinitesimal $dt$ .We replace $\Delta z (t+\Delta t)$ by $dz (t)$
 
 Which has a mean of zero and standard deviation of $dt$ .This continuous time stochastic process is also known as Brownian Motion after its use in physics to describe the motion of particles subject to a large number of small molecular shocks
 
@@ -1650,7 +1639,7 @@ This process is easily generalized to allow for a non-zero mean and arbitrary st
 
 $$dx=a\:dt+b\:dz$$
 
-where $U.$ and $b$ are constants. This formula for the change in the value of ${:}L$ consists of two components,    a deterministic component adt and a stochastic component $b$ $dz ( t)$ .The deterministic component is $dx= a$ $dt$ or $\frac {dx}{dt}$ = $a$ which shows that $x$ = $x_{0}+ at$ sothat $d.$ is simply the trend term for $JL$ Thus the increase in the value of ${:}\boldsymbol{L}$ over one time period is $d$ .The stochastic component $b$ $dz ( t)$ adds noise or variability to the path for $2 L$ .The amount of variability added is $b$ times the Wiener process. Since the Wiener process has a standard deviation of one the generalized process has a standard deviation of $b$
+where $U.$ and $b$ are constants. This formula for the change in the value of ${:}L$ consists of two components,      a deterministic component adt and a stochastic component $b$ $dz ( t)$ .The deterministic component is $dx= a$ $dt$ or $\frac {dx}{dt}$ = $a$ which shows that $x$ = $x_{0}+ at$ sothat $d.$ is simply the trend term for $JL$ Thus the increase in the value of ${:}\boldsymbol{L}$ over one time period is $d$ .The stochastic component $b$ $dz ( t)$ adds noise or variability to the path for $2 L$ .The amount of variability added is $b$ times the Wiener process. Since the Wiener process has a standard deviation of one the generalized process has a standard deviation of $b$
 
 ### The Asset Price Process
 
@@ -1678,19 +1667,19 @@ $$\frac{dS (t)}{S (t)}=\left (\nu+\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 This is a special case of Ito's lemma. Ito's lemma shows that for any process of the form
 
-$$dx=a (x,    t) dt+b (x,    t) dz$$
+$$dx=a (x,      t) dt+b (x,      t) dz$$
 
-Then the function $G (x,    t)$ follows the process
+Then the function $G (x,      t)$ follows the process
 
-$$dG=\left (\frac{\partial G}{\partial x}a (x,    t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,    t)\right) dt+\frac{\partial G}{\partial x}b (x,    t) dz.$$
+$$dG=\left (\frac{\partial G}{\partial x}a (x,      t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,      t)\right) dt+\frac{\partial G}{\partial x}b (x,      t) dz.$$
 
 We'll see how to use Ito's lemma. We have
 
 $$d\:\ln S (t)=\nu\:dt+\sigma\: dz.$$
 
-Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,    t)=e^{x}$ . Then upon differentiating
+Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,      t)=e^{x}$ . Then upon differentiating
 
-$$\frac{\partial G}{\partial x}=e^x=S,   \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,   \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial x}=e^x=S,     \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,     \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence using Ito's lemma
 
@@ -1714,7 +1703,7 @@ $$ds (t)=\mu S (t)\:dt+\sigma S (s)\: dz.$$
 
 Now consider the function $G (S)=\ln S$ . Differentiating we have
 
-$$\frac{\partial G}{\partial S}=1,   \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},   \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial S}=1,     \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},     \quad\frac{\partial G}{\partial t}=0.$$
 
 Hence substituting into Ito's lemma we get.
 
@@ -1722,9 +1711,9 @@ $$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 ### The forward price.
 
-As we have seen before the forwardprice just depends on the current price of the underlying,    the interest rate and the time to expiration. With continuous compounding we can write the forward price equation as
+As we have seen before the forwardprice just depends on the current price of the underlying,      the interest rate and the time to expiration. With continuous compounding we can write the forward price equation as
 
-$$F (S (t),    t)=S (t) e^{r (T-t)}.$$
+$$F (S (t),      t)=S (t) e^{r (T-t)}.$$
 
 This shows the forward price is a stochastic process which depends on the price of the underlying asset which itself is a stocastic process. Since we have
 
@@ -1746,7 +1735,7 @@ We have shown how returns are continuously compounded and introduced the geometr
 
 These notes examine the Black-Scholes formula for European options. The Black-Scholes formula are complex as they are based on the geometric Brownian motion assumption for the underlying asset price. Nevertheless they can be interpreted and are easy to use once understood. We start off by examining digital or binary options which are easy and intuitive to price. We shall show how the Black-Scholes formula can be derived and derive and justify the Black-Scholes-Merton partial differential equation.
 
-Keywords: Black-Scholes formula,    Black-Scholers-Merton partial differential equation,    replication,    self-financing portfolio,    martingale pricing,    bound-. Ary conditions,    PDE.
+Keywords: Black-Scholes formula,      Black-Scholers-Merton partial differential equation,      replication,      self-financing portfolio,      martingale pricing,      bound-. Ary conditions,      PDE.
 
 Reading: Hull Chapter 13.
 
@@ -1777,7 +1766,7 @@ Is a standard normal variable with expected value of zero and standard deviation
 
 $$x^*=\frac{\ln K-\ln S (0)-\left (\mu-\frac{1}{2}\sigma^2\right) T}{\sigma\sqrt T}$$
 
-As we have seen options can be evaluated using risk-neutral pricing,    that is as if allassets earn the same rate of return. 7 as the riskless asset. Thus we replace $\mu$ by 7 in the above equation to get
+As we have seen options can be evaluated using risk-neutral pricing,      that is as if allassets earn the same rate of return. 7 as the riskless asset. Thus we replace $\mu$ by 7 in the above equation to get
 
 $$x=\frac{\ln K-\ln S (0)-\left (r-\frac{1}{2}\sigma^2\right) T}{\sigma\sqrt{T}}.$$
 
@@ -1789,7 +1778,7 @@ There is a simple condition for put call parity for digital options. This is giv
 
 $$c^b (0)+p^b (0)=e^{-rT}$$
 
-Since if one buys a digital call and a digital put with the same strike price and maturity date,    one is sure to have one unit at time $T$ no matter what the price of the underlying asset. Hence the put price satisfies
+Since if one buys a digital call and a digital put with the same strike price and maturity date,      one is sure to have one unit at time $T$ no matter what the price of the underlying asset. Hence the put price satisfies
 
 $$p^b (0)=e^{-rT}-c^b (0)=e^{-rT}-e^{-rT}N (-x)=e^{-rT}(1-N (-x))=e^{-rT}N (x).$$
 
@@ -1801,9 +1790,9 @@ Plain options have slightly more complex payoffs than digital options but the pr
 
 The payoff to a European call option with strike price $K$ at thematurity date $T$ is
 
-$$c (T)=\max[S (T)-K,    0]$$
+$$c (T)=\max[S (T)-K,      0]$$
 
-Where $S (T)$ is the price of the underlying asset at the maturity date. At maturity if $S (T)>K$ the option to buy the underlying at $K$ can be exercised and the underlying asset immediately sold for $S (T)$ to give a net payoff of $S (T)-K$ .Since the option gives only the right and not the obligation to buy the underlying asset,    the option to buy the underlying will not be exercised if doing so would lead to a loss,    $S (T)-K<0$ . The Black-Scholes formula for the price of the call option at date $t=0$ prior to maturity is given by
+Where $S (T)$ is the price of the underlying asset at the maturity date. At maturity if $S (T)>K$ the option to buy the underlying at $K$ can be exercised and the underlying asset immediately sold for $S (T)$ to give a net payoff of $S (T)-K$ .Since the option gives only the right and not the obligation to buy the underlying asset,      the option to buy the underlying will not be exercised if doing so would lead to a loss,      $S (T)-K<0$ . The Black-Scholes formula for the price of the call option at date $t=0$ prior to maturity is given by
 
 $$c (0)=S (0) N (d_1)-e^{-rT}KN (d_2)$$
 
@@ -1817,7 +1806,7 @@ Here $\sigma^{2}$ is the variance of the continuously compounded rate of return 
 
 Likewise the payoff to a European put option with strike price $K$ at the maturity date $T$ is
 
-$$p (T)=\max[K-S (T),    0]$$
+$$p (T)=\max[K-S (T),      0]$$
 
 As the put option gives the right to sell underlying asset at the strike price of $K$ .The Black-Scholes formula for the price of the put option at date $t=0$ prior to maturity is given by
 
@@ -1854,13 +1843,13 @@ It is the slope of the curve relating the option price with the price of the und
 
 ### Boundary Conditions
 
-We shall consider theboundary conditions for the call option. Consider first the boundary condition for the call at expiration when $T=0$ .To do this consider the formula for the call option as $T\longrightarrow 0$ ,   that is as the time until maturity goes to zero. At maturity $c (T)=\operatorname*{max}[S (T)-K,    0]$ so we need to show that as $T\longrightarrow 0$ the formula converges to $c ( 0)$ = $\operatorname* { max} [ S ( 0) - K,    0]$ .If $S (0)>K$ then $\ln ({\frac{S (0)}{K}})>0$ so that as $T\longrightarrow 0$ ， $d_{1}$ and $d_{2}\to+\infty$ .Thus $N (d_{1})$ and $N (d_{2})\to 1$ .Since $e^{-rT}\to 1$ as $T\longrightarrow 0$ we have that $c ( 0)$ $\longrightarrow$ $S ( 0) - K$ if $S (0)>K$ . Alternatively if $S (0)<K$ then $\ln(\frac{S(0)}{K})<0$ so that as $T\longrightarrow0$ $d_{1}$ and $d_{2}\rightarrow-\infty$ and hence $N(d_{1})$ and $N( d_{2})$ $\to$ 0 .Thus $c( 0)$ $\longrightarrow$ 0 if $S(0)<K$ .This is precisely as expected. If the option is in the money at maturity,    $S(0)>K$ ,    it is exercised for a profit of $S (0)-K$ and if it is out of the money,    $S (0)<K$ ,    the option expires unexercised and valueless.
+We shall consider theboundary conditions for the call option. Consider first the boundary condition for the call at expiration when $T=0$ .To do this consider the formula for the call option as $T\longrightarrow 0$ ,     that is as the time until maturity goes to zero. At maturity $c (T)=\operatorname*{max}[S (T)-K,      0]$ so we need to show that as $T\longrightarrow 0$ the formula converges to $c ( 0)$ = $\operatorname* { max} [ S ( 0) - K,      0]$ .If $S (0)>K$ then $\ln ({\frac{S (0)}{K}})>0$ so that as $T\longrightarrow 0$ ， $d_{1}$ and $d_{2}\to+\infty$ .Thus $N (d_{1})$ and $N (d_{2})\to 1$ .Since $e^{-rT}\to 1$ as $T\longrightarrow 0$ we have that $c ( 0)$ $\longrightarrow$ $S ( 0) - K$ if $S (0)>K$ . Alternatively if $S (0)<K$ then $\ln(\frac{S(0)}{K})<0$ so that as $T\longrightarrow0$ $d_{1}$ and $d_{2}\rightarrow-\infty$ and hence $N(d_{1})$ and $N( d_{2})$ $\to$ 0 .Thus $c( 0)$ $\longrightarrow$ 0 if $S(0)<K$ .This is precisely as expected. If the option is in the money at maturity,      $S(0)>K$ ,      it is exercised for a profit of $S (0)-K$ and if it is out of the money,      $S (0)<K$ ,      the option expires unexercised and valueless.
 
-As another example consider what happens as $\sigma\rightarrow 0$ .In this case the underlying asset becomes riskless so grows at the constant rate of $T$ .Thus the future value of the stock is $S (T)=e^{rT^{\prime}}S (0)$ and the payoff to the call option at maturity is $\operatorname*{max}[e^{r^{\prime}I^{\prime}}S (0)-K,    0]$ . Thus the value of the call at date $t=0$ is $\operatorname*{max}[S (0)-e^{-rT}K,    0]$ .To see this from the formula first consider the case where $S (0)-e^{-rT}K>0$ or $\ln (\frac{S (0)}{K})+rT>0$ .Then as $\sigma\longrightarrow 0$ ， $d_{1}$ and $d_{2}\to+\infty$ and hence $N (d_{1})$ and $N (d_{2})\to 1$ .Thus $c ( 0)$ $\to$ $S ( 0)$ - $e^{- rT^{\prime }}K$ Likewise when $S (0)-e^{-rT}K<0$ or $\ln (\frac{S (0)}{K})+rT<0$ then $d_{1}$ and $d_{2}\to-\infty$ as $\sigma\rightarrow 0$ .Hence $N (d_{1})$ and $N (d_{2})\to 0$ and so $c (0)\to 0$ .Thus combining both conditions $c (0)\longrightarrow\operatorname*{max}[e^{rT}S (0)-K,    0]$ as $\sigma\rightarrow 0$
+As another example consider what happens as $\sigma\rightarrow 0$ .In this case the underlying asset becomes riskless so grows at the constant rate of $T$ .Thus the future value of the stock is $S (T)=e^{rT^{\prime}}S (0)$ and the payoff to the call option at maturity is $\operatorname*{max}[e^{r^{\prime}I^{\prime}}S (0)-K,      0]$ . Thus the value of the call at date $t=0$ is $\operatorname*{max}[S (0)-e^{-rT}K,      0]$ .To see this from the formula first consider the case where $S (0)-e^{-rT}K>0$ or $\ln (\frac{S (0)}{K})+rT>0$ .Then as $\sigma\longrightarrow 0$ ， $d_{1}$ and $d_{2}\to+\infty$ and hence $N (d_{1})$ and $N (d_{2})\to 1$ .Thus $c ( 0)$ $\to$ $S ( 0)$ - $e^{- rT^{\prime }}K$ Likewise when $S (0)-e^{-rT}K<0$ or $\ln (\frac{S (0)}{K})+rT<0$ then $d_{1}$ and $d_{2}\to-\infty$ as $\sigma\rightarrow 0$ .Hence $N (d_{1})$ and $N (d_{2})\to 0$ and so $c (0)\to 0$ .Thus combining both conditions $c (0)\longrightarrow\operatorname*{max}[e^{rT}S (0)-K,      0]$ as $\sigma\rightarrow 0$
 
 ## At-the-money Options.
 
-Consider an option that is currently at-the-money,    $S ( 0)$ = $K$ .Then the formula for the call option becomes
+Consider an option that is currently at-the-money,      $S ( 0)$ = $K$ .Then the formula for the call option becomes
 
 $$c (0)=S (0)\begin{pmatrix}N (d_1)-e^{-rT}N (d_2)\end{pmatrix}$$
 
@@ -1878,7 +1867,7 @@ And
 
 $$d_1=\frac{\ln (\frac{S (0)}{K})+(r+\frac{1}{2}\sigma^2) T}{\sigma\sqrt{T}}=\frac{\frac{1}{2}\sigma^2 T}{\sigma\sqrt{T}}=\frac{1}{2}\sigma\sqrt{T}$$
 
-And $d_{2}=-(1/2)\sigma\sqrt{T}$ .By Taylor's theorem,    expanding $N (x)$ about $x=0$ gives
+And $d_{2}=-(1/2)\sigma\sqrt{T}$ .By Taylor's theorem,      expanding $N (x)$ about $x=0$ gives
 $$N (x)\approx N (0)+xN' (0)+\frac{1}{2}x^{2}N'' (0).$$
 
 Thus we have
@@ -1901,17 +1890,17 @@ Wewish to price a callon an underlying stock. Assume that the time to maturity i
 
 $$d\: S (t)=\mu S (t)\:dt+\sigma S (t)\: dz (t)$$
 
-where $dz$ is a Wiener process,   i.e. has zero mean an unit variance and increments are independent. We assume there is arisk-free asset that has a
+where $dz$ is a Wiener process,     i.e. has zero mean an unit variance and increments are independent. We assume there is arisk-free asset that has a
 
 Constant continuously compounded rate of return 7 so that a money market account follows the process
 
 $$d\: B (t)=rB (t)\: dt.$$
 
-The latter is equivalent to $B (t)=B (0) e^{rt}$ .The excess return on the stock is $\mu-r$ and the ratio. $\lambda=(\mu-r)/\sigma$ is known as the market price of risk. The call option changes value over time as the stock price and the time to maturity changes and therefore we can write the call price $c (s (t),    t)$
+The latter is equivalent to $B (t)=B (0) e^{rt}$ .The excess return on the stock is $\mu-r$ and the ratio. $\lambda=(\mu-r)/\sigma$ is known as the market price of risk. The call option changes value over time as the stock price and the time to maturity changes and therefore we can write the call price $c (s (t),      t)$
 
-The objective is to show that $c (S (t),    t)$ is well defined (there is a unique price) and describe how the call price depends on $S (t)$ and $t$
+The objective is to show that $c (S (t),      t)$ is well defined (there is a unique price) and describe how the call price depends on $S (t)$ and $t$
 
-Since $c (S (t),    t)$ is just a function we can apply Ito's lemma to derive
+Since $c (S (t),      t)$ is just a function we can apply Ito's lemma to derive
 
 $$d\:c=\left (\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt+\sigma S\frac{\partial c}{\partial S}\: dz.$$
 
@@ -1923,7 +1912,7 @@ Now setting $\Delta=-\partial c/\partial S$ eliminates the random $dz$ term togi
 
 $$d (c+\Delta S)=\left (\frac{\partial c}{\partial t}+\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S}\right) dt.$$
 
-This is our $\Delta$ -hedged portfolio which has eliminated all risk. Since this port folio is riskless it must satisfy exactly the same equation as the money-market account,    i.e.
+This is our $\Delta$ -hedged portfolio which has eliminated all risk. Since this port folio is riskless it must satisfy exactly the same equation as the money-market account,      i.e.
 
 $$d (c+\Delta S)=r (c+\Delta S) dt$$
 
@@ -1935,9 +1924,9 @@ Where we've replace $\Delta$ by $-\partial c/\partial S$ .Rewriting we have
 
 $$c=\frac{1}{r}\left\{\left (\frac{\partial c}{\partial t}+rS\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S}\right)\right\}.$$
 
-This is a second-order partial differential equation (PDE). It is known as the Black-Scholes-Merton Partial Differential Equation. Indeed since we did not yet specify anything about the nature of the option,    this equation will apply to any derivative security. What determines how the equation applies to a particular derivative is given by the boundary condition. For the cal option we have the boundary condition that at maturity
+This is a second-order partial differential equation (PDE). It is known as the Black-Scholes-Merton Partial Differential Equation. Indeed since we did not yet specify anything about the nature of the option,      this equation will apply to any derivative security. What determines how the equation applies to a particular derivative is given by the boundary condition. For the cal option we have the boundary condition that at maturity
 
-$$c (S (T),    T)=\max\{S (T)-K,    0\}.$$
+$$c (S (T),      T)=\max\{S (T)-K,      0\}.$$
 
 Solving this second order differential equation together with the boundary condition gives the Black-Scholes formula we have seen before
 
@@ -1961,31 +1950,31 @@ Any time and thus the change in the value of the portfolio depends on how the st
 
 $$d\:P=\alpha\:dS+\beta\: dB.$$
 
-To satisfy this equation $\boldsymbol{\alpha}$ and $\beta$ will in general be changing over time and as $S (t)$ varies. However it is also clear that once $\alpha (S (t),    t)$ is specified,    d $\beta (S (t),    t)$ is determined as well by the fact that the portfolio is self-financing and thus has to satisfy the above equation. We shall follow what we did in the previous section and suppose that $\alpha=\partial C/\partial S$ .Here we are taking a long position in the stock as we are trying to replicate the portfolio (whereas in the previous section we were taking a short position to hedge out the risk of the option itself). We want to show that the value of the portfolio equals the value of the call at every instant. That is we want to show that $P (S (t),    t)=c (S (t),    t)$ Therefore we consider the difference
+To satisfy this equation $\boldsymbol{\alpha}$ and $\beta$ will in general be changing over time and as $S (t)$ varies. However it is also clear that once $\alpha (S (t),      t)$ is specified,      d $\beta (S (t),      t)$ is determined as well by the fact that the portfolio is self-financing and thus has to satisfy the above equation. We shall follow what we did in the previous section and suppose that $\alpha=\partial C/\partial S$ .Here we are taking a long position in the stock as we are trying to replicate the portfolio (whereas in the previous section we were taking a short position to hedge out the risk of the option itself). We want to show that the value of the portfolio equals the value of the call at every instant. That is we want to show that $P (S (t),      t)=c (S (t),      t)$ Therefore we consider the difference
 
 $$\begin{aligned}
-&d (P (S (t),    t)-c (S (t),    t))&& =d\: P-d\: c \\
-&&&=\alpha (S,    t)\:dS+\beta (S,    t)\: dB \\
+&d (P (S (t),      t)-c (S (t),      t))&& =d\: P-d\: c \\
+&&&=\alpha (S,      t)\:dS+\beta (S,      t)\: dB \\
 &&&-\left (\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^{2}S^{2}\frac{\partial^{2}c}{\partial S^{2}}\right) dt-\sigma S\frac{\partial c}{\partial S}\: dz. \\
 &\text{100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000}
 \end{aligned}$$
 
-Then substituting for $dS$ ， $dB$ and $\alpha (S,    t)$ gives
+Then substituting for $dS$ ， $dB$ and $\alpha (S,      t)$ gives
 
-$$d (P (S (t),    t)-c (S (t),    t))=\left (\beta (S,    t) rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt.$$
+$$d (P (S (t),      t)-c (S (t),      t))=\left (\beta (S,      t) rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma^2 S^2\frac{\partial^2 c}{\partial S^2}\right) dt.$$
 
 Again the risk has been eliminated from this equation. Then using the Black Scholes equation gives
 
-$$d (P (S (t),    t)-c (S (t),    t))=\left (\beta (S,    t) rB-r\left (c-S\frac{\partial c}{\partial S}\right)\right) dt$$
+$$d (P (S (t),      t)-c (S (t),      t))=\left (\beta (S,      t) rB-r\left (c-S\frac{\partial c}{\partial S}\right)\right) dt$$
 
-And since $\beta (S,    t) B=P (S,    t)-\alpha (S,    t) S$ this gives
+And since $\beta (S,      t) B=P (S,      t)-\alpha (S,      t) S$ this gives
 
 $$\begin{gathered}
-D (P (S (t),    t)-c (S (t),    t)) =r\left (P (S,    t)-\alpha (S,    t) S\right) dt-r\left (c-S\frac{\partial c}{\partial S}\right) dt \\
-=r\left (P (S,    t)-c (S,    t)\right) dt. 
+D (P (S (t),      t)-c (S (t),      t)) =r\left (P (S,      t)-\alpha (S,      t) S\right) dt-r\left (c-S\frac{\partial c}{\partial S}\right) dt \\
+=r\left (P (S,      t)-c (S,      t)\right) dt. 
 \end{gathered}$$
 
-Let $D (S,    t)=P (S,    t)-c (S,    t)$ .By construction we want the portfolio to be replicating so $P (S (0),    0)=c (S (0),    0)$ and hence $D (S,    0)=0$ .But we have from the above equation that $dD=rD (S,    t) dt$ and so $D (S,    t)=D (S,    0) e^{rt}=$ 0 .Thus the portfolio because it is self-financing and all risk has been hedged away replicates the call value at every instant. Moreover,    unlike the previous argument which assumed a call value function $c (S,    t)$ and differentiated,    the present approach proves the existence of this value and shows that it is well defined.
+Let $D (S,      t)=P (S,      t)-c (S,      t)$ .By construction we want the portfolio to be replicating so $P (S (0),      0)=c (S (0),      0)$ and hence $D (S,      0)=0$ .But we have from the above equation that $dD=rD (S,      t) dt$ and so $D (S,      t)=D (S,      0) e^{rt}=$ 0 .Thus the portfolio because it is self-financing and all risk has been hedged away replicates the call value at every instant. Moreover,      unlike the previous argument which assumed a call value function $c (S,      t)$ and differentiated,      the present approach proves the existence of this value and shows that it is well defined.
 
 ## Martingale Pricing
 
@@ -2001,13 +1990,13 @@ D\:\varrho (t)& =\frac{1}{B (t)}\left (\mu S (t)\:dt+\sigma S (t) dz\right)-\fra
 &=(\mu-r)\varrho (t)\:dt+\sigma\varrho (t)\: dz.
 \end{aligned}$$
 
-This does not satisfy the martingale property because the drift rate is not equal to 7 . We remember however,    that in the Binomial model we never had to specify the true probabilities but could derive risk-neutral probabilities.
+This does not satisfy the martingale property because the drift rate is not equal to 7 . We remember however,      that in the Binomial model we never had to specify the true probabilities but could derive risk-neutral probabilities.
 
 We can do do something similar here by changing the probabilities or measure of the distribution. It turns out that if we specify a process $\ddot{z}=z-\eta t$ where $Z$ is a Wiener process then so to is $\tilde{z}$ 2 Thus
 
 $$d\:\varrho (t)=(\mu-r)\varrho (t)\:dt+\sigma\varrho (t)\: d\tilde{z}+\sigma\varrho (t)\eta dt.$$
 
-If we choose $\eta$ to be equal to the market price of risk,    $\lambda=(\mu-r)/\sigma$ ,   then the drift terms cancel out and $\varrho (t)$ is a martingale,    that is $d$ $\varrho ( t) = \sigma \varrho ( t)$ $d\tilde{z}$ Hence since $d$ $B ( t) = rB ( t)$ $dt$ weget
+If we choose $\eta$ to be equal to the market price of risk,      $\lambda=(\mu-r)/\sigma$ ,     then the drift terms cancel out and $\varrho (t)$ is a martingale,      that is $d$ $\varrho ( t) = \sigma \varrho ( t)$ $d\tilde{z}$ Hence since $d$ $B ( t) = rB ( t)$ $dt$ weget
 
 $$d\:\varrho (t)=\frac{d\: S (t)}{B (t)}-\frac{rS (t)}{B (t)}\:dt=\sigma\frac{S (t)}{B (t)}\: d\tilde{z}$$
 
@@ -2023,9 +2012,9 @@ $$\frac{\ln S (T)-\ln S (0)-(r-\frac{1}{2}\sigma^2) T}{\sigma\sqrt{T}}$$
 
 Is a standard normal variable with mean zero and unit variance. The value of a call option can be calculated as the discounted value of the expected intrinsic value using the risk neutral expectation. That is
 
-$$c (0)=e^{-rT}\mathrm{E}_*[\max\{S (T)-K,    0\}].$$
+$$c (0)=e^{-rT}\mathrm{E}_*[\max\{S (T)-K,      0\}].$$
 
-Thus we need to calculate the expected value of $S (T)-K$ conditional on the option ending in the money,    $S (T)>K$ .The value of the option consists of
+Thus we need to calculate the expected value of $S (T)-K$ conditional on the option ending in the money,      $S (T)>K$ .The value of the option consists of
 
 Two parts: the future value of the underlying asset conditional on $S (T)>K$ and the strike price paid times the probability the option is exercised. The probability the option is exercised is the probability $S (T)>K$ .This will be given by $1-N (x)$ where
 
@@ -2049,29 +2038,29 @@ We have considered three ways in which the Black-Scholes formula may be derived.
 
 ### Introduction
 
-We have studied how to price an option using the Black-Scholes formula. Now we wish to consider how the option price changes,    either over time or as the parameters in the formula are changed. As the price of an option changes the risk of the option changes too. Therefore knowing how the option prices changes enables the trader to hedge the risks of holding the option.
+We have studied how to price an option using the Black-Scholes formula. Now we wish to consider how the option price changes,      either over time or as the parameters in the formula are changed. As the price of an option changes the risk of the option changes too. Therefore knowing how the option prices changes enables the trader to hedge the risks of holding the option.
 
 These notes will consider the various measures of how the option price changes. These measures are known as the Greeks as each of them is given a Greek letter. 1 We shall consider what these Greek letters measure and how they relate to each other. We shall also consider implied volatility and volatility smiles. We shall make use of the put-call parity condition for European options.
 
-Keywords: Delta,    Gamma,    Rho,    Vega,    Theta,    Hedging,    Volatility smiles
+Keywords: Delta,      Gamma,      Rho,      Vega,      Theta,      Hedging,      Volatility smiles
 
 Reading: Hull Chapters 15 and 16
 
 ### The Greeks
 
-We have from the Black-Scholes formula that the price of a call option depends on on the price of the underlying asset,    $S$ ，the strike price $K$ ，the time to maturity,    $T$ ,   the interest rate,    $T$ and the volatility,    02 Write this as
+We have from the Black-Scholes formula that the price of a call option depends on on the price of the underlying asset,      $S$ ，the strike price $K$ ，the time to maturity,      $T$ ,     the interest rate,      $T$ and the volatility,      02 Write this as
 
-A function $C=C (S,    K,    T,    r,   \sigma)$ .Then using a first-order approximation we have
+A function $C=C (S,      K,      T,      r,     \sigma)$ .Then using a first-order approximation we have
 
 $$\begin{aligned}
-C (S+\delta S,    K,    T+\delta T,    r+\delta r,   \sigma+\delta\sigma)& =C (S,    K,    T,    r,   \sigma) \\
+C (S+\delta S,      K,      T+\delta T,      r+\delta r,     \sigma+\delta\sigma)& =C (S,      K,      T,      r,     \sigma) \\
 &+\delta S\frac{\partial C}{\partial S}+\delta T\frac{\partial C}{\partial T}+\delta r\frac{\partial C}{\partial r}+\delta\sigma\frac{\partial C}{\partial\sigma}.
 \end{aligned}$$
 
-This show the effect of varying each of the parameters,    $S$ ， $T$ ， $T$ ， 0 by small amounts $\delta S$ $\delta T$ ， $\delta r$ and $\delta\sigma$ but with $K$ fixed. The same will be true for any option or portfolio of options. Thus if $\Pi=C (S,    T,    r,   \sigma)$ is the value of the option or portfolio of options then the value of the portfolio after a smal change in the parameters is given by 3
+This show the effect of varying each of the parameters,      $S$ ， $T$ ， $T$ ， 0 by small amounts $\delta S$ $\delta T$ ， $\delta r$ and $\delta\sigma$ but with $K$ fixed. The same will be true for any option or portfolio of options. Thus if $\Pi=C (S,      T,      r,     \sigma)$ is the value of the option or portfolio of options then the value of the portfolio after a smal change in the parameters is given by 3
 
 $$\begin{aligned}
-\Pi (S+\delta S,    K,    T+\delta T,    r+\delta r,   \sigma+\delta\sigma)& =\Pi (S,    K,    T,    r,   \sigma) \\
+\Pi (S+\delta S,      K,      T+\delta T,      r+\delta r,     \sigma+\delta\sigma)& =\Pi (S,      K,      T,      r,     \sigma) \\
 &+\delta S\frac{\partial\Pi}{\partial S}+\delta T\frac{\partial\Pi}{\partial T}+\delta r\frac{\partial\Pi}{\partial r}+\delta\sigma\frac{\partial\Pi}{\partial\sigma}.
 \end{aligned}$$
 
@@ -2093,7 +2082,7 @@ We shall discuss each of these a little further.
 
 ### Delta
 
-We have shown in the binomial model that holding a position that is $\Delta$ units long in the stock and short one call option we have a portfolio that is risk free. The price of this portfolio is $\Pi (S,    K,    T,    r,   \sigma)=\Delta S-C (S,    K,    T,    r,   \sigma)$ TheDelta of the portfoliois therefore
+We have shown in the binomial model that holding a position that is $\Delta$ units long in the stock and short one call option we have a portfolio that is risk free. The price of this portfolio is $\Pi (S,      K,      T,      r,     \sigma)=\Delta S-C (S,      K,      T,      r,     \sigma)$ TheDelta of the portfoliois therefore
 
 $$\Delta_{\Pi}=\frac{\partial\Pi}{\partial S}=\Delta-\frac{\partial C}{\partial S}=\Delta-\Delta_{C}$$
 
@@ -2101,7 +2090,7 @@ Where $\Delta_{C}$ is the Delta of the call option. If the portfolio is risk-fre
 
 This gives a convenient method for finding $\Delta$ from the Black-Scholes formula. Let's take the Black-Scholes formula
 
-$$C (S,    K,    T,    r,   \sigma)=SN (d_1)-e^{-rT}KN (d_2)$$
+$$C (S,      K,      T,      r,     \sigma)=SN (d_1)-e^{-rT}KN (d_2)$$
 
 Where
 
@@ -2111,13 +2100,13 @@ We wish to find $\partial C/\partial S$ where we have to remember that both $d_{
 
 That if we double the strike $K$ and double the price of the underlying $S$ the call price doubles. This is exactly what we should expect. If we change the currency denomination of the asset from pounds to dollars and there are two dollars per pound then the strike price and the price of the underlying should double and the call price should also be double. A function with this property is said to be linearly homogeneous in $S$ and $K$ .More generally this means that
 
-$$\lambda C (S,    K,    T,    r,   \sigma)=C (\lambda S,   \lambda K,    T,    r,   \sigma)$$
+$$\lambda C (S,      K,      T,      r,     \sigma)=C (\lambda S,     \lambda K,      T,      r,     \sigma)$$
 
 For any $\lambda>0$ .It therefore follows from Euler's Theorem that
 
-$$C (S,    K,    T,    r,   \sigma)=S\frac{\partial C}{\partial S}+K\frac{\partial C}{\partial K}.$$
+$$C (S,      K,      T,      r,     \sigma)=S\frac{\partial C}{\partial S}+K\frac{\partial C}{\partial K}.$$
 
-Since the Black-Scholes formula has the form $C ( S,    K,    T,    r,    \sigma )$ = $Sx- Ky$ where $x=N (d_{1})$ and $y=e^{-rT}N (d_{2})$ .This therefore implies that $\partial C/\partial S=$ $N (d_{1})$ and ( $\partial C/\partial K=-e^{-rT^{\prime}}N (d_{2}))$ and therefore that $\Delta=N (d_{1})$
+Since the Black-Scholes formula has the form $C ( S,      K,      T,      r,      \sigma )$ = $Sx- Ky$ where $x=N (d_{1})$ and $y=e^{-rT}N (d_{2})$ .This therefore implies that $\partial C/\partial S=$ $N (d_{1})$ and ( $\partial C/\partial K=-e^{-rT^{\prime}}N (d_{2}))$ and therefore that $\Delta=N (d_{1})$
 
 Question: Give an interpretation for $\partial C/\partial K$ [Hint: Consider the effect of a one unit increase in the strike price on the profitability of holding the option.
 
@@ -2153,7 +2142,7 @@ $$\Theta_C=-\frac{\partial C}{\partial T}=-\frac{SN' (d_1)\sigma}{2\sqrt{T}}-rKe
 
 This shows that $\Theta_{C}<0$ .That is the price of the option declines as maturity approaches or that longer dated options are more valuable. We know that
 
-This is true for American options because the longer dated options give all the opportunities for profit as the earlier dated options and more besides. The same applies for European options (on non-dividend paying stocks) because the early exercise of an American call option is never optimal and therefore European and American call options are equivalent. To see that early exercise is not optimal consider again the put-call parity condition $C=P+(S-$ $Ke^{-rT}$ ). Since the put option is a limited liability asset its price must be non-negative. Hence $P\geq 0$ and therefore $C\geq S-Ke^{-rT}$ .Thus a lower bound for the call price is $C$ $\geq$ $\operatorname* { max} \{ 0,    S- Ke^{- r^{\prime }T}\}$ .Now if $r>0$ this means $C>S-K$ .Since the American option cannot be worth less than the equivalent European option we therefore also have $C^{A}>S-K^{6}$ and hence it will always be better to sell the option rather than exercise it early. Thus American and European options on non-dividend paying stock are equivalent.
+This is true for American options because the longer dated options give all the opportunities for profit as the earlier dated options and more besides. The same applies for European options (on non-dividend paying stocks) because the early exercise of an American call option is never optimal and therefore European and American call options are equivalent. To see that early exercise is not optimal consider again the put-call parity condition $C=P+(S-$ $Ke^{-rT}$ ). Since the put option is a limited liability asset its price must be non-negative. Hence $P\geq 0$ and therefore $C\geq S-Ke^{-rT}$ .Thus a lower bound for the call price is $C$ $\geq$ $\operatorname* { max} \{ 0,      S- Ke^{- r^{\prime }T}\}$ .Now if $r>0$ this means $C>S-K$ .Since the American option cannot be worth less than the equivalent European option we therefore also have $C^{A}>S-K^{6}$ and hence it will always be better to sell the option rather than exercise it early. Thus American and European options on non-dividend paying stock are equivalent.
 
 The situation is slightly different for European put options. From differentiating the put-call parity condition with respect to $T$ weget
 
@@ -2163,7 +2152,7 @@ Hence
 
 $$\Theta_{P}=-\frac{\partial C}{\partial T}=-\frac{SN' (d_{1})\sigma}{2\sqrt{T}}-rKe^{-rT}N (d_{2})+rKe^{rT}$$
 
-Which may be of either sign. The same argument applies as for a call option. The longer dated option will in general be more valuable. However for an American put option early exercise may be optimal. This is because by exercising early the investor gets the strike price earlier. In the extreme case where the option is deep-in-the money and the stock price is close to zero then there is little chance of falling lower. As there may be some chance of it increasing,    it may be optimal to exercise early and get the maximum gain at an earlier point in time. 7 Thus an American put option will be worth more
+Which may be of either sign. The same argument applies as for a call option. The longer dated option will in general be more valuable. However for an American put option early exercise may be optimal. This is because by exercising early the investor gets the strike price earlier. In the extreme case where the option is deep-in-the money and the stock price is close to zero then there is little chance of falling lower. As there may be some chance of it increasing,      it may be optimal to exercise early and get the maximum gain at an earlier point in time. 7 Thus an American put option will be worth more
 
 Than a European option. Thus although $\Theta$ for an American put option will be negative the $\Theta$ of a European put option may in some cases be positive.
 
@@ -2171,13 +2160,13 @@ It should be remembered that $\Theta$ should not really be considered a hedge pa
 
 ### Gamma
 
-Gamma measures how much $\Delta$ changes as the price of the underlying asset S changes and thus provides information about the appropriate dynamic hedging strategy and how $\Delta$ should be changed as S changes. If $\Gamma$ is large then it will be necessary to change $\Delta$ by a large amount as $S$ changes. In this case it will be risky to leave $\Delta$ unchanging even over shorter periods. On the other hand if $\Gamma$ is small then the costs of leaving $\Delta$ unchanged will be relatively small. Often traders wish to create a portfolio which is gamma. Neutral as well as delta-neutral. The reason for this is that it may not be feasible or desirable to change $\Delta$ continuously to keep a completely deltaneutral portfolio and hence a gamma-neutral portfolio will mean that the costs of not keeping the portfolio completely delta-neutral will be minimised. It is important to realise however,    that a gamma-neutral portfolio cannot be achieved by using only the underlying asset (or a forward contract) since the Gamma of the underlying asset is zero. Thus suppose that the delta-neutral portfolio has a Gamma of $\Gamma_{x}$ and that there is another traded option that has a gamma of $\Gamma_{y}$ . Then selling $\Gamma_{x}/\Gamma_{y}$ of the traded options will create a new portfolio that is gamma-neutral.
+Gamma measures how much $\Delta$ changes as the price of the underlying asset S changes and thus provides information about the appropriate dynamic hedging strategy and how $\Delta$ should be changed as S changes. If $\Gamma$ is large then it will be necessary to change $\Delta$ by a large amount as $S$ changes. In this case it will be risky to leave $\Delta$ unchanging even over shorter periods. On the other hand if $\Gamma$ is small then the costs of leaving $\Delta$ unchanged will be relatively small. Often traders wish to create a portfolio which is gamma. Neutral as well as delta-neutral. The reason for this is that it may not be feasible or desirable to change $\Delta$ continuously to keep a completely deltaneutral portfolio and hence a gamma-neutral portfolio will mean that the costs of not keeping the portfolio completely delta-neutral will be minimised. It is important to realise however,      that a gamma-neutral portfolio cannot be achieved by using only the underlying asset (or a forward contract) since the Gamma of the underlying asset is zero. Thus suppose that the delta-neutral portfolio has a Gamma of $\Gamma_{x}$ and that there is another traded option that has a gamma of $\Gamma_{y}$ . Then selling $\Gamma_{x}/\Gamma_{y}$ of the traded options will create a new portfolio that is gamma-neutral.
 
 Given that for a call option $\Delta=N (d_{1})$ and $\Gamma$ = $\partial \Delta / \partial S$ it is easy to calculate that the Gamma for a call option is
 
 $$\Gamma_C=\frac{N' (d_1)}{S\sigma\sqrt{T}}$$
 
-Where $d_{1}$ is as given above and $N^{\prime }( d)$ = $( e^{d^{2}/ 2}) / \sqrt {2\pi }$ .Since $N^{\prime}(d)>0$ we have that $\Gamma_{C}>0$ which shows that the call price is a conver function of the price of the underlying asset. Since $\Delta_{P}=\Delta_{C}-1$ from the put-call parity condition,    we have by differentiating that
+Where $d_{1}$ is as given above and $N^{\prime }( d)$ = $( e^{d^{2}/ 2}) / \sqrt {2\pi }$ .Since $N^{\prime}(d)>0$ we have that $\Gamma_{C}>0$ which shows that the call price is a conver function of the price of the underlying asset. Since $\Delta_{P}=\Delta_{C}-1$ from the put-call parity condition,      we have by differentiating that
 
 $$\Gamma_P=\Gamma_C$$
 
@@ -2199,7 +2188,7 @@ Vega measures how the option price changes as volatility changes. The Vega of a 
 
 $$v_C=S\sqrt{T}N' (d_1).$$
 
-Also from the put-call parity condition we have that $UC=UP$ .It isimportant to understand why Vega is studied. In the Black-Scholes model volatility is assumed to be constant. Thus it makes much less sense to consider how the Black-Scholes formula changes in response to a change in volatility than to a change in the underlying price. However,    the relevant volatility for calculating the option price is the volatility of the underlying asset over the lifetime of the option. This is a future volatility,    which is not observable. It can be seen that the Vega of a call or put option is positive? And so ,   10 itis possible to use the known market price of the option to impute the volatility This is known as the implied volatility. It is therefore possible to use market prices to calculate implied volatility. More on this later.
+Also from the put-call parity condition we have that $UC=UP$ .It isimportant to understand why Vega is studied. In the Black-Scholes model volatility is assumed to be constant. Thus it makes much less sense to consider how the Black-Scholes formula changes in response to a change in volatility than to a change in the underlying price. However,      the relevant volatility for calculating the option price is the volatility of the underlying asset over the lifetime of the option. This is a future volatility,      which is not observable. It can be seen that the Vega of a call or put option is positive? And so ,     10 itis possible to use the known market price of the option to impute the volatility This is known as the implied volatility. It is therefore possible to use market prices to calculate implied volatility. More on this later.
 
 R.ho
 
@@ -2215,7 +2204,7 @@ Sothat
 
 $$\rho_P=KTe^{-rT}(N (d_2)-1)=-KTe^{-rT}N (-d_2)$$
 
-Which is non-positive. This is because as the interest rate rises the present value of the strike price received at expiration,    if the option is exercised declines reducing the price of the put.
+Which is non-positive. This is because as the interest rate rises the present value of the strike price received at expiration,      if the option is exercised declines reducing the price of the put.
 
 ## Volatility
 
@@ -2223,13 +2212,13 @@ Which is non-positive. This is because as the interest rate rises the present va
 
 As we have discussed the volatility that is required to calculate the BlackScholes formula is a future volatility which is in principle unknown. It may be calculated on the basis of historic volatility but this may not be an accurate reflection of future volatility. It is therefore common to take the market prices for options and calculate the volatility which if used in the BlackScholes formula would give the market price. This can be done as Vega is positive so that no two different volatilities can imply the same price.
 
-If the Black-Scholes formula were correct then all similarly dated options on the same underlying should have the same implied volatility. If however,    the implied volatility is calculated and plotted against the strike price then there is typically a u-shaped pattern with the bottom of the U near the atthe-money strike price. Such a pattern is known as a volatility smile. Given that Vega is positive one might imagine that this implies some arbitrage opportunity. Either the low volatility options are underpriced or the higher volatility options are overpriced and one can buy the low volatility options and sell the high volatility options to yield a profit. However,    these smiles appear to persist so the arbitrage opportunity is probably more apparent than real.
+If the Black-Scholes formula were correct then all similarly dated options on the same underlying should have the same implied volatility. If however,      the implied volatility is calculated and plotted against the strike price then there is typically a u-shaped pattern with the bottom of the U near the atthe-money strike price. Such a pattern is known as a volatility smile. Given that Vega is positive one might imagine that this implies some arbitrage opportunity. Either the low volatility options are underpriced or the higher volatility options are overpriced and one can buy the low volatility options and sell the high volatility options to yield a profit. However,      these smiles appear to persist so the arbitrage opportunity is probably more apparent than real.
 
 The smile is more an expression of the market's view of the imperfections of the Black-Scholes model itself. The two main imperfections are first the assumption that the underlying prices follow geometric Brownian motion and
 
 So are lognormally distributed and second that the dynamic hedging which requires continuous adjustment can be carried out without cost.
 
-## Fat tails,    jumps and stochastic volatility
+## Fat tails,      jumps and stochastic volatility
 
 The assumption of geometric Brownian motion matches the data well but not perfectly. When one compares actual data to that expected one finds that actualdata exhibits kurtosis. Thismeans that the tails are fatter or thicker than expected and the distribution is more highly peaked at the centre.
 
@@ -2241,569 +2230,6 @@ These alternatives for the Black-Scholes model are not universally better. Which
 
 ### Conclusion
 
-We have discussed what is meant by the Delta,    Theta,    Gamma,    Rho and Vega of an option. We have considered the relationship between $\Theta$ ， $\Delta$ and $\Gamma$ for an option or portfolio of option. We have also discussed how to impute volatility from knowledge of market prices and the empirical phenomenon of volatility smiles and how these might be accounted for by stochastic modelling of volatility
+We have discussed what is meant by the Delta,      Theta,      Gamma,      Rho and Vega of an option. We have considered the relationship between $\Theta$ ， $\Delta$ and $\Gamma$ for an option or portfolio of option. We have also discussed how to impute volatility from knowledge of market prices and the empirical phenomenon of volatility smiles and how these might be accounted for by stochastic modelling of volatility
 
-# Risk
 
-These notes explore the conceptual tools that help investors in assessing the “riskiness" of their portfolios. We ask: Given two assets or portfolios $A$ and $B$ can we say which one is “riskier"? This turns out to be closely linked to the more general question of “"portfolio choice". We ask: If an investor has the choice between two mutually exclusive portfolios,    $A$ and $B$ ，which of these two portfolios does he prefer? Can we specify certain general patterns of investment choice,    whereby all “sensible”investors can be expected to prefer $A$ over $B$ if $A$ has certain well-defined properties relative to $B$ .For historical reasons,    this whole area of investigation is called utility theory — we ask,    what portfolio choices will give the highest “utility” to an investor if all investor's have similar preferences.
-
-As a special application of this kind of query,    we can then assess relative riskiness. Given a choice between two mutually exclusive portfolios $A$ and $B$ ,   both having the same expected payoffs (average payoffs),    which of these portfolios will a“risk-averse” investor choose? We will explore three different notions of risk aversion that help answering such questions: (i) preference for certainty; (ii) variance aversion; (iii) stochastic dominance.
-
-Keywords: Roy's Safety First Rule,    Value at Risk,    Domar-Musgrave Risk Measure,    Conditional Value at Risk,    Variance and Semi-Variance,    Lower Partial Moments,    Coherent risk Measures,    Risk Aversion,    Risk Premia,    1st and 2nd order stochastic dominance
-
-Reading: Chapter 18 from Hull as a supplement to these notes.
-
-# 1 Background
-
-This introductory section positions the topic of “Portfolio Choice”within the wider context of the course and sorts out a few preliminary issues.
-
-Partial vs Total Payoffs: Investors buy various individual assets and combine these assets into overall portfolios. An investor cannot form a portfolio unless he is willing to purchase the individual assets out of which it is composed,    but these individual assets are relevant to the investor only insofar as they contribute to the payoff profile of the overall portfolio of which they are a part. Ultimately,    the investor ends up with one particular portfolio rather than any other portfolio,    and his final income will then be given by the payoffs of this particular portfolio.
-
-If we wish to stress that we are talking about the investor's ultimate overall portfolio,    we talk of the “total payoffs” of the investor's overall portfolio (as opposed to the partial payoffs coming from individual assets),    and we speak of “mutually exclusive investments" that are open to the investor (each of which offering an alternative “total payoff” to the investor)
-
-Using assets to hedge risk: It is important to make the distinction between the riskiness of an asset and its value. The value of an individual asset depends on the relationship between the payoffs of that asset and the payoffs of the other assets in the investor's overall portfolio. Thus it is possible for an individual asset to be very risky and yet to be very desirable; an asset is desirable if its risky payoffs are anti-correlated with the payoffs of the other assets in the investor's overall portfolio. Such anti-correlated assets provide the opportunity to hedge risk and allow the investor to reduce the risk of his/her overall portfolio. Investors may not wish to hold such hedging assets in isolation,    but they may wish to hold them as one component of their overall portfolios.
-
-Hedging is a very important part of understanding how derivative securities and financial instruments are priced. We will see that the use of hedging assets can offset risk completely and allow the price of derivatives to be determined by relatively simple formulas
-
-Overall Income Risk: Stochastic Dominance: The present handout is concerned with another question. Here we no longer ask the question “How well does the riskiness of this particular individual asset combine with the riskiness of the other assets in the investor's portfolio?". Instead,    we present the investor with a range of various complete or overall portfolios neither of which may be altered,    and ask the investor to choose one of them,    reject all others,    and subsequently live with the payoffs from the one portfolio that he has chosen. Thus we ask: “How does the riskiness of one particular overall portfolio (to which no further assets may be added) compare with the riskiness of some other,    alternative such portfolio?". We ask: when given the choice between two mutually exclusive overall portfolio payoffs,    which one does the investor regard as riskier (and hence less desirable) than the other?
-
-How desirable is one overall portfolio compared with another? If investors are “risk-averse”,    then they will prefer “less risky” over “more risky” portfolios with the same average payoffs. What does it mean that a portfolio is "less risky" than another? There are a number of possible answers to this question and we will consider some of the alternatives that have been proposed. The concept of (second-order) Stochastic Dominance defined below is however. The most important as it gives a theoretically rigorous answer. If portfolio $A$ stochastically dominates portfolio $B$ ，then all “risk-averse” investors are well advised to prefer $A$ over $B$ ;they should choose portfolio $A$ and reject portfolio $B$ .This however,    does depend on what is meant by “risk-averse" and this we will consider later.
-
-## 2 Preliminaries
-
-In this section we set up the formal framework,    specify a concrete example,    and perform various preliminary computations for this example. Later sections will then offer formal definitions of investor preferences and refer back to the example from the present section.
-
-Risky Investments: We consider an investor with a single-period time horizon. The investor has the choice between a number of mutually exclusive investments,    $A,    B,    C,   \ldots$ The payoffs of these investments depend on the state of the world. When deciding on his investment,    the investor does not know which of the various possible states of the world will come about payoffs are risky. However the investor knows the relative likelihood (probability) of each state and hence is capable of computing the expected value variance and probability distribution of each asset
-
-The Choice Problem: At the beginning of the period the investor chooses one of the available investments. He is then tied to the particular investment he has chosen and his end-of-period income will consist entirely of the payoffs from his chosen investment. How large will his income be? That depends on the state of the world during the period,    which cannot be foreseen at the beginning of the period but which can be analysed in terms of likelihoods (probability distributions).
-
-When comparing any two of the various available investments,    the investor needs to ask himself: which of these two would I rather have? In answering this question,    the investor will take account of the knowledge he has about payof profiles of these investments. We consider the following concepts in assessing a payoff profile: expected payoffs,    variance of payoffs,    worst-case payoffs,    and “dispersion" of payoffs. Later we will use these concepts to declare precise definitions of risk aversion that reflect the choices of a reasonable investor
-
-Example: By way of example,    we consider an economy with eight states of the world. For simplicity,    all eight states are equally likely,    so that the probability of state $i$ is $f_{i}=\frac{1}{8}$ (for $i=1,   2,   \ldots 8$ ). We consider the following six mutually exclusive investments
-
-$$A=\begin{pmatrix}9\\9\\9\\9\\9\\9\\9\\9\end{pmatrix};\:B=\begin{pmatrix}11\\11\\11\\11\\11\\9\\9\\9\end{pmatrix};\:C=\begin{pmatrix}10\\10\\10\\10\\10\\10\\10\\10\end{pmatrix};\:D=\begin{pmatrix}14\\13\\12\\11\\9\\8\\7\\6\end{pmatrix};\:E=\begin{pmatrix}18\\16\\14\\12\\12\\8\\6\\4\\2\end{pmatrix};\:F=\begin{pmatrix}11\\11\\11\\11\\11\\11\\11\\11\\3\end{pmatrix}.$$
-
-Casual inspection of these six investments reveals that $A$ and $C$ are riskfree,    all others are risky. We will be particularly interested in studying and comparing $D$ ， $E$ and $F$
-
-State-wise dominance: We say that investment $X$ state-wise dominate investment $Y$ if $X$ pays more than $Y$ in at least one of the states and not less than $Y$ in any other state. Investment $X$ then is the dominating investment and $Y$ “"is dominated” (by $X$ ). Weshall write $X\geq Y$ for shorthand.
-
-In our example,    $B$ dominates $A$ ,   since it pays 2 extra in states 14 and the same as $A$ in states 5-8. Likewise,    $C$ dominates $A$ .No other investment dominates any other. For instance,    $D$ does not dominate $E$ since it pays less than $E$ in states 1-4. In general,    if two investments have the same expected payoffs,    neither will dominate the other,    since any extra payoff in one of the states must be compensated by shortfalls in some of the other states.
-
-Probability Distributions: To determine how risky a portfolio or asset is,    we will need to know the probability distributions of its payoffs.
-
-An asset or portfolio will result in $Tl$ possible financial outcomes (sums of money or returns),    $x_{1},    x_{2},   \cdots,    x_{n}$ .We shall denote the probability of outcome
-
-ILi by $f_{i}$ .If the portfolio is risky then for at least one value ${\mathcal L}_{i}$ ,    the probability satisfies $0<f_{i}<1$ .In this case we can think of the outcome $iL$ as a random variable taking on the values $x_{1},    x_{2},   \ldots,    x_{n}$ so that
-
-$$f_i=\mathrm{Prob}(x=x_i).$$
-
-From the example we see that $Tl$ can be less than the number of states. So for example portfolio $F$ has $n=2$ with $x_1=3$ ， $x_{2}=11$ 1 The probability mass function $f (x_{i})$ of an investment assigns to each possible payoff $\mathcal{L}_{i}$ of the investment its relative likelihood or probability. The value $f_{i}=f (x_{i})$ of the mass function is the likelihood that the investment will have a payoff of iLi pounds. We find the value of $f (x_{i})$ by summing over the likelihoods of all those states where the investment pays exactly ${\mathcal{L}}_{i}$ pounds. In our example,    for all six investments,    their state-specific payofs lie somewhere between 1 and 20,    and thus we may consider the relevant range of $X$ to be the interval [1,    20],    for all mass functions. For the risk-free investment $A$ ; payoff $x=9$ occurs always and all other payoffs occur never,    and thus we have
-
-$$f^a (9)=1;\quad f^a (x)=0\text{for all other}\:x.$$
-
-Likewise for $C$
-
-$$f^c (10)=1;\quad f^c (x)=0\text{for all other}\:x.$$
-
-What about the mass functions of the risky investments? For $B$ .we find that it pays 9 in four out of eight states,    11 in the other four states. Since all states are equally likely,    this means that
-
-$$f^b (9)=\frac 12,   \quad f^b (11)=\frac 12,   \quad f^b (x)=0\text{for all other}\:x.$$
-
-Likewise for $D$ ， $E$ and $F$ .Wehave
-
-$f^{d}(x)=\frac{1}{8}$ for $x= 6,    7,    8,    9,    11,    12,    13,    14;$ $f^{d}( x) = 0$ for all other $2 L$ $f^{e}(x)=\frac{1}{8}$ for $x= 2,    4,    6,    8,    12,    14,    16,    18;$ $f^{e}( x) = 0$ for all other $3 L$
-$$f^f (x)=\frac 18\text{for}\:x=3;\quad f^f (x)=\frac 78\text{for}\:x=11.$$
-
-In some circumstances we will also think of $JL$ as a continuous variable taking on any value in some range $[a,    b]$ .In that case $f (x)$ is a continuous function and is known as a probability density function
-
-Probability Mass Function: It is instructive to draw the histograms for the mass functions of the various investments,    with payoffs on the horizontal axis and probabilities on the vertical axis. Here we show $C$ with $D$ $D$ with $E$ and $D$ with $F$
-
-Exercise: Draw the probability mass functions.
-
-Cumulative Probability Functions: The cumulative probability func tion gives the probability that the payoff is less than or equal to a particulan value. We shall denote the cumulative probability by
-
-$$F_i=F (x_i)=\mathrm{Prob}(x\leq x_i).$$
-
-For a discrete distribution we haye
-
-$$F (x_i)=\sum_{j=1}^if_j$$
-
-And for a continuous distribution we have
-
-$$\begin{aligned}F (x)=\int_a^xf (t)\: dt.\end{aligned}$$
-
-The cumulative probability distribution $F (x)$ is the area below the probability density function $f (t)$ below the value of $JL$
-
-Exercise: Draw the cumulative probability functions
-
-Expected Payoffs: As a first measure of investment performance,    we are interested in the average payofs (expected payoffs) of an investment. The expectedpayoffs of the risk-free investments are simply their fixed payoffs:
-
-$$\operatorname{E}[A]=9;\quad\operatorname{E}[C]=10.$$
-
-For the other investments,    we recall that all states are equally likely,    hence we merely need to sum over all payoffs and divide by the number of states:
-
-$$\mathrm{E}[B]=\frac{11+11+11+11+9+9+9+9}{8}=10;$$
-
-$$\mathrm{E}[D]=\frac{14+13+12+11+9+8+7+6}{8}=10;$$
-
-$$\mathrm{E}[E]=\frac{18+16+14+12+8+6+4+2}{8}=10;$$
-
-$$\operatorname{E}[F]=\frac{11+11+11+11+11+11+11+3}{8}=10.$$
-
-Thus,    all investments except $A$ have the same average payoffs of 10. On this measure,    the five investments $B$ $F$ are all equally desirable.
-
-Deviations: How large are the deviations of actual payofs from the mean? For the risk-free investments ( $A$ and $C$ ),    deviations are zero in all states. For the others,    we have：
-
-$$\Delta B=\begin{pmatrix}+1\\+1\\+1\\+1\\-1\\-1\\-1\\-1\end{pmatrix};\:\Delta D=\begin{pmatrix}+4\\+3\\+2\\+1\\-1\\-2\\-3\\-4\end{pmatrix};\:\Delta E=\begin{pmatrix}+8\\+6\\+4\\+2\\-2\\-4\\-6\\-8\end{pmatrix};\:\Delta F=\begin{pmatrix}+1\\+1\\+1\\+1\\+1\\+1\\+1\\-7\end{pmatrix}.$$
-
-A quick calculation shows that each of these deviations has an average of zero;
-
-$$\mathrm{E}[B]=\mathrm{E}[D]=\mathrm{E}[E]=\mathrm{E}[F]=0,   $$
-
-Confirming that on average,    the positive and negative deviations cancel each other out.
-
-Casual inspection of these deviations shows that $E$ tends tohave much larger deviations than the other investments. $F$ had mostly small positive deviations but one fairly large negative one (in the last state),    whereas $D$ has variable deviations that are smaller than those of $E$ but never as large as the largest (negative) one from $F$
-
-Variance: Varianceis the average of the squared deviations,    and as such it is an important summary measure of risk.
-
-$$\Delta B^2=\begin{pmatrix}1\\1\\1\\1\\1\\1\\1\\1\\1\end{pmatrix};\:\Delta D^2=\begin{pmatrix}16\\9\\4\\1\\1\\4\\9\\16\end{pmatrix};\:\Delta E^2=\begin{pmatrix}64\\36\\16\\4\\4\\16\\36\\64\end{pmatrix};\:\Delta F^2=\begin{pmatrix}1\\1\\1\\1\\1\\1\\1\\49\end{pmatrix}.$$
-
-Hence,   
-
-$$\mathrm{Var}[B]=\mathrm{E}[\Delta B^{2}]=\frac{1+1+1+1+1+1+1+1}{8}=\frac{8}{8}=1;$$
-
-$$\mathrm{Var}[D]=\mathrm{E}[\Delta D^2]=\frac{16+9+4+1+1+4+9+16}{8}=\frac{60}{8}=7.5;$$
-
-$$\mathrm{Var}[E]=\mathrm{E}[\Delta E^{2}]=\frac{64+36+16+4+4+16+36+64}{8}=\frac{240}{8}=30;$$
-Var[F] = E[△F² = 1+1+ 1 +1 +1 + 1 + 1+ 49 56 = 7
-
-This we find that on average,    as expected $E$ has the largest deviations,    but $F$ has a smaller average deviation than $D$ ,    despite having one very large negative deviation in the last state. Based on this measure. Investment $F$ is
-
-The most desirable of the last three investments,    closely followed by $D$ ，and then much later by. $E$
-
-### Worst-case Payoffs:
-
-If your life income depends exclusively on one particular investment,    you will not just be interested in the average payoffs and average risk of that investment but you will also be interested in the actual payoffs in the various states. Ultimately,    you will receive one of these actual payoffs,    rather than the average payoff. In particular,    you will want to to know: What is the lowest possible payoff of my investment? This is the “worst-case” payoff Worst-case payoffs are the payoffs which have the largest negative deviation from the mean.
-
-In our example,    the worst-case payoffs are 9 for $A$ ， 9 for $B$ ， 10 for $C$ 6 for $D$ ， 2 for $E$ ， 3 for $F$ .We note that for a risk-free investment,    worst-case payoffs are always equal to average payoffs,    since for risk-free investments. Payoffs are the same in all states and all deviations are zero.
-
-## 3 Measures of Risk
-
-We now want to ask the question whether risk can be quantified and whether the riskiness of various investments can be compared. We shall give a qualified and subtle yes to this question. It is possible to make comparisons between the riskiness of some pairs of portfolios but not others. Thus we shall have a partial ordering of portfolios according to their riskiness. Before proceeding we shall consider various measures of risk which have been considered in the literature
-
-## Roy's Safety First Rule.
-
-Roy in a classic paper² proposed the following measure of risk
-
-$$\rho_R=\mathrm{Prob}(x\leq\hat{x}).$$
-
-This gives the probability that the outcome is less than some critical or disas ter level $\hat{x}$ and thus the risk measure $\rho_{R}$ measures the probability of disaster. Roy's risk measure is also known as the shortfall probability. The safety-first principle is then to choose a portfolio that minimises this probability of disaster. For a continuous distribution the Roy measure is simply the cumulative probability at $\hat{x}$
-$$\rho_R=F (\hat{x})=\int_{x_{min}}^{\hat{x}}f (x)\: dx.$$
-
-An upper bound can be found for this probability. Letting
-
-$$\mu=\int xf (x)\:dx$$
-
-Denote the mean of thedistribution and
-
-$$\sigma^2=\int (x-\mu)^2\:dx$$
-
-Denote the variance of the distribution,    it can be shown by Chebycheff's inequality that
-$$\rho_R=F (\hat{x})\leq\frac{\sigma^2}{(\mu-\hat{x})^2}.$$
-
-Roy suggested that if the entire distribution is not known then choosing the investment portfolio which minimised the ratio $\sigma^{2}/(\mu-\hat{x})^{2}$ would be desirable. Or equivalently the portfolio which maximised the square-root of the inverse. Taking $\hat{x}$ to be the risk-free payoff $T$ Roy would suggest choosing the portfolio which maximised $(\mu-r)/\sigma$ would be desirable. This later is
-
-Just the reward to variability or Sharpe ratio introduced by Sharpe (1966) 3 which is widely used by professional investors
-
-One problem with Roy's measure is that it looks only at probabilities and not the size of the loss. Thus suppose that there are two portfolios and take $\hat{x}=0$ so that any negatifs are positive. Roy's index is higher for portfolio $B$ though arguably portfolio $A$ is potentially more disastrous
-
-### Value atRisk
-
-Value at Risk (VaR) is the inverse of Roy's risk measure. Whereas Roy's measure asks what is the probability of a loss below a particular level $\hat{x}$ ,   VaR determines the value $\hat{x}$ such that the portfolio will suffer a loss of more that $\hat{x}$ with a given probability. It is usual to fix the probability of loss at $1\%$ or $5\%$ and calculate the return distribution say for one day so that the VaR measures the minimum loss likely to be suffered on 1 or 5 of the next 100 trading days. Using the cumulative distribution function we have
-
-$$\alpha=F (VaR)$$
-
-Or
-
-$$VaR=F^{-1}(\alpha).$$
-
-As with Roy's measure there are some problems with the use of VaR as a measure of risk. It only considers the distribution in the lower tail and will therefore ignore differences in the distribution above the VaR threshold. The VaR measure is not sub-additive which means that the it may be possible
-
-<table>
-	<tbody>
-		<tr>
-			<th>Prob</th>
-			<th>$A$</th>
-			<th>$B$</th>
-			<th>$A+E$</th>
-		</tr>
-		<tr>
-			<td>0.03</td>
-			<td>-9</td>
-			<td>1</td>
-			<td>-8</td>
-		</tr>
-		<tr>
-			<td>0.94</td>
-			<td>1</td>
-			<td>1</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>0.03</td>
-			<td>1</td>
-			<td>9</td>
-			<td>-8</td>
-		</tr>
-		<tr>
-			<td>VaR$( 5\%$</td>
-			<td>-1</td>
-			<td>1</td>
-			<td>8</td>
-		</tr>
-	</tbody>
-</table>
-
-Table 1: VaR is not sub-additive
-
-To combine two assets or portfolio and increase the VaR. Table 1 shows two portfolios $A$ and $B$ and calculates the VaR at the $5\%$ level for each. Since the probability of any loss is $3\%$ ，the maximum value of the portfolio in the lowest $5\%$ of the distribution is 1 in both cases. Thus VaR,    which is the loss at risk is negative for both portfolios. However combining the two portfolios produces a $6\%$ probability of a loss of 8 and thus the VaR at the $5\%$ level is 8. This shows that combining two portfolios can increase the VaR significantly. 4 Finally as we shall show the VaR can be inconsistent with second-order stochastic dominance
-
-## Domar-Musgrave Risk Index
-
-Domar and Musgrave? Proposed a measure of risk that measures the expected value of returns less than the returns on a risk-free investment. Letting 7 denote the return on a risk-free asset,    the Domar-Musgrave risk index is given by
-$$\rho_{DM}=-\int_{x_{min}}^{r}(x-r) f (x)\:dx$$
-
-In the caseof a continuousreturn or
-
-$$\rho_{DM}=-\sum_{x_{i}\leq r}(x-r) f (x_{i})$$
-
-In the discrete case. Calculating the riskindex for the three portfolios $D$ ， $E$ and $F$ from our example we find that
-
-$$\rho_{DM}[D]=\frac{5}{4};\quad\rho_{DM}[E]=\frac{5}{2};\quad\rho_{DM}[F]=\frac{7}{8}.$$
-
-It is possible to generalise the Domar-Musgrave risk index to any particular target return $\hat{x}$ which may or may not be the risk-free return. In this case the measure is also known as erpected shortfall as it measures the average return that falls short of some target return $\hat{x}$ .That is expected shortfall is measured by
-$$\rho_{ES}=-\int_{x_{min}}^{\hat{x}}(x-\hat{x}) f (x)\:dx$$
-
-In the case ofa continuousreturn or
-
-$$\rho_{ES}=-\sum_{x_i\leq\hat{x}}(x-\hat{x}) f (x_i)$$
-
-In the discretecase.
-
-There are some difficulties with the Domar-Musgrave index or expected shortfall as a measure of risk too. Consider a case where the target is $\hat{x}=0$ and suppose that someportfolio $A$ hasareturn of -500 with probability 0.1 and portfolio $B$ has a return of -100 with probability 0.5 and that all other payoffs are positive (an hence do not affect the index). Then the risk index or expected shortfall for both portfolios is the same,    $\rho_{ES}[A]=\rho_{ES}[B]=50$ but perhaps many investors would regard portfolio $A$ with the potentially much larger loss as more risky.
-
-### Conditional Value at Risk
-
-Conditional Value of Risk (CVaR) was introduced by Rockafellar and Uryasev to overcome some of the problems that occur with using VaR as a risk
-
-Measure. The conditional value at risk measure is related to the Domar Musgrave index. 7 Like the VaR the CVaR fixes a probability of loss and then takes the VaR as the target for the generalised Domar-Musgrave index Thus in the continuous case we have
-
-$$CVaR=-\int_{x_{min}}^{VaR_{\alpha}}(x-VaR_{\alpha}) f (x)\: dx.$$
-
-This is simply (minus) the expected value of the tail of the distribution below theVaR level.
-
-## Variance and Semi-variance
-
-Markowitz developed a mean-variance framework for portfolio choice in. Which he argued that investors in choosing between portfolios with equal expected value should choose the portfolio with the minimum variance. 910 This work was later used by Sharpe and Lintner in developing the Capital Asset Pricing Model (CAPM). As we have seen variance is a measure of average deviation and weighs both positive and negative variations equally. In his 1959 book,    Portfolio Selection,    Markowitz suggested the idea of looking at. Semi-variance which only considers deviations below some critical threshold. Letting the threshold be $\hat{x}$ ,    the semi-variance risk measure is given by
-
-$$\rho_{SV}=\sum_{x_i\leq\hat{x}}(x-\hat{x})^2 f (x_i)$$
-
-For discrete distributions and
-
-$$\rho_{SV}=\int_{x_{min}}^{\hat{x}}(x-\hat{x})^2 f (x)\:dx$$
-
-For continuous distributions. Often the critical value is taken to be the mean return $\mu$ so that only deviations below the mean are taken into account. The reason for preferring the semi-variance is that the variance considers both very high and very low returns equally desirable or undesirable and therefore will choose portfolios that eliminate either extremes. The semivariance however,    concentrates only on losses and therefore portfolios chosen on the basis of semi-variance will focus on eliminating losses
-
-Exercise: Calculate the semi-variance (using $\mu$ as the cut-off value) for the portfolios $D$ ， $E$ and $F$ from our example
-
-### Lower Partial Moments
-
-The measures we have consider so far are actually all special cases of the lower partial moments which were suggested by Fishburnll as suitable risk measures. The lower partial moments for a continuous distributions are given by
-
-$$\rho_{LPM}^{\beta}=\int_{-\infty}^{\hat{x}}(\hat{x}-x)^{\beta}f (x)\:dx$$
-
-For any $\beta\geq 0$ .It is easy to check that
-
-$$\rho_{LPM}^0=\int_{x_{min}}^{\hat{x}}(\hat{x}-x)^0 f (x)\:dx=\int_{x_{min}}^{\hat{x}}f (x)\:dx=F (\hat{x})=\rho_R$$
-
-$$\rho_{LPM}^{1}=\int_{x_{min}}^{\hat{x}}(\hat{x}-x) f (x)\:dx=-\int_{x_{min}}^{\hat{x}}(x-\hat{x}-) f (x)\:dx=\rho_{DM}$$
-
-$$\rho_{LPM}^2=\int_{x_{min}}^{\hat{x}}(\hat{x}-x)^2 f (x)\:dx=\rho_{SV}.$$
-
-Thus the zeroth lower partial moment (where $\beta=0$ ) is Roy's risk index,    the first lower partial moment (where $\beta=1$ ) is the expected shortfall or DomarMusgrave measure and the second lower partial moment (where $\beta=2$ ) is a semi-variance.
-
-### Coherent Risk Measures
-
-We have seen that several different measures of risk have been suggested There arehowever advantages and disadvantages to all these differentmea sures and no one measure is universally accepted as the best. In order to describe what might be acceptable for a risk measure a set of criteria were developed by Artzner,    Delbaen,    Eber,    and Heath 12 Consider two portfolios $A$ and $B$ ,   a measure of risk is called coherent if it satisfies the following four properties:
-
-Subadditivity: $\rho (A+B)\leq\rho (A)+\rho (B)$
-
-Monotonicity: if $A\leq B$ ,   then $\rho (A)\geq\rho (B)$
-
-Positive homogeneity: if $\lambda>0$ ,   then $\rho (\lambda A)=\lambda\rho (A)$
-
-Translation invariance: for any number 7772 ， $\rho (A+m)=\rho (A)-m$
-
-We'll consider the rationale for each of these axioms. Subadditivity has an easy interpretation. If the subadditivity did not hold,    then $\rho (A+B)>$ $\rho (A)+\rho (B)$ .This would imply,    for instance,    that in order to decrease risk,    a firm might be motivated to break up into different incorporated affiliates or split portfolio into two separate parts. Such an artifact should not really decrease the overall risk. Monotonicity is perhaps obvious. If portfolio $A$ always has lower returns than portfolio $B$ then it ought to be defined as
-
-Being more risky. Positive homogeneity is slightly more tricky to interpret. Subadditivity implies $\rho ( A) + \rho ( A)$ $\leq$ $2\rho ( A)$ .Taking $\lambda=2$ in thepositive homogeneity axiom then equivalent to the assumption that $\rho (A+A)\geq 2\rho (A)$ That is saying that a portfolio of $2 A$ is more risky than two portfolios of $A$ Translation invariance implies that the risk $\rho (A)$ decrease by $777 t$ ,   by adding a sure return 777. To a portfolio $A$ .The idea is that a risk measure is a measure of what kind of risk is acceptable. Thus if one adds a certain amount 100 (in every state) to the portfolio then the amount that needs to be added to this new portfolio to make it acceptable must have gone down by 100.
-
-As we have seen some measures of risk are not coherent. For example VaR does not satisfy the assumption of subadditivity. Other measures such as Domar-Musgrave measure or expected shortfall are coherent. Nevertheless both VaR and expected shortfall have both detractors and advocates and no one measure is universally agreed to be better than others. 13
-
-## 4 Investor Preferences
-
-The measures of risk we have so far considered associate with a given probability distribution a single number to measure risk. As we have seen there seems no universal agreement on what is the best measure and perhaps different people can have different views of risk simply because of their preferences A question therefore to ask is whether there are situation is which everyone would agree that invest $A$ was riskier than investment $B$ .To try to answer this question we look at investor's preferences over risky investments. It offers formal definitions of risk aversion that cover many realistic cases of investment choices. We consider pair-wise comparisons of mutually exclusive investments $X$ and $Y$ and ask which of the two investments is better,   
-
-Given a list of assumptions of “reasonable” investment behaviour. We use our example from the previous section for illustration
-
-Complete Preferences: For any pair of investments $X$ and $Y$ ，the individual can express a preference for $X$ over $Y$ or visa-versa or is indifferent between the two.
-
-Transitive Preferences: For any triple of investments,    $X$ ， $Y$ and $Z$ ,   if $X$ is preferred to $Y$ and $Y$ is preferred to $Z$ then $X$ is preferred to $Z$
-
-The idea behind these two assumptions is that investors can make choices. This is obvious for complete preferences. Without this assumption there will be some consequence bundles that the investor cannot compare. If they cannot compare the outcomes then the choice between portfolios leading to these outcomes becomes impossible. It is equally true that transitivity is needed to be able to choose between alternative portfolios. Without transitivity there would be a chain of preferences amongst some three consequences $X$ ， $Y$ ， $Z$ such that $X$ is preferred to $Y$ and $c^{\prime}$ is preferred to $Z$ and $Z$ is preferred to $X$ In these circumstances it is impossible to say which consequence investment is the best
-
-Non-satiation: We say that an investor is non-satiated if he prefers a dominating investment over a dominated one. In most work in theoretical fi nance,    we assume that all investors are non-satiated. This assumption makes sense,    since payoffs are made in cash and cash can be spent on a wide range of diferent consumption goods and any unwanted cash can be discarded at almost no cost (“free disposal"). The assumption of non-satiation is useful when making comparisons of investments that are at different average payoff levels,    but it does not let us decide between investments that have the same expected payoffs but different risk profiles. For those cases we need more specific risk assumptions
-
-Risk Aversion I[Preference for Certainty]: We say that an investor has “preference for certainty” and is risk averse if a risk-free investment is preferred over a risky investment of equal expected payoffs
-
-In our example,    if a risk-averse investor is given the choice between $C$ and $D$ ,   say,    he will choose $C$ since $C$ has the same expected payoffs as $D$ but no risk. We note that this definition of risk aversion does not require us to make judgements between different risky investments; we merely compare one risky investment with one risk-free investment of equal expected payoffs. "Preference for Certainty” is a very plausible assumption that is pretty much universally adopted in finance. However,    it is too weak to help us decide on choices between two risky investments,    such as $D$ and $E$ . For those choices we need more specific assumptions.
-
-A diagrammatic way to represent preferences is to use indifference curves. Suppose there are just two states. Let the horizontal axis represents the amount of cash in state 1 and the vertical axis represents cash in state 2. Choose a particular investment $X$ .A line is drawn through the point $X$ which corresponds to all the other possible consequences of investments $Y$ which are indifferent to $X$ . This set of points $I (X)$ is called the indifference curve. Indifference curves cannot cross by the assumption of transitivity and because of the assumptions of monotonicity and transitivity the indifference curve is "thin” and downward sloping. All the points above the indifference curve belong to the weak preference set $WP (X)$ which represents all the points that are either preferred to or are indifferent to $X$
-
-The slope of the indifference curve shows how much extra is required in state 2 to compensate the individual for a one unit decrease in the amount received in state 1. This amount is called the marginal rate of substitution. $MRS (X)$ ，is a measure of the marginal rate of substitution at $X$ .The marginal rate of substitution depends on preferences and therefore is likely to vary from one person to another even at the same consequence payoff $X$ .The ratio $q_{1}/q_{2}$ represents how much the market will compensate the individual for
-
-Reducing the consequent payoff in state 1 by one unit. Decreasing the amount received in state 1 by one unit will save the investor $q 1$ on his investment Thus the amount extra that can be had in state 2 is $q_{1}/q_{2}$
-
-Given our three assumptions little more can be said about indifference curves other than that they do not cross,    are thin and are downward sloping However there are some other features that we might expect preferences over uncertain outcomes to exhibit. Firstly risk aversion,    that is a desire for more certain rather than a riskier outcomes with the same expected value. 14 Secondly state independence,    that is that preferences depend on the outcome and not the state of nature per se. Thirdly separability,    that is that the preferences in one particular state are to some extent independent of the preferences in some other state that didn't actually occur
-
-# Utility
-
-We shall discuss the properties of risk aversion,    separability and state independence in greater detail shortly. First we consider another convenient way of representing preferences which is through a utility function. A utility function associates with each possible investment $X=(x_{1},    x_{2})$ a number $v (x_{1},    x_{2})$ such that $v (x_{1},    x_{2})>v (y_{1},    y_{2})$ if and only if $X$ is preferred to $Y=(y_{1},    y_{2})$ The only property of the utility function that is important is that it ranks consequences,    assigning a higher number to a preferred consequence. The actual size of the number is unimportant and any transformation of the function $U$ that produces the same ordering of consequences as does 2 is equally valid as a representation of preferences. Any transformation of $U$ that is an increasing function of $U$ will produce the same ranking. Therefore $U$ is said to be unique only up to a positive monotonic transformation and this representation is referred to as ordinalutility
-
-To illustrate the ordinal nature of utility consider an example of a pref erence ranking which is the so-called Cobb-Douglas preferences
-
-$$v (x_1,    x_2)=Ax_1^ax_2^b$$
-
-Where $A$ ， $UL$ and $b$ are parameters. 15 Since $\log_{e}$ is a positive monotonic trans formation,    the alternative utility function
-
-$$\hat{v}(x_1,    x_2)=\log_e (v (x_1,    x_2))=\log_e (A)+a\log_e (x_1)+b\log_e (x_2)$$
-
-Is an equally valid representation of the same preferences.
-
-The marginal rate of substitution is calculated by totally differentiating the utility function. Suppose there are just two states,    then totally differentiating $v (x_{1},    x_{2})$ gives
-
-$$dv=\frac{\partial v (x_1,    x_2)}{\partial x_1}dx_1+\frac{\partial v (x_1,    x_2)}{\partial x_2}dx_2.$$
-
-The partial derivatives are often called marginal utilities as they show how much utility is increased for a small (marginal) increase in the payoff in one state. Thus we define $MU_{1}( x_{1},    x_{2})$ = $\partial v ( x_{1},    x_{2}) / \partial x_{1}$ and $MU_{2}(x_{1},    x_{2})=$ $\partial v (x_{1},    x_{2})/\partial x_{2}$ .The marginal rate of substitution is calculated along an indifference curve where the utility does not change,   i.e.where $dv=0$ Hence
-$$MRS (cx_1,    x_2)=-\frac{dx_2}{dx_1}=\frac{\frac{\partial v (x_1,    x_2)}{\partial x_1}}{\frac{\partial v (x 1,    x_2)}{\partial x_1}}.$$
-
-Note that $MRS$ is defined to be a positive number and since theindifference curve is downward sloping,    the slope $dx_{2}/dx_{1}$ is multiplied by -1 to give a positive number. As we can see the marginal rate of substitution is the ratio of marginal utilities. In the case of Cobb-Douglas preferences the marginal rate of substitution is
-
-$$MRS (x_1,    x_2)=\frac{\frac{a}{x_1}}{\frac{b}{x_2}}=\frac{xc_2}{bx_1}.$$
-
-Remember that the marginal rate of substitution is slope of the indifference curve and therefore is independent of whether the utility is assigned using the function $v (x_{1},    x_{2})$ or $\hat{v}(x_{1},    x_{2})$
-
-So far nothing has been said about probabilities in defining preferences. However the probabilities can be illustrated in a diagram. Take some point $X=(x_{1},    x_{2})$ in the diagram and suppose the probabilities of the two states are $7\pi 1$ and $7\pi 2$ where $\pi_{1}+\pi_{2}=1$ .The expected payof from this investment is
-
-$$\mathrm{E}[X]=\pi_1 x_1+\pi_2 x_2.$$
-
-The line of all points with the same expected value is called the fair odds line. The value $\operatorname{E}[X]$ is illustrated where the fair odds line hits the $45^{0}$ line through the origin. This is the point of certainty where the payoff is the same in both states. The slope of the line is $-\pi_{1}/\pi_{2}$ .A preference for certainty is refected through the utility function if $v (E[X],    E[X])>v (x_{1},    x_{2})$ for $x_{1}\neq x_{2}$ .Let's consider the implications of a preference for certainty graphically in terms of the indifference curves. Consider the point where the $45^0$ line intersects the fair odds line. If there is a preference for certainty,    all points along the fair odds line must lie on a lower indifference curve that the indifference curve passing through the intersection of the fair odds line and the $45^0$ line. Thus the weak preference set $WP (E[X],    E[X])$ must lie above the fair odds line. This means that locally the indifference curve is convex to the origin or that the weak preference set is locally convex. If preferences are smooth then it implies that the marginal rate of substitution at the $45^{0}$ line is equal to the ratio of probabilities
-
-$$MRS (E[X],    E[X])=\frac{\pi_{1}}{\pi_{2}}.$$
-
-In this case then,    when there is a preference for certainty the indifference curve or preferences do refect some information about the probabilities of the various states. That is if we did not know the probabilities of the states but knew an individuals preferences,    then we could infer the individual’s
-
-Probability assessment of the states by calculating the marginal rate of substitution at the point of certainty. Note that this implies that the marginal rate of substitution along the $45^0$ line will be the same irrespective how far out along the $45^0$ line we are. The slope of the all indifference curves where they cut the $45^{0}$ line are the same
-
-As we have mentioned in the case of financial assets where the payoffs are amounts of money,    the label of the state is likely to be unimportant. Thus we can reasonably suppose that how assets are viewed does not change if the states are simply relabelled. That is changing the name of the state from rain to shine and shine to rain should not affect how assets are viewed. 16 Indeed it is really the distribution of payoffs that matters and not how states are labelled at all. Thus we make the assumption that individuals are probabilistically sophisticated 17 and evaluate consequences simply by their distribution function. Probabilistic sophistication imposes a symmetry on preferences. Thus if points $X$ and $Y$ are on the same fair-odds line and are equal in distribution,    i.e. $x_{1}=y_{2}$ and ${:}\boldsymbol{U}_{2}=y_{1}$ then by the assumption the indifference curve through $X$ must also pass through $Y$
-
-Expected Utility Maximization: The most common assumption about preferences is that utility is expected utility
-
-$$v (x_1,    x_2)=pu_1 (x_1)+(1-p) u_2 (x_2)$$
-
-Where $u_{1}(x_{1})$ and $u_{2}(x_{2})$ are the von-Neumann Morgenstern utility functions with $u^{\prime}(\cdot)>0$ and $u^{\prime\prime}(\cdot)\leq 0$ .Since $u_{1}(\cdot)$ and $u_{2}(\cdot)$ are concave functions the indifference curves in $(x_1,    x_2)$ -space are convex to the origin and thus are quasi-concave. It is typically assumed that the von-Neumann Morgenstern utility functions do not depend on the state so that $u_{1}(\cdot)=u_{2}(\cdot)$
-
-Certainty Equivalent and Risk Aversion: The certainty equivalent. Of an investment $X$ is the value of an alternative safe investment $X^{ce}$ which
-
-Has the same utility,   
-
-$$v (x^{ce},    x^{ce})=v (x_{1},    x_{2}).$$
-
-Graphically the certainty equivalent is the value of the point on the $45^0$ line where it is cut by the indifference curve that passes through $(x_{1},    x_{2})$ .We can write the certainty equivalent as a function of $x_{1}$ and $x_{2}$ ,   i.e. $x^{\mathrm{ce}}(x_{1},    x_{2})$
-
-In the case of expected utility the certainty equivalent is given by
-
-$$x^{ce}(x_1,    x_2)=u^{-1}(\pi_1 u (x_1)+\pi_2 u (x_2)).$$
-
-Since the inverse function $u^{-1}(\cdot)$ is an increasing monotonic transformation,    this function represents the same preferences as the expected utility function and the certainty equivalent can itself be treated as a utility function.
-
-This property of the certainty equivalent is complectly general. Since indifference curves do not cross by the transitivity assumption,    the certainty equivalent gives the same preference ranking as the utility function itself Thus if preferred it is possible to treat the certainty equivalent as the utility function and work with the certainty equivalent. That is maximising the certainty equivalent is equivalent to maximising utility.
-
-Risk Premia: Risk premia are a measure of how far the certainty equivalent is from the expected value. There are two alternatives to measuring this difference: the absolute difference and the relative difference.
-
-The absolute risk premium is the amount that can be taken away from the expected value such that if this amount is received with certainty it is no worse than the original distribution. Consider the investment $X$ ，the absolute risk premium $\rho^{a}(x_{1},    y_{1})$ is defined by
-
-$$v (E[X]-\rho^a (x_1,    x_2),    E[X]-\rho^a (x_1,    x_2))=v (x_1,    x_2).$$
-
-To see how this relates to the certainty equivalent remember that
-
-$$v (x^{ce}(x_1,    x_2),    x^{ce}(x_1,    x_2))=v (x_1,    x_2)$$
-
-So that the absolute risk premium satisfies $\rho^{a}(x_{1},    x_{2})=E[X]-x^{ce}(x_{1},    x_{2})$ and it is a measure of the willingness to pay for certainty.
-
-An alternative way to measure the willingness to pay for certainty is to measure the proportion 18 that can be taken away from expected value such that if this amount is received with certainty it is no worse than the original distribution. This amount is known as the relative risk premium. The relative risk premium $\rho^{r}(x_{1},    x_{2})$ and is defined by
-
-$$v\left (\frac{E[X]}{\rho^r (x_1,    x_2)},   \frac{E[X]}{\rho^r (x_1,    x_2)}\right)=v (x_1,    x_2).$$
-
-Since $v (x^{ce}(x_{1},    x_{2}),    x^{ce}(x_{1},    x_{2}))=v (x_{1},    x_{2})$ ,    the relative risk premium is simply the ratio of the expected value and certainty equivalent
-
-$$\rho^r (x_1,    x_2)=\frac{E[X]}{y^{ce}(x_1,    x_2)}.$$
-
-Diagrammatically the relative risk premium is the distance between the certainty equivalent and the expected value measured along the $45^{0}$ line.
-
-Arrow-Pratt Theory: Arrow (Aspects of the Theory of Risk Bearing 1965) and Pratt (Econometrica,    1964) showed in the case of expected utility how the risk premium is related to the curvature of the von-Neumann Morgenstern utility function. Consider the investment $X$ with an expected payoff of $\pi x_{1}+(1-\pi) x_{2}=E[X]=w$ where $UU$ can be interpreted as initial wealth. The expected utility is $\pi u (x_{1})+(1-\pi) u (x_{2})$ .Suppose the individual pays an absolute risk premium of $\rho^{a}$ to eliminate the risk. Their utility would then be $u (E[X]-\rho^{a})$ where $\rho^{u}$ satisfies the equation
-
-$$\pi u (x_1)+(1-\pi) u (x_2)=u (E[X]-\rho^a).$$
-
-The risk premium is,    as before,    $\rho^{u}=w-x^{ce}$ .Some calculus using a Taylor expansion can be used to show that
-
-$$\rho^a\approx-\frac{1}{2}\sigma^2\frac{u^{\prime\prime}(w)}{u^{\prime}(w)}$$
-
-Where $\sigma^{2}=\pi x_{1}^{2}+(1-\pi) x_{2}^{2}$ is the variance of the portfolio. The function
-
-$$A (w)=-\frac{u'' (w)}{u' (w)}$$
-
-Is called the Arrow-Pratt coefficient of absolute risk aversion. It is a measure of the curvature of the utility function. By monotonicity $u^{\prime}(w)$ is positive,    so the risk premium is positive,    and the Arrow-Pratt coefficient of absolute risk aversion positive,    if the second derivative of the utility func tion $u^{\prime\prime}(w)$ is negative,    which indicates that the utility function is concave. The larger the coefficient $A (w)$ the greater the risk premium,    the greater will the individual pay to avoid the lottery and the more risk averse is the individual. It is well known that the only von-Neumann Morgenstern utility function which has a constant coefficient of absolute risk aversion is the negative exponential function
-
-$$u (w)=-\exp^{-aw}\:.$$
-
-It is alsopossible to define the Arrow-Pratt coefficient of relative risk aversion
-
-$$R (w)=wA (w)$$
-
-That corresponds to the relative risk premium. The von Neumann Morgen stern utility functions that exhibit constant relative risk aversion are of the power form
-$$u (w)=\frac{w^{(1-r)}}{(1-r)}$$
-
-With $u (w)=\log_{e}(w)$ when $r=1$ .Again it is easily checked that $R (w)=r$
-
-## 5 Stochastic Dominance
-
-First-order stochastic dominance: To examine stochastic dominance of two investments we look at the cumulative probability distribution functions
-
-Thus if two investments $X$ and $Y$ have cumulative distribution functions $F$ and $G$ respectively we say that $X$ first-order stochastically dominates. $Y$ if
-
-$$F (x)\leq G (x)$$
-
-For all possible values of $2 L$ (with strict inequality for at least one $3 L$ ). Remember that $F (x)=$prob$(X\leq x)$ so if $F (x)\leq G (x)$ then the probability of getting an outcome worse than $JL$ is always lower for $X$ than for $Y$ no matter which $. L$ we choose. We should think that most investors will prefer $X$ to $Y$ and one can show this is the case if the utility function is monotonic. Thus all investors with monotonically increasing preferences will agree that $X$ is better than $Y$
-
-It is important to remember however that many investments will not be able to be ranked by first order stochastic dominance. For these investments $F (x)<G (x)$ for some $JL$ but $G (x)<F (x)$ for other values of $JL$ .Such investments are non-comparable according to first-order stochastic dominance Thus first-order stochastic dominance can only be used to find a partial ordering of the set of possible investment opportunities
-
-Second-order stochastic dominance: For two investments $X$ and $Y$ with distribution functions $F$ and $G$ we say that $X$ second-order stochastically dominates $Y$ if
-$$\int_{x_{min}}^xF (t)\: dt\leq\int_{x_{min}}^xG (t)\:dt$$
-
-For all possible values of $JL$ (with strict inequality for at least one $X$ ). We can illustrate this condition by drawing the two cumulative distribution func tions. The net area between the two curves evaluated at some point $JL$ is the difference
-$$\int_{x_{min}}^{x}G (t)-F (t)\: dt.$$
-
-Taking into account positive and negative areas (negative if $G<F$ ) and this sum is required to be positive for all ${:}\boldsymbol{L}$ .Thus we must start with a positive area and if the curves ever cross the sum of the positive areas must always outweigh the negative areas that follow.
-
-It can be shown that all investors who are risk-averse expected utility maximisers will agree that $X$ is better than $Y$ if $X$ second-order stochastically dominates $Y$ .The intuition is that with risk-aversion marginal utility is declining and thus higher weight is placed on lower return outcomes. If $X$ second-order stochastically dominates $Y$ then any positive area where $F<G$ is greater than any negative area where $G<F$ and therefore higher weight is put on the positive areas.
-
-Thus we can conclude that every risk averse expected utility maximiser will agree that $X$ is preferable to $Y$ if $X$ second-order stochastically dominates $Y$ .Again not all investments will be comparable according to secondorder stochastic dominance so this again implies only a partial ordering of the set of all possible investments.
-
-Stochastic Dominance and Variance: (1) If investment $X$ stochastically dominates investment $Y$ ,   then $X$ will have a lower variance and a better worst-case payoff than $Y$ .(2) However,    it is possible for $X$ to have a lower variance than $Y$ without $X$ stochastically dominating $Y$ ；lower variance is a necessary but not a sufficient condition for stochastic dominance.
-
-Exercise: Compare portfolios $D$ and $E$ using the stochastic dominance criteria (first-order and second-order)
-
-## 6 Increases in Risk
-
-Consider the following two assets (or portfolios) $A$ and $B$ with payoffs
-
-$$A=\begin{pmatrix}7\\4\\6\\0\end{pmatrix}\quad B=\begin{pmatrix}5\\5\\3\\3\end{pmatrix}$$
-
-Where the four states occur with probabilities $\left( \frac {1}{6},    \frac{1}{3},    \frac{1}{4},    \frac{1}{4}\right)$ respectively. Whicl of these two assets is the riskier? The expected value of these assets are $E[A]=E[B]=4$ . The variance of the assets are $Var[A]=\frac{13}{2}$ and $Var[B]=$ 1 and it does seem reasonable to say that $A$ is riskier than $B$ as the payoffs are more spread out.
-
-Consider the two assets $C$ and $D$ with payoffs
-
-$$C=\begin{pmatrix}3\\3\\3\\3\\3\\3\\3\\11\end{pmatrix}\quad D=\begin{pmatrix}0\\0\\0\\0\\0\\4\\4\\4\\4\end{pmatrix}$$
-
-Where all states occur with probability $\frac{1}{8}$ .Again $E[ C]$ = $E[ D]$ = 4 but $Var[C]=7$ and $Var[D]=4$ .In this case it seems much more arguable to conclude that $C$ is riskier than $D$ .Asset $C$ has a constant payout except in one state,    whereas $D$ has an equal chance of no payout or a slightly higher payout.
-
-A natural way to define the concept of $A$ is "less risky than" $B$ is to suppose that $B$ is the same as $A$ plus some extra risk or "noise". To make it clear that we are dealing with assets with a random payoff,    we shall write $A$ ， $B$ etc. To indicate that the payoff to the assets is random.
-
-To make this definition precise we have to consider what it means for two assets $A$ and $B$ to be equivalent and how"noise”can be defined. First consider the two assets $E$ and $F$ which have the following payoffs
-
-$$E=\begin{pmatrix}7\\4\end{pmatrix}\quad F=\begin{pmatrix}4\\7\end{pmatrix}$$
-
-Where both states are equally probable. These two assets are not the same,    since they pay out different amounts in different states. Nevertheless the two assets are equally risky. In both cases there is an equal chance of a payoff of either 4 or 7. In this case we write $\tilde{E}\stackrel{d}{=}\tilde{F}$ and say that the two assets are equal in distribution. This is the same as saying that investors are probabilistically sophisticated and care only about the distribution of the payoffs and not the states themselves
-
-We have already seen that combining one asset with another can reduce the variance of the portfolioif the assets are negatively correlated. Therefore in defining "noise”we want to consider a situation that is uncorrelated with an asset $X$ .In fact we shall use a concept slightly stronger than uncorrelated,    namely mean independence. We say that a random variable $\epsilon$ is mean independent of $X$ if the the expected value of $\dot{\epsilon}$ is the same for every possible value of the random variable $X$ .That is $E_{\epsilon }[ \epsilon | X]$ = $E_{\epsilon }[ \epsilon ]$ for all possible values that $X$ can take.
-
-Consider the the asset $B$ that has a payoff of 5 with probability $\frac{1}{2}$ and a payoff of 3 with probability $\frac{1}{2}$ .Suppose that $E$ has the followingvalues
-
-$$\epsilon=\left\{\begin{matrix}2&\text{with probability}\frac{1}{3}\\-1&\text{with probability}\frac{2}{3}\end{matrix}\right.\quad\text{if}B=5$$
-
-And
-
-$$\epsilon=\left\{\begin{matrix}3&\text{with probability}\frac{1}{2}\\-3&\text{with probability}\frac{1}{2}\end{matrix}\right.\quad\text{if}B=3.$$
-
-It is easy to calculate that $E_{\epsilon}[\epsilon|B=5]=E\epsilon[\epsilon|B=3]=0$ .Thus the mean of $t$ isthe sameindependent of the value of $B$ .Since the mean is the same independent of $B$ ， $E_{\epsilon}[\epsilon|B]=E_{\epsilon}[\epsilon]$ and it can be checked that
-
-$$E_\epsilon[\epsilon]=\frac{1}{2}E_\epsilon[\epsilon|B=5]+\frac{1}{2}E\epsilon[\epsilon|B=3]=0.$$
-
-Mean independence is weaker than independence but is stronger than uncorrelated. The implications are
-
-$$\text{Independence}\Rightarrow\text{Mean Independence}\Rightarrow\text{Uncorrelated}$$
-
-Remember that the two variables $X$ and $t$ are uncorrelated when $cov (X,   \epsilon)=$ $E[ X$ $\cdot$ $\epsilon ] -$ $E[ X]$ $\cdot$ $E[ \epsilon ]$ = 0 .To see that mean independence implies zero covariance note
-
-$$E[X\cdot\epsilon]=E_{X}[E_{\epsilon}[X\cdot\epsilon|X]]=E_{X}[X\cdot E_{\epsilon}[\epsilon|X]]=E_{X}[X\cdot E_{\epsilon}[\epsilon]]=E_{X}[X]\cdot E_{\epsilon}[\epsilon].$$
-
-Here the first equality holds by the Law of iterated expectation; the second equality holds as the expectation over $t$ is taken for each value of $X$ ;the third equality holds by mean independence,    $E_{\epsilon}[\epsilon|X]=E[\epsilon]$ ; and the last equality again holds as expectation over $X$ is taken for each value of $\epsilon$
-
-In the example $E$ is not independent of $B$ because the distribution function for $t$ depends upon $B$ .However $B$ and $t$ are uncorrelated. This can be easily checked as
-$$B\cdot\epsilon=\begin{pmatrix}6\\-3\\3\\-3\end{pmatrix}$$
-
-With probabilities $\left (\frac{1}{6},   \:\frac{1}{3},   \:\frac{1}{4},   \:\frac{1}{4}\right)$ which gives $E[B\cdot\epsilon]=0$ .In this case the two variables $B$ and $t$ are said tobe orthoganal. Since $E[\epsilon]=0$ the covariance is zero and $B$ and $t$ are uncorrelated
-
-In comparing the risk of two assets or portfolios $X$ and $Y$ we wish to compare variability or deviationfrom the mean rather than the levels of the variable. Therefore we compare the deviations $X-E[X]$ and $Y-E[Y]$ Therefore the standard definition for “riskier than" is as follows:
-
-Risk: The asset or portfolio $Y$ is riskier than the asset or portfolio $X$ if there is a random variable $\epsilon$ such that
-
-$$\tilde{Y}-E[\tilde{Y}]\stackrel{d}{=}\tilde{X}-E[\tilde{X}]+\tilde{\epsilon}\quad\mathrm{where}\quad E[\tilde{\epsilon}|\tilde{X}]=E[\tilde{\epsilon}]=0.$$
-
-The definition says that the deviation of the random variable $Y$ from its mean is equal in distribution to the deviation of the random variable $\ddot{X}$ from its mean plus some noise ?. It turns out that this definition is exactly the same as second-order stochastic dominance but with the additional assumptior that the means of the two distributions are the same.
-
-Consider our example again with asset $B$ and therandom variable $t$. We can calculate $B+\epsilon$ as follows
-
-$$B+\epsilon=\left\{\begin{array}{ll}7&\text{with probability}\frac{1}{3}\\4&\text{with probability}\frac{2}{3}\end{array}\right.\quad\text{if}B=5$$
-
-And
-
-$$B+\epsilon=\left\{\begin{array}{ll}6&\text{with probability}\frac{1}{2}\\0&\text{with probability}\frac{1}{2}\end{array}\right.\quad\text{if}B=3.$$
-
-Since $B=5$ or $B=3$ with equal probability we have
-
-$$B+\epsilon=\begin{cases}\:7&\text{with probability}\:\frac{1}{6}\\\:4&\text{with probability}\:\frac{1}{3}\\\:6&\text{with probability}\:\frac{1}{4}\\\:0&\text{with probability}\:\frac{1}{4}\end{cases}.$$
-
-This shows that $B+\epsilon$ and $A$ have the same distribution function and thus are equalin distribution. We can say that $A$ is riskier than $B$ because it is obtained from $B$ by adding some "noise".
-
-It turns out that we cannot compare $C^{r}$ and $D$ using this definition. That is there is no noise $t$ such that $C\stackrel{d}{=}D+\epsilon$ or $D\stackrel{d}{=}C+\epsilon$ .We say that $C$ and $D$ are incomparable in terms of risk. Thus we simply have to accept that not all assets or portfolios can be compared in terms of their riskiness.
-
-But all asset including $C$ and $D$ can be compared in terms ofvariance. This implies that in general variance is not a good measure of risk. Indeed that it is an over strong measure of risk and a larger variance does not always correspond to what we mean by larger risk. However the opposite is true:
-
-$$\text{Greater Risk}\Rightarrow\text{Greater Variance}$$
-
-Thus we can conclude that a riskier asset has the greater variance. To see this we can compute the variance of $Y$ ,   when $Y$ is riskier than $X$ as follows
-
-$$\begin{aligned}
-Var (Y)=var (Y-E[Y])& =\: var (X-E[X]+\epsilon) \\
-&=\: var (X-E[X])+var (\epsilon)+2 cov (X-E[X],   \epsilon) \\
-&=\: var (X)+var (\epsilon) \\
-&\begin{matrix}{>}&{var (X).}\\\end{matrix}
-\end{aligned}$$
-
-Here the first line follows because $Y$ and $X+\epsilon$ are equal in distribution thesecond line follows from the rule for variances and the third line follows because $X$ and $t$ are uncorrelated. Finally since $E$ is noise,    its variance is positive so $var (X)+var (\epsilon)>var (X)$ .Thus greater variance is a necessary condition for greater risk but it is not sufficient.
-
-# 7. Conclusion
-
-There have been many measures of risk that have been proposed. Many measures that have been proposed are not coherent. Other measures which are coherent but are complete run into the problem that not all risk averse investors would necessarily agree on which investment is riskier. If however,    we accept a partial measure of risk that compares some but not all portfolios of investment,    then second order stochastic dominance of the equivalent (when the means are the same) measure of increases in risk will give a measure on which all risk averse investors will agree.

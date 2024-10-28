@@ -143,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Options"
+              "title": "Risk Preferences"
             }
           }
         ],
@@ -317,10 +317,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md"
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Options"
+              "title": "File properties for Risk Preferences"
             }
           }
         ],
@@ -352,12 +352,14 @@
   },
   "active": "0f3760406ae22b97",
   "lastOpenFiles": [
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Forward and Futures Contracts.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Asset Price Dynamics.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
     "Financial Instruments/Lecture Notes/Lecture Note 6-Implied Volatility.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing.md",
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Calculate Stock Prices at Different Nodes.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
     "Financial Instruments/Untitled.md",
     "Appendices/Appendix 5.A Taxes and the Forward Price.md",
     "Appendices/Appendix 25. A Constructing the BDT Tree.md",
@@ -377,8 +379,6 @@
     "Appendices/Appendix 21.C SOLUTIONS FOR PRICES AND PROBABILITIES.md",
     "Appendices/Appendices.md",
     "preamble.sty",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Forward Rates and Term Structure.md",
     "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Appendices",
