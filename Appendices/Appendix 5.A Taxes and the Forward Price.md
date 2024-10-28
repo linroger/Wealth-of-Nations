@@ -200,6 +200,8 @@ What adjustments do we have to make if the options are American? If the written 
 \end{document}
 
 ```
+
+
 ### The Call Premium Is a Convex Function of the Strike Price.
 This proposition says that as the option moves more into the money,      its premium increases at a faster rate. To prove it,       suppose that $C(K_{2})\geq\lambda C(K_{1})+(1-\lambda)C(K_{3})$ We can make money initially by selling the $K_{2}$ -strike call,       buying $\lambda$ $K_{\mathrm{l}}$ -strike calls,       and buying $1-\lambda$ $K_{3}$ -strike calls. Table 9.12 summarizes the results.
 

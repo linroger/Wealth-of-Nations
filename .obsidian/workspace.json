@@ -307,6 +307,7 @@
   },
   "active": "5271d4355d14fed7",
   "lastOpenFiles": [
+    "preamble.sty",
     "Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md",
     "Appendices/Appendix 5.A Taxes and the Forward Price.md",
     "Appendices/Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
@@ -335,7 +336,6 @@
     "Financial Instruments/Pricing of Financial Instruments/Pricing of Financial Instruments.md",
     "QuantLib-Python/Untitled.md",
     "QuantLib-Python/Valuing Convertible Bonds Using QuantLib Python.md",
-    "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Financial Instruments/Pricing of Financial Instruments",
     "China Foreign Exchange Reserves",
     "QuantLib-Python",
