@@ -4,7 +4,7 @@ title: Appendix 9.B Algebraic Proofs of Strike-Price Relations
 
 # Appendix 9.B Algebraic Proofs of Strike-Price Relations
 
-In Chapter 9 we demonstrated severalpropositions about how option prices change when the strike price changes. To prove these propositions we will consider strike prices $K_{1},   K_{2}$ and $K_{3}$ ,  where $K_{1}<K_{2}<K_{3}$. Define $\lambda$ so that
+In Chapter 9 we demonstrated severalpropositions about how option prices change when the strike price changes. To prove these propositions we will consider strike prices $K_{1},    K_{2}$ and $K_{3}$ ,  where $K_{1}<K_{2}<K_{3}$. Define $\lambda$ so that
 $$\lambda=\frac{K_3-K_2}{K_3-K_1}$$ or
 $$K_2=\lambda K_1+(1-\lambda)K_3$$
 Since we are considering options that differ only with respect to the strike price. We can write $C(K)$ and $P(K)$ to denote the option premium for a particular strike. $K$
@@ -127,12 +127,12 @@ What adjustments do we have to make if the options are American? If the written 
 \usepackage{tikz}
 \begin{document}
   \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,  color=gray] (-0.1,  -1.1) grid (3.9,  3.9);
-    \draw[->] (-0.2,  0) -- (4.2,  0) node[right] {$x$};
-    \draw[->] (0,  -1.2) -- (0,  4.2) node[above] {$f(x)$};
-    \draw[color=red]    plot (\x,  \x)  node[right] {$f(x) =x$};
-    \draw[color=blue]   plot (\x,  {sin(\x r)})    node[right] {$f(x) = \sin x$};
-    \draw[color=orange] plot (\x,  {0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
+    \draw[very thin,   color=gray] (-0.1,   -1.1) grid (3.9,   3.9);
+    \draw[->] (-0.2,   0) -- (4.2,   0) node[right] {$x$};
+    \draw[->] (0,   -1.2) -- (0,   4.2) node[above] {$f(x)$};
+    \draw[color=red]    plot (\x,   \x)  node[right] {$f(x) =x$};
+    \draw[color=blue]   plot (\x,   {sin(\x r)})    node[right] {$f(x) = \sin x$};
+    \draw[color=orange] plot (\x,   {0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
   \end{tikzpicture}
 \end{document}
 
