@@ -83,6 +83,32 @@ Suppose that $C(K_{\mathrm{l}})<$ $C(K_{2})$ ; i.e.,     a lower strike call had
 - The net is $K_{2}-K_{1}$ which is positive.
 
 What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens,    we can simply exercise the purchased option,     earning the payoffs in the table. If it is not optimal to exercise the purchased option,    we can sell it,    earning even higher payoffs
+$$
+\usepackage{multirow}
+\begin{table}[]
+\begin{tabular}{lllll}
+\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Transaction}}} & \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Time 0}}} & \multicolumn{3}{c}{\textbf{Expiration or Exercise}}                                                                                                                                             \\
+\multicolumn{1}{c}{}                                      & \multicolumn{1}{c}{}                                 & \multicolumn{1}{c}{\textbf{\$S\_T}} & \multicolumn{1}{c}{\textbf{$\mathbf{K}_{1}\leq\mathbf{S}_{\mathrm{T}}\leq\mathbf{K}_{2}$}} & \multicolumn{1}{c}{\textbf{$S_{\mathrm{T}}>\mathbf{K}_{2}$}} \\
+Buy 1 $K_{1}$-strike call                                 & $-C (K_1)$                                           & 0                                   & $S_{T}-K_{\mathrm{l}}$                                                                     & $S_T$ $K$ 一                                                  \\
+Sell $K_{2}$-strike call                                  & $C (K_2)$                                            & 0                                   & 0                                                                                          & $\underline{K_2-S_T}$                                        \\
+Total                                                     & $C (K,    )-C (K_{1})$                               & 0                                   & $S_{T}-K_{\perp}$                                                                          & $K_{2}$ $,    -K.$  I                                       
+\end{tabular}
+\end{table}
+$$
+```latex
+% Please add the following required packages to your document preamble:
+\begin{document}
+\usepackage{multirow}
+\begin{table}[]
+\begin{tabular}{lllll}
+\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Transaction}}} & \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Time 0}}} & \multicolumn{3}{c}{\textbf{Expiration or Exercise}}                                                                                                                                             \\
+\multicolumn{1}{c}{}                                      & \multicolumn{1}{c}{}                                 & \multicolumn{1}{c}{\textbf{\$S\_T}} & \multicolumn{1}{c}{\textbf{$\mathbf{K}_{1}\leq\mathbf{S}_{\mathrm{T}}\leq\mathbf{K}_{2}$}} & \multicolumn{1}{c}{\textbf{$S_{\mathrm{T}}>\mathbf{K}_{2}$}} \\
+Buy 1 $K_{1}$-strike call                                 & $-C (K_1)$                                           & 0                                   & $S_{T}-K_{\mathrm{l}}$                                                                     & $S_T$ $K$ 一                                                  \\
+Sell $K_{2}$-strike call                                  & $C (K_2)$                                            & 0                                   & 0                                                                                          & $\underline{K_2-S_T}$                                        \\
+Total                                                     & $C (K,    )-C (K_{1})$                               & 0                                   & $S_{T}-K_{\perp}$                                                                          & $K_{2}$ $,    -K.$  I                                       
+\end{tabular}
+\end{table}
+```
 
 <table>
 	<tbody>
