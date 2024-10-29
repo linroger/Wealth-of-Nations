@@ -143,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Lecture 4- Investor Sentiment.md",
+                "file": "China Foreign Exchange Reserves/China's Monetary Policy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4- Investor Sentiment"
+              "title": "China's Monetary Policy"
             }
           },
           {
@@ -422,10 +422,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Advanced Investments/Lecture 4- Investor Sentiment.md"
+                "file": "China Foreign Exchange Reserves/China's Monetary Policy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Lecture 4- Investor Sentiment"
+              "title": "File properties for China's Monetary Policy"
             }
           }
         ],
@@ -459,6 +459,7 @@
   },
   "active": "0f3760406ae22b97",
   "lastOpenFiles": [
+    "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Options Greeks.md",
@@ -484,7 +485,6 @@
     "Appendices/Appendix 21.C Solutions for Black-Scholes PDE.md",
     "Appendices/Appendix 20.A Valuation Using Discounted Cash Flow.md",
     "Appendices/Appendix 18.B Constructing a Normal Probability Plot.md",
-    "Appendices/Appendix 17.A Calculation of Optimal Time to Drill an Oil Well.md",
     "preamble.sty",
     "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
