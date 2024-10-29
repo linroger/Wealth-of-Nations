@@ -1,7 +1,7 @@
 ---
 title: Problem Sets
-aliases: [PROBLEM SETS]
-linter-yaml-title-alias: PROBLEM SETS
+aliases: [Problem Sets-Advanced Financial Analysis and Valuation]
+linter-yaml-title-alias: Problem Sets-Advanced Financial Analysis and Valuation
 tags: [Advanced-Financial-Analysis-and-Valuation]
 ---
 

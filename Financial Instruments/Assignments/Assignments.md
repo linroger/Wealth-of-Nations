@@ -1,36 +1,16 @@
 ---
-aliases:
-- ASSIGNMENTS
-- Alias_142_Assignments.md
-- Alias_141_Assignments.md
-linter-yaml-title-alias: ASSIGNMENTS
-tags:
-- tag_example
+aliases: [Assignments-Financial Instruments]
+linter-yaml-title-alias: Assignments-Financial Instruments
+tags: []
 title: Assignments
 ---
 
-
-
 ---
-
-title: ASSIGNMENTS
-aliases: [ASSIGNMENTS]
-linter-yaml-title-alias: ASSIGNMENTS
-title: ASSIGNMENTS
-aliases: [ASSIGNMENTS]
-linter-yaml-title-alias: ASSIGNMENTS
-title: ASSIGNMENTS
-aliases: [ASSIGNMENTS]
-linter-yaml-title-alias: ASSIGNMENTS
-title: ASSIGNMENTS
-aliases: [ASSIGNMENTS]
-linter-yaml-title-alias: ASSIGNMENTS
-
 # Assignments
 
 %% Begin Waypoint %%
 - **[[Assignments]]**
-	- [[1          EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY]]
+	- [[1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY]]
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]
 	- [[Financial Instruments Midterm Solutions 2013]]

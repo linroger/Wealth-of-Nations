@@ -1,9 +1,10 @@
 ---
 title: Class 3Financial Intermediation and Delegated Loan Monitoring ,  Intro to Bankruptcy and Debt Restructuring
+aliases:
 ---
 
 
-# Class 3Financial Intermediation and Delegated Loan Monitoring ,  Intro to Bankruptcy and Debt Restructuring
+# Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring
 %% Begin Waypoint %%
 - **[[Class 3- Financial Intermediation and Delegated Loan Monitoring ,  Intro to Bankruptcy and Debt Restructuring]]**
 	- [[A Glossary of Technical Terms Related to Bankruptcy in the U.s]]

@@ -1,9 +1,10 @@
 ---
-title: REVIEW SESSION NOTES
-aliases: [REVIEW SESSION NOTES]
-linter-yaml-title-alias: REVIEW SESSION NOTES
+title: Review Session Notes
+aliases: [Review Session Notes--Financial Instruments]
+linter-yaml-title-alias: Review Session Notes--Financial Instruments
 ---
-# REVIEW SESSION NOTES
+
+# Review Session Notes
 
 - **[[Review Session Notes]]**
 	- [[Arbitrage Opportunity Accounting]]
