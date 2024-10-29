@@ -1,10 +1,10 @@
 ---
-title: FIXED INCOME LECTURE NOTES
+title: Fixed Income Lecture Notes
 aliases: [FIXED INCOME LECTURE NOTES]
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 ---
 
-# [[Fixed Income/Fixed Income.md|FIXED INCOME]] [[Financial Instruments/Lecture Notes/Lecture Notes.md|LECTURE NOTES]]
+# Fixed Income Lecture Notes
 
 %% Begin Waypoint %%
 - **[[Fixed Income Lecture Notes]]**

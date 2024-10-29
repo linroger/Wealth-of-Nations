@@ -1,5 +1,5 @@
 ---
-title: Financial Markets and Institutions - Markdown
+title: Financial Markets and Institutions
 ---
 
 # Financial Markets and Institutions

@@ -1,15 +1,10 @@
 ---
-aliases:
-  - Foreign Exchange Sterilization.md
+aliases: [Foreign Exchange Sterilization.md]
 description: Sterilization is a form of monetary action in which a central bank seeks to limit the effect of inflows and outflows of capital on the money supply.
 source: https://www.investopedia.com/terms/s/sterilization.asp
-tags:
-  - clippings
+tags: [clippings]
 title: Foreign Exchange Sterilization
 ---
-
-
-
 
 # Foreign Exchange Sterilization
 ## What Is Sterilization?
