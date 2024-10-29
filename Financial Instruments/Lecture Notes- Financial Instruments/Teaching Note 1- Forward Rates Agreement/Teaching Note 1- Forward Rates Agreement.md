@@ -11,7 +11,7 @@ title: Teaching Note 1Forward Rates Agreement
 
 
 
-# Teaching Note 1Forward Rates Agreement
+# Teaching Note 1- Forward Rates Agreement
 
 %% Begin Waypoint %%
 - **[[Teaching Note 1- Forward Rates Agreement]]**

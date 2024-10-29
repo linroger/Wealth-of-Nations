@@ -30,7 +30,7 @@ $$V^{swap}_t = PV \text{ of swap + reverse forward cash flows } = e^{-r_s(T_{1}-
 
 ---
 
-# PLAIN VANILLA FX SWAPS
+# The Value of the Swap Contract after Initiation
 ## UNDERSTANDING PLAIN VANILLA FX SWAPS
 + In the example above I assumed the counterparties swap equal payments in the two currencies.
   + The US Firm pays Eur 1 Mil to the Bank every six months and at the same time the Bank pays$1.306 mil to the US Firm.

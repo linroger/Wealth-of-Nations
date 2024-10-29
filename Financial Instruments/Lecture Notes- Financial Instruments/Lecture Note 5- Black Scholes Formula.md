@@ -17,7 +17,7 @@ title: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 aliases: [LECTURE NOTE 5 BLACK SCHOLES FORMULA]
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 
-# LECTURE NOTE 5 BLACK SCHOLES FORMULA
+# Lecture Note 5- Black Scholes Formula
 
 [Binomial Tree Steps](Binomial%20Tree%20Steps.md)
 [Ch1 Introduction to Derivative Markets](Ch1%20Introduction%20to%20Derivative%20Markets.md)

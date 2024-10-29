@@ -1,17 +1,17 @@
 ---
-title: Lecture Notes
+title: Lecture NotesFinancial Instruments
 ---
 
-# Lecture Notes
+# Lecture NotesFinancial Instruments
 
 %% Begin Waypoint %%
-- **[[Lecture Notes]]**
+- **[[Lecture Notes- Financial Instruments]]**
 	- [[Lecture Note 5- Black Scholes Formula]]
 	- [[Lecture Note 6-Implied Volatility]]
 	- [[Lecture Notes 9- Corporate Securities And Credit Derivatives]]
 	- [[Lecture Notes 9A- Credit Default Swaps]]
 	- [[Lecture Notes 10- Interest Rate Derivatives]]
-	- [[Lecture Notes]]
+	- [[Lecture Notes- Financial Instruments]]
 	- **[[Teaching Note 1- Forward Rates Agreement]]**
 	- [[Teaching Note 2-Futures Contracts]]
 	- **[[Teaching Note 3 Swaps- Financial Instruments]]**

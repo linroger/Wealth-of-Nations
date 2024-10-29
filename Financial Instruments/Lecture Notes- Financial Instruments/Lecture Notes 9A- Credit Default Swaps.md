@@ -9,7 +9,7 @@ title: Lecture Notes 9A-Credit Default Swaps
 
 
 
-# Lecture Notes 9A-Credit Default Swaps
+# Lecture Notes 9A- Credit Default Swaps
 ### Financial Instruments
 
 Observations about CDS

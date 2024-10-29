@@ -81,7 +81,7 @@ So in summary, swaps are useful for hedging streams of commodity purchases or sa
 
 ![](IMG-20240913171241643.png)
 
-# 2. COMPUTING THE SWAP RATE IN GENERAL
+# Swaps Types
 
 The swap rate calculation equates the value of a prepaid swap with the present value of the fixed swap payments.
 

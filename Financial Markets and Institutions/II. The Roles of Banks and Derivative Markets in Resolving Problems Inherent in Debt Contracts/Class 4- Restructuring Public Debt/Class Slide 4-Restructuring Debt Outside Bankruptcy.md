@@ -1,17 +1,9 @@
 ---
-aliases:
-- Alias_6_Class Slide 4-Restructuring Debt Outside Bankruptcy.md
-- Class Note 4-Restructuring debt outside bankruptcy
-- Example_Alias_Class Slide 4-Restructuring Debt Outside Bankruptcy
+aliases: [Alias_6_Class Slide 4-Restructuring Debt Outside Bankruptcy.md,  Class Note 4-Restructuring debt outside bankruptcy,  Example_Alias_Class Slide 4-Restructuring Debt Outside Bankruptcy]
 linter-yaml-title-alias: Class Note 4-Restructuring debt outside bankruptcy
-tags:
-- tag_example
-- example_tag
-title: Class Note 4-Restructuring debt outside bankruptcy
+tags: [tag_example,  example_tag]
+title: Class Slide 4-Restructuring Debt Outside Bankruptcy
 ---
-
-
-
 
 # Class Slide 4-Restructuring Debt Outside Bankruptcy
 

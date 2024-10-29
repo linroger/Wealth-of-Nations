@@ -11,7 +11,7 @@ title: LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
 
 
 
-# LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
+# Lecture Notes 9- Corporate Securities And Credit Derivatives
 
 [Teaching Note 8-American Options](Teaching%20Note%208-American%20Options.md)
 [Lecture Notes 9ACredit Default Swaps](Lecture%20Notes%209A-%20Credit%20Default%20Swaps.md)

@@ -11,7 +11,7 @@ title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 
 
 
-# LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
+# Teaching Note 4-Multiperiod Binomial Trees
 
 %% Begin Waypoint %%
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**

@@ -13,7 +13,7 @@ title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 
 
 
-# THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
+# The Pricing of Options and Corporate Liabilities
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]

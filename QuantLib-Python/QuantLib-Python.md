@@ -15,7 +15,7 @@ title: QuantLib-Python
 	- [[Modeling Vanilla Interest Rate Swaps Using QuantLib Python]]
 	- [[Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python]]
 	- [[On the Convergence of Hull White Monte Carlo Simulations]]
-	- [[Option Model Handbook,  Part III European Option Pricing With QuantLib Python]]
+	- [[Option Model Handbook,   Part III European Option Pricing With QuantLib Python]]
 	- [[QuantLib-Python]]
 	- [[Short Interest Rate Model Calibration in QuantLib Python]]
 	- [[Valuing Bonds with Credit Spreads in QuantLib Python]]

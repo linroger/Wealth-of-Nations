@@ -1,16 +1,16 @@
 ---
-aliases: [Example_Alias_Class 5- Private Information,  Liquidity,  and Securitization,  Alias_79_Class 5- Private Information,  and Securitization.md,  Class 5 Private Information]
-linter-yaml-title-alias: Class 5 Private Information,    Liquidity,    and Securitization
-tags: [tag_example,  example_tag]
+aliases: [Private Information,     Liquidity,     and Securitization]
+linter-yaml-title-alias: Class 5 Private Information,     Liquidity,     and Securitization
+tags: []
 title: Class 5Private Information,  Liquidity,  and Securitization
 ---
 
 # Class 5Private Information,  Liquidity,  and Securitization
 %% Begin Waypoint %%
-- **[[Class 5- Private Information,  Liquidity,  and Securitization]]**
+- **[[Class 5- Private Information,   Liquidity,   and Securitization]]**
 	- [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders]]
 	- [[Bid-Ask Prices with Adverse SelectionPrivate Information]]
-	- [[Class 5- Private Information,  Liquidity,  and Securitization]]
+	- [[Class 5- Private Information,   Liquidity,   and Securitization]]
 	- [[Class Note 9 Bid and Ask Prices With Private Information]]
 	- [[Class Note 9- Bid and Ask Prices with Adverse Selection- Private Information]]
 	- [[Class Note 10 Liquidity and Liquidity Management]]

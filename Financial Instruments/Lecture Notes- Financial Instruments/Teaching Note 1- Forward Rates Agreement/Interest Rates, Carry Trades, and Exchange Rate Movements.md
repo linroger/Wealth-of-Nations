@@ -8,7 +8,7 @@ title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 ---
 
 
-# Interest Rates,  Carry Trades,  and Exchange Rate Movements
+# Interest Rates, Carry Trades, and Exchange Rate Movements
 
 Federal Reserve Bank of San Francisco
 [[https://www.frbsf.org/economic-research/publications/economic-letter/2006/november/interest-rates-carry-trades-and-exchange-rate-movements/]]

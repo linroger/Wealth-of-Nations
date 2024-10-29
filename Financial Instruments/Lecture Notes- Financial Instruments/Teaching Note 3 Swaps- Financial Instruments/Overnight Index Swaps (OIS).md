@@ -15,7 +15,7 @@ title: Overnight Index Swaps (Is)
 	- [[Teaching Note 3 SwapsFinancial Instruments]]
 	- [[The Value of the Swap Contract after Initiation]]
 
-# Overnight Index Swaps (Is)
+# Overnight Index Swaps (OIS)
 ## FUNDAMENTALS OF IS
 - In an Is,  two counterparties agree to exchange fixed for floating payments,  where the floating payment is tied to the cumulative return from an overnight rate.
 	- Federal funds rate,  SOFR in US.

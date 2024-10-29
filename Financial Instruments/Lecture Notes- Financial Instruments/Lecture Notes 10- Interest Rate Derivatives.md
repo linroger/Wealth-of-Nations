@@ -13,7 +13,7 @@ title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 
 
 
-# LECTURE NOTES 10 INTEREST RATE DERIVATIVES
+# Lecture Notes 10- Interest Rate Derivatives
 
 [Lecture Notes 9Corporate Securities And Credit Derivatives](Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md)
 [Lecture Notes 9ACredit Default Swaps](Lecture%20Notes%209A-%20Credit%20Default%20Swaps.md)

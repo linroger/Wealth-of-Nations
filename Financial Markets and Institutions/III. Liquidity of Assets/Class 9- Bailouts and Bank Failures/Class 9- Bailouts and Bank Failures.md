@@ -1,7 +1,7 @@
 ---
-aliases: [Example_Alias_Class 9- Bailouts and Bank Failures,  Alias_55_Class 9- Bailouts and Bank Failures.md,  Class 9Bailouts and Bank Failures]
+aliases: [Class 9Bailouts and Bank Failures]
 linter-yaml-title-alias: Class 9Bailouts and Bank Failures
-tags: [tag_example,  example_tag]
+tags: []
 title: Class 9Bailouts and Bank Failures
 ---
 

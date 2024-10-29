@@ -1,1 +1,4 @@
-# Notes- Contemporary Financial Intermediation
+---
+title: NotesContemporary Financial Intermediation
+---
+# NotesContemporary Financial Intermediation

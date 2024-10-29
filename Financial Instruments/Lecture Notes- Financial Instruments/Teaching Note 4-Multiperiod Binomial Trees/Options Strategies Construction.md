@@ -19,7 +19,7 @@ title: OPTIONS STRATEGIES CONSTRUCTION
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]
 
-# OPTIONS STRATEGIES CONSTRUCTION
+# Options Strategies Construction
 
 Value of a protective put portfolio at option expiration
 

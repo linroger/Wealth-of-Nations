@@ -164,7 +164,7 @@ At maturity,
 
 ---
 
-# FORWARD CONTRACTS FOR OTHER SECURITIES
+# Forward Rates Agreement
 
 + The earlier derivation was obtained for currency forwards.
 + Similar derivations hold for other securities, such as stocks, bonds, and commodities.
