@@ -50,5 +50,6 @@
   "note-linker-with-previewer",
   "jupyter",
   "templater-obsidian",
-  "better-note-linker-plugin"
+  "better-note-linker-plugin",
+  "auto-classifier"
 ]
