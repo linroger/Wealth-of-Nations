@@ -1,18 +1,9 @@
 ---
 Owner: RRoger Lin
-aliases:
-- Example_Alias_A Primer on Bank Liquidity
-- Bank Liquidity
-- Alias_125_A Primer on Bank Liquidity.md
-tags:
-- Primers/Notes
-- tag_example
-- example_tag
+aliases: [A Primer on Bank Liquidity,  Bank Liquidity]
+tags: [Primers/Notes]
 title: A Primer on Bank Liquidity
 ---
-
-
-
 
 # A Primer on Bank Liquidity
 
@@ -46,4 +37,4 @@ In part to comply with the LCR and other new requirements,  and in part because 
 
 **WHAT ARE THE COSTS AND BENEFITS OF LIQUIDITY REQUIREMENTS?**
 
-A lot more research is needed on the optimal level of liquidity requirements,  in part because the costs and benefits are difficult to identify. At a very basic level,  as discussed above,  liquidity regulations,  by design,  limit the ability of banks to engage in liquidity transformation. To satisfy the requirements,  banks must reduce lending and instead hold government securities or deposits at the Fed,  or they must fund themselves with costlier longer-term liabilities,  or both. A 2016 [_study_](https://www.bis.org/bcbs/publ/wp30.pdf) by the Bank for International Settlements found that the LCR requirement results in a 3-6 percent permanent decline in the level of bank lending. Regarding benefits,  a 2010 BIS [_study_](https://www.bis.org/publ/bcbs173.pdf) found that compliance with the post-crisis liquidity requirements will reduce the annual probability of another financial crisis by about 20 basis points. A 2016 Fed working paper ([_Carlson,   Duygan-Bump,   and Nelson_](https://www.federalreserve.gov/econresdata/feds/2015/files/2015011pap.pdf)) argues that the benefit of liquidity regulations is buying time for a bank experiencing liquidity difficulty to address the situation and for the Fed to ensure that the institution is solvent before providing lender of last resort assistance
+A lot more research is needed on the optimal level of liquidity requirements,  in part because the costs and benefits are difficult to identify. At a very basic level,  as discussed above,  liquidity regulations,  by design,  limit the ability of banks to engage in liquidity transformation. To satisfy the requirements,  banks must reduce lending and instead hold government securities or deposits at the Fed,  or they must fund themselves with costlier longer-term liabilities,  or both. A 2016 [_study_](https://www.bis.org/bcbs/publ/wp30.pdf) by the Bank for International Settlements found that the LCR requirement results in a 3-6 percent permanent decline in the level of bank lending. Regarding benefits,  a 2010 BIS [_study_](https://www.bis.org/publ/bcbs173.pdf) found that compliance with the post-crisis liquidity requirements will reduce the annual probability of another financial crisis by about 20 basis points. A 2016 Fed working paper ([_Carlson,    Duygan-Bump,    and Nelson_](https://www.federalreserve.gov/econresdata/feds/2015/files/2015011pap.pdf)) argues that the benefit of liquidity regulations is buying time for a bank experiencing liquidity difficulty to address the situation and for the Fed to ensure that the institution is solvent before providing lender of last resort assistance

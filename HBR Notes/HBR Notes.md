@@ -16,11 +16,12 @@ linter-yaml-title-alias: HBR NOTES
 	- [[HBR Notes]]
 	- [[HBS Notes on Currency Swaps]]
 	- [[Lecture 13- Difference-In-Differences (Part 2 Of 2)]]
-	- [[Note on Long-Term Capital Management,  L.P. HBP]]
+	- [[Note on Long-Term Capital Management, L.P. HBP]]
 	- [[Note on The Dodd-Frank Act and Its Impact]]
 	- [[Note on the Leveraged Loan Market]]
 	- [[Notes on Basic Options Properties]]
 	- [[Notes on Debtor-in-Possession DIP Financing]]
+	- [[Notes- Contemporary Financial Intermediation]]
 	- [[Oaktree and the Restructuring of CIT Group]]
 
 %% End Waypoint %%
