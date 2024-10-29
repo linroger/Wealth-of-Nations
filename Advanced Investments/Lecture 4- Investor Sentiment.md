@@ -1,10 +1,11 @@
 ---
-aliases: [Example_Alias_Lecture 4- Investor Sentiment,  Alias_118_Lecture 4- Investor Sentiment.md]
-tags: [tag_example,  example_tag]
-title: Lecture 4Investor Sentiment
+title: Lecture 4-Investor Sentiment
+tags: 
+aliases:
+  - Lecture 4- Investor Sentiment
 ---
 
-# Lecture 4Investor Sentiment
+# Lecture 4- Investor Sentiment
 
 In the last lecture we discussed that the aggregate valuation of the stock market,  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying investor sentiment could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.
 
