@@ -332,6 +332,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
       "github-sync:Sync with Remote": false,
