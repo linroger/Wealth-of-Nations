@@ -1,20 +1,12 @@
 ---
 aliases:
-- Alias_51_The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied
-  Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md
-- Example_Alias_The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied
-  Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
-tags:
-- tag_example
-- example_tag
-title: The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last
-  Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
+  - The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md
+tags: 
+title: The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 ---
 
-
-
-
-# The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
+# The Fall of Bear Stearns
+##  Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 
 It had been a rough day,  but when Alan Schwartz headed for home on Friday,  March 14,  the Bear Stearns Cos. chief executive thought he'd have a month to find a buyer for his teetering firm.
 

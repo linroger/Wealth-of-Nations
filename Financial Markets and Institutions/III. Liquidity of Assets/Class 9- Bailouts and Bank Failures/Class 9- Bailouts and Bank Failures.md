@@ -23,7 +23,7 @@ title: Class 9Bailouts and Bank Failures
 	- [[Squam Lake Group Letter]]
 	- [[The Asian Liquidity Crisis]]
 	- [[The Dodd Frank Act and Its Impact]]
-	- [[The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon]]
+	- [[The Fall of Bear Stearns]]
 	- [[The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo ]]
 	- [[The Value of Bank Durability Borrowers as Bank Stakeholders]]
 	- [[Update On Outstanding Lending Facilities]]

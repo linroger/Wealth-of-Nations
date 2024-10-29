@@ -1448,13 +1448,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendices/Appendices.md",
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Fall of Bear Stearns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appendices"
+              "title": "The Fall of Bear Stearns"
             }
           },
           {
@@ -1629,7 +1629,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 259.5
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -1727,10 +1727,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Appendices/Appendices.md"
+                "file": "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/The Fall of Bear Stearns.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Appendices"
+              "title": "File properties for The Fall of Bear Stearns"
             }
           }
         ],
@@ -1762,8 +1762,13 @@
       "auto-graphed:Create auto-gen connections": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "81f4988da0d158ac",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Options For Deposit Insurance Reform.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Letter.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Introduction.md",
+    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Conclusions.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Inflation Swaps.md",
     "Appendices/Appendices.md",
     "Appendices/Appendix 10.A Taxes and Option Prices.md",
     "Advanced Financial Analysis and Valuation/Common Errors In DCF Models.md",
@@ -1785,11 +1790,6 @@
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 8- Markets, Meltdowns, and Arbitrage/Class 8- Markets, Meltdowns, and Arbitrage.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 7- CP, Repo, and the Crisis/Class 7- CP, Repo, and the Crisis.md",
     "Financial Markets and Institutions/III. Liquidity of Assets/Class 6- Bank Runs/Class 6- Bank Runs.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 5- Private Information, Liquidity, and Securitization/Class 5- Private Information, Liquidity, and Securitization.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/III. Liquidity of Assets.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class 4- Restructuring Public Debt.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring/Class 3- Financial Intermediation and Delegated Loan Monitoring , Intro to Bankruptcy and Debt Restructuring.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 2- Debt Contracts due to Lack of Information/Class 2- Debt Contracts due to Lack of Information.md",
     "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "preamble.sty",
     "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
