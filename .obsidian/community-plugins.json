@@ -49,5 +49,6 @@
   "structured-tree",
   "note-linker-with-previewer",
   "jupyter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "better-note-linker-plugin"
 ]
