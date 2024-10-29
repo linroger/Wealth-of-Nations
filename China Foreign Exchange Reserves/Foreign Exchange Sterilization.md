@@ -1,21 +1,17 @@
 ---
 aliases:
-- Alias_109_Foreign Exchange Sterilization.md
-- Example_Alias_Foreign Exchange Sterilization
-description: Sterilization is a form of monetary action in which a central bank seeks
-  to limit the effect of inflows and outflows of capital on the money supply.
+  - Foreign Exchange Sterilization.md
+description: Sterilization is a form of monetary action in which a central bank seeks to limit the effect of inflows and outflows of capital on the money supply.
 source: https://www.investopedia.com/terms/s/sterilization.asp
 tags:
-- clippings
-- tag_example
-- example_tag
+  - clippings
 title: Foreign Exchange Sterilization
 ---
 
 
 
 
-# [[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Foreign Exchange Quoting Conventions.md|Foreign Exchange]] Sterilization
+# Foreign Exchange Sterilization
 ## What Is Sterilization?
 
 Sterilization is a form of monetary action in which a [central bank](https://www.investopedia.com/terms/c/centralbank.asp) seeks to limit the effect of inflows and outflows of capital on the money supply. Sterilization most frequently involves the purchase or sale of financial assets by a central bank and is designed to offset the effect of [foreign exchange intervention](https://www.investopedia.com/terms/f/foreign-exchange-intervention.asp). The sterilization process is used to manipulate the value of one domestic currency relative to another and is initiated in the [[Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Foreign Exchange Quoting Conventions.md|foreign exchange]] market.

@@ -143,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "China Foreign Exchange Reserves/China's Monetary Policy.md",
+                "file": "China Foreign Exchange Reserves/Foreign Exchange Sterilization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "China's Monetary Policy"
+              "title": "Foreign Exchange Sterilization"
             }
           },
           {
@@ -422,10 +422,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "China Foreign Exchange Reserves/China's Monetary Policy.md"
+                "file": "China Foreign Exchange Reserves/Foreign Exchange Sterilization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for China's Monetary Policy"
+              "title": "File properties for Foreign Exchange Sterilization"
             }
           }
         ],
@@ -459,6 +459,14 @@
   },
   "active": "0f3760406ae22b97",
   "lastOpenFiles": [
+    "Vault.md",
+    "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
+    "QuantLib-Python/Valuing Interest Rate Caps and Floors Using QuantLib Python.md",
+    "QuantLib-Python/Valuing Bonds with Credit Spreads in QuantLib Python.md",
+    "QuantLib-Python/Untitled.md",
+    "QuantLib-Python/Valuing Convertible Bonds Using QuantLib Python.md",
+    "QuantLib-Python/On the Convergence of Hull White Monte Carlo Simulations.md",
+    "China Foreign Exchange Reserves/China's Monetary Policy.md",
     "Advanced Investments/Lecture 4- Investor Sentiment.md",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
@@ -478,16 +486,8 @@
     "Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/Calculate Stock Prices at Different Nodes.md",
     "Financial Instruments/Untitled.md",
     "Appendices/Appendix 5.A Taxes and the Forward Price.md",
-    "Appendices/Appendix 25. A Constructing the BDT Tree.md",
-    "Appendices/Untitled 1.md",
-    "Appendices/Appendix 23.A The Reflection Principle for Wiener Process.md",
-    "Appendices/Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model.md",
-    "Appendices/Appendix 21.C Solutions for Black-Scholes PDE.md",
-    "Appendices/Appendix 20.A Valuation Using Discounted Cash Flow.md",
-    "Appendices/Appendix 18.B Constructing a Normal Probability Plot.md",
     "preamble.sty",
     "/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
-    "Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Appendices",
     "Financial Instruments/Financial Derivatives and Quantitative Methods",
     "China Foreign Exchange Reserves",
