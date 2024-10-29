@@ -1,8 +1,11 @@
 ---
-aliases: [Example_Alias_Lecture 7-Risk and Return of Bonds,  Alias_117_Lecture 7-Risk and Return of Bonds.md]
-tags: [tag_example,  example_tag]
+aliases:
+  - Lecture 7-Risk and Return of Bonds
+tags: 
 title: Lecture 7-Risk and Return of Bonds
 ---
+
+
 
 [Fixed Income Asset Pricing](Fixed%20Income%20Asset%20Pricing.md)
 
