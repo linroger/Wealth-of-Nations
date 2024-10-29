@@ -48,5 +48,6 @@
   "docxer",
   "structured-tree",
   "note-linker-with-previewer",
-  "jupyter"
+  "jupyter",
+  "templater-obsidian"
 ]
