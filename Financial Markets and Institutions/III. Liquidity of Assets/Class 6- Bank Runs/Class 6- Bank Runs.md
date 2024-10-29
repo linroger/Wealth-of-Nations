@@ -1,10 +1,10 @@
 ---
-title: Class 6 Bank Runs
+title: Class 6Bank Runs
 aliases: [Class 6 Bank Runs]
 linter-yaml-title-alias: Class 6 Bank Runs
 ---
 
-# Class 6- Bank Runs
+# Class 6Bank Runs
 
 %% Begin Waypoint %%
 - **[[Class 6- Bank Runs]]**
@@ -14,7 +14,7 @@ linter-yaml-title-alias: Class 6 Bank Runs
 	- [[Breaking the Buck]]
 	- [[Class 6- Bank Runs]]
 	- [[Investor Size Liquidity and Prime Money Market Fund Stress]]
-	- [[Investor Size, Liquidity And Prime Money Market Fund Stress]]
+	- [[Investor Size,  Liquidity And Prime Money Market Fund Stress]]
 	- [[Money Market Mutual Fund Liquidity Facility]]
 	- [[Note On the Leveraged Loan Market]]
 	- [[Pilgrim Prime Rate Trust]]

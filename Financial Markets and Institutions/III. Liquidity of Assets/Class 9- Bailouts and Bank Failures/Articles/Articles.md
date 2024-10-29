@@ -1,6 +1,7 @@
 ---
 title: Articles
 ---
+
 # Articles
 
 %% Begin Waypoint %%
