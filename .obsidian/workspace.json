@@ -143,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Risk Preferences"
+              "title": "Options"
             }
           }
         ],
@@ -317,10 +317,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md"
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Risk Preferences"
+              "title": "File properties for Options"
             }
           }
         ],
@@ -353,8 +353,8 @@
   },
   "active": "0f3760406ae22b97",
   "lastOpenFiles": [
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Preferences.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Options.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Forward and Futures Contracts.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Asset Price Dynamics.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
