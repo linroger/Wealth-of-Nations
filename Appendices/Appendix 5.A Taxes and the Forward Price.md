@@ -18,7 +18,7 @@ The important insight is that broker-dealers are marked-to-market for tax purpos
 $$F_{0,     1}=S_0\left(1+r\right)-Div$$
 The same as equation (5.5).
 
-# Appendix 5.C Forward and Futures Prices When Interest Rates Are Random
+# [[Appendices/Appendix 5.C Forward And Futures Prices When Interest Rates Are Random.md|Appendix 5.C Forward and Futures Prices When Interest Rates Are Random]]
 
 This appendix formalizes the difference between forward and futures prices and shows the relationship between them when interest rates are stochastic. We will use the following notation:
 
