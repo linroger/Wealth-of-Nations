@@ -784,7 +784,6 @@ $$c=\Delta S+B=\frac{pc_u+(1-p) c_d}{(1+r)}$$
 
 Where $p=(r-d)/(u-d)$ exactly as before
 
-EXERCISE: Repeat for a put option.
 
 ### Risk Neutral Pricing
 
@@ -823,7 +822,7 @@ On the current stock price $S$ ,  the risk-free interest rate 7 and the strike p
 
 The next thing to do is to allow for more than one period in the binomial model to see if the price of the option can still be calculated in a similar and similarly simple fashion.
 
-# The $Tl$ -period Binomial Model
+# The $T_{1}$ -period Binomial Model
 
 ### Introduction
 
