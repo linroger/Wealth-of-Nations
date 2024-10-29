@@ -1727,10 +1727,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fixed Income/Fixed Income.md"
+                "file": "Appendices/Appendices.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Fixed Income"
+              "title": "File properties for Appendices"
             }
           }
         ],
