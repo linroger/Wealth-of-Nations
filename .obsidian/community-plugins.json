@@ -61,5 +61,6 @@
   "llm-tagger",
   "hamsterbase",
   "external-file-embed-and-link",
-  "github-sync"
+  "github-sync",
+  "obsidian-enhancing-export"
 ]

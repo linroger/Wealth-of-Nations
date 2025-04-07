@@ -39,7 +39,6 @@ cssclasses:
 	- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
 	- [[Exchange Rates and the Foreign Exchange Market- An Asset Approach]]
 	- **[[How Countries Go Broke]]**
-		- [[How Countries Go Broke Chapter Two & Chapter Three]]
 		- [[How Countries Go Broke Introduction & Chapter One]]
 		- [[How Countries Go Broke-Chapter 8 to Chapter 11]]
 		- [[How Countries Go Broke-Chapter 12 to Chapter 14]]
@@ -49,6 +48,7 @@ cssclasses:
 		- [[How Countries Go Broke-Chapter Six & Chapter Seven]]
 		- [[How Countries Go Broke-Chapter Two & Chapter Three]]
 		- [[How Countries Go Broke]]
+		- [[Securitization]]
 	- [[Inflationary Debt Crisis Lecture Notes]]
 	- [[Inflationary Depressions and Currency Crises]]
 	- [[Largest Events Driving Changes to Life Expectancy Through Time]]
