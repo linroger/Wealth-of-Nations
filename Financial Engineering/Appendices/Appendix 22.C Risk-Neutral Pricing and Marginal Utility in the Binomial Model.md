@@ -1,12 +1,12 @@
 ---
-title: Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
+title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
 aliases: [Risk-Neutral Pricing and Marginal Utility in the Binomial Model]
 tags: [Risk-Neutral-Pricing]
 ---
 
-# Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
+# Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
 
-This appendix links the discussion in this chapter to that in Appendix 11.B We now see how the concepts we have just discussed arise in the binomial model. The discussion in this section builds on Appendix 11.B. There are two assets,  a risky stock and a risk-free bond. Investorsare risk-averse,  there is one period and two possible outcomes: a high stock price (the good state) and a low stock price (the bad state). The payoff to the risky stock is $S_{\mathrm{l}}^{H}$ in the high state,  which occurs with probability $p^{H}$ ,  and $S_{\mathrm{l}}^{L}$ in the low state,  with probability $p^{L}=1-p^{H}$ The investor receives a marginal utility of consumption today of $U_{0}^{\prime}(C_{0})$. In the future,  if the high state occurs then the investor consumes $C_{\mathrm{l}}^{H}$ and obtains a marginal utility of ${} U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{H}) {}$. In the low state,  the investor consumes $C_{\mathrm{l}}^{L}$ and obtains a marginal utility of $U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{L})$. As we have discussed,  these consumption levels are consequences of the decisions the investor makes about how much to consume and how to invest savings. We simply take the outcome of this decision process for granted.
+This appendix links the discussion in this chapter to that in Appendix 11. B We now see how the concepts we have just discussed arise in the binomial model. The discussion in this section builds on Appendix 11. B. There are two assets,  a risky stock and a risk-free bond. Investorsare risk-averse,  there is one period and two possible outcomes: a high stock price (the good state) and a low stock price (the bad state). The payoff to the risky stock is $S_{\mathrm{l}}^{H}$ in the high state,  which occurs with probability $p^{H}$ ,  and $S_{\mathrm{l}}^{L}$ in the low state,  with probability $p^{L}=1-p^{H}$ The investor receives a marginal utility of consumption today of $U_{0}^{\prime}(C_{0})$. In the future,  if the high state occurs then the investor consumes $C_{\mathrm{l}}^{H}$ and obtains a marginal utility of ${} U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{H}) {}$. In the low state,  the investor consumes $C_{\mathrm{l}}^{L}$ and obtains a marginal utility of $U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{L})$. As we have discussed,  these consumption levels are consequences of the decisions the investor makes about how much to consume and how to invest savings. We simply take the outcome of this decision process for granted.
 ## Valuing the Stock and Bond with Physical Probabilities
 
 We can directly apply the formulas from the preceding sections to value the stock and bond. It simplifies notation to define the marginal utility ratios $\chi^{H}=U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{H})/U_{0}^{\prime}(C_{0})$ and $\chi^{L}=U_{1}^{\prime}(S_{1}^{L})/U_{0}^{\prime}(C_{0})$ The values $\chi^{H}$ and $x^{L}$ are the stochastic discount factors for the high and low state. The value of the stock at time I will be either $S_{\mathrm{l}}^{H}$ or $S_{\mathrm{l}}^{L}$ . Using equation (22.5),  the value of the stock at time 0 is
@@ -74,4 +74,4 @@ decreases with consumption). Because of this,        $\hat{p}^{H}<p^{H}$ The eff
 > $$S_{0}=[p\times\chi^{H}\times S_{1}^{H}]+[(1-p)\times\chi^{L}\times S_{1}^{L}]\\=Q^{H}\times S_{1}^{H}+Q^{L}\times S_{1}^{L}\text{(22.58)}$$
 > *These are often called“Arrow-Debreu”securities,        named after Nobel prize-winning economists Kenneth Arrow and Gerard Debreu.
 
-Appendix 11.B presents a numerical example corresponding to this discussion
+Appendix 11. B presents a numerical example corresponding to this discussion

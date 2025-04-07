@@ -1,17 +1,14 @@
 ---
 aliases:
 - CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED DEFAULTS
-- Alias_336_Credit Markets Session 5.md
-- Alias_339_Credit Markets Session 5.md
+- 
+- 
 linter-yaml-title-alias: CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED
   DEFAULTS
 tags:
-- tag_example
+- 
 title: Credit Markets Session 5
 ---
-
-
-
 # Credit Markets Session 5
 1. Capital Structure
 	- Structural Approach to Credit Default Risk

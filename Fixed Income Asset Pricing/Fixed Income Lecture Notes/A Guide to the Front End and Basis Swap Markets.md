@@ -270,7 +270,7 @@ Exhibit 5 provides concrete examples of shorthand notation for FRAs followed by 
 
 ### **Exhibit 5: Shorthand notation given a sample calendar with US& UK holidays**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/974721207e499d3353c3a7fee05782af0648025a3670eff805e693187b41be3c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/974721207e499d3353c3a7fee05782af0648025a3670eff805e693187b41be3c.jpg)
 
 Source: Credit Suisse
 
@@ -333,7 +333,7 @@ On September 1,  3-month [[A Guide to the Front End and Basis Swap Markets#Londo
 
 #### **Exhibit 8: Locking in a coupon rate for a floating-rate note**
 
-![](_page_10_Figure_12.jpeg)
+ ![500](_page_10_Figure_12.jpeg)
 
 Source: Credit Suisse
 
@@ -343,9 +343,9 @@ As of June 2009,  the 6 x 12 (6 months forward,  6-month FRA) and 6 x 9 (6 month
 
 Source: Credit Suisse In particular,  had the investor sold the 6 x 12 [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] on 10 June 2009 at 161 bps,  he would have realized a profit of 115 bps,  as
 
-![](_page_11_Figure_5.jpeg)
+ ![500](_page_11_Figure_5.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0170457cf616242d5bf7060159a54dd999a2db93efef5ef9c896c3b016d1663.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0170457cf616242d5bf7060159a54dd999a2db93efef5ef9c896c3b016d1663.jpg)
 
 6-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] fell to 46 bps as of settlement. The hypothetical cash flows
 
@@ -353,7 +353,7 @@ Are shown in Exhibit . 10
 
 #### **Exhibit 10: Hypothetical trade cash flows based on a long 6 x 12 FRA**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ae5216afef55d4c1460c211e85d2059a36fb017dc7182db7f5692bb4ce4f8ab.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ae5216afef55d4c1460c211e85d2059a36fb017dc7182db7f5692bb4ce4f8ab.jpg)
 
 Source: Credit Suisse
 
@@ -373,7 +373,7 @@ In the U.S. market,  the reference rate is the overnight [[A Guide to the Front 
 | [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market | Fed Funds]] Effective              | Spot (t+2) Maturity+2 A/360 |
 | Source: Credit Suisse                                                  |                                    |                             |
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7974fd2787865b5f387bc7801e2cb793ff66ab4e845048bf00ce43afaf0c44e4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7974fd2787865b5f387bc7801e2cb793ff66ab4e845048bf00ce43afaf0c44e4.jpg)
 
 the maintenance period average level of the effective rate and the Fed's stated policy rate. The effective rate data are published on Reuters page FEDM,  Bloomberg page FEDL and Telerate 118. A potential source of confusion in Is is that the fixing is released with a one-day lag the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] effective rate for a given business day is not released until the morning of the following business day,  generally around 7:30am. In addition to the sources cited above,  investors can subscribe to email alerts from the NYFRB at the web address: http://service.govdelivery.com/service/user.html?code=USFRBNEWYORK.
 
@@ -419,7 +419,7 @@ Source: Credit Suisse
 
 Exhibit 12: Example of a hypothetical one-week USD Is trade (spot starting) Trade Date Value Date End Date Payment Date Mon 04-Jan-10 Wed 06-Jan-10 Tue 12-Jan-10 Thu 14-Jan-10
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eea2e974d67f5fbe8bcf83c88b875de9656a8fe4d26d6b673d19c4ed7b5488e3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eea2e974d67f5fbe8bcf83c88b875de9656a8fe4d26d6b673d19c4ed7b5488e3.jpg)
 
 Source: Credit Suisse
 
@@ -431,13 +431,13 @@ Currently money-center banks are paying about 1.00% on 12-month certificates of 
 
 **Exhibit 14: An upward-sloping money market curve allows positive carry for swapping term liabilities to overnight**
 
-![](_page_13_Figure_9.jpeg)
+ ![500](_page_13_Figure_9.jpeg)
 
 The bank might choose to employ such a strategy to express a view that short rates will be lower than implied by the Is market or simply to reduce the duration of its liabilities to match their book of assets better.
 
-![](_page_14_Figure_2.jpeg)
+ ![500](_page_14_Figure_2.jpeg)
 
-![](_page_14_Figure_3.jpeg)
+ ![500](_page_14_Figure_3.jpeg)
 
 Source: Credit Suisse
 
@@ -447,17 +447,17 @@ Liquidity in overnight repo markets is very good but tends to fall off substanti
 
 The diagram in Exhibit 17 shows the mechanics of a synthetic term repo. Specifically,  the investor finances his bond with a repo on an overnight basis. Simultaneously,  he pays fixed in 1-year Is,  against which he
 
-![](_page_14_Figure_8.jpeg)
+ ![500](_page_14_Figure_8.jpeg)
 
 Receives the compounded average of the daily effective funds rate for the year. His net funding cost will be approximately the 1-year Is rate (0.45%) less the average spread between the overnight GC rate and the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] effective (over the past ten years,  GC has averaged 8 bps below the effective rate). This would suggest an expected 1-year funding cost of approximately 0.37%. Note that the actual funding rate will vary based on the realized spread between GC and the effective rate and the spread between the repo rate on the bond and GC (the investor will lose the benefit of any episodes in which the bond trades special in repo). Additionally,  the repo rate is computed using simple interest,  where the effective rate leg of the Is trade is based on compounded interest,  which will reduce the precision of the hedge somewhat; however,  the difference will typically be quite small,  especially at low levels of interest rates.
 
 More generally,  Is can be used to create term funding while raising funds in the overnight market.
 
-![](_page_15_Figure_1.jpeg)
+ ![500](_page_15_Figure_1.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/156b8761889c5cc5a20e22c15abbd1bbc610855a252be4eabe06f53e643ec136.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/156b8761889c5cc5a20e22c15abbd1bbc610855a252be4eabe06f53e643ec136.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3110585e4c97e87b20285a761eda273fd7d789ceb0d136f734c429644b0977ce.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3110585e4c97e87b20285a761eda273fd7d789ceb0d136f734c429644b0977ce.jpg)
 
 Source: Credit Suisse
 
@@ -465,15 +465,15 @@ Source: Credit Suisse
 
 Is can be used along with Treasury bill purchases or sales to express views on T-Bill/Is spreads. Is and T-bill yields are essentially risk free – the T-bill because it is government-backed debt and the Is rate because it is based on lending among depository institutions under the oversight of the Federal Reserve. Thus the difference in the two rates (the spread) is mostly dependent on supply and demand. In times of crisis,  the demand for government debt can soar. Treasuries become the collateral of choice for funding,  using repurchases agreements (repos) in times of high uncertainty. T-Bill/Is spreads therefore tend to widen (on an absolute basis) during a crisis,  as illustrated in Exhibit 18.
 
-![](_page_15_Figure_7.jpeg)
+ ![500](_page_15_Figure_7.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ac33a403e9bc3e9cd05ab704cc5aa06fcba6ecb269d3233577ee5ae756044cb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ac33a403e9bc3e9cd05ab704cc5aa06fcba6ecb269d3233577ee5ae756044cb.jpg)
 
 Distortions in the market allow for opportunities to exploit the dislocation of the spread between the Is and the T-bill (Is equivalent) yields. For instance,  should the spread be highly negative,  an investor expecting risk aversion to fade could short a T-Bill while receiving fixed in a matched-maturity Is (Exhibit 19).
 
-![](_page_15_Figure_9.jpeg)
+ ![500](_page_15_Figure_9.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2136146e6ea6b4c5b43cb24058d59dbbc6b551efce18d7b9badfaa99d9659ef.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2136146e6ea6b4c5b43cb24058d59dbbc6b551efce18d7b9badfaa99d9659ef.jpg)
 
 Source: Credit Suisse
 
@@ -483,21 +483,21 @@ Meeting-to-meeting Is,  which cover the period from a given FOMC meeting to the 
 
 ### **Exhibit 20: Positioning for a higher-than-expected rate hike**
 
-![](_page_16_Figure_5.jpeg)
+ ![500](_page_16_Figure_5.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e521d7af6cdf7cf73c2920b784e2e8a28cad4dc2fd6f712bfc5f6fda531ce0c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e521d7af6cdf7cf73c2920b784e2e8a28cad4dc2fd6f712bfc5f6fda531ce0c.jpg)
 
 Source: Credit Suisse
 
 ### Using Is to hedge one leg of total return swaps
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc7eae587a8ee2658c4bc11e8c2b46473da65583d2c6f507c71803454302c72f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc7eae587a8ee2658c4bc11e8c2b46473da65583d2c6f507c71803454302c72f.jpg)
 
 A total return swap (TRS) consists of exchanging the total return on a reference asset,  such as the S&P 500 Index,  with a floating reference rate plus or minus a spread. Often the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] effective rate is used as the floating reference. If an investor believes the market is underpricing the risk of a Fed hike before the next TRS fixing,  he can pay fixed in an Is spanning the period between TRS fixings to lock in a funding rate. Exhibit presents the mechanics of this hedge. 21
 
 ### **Exhibit 21: Hedging one leg of a total return swap with Is**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ece80a5ad4313df2b23c669a34e3c09d43499b82898f942de15501446e548e32.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ece80a5ad4313df2b23c669a34e3c09d43499b82898f942de15501446e548e32.jpg)
 
 Source: Credit Suisse
 
@@ -505,9 +505,9 @@ Source: Credit Suisse
 
 The spread between current 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and spot 3-month Is (often called the LIBOR/Is spread) is now frequently cited by the financial press,  market commentators and policymakers. The spread is seen as a bellwether for overall credit and liquidity conditions in the interbank market since it represents the premium paid to borrow funds in the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] market versus the more secure[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market]]t. It also embodies a term premium,  as 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is compared with expectations for compounded overnight rates. Market participants can hedge against,  or express a view on,  future moves in LIBOR/Is by combining an [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] trade with a forward-starting Is position.
 
-![](_page_17_Figure_4.jpeg)
+ ![500](_page_17_Figure_4.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5063567f80e1d09f16520c16ffe4c58068629d4a7919146e50aeeb20f8cd49d0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5063567f80e1d09f16520c16ffe4c58068629d4a7919146e50aeeb20f8cd49d0.jpg)
 
 **Exhibit 22: LIBOR/Is spread widened in 2008 with deterioration in bank credit**
 
@@ -515,7 +515,7 @@ Source: Credit Suisse
 
 FRA/Is is quoted as a spread,  where the USD [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] uses actual/360 with payment occurring on the settlement date and the USD Is uses actual/360 (on fixed and floating legs),  with payment occurring two New York business days after the maturity date. The timeline of a FRA/Is is shown in Exhibit 23.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/924290d2cc7da463a0ff7f13fe0195d43855b1f8bbde95525e835f5869d28422.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/924290d2cc7da463a0ff7f13fe0195d43855b1f8bbde95525e835f5869d28422.jpg)
 
 #### **Exhibit 23: FRA/Is Timeline**
 
@@ -531,7 +531,7 @@ FRA/Is is quoted as a spread,  where the USD [[A Guide to the Front End and Basi
 
 Exhibit 23: FRA/Is Timeline
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/577e0e94fafd4834a8863cdc7be2c625725d692b6b5e886137efd4991463e72d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/577e0e94fafd4834a8863cdc7be2c625725d692b6b5e886137efd4991463e72d.jpg)
 
 Source: Credit Suisse
 
@@ -545,21 +545,21 @@ The FRA/Is spread provides a hedge against general bank credit quality. With the
 
 A long FRA/Is spread position provides a hedge against deterioration of bank credit quality. Synthetically,  this would allow an investor to gain exposure to 3 month LIBOR/Is,  which increases with
 
-![](_page_18_Figure_5.jpeg)
+ ![500](_page_18_Figure_5.jpeg)
 
 Worsening bank credit quality. Exhibit 25 illustrates the net exposure based on current levels of 3-month [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] and Is rates,  three months forward. With the fixed rates already determined,  the variable pay-off is then [3 mL - 3 mOIS],  which will result in higher pay-offs with worsening bank credit quality.
 
 ### **Exhibit 25: Constructing a hedge against deteriorating bank credit**
 
-![](_page_18_Figure_8.jpeg)
+ ![500](_page_18_Figure_8.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52e3849c87a08eccbd16df5738b9d951bbf19f6034a36bb05d71be7475792d03.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52e3849c87a08eccbd16df5738b9d951bbf19f6034a36bb05d71be7475792d03.jpg)
 
 Source: Credit Suisse,  the BLOOMBERG PROFESSIONAL™ service
 
 ### Using FRA/Is to express directional view on credit spreads
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6217efc5339939e8afa0c135a735b848bacbf86c0b172277834fa4172bcac968.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6217efc5339939e8afa0c135a735b848bacbf86c0b172277834fa4172bcac968.jpg)
 
 FRA/Is can be used to express a directional view on credit spreads. During 2007 and 2008,  as the banking crisis unfolded,  LIBOR/Is widened significantly and remained at elevated levels until exogenous measures by the government helped credit conditions to thaw.
 
@@ -569,13 +569,13 @@ If an investor had anticipated that LIBOR/Is would come in more quickly than the
 
 **Exhibit 26: FRA/Is to express a directional view on credit spreads**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80840efa1fa244111ad2e5e1842a43a35608eb49360dd0eceec8235c30a46e3e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80840efa1fa244111ad2e5e1842a43a35608eb49360dd0eceec8235c30a46e3e.jpg)
 
 Source: Credit Suisse
 
 **Exhibit 27: Hypothetical FRA/Is trade to anticipate decreasing credit spreads**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bb817f5b2bfdd4855002d4164ead6b06f9627a56cd8bde8eff0c8a0c603049a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bb817f5b2bfdd4855002d4164ead6b06f9627a56cd8bde8eff0c8a0c603049a.jpg)
 
 Source: Credit Suisse,  the BLOOMBERG PROFESSIONAL™ service
 
@@ -583,11 +583,11 @@ Source: Credit Suisse,  the BLOOMBERG PROFESSIONAL™ service
 
 Historically,  swap spreads and the LIBOR/Is spread have moved closely together. Exhibit 28 illustrates how the 2-year swap spread has generally moved in tandem with the 3-month LIBOR/Is spread. The same relationship also holds true for the 5-year and 10-year swap spreads. Thus being short the FRA/Is spread can be an approximate hedge for a long position in the 2-year swap spread,  for example.
 
-![](_page_19_Figure_11.jpeg)
+ ![500](_page_19_Figure_11.jpeg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b36ed6cda3bac8bf1f805c6080e785507c52f31287156481669132737d44421d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b36ed6cda3bac8bf1f805c6080e785507c52f31287156481669132737d44421d.jpg)
 
 Exhibit 28: FRA/Is as a hedge for swap spreads Source: Credit Suisse
 
@@ -601,11 +601,11 @@ A LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offer
 
 The LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis answers the question: What is the compounded short-tenor rate relative to the long-tenor rate? As shown in Exhibit 29,  the 3 month 1 mL/3 mL basis (3 s 1 s basis) is "X",  the difference between the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] compounded over three months and the 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] also over the same period. A positive 3 s 1 s basis is a result of the compounded 1-month rate being less than the 3-month rate and represents banks' preference to lend for one month rather than three months.
 
-![](_page_20_Figure_6.jpeg)
+ ![500](_page_20_Figure_6.jpeg)
 
 X: 3 month 3 s 1 s basis; Y: 6-month 3 s 1 s basis
 
-![](_page_20_Figure_8.jpeg)
+ ![500](_page_20_Figure_8.jpeg)
 
 LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps can be an indication of lending preference,  basis
 
@@ -615,15 +615,15 @@ In the basis swap market,  spreads (basis) are quoted against the shorter underl
 
 ### **Exhibit 30: 3 s 1 s and 6 s 3 s Basis Swap Structures (for buying/paying the spread)**
 
-![](_page_20_Figure_13.jpeg)
+ ![500](_page_20_Figure_13.jpeg)
 
 Source: Credit Suisse
 
 **The Stub** An important characteristic of the spot starting LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap is the "stub",  the first piece of the basis swap,  which is responsible for exposure to outright market direction. This exposure results from the first fixing being known at trade inception. For example,  at the start of the spot starting 3 s 1 s basis swap,  the first compounding rate for the 1-month tenor is already fixed,  as is the first payment for the 3-month tenor. This exposes the basis swap to changes in market direction. The payer of the basis has long market exposure,  i.e.,  the payer of the basis benefits from lower rates,  and conversely the seller has short market exposure. The stub can be measured as the difference between the longer-tenor [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] fixing and the shorter-tenor interest rate swap (IRS) that lasts for the term of the longer tenor. Thus the 3 s 1 s stub is: [3 mL – 3 m 1 s IRS].
 
-![](_page_21_Figure_1.jpeg)
+ ![500](_page_21_Figure_1.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e5454541771e5a6c1a3049080c9ae5eab66663b9664a857c3a1af3853f942bf.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e5454541771e5a6c1a3049080c9ae5eab66663b9664a857c3a1af3853f942bf.jpg)
 
 Source: Credit Suisse
 
@@ -633,7 +633,7 @@ Bank balance sheets typically have assets tied to 1-month LIBOR,  while their fu
 
 Consider a financial institution that makes a student loan with monthly repayments at 8% over the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate. The funding is typically achieved through the issuance of debt based on 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] (with quarterly payments). Assume this institution
 
-![](_page_21_Figure_7.jpeg)
+ ![500](_page_21_Figure_7.jpeg)
 
 Is able to raise debt at 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] + 80 bps for a 10-year term. In-order to match the quarterly payment of debt based on the 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] to the asset that brings in loan reayments based on 1-month LIBOR,  the financial institution could buy a 3 s 1 s [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap for the term of ten years. The resulting difference between the asset and the funding is locked in,  based on the spread above the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for the asset,  the spread over 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for the debt and the 3 s 1 s basis for a 10-year term. Exhibit 33 shows how the asset and liability in question can be matched using the 3 s 1 s basis swap.
 
@@ -647,49 +647,49 @@ Is able to raise debt at 3-month [[A Guide to the Front End and Basis Swap Marke
 
 **Exhibit 33: Asset Liability Management using a 3 s 1 s LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2fbd47153d9b1fba6e217b326636e88d23a570c32dccf96f19dd276c0bdb44c1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2fbd47153d9b1fba6e217b326636e88d23a570c32dccf96f19dd276c0bdb44c1.jpg)
 
 Source: Credit Suisse
 
 ### Using LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis to express a view on bank credit
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0d5878d28a3887961bb08f29090d06c662821b23f3cc0290f9676a9ee746910.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0d5878d28a3887961bb08f29090d06c662821b23f3cc0290f9676a9ee746910.jpg)
 
 Exhibit 31: History of the Stub Source: Credit Suisse
 
 On 14 November 2008,  the market expectation for 3 s 1 s was extremely low,  as illustrated by the 6-month 3 s 1 s basis swap spread (at 30 bps) versus the then-current spot 1-month/3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spread of 76 bps. At the time,  [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates were on a downward trend and 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] decreased at a much faster pace than 3 month LIBOR. If an investor had believed that [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates would continue to fall over the coming six months and that the preference for shorter-term lending would persist given the uncertainty in the financial markets,  he/she would have found an opportunity in basis swaps.
 
-![](_page_22_Figure_7.jpeg)
+ ![500](_page_22_Figure_7.jpeg)
 
 To take advantage of the low market expectations for the 3 s 1 s basis spread,
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937c2495f4a940d8e2cf052fd6d85d2ea02253304460d942455e4974200af1c9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937c2495f4a940d8e2cf052fd6d85d2ea02253304460d942455e4974200af1c9.jpg)
 
 An investor could have established a long position in the 6-month 3 s 1 s basis (by receiving in 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] vs. Paying in 1-month LIBOR). As it turned out,  the market had overestimated the scope for narrowing in the 1-month/3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spread and a long 3 s 1 s basis position would have been profitable (Exhibit 35).
 
 Is able to raise debt at 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] $^+$ 80 bps for a 10-year term. In-order to match the quarterly payment of debt based on the 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] to the asset that brings in loan repayments based on 1-month LIBOR,  the financial institution could buy a 3 s 1 s LIBOR/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap for the term of ten years. The resulting difference between the asset and the funding is locked in,  based on the spread above the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for the asset,  the spread over 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] for the debt and the 3 s 1 s basis for a 10-year term. Exhibit 33 shows how the asset and liability in question can be matched using the 3 s 1 s basis swap.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/316d7577c908a006105cdf4bf30d9f8119ea26beec1b17e061b037ae862348a3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/316d7577c908a006105cdf4bf30d9f8119ea26beec1b17e061b037ae862348a3.jpg)
 
 Source: Credit Suisse
 
 #### **Exhibit 35: Expressing a view on higher-than-expected term lending premium (6 m 3 s 1 s basis)**
 
-![](_page_22_Figure_11.jpeg)
+ ![500](_page_22_Figure_11.jpeg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8e4c8370177956e5ea7b47302e3933c238325c2d80917d4b9f219eb56d47239.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8e4c8370177956e5ea7b47302e3933c238325c2d80917d4b9f219eb56d47239.jpg)
 
 ### Using 6 s 3 s basis swaps to match bank assets and liabilities
 
 In the international markets,  a significant amount of corporate funding is benchmarked to 6-month LIBOR,  i.e.,  companies raise funding by issuing debt tied to the 6-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate. At the same time,  international companies also generally hold assets linked to 3-month LIBOR. If left unhedged,  the exposure to the 6 s 3 s basis can be a source of risk (Exhibit 36). An investor who wants to minimize this basis risk can buy the 6 s 3 s basis as inexpensive insurance. The mechanics of how this can be achieved are laid out in Exhibit 37 below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1772d5b46e58929d830c6466930dd075c10fc34c392df122e7428136055f0b47.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1772d5b46e58929d830c6466930dd075c10fc34c392df122e7428136055f0b47.jpg)
 
-![](_page_23_Figure_6.jpeg)
+ ![500](_page_23_Figure_6.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8f4301db70ee3731d6590a5edc58b369eeba3923ee71f8f7fa8aac493c02fd2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8f4301db70ee3731d6590a5edc58b369eeba3923ee71f8f7fa8aac493c02fd2.jpg)
 
 Source: Credit Suisse
 
@@ -699,7 +699,7 @@ Issuers of fixed-rate debt may want to have exposure to 1-month [[A Guide to the
 
 **Exhibit 38: 3 s 1 s basis swap used to covert exposure from fixed to 1 m LIBOR**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e281c0374ddadbadfa9c7e3a52120b2777f59510b06c4006320d4c1b902294b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e281c0374ddadbadfa9c7e3a52120b2777f59510b06c4006320d4c1b902294b.jpg)
 
 Source: Credit Suisse
 
@@ -707,17 +707,17 @@ Source: Credit Suisse
 
 Issuers of mortgage loans that are based on the 1-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rate with monthly repayments are often faced with an asset-liability mismatch since the funding for these loans is generally based on 3-month [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates. The 3 s 1 s basis swap enables owners of mortgage portfolios to match their assets and liabilities better. The mechanics of this asset/liability matching using a 3 s 1 s basis swap are shown in Exhibit . 39
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/993cf1542d1b9d999c422ecb8f7fa12c29457349dbe6eaa7ab7c17e1583bfdef.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/993cf1542d1b9d999c422ecb8f7fa12c29457349dbe6eaa7ab7c17e1583bfdef.jpg)
 
 Exhibit 38: 3 s 1 s basis swap used to covert exposure from fixed to 1 m [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Source: Credit Suisse
 
 #### **Exhibit 39: 3 s 1 s basis used to match asset/liability of a mortgage portfolio**
 
-![](_page_24_Figure_9.jpeg)
+ ![500](_page_24_Figure_9.jpeg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ec80ea3f26af967b72e034c2312dad60391ab401486f5a710ab8937587e7816.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ec80ea3f26af967b72e034c2312dad60391ab401486f5a710ab8937587e7816.jpg)
 
 Page left intentionally blank
 
@@ -729,7 +729,7 @@ A fed funds/[[A Guide to the Front End and Basis Swap Markets#London Interbank O
 
 ### **Exhibit 40: Cash flows at each payment date for a FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap**
 
-![](_page_25_Figure_6.jpeg)
+ ![500](_page_25_Figure_6.jpeg)
 
 Source: Credit Suisse
 
@@ -749,7 +749,7 @@ There is a two-day rate cut-off applied to the FF leg of the FF/[[A Guide to the
 | Weight | 1 | 1 | 3 | … | 1 | 4 = 3 + 1 | 0 |
 | Average | 0.17537% |  |  |  |  |  |  |
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/738ce45f48ed432625997d04d59053610807e77865a3a7a6010fac38e41c29f8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/738ce45f48ed432625997d04d59053610807e77865a3a7a6010fac38e41c29f8.jpg)
 
 Source: Credit Suisse
 
@@ -761,7 +761,7 @@ FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Ra
 
 By constructing a repo/Is trade,  an investor can isolate the exposure to repo/Is. Exhibit 42 shows how the repo/Is trade can be created synthetically with the help of a swap spread and the FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap (based on current market prices).
 
-![](_page_26_Figure_5.jpeg)
+ ![500](_page_26_Figure_5.jpeg)
 
 #### **Exhibit 42: Synthetic repo/Is (using swap spread and FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap)**
 
@@ -771,24 +771,24 @@ By constructing a repo/Is trade,  an investor can isolate the exposure to repo/I
 
 The demand,  and thus the supply,  for [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] floaters has grown as investors seek to avoid LIBOR/FF spread risk in uncertain market environments. [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] floaters are also an attractive alternative for investors who use the repo market for overnight liquidity. These investors can invest core liquidity daily in a [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] floater instead of investing cash in the repo market,  which can sometimes be prone to limitations based on dealer balance sheets.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38edca956a9fd39733f242bfc49e302dce6f474ad817341de16bdeee63d4ba70.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38edca956a9fd39733f242bfc49e302dce6f474ad817341de16bdeee63d4ba70.jpg)
 
-![](_page_27_Figure_2.jpeg)
+ ![500](_page_27_Figure_2.jpeg)
 
-![](_page_27_Figure_3.jpeg)
+ ![500](_page_27_Figure_3.jpeg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c37c19a2188e23bffd2a6c2fe5f00bf3ba4c380ac60797ae4027aa6cacf891a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c37c19a2188e23bffd2a6c2fe5f00bf3ba4c380ac60797ae4027aa6cacf891a.jpg)
 
 ### Using FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps to extract 5 yr 5 yr real fed funds
 
 FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps allow investors to determine the market-implied 5 yr 5 yr real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] . Specifically,  5-year and 10-year FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps can be used along with 5 yr 5 yr swaps to extract the market-implied 5 yr 5 yr [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] ,  which can then be used in conjunction with the 5 yr 5 yr TIPS breakeven to construct the market-implied 5 yr 5 yr real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] . Standard interest rate rules specify that the long-run equilibrium for the real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] is somewhere between 2% and 3%. The market-implied 5 yr 5 yr real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] is presented in Exhibit 44. Dislocations from the long-run equilibrium may provide trading opportunities. For instance,  when the market-implied real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] is higher than 3%,  it is likely the implied rate will revert toward the long-run equilibrium range. An investor can express this view by receiving fixed in a 5 yr 5 yr Is while being long the 5 yr 5 yr TIPS breakevens.
 
-![](_page_27_Figure_7.jpeg)
+ ![500](_page_27_Figure_7.jpeg)
 
 **Exhibit 44: Market-implied real [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds Rate]] using FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps**
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a0e367dc879d8cd4c970a9cb9486ec16ee3e3649806bc1a9ebaf50efe879cc2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a0e367dc879d8cd4c970a9cb9486ec16ee3e3649806bc1a9ebaf50efe879cc2.jpg)
 Exhibit 43: Synthetic 3 m [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] funding (2 yr FF floater $^+$ 2 yr FF/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap)
 
 Source: Credit Suisse
@@ -805,7 +805,7 @@ A variant on the prime/[[A Guide to the Front End and Basis Swap Markets#London 
 
 **Exhibit 45: Historical Prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Spread**
 
-![](_page_28_Figure_8.jpeg)
+ ![500](_page_28_Figure_8.jpeg)
 
 ### Using prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swaps for asset liability matching
 
@@ -813,9 +813,9 @@ Banks often issue loans that are based on the prime rate with monthly repayments
 
 Assume a bank has a student loan portfolio with a maturity of ten years based on prime + 100 bps. Further,  assume the portfolio is funded by Eurodollar deposits that pay 3-month LIBOR. As seen in Exhibit 45,  the spread between the funding rate and the interest income from the loan is volatile and can be a source of risk. To hedge against the volatility in the prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spread,  the bank can pay prime versus [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] in a swap to lock in the difference between the funding rate and the interest income (Exhibit ). 46
 
-![](_page_29_Figure_2.jpeg)
+ ![500](_page_29_Figure_2.jpeg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5e3c3c98902d6a73edd4d67f347de332b5066cd7a48099fa7e92c044ab80aa5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5e3c3c98902d6a73edd4d67f347de332b5066cd7a48099fa7e92c044ab80aa5.jpg)
 
 **Exhibit 46: Matching bank assets and liabilities with a 10-year prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap**
 
@@ -827,7 +827,7 @@ Issuers of floating-rate notes based on the prime rate may seek to fund in 3-mon
 
 ### **Exhibit 47: Using a prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap to hedge a prime floater**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/91751f975b487039ce5a45f711126c2117a43fef6785466b6f32837c546fa881.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/91751f975b487039ce5a45f711126c2117a43fef6785466b6f32837c546fa881.jpg)
 
 Source: Credit Suisse
 
@@ -835,11 +835,11 @@ Source: Credit Suisse
 
 The prime rate is the only rate that directly references the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target. The prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap can be used together with the FRA/Is spread to express a view on the divergence of the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] effective from the target. If an investor expects the difference between the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target rate and the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] effective rate to widen,  the hypothetical trade illustrated in Exhibit could be used to express this view. If,  on average,  over the three-month period starting three months from trade date,  the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target is higher than the effective by more than 5 bps,  the trade would result in a profit. Currently,  the relevant target for prime is the upper end of the Fed's range for the effective (0% - 0.25%); the effective has been trading 11-14 bps below this upper band. 48
 
-![](_page_30_Figure_2.jpeg)
+ ![500](_page_30_Figure_2.jpeg)
 
 Assume a bank has a student loan portfolio with a maturity of ten years based on prime $^+$ 100 bps. Further,  assume the portfolio is funded by Eurodollar deposits that pay 3-month LIBOR. As seen in Exhibit 45,  the spread between the funding rate and the interest income from the loan is volatile and can be a source of risk. To hedge against the volatility in the prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spread,  the bank can pay prime versus [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] in a swap to lock in the difference between the funding rate and the interest income (Exhibit 46 ).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/224c7093b2046865620d153da46fa3118c049568baf88a802e83401ca953bdcf.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/224c7093b2046865620d153da46fa3118c049568baf88a802e83401ca953bdcf.jpg)
 
 #### **Exhibit 48: Anticipating divergence of fed effective and target using a prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap**
 
@@ -851,13 +851,13 @@ Banks that issue credit cards often have credit card rates tied to the prime rat
 
 #### **Exhibit 49: Hedging mismatch between assets & liabilities of a credit card portfolio**
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01d2706b23f6fc43d48023a2e4d22109f8d27ae02df3079b084d2155fb9f8236.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01d2706b23f6fc43d48023a2e4d22109f8d27ae02df3079b084d2155fb9f8236.jpg)
 
 Source: Credit Suisse
 
 # Prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] Basis Swap Overview
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fd5a1f4672a5de0ee6dd4d0fbf0f31df97f9ba30df01b22fe43e394d90746a4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fd5a1f4672a5de0ee6dd4d0fbf0f31df97f9ba30df01b22fe43e394d90746a4.jpg)
 
 Exhibit 48: Anticipating divergence of fed effective and target using a prime/[[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] basis swap Source: Credit Suisse
 
@@ -865,17 +865,17 @@ A prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|F
 
 ### Using prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] basis swaps to express a view on consumer credit quality
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0eaf8e91b17f0a0d594c111ee8158c66b92a448013774b4115818b1b8981d999.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0eaf8e91b17f0a0d594c111ee8158c66b92a448013774b4115818b1b8981d999.jpg)
 
 The prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] basis can be viewed as a proxy for consumer credit quality,  with the prime leg tied to lending rate for banks' most creditworthy customers and the FF leg tied to a near risk-free interest rate. In practice,  the prime rate is 300 bps over the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target rate and changes only with the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target. However,  if consumer credit deteriorates significantly,  it is not unthinkable for banks to increase the spread over the [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] target from current levels. If an investor believed this event was imminent,  he/she could express this view by receiving the prime leg and paying the FF leg,  as shown in Exhibit 50.
 
 #### **Exhibit 50: Short prime/FF basis to anticipate declining consumer credit quality**
 
-![](_page_31_Figure_7.jpeg)
+ ![500](_page_31_Figure_7.jpeg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44417e5cf6d95f6007443387783186cc0e120dc2ff1a1ab8de77bdea26896bfa.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44417e5cf6d95f6007443387783186cc0e120dc2ff1a1ab8de77bdea26896bfa.jpg)
 
 ### Using prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] basis swaps to express a view on divergence of fed effective from target
 
@@ -885,11 +885,11 @@ The prime/[[A Guide to the Front End and Basis Swap Markets#Federal Funds Market
 
 Basic Instruments
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/148a230a4e6db73d66371e7f44b9d05cb5d5573505ab04b4c55a0d1020c6d585.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/148a230a4e6db73d66371e7f44b9d05cb5d5573505ab04b4c55a0d1020c6d585.jpg)
 
 Source: Credit Suisse
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7645b67cf16df8427a4089a991fff529bf303d23e7f17f343506ccdce8b9577f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7645b67cf16df8427a4089a991fff529bf303d23e7f17f343506ccdce8b9577f.jpg)
 
 ## Appendix: Sample Term Sheets
 

@@ -89,7 +89,7 @@ Grading
 
 Here is a guide to the chapters in the full textbook and the custom e-book  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f3b99ba55c7d77a601728eaa0c440a4f9afdbc3dd3b1a84f1241b2a05001ec6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f3b99ba55c7d77a601728eaa0c440a4f9afdbc3dd3b1a84f1241b2a05001ec6.jpg)  
 # Problems & Study Groups  
 
 Problems assigned and due roughly weekly  
@@ -187,7 +187,7 @@ I. Business like any company: raises funds and invests
 II. Creating money (liquidity)  
 
 • Money is complicated, and later we will spend some time on money • For now, take my word that banks “create” something we use for day-to-day transactions  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53e3efe6d2c13664e6504c08c2e8240f4c9558e260e241e68d8d113d2ef5bd7a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53e3efe6d2c13664e6504c08c2e8240f4c9558e260e241e68d8d113d2ef5bd7a.jpg)  
 
 We can look in a simple bank balance sheet to see the two activities.  
 
@@ -204,7 +204,7 @@ To Understand Deposits – Think about  Money What is money? One of the hardest 
 
 • Worked pretty well as money for many years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e93be24dcbd24655cf5a242ec81681d6940b4d56f094f39553221d92824cc070.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e93be24dcbd24655cf5a242ec81681d6940b4d56f094f39553221d92824cc070.jpg)  
 
 Currency  is (or was) Pretty Good as Money  
 
@@ -220,7 +220,7 @@ A piece of paper printed by the government
 
 • Pretty good as “money” for many years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3a8c3a76b8de45c0d7584da161b5dbcc423b038807f40c7b425d4e92481443b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3a8c3a76b8de45c0d7584da161b5dbcc423b038807f40c7b425d4e92481443b.jpg)  
 # More Money –  Demand Deposits  
 
 • Currency good for face-to-face – not as good for distant and electronic transactions –  Need something that can be easily stored and transferred electronically  
@@ -251,9 +251,9 @@ Deposit loans are day-by-day
 
 • When default, ﬁrst person in line gets  $\S100$  , last gets zero  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/046bdb2d01d347687fb2dc9c7d390e8cb6eafdd6c1056dfdc3c6d29e6e29917d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/046bdb2d01d347687fb2dc9c7d390e8cb6eafdd6c1056dfdc3c6d29e6e29917d.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44971874e693e879cc4eb897e285dab801c9e352a76b967ae7aa4748a76955a6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44971874e693e879cc4eb897e285dab801c9e352a76b967ae7aa4748a76955a6.jpg)  
 # 4.2 Liquidity, Solvency, and Inherent Instabilities in Banking  
 
 # Contents  
@@ -267,21 +267,21 @@ Use SVB to Illustrate  Solvency  and  Liquidity  Problems Solvency : Consider SV
 • Shares (equity) loses value  
 
 SVB Actual 2022 (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cdfba9b022f258240510c606e523884fc6746e53699056d0fce01d51eb2b68b2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cdfba9b022f258240510c606e523884fc6746e53699056d0fce01d51eb2b68b2.jpg)  
 
 SVB “Big Loss” (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/977070406f7e1b2b01e73c0c89375c90e1697a5179bf764c0b385bece6daf925.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/977070406f7e1b2b01e73c0c89375c90e1697a5179bf764c0b385bece6daf925.jpg)  
 
 With “Big Loss” SVB is barely solvent (almost insolvent or “in default”) • Insolvency (default) means not enough assets to pay back debtors • In this example, just barely solvent (assets just more than debts) In this case debtors are (mostly) depositors  
 
 # Solvency  versus SVB Actual 2022 (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a70bad6b78d1f48511944edacb29df5892e20c9f6bb331695ab7992237a3576.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a70bad6b78d1f48511944edacb29df5892e20c9f6bb331695ab7992237a3576.jpg)  
 
 # SVB “Big Loss” (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b02c5b3de609109836e7387d632942aefd32126f3ffe5de5ca5967a0a1cb90e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b02c5b3de609109836e7387d632942aefd32126f3ffe5de5ca5967a0a1cb90e.jpg)  
 
 Now in a very delicate position, with both  Solvency Risks  and  Liquidity Risks Solvency Risk  
 
@@ -329,7 +329,7 @@ SVB did more-or-less the opposite – it was hard to get the true numbers behind
 
 • Horrible, dangerous idea, but bankers (and regulators) do not like or trust market prices and markto-market  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a3d8474398b155dc8e2ed0b710d76716042349691a5dd59c4a8e6f8526c161a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a3d8474398b155dc8e2ed0b710d76716042349691a5dd59c4a8e6f8526c161a.jpg)  
 
 $\%$   of total assets, and SVB stands out as above average  
 
@@ -343,7 +343,7 @@ SVB (apparently) did a horrible job at this
 
 • They eventually had to sell all of their non-HtM portfolio (called  Available for Sale  assets) and lost  $\S1.8\mathrm{bin}$  . No doubt more losses in the HtM portfolio  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca2fd4e2df31c7661a9e3c0d46cb9f70f6f974186fff2139fd68cdcab2663f07.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca2fd4e2df31c7661a9e3c0d46cb9f70f6f974186fff2139fd68cdcab2663f07.jpg)  
 # My Conclusion: SVB Made Mistakes, But Did Many Things Right  
 
 SVB did many things right.  
@@ -376,16 +376,16 @@ When run started, massive loss of deposits.
 
 • I’ve heard \$41bn left in a day or two • Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/683efcabcec39fb4fd6c1bf2ba0ca34e60d389ace230b3d14acad4cfbdb2bfb1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/683efcabcec39fb4fd6c1bf2ba0ca34e60d389ace230b3d14acad4cfbdb2bfb1.jpg)  
 SVB “Big Loss” (\$bn)  
 
 SVB Actual 2022 (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbea8d5d453b441842cf935ac0432934c8f8d1e7ca2388ada115f2016a13b78d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbea8d5d453b441842cf935ac0432934c8f8d1e7ca2388ada115f2016a13b78d.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6b29aa0271fda0554586a5abd9f27e3e5feaaa7a1b32525d8084d44bac1bb0a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6b29aa0271fda0554586a5abd9f27e3e5feaaa7a1b32525d8084d44bac1bb0a.jpg)  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fceb5cc25c203bb01f0659a4ec8e6f018e785e1ba4163734ac1e8f613a0ec8fb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fceb5cc25c203bb01f0659a4ec8e6f018e785e1ba4163734ac1e8f613a0ec8fb.jpg)  
 
 from https://www.nytimes.com/interactive/2023/03/18/business/why-people-are-worried-aboutbanks.html  
 # 5.1 First Republic  
@@ -396,13 +396,13 @@ from https://www.nytimes.com/interactive/2023/03/18/business/why-people-are-worr
 
 Gains & losses for both HtM and AfS portfolio • Losses as   $\%$   of deposits – FRB up to about   $3.5\%$  • Look at the “Big Loss” below – showing 3.5% of deposits • First Republic painful, but not insolvent • My view – caught in liquidity panic • Might survive, might not. But very di!erent from SVB  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97d851e5ec35536f69aa0b2051b74926f930a8bbe02e5e1ae28b6c6c980e648c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97d851e5ec35536f69aa0b2051b74926f930a8bbe02e5e1ae28b6c6c980e648c.jpg)  
 FRB “Big Loss” (\$bn)  
 
 FRB Actual 2022 (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ae043ccce27de6ece76549ea82a9a7f9cec5917b1598cf200264c23ad2612bd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ae043ccce27de6ece76549ea82a9a7f9cec5917b1598cf200264c23ad2612bd.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acea3afa1a0c255872426fe2bd47ac5a04afc656d8a3cf560f327c75f3d13570.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acea3afa1a0c255872426fe2bd47ac5a04afc656d8a3cf560f327c75f3d13570.jpg)  
 # 6 Deeper into Asset-Liability (Duration) Mismatch  
 
 # Contents  
@@ -419,7 +419,7 @@ Some points re any bank balance sheet:
 
 • Liabilities (deposits) short-dated  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2e3efa8ff650ed4d22e0f7d918fa5919de18212cd653420cbfe2f97a6a7229c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2e3efa8ff650ed4d22e0f7d918fa5919de18212cd653420cbfe2f97a6a7229c.jpg)  
 
 Let’s use some of our tools (BPV and duration) for quick calculations on assets vs liabilities • BPV and duration is what this course is about – you will learn this in the next few weeks  
 
@@ -438,7 +438,7 @@ In reality,  some  deposits are “sticky”
 
 Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2482ca524fd4e8b8c83e70f2ca1051eeae329394232e5885641d56dcacc38e3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2482ca524fd4e8b8c83e70f2ca1051eeae329394232e5885641d56dcacc38e3.jpg)  
 
 # References  
 # Derivatives – Futures & Options  
@@ -472,7 +472,7 @@ Remember – Derivatives – Not Assets, “Derived” from Assets What is “De
 
 Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/33ff395658b0963b2393d7203262a6900982ffdd63bfaa4bd69c6081d7ee2c09.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/33ff395658b0963b2393d7203262a6900982ffdd63bfaa4bd69c6081d7ee2c09.jpg)  
 
 Important components:  
 
@@ -504,17 +504,17 @@ Important components:
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d2f19909cfc907fcb1d2400e4c655463c684c60f4a8413cfb1b384ff45bb2fb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d2f19909cfc907fcb1d2400e4c655463c684c60f4a8413cfb1b384ff45bb2fb.jpg)  
 # Movie “Trading Places” – Frozen Orange Juice  
 
 Movie  Trading Places  from 1983, starring Eddie Murphy, Dan Aykroyd, Jamie Lee Curtis • Best I’ve seen of (old-style) open-pit futures trading Fun movie based around trading Orange Juice futures  
 
 • The older bad guys have stolen a crop report (inside information) • They believe OJ crop will be poor, pushing prices up • Aykroyd & Murphy switched the report; they know crop will be good • Bad guys order their trader to buy futures, before report released • Others see what’s happening, everyone starts buying • Aykroyd & Murphy wait until price is high, then sell at high price • When good news comes out and price falls, Aykroyd & Murphy buy back at low price  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4aa712ea0de6d2333a59909a6d15997d441f50e316c8de3549f6f7ac014e17cf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4aa712ea0de6d2333a59909a6d15997d441f50e316c8de3549f6f7ac014e17cf.jpg)  
 # Movie “Trading Places” – Frozen Orange Juice  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44bae19ff0ab2ffdff3cf5a484b25ba7caa5cd93178f23b2ae3535b29807349.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44bae19ff0ab2ffdff3cf5a484b25ba7caa5cd93178f23b2ae3535b29807349.jpg)  
 
 • Start: In the NY exchange, but very much the same in Chicago. Everything used to be in physical “pits”  
 
@@ -616,7 +616,7 @@ At end of contract, need to force futures to match cash market How to do this fo
 
 TNZ8 Price 5-oct = 124.265625. Deliverable bonds:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269a33ee6ab1f5f4e4501df9cece43ea11f7be15e81204ba4a8bc3ebed643e47.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269a33ee6ab1f5f4e4501df9cece43ea11f7be15e81204ba4a8bc3ebed643e47.jpg)  
 
 List of bonds, convert quoted futures price into trading price for delivery  
 
@@ -664,7 +664,7 @@ Agree today to sell at    $P_{n}{=}\P100.98$
 In 1 yr, sell at   $\S100.98\$  , buy (with   $\S100.98\$  )  
 
 •    $P_{n}$   above   $\S100.98\$   you lose, •    $P_{n}$   below   $\S100.98\$   you win  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2aebde7f06d5aeda372bf490e210b32d09deeb003332293a0ba3970947a08536.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2aebde7f06d5aeda372bf490e210b32d09deeb003332293a0ba3970947a08536.jpg)  
 # Equity Futures Pricing – Dividends  
 
 e-mini ESH9 (mar 19) on 5-oct-18: 2902.75.  
@@ -683,8 +683,8 @@ $$
 
 We can always translate    $P V\leftrightarrow F V$  But we always need to look at either PV or FV  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d72074837267b88b9df6ce669b1c5991dc4bea6dc7719d720413fe0acea2857d.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23efbc93291c38b90f6d65d7f0bb272048e48db85b33d1bd877b129892e58fdd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d72074837267b88b9df6ce669b1c5991dc4bea6dc7719d720413fe0acea2857d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23efbc93291c38b90f6d65d7f0bb272048e48db85b33d1bd877b129892e58fdd.jpg)  
 
 # A Appendix – Supplement and Not Covered in Class – RiskNeutral Valuation, Options, Callable Bonds  
 
@@ -705,7 +705,7 @@ C E=p^{*}\cdot C_{o r i g}^{l o}+(1-p^{*})\cdot C_{o r i g}^{h i}\neq p\cdot C_{
 $$  
 
 More complicated, but really useful for options  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78110c34e256ad7d30bb634689ea48200972909c783c8600aafbfec0f4081136.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78110c34e256ad7d30bb634689ea48200972909c783c8600aafbfec0f4081136.jpg)  
 
 # A.2 Equity Option Terms & Valuation  
 
@@ -750,7 +750,7 @@ For valuation we:
 
 1.  Back out average forward price (on May 18) from today’s price 2. Get some estimate / assumption for volatility (spread) of price distribution 3. Get our option CFs and average – in this case    $E\left[P-105\mid P>105\right]$  4. Discount back at risk-free rate  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2c29b74f67c7cac14fb8970d28a45e2118e337644bf052d2d841f1222a1d5e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2c29b74f67c7cac14fb8970d28a45e2118e337644bf052d2d841f1222a1d5e.jpg)  
 
 •  Assume volatility    $\sigma=14.5\%$  
 
@@ -761,22 +761,22 @@ For valuation we:
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/777a04e5e3adc7595629046d3766b63c00883df7f4c81bb2d39e28a4d0dcd7c7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/777a04e5e3adc7595629046d3766b63c00883df7f4c81bb2d39e28a4d0dcd7c7.jpg)  
 
 # Calculation with Spread-Sheet and HP 17B app  
 
 Spread-sheet on Canvas (Saved with data for problem set)   Black fwd  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f1ae3bd6133bbe8107879dee1a84f519058ec93f91e68364b6d075cc680e4ce.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f1ae3bd6133bbe8107879dee1a84f519058ec93f91e68364b6d075cc680e4ce.jpg)  
 
 HP 17B App – BSCH menu (under Finance)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7407a5ee17e35f8d125b37e3b59741a17084ec6a188116dbf735ee719b830ec0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7407a5ee17e35f8d125b37e3b59741a17084ec6a188116dbf735ee719b830ec0.jpg)  
 # A.4 Application – Callable Bonds  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7dee6b2cbaf49a1b3b9c1f2b807430c95f9630451573c7cbe087aff1d3025ac.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7dee6b2cbaf49a1b3b9c1f2b807430c95f9630451573c7cbe087aff1d3025ac.jpg)  
 
 From Bank of America’s perspective, the call feature is a call option: if bond price   $<100$   then no extra proﬁt (but no loss) while if P  $>$  100 BAC gets extra proﬁt, P–100  
 
@@ -818,8 +818,8 @@ $$
 
 Now we need to value the callable bond. But we know exactly how to do that: simply use the Black-Scholes option formula  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cebfbadf7d66eb9f3e834620270fb3cb6017f8fe344f9f71abf488acdcd7b1b8.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5da5a01ae2803417de21f5a25ece1f0680a0b3cf0438e3ee41e89bc5e47e7e0b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cebfbadf7d66eb9f3e834620270fb3cb6017f8fe344f9f71abf488acdcd7b1b8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5da5a01ae2803417de21f5a25ece1f0680a0b3cf0438e3ee41e89bc5e47e7e0b.jpg)  
 
 Note: there is no easy way to do this bond option on the HP calculator. The reason is that the HP formula takes in the spot price (price today) and calculates the forward price.  
 
@@ -839,10 +839,10 @@ $$
 
 You can use the calculator but you have to calculate the spot (stock) price that the calculator needs to produce a forward price of 96.01:    $S_{0}=S_{T}\cdot\exp(-r T)=96.01\cdot\exp(-.0485\cdot2.53)=84.923$  . This is completely di!erent from the actual spot price of the bond (\$95.80) because there are coupons that the forward pricing formula    $S_{0}=S_{T}\cdot\exp(-r T)$   does not take into account.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b25bdd50dd06d6fffe412a2c47e4827d6aa5de0f5161ec6535f6ac634314a46.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b25bdd50dd06d6fffe412a2c47e4827d6aa5de0f5161ec6535f6ac634314a46.jpg)  
 # Yield-to-Maturity Too High For Callable  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/661902768b9aca9be99e9f7862a879ab3d67ca2598ac39a76361ce0e07cc227e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/661902768b9aca9be99e9f7862a879ab3d67ca2598ac39a76361ce0e07cc227e.jpg)  
 
 Market:  $P_{c}=95.80$  
 
@@ -856,7 +856,7 @@ For callable, we earn less. Using standard ytm overstates what we earn
 
 • Try lower yields until    $P_{c}(y^{*})=P_{n c}(y^{*})-C a l l(y^{*})=P_{m a r k e t}$  • Problem set: you solve for    $y^{*}\mathrm{~-~}4.50\%$   guess not low enough  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b9f15b8a7acc2d9eb449fb3f08dfba02adc143e9bc953be6cd4d36561c10c3f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b9f15b8a7acc2d9eb449fb3f08dfba02adc143e9bc953be6cd4d36561c10c3f.jpg)  
 
 For a standard bond we solve for the yield-to-maturity from the simple discounting formula  
 
@@ -889,22 +889,22 @@ As an example, let’s look at:
 
 •   $\mathrm{y}^{\ast}=4.50\%\mathrm{ab}$   which means spot price (settle 19-feb-2016, maturity 1-sep-2045) is 103.207 • The HP BOND menu for doing the forward pricing (settle 19-feb-2016, maturity 1-sep-2018, call 98.038) is:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d166b9a555c704f69844d3ef091b9b11fe51dfe55bbc406eb1fa864c41ca73.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d166b9a555c704f69844d3ef091b9b11fe51dfe55bbc406eb1fa864c41ca73.jpg)  
 
 This produces the desired spot price (or close enough, 103.2056) so a forward price of 98.038 is the spot price given by the risk-free rate (from 19-feb-2016 to 1-sep-2018) of   $2.61\%\mathrm{ab}$  .  
 
 Now we can calculate the Black-Scholes option price, using as the “short rate” the UST yield of  $2.61\%\mathrm{ab}$     $(2.58\%c c)$  .  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc52355667ee9e1f83c54dfe6d33cbac8ecfd37004318ad15a59911288f931ff.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc52355667ee9e1f83c54dfe6d33cbac8ecfd37004318ad15a59911288f931ff.jpg)  
 
 Option Pricing For BAC bond using risk-free rate of   $2.61\%\mathrm{ab}$   to calculate forward price  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5389772e127160c9dc62f79a24e38abec23a7d2bff9081e05e645832dd28045.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5389772e127160c9dc62f79a24e38abec23a7d2bff9081e05e645832dd28045.jpg)  
 
 Option Pricing For BAC bond using risk-free rate of   $2.61\%$  ab to calculate forward price If we go through this laborious process we will get an answer not too far from Bloomberg. (Note  
 that 4.500%ab is not too far o! – the Pc is 96.157, slightly higher than the market price of   $\S95.80$  , meaning that the yield of 4.50%ab is too low.)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f650306f5ade125de288826ce30d45e53d87d11cbcab2da636c3a8d48a2275ac.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f650306f5ade125de288826ce30d45e53d87d11cbcab2da636c3a8d48a2275ac.jpg)  
 
 # Bloomberg OAS for BAC  
 
@@ -962,7 +962,7 @@ These “complicated” derivatives are not that di!cult after all
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01ae570a03d066f2dee118cd092b96ac01741ce3fdba1b09ae25ce94928e3bcb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01ae570a03d066f2dee118cd092b96ac01741ce3fdba1b09ae25ce94928e3bcb.jpg)  
 
 This trick of replacing the 4th year ﬂoating payment with   $\S100$   at yr 3 is really general but really powerful  
 
@@ -995,9 +995,9 @@ London Interbank O"ered Rate Floats up / dn until
 
 # 2-nov-18 LIBOR rates:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5de2d8a15967dd8a208624b805ddd9dc5490bf17080a03b2fac9b66ac7d3d583.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5de2d8a15967dd8a208624b805ddd9dc5490bf17080a03b2fac9b66ac7d3d583.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35c8529bd63900aced60a6db182c4f617f7275666138b7c2a849a780683effbb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35c8529bd63900aced60a6db182c4f617f7275666138b7c2a849a780683effbb.jpg)  
 
 # SOFR  
 
@@ -1032,15 +1032,15 @@ So far, working with ﬁxed coupon bonds • Our old friend,   $4~\mathrm{yr}~6.
 
 BUT, could also think about “ﬂoating coupon” • Each year, agree to pay current 1yr rate • Still 4 yrs, but now coupon “ﬂoats”  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c2d84022e14dc0bfb49d2cffa2a2a9c1866c3c9dfe3607951da6f2f32923147.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c2d84022e14dc0bfb49d2cffa2a2a9c1866c3c9dfe3607951da6f2f32923147.jpg)  
 
 Draw CF diagram and discounting exactly same • Dashed line to represent “ﬂoating” But how do we value those “unknown” CFs?  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3cdc70e951c5191aa02ff70590fc59033f72b3f89957a0b1e0ee4c4c25bf012f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3cdc70e951c5191aa02ff70590fc59033f72b3f89957a0b1e0ee4c4c25bf012f.jpg)  
 What is PV of those future unknown CFs? • Simple “trick” says   $\mathrm{PV}=100$  Not really a “trick” – just deﬁnition of libor ﬂoating rate • Libor is set so that   $\mathrm{PV}(100\mathrm{+biggr})=100$  • Libor rate up-and-down (supply/demand) until PV=100 Must be   $\S100$   (yld=coup) • Trick: rate at yr 3:  $\begin{array}{l}{-\mathrm{~libr~set~so~PV}(\mathrm{yr}3)=\S100}\\ {-\mathrm{~so~put~in~}\S100\mathrm{~at~yr~}3}\end{array}$  • Now move back to yr 2, then yr 1 • Run back to today (yr 0) PV today has to be   $\S100$  discount yld=libor 100 100 floating coupons floating coupons   = libor+0   = libor+0 N=4 N=4 PV=100 PV=100 PV=100  
 # 2.3 Risky Floating Rate Notes (Bonds) – Libor + Spread Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9c67f10171e62c7f3924ec769f8a13b824f24afc0a3ce1ac69a752736f36ec5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9c67f10171e62c7f3924ec769f8a13b824f24afc0a3ce1ac69a752736f36ec5.jpg)  
 # 3 Interest Rate Swaps  
 
 3.1 What is a Swap? How to PV?  
@@ -1057,18 +1057,18 @@ Focus on a ﬁxed-ﬂoating swap
 
 • Concrete ness – dealer receives ﬁxed and pays ﬂoating. • Traditional swap diagram showing the direction of cash ﬂows  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1618a8d76233dfb5be67fc92edd3816abb0e910721376c964f95fcbdeae8aa0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1618a8d76233dfb5be67fc92edd3816abb0e910721376c964f95fcbdeae8aa0.jpg)  
 
 What is a Swap? – CF Diagram Traditional CF diagram useful for seeing who gets paid what.  
 
 • But useless for understanding valuation, PV I ﬁnd the following CF / time-line diagram more useful • Four years, receive 5% ﬁxed, pay ﬂoating semi-(annually) • Actual USD swaps generally semi ﬁxed, quarterly ﬂoating • Swap contract to exchange cash ﬂows Simple instrument, but question • How do we value? How do we get PV and DV01? Valuation is pretty simple, using a simple trick.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5a4df5467f3f8a38cca0ce544bc79132a903febc9c3f9149bc9e5ae529d0ecd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5a4df5467f3f8a38cca0ce544bc79132a903febc9c3f9149bc9e5ae529d0ecd.jpg)  
 
 Floating coupon - initially set today then reset every half year  
 # Valuation Simple, Trick for IRS  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718bc1da77efbcba9d04ed2e1d5cb24f52623465feec9fd19fe72b92c0b04123.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718bc1da77efbcba9d04ed2e1d5cb24f52623465feec9fd19fe72b92c0b04123.jpg)  
 Read the chapter on swaps in my “Practical Guide to Bonds & Swaps” on Canvas  
 # In-Class Exercise for Swap Valuation  
 
@@ -1078,7 +1078,7 @@ Now we know answers
 
 • In-class Exercise – PV of swap PV of 5yr swap to receive 5% ﬁxed semi – current rate 1.7%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7919d815428db97b204717ed70347c816dab2e0f00c4ae4ad23b230481a4efb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7919d815428db97b204717ed70347c816dab2e0f00c4ae4ad23b230481a4efb.jpg)  
 
 •   $\mathrm{PV}(\mathrm{swap})=115.75-100=\S15.75$  • BPV of swap = 5.20 \$/100bp  
 
@@ -1090,7 +1090,7 @@ You now know everything about swaps
 
 • Risk (BPV of bond)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a498954a4b4cd257c19935ea8c31977e9fcd9f0444b1a0f7228d647e3eeb3d4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a498954a4b4cd257c19935ea8c31977e9fcd9f0444b1a0f7228d647e3eeb3d4.jpg)  
 
 PV(swap rec  $5\%$  ) =      $^+$   PV(  $5\%$   fixed coupon bond)  -- 100  
 # Quoted Swap Rate = Market Yield  
@@ -1110,7 +1110,7 @@ $\mathbf{PV(swap\,\,R\,\,coup\,\,c)}=\mathrm{PV(bond\,\,with\,coupon\,\,c)}-100\
 # Quoted Swap Rate = Market Yield  
 
 From Problem Set, All-in rates 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b974f9a819b5d8729b2e59a9d0733a4b4672f78aba88f27449c1d6222c9332e5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b974f9a819b5d8729b2e59a9d0733a4b4672f78aba88f27449c1d6222c9332e5.jpg)  
 
 10yr swap, ﬁxed coup   $3.262\%$  ,   $\mathrm{PV}=0$  
 
@@ -1121,9 +1121,9 @@ From Problem Set, All-in rates
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/850ecb0c5e92d65f255bee1db2a0e9e91fff53261eff2713364efefb6f2b46bd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/850ecb0c5e92d65f255bee1db2a0e9e91fff53261eff2713364efefb6f2b46bd.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e3070df827dd0eea26a200208b3da43d7219a8103b982baf3e5824b606d79e8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e3070df827dd0eea26a200208b3da43d7219a8103b982baf3e5824b606d79e8.jpg)  
 Example of two companies with di"erent credit in ﬁxed and ﬂoating bonds markets.  
 
 We assume here that both companies issue the same bonds – say 4 yr maturity – but their credit is di"erent in the two markets  
@@ -1143,7 +1143,7 @@ Modern Example – Chicago Bonds, Swaps, and Termination 2005: City of Chicago i
 
 Chicago chose ﬁxed coupon, but could do that with  ﬁxed coupon bond  or  ﬂoating bond   $\scriptstyle\mathcal{+}$   swap  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf0c5cfa8a4219243917f7dd34dcd8c2ba694be252f4c9708e583535f4211cff.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf0c5cfa8a4219243917f7dd34dcd8c2ba694be252f4c9708e583535f4211cff.jpg)  
 
 Would pay ﬁxed coupon  
 
@@ -1153,7 +1153,7 @@ Fixed coupon set for life of bond
 
 •  If Chicago credit  $\downarrow$  coupon does not change  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c544ee9a8ce22eacdecd3395fa406619e3f64036c5366c49b3141b01237aeedd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c544ee9a8ce22eacdecd3395fa406619e3f64036c5366c49b3141b01237aeedd.jpg)  
 
 The ﬂoating rate “ﬂows through”  
 
@@ -1168,7 +1168,7 @@ Floating “Chicago” coupon can change
 Also,  Credit Triggers  on swaps  
 
 •  Banks can make Chicago cancel if credit  ↑  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8163497690d7aae05c88c187019e504c8a53cbfe34ee95142599745cab6c27d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8163497690d7aae05c88c187019e504c8a53cbfe34ee95142599745cab6c27d.jpg)  
 
 The   $\S221\mathrm{{mm}}$   for cancelation of swaps was from the screen-shot of the City of Chicago listing of swaps – see App Fin M gmt 2016 b/problems/Muni Swaps temp.pdf  
 
@@ -1245,21 +1245,21 @@ Simplifying assumption: both ﬁxed coupon and swap rate   $4.77\%$   (match 30y
 
 PV(30yr bond, coupon=4.77%, yld=4.77  $\%$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ab4e02824c7988e8db42c2bf18975e4a199c19d157e65c747b29cb179e490d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ab4e02824c7988e8db42c2bf18975e4a199c19d157e65c747b29cb179e490d.jpg)  
 
 • 29 May 2015, 10-yr = 2.20%, 30-yr = 2.62%  20-yr rate = 2.52%  (from yld_fwd6.xls)  
 
 PV(20yr bond, coupon=4.77%, yl  $1{=}2.52\%$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/837e5f12feaa5827fb8ccb0252175cab57f61aa47026d5ec486553b94f89b743.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/837e5f12feaa5827fb8ccb0252175cab57f61aa47026d5ec486553b94f89b743.jpg)  
 
-• Change in  Fixed Coupon Bond  and  Bond   $\scriptstyle\neq$   Swap  exactly the same So far,  Fixed Bond  and    $B o n d\;+\;S w a p$   the same:  Both lose   ${\pmb S}3{\pmb5}.{\pmb1}8$  
+• Change in  Fixed Coupon Bond  and  Bond   $\scriptstyle\neq$   Swap  exactly the same So far,  Fixed Bond  and    $B o n d\;+\;S w a p$   the same:  Both lose   ${\textdollar S}3{\textdollar5}.{\textdollar1}8$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c219dd4f304aeba2c9e436e8c7012a6b25da3eb2da0278aeb5aa78fc09d9ade.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c219dd4f304aeba2c9e436e8c7012a6b25da3eb2da0278aeb5aa78fc09d9ade.jpg)  
 
 Short Fixed Coupon Bond • PV(coup  $\scriptstyle-4.77\%$   $@$   y  $\mathrm{Id=4.77\%})=-100\mathrm{PV(coup=4.77\%~@}$   yl  $\mathrm{d}{=}2.52\%=-135.18$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80965e330e67654460ab6243458beda415f16d57bd3d29c8b1146c7af4756433.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80965e330e67654460ab6243458beda415f16d57bd3d29c8b1146c7af4756433.jpg)  
 
 Short Floating Bond  $^+$   Pay Swap • –  $\cdot100+(100-\mathrm{PV}(4.77\%\ @\ 4.77\%)=-100-100+(100-\mathrm{PV}(4.77\%\@\ 2.52\%)=-135.18$  
 
@@ -1318,12 +1318,12 @@ Table 1 - Swap Market 1995 Activity and Year End Notional Outstanding All amount
 
 Source - ISDA 1995 Year End Summary of Market Survey Statistics  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22c9ebad4e0310565f88d7be05d2f699223fd650f606b30aa5e01c2e62221b48.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22c9ebad4e0310565f88d7be05d2f699223fd650f606b30aa5e01c2e62221b48.jpg)  
 # A Appendix – Supplement and Not Covered in Class – FRN (Floating Rate Note)  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/796c6d19e2bfe2e48e85ec18e7b0de12b6101788f40e2cd4ed85206ef582148e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/796c6d19e2bfe2e48e85ec18e7b0de12b6101788f40e2cd4ed85206ef582148e.jpg)  
 # First Idea – Discount Libor+Sprd   $\leftrightsquigarrow$   Libor Flat – WRONG  
 
 Most companies (like FIS) not “high quality” • Coupon = libor + sprd  
@@ -1334,7 +1334,7 @@ What is value today for 4yr bond, libor   $^+$   sprd? First (wrong) trick – c
 
 • Left with spread to discount  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5d122af6c9462104b5d181e44bc24fd720f4a67feeed53f17cf3d935a45fb7c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5d122af6c9462104b5d181e44bc24fd720f4a67feeed53f17cf3d935a45fb7c.jpg)  
 
 • But now sprd stays  
 
@@ -1348,11 +1348,11 @@ $\mathrm{PV}=100\substack{+\mathrm{PV}(0.75\xircledcirc6.6\%)}$
 
 •   $\mathrm{PV}=100\,+\,2.56$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/150f0991bf89cd8e20edbfcb8c0ef4f4c0badefb2b0c28d1b4232d8fbb36f4e3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/150f0991bf89cd8e20edbfcb8c0ef4f4c0badefb2b0c28d1b4232d8fbb36f4e3.jpg)  
 
 PV=100  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ec3d974aeca9073b1f48ca205a157e6a93aefc3cfc315e47f56edc61d373684.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ec3d974aeca9073b1f48ca205a157e6a93aefc3cfc315e47f56edc61d373684.jpg)  
 # Correct Idea – Discount Libor+Sprd   $@$   Libor+Sprd  
 
 Most companies (like FIS) not “high quality”  
@@ -1363,7 +1363,7 @@ The sprd(coupon) ﬁxed at issue The sprd(today) goes up & down every day
 
 # Risky co di"cult  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/10437a72ed6d3eb9ba891764b8d307c0bdbe963b13b79faf26ef33842d3e6868.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/10437a72ed6d3eb9ba891764b8d307c0bdbe963b13b79faf26ef33842d3e6868.jpg)  
 
 Must discount libor+sprd(issue)   $\mathrm{\Large~\textcircled{\scriptsize~}}r f\mathrm{\scriptsize~+~}r p=\mathrm{\large~\textmu~}+\mathrm{\large~\left(today\right)~}$  
 
@@ -1396,10 +1396,10 @@ PV of 4yr L+75bp:
 
 • = 94.66  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77359ddaa76ff95bc614cf1b76d94c1f4a7f3a35dc091f5ab92c1a900e9439e7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77359ddaa76ff95bc614cf1b76d94c1f4a7f3a35dc091f5ab92c1a900e9439e7.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b8486c650f5bc589dba3f9dbaca986cc0346956055e03a4fbeeb6ea30d7396.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dfc654332790e15a35424a3ff81a2f9b84a72f09e06b1d56dc8de4ca01a349a1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b8486c650f5bc589dba3f9dbaca986cc0346956055e03a4fbeeb6ea30d7396.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dfc654332790e15a35424a3ff81a2f9b84a72f09e06b1d56dc8de4ca01a349a1.jpg)  
 
 # References  
 # Price of Risk II – Contribution,    $\beta$  , CAPM  
@@ -1415,11 +1415,11 @@ Tether – Stablecoin – Part of Crypto Universe From last year, when Tether wa
 
 # Bank  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ce976fd4a957bfdb175861bf3f34714342bb770833262b46d42ef2db58f9a1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ce976fd4a957bfdb175861bf3f34714342bb770833262b46d42ef2db58f9a1.jpg)  
 
 Similarities Tether  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/537761abea73a682f2d3300619c519da47119f535a954b8da7668ce91962c29e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/537761abea73a682f2d3300619c519da47119f535a954b8da7668ce91962c29e.jpg)  
 
 • Deposits  
 
@@ -1444,11 +1444,11 @@ Di!erences
 
 Money Market Fund  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7dc538f78e3328fdd9a69f72594446fef26f0bdc5c049a8e2ce6e952837fae2d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7dc538f78e3328fdd9a69f72594446fef26f0bdc5c049a8e2ce6e952837fae2d.jpg)  
 
 Tether  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0a7a2a2a2db0971d0280c0227c9f6a76d01814d356845f4ec3515de46d467062.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0a7a2a2a2db0971d0280c0227c9f6a76d01814d356845f4ec3515de46d467062.jpg)  
 
 Similarities  
 
@@ -1477,7 +1477,7 @@ Tether will invest assets in  something , rather than all   $\S100$   in cash. T
 
 2. What credit quality? (Default and money lost? Solvency risk.)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b7f16f8519d90a668a0303bff2213d6b77ffb01f28ae643765d2136300b06e7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b7f16f8519d90a668a0303bff2213d6b77ffb01f28ae643765d2136300b06e7.jpg)  
 
 Examine only duration question (sensitivity to interest rates)  
 
@@ -1491,9 +1491,9 @@ Examine only duration question (sensitivity to interest rates)
 
 • Could not pay everyone back  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cea4895482ec2ec506fa14249febba4cc905b0a3926fca9c71068853706a830.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cea4895482ec2ec506fa14249febba4cc905b0a3926fca9c71068853706a830.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/473e0e5c08e1c825c64ed24224ccb7021a8599f5ca40aefca501b4e811d2b8e5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/473e0e5c08e1c825c64ed24224ccb7021a8599f5ca40aefca501b4e811d2b8e5.jpg)  
 # Remember SVB – Exactly “Investing in UST” (long duration)  
 
 SVB invested in UST – safe (credit) but long-dated  
@@ -1510,27 +1510,27 @@ SVB invested in UST – safe (credit) but long-dated
 
 • Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f490a9f681d81373ff0493fb7ef9fe36e9ff80991e53c2c523765acc06e657e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f490a9f681d81373ff0493fb7ef9fe36e9ff80991e53c2c523765acc06e657e.jpg)  
 SVB “Big Loss” (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50acbf863e5c0ec189bf7f5ab1f1aa80e8ac66904382d7286571abd1d9cf4f0f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50acbf863e5c0ec189bf7f5ab1f1aa80e8ac66904382d7286571abd1d9cf4f0f.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3457d22ea629eb5be0bfa2d52f87d0b815d080509a9a94ecc81e98f7443cb47d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3457d22ea629eb5be0bfa2d52f87d0b815d080509a9a94ecc81e98f7443cb47d.jpg)  
 # 2 Risk Premium – Overall Portfolio (“Market” Portfolio)  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ce795af9b65806803974efbcb4f0ea925a9d5718316b9460d442001dde385b1.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eafbe920ab7254018ad788e9c5b841516a3aae1a9528018895adf4cdaf08f876.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ce795af9b65806803974efbcb4f0ea925a9d5718316b9460d442001dde385b1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eafbe920ab7254018ad788e9c5b841516a3aae1a9528018895adf4cdaf08f876.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/af94028539648442e042c29b1a00a1889a32b436ddee653035c5907a471a29de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/af94028539648442e042c29b1a00a1889a32b436ddee653035c5907a471a29de.jpg)  
 
 We like return, dislike volatility Budget line is our e"cient frontier (production possibility curve) Sharpe, Separation, and Capital Market Line  
 # Useful –  Capital Market Line  – Ignore Preferences  
 
 Using our idea of the Sharpe ratio (and a riskless asset) we can ignore preferences  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/834acd2f54047e212c88e995ae77871a36ed05a07b35b51a0f71e97b8a74b9d1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/834acd2f54047e212c88e995ae77871a36ed05a07b35b51a0f71e97b8a74b9d1.jpg)  
 
 Return / risk trade-o! set by tangency of indi!erence curves and budge line  
 
@@ -1540,7 +1540,7 @@ Return / risk trade-o! set by tangency of indi!erence curves and budge line
 
 Di!erent indi!erence curves  $\Rightarrow$  di!erent trade-o!  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36ae6c97e8f0923392bb0ee89e0c70afaa665959e3e6bcc3ba85c9867abfc925.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36ae6c97e8f0923392bb0ee89e0c70afaa665959e3e6bcc3ba85c9867abfc925.jpg)  
 
 With riskless asset (and using Sharpe ratio)  
 
@@ -1565,7 +1565,7 @@ $$
 
 •  ε  = 15% ,  r  = 8%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6b7ee8be4837f137a5614e852905531167951fb1de7d579494e9d4d3f7805d7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6b7ee8be4837f137a5614e852905531167951fb1de7d579494e9d4d3f7805d7.jpg)  
 
 # Capital Market Line – Choose Highest Sharpe Portfolio  
 
@@ -1583,7 +1583,7 @@ $\begin{array}{r}{S h a r p e=\frac{r1-r f}{\sigma1}}\end{array}$  • Higher Sh
 
 • S&P Sharpe  $=0.37$     $(7.3\%/20\%)$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07455e94555b4cfbe14463a00f1d39ebf59b47c3f8680c07a2465af6a0bf250a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07455e94555b4cfbe14463a00f1d39ebf59b47c3f8680c07a2465af6a0bf250a.jpg)  
 # Capital Market Line & Separation – Really Important  
 
 Wonderful result: separate preferences (utility function) from market (the frontier)  
@@ -1604,7 +1604,7 @@ A few things
 
 3. Doesn’t help with RP for individual assets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fc52e052d4fcbb6304cd8c4868fee67af904830e4226748d675a8a9211cbe2cd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fc52e052d4fcbb6304cd8c4868fee67af904830e4226748d675a8a9211cbe2cd.jpg)  
 
 We care only about overall  market  portfolio  
 
@@ -1649,7 +1649,7 @@ CML & Market Portfolio give return (so risk premium) for whole portfolio, whole 
 
 • 20% bonds gave portfolio with higher Sharpe • But bonds contribute to portfolio, are valuable, • Compensated by earning positive Risk Premium – earning more than risk free  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b85e635805caadecec33191b7272f1938126641a4937c739c40d505a3cf2593b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b85e635805caadecec33191b7272f1938126641a4937c739c40d505a3cf2593b.jpg)  
 # But What is Individual Asset Risk Premium?  
 
 We need risk premium for an individual stock – FIS  
@@ -1666,7 +1666,7 @@ What to look at? Turns out to be  contribution  ( ω )
 
 • Completely di!erent graph –    $\beta$   on horizontal  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a1efcdb1a3ca5be691d623161e6f23e04316452d4700bff1b7df6f933824f741.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a1efcdb1a3ca5be691d623161e6f23e04316452d4700bff1b7df6f933824f741.jpg)  
 # Contents  
 
 Individual Securities – Contribution & Beta   $(\beta)$  Market portfolio, and market volatility (  $\sigma_{m}$   or    $\sigma_{p o r t}$  ) matters – not individual volatility • If this is true, only care about    $\sigma_{p o r t}$   and not vol for individual assets,    $\sigma_{i}$  • Compensated only for how individual security contributes to    $\sigma_{p o r t}$  • We need a measure for how individual securities contribute to    $\sigma_{p o r t}$   . Look back at the formula for portfolio volatility – play magic with algebra  $\sigma_{p o r t}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$   $\sigma_{p o r t}=\frac{\sigma_{p o r t}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}=\frac{w_{1}^{2}\sigma_{1}^{2}+2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}+w_{2}^{2}\sigma_{2}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}$  Want to split into two parts: contribution from 1 (  $w_{1}$   only) and from 2 (  $w_{2}$   only) How? Cannot! That middle part    $2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}$   has both    $w_{1}$   and    $w_{2}$  Contribution   $\&$   Beta   $(\beta)$   Decomposes Overall Volatility Factor out    $w_{1}$   and split that middle part half-half  $\sigma_{p o r t}=\left[w_{1}\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}+\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}w_{2}\right]\cdot\sigma_{p o r t}$  Call those parts Beta   $(\beta)$  :  $\beta_{1}=\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}\qquad\beta_{2}=\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}$   $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  We now have a nice decomposition depending on    $w_{1}$   and    $w_{2}$  : •    $w_{1}\beta_{1}$   the overall contribution •    $\beta_{1}$   contribution per unit of asset 1 •    $w_{1}$   the “quantity” of asset 1  
@@ -1691,7 +1691,7 @@ $$
 $$  
 # Revisit Bond & Stock Portfolio – and Contribution  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bfebc18ae780d4eca04f605b063914a8dccfdc797d472c8d80f856120aa67e30.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bfebc18ae780d4eca04f605b063914a8dccfdc797d472c8d80f856120aa67e30.jpg)  
 
 Some results for    $\beta\cdot\sigma_{p}$   di!er due to rounding Portfolio Avg Return: weighted mean of Bond & Stock returns •    $\mu_{p}=w_{1}\cdot\mu_{1}+w_{2}\cdot\mu_{2}$  , contribution is weight \* avg return   $\left(w_{i}\cdot\mu_{i}\right)$  Portfolio Volatility (Standard Deviation,    $\sigma_{p}$  ):  not  weighted mean  
 
@@ -1770,7 +1770,7 @@ d\,l n\left(\sigma_{p o r t}\right)=\beta_{1}d w_{1}+\beta_{2}d w_{2}
 $$  
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81976022aa50817c32ce8c8e7fe1e1f7e002ee153bf651c1f0e167eb46afc691.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81976022aa50817c32ce8c8e7fe1e1f7e002ee153bf651c1f0e167eb46afc691.jpg)  
 
 But in reality there are other portfolios – many possible portfolios • For every portfolio, we can talk about the beta of assets in that speciﬁc portfolio  
 
@@ -1812,7 +1812,7 @@ Assets 1, 2, 3 don’t line up in  Return vs Std Deviation
 
 Assets  do  line up in  Return vs    $\beta$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d903faeb49b9b1e5cd38381feec227a4734527a01adacf11e64ca6c68e0348f3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d903faeb49b9b1e5cd38381feec227a4734527a01adacf11e64ca6c68e0348f3.jpg)  
 # Example: Returns Line Up With    $\beta$   for All  E!cient  Portfolios  
 
 Let’s set how assets line up with our simple Bond   $\&$   Stock portfolio  
@@ -1823,7 +1823,7 @@ Let’s set how assets line up with our simple Bond   $\&$   Stock portfolio
 
 • All assets should line up:  $E R_{i}-\gamma=\beta_{i}\cdot(E R_{p}-\gamma)$   ↓  ·  ↓  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93d67ff5d1444ad8a64b7218b777fe0d214172082f74b0cb34fc1a59f84ec2dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93d67ff5d1444ad8a64b7218b777fe0d214172082f74b0cb34fc1a59f84ec2dd.jpg)  
 
 Focus on   $80\%$   bonds, and let’s solve for    $\gamma$   – answer is    $\gamma=-5.55$  :  
 
@@ -1851,7 +1851,7 @@ $80\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Mark
 
 • Tangency requires “rf”  $\backsimeq\!-5.55$  , Sharpe=1.37  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ac8fe6a3a13a9633df61a177d5e0286ac1c64a6400d61563b5a6195b5f208aa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ac8fe6a3a13a9633df61a177d5e0286ac1c64a6400d61563b5a6195b5f208aa.jpg)  
 
 Actual Return /    $\beta$   (Security Market Line)  
 
@@ -1859,7 +1859,7 @@ Actual Return /    $\beta$   (Security Market Line)
 
 • Securities line up along straight line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e7f11d52b295954d2ec241b797cbde675e4392c6f36d67081bfd81806384a3b8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e7f11d52b295954d2ec241b797cbde675e4392c6f36d67081bfd81806384a3b8.jpg)  
 
 What if there is    $\beta=0$   asset? Does this work?  
 
@@ -1869,18 +1869,18 @@ $3.90-\gamma=0\left(E R_{p o r t}-\gamma\right)$
 
 $N O$  : wrong Bond   $\&$   Stock returns:   $80\%$   not market equilibrium (not highest Sharpe) Portfolio – line through  $\mathrm{rf}{=}3.90$   not tangent  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d0eb44771ef24663c6af420adac4f8990f2a1d558ed2c9fde9e7162d3c9f26e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d0eb44771ef24663c6af420adac4f8990f2a1d558ed2c9fde9e7162d3c9f26e.jpg)  
 
 Security Market Line – does not give actual returns  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56183a2d0f78618f3ff485996071346472c244a4743b0ccd9893213d76f4afef.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56183a2d0f78618f3ff485996071346472c244a4743b0ccd9893213d76f4afef.jpg)  
 $\mathbf{20}\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Market Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  ,    $\gamma=4.48\%$   Does not match Market! Actual Portfolio does not line up with actual risk-free  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48ee9e9f88b02e09826adbcdc5346b87ba03fe0d58d01bb9491be6172384903d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48ee9e9f88b02e09826adbcdc5346b87ba03fe0d58d01bb9491be6172384903d.jpg)  
 
 Actual Return /    $\beta$   (Security Market Line)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/571af9e6d72e077eb5b0e7e9fc32a0953ed08a6ec00998ea5c9317f86c468bd0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/571af9e6d72e077eb5b0e7e9fc32a0953ed08a6ec00998ea5c9317f86c468bd0.jpg)  
 
 What if there is    $\beta=0$   asset? Does this work?  
 
@@ -1890,12 +1890,12 @@ $3.90-\gamma=0\left(E R_{p o r t}-\gamma\right)$
 
 $N O$  : wrong Bond   $\&$   Stock returns:   $80\%$   not market equilibrium (not highest Sharpe) Portfolio – line through  $\mathrm{rf}{=}3.90$   not tangent  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68c589ce75036f79023dc1ebc5f146ff687e790944ec5b35afbb5c99bdd45d28.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68c589ce75036f79023dc1ebc5f146ff687e790944ec5b35afbb5c99bdd45d28.jpg)  
 
 Security Market Line – does not give actual returns  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/034d57d284c19954013bebcb7adaadd37f04e55b3604d8694e0f21390f3b7063.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/526e9a31cfc8bb1aa604975813ee231874e1aa796c9375ce35499d63551816b5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/034d57d284c19954013bebcb7adaadd37f04e55b3604d8694e0f21390f3b7063.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/526e9a31cfc8bb1aa604975813ee231874e1aa796c9375ce35499d63551816b5.jpg)  
 
 #  ${\bf38.8\%}$   Bonds: Matches the Market – Market  Equilibrium  
 
@@ -1911,7 +1911,7 @@ Market  or Equilibrium Portfolio
 
 • Tangency with rf=3.90  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0f2511b324031a1912ed50322c47a01b8490cd75fec8e0ef1e875ed71edb324.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0f2511b324031a1912ed50322c47a01b8490cd75fec8e0ef1e875ed71edb324.jpg)  
 
 Security Market Line  
 
@@ -1919,14 +1919,14 @@ Security Market Line
 
 • Securities line up along straight line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87d088c1178d393f4c6e416ab4dfbb231ca198ba68d1f980c0200def44eab52c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87d088c1178d393f4c6e416ab4dfbb231ca198ba68d1f980c0200def44eab52c.jpg)  
 # Contents  
 
 Three Facts about    $\beta$   – Any Portfolios, E!cient Portfolio, Market Portfolio  
 
 1. For  any  portfolio,    $\beta$   decomposes portfolio volatility 2. For any  e!cient  portfolio, asset returns line up along a    $\beta$   line for  some    $\gamma$  • If force    $\gamma=r f$   then line up with incorrect asset returns 3. For  market  portfolio, asset returns line up along  Security Market Line  with risk-free rate  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a08b86c01e3bb70d6e29cbf48874024e2f7a6e3a9a017d6719705a9e5da9798a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a08b86c01e3bb70d6e29cbf48874024e2f7a6e3a9a017d6719705a9e5da9798a.jpg)  
 Capital Asset Pricing Model:    $E R_{i}-r_{f}=\beta_{i}\left(E R_{m k t}-E r_{f}\right)$  Result:  For market portfolio  (what we actually see in the market)  we now know:  
 
 $$
@@ -1947,7 +1947,7 @@ $$
 Y_{i}^{t o d a y}=r f^{t o d a y}+R P_{i}=r f^{t o d a y}+\beta_{i}\cdot R P_{m k t}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb100d4f0c3b5f50e34a62cccea2d699facc1acd75572af19ba8d1d34c0b9477.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb100d4f0c3b5f50e34a62cccea2d699facc1acd75572af19ba8d1d34c0b9477.jpg)  
 
 # Using CAPM to get Risk-Adjusted Discount Rate  
 
@@ -1982,7 +1982,7 @@ $$
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b756f11ec70eabd9d0b37d323e3df0bdc52879a322d6fbf2ea1b3e5d346a6745.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b756f11ec70eabd9d0b37d323e3df0bdc52879a322d6fbf2ea1b3e5d346a6745.jpg)  
 # Summary:    $\beta$   Measures Price of Risk (RiskPrem)  
 
 1. Sharpe: choose highest Sharpe for total overall (wealth) portfolio  
@@ -2038,7 +2038,7 @@ Contribution & Beta used in Quantitative Risk Management Goes by various names i
 
 • Contribution (or    $\beta$  ): individual asset contribution to overall risk  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35aa01d9b3d7acc70663105dc8f7ba4339a9d75115dd8bbbbd1cf46d4902c7a4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35aa01d9b3d7acc70663105dc8f7ba4339a9d75115dd8bbbbd1cf46d4902c7a4.jpg)  
 
 I found this the most useful measure in managing a hedge fund portfolio  
 
@@ -2081,7 +2081,7 @@ Portfolio of 3 assets
 
 •    $\begin{array}{r}{W e i g h t=\frac{F i r m\;C a p}{T o t a l\;C a p}\mathrm{~-~f~}}\end{array}$  – ﬁll in MktValue and Weights  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa6f4f310c95f3fbb373330bfe25decf8033423a7ea33afd3bc0eca6776548ef.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa6f4f310c95f3fbb373330bfe25decf8033423a7ea33afd3bc0eca6776548ef.jpg)  
 
 • You buy  all  of each: you hold   $17.7\%$   Citi,   $79.2\%$   Apple, FIS 2.9%  
 
@@ -2103,7 +2103,7 @@ In other words, measures return on the “market”
 
 Market indexes, all market-weighted:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79ff9a4a655af37756c00341c26013df1acf6b40171e2bbca3f23f6ab2b9bcaf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79ff9a4a655af37756c00341c26013df1acf6b40171e2bbca3f23f6ab2b9bcaf.jpg)  
 
 Note: Dow-Jones Industrial (most widely-quoted), is  not  market-weighted – Equally-weighted  
 # Contents  
@@ -2132,7 +2132,7 @@ Beta measures systematic component (moves with S&P500) Investors only compensate
 
 • Idiosyncratic is the part that disappears in the portfolio • Not paid to take on what can be diversiﬁed away Beta does  not  say how much of ﬁrm volatility is systematic vs idiosyncratic • Doesn’t say  how volatile  ﬁrm is or  how much  of overall vol is left over  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4478720fff1e9d618ed2c69eedb03fc6418462b0eda8ac3bdfa70926c3c1a64.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4478720fff1e9d618ed2c69eedb03fc6418462b0eda8ac3bdfa70926c3c1a64.jpg)  
 
 • Citi and Apple both high  total  vol, Citi moderate  idiosyncratic  vol –  Much of the Apple vol is idiosyncratic, can be diversiﬁed away –    $\beta$   moderate  
 
@@ -2149,7 +2149,7 @@ Some stocks have high vol & low beta (Newmont)
 
 Beta matters – gives us the ExpRet & RiskPrem  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9677162ca6dce7855f351ee82bed86a2a7913091924389c0bfa01f08ff88b5e8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9677162ca6dce7855f351ee82bed86a2a7913091924389c0bfa01f08ff88b5e8.jpg)  
 
 If you have current price and an estimate of future price & earnings, you can calculate expected earnings  
 
@@ -2174,12 +2174,12 @@ The table is from Brealey, Myers, Allen Table 8.2 (as of January 2012) for Beta 
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/923db9da9eeddae302995816e7f7c99210ce10e8566f5e7569d92a7a3c832128.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/923db9da9eeddae302995816e7f7c99210ce10e8566f5e7569d92a7a3c832128.jpg)  
 
 Calculating Beta Easiest way - look them up (e.g. Yahoo Finance - “Key Statistics”) or Bloomberg (DES, HRA)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0690573e3ef8be9b9c25a74cbe2485e061f29827e81c456f56fc3e52c3c88de.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f618fff773ab3eef77897af7022736e7080b9833dcc2eaf14a446c689470da12.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0690573e3ef8be9b9c25a74cbe2485e061f29827e81c456f56fc3e52c3c88de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f618fff773ab3eef77897af7022736e7080b9833dcc2eaf14a446c689470da12.jpg)  
 
 # 4.7 CAPM – Violations & Extensions  
 
@@ -2209,7 +2209,7 @@ Contents 1 Uncertainty, Risk, and Risk Premium 1 2 Uncertainty, Distributions, a
 
 # 1 Uncertainty, Risk, and Risk Premium  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f51dffe679137c2ac02bad57da0c0e5e35dd5985ba4793811878bb7a5a6a3063.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f51dffe679137c2ac02bad57da0c0e5e35dd5985ba4793811878bb7a5a6a3063.jpg)  
 Our Goal: Get Risk Premium  
 
 Get Risk Premium for  Bonds ,  Overall Market ,  Individual Stocks Bonds : Complicated theory, Easy Calculations  
@@ -2226,7 +2226,7 @@ Overall Market  and  Individual Stocks : di!cult – need new theory Overall Mar
 
 • Spread, often summarized by Standard Deviation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05fd58acc0c32d8541ff683d38d5dc340e292b8276611eaa1c770462f176708a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05fd58acc0c32d8541ff683d38d5dc340e292b8276611eaa1c770462f176708a.jpg)  
 
 Risk : the  price  or value we assign to the Uncertainty • Di"erence in PV between  certain  and  uncertain  CFs Risk Premium : standard   $\&$   simple method converting uncertain CFs into PV • Looks like regular discounting:    $\begin{array}{r}{P V={\frac{E x p e c t e d\;C F}{1+r f+r p}}}\end{array}$  
 
@@ -2243,13 +2243,13 @@ Beta (  $\beta$  )  and  Contribution : How an asset contributes to standard dev
 
 Start Working with Probability   $\&$   Distributions So far avoided working directly with uncertainty   $\&$   distributions • Always in background, determining the risk premium • We have used the market to get risk premium:    $\begin{array}{r}{P V={\frac{E x p e c t e d\;C F}{1+r f+r p}}}\end{array}$  Now: work directly with  Distribution : the uncertainty of cash ﬂows / returns • Future distribution of cash ﬂows or returns is our fundamental tool • The distribution (uncertainty) will produce  price of risk • Often summarize with  mean  and  standard deviation  – but only summaries  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3fde2a1aa7444b112546eb31add0a2ff55daba275c1cdf60fb67ce133567dfd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3fde2a1aa7444b112546eb31add0a2ff55daba275c1cdf60fb67ce133567dfd.jpg)  
 
 # Working with Distributions: Mean and Volatility  
 
 • Horizontal: CF or return in future • Vertical: probability or likelihood –  Technically: picture is density  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285e51d57bf58e77f146962391ee0f82a92aaf8beecc235eb560d628b09afc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285e51d57bf58e77f146962391ee0f82a92aaf8beecc235eb560d628b09afc.jpg)  
 
 We (almost always) work with mean ( µ or  $X$  ) and standard deviation   $(\sigma)$  
 
@@ -2346,7 +2346,7 @@ Sharpe ratio measures  risk-adjusted return
 
 Sharpe describes Ret vs vol line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/950ad0e6c4d7d245c0884e9295f250cd80bf9981a6d9aff8e22ba5492a01bba7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/950ad0e6c4d7d245c0884e9295f250cd80bf9981a6d9aff8e22ba5492a01bba7.jpg)  
 # Sharpe Ratio Example  
 
 Combine two assets:  
@@ -2365,7 +2365,7 @@ $,\mathrm{~w=1,}v o l=1^{*}8.9,\mathrm{~R=3.9+8.9^{*}0.169{=5.4}~}$   $\mathrm{w
 
 Sharpe gives slope of risk-return liine  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ce826e11047bcf559b2c6c6621a1956ec914add958379f8fafa4cff5e436b65.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ce826e11047bcf559b2c6c6621a1956ec914add958379f8fafa4cff5e436b65.jpg)  
 
 # Debt, Equity, Assets, and Leverage  
 
@@ -2384,7 +2384,7 @@ Leverage & Sharpe Formulae – Summary – Repeated Portfolio Combining “Risky
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/480d305819bf3681f5515e323ef8b62f5013e2013d3fd7bb6aa2998ddb906eb3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/480d305819bf3681f5515e323ef8b62f5013e2013d3fd7bb6aa2998ddb906eb3.jpg)  
 
 It would be a mistake to think that because stocks have the higher Sharpe you should only buy stocks. It is true that if you had to buy only one or the other, stocks would be the best choice. But combining the two together you can get a higher Sharpe. For example, if the correlation between them were 0, a   $50/50$   portfolio would have a return of   $8.35\%$   and volatility of   $10.95\%$  . This gives a  $\mathrm{charge}=(8.35–3.9)/10.95=0.41$  .  
 # Sharpe Widely Used – Part-Way to Measuring Risk  
@@ -2395,7 +2395,7 @@ Sharpe ratio and leverage idea incredibly useful and powerful
 
 • But not yet correct measure for “Risk” (that will be    $\beta$   (beta) or contribution to portfolio risk)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76989fde2bc99a7829d39a2d2954b2c18a47235c5222dba1aa6eb13f9125ce61.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76989fde2bc99a7829d39a2d2954b2c18a47235c5222dba1aa6eb13f9125ce61.jpg)  
 
 Tells us that Stocks  look  more risky, but in a real sense  less  risky.  
 
@@ -2414,12 +2414,12 @@ Correlation matters – how an asset contributes to portfolio vol
 
 Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d5038122e6ab76e735464a2e83a333d372d63612857ad3fbaba8cabe584b7c93.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d5038122e6ab76e735464a2e83a333d372d63612857ad3fbaba8cabe584b7c93.jpg)  
 # Divers i cation When Correlation Changes  
 
 From BMA Table 7.1 & p 170. Look at  Portfolio : Combination of Bond & Stock  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11ed6418f248880e2700c30b6467613b86efa13044fc0040203fa45a865846f1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11ed6418f248880e2700c30b6467613b86efa13044fc0040203fa45a865846f1.jpg)  
 
 Portfolio Return: half-way between Bond & Stock  
 
@@ -2441,7 +2441,7 @@ Divers i cation lowers portfolio vol – one of most important results in ﬁnan
 
 From BMA Table 7.1 & p 170. Look at  Portfolio : Combination of Bond & Stock  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2533df10a014d88b55578a0ac9b0c598b396df5ddf7fc03644dd67ac6d89b51f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2533df10a014d88b55578a0ac9b0c598b396df5ddf7fc03644dd67ac6d89b51f.jpg)  
 
 Portfolio Volatility (Standard Deviation,    $\sigma$  ): less than half-way  
 
@@ -2473,7 +2473,7 @@ Cannot  look at stock vol (  $\dot{}\sigma_{s t o c k}$  )  alone – contributi
 • Stocks high vol (20%) but reduces vol for    $\%$   Bonds, Sharpe highest   2 / 10  
 # Important Lessons:  Divers i cation ,  Contribution ,  Frontier  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/add33997e84ffd49e0c65f5d456dd831fcebf6bc7da4c54587b0fa73bd75adfd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/add33997e84ffd49e0c65f5d456dd831fcebf6bc7da4c54587b0fa73bd75adfd.jpg)  
 
 Lesson 1:  Divers i cation : Portfolio Volatility (Standard Deviation,    $\sigma$  ):  
 
@@ -2497,10 +2497,10 @@ Lesson 3: Portfolio  frontier curved like picture
 
 • General picture for combining assets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50fcf8cdb8e5b4b5af52b7419ef31e9708e2396bddc06f36426423b3873b1d06.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50fcf8cdb8e5b4b5af52b7419ef31e9708e2396bddc06f36426423b3873b1d06.jpg)  
 # 4.3 Building Frontier – E!cient Frontier & Quadratic Optimization Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e610ab5c8c01f704b7783f68c899ec32339bbbc19ccfaca0b2ea97523900790.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e610ab5c8c01f704b7783f68c899ec32339bbbc19ccfaca0b2ea97523900790.jpg)  
 # Three Assets – Start Ruling Out Some Portfolios  
 
 Consider only 1&2, 2&3 (not 1&3)  
@@ -2515,19 +2515,19 @@ $-$     $\mu_{1}$  ,   $\mu_{2}$  ,   $\mu_{3}$   are 5%, 10%, 15% –  Vol at i
 
 • Starting to build possible portfolios  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9319bb12be25be7c2583c60c961838279b7ade2acf352e56059880515bb7754.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9319bb12be25be7c2583c60c961838279b7ade2acf352e56059880515bb7754.jpg)  
 # Three Assets – Ruling Out Some Portfolios  
 
 Now: Consider 1&2, 2&3, 1&3 • Pictures shows we rule out more & more • Rule out red, portfolios that are “ine!cient”  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/662d96acfe2984dda2f54377df7336677cba8bbd66b057b30781eee1ba7792c0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/662d96acfe2984dda2f54377df7336677cba8bbd66b057b30781eee1ba7792c0.jpg)  
 
 Starting to build possible portfolios – “E!cient Frontier”  
 
 • Here we are building 2-by-2  
 
 • We really want to take all together – Quadratic Optimization:  $\begin{array}{r}{\operatorname{Minimize}\,V a r i a n c e=\sum_{i,j}w_{i}w_{j}\sigma_{i j}\,\,\,\sigma_{i j}=\rho_{i j}\sigma_{i}\sigma_{j}}\end{array}$    " s.t. ﬁxed return    $\begin{array}{r}{E x p e c t e d\,R e t u r n=\sum_{i}w_{i}\mu_{i}=X}\end{array}$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ea03ea282c86b2f73afd4a44a4d712f95d8987c6b83eec51176a9d565b4cef8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ea03ea282c86b2f73afd4a44a4d712f95d8987c6b83eec51176a9d565b4cef8.jpg)  
 
 Matrix solution for quadratic optimization in Cochrane  Asset Pricing  p. 82. Turns out to be simple matrix manipulation. The problem is:  
 
@@ -2571,7 +2571,7 @@ $$
 
 s.t. ﬁxed return  Expected Return  $\begin{array}{r}{\imath=\sum_{i}w_{i}\mu_{i}=X}\end{array}$    (  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed7bfe32a71c4d996244aa9265205687dadef9e124600ec3bdcb251e2760cc69.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed7bfe32a71c4d996244aa9265205687dadef9e124600ec3bdcb251e2760cc69.jpg)  
 
 Which is “Best”? – Can Rule Out Some Which Portfolio?  
 
@@ -2584,7 +2584,7 @@ Return  Low Risk  High Risk  High Return  High Return  Low Risk  High Risk  Low 
 
 5.1 Remember – Get Risk Premium, Work with Distribution Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1dece9b1392a25dfd243a446edef6622dcaa7ee57790b457882ea1141e124d3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1dece9b1392a25dfd243a446edef6622dcaa7ee57790b457882ea1141e124d3.jpg)  
 # Working with Distributions: Mean and Volatility  
 
 Must start with full distribution of CFs & returns  
@@ -2593,15 +2593,15 @@ Must start with full distribution of CFs & returns
 
 We (almost always) work with mean   $(\mu\,o r\,X)$  ) and standard deviation (  $\sigma$  ) •    $\sigma$   called volatility in ﬁnancial markets. Also variance,    $\sigma^{2}$  And put in indi"erence curves for    $\mu\,\&\,\sigma$  • Tradeo" between  overall  return   $\&$   vol  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a0b11d259e88edb716fbd1e4ca5124afd3f542d2d5a646985204c4ada2cbd12.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a0b11d259e88edb716fbd1e4ca5124afd3f542d2d5a646985204c4ada2cbd12.jpg)  
 # 5.2 Straightforward Theory – Indi"erence Curves & Budget Line Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d9b16b7327b1f229e8cf93ae07e1e5dee274a47f2a26409cc5c5c33ef5f00c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d9b16b7327b1f229e8cf93ae07e1e5dee274a47f2a26409cc5c5c33ef5f00c.jpg)  
 
 Overall vs Stock Market Overall or Total Market • Exactly that: Bonds  $^+$   Domestic Stocks  $^+$   Foreign Stocks  $^+$   Real Estate  $^+$   Human Capital Textbooks never use Total Market • Instead use Domestic Stock Market (say S&P 500 index) • Why? What we have, what we can calculate  
 # 5.3 Digression on Historical Returns, Arithmetic vs Geometric Average Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aad2fbd845ac7b6890e8ed4f85ad9617395c97f2c7b73298bc6b3b98221230bf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aad2fbd845ac7b6890e8ed4f85ad9617395c97f2c7b73298bc6b3b98221230bf.jpg)  
 
 • Remember – we can back out risk premium for a bond, but not a stock  
 # Average Returns – Arithmetic vs Geometric  
@@ -2610,7 +2610,7 @@ Historical returns, over 100 years. BMA Table 7.1
 
 • Learn about  risk premium  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ccb9f18cfe148cae1973ea201f01f4e7d6247cd3834a27f0859c1b88d7481d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ccb9f18cfe148cae1973ea201f01f4e7d6247cd3834a27f0859c1b88d7481d.jpg)  
 
 We use  historic  risk premium as estimate of the risk premium for the stock market • Calculate historic year-by-year returns, and take the average  
 
@@ -2635,7 +2635,7 @@ Arithmetic average tells what happens in an “average” year:   $+10\%$
 
 •   $10\%$   for 3 year:   $\S1.331$  ,  not    $\Updownarrow1.287$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dac1350cafc4049e3bc12839e8a755ea16cd95ce56f1d6d04cfc0b6e5dd11bc6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dac1350cafc4049e3bc12839e8a755ea16cd95ce56f1d6d04cfc0b6e5dd11bc6.jpg)  
 
 Geometric average gives year-by-year growth – overall growth  
 
@@ -2653,14 +2653,14 @@ Geometric:  multiply  and  nth root :
 $$
 {\mathrm{Mean}}=\textstyle\prod_{i=1}^{n}\left[(1+R_{i})\right]^{1/n}=\left[(1+R_{1})\cdot(1+R_{2})\cdot\cdot\cdot(1+R_{n})\right]^{1/n}
 $$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1199a1fe5a2e221ba6c946f1cddfadd6f8e30bd9aa169747f3892bb808ef74fe.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1199a1fe5a2e221ba6c946f1cddfadd6f8e30bd9aa169747f3892bb808ef74fe.jpg)  
 History for Stocks, Bonds, Bills  
 
 Additional issue for history:  
 
 • Often  monthly , converted to annual  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dc57dcbdec988bd6bd8b259fa3ee72b834d5eb49579cb88d27e703fb1e614e0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dc57dcbdec988bd6bd8b259fa3ee72b834d5eb49579cb88d27e703fb1e614e0.jpg)  
 
 Use monthly data to reduce variance (better estimate) but need annual return • Returns independent, so OK to add, but issues adding arithmetic returns  
 
@@ -2673,7 +2673,7 @@ r_{A,a n n}\approx12\cdot r_{A,m t h l y}\;\;\sigma_{a n n}\approx\sqrt{12}\cdot
 $$  
 
 Brealey, Myers, Allen Table 7.1, 1900-2011 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce431c4caa853e735574fa04ddec4ea6895531470dd7531116f04ad4b5c22b89.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce431c4caa853e735574fa04ddec4ea6895531470dd7531116f04ad4b5c22b89.jpg)  
 
 Assuming the BMA “Annual Returns” were converted from monthly data, we can unwind back to original monthly, do a more exact monthly    $\rightarrow$  annual conversion  
 
@@ -2686,12 +2686,12 @@ $$
 \begin{array}{r}{1+r_{A,s i m p l e}=\left(1+r_{G,s i m p l e}\right)\cdot\exp\left(\frac{1}{2}\sigma^{2}\right)}\end{array}
 $$  
 
-R notebook for some calculations and simulations on converting from monthly to annual and from Arithmetic Average to Geometric (or   $\log{\big/}\operatorname{cc}_{\lambda}$  ) Average: /App Fin M gmt 2021/misc/Risk Premium 1.Rmd  
+R notebook for some calculations and simulations on converting from monthly to annual and from Arithmetic Average to Geometric (or   $\log{\big/}\operatorname{cc}_{\lambda}$  ) Average: /App Fin M gmt 2021/misc/Risk Premium 1. Rmd  
 # 5.4 Equity Risk Premium From History  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32fd9ce10894b2670b25af384e65bf331700c590cb2e5e93307a85b8e700e282.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32fd9ce10894b2670b25af384e65bf331700c590cb2e5e93307a85b8e700e282.jpg)  
 Backing Out Equity Risk Premium From History Theory : use indi"erence curves & budget line (frontier)  
 
 # Backing Out Equity Risk Premium From History  
@@ -2702,9 +2702,9 @@ Problem: We don’t know    $E x p\,C F$
 
 • But we do have many “experiments”:every month, invest   $\S1$   at beginning of month, see what happens at end  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3b23c737518a7b3ed5dd7f613f12d23f037854ebff323207f3900e98fe5a452b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3b23c737518a7b3ed5dd7f613f12d23f037854ebff323207f3900e98fe5a452b.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6153593f7b07b7e2cbf917e820c5cd08e98377c754fd6f075675d7c031e0c0ab.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6153593f7b07b7e2cbf917e820c5cd08e98377c754fd6f075675d7c031e0c0ab.jpg)  
 # Backing Out Equity Risk Premium From History  
 
 If markets are e!cient (investors use current information to predict  Expected CF ) then we can use those monthly “experiments” to get  Expected   $C F$  
@@ -2713,7 +2713,7 @@ If markets are e!cient (investors use current information to predict  Expected C
 
 $\bullet$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c79ca807d214f9f47555832158f88df8e0aed8c1c5b81caac06386201065bb5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c79ca807d214f9f47555832158f88df8e0aed8c1c5b81caac06386201065bb5.jpg)  
 
 For backing out Risk Premium, use  Arithmetic  because we want  Expected CF  (not Geom Avg CF)  
 
@@ -2727,17 +2727,17 @@ Financial Analysts and Portfolio Managers: Obsessed with history of prices
 
 • I am having you look at history for the past few years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74714f8e18c0b969c8ed365325c9e484b6dde4aeadbe348382f22b82a004149e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74714f8e18c0b969c8ed365325c9e484b6dde4aeadbe348382f22b82a004149e.jpg)  
 
 Picture is prices, but always look at  returns :    $\begin{array}{r}{1+R_{s i m p l e}=\frac{P_{t+1}}{P_{t}}}\end{array}$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ec637e65a255c3a999f7de7b022b889903da47de1b902c7bbce7b79947d794.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ec637e65a255c3a999f7de7b022b889903da47de1b902c7bbce7b79947d794.jpg)  
 History for Stocks, Bonds, Bills  
 
 Historical returns, over 100 years. BMA Table 7.1  
 
 • Learn about  risk premium  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/49e2ba9d5ea3e10bd2dfbaa81210da8600c7f9fd683ee3e87e7879cb3fb01758.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/49e2ba9d5ea3e10bd2dfbaa81210da8600c7f9fd683ee3e87e7879cb3fb01758.jpg)  
 
 We use  historic  risk premium as estimate of the risk premium for the stock market • Remember – we can back out risk premium for a bond, but not a stock  
 
@@ -2763,7 +2763,7 @@ Equity risk premium  $=7.3\%$
 
 • Maybe   $6\%$   is better  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e057a11c8164ada146e1c806be285098c08668b04aa29475f55e03f8352efed.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e057a11c8164ada146e1c806be285098c08668b04aa29475f55e03f8352efed.jpg)  
 
 Table is Brealey & Myers, Table 7.1  
 
@@ -2783,9 +2783,9 @@ Why not do the same for each individual stock? Say FIS on its own?
 Brealey, Myers, Allen Table 7.1, 1900-2011  
 
 Bodie, Kane, Miller Table 5.3, 1926-2015 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea932647c56b615710857d21ffbca661a265bc54540ec2ba0e79a45796edb3bf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea932647c56b615710857d21ffbca661a265bc54540ec2ba0e79a45796edb3bf.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c26efa393009ff68a9225baa7d146ea5dbc2f18843109c8e9041ebd34e165c8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c26efa393009ff68a9225baa7d146ea5dbc2f18843109c8e9041ebd34e165c8.jpg)  
 
 Some debate about size of Equity Risk Premium  
 
@@ -2801,28 +2801,28 @@ Thomas S. Coleman Harris PPHA 42510 & 42521 1 May 2023, Draft May 1, 2023
 
 First Republic lost \$100mn in customer deposits past months •  FRB customers now JP Morgan customers JP Morgan pays \$10.6bn for FRB •  Cost to FDIC is \$13bn (vs \$20bn for SVB) •  Depositors don’t lose anything •  FRB shareholders lose everything  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5733fb3b505a22e293dbcfb92e4bf8db648580abb8a3493377c56b789f7482eb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5733fb3b505a22e293dbcfb92e4bf8db648580abb8a3493377c56b789f7482eb.jpg)  
 # Appears SVB Was (Almost) Insolvent  
 
 Picture (from NYTimes) shows gains  $\&$   losses for both Held to Maturity and Available for Sale portfolio  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6df11f56d451aa673b1804503acec90dc0684eec826eb2f5e20f43e24dedf8f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6df11f56d451aa673b1804503acec90dc0684eec826eb2f5e20f43e24dedf8f.jpg)  
 
 •  Trying to capture true value of assets •  Losses as  $\%$   of deposits – SVB up to   $9\%$  •  Look at the “Big Loss” below – I chose   $9\%$   of deposits •  Close to true situation for SVB in 2022 – nearly insolvent •  People did not realize until March 8 When run started, massive loss of deposits. •  I’ve heard \$41bn left in a day or two •  Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
 SVB Actual 2022 (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56ece481ad7ea11e69ba497c1f92fb861aac2fc2fe283f6e228b79d4ad689f4d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56ece481ad7ea11e69ba497c1f92fb861aac2fc2fe283f6e228b79d4ad689f4d.jpg)  
 
 SVB “Big Loss” (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab7d1889094f95aa609a19251d9fe8d38c39a66c4157c703625c3c6a5238fa03.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab7d1889094f95aa609a19251d9fe8d38c39a66c4157c703625c3c6a5238fa03.jpg)  
 # Solvency  versus  Liquidity  SVB Essentially Insolvent  
 
 SVB Actual 2022 (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f8f587fa30e2f56beffa0fe9fec3e4d2facc4eb048001336e42b834c2636e8c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f8f587fa30e2f56beffa0fe9fec3e4d2facc4eb048001336e42b834c2636e8c.jpg)  
 
 SVB “Big Loss” (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6aafeb3277021f8adbde464526bff62ae89d2b1cd4556c80167951743da2fe36.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6aafeb3277021f8adbde464526bff62ae89d2b1cd4556c80167951743da2fe36.jpg)  
 
 SVB is now in a very delicate position, with both  Solvency Risks  and  Liquidity Risks  
 
@@ -2841,22 +2841,22 @@ Silicon Valley Bank was e!ectively insolvent
 •  Assets barely worth the value of ﬁxed obligations – “Deposits” & “Other”  
 # Now Turn to First Republic Bank – Painful, But not SVB  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/37b1d5956ea8878ab9e719adbd17fb730f6bd7e9002258e238c0d92af645498f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/37b1d5956ea8878ab9e719adbd17fb730f6bd7e9002258e238c0d92af645498f.jpg)  
 
 Gains  $\&$   losses for both HtM and AfS portfolio  
 
 •  Losses as  $\%$   of deposits – FRB up to about   $3.5\%$   $\bullet$   Look at the “Big Loss” below – showing  $3.5\%$   of deposits  $\bullet$   First Republic painful, but not insolvent •  My view – caught in liquidity panic •  Might survive, might not. But very di!erent from SVB  
 
 FRB Actual 2022 (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9001fb426ba467bddf94305c957559ef5dae54e8fb76b10bdad6e2cb87977485.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9001fb426ba467bddf94305c957559ef5dae54e8fb76b10bdad6e2cb87977485.jpg)  
 
 FRB “Big Loss” (\$bn) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7005e7ebf3b14e76164b8c6d74bb3acff3c655c1cf49050832c5e92aa3aec849.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7005e7ebf3b14e76164b8c6d74bb3acff3c655c1cf49050832c5e92aa3aec849.jpg)  
 # Solvency  versus  Liquidity  FRB Solvent but Liquidity Risks  
 
 FRB Actual 2022 (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4ff70416bbec592970a32e8c0ccbc42338eafa25961dfe68f424a8d6969735ff.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4ff70416bbec592970a32e8c0ccbc42338eafa25961dfe68f424a8d6969735ff.jpg)  
 
 FRB is  not  insolvent  
 
@@ -2866,7 +2866,7 @@ Depositors worried investments may go down more
 
 FRB “Big Loss” (\$bn)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/539931104ac192ddc80e1896ea6b997eb005f1d778626937bf5fb1fac0810248.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/539931104ac192ddc80e1896ea6b997eb005f1d778626937bf5fb1fac0810248.jpg)  
 
 # Liquidity Risk  
 
@@ -2951,7 +2951,7 @@ Result: Capital Structure won’t change value (M&M Prop 1)
 
 Start from bottom   $(\mathsf{F i r m\ C F s})$  ), go ﬁrst to Debt, then Equity  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/95897197a84ba2abb838eb13e5ef46679c23ad1ff562e502781fd10548eb2741.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/95897197a84ba2abb838eb13e5ef46679c23ad1ff562e502781fd10548eb2741.jpg)  
 
 How CFs distributed make  huge  di!erence in CF risk  
 
@@ -2985,7 +2985,7 @@ Initial ﬁrm value \$30k. Two ﬁnancing structures:
 
 •  All Equity (  $\it{(0\%}$   debt, D/E 0, leverage 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $77\%$   debt, D/E ??, leverage ??-to-1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d771a307427a68befd057db289db81a751e85f935670894dbef31099b8c650c7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d771a307427a68befd057db289db81a751e85f935670894dbef31099b8c650c7.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 
@@ -2996,7 +2996,7 @@ Initial ﬁrm value \$30k. Two ﬁnancing structures:
 
 •  All Equity (  $\it{(0\%}$   debt, D/E 0, leverage 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, leverage 2-to-1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc7800b7555d12f0cdc134c94a1669db722fe25acd72f5d4978cebcece019483.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc7800b7555d12f0cdc134c94a1669db722fe25acd72f5d4978cebcece019483.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 
@@ -3007,7 +3007,7 @@ Initial ﬁrm value \$30k. Two ﬁnancing structures:
 
 •  All Equity (  $\it{(0\%}$   debt, D/E 0, leverage 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, leverage 2-to-1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3572eff2387d4e537f31ce92cc6e68057d073bf1ad34bf2c5043080d997b9086.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3572eff2387d4e537f31ce92cc6e68057d073bf1ad34bf2c5043080d997b9086.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 
@@ -3018,7 +3018,7 @@ Initial ﬁrm value \$30k. Two ﬁnancing structures:
 
 •  All Equity (  $\it{(0\%}$   debt, D/E 0, leverage 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, leverage 2-to-1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bc62fc39f8bb39647f530ab2e3296c702b22aba6b92a6df6e75fdb87911f269.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bc62fc39f8bb39647f530ab2e3296c702b22aba6b92a6df6e75fdb87911f269.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 
@@ -3029,7 +3029,7 @@ Initial ﬁrm value \$30k. Two ﬁnancing structures:
 
 •  All Equity (  $\it{(0\%}$   debt, D/E 0, leverage 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, leverage 2-to-1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53f835afa0418f2836ccce042a1153c1e91eb993b5a37eff3f454b3c62eb8c31.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53f835afa0418f2836ccce042a1153c1e91eb993b5a37eff3f454b3c62eb8c31.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 
@@ -3038,7 +3038,7 @@ $\mathbf{1}$   Unlevered Equity? std  $\mathsf{d e v{=}35.4\%{=}s q r t{[}((-10{
 
 All Equity versus  $50\%$   Debt /   $50\%$   Equity (  $50\%$   leverage)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb051dc6b8bd286f1633ce3c788f87b4692c2f774039fbaed0a5d2104372cab8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb051dc6b8bd286f1633ce3c788f87b4692c2f774039fbaed0a5d2104372cab8.jpg)  
 
 •  With leverage, Equity gets higher exp ret and higher std dev •  Combined Debt  $+$   Levered Equity is the same as original Unlevered Equity  
 #  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
@@ -3066,18 +3066,18 @@ Final Synthesis
 
 We will play a simple game: the ﬁrm takes CFs apart, we (investors) put them back together Start from bottom (Firm CFs), split into Debt & E  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad4bbad1837a1e51bff50962e94a5f65db79adfc7facaba9d503ca8e9858e5d9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad4bbad1837a1e51bff50962e94a5f65db79adfc7facaba9d503ca8e9858e5d9.jpg)  
 
 With no transaction costs we can easily do this  
 # Next Step – “Do-it-Yourself Leverage”  
 
 But there is more – Investors can create any leverage (risk proﬁle) they want Example from BMA, Table 17.2 & 17.3 – Macbeth Spot Removers  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bea011de36be5c1fce26f1ee0c169b689db04395afcfc811d1e988de58e7c167.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bea011de36be5c1fce26f1ee0c169b689db04395afcfc811d1e988de58e7c167.jpg)  
 
 $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22bf5c08fc69dfbad679c9e2e7c1dcb535c9dd540b63481b28c8edc288fa012e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22bf5c08fc69dfbad679c9e2e7c1dcb535c9dd540b63481b28c8edc288fa012e.jpg)  
 
 Macbeth realizes some investors want more return (and risk), so they decide to lever  
 
@@ -3090,11 +3090,11 @@ Will investors pay more? Start with same price \$10/share
 
 Exercise: what  would  be equity return   $\&$   std dev if share price still \$10  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9de66367ac29fb775dd9699ad65b0cb68747a739b73ff0176ade1e97505115d5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9de66367ac29fb775dd9699ad65b0cb68747a739b73ff0176ade1e97505115d5.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm Leverage” ExpRet  $=$  , StdDev  $=$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52a7d9ecaa51a9cf50b85413470c68d60a704805d2647c24ba371414f8a28c4f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52a7d9ecaa51a9cf50b85413470c68d60a704805d2647c24ba371414f8a28c4f.jpg)  
 Will investors pay more?  
 # Firm Realizes Investors Want More Risk  
 
@@ -3104,11 +3104,11 @@ Will investors pay more? Start with same price \$10/share
 
 Exercise: what  would  be equity return   $\&$   std dev if share price still \$10  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92df8092b647183f9df4f78c672239d3e3958928ee66a6eae7eab8077dfe809f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92df8092b647183f9df4f78c672239d3e3958928ee66a6eae7eab8077dfe809f.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm Leverage” ExpRet  $=15$  , StdDev  $=12.9$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b1fc98139152d6c2e1a03687c3ae6359822e628c00aea916d1258d014a7927d3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b1fc98139152d6c2e1a03687c3ae6359822e628c00aea916d1258d014a7927d3.jpg)  
 Will investors pay more?  
 # Do-it-Yourself Risk  
 
@@ -3116,20 +3116,20 @@ But will investors pay more than \$10 for levered shares? Turns out NO
 
 What if you have \$10, borrow \$10, buy 2 shares? (  $\cdot10\%$   interest)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc75916b4636f49a5f2d434279ecbbbb1293d5a29f4eead27e9326cb3350b765.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc75916b4636f49a5f2d434279ecbbbb1293d5a29f4eead27e9326cb3350b765.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45
 
  “Firm Leverage”   $\mathsf{E x p R e t}=15$  ,   $\mathsf{S t d D e v}=12.9$  “Investor Leverage” ExpRet  $=$  , StdDev  $=$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/196cf79d35243986ab897cd2602547a77111f2beadae669e345cd0118f15b436.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/196cf79d35243986ab897cd2602547a77111f2beadae669e345cd0118f15b436.jpg)  
 # Do-it-Yourself Risk  
 
 But will investors pay more than \$10 for levered shares? Turns out NO  
 
 What if you have \$10, borrow \$10, buy 2 shares? (  $\cdot10\%$   interest)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c1476ddc902274410eed1b46bf177c4ec3b74d7e25c3d5571087b79af6d1923.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c1476ddc902274410eed1b46bf177c4ec3b74d7e25c3d5571087b79af6d1923.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45
 
@@ -3137,7 +3137,7 @@ Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45
 
  “Investor Leverage” ExpRet = 15,   $\mathsf{S t d D e v}=12.9$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285838041fa148fad118ed48e52e515e36670d645c31c0a08fd0d798b740e4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285838041fa148fad118ed48e52e515e36670d645c31c0a08fd0d798b740e4.jpg)  
 
 Exactly same as levered equity, but done by investor  
 
@@ -3190,12 +3190,12 @@ $$
 r_{u}=r_{a s s e t s}={\frac{D}{E+D}}r_{D}+{\frac{E}{E+D}}r_{E}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9595fbdeef52352ac394b70e38523b6b4996507567e3537e1812e736e99efb85.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9595fbdeef52352ac394b70e38523b6b4996507567e3537e1812e736e99efb85.jpg)  
 # Expected Returns  
 
 As Debt-Equity ratio increases, expected return on equity increases. Eventually, so does debt (as it becomes more risky)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8307d3476fcfcbf4c19ab146496718355d03d2e0b753d1c85c6e36462f70231.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8307d3476fcfcbf4c19ab146496718355d03d2e0b753d1c85c6e36462f70231.jpg)  
 1  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
@@ -3227,7 +3227,7 @@ Capital Structure should be random – no industry patterns
 
 •  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Why? Don’t throw out theory – use M&M to understand •  Example of economic theory deepening our understanding of the world •  Taxes, bankruptcy costs, information asymmetry  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3294b5cbf694f55f1b29393cbeecfa7c330a0cd257989dde363418b807ba983.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3294b5cbf694f55f1b29393cbeecfa7c330a0cd257989dde363418b807ba983.jpg)  
 1  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
@@ -3254,7 +3254,7 @@ Final Synthesis
 Debt provides real CFs – In US (and many others) interest is tax deductible.  
 
 Income with no debt versus some debt 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffb5689ea52b542ae2f43dc4bd074a02b6e3bf42a1cf7b98aba46d8c11f4d14a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffb5689ea52b542ae2f43dc4bd074a02b6e3bf42a1cf7b98aba46d8c11f4d14a.jpg)  
 
 Simple idea: government gives cash: subsidy Recurring story: government actions (well-intention ed) distort markets M&M says “how you slice the pie doesn’t matter”  
 
@@ -3266,7 +3266,7 @@ Here it matters – gov’t subsidizes debt with extra cash
 Debt provides real CFs – In US (and many others) interest is tax deductible.  
 
 Income with no debt versus some debt 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b818985d87834bf90f82a9e23b933848d29770bca66af52223223b3f0240de40.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b818985d87834bf90f82a9e23b933848d29770bca66af52223223b3f0240de40.jpg)  
 
 Example: Interest \$8, “tax shield”  $=0.21\,^{*}\,\S8$  Call this “tax shield” because shielded from taxes Extra income ﬁrm can pay to investors instead of gov’t  
 
@@ -3277,7 +3277,7 @@ M&M Prop 1 says value of ﬁrm does not depend on debt versus equity But we know
 
 •  The ﬁrm takes CFs apart, •  We (investors) put them back together No taxes: •  Firm CFs  → Debt   $^+$   Equity •  Investors take Debt  $^+$   Equity  $\rightarrow$  Firm CFs Yes taxes, Net out tax shield PV •  Firm CFs  $\mathsf{C F s\to D e b t+E q u i t y+T a x e s}$  •  Investors take Debt  $^+$   Equity  $\rightarrow$  Firm CFs – Taxes For Debt, Gov’t gives some taxes back •  With debt, get CF of tax shield,    $T_{c}\cdot I n t$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079ba3e8870359a230c2dd6c4f51a0390c2f15ef5c2d40f2408636daf17c1f25.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079ba3e8870359a230c2dd6c4f51a0390c2f15ef5c2d40f2408636daf17c1f25.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 In M&M (no taxes) there are two slices to the pizza: debt & equity  
@@ -3291,7 +3291,7 @@ Fun result: PV(tax shield) =  $\mathsf{P V}(\mathsf{t a x\ s h i e l d})=\,T_{c}
 •  Yrly   $\mathsf{C F}=T_{c}\cdot D\cdot r$  , every yr forever (annuity) •  PV Annuity =  $={C F}/{r}={T_{c}}\cdot{D}\cdot{r}/{r}={T_{c}}\cdot{D}$  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6ee5dc1304dea3aaf81ac692ff25dcce36b4327794e5a2920f1c5a48021b10c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6ee5dc1304dea3aaf81ac692ff25dcce36b4327794e5a2920f1c5a48021b10c.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3301,7 +3301,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities”  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b711c38c1198c6cfc2129932f1bbc78b1f66a45f3291a80f6e9d25cec218eee0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b711c38c1198c6cfc2129932f1bbc78b1f66a45f3291a80f6e9d25cec218eee0.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3311,7 +3311,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities” •  MV “Total Value” up – government gives cash back •  Back out MV “Equity”  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47be20db70ac0ea32896fdc05c4a2375f30faef49a4159499665bb1bb337b0a8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47be20db70ac0ea32896fdc05c4a2375f30faef49a4159499665bb1bb337b0a8.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3320,7 +3320,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities” •  MV “Total Value” up – government gives cash back •  Back out MV “Equity” •  Shareholders win by \$2,100. Why? •  Get \$10,000 from issuing new bond, MV equity down by only \$7,900 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f521f6c3ba324581e83e8bcbc4b469ef55828efb2092e0068a7365708350c466.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f521f6c3ba324581e83e8bcbc4b469ef55828efb2092e0068a7365708350c466.jpg)  
 # Value of Tax Shield  
 
 MV of debt up by \$10,000mn, but MV of equity only down \$7,900mn.  
@@ -3342,7 +3342,7 @@ We don’t see ﬁrms using all debt
 
 •  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Need to dig deeper, understand why industries vary •  Example of economic theory deepening our understanding of the world •  Taxes partial, turn to bankruptcy costs, information asymmetry  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8875cb1e29dd480f83ca6ab94961bdead20755566c34d42be7c12a84e49541d7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8875cb1e29dd480f83ca6ab94961bdead20755566c34d42be7c12a84e49541d7.jpg)  
 1  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
@@ -3417,7 +3417,7 @@ Powerful idea: Equity is call option on ﬁrm value
 
 From seminal paper by Merton (1974) – Corporate debt as put option  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d63aed9872536fa7988ab9946a6a2fd18956686e8b1e838029afb5066f45211e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d63aed9872536fa7988ab9946a6a2fd18956686e8b1e838029afb5066f45211e.jpg)  
 
 Stock – call option “hockey stick” – Long  
 
@@ -3428,7 +3428,7 @@ Stock – call option “hockey stick” – Long
 
 Stock: Long Call; Bond: Short Put: Option value  ↑ as Volatility  ↑  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3f67ea02a032af2c42fc5cc245f44a7918da4efc2fb6a912f80ef976803ca50.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3f67ea02a032af2c42fc5cc245f44a7918da4efc2fb6a912f80ef976803ca50.jpg)  
 
 See this looking at: •  Black-Scholes option formula – •  Assets just  $<\mathtt{B}$  : I win if  $\uparrow$  , you lose if  ↓ Shareholders want to increase volatility: Call  ↑ , Put  ↓ Example: Assets  $<\mathtt{B}$  , but interest not due for another year  
 
@@ -3439,9 +3439,9 @@ See this looking at: •  Black-Scholes option formula – •  Assets just  $<\
 
 •  Bonds worth   $\S25$   (  $<$   promised \$50) – need option model to get value  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e51386236b163c43db99142719213ac7697c293107feeabc4fbb2c7bccba6363.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e51386236b163c43db99142719213ac7697c293107feeabc4fbb2c7bccba6363.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44cd50270b464317469b54861b642411a497249627ab854d55c5312e879a8d0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44cd50270b464317469b54861b642411a497249627ab854d55c5312e879a8d0.jpg)  
 
 Negative NPV Project:   $\pounds_{10}$   investment,   $10\%$   chance \$120,  $90\%$   lose   $\S3.56$  ;  
 
@@ -3465,11 +3465,11 @@ Failure to contribute equity capital
 
 Debt  ↑  $\Rightarrow$  tax savings  ↑ , but also prob of bankruptcy  ↑ (moves up    $B$  , bankruptcy threshold)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8943cf12c0895a126d041e7324fdc351c3f016fc3a14bb8057ca9ac4babd81ea.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8943cf12c0895a126d041e7324fdc351c3f016fc3a14bb8057ca9ac4babd81ea.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/698fb59534f9d4b1d535e1770e6165f93a8794f8ca71bb0eb38eccf833378540.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/698fb59534f9d4b1d535e1770e6165f93a8794f8ca71bb0eb38eccf833378540.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/70a3881b5a58cb8b114457133d4f172e123cd6b8d91449c2819b81eb28f90c18.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/70a3881b5a58cb8b114457133d4f172e123cd6b8d91449c2819b81eb28f90c18.jpg)  
 
 Tradeo! between tax beneﬁts   $\&$   bankruptcy costs  Easy-to-sell assets (lower cost in bankruptcy) should have higher debt  
 
@@ -3576,14 +3576,14 @@ There is no (or very little) “left over” information that is not used today 
 
 • People try to make money • So use information quickly • So only new information changes price • All of today’s information in today’s price  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac302696fdba05aa59ea301fad7f6c4a300c849f78d0cb6f3f14ae2e1809b5d2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac302696fdba05aa59ea301fad7f6c4a300c849f78d0cb6f3f14ae2e1809b5d2.jpg)  
 
 This is (or was) a pretty revolutionary idea  
 
 • A big surprise, discovered by various people, at various times • Maurice Kendall in 1953, Louis Bachellier in 1900, French broker Jules Regnault in 1863  
 
 Makes sense – at least for liquid markets with lots of people and lots of money • Not so true for obscure markets – say eBay for egg coddlers  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eba61268f857e5fd9a41b1a430c051ca08f8ff3bccbf7df910d2b45f284c414b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eba61268f857e5fd9a41b1a430c051ca08f8ff3bccbf7df910d2b45f284c414b.jpg)  
 
 # 2 Random Walks and Simple Econometrics  
 
@@ -3594,7 +3594,7 @@ Simple Random Walk: Easy But Often Fools Us Known : Price today    $P_{0}$  Unkn
 
 Random Walk: ﬂip a coin: heads go   $+1$  , tails go  $-1$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0021a7b56699dccafc088a18ace685ea6f18051005af257f14592717b48b2497.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0021a7b56699dccafc088a18ace685ea6f18051005af257f14592717b48b2497.jpg)  
 Feller Volume I ﬁgure 4  
 
 • Anyone would swear there are trends – Bull markets, Bear markets  
@@ -3623,7 +3623,7 @@ $$
 P_{t}^{e q u i t y}=P_{t-1}^{e q u i t y}+\varepsilon_{t}\;\;\;\varepsilon\sim N(0,4)\quad\qquad P_{t}^{b o n d}=P_{t-1}^{b o n d}+\nu_{t}\;\;\;\nu\sim N(0,1)
 $$  
 
-then run regression  $P_{t}^{b o n d}=\alpha+\beta\cdot P_{t}^{e q u i t y}+u_{t}$   · , and repeat many times (1000 separate regressions) •  RStudio Notebook  Sim Random Walk 1.Rmd  &  .nb.html  on Canvas ( ﬁles )  
+then run regression  $P_{t}^{b o n d}=\alpha+\beta\cdot P_{t}^{e q u i t y}+u_{t}$   · , and repeat many times (1000 separate regressions) •  RStudio Notebook  Sim Random Walk 1. Rmd  &  .nb.html  on Canvas ( ﬁles )  
 
 Textbooks tell us that   $5\%$   of our sample (50 regressions)   $\mathrm{t}$  -ratio  $\frac{{\hat{\beta}}-0}{S E}$    should be large (outside of ± 1 . 972 ) This regression shows wildly di!erent results: The simulation has   ${\bf85\%}$   outside the bands  
 
@@ -3632,7 +3632,7 @@ Textbooks tell us that   $5\%$   of our sample (50 regressions)   $\mathrm{t}$  
 Random walks are  not  well-behaved – never ever run levels regressions for random walks  
 
 • Originally discussed by Granger and Newbold, 1974.  Spurious regressions in econometrics . Journal of Econometrics. see also https://davegiles.blogspot.com/2015/10/illustratingspurious-regressions.html  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be39d34f14f06740338b7e2f5994dd43c2d2bdf65a08749af3db99f169aca0f0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be39d34f14f06740338b7e2f5994dd43c2d2bdf65a08749af3db99f169aca0f0.jpg)  
 Spurious Correlations – Levels, Trends, and Random Walks  
 
 Note the trend – both are going down  
@@ -3671,7 +3671,7 @@ $$
 $$  
 
 Completely independent, nothing to do with each other But run regression    $P_{t}^{e q i u t y}=\alpha\bar{+}\beta P_{t}^{b o n d}+e_{t}$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a770e5ef35465192abeaf27a5636c9a8fb4a5dd7ae4856a59b247a61b1236e62.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a770e5ef35465192abeaf27a5636c9a8fb4a5dd7ae4856a59b247a61b1236e62.jpg)  
 
 We want to test whether they are related – whether    $Y$   (equities) move down when    $X$   (bonds) move up  
 
@@ -3686,7 +3686,7 @@ Percent Changes For ﬁnancial markets and asset prices, always use percent chan
 
 Example of Series with non-stationary mean (growing or falling, but no stable mean)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2944df54b7926ca7aec310397612f27df979aa8bb8f8125547ad80b7eacaa1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2944df54b7926ca7aec310397612f27df979aa8bb8f8125547ad80b7eacaa1.jpg)  
 
 From Yahoo Finance  
 
@@ -3709,13 +3709,13 @@ IBM,   $^{40+}$   years of daily returns
 
 But certainly not perfect  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a79419502cc7dff1457661a94bf618cbdaefbd69262e35149fa31bcba81088e4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a79419502cc7dff1457661a94bf618cbdaefbd69262e35149fa31bcba81088e4.jpg)  
 
 • Scatter diagrams • Actual and Predicted (Normal)  
 
 Certainly not perfect  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18c8bcc3cf41ee80257e654ef639896bb3ccddd6ba8c125e2c1e84a323e5d7c0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18c8bcc3cf41ee80257e654ef639896bb3ccddd6ba8c125e2c1e84a323e5d7c0.jpg)  
 
 IBM data and program under:  
 
@@ -3746,16 +3746,16 @@ Normal does  very  badly
 
 • Many more large moves   $(4\sigma,\,5\sigma)$   than predicted Coleman • Need other distributions:    $t.$  -distribution, mixture of normals  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72ec73e027a134ce490bf432a967b63d8b8548eb4688ca57ff67a927e9b231e1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72ec73e027a134ce490bf432a967b63d8b8548eb4688ca57ff67a927e9b231e1.jpg)  
 # 4 Idea of Price E!ciency in Finance  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1194dbc563105c3ac93042fc5712dd94d041810bae4894ac7e90e48e6814e15d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1194dbc563105c3ac93042fc5712dd94d041810bae4894ac7e90e48e6814e15d.jpg)  
 
 Louis Bachelier Ph.D. dissertation (1900) "The Theory of Speculation" Paul Cootner in his 1964 book  The Random Character of Stock Market Prices . The term was popularized by the 1973 book,  A Random Walk Down Wall Street , by Burton Malkiel, a Professor of Economics at Princeton University. Eugene Fama’s 1965 article "Random Walks In Stock Market Prices". The theory that stock prices move randomly was earlier proposed by Maurice Kendall in his 1953 paper,  The Analysis of Economic Time Series, Part 1: Prices .  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c97a58c280925fce73dd8972b45140548b5f28edb5cb2158776f3c1cf86646cb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c97a58c280925fce73dd8972b45140548b5f28edb5cb2158776f3c1cf86646cb.jpg)  
 # Believe in Markets  
 
 In general, if you see a market price you should believe it  
@@ -3778,7 +3778,7 @@ Evidence that markets are “e"cient” – build in new information quickly
 
 • Good news into prices almost immediately • After announcement – no new information (on average – some ﬁrms good, some bad) • Why drift up before?  Insider trading  – news leaks out  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f244f6f83707197846217911f87cd9dd4c63137592f65e804cb9ba86be1198f5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f244f6f83707197846217911f87cd9dd4c63137592f65e804cb9ba86be1198f5.jpg)  
 BKM Fig 11.1, Cumulative Abnormal Returns  
 
 Bodie, Kane, Miller (Investments) Figure 11.1. From Arthur Keown and John Pinkerton, “Merger Announcements and Insider Trading Activity,”  Journal of Finance  36 (September 1981)  
@@ -3790,7 +3790,7 @@ Stocks mentioned on CNBC “Midday Call”
 
 Markets so competitive (so many investors scrambling to make money) everything happens quickly • Why longer for negative? Di"cult and expensive to short-sell stocks  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/433fa77eb53d8ffb8bea3bf422b77de93b0acb59e14c1c7bb8484a217144d90c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/433fa77eb53d8ffb8bea3bf422b77de93b0acb59e14c1c7bb8484a217144d90c.jpg)  
 BKM Fig 11.2, Reaction to CNBC Reports  
 
 Bodie, Kane, Miller (Investments) Figure 11.2. Stock price reaction to CNBC reports. The ﬁgure shows the reaction of stock prices to on-air stock reports during the “Midday Call” segment on CNBC. The chart plots the cumulative returns beginning 15 minutes before the stock report. From J.A. Busse and T.C. Green, “Market E"ciency in Real Time,”  Journal of Financial Economics  65 (2002) p. 422  
@@ -3808,7 +3808,7 @@ I was a little skeptical of Strong Form, but here’s an extraordinary example
 In the end – idea of market e"ciency / competitiveness – more important than exact form  
 
 “The stock market speaks: How Dr. Alchian learned to build the bomb” Joseph Michael Newhard, Journal of Corporate Finance  Volume 27, August 2014, Pages 116-132  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b9e021551dc3366ac866075e00e9b0e9c4e5ff268ec364d848dfaaed328988f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b9e021551dc3366ac866075e00e9b0e9c4e5ff268ec364d848dfaaed328988f.jpg)  
 
 # 5 Five Lessons of Market E!ciency  
 
@@ -3816,7 +3816,7 @@ In the end – idea of market e"ciency / competitiveness – more important than
 
 Five Lessons of Market E!ciency 1. Markets Have No Memory 2. Trust Market Prices 3. “Read the Entrails” 4. Do-It-Yourself Alternative  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed2ddc37d7acb83d553fe8b61399d40c0bda5a72e856e8b5da1aabeecd8242ff.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed2ddc37d7acb83d553fe8b61399d40c0bda5a72e856e8b5da1aabeecd8242ff.jpg)  
 # History – Always use Returns (Changes)  
 
 When looking at history, always look at  changes , never the price • We care about uncertainty of cash ﬂows, and it is the  changes  that are uncertain and random  
@@ -3827,7 +3827,7 @@ Use  returns    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$ 
 
 Prices versus Returns •  Changes  are the new & random part  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f834f6b6b190849df6492c2e7eac0ab08d449f26c5a5c31876a0ec1b63f46de0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f834f6b6b190849df6492c2e7eac0ab08d449f26c5a5c31876a0ec1b63f46de0.jpg)  
 Returns normalize for size  
 
 2007: 1468.36 1967: 96.47 •   $1\ \%$   change means same change per \$1 invested  
@@ -3838,7 +3838,7 @@ ALWAYS look at price changes or returns – when measuring means, standard devia
 
 Use    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$  to adjust for size of investment → Quotes and Prices for UST and S&P Futures  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f9a70211b30c498c2153a84aa1c304312bcca27110a97a1842940fda812ef94.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f9a70211b30c498c2153a84aa1c304312bcca27110a97a1842940fda812ef94.jpg)  
 
 # 2 – Trust Market Prices  
 
@@ -3882,7 +3882,7 @@ Example – companies manage earnings, trying to make things look good
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b883ec96a5d0186ef7a68fb7383ae1c8f8cf942dda36ca59bf01e33402ee0d9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b883ec96a5d0186ef7a68fb7383ae1c8f8cf942dda36ca59bf01e33402ee0d9.jpg)  
 
 # 7 Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
@@ -3898,10 +3898,10 @@ These assumptions clearly not realistic. Why is the whole idea useful? • We ge
 General result for economic (and ﬁnance) theory: useful for pushing us to think about  how  and why  the world works as it does  
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16008ca450bf9a7fdb7ab72d5a75a3ba0b55ef5b0a48b74e9c71369b36090f0c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16008ca450bf9a7fdb7ab72d5a75a3ba0b55ef5b0a48b74e9c71369b36090f0c.jpg)  
 # “Unwinding” Leverage  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9629699f24323e6dec4c8d2397a02486d2185d932d6e71b1f5c378ab4c3f6346.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9629699f24323e6dec4c8d2397a02486d2185d932d6e71b1f5c378ab4c3f6346.jpg)  
 
 # Conclusion: M&M Proposition 1 – Leverage Irrelevant  
 
@@ -3926,8 +3926,8 @@ Thomas S. Coleman 24 April 2023; Draft April 17, 2023
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d49066a6a5bd3a0e0b23a217e3621bde434f04b45c4d6b376f5772960c30189a.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf2d6b486c31174df7a35fcc623cfc83982953e3b704cc60be83b3a328946cc8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d49066a6a5bd3a0e0b23a217e3621bde434f04b45c4d6b376f5772960c30189a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf2d6b486c31174df7a35fcc623cfc83982953e3b704cc60be83b3a328946cc8.jpg)  
 Primary Markets – Issuing  
 
 More details shortly on “Type of Market” Most securities “brokered” – managed by investment bank  
@@ -3946,7 +3946,7 @@ Some details:
 
 Remember US Treasuries Issued – Auction Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c402de673dc2b8cfa0bc011c00a2ab43bb9d2dec93aac435a830c5ade229afa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c402de673dc2b8cfa0bc011c00a2ab43bb9d2dec93aac435a830c5ade229afa.jpg)  
 # Secondary Market: Markets, Investors, Securities  
 
 Secondary Market: major locus or venue for investors to save and invest Structure for how securities traded – US markets spec i call y but similar world-wide  
@@ -3963,11 +3963,11 @@ Diagram provides framework
 
 Secondary Market: Markets, Investors, Securities  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/070d14eef0cc909a664fcc3b0a09106d749d5e224cc192f06889e1838ba9681a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/070d14eef0cc909a664fcc3b0a09106d749d5e224cc192f06889e1838ba9681a.jpg)  
 
 # Types of Markets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65c599993a841323a0a38df33fbe5f4d7cd3fdc124c616fa22b0cdf38479c97e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65c599993a841323a0a38df33fbe5f4d7cd3fdc124c616fa22b0cdf38479c97e.jpg)  
 
 • Direct Search  
 
@@ -3988,7 +3988,7 @@ Secondary Market: Markets, Investors, Securities
 
 # How Investors Buy and Sell  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db92a31c3c7e4f0cd6cbdad5c28d2aa55991b2d50697e09fedff53cdbc9be074.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db92a31c3c7e4f0cd6cbdad5c28d2aa55991b2d50697e09fedff53cdbc9be074.jpg)  
 
 Investors will buy and sell for many reasons  
 
@@ -4005,7 +4005,7 @@ Investors will buy and sell for many reasons
 
 # Equity Markets (Primary vs Secondary)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7329433d0e9abbd18c439b92c0e8fe034f88e05de5049a062da225dd6807fc54.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7329433d0e9abbd18c439b92c0e8fe034f88e05de5049a062da225dd6807fc54.jpg)  
 
 Secondary Market: Auction, with commission  
 
@@ -4018,7 +4018,7 @@ Distinguish between Primary (where companies issue new securities) and Secondary
 • Secondary market  
 
 –  The original company is not involved –  Investors buy and sell the securities to invest and re-arrange their investments – to manage their portfolio –  For large public equities (Apple, IBM, Starbucks) it is auction market – buyers and sellers meet and negotiate price and quantity. e.g. NY Stock Exchange –  For small, privately issued securities it may be a brokered or dealer market  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fdae386054e4a0593892bfde858b8a60e37904fa9cd1ecbb34c5548fc28bf54.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fdae386054e4a0593892bfde858b8a60e37904fa9cd1ecbb34c5548fc28bf54.jpg)  
 Bond (and FX) Markets  
 
 Dealer market, with dealer earning Bid/O!er spread (buy low bid price, sell high o!er price) rather than commission  
@@ -4029,8 +4029,8 @@ Bond (and FX) markets virtually always dealer market
 
 # Futures Markets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf5d83cae972be174f975077bda1878ead2e49faec5ea0998b428b14556b0de.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b36cc1a66e4fe9934767fa7f42fb72e5cc84a677ad76a621f976e7fc0acd79b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf5d83cae972be174f975077bda1878ead2e49faec5ea0998b428b14556b0de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b36cc1a66e4fe9934767fa7f42fb72e5cc84a677ad76a621f976e7fc0acd79b.jpg)  
 
 # 2 How Corporations Issue Equity  
 
@@ -4097,7 +4097,7 @@ Example of “Marvin Enterprises”
 Now the ﬁrm was 50/50 owned by founders and Meriam – 1mn shares each  
 
 Balance sheet after 2nd stage ﬁnancing 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8b9c9c7dcfa407db08f3ac68413c5c5665a1006cbd6ce067e37687dda027fce.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8b9c9c7dcfa407db08f3ac68413c5c5665a1006cbd6ce067e37687dda027fce.jpg)  
 
 Selling shares to VC Investors sets value on company, and sets value of existing shares  
 
@@ -4105,7 +4105,7 @@ Selling shares to VC Investors sets value on company, and sets value of existing
 
 –  Initial investment was   $\S100{,}000$   for   $\S$  1mn shares. –  2nd stage investment from VC ﬁrm Meriam Venture Partners was   $\S$  1mn, in the form of 1mn shares at \$1 each. –  Note that now the ﬁrm was 50/50 owned by founders and Meriam – 1mn shares each  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0182cb08c8c55f9aa6346192b4fb6f53a8f8869ccb74fedf7f4986a24a8ab67.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0182cb08c8c55f9aa6346192b4fb6f53a8f8869ccb74fedf7f4986a24a8ab67.jpg)  
 # Contents  
 
 # Initial Public O!erings  
@@ -4131,7 +4131,7 @@ This is where we, the public, start to get involved. It is also where regulation
 –  The idea behind registration is to provide disclosure and transparency. The SEC has nothing to say about whether the security o!ering is “good” in the sense of a good investment, only that the o!ering discloses all relevant information.  
 
 –  This is an incredibly important point. The SEC makes no ruling on the quality of the investment. You can never get in trouble with the SEC for a stupid start-up idea. But the SEC insists on disclosing all relevant and material information. When you hear about someone getting in trouble with the SEC it is often on failure to disclose material information. (The SEC also goes after outright fraud, but we’ll put that to the side for the moment – assume that everyone here is basically honest and not out to pull a Mado!-type Ponzi scheme.)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e61b55d04183f82c5a83ab8c7a951446d7c566b329b2d181ddde1dc169bd27f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e61b55d04183f82c5a83ab8c7a951446d7c566b329b2d181ddde1dc169bd27f.jpg)  
 
 Main steps in traditional IPO in US (from [Brealey et al.(2013)Brealey, Myers, and Allen] table 15.2)  
 
@@ -4262,8 +4262,8 @@ Outline Contents 1 Valuation of Equities – Dividends & Discounting 1 1.1 Stock
 
 1.1 Stock Price = Discounted PV of Future Cash Flows (Dividends)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdf1bd8b6b1391b8c1dc2b8837af8d89034624db10ab834c223183a1967b4f59.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6cb02680e51517da6e3964fd5b6b692c9db26073bc83f2e2e4dbd2e1cc70b41.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdf1bd8b6b1391b8c1dc2b8837af8d89034624db10ab834c223183a1967b4f59.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6cb02680e51517da6e3964fd5b6b692c9db26073bc83f2e2e4dbd2e1cc70b41.jpg)  
 
 # Brealey & Myers chapter 4, BKM chapter 18  
 
@@ -4303,7 +4303,7 @@ What are  Dividends ?
 • Dividend  Rate :   $\S/\mathrm{yr}=\S1.31$  
 
 • Dividend  Yield  (generally more useful):   $\%=\Updownarrow$  dividend / \$price= 1.13%  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32371aac222beaba622621bf83ee9bf378c17c8e44be2ff80b36c1c0d57359e6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32371aac222beaba622621bf83ee9bf378c17c8e44be2ff80b36c1c0d57359e6.jpg)  
 
 # 1.2 Various Dividend Discount Models  
 
@@ -4324,7 +4324,7 @@ $$
 
 • Not realistic for most equities, but useful start  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d12f55791d6d9723da88ab77ac85d7ef2f0c186ae0cf9bb3e8b0c4caaff7e8c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d12f55791d6d9723da88ab77ac85d7ef2f0c186ae0cf9bb3e8b0c4caaff7e8c.jpg)  
 
 Based on summation formula (you should know):  
 
@@ -4350,7 +4350,7 @@ $$
 \begin{array}{c}{P V={\frac{D_{0}(1+g)}{1+y}}+{\frac{D_{0}(1+g)^{2}}{(1+y)^{2}}}+\cdot\cdot\cdot={\frac{D_{0}(1+g)}{y-g}}}\\ {={\frac{D_{1}}{y-g}}={\frac{D_{1}}{r f+r p-g}}}\end{array}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2375c9f4e866d658fef2424c01aac69f3c69ace4bb656d169cebc377ed6a16a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2375c9f4e866d658fef2424c01aac69f3c69ace4bb656d169cebc377ed6a16a.jpg)  
 
 Much more useful than “no growth” Both these formulae come from summation formula:  
 
@@ -4395,7 +4395,7 @@ $$
 
 3. Combine these:    $P V_{T o t a l}=P V_{1s t}+P V_{2n d}$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87ccfd5a71ca2cc8599c89c9b067c3bd08e28a9c08d093ca0b41546619185f80.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87ccfd5a71ca2cc8599c89c9b067c3bd08e28a9c08d093ca0b41546619185f80.jpg)  
 
 # Using Our Two Fundamental Ideas  
 
@@ -4422,7 +4422,7 @@ Let’s look at FIS, take apart the income, expenses Revenue comes in, expenses 
 
 • Pay out to shareholders (common stock, equity holders) • Retain earnings – invest in running and growing the business (more future proﬁts)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/755534af918eff62f5a6242bb54f905da16f86ab9d836bc4607c8a618bf102ac.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/755534af918eff62f5a6242bb54f905da16f86ab9d836bc4607c8a618bf102ac.jpg)  
 
 Find income statement, balance sheet, cash ﬂow statement at https://www.market watch.com/investing/stock/ﬁs/ﬁnan Some details:  
 
@@ -4452,7 +4452,7 @@ Payout ratios: Yahoo Finance, “Statistics”
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/495d8594bca8a44378f560280b338e18467fbad4cfdc0da5b57cfd625dfcf2c4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/495d8594bca8a44378f560280b338e18467fbad4cfdc0da5b57cfd625dfcf2c4.jpg)  
 
 Let’s go through the calculations for the “multistage growth model” applied to FIS assuming:  
 
@@ -4489,7 +4489,7 @@ Brealey Myers Allen Ch 4 Using DCF models di"cult • Textbook Chapter 4 covers 
 
 # Process for Cash Dividend  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92b00182e035d06e07acec51374c5ea4baf93b137e5e3dd588d9c0ad70d3e43e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92b00182e035d06e07acec51374c5ea4baf93b137e5e3dd588d9c0ad70d3e43e.jpg)  
 
 Process for cash dividend  
 Firm announces quarterly dividend on the declaration date. Generally dividends don’t change from quarter-to-quarter or year-to-year so pretty much non-event (unless there’s a change)  
@@ -4506,7 +4506,7 @@ Dividend & Buyback Equivalent Equity (common stock) gets “what’s left over�
 
 # Dividend & Buyback Equivalent  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b75787633ce188a20a1ad8a9bcd1cd64973e9083028279a8d1a0d26fac3d38.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b75787633ce188a20a1ad8a9bcd1cd64973e9083028279a8d1a0d26fac3d38.jpg)  
 
 Prior to 1983 no share repurchase s.  
 
@@ -4534,7 +4534,7 @@ Dividends can provide information that a ﬁrm is proﬁtable and management is 
 Share repurchase s tend to be temporary  
 
 • In the US at least the implicit arrangement is that share repurchase s are often temporary or one-o!.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bf12e84b1898aec2a866038e5cd664cf30c3acc6b312197072461ea2eb0aa1c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bf12e84b1898aec2a866038e5cd664cf30c3acc6b312197072461ea2eb0aa1c.jpg)  
 
 Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapter 16  
 
@@ -4544,7 +4544,7 @@ Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapt
 
 • The share price will be di!erent in the two cases, but so will the number of shares. The value at the end will be the same in both cases.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d803cd25f3737751026ccc63f13408e185523912d9a906fb3179aa3dd6a6bb4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d803cd25f3737751026ccc63f13408e185523912d9a906fb3179aa3dd6a6bb4.jpg)  
 
 # References  
 
@@ -4556,7 +4556,7 @@ Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapt
 
 Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackaging of the underlying cashﬂows Examples  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a870ac2c3059d151de924f3d8b397d80617a85dc57a71ea3b3d43b1d44df1fa9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a870ac2c3059d151de924f3d8b397d80617a85dc57a71ea3b3d43b1d44df1fa9.jpg)  
 
 • Mutual Funds, hedge funds, Exchange Traded Funds  
 
@@ -4645,7 +4645,7 @@ Se curit iz ation Liabilities:
 –  For investors can provide access to markets not available otherwise. ∗E.g. for credit-card receivable s, investors would have a hard time investing (buying) except through se curit iz ation. ∗David Bowie’s records is another example – investors could not get invest if not se curit i zed –  For Sponsors / Owners or assets, can be a way to “move assets o! balance-sheet”  $^*$  What this really means is that it is a way to raise money, to borrow – collateralized. ∗e.g. mortgages. A bank makes mortgages, using its money to lend to homeowners. ∗It then pools those mortgages together, puts into an SPV, and sells bonds against those mortgages.  $^*$  The investors are lending to the bank, with the mortgages as collateral.  
 # Pass-Through vs Trancheing (Waterfall)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b585af5b256d8ff95ef8f6508c81ccf13970499a3e95ab10a20f1a74c2104004.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b585af5b256d8ff95ef8f6508c81ccf13970499a3e95ab10a20f1a74c2104004.jpg)  
 
 Outline  
 
@@ -4671,7 +4671,7 @@ Pricing (5yr,   $\S5$   coup,   $5\%$   risky,   $4\%$   risk-free yield)
 
 • Equity  implied    $\S98.89$   (  $\mathrm{100{=}}.\mathrm{2^{*}104.45{+}.8^{*}98.89)}$  ) – pay   $\S79.11$   for 80%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2cfa8c27b91ab1bd2d288c3bdc0bbaea31de9250b7a63fb740760e84bb3c5e7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2cfa8c27b91ab1bd2d288c3bdc0bbaea31de9250b7a63fb740760e84bb3c5e7.jpg)  
 
 # Pass-through versus trancheing  
 
@@ -4697,7 +4697,7 @@ $^*$  Top tranche is called the “senior” tranche –   $20\%$   of this pool
 • Example of cash ﬂow tranche or cash-ﬂow cascade or waterfall (with 20% senior, 80% equity)  
 
 Promised   $\mathrm{CF}=\S100$  , Actual   $\mathrm{CF}=\S100$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e8d941d07de3e66d1312e4c5a5c4899e390e4a4256805d74f6c9e92283a57ed.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e8d941d07de3e66d1312e4c5a5c4899e390e4a4256805d74f6c9e92283a57ed.jpg)  
 How do we price this? Actually very easy in this case.  
 
 • We know the price of the risky mortgages (  $\S100$  , 5% yield) and the risk-free rate (  $4\%$  , for risk-free cash ﬂows)  
@@ -4708,7 +4708,7 @@ $$
 
 • The senior tranche is now risk-free so this must be priced at   $\mathbb{S}104.4518$  . We are selling   $20\%$   of the shares at this price, so this is   $\S20.8904$   (  $\mathbb{S}104.4518^{*}0.20)$  . The balance we have to sell at  $\S79.1096$   (to make the total   $\S100$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6efd3ca0a48ca3b63c27177734f3261aaa16ae9f2abb04cc319b5dd2b97c1db9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6efd3ca0a48ca3b63c27177734f3261aaa16ae9f2abb04cc319b5dd2b97c1db9.jpg)  
 Details for pricing of “mortgage bond”  
 
 • 5-year, 5% annual coupon,   $\S{100}$   bullet re-payment (not amortizing like a true mortgage).  
@@ -4741,7 +4741,7 @@ Bond is tranched 20% senior,   $80\%$   equity:
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2686cb9efcbcc22e0e9423003916f3529261e50c66858ba65891e768717a732a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2686cb9efcbcc22e0e9423003916f3529261e50c66858ba65891e768717a732a.jpg)  
 # Asset Class Comparison (US)  
 
 Remember the di!erent asset classes we discussed Focusing on Equity Market now – compare US Bond & Equity  
@@ -4758,7 +4758,7 @@ Bond market larger but Equity market better-known
 
 • In the news every day (Dow Jones, S&P)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b20aa5a917957833b44d6f577e76e619dc65d25d0201b1bcceb4f62b994f4d46.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b20aa5a917957833b44d6f577e76e619dc65d25d0201b1bcceb4f62b994f4d46.jpg)  
 
 # 2.2 What is a Firm?  
 
@@ -4822,7 +4822,7 @@ i. Joint-stock companies in England during 16th and 17th centuries, created to e
 (b) Critical – assumption of proﬁt maximization – from this all things ﬂow.  
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e5bf589f9ffb4a20f20f7004d1ed58b0f96b6e83699b663541c53b7dc898f92.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e5bf589f9ffb4a20f20f7004d1ed58b0f96b6e83699b663541c53b7dc898f92.jpg)  
 
 # Common Stock or Equity  
 
@@ -4839,11 +4839,11 @@ Common stock, shares, equity, are all names for the ownership. Three important c
 3. control or ownership  
 
 • more complicated issue than residual CF. Technically shareholders own and control the company, but as a practical issue for most publicly traded companies there are so many shareholders, with ownership so widely distributed, that control is delegated to a board of directors and the managers. We’ll have much more to say about this later.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/370596d812922ab90235185c45e5c6ebaebed609d755cd95a19c632448dffffd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/370596d812922ab90235185c45e5c6ebaebed609d755cd95a19c632448dffffd.jpg)  
 
 Let’s look at Honeywell international and discuss some of the institutional characteristics of equity. Start with book value of common stockholder’s equity (table 14.2 in BMA).  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2ed9f3049365bfe85320e4239be4810b0a5c8f50f95d4cdb81583d36811abb2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2ed9f3049365bfe85320e4239be4810b0a5c8f50f95d4cdb81583d36811abb2.jpg)  
 Actually, to my mind, most of this is pretty useless to anyone but lawyers and accountants  
 
 • Number of shares – From legal perspective, this provides some information. Articles of incorporation or bylaws state how many shares may be issued. Mainly a legal and documentation issue – authorized shares usually set at some high number so don’t have to go back and get a new board resolution or shareholders meeting just to issue new shares. For Honeywell, 2bn shares authorized, but only 958mn have been issued.  
@@ -4865,7 +4865,7 @@ To repeat, about the only valuable information from that table is the 735mn outs
 
 # Honeywell International – Market Value  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59298aec66b54e4ef6303884fa3710ee773c0965bbd5de8d7e2a7cb20625f7cf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59298aec66b54e4ef6303884fa3710ee773c0965bbd5de8d7e2a7cb20625f7cf.jpg)  
 # Ownership and Voting  
 
 Equity ownership implies company ownership  
@@ -4977,7 +4977,7 @@ Lecture 8 Thomas S. Coleman 12 April 2022; Draft April 17, 2023
 
 # Calculating Risk Premium Seems Complicated  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c397812bdcd4427c3fa51dabd20536c54e8833d61a1b811f896d4b85c2e9f9c5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c397812bdcd4427c3fa51dabd20536c54e8833d61a1b811f896d4b85c2e9f9c5.jpg)  
 
 • Use expected utility to get the CE (single, certainty equivalent CF)  
 
@@ -5024,15 +5024,15 @@ Settle 31-dec-15 –  Calculate FIS Yield  using  Promised   $C F$   Market give
 
 • Embedded in bond prices – market gives us risk premium  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/debafaeb83b58ce9c462cf995dff8e182d5d1fd312e1db55e866b5ee3aebc2df.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/debafaeb83b58ce9c462cf995dff8e182d5d1fd312e1db55e866b5ee3aebc2df.jpg)  
 
 • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/715d2dfc10190ab3e045d0aa61e85ec38af815e00a7a3e457c2b47fe92ba3e86.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/715d2dfc10190ab3e045d0aa61e85ec38af815e00a7a3e457c2b47fe92ba3e86.jpg)  
 
 • Calculate FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3031dea94fca217633cdfa20e69a6fbed011a48f0b233025ee2a5a14bb132fa3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3031dea94fca217633cdfa20e69a6fbed011a48f0b233025ee2a5a14bb132fa3.jpg)  
 Bond Market & FIS Example – Risk-Adjusted Yield  
 
 Market gives us risk premium – embedded in price (settle 31-dec-15)  
@@ -5043,7 +5043,7 @@ Market gives us risk premium – embedded in price (settle 31-dec-15)
 
 The UST CFs are known, the FIS only  promised  CFs, but CF diagram useful We can just calculate yield, market gives us risk premium!  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9ecbf6cc5eeed5e1087b6f8bf90340e7ac3e4d4191f0e2753d84b55faf29fa1c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9ecbf6cc5eeed5e1087b6f8bf90340e7ac3e4d4191f0e2753d84b55faf29fa1c.jpg)  
 
 Generally use spread:   $\mathrm{rp}=4.54\%-2.27\%=227\mathrm{bp}$  
 
@@ -5053,7 +5053,7 @@ Spread between UST ( risk-free ) and corporate  risk-adjusted  yields
 
 • 31-jan-16: UST   $2.27\%$  , FIS   $4.54\%=>$   spread = 227bp • Market’s assessment of credit risk – probability of default use company information, such as in a company’s financial statements, to help estimate the  • Embeds  uncertainty  of cash ﬂows (spread of the distribution), and  price  (compensation for uncertainty)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c6fa0093920afb02e4f839c3bb38251e74c32fd346b3327c82ad8533bf615c2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c6fa0093920afb02e4f839c3bb38251e74c32fd346b3327c82ad8533bf615c2.jpg)  
 
 Bloomberg  
 
@@ -5076,7 +5076,7 @@ Overall (risky) yield separates into two parts:
 
 1. UST (risk-free) discounting   $\left(y_{u s t}\right)$   – overall market 2. Risk premium   $(r p)$   – speciﬁc to FIS (or whatever company)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/323b9af55b58eee08d1140bef7004efd3c8aea890d4b621422a592b8d7b517a3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/323b9af55b58eee08d1140bef7004efd3c8aea890d4b621422a592b8d7b517a3.jpg)  
 
 # Alternative (less useful): Risk Premium in Dollars  
 
@@ -5084,16 +5084,16 @@ Risk Premium   $\left(1\!+\!r p\right)$   tells us value or price of uncertainty
 
 • Discount FIS at UST (risk-free) yield: what FIS  would  be if certain CFs • FIS: 5% coupon, 15-oct-25 (31-dec-15)   $\mathrm{Y{=}4.536\%}$  , P=103.626  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c455fca477fa5e543e3fad80b292bd3f47c0220959f4d2ae4c773576a095638.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c455fca477fa5e543e3fad80b292bd3f47c0220959f4d2ae4c773576a095638.jpg)  
 
 $\bullet$   FIS: 5% coupon, 15-oct-25 (31-dec-15) Y=2.268%, P=123.859  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e88d51a244160ff83502bb4abd40959574672919ab2d21ce3352fec409c5ce6b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e88d51a244160ff83502bb4abd40959574672919ab2d21ce3352fec409c5ce6b.jpg)  
 
 Di!erence –   $\S20.23$   – is   $\S$   value of uncertainty • But less useful than risk premium in yield (227bp) • 227bp applies every year, to any similar CFs  
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f99a94c51a0fb15d65a12eb52873b0f858916f28f250b4422ef8b925077caa9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f99a94c51a0fb15d65a12eb52873b0f858916f28f250b4422ef8b925077caa9.jpg)  
 # Bankruptcy Costs  
 
 Bankruptcy does have costs, can be long & expensive process  
@@ -5131,10 +5131,10 @@ i. But this is interesting – not a re-scheduling. ii. Consols redeemable annui
 
 # Nations Default Often – R&R Figure 6.2  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0e84d45e27977d6c5ffaa436deba76235d9049b737f8c26bdd4e1f1b5fe0711.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0e84d45e27977d6c5ffaa436deba76235d9049b737f8c26bdd4e1f1b5fe0711.jpg)  
 
 Argentina,  1816     1827    1890  [Reinhart and Rogo!(2011)] Figure 6.2. This copy from [Reinhart and Rogo!(2008)]  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1985a7210b5a48e858482ae514f11e679a121fee3852cc41c829ee76d0736b9c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1985a7210b5a48e858482ae514f11e679a121fee3852cc41c829ee76d0736b9c.jpg)  
 
 [Reinhart and Rogo!(2011)] Figure 6.4. This copy from [Reinhart and Rogo!(2008)]  
 
@@ -5142,14 +5142,14 @@ Argentina,  1816     1827    1890  [Reinhart and Rogo!(2011)] Figure 6.2. This c
 
 El Salvador  1921  1932, 1938      • Defaults common – be cautious with debt and borrowing 1986, 1989  Honduras        1981  1840s, when, at times, nearly half the countries in the world were in default (including all  • But “Serial Default” etc. symptoms of more fundamental causes. of Latin America).  The third episode begins in the early 1870s and lasts for two decades.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/feba1f0a457fa6d65a1617c849eb424f9c95ef95c3e8096478dd776108c158e7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/feba1f0a457fa6d65a1617c849eb424f9c95ef95c3e8096478dd776108c158e7.jpg)  
 
 [Reinhart and Rogo!(2011)] Figure 5.1. This copy from [Reinhart and Rogo!(2008)]  
 # 1.3 Credit Spreads – Market Measure of Default Uncertainty – Revisit Sovereign Default  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5c24a282333c19b9ffaf80ce0c48fa65517e6a7eea483bcd8477d8f75a2adac.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5c24a282333c19b9ffaf80ce0c48fa65517e6a7eea483bcd8477d8f75a2adac.jpg)  
 
 Spread measures market’s perception (and valuation) for uncertainty Brazil: low coupon but low price    $\Rightarrow$  high yield: 195bp over UST • Always look at yield as  spread  to bond with known CFs (UST)  
 
@@ -5165,7 +5165,7 @@ $$
 P V={\frac{C E}{1+u s t}}={\frac{C F_{o r i g}^{p r o m}}{\left(1+y_{r i s k y}\right)}}={\frac{C F_{o r i g}^{p r o m}}{\left(1+u s t\right)\left(1+r p\right)}}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f464203be5149a9b29f5f5ec63e4af74caf7a0516729b98914bb296a8fd45a63.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f464203be5149a9b29f5f5ec63e4af74caf7a0516729b98914bb296a8fd45a63.jpg)  
 
 We get    $\mathit{\Delta}^{\mathit{r p}}$   by: Market Price    $\rightarrow$  Risk-adjusted yield    $\rightarrow$  Risk Premium  
 
@@ -5182,15 +5182,15 @@ $$
 
 • Let’s adjust Brazil CFs: 1/1.01195  per year • Promised CFs reduced year-by-year: FV is    $91.68={\frac{100}{(1.0195)^{4.5}}}$  • Discounting at UST, we get today’s PV  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf8bd1ebed5e8d90d8bd21808cd283ffb0fc604dafa2eb0bfbd84a5d5369b8b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf8bd1ebed5e8d90d8bd21808cd283ffb0fc604dafa2eb0bfbd84a5d5369b8b.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45083825d6ffc1c56d9c62598b9cf71c910215673e3612106c66467c53d5461c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45083825d6ffc1c56d9c62598b9cf71c910215673e3612106c66467c53d5461c.jpg)  
 
 # Credit Spread: Market Measure of “Default”  
 
 “Credit Spread”: yield relative to low-risk yield – UST  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/251a347a88a0ef58e8bd1ceb29242e4b2a6a592c86295e2bfc075224c5070942.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/251a347a88a0ef58e8bd1ceb29242e4b2a6a592c86295e2bfc075224c5070942.jpg)  
 
 Measure relative to “certainty yield” for known   $\mathrm{CF\mathrm{~-~}U S T}$  Compensation for extra risk of default (over UST), set by market • Brazil 1/23: 5yr UST 2.94%.  $\mathrm{Speed}=4.89-2.94=1.95\%$   or 195bp Details on credit spread (risk-premium) calculation  
 
@@ -5209,7 +5209,7 @@ Turkey: Higher spread, market says more chance of default
 
 Credit Spreads di!er across maturity as well as across issuers • Di!erences bigger and more important across issuers  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9e3eac79c41561a96da30dfdbf81fb6f7bbd5f0bb29cb3d279a80744debb9ae.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9e3eac79c41561a96da30dfdbf81fb6f7bbd5f0bb29cb3d279a80744debb9ae.jpg)  
 
 Term structure (maturity) di!erences due to changing likelihood over time • Often see rising pattern – more and better knowledge about close-in events  
 
@@ -5221,7 +5221,7 @@ NB: 3-oct-18 from FT gives price and yield for Brazil   $5.63\%$   of 2/47 (as a
 
 Germany is the “safe” country Measure France, Italy, Greece relative to Germany (3-oct-18 from FT)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f58a6f7e943937e4c7288134adca48413f15c37a2f8dc696e0a2f56607c6725.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f58a6f7e943937e4c7288134adca48413f15c37a2f8dc696e0a2f56607c6725.jpg)  
 
 $\bullet$   Higher spread gives investors compensation for possible default  
 
@@ -5236,7 +5236,7 @@ Valuation of uncertain CFs either by spread or “intensity”:
 • For Greece,  380 bp spread  ↔ 5 . 31%  intensity • Spread: for bonds, usual “promised” CFs  
 
 • Intensity: for di!erent CFs like CDS – see my “Practical Guide” in week 4 module  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d36c95253d29b41b6a892a4f760261937e8d2df5e483eae445f8fe95987c9fc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d36c95253d29b41b6a892a4f760261937e8d2df5e483eae445f8fe95987c9fc.jpg)  
 Credit Spread for Europe Germany is the “safe” country Measure France, Italy, Spain, Belgium relative to Germany  
 
 1. Digression on credit spreads  
@@ -5247,11 +5247,11 @@ i. Often investors receive a higher coupon or higher yield that compensates for 
 
 (b) Credit spreads as of 24-apr-17 (from FT)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/46cccc17d57c5b37c2d7f1ee1e9823eda64cbfa977b885171329268a40c5765b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/46cccc17d57c5b37c2d7f1ee1e9823eda64cbfa977b885171329268a40c5765b.jpg)  
 
 (c) Credit spreads as of 3-oct-18 (from FT)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df2b99a7cfaacd268c24c24016b366beef517678630d84bacfb3a8fbbf21ded5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df2b99a7cfaacd268c24c24016b366beef517678630d84bacfb3a8fbbf21ded5.jpg)  
 
 (d) “Yield” correctly measures how much you earn – it trades of the lower price (you buy the bond cheaper) and higher coupon (you earn more each year).  
 i. Take the Brazil 12.50% of 1/31/22. Very high coupon is good (earn a lot each year) but you have to pay a lot up-front (  $\S$  111.029). Net you earn 9.49% ii. Still, this is much higher than for US go’vt bonds – similar maturity UST is the  $1.875\%$   of 03/22 with yield of 1.81%. Spread of 768bp. (e) Credit spread incorporates both the  probability  of the default and the  value  of the loss – how much investors are hurt by the loss. i. Incorporates recovery – default usually does not mean you lose all \$100  
@@ -5264,7 +5264,7 @@ For those interested in this kind of valuation (which is used for valuing Credit
 
 Spreads Change as Market Valuation of Credit Risk Changes 10-year US Corporate Spreads  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5aac7e30e6979468203d9eacca9742289decf25fb6cb96c41e3ad1102a37903.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5aac7e30e6979468203d9eacca9742289decf25fb6cb96c41e3ad1102a37903.jpg)  
 
 Changes in preferences for risk and expectations of default  
 
@@ -5273,7 +5273,7 @@ Changes in preferences for risk and expectations of default
 # Contents  
 
 1. What are credit ratings (a) Agencies (3 big: S&P, Moody’s, Fitch) (b) Ratings 2. Examples (a) Some companies and ratings 3. Bond Ratings as Proxy for Credit Spread (slide already done)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59ede3dee39df82002e77b0ee589b3b69cdaf5da69a612274b15bec103ab14a0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59ede3dee39df82002e77b0ee589b3b69cdaf5da69a612274b15bec103ab14a0.jpg)  
 
 Spreads shown in the table are for late 2015 or early 2016, taken from Bloomberg  
 # Bond Ratings & Credit Spread – Both Measure Default Risk  
@@ -5332,7 +5332,7 @@ More complicated, but really useful for options
 
 To make concrete,  Constant Relative Risk Aversion  function:    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  ,    $\gamma=8$  →  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bfe574797595d0219e44391da49588b5c2f4bc1a3ad1da221ead38a837e1edf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bfe574797595d0219e44391da49588b5c2f4bc1a3ad1da221ead38a837e1edf.jpg)  
 
 Our original CFs and expected utility give CE of   $\S764.28$  Adjust distribution by one of two ways so dist’n gives CE:  
 
@@ -5351,10 +5351,10 @@ Adjust Probabilities : When using the distribution itself
 
 • Cannot use risk premium – look at only part of the distribution – only \$888.59  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36857a193a63d755c4ee06f6fa52cdbcd600d82f7f95359612dbfd15868cd897.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36857a193a63d755c4ee06f6fa52cdbcd600d82f7f95359612dbfd15868cd897.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bd19d684e3f8d6c9d03998b6066cd3e07378fe4d72f2fb94a20831111d93d527.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9bc0c17215ee73707b1dba2a74fe9b0c49a059b39627eff110df2dfe2f48863.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bd19d684e3f8d6c9d03998b6066cd3e07378fe4d72f2fb94a20831111d93d527.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9bc0c17215ee73707b1dba2a74fe9b0c49a059b39627eff110df2dfe2f48863.jpg)  
 
 # 3 Corporate Bonds (Sharpe 14.6)  
 
@@ -5371,8 +5371,8 @@ Legal contract that lays out  Promised Payments  and  Protections Lays out vario
 
 # Indenture – Apple 2015 Bond (BKM ﬁg 14.10)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7348e2a11cd9e06b59136c07f6a584bee8c341e01d3e1b6b34368c07ec4c6ee.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c802ee9cc940997d63535829350c2bd7dbb0c50a175e759028cdfb982f6d8b5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7348e2a11cd9e06b59136c07f6a584bee8c341e01d3e1b6b34368c07ec4c6ee.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c802ee9cc940997d63535829350c2bd7dbb0c50a175e759028cdfb982f6d8b5.jpg)  
 
 Types of Bonds Mortgage Bonds  
 
@@ -5400,8 +5400,8 @@ Lecture 7 Thomas S. Coleman 10 April 2023 Draft April 12, 2023
 
 Section II of “Practical Guide to Yield Curves, Discounting, and Derivatives” (Canvas); ch 2 of “Practical Guide to Risk Mgmt” (Amazon or CFA)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/edc05398411abb0beacaf517411818b5ae221c2590d6d5935527b2a08853761d.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c21d26d3c0db67d3e7ad344978949571b4c410299c726070ef4966c74030a10.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/edc05398411abb0beacaf517411818b5ae221c2590d6d5935527b2a08853761d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c21d26d3c0db67d3e7ad344978949571b4c410299c726070ef4966c74030a10.jpg)  
 
 # 2 Problem – We Don’t Know How to PV Uncertain CFs (notes)  
 
@@ -5415,11 +5415,11 @@ Section II of “Practical Guide to Yield Curves, Discounting, and Derivatives�
 
 We Think We’re Smart, But Why Di!erent Yields for UST & FIS? Turns out we don’t even how to PV our FIS bond Let’s look at UST & FIS, and calculate yields • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a235ffb5f590383d585c692476390618f9de0419a7d3b6c2620fb96dcd399bd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a235ffb5f590383d585c692476390618f9de0419a7d3b6c2620fb96dcd399bd.jpg)  
 
 • FIS: 30/360, semi 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c157838527c1e1a19aeab06b7d72d19bd6eedd67ad3266adb5b742e5cc37d4aa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c157838527c1e1a19aeab06b7d72d19bd6eedd67ad3266adb5b742e5cc37d4aa.jpg)  
 
 These UST and FIS prices (and yields) are from December 2015. Our Discounting for FIS Totally Wrong  
 • UST: 2.25% coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268% • FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
@@ -5430,7 +5430,7 @@ This cannot be right – such huge discounting di!erences We should discount CFs
 
 Fact is, we don’t really have a clue how to PV the FIS bond!  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd2eb3b9fb5ad91225967dcd5769aa41c128ba742814a722ca0597f650b9cc61.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd2eb3b9fb5ad91225967dcd5769aa41c128ba742814a722ca0597f650b9cc61.jpg)  
 
 We often draw the future FIS cash ﬂows as if they were a single value but what we always put down is the “promised” CF, or maybe the expected (average) CF. That simple diagram misleads us into thinking that we understand when in fact we don’t have a clue  
 
@@ -5438,7 +5438,7 @@ We often draw the future FIS cash ﬂows as if they were a single value but what
 
 We draw FIS and UST same way – but actually very di!erent • UST: actual known future CFs – we discount to get PV:  $\textstyle{\frac{C F}{(1+y)^{n}}}$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c5e27e673cdeaa5bed9334f16e58e718b89cdcaea4db85c250006d0fef31977.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c5e27e673cdeaa5bed9334f16e58e718b89cdcaea4db85c250006d0fef31977.jpg)  
 
 Pictures make it look like we can discount, but we can’t (so far)  
 
@@ -5447,8 +5447,8 @@ Let’s turn to a simpliﬁed example to show us why we can’t do simple discou
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/43f6762eab315b9b5e608f79744cf8e4fe84f0c177c45d61fa8edbdae3302303.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56dad4959585e6398d449782dc1834aab0a6126abb07af573713defc13f4a5de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/43f6762eab315b9b5e608f79744cf8e4fe84f0c177c45d61fa8edbdae3302303.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56dad4959585e6398d449782dc1834aab0a6126abb07af573713defc13f4a5de.jpg)  
 
 This example happens to be derived from an example in Brealey & Myers textbook. From my edition, p. 20 & 232  
 
@@ -5456,7 +5456,7 @@ This example happens to be derived from an example in Brealey & Myers textbook. 
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddf5b06c2559896ef3fb46b402a541536ccb72abdc0fe40649fee666277f2fe.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddf5b06c2559896ef3fb46b402a541536ccb72abdc0fe40649fee666277f2fe.jpg)  
 # Framework for Discounting Uncertain CFs  
 
 Theory issues we need to address  
@@ -5484,7 +5484,7 @@ The “problem” with risk-adjusted discounting (risk premium) is that it works
 
 3.1 Deﬁning Certainty Equivalent – CF Equivalent to Utility Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca8b37ef86d43c8af7779e1fe48c1811296bd8aa95b14ea844e9f863d84ff5ad.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca8b37ef86d43c8af7779e1fe48c1811296bd8aa95b14ea844e9f863d84ff5ad.jpg)  
 # Averaging Utility – Not CFs  
 
 We want  utility  or  value  of those two possibilities We have to average the  utility  not CFs (expected utility not expected CF)  
@@ -5495,7 +5495,7 @@ $$
 
 To make concrete,  Constant Relative Risk Aversion :    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  , with    $\gamma=8$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbf32b3cd2d9e6b36f17ed54e52cc585db819c2006be6a3d7614e0994ac48ba4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbf32b3cd2d9e6b36f17ed54e52cc585db819c2006be6a3d7614e0994ac48ba4.jpg)  
 
 But we can always ask “what single CF is equivalent to our utility?” Solve for  Certainty Equivalent :  
 
@@ -5507,7 +5507,7 @@ $\gamma=8$   (a reasonable number which produces reasonable risk aversion)
 
 # Certainty Equivalent – CF that Gives Correct Utility  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3fa8a94f645725e31ff5e4e9141265ae06ec86c5d03bca7b440dfcb8770945df.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3fa8a94f645725e31ff5e4e9141265ae06ec86c5d03bca7b440dfcb8770945df.jpg)  
 
 Solve for  Certainty Equivalent :  
 
@@ -5525,7 +5525,7 @@ But we can always ask “what single CF is equivalent to our utility?” Call th
 
 To make concrete,  Constant Relative Risk Aversion  function:    $\begin{array}{r}{u(C)\ =\ \frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  with    $\gamma\:=\:8$   (a → reasonable number which produces reasonable risk aversion)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/547b6f435c7a24c522b366004a20825c3be1c77083d1854706e8958ef3177eb5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/547b6f435c7a24c522b366004a20825c3be1c77083d1854706e8958ef3177eb5.jpg)  
 
 p  = probability of low outcome  
 
@@ -5548,7 +5548,7 @@ $$
 
 where  
 
-$\pmb{p}$   = probability of low outcome  
+$\textdollar{p}$   = probability of low outcome  
 
 $c_{l}\,=\,\mathrm{low}$   cash ﬂow (\$711.41k in our example)  $C_{h}\ ={\mathrm{high}}$   cash ﬂow (\$888.59k in our example)  
 
@@ -5579,7 +5579,7 @@ It is no accident that the certainty equivalent from our utility example is the 
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6320334cc4f9917318fcc252365c0025ae1c6af88d72725275fffb2288bfb1bb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6320334cc4f9917318fcc252365c0025ae1c6af88d72725275fffb2288bfb1bb.jpg)  
 # Adjusting CFs by Risk Premium – To Use Original Average  
 
 We have multiple steps: 1.  Get CE (certainty equivalent) from dist’n using utility  
@@ -5598,7 +5598,7 @@ $$
 \begin{array}{l}{{C E=p\cdot C F_{a d j}^{l o}+(1-p)\cdot C F_{a d j}^{h i}}}\\ {{\ }}\\ {{764.28=\displaystyle\frac{1}{2}\cdot679.66+\frac{1}{2}\cdot848.93}}\end{array}
 $$  
 
-3.  Write adjustment as   $\pmb{1}\sqrt{\pmb{1}+\pmb{r p}}$  :  
+3.  Write adjustment as   $\textdollar{1}\sqrt{\textdollar{1}+\textdollar{r p}}$  :  
 
 $$
 C E=p\cdot\frac{C F_{o r i g}^{l o}}{1+r p}+(1-p)\cdot\frac{C F_{o r i g}^{h i}}{1+r p}
@@ -5645,7 +5645,7 @@ P V={\frac{C E}{1+r f}}={\frac{C F_{o r i g}^{a v g}}{\left(1+r f\right)\left(1+
 $$  
 
 So now we can use the average CF (or promised CF) from the distribution, which is usually easy to get, and use this single number to discount in the way we always have, but with the additional adjustment of the  $\textstyle{\frac{1}{1+r p}}$  .  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f912e17ea8adfbec63a791b1b9f2f363fc3996b46b28063b291c77ad47c3fd53.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f912e17ea8adfbec63a791b1b9f2f363fc3996b46b28063b291c77ad47c3fd53.jpg)  
 
 # 3.3 Return to UST & FIS  
 
@@ -5658,15 +5658,15 @@ Settle 31-dec-15 –  Calculate FIS Yield  using  Promised CF  Market gives us r
 
 • Embedded in bond prices – market gives us risk premium  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f96197ebdc67c8c90fd7b902428f25b684bb2eab5d19f4e011020a20a6239a4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f96197ebdc67c8c90fd7b902428f25b684bb2eab5d19f4e011020a20a6239a4.jpg)  
 
 • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3716d56e0921a9ee970af40f6d4234fdf654e5e4cdba1bbfa5e209dd30c3ce61.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3716d56e0921a9ee970af40f6d4234fdf654e5e4cdba1bbfa5e209dd30c3ce61.jpg)  
 
 • Calculate FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c24eaaff5f1374daef318375e322bac9ee46ec4a20ab60a795e1c7280b2b9e5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c24eaaff5f1374daef318375e322bac9ee46ec4a20ab60a795e1c7280b2b9e5.jpg)  
 
 # Bond Market & FIS Example – Risk-Adjusted Yield  
 
@@ -5684,7 +5684,7 @@ $$
 
 The UST CFs are known, the FIS only  promised  CFs, but CF diagram useful We can just calculate yield, market gives us risk premium!  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52be36abb00fbb727fd015cb3613049ca2271eace27168f2bb69e4f34a90de98.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52be36abb00fbb727fd015cb3613049ca2271eace27168f2bb69e4f34a90de98.jpg)  
 
 Generally use spread:   $\mathrm{rp}=4.54\%-2.27\%=227\mathrm{bp}$  
 # Risk Premium From Market Yields  
@@ -5703,7 +5703,7 @@ Overall (risky) yield separates into two parts:
 
 1. Risk-free discounting   $(r f)$   – overall market 2. Risk premium   $(r p)$   – speciﬁc to FIS (or whatever company)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bab07beca9b738f88cc74acc099f08fda8e54deb80e314a05a23e9af5f98f111.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bab07beca9b738f88cc74acc099f08fda8e54deb80e314a05a23e9af5f98f111.jpg)  
 
 # Alternative (less useful): Risk Premium in Dollars  
 
@@ -5711,11 +5711,11 @@ Risk Premium   $\left(1\!+\!r p\right)$   tells us value or price of uncertainty
 
 • Discount FIS at UST (risk-free) yield   $(2.268\%)$  ): what FIS  would  be if certain CFs • FIS: 5% coupon, 15-oct-25 (31-dec-15)   $\mathrm{Y{=}4.536\%}$  , P=103.626  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a39b9ce369c7ce1a0445199bf00345a8a01edf4853ba212630294d2d3b5942e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a39b9ce369c7ce1a0445199bf00345a8a01edf4853ba212630294d2d3b5942e.jpg)  
 
 $\bullet$   FIS: 5% coupon, 15-oct-25 (31-dec-15) Y=2.268%, P=123.859  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5470f2a3187969ab7cc8464d2db615b9b4d8650834b55ddfef3433dab19a196b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5470f2a3187969ab7cc8464d2db615b9b4d8650834b55ddfef3433dab19a196b.jpg)  
 
 Di!erence –   $\S$  20.23 – is   $\S$   value of uncertainty • But less useful than risk premium in yield (227bp) • 227bp applies every year, to any similar CFs  
 4 Se curit iz ation  
@@ -5724,7 +5724,7 @@ Di!erence –   $\S$  20.23 – is   $\S$   value of uncertainty • But less us
 
 Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackaging of the underlying cashﬂows Examples  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ced9a92ebeff57bd5e7185b2a23bb0b510553510d7d3e9bd73a66abbafdcebd1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ced9a92ebeff57bd5e7185b2a23bb0b510553510d7d3e9bd73a66abbafdcebd1.jpg)  
 
 • Mutual Funds, hedge funds, Exchange Traded Funds  
 
@@ -5815,7 +5815,7 @@ Se curit iz ation Liabilities:
 –  For investors can provide access to markets not available otherwise. ∗E.g. for credit-card receivable s, investors would have a hard time investing (buying) except through se curit iz ation. ∗David Bowie’s records is another example – investors could not get invest if not se curit i zed –  For Sponsors / Owners or assets, can be a way to “move assets o! balance-sheet”  $^*$  What this really means is that it is a way to raise money, to borrow – collateralized. ∗e.g. mortgages. A bank makes mortgages, using its money to lend to homeowners. ∗It then pools those mortgages together, puts into an SPV, and sells bonds against those mortgages.  $^*$  The investors are lending to the bank, with the mortgages as collateral.  
 # Pass-Through vs Trancheing (Waterfall)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64efc3fb6370969668938b02c02a00f7fa641f560ede18466d79650571d12d3f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64efc3fb6370969668938b02c02a00f7fa641f560ede18466d79650571d12d3f.jpg)  
 
 Outline  
 
@@ -5841,7 +5841,7 @@ Probability of 10% loss – pay back either \$100 or   $\S90$
 
 • Equity  implied    $\S98.89$   (  $\mathrm{100{=}}.\mathrm{2^{*}104.45{+}.8^{*}98.89)}$  ) – pay   $\S79.11$   for 80%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/680cd4a2a549ac708776e38762bfa9226bed0a792115fa39d4cb79f0f3bbcabc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/680cd4a2a549ac708776e38762bfa9226bed0a792115fa39d4cb79f0f3bbcabc.jpg)  
 
 # Pass-through versus trancheing  
 
@@ -5867,7 +5867,7 @@ $^*$  Top tranche is called the “senior” tranche –   $20\%$   of this pool
 • Example of cash ﬂow tranche or cash-ﬂow cascade or waterfall (with 20% senior, 80% equity)  
 
 Promised   $\mathrm{CF}=\S100$  , Actual   $\mathrm{CF}=\S100$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b5ebc8484344c51c202f68b87983a157621f219aca3b458cac241d9adc67067b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b5ebc8484344c51c202f68b87983a157621f219aca3b458cac241d9adc67067b.jpg)  
 How do we price this? Actually very easy in this case.  
 
 • We know the price of the risky mortgages (  $\S100$  , 5% yield) and the risk-free rate (  $4\%$  , for risk-free cash ﬂows)  
@@ -5878,7 +5878,7 @@ $$
 
 • The senior tranche is now risk-free so this must be priced at   $\mathbb{S}104.4518$  . We are selling   $20\%$   of the shares at this price, so this is   $\S20.8904$   (  $\mathbb{S}104.4518^{*}0.20)$  . The balance we have to sell at  $\S79.1096$   (to make the total   $\S100$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9aae3e27ecac191f8745628156cdeda15f1fbf54e72258409a8bcec80ff5c402.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9aae3e27ecac191f8745628156cdeda15f1fbf54e72258409a8bcec80ff5c402.jpg)  
 Details for pricing of “mortgage bond”  
 
 • 5-year, 5% annual coupon,   $\S{100}$   bullet re-payment (not amortizing like a true mortgage). • Chance that   $10\%$   of mortgages will fail to repay principal • Price \$100, so yield (risky yield) 5% • Risk-free rate   $4\%$  , so risk-free bond PV(5yr bond, 5% coupon,  $4\%{\mathrm{~yield}})=\S104.4518$  • Assume that all coupons paid with certainty,   $10\%$   of principal will default with some probability (either no-default and get   $\S100$  , or yes-default at year 5 and get \$90) • Use risk-neutral (risk-adjusted) pricing:  $\begin{array}{c}{{P V(r i s k y\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}}\\ {{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S90\,@\,4\%)}}\end{array}$  Implies (risk-neutral) probability of default is    $\phi=54.16\%$  • PV of tranched risky bond with recovery   $87.5\%$   (using risk-neutral pricing):  $\begin{array}{r l}&{\qquad\qquad P V(t r a n c h e d\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}\\ &{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S87.5\,@\,4\%)}\end{array}$   Bond is tranched   $20\%$   senior,   $80\%$   equity:  
@@ -5926,7 +5926,7 @@ Yield-to-Maturity: discount each bond at own rate But cannot be the right way: c
 
 •  Law of One Price : Discount  all  CFs during yr 1 & 2 at same rate • We know rate is  $1.162\%$   for yr 1 & 2  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1a07883147c9c24fbd8274af3945488f9edb1d64899bc0b0322f4495d235b1af.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1a07883147c9c24fbd8274af3945488f9edb1d64899bc0b0322f4495d235b1af.jpg)  
 
 Yield for 5yr bond is complicated average of 0-2 and 2-5 yr rates  
 
@@ -5934,18 +5934,18 @@ Yield for 5yr bond is complicated average of 0-2 and 2-5 yr rates
 
 We know    $f_{0\to2}=1.162\%$   – discount coupons for yr 1 & 2 at   $1.162\%$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93aede09376450ee07d7acaf9c223096ebc270847d0219fdbe7a25c89ad1efd2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93aede09376450ee07d7acaf9c223096ebc270847d0219fdbe7a25c89ad1efd2.jpg)  
 
 Now bonds consistent – just need to solve for    $f_{2\rightarrow5}=\mathrm{??}$  
 # Graphing Yield-to-Maturity – Results  
 
 Three graphs saying the same in di!erent ways 1. Yield-to-maturity: treat each bond in its own world 2. Zero rate: rate  from today to some date  (e  $\S~0\rightarrow2y r$  ,    $0\rightarrow5y r$  ) 3. Forward rate: rate  between dates  (  $\mathrm{eg\2}y r\rightarrow5y r$  ) Look at some actual bonds prices & yields:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9556af218b53a5171f0a35802b22deaf267fbef37233f4164ec6ea754060d50.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9556af218b53a5171f0a35802b22deaf267fbef37233f4164ec6ea754060d50.jpg)  
 
 1. 5yr  Yield  of   $1.721\%$  : for the 5yr bond (all CFs) 2. 5yr  Zero  of   $1.731\%$  : for the CF  at yr 5 3.  2 yr  → 5 yr  Forward  of   $2.111\%$  : for CFs  between  2 & 5  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94f777f1c205d10165f31ce640d7e912f8ae332d7caa7de857e0ea7782aa677c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94f777f1c205d10165f31ce640d7e912f8ae332d7caa7de857e0ea7782aa677c.jpg)  
 
 # 1.2 “Yield Curve” – Some Terminology & Math  
 
@@ -5960,18 +5960,18 @@ Contents
 
 Write 2yr swap (coup  $\Updownarrow1.162/\mathrm{yr}$  ,   $\mathrm{PV}{=}\S100$  ) various ways  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0b5953ff1ee222d6e479163601692444925116cd39e3107771b64b9db5bbfad.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0b5953ff1ee222d6e479163601692444925116cd39e3107771b64b9db5bbfad.jpg)  
 
 # Yield, Zero, Forward for 2-year Swap  
 
 Write 2yr swap (coup  $\Updownarrow1.162/\mathrm{yr}$  ,   $\mathrm{PV}{=}\S100$  ) various ways  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4365edaddf402bed49cab2c8da08db9f6652cd14709a262af5519fc189cb8ff6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4365edaddf402bed49cab2c8da08db9f6652cd14709a262af5519fc189cb8ff6.jpg)  
 
 ! ! ! ! !  
 
 Here they are all the same number (1.162%sab) – ﬂat curve 0-2 years  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7bffae48df10f3650a1f109a443ed90616e5052138a95beee8e1ac861d4395dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7bffae48df10f3650a1f109a443ed90616e5052138a95beee8e1ac861d4395dd.jpg)  
 
 Paper on estimating forward rates: “Fitting Forward Rates to Market Data” https://papers.ssrn.com/abstract  $\mathbf{\beta},=$  994870  
 
@@ -5982,18 +5982,18 @@ Paper on estimating forward rates: “Fitting Forward Rates to Market Data” ht
 
 We can forward value the   $1.721\%$   coupon to get FV as of yr 2 Then we calculate yield for that forward bond  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97491aba14cd10175f7fc93e0f5c01b513703f50518ea6c5a2dbf920588ed853.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97491aba14cd10175f7fc93e0f5c01b513703f50518ea6c5a2dbf920588ed853.jpg)  
 
 I have veriﬁed these from the spread-sheet “yld_fwd6.xls” For reference, here the last column are forward rates, cc  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18720cdd786a5a1302b70cf34d72dd00d49a5f6899f3e52463a7471815a69904.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18720cdd786a5a1302b70cf34d72dd00d49a5f6899f3e52463a7471815a69904.jpg)  
 
 # Split 5yr into Two: 0-2 & 2-5 Years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51f61fcdcd7e49cc9aef4dad231a966e2cdc61b3084cdf14b91e47e5e3800fe4.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d005eb46d0c473cf43d6f9aef0f74ce9b8f83f223e9ee4b10f52d5947ba03b11.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51f61fcdcd7e49cc9aef4dad231a966e2cdc61b3084cdf14b91e47e5e3800fe4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d005eb46d0c473cf43d6f9aef0f74ce9b8f83f223e9ee4b10f52d5947ba03b11.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/165a01348e889b60c7bfa703a3973f8f51bbaf78269a17504a150750372ddc67.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/165a01348e889b60c7bfa703a3973f8f51bbaf78269a17504a150750372ddc67.jpg)  
 
 NB - this is using  $2\ \mathrm{p/yr}$  The point here is that we know the  $0{>}2$   year rate from the 2-yr bond. We should use that, and then ask “what is the   ${\mathrm{2->5~yr}}$   forward?”  
 1.4 Mathematics of Forward and Zero (Spot) Rates –  Skip This Section Contents  
@@ -6099,7 +6099,7 @@ $$
 
 Example Bonds and Implied Forward Rates  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7246ede820ab06db60790c971ab5bf031f917299a547ee99494e49c29eaa3e1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7246ede820ab06db60790c971ab5bf031f917299a547ee99494e49c29eaa3e1.jpg)  
 
 With the forward or zero rates, we can PV  any  CF  
 
@@ -6120,19 +6120,19 @@ $$
 Contents  
 Using Forward Rates: PV for Arbitrary CFs  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/283eaa89b08663624c9ff117d29ac7c7352736cd2fbd2475abf1c1296d8723f3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/283eaa89b08663624c9ff117d29ac7c7352736cd2fbd2475abf1c1296d8723f3.jpg)  
 
 What is PV for 4yr,   $2\%$   bond? Or swap? Break into two as before 1. Bond from yr 4 back to yr 2: 2yr   $2\%$   coupon bond at   $2.111\%\mathrm{sab}$  2. “Bond” from yr 2 (FV not 100) back to yr 0: 2yr  $2\%$   “bond” (with FV not 100) at   $1.162\%$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a9067b59263cbe8437d52fb784c6fc329a8e36302fbde2abb23973c92182c1b0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a9067b59263cbe8437d52fb784c6fc329a8e36302fbde2abb23973c92182c1b0.jpg)  
 
 # 4yr,   $2\%$   bond, PV = 101.4406  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c06f8df2c920f138cbc8cf359025246b851ddb22216452530942f0eba70eac09.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c06f8df2c920f138cbc8cf359025246b851ddb22216452530942f0eba70eac09.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d4b40b58ec32a120725934842d0c8c169dbc9e0b84a330b379631e3c0995667.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d4b40b58ec32a120725934842d0c8c169dbc9e0b84a330b379631e3c0995667.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7fd8a919643e09b67b07ef490412bf5adcda116b7a2b9142159adf8844f73db.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7fd8a919643e09b67b07ef490412bf5adcda116b7a2b9142159adf8844f73db.jpg)  
 
 Note a few things:  
 
@@ -6148,8 +6148,8 @@ $$
 
 In this case  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93446247ecbe6e0e872a107331a829991d6f2da432f0bf6403e7383f53962f91.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/075e07ddfbf24b65b2f37e813aa169957a61a25987979c2f7d130e8b934b4163.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93446247ecbe6e0e872a107331a829991d6f2da432f0bf6403e7383f53962f91.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/075e07ddfbf24b65b2f37e813aa169957a61a25987979c2f7d130e8b934b4163.jpg)  
 
 $$
 \begin{array}{c}{100=c\cdot P V(\S1\,a n n u i t y)+P V(\S100)}\\ {100=c\cdot3.874974+93.690678}\end{array}
@@ -6157,7 +6157,7 @@ $$
 
 and so  c  = 1 . 6282  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d88bb48bf8f696a0e14440b08a543553bcd2e5e1d4cae03a5841cfd8354cf8d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d88bb48bf8f696a0e14440b08a543553bcd2e5e1d4cae03a5841cfd8354cf8d.jpg)  
 
 # References  
 # Bond Sensitivity: BPV, DV01, and Duration  
@@ -6180,7 +6180,7 @@ $$
 
 TVM does this automatically, gives Yield (Interest) per yr (  $\mathrm{I\%}$  YR) • Make sure set right:   $<$  Blue  $>$     $<$  MAIN  $>$     $<$  FIN  $>$     $<$  TVM  $>$   <1 P/YR  $>$     $<$  END>  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e985660780e56dc9858845e861e465e73b530bd8be64196c41230e2fb79e13c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e985660780e56dc9858845e861e465e73b530bd8be64196c41230e2fb79e13c.jpg)  
 # Periodic CFs (Not 1 per year)  
 
 Example: 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}6.5\%/\mathrm{yr}$  
@@ -6195,7 +6195,7 @@ $$
 99.658=\frac{3.25}{\left(1+y_{a b}\right)^{1/2}}+\frac{3.25}{\left(1+y_{a b}\right)^{1}}+\frac{3.25}{\left(1+y_{a b}\right)^{1.5}}+\cdot\cdot\cdot+\frac{3.25}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ee61579e8ca371cf00c5dde1fc1740fb1201d3f4ecd605e79e2d5fcb81a57b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ee61579e8ca371cf00c5dde1fc1740fb1201d3f4ecd605e79e2d5fcb81a57b.jpg)  
 
 # But No – Periodic CFs – Discount at Same Freq as Payment  
 
@@ -6221,15 +6221,15 @@ Why    $y_{s a b}/25$  ? Report “annual” rate
 
 • Discount at half-yr rate    $y_{s a b}/2$  , but quote “annual”    $y_{s a b}=2\cdot y_{s a b}/2$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c5d220117bd359a16e709489ed4a5040a274cfad42de69ab2fcb520032d4037.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c5d220117bd359a16e709489ed4a5040a274cfad42de69ab2fcb520032d4037.jpg)  
 # Periodic CFs – 4 yr Bond Example  
 
 Example: 4yr semi-annual   $6.5\%$   coupon bond,   $\mathrm{P}=99.658-3.25\%/6\mathrm{m}\mathrm{th}$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f8c39927e474c19a275bc1f08856614914d9bf18dc0331e07578d520ae5642c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f8c39927e474c19a275bc1f08856614914d9bf18dc0331e07578d520ae5642c.jpg)  
 # Don’t Be Fooled : 4yr Annual  4yr Semi-Annual  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65fb93b1c996a26546aec87a534ae39218b800633d7ee4c8c18fb1fe83bc4dca.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65fb93b1c996a26546aec87a534ae39218b800633d7ee4c8c18fb1fe83bc4dca.jpg)  
 # Complication: Compounding!  
 
 Among the most di!cult things you’ll learn – compounding is confusing You can quote the yield on various  bases :  
@@ -6282,9 +6282,9 @@ $$
 $$  
 # Compounding: In-Class Exercise 1  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf08b3d52d1a51705b1d5f736e9eef0da2f5d781cc3aec81327f264cff3519e8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf08b3d52d1a51705b1d5f736e9eef0da2f5d781cc3aec81327f264cff3519e8.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c416683d4b28349422fd7575ad9f2906fff27a0e1b41308eebf71a8fef62a72a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c416683d4b28349422fd7575ad9f2906fff27a0e1b41308eebf71a8fef62a72a.jpg)  
 
 But    $y_{a b}\ \&\ y_{s a b}$   fundamentally di!erent  
 
@@ -6346,7 +6346,7 @@ Yield-to-maturity isn’t perfect, because generally there will be a “term-str
 • UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about term structure  
 
 • Later in the course we will introduce “term structure of interest rates” or “yield curve”  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9095c43c987a0d677f85750d673644c62e945f3d52fbf631e5f1e4db08123c83.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9095c43c987a0d677f85750d673644c62e945f3d52fbf631e5f1e4db08123c83.jpg)  
 Yield good way to measure “market price” Yields for di"erent bonds similar   $\&$   move together  
 
 # 3 BPV, DV01, & Duration  
@@ -6360,7 +6360,7 @@ Problem: Yield Good as “Market Price”, But Need CFs & \$s Work with yield in
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63b07b3c3e844c7fd10fa933f30e480399148331be6885e0b5eb56935f5a20cb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63b07b3c3e844c7fd10fa933f30e480399148331be6885e0b5eb56935f5a20cb.jpg)  
 
 # Some Notes on Deﬁnition and Measurement of BPV  
 
@@ -6467,18 +6467,18 @@ I teach DV01 then Modiﬁed then Macauley • Very easy to understand    $\begin
 
 • “Balance beam” shorter than maturity  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3024e9f21b399ad28734699e805e221d4487ed457d5f06e586667c1ade906c47.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3024e9f21b399ad28734699e805e221d4487ed457d5f06e586667c1ade906c47.jpg)  
 Macaulay duration for 4yr  $6.5\%$   bond  $=$   3.65yrs  (annual coupon  $6.5\%$  , 4yrs, price 99.6582, yield  $6.6\%a b$  )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52d4cfea987bda0f411dbef5409a73fc095277dcbeaa623315a3160cf7a3ea2e.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7698b42c5a75cf9dd7606905dde8cc09d7d3fee0abba45e93c2896d59982eccf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52d4cfea987bda0f411dbef5409a73fc095277dcbeaa623315a3160cf7a3ea2e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7698b42c5a75cf9dd7606905dde8cc09d7d3fee0abba45e93c2896d59982eccf.jpg)  
 
 # 3.4 BPV / DV01 for Predicted P&L and Hedging  
 
 # Contents  
 
 Price as Function of Yield: Approximate P&L Write price as function of new yield, and change in yield from old  $P\left(y_{1}\right)=P\left(y_{0}+y_{1}-y_{0}\right)=P\left(y_{0}+\Delta_{y}\right)$  Then use 1st-order Taylor series expansion and DV01  $P\left(y_{1}\right)=P\left(y_{0}+\Delta_{y}\right)\approx P\left(y_{0}\right)+\Delta_{y}\cdot\frac{\partial P}{\partial y}=P\left(y_{0}\right)-\Delta_{y}\cdot D V01$  Finally, look at P&L (proﬁt   $\&$   loss) – subtract out    $P\left(y_{0}\right)$  :  $P\left(y_{1}\right)-P\left(y_{0}\right)\approx-\Delta_{y}\cdot D V01$  Caveats: • Only 1st-order approximation (may need 2nd – convexity) • Doesn’t consider other “risk factors” –  Spread –  Time  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a6477920e83dc1c94d7fd7917263b1cff5530def29228541949a98af3e15ba5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a6477920e83dc1c94d7fd7917263b1cff5530def29228541949a98af3e15ba5.jpg)  
 
 # 3.5 Decomposing P&L – Pure Discounting & Spread  
 
@@ -6511,20 +6511,20 @@ $$
 
 • DV01 converts from yield P&L to dollar P&L  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be0901d38a53843b5d0be6a991e105f9a34d379159c3c2ecd7f3ebeb8b0a921.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be0901d38a53843b5d0be6a991e105f9a34d379159c3c2ecd7f3ebeb8b0a921.jpg)  
 
 # Reminder – Use BOND Menu for Bonds for BPV/DV01  
 
 P  $\begin{array}{r}{\mathcal{P}\&L=P\left(y_{1}\right)-P\left(y_{0}\right)\approx-\Delta Y_{F I S}\cdot D V01=-\Delta Y_{U S T}}\end{array}$   $\Delta Y_{F I S}\cdot D V01=-\Delta Y_{U S T}\cdot D V01-\Delta Y_{s p r e a d}\cdot D V01$  1  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a150895c8b44dedcfac9bd9b71fa5e24c718e717904bddd257f366a8c24553fc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a150895c8b44dedcfac9bd9b71fa5e24c718e717904bddd257f366a8c24553fc.jpg)  
 
 For BPV on FIS, use BOND menu & bump up & down:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acca15c6c1666fa1b3eb432af0bf621060205ea7778ddc0fb84f6e252c29a3d4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acca15c6c1666fa1b3eb432af0bf621060205ea7778ddc0fb84f6e252c29a3d4.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76f6168080472afc4761c01eba265ee2a39cb7ecdb8f43899a254bfcb99632bb.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63ecd17448c0c9d0431419fe87b1b21134ce0cf6b7cd1b6147b50e770f0a9355.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76f6168080472afc4761c01eba265ee2a39cb7ecdb8f43899a254bfcb99632bb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63ecd17448c0c9d0431419fe87b1b21134ce0cf6b7cd1b6147b50e770f0a9355.jpg)  
 
 # There are a few important things to remember:  
 
@@ -6571,14 +6571,14 @@ Powerful Idea:
 
 • Buying one instrument (FIS) that contains two risks (Discounting & Spread)  $\bullet$   Selling another instrument (UST) that strips out one risk (Discounting)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24073ec18805da04bceaec5be157c40d26b6898de5e3ef81f319dfc52e1e4061.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24073ec18805da04bceaec5be157c40d26b6898de5e3ef81f319dfc52e1e4061.jpg)  
 
 # 4 A Digression on Shorting & Leverage  
 
 # Contents  
 
 I ﬁnd the section of BKM on short sales and buying on margin ([ ? ] section 3.8, 3.9) confusing  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da7f58f5a19f29a15172993dccd5e7aca5ab42ffcf0b2ffc57c915157df33293.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da7f58f5a19f29a15172993dccd5e7aca5ab42ffcf0b2ffc57c915157df33293.jpg)  
 
 # 4.1 Shorting (BKM 3.8, 3.9)  
 
@@ -6617,14 +6617,14 @@ Repo is borrowing money (collateralized borrowing)
 
 • Here, borrow at   $2\%$   for 1 year  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68d3026c72b5ae41326c4f6729a89bf2f85e3797de16b622b9be31895b5ed1ed.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68d3026c72b5ae41326c4f6729a89bf2f85e3797de16b622b9be31895b5ed1ed.jpg)  
 # Summary for Buy & Repo  
 
 Legally, repos can be structured in two ways • Repo: lending and borrowing, collateralized • Repurchase: Sell / Buy-Back (sell today, buy back at price agreed today) Either way, think about  Borrowing  or  Lending  money  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3901511645fe6c89d3016e5e20470aee2564e2dc2219f9307144e37b0b131285.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3901511645fe6c89d3016e5e20470aee2564e2dc2219f9307144e37b0b131285.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ee96201d4ba28559a0d0e7ed585aa522845479e366901a9b792b88c8a4f45a6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ee96201d4ba28559a0d0e7ed585aa522845479e366901a9b792b88c8a4f45a6.jpg)  
 
 Repo Pricing is simple Forward Pricing  
 
@@ -6634,9 +6634,9 @@ $$
 
 # Summary for Buy & Repo  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36c519b0c5ef3fda55c17cdf03e148a45ad4e09f701ac84e50a8af07c3ae7567.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36c519b0c5ef3fda55c17cdf03e148a45ad4e09f701ac84e50a8af07c3ae7567.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27992141123e108146fc60355e79baf44b3047966654945f635bb886b7a393d0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27992141123e108146fc60355e79baf44b3047966654945f635bb886b7a393d0.jpg)  
 
 Repo Pricing is simple Forward Pricing  
 
@@ -6675,7 +6675,7 @@ Reverse Repo is lending money (collateralized lending)
 
 • Here, lend at   $2\%$   for 1 year  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a5dc8a4221ef9f6cde1f101964e3df8f6590beaac9bfc0c3194950ad864f0fb6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a5dc8a4221ef9f6cde1f101964e3df8f6590beaac9bfc0c3194950ad864f0fb6.jpg)  
 # Summary for Buy & Repo  
 
 Legally, repos can be structured in two ways  
@@ -6684,9 +6684,9 @@ Legally, repos can be structured in two ways
 
 Either way, think about  Borrowing  or  Lending  money  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b474239f7c313fa312a00f202e0b9610b34540a384cbaacfb89356e5259868a2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b474239f7c313fa312a00f202e0b9610b34540a384cbaacfb89356e5259868a2.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99c6663933a96bcc7c2faa0c14470f4e35be09b484034eb2ef572dc594ca8f3a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99c6663933a96bcc7c2faa0c14470f4e35be09b484034eb2ef572dc594ca8f3a.jpg)  
 
 Repo Pricing is simple Forward Pricing  
 
@@ -6797,7 +6797,7 @@ $$
 100-D Y\times{\frac{A D}{360}}={\frac{100}{\left(1+{Y}/{f r e q}\right)^{A D/\left(365\div f r e q\right)}}}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f115859538e0c8eb911127896185168b4b06f9dd10cc3ffdaa30ab86ee6f60ba.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f115859538e0c8eb911127896185168b4b06f9dd10cc3ffdaa30ab86ee6f60ba.jpg)  
 
 You can then put this equation into the HP  SOLVER  menu as:  
 
@@ -6841,12 +6841,12 @@ Thomas S. Coleman 29 March 2023; Draft April 3, 2023
 
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb77ce7d7a2be52facec3a4d92496a9e94a8008215fd9e93c1d8c92d38eaaab1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb77ce7d7a2be52facec3a4d92496a9e94a8008215fd9e93c1d8c92d38eaaab1.jpg)  
 # Bond PV O! Coupon Date & Sawtooth  
 
 As move closer to next coupon, PV goes up: sawtooth pattern  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f36cb250490755cd3307e32a9008ba55d87d52984e59f7bc1c8dbdd8ada60413.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f36cb250490755cd3307e32a9008ba55d87d52984e59f7bc1c8dbdd8ada60413.jpg)  
 
 • Underlying market value not changed – just “earning” coupon  
 
@@ -6885,25 +6885,25 @@ $\bullet$   Uses DP = CP   $^+$   AI in yield calculations
 
 Full 4 years (23-mar-2018  ↑ 23-mar-2022)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f046b52f07970d088a4c8da42e0c9438308d70fd4d66c7b3a513548d7aa3fc28.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f046b52f07970d088a4c8da42e0c9438308d70fd4d66c7b3a513548d7aa3fc28.jpg)  
 
 73 days or 0.2yrs later (on 4-jun-2018):   $\mathrm{PV}=\mathrm{CP}+\mathrm{AI}=100.94$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3408701dd473361a8e4daa7d3ca982e1ddd54edc26a16291fa8b1a1fdb9366a2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3408701dd473361a8e4daa7d3ca982e1ddd54edc26a16291fa8b1a1fdb9366a2.jpg)  
 
 Clean Price – what people talk about (the market price) Dirty Price – what you actually pay  
 
 Bond Menu for UST Look at some actual bonds: 2.255 of 15-nov-2025 (back in 2015 & 2016)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9891ee416173c645d91f7ca88dc30803349fee9c7184a5063591901b93f75413.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9891ee416173c645d91f7ca88dc30803349fee9c7184a5063591901b93f75413.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e90a13155a4dbf6584d99676d09646cf1d59a2485d20ce32fa26c6d10191177.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e90a13155a4dbf6584d99676d09646cf1d59a2485d20ce32fa26c6d10191177.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6781c6ca518201e93474a0dbd2bc87b8496126cdb38927df3aa9007dd06c13c1.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efb3b819416adedd7af49d1c794cd720b7b099bf116922ee9410bf92d511ce15.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fcc4ab3a4d21a1eb2b8c386bcb7168aa2c8cac5e15259d461ca3e138ef3abe67.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6781c6ca518201e93474a0dbd2bc87b8496126cdb38927df3aa9007dd06c13c1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efb3b819416adedd7af49d1c794cd720b7b099bf116922ee9410bf92d511ce15.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fcc4ab3a4d21a1eb2b8c386bcb7168aa2c8cac5e15259d461ca3e138ef3abe67.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbf19e0596b857df2f9834ba1ae2a73646249b1694d009355bacf1a025cd0bf9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbf19e0596b857df2f9834ba1ae2a73646249b1694d009355bacf1a025cd0bf9.jpg)  
 
 • 15-nov-15 → 15-may-  $16=182$   days –  leap-yr  
 
@@ -6913,11 +6913,11 @@ Bond Menu for UST Look at some actual bonds: 2.255 of 15-nov-2025 (back in 2015 
 
 Bond menu builds in the date calculations to calculate the fractions  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c49880c5662097fd19fb3d50e7c2c5909db02450f6fe10cfd2437fcdf15f7903.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c49880c5662097fd19fb3d50e7c2c5909db02450f6fe10cfd2437fcdf15f7903.jpg)  
 
 # In-Class Exercise 2: 2.25 of 15-nov-2025 on 6-jan-2016  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7aec02a7aa7d96a4f6ed1381b84ae18720d5c08c7cb5c683b4b21904ef679887.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7aec02a7aa7d96a4f6ed1381b84ae18720d5c08c7cb5c683b4b21904ef679887.jpg)  
 
 •  Yield down ( 2 . 268%  ↓ 2 . 1764 ) so price up   $(99.84375\uparrow100.6485)$  
 
@@ -6932,7 +6932,7 @@ Screen-shot from  WSJ  shows price 100.6484. Why di!erent?
 • But in all our problems, pretend    $S e t t l e\,=\,Q u o t e$  
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11a905154726d510a7e6e69f26315c5eac2653873e4d47edfbd4ddb103f93275.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11a905154726d510a7e6e69f26315c5eac2653873e4d47edfbd4ddb103f93275.jpg)  
 
 Calendars are Messy – Choose a “Convention” “Fraction of a year” should be simple but it’s not  
 
@@ -6941,7 +6941,7 @@ Calendars are Messy – Choose a “Convention” “Fraction of a year” shoul
 Before computers, calculating dates  very  di!cult (with computers still di!cult – I know, I’ve done it multiple times)  
 
 • Di"erent markets agreed di"erent “Conventions” • Rules for how to count days, deﬁne year-fractions, calculate AI • A little arbitrary, but ﬁne as long as everyone knows rules  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a2d36ea958d35c74097909ac27c9319f69ecab520907debe987b31641abfaf0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a2d36ea958d35c74097909ac27c9319f69ecab520907debe987b31641abfaf0.jpg)  
 
 # Dirty Price, Clean Price, and Accrued Interest  
 
@@ -7017,19 +7017,19 @@ MUST compare like-with-like (A/A vs A/A & 30/360 vs 30/360)
 
 • You pay 105.806 in both cases – same cash (Dirty Price) EXAMPLE : 6.5% bond, 342 days into year, on 28-feb-2019: Yield = 6.60%  $\bullet$  → DP=105.8086 (99.71823+6.0904)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5297eb2d37ca125c6b04018d97fec614a1e6a418bc65d0bbf7d543aa87d71794.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5297eb2d37ca125c6b04018d97fec614a1e6a418bc65d0bbf7d543aa87d71794.jpg)  
 
 •    $\rightarrow$  yld=6.584%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20902a7e9c7917c59701e9f4fd07071a5cea593479b7d2b6c40e16d1ce1d8590.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20902a7e9c7917c59701e9f4fd07071a5cea593479b7d2b6c40e16d1ce1d8590.jpg)  
 
 EXAMPLE : 6.5% bond, 342 days into coupon, on 28-feb-2019: Yield = 6.60% • Actual / Actual convention (0.9370 yrs), DP = 105.8086  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d1dcf40c9bd9df2adbdde0cdb2eafcc74ce081e68ae8b93f113167f6eb0cbce3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d1dcf40c9bd9df2adbdde0cdb2eafcc74ce081e68ae8b93f113167f6eb0cbce3.jpg)  
 
 • 30/360 convention (0.9306 yrs),   $\mathrm{CP}=105.8086-6.0486=99.7600$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b3df5f065f45373c04fbbadc5ec374caa9258dd6128e429db2b57f0d3e486ec2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b3df5f065f45373c04fbbadc5ec374caa9258dd6128e429db2b57f0d3e486ec2.jpg)  
 
 Here the “di"erence” in yield is 1.6bp but in fact it is only due to di"erent conventions: 6.600%A/A
 
@@ -7041,10 +7041,10 @@ These di"erences are less than the di"erences in frequency basis (ab vs sab:   $
 
 EXAMPLE:   $6.5\%$   bond, 73 days into coupon, on 4-jun-2018:   $\mathrm{Yid}\,=\,6.60\%$  •  Actual / Actual convention (0.2 yrs, AI=1.300), DP = 100.9403 (99.6403+1.3000)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62e991401d38d65731c7dcdc6d2fde2f532aa36b530483db233c93c0da61fe4c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62e991401d38d65731c7dcdc6d2fde2f532aa36b530483db233c93c0da61fe4c.jpg)  
 •  30/360 convention (0.1972 yrs, AI=1.2819), CP = 100.9403 – 1.2819 = 99.6584  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d05d04898dfdec020d20328b968565fe4392fff3600c3d1e960be9447ad14e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d05d04898dfdec020d20328b968565fe4392fff3600c3d1e960be9447ad14e.jpg)  
 
 A/A and 30/360 prices and yields slightly di"erent (use Bloomberg “True Yield”)  
 
@@ -7060,19 +7060,19 @@ $$
 
 EXAMPLE: Exact 4yr,   $6.5\%$   bond (no AI), annual vs semi:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b15304ff3c3733d663b522fc0a4495fa2568dbdac9ec7355c7e424f2c923e9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b15304ff3c3733d663b522fc0a4495fa2568dbdac9ec7355c7e424f2c923e9.jpg)  
 
 # Some Bond Co  
 
 US Treasury Bonds US Corporate Bond UK Gilts British Domestic Bo French OATs & BTA German Bunds & BOBLS Japanses JGBs  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/543bd6c8b737b8a55c14b6918065c67b6c58f85f0172f06822ddfe547daf2003.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/543bd6c8b737b8a55c14b6918065c67b6c58f85f0172f06822ddfe547daf2003.jpg)  
 
 You pay more for semi-annual bond – you  should , since get coupon earlier.  
 
 My “Practical Guide to Bonds and Swaps” (https://papers.ssrn.com/abstract  $\mathbf{\beta},=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccf095e6f6c0ec67c0c7b53d5511b7da567dbd6cbbf560668c095e14236c7fe3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccf095e6f6c0ec67c0c7b53d5511b7da567dbd6cbbf560668c095e14236c7fe3.jpg)  
 Sources for conventions:  
 
 • http://treasury today.com/2001/11/day-count-conventions  
@@ -7100,7 +7100,7 @@ $$
 
 TVM does this automatically, gives Yield (Interest) per yr (  $[\%$  YR) • Make sure set right:   $<$  Blue  $>$     $<$  MAIN  $>$     $<$  FIN  $>$     $<$  TVM  $>$   <1 P/YR  $>$     $<$  END>  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7be04fedc0554e8bfbd2dfc7c2a2186ee4a0979c9db8cf47096086a571ce4e6d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7be04fedc0554e8bfbd2dfc7c2a2186ee4a0979c9db8cf47096086a571ce4e6d.jpg)  
 
 Periodic CFs (Not 1 per year) Example: 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}6.5\%/\mathrm{yr}$  
 
@@ -7114,7 +7114,7 @@ $$
 99.658=\frac{3.25}{\left(1+y_{a b}\right)^{1/2}}+\frac{3.25}{\left(1+y_{a b}\right)^{1}}+\frac{3.25}{\left(1+y_{a b}\right)^{1.5}}+\cdot\cdot\cdot+\frac{3.25}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e990ed47a47c4f9f7a6511eb1afd20f365e39c0447023646dc690ca52f11f32.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e990ed47a47c4f9f7a6511eb1afd20f365e39c0447023646dc690ca52f11f32.jpg)  
 # But No – Periodic CFs – Discount at Same Freq as Payment  
 
 Example: 4yr semi-annual   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}3.25\%/6\mathrm{math}$  • Seems natural to use annual rate, discount “number of years”:  
@@ -7139,7 +7139,7 @@ Why    $y_{s a b}/2^{\circ}$  ? Report “annual” rate
 
 • Discount at half-yr rate    $y_{s a b}/2$  , but quote “annual”    $y_{s a b}=2\cdot y_{s a b}/2$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a64ad1945e616bf3fc6146764ef30244db3a5dd9e88c6ec59a979fc04a2b4ce9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a64ad1945e616bf3fc6146764ef30244db3a5dd9e88c6ec59a979fc04a2b4ce9.jpg)  
 
 # Periodic CFs – 4 yr Bond Example  
 
@@ -7151,9 +7151,9 @@ $$
 
 Annual, 4yrs, 6.5%/yr:   $<$  Blue>   $<$  MAIN  $><$   $\mathrm{<FIN><T V M><1~P>}$  /YR  $>$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a4f1cb870c9207f96bb377232f07965be7f2ce6605f630541596928dd32f54f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a4f1cb870c9207f96bb377232f07965be7f2ce6605f630541596928dd32f54f.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0c212027d5ff2cf72a12b9eebdd23b135a026fc6f64773956fade636a6936d4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0c212027d5ff2cf72a12b9eebdd23b135a026fc6f64773956fade636a6936d4.jpg)  
  $^{<2}\mathrm{~P~/~YRe>~}$   only  adjusts the  $\mathrm{I\%YR}$  
 
 PV=99.658  
@@ -7161,14 +7161,14 @@ PV=99.658
 
 Look the 2 bonds, same price but di!erent coupon • 4yr semi bond more valuable • Get same total CF, but get CF sooner  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9c6d820c3f4977cbd2d3abfe464edbf2cd45644ee916aaf4217a532c38fd62a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9c6d820c3f4977cbd2d3abfe464edbf2cd45644ee916aaf4217a532c38fd62a.jpg)  
 
 $y_{a b}=6.6\%$   – annual discount rate (yield)  
 
 Semi-annual, 4yrs,   $3.25\%/\mathrm{yr}$  : <2 P/YR  $\scriptscriptstyle>$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e341cb6588949473ca49088ec201a68adebb264d926316b765dc9fe684ee2385.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e341cb6588949473ca49088ec201a68adebb264d926316b765dc9fe684ee2385.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2469b8ab96ca27447937b6146e6f557f76bbcfb7c3df8217e5722f898fc3050.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2469b8ab96ca27447937b6146e6f557f76bbcfb7c3df8217e5722f898fc3050.jpg)  
 
 # Complication: Compounding!  
 
@@ -7219,10 +7219,10 @@ y_{a b}=\left(1+y_{s a b}/2\right)^{2}-1\qquad y_{s a b}=2\cdot\left(\sqrt{1+y_{
 $$  
 
 Compounding: In-Class Exercise 1 Annual, 4yrs, 6.5%/yr:   $<\!1$   P/YR  $>$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937d3f6dc11a0b618795311115681c06013644590863c32803bfe4b519304a87.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937d3f6dc11a0b618795311115681c06013644590863c32803bfe4b519304a87.jpg)  
 
 Semi-annual, 4yrs,   $3.25\%/\mathrm{yr}$  :   $^{<2}\mathrm{~P~/~YRe>~}$  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c68b5c57cf801e619ca5c0fac8380de9faed8cfecfe7b2dab603f185a565f114.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c68b5c57cf801e619ca5c0fac8380de9faed8cfecfe7b2dab603f185a565f114.jpg)  
 
 But    $y_{a b}\ \&\ y_{s a b}$   fundamentally di!erent • Semi-annual bond more valuable: pay same (\$99.658) but get CFs sooner  
 
@@ -7279,12 +7279,12 @@ $$
 \begin{array}{c}{{\left(1+y_{a b}\right)=\left(1+y_{s a b}/2\right)^{2}}}\\ {{y_{a b}=\left(1+y_{s a b}/2\right)^{2}-1\qquad y_{s a b}=2\cdot\left(\sqrt{1+y_{a b}}-1\right)}}\end{array}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a1b7b1c59351f5c7929a99417e418f2ec12e5a06e87c4a7a8d0f6255902c767.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a1b7b1c59351f5c7929a99417e418f2ec12e5a06e87c4a7a8d0f6255902c767.jpg)  
 
 • ALWAYS compare like-with-like. 8% ab is  not    $8\%$   sab  
 
 • And it is non-linear: Doubling    $y_{s a b}$   slightly more than doubles    $y_{a b}$  2.1 Unpacking the Budget Line Part II: Real & Nominal Rates Contents  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ff24ae5ea5052703c52c6300d0a29542b3d957cfa43890671d42c046aef6036.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ff24ae5ea5052703c52c6300d0a29542b3d957cfa43890671d42c046aef6036.jpg)  
 
 # Left Hand Side Gives Real & Nominal Rates  
 
@@ -7372,7 +7372,7 @@ I somewhat prefer (1): real CFs and real rate • Don’t have to think as hard 
 
 # Inﬂation – Keep “Real with Real”, “Nominal with Nominal”  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78872487697d3a2e8ff78d1dff36722b9b2d02991d7cf2f0ee251293fbe3118e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78872487697d3a2e8ff78d1dff36722b9b2d02991d7cf2f0ee251293fbe3118e.jpg)  
 
 • Nominal rate:   $8\%$  • Expected inﬂation:   $5\%$  
 
@@ -7383,18 +7383,18 @@ Nominal:  $\textstyle P V={\frac{105}{1.08}}+{\frac{110.25}{(1.08)^{2}}}=191.744
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a64b6c1212963a145579678ba23d1bf35c139aa987b912660c917b77b3fe864.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a64b6c1212963a145579678ba23d1bf35c139aa987b912660c917b77b3fe864.jpg)  
 
 Note that the yield quoted in the table is calculated from the HP 17 BOND menu. The TVM gives approximately the same answer, but the 3-decimal yield is from the bond menu:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97afefe0ab920e51cc04d2ac9adfb1428fe4810343e8a2e95e8e49814a74e0c2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97afefe0ab920e51cc04d2ac9adfb1428fe4810343e8a2e95e8e49814a74e0c2.jpg)  
 
 TIPS (Treasury Inﬂation-Protected Security) – Real CFs How do we make “real CFs”? What do we mean by “real”? • Coupon & principal “inﬂated” by CPI (Consumer Price Index) • Actual CF rises with inﬂation: buy same goods with higher CF  
 
 • Makes CFs “real” – inﬂation-adjusted – in this case real  $0.75\%$  • The yield (DR) (based on the 0.75 coupon) is real rate  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50ac9379718ab78f5478832ea63892d7c7fff231e88ca12b55a282db2495b76e.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc7391e57e3fff36f3067c3cd6f72d87819db6600248c352f6b632b92d689d4a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50ac9379718ab78f5478832ea63892d7c7fff231e88ca12b55a282db2495b76e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc7391e57e3fff36f3067c3cd6f72d87819db6600248c352f6b632b92d689d4a.jpg)  
 
 # 2.3 More About Real   $\&$   Nominal  
 
@@ -7402,24 +7402,24 @@ TIPS (Treasury Inﬂation-Protected Security) – Real CFs How do we make “rea
 
 Nominal & Real Rates Real Yield (promised) & Real Return (earned) important macro variables • Remember budget Line:  $\begin{array}{r}{p_{1}c_{1}+p_{1}c_{2}\frac{1}{1+r}=m_{1}+m_{2}\frac{1}{1+y}}\end{array}$  • Real rate    $r$   matters for consumption decisions – today vs tomorrow Nominal yield   $(y)$   easy to see, everyone pays attention Real yield   $(r)$   harder to see, matters more for decisions about consumption vs savings Governments have kept real yield    $r$   low since 2008  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/074588d523454d98fa8923947a346da5be700e9071694b34e3deb44798d4998d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/074588d523454d98fa8923947a346da5be700e9071694b34e3deb44798d4998d.jpg)  
 Tuesday 27-sep-16  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a128ea7a7acf25a5f1a122eca425bd24213a4a0da13ad040107ff38efd5b345d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a128ea7a7acf25a5f1a122eca425bd24213a4a0da13ad040107ff38efd5b345d.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1be5c1f2628bf3d92984e3662f53e292c1c988a9f7ea83ca22b1f505e5ff2017.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1be5c1f2628bf3d92984e3662f53e292c1c988a9f7ea83ca22b1f505e5ff2017.jpg)  
 
 # Real Returns Consistently Negative 10yrs  
 
 Calculate 1yr Real Return – Since 2008, consistently negative – I think bad news  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe38563bf9365873c4ffc0a412e7d05c20402e23075e0c7693c64914717b5c67.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe38563bf9365873c4ffc0a412e7d05c20402e23075e0c7693c64914717b5c67.jpg)  
 
 The real return: 1yr T-Bill minus 1yr CPI inﬂation. Should be Lagged T-Bill yield less current CPI inﬂation to calculate return, so this graph is not absolutely correct From FRED, the St Louis Federal Reserve Economic Data service. Really valuable  
 
 Real Returns Consistently Negative 10yrs Calculate 1yr Real Return – Since 2008, consistently negative – I think bad news  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ede39f7bc0222d81ac2c8866808bc023ed5b5f7d9510e87fcd3db9035720184c.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35f351993bf4c2e1d3b0519aaa147ff381d7e42087b89a9eb2cfb2b69d8f6aba.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ede39f7bc0222d81ac2c8866808bc023ed5b5f7d9510e87fcd3db9035720184c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35f351993bf4c2e1d3b0519aaa147ff381d7e42087b89a9eb2cfb2b69d8f6aba.jpg)  
 
 Example of inﬂation e!ect A few notes on this: 1. I am asking what happens when expected inﬂation up by 3 percentage points, from   $2.18\%$   to   $5.18\%$  . 2. I  assume  that real rates don’t change. It could be that real rates go down, and we will see that real rates can go negative. 3. But generally when inﬂation goes up, so do nominal rates. And nominal bonds lose big  
 
@@ -7448,7 +7448,7 @@ Referendum pushed UK out of currency agreement (Soros made \$1bn)
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a948f960358b4b7da01415a34c075be9df6824e42057a172a38b99448bae212b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a948f960358b4b7da01415a34c075be9df6824e42057a172a38b99448bae212b.jpg)  
 
 Remember from before, what we said about yields:  
 
@@ -7458,7 +7458,7 @@ Remember from before, what we said about yields:
 
 Real bonds & real yields (TIPS – prices from  Treasury Direct )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/769eaa563456de92233d18cd65ac522667d0cae9bb2f0661b443daf2858340ef.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/769eaa563456de92233d18cd65ac522667d0cae9bb2f0661b443daf2858340ef.jpg)  
 
 With real yields, we can say more, but need to calculate  Expected Inﬂation :  
 
@@ -7466,7 +7466,7 @@ Sep-2016:
 
 Nominal & real yields, expected inﬂation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24e6f04799f4ed25566d45135a72ff886130915cc141b297754358a0b6d6bde8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24e6f04799f4ed25566d45135a72ff886130915cc141b297754358a0b6d6bde8.jpg)  
 
 Now we can say more:  
 
@@ -7481,11 +7481,11 @@ Now we can say more:
 WSJ:  https://www.wsj.com/market-data/bonds/treasuries  
 
 Treasury Direct:  https://www.treasury direct.gov/GA-FI/FedInvest/select Security Price Date For 3-apr-20, Yield using “BOND” menu and actual dates (Settle  $=3$  -apr-20, Maturity  $=15$  -feb-30,   $\mathrm{coup}=1.5\%$  , P  $=108.4375$  ,  $\mathrm{Y}{=}0.617\%$  . Di!erent only by 1bp  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ef434cb7580098608f9f41195f6b6414403f054099b7ae9fda9c30e775828b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ef434cb7580098608f9f41195f6b6414403f054099b7ae9fda9c30e775828b.jpg)  
 
 Re-done with prices updated from Treasury Direct (di"erent time of day than above, which are from WSJ, which no longer has history). And calculating actual A/A semi-annual bond yield:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/750251bd8ced8dc1f7cbbe4561531c4b6c41bc3d7aa92d003f15d0a00a91c919.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/750251bd8ced8dc1f7cbbe4561531c4b6c41bc3d7aa92d003f15d0a00a91c919.jpg)  
 
 # Thinking About Yield Changes:    $y$   ↔≃ Budget Line Twists  
 
@@ -7507,7 +7507,7 @@ Inﬂation:  Only    $_{m2}$  , Future CF (FV ﬁxed),  $y\uparrow$  as if    $P
 
 •   $\mathrm{scriptstyleFV=100}$  , y=4%,  $\begin{array}{r}{P V=\frac{100}{\left(1+.04\right)}=96.15}\end{array}$  •   $\mathrm{scriptstyleFV=100}$  , y=5%,  $\begin{array}{r}{P V=\frac{100}{\left(1+.05\right)}=95.24-\,P o o r e}\end{array}$  r  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd64889253d2221cedf1ccf2e1cebbed0bcf608ce4cb75ecc644f129d9d90834.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd64889253d2221cedf1ccf2e1cebbed0bcf608ce4cb75ecc644f129d9d90834.jpg)  
 # TVM & Bonds: PV, FV, Discounting  
 
 Lecture 3 Thomas S. Coleman 27 March 2023, Draft March 31, 2023  
@@ -7539,7 +7539,7 @@ $$
 p_{1}c_{1}\cdot(1+y)+p_{2}c_{2}=m_{1}\cdot(1+y)+m_{2}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06f1c752f2bba10c240ec064a1e3d986347ea4c48274cbb7b460ac494f2764a4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06f1c752f2bba10c240ec064a1e3d986347ea4c48274cbb7b460ac494f2764a4.jpg)  
 
 # Remember: Right Hand Side Gives PV, FV & Discounting  
 
@@ -7595,7 +7595,7 @@ Inﬂation:  Only    $m_{2}$  , Future CF (FV ﬁxed),  $y\uparrow$  as if    $P
 
 •   $\mathrm{scriptstyleFV=100}$  , y=5%,  $\begin{array}{r}{P V=\frac{100}{(1+.05)}=95.24-\,P o o r e r}\end{array}$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59585802693b7724d7f19ada895790d810b91e2e55c558124b3e405f19253adb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59585802693b7724d7f19ada895790d810b91e2e55c558124b3e405f19253adb.jpg)  
 # 2 How to Calculate Yield (for Bonds)  
 
 2.1 Single versus Multiple CF & Bonds  
@@ -7636,7 +7636,7 @@ A few things about this:
 
 • This is a “bond”: ﬁxed coupon per year,   $\S100$   at the end  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c75fd28aa33bef0111cdadb6c4899ae6271f1412fd68f033215db201f0698047.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c75fd28aa33bef0111cdadb6c4899ae6271f1412fd68f033215db201f0698047.jpg)  
 # Taking Apart and Solving PV Formula  
 
 For single future CF, things are easy:  
@@ -7655,12 +7655,12 @@ $$
 
 • Can get    $P V$   when given other four. How to get    when given    $P$  V ,  PMT , ...?  $y$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/149da0c3daa99bac3d3bab61c623e18483b2f7abf7e4e6e76815e4f02dfb6d00.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/149da0c3daa99bac3d3bab61c623e18483b2f7abf7e4e6e76815e4f02dfb6d00.jpg)  
 # 2.2 Solving Multiple CF & Bonds – PV Calculators: TVM and BOND Menu  
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b32d67416b4dc71648131adc53c93f09326dc0fddb13b058ffdfa70411cf1fa9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b32d67416b4dc71648131adc53c93f09326dc0fddb13b058ffdfa70411cf1fa9.jpg)  
 # Using Computers for Yield Calculations  
 
 Trial-and-Error or  root-ﬁnding  algorithms for solving bond-type multiple CFs  
@@ -7675,27 +7675,27 @@ Today, calculator, or Excel. HP 17BII+: TVM (Time Value of Money) two menus, TVM
 
 •  Learn about partial payments   $\&$   AI (Accrued Interest) next class TVM – Time Value of Money, built on that formula and CF diagram  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9dd664fa4e217f83ff2662ea6915200c62625d3c40a59eadbb37e83af1a41e92.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9dd664fa4e217f83ff2662ea6915200c62625d3c40a59eadbb37e83af1a41e92.jpg)  
 
 $$
 \begin{array}{c}{100.00=\frac{6.5}{(1+.066)^{1}}+\frac{6.5}{(1+.066)^{2}}}\\ {+\cdot\cdot\cdot+\frac{100}{(1+.066)^{4}}}\end{array}
 $$
  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fbcae94a8f1164ec71fbb0a16666be77d809bbe543f25986b902c053ec31f63.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fbcae94a8f1164ec71fbb0a16666be77d809bbe543f25986b902c053ec31f63.jpg)  
 
 BOND – Same as TVM (periodic payments) but allows partial ﬁrst period  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d51d4d9c2b1ed34ee2d3df296968089fe3a868f8d39f9ef995c719faaf9b1c8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d51d4d9c2b1ed34ee2d3df296968089fe3a868f8d39f9ef995c719faaf9b1c8.jpg)  
 # TVM & BOND: Same Answer if Same CFs  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d18f8dced990753649578f8dc7204804737f70f5f87329677fd2c010b21d50f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d18f8dced990753649578f8dc7204804737f70f5f87329677fd2c010b21d50f.jpg)  
 # 3 How Do We Use Yield? Where Does Yield Come From?  
 
 3.1 TVM for Simple 4-year Bond  
 
 Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c41418ee168c1fee01fdbf9aa286bde6e2f3f412e26afdf563020fffd100b73.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c41418ee168c1fee01fdbf9aa286bde6e2f3f412e26afdf563020fffd100b73.jpg)  
 # Using TVM for 4 yr Bond  
 
 Four year ﬁxed-coupon bond:  
@@ -7720,11 +7720,11 @@ V. FV=100
 
 # • Then set  1   $P/Y R$   and    $E N D$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ca5851ed55bffb7b295d7b12bb5ec1c4ac530ae84095be7cc1a460c8c563aef.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ca5851ed55bffb7b295d7b12bb5ec1c4ac530ae84095be7cc1a460c8c563aef.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d58cdc48b603c65e26741058603a599afefab9bdad56e15c034fa35b068936b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d58cdc48b603c65e26741058603a599afefab9bdad56e15c034fa35b068936b.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8a0fe1a1b7ddeb30dc5577497371b3f20f32ca0ba03c7e32e32b14c68143761.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8a0fe1a1b7ddeb30dc5577497371b3f20f32ca0ba03c7e32e32b14c68143761.jpg)  
 # 3.2 Understanding and Using Yield – Across PV, Coupon, Maturity  
 
 # Contents  
@@ -7743,15 +7743,15 @@ I.    $P V\downarrow\Rightarrow$  better value (“cheaper”):    $P V\downarro
 
 III. Yield is a way to think about “value”: High    $Y$   means high  Value  (low Price) First two are simple and obvious – formula & CF diagram • Third is deep and meaningful – allows us to use yield for all kinds of comparisons  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c1ac7598c16be124c3d38a8fca21a47ecae97aa660057d1159a6476b83100fc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c1ac7598c16be124c3d38a8fca21a47ecae97aa660057d1159a6476b83100fc.jpg)  
 
 # TVM – Low Price & High Yield – In-Class Exercise 1  
 
 Starting with bond from above, what happens when price (PV) goes down? Start with 4 year bond (from above)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad462592550d51fdaf0f365cd72341c740d6e94965be41d489fc552c19ba13d2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad462592550d51fdaf0f365cd72341c740d6e94965be41d489fc552c19ba13d2.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4dce86ed00802aed3c7df25b4cc51a2ad34b49188c3b542c807438988cc9e269.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4dce86ed00802aed3c7df25b4cc51a2ad34b49188c3b542c807438988cc9e269.jpg)  
 
 •  Remember that    $\textstyle P V={\frac{F V}{1+y}}$    , so low price means high yield  
 
@@ -7762,11 +7762,11 @@ Starting with bond from above, what happens when price (PV) goes down? Start wit
 
 Same bond to start, but now increase the coupon (keeping PV the same) Continue with 4 year   $6.5\%$   coupon bond from above  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67f3ef7876a2dac5e1259cb2749853f90652e80c274ba3dc491f06355b654de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67f3ef7876a2dac5e1259cb2749853f90652e80c274ba3dc491f06355b654de.jpg)  
 
 What happens with a higher coupon? (  $7\%$   up from   $6.5\%$  ) Higher coupon means higher yield (more future CF)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce22caff0b9426850d193c4fe87365cda9cd54b589ee687eaddb2accf758c605.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce22caff0b9426850d193c4fe87365cda9cd54b589ee687eaddb2accf758c605.jpg)  
 
 •  Also simple: same price, coupon higher  $\rightarrow$  more each year •  Here up-front is the same, but the  $7\%$   coupon bond is truly “cheaper” because the coupon is higher. •  Yield trades-o! the up-front price versus the future coupon you earn.  
 
@@ -7784,9 +7784,9 @@ $$
 
 TVM or BOND converts prices/CFs (PV&PMT)  ↘ Yield:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c4d255ec5f9e6d83d19ff0a375034fd3ebf9df502d296bf8e9b82cf324cd344.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c4d255ec5f9e6d83d19ff0a375034fd3ebf9df502d296bf8e9b82cf324cd344.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c451995465672473164bc2b82c69a01abe00cbbcaf3ac4070edf8d0990f251f6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c451995465672473164bc2b82c69a01abe00cbbcaf3ac4070edf8d0990f251f6.jpg)  
 
 $\scriptstyle{\mathsf{P V}}=99.658$  
 # In-Class Exercise 3: Yield Compares Di!erent Bonds  
@@ -7799,7 +7799,7 @@ III. 6yr 7% coupon bond,   $\mathrm{P}=101.930$  ,  yield = 6.60%
 
 Yield trades o" price today vs size of coupon   $\&$   maturity All these bonds are more-or-less same “value” (yield 6.60%)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/216ba547a29e933d4c2b5417147f240e77c14a42dc28bb7259d765b808ab614c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/216ba547a29e933d4c2b5417147f240e77c14a42dc28bb7259d765b808ab614c.jpg)  
 
 Here we can compare three di"erent bonds – same in value   $\&$   how much we earn  
 
@@ -7815,7 +7815,7 @@ IV.  4yr 5% bond,   $\mathrm{{P}=92.00}$  . What is the yield? Could this price 
 
 •  Let’s use  TVM to ask “what is yield?”Yield for this bond is 7.38% – Would never occur in real markets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b0d1838dc1ed1eeeabe9907f12ad048b10ef50c750771db9c75ba0858e14499.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b0d1838dc1ed1eeeabe9907f12ad048b10ef50c750771db9c75ba0858e14499.jpg)  
 Yield-to-maturity isn’t perfect, because generally there will be a “term-structure” meaning that CFs with di"erent maturities are discounted at slightly di"erent  
 
 • UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about term structure  
@@ -7853,7 +7853,7 @@ $$
 
 We get yields from market prices:  P  $P\rightarrow Y$   ↑  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/676fcceb0bd79112fdf25721b1d62f5e324d38eb1bb7bdd87039c438dea627c1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/676fcceb0bd79112fdf25721b1d62f5e324d38eb1bb7bdd87039c438dea627c1.jpg)  
 
 A number of questions:  
 
@@ -7885,15 +7885,15 @@ CF diagram just like any bond – ﬁts with TVM
 
 • Bond: Market price + CF  ↑ yield  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebc94f93e7739336b6eba8046772021aba9ad05a81d23c4376994c9b16305932.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c18b624c78009abf87fd5602004e995b79e49a012bb0b5037fedb17464aa8e8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebc94f93e7739336b6eba8046772021aba9ad05a81d23c4376994c9b16305932.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c18b624c78009abf87fd5602004e995b79e49a012bb0b5037fedb17464aa8e8.jpg)  
 
 # Bonds: Market Gives us Yield (Discount Rate)  
 
 For bonds, PV formula is:  $P V={\frac{P M T}{\left(1+y_{a b}\right)}}+{\frac{P M T}{\left(1+y_{a b}\right)^{2}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{3}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{4}}}+{\frac{100}{\left(1+y_{a b}\right)^{4}}}$  • Bond contract tells us  PMT ,  N ,  FV  =100 • Market gives us PV We can back out the yield (discount rate) Market gives this to us, for free  
 # Change from 2016 to 2023  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fa0fbe6cdb66c0c122391adff61ad5a790916ead1d29313f4f4b9c678d6ac3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fa0fbe6cdb66c0c122391adff61ad5a790916ead1d29313f4f4b9c678d6ac3.jpg)  
 
 • Yield    $\uparrow\Rightarrow$  cash today will grow to more tomorrow (10 yrs in this case) OR cash tomorrow worth less today  
 
@@ -7909,16 +7909,16 @@ Treasury Direct:  https://www.treasury direct.gov/GA-FI/FedInvest/select Securit
 
 For 3-apr-20, Yield using “BOND” menu and actual dates (Settle = 3-apr-20, Maturity  $=15$  -feb-30,  $\mathrm{coup}=1.5\%$  ,   $\mathrm{P}=108.4375$  ,  $\mathrm{Y}{=}0.617\%$  . Di"erent only by 1bp  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa7a17bbbec044c89dd091d1ec7d5be658ce6d568e1e2a957ca299b092349d2b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa7a17bbbec044c89dd091d1ec7d5be658ce6d568e1e2a957ca299b092349d2b.jpg)  
 
 Re-done with prices updated from Treasury Direct (di"erent time of day than above, which are from WSJ, which no longer has history). And calculating actual A/A semi-annual bond yield:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079e7190ae2b565a82b931a81a1334c7b961a74888c37043cab8848aaa622474.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079e7190ae2b565a82b931a81a1334c7b961a74888c37043cab8848aaa622474.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/73b4ad0fe5ac9e60626fcb21d912f05db01fbf13ceea32b6a6b3ecca5921cc22.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/73b4ad0fe5ac9e60626fcb21d912f05db01fbf13ceea32b6a6b3ecca5921cc22.jpg)  
 Inﬂation Past Five Years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64480a2818c1754a2a31838128e23178603602a2cf1d234b546e436c2fc47ea8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64480a2818c1754a2a31838128e23178603602a2cf1d234b546e436c2fc47ea8.jpg)  
 
 In 2021 & 2022, inﬂation surged  
 
@@ -7926,7 +7926,7 @@ In 2021 & 2022, inﬂation surged
 
 • Highest in 40 years  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b2b7d90d4570838cf192ddeb51641329ab0b82e0564277f116affd2923174.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b2b7d90d4570838cf192ddeb51641329ab0b82e0564277f116affd2923174.jpg)  
 
 When inﬂation  ↓ , y ↓  
 
@@ -8019,13 +8019,13 @@ $$
 99.658=\frac{6.5}{\left(1+y_{a b}\right)}+\frac{6.5}{\left(1+y_{a b}\right)^{2}}+\frac{6.5}{\left(1+y_{a b}\right)^{3}}+\frac{6.5}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0c8e5a5d6bf1913d4b04974f7b9ac255edcbb5e399e5b4d4f37eec490938803.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0c8e5a5d6bf1913d4b04974f7b9ac255edcbb5e399e5b4d4f37eec490938803.jpg)  
 
 Yield: what you  would  earn, holding until end:   $6.60\%$  
 
 Standard TVM calculation for yield  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b1d4d8a798d058a87c643de08d4ef3a5000193280a32a61027f6b9d315524c1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b1d4d8a798d058a87c643de08d4ef3a5000193280a32a61027f6b9d315524c1.jpg)  
 
 Yield: would price be at year 3?  
 
@@ -8033,7 +8033,7 @@ Yield: would price be at year 3?
 
 How to calculate price at yr 3? Easy – TVM with N=1, yld=6.60%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b21cd5c1705a6e07edd44df1a0d18c71028cd5a1a2fad370c6f8490ce013eab2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b21cd5c1705a6e07edd44df1a0d18c71028cd5a1a2fad370c6f8490ce013eab2.jpg)  
 
 But what if sell at yr 3, Sell at   $\S$  98?  
 
@@ -8041,7 +8041,7 @@ But what if sell at yr 3, Sell at   $\S$  98?
 
 Again, use TVM to ask for yield, if PV=–98  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/987377698009b36cdd0ee83e527b6d3915540dea4d7480d9f157a46a58a7603c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/987377698009b36cdd0ee83e527b6d3915540dea4d7480d9f157a46a58a7603c.jpg)  
 
 Hold to year 3, sell for \$98, earn what?  
 
@@ -8051,7 +8051,7 @@ Hold to year 3, sell for \$98, earn what?
 
 Again, TVM but now FV = 98 (sell at 98 at yr 3)return=6.00%: What you earn by holding for 3yr and selling at   $\S98$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5682026684628cda37527740cbdee5702cc8692eeeadda62825357d3a9b7ffe5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5682026684628cda37527740cbdee5702cc8692eeeadda62825357d3a9b7ffe5.jpg)  
 The idea of  Promised Yield  (or yield, or interest rate, or discount rate) versus  Holding Period Return is always di!cult to understand and to explain.  
 
 The basic idea is:  
@@ -8221,7 +8221,7 @@ IV. Bank demand deposits (checking account) – loan to a bank
 
 • Corporation promises to pay back, but may break promise  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cb58433df848b5d97994a7be6aa15f5c27b622e221874cb9c5e41816ee390bb8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cb58433df848b5d97994a7be6aa15f5c27b622e221874cb9c5e41816ee390bb8.jpg)  
 # Good Example of “Financial Instrument”  
 
 • Promise to pay you something of value –  Usually pays “money” (dollars) – but not always – gold clause in bonds prior to 1933  
@@ -8230,7 +8230,7 @@ IV. Bank demand deposits (checking account) – loan to a bank
 
 • Can sometimes use as payment –  Government bonds OK –  Corporate bonds poor –  Why? Need to study company to decide how valuable, whether company will pay in future –  Not good as “money” – whatever that is  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c440a1a481e8ec06f57f2fdad5add1eccf30ada4a439f22d313180f55f186565.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c440a1a481e8ec06f57f2fdad5add1eccf30ada4a439f22d313180f55f186565.jpg)  
 
 # Equity  
 
@@ -8249,7 +8249,7 @@ IV. Bank demand deposits (checking account) – loan to a bank
  • As I have described, a ﬁnancial transaction
 
  • Actually, most FX transactions are instruments –  Agree to transfer currency in future – maybe 2 days, often 1 month or 6 months in the future (FX forward)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ca8ca623008881b2760b91b40aae2889b6d49f7304d663678b1b120cd579a93.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ca8ca623008881b2760b91b40aae2889b6d49f7304d663678b1b120cd579a93.jpg)  
 
 # 2.2 Markets  
 
@@ -8284,14 +8284,14 @@ Cecchetti & Schoen holt z p 57
 
 Issuers raise money by Issuing Securities  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e14c85c5bf7cae36f8438971592d33f4ee01d617e6654eff24aeb9a0ad2657d8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e14c85c5bf7cae36f8438971592d33f4ee01d617e6654eff24aeb9a0ad2657d8.jpg)  
 
 More details in week 5 or 6  
 # Secondary Market: Markets, Investors, Securities  
 
 Secondary Market: major locus or venue for investors to save and invest Investors Security / Asset Class  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14167f1d8afdab615313637a7311a09646319bfc36148c0b84cd729160d0c96f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14167f1d8afdab615313637a7311a09646319bfc36148c0b84cd729160d0c96f.jpg)  
 
 More details in week 5 or 6  
 
@@ -8318,16 +8318,16 @@ V. Central Banks
 
 Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/064ca262b6f254fa6296e9ee0dc9c7d0104f45648ab9b47e95359f86bd2a9362.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/064ca262b6f254fa6296e9ee0dc9c7d0104f45648ab9b47e95359f86bd2a9362.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6872491624373b3ef33b319e0b5fc7ebbc6904140c5c543671d9961a16a7130.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c532a84a27bf28dbe4fb3beecf0af1f4cb0e0de5025e93b031d3d3998a5b54e0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6872491624373b3ef33b319e0b5fc7ebbc6904140c5c543671d9961a16a7130.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c532a84a27bf28dbe4fb3beecf0af1f4cb0e0de5025e93b031d3d3998a5b54e0.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fe904fcc0cda5d53e5c99782a7a5cc3360b51a8ee6421d0c8cc8c05170078dc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fe904fcc0cda5d53e5c99782a7a5cc3360b51a8ee6421d0c8cc8c05170078dc.jpg)  
 
 Asset Classes – Other We won’t cover this (not enough time) but include for completeness  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1803ad4cb7a50b46452ef5c13c3640067926a39afe57bb624a7e11a06d84f0dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1803ad4cb7a50b46452ef5c13c3640067926a39afe57bb624a7e11a06d84f0dd.jpg)  
 # 3.2 Introduction to Fixed Income  
 
 # Contents  
@@ -8377,7 +8377,7 @@ Covenants (restrictions on behavior)
 
 # UST or FIS are simple examples  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6473d33a7b0db5231962d761987858aa78448decbaee2edd4f9d48ae5506878.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6473d33a7b0db5231962d761987858aa78448decbaee2edd4f9d48ae5506878.jpg)  
 
 PV=99.658  
 # Seniority, Security, Se curit iz ation  
@@ -8406,11 +8406,11 @@ Se curit iz ation
 
 # Variety of Bonds  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e0375d0e86a1cc4acf0720fb6ba761ea4299311f7a4a48aa1a6a9dda069732a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e0375d0e86a1cc4acf0720fb6ba761ea4299311f7a4a48aa1a6a9dda069732a.jpg)  
 
 Sample Terms (JC Penny)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8493ff2e9b8abf0e97727c0b4bfb56aecced3fb30c1a6c9d1b7e3b11027b687.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8493ff2e9b8abf0e97727c0b4bfb56aecced3fb30c1a6c9d1b7e3b11027b687.jpg)  
 # 4 TVM & PV as Framework for Fixed Income  
 
 # Contents  
@@ -8446,7 +8446,7 @@ $$
 
 • Note – have not used indi!erence curves – works for everyone  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7668c7681d1547e1b4182501d5ed589cdc74b85823d2dca9fb09c76c931436fa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7668c7681d1547e1b4182501d5ed589cdc74b85823d2dca9fb09c76c931436fa.jpg)  
 # Right Hand Side Gives PV, FV & Discounting  
 
 $$
@@ -8494,15 +8494,15 @@ II. The term (1+y) or    $\sqrt[1]{1\!+\!y}$   is the price between today and to
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eaa0151040565e17aed9ed0b649db4ab9fe06e21ba24a666c983a8989f121cf5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eaa0151040565e17aed9ed0b649db4ab9fe06e21ba24a666c983a8989f121cf5.jpg)  
 
 Bond market is for 2017, Corporates, MBS, ABS, UST, Muni, from sifma: https://www.sifma.org/resources/research/bond-chart/ Equity market is January 2018, quoted from Barrons.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffab1f3254a55c41ec8c607f1f233b2ce37c8033be09c017c6a4beba88205f9b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffab1f3254a55c41ec8c607f1f233b2ce37c8033be09c017c6a4beba88205f9b.jpg)  
 Bond Market and Sub-Sectors  
 
 SIFMA  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f916551ae3d1f6594aae1ef158419bbcd3befaec0fc099a7a13344c8cd4800b1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f916551ae3d1f6594aae1ef158419bbcd3befaec0fc099a7a13344c8cd4800b1.jpg)  
 # 5.1 US Treasuries  
 
 # Contents  
@@ -8535,19 +8535,19 @@ NOTES AND BONDS
 
 New US Treasuries Issued Regularly Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally Col 3: Settle Date – cash & bonds change hands (normally T+1)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6e782a86a42da7c265304a1dc8375f86ee9ce9fb747abeb8994db3b9ffc6c68.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6e782a86a42da7c265304a1dc8375f86ee9ce9fb747abeb8994db3b9ffc6c68.jpg)  
 
 Week of April 5, 2022 is busy:  
 
 • Bunch of bills issued  
 
 • New 3-yr note issued • 10-yr note and 30-yr bond re-opened  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca9c64a900785215789071573cffc35dd62deb89034f36b0aa19357b752cc84a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca9c64a900785215789071573cffc35dd62deb89034f36b0aa19357b752cc84a.jpg)  
 
 How do I know the   $8.125\%$   of 15-may-21 was probably issued in 2009?  
 
 • It is an old bond, either 2, 5, 10, or 30. • 5-year rates have not been 8.125% for the past ﬁve years, so can’t be an old 5-year • 30-year rates were about 8.125% in May 1991, so it was probably issued then • Also, 10 & 30yr bonds (maybe 5s? - I don’t think so) are issued with maturity date 15th  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6dcbd62a1f6e67b8b92f5591ed84f49a71fb81afe2c406e47f2f9a66cca64fa3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6dcbd62a1f6e67b8b92f5591ed84f49a71fb81afe2c406e47f2f9a66cca64fa3.jpg)  
 
 What is Bid & Asked?  
 
@@ -8558,7 +8558,7 @@ Auction list from
 https://www.treasury.gov/resource-center/data-chart-center/quarterly-refunding/Documents/auctions.pdf  
 # 5.2 Other Bonds – US Agency, Other Gov’t Bonds (UK, Germany, Japan)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b80b580ebc990f6ff89fafcf07a38bc62535225c9498f21a9c95506de34de.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b80b580ebc990f6ff89fafcf07a38bc62535225c9498f21a9c95506de34de.jpg)  
 
 GSEs: Federal Home Loan Banks, Fannie Mae, Freddie Mac, Farmer Mac, Farm Credit System, the Financing Corporation, and the Resolution Funding Corporation.  
 
@@ -8571,7 +8571,7 @@ From Federal Reserve Flow of Funds (z1):
 This compares with about \$12trn UST debt held by the public (and banks, etc). (from spread-sheet that takes apart FoF L.210 - \$14.9 marketable, \$2.2 non-marketable (  $\S$  17.1 total), but \$2.4 held by Fed and   $\S2.2$   retirement funds)  
 
 The distinction between “on-budget” (an o"cial obligation of the federal government and included in o"cial deﬁcit numbers) and “o!-budget” (not o"cially an obligation and not included in o"cial deﬁcit numbers) is pretty artiﬁcial. Everybody kind-of knew that GSE debt was backed by the US government and we saw in 2008 that that belief was correct. Fannie and Freddie Mac (the two largest GSEs, involved in mortgage ﬁnancing) were supposedly public companies but on September 7, 2008 the government took them over and explicitly guaranteed their debt.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ba315a8f86b54e0c06c60de7fb7b7b73714934032de40b5e3a3769750b53a91e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ba315a8f86b54e0c06c60de7fb7b7b73714934032de40b5e3a3769750b53a91e.jpg)  
 
 For 5-oct-18, From http://www.wsj.com/mdc/public/page/2_3022-bond b nch mr k.html?mod  $=$  topnav_2_3024
 
@@ -8612,7 +8612,7 @@ List of some:
 
 My “Practical Guide to Bonds and Swaps” (https://papers.ssrn.com/abstract  $,=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5af5928d647ed252c9c7627a22fab752e49bdea2fca5b874e28b498dd2b27c95.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5af5928d647ed252c9c7627a22fab752e49bdea2fca5b874e28b498dd2b27c95.jpg)  
 
 Sources for conventions:  
 
@@ -8629,7 +8629,7 @@ Sources for conventions:
 
 # Contents  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a531f077c202be57b5af8f7f58fa357586b7e39db370c3a4ed1638e91eca18b8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a531f077c202be57b5af8f7f58fa357586b7e39db370c3a4ed1638e91eca18b8.jpg)  
 
 # Money Markets – Short-Term Debt  
 
@@ -8641,7 +8641,7 @@ From Fed Reserve Flow of Funds (z1):
 
 • Table L.210, 2018:Q2. Total Marketable UST \$14,933.7bn, TBills \$2,157.4bn   $(14.4\%)$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48f4829f58b1a4046e1f85b573c8b2eb949294141302ce19bfb092abfc97e302.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48f4829f58b1a4046e1f85b573c8b2eb949294141302ce19bfb092abfc97e302.jpg)  
 
 For comparison, total US bond market in 2017 \$41,020bn  
 
@@ -8674,12 +8674,12 @@ Bank Deposits – Eurodollar Deposits (banks)
 
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/929981c01274042f86b0e89675fefcea6454884d64344177c7af1a5ee9bb4259.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/929981c01274042f86b0e89675fefcea6454884d64344177c7af1a5ee9bb4259.jpg)  
 
 The trick with money-market securities, as with any ﬁxed-income security, is to ﬁgure out the CFs. Then we can PV or do whatever we need to.  
 
 Virtually all money-market instruments (at least those with 1 year or less maturity) have a single future CF, with a diagram like the Eurodollar deposit above. A more detailed table (for US money-market instruments) follows. I know some of the quoting conventions but don’t know others.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ee3c23ec55f35d8eca9f6859bafa45b01cd0d77fa83e5ad1608d12e34202781.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ee3c23ec55f35d8eca9f6859bafa45b01cd0d77fa83e5ad1608d12e34202781.jpg)  
 
 # Some Additional Short-Term Debt  
 

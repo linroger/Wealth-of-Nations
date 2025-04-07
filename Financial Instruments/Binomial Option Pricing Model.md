@@ -1,6 +1,6 @@
-# Binomial Tree Model
+# [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing|Binomial Tree Model]]
 ## I. One-Period Binomial Tree
-## II. CRR Binomial Tree Model
+## II. [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing#The Cox-Ross-Rubinstein Binomial Tree|CRR Binomial Tree Model]]
 ## III. Estimation and Calibration of $\boldsymbol{\mu}$ and $\sigma$
 ## IV. Dividends and Option Pricing
 ## V. Introduction of Combinatorial Method
@@ -144,7 +144,7 @@ $$
 through matching (i) mean of $S_{t+\Delta t}$ , (ii) variance of $S_{t+\Delta t}$ , $(\mathrm{iii})\sum p_{i}\ =\ 1$ , $\left(\operatorname{iv}\right)d\;=\;{\frac{1}{u}}$ , $\textstyle\left(\mathrm{v}\right)p_{m}={\frac{2}{3}}$ , where (iv) and (v) are arbitrarily imposed constraints.
 (Refer to Boyle (1986), Kamrad and Ritchken (1991), and Tian (1993) for more trinomial tree structures.)
 (Kamrad and Ritchken (1991) and Tian (1993) show that faster error convergence rates can be attained if all of the three branching probabilities in the trinomial tree are close or equal to $\frac13$ .)
-III. Estimation and Calibration of $\pmb{\mu}$ and $\sigma$
+III. Estimation and Calibration of $\textdollar{\mu}$ and $\sigma$
 $\begin{array}{r l}&{E[\ln(S_{T}/S_{0})]=(\mu-\frac{\sigma^{2}}{2})T}\\ &{\qquad\qquad\qquad\uparrow\mathrm{because}}\\ &{\ln S_{T}-\ln S_{0}\sim N D((\mu-\frac{\sigma^{2}}{2})T,\sigma^{2}T)}\end{array}$ ̸= $\begin{array}{c}{{\ln(E[S_{T}/S_{0}])}}\\ {{\parallel\mathrm{assume}}}\\ {{K T}}\end{array}$
 Assume $S_{1}=S_{0}e^{\eta}$ ( $T=1$ year) $\begin{array}{l}{{\Rightarrow E[S_{T}/S_{0}]=e^{K T}}}\\ {{\Rightarrow E[S_{T}]=S_{0}\,e^{K T}}}\end{array}$
 ( $\eta$ : continuonsly compounding return per annum)

@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Alias_291_PSET 2- GROUP ASSIGNMENT.md
+  - 
   - PSET 2GROUP ASSIGNMENT
-  - Alias_294_PSET 2- GROUP ASSIGNMENT.md
+  - 
 linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
 tags:
-  - tag_example
+
   - "#case-studies"
   - "#financialanalysis"
   - "#valuationanalysis"
@@ -14,8 +14,6 @@ tags:
   - "#performance-evaluation"
 title: PSET 2GROUP ASSIGNMENT
 ---
-
-
 # PSET 2GROUP ASSIGNMENT
 
 **BUSN 30131 85: Advanced Financial Analysis and Valuation**
@@ -76,20 +74,20 @@ The company faced increased SG&A expenses, which rose both in absolute terms and
 **a. To evaluate the multiple and the KKR offer, construct a pro-forma income statement for the year that ended Feb 2, 2007 and a forecasted income statement for the year ending Feb 2, 2008.**
 
 **Adjusted IS:**
-![](Z.%20Clippings/Untitled%208-20240407064733453.png)
+ ![500](Z.%20Clippings/Untitled%208-20240407064733453.png)
 
 **Forecasted IS**
-![](Z.%20Clippings/Untitled%208-20240407064757263.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407064757263.webp)
 
 **b. Briefly explain any adjustments that you make in creating the pro forma and forecasted income statements.**
 For Pro Forma
 1. Adjust COGS based on the change in accounting policy about impairment and markdown.
-![](Z.%20Clippings/Untitled%208-20240407064849291.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407064849291.webp)
 - The amount of adj. impairment is according to the case statement “The inventory impairment estimate related to the initiatives discussed above totaled$70.2 million in fiscal 2006 and reduced 2006 gross profit by a corresponding amount.”
 - The amount of adj. markdown is calculated based on the following form:
-![](Z.%20Clippings/Untitled%208-20240407064912750.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407064912750.webp)
 2. The adjustment of SG&A
-![](Z.%20Clippings/Untitled%208-20240407064921904.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407064921904.webp)
 - We adjusted the SG&A charges associated with the inventory and real estate initiatives at approximately$104.6 million, approximately$33.4 million of which was reflected in its results of operations during 2006
 - We also adjusted the insurance proceeds of$13 million which partially offset the increase of SG&A
 
@@ -97,7 +95,7 @@ For Forecasted IS:
 
 1. Net sales forecast is based on the revenue breakdown and the assumption of revenue growth drivers. According to the reading materials, we can infer that number of stores will decrease in FY2008. And we assume that the population structure will not change in a short period (1 year here), so we just assume that the number of households served remain the same. Since DG has changed its merchandise to a more appealing and fresher product line, people tend to go more often than before, so we increased the number of household trips per year.
 2. Regarding the expenditure per trip, the income level and consumption habit does not change in a short time and the overall average price in DG will not change dramatically, so we keep the expenditure unchanged here.
-![](Z.%20Clippings/Untitled%208-20240407065011557.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407065011557.webp)
 4. As presented in the case, we assume the gross margin for FY 2008 is 28% and calculate the cost of goods sold (COGS) based on this figure.
 5. SG&A is forecasted as a % of sales
 6. For Interest income and interest expense: 
@@ -107,7 +105,7 @@ For Forecasted IS:
 - When calculating the effective interest rate, considering the market rate in Feb 2007 is a little bit higher than what was in Feb 2006, so we just assume that the effective interest rate is 13.5%, a little bit higher than the rate in the previous year, which was 12.9%. (Interest rate = Interest expense / Current & Non-current Obligations)
 
 7. **How do you evaluate KKR’s offer as a shareholder? How does your evaluation relate to your analysis in a) and b)?**
-![](Z.%20Clippings/Untitled%208-20240407065033893.webp)
+ ![500](Z.%20Clippings/Untitled%208-20240407065033893.webp)
 KKR offered a relatively high price with an EV/EBITDA ratio of 17.2x, based on the pro forma for 2007. If we examine the original financial statements for FY 2007, the EV/EBITDA multiple would be 16.3x. Compared with industry peers whose multiples were 10.7x and 10.3x on average for FY 2007 and FY 2006 respectively, KKR's offering price obviously provides a high premium to DG.
 
 If we consider the forward EV/EBITDA of DG to evaluate KKR's purchase price, the ratio would be 11.0x, which is closer to the market average level. This analysis suggests that the performance improvement of DG makes KKR's purchase price seem more reasonable. However, it still remains slightly higher than the market valuation level of industry peers.

@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_93_Case Study of JP Morgan.md
-  - Example_Alias_Case Study of JP Morgan
+  - Case Study of JP Morgan.md
+  - Case Study of JP Morgan
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - quantitative-finance
   - finance
   - risk-management

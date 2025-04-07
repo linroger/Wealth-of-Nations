@@ -4,13 +4,13 @@ cssclasses:
 Owner: RRoger Lin
 aliases:
   - A Strategic Perspective on Bankruptcy
-  - Alias_124_Note on A Strategic Perspective on Bankruptcy.md
-  - Example_Alias_Note on A Strategic Perspective on Bankruptcy
+  - 
+  - Note on A Strategic Perspective on Bankruptcy
 linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
 tags:
-  - example_tag
+  - 
   - Primers/Notes
-  - tag_example
+
 title: A Strategic Perspective on Bankruptcy
 ---
 

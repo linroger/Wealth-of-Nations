@@ -3,10 +3,10 @@ title: DOLLAR TREE CASE STUDY
 cssclasses:
   - academia
 aliases:
-  - Alias_289_PSET 2- DOLLAR TREE CASE STUDY.md
-  - Alias_292_PSET 2- DOLLAR TREE CASE STUDY.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - case-studies
   - financialanalysis
   - corporaterestructuring

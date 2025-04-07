@@ -2,10 +2,8 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_374_Teaching Note 1-Introduction To Fixed Income Securities.md
-  - Alias_371_Teaching Note 1-Introduction To Fixed Income Securities.md
 tags:
-  - tag_example
+
 title: Teaching Note 1-Introduction To Fixed Income Securities
 ---
 
@@ -31,27 +29,27 @@ title: Teaching Note 1-Introduction To Fixed Income Securities
 
 ## THE OUTSTANDING AMOUNT U.S. DEBT
 
-![](c501e2bd459ec9234808566499de92ec.webp)
+ ![500](c501e2bd459ec9234808566499de92ec.webp)
 
 (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 ## FEDERAL FUNDS AND U.S. TREASURY YIELDS
 
-![](ed9c27353c438c24ca4616d0db3a40fa.webp)
+ ![500](ed9c27353c438c24ca4616d0db3a40fa.webp)
 
 ## THE NOTIONAL AMOUNT OF OVER-THE-COUNTER DERIVATIVES
 
 Panel A. Millions Of Us Dollars
 
-![](0babbfacbbb4fcfec8f4171be09f9667.webp)
+ ![500](0babbfacbbb4fcfec8f4171be09f9667.webp)
 
 (Data Source: OTC derivatives data are from the Bank for International Settlements,  while global GDP data are from the World Bank.)
 
-![](9e655de7f6fc7901fb4f470e98b3b973.webp)
+ ![500](9e655de7f6fc7901fb4f470e98b3b973.webp)
 
 ## U.S. TREASURY BILLS,  NOTES,  AND BONDS
 
-![](2765c2b90cb7022045b03dba44fae00e.webp)
+ ![500](2765c2b90cb7022045b03dba44fae00e.webp)
 
 - U.S. Government Issues Various Kinds Of Debt Securities
 1. Treasury Bills: Zero coupon securities with maturity up to one year
@@ -129,9 +127,9 @@ $$Z(t,        T)=e^{-r(t,        T)(T-t)}$$
 
 - Panel A of next figure shows $Z (t,         T)$ for $t = 1/31/2007,         1/31/2008,         …,         3/20/2020$,  and for $T − t$ ranging from 0 to 30 years
 - Panel B of next figure shows the corresponding yields r (*t,  T*)
-![](3c998762c66bd493587f6cb16239c245.webp)
+ ![500](3c998762c66bd493587f6cb16239c245.webp)
 
-![](3718c7ebc818a2f9d44ed0a47379516d.webp)
+ ![500](3718c7ebc818a2f9d44ed0a47379516d.webp)
 
 ## YIELD CURVES
 
@@ -270,7 +268,7 @@ $$P^{F R N}(t)\;=\;Z(t,        T_{i})(1+r(T_{i-1})/4)$$
 - Since government securities are liquid and default free,  they are excellent collateral.
 - Dealers can borrow money on a collateralized basis,  so that they can take huge positions even with limited capital.
 - The Repo Market grew very large. Next table shows the average *daily* amount outstanding
-![](e7f136d7f0511b8319bc6d189a0fa21e.webp)
+ ![500](e7f136d7f0511b8319bc6d189a0fa21e.webp)
 ## FINANCING BY U.S. GOVERNMENT SECURITIES DEALERS AVERAGE DAILY AMOUNT OUTSTANDING ($ BILLIONS)
 
 (Source: SIFMA http://www.sifma.org/research/statistics.aspx )
@@ -279,7 +277,7 @@ $$P^{F R N}(t)\;=\;Z(t,        T_{i})(1+r(T_{i-1})/4)$$
 
 - A Repo transaction is as follows: Consider a trader and a repo-dealer. The trader at time t wants to take a long position until time T (typically,  overnight!)
 
-![](14c44a2e234bdc65f0e9b874374c03e9.png)
+ ![500](14c44a2e234bdc65f0e9b874374c03e9.png)
 
 ## REPURCHASE AGREEMENTS
 
@@ -311,7 +309,7 @@ Get hold of the bond (to sell)
 
 ## REVERSE REPO TRANSACTION
 
-![](254464925f5221471a03a9e1784fb4dd.png)
+ ![500](254464925f5221471a03a9e1784fb4dd.png)
 
 ## TRI-PARTY REPO
 
@@ -380,7 +378,7 @@ $$
 $$ $
 
 - To obtain the forward curve we need a smooth yield curve.
-![](e7f136d7f0511b8319bc6d189a0fa21e.webp)
+ ![500](e7f136d7f0511b8319bc6d189a0fa21e.webp)
 ## ESTIMATING THE ZERO-COUPON DISCOUNT FUNCTION
 
 - There are several methods to extract the zero-coupon discount curve $Z (0,         T)$ from bond data.
@@ -483,7 +481,7 @@ $$\operatorname*{min}_{\theta_{0},        \theta_{1},        \theta_{2},        
 - Next figure shows the difference between using bootstrapping technique and the curve fitting technique
 
 ## ZERO-COUPON YIELD CURVES
-![](825c3c5d65ac1b66e440c8fac164fe68.webp)
+ ![500](825c3c5d65ac1b66e440c8fac164fe68.webp)
 - Clearly,         the fitted curve is much smoother (by construction).
 - An important difference arises when we look at forward rates
-![](f3e3bf4c8dd22037282dbfbb19b08161.webp)
+ ![500](f3e3bf4c8dd22037282dbfbb19b08161.webp)

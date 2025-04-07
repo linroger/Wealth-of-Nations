@@ -1,8 +1,8 @@
 ---
 cssclasses: academia
-aliases: [Risk Neutral Pricing,  Binomial Tree Pricing,  Alias_366_Teaching Note 5 Risk Neutral Pricing.md,  Alias_369_Teaching Note 5 Risk Neutral Pricing.md,  Monte Carlo Pricing,  BINOMIAL TREES AND MONTE CARLO SIMULATIONS]
+aliases: [Risk Neutral Pricing,  Binomial Tree Pricing,  Monte Carlo Pricing,  BINOMIAL TREES AND MONTE CARLO SIMULATIONS]
 linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
-tags: tag_example
+tags: 
 title: Teaching Note 5 Risk Neutral Pricing
 ---
 
@@ -276,7 +276,6 @@ $$\begin{array}{r c l}{{\mathrm{Caplet}_{0}}}&{{=}}&{{Z_{0}\left(1\right)\times 
 - It works beautifully.
 
 ## RISK NEUTRAL VS. TRUE PROBABILITIES
-- QUESTION
 - Under the risk neutral probabilities,  the expected interest rate is
 
 $$E^{*}\left[r_{1}\right]=\pi^{*}\times r_{1,   u}+\left(1-\pi^{*}\right)\times r_{1,   d}=0.0275$$
@@ -313,7 +312,7 @@ $$\begin{array}{r c l}{{y_{0}(1)}}&{{=}}&{{-\frac{\ln[Z_{0}(1)]}{\Delta t}=0.016
 - In addition,  computers can be programmed rather easily to carry out the backward computation.
 - Example:
 
-![](Pasted%20image%2020240426064841.png)
+ ![500](Pasted%20image%2020240426064841.png)
 
 ## DESCRIBING BIG TREES
 
@@ -537,7 +536,7 @@ $$Z_{0}\left(1\right)=0.9916,   \ Z_{0}\left(2\right)=0.9781,   \ Z_{0}\left(3\r
 - We want to search over $\theta_0$ so that $Z_0(2)=0.9781$
 - Searching over $θ_0$ we find $θ_0 =0.021145$,  resulting thus in![|500](Pasted%20image%2020240426070706.png)
 - Given $θ_0$,  we now look for $θ_1$ by trying to match the next bond $Z_0(3) = 0.9615$.
-![](Pasted%20image%2020240426070744.png)
+ ![500](Pasted%20image%2020240426070744.png)
 - Clearly,  $Z_0(3)$ from the tree only depends on $θ_1$.
 - Searching for $θ_1$ yields $θ_1 = 0.013807$,  yielding
 ![|500](Pasted%20image%2020240426070808.png)
@@ -691,7 +690,7 @@ $$\text{Payoff at }T=\left\{\begin{array}{ll}\max\left(\text{average rate from 0
 - The tree becomes non-recombining. When we use "big trees",  this is a serious problem.
 - For instance,  for mortgage backed security with monthly payment we need a tree with 360 steps. This implies a tree with 2360 = 2.345E + 108 nodes by the end of the tree (!).
 - MC simulations do not require a backward calculation. Problem solved! - In the example above,  with 10 simulations,  we obtain the following table:
-![](Pasted%20image%2020240426073453.png)
+ ![500](Pasted%20image%2020240426073453.png)
 
 ## MONTE CARLO SIMULATIONS WITH MULTI STEP TREES
 - The approach readily extends to multi-period binomial trees,  which is an important extension as it allows us to evaluate relatively complex securities.
@@ -703,15 +702,15 @@ $$r_{i+1,   j} = r_{i,   j} + \theta_{i} \times \Delta + \sigma \times \sqrt{\De
 
 ## HO-LEE BINOMIAL TREE
 
-![](Pasted%20image%2020240426074107.png)
+ ![500](Pasted%20image%2020240426074107.png)
 
 ## HO-LEE BINOMIAL TREE: SIMULATED DISCOUNTS
 
-![](Pasted%20image%2020240426074110.png)
+ ![500](Pasted%20image%2020240426074110.png)
 
 - For each simulated path $r_0,    r_1^s,    r_2^s,    \ldots,    r_{k-1}^s$,  compute the simulated zero with maturity $T_k$ as $$ Z^s(0,    T_k) = e^{-\sum_{i=1}^{k-1} r_i^s \Delta t} $$
 
-![](Pasted%20image%2020240426074122.png)
+ ![500](Pasted%20image%2020240426074122.png)
 
 ## SIMULATED HO-LEE BINOMIAL TREE: VALUATION OF ZERO-COUPON BONDS
 
@@ -785,7 +784,7 @@ $$\text{Confidence interval}=[\hat{\text{c}}_{0}-2\times\text{St.E}\pi.,   \hat{
 ## LONG-TERM ASIAN OPTIONS
 - At this point,  we can estimate the values of a long-term Asian options with maturities $T_i = 0.5,   …$.
 - Next table computes the value (Panel A),  and the first 10 simulated discounted payoffs (Panel B).
-![](Pasted%20image%2020240426074915.png)
+ ![500](Pasted%20image%2020240426074915.png)
 ## DURATION CALCULATIONS BY MONTE CARLO SIMULATIONS
 
 - How can we compute measures of risk if we use Monte Carlo simulations for valuation?
@@ -805,7 +804,7 @@ $$\mbox{\small Spot rate duration}=-\frac{1}{P}\frac{dP}{dr}\approx-\frac{1}{P(r
 
 ## DURATION CALCULATIONS BY MONTE CARLO SIMULATIONS
 
-![](Z.%20Clippings/Pasted%20image%2020240426075100.png)
+ ![500](Z.%20Clippings/Pasted%20image%2020240426075100.png)
 
 ## MONTE CARLO SIMULATIONS IN GENERAL
 

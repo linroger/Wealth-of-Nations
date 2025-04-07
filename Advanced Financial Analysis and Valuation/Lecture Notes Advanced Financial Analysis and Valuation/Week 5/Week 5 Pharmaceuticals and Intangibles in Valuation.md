@@ -1,8 +1,40 @@
 ---
+LLM-tagged: 2025-03-10T14:13:13.121Z
+---
+
+Here is a tagged summary of the text:
+
+**Tag 1: Pharmaceutical Industry**
+
+* Discusses trends in the pharmaceutical industry, such as the shift to biologics and increasing costs to bring drugs to market
+* Consolidation of the industry has led to key issues for drug companies, including patent expiration and competition from generics
+
+**Tag 2: Valuation Exercise**
+
+* Valuing existing pipeline (forecasting by product line; components)
+* Valuing a new strategy
+* Assessing the acquisition offer
+* Includes an ethical or CSR dimension, such as "tricks" to extend patents
+
+**Tag 3: Goodwill and Future M&A**
+
+* Forecasts future M&A activity can impact balance sheet values (goodwill and intangibles) on the balance sheet
+* Key question: Is it necessary to forecast a realistic/accurate future balance sheet?
+* Value creation through future M&A is important, but forecasting accuracy is not always possible
+
+**Tag 4: Multiple Sensitivity**
+
+* Multiples are sensitive to accounting effects, including goodwill and intangibles from past M&A
+* Organic growth vs. growth via acquisitions distorts multiples
+* Relatively speaking, multiples are affected by changes in accounting values
+
+---
+
+---
 cssclasses: academia
-aliases: [Alias_314_Week 5 Pharmaceuticals and Intangibles in Valuation.md,  Alias_317_Week 5 Pharmaceuticals and Intangibles in Valuation.md]
+aliases: [Week 5 Pharmaceuticals and Intangibles in Valuation.md,  Week 5 Pharmaceuticals and Intangibles in Valuation.md]
 tags:
-  - tag_example
+
   - "[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]"
   - healthcare
   - finance
@@ -51,15 +83,15 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	 - Again,  size of the market is a key consideration
  - Valuation often requires decision trees or scenario analysis
 
-![](00348565cb785c53c4bbc082db1df9a1.png)### DRUG DEVELOPMENT PROCESS
+ ![500](00348565cb785c53c4bbc082db1df9a1.png)### DRUG DEVELOPMENT PROCESS
 
 ### DRUG DEVELOPMENT PROCESS (CONT.)
 
-![](71c1acdf462f72c949553b249a16ac7e.png)
+ ![500](71c1acdf462f72c949553b249a16ac7e.png)
 
 ### TYPICAL CASH FLOW PROFILE
 
-![](357d348dbdaffe98ccba8e227b5d79bc.png)
+ ![500](357d348dbdaffe98ccba8e227b5d79bc.png)
 
 ### DIFFERENT HEALTH CARE FIRMS & BUSINESS MODELS (CONT.)
 - Medical Device Companies
@@ -78,7 +110,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### VALUE DRIVERS AND FORECASTING IN PHARMA
 
-![](84b7320739ff37f30e441c5fba72f077.png)
+ ![500](84b7320739ff37f30e441c5fba72f077.png)
 
 - High profit margins
 	 - Patent protection
@@ -94,26 +126,26 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### PFIZER: PIPELINE
 
-![](e892e60340a342fde0802503b21325e8.png)
+ ![500](e892e60340a342fde0802503b21325e8.png)
 
 #### PFIZER : EX‐PIPELINE
 
-![](a05832bad2e0f1e818ad87f178c94da3.png)
+ ![500](a05832bad2e0f1e818ad87f178c94da3.png)
 
 #### KEY VALUE DRIVERS: PFIZER (BY KEY PRODUCTS)
 
-![](36dc6ab07b713843f2a2d6b96e83b7a9.png)
+ ![500](36dc6ab07b713843f2a2d6b96e83b7a9.png)
 
 #### EXAMPLE: ALECTOR
 
-![](adda34347b103a9d8a9a3dc7c8a8e9c3.png)
+ ![500](adda34347b103a9d8a9a3dc7c8a8e9c3.png)
 
 - Founded in 2013,  based in South San Francisco,  CA
 - Focuses on development of drugs to eliminate neurodegeneration (e.g.,  dementia,  Alzheimer's) through immuno‐neurology
 
 #### EXAMPLE: ALECTOR (VISIBLE ALPHA)
 
-![](6062bd2af8eac19aff8368015a5f7bb5.png)
+ ![500](6062bd2af8eac19aff8368015a5f7bb5.png)
 
 - Source: Visible Alpha
 
@@ -121,13 +153,13 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 ##### SINOPHARM: FINANCING PAYABLES
 
-![](e44581f0a2284d081ed2538702ba4c2d.png)
+ ![500](e44581f0a2284d081ed2538702ba4c2d.png)
 
 - The company appears to report borrowings as AP to boost OCF
 
 ##### CF SHENANIGANS: CITI AND ENRON
 
-![](6486f3f856683857ff32d06b08654741.png)
+ ![500](6486f3f856683857ff32d06b08654741.png)
 
 - From 1998 to 2001 Citi and Enron engaged in a series of transactions to "create" operating cash inflows for Enron
 - A large share of these transactions was structured as prepay transactions
@@ -139,7 +171,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 # IMPORTANCE OF INTANGIBLES
 #### IMPORTANCE OF INTANGIBLE ASSETS
 
-![](a33303a2ea6bca83e2ccd75601c0f3e4.png)
+ ![500](a33303a2ea6bca83e2ccd75601c0f3e4.png)
 
 - Shift from manufacturing to service & technology
 - Many key assets of firms are [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangibles]] :
@@ -149,7 +181,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### R&D SPENDING AND INTANGIBLE INTENSITY BY SECTOR
 
-![](a9087ef70cbec01209e8c577be2c5322.png)
+ ![500](a9087ef70cbec01209e8c577be2c5322.png)
 
 #### ECONOMICS OF INTANGIBLES
 
@@ -172,7 +204,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 # ACCOUNTING TREATMENT OF INTANGIBLES
 #### INTANGIBLES ON THE BOOKS
 
-![](369a08ee4574b383447f21d87e898435.png)
+ ![500](369a08ee4574b383447f21d87e898435.png)
 
 #### ACCOUNTING TREATMENT OF INTANGIBLES
 
@@ -188,11 +220,11 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### INTANGIBLE INVESTMENTS ARE NOT JUST R&D
 
-![](df7f85cf2a126f51f4e00cd2d16e3620.png)
+ ![500](df7f85cf2a126f51f4e00cd2d16e3620.png)
 
 #### EVIDENCE FROM SEC ENFORCEMENT ACTIONS
 
-![](f950b800375105f320c2b472a4b97477.png)
+ ![500](f950b800375105f320c2b472a4b97477.png)
 
  - Source: Dechow,  Ge,  Larson,  and Sloan (2008)
 
@@ -217,7 +249,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 ### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED)
 
-![](c024a455c4435622cb42b8a1c46fe48e.png)
+ ![500](c024a455c4435622cb42b8a1c46fe48e.png)
 
 - OncoMed is a clinical‐stage biopharmaceutical company focused on discovering and developing novel therapeutics for cancers
 	 - In April 2019,  acquired by Mereo Biopharma (no longer listed)
@@ -229,17 +261,17 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### R&D EXPENSES (AND STOCK COMP)
 
-![](72eb5aa047e7e418272ba09706f797ee.png)
+ ![500](72eb5aa047e7e418272ba09706f797ee.png)
 
 #### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
-![](321b690dcd68ce13a31f088baabaab1c.png)
+ ![500](321b690dcd68ce13a31f088baabaab1c.png)
 
  - Source: OncoMed Pharmaceutical Annual Reports
 
 #### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
-![](e54821ba0b0cf26a11ac69e766a2b411.png)
+ ![500](e54821ba0b0cf26a11ac69e766a2b411.png)
 
 - Note: They had a large A/R that Celgene owed them as a result of a safety milestone in a trial. Payment in 2016 reduced assets (A/R) and hence NOA.
  - Source: OncoMed Pharmaceutical Annual Reports
@@ -283,13 +315,13 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### REVIEW: ECONOMIC PROFIT MODEL
 
-![](33054fb774fdb70541a85aeccbca903b.png)
+ ![500](33054fb774fdb70541a85aeccbca903b.png)
 
 - Covered the EP model in Week 3 (see also Chapter 8 in Koller et al.)
 
 #### TERMINAL VALUE FOR ECONOMIC PROFIT MODEL
 
-![](a16d8537389ad7507453417cc5b39d02.png)
+ ![500](a16d8537389ad7507453417cc5b39d02.png)
 
 - What is a reasonable prediction for the terminal value in economic profit model?
 	- Think about the numerator of the TV equation
@@ -339,7 +371,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### ILLUSTRATING R&D CAPITALIZATION IN EP MODEL (CONT.)
 
-![](a7e275cb3ea5b7879e7a034f551a1b68.png)
+ ![500](a7e275cb3ea5b7879e7a034f551a1b68.png)
 
 Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  not GAAP profits
 
@@ -380,7 +412,7 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 
 #### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
 
-![](e61dcf5663021e15a18582a054e9d511.png)
+ ![500](e61dcf5663021e15a18582a054e9d511.png)
 
 - Perhaps easier to understand if you read backwards from 2017:
 	- R&D from 2007 is now fully amortized (fraction = 0; last A = 2.8; no value left)
@@ -393,7 +425,7 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 	- 2) subtracting the periodic amortization of the research asset(s)
 - Companies with growing R&D expenditures will have a higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] after the adjustment
 	- In this case,  the difference in [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] is not huge:
-	- ![](db7b4d11286cdc6efa032b2b7cbb8b80.png)
+	-  ![500](db7b4d11286cdc6efa032b2b7cbb8b80.png)
 
 ```latex
 Adjustment for [[Operating Income vs. Net Income What's the Difference|Operating Income]]       [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]  
@@ -408,7 +440,7 @@ Source: OncoMed Filings and Annual Reports
 
 #### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – NOA
 
-![](587e83eac4b73d3093c9dd5c7c3a6ab4.png)
+ ![500](587e83eac4b73d3093c9dd5c7c3a6ab4.png)
 
 - NOA is also adjusted adding the estimated value of the research asset(s)
 	- In thisContinuing from where I left off:
@@ -425,7 +457,7 @@ Source: OncoMed Filings and Annual Reports
 
 ### ROIC ADJUSTED FOR INTANGIBLE INVESTMENTS
 
-![](254343db2cb880bd1bf181aa328d4875.png)
+ ![500](254343db2cb880bd1bf181aa328d4875.png)
 
 # ADJUSTING FOR INTANGIBLES IN RELATIVE VALUATION
 
@@ -444,19 +476,19 @@ Source: OncoMed Filings and Annual Reports
 
 #### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES
 
-![](26d48a569cbf62c87b44f549412037a4.png)
+ ![500](26d48a569cbf62c87b44f549412037a4.png)
 
 Source: Annual Reports
 
 #### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES (CONT.)
 
-![](7c4e9ccd9e2906de8eebb703a0fbd62a.png)
+ ![500](7c4e9ccd9e2906de8eebb703a0fbd62a.png)
 
 Source: Annual Reports
 
 #### UNADJUSTED RELATIVE VALUATION: EXAMPLE IN 2017
 
-![](a476031e7ddeeb4f75fe2f6013ebf18a.png)
+ ![500](a476031e7ddeeb4f75fe2f6013ebf18a.png)
 
 |                    | Company | Celgene | Gilead | AstraZeneca | Pfizer |
 |---------------------|---------|---------|--------|--------------|--------|
@@ -470,31 +502,31 @@ Source: Annual Reports,  Bloomberg
 
 #### ADJUSTING RELATIVE VALUATION: CELGENE CORP
 
-![](43be7f528b81b5ff1da50760ccd5f9ba.png)
+ ![500](43be7f528b81b5ff1da50760ccd5f9ba.png)
 
 Increasing R&D expenditures over time → higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] → lower adjusted multiples
 
 #### ADJUSTING RELATIVE VALUATION: GILEAD
 
-![](c632240ed50464b9ba118a23081804dc.png)
+ ![500](c632240ed50464b9ba118a23081804dc.png)
 
 Source: Annual Reports
 
 #### ADJUSTING RELATIVE VALUATION: ASTRAZENECA
 
-![](da840ca172bd5426e4cd85fc8984cd2f.png)
+ ![500](da840ca172bd5426e4cd85fc8984cd2f.png)
 
 Source: Annual Reports
 
 #### ADJUSTING RELATIVE VALUATION: PFIZER
 
-![](bb0e3669fe66149121c33b6afd67ee6e.png)
+ ![500](bb0e3669fe66149121c33b6afd67ee6e.png)
 
 Source: Annual Reports
 
 #### ADJUSTED RELATIVE VALUATION: EXAMPLE IN 2017
 
-![](fd66bff7e4e89d6f7d13f701daf5931d.png)
+ ![500](fd66bff7e4e89d6f7d13f701daf5931d.png)
 
 |                    | Company | Celgene | Gilead | AstraZeneca | Pfizer |
 |---------------------|---------|---------|--------|-------------|--------|
@@ -533,7 +565,7 @@ Source: Annual Reports,  Bloomberg
 
 #### PHARMA HAS SEEN LOTS OF M&A
 
-![](4b5ac5ff2b15592ead5dea72512cfb55.png)
+ ![500](4b5ac5ff2b15592ead5dea72512cfb55.png)
 
 #### FORECASTING FUTURE M&A
 - Should You Forecast (Potential) Future M&A Activity?
@@ -546,21 +578,21 @@ Source: Annual Reports,  Bloomberg
 
 #### VALUE CREATION BY TYPE OF GROWTH
 
-![](84c0912f6ef060283691a0b9f04f4697.png)
+ ![500](84c0912f6ef060283691a0b9f04f4697.png)
 
 Source: Koller et al. Exhibit 2.7
 
 #### VALUE CREATION WITH (MANY) SMALLER DEALS?
 
-![](a8ffbe39e8b824460fe632e5de1ef34c.png)
+ ![500](a8ffbe39e8b824460fe632e5de1ef34c.png)
 
 #### M&A VALUE CREATION: EXPERIENCE AND SERIAL ACQUIRERS
 
-![](9207d04799b1629e165b0ead739fd613.png)
+ ![500](9207d04799b1629e165b0ead739fd613.png)
 
 #### WHO CAPTURES VALUE (IF ANY IS CREATED)?
 
-![](13fa66a74418650e4b473df697295524.png)
+ ![500](13fa66a74418650e4b473df697295524.png)
 
 ### PUTTING IT ALL TOGETHER
 

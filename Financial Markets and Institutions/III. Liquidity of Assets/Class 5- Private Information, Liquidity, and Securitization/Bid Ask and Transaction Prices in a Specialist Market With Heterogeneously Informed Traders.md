@@ -2,22 +2,18 @@
 aliases:
 - Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
   Informed Traders*
-- Example_Alias_Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
+- Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
   Informed Traders
-- Alias_76_Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
+- Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
   Informed Traders.md
 linter-yaml-title-alias: Bid,  Ask,  and **Transaction** Prices in a Specialist Market
   with Heterogeneously Informed Traders*
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
   Informed Traders*
 ---
-
-
-
-
 # Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders
 
 The presence of traders with superior information leads to a positive [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] even when the specialist is risk-neutral and makes zero expected profits. The resulting transaction prices convey information,  and the expectation of the average spread squared times volume is bounded by a number that is independent of insider activity. The serial correlation of transaction price differences is a function of the proportion of the spread due to adverse selection. A [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] implies a divergence between observed returns and realizable returns. Observed returns are approximately realizable returns plus what the uninformed anticipate losing to the insiders.
@@ -93,7 +89,7 @@ specialist quotes are valid for a specified number of units,  and typically,  th
 
 To examine the informational characteristics of such a market,  we assume that there are informed investors and purely 'liquidity' traders. At some time T,  in the future,  some random dollar value I V 2 0,  var( V) < 001 per share will be realized,  and the informed have information about this random variable V. Time T,  may be interpreted as the time at which no trader has an informational advantage - just after an earnings announcement,  for example.
 
-At that time,  there will be agreement on the value of the firm and the informational differences between insiders and outsiders will be minimal. The informed may receive information about occurrences after time T,  ,     but this information will be public information at time $T_{0}$. This specification implies that there will be no informational asymmetries at time $T_{0}$,  and hence it is meaningful to specify,  exogenously,  the random value,  V,  which represents the consensus value of the stock given all public information The informed receive information and place their orders. We do not rule out the possibility that any one informed investor may decide to submit several orders,  each for a unit amount. The informed trader may be speculating based on private information or superior analysis,  or he may simply have a 'liquidity' reason for trading,  but in any event,  his decision to buy,  sell or leave is based on his information. We will refer to the informed traders as insiders though other interpretations are possible,  for example,  they may merely be individuals who are particularly skillful in processing public information.
+At that time,  there will be agreement on the value of the firm and the informational differences between insiders and outsiders will be minimal. The informed may receive information about occurrences after time T,     but this information will be public information at time $T_{0}$. This specification implies that there will be no informational asymmetries at time $T_{0}$,  and hence it is meaningful to specify,  exogenously,  the random value,  V,  which represents the consensus value of the stock given all public information The informed receive information and place their orders. We do not rule out the possibility that any one informed investor may decide to submit several orders,  each for a unit amount. The informed trader may be speculating based on private information or superior analysis,  or he may simply have a 'liquidity' reason for trading,  but in any event,  his decision to buy,  sell or leave is based on his information. We will refer to the informed traders as insiders though other interpretations are possible,  for example,  they may merely be individuals who are particularly skillful in processing public information.
 
 To motivate the active participation of the uninformed traders in a model where everyone is rational,  there must be some disparity of preferences or endowments across individuals. This disparity may arise from predictable life cycle needs or from less predictable events such as job promotions or unemployment,  deaths or disabilities,  or myriad other causes. We have chosen to suppress the details of the uninformed traders' motives from our formal model. Instead,  we simply assign to each a time preference parameter which,  together with his expectations,  determines how much a trader is willing to pay to buy and to accept to sell a single unit of the stock. Specifically,  all participants,  informed,  uninformed,  and the specialist,  are risk-neutral. Each participant assigns random utility to shares of stock,  x,  and current consumption,  c,  as pxV + c,  where p is a parameter of the individual investor's utility function representing his personal trade-off between current and future consumption derived from ownership of the asset. For the specialist,  we take p = 1; this is just a normalization. Generally,  a high p indicates a desire to invest for the future; a low p indicates a desire for current consumption. This 'liquidity parameter' could be the result of imperfect access to capital markets or it could represent differential subjective assessments of the distribution of the random variable I'. The risk neutrality assumption implies that in order for there to be trade,  there must be some variation in p across market participants,  for otherwise the 'no trade theorem' of Milgrom and Stokey (1982) implies that the spread will be set large enough to preclude all trade. Since p is to be unknown to the specialist,  and a pure preference parameter,  we treat it as a
 
@@ -124,7 +120,7 @@ Given the above behavior of the market participants,  the specialist chooses bid
 $$\mathrm{E}\!\left[(A-V)I_{\{\,     Z_{t}>A\}}+(V-B)I_{\{\,     Z_{t}<B\}}|S_{t}\right],     $$
 $$\left(2\right)$$
 
-where Zt,  Zt,  Zt,  and Icz,  cBI are,  respectively,  the indicator functions of the events {Z,  >A) and *{Z,  <B),  * i.e.,  I(.,  ,     ,  ) is one if the event {Z,  >A} occurs; otherwise it is zero. The expression,  (2) may be rewritten as
+where Zt,  Zt,  Zt,  and Icz,  cBI are,  respectively,  the indicator functions of the events {Z,  >A) and *{Z,  <B),  * i.e.,  I(.,     ,  ) is one if the event {Z,  >A} occurs; otherwise it is zero. The expression,  (2) may be rewritten as
 
 $$(A-\mathrm{E}[V|S_{t},     Z_{t}>A])\mathrm{P}\{Z_{t}>A|S_{t}\}$$
 
@@ -133,7 +129,7 @@ $$({\mathfrak{I}}{\mathfrak{I}})$$
 
 where E[ . 1. ] is the (conditional) expectation operator derived from the probability measure P.
 
-The above holds as long as there are zero costs associated with all short positions in cash or stock. Our central assumption about the specialist is that he earns zero expected profits on each purchase and each sale,  and he faces no transaction costs. To illustrate how competition might lead to such a description,  suppose there are two specialists in this one stock. Both have the same information and face the same population. Suppose the first specialist sets an ask price A' so that A' > E[ V]S,  ,     Z,  > *A'].* The second specialist will rationally undercut the first by choosing an ask *A2 -c A'* and *A' L* E[ V]S,  ,     Z,  > *A2].* The zero expected profit equilibrium at time 1 (if it exists) consists of a pair of functions A,  and B,  satisfying
+The above holds as long as there are zero costs associated with all short positions in cash or stock. Our central assumption about the specialist is that he earns zero expected profits on each purchase and each sale,  and he faces no transaction costs. To illustrate how competition might lead to such a description,  suppose there are two specialists in this one stock. Both have the same information and face the same population. Suppose the first specialist sets an ask price A' so that A' > E[ V]S,     Z,  > *A'].* The second specialist will rationally undercut the first by choosing an ask *A2 -c A'* and *A' L* E[ V]S,     Z,  > *A2].* The zero expected profit equilibrium at time 1 (if it exists) consists of a pair of functions A,  and B,  satisfying
 
 $$A_{t}(\omega)=\operatorname{E}[V|S_{t},     Z_{t}>A_{t}(\omega)](\omega),     $$
 
@@ -143,7 +139,7 @@ $$B_{t}(\omega)-\operatorname{E}[V|S_{t},     Z_{t}<B_{t}(\omega)](\omega),     
 
 where Z,  = p,  E[ V]F,  ] and A,  and B,  are measurable with respect to F,  (i.e.,  the customer knows the bid and ask prices).
 
-General existence of such functions would be difficult to show,  since it involves a 'rational expectations' type of fixed point condition. The definition is not vacuous,  however,  as the following examples show. If the specialist's information,  S,  ,     is a finer partition than the information of the informed,  then A,  and B,  will both be equal to the conditional mean of I/ given the information S,  . If,  on the other hand,  the specialist's information is the same as the publicly available information *H,  ,     * then A,  and B,  are given by
+General existence of such functions would be difficult to show,  since it involves a 'rational expectations' type of fixed point condition. The definition is not vacuous,  however,  as the following examples show. If the specialist's information,  S,     is a finer partition than the information of the informed,  then A,  and B,  will both be equal to the conditional mean of I/ given the information S,  . If,  on the other hand,  the specialist's information is the same as the publicly available information *H,     * then A,  and B,  are given by
 
 $$A_{r}=\operatorname*{inf}\{\,     a\!:\!a\geq\operatorname{E}[\,     V|H_{r},     Z_{r}\!>\!a]\,     \}\,     .$$
 $$B_{t}=\operatorname*{sup}\left\{\,     b\!:\!b<\operatorname{E}[\,     V|H_{t},     Z_{t}<b\,     ]\,     \right\}.$$
@@ -170,11 +166,11 @@ Proposition 1. Suppose equilibrium bid and ask prices exist satisfying the zero 
 
 $$[\mathbf{\partial}_{t},     \mathbf{Z}_{t}>A_{t}],     $$
 
-A,  = E[vF,  ,     z,  >A,  ],
-B,  =E[V/)S,  ,     Z,  <B,  ].
+A,  = E[vF,     z,  >A,  ],
+B,  =E[V/)S,     Z,  <B,  ].
 
 Then the ask price is greater and the bid price is less than the expectation of VI
-A,  2 E,  [ V] 2 B,  ,     The inequalities are strict if adverse selection is possible,  i.e.,  if
+A,  2 E,  [ V] 2 B,     The inequalities are strict if adverse selection is possible,  i.e.,  if
 
 $$\mathbf{l}\}>0,     $$
 $$\mathbf{I}>\mathbf{E}$$
@@ -214,7 +210,7 @@ Let T be the times at which trades occur. The above discussion shows that the Ts
 $$\operatorname{E}\left[\,     V|S_{T_{k}},     Z_{T_{k}}>A_{T_{k}}\,     \right]I_{\{\,     Z_{T_{k}}>A_{T_{k}}\,     \}}+\operatorname{E}\left[\,     V|S_{T_{k}},     Z_{T_{k}}<B_{T_{k}}\,     \right]I_{\{\,     Z_{T_{k}}<B_{T_{k}}\,     \}}\,     .$$
 $$({\boldsymbol{\mathit{s}}})$$
 
-But (5) is just E[V(S,  )] = E[V(S,  )]. This observation allows us to write the kth transaction price as *pk =* E[V(S,  )],  as long as k trades take place (i.e.,  as long as Tk is less than *TO*).* Thus,  if N trades actually take place,  then *pl,  .* . . ,  pN* are the prices at which trades occur. Notice,  however,  that *P,  ,     ,  +~* is also well defined,  and represents some intermediate value between the bid and ask prices at the end of the trading period. If one thinks in terms of computing returns based on daily data,  this use of an imaginary transaction price is not far from the way CRSP calculations are done for days in which there is no trade. The specification of *H,  +* from the preceding paragraph implies that pk is measurable with respect to Hk,  which allows us to prove the following proposition:
+But (5) is just E[V(S,  )] = E[V(S,  )]. This observation allows us to write the kth transaction price as *pk =* E[V(S,  )],  as long as k trades take place (i.e.,  as long as Tk is less than *TO*).* Thus,  if N trades actually take place,  then *pl,  .* . . ,  pN* are the prices at which trades occur. Notice,  however,  that *P,     ,  +~* is also well defined,  and represents some intermediate value between the bid and ask prices at the end of the trading period. If one thinks in terms of computing returns based on daily data,  this use of an imaginary transaction price is not far from the way CRSP calculations are done for days in which there is no trade. The specification of *H,  +* from the preceding paragraph implies that pk is measurable with respect to Hk,  which allows us to prove the following proposition:
 Proposition 2. The sequence of transaction prices { pk } forms a martingale relative to the specialist's information,  ( S,  >,  and the public information,  ( Hk >.
 
 Proof. From (5) *pk =* E[V(S,  )]. Thus,

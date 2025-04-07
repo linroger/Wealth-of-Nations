@@ -37,7 +37,7 @@ International trade in goods regained its importance in global production around
 
 The historic statistics in the ﬁgure are from Angus Maddison’s (2001) book on two millennia of economic history,  a culmination of evidence from a lifetime of his economic research. Maddison also documents that,  hidden behind the world total,  are large differences between the globalization paths of individual countries. The United States and China,  for instance,  had relatively closed economies in 1870. Their trade with other countries was minor. Exports comprised only 2.5 percent of U.S production,  and only 0.7 percent of China’s GDP. Today the two countries have relatively open economies.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fb74786f278d11f47e0659c9cda4627b568b826cc154ab93abea9e20340c961.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fb74786f278d11f47e0659c9cda4627b568b826cc154ab93abea9e20340c961.jpg)
 
 Sources : Maddison (2001,  Tables B 18,  F 2,  F 5) and World Bank ( URL data. Worldbank. Org/indicator/NE. EXP. GNFS. ZS ,  /NY. GDP. MKTP. CD 2012). Note : The graph is based on a consistent sample of 56 countries (accounting for 93 percent of world output and 87 percent of world exports on average,  see Angus Maddison 1995),  except in 1820,  when the sample consisted of 8 countries. The comparison over time is based on international (Geary-Khamis) dollar prices for 1990.
 
@@ -51,7 +51,7 @@ International capital markets today are arguably as integrated as never before. 
 
 The emergence of the multinational ﬁrm has changed the nature of international capital ﬂows
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8261c5180be4fb368ac4cf79414c3d8a5e002ace1190c1f346443f93c3cf949.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8261c5180be4fb368ac4cf79414c3d8a5e002ace1190c1f346443f93c3cf949.jpg)
 
 Source : Obstfeld and Taylor (2004,  Figure 1.3) Figure 1.2: Capital Mobility,  1860-2000
 
@@ -61,7 +61,7 @@ Like the other ﬂows we have looked at,  the international migration of people 
 
 Table 1.1: Foreign-born Residents as a Share of Total Population,  1870-2007
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64bf0e8c96233e47614fae11240e48ddc9b64a5eaeca59541b52ec5a0cf41277.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64bf0e8c96233e47614fae11240e48ddc9b64a5eaeca59541b52ec5a0cf41277.jpg)
 
 Sources : Timothy J. Hatton and Jeffrey G. Williamson (2008) for 1870-1910 and United Nations ( URL esa. Un. Org/migration 2012) for 1990-2010. Note : The statistics are for foreign-born residents when available. Otherwise they are for foreign nationals as a share of total population.
 
@@ -95,7 +95,7 @@ Things changed sharply in 1992,  after the fall of the Berlin Wall. The Russian 
 
 Global inequality has widened in periods with and without globalization. During the ﬁrst global century,  worldwide inequality increased sharply. In contrast,  during the past two decades of the
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9fa627c3f09298274e2736ea6244f52794639e71742585b3aedac614ba5367dd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9fa627c3f09298274e2736ea6244f52794639e71742585b3aedac614ba5367dd.jpg)
 
 Source : Bourguignon and Morrisson (2002) for 1820-1992 and Morrisson and Murtin (2011) for 2000-2008.
 
@@ -115,4 +115,4 @@ Each of the three themes is also subject to empirical scrutiny: Are the assumpti
 
 # Key Terms
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2c0685d9bc29781a77be7ad3273dbf084516c554cfab8f71c866072ebfbb61c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2c0685d9bc29781a77be7ad3273dbf084516c554cfab8f71c866072ebfbb61c.jpg)

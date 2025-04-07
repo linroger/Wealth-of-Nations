@@ -42,7 +42,7 @@ Q  models involve  market consistency , where the prices of one set of securitie
 Of course, when a    $\mathbf{Q}$   suggests a trade, there is the implicit assumption the trade will be proﬁtable, so there is an implicit    $\mathbf{P}$   model involved as well. For vanilla options market making it is now common to link the  Q  model with a corresponding    $\mathbf{P}$   model. However, many desks, especially exotics desks, do not bother to construct the    $\mathbf{P}$   model.  
 
 When we construct    $\mathbf{Q}$   models and then ﬁt them, we end up with a set of model parameters that may or may not make sense according to our experience and intuition. If they look  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c51015f2d88e6e7304a70914183b4aed706115b2e33da57eddeb797f2f71b17a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c51015f2d88e6e7304a70914183b4aed706115b2e33da57eddeb797f2f71b17a.jpg)  
 Figure 1.  Ford Motor Company equity prices versus credit default swap spreads. Clearly there is a relationship, though it is highly nonlinear.  
 
 “strange” we may decide we have a trading opportunity based on the model’s perspective on market prices, even without having identiﬁed any one security whose price is clearly out of line.  
@@ -107,11 +107,11 @@ Fans of functional analysis or signal processing will recognize this as a convol
 We could consider many possible functions for such a weighting scheme. The simplest, conceptually, is a moving  boxcar  window where we discard any points older than, say    $s=30$  days. The trouble with boxcar weighting is that, by not smoothly decaying old data, it gives us surprises as we run the business. The reason is easy to see. Imagine we start with a relatively stable set of observations  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b018fb96509f1a88922f3618a7ab9cb9d768f094849046394671fa244db63108.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b018fb96509f1a88922f3618a7ab9cb9d768f094849046394671fa244db63108.jpg)  
 Figure 1.  A boxcar average doing a nice job  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0a58012cc91680f9cfc949d141c9d89f6efa9e9f691d8638a0b35cd213f55108.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0a58012cc91680f9cfc949d141c9d89f6efa9e9f691d8638a0b35cd213f55108.jpg)  
 Figure 2.  New information drops the average quite a bit, as expected  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9f712b8227ef23261c932cb6949ae8177dced0844762566a4a44976af138f21e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9f712b8227ef23261c932cb6949ae8177dced0844762566a4a44976af138f21e.jpg)  
 Figure 3.  After the boxcar window has passed, we get a  second  jump  
 
 It’s perfectly normal to have your systems react in a big way to a new outlier. After all, that outlier represents important new information arriving. What is  not  normal is to have a big reaction to the outlier falling out of your averaging window. The window size was your arbitrary choice, not a bit of important new data. Especially if the averaging period is more than a few weeks, people will forget about the outlier and then go into panic mode when model parameters take big jumps due to this behavior.  
@@ -131,20 +131,20 @@ $$
 with the coe”cient   $1-\eta$   chosen because   $\begin{array}{r}{1+\eta+\eta^{2}+\cdot\cdot\cdot=\frac{1}{1-\eta}}\end{array}$  . →  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/318f6a661120fc611453aa90f9026cdd5d2d686dcdcbd0a7939f325446a6362b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/318f6a661120fc611453aa90f9026cdd5d2d686dcdcbd0a7939f325446a6362b.jpg)  
 
 Figure 4.  Weights decaying with age. Here the exponential center of mass was set to 10.  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7af14db4d5efa60554efebdb6ad5743f7ee6833edbf48e667d88a2340cb99c20.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7af14db4d5efa60554efebdb6ad5743f7ee6833edbf48e667d88a2340cb99c20.jpg)  
 Figure 5.  Little di!erence in weighting schemes on timescale much larger than the window  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ed128944550f704b9a67951e7c1f1e778429d0bc9e2713a66f418a7b5e3b9d6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ed128944550f704b9a67951e7c1f1e778429d0bc9e2713a66f418a7b5e3b9d6.jpg)  
 Figure 6.  Signiﬁcant di!erence in weighting schemes on timescale close to the window  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba9d70d40902f969a9906ff9fadaa3d4940f0159c6564701c4b7b9f9b27686b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba9d70d40902f969a9906ff9fadaa3d4940f0159c6564701c4b7b9f9b27686b.jpg)  
 Figure 7.  All three schemes react to the outlier, but only boxcar su!ers a severe “bounce-back” e!ect  
 
 # 2.  Efficient Algorithms  
@@ -261,7 +261,7 @@ For a simple view of rates carry, consider lending by buying a 5 year zero-coupo
 3.3.  Crypto Wrapping.  Many crypto tokens have a governance structure in which token holders are given the ability to cryptographically  stake  or  wrap  their existing holdings in smart contracts conveying limited withdrawal rights. In exchange, they receive periodic payments 1 in the form of more tokens . Historically, the risks of crypto token positions are quite high. The additional friction of withdrawal delays multiplies the risks, so it is unsurprising to ﬁnd the corresponding yields at concomitant high levels.  
 
 3.4.  Short Options.  A less well-understood form of the carry trade comes from shorting options, especially with strikes considerably lower than forward prices. Since markets usually rise, these options (in put equivalents) usually expire worthless, allowing the seller to book the premiums as proﬁt. If course, the natural leverage of out-of-the-money options means that market downturns are incredibly painful.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fde3b0ef108f41bdd9e72f781a24d8c34f37d2d9f09bc0c67a0ccfd7d0fd1dd4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fde3b0ef108f41bdd9e72f781a24d8c34f37d2d9f09bc0c67a0ccfd7d0fd1dd4.jpg)  
 Figure 1.  Staked Ethereum yields from Convex as measured by DefLlama.  
 # TICK-LEVEL ANALYSIS  
 
@@ -284,7 +284,7 @@ Less established markets may use JSON-style formats as in this message from the 
 # 2.  Interesting Alternative Market Structures  
 
 The U.S. equity markets are a  fractured market , in the sense that the same equities are traded on multiple exchanges. They are now legally linked by  Reg NMS  (i.e.  national market structure ) which speciﬁes rules under which they must send orders to each other when prices are better-looking for the customer.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3dcaf1a196f48fcb6dd9ab9b85103fc2870df81dd0ea21d072c00f2c7b87a9dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3dcaf1a196f48fcb6dd9ab9b85103fc2870df81dd0ea21d072c00f2c7b87a9dd.jpg)  
 
 Foreign exchange  electronic crossing networks (ECN)  allow brokers  last look rights . Futures exchanges may use a combination of price-time priority and  proportional allocation  in which all orders at the top-of-book get a nonzero ﬁll probability.  
 
@@ -295,7 +295,7 @@ Certain futures markets are traded  pro rata , in which there is no time priorit
 Not all exchanges make the orders visible to participants. These  dark pools , common for US equities, match orders without displaying any kind of book to market participants, which in theory allow participants to place large orders, and make trades at lower market impact costs.  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25cfd1a9003f144b039c512341e2b2e36047f1d2f032a841f1c7b91a18b796cd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25cfd1a9003f144b039c512341e2b2e36047f1d2f032a841f1c7b91a18b796cd.jpg)  
 Figure 2.  Bitcoin market and trades over a two minute period. Bid/o!er spread is somewhat visible.  
 
 They frequently have minimum size rules for matching. In practice accumulation algorithms have tended to outperform dark pools for that purpose.  
@@ -319,7 +319,7 @@ $$
 The VWAP is a minimal representation of tradable position changes.  
 
 Somewhat less useful is a    $T W A P$   or  time-weighted average price , which performs the same sum over time periods rather than trades.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ef500761034b1103007f1eb929d0b3dcfa4317a713fd496a7ba0dd9c783b8b51.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ef500761034b1103007f1eb929d0b3dcfa4317a713fd496a7ba0dd9c783b8b51.jpg)  
 Figure 3.  Bitcoin market and trades over a 20 second period. Bid/o!er spread is obvious, but the market had no level changes.  
 
 More interesting is an  order-weighted average price , formed from the observation that if we have many more o!ers than bids, the  clearing price  at which participants collectively would be willing to trade were tick sizes smaller is closer to the bid than the mid price. This is not an exact science, but given a top of book with    $N_{B}$   bids at price    $B$   and    $N_{A}$   o!ers at price    $A$  one reasonable formula weights with square roots  
@@ -336,7 +336,7 @@ $$
 Clearly, other weighting schemes, possibly involving further levels of the book, can be incorporated into alternative versions of the OWA.  
 
 Arguably, the OWA is a predictive model, since we can use it to predict whether the next trade will occur on the bid side or the o!er side of the book. The economic intuition is that if an order book has a great deal of orders on the o!er, and very few on the bid, then (A) quite a few people are trying to sell and (B) it would not take many of them crossing the book to eliminate all the remaining bid orders, thereby dropping it one level. The trouble with OWA as a predictive model is that its predictions are strong precisely when many orders are already in the books on one side, ahead of any orders placed by a new participant.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0bdde7ee98390f954de2da91ef61c49868cc4f42ff4a46c2c09f4078a9b103e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0bdde7ee98390f954de2da91ef61c49868cc4f42ff4a46c2c09f4078a9b103e.jpg)  
 Figure 4.  Bitcoin market and trades over a 1 second period. We observe the market trading through the bid.  
 
 3.2.  Trade Marking.  A very common derived statistic is  marked  trades, where bids and o!ers are marked according to whether a buyer initiated the transaction, or the seller initiated it. This process is ﬂattered as the  Lee-Ready Algorithm  and essentially consists of the following for each trade  
@@ -393,7 +393,7 @@ r_{t}^{(T)}=\log\left(\frac{P_{t}}{\mathrm{EWMA}\left(P,\lambda=\frac{1}{T}\righ
 $$  
 #  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b2f5a80b8ed26974f33e97f0b488ec3e6eefe67f67022a23db49c3c154c87e6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b2f5a80b8ed26974f33e97f0b488ec3e6eefe67f67022a23db49c3c154c87e6.jpg)  
 Figure 5.  Price changes and returns are ambiguous in deﬁnition, and appear to vary wildly, at short time scales.  
 
 which can conveniently be computed without saving past ticks.  
@@ -408,7 +408,7 @@ To the extent we trust our sense of what parameters in a model are reasonable, �
 Burghardt (1990) pointed out an elegant visual means to measure current parameter values of a parameter (in his case, volatility) against past quantiles.  
 PBPB Vol Cones  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/084d2b59ddebca3aa8b60efebc1ed758ef95773acfba0d6ccb5061106c20e079.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/084d2b59ddebca3aa8b60efebc1ed758ef95773acfba0d6ccb5061106c20e079.jpg)  
 
 Figure 1.  Volatility cones show recent vols are fairly normal, except perhaps at the 60 day scale.  
 # Taxonomy Of Reversion  
@@ -419,7 +419,7 @@ Parameters that revert, but not reliably, include a few other ﬁnancial account
 # Beware Of Regime Shifts  
 
 The less well a model ﬁts the market, and the more parameters it has, the likelier it is to fall victim to apparent changes in regime that have no economic basis. This can lead to an optimization algorithm ﬁnding jumps in model parameters that ultimately lead to noise trading or worse.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/570b89e1e7241295700e4722ddbc5ab23ad295eb7c26146b6dd38b94b9afd382.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/570b89e1e7241295700e4722ddbc5ab23ad295eb7c26146b6dd38b94b9afd382.jpg)  
 
 Figure 2.  An objective function used for parameter choice may change as time passes and incoming information is updated.  
 # The Uses Of Decaying Weights  
@@ -537,7 +537,7 @@ Reasonable benchmarks for this purpose include
 •  Fama/French/Carhart •  Yield Curve Duration, Credit Risk  $\bullet$   Macroeconomic growth and inﬂation  $\bullet$   Market state (volatility, market volume and spreads)  
 
 Table 1.  CalPERS Performance, 21 Years 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9093087ee29f38fe915c8503d5c09366342d6a3bec6240db89b48573075cf25.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9093087ee29f38fe915c8503d5c09366342d6a3bec6240db89b48573075cf25.jpg)  
 Take for example the retirement savings fund for California public employees in Table  1 . This is a large, professionally managed fund with performance information distributed publicly. We ﬁnd very strong correlation to overall market performance.  
 
 2.6.1.  Short Positions, Benchmarks And Alpha.  One under appreciated property of buy-andhold benchmarks is that, while they are easy to create for a   $100\%$   long or   $100\%$   short strategy, it is puzzling to form benchmarks for strategies that are long some securities and short others. Even a 130/30 mutual fund is tricky to handle.  
@@ -644,7 +644,7 @@ Both the Kelly and Browne criteria are mainly useful for allocation of capital t
 3.10.  Position Age Rules.  Sometimes quantitative models just “like” certain positions, and we don’t really believe they should be held for extended periods. To this end, many strategies create aging rules in which positions are liquidated as they become too “stale”.  
 
 3.11.  Short Position Assumptions.  Terminology for short positions includes  shorting  a security, which means opening a short position  $\mathbf{\chi}^{1}$  , and  covering a short , which means closing the position by buying securities in the market and sending them to the lender. Shorting securities is quite di!erent from the common perception. Except in futures and options, is not easy to do, it costs extra money, and it involves (invisibly) selling an option. Unless bypassed by a swap agreement, creating a short position involves ﬁnding a  locate (usually through the prime broker but sometime in a  self-locate ), agreeing on  repo rate  which may be  special , abiding by regulations and contracted limits, and running the risk of forced buy-in . For equities, most shorting is done at  general collateral  or GC rates, but some cases, the “special” ones, provide less repo or even cost money, in e!ect having a special rate less than zero. For most other securities, the repo rate is nearly always special. One big problem is that historical information on repo rates and short availability is generally hard to obtain, expensive and of poor quality, unless you are at a large institution with good record-keeping.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/017e760fa1e63e077c0ddea412dcdb5453aab8970c9d09c164e9f944bf06a8ee.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/017e760fa1e63e077c0ddea412dcdb5453aab8970c9d09c164e9f944bf06a8ee.jpg)  
 4.  Back testing Considerations By Asset Class  
 
 # 4.1.  Equities.  
@@ -658,7 +658,7 @@ Both the Kelly and Browne criteria are mainly useful for allocation of capital t
 4.1.3.  Dividends and splits.  Equity analyses are often performed with  split and dividend adjusted  data. It is important to keep in mind that this in itself is e!ectively a back testing assumption of instant costless reinvestment. For a long-horizon strategy that is reasonable but at anything ﬁner than monthly frequency it begins to break down.  
 
 We sometimes see  special dividends  in equities, which saddle a portfolio with unusually large cashﬂows while also modifying e!ective position sizes. These can cause problems for casual data aggregator s, such as Yahoo, as seen in Figure  1  . In this case, XLF spun o!    $\P4.44356$  per share, in a combination of cash and XLRE positions. Note the data sources agree on raw and adjusted data  after  the dividend, but that Yahoo is incorrect before it.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b089b64a30cf92ef2e01b8b2ce8f362f74353c54eaf68b1c97394a676e8be804.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b089b64a30cf92ef2e01b8b2ce8f362f74353c54eaf68b1c97394a676e8be804.jpg)  
 Figure 1.  XLF dividend adjustment problems for Yahoo: a special dividend and its e!ect on reported prices on Sep 16, 2016 (as of May 2019) are reﬂected.  
 
 Naively, one might think it reasonable to use the Yahoo “Raw” series. However, then standard dividends would remain unadjusted for the remainder of the price series. In addition, returns inferred from the Yahoo “Raw” price, though computed from a time series without discontinuity, would be slightly di!erent.  
@@ -676,7 +676,7 @@ Historical trade data for non-144A US bonds have TRACE data, though it does not 
 
 Though credit instruments ultimately trade on probability of default,    $h$  , there is no historical data for    $h$  .  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40bd77fbc890eb51945aa3ba7bfc59a45fd9cceaa23d70a67acb862f03e085f9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40bd77fbc890eb51945aa3ba7bfc59a45fd9cceaa23d70a67acb862f03e085f9.jpg)  
 4.2.4.  Tradable instruments.  There are extremely many tradable bonds in the universe because most issuers have several bonds outstanding at any given time. This is in contrast to equity, where it is extremely rare for a corporation to have more than one type of publicly traded equity.  
 
 4.2.5.  Optional it y adjustments.  Corporate bonds often come with optional it y clauses, most commonly embedded calls, but also puts, green shoes, conditionals and more.  
@@ -728,7 +728,7 @@ For similar reasons, if we see    $s_{t}=12.0$   then we ought to buy some 2 yea
 Now, if    $s_{t}\,=\,14.0$  , it is easy to argue that the opportunity is greater and we should be shorting even more of the spread. But remember, it probably only got to 14.0 by going through 12.0 at some point. We are likely  already  short the spread and, since it has risen further, have lost money on the position. Are we prepared to lose more?  
 In spread trading, it is common to have some point at which you admit that your hypothesis (of spread reverting to its mean) has been so contradicted by market data that you are no longer willing to believe it, at least not with your dollars. Such a point is often deﬁned in terms of PL – dollars lost to the position, and is called a  stop loss level . Once you have reached it, you resolve to close out all positions, and perhaps wait a while before attempting a similar spread trade again.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c27641d88d833ba3026cad8c42064e1c67e36c51be82e409e6081013275ab4c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c27641d88d833ba3026cad8c42064e1c67e36c51be82e409e6081013275ab4c.jpg)  
 Figure 1.  Trading A Hypothetical Spread  
 
 The  human  complexity of spread trading is very low. It can be done in 50-150 lines of R or Python, and is feasible even in Excel. However, when we consider how might approach it in practice, we ﬁnd there are many parameters to determine and they are likely to make us run simulations over and over. These parameters include  

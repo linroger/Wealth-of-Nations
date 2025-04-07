@@ -2,12 +2,10 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_303_Leverage Ratio What It Is
   - What It Tells You
   - How to Calculate.md
-  - Alias_306_Leverage Ratio What It Is
 tags:
-  - tag_example
+
   - finance
   - risk-management
   - debt-management

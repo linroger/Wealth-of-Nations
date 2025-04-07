@@ -2,13 +2,13 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_41_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
-  - Example_Alias_Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
+  - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
+  - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
   - Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#quantitative-finance"
   - "#finance"
   - "#risk-management"
@@ -66,7 +66,7 @@ In addition,  lower rated issuers have experienced periods in which [[Class Note
 
 Exhb U.S.[[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Outstandings Millions of Dollars
 
-![](https://storage.simpletex.cn/view/ff2H9XosKlG7GFaxYcuB0S2XNFAQIhdtN)
+ ![500](https://storage.simpletex.cn/view/ff2H9XosKlG7GFaxYcuB0S2XNFAQIhdtN)
 
 Exhibit 1 shows the dramatic increase in the use of CP. The rise can be attributed to brisk growth in the use of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] as a financing tool (CP is being used for more permanent purposes in the capital structure than it has been ever before),  to dramatic growth in structured finance issuance and to growth in the financial markets in general. Yet this rise comes at a time when established backstop providers are either exiting the business,  consolidat ing,  or tightening their capital allocation standards.
 

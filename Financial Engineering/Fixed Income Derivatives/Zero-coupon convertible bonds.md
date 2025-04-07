@@ -1,4 +1,4 @@
-# Zero-coupon convertible bonds
+# [[1. DeterministicCashFlows#2 Fixed Income Securities|Zero-coupon]] [[7. Black Scholes Model|convertible bonds]]
 Zero-coupon convertible bonds or “optional convertible notes” (OCNs) are wellestablished in the market. When they are issued at a discount to par, they exhibit an  implicit yield and trade essentially as coupon convertibles. Similarly, if they are  issued at par but redeemed at a stated price above par, an implicit coupon is paid and  so again these bonds trade in similar fashion to coupon convertibles. A zero-coupon  bond issued at par and redeemed at par is a slightly different instrument for investors  to consider. With these products, the buyer is making more of an equity play than he  is with conventional OCNs, but with an element of capital protection retained.
 
 A buyer of a par-priced zero-coupon OCN will have a view that the underlying equity  has high upside potential. However the stock will have high volatility, so the OCN  route is still lower risk than the pure equity route; the investor pays an opportunity  cost in terms of interest foregone in order to retain the greater safety compared to pure  equity. The softcall option is often built-in so that the issuer can force conversion if  the equity has performed as expected, which caps the investor’s upside.
@@ -10,7 +10,7 @@ These products are for sophisticated investors only. Buyers often are taking a v
   short the underlying equity.
 
 In such a trade the investor benefits if volatility increases. For Issuers, the advantage  of zero-coupon par priced OCNs is even greater than that afforded by conventional  OCNs: they receive no-cost funding compared to a normal bond or loan. In return  they are selling (for them) a cheap route to their equity should the share price  perform.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b2c13e0966685155f86d53734ab46fd0f32301a1a19ebdc44e8157a45fc85c1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b2c13e0966685155f86d53734ab46fd0f32301a1a19ebdc44e8157a45fc85c1.jpg)
 
 # Example of zero-coupon par-priced OCN
 
@@ -24,7 +24,7 @@ The Note enables investors to gain from upside performance of the selected equit
 
 Figure 2 below illustrates the concept behind the Note.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/03fd450f4e779f4a228aabf96984d00c555316a00b28a23926b255827a23efdb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/03fd450f4e779f4a228aabf96984d00c555316a00b28a23926b255827a23efdb.jpg)
 Figure 2
 
 Investors are in effect holding a long position in an option and hence will be exposed  to volatility. However the bond floor protects the Investor from downside risk,  irrespective of volatility.
@@ -57,7 +57,7 @@ For convertible bonds, delta is defined in terms of the sensitivity of the bond�
 
 In our example the delta is given as 0.5. So if the Note theoretical price moved from  100 to 100.5 while its parity changed from 95 to 96, the delta would be 0.5.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1ef4587fdd3a7414579485c646e97f0646d9f077e5b51a261fe1818ebf29efe.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1ef4587fdd3a7414579485c646e97f0646d9f077e5b51a261fe1818ebf29efe.jpg)
  Figure 3
 
 # Examples of zero-coupon OCNs

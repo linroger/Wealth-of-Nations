@@ -1,1 +1,0 @@
-# Hw Ltcm Questions

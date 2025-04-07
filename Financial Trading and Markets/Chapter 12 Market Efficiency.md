@@ -87,11 +87,11 @@ For example, daily stock prices are compared to a moving average of a specified 
 
 Moving averages can be computed for any number of price data points. For example, consider the following sequence of daily closing prices for a given stock over a period of time:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1a3c4840fba207affd4f4d6d344b16dd7548dc486e0425fc4b5f2ba229ecd8a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1a3c4840fba207affd4f4d6d344b16dd7548dc486e0425fc4b5f2ba229ecd8a.jpg)  
 
 The following represents the sequence of simple three-day moving averages for the above price sequences:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ba9e6cafc8f5a659e6f5bc4bc770f4e269983a91522c8e207443922f7dc907a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ba9e6cafc8f5a659e6f5bc4bc770f4e269983a91522c8e207443922f7dc907a.jpg)  
 A study by  Brock, Lakonishok, and LeBaron (1992)  demonstrated evidence suggesting that certain moving average rules and other rules based on resistance levels produced higher than normal returns when applied to daily data for the Dow Jones Industrial Average from 1897 to 1986. However,  Sullivan, Timmerman, and White (1997)  tested their findings on updated data and found “that the best technical trading rule does not provide superior performance when used to trade in the subsequent 10-year post-sample period.”  
 
 # The January Effect  
@@ -137,7 +137,7 @@ The chartist will discern patterns depicted by the candlesticks. Such patterns m
 
 Two well-known charting patterns are the Head and Shoulders and the inverse (upside down) Head and Shoulders (see  Figure 12.1 ) formations. Volume increases when the price reaches the top (bottom) of the head in the (inverted) Head and Shoulders formation strengthen the sell (buy) signal. The completion of the right shoulder when the neckline is broken is a sell (buy) signal in the (inverse) Head and Shoulders formation (as in Figure 12.1 ).  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac086d55d7325391f34ec1fd0a211b12b4a26d5eaf726689ac977e33a2c575c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac086d55d7325391f34ec1fd0a211b12b4a26d5eaf726689ac977e33a2c575c.jpg)  
 FIGURE 12.1 Candlestick chart, AAPL (Apple, Inc.), December 14, 2016. Inverse head and shoulders formation.  
 One of the better-known charting tools is based on the  Dow Theory , first suggested by Charles Dow in the late 1800s, which examines trends in the market and classifies them into three basic types:  
 
@@ -170,7 +170,7 @@ Clearly, technical analysis has its share of critics. For example, Warren Buffet
 
 In this section, we provide an illustration of a momentum/mean reversion test. Essentially, this means that we will test whether the return for a stock on a given day can be used to predict the return on that stock for the subsequent day. (See the discussion on price sequences and relative strength in the previous section.) If returns seem to be positively correlated from one day to the next, this would evidence momentum in stock prices over time. A negative correlation would evidence mean reversion. Consider the sequence of daily closing prices in  Table 12.1  for a hypothetical stock   $\mathrm{Q},$   from which we compute  
 TABLE 12.1 Stock Price and Return Data 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ad6c6b1f3442dd216211b94f03484df7447c496606a6cefd2c86dd0fe454ce2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ad6c6b1f3442dd216211b94f03484df7447c496606a6cefd2c86dd0fe454ce2.jpg)  
 
 returns. The prices given in this table assume that the stock traded each day, including weekends. We will attempt our test illustration based on an extremely small sample to simplify our computations.  
 
@@ -205,7 +205,7 @@ $$
 
 To obtain regression diagnostics, we compute squared error-term values as in  Table 12.2 .  
 TABLE 12.2 Stock Price Data 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/106d243c6eb10e7da63573f4514fc0eeaf1643f9f98354fe28a7fe71eec5cae0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/106d243c6eb10e7da63573f4514fc0eeaf1643f9f98354fe28a7fe71eec5cae0.jpg)  
 
 We are able to compute regression standard errors from calculations in  Table 12.2 :  
 
@@ -336,13 +336,13 @@ Next, based on actual returns computed in  Table 12.5  and normal returns from t
 
 One of our objectives is to determine whether any daily residual is statistically significantly different from zero. Following standard hypotheses testing techniques reviewed in  
 TABLE 12.3 Takeover Targets 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a28d801ab6b29d8c7c9aa8d9eacba162b7060149109298c9a84a2b4237655d9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a28d801ab6b29d8c7c9aa8d9eacba162b7060149109298c9a84a2b4237655d9.jpg)  
 Note:  The successful takeover of Fleet Boston by Bank of America was consummated in 2004. Comcast’s bid for Disney failed. AT&T Wireless, the target of competing offers from Vodafone and Cingular, was acquired by Cingular in 2004.  
 
 TABLE 12.4 Target Company Stock Prices 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/31817c0a5703f30eccaff68624f48b7141143c270c3b31dc1819f4226210d5f9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/31817c0a5703f30eccaff68624f48b7141143c270c3b31dc1819f4226210d5f9.jpg)  
 TABLE 12.5 Target Company Stock Returns 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56890af405d473067c6835df0e50d67fcbc4bdcdf1887a0e214930df304ed312.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56890af405d473067c6835df0e50d67fcbc4bdcdf1887a0e214930df304ed312.jpg)  
 Note:  Table calculations will reflect rounding errors.  
 
 the text Appendix A.1.a, standard deviations for each of the average daily residuals are computed along with normal deviates or test statistics   $([\varepsilon_{t}-\,0]\,\div\,\sigma_{\varepsilon i})$   as in  Table 12.8 .  
@@ -354,15 +354,15 @@ $$
 $$  
 
 We shall assume the residuals follow a t-distribution and we will perform a one-tailed test with a   $95\%$   level of significance. Given a sample size of three firms such that we work with   $1=3\mathrm{~-~}2$   degrees of freedom, the critical value for each test will be 6.314. Based on our computations above, we find that none of the residual    $t.$  -statistics (normal deviates or  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2055a0ed8658e58a0e2825ea1d303e7f978b8acde66541c43f4d12d394106e42.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2055a0ed8658e58a0e2825ea1d303e7f978b8acde66541c43f4d12d394106e42.jpg)  
 TABLE 12.7 Target Firm Stock Residuals 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e694576a19a098f42c92a2094a3bd053505288a533d6ce52d3fb55d2357698ed.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e694576a19a098f42c92a2094a3bd053505288a533d6ce52d3fb55d2357698ed.jpg)  
 
 test statistics) exceed 6.314. Thus, we may not conclude with a   $95\%$   level of confidence that any residual differs from zero. Based on the confines of the test that we established here, we may not conclude that markets appear inefficient with respect to merger announcements. Perhaps, in part due to our small sample with such a small number of degrees of freedom, we cannot conclude that merger announcements have any effect on security returns. Note that this example was structured so as to facilitate computations; it is unlikely that a realistic test would be structured with a sample set of only three firms.  
 
 The tests performed above were concerned with whether merger announcements significantly affected stock prices in any given date around the time of the announcement. We found no significant effect for any single-day returns. In some other instances, we might  
 TABLE 12.8 Target Firm Average Residuals and Standard Deviations 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d9ba98dff4e6a221aa89140934b2eacc0b4a9b3777613131c1be703e78516e94.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d9ba98dff4e6a221aa89140934b2eacc0b4a9b3777613131c1be703e78516e94.jpg)  
 
 find that while no effect is found on the residual for any particular date, the effect might be realized over a period of days. This might be expected if market reactions are slow, that is, if the market is somewhat inefficient. Perhaps, we may even wish to broaden our test to determine whether some of the effect might be realized over a period of time before the date of the announcement. We can compute cumulative average residuals to determine cumulative effects over time:  
 
@@ -372,7 +372,7 @@ $$
 
 Cumulative average residuals are computed in  Table 12.9  from average residuals taken from  Table 12.8 . Cumulative average residuals can also be computed by summing individual firm residuals and dividing by the number of firms in the sample as in  Table 12.10 .  
 TABLE 12.9 Target Firm Cumulative Average Residuals 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bed96a0b8484ce12ff697dd5df09223ab6915c8bd9e515a958caacf32ed2700a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bed96a0b8484ce12ff697dd5df09223ab6915c8bd9e515a958caacf32ed2700a.jpg)  
 
 Do any of the CARs in  Table 12.9  or  Table 12.10  exceed zero? A quick glance reveals that all do. Do any CARs exceed zero at a statistically significant level? We need a little more analysis to examine this second question. We begin to test for the statistical significance of cumulative average residuals by computing standard deviations of the cumulative residuals of the firms for each day and computing normal deviates. For example, the sample standard deviation of cumulative residuals for day    $^{-5}$   is computed based on the following:  
 
@@ -380,7 +380,7 @@ $$
 \sigma={\sqrt{\frac{(0.010039-0.00024)^{2}+(-0.0178-0.00024)^{2}+(0.008485-0.00024)^{2}}{3-1}}}=0.0747
 $$  
 TABLE 12.10 Target Firm Cumulative Average Residuals 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d2c21269fcf92c94d24e4f4ca2fd58339f434ed1964a46fbe1d52d68f71bd26.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d2c21269fcf92c94d24e4f4ca2fd58339f434ed1964a46fbe1d52d68f71bd26.jpg)  
 
 These one-day standard deviations measure the spread or variability of residuals for that day. In  Table 12.9 , the normal deviate for a given date is simply the cumulative average residual for that date divided by the standard deviation applicable to that date. Daily standard deviations of cumulative residuals along with their normal deviates are given in  Table 12.10 . Larger normal deviates are consistent with larger positive and statistically significant stock price reactions.  
 
@@ -485,7 +485,7 @@ Compute three-day moving averages for days 3, 4, and 5. If one assumes that the 
 
 3.  Compute five-day moving averages for each date of the following series, assuming that 5 is the price for day 1 and 18 is the price for day 12:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ce44fc583f6128c2019388765342d4f7ea6411261908899d2bc7e092c24e052.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ce44fc583f6128c2019388765342d4f7ea6411261908899d2bc7e092c24e052.jpg)  
 
 4.  Toy stores have very clear seasonal patterns in their revenue flows. Should toy store company share prices exhibit similar seasonality?  
 
@@ -502,10 +502,10 @@ Company X: Merger announcement date January 15, 2012 Company Y: Merger announcem
 
 Suppose we establish an 11-day testing period for returns around the event dates, the event date plus five days before and five days after. The following table provides our three acquiring firm stock prices during 12-day periods around merger announcement dates:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5df503233581c4cbbfc403b785197416da3d5196e42a5a48ab8ed5af37182831.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5df503233581c4cbbfc403b785197416da3d5196e42a5a48ab8ed5af37182831.jpg)  
 
 a.  Compute one-day returns for each of 11 days for each of the three stocks. b.  Suppose that we have decided to use the mean adjusted return method to compute excess or abnormal stock returns. Here, we will compute mean daily returns for each security for a period outside of our 11-day testing period. Suppose we compute average daily returns and standard deviations for each of the stocks for 180-day periods prior to the testing periods (the raw returns data are not given here). Suppose that we have found normal or expected daily returns along with standard deviations as follows:  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b2508f1e8298a732f6e69deb12b06344c56f35e8880c1673613c479e6a6559b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b2508f1e8298a732f6e69deb12b06344c56f35e8880c1673613c479e6a6559b.jpg)  
 
 Compute excess returns for each stock for each of the 11 days.  
 
@@ -513,7 +513,7 @@ c.  For each of the 11 days in the analysis, compute average residuals for the t
 
 8.  The following table reflects abnormal returns for each of 10 stocks over a seven-day period about day zero, which is the standardized date of the sudden death of the CEO for each of the 10 firms. An analyst wants to determine whether the death announcement date represents a significant event and make appropriate portfolio adjustments when CEOs suddenly die in the future.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a327bc9f98ab7eeed427d0df5230ef859a8ac45da60a27cba35a0e8ead422103.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a327bc9f98ab7eeed427d0df5230ef859a8ac45da60a27cba35a0e8ead422103.jpg)  
 
 a.  What are the average residuals, their standard deviations, and normal deviates for  
 

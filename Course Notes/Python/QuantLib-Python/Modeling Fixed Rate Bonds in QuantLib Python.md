@@ -90,12 +90,12 @@ Download the [modeling bonds ipython notebook](https://gouthamanbalaraman.com/ex
 
 ---
 
-![](https://gouthamanbalaraman.com/images/me.png)
+ ![500](https://gouthamanbalaraman.com/images/me.png)
 I am Goutham Balaraman,  and I explore topics in quantitative finance,  programming,  and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).
 
 ---
 
 **Checkout my book**
 
-[![](https://gouthamanbalaraman.com/images/cookbook.png)](https://leanpub.com/quantlibpythoncookbook)
+[ ![500](https://gouthamanbalaraman.com/images/cookbook.png)](https://leanpub.com/quantlibpythoncookbook)
 Updated posts from this blog and transcripts of Luigi's screencasts on YouTube is compiled into [QuantLib Python Cookbook](https://leanpub.com/quantlibpythoncookbook) .

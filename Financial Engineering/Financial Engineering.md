@@ -15,6 +15,7 @@ title: Financial Engineering
 	- [[9. Introduction to Real Options]]
 	- [[10. Other Topics in Quantitative Finance]]
 	- **[[Appendices]]**
+	- [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma]]
 	- [[Financial Engineering]]
 	- **[[Fixed Income Derivatives]]**
 		- [[A Primer on Probability Theory and Stochastic  Modelling]]

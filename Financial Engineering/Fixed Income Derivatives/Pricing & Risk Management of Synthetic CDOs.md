@@ -3,7 +3,7 @@
 # Abstract
 
 The purpose of this paper is to analyze the risks of synthetic CDO structures and their  sensitivity to model parameters.  In order to measure these sensitivities, I also introduce  the latest techniques in the pricing and risk management of synthetic CDOs.  I show how  to model the conditional and unconditional default distributions of a typical synthetic deal  using a simple mathematical framework.  Strictly speaking, the findings of this paper are  only directly applicable to synthetic structures, however; many of the modeling and riskmanagement insights discussed apply to structures involving a waterfall.
-# Introduction
+# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]
 
 The purpose of this paper is to introduce the latest techniques in the pricing and risk  management of synthetic CDOs and measure the risks and model sensitivities of a typical  synthetic deal.  Although these techniques are only directly applicable to synthetic  structures, many of the modeling and risk-management insights discussed in the paper  apply to structures involving a waterfall.
 
@@ -29,7 +29,7 @@ $$
 $$
  (j)
 
-Conditional on the realization s of the common factor, defaults are only driven by the  noise factors   $\upvarepsilon(\mathrm{i})$   and are thus independent.  A credit, i, is assumed to default if its asset  return,  $Z(\mathrm{i})$  , falls below a pre-specified level or default threshold given by the  $\Phi^{\,\cdot1}(\mathrm{\pmb{~p~}(i)})$    where   $\Phi^{\ -1}$    denotes the inverse of the cumulative standard normal distribution.  If we  denote the default threshold of credit i by D(i), then a credit i defaults when:
+Conditional on the realization s of the common factor, defaults are only driven by the  noise factors   $\upvarepsilon(\mathrm{i})$   and are thus independent.  A credit, i, is assumed to default if its asset  return,  $Z(\mathrm{i})$  , falls below a pre-specified level or default threshold given by the  $\Phi^{\,\cdot1}(\mathrm{\textdollar{~p~}(i)})$    where   $\Phi^{\ -1}$    denotes the inverse of the cumulative standard normal distribution.  If we  denote the default threshold of credit i by D(i), then a credit i defaults when:
 
 $$
 \mathrm{{Z(i)<D(i),where~D(i)=\Phi^{-1}(\ p~(i))~}}
@@ -78,25 +78,25 @@ Once again, the pricing equations show that all one needs to compute the price o
 To illustrate the results of the modeling approach described above, let us work with the  following transaction:   $\S1$   billion reference portfolio for a 5-year hypothetical CDO  consisting of 100 reference credits.  All credits have the same spread of 100 basis points  and an average recovery rate of   $40\%$  .  The flat asset correlation is assumed to be   $25\%$  ,  and the risk-free discount rate is a constant   $5\%$  .  In addition, all credits have the same  notional amount:   $\S10$   million.  Table 1 shows the tranches of this hypothetical CDO  along with their fair spreads as calculated using the one-factor pricing model.
 
 Table 1  Pricing of a hypothetical CDO
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81f2e0759d329280c2b9bd1bee82ebc051defe2b00174b38e309ed346beb07da.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81f2e0759d329280c2b9bd1bee82ebc051defe2b00174b38e309ed346beb07da.jpg)
 
 As Table 1 shows, the equity and more junior tranches bear the majority of the portfolio  credit risk, although they represent a small portion of the capital structure of the CDO.  In  addition, we can use the expected losses to infer the implied rating of each tranche.  The  implied ratings show how the credit risk of a Ba2-rated reference portfolio can be  distributed as to create buckets of lower and higher quality tranches suitable for various  investors.  Figure 1 shows the unconditional default probability distribution of the  reference credits.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba4cbc9b4b34d078a925c90ea3aaef033132aff8ad14accc293b4f333efcad5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba4cbc9b4b34d078a925c90ea3aaef033132aff8ad14accc293b4f333efcad5.jpg)
 Figure 1  Unconditional default probability distributions of a hypothetical CDO
 
 Similar graphs can also be produced for each tranche.  To illustrate this analysis further, I  take the  $\mathit{\bar{3}7^{\mathrm{th}}}$  ,  $50^{\mathrm{th}}$  , and  $63^{\mathrm{rd}}$   percentiles of the common factor realization s and calculate the  portfolio expected losses at these points.  The   $37^{\mathrm{th}}$   percentile corresponds to a value of - 1.3 for the common factor and represents a market downturn, the   $\bar{5}0^{\mathrm{th}}$   corresponds to a  value of 0 for the common factor and represents a stable market, and the   $63^{\mathrm{rd}}$   percentile  corresponds to a value of 1.3 for the common factor and represents an expanding market.   Table 2 shows the results of this scenario analysis.  For the sake of completion, figure 3  and table 3 show the conditional expected losses for the equity tranche, class A tranche,  and the senior tranche.
 
 Figure 3 clearly shows that the most senior tranche is not totally immune to losses, while  the equity tranche bears a substantial risk of default losses even under relatively positive  market conditions.  In interpreting these results, the reader should bear in mind that we  are starting with a Ba2-rated reference portfolio.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2619dceded7d5e1d2d76ced40849368921705ea9ff33d8950a9587914bceb0d8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2619dceded7d5e1d2d76ced40849368921705ea9ff33d8950a9587914bceb0d8.jpg)
 Figure 2  Conditional distribution of expected losses for the reference credits over 5 years
 
 Table 2  Scenario analysis of conditional expected losses over 5 years
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f3df1af79b620325724252774f74b0a937bd27061ad469dd49b349314aa97ee.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f3df1af79b620325724252774f74b0a937bd27061ad469dd49b349314aa97ee.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a472e2701767f4ff54ad9ba83508faf97a60718d9621d1be63237a47555ca21a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a472e2701767f4ff54ad9ba83508faf97a60718d9621d1be63237a47555ca21a.jpg)
 Figure 3  Conditional expected losses for selected tranches over 5 years
 Table 3  Scenario analysis of conditional expected losses for selected tranches over 5 years
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e28dc8fe39b403e462e3c758aa7856781964947db9d38941d05c539920abb609.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e28dc8fe39b403e462e3c758aa7856781964947db9d38941d05c539920abb609.jpg)
 
 As discussed in Gibson (2004), table 3 illustrates how the mezzanine tranches can be  thought of as leveraged bets on business cycle risk. Investors in mezzanine tranches  receive spreads ranging from 923 to 86 bps according to table 1; however, they have to  absorb the majority of credit risk in difficult and recession ary market conditions.
 
@@ -117,23 +117,23 @@ The correlation sensitivity analysis illustrates two important features of CDO i
 
 •   Investors with different correlation assumptions will attach different values to the  same tranche.  This creates both model risk and an opportunity for correlation  and/or model arbitrage.  Correlation is a very difficult parameter to measure and  estimates of correlation are susceptible to estimation errors, personal judgments,  and correlation breakdowns among many others.  •   Mezzanine tranches are the least sensitive to changes in the correlation  parameter.  Therefore, these tranches are also the least sensitive to modeling  errors.  For example, Class C investors will notice very little change to the value  of their tranche even if correlation doubles.  Investors who wish to minimize  parameter risk will therefore prefer the middle tranches of a CDO transaction.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27647292baccce995449adb69dbd4c24e9c4434e3cc666023c8ed60a29734c1b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27647292baccce995449adb69dbd4c24e9c4434e3cc666023c8ed60a29734c1b.jpg)
 Figure 4  Correlation sensitivity of CDO tranches: base spread is calculated at  $25\%$   correlation
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be6f301afbd45d7e4dc6e108dd8eb74eafe1686bf6ff24f193ede9af98537e21.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be6f301afbd45d7e4dc6e108dd8eb74eafe1686bf6ff24f193ede9af98537e21.jpg)
 Figure 5  Correlation sensitivity of CDO tranches: base spread is calculated at  $25\%$   correlation
 
 # B.   Sensitivity to Broad Spread Changes
 
 To see the effect of broad economic changes in credit spreads on CDO tranches, I  calculate the tranche fair spreads after increasing the credit spreads by 10 bps for all  credits.  I also calculate the decrease in each tranche’s mark-to-market value and report  the results in dollar terms and as a percentage of tranche notional.  Table 4 reports these  results.  The spread on the equity tranche is the least sensitive to a broad increase in credit  spreads.  However, the change in the mark-to-market as a percentage of tranche notional  is greatest for the equity tranche.  In contrast, the spread on the most senior tranche has  the greatest sensitivity to broad changes in market spreads, though its MtM is least  impacted.  These results are expected since the increase in credit spreads will increase the  likelihood for a higher number of credit defaults to which the senior tranches are more  sensitive.  That is, in a market environment where credit quality is deteriorating, the  probability that we will see multiple credit defaults will increase, which will lower the  credit subordination available to the senior tranches, and increase the probability of credit  losses reaching the senior tranches.  It should be noted here that the effect of a broad  increase in default probabilities across credits is indistinguishable from the effect of an  increase in the default correlation among credits.
 Table 4  Tranche sensitivity to a 10-bps increase in spreads of all credits.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/49acb07f51e1e89a2de77545901356bd2b8800a17367a1432cda838cf6ee9723.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/49acb07f51e1e89a2de77545901356bd2b8800a17367a1432cda838cf6ee9723.jpg)
 
 # C.   The Subordination Effect
 
 The expected loss of a tranche is driven not only by the credit spreads of the reference  assets but also by the credit enhancement available to the tranche.  To illustrate the effect  of subordination, or location of a tranche within the capital structure, I run the following  analysis: the original reference portfolio is divided into two equal groups.  In the first  group, the reference credits retain their initial spreads of 100 bps, while the second  group’s credit spreads are varied to 120, 130, 140, 150, and 160 bps.  Starting with the  base case of a 100 bps for all credits, I calculate the expected loss on Class D, the   $3–6\%$    tranche.  Then I change the reference portfolio so that half the credits have a spread of  120 bps, and I back out the subordination necessary to bring about a similar expected loss  for Class D.  I repeat the same analysis with 130, 140, 150, 160, and 180 bps to obtain the  levels of subordination that will maintain the expected loss of Class D at the same base  level in each case.
 
 The graph in figure 6 shows how the subordination varies with the average spread on the  reference portfolio.  As we progressively decrease the quality of the reference portfolio,  we need higher levels of subordination to maintain the expected loss of Class D at a level  similar to its base level of   $34.27\%$  .  This analysis illustrates another subtly in CDO  structuring: practically any desirable rating can be attained for a tranche provided the  right amount of credit enhancement can be provided to that tranche.  The lower the credit  quality of the reference portfolio, the more subordination the tranche will require to  achieve the same rating.  Figure 6 also shows the effect of higher subordination on  tranche leverage.  Leverage is defined as the expected loss of the tranche divided by the  expected loss of the reference portfolio.  As figure 6 shows, higher subordination leads to  lower leverage.  In other words, the lower the credit quality of the reference portfolio, the  lower the leverage a tranche will require to achieve a particular rating.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/574529ff82c1d6205a8e5a188906bc889227144666af49547b7e40f8d7e454a4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/574529ff82c1d6205a8e5a188906bc889227144666af49547b7e40f8d7e454a4.jpg)
 Figure 6  Subordination effect on expected losses and leverage
 
 # D.   Measuring Standard Deviation and Unexpected Losses
@@ -147,7 +147,7 @@ $$
 Where x is the tranche loss given the number of defaults in the reference portfolio and the  summation is taken over 0 defaults to   $\mathbf{k}=100$   defaults.  Using equation 11, I calculate the  standard deviation of losses for each tranche.  The results are shown in table 5.  We can  then use the standard deviation to define measures for unexpected losses and required  economic capital to hedge against extreme losses.  Here I define the unexpected losses of  a tranche to be the loss level at one standard deviation above the expected loss of the  tranche
 
 Table5  Measures of tranche risk and unexpected losses
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16170cdd681c884ab51a57ec8c61619bfe3762be0b49e554eacac641f70e5895.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16170cdd681c884ab51a57ec8c61619bfe3762be0b49e554eacac641f70e5895.jpg)
 # Monte Carlo Simulation of Losses
 
 The Monte Carlo approach, described in Li (2000), generates the loss distribution by  simulating the default times of the reference credits using the Gaussian copula.  This  approach is flexible in that it allows for stochastic modeling of the recovery and default  parameters.  The Monte Carlo approach can easily incorporate more than one economic  factor, it allows for sampling losses from fat-tailed distributions, and it is capable of  capturing a more complex correlation structure.  However, the Monte Carlo approach is  time-consuming as it requires a large number of simulations in order to reduce estimation  error and capture extreme losses that will only affect the most senior tranches.  The  recursive approach, on the other hand, is simpler and faster, but lacks the flexibility of the  Monte Carlo approach.
@@ -155,7 +155,7 @@ The Monte Carlo approach, described in Li (2000), generates the loss distributio
 Using the same modeling assumptions, the Monte Carlo approach should produce similar  results to those obtained from the recursion method.  That is, if we set the recovery rates,  credit spreads, and correlation parameter in the Monte Carlo model to those used for the  recursion method, the results of both approaches aught to be similar.  Table 6 shows the  Monte Carlo results using one million simulations.  As evident from table 6, the recursion  approach provides a robust and accurate estimation of expected losses and standard  deviations.
 
 Table 6:  Expected losses and standard deviations with one million Monte Carlo simulations
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c9b079eae1a614f797f758879c7859a8e291536b42220c5ac5b48bd3e201036.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c9b079eae1a614f797f758879c7859a8e291536b42220c5ac5b48bd3e201036.jpg)
 
 # Conclusion
 

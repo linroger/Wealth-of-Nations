@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_282_Financial Accounting- Class Notes.md
-  - Alias_285_Financial Accounting- Class Notes.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#finance"
   - "#accounting"
   - "#financial-analysis"

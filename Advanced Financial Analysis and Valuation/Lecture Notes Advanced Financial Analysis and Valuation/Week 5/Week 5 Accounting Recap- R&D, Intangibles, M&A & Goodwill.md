@@ -22,7 +22,7 @@ title: Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
 
 ##### IFRS AND US GAAP: RESEARCH & DEVELOPMENT
 
-![](4d4cb8293711aed5b6cd43714ad9c35d.png)
+ ![500](4d4cb8293711aed5b6cd43714ad9c35d.png)
 
 | Difference                               | IFRS                                                                                                                           | US GAAP                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,14 +33,14 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
 # Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
 - Assuming a useful life of 5 years:
-![](1200e8eb7d1c38aa5c40ac996b0291f4.png)
+ ![500](1200e8eb7d1c38aa5c40ac996b0291f4.png)
 #### DOES CAPITALIZATION MATTER? (CONT.)
 - Note Reversal In Profits:
-![](362ef8d8cf2d5b0e3a9af9f015e5acfe.png)
+ ![500](362ef8d8cf2d5b0e3a9af9f015e5acfe.png)
 
 #### WHEN DOES CAPITALIZATION MATTER?
 - Firm growth,  so R&D keeps growing:
-- ![](f3e598114304fa21a358caf916b8b665.png)
+-  ![500](f3e598114304fa21a358caf916b8b665.png)
 
 #### CONSEQUENCES FOR VALUATION
 
@@ -64,7 +64,7 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 - Step #2 = Assign rest of purchase price to [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]
 	- Goodwill = purchase price less identified assets & liabilities at fair value
 	- Goodwill is tested annually for impairment
-![](f567824f767b18437af3c6acfadfda4b.png)
+ ![500](f567824f767b18437af3c6acfadfda4b.png)
 
 ##### M&A ACCOUNTING 101: ILLUSTRATIVE EXAMPLE
 - Assume Big Buys Little For $50Mm. Little Has Net Assets Of $15Mm
@@ -72,7 +72,7 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 		- Big determines that the value of Little's PPE should be stepped up by $5M to meet fair value of the assets
 		- Big identifies that Little has [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING|intangible]] assets worth $5M
 	- Therefore,  Big books [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] of $50MM – ($15MM + $5MM + $5MM) = $25MM
-![](3960b73a6271caeeb78f1c75c586d1d6.png)
+ ![500](3960b73a6271caeeb78f1c75c586d1d6.png)
 #### HISTORY OF GOODWILL IMPAIRMENT
 
 - Goodwill used to be amortized over long horizon
@@ -89,7 +89,7 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
 #### IFRS AND US GAAP: GOODWILL AND REVALUATIONS [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]
 
-![](9d252087872803f897a93788aa079289.png)
+ ![500](9d252087872803f897a93788aa079289.png)
 
 Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
@@ -111,7 +111,7 @@ Source: KPMG Insight,  Deloitte Standards,  PwC(2016),  EY(2018),  FASB(2018)
 
 #### MARKET REACTION: KRAFT HEINZ (SHARES AND BONDS)
 
-![](33f3b6fab36070d8288f4a527aa2f096.png)
+ ![500](33f3b6fab36070d8288f4a527aa2f096.png)
 
 Source: Bloomberg
 
@@ -121,7 +121,7 @@ Source: Bloomberg
 
 ##### PE VS. EBITA MULTIPLES IN PHARMA
 
-![](d30041ded7cc0ce53aaa99538462f1a9.png)
+ ![500](d30041ded7cc0ce53aaa99538462f1a9.png)
 
 - Remember: Koller et al. (Chapter 16) recommend EBITA multiple
 - They exclude acquisition-related amortization from EBIT: Why?
@@ -132,12 +132,12 @@ Source: Bloomberg
 
 #### NON‐GAAP REPORTING & AMORTIZATION OF INTANGIBLES
 
-![](edda70d5b7a5101fc0d4471c6de6895d.png)
+ ![500](edda70d5b7a5101fc0d4471c6de6895d.png)
 
 ##### INTANGIBLE AMORTIZATION AND NON‐GAAP REPORTING
 
-![](3319b5a7c509e5ff679bc9cb0fb18de9.png)
+ ![500](3319b5a7c509e5ff679bc9cb0fb18de9.png)
 
 ##### THINKING ABOUT ACQUISITION‐RELATED AMORTIZATION
 
-![](be1f27f82f81d6c4f282a8e866c8a582.png)
+ ![500](be1f27f82f81d6c4f282a8e866c8a582.png)

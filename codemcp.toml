@@ -1,0 +1,9 @@
+[project]
+name = "Wealth of Nations - Fixed Income Asset Pricing"
+description = "Markdown enhancement project for financial notes"
+version = "1.0.0"
+
+[settings]
+markdown_style = "obsidian"
+latex_rendering = "full"
+link_strategy = "semantic"

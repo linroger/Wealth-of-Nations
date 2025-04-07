@@ -2,7 +2,7 @@
 
 linter-yaml-title-alias: Teaching Note 7  [[Exotic Options]]  and Derivative Pricing by
   Monte Carlo Simulation
-tags: [tag_example]
+tags: []
 title: Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation
 ---
 

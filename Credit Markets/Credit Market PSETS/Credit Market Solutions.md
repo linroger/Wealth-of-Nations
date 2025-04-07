@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_346_Credit Market Solutions.md
-- Alias_349_Credit Market Solutions.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Market Solutions
 ---
-
-
-
 # Credit Market Solutions
 ## Solution to Homework 1
 
@@ -112,8 +109,6 @@ govt_symbology = bond_symbology[(bond_symbology['class'] == 'Govt')
 
 # Display govt_symbology
 display(govt_symbology.head())
-
-
 ```
 
 <div>
@@ -293,12 +288,6 @@ govt_symbology_10y.plot(x='start_date',                    y='coupon',          
 ```
 
     <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},                    xlabel='start_date'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_7_1.png)
 
 ## b. Historical time series of US treasury coupons
@@ -748,8 +737,6 @@ Plot a graph/scatter plot of treasury mid yields by TTM.
 
 ```python
 # Load bond_market_prices_eod
-
-
 bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
 
@@ -880,12 +867,6 @@ govt_agg.plot(x='TTM',                    y='midYield',                    grid=
 ```
 
     <Axes: title={'center': 'US Treasury Yields by TTM'},                    xlabel='TTM'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_20_1.png)
 
 ```python
@@ -1212,8 +1193,6 @@ Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',           
 Corp_merged = corp_merged.Merge (govt_benchmark_yields,                    on='und_bench_isin')
 Corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
 display (corp_merged [['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread']])
-
-
 ```
 
 <div>
@@ -1779,8 +1758,6 @@ Payment_convention = ql. Unadjusted
 
 # Face_value
 Face_value = 100
-
-
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
@@ -2025,14 +2002,10 @@ Todays_date = ql.Date.TodaysDate ()
 Test_date = todays_date + 90
 Print ('todays_date =',                    todays_date)
 Print ('test_date =',                    test_date)
-
-
 # Calendars
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 Holiday_list = list (calendar.HolidayList (todays_date,                    test_date))
 Print ('holiday_list =',                    holiday_list)
-
-
 # Day count conventions
 Day_count = ql. Actual 360 ()
 Print ('day_count =',                    day_count)
@@ -2154,8 +2127,6 @@ Print ("Year Fraction between Reference Date and Test Date : ",                 
 Print ("Discount Factor for Test Date",                    test_date,                    ": ",                    flat_yield_curve.Discount (test_date))
 Print ("custom DF calculation for Test Date",                    test_date,                    ": ",                    np.Exp (-flat_rate.Value () * yearFrac))
 Print ("Difference in Discount Factor: ",                    flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))
-
-
 ```
 
     Reference Date = April 2 nd,                    2024
@@ -2177,8 +2148,6 @@ Day_count_corp_fixed = ql. Thirty 360 (ql. Thirty 360. USA)
 
 # Day_count: ACT/360 for floating-rate bonds
 Day_count_floater = ql. Actual 360 ()
-
-
 # Settlement_days: 1 for Govt bonds
 Settlement_days_govt = 1
 
@@ -2198,8 +2167,6 @@ Payment_convention = ql. Unadjusted
 
 # Face_value
 Face_value = 100
-
-
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
@@ -2247,8 +2214,6 @@ Sofr_index = ql.Sofr (sofr_term_structure_handle)
 Im.ClearHistory (sofr_index.Name ())
 Sofr_index.AddFixing (ql.Date (28,                    ql. March,                    2024),                    5/100)
 Sofr_index.AddFixing (ql.Date (1,                    ql. April,                    2024),                    5/100)
-
-
 # Floating_rate_bond
 Floating_rate_bond = ql.FloatingRateBond (settlement_days,                   
                                 Face_value,                   
@@ -2496,8 +2461,6 @@ Print ("Price diff in -1 bps scenario: ",                    round (price_down_1
 
  # Remove interest rate bump
 Interest_rate_bump.SetValue (0)
-
-
 ```
 
     Price (base case):  95.9356
@@ -2518,9 +2481,6 @@ Convexity = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,            
 Print ("DV 01: ",                    dv 01)
 Print ("Duration: ",                    duration)
 Print ("Convexity: ",                    convexity)
-
-
-
 ```
 
     DV 01:  3.6283
@@ -2533,8 +2493,6 @@ Print ("Convexity: ",                    convexity)
 # Use original interest rate yield of 5%
 # Flat_rate.SetValue (0.05)
 Print ('Bond PV for',                    flat_rate.Value ()*100,                    'pct yield: ',                    round (fixed_rate_bond.NPV (),                    4))
-
-
 # Change interest rate yield to 6% and recompute bond PV
 Flat_rate.SetValue (0.06)
 Print ('Bond PV for',                    flat_rate.Value ()*100,                    'pct yield: ',                    round (fixed_rate_bond.NPV (),                    4))
@@ -2562,8 +2520,6 @@ Print ('day_counter =',                    day_counter)
 Print ('coupon_freq =',                    coupon_freq)
 Print ('calc_date =',                    calc_date)
 Print ('settle_date =',                    settle_date)
-
-
 Implied_yield = fixed_rate_bond.BondYield (bond_market_price,                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
 Print ('implied_yield =',                    round (implied_yield,                    4))
 ```
@@ -2643,8 +2599,6 @@ Print ('bond price diff =',                    bond_zspread_price - bond_market_
 # Clean price quote
 Tsy_clean_price_quote = 96.0
 Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
-
-
 # Create BondHelper object
 Bond_helper = ql.BondHelper (
     Tsy_clean_price_handle,                   
@@ -2880,12 +2834,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_101_1.png)
 
 ![png](CreditMarketSolutions_101_2.png)
@@ -2959,11 +2907,7 @@ Bond_symbology  = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
 Bond_symbology['term'] = (bond_symbology['maturity'] - bond_symbology['start_date']). Dt. Days / 365.25
 Bond_symbology['TTM'] = (bond_symbology['maturity'] - as_of_date). Dt. Days / 365.25
 Display (bond_symbology.Head ())
-
-
 # Load bond_market_prices_eod
-
-
 # Add mid prices and yields
 Bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 Bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
@@ -2972,8 +2916,6 @@ Display (bond_market_prices_eod.Head ())
 Bond_symbology
 
 # Load govt_on_the_run,                    as of 2024-04-08
-
-
 # Keep OTR treasuries only
 Govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker']. Str.Contains ('B|C')]
 Display (govt_on_the_run_simple.Head ())
@@ -3394,14 +3336,9 @@ Print ("Cashflow dates for",                    corp_bond_details['security'])
 # List cashflow dates
 For date in cashflow_schedule:
         Print (date)
-
-
 ```
 
     Corp bond details for AAPL 3.35 02/09/27
-
-
-
     Ticker                           AAPL
     Class                            Corp
     Figi                     BBG 00 FXTS 8 Z 0
@@ -3428,8 +3365,6 @@ For date in cashflow_schedule:
     Term                         9.998631
     TTM                          2.839151
     Name: 10,                    dtype: object
-
-
     Cashflow dates for AAPL 3.35 02/09/27
     February 9 th,                    2017
     August 9 th,                    2017
@@ -3472,8 +3407,6 @@ Def create_bond_from_symbology (details: dict):
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
         Raise ValueError (f"unsupported asset class,                    {type (details['class'])},                    {details['class']}")
-
-    
     # Create issue_date from details['start_date']
     Issue_date = get_ql_date (details['start_date'])
     
@@ -3482,8 +3415,6 @@ Def create_bond_from_symbology (details: dict):
 
     # Create coupon from details['coupon']
     Coupon = float (details['coupon'])/100.
-
-
     # Create cashflow schedule
     Schedule = create_schedule_from_symbology (details)
     
@@ -3561,9 +3492,6 @@ Govt_bond_object = create_bond_from_symbology (govt_bond_details)
 ```
 
     Govt bond details for T 7 5/8 02/15/25
-
-
-
     Ticker                              T
     Class                            Govt
     Figi                     BBG 000 DLBVY 0
@@ -3749,12 +3677,6 @@ Govt_combined_otr.Plot (x='TTM',                    y='midYield',               
 ```
 
     <Axes: title={'center': 'OTR US Treasury yields by TTM'},                    xlabel='TTM'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_124_1.png)
 
 ## b. Calibrate the on-the-run treasury yield curve (bootstrapping)
@@ -3796,9 +3718,6 @@ Def calibrate_yield_curve_from_frame (
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
-
-
-
 Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
@@ -4172,12 +4091,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_129_1.png)
 
 ![png](CreditMarketSolutions_129_2.png)
@@ -4197,12 +4110,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_131_1.png)
 
 ![png](CreditMarketSolutions_131_2.png)
@@ -5337,12 +5244,6 @@ Plt. Set_xlabel ('Maturity date')
 ```
 
     Text (0.5,                    0,                    'Maturity date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_150_1.png)
 
 ![png](CreditMarketSolutions_150_2.png)
@@ -5440,13 +5341,8 @@ Def get_yield_curve_details_df (yield_curve,                    curve_dates=None
                              'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
-
-
-
 # Display SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   2))]
-
-
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
@@ -5495,12 +5391,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_161_1.png)
 
 ![png](CreditMarketSolutions_161_2.png)
@@ -5598,12 +5488,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_167_1.png)
 
 ![png](CreditMarketSolutions_167_2.png)
@@ -5633,8 +5517,6 @@ Cds_surv_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_ra
 
 Cds_pricing_engine = ql.MidPointCdsEngine (cds_surv_prob_curve_handle,                    CDS_recovery_rate,                    sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_pricing_engine)
-
-
 # Print CDS valuation results
 Print ('CDS protection start date: ',                    cds_obj.ProtectionStartDate ())
 Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
@@ -5754,8 +5636,6 @@ Print ('risky_bond_ispread_bps: ',                    risky_bond_credit_ispread_
 # Calc z-spread
 Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                    risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
 Print ('risky_bond_zspread_bps: ',                    risky_bond_zspread_bps)
-
-
 ```
 
     Risky_bond_price: 99.77353776497536
@@ -5793,12 +5673,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_177_1.png)
 
 ![png](CreditMarketSolutions_177_2.png)
@@ -5827,8 +5701,6 @@ Print ('risky_bond_ispread_bps: ',                    risky_bond_credit_ispread_
 # Calc z-spread
 Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,                    risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
 Print ('risky_bond_zspread_bps: ',                    risky_bond_zspread_bps)
-
-
 ```
 
     Risky_bond_price: 98.75601148481837
@@ -5876,8 +5748,6 @@ Def nelson_siegel_extended (params,                    maturity):
         Curvature_2 = slope_2 - np.Exp (-maturity/params[5])
 
         Total_value = total_value + params[4] * curvature_2
-        
-    
     Return total_value
 
 ```
@@ -5897,13 +5767,13 @@ Curve_shapes_df 2 = pd.DataFrame ([T,                    nelson_siegel_extended 
                                  Nelson_siegel_extended ([0,                    0,                    0,                    2,                    1,                    10],                    T)] for T in range (0,                   30,                   1))
 Curve_shapes_df 2. Columns = ['TTM',                    'Level',                    'Slope',                    'Curvature_1',                    'Curvature_2']
 
-Print (curve_shapes_df 2.Head ())
+Print (curve_shapes_df 2. Head ())
 
 Plt = curve_shapes_df.Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature'],                    grid=True,                    style='-',                    title='Nelson-Siegel basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
-Plt = curve_shapes_df 2.Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature_1',                    'Curvature_2'],                    grid=True,                    style='-',                    title='Nelson-Siegel-Svensson basis functions',                    figsize=(12,                   5))
+Plt = curve_shapes_df 2. Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature_1',                    'Curvature_2'],                    grid=True,                    style='-',                    title='Nelson-Siegel-Svensson basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
@@ -5915,18 +5785,7 @@ Plt. Set_xlabel ('Time to maturity (years)')
     2    2    1.0  0.632121     0.528482     0.087615
     3    3    1.0  0.517913     0.589566     0.123121
     4    4    1.0  0.432332     0.593994     0.153880
-
-
-
-
-
     Text (0.5,                    0,                    'Time to maturity (years)')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_183_2.png)
 
 ![png](CreditMarketSolutions_183_3.png)
@@ -5958,17 +5817,9 @@ Plt. Set_xlabel ('Maturity')
 Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Survival Probs'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth survival probability curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Survival Prob')
 Plt. Set_xlabel ('Maturity')
-
-
 ```
 
     Text (0.5,                    0,                    'Maturity')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_185_1.png)
 
 ![png](CreditMarketSolutions_185_2.png)
@@ -5997,8 +5848,6 @@ Print ('nelson_siegel_risky_bond_ispread: ',                    nelson_siegel_ri
 # Compute z-spread
 Nelson_siegel_risky_bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                    nelson_siegel_risky_bond_price,                    sofr_yield_curve,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 1 e 4
 Print ('nelson_siegel_risky_bond_zspread: ',                    nelson_siegel_risky_bond_zspread)
-
-
 ```
 
     Nelson_siegel_surv_prob_risky_bond_price: 95.95463373300109
@@ -6099,8 +5948,6 @@ Def create_bond_from_symbology (details: dict):
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
         Raise ValueError (f"unsupported asset class,                    {type (details['class'])},                    {details['class']}")
-
-    
     # Create issue_date from details['start_date']
     Issue_date = get_ql_date (details['start_date'])
     
@@ -6109,8 +5956,6 @@ Def create_bond_from_symbology (details: dict):
 
     # Create coupon from details['coupon']
     Coupon = float (details['coupon'])/100.
-
-
     # Create cashflow schedule
     Schedule = create_schedule_from_symbology (details)
     
@@ -6144,8 +5989,6 @@ Def get_bond_cashflows (bond: ql. FixedRateBond,                    calc_date=ql
     # filter for payment dates > calc_date
     Cashflows_df = cashflows_df[cashflows_df. CashFlowYearFrac > 0]
     Return cashflows_df
-
-
 Def calibrate_yield_curve_from_frame (
         Calc_date: ql. Date,                   
         Treasury_details: pd. DataFrame,                   
@@ -6176,9 +6019,6 @@ Def calibrate_yield_curve_from_frame (
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
-
-
-
 Def get_yield_curve_details_df (yield_curve,                    curve_dates=None):
     
     If (curve_dates == None):
@@ -6194,8 +6034,6 @@ Def get_yield_curve_details_df (yield_curve,                    curve_dates=None
                              'DiscountFactor': discounts,                   
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
-
-
 Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_curve_handle,                    zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
@@ -6207,8 +6045,6 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_cur
     Fixed_rate_bond.SetPricingEngine (bond_engine)
     Bond_clean_price = fixed_rate_bond.CleanPrice ()
     Return bond_clean_price
-
-
 Def calibrate_sofr_curve_from_frame (
         Calc_date: ql. Date,                   
         Sofr_details: pd. DataFrame,                   
@@ -6245,8 +6081,6 @@ Def calibrate_sofr_curve_from_frame (
     Sofr_yield_curve.EnableExtrapolation ()
     
     Return sofr_yield_curve
-
-
 Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads_bps,                    cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
     CDS_settle_days = 2
@@ -6255,8 +6089,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
 
     # CDS standard tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y and 10 Y
     CDS_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10]]
-              
-
     CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                    CDS_tenor,                    CDS_settle_days,                    ql.TARGET (),                   
                                   Ql. Quarterly,                    ql. Following,                    ql. DateGeneration. TwentiethIMM,                    CDS_day_count,                    cds_recovery_rate,                    sofr_yield_curve_handle)
                
@@ -6267,8 +6099,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
-
-
 Def get_hazard_rates_df (hazard_rate_curve):
     '''Return dataframe with calibrated hazard rates and survival probabilities'''
     
@@ -6286,9 +6116,6 @@ Def get_hazard_rates_df (hazard_rate_curve):
                                      'HazardRateBps': hazard_rates,                                                        
                                      'SurvivalProb': surv_probs})
     Return (hazard_rates_df)
-
-
-
 ```
 
 ## a. Create generic fixed-rate corporate bond
@@ -6299,8 +6126,6 @@ Display the fixed rate bond cashflows.
 
 ```python
 # Import tools from previous homeworks
-
-
 # Use static calculation/valuation date of 2024-04-15,                    matching data available in the market prices EOD file
 Calc_date = ql.Date (15,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
@@ -6315,8 +6140,6 @@ Ql.Settings.Instance (). EvaluationDate = calc_date
     ----> 2 from credit_market_tools import *
           4 # Use static calculation/valuation date of 2024-04-15,                    matching data available in the market prices EOD file
           5 calc_date = ql.Date (15,                    4,                    2024)
-
-
     ModuleNotFoundError: No module named 'credit_market_tools'
 
 ```python
@@ -6382,8 +6205,6 @@ Print ('test_bond_dirty_price: ',                    round (test_bond_dirty_pric
 Print ('test_bond_dv 01: ',                    round (test_bond_dv 01,                    2))
 Print ('test_bond_duration: ',                    round (test_bond_duration,                    2))
 Print ('test_bond_convexity: ',                    round (test_bond_convexity,                    2))
-
-
 ```
 
     Test_bond_clean_price: 92.56
@@ -6407,9 +6228,6 @@ $$\begin{align}
 \end{align}$$
 
 We implement formula [13] into the `calc_second_order_price_change (...)` function,                    taking into account that $B (y)$ is the dirty bond price.
-
-
-
 ```python
 Def calc_second_order_price_change (dirty_price,                    yield_diff,                    duration,                    convexity):
     Return dirty_price * (- yield_diff * duration + 0.5 * yield_diff*yield_diff*convexity)
@@ -6458,21 +6276,8 @@ Plt. Set_xlabel ('Yield')
     18        10.0        68.8          69.5
     19        10.5        66.4          67.4
     20        11.0        64.2          65.4
-
-
-
-
-
     Text (0.5,                    0,                    'Yield')
-
-
-
-
-    
 ![png](CreditMarketSolutions_200_2.png)
-    
-
-
 ## d. Extreme events scenarios
 
 Compute and show the scenario bond price for a bond yield of 15% (extreme event scenario).
@@ -6482,8 +6287,6 @@ Compute and show the second-order scenario price approximation in the extreme ev
 How accurate is the second-order scenario price approximations (using duration and convexity sensitivities)?
 
 Compute and show the analytic DV 01,                    duration and convexity in the extreme event scenario.
-
-
 ```python
 Extreme_event_bond_yield = 15
 Extreme_event_bond_clean_price = round (test_fixed_rate_bond.CleanPrice (extreme_event_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual),                    3)
@@ -6497,8 +6300,6 @@ Print ('extreme_event_approx_error: ',                    round (extreme_event_s
     Extreme_event_scenario_price: 49.033
     Extreme_event_approx_price: 55.62
     Extreme_event_approx_error: 6.59
-
-
 -----------------------------------------------------------
 # Problem 2: Perpetual bonds
 ## a. Price a fixed rate perpetual bond
@@ -6509,8 +6310,6 @@ Assuming that the bond has a (continuously componded) yield of y,               
 For simplicity,                    you can assume T+0 settlement and zero accrued. 
 
 You can use following sympy code (implementing Formula 5 from Session 1) as a starting point.
-
-
 ```python
 # Import libraries
 Import sympy as sp
@@ -6527,12 +6326,7 @@ Display (bond_pv_eq)
 ```
 
     Analytic formula for bond_pv: (1 - exp (-T*y))*(c/(2*(exp (y/2) - 1)) - 1) + 1
-
-
-
 $\displaystyle \left (1 - e^{- T y}\right) \left (\frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)} - 1\right) + 1$
-
-
 We start with the formula for pricing a risky fixed rate bond on a face of 100%,                    derived in Lecture 1,                    formulas [4] and [5].
 
 $$\begin{align}
@@ -6554,28 +6348,20 @@ In the case of the fixed rate perpetual bond,                    the bond maturi
 $$\begin{align}
 B_{0}^{\infty}=B (0,                    c,                   \infty,                    y)=\sum_{k=1}^{\infty}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}} =  \frac{c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)}=\frac{c}{y_{sa}},                   
 \end{align}$$
-
-
 To obtain the fair price on a face of $100,                    one has to multiply the formula above by 100:
 $$\begin{align}
 B_{0}^{\infty}(100) =  \frac{100 \cdot c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)} = 100 \cdot \frac{c}{y_{sa}},                   
 \end{align}$$
-
-
 ## b. Perpetual bonds priced "at par"
 For which yield y does the bond trade "at par",                    i.e. fair value price = $100?
 
 $$\begin{align}
 B_{0}^{\infty}(100)=100 \iff y=2\cdot \ln \left ( 1 + \frac{c}{2} \right) \iff y_{sa} = c.
 \end{align}$$
-
-
 Hence,                    the perpetual bond trades "at par" if the smi-annual yield $y_{sa}$ matches the semi-annual coupon c (same result as for "regular" fixed rate bonds).
 
 ## c. Duration and DV 01 for a fixed rate perpetual bond
 Compute Duration and DV 01 of the perpetual bond.
-
-
 ```python
 # Define symbolic equations
 Perpetual_bond_price = c / (sp.Exp (y/2) - 1) / 2
@@ -6593,42 +6379,21 @@ Display (perpetual_bond_duration)
 ```
 
     1. Perpetual bond price (with coupon c):
-
-
-
 $\displaystyle \frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)}$
-
-
     2. Perpetual bond DV 01:
-
-
-
 $\displaystyle \frac{c e^{\frac{y}{2}}}{4 \left (e^{\frac{y}{2}} - 1\right)^{2}}$
-
-
     3. Perpetual bond duration:
-
-
-
 $\displaystyle \frac{e^{\frac{y}{2}}}{2 e^{\frac{y}{2}} - 2}$
-
-
 Hence,                    PV 01 and duration of a fixed rate perpetual bond are given by
 
 $$\begin{align}
 PV 01 = -\frac{\partial B}{\partial y} = -\frac{\partial}{\partial y}\left[\frac{c}{2 \cdot \left ( e^{\frac{y}{2}}-1 \right) }\right]=\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) }{y_{sa}^2}
 \end{align}$$
-
-
 $$\begin{align}
 D = -\frac{1}{B} \cdot \frac{\partial B}{\partial y} = \frac{e^{\frac{y}{2}}}{2 \cdot \left ( e^{\frac{y}{2}} - 1 \right)} = \frac{1 + \frac{y_{sa}}{2} }{y_{sa}}.
 \end{align}$$
-
-
 ## d. Convexity of a fixed rate perpetual bond
 Compute the convexity of the perpetual bond.
-
-
 ```python
 Second_order_derivative = sp.Simplify (first_order_derivative.Diff (y))
 Print ('Second order derivative: ')
@@ -6641,19 +6406,9 @@ Display (perpetual_bond_convexity)
 ```
 
     Second order derivative:
-
-
-
 $\displaystyle - \frac{c \left (\left (e^{\frac{y}{2}} - 1\right) e^{\frac{y}{2}} - 2 e^{y}\right)}{8 \left (e^{\frac{y}{2}} - 1\right)^{3}}$
-
-
     Perpetual bond convexity:
-
-
-
 $\displaystyle \frac{\left (1 + e^{- \frac{y}{2}}\right) e^{y}}{4 \left (- 2 e^{\frac{y}{2}} + e^{y} + 1\right)}$
-
-
 Hence,                    second order derivative and convexity $\Gamma$ of the fixed rate perpetual bond are given by
 
 $$\begin{align}
@@ -6663,8 +6418,6 @@ $$\begin{align}
 $$\begin{align}
 \Gamma = \frac{1}{B} \cdot \frac{\partial^{2} B}{\partial y^{2}} = \frac{e^{\frac{y}{2}} \cdot \left (e^{\frac{y}{2}} + 1 \right)}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} =  \frac{\left ( 1 + \frac{y_{sa}}{2} \right) \cdot \left ( 2 + \frac{y_{sa}}{2} \right)}{y_{sa}^2}. 
 \end{align}$$
-
-
 -----------------------------------------------------------
 # Problem 3: US SOFR swap curve calibration as of 2024-04-15
 ### Follow Section "1. SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
@@ -6676,8 +6429,6 @@ Load the `sofr_swap_symbology` Excel file into a dataframe. Print all swap tenor
 Load the `sofr_swaps_market_data_eod` Excel file into a dataframe. Print all dates available.
 
 Plot the historial time series of SOFR rates for the available [1 Y,                    2 Y,                    3 Y,                    5 Y,                    7 Y,                    10 Y,                    20 Y,                    30 Y] tenors.
-
-
 ```python
 # Sofr_symbology
 Sofr_symbology = pd. Read_excel ('./data/sofr_swaps_symbology. Xlsx')
@@ -6697,8 +6448,6 @@ Plt = sofr_quotes_ts.Plot (grid=True,                    style='-',             
 Plt. Set_ylabel ('SOFR Rate')
 Plt. Set_xlabel ('Date')
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -6860,21 +6609,8 @@ Plt. Set_xlabel ('Date')
   </tbody>
 </table>
 </div>
-
-
-
-
-
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
 ![png](CreditMarketSolutions_216_2.png)
-    
-
-
 ## b. Calibrate the US SOFR yield curve (via bootstrapping)
 The function below shows how to calibrate a smooth yield/discount factor curve from SOFR swaps. 
 
@@ -6883,8 +6619,6 @@ Prepare a joint symbology & market dataframe quotes as of 2024-04-15.
 Calibrate the SOFR discount factor curve as of 2024-04-15.
 
 Follow section 1 b in the QuantLib Advanced notebook.
-
-
 ```python
 Def calibrate_sofr_curve_from_frame (
         Calc_date: ql. Date,                   
@@ -6923,8 +6657,6 @@ Def calibrate_sofr_curve_from_frame (
     
     Return sofr_yield_curve
 ```
-
-
 ```python
 # Sofr_combined
 Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == '2024-04-15'],                    how='left',                    on=['figi'])
@@ -6935,8 +6667,6 @@ Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                  
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -7072,26 +6802,18 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
   </tbody>
 </table>
 </div>
-
-
 ## c. Display the calibrated SOFR discount curve dataframe
 
 Follow section 1 d (in the QuantLib Advanced notebook) to display the calibration details dataframe.
-
-
 ```python
 # Display and plot SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   1))]
-
-
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
 Display (sofr_yield_curve_simple_df)
 Display (sofr_yield_curve_details_df)
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -7183,9 +6905,6 @@ Display (sofr_yield_curve_details_df)
   </tbody>
 </table>
 </div>
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -7424,13 +7143,9 @@ Display (sofr_yield_curve_details_df)
   </tbody>
 </table>
 </div>
-
-
 ## d. Plot the calibrated US SOFR Zero Interest Rates and Discount Factor curves
 
 Plot the SOFR zero rates and discount factor curves by maturity. Follow section 1 c in the QuantLib Advanced notebook.
-
-
 ```python
 # Plot the SOFR yield curve
 Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title=f'SOFR Curve: Zero Rates as of {calc_date. To_date ()}',                    figsize=(12,                   4))
@@ -7441,26 +7156,9 @@ Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='Discount
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')
 ```
-
-
-
-
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
 ![png](CreditMarketSolutions_223_1.png)
-    
-
-
-
-    
 ![png](CreditMarketSolutions_223_2.png)
-    
-
-
 -----------------------------------------------------------
 # Problem 4: CDS Hazard Rate calibration and valuation
 ## Follow Section "2. CDS Hazard Rate calibration + Pricing" in the QuantLib Advanced notebook !!!
@@ -7470,9 +7168,6 @@ Plt. Set_xlabel ('Date')
 Load the `cds_market_data_eod` Excel file into a dataframe. 
 
 Plot the historical time series of CDS Par Spreads for the available tenors.
-
-
-
 ```python
 # Cds_market_quotes
 Cds_market_quotes = pd. Read_excel ('./data/cds_market_data_eod. Xlsx')
@@ -7508,26 +7203,11 @@ Plt. Set_xlabel ('Date')
     2        19.1828        28.8454        45.4735        62.6543         70.9180  
     3        18.7703        28.3417        44.7575        61.9778         70.2746  
     4        18.3692        27.7599        43.8548        60.8378         68.8914  
-
-
-
-
-
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
 ![png](png)
-    
-
-
 ## b. Calibrate the IBM hazard rate curve as of 2024-04-15
 
 Follow section 2 a in the QuantLib Advanced notebook. Use the calibrated SOFR discount curve from Problem 3 b.
-
-
 ```python
 Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_curve_handle,                    cds_par_spreads_bps,                    cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
@@ -7537,8 +7217,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
 
     # CDS standard tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y and 10 Y
     CDS_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10]]
-              
-
     CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),                    CDS_tenor,                    CDS_settle_days,                    ql.TARGET (),                   
                                   Ql. Quarterly,                    ql. Following,                    ql. DateGeneration. TwentiethIMM,                    CDS_day_count,                    cds_recovery_rate,                    sofr_yield_curve_handle)
                
@@ -7549,8 +7227,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
-
-
 Def get_hazard_rates_df (hazard_rate_curve):
     '''Return dataframe with calibrated hazard rates and survival probabilities'''
     
@@ -7570,8 +7246,6 @@ Def get_hazard_rates_df (hazard_rate_curve):
     Return (hazard_rates_df)
 
 ```
-
-
 ```python
 # CDS spreads for IBM as of calc_date = 2024-04-15
 Cds_par_spreads = list (cds_par_spreads_df. Loc['2024-04-15'])
@@ -7599,12 +7273,8 @@ Print (hazard_rates_df)
     4  2029-06-20   5.263889     102.209360      0.966876
     5  2031-06-20   7.291667     166.229764      0.934828
     6  2034-06-20  10.336111     164.376354      0.889198
-
-
 ## c. Plot the calibrated Hazard Rates and Survival Probability curves
 Follow section 2 b in the QuantLib Advanced notebook. Use the calibrated SOFR discount curve from Problem 3 b.
-
-
 ```python
 Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRateBps',                    grid=True,                    style='*-',                    title=f'IBM Hazard Rates Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Hazard Rate (bps)')
@@ -7615,24 +7285,10 @@ Plt. Set_ylabel ('Survival Probability')
 Plt. Set_xlabel ('Date')
 
 ```
-
-
-
-
     Text (0.5,                    0,                    'Date')
-
-
-
-
-    
 ![png](air/par spread and PV of a CDS 
 
 Follow section 2 c in the QuantLib Advanced notebook. Construct a CDS object with 100 bps coupon and 2029-06-20 maturity. Compute the fair/par spread and PV.
-
-
-
-
-
 ```python
 # CDS specs
 Side = ql. Protection. Seller
@@ -7655,8 +7311,6 @@ Cds_obj = ql.CreditDefaultSwap (side,                    face_notional,         
 Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)
 Cds_engine = ql.MidPointCdsEngine (default_prob_curve_handle,                    cds_recovery_rate,                    sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_engine)
-
-
 # Print CDS valuation results
 Print ('CDS protection start date: ',                    cds_obj.ProtectionStartDate ())
 Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
@@ -7673,8 +7327,6 @@ Print ('Survival Prob. To Maturity: ',                    round (hazard_rate_cur
     CDS Premium Leg PV: 4.6179
     CDS Default Leg PV -1.7166
     Survival Prob. To Maturity: 0.9669
-
-
 <hr><font color="green"><h1>from file: 6 FINM 35700_CreditMarkets_Spring 2024_Solution_4</h1></font>
 
 # Homework 4
@@ -7696,10 +7348,6 @@ This homework relies on multiple files (from previous weeks):
 - The CDS data file `cds_market_data_eod`. 
 - The SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swap symbology file `sofr_swap_symbology`,                   
 - The SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swap market data file `sofr_swaps_market_data_eod`.
-
-
-
-
 ```python
 # Import tools from previous homeworks
 From credit_market_tools import *
@@ -7724,9 +7372,6 @@ As_of_date = pd. To_datetime ('2024-04-19')
 - The "on-the-run" US Treasury curve,                   
 - The US SOFR curve and 
 - The IBM CDS hazard rate curve (on the top of SOFR discount curve).
-
-
-
 ```python
 # US Treasury "On-The-Run" yield curve calibration
 # Follow Homework 2 Problem 2 and populate the US Treasury On-The-Run symbology + market data frame
@@ -7763,12 +7408,7 @@ Display (govt_combined_otr.Head ())
 # Tsy_yield_curve calibration
 Tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,                    govt_combined_otr,                    'midPrice')
 Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve)
-
-
-
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -7935,9 +7575,6 @@ Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve)
 </table>
 <p>5 rows × 33 columns</p>
 </div>
-
-
-
 ```python
 # SOFR risk-free yield curve calibration
 # Follow Homework 3 Problem 3 and populate the SOFR symbology + market data frame
@@ -7959,8 +7596,6 @@ Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,                  
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8122,9 +7757,6 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
   </tbody>
 </table>
 </div>
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8260,9 +7892,6 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
   </tbody>
 </table>
 </div>
-
-
-
 ```python
 # Credit curve calibration using IBM CDS par spreads 
 # Follow Homework 3 Problem 4 and create the IBM hazard rate curve
@@ -8288,8 +7917,6 @@ Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rat
 ```
 
     [12.0769,                    17.3082,                    24.866,                    39.6501,                    53.9093,                    65.3221]
-
-
 ## b. Create the IBM risky bond objects
 ### Identify the following 3 IBM fixed rate bonds in the symbology table and create the corresponding fixed rate bonds (3 bond objects).
 
@@ -8300,10 +7927,6 @@ Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rat
 Use the create_bond_from_symbology () function (discussed in from Homework 2,                    Problem 1 b) to create the bonds objects.
 
 List the bond cashflows using the get_bond_cashflows () function.
-
-
-
-
 ```python
 # Corp_symbology_ibm
 Corp_symbology_ibm = bond_symbology[(bond_symbology. Ticker == 'IBM') & (bond_symbology. Cpn_type == 'FIXED')]
@@ -8318,8 +7941,6 @@ Ibm_df = corp_combined_ibm. Loc[ibm_selected_figis]
 
 Display (ibm_df. T)
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8539,9 +8160,6 @@ Display (ibm_df. T)
   </tbody>
 </table>
 </div>
-
-
-
 ```python
 # Create ibm_bond_objects
 Ibm_bond_objects = [ create_bond_from_symbology (df_row. To_dict ()) for index,                    df_row in ibm_df.Iterrows ()]
@@ -8554,9 +8172,6 @@ For i in range (0,                    3):
 ```
 
     Bond cashflows for IBM 3.3 05/15/26
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8620,12 +8235,7 @@ For i in range (0,                    3):
   </tbody>
 </table>
 </div>
-
-
     Bond cashflows for IBM 3.3 01/27/27
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8695,12 +8305,7 @@ For i in range (0,                    3):
   </tbody>
 </table>
 </div>
-
-
     Bond cashflows for IBM 3 1/2 05/15/29
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8800,15 +8405,11 @@ For i in range (0,                    3):
   </tbody>
 </table>
 </div>
-
-
 ## c. Compute CDS-implied (intrinsic) prices for the IBM fixd rate bonds
 
 Price the 3 IBM bonds using the CDS-calibrated hazard rate curve for IBM (via RiskyBondEngine).
 
 Display the clean prices and yields for the 3 test bonds. 
-
-
 ```python
 # Flat_recovery_rate
 Flat_recovery_rate = 0.40
@@ -8830,8 +8431,6 @@ For i in range (0,                    3):
 
     Ibm_model_prices.Append (corpBondModelPrice)
     Ibm_model_yields.Append (corpBondModelYield)
-    
-    
 # Display relevant metrics
 Ibm_df['modelPrice'] = ibm_model_prices
 Ibm_df['modelYield'] = ibm_model_yields
@@ -8839,8 +8438,6 @@ Ibm_df['modelYield'] = ibm_model_yields
 display (ibm_df [['security',                    'modelPrice',                    'modelYield']])
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8892,8 +8489,6 @@ display (ibm_df [['security',                    'modelPrice',                  
   </tbody>
 </table>
 </div>
-
-
 ## d. Compute the "intrinsic" vs market price basis for the IBM bonds
 
 Load the market mid prices and yields from the bond market data dataframe as of 2024-04-19. 
@@ -8902,11 +8497,7 @@ Compute and display the basis between the "CDS-implied intrinsic" vs market pric
 
 - BasisPrice = modelPrice - midPrice
 - BasisYield = modelYield - midYield
-
-
 Are the CDS intrinsic prices lower or higher than the bond prices observed on the market? What factors could explain the basis?
-
-
 ```python
 # Compute basis
 Ibm_df['basisPrice'] = ibm_df['modelPrice'] - ibm_df['midPrice']
@@ -8915,8 +8506,6 @@ Ibm_df['basisYield'] = ibm_df['modelYield'] - ibm_df['midYield']
 # Display relevant metrics
 display (ibm_df [['security',                    'midPrice',                    'modelPrice',                    'basisPrice',                    'midYield',                    'modelYield',                    'basisYield']])
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8988,8 +8577,6 @@ display (ibm_df [['security',                    'midPrice',                    
   </tbody>
 </table>
 </div>
-
-
 CDS-implied,                    intrinsic bond prices are higher than bond market prices.
 
 Following factors could explain the basis dislocation for the 3 IBM bonds:
@@ -9008,24 +8595,17 @@ Compute the scenario IR 01 and Durations using a '-1 bp' interest rate shock,   
 Display the computed scenario IR 01 and Durations.
 
 Remember that IR 01 = Dirty_Price * Duration.
-
-
-
 ```python
 # Bump interest rate by -1 bps (parallel shift)
 Interest_rate_scenario_1 bp_down = ql.SimpleQuote (-0.0001)
 Tsy_yield_curve_handle_1 bp_down = ql.YieldTermStructureHandle (ql.ZeroSpreadedTermStructure (tsy_yield_curve_handle,                    ql.QuoteHandle (interest_rate_scenario_1 bp_down)))
 Risky_bond_engine_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle,                    flat_recovery_rate,                    tsy_yield_curve_handle_1 bp_down)
 ```
-
-
 ```python
 # Model scenario metrics
 Ibm_scen_prices_1 bp_down = []
 Ibm_scen_IR 01 = []
 Ibm_scen_duration = []
-
-
 # Calculate IR 01 and duration
 For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
@@ -9044,10 +8624,8 @@ For i in range (0,                    3):
     Ir 01 = (price_1 bp_down - price_base) * 1 e 4 / 100
     Duration = ir 01 / dirty_price_base * 100
 
-    Ibm_scen_IR 01.Append (ir 01)
+    Ibm_scen_IR 01. Append (ir 01)
     Ibm_scen_duration.Append (duration)
-
-
 # Display relevant metrics
 Ibm_df['scen_IR 01'] = ibm_scen_IR 01
 Ibm_df['scen_duration'] = ibm_scen_duration
@@ -9055,8 +8633,6 @@ Ibm_df['scen_duration'] = ibm_scen_duration
 display (ibm_df [['security',                    'scen_IR01',                    'scen_duration']])
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9108,16 +8684,12 @@ display (ibm_df [['security',                    'scen_IR01',                   
   </tbody>
 </table>
 </div>
-
-
 ## b. Compute analytical DV 01 s and Durations for the 3 IBM bonds
 Use the 3 IBM test bonds defined in Problem 1. 
 
 Compute and display the analytical IR 01 and Durations 
 
 Compare the analytic DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?
-
-
 ```python
 # Analytic metrics
 Ibm_analytic_durations = []
@@ -9138,8 +8710,6 @@ For i in range (0,                    3):
 
     Ibm_analytic_durations.Append (analytic_duration)
     Ibm_analytic_DV 01 s.Append (analytic_DV 01)
-
-
 # Display relevant metrics
 Ibm_df['analytic_DV 01'] = ibm_analytic_DV 01 s
 Ibm_df['analytic_duration'] = ibm_analytic_durations
@@ -9147,8 +8717,6 @@ Ibm_df['analytic_duration'] = ibm_analytic_durations
 display (ibm_df [['security',                    'analytic_DV01',                    'analytic_duration']])
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9200,15 +8768,10 @@ display (ibm_df [['security',                    'analytic_DV01',               
   </tbody>
 </table>
 </div>
-
-
-
 ```python
 # Compare the analytical DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?
 display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01']])
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9260,8 +8823,6 @@ display (ibm_df [['security',                    'scen_IR01',                   
   </tbody>
 </table>
 </div>
-
-
 DV 01 s and IR 01 s are expected to be similar,                    since a -1 bp change in the (risk free) interest rate curve causes approximately a -1 bp change in the (risky) bond yield curve.
 
 ## c. Compute scenario CS 01 s (credit spread sensitivities) for the 3 IBM bonds
@@ -9274,8 +8835,6 @@ Create a new scenario RiskyBondEngine,                    using the scenario haz
 Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped hazard rate curve) to obtain the '-1 bp' scenario CS 01 (credit spread sensitivities).
 
 Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?
-
-
 ```python
 # Hazard_rate_curve calibration (from IBM CDS par spreads)
 Cds_par_spreads_1 bp_down = [ps - 1 for ps in cds_par_spreads]
@@ -9293,9 +8852,6 @@ Risky_bond_engine_cds_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle_
 
     [12.0769,                    17.3082,                    24.866,                    39.6501,                    53.9093,                    65.3221]
     [11.0769,                    16.3082,                    23.866,                    38.6501,                    52.9093,                    64.3221]
-
-
-
 ```python
 # Calculate CS 01
 Ibm_model_cs 01 = []
@@ -9313,7 +8869,7 @@ For i in range (0,                    3):
     # calc price diff
     Price_diff_cds_1 bp_down = price_cds_1 bp_down - price_base
     
-    Ibm_model_cs 01.Append (price_diff_cds_1 bp_down * 1 e 4 / 100)
+    Ibm_model_cs 01. Append (price_diff_cds_1 bp_down * 1 e 4 / 100)
 
 Ibm_df['CS 01'] = ibm_model_cs 01
 
@@ -9321,8 +8877,6 @@ Ibm_df['CS 01'] = ibm_model_cs 01
 display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01',                    'CS01']])
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9379,8 +8933,6 @@ display (ibm_df [['security',                    'scen_IR01',                   
   </tbody>
 </table>
 </div>
-
-
 CS 01 s and DV 01 s are expected to be similar,                    since a -1 bp change in the credit spread curve causes approximately a -1 bp change in the (risky) bond yield curve.
 
 ## d. Compute scenario REC 01 (recovery rate sensitivity) for the 3 IBM bonds
@@ -9391,9 +8943,6 @@ Apply a +1% scenario bump to the IBM recovery rate (bump the flat_recovery_rate 
 Create a new scenario RiskyBondEngine,                    using the scenario new recovery rate.
 
 Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped recovery rate) to obtain the +1% scenario REC 01 (recovery rate sensitivity).
-
-
-
 ```python
 # Bump recovery rate by 1% up
 Flat_recovery_rate_1 pct_up = flat_recovery_rate + 0.01
@@ -9413,7 +8962,7 @@ For i in range (0,                    3):
     Price_rec_1 pct_up = fixed_rate_bond.CleanPrice ()    
     Price_diff_rec_1 pct_up = price_rec_1 pct_up - price_base
     
-    Ibm_model_rec 01.Append (price_diff_rec_1 pct_up)
+    Ibm_model_rec 01. Append (price_diff_rec_1 pct_up)
 
 # Display relevant metrics
 Ibm_df['REC 01'] = ibm_model_rec 01
@@ -9426,8 +8975,6 @@ print (ibm_df [['security',                    'REC01']])
     BBG 00 P 3 BLH 05    IBM 3.3 05/15/26  0.005857
     BBG 00 FVNGFP 3    IBM 3.3 01/27/27  0.009410
     BBG 00 P 3 BLH 14  IBM 3 1/2 05/15/29  0.029299
-
-
 -----------------------------------------------------------
 # Problem 3: Perpetual CDS
 We are interested in a perpetual CDS contract (infinite maturity) on a face notional of $100,                    flat interest rate of 4% and coupon of 5% (quarterly payments).
@@ -9453,9 +9000,6 @@ PV_{CDS} = PV_{CDS\_PL} - PV_{CDS\_DL}
 $$\begin{align}
 CDS\_ParSpread = c \cdot \frac{PV_{CDS\_DL}}{PV_{CDS\_PL}} \simeq \left (1-R\right)\cdot h
 \end{align}$$
-
-
-
 ```python
 Def calc_perpetual_cds_premium_leg_pv (c,                    r,                    h,                    R,                    face):
     Return (c / 4 / (np.Exp ((r+h)/4)-1) * face)
@@ -9471,9 +9015,6 @@ Def calc_perpetual_cds_par_spread (c,                    r,                    h
 ```
 
 ## a. Compute the fair value of the CDS premium and default legs.
-
-
-
 ```python
 # Constant model parameters
 R = 0.04
@@ -9492,11 +9033,7 @@ Print ('perpetual_cds_default_leg_pv: ',                    round (perpetual_cds
 ```
 
     Perpetual_cds_premium_leg_pv: 99.38
-
-
 ## b. Compute the CDS PV and the CDS Par Spread.
-
-
 ```python
 Perpetual_cds_pv = calc_perpetual_cds_pv (c,                    r,                    h,                    R,                    face)
 Print ('perpetual_cds_pv: ',                    round (perpetual_cds_pv,                    2))
@@ -9513,17 +9050,12 @@ Print ('perpetual_cds_par_spread_approx_bps: ',                    round (perpet
     Perpetual_cds_pv: 87.38
     Perpetual_cds_par_spread_bps: 60.38
     Perpetual_cds_par_spread_approx_bps: 60.0
-
-
 ## c. Compute the following CDS risk sensitivities:
 - IR 01 (PV sensitivity to Interest Rate change of '-1 bp')
 - HR 01 (PV sensitivity to Hazard Rate change of '-1 bp')
 - REC 01 (PV sensitivity to Recovery Rate change of '+1%')
 
 Using the scenario method.
-
-
-
 ```python
 # CDS IR 01 
 R_1 bp_down = r - 0.0001
@@ -9548,23 +9080,17 @@ R_1 pct_up = R + 0.01
 Perpetual_cds_pv_R_1 pct_up = calc_perpetual_cds_pv (c,                    r,                    h,                    R_1 pct_up,                    face)
 Perpetual_cds_rec 01 = perpetual_cds_pv_R_1 pct_up - perpetual_cds_pv
 Print ('perpetual_cds_rec 01 ($): ',                    round (perpetual_cds_rec 01,                    2))
-
-
 ```
 
     Perpetual_cds_ir 01 ($): 0.18
     Perpetual_cds_hr 01 ($): 0.3
     Perpetual_cds_cs 01 ($): 0.49
     Perpetual_cds_rec 01 ($): 0.2
-
-
 ## d. At what time T does the (implied) default probability over next 10 years drop to 1%?
 
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,                    T+10] \right) = 1/100
 \end{align}$$
-
-
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,                    T+10] \right)
 \end{align}$$
@@ -9580,8 +9106,6 @@ $$\begin{align}
 $$\begin{align}
 = e^{-h \cdot T}\cdot \left (1 - e^{-h \cdot 10} \right).
 \end{align}$$
-
-
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,                    T+10] \right) = 1/100
 \end{align}$$
@@ -9593,8 +9117,6 @@ $$\begin{align}
 $$\begin{align}
 \iff T = \frac {\ln \left (100 \cdot \left (1 - e^{-h \cdot 10} \right) \right)} {h}
 \end{align}$$
-
-
 ```python
 # Calc T:
 T = np.Log (100*(1-np.Exp (-h*10)))/h
@@ -9602,8 +9124,6 @@ Print ('T =',                    T)
 ```
 
     T = 225.3001724944001
-
-
 -----------------------------------------------------------
 # Problem 4: Nelson-Siegel model for smooth hazard rate curves
 
@@ -9618,8 +9138,6 @@ Load the symbology + market data dataframes and create a combined dataframe for 
 Sort the dataframe by bond maturity and display the head of the dataframe.
 
 Plot the VZ yields (Y-axis) by TTM (X-axis).
-
-
 ```python
 # Corp_symbology_vz
 Corp_symbology_vz = bond_symbology[(bond_symbology. Ticker == 'VZ') & (bond_symbology. Cpn_type == 'FIXED') & (bond_symbology. Amt_out > 100)]
@@ -9637,8 +9155,6 @@ Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond TTM')
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9805,30 +9321,13 @@ Plt. Set_xlabel ('Bond TTM')
 </table>
 <p>5 rows × 33 columns</p>
 </div>
-
-
-
-
-
     Text (0.5,                    0,                    'Bond TTM')
-
-
-
-
-    
 ![png](CreditMarketSolutions_279_2.png)
-    
-
-
 ## b. Create the Nelson-Siegel curve shape (4 parameters) and compute the corresponding SSE function.
 For a given set of parameters,                    write a function to compute the SSE "Sum of Squared Errors" penalty function in price space (defined as sum of squared differences between model and market prices for all Verizon fixed-rate bonds).
-
-
 For each bond,                    compute the bond DV 01,                    using Section "9. Analytical Duration" in the QuantLib Basics notebook as a template.
 
 Use 1/DV 01 as SSE weights,                    as discussed in Lecture 3. You can ignore the liquidity adjuster for the purpose of this exercise.
-
-
 ```python
 Def nelson_siegel (params,                    maturity):
     ''' params = (theta 1,                    theta 2,                    theta 3,                    lambda)'''        
@@ -9858,8 +9357,6 @@ Def create_nelson_siegel_curve (calc_date,                    nelson_siegel_para
     Nelson_siegel_credit_curve_handle = ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)
     
     Return (nelson_siegel_credit_curve_handle)
-
-
 Def calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,                    
                       Calc_date,                    
                       Fixed_rate_bond_objects,                    
@@ -9908,14 +9405,10 @@ Def nelson_siegel_sse (nelson_siegel_params,
         Sse += model_error * model_error * calib_weights[i]                        
     
     Return (sse)    
-
-
 Def create_bonds_and_weights (bond_details,                    tsy_yield_curve_handle):
     
     # risk_free_bond_engine
     Risk_free_bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_handle)
-
-
     Fixed_rate_bond_objects = []
     Bond_market_prices = []    
     Bond_yields = []
@@ -9947,8 +9440,6 @@ Def create_bonds_and_weights (bond_details,                    tsy_yield_curve_h
     Return (fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations)
 
 ```
-
-
 ```python
 # Bond_recovery_rate
 Bond_recovery_rate = 0.4
@@ -9974,9 +9465,6 @@ Print ('initial_sse =',                    initial_sse)
 ```
 
     Initial_nelson_siegel_params: [0.03,                    -0.01,                    0.02,                    5.0]
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -10040,11 +9528,7 @@ Print ('initial_sse =',                    initial_sse)
   </tbody>
 </table>
 </div>
-
-
     Initial_sse = 25.591932200527502
-
-
 ## c. Calibrate the Nelson-Siegel model parameters to obtain the smooth Verizon credit curve.
 
 Use the US "on-the-run" Treasury yield curve (already calibrated in Problem 1) for risk-free discounting.
@@ -10052,8 +9536,6 @@ Use the US "on-the-run" Treasury yield curve (already calibrated in Problem 1) f
 Minimize the SSE (pricing error) function to obtain the optimal/calibrated Nelson-Siegel parameter vector. 
 
 Create the calibrated/smooth credit curve corresponding to the optimal model parameters.
-
-
 ```python
 From scipy. Optimize import minimize
 
@@ -10077,14 +9559,8 @@ Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,
                                                     Tsy_yield_curve_handle,                    
                                                     Bond_recovery_rate),                   
                                             Bounds = param_bounds)
-
-
     Return (calib_results)
-
-
 ```
-
-
 ```python
 # Calibrate_nelson_siegel_model
 Calib_results = calibrate_nelson_siegel_model (initial_nelson_siegel_params,                    calc_date,                    vz_df,                    tsy_yield_curve_handle,                    bond_recovery_rate)
@@ -10115,8 +9591,6 @@ Print ('initial_sse =',                    round (initial_sse,                  
      hess_inv: <4x4 LbfgsInvHessProduct with dtype=float64>
     Calib_nelson_siegel_params: [ 2.11506077 e-02 -2.07855183 e-02 -1.99811247 e-06  2.65774329 e+00]
     Initial_sse = 25.592 calib_sse = 0.21
-
-
 ## d. Compute smooth model prices,                    yields and "edges"
 
 Price all Verizon bonds on the calibrated credit curve and compute the corresponding model yields and edges.
@@ -10125,9 +9599,6 @@ Add following columns to the dataframe and display the head of the results:
 
 | modelPrice | modelYield | edgePrice | edgeYield |
 |----------|----------|----------|----------|
-
-
-
 ```python
 # Price all Verizon bonds on the calibrated credit curve and compute the corresponding yields.
 Bond_model_prices,                    bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    tsy_yield_curve_handle,                    bond_recovery_rate)
@@ -10140,8 +9611,6 @@ Vz_df['edgeYield'] = vz_df['modelYield'] - vz_df['midYield']
 display (vz_df [['security',                    'midPrice',                   'initModelPrice',                    'modelPrice',                    'edgePrice']]. head ())
 display (vz_df [['security',                    'midYield',                   'initModelYield',                    'modelYield',                    'edgeYield']]. head ())
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -10211,9 +9680,6 @@ display (vz_df [['security',                    'midYield',                   'i
   </tbody>
 </table>
 </div>
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -10283,8 +9749,6 @@ display (vz_df [['security',                    'midYield',                   'i
   </tbody>
 </table>
 </div>
-
-
 ## e. Visualize the results of the calibrated credit model
 
 Plot the model vs market prices (Y-axis) by maturity (X-axis).
@@ -10294,8 +9758,6 @@ Plot the model vs market yields (Y-axis) by maturity (X-axis).
 Plot the edges in yield space (Y-axis) by maturity (X-axis).
 
 What do you think about the quality of the model fit?
-
-
 ```python
 # Plot the model vs market prices (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',                    y = ['midPrice',                    'modelPrice'],                    figsize = (12,                    6),                    title = "Market vs Model Prices",                    grid=True,                    style='*')
@@ -10303,21 +9765,8 @@ Plt. Set_ylabel ('Bond Prices (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,                    0,                    'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_289_1.png)
-    
-
-
-
 ```python
 # Plot the model vs market yields (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',                    y = ['midYield',                    'modelYield'],                    figsize = (12,                    6),                    title = "Market vs Model Yields (pct)",                    grid=True,                    style='*')
@@ -10325,21 +9774,8 @@ Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,                    0,                    'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_290_1.png)
-    
-
-
-
 ```python
 # Plot the edges in yield space (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',                    y = ['edgeYield'],                    figsize = (12,                    6),                    title = "Model Edges in yield space (pct)",                    grid=True,                    style='*')
@@ -10348,19 +9784,7 @@ Plt. Set_ylabel ('Yield Edge (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,                    0,                    'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_291_1.png)
-    
-
-
 ### What do you think about the quality of the model fit?
 Model fit looks good,                    given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 Nelson-Siegel model parameters.

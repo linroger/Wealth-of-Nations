@@ -1,8 +1,8 @@
 ---
 cssclasses: academia
-aliases: [LECTURE NOTE 1 FORWARD RATES AGREEMENT,  Alias_181_Teaching Note 1- Forward Rates Agreement.md,  Alias_180_Teaching Note 1- Forward Rates Agreement.md]
+aliases: [LECTURE NOTE 1 FORWARD RATES AGREEMENT,  ]
 linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
-tags: tag_example
+tags: 
 title: Teaching Note 1Forward Rates Agreement
 ---
 

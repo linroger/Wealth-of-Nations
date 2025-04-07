@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_171_Ch1 Introduction to Derivative Markets.md
-- Alias_172_Ch1 Introduction to Derivative Markets.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Ch1 Introduction to Derivative Markets
 ---
-
-
-
 # Ch1 Introduction to Derivative Markets
 
 [[C[[Ch1 Introduction to Derivative Markets]]vative Markets]]
@@ -79,4 +76,4 @@ Cash flows associated with short-selling a share of IBM for 90 days. $S_0$ and S
 | Security | Sell shares | - | Purchase shares |
 | Cash | $+S_0$ | - D | $-S_0$ |
 
-![](IMG-20240913171226948.png)
+ ![500](IMG-20240913171226948.png)

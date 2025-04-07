@@ -82,11 +82,12 @@ The recession resulting from the financial crisis in 2008 illustrates the diffic
 | 1854-1919 (16 cycles)   |                    | 22                   | 27                 | 48             | 49                               |
 | 1919-1945 (6 cycles)    |                    | 18                   | 35                 | 53             | 53                               |
 | 1945-2020 (13 cycles)   |                    | 10                   | 64                 | 70             | 75                               |
+|                         |                    |                      |                    |                |                                  |
+|                         |                    |                      |                    |                |                                  |
+$$\text{Annualized Return} = \left ( \left (1 + \frac{\text{Total Return}}{100} \right) ^ \frac{1}{\text{Number of Years}} \right) - 1 $$
 
-### DURATION IN MONTHS
-
-```LaTeX
-$$\begin{table}[]
+```latex
+\begin{document}
 \centering
 \begin{tabular}{|l|l|c|c|c|c|}
 \hline
@@ -134,9 +135,9 @@ Feb. 2020 (2019 IV) & April 2020 (II)    & 2     & 128 & 130 & 146 \\ \hline
 1919-1945 (6 cycles) &  & 18 & 35 & 53 & 53 \\ \hline
 1945-2020 (13 cycles) &  & 10 & 64 & 70 & 75 \\ \hline
 \end{tabular}
-\caption{Business Cycle Reference Dates}
-\end{table}$$
+\end{document}
 ```
+### DURATION IN MONTHS
 
 Average, all cycles: 1854-2009 34cycles 1854-1919 (16 cycles) 1919-1945 (6 cycles) 1945-2020 (13 cycles)
 
@@ -164,7 +165,7 @@ There has been much research done recently about the causes and implications of 
 
 In comparing the run-up and aftermath of severe postwar financial crises in advanced economies, the similarities are amazing. For example, on average over the severe crises, output and employment decline significantly following the onset of crises and the decline lasts a long time.The unemployment rate rises about 8 percentage points on average (the rate rose about 5-1/2 percentage points in the U.S.), and this down phase of the business cycle lasts about 6 years. Real GDP falls (from peak to trough) about $4.5\%$ on average (GDP declined $4-1/4\%$ in the United States). Moreover, the recessions surrounding financial crises are about twice as long as normal recessions (during the post war period, the average length of a U.S.recession has been 11 months whereas the 200809 recent recession lasted 18 months). Further it takes on average about 4-1/2 years for real GDP per capita to return to its pre-crisis level (it took 6 years to regain its pre-crisis level in the most recent episode). For sake of comparison it took about 10 years during the Great Depression of the 1930s.As bad as the recent financial/economic crisis was the worst since the Great Depressionrelated research by Reinhart and Rogoff shows that it has been less severe than many other instances in the history of the United States, even ignoring the Great Depression.For example,the crises of 1893 and 1907 were much more severe(where severity is measured in terms of both depth and duration of the economic downturn).
 
-Specifically,their measure of severity adds the percentage point decline in per capita real GDP (from its peak to trough) to the number of years it takes for per capita real GDP to return to its previous peak level. For example,during the 2007-2009 experience, real per capita GDP declined about 5 percentage points and it took about 6 years for real per capita GDP to return to its previous peak, implying a severity index of 11.By contrast,the severity index was 39 during the U.S.Great Depression of the 1930s.The corona-virus recessionof course not a financial crisiswas over after two quarters.Real GDP per capita declined about 11 percentage points from 2019 Q4 to 2020Q2 and it took roughly 2years for real GDPper capita toreturn to its pre-recession level; this implies a severity index of about 13.
+Specifically,their measure of severity adds the percentage point decline in per capita real GDP (from its peak to trough) to the number of years it takes for per capita real GDP to return to its previous peak level. For example,during the 2007-2009 experience, real per capita GDP declined about 5 percentage points and it took about 6 years for real per capita GDP to return to its previous peak, implying a severity index of 11. By contrast,the severity index was 39 during the U.S.Great Depression of the 1930s.The corona-virus recessionof course not a financial crisiswas over after two quarters.Real GDP per capita declined about 11 percentage points from 2019 Q4 to 2020Q2 and it took roughly 2years for real GDPper capita toreturn to its pre-recession level; this implies a severity index of about 13.
 
 ### Have American business cycles become less severe?
 
@@ -227,6 +228,6 @@ Robert Lucas has noted that business cycles are all very similar with respect to
 
 Cyclical Behavior of Key Variables ("U.S. Business Cycle Facts," post WWII)
 
-![](Attachments/Z. Clippings/fVHqS8HZrx05lFPeleWoACIGyqCfPWIaU.png)
+ ![500](Attachments/Z. Clippings/fVHqS8HZrx05lFPeleWoACIGyqCfPWIaU.png)
 
 A second important characteristic of [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] behavior is the timing of a variable's turning points relative to the turning points of the business cycle. An economic variable is a leading variable if it tends to move in advance of aggregate economic activity. That is, the peaks and troughs in a leading variable occur before the corresponding peaks and troughs in the business cycle. A leading variable does not necessarily help forecast the future course of the economy. For example, a downturn in the stock market is not an infallible indicator of an incipient recession. As Paul Samuelson once noted,*Wall Street indexes predicted nine of the last five recessions.”A lagging variable is one whose peaks and troughs tend to occur later than the corresponding peaks and troughs in the business cycle.A coincident variable is one whose peaks and troughs occur at about the same time as the corresponding business cycle peaks and troughs.

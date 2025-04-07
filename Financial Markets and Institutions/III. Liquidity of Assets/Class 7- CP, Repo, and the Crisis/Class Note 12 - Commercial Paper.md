@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Example_Alias_Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]
-  - Alias_39_Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]].md
+  - Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]
+  - Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]].md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#financial-instruments"
   - "#financial-markets"
   - "#credit-cycles"

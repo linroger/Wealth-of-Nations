@@ -64,9 +64,9 @@ $$The\ long\ term\ yield=\ forecasted\ average\ path\ of\ future\ rates$$$$y_{t}
 ## PRELIMINARY HEURISTIC EVIDENCE - DOES THIS RELATION HOLDS IN THE DATA?
 - Heuristically,  next figure plots the expected future three-month rates from the survey of Professional Forecasters from 1981 to 2015.
 - The forecasts are for the three-month T-bill rate for the current quarter,  denote in the figure by$r(t)$,  and for the next three quarters,  denoted by$r(t + 3m)$,  $r(t + 6m)$,  and$r(t + 9m)$,  respectively.
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072858865.png
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072858865.png
 - Next figure shows the 1-year term spread,  defined as yt(1y) − r(t) together with the 1-year "expectation spread".
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072953056.png The 1-year term spread is greater than the "expectation spread" most of the time.
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405072953056.png The 1-year term spread is greater than the "expectation spread" most of the time.
 	- the expectation hypothesis does not hold (at least,  using survey forecasts).
 ## THE EXPECTATION HYPOTHpng AND FORWARD RATES
 # Forward Rates and Term Structure
@@ -88,7 +88,7 @@ $$\sum_{i=2}^{n}f_{t}(\tau_{i-1},        \tau_{i})=\frac{1}{\Delta t}\left(y_{t}
 $$y_{t}(\tau_{n})=\frac{\Delta t}{\tau_{n}}\sum\limits_{i=1}^{n}f_{t}(\tau_{i-1},        \tau_{i})=\mbox{Average forward rates}\tag{4}$$
 - The expectation hypothesis then implies that for every i the forward rate is equal to the expected future short-term rate:
 $$f_{t}(\tau_{i},        \tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)].$$
--![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405073248911.png Again,  expected future rates are mostly lower than forward rates.
+- ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405073248911.png Again,  expected future rates are mostly lower than forward rates.
 ## TIME VARYING RISK PREMIA
 - The violation of the [[Lecture 7-Risk and Return of Bonds#7.4 Expectations hypothesis|expectations hypothesis]] (and the time variation in sprepnguggests the existence of an additional term in Equation (1):
 $$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]+RP_{t}\tag{5}$$
@@ -119,7 +119,7 @@ $$y_{t}\left(n+1\right)\,        =\,        \frac{1}{n+1}\times y_{t}\left(1\rig
 - A steep term structure (on the RHS) signals the market expects an increase in the yield$y_t (n + 1)$between$t$and$t + 1$(on the LHS)
 $$E_{t}\left[y_{t+1}\left(n\right)\right]>y_{t}\left(n+1\right)$$
 	- market expects a low or negative return on$(n + 1)$maturity bond.
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074610622.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074610622.webp)
 - Example: On t =1/31/1994 yield curve was increasing and the spread was 3.3%.
 - High spread *may* signalpng-term yield$y_t(30)$= 6.87% may increase.
 - And indeed,  it did:$t + 1 =$1/31/1995 we have$y_{t+1}(29) = 7.81\%.$
@@ -157,7 +157,7 @@ Notes: Regression results based on Fama Bliss discount bond data from CRSP. Samp
 - *β <* 0 =⇒ steep yield curve predicts a **decrease** of long-term yield.
 	- This is the opposite of the basic simple intuition about a raising yield curve.
 - Bottom line: A steep yield curve predicts high returns of long-term bonds.
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074821841.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074821841.webp)
 - Example: On t =1/30/2004 yield curve was increasing and the spread was 4.1%.
 - In the data,  high spread forecast a decline of long-term yield$y_t(30) = 5.347\%$.
 - And indeed,  it did
@@ -272,7 +272,7 @@ Reference CPI$(t)\ =\ w(t)\ \mbox{CPI}(t-1)+(1-w(t))\ \mbox{CPI}(t-2)$
 	- Given the index ratio,         the next coupon payment is
 Coupon payment$(t)=\dfrac{\text{Coupon rate}}{2}\times100\times\text{Index ratio}(t)$
 ## TREASURY SECURITIES ON NOVEMBER 26,         2007
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081418999.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081418999.webp)
 Data Source: Bloomberg,         Inc.
 ## REFERENCE INDEX EXAMPLE
 -  The quotes in the Table are for November 26,         2007. -  The CPI used to comppngdex ratio is not the November CPI.
@@ -327,10 +327,10 @@ discount factor,         such as the Nelson Siegel model
 $$r_{real}(0,        T)\ =\ \theta_{0}+(\theta_{1}+\theta_{2})\,        \frac{1-e^{-\frac{T}{\kappa_{1}}}}{\frac{T}{\kappa_{1}}}-\theta_{2}e^{-\frac{T}{\kappa_{1}}}+\theta_{3}\left(\frac{1-e^{-\frac{T}{\kappa_{2}}}}{\frac{T}{\kappa_{2}}}-e^{-\frac{T}{\kappa_{2}}}\right)\tag{24}$$
 - From the previous table,         for instance,         we obtain the following results
 ## REAL AND NOMINAL RATES ON NOVEMBER 26,         2007
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081803258.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081803258.webp)
 Data Source: Bloomberg.
  -  NEXT FIGURE SHOWS THAT THE TERM STRUCTURE OF REAL RATES CHANGES OVER TIME. REAL RATES DURING AND AFTER THE CRISIS
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081827409.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081827409.webp)
 -  Negative *real* rates are not uncommon.
 - We give back our "friend" a smaller sandwich because its price skyrocketed.
 ## NOMINAL AND REAL INTEREST RATES
@@ -434,10 +434,10 @@ $$r_{r e a l}(0,        T)=\rho+\gamma\overline{{{g}}}-\frac{\gamma^{2}}{2}\sigm
 -  In the meantime,         real GDP volatility σg and inflation volatility σπ declined.
 -  All of these variation are bound to impact the risk premium.
 ## QUARTERLY REAL GDP GROWTH AND CPI INFLATION QUARTERLY REAL GDP GROWTH AND CPI INFLATION
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405082451473.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405082451473.webp)
 Data Source: Federal Reserve of St. Louis Data Source: Federal Reserve of St. Louis
 ## CORRELATION AND REAL GDP GROWTH AND CPI INFLATION VOLATILITIES. 
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405233914662.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405233914662.webp)
 ## EXPECTED EXCESS RETURN: THE MARKET MODEL
 -  Another way to understand the risk premium of nominal bonds is to look at its
 variation with the stock market
@@ -452,13 +452,13 @@ and the corresponding CAPM beta.
 - Mid 2000s: *Fear of deflation* (low inflation and low growth)
 =⇒ high inflation shocks are good news for the economy =⇒ nominal bonds drop but stock rise
 ## THE COVARIANCE BETWEEN STOCKS AND BONDS,         AND THE CAPM BOND
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234100364.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234100364.webp)
 Source: David and Veronesi (2016) "The Economics of the Comovement of Stocks and Bonds" in the Handbook of Fixed Income,         Pietro
 ## NOMINAL AND REAL STOCK BETAS
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234120813.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234120813.webp)
 Source: Caroline Pflueger (2024) "Back to the 1980s or Not? The Drivers of Inflation and Real Risks in Treasury Bonds"
-Note: This figure shows betas from regressing quarterly ten-year Treasury bond excess returns onto quarterly US equity excess returns over five-year rolling windows for the period 1979.Q4-2022.Q3. Quarterly excess returns are in excess of three-month T-bills. Prior to 1999,         I replace US Treasury Inflation Protected (TIPS)
-returns with UK ten-year linker returns. Bond excess returns are computed from changes in yields. Zero coupon yield curves from Gurkaynak,         Sack and Wright (2006,         2008) and the Bank of England. Vertical lines indicate 2001.Q2 and the start of the pandemic 2020.Q1.
+Note: This figure shows betas from regressing quarterly ten-year Treasury bond excess returns onto quarterly US equity excess returns over five-year rolling windows for the period 1979. Q4-2022.Q3. Quarterly excess returns are in excess of three-month T-bills. Prior to 1999,         I replace US Treasury Inflation Protected (TIPS)
+returns with UK ten-year linker returns. Bond excess returns are computed from changes in yields. Zero coupon yield curves from Gurkaynak,         Sack and Wright (2006,         2008) and the Bank of England. Vertical lines indicate 2001. Q2 and the start of the pandemic 2020. Q1.
 Simsek (2022),         Bianchi,         Lettau and Ludvigson (2022a),         Bianchi,         Ludvigson and Ma (2022c)).
 ## MORE GENERAL FORMULAS
 -  All previous formulas have "flat" term structures: r(0,         T) and rreal(0,         T) do not depend on T.
@@ -488,7 +488,7 @@ $$r(t,        T)=\frac{-A(t,        T)}{T-t}+\frac{B(t,        T)}{T-t}\ \pi_{t}
   - \frac{1}{4} \gamma^2 \sigma_{\pi}^2 B(t,         T)^2 - \gamma \rho_{\pi g} \sigma_{\pi} \sigma_g B(t,         T) C(t,         T)
   $$
 
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405235507207.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405235507207.webp)
 
 - Many risk premia are accounted for in bond pricing:
 	  1. **Inflation risk premium**:$\gamma \sigma_{\pi} \rho_{\pi g} \sigma_g$. If$\rho_{\pi g} < 0 \Rightarrow Z(t,         T) \uparrow \Rightarrow r(t,         T) \uparrow$
@@ -538,7 +538,7 @@ actually is.
 we estimate the following parameters for November 27,  2007:
 $$\beta_{g}^{*}=0.0166,        \;\;\;\bar{r}_{r e a l}^{*}=0.1695,        \;\;\;r_{r e a l}=0.0046$$
 - The fit is not as good as with the Extended Nelson-Siegel model in this case. - Next figure shows the fitted term structure of real rates.
-![](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240406000703291.webp)
+ ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240406000703291.webp)
 ## CONCLUSIONS
 - The term structure of interest rate depend on:
 1. Expectation of future inflation 2. Expectation of future real growth 3. A whole set of risk premia

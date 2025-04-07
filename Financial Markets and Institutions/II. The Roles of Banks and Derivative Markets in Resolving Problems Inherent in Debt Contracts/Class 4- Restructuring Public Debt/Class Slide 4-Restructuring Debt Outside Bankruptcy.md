@@ -567,7 +567,7 @@ Suppose a fraction f=0.99 of other bonds are exchanged to the new bond
 
 After Per unit holding Per unit holding of old Total value,  if $B=0.3$
 
-![](https://storage.simpletex.cn/view/fOtlGESXSvXHxtOgVATiwG2IH0Fo3rCpg)
+ ![500](https://storage.simpletex.cn/view/fOtlGESXSvXHxtOgVATiwG2IH0Fo3rCpg)
 
 New bond has face value of P'=1 and is senior to old bond with face P=1.6 holdouts.
 

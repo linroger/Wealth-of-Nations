@@ -1,13 +1,11 @@
 ---
 aliases:
-- Alias_175_Interest Rates, Carry Trades, and Exchange Rate Movements.md
-- Alias_174_Interest Rates, Carry Trades, and Exchange Rate Movements.md
+- Interest Rates, Carry Trades, and Exchange Rate Movements.md
+- Interest Rates, Carry Trades, and Exchange Rate Movements.md
 tags:
-- tag_example
+- 
 title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 ---
-
-
 # Interest Rates, Carry Trades, and Exchange Rate Movements
 
 Federal Reserve Bank of San Francisco

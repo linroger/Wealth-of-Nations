@@ -1,9 +1,9 @@
 ---
 cssclasses: academia
-aliases: [Alias_97_Lessons From The Crisis.md,  Example_Alias_Lessons From The Crisis]
+aliases: [Lessons From The Crisis.md,  Lessons From The Crisis]
 tags:
-  - tag_example
-  - example_tag
+
+  - 
 title: Lessons From The Crisis
 ---
 

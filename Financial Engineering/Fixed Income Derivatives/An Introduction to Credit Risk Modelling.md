@@ -104,7 +104,7 @@ $$
 
 It is common to use the above equation, but with the probability measure  $P^{\star}$   substituted with  $\mathcal{Q}^{\star}$  .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f549af2ab5d69124b7b3d1f6574a6abcac6e6c3c6090e53ae24fafcb43b0868.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f549af2ab5d69124b7b3d1f6574a6abcac6e6c3c6090e53ae24fafcb43b0868.jpg)
 
 Default able zero-coupon bond
 
@@ -185,7 +185,7 @@ There are three main quantitative approaches to analysing credit. In the  struct
 
 Abukar Ali is a research partner with YieldCurve.com.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcd80beba484b7e7ee5be05eb556b1146c15a9af6db2bc2f6f7daf6b29456100.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcd80beba484b7e7ee5be05eb556b1146c15a9af6db2bc2f6f7daf6b29456100.jpg)
 
 # References
 

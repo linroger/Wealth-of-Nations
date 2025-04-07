@@ -1,16 +1,14 @@
 ---
 aliases:
 - CONTINUOUSLY COMPOUNDING INTEREST
-- Alias_188_Continuously Compounding Interest.md
-- Alias_187_Continuously Compounding Interest.md
+- 
+- 
 linter-yaml-title-alias: CONTINUOUSLY COMPOUNDING INTEREST
 tags:
-- tag_example
+- 
 - TA_Session
 title: CONTINUOUSLY COMPOUNDING INTEREST
 ---
-
-
 # CONTINUOUSLY COMPOUNDING INTEREST
 
 #TA_Session

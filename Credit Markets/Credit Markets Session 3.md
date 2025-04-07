@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_341_Credit Markets Session 3.md
-- Alias_338_Credit Markets Session 3.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Session 3
 ---
-
-
-
 # Credit Markets Session 3
 1. CDS pricing in the Hazard Rate Model
 	- CDS cash-flows
@@ -27,11 +24,11 @@ title: Credit Markets Session 3
 
 ## REMINDER : CDS CASH-FLOWS DIAGRAM
 
-![](02e885a66702d7f24bcf990b5c66ca08.png)
+ ![500](02e885a66702d7f24bcf990b5c66ca08.png)
 
 ## CDS CUMULATIVE CASH-FLOWS (PREMIUM AND DEFAULT LEGS)
 
-![](590457ab2abdc6df18add125abb4adb4.png)
+ ![500](590457ab2abdc6df18add125abb4adb4.png)
 
 ## RISK NEUTRAL VALUATION FRAMEWORK
 - Each instrument uniquely defined by its cumulative future cash-flows
@@ -195,9 +192,7 @@ $$ = \sum_{k=1}^{4T} \frac{c}{4} \cdot e^{-k \cdot (r+h)/4} - \frac{(1 - R) \cdo
 $$ = \left[ \frac{c/4}{e^{(r+h)/4} - 1} - \frac{(1 - R) \cdot h}{r + h} \right] \cdot \left[ 1 - e^{-T \cdot (r+h)} \right] \tag{45} $$
 $$ \approx \left[ c - (1 - R) \cdot h \right] \cdot \frac{1 - e^{-T \cdot (r+h)}}{r + h} \tag{46} $$
 ## CDS VALUATION SURFACE (5% FLAT INTEREST RATES,      5% COUPON) 
-![](ff4daa49d51e35f704363ecc48e1f397.png)
-
-
+ ![500](ff4daa49d51e35f704363ecc48e1f397.png)
 ISDA CDS "CURVE SHAPE" MODEL
 - Uses reference ISDA SNAC discount curve,      flat recovery and piece-wise constant hazard rate 
 - Calibrate piece-wise flat hazard rate curve using sequential "Bootstrapping" over CDS maturities 
@@ -206,9 +201,7 @@ ISDA CDS "CURVE SHAPE" MODEL
 - ISDA SNAC swap/discount curve definition:
 	- Curve calibrated to 3M [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] until Oct 2022 
 	- Curve calibrated to 3M SOFR after Oct 2022
-
-
-![](bcf4324ce737732237aa9cd687528bcf.png)
+ ![500](bcf4324ce737732237aa9cd687528bcf.png)
 ##  BOND PRICING IN THE HAZARD RATE MODEL 
 #### FIXED LEG VALUATION:
 - Risky semi-annual coupons $c$ at times $\{ T_i \}^n_{i=1}$ and principal payment at maturity $T = T_n$
@@ -228,7 +221,7 @@ $$ = 1 + \left[\frac{c}{2} - \frac{(e^{\frac{r+h}{2}} - 1)}{e^{\frac{r+h}{2}} - 
 $$ \approx 1 + \left[ \frac{c - r - (1 - R) \cdot h}{r + h} \right] \cdot [1 - e^{-T \cdot (r+h)}] \tag{55} $$
 
 ## BOND VALUATION SURFACE USING HAZARD RATE MODEL 
-![](b090a10c674e9619ed30797c6a98325e.png)
+ ![500](b090a10c674e9619ed30797c6a98325e.png)
 
 ## YIELD/SPREAD MODEL VS HAZARD RATE MODEL HAZARD RATE VS YIELD/SPREAD MODELS (FLAT PARAMETERS)
 Bond valuation in flat "yield/spread" model:
@@ -259,11 +252,8 @@ SUMMARY OF HAZARD RATE MODEL
 	- using same survival probability/hazard rate curve (default time is common to all instruments) 
 	- … but different recovery rates.
 - Consistent framework for identifying dislocations across maturities and seniority ranks!
-
-
-
 CREDIT CURVE SHAPES: VZ VS US TREASURY YIELDS CALIBRATION OF THE HAZARD RATE MODEL 
-![](63cb053f2afd6bf0d66b64295ea9749b.png)
+ ![500](63cb053f2afd6bf0d66b64295ea9749b.png)
 
 CALIBRATION OF THE HAZARD RATE MODEL
 - Decide on a functional form for the Hazard Rate curve:
@@ -292,7 +282,7 @@ CALIBRATION OF THE HAZARD RATE MODEL
 - OAS "dislocated" from zero =) opportunity for bond vs CDS basis arbitrage trade!
 
 ## BOND VS CDS BASIS EXAMPLE: VZ CURVE 
-![](7152aea3e4bab8153540da4ee622c989.png)
+ ![500](7152aea3e4bab8153540da4ee622c989.png)
 ## Q &A
 - Hazard rate model formulas 
 - CDS pricing Bond pricing

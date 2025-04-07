@@ -26,6 +26,7 @@ title: International Finance
 		- [[Globalization]]
 	- [[International Finance]]
 	- [[Lecture Notes on International Finance]]
+	- **[[Navigating Big Debt Crises]]**
 	- [[The Balance of Payments]]
 	- [[The Eurocurrency and Eurobond Markets Annotations]]
 	- [[The Foreign Exchange Market Annotations]]

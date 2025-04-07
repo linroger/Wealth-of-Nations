@@ -1,9 +1,9 @@
 ---
 cssclasses: academia
-aliases: [Alias_159_Lecture Note 6-Implied Volatility.md,  Alias_158_Lecture Note 6-Implied Volatility.md,  LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
+aliases: [  LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
   CARLO SIMULATION
-tags: tag_example
+tags: 
 title: Lecture Note 6-Implied Volatility
 ---
 

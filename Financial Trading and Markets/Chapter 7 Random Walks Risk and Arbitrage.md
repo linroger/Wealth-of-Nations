@@ -26,7 +26,7 @@ One particular version of a continuous time-space random walk is a standard  Bro
 1.  Changes in  $Z_{t}$   over time are independent over disjoint (non-overlapping) intervals of time; that is,  $\mathrm{COV}(Z_{s}-Z_{\tau},\,Z_{u}-Z_{v},)=0$   when  $s>\tau>u>v$  .  
 
 3  $\Omega$  Mathematicians characterize a probability space as consisting of three types of elements: a sample space  of all potential outcomes (e.g., a particular future state of the world), a filtration  ${\mathcal F}.$  , roughly characterized as the information set or history required for valuation (e.g., the security’s price history), and an associated probability measure    $\mathbb{P}$  that maps subsets from    $\Omega$   to [0,1]. Readers are likely to encounter this sort of somewhat formal notation in some finance books (See  Knopf and Teall, 2015  for more complete explanations), but understanding these more technical mathematical definitions is not essential for the remainder of this text.  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7233cc7506105a02a17d314e36f7453cd72e6c8b42f0dc2e446553bc0d26d068.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7233cc7506105a02a17d314e36f7453cd72e6c8b42f0dc2e446553bc0d26d068.jpg)  
 FIGURE 7.1 Brownian motion: a fractal.  
 
 2.  Changes in  $Z_{t}$   are normally distributed with   $\mathrm{E}[Z_{t}-\,Z_{\tau}]=0$   (standard Brownian motion also a martingale) and  $\dot{\mathrm{E}}[(Z_{t}-Z_{\tau})^{2}]=t-\tau$   for  $t>\tau$  . Thus,   $(Z_{t}-Z_{\tau})\sim\mathrm{N}(0,\,t{-}\tau)$  . 3.  $Z_{t}$   is a continuous function of  t . 4.  The process begins at zero,  $Z_{0}=0$  .  
@@ -78,7 +78,7 @@ $$
 
 where  $R_{t}$   represents the return realized during historical period    $t$  :    $(R_{t}=[(P_{t}-\,P_{t\mathrm{~-~}1})/P_{t\mathrm{~-~}1}])$  in this    $n$   time period framework.  Table 7.1  presents sample monthly historical price data for GM stock along with monthly returns computed from these prices. We see below that the traditional sample monthly variance estimator for this stock based on these 23 returns equals 0.012:    $\begin{array}{r}{\sigma_{H}^{2}=\dot{\sum_{t=1}^{n}{(R_{t}-\check{R}_{t})^{2}}}/(n-1)=0.012.}\end{array}$   P   012. If we were to assume that returns follow a Brownian motion process (or at least assume that stock returns are uncorrelated over time), the annualized variance would be   $0.144=0.012\times12.$  . Use of the traditional sample estimator to forecast variance requires the assumption that stock return variances are constant over time, or more specifically, that historical return variance is an appropriate indicator of future return variance. While this can often be a reasonable assumption, firm risk conditions can change and it is well documented that price volatility does fluctuate over time (see, for example,  Officer, 1971 ). In addition, note that the sample variance estimator rather than the  
 TABLE 7.1 Traditional Sample Estimators for GM Stock, October 2000 to September 2002 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b39d7658c1873b6417c897766a17c35d031f712606a2686c96787f1546ba1cf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b39d7658c1873b6417c897766a17c35d031f712606a2686c96787f1546ba1cf.jpg)  
 
 population estimator is proposed in  Equation (7.2) . This difference becomes more significant with smaller samples.  
 
@@ -134,7 +134,7 @@ $$
 
 This is the more general form of the Parkinson estimator. We should obtain an intraday highs and lows for each of the 24 months, and then square the sum of their logs. The constant,  $0.361,$   is the normal density function constant,  $1/\sqrt{2\pi}$  ﬃﬃﬃﬃﬃﬃ .  
 
-6 This section assumes a background in or a basic understanding of the Black-Scholes options pricing model. If necessary, see Section 7.A.2 in this chapter’s appendix for a review of options and the Black-Scholes option pricing model and  Section 7.A.3  for additional discussion and examples of estimating implied vol at ili ties.  
+6 This section assumes a background in or a basic understanding of the Black-Scholes options pricing model. If necessary, see Section 7. A.2 in this chapter’s appendix for a review of options and the Black-Scholes option pricing model and  Section 7. A.3  for additional discussion and examples of estimating implied vol at ili ties.  
 where    $r_{f}$   equals the monthly riskless return rate and  $X$   is the option striking price. If investors use the Black-Scholes option pricing model to value calls, the following must hold:  
 
 $$
@@ -148,9 +148,9 @@ Unfortunately, the system of equations required to obtain an implied variance ha
 Table 7.2  presents, describes, and compares basic risk measures discussed in this chapter. There is no consensus as to which measure is clearly best, although some measures  
 
 TABLE 7.2 Basic Risk Measures 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23de29773c03460e319cc4ef70b23c137350f1c70fbc3a5bb5c228e2b86c81ec.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23de29773c03460e319cc4ef70b23c137350f1c70fbc3a5bb5c228e2b86c81ec.jpg)  
 
-7 These and other numerical procedures for estimating implied vol at ili ties are discussed in  Section 7.A.3  in the Appendix to this chapter. More discussion of the Black-Scholes and other option pricing models is available in Chapter 9.  
+7 These and other numerical procedures for estimating implied vol at ili ties are discussed in  Section 7. A.3  in the Appendix to this chapter. More discussion of the Black-Scholes and other option pricing models is available in Chapter 9.  
 perform better under some circumstances. Risk measures need to be evaluated on the basis of the availability of appropriate data and appropriateness of underlying assumptions. In addition, all of the measures that we have discussed in this chapter are incomplete in that they do not account for factors such as skewness (unequal concentrations of potential outcomes unequally distributed below and above the mean) and fat tails (kurtosis or high probabilities of extreme events). No single risk measure can serve adequately to capture all sources of security risk. Hence, the trader or securities analyst needs to use judgment in the application and interpretation of risk measures.  
 
 # 7.3 ARBITRAGE  
@@ -206,7 +206,7 @@ Latane, H., & Rendleman, R. (1976). Standard deviations of stock price ratios im
 3.  Suppose a stock price    $S_{t}$   follows a Brownian motion process with an initial price of  $S_{0}=\S50$   and a variance per time period equal to  $\sigma^{2}\,{\overset{.}{=}}\,4$  . What is the probability that the stock price is less than  $\S56$   at time 3?  
 4.  Historical  percentage  stock returns for the Robinson and Boyer Companies are listed in the following chart along with percentage returns on the market portfolio:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0385af33a4f1ece195a3f3bd1e831668df22e40a66c2707ddfbfa22f2d6c9ee2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0385af33a4f1ece195a3f3bd1e831668df22e40a66c2707ddfbfa22f2d6c9ee2.jpg)  
 
 Calculate the following based on the preceding table:  
 
@@ -214,7 +214,7 @@ a.  mean historical returns for the two companies and the market portfolio. b.  
 
 5.  The following table represents outcome numbers, probabilities, and associated returns for Stock A:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db99766b4b7a36b258d5af90d570a235db3dc56bf820466591cd4d14277de26e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db99766b4b7a36b258d5af90d570a235db3dc56bf820466591cd4d14277de26e.jpg)  
 
 Thus, there are 10 possible return outcomes for Stock A. a.  What is the probability associated with outcome 9? b.  What is the standard deviation of returns associated with Stock A?  
 
@@ -223,14 +223,14 @@ Thus, there are 10 possible return outcomes for Stock A. a.  What is the probabi
 
 8.  The following table presents sample daily historical price data for a stock whose returns are given in the third column.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7725e0c3e3abe0e02d4987e0d74cd618ce189f2137b1b860c6ad0f20137b2c08.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6338bafcca2b8dd3ca33d250e4e55249076b5fdb42936e7c17621bf7c17a23f8.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7725e0c3e3abe0e02d4987e0d74cd618ce189f2137b1b860c6ad0f20137b2c08.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6338bafcca2b8dd3ca33d250e4e55249076b5fdb42936e7c17621bf7c17a23f8.jpg)  
 
 a.  Based on a traditional sample estimator, calculate a daily variance estimator for this stock. b.  Assume that returns follow a Brownian motion process (at least that stock returns are uncorrelated over time) and that there are 30 trading days per month. What would be the monthly variance for this stock? c.  What would be the Parkinson extreme value estimated daily returns variance for this stock?  
 
 9.  The following daily prices were collected for each of three stocks over a 12-day period.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0329bd36911d1de591045737a67402d006597225f093de8cf01410033bcd7849.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0329bd36911d1de591045737a67402d006597225f093de8cf01410033bcd7849.jpg)  
 
 Based on the data given above, calculate the following:  
 
@@ -250,21 +250,21 @@ What is the volatility (standard deviation) implied by the market price of this 
 a.    $X=40$  ;  $c_{0}=11.50$  b.  $X=45$ ; $c_{0}\,{=}\,8.25$ c.  $X=50$ ; $c_{0}\,{=}\,4.75$ d.    $X=55$  ;  $c_{0}\,{=}\,2.50$  e.  $X=60$ ; $c_{0}=1.25$  
 
 13.  In principle, simultaneous execution of transactions at known prices producing offsetting future cash flows makes arbitrage riskless. However, in practice, even in the simplest scenarios, such arbitrage does involve several risks. What are these risks?  
-# 7.A.1 RETURN AND RISK SPREADSHEET APPLICATIONS  
+# 7. A.1 RETURN AND RISK SPREADSHEET APPLICATIONS  
 
-Table 7.A.1  contains spreadsheet entries for computing stock variances, standard deviations, and co variances. The table lists daily closing prices for Stocks X, Y, and   $Z$  from January 9 to January 20 in cells B3:B14, E3:E14, and H3:H14. From these prices, we compute returns in Cells B19:B29, E19:E29, and H19:H29. Variance, standard deviation, and covariance statistics in rows 30 to 38 are computed from formulas displayed in Table 7.A.2 .  
+Table 7. A.1  contains spreadsheet entries for computing stock variances, standard deviations, and co variances. The table lists daily closing prices for Stocks X, Y, and   $Z$  from January 9 to January 20 in cells B3:B14, E3:E14, and H3:H14. From these prices, we compute returns in Cells B19:B29, E19:E29, and H19:H29. Variance, standard deviation, and covariance statistics in rows 30 to 38 are computed from formulas displayed in Table 7. A.2 .  
 
-Formulas for computing returns are given in rows 19 to 29 in  Table 7.A.2 . Means, variances, standard deviations, co variances, and correlation coefficients are computed in rows 30 to 38. Row 30 computes the arithmetic mean return for each of the three stocks.  Table 7.A.2 lists formulas associated with the values in cells A30:H38. The  $=$  (Average) function may be typed in directly as listed in  Table 7.A.2  row 30 or obtained from the Paste Function button  $(f_{x})$   menu under the Statistical submenu. Entry instructions are given in the dialogue box obtained when the Average function is selected. The variance formulas in row 31 are based on the sample formula; the variance (P) formulas in row 32 are based on the population formula. Standard deviation sample and population results are given in rows 33 and 34. Co variances and correlation coefficients are given in rows 35 to 38.  
+Formulas for computing returns are given in rows 19 to 29 in  Table 7. A.2 . Means, variances, standard deviations, co variances, and correlation coefficients are computed in rows 30 to 38. Row 30 computes the arithmetic mean return for each of the three stocks.  Table 7. A.2 lists formulas associated with the values in cells A30:H38. The  $=$  (Average) function may be typed in directly as listed in  Table 7. A.2  row 30 or obtained from the Paste Function button  $(f_{x})$   menu under the Statistical submenu. Entry instructions are given in the dialogue box obtained when the Average function is selected. The variance formulas in row 31 are based on the sample formula; the variance (P) formulas in row 32 are based on the population formula. Standard deviation sample and population results are given in rows 33 and 34. Co variances and correlation coefficients are given in rows 35 to 38.  
 
-# 7.A.2 A PRIMER ON BLACK-SCHOLES OPTION PRICING  
+# 7. A.2 A PRIMER ON BLACK-SCHOLES OPTION PRICING  
 
 # Calls and Puts  
 
 First, we will introduce a few option basics. A  stock option  is a legal contract that grants its owner the right (not obligation) to either buy or sell a given stock. There are two types of stock options: puts and calls. A  call  grants its owner to purchase stock (called underlying shares) for a specified exercise price (also known as a striking price or exercise price) on or before the expiration date of the contract. In a sense, a call is similar to a coupon that one might find in a newspaper enabling its owner to, for example, purchase a roll of paper towels for one dollar. If the coupon represents a bargain, it will be exercised and the consumer will purchase the paper towels. If the coupon is not worth exercising, it will simply be allowed to expire. The value of the coupon when exercised would be the amount by which value of the paper towels exceeds one dollar (or zero if the paper towels are worth less than one dollar). Similarly, the value of a call option at exercise equals the difference between the underlying market price of the stock and the exercise price of the call.  
-TABLE 7.A.1 Stock Prices, Returns, Risk, and Co-Movement 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ade6bff2d42a42e7ce40996a1ecbaa379b4ec60bbcc1639214d3962adbfe9b8c.jpg)  
-TABLE 7.A.1 (Continued) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbc0e250d7e21a69118613efc76db7c83684e30ee2a9649b44344f651ce9eefb.jpg)  
+TABLE 7. A.1 Stock Prices, Returns, Risk, and Co-Movement 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ade6bff2d42a42e7ce40996a1ecbaa379b4ec60bbcc1639214d3962adbfe9b8c.jpg)  
+TABLE 7. A.1 (Continued) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbc0e250d7e21a69118613efc76db7c83684e30ee2a9649b44344f651ce9eefb.jpg)  
 
 Suppose, for example, that there is a call option with an exercise price of   $\S90$   on one share of stock. The option expires in one year. This share of stock is expected to be worth either   $\S80$   or   $\S120$   in one year, but we do not know which at the present time. If the stock were to be worth  $\S80$   when the call expires, its owner should decline to exercise the call. It would simply not be practical to use the call to purchase stock for   $\S90$   (the exercise price) when it can be purchased in the market for   $\S80$  . The call would expire worthless in this case. If, instead, the stock were to be worth   $\S120$   when the call expires, its owner should exercise the call. Its owner would then be able to pay   $\S90$   for a share that has a market value of  $\S120_{.}$  , representing a  $\S30$   profit. In this case, the call would be worth  $\S30$   when it expires. Let    $T$   designate the options term to expiry,    $S_{T}$   the stock value at option expiry, and  $c_{T}$   be the value of the call option at expiry determined as follows:  
 
@@ -283,8 +283,8 @@ $$
 A put grants its owner the right to sell the underlying stock at a specified exercise price on or before its expiration date. A put contract is similar to an insurance contract. For example, an owner of stock may purchase a put contract ensuring that he can sell his stock for the exercise price given by the put contract. The value of the put when exercised is equal to the amount by which the put exercise price exceeds the underlying stock price (or zero if the put is never exercised).  
 
 To continue the above example, suppose that there is a put option with an exercise price of   $\S90$   on one share of stock. The put option expires in one year. Again, this share of stock is expected to be worth either  $\S80$   or  $\S120$   in one year, but we do not know which yet. If the stock were to be worth  $\S80$   when the put expires, its owner should exercise the put. In this case, its owner could use the put to sell stock for  $\S90$   (the exercise price) when  
-TABLE 7.A.2 Stock Returns, Risk, and Co-Movement: Formula Entries 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b8250fe2e4c06963d967b1db534286929a59f096818b50454d85fc3d3511964.jpg)  
+TABLE 7. A.2 Stock Returns, Risk, and Co-Movement: Formula Entries 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b8250fe2e4c06963d967b1db534286929a59f096818b50454d85fc3d3511964.jpg)  
 it can be purchased in the market for  $\S80$  . The put would be worth  $\S10$   in this case. If, instead, the stock were to be worth  $\S120$   when the put expires, its owner should not exercise the put. Its owner should not accept  $\S90$   for a share that has a market value of   $\S120$  . In this case, the put would be worth nothing when it expires. Let  $p_{T}$   be the value of the put option at expiry, determined as follows:  
 
 $$
@@ -321,7 +321,7 @@ $$
 d_{2}=d_{1}-\sigma{\sqrt{T}}
 $$  
 
-where    $N(d^{*})$   is the cumulative normal distribution function for   $(d^{*})$  . This function might be referred to in a statistics setting as the   $"Z"$   value for   $(d^{*})$  . From a computational perspective, one would first work through  Equation (7.A.2.4 ) and then  Equation (7.A.2.5)  before valuing the call with  Equation (7.A.2.3) .  $N(d_{1})$   and    $N(d_{2})$   are areas under the standard normal distribution curves (  $\boldsymbol{z}$  -values). Simply locate the   $\mathbf{Z}$  -value on an appropriate table (see Table 7.A.1  in the text appendix) corresponding to the  $N(d_{1})$   and  $N(d_{2})$   values.  
+where    $N(d^{*})$   is the cumulative normal distribution function for   $(d^{*})$  . This function might be referred to in a statistics setting as the   $"Z"$   value for   $(d^{*})$  . From a computational perspective, one would first work through  Equation (7.A.2.4 ) and then  Equation (7.A.2.5)  before valuing the call with  Equation (7.A.2.3) .  $N(d_{1})$   and    $N(d_{2})$   are areas under the standard normal distribution curves (  $\boldsymbol{z}$  -values). Simply locate the   $\mathbf{Z}$  -value on an appropriate table (see Table 7. A.1  in the text appendix) corresponding to the  $N(d_{1})$   and  $N(d_{2})$   values.  
 Consider the following simple illustration of a Black-Scholes model application: An investor has the opportunity to purchase a six month call option for  $\S7.00$   on a stock that is currently selling for  $\S75$  . The exercise price of the call is  $\S80$   and the current riskless rate of return is   $10\%$   per annum. The variance of annual returns on the underlying stock is  $16\%$  . At its current price of  $\S7.00$  , does this option represent a good investment? First, we note the model inputs in symbolic form:  
 
 $$
@@ -341,7 +341,7 @@ d_{2}=d_{1}-0.4\bullet\sqrt{0.5}=0.09-0.2828=-\,0.1928
 $$
    
 
-Next, by either using a   $_\mathrm{z}$  -table (see  Table 7.A.1  in the text Appendix) or by using an appropriate estimation function from a statistics manual, we find normal density functions for  $d_{1}$   and    $d_{2}$  :  
+Next, by either using a   $_\mathrm{z}$  -table (see  Table 7. A.1  in the text Appendix) or by using an appropriate estimation function from a statistics manual, we find normal density functions for  $d_{1}$   and    $d_{2}$  :  
 
 $$
 N(d_{1})=N(0.09)=0.536\quad N(d_{2})=N(-0.1928)=0.420
@@ -365,7 +365,7 @@ e.  Suppose that the purchaser of a call in part a paid  $\S1.75$   for his opti
 
 2.  Evaluate calls for each of the following European stock option series:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f843834c762806532d12f8cd68afea8abc4cd22147bf8bbae53ba49cdc134ba7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f843834c762806532d12f8cd68afea8abc4cd22147bf8bbae53ba49cdc134ba7.jpg)  
 
 # Appendix Exercise Solutions  
 
@@ -373,9 +373,9 @@ e.  Suppose that the purchaser of a call in part a paid  $\S1.75$   for his opti
 
 2.  The options are valued with the Black-Scholes model in a step-by-step format in the following table:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b57ed2245411c7e9f0e24432926be6aa5553abef4be53da9a8fc8e301732b11d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b57ed2245411c7e9f0e24432926be6aa5553abef4be53da9a8fc8e301732b11d.jpg)  
 
-# 7.A.3 ESTIMATING IMPLIED BLACK-SCHOLES VARIANCES  
+# 7. A.3 ESTIMATING IMPLIED BLACK-SCHOLES VARIANCES  
 
 Analysts often employ historical return variances to estimate the volatility of securities. However, one cannot always assume that variances will be constant over time or that historical data properly reflects current conditions. An alternative procedure to estimate security variances is based on the assumption that investors price options based on consideration of the underlying stock risk. If the price of the option is taken to be correct, and if the Black-Scholes option pricing model is appropriate for valuing options, then one can infer the underlying stock standard deviation based on the known market price of the option and the option pricing model. Consider the following example pertaining to a sixmonth call currently trading for  $\S8.20$   and its underlying stock currently trading for  $\S75$  :  
 $$
@@ -395,7 +395,7 @@ $$
 f(\sigma^{*})=0=75\times N(d_{1})-80\times e^{-0.1\times0.5}\times N(d_{2})-820
 $$  
 
-based on equations above for  $d_{1}$   and  $d_{2}$  . There exists no closed form solution for  σ . Thus, we will use the method of bisection to search for a solution. We first arbitrarily select endpoints    $b_{1}=0.2$   and  $a_{1}=0.5$   such that    $f(b_{1})<0$   and  $f(a_{1})>0$  . Since these endpoints result in  $f(\upsigma)$   with opposite signs, our first iteration will use    $\upsigma_{1}=0.5(0.2\,+\,0.5)=0.35.$  . We find that this estimate for sigma results in a value of    $-1.30009$   for  $f(\upsigma)$  . Since this  $f(\upsigma)$   is negative, we know that    $\upsigma^{*}$   is in the segment  $b_{2}=0.35$   and    $a_{2}=0.5$  . We repeat the iteration process, finding after 19 iterations that  $\upsigma^{*}=0.411466.$  .  Table 7.A.3  details the process of iteration.  
+based on equations above for  $d_{1}$   and  $d_{2}$  . There exists no closed form solution for  σ . Thus, we will use the method of bisection to search for a solution. We first arbitrarily select endpoints    $b_{1}=0.2$   and  $a_{1}=0.5$   such that    $f(b_{1})<0$   and  $f(a_{1})>0$  . Since these endpoints result in  $f(\upsigma)$   with opposite signs, our first iteration will use    $\upsigma_{1}=0.5(0.2\,+\,0.5)=0.35.$  . We find that this estimate for sigma results in a value of    $-1.30009$   for  $f(\upsigma)$  . Since this  $f(\upsigma)$   is negative, we know that    $\upsigma^{*}$   is in the segment  $b_{2}=0.35$   and    $a_{2}=0.5$  . We repeat the iteration process, finding after 19 iterations that  $\upsigma^{*}=0.411466.$  .  Table 7. A.3  details the process of iteration.  
 
 The Newton-Raphson method can also be used to more efficiently iterate for an implied volatility. Consider the following example where we wish to estimate the volatility implied by a six-month option with an exercise price of   $\S80$   currently selling for   $\S8.20$  . Assume that the underlying stock price is currently  $\S75$   and that the riskless return rate is 0.10. We shall solve for the implied standard deviation using the Newton-Raphson method, with an arbitrarily selected initial trial solution of    $\upsigma_{1}=0.6$  . First, we need the derivative of the Black-Scholes model with respect to the underlying stock return standard 8 deviation :  
 
@@ -404,16 +404,16 @@ $$
 $$
  ﬃﬃﬃﬃﬃﬃﬃ  
 
-We see from  Table 7.A.4  that this standard deviation results in a value of  $f(\sigma_{0})=3.950117$  . Plugging 0.6 into  Equation (7.A.3.1)  for    $\upsigma,$   we find that  $f^{\prime}(\upsigma_{1})=20.82508$  . Thus, our second trial value for  σ  is determined by:    $\sigma_{2}=0.6\,-\,(3.950117\,\div\,20.82508)=0.410319.$  . This process continues until we converge to a solution of approximately 0.411466. Note that the rate of convergence is much faster by using the Newton-Raphson method than by using the method of bisection.  
-TABLE 7.A.3 Using the Bisection Method to Estimate Implied Volatility  
+We see from  Table 7. A.4  that this standard deviation results in a value of  $f(\sigma_{0})=3.950117$  . Plugging 0.6 into  Equation (7.A.3.1)  for    $\upsigma,$   we find that  $f^{\prime}(\upsigma_{1})=20.82508$  . Thus, our second trial value for  σ  is determined by:    $\sigma_{2}=0.6\,-\,(3.950117\,\div\,20.82508)=0.410319.$  . This process continues until we converge to a solution of approximately 0.411466. Note that the rate of convergence is much faster by using the Newton-Raphson method than by using the method of bisection.  
+TABLE 7. A.3 Using the Bisection Method to Estimate Implied Volatility  
 
 # Initial Equation:  $S N(d_{1})-X e_{\mathrm{~\bf~f~}}^{-r_{\mathrm{~\bf~T~}}}N(d_{2})$  
 
 a 1  5  0 : 5 b 1  5  0 : 2 σ 1  5  0 : 35 r f  5  0 : 1 S 0  5  75 X  5  80 c  5  8 : 2 T  5  0 : 5  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd9745a9c9e965faa23367c135151b6f222e084ec17e14d670604fe1b41ac369.jpg)  
-TABLE 7.A.4 Newton-Raphson Method and Implied Vol at ili ties 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e068551fc0203aa856ded774e68edca3c2529d98e36a1e73e0abdf81241cde37.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd9745a9c9e965faa23367c135151b6f222e084ec17e14d670604fe1b41ac369.jpg)  
+TABLE 7. A.4 Newton-Raphson Method and Implied Vol at ili ties 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e068551fc0203aa856ded774e68edca3c2529d98e36a1e73e0abdf81241cde37.jpg)  
 Initial Equation:    $S_{0}N(d_{1})-X e^{-r_{f}T}N(d_{2})$  
 $$
 \begin{array}{c c c}{r_{f}=0.1}&{S_{0}=75}&{X=80}\\ {}&{}&{}\\ {c_{0}=8.20}&{T=0.5}&{\sigma_{0}=0.6}\end{array}

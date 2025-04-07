@@ -3,8 +3,8 @@ cssclasses:
   - academia
 aliases: []
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - bonds
   - indentures
   - covenants

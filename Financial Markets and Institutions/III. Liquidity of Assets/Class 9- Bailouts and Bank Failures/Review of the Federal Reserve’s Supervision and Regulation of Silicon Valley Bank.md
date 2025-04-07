@@ -1,19 +1,15 @@
 ---
 aliases:
-- "Alias_60_Review of the Federal Reserve\u2019s Supervision and Regulation of Silicon\
+- "Review of the Federal Reserve\u2019s Supervision and Regulation of Silicon\
   \ Valley Bank.md"
-- "Example_Alias_Review of the Federal Reserve\u2019s Supervision and Regulation of\
+- "Review of the Federal Reserve\u2019s Supervision and Regulation of\
   \ Silicon Valley Bank"
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: "Review of the Federal Reserve\u2019s Supervision and Regulation of Silicon\
   \ Valley Bank"
 ---
-
-
-
-
 # Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank
 
 Re: Review of the Federal Reserve's Supervision and Regulation of Silicon Valley

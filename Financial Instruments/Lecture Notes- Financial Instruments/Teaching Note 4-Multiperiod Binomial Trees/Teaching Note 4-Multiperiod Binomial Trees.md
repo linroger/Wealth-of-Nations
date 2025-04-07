@@ -1,24 +1,24 @@
 ---
 aliases:
 - LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
-- Alias_183_Teaching Note 4-Multiperiod Binomial Trees.md
-- Alias_184_Teaching Note 4-Multiperiod Binomial Trees.md
+- 
+- 
 linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 tags:
-- tag_example
+- 
 title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 ---
-
-
-
 # Teaching Note 4-Multiperiod Binomial Trees
 
 %% Begin Waypoint %%
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
+	- [[Binomial Tree Steps]]
 	- [[Calculate Stock Prices at Different Nodes]]
 	- [[Options Strategies Construction]]
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
+	- [[Teaching Note 7- [[Exotic Options and Derivative Pricing By Monte Carlo Simulation]]
+	- [[Teaching Note 7- [[Lecture Note 6-Implied Volatility]]
 	- [[The Pricing of Options and Corporate Liabilities]]
 
 %% End Waypoint %%
@@ -29,7 +29,7 @@ title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
  **[[Teaching Note 4-Multiperiod Binomial Trees]]**
  [[Teaching Note 5Black Scholes Formula]]
  [[Teaching Note 6-Implied Volatility]]
- [[Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation]]
+ [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]]
  [[Teaching Note 8 American Options]]
  [[Teaching Notes 9Corporate Securities And Credit Derivatives]]
  [[Teaching Notes 9ACredit Default Swaps]]
@@ -206,7 +206,7 @@ Using$F_{0;T_i} = E'_0[S_{T_i}]$,  the swap value is$V_{\text{swap}}^0 = \sum_{i
 ![600](IMG-20240913171254264.svg)
 
 **Methodology 2 - Risk Neutral Pricing**
-![](IMG-20240913171259467.svg)
+ ![500](IMG-20240913171259467.svg)
 
 **Risk Neutral Pricing**
   - Concludes that risk neutral pricing simplifies computations considerably.

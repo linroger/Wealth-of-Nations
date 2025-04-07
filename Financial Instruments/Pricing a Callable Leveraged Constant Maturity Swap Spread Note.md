@@ -32,14 +32,10 @@ $$
 - $\kappa$ - leverage coefficient
 - $C$ - redemption price at call time $t_{c}$
 - $t_{c}$ - time the note is called, $t_{c} \in [t_{n_{c_{0}}}, t_{N-1}]$
-
-
 The holder of a note described by $(1.1)-(1.4)$ effectively owns three separate instruments:
 1. An interest-only fixed coupon note maturing at $t_{n_{r_{0}}}$,
 2. A long cap on the swap spread $r (t_{i}, T_{\text{long}}) - r (t_{i}, T_{\text{short}})$ struck at zero and expiring at $t_{N-1}$,
 3. A short Bermudan call on the note itself struck at $C$, exercisable on any of the call dates and expiring at $t_{N-1}$.
-
-
 As a practical matter, we set the call dates to coincide with rate reset dates, i.e., $t_{c} \in \{ t_{n_{r_{0}}}, \dots, t_{n_{r_{J}}} \}$. The first instrument can be priced using the current discount curve. A combination of the second and third instruments can only be priced using a simulation technique (Monte Carlo) due to the complexity of the options and the correlation between the two underlying rates—the constituents of the spread.
 ## 2 Simulation Algorithm
 The algorithm proceeds as follows:

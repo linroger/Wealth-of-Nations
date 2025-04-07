@@ -21,6 +21,7 @@ tags: Advanced-Financial-Analysis-and-Valuation
 	- [[Financial_Statements.xlsm]]
 	- [[Introduction to Corporate Finance]]
 	- **[[Lecture Notes Advanced Financial Analysis and Valuation]]**
+	- [[Lectures on Valuation and Security Analysis]]
 	- [[Porter's Five Forces]]
 	- **[[Problem Sets]]**
 

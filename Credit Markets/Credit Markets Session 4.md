@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_338_Credit Markets Session 4.md
-- Alias_335_Credit Markets Session 4.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Session 4
 ---
-
-
-
 # Credit Markets Session 4
 ## CALIBRATION AND MODEL PRICES
 1. Recap: Parametric IR Models
@@ -31,7 +28,7 @@ title: Credit Markets Session 4
 
 ## US TREASURY YIELDS AS OF 2023-05-05
 
-![](225b26a767221a869c20a844ff79ecdc.png)
+ ![500](225b26a767221a869c20a844ff79ecdc.png)
 
 MOTIVATION FOR "SMOOTH" US TREASURY CURVE
 
@@ -58,34 +55,34 @@ $${\frac{1-e^{-\,      T/\lambda_{2}}}{T/\lambda_{2}}}-e^{-\,      T/\lambda_{2}
 
 ## NELSON-SIEGEL BASIS FUNCTIONS
 
-![](2c2b5972e868740a1f11862ad6d83b5b.png)
+ ![500](2c2b5972e868740a1f11862ad6d83b5b.png)
 
 The Nelson-Siegel model for smooth yield curves
 
 ## NELSON-SIEGEL CALIBRATION (US TREASURIES ON 2023-05-05)
 
-![](d342c99a055cc3ffb8a44c55590c2183.png)
+ ![500](d342c99a055cc3ffb8a44c55590c2183.png)
 
 ## NELSON -SIEGEL-SVENSSON BASIS FUNCTIONS
 
-![](d04cf54c46c0dc59abc61043eeabb6ac.png)
+ ![500](d04cf54c46c0dc59abc61043eeabb6ac.png)
 
 ## NELSON-SIEGEL-SVENSSON CALIBRATION (US TREASURIES ON 2023-05-05)
 
-![](333decbe6d5db1897b671bcb15c425d0.png)
+ ![500](333decbe6d5db1897b671bcb15c425d0.png)
 
 ## VERIZON YIELDS VS TREASURIES VS SOFR SWAPS ON 2023-10-30
 
-![](d6c511c3843236e954bbc44a40587e9b.png)
+ ![500](d6c511c3843236e954bbc44a40587e9b.png)
 What problem are we trying to solve?
 
 ## VERIZON BOND US TREASURY G-SPREADS ON 2023-10-30
 
-![](9b39d280b21bb5494545405eb62b0563.png)
+ ![500](9b39d280b21bb5494545405eb62b0563.png)
 
 ## VERIZON BOND SOFR I-SPREADS ON 2023-10-30
 
-![](7f4a50ea3ebd1e5c71d972828083eec0.png)
+ ![500](7f4a50ea3ebd1e5c71d972828083eec0.png)
 What problem are we trying to solve?
 
 ## MOTIVATION FOR "SMOOTH" CREDIT CURVES
@@ -96,11 +93,11 @@ What problem are we trying to solve?
 - Comment: corporate credit spread curves have "nice" curve shapes and should be "easier to model"
 ## NELSON-SIEGEL YIELD CALIBRATION FOR VERIZON BONDS ON 2023-10-30
 
-![](bdc4b4faec673c05ff9d0de72d4df2ba.png)
+ ![500](bdc4b4faec673c05ff9d0de72d4df2ba.png)
 
 ## NELSON-SIEGEL G-SPREAD CALIBRATION FOR VERIZON ON 2023-10-30
 
-![](c348a2cca3553a26f10b263281d41e95.png)
+ ![500](c348a2cca3553a26f10b263281d41e95.png)
 
 RECAP: PRICING RISKY INSTRUMENTS (CASH BONDS AND CDS)
 
@@ -124,9 +121,9 @@ The implied parametric form for the survival probability curve is given by
 
 $${\mathcal{S}}P(t,      T)={\mathcal{S}}P(t,      T|\theta_{t})=\exp\left[(t-T)\cdot H(t,      T|\theta_{t})\right]\tag{4}$$
 
-![](9877b9bbc57ca3163a1e0785f4f9bbd9.png)
+ ![500](9877b9bbc57ca3163a1e0785f4f9bbd9.png)
 
-![](a9826267ca8e8fbc2111f8621df36bf1.png)
+ ![500](a9826267ca8e8fbc2111f8621df36bf1.png)
 q1 = 3%,  q2 = −1%,  q3 = −0.1%,  l = 5 q1 = 3%,  q2 = −1%,  q3 = −0.1%,  l = 5
 
 ## IMPLEMENTATION/CALIBRATION OF SMOOTH CREDIT RISK MODEL
@@ -140,11 +137,11 @@ $$\theta_{t}^{*}=\begin{array}{c}\mbox{\it argmin}\\ \theta\end{array}\left\{SSE
 
 ## NELSON-SIEGEL CALIBRATION: VERIZON G-SPREADS
 
-![](6c276589e0eda536ed419a27c5ed7850.png)
+ ![500](6c276589e0eda536ed419a27c5ed7850.png)
 
 ## NELSON-SIEGEL CALIBRATION: VERIZON YIELDS
 
-![](6e41901458bfb2f3e217464b9b0e4775.png)
+ ![500](6e41901458bfb2f3e217464b9b0e4775.png)
 
 ASSESSING MODEL CALIBRATION RESULTS
 
@@ -155,11 +152,11 @@ ASSESSING MODEL CALIBRATION RESULTS
 
 ## NELSON-SIEGEL CALIBRATION: VERIZON G-SPREAD EDGES
 
-![](b29e010516883f76be52d53d15b40ef2.png)
+ ![500](b29e010516883f76be52d53d15b40ef2.png)
 
 ## NELSON -SIEGEL: EDGE TIME SERIES FOR VERIZON BOND
 
-![](00b7eff8428d7c53102785b13ed2c422.png)
+ ![500](00b7eff8428d7c53102785b13ed2c422.png)
 
 VISUALIZING SMOOTH MODEL CURVES
 
@@ -172,19 +169,19 @@ VISUALIZING SMOOTH MODEL CURVES
 
 ## VERIZON "SMOOTH"/MODEL YIELD SURFACE
 
-![](b8b194732e96b7b0778edf6fdc91e23a.png)
+ ![500](b8b194732e96b7b0778edf6fdc91e23a.png)
 
 ## VERIZON "SMOOTH"/MODEL G-SPREAD SURFACE
 
-![](43eff7a89ad965492c316e106913dc31.png)
+ ![500](43eff7a89ad965492c316e106913dc31.png)
 
 ## VERIZON "SMOOTH"/MODEL I-SPREAD SURFACE
 
-![](b61a23994ba94ca90e3d3ceaae848d4a.png)
+ ![500](b61a23994ba94ca90e3d3ceaae848d4a.png)
 
 ## TIME SERIES OF VERIZON "SMOOTH" CREDIT CURVES
 
-![](63f8bcaa7f8a7859ff40c1b18c1b2f58.png)
+ ![500](63f8bcaa7f8a7859ff40c1b18c1b2f58.png)
 
 ## FROM MODEL EDGES TO TRADING STRATEGIES
 - Assuming we do have the "fair price" of securities
@@ -206,7 +203,7 @@ VISUALIZING SMOOTH MODEL CURVES
 
 ## IG BOND MARKET (~15K BONDS): G-SPREADS BY TTM AND LIQUIDITY
 
-![](9937f66b3808b4ca03c86812cf270947.png)
+ ![500](9937f66b3808b4ca03c86812cf270947.png)
 
 "FAIR" PRICES,  MARKET PRICES AND EDGES
 
@@ -257,7 +254,7 @@ MARKET OBSERVABLE RISK FACTORS
 
 ## STRATEGY BACKTEST EXAMPLE: 2D PARAMETER GRID SEARCH
 
-![](2ac231018a3f33f9b809d64e88ee839d.png)
+ ![500](2ac231018a3f33f9b809d64e88ee839d.png)
 
 ## Q &A
 

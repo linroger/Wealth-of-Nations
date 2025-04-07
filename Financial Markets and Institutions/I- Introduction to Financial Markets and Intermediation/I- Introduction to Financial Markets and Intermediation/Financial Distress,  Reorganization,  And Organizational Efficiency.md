@@ -1,14 +1,13 @@
 ---
 cssclasses: academia
 aliases:
-  - Alias_101_Financial Distress
   - Reorganization
   - And Organizational Efficiency.md
-  - Example_Alias_Financial Distress
+  - Financial Distress
   - And Organizational Efficiency
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - finance
   - financial-crises
   - debt-management
@@ -90,7 +89,7 @@ At the time of financial distress (time 1) investors know the history of actual 
 
 In pursuing their own interests,  claimants have incentives to present biased and inaccurate data as though it were unbiased and accurate. Shareholders have incentives to claim the firm is insolvent only on a flow basis (like the panel B firm) because it increases the likelihood that they will retain their equity stake and therefore preserve the option value of their claim. Creditors have incentives to claim the firm is insolvent on a stock basis (like the panel A firm) because it increases the likelihood that they will be awarded the equity. Managers have an incentive to side with the party less likely to fire them. Resolving these conflicts consumes resources and in the extreme can destroy huge amounts of value. For example,  a panel B firm can be turned into a panel A firm as claimants fight over the distribution of weahh,  or if a value-reducing reorganization policy is chosen because it furthers the interests of a persuasive class of claimants.
 
-![](Preview%202024-09-26%2004.47.13.png)
+ ![500](Preview%202024-09-26%2004.47.13.png)
 
 Panels A and B illustrate actual cash flows for two firms that become flow-based insolvent at time 1. Investors in a distressed firm face an information problem - they cannot tell whether their firm has cash flows more like those in panel A or B. The firm in panel A is insolvent due to a permanent reduction in cash flow,  while the firm in panel B is insolvent due to a temporary reduction in cash flow - at time 2 its cash flow returns to a pre-distress level. Cash flows at the time of financial distress are identical for the two firms. At time 1. no one has both the relevant information about cash flows and the incentive to reveal it to the firm's claimholders. Out of self-interest shareholders will argue that panel B represents the firm's situation,  while creditors will argue that panel A is more realistic. Managers will tend to side with the party less likely fire them.
 
@@ -128,7 +127,7 @@ Fig. 2 also follows firms that file Chapter 11 from the Weiss (1990) and Morse a
 
 'Firms sometimes liquidate privately. Hite,  Owers,  and Rogers' (1987) sample contains 49 NYSE and AMEX firms that liquidated voluntarily and privately between 1963 and 1983. Their study does not provide evidence on the proportion of sample firms in financial distress.
 
-![](CleanShot%202024-09-26%20-002885@2x.png)
+ ![500](CleanShot%202024-09-26%20-002885@2x.png)
 
 Fig. 2. Evidence on the outcomes of financial distress based on data from tive empirical studies.
 
@@ -218,7 +217,7 @@ At the time of default the claimholders of the highand low-leverage firms face v
 
 "See Burkhardt,  Jensen,  and Barry (1990).
 
-![](CleanShot%202024-09-26%20-002886@2x.png)
+ ![500](CleanShot%202024-09-26%20-002886@2x.png)
 
 Fig. 3. Illustration of the incentive for more highly leveraged firms to reorganize privately.
 
@@ -278,7 +277,7 @@ For firms that liquidate at the end of the [[Course Notes/HBR Notes/A Strategic 
 
 "Evidence relating the direct costs of [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] to firm size is contradictory. In his sample of railroads,  Warner finds that direct costs as a percentage of market value are inversely related to size. He concludes that there are significant hxed costs of bankruptcy. Ang,  Chua,  and McConnell (1982) test for and find evidence supporting Warner's results in a sample of smaller firms. Weiss,  however,  does not find evidence of significant fixed costs. He argues that changes in
 
-![](CleanShot%202024-09-26%20-002887@2x.png)
+ ![500](CleanShot%202024-09-26%20-002887@2x.png)
 
 Table 1 Summary of evidence on the direct costs of [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] from four studies covering 1933-1986
 

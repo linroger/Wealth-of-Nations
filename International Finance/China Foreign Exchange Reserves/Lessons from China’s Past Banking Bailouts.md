@@ -55,7 +55,7 @@ First,  the Asian Financial Crisis (AFC) of 1997–1998 showed how damaging exte
 
 Second,  as China’s negotiations on joining the World Trade Organization (WTO) neared the finish line,  the Chinese government began to come to terms with the implications of opening up the domestic financial market to the rest of the world. Included in the WTO ticket price was the requirement that weak domestic banks would have to face direct competition with sophisticated international financial institutions. This left China’s authorities with only a narrow window during which to prepare the banking sector for the coming onslaught of foreign competition (Okazaki,  2007).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b002707a745ffcfb8c820f6f07cdfd596d96ca1432339656d038d34e4da6668.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b002707a745ffcfb8c820f6f07cdfd596d96ca1432339656d038d34e4da6668.jpg)
 
 Figure 1. BREAKDOWN OF NPL ORIGINS Source: Chen and Zhuo (2006)
 
@@ -71,7 +71,7 @@ Chief among the above measures were capital injection and the establishment of t
 
 Table 1. CAPITAL INJECTIONS TO CHINA’S BIG FOUR BANKS IN 1999 (RMB BILLION)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c2bdcf1dce2facb3b2503a6d9b9f6a57b4906d344a498024cc3ae08f3e2fdefd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c2bdcf1dce2facb3b2503a6d9b9f6a57b4906d344a498024cc3ae08f3e2fdefd.jpg)
 
 Source: Financial reports of the Big Four banks
 
@@ -79,13 +79,13 @@ In addition to the MOF capital injections,  the authorities established four AMC
 
 The authorities devised the mechanism by which AMCs would acquire NPLs from large state-owned banks. First,  the MOF gave RMB 10 billion to each AMC as equity. Second,  the PBoC provided direct refinancing of RMB 570 billion to the AMCs for their acquisition of bank NPLs. In the final stage,  the AMCs issued their bonds (AMC bonds) to their paired banks at a $2.25\%$ fixed interest rate in exchange for bank NPLs. The AMC bonds had an initial maturity of 10 years,  and were rolled over when they matured. With the funds at their disposal,  the four AMCs acquired RMB 1.41 trillion of NPLs at face value from their paired large state-owned banks. The aggregate size of transferred NPLs accounted for more than $z0\%$ of these four banks’ combined loan portfolios – an amount equivalent to $18\%$ of China’s GDP in 1998. Table 2 shows the details of the NPL transfers to AMCs and their paired banks during 1999–2001.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6147e02c7190a4291df72a98323bd4bd9c315ae4ea8a13500c874708b66809c3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6147e02c7190a4291df72a98323bd4bd9c315ae4ea8a13500c874708b66809c3.jpg)
 
 Even with the above measures,  the NPL problem did not ease immediately. Official figures reveal that the NPLs of the Big Four banks still amounted to RMB 1.7 trillion (or $\mathcal{21.4\%}$ of total loans) in 2002 after the transfer of RMB 1.4 trillion NPLs to the AMCs. Moreover,  the recovery rate on the transferred NPLs was low (Table 3),  and the process dragged on longer than expected (Chen,  2006).
 
 Table 3. NPL RECOVERY RATES AS OF DECEMBER 2005
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cea6cb6840f0df4816e611e90e0e9442fb0292f283d23c3c294a6abab662d1f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cea6cb6840f0df4816e611e90e0e9442fb0292f283d23c3c294a6abab662d1f.jpg)
 
 Source: CBRC website and CEIC
 
@@ -109,7 +109,7 @@ In 2005,  the PBoC acquired an additional RMB 469 billion in NPLs from ICBC at a
 
 Table 4. SECOND ROUND OF NPL TRANSFERS IN 2004–2010,  RMB BILLION
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d30837191c31e316530fa0d53c054d968db0d6a2fed05cd153b9820e0b945b9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d30837191c31e316530fa0d53c054d968db0d6a2fed05cd153b9820e0b945b9.jpg)
 
 Source: Banks’ financial reports and authors’ estimates
 
@@ -119,7 +119,7 @@ ICBC injected NPLs with a book value of RMB 246 billion into the joint fund. ICB
 
 Figure 2. MODEL OF JOINT FUND ADOPTED BY THE MOF AND ICBC
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c772ce011597843b2bf0aeb5b3822c5be7387ada218a7827cd8fc8a01acedd4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c772ce011597843b2bf0aeb5b3822c5be7387ada218a7827cd8fc8a01acedd4.jpg)
 
 By the first quarter of 2010,  the MOF had paid off all the receivable s held by ICBC. A similar mechanism was adopted by the MOF in 2010 when ABC was restructured. The total amount of NPLs put into the joint fund this time around was increased to RMB 766.8 billion. Accordingly,  the lifetime of the new fund was extended through 2022.
 
@@ -129,7 +129,7 @@ On top of the NPL transfer,  China’s authorities embarked on a new round of ca
 
 Table 5. CAPITAL INJECTION WITH FOREIGN RESERVES
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/578be14ee99b23b7787b9930f8e829e1a5ff9320cfd188d1f9b6a90e7293aeb8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/578be14ee99b23b7787b9930f8e829e1a5ff9320cfd188d1f9b6a90e7293aeb8.jpg)
 
 Source: Financial reports of the respective banks
 
@@ -147,7 +147,7 @@ Table 6 summarizes foreign strategic investors’ participation in the Big Four 
 
 Table 6. FOREIGN INVESTOR PARTICIPATION IN THE BIG FOUR
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1959b145cc5648e65b67450eca81aba2f1eab43d308b31b694473c9556e2c8a9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1959b145cc5648e65b67450eca81aba2f1eab43d308b31b694473c9556e2c8a9.jpg)
 
 Source: Big Four financial reports and other publicly available information
 
@@ -173,7 +173,7 @@ Figure 3 illustrates the distribution of the costs of NPL clean-up the banks,  t
 
 All in all,  the second round of NPL clean-up achieved its goal. There was no quick rebound of NPLs at the Big Four banks. Moreover,  the clean-up seems to have spurred improvements in bank efficiency. Although their efficiency on average still lagged behind foreign banks and joint-stock commercial banks in 2011,  large state-owned banks managed to improve their efficiency more than other types of banks in 2006–2011 (Fungacova et al.,  2013).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d05710a85a8144c412a0999fda7fec907d9f5da22d04bb9e3042242c7e2ad48c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d05710a85a8144c412a0999fda7fec907d9f5da22d04bb9e3042242c7e2ad48c.jpg)
 
 Figure 3. DISTRIBUTION OF NPL-RELATED COSTS Source: Author’s estimates
 
@@ -187,7 +187,7 @@ Special government bonds issued by the MOF in 1998 for bank capital injection; A
 
 Figure 4 demonstrates the evolution of implicit public debt incurred by NPLs clean-up and capital injection. The absolute amount of related public debt peaked at RMB 2.37 trillion as of end-2008 when a large chunk of NPLs were spun off from ABC. By 2018,  the outstanding amount had been reduced to around 800 RMB billion. In terms of its share to GDP,  the highest percentage appeared in 1999. By 2018,  the outstanding amount only accounted for $0.9\%$ of nominal GDP from $11\%$ of GDP in 1999 thanks to the debt payment as well as China’s rapid GDP growth over the past couple of decades.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6fe173d90db862c9599fdba7772aa60b6dcc1e5575aede2cb3d2b5b2de63fd76.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6fe173d90db862c9599fdba7772aa60b6dcc1e5575aede2cb3d2b5b2de63fd76.jpg)
 
 Figure 4. OUTSTANDING IMPLICIT PUBLIC DEBT INCURRED THROUGH NPL CLEAN-UP AND CAPITAL INJECTION RMB Billion Source: CEIC,  bank financial reports and author’s estimates
 

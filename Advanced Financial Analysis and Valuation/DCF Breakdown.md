@@ -3,10 +3,10 @@ title: DCF Breakdown
 cssclasses:
   - academia
 aliases:
-  - Alias_286_DCF Breakdown.md
-  - Alias_289_DCF Breakdown.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - finance
   - valuation-analysis
   - financial-analysis

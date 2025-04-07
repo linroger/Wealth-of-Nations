@@ -1,8 +1,8 @@
 ---
 cssclasses: academia
-aliases: [Alias_166_Lecture Note 5- Black Scholes Formula.md,  LECTURE NOTE 5 BLACK SCHOLES FORMULA,  Alias_165_Lecture Note 5- Black Scholes Formula.md]
+aliases: [LECTURE NOTE 5 BLACK SCHOLES FORMULA,  ]
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-tags: tag_example
+tags: 
 title: Lecture Note 5Black Scholes Formula
 ---
 
@@ -23,7 +23,7 @@ linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 [The Pricing of Options and Corporate Liabilities](Asset%20Classes/Derivatives/Options/The%20Pricing%20of%20Options%20and%20Corporate%20Liabilities.md)
 
 ## FINANCIAL INSTRUMENTS TEACHING NOTE 5 BLACK AND SCHOLES FORMULA
-1.Black and Scholes Formula
+1. Black and Scholes Formula
 1.1 Dynamic Replication
 1.2 Black and Scholes and the Binomial Trees
 1.3 Delta,  Gamma,  and other Greeks
@@ -69,19 +69,19 @@ New Bond Position =$$B_h = B_0 × e_{r×h} +1.879 =41.89 −1.879 =43.777$$New P
 - I simulate stock price paths. And then performed the above trading strategy.
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
 
-![](Obsidian%202024-10-04%2016.37.30.png)
+ ![500](Obsidian%202024-10-04%2016.37.30.png)
 
-![](Obsidian%202024-10-04%2016.37.53.png)
+ ![500](Obsidian%202024-10-04%2016.37.53.png)
 
-![](9f437bafc6f0d76f8ad3f0af6ad25e9b6688c490ee3fc154ba46b7b54eb57e4b.png)
+ ![500](9f437bafc6f0d76f8ad3f0af6ad25e9b6688c490ee3fc154ba46b7b54eb57e4b.png)
 
-![](807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png)
+ ![500](807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png)
 
-![](82c5af46b3.png)
+ ![500](82c5af46b3.png)
 
 OPTION PREMIUM BY DYNAMIC REPLICATION
 
-![](b8d85f2f265d55393d652.png)
+ ![500](b8d85f2f265d55393d652.png)
 
 ### BLACK AND SCHOLES FORMULA
 - Since portfolio Pt replicates the payoff of the put option,  the value of the portfolio at any time must equal the value of the put option.
@@ -110,8 +110,8 @@ $$\Delta={\frac{d\ p}{d\ S}}$$
 - =⇒ the dynamic replication works.
 ## DELTA HEDGING AND DYNAMIC REPLICATION
 - The next figure shows the dynamic replication at work in a graph:
-![](Obsidian%202024-10-04%2016.38.00.png)
-![](de3c911d9416ed48b3ffc.png)
+ ![500](Obsidian%202024-10-04%2016.38.00.png)
+ ![500](de3c911d9416ed48b3ffc.png)
 ## BLACK AND SCHOLES FORMULA
 - Example: Consider an at-the-money option.
 - The stock price is$S$= 100,  the strike price is K = 100,  the (continuously compounded)
@@ -134,7 +134,7 @@ $$p_0 = −SN(−d1) + Ke^{-rT}N(−d2) = −100 × 0.37575 + 100 × e^{1 × 0.4
 - Indeed,  as we have seen,  recall that we have the following:
 	- **Fact:** As n goes to infinity,  the Binomial Tree price converges to Black and Scholes price
 	- To see the similarity of Black and Scholes formula with the one stemming from a binomial tree,  consider the following example.
-![]d9eae26af9a0ff47259210.png)
+ ![500]d9eae26af9a0ff47259210.png)
 - Consider i = 0 and i = 1 with$S_{1,           u} = S_0 × u$and$S_{1,           d} = S_0 × d$.
 - Assume the price of the option has S1,  u *> K > S*1,  d,  so that the payoffs from the tree above result.
 - Let$q^∗$be the risk neutral probability of going up in the tree.
@@ -158,10 +158,10 @@ $$\begin{aligned}\text{h}\quad N_1~=~\left(e^{-r\times T}\sum_{j=a}^n\left(\frac
 - Black and Scholes formula relies on dynamic replication. Does it actually work in reality?
 - Sometimes yes: e.g. Jan - Dec 2000
 	- Replication of S&P500 option with T = 1 year. σ = standard deviation of returns in 1999.
-![](a0a066b36c5ace6a32d6593d8b113d31.png)
+ ![500](a0a066b36c5ace6a32d6593d8b113d31.png)
 ## DOES THE DYNAMIC REPLICATION STRATEGY WORK IN REALITY?
 - Sometimes no: e.g. Jan - Dec 1987
-- ![](310cd3852c2b02cfa09c96b2ce307c53.png)
+-  ![500](310cd3852c2b02cfa09c96b2ce307c53.png)
 - We will return on the empirical performance of Black and Scholes model in the next TNs.
 ## BLACK AND SCHOLES PRICING FORMULA
 - Like futures,  simple modifications to the option specification can still be treated within the Black and Scholes framework.
@@ -189,14 +189,14 @@ $$\Gamma=\frac{d\ \Delta}{d\ S}=\frac{N^{\prime}(d_{1})}{S\sigma\sqrt{T}}\quad\m
 ## RISKS IN OPTIONS AND THE GREEKS RISKS IN OPTIONS AND THE GREEKS RISKS IN OPTIONS AND THE GREEKS
 ## RISKS IN OPTIONS AND THE GREEKS
 
-![](0b083e8311dca709f00de5289d7e9936.png)
+ ![500](0b083e8311dca709f00de5289d7e9936.png)
 
 RISKS IN OPTIONS AND THE GREEKS
 
-![](92ffd2566d50d6c0218ae50e0bd182ba.png)
+ ![500](92ffd2566d50d6c0218ae50e0bd182ba.png)
 
 1. **THETA**: SENSITIVITY OF OPTION TO PASSAGE OF TIME T RISKS IN OPTIONS AND THE GREEKS$$\Theta=\frac{d\text{ Option Price}}{ d \mathrm{~}t}=\text{Long ugly formula}$$
-![](23e937f63b7eaacf68f8e4fd36e33850.png)
+ ![500](23e937f63b7eaacf68f8e4fd36e33850.png)
 - Why for a put option Θ > 0 for low$S$and Θ < 0 for high S?
 - For$S$high,  payoff is zero,  but put price is positive.
 	- =⇒ As time passes (but keeping$S$fixed),  the put price mu$S_{t}$decline.
@@ -210,7 +210,7 @@ RISKS IN OPTIONS AND THE GREEKS
 		- This is the payoff of a long forward,  so present value at$t < T$is$c =S−Ke^{-rT} >S−K$
 			- Intuition: for calls,  we will pay K,  whose present value today is smaller than K,  pushing up the price of the call.
 - If the stock pays (a lot of) dividends,  then Θ > 0 for high S,  as the option holder misses the dividend payouts during the life of the option (compared to a stock holder).
-![](44e2c18c4c0158811c7968e5b0c8b6bc.png)
+ ![500](44e2c18c4c0158811c7968e5b0c8b6bc.png)
 - In Black and Scholes model,  the volatility σ and the interest rate r are constant.
 - However,  it is interesting how does a change in σ and r change the value of the option.
 1. **Rho**: Change in option price due to a change in interest rate r
@@ -218,7 +218,7 @@ $$\mathrm{Rho}={\frac{d~\mathrm{Option~Price}}{d~r}}=\left\{\begin{array}{l l}{{
 - Intuition: it all depends on whether the option holder will pay K (call) or receive K (put).
 The PV of K declines as r increases,  yielding the result.
 1. **VEGA**: CHANGE IN OPTION PRICE DUE TO A CHANGE IN VOLATILITY Σ EXAMPLE OF RISK MANAGEMENT PROBLEM$$\text{Vega}=\frac{d\text{ Option Price}}{ d \mathrm{~}\sigma}=S\sqrt{T}N^{\prime}(d_1)>0$$
-![](49bb935ac04b3456b51a6767b5f39c3b.png)
+ ![500](49bb935ac04b3456b51a6767b5f39c3b.png)
 - Assume today is Feb 22,  2008 and you sold the following Capital Protected Note:1
 - Maturity: February 20,  2015
 - Issue Price:$10 - Principal:$10
@@ -229,7 +229,7 @@ The PV of K declines as r increases,  yielding the result.
 - =⇒ Delta-hedge =⇒ need to set up the replicating portfolio.
 ## THE CAPITAL PROTECTED NOTE'S PAYOFF
 
-![](bbbbf486ab7cc6cdfc53831bfd3fd43b.png)
+ ![500](bbbbf486ab7cc6cdfc53831bfd3fd43b.png)
 
 - The Capital Protected Note's payoff can be decomposed into
 1. A zero coupon bond with principal$10 and maturity T = 7.
@@ -273,7 +273,7 @@ short-term traded option.
 dS = 0) and the change in
 such sensitivity to changes in the stock,  that is,  the convexity
 $$d\,           \frac{\left(\frac{d\Pi}{d S}\right)}{d S}=\frac{d\Pi^{2}}{d S^{2}}=0$$
-![](76ace2442a76b1b506b98c54cdafddfc.png)
+ ![500](76ace2442a76b1b506b98c54cdafddfc.png)
 ## DELTA-GAMMA HEDGING
 - The Delta-Gamma hedge then requires:
 $$\frac{d\Pi}{dS}=0\Longrightarrow-\frac{dCall(S,           T)}{dS}+N+N^{c}\times\frac{dCall(S,           T_{1})}{dS}=0\qquad\mbox{(Delta Hedging)}$$$$\frac{d^{2}\Pi}{dS^{2}}=0\Longrightarrow-\frac{d^{2}Call(S,           T)}{dS^{2}}+N^{c}\times\frac{d^{2}Call(S,           T_{1})}{dS^{2}}=0\qquad\mbox{(Gamma Hedging)}$$
@@ -291,7 +291,7 @@ Position in stock = N = 0.4031;
 Position in bonds = 1.7 − N ×$S$− N_c × Call(*S,  T*1) = −2.5315
 - Next figure plots the CPN for various stock prices,  along with the Delta hedge portfolio and the
 Delta-Gamma hedge portfolio.
-![](8b5b1043a76ea7cdeed7def54d1512e3.png)
+ ![500](8b5b1043a76ea7cdeed7def54d1512e3.png)
 ## DELTA-GAMMA HEDGING: THE CAPITAL PROTECTED NOTE
 - The Delta-Gamma hedging strategy allows for larger swings in the stock price before calling for
 a rebalancing.
@@ -327,7 +327,7 @@ $$
 (R_C-R_B)=\beta\times(R_S-R_B)
 $$
 
-![](fce45ee4408b6c513f8ca493d2af75cc.png)
+ ![500](fce45ee4408b6c513f8ca493d2af75cc.png)
 
 - Given such large β,  the excess return on a call option is much larger than the one on the stock.
 - A call option is effectively a Leveraged Investment
@@ -336,9 +336,9 @@ $$
 - Note that β depends on S,  so it is not constant.
 - Clearly,  the risk is also very high. What is the variance of call option returns?
 - It is$β^2 \times$variance of stock returns:$σ_{c}^2=β^2 × σ_{s}^2$
-![](a0a60ba734ac5dd7a94901bf9c0c2f88.png)
-![](991e9c50231370c4a65f763a5f035534.png)
-![](3cddb2484285391085c6963ee376570f.png)
+ ![500](a0a60ba734ac5dd7a94901bf9c0c2f88.png)
+ ![500](991e9c50231370c4a65f763a5f035534.png)
+ ![500](3cddb2484285391085c6963ee376570f.png)
 - The volatility of the call option,  computed as the 22-day standard deviation of returns,  is much higher than the one of the SP500 index.
 ## THE RISK / RETURN CHARACTERISTICS OF OPTIONS
 

@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_341_Advanced Usage of QuantLib analytics library.md
-- Alias_344_Advanced Usage of QuantLib analytics library.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Advanced Usage of QuantLib analytics library
 ---
-
-
-
 # Advanced Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/
 
@@ -94,13 +91,8 @@ Def get_yield_curve_details_df (yield_curve,             curve_dates=None):
                              'DiscountFactor': discounts,            
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
-
-
-
 # Display SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,             ql. Years) for y in list (range (0,            30,            2))]
-
-
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,             grid_dates)    # using external grid
 
@@ -149,12 +141,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,             0,             'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_161_1.png)
 
 ![png](CreditMarketSolutions_161_2.png)
@@ -252,12 +238,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,             0,             'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_167_1.png)
 
 ![png](CreditMarketSolutions_167_2.png)
@@ -287,8 +267,6 @@ Cds_surv_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_ra
 
 Cds_pricing_engine = ql.MidPointCdsEngine (cds_surv_prob_curve_handle,             CDS_recovery_rate,             sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_pricing_engine)
-
-
 # Print CDS valuation results
 Print ('CDS protection start date: ',             cds_obj.ProtectionStartDate ())
 Print ('CDS fair/par spread: ',             round (cds_obj.FairSpread ()*10000,             3))
@@ -408,8 +386,6 @@ Print ('risky_bond_ispread_bps: ',             risky_bond_credit_ispread_bps)
 # Calc z-spread
 Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,             risky_bond_price,             sofr_yield_curve,             ql. Thirty 360 (ql. Thirty 360. USA),             ql. Compounded,             ql. Semiannual) * 1 e 4
 Print ('risky_bond_zspread_bps: ',             risky_bond_zspread_bps)
-
-
 ```
 
     Risky_bond_price: 99.77353776497536
@@ -447,12 +423,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,             0,             'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_177_1.png)
 
 ![png](CreditMarketSolutions_177_2.png)
@@ -481,8 +451,6 @@ Print ('risky_bond_ispread_bps: ',             risky_bond_credit_ispread_bps)
 # Calc z-spread
 Risky_bond_zspread_bps = ql.BondFunctions.ZSpread (fixed_rate_bond,             risky_bond_price,             sofr_yield_curve,             ql. Thirty 360 (ql. Thirty 360. USA),             ql. Compounded,             ql. Semiannual) * 1 e 4
 Print ('risky_bond_zspread_bps: ',             risky_bond_zspread_bps)
-
-
 ```
 
     Risky_bond_price: 98.75601148481837
@@ -530,8 +498,6 @@ Def nelson_siegel_extended (params,             maturity):
         Curvature_2 = slope_2 - np.Exp (-maturity/params[5])
 
         Total_value = total_value + params[4] * curvature_2
-        
-    
     Return total_value
 
 ```
@@ -551,13 +517,13 @@ Curve_shapes_df 2 = pd.DataFrame ([T,             nelson_siegel_extended ([1,   
                                  Nelson_siegel_extended ([0,             0,             0,             2,             1,             10],             T)] for T in range (0,            30,            1))
 Curve_shapes_df 2. Columns = ['TTM',             'Level',             'Slope',             'Curvature_1',             'Curvature_2']
 
-Print (curve_shapes_df 2.Head ())
+Print (curve_shapes_df 2. Head ())
 
 Plt = curve_shapes_df.Plot (x='TTM',             y=['Level',             'Slope',             'Curvature'],             grid=True,             style='-',             title='Nelson-Siegel basis functions',             figsize=(12,            5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
-Plt = curve_shapes_df 2.Plot (x='TTM',             y=['Level',             'Slope',             'Curvature_1',             'Curvature_2'],             grid=True,             style='-',             title='Nelson-Siegel-Svensson basis functions',             figsize=(12,            5))
+Plt = curve_shapes_df 2. Plot (x='TTM',             y=['Level',             'Slope',             'Curvature_1',             'Curvature_2'],             grid=True,             style='-',             title='Nelson-Siegel-Svensson basis functions',             figsize=(12,            5))
 Plt. Set_ylabel ('Curve Level')
 Plt. Set_xlabel ('Time to maturity (years)')
 
@@ -569,18 +535,7 @@ Plt. Set_xlabel ('Time to maturity (years)')
     2    2    1.0  0.632121     0.528482     0.087615
     3    3    1.0  0.517913     0.589566     0.123121
     4    4    1.0  0.432332     0.593994     0.153880
-
-
-
-
-
     Text (0.5,             0,             'Time to maturity (years)')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_183_2.png)
 
 ![png](CreditMarketSolutions_183_3.png)
@@ -612,17 +567,9 @@ Plt. Set_xlabel ('Maturity')
 Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',             y=['Survival Probs'],             grid=True,             style='-',             title='Nelson-Siegel smooth survival probability curve',             figsize=(12,            5))
 Plt. Set_ylabel ('Survival Prob')
 Plt. Set_xlabel ('Maturity')
-
-
 ```
 
     Text (0.5,             0,             'Maturity')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_185_1.png)
 
 ![png](CreditMarketSolutions_185_2.png)
@@ -651,8 +598,6 @@ Print ('nelson_siegel_risky_bond_ispread: ',             nelson_siegel_risky_bon
 # Compute z-spread
 Nelson_siegel_risky_bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,             nelson_siegel_risky_bond_price,             sofr_yield_curve,             ql. Thirty 360 (ql. Thirty 360. USA),             ql. Compounded,             ql. Semiannual) * 1 e 4
 Print ('nelson_siegel_risky_bond_zspread: ',             nelson_siegel_risky_bond_zspread)
-
-
 ```
 
     Nelson_siegel_surv_prob_risky_bond_price: 95.95463373300109

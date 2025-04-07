@@ -333,6 +333,6 @@ Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$,    which is exactly as before. Th
 
 Example:u=0.75,    $d=-0.25$,    $r=0.25$,    $x=100$
 
-![](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
+ ![500](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
 
 Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE

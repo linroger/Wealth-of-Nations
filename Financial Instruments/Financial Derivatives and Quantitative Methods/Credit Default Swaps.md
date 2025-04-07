@@ -13,7 +13,7 @@ tags:
 cssclasses: academia
 ---
 
-# Credit Default Swaps
+# [[Financial Engineering/8. Credit Modeling and Credit Derivatives|Credit Default Swaps]]
 
 Abstract : Credit default swaps (CDS) are the most common type of credit derivative. This paper provides a brief history of the CDS market and discusses its main characteristics. After describing the basic mechanics of a CDS,  I present a simple valuation framework that focuses on the relationship between conditions in the cash and CDS markets as well as an approach to mark to market existing CDS positions. The discussion highlights how the 2008 global financial crisis helped shape current practices and conventions in the CDS market,  including the widespread adoption of standardized coupons and upfront premiums and the increased reliance on centralized counter parties. I also address CDS indexes--focusing on their growing role as key indicators of investors’ attitudes toward credit risk--and briefly examine their behavior during periods of acute financial or economic dislocations,  including those associated with the COVID-19 pandemic.
 
@@ -31,7 +31,7 @@ Broadly speaking,  there are two types of CDS: Single-name CDS are contracts tha
 
 Historically,  credit default swaps have been mostly negotiated in a decentralized over-the-counter market. As a result,  unlike exchanged-based markets,  there are no readily available historical aggregate volume or notional amount statistics that one can draw upon. Instead,  most discussions of the evolution of the market,  its size,  and activity tend to center on results of surveys of market participants and on anecdotal accounts by key market players. For instance,  the Bank for International Settlements (BIS) conducts a semiannual survey of dealers’ derivatives activities around the world,  and that survey has included information on credit default swaps since 2004. Other surveys,  some of which have been discontinued,  go a little further back in the past,  but the credit default swap market is relatively young; it was virtually non-existent in the early 1990 s.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57e6f2b86f9b1317a6b5a42c6dae1edf20e49d705eaac8eb9fdcb2faae4f4b33.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57e6f2b86f9b1317a6b5a42c6dae1edf20e49d705eaac8eb9fdcb2faae4f4b33.jpg)
 
 Source: Bank for International Settlements (2021) and author’s calculations. Note: “End Users” refers to non-dealer end users. List of abbreviations used in Figure 1: Other MN: Other multi-name CDS (non-index product) Spec purp: Special-purpose vehicle,  special-purpose corporation,  or special-purpose entity Sec prod: Se curit i zed products Ref Entity: Reference Entity
 
@@ -63,7 +63,7 @@ While the increased use of sovereign CDS written on the debt of some advanced ec
 
 A case in point is the United States,  where technical default risks have emerged occasionally because of sometimes-contentious negotiations around the U.S. government’s statutory ceiling on its own federal debt. For instance,  in 2011,  amid intense debt-ceiling discussions in Washington,  DC and a related downgrading of U.S. government debt by the credit-rating agency Standard and Poor’s,  one-year CDS spreads on U.S. sovereign debt did widen notably,  before narrowing back following the passing of the Budget Control Act of 2011,  which included provisions to raise the debt limit and reduce future federal deficits (Austin and Miller,  2011). While U.S. debt ceiling negotiations appear to have left some imprint on U.S. sovereign CDS spreads in the few years that immediately followed the 2011 episode,  a study by Boyar chen ko and Sachar (2020) points to a less tight connection in recent years. That study concluded that investor interest in U.S. sovereign CDS has diminished over the past few years,  with the market becoming less liquid and U.S. sovereign CDS spreads becoming a less reliable indicator of investors’ views on U.S. technical default risk.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbdb2d33a35404be88568ab03c6812d2ecc4c5d5186934eda8c01d0ccf081c59.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbdb2d33a35404be88568ab03c6812d2ecc4c5d5186934eda8c01d0ccf081c59.jpg)
 
 # 3.1. Credit Quality of Reference Entities
 
@@ -329,7 +329,7 @@ The composition of CDX. NA. IG is refreshed every six months,  at which point a 
 Credit events related to a given index generally follow the definitions and procedures specified in the single-name CDS contracts that make up the index. For instance,  for CDX. NA. IG,  the relevant credit events are [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] and failure to pay. We will use a simple numerical example to illustrate how a default by an index constituent is handled. Let’s start with a position in CDX. NA. IG with a total notional amount of $\$ 10$ million. As noted above,  CDX. NA. IG is an equal-weight index,  which means that each constituent corresponds to $1/125$ of the position,  or a notional amount of $\$ 80{,  }000$ per constituent in this case. A default by one of the index components would trigger the following changes:
 
 - The weight of the defaulted entity in the index falls to zero. • The total notional amount of the position in the index falls by $1/125$ ,  to $\$ 9.92$ million. • The index weight of each remaining constituent increases to $1/124$ ,  reflecting the fact that each non-defaulted constituent still corresponds to a notional amount of $\$ 80{,  }000$ .
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f875840378663c69d2117dba68ec9bd845b1214422f07da1ce7466cf20d63022.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f875840378663c69d2117dba68ec9bd845b1214422f07da1ce7466cf20d63022.jpg)
 Source: His Markit
 
 A default by an index constituent would also trigger a payment from the protection seller in the index position to the protection buyer,  just as it would be the case in a single-name CDS. Suppose the recovery rate associated with the defaulted reference entity is 45 percent. Assuming that the position is cash settled,  the protection seller would have to pay $\$ 44{,  }000$ to the protection buyer,  or (1-. 45) $_{\textrm{x}80,  000}$ . The newly reweighted index continues to trade until its maturity date,  though it would still be subject a further adjustments in the event of additional defaults among its constituents.

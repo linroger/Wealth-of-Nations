@@ -3,13 +3,13 @@ cssclasses:
   - academia
 Owner: RRoger Lin
 aliases:
-  - Alias_122_Notes on Basic Options Properties.md
-  - Example_Alias_Notes on Basic Options Properties
+  - 
+  - Notes on Basic Options Properties
   - Options
 tags:
-  - example_tag
+  - 
   - Primers/Notes
-  - tag_example
+
 title: Notes on Basic Options Properties
 ---
 

@@ -101,23 +101,23 @@ A 95% percent B 90% percent  $\mathsf{C}$   both of the above D none of the abov
 # Stats Review - Textbook  
 
 Source: BKM, Chapter 8 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/793a53637d523557853f57e416435ddd4095232cc064a0194d91cf63bee4321c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/793a53637d523557853f57e416435ddd4095232cc064a0194d91cf63bee4321c.jpg)  
 # Learning Goals  
 
 $\scriptscriptstyle\odot$  Markets and the Fed, FOMC statements Overview bonds, stocks, money markets, and derivatives nfl ation compensation in government bond markets  
 # Eurodollar Rates around FOMC Announcements  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/60d7ecc28549c563bba4708dc8e154055cd8cf6692945e8e75f75bdedfbd37f5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/60d7ecc28549c563bba4708dc8e154055cd8cf6692945e8e75f75bdedfbd37f5.jpg)  
 # Stock Market Responds to Fed Surprises  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe775b2d5c3544b3b8de26285764ba1552171f1e3599af30facca14109fa0326.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe775b2d5c3544b3b8de26285764ba1552171f1e3599af30facca14109fa0326.jpg)  
 
 Pflueger and Rinaldi (2022), updated from Bernanke and Kuttner (2005)  
 
 Evidence that Fed moves economy? Risk premia? Over-reaction? Autumn 2023 Revision:9/26/2023 Pflueger(UChicago-Harris) 18/43  
 # Perceived Fed Response to Economy from Surveys  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/84f3c98ee1cb0f3c67de5a11149039ba11fb5eff53c954f8fc9e59dc6f660c56.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/84f3c98ee1cb0f3c67de5a11149039ba11fb5eff53c954f8fc9e59dc6f660c56.jpg)  
 Figures 1, Bauer, Pflueger, and Sunderam (2023)  
 # FOMC Statements  
 
@@ -170,7 +170,7 @@ While T-bill rates, Fed funds rate, Eurodollar, commercial paper etc may differ 
 If they were very different one could borrow at the lower rate and invest at the higher. This is called the "Law of One Price" (LOOP)  
 # Eurodollar Example Calculation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/15ff1945d1d2e6aaedf6f8b821edfe1dd9855bc167aa9d44c5f58f14afbd80b1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/15ff1945d1d2e6aaedf6f8b821edfe1dd9855bc167aa9d44c5f58f14afbd80b1.jpg)  
 # Equity Securities  
 
 Stocks (or equities or equity securities) represent ownership shares in a corporation
@@ -183,7 +183,7 @@ Stocks (or equities or equity securities) represent ownership shares in a corpor
 Dow Jones index covers 30 blue chip corporations and has been reported since 1896. Price-weighted average, i.e. it assigns higher weight to stocks with a higher price. · S&P 500 covers approximately the 500 largest U.S. corporations. It will drop some of the top 5 o 0 companies and add others to maintain even industry representation. ● Value-weighted average, i.e. companies with greater market value receive higher weight Both are price indexes, i.e. they reflect changes in stock prices but not dividends, which also contribute to returns  
 # Dow Jones Industrials Index  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f6331905cbbb1b33888b54a44d4ea8131807b6fb24caf2d6667499fe9ceca4ea.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f6331905cbbb1b33888b54a44d4ea8131807b6fb24caf2d6667499fe9ceca4ea.jpg)  
 Source: BKM.Table 2.4 Pflueger (UChicago - Harris)  
 # Data Question  
 
@@ -212,12 +212,12 @@ It is the inflation rate that would make an investor break even (i.e. earn the s
 Nominal return Realreturn = = yield Inflation  
 # TIPS Cash Flows  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a1cf1b2d3752538d364c0dd5be8b94a03ab666e4ae38ffb327a34f075b20b30.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a1cf1b2d3752538d364c0dd5be8b94a03ab666e4ae38ffb327a34f075b20b30.jpg)  
 
 Question: If you are a pension fund with inflation-indexed liabilities, do youprefer to receive or pay T lPS?  
 # Maturity of Outstanding TIPS 1997-2008  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d44475d14ce39976c6ffb169026006ec437989cefe52a1b302915f4aed47c9a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d44475d14ce39976c6ffb169026006ec437989cefe52a1b302915f4aed47c9a.jpg)  
 
 # 10-year TiPS most common and data most reliable  
 # Constant-Maturity Bond Yields  
@@ -229,26 +229,26 @@ But there may not be any Treasury bond with exactly 10 years remaining to maturi
 Two approaches: ① The Federal Reserve official statistical release uses the most recently issued10-yearnote Fit a smooth function to yields of notes and bonds with different maturities (also fromFed researchers) Gurkaynak, Sack, and Wright (2006)  
 # Inflation Swaps Similar, but Require No Up-Front Payment  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d108d0fa2a5dbf3d12890433260839abc3ae775ff6dafa6d139bb51b6d3df285.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d108d0fa2a5dbf3d12890433260839abc3ae775ff6dafa6d139bb51b6d3df285.jpg)  
 Exhibit 1: Example swap payments  
 # Inflation Expectations at Different Horizons  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac248be2e110143598ca81efb120fa6a9c7171710bcba3ed6901fef1fea309b5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac248be2e110143598ca81efb120fa6a9c7171710bcba3ed6901fef1fea309b5.jpg)  
 
 # Source: Cieslak and Pflueger (2023),Figure 3  
 # Inflation Compensation from Inflation Swaps  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c52a097dd48815a5153db0e6c7fd98d178cff8ab6f51d41af652505d2f94fd5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c52a097dd48815a5153db0e6c7fd98d178cff8ab6f51d41af652505d2f94fd5.jpg)  
 
 Source: Cieslak and Pflueger (2023),Figure 4  
 # Bonds, Stocks, and Inflation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c5209bc41d5e8ae2ec9845638bce8930032fe66def5763cad54e766a960d330.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c5209bc41d5e8ae2ec9845638bce8930032fe66def5763cad54e766a960d330.jpg)  
 
 Source:Cieslak and Pflueger(2023),Figure 1A,CAPE=cyclically adjusted price earnings ratio of stocks from RobertS hiller  
 # "Good" Inflation and ‘Bad" Inflation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2382732e58ebb9001b658ea7067f4e17b030447fe8340530913002b186ac8d21.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2382732e58ebb9001b658ea7067f4e17b030447fe8340530913002b186ac8d21.jpg)  
 Source:Cieslak and Pflueger(2023),Figure 1B  
 
 “Good" inflation occurs in economic expansion, “bad" inflation during a recession or stagflation
@@ -298,7 +298,7 @@ $$
 $$  
 
 Option property: Payoff cannot go negative  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05d335de94a1f1b2f9aa528dcb4c94043dc93df380b9deb5b358e40852afb767.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05d335de94a1f1b2f9aa528dcb4c94043dc93df380b9deb5b358e40852afb767.jpg)  
 
 # BKM Figure 20.2  
 # Put Options  
@@ -312,7 +312,7 @@ $$
 $$  
 
 Writing (naked) far out-of-the-money puts is a risky strategy, that generates steady fees income most of the time but can lead to large losses in market downturn (October 1987 crash)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e332f38948ba50eed85bd416ee2fd9e389a354fe212ffc93e5107202fe25e3ca.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e332f38948ba50eed85bd416ee2fd9e389a354fe212ffc93e5107202fe25e3ca.jpg)  
 
 # BKM Figure 20.4  
 # Put-Call Parity  
@@ -337,7 +337,7 @@ Put and call options (BKM, Chapter 20)  2-State option tree (BKM, Chapter 21) Bl
 
 Current stock price: So = \$100. Price will either increase to \$120 or fallto\$90  Call option with exercise price \$110 Interest rate equals 10%  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/853277c5ccc00e99752a174288c63514ca336cbb9f49218e70c491264f1f6484.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/853277c5ccc00e99752a174288c63514ca336cbb9f49218e70c491264f1f6484.jpg)  
 # Replicating Portfolio  
 
 Buy one stock, and borrow \$81.82 at 10% interest rate  
@@ -353,7 +353,7 @@ If stock goes up to \$120, portfolio payoff is 120 - 81.82 × 1.10 = 30 Portfoli
 Argument does not depend on risk-aversion, only no-arbitrage!  
 # Generalized Option Trees  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05f134eb5e8f47d37fa5ce0a4db2b7a1493a165f36ff63050e730e926e1c489d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05f134eb5e8f47d37fa5ce0a4db2b7a1493a165f36ff63050e730e926e1c489d.jpg)  
 
 What is the price of a call option with exercise price \$110?  
 
@@ -449,18 +449,18 @@ Mutual funds overview (BKM, Chapter 4)  $\circledcirc$   Performance metrics (BK
 
 Asset-weighted expense ratios of active and passive investments  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5fe87d9115b18036445bb015133fd9efe885d57eef9809e1e39337556464cde5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5fe87d9115b18036445bb015133fd9efe885d57eef9809e1e39337556464cde5.jpg)  
 
 Sources: The Vanguard Group, Inc. calculations, using data from Morningstar, Inc  
 # Low-Cost Exchange-Traded Funds are Growing  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dd9c8c300d71964f41abd1c5c0ee6dee8cc5085429902b61764052e28904cfe.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dd9c8c300d71964f41abd1c5c0ee6dee8cc5085429902b61764052e28904cfe.jpg)  
 Figure4.2GrowthofU.S.ET Fs overtime  
 
 Source:2 o 18 Investment Company FactBook,Investment Company Institute.  
 # Assets under Management of Investments Industry  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/565f27ba36410b2c738c469e9b2750a188ff571bb5b1ea2962b42b56f309a9d7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/565f27ba36410b2c738c469e9b2750a188ff571bb5b1ea2962b42b56f309a9d7.jpg)  
 
 Figure 4.3 Investment company assets under management (\$ billion) Source: 2021 Investment Company Fact Book, Investment Company Institute.  
 # Learning Goals  
@@ -487,7 +487,7 @@ We will evaluate returns relative to benchmarks.
 The risk-return trade-off of mutual funds can be summarized through performance metrics  
 # Bloomberg Performance Measures  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/594dd4356db54ea18531f2b0e50736bea9072f1a1ea9ad4c4f5d08ef45ec8512.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/594dd4356db54ea18531f2b0e50736bea9072f1a1ea9ad4c4f5d08ef45ec8512.jpg)  
 # Decomposing Fund Returns  
 
 #  $r_{i,t}-r_{f,t-1}=\alpha_{i}+\beta_{i}^{m}\times\left(r_{m,t}-r_{f,t-1}\right)+\alpha_{i}$  Ei,t  
@@ -495,7 +495,7 @@ The risk-return trade-off of mutual funds can be summarized through performance 
 ri.t: return on an asset/investment/portfolio Orf.t-1: return on the risk-free asset  $r_{I,t}-r_{f,t-1}$  :excess return on the asset/investment/portfolio  $r_{m,t}-r_{f,t-1}$  excess return on the market  $\beta_{i}^{m}\times\big(r_{m,t}-r_{f,t-1}\big);$  variation in excess returns explained by the market Ei.t: part of excess return not explained by the market  
 # Decomposing Fund Risks  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52fa591aeb43fece45d553b586f3a0f2bf1d422b643ad3fc18c603a6a8bdd038.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52fa591aeb43fece45d553b586f3a0f2bf1d422b643ad3fc18c603a6a8bdd038.jpg)  
 
 Total fund risk is the sum of market risk and idiosyncratic risk (also called residual variance or tracking error)  
 # Estimating Components of Risk  
@@ -553,7 +553,7 @@ All performance measures closely related to fund's CAPM α.
 
 "Annual excess return'" denotes CAPM α  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9f7336173286285d687e2c878b16f63b74edae1d5845a8facc0c35aff8dc198d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9f7336173286285d687e2c878b16f63b74edae1d5845a8facc0c35aff8dc198d.jpg)  
 igure13. Relationship between expense ratio and excess returns for S&P 5 oo Index funds Source:Vanguard:The case for index-fund investing for Canadian investors  
 # Learning Goals  
 
@@ -635,22 +635,22 @@ Rebalance portfolios once a year when firms are re-sorted.
 What excess returns do they have? What CAPM βs do they have? WhatCAPMas do theyhave?  
 # Size Decile Portfolios: Excess Returns  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c63c45510db9b8a423e352f5cc4b82e41491d02bef94c3325c0e026b40e4c90b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c63c45510db9b8a423e352f5cc4b82e41491d02bef94c3325c0e026b40e4c90b.jpg)  
 # Size Decile Portfolios: CAPM βs  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd8841a601a5bc2a9199e88a7c3b9dd6b5bf2b3d76e37946fe6d054bb82c7929.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd8841a601a5bc2a9199e88a7c3b9dd6b5bf2b3d76e37946fe6d054bb82c7929.jpg)  
 # Size Decile Portfolios: CAPM as  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77152be56acc357632f8b6cc165ea8b06e7ec9c07b9273c71e0fc0e8b1a7413b.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77152be56acc357632f8b6cc165ea8b06e7ec9c07b9273c71e0fc0e8b1a7413b.jpg)  
 # B/M Decile Portfolios: Excess Returns  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a4ae6381f1a1f5c301a961c6cb13c396c555ac08cd0272e715de91cd9810589c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a4ae6381f1a1f5c301a961c6cb13c396c555ac08cd0272e715de91cd9810589c.jpg)  
 # B/M Decile Portfolios: CAPM βs  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55ec7851b26e2a74863c304184b894ce5e695610a24bc5dbc117ec8980630eaa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55ec7851b26e2a74863c304184b894ce5e695610a24bc5dbc117ec8980630eaa.jpg)  
 # B/M Decile Portfolios: CAPM as  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b5489ea0ca5e059de03de3e2882cf664877598d8e94659d88b94933d31c2968.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b5489ea0ca5e059de03de3e2882cf664877598d8e94659d88b94933d31c2968.jpg)  
 # Takeaways: Size and Value Porfolios  
 
 Excess portfolio returns decrease in size and increase in book-to-market equity ratio.  
@@ -745,7 +745,7 @@ Market structure
 
 All investors agree on efficient frontier of risky assets  
 
-Because all investors face the same risk-free rate(Assumption 2.b) they draw the same tangent CAL and arrive at the same risky tang en cy portfolio  
+Because all investors face the same risk-free rate(Assumption 2. b) they draw the same tangent CAL and arrive at the same risky tang en cy portfolio  
 
 By the mutual fund theorem,all investors hence hold the same mix of risky assets  
 
@@ -754,7 +754,7 @@ Equilibrium insight: Portfolios must add up
 Becauseall investors hold the same risky weights,we can conclude that everyone holds a risky portfolio proportional to the market portfolio. CAL= Capital Market Line  
 # Capital Market Line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db3fec647a33b699f1beccbce80e19f663c47e7811a04bda5a4be1ac223e4faa.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db3fec647a33b699f1beccbce80e19f663c47e7811a04bda5a4be1ac223e4faa.jpg)  
 
 Source:BKM Figure 9.1  
 
@@ -801,7 +801,7 @@ Know that tangency portfolio maximizes overall Sharpe ratio and tangency portfol
 ● Consider increasing the allocation to GE by a small amount w. We musthave  $\frac{d S h a r p e}{d\omega}\bar{=}0$  or else we could increase our Sharpe ratio. This is not possible because market=tangency.  
 
 $$
-\begin{array}{r l r}{\pmb{\upsilon}e}&{=}&{\displaystyle\frac{\omega\mathbb{E}\left(r_{G E}-r^{f}\right)+\mathbb{E}\left(r_{M}-r^{f}\right)}{\sqrt{\omega^{2}\sigma_{G E}^{2}+2\omega C o v\left(r_{G E},r_{M}\right)+\sigma}}}\\ &{=}&{\displaystyle\frac{\mathbb{E}\left(r_{G E}-r^{f}\right)}{\sigma_{M}}-C o v\big(r_{G E},r_{M}\big)\frac{\mathbb{E}\left(\
+\begin{array}{r l r}{\textdollar{\upsilon}e}&{=}&{\displaystyle\frac{\omega\mathbb{E}\left(r_{G E}-r^{f}\right)+\mathbb{E}\left(r_{M}-r^{f}\right)}{\sqrt{\omega^{2}\sigma_{G E}^{2}+2\omega C o v\left(r_{G E},r_{M}\right)+\sigma}}}\\ &{=}&{\displaystyle\frac{\mathbb{E}\left(r_{G E}-r^{f}\right)}{\sigma_{M}}-C o v\big(r_{G E},r_{M}\big)\frac{\mathbb{E}\left(\
 $$  
 
 dSharpe Setting = 0 gives do 10=0  $\frac{\mathbb{E}\left(r_{G E}-r^{f}\right)}{C o v\left(r_{G E},r_{M}\right)}\;\;=\;\;\frac{\mathbb{E}\left(r_{M}-r^{f}\right)}{\sigma_{M}^{2}}$  
@@ -818,14 +818,14 @@ Note that the total volatility of asset i does not enter.
 : In a well-functioning market, investors receive return only if they are willing to bear risk  
 # The Security Market Line (SML)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/784a82a3c5ae652f6a584a5154320c6a1fb374d45a148cdbedb0adf09ab7c807.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/784a82a3c5ae652f6a584a5154320c6a1fb374d45a148cdbedb0adf09ab7c807.jpg)  
 
 BKM Figure 9.2  
 
 The SML plots the risk-return trade-off for individual assets. By contrast the CML plots the risk premium of efficient portfolios.  
 # Evaluating Mutual Fund Performance  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/756f0361db8410754b502a352f2d98506ffa8795d723195e049119aa3857ce2f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/756f0361db8410754b502a352f2d98506ffa8795d723195e049119aa3857ce2f.jpg)  
 
 BKM Figure 9.3  
 
@@ -884,7 +884,7 @@ Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide
 ● Main framework: Mean-variance analysis (Markowitz) Reading:B KM Chapters 6 and 7  
 # Example Asset Allocation: Cook County Pension Fund  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e523c5ca6619af16328803ad6fcc3e4c5ee214177b4fff57e83c2a90215dff4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e523c5ca6619af16328803ad6fcc3e4c5ee214177b4fff57e83c2a90215dff4.jpg)  
 Cook County Asset Allocation As of December 31,2018  
 
 Cook County Pension Fund,accessed10/18/2020  
@@ -898,7 +898,7 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # What is risk aversion?  
 
 ·It captures your personal preference.Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher expected return with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
@@ -915,12 +915,12 @@ Do you prefer a higher expected return with more risk? ● Backcountry sking in 
   Or do you prefer a lower expected return in exchange for less risk? In-bounds skiing ongreens and blues  
 # Risk-Loving (low )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68b874801aceece5d7e12f79c00de69aa141726dc8f8e4b1f4fa34c2775df1dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68b874801aceece5d7e12f79c00de69aa141726dc8f8e4b1f4fa34c2775df1dd.jpg)  
 
 Source:https://coast backcountry.com/2005/02/26/fissile-peak-northwest-face/ accessed 10/23/2019  
 # Risk-Averse (high y)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fbac508aa37be8db6d4ed9e7aaf572898873cd35db7ec647c3b1925e2c4e3881.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fbac508aa37be8db6d4ed9e7aaf572898873cd35db7ec647c3b1925e2c4e3881.jpg)  
 
 https://www.whistler.com/blog/post/2017/01/17/whistler-green-ski-runs/ accessed 10/23/2019  
 # Risk Aversion and Investments  
@@ -962,7 +962,7 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
 Risky rate of return rp, expected risky rate of return   $\mathbb{E}(r_{P})$  ,standard deviation Op  
@@ -1012,7 +1012,7 @@ $$
 
 The CAL plots the available mean-standard deviation return combinations  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ae9bdc0a7edb85567483269d9c58773a2a5ec8ad49d1256375f865c51335ce.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ae9bdc0a7edb85567483269d9c58773a2a5ec8ad49d1256375f865c51335ce.jpg)  
 
 Source:BKM Figure 6.3  
 
@@ -1021,7 +1021,7 @@ _E(rp)-rf Slope of CAL=Sharpe ratio of risky asset= Op
 If the risky asset is a broad stock index, this is also called the Capital Markets Line (CML)  
 # Choose feasible allocation on highest indifference curve  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffc4ef2819a491e5e12bb979be37055706656baf97673f279f8efa19cc792fb7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffc4ef2819a491e5e12bb979be37055706656baf97673f279f8efa19cc792fb7.jpg)  
 
 Source:BKM Figure 6.7  
 
@@ -1032,10 +1032,10 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$   Mutual fund theorem  
+$\textdollar{\Theta}$   Mutual fund theorem  
 # Benefits of Diversification  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/711b30adc4ed8a151c5a889ecfd857efa0dbb6ca71d3c8fc70e493644dccb583.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/711b30adc4ed8a151c5a889ecfd857efa0dbb6ca71d3c8fc70e493644dccb583.jpg)  
 
 Source:BKMFigure7.2  
 
@@ -1087,7 +1087,7 @@ Application: Investment opportunity set for stocks and long-term bonds
 Mutual fund theorem  
 # Correlation of Bonds and Stocks has Changed  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec1344fe682514095c18229633869cb7f6c4803da2645da8b30dbcc78c0acb40.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec1344fe682514095c18229633869cb7f6c4803da2645da8b30dbcc78c0acb40.jpg)  
 
 # Source: Campbell, Pflueger, and Viceira (2020)  
 
@@ -1096,11 +1096,11 @@ Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing o
 
 Figure5:Volatility of an equity-bond portfolio with an X percent equity allocation(x-axis)across correlations  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8424b3896be87befdb28fabc920af30763170490b9d092c88ba03c10ba012711.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8424b3896be87befdb28fabc920af30763170490b9d092c88ba03c10ba012711.jpg)  
 Source:Leibowitz and B ova(2012),NBIM  
 # Task: Compute Investment Opportunity Set with Stocks andBonds  
 
-·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\pmb{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
+·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
 # Learning Goals  
 
 DRisk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
@@ -1109,17 +1109,17 @@ DRisk aversion and mean-variance analysis Optimal risky asset share with one ris
 
 Application:Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # Asset Allocation with Two Risky Assets and a Risk-Free Asset  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f64b4e4be1658c1b06d08a9c71c22f5ab8b15336ec000439bf457e100fe4c9f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f64b4e4be1658c1b06d08a9c71c22f5ab8b15336ec000439bf457e100fe4c9f.jpg)  
 
 Source:BKM Figure7.6  
 
 ·Portfolios A and B have different capital allocation lines (CAL) Slope of CAL is Sharpe ratio of portfolic  
 # But we can do better..  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fbad8a50285000bedea39c31bb35e4d6de1f1ba88b2464c653abf5f22a88cc1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fbad8a50285000bedea39c31bb35e4d6de1f1ba88b2464c653abf5f22a88cc1.jpg)  
 
 Source:BKM Figure 7.7  
 
@@ -1133,14 +1133,14 @@ Tangency portfolio  $P$  has weights wp and we in bonds and stocks that generate
 An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency portfolio and a share 1- in the risk-freeasset  
 # Multiple Risky Assets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5b35ec8890c35f5e9a4c85086e4ec75ae661dc173ce3ef12ec70deb23a12062.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5b35ec8890c35f5e9a4c85086e4ec75ae661dc173ce3ef12ec70deb23a12062.jpg)  
 
 Source:BKM Figure7.10  
 
 Efficient frontier describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the efficient frontier Any portfolio on the efficient frontier is a linear combination of the global minimum variance portfolio and the tangency portfolio It is again optimal to hold a combination of the tangency portfolio andtherisk-freeasset  
 # Optimal Capital Allocation Line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c06382708806bf8608b4de08a78927de88db59e30fe2e9321a166e93e640cb32.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c06382708806bf8608b4de08a78927de88db59e30fe2e9321a166e93e640cb32.jpg)  
 
 Source:BKM Figure 7.11  
 
@@ -1172,7 +1172,7 @@ Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide
 ● Main framework: Mean-variance analysis (Markowitz) Reading:B KM Chapters 6 and 7  
 # Example Asset Allocation: Cook County Pension Fund  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db936185fb901b13285cefcb93e21e0cc2e35ce1e3956a9af751930eccbbddb5.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db936185fb901b13285cefcb93e21e0cc2e35ce1e3956a9af751930eccbbddb5.jpg)  
 Cook County Asset Allocation As of December 31,2018  
 
 Cook County Pension Fund,accessed10/18/2020  
@@ -1186,7 +1186,7 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # What is risk aversion?  
 
 ·It captures your personal preference.Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher expected return with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
@@ -1203,12 +1203,12 @@ Do you prefer a higher expected return with more risk? ● Backcountry sking in 
   Or do you prefer a lower expected return in exchange for less risk? In-bounds skiing ongreens and blues  
 # Risk-Loving (low )  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22c9327c059534efe6236ffa84ca20b4ad738780bc57c246f17714fc60162466.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22c9327c059534efe6236ffa84ca20b4ad738780bc57c246f17714fc60162466.jpg)  
 
 Source:https://coast backcountry.com/2005/02/26/fissile-peak-northwest-face/ accessed 10/23/2019  
 # Risk-Averse (high y)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35a5c356c384501a850843c44a403eb8fdfff53583e79f72669b768e0b4a7c60.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35a5c356c384501a850843c44a403eb8fdfff53583e79f72669b768e0b4a7c60.jpg)  
 
 https://www.whistler.com/blog/post/2017/01/17/whistler-green-ski-runs/ accessed 10/23/2019  
 # Risk Aversion and Investments  
@@ -1250,7 +1250,7 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
 Risky rate of return rp, expected risky rate of return   $\mathbb{E}(r_{P})$  ,standard deviation Op  
@@ -1300,7 +1300,7 @@ $$
 
 The CAL plots the available mean-standard deviation return combinations  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5815edd6afad0f69c10eecd1f40c791fcbbe521ee4cf423f4e322cc4a2833dca.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5815edd6afad0f69c10eecd1f40c791fcbbe521ee4cf423f4e322cc4a2833dca.jpg)  
 
 Source:BKM Figure 6.3  
 
@@ -1309,7 +1309,7 @@ _E(rp)-rf Slope of CAL=Sharpe ratio of risky asset= Op
 If the risky asset is a broad stock index, this is also called the Capital Markets Line (CML)  
 # Choose feasible allocation on highest indifference curve  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e383de76329ad28e2b0089bf3eaf40865f7ed919f54f33aea65f0a8fda0da2a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e383de76329ad28e2b0089bf3eaf40865f7ed919f54f33aea65f0a8fda0da2a.jpg)  
 
 Source:BKM Figure 6.7  
 
@@ -1320,10 +1320,10 @@ Risk aversion and mean-variance analysis Optimal risky asset share with one risk
 
 Application: Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$   Mutual fund theorem  
+$\textdollar{\Theta}$   Mutual fund theorem  
 # Benefits of Diversification  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b140a0fcacd73ff2cb3cf222283fdaef0c966901a289d75faca3a00736dac838.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b140a0fcacd73ff2cb3cf222283fdaef0c966901a289d75faca3a00736dac838.jpg)  
 
 Source:BKMFigure7.2  
 
@@ -1375,7 +1375,7 @@ Application: Investment opportunity set for stocks and long-term bonds
 Mutual fund theorem  
 # Correlation of Bonds and Stocks has Changed  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25804e4b422e8c7f35b531bf8cef8b34d591f85e9342f95beb73c1f5430acbce.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25804e4b422e8c7f35b531bf8cef8b34d591f85e9342f95beb73c1f5430acbce.jpg)  
 
 # Source: Campbell, Pflueger, and Viceira (2020)  
 
@@ -1384,11 +1384,11 @@ Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing o
 
 Figure5:Volatility of an equity-bond portfolio with an X percent equity allocation(x-axis)across correlations  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d6bc35ab366f85f4585b32077bb7f541915e61b3efffad12998951278304854.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d6bc35ab366f85f4585b32077bb7f541915e61b3efffad12998951278304854.jpg)  
 Source:Leibowitz and B ova(2012),NBIM  
 # Task: Compute Investment Opportunity Set with Stocks andBonds  
 
-·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\pmb{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
+·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
 # Learning Goals  
 
 DRisk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
@@ -1397,17 +1397,17 @@ DRisk aversion and mean-variance analysis Optimal risky asset share with one ris
 
 Application:Investment opportunity set for stocks and long-term bonds  
 
-$\pmb{\Theta}$  Mutual fund theorem  
+$\textdollar{\Theta}$  Mutual fund theorem  
 # Asset Allocation with Two Risky Assets and a Risk-Free Asset  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c67187ac3d73b418f1d789727e0e0ef24000821f78f6de0cd23bd846f90d15cb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c67187ac3d73b418f1d789727e0e0ef24000821f78f6de0cd23bd846f90d15cb.jpg)  
 
 Source:BKM Figure7.6  
 
 ·Portfolios A and B have different capital allocation lines (CAL) Slope of CAL is Sharpe ratio of portfolic  
 # But we can do better..  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ced1ab7cf9cd0834b1b2876d9e8f2ea7ac9468544ecd80851105d811db34464a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ced1ab7cf9cd0834b1b2876d9e8f2ea7ac9468544ecd80851105d811db34464a.jpg)  
 
 Source:BKM Figure 7.7  
 
@@ -1421,14 +1421,14 @@ Tangency portfolio  $P$  has weights wp and we in bonds and stocks that generate
 An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency portfolio and a share 1- in the risk-freeasset  
 # Multiple Risky Assets  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67ec7a55e30348753e705df14f0f6bbcf3805bb3a6ae1b859c79af4422e45217.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67ec7a55e30348753e705df14f0f6bbcf3805bb3a6ae1b859c79af4422e45217.jpg)  
 
 Source:BKM Figure7.10  
 
 Efficient frontier describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the efficient frontier Any portfolio on the efficient frontier is a linear combination of the global minimum variance portfolio and the tangency portfolio It is again optimal to hold a combination of the tangency portfolio andtherisk-freeasset  
 # Optimal Capital Allocation Line  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f47c137f7336f9562df49a1b3356ae59bffdde3dc228ad96238322e8e6e2e88c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f47c137f7336f9562df49a1b3356ae59bffdde3dc228ad96238322e8e6e2e88c.jpg)  
 
 Source:BKM Figure 7.11  
 
@@ -1463,7 +1463,7 @@ Implications for long-term portfolio allocation
 Dividend discount model and predicting stocks from dividend yield  
 # Gamblers in the 17th Century  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a6930857a67f1bdba1a67b4e6c31e082905843b9e1ccc1bedabc13a8cb0e2822.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a6930857a67f1bdba1a67b4e6c31e082905843b9e1ccc1bedabc13a8cb0e2822.jpg)  
 
 Musee du Louvre/A.Dequier -M.Bard  
 # Market Efficiency  
@@ -1514,11 +1514,11 @@ Investors would bid up price until it reflects information
 Financial markets are competitive, full of smart investors. Don't underestimate your competition!  
 # Evidence from Takeovers Supports EMH  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94ec1ed975020e321d28857a08d260eaf683f84a666006c1b9143b18a2a6a4b1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94ec1ed975020e321d28857a08d260eaf683f84a666006c1b9143b18a2a6a4b1.jpg)  
 BKM Figure 11.1  
 # Evidence from CNBC Reports Supports EMH  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32157a634ae94d94ec1082c5563e2a0faab0fbd781ad8a9d9e10de5049c49315.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32157a634ae94d94ec1082c5563e2a0faab0fbd781ad8a9d9e10de5049c49315.jpg)  
 BKM Figure 11.2  
 # Learning Goals  
 
@@ -1553,17 +1553,17 @@ When  $\rho=0$  , we call the returns ‘id'=independent and identically distrib
 ：Consistent with market efficiency  Implies no predictability in returns  
 # Illustration: Positive Auto correlation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba6fb2d2e916af72f6c1889126a2a84fb810749749e58dac81288df000616a3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ba6fb2d2e916af72f6c1889126a2a84fb810749749e58dac81288df000616a3.jpg)  
 
 If  $\rho>0$  , positive returns tend to be followed by positive returns  
 # ll lust ration: Positive Auto correlation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c564fecff9c4ec567477e20bfaacaadfd2a871bbe43191629675215208e7a05.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c564fecff9c4ec567477e20bfaacaadfd2a871bbe43191629675215208e7a05.jpg)  
 
 OIf  $\rho>0$  ,positive returns tend tobe followed by positive returns ● If market not perfectly efficient, time t price does not fully increase to the new efficient market price  
 # ll lust ration: Positive Auto correlation  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b94de288cb46c9591e24b7600d8627552731bf6ce31e235f0c1bb6cb0af055e7.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b94de288cb46c9591e24b7600d8627552731bf6ce31e235f0c1bb6cb0af055e7.jpg)  
 
 f  $\rho>0$  , positive returns tend to be followed by positive returns  
 
@@ -1616,7 +1616,7 @@ Expected next month stock return depends on whether the market recently went up 
 If  $\rho>0$  , an above-average return forecasts above-average returns If  $\rho<0$  , an above-average return forecasts below-average returns  
 # Interpreting the Auto correlation Coefficient  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53c50627107aea104562f2fbc9456ec1eac361b7675499dfdefda91e074c8d17.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53c50627107aea104562f2fbc9456ec1eac361b7675499dfdefda91e074c8d17.jpg)  
 
 $$
 \bullet\,\,\,r_{t+1}-\mu=\rho\big(r_{t}-\mu\big)+\varepsilon_{t+1}
@@ -1737,7 +1737,7 @@ $$
 Long-term investors should hold a higher risky asset share if auto correlation is negative("ride out the ups anddowns of the market")  
 # Consistent with Standard Target Date Funds  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d023802c3e8739e8905c3b3016561eb70feaeeb1347727f7e64db7a8272f5717.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d023802c3e8739e8905c3b3016561eb70feaeeb1347727f7e64db7a8272f5717.jpg)  
 FIGURE5. Glide path for Vanguard target-datefunds  
 
 Vanguard's Approach to Target Date Funds (2022)  
@@ -1782,7 +1782,7 @@ $$
 This implies that dividend yields are high if ·R is high ●G is low  
 # Historical U.S. Dividend-Price Ratio  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/437aea7b094893d0ca3a12e27e9a9eaee9d5ea849be553138f0148f8c980ce29.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/437aea7b094893d0ca3a12e27e9a9eaee9d5ea849be553138f0148f8c980ce29.jpg)  
 USS&PDividend-PriceRatio  
 # Why are Dividend Yields Time-Varying?  
 
@@ -1860,7 +1860,7 @@ Compute returns over different horizons Understand typical returns on bonds and 
 
   $\mathbf{\Theta}$  Computing bond yields from prices
 
-  $\pmb{\odot}$  Use duration to approximate bond returns  
+  $\textdollar{\odot}$  Use duration to approximate bond returns  
 # Computing Returns  
 # Holding-Period Returns  
 
@@ -1871,12 +1871,12 @@ Alternative notation:  $R_{t+1}$  if the length of the holding period is specifi
 Example:t=September 2019，t+1=September 2020 Reading: BKM Chapter 5 “Risk, Return, and the Historical  
 # Holding-Period Return  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27857833df69184d962e74fdcf673a577afb1eb58065a1e6c2e55c74ccc04e66.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27857833df69184d962e74fdcf673a577afb1eb58065a1e6c2e55c74ccc04e66.jpg)  
 
 Pt =beginning price Pt+1 = endprice Dt+1=cash dividend  This assumes that the dividend is paid at the end of the holding period  
 # Holding-Period Return  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb84ba74b3c164a9ca19ac353cb792d23eb09963ef80776c5401f05ac66ad7cb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb84ba74b3c164a9ca19ac353cb792d23eb09963ef80776c5401f05ac66ad7cb.jpg)  
 
 Pt =beginning price Pt+1 = end price  Dt+1 = cash dividend This assumes that the dividend is paid at the end of the holding period Example:  $\rho_{t+1}=110,\;P_{t}=100,\;D_{t+1}=4$  What is the holding period return?  
 # Excess Returns  
@@ -1975,22 +1975,22 @@ $$
 # Historical returns on bonds and stocks  
 # Annual Returns of Major Asset Classes 1926-2015  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/018ae6da4c2b8847682c09eefcaf5e154bb441fd1ac1ecf37e6b9548543b1ced.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/018ae6da4c2b8847682c09eefcaf5e154bb441fd1ac1ecf37e6b9548543b1ced.jpg)  
 
 Bodie-Kane-Marcus Table 5.3  
 # Frequency Distribution T-Bills  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b2694ff8e8ff7df799967f79f2b2c31ef4c6bb584e2b9f993bf69ce2f66924a.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b2694ff8e8ff7df799967f79f2b2c31ef4c6bb584e2b9f993bf69ce2f66924a.jpg)  
 # Frequency Distribution Treasury Bonds  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/decee6e826a09bba080e77cbbd112e3fb15627d65620559c0dd5303b421fb1dd.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/decee6e826a09bba080e77cbbd112e3fb15627d65620559c0dd5303b421fb1dd.jpg)  
 # Frequency Distribution Stocks  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3d0a62b7ca9448b6aea02cc6b45e111de39c5e35475447e1db4fb4640d66fc1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3d0a62b7ca9448b6aea02cc6b45e111de39c5e35475447e1db4fb4640d66fc1.jpg)  
 C:U.S.Equity Market Index  
 # Historical Bond and Stock Prices  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45ef38ddd3b2b2d6d081376df90c354c9147b18230bd24d79102d2b9bcdbb6f2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45ef38ddd3b2b2d6d081376df90c354c9147b18230bd24d79102d2b9bcdbb6f2.jpg)  
 Source:RobertS hiller'swebsite  
 # Bond Yields and Prices  
 # Present Value  
@@ -2046,7 +2046,7 @@ A negative term spread (or "inverted yield curve") is often thought to be apredi
 Reading: Bodie-Kane-Marcus Chapters 14 and 15  
 # Yield Curve  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e44fc280dd0651f5cd80e214e87335dd6e9230a9e35ca44ae32417ddc1b7e48.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e44fc280dd0651f5cd80e214e87335dd6e9230a9e35ca44ae32417ddc1b7e48.jpg)  
 Term Structure of Interest Rates Source: St. Louis Fred  
 # Bond Duration  
 # Coupon Bonds  
@@ -2079,12 +2079,12 @@ $$
 $$  
 # Example: Ceasar's Entertainment CZR 5.625 06/01/2015 Corp  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1859ea98e96ef934ab118d431f898ffd8b78533c36d1070854263cca090c0032.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1859ea98e96ef934ab118d431f898ffd8b78533c36d1070854263cca090c0032.jpg)  
 
 Source: Bloomberg  
 # Macaulay's Bond Duration CZR 5.625 06/01/2015 Corp  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccb1894c9d0c438b457069e87902093e6b4446ce6ea1718c28c75a92795b8504.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccb1894c9d0c438b457069e87902093e6b4446ce6ea1718c28c75a92795b8504.jpg)  
 # Use Duration to Approximate Bond Returns  
 
 Duration tells you how much the bond price changes when yields change  

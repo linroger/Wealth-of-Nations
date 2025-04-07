@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
-- Alias_74_WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
+- WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
+- WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 ---
-
-
-
-
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 
 It had been a rough day,  but when Alan Schwartz headed for home on Friday,  March 14,  the [Bear Stearns](https://archive.is/o/uKM5J/https://quotes.wsj.com/bsc) Cos. chief executive thought he'd have a month to find a buyer for his teetering firm.
@@ -51,7 +47,7 @@ called Tom Marano,  the head of Bear Stearns's mortgage division,  to ask,  "Is 
 
 "I'm not short,  " Mr. Griffin insisted. Any doubters could visit Citadel,  he said,  and review its trading positions themselves.
 
-![](https://archive.is/uKM5J/3b38080d0b45a884fe9a8e113777738eec6c344d.jpg)
+ ![500](https://archive.is/uKM5J/3b38080d0b45a884fe9a8e113777738eec6c344d.jpg)
 
 Citadel CEO Kenneth Griffin denies to a Bear Stearns executive that he is betting against the firm's stock.
 
@@ -87,7 +83,7 @@ The bank had gotten cold feet after its senior managers returned to Park Avenue 
 
 A deal with Flowers wasn't looking any more likely. By midday Sunday,  the buyout firm knew it would be impossible to raise $20 billion fast enough to keep Bear Stearns operating. Flowers now toyed with alternatives: It asked Mr. Parr if Bear Stearns's large rivals would consider buying the firm's prime-brokerage business,  a prized asset that processed and financed trades with big clients. Perhaps then,  Flowers reasoned,  it could proceed with a purchase of Bear Stearns's core bond and stock units. Those deals never materialized.
 
-![](https://archive.is/uKM5J/ba4821ed94c6609c7dc1345e73243481120b6169.jpg)
+ ![500](https://archive.is/uKM5J/ba4821ed94c6609c7dc1345e73243481120b6169.jpg)
 
 Bear Stearns CFO Samuel Molinaro finds out that the federal government wants his firm sold in two days.
 
@@ -113,7 +109,7 @@ Given the unprecedented level of government involvement in rescuing the troubled
 
 By midafternoon,  as Bear Stearns directors hashed out these issues,  Mr. Parr took a call from Doug Braunstein,  head of investment banking at J.P. Morgan. "The number's $2,  " Mr. Braunstein told him.
 
-![](https://archive.is/uKM5J/01cd03d79bff46dd2127a27df00bb97016366393.jpg)
+ ![500](https://archive.is/uKM5J/01cd03d79bff46dd2127a27df00bb97016366393.jpg)
 
 J.P. Morgan CEO James Dimon tries to woo upset Bear Stearns employees.
 
@@ -145,7 +141,7 @@ The query irked Mr. Dimon. "Who is this?" he snapped. Mr. Pandit identified hims
 
 In the next few hours,  Mr. Dimon would have a bigger reason to be annoyed. The hurried deal had a loophole that could give angry Bear Stearns investors powerful leverage to seek a higher price: J.P. Morgan had pledged to finance Bear Stearns's trades for a year -- even if shareholders rejected the deal.
 
-[![](https://archive.is/uKM5J/5cade256b9e764ea98876f309075310bac9dc056.gif)](https://archive.is/20230609053159/https://www.wsj.com/articles/SB121202057232127889#)
+[ ![500](https://archive.is/uKM5J/5cade256b9e764ea98876f309075310bac9dc056.gif)](https://archive.is/20230609053159/https://www.wsj.com/articles/SB121202057232127889#)
 
 Review biographical details of the major players in the Bear Stearns deal. 
 
@@ -187,7 +183,7 @@ The firm's directors talked briefly about suing J.P. Morgan to continue the fina
 
 While Mr. Cohen telephoned his contacts at the New York Fed,  Mr. Schwartz called Kevin Warsh,  a former investment banker at Morgan Stanley who had been a member of the Federal Reserve Board for two years. "We're under a perceived threat,  " Mr. Schwartz told Mr. Warsh,  explaining that J.P. Morgan appeared to be playing hardball in order to garner a bigger chunk of Bear Stearns's shares. While Bear Stearns was prepared to renegotiate,  Mr. Schwartz said,  it needed a higher price. Mr. Warsh pressed him for details on the firm's situation but declined to take sides.
 
-![](https://archive.is/uKM5J/4dd8ebb8c567993ec4407671be90935670006267.gif)
+ ![500](https://archive.is/uKM5J/4dd8ebb8c567993ec4407671be90935670006267.gif)
 
 On Easter morning,  Mr. Schwartz called Mr. Dimon. "There's a psychological limit here,  " he said. Bear Stearns's directors needed a sale price in the double digits to feel comfortable. "Don't come back to me at $9.99,  " he cautioned Mr. Dimon.
 

@@ -24,37 +24,37 @@ Central counter parties (CCP - Impact on pricing of derivatives.
 - Negative rates in many periods
 # The Outstanding Amount U.S. Debt
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e98342aeebdbcbf4c3c5d40b5b8024bc83ba4bd7d152a058300e197a2d098a5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e98342aeebdbcbf4c3c5d40b5b8024bc83ba4bd7d152a058300e197a2d098a5.jpg)
 
 PanelA. Billions of US Dollars
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/223e187f64dc20a2341da1c355d243bc9fc328dcb0b21e0d3f386739fe8308ca.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/223e187f64dc20a2341da1c355d243bc9fc328dcb0b21e0d3f386739fe8308ca.jpg)
 
 Panel B. Percentage of US GDF (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 # Federal Funds and U.S. Treasury Yields
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00d4bfb06d8ddf5c00ff6ab3e7edb27588cef7698afaca1686546234288efac1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00d4bfb06d8ddf5c00ff6ab3e7edb27588cef7698afaca1686546234288efac1.jpg)
 
 PanelA. Federal Funds Effective Rate
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/88f5abe0103ba857c48a6b1a50f244f89445a3d2c076f618e5255f63c5dde492.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/88f5abe0103ba857c48a6b1a50f244f89445a3d2c076f618e5255f63c5dde492.jpg)
 
 Panel B. Zero-Coupon Bond Yields (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series. )
 
 # The Notional Amount of Over-the-Counter Derivatives
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcf309ded8027b1df718b626b3b31dfc98b863aa3cf8a46d15fc651804b93fb3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcf309ded8027b1df718b626b3b31dfc98b863aa3cf8a46d15fc651804b93fb3.jpg)
 
 Panel A. Millions of US Dollars
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55a51c9ecf78e1395d2d81af3c54294a247f760e83f356bf083e9988a62badba.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55a51c9ecf78e1395d2d81af3c54294a247f760e83f356bf083e9988a62badba.jpg)
 
 Panel B. Multiple of Global GDP
 
 # The Changing Beta of U.S. Treasury Bonds
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7d3f5985914a6b995abfe4a1405eba23d622d547c9e4d8201ec79c505fe3e58.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7d3f5985914a6b995abfe4a1405eba23d622d547c9e4d8201ec79c505fe3e58.jpg)
 
 Stock Bond Covariance (Stock data are from CRSP. 5-year zero-coupon bond data are from Gurkaynak,  Sack,  and Wright (2007,  updated series)
 
@@ -62,7 +62,7 @@ Bond Beta
 
 # The Yields of German Treasury Bonds
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c0735bef5b9f6f3fa493afc4a83948241d5f8da999e1473ed943de398e4826b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c0735bef5b9f6f3fa493afc4a83948241d5f8da999e1473ed943de398e4826b.jpg)
 
 (Data: Bloomberg)
 
@@ -71,7 +71,7 @@ Bond Beta
 1. Treasury Bills: Zero coupon securities with maturity up to one year 2. Treasury Notes: Fixed coupon bonds with maturity up to 10 years 3. Treasury Bonds: Fixed coupon bonds with maturity of 30 years 4. Treasury Inflation-Protected Securities (TIPS): Floating coupon bonds indexed to inflation 5. Floating Rate Notes (FRNs): Floating coupon bonds,  with coupon indexed to T-Bill rates
 # Marketable U.S. Treasury Securities (million of dollars) December 31,  2021
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5cf7701c68e2e03c358db5269b9aed76da99faf0cb849d8ca3e1152c07a427bf.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5cf7701c68e2e03c358db5269b9aed76da99faf0cb849d8ca3e1152c07a427bf.jpg)
 
 Source: U.S. Treasury web site. https://www.treasury direct. Gou
 
@@ -126,11 +126,11 @@ We put two "time" indices:
 1. $t=$ calendar time when the discounting is made (e.g. 1/31/2007,  etc.) 2. $T=$ maturity date. $\implies T-t=\mathsf{t i m e\;t o\;m a t u r i t y}$
  - Panel A of next figure shows $Z(t,         T)$ for $t=1/31/2007,         1/31/2008,         …,         3/20/2020,         $ andfor $T-t$ ranging from 0 to 30 years
  - Panel B of next figure shows the corresponding yields $r(t,         T)$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42fbe45b23fdf7c59a769f13205e1ef1a00af9553f13131f796e75cbebe579c8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42fbe45b23fdf7c59a769f13205e1ef1a00af9553f13131f796e75cbebe579c8.jpg)
 Panel A. Zero Coupon Bonds (Data are from Girkaynak,  Sack,  and Wright (2007),  updated series.)
 # Panel B. Yield Curves
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/803b54810385b44646c671eeb9e533c64a0d7c054463d0203dcacb70d724ce63.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/803b54810385b44646c671eeb9e533c64a0d7c054463d0203dcacb70d724ce63.jpg)
 
 (Data are from Girkaynak,  Sack,  and Wright (2007),  updated series.)
 
@@ -145,7 +145,7 @@ They also have many shapes: -Flat (e.g. 1/31/2007) - Increasing (e.g. 1/30/2015)
  - What do they tell us about risk premia required to hold bonds?
 # Zero-Coupon Bond Yields
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf87b0c085a2e5b586140ada3a9103ab5ca8797c446650ed5f69a9dc5655e304.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf87b0c085a2e5b586140ada3a9103ab5ca8797c446650ed5f69a9dc5655e304.jpg)
 
 (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series. )
 
@@ -265,7 +265,7 @@ We will almost never use YTM
 - It is blatantly wrong as a measure of yield,  as it assumes that all the coupons can be reinvested at the constant y throughout the life of the bond.
 - That is: not only it assumes a flat yield curve,  but also one that does not move overtime.
 Example: consider the following data:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5410c643e3e1f3d88bd1a0ecd4afea2c321746f060e4a6d96ed78323c1ca871e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5410c643e3e1f3d88bd1a0ecd4afea2c321746f060e4a6d96ed78323c1ca871e.jpg)
 What is the most attractive bond?
 # Yield-to-Maturity
 
@@ -338,7 +338,7 @@ $$
 - Since government securities are liquid and default free,  they are excellent collateral. - Dealers can borrow money on a collateralized basis,  so that they can take huge positions even with limited capital. - The Repo Market grew very large. Next table shows the average daily amount outstanding
 # Financing by U.S. Government Securities Dealers
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb3a1237da1e18f8c51e03d3870bcebf65b78e9e61e69d4a1398a8693436a20c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb3a1237da1e18f8c51e03d3870bcebf65b78e9e61e69d4a1398a8693436a20c.jpg)
 
 Average Daily Amount Outstanding (\$ Billions) (Source: SIFMA http:/ / www.sifma.org/research/statistics.aspx )
 
@@ -346,14 +346,14 @@ Average Daily Amount Outstanding (\$ Billions) (Source: SIFMA http:/ / www.sifma
 - A Repo transaction is as follows: Consider a trader and a repo-dealer. The trader attime $t$ wants to take a long position until time $T$ (typically,  overnight!) Then
 # Schematic Repo Transaction
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/686d44286c69b7a8a81153cdc1a416e20b3ffab56c7640b36b2fe5008038ef63.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/686d44286c69b7a8a81153cdc1a416e20b3ffab56c7640b36b2fe5008038ef63.jpg)
 
 # Repurchase Agreements
 1. At time $t$ ,  the trader buys the bond at market price $P_{t}$ and enters into aRe po with the Repo Dealer. Hence,  the trader delivers the bond as collateral to the repo-dealer and gets the cash to purchase the bond.
 - The Repo Dealer typically gives something less than the market price of the bond. The difference is called hair cut. ·The term $T$ is decided at time $t$ : Most [[Class Note 12 Part 2 Repos|repurchase agreements]] are for a very short term (overnight). Some longer term agreements reach 30 days or more.  - The Repo rate is decided at time $t$
 1. Attime $T$ ,  the trader gets back the bond from the Repo Dealer,  sells the bond in the market to get $P_{T}$ andpays $P_{t}$ plus the repo rate to the dealer.
 -The profit is then $\begin{array}{r}{P_{T}-P_{t}\mathrm{{-}r e p o\r a t e\!\times\!\frac{\partial}{\partial60}\times(P_{t}-\mathsf{h a i r c u t})}.}\end{array}$ - Hence,  the return on capital to the trader is
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/12196b401180ad87a712f040742963ff20921dae7abaa85c0e3ae097cd316053.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/12196b401180ad87a712f040742963ff20921dae7abaa85c0e3ae097cd316053.jpg)
 # Repurchase Agreements
 
 ·Between $t$ and $T$ the trader earns the accrued interest on the bond
@@ -364,7 +364,7 @@ Average Daily Amount Outstanding (\$ Billions) (Source: SIFMA http:/ / www.sifma
 1. - In a reverse repo,  the trader (A) borrows the security from the repo dealer; (B) sells it; and (C) posts cash collateral with the dealer. - The trader is lending money to the dealer against the bond collateral => the trader would be entitled to the repo rate. - However,  the trader is happy to forgo part (all) of the repo rate in order to get hold of the bond (to sell)
 # Reverse Repo Transaction
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2fccebcd2677dd0be2aea7e5a31d113e1584a76f93876d8725b2f0c71f5982f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2fccebcd2677dd0be2aea7e5a31d113e1584a76f93876d8725b2f0c71f5982f.jpg)
 
 $$
 \mathsf{P r o f i t}=(P_{t}-P_{T})+P_{t}\times\mathsf{r e p o\r a t e}\times\frac{n}{360}
@@ -460,7 +460,7 @@ If $$\begin{array}{}
 
 # Spot Curve and Forward Curve
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11e1b0cbaddd0a22c8edc1144ab3b8e63b03fd469bd141652224cf8d30b08f40.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11e1b0cbaddd0a22c8edc1144ab3b8e63b03fd469bd141652224cf8d30b08f40.jpg)
 
 - To obtain the forward curve we need a smooth yield curve
 # Estimating the Zero-Coupon Discount Function
@@ -538,20 +538,20 @@ $$
 - Next figure shows the difference between using boots trapping technique and the curve fitting technique
 # Zero-Coupon Yield Curves
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b48444d1b31bb764450eae432c3cf4b7d42843073986996341a521d8afc0ef1c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b48444d1b31bb764450eae432c3cf4b7d42843073986996341a521d8afc0ef1c.jpg)
 
 - Clearly,  the fitted curve is much smoother (by construction).
  - An important difference arises when we look at forward rates
 # Forward Curves
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653075e507f7b5f2fb536597b550ff113b33be1e4bc5e7b00bed74fc65dbc651.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653075e507f7b5f2fb536597b550ff113b33be1e4bc5e7b00bed74fc65dbc651.jpg)
 
 # Interest Rate Risk Management and Factors
 
 # Interest Rate Risk Management
 # - Interest rates vary quite dramatically over time
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0ef9916b941c2c72f569831cfae026510ccb1755674b8a3401752a1efa9df40.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0ef9916b941c2c72f569831cfae026510ccb1755674b8a3401752a1efa9df40.jpg)
 
 (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series.)
 
@@ -559,7 +559,7 @@ $$
 # And so do bond prices
 # The Life Cycle of a 30-year Bond
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93255cfd9a6bf82eb89448ee8a9b0dc470bab9172433e9c2b5ddd5a4d21b24b3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93255cfd9a6bf82eb89448ee8a9b0dc470bab9172433e9c2b5ddd5a4d21b24b3.jpg)
 
 Source: CRSP
 
@@ -652,7 +652,7 @@ $$
 $$
 # Bond Price Approximation with Duration
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f31fdf4c3044fd403dd83d917cfd96a298f9dcc370ee52092b0f710bbf64feb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f31fdf4c3044fd403dd83d917cfd96a298f9dcc370ee52092b0f710bbf64feb.jpg)
 
 # Duration Definitions
 
@@ -716,7 +716,7 @@ $$
 # Example: Spread Trades
 - A trader is evaluating the shape of the yield curve
  - The spread between the 30 year T-Bond and the 2 year T-Note is 266 bps.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f5cca589438d60911c61e6f52846b78e545677b89c4502c0fef5f903a95cc31.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f5cca589438d60911c61e6f52846b78e545677b89c4502c0fef5f903a95cc31.jpg)
 - The trader has a view: The spread will increase in the next few days
 - How can the trader devise a trading strategy to bet on his/her view,  without taking (part of) interest rate risk?
 - First,  if spread increases,  it must be the case that the price of 30-year bond goes down more than the price of the 2-year bond (or up less!). - Hence,  to profit from the movement,  we need a short position in the long-term bond and a long position in the short-term bond.
@@ -771,7 +771,7 @@ $$
 $$  
 # Duration plus Convexity Approximation
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47945f3845337ce3b5c96eac5bb78996fe1dd07cf3fb0d7a681278b8fbb98323.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47945f3845337ce3b5c96eac5bb78996fe1dd07cf3fb0d7a681278b8fbb98323.jpg)
 
 # Positive Convexity: Good News for Average Returns
 - Suppose we have invested \$100 million in a 20-year zero coupon bond.
@@ -780,7 +780,7 @@ $$
 E\left[\frac{d P}{P}\right]\approx-20\times E[d r]+\frac{1}{2}\times400\times E[d r^{2}]
 $$  
 - Predicting variation in interest rates over a short period (daily) is very hard. So $E[d r]=0$ is a good approximation. However,  note that $E[d r^{2}]=V a r(d r)>0$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bda94788bfa1b204e67cf1c10e6f69c0a9d04e17feb271927870d301e4868f21.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bda94788bfa1b204e67cf1c10e6f69c0a9d04e17feb271927870d301e4868f21.jpg)
 Daily Changes in the Level of Interest Rates Data Source: CRSP.
 # Positive Convexity: Good News for Average Returns
 - From data,  we can estimate the daily variance of interest rates of about $E[d r^{2}]=$ $5.5351\times10^{-007}$ ,  implying
@@ -875,7 +875,7 @@ $$
 
  - The convexity of the bond we want to hedge is $C\:=\:73.87$ .Given $D_{1}\,         =\,         2$ $D_{2}=10$ $C_{1}=4$ ,  and $C_{2}=100$ ,  we obtain $k_{1}=-0.4562$ and $k_{2}=-1.1737$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e21bb52e56677e4d07dc31b1bdddaa6eb0c8170c58507a8d4bf1cec8e237c5fa.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e21bb52e56677e4d07dc31b1bdddaa6eb0c8170c58507a8d4bf1cec8e237c5fa.jpg)
 
 - There duration plus convexity hedging strategy achieves a better hedge even with large changes in interest rates
 # Convexity Trading and the Passage of Time
@@ -913,11 +913,11 @@ $$
 
 # 2020 Variation in yields
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec2e11a6d1e273b6146ddfed477ece29eb097eb6c2df7c1ebceac027e4177868.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec2e11a6d1e273b6146ddfed477ece29eb097eb6c2df7c1ebceac027e4177868.jpg)
 
 # The Dynamics of the Term Structure: Level,  Slope,  and Curvature
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e405adf7d3f1bbdf5d5b501348347f4986fe8e882fcaaa80ffe1a181d8e17ff.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e405adf7d3f1bbdf5d5b501348347f4986fe8e882fcaaa80ffe1a181d8e17ff.jpg)
 
 Data Source: CRSP
 
@@ -1017,19 +1017,19 @@ $$
 > The beta coefficients in (13) are just the ei gen vectors: $\beta_{i j}=v_{j i}$
 # Factors from PCA
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d6cf6280c640e28c94a44cc76c6ff4cda75b0964e7f108e75d02118e85accf3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d6cf6280c640e28c94a44cc76c6ff4cda75b0964e7f108e75d02118e85accf3.jpg)
 
 Data Source: CRSP
 
 # Parallel Shifts,  Slope Tilts and Curvature Changes
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39be43471c8e978d0db0b4725c72fa42d341ba0d765ccd4327a8d29c2c690fe9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39be43471c8e978d0db0b4725c72fa42d341ba0d765ccd4327a8d29c2c690fe9.jpg)
 
 Regression coefficients Bii Data Source: CRSP
 
 # The Sensitivity of Interest Rates to PCA Level,  Slope,  and Curvature
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a884107978da9c86f0d4ee7035d69dc57340eefe36876cea552c72366df548b3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a884107978da9c86f0d4ee7035d69dc57340eefe36876cea552c72366df548b3.jpg)
 
  - The first three PCAs explain the vast majority of the variation in yields - => If we hedge the three PCAs,  we hedge most of interest rate risk
 
@@ -1157,11 +1157,11 @@ Does this relation holds in the data?
 
 - Heuristic ally,  next figure plots the expected future three-month rates from the Survey of Professional Forecasters from 1981 to 2015
 - The forecasts are for the three-month T-bill rate for the current quarter,  denote in the figure by $r (t)$ ,  and for the next three quarters,  denoted by $r (t+3 m)$ $r (t+6 m)$ ,  and $r (t+9 m)$ ,  respectively
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/175cddb3d421b6a3e2dc735342e81c5ea821be49dd56d4016d674fabadb8c048.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/175cddb3d421b6a3e2dc735342e81c5ea821be49dd56d4016d674fabadb8c048.jpg)
 - Next figure shows the 1-year term spread,  defined as $y_{t}(1 y)-r (t)$ together with the 1-year "expectation spread".
 # 1-Year Expectation Spread vs 1-Year Term Spread
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40ef95e25752ef1ec16f356851c0de9a3f19826fd4fb3341725cb0003ef1398d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40ef95e25752ef1ec16f356851c0de9a3f19826fd4fb3341725cb0003ef1398d.jpg)
 
 - The l-year term spread is greater than the “expectation spread" most of the time - => the expectation hypothesis does not hold (at least,  using survey forecasts)
 # The Expectation Hypothesis and Forward Rates
@@ -1193,7 +1193,7 @@ $$
 F_{t}(\tau_{i},         \tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)]\;.
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fea15ec012da879094873f5dfdbef561f27c632e26e33522758966851ca739.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fea15ec012da879094873f5dfdbef561f27c632e26e33522758966851ca739.jpg)
 
 Again,  expected future rates are mostly lower than forward rates
 
@@ -1269,7 +1269,7 @@ $$
 - =→> market expects a low or negative return on $(n+1)$ maturity bond
 # Long-Term Yield Increase
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2abe8e5db1f644210b3364b8330e5c6bf2d754b4df1ffcc8ef8dfe4b2a3bad54.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2abe8e5db1f644210b3364b8330e5c6bf2d754b4df1ffcc8ef8dfe4b2a3bad54.jpg)
 
 ·Example: On $t=1/31/1994$ yield curve was increasing and the spread was $3.3\%$
 
@@ -1305,7 +1305,7 @@ We can see if this true in the data.
 # Campbell and Shiller Regression
 # Test of the Expectation Hypothesis
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c2f50138d49655b7344cf93f7033d046dfed8525ddd0c914de2bd55ac2e908f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c2f50138d49655b7344cf93f7033d046dfed8525ddd0c914de2bd55ac2e908f.jpg)
 
 Notes: Regression results based on Fama Bliss discount bond data from CRSP. Sample: 1964 - 2006.
 
@@ -1316,7 +1316,7 @@ Important to note:
 - Bottom line: A steep yield curve predicts high returns of long-term bonds
 # Long-Term Yield Decrease
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ccc21eb8c5d2d17f7f7709e9608f0f8c572ce21ac9e0a0bcb492b2141f23163.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ccc21eb8c5d2d17f7f7709e9608f0f8c572ce21ac9e0a0bcb492b2141f23163.jpg)
 
 ·Example: On $t=1/30/2004$ yield curve was increasing and the spread was $4.1\%$
 
@@ -1412,7 +1412,7 @@ $$
 
 Panel C: Log Excess Return Prediction from Cochrane Piazzesi Factor Maturityn B se (β) R 2
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cee00874d9b641843020fc44e9d046ca080ad6f8ed2105e25987d567b88420b3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cee00874d9b641843020fc44e9d046ca080ad6f8ed2105e25987d567b88420b3.jpg)
 
 - The coefficients are strongly positive,  and the $R^{2}$ higher than in Panel B,  showing that including information on the whole term structure helps predict bond excess returns.
 # Coping with Inflation Risk: Treasury Inflation-Protected Securities
@@ -1518,7 +1518,7 @@ $$
 $$
 ##### Panel C: TIPS
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/968ea44aa267337965de6cd259a6a22496b0632a9b37b7782c8ac2f192935142.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/968ea44aa267337965de6cd259a6a22496b0632a9b37b7782c8ac2f192935142.jpg)
 
 # Reference Index Example
 
@@ -1591,12 +1591,12 @@ $$
 - From the previous table,  for instance,  we obtain the following results
 # Real and Nominal Rates on November 26,  2007
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72a6221195e7211eb3408694610b957e1b685863d3652e940af9d1e55ce775a1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72a6221195e7211eb3408694610b957e1b685863d3652e940af9d1e55ce775a1.jpg)
 
 - Next figure shows that the term structure of real rates changes over time
 # Real Rates during and after the crisis
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0168a832864dbaf7fd996285d3949aef696bc37ab2c1b80a50e8f2d3b125f479.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0168a832864dbaf7fd996285d3949aef696bc37ab2c1b80a50e8f2d3b125f479.jpg)
 
 Data are from Gurkaynak,  Sack,  and Wright (2010),  updated series
 
@@ -1757,13 +1757,13 @@ In the meantime,  real GDP volatility $\sigma_{g}$ and inflation volatility oT d
    - All of these variation are bound to impact the risk premium
 # Quarterly Real GDP Growth and CPl Infation
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/707740f7df7fcb90e8c4a586e6c228f1b46e1920435bbd52c5955a10094b454a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/707740f7df7fcb90e8c4a586e6c228f1b46e1920435bbd52c5955a10094b454a.jpg)
 
 Quarterly Real GDP Growth and CPI Infation DataSource: Federal Reserve of St. Louis
 
 # Correlation and Real GDP growth and CPI inflation Vol at ili ties
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f6c8ad372d12be68521cb72262f95a6796f1df7847dddd5aa140831d5bb3b91.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f6c8ad372d12be68521cb72262f95a6796f1df7847dddd5aa140831d5bb3b91.jpg)
 
 Backward-looking 10-year Rolling Window. Data Source: Federal Reserve of St. Louis
 
@@ -1777,7 +1777,7 @@ Why did the CAPM beta change over time?
 \* Late 1970 s/ early 1980 s: Fear of stagflation (high inflation and low growth) => high inflation shocks are bad news for the economy > both nominal bonds and stock drop \* Mid 2000 s: Fear of deflation (low inflation and low growth) => high inflation shocks are good news for the economy => nominal bonds drop but stock rise
 # The Covariance between Stocks and Bonds,  and the CAPM Bond Beta
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a6edb6074169dd862cfbec8857dd2d97f7ad77a7722027436f64742ce1b2704.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a6edb6074169dd862cfbec8857dd2d97f7ad77a7722027436f64742ce1b2704.jpg)
 
 Source: David and Veronesi (2016) “The Economics of the Comovement of Stocks and Bonds" in the Handbook of Fixed Income,  Pietro
 
@@ -1785,7 +1785,7 @@ Source: David and Veronesi (2016) “The Economics of the Comovement of Stocks a
 
 Figure 1: Rolling Nominal and Real Bond-Stock Betas
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7c760925c94114d09e111a3ee686f55584d67bfcaac8c2319c00dc617278cd1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7c760925c94114d09e111a3ee686f55584d67bfcaac8c2319c00dc617278cd1.jpg)
 
 Source: Caroline Pflueger (2024) “Back to the 1980 s or Not? The Drivers of Inflation and Real Risks in Treasury Bonds"
 
@@ -1897,7 +1897,7 @@ $$
 - Next figure shows the fitted term structure of real rates.
 # Vasicek Fit to TlPS on November 27,  2007
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/185d4d6134b1c8b8ebcfcef3a300d16377e52f107ee2e39f60d8420d9059ddac.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/185d4d6134b1c8b8ebcfcef3a300d16377e52f107ee2e39f60d8420d9059ddac.jpg)
 
 Data Source: Bloomberg
 
@@ -2019,11 +2019,11 @@ $$
 
 # The Notional Amount of Over-the-Counter Derivatives
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1522c1eb598d9cfbcdbf0a79e249c90dabdd7ec1213a3716a8a7ab0da272cc9d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1522c1eb598d9cfbcdbf0a79e249c90dabdd7ec1213a3716a8a7ab0da272cc9d.jpg)
 
 Panel A.Millions of Us Dollars
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/616d286095da6074941d5d2b75e281bc47dd03a503c5fe560104f80650426cc2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/616d286095da6074941d5d2b75e281bc47dd03a503c5fe560104f80650426cc2.jpg)
 
 Panel B. Multiple of Global GDP
 
@@ -2037,7 +2037,7 @@ Panel B. Multiple of Global GDP
 -where $r_{n}(T_{1},          T_{2})$ is a $n$ -times compounded floating reference rate,  $f_{n}$ is a fixed rate,  $N$ is the notional,  and $\Delta=1/n$
 ·Example: Today $\left (T_{0}\right)$ is January 2,  2020 (we will treat this as January 1 …) and suppose a firm has a $\$ 100$ million receivable in six months on June 30,  2020. Ignoring overnight investing:
 - If the firm will not need that cash immediately,  but,  say,  six month later,  it can lock-in an investment rate today for the future period $T_{1}=0.5$ is July 1,  2020 to $T_{2}=1$ isDecember 31,  2020 by entering into a [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreement]](FRA) with a bank. $^*$ Assume the bank quotes the (semi-annually compounded) annualized rate of $f_{2}=1.59\%$ When the firm receive $\$ 100$ million in six months $\left (T_{1}\right)$ it can invest it at the then current floating rate $r_{2}(T_{1},          T_{2})=r_{2}(0.5,         1)$ ,  which is not known today.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e246247ef2e4e50f005c66a3352e7a42cef41fee938d44809d066af21ca4732c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e246247ef2e4e50f005c66a3352e7a42cef41fee938d44809d066af21ca4732c.jpg)
 # Hedging Interest Rate Risk
 
 Clearly,  using the banks offer locks in the rate $f_{2}$ for the period $T_{1}$ to $T_{2}$ for the firm,  as
@@ -2095,7 +2095,7 @@ F_{2}(0,         0.5,         1)=2\times\left (\frac{1}{F\left (0,         0.5, 
 $$  
 # The Spot Curve and the Forward Curve
 - The forward curve gives the relation between the forward rate $f (0,          T,          T+\Delta)$ and the time of the investment $T$ . Curves on January 2,  2020
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/311a0bd9a819131bc3d91eed4dd9d1055238f9af47a3269a02bb24fd8914c56f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/311a0bd9a819131bc3d91eed4dd9d1055238f9af47a3269a02bb24fd8914c56f.jpg)
 Data Source: US Treasury.
 # The Value of a Forward Rate Agreement
 - In previous example,  suppose 3 months later,  on April 1,  2020,  the firm decides to close its [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] - As interest rates changed between January and April,  so did the value of the FRA. -Recall bank's earlier strategy:
@@ -2109,7 +2109,7 @@ $$
 $$  
 # Changing Yield Curve
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2149aa3314795f714baea328b93cdec2cdce58d983c690200e4e1cc3c6112cd4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2149aa3314795f714baea328b93cdec2cdce58d983c690200e4e1cc3c6112cd4.jpg)
 
 # Interest Rate Derivatives: Swaps
 - A plain vanilla fixed-for-floating interest rate swap is an agreement between two counterparties to exchange cash flows at $T_{1},         \,          T_{2},         …,         \,          T_{n}=T$ With $T_{i}=T_{i-1}+\Delta$ according to
@@ -2159,13 +2159,13 @@ The resulting yield curve is called [[A Guide to the Front End and Basis Swap Ma
 
 # Treasury and Swap Discount and Yield on January 4,  2005
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4795f4b9e88b9e8683e0b72a3e0437466e8ed33fe2b6360439c75e97f3b934bd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4795f4b9e88b9e8683e0b72a3e0437466e8ed33fe2b6360439c75e97f3b934bd.jpg)
 
 DataSource: Federal Reserve andCRSP
 
 # The 5-year Zero Coupon Treasury and Swap Yield
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e62082eddc8b6ce9bb08e1f883e51c12707ded39bc8dfb78fd645ea82c7884a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e62082eddc8b6ce9bb08e1f883e51c12707ded39bc8dfb78fd645ea82c7884a.jpg)
 
 DataSource: Bloomberg and CRS P
 
@@ -2190,7 +2190,7 @@ $$
 The net spread is $S S-L R S=35.19$ bps.
 
 - This spread is not very large,  but the LIBOR-repo spread has been historically relatively stable at around 21 bps and so this net spread $\left (S S-L R S\right)$ still appears a relatively safe trade. - Using daily data from Jan 2000 to Jun 2006,  the distribution of the LlBOR-repo spread is as
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7208c1dc23115224d69814caaf6baf565830577ae063ed4466ed3eebcda4c37.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7208c1dc23115224d69814caaf6baf565830577ae063ed4466ed3eebcda4c37.jpg)
 Data Source: Bloomberg.
 - Even in extreme circumstances,  the net spread would be at least $0.59\%-0.37\%=22$ bps
 # The Trade
@@ -2235,13 +2235,13 @@ $$
 
 # The Swap Spread and LIBOR-Repo Spread
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9238c2649daad6ff34974cdc4bef8dfd60d8cd1a6f49b4945fae9dbcc6a19092.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9238c2649daad6ff34974cdc4bef8dfd60d8cd1a6f49b4945fae9dbcc6a19092.jpg)
 
 Source: Federal Reserve and Bloomberg.
 
 # Net Cash Flows from Swap Spread Trade
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65e4fb507e77c84d81edad8f6919acae57723e4535d3d30a177b10b369175cca.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65e4fb507e77c84d81edad8f6919acae57723e4535d3d30a177b10b369175cca.jpg)
 
 # Unwinding the Position?
 - Given the large negative quarterly payments due to the increase in the LIBOR-repo spread,  we may start thinking about whether we should unwind their position.
@@ -2257,7 +2257,7 @@ $$
 -Here,  $Z (t,          T_{i})$ is the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] discount curve (see next Figure)
 # The [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Curve: June 2006 - June 2008
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/143755d223e217eaf8ca2928af96074ca6d27115893c6b0c5b63f5710856ef2b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/143755d223e217eaf8ca2928af96074ca6d27115893c6b0c5b63f5710856ef2b.jpg)
 
 # The Surprise
 - On March,  2008,  as we start unwinding the position,  we have a good news: the value of the swap is now \$10.21 million.
@@ -2267,7 +2267,7 @@ $$
 - In sum,  to close the position on March,  2008,  we receive \$10.21 million from the swap,  but we have to pay \$11.38 million on the reverse repo,  for a total loss of \$1.16 million. This number far outweighs the cumulative cash flows we have so far received.
 # The Swap Spread Trade Value
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8169240a592b485b55a359a25d1f24f055fc7afde840d98b1bd3a7049250ddf9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8169240a592b485b55a359a25d1f24f055fc7afde840d98b1bd3a7049250ddf9.jpg)
 
 # Conclusion: The Risk in Relative Value Trades
 1. Cost of Carry,  due to the variation in the cost-of-carry,  i.e. the cash-flow per period that a trade is expected to generate.
@@ -2285,7 +2285,7 @@ $-\implies$ Relative value trades experience large capital losses
 ·- Next figure shows negative swap spreads during the crisis for long term swaps
 # Negative Swap Spreads during the Crisis
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/486fd7fd6a1adbf391ad80885ec4e628c8daddd3cbdce9e8430cc2042a235a35.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/486fd7fd6a1adbf391ad80885ec4e628c8daddd3cbdce9e8430cc2042a235a35.jpg)
 
 # Negative Swap Spread and No Arbitrage
 
@@ -2304,7 +2304,7 @@ $$
 - If the swap spread becomes even more negative,  e.g. the yield on T-bond increases while the one of the swap remains the same,  then $V_{t}^{T r a d e}$ decreases even more.
 # Negative Spreads Continue
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbd5b110214cefb075bbee81556810ca74a28aa89f23308aed097dbb6fd28119.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbd5b110214cefb075bbee81556810ca74a28aa89f23308aed097dbb6fd28119.jpg)
 
 Source: Federal Reserve Board,  H0.\1 release
 
@@ -2328,11 +2328,11 @@ Before and during the crisis.
 
 # CIP Violation during the 2007 - 2009 Financial Crisis: Euro / Dollal
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94801829ce3dd2037e2867b314eeea380cdc0addf38e78b90dc86d395eea655c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94801829ce3dd2037e2867b314eeea380cdc0addf38e78b90dc86d395eea655c.jpg)
 
 # CIP Violation during the 2007 - 2009 Financial Crisis: UKP / Dollal
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c05e882bf46886cf97eaeddce6636657121113006355e0a1980ad8e0e318e189.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c05e882bf46886cf97eaeddce6636657121113006355e0a1980ad8e0e318e189.jpg)
 
 # Why Did Covered Interest Rate Parity Fail during the 2007-2009 Crisis?
 - Holding US Treasuries has its own “convenience yield" when everyone needs cash collateral.
@@ -2346,7 +2346,7 @@ But point (b) failed during the crisis,  as:
 1. Increase in credit risk concerns impaired the ability of any financial institution to borrow; 2. Holding safe dollars (US Treasuries) is valuable during a financial crisis for [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity management]] - US Treasuries are the only collateral accepted for short-term lending transactions. - It is very valuable to hold on to them for future cash management
 # Cross-Currency Basis Risk after the Crisis
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0148955112dd7b6ccc46589b25bc4e00b87fe8067b046a7ce1ae3ffc23398a5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0148955112dd7b6ccc46589b25bc4e00b87fe8067b046a7ce1ae3ffc23398a5.jpg)
 
 Figure 5 from Du,  Tepper,  and Verdelhan (2017),  “Deviations form Covered Interest Rate Parity,  " working paper.
 
@@ -2381,7 +2381,7 @@ As an example: at the CME
 
 - Futures: 3-month and 1-month. Using compounding or simple averages.
 - Term SOFR Reference rates based on futures contracts
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b905e0214568db6336c8ee10dff43269114bceabfc920c76eb8fc5384d19d252.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b905e0214568db6336c8ee10dff43269114bceabfc920c76eb8fc5384d19d252.jpg)
 Some History
 # Overnight Index Swaps (Is)
 - In a OlS,  the two counter parties agree to exchange fixed for floating payments,  where the floating payment is tied to the cumulative return from an overnight rate
@@ -2457,16 +2457,16 @@ Z^{O I S}\left (0,          T_{i}\right)=\frac{1-c\left (T_{i}\right)\,         
 $$  
 - Recalling,  however,  that OlS with maturity less than or equal to 1 year generally have only one payment.
 - Next Figure shows an example of boots trapping from OlS quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (23) and defines the OlS discount function $Z^{O I S}(0,          T)$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec3ed89c2ce67670c671be4a57173f73adcefef91fe9e9c7fa1c7402b854cbe3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec3ed89c2ce67670c671be4a57173f73adcefef91fe9e9c7fa1c7402b854cbe3.jpg)
 Data Source: Bloomberg
 # Is and [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Discount Curve on January 2 nd,  2007
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a7e2bbbeaa4344066c0d2e21134d4024c427927c017911b015731e5ca825d94.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a7e2bbbeaa4344066c0d2e21134d4024c427927c017911b015731e5ca825d94.jpg)
 
 - However,  if we try after the crisis,  we obtain the following figure.
 # Is and [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Discount Curve on January 2 nd,  2009
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44af31ac1c8e3f276b11a8cc9bccbb7efde05aae36bd9e13fb73cee79c0ed0a2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44af31ac1c8e3f276b11a8cc9bccbb7efde05aae36bd9e13fb73cee79c0ed0a2.jpg)
 
 Data Source: Bloomberg
 
@@ -2552,7 +2552,7 @@ Caps and floors are quoted in terms of flat vol at ili ties - The volatility acr
 
  - For example,  from Bloomberg (code SSRC),  one finds quotes such as
 Table 1: Quotes of Caps and Swaptions on November 1,  2004
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdd461eaab545bb6188b67a7bccf74ca8cc19e7ea91e638775f38b2f653ee744.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdd461eaab545bb6188b67a7bccf74ca8cc19e7ea91e638775f38b2f653ee744.jpg)
 Source: Bloomberg.
 - Each entry is a flat volatility for an "at-the-money" instrument,  meaning that its strike rate (equal for all the caplets) is the swap rate with the same maturity of the cap.
  - The payment frequency of the underlying caps and floors is 3 months
@@ -2563,7 +2563,7 @@ As an example,  from Table 1,  we obtain the following prices for caps
 
 Table 2: Cap Prices and Vol at ili ties
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b494600b0a6bab778090c95c3cc2c0dc698b4f67de728111b430c2a01c36cdf8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b494600b0a6bab778090c95c3cc2c0dc698b4f67de728111b430c2a01c36cdf8.jpg)
 
 Data Source: Bloomberg.
 
@@ -2579,7 +2579,7 @@ Data Source: Bloomberg.
 - Next table illustrates the relation between forward volatility and flat volatility
 - The forward volatility is used to price individual caplets and thus obtain a value of the cap. - The flat volatility is used to quote the cap,  once its price is determined in the previous step. - The flat volatility is a sort of average (forward) volatility used for quoting purposes only
 Table 3: The Relation between Forward and Flat Volatility
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6627494f5d794cf121fc4096b0bb8a2c9e7e67ae72872a40e2c46cbfb3f00b2e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6627494f5d794cf121fc4096b0bb8a2c9e7e67ae72872a40e2c46cbfb3f00b2e.jpg)
 # Extracting the Forward Volatility from Flat Volatility
 - To set up arbitrage strategies,  we need Forward Vol at ili ties,  and not Flat vol at ili ties.
 - How do we extract the Fwd volatility from the Flat volatility?
@@ -2639,20 +2639,20 @@ $$
 'a p l e t\left (T_{3},          r_{K,          3},         \sigma_{f}^{F w d}(T_{3})\right)=\$ 0.1096\quad\Longrightarrow\quad\sigma_{f}^{F w d}(T_{3})=2
 $$  
 -Figure 1 plots the forward and flat vol at ili ties on November 1,  2004
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce2cf7919f6456d76076c6c66ebd4afa91532bcce10a1fba58872138e8dded9c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce2cf7919f6456d76076c6c66ebd4afa91532bcce10a1fba58872138e8dded9c.jpg)
 Figure 1: Forward and Flat Vol at ili ties
 - Flat vol at ili ties can be thought of a "cumulated averages" of forward vol at ili ties.
 Cap (quoted) volatility changes over time.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a07d8427b8b649998d29be97c2c414b47ea697fbb0abf80f03f563842b66f02.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a07d8427b8b649998d29be97c2c414b47ea697fbb0abf80f03f563842b66f02.jpg)
 The average forward volatility curve is hump shapedi
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b47d4116f2caedbfc91566a3242ef9e22b398804e4aa4fa127a7f110118d974b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b47d4116f2caedbfc91566a3242ef9e22b398804e4aa4fa127a7f110118d974b.jpg)
 Figure 2: Average Forward Volatility: 1987 - 2008
 - The forward volatility has various shapes through time:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/602cedaf1fd933fe9937956ce5a7392cca26de1c0c5ea80497af35395679e0a7.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d8db47de5d8a0ae2da7c3d0d64b172dd6ba261a9af09d64df0ea68f481cb5c3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/602cedaf1fd933fe9937956ce5a7392cca26de1c0c5ea80497af35395679e0a7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d8db47de5d8a0ae2da7c3d0d64b172dd6ba261a9af09d64df0ea68f481cb5c3.jpg)
 Figure 3: Forward and Flat Vol at ili ties
 The forward volatility is strongly time varying:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a7e91ade5011a14997498c5eafabc4b7760a4d08e64553222393aa631aefa37.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a7e91ade5011a14997498c5eafabc4b7760a4d08e64553222393aa631aefa37.jpg)
 Figure 4: Forward and Flat Vol at ili ties
 - Where $\mathsf{\Delta}^{\mathsf{u}}\mathsf{s l o p e}=\sigma_{f}^{F w d}(10)-\sigma_{f}^{F w d}(1)$ $\,         \,         {\it F W d}(1)\ "\ \mathsf{a n d}\ "\mathsf{c u r v a t u r e}=2\sigma_{f}^{F w d}(2)-\sigma_{f}^{F w d}(1)-\sigma_{f}^{F w d}(10)$
 # Put-Call Parity
@@ -2672,7 +2672,7 @@ $$
 - In a payer swaption the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a receiver swaption the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
 - For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "implied volatility" of $21.883\%$
 Table 1: Quotes of Caps and Swaptions on November 1,  2004
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbe581cae55eefa3f7aff0baa1f3d7281e226c14a7ffa542bc6b69da70511fe9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbe581cae55eefa3f7aff0baa1f3d7281e226c14a7ffa542bc6b69da70511fe9.jpg)
 Source: Bloomberg.
 # Swaptions
 - A swap,  recall,  is a contract between two parties to exchange at times $T_{1},         ..,          T_{n}$ the net cash flows
@@ -2726,7 +2726,7 @@ $$
 $$  
 # Payoff of Receiver Swaption
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c20616253c864c218df6d07c92d9c8a063d683e062cc36e01326005d12b01db0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c20616253c864c218df6d07c92d9c8a063d683e062cc36e01326005d12b01db0.jpg)
 
 # Swaption Pricing
 
@@ -2753,7 +2753,7 @@ L_{1}=\frac{\ln{\left (f_{n}^{s}(0,          T_{i^{*}},          T)/r_{K}\right)
 $$  
 # Quoted Swaption Implied Volatility Surface
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42a66ee6c0dbbee11e399f48f761157153ebf3514621ea40c80908841d144c31.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42a66ee6c0dbbee11e399f48f761157153ebf3514621ea40c80908841d144c31.jpg)
 
 # Swaption Pricing
 
@@ -2813,7 +2813,7 @@ $$
 
 Table 4: LlBOR Discount and Forward Discount
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00946d352773cb766d7a8cc6a2786a2edfdb83b6b24a729679f0a4ca6765ef33.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00946d352773cb766d7a8cc6a2786a2edfdb83b6b24a729679f0a4ca6765ef33.jpg)
 
 Original Swap Data Source: Bloomberg.
 
@@ -2878,13 +2878,13 @@ $$
 - I simulate stock price paths. And then performed the above trading strategy
 # Option Premium by Dynamic Replication
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8338eaea403240924d29f598dc73f55ad66bd69929d8d97b89c8e58105feabd8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8338eaea403240924d29f598dc73f55ad66bd69929d8d97b89c8e58105feabd8.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe3708b428c3c7ec89fe675a60748522241105d0a58f593663f322204c56c8dd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe3708b428c3c7ec89fe675a60748522241105d0a58f593663f322204c56c8dd.jpg)
 
 # Option Premium by Dynamic Replication
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44179ab394fca12b36326dbdaf84c088ad61bb9ec6a5eba31d8bf9215727d333.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44179ab394fca12b36326dbdaf84c088ad61bb9ec6a5eba31d8bf9215727d333.jpg)
 
 # Black and Scholes Formula
 
@@ -2926,7 +2926,7 @@ $$
 
 The next figure shows the dynamic replication at work in a graph
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddaba764cbd269003353f1f81a24a71fb676b328c31c83abe2638fe94514bf4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddaba764cbd269003353f1f81a24a71fb676b328c31c83abe2638fe94514bf4.jpg)
 
 The Put Price Profile and the Replicating Portfolic
 
@@ -3037,7 +3037,7 @@ The University of Chicago Booth School ofBusiness
 Let's start from an example.
 
 - Let's assume the six-month,  continuously compounded risk-free rate is estimated to move according to the following tree $({\mathsf{s t e p}}=1/2$ year),  wherethere is probability $p=1/2$ to move up or down.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fa6a7740900644756bbfb942e9ec039972a7875e7a81e904602678868ca9157.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fa6a7740900644756bbfb942e9ec039972a7875e7a81e904602678868ca9157.jpg)
 # Binomial Trees
 
 The expected rate in six and twelve months are
@@ -3080,7 +3080,7 @@ $$
 I=1
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fec6a685c1fe21a6e587dc137b694bed8933b031028d2e2d535626708106132.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fec6a685c1fe21a6e587dc137b694bed8933b031028d2e2d535626708106132.jpg)
 
 - We now consider a hedging strategy that allows us to evaluate options on the tree.
 # The Option Hedging Strategy
@@ -3166,7 +3166,7 @@ $$
 I=0\qquad\qquad\qquad i=1
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18a297c8ccea38d567183d2ec14506eecb76d27898dcb4a76e16f21f65044d0e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18a297c8ccea38d567183d2ec14506eecb76d27898dcb4a76e16f21f65044d0e.jpg)
 
 # A No Arbitrage Relation
 
@@ -3392,17 +3392,17 @@ This is very close to the risk-neutral expected future rate
 - We will see later how to build a tree that is risk neutral directly from traded securities
 - Suppose that the short-term,  continuously compounded interest rate moves according to the following tree.
 - At every time (1 period $=6$ months),  there is equal risk neutral probability ( $'\pi^{*}=1/2)$ to move up or down.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5faaa98f8519ffffa172a4a8b2c30f6907b6f191a2d12ef3b5a250bb3736183f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5faaa98f8519ffffa172a4a8b2c30f6907b6f191a2d12ef3b5a250bb3736183f.jpg)
 - The value of a zero-coupon bond paying one dollar in period $i=1$ is (the time step $\Delta t=0.5)$
 $$
 Z_{0}\left (1\right)=e^{-r_{0}\times\Delta t}\times 1=0.9916
 $$  
 - What is the value of bond paying $\$ 1$ in one year $(i=2)?$
  - It can be obtained by proceeding backward on the tree:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d5b52d232183b94803dc4d7fc869dd40e7c06e89d7172f4afcb01417b6eced1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d5b52d232183b94803dc4d7fc869dd40e7c06e89d7172f4afcb01417b6eced1.jpg)
 # - Similarly,  a bond paying $\$ 1$ in 1.5 years $(i=3)$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3e2b390fb0cb17777c1c6fc99c72e022fd2b32cd3dd891505ea8b715650a03d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3e2b390fb0cb17777c1c6fc99c72e022fd2b32cd3dd891505ea8b715650a03d.jpg)
 
 These prices imply the zero-coupon yields
 
@@ -3414,7 +3414,7 @@ $$
 
 - In addition,  computers can be programmed rather easily to carry out the backward computation.
 Example:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e447543da05843dd99e3a84b2d43ef6a0f28309298449854a43cd737346567a9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e447543da05843dd99e3a84b2d43ef6a0f28309298449854a43cd737346567a9.jpg)
 # Describing Big Trees
 # How do we describe a long tree?
 - Using the earlier notation $u$ ,  uu etc is $\mathsf{O K}$ for small trees
@@ -3427,7 +3427,7 @@ $$
 P_{i,          j}=e^{-r_{i,          j}\Delta t}\left (\frac{1}{2}P_{i+1,          j}+\frac{1}{2}P_{i+1,          j+1}+C F_{i+1}\right)
 $$  
 - So,  for example,  a 1.5 year,  $4\%$ coupon bond is just given by
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c593ca25acf22b7ec62de03287e0de8a70de69231d3e0b5a137bbe70458bf1ac.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c593ca25acf22b7ec62de03287e0de8a70de69231d3e0b5a137bbe70458bf1ac.jpg)
 This tree gives “ex-coupon" prices.
 - Using ex-coupon prices is useful in a number of circumstances,  as we shall see
 # Examples
@@ -3460,7 +3460,7 @@ $$
 C a l l_{I,          j}=0\textsf{f o r a l l}_{j}
 $$  
 - (the option expires worthless at maturity,  as the issuer has to redeem the bond at par) - we can start the procedure (1 o) backward.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e2b105bed484ef0c52c7b8185c7975328d2d6f06e64a90bcd34482567e276fd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e2b105bed484ef0c52c7b8185c7975328d2d6f06e64a90bcd34482567e276fd.jpg)
 # Callable Bond Pricing
 # What is then the price of the callable bond?
 - The buyer of a callable bond is: (1) buying a non-callable bond; $+$ (2) Selling a call to the issuer. -Hence,
@@ -3491,7 +3491,7 @@ $$
 
 We then have:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/273fea836de087904517e4522a4cca7f0befedadd2b10446c15ce60ce3578472.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/273fea836de087904517e4522a4cca7f0befedadd2b10446c15ce60ce3578472.jpg)
 
 # Cap Pricing Example
 
@@ -3502,8 +3502,8 @@ $$
 $$  
 - Then,  the following backward tree gives a cap price $V_{0}=0.87$
  - Table 3 shows the pricing of a cap on the bigger tree in Table 2,  with $\overline {{r}} =5\%$ ;and $N=100$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d3fb85ecd6efbc0508695ee304af156ee2781858c0d4ad9c191ac7a5e540a69.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51d603aa19ddeb9cc122b4c939df1562112e4d01272c38eac905b1d3c5944f48.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d3fb85ecd6efbc0508695ee304af156ee2781858c0d4ad9c191ac7a5e540a69.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51d603aa19ddeb9cc122b4c939df1562112e4d01272c38eac905b1d3c5944f48.jpg)
 # Swaps and Swaptions
 - Similarly,  the computation of Swaps and Swaptions (options to enter into a Swap) are simple
 - Consider a 2 year swap (Maturity $=i=4.$ ),  with swap rate (c.c.) $\overline {{r}} =. 0304$，$N=100$
@@ -3514,7 +3514,7 @@ $$
 
 We obtainthe treeof cash flowsi
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e142808268b9967cc24efc4cf04b186d278725e1b0708d4bd2cfc0d7d67d669.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e142808268b9967cc24efc4cf04b186d278725e1b0708d4bd2cfc0d7d67d669.jpg)
 
 - The tree for the value of the swap (for the fixed payer) is then immediately computed.
 Denoting again
@@ -3524,7 +3524,7 @@ $$
 
 We obtain
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/430146ba98cf274450388394123e3187d8628f9115823dfeb502436200a0b812.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/430146ba98cf274450388394123e3187d8628f9115823dfeb502436200a0b812.jpg)
 
 ·The swap rate $\overline {{r}} =0.0304$ was chosen to make the value of the Swap contract $=0$ attime $i=0$
 
@@ -3558,7 +3558,7 @@ $$
  - The relevant tree for $V_{i,          j}$ is then the one given earlier.
  - Since $V_{2,          u u}=3.31$，$V_{2,          u d}=0.86$ and $V_{2,          d d}=-1.68$ ,  we only exercise in the top two nodes at $i=2$
  - The tree to value the swaption is then given by:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/677ea1759fa6607fabf1b023d9e2278ad12208922575bd73b308c1140d4645f1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/677ea1759fa6607fabf1b023d9e2278ad12208922575bd73b308c1140d4645f1.jpg)
 # American Swaptions: Example
 - Computing an American style swaption exploits the same methodology illustrated earlier. That is,  we must have
 $$
@@ -3567,7 +3567,7 @@ $$
 
 In this case,  we find
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f87aec40503ac495b4f169fcf41d0ab3dbdbb06d36492cd9699f05efaa6ae276.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f87aec40503ac495b4f169fcf41d0ab3dbdbb06d36492cd9699f05efaa6ae276.jpg)
 
 # Swaptions: Examples
 
@@ -3581,11 +3581,11 @@ In this case,  we find
 
 $-\;\overline {{{r}} }=0.03999;$ $-\; T=5$ years; -Semi-annual payments; - At-the-money Payer Swaption with $T^{*}=3$ years: - (In the last panel,  a "\*” denotes early exercise of the option)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/976bef913c4d6d12057cbbca274dea804a9f5ea58781609b652248e3cc54fde9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/976bef913c4d6d12057cbbca274dea804a9f5ea58781609b652248e3cc54fde9.jpg)
 
 European Option
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8860826d0ada9575f06dad15a986f603acbc01aab72c84028ac88c157046a1b1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8860826d0ada9575f06dad15a986f603acbc01aab72c84028ac88c157046a1b1.jpg)
 
 # Tree Building
 # How can we construct a tree?
@@ -3645,10 +3645,10 @@ $$
 I=1
 $$  
 -Given $\theta_{0}$ ,  we now look for $\theta_{1}$ by trying to match the next bond $Z_{0}(3)=0.9615$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fdbcf1bd8076cc08d02a9601485aa29510578aba24b346e1acebe7072819a775.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fdbcf1bd8076cc08d02a9601485aa29510578aba24b346e1acebe7072819a775.jpg)
  - Clearly,  $Z_{0}(3)$ from the tree only depends on $\theta_{1}$
  - Searching for $\theta_{1}$ yields $\theta_{1}=0.013807$ ,  yielding
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4226fa90f3875e1a2433a7e855955de7050a2efabf74c55116ac090677ae6e12.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4226fa90f3875e1a2433a7e855955de7050a2efabf74c55116ac090677ae6e12.jpg)
 - And so on for all the possible available maturities.
 # The Simple Black-Derman-Toy
 - One potential issue with the Ho-Lee model is that interest rates can easily get negative. If $\sigma$ is large,  for instance there is nothing in the procedure above that guarantees that $r_{i,          j}>0$
@@ -3661,7 +3661,7 @@ Clearly,  even if $z_{i j}<0$ we have $r_{i j}=e^{z_{i j}}>0$
 
  - Note that now $\sigma$ is the standard deviation of log interest rates. It can be estimated from $\Delta\ln (r_{t})$ - Note that to a first order approximation $\begin{array}{r}{\Delta z_{t}\approx\frac{1}{r_{t}}\Delta r_{t}}\end{array}$ - Therefore,  $\sigma (\boldsymbol{z}_{t})\approx\sigma (\boldsymbol{r}_{t})/r_{t}$ - In the previous example,  $\sigma (r_{t})=0.015$ and $r_{0}=1.69\%$ ,  and thus $\sigma (z_{t})\approx 88.91\%.$ - Using the same procedure,  we obtain $\theta_{0}=0.603652218$，$\theta_{1}=0.089246544$ and the binomial tree
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/991b1effc316f809254e91720ea82f1c2b4e8ce05115219835b460053f8ea2f9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/991b1effc316f809254e91720ea82f1c2b4e8ce05115219835b460053f8ea2f9.jpg)
 
 # The Black-Derman-Toy Mode
 - The previous models are popular,  but they have constant volatility.
@@ -3687,13 +3687,13 @@ $$
 - The forward volatility can be estimated from options (caps and floors),  and it reflects the volatility of forward rates with the indicated maturity.
 Therefore,  assume the following data
 Table 1: Inputs to BDT Model
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c1964c8b9a175c35b079c72debf035f72e99501aaed9772122b81fe97d2568d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c1964c8b9a175c35b079c72debf035f72e99501aaed9772122b81fe97d2568d.jpg)
 - Objective: Construct an interest rate tree that matches the data in Table 1 exactly
 $$
 I=0\qquad\quad i=1\qquad\quad i=2\qquad\quad i=3
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6842b4c6aa5daab5d96960b04de6a2df5cf2597952937bbfd81775a979ecaa77.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6842b4c6aa5daab5d96960b04de6a2df5cf2597952937bbfd81775a979ecaa77.jpg)
 
 (18)
 
@@ -3708,14 +3708,14 @@ $$
 Z_{i,          j+1}=z_{i,          1}-2\times j\times\sigma_{i+1}\sqrt{\Delta t}
 $$  
 - The unknowns in our original model,  with $\Delta t=1$ arethen
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4217a513628b2f41150dfb289e83a21cb4330eed0058f5c0a934abaea5951dae.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4217a513628b2f41150dfb289e83a21cb4330eed0058f5c0a934abaea5951dae.jpg)
 ·At time $i=1$ we look for $z_{1,          u}$ ,  at time $i=2$ we need to look for $z_{2,          u u}$ etc.
  - Since we are already using the "volatility” condition,  the only equation to satisfy for every $i$ is the bond price out of the tree corresponds to the data $Z (0,          T_{i})$ that we have available.
  - This last computation can be done recursively by going backward from the end of the tree,  as usual.
 - Example: Suppose you had the data (extracted from Bloomberg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69681711219bff520e7f1b314a667b7fd0b35da38323e55b189959c71b6ba3ec.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69681711219bff520e7f1b314a667b7fd0b35da38323e55b189959c71b6ba3ec.jpg)
 - The implied BDT tree (already in interest rate format $r_{i j}=e x p (z_{i j})$ that matches the data is
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7152f3a01088c202436cf6c438f206b15ea682d5cd13f7d42ab8370b2dedb5a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7152f3a01088c202436cf6c438f206b15ea682d5cd13f7d42ab8370b2dedb5a.jpg)
 # Monte Carlo Simulations on Binomial Trees
 - Monte Carlo simulations is the most popular methodology to price securities
 - Consider a one-step risk neutral binomial tree with equal chance of up or down movement.
@@ -3734,7 +3734,7 @@ $$
 
 Next figure computes the value of the option for a given binomial tree.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/163a8126a834ebb33a27c829aab8de145efa1a9782918c57393ee35bb27f7fb0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/163a8126a834ebb33a27c829aab8de145efa1a9782918c57393ee35bb27f7fb0.jpg)
 
 # Monte Carlo Simulations on Binomial Tree
 - Another way of computing the expected future payoff is to simulate upward and downward movements in the tree using a computer
@@ -3753,7 +3753,7 @@ Next Table illustrates the procedure
 
 - The first column reports the simulation number. -The second column displays the actual realization of the $R A N D ()$ function inExcel - The third column tells us the movement in the tree implied by the $R A N D ()$ realization - The fourth column reports the payoff at maturity,  i.e. $c_{1}^{s}=100\times\mathrm{max}(r_{1}^{s}-r_{K},          0)$ - The last column computes the discounted payoff,  $e^{-r_{0}\times T}\times c_{1}^{s}$
 Ten Simulations on the Binomial Tree
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c9a700702d8ec27869d29b3d3c7187e38d41b836bc999e3b45349fe10a83e29.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c9a700702d8ec27869d29b3d3c7187e38d41b836bc999e3b45349fe10a83e29.jpg)
 # The simulated value is
 $$
 \begin{array}{r}{\hat{c}_{0}=0.693.}\end{array}
@@ -3772,7 +3772,7 @@ $$
 I=2
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f77d804db5da7e1faea94cc681d1d5e95bd3b65d51f8530ce5a32e6800921113.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f77d804db5da7e1faea94cc681d1d5e95bd3b65d51f8530ce5a32e6800921113.jpg)
 
 - First note that the backward computation methodology is equivalent to the outright calculation of the value of the security as the risk neutral present discounted value of the payoff at maturity,  discounted at the risk free rate.
 That is,  the value of the security is equal to
@@ -3790,7 +3790,7 @@ $$
 - We now perform exactly the same simulation exercise as before two realization s of $R A N D ()$
 - The only caveat now is to figure out how we should discount simulated cash flows back to time Ol
 - From (24),  and its explicit development in (25) and (26) we must discount cash flow by using the realized interest rate path in that simulation.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eabc9799bcb39b49ea6ac3a121eb96e51e26ee495b9373a2fc2da82f814634e7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eabc9799bcb39b49ea6ac3a121eb96e51e26ee495b9373a2fc2da82f814634e7.jpg)
 Higher number of simulations improves accuracy:
 $$
 \begin{array}{l}{N\ =\ 10\Longrightarrow\hat{c}_{0}=1.975}\\ {N\ =\ 1,         000\Longrightarrow\hat{c}=1.839}\end{array}
@@ -3804,8 +3804,8 @@ $$
 - This payoff makes the binomial tree non-recombining,  as the payoff from "up-down movement" is different from the payoff from a"down-up movement'
  - Denote by $\overline {{r}} _{i,          j}=a v e r a g e (r_{k})$ for $k\leq j$ on the path to $(i,          j)$
  - For such short binomial tree we can still compute the value of path-dependent security using backward calculation
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269c974a8795fd7d57ce2689b3b2a795a525d077559688bd4977a3d467cc563a.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c3983ddd488a60b650336c5261fb79419a55bef91bfe9ef4054df41ecabcb25.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269c974a8795fd7d57ce2689b3b2a795a525d077559688bd4977a3d467cc563a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c3983ddd488a60b650336c5261fb79419a55bef91bfe9ef4054df41ecabcb25.jpg)
 # Monte Carlo Simulations for Path Dependent Securities
 
 ·The tree becomes non-recombining. When we use "big trees",  this is a serious problem
@@ -3813,7 +3813,7 @@ $$
 - For instance,  for mortgage backed security with monthly payment we need a tree with 360 steps. This implies a treewith $2^{360}=2.345 E+108$ nodes by the end of the tree (!).
 - MC simulations do not require a backward calculation. Problem solved!
  - In the example above,  with 10 simulations,  we obtain the following table
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a62f02b4259072b1e79b13fd03dafb094d5ee64cc2d9c7f1020717d20c8f0e18.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a62f02b4259072b1e79b13fd03dafb094d5ee64cc2d9c7f1020717d20c8f0e18.jpg)
 # Monte Carlo Simulations with Multi Step Trees
 - The approach readily extends to multi-period binomial trees,  which is an important extension as it allows us to evaluate relatively complex securities
 - For instance,  in the Ho-Lee model we can simulate directly the tree
@@ -3824,15 +3824,15 @@ $$
 
 PanelA: TheHo-Lee Interest Rate Tree
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f81e1ba7c162aae8887bea17ef7804c486b848e8882160e24367eb80c583348.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f81e1ba7c162aae8887bea17ef7804c486b848e8882160e24367eb80c583348.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc48b1d29a75880d1efcf266df06b0828e405786f2fe6dfffb58907b269c35b1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc48b1d29a75880d1efcf266df06b0828e405786f2fe6dfffb58907b269c35b1.jpg)
 
 # Simulations on Ho-Lee Binomial Tree
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67a444a55086a25cf8e3bfbf560bd6233c84980f701785e17b6dfce462f0d22.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67a444a55086a25cf8e3bfbf560bd6233c84980f701785e17b6dfce462f0d22.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e501be0a61ffabe18d0324b920ac213df4d1ae582a2a2b9fb369ae10a179a8a4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e501be0a61ffabe18d0324b920ac213df4d1ae582a2a2b9fb369ae10a179a8a4.jpg)
 
 # Ho-Lee Binomial Tree: Simulated Discounts
 - For each simulated path $r_{0},         \; r_{1}^{s},         \; r_{2}^{s},         …,          r_{k-1}^{s}$ ,  compute the simulated zero with maturity $T_{k}$ as
@@ -3840,17 +3840,17 @@ $$
 Z^{s}(0,          T_{k})=e^{-\sum_{i=1}^{k-1}r_{i}^{s}\Delta t}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68dbd4c329bc64e44a7248f321926728fb851cbfbfc87b53f70e1aeccc93ae7e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68dbd4c329bc64e44a7248f321926728fb851cbfbfc87b53f70e1aeccc93ae7e.jpg)
 
 - Maturity $T_{i}$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f28b132c23347553ea3f104cb91b927f580e8e3a1665bb1b272defaf2c272eb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f28b132c23347553ea3f104cb91b927f580e8e3a1665bb1b272defaf2c272eb.jpg)
 # Simulated Ho-Lee Binomial Tree: Valuation of Zero-Coupon Bonds
 - The simulated value of a zero coupon bond is the average across simulated discounts
 $$
 \widehat{Z}(0,          T_{k})=\frac{1}{N}\sum_{s=1}^{N}Z^{s}(0,          T_{k})
 $$  
 - The simulated values with $N=1000$ are reported in the next table,  together with the data used to fit the Ho-Lee treemodel
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9e952c1f2b7d30d42d7d99b5307faf970743989aef01f80ccd4f5d6c22f0e36.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9e952c1f2b7d30d42d7d99b5307faf970743989aef01f80ccd4f5d6c22f0e36.jpg)
 # Simulated Ho-Lee Binomial Tree: Valuation of an Interest Rate Option
 - The same valuation methodology can be used to price long-term options,  such as one paying at $i=1,         …,          10$
 Risk neutral pricing implies that the price of this option is given by
@@ -3876,11 +3876,11 @@ $$
 100\times\operatorname*{max}(r_{2}^{1}-r_{K},          0)=0.9849\times 100\times\operatorname*{max}(3.61\%-1.74\%,          0)=
 $$  
 - The option values in Panel A are then computed as the average of values in the corresponding column in Panel B - (although the average is taken over all the 1,  0 o 0 simulated paths,  rather than only the ten paths reported in Panel B).
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1a39cc0dba6085f4a39ec1a4a44bf57fb51b38ae1c91d849e4ba68ac46e2705.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1a39cc0dba6085f4a39ec1a4a44bf57fb51b38ae1c91d849e4ba68ac46e2705.jpg)
 # How Many Simulations are Enough?
 - A price of a security computed by Monte Carlo Simulations is an estimate of the true price. - Using simulations we are generating a sample of observations of the price of the security - Because it is an estimate,  we can compute the price's standard error.
 - For instance,  the first two rows in next Table reports the prices (again) and standard errors of the long-term interest call options discussed earlier .
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653497b3ade6a44e0b88a0c3fdcaad2e0e48caec0dc517d96f2a0f3324b0c2d3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653497b3ade6a44e0b88a0c3fdcaad2e0e48caec0dc517d96f2a0f3324b0c2d3.jpg)
 # Monte Carlo Simulations and Confidence Intervals
 - How small should a standard error be to make a trader confident on the price of the option?
  - The related concept of a $\left (95\%\right)$ confidence interval answers this question:
@@ -3895,7 +3895,7 @@ $\ast\textsf{N o}$ ,  because there is only $95\%$ chance that the true value li
 # Long-term Asian Options
 - At this point,  we can estimate the values of a long-term Asian options with maturities $T_{i}=0.5,         …,          5$
 - Next table computes the value (Panel A),  and the first 10 simulated discounted payoffs (Panel B)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d172209b07fc6ed1ce8d7079ae2e638f3a6fac8d57e36ef6f010050d15b6792.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d172209b07fc6ed1ce8d7079ae2e638f3a6fac8d57e36ef6f010050d15b6792.jpg)
 # Duration Calculations by Monte Carlo Simulations
 - How can we compute measures of risk if we use Monte Carlo simulations for valuation? - We can use Monte Carlo simulations to compute the "spot rate" duration,  3 defined as
 $$
@@ -3910,7 +3910,7 @@ That is,  compute the price starting from $r_{0}$ and from $r_{0}+d r$ . Then ap
 $^*$ First,  the duration of the interest rate call option is negative $^*$ Second,  the duration of Asian options is also negative and higher than the one of plain vanilla options. . This may be surprising,  as Asian options' underlying (the average of interest rates) is less volatile than the interest rate itself. . However,  the price of an Asian option is also smaller. Thus,  in percentage,  the sensitivity of the Asian option to changes in interest rates ishigher.
 # Duration Calculations by Monte Carlo Simulations
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f66a8fa1307f3f4b8c7b91b70de0480d5e4df8b71834ca5bb970e9859d8f1d7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f66a8fa1307f3f4b8c7b91b70de0480d5e4df8b71834ca5bb970e9859d8f1d7.jpg)
 
 # Monte Carlo Simulations in General
 - The Monte Carlo simulation method is far more general than what I presented so far
@@ -3943,23 +3943,23 @@ $$
 
 # PanelA. Billionsof USDollars
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44cd5f982f0a5c242a9275e360245bfcdc10ca4b35b8428607c1cf221c7d3c28.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44cd5f982f0a5c242a9275e360245bfcdc10ca4b35b8428607c1cf221c7d3c28.jpg)
 
 Panel B. Percentage of US GDF
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/697487df73db1056c459378362e74b5bc9723900c0055407efb322bf9e488198.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/697487df73db1056c459378362e74b5bc9723900c0055407efb322bf9e488198.jpg)
 
 (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 # House Prices and the Mortgage Backed Securities Market
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d909ad043c5dc12f114c2f8adedb93a918b03d3f92f13ac8d9ff8a940271959.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d909ad043c5dc12f114c2f8adedb93a918b03d3f92f13ac8d9ff8a940271959.jpg)
 
 Source: SIFMA and Standard & Poor/ Case-Shiller
 
 # The Se curit iz ation Process
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0494099b8be2d5b0a7a222acd5f5ec3d7aecc1c8d56dfe0e156b68d2cddb99c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0494099b8be2d5b0a7a222acd5f5ec3d7aecc1c8d56dfe0e156b68d2cddb99c.jpg)
 
 # MBS Players
 
@@ -3971,7 +3971,7 @@ Three main government sponsored agencies exist
 - The most common MBS is the Pass-Through MBS: all the cash flows from the original pool are passed to the investors. - Pass through MBSs have their own interest rate $r^{P T}$ ,  lower than the average mortgage rate in the pool as agencies keep a fee for arranging the MBS market (and provide default insurance)
 # Mortgage Related Issuance
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87e6a88185b3cc6aefb486d6b5680d4a696c1350aa546a0ddfcaf21c65b0230d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87e6a88185b3cc6aefb486d6b5680d4a696c1350aa546a0ddfcaf21c65b0230d.jpg)
 
 Notes: Agency issuance includes GNMA,  FNMA,  and FHLMC mortgage backed securities and CMOs Nonagency issuance includes both private-label RMBS,  Res e curit iz ation,  and Home Equity Loans. Quantities are\$billions. Source: SIFMA. Government-Sponsored Enterprises,  Thomson Financial,  Bloomberg
 
@@ -4002,9 +4002,9 @@ $$
 $$  
 # Scheduled Principal Balance,  Scheduled Interest,  and Principal Payments
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d5f79821704b1a16c97fd3b879e4dc93577007e2e5ddc7bf9a421d25d26d0e0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d5f79821704b1a16c97fd3b879e4dc93577007e2e5ddc7bf9a421d25d26d0e0.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/810bc18173b8d3c506c67769f22c220d87927c099707e132803a5219e293be1b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/810bc18173b8d3c506c67769f22c220d87927c099707e132803a5219e293be1b.jpg)
 
 # The Refinancing Option
 - The value of the mortgage debt changes over time as mortgage rates change
@@ -4017,7 +4017,7 @@ $$
 $-\implies$ when interest rates decline,  $P (t)$ may increases to a higher level than $L_{t}$ $-\implies$ optimal to refinance the mortgage.
 # Refinancing and the Federal Funds Rate: 1990 - 2008
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c1b1d1caf8ddea4c64e1200ce9261e8994167328db067c34dbf07a3f2488191.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c1b1d1caf8ddea4c64e1200ce9261e8994167328db067c34dbf07a3f2488191.jpg)
 
 Source: Federal Reserve and Bloomberg.
 
@@ -4042,7 +4042,7 @@ Pr (Prepayment at time $t=n$ months from now) = (1 - p)^ p
 1. $\mathsf{C P R}=0.2\%$ of the principal is paid in the first month; 2. CPR increases by $0.2\%$ in each of the following 30 months; and 3. CPR then levels off at $6\%$ until maturity. - This measure makes the amount of prepayment depend only on the age of the mortgage pool. - By scaling up or down the CPR in the PSA description,  we obtain faster or slower speeds of prepayments.
 # PSA Prepayment Convention
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cb78096a6e7b0abc7cb766519800fc471e1e7acc08c3feca52f2f9e1d71ac6c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cb78096a6e7b0abc7cb766519800fc471e1e7acc08c3feca52f2f9e1d71ac6c.jpg)
 
 # PSA and MBS Pricing
 - A PSA prepayment speed is simply a quoting convention to allow traders to quote RMBS
@@ -4080,17 +4080,17 @@ $$
 
 # The Value of a Pass-Through MBS with Respect to the Interest Rate
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a91c4a0a16274b2466417c54a72740a78a1a9b2a1ce74c9d067048b73e35bdbf.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a91c4a0a16274b2466417c54a72740a78a1a9b2a1ce74c9d067048b73e35bdbf.jpg)
 
 # The Convexity of MBS: GNMA 7 Prices and Mortgage Rates
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87fdf8d7aed1a22e32670c20145244a79fe32a47a1b5b67772b45f20f81968c6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87fdf8d7aed1a22e32670c20145244a79fe32a47a1b5b67772b45f20f81968c6.jpg)
 
 Data source: Bloomberg and Federal Reserve Board
 
 # Refinancing Speed and Rates: GNMA 7 PSA and Mortgage Rates
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8b52691d8e81152dfc18b827a3c8080051bf41bd404eecf9c6356cfaefafa4a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8b52691d8e81152dfc18b827a3c8080051bf41bd404eecf9c6356cfaefafa4a.jpg)
 
 Data source: Bloomberg and Federal Reserve Board
 
@@ -4098,7 +4098,7 @@ Data source: Bloomberg and Federal Reserve Board
 
 A Sample of Par Value Ginnie Mae Pass-Through Prices and Treasury Yields
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd57400f883b970ee5cc0e6d800fbcdd4c0fbe36f78c2e251085708f2f243778.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd57400f883b970ee5cc0e6d800fbcdd4c0fbe36f78c2e251085708f2f243778.jpg)
 
 WAC $=$ Weighted Average Coupon of underlying Pool; WAM $=$ Weighted Average Maturity of underlying Pool.
 
@@ -4124,7 +4124,7 @@ This calculation yields $D=4.39$ and $C=36.1590$ - Where is the negative convexi
 # RMBS and Interest Rate Risk Management: PSA-adjusted Effective Duration
 - The earlier computations does not take into account that PSA speed,  and thus CFs,  change with the interest rate.
  - The PSA-adjusted Effective Duration corrects for this - How can we forecast the change in PSA speed for given interes rate? - SIFMA survey forecasts provide a simple way Mortgage Prepayment Projection Yield Curve Scenarios
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4efac770a73e96d16361bd138fe24ba2973788b7e9ff393e9360d9b73d3fe712.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4efac770a73e96d16361bd138fe24ba2973788b7e9ff393e9360d9b73d3fe712.jpg)
 # RMBS and IRRM: PSA-adjusted Effective Duration and Convexity
 - We can use these projections to adjust the cash flows.
  - Using for instance a 50 bps increase / decrease,  we obtain
@@ -4151,7 +4151,7 @@ $$
 
 # GNSF 6 Price and the 5-Year Swap Rate
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d1dbb3733efd555e78d4769d3f1439b055923faf3c81d117fe668a1078fca40.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d1dbb3733efd555e78d4769d3f1439b055923faf3c81d117fe668a1078fca40.jpg)
 
 # Pricing Prepayment Option on Binomial Trees
 
@@ -4160,7 +4160,7 @@ Mortgages have an implicit American option. We can use Binomial Trees to evaluat
  - This is the first step to compute the fair value of Mortgage Backed Securities using no-arbitrage methods
 
 - Example: consider the simple case with annual rather than monthly payments Suppose that interest rate tree is the following:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/17e7c3a4b8ca5ebc171366ef7f11ed78b143191b59151102e8ba4ab45c309ad2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/17e7c3a4b8ca5ebc171366ef7f11ed78b143191b59151102e8ba4ab45c309ad2.jpg)
 - Consider a 10,  000 mortgage with 4 years to maturity,  and mortgage rate $\overline{r}^{m}=0372$ (annually compounded).
 - We need to compute the principal amounts left after each coupon payment
  -What is the annual coupon?
@@ -4170,18 +4170,18 @@ $$
 $$  
 - This yields $C=2736.7581$
 - We then obtain
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fb7cd345c6b14ffcb701bd93b7833b8bc2848256f570c3ff38bd425eb2d59e9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fb7cd345c6b14ffcb701bd93b7833b8bc2848256f570c3ff38bd425eb2d59e9.jpg)
 - We now need to compute the value of the American option implicit in the mortgage
 - At every payment date,  we must compare the net present value of future mortgage payments with the principal remaining.
 -- Refinancing occurs when the NPV of future payments is above principal
 - So,  first we compute the NPV of future payments
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b00c97890ffa00c8331245fdd810e1c65b0659303c574faf74bb21d3139ea4d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b00c97890ffa00c8331245fdd810e1c65b0659303c574faf74bb21d3139ea4d.jpg)
 - The net present value of future mortgage payments is 10075.5089.
   Notice that the bank has only given them \$10000.
  - However,  the bank is selling an American call to the home-owner,  which is valued in the next tree
  - (For the sake of simplicity,  denote by $(a,          b)^{+}=\operatorname*{max}(a,          b))$ - From the tree,  we see that the value of the mortgage is fair:
 $\mathsf{M o r t g a g e}=10000=\mathsf{N P V}(\mathsf{F u t u r e\ C F s})$ - Prepayment Cal
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b1b336246ae6a2a7dcb2caebf28641696cb3190918d9c66a294cd826deccd32.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b1b336246ae6a2a7dcb2caebf28641696cb3190918d9c66a294cd826deccd32.jpg)
 # Pricing Pass Through's on Binomial Trees
 
 We now look at how to value PT securities on a binomial tree
@@ -4202,7 +4202,7 @@ $i=3$ Principal $=2638.597$ Interest $=5182.553\times r_{P T}$ Sched. $\mathsf{P
 
 $i=4$ Principal $=0$ Interest $=2638.597\times r_{P T}$ Sched. $\mathsf{P r i n}=2638.597$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8a2ca61db67e8eff1c104e0ad48d27b98f016b41e8b921cb7aae150fb0b4b5b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8a2ca61db67e8eff1c104e0ad48d27b98f016b41e8b921cb7aae150fb0b4b5b.jpg)
 
 # Pricing Pass Through's on Binomial Trees
 

@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Breaking the Buck
-- Alias_85_Breaking the Buck.md
+- Breaking the Buck
+- Breaking the Buck.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Breaking the Buck
 ---
-
-
-
-
 # Breaking the Buck
 
 On his way to the weekly meeting of the Investment Committee at Rich Passage Advisers,  Inc. ("RPG Advisers"),  Finbar McCall caught a glimpse out the window of the rain soaked streets below.
@@ -151,20 +147,20 @@ In addition,  McCall recognized that there would be strong pressures on regulato
 
 Exhibit 1 Asset Composition of Taxable Government [[A Primer on Money Market Mutual Funds|Money Market Funds]] and Taxable NonGovernment [[A Primer on Money Market Mutual Funds|Money Market Funds]] as a Percentage of Total Assets,  Year-End 2008
 
-![](CleanShot%202024-09-27%20-002894@2x.png)
+ ![500](CleanShot%202024-09-27%20-002894@2x.png)
 
 Source: Compiled from Investment Company Institute,  2010 Investment Company Factbook,  http://www.ici.org/pdf/2010_factbook.pdf ,  accessed May 5,  2010 (Tables 42 and 43).
 
 1. Exhibit 2 Total Net Assets of Government Money Markets Funds and Non-Government [[A Primer on Money Market Mutual Funds|Money Market Funds]],  July 2008-February 2009 (millions of dollars)
-![](CleanShot%202024-09-27%20-002895@2x.png)
+ ![500](CleanShot%202024-09-27%20-002895@2x.png)
 
 Source: Adapted from Investment Company Institute,  "Weekly Total Net Assets and Number of Mutual Funds,  " Investment Company Institute Web site,  http://www.ici.org/pdf/mm_data_2010.pdf ,  accessed May 10,  2010.
 
 Exhibit 3 Seven-day Yields for Prime and Treasury Funds,  Jan. 2007–Feb 2009
-![](CleanShot%202024-09-27%20-002896@2x.png)
+ ![500](CleanShot%202024-09-27%20-002896@2x.png)
 
 Exhibit 5 Comparison of Money Market Fund Yields and Bank Deposit Rates of Return,  March 4,
-![](CleanShot%202024-09-27%20-002897@2x.png)
+ ![500](CleanShot%202024-09-27%20-002897@2x.png)
 Source: Compiled from "Big Six Month CDs at 1.27%,  " *The Wall Street Journal*,  March 4,  2009,  p. C 4; http://www.bankrate.com/finance/cd/cd-rate-averages-for-march-5-2009.aspx ,  accessed May 10,  2010; *Barron's,  *
 March 9,  2009,  p. M 47.
 

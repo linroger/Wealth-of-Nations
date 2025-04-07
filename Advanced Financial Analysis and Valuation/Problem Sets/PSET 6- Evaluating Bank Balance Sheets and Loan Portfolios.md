@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_301_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
-  - Alias_304_PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#banking"
   - "#risk-management"
@@ -14,9 +12,6 @@ tags:
   - "#financial-reporting"
 title: PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ---
-
-
-
 # PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ### ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS BUSINESS 30131
 
@@ -109,7 +104,7 @@ Suppose Citigroup decides to sell a leveraged loan portfolio to Blackstone. Use 
 	- If we increase the discount rate to 8% (vs. the 6% used),  the total PV of expected cash flows decreases to 6, 264.56,  and the IRR decreases to 9.63%. If we use a lower discount rate of 4%,  the total PV of expected cash flows increases to 7, 101.74,  and the IRR increases to 12.32%.
 1. Based on your calculations,  how attractive is this deal to Blackstone?
 	1. With an IRR of 10.94%,  the deal appears attractive for Blackstone,  but still poses signfiicant risks,  especially if a loan in the portfolio defaults.
-![](Z.%20Clippings/uating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios-20240427135923351.png)
+ ![500](Z.%20Clippings/uating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios-20240427135923351.png)
 This individual assignment is not graded (in detail),  but you still need to submit your write-up via Canvas as a pdf file. In addition,  you can submit your Excel file. The assignment is due before the class of the section for which you are registered starts. However,  if you attend an earlier section you have to submit to Canvas before that class. To receive full credit,  you have to make a reasonable attempt.
 
 See syllabus and Canvas announcements for more information about grading.

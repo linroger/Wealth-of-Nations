@@ -1,15 +1,12 @@
 ---
 aliases:
-- Example_Alias_Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs
-- Alias_24_Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants.md
+- Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs
+- Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 ---
-
-
-
 # Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 
 Business 35202 Douglas W. Diamond
@@ -43,16 +40,16 @@ Options to fix the effect of excessive debt on risk choice. (From week 1)
 - The section on default from a 1999 loan agreement has more contingencies defining default than the MGM bond and does not have the bond's requirement that a trustee wishes to declare a default if there are violations of non-financial [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] or any requirement that at least 25% of loan holders want to declare a default in that circumstance.
 
 1. How do the loan contracts allow the lenders to exercise control over the borrower?
-![](https://storage.simpletex.cn/view/fBvhPxVfMooQHmOrE3VhB1VOXxp466AqF)
-![](https://storage.simpletex.cn/view/f9TanvKDlldmOEsxesdgwoA2H7iGpN9oz)
-![](https://storage.simpletex.cn/view/fyBQEsdLHtMg0Y36BdXWWLggfoa62ZBoY)
+ ![500](https://storage.simpletex.cn/view/fBvhPxVfMooQHmOrE3VhB1VOXxp466AqF)
+ ![500](https://storage.simpletex.cn/view/f9TanvKDlldmOEsxesdgwoA2H7iGpN9oz)
+ ![500](https://storage.simpletex.cn/view/fyBQEsdLHtMg0Y36BdXWWLggfoa62ZBoY)
 
 ## Class 2 - Corporate Bond Contracts
 
 Bonds are defined by legal contracts,  called indentures,  which spell out the rights and responsibilities of both sides. We will explore this contracting by reading the prospectus of a recent offering and analyzing its salient features,  and by discussing contract features that arise elsewhere.
 
 On December $13^{\mathrm{th}}$ ,  MGM Mirage issued a bond:
-![](https://storage.simpletex.cn/view/fVw0ODH0eAWXnfregsf3RHOr3H4CFSws3)
+ ![500](https://storage.simpletex.cn/view/fVw0ODH0eAWXnfregsf3RHOr3H4CFSws3)
 
 Inside the prospectus (which I've posted on the canvas webpage),  we see:
 

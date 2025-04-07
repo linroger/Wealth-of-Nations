@@ -2,16 +2,13 @@
 aliases:
 - FX Quotes
 - Quoting Conventions
-- Alias_172_Foreign Exchange Quoting Conventions.md
-- Alias_173_Foreign Exchange Quoting Conventions.md
+- 
+- 
 - Foreign Exchange
 tags:
-- tag_example
+- 
 title: Foreign Exchange Quoting Conventions
 ---
-
-
-
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

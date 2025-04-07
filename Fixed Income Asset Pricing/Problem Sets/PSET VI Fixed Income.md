@@ -1,7 +1,7 @@
 ---
-aliases: [FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON,  Alias_360_PSET VI Fixed Income.md,  Alias_357_PSET VI Fixed Income.md]
+aliases: [FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON,  ]
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
-tags: [tag_example]
+tags: []
 title: PSET VI Fixed Income
 ---
 

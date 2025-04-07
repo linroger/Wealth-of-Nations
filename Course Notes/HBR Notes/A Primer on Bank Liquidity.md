@@ -46,7 +46,7 @@ Additional post-crisis reforms have also addressed [[A Primer on Bank Liquidity|
 
 In part to comply with the LCR and other new requirements,  and in part because of greater caution,  U.S. bank holding companies now hold nearly 20 percent of their assets,  or $2¾ trillion as HQLA,  up from less than 5 percent going into the crisis. There are three categories of HQLA under the LCR: level 1 assets,  level 2A assets and level 2B assets. U.S. banks hold almost entirely level 1 and level 2B assets. Level 1 assets include reserve balances,  Treasury securities,  and other securities that are explicitly guaranteed by the full faith and credit of the U.S. government. Level 2A assets comprise government-sponsored enterprise (GSE) debt,  and GSE-sponsored mortgage-backed securities. Under the LCR,  level 2A assets receive a 15 percent haircut,  and those amounts must be less than 40 percent of HQLA for each bank.
 
-[![](https://bpi.com/wp-content/uploads/2019/08/HQLA-Calculations-1024x732.png)](https://bpi.com/wp-content/uploads/2019/08/HQLA-Calculations-1024x732.png)
+[ ![500](https://bpi.com/wp-content/uploads/2019/08/HQLA-Calculations-1024x732.png)](https://bpi.com/wp-content/uploads/2019/08/HQLA-Calculations-1024x732.png)
 
 **WHAT ARE THE COSTS AND BENEFITS OF LIQUIDITY REQUIREMENTS?**
 

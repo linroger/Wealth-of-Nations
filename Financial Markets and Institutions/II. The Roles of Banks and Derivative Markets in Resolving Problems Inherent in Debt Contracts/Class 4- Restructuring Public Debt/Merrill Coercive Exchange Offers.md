@@ -1,16 +1,12 @@
 ---
 aliases:
-- Alias_7_Merrill Coercive Exchange Offers.md
-- Example_Alias_Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
+- Merrill Coercive Exchange Offers.md
+- Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
 ---
-
-
-
-
 # Merrill Coercive Exchange Offers
 
 Prices of U.S. high yield bonds and leveraged loans weakened early on Wednesday following Tuesday's sharp decline in equities.A rebound began later the same day and its continuation on Thursday erased most of the decline. Selected news-sensitive. names such as Elizabeth Arden,  Lyondell Chemical,  and Winn-Dixie Stores dominated trading on the bond side. Demand for loans remained firm. in the context. of skimpy new issue supply,  with collateralized loan obligation rampups adding to the need for paper.
@@ -47,7 +43,7 @@ Bondholders may reject an offer that is in their interest
 
 Exiting bondholders must consent to evisceration of the covenants
 
-Complaints of “coercion” arise from a more complex decision,  in which rejection entails adverse consequences. By way of illustration,  suppose Walking Wounded Corporations widely owned $10-1/2\%$ debentures are trading at 45. The financially distressed company attempts to lower its fixed charges by offering to exchange the outstanding issue for a like face amount of new $9\%$ debentures maturing in the same year,  and with covenant protection equivalent to that of,  the 10-1/2s. Pro forma analysis indicates that if all bondholders accept the exchange,  the resulting credit quality improvement will more than offset the coupon reduction,  causing the $9\%$ debentures to trade at 50.On the face of it,  bondholders have a collective interest in Walking Wounded’s offer being accepted. If the deal succeeds,  their holdings will rise in market value,  while their risk of default will decline
+Complaints of “coercion” arise from a more complex decision,  in which rejection entails adverse consequences. By way of illustration,  suppose Walking Wounded Corporations widely owned $10-1/2\%$ debentures are trading at 45. The financially distressed company attempts to lower its fixed charges by offering to exchange the outstanding issue for a like face amount of new $9\%$ debentures maturing in the same year,  and with covenant protection equivalent to that of,  the 10-1/2s. Pro forma analysis indicates that if all bondholders accept the exchange,  the resulting credit quality improvement will more than offset the coupon reduction,  causing the $9\%$ debentures to trade at 50. On the face of it,  bondholders have a collective interest in Walking Wounded’s offer being accepted. If the deal succeeds,  their holdings will rise in market value,  while their risk of default will decline
 
 From the standpoint of a single bondholder,  however,  there is a powerful incentive to reject the company’s offer. Suppose Cagey Fund,  which owns $1\%$ of the outstanding face amount of Walking Wounded 10-1/2s were to hold out,  while owners of the remaining $99\%$ exchanged their bonds for the 9s. The improvement in credit quality resulting from $99\%$ acceptance would not be materially less than the improvement resulting from $100\%$ acceptance. Cagey Fund's $10-1/2s$ would be worth considerably more than 50,  however,  by virtue of having a much higher coupon than the 9s. By opting out,  in short,  Cagey Fund would gain more than the bondholders who accepted the offer and thereby raised Walking Wounded’s credit quality.
 

@@ -4,7 +4,7 @@ cssclasses:
   - academia
 aliases: 
 tags:
-  - tag_example
+
   - finance
   - riskanalysis
   - investmentanalysis
@@ -68,28 +68,28 @@ Example: Truck OEM
 
 ## TRUCK OEM: CLEAR CYCLICALITY IN SALES
 
-![](96618e62678edd1651d15d07a4c80985.png)
+ ![500](96618e62678edd1651d15d07a4c80985.png)
 
 - Analysts Carefully Analyze The Cycle Length
 	 - In this case,  the cycle is about 2‐4 years up and 1‐2 years down
 
 ## TRUCK OEM: TRUCKER PROFITABILITY AND TRUCK SALES
 
-![](566cf1525546cbf989db504cfb92d5ea.png)
+ ![500](566cf1525546cbf989db504cfb92d5ea.png)
 
 ## TRUCK OEM: TRUCKER PROFITABILITY DEFINES DEMAND (CONT.)
 
-![](da26bcc2d866cac0eb84878133a4c3a5.png)
+ ![500](da26bcc2d866cac0eb84878133a4c3a5.png)
 
 ## TRUCK OEM: SAME CAN BE SEEN FOR FREIGHT LOADS
 
-![](d36e07edef35725f3bbd73faf2ea3107.png)
+ ![500](d36e07edef35725f3bbd73faf2ea3107.png)
 
 Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight index) is an index that measures the supply and demand for truck load services Class 8 truck = Heavy truck
 
 ## TRUCK OEM SALES AND FLEET AGE
 
-![](7af62e5e74582a204d3db9cdda3df6db.png)
+ ![500](7af62e5e74582a204d3db9cdda3df6db.png)
 
 - Truckers (TL) delay purchasing in bad times and scrap less equipment,  extending the average life of the fleet
 	 - Exacerbates [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]]
@@ -123,7 +123,7 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 
 ## CAPITAL ALLOCATION IN CYCLICAL COMPANIES
 
-![](c14a34809dfc77b78aab66113cc921b9.png)
+ ![500](c14a34809dfc77b78aab66113cc921b9.png)
 
 ## SUPPLY‐SIDE CYCLICALITY: CAPITAL ALLOCATION
 
@@ -142,7 +142,7 @@ Note: TTM = trailing twelve months = last twelve months TLFI (Truck load freight
 
 ## BUILDING MATERIALS
 
-![](2d461c36b4075912b21767d25daf89ec.png)
+ ![500](2d461c36b4075912b21767d25daf89ec.png)
 
 Morningstar Moat Analysis:
 
@@ -157,7 +157,7 @@ Morningstar Moat Analysis:
 
 ## COMMODITY PROCESSORS
 
-![](e17a1b515debc954413bcd4d343e29cc.png)
+ ![500](e17a1b515debc954413bcd4d343e29cc.png)
 
 Morningstar Moat Analysis:
 
@@ -170,7 +170,7 @@ Morningstar Moat Analysis:
 
 ## NATURAL RESOURCE EXTRACTION
 
-![](e55a323b57d2d8dd802c4d9c6ad3b447.png)
+ ![500](e55a323b57d2d8dd802c4d9c6ad3b447.png)
 
 Morningstar Moat Analysis:
 
@@ -203,7 +203,7 @@ Morningstar Moat Analysis:
 	 - Production costs at various Alcoa alumina refineries relative to global cost curve
 	 - Curve shows industry capacity and that several Alcoa refineries have relatively low cash costs
 	 - Cost curve is quite flat: What does this imply?
-![](8d8064172d943822b897a61e18ed8631.png)
+ ![500](8d8064172d943822b897a61e18ed8631.png)
 ## ASSET TURNOVER
 
 - Given thin margins,  efficiency is key
@@ -223,7 +223,7 @@ Morningstar Moat Analysis:
 - Example: Nucor Vs Us Steel
 	 - US Steel relies on traditional blast furnaces
 	 - Nucor uses electric arc furnaces,  which require less investment per unit of installed capacity
-![](4ef82cad856941e63370ba41d96aefb8.png)
+ ![500](4ef82cad856941e63370ba41d96aefb8.png)
 ## OPERATING AND FINANCIAL LEVERAGE
 
 - High fixed costs (or operating leverage) amplify revenue volatility for cyclicals
@@ -234,7 +234,7 @@ Morningstar Moat Analysis:
 - Cyclicals face a dangerous combination of operating and financial leverage
 	 - Financial [[Week 3 Financial Risk Analysis|risk analysis]] is important
 - Example: Airlines
-![](441122e7dedf2d59a78e6b636ead4da5.png)
+ ![500](441122e7dedf2d59a78e6b636ead4da5.png)
 Forecasting for and Valuations of Cyclical Companies
 
 ## WHAT ARE KEY CHALLENGES?
@@ -251,7 +251,7 @@ Forecasting for and Valuations of Cyclical Companies
 
 ## EXAMPLE: EXXON IN MARCH 2009 (CONT.)
 
-![](780c191500cc86f7c5a2c9ec567275b3.png)
+ ![500](780c191500cc86f7c5a2c9ec567275b3.png)
 
 ## EXAMPLE: EXXON IN MARCH 2009 (CONT.)
 - Normalize oil price: Choose midpoint of the cycle and express [[Operating Income vs. Net Income What's the Difference|Operating Income]] as a function of normalized oil price
@@ -272,7 +272,7 @@ Forecasting for and Valuations of Cyclical Companies
 
 ## VOLATILITY OF DCF VALUE AND FCF
 
-![](69f7f88883f3ab38857ac0e166ef9a57.png)
+ ![500](69f7f88883f3ab38857ac0e166ef9a57.png)
 
 - For a [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] company,  a time series of DCF values should exhibit lower volatility than earnings and cash flows: Why?
 
@@ -282,7 +282,7 @@ Forecasting for and Valuations of Cyclical Companies
 - Still,  share prices of [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] companies tend to be more volatile than what DCF would predict
 	 - Potential reason: Analysts and investors do not fully adjust for the cycle
 Source: Koller et al.
-![](1b5a01d4874a0a7f9eabb9ad0ecd48a8.png)
+ ![500](1b5a01d4874a0a7f9eabb9ad0ecd48a8.png)
 ## CYCLICAL VALUATIONS (CONT.)
 
 - Possible Explanation: Anchoring On Current Earnings
@@ -292,10 +292,10 @@ Source: Koller et al.
 		  - Recall: Pre‐recording on Fundamentals of Forecasting
 - Analysts do not seem to predict the cycle
 - Consensus forecasts project out the current level plus some growth
-![](87881a5b2d3160dd41797269b4384d9b.png)
+ ![500](87881a5b2d3160dd41797269b4384d9b.png)
 ## IT IS DIFFICULT TO PREDICT CYCLES,  ESPECIALLY INFLECTION POINTS
 
-![](a1ba59e6e41bd994efcd31c1de86b57d.png)
+ ![500](a1ba59e6e41bd994efcd31c1de86b57d.png)
 
 ## POTENTIAL SOLUTIONS
 
@@ -325,16 +325,16 @@ Source: Koller et al.
 	 - Develop economic rationale for each of the two scenarios
 	 - Assign probabilities to the scenarios using the economic rationale
 	 - Combine by computing the expected value
-![](51ef0a9148e525b2857af7c2bb7d194d.png)
+ ![500](51ef0a9148e525b2857af7c2bb7d194d.png)
 ## SCENARIO ANALYSIS: MORGAN STANLEY FOR SHERWIN WILLIAMS
 
-![](f4bfee1ca8fdb18cc61cf5ff2e9b2f9b.png)
+ ![500](f4bfee1ca8fdb18cc61cf5ff2e9b2f9b.png)
 
 Accounting Analysis and Shenanigans
 
 ## REVENUE GROWTH (AND NON‐GAAP METRICS)
 
-![](dd319d028a9e40eadf487902a31a8581.png)
+ ![500](dd319d028a9e40eadf487902a31a8581.png)
 
 Westlake Case
 
@@ -373,7 +373,7 @@ Westlake Case
 		  - Would simply replacing existing manufacturing capabilities be enough?
 - "Maintenance" investment is not just required for fixed assets
 	 - Think about keeping existing clients in a subscription business
-![](1e7b69b8b182b72af3832bf3256e4173.png)
+ ![500](1e7b69b8b182b72af3832bf3256e4173.png)
 ## SELECTING THE LENGTH OF THE FORECAST HORIZON
 
 - What have you used in the past? Or what do you see in analyst reports?
@@ -394,7 +394,7 @@ Westlake Case
 
 ## RECALL: THREE‐STAGE MODEL
 
-![](53575b99306e4d150a153b7165e265ab.png)
+ ![500](53575b99306e4d150a153b7165e265ab.png)
 
 - Use varying levels of detail
 	 - Line‐items,  then key drivers and fading,  then TV perpetuity
@@ -404,7 +404,7 @@ Westlake Case
 
 ## ZOOM (CREDIT SUISSE,  INITIATION REPORT)
 
-![](888caf60938444cc91fbeae6741cd4ec.png)
+ ![500](888caf60938444cc91fbeae6741cd4ec.png)
 
 Note in this model,  the analyst does not normalize for growth in 2035E:
 
@@ -426,7 +426,7 @@ FCFT+1 = 3,  616,  092 = FCFT * (1+g) = 3,  477,  012 * 1.04
 
 ## ILLUSTRATING VALUE DRIVER FORMULA FOR TV (OR CV)
 
-![](493cf2eabf72c0f0cbd5cb756b7feae2.png)
+ ![500](493cf2eabf72c0f0cbd5cb756b7feae2.png)
 
 Note: In this case there is no spread beyond year 6. You could ignore growth altogether (and CV = NOPAT/WACC).
 
@@ -435,7 +435,7 @@ Note: In this case there is no spread beyond year 6. You could ignore growth alt
 
 ## INTUITION FOR VALUE DRIVER FORMULA FOR TV
 
-![](0db413cc85a45d6c4a10a6761426a226.png)
+ ![500](0db413cc85a45d6c4a10a6761426a226.png)
 
 - We can show: g/RONIC = (re)investment rate (IR) in steady state (see Appendix)
 - Intuitively: The larger g and the smaller the RONIC,  the larger the fraction of NOPAT that needs to be reinvested
@@ -462,4 +462,4 @@ Note: In this case there is no spread beyond year 6. You could ignore growth alt
 	- Current re‐investment of $1MM (year 0)
 			-So re‐investment rate = 10% (of NOPAT) ‒ 10% cost of capital
 - Do you think the reinvestment rate is reasonable?
-![](3be43f04b0a1de365be1048df48bf313.png)
+ ![500](3be43f04b0a1de365be1048df48bf313.png)

@@ -1,15 +1,12 @@
 ---
 aliases:
-- Example_Alias_The Economist Time Is Cheap
-- Alias_72_The Economist Time Is Cheap.md
+- The Economist Time Is Cheap
+- The Economist Time Is Cheap.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: The Economist Time Is Cheap
 ---
-
-
-
 # The Economist Time Is Cheap
 
 ## Time Is Cheap

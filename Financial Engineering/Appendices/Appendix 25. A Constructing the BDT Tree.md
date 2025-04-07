@@ -23,17 +23,17 @@ $$\begin{aligned}\text{S 0.9091}&\times[0.5\times\$0.8832\times (0.5\times\$0.83
 ###### FIGURE 25.12
 The 1-year zero coupon bond prices at each node of the BDT tree.
 
-![](https://storage.simpletex.cn/view/f1eZBGyS3yANWH9xGS4yHKl8ecGClmDbs)
+ ![500](https://storage.simpletex.cn/view/f1eZBGyS3yANWH9xGS4yHKl8ecGClmDbs)
 
 ###### FIGURE 25.13
 Tree illustrating the evolution of the 2-year zero-coupon bond,  based upon the prices in Figure 25.12.
 
-![](https://storage.simpletex.cn/view/fHlSF90LE993ACccSrKFMwSgfG5ggnUpu)
+ ![500](https://storage.simpletex.cn/view/fHlSF90LE993ACccSrKFMwSgfG5ggnUpu)
 
 ###### FIGURE 25.14
 Tree illustrating the evolution of the 3-year zero-coupon bond,  based upon the prices in Figure 25.12.
 
-![](https://storage.simpletex.cn/view/fx0KG0Gzg1GuKgyzIflOozMEYPiQzyybp)
+ ![500](https://storage.simpletex.cn/view/fx0KG0Gzg1GuKgyzIflOozMEYPiQzyybp)
 
 Figure 25.14 is the tree showing the evolution of the 3-year bond. Problem 25.8 asks you to verify that the tree in Figure 25.5 generates the correct 4-year zero-coupon bond price.
 

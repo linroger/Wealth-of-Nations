@@ -1,15 +1,13 @@
 ---
 aliases:
-- Alias_141_Financial Instruments Practice Midterm Solutions.md
+- 
 - FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-- Alias_140_Financial Instruments Practice Midterm Solutions.md
+- 
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 tags:
-- tag_example
+- 
 title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 ---
-
-
 # FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 [Financial Instruments Midterm Solutions 2013](Financial%20Instruments%20Midterm%20Solutions%202013.md)
 ## PROBLEM 1. (20 POINTS)

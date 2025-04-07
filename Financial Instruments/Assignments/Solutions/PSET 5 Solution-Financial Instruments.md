@@ -1,16 +1,13 @@
 ---
 aliases:
 - PSET 5 Financial Instruments
-- Alias_157_PSET 5 Solution-Financial Instruments.md
-- Alias_158_PSET 5 Solution-Financial Instruments.md
+- 
+- 
 linter-yaml-title-alias: PSET 5 Financial Instruments
 tags:
-- tag_example
+- 
 title: PSET 5 Financial Instruments
 ---
-
-
-
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments
 
@@ -22,11 +19,11 @@ Solution to Homework 5
 $$\triangle_{i,                        j}=\frac{c_{i+1,                        j}-c_{i+1,                        j+1}}{S_{i+1,                        j}-S_{i+1,                        j+1}}$$
 $$B_{i,                        j}=\frac{1}{1+r}\cdot(c_{i+1,                        j}-\triangle_{i,                        j}\cdot S_{i+1,                        j})=\frac{1}{1+r}\cdot(c_{ i+1j+1}-\triangle_{i,                        j}\cdot S_{i+1,                        j+1})$$ …e member that by taking the positions (1) …d (2) the institution replicates a long call,  which exactly offsets the short position in the call.
 (a）We can sta rt by r epresent ing the tr ee for the st ock price,  that is shown in Fig ure (1).
-![](https://storage.simpletex.cn/view/fyyg666isOQVVhplkPU976LrXANnionPx)
+ ![500](https://storage.simpletex.cn/view/fyyg666isOQVVhplkPU976LrXANnionPx)
 Figure 1: Stock price tree
 Given the tree in Figure (1) we can compute option payoff at period $i=2$，a 8 represented in Figure (2)
 
-![](https://storage.simpletex.cn/view/ff1S4VLcHlx0cOyDGCalKPhKElGbmD8Ge)
+ ![500](https://storage.simpletex.cn/view/ff1S4VLcHlx0cOyDGCalKPhKElGbmD8Ge)
 
 ```latex
 \usetikzlibrary{arrows.meta,                        positioning}
@@ -60,7 +57,7 @@ $$\triangle_{u}=\frac{c_{u\cdot u}-c_{u\cdot d}}{S_{u\cdot u}-S_{u\cdot d}}=1.00
 $$B_{u}=\frac{1}{1+r}\cdot(c_{u\cdot u}-\triangle_{u}\cdot S_{u\cdot u})=\frac{1}{1+0.05}\cdot(21-1\cdot121)=-95.2381$$
 In the same way for node "down",  at period $i=1$ we find $\triangle_{d}=0.0000$ and $B_{d}=0.00000$. Given this we can compute the value of the replicating portfolio at period $i=1$. We find $V_{u}^{RP}= \triangle_{u}\cdot S_{u}+B_{u}=14.7619$ and $V_{d}^{RP}=\triangle_{d}\cdotp S_{d}+B_{d}=0$ Since the portfolio mirrors the period $i=2$ payoffs of the option,  then the value of the option,  then the period $i=1$ value of the option will be equal to the period $i=1$ value of the replicating portfolio. Therefore we can plug $V_{u}$ and $V_{d}$ in Figure (2). We can then work backward again and compute the position in stock and bond at period $i=0$. We find $\Delta_{0}=0.7732$ and $B_{0}=-66.9474$ whichleads to a value of the replicating portfolio (and of the option) equal to $V_{0}^{RP}=c_{0}=\triangle_{0}\cdot S_{0}+B_{0}=10.3768$
 A summary of all the relevant quantities are reported in Figure (3).
-![](https://storage.simpletex.cn /view/fXze 865 NHkKZt 4 F 7 bxFqY 3 TnsnMghqRMV)
+ ![500](https://storage.simpletex.cn /view/fXze 865 NHkKZt 4 F 7 bxFqY 3 TnsnMghqRMV)
 Figure 3: Summary tree
 
 - b）Table (1) reports the period $i=0$ value of the replicating portfolio $V_{0}^{R}$ for different values of $S_{0}$
@@ -83,7 +80,7 @@ Risk-free Rate & $\uparrow$                    & $\downarrow$                 \\
 Table 1: Value of the replicating portfolio as a function of $S_{0}V^{RP}\left(S_{0}\right)$
 
 1. The change in value of the portfolio is constant for values of $S_{0}$ below 100 and again constant but at a higher value for values of $S_{0}$ above 100. As a result the relationship between the option price and the current stock prices is convex. Figure (4) reports this result.
-![](https://storage.simpletex.cn/view/faHg9EDG1S5Anhb6rrN3i5rv3UPIxegq2)
+ ![500](https://storage.simpletex.cn/view/faHg9EDG1S5Anhb6rrN3i5rv3UPIxegq2)
 Figure 4: Relationship between portfolio value and stock price
 1. The relationship is convex. The "second derivative" is positive..
 (c) The portfolio is “self-financing". To check this consider the following. At period $i=0$,  the replicating portfolio requires buying 0.7732 stocks and to short-selling 66.9474 units of zero couponbonds paying 1 dollar at period $i=2$ (which is the same as borrowing 66.9484 dollars). At the “"up-node (1,  1) the value of such position is
@@ -99,7 +96,7 @@ $$\triangle_0\cdot S_d+B_0\cdot(1+r)=V_d^{RP}=\triangle_d\cdot S_{1,            
 $$\begin{array}{rcl}S_0\cdot u&=&CG+D\\\\&=&S_0\cdot u\cdot(1-y)+S_ 0\cdot u\cdot y\end{array}$$
 Therefore,  in case of an up-movement,  the period $i=1$ stock price $S_{u}$ (after dividend) w ill be equal to $S_{u}=S_{0}\cdot u\cdot(1-y)=100\cdot1.1\cdot(0.05)=104.5000$ In the same way,  in case of a down-movement,  nth period $i=1$ stock price (again after dividend) will be $$S_{d}=\:S_{0}\cdot d\cdot(1-y)=\:100\cdot\frac{1}{1.1}\cdot(1-0.05)=\:86.3636$$
 What happens next? The stock price will still have gross return of either $u$ OI d. Figure (5) shows the new tree for thestock price.
-![](htps:/ /storage. Simpletex. Cn/view /fad 2 pg 019 l 9 rLKAmwRXDU 51 YeY Ab 5 K 3 cZ)
+ ![500](htps:/ /storage. Simpletex. Cn/view /fad 2 pg 019 l 9 rLKAmwRXDU 51 YeY Ab 5 K 3 cZ)
 Figure 5: Stock price tree in case of a $5\%$ dividend yield paid at $i=1$
 Note that at period $i=2$ the tree is r ecombining,  that is $S_{u\  cdot d}=S_{d\cdot u}=95$ Given the stock price tree shown in Figure (5),  we can compute the option payoffs at period $i=2$. We get
 $$\begin{array}{rcl}c_{u\cdot u}&=&14.9500\\\\c_{u\cdot d}=c_{d\cdot u}&=&0\\\\c_{d\cdot d}&=&0\end{array}$$
@@ -118,10 +115,10 @@ $$\triangle_0^{'}=\frac{V_u^{RP}-V_d^{RP}}{S_u^{old}-S_d^{old}}=\frac{10.5091}{1
 $$B_0'=\frac{1}{1+0.05}\cdot(10.5091-0.5505\cdot110)=-47.6602$$
 The value of the option will therefore be $c_{0}^{'}=V_{0}^{RP}=\triangle{0}^{'}\cdot S_{0}+B_{0}^{'} =0.5505$ 100-47.6602=7.3873
 Figure (6) shows a summary of all relevant quantities in case of a $5\%$ dividend
-![](https://storage.simpl etex. Cn/view/fPf 8 Gga 1 cOes 7 99 bkFFgiq 8 HscnEGe 7 V)
+ ![500](https://storage.simpl etex. Cn/view/fPf 8 Gga 1 cOes 7 99 bkFFgiq 8 HscnEGe 7 V)
 Figure 6: Summary tree in case of $5\%$ dividend yield paid at $i=1$
 (f）To compute the option price in case of a fixed dollar dividend,  we can apply the same logic as in point (1. E). The only difference tho ugh is that the tree does not recombine at period $i=2$. Figure (7) presents a ummary tree,  which shows that the option value in this case is $c_{0}=7.6591$
-![](https://storage.simpletex.cn/view/faqCthGF2N720UTAANTWtwkIkF3fchDpM)
+ ![500](https://storage.simpletex.cn/view/faqCthGF2N720UTAANTWtwkIkF3fchDpM)
 Figure 7: Summary tree in case of a 5 dollars constant dividend paid at $i=1$
 ------------------------------------------------------------------
 ### Part 2 - Black and Scholes (and Merton) Formula
@@ -135,7 +132,7 @@ And
 $$d_2=d_1-\sigma\cdot T\sqrt{-}$$
 applying formulas (4) and (5) we get $c^{BS}=4.7594$ and $p^{BS}=0.8086$
 (2) Figure (8) shows the results. The relationship between options premium and stock price is convex.
-![](https://storage.simpletex.cn/view/fV5qNLxfifFcxyP32nR7DGx6YGBfqBNUi)
+ ![500](https://storage.simpletex.cn/view/fV5qNLxfifFcxyP32nR7DGx6YGBfqBNUi)
 Figure 8: Black and Scholes options prices for different stock prices
 (3) The results are shown in the following Table 2.
 
@@ -161,11 +158,11 @@ Figure 9: Black and Scholes options prices for different strike prices
 
 ------------ ------------------------------------------------------
 
-![](https://storage.simpletex.cn/view/fT6GKr24xqxbcvk57LNsVukNeMVnSGvfb)
+ ![500](https://storage.simpletex.cn/view/fT6GKr24xqxbcvk57LNsVukNeMVnSGvfb)
 Figure 10: Black and Scholes options prices for different return volatilities
 [[Attachments/PSET 5 Solution-1.png|Financial Instruments/Assignments/Solutions/PSET 5 Solution (attachments)/PSET 5 Solution-1.png]]
 Figure 11: Black and Scholes options prices for different maturities
-![](https://storage.simpletex.cn/view/ftxNzEvVKl2ual7eAEyUeSq79A7VItZQN)
+ ![500](https://storage.simpletex.cn/view/ftxNzEvVKl2ual7eAEyUeSq79A7VItZQN)
 Figure 12: Black and Scholes options prices for different interest rates
 
 - (4). In order to hedge a short position in a put,  we need to set up a portfolio that mirrors the value of a long puT. We can do that via delta hedging. Since we know that the delta for a long put is $-N\left(-d_{1}\right)=-0.2887$,  in our case we have to short 0.2887 stocks. In addition since when we wrote the put we have received the premium equal to 1.1579 the replicating portfolio requires to invest $B_{0}=p-\triangle_{0}\cdot S_{0}=1.1579+0.2887\cdot42=$ 13.2841 in zero coupon bonds. As a double check,  the value of the replicating portfolic is

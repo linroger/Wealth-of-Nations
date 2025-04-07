@@ -28,9 +28,9 @@ $$y_t(n+1)-y_t(1)\:=\:E_t\left[\frac{1}{n+1}\sum\limits_{i=0}^ny_{t+i}(1)\right]
 - Does this relation holds in the data?
 - Heuristically, next figure plots the expected future three-month rates from the Survey of Professional Forecasters from 1981 to 2015.
 - The forecasts are for the three-month T-bill rate for the current quarter, denote in the figure by $r(t)$ , and for the next three quarters, denoted by $r(t+3m)$ $r(t+6m)$ , and $r(t+9m)$ , respectively.
-![](https://storage.simpletex.cn/view/fgx5Hn5nWPvtwr3lh0qL5wdVGWt0Cmx3c)
+ ![500](https://storage.simpletex.cn/view/fgx5Hn5nWPvtwr3lh0qL5wdVGWt0Cmx3c)
  - Next figure shows the 1-year term spread, defined as $y_t(1y)-r(t)$ together with the 1-year "expectation spread".
-![](https://storage.simpletex.cn/view/fkvnDeNEaUry3cHhon4BOiKtlkg4Dwu4l)
+ ![500](https://storage.simpletex.cn/view/fkvnDeNEaUry3cHhon4BOiKtlkg4Dwu4l)
 - The 1-year term spread is greater than the "expectation spread" most of the time. $-\Longrightarrow$ the expectation hypothesis does not hold (at least, using survey forecasts).
 ## The Expectation Hypothesis and Forward Rates
 - We saw in Teaching Notes 1 that a forward rate at $t$ for an investment between $\tau_{1}$ and $\tau_{2}$ can be written as
@@ -44,7 +44,7 @@ $$\sum\limits_{i=2}^nf_t(\tau_{i-1},\tau_i)=\frac{1}{\Delta t}\left(y_t(\tau_n)\
 $$y_t(\tau_n)=\frac{\Delta t}{\tau_n}\sum\limits_{i=1}^nf_t(\tau_{i-1},\tau_i)=\text{Average forward rate}$$
 - The expectation hypothesis then implies that for every $i$ the forward rate is equal to the expected future short-term rate:2
 $$f_t(\tau_i,\tau_i+\Delta t)=E_t[y_{t+\tau_i}(\Delta t)]\:.$$
-![](https://storage.simpletex.cn/view/fhFQITh8oGy5GrnI7qBnR0gmm4N0nb9Gk)
+ ![500](https://storage.simpletex.cn/view/fhFQITh8oGy5GrnI7qBnR0gmm4N0nb9Gk)
 - Again, expected future rates are mostly lower than forward rates.
 ### Time Varying Risk Premia
 - The violation of the [[Lecture 7-Risk and Return of Bonds#7.4 Expectations hypothesis|expectations hypothesis]] (and the time variation in spread) suggests the existence of an additional term in Equation (1):
@@ -80,12 +80,12 @@ $$\begin{aligned}
 $$y_t\left(n+1\right)\:=\:\frac{1}{n+1}\times y_t\left(1\right)+\frac{n}{n+1}\times E_t\left[y_{t+1}\left(\right.\right]$$
 - Subtract $y_{t}\left(n+1\right)\times\left(n\right)/\left(n+1\right)$ on both sides, to get
 $$E_t\left[y_{t+1}\left(n\right)\right]-y_t\left(n+1\right)\:=\quad\frac{1}{n}[y_t\left(n+1\right)-y_t$$
-![](https://storage.simpletex.cn/view/fsuOQuTk7VbQ72z9qcAyWof3Cc0he0XK1)
+ ![500](https://storage.simpletex.cn/view/fsuOQuTk7VbQ72z9qcAyWof3Cc0he0XK1)
 - A steep term structure (on the RHS) signals the market expects an increase in the yield $y_{t}\left(n+1\right)$ between $t$ and $t+1$ (on the LHS)
 $$E_t\left[y_{t+1}\left(n\right)\right]>y_t\left(n+1\right)$$
 $-\Longrightarrow$ market expects a low or negative return on $(n+1)$ maturity bond.
 ### Long-Term Yield Increase
-![](https://storage.simpletex.cn/view/fAde6YhyhNm9rAenbl5TAZNrU5fkCwuN7)
+ ![500](https://storage.simpletex.cn/view/fAde6YhyhNm9rAenbl5TAZNrU5fkCwuN7)
 - Example: On $t=1/31/1994$ yield curve was increasing and the spread was $3.3\%$
 - High spread may signal long-term yield $y_t(30)=6.87\%$ may increase.
 - And indeed, it did: $t+1=1/31/1995$ we have $y_{t+1}(29)=7.81\%$
@@ -154,7 +154,7 @@ Notes: Regression results based on Fama Bliss discount bond data from CRSP. Samp
 -β ≠ 1 => Expectations Hypothesis is rejected $-\beta<0\Longrightarrow$ steep yield curve predicts a decrease of long-term yield. * This is the opposite of the basic simple intuition about a raising yield curve.
  - Bottom line: A steep yield curve predicts high returns of long-term bonds.
 ### Long-Term Yield Decrease
-![](https://storage.simpletex.cn/view/fyAdfFwbyqr7G0Q4tZoAzOvgVwx5mFzZW)
+ ![500](https://storage.simpletex.cn/view/fyAdfFwbyqr7G0Q4tZoAzOvgVwx5mFzZW)
 ·Example: On $t=1/30/2004$ yield curve was increasing and the spread was $4.1\%$
  - In the data, high spread forecast a decline of long-term yield $y_{t}(30)=5.347\%$ - And indeed, it did: $t+1=1/31/2005$ wehave $y_{t+1}(29)=4.655\%$ This implies a gain on investment:
 $$R_{t,t+1}=\frac{Z_{t+1}(29)}{Z_t(30)}-1=\frac{25.9279}{20.1046}-1=+29\%$$
@@ -423,11 +423,11 @@ $$P_{c}^{TIPS}(t; T)=\frac{Idx (t)}{Idx (0)}\times\left[\frac{c\times 100}{2}\su
 $$r_{real}(0, T)=\theta_0+(\theta_1+\theta_2)\:\frac{1-e^{-\frac{T}{\kappa_1}}}{\frac{T}{\kappa_1}}-\theta_2 e^{-\frac{T}{\kappa_1}}+\theta_3\left (\frac{1-e^{-\frac{T}{\kappa_1}}}{\frac{T}{\kappa_2}}-e^{-\frac{T}{\kappa_2}}\right)$$
 - - From the previous table, for instance, we obtain the following results
 ## Real and Nominal Rates on November 26, 2007
-![](https://storage.simpletex.cn/view/fypETZuLDxNx3tG2uWMLcQh5EQLcuVBVB)
+ ![500](https://storage.simpletex.cn/view/fypETZuLDxNx3tG2uWMLcQh5EQLcuVBVB)
 Data Source: Bloomberg.
 - Next figure shows that the term structure of real rates changes over time.
 Real Rates during and after the crisis
-![](https://storage.simpletex.cn/view/fIwc9ZuxNM3tOaDfk18pnx6f0O84atMQn)
+ ![500](https://storage.simpletex.cn/view/fIwc9ZuxNM3tOaDfk18pnx6f0O84atMQn)
 Data are from Gurkaynak, Sack, and Wright (2010), updated series
 - Negative real rates are not uncommon.
 - We give back our "friend" a smaller sandwich because its price skyrocketed.
@@ -527,11 +527,11 @@ $\rho_{g,π}$ = Correlation (Inflation, real GDP growth)
 - All of these variation are bound to impact the risk premium.
 Quarterly Real GDP Growth and CPI Infation
 Quarterly Real GDP Growth and CPI Infation
-![](https://storage.simpletex.cn/view/f0kGTgyHyanM9iG7SiH1wg6OI7UZc9XXz)
+ ![500](https://storage.simpletex.cn/view/f0kGTgyHyanM9iG7SiH1wg6OI7UZc9XXz)
 Data Source: Federal Reserve of St. Louis
 # Correlation and Real GDP growth and CPI inflation Volatilities.
 Backward-looking 10-year Rolling Window.
-![](https://storage.simpletex.cn/view/fXdONCuSPPte99MwRrgVnQtvl5HGAiCG2)
+ ![500](https://storage.simpletex.cn/view/fXdONCuSPPte99MwRrgVnQtvl5HGAiCG2)
 Data Source: Federal Reserve of St. Louis
 ### Expected Excess Return: The Market Model
  - Another way to understand the risk premium of nominal bonds is to look at its variation with the stock market
@@ -542,12 +542,12 @@ $E$ [Excess Return Nominal Bond] $=\beta\times E$ [Excess Return Market]
 - David and Veronesi (2013, JPE): Time varying role of inflation signals
 * Late 1970 s/ early 1980 s: Fear of stagflation (high inflation and low growth) $\Longrightarrow$ high inflation shocks are bad news for the economy $\Longrightarrow$ both nominal bonds and stock drop * Mid 2000 s: Fear of deflation (low inflation and low growth) $\Longrightarrow$ high inflation shocks are good news for the economy $\Longrightarrow$ nominal bonds drop but stock rise
 ## The Covariance between Stocks and Bonds, and the CAPM Bond Beta
-![](https://storage.simpletex.cn/view/fXF21GBGCFhZgG6ta1Ye1QlIoMBADDDK6)
+ ![500](https://storage.simpletex.cn/view/fXF21GBGCFhZgG6ta1Ye1QlIoMBADDDK6)
 Source: David and Veronesi (2016）“The Economics of the Comovement of Stocks and Bonds"in the Handbook of Fixed Income, Pietro
 Veronesi (Editor), Wiley and Sons
 # Nominal and Real Stock Betas
 Figure 1: Rolling Nominal and Real Bond-Stock Betas
-![](https://storage.simpletex.cn/view/fsg4aE2VoyHIm8LizoDLNB5cn0Xq3GHuo)
+ ![500](https://storage.simpletex.cn/view/fsg4aE2VoyHIm8LizoDLNB5cn0Xq3GHuo)
 Source: Caroline Pflueger (2024)“Back to the 1980 s or Not? The Drivers of Inflation and Real Risks in Treasury Bonds"
 ### More General Formulas
  - All previous formulas have “"flat" term structures: $r (0, T)$ and $r_{real}(0, T)$ do not depend on $T$
@@ -625,8 +625,8 @@ $$\begin{matrix}\beta_g^*=0.0166,&\overline{r}_{real}^*=0.1695,&r_{real, 0}=0.00
 - The fit is not as good as with the Extended Nelson-Siegel model in this case.
 - Next figure shows the fitted term structure of real rates.
 ## Vasicek Fit to TIPS on November 27, 2007
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf2f42bc584a2f12512a8f235f71f4a02ee61b1befec2493a1bdac7ef675b6df.jpg)  
-![](/images/fvwgapa19DUglDdLX4l31ZG98Pg0oZEke.png)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf2f42bc584a2f12512a8f235f71f4a02ee61b1befec2493a1bdac7ef675b6df.jpg)  
+ ![500](/images/fvwgapa19DUglDdLX4l31ZG98Pg0oZEke.png)
 Data Source: Bloomberg
 ## Conclusions
 - The term structure of interest rate depend on:

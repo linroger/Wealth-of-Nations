@@ -2,12 +2,12 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_368_Understanding the Yield Curve- Part 2.md
-  - Alias_365_Understanding the Yield Curve- Part 2.md
+  - 
+  - 
   - Market's Rate Expectations and Forward rates
 linter-yaml-title-alias: Market's Rate Expectations and Forward rates
 tags:
-  - tag_example
+
   - "#quantitative-finance"
   - "#finance"
   - "#economic-theory"
@@ -17,22 +17,21 @@ tags:
 title: Understanding the Yield CurvePart 2
 ---
 
-# Understanding the Yield CurvePart 2
+# Understanding the Yield Curve-Part 2
 
 MARKET 'S RATE EXPECTATIONS AND FORWARD RATES UNDERSTANDING THE YIELD CURVE: PART 2
 
 ## TABLE OF CONTENTS
 
 Introduction Algebraic Relations Between Spot and Forward Rates
-
 - Computation of Forward Rates
-¢ Forwards as Break-Even Rates e Break-Even Yield Changes for Curve-Flattening Positions The Expectations Hypothesis and the Yield Curve
-¢ How Do Rate Expectations Influence Today's Yield Curve Shape?
-¢ Expectations versus Risk Premia
+ - Forwards as Break-Even Rates e Break-Even Yield Changes for Curve-Flattening Positions The Expectations Hypothesis and the Yield Curve
+ - How Do Rate Expectations Influence Today's Yield Curve Shape?
+ - Expectations versus Risk Premia
 - Alternative Versions of the Expectations Hypothesis and the Convexity Bias Empirical Evidence About Rate Expectations and Forward Rates
-¢ Forwards' Ability to Forecast Future Rate Changes and Risk Premia
+ - Forwards' Ability to Forecast Future Rate Changes and Risk Premia
 - Survey Evidence
-¢ Investment Implications of the Empirical Findings
+ - Investment Implications of the Empirical Findings
 —
 Appendix. Relations Between Forward Rates,  Expected Rate Changes and Expected Returns Literature Guide
 —
@@ -41,7 +40,7 @@ Appendix. Relations Between Forward Rates,  Expected Rate Changes and Expected R
 Spot Curve and Implied Spot Curve One Year Forward
 
 1. Forward and Survey-Expected Yield Curve Steepening Six Months Ahead
-1. Link Between Zeros' Rolling Yields and Break-Even Spot Rate Changes
+2. Link Between Zeros' Rolling Yields and Break-Even Spot Rate Changes
 
 Our recent report Overview of Forward Rate Analysis introduced a series on the theme Understanding the Yield Curve. It argued that three main forces determine the term structure of forward rates: the market's rate expectations; required bond risk premia; and the convexity bias. Separate reports discuss each of these forces. This report focuses on the impact of the market's rate expectations on the yield curve shape.
 
@@ -99,7 +98,7 @@ Recall that the holding-period return is a sum of a bond's initial yield and its
 
 (Moreover,  this same return must be the return of the one-year zero because it is already known today.) This break-even relation follows from Equation (3) by setting m = I and rearranging:
 
-The left-hand side of Equation (4) is the return of buying an n-year zero at rate s,  today and selling it a year later at rate f,  ,     ,  . The right-hand side is the riskless return of the one-year zero. Thus,  fj},  is the selling rate at which the n-year zero's holding-period return equals the return of the riskless asset. A numerical example illustrates the computation of the break-even rate f,  ». The numbers are from Figure |: a 6% one-year spot rate and a 7% two-year spot rate. Over the next year,  the return of a one-year zero is known to be 6%,  while the holding-period return of a two-year zero depends on its selling price at the end of the year - when its remaining maturity is one year. So,  the question is: "What should the one-year spot rate be one year hence to make the longer zero's holding-period return 6%?" A little math shows that the answer is 8.01%.
+The left-hand side of Equation (4) is the return of buying an n-year zero at rate s,  today and selling it a year later at rate f,     ,  . The right-hand side is the riskless return of the one-year zero. Thus,  fj},  is the selling rate at which the n-year zero's holding-period return equals the return of the riskless asset. A numerical example illustrates the computation of the break-even rate f,  ». The numbers are from Figure |: a 6% one-year spot rate and a 7% two-year spot rate. Over the next year,  the return of a one-year zero is known to be 6%,  while the holding-period return of a two-year zero depends on its selling price at the end of the year - when its remaining maturity is one year. So,  the question is: "What should the one-year spot rate be one year hence to make the longer zero's holding-period return 6%?" A little math shows that the answer is 8.01%.
 
 At this selling rate,  the longer zero's price would rise from 87.34 [=
 
@@ -173,15 +172,15 @@ Figure 5 illustrates how different types of expectations influence today's spot 
 
 A break-even type of argument can motivate each situation:
 
-¢ If the market expects no rate changes,  today's spot curve is flat because no expected gains or losses need to be offset by an initial yield spread.
+ - If the market expects no rate changes,  today's spot curve is flat because no expected gains or losses need to be offset by an initial yield spread.
 
-¢ If the market expects rates to rise in a parallel fashion,  longer-term bonds are expected to earn greater capital losses than shorter-term bonds.
+ - If the market expects rates to rise in a parallel fashion,  longer-term bonds are expected to earn greater capital losses than shorter-term bonds.
 
 An initial yield advantage must offset these expected losses. Because the expected capital losses are proportional to duration,  the yield advantage is also proportional to duration. Therefore,  today's spot curve 1s linearly upward sloping. In a similar way,  expectations of declining future rates make today's spot curve inverted.
 
 7 This report takes the market's rate expectations as given. except that this footnote briefly discusses the economic determinants of these expectations. An old Wall Street adage - that the central bank determines the level of
 
-¢ If the market expects the curve to flatten in the future,  barbells and other curve-flattening positions are expected to earn capital gains. An initial negative carry must offset these expected capital gains. Therefore,  today's spot curve is concave,  and barbell portfolios have lower yields and rolling yields than duration-matched bullet bonds. In a similar way,  expectations of future curve steepening tend to make today's spot curve convex,  and barbells have higher yields than bullets.
+ - If the market expects the curve to flatten in the future,  barbells and other curve-flattening positions are expected to earn capital gains. An initial negative carry must offset these expected capital gains. Therefore,  today's spot curve is concave,  and barbell portfolios have lower yields and rolling yields than duration-matched bullet bonds. In a similar way,  expectations of future curve steepening tend to make today's spot curve convex,  and barbells have higher yields than bullets.
 
 11% 11%
 
@@ -208,7 +207,7 @@ cq. Expected Parallel Yield Increase ®
 Expectations versus Risk Premia We emphasize that the PEH is nothing more than a hypothesis. Much empirical evidence shows that the extreme assumption of equal expected returns across bonds is false. Thus,  it is unreasonable to assume that an upward-sloping yield curve reflects only expectations of rising rates. It is at least as reasonable to assume that such a shape reflects only the premium that investors require for holding long-term bonds. (We ignore the convexity bias until the next subsection.) In this light,  the numbers in Figure 1 (s; = 6%,  Ss) = 7%,  f) = 8.01%) can be interpreted in two ways.
 
 - According to the PEH,  the oneand two-year zeros have the same expected return over the next year. The return of the shorter zero is known to be 6%. The one-year return of the longer zero will be 6% only if its yield rises to 8.01% (thereby causing capital losses that offset its initial yield advantage). Thus,  f| reflects the expected level of the one-year spot rate one year hence.
-¢ According to the risk premium hypothesis,  f;.. reflects only the longer zero's one-year expected return and no expected rate changes. Recall that one-year forward rates measure the zeros' one-year expected returns given no change in the yield curve. If the spot curve is unchanged in a year,  the longer zero earns the initial 7% yield plus a 1.01% rolldown return when its yield declines to 6%.
+ - According to the risk premium hypothesis,  f;.. reflects only the longer zero's one-year expected return and no expected rate changes. Recall that one-year forward rates measure the zeros' one-year expected returns given no change in the yield curve. If the spot curve is unchanged in a year,  the longer zero earns the initial 7% yield plus a 1.01% rolldown return when its yield declines to 6%.
 In both cases,  the longer zero will earn the same return over a two-year period (14.49%); this return is known from its 7% annual yield today.
 However,  in the first case the zero is expected to earn 6% in year one and
 1.01% in year two,  while in the second case,  it is expected to earn 8.01%
@@ -218,7 +217,7 @@ Let us put this example in a broader context. We show in the Appendix
 $\rm f_{1,      n}$ - $\rm S_{n}\approx E(\Delta s_{n})$ + BRP${}_{n}$/(n-1)
 Equation (7) helps in contrasting different assumptions about the yield curve behavior. For better understanding,  one can think of f|.,  - Sy. loosely as one measure of the yield curve steepness. Thus,  the equation says that the curve steepness reflects market's future rate expectations,  or expected return differentials across bonds,  or some combination. The two cases above make two polar assumptions:
 e The PEH assumes that BRP = 0. Thus,  all government bonds have the same near-term expected return as the riskless asset,  and forwards reflect only the market's expectations of future rate changes.
-¢ The risk premium hypothesis assumes that E(As,  .,  ) = 0. Thus,  forwards reflect only the near-term expected return differentials across bonds.
+ - The risk premium hypothesis assumes that E(As,  .,  ) = 0. Thus,  forwards reflect only the near-term expected return differentials across bonds.
 In reality,  of course,  neither polar assumption is correct; the truth lies somewhere between.' Fortunately,  the interpretation of forward rates as break-even rates is valid whether forward rates reflect the market's expectations of future rates,  risk premia,  or both. We will present some empirical evidence later that indicates that if one of the two polar assumptions has to be chosen,  the risk premium hypothesis is the more realistic one.
 Alternative Versions of the Expectations Hypothesis and the Convexity Bias The bond risk premium is not the only reason that the forward rates are not equal to expected spot rates. Another reason is the so-called convexity bias. The PEH is often identified with two statements: "All bonds have the same near-term expected return" and "forward rates are optimal (unbiased)
 forecasts of future spot rates." It turns out that these two statements are not exactly consistent with each other. That is,  two distinct versions of the PEH exist; the local [[Lecture 7-Risk and Return of Bonds#7.4 Expectations hypothesis|expectations hypothesis]] is associated with the first statement and the unbiased [[Lecture 7-Risk and Return of Bonds#7.4 Expectations hypothesis|expectations hypothesis]] is associated with the second statement. The difference between these hypotheses is related to convexity,  that is,  the nonlinearity in a bond's price-yield curve.
@@ -246,15 +245,15 @@ Pure Expectations Hypothesis
 
 Risk Premium Hypothesis
 
-What Is the Information in Forward Rates? Market's Rate Expectations Required Risk Premia What Future Events Should Forward Rates Forecast? Future Rate Changes Near-Term Return Differentials Across Bonds What Is the Best Forecast of an n-Year Zero's One-Period Forward Rate (f,  ,     ),  One-Period Expected Return? One-Period Riskless Rate that is,  the Zero's Rolling Yield)
+What Is the Information in Forward Rates? Market's Rate Expectations Required Risk Premia What Future Events Should Forward Rates Forecast? Future Rate Changes Near-Term Return Differentials Across Bonds What Is the Best Forecast of an n-Year Zero's One-Period Forward Rate (f,     ),  One-Period Expected Return? One-Period Riskless Rate that is,  the Zero's Rolling Yield)
 
-What ts the Best Forecast of Next Period's Spot Curve? Implied Spot Curve One Year Forward Current Spot Curve CORR(FSP,  ,     As,  ) Positive 0
+What ts the Best Forecast of Next Period's Spot Curve? Implied Spot Curve One Year Forward Current Spot Curve CORR(FSP,     As,  ) Positive 0
 
-CORR(FSP,  ,     Realized BRP.) 0 Positive
+CORR(FSP,     Realized BRP.) 0 Positive
 
 3 Month 6 Month 2 Year 3 Year 4 Year 5 Year CORR(FSP),  ASp-4) 0.12 0.05 -0.05 -0.07 -0.11 -0.08
 
-CORR(FSP,  ,     ,  Realized BRP,  ,     ) 0.37 0.22 0.17 0.17 0.19 0.15
+CORR(FSP,     ,  Realized BRP,     ) 0.37 0.22 0.17 0.17 0.19 0.15
 
 Source: Center of Research for Security Prices at the University of Chicago and Salomon Brothers Inc.
 
@@ -352,7 +351,7 @@ To compute the implied spot curve one year forward,  we set m = I:
 
 $$\sim\frac{\rm n-1}{\rm n-1}.\tag{9}$$
 
-Equation (10) shows the n-year zero-coupon bond's holding period return over the next period (h,  ). The zero earns its initial yield,  s,  ,     plus a_ capital gain which is approximated by the product of the zero's duration at horizon (n-1) and its yield change.
+Equation (10) shows the n-year zero-coupon bond's holding period return over the next period (h,  ). The zero earns its initial yield,  s,     plus a_ capital gain which is approximated by the product of the zero's duration at horizon (n-1) and its yield change.
 
 $\rm h_{n}\approx s_{n}+(n-1)\ ^{*}\ (s_{n}-s_{n-1}^{*})\,      $ (10)
 
@@ -396,7 +395,7 @@ $${\rm FSP}_{\rm n}\equiv{\rm f}_{\rm n-1,      n}\ -\ {\rm s}_{1}\ \approx\ ({\
 
 A comparison of Equations (13) and (16) shows that the forward-spot premium is proportional to the break-even yield change:!> FSP,  =
 
-(n-1) * Af,  .;. Intuitively,  FSP,  measures the rolling yield advantage of the n-year zero over the riskless one-year zero,  while Af,  ,     _,  shows how large change in the n-1 year spot rate is needed to offset such a rolling yield advantage. The ratio of proportionality is n-1 because the product of duration-at-horizon and the break-even yield change gives a capital loss that is as large as the rolling yield advantage. Figure 11 illustrates this relation. The top panel shows a spot curve and the corresponding curve of one-year forward rates (rolling yields) which increase linearly with maturity. If the spot curve remains unchanged over the next year,  the ten-year zero earns its annual yield 10.50% as well as a rolldown return of
+(n-1) * Af,  .;. Intuitively,  FSP,  measures the rolling yield advantage of the n-year zero over the riskless one-year zero,  while Af,     _,  shows how large change in the n-1 year spot rate is needed to offset such a rolling yield advantage. The ratio of proportionality is n-1 because the product of duration-at-horizon and the break-even yield change gives a capital loss that is as large as the rolling yield advantage. Figure 11 illustrates this relation. The top panel shows a spot curve and the corresponding curve of one-year forward rates (rolling yields) which increase linearly with maturity. If the spot curve remains unchanged over the next year,  the ten-year zero earns its annual yield 10.50% as well as a rolldown return of
 
 4.50% (nine years end-of-horizon duration times 50 basis points rolldown yield change). Thus,  its holding-period return is 15% if the spot curve does not change over the next year - as shown by the right-most point on the curve of one-year forward rates. The ten-year zero has a 9% rolling yield advantage over the one-year zero. The lower panel shows the implied spot curve one year forward (together with the same spot curve as in the top panel); that is,  the break-even levels of future spot rates that would offset the longer-term bonds' rolling yield advantage over the one-year zero. The nine-year spot rate needs to increase by 100 basis points to cause a 9%
 

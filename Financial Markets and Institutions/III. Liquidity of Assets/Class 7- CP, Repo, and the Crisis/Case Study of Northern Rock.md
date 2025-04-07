@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_49_Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]].md
-  - Example_Alias_Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]
+  - Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]].md
+  - Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#financial-crises"
   - "#risk-management"
   - "#finance"

@@ -1,15 +1,13 @@
 ---
 aliases:
 - COMMODITY OPTIONS
-- Alias_193_Commodity Options.md
-- Alias_194_Commodity Options.md
+- 
+- 
 linter-yaml-title-alias: COMMODITY OPTIONS
 tags:
-- tag_example
+- 
 title: COMMODITY OPTIONS
 ---
-
-
 # COMMODITY OPTIONS
 ## 1. COMMODITY PRICE HEDGING USING OPTIONS
 

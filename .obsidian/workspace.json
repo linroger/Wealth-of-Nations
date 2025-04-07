@@ -8,73 +8,123 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8d42ac09b386e5f",
+            "id": "907f0640e075ca09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Notes 1.md",
+                "file": "Stochastic GBM Housing Price Model with GARCH.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Teaching Notes 1"
+              "title": "Stochastic GBM Housing Price Model with GARCH"
             }
           },
           {
-            "id": "dbec1ff93367961f",
+            "id": "cd211e27feebb44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 1 Bonds,  Preferred Stock,  and Structured Products.md",
+                "file": "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes 1 Bonds,  Preferred Stock,  and Structured Products"
+              "title": "What’s Coming The Changing Domestic and World Orders Under the Trump Administration"
             }
           },
           {
-            "id": "6c37a1ee38acd818",
+            "id": "34c1ecfe6365b698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
-                "mode": "source",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Economic Principles - Why and How Capitalism Needs To Be Reformed"
+              "title": "How Countries Go Broke-Chapter Four & Chapter Five"
             }
           },
           {
-            "id": "06ebd9a07134ddea",
+            "id": "6e95f92153345b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Globalization/Chapter 1-Introduction to Globalization.md",
+                "file": "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Chapter 1-Introduction to Globalization"
+              "title": "The Effects of Tariffs How the Machine Works"
             }
           },
           {
-            "id": "c8813c10cf6ea478",
+            "id": "73e0ae9f977fc484",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing"
             }
           }
         ],
@@ -97,20 +147,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "a3a9c4dfede5f419",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           },
           {
@@ -119,22 +160,32 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\begin{array",
-                "matchingCase": false,
+                "query": "Direct Finance Without Monitoring ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "c1be147b0333c8c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 335.5
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -231,9 +282,21 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing"
+            }
+          },
+          {
+            "id": "1f89d7bce1e5dbd2",
+            "type": "leaf",
+            "state": {
+              "type": "hierarchical-backlinks",
+              "state": {},
+              "icon": "links-coming-in",
+              "title": "Hierarchical backlinks"
             }
           }
         ],
@@ -245,6 +308,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
       "command-palette:Open command palette": false,
@@ -259,56 +323,59 @@
       "formatto-format:Format Document": false,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false,
-      "hide-folders:Show hidden folders": false
+      "hide-folders:Show hidden folders": false,
+      "ai-tagger:Generate tags!": false,
+      "llm-tagger:LLM Tagger": false
     }
   },
-  "active": "c8813c10cf6ea478",
+  "active": "73e0ae9f977fc484",
   "lastOpenFiles": [
-    "Financial Engineering/Fixed Income Derivatives/The Futures Bond Basis: government bond futures and basis  trading.md",
-    "Financial Engineering/Fixed Income Derivatives/The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve.md",
-    "Financial Engineering/Fixed Income Derivatives/Pricing & Risk Management of Synthetic CDOs.md",
-    "Financial Engineering/Fixed Income Derivatives/Assessing the LIFFE Swapnote.md",
-    "Financial Engineering/Fixed Income Derivatives/A Primer on Probability Theory and Stochastic  Modelling.md",
-    "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
-    "Financial Engineering/Fixed Income Derivatives/Determining the Expression for the Fair Value of the Swap Spread.md",
-    "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md",
-    "Financial Engineering/Fixed Income Derivatives/Relative Value Analysis.md",
-    "Financial Engineering/Fixed Income Derivatives/Forward Volatility Agreement (FVA).md",
-    "Financial Engineering/Fixed Income Derivatives/Uncertain Volatility with Static Hedge.md",
-    "Financial Engineering/Fixed Income Derivatives/Implementing Heath, Jarrow & Merton (HJM) Model.md",
-    "Financial Engineering/Fixed Income Derivatives/Exotic Options.md",
-    "Financial Engineering/Fixed Income Derivatives/Credit Risk Models and the Valuation of Credit  Default Swap Contracts.md",
-    "Financial Engineering/Fixed Income Derivatives/Zero-coupon convertible bonds.md",
-    "Financial Engineering/Fixed Income Derivatives/Equity Linked Note.md",
-    "Financial Engineering/Fixed Income Derivatives/The Determinants of the Swap Spread.md",
-    "Financial Engineering/Fixed Income Derivatives/Fitting the Term Structure of Interest Rates.md",
-    "Financial Engineering/Fixed Income Derivatives/Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors.md",
-    "Financial Engineering/Fixed Income Derivatives/Part III-The Fundamentals of Basis Trading.md",
-    "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
-    "Financial Engineering/Fixed Income Derivatives/An Introduction to Credit Risk Modelling.md",
-    "Financial Engineering/Fixed Income Derivatives/Part II-Basis Trading and the Implied Repo Rate.md",
-    "Financial Engineering/Fixed Income Derivatives/Part I-Basis Trading.md",
-    "Financial Engineering/untitled folder/untitled folder.md",
-    "Financial Engineering/Fixed Income Derivatives/untitled folder.md",
-    "Financial Engineering/Fixed Income Derivatives",
-    "Financial Engineering/untitled folder",
-    "Financial Trading and Markets",
-    "images",
-    "Attachments/big_debt_cycles_0007.jpeg",
-    "Attachments/fEcke9Xu75sLRKeybq6uMWGQUNa2l49oy.png",
-    "Attachments/fyOgtQh7LyMhF7TxPVmog0hGGsO5md5aH.png",
-    "Attachments/fsWDC72eaFpnSBOEEzUpGGGWgqllXiHn4.png",
-    "Attachments/f4GXGEZmNZtUlnNXVMBYxMRQyZiLhU9a4.png",
-    "Attachments/fQRLpnSGw9FLOxVODus9IOFXYfEwpDLcl.png",
-    "Attachments/fLZv3kPGyPvawKklGzfuQLqGpCUmLexoB.png",
-    "Attachments/fy20Cf6Fawiikx6PDf5HRrCWASGC6PPxv.png",
-    "Attachments/fvOtiHYMxeVknFs4cg15XOmBSrPbHq2ce.png",
-    "Attachments/fmI1C6YYaU5d7yIPgciXNI5boCXbilQW1.png",
-    "Course Notes",
-    "/Jupyter Notebook 2025-01-12-14-52-19.ipynb",
-    "Jupyter Notebook 2025-01-12-14-52-19.ipynb",
-    "Fixed Income Asset Pricing/Handbook of Fixed Income Securities",
-    "Navigating Big Debt Crises/Chapters",
-    "Attachments/e/3/f"
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Chapter Two & Chapter Three.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke",
+    "International Finance/Navigating Big Debt Crises/Exchange Rates and the Foreign Exchange Market- An Asset Approach.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
+    "International Finance/Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
+    "International Finance/Navigating Big Debt Crises/Capital Wars from 1600 to the Present..md",
+    "International Finance/Navigating Big Debt Crises/Black Scholes Derivation.md",
+    "International Finance/Navigating Big Debt Crises/Chapters/War Economies.md",
+    "Navigating Big Debt Crises/Archetypal Debt Crisis Lecture Notes.md",
+    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment 1928-1937.md",
+    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment (2007–2011).md",
+    "International Finance/Navigating Big Debt Crises/Chapters/Part 1 The Archetypal Big Debt Cycle.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
+    "International Finance/Navigating Big Debt Crises/Principles Part I.md",
+    "International Finance/Navigating Big Debt Crises/Why and How Capitalism Needs to Be Reformed.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
+    "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
+    "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
+    "Clippings/Asset Swap.md",
+    "Clippings/Swaptions - Guide to Swap Options, With Types and Styles.md",
+    "Clippings/Forward Price.md",
+    "Clippings",
+    "International Finance/Navigating Big Debt Crises/-*coding utf-8 -*import math.md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW LaTeX Files.md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md \u000e.gitFinderDeleted",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled 2.md \u000e.gitFinderDeleted",
+    "Financial Markets and Institutions/Class Note 1.md \u000e.gitFinderDeleted",
+    "Untitled.canvas",
+    "svg-cache/ccaeded309b638a7bdc165b97377e78d.svg",
+    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.svg",
+    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.png",
+    "svg-cache/bbf9b62e480f794332f92788870c7c2e.svg",
+    "svg-cache/bbf9b62e480f794332f92788870c7c2e.png",
+    "svg-cache/ccaeded309b638a7bdc165b97377e78d.png",
+    "svg-cache/f1d10a40db622c7c33c6edb95fe7cf1b.svg",
+    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.svg",
+    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.svg",
+    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.png"
   ]
 }

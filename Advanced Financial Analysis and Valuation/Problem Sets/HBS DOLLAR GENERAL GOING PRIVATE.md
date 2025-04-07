@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_296_HBS DOLLAR GENERAL GOING PRIVATE.md
-  - Alias_299_HBS DOLLAR GENERAL GOING PRIVATE.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#finance"
   - "#leveragedbuyout"
   - "#corporaterestructuring"
@@ -14,9 +14,6 @@ tags:
   - "#mergersandacquisitions"
 title: HBS DOLLAR GENERAL GOING PRIVATE
 ---
-
-
-
 # HBS DOLLAR GENERAL GOING PRIVATE
 ## HARVARD BUSINESS SCHOOL
 
@@ -57,8 +54,6 @@ The traditional DG store had,  on average,  approximately 6, 900 square feet of 
 
 ### MERCHANDISE
     DG offered assorted consumable merchandise in a number of core categories such as health and beauty aids,  packaged food and refrigerated products,  home cleaning supplies,  housewares,  stationery,  seasonal goods,  basic clothing,  and domestics. This focused assortment of merchandise was meant to satisfy customers' everyday household needs. In 2006,  the average customer purchase was $9.31.
-        
-     
 ### PRICES
 
 DG emphasized even-dollar prices on many items. In the typical store,  most products were priced at$10 or less,  approximately 30% at$1 or less.
@@ -94,8 +89,6 @@ Between 2000 and 2005,  the deep-discount channel grew by$12.2 billion,  to$33.2
 
                 The reputation of the deep-discount store channel improved as a consequence of more appealing store layouts,  higher overall product quality,  and the addition of national brands and more consistent merchandising mixes; a greater proportion of middleand high-income consumers began to frequent the channel in search of "treasure hunt" merchandise. According to a Mintel research report,  massive deep-discount store expansion was partially responsible for growing consumer appreciation of the channel,  which enabled large chains to realize economies of scale and produce well-functioning distribution networks
             But the pace of growth witnessed over the past few years in the deep-discount store channel was most likely unsustainable. That growth had been due almost entirely to new store openings,  since same-store sales had remained virtually flat. While the number of possible new outlets for deepdiscount stores declined and existing deep-discount store retailers (either independents or regionally But the pace of growth witnessed over the past few years in the deep-discount store channel was most likely unsustainable. That growth had been due almost entirely to new store openings,  since same-store sales had remained virtually flat. While the number of possible new outlets for deepdiscount stores declined and existing deep-discount store retailers (either independents or regionally strong deep-discount store chains) crowded out newcomers,  the major deep-discount store retail brands were likely to face decline. (The market share of various players in the deep-discount retail segment is shown in Exhibit 3; Exhibit 4 presents forecasts of total U.S. retail sales in deep-discount retail channel stores for the period 2006-2010.)
-    
-            
             ## Leveraged Buyout Transaction
             
 ## LEVERAGED BUYOUT
@@ -298,9 +291,6 @@ At the effective time of the merger,  all restricted stock units (restricted sha
 As of the date of this proxy statement,  none of our executive officers has entered into any As of the date of this proxy statement,  none of our executive officers has entered into any agreement,  arrangement or understanding with KKR,  Parent or Merger Sub or any of their respective affiliates regarding employment with,  or the right to purchase or participate in the equity of,  the surviving corporation. However,  prior to the closing,  some or all of our executive officers may discuss or enter into such arrangements and/or amendments to their existing agreements.
 
 	## Exhibit 10 Dollar General Corporation'S Board Of Directors Exhibit 10 Dollar General Corporation'S Board Of Directors
-
-	
-
 David A. Perdue (57) has served as Dollar General's Chief Executive Officer (since April 2003) and Chairman of the Board (since June 2003). Mr. Perdue previously served as Chairman and Chief Executive Officer of Pillowtex Corporation,  a producer and marketer of home textiles,  from July 2002 through March 27,  2003. Pillowtex filed for [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] in July 2003 after emerging from a previous [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] in May 2002. Mr. Perdue served Reebok International Ltd. from September 1998 to July 2002 as President and Chief Executive Officer of the Reebok Brand (January 2001 to July 2002),  Executive Vice President,  Global Operating Units (October 1999 to January 2001) and Senior Vice President,  Global Supply Chain (September 1998 to October 1999). Prior to Reebok,  Mr. Perdue was Senior Vice President of Haggar,  Inc. (1994 to September 1998). He gained additional international expertise while based in Hong Kong where he served from 1992 to 1994 as Senior Vice President of Asia Operations for Sara Lee Corporation. Earlier in his career,  he spent 12 years in management consulting with Kurt Salmon Associates,  an international management consulting firm. Mr. Perdue serves as a director of Alliant Energy Corporation.
 	David L. Beré (53) has served as Dollar General's President and Chief Operating Officer since David L. Beré (53) has served as Dollar General's President and Chief Operating Officer since December 2006. He served from December 2003 until June 2005 as Corporate Vice President of Ralcorp Holdings,  Inc. and as President and Chief Executive Officer of Bakery Chef,  Inc.,  a leading manufacturer of frozen bakery products that was acquired by Ralcorp Holdings in December 2003. From 1998 until the acquisition,  Mr. Beré was the President and Chief Executive Officer of Bakery Chef,  Inc.,  and also served on its Board of Directors. From 1996 to 1998,  he served as President and Chief Executive Officer of McCain Foods USA,  a manufacturer and marketer of frozen foods and subsidiary of McCain Foods Limited. From 1978 to 1995,  Mr. Beré worked for The Quaker Oats Company; he served as President of the Breakfast Division from 1992 to 1995 and President of the Golden Grain Division from 1990 to 1992.
 

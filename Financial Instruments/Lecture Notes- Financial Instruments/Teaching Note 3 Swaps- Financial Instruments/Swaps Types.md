@@ -1,9 +1,9 @@
 ---
 aliases:
-- Alias_169_Swaps Types.md
-- Alias_168_Swaps Types.md
+- 
+- 
 tags:
-- tag_example
+- 
 ---
 
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
@@ -25,7 +25,7 @@ tags:
 + A more attractive solution for both parties is to defer payment until the oil is delivered, while still fixing the total price. Typically, a swap will call for equal payments in each year.
 + In this example, 100,000 is the notional amount of the swap, meaning that 100,000 barrels is used to determine the magnitude of the payments when the swap is settled financially.
 
-![](IMG-20240913171226965.png)
+ ![500](IMG-20240913171226965.png)
 
 Positions and cash flows for a dealer who has an obligation to receive the fixed price in an oil swap and who hedges the exposure by going long year 1 and year 2 oil forwards.
 
@@ -43,7 +43,7 @@ Positions and cash flows for a dealer who has an obligation to receive the fixed
 + The swap counterparty is a dealer who hedges the oil price risk resulting from the swap. The dealer can hedge in several ways. First, imagine that an oil seller would like to lock in a fixed selling price of oil. In this case, the dealer locates the oil buyer and seller and serves as a go-between for the swap, receiving payments from one party and passing them on to the other. In practice the fixed price paid by the buyer exceeds the fixed price received by the seller. This price difference is a [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] and is the dealer’s fee.
 + The oil seller receives the spot price for oil and receives the swap price less the spot price, on net receiving the swap price. The oil buyer pays the spot price and receives the spot price less the swap price. The situation where the dealer matches the buyer and seller is called a back-to-back transaction or “matched book” transaction. The dealer bears the credit risk of both parties but is not exposed to price risk.
 
-![](IMG-20240913171236361.png)
+ ![500](IMG-20240913171236361.png)
 
 + A more interesting situation occurs when the dealer serves as counterparty and hedges the transaction using forward markets. Let’s see how this would work.
 + After entering the swap with the oil buyer, the dealer has the obligation to pay the spot price and receive the swap price. If the spot price rises, the dealer can lose money. The dealer has a short position in 1and 2-year oil.
@@ -79,7 +79,7 @@ So in summary, swaps are useful for hedging streams of commodity purchases or sa
 	+ The buyer can receive a stream of payments worth$3.65 by offsetting the original swap with a new swap.
 		-Thus,$3.65 is the market value of the swap.
 
-![](IMG-20240913171241643.png)
+ ![500](IMG-20240913171241643.png)
 
 # Swaps Types
 
@@ -102,7 +102,7 @@ The terms in square brackets sum to 1. This form of equation (3) emphasizes that
 
 Figure 6 displays a swap curve for natural gas, constructed using equation 3. The natural gas price exhibits seasonality. The swap price is a weighted average of natural gas forward prices over the life of the swap, and thus exhibits less variation. In Figure 6, the average natural gas futures price climbs so the swap curve climbs as well.
 
-![](IMG-20240913171244895.png)
+ ![500](IMG-20240913171244895.png)
 
 A commodity buyer might prefer a swap in which quantities vary over time. For example, a natural gas buyer could enter into a swap supplying a greater quantity of gas during the heating season. A buyer might also wish to fix different prices in different seasons. For example, there could be seasonal variation in the price of the output produced using natural gas as an input. How do we determine the swap price with seasonally varying quantities and prices?
 

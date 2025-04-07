@@ -1,16 +1,13 @@
 ---
 aliases:
 - PSET 4 Solution Financial instruments
-- Alias_156_PSET 4 Solution-Financial Instruments.md
-- Alias_155_PSET 4 Solution-Financial Instruments.md
+- 
+- 
 linter-yaml-title-alias: PSET 4 Solution Financial instruments
 tags:
-- tag_example
+- 
 title: PSET 4 Solution Financial instruments
 ---
-
-
-
 ---
 
 title: PSET 4 Solution
@@ -25,12 +22,12 @@ Solution to Homework 4
 (1) The strategy is called a short (almost in-the-money) straddle. Note that simply mentioning a straddle is not sufficient,  since the bet is exactly the opposite. With a short straddle,  we are betting that the price of the underlying,  at maturity,  will be close to the straddle strike price (same strike for both options),  while with a long straddle (buy 1 call and 1 put with the same strike and same maturity),  we are betting that the price of the underlying will be far from the strike price of the options. When we consider in-the-money (ITM) straddles,  we can say that we take a position on volatility. With a long ITM straddle,  we are long volatility (we benefit if the underlying price moves away - and remains away at maturity -from the strike),  while with a short ITM straddle,  we are selling volatility,  since we are betting that the price will not move much.
 (2) As mentioned above,  a short ITM straddle is profitable if the price of the underlying at maturity is close to the straddle strike price; in particular,  the payoff is maximum and equal to exactly 0 when $S_{T}=K^{1}$. This means that the profit of the strategy,  if $S_{T}=K$,  is equal to the premium collected from shorting the options. The risk of such a strategy is that the writer has a virtually unlimited downside potential. Even though the maximum loss is bounded if the stock price falls a lot (the most you can lose on the short put is $-max(K-S_{T},  0)=-K$ if $S_{T}=0$),  the short call has unbounded losses if the stock price rises.
 (3) Figure 1 shows the profit diagram of 1 a short straddle.
-![](https://storage.simpletex.cn/view/fuglkGdGVBPBzBLeqtkY54BNGYSBheHhK)
+ ![500](https://storage.simpletex.cn/view/fuglkGdGVBPBzBLeqtkY54BNGYSBheHhK)
 Figure 1: Profit diagram at time $T$ of the short straddle
 The two points in which the profit from the straddle is equal to 0 are denoted by $S_{A}$ and $S_{B}$,  and are equal to $S_{A}=17,  780$ and $S_{B}=21,  720$ respectively.
 (4) Figure 2 shows the profit diagram of 35,  000 short straddles.
 As you can see,  the sole (but very relevant) difference is the unit of measure of the chart. Indeed,  the two points in which the profit from the straddle is equal to 0,  denoted by $S_{C}$ and $S_{D}$,  are equal to $S_{A}$ and $S_{B}$ of figure 1: $S_{C}=S_{A}=17,  780$ and $S_{D}=S_{B}=21,  720$. This happens because the overall strategy is just the sum of
-![](https://storage.simpletex.cn/view/f2wH5brOdNMwc0KIWuoRDoDkgldAtGv3i)
+ ![500](https://storage.simpletex.cn/view/f2wH5brOdNMwc0KIWuoRDoDkgldAtGv3i)
 Figure 2: Profit diagram at time $T$ of the overall position
 35,  000 single short straddles. Since at $S_{A}$ and $S_{B}$ one straddle makes no profit,  then 35,  000 straddles make $35,  000\cdot0=0$ profit.
 (5) As discussed in part (1),  a short straddle is a sale of the volatility of the underlying. When we sell something (for example,  sell a stock short),  we bet that the price of the underlying goes down. In the same way,  with a short straddle (since we sell volatility),  we hope that the volatility of the underlying remains low (that is,  that the price of the underlying remains close to the straddle strike). If volatility increases,  then the chances of the underlying price being far from the strike are greater; this means that the chance of a big loss is greater as well.

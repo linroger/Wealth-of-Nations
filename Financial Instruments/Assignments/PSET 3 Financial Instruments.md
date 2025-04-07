@@ -1,7 +1,8 @@
 ---
-aliases: [Alias_147_PSET 3 Financial Instruments.md,  "1\_\_\_\_\_\_\_\_\_ GREECE CURRENCY SWAPS",  Alias_146_PSET 3 Financial Instruments.md]
-linter-yaml-title-alias: "1\_\_\_\_\_\_\_\_\_ GREECE CURRENCY SWAPS"
-tags: [tag_example]
+aliases:
+  - GREECE CURRENCY SWAPS
+linter-yaml-title-alias: 1          GREECE CURRENCY SWAPS
+tags: 
 title: PSET 3 Financial Instruments
 ---
 
@@ -269,18 +270,18 @@ Given the data in Table 2:
 
 (e)   Under no hedging,  Southwest position is _de facto_ a short position on jet fuel between December 31st 2007 and March 31st 2008. Indeed if fuel price goes up Southwest is loosing money as it has to spend more to buy the same amount of fuel; conversely if jet fuel price falls,  Southwest experiences a gain as it can buy the same quantity of fuel at a lower price. With this in mind,  draw the payoff diagram,  at maturity,  of the implicit short position that Southwest has on jet fuel.
 
-- ![](22fbf52af579c7888de2c.png)
+-  ![500](22fbf52af579c7888de2c.png)
 
 > [!ANSWER]
 > (1.e) Just a little note here before showing the graph. The payoff diagram (in contrast with > the profit diagram) does not take into account the cost of the position. For example,  > for a short position in fuel,  we do not consider S0 but only −ST. So at time T,  we > will have necessarily a non positive (i.e. π(S) ≤ 0 - note that I have randomly chosen > to use π as a synonymous of "payoff") payoff. > The payoff diagram of the implicit short position will thus be: > Note that the payoff is computed on the total exposure,  which is,  under the assumption in point (1.a),  8, 994, 000 barrels of jet fuel (and oil). Further,  consider that if we accept assumptions (1.a),  then the oil price and jet fuel price can be assumed to be the same.
-![](2373e22ab534410d2cacfbd8e29676b4.png)
+ ![500](2373e22ab534410d2cacfbd8e29676b4.png)
 
 (f)     Now draw the payoff diagram,  at maturity,  of the **straight insurance** strategy determined in (1.a) and,  in another chart,  the diagram of the overall position of Southwest,  that is the implicit short position in jet fuel plus the **straight insurance**; please label the axes of the diagram,  specify the units of measure and show some values on each axis. Compare the costs and benefits of the **straight insurance** with the costs and benefits of hedging with futures.
-![](2baf67b653ef3159edac758f08b2931f.png)
+ ![500](2baf67b653ef3159edac758f08b2931f.png)
 
 > [!ANSWER]
-> (1.f) The payoff diagram of the straight insurance is:![](921429ef02602abd9cbea9add66ad2c6.png)
-> And the one of the overall position,  combining the implicit short position with the straight insurance,  is:![](7119b15cd978dff405cdf1534e4ccbca.png)
+> (1.f) The payoff diagram of the straight insurance is: ![500](921429ef02602abd9cbea9add66ad2c6.png)
+> And the one of the overall position,  combining the implicit short position with the straight insurance,  is: ![500](7119b15cd978dff405cdf1534e4ccbca.png)
 
 1. Assume that the CFO is a Booth alumni,  and reasons that one drawback of thestraight insurance is that it costs money upfront. Instead he decides to set up a **collar**,  that is,  sell some out-of-the-money put options to finance the purchase of out-of-the-money calls. The goal of this collar is that it must **cost nothing** (or near to nothing) to the firm at initiation. In other words,  the total amount from the puts must compensate for the calls.
 
@@ -296,7 +297,7 @@ To achieve a zero-cost collar strategy,  the CFO should sell put options with a 
 
 (b)   Draw the payoff diagram,  at maturity,  of the **collar** strategy determined in (2.a) and,  in another chart,  the diagram of the overall position of Southwest: the implicit short position in jet fuel plus the **collar**; please label the axes of the diagram,  specify the units of measure and show some values on each axis. Compare the costs and benefits of the **collar** with the costs and benefits of both the straight insurance and the hedging with futures.
 
-- ![](bfc119fc0c2267adcef98358eabfedc3.png)
+-  ![500](bfc119fc0c2267adcef98358eabfedc3.png)
 
 ```python
 Comparison: 
@@ -314,8 +315,8 @@ Hedging with futures:
 ```
 
 > [!ANSWER]
-> (2. B) The payoff of the collar strategy is:![](dc8721b42f306b86f95a6d066dbd128d.png)
-> and the one of the overall position,  combining the implicit short position with the collar,  is:![](54aa611314fd62dc1f968f99e483ff49.png)
+> (2. B) The payoff of the collar strategy is: ![500](dc8721b42f306b86f95a6d066dbd128d.png)
+> and the one of the overall position,  combining the implicit short position with the collar,  is: ![500](54aa611314fd62dc1f968f99e483ff49.png)
 
 1. Assume now that the CFO is a Booth student who is taking the Financial Instruments course and is very excited about the variety of different options strategies. Instead of selling just one put option to finance the purchase of the call option (used for insurance) as in point 2,  the CFO wants to experiment different quantities of put options,  still maintaining the constraint that the cost of the strategy must be zero.
 
@@ -337,7 +338,7 @@ Hedging with futures:
 ```
 
 Draw the payoff diagrams,  at maturity,  of these two new strategies as well as of the overall Southwest position in each case. Please label the axes of the diagrams,  specify the units of measure and show some values on each axis. Compare the costs and benefits of the two strategies with the costs and benefits of both the straight insurance and the first collar determined in point
-![](d838931709b0d991efc4da0d5bc74977.png)
+ ![500](d838931709b0d991efc4da0d5bc74977.png)
 Comparison:
 
 ```python
@@ -355,12 +356,12 @@ Cost: the option premiums.
 ```
 
 > [!ANSWER]
-> (3.b) We find Np(K3=90) = −7,  596. So we have to short 7, 596 put options with strike equal > to K3 = 90. The payoff of the collar with the K2 = 80 puts is reported in the next figure.![](caf6abb34fe52e308aea0a51266e86ad.png)
-> While the payoff of the collar with the K 3 = 90 puts is shown below.![](dbb91e14e07f3848b5c73c0ce0d273db.png)
-> ![](a63132683515b6a931f8785ad6c81c36.png)
+> (3.b) We find Np(K3=90) = −7,  596. So we have to short 7, 596 put options with strike equal > to K3 = 90. The payoff of the collar with the K2 = 80 puts is reported in the next figure. ![500](caf6abb34fe52e308aea0a51266e86ad.png)
+> While the payoff of the collar with the K 3 = 90 puts is shown below. ![500](dbb91e14e07f3848b5c73c0ce0d273db.png)
+>  ![500](a63132683515b6a931f8785ad6c81c36.png)
 >
-> The payoffs of the two overall positions are then shown.![](70c9356ec6e31915dbdbc6449028c3b9.png)
-> Finally it is worth to compare the payoffs of the three collars in one chart…![](b53d23e67d2e0c11a6544165b9f891d1.png)
+> The payoffs of the two overall positions are then shown. ![500](70c9356ec6e31915dbdbc6449028c3b9.png)
+> Finally it is worth to compare the payoffs of the three collars in one chart… ![500](b53d23e67d2e0c11a6544165b9f891d1.png)
 >
 
 (2.a).

@@ -3,10 +3,10 @@ title: Week 1 Market Efficiency
 cssclasses:
   - academia
 aliases:
-  - Alias_327_Week 1 Market Efficiency.md
-  - Alias_324_Week 1 Market Efficiency.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - finance
   - quantitative-finance
   - financial-analysis
@@ -92,9 +92,9 @@ and matter in markets (see Additional Readings on Canvas)
 
 ## IGM ECONOMIC EXPERTS PANEL
 
-![](6d029c0b93c5e1306e0bd89a357b2460.png)
+ ![500](6d029c0b93c5e1306e0bd89a357b2460.png)
 
-![](96ef0ef703925d27785c463e18e11bc4.png)
+ ![500](96ef0ef703925d27785c463e18e11bc4.png)
 
 Baxter International (NYSE: BAX) is a bioscience and medical products firm headquartered in Deerfield,  IL
 
@@ -104,15 +104,15 @@ From: Cohen et al. Journal of Finance 2020
 
 ## EXAMPLE ILLUSTRATING THE FORCES: LAZY PRICES
 
-![](38f7fbd76d3b5b33dc9424816043b819.png)
+ ![500](38f7fbd76d3b5b33dc9424816043b819.png)
 
 ## HOW DID THE MARKET REACT?
 
-![](d9670a3207a5153a7bf01f0a24809b04.png)
+ ![500](d9670a3207a5153a7bf01f0a24809b04.png)
 
 ### BAXTER 10-K IN 2008 AND 2009 IN COMPARISON
 
-![](18d7ddbdc7844f507d1bd64cb800d572.png)
+ ![500](18d7ddbdc7844f507d1bd64cb800d572.png)
 
 Note that the 10-K
 
@@ -191,7 +191,7 @@ alpha of 7%
 
 ## RISE OF ALTERNATIVE DATA
 
-![](46f5e9fc7f2f53a14ec51e18d7eddaaa.png)
+ ![500](46f5e9fc7f2f53a14ec51e18d7eddaaa.png)
 
 - In search of a true info advantage
 		  - Location,  credit card,  social media data,  etc.

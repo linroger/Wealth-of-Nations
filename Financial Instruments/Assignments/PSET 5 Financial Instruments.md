@@ -1,15 +1,13 @@
 ---
 aliases:
 - WINTER 2024 JOHN HEATON
-- Alias_144_PSET 5 Financial Instruments.md
-- Alias_143_PSET 5 Financial Instruments.md
+- 
+- 
 linter-yaml-title-alias: WINTER 2024 JOHN HEATON
 tags:
-- tag_example
+- 
 title: WINTER 2024 JOHN HEATON
 ---
-
-
 [Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
 [Teaching Note 4-Multiperiod Binomial Trees](Teaching%20Note%204-Multiperiod%20Binomial%20Trees.md)
 # WINTER 2024 JOHN HEATON
@@ -47,7 +45,7 @@ In each of the next two periods ($i = 1$and$i = 2$),  a stock whose value in per
 			2. $B_{u}-B_{0}= |0-(-66.9471)|= 66.9471$
 				1. Increase position in bonds by lending 66.9471
 		3. The price of the call option should be equal to the value of a replicating portfolio of a long 0.77324 stocks and short$66.9471 bond position. The call option premium is thus$10.37688
-![](IMG-20240913171238611.png)
+ ![500](IMG-20240913171238611.png)
 	1. (b) Let's see what happens if we change the initial stock price$S_{0}$by a little. In particular I would like you to figure out how the value of the replicating portfolio changes when you change$S_{0}$. To do this compute the value of the replicated portfolio, $V^{RP}$when the initial stock price is equal to$S_{0}+ △S$ with$∆S = 1,  2_,  …,  10$When doing this remember that future stock prices are also changed under the assumption that the stock price rises or falls by 10% going forward. 
 		1. i. Is the change in value of the portfolio linear in ∆S? (Tip: the change in value is linear in ∆S if$V^{RP}$($k △S) = k · V^{RP} (△S)$). Show your calculations. 
 - These are the different values of the replicating portfolio for each given initial stock price. The value of the replicating portfolio does not increase perfectly linearly with the stock price.,  as the increase from 101 to 102 for the stock price had a different increase in$V$than all the other 1 unit increases in stock prices after 102. This suggests that as the stock price increasingly grows away from the strike price,  the increase in the value of the portfolio does not keep pace,  but appears to slow.
@@ -89,10 +87,10 @@ In each of the next two periods ($i = 1$and$i = 2$),  a stock whose value in per
 | Payoff | 21.00063 | 0.000625 | 0 |
 1. (e) What is the price of the call option if the stock pays a 5% dividend yield in period$i = 1$? Show the resulting trees for the stock price and for the option as well as your computations. (Hint: when the dividend is paid the stock price must decline in response. In the "up" state in period 1 before the dividend is paid,  the stock prices is$S_{0} × u$. If y is the dividend yield,  the stock price next period in the "up" state _after the payment of the dividend_ is $S_{0} × u × (1 − y)$. A similar adjustment must be made to the stock price in the "down" state after the dividend is paid.)
 		1. 1. The price of the call option is$\$10.28458$
-![](IMG-20240913171242399.png)
+ ![500](IMG-20240913171242399.png)
 1. (f) What is the price of the call option if the stock pays a$5 dividend in period $i = 1$? In this case the dividend is a fixed dollar amount that is independent of the stock price. Show the resulting trees for the stock price and for the option as well as your computations. Comment on the difference with part (e).
 	1. The price of the call option is$\$10.45657$. The option price for the stock paying a fixed dividend is higher than the option price for the stock paying a dividend yield. This may be because the payoffs to the call option are higher under the up-up case,  and the same for the other two scenarios.
-![](IMG-20240913171245806.png)
+ ![500](IMG-20240913171245806.png)
 ## 3 BIG BINOMIAL TREE
 Use the file BinomialTree.xls available on chalk to confirm that as you increase the number of steps,  the option price and delta from the Tree converges to the Black and Scholes ones. Report the prices and deltas in a table for $n = 2,  5,  10,  25,  50,  125,  250$ tree steps.
 - As the binomial tree increases in steps,  it converges to the Black Scholes price for an option.
@@ -119,9 +117,9 @@ $$\begin{aligned}
 2. Compute the price of the call and put options using several initial stock prices values,  from 10% in the money to 10% out of the money. Plot the price of the the two options as a function of the stock price in a chart. Would you describe the relationship between the two option prices and S as concave or convex?
 	1. 10% in the money: S = (1+10%)*42 = 46.2
 	2. 10% out of the money: : S = (1-10%)**42 = 37.8
-	3. ![](IMG-20240913171249774.png)
+	3.  ![500](IMG-20240913171249774.png)
 4. Consider changing the inputs: compute the price of the call and of the put using different values for the parameters listed in the first column of Table (1). Report your findings on the relationship between options prices and inputs,  by filling the white spaces in Table (1) (simply write: "increase",  "decrease" or "uncertain" in each white space). Provide some intuition for your findings
-![](IMG-20240913171255268.png)
+ ![500](IMG-20240913171255268.png)
 _Table 1: Sensitivity of Black and Scholes option prices to inputs_
 Interpretation:
 For stock price: when the stock prices increase,  the value of a call option increases because the call option will probably end in the money. On the other hand,  the value of the put option’s value will decrease as the option end up in the money.

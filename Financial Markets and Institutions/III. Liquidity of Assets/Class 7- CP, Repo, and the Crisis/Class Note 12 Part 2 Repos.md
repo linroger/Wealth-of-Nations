@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Example_Alias_Class Note 12 Part 2 Repos
-  - Alias_46_Class Note 12 Part 2 Repos.md
+  - Class Note 12 Part 2 Repos
+  - Class Note 12 Part 2 Repos.md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - finance
   - financial-crises
   - financial-instruments
@@ -114,14 +114,14 @@ This is again like a bank run,  though with a twist. The twist is that marking-t
 
 Here's a graph showing margins (i.e. haircuts) of different quality mortgage-backed securities over time:
 
-![](https://storage.simpletex.cn/view/fQ4Luxx6kk6ReDpqTvOVGhhvbe5f92qfv)
+ ![500](https://storage.simpletex.cn/view/fQ4Luxx6kk6ReDpqTvOVGhhvbe5f92qfv)
 
 Notice that margins are zero until the summer of 2007.
 
 - Then they start ramping up and up,  with margin on subprime eventually reaching $100\%
  	- Meaning,  we won't lend a dime against subprime collateral.
 
-![](https://storage.simpletex.cn/view/frS1KsCboZYVEawGCrMqRzanQdvI10qmR)
+ ![500](https://storage.simpletex.cn/view/frS1KsCboZYVEawGCrMqRzanQdvI10qmR)
 
 Fig. 4. The repo-haircut index. The repo-haircut index is the equally weighted average haircut for all nine asset classes.
 
@@ -146,7 +146,7 @@ Then we could both do repo with JP Morgan:
 
 # Figure 26: Differences in Haircuts Between Bilateral Repo and Tri-Party Repo
 
-![](https://storage.simpletex.cn/view/fy2f6XX42bmNZU1prgKPDm58cno45PgBg)
+ ![500](https://storage.simpletex.cn/view/fy2f6XX42bmNZU1prgKPDm58cno45PgBg)
 
 Note: Difference calculated as repo median minus triparty median for each asset class.
 
@@ -154,11 +154,11 @@ Dotted black line represents zero.
 
 Figure 20: Lehman Brothers' Tri-Party Book
 
-![](https://storage.simpletex.cn/view/foX43GgnL7rhXqIgrsqRztyrI0W8Wtwtq)
+ ![500](https://storage.simpletex.cn/view/foX43GgnL7rhXqIgrsqRztyrI0W8Wtwtq)
 
 Figure 21: Number of Cash Investors in Lehman Brothers
 
-![](https://storage.simpletex.cn/view/fwY912r6unGqfqpUgF95faESGGENypyTk)
+ ![500](https://storage.simpletex.cn/view/fwY912r6unGqfqpUgF95faESGGENypyTk)
 
 Note: Red line corresponds to Lehman [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] filing.
 

@@ -115,7 +115,7 @@ plt.legend()
 bi
 ```
 
-![](Binomial_Tree_Price_For_Varying_Steps.png)
+ ![500](Binomial_Tree_Price_For_Varying_Steps.png)
 
 **Related Post**
 

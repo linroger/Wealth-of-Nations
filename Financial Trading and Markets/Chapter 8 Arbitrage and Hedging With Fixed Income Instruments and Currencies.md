@@ -4,7 +4,7 @@
 
 As we discussed in Chapter 7, traders are very concerned with arbitrage, where riskless arbitrage involves the simultaneous purchase and sale of identical cash flows. The most easily arbitraged financial instruments are often those with guaranteed payments or with payments that are perfectly correlated with other instruments. Consider a set of riskless bonds whose coupon payments and redemption values are guaranteed. Such riskless bonds might be replicated by portfolios of other riskless bonds if their payments are similarly guaranteed and are to be made on the same dates. For example, consider the illustration provided in  Table 8.1 , which consists of three priced riskless bonds, all making payments on the same dates until they mature. The cash flow structure of any one-, two-, or three-year bond (e.g., Bond D) added to the market can be replicated with some portfolio of bonds A, B, and  $C,$   as long as all the cash payments to investors on Bond D are on the same dates as those made by at least one (in this example, two) of the three bonds A, B, and C.   For example, assume that there now exists Bond D, a threeyear,   $20\%$   coupon bond selling in this market for  $\mathbb{S}1360$  . This bond will make payments of   $\S200$   in years 1 and 2 in addition to a   $\mathbb{S}1200$   payment in year 3. We will demonstrate  $\mathsf C$  that a portfolio of bonds A, B, and   can be assembled to generate the same cash flow series as Bond D.  
 TABLE 8.1 Coupon Bonds A, B, and C 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718cc32863756619c4e0300d8b833a28a93022a96551158023d8fb3e1e103e6e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718cc32863756619c4e0300d8b833a28a93022a96551158023d8fb3e1e103e6e.jpg)  
 
 Thus, as we will demonstrate, Bond  $\mathrm{D}$   can be replicated by a portfolio of our first three bonds in the following quantities:    $b_{A}=0,$  ,    $\begin{array}{r}{b_{B}=3_{3}^{1},}\end{array}$  , and    $b_{C}=-\,{\dot{2}}_{3}^{1},$  , which are determined by the following system of equations:  
 
@@ -258,7 +258,7 @@ $$
 Solving this   $3\times3$   system reveals that the immunized portfolio will have the following weights:    $w_{A}=0.1$  ,    $w_{B}=5.204.$  , and    $w_{C}\,{=}\,\,{-}\,4.304$  . Consider the following system:  
 
 $$
-\begin{array}{r l}{\left[\begin{array}{c}{-2.048}\\ {1}\\ {0.1}\\ {\pmb{s}}\end{array}\right]=\left[\begin{array}{c c c}{-1.962}&{-2.837}&{-3}\\ {1}&{1}&{1}\\ {1}&{0}&{0}\end{array}\right]}&{\left[\begin{array}{c}{w_{A}}\\ {w_{B}}\\ {w_{C}}\end{array}\right]}\\ {\mathbf{Dur}}&{\mathbf{w}}\end{array}
+\begin{array}{r l}{\left[\begin{array}{c}{-2.048}\\ {1}\\ {0.1}\\ {\textdollar{s}}\end{array}\right]=\left[\begin{array}{c c c}{-1.962}&{-2.837}&{-3}\\ {1}&{1}&{1}\\ {1}&{0}&{0}\end{array}\right]}&{\left[\begin{array}{c}{w_{A}}\\ {w_{B}}\\ {w_{C}}\end{array}\right]}\\ {\mathbf{Dur}}&{\mathbf{w}}\end{array}
 $$  
 
 We can solve this system by first inverting matrix  Dur , then using it to pre-multiply vector s  to obtain vector  w :  
@@ -381,7 +381,7 @@ $$
 
 Thus, one can obtain spot rates    $y_{0,t}$   from the bond’s current purchase price    $P_{0}$   and expected future cash flows from coupon payments  $c F$   and face value  $F$  . Consider a  $\mathbb{S}1000$  face value bond making a single interest payment at an annual rate of   $5\%$   (see  Table 8.2 ). Suppose this bond is currently selling for 102 (actually meaning   $102\%$   of its face value, or  
 TABLE 8.2 Boots trapping Spot Rates 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e5195fc76e0b09934035cc07173d2f6186b110a26cc0c7b15f0dcd37d02d966.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e5195fc76e0b09934035cc07173d2f6186b110a26cc0c7b15f0dcd37d02d966.jpg)  
 
 1020) and that it matures in one year when its coupon payment is made. The one-year spot rate implied by this bond is determined as follows:  
 
@@ -421,7 +421,7 @@ $$
 \begin{array}{c}{(1+0.0449)^{3}=(1+0.0294)(1+0.052731)(1+y_{2,3})}\\ {y_{2,3}=\displaystyle\frac{(1+0.0449)^{3}}{(1+0.0294)(1+0.052731)}-1=0.052744}\end{array}
 $$  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99f501fb52b2cbb478ab7b0ee13cf9a75efde2a1e10d6b7a4437d202efbcf1af.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99f501fb52b2cbb478ab7b0ee13cf9a75efde2a1e10d6b7a4437d202efbcf1af.jpg)  
 
 FIGURE 8.1 Mapping the yield curve.  
 The two-year forward rate on a loan originating in one year, forward rate  $y_{1,3},$   is determined as follows:  
@@ -461,7 +461,7 @@ $$
 
 TABLE 8.3 Coupon Bonds E, F, and G  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcfabe901845b21e4f62d757eebff1c6820f6b9a72a9d2b6f2987058d223aca9.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcfabe901845b21e4f62d757eebff1c6820f6b9a72a9d2b6f2987058d223aca9.jpg)  
 Thus, we find from solving this system for vector  $d$   that    $D_{1}=0.943377,$  ,    $D_{2}=0.85734,$  , and  $D_{3}\,{=}\,0.751316$  . Since    $D_{t}=\bar{1/}(1\,+\,\dot{y}_{0,t})^{t},$  ,  $1/D_{t}=(1\,+\,y_{0,t})^{t}\,\!,$  , and    $y_{0,t}=1/D^{1/t}\,-\,1$  . Thus, spot rates are determined as follows:  
 
 $$
@@ -536,7 +536,7 @@ The Vasicek yield curve model has a number of desirable characteristics. The mod
 
  3.  The Vasicek model produces the result that all short- and long-term rate shifts over terms to maturity are perfectly correlated.  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b061e088f0376e15061cc2cdbe4279e9fd1f8d79a2bf8dd3d39526a151eedbb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b061e088f0376e15061cc2cdbe4279e9fd1f8d79a2bf8dd3d39526a151eedbb.jpg)  
 FIGURE 8.2 Simulation of Vasicek process:  $r_{0}=0.05,$  ,  $\sigma=0.02$   and  $\lambda=0.1$  .  
 4.  Related to the difficulty put forth just above, the Vasicek model assumes only a single underlying risk factor when, in fact, there is significant evidence that there may well be multiple factors. For example, sometimes the yield curve can “twist;” that is, long- and short-term rates can move in opposite directions. Multiple risk factors can often explain such “twisting.”  
 
@@ -577,7 +577,7 @@ In a world economy characterized by free trade, complete certainty and no market
 One well-known (though somewhat tongue in cheek) test of PPP is the “Big Mac standard” popularized by  The Economist . MacDonald’s Corporation’s Big Mac hamburgers are generally regarded to be more or less identical all over the world. Given PPP, then the Big Mac should sell for the same price in each country. For example, suppose that the Big Mac cost   $\S4.60$   in a U.S. restaurant and costs  d 3.62 (GBP3.62) in the UK; Further suppose that  
 
 TABLE 8.4 Triangular Arbitrage 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/54d96dc70a9883fa784e3610859fe9433020fbf94aa9ff7f943ab06aa4f8787e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/54d96dc70a9883fa784e3610859fe9433020fbf94aa9ff7f943ab06aa4f8787e.jpg)  
 the dollar/pound exchange rate is  $\S1.46/\mathfrak{L}$  ; that is, GBP1 has the same value as USD1.46. At this exchange rate of  $\S1.46/\xi,$  , the British pound appeared overvalued by approximately  $15\%$   relative to the U.S. dollar. However, we need to recognize that Big Macs are not easily exported from countries where they are under priced, which might prevent absolute PPP from holding in this instance. Nor does this relationship among prices account for differences in taxes, subsidies, labor, and other production costs.  
 
 # Purchase Power Parity in Spot Markets  
@@ -638,7 +638,7 @@ Equation 8.23  is the general mathematical definition or statement of PPP. It pr
 
 Consider the following violation of PPP. The exchange rates of dollars for pounds are 1.6000 and 1.6296 in the spot and one-year forward markets, respectively. Assume that gold is selling for   $\S400$   per ounce in American spot markets and for  d 250 in British spot markets. The one-year forward price of gold is   $\S440$   in American markets and    $\pounds280$   in British markets. We might wish to assume that inflation rates in the United States and the UK are, respectively,  $10\%$   and   $12\%$  . In this case, we should be able to demonstrate an arbitrage opportunity. Consider the following transactions in forward markets (future prices are locked in now by taking positions in forward contracts):  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06e707f8001f8dff46eda20a4ae5cf1160f3cc253cfca6abac53d0c8488ee23d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06e707f8001f8dff46eda20a4ae5cf1160f3cc253cfca6abac53d0c8488ee23d.jpg)  
 
 Because all prices are locked in by spot and forward contracts, we are able to lock in a profit of  d 10 by engaging the above transactions. The change in exchange rates does not coincide appropriately with the countries’ relative gold price changes. You should be able to demonstrate for yourself that  Equation (8.23)  does not hold for this example. Whenever Equation (8.23)  does not hold, we should either be able to exploit an arbitrage opportunity or identify a constraining market friction.  
 
@@ -664,12 +664,12 @@ Thus, the interest rate in the UK must be   $9.9636\%$  . If the British interes
 Here, we continue to assume that exchange rates of dollars for pounds are 1.6 and 1.6296 in the spot and one-year forward markets, respectively. Assume that nominal interest rates are   $12.5\%$   in the United States and  $12\%$   in the United Kingdom. Again, we should be able to demonstrate an arbitrage opportunity. Consider the following transactions in markets for interest bearing securities and forward exchange (forward prices are locked in now by contracts):  
 
 Time Zero Positions 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c42aca73a558579b7d5399d08e70836db66c80a63e7e685578da84dfe885cd52.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c42aca73a558579b7d5399d08e70836db66c80a63e7e685578da84dfe885cd52.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c66c4bf35289990f7c6af2e37ff34aa8d7e7cd0c231f73ee961f802129614c09.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c66c4bf35289990f7c6af2e37ff34aa8d7e7cd0c231f73ee961f802129614c09.jpg)  
 Time One Positions  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efc91946c6e3b3e7e887b27c335db49752fd0a85890f0680a92aeb1713cd41ed.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efc91946c6e3b3e7e887b27c335db49752fd0a85890f0680a92aeb1713cd41ed.jpg)  
 
 Here, we are able to lock in a profit of  $\S15.74$   by engaging the above transactions. The change in exchange rates did not coincide appropriately with the countries’ relative interest rates. You should be able to demonstrate for yourself that  Equation (8.24)  does not hold for this example. Whenever  Equation (8.24)  does not hold, we will be able to locate an arbitrage opportunity or a friction that prevents its exploitation.  
 
@@ -767,7 +767,7 @@ Cox, J., Ingersoll, J., & Ross, S. (1985). A theory of the term structure of int
 
 4.  A life insurance company expects to make payments of  $\S30{,}000{,}000$   in one year,  $\mathbb{S}15{,}000{,}000$   in two years,   $\S25{,}000{,}000$   in three years, and  $\S35{,}000{,}000$   in four years to satisfy claims of policyholders. These anticipated cash flows are to be matched with a portfolio of the following  $\mathbb{S}1000$   face value bonds:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/785868a49438afb966256c769770fa2d0cf5063eaa1df31d821905f8e3b403b2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/785868a49438afb966256c769770fa2d0cf5063eaa1df31d821905f8e3b403b2.jpg)  
 
 How many of each of the four bonds should the company purchase to exactly match its anticipated payments to policyholders?  
 
@@ -798,7 +798,7 @@ c.  Find the present values of each of the bonds in Problem 10 above after yield
 
 15.  Consider the following four bonds:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc37a49f2b0b35679f452e711fa857ab684331e0ddb3caa26000fa36de71af95.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc37a49f2b0b35679f452e711fa857ab684331e0ddb3caa26000fa36de71af95.jpg)  
 
 Based on the cash flows and prices associated with these bonds, determine the following:  
 

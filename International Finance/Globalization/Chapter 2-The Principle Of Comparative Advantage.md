@@ -344,8 +344,6 @@ Mixes feasible in California when its economy is closed: (1) QA = 5,       000, 
 Feasible production mixes,       just one is efficient and not wasteful. Which one?
 C 2.2. Brazil and Venezuela refine oil and manufacture airplanes. Brazil can produce 80,      000 barrels of
 Oil or 4,      000 airplanes. Venezuela can produce 100,      000 barrels of oil or 10,      000 airplanes. What is Brazil's opportunity cost of airplanes in terms of oil? What is Venezuela's opportunity cost of airplanes in terms of oil?
-
-
 C2.3. There are two countries: Home (no asterisk) and Foreign (asterisk). Both countries have equally large labor forces $L=L^*.$ There are two industries: agriculture (A) and mining (M). The productivities of the industries are given by the following constant unit labor requirements:$$
 \begin{array}{r|rr}&\text{Home}&\text{Foreign}\\\hline\text{Agriculture}&a_{LA}=4&a_{LA}^*=2\\\text{Mining}&a_{LM}=2&a_{LM}^*=1\\\hline\end{array}$$
 State the closed-economy prices of mining goods in terms of agricultural goods in the domestic country $(P_M/P_A)$ and the foreign country $(P_M^*/P_A^*)$. Compute the relative incomes of the two countries,       $w/w^*.$
@@ -353,8 +351,6 @@ State the closed-economy prices of mining goods in terms of agricultural goods i
 C2.4. There are two countries: Home (no asterisk) and Foreign (asterisk). There is one factor of production,       labor,       and both countries have equally large labor forces of $L=L^*=300.$ There are two industries,       agriculture and manufacturing. The production possibilities of the two countries are shown in the following table (if labor is exclusively allocated to one industry). $$\begin{array}{r|cc}&\text{Home}&\text{Foreign}\\\hline\text{Agriculture}&Q_A=100&Q_A^*=150\\\text{Manufacturing}&Q_M=50&Q_M^*=300\\\hline\end{array}$$
 Complete the following table of unit labor requirements under the assumption that unit labor requirements are constant. $$\begin{array}{r|rr}&\text{Home}&\text{Foreign}\\\hline\text{Agriculture}&a_{LA}=&a_{LA}^*=\\\text{Manufacturing}&a_{LM}=&a_{LM}^*=\\\hline\end{array}$$ 
 What are the relative prices $P_M/P_A$ in each country when there is no trade? In which industry does the domestic country have a comparative advantage? In which industry does the foreign country have a comparative advantage? How does comparative advantage change when the domestic country doubles its labor force to $L= 600$ but the foreign labor force remains constant at $L^*=300?$
-
-
 C 2.5. When employing its full labor force,       Peru can produce either 300,      000 computers a year or 6
 Million roses,       or a mix of the two. When employing its full labor force,       Canada can produce either 600,      000 computers or 9 million roses,       or a mix of the two. State the equation for Peru's production possibility frontier (PPF). What is its slope? Show that,       in the Ricardian model with constant unit labor requirements,       the slope of the PPF can be expressed as the ratio of maximum production quantities. Which country has the absolute advantage in producing computers? Which country has the absolute advantage in producing roses? Which country has the comparative advantage in producing computers? Which country has the comparative advantage in producing roses?
 

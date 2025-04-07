@@ -1,6 +1,4 @@
 # Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors
-
-
 # Abstract
 
 This article introduces the basic structure and engineering of interest rate derivative  instruments, which are products whose payoffs depend in some way on the level of  interest rates. These financial instruments include caps, floors, swaptions and options  on coupon-paying bonds. The most common way to price interest rate derivatives  such as caps and floors, is to adopt the Black-Scholes approach and to implement the  Black (1976) pricing model. Following an introduction to the structure of interest rate  derivatives, we also present the underlying risk neutral representation of the Black  model in order to derive the existing closed form solution. In fact, the model is very  intuitive and easy to implement for a single cap/floor. When pricing a portfolio of  caplets/floorlets however, with multiple expiry dates, one may need to use  sophisticated analytics written in higher programming languages for computational  speed and efficiency.
@@ -14,7 +12,7 @@ The over-the-counter market trades options on a number of interest rates relatin
 Consider the following example where a corporation has issued a floating-rate note or  a loan, paying interest semi-annually at six-month Libor  $+\ 0.50\%$  , with residual term  to maturity of 5 years and 3 months. You can effectively lock in the maximum level  of your future borrowing rate by buying a cap that consists of 10 half-year caplets,  starting in 3 month's time.
 
 Generic representation of the payoff to a cap is given in Figure 1.1. The long option  position is a call if the underlying is an interest rate or an FRA; it is a put if the  underlying instrument is a future. The long-option position combined with the  unexpected effects of interest rate changes gives a payoff that resembles a long put  position on the interest rate – i.e. if interest rates fall the borrower benefits from the  fall less the option premium, but if rates rise the interest rate payable on is capped.  The effective rate of interest on the capped loan will be the exercise price of the  option plus the option premium and plus (minus) any reset margin above (below)  Libor. It is in fact very intuitive to see the payoff to the cap from the graph. The solid  thin line represents the interest rate exposure to the issuer or a borrower of a floating  rate loan. The thin dotted line represents the long call option for hedging the loan. The  payoff of the combined position is represented by the solid fat line, which shows the  offsetting effect of the positions for various interest rate scenarios.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44785c5e549601a118e900929a3ce157d1295a924a25ff41e14ad0d5de9c67b5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44785c5e549601a118e900929a3ce157d1295a924a25ff41e14ad0d5de9c67b5.jpg)
 Figure 1.1 Profit and Loss using a Long Call on FRA
 
 # Caps and Floors payoffs
@@ -157,7 +155,7 @@ The term   $d$    is the number of days in the forward period .  Basis  is the n
 To implement the model described above and generate a numerical values, we will  use the Bloomberg Professional Analytics as our pricing tool of choice. The  Bloomberg cap/floor/collar pricing capabilities has become market standard among  various market players such as derivative traders, sales, and risk managers. Use of  these analytics creates transparency and helps market practitioners assess risk and  execute trades very easily. To continue our discussion, we analyse 5 year cap on a 3  month LIBOR. Figure 1.2. displays the value of the caplets expressed as a percentage  of face amount as well as the market value in nominal terms.
 
 We illustrate the form for pricing the caplet on the Bloomberg system. This is done by  selecting the function BCCF   $<\!\mathrm{go}^{>}$   and then entering the following parameters:  settlement date, start date and expiration date and the face amount of the contract.  Volatility and strike(s) are crucial parameters to the model and will have tremendous  effect on the cost of the option depending on whether you wish to price the option on  a flat or varying strike and volatility levels. Enter a single volatility and strike for all  maturities or simply page forward to the second page and enter unique strike and  volatility levels for each caplet components. Once you have entered the strike(s), you  will immediately see the intrinsic value of the option visually from the graph on the  first page. The red horizontal line and the white steep curve display the strike level  6 and the implied forward  rate respectively.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/29a9d228cf43837cf0fa03358db9dcbb6856374f2a1c2c6048818dc440b2de9f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/29a9d228cf43837cf0fa03358db9dcbb6856374f2a1c2c6048818dc440b2de9f.jpg)
 
 # Figure 1.2.  Bloomberg Cap/Floor/Collar Valuation Screen: BCCF <go>
 
@@ -176,7 +174,7 @@ $$
 To see the impact of the cost of the option by simply changing a single parameter  input such as the strike level, increase the strike by for example one percentage point  and you will price the option cheaper. To demonstrate the computational speed of the  model, change the calculator option to solve for the implied volatility by entering  specific premium level. Through iterative process the model will work out the correct  immediately implied volatility given an option premium.
 Page three of the Bloomberg Cap/Floor/Collar pricing screen BCCF provides detailed  information such as each expiry dates of the option components, vol at ili ties, implied  forward rates, deltas, and the option component values. This is shown at figure 1.3.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ea86aea34e696ff176d11274d3604c4c8d28412cf3e5ce53e5cfaaa2fac0109.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ea86aea34e696ff176d11274d3604c4c8d28412cf3e5ce53e5cfaaa2fac0109.jpg)
 
 # Figure 1.3.  Bloomberg Cap/Floor/Collar Valuation Screen: BCCF <go>
 
@@ -195,7 +193,7 @@ The latter approach suggests a circular argument, namely deriving the volatility
 
 This is precisely what is referred to in most academic literatures as the market  expectation of future rate changes. Many option markets that are highly liquid, for  example at-the-money USD and GBP cap markets, will quote vol at ili ties rather than  option prices. This is because all the pricing parameters required for the black model  are available elsewhere such as in the swap market. Therefore volatility is the only  unknown parameter.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/135dfa776ce8d474df7fb081484b0dcc4a76239a8e1dcc79faf2c165417f305a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/135dfa776ce8d474df7fb081484b0dcc4a76239a8e1dcc79faf2c165417f305a.jpg)
 
 # Figure 1.4.  Bloomberg Cap/Floor Implied volatility surface
 

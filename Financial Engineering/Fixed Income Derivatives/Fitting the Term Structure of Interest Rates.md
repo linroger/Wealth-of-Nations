@@ -1,7 +1,5 @@
-# Fitting the Term Structure of Interest Rates
-# Fitting the Term Structure of Interest Rates: The Practical Implementation  of  Cubic Spline Methodology
-
-
+# [[1. DeterministicCashFlows#3 The Term Structure Of Interest Rates|Fitting the Term Structure of Interest Rates]]
+# [[1. DeterministicCashFlows#3 The Term Structure Of Interest Rates|Fitting the Term Structure of Interest Rates]]: The Practical Implementation  of  Cubic Spline Methodology
 # INTRODUCTION
 
 # Fitting the term structure of interest rates
@@ -34,7 +32,7 @@ Although there are a number of alternative methods available to the practitioner
 
 We assume that the practitioner has already calculated a set of nodes using a yield curve  construction technique such as boots trapping. A zero curve is then fitted using the cubic  spline methodology by interpolating between nodes using individual cubic polynomials. Each  polynomial has its own parameters but are constructed in such a way that their ends touch  each node at the start and end of the polynomial. The set of splines, which touch at the nodes,  therefore form a continuous curve. Our objective is to produce a continuous curve, joining  market observed rates as smoothly as possible, which is the most straightforward means by  which we can deduce meaningful data on the correct interest rate term structure in the market.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41fbceb0c02331595072f0b5bdc6800596eecdd119fcb47a5b2698dfb85bd597.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41fbceb0c02331595072f0b5bdc6800596eecdd119fcb47a5b2698dfb85bd597.jpg)
 Exhibit 1
 In Exhibit 1 we can see that two cubic polynomials which join at point  $x_{N+I}$   are used to form a  continuous curve. However, it is also clear from the curves in figure 1 that the two  polynomials do not result in a smooth curve. In order to have a smooth curve we need to  establish “smoothing” criteria for each spline. To do this we must first ensure that the  polynomials touch or join together at the nodes. Secondly we must ensure that where the  polynomials touch that the curve is smooth. Finally we ensure that the curve is continuously  differentiable, or in other words, the curve has a smooth rate of change at and between tenor  points. The required criteria to meet these conditions are:
 
@@ -52,7 +50,7 @@ Considering a polynomial of the form   $y\ \ =\ \ a x^{3}\!+\!b x^{2}\!+\!c x\!+
 
 Assuming the final solution is unknown at this stage, it seems plausible that an almost infinite  set of parameters   $a,~b$    and   $c$   can be found which will result in all of our cubic spline  requirements being met.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f13e1b36cce27ec4fb63106ee10e960952bf371565de57243eabbd32b7ee6bf7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f13e1b36cce27ec4fb63106ee10e960952bf371565de57243eabbd32b7ee6bf7.jpg)
 Exhibit 2
 
 We observe in Exhibit 2 three imaginary curves, all of which would meet our requirements  that the:
@@ -62,7 +60,7 @@ We observe in Exhibit 2 three imaginary curves, all of which would meet our requ
    second differential of each spline is equal at tenor points.
 Admittedly we have considered nodes that are sitting in a straight line but even where the  nodes do not line up it may be possible to find a range of possible solutions. Taking this  further, spline A and spline B as shown in Exhibit 3 are valid solutions yet it is intuitive,  given our knowledge of interest rate markets, that A is likely to be more suitable for our  purposes of yield curve interpolation.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e6a38ea4086e021a2a89a9b0f243d4e62317e4521fa11fad979b8bd0f81aa8c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e6a38ea4086e021a2a89a9b0f243d4e62317e4521fa11fad979b8bd0f81aa8c.jpg)
 Exhibit 3
 
 The issue to determine therefore, is, is there an infinite set of parameters each of which would  meet our requirements for fitting the curve; or is it possible to determine a single solution? Of  course our requirement is in a single solution; moreover, a solution that can be found quickly  from any set of market rates.
@@ -72,7 +70,7 @@ The issue to determine therefore, is, is there an infinite set of parameters eac
 # A working environment
 
 By splitting the yield curve into individual node/tenor pairs, we may work with individual  lines within each tenor. A cubic polynomial can then be added to each line to provide the  cubic spline. For ease of illustration, we take this one step further and imagine an alternative  horizontal axis. This is referred to as  ‘capital’  $X$  as shown in Exhibit 4. Assume that between  each node pair that this horizontal axis  $X$   runs from  $\boldsymbol{\theta}$   (at  $x_{N}$  ) to  $x_{N+I}\,-\,x_{N}$    (at  $x_{N+l.}\,$  ).
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04f87dce40c15dafc23b5ed747f70cdf2722a09b5e3d77c0ebe1ce8fd772347f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04f87dce40c15dafc23b5ed747f70cdf2722a09b5e3d77c0ebe1ce8fd772347f.jpg)
 Exhibit 4
 
 In Exhibit 4 the  $X$   axis is a calculated value determined from the  $x$   axis. The points  $x_{N}$  and  $x_{N+I}$    are isolated for spline   $S_{N}$  . It is then assumed that   $X_{\theta}$   equals zero at   $x_{N}$   and stretches to   $X_{N}$    which equals   $(x_{N+I}–x_{N})$   on the  $X$   axis. If these lines are fully isolated then a cubic polynomial,  of the form  $y=a X^{3}+b X^{2}+c X+d$  , can be constructed to touch the points  $x_{N}$   and  $x_{N+I}$  .
@@ -120,7 +118,7 @@ $$
 
 so that
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ef66a27a3fa86a21db6c461912dbc5db700437371a51096caeb1c21680292ab1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ef66a27a3fa86a21db6c461912dbc5db700437371a51096caeb1c21680292ab1.jpg)
 
 # Third requirement
 
@@ -171,24 +169,24 @@ $$
 X_{N+1}b_{N+2}=-X_{N}(2b_{N+1}+b_{N})-3\frac{(d_{N+1}-d_{N})}{X_{N}}+3\frac{(d_{N+2}-d_{N+1})}{X_{N+1}}-2X_{N+1}b_{N+1}
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/891af8843781f51cd6798498a0ddcf9d93f20b1c9c042c26fdc6095ad59c3935.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/891af8843781f51cd6798498a0ddcf9d93f20b1c9c042c26fdc6095ad59c3935.jpg)
 # A unique solution
 
 For clarity and ease of illustration, the results of these equations are set out as a table of  related formulas shown below in Table 1.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4563e9796e53fd6174ab69833dd392b884787fdecd2895f7908fa55395afa0a3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4563e9796e53fd6174ab69833dd392b884787fdecd2895f7908fa55395afa0a3.jpg)
 
 It is simple matter to determine the values of parameters   $a,b,c$   and  $d$   at each node  $n$   by using  the formulas set out in the table. Each node (from  $n>2$  ) is directly or indirectly dependent on  the values of previous parameters and can be determined from those previous parameters.  This is an important result, and means that any errors in the calculation early on are replicated  and magnified throughout the analysis. However, the first two occurrences of   $b$   (  $b_{\theta}$   and  $b_{I}$  ) do  not have previous nodes from which to determine their values. In other words the only values  for which we do not have solutions are those for  $b_{\theta}$   and  $b_{I}$  .
 
 Depending on the values assumed for   $b_{\theta}$    and  $b_{I}$  , the result is  usually  an oscillating   $b$   and ever  increasing   $|b|$  . This means that the slope of the spline gets steeper at each tenor as the absolute  value of the first differential increases, so the slope of the curve oscillates.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a2f03aea48038553c0d09363a554efc605d6d49de8f42d7f4e46c0413ed44bc.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a2f03aea48038553c0d09363a554efc605d6d49de8f42d7f4e46c0413ed44bc.jpg)
 Exhibit 5
 This systematic wave, shown in Exhibit 5 above, is clearly not the kind of behaviour that is  commonly observed in a yield curve and should therefore not be modelled into the curve.  Furthermore, we have no unique solution at this stage. An infinite number of values can be  assigned to  $b_{\ell}$   and   $b_{I}$   and therefore an infinite number of solutions can be obtained (most of  which exhibit the depicted oscillation effect). So this is still not what we seek.
 
 We need an additional restriction that allows us to find a single solution and which eliminates  the oscillation of the output. The restriction that we put in place is to set the second  differential of the first spline   ${y_{0}}^{\mathrm{,}}$   and last spline   $y_{N}{}^{\mathrm{,,}}$  equal to a constant. We will use a  constant of zero for now, but we come back to this constant at a later stage. Creating this  additional restriction means that we are left with only one unknown, parameter   $b_{2}$  .  This is  demonstrated, using the constant zero, in Table 2 below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21a4ff8d5aaed42147006fefa8252da23d0ab2cbf842336b577180f00a0d6646.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21a4ff8d5aaed42147006fefa8252da23d0ab2cbf842336b577180f00a0d6646.jpg)
 
 If we find a value for   $b_{2}$   that results in a final value of zero for   $b_{N}$   then we have a single  solution and this solution should eliminate the oscillation shown above. We can determine  this  solution using two different methods:
 
@@ -209,7 +207,7 @@ Although this provides a reasonable approximation in most circumstances it is no
 
 An example using the same input data but different (albeit rather extreme) boundary values is  shown below in Exhibit 6. The natural boundary uses values zero and zero. In the clamped  boundary we have used  $-50$   and  $-50$   as boundary values. Although these boundary values are  extreme, they do illustrate the effect that inappropriate boundary values can have on spline  results.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b1a345f8bc5550c353863810521ffea4f808fb3ea25adeb83c3eae89dc6bf75.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b1a345f8bc5550c353863810521ffea4f808fb3ea25adeb83c3eae89dc6bf75.jpg)
 Exhibit 6
 
 These results are not unexpected. Readers may question the practical difference between  having a natural boundary condition against having a boundary condition that is obviously  inappropriate. Both approaches may lead to oscillation and an incorrect result. The sole  practical difference is that where we set our own boundary value, however inappropriate, the  extent of the error is under our own control. For this reason users may prefer this approach.
@@ -225,21 +223,21 @@ When a cubic spline solution is solved by iteration for a single parameter, the 
 
 A fictional set of numbers have been used to demonstrate this point in Table 3 below. The  “Date” column holds the maturity dates for each rate, while the “Rate” column is of course  the set of interest rates for each particular term to maturity.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53a1c2a1c7f8e8f2ebbcaa96ffc7bda3f27d7278ed56d958c91fe1d30aea338a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53a1c2a1c7f8e8f2ebbcaa96ffc7bda3f27d7278ed56d958c91fe1d30aea338a.jpg)
 Table 3
 
 This data is illustrated graphically at Exhibit 7 below.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b7b47988f1b2545eadf195894ade330ca8ac3c184a3acbcc815a1dcac977fa2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b7b47988f1b2545eadf195894ade330ca8ac3c184a3acbcc815a1dcac977fa2.jpg)
 Exhibit7
 
 In Table 3 above, an accuracy of eight decimal places is shown but in fact a much higher level  (over 15 decimal places) of accuracy was required to calculate the results. When we adjust the  level of accuracy, just on parameter   $b_{I}$  , to seven decimal places the results are significantly  flawed, as shown in Table 4 below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/388226de62fc78ad728a7c25e4ea418ae435072d6ef0f51eed048dbccb334a0a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/388226de62fc78ad728a7c25e4ea418ae435072d6ef0f51eed048dbccb334a0a.jpg)
 # Table 4
 
 It can be seen that within the long dates, parameter   $b$   starts to oscillate and grow in an  exponential manner. A graphical representation of the rates as a result of this flawed data is  shown at Exhibit 8 below. Note that the oscillation error is highly pronounced.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65c3d0676061410dd439b15691a3d37b019c8d81ae60698c46f6277113c090ad.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65c3d0676061410dd439b15691a3d37b019c8d81ae60698c46f6277113c090ad.jpg)
 Exhibit 8
 
 The degree of accuracy obtained through iteration is dependent on the starting point for the  first calculation and the number of iterations allowed as a maximum. There is no way of  ensuring that the required degree of accuracy will be obtained without undertaking very high  magnitude (and process intensive) calculations in the iterative algorithm. Without the comfort  of extensive manual review of the results by a person with a clear understanding of the  calculation and its implications, we do not recommend the use of the iteration approach to  derive a solution.
@@ -255,11 +253,11 @@ $$
 It can be seen that all parameters   $X$   and   $d$   can be obtained by reference to values that are  already known at the nodes. These are in fact node (or time-to-maturity) dependent constants.  In other words we have a system of linear equations from node 1 to  $N.$  . Readers will know that  simultaneous linear equations can be solved by substitution. This method of solving linear  equation can be applied to larger sets of linear equations, although we require increased  processing power.
 The system of equations can be represented in a  N -2 by  $N{+}1$   matrix as follows:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a254f7c285dc7bfb39e0376c450c97d429bbf7bb692c59a0cbc3ab3a7b11f000.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a254f7c285dc7bfb39e0376c450c97d429bbf7bb692c59a0cbc3ab3a7b11f000.jpg)
 
 In essence, if you look at the parameters   $b$   for which we are attempting to solve, this can be  laid over the above matrix as follows:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35a812c27e7b0773199151f5172cfb4de059f956964dd279dcc56d7e49528925.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35a812c27e7b0773199151f5172cfb4de059f956964dd279dcc56d7e49528925.jpg)
 
 In other words we are looking for a set of values for   $b_{\theta}$   to  $b_{N}$   that will solve the linear system  for each and every node  $N.$  .
 
@@ -268,9 +266,9 @@ Our basic limitation imposed above is not lifted. We set   $b_{\theta}$    and  
 A matrix of this form, that is, an upper and lower triangular quadrant for which no value is  required (observed by the grey shaded area) is also known as a  tri-diagonal matrix . More  advanced methods of solving matrices (and in particular tri-diagonal types) are available. It is  outside the scope of this article to cover these methods in detail; interested readers may wish  to consult Burden and Faires (1997).  For the purposes of illustration however, we have  prepared a simple example solution for a small matrix of values, and this appears as an   Appendix  to this article.
 
 The same values used for the iterative solution were processed using the elimination solution.  The results and their illustrative chart are set out in Table 5 and Exhibit 9 respectively below.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5686a9d753684ba4aad796501d04e5e05e559d65e9c1305f3cacd4d42dffeb0d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5686a9d753684ba4aad796501d04e5e05e559d65e9c1305f3cacd4d42dffeb0d.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aedfee335d8a358785d9c1dcc0fcc348ed24f13caddd4c2a705561542adb7392.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aedfee335d8a358785d9c1dcc0fcc348ed24f13caddd4c2a705561542adb7392.jpg)
 Exhibit 9
 On first observation these values appear to be identical to those obtained using the iterative  solution. In fact even at the highest level of accuracy possible in our iterative solution we  notice a difference in the values for parameter  c  when we look at the dates 1 Jan 2014  onwards (which appear in the grey boxes in Table 5 above). Although this is not apparent in  the chart, the results in the table where numbers appear with greater accuracy, show these and  other small differences not shown in Exhibit 9.
 
@@ -303,23 +301,23 @@ A large number of tenors was chosen to compound any rounding errors that might o
 
 A graph of this extreme test data is set out in Exhibit 10 below:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62b6d80a35918e6fe6b2088b15c6876f633cbbff73c18d1cd989a56db2359a4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62b6d80a35918e6fe6b2088b15c6876f633cbbff73c18d1cd989a56db2359a4.jpg)
 
 # Exhibit 10
 
 The resulting smooth graph after the cubic spline parameter have been calculated and applied  looks as follows:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a0a3a0d4ebd5253d91215d409273bd926c0a43bf6921ee95593fbfc11133ee70.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a0a3a0d4ebd5253d91215d409273bd926c0a43bf6921ee95593fbfc11133ee70.jpg)
 
 # Exhibit 11
 
 Two areas on the graph with relatively flat or consistent data values have been highlighted in  Exhibit 11 as potential areas where calculation error may be observed. These areas of the  graph are isolated and shown at Exhibit 12 and Exhibit 13 below.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/746886af2cf1d9b4b6b7213fa215301008d1fd6b1b1f558e10f16fb482fccb2c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/746886af2cf1d9b4b6b7213fa215301008d1fd6b1b1f558e10f16fb482fccb2c.jpg)
 Exhibit 12
 
 In the first area we observe some oscillation. However, this is not oscillation as a result of  calculation errors. This is a smoothing effect that is required to meet the requirements of a  cubic spline and to ensure a smooth curve. The data between points 63 and 71 is consistently  downward sloping but the data then slopes upward again at point 72. The curve starts to  “adapt” at an earlier stage in order to facilitate this change in direction. Therefore this  behaviour is unavoidable, but under most applications for the spot curve does not present a  material problem.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/135ccb42a576d2ebf43d979ea9bd6bd87fb8636de4234afc6fc44355ab9797e1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/135ccb42a576d2ebf43d979ea9bd6bd87fb8636de4234afc6fc44355ab9797e1.jpg)
 Exhibit 13
 
 The second area of the curve provides another typical cubic spline example as the curve  “adapts” to its new parameters. Once again this is a natural spline phenomenon and not an  error in the calculated values.
@@ -329,16 +327,16 @@ Empirical data does not prove beyond a doubt that a cubic spline method, applied
 
 Previous literature has highlighted the use of the cubic spline approach to model forward  curves, and its limitations. Certainly a cubic spline discussion would be incomplete without a  look at its application to forward rates. We will use our empirical data to highlight typical  forward rate behaviour under the cubic spline technique. Our sample data does not reflect  actual market conditions and is an extreme data set, to say the least. However, it does  highlight a point with regards to forward rates that can often be observed sometimes under  normal market conditions. To this end we isolate the last sub-set of the data, as shown above,  and plot the forward rates for that data set.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3836c86fe3de7d09fa6da05c75d2a8ff0dab6182e754464b81af7612914ad00.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3836c86fe3de7d09fa6da05c75d2a8ff0dab6182e754464b81af7612914ad00.jpg)
 Exhibit 14
 
 From data that was interpolated using the linear method versus data interpolated using the  cubic spline, a comparison of forwards shows how the forwards in a cubic spline environment  can oscillate. As expected, the relatively minor oscillations observed first in the zero rates  curve are compounded excessively in the forward rate calculation. The linear interpolation  approach, shown for comparison purposes at Exhibit X, eliminates much of the oscillation but  of course is not a smooth curve, which is as undesirable. The user is confronted with the need  to balance the conflicting requirements; a trade-off is called for and for most practical  applications the cubic spline approach and its smoothing results is preferred. It remains  important however that the user reviews cubic spline data by looking at both the zero and  forward rates.
 
 Using the actual United Kingdom 10-year zero curve for 2 January 2000, the forward rates  have been calculated using cubic spline and linear interpolation and compared in Exhibit 15  and Exhibit 16 respectively below. There is no observed reason to favour the latter approach  over the former.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b501c04e21975cad3fe9acf5a9f879a9bfa5e21444a771cc59776c17ef372ca5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b501c04e21975cad3fe9acf5a9f879a9bfa5e21444a771cc59776c17ef372ca5.jpg)
 Exhibit 15
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82644a86599696e74ab7120051868c8118a0dccc5851d1a5b74269e25aca3248.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82644a86599696e74ab7120051868c8118a0dccc5851d1a5b74269e25aca3248.jpg)
 Exhibit 16
 
 Improvements to the basic approach
@@ -355,25 +353,25 @@ Example matrix solution based on Gaussian elimination.
 
 We will solve for the following values (where the values of   $X$   have already been calculated).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b75bdf3282ce17b7551551a5e613cf7617a089c665cd229cbdeff95fcac4e792.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b75bdf3282ce17b7551551a5e613cf7617a089c665cd229cbdeff95fcac4e792.jpg)
 
 Firstly we construct our matrix as follows.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/179d5eda46b3045e7cdcc175cc7b3531dfa13794ea9f1759b90b8ada46f73eda.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/179d5eda46b3045e7cdcc175cc7b3531dfa13794ea9f1759b90b8ada46f73eda.jpg)
 
 Where  $b_{I}$   is set to zero this provides the values.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e92c52e07cb028380dd466d123c6651ce4bbd64d1a4c308a1914b566417cb66c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e92c52e07cb028380dd466d123c6651ce4bbd64d1a4c308a1914b566417cb66c.jpg)
 
 In turn we can substitute row 1 into row 2 to obtain.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db7091f71e0a01ba07cc0d8746fc3703b12d3c52f5858b32e5301f7d5ac3abf1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db7091f71e0a01ba07cc0d8746fc3703b12d3c52f5858b32e5301f7d5ac3abf1.jpg)
 
 Similar substitutions, and the fact that  $b_{7}$   is constrained as zero, yield the matrix below.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b67946f8375bfb735ab4c83141d8fac6669fcded50c1623e0442f05cae3a385.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b67946f8375bfb735ab4c83141d8fac6669fcded50c1623e0442f05cae3a385.jpg)
 
 This means that we can solve for  $b_{6}$  . Once we have a solution for  $b_{6}\mathrm{We}$   can solve for  $b_{5}$    and so  on. As a final result we get the following values for parameter  $b$  .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbd493609a4159dfbd0d894adc0112a882a694c2743d4ab8f680bfafeb9e7637.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbd493609a4159dfbd0d894adc0112a882a694c2743d4ab8f680bfafeb9e7637.jpg)
 
 Parameters  $a$   and  $c$   can be determined directly from the values of   $b$   above.

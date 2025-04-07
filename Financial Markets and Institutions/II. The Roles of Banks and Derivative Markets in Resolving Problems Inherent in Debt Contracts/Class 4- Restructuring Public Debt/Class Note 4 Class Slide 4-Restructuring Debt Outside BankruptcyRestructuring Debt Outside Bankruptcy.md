@@ -1,10 +1,10 @@
 ---
 aliases:
-- Alias_4_Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy.md
-- Example_Alias_Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy
+- Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy.md
+- Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy
 ---
 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]]

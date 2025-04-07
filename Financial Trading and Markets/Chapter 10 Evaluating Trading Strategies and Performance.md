@@ -57,7 +57,7 @@ In  Table 10.1 , we illustrate NAVs and returns for a hypothetical Fund A for ea
 On January 2, the fund initiates activities with a contribution of   $\mathbb{\S}10\mathrm{,}000\mathrm{,}000$   by investors. No return is computed. On January 3, the fund realizes   $\mathbb{\S200,000}$   in trading profits, increasing its total assets to   $\mathbb{S}10{,}200{,}000$  , yielding a return of   $2.00\%$   for the day. On  
 
 TABLE 10.1 Net Asset Value and Return Calculations 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d25d4ca3b371d6898c1323a5375541194b390b94312ac69cdaa2c8573437c011.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d25d4ca3b371d6898c1323a5375541194b390b94312ac69cdaa2c8573437c011.jpg)  
 January 4, the fund incurred  $\mathbb{\S400,000}$   in trading losses, ending the day with   $\S9{,}800{,}000$  in total assets,   $\S9.8$   in NAV and a return of    $-3.92\%$   for the day, or    $-1.31\%$   for Friday, Saturday, and Sunday. Trading profits for January 7 were   $\S200{,}000$  ; the return was  $2\%$  . On January 8, the fund realized   $\mathbb{\S200,000}$   in trading profits, but paid a dividend of  $\mathbb{\S200,000}$  . NAV remained constant at   $\S10.00$   because the trading profits exactly offset the dividends. The return for the day was  $2\%$  . On January 9, the fund realized trading profits of   $\S200{,}000$  , and investors redeemed 19,608 shares at a value of   $\S10.20$   for a total of   $\mathbb{\S200,000}$  . This withdrawal did not affect NAV or returns. On January 10, investors purchased 19,037 shares for   $\S10.51$   each, totaling   $\mathbb{\S200,000}$  , which combined with trading profits of   $\mathbb{\S300,000}$   increasing total assets to  $\mathbb{\S}10{,}500{,}000$  . The investor contributions to the fund did not affect its  $3\%$   return for the day. On January 11, investor share purchases exceeded share redemption s by 9703. Trading losses for the day totaled  $\S200{,}000$  , producing a return of    $-1.9\%$  . The time-weighted average return for the fund is computed as follows:  
 
 $$
@@ -119,8 +119,8 @@ $\begin{array}{r}{\beta_{p}(r_{m,t}-r_{f,t})+e_{t}=\,0.073509\,+\,0.951512(r_{m,
 The regression    $t.$  -statistics are reported in parentheses below the regression coefficients. First, we can conclude that the portfolio beta (0.951512) is statistically significant at the  $1\%$  level. The portfolio has slightly less systemic (market-related) risk than the market itself. The    $r.$  -squared value suggests that slightly more than  $86\%$   of this fund’s risk premiums are driven by market risk premiums. But most importantly, we can conclude that Jensen’s alpha is positive and statistically significant at the  $1\%$   level. Thus, the fund outperformed the market on a risk-adjusted basis for the reported period. Although we have concluded statistical significance for alpha, we should question the relevance of data as old as 20 years to evaluation of current fund management.  Figure 10.1  provides a pictorial display of our results.  
 
 TABLE 10.2 Portfolio  $\boldsymbol{p}$   and Market Performance 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e8a37c86b4354b1376687ea9f6169ca605d3848b77a3158d6e893297553f156.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8e7c347fde37532013bc9cd952b91c0ad9d41856c145036a705e02732a4fd96.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e8a37c86b4354b1376687ea9f6169ca605d3848b77a3158d6e893297553f156.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8e7c347fde37532013bc9cd952b91c0ad9d41856c145036a705e02732a4fd96.jpg)  
 FIGURE 10.1 Jensen’s alpha scatter diagram.  
 
 # 10.2 MARKET TIMING VERSUS SELECTION  
@@ -132,7 +132,7 @@ Why might an investment portfolio earn consistently exceptional returns? First, 
 The CAPM concludes that there is a linear relationship between the risk premiums of well-diversified portfolios and risk premiums of the market portfolio, as in  Figure 10.1 . However, investors who correctly time the marker will shift their portfolios to lower betas during market downturns, shifting returns to be closer to the riskless rate. During market upturns, investors with strong timing ability will increase portfolio betas. Thus, for investors with strong market timing ability, the relationship between portfolio risk premiums and market risk premiums will be concave up as in  Figure 10.2 .  
 
 We return to our portfolio and market data from  Table 10.2  in the previous section. We create an additional column for   $(r_{m,t}-r_{f,t})^{2}.$  , which will serve as a second explanatory variable (see  Treynor & Mazuy, 1966 ). This new testing variable accounts for the concave up relationship between portfolio and market risk premiums that strong timers will observe. We  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be3c266170d87a47a7b1a00b456bf45ae88d9e303f44edbe6e4d243d3d631c2.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be3c266170d87a47a7b1a00b456bf45ae88d9e303f44edbe6e4d243d3d631c2.jpg)  
 FIGURE 10.2 Jensen’s alpha and timing ability.  
 
 now run a multiple regression to examine   $[r_{p,t}-r_{f,t}]$   relative to   $(r_{m,t}-r_{f,t})$   and  $(r_{m,t}-r_{f,t})^{2}$  . Our coefficient  $\upgamma_{p}$   for   $\breve{(r_{m,t}-r_{f,t})}^{2}$    reflects timing ability on the part of the manager. A positive coefficient  $\upgamma_{p}$   reflects the extent to which the manager shifts portfolios to reduce betas during periods of low market returns and the extent to which managers shift portfolio weights to increase beta during periods of high market returns. Since  $\upgamma_{p}$   below is not statistically significant, this manager does not exhibit significant market timing ability. However, because Jensen’s alpha is still positive and statistically significant, we conclude that this portfolio manager exhibits portfolio selection ability since overall performance seems superior.  
@@ -147,7 +147,7 @@ $$
 \begin{array}{r l}&{r_{q,t}-r_{f,t}\!=\!\upalpha_{q}+\upbeta_{q}(r_{m,t}-r_{f,t})+\upgamma_{q}(r_{m,t}-r_{f,t})^{2}+e_{t}}\\ &{\qquad\qquad=0.0580+1.0004(r_{m,t}-r_{f,t})+2.0425(r_{m,f}\!-\!r_{f,t})^{2}+e_{t}}\end{array}
 $$  
 TABLE 10.3 Portfolio  $q$   and Market Performance 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21494a7ed9ea5cb56191225d73c22ea537f9b9565626e440d03a7e4cfb9686c0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21494a7ed9ea5cb56191225d73c22ea537f9b9565626e440d03a7e4cfb9686c0.jpg)  
 
 Coefficients    $\upalpha_{q}$   and  $\upbeta_{q}$   are statistically significant at the   $1\%$   level and coefficient  $\upgamma_{q}$   is significant at the   $6\%$   level. Thus, portfolio    $q$   reflects both superior overall performance  $(\upalpha_{q}=0.0580)$   and likely superior timing ability   $(\gamma_{q}=2.0425\,>\,0)$  . The upward concavity of the relationship between   $(r_{q,t}-\,r_{f,t})$   and   $(r_{m,t}-\,r_{f,t})$   suggests that the investor tends to shift her portfolio beta down (and portfolio returns up towards the riskless return rate) in weak markets, and that she tends to shift her portfolio beta up (and portfolio returns up further away from the riskless return rate) in strong markets. However, in a quadratic regression such as this, the analyst needs to be careful about interpreting    $\upalpha_{q}$  . For example, a negative or statistically insignificant    $\upalpha_{q}$   in this quadratic regression should not be interpreted to imply investment performance inferior to or on par with the market, particularly if    $\upgamma_{q}$   is positive and statistically significant.  
 
@@ -207,7 +207,7 @@ Traders can practically always match VWAP by merely executing their transactions
 Suppose that a broker has been instructed to purchase 600 shares at the market. She does so, purchasing them for a total price of 30,011. Market transactions over the security’s intraday execution period are listed in  Table 10.4 . The broker’s executed transactions were the second through fourth transactions in the table. The total volume of shares exchanged was 2500, with a total value of 125,098. Hence, VWAP for these transactions was 125,098/  $2500=50.0392$  . The broker purchased 100 shares in the second transaction at  $\S50.01$  , 400 shares in the third transaction at  $\S50.02,$   and 100 shares in the fourth transaction at   $\S50.02$  . The average share price paid by the broker was   $30{,}011/600=50{.}0183$  . Our calculations suggest that the broker beat the market VWAP. However, note that she did so by purchasing early or quickly in a rising market.  
 
 TABLE 10.4 Price and Volume for VWAP Calculations 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea763bfd167acd6f0b84d39f4eab9a3e08f956d49eb4e52bc8bac4453e2a46a3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea763bfd167acd6f0b84d39f4eab9a3e08f956d49eb4e52bc8bac4453e2a46a3.jpg)  
 # 10.4 IMPLEMENTATION SHORTFALL  
 
 A delay will likely occur between the time an investor, portfolio manager or broker decides to execute a transaction and when the transaction is actually executed. This delay may increase the cost of the transaction to the investor or portfolio manager. Implementation shortfall  can be defined as the difference in prices between the ideal transaction and the actual implemented transaction. The ideal transaction price is typically based on the security price existing when the transaction decision was made, or in the case of an agency broker, at the order arrival. The difference between this decision price and the actual implemented or execution price is construed to be implementation shortfall. Implementation shortfall is indicative of the quality of the trade execution.  
@@ -236,9 +236,9 @@ The ideal portfolio profit, based on 10,000 shares, the  $\S50$   decision price
 Now, we will decompose the implementation shortfall into its various components. First, the delay to the first execution cost 0.25 per share, affecting all 10,000 shares for a total of   $\S2500$   in delay costs. The 11:03 transaction had additional per share delay costs of 0.05 for each of 1000 shares relative to the 9:31 transaction, and the 2:15 transaction had additional delay costs of   $\S0.10$   for each of 1000 shares, leading to a total of  
 
 TABLE 10.5 Implementation Shortfall Executions 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c24ed41f5e3dcbfcb3c3ae31e4c5f9c04e00fee761aba85fe8a460824869a38.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c24ed41f5e3dcbfcb3c3ae31e4c5f9c04e00fee761aba85fe8a460824869a38.jpg)  
 TABLE 10.6 Implementation Shortfall 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07b776c7cd93003d8bda429cd3fa154fc770dcc935ac92477a6c3de4ce7472cc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07b776c7cd93003d8bda429cd3fa154fc770dcc935ac92477a6c3de4ce7472cc.jpg)  
 
 $\S2500+50+100=\S2{,}650$   in total delay costs. The 5000 share transaction executed at 9:32 was particularly large and seemed to exert upward price pressure, as the price rose from 50.25 to 50.40 in about a minute. Potential price pressure is ignored on other transactions because it did not seem pronounced, and the transaction execution were sufficiently delayed relative to previous transactions to not be related. The price impact cost of this 9:32 transaction is estimated at   $5000\cdot(50.40-50.25)=\S750$  ailed to execute, with a “virtual” opportunity cost of 2000  $2000\times(50.50-50.00-0.25)=\S500,$   \$500, where 0.25 is the associated delay cost already accounted for. Thus,  Table 10.6  sums the implementation shortfall of the executions. This breakdown of the explicit and implicit implementation costs illustrates the typical magnitude of the implicit costs relative to the explicit transaction costs. To some extent, it can be difficult to assign costs to the various components, and different analysts, depending on the circumstances, may assign costs differently.  
 
@@ -271,7 +271,7 @@ Calculating, using, and interpreting  VaR  for a single asset with a known volat
 # Issues Arising with  VaR  Applications  
 
 VaR  assumptions, methodology, and applications have been heavily criticized, in large part because of  VaR ’s reliance on potentially unrealistic assumptions and giving traders  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/840aeebabe8d1d8adc9b5066c25f2ed19163a633140a50cfb55f3411d9e8f2b1.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/840aeebabe8d1d8adc9b5066c25f2ed19163a633140a50cfb55f3411d9e8f2b1.jpg)  
 FIGURE 10.3 Bottom  $1\%$   area under the normal curve.  
 
 and institutions false hopes concerning their ability to measure and control risk. Perhaps the most important of these criticisms concerns the assumption of normally distributed returns. Notice in  Figure 10.3  the depiction of the narrow tails in the normal distribution, suggesting that the most disastrous outcomes (sometimes referred to in a risk measurement context as black swans) are very unlikely (see  Taleb [2010] ). If worst-case or nearworst-case scenarios are not actually rare, those extreme situations might instead be parts of  “fat tails,”  and their probabilities might be underestimated by the thin tails consistent with a normal distribution. Thus, do consider the implications of the normal distribution before relying too heavily on the assumption of normality. Remodel with another distribution if necessary. Similarly, if standard deviation is not the best or most complete measure of variability of returns, or if variability of returns does not provide a good indicator of risk, then adapt the  VaR  methodology to a more appropriate measure of risk, and/or rely on other risk measurement methods.  
@@ -304,7 +304,7 @@ $$
   :  
 
 TABLE 10.7 Portfolio Weights and Security Characteristics 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3784818144719498ef1fbeb79692ef4f20453a13088f3d901d5745bcd4c03b8c.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3784818144719498ef1fbeb79692ef4f20453a13088f3d901d5745bcd4c03b8c.jpg)  
 We infer from this  VaR  calculation that there is a   $99\%$   chance that the loss on this million dollar portfolio will not exceed   $\S96{,}996{.}84$  , or approximately   $97\%$   of the trader’s equity capital.  
 
 # Additional Reading  
@@ -324,17 +324,17 @@ b.  What were daily returns for February 2 through February 5? c.  What was the 
 
 2.  Suppose that we wished to compute monthly returns for Fund A over a period of five months. We collect relevant end-of-month NAVs along with any dividends. The following table lists NAV’s and dividends collected for Fund A from June 30 to November 30. Following the NAV data are sample return calculations:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79a3bbbb23fdf1a461c0d7fc1ee1cafdb8f69a6c666b7f2cb1c3528c1b7b2915.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79a3bbbb23fdf1a461c0d7fc1ee1cafdb8f69a6c666b7f2cb1c3528c1b7b2915.jpg)  
 
 a.  Calculate returns for each month starting with July. b.  The following lists NAVs for Fund B. Calculate monthly returns for Fund B.  
 
 Fund B 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb6857d1fe55a225605ac399881731faf9eda603798e9d8a37a356838b33b3ea.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb6857d1fe55a225605ac399881731faf9eda603798e9d8a37a356838b33b3ea.jpg)  
 
 c.  Calculate geometric mean returns for Funds A and B. d.  Calculate time-weighted average returns for Funds A and B.
 
  3.  The following table provides historical  percentage  returns for the Patterson and Liston Funds along with percentage returns on the market portfolio (index or fund):  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab4d5167a72b1155710097cac0412cf0be9daf08c2849a8eff90e95f1dd09a40.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab4d5167a72b1155710097cac0412cf0be9daf08c2849a8eff90e95f1dd09a40.jpg)  
 
 Suppose that the riskless rate of return (or T-Bill rate) was  $3\%$   for each year. Calculate the following based on the preceding table:  
 
@@ -342,14 +342,14 @@ a.  Mean historical returns for the two funds and the market portfolio. b.  Vari
 
 4.  Historical returns for the Ripco Fund and the market portfolio along with Treasury bill (T-Bill) rates   $(r_{f})$   are summarized in the following table:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c6a17e060a1de9a54181bfd6ed875cca5d8344f56ce85f567ca30cd9b1a3c7d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c6a17e060a1de9a54181bfd6ed875cca5d8344f56ce85f567ca30cd9b1a3c7d.jpg)  
 a.  Calculate the fund beta over the 20-year period. b.  Calculate Jensen’s alpha for the fund over the 20-year period. Did the fund outperform the market during this period based on Jensen’s alpha? c.  Based on a squared market risk premium term, does the Ripco Fund demonstrate market timing ability? d.  Based on an appropriate interaction term, does the Ripco Fund demonstrate market timing ability?  
 
 5.  Many analysts argue that the Sharpe ratio is a more appropriate performance metric for an investor’s overall portfolio than for a given segment or sector of her portfolio. Prepare a statement to support this perspective.  
 
 6.  Suppose that the market for Stock X on a given date consisted of the transactions listed in the following table. The left two columns represented transactions for Stock X, excluding the broker’s orders. The right two columns consisted of the broker’s orders only, all of which were orders to buy. What was the VWAP for shares of X stock for that day? What was the VWAP excluding the broker’s own orders? How did the broker perform relative to the market for his buy transactions?  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57a10be291da502969fdc74601b5026f623b97f177ebf3e42d1a85e6144c04f4.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57a10be291da502969fdc74601b5026f623b97f177ebf3e42d1a85e6144c04f4.jpg)  
 
 7. a. On what factors does implementation shortfall depend? That is, what affects the various types of implementation costs?  
 

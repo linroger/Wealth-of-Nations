@@ -1,17 +1,13 @@
 ---
 aliases:
-- Example_Alias_A Primer On Distressed Investing -Buying Companies By Acquiring Their
+- A Primer On Distressed Investing -Buying Companies By Acquiring Their
   Debt
-- Alias_16_A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
+- A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 ---
-
-
-
-
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 
 Acquiring control of a company typically involves buying the firm's equity and then assuming its liabilities. For example,  when Chevron purchased Atlas Energy in February of 2011,  it paid Atlas's shareholders $46.53 per share for their stock and assumed the firm's debt. The net result was that Chevron paid $3.2 billion in cash and assumed $1.1 billion in net debt

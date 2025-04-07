@@ -1108,7 +1108,7 @@ $$c=\frac{pc_u+(1-p) c_d}{(1+r)}.$$
 
 In this expression the value of the call optionisthepresentvalue ofaweighted average of the call at maturity,       either $Cu$ in the up state,       or $Cd$ in the down state. It is tempting to interpret $P$ in this equation as a probability. It is
 
-![](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
+ ![500](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
 
 Figure 1: THE $\Delta$ OF A CALL OPTION IN THE BINOMIAL MODEL
 
@@ -1468,7 +1468,7 @@ Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus t
 
 Example:u=0.75,       $d=-0.25$ $r=0.25$ $x=100$
 
-![](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
+ ![500](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
 
 Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE
 
@@ -1554,7 +1554,7 @@ This is seen in Figure 1. In the diagram the call option is always to the right 
 
 If the same analysis is repeated for a put option it is found that $\Delta$ is negative and $B$ is positive. This means that replicating the put option involves
 
-![](./images/fS3aWRHCn97wSgeec43nok6ydwF4uck3Y.png)
+ ![500](./images/fS3aWRHCn97wSgeec43nok6ydwF4uck3Y.png)
 
 Figure 1: RISK-RETURN D 1 AGRAM: $(\sigma,        \mu)$
 
@@ -1572,7 +1572,7 @@ $$\mu_C-r=\Omega\beta_S (\mu_M-r).$$
 
 It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market,       so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$ .The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$ ,        since $\Omega>1$ for a call option,       it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. 2 This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$ .The security market line intercepts the vertical axis at 7 the rate ofreturn on the risk-free asset which isuncorrelatedwith the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock,       their value goes up as the stock goes down,       so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
 
-![](./images/fldFEUqZq5HbQYGRmx1yNbXhTNK4pFgWx.png)
+ ![500](./images/fldFEUqZq5HbQYGRmx1yNbXhTNK4pFgWx.png)
 
 ## Figure 2: SECURITY MARKET LINE: $(\beta,        \mu)$
 
@@ -1686,7 +1686,7 @@ $$(1+r (T))=(1+\frac{r}{n})^{nT}.$$
 
 For example consider a time period of one-year and suppose an investment of 100 that yields 120 after two years ( $T=2$ ) has arateof return $r (2)=0.2$ If the interest rate is annualised using annual compounding ( $n=1$ ，T= 2)，then $r=0.09544$ ; with semi-annual compounding $n=2$ ， $T=2$ ）the annualised interest rate is $r=0.09327$ ; with quarterly compounding ( $n=4$ $T=2$ ) the annualised interest rate is $r=0.0922075$ etc.
 
-![](./images/fSOe4IyI3HVARu6ZbngTkEnwBwnLWYtnD.png)
+ ![500](./images/fSOe4IyI3HVARu6ZbngTkEnwBwnLWYtnD.png)
 
 Figure 1: DIVIDING A TIME INTERVAL $Tl$ SUB-PERIODS
 
@@ -1774,7 +1774,7 @@ To examine the form that uncertain returns may take it is useful to think first 
 
 And one unit is lost if the coin ends up Tails. An example of the possible payoffs for a particular sequence of Heads and Tails is illustrated in Figure 2.
 
-![](./images/fWYtb8i9upM6bpaHIO6k1MYGn71wr3MpQ.png)
+ ![500](./images/fWYtb8i9upM6bpaHIO6k1MYGn71wr3MpQ.png)
 
 Figure 2: A CoIN TOsSING STOCHASTIC PROCESS
 
@@ -1801,7 +1801,7 @@ Let $u_{t}$ denote the random rate of return from period $t$ to $t+1$ .Then
 
 $$S_{t+1}=(1+u_t) S_t.$$
 
-![](./images/fmHDdcVTECfFgL1cPn1R5Z5TwHAqCpgs4.png)
+ ![500](./images/fmHDdcVTECfFgL1cPn1R5Z5TwHAqCpgs4.png)
 
 Figure 3: COIN TOSSING EXAMPLE: THE VARIANCE IS PROPORTIONAL TO TIME
 
@@ -1853,10 +1853,7 @@ So that $\mu$ is the expected continuously compounded rate of return. We will ex
 ### Standard Normal Variable
 
 We have seen that $\ln S_{T}$ is normally distributed with mean (expected value) of $\ln S_{0}+\nu T$ and variance of $\sigma^{2}T$ .It isuseful to transform this to a variable
-
-
-
-![](./images/fVlhrLk3kUTgO0H3aQwkHVBfxz1umLw8G.png)
+ ![500](./images/fVlhrLk3kUTgO0H3aQwkHVBfxz1umLw8G.png)
 
 Figure 5: A STANDARD NORMAL DISTRIBUTION. $N (0)=0.5$
 

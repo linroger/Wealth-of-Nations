@@ -32,7 +32,7 @@ where the difference between the value of exports $E X$ and the value of imports
 
 Table 14.1: Merchandise Exports and Imports by Region
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ccec148dfe25343caff293f337584ac7fb71a7c5057a9d1555214eb48a25d03.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ccec148dfe25343caff293f337584ac7fb71a7c5057a9d1555214eb48a25d03.jpg)
 
 A CIS is the Commonwealth of Independent States (Russia and its neighbors).
 
@@ -142,7 +142,7 @@ To ﬁgure out the international capital incomes,  we need to know the principal
 
 Foreign wealth is sometimes also referred to as the balance of foreigners’ net indebtedness to domestic residents,  or as the home country’s net international investment position (NIIP). If there is
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b86c9fb05138e75ca5733313c95718e97b242ac32fd98feb37b56cdadb3166ec.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b86c9fb05138e75ca5733313c95718e97b242ac32fd98feb37b56cdadb3166ec.jpg)
 
 Figure 14.1: Gross National Income and Its Components: China versus the United States
 
@@ -196,7 +196,7 @@ Once the entry is in place,  the Mexican national accounts display a [[Chapter 1
 
 Table 14.2: Mexico’s Balance of Payments After Avocado Exports to the United States
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ec027a4bf834885a11c79144221feaf760f933088f8852cd5e4d5fe7713f28a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ec027a4bf834885a11c79144221feaf760f933088f8852cd5e4d5fe7713f28a.jpg)
 
 transaction number “1.” On the other side of the border,  the U.S national accountants also get busy,  using the corresponding U.S. customs form for the avocado import. They book a CA debit valued at the U.S. dollar equivalent under the prevailing exchange rate,  resulting in a [[Chapter 14- Capital Flows and the Current Account|current account]] deﬁcit for the United States.
 
@@ -210,7 +210,7 @@ Sometimes international transactions start on the ﬁnancial side. Suppose a U.S
 
 Table 14.3: The U.S. Balance of Payments After a U.S. Resident’s Investment in a Mexican Business
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f10e6fd038c8df474c46a11b76d49df3ae15d67ada071306fde911e89458c9e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f10e6fd038c8df474c46a11b76d49df3ae15d67ada071306fde911e89458c9e.jpg)
 
 investor.) The proﬁts of the business are disbursed to the shareholders as dividends. Now suppose the national accountants in the United States receive a report stating that a U.S. resident has acquired shares worth USD 10,  000 in a Mexican farm. The accountants turn to the balance of payments and book this transaction as a ﬁnancial account (FA) credit for the check that the U.S. investor sends and,  by the rules of double-entry bookkeeping,  as a ﬁnancial account (FA) debit for the purchase of shares
 
@@ -252,7 +252,7 @@ $$
 
 As we said before,  in an open economy $S=I+C A$ because savings can be invested in two assets: domestic capital formation with domestic investment $I$ and foreign wealth accumulation through $C A$ .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/102acf96bfb2402ee7251e5fdeb4da20e97211e62e03eb1ff08ff7f0bddbf7f5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/102acf96bfb2402ee7251e5fdeb4da20e97211e62e03eb1ff08ff7f0bddbf7f5.jpg)
 
 Source : World Development Indicators 2013. Note: Stacked boxes above zero line show net capital outﬂows by ﬁnancing type; below zero line are net capital inﬂows .
 
@@ -306,7 +306,7 @@ $$
 Y_{t o m o r r o w}^{\mathrm{GDP}}=F\big (I_{t o d a y}\big).
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6505fd2c4837abd464540a0a50849160c164e38d2790f2eb12d1d1f8415cfdd3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6505fd2c4837abd464540a0a50849160c164e38d2790f2eb12d1d1f8415cfdd3.jpg)
 
 Figure 14.3: Inter temporal Production Possibilities,  Savings,  and Investment
 
@@ -344,7 +344,7 @@ How much should Friday save in total? An equivalent question is,  what is Friday
 
 For given inter temporal terms of trade,  the typical preference of a consumer sits on a ray from the origin,  such as the ray depicted with the dotted line in the right panel of Figure 14.4. Compared to the autarky point $A_{c}$ ,  resources today have become relatively cheaper for Friday at the new inter temporal terms of trade $1+r^{*}$ ,  its slope is ﬂatter than the slope of the PPF in autarky A . A relative price change like this typically means that a consumer will now want to spend a larger share of consumption on resources today. For example,  if a consumer used to spend 20 percent of her lifetime expenditures on
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7521d98c1d02967efde5a9a0101dc65f5893dcc95eea6e4910eaca173f0c7d32.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7521d98c1d02967efde5a9a0101dc65f5893dcc95eea6e4910eaca173f0c7d32.jpg)
 
 Figure 14.4: Inter temporal Trade
 
@@ -382,7 +382,7 @@ Friday beneﬁts from opening up her island to the international capital market.
 
 A similar analysis shows that Robinson also receives gains from inter temporal trade,  but let’s defer the formal derivation of his gains to the next Chapter 15. To understand the source of Robinson’s gains,  we can think back to the difference between gross domestic production (GDP) and gross national income (GNI). After having lent avocados to Friday,  Robinson has a claim on Friday’s GDP tomorrow: Some of Friday’s GDP is actually Robinson’s income GNI now. To be precise,  the interest payment $r^{*}C A_{t o d a y}$ comes out of Friday’s avocado production,  but it is Robinson’s interest income,
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdd666a5621d324942bfd6848a147a4602d5046c084b2585030ef564d79c4f63.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdd666a5621d324942bfd6848a147a4602d5046c084b2585030ef564d79c4f63.jpg)
 
 Figure 14.5: The Gains from Inter temporal Trade
 
@@ -396,7 +396,7 @@ $$
 
 In the Fisher model,  we treated consumption and investment all as private. But in reality,  there is government. A government can be part of those decisions,  using some government spending $G$ for consumption purposes and other spending for investment such as on infrastructure. A broader interpretation of the Fisher model is therefore that the consumption and investment choices are the result of both private-sector decisions and the government decisions.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c8e0e64fefb2c90001c4b300622919eadf0e0fba601f6338253ee4d05161b32.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c8e0e64fefb2c90001c4b300622919eadf0e0fba601f6338253ee4d05161b32.jpg)
 
 Source : World Development Indicators 2013.
 
@@ -418,7 +418,7 @@ $$
 
 Conversely,  in a completely closed economy,  savings per GDP $S/Y^{\mathrm{GDP}}$ equals investment per GDP
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9b8cf0b124c02d0ce332b2203a154a8c150fb06f4dfff89b29e1e837db8143a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9b8cf0b124c02d0ce332b2203a154a8c150fb06f4dfff89b29e1e837db8143a.jpg)
 
 Source : World Development Indicators 2013. Notes : Fit left panel $I/Y^{\mathrm{GDP}}=. 096+. 521\cdot S/Y^{\mathrm{GDP}}$ ( . 004) ( . 018) (134 countries),  right $I/Y^{\mathrm{GDP}}=. 117+. 313\cdot S/Y^{\mathrm{GDP}}$ (139 countries).
 
@@ -442,11 +442,11 @@ The Fisher model of inter temporal trade is our baseline model for capital marke
 
 # Key Terms
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85fb52fca975532d985a0aef7e9848574e23688798da097dcf47a61ac4008ea1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85fb52fca975532d985a0aef7e9848574e23688798da097dcf47a61ac4008ea1.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbfb97ffc37ac1d0d10ab305e9defc2aeefc87c574805ae3c229fae1217c3041.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbfb97ffc37ac1d0d10ab305e9defc2aeefc87c574805ae3c229fae1217c3041.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0630be1bd4ff455f3fa00a933418cfe39e75b187371fc2dcf6022be2dfdff0b1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0630be1bd4ff455f3fa00a933418cfe39e75b187371fc2dcf6022be2dfdff0b1.jpg)
 
 # Further Readings
 # Further Readings

@@ -3,10 +3,10 @@ title: Week 2 Fundamentals Of Forecasting
 cssclasses:
   - academia
 aliases:
-  - Alias_316_Week 2 Fundamentals Of Forecasting.md
-  - Alias_319_Week 2 Fundamentals Of Forecasting.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - finance
   - riskanalysis
   - investmentanalysis
@@ -82,15 +82,15 @@ tags:
 
 ## VOLATILE AND COMPETITIVE INDUSTRIES
 
-![](d30ee93c4be5bdc2f333d51a6cd0cc8b.png)
+ ![500](d30ee93c4be5bdc2f333d51a6cd0cc8b.png)
 
 ## LESS VOLATILE AND COMPETITIVE INDUSTRIES
 
-![](5246e2f67c8d5042a1cdbe24e535ca4b.png)
+ ![500](5246e2f67c8d5042a1cdbe24e535ca4b.png)
 
 ## METRICS BY INDUSTRY
 
-![](cabd5a82acc936b26bc09bb9527f78d4.png)
+ ![500](cabd5a82acc936b26bc09bb9527f78d4.png)
 
 ## OUTSIDE VIEW
 
@@ -128,7 +128,7 @@ view
 
 What percentage of the universe grew sales at a CAGR of 20-25% for three years?
 
-![](84834b5caa194447abc6f2ce5f2042cb.png)
+ ![500](84834b5caa194447abc6f2ce5f2042cb.png)
 
 ## ANALYST FORECASTS ANALYSTS' FORECASTS ARE TOO OPTIMISTIC
 
@@ -146,11 +146,11 @@ What percentage of the universe grew sales at a CAGR of 20-25% for three years?
 
 ### OVERCONFIDENCE IN SALES GROWTH FORECASTS
 
-![](0d99fa60d9cf8bc9d401d72db737c01d.png)
+ ![500](0d99fa60d9cf8bc9d401d72db737c01d.png)
 
 ### OVERCONFIDENCE IN EARNINGS GROWTH FORECASTS
 
-![](7b431070a92bb5845645ca5a95530443.png)
+ ![500](7b431070a92bb5845645ca5a95530443.png)
 
 Where Does Optimism Come From?
 
@@ -185,13 +185,13 @@ Where Does Optimism Come From?
 
 ## ANALYST FORECASTS: LTG ESTIMATE BIAS
 
-![](b970b731c94441906ebf3d6f09d8492f.png)
+ ![500](b970b731c94441906ebf3d6f09d8492f.png)
 
 Source: Data based on Chan et al 2003 Table 9
 
 ## LTG FORECASTS AND STOCK RETURNS
 
-![](ccc493c3bada2acd0c3134bcde5e9851.png)
+ ![500](ccc493c3bada2acd0c3134bcde5e9851.png)
 
 Source: BGLS 2017
 

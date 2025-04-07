@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_343_Credit Markets Homework 4.md
-- Alias_340_Credit Markets Homework 4.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Homework 4
 ---
-
-
-
 # Credit Markets Homework 4
 
 This homework relies on multiple files (from previous weeks):
@@ -81,9 +78,6 @@ Display (govt_combined_otr.Head ())
 # Tsy_yield_curve calibration
 Tsy_yield_curve = calibrate_yield_curve_from_frame (calc_date,            govt_combined_otr,            'midPrice')
 Tsy_yield_curve_handle = ql.YieldTermStructureHandle (tsy_yield_curve)
-
-
-
 ```
 
 <div>
@@ -1123,8 +1117,6 @@ For i in range (0,            3):
 
     Ibm_model_prices.Append (corpBondModelPrice)
     Ibm_model_yields.Append (corpBondModelYield)
-    
-    
 # Display relevant metrics
 Ibm_df['modelPrice'] = ibm_model_prices
 Ibm_df['modelYield'] = ibm_model_yields
@@ -1310,8 +1302,6 @@ Risky_bond_engine_1 bp_down = ql.RiskyBondEngine (default_prob_curve_handle,    
 Ibm_scen_prices_1 bp_down = []
 Ibm_scen_IR 01 = []
 Ibm_scen_duration = []
-
-
 # Calculate IR 01 and duration
 For i in range (0,            3):
     Fixed_rate_bond = ibm_bond_objects[i]
@@ -1330,10 +1320,8 @@ For i in range (0,            3):
     Ir 01 = (price_1 bp_down - price_base) * 1 e 4 / 100
     Duration = ir 01 / dirty_price_base * 100
 
-    Ibm_scen_IR 01.Append (ir 01)
+    Ibm_scen_IR 01. Append (ir 01)
     Ibm_scen_duration.Append (duration)
-
-
 # Display relevant metrics
 Ibm_df['scen_IR 01'] = ibm_scen_IR 01
 Ibm_df['scen_duration'] = ibm_scen_duration
@@ -1422,8 +1410,6 @@ For i in range (0,            3):
 
     Ibm_analytic_durations.Append (analytic_duration)
     Ibm_analytic_DV 01 s.Append (analytic_DV 01)
-
-
 # Display relevant metrics
 Ibm_df['analytic_DV 01'] = ibm_analytic_DV 01 s
 Ibm_df['analytic_duration'] = ibm_analytic_durations
@@ -1590,7 +1576,7 @@ For i in range (0,            3):
     # calc price diff
     Price_diff_cds_1 bp_down = price_cds_1 bp_down - price_base
     
-    Ibm_model_cs 01.Append (price_diff_cds_1 bp_down * 1 e 4 / 100)
+    Ibm_model_cs 01. Append (price_diff_cds_1 bp_down * 1 e 4 / 100)
 
 Ibm_df['CS 01'] = ibm_model_cs 01
 
@@ -1687,7 +1673,7 @@ For i in range (0,            3):
     Price_rec_1 pct_up = fixed_rate_bond.CleanPrice ()    
     Price_diff_rec_1 pct_up = price_rec_1 pct_up - price_base
     
-    Ibm_model_rec 01.Append (price_diff_rec_1 pct_up)
+    Ibm_model_rec 01. Append (price_diff_rec_1 pct_up)
 
 # Display relevant metrics
 Ibm_df['REC 01'] = ibm_model_rec 01
@@ -1727,9 +1713,6 @@ PV_{CDS} = PV_{CDS\_PL} - PV_{CDS\_DL}
 $$\begin{align}
 CDS\_ParSpread = c \cdot \frac{PV_{CDS\_DL}}{PV_{CDS\_PL}} \simeq \left (1-R\right)\cdot h
 \end{align}$$
-
-
-
 ```python
 Def calc_perpetual_cds_premium_leg_pv (c,            r,            h,            R,            face):
     Return (c / 4 / (np.Exp ((r+h)/4)-1) * face)
@@ -1745,9 +1728,6 @@ Def calc_perpetual_cds_par_spread (c,            r,            h,            R, 
 ```
 
 ## a. Compute the fair value of the CDS premium and default legs.
-
-
-
 ```python
 # Constant model parameters
 R = 0.04
@@ -1766,11 +1746,7 @@ Print ('perpetual_cds_default_leg_pv: ',            round (perpetual_cds_default
 ```
 
     Perpetual_cds_premium_leg_pv: 99.38
-
-
 ## b. Compute the CDS PV and the CDS Par Spread.
-
-
 ```python
 Perpetual_cds_pv = calc_perpetual_cds_pv (c,            r,            h,            R,            face)
 Print ('perpetual_cds_pv: ',            round (perpetual_cds_pv,            2))
@@ -1787,17 +1763,12 @@ Print ('perpetual_cds_par_spread_approx_bps: ',            round (perpetual_cds_
     Perpetual_cds_pv: 87.38
     Perpetual_cds_par_spread_bps: 60.38
     Perpetual_cds_par_spread_approx_bps: 60.0
-
-
 ## c. Compute the following CDS risk sensitivities:
 - IR 01 (PV sensitivity to Interest Rate change of '-1 bp')
 - HR 01 (PV sensitivity to Hazard Rate change of '-1 bp')
 - REC 01 (PV sensitivity to Recovery Rate change of '+1%')
 
 Using the scenario method.
-
-
-
 ```python
 # CDS IR 01 
 R_1 bp_down = r - 0.0001
@@ -1822,23 +1793,17 @@ R_1 pct_up = R + 0.01
 Perpetual_cds_pv_R_1 pct_up = calc_perpetual_cds_pv (c,            r,            h,            R_1 pct_up,            face)
 Perpetual_cds_rec 01 = perpetual_cds_pv_R_1 pct_up - perpetual_cds_pv
 Print ('perpetual_cds_rec 01 ($): ',            round (perpetual_cds_rec 01,            2))
-
-
 ```
 
     Perpetual_cds_ir 01 ($): 0.18
     Perpetual_cds_hr 01 ($): 0.3
     Perpetual_cds_cs 01 ($): 0.49
     Perpetual_cds_rec 01 ($): 0.2
-
-
 ## d. At what time T does the (implied) default probability over next 10 years drop to 1%?
 
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,            T+10] \right) = 1/100
 \end{align}$$
-
-
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,            T+10] \right)
 \end{align}$$
@@ -1854,8 +1819,6 @@ $$\begin{align}
 $$\begin{align}
 = e^{-h \cdot T}\cdot \left (1 - e^{-h \cdot 10} \right).
 \end{align}$$
-
-
 $$\begin{align}
 \mathbb{P} \left (\tau \in [T,            T+10] \right) = 1/100
 \end{align}$$
@@ -1867,8 +1830,6 @@ $$\begin{align}
 $$\begin{align}
 \iff T = \frac {\ln \left (100 \cdot \left (1 - e^{-h \cdot 10} \right) \right)} {h}
 \end{align}$$
-
-
 ```python
 # Calc T:
 T = np.Log (100*(1-np.Exp (-h*10)))/h
@@ -1876,8 +1837,6 @@ Print ('T =',            T)
 ```
 
     T = 225.3001724944001
-
-
 -----------------------------------------------------------
 # Problem 4: Nelson-Siegel model for smooth hazard rate curves
 
@@ -1892,8 +1851,6 @@ Load the symbology + market data dataframes and create a combined dataframe for 
 Sort the dataframe by bond maturity and display the head of the dataframe.
 
 Plot the VZ yields (Y-axis) by TTM (X-axis).
-
-
 ```python
 # Corp_symbology_vz
 Corp_symbology_vz = bond_symbology[(bond_symbology. Ticker == 'VZ') & (bond_symbology. Cpn_type == 'FIXED') & (bond_symbology. Amt_out > 100)]
@@ -1911,8 +1868,6 @@ Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond TTM')
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -2079,30 +2034,13 @@ Plt. Set_xlabel ('Bond TTM')
 </table>
 <p>5 rows × 33 columns</p>
 </div>
-
-
-
-
-
     Text (0.5,            0,            'Bond TTM')
-
-
-
-
-    
 ![png](CreditMarketSolutions_279_2.png)
-    
-
-
 ## b. Create the Nelson-Siegel curve shape (4 parameters) and compute the corresponding SSE function.
 For a given set of parameters,            write a function to compute the SSE "Sum of Squared Errors" penalty function in price space (defined as sum of squared differences between model and market prices for all Verizon fixed-rate bonds).
-
-
 For each bond,            compute the bond DV 01,            using Section "9. Analytical Duration" in the QuantLib Basics notebook as a template.
 
 Use 1/DV 01 as SSE weights,            as discussed in Lecture 3. You can ignore the liquidity adjuster for the purpose of this exercise.
-
-
 ```python
 Def nelson_siegel (params,            maturity):
     ''' params = (theta 1,            theta 2,            theta 3,            lambda)'''        
@@ -2132,8 +2070,6 @@ Def create_nelson_siegel_curve (calc_date,            nelson_siegel_params):
     Nelson_siegel_credit_curve_handle = ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)
     
     Return (nelson_siegel_credit_curve_handle)
-
-
 Def calculate_nelson_siegel_model_prices_and_yields (nelson_siegel_params,            
                       Calc_date,            
                       Fixed_rate_bond_objects,            
@@ -2182,14 +2118,10 @@ Def nelson_siegel_sse (nelson_siegel_params,
         Sse += model_error * model_error * calib_weights[i]                        
     
     Return (sse)    
-
-
 Def create_bonds_and_weights (bond_details,            tsy_yield_curve_handle):
     
     # risk_free_bond_engine
     Risk_free_bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_handle)
-
-
     Fixed_rate_bond_objects = []
     Bond_market_prices = []    
     Bond_yields = []
@@ -2221,8 +2153,6 @@ Def create_bonds_and_weights (bond_details,            tsy_yield_curve_handle):
     Return (fixed_rate_bond_objects,            calib_weights,            bond_market_prices,            bond_yields,            bond_DV 01 s,            bond_durations)
 
 ```
-
-
 ```python
 # Bond_recovery_rate
 Bond_recovery_rate = 0.4
@@ -2248,9 +2178,6 @@ Print ('initial_sse =',            initial_sse)
 ```
 
     Initial_nelson_siegel_params: [0.03,            -0.01,            0.02,            5.0]
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -2314,11 +2241,7 @@ Print ('initial_sse =',            initial_sse)
   </tbody>
 </table>
 </div>
-
-
     Initial_sse = 25.591932200527502
-
-
 ## c. Calibrate the Nelson-Siegel model parameters to obtain the smooth Verizon credit curve.
 
 Use the US "on-the-run" Treasury yield curve (already calibrated in Problem 1) for risk-free discounting.
@@ -2326,8 +2249,6 @@ Use the US "on-the-run" Treasury yield curve (already calibrated in Problem 1) f
 Minimize the SSE (pricing error) function to obtain the optimal/calibrated Nelson-Siegel parameter vector. 
 
 Create the calibrated/smooth credit curve corresponding to the optimal model parameters.
-
-
 ```python
 From scipy. Optimize import minimize
 
@@ -2351,14 +2272,8 @@ Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,
                                                     Tsy_yield_curve_handle,            
                                                     Bond_recovery_rate),           
                                             Bounds = param_bounds)
-
-
     Return (calib_results)
-
-
 ```
-
-
 ```python
 # Calibrate_nelson_siegel_model
 Calib_results = calibrate_nelson_siegel_model (initial_nelson_siegel_params,            calc_date,            vz_df,            tsy_yield_curve_handle,            bond_recovery_rate)
@@ -2389,8 +2304,6 @@ Print ('initial_sse =',            round (initial_sse,            3),           
      hess_inv: <4x4 LbfgsInvHessProduct with dtype=float64>
     Calib_nelson_siegel_params: [ 2.11506077 e-02 -2.07855183 e-02 -1.99811247 e-06  2.65774329 e+00]
     Initial_sse = 25.592 calib_sse = 0.21
-
-
 ## d. Compute smooth model prices,            yields and "edges"
 
 Price all Verizon bonds on the calibrated credit curve and compute the corresponding model yields and edges.
@@ -2399,9 +2312,6 @@ Add following columns to the dataframe and display the head of the results:
 
 | modelPrice | modelYield | edgePrice | edgeYield |
 |----------|----------|----------|----------|
-
-
-
 ```python
 # Price all Verizon bonds on the calibrated credit curve and compute the corresponding yields.
 Bond_model_prices,            bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (calib_nelson_siegel_params,            calc_date,            fixed_rate_bond_objects,            tsy_yield_curve_handle,            bond_recovery_rate)
@@ -2414,8 +2324,6 @@ Vz_df['edgeYield'] = vz_df['modelYield'] - vz_df['midYield']
 display (vz_df [['security',            'midPrice',           'initModelPrice',            'modelPrice',            'edgePrice']]. head ())
 display (vz_df [['security',            'midYield',           'initModelYield',            'modelYield',            'edgeYield']]. head ())
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -2485,9 +2393,6 @@ display (vz_df [['security',            'midYield',           'initModelYield', 
   </tbody>
 </table>
 </div>
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -2557,8 +2462,6 @@ display (vz_df [['security',            'midYield',           'initModelYield', 
   </tbody>
 </table>
 </div>
-
-
 ## e. Visualize the results of the calibrated credit model
 
 Plot the model vs market prices (Y-axis) by maturity (X-axis).
@@ -2568,8 +2471,6 @@ Plot the model vs market yields (Y-axis) by maturity (X-axis).
 Plot the edges in yield space (Y-axis) by maturity (X-axis).
 
 What do you think about the quality of the model fit?
-
-
 ```python
 # Plot the model vs market prices (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',            y = ['midPrice',            'modelPrice'],            figsize = (12,            6),            title = "Market vs Model Prices",            grid=True,            style='*')
@@ -2577,21 +2478,8 @@ Plt. Set_ylabel ('Bond Prices (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,            0,            'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_289_1.png)
-    
-
-
-
 ```python
 # Plot the model vs market yields (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',            y = ['midYield',            'modelYield'],            figsize = (12,            6),            title = "Market vs Model Yields (pct)",            grid=True,            style='*')
@@ -2599,21 +2487,8 @@ Plt. Set_ylabel ('Bond Yields (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,            0,            'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_290_1.png)
-    
-
-
-
 ```python
 # Plot the edges in yield space (Y-axis) by maturity (X-axis).
 Plt = vz_df.Plot (x='maturity',            y = ['edgeYield'],            figsize = (12,            6),            title = "Model Edges in yield space (pct)",            grid=True,            style='*')
@@ -2622,19 +2497,7 @@ Plt. Set_ylabel ('Yield Edge (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 
 ```
-
-
-
-
     Text (0.5,            0,            'Bond Maturity')
-
-
-
-
-    
 ![png](CreditMarketSolutions_291_1.png)
-    
-
-
 ### What do you think about the quality of the model fit?
 Model fit looks good,            given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 Nelson-Siegel model parameters.

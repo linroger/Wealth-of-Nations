@@ -1,7 +1,16 @@
 ---
-aliases: [Alias_182_Binomial Option Pricing.md,  Alias_183_Binomial Option Pricing.md,  BINOMIAL OPTION PRICING]
-linter-yaml-title-alias: BINOMIAL OPTION PRICING
-tags: [tag_example]
+aliases:
+  - Binomial Option Pricing
+linter-yaml-title-alias: Binomial Option Pricing
+tags:
+  - "#financial-markets"
+  - "#financial-instruments"
+  - "#financial-derivatives"
+  - "#economics"
+  - "#quantitative-finance"
+  - "#option-pricing"
+  - "#binomial-model"
+  - "#risk-neutral-valuation"
 title: Binomial Option Pricing
 ---
 
@@ -13,7 +22,7 @@ title: Binomial Option Pricing
 	- [[Teaching Note 4-Multiperiod Binomial Trees]]
 	- [[Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]
 
-# Binomial Option Pricing
+# [[Financial Instruments/Binomial Option Pricing Model|Binomial Option Pricing]]
 ## BINOMIAL OPTION PRICING: BASIC CONCEPTS I
 
 In this chapter we discuss the binomial option pricing model,  with which we can compute the price of an option,  given the characteristics of the stock or other underlying asset.
@@ -175,7 +184,7 @@ Let S be the stock price today. We can write the stock price as uS when the stoc
 ```
 
 In this tree$u$is interpreted as one plus the rate of capital gain on the stock if it goes up,  and$d$is one plus the rate of capital loss if it goes down. (If there are dividends,  the total return is the capital gain or loss,  plus the dividend.)
-Let${}  C_u$and${}  {} C_d$represent the value of the option when the stock goes up or down,  respectively. The tree for the stock implies a corresponding tree for the value of the option:
+Let${}  C_u$and${} C_d$represent the value of the option when the stock goes up or down,  respectively. The tree for the stock implies a corresponding tree for the value of the option:
 
 ```tikz
 \usepackage{tikz-cd}
@@ -212,23 +221,21 @@ Given the expressions for$\Delta$and$B$,  we can derive a simple formula for the
 
  $$
  \Delta S + B = \frac { C _ { u } - C _ { d } } { e ^ { \delta h } ( u - d ) } + \frac { uC_ { d } - d C_ { u } } { e ^ { r h } ( u - d ) }
- 
- 
  $$
 
 1. To simplify the equation,  factor out common terms in both fractions:$$\Delta S + B = \frac{1}{e^{\delta h}(u-d)}(C_u-C_d) + \frac{1}{e^{rh}(u-d)}(uC_d-dC_u)$$
-1. To simplify the equation,  factor out common terms in both fractions:
-1. Recognize that$e^{\delta h}$and$e^{rh}$can be combined as follows since they appear in denominators:
-1. To simplify the equation,  factor out common terms in both fractions:$$\Delta S + B = \frac{1}{e^{\delta h}(u-d)}(C_u-C_d) + \frac{1}{e^{rh}(u-d)}(uC_d-dC_u)$$
-1. To simplify the equation,  factor out common terms in both fractions:
-1. Recognize that$e^{\delta h}$and$e^{rh}$can be combined as follows since they appear in denominators:
-1. Combine exponents of$e$using properties of exponents ($a^m a^n = a^{m+n}$):
-1. Notice that$e^{-r h} e^{\delta h}=e^{-(r-\delta)h}$,  then insert it back into the equation:$$
+2. To simplify the equation,  factor out common terms in both fractions:
+3. Recognize that$e^{\delta h}$and$e^{rh}$can be combined as follows since they appear in denominators:
+4. To simplify the equation,  factor out common terms in both fractions:$$\Delta S + B = \frac{1}{e^{\delta h}(u-d)}(C_u-C_d) + \frac{1}{e^{rh}(u-d)}(uC_d-dC_u)$$
+5. To simplify the equation,  factor out common terms in both fractions:
+6. Recognize that$e^{\delta h}$and$e^{rh}$can be combined as follows since they appear in denominators:
+7. Combine exponents of$e$using properties of exponents ($a^m a^n = a^{m+n}$):
+8. Notice that$e^{-r h} e^{\delta h}=e^{-(r-\delta)h}$,  then insert it back into the equation:$$
 
 $$
-18. Finally,  recognize this is equivalent to the desired form by observing that each term involving \( C_{u} \) and \( C_{d} \) has been properly placed within its respective fraction,  giving us: 
-19. Finally,  recognize this is equivalent to the desired form by observing that each term involving \( C_{u} \) and \( C_{d} \) has been properly placed within its respective fraction,  giving us: $$\boxed{\Delta S+B=e^{-rh}\left(C_u\frac{e^{(r-\delta)h}-d}{u-d}+C_d\frac{u-e^{(r-\delta)h}}{u-d}\right)}.$$
-20. Finally,  recognize this is equivalent to the desired form by observing that each term involving $C_{u}$  and $C_{d}$ has been properly placed within its respective fraction,  giving us: $$\Delta S + B = e^{-rh} \left(\frac{e^{(r- \delta) h}S - d}{u - d} C_u + \frac{u - e^{(r- \delta) h}S}{u - d} C_d \right) \tag{3}$$
+1. Finally,  recognize this is equivalent to the desired form by observing that each term involving \( C_{u} \) and \( C_{d} \) has been properly placed within its respective fraction,  giving us: 
+2. Finally,  recognize this is equivalent to the desired form by observing that each term involving \( C_{u} \) and \( C_{d} \) has been properly placed within its respective fraction,  giving us: $$\boxed{\Delta S+B=e^{-rh}\left(C_u\frac{e^{(r-\delta)h}-d}{u-d}+C_d\frac{u-e^{(r-\delta)h}}{u-d}\right)}.$$
+3. Finally,  recognize this is equivalent to the desired form by observing that each term involving $C_{u}$  and $C_{d}$ has been properly placed within its respective fraction,  giving us: $$\Delta S + B = e^{-rh} \left(\frac{e^{(r- \delta) h}S - d}{u - d} C_u + \frac{u - e^{(r- \delta) h}S}{u - d} C_d \right) \tag{3}$$
 
 The assumed stock price movements,  u and d,  should not give rise to arbitrage opportunities. In particular,  we require that$u>e^{(r-\delta)h}>d\tag{4}$
 
@@ -307,12 +314,9 @@ We have earned the amount by which the option was mispriced and hedged the risk 
 ## A GRAPHICAL INTERPRETATION OF THE BINOMIAL FORMULA
 
 The binomial solution for  and B,  equations (1) and (2),  is obtained by solving two equations in two unknowns. Letting Ch and Sh be the option and stock value after one binomial period,  and supposing δ = 0,  the equations for the portfolio describe a line with and by construction goes through both points E and calculated as Rise Run between points E and D,  which gives the formula for the formula$$
-The binomial solution for  and B,  equations (1) and (2),  is obtained by solving two equations in two unknowns. Letting Ch and Sh be the option and stock value after one binomial period,  and supposing δ = 0,  the equations for the portfolio describe a line with and by construction goes through both points E and calculated as Rise Run between points E and D,  which gives the formula for the formula C_h = \Delta × S_h + e^{rh}B
-The binomial solution for  and B,  equations (1) and (2),  is obtained by solving two equations in two unknowns. Letting Ch and Sh be the option and stock value after one binomial period,  and supposing δ = 0,  the equations for the portfolio describe a line with and by construction goes through both points E and calculated as Rise Run between points E and D,  which gives the formula for the formula
-The binomial solution for  and B,  equations (1) and (2),  is obtained by solving two equations in two unknowns. Letting Ch and Sh be the option and stock value after one binomial period,  and supposing δ = 0,  the equations for the portfolio describe a line with and by construction goes through both points E and calculated as Rise Run between points E and D,  which gives the formula for the formula
-The binomial solution for  and B,  equations (1) and (2),  is obtained by solving two equations in two unknowns. Letting Ch and Sh be the option and stock value after one binomial period,  and supposing δ = 0,  the equations for the portfolio describe a line with and by construction goes through both points E and calculated as Rise Run between points E and D,  which gives the formula for the formula$$
+ C_h = \Delta × S_h + e^{rh}B$$
 
-![](IMG-20240913171226944.png)
+ ![500](IMG-20240913171226944.png)
 
 This is graphed as line *AED* in Figure 2,  which shows the option payoff as a function of the stock price at expiration.
 
@@ -320,7 +324,7 @@ We choose  and B to yield a portfolio that pays$C_d$when$S_h = dS$and$C_u$when$
 
 You can see by looking at Figure 2 that *any* line replicating a call will have a positive slope (> 0) and a negative intercept (B < 0). As an exercise,  you can verify graphically that a portfolio replicating a put would have negative slope (< 0) and positive intercept(B > 0).
 
-## RISK-NEUTRAL PRICING
+## [[Financial Instruments/Financial Derivatives and Quantitative Methods/Risk Neutral Pricing of Options|RISK-NEUTRAL PRICING]]
 
 In the preceding option price calculations,  we did not make use of (nor did we discuss) the probability that the stock price would move up or down. The strategy of holding  shares and B bonds replicates the option payoff whichever way the stock moves,  so the probability of an up or down movement is irrelevant for computing S + B,  which is the option price.
 
@@ -454,7 +458,7 @@ are given. Option price in *bold italic* signifies that exercise is optimal at t
 
 We began this section by assuming that the stock price followed the binomial tree in Figure 1. The up and down stock prices of$30 and$60 were selected to make the example easy to follow. Now we present an example where everything is the same except that we use equation (9) to construct the up and down moves.
 
-Suppose volatility is 30%. Since the period is 1 year,  we have h = 1,  so that σ√h = 0.30. We also have $S_0$  =$41,  r = 0.08,  and δ = 0. Using equation (9),  we get$$dS =$41e(0.08−0)×1−0.3× √ 1 =$32.903 (18)$$
+Suppose volatility is 30%. Since the period is 1 year,  we have h = 1,  so that σ√h = 0.30. We also have $S_0  =\$41,  r = 0.08,  \ and \ δ = 0.$ {}$ Using equation (9),  we get $$dS =$41e(0.08−0)×1−0.3× √ 1 =$32.903 (18)$$
 
 Because the binomial tree is different than in Figure 1,  the option price will be different as well.
 Using the stock prices given in equation (18),  we have $u = \$\frac{59.954}{\$41} = 1.4623$ and d =$32.903/$41= 0.8025. With K =$40,  we have Cu =$59.954 −$40 =$19.954,  and Cd = 0. Using equations (1) and (2),  we obtain
@@ -478,7 +482,7 @@ We now see how to extend the binomial tree to more than one period. We begin by 
 
 We begin first by adding a single period to the tree in Figure 3; the result is displayed in Figure 4. We can use that tree to price a 2-year option with a$40 strike when the current stock price is$41,  assuming all inputs are the same as before.
 
-Since we are increasing the time to maturity for a call option on a non-dividend-paying stock,  we expect the option premium to increase. In this example the two-period tree will give us a price of$10.737,  compared to$7.839 in Figure 3.
+Since we are increasing the time to maturity for a call option on a non-dividend-paying stock,  we expect the option premium to increase. In this example the two-period tree will give us a price of $10.737,  compared to $7.839 in Figure 3.
 
 Constructing the Tree.
 
@@ -694,7 +698,7 @@ $$e^{-0.323\times1/3}\left[0.5247\times\$22.202+(1-0.5247)\times\$5.700\right]=\
 The actual discount rate for the option changes as we move down the tree at a point in time and also over time. The required return on the option is less when the stock price is$61.149(26.9\%)$than when it is$43.246(49.5\%)$. The discount rate increases as the stock price decreases because the option is equivalent to a leveraged position in the stock,  and the degree of leverage increases as the option moves out of the money.
 These examples illustrate that it is possible to obtain option prices using standard discounted-cash-flow techniques. Generally,  however,  there is no reason to do so. Moreover,  the fact that risk-neutral pricing works means that it is not necessary to estimate$\alpha$,  the expected return on the stock,  when pricing an option. Since expected returns are hard to estimate precisely,  this makes option pricing a great deal easier.
 Appendix B goes into more detail about risk-neutral pricing.
-## 3. THE BINOMIAL TREE AND LOGNORMALITY
+## 3. THE BINOMIAL TREE AND [[Advanced Investments/Lecture 1- Probability Distributions of Returns|LOGNORMALITY]]
 The usefulness of the binomial pricing model hinges on the binomial tree providing a reasonable representation of the stock price distribution. In this section we discuss the motivation for and plausibility of the binomial tree. We will define a lognormal distribution and see that the binomial tree approximates this distribution.
 ## THE RANDOM WALK MODEL
 It is sometimes said that stock prices follow a random walk. More precisely,  a random walk provides a foundation for modeling the prices of stocks and other assets. In this section,  we will explain what a random walk is. In the next section,  we use the random walk model to build a model of stock prices.

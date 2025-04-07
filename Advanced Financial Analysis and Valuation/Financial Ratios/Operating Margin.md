@@ -3,12 +3,10 @@ title: Operating Margin
 cssclasses:
   - academia
 aliases:
-  - Alias_305_Operating Margin What It Is and the Formula for Calculating It
   - With Examples.md
-  - Alias_308_Operating Margin What It Is and the Formula for Calculating It
   - With Examples.md
 tags:
-  - tag_example
+
   - finance
   - investmentanalysis
   - financialanalysis

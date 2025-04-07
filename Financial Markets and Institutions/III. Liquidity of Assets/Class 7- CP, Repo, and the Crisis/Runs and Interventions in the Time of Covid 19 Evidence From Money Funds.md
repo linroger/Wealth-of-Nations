@@ -1,11 +1,11 @@
 ---
 aliases:
-- Alias_40_Runs and Interventions in the Time of Covid 19 Evidence From Money Funds.md
-- Example_Alias_Runs and Interventions in the Time of Covid 19 Evidence From Money
+- Runs and Interventions in the Time of Covid 19 Evidence From Money Funds.md
+- Runs and Interventions in the Time of Covid 19 Evidence From Money
   Funds
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
 ---
 
@@ -299,11 +299,11 @@ Panel (a) shows the evolution of the S&P 500 index and the yield spreads of inve
 
 (a) Equity Prices and Bond Yield Spreads
 
-![](https://storage.simpletex.cn/view/f9H1ZFxpOtxWw5GKDm8g8gbqvfCQRIlrk)
+ ![500](https://storage.simpletex.cn/view/f9H1ZFxpOtxWw5GKDm8g8gbqvfCQRIlrk)
 
 (b) Yield Spreads on l-month [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|CP]] & CD (in basis points)
 
-![](https://storage.simpletex.cn/view/fctmCWae9f7rHwfQocLNl9wBe5dWpa9yz)
+ ![500](https://storage.simpletex.cn/view/fctmCWae9f7rHwfQocLNl9wBe5dWpa9yz)
 Note: Yield spreads are calculated as three-day moving averages
 
 # Figure 2: Runs on MMFs during the Covid-19 Crisis
@@ -312,19 +312,19 @@ Panel (a) plots the AUMs of institutional and retail prime MMFs,  as well as off
 
 (a) Runs on Prime MMFs
 
-![](https://storage.simpletex.cn/view/ftdOl2HqcaM0Gds72fPVF5WkliDwpCKUp)
+ ![500](https://storage.simpletex.cn/view/ftdOl2HqcaM0Gds72fPVF5WkliDwpCKUp)
 Assets for each fund type are normalized to be 1 on Feb 24,  2020
 
 (b) Runs on low-WLA Prime MMFs
 
-![](https://storage.simpletex.cn/view/fxICgNS7W64p8iFnfOt4uEmKTAr3MHLNx)
+ ![500](https://storage.simpletex.cn/view/fxICgNS7W64p8iFnfOt4uEmKTAr3MHLNx)
 Note: Assets in each WLA groups are normalized to be 1 on Feb 24,  2020
 
 # Figure 3: Comparison of Three MMF Runs
 
 The chart shows runs on institutional prime MMFs during the 2008 financial crisis (September 1030,  2008),  2011 Eurozone sovereign debt crisis (June 10-August 1,  2011),  and the 2020 Covid-19 crisis (March 624,  2020),  with AUMs for each crisis normalized to one on date zero of the crisis.
 
-![](https://storage.simpletex.cn/view/f5Olkw7VRA4TxnRhBoiPQFRO4n2Gho2BE)
+ ![500](https://storage.simpletex.cn/view/f5Olkw7VRA4TxnRhBoiPQFRO4n2Gho2BE)
 Note: AUMs for each crisisare normalized to be 1 on date 0 of the crisis
 
 ### Table 1: Summary Statistics - MMF Runs

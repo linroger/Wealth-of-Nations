@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_343_Basic Usage of QuantLib analytics library.md
-- Alias_346_Basic Usage of QuantLib analytics library.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Basic Usage of QuantLib analytics library
 ---
-
-
-
 # Basic Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/
 
@@ -92,14 +89,10 @@ Todays_date = ql.Date.TodaysDate ()
 Test_date = todays_date + 90
 Print ('todays_date =',         todays_date)
 Print ('test_date =',         test_date)
-
-
 # Calendars
 Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 Holiday_list = list (calendar.HolidayList (todays_date,         test_date))
 Print ('holiday_list =',         holiday_list)
-
-
 # Day count conventions
 Day_count = ql. Actual 360 ()
 Print ('day_count =',         day_count)
@@ -237,8 +230,6 @@ Print ("Year Fraction between Reference Date and Test Date : ",         yearFrac
 Print ("Discount Factor for Test Date",         test_date,         ": ",         flat_yield_curve.Discount (test_date))
 Print ("custom DF calculation for Test Date",         test_date,         ": ",         np.Exp (-flat_rate.Value () * yearFrac))
 Print ("Difference in Discount Factor: ",         flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))
-
-
 ```
 
     Reference Date = April 2 nd,         2024
@@ -260,8 +251,6 @@ Day_count_corp_fixed = ql. Thirty 360 (ql. Thirty 360. USA)
 
 # Day_count: ACT/360 for floating-rate bonds
 Day_count_floater = ql. Actual 360 ()
-
-
 # Settlement_days: 1 for Govt bonds
 Settlement_days_govt = 1
 
@@ -281,8 +270,6 @@ Payment_convention = ql. Unadjusted
 
 # Face_value
 Face_value = 100
-
-
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (
@@ -330,8 +317,6 @@ Sofr_index = ql.Sofr (sofr_term_structure_handle)
 Im.ClearHistory (sofr_index.Name ())
 Sofr_index.AddFixing (ql.Date (28,         ql. March,         2024),         5/100)
 Sofr_index.AddFixing (ql.Date (1,         ql. April,         2024),         5/100)
-
-
 # Floating_rate_bond
 Floating_rate_bond = ql.FloatingRateBond (settlement_days,        
                                 Face_value,        
@@ -579,8 +564,6 @@ Print ("Price diff in -1 bps scenario: ",         round (price_down_1 bp - price
 
  # Remove interest rate bump
 Interest_rate_bump.SetValue (0)
-
-
 ```
 
     Price (base case):  95.9356
@@ -601,9 +584,6 @@ Convexity = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,         4)
 Print ("DV 01: ",         dv 01)
 Print ("Duration: ",         duration)
 Print ("Convexity: ",         convexity)
-
-
-
 ```
 
     DV 01:  3.6283
@@ -616,8 +596,6 @@ Print ("Convexity: ",         convexity)
 # Use original interest rate yield of 5%
 # Flat_rate.SetValue (0.05)
 Print ('Bond PV for',         flat_rate.Value ()*100,         'pct yield: ',         round (fixed_rate_bond.NPV (),         4))
-
-
 # Change interest rate yield to 6% and recompute bond PV
 Flat_rate.SetValue (0.06)
 Print ('Bond PV for',         flat_rate.Value ()*100,         'pct yield: ',         round (fixed_rate_bond.NPV (),         4))
@@ -645,8 +623,6 @@ Print ('day_counter =',         day_counter)
 Print ('coupon_freq =',         coupon_freq)
 Print ('calc_date =',         calc_date)
 Print ('settle_date =',         settle_date)
-
-
 Implied_yield = fixed_rate_bond.BondYield (bond_market_price,         day_counter,         compounding,         coupon_freq,         settle_date) * 100
 Print ('implied_yield =',         round (implied_yield,         4))
 ```
@@ -726,8 +702,6 @@ Print ('bond price diff =',         bond_zspread_price - bond_market_price)
 # Clean price quote
 Tsy_clean_price_quote = 96.0
 Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
-
-
 # Create BondHelper object
 Bond_helper = ql.BondHelper (
     Tsy_clean_price_handle,        
@@ -963,12 +937,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,         0,         'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_101_1.png)
 
 ![png](CreditMarketSolutions_101_2.png)

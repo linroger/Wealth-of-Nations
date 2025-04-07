@@ -2,8 +2,6 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_374_Teaching Note 2- Interest Rate Risk Management And Factors.md
-  - Alias_377_Teaching Note 2- Interest Rate Risk Management And Factors.md
   - TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 tags:
@@ -28,16 +26,16 @@ tags:
   - pca-in-finance
   - quantitative-finance
   - risk-management
-  - tag_example
+
 title: Teaching Note 2Interest Rate Risk Management And Factors
 ---
 
-![](9d5e1f9101a284fff965c5728068e694.webp)
+ ![500](9d5e1f9101a284fff965c5728068e694.webp)
 
 - Interest rates vary quite dramatically over time.
 ## INTEREST RATE RISK MANAGEMENT
 
-![](508c4b601dd8f61c1d50be915c6d5c21.webp)
+ ![500](508c4b601dd8f61c1d50be915c6d5c21.webp)
 
 - … and so do bond prices.
 ## INTEREST RATE RISK MANAGEMENT: DURATION
@@ -135,7 +133,7 @@ $$PVBP=-\frac{dF}{dy}\times0.0001=MD\times P\times0.0001$$
 - Profits (Losses) =$(A) + (B) + (C) + (D) = (3,           251)$
 - The trader lost money,  even if the spread did increase.
 - The reason are the transaction costs,  such as [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spreads]] in the Treasury market and in the Repo market.
-## MARKET DATA AT TIME$T$
+## MARKET DATA AT TIME $T$
 - **30-year T-Bond**
 		  - Bid: 108.8405
 		  - Ask: 108.903
@@ -149,7 +147,7 @@ $$PVBP=-\frac{dF}{dy}\times0.0001=MD\times P\times0.0001$$
 		  - Accrued Interest:
 		  - PVBP: 187.3602
 - ![|500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060007687.png)
-## MARKET DATA AT TIME$T + 2$
+## MARKET DATA AT TIME $T + 2$
 - **30-year T-Bond**
 		  - Bid: 109.8076
 		  - Ask: 109.8701
@@ -162,7 +160,7 @@ $$PVBP=-\frac{dF}{dy}\times0.0001=MD\times P\times0.0001$$
 		  - Yield: 5.18%
 		  - Accrued Interest:
 		  - PVBP: 187.4086
-- ![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060056789.webp)
+-  ![500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060056789.webp)
 ## OBSERVATIONS AND CONCLUSIONS
 - The new spread is 270 basis points,  hence the view was right.
 - Did the trader png any money? No,  due to transaction costs.
@@ -266,12 +264,12 @@ $$P_{c}(t,           T)={\frac{c}{2}}\sum\limits_{i=1}^{n}Z(t,           T_{i})+
 - where wi are the same as in previous slide.
 - Given D and C,  a better approximation of the return of a security is
 $${\frac{d\ P}{P}}\approx-D\ d r+{\frac{1}{2}}\ C\ d r^{2}\tag{5}$$
-![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055320856.png)
+ ![500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055320856.png)
 ## POSITIVE CONVEXITY: GOOD NEWS FOR AVERAGE RETURNS
 - Suppose we have invested$100 million in a 20-year zeropngon bond.
 - Using Equation (5) and given D = 20 and C = 202 = 400,  we find$$\left[\frac{dF}{P}\right]\approx-20\times E[dr]+\frac{1}{2}\times400\times E[dr^{2}]\tag{6}$$
 - Predicting variation in interest rates over a short period (daily) is very hard. So,  $E[dr]=0$is a good approximation. However,  note that$E[dr^{2}]=Var(dr)>0$.
-![](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055340553.png)
+ ![500](Z.%20Clippings/Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407055340553.png)
 ## POSITIVE CONVEXITY: GOOD NEWS FOR AVERAGE RETURNS
   - From data,  we can estimate the daily variance of intepng rates of about$E[dr^{2}]=5.5351\times10^{-007}$,  implying$$E\left[\frac{dF}{P}\right]=-20\times0+\frac{1}{2}\times400\times E[dr^{2}]=1.11\times10^{-04}>0 \tag{7}$$
   - Although this number seems extremely small,  it is a daily expected return.
@@ -387,11 +385,11 @@ $$V_{4/15/2004}^{\mathrm{no~hedge}}=\$97.42,            \text{ a decrease of \$4
 - The problem with the duration hedge is that the *slope - of the terms structure changed.
 ## 2020 VARIATION IN YIELDS
 
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060822882.webp)
+ ![500](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407060822882.webp)
 
 ## THE DYNAMICS OF THE TERM STRUCTURE: LEVEL,   SLOPE,   AND CURVATURE
 
-![](Lecture%20Note%202-%20Ipngest%20Rate%20Risk%20Management%20And%20Factors-20240407060845696.webp)
+ ![500](Lecture%20Note%202-%20Ipngest%20Rate%20Risk%20Management%20And%20Factors-20240407060845696.webp)
 
 ## A FACTOR REPRESENTATION OF YIELD CHANGES
 - Let$ϕ_1(t),            ϕ_2(t)$and$ϕ_3(t$) be three independepngactors that affect the term structure.
@@ -447,11 +445,11 @@ $$\beta_{i1}=\frac{C o v(\Delta r_{i}(t),           \Delta\phi_{1}(t))}{V a r(\D
 =⇒ The beta coefficients in (13) are just the eigenvectors: βij = vji
 ## FACTORS FROM PCA
 
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407062316871.webp)
+ ![500](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407062316871.webp)
 
 ## PARALLEL SHIFTS,  SLOPE TILTS AND CURVATURE CHANGES
 
-![](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407062330304.webp)
+ ![500](Lecture%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors-20240407062330304.webp)
 
 ## THE SENSITIVITY OF INTEREST RATES TO PCA LEVEL,  SLOPE,  AND CURVATURE
 ## PANEL A: LEVEL

@@ -3,10 +3,10 @@ title: DOLLAR GENERAL CASE STUDY
 cssclasses:
   - academia
 aliases:
-  - Alias_292_Dollar General Case Study.md
-  - Alias_295_Dollar General Case Study.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - case-studies
   - financialanalysis
   - corporaterestructuring

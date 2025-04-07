@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Runs On Money Market Mutual Funds
-- Alias_88_Runs On Money Market Mutual Funds.md
+- Runs On Money Market Mutual Funds
+- Runs On Money Market Mutual Funds.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Runs On Money Market Mutual Funds
 ---
-
-
-
-
 # Runs On Money Market Mutual Funds
 
  We study daily money market mutual fund flows at the individual share class level during September 2008. This fine granularity of data allows new insights into investor and portfolio holding characteristics conducive to run risk in cash-like asset pools. We find that cross-sectional flow data observed during the week of the Lehman failure are consistent with key implications of a simple model of coordination with incomplete information and strategic complementarities. Similar conclusions follow from daily models fitted to capture dynamic interactions between investors with differing levels of sophistication within the same money fund,  holding constant the underlying portfolio.
@@ -24,7 +20,7 @@ On September 16,  a single money market mutual fund that held just over 1 per-ce
 
 Our daily data on flows to different institutional share classes within the same prime MMMF portfolio allow us to study the interaction between redemptions of institutional investors in share classes with lower expense ratios (larger investment minimums) and institutional investors in share classes with higher expense ratios (smaller minimums),  both residing within the same fund and holding pro rata shares in the same porfolio of securities (thus,  keeping constant the fundamental quality of these holdings as well as any subsidization,  explicit or implicit,  by the fund advisor) Since the largest institutional investors have more “skin in the game”and,  presumably,  have access to more resources (analysts and data) than smaller institutional investors,  we would expect them tobe both more attentive and better informed than their smaller counterparts about the quality of the portfolio that they hold together. We use these features of our data to shed light on theoretical models of financial intermediation,  a key feature of which is the interaction between fundamentals and investors’ strategic behavior,  and how this interaction depends on investor information. In Morris and Shin's (1998) benchmark model of regime change,  agents exogenously receive private and public signals about the strength of fundamentals. The common public signal acts as an additional coordination device for agents actions,  affecting the probability of regime changes (Goldstein and Pauzner 2005) Weak fundamentals trigger a run,  but the run would not have occurred were it not for agents’ self-fulfilling beliefs (Diamond and Dybvig 1983) about the actions of other agents,  which amplify the effect of a bad draw of fundamentals. 3 Such interactions between strategic behavior and fundamentals makes empirical identification of stra tegic complementarities very difficult (Goldstein 2013).
 
-![](https://storage.simpletex.cn/view/fZRQZZUsGGMxCvwtTaK5gtpy2NsSRyqDG)
+ ![500](https://storage.simpletex.cn/view/fZRQZZUsGGMxCvwtTaK5gtpy2NsSRyqDG)
 
 FIGURE 1. MONEY MARKET MUTUAL FUND FLOWS IN SEPTEMBER OCTOBER 2 O 08
 

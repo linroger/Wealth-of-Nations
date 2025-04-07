@@ -1,13 +1,11 @@
 ---
 aliases:
-- Alias_190_Currency Swaps.md
-- Alias_191_Currency Swaps.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Currency Swaps
 ---
-
-
 # Currency Swaps
 
 [Swaps-Financial Instruments](Swaps-Financial%20Instruments)

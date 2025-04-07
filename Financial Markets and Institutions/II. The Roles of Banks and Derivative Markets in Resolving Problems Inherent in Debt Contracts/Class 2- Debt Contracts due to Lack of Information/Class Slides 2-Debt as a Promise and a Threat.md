@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Class Slides 2-Debt as a Promise and a Threat
-- Alias_20_Class Slides 2-Debt as a Promise and a Threat.md
+- Class Slides 2-Debt as a Promise and a Threat
+- Class Slides 2-Debt as a Promise and a Threat.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Class Slides 2-Debt as a Promise and a Threat
 ---
-
-
-
-
 # Class Slides 2-Debt as a Promise and a Threat
 
 [Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat](Class%20Note%202-Debt%20Contracts%20Due%20to%20the%20Lack%20of%20Information%20Debt%20as%20a%20Promise%20and%20a%20Threat.md)
@@ -34,7 +30,7 @@ Detailed Example:
 
 #### Future Cash Flow is uncertain,  all know the probabilities
 - Actual final cash flow not observed by lenders,  who observe only the amount repaid.
-![](https://storage.simpletex.cn/view/fF7ryLCbuVsNVL1G51SMGsNTy4Xycp7iH)
+ ![500](https://storage.simpletex.cn/view/fF7ryLCbuVsNVL1G51SMGsNTy4Xycp7iH)
 
 #### A simple candidate for a financial contract is equity
 - An equity contract in this context is a profit-sharing agreement,  where the profit shared depends on the profits reported by the borrower.
@@ -288,11 +284,11 @@ A list of payments
 
 ### Future Cash Flow is uncertain,  all know the probabilities
 - Actual cash flow not observed by lenders,  who observe only the amount repaid.
-![](https://storage.simpletex.cn/view/feiDa8AcVE5YB1M4Zvzp7nvtz41LX9cEr)
+ ![500](https://storage.simpletex.cn/view/feiDa8AcVE5YB1M4Zvzp7nvtz41LX9cEr)
 - Borrower & lender get 0
 - The lender's Expected Return must be at least 1.05
 - Actual cash flow not observed by lenders,  who observe only the amount repaid.
-![](https://storage.simpletex.cn/view/feRkEB4EDhNBagQ1Whc2sDpm7NgNWbfM4)
+ ![500](https://storage.simpletex.cn/view/feRkEB4EDhNBagQ1Whc2sDpm7NgNWbfM4)
 - 0.8 F + 0.2 (0) ≥1.05
 - $$F\geq1.05/0.8=1.3125$$
 

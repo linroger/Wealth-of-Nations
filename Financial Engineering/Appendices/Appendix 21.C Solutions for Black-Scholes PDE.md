@@ -1,11 +1,11 @@
 ---
 cssclasses: academia
-title: Appendix 21.C Solutions for Black-Scholes PDE
+title: Appendix 21. C Solutions for Black-Scholes PDE
 aliases: [Solutions for Black-Scholes PDE,  Black-Scholes PDE,  Black-Scholes Partial Differential Equation]
 tags: Black-Scholes
 ---
 
-# Appendix 21.C Solutions for Black-Scholes PDE
+# Appendix 21. C Solutions for Black-Scholes PDE
 
 The Black-Scholes partial differential equation has the form
 

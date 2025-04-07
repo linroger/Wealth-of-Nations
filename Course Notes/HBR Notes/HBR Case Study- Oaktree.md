@@ -3,17 +3,17 @@ cssclasses:
   - academia
 Owner: RRoger Lin
 aliases:
-  - Alias_127_HBR Case Study- Oaktree.md
-  - Alias_128_HBR Case Study- Oaktree.md
+  - 
+  - 
 tags:
   - Case-Studies
-  - tag_example
+
 title: HBR Case StudyOaktree
 ---
 
 # HBR Case StudyOaktree
 
-![[Untitled 10.jpeg|Untitled 10.jpeg]]
+![[Untitled 10. jpeg|Untitled 10. jpeg]]
 
 ## OAKTREE AND THE RESTRUCTURING OF CIT GROUP (A)
 
@@ -163,9 +163,9 @@ Response to the Credit Crisis
 
 Unlike commercial banks,  which were largely financed by customer deposits,  CIT was a finance company,  and as such,  it primarily relied on capital markets to raise funds. Historically,  nearly 80% of CIT’s debt financing was mediumto long-term unsecured debt,  with [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] issuance and secured non-recourse borrowing accounting for another 15%. Deposits at its Utah-based bank represented less than 5% of the company’s funding. (See Exhibit 2.)
 
-![[Untitled 1 4.jpeg|Untitled 1 4.jpeg]]
+![[Untitled 1 4. jpeg|Untitled 1 4. jpeg]]
 
-![[Untitled 2 3.jpeg|Untitled 2 3.jpeg]]
+![[Untitled 2 3. jpeg|Untitled 2 3. jpeg]]
 
 The outbreak of the subprime crisis in August 2007 raised concerns about the credit quality of financial institutions,  including CIT. As a result,  CIT found it more difficult to fund its operations in capital markets,  and particularly in the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] market. To make up for this shortfall,  in the third quarter of 2007 CIT began relying more heavily on secured borrowing. By the end of 2007,  roughly 30% of CIT assets were encumbered by secured borrowing. In the first quarter of 2008,  CIT drew down $7.3 billion—the full amount available under four separate senior unsecured revolving lines.a By June 2008,    CIT was shut out of the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] market when it lost its A1/P1 credit rating. To meet this funding shortfall,    CIT arranged a $3 billion secured loan from Goldman Sachs. CIT also tried to raise cash by selling its troubled $9.3 billon home mortgage business. In July 2008,    almost a year after CIT first announced its intention to exit the home mortgage lending business,    it sold the business for $1.8 billion and the assumption of $4.4 billion in debt to Lone Star Funds,  a private equity firm specializing in the purchase of distressed assets. But these steps would prove insufficient to deal with the full blown banking panic that erupted after the failure of Lehman Brothers in September 2008. CIT was under considerable financial stress,  but because the firm funded itself on a more long-term basis,  it had somewhat more breathing room than investment banks such as Morgan Stanley,  Merrill Lynch and Goldman Sachs,  which used considerable amounts of very short-term financing including overnight [[Class Note 12 Part 2 Repos|repurchase agreements]] (repo).
 
@@ -213,15 +213,15 @@ All CIT notes were trading at a discount,  but there was a significant dispersio
 
 Debt investors typically had no influence over managerial decisions as long as the debt continued performing. This generated significant uncertainty around potential outcomes for [[A Primer on Distressed Investing|distressed debt]] investors. Indeed,  in Shourie’s experience,  it was not uncommon to expect to gain control in a restructuring and instead to be paid at par; or to take a company that seemed headed toward liquidation,  and then to see it somehow survive. But for investors like Oaktree,  this uncertainty was not a bad thing. Shourie recalled that some of the most successful transactions he had seen tended to be opportunistic follow-on investments like the one they were evaluating for CIT. To take advantage of these new opportunities,  “one had to stay active and informed and had to have the necessary liquidity to act.”
 
-![[Untitled 3 2.jpeg|Untitled 3 2.jpeg]]
+![[Untitled 3 2. jpeg|Untitled 3 2. jpeg]]
 
 Denial of Access to TLGP and Its Aftermath
 
 On July 15,  2009 CIT announced that,  “(d)iscussions with government agencies have ceased. There is no appreciable likelihood of additional government support being provided over the near term.”This led to further credit downgrades of CIT,  and its annual CDS spread jumped to 6,  429 basis points from 1,  780 the week before (see Exhibit 9).
 
-![[Untitled 4 2.jpeg|Untitled 4 2.jpeg]]
+![[Untitled 4 2. jpeg|Untitled 4 2. jpeg]]
 
-![[Untitled 5 2.jpeg|Untitled 5 2.jpeg]]
+![[Untitled 5 2. jpeg|Untitled 5 2. jpeg]]
 
 At the time,  CIT had significant maturities of unsecured shortand long-term debt: a total of $59 billion as of July 15,    2009.20 Of more immediate concern,    CIT had $1 billion in notes maturing on August 17,  2009,  and it was unclear if the company could repay this amount. The rating agency downgrades,  negative media reports,  and the exclusion of the company from TLGP led many CIT clients to draw down the credit lines they had with CIT,  which further drained CIT’s liquidity.
 

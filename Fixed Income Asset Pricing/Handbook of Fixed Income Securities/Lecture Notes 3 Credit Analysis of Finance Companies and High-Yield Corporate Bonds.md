@@ -2863,7 +2863,7 @@ Folio,  as well as the market portfolio for both investment-grade (IG) and high-
 
 Credit Return vs. Credit Volatility for Factor-Sorted Portfolios in [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  1994–2019
 
-![](./images/factor_portfolios_corporate_bonds.png)
+ ![500](./images/factor_portfolios_corporate_bonds.png)
 
 *Source: Robeco,  Bloomberg Barclays.*
 

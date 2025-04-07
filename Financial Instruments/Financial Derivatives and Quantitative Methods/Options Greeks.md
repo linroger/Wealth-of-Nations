@@ -34,17 +34,17 @@ $$\begin{aligned}
 
 Each of the partial effects is given a Greek letter.
 
-Delta $\Delta$ = $\partial \Pi / \partial S$ . $\Delta$ measures how the option price changes when the price of the underlying asset changes.
-
-Theta $\Theta=-\partial\Pi/\partial T$ . $\Theta$ measures how the option price changes as the time to maturity decreases.
-
-Rho $\rho=\partial\Pi/\partial r$.$\rho$ measures how the option price changes as the interest rate changes.
-
-Vega $v=\partial\Pi/\partial\sigma$ . $V$ measures how the option price changes as the volatility changes.
-
+Delta $\Delta$ = $\partial \Pi / \partial S$ . 
+- $\Delta$ measures how the option price changes when the price of the underlying asset changes.
+Theta $\Theta=-\partial\Pi/\partial T$ .
+- $\Theta$ measures how the option price changes as the time to maturity decreases.
+Rho $\rho=\partial\Pi/\partial r$.
+-  $\rho$ measures how the option price changes as the interest rate changes.
+Vega $v=\partial\Pi/\partial\sigma$ .
+-  $V$ measures how the option price changes as the volatility changes.
 There is also another Greek that measures how $\Delta$ changes as $S$ changes. This is known as Gamma.
-
-Gamma $\Gamma$ = $\partial \Delta / \partial S$ = $\partial ^{2}\Pi / \partial S^{2}$. $\Gamma$ measures the rate of change of the option's $\Delta$ as the price of the underlying changes.
+Gamma $\Gamma$ = $\partial \Delta / \partial S$ = $\partial ^{2}\Pi / \partial S^{2}$.
+-  $\Gamma$ measures the rate of change of the option's $\Delta$ as the price of the underlying changes.
 
 We shall discuss each of these a little further.
 
@@ -158,8 +158,7 @@ $$v_C=S\sqrt{T}N' (d_1).$$
 
 Also from the put-call parity condition,   we have that $UC=UP$. It is important to understand why Vega is studied. In the Black-Scholes model,   volatility is assumed to be constant. Thus,   it makes much less sense to consider how the Black-Scholes formula changes in response to a change in volatility than to a change in the underlying price. However,   the relevant volatility for calculating the option price is the volatility of the underlying asset over the lifetime of the option. This is a future volatility,   which is not observable. It can be seen that the Vega of a call or put option is positive? And so ,   from this,   it is possible to use the known market price of the option to impute the volatility. This is known as the implied volatility. It is therefore possible to use market prices to calculate implied volatility. More on this later.
 
-R.ho
-
+## [[Options Greeks#Options Gree Rho|Rho]]
 Rho measures the sensitivity of the option price with respect to the interest rate. As with the volatility,   an assumption of the Black-Scholes model is that interest rates are constant over the life of the option. For a call option,   it can be shown that
 
 $$\rho_C=KTe^{-rT}N (d_2)$$

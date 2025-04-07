@@ -20,6 +20,7 @@ title: Financial Derivatives and Quantitative Methods
 	- [[JP Morgan-Variance Swaps]]
 	- [[Option Risk]]
 	- [[Options Greeks]]
+	- [[Rho]]
 	- [[Risk Neutral Pricing of Options]]
 	- [[Risk Preferences]]
 	- [[The T₁ -period Binomial Model]]

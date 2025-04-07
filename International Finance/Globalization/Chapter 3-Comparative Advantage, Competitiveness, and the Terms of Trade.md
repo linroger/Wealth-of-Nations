@@ -59,7 +59,7 @@ We can generalize this example. For convenience,  let’s label the two economie
 
 The home economy specializes in the manufactured good. The rest of the world exports the agri∗ cultural good to the home economy,  so the terms of trade for the foreign economy are equal to the inverse of the slope of the international trade line $(P_{A}/P_{M})$ . In general,  the slope of the international trade line reﬂects the terms of trade if the horizontal-axis good is exported,  and shows the inverse of the terms of trade if the horizontal-axis good is imported. Under free trade,  the resulting exchange of goods forms two identical red triangles that connect the production point of each economy with its consumption choice. The horizontal side of the home economy’s red triangle measures the Home manufacturing exports (home production of manufactures exceeds home consumption of manufac∗ tures) and the equally large horizontal side of the foreign economy’s red triangle represents the ∗ foreign manufacturing imports (foreign consumption of manufactures exceeds foreign manufacturing output). Similarly,  the vertical sides of the red triangles measure the home agricultural imports ∗ and the equally large foreign agricultural exports. Trade is balanced under the prevailing terms of trade along the green international trade line: the value of a country’s exports equals the value of its imports.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/296da98850f4b077a488d4e8dd2c8864f3b1cb342c9d36abbcc79451ba505d9a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/296da98850f4b077a488d4e8dd2c8864f3b1cb342c9d36abbcc79451ba505d9a.jpg)
 
  $\mathrm{PPF^{*}}$ Slopes of the Home PPF and the Foreign are the opportunity costs of the good on the horizontal axis in terms of the good on the vertical axis in both panels (a) and (b). Under free trade in panel (b),  each country’s green international trade line starts from the country’s production point (complete specialization). The relative price of each country’s export good exceeds that in autarky,  placing the international trade lines above PPF and $\mathrm{PPF^{*}}$ . Under free trade in (b),  each country’s possible consumption choices are anywhere on the country’s green international trade line (its consumption possibilities); an example is a green point on the ray from the origin. The exchange of goods forms two identical red triangles,  with Home manufacturing exports equal to Foreign manufacturing imports on the horizontal sides and Home agricultural imports equal to Foreign agricultural exports on the vertical side.
 
@@ -69,7 +69,7 @@ Now suppose the Great Doubling gradually happens. Take the perspective of an alr
 
 Suppose the newly globalized countries use production technologies like the other economies abroad. What will the expansion in the global labor force do to the opportunity cost of producing the manufactured good in the rest of the world? Well,  nothing if the Great Doubling is just an expansion of the workforce with no productivity change. The opportunity cost are equal to the slope of the PPF,  and the PPF changes position but it does not change slope. The foreign economy’s PPF makes a parallel shift to the right. Figure 3.2 shows the move of the foreign PPF as it changes from the initial dotted line to the new solid line. In our Ricardian trade model differences in technology,  and therefore opportunity costs,  are given by a constant labor productivity (the inverse of the ﬁxed perunit labor requirements) in each economy,  regardless of the size of that economy’s workforce. If the per-unit labor requirements do not change,  then the slope of the PPF stays the same,  and therefore the opportunity costs remain the same.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9653090f80aab4a43e4987c1529cd64437c436b868191920fb370f11b5bd5793.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9653090f80aab4a43e4987c1529cd64437c436b868191920fb370f11b5bd5793.jpg)
 
 All dotted lines are the same as the solid lines in Figure 3.1. Growth of the foreign population $L^{*}$ shifts the foreign $\mathrm{PPF^{*}}$ $\mathrm{PPF^{*}}$ right (in parallel to the dotted before),  shown in panel (a). The Home PPF is unchanged in panel (b). Additional foreign supply of agricultural goods raises the relative world price $P_{M}/P_{A}$ and makes the international trade lines steeper (compared to the dotted international trade lines before) for both economies in panels (a) and (b). Relatively cheaper agricultural produce raises the ray of consumption choices (compared to the dotted ray before) because consumers demand relatively more agricultural produce. The exchange of goods forms two new but again identical red triangles,  and both countries’s residents can afford better consumption choices than before.
 
@@ -91,7 +91,7 @@ Ket must be lower than before. Why? In [[Chapter 3-Comparative Advantage,   Comp
 
 # Figure 3.3: Productivity Changes and the Terms of Trade
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c452202ae24b575fb5b8755023e8b757712d654eef2cb2e0f45492350a86d321.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c452202ae24b575fb5b8755023e8b757712d654eef2cb2e0f45492350a86d321.jpg)
 
 All dotted lines are the same as the solid lines in Figure 3.1. Growth of foreign agricultural productivity raises $L^{*}/a_{A}^{*}$ (because it lowers $a_{A}^{*}$ ) and turns the foreign $\mathrm{PPF^{*}}$ upwards as panel (a) shows. The Home PPF is unchanged. Additional foreign supply of agricultural goods raises the relative world price $P_{M}/P_{A}$ and makes the international trade lines steeper (compared to the dotted international trade lines before) for both economies. Relatively cheaper agricultural produce raises the ray of consumption choices in panel (b),  compared to the dotted ray before,  because consumers demand relatively more agricultural produce. The exchange of goods forms two new but again identical red triangles,  and both countries’s residents can afford better consumption choices than before.
 
@@ -137,7 +137,7 @@ Single-industry comparisons document a sector’s absolute advantage. They do no
 
 Table 3.1: Manufacturing and Agricultural Labor Productivity Relative to the United States
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e189ab1f5a0845c777c9ae3c289951b147ab9e3b36acc56d48f059768f1a873d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e189ab1f5a0845c777c9ae3c289951b147ab9e3b36acc56d48f059768f1a873d.jpg)
 
 Sources : Groningen Growth and Development Centre 10-Sector Database (Bart Van Ark 1996,  Marcel P. Timmer and Gaaitzen J. de Vries 2009); value added adjusted for purchasing power parity using the Penn World Table 7.1 (Alan Heston,  Robert Summers and Bettina Aten 2012).
 
@@ -171,7 +171,7 @@ $$
 
 We can express the wage gap this way because the price of a good equals its unit production cost under perfect competition so that $P_{A}=a_{A}^{*}w^{*}$ and $w^{*}=P_{A}/a_{A}^{*}$ (and similarly for the manufactured
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/805d752d11f51f1c134cbc3d683196f289da2b89a9c4239a8d207a066a6179fc.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/805d752d11f51f1c134cbc3d683196f289da2b89a9c4239a8d207a066a6179fc.jpg)
 
 Source : U.S. Bureau of Labor Statistics 2013 ( www.bls.gov/news.release/ichcc.t01.htm accessed 4/21/2013). Note : Hourly compensation costs in manufacturing divided by those in the United States.
 
@@ -185,7 +185,7 @@ The wage gap is larger the stronger a country’s economy-wide competitiveness i
 
 Table 3.2: Top Exports and [[Chapter 2-The Principle Of Comparative Advantage|Comparative Advantage]]
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fd81446750671c6b4224c9b2a6209a62dae97e83618febd62c5031031a3e424.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fd81446750671c6b4224c9b2a6209a62dae97e83618febd62c5031031a3e424.jpg)
 
 Sources : Robert C. Feenstra,  Robert E. Lipsey,  Haiyan Deng,  Alyson C. Ma and Hengyong Mo (2005,  Revision 2,  2011) W TF trade data based on C OMTRADE (2008),  prepared as in Gordon H. Hanson,  Nelson Lind and Marc-Andreas Muendler (2015). Notes : The Balassa measure of Revealed [[Chapter 2-The Principle Of Comparative Advantage|Comparative Advantage]] (RCA) is a summary index based on a double comparison,  dividing an industry’s local export share in a single country’s exports by the industry’s global export share in worldwide exports.
 
@@ -205,11 +205,11 @@ As globalization progresses,  which production activities will remain in the hom
 
 Let’s start by comparing three industries: avocados,  motorcycles,  and computers. Suppose the perunit labor requirements in California and Mexico are:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f6ce067e6fd5d1c2496bba917a4184cd20fad84d57d036d514d7c0c9e8dae3a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f6ce067e6fd5d1c2496bba917a4184cd20fad84d57d036d514d7c0c9e8dae3a.jpg)
 
 It takes 4.5 hours to produce a computer in California and 10 hours to make a computer in Mexico. It is still the case in this example that California has an absolute advantage in every activity. California’s
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccfe2f048358d0643c905bcc04abdfb0969c5644947333243a4a21d5c8a91a78.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccfe2f048358d0643c905bcc04abdfb0969c5644947333243a4a21d5c8a91a78.jpg)
 
 Panel (a) plots the productivity gaps $a_{i}^{*}/a_{i}$ by industry $i$ in declining order so that Home has a stronger comparative advantage in industries to the left and more of a comparative dis advantage in industries to the right. Panel (b) introduces ∗ the wage gap between the two economies. If an industry’s production cost is lower at home than in the foreign economy $(a_{i}w<a_{i}^{*}w^{*})$ ) then the industry locates in the home economy. Equivalently $i$ locates at home if the industry’s productivity gap exceeds the cross-country wage gap $a_{i}^{*}/a_{i}>\omega$ . The condition is satisﬁed for computers and motorcycles.
 
@@ -271,9 +271,9 @@ Once we adopt this labeling convention,  we can call the ordered productivity ga
 
 # Figure 3.6: Many Industries
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d3a58ad79fc9e2c335ae7c727e4a5bca3a77bb88f410ee9ab3a9795660e41da.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d3a58ad79fc9e2c335ae7c727e4a5bca3a77bb88f410ee9ab3a9795660e41da.jpg)
 
-Panel (a) plots the productivity gaps $A(i)\;=\;a^{*}(i)/a(i)$ by industry $i$ in declining order so that Home has a stronger comparative advantage in industries to the left and more of a comparative dis advantage in industries to the right. If an ∗ $a(i)w\;\leq\;a^{*}(i)w^{*}.$ industry’s production cost is lower at home than in the foreign economy,  ,     then the industry locates in the home economy. Equivalently $i$ locates at home if the industry’s productivity gap exceeds the cross-country wage gap: $A(i)\,    \geq\,    \omega$ . The condition is satisﬁed at the cutoff industry $I$ and to its left. Panel (b) presents the wage gap curve $\omega\,    =\,    [i/(1-i)]L^{*}/L,    $ which follows from balanced trade and the fact that industries up to $i$ that locate at home bring a share $i$ of global consumption expenditures to the home economy in the form of labor income.
+Panel (a) plots the productivity gaps $A(i)\;=\;a^{*}(i)/a(i)$ by industry $i$ in declining order so that Home has a stronger comparative advantage in industries to the left and more of a comparative dis advantage in industries to the right. If an ∗ $a(i)w\;\leq\;a^{*}(i)w^{*}.$ industry’s production cost is lower at home than in the foreign economy,     then the industry locates in the home economy. Equivalently $i$ locates at home if the industry’s productivity gap exceeds the cross-country wage gap: $A(i)\,    \geq\,    \omega$ . The condition is satisﬁed at the cutoff industry $I$ and to its left. Panel (b) presents the wage gap curve $\omega\,    =\,    [i/(1-i)]L^{*}/L,    $ which follows from balanced trade and the fact that industries up to $i$ that locate at home bring a share $i$ of global consumption expenditures to the home economy in the form of labor income.
 
 the $A(i)$ curve bends upwards. For simplicity,  we depict a smoothly downward sloping $A(i)$ curve in the ﬁgure.
 
@@ -313,7 +313,7 @@ Dornbusch–Fischer–Samuelson Trade. If there are many industries,  two countr
 
 With the equilibrium wage gap derived,  we are now prepared to return to the main question of this chapter. What happens to the location of industries and a globalized economy’s well-being under the Great Doubling? There is China’s shift to market capitalism since the 1980 s,  the collapse of the Soviet Union and socialist bloc countries in 1989,  India’s participation in global trade since the 1990 s,  and ﬁnally Russia’s membership in the WTO in 2012: Each of these changes resulted in an increase in the foreign workforce from $L^{*}$ to some new $L^{*\prime}$ . Each expansion of the globalized labor force
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b710709869950cab138fb52f6fbf02b47972a08c9d3002ba988b1ce932a18fd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b710709869950cab138fb52f6fbf02b47972a08c9d3002ba988b1ce932a18fd.jpg)
 
 Panel (a) depicts the location of industries among globalized economies before the Great Doubling. Panel (b) shows the effects of the Great Doubling. Foreign population growth to $L^{*\prime}\,    >\,     L^{*}$ turns the wage gap curve upwards. In the new $I^{\prime}<I$ global equilibrium,  the initially globalized economies host a narrower range of industries up to and command a higher wage gap $\omega^{\prime}>\omega$ .
 
@@ -337,7 +337,7 @@ The Ricardian model with many industries equips us with the tools to trace chang
 
 Because foreign industries are now more productive,  the wage gap $\omega=w/w^{*}$ falls to $\omega^{\prime}=w^{\prime}/w^{*\prime}$ $I^{\prime}$ and the cutoff industry shifts left to . Why? Foreign workers are now more productive,  so they receive a relatively higher wage that rewards them for their additional output,  and the cross-country wage ratio $w/w^{*}$ falls. Some industries relocate from the home economy to the foreign economy.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/88ebabfc48d01ee3cbcf4a85a4c215bd92b6da374b88766553f9104494902306.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/88ebabfc48d01ee3cbcf4a85a4c215bd92b6da374b88766553f9104494902306.jpg)
 
 Panel (a) depicts the location of industries among globalized economies before foreign productivity growth. Panel (b) shows the effects of foreign productivity growth,  which lowers the productivity gaps for all industries to $A^{\prime}(i)\,    <\,    A(i)$ . $I^{\prime}\,    <\,    I$ In the new global equilibrium,  the initially globalized economies host a narrower range of industries up to and command a smaller wage gap $\omega^{\prime}>\omega$ than before.
 
@@ -359,7 +359,7 @@ Perhaps de industrialization marks a shift from manufacturing activities to serv
 
 Those who are concerned with adverse effects of de industrialization must therefore have in mind some unconventional losses from seeing manufacturing employment fall. Their presumed losses can have to do with what economists call negative external i ties. A negative external it y is an adverse effect one industry’s or person’s actions have on others when the adverse effect does not cause higher input prices or lower product prices,  so it is not corrected within the markets. In other words,  the adverse effect is “external” to the markets—hence the term “external it y.” Negative external i ties from de industrialization are the adverse effects that a relocating industry causes to the home economy because it does not face the full costs of its action for the home economy as a whole. For example,  there may be beneﬁts from learning by doing in manufacturing in the home economy,  so the workforce loses important skills when the manufacturer relocates abroad. Or there may be so-called spillover effects from manufacturing into other sectors of the home economy,  such as the provision of specialized products to local agriculture and services,  or the diffusion of knowledge and expertise from a manufacturing industry to other manufacturing industries or outside sectors.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32049abe298634b78e36491e223a0f8b15cee94777d7be0cd690a4541d15dcf5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32049abe298634b78e36491e223a0f8b15cee94777d7be0cd690a4541d15dcf5.jpg)
 
 Source : OECD STAN Database 2012. 17 manufacturing industries consistently deﬁned over time and across countries; agriculture and mining counted as one industry each panel (b). Note : Share of employment in top four out of 17 industries in panel (a) and out of 19 industries in panel (b); year 2010 for France and Korea instead of 2011; for South Korea share of value added.
 
@@ -401,7 +401,7 @@ How well does the productivity gap—the key feature of Ricardian trade theory�
 
 It would be helpful to have data from multiple industries and multiple countries for the test. Unfortunately,  such data are hard to come by. Costinot,  Donaldson and Komunjer (2012) have used producer prices for this purpose. The ratios of producer prices across countries reﬂect productivity gaps in perfectly [[Chapter 3-Comparative Advantage,   Competitiveness,   and the Terms of Trade|competitive]] markets. Panel (b) of Figure 3.9 plots these price-based measures of productivity gaps across industries and countries. The graph shows the RCA measure computed for
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ceb1a9ab05461705fee09366075f0a63b31b47d1aaf47ea5d4b7b01922c531e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ceb1a9ab05461705fee09366075f0a63b31b47d1aaf47ea5d4b7b01922c531e.jpg)
 
 Sources : Feenstra et al. (2005,  Revision 2,  2011) W TF trade data based on C OMTRADE (1997) for Revealed [[Chapter 2-The Principle Of Comparative Advantage|Comparative Advantage]] (1997 and 2005). Labor productivity in panel (a) is from Table 3.1 for two sectors agriculture and manufacturing (2005); productivity in panel (b) is from Arnaud Costinot,  Dave Donaldson and Ivana Komunjer (2012) based on Groningen Growth and Development Centre producer price data for 13 manufacturing industries (1997) and 21 countries. Note : Axes drawn to logarithmic scale. Revealed comparative advantage is computed for all countries in the world,  using two sectors in panel (a) or 13 industries in panel (b).
 
@@ -415,7 +415,7 @@ Distance up to 1,  000 miles Distance 1,  000 to 2,  000 miles Distance 2,  000 
 
 Table 3.4: Trade Shares by Distance for Top Exports
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25f9291f962b9dd3197c851aecdb32328c040b00f96d0bcf1d06359806026a94.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/25f9291f962b9dd3197c851aecdb32328c040b00f96d0bcf1d06359806026a94.jpg)
 
 Sources : Feenstra et al. (2005,  Revision 2,  2011) W TF trade data based on C OMTRADE (2008),  prepared as in Hanson,  Lind and Muendler (2015),  and C EPII data for population weighted distance (Keith Head,  Thierry Mayer and John Ries 2010). Notes : Top goods as in Table 3.2. The distance measure reﬂects the typical geographic distance between the main cities in the source country and the main cities in its destination countries.
 
@@ -431,7 +431,7 @@ $$
 
 The equation tells us a number of things:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ea1543fb9dbfde7270320de20c5f8976cffb199958b3a276ff298f0dcfeca7d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ea1543fb9dbfde7270320de20c5f8976cffb199958b3a276ff298f0dcfeca7d.jpg)
 
 Sources : Feenstra et al. (2005,  Revision 2,  2011) bilateral trade data based on C OMTRADE for 207 countries (2005) and C EPII data for GDP and population weighted distance (Head,  Mayer and Ries 2010). Note : Axes drawn to logarithmic scale. Trade of manufactures.
 
@@ -509,11 +509,11 @@ Transportation costs increase the price of a good at a foreign destination and a
 
 # Key Terms
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc09d9b4e8309a05e3f086cce9c0356edaa58d376421d7b8f9f636372496fd3c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc09d9b4e8309a05e3f086cce9c0356edaa58d376421d7b8f9f636372496fd3c.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c3aed29a03b6c2c6d982a29d52f3917c9e92c069273d72f479fed9b7b898620.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c3aed29a03b6c2c6d982a29d52f3917c9e92c069273d72f479fed9b7b898620.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53f8c58f1b9f9d4c94cfde19a2b826418926dee9706b28e1994dfa994170e324.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53f8c58f1b9f9d4c94cfde19a2b826418926dee9706b28e1994dfa994170e324.jpg)
 
 # Assessments
 
@@ -547,19 +547,19 @@ C 2.4. How do infrastructure and judicial institutions relate to the competitive
 
 C 3.1. Home and Foreign can produce computers,  almonds,  and textiles with the following per-unit labor requirements.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8600844dde0b5272916f23d019d5704557b4a76a4cfe6c7e34f9bf1092a359e6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8600844dde0b5272916f23d019d5704557b4a76a4cfe6c7e34f9bf1092a359e6.jpg)
 
 Home wages exceed foreign wages with $w~=~4$ to $w^{*}\ =\ 1$ . In which good does the home economy have the strongest comparative advantage versus the foreign economy? Do the ratios $a_{L i}/a_{L i}^{*}$ for individual goods $i$ indicate opportunity costs? Why are the ratios $a_{L i}/a_{L i}^{*}$ for individual goods $i$ appropriate for determining the pattern of production? Given the wage ratio $w/w^{*}\,    =\,     4,    $ ,  which good (s) will the home economy produce and not produce? What does this tell you about the pattern of trade? Suppose wages equalize to $\boldsymbol{w}=\boldsymbol{w}^{*}=4$ so that $w/w^{*}=1$ . Which good (s) will the home economy produce and not produce? What does this tell you about the pattern of trade? Are there gains from trade when wages are equal?
 
 C 3.2. The home and foreign economies can produce apples,  bananas,  cherries,  dates,  and eggplants. The following are the per-unit labor requirements for each good in each economy.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8075ed3ca7b1674f6bf8e6968118965fb2a3138cbd83b8e85f4a8e4f143a330b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8075ed3ca7b1674f6bf8e6968118965fb2a3138cbd83b8e85f4a8e4f143a330b.jpg)
 
 The wages in the home economy exceed the wages in the foreign economy with $w=2$ to $w^{*}=1$ . In which good (s) does the home economy have the strongest comparative advantage relative to the foreign economy? Do the ratios $a_{L i}/a_{L i}^{*}$ for individual goods $i$ indicate opportunity costs? Are the ratios $a_{L i}/a_{L i}^{*}$ appropriate for determining the pattern of production? Given the wage ratio $w/w^{*}\,    =\,     2,    $ ,  which good (s) will the home economy produce and not produce? What does this tell you about the pattern of trade? What is the pattern of trade when wages are equal,  $w/w^{*}=1?$ Explain brieﬂy what a Ricardian model of trade predicts regarding wage equalization.
 
 C 3.3. There are two countries: Home (no asterisk) and Foreign (asterisk). There is one factor of production,  labor,  and both countries have equally large labor forces of $L\,    =\,     L^{*}$ . There are ﬁve sectors and their constant per-unit labor requirements are as followings.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/670b8542e2c8f5597f8b84f7e00999574b2b523b98328f1f0ab30b9905bc6171.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/670b8542e2c8f5597f8b84f7e00999574b2b523b98328f1f0ab30b9905bc6171.jpg)
 
 In which sector does the home country have the strongest comparative advantage? In which sector does the home country have the weakest comparative advantage? Order all of the sectors
 
@@ -589,7 +589,7 @@ Industry at the destination $\mathrm{GDP}_{D i}$ and the geographic distance (or
 
 Q0.\1. Home and Foreign can produce cheese,  wine,  and tools with the following per-unit labor requirements.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ad98d1dcb5cb7b2922efa473995fb344112e261746f1d7f89f47f98fbf2381c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ad98d1dcb5cb7b2922efa473995fb344112e261746f1d7f89f47f98fbf2381c.jpg)
 
 Suppose that wages are the same in Home and Foreign in world trade equilibrium,  $\boldsymbol{w}\,    =\,    \boldsymbol{w}^{*}$ . What good (s) will Home produce? What good (s) will Foreign produce? Population growth in Foreign makes the relative Home wage double to $w=2 w^{*}$ . What good (s) will Home produce now? What good (s) will Foreign produce? Suppose $w=2 w^{*}$ and evaluate the following statement: “Trade with Foreign hurts the Home economy because Home has to compete against cheap labor.” Does Ricardian trade theory support this statement? Explain.
 
@@ -597,7 +597,7 @@ Q0.\1. Suppose Chile and Brazil both excel in the production of copper and beef.
 
 Q0.\1. There are two countries and three sectors: agriculture (A),  manufacturing (M) and services (S). Wages differ by a factor of $w/w^{*}=3/2$ between the two countries. Product iv i ties in the three sectors in Home (no asterisk) and Foreign (asterisk) are given by the following constant per-unit labor requirements:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2cffb204c5424d5eb68077bff91e79fa46f2767e275373874cbcee3b7103c104.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2cffb204c5424d5eb68077bff91e79fa46f2767e275373874cbcee3b7103c104.jpg)
 
 State the order of the three sectors from strongest to weakest comparative advantage for the Foreign economy. Which sectors locate at Home? Which sectors locate in the Foreign country?
 
@@ -605,17 +605,17 @@ Is any good not traded? Suppose productivity increases in the Home economy so th
 
 Q0.\1. There are two countries: Home (no asterisk) and Foreign (asterisk). Both countries have equally large labor forces $L=L^{*}$ . Initially,  there are two sectors: agriculture (A) and mining (M). Product iv i ties in the two sectors are given by the following constant per-unit labor requirements:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1767c115e3a46ce4a6510543d0d04fc6883e9ed0cad75ba4f3522f4f73e3f3d8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1767c115e3a46ce4a6510543d0d04fc6883e9ed0cad75ba4f3522f4f73e3f3d8.jpg)
 
 The two countries open to free trade. Is the pattern of trade determinate? Why? Compute the relative incomes between the two countries,  $w/w^{*}$ . Both countries collaborate on research in industrial production. As a result,  there is now a third sector that could potentially produce in both countries:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0675686e6ea206e7e55c713b989be4e650811c4109b81ace55bd4d7e0b0c0c8a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0675686e6ea206e7e55c713b989be4e650811c4109b81ace55bd4d7e0b0c0c8a.jpg)
 
 What is the pattern of production in the Foreign country under free trade if $w/w^{*}=1.5?$ What is the pattern of trade in the Foreign country under free trade if $w/w^{*}=1.5?$
 
 Q0.\1. Home and Foreign invent different technologies to produce tools,  beyond their production of cheese and wine. The table of per-unit labor requirements is:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd50103c8166e66d989f5578365dab66317f683c758f15513bd32eae2f2f2a14.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd50103c8166e66d989f5578365dab66317f683c758f15513bd32eae2f2f2a14.jpg)
 
 (1) Comparative advantage . In which good does Home have the strongest comparative advantage? In which good does Home have the least comparative advantage? (2) Trade and wages . If the relative wage rate $\begin{array}{r}{w/w^{*}=1,    }\end{array}$ ,  in what goods will Home specialize? ( Hint : You may neglect the relative size of the labor forces for your answer.) (3) Gains from trade . Do both countries beneﬁt from trade? Present an educated verbal argument. (4) Transportation costs (transfer question). If transportation costs add 50 percent to the price of a good that is shipped from one country to another,  what is the pattern of production and what is the pattern of trade? Will all goods be traded? ( Hint : Calculate the total cost of each foreign good to a home consumer and compare it the cost of the same good when produced at home; then calculate the total cost of a home good to a foreign consumer and compare it the cost of the same good when produced abroad.)
 
@@ -633,7 +633,7 @@ E0.\1. Go to the World Bank’s website with URL www.doing business. Org/custom-
 
 E0.\1. Look at the countries in Table 3.1 and Figure 3.4. Assess how their manufacturing product iv i ties in 2005 relate to their manufacturing wages in 2011. Compute a correlation coefﬁcient. (If you are familiar with ordinary least squares regression,  estimate a slope coefﬁcient for each of the three variables. For the econometric ian: How are the correlation coefﬁcient and the slope coefﬁcient from an ordinary least square regression related? Can their signs differ?)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9806bd8e2220fe1abf50739864127553e6593dcc460ee0cf43235459e3df86b0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9806bd8e2220fe1abf50739864127553e6593dcc460ee0cf43235459e3df86b0.jpg)
 
 # Further Readings
 
@@ -815,7 +815,7 @@ The order of the double comparison doesn’t matter. Neither does the order of t
 
 How does GCA relate to the productivity gap,  which is the key feature of Ricardian trade theory? For comparison,  panel (a) of Figure 3.12 shows the Balassa RCA measure and the productivity gaps (the same as in Figure 3.9). Panel (b) of Figure 3.12 shows the GCA measure and the productivity gaps. The association between GCA and the productivity gaps is considerably more pronounced and signiﬁcant than the association between the RCA and the productivity gaps is. The GCA data points are closer to the straight line drawn through them than the RCA data points are. Because the GCA measure removes the effect that the distance between countries and destination markets have,
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9a4f79f3b17ebee9762b970b8ab85e8f0cc82f63af869143a6b5194c1e34a36.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9a4f79f3b17ebee9762b970b8ab85e8f0cc82f63af869143a6b5194c1e34a36.jpg)
 
 Sources : Feenstra et al. (2005,  Revision 2,  2011) trade data based on C OMTRADE (1997). Productivity from Costinot,  Donaldson and Komunjer (2012) based on Groningen Growth and Development Centre producer price data for 13 manufacturing industries (1997) and 21 countries. Note : Axes drawn to logarithmic scale. Revealed and gravity-based comparative advantage are computed for all countries in the world,  using 13 industries.
 
@@ -883,9 +883,9 @@ For sample S TATA code,  see URL econ. Ucsd. Edu/muendler/book .
 
 # Empirical Exercises for the Online Supplement
 
-E0.\1. Go to URL econ. Ucsd. Edu/muendler/book . Download the combined C EPII -W TF bilateral trade,  geography and national income data for 2006,  and estimate the gravity equation following the steps in the Statistical Online Supplement 3.S.
+E0.\1. Go to URL econ. Ucsd. Edu/muendler/book . Download the combined C EPII -W TF bilateral trade,  geography and national income data for 2006,  and estimate the gravity equation following the steps in the Statistical Online Supplement 3. S.
 
-E0.\1. Go to URL econ. Ucsd. Edu/muendler/book . Download the prepared extract from the World Development Indicators 2013 (accessed May 2,  2013) and run an ordinary least squares regression of the natural logarithm (log) of a country’s pollutant emissions per capita on the country’s log openness (exports plus imports) per capita and log GDP per capita as well as country and year dummies,  following similar steps as those for the gravity equation in the Statistical Online Supplement 3.S. Use the 63 countries with information on nitrous oxide emissions covered from 1990-2010 (296 observations) to show that
+E0.\1. Go to URL econ. Ucsd. Edu/muendler/book . Download the prepared extract from the World Development Indicators 2013 (accessed May 2,  2013) and run an ordinary least squares regression of the natural logarithm (log) of a country’s pollutant emissions per capita on the country’s log openness (exports plus imports) per capita and log GDP per capita as well as country and year dummies,  following similar steps as those for the gravity equation in the Statistical Online Supplement 3. S. Use the 63 countries with information on nitrous oxide emissions covered from 1990-2010 (296 observations) to show that
 
 Where the numbers in brackets below coe f ci ents are standard errors. Similarly,  use the 133 countries with information on carbon dioxide emissions covered from 1960-2010 (4,  616 observations) to show that
 

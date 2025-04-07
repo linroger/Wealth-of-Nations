@@ -27,9 +27,9 @@ Intuitively we would expect the basis to move towards zero, as the contract appr
 
 Essentially, when the repo rate is sign i cant ly below the bond yield, the basis will be high. If the repo rate then rises the basis will fall, and this indicates the
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/665d3a5f8add66a4fdb33b2aeded83b5095597450399d2e0cab3c1633926b456.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/665d3a5f8add66a4fdb33b2aeded83b5095597450399d2e0cab3c1633926b456.jpg)
 Figure 1.1:  Yields of bond and futures contract compared. Source: LIFFE and Bloomberg
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76bd4e87a4a1b56f4329d4964496881dde49c62a226a9d21a9db8d4827b34ff6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76bd4e87a4a1b56f4329d4964496881dde49c62a226a9d21a9db8d4827b34ff6.jpg)
 Figure 1.2:  Convergence of basis towards zero. Source: LIFFE and Bloomberg
 
 smaller interest-rate differential between the repo rate and the bond yield. If the repo rate rises to a point where it is above the bond yield, the basis will turn negative. In fact this occurred brieﬂy during the later stages of the life of the September 2000 gilt future as shown above. A negative basis indicates that the price for forward delivery exceeds that for spot delivery.
@@ -64,7 +64,7 @@ $$
 $$
 
 and for the one-year contract highlighted in Figure 1.3 is 52.5, where the parameters are    $S\!=\!50$  ,  $r\!=\!1.05$   and    $R\!=\!1.00$  .
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61deabdaf0954614e4aef8e6e319aa55dc28802dd8ff034a8e12dd57af12cbd4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61deabdaf0954614e4aef8e6e319aa55dc28802dd8ff034a8e12dd57af12cbd4.jpg)
 Figure 1.3:  Forward contract proﬁt/loss proﬁle
 
 # 1.2.3 Futures
@@ -81,7 +81,7 @@ We can now look at the cash ﬂow treatment of the two contracts in greater deta
 We see in Table 1.1 that there are no cash ﬂows changing hands between counter parties to a forward contract. The price of a futures contract is reset each day; after day 1 this means it is reset from  $F$   to  $F_{1}$  . The amount    $(F_{1}-F)$   if positive, is handed over by the short future to the long future. If this amount is negative, it is paid by the long future to the short. On the expiry day    $T$   of the contract the long future will receive a settlement amount equal to    $P_{T}-F_{T-1}$   which expresses the relationship between the price of the future and the price of the underlying asset.
 
 Table 1.1:  Cash ﬂow process for forwards and futures contracts
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebdff43f8b70a515953a53dbbd627b8f41e849a6f9fd986e124d00dd62e39a28.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebdff43f8b70a515953a53dbbd627b8f41e849a6f9fd986e124d00dd62e39a28.jpg)
 As signiﬁcant, the daily cash ﬂows transferred when holding a futures contract cancel each other out, so that on expiry the value of the contract is (at this stage) identical to that for a forward, that is    $(P_{T}-F)$  .
 
 With exchange-traded contracts all market participants are deemed to conduct their trading with a central counter party, the exchange’s clearing house. This eliminates counter party risk in all transactions, and the clearing house is able to guarantee each bargain because all participants are required to contribute to its clearing fund. This is by the process of  margin , by which each participant deposits an  initial margin  and then, as its proﬁts or losses are recorded, deposits further variation margin  on a daily basis. The marking-to-market of futures contracts is an essential part of this margin process. A good description of the exchange clearing process is contained in Galitz (1995).
@@ -144,7 +144,7 @@ $$
 $$
 
 We solve this expression to obtain    $F$   and this is 52.50.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d9a6b0bf7a58b18e61a33b1618182411477f2bdd4970f8d6a92aa40b366ec4ed.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d9a6b0bf7a58b18e61a33b1618182411477f2bdd4970f8d6a92aa40b366ec4ed.jpg)
 Figure 1.4:  Forward strategy.
 
 The price of the forward contract is 52.50, although the present value of the forward contract when it is written is zero. Following Rubinstein, we prove this in Figure 1.5.
@@ -157,7 +157,7 @@ $$
 
 The portfolio has an identical payoff proﬁle (by design) to the forward, this being  $(P_{T}-F)$  . In a no-arbitrage environment, the cost of setting up the portfolio must be equal to the current price of the forward, as they have identical payoffs and if one was cheaper than the other, there would be a risk-free proﬁt for a trader who
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9636f805c0218470d936826980eb0a850588bae716d2b0b5e6f7d677afae6f58.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9636f805c0218470d936826980eb0a850588bae716d2b0b5e6f7d677afae6f58.jpg)
 Figure 1.5:  Algebraic proof of forward price
 bought the cheap instrument and shorted the dear one. However, we set the current cost of the forward (its present value) as zero, which means the cost of constructing the duplicating portfolio must therefore be zero as well. This gives us
 
@@ -229,7 +229,7 @@ Remember that a futures contract is a standardised forward contract, traded on a
 The notional coupon in the contract spec i cation has relevance in that it is the basis of the calculation of each bond’s  price factor  or  conversion factor ; otherwise it has no bearing on understanding the price behaviour of the futures contract. Remember the contract is based on a  notional  bond, as there will be more than one bond that is eligible for delivery into the contract. The set of deliverable bonds is known as the  delivery basket . Therefore the futures price is not based on one particular bond, but acts rather like a hybrid of all the bonds in the basket (see Burghardt, page 4). What can we say about Table 1.2? For instance, exchanges specify minimum price movements, which is 0.01 for European contracts and 1/32nd for the US contracts.
 
 Every bond in the delivery basket will have its own  conversion factor , which is intended to compensate for the coupon and timing differences of deliverable bonds. The exchange publishes tables of conversion factors in advance of a contract starting to trade, and these remain ﬁxed for the life of the contract. These numbers will be smaller than 1.0 for bonds having coupons less than the notional coupon for the bond in the contract, and greater than 1.0 otherwise.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b0059173337ee061b8861e348f979b3dde059e59c3c64d802578fe64a8f13aa.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b0059173337ee061b8861e348f979b3dde059e59c3c64d802578fe64a8f13aa.jpg)
 Notes All times are local. The notional coupon of the Treasury bond, while deprecated as a concept by some writers, is  $6\%$  . It was changed from  $8\%$   from the March 2000 contract onwards.
 
 Table 1.2:  Selected futures contract spec i cations
@@ -254,7 +254,7 @@ Table 1.3 shows the conversion factors for all gilts that were eligible for deli
 
 The yield obtainable on bonds that have different coupons but identical maturities can be equalised by adjusting the price for each bond. This principle is used to calculate the conversion factors for different bonds. The conversion factor for a bond is the price per £1 (or per  $\S1,\in1$  , and so on) at which the bond would give a yield equal to the yield of the notional coupon speciﬁed in the futures contract. This is  $7\%$   in the case of the long gilt contract,  $6\%$   for the Treasury long bond, and so on. In other words the conversion factor for each bond is the price such that every bond would provide an investor with the same yield if purchased; or, the price at which a deliverable bond would trade if its gross redemption yield was   $7\%$   (or   $6\%$  , and so on). The yield calculation is rounded to whole quarters, given the delivery month cycle of futures. Futures exchanges calculate conversion factors effective either on the exact delivery date, where a single date is deﬁned, or (as at LIFFE) on the ﬁrst day of the delivery month if delivery can take place at any time during the delivery month.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a79131a61fd3a9967ab24e934d99f5622e4d40f1f70481dd2031a934fb6c749e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a79131a61fd3a9967ab24e934d99f5622e4d40f1f70481dd2031a934fb6c749e.jpg)
 Table 1.3:  Conversion factors for deliverable gilts, Dec00 to Mar02 long gilt contracts. Source: LIFFE.
 The conversion factor is assigned by the exchange to each bond in the delivery basket at the start of trading of each contract. It remains constant throughout the life of the contract. A particular bond that remains in the delivery basket over a length of time will have different conversion factors for successive contracts. For example the  $9\%$   UK Treasury maturing on 13 October 2008 had conversion factors of 1.1454317, 1.1429955 and 1.1407155 for the LIFFE long gilt contracts that matured in June, September and December 1998 respectively.
 
@@ -343,8 +343,8 @@ We can calculate the gross basis that would apply in a hypothetical cash-andcarr
 bond purchase    outflow of funds:   $131.461+1.5781=133.0390822$   $(112.98\times1.1525705)+4.192=134.409196$  future sale    inflow of funds:
 
 The gross basis is   $131.4610-(112.98\times1.1525705)$   or 1.24358491.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/98fb8e6583575614f2a5a74384c74d83c2a66850b1eefc0221f3f05b05540555.jpg)
-Figure 1.6:  Delivery basket for Jun00 long gilt, Bloomberg page DLV, 15 March 2000.    $\copyright$  Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/98fb8e6583575614f2a5a74384c74d83c2a66850b1eefc0221f3f05b05540555.jpg)
+Figure 1.6:  Delivery basket for Jun00 long gilt, Bloomberg page DLV, 15 March 2000.      Bloomberg L.P. Reproduced with permission
 
 # 1.3.5 The net basis
 
@@ -454,7 +454,7 @@ The cash inﬂow per £100 nominal as a result of this trade is:
 
 Implied clean price of bond on 1 December  $114.50\times1.1407155$  (futures price on 1 October multiplied by conversion factor)
 
-Accrued interest (1 October – 1 December)  $\pmb{\Sigma}9\times(61/365)$  Total inﬂow 132.11603
+Accrued interest (1 October – 1 December)  $\textdollar{\Sigma}9\times(61/365)$  Total inﬂow 132.11603
 
 The implied price of the bond on 1 December equals the futures price on 1 October multiplied by the conversion factor for the bond. Because the futures price is quoted clean, accrued interest has to be added to obtain the implied dirty price on 1 December.
 
@@ -500,23 +500,23 @@ $$
 \begin{array}{r l r}{(112.2244659/111.558696-1)\times;(365/46)\times;100}&{{}\quad}&{=4.735390\%}\end{array}
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f47ffcb8ed90a432be9c75ec07b6120a6b7a857f365f4a668ff65237067a5a7e.jpg)
-Figure 1.7:  Bloomberg YA page for   $6\%$   2010 gilt, showing accrued interest for value 13 August 2001.    $\copyright$  Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f47ffcb8ed90a432be9c75ec07b6120a6b7a857f365f4a668ff65237067a5a7e.jpg)
+Figure 1.7:  Bloomberg YA page for   $6\%$   2010 gilt, showing accrued interest for value 13 August 2001.      Bloomberg L.P. Reproduced with permission
 
 These calculations are conﬁrmed by looking at the Bloomberg screens YA and DLV for value on 13 August 2001, as shown in Figures 1.7 and 1.8 respectively. Figure 1.7 is selected for the   $6\%$   2010 gilt and Figure 1.8 is selected for the front month contract at the time, the Sep01 gilt future. Figure 1.9 shows the change in CTD bond status between the   $6\%$   2010 gilt and the  $9\%$   2011 gilt, the second cheapest bond at the time of the analysis, with changes in the futures price. The change of CTD status with changes in the implied repo rate is shown in Figure 1.10. Both are Bloomberg page HCG.
 
 Page DLV on Bloomberg lists deliverable bonds for any selected futures contract. Bonds are listed in order of declining  implied repo rate ; the user can select in increasing or decreasing order of implied repo rate, basis, yield, maturity, coupon or duration. The user can also select the price source for the
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62f97ab377900a755680002fba3067cbfaf0d3b20a1037ffa87b9f4bf5cc4644.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62f97ab377900a755680002fba3067cbfaf0d3b20a1037ffa87b9f4bf5cc4644.jpg)
 
-Figure 1.8:  Bloomberg DLV page for Sep01 (U1) gilt contract, showing gross basis, net basis and IRR for trade date 12 August 2001.  $\copyright$  Bloomberg L.P. Reproduced with permission
+Figure 1.8:  Bloomberg DLV page for Sep01 (U1) gilt contract, showing gross basis, net basis and IRR for trade date 12 August 2001.    Bloomberg L.P. Reproduced with permission
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/093053bf30e013d0c93deb9ad77a568099f28254268766a58a4d54c64e643f8e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/093053bf30e013d0c93deb9ad77a568099f28254268766a58a4d54c64e643f8e.jpg)
 
 #
 
-Figure 1.9:  Bloomberg HCG page for Sep01 (U1) gilt contract, showing CTD bond history up to 12 August 2001 with changes in futures price.  $\copyright$  Bloomberg L.P. Reproduced with permission
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78e71895e5d967178c4aa370cab7077b8943ea9f9af91c402d2eadc75aacb76d.jpg)
-Figure 1.10:  Bloomberg HCG page for Sep01 (U1) gilt contract, showing CTD bond history up to 12 August 2001, with changes in implied repo rate.    $\copyright$  Bloomberg L.P. Reproduced with permission
+Figure 1.9:  Bloomberg HCG page for Sep01 (U1) gilt contract, showing CTD bond history up to 12 August 2001 with changes in futures price.    Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78e71895e5d967178c4aa370cab7077b8943ea9f9af91c402d2eadc75aacb76d.jpg)
+Figure 1.10:  Bloomberg HCG page for Sep01 (U1) gilt contract, showing CTD bond history up to 12 August 2001, with changes in implied repo rate.      Bloomberg L.P. Reproduced with permission
 
 bonds (in our example set at ‘‘Bloomberg Generic’’ rather than any speciﬁc bank or market maker) and the current cash repo rate.
 
@@ -628,9 +628,6 @@ $$
 where
 
 $u$  is the number of calendar days from and including the issue date up to but excluding the ﬁrst day of the delivery month;  $s_{1}$  is the number of calendar days in the full coupon period in which the issue date occurs;  $s_{2}$  is the number of days in the next full coupon period after the full coupon period in which the issue date occurs;  $p_{1}$  is the number of calendar days from and including the issue date up to but excluding the next quasi-coupon date;  $p_{2}$  is the number of calendar days from and including the quasi-coupon date after the issue date up to but excluding the ﬁrst day of the delivery month, which falls in the next full coupon period after the full coupon period in which the issue date occurs.
-
-
-
 # Basis Trading and the Implied Repo Rate 
 
 In this chapter we look in more detail at some fundamentals behind the basis, including the factors that drive its behaviour, and we also consider implications of the short future’s delivery option. There is also, in an appendix at the back of this book, recent delivery history for the LIFFE long gilt future, for illustrative purposes and to observe delivery patterns.
@@ -646,10 +643,10 @@ We will take a look at this, but ﬁrst let’s consider the principle behind no
 At the expiration of a futures contract, as the exchange delivery settlement price is being determined, there should be no opportunity for a market participant to generate an arbitrage proﬁt by buying bonds and selling futures; by deﬁnition, because on the last day of trading there is no uncertainty with regard to the carry costs of the bond to delivery. In fact certain exchanges arrange it so that the time between the last trading day and date for delivery is identical to the settlement   process in the cash market. On the last day, someone buying cash bonds will receive value on the same day, and with the same accrued interest, as a long future being delivered into. Thus carry cost is no longer an uncertainty and the price of the futures contract in theory must equate that of the cash bond. In other words, the basis is zero at this point.
 Consider Figure 2.2, the delivery basket for the December 2001 long gilt contract. The bonds have been priced so that they all yield   $7\%$  , the notional coupon. Under these conditions, only one futures price will satisfy the noarbitrage principle. As carry is not an issue on expiry, the no-arbitrage condition is met provided there is a zero basis for one of the deliverable bonds and no negative basis for any of the other bonds. For instance, at a futures price of 100.09, following the price factor conversion the equivalent bond price would be below the market price of the  $8\%$   Treasury 2013 (the cheapest-to-deliver bond at this level) and thus maintain a positive basis. However, for the  $6.25\%$   Treasury 2010 bond, this futures price would be equivalent to a converted bond price of 95.1443. The market price of this bond is lower than this, at 94.9685. In theory a trader can buy the bond at this price, sell the futures contract at 100.09 and realise a trading gain of 0.1758 (the difference between the two prices). This is the arbitrage proﬁt. So the initial suggested price for the futures contract is too high. At a price of 100.06 the future no longer presents an opportunity for proﬁt if buying the basis; however, in theory, selling the basis against the  $9\%$   2011 bond still generates proﬁt. The long future must accept delivery of any of the bonds in the basket however, and will not be delivered this bond. So the adjusted futures price is too low.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c317b843da4f8ec645738a36676be3f31bafd3d6ce3380dc4802d2cbdf4905d.jpg)
-Figure 2.1:  Dec01 long gilt delivery basket as at 17 September 2001.  $\copyright$  Bloomberg L.P. Reproduced with permission
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b084a5fde270603903f9883579e4c5a766ac65c3c69fa8311a22ab3e544f19fc.jpg)
-Figure 2.2:  Dec01 long gilt delivery basket with yields all set at  $7\%$  .  $\copyright$  Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c317b843da4f8ec645738a36676be3f31bafd3d6ce3380dc4802d2cbdf4905d.jpg)
+Figure 2.1:  Dec01 long gilt delivery basket as at 17 September 2001.    Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b084a5fde270603903f9883579e4c5a766ac65c3c69fa8311a22ab3e544f19fc.jpg)
+Figure 2.2:  Dec01 long gilt delivery basket with yields all set at  $7\%$  .    Bloomberg L.P. Reproduced with permission
 
 Hence we know that the arbitrage-free futures price lies between these two levels. In fact we obtain the no-arbitrage price by dividing the bonds’ market prices by their respective conversion factor. These are shown in Table 2.1. The prices in Table 2.1 are the futures prices at which there exists a zero basis for that particular underlying bond. We can determine this relationship easily from the deﬁnition of the basis, as shown below:
 
@@ -663,7 +660,7 @@ $$
 P_{f u t}=\frac{P_{b o n d}}{C F}
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0de8ddacebd2865a47bcdee7b8f0615f7782f9389b2bb2eed09d5a8c47d54ec7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0de8ddacebd2865a47bcdee7b8f0615f7782f9389b2bb2eed09d5a8c47d54ec7.jpg)
 Table 2.1:  December 2001 long gilt delivery basket, price at  $7\%$   notional yield level, and zero-basis futures price
 which illustrates how the deliverable bond price divided by its conversion factor is equal to the zero-basis futures price.
 
@@ -671,7 +668,7 @@ Taking this further, the futures price that would ensure that all the deliverabl
 
 The relative bias of the conversion factor is a function of the duration property of the bonds. For further information on this see Meisner and La bus ze w ski (1984) and Arak  et al  (1986).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f8538e5b00f839916cfe8f78955b3091ce189b1b5afa1f77d464dfc823a1908.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f8538e5b00f839916cfe8f78955b3091ce189b1b5afa1f77d464dfc823a1908.jpg)
 Figure 2.3:  Illustrating bias in the conversion factor, June 2000 long gilt future
 # 2.1.2 Options embedded in bond futures contracts
 
@@ -713,14 +710,14 @@ This shows the implied repo rates for delivery on the ﬁrst day of the delivery
 
 In fact our illustration is a peculiar one, because the gilt yield curve was inverted at this time. In a positively-sloped yield curve environment, higher IRRs will result for longer-term trades and the decision of the short over when to deliver is an obvious one. The other reason why the short future would prefer to delay delivery is because early delivery eliminates the value of the option element that the short future possesses. It is a bit like early exercise of an American option eliminating the option’s time value. In a negative yield curve environment the decision is not so clear cut, although early delivery still removes the short’s option advantage. However the market repo rate would need to be considerably higher than the IRRs to justify early delivery, and this was not the case here. Where the market repo rate is higher, the short future will be running a carry cost each day the basis position is maintained, so this will suggest early delivery.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ca46897fb4657fc05b3477268f2a3e635909f60dd6b550035df21bb2384e84.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ca46897fb4657fc05b3477268f2a3e635909f60dd6b550035df21bb2384e84.jpg)
 Table 2.2:  Identifying the cheapest-to-deliver and the optimum delivery time, December 2000 long gilt basket. Source: LIFFE, JPMorgan Chase Bank
 In theory there should only be two days when the short future delivers: the start or end of the delivery month; but changes in the yield curve, a particular bond yield level, and market repo rates may make it necessary to deliver on dates in between. Consider Table 2.3, which shows the delivery pattern for the September 1996 and December 1998 long gilt contract on LIFFE. In September 1996 the gilt yield curve was conventional and positively sloping, and apart from a small handful of deliveries just prior, all deliveries were made on the last eligible day of the month. In December 1998 however, the yield curve was negatively sloping, and this is reﬂected in the pattern of deliveries. It would appear that some market participants had confused ideas, and although in general bonds were delivered early in the month, some deliveries were still being made right in to the middle of the month. This despite the fact the delivery parties would be experiencing negative carry each day they did not deliver. Essentially, this would have been a cost to all those that did not deliver on the ﬁrst day.
 
 For readers’ interest we list the delivery histories from March 1996 long gilt contract through to the June 2001 contract, in the Appendix to this book.
 
 Table 2.3:  Bond delivery patterns for two gilt futures contracts, reﬂecting the shape of the yield curve at time of delivery
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac8e85ca206a6604b7225e85dd36feb51c9d8796e639d758c5213b1ff32ed09.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac8e85ca206a6604b7225e85dd36feb51c9d8796e639d758c5213b1ff32ed09.jpg)
 # 2.2.3 Changes in CTD status
 
 A bond may be replaced as CTD if there are changes in relative yield levels of deliverable bonds, if the shape of the yield curve changes or if speciﬁc repo rates turn special for certain bonds and not others. Benninga (2001) amongst others has identiﬁed the following general rules:
@@ -774,10 +771,4 @@ Arak, M., Goodman, L., Ross, S., ‘‘The Cheapest to Deliver Bond on the Treas
 Benninga, S.,  Financial Modeling , MIT, 1997, Chapter 18 Kolb, R.,  Understanding Futures Markets , Kolb Publishing 1994, Chapter 9 Meisner, J., La bus ze w ski, J., ‘‘Treasury Bond Futures Delivery Bias’’,  Journal of Futures Markets , Winter 1984, pp. 569–572
 
 # Selected bibliography and references
-
-
-
 Benninga, S., Weiner, Z., ‘‘An Investigation of Cheapest-to-Deliver on Treasury Bond Futures Contracts’’,  Journal of Computational Finance 2 , 1999, pp. 39–56 Boyle, P., ‘‘The Quality Option and the Timing Option in Futures Contracts’’, Journal of Finance 44 , 1989, pp. 101–113 Burghardt, G.,  et al ,  The Treasury Bond Basis , revised edition, Irwin 1994 Galitz, L.,  Financial Engineering , revised edition, FT Pitman, 1995, Chapter 8 Fabozzi, F.,  Treasury Securities and Derivatives , FJF Associates, 1998 Fabozzi, F.,  Bond Portfolio Management , 2nd edition, FJF Associates, 2001, Chapters 6, 17 Plona, C.,  The European Bond Basis , McGraw-Hill 1997 Rubinstein, M.,  Rubinstein on Derivatives , RISK Books, 1999 Jonas, S., ‘‘The change in the cheapest-to-deliver in Bond and Note Futures’’, in Dattatreya, R., (ed.),  Fixed Income Analytics , McGraw-Hill 1991 Van Deventer, D., Imai, K.,  Financial Risk Analytics: A Term Structure Model Approach for Banking, Insurance and Investment Management , Irwin 1997, page 11
-
-
-

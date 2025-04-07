@@ -1,13 +1,11 @@
 ---
 aliases:
-- Alias_178_Deriving Forward Exchange Rate Numerical Example.md
-- Alias_179_Deriving Forward Exchange Rate Numerical Example.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Deriving Forward Exchange Rate Numerical Example
 ---
-
-
 # Deriving Forward Exchange Rate Numerical Example
 
 [Carry Trade](Carry%20Trade.md)
@@ -143,9 +141,6 @@ On Monday,  Jan 4,  2010,  $ (t)$,  the exchange rate was ${} S_T = 1.4413$ and 
 - Unfunded Speculative Position through Futures:
   - Profit = 125, 000 x $ (1.441 - 1.4334)$ = $950
   - Return on Investment ${} \frac{950}{2, 995} = 31.72\%$
-
-
-
 ## HEDGING WITH FUTURES:
 
 **Objective**: To mitigate the risk of price fluctuations in a commodity or currency that a firm is either planning to buy or sell in the future.

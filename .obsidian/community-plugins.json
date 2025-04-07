@@ -48,5 +48,18 @@
   "tab-limit",
   "title-renamer",
   "link-exploder",
-  "hide-folders"
+  "hide-folders",
+  "arrows-in-md",
+  "external-rename-handler",
+  "hierarchical-backlinks",
+  "macos-vibrancy",
+  "obisidian-note-linker",
+  "table-extended",
+  "ai-tagger",
+  "ai-tagger-universe",
+  "obsidian-local-rest-api",
+  "llm-tagger",
+  "hamsterbase",
+  "external-file-embed-and-link",
+  "github-sync"
 ]

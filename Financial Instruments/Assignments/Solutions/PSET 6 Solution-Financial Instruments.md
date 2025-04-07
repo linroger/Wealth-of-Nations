@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_155_PSET 6 Solution-Financial Instruments.md
+- 
 - Solution to Homework 6
-- Alias_154_PSET 6 Solution-Financial Instruments.md
+- 
 linter-yaml-title-alias: Solution to Homework 6
 tags:
-- tag_example
+- 
 title: Solution to Homework 6
 ---
-
-
-
 # Solution to Homework 6
 
 ## 1. Implied Volatility
@@ -25,7 +22,7 @@ Figure 1: Implied volatility for June 21,  2024 S&P500 call and call options
 As you can see the volatility is not constant.but it is decreasing with the monevness of the option (as in the Figure from Teaching Note 6).
 
 The PLUS security has one-year to maturity with embedded call options so it would be nice to have implied volatility for a one-year maturity. I use the February 2025 options (maturity of 12 months) (don't worry if you didn't do this!). Implied volatility from the June 2024 and February 2025 call options with $r(1)=4.8\%$ (from the one-year constant maturity yield) are show in Figure 2.
-![](https://storage.simpletex.cn/view/f4FFtsCbYoOuN2Us9Tx7prGBVrbHBbWz4)
+ ![500](https://storage.simpletex.cn/view/f4FFtsCbYoOuN2Us9Tx7prGBVrbHBbWz4)
 
 Figure 2: Implied volatility for June 2024 and February 2025 S&P500 call options
 
@@ -40,7 +37,7 @@ Starting with $S_{T}\leq S_{0}$,  this is just a long position in $\frac{10}{S_0
 
 Finding the payoff for the case when $S_{T}>S_{0}$ is simpler than it first appears. The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of $S_{T}$
 
-![](https://storage.simpletex.cn/view/fBaxKw6vDpLqho5CNS2tfWazQ28oV0xsI)
+ ![500](https://storage.simpletex.cn/view/fBaxKw6vDpLqho5CNS2tfWazQ28oV0xsI)
 
 Figure 3: PLUS payoff decomposition
 We see that there are two points where the slope changes. The first point is $S_{0}$ while the second is where:
@@ -106,7 +103,7 @@ $$V^{PLUS}=N\cdot\left[e^{-y}S_{0}+2\cdot c^{ATM}-3\cdot c^{OTM}\right]=10.114$$
 	- Changing this value implicitly changes the strike price,  $K_{1}$,  of the OTM option.
 	- The value of $C$ that sets the PLUS security value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5, 268.42$.
 	- By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
-![](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
+ ![500](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
 Figure 4: PLUS payoff change with $C=11.61$
 
 (2) The sensitivity of the PLUS to changes in the underlying is given by
@@ -138,10 +135,10 @@ which is less than 1. At the current level of the S&P500 the security is less ri
 Computing the value of beta for different values of S (keeping the same impliec volatilities used to compute option prices)and for different times to maturity(see Figure 5)，we see that as we approach maturity,  the beta of the PLUS increases substantially in the region between $S_{0}$ and $K_{1}$
 
 This happens because between $S_{0}$ and $K_{1}$ the PLUS security is a leveraged investment (the slope of the payoff increases in that region since the at the money option becomes in the money).In may be helpful to see how the value of the security changes when the value of the underlying changes at different points in time. This is shown in Figure 6.
-![](https://storage.simpletex.cn/view/fVxbI04IrEmodiRsPg8SrO1QQAOO0aALB)
+ ![500](https://storage.simpletex.cn/view/fVxbI04IrEmodiRsPg8SrO1QQAOO0aALB)
 
 Figure 5: PLUS beta for different values of $S$ and $t$
 
-![](https://storage.simpletex.cn/view/feu7aq8BzE5SgvO1muvkL2ihVHwYIq8yk)
+ ![500](https://storage.simpletex.cn/view/feu7aq8BzE5SgvO1muvkL2ihVHwYIq8yk)
 
 Figure 6:PLUS value for different values of S and $t$

@@ -43,7 +43,7 @@ Early that afternoon,  Citadel CEO Kenneth Griffin called Tom Marano,  the he
 
 "I'm not short,  " Mr. Griffin insisted. Any doubters could visit Citadel,  he said,  and review its trading positions themselves.
 
-![](https://s.wsj.net/public/resources/images/P1-AL751_Bear1_20080528235615.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL751_Bear1_20080528235615.jpg)
 
 Citadel CEO Kenneth Griffin denies to a Bear Stearns executive that he is betting against the firm's stock. ILLUSTRATION: TIM BOWER
 
@@ -77,7 +77,7 @@ The bank had gotten cold feet after its senior managers returned to Park Avenue 
 
 A deal with Flowers wasn't looking any more likely. By midday Sunday,  the buyout firm knew it would be impossible to raise $20 billion fast enough to keep Bear Stearns operating. Flowers now toyed with alternatives: It asked Mr. Parr if Bear Stearns's large rivals would consider buying the firm's prime-brokerage business,  a prized asset that processed and financed trades with big clients. Perhaps then,  Flowers reasoned,  it could proceed with a purchase of Bear Stearns's core bond and stock units. Those deals never materialized.
 
-![](https://s.wsj.net/public/resources/images/P1-AL752_Bear2_20080528235625.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL752_Bear2_20080528235625.jpg)
 
 Bear Stearns CFO Samuel Molinaro finds out that the federal government wants his firm sold in two days. ILLUSTRATION: TIM BOWER
 
@@ -101,7 +101,7 @@ Given the unprecedented level of government involvement in rescuing the troubled
 
 By midafternoon,  as Bear Stearns directors hashed out these issues,  Mr. Parr took a call from Doug Braunstein,  head of investment banking at J.P. Morgan. "The number's $2,  " Mr. Braunstein told him.
 
-![](https://s.wsj.net/public/resources/images/P1-AL753_Bear3_20080528235635.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL753_Bear3_20080528235635.jpg)
 
 J.P. Morgan CEO James Dimon tries to woo upset Bear Stearns employees. ILLUSTRATION: TIM BOWER
 
@@ -169,7 +169,7 @@ The firm's directors talked briefly about suing J.P. Morgan to continue the fina
 
 While Mr. Cohen telephoned his contacts at the New York Fed,  Mr. Schwartz called Kevin Warsh,  a former investment banker at Morgan Stanley who had been a member of the Federal Reserve Board for two years. "We're under a perceived threat,  " Mr. Schwartz told Mr. Warsh,  explaining that J.P. Morgan appeared to be playing hardball in order to garner a bigger chunk of Bear Stearns's shares. While Bear Stearns was prepared to renegotiate,  Mr. Schwartz said,  it needed a higher price. Mr. Warsh pressed him for details on the firm's situation but declined to take sides.
 
-![](https://s.wsj.net/public/resources/images/P1-AL755_BEARDA_20080528194018.gif)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL755_BEARDA_20080528194018.gif)
 
 On Easter morning,  Mr. Schwartz called Mr. Dimon. "There's a psychological limit here,  " he said. Bear Stearns's directors needed a sale price in the double digits to feel comfortable. "Don't come back to me at $9.99,  " he cautioned Mr. Dimon.
 

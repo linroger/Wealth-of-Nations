@@ -3,10 +3,10 @@ title: Moats in Various Areas of Consumer Sector (Cont.)
 cssclasses:
   - academia
 aliases:
-  - Alias_321_Week 2 Retail.md
-  - Alias_318_Week 2 Retail.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - finance
   - financialanalysis
   - retailindustry
@@ -62,7 +62,7 @@ Today
 
 ## VALUATION PROCESS
 
-![](30d768641aab2cf71ff7587874108fa3.png)
+ ![500](30d768641aab2cf71ff7587874108fa3.png)
 
 - Part I is historical
 - Part II is prospective,   but hinges critically on historical analysis
@@ -70,22 +70,22 @@ Today
 
 ## RETAIL COMPETITIVE ANALYSIS INDUSTRY ANALYSIS
 - Porter's five forces provide a useful starting point
-- ![](9eac76514fe411ce86cd09ac5e5929a6.png)
+-  ![500](9eac76514fe411ce86cd09ac5e5929a6.png)
 Source: Michael Porter,   *Competitive Strategy*,   1980 
 
 ## EXISTING COMPETITIVE RIVALRY (FOOD RETAIL)
 
-![](e8ea6754e2ddbbd2c634b4d938d3d306.png)
+ ![500](e8ea6754e2ddbbd2c634b4d938d3d306.png)
 
 Source: Credit Suisse Many players and low market shares – competition is intense
 
 ## PRICING ANALYSIS: WHOLE FOODS
 - ANALYZING PRICING PROVIDES INSIGHTS INTO COMPETITIVE RIVALRY COMPARING PRICES
-- ![](dd8e0348de8dc52add14eaa7f3d17d25.png)
+-  ![500](dd8e0348de8dc52add14eaa7f3d17d25.png)
 - ACROSS COMPETITORS BY PRODUCT CATEGORY COMPARING PRIVATE LABEL (WHOLE FOODS 365) TO MAIN BRAND PRICING
 ### PRICE GAP ANALYSIS: KROGER VS. WALMART COMPETITIVE STRATEGIES
 
-![](cffedda1962d54d82e3faae68366fd72.png)
+ ![500](cffedda1962d54d82e3faae68366fd72.png)
 
 ## COMPETITIVE STRATEGIES
 - Both Cost Leadership And Differentiation Strategies Exist In Food Retail
@@ -101,14 +101,14 @@ Source: Credit Suisse Many players and low market shares – competition
 
 ## PROMOTIONAL ANALYSIS TO STUDY RELATIVE PRICING POWER
 
-![](73ad193e4552d43a52dcdca9229eafba.png)
+ ![500](73ad193e4552d43a52dcdca9229eafba.png)
 
 ## COMPETITION AND LOCATION
 
 - Analysts also gauge competitive rivalry in retail using measures of proximity and overlapping of footprint
 ‒ Same analysis can be conducted for other industries such as restaurants
 - Example of overlap between Whole Foods and other retailers
-- ![](7c70ae2834aad2618708f89367a8a939.png)
+-  ![500](7c70ae2834aad2618708f89367a8a939.png)
 Source: Credit Suisse
 
 ## THREAT OF ENTRY
@@ -116,13 +116,13 @@ Source: Credit Suisse
 	 - Costs of opening a store are relatively low
 	 - However,  larger retailers have economies of scale in buying and distribution that allows them to lower costs
 		  - Scale and distribution networks present significant entry barriers
-- ![](69ac3da75b824872f68c7a478a93f76d.png)
+-  ![500](69ac3da75b824872f68c7a478a93f76d.png)
 ## SUBSTITUTES
 - Threats from substitutes in retail is generally high
 	 - Narrow vs. broader perspective
 	 - What is a broad substitute in food retail?
 - Example: Private labels are primarily used by discounted formats
-![](004690ac5722794a2738831f548184b1.png)
+ ![500](004690ac5722794a2738831f548184b1.png)
 
 - Alternative channels for 'how to buy' can viewed as 'substitute'
 	 - Online shopping & home delivery service
@@ -138,13 +138,13 @@ Source: Credit Suisse
 
 ## PANDEMIC GAVE E‐COMMERCE A BIG BOOST
 
-![](d87db4540fce23b19ff79303d8572144.png)
+ ![500](d87db4540fce23b19ff79303d8572144.png)
 
 ## EVEN PRE‐PANDEMIC,  PHYSICAL STORES CLOSED AT HIGH RATES
 - Despite strong consumer economy,  U.S. store closures of 9,  000+ in 2019 beat the previous record of 8,  000 in 2017
 - Early in 2020 (pre‐pandemic),  retailers announced 1,  200+ planned closures
 - Big Box stores play important role (e.g.,  Costco,  Sam's Club)
-![](2faf549b690bc9b0fb6c360201f6b2a5.png)
+ ![500](2faf549b690bc9b0fb6c360201f6b2a5.png)
 ## BARGAINING POWER: CUSTOMERS & SUPPLIERS
 
 - Consumers typically have no bargaining power,  but:
@@ -184,26 +184,26 @@ We are exposed to concentration of credit risk from our major customers,  includ
 - Tractor Supply (TSCO) operates rural lifestyle retail store in the U.S.
 - This is a very specific niche that few other retailers serve
 - Very healthy profitability
-![](a295ab5058443fe61150ca282b4dc03a.png)
+ ![500](a295ab5058443fe61150ca282b4dc03a.png)
 ## MOATS IN VARIOUS AREAS OF CONSUMER SECTOR
 
-![](2311e2e6413bbc6a585569d5437e0469.png)
+ ![500](2311e2e6413bbc6a585569d5437e0469.png)
 
 # Moats in Various Areas of Consumer Sector (Cont.)
 
-![](676f330390975269554c31bf925aee47.png)
+ ![500](676f330390975269554c31bf925aee47.png)
 
 ## RETAIL VALUE DRIVERS
 
 ### RETAIL : LOW MARGIN,   HIGH TURNOVER
 
-![](87afc2fa732d137fe0dc564d70fe36e7.png)
+ ![500](87afc2fa732d137fe0dc564d70fe36e7.png)
 
 Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful Material) – See GICS 2550 (Retailing)
 
 ## KEY VALUE DRIVERS IN RETAIL
 
-![](8da354733f53ce60171112e23c52ca5f.png)
+ ![500](8da354733f53ce60171112e23c52ca5f.png)
 
 ### KEY VALUE DRIVER (OR KPI) IN RETAIL
 
@@ -211,7 +211,7 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 - Gross margin; operating margin - Same‐store sales (SSS):
 - Sales per square foot
 - Traffic and ticket
-![](1e01d977ed0e33cb465594f23dbb4b82.png)
+ ![500](1e01d977ed0e33cb465594f23dbb4b82.png)
 ## TURNOVER AND CASH CONVERSION CYCLE
 
 - Turnover is essentially an efficiency measure
@@ -255,7 +255,7 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 	 - Creates correlation between SSS growth and growth from new stores
 ## FORECASTING AND MODELING PROCESS
 
-![](63124dd3142b9d1fa45078a3a08c6036.png)
+ ![500](63124dd3142b9d1fa45078a3a08c6036.png)
 
 - Story line creation,  including
 	- Perspective on industry evolution
@@ -268,7 +268,7 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 - Review for technical correctness
 - Review for consistency with past performance
 - Could use multiples as plausibility check
-- ![](a514669a4e730196c7d9b2314cc32042.png)
+-  ![500](a514669a4e730196c7d9b2314cc32042.png)
 ## BUILDING DETAILED FORECASTS
 
 - Revenue (growth) is likely the most important forecast in your model
@@ -281,18 +281,18 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 
 ## AMAZON SEGMENT DISCLOSURES
 
-![](e32a82f9fcf22fd58eac2f3d665179c5.png)
+ ![500](e32a82f9fcf22fd58eac2f3d665179c5.png)
 
 - Note different growth rates for each segment
 - Operating income growth primarily driven by AWS not retail
 
 ## AMAZON SEGMENT DISCLOSURES: SALES BREAKDOWN
 
-![](33a937b3ef9019761db468323693386d.png)
+ ![500](33a937b3ef9019761db468323693386d.png)
 
 - Physical stores stagnating
 - Strong growth in third‐party seller services
-- ![](a23a1363e745682f1d9880d3920a7943.png)
+-  ![500](a23a1363e745682f1d9880d3920a7943.png)
 - Large heterogeneity in growth rates → matters for revenue forecasts
 
 ## VISIBLE ALPHA
@@ -300,20 +300,20 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 - Backed By Leading Investment Banks
 	 - Banks Are Contributing Content (Full Models)
 	 - In essence,  you get "valuation‐implied" consensus for specific value drivers
-![](8e0a8d56e71195f7f4d748a8d221a665.png)
+ ![500](8e0a8d56e71195f7f4d748a8d221a665.png)
 ‒ In essence,   you get "valuation‐implied" consensus for specific value drivers
 
 ## SBUX: SAME‐STORE SALES 
 
 – TICKET AND TRANSACTION VOLUME COMBINE: TOP DOWN AND BOTTOM UP FORECASTS
 
-![](3da23e3839d2b20f1071fea95112657b.png)
+ ![500](3da23e3839d2b20f1071fea95112657b.png)
 
 Rivian: TAM for last‐mile delivery van
 
-![](0ca37070003a7ee293570bf95b56e1a7.png)
+ ![500](0ca37070003a7ee293570bf95b56e1a7.png)
 
-![](54eef9a01dfd15cee9a7efd3504ebb62.png)
+ ![500](54eef9a01dfd15cee9a7efd3504ebb62.png)
 
 ## TOTAL ADDRESSABLE MARKET: ZOOM
 
@@ -336,10 +336,10 @@ Rivian: TAM for last‐mile delivery van
 - What about fixed costs?
 	 - Does it make sense to predict margins (or COGS) relative to sales?
 	 - Let's take a quick vote
-![](e44588ff458c7a940d8527e363153195.png)
+ ![500](e44588ff458c7a940d8527e363153195.png)
 ## ILLUSTRATION: SG&A FOR STARBUCKS
 
-![](03f25d6982769a64bd2c63235c3e8d58.png)
+ ![500](03f25d6982769a64bd2c63235c3e8d58.png)
 
 Estimating the relation between **SG&A** and Sales FY 2008 and FY 2009
 
@@ -373,7 +373,7 @@ included special charges
 
 ## UNIT ECONOMICS FOR DIFFERENT BUSINESSES
 
-![](2f6fb2d2417a43bdbd92c90abde803e5.png)
+ ![500](2f6fb2d2417a43bdbd92c90abde803e5.png)
 
 ## HOW DO WE DETERMINE WHAT UNIT LEVEL TO LOOK AT?
 
@@ -390,7 +390,7 @@ included special charges
 
 ## UNIT ECONOMICS FROM VISIBLE ALPHA
 
-![](6b61bbbe033f25fbaf17ff302c488f1a.png)
+ ![500](6b61bbbe033f25fbaf17ff302c488f1a.png)
 
 ## HIGH‐LEVEL SUMMARY
 
@@ -450,12 +450,12 @@ regularly reported revenue growth exceeding analysts' consensus forecasts
 	- ‒ These cash inflows to the retailer should be recognized as an adjustment to cost of inventories or COGS
 - Tesco boosted revenues and earnings by recognizing rebates and refunds as revenue
 ‒Tesco announced on September 22,   2014 that it had overstated its expected H1 profit by £250MM or 23%. Four senior employees were asked to step down during the course of the investigation
-![](7b94385297ffd390aa9f8a4bc975eabe.png)
+ ![500](7b94385297ffd390aa9f8a4bc975eabe.png)
 https://www.economist.com/news/business/21654601-supplier-rebates-are-heart-some-supermarket-chains-woes-buying-up-shelves
 
 ## VENDOR REBATES AT TESCO (CONT'D)
 
-![](bbeb2183e16cd8a050f0464defbf13d6.png)
+ ![500](bbeb2183e16cd8a050f0464defbf13d6.png)
 
 - ANALYSTS RESPONDED BY IMMEDIATELY CUTTING FORECASTS (E.G.,   DEUTSCHE BANK BELOW) KPI: SAME STORE SALES AT COACH
 - SSS is one of the most used KPI in retail
@@ -474,7 +474,7 @@ sales
 - When did they make this change?
 ‒ Company launched multi‐year plan to expand the most productive stores
 ‒ SSS growth was decreasing before the change
-![](7aa2c84d3188753e2445819a6049508f.png)
+ ![500](7aa2c84d3188753e2445819a6049508f.png)
 ## RETAIL CASE: DOLLAR GENERAL DOLLAR GENERAL CASE
 
 - Purpose: Ratio analysis and relative valuation (multiples)

@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_370_Teaching Note 4 Interest Rate Derivatives.md
-  - Alias_373_Teaching Note 4 Interest Rate Derivatives.md
+  - 
+  - 
   - Interest Rate Derivatives
 tags:
-  - tag_example
+
 title: Teaching Note 4 Interest Rate Derivatives
 ---
 
@@ -57,7 +57,7 @@ $$\text{Net payment at }T_{2}=N\times\Delta\times[r_{n}(T_{1},  T_{2})-f_{n}]\ta
 
 #### A FORWARD INVESTMENT
 
-![](aforwardinvestment.svg)
+ ![500](aforwardinvestment.svg)
 
 ## HEDGING INTEREST RATE RISK
 - Clearly,  using the banks offer locks in the rate$f_{2}$for the period$T_1$to$T_2$for the firm,  as
@@ -69,7 +69,7 @@ $$\text{Total amount} = \left\{ \$100 \text{ million} \times \left[1 + \frac{f_2
 
 ## TRADING STRATEGY TO COMPUTE FORWARD RATE
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240414082741031.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240414082741031.png)
 
 - The bank is perfectly hedged.
 - Note also that the quoted forward rate is effectively implicit in the ratio
@@ -94,7 +94,7 @@ $$f_{2}(0,  0.5,  1)=2\times\left(\frac{1}{F\left(0,  0.5,  1\right)^{\frac{1}{2
 ## THE SPOT CURVE AND THE FORWARD CURVE
 
 - The **forward curve** gives the relation between the forward rate$f(0,   T,   T + ∆)$and the time of.the investment T. Curves on January 2,  2020
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234143923.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234143923.png)
 
 ## THE VALUE OF A FORWARD RATE AGREEMENT
 
@@ -163,11 +163,11 @@ $$Z\left(t,  T_{i}\right)=\frac{1-\frac{c\left(t,  T_{i}\right)}{n}\times\Sigma_
 - The resulting yield curve is called [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] curve.
 ## TREASURY AND SWAP DISCOUNT AND YIELD ON JANUARY 4,  2005
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234843892.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234843892.png)
 
 ## THE 5-YEAR ZERO COUPON TREASURY AND SWAP YIELD
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234909341.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234909341.png)
 
 ### SWAP SPREAD TRADES AND THE RISK IN CONVERGENCE TRADES
 - Today is June 30,  2006,  and we are looking to make a profit on the swap spread.
@@ -189,7 +189,7 @@ $$S S=5.69\%-5.10\%=0.59\%=59\ b p s$$
 - The net spread is$SS − LRS = 35.19$bps.
 - This spread is not very large,  but the LIBOR-repo spread has been historically relatively stable at around 21 bps and so this net spread (SS − *LRS*) still appears a relatively safe trade.
 - Using daily data from Jan 2000 to Jun 2006,  the distribution of the LIBOR-repo spread is as
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413020653936.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413020653936.png)
 - Even in extreme circumstances,  the net spread would be at least$0.59\% − 0.37\% = 22 bps$
 
 ## THE TRADE
@@ -238,7 +238,7 @@ $$\text{Total expected net cash flow per year }=2\times\$285,  499.73-4\times\$5
 
 ### NET CASH FLOWS FROM SWAP SPREAD TRADE
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413001954481.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413001954481.png)
 
 ## UNWINDING THE POSITION?
 
@@ -267,7 +267,7 @@ $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100
 - Here,  $Z(t,   T_i)$is the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] discount curve (see next Figure)
 ### THE [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] CURVE: JUNE 2006 – JUNE 2008
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002218281.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002218281.png)
 
 ## THE SURPRISE
 
@@ -281,7 +281,7 @@ $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100
 
 ## THE SWAP SPREAD TRADE VALUE
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002314426.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002314426.png)
 
 ### CONCLUSION: THE RISK IN RELATIVE VALUE TRADES
 
@@ -309,7 +309,7 @@ $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100
 
 ### NEGATIVE SWAP SPREADS DURING THE CRISIS
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002516315.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002516315.png)
 
 ## NEGATIVE SWAP SPREAD AND NO ARBITRAGE
 
@@ -328,7 +328,7 @@ $$V_{t}^{T r a d e}=(P_{c}^{T-B o n d}(t,  T)-P_{c}^{S w a p}(t,  T))$$
 
 ### NEGATIVE SPREADS CONTINUE
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002628495.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002628495.png)
 
 ## VIOLATION OF NO-ARBITRAGE DURING THE 2007 - 2008 CRISIS
 - The violation of no-arbitrage rules was widespread during the recent crisis
@@ -348,11 +348,11 @@ $$F_{t,  T}^{data}-F_{t,  T}$$
 
 ## CIP VIOLATION DURING THE 2007 - 2009 FINANCIAL CRISIS: EURO / DOLLAR
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003013025.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003013025.png)
 
 ### CIP VIOLATION DURING THE 2007 - 2009 FINANCIAL CRISIS: UKP / DOLLAR
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003028723.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003028723.png)
 
 ### WHY DID COVERED INTEREST RATE PARITY FAIL DURING THE 2007-2009 CRISIS?
 - Holding US Treasuries has its own "convenience yield" when everyone needs cash collateral. - During the crisis,  from the graph,  we had the following violation:
@@ -372,7 +372,7 @@ $$F_{t,  t+m}^{d a$t$a}>F_{t,  t+m}=M_{t}\;e^{(r_{\$}-r_{e})m}$$
 
 ## CROSS-CURRENCY BASIS RISK AFTER THE CRISIS
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003210538.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003210538.png)
 
 ###### ISSUES WITH LIBOR
 - Until January 31,  2014: British Bankers Association (Bba) Libor
@@ -416,7 +416,7 @@ As an example: at the CME
 
 ## SOME HISTORY
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003435092.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003435092.png)
 
 ### OVERNIGHT INDEX SWAPS (IS)
 - In a Is,  the two counterparties agree to exchange fixed for floating payments,  where the floating payment is tied to the cumulative return from an overnight rate
@@ -483,17 +483,17 @@ $$Z^{OIS}\left(0,  T_{i}\right)=\frac{1-c\left(T_{i}\right)\,  \Delta\,  \,  \Si
 
 ## IS DISCOUNT CURVE ON JANUARY 2ND,  2009
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003734183.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003734183.png)
 
 ### IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2007
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003806860.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003806860.png)
 
 - However,  if we try after the crisis,  we obtain the following figure:
 
 ## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003826513.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003826513.png)
 
 - which are quite different.
 
@@ -569,7 +569,7 @@ $$C a p(1Y)=0.0184+0.0617+0.1057=0.1859$$
 - The volatility across caplets is kept constant for each cap.
 - For example,  from Bloomberg (code SSRC),  one finds quotes such as
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413004737317.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413004737317.png)
 
 Source: Bloomberg.
 
@@ -579,7 +579,7 @@ Source: Bloomberg.
 
 ## FLAT VOLATILITIES AND FORWARD VOLATILITIES
 - As an example,  from Table 1,  we obtain the following prices for caps
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413005322596.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413005322596.png)
 ## FLAT VOLATILITIES AND FORWARD VOLATILITIES
 - Issue: Consider the caps with maturities$T = 0.5,   T = 0.75,   T = 1.$
 - The$T = 0.5$cap has only one caplet with (implied)volatility 21.156%
@@ -592,7 +592,7 @@ Source: Bloomberg.
 ## FLAT VOLATILITIES AND FORWARD VOLATILITIES
 - Next table illustrates the relation between forward volatility and flat volatility
 - The forward volatility is used to price individual caplets and thus obtain a value of the cap. - The flat volatility is used to *quote* the cap,  once its price is determined in the previous step. - The flat volatility is a sort of average (forward) volatility used for quoting purposes only.
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413005455100.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413005455100.png)
 
 ## EXTRACTING THE FORWARD VOLATILITY FROM FLAT VOLATILITY
 
@@ -667,16 +667,16 @@ $=$$\$0.1859-(\$0.0157+\$0.0605)=\$0.1096$
 $$C a p l e t\left(T_{3},  r_{K},  \sigma_{f}^{F w d}(T_{3})\right)=\$0.1096\ \ \Longrightarrow\ \ \sigma*{f}^{F w d}(T_{3})=25.54\%$$
 
 - Figure 1 plots the forward and flat volatilities on November 1,  2004
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010625250.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010625250.png)
 - Flat volatilities can be thought of a "cumulated averages" of forward volatilities.
 - Cap (Quoted) Volatility Changes Over Time.
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010654352.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010654352.png)
 - The average forward volatility curve is hump shaped:
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010713355.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010713355.png)
 - The forward volatility has various shapes through time:
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010740064.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010740064.png)
 - The forward volatility is strongly time varying:
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010802155.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010802155.png)
 
 - where "slope$=\sigma_{f}^{Fwd}(10)-\sigma_{f}^{Fwd}(1)$" and "curvature$=2\sigma_{f}^{Fwd}(2)-\sigma_{f}^{Fwd}(1)-\sigma_{f}^{Fwd}(10)$.
 
@@ -695,7 +695,7 @@ $$\mathsf{c a p=f l o o r+s w a p}$$
 - Ina *payer swaption* the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a *receiver swaption* the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
 - For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "implied volatility" of 21.883%.
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010916470.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010916470.png)
 
 - A swap,  recall,  is a contract between two parties to exchange at times$T_1,  ..,   T_n$the net cash flows
 
@@ -742,7 +742,7 @@ $$\mathrm{Payoff~of~Payer~Swaption}~=~\sum\limits_{j=i^{*}+1}^{n}Z\left(T_{i^{*}
 
 ### PAYOFF OF RECEIVER SWAPTION
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413011725253.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413011725253.png)
 
 ## SWAPTION PRICING
 
@@ -765,7 +765,7 @@ $$d_{1}=\frac{\ln{(f_{n}^{s}(0,  T_{i^{*}},  T)/r_{K})}+\sigma_{T_{i^{*}}}^{2}T_
 
 ### QUOTED SWAPTION IMPLIED VOLATILITY SURFACE
 
-![](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413012213337.png)
+ ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413012213337.png)
 
 ## SWAPTION PRICING
 

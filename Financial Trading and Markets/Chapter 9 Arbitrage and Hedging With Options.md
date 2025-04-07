@@ -64,7 +64,7 @@ The  binomial option pricing model  is based on the assumption that the underlyi
 Consider a stock currently selling for 100 and assume for this stock that    $u$   equals 1.2  $d$  and  equals 0.8. The stock’s value in the forthcoming period will be either 120 (if outcome  $u$   is realized) or 80 (if outcome    $d$   is realized). Suppose that there exists a European call trading on this particular stock during this one-time period model with an exercise price of 90. The call expires at the end of this period when the stock value is either 120 or 80 as in  Figure 9.1 . Thus, if the stock were to increase to 120, the call would be worth 30  $(c_{u}=30)$  ), since one could exercise the call by paying 90 for a stock which is worth 120. If the stock value were to decrease to 80, the value of the call would be zero   $(c_{d}=0)$   since no one would wish to exercise by paying 90 for shares that are worth only 80. Furthermore, suppose that the current riskless return rate is 0.10. Based on this information, we should be able to determine the value of the call.  
 
 Note that we have not specified probabilities of a stock price increase or decrease during the period prior to option expiration. Nor have we specified a discount rate for the option or made inferences regarding investor risk preferences. We will value this call based on the fact that during this single time period, we can construct a riskless hedge  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9707d9b496f83da4a4dadc85df69886b04e68a22dc7bbaff1cada00aa88dbfcf.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9707d9b496f83da4a4dadc85df69886b04e68a22dc7bbaff1cada00aa88dbfcf.jpg)  
 FIGURE 9.1 One-time-period binomial model.  
 
 portfolio consisting of a position in a single call and offsetting positions in    $\alpha$   shares of underlying stock. This means that by purchasing a single call and by selling    $\alpha$   shares of stock, we can create a portfolio whose value is the same regardless of whether the underlying stock price increases or decreases. Let us first define the following terms:  
@@ -160,7 +160,7 @@ $$
 # Illustration: Two-Time-Period Hedges  
 
 Now, we will extend our illustration above from a single period to two periods, each with a riskless return rate equal to 0.10. As before, the stock currently sells for 100 and will change to either 120 or 80 in one time period   $(u=1.2,\,d=0.8)$  ). However, in the second period, the stock will change a second time by a factor of either 1.2 or 0.8, leading to  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/256c2c8f3be69310a64730494e26566de15c1273636c509141c25ecf9532e75d.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/256c2c8f3be69310a64730494e26566de15c1273636c509141c25ecf9532e75d.jpg)  
 FIGURE 9.2 Two-time-period binomial model.  
 
 potential values of either 144 (up then up again), 96 (up once and down once), or 64 (down twice). The lattice (tree) associated with this stock price process is depicted in Figure 9.2 . Call option prices are also given for the second period. The probability of upward and downward movements are computed with the  Equation (9.14)  set as follows:  
@@ -188,7 +188,7 @@ $$
 $$  
 
 Thus, the investor will hedge by shorting 0.75 shares for each long call in the first period, and will update his hedge ratio to either 1 or 0.1875 short shares in the second period. Also, note the change in time perspectives for    $u$   and    $d$   in the second period after one period has elapsed.  
-# Extending the Binomial Model to    $\pmb{n}$   Time Periods  
+# Extending the Binomial Model to    $\textdollar{n}$   Time Periods  
 
 The binomial model is easily extended to    $n$   time periods (evenly split within the interval  $T)$  ) by implementing the binomial theorem to obtain the following 1 :  
 
@@ -215,7 +215,7 @@ The binomial option pricing model prices calls and puts relative to the pricing 
 # Illustration: Three Time Periods  
 
 Now, we will extend our illustration above from two periods to three, each with a riskless return rate equal to 0.10. As we see in  Figure 9.3 , by the third period, potential stock values are  $\hat{1.2}^{3}\times100=172.8,$  ,  $1.2^{2}\times0.8\times{\stackrel{\smile}{100}}=115.{\stackrel{.}{2}},$  ,  $0.8^{2}\times1.2\,\overset{\cdot}{\times}\,100=\overset{\cdot}{7}6.8,$  , or  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/baedb94e5931e7cb607a54509c5fcec9715b22bf5ba1161b2418efa24b1132bc.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/baedb94e5931e7cb607a54509c5fcec9715b22bf5ba1161b2418efa24b1132bc.jpg)  
 FIGURE 9.3 Three-time-period binomial model.  
 
 $0.8^{3}\times100=51.2.$  . The time-zero call value in this three-period binomial framework is computed with  Equations (9.19) and (9.18)  as follows:  
@@ -320,7 +320,7 @@ As the six-month period is divided into more and finer sub intervals, the values
 
 # 9.4 THE GREEKS AND HEDGING IN A BLACK-SCHOLES ENVIRONMENT  
 
-As the number of trials    $n$   in a binomial distribution approaches infinity, the binomial distribution approaches the normal distribution. Black and Scholes (see Appendix 9.B) provide a derivation for an option pricing model based on the assumption that the natural logs of stock price relatives will be normally distributed.   We introduced the Black-Scholes model in the appendix to Chapter 7. The assumptions on which the  Black-Scholes options pricing model  and its derivation are based are as follows:  
+As the number of trials    $n$   in a binomial distribution approaches infinity, the binomial distribution approaches the normal distribution. Black and Scholes (see Appendix 9. B) provide a derivation for an option pricing model based on the assumption that the natural logs of stock price relatives will be normally distributed.   We introduced the Black-Scholes model in the appendix to Chapter 7. The assumptions on which the  Black-Scholes options pricing model  and its derivation are based are as follows:  
 
 1.  There are no restrictions on short sales of stock or writing of call options.
 
@@ -332,7 +332,7 @@ As the number of trials    $n$   in a binomial distribution approaches infinity,
 
 7  $t$   $S_{t}\div S_{t-1}$  The stock price relative for a given period  is defined as . Thus, the log of the stock price relative is defined as  $\ln[S_{t}\div S_{t-1}]$  .  
 TABLE 9.1 Convergence of Binomial Model to Black-Scholes Model 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ce8ab5798a713f48e1598555f3a4b000766155a508c801f692dec9dd8be16fb.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ce8ab5798a713f48e1598555f3a4b000766155a508c801f692dec9dd8be16fb.jpg)  
 
 5.  The range of potential stock prices is continuous. This means that a stock’s price can take on any real value.
 
@@ -636,13 +636,13 @@ p_{0}=c_{0}+X\mathbf{e}^{-r(d)T}-s_{0}\mathbf{e}^{-r(d)T}
 $$  
 
 TABLE 9.2 Currency Option Illustration 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc4d335612e141173a2c2860a01d56e4a22029b2aaac3b1a57868750ae441987.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc4d335612e141173a2c2860a01d56e4a22029b2aaac3b1a57868750ae441987.jpg)  
 
 TABLE 9.3 Currency Option Values 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fbe0790e7960948e67db9ba15604844b2d5b9ec7d25b9724032025839e015657.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fbe0790e7960948e67db9ba15604844b2d5b9ec7d25b9724032025839e015657.jpg)  
 Thus, put options with terms identical to those of the calls in  Tables 9.2 and 9.3  have the following values:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34e3800d1ea54731e4dceeb34bfc7009578261694ed333894b4e844ed59dc8c0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34e3800d1ea54731e4dceeb34bfc7009578261694ed333894b4e844ed59dc8c0.jpg)  
 
 # 9.6 HEDGING EXCHANGE EXPOSURE WITH CURRENCY OPTIONS  
 
@@ -665,7 +665,7 @@ First, we consider the put hedge strategy. We will purchase three month put opti
 
 Alternatively, the firm can employ the conversion or the call and put hedge. This strategy involves the combination of calls and puts, such that total risk can be eliminated. Consider the writing of a call with an exercise price of   $\S1.75$   expiring in three months along with the purchase of a put with the same terms. The time-zero net cash flows are summarized as follows:  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e6aa0758d06671a37c7bb8133d2ca0a9395e61860751dc1fc12fc0ee883bd2f.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e6aa0758d06671a37c7bb8133d2ca0a9395e61860751dc1fc12fc0ee883bd2f.jpg)  
 
 The result of this conversion is that the interest earned on the net time-zero outlay is  $\S552$  . If the three-month exchange rate is less than  $\Updownarrow1.75/\updownarrow$  , the exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in by the put. If the exchange rate exceeds  $\mathbb{S}1.75/\mathfrak{L}_{i}$  , the obligation incurred by the short position in the call is activated. Thus, the firm’s exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in no matter what the market exchange rate is. The cash flows in three months are summarized as follows:  
 
@@ -708,9 +708,9 @@ a.  What is the value of a put on this stock if it has an exercise price of  $\S
 8.  Evaluate each of the European options in the series on ABC Company stock. Prices for each of the options are listed in the table. Determine whether each of the options in the series should be purchased or sold at the given market prices. The current market price of ABC stock is 120, the August options expire in nine days, September options in 44 days, and October options in 71 days. The stock return standard deviations prior to expiration s are projected to be 0.20 prior to August, 0.25 prior to September, and 0.20 prior to October. The Treasury bill rate is projected to be 0.06 for each of the three periods prior to expiration. Do not forget to convert the number of days given to fractions of 365-day years.  
 
 Calls 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/052ece59ccf68f28cb80520cbf9db6bbaaef85157e935e142d88ef757cf6e7a0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/052ece59ccf68f28cb80520cbf9db6bbaaef85157e935e142d88ef757cf6e7a0.jpg)  
 Puts 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c9da72ce6d70c90334f5bac0f4b3cf9cfe87272bad0a43b96921e80d5e0e872.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c9da72ce6d70c90334f5bac0f4b3cf9cfe87272bad0a43b96921e80d5e0e872.jpg)  
 
 Prices for five calls and five puts are given in the left columns. Expiration dates are given in column headings and current market prices are given in the table interiors.  
 
@@ -728,7 +728,7 @@ a.  Calculate this second call’s value. b.  Calculate this call’s delta, gam
 
 13.  Suppose that right now, the market price of one Chinese yuan (CNY) is USD0.15; that is, one can purchase or sell CNY1.00 for USD0.15. The proportional standard deviation for CNY in terms of USD is  $20\%$  . The Chinese riskless return rate over a two-year period is projected to be  $8\%$  ; U.S. rates over the same period are   $2\%$  . What is the dollar value of a two-year European put on a single yuan if the exercise price of the put is USD0.20?  
 14.  Consider an extension of the Exercise 21 from Chapter 8 concerned with the management of transactions exposure. The Smedley Company sold products to a Japanese client for  f 15,000,000. Payment is due six months later. Relevant data are as follows: Spot exchange rate:  $\uptau105/\upPhi$   $9.0\%$  Japanese borrowing interest rate: U.S. borrowing interest rate:  $7.0\%$  Japanese lending interest rate:  $7.0\%$  U.S. lending interest rate:  $5.0\%$  There exist currency call and put options with the following terms: Size of options contracts:  f 1,000,000 Term to expiration of options contracts: six months Exercise price of put and call:  $\S0.009$  / f Put premium:  $\S0.00001$  / f Call premium:   $\S0.0001$  / f Brokerage cost per options contract:  $\S50$  Discuss the implications associated with each of the options-based methods for managing the transactions exposure risk associated with this extension of credit.  
-# 9.A.1 THE BINOMIAL MODEL: ADDITIONAL CONSIDERATIONS  
+# 9. A.1 THE BINOMIAL MODEL: ADDITIONAL CONSIDERATIONS  
 
 # A Computationally More Efficient Version of the Binomial Model  
 
@@ -859,7 +859,7 @@ $$
 As discussed above, there are several procedures for getting parameters  $\sigma,\,u,\,d,$  , and  $p$   for the binomial distribution. This procedure is probably the most commonly used, in part, because it provides a relatively straightforward method for estimating option Greeks.  
 The primary difficulty with the one presented above is that it may result in negative probabilities. An additional methodology for estimating binomial distribution parameters is given in  Jarrow and Turnbull (1999: 136  138) .  
 
-# 9.A.2 DERIVING THE BLACK-SCHOLES MODEL  
+# 9. A.2 DERIVING THE BLACK-SCHOLES MODEL  
 
 For this derivation, we shall assume that all standard Black-Scholes assumptions (see The Greeks and Hedging in a Black-Scholes Environment section) hold and that investors behave as though they are risk neutral. That is, investors price options as though they are risk neutral because they can always construct riskless hedges comprising options and their underlying securities, and that the returns of these hedged portfolios must be the riskless rate. The law of one price dictates that the current value of a call    $c$   on stock can be found from constructing a hedge portfolio:  
 

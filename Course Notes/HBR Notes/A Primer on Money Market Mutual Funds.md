@@ -1,10 +1,10 @@
 ---
 cssclasses: academia
 Owner: RRoger Lin
-aliases: [Alias_127_A Primer on Money Market Mutual Funds.md,  Mutual Funds,  WHAT ARE MONEY MARKET FUNDS]
+aliases: [Mutual Funds,  WHAT ARE MONEY MARKET FUNDS]
 created: null
 linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
-tags: [Primers/Notes,  tag_example]
+tags: [Primers/Notes,  ]
 title: A Primer on Money Market Mutual Funds
 ---
 

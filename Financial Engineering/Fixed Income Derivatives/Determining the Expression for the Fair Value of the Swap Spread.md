@@ -1,7 +1,7 @@
 # Determining the Expression for the Fair Value of the Swap Spread
 
 ## Determining the Expression for the Fair Value of the Swap Spread: An Approach  Using Libor and GC Repo Rates
-### Introduction  
+### [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  
 
 Several studies have highlighted an environment of lower liquidity in government bond  markets, with yield levels falling below true risk-free rates.  Under these circumstances  capital market practitioners are increasingly using the interest rate swap curve as their  main reference benchmark for valuation and analysis purposes. This reflects  practitioners’ views that continued exclusive reliance on government yields would  possibly lead to inaccurate analysis. The interest rate swap curve is viewed as an  acceptable alternative measurement benchmark. It is also used as a comparator  instrument, against which the yields on government bonds can be measured. As the  interest rate swap market is considered to be sufficiently liquid and exposing users to  only a very low level of default risk, the swap curve is considered invariably to be  trading at a fair value to the theoretical zero-coupon yield curve. For this reason market  participants are concerned that the swap curve is indeed fairly valued at all times, so that  swap spreads over the government curve can be taken to be a reasonable measure of the  liquidity and fair value of government bonds.  
 
@@ -26,29 +26,14 @@ We now consider the calculation of the fair value for the swap spread. This is d
 A market participant enters into the following trades simultaneously:  
 
 •  a short sale of   $\epsilon\,x$   million of the benchmark   $[]$  -year semi-annual paying government  bond, which is priced at par and therefore trading at the par yield of   $r m\%$  ; the bond is  available in the repo market at the general collateral (GC) rate; 
-
-  
-
  •  a six-month reverse repo, using the cash proceeds from the bond sale; this pays out  the six-month GC repo rate  $r g\%$  ; 
-
-  
-
  •  a  $\epsilon\,x$   million   $[],$  -year pay floating / receive fixed interest-rate swap, where the trader  receives six-month Libor or  $r l$   and pays at the swap rate  $r s\%$  .  
 
 This sets up a  zero-cost portfolio, which comprises the following cash flows:  
 
 •  pay out of  rm  every six months; 
-
-  
-
  •  receipt of  rg  every six months; 
-
-  
-
  •  pay out of  rs  every six months; 
-
-  
-
  •  receipt of   $r l$   every six months.  
 
 The net cash flow of the combined portfolio during the time it is held is given by  

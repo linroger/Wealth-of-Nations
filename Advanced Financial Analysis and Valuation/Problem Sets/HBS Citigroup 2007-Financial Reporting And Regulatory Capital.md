@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_293_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
-  - Alias_296_HBS Citigroup 2007-Financial Reporting And Regulatory Capital.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#banking"
   - "#financial-crises"
@@ -14,8 +12,6 @@ tags:
   - "#citigroup-history"
 title: HBS Citigroup 2007-Financial Reporting And Regulatory Capital
 ---
-
-
 ## CITIGROUP 2007: FINANCIAL REPORTING AND REGULATORY CAPITAL
 
 In early 2008, Jake Merando was trying to understand the implications of the deepening U.S. housing crisis for the financial health of Citigroup, one of the world's largest banks.  Merando, a banking analyst at an investment firm, was considering Citigroup's future as the financial crisis continued.  The fourth quarter of 2007 was shaping up to be the worst in Citigroup's 196-year history (see **Exhibit 1**), and tremendous uncertainty surrounded both the firm and the industry.
@@ -74,15 +70,15 @@ Citigroup engaged in securitization activities related to various types of mortg
 
 On January 15, 2008, Citigroup issued a press release with its fiscal 2007 results.  While [[Operating Income vs. Net Income What's the Difference|Net Income]] for the year was $3.6 billion, the fourth quarter was the worst in the firm's history, with a net loss of $9.8 billion.  The loss primarily reflected an $18.1 billion write-off due to losses on subprime-related exposures, as well as a $4.1 billion increase in credit costs related to higher current and estimated losses on consumer loans. Following the press release, significant uncertainty remained regarding Citigroup's expected performance for the upcoming year. Forecasts for industrywide subprime losses varied widely, from $265 billion (S&P) to in excess of $600 billion (UBS).d  Geraud Charpin, head of European credit strategy at UBS, stated: "We have to recognize the risk that the economy will suffer more damage than what consensus suggests. All the investment schemes that have been built on the basis of a strong and resilient economic backdrop have to be unwound."e Against this backdrop, Merando pondered what further losses Citigroup could be facing, and the implications these might have for its operations and regulatory requirements.
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154823538.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154823538.png)
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154833371.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154833371.png)
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154837526.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154837526.png)
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154841852.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154841852.png)
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155308425.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155308425.png)
 
 ![|](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427154844836.png)
 
@@ -93,9 +89,9 @@ Capital is generally generated via earnings from operating businesses. This is a
 
 Citigroup’s capital management framework is designed to ensure that Citigroup and its principal subsidiaries maintain sufficient capital consistent with the Company’s risk profile, all applicable regulatory standards and guidelines, and external rating agency considerations. The capital management process is centrally overseen by senior management and is reviewed at the entity and country level.
 
-![](Z.%20Clippings%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155007956.png)
+ ![500](Z.%20Clippings%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155007956.png)
 
-![](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155012685.png)
+ ![500](Z.%20Clippings/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital-20240427155012685.png)
 
 **Exhibit 6** Excerpts from Citigroup 2007 Management Discussion and Analysis
 

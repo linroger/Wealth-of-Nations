@@ -803,7 +803,7 @@ $$c=\frac{pc_u+(1-p) c_d}{(1+r)}.$$
 
 In this expression,  the value of the call optionisthepresentvalue ofaweighted average of the call at maturity,  either $Cu$ in the up state or $Cd$ in the down state. It is tempting to interpret $P$ in this equation as a probability. It is
 
-![](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
+ ![500](./images/fHofODYmUoRXx8ufoFcmd4reB9x2D6irg.png)
 
 Figure 1: THE $\Delta$ OF A CALL OPTION IN THE BINOMIAL MODEL
 

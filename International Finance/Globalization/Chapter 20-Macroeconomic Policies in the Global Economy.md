@@ -23,7 +23,7 @@ Two main engines propel long-term growth. One main engine of growth is the accum
 
 Figure 20.1 shows real gross domestic product (GDP) in the United States and China between 1960 and 2012. Over these ﬁve decades,  Chinese real GDP grew from 1/16 of a trillion U.S. dollars to almost 4 trillion U.S. dollars (translated to the U.S. dollar in 2000),  at an annualized growth rate of 7.7 percent on average. Over the same period,  U.S. real GDP grew from 2.5 trillion to more than 11 trillion U.S. dollars (deﬂated to 2000 values),  at an annualized growth rate of 3.1 percent on average. Various booms and recessions have thrown the economies off their long-term growth paths during those ﬁve decades. Unemployment,  consumption and savings,  trade ﬂows and [[Chapter 14- Capital Flows and the Current Account|current account]] balances,  as well as the economies’ price levels and exchange rates ﬂuctuated alongside. This chapter investigates what shocks can explain such uc tu at ions and how macroeconomic policies may help restore economies to their long-term growth when capital markets are globally integrated. The upcoming model is designed to address short-term adjustments. It is not meant,  nor suited,  to analyze engines of long-term growth. In terms of Figure 20.1,  we take the solid black line of long-term growth as given and investigate only transient deviations from it.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e61e991d7f12efd6814b09bbf884cf7fa810d7ff876ddf9fe5bf0c123a5f28df.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e61e991d7f12efd6814b09bbf884cf7fa810d7ff876ddf9fe5bf0c123a5f28df.jpg)
 
 Source : World Development Indicators 2013 ( data. Worldbank. Org/products/wdi ,  accessed May 2,  2013). Note : Data are in constant 2000 U.S. dollars. Chinese GDP converted from domestic currency using the 2000 ofﬁcial exchange rate.
 
@@ -250,7 +250,7 @@ Third,  we need to relate the nominal spot exchange rate $E$ to the real exchang
 
 How realistic is the assumption that the real exchange rate $q$ responds one-for-one to the nominal exchange rate $E$ in the short run? Economists in the tradition of economic thought inspired by John Maynard Keynes do not hesitate to accept that $q$ and $E$ move hand in hand in the short term because they typically posit that prices are sticky in the short run. Even economists critical of the Keynesian tenets,  however,  in general do accept that $q$ and $E$ are empirically inseparable in the short run. Chari,  Kehoe and McGrattan (2002) conducted a benchmark study. They assembled quarterly time series data on the nominal exchange rates and price levels for both traded and non-traded goods and services in the United States and major countries in Europe. One of the remarkable,  and in our context most important facts,  is that they ﬁnd a correlation coefﬁcient between the real exchange rate and the nominal exchange rate that is 0.\1. In other words,  even in their quarterly data—which average out the daily,  weekly and monthly swings—the changes in the real exchange rate match those of the nominal exchange rate almost 100 percent of the time. Just as we have assumed in our model,
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65f2ec644612083a06afd737649df17eb7cf17166fd982990a5b1f29f937b632.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65f2ec644612083a06afd737649df17eb7cf17166fd982990a5b1f29f937b632.jpg)
 
 Figure 20.2: Joint Financial and Real-side Equilibrium
 
@@ -260,7 +260,7 @@ The left panel of Figure 20.3 depicts the time pattern of the nominal and real e
 
 You might wonder whether these ﬁndings have to with Chari,  Kehoe and McGrattan (2002)’s use of the consumer price indexes in the United States and the European countries. A consumer price index measures an average household’s typical expenditure and includes many goods and services that cannot be traded. These non-traded price components might possibly not move much with international market conditions and could be a reason why the nominal and real exchange rates are so closely correlated and so persistent over time. Chari,  Kehoe and McGrattan (2002) anticipated this potential criticism and split the real exchange rate into two components: the component related to traded goods,  and the component related to non-traded goods. The right panel of Figure 20.3 shows their ﬁndings. Stunningly,  it is the traded-goods component that drives around the real exchange rate. The relative traded-goods price is the part of the real exchange rate on which consumers and businesses base their export and import decisions. We therefore make no mistake in our model when we suppose that the nominal exchange rate,  set on ﬁnancial markets,  fully translates into the real
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/19864ccfdef462e4076343f05d91f7edc85263fd6cebf638282c2e91140f0cd0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/19864ccfdef462e4076343f05d91f7edc85263fd6cebf638282c2e91140f0cd0.jpg)
 
 Figure 20.3: Real Exchange Rate Components between the United States and Europe
 
@@ -298,7 +298,7 @@ The equilibrium is a stable one in the sense that shocks,  which may throw the e
 
 Table 20.1: Shifters of the QQ and DD Schedules
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ba938e5c14061322297812569c3c87dd36a8132b59955ddd7c995764d0f4153.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ba938e5c14061322297812569c3c87dd36a8132b59955ddd7c995764d0f4153.jpg)
 
 Note : $q$ and $Y$ are on the axes of the $q-Y$ diagram and do not affect the positions of schedules QQ and DD; $q$ and $Y$ changes are reﬂected in moves along the schedules.
 
@@ -332,7 +332,7 @@ The government has two main instruments to implement a ﬁscal stimulus,  and es
 
 Second,  the government can cut taxes $T$ but keep spending $G$ unchanged. The unfunded reduction in tax revenue also results in a ﬁscal deﬁcit,  for which the government must raise credit on the private market. The effectiveness of the tax cut depends on the marginal propensity of the private households to use extra disposable income for consumption. Ironically for the sceptics who argue that there is no multiplier effect,  but also advocate for tax cuts,  if they are right then tax cuts are completely ineffective for stimulation. As we have seen,  the consumption multiplier is minor precisely
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f66a912303daa609cc5d67d92b7f0f9d9cfde042f27a36000154cea485de87d8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f66a912303daa609cc5d67d92b7f0f9d9cfde042f27a36000154cea485de87d8.jpg)
 
 Figure 20.4: Effects of Temporary Macroeconomic Policies in the Short Run
 
@@ -370,7 +370,7 @@ Permanent policies are not reversed in the near future and therefore do affect t
 
 In the upper left panel of Figure 20.5,  start from the initial equilibrium with a real exchange rate $q_{0}$ and output $Y_{0}$ . Like a temporary monetary expansion,  a permanent monetary expansion increases money supply $M^{S}$ and shifts the QQ schedule up to a new position. The reason is that a higher money supply level,  for any given output $Y$ ,  must be associated with a lower nominal interest rate $R$ and a depreciated spot nominal exchange rate and therefore a depreciated (high) real exchange rate $q$ . Unlike a temporary intervention,  however,  a permanent [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] also changes investors’ expectations about the future nominal exchange rate level $E^{e}$ . Investors change their beliefs within a nanosecond,  faster than any asset price,  and the new expected nominal exchange rate $E^{e}$ has immediate consequences because investors act on their new beliefs. Investors correctly anticipate that,
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6962ad4afa17c85c2c8b6640540b8c3ae40bc399fa6a74e022124d10019f505.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6962ad4afa17c85c2c8b6640540b8c3ae40bc399fa6a74e022124d10019f505.jpg)
 
 Figure 20.5: Effects of Permanent Macroeconomic Policies in the Short and Long Run
 
@@ -428,7 +428,7 @@ $$
 \eta_{\mathrm{E}X}+\eta_{\mathrm{E}X^{*}}>1.
 $$ 
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5041529aad2e43ee831bc59cf2b834a4e23055449925d2270838dabc0113c488.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5041529aad2e43ee831bc59cf2b834a4e23055449925d2270838dabc0113c488.jpg)
 
 Figure 20.6: Time Path of the Current Account after Depreciation
 
@@ -458,7 +458,7 @@ $$
 C A=E X (q)-I M (q)=E X (\underbrace{q}_{(+)})-q\cdot E X^{*}(\underbrace{q}_{(-)}).
 $$ 
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/610b295c4d417e55a8d77f6c2c7a2eb6f54f92acb30bf5c5f357c2facf3fe3a4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/610b295c4d417e55a8d77f6c2c7a2eb6f54f92acb30bf5c5f357c2facf3fe3a4.jpg)
 
 Figure 20.7: Current Account Effects of Economic Policies
 
@@ -531,11 +531,11 @@ $$
 - Should there be globalization?
 # Key Terms
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/390dc1ffe5efeeac72dfa26b838ed53f2b1b21fe88264567f436b3375ee273cd.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/390dc1ffe5efeeac72dfa26b838ed53f2b1b21fe88264567f436b3375ee273cd.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/533e362ac37343d29072a9caa4ccfe449bafa5e230fed47bc2d9bef085d51e06.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/533e362ac37343d29072a9caa4ccfe449bafa5e230fed47bc2d9bef085d51e06.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e0626106d1233e6973e485ae585ade242c739a512ccaccac896f4613a985084.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e0626106d1233e6973e485ae585ade242c739a512ccaccac896f4613a985084.jpg)
 
 Source : Global Financial Data 2010.
 
@@ -568,7 +568,7 @@ $$
 \left.\frac{\mathrm{d}E}{\mathrm{d}Y}\right|_{\scriptscriptstyle\mathrm{X}\!\mathrm{X}}=-\,  \frac{\partial C A/\partial Y}{(\partial C A/\partial q)\cdot (P^{*}/P)}>0.
 $$ 
 
-DD Schedule. DD equilibrium restoration through $\mathrm{d}E$ after $\mathrm{d}Y$ shock. DD sched e: $Y\,  =\,   C\,   (Y\,  -$ $T)\,  +\,  \bar{I}\,  +\,   G\,  +\,   C A\,   (\bar{q}\,  ,   Y-T)$ . Total differentiation of DD equation with respect to E and $Y$ yields
+DD Schedule. DD equilibrium restoration through $\mathrm{d}E$ after $\mathrm{d}Y$ shock. DD sched e: $Y\,  =\,   C\,   (Y\,  -$ $T)\,  +\,  \bar{I}\,  +\,   G\,  +\,   C A\,   (\bar{q}\,   Y-T)$ . Total differentiation of DD equation with respect to E and $Y$ yields
 
 $$
 \mathbf{d}Y={\frac{\partial C}{\partial Y}}\,  \mathbf{d}Y+{\frac{\partial C A}{\partial Y}}\,  \mathbf{d}Y+{\frac{\partial C A}{\partial q}}{\frac{P^{*}}{P}}\,  \mathbf{d}E
@@ -580,7 +580,7 @@ $$
 \left.\frac{\mathrm{d}E}{\mathrm{d}Y}\right|_{\mathrm{\tiny{DD}}}=-\,  \frac{-(1\!-\!\partial C/\partial Y)+\partial C A/\partial Y}{(\partial C A/\partial q)\cdot (P^{*}/P)}>\left.\frac{\mathrm{d}E}{\mathrm{d}Y}\right|_{\mathrm{\tiny{XX}}}>0.
 $$ 
 
-QQ Schedule: QQ equilibrium restoration through $\mathrm{d}E$ after $\mathrm{d}Y$ shock. Q sch dule: $M^{S}\,  =\,   P$ · $L\left (R^{*}+E^{e}/E-1\,  ,   Y\right)$ . Total differentiation of QQ equation with respect to E and $Y$ yields
+QQ Schedule: QQ equilibrium restoration through $\mathrm{d}E$ after $\mathrm{d}Y$ shock. Q sch dule: $M^{S}\,  =\,   P$ · $L\left (R^{*}+E^{e}/E-1\,   Y\right)$ . Total differentiation of QQ equation with respect to E and $Y$ yields
 
 $$
 0=-P\frac{\partial L}{\partial R}\frac{E^{e}}{E^{2}}\,  \mathrm{d}E+P\frac{\partial L}{\partial Y}\,  \mathrm{d}Y
@@ -651,7 +651,7 @@ Where $\bar{I}$ is not allowed to vary with $R$ . In the QQ–DD model,  the res
 
 Suppose we wanted to complete the QQ–DD model and did let investment $I (R-\pi^{e})$ vary negatively with the expected real interest rate $r^{e}=R-\pi^{e}$ as in the IS–LM model. For the QQ–DD model
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aacb914932ecd8341b13441c86796ebf65b939fa995fcd8682ad6c2f03b2265f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aacb914932ecd8341b13441c86796ebf65b939fa995fcd8682ad6c2f03b2265f.jpg)
 
 With the real exchange rate $q$ on the vertical axis,  we need to express the nominal interest rate $R$ as a function of the real exchange rate $q$ and can use $R=R^{*}+(E^{e}/q)(P^{*}/P)$ similar to the ﬁnancial market equilibrium condition. Investment then varies positively with the real exchange rate $q$ because investment is negatively related to $R,  $ and $R$ is negatively related to $q$ . The consequence is that aggregate demand now positively depends on the real exchange rate for two reasons: an increase in the [[Chapter 14- Capital Flows and the Current Account|current account]] balance (if the Marshall–Lerner condition holds so that grandma and the journalists are right) and an increase in investment. We get an even more responsive $\mathrm{DD^{\prime}}$ schedule to changes in the real exchange rate,  compared to the DD schedule before,  but qualitative results do not change. The full QQ–DD ′ model becomes
 

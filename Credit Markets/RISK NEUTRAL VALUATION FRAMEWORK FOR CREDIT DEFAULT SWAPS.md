@@ -1,15 +1,12 @@
 ---
 aliases:
-- Alias_333_Risk Neutral Valuation Framework for Credit Default Swaps.md
-- Alias_336_Risk Neutral Valuation Framework for Credit Default Swaps.md
+- Risk Neutral Valuation Framework for Credit Default Swaps.md
+- Risk Neutral Valuation Framework for Credit Default Swaps.md
 tags:
-- tag_example
+- 
 title: Risk Neutral Valuation Framework for Credit Default Swaps
 ---
-
-
-
-# Risk Neutral Valuation Framework for Credit Default Swaps
+# [[Financial Instruments/Financial Derivatives and Quantitative Methods/Credit Default Swaps|Risk Neutral Valuation Framework for Credit Default Swaps]]
 
 ## OVERVIEW
 

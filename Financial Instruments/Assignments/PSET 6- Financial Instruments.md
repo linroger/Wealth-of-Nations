@@ -1,12 +1,14 @@
 ---
-cssclasses: academia
-aliases: [PSET 6Financial Instruments,  Alias_150_PSET 6- Financial Instruments.md,  Alias_149_PSET 6- Financial Instruments.md]
-linter-yaml-title-alias: PSET 6Financial Instruments
-tags: tag_example
-title: PSET 6Financial Instruments
+cssclasses:
+  - academia
+aliases:
+  - PSET 6-Financial Instruments
+linter-yaml-title-alias: PSET 6-Financial Instruments
+tags: 
+title: PSET 6-Financial Instruments
 ---
 
-# PSET 6Financial Instruments
+# PSET 6-Financial Instruments
 
 ma# PSET 6FINANCIAL INSTRUMENTS
 
@@ -44,7 +46,7 @@ http://www.econ.yale.edu/~shiller/data.htm You should use the data in the "Excel
 > 	- The continuously compounded dividend yield = 0.01608
 >
 
-![](03bc29ba4ac59fbc321f2f432023249d.png)
+ ![500](03bc29ba4ac59fbc321f2f432023249d.png)
 
 > | |
 > |---|---|
@@ -61,7 +63,7 @@ http://www.econ.yale.edu/~shiller/data.htm You should use the data in the "Excel
 > |ITM Put Premium|120.5|
 > |IV on ITM Put Option|10.35%|
 
-![]/ea19896c234fab61d22703aa002e42dc.png)
+ ![500]/ea19896c234fab61d22703aa002e42dc.png)
 
 ## 2 VALUING AND ANALYZING A STRUCTURED SECURITY
 
@@ -100,9 +102,9 @@ $$\text{BSCall}(S,   K,   \sigma,   r,   T,   \delta)$$
 > - Total Value of Replicating Portfolio = 9.52467+2.4-0.539-0.48=10.899032
 >
 
-![]/6c4e3667220d343e13994175049a7193.jpg)
+ ![500]/6c4e3667220d343e13994175049a7193.jpg)
 
-![]/c07b3c05093e1981d064faaca657d2eb.png)
+ ![500]/c07b3c05093e1981d064faaca657d2eb.png)
 
 - (c) If the value you obtain is not at par,  what might you modify to make sure the value of the security is par as of today? (Words only,  but for a bonus,  see if you can actually set the value to par by changing one of the terms.)
 
@@ -113,10 +115,10 @@ $$\text{BSCall}(S,   K,   \sigma,   r,   T,   \delta)$$
 	- Option elasticity is computed by the percentage change in the option price relative to the percentage change in the stock price. The percentage change in the stock price is change in stock price,  dS divided by$S$. The percentage change in the options price is given by the dollar change in the price of the option,  divided by the option price,  $C$,  or$\frac{dS*\Delta}{C}$The option elasticity is then the percentage change in option price over the percentage change in stock price,  which simplifes to$\frac{S\Delta}{C}$
 	- ([](f3fc6795259bcbb5a42f30795567bf23.png)
 	- (b) m now,
-	- ![](attachment/a8921e8205d813706483563730cd7f9b.png)
+	-  ![500](attachment/a8921e8205d813706483563730cd7f9b.png)
 	- (c) 1 year from now. Discuss your findings.
 		- As the PLUS note approaches maturity,  the beta increases,  meaning that it becomes more sensitive to changes in the price of the underlying stock
-![](aa4d12a40d58406aa012877a83a05b9a.png)
+ ![500](aa4d12a40d58406aa012877a83a05b9a.png)
 
 |   |   |   |   |
 |---|---|---|---|

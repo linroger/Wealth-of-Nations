@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_302_HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio.md
-  - Alias_305_HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#banking"
   - "#debt"
@@ -14,8 +12,6 @@ tags:
   - "#financial-crisis"
 title: HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio
 ---
-
-
 ## BLACKSTONE AND THE SALE OF CITIGROUP'S LOAN PORTFOLIO
 
 At the end of March 2008, Bennett J. Goodman (HBS'84), a Senior Managing Director at Blackstone, one of the world's largest private equity firms, was reviewing materials for the potential purchase of a $6.11 billion pool of leveraged loans from Citigroup, one of the world's largest banking entities. Most of these loans were used to finance large [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]) that had been announced in late 2006 and early 2007. In a number of cases, Blackstone had considered making an equity investment. The research and due diligence that Blackstone had performed in the process gave Goodman some degree of confidence that he understood the risks in the loan portfolio. TPG, another large private equity firm that was considering partnering with Blackstone in purchasing the loan pool, had also researched and even participated in many of the [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]].
@@ -55,7 +51,7 @@ The weighted average coupon of the portfolio was LIBOR+309 basis points (bps).e 
 After some period of negotiation, Blackstone, TPG and Citigroup set the purchase price for the
 $6.11 billion loan portfolio at 83 cents on the dollar.f Citigroup offered to provide 80% leverage for senior secured loans and 60% leverage for senior unsecured notes. Overall, Citigroup offered nonrecourse debt financing for 75% of the purchase price. According to the deal terms, Blackstone and TPG would contribute a total of $1.26 billion of equity.
 
-![](Z.%20Clippings/HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio-20240427154038662.png)
+ ![500](Z.%20Clippings/HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio-20240427154038662.png)
 
 The cost of the Citigroup financing was LIBOR+100 bps. The financing had a tenor that matched the average maturity of the loans in the portfolio with the interest payment not due until after the coupon interest was received from the instruments in the portfolio.  Moreover, the financing included a "recycling provision," which gave Blackstone the ability to use the same financing terms for reinvestment in any assets as long as the total credit did not exceed $3.81 billion. This meant that Blackstone could at, any point, further diversify its portfolio by selling some of their positions and reinvesting the proceeds in other loans. The recycling provision would be available for four years from the loan closing.
 
@@ -71,7 +67,7 @@ However, their investment would be subject to quarterly mark-to-market risk. If 
 
 A CDS is a contract that promises a payoff to the buyer in the event a particular loan or bond defaults (such as failing to make interest payments or filing for [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] protection).  Should a default occur, the buyer of a CDS is paid par value in exchange for the underlying debt instrument, or is paid the difference between par value and the market value of the debt instrument. In exchange for this insurance, the buyer makes quarterly payments to the seller. These payments are referred to as the CDS spread and are quoted in basis points per year.  Thus, a loan with a CDS spread of 500 basis points requires the buyer to pay 5% of the par value to the seller on an yearly basis or 1.25% per quarter.  Higher spreads correspond either to a higher default probability, a lower recovery rate, or both. Here, the recovery rate is assumed fixed. To estimate default probability implied by CDS spreads, one could use the following formula: Probability of default in a given year = CDS spread / *(1-Recovery rate)*.
 
-![](Z.%20Clippings/0And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio-20240427154206889.png)
+ ![500](Z.%20Clippings/0And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio-20240427154206889.png)
 
 ![500](Z.%20Clippings/HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio-20240427154330740.png)
 

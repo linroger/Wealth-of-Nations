@@ -16,11 +16,11 @@ tags:
   - international-finance
   - Primers/Notes
   - swap-markets
-  - tag_example
+
 title: The Mechanics of Currency Swaps With Bank Credit Intermediation
 ---
 
-![[Untitled 5.jpeg|Untitled 5.jpeg]]
+![[Untitled 5. jpeg|Untitled 5. jpeg]]
 
 [[Swaps]]
 
@@ -57,7 +57,7 @@ The bank's cash flows are shown in Exhibit 6. Its swap flows with the WB,  shown
 
 It is easy to see from the diagram in Exhibit 7 how the total arbitrage was finally split among the three parties. The following table summarizes these savings:
 
-![[image3 3.png|image3 3.png]]
+![[image3 3. png|image3 3. png]]
 
 Note: The initial flow of433,  000 that the bank recognizes is the present value of the 24 bps of the 141 bps of total arbitrage profits it has appropriated.
 
@@ -73,7 +73,7 @@ Note: The initial flow of433,  000 that the bank recognizes is the present value
 
 > In order to illustrate the mechanics of intermediated currency swaps that are structured using quoted market swap rates,  we will return to the WB-Company swap described previously in which both parties agreed to make swap payments that exactly covered the required future debt service of the counterparty (see Exhibits 4 through 7). Assume the same basic terms:
 >
-> ![[image4 3.png|image4 3.png]]
+> ![[image4 3. png|image4 3. png]]
 >
 > By relating USLIBOR,  the bank offered to pay to the WB annual US16.25% against receiving annual Sfr 7.8%. In this case,  there are market swap rates for both the USand Sfr payments. Note,  therefore,  that the quoted annual US16.25% swap rate that would be paid by the bank to the WB was not the same as the 16.58% annual all-in cost on the bond. As for the cash flows,  the bank agreed to pay to the WB in years one through five the exact amount of USneeded to cover the annual interest and final principal payments on its bond. Also,  the WB agreed to pay Sfr equal to the future required debt service on the Company's bond. Therefore,  the size of both initial swap exchanges in USand Sfr between the WB and the bank were adjusted to achieve the quoted swap rates.
 >
@@ -91,7 +91,7 @@ Note: The initial flow of433,  000 that the bank recognizes is the present value
 >
 > The effective swap rates,  after converting excess USbp for Sfr bp,  are calculated in Exhibit 14. The quoted USswap rate of 16.25% was increased by US33 bp to US16.58%,  and the quoted Sfr swap rate of 7.8% was increased by Sfr 27 bp to Sfr 8.07%. These effective rates were used in Exhibit 15 to discount the required flows in years one through five in order to determine the initial swap amounts. In column (B),  the required swap receipts of US8 million for interest in years one through four,  and the US58 million for interest and principal in year five,  were discounted at the effective USswap rate of 16.58%,  resulting in an initial swap payment of US49.063 million. By converting the quoted swap rate to the effective rate,  the initial USswap payment exactly matched the net proceeds from the USbond because the internal rates of return for the two identical future flows were the same. For the Sfr swap flows shown in column (C),  the required Sfr 7.35 million interest payments in years one through four,  and the Sfr 107.35 million interest and principal payment in year five,  were discounted at the effective Sfr swap rate of 8.07%,  resulting in an initial receipt of Sfr 97.132 million. Since there was no shortfall (or excess) of USthat would reduce (or increase) the Sfr initial swap proceeds,  the all-in Sfr cost of the swap was merely 8.07%—the internal rate of return of the Sfr flows in column (C). Note that this is exactly the effective all-in Sfr cost shown in Exhibit 10,  where we used the quoted swap rates as discount rates and covered the USinitial swap payment shortfall with spot purchases from the Sfr initial swap proceeds. This had to be true because,  in this case,  the forward premium on Sfr was close to the interest rate differentials between USand Sfr. 7 Although the all-in costs associated with the cash flows were identical,  the actual cash flows were not the same. The actual structure of cash flows is generally negotiable provided the appropriate all-in costs are achieved. For this reason,  most swap diagrams show the allin costs associated with flows rather than absolute levels of flows or annual coupon rates. The swap diagram,  showing the effective swap rates calculated earlier for the WB and those for the Company (not calculated),  appears in Exhibit 16.
 
-![[image5 3.png|image5 3.png]]
+![[image5 3. png|image5 3. png]]
 
 > There is a quicker but less precise method than setting up the forward conversion table using an imaginary bond as shown in Exhibit 13 that bankers often use to roughly calculate the bp conversion rate between two currencies. In this shorthand method,  the excess bp in one currency are discounted at the appropriate term interest rate in that currency and then are reannualized using the appropriate term interest rate in the second currency. In the WB example,  the following calculations were made:
 

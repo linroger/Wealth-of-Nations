@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_334_Week 8- Dow Chemical Case- Assignment Review.md
-  - Alias_331_Week 8- Dow Chemical Case- Assignment Review.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#finance"
   - "#risk-management"
   - "#investment-analysis"
@@ -75,15 +75,15 @@ Thomas Rauter
 
 ## DOW PBB CASE: EXHIBIT 9A (UNTIL 2002)
 
-![](7b8994db3748cb7082d4b8240f95ddda.png)
+ ![500](7b8994db3748cb7082d4b8240f95ddda.png)
 
 ## DOW PBB CASE: EXHIBIT 9B (UNTIL 2002 ONLY)
 
-![](5fad9c980884db2aacc5ad03dbf33bf7.png)
+ ![500](5fad9c980884db2aacc5ad03dbf33bf7.png)
 
 ## DOW PBB CASE: EXHIBIT 9B (UNTIL 2002 ONLY)
 
-![](587dc061140e0df2678255ee3c44fc63.png)
+ ![500](587dc061140e0df2678255ee3c44fc63.png)
 
 ## WHAT RISKS DOES DOW FACE? (QUESTION 1)
  - Given the cash flow estimates, the next step is to think about potential risks
@@ -135,11 +135,11 @@ Thomas Rauter
 
 ## EVOLUTION OF ARG COUNTRY RISK PREMIUM
 
-![](e25b5852ad6f97e958fec70e848ac3fb.png)
+ ![500](e25b5852ad6f97e958fec70e848ac3fb.png)
 
 ## VALUATION WITH DISCOUNT RATE ADJUSTMENTS SCENARIO ANALYSIS
 
-![](0fcf9582a96f3d845e65d42bb1cabc48.png)
+ ![500](0fcf9582a96f3d845e65d42bb1cabc48.png)
 
 ## SCENARIO
  - Core idea: Consider explicit risks
@@ -169,15 +169,15 @@ Thomas Rauter
 
 ## SCENARIO 1: 2003 EXPROPRIATION
 
-![](88a7f76ca1bf4349791d94c93b0ddd66.png)
+ ![500](88a7f76ca1bf4349791d94c93b0ddd66.png)
 
 ## SCENARIO 2: 100% EXPORTS
 
-![](e1a67ad2362e5e27763e039ce4c4c26c.png)
+ ![500](e1a67ad2362e5e27763e039ce4c4c26c.png)
 
 ## VALUATION IN DIFFERENT SCENARIOS
 
-![](5563f29043f6bcf33f2a8527036c8424.png)
+ ![500](5563f29043f6bcf33f2a8527036c8424.png)
 
  - Note that a discount rate of 20% implies risks that are much greater than no sales
 in Argentina and 50% tax on repatriated profits
@@ -200,12 +200,12 @@ discount factor adjustments are
 
 ## MNCS DURING CURRENCY CRISES
 
-![](99f096b6a4bb76565e8ec204639e9917.png)
+ ![500](99f096b6a4bb76565e8ec204639e9917.png)
 Desai, Foley and Forbes (2007, RFS)
 
 ## WHAT ELSE COULD ONE CONSIDER?
 
-![](bf2edba51466d0411b7f026b860dedd3.png)
+ ![500](bf2edba51466d0411b7f026b860dedd3.png)
 
  - Dow treated it like a capital budgeting project from the parent shareholder
 perspective, and not like buying a private company
@@ -214,7 +214,7 @@ perspective, and not like buying a private company
  - Discount rate adjustments are common (see table below)
 	- Risks need to be handled consistently, either in cash flows or the discount rate
 	- Double counting is a major issue
-![](d7534315a50473230d6d89450bde670e.png)
+ ![500](d7534315a50473230d6d89450bde670e.png)
 ## SUMMING UP
 
  - Be explicit about what certain risks would do to your business or target

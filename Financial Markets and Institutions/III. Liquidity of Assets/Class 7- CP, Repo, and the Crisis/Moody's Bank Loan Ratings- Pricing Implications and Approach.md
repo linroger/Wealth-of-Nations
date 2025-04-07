@@ -2,13 +2,13 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_33_Moody's Bank Loan Ratings- Pricing Implications and Approach.md
-  - Example_Alias_Moody's Bank Loan Ratings- Pricing Implications and Approach
+  - Moody's Bank Loan Ratings- Pricing Implications and Approach.md
+  - Moody's Bank Loan Ratings- Pricing Implications and Approach
   - Moody's Bank Loan RatingsPricing Implications and Approach
 linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - CreditRatings
   - BankLoans
   - RiskAnalysis
@@ -57,7 +57,7 @@ These changes will have a profound impact on buy/sell decision-making and overal
 
 Chart 1:Convergence: A Blurring of Distinctions
 
-![](https://storage.simpletex.cn/view/fO6giK13l6QnCHo6GousBd0gvXMHdw4TG)
+ ![500](https://storage.simpletex.cn/view/fO6giK13l6QnCHo6GousBd0gvXMHdw4TG)
 
 There are many contributors to convergence,  but some of the key drivers are: (a) a concern on the part of regulators and others that loans may be mispriced,  thereby weakening the U.S. banking system and contributing to disintermediation of the banks to the securities markets*;(b) a strong desire on the part of the commercial banks to mitigate risk through active portfolio management techniques and (c) a generalized relaxation of Glass-Steagall
 
@@ -83,7 +83,7 @@ Third,  Moody’s would tend to agree with regulators that a truer balance betwe
 
 Because market participants are looking for greater transparency in the bank loan market--an abili ty to make risk-return comparisons with other securities markets,  Moody's decided to use its traditional rating scale in rating bank loans. These ratings facilitate a framework for the marketplace that enables price transferal from the securities market to the loan market. Using traditional ratings,  participants in loan syndications can,  for example,  compare the pricing of a Ba 2-rated bank loan to that of a large diversified portfolio of Ba 2 bonds having similar duration. Moody's also chose to use its tra ditional rating scale because it had already become part and parcel of the language and culture of the bank loan market. Pricing grids,  for example,  often are based upon a company's bond ratings
 
-![](https://storage.simpletex.cn/view/ftA4ZU2c7bKOtkRNVUKkTBFrxzMStx8De)
+ ![500](https://storage.simpletex.cn/view/ftA4ZU2c7bKOtkRNVUKkTBFrxzMStx8De)
 
 However. Loans are not bonds. In fact. The average recovery on a defaulted bank loan tends to be materially higher than on defaulted,  unsecured bonds--especially for the loans of non-investment grade borrowers (leveraged loans). Leveraged loans have higher average recoveries because of structural and collateral issues that are not typically present in unsecured bonds.
 
@@ -95,7 +95,7 @@ A key objective of Moody's is to ensure consistency of its ratings regardless of
 
 Graph 1: Cumulative Expected Losses
 
-![](https://storage.simpletex.cn/view/f4CoEspqysY2ZwbIQ4LWA2yO1GlENCxa0)
+ ![500](https://storage.simpletex.cn/view/f4CoEspqysY2ZwbIQ4LWA2yO1GlENCxa0)
 
 Source: Moody's 1995 Default Study Graph 2 shows recovery experience of capital market instruments as measured by bond prices one
 
@@ -103,7 +103,7 @@ Month following an event of default. The line represents median recovery per eve
 
 This graph has many important implications. First,  it supports our intuitive understanding of the linkage between seniority of claim and recovery experience. As creditors move up the capital struct true,  they are more likely to improve recovery prospects. There may be many reasons for the relatively small difference in median recovery between senior secured and senior unsecured bonds. But one important reason for the small difference is that bank creditors often take security over a company's best assets,  leaving secured bond creditors with less liquid and less valuable assets.
 
-![](https://storage.simpletex.cn/view/fKIPBwNgfB7GRLUpAxRKhT7UZimngVKgT)
+ ![500](https://storage.simpletex.cn/view/fKIPBwNgfB7GRLUpAxRKhT7UZimngVKgT)
 
 Source: Moody's 1995 Default Study
 
@@ -117,7 +117,7 @@ If it is true that the market's convention for pricing loans results in misprici
 
 Graph 3: Bank Loan vs. Subordinated Bond Ratings of the Same Company
 
-![](https://storage.simpletex.cn/view/fpRFvaL3C3vfc356LSSSHytLsQdreFfML)
+ ![500](https://storage.simpletex.cn/view/fpRFvaL3C3vfc356LSSSHytLsQdreFfML)
 
 A more accurate means of pricing is on a same rating (same risk) basis. Instead of grouping all companies whose bonds are rated Ba 2,  for example,  it is more accurate to quote pricing based upon all facilities that are rated Ba 2
 
@@ -127,7 +127,7 @@ Graphs show,  drawn [[A Guide to the Front End and Basis Swap Markets#London Int
 
 Of course,  this comparison of [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads and expected loss assumes that loans have,  on average,  an 18 month duration. Cumulative expected losses are higher for longer durations. What is more,  this comparison assumes that all loans have an equal propensity to prepay. This is,  of course,  not the case. It is more accurate to say that loans of more creditworthy borrowers are more likely to be prepaid than is true of less creditworthy borrowers or the loans that are more likely to experience default. This logic suggests that longer durations should be used in comparing drawn [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] spreads to expected loss.
 
-![](https://storage.simpletex.cn/view/fRGEbCxohHIWaPwgKB3hoMpGOggQIGiEu)
+ ![500](https://storage.simpletex.cn/view/fRGEbCxohHIWaPwgKB3hoMpGOggQIGiEu)
 
 Source: Moody's 1995 Default Study
 
@@ -141,13 +141,13 @@ Moody's will ultimately provide the market the rating coverage it wants in facil
 
 Graph 5: A New Framework for Risk-Adjusted Pricing
 
-![](https://storage.simpletex.cn/view/ffszwfQG1yMliHLYakhW8Gl2HCc8uQ11f)
+ ![500](https://storage.simpletex.cn/view/ffszwfQG1yMliHLYakhW8Gl2HCc8uQ11f)
 
 With regard to this last test of value,  we should note that only 13 companies do not already carry bond ratings from Moody's of the 210 companies whose bank loans have now been rated. Of the 13 unrated companies,  virtually all were subsidiaries of companies who did carry bond ratings from Moody's at the time the bank loans were rated. In addition,  Moody's has always believed that an understanding of a company's loan facilities plays a critical role in developing an understanding of the risks inherent in that company's bond obligations. Loan covenants,  loan structure,  and structural subordination issues are all critical credit considerations that must be reflected in the rating of the bonds (see Moodys Investors Service: Global Credit Analysis,  " published by IFR Books,  1991). Therefore Moody's has always sought information on a rated company's facilities even well before our announcement that we would be rating bank loans.
 
 Graph 6: Moody's Cumulative Ratings Coverage
 
-![](https://storage.simpletex.cn/view/fYlmGZEovnlL2tbnuBHrETDkdtzISPSkD)
+ ![500](https://storage.simpletex.cn/view/fYlmGZEovnlL2tbnuBHrETDkdtzISPSkD)
 
 Although Moody’s often reviews the “bank book”in rating new facilities,  we view these documents with skepticism. While bank books do provide useful summary information as to the proposed terms and conditions of the facility agreements,  Moody's believes that these documents are often primarily used as sales tools by the agent bank in facilitating the syndication process. A more reliable approach to rating bank loans,  in our opinion,  is to review the contractual obligations of all the parties,  include ing upstream/downstream guarantee language,  the credit facility agreement,  any inter-creditor agreements,  security agreements,  and related contractual agreements
 
@@ -155,7 +155,7 @@ Although Moody’s often reviews the “bank book”in rating new facilities,  w
 
 Although not always possible,  Moody’s believes that it is more valuable to the marketplace if we are able to render our rating opinions before prospective participants make the decision to participate in a new syndication. Thus,  Moody’s makes every effort to issue ratings following the bank meeting,  but on or prior to the commitment date (see Chart 3).
 
-![](https://storage.simpletex.cn/view/fVeLhLGOZZ3Sp7nYVyQCgAHT3Chi6tYBr)
+ ![500](https://storage.simpletex.cn/view/fVeLhLGOZZ3Sp7nYVyQCgAHT3Chi6tYBr)
 
 However,  it should be noted that facility agreements may change prior to loan closing Consequently,  Moody’s makes use of its prospective ratings denoted by a (P) before the rating Prospective ratings are an indication of what we believe that the final rating will be upon loan closing. If amaterial change to a loan facility ismade prior to closing that Moody's did not anticipate,  the final rating of that facility may well be different than the prospective rating
 
@@ -171,7 +171,7 @@ A seemingly obvious,  but crucial first step for the analyst is to understand wh
 
 Holding company loans that are supported by a pledge of the stock in the operating company are not generally considered effective loss mitigants except in special circumstances. A pledge of stock in an oper ating company whose financial prospects are not materially linked in any way to the financial fortunes of the holding company may be considered a valuable asset,  particularly in instances where,  in the event that the pledge were to be enforced,  the owner of the stock could liquidate its holdings quickly without a material diminution in value. More commonly,  however,  the value of the pledged stock is intimately connected to the solvency of the holding company and may be worthless as an asset in bankruptcy
 
-![](https://storage.simpletex.cn/view/fSDiwrrzAGx0KdGh8vOp5aVyd3ggAf2n2)
+ ![500](https://storage.simpletex.cn/view/fSDiwrrzAGx0KdGh8vOp5aVyd3ggAf2n2)
 
 Mandatory Prepayments. Mandatory prepayment provisions refer to circumstances in which the borrower must repay all or part of loan amounts outstanding. Two common instances in which early repayments must be made relate to significant asset sales and excess cash flow (cash flow amounts that exceed a prescribed amount). To the extent that loan amounts outstanding are repaid early,  thereby accelerating the normal amortization schedule of the loan,  the lenders’exposure to loss is reduced and the overallriskiness of the loan is reduced. There is. However,  an inverse correlation between the desir ability of an early repayment and the likelihood that mandatory prepayment provision will be invoked,  thereby reducing its effectiveness as a risk mitigant. For example,  the cash flows of a borrower experiencing financial distress usually fall below the excess cash flow trigger mechanisms Equally,  when rating a newly originated loan,  it is often difficult to forecast that the borrower will in fact effect major asset sales with any degree of certainty
 
@@ -197,7 +197,7 @@ The Distressed Asset Value Approach. Using this approach to capital structure an
 
 Chart 5: Capital Structure--The Distressed Asset Value Approach
 
-![](https://storage.simpletex.cn/view/ftg5UAv8gtgPYLFX1ltUgXqhboAVzL0on)
+ ![500](https://storage.simpletex.cn/view/ftg5UAv8gtgPYLFX1ltUgXqhboAVzL0on)
 
 In determining the value of assets in distressed circumstances it is tempting to apply standard discounts to broad asset classes (e.g-,  $80\%$ of accounts receivable,  $50\%$ to inventories,  etc.). Such an approach,  however,  tends to be oversimplifying. In reality,  for example,  some accounts receivable retain value in distressed circumstances more than others. Moody's therefore has adopted a case-bycase analysis of the secured assets where qualitative judgment plays an important role. While standard discounting of broad asset groups is inappropriate,  it is true that,  on average,  some broad asset groups tend to be better collateral security than others. Receivables often provide better protection than inventories,  which are often better than property,  plant and equipment. Here are some of the major issues Moody’s considers in examining each of the major asset types
 
@@ -215,7 +215,7 @@ Sustainable Debt Analysis. The valuation of a company's assets is sometimes an i
 
 Chart 7: Sustainable Debt Analysis
 
-![](https://storage.simpletex.cn/view/f6crCcmkrUDRB5EqBkUw8qUhW1DU7TqkE)
+ ![500](https://storage.simpletex.cn/view/f6crCcmkrUDRB5EqBkUw8qUhW1DU7TqkE)
 
 Moody's derives sustainable debt by first assessing a company's core EBITDA. In other words,  we attempt to gauge what level of earnings can be relied upon regardless of industry or macroeconomic conditions. From these earnings,  we adjust for the minimum levels of capital expenditures the compa ny will require to adequately maintain its core businesses,  as well as for the company's working capital requirements. The resulting cash flow is intended to measure the amount of cash generated and avail able to service interest expense. Dividing this result by some average measure of the interest rates applicable to a company's debt yields the amount of debt a company can sustain in distressed circum stances. As with all of these approaches to assessing a company’s capital structure,  judgment plays critical role in the analysis,  given its prospective nature. It is equally important that the analyst also consider the degree ofvariability about the expected outcome
 
@@ -261,32 +261,32 @@ Since Moody's began rating bank loans in April 1995,  the facilities of 10 compa
 
 Appendix A: CLO's Rated by Moody's
 
-![](Preview%202024-09-29%2003.35.00.tiff)
+ ![500](Preview%202024-09-29%2003.35.00.tiff)
 
-![](Preview%202024-09-29%2003.35.02.png)
+ ![500](Preview%202024-09-29%2003.35.02.png)
 
-![](Preview%202024-09-29%2003.35.18.png)
+ ![500](Preview%202024-09-29%2003.35.18.png)
 
-![](Preview%202024-09-29%2003.35.27.png)
+ ![500](Preview%202024-09-29%2003.35.27.png)
 
-![](Preview%202024-09-29%2003.35.37.png)
+ ![500](Preview%202024-09-29%2003.35.37.png)
 
-![](Preview%202024-09-29%2003.35.45.png)
+ ![500](Preview%202024-09-29%2003.35.45.png)
 
-![](Preview%202024-09-29%2003.35.53.png)
+ ![500](Preview%202024-09-29%2003.35.53.png)
 
-![](Preview%202024-09-29%2003.36.01.png)
+ ![500](Preview%202024-09-29%2003.36.01.png)
 
-![](Preview%202024-09-29%2003.36.09.png)
+ ![500](Preview%202024-09-29%2003.36.09.png)
 
-![](Preview%202024-09-29%2003.36.24.png)
+ ![500](Preview%202024-09-29%2003.36.24.png)
 
-![](Preview%202024-09-29%2003.36.34.png)
+ ![500](Preview%202024-09-29%2003.36.34.png)
 
-![](Preview%202024-09-29%2003.36.44.png)
+ ![500](Preview%202024-09-29%2003.36.44.png)
 
-![](Preview%202024-09-29%2003.36.51.png)
+ ![500](Preview%202024-09-29%2003.36.51.png)
 
-![](Preview%202024-09-29%2003.36.57.png)
+ ![500](Preview%202024-09-29%2003.36.57.png)
 
 Tags: #CreditRatings #BankLoans #RiskAnalysis #FinancialMarkets #CreditRisk #InvestmentAnalysis #DebtMarkets #RecoveryRates #LoanStructure #CorporateFinance

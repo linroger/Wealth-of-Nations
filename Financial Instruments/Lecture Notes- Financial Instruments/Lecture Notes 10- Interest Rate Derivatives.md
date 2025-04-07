@@ -1,18 +1,15 @@
 ---
 aliases:
-- Alias_164_Lecture Notes 10- Interest Rate Derivatives.md
+- 
 - LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 - LECTURE NOTES 10INTEREST RATE DERIVATIVES
 - Interest Rate Derivatives
-- Alias_165_Lecture Notes 10- Interest Rate Derivatives.md
+- 
 linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 tags:
-- tag_example
+- 
 title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 ---
-
-
-
 # Lecture Notes 10- Interest Rate Derivatives
 
 [Lecture Notes 9Corporate Securities And Credit Derivatives](Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md)
@@ -39,7 +36,7 @@ The University of Chicago Booth School of Business
 ## THE GROWTH IN INTEREST RATE DERIVATIVES
 
 The Notional Amount Of Over-The-Counter Derivatives Panel
-![](cb7ba51a67fc85b5327fb7d1d8e90f58.png)
+ ![500](cb7ba51a67fc85b5327fb7d1d8e90f58.png)
 
 ## [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
 
@@ -110,7 +107,7 @@ $$w_{i}=\frac{Z(0, T_{i})}{\Sigma_{i=1}^{n}Z(0, T_{i})}$$
 	- On November 1,  2022,  the swap rate for a 5-year fixed-for-floating swap was quoted at K = 5.46%.
 - So,  the *net* cash flow to the firm from the swap contract is
 Net cash flow to the firm at$$T_{i}  = 200 \text{ million } × 0.5 × [R(T_{i} −1,   T_{i}) − 5.46\%]$$
-- Why does this swap resolve the problem?![](ddf363508a33988350b1bc3466b5578e.png)
+- Why does this swap resolve the problem? ![500](ddf363508a33988350b1bc3466b5578e.png)
 - One of the main reasons for the massive increase in the size of the swap market is its flexibility for cash flow management and risk management.
 
 ## ISSUES WITH LIBOR
@@ -157,7 +154,7 @@ As an example: at the CME
 - Term SOFR Reference rates based on futures contracts.
 ## SOME HISTORY
 
-![](096f82336d662be8e12414cdea9f13c4.png)
+ ![500](096f82336d662be8e12414cdea9f13c4.png)
 
 ## OVERNIGHT INDEX SWAPS (IS)
 - In a Is,  the two counterparties agree to exchange fixed for floating payments,  where the floating payment is tied to the cumulative return from an overnight rate
@@ -193,17 +190,17 @@ $$V_{0}^{O I S}=V_{0}^{F l o a t i n g}-V_{0}^{F i x e d}=0\tag{6}$$
 - Next Figure shows an example of bootstrapping from Is quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (9) and defines the Is discount function$Z^{OIS}(0,  T)$.
 ## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
 
-![](f56f77987685bc6c5d58d6cc34f039cb.png)
+ ![500](f56f77987685bc6c5d58d6cc34f039cb.png)
 
 ## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2007
 
-![](b687c872a37a38a4405d3.png)
+ ![500](b687c872a37a38a4405d3.png)
 
 - However,  if we try after the crisis,  we obtain the following figure:
 
 ## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
 
-![](a5c5dde2f41af7900fa5833565f8581f.png)
+ ![500](a5c5dde2f41af7900fa5833565f8581f.png)
 
 - which are quite different.
 ## INTEREST RATE OPTIONS
@@ -243,7 +240,7 @@ $$d_{1}=\frac{\log\left(\frac{F(0, T_{i-1}, T_{i})}{K}\right)+\frac{1}{2}\sigma_
 
 ## EXAMPLE: THE BLACK'S FORMULA TO PRICE CAPS
 - Indeed,  market participants quote caps and floors directly in terms of implied volatility. For instance,  from Bloomberg we have
-![](f155e82004596b82979fdd6b86ae8c94.png)
+ ![500](f155e82004596b82979fdd6b86ae8c94.png)
 - Each entry is a volatility quote for an "at-the-money" instrument,  meaning that its strike rate(equal for all the caplets) is the swap rate with the same maturity of the cap.
 - The payment frequency of the underlying caps and floors is 3 months.
 - Since the first payment at horizon 3 months is known at time 0,  it is practice to set this caplet equal to zero.
@@ -260,7 +257,7 @@ $$d_{1}(0.75)=0.4000;\, d_{2}(0.75)=0.02328\Longrightarrow\mbox{Caplet}(0.75)=0.
 ## THE TIME SERIES OF [[Lecture Note 6-Implied Volatility |IMPLIED VOLATILITY]]
 - The quoted volatility of caps is strongly time varying,  denoting time variation in uncertainty
 about changes in future interest rates.
-![](54163984c3287d601b791751fa174d1a.png)
+ ![500](54163984c3287d601b791751fa174d1a.png)
 
 ## INTEREST RATE TREES
 - We now develop the same arguments we used in TN 4,  but for interest rates.
@@ -268,13 +265,13 @@ about changes in future interest rates.
 - Let$q = 1/2$be the (true) probability to move up or down on the tree.
 	- The movement of the short-term interest rate is exogenous to investors.
 	- E.g. the Federal Reserve sets the Fed Fund rate because of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] issues.
-- ![](cbd186d3c7001e949e521ca66dc13413.png)
+-  ![500](cbd186d3c7001e949e521ca66dc13413.png)
 - We now develop the same arguments we used in TN 4,  but for interest rates.
 - Let$r_t$be the six-month,  continuously compounded risk-free rate.
 - Let$q = 1/2$be the (true) probability to move up or down on the tree.
 - The movement of the short-term interest rate is exogenous to investors.
 - E.g. the Federal Reserve sets the Fed Fund rate because of [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] issues.
-![](3a25798bbd6afb00995ba9571401c706.png)
+ ![500](3a25798bbd6afb00995ba9571401c706.png)
 
 ## INTEREST RATE TREES
 - The expected rate in six and twelve months are
@@ -289,11 +286,11 @@ $$\begin{array}{l l l}{{E\left[r_{1}\right]}}&{{=}}&{{\frac{1}{2}r_{1, u}+\frac{
 - Recall that since steps are every 6 months:
 $$Z_{i, j}\left(i+1\right)=e^{-r_{i, j}{\frac{1}{2}}}$$
 - We obtain
-![](9fc00b2f962cde641682ec21c1466826.png)Important: Note that there is a key distinction between this zero-coupon tree,  and the trees for stocks in TN 4.
+ ![500](9fc00b2f962cde641682ec21c1466826.png)Important: Note that there is a key distinction between this zero-coupon tree,  and the trees for stocks in TN 4.
 
 ## INTEREST RATE TREES VS STOCK TREES
 - For instance,  suppose you assume that the stock process is given by ($q = 1/2$to move up)
-![](46c3bd2d4d70178950654f69122c75a5.png)
+ ![500](46c3bd2d4d70178950654f69122c75a5.png)
 - It is always the same security whose price is quoted along the tree.
 - This is important,  as if you buy the stock at time 0 for 50,  and wait one period,  you can sell it at 70 or 40 depending on the realization along the tree.
 
@@ -306,7 +303,7 @@ $$Z_{i, j}\left(i+1\right)=e^{-r_{i, j}{\frac{1}{2}}}$$
 - We need more information.
 - For instance,  assume that today$t=0$,  a zero coupon with maturity$T=1$(i.e.$i=2$) trades at$$Z_{0}(2)=0.9781$$
 - Combining this price with the previous tree,  we obtain a tree for the bond maturing at i = 2
-![](75f560b25c4f945b3ba5a43b8901a783.png)
+ ![500](75f560b25c4f945b3ba5a43b8901a783.png)
 - This is a proper asset pricing tree,  in the sense that the security along the tree is always the same,  namely,  the bond expiring at time$i = 2$.
 - Since the last payoff of any bond is always 1,  we typically do not report it.
 
@@ -340,7 +337,7 @@ $$E\left[r_{1}\right]=2.305\%<2.75\%=E^{*}\left[r_{1}\right]$$
 ## A PROBLEM IN FINDING THE TREE FOR A BOND EXPIRING AT I = 3
 - **What is then a tree for a bond expiring at** i = 3?
 - Let$Z_0 (3) = 0.9615$be the current market price of a bond maturing at$T = 1.5$,  i.e.$i = 3$.
-- ![](7abb1e6ab21ca9902f0cc70db2d7be0a.png)
+-  ![500](7abb1e6ab21ca9902f0cc70db2d7be0a.png)
 - While from the interest rate tree we find Z2, j(3),  there is not an obvious way to compute Z1, j(3).
 - We need **no arbitrage** restrictions.
 - The first no arbitrage restriction is provided by the risk neutral probability$q^∗_0$,  which implies
@@ -356,7 +353,7 @@ $$Z_{0}(3)=Z_{0}(1)E^{*}\left[Z_{1}(3)\right]=Z_{0}(1)\left[q_{0}^{*}\ Z_{1, u}(
 - We can find numerically (e.g. using Solver) the value$q^∗_1$such that the price of the traded security$Z_0 (3) = 0.9615$equals the "model price"
 $$\begin{array}{l l l}{{\widehat{Z}_{0}\left(3\right)\;=\;Z_{0}\left(1\right)\left\{q_{0}^{*}\;Z_{1, u}\left(3\right)+\left(1-q_{0}^{*}\right)\;Z_{1, d}\left(3\right)\right\}}}\\{ \mathrm{ where }}\\ {{Z_{1, u}\left(3\right)\;=\;Z_{1, u}\left(2\right)\left\{q_{1}^{*}\;Z_{2, u u}\left(3\right)+\left(1-q_{1}^{*}\right)\;Z_{2, u d}\left(3\right)\right\}}}\\ {{Z_{1, d}\left(3\right)\;=\;Z_{1, d}\left(2\right)\left\{q_{1}^{*}\;Z_{2, d u}\left(3\right)+\left(1-q_{1}^{*}\right)\;Z_{2, d d}\left(3\right)\right\}}}\end{array}$$
 - We find$q_1^*=0.5912$which implies$Z_{1, u}(3)=0.959\text{ and }Z_{1, d}\left(3\right)=0.988$.
-![](eb7a0965b0f0a49e8b31b24a3d8d0549.png)
+ ![500](eb7a0965b0f0a49e8b31b24a3d8d0549.png)
 - In summary,  building trees to price fixed income securities is not straightforward.
 - The task is made complicated from the fact that no-arbitrage restrictions exist between bonds of different maturities.
 
@@ -386,35 +383,35 @@ $$r_{2, uu}=r_{1, u}+\theta(1)\Delta+\sigma\sqrt{\Delta}$$$$r_{2, ud}=r_{1, u}+\
 - Assume that we built the risk neutral tree already,  and we simply use it.
 - Let$r_{i, j}$be the 6 month,  continuously compounded interest rate.
 - At every time (1 period = ∆ = 6 months),  there is equal risk neutral probability ($q^∗ = 1/2$) to move up or down.
-![](c12efd1a89750d0a5a2d5.png)
+ ![500](c12efd1a89750d0a5a2d5.png)
 
 ## USING RISK NEUTRAL TREES
 - From the tree, $Z_0 (1) = e^{−r_0∆} × 1 = 0.9916$
 - What is the value of bond paying \$1 in one year ($i = 2$)?
 - As usual,  it can be obtained by proceeding backward on the tree:
-![](248db1d0173d726b5947c0b764edca6d.png)
+ ![500](248db1d0173d726b5947c0b764edca6d.png)
 
 - Similarly,  a bond paying \$1 in 1.5 years ($i = 3$):
-![](1c77a7b826dc7915f4f19f7bd70b9d76.png)
+ ![500](1c77a7b826dc7915f4f19f7bd70b9d76.png)
 
 ## RISK NEUTRAL TREES
 
 - In addition,  computers can be programmed rather easily to carry out the backward computation.
-![](6ca6b0c00ce70e2530e1ebf581f0ef15.png)
+ ![500](6ca6b0c00ce70e2530e1ebf581f0ef15.png)
 
 ## CALIBRATION OF HO LEE MODEL
 
 - Given data on interest rates,  I estimated a volatility$σ =0.022$
 - Given data from *current* zero coupon bonds (STRIPS) as of May 25 2007,  we can compute iteratively θ(i) so that model prices equal actual prices for every i.
 - In the example below,  I am only showing the model price for T = 5 bond.
-![](ee690048ac68710cb1544510ad1acd5c.png)
+ ![500](ee690048ac68710cb1544510ad1acd5c.png)
 
 ## INTERMEDIATE CASH FLOWS
 
 - Notice that given a tree,  we can insert any type of known cash flow. - Specifically,  at any time-node (*i,  j*),  we just must add the CF
 $$P_{i, j}=e^{-r_{i, j}\Delta}\left(\frac{1}{2}P_{i+1, j}+\frac{1}{2}P_{i+1, j+1}+C F_{i+1}\right)$$
 - So,  for example,  a 1.5 year,  4% coupon bond is just given by
-![](3cc18b0dcddbeff077a5896cc1c8a280.png)
+ ![500](3cc18b0dcddbeff077a5896cc1c8a280.png)
 - This tree gives "ex-coupon" prices.
 ## EXAMPLE: CALLABLE BONDS
 - Trees turn out to be very useful tools (not only pedagogically).
@@ -437,7 +434,7 @@ $$C a l l_{i, j}^{\mathrm{Wait}}~=~e^{-r_{i, j}\Delta}E^{*}\left[C a l_{i+1}\rig
 $$Call_{i, j}=\max\left(Call_{i, j}^{\rm Wait}, Call_{i, j}^{\rm Ex}\right)$$$$=\max\left(e^{-r_{i, j}\times\Delta}E^{*}\left[Call_{i+1}\right], P_{i, j}-100\right)$$
 
 -  At maturity $I=T/\Delta$ we have $$Call_{I, j}=0\mbox{ for all }j$$
-![](028f1eeb379ef6236ccfc204a15cd928.png)
+ ![500](028f1eeb379ef6236ccfc204a15cd928.png)
 
 ## EXAMPLE: CALLABLE BONDS
 ##### WHAT IS THEN THE PRICE OF THE CALLABLE BOND?

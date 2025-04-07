@@ -1,16 +1,12 @@
 ---
 aliases:
-- Alias_23_MGM Prospectus.md
-- Example_Alias_MGM Prospectus
+- MGM Prospectus.md
+- MGM Prospectus
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: MGM Prospectus
 ---
-
-
-
-
 # MGM Prospectus
 
 FORM 424 B 5

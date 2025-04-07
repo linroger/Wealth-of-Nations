@@ -1,16 +1,13 @@
 ---
 aliases:
 - OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
-- Alias_190_Option Pricing With Multiperiod Binomial Tree.md
-- Alias_189_Option Pricing With Multiperiod Binomial Tree.md
+- 
+- 
 linter-yaml-title-alias: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 tags:
-- tag_example
+- 
 title: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 ---
-
-
-
 # OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 
 1. Multiperiod Binomial Tree 1.1. Preamble
@@ -145,4 +142,4 @@ c. Value of option.
 
 $$c_{0}=\Delta_{0}\cdot S_{0}+B_{0}$$
 
-![](IMG-20240913171226939.png
+ ![500](IMG-20240913171226939.png

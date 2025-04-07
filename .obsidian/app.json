@@ -15,5 +15,12 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "foldHeading": false,
-  "foldIndent": false
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

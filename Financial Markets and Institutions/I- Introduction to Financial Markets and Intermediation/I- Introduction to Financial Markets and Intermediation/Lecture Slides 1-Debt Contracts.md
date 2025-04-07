@@ -5,8 +5,8 @@ aliases:
   - Lecture Slides 1 Debt Pricing
 linter-yaml-title-alias: Lecture Slides 1 Debt Pricing
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#debt-management"
   - "#financial-crises"
   - "#capitalstructure"
@@ -38,17 +38,17 @@ title: Lecture Slides 1-Debt Contracts
 - 1980s run on Continental Bank. Similarities to SVB run in 2023.
 - Bear Sterns,  Lehman Brothers and the Federal Reserve (if time)
 - COVID-19 (if time)
-![](Pasted%20image%2020240916190513.png)
-![](Pasted%20image%2020240916190513_0.png)
-![](Lecture%20Note%201-5.png)
+ ![500](Pasted%20image%2020240916190513.png)
+ ![500](Pasted%20image%2020240916190513_0.png)
+ ![500](Lecture%20Note%201-5.png)
  US versus OECD Countries,  external funds Non-financial businesses,  1970-85
 ## F Nonfinancial Corporate Business
 
 Billions of dollars; quarterly figures are seasonally adjusted annual rates
 
-![](CleanShot%202024-09-26%20-002882@2x.png)
+ ![500](CleanShot%202024-09-26%20-002882@2x.png)
 
-![](CleanShot%202024-09-26%20-002883@2x.png)
+ ![500](CleanShot%202024-09-26%20-002883@2x.png)
 
 Introduction to Topic 1: **Capital structure and the choice of the sources of funds.** - What are the consequences of capital structure choice? What might change?
 

@@ -1,16 +1,12 @@
 ---
 aliases:
-- Alias_57_Update On Outstanding Lending Facilities.md
-- Example_Alias_Update On Outstanding Lending Facilities
+- Update On Outstanding Lending Facilities.md
+- Update On Outstanding Lending Facilities
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Update On Outstanding Lending Facilities
 ---
-
-
-
-
 # Update On Outstanding Lending Facilities
 
 # Periodic Report: **Update On Outstanding Lending Facilities** Authorized By The Board Under Section 13(3) Of The Federal Reserve Act April 23,  2020

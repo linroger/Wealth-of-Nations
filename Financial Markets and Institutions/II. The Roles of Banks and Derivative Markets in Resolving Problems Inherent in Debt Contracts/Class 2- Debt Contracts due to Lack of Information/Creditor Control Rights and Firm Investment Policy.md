@@ -1,11 +1,11 @@
 ---
 cssclasses: academia
 aliases:
-  - Example_Alias_Creditor Control Rights and Firm Investment Policy
-  - Alias_21_Creditor Control Rights and Firm Investment Policy.md
+  - Creditor Control Rights and Firm Investment Policy
+  - Creditor Control Rights and Firm Investment Policy.md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#finance"
   - "#quantitative-finance"
   - "#debt-management"

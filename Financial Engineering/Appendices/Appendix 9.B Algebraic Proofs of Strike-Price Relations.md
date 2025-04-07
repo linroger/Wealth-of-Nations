@@ -1,8 +1,8 @@
 ---
-title: Appendix 9.B Algebraic Proofs of Strike-Price Relations
+title: Appendix 9. B Algebraic Proofs of Strike-Price Relations
 ---
 
-# Appendix 9.B Algebraic Proofs of Strike-Price Relations
+# Appendix 9. B Algebraic Proofs of Strike-Price Relations
 
 In Chapter 9 we demonstrated severalpropositions about how option prices change when the strike price changes. To prove these propositions we will consider strike prices $K_{1},    K_{2}$ and $K_{3}$ ,  where $K_{1}<K_{2}<K_{3}$. Define $\lambda$ so that
 $$\lambda=\frac{K_3-K_2}{K_3-K_1}$$ or
@@ -23,10 +23,10 @@ Suppose that $C(K_{\mathrm{l}})<$ $C(K_{2})$ ; i.e.,  a lower strike call had a 
 - The net is $K_{2}-K_{1}$ which is positive.
 
 What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens,  we can simply exercise the purchased option,  earning the payoffs in the table. If it is not optimal to exercise the purchased option,  we can sell it,  earning even higher payoffs
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a96b479c2f6de1079d1d70cd6f8a0aaa9d7a9b0db607c1c14d88f830bc5cb65.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a96b479c2f6de1079d1d70cd6f8a0aaa9d7a9b0db607c1c14d88f830bc5cb65.jpg)  
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/202ea5951cb83c37b2de415d7648bafc6e939d387f178390c41948d9fd13d7b3.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb93f0b06dc9f440b4b3b17e36780ba9191ca7b300d3c6e06ec24673acedfce0.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/202ea5951cb83c37b2de415d7648bafc6e939d387f178390c41948d9fd13d7b3.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb93f0b06dc9f440b4b3b17e36780ba9191ca7b300d3c6e06ec24673acedfce0.jpg)  
 
 ### The Call Premium Changes by Less Than the Change in the Strike Price
 Suppose that $C(K_{1})-C(K_{2})\geq K_{2}-K_{1}$ We can make money initially by selling the $K_{1}$ strike call buying the $K_{2}$ -strike call,  and lending $K_{2}-K_{\mathrm{l}}$ Table 9.11 summarizes the results
@@ -37,7 +37,7 @@ What adjustments do we have to make if the options are American? If the written 
 
 ### The Call Premium Is a Convex Function of the Strike Price
 This proposition says that as the option moves more into the money,  its premium increases at a faster rate. To prove it,  suppose that $C(K_{2})\geq\lambda C(K_{1})+(1-\lambda)C(K_{3})$ We can make money initially by selling the $K_{2}$ -strike call,  buying $\lambda$ $K_{\mathrm{l}}$ -strike calls,  and buying $1-\lambda$ $K_{3}$ -strike calls. Table 9.12 summarizes the results.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b9adc1d3c6248206b89e138c6f8d41bef152476f599d9ac042233fc4b068967.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b9adc1d3c6248206b89e138c6f8d41bef152476f599d9ac042233fc4b068967.jpg)  
 
 Time 0. We earn net premium since the initial assumption is that $C(K_{2})\geq\lambda C(K_{\mathrm{l}})+$ $(1-\lambda)C(K_{3})$
 

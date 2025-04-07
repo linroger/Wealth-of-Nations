@@ -1,10 +1,10 @@
 ---
 aliases:
-- Example_Alias_Class Note 10 Liquidity and [[Class Note 10 Liquidity and Liquidity Management|liquidity management]]
-- Alias_81_Class Note 10 Liquidity and [[Class Note 10 Liquidity and Liquidity Management|liquidity management]].md
+- Class Note 10 Liquidity and [[Class Note 10 Liquidity and Liquidity Management|liquidity management]]
+- Class Note 10 Liquidity and [[Class Note 10 Liquidity and Liquidity Management|liquidity management]].md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Class Note 10 Liquidity and [[Class Note 10 Liquidity and Liquidity Management|liquidity management]]
 ---
 

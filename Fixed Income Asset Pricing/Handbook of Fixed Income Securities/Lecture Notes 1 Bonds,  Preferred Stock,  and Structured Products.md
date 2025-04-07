@@ -1,4 +1,33 @@
 ---
+LLM-tagged: 2025-03-10T14:08:26.839Z
+---
+
+Here is a summarized version of the text, tagged with relevant keywords:
+
+**Tagged Summary**
+
+1. **CMOs (Collateralized Mortgage Obligations)**:
+	* Offer investors control over cash flows
+	* Various tranche types and structures catering to different investment needs
+	* Understanding mechanics, risks, and market dynamics crucial for informed investment decision-making
+2. **PACs (Planned Amortization Classes)**:
+	* Provide stability in pre-set schedules for principal paydown
+	* Can become "broken PACs" in fast prepayment environments, affecting market performance
+3. **Prepayment Risk**:
+	* Significantly impacts CMO investment performance
+	* Voluntary and involuntary repayments affect cash flows
+4. **OAS (Option-Adjusted Duration)**:
+	* Measures duration of a bond adjusted for embedded options
+	* Useful in comparing expected returns under different interest rate scenarios
+5. **Duration**:
+	* Measures sensitivity of bond price to changes in interest rates
+	* Relevant in understanding CMO investment performance and prepayment risk
+
+Let me know if you'd like me to make any adjustments!
+
+---
+
+---
 title: Lecture Notes 1 Bonds,  Preferred Stock,  and Structured Products
 aliases: []
 tags: [bonds,  credit-cycles,  credit-risk,  debt-management,  debt-management-strategies,  economic-theory,  emerging-markets,  emerging-markets-debt,  financial-crises,  financial-instruments,  fixed-income-etfs,  macroeconomic-policymaking,  sovereign-debt,  sovereign-debt-restructuring]
@@ -94,7 +123,7 @@ cssclasses: [academia]
 
 #### Example: Bond Price Calculation
 
-Calculate the price of a bond with a par value of $1,    000,    a coupon rate of 5%,    and a yield to maturity of 4% with 10 years remaining to maturity.
+Calculate the price of a bond with a par value of $1,  000,  a coupon rate of 5%,  and a yield to maturity of 4% with 10 years remaining to maturity.
 
 1. Calculate the present value of the coupon payments.
    - The annual coupon payment is $50 ($1,  000 * 5%).
@@ -112,7 +141,7 @@ $$
 \text{Bond Price} = \sum_{t=1}^{10} \frac{50}{(1.04)^t} + \frac{1000}{(1.04)^{10}}
 $$
 
-The bond price is approximately $1,    081.11.
+The bond price is approximately $1,  081.11.
 
 :::
 
@@ -123,7 +152,7 @@ The bond price is approximately $1,    081.11.
 - Understanding bond yields and pricing is crucial for investors to assess potential returns and risks.
 - Embedded options and different coupon structures provide flexibility for issuers and investors but also introduce complexity in bond valuation.
 
-# Lecture Notes: Bonds,    Preferred Stock,    and Structured Products
+# Lecture Notes: Bonds,  Preferred Stock,  and Structured Products
 
 ## 1. Introduction to Bonds
 
@@ -199,19 +228,14 @@ The bond price is approximately $1,    081.11.
   - Warrants allow bondholders to buy shares of common stock at a specified price.
 
 ## 6. Bond Yields
-
 - Bond yields measure the potential return from investing in a bond.
   - Current yield,  yield to maturity,  yield-to-call,  and yield-to-put are common measures.
   - Yield-to-worst is the lowest yield among yield to maturity,  yields to all possible call dates,  and yields to all put dates.
 - Government yields have declined due to factors like accommodative [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]] and low inflation expectations.
   - Some government bonds have negative yields due to high purchase prices.
 
-::: {.callout-note}
-
-#### Example: Bond Price Calculation
-
-Calculate the price of a bond with a par value of $1,    000,    a coupon rate of 5%,    and a yield to maturity of 4% with 10 years remaining to maturity.
-
+::: {.callout-note} #### Example: Bond Price Calculation
+Calculate the price of a bond with a par value of $1,  000,  a coupon rate of 5%,  and a yield to maturity of 4% with 10 years remaining to maturity.
 1. Calculate the present value of the coupon payments.
    - The annual coupon payment is $50 ($1,  000 * 5%).
    - The present value of the coupon payments is calculated using the formula for the present value of an annuity.
@@ -221,15 +245,12 @@ Calculate the price of a bond with a par value of $1,    000,    a coupon rate o
 
 1. Sum the present values to find the bond price.
    - The bond price is the sum of the present value of the coupon payments and the present value of the principal repayment.
-
 The bond price is calculated as follows:
 
 $$
 \text{Bond Price} = \sum_{t=1}^{10} \frac{50}{(1.04)^t} + \frac{1000}{(1.04)^{10}}
 $$
-
-The bond price is approximately $1,    081.11.
-
+The bond price is approximately $1,  081.11.
 :::
 
 ## 7. Medium-Term Notes
@@ -261,7 +282,7 @@ The bond price is approximately $1,    081.11.
 	- Interest payments,  on the other hand,  are tax-deductible.
 	- Although the after-tax cost of funds is higher if a corporation issues preferred stock rather than borrowing,  there is a factor that reduces the cost differential.
 	  - A provision in the tax code exempts 70% of qualified dividends from federal income taxation if the recipient is a qualified corporation.
-		- For example,  if Corporation A owns the preferred stock of Corporation B,  for each $100 of dividends received by A,       only $30 will be taxed at A's marginal tax rate.
+		- For example,  if Corporation A owns the preferred stock of Corporation B,  for each $100 of dividends received by A,     only $30 will be taxed at A's marginal tax rate.
 		- The purpose of this provision is to mitigate the effect of double taxation of corporate earnings.
 	- There are two implications of this tax treatment of preferred stock dividends.
 	  - First,  the major buyers of preferred stock are corporations seeking tax-advantaged investments.
@@ -467,7 +488,7 @@ The bond price is approximately $1,    081.11.
 
 - The credit risk of a bond includes:
   1. The risk that the issuer will default on its obligation.
-  1. The risk that the bond’s value will decline and/or the bond’s price performance will be worse than that of other bonds against which the investor is compared because either (a) the market requires a higher spread due to a perceived increase in the risk that the issuer will default or (b) companies that assign ratings to bonds will lower a bond’s rating.
+  2. The risk that the bond’s value will decline and/or the bond’s price performance will be worse than that of other bonds against which the investor is compared because either (a) the market requires a higher spread due to a perceived increase in the risk that the issuer will default or (b) companies that assign ratings to bonds will lower a bond’s rating.
 	- The first risk is referred to as default risk.
 	- The second risk is labeled based on the reason for the adverse or inferior performance.
 	  - The risk attributable to an increase in the spread or,  more specifically,  the credit spread demanded by the market,  is referred to as credit-spread risk.
@@ -544,7 +565,7 @@ The bond price is approximately $1,    081.11.
 	  - First,  a default hugely deteriorates a country’s market access and reputation and makes future borrowings particularly difficult and expensive.
 	  - Second,  a default can very negatively impact trade relations with other countries,  and broad international relations and alliances can be also damaged by a default.
 
-## 23. Inflation,    or Purchasing-Power,    Risk
+## 23. Inflation,  or Purchasing-Power,  Risk
 
 - Inflation risk,  or purchasing-power risk,  arises because of the variation in the value of cash flows from a security due to inflation,  as measured in terms of purchasing power.
   - For example,  if an investor purchases a five-year bond in which he or she can realize a coupon rate of 7%,  but the rate of inflation is 8%,  then the purchasing power of the cash flow has declined.
@@ -756,7 +777,7 @@ The bond price is approximately $1,    081.11.
 
 #### Example: Arbitrage Profit from Coupon Stripping
 
-Consider a 10-year,    12.5% coupon Treasury bond selling at par with a yield-to-maturity of 12.5%. A government dealer buys the bond and strips it,    expecting to sell the zero-coupon securities at the yields indicated in Exhibit 3-3.
+Consider a 10-year,  12.5% coupon Treasury bond selling at par with a yield-to-maturity of 12.5%. A government dealer buys the bond and strips it,  expecting to sell the zero-coupon securities at the yields indicated in Exhibit 3-3.
 
 1. Calculate the present value of each cash flow using the bond's yield-to-maturity.
    - For example,  the present value of a $6.25 coupon payment in four years is calculated using a 12.5% yield.
@@ -821,7 +842,7 @@ The forward rate ensures that both strategies yield the same return over the inv
 - The shape of the term structure is influenced by market expectations and various theories,  including the pure expectations theory,  liquidity theory,  preferred-habitat theory,  and market-segmentation theory.
 - Understanding these concepts is vital for investors to assess potential returns and manage interest rate risk effectively.
 
-# Lecture Notes: Bond Pricing,    Yield Measures,    and Total Return
+# Lecture Notes: Bond Pricing,  Yield Measures,  and Total Return
 
 ## 1. Introduction to Bond Pricing and Yield Measures
 
@@ -838,7 +859,7 @@ The forward rate ensures that both strategies yield the same return over the inv
   - The cash flow for an option-free bond consists of an annuity (fixed coupon interest) and the par or maturity value.
 - Determining the Cash Flow:
   - The first step in determining the price of a bond is to determine its cash flow.
-  - For example,  a 20-year bond with a 9% coupon rate and a par value of $1,      000 has semiannual coupon payments of $45 and a maturity value of $1,  000.
+  - For example,  a 20-year bond with a 9% coupon rate and a par value of $1,    000 has semiannual coupon payments of $45 and a maturity value of $1,  000.
 - Determining the Required Yield:
   - The required yield is the interest rate that an investor wants from investing in a bond.
   - It is determined by investigating the yields offered on comparable bonds in the market.
@@ -851,7 +872,7 @@ The forward rate ensures that both strategies yield the same return over the inv
 
 #### Example: Bond Price Calculation
 
-Compute the price of a 9% coupon bond with 20 years to maturity and a par value of $1,    000 if the required yield is 12%.
+Compute the price of a 9% coupon bond with 20 years to maturity and a par value of $1,  000 if the required yield is 12%.
 
 1. Calculate the present value of the 40 semiannual coupon payments of $45 discounted at 6%.
    - The present value is $677.08.
@@ -875,7 +896,7 @@ Compute the price of a 9% coupon bond with 20 years to maturity and a par value 
 
 #### Example: Current Yield Calculation
 
-Calculate the current yield for an 18-year,    6% coupon bond selling for $700.89 per $1,    000 par value.
+Calculate the current yield for an 18-year,  6% coupon bond selling for $700.89 per $1,  000 par value.
 
 1. Calculate the annual dollar coupon interest.
    - The annual coupon interest is $60.
@@ -892,11 +913,11 @@ Calculate the current yield for an 18-year,    6% coupon bond selling for $700.8
 
 #### Example: Yield-to-Maturity Calculation
 
-Calculate the yield-to-maturity for an 18-year,    6% coupon bond selling for $700.89.
+Calculate the yield-to-maturity for an 18-year,  6% coupon bond selling for $700.89.
 
 1. Identify the cash flows: 36 coupon payments of $30 every six months and $1,  000 at maturity.
-1. Use trial and error to find the interest rate that makes the present value of the cash flows equal to $700.89.
-1. The yield-to-maturity is 9.50%.
+2. Use trial and error to find the interest rate that makes the present value of the cash flows equal to $700.89.
+3. The yield-to-maturity is 9.50%.
 :::
 
 ## 4. Relationship Between Required Yield and Price
@@ -919,7 +940,7 @@ Calculate the yield-to-maturity for an 18-year,    6% coupon bond selling for $7
 
 #### Example: Zero-Coupon Bond Price Calculation
 
-Calculate the price of a zero-coupon bond that matures in 10 years with a maturity value of $1,    000 if the required yield is 8.6%.
+Calculate the price of a zero-coupon bond that matures in 10 years with a maturity value of $1,  000 if the required yield is 8.6%.
 
 1. Calculate the present value of $1,  000 discounted at 4.3% for 20 periods.
    - The price is $430.83.
@@ -988,14 +1009,14 @@ Calculate the price of a zero-coupon bond that matures in 10 years with a maturi
 
 #### Example: Yield-to-Maturity for a Zero-Coupon Bond
 
-Calculate the YTM for a zero-coupon bond selling for $274.78 with a maturity value of $1,    000 maturing in 15 years.
+Calculate the YTM for a zero-coupon bond selling for $274.78 with a maturity value of $1,  000 maturing in 15 years.
 
-1. Calculate the future value per dollar invested: $$\frac{1,      000}{274.78} = 3.639275$$
-1. Calculate the semiannual yield: $$(3.639275)^{1/30} - 1 = 0.044$$
-1. Double the semiannual yield for the annual YTM: $$8.8\%$$
+1. Calculate the future value per dollar invested: $$\frac{1,    000}{274.78} = 3.639275$$
+2. Calculate the semiannual yield: $$(3.639275)^{1/30} - 1 = 0.044$$
+3. Double the semiannual yield for the annual YTM: $$8.8\%$$
 :::
 
-## 6. Relationship Among Coupon Rate,    Current Yield,    and Yield-to-Maturity
+## 6. Relationship Among Coupon Rate,  Current Yield,  and Yield-to-Maturity
 
 - The relationship between coupon rate,  current yield,  and YTM depends on whether the bond is selling at par,  a discount,  or a premium.
   - At par: Coupon rate = Current yield = YTM
@@ -1014,7 +1035,7 @@ Calculate the YTM for a zero-coupon bond selling for $274.78 with a maturity val
 Calculate the effective annual yield for a bond with a semiannual interest rate of 4.75%.
 
 1. Calculate the effective annual yield: $$(1.0475)^2 - 1 = 0.0973$$
-1. The effective annual yield is 9.73%.
+2. The effective annual yield is 9.73%.
 :::
 
 ## 8. Yield-to-Call
@@ -1027,11 +1048,11 @@ Calculate the effective annual yield for a bond with a semiannual interest rate 
 
 #### Example: Yield-to-Call Calculation
 
-Calculate the YTC for an 18-year,    6% coupon bond selling for $700.89,       callable in 5 years at $1,    030.
+Calculate the YTC for an 18-year,  6% coupon bond selling for $700.89,     callable in 5 years at $1,  030.
 
 1. Identify the cash flows: 10 coupon payments of $30 and $1,  030 at the call date.
-1. Use trial and error to find the interest rate that makes the present value of cash flows equal to $700.89.
-1. The YTC is 15.2% (double the periodic interest rate of 7.6%).
+2. Use trial and error to find the interest rate that makes the present value of cash flows equal to $700.89.
+3. The YTC is 15.2% (double the periodic interest rate of 7.6%).
 :::
 
 ## 9. Yield for a Portfolio
@@ -1043,11 +1064,11 @@ Calculate the YTC for an 18-year,    6% coupon bond selling for $700.89,       c
 
 #### Example: Portfolio Yield Calculation
 
-Calculate the yield for a portfolio with bonds A,    B,    and C,    with a total market value of $57,    259,    000.
+Calculate the yield for a portfolio with bonds A,  B,  and C,  with a total market value of $57,  259,  000.
 
 1. Determine the cash flows for each bond and the portfolio.
-1. Find the interest rate that makes the present value of cash flows equal to $57,  259,  000.
-1. The portfolio yield is 9.54% on a bond-equivalent basis.
+2. Find the interest rate that makes the present value of cash flows equal to $57,  259,  000.
+3. The portfolio yield is 9.54% on a bond-equivalent basis.
 :::
 
 ## 10. Total Return Analysis
@@ -1056,10 +1077,10 @@ Calculate the yield for a portfolio with bonds A,    B,    and C,    with a tota
   - It requires projecting total future dollars and calculating the interest rate that makes the bond's price grow to the projected total future dollars.
 - Steps for calculating total return:
   1. Compute total coupon payments plus interest-on-interest based on an assumed reinvestment rate.
-  1. Determine the projected sale price at the end of the investment horizon.
-  1. Add the values from steps 1 and 2 for total future dollars.
-  1. Calculate the semiannual total return: $$\left(\frac{\text{total future dollars}}{\text{purchase price of bond}}\right)^{1/h} - 1$$
-  1. Double the semiannual total return for the annual total return.
+  2. Determine the projected sale price at the end of the investment horizon.
+  3. Add the values from steps 1 and 2 for total future dollars.
+  4. Calculate the semiannual total return: $$\left(\frac{\text{total future dollars}}{\text{purchase price of bond}}\right)^{1/h} - 1$$
+  5. Double the semiannual total return for the annual total return.
 
 ## Summary
 
@@ -1080,16 +1101,16 @@ Calculate the yield for a portfolio with bonds A,    B,    and C,    with a tota
 
 - The total return calculation involves several steps:
   1. **Compute Total Coupon Payments Plus Interest-on-Interest**: Calculate the total coupon payments received over the investment horizon and the interest earned on reinvested coupons.
-  1. **Determine Projected Sale Price**: Estimate the bond's sale price at the end of the investment horizon based on expected market yields.
-  1. **Calculate Total Future Dollars**: Add the total coupon payments plus interest-on-interest to the projected sale price.
-  1. **Compute Semiannual Total Return**: Determine the semiannual total return by comparing total future dollars to the bond's purchase price.
-  1. **Convert to Bond-Equivalent and Effective Annual Yield**: Double the semiannual total return for the bond-equivalent yield and use the formula $$(1 + \text{semiannual total return})^2 - 1$$ for the effective annual yield.
+  2. **Determine Projected Sale Price**: Estimate the bond's sale price at the end of the investment horizon based on expected market yields.
+  3. **Calculate Total Future Dollars**: Add the total coupon payments plus interest-on-interest to the projected sale price.
+  4. **Compute Semiannual Total Return**: Determine the semiannual total return by comparing total future dollars to the bond's purchase price.
+  5. **Convert to Bond-Equivalent and Effective Annual Yield**: Double the semiannual total return for the bond-equivalent yield and use the formula $$(1 + \text{semiannual total return})^2 - 1$$ for the effective annual yield.
 
 ::: {.callout-note}
 
 #### Example: Total Return Calculation
 
-Suppose an investor with a three-year investment horizon is considering purchasing a 20-year,    8% coupon bond for \$828.40. The YTM is 10%,    and the investor expects to reinvest coupon payments at 6% annually. At the end of the horizon,    the bond is expected to yield 7%.
+Suppose an investor with a three-year investment horizon is considering purchasing a 20-year,  8% coupon bond for \$828.40. The YTM is 10%,  and the investor expects to reinvest coupon payments at 6% annually. At the end of the horizon,  the bond is expected to yield 7%.
 
 1. **Total Coupon Payments Plus Interest-on-Interest**:
    - Coupon payments are \$40 every six months for three years (six periods).
@@ -1103,7 +1124,7 @@ Suppose an investor with a three-year investment horizon is considering purchasi
    - Total future dollars = \$258.74 + \$1,  098.51 = \$1,  357.25.
 
 1. **Semiannual Total Return**:
-   - $$\left(\frac{1,      357.25}{828.40}\right)^{1/6} - 1 = 0.0858 \text{ or } 8.58\%$$
+   - $$\left(\frac{1,    357.25}{828.40}\right)^{1/6} - 1 = 0.0858 \text{ or } 8.58\%$$
 
 1. **Bond-Equivalent and Effective Annual Yield**:
    - Bond-equivalent yield = 17.16%.
@@ -1178,23 +1199,23 @@ Suppose an investor with a three-year investment horizon is considering purchasi
 
 #### Example: Interest-Rate Risk Assessment
 
-Consider a bond portfolio with two bonds,    each evaluated under three scenarios of yield changes.
+Consider a bond portfolio with two bonds,  each evaluated under three scenarios of yield changes.
 
 1. **Bond 1**: 4% coupon,  10-year bond,  initial price $109.4713$,  yield 2%.
-   - Scenario 1: Yield change 50 bp,  new yield 2.5%,  new price $107.0091$,  new market value $5,      350,      455$.
-   - Scenario 2: Yield change 100 bp,  new yield 3.0%,  new price $104.6111$,  new market value $5,      230,      555$.
-   - Scenario 3: Yield change 200 bp,  new yield 4.0%,  new price $100.0000$,  new market value $5,      000,      000$.
+   - Scenario 1: Yield change 50 bp,  new yield 2.5%,  new price $107.0091$,  new market value $5,    350,    455$.
+   - Scenario 2: Yield change 100 bp,  new yield 3.0%,  new price $104.6111$,  new market value $5,    230,    555$.
+   - Scenario 3: Yield change 200 bp,  new yield 4.0%,  new price $100.0000$,  new market value $5,    000,    000$.
 
 1. **Bond 2**: 5% coupon,  12-year bond,  initial price $106.5484$,  yield 4.5%.
-   - Scenario 1: Yield change 10 bp,  new yield 4.6%,  new price $105.1940$,  new market value $10,      519,      400$.
-   - Scenario 2: Yield change 50 bp,  new yield 5.0%,  new price $100.0000$,  new market value $10,      000,      000$.
-   - Scenario 3: Yield change 100 bp,  new yield 5.5%,  new price $93.9805$,  new market value $9,      398,      050$.
+   - Scenario 1: Yield change 10 bp,  new yield 4.6%,  new price $105.1940$,  new market value $10,    519,    400$.
+   - Scenario 2: Yield change 50 bp,  new yield 5.0%,  new price $100.0000$,  new market value $10,    000,    000$.
+   - Scenario 3: Yield change 100 bp,  new yield 5.5%,  new price $93.9805$,  new market value $9,    398,    050$.
 
 1. **Portfolio Market Value**:
-   - Initial market value: $16,      128,      403$.
-   - Scenario 1: $15,      869,      855$,  percentage change $-1.60\%$.
-   - Scenario 2: $15,      230,      555$,  percentage change $-5.57\%$.
-   - Scenario 3: $14,      398,      050$,  percentage change $-10.73\%$.
+   - Initial market value: $16,    128,    403$.
+   - Scenario 1: $15,    869,    855$,  percentage change $-1.60\%$.
+   - Scenario 2: $15,    230,    555$,  percentage change $-5.57\%$.
+   - Scenario 3: $14,    398,    050$,  percentage change $-10.73\%$.
 :::
 
 ## 3. Price Volatility Characteristics of Bonds
@@ -1253,7 +1274,7 @@ Consider a bond portfolio with two bonds,    each evaluated under three scenario
 - The price volatility of bonds is influenced by maturity,  coupon rate,  and embedded options,  with longer maturity and lower coupon rate bonds exhibiting greater sensitivity.
 - Understanding these concepts is crucial for managing bond portfolios and assessing potential risks and returns.
 
-# Lecture Notes: Duration,    Convexity,    and Interest Rate Risk
+# Lecture Notes: Duration,  Convexity,  and Interest Rate Risk
 
 ## 1. Introduction to Duration and Convexity
 
@@ -1398,7 +1419,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 - Modified duration is suitable for option-free bonds,  while effective duration is appropriate for bonds with embedded options.
 - Portfolio duration and spread duration provide insights into the interest rate and credit spread risk of a bond portfolio.
 
-# Lecture Notes: Convexity,    Duration,    and Interest Rate Risk
+# Lecture Notes: Convexity,  Duration,  and Interest Rate Risk
 
 ## 1. Introduction to Convexity and Duration
 
@@ -1435,10 +1456,10 @@ A 100 basis point change in yield changes the portfolio's market value by approx
   $$\text{Convexity adjustment} = (\text{convexity measure}/2) \times (\Delta y)^2 \times 100$$
 
 - **Using Eq (5-8)**:
-  $$\text{Convexity adjustment} = \text{convexity measure} \times (\Delta y)^2 \times 10,      000$$
+  $$\text{Convexity adjustment} = \text{convexity measure} \times (\Delta y)^2 \times 10,    000$$
 
 - **Using Eq (5-10)**:
-  $$\text{Convexity adjustment} = (\text{convexity measure}/2) \times (\Delta y)^2 \times 10,      000$$
+  $$\text{Convexity adjustment} = (\text{convexity measure}/2) \times (\Delta y)^2 \times 10,    000$$
 
 ### Key Takeaway
 
@@ -1475,7 +1496,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 - Modified and effective convexity provide insights into price sensitivity for option-free and option-embedded bonds,  respectively.
 - PVBP offers an additional measure of price volatility,  related to duration.
 
-# Lecture Notes: Interest Rate Risk,    Duration,    and U.S. Treasury Securities
+# Lecture Notes: Interest Rate Risk,  Duration,  and U.S. Treasury Securities
 
 ## 1. Introduction to Interest Rate Risk and Duration
 
@@ -1586,7 +1607,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
   - Institutions can request that a security be stripped into its separate components,  each receiving its own CUSIP number.
   - The components remain direct obligations of the U.S. government.
   - The program was expanded in September 1997 to include all new coupon issues.
-- As of December 31,  2019,  $331 billion of Treasury notes and bonds were held in stripped form,       representing about 3% of the $12.3 trillion in notes and bonds outstanding.
+- As of December 31,  2019,  $331 billion of Treasury notes and bonds were held in stripped form,     representing about 3% of the $12.3 trillion in notes and bonds outstanding.
   - The rate of stripping varies across issue types,  with roughly 14% of bonds stripped but only 0.1% of notes stripped.
 
 ### 1.2. Key Points
@@ -1665,7 +1686,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
   - GSEs include Fannie Mae,  Freddie Mac,  FHLB,  Farm Credit Banks,  and Farmer Mac.
 - Some government initiatives,  like the Temporary Liquidity Guarantee Program (TLGP),  provide explicit backing for certain fixed income securities.
 
-## 6. Large,    Active Issuers
+## 6. Large,  Active Issuers
 
 - The largest active issuer is the Federal Home Loan Bank system,  followed by Fannie Mae,  Freddie Mac,  and the Farm Credit System.
 
@@ -1692,7 +1713,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 - Established in 1916 to provide credit to the agricultural sector.
   - Issues discount notes,  fixed-rate callable and noncallable securities,  and floating-rate notes.
 
-## 7. Smaller,    Active Issuers
+## 7. Smaller,  Active Issuers
 
 ### 7.1. Federal Agricultural Mortgage Corporation (Farmer Mac)
 
@@ -1890,15 +1911,15 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| Aaa    | Highest quality,       minimal credit risk |
-| Aa     | High quality,       low credit risk |
-| A      | Upper-medium grade,       moderate credit risk |
-| Baa    | Medium grade,       moderate credit risk |
-| Ba     | Speculative,       substantial credit risk |
-| B      | Speculative,       high credit risk |
-| Caa    | Poor standing,       very high credit risk |
-| Ca     | Highly speculative,       near default |
-| C      | In default,       little prospect for recovery |
+| Aaa  | Highest quality,     minimal credit risk |
+| Aa   | High quality,     low credit risk |
+| A    | Upper-medium grade,     moderate credit risk |
+| Baa  | Medium grade,     moderate credit risk |
+| Ba   | Speculative,     substantial credit risk |
+| B    | Speculative,     high credit risk |
+| Caa  | Poor standing,     very high credit risk |
+| Ca   | Highly speculative,     near default |
+| C    | In default,     little prospect for recovery |
 
 ### Exhibit 9-2: Moody's Municipal Note Ratings
 
@@ -1907,7 +1928,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | MIG 1  | Excellent protection |
 | MIG 2  | Strong quality |
 | MIG 3  | Acceptable quality |
-| SG     | Speculative grade |
+| SG   | Speculative grade |
 
 ### Exhibit 9-3: Moody's Tax-Exempt [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ratings
 
@@ -1916,7 +1937,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | Prime 1 (P-1) | Superior capacity for repayment |
 | Prime 2 (P-2) | Strong capacity for repayment |
 | Prime 3 (P-3) | Acceptable capacity for repayment |
-| NP            | Not Prime Grade |
+| NP      | Not Prime Grade |
 
 ## 3. Standard & Poor's Ratings
 
@@ -1930,16 +1951,16 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| AAA    | Highest rating,       extremely strong capacity to meet financial commitments |
-| AA     | Very strong capacity to meet financial commitments |
-| A      | Strong capacity to meet financial commitments,       but somewhat susceptible to adverse economic conditions |
-| BBB    | Adequate capacity to meet financial commitments,       but more vulnerable to adverse economic conditions |
-| BB     | Speculative,       significant credit risk |
-| B      | Highly speculative,       major credit risk |
-| CCC    | Currently vulnerable,       dependent on favorable economic conditions to meet financial commitments |
-| CC     | Highly vulnerable,       default has not yet occurred but is expected |
-| C      | Currently highly vulnerable to nonpayment |
-| D      | Default,       payment default on financial commitments |
+| AAA  | Highest rating,     extremely strong capacity to meet financial commitments |
+| AA   | Very strong capacity to meet financial commitments |
+| A    | Strong capacity to meet financial commitments,     but somewhat susceptible to adverse economic conditions |
+| BBB  | Adequate capacity to meet financial commitments,     but more vulnerable to adverse economic conditions |
+| BB   | Speculative,     significant credit risk |
+| B    | Highly speculative,     major credit risk |
+| CCC  | Currently vulnerable,     dependent on favorable economic conditions to meet financial commitments |
+| CC   | Highly vulnerable,     default has not yet occurred but is expected |
+| C    | Currently highly vulnerable to nonpayment |
+| D    | Default,     payment default on financial commitments |
 
 ### Exhibit 9-5: Standard & Poor's Municipal Note Ratings
 
@@ -1948,19 +1969,19 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | SP-1   | Strong capacity to pay principal and interest |
 | SP-2   | Satisfactory capacity to pay principal and interest |
 | SP-3   | Speculative capacity to pay principal and interest |
-| D      | Default |
+| D    | Default |
 
 ### Exhibit 9-6: Standard & Poor's Tax-Exempt [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ratings
 
 | Rating | Definition |
 |--------|------------|
 | A-1+   | Extremely strong degree of safety |
-| A-1    | Strong degree of safety |
-| A-2    | Satisfactory degree of safety |
-| A-3    | Adequate degree of safety |
-| B      | Speculative,       timely payment is uncertain |
-| C      | Doubtful capacity for payment |
-| D      | Default,       payment not made on due date |
+| A-1  | Strong degree of safety |
+| A-2  | Satisfactory degree of safety |
+| A-3  | Adequate degree of safety |
+| B    | Speculative,     timely payment is uncertain |
+| C    | Doubtful capacity for payment |
+| D    | Default,     payment not made on due date |
 
 ## 4. Fitch Ratings
 
@@ -1971,16 +1992,16 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| AAA    | Highest credit quality |
-| AA     | Very high credit quality |
-| A      | High credit quality |
-| BBB    | Good credit quality |
-| BB     | Speculative |
-| B      | Highly speculative |
-| CCC    | Substantial credit risk |
-| CC     | Very high credit risk |
-| C      | Exceptionally high credit risk |
-| D      | Default |
+| AAA  | Highest credit quality |
+| AA   | Very high credit quality |
+| A    | High credit quality |
+| BBB  | Good credit quality |
+| BB   | Speculative |
+| B    | Highly speculative |
+| CCC  | Substantial credit risk |
+| CC   | Very high credit risk |
+| C    | Exceptionally high credit risk |
+| D    | Default |
 
 ## 5. Municipal Bond Insurance
 
@@ -2092,15 +2113,15 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| Aaa    | Highest quality,       minimal credit risk |
-| Aa     | High quality,       low credit risk |
-| A      | Upper-medium grade,       moderate credit risk |
-| Baa    | Medium grade,       moderate credit risk |
-| Ba     | Speculative,       substantial credit risk |
-| B      | Speculative,       high credit risk |
-| Caa    | Poor standing,       very high credit risk |
-| Ca     | Highly speculative,       near default |
-| C      | In default,       little prospect for recovery |
+| Aaa  | Highest quality,     minimal credit risk |
+| Aa   | High quality,     low credit risk |
+| A    | Upper-medium grade,     moderate credit risk |
+| Baa  | Medium grade,     moderate credit risk |
+| Ba   | Speculative,     substantial credit risk |
+| B    | Speculative,     high credit risk |
+| Caa  | Poor standing,     very high credit risk |
+| Ca   | Highly speculative,     near default |
+| C    | In default,     little prospect for recovery |
 
 ### Exhibit 9-2: Moody's Municipal Note Ratings
 
@@ -2109,7 +2130,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | MIG 1  | Excellent protection |
 | MIG 2  | Strong quality |
 | MIG 3  | Acceptable quality |
-| SG     | Speculative grade |
+| SG   | Speculative grade |
 
 ### Exhibit 9-3: Moody's Tax-Exempt [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ratings
 
@@ -2118,7 +2139,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | Prime 1 (P-1) | Superior capacity for repayment |
 | Prime 2 (P-2) | Strong capacity for repayment |
 | Prime 3 (P-3) | Acceptable capacity for repayment |
-| NP            | Not Prime Grade |
+| NP      | Not Prime Grade |
 
 ## 3. Standard & Poor's Ratings
 
@@ -2132,16 +2153,16 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| AAA    | Highest rating,       extremely strong capacity to meet financial commitments |
-| AA     | Very strong capacity to meet financial commitments |
-| A      | Strong capacity to meet financial commitments,       but somewhat susceptible to adverse economic conditions |
-| BBB    | Adequate capacity to meet financial commitments,       but more vulnerable to adverse economic conditions |
-| BB     | Speculative,       significant credit risk |
-| B      | Highly speculative,       major credit risk |
-| CCC    | Currently vulnerable,       dependent on favorable economic conditions to meet financial commitments |
-| CC     | Highly vulnerable,       default has not yet occurred but is expected |
-| C      | Currently highly vulnerable to nonpayment |
-| D      | Default,       payment default on financial commitments |
+| AAA  | Highest rating,     extremely strong capacity to meet financial commitments |
+| AA   | Very strong capacity to meet financial commitments |
+| A    | Strong capacity to meet financial commitments,     but somewhat susceptible to adverse economic conditions |
+| BBB  | Adequate capacity to meet financial commitments,     but more vulnerable to adverse economic conditions |
+| BB   | Speculative,     significant credit risk |
+| B    | Highly speculative,     major credit risk |
+| CCC  | Currently vulnerable,     dependent on favorable economic conditions to meet financial commitments |
+| CC   | Highly vulnerable,     default has not yet occurred but is expected |
+| C    | Currently highly vulnerable to nonpayment |
+| D    | Default,     payment default on financial commitments |
 
 ### Exhibit 9-5: Standard & Poor's Municipal Note Ratings
 
@@ -2150,19 +2171,19 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 | SP-1   | Strong capacity to pay principal and interest |
 | SP-2   | Satisfactory capacity to pay principal and interest |
 | SP-3   | Speculative capacity to pay principal and interest |
-| D      | Default |
+| D    | Default |
 
 ### Exhibit 9-6: Standard & Poor's Tax-Exempt [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ratings
 
 | Rating | Definition |
 |--------|------------|
 | A-1+   | Extremely strong degree of safety |
-| A-1    | Strong degree of safety |
-| A-2    | Satisfactory degree of safety |
-| A-3    | Adequate degree of safety |
-| B      | Speculative,       timely payment is uncertain |
-| C      | Doubtful capacity for payment |
-| D      | Default,       payment not made on due date |
+| A-1  | Strong degree of safety |
+| A-2  | Satisfactory degree of safety |
+| A-3  | Adequate degree of safety |
+| B    | Speculative,     timely payment is uncertain |
+| C    | Doubtful capacity for payment |
+| D    | Default,     payment not made on due date |
 
 ## 4. Fitch Ratings
 
@@ -2173,16 +2194,16 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 | Rating | Definition |
 |--------|------------|
-| AAA    | Highest credit quality |
-| AA     | Very high credit quality |
-| A      | High credit quality |
-| BBB    | Good credit quality |
-| BB     | Speculative |
-| B      | Highly speculative |
-| CCC    | Substantial credit risk |
-| CC     | Very high credit risk |
-| C      | Exceptionally high credit risk |
-| D      | Default |
+| AAA  | Highest credit quality |
+| AA   | Very high credit quality |
+| A    | High credit quality |
+| BBB  | Good credit quality |
+| BB   | Speculative |
+| B    | Highly speculative |
+| CCC  | Substantial credit risk |
+| CC   | Very high credit risk |
+| C    | Exceptionally high credit risk |
+| D    | Default |
 
 ## 5. Municipal Bond Insurance
 
@@ -2268,7 +2289,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 - Yield relationships within the municipal bond market are influenced by credit ratings,  state preferences,  and maturity differences.
 - Understanding the primary and secondary markets for municipal bonds is crucial for investors to assess potential returns and risks.
 
-# Lecture Notes: Bonds,    Debentures,    and Debt Retirement Mechanisms
+# Lecture Notes: Bonds,  Debentures,  and Debt Retirement Mechanisms
 
 ## 1. Introduction to Serial Issues and Equipment Trust Certificates
 
@@ -2675,7 +2696,7 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 - Floating-rate securities offer variable coupon rates tied to reference rates,  with features like caps,  floors,  and embedded options providing customization for investors.
 - Understanding the dynamics,  risks,  and valuation methods of these instruments is crucial for informed investment decision-making.
 
-# Lecture Notes: Floaters,    Inverse Floaters,    and Inflation-Linked Bonds
+# Lecture Notes: Floaters,  Inverse Floaters,  and Inflation-Linked Bonds
 
 ## 1. Introduction to Floaters
 
@@ -2687,8 +2708,8 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 - A floater's price will change depending on the following factors:
   1. **Time Remaining to the Next Coupon Reset Date**: The longer the time to the next coupon reset date,  the more a floater behaves like a fixed-rate security,  and the greater is a floater’s potential price fluctuation. Conversely,  the shorter the time between coupon reset dates,  the smaller is the floater's potential price fluctuation.
-  1. **Changes in the Market's Required Margin**: At the initial offering of a floater,  the issuer will set the quoted margin based on market conditions so that the security will trade near par. Subsequently,  if the market requires a higher/lower margin,  the floater’s price will decrease/increase to reflect the current margin required.
-  1. **Whether or Not the Cap or Floor Is Reached**: For a floater with a cap,  once the coupon rate as specified by the coupon formula rises above the cap rate,  the floater then offers a below-market coupon rate,  and the floater will trade at a discount. The situation is reversed if the floater has a floor.
+  2. **Changes in the Market's Required Margin**: At the initial offering of a floater,  the issuer will set the quoted margin based on market conditions so that the security will trade near par. Subsequently,  if the market requires a higher/lower margin,  the floater’s price will decrease/increase to reflect the current margin required.
+  3. **Whether or Not the Cap or Floor Is Reached**: For a floater with a cap,  once the coupon rate as specified by the coupon formula rises above the cap rate,  the floater then offers a below-market coupon rate,  and the floater will trade at a discount. The situation is reversed if the floater has a floor.
 
 ### 1.2. Duration of Floaters
 
@@ -2708,11 +2729,11 @@ A 100 basis point change in yield changes the portfolio's market value by approx
 
 #### Example: Duration of an Inverse Floater
 
-Suppose a 30-year fixed-rate bond with a market value of $100 million is split into a floater and an inverse floater with market values of $80 million and $20 million,    respectively. Assume the duration of the collateral is 8.
+Suppose a 30-year fixed-rate bond with a market value of $100 million is split into a floater and an inverse floater with market values of $80 million and $20 million,  respectively. Assume the duration of the collateral is 8.
 
 1. For a 100 basis point change in required yield,  the collateral's value will change by approximately 8%,  or $8 million.
-1. Since the floater and inverse floater are created from the collateral,  the combined change in value of the floater and the inverse floater must be $8 million for a 100 basis point change in required yield.
-1. If the duration of the floater is small,  the inverse floater must experience the full force of the $8 million change in value. For this to occur,  the duration of the inverse floater must be approximately 40.
+2. Since the floater and inverse floater are created from the collateral,  the combined change in value of the floater and the inverse floater must be $8 million for a 100 basis point change in required yield.
+3. If the duration of the floater is small,  the inverse floater must experience the full force of the $8 million change in value. For this to occur,  the duration of the inverse floater must be approximately 40.
 
 A duration of 40 will mean a 40% change in the inverse floater’s value for a 100 basis point change in required yield and a change in value of approximately $8 million (40% times $20 million).
 
@@ -2722,9 +2743,9 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - Several portfolio strategies have been employed using floaters,  including:
   1. **Basic Asset/Liability Management Strategies**: Depository institutions typically borrow short term and invest in floating-rate products to lock in a spread over their short-term funding costs.
-  1. **Risk Arbitrage Strategies**: Money managers use leverage to invest in agency adjustable-rate pass-through securities that earn a higher spread over their borrowing rate.
-  1. **Betting on Changes in the Required Margin**: Investors speculate on whether a floater's required margin will change.
-  1. **Arbitrage Between Fixed and Floating-Rate Markets Using Asset Swaps**: Involves the creation of synthetic security via the purchase of an existing security and the simultaneous execution of a swap.
+  2. **Risk Arbitrage Strategies**: Money managers use leverage to invest in agency adjustable-rate pass-through securities that earn a higher spread over their borrowing rate.
+  3. **Betting on Changes in the Required Margin**: Investors speculate on whether a floater's required margin will change.
+  4. **Arbitrage Between Fixed and Floating-Rate Markets Using Asset Swaps**: Involves the creation of synthetic security via the purchase of an existing security and the simultaneous execution of a swap.
 
 ## 4. Demise of [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] and Transition to SOFR
 
@@ -3145,10 +3166,10 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - External debt (EXD) is issued externally and is governed by the laws of a foreign country.
   - It is denominated in foreign currency,  primarily U.S. dollars and euros,  and may be called foreign currency debt (FC).
 - Foreign investors initially focused only on external debt.
-  - The outstanding face value of external EM bonds is close to $3.9 trillion,       of which $2.7 trillion is corporate debt and $1.2 trillion is sovereign debt.
+  - The outstanding face value of external EM bonds is close to $3.9 trillion,     of which $2.7 trillion is corporate debt and $1.2 trillion is sovereign debt.
   - The vast majority of growth in external debt has been through the issuance of [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] or sovereign global and Eurobonds,  terms that are often used interchangeably.
   - External corporate debt has been growing faster than external sovereign debt.
-- Domestic debt has become an increasing share of all debt,  now over $22 trillion,       or 85% of the total EM tradable debt universe (Exhibit 17-2),       up from $2 trillion in 2000.
+- Domestic debt has become an increasing share of all debt,  now over $22 trillion,     or 85% of the total EM tradable debt universe (Exhibit 17-2),     up from $2 trillion in 2000.
   - The lower liquidity,  frequent investment restrictions,  varied practices,  and higher convertibility risk make trading in domestic bonds more difficult for foreign investors than trading in external bonds.
   - However,  the potential for significant investment gains due to the decline in local interest rates from highly inflationary and high yielding periods,  coupled with currency appreciation was a driver for significant growth in assets invested in local markets.
 
@@ -3171,8 +3192,8 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 ### 4.1. Size of Market
 
 - External debt markets are now dominated by [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  but sovereign debt still dominates local markets.
-  - External debt issuance has been running at around $600 billion annually,       25% sovereign and 75% corporate,       provincial and quasi-sovereign,       compared with $30 billion during the early 1990s.
-  - There is more than $4 trillion of outstanding tradable external debt in 2020,       versus $1 trillion in 2000.
+  - External debt issuance has been running at around $600 billion annually,     25% sovereign and 75% corporate,     provincial and quasi-sovereign,     compared with $30 billion during the early 1990s.
+  - There is more than $4 trillion of outstanding tradable external debt in 2020,     versus $1 trillion in 2000.
   - Corporate issuance has been increasing in general as corporate borrowers now enjoy wide access to the international capital markets.
 
 ### 4.2. Diversification of Issuers
@@ -3190,7 +3211,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - EM sovereign and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] totaling $2.5-3 trillion are eligible for inclusion in EM indices.
   - This is larger than the entire $2.3 trillion market capitalization of the ICE BofA Global High Yield Index.
 
-### 5.1. Sovereigns Are About 40%,    Corporates 60% of EM External Debt Indices
+### 5.1. Sovereigns Are About 40%,  Corporates 60% of EM External Debt Indices
 
 - The three most frequently used family of benchmark indices are the JPMorgan EMBI Global (EMBIG) index of sovereign and quasi-sovereigns,  the Bloomberg Barclays EM Aggregate Index (EMUSTRUU) of USD sovereigns and corporates,  and the ICE BofA EMs External Sovereign Index (EMGB) of EUR and USD bonds.
   - Each of those indices have a sovereign market value near $1 trillion as of 2020.
@@ -3213,7 +3234,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - Over the last three decades,  Eastern European,  African,  Middle Eastern,  and Asian markets have gained market share.
   - Asia dominates the market capitalization,  mainly from China’s large issuance of quasi-sovereign bonds after 2010.
   - This has left Latin America with only 26% of the market capitalization of external debt qualifying for index inclusion,  compared to 98% at inception of the indices.
-  - The most frequently used indices that include corporates are the USD JPMorgan CEMBI ($1.1 trillion),       the Bloomberg Barclays EM Aggregate Index that includes USD-,       EUR-,       and GBP-denominated sovereign,       quasi-sovereign,       and corporate debt from EM issuers ($2.5 trillion LG20TRUU of which $2.2 trillion is in USD) and the ICE BofA Emerging Markets EM corporate index ($1.7 trillion,  EMCB).
+  - The most frequently used indices that include corporates are the USD JPMorgan CEMBI ($1.1 trillion),     the Bloomberg Barclays EM Aggregate Index that includes USD-,     EUR-,     and GBP-denominated sovereign,     quasi-sovereign,     and corporate debt from EM issuers ($2.5 trillion LG20TRUU of which $2.2 trillion is in USD) and the ICE BofA Emerging Markets EM corporate index ($1.7 trillion,  EMCB).
   - EM countries are home to Vale,  the largest iron ore company; Codelco,  the largest copper company; Bimbo,  the largest baker; JBS,  the largest meat packer; and Gazprom,  the largest gas company,  to name a few.
   - The Mexican telecommunications company,  America Movil,  is one of the largest in the world.
   - The Industrial and Commercial Bank of China is the largest bank in the world.
@@ -3310,9 +3331,9 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - **Domestic Debt**: Issued locally and governed by local laws,  typically denominated in local currency. Also known as local debt or local debt markets (LDM).
 - **External Debt (EXD)**: Issued externally and governed by foreign laws,  primarily denominated in foreign currencies such as U.S. dollars and euros. Also known as foreign currency debt (FC).
-- Foreign investors initially focused on external debt,  with the outstanding face value of external EM bonds close to $3.9 trillion,       including $2.7 trillion in corporate debt and $1.2 trillion in sovereign debt.
+- Foreign investors initially focused on external debt,  with the outstanding face value of external EM bonds close to $3.9 trillion,     including $2.7 trillion in corporate debt and $1.2 trillion in sovereign debt.
   - The majority of growth in external debt has been through [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] and sovereign global and Eurobonds.
-  - Domestic debt has become an increasing share of all debt,  now over $22 trillion,       or 85% of the total EM tradable debt universe,       up from $2 trillion in 2000.
+  - Domestic debt has become an increasing share of all debt,  now over $22 trillion,     or 85% of the total EM tradable debt universe,     up from $2 trillion in 2000.
 
 ## 3. Debt Stock by Region
 
@@ -3329,7 +3350,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - External debt markets are now dominated by [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  but sovereign debt still dominates local markets.
   - External debt issuance has been around $600 billion annually,  with 25% sovereign and 75% corporate,  provincial,  and quasi-sovereign.
-  - There is more than $4 trillion of outstanding tradable external debt in 2020,       compared to $1 trillion in 2000.
+  - There is more than $4 trillion of outstanding tradable external debt in 2020,     compared to $1 trillion in 2000.
 
 ### 4.2. Diversification of Issuers
 
@@ -3340,9 +3361,9 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 ## 5. Benchmark EM Sovereign and Corporate Indices
 
-- EM sovereign and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] totaling $2.5-3 trillion are eligible for inclusion in EM indices,       larger than the entire $2.3 trillion market capitalization of the ICE BofA Global High Yield Index.
+- EM sovereign and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] totaling $2.5-3 trillion are eligible for inclusion in EM indices,     larger than the entire $2.3 trillion market capitalization of the ICE BofA Global High Yield Index.
 
-### 5.1. Sovereigns Are About 40%,    Corporates 60% of EM External Debt Indices
+### 5.1. Sovereigns Are About 40%,  Corporates 60% of EM External Debt Indices
 
 - The three most frequently used benchmark indices are the JPMorgan EMBI Global (EMBIG) index of sovereign and quasi-sovereigns,  the Bloomberg Barclays EM Aggregate Index (EMUSTRUU) of USD sovereigns and corporates,  and the ICE BofA EMs External Sovereign Index (EMGB) of EUR and USD bonds.
   - Each of these indices has a sovereign market value near $1 trillion as of 2020.
@@ -3350,7 +3371,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 ## 6. Corporate Debt Growth
 
-- The EM corporate bond market is one of the fastest-growing asset classes globally,  with $1.6 trillion index-eligible debt in 2020,       up from $74 billion 20 years earlier.
+- The EM corporate bond market is one of the fastest-growing asset classes globally,  with $1.6 trillion index-eligible debt in 2020,     up from $74 billion 20 years earlier.
   - About two-thirds of the market capitalization in each corporate index family is comprised of investment-grade bonds.
 
 ### 6.1. Top 10 Countries: Corporate Debt Index Face Value (EMCB Index)
@@ -3416,9 +3437,9 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - **Domestic Debt**: Issued locally and governed by local laws,  typically denominated in local currency. Also known as local debt or local debt markets (LDM).
 - **External Debt (EXD)**: Issued externally and governed by foreign laws,  primarily denominated in foreign currencies such as U.S. dollars and euros. Also known as foreign currency debt (FC).
-- Foreign investors initially focused on external debt,  with the outstanding face value of external EM bonds close to $3.9 trillion,       including $2.7 trillion in corporate debt and $1.2 trillion in sovereign debt.
+- Foreign investors initially focused on external debt,  with the outstanding face value of external EM bonds close to $3.9 trillion,     including $2.7 trillion in corporate debt and $1.2 trillion in sovereign debt.
   - The majority of growth in external debt has been through [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] and sovereign global and Eurobonds.
-  - Domestic debt has become an increasing share of all debt,  now over $22 trillion,       or 85% of the total EM tradable debt universe,       up from $2 trillion in 2000.
+  - Domestic debt has become an increasing share of all debt,  now over $22 trillion,     or 85% of the total EM tradable debt universe,     up from $2 trillion in 2000.
 
 ## 3. Debt Stock by Region
 
@@ -3435,7 +3456,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - External debt markets are now dominated by [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  but sovereign debt still dominates local markets.
   - External debt issuance has been around $600 billion annually,  with 25% sovereign and 75% corporate,  provincial,  and quasi-sovereign.
-  - There is more than $4 trillion of outstanding tradable external debt in 2020,       compared to $1 trillion in 2000.
+  - There is more than $4 trillion of outstanding tradable external debt in 2020,     compared to $1 trillion in 2000.
 
 ### 4.2. Diversification of Issuers
 
@@ -3446,9 +3467,9 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 ## 5. Benchmark EM Sovereign and Corporate Indices
 
-- EM sovereign and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] totaling $2.5-3 trillion are eligible for inclusion in EM indices,       larger than the entire $2.3 trillion market capitalization of the ICE BofA Global High Yield Index.
+- EM sovereign and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] totaling $2.5-3 trillion are eligible for inclusion in EM indices,     larger than the entire $2.3 trillion market capitalization of the ICE BofA Global High Yield Index.
 
-### 5.1. Sovereigns Are About 40%,    Corporates 60% of EM External Debt Indices
+### 5.1. Sovereigns Are About 40%,  Corporates 60% of EM External Debt Indices
 
 - The three most frequently used benchmark indices are the JPMorgan EMBI Global (EMBIG) index of sovereign and quasi-sovereigns,  the Bloomberg Barclays EM Aggregate Index (EMUSTRUU) of USD sovereigns and corporates,  and the ICE BofA EMs External Sovereign Index (EMGB) of EUR and USD bonds.
   - Each of these indices has a sovereign market value near $1 trillion as of 2020.
@@ -3456,7 +3477,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 ## 6. Corporate Debt Growth
 
-- The EM corporate bond market is one of the fastest-growing asset classes globally,  with $1.6 trillion index-eligible debt in 2020,       up from $74 billion 20 years earlier.
+- The EM corporate bond market is one of the fastest-growing asset classes globally,  with $1.6 trillion index-eligible debt in 2020,     up from $74 billion 20 years earlier.
   - About two-thirds of the market capitalization in each corporate index family is comprised of investment-grade bonds.
 
 ### 6.1. Top 10 Countries: Corporate Debt Index Face Value (EMCB Index)
@@ -3629,8 +3650,8 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 - There are three main types of preferred stock:
   1. **Fixed-Rate Preferred Stock**: Pays a fixed dividend rate.
-  1. **Adjustable-Rate Preferred Stock (ARPS)**: The dividend rate is reset quarterly based on a predetermined spread from the highest of three points on the Treasury yield curve.
-  1. **Auction-Rate and Remarketed Preferred Stock**: The dividend rate is established through a Dutch auction process or determined by a remarketing agent.
+  2. **Adjustable-Rate Preferred Stock (ARPS)**: The dividend rate is reset quarterly based on a predetermined spread from the highest of three points on the Treasury yield curve.
+  3. **Auction-Rate and Remarketed Preferred Stock**: The dividend rate is established through a Dutch auction process or determined by a remarketing agent.
 
 ### 2.2. Trust Preferred Securities
 
@@ -3649,7 +3670,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - Preferred stock provides higher yields and diversification benefits,  with various types offering different dividend structures and features.
 - Understanding the characteristics,  risks,  and market dynamics of these instruments is crucial for informed investment decision-making.
 
-# Lecture Notes: Project Finance,    DSCR,    and Default Risk
+# Lecture Notes: Project Finance,  DSCR,  and Default Risk
 
 ## 1. Introduction to Project Finance and DSCR
 
@@ -3679,7 +3700,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 ### 2.1. Probability of Default
 
 - The probability of default can be expressed as:
-  $$ p_t = \text{Pr}(\text{DSCR}_t < 1.x \mid \min_{j<t} \text{DSCR}_j \geq 1.x) $$
+  $$ p_t = \text{Pr}(\text{DSCR}_t < 1. x \mid \min_{j<t} \text{DSCR}_j \geq 1. x) $$
   - This represents the conditional probability of default,  given that no default has occurred until time \( t \).
 
 ## 3. Restructurings and Embedded Options
@@ -3727,7 +3748,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - Restructurings and embedded options play a significant role in managing credit risk and maximizing recovery.
 - Understanding the determinants of spreads and pricing,  as well as advanced credit risk management techniques,  is crucial for informed investment decision-making in project finance.
 
-# Lecture Notes: Mortgage Loans,    Project Finance,    and Fixed Income Instruments
+# Lecture Notes: Mortgage Loans,  Project Finance,  and Fixed Income Instruments
 
 ## 1. Introduction to Mortgage Loans
 
@@ -3814,7 +3835,7 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 - Project finance relies on the DSCR as a measure of credit risk,  with restructurings and embedded options influencing credit risk management.
 - Fixed income ETFs and preferred stock offer transparency,  liquidity,  and diversification benefits,  making them valuable tools for investors.
 
-# Lecture Notes: Mortgage Loans,    Project Finance,    and Fixed Income Instruments
+# Lecture Notes: Mortgage Loans,  Project Finance,  and Fixed Income Instruments
 
 ## 1. Introduction to Mortgage Loans
 
@@ -3909,18 +3930,18 @@ A duration of 40 will mean a 40% change in the inverse floater’s value for a 1
 
 #### Example: Pooling Options for a 4.125% Conventional Loan
 
-Consider a loan with a $4.125\%$ note rate. The optimal execution is calculated regularly by the originator and is a function of the levels of pass-through prices,    servicing valuations,    and guaranty fee buydown costs.
+Consider a loan with a $4.125\%$ note rate. The optimal execution is calculated regularly by the originator and is a function of the levels of pass-through prices,  servicing valuations,  and guaranty fee buydown costs.
 
 1. **Pass-through Prices**: The loan can be pooled into UM30 3.0% or UM30 3.5% pools,  with pass-through prices of 99.25 and 101.50,  respectively.
-1. **Base Servicing**: Both options have a base servicing fee of 1.00,  priced at 4x.
-1. **Guaranty Fee**: The guaranty fee is 0.40 for both options.
-1. **Excess Servicing/G-Fee**: The excess servicing/g-fee is 0.475 for UM30 3.0% and -0.025 for UM30 3.5%.
-1. **Excess/G-Fee Buydown**: The excess/g-fee buydown is 1.90 for UM30 3.0% and -0.10 for UM30 3.5%.
-1. **Gross Proceeds**: The gross proceeds are 102.15 for UM30 3.0% and 102.40 for UM30 3.5%.
-1. **Costs and Margin**: Both options have costs and margin of -3.00.
-1. **Net Proceeds**: The net proceeds are 99.15 for UM30 3.0% and 99.40 for UM30 3.5%.
+2. **Base Servicing**: Both options have a base servicing fee of 1.00,  priced at 4x.
+3. **Guaranty Fee**: The guaranty fee is 0.40 for both options.
+4. **Excess Servicing/G-Fee**: The excess servicing/g-fee is 0.475 for UM30 3.0% and -0.025 for UM30 3.5%.
+5. **Excess/G-Fee Buydown**: The excess/g-fee buydown is 1.90 for UM30 3.0% and -0.10 for UM30 3.5%.
+6. **Gross Proceeds**: The gross proceeds are 102.15 for UM30 3.0% and 102.40 for UM30 3.5%.
+7. **Costs and Margin**: Both options have costs and margin of -3.00.
+8. **Net Proceeds**: The net proceeds are 99.15 for UM30 3.0% and 99.40 for UM30 3.5%.
 
-The best execution option is to securitize the loan in the 3.5% pool,    as it provides the greatest proceeds to the lender.
+The best execution option is to securitize the loan in the 3.5% pool,  as it provides the greatest proceeds to the lender.
 
 :::
 
@@ -3932,18 +3953,18 @@ The best execution option is to securitize the loan in the 3.5% pool,    as it p
 
 #### Example: Calculation of Points for Different Note Rates
 
-Consider loans with note rates from $4.125\%$ to $4.5\%$,    assuming the best execution for all rates would be into pools with a $3.5\%$ coupon rate.
+Consider loans with note rates from $4.125\%$ to $4.5\%$,  assuming the best execution for all rates would be into pools with a $3.5\%$ coupon rate.
 
 1. **Pass-through Price**: 101.5 for all note rates.
-1. **Base Servicing**: 1 for all note rates,  assuming 4x multiple.
-1. **Excess Servicing/G-Fee**: Varies by note rate,  with -0.025 for $4.125\%$,  0.100 for $4.250\%$,  0.225 for $4.375\%$,  and 0.350 for $4.500\%$.
-1. **Excess Servicing Value**: Varies by note rate,  with 0.40 for $4.250\%$,  0.90 for $4.375\%$,  and 1.40 for $4.500\%$.
-1. **G-fee Buydown Value**: -0.10 for $4.125\%$.
-1. **Gross Proceeds**: Varies by note rate,  with 102.40 for $4.125\%$,  102.90 for $4.250\%$,  103.40 for $4.375\%$,  and 103.90 for $4.500\%$.
-1. **Costs and Margin**: -3.00 for all note rates.
-1. **Net Proceeds**: Varies by note rate,  with 99.40 for $4.125\%$,  99.90 for $4.250\%$,  100.40 for $4.375\%$,  and 100.90 for $4.500\%$.
-1. **Points**: Varies by note rate,  with 0.60 for $4.125\%$,  0.10 for $4.250\%$,  -0.40 for $4.375\%$,  and -0.90 for $4.500\%$.
-1. **Rounded Points**: Rounded to the nearest 1/8th,  with 0.50 for $4.125\%$,  0.00 for $4.250\%$,  -0.50 for $4.375\%$,  and -1.00 for $4.500\%$.
+2. **Base Servicing**: 1 for all note rates,  assuming 4x multiple.
+3. **Excess Servicing/G-Fee**: Varies by note rate,  with -0.025 for $4.125\%$,  0.100 for $4.250\%$,  0.225 for $4.375\%$,  and 0.350 for $4.500\%$.
+4. **Excess Servicing Value**: Varies by note rate,  with 0.40 for $4.250\%$,  0.90 for $4.375\%$,  and 1.40 for $4.500\%$.
+5. **G-fee Buydown Value**: -0.10 for $4.125\%$.
+6. **Gross Proceeds**: Varies by note rate,  with 102.40 for $4.125\%$,  102.90 for $4.250\%$,  103.40 for $4.375\%$,  and 103.90 for $4.500\%$.
+7. **Costs and Margin**: -3.00 for all note rates.
+8. **Net Proceeds**: Varies by note rate,  with 99.40 for $4.125\%$,  99.90 for $4.250\%$,  100.40 for $4.375\%$,  and 100.90 for $4.500\%$.
+9. **Points**: Varies by note rate,  with 0.60 for $4.125\%$,  0.10 for $4.250\%$,  -0.40 for $4.375\%$,  and -0.90 for $4.500\%$.
+10. **Rounded Points**: Rounded to the nearest 1/8th,  with 0.50 for $4.125\%$,  0.00 for $4.250\%$,  -0.50 for $4.375\%$,  and -1.00 for $4.500\%$.
 
 The calculation of points reflects the net value of the loan after pricing all components and its par value.
 
@@ -3957,14 +3978,14 @@ The calculation of points reflects the net value of the loan after pricing all c
 
 #### Example: Prepayment Risk in Mortgage Products
 
-Prepayment risk is a unique form of risk for holders of mortgage assets,    as borrowers have the option to prepay their loans before maturity.
+Prepayment risk is a unique form of risk for holders of mortgage assets,  as borrowers have the option to prepay their loans before maturity.
 
 1. **Rate-Sensitive Prepayments**: Primarily consist of refinancings for which borrowers do not monetize their homes' equity,  called rate-and-term refinancings. This activity is highly sensitive to interest and mortgage rates.
-1. **Rate-Insensitive Prepayments**: Traditionally comprised of housing turnover,  including home sales and equity extraction through cash-out refinancings. Credit-related prepayments also need to be considered.
-1. **Measurement of Prepayment Rates**: The single monthly mortality (SMM) measures monthly principal prepayments as a percentage of the balance at the beginning of the month. The conditional prepayment rate (CPR) is the SMM annualized.
-1. **PSA Model**: The base PSA model assumes prepayments begin at 0.2% in the first month and increase to 6.0% CPR in month 30. Variations in prepayment speeds affect the performance of mortgages and MBS.
+2. **Rate-Insensitive Prepayments**: Traditionally comprised of housing turnover,  including home sales and equity extraction through cash-out refinancings. Credit-related prepayments also need to be considered.
+3. **Measurement of Prepayment Rates**: The single monthly mortality (SMM) measures monthly principal prepayments as a percentage of the balance at the beginning of the month. The conditional prepayment rate (CPR) is the SMM annualized.
+4. **PSA Model**: The base PSA model assumes prepayments begin at 0.2% in the first month and increase to 6.0% CPR in month 30. Variations in prepayment speeds affect the performance of mortgages and MBS.
 
-Prepayment risk impacts the timing of investors' cash flows and creates uncertainty in returns,    analogous to call risk for corporate and municipal bonds.
+Prepayment risk impacts the timing of investors' cash flows and creates uncertainty in returns,  analogous to call risk for corporate and municipal bonds.
 
 :::
 
@@ -3979,16 +4000,16 @@ Prepayment risk impacts the timing of investors' cash flows and creates uncertai
 Credit [[Week 3 Financial Risk Analysis|risk analysis]] in the mortgage sector involves quantifying and stratifying the characteristics of the loans underlying the mortgage investment.
 
 1. **Delinquencies**: Measure whether borrowers are current on their loan payments,  with classifications such as 30 days delinquent,  60 days delinquent,  and 90+ days delinquent.
-1. **Defaults**: Occur when the borrower loses title to the property,  typically for loans 90+ days delinquent. Defaults in private-label transactions must be treated separately from refinancings and other prepayments.
-1. **Severity**: Measures the face value of the loss on a loan after foreclosure. Influenced by the loan's LTV and other factors such as property value declines and foreclosure costs.
+2. **Defaults**: Occur when the borrower loses title to the property,  typically for loans 90+ days delinquent. Defaults in private-label transactions must be treated separately from refinancings and other prepayments.
+3. **Severity**: Measures the face value of the loss on a loan after foreclosure. Influenced by the loan's LTV and other factors such as property value declines and foreclosure costs.
 
-Evaluating the credit-adjusted performance of a mortgage pool involves understanding expected delinquencies,    defaults,    and loss severities,    leading to loss-adjusted yields and returns.
+Evaluating the credit-adjusted performance of a mortgage pool involves understanding expected delinquencies,  defaults,  and loss severities,  leading to loss-adjusted yields and returns.
 
 :::
 
 ---
 
-These examples illustrate the complexities of mortgage loans,    project finance,    and fixed income instruments,    highlighting the importance of understanding the mechanics,    risks,    and market dynamics for informed investment decision-making.
+These examples illustrate the complexities of mortgage loans,  project finance,  and fixed income instruments,  highlighting the importance of understanding the mechanics,  risks,  and market dynamics for informed investment decision-making.
 
 # Lecture Notes: Prepayment Risk and Mortgage-Backed Securities (MBS)
 
@@ -4094,7 +4115,7 @@ These examples illustrate the complexities of mortgage loans,    project finance
 - Understanding prepayment conventions,  modeling,  and analytics is crucial for valuing MBS and managing investment risk.
 - The PSA model and prepayment assumptions play key roles in cash-flow analysis and determining MBS yields and durations.
 
-# Lecture Notes: Duration Measures,    Agency Passthrough Market,    and Collateralized Mortgage Obligations
+# Lecture Notes: Duration Measures,  Agency Passthrough Market,  and Collateralized Mortgage Obligations
 
 ## 1. Introduction to Duration Measures
 
@@ -4189,29 +4210,29 @@ These examples illustrate the complexities of mortgage loans,    project finance
 
 #### Exhibit 23-2: Comparing Yield Tables of Full vs. Stripped-Down Coupon Sequentials
 
-| Sequential,       4% on 5.5% Scenario | -200 | -100 | 0 | 100 | 200 |
+| Sequential,     4% on 5.5% Scenario | -200 | -100 | 0 | 100 | 200 |
 |---------------------------------|------|------|---|-----|-----|
-| Prepayment (PSA)                | 1595 | 800  | 225 | 145 | 120 |
-| Price                           |      |      |     |     |     |
-| 96.625                          | 7.20%| 6.03%| 4.87%| 4.67%| 4.61%|
-| 97.625                          | 6.20%| 5.40%| 4.61%| 4.47%| 4.43%|
-| 98.625                          | 5.21%| 4.78%| 4.35%| 4.27%| 4.25%|
-| Average Life                    | 1.09 | 1.76 | 4.50 | 6.20 | 7.05 |
-| OAS                             | 25   |      |     |     |     |
-| OAD                             | 5.26 |      |     |     |     |
-| OAC                             | -1.36|      |     |     |     |
+| Prepayment (PSA)        | 1595 | 800  | 225 | 145 | 120 |
+| Price               |    |    |   |   |   |
+| 96.625              | 7.20%| 6.03%| 4.87%| 4.67%| 4.61%|
+| 97.625              | 6.20%| 5.40%| 4.61%| 4.47%| 4.43%|
+| 98.625              | 5.21%| 4.78%| 4.35%| 4.27%| 4.25%|
+| Average Life          | 1.09 | 1.76 | 4.50 | 6.20 | 7.05 |
+| OAS               | 25   |    |   |   |   |
+| OAD               | 5.26 |    |   |   |   |
+| OAC               | -1.36|    |   |   |   |
 
-| Sequential 5.5% on 5.5%         | -200 | -100 | 0 | 100 | 200 |
+| Sequential 5.5% on 5.5%     | -200 | -100 | 0 | 100 | 200 |
 |---------------------------------|------|------|---|-----|-----|
-| Prepayment (PSA)                | 1596 | 823  | 223 | 146 | 121 |
-| Price                           |      |      |     |     |     |
-| 101.9375                        | 3.51%| 4.23%| 5.00%| 5.13%| 5.17%|
-| 102.9375                        | 2.58%| 3.63%| 4.75%| 4.93%| 4.99%|
-| 103.9375                        | 1.67%| 3.04%| 4.50%| 4.73%| 4.81%|
-| Average Life                    | 1.09 | 1.73 | 4.54 | 6.18 | 7.01 |
-| OAS                             | 35   |      |     |     |     |
-| OAD                             | 3.11 |      |     |     |     |
-| OAC                             | -2.27|      |     |     |     |
+| Prepayment (PSA)        | 1596 | 823  | 223 | 146 | 121 |
+| Price               |    |    |   |   |   |
+| 101.9375            | 3.51%| 4.23%| 5.00%| 5.13%| 5.17%|
+| 102.9375            | 2.58%| 3.63%| 4.75%| 4.93%| 4.99%|
+| 103.9375            | 1.67%| 3.04%| 4.50%| 4.73%| 4.81%|
+| Average Life          | 1.09 | 1.73 | 4.54 | 6.18 | 7.01 |
+| OAS               | 35   |    |   |   |   |
+| OAD               | 3.11 |    |   |   |   |
+| OAC               | -2.27|    |   |   |   |
 
 - The 4.0/5.5 tranche has a 5.26 option-adjusted duration (OAD) versus a 3.11 OAD for the 5.5/5.5 full coupon sequential.
 - When interest-only (IO) is removed from a tranche,  the negative duration associated with the IO is also removed,  extending the duration of the remaining bond.
@@ -4233,11 +4254,11 @@ These examples illustrate the complexities of mortgage loans,    project finance
   - Over time,  especially in fast prepayment environments,  PAC bands can drift,  generally growing tighter.
   - When support bonds are paid off,  PACs behave like sequential bonds and are termed broken PACs.
 
-#### Exhibit 23-4: Example of a New PAC,    Original PAC Band 100-250 PSA
+#### Exhibit 23-4: Example of a New PAC,  Original PAC Band 100-250 PSA
 
 | Scenario | -200 | -100 | 0 | 100 | 200 |
 |----------|------|------|---|-----|-----|
-| Prepayment (PSA) | 1,      665 | 800 | 220 | 143 | 120 |
+| Prepayment (PSA) | 1,    665 | 800 | 220 | 143 | 120 |
 | Price | | | | | |
 | 101.1875 | 3.99% | 4.39% | 4.75% | 4.75% | 4.75% |
 | 102.1875 | 3.30% | 3.96% | 4.56% | 4.56% | 4.56% |

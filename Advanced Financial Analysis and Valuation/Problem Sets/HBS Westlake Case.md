@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_288_HBS Westlake Case.md
-  - Alias_291_HBS Westlake Case.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#case-studies"
   - "#riskanalysis"
   - "#financialanalysis"

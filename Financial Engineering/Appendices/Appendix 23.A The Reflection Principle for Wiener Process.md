@@ -1,9 +1,9 @@
 ---
-title: Appendix 23.A The Reflection Principle for Wiener Process
+title: Appendix 23. A The Reflection Principle for Wiener Process
 aliases: [The Reflection Principle for Wiener Process]
 ---
 
-# Appendix 23.A The Reflection Principle for Wiener Process
+# Appendix 23. A The Reflection Principle for Wiener Process
 
 For every standard Brownian path there is an equally likely path that can be constructed by reflecting the path,  or a portion of the path,  with respect to a horizontal line. Figure 23.5 shows a Brownian path,  $X_{r}$ ,  denoted by ABC,  that is reflected beginning at the poin where the path reaches $X_{t}=70$ .Notice that the path BD is a mirror image,  reflected vertically around the line $X=70$ ,  of the original path BC. We will see that by considering the reflected path,  it is possible to transform barrier probability calculations into standard normal probability calculations
 
@@ -19,7 +19,7 @@ $$\Pr (X_{T}>K,      \underline{X}_{T}\leq H)$$
 
 Illustration of refection principle. Original path is ABC. Path reflected about a barrier of 70 is ABD
 
-![](https://storage.simpletex.cn/view/fccZYAwqiloApgLsGN23M6KRUUEMxlngK)
+ ![500](https://storage.simpletex.cn/view/fccZYAwqiloApgLsGN23M6KRUUEMxlngK)
 
 The probability here is analogous to that in equation (23.6). If $X$ were the price of an asset this probability discounted at the risk-free rate would be the price of a down-and-in cash call. Suppose that $X_0=80$ $H=70$ ,  and $K=100$ Consider the actual Brownian path in
 
@@ -62,5 +62,3 @@ The incorporation of drift into barrier problems is discussed in Harrison (1985)
 ## References
 
 Harrison,      J. M.,      1985,      Brownian Motion and Stochastic Flow Systems,      John Wiley & Sons,      New York
-
-

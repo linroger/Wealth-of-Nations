@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_311_How to Use [[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratios to Value Stocks.md
-  - Alias_308_How to Use [[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratios to Value Stocks.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#investmentanalysis"
   - "#riskanalysis"

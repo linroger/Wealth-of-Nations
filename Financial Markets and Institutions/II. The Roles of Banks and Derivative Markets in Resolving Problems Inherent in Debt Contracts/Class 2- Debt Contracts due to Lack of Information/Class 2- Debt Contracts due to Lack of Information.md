@@ -1,7 +1,7 @@
 ---
 aliases: [Debt Contracts due to Lack of Information]
 linter-yaml-title-alias: 
-tags: [tag_example,  example_tag,  debt_contracts,  financial_distress,  bankruptcy,  loan_covenants,  bond_covenants,  corporate_governance,  investment_policy,  creditor_rights,  distressed_investing]
+tags: [  debt_contracts,  financial_distress,  bankruptcy,  loan_covenants,  bond_covenants,  corporate_governance,  investment_policy,  creditor_rights,  distressed_investing]
 title: Class 2Debt Contracts due to Lack of Information
 ---
 

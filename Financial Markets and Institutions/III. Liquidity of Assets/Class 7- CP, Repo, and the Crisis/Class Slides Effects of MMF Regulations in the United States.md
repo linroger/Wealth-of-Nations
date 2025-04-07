@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_48_Class Slides Effects of MMF Regulations in the United States.md
-  - Example_Alias_Class Slides Effects of MMF Regulations in the United States
+  - Class Slides Effects of MMF Regulations in the United States.md
+  - Class Slides Effects of MMF Regulations in the United States
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#quantitative-finance"
   - "#finance"
   - "#financial-crises"
@@ -26,7 +26,7 @@ Panel B. Cumulative flows (\$ billion)
 
 Panel A. Daily flows (% of previous day TNA)
 
-![](https://storage.simpletex.cn/view/fXDTh9oiwIkupr42e6NSvRnmYouXevXmg)
+ ![500](https://storage.simpletex.cn/view/fXDTh9oiwIkupr42e6NSvRnmYouXevXmg)
 
 FIGURE 1. MONEY MARKET MUTUAL FUND FLOWS IN SEPTEMBEROCTOBER 2008
 
@@ -38,7 +38,7 @@ Business 35202 Spring 2023
 
 # Institutional [[A Primer on Money Market Mutual Funds|Money Market Funds]]
 
-![](https://storage.simpletex.cn/view/ftFdUoNGHRqtlWYpFEa4puteebK7EpN0C)
+ ![500](https://storage.simpletex.cn/view/ftFdUoNGHRqtlWYpFEa4puteebK7EpN0C)
 
 Prime institutional assets
 
@@ -46,17 +46,17 @@ Government institutional assets
 
 All [[A Primer on Money Market Mutual Funds|Money Market Funds]]
 
-![](https://storage.simpletex.cn/view/f84hRhoOcemh5kWwXKRFuggMSMXGF7KBb)
+ ![500](https://storage.simpletex.cn/view/f84hRhoOcemh5kWwXKRFuggMSMXGF7KBb)
 
 $$\text{Total Assets of MMFs}$$
 
-![](https://storage.simpletex.cn/view/fMgoVlLdaLzSUYa0hVSGCNgU8Yv9F95aG)
+ ![500](https://storage.simpletex.cn/view/fMgoVlLdaLzSUYa0hVSGCNgU8Yv9F95aG)
 
-![](https://storage.simpletex.cn/view/fGG6lnRkSpFHluuLsV6SNPotTgNoIcl9v)
+ ![500](https://storage.simpletex.cn/view/fGG6lnRkSpFHluuLsV6SNPotTgNoIcl9v)
 
 ## 2022-23
 
-![](https://storage.simpletex.cn/view/fgRF6yLAWgtB9ClkoVMtCXy0Dl9gTUI0S)
+ ![500](https://storage.simpletex.cn/view/fgRF6yLAWgtB9ClkoVMtCXy0Dl9gTUI0S)
 
 # The MMF run of 2020 and the US Fed's response
 
@@ -105,13 +105,13 @@ Money Market Mutual Fund Liquidity Facility
 
 ## Domestic Prime and Muni MMF AUM Slip,  then Rebound
 
-![](https://storage.simpletex.cn/view/fGBoYX1szi6AB6fibSyf81mut3XgFsNxX)
+ ![500](https://storage.simpletex.cn/view/fGBoYX1szi6AB6fibSyf81mut3XgFsNxX)
 
 Source: iMoneyNet.
 
 # Large Outflows from Prime and Muni MMFs Abate after the Facility's Inception
 
-![](https://storage.simpletex.cn/view/fVEDomKG4PNyOmUhnN99Y4ezMYmPFQuF6)
+ ![500](https://storage.simpletex.cn/view/fVEDomKG4PNyOmUhnN99Y4ezMYmPFQuF6)
 
 Source: iMoneyNet.
 
@@ -119,13 +119,13 @@ Notes: The lines represent the cumulative percentage flows starting March 2,  20
 
 ## New Facility Drives NAV Recovery
 
-![](https://storage.simpletex.cn/view/fVBOLMRCmAqFaWGytUCX1Z7Vv1KMszBTB)
+ ![500](https://storage.simpletex.cn/view/fVBOLMRCmAqFaWGytUCX1Z7Vv1KMszBTB)
 
 Source: iMoneyNet.
 
 # Rates on 3 o-day [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Ease
 
-![](https://storage.simpletex.cn/view/fMzXyzRffu4GbPYvLnvLTWPXCGmSRQGvQ)
+ ![500](https://storage.simpletex.cn/view/fMzXyzRffu4GbPYvLnvLTWPXCGmSRQGvQ)
 
 Source: Board of Governors of the Federal Reserve System.
 
@@ -133,7 +133,7 @@ Notes: ABCP is asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 –
 
 ## Flows to Government MMFs Have Stabilized since the End of March
 
-![](https://storage.simpletex.cn/view/ftFi8RGvAHoQRscasBRFg3e1AFlgt8z1u)
+ ![500](https://storage.simpletex.cn/view/ftFi8RGvAHoQRscasBRFg3e1AFlgt8z1u)
 
 Source: iMoneyNet.
 
@@ -141,21 +141,21 @@ Source: iMoneyNet.
 
 Prime MMFs suffered large withdrawals
 
-![](https://storage.simpletex.cn/view/fwig3kKORYRrD3ppKh7guU7HLnHB3IMar)
+ ![500](https://storage.simpletex.cn/view/fwig3kKORYRrD3ppKh7guU7HLnHB3IMar)
 
 Cumulative daily change in AUM:
 
 Lhs: Government / Treasury
 
-![](https://storage.simpletex.cn/view/flBWKPBbXcVmHl7bNvmnOwZudgQBncWfP)
+ ![500](https://storage.simpletex.cn/view/flBWKPBbXcVmHl7bNvmnOwZudgQBncWfP)
 
 Cumulative flows differed across funds
 
-![](https://storage.simpletex.cn/view/f8XKrZ1lCnfzm3ZGa4QEd6n8UMbO9sfpq)
+ ![500](https://storage.simpletex.cn/view/f8XKrZ1lCnfzm3ZGa4QEd6n8UMbO9sfpq)
 
 From 6 to 26 March 2020,  in per cent
 
-![](https://storage.simpletex.cn/view/f1zWy2hgNveF4mRgt8mSKKeZocK42zovw)
+ ![500](https://storage.simpletex.cn/view/f1zWy2hgNveF4mRgt8mSKKeZocK42zovw)
 
 The vertical lines in the first and third panels indicate 18 March 2020 (Federal Reserve unveils the MMLF programme and the ECB introduces the PEPP,  which included non-financial [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]). The shaded areas in the first and third panels indicate 626 March 2020 (period of consecutive outflows).
 
@@ -169,7 +169,7 @@ Sources: CRANE; Informa iMoneyNet; authors calculations.
 
 Funds sought to preserve,  even enhance,  liquidity…
 
-![](https://storage.simpletex.cn/view/fBXByyCHX4rzuAGuvSCziRdKaxZz9oR4p)
+ ![500](https://storage.simpletex.cn/view/fBXByyCHX4rzuAGuvSCziRdKaxZz9oR4p)
 
 … Compensating initially with longer maturities.
 

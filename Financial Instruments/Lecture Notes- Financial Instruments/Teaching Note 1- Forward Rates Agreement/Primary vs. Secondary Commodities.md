@@ -1,6 +1,6 @@
 ---
-aliases: [Alias_176_PRIMARY VS. SECONDARY COMMODITIES.md,  Alias_177_PRIMARY VS. SECONDARY COMMODITIES.md]
-tags: [tag_example]
+aliases: []
+tags: []
 title: Primary vs. Secondary Commodities
 ---
 

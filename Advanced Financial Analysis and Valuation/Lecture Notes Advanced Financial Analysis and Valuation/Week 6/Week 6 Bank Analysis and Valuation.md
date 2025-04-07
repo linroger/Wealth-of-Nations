@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_329_Week 6 Bank Analysis and Valuation.md
-  - Alias_332_Week 6 Bank Analysis and Valuation.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#banking"
   - "#financial-analysis"
   - "#valuation"
@@ -14,8 +14,6 @@ tags:
   - "#cyclical-lending"
 title: MOATS AND COMPETITIVE ANALYSIS
 ---
-
-
 ### BANK ANALYSIS AND VALUATION
 
 **Today's Focus:**
@@ -68,7 +66,7 @@ title: MOATS AND COMPETITIVE ANALYSIS
 
 ### GOING THE EXTRA MILE: CYCLICALITY OF LENDING DISTANCES
 
-![](995e6cc43b6677f190123d240205296b.png)
+ ![500](995e6cc43b6677f190123d240205296b.png)
 Source: Granja,  Leuz and Rajan (JF 2022)
 
 - **Average lending distance is cyclical**
@@ -78,7 +76,7 @@ Source: Granja,  Leuz and Rajan (JF 2022)
 
 # MOATS AND COMPETITIVE ANALYSIS
 
-![](7ccf2e4269166aa0a8cca3dace19e428.png)
+ ![500](7ccf2e4269166aa0a8cca3dace19e428.png)
 
 ### MOAT SOURCES IN BANKING - MOATS AND SOURCES OF COMPETITIVE ADVANTAGE
 
@@ -116,13 +114,13 @@ Source: Granja,  Leuz and Rajan (JF 2022)
 ### VALUE DRIVERS IN BANK LENDING
 
 Most important profitability metric for banks
-![](53ed0e01e56e580205923bc7eb75b0d1.png)
+ ![500](53ed0e01e56e580205923bc7eb75b0d1.png)
 
 ### NET INTEREST MARGIN FOR U.S. BANKS
 
 $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  assets}}$$
 
-![](33d0b2d7191a3a0b040d0f2e6e22fdd9.png)
+ ![500](33d0b2d7191a3a0b040d0f2e6e22fdd9.png)
 
 ### ECONOMIC SPREAD ANALYSIS
 - **NIM does not measure value creation,  as it does not account for duration mismatch**
@@ -137,7 +135,7 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ### ECONOMIC SPREAD ANALYSIS (CONT.)
 
-![](1df22f2b3c55df294c57f879c3d3af85.png)
+ ![500](1df22f2b3c55df294c57f879c3d3af85.png)
 
 ## MODIGLIANI -MILLER TAX PENALTY
 - **Debt creates value through tax shields because interest is tax-deductible**
@@ -168,19 +166,19 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ## COMERICA (CMA): KEY RATIOS
 
-![](94604899cfc21290cfaa9f2cb346d8c3.png)
+ ![500](94604899cfc21290cfaa9f2cb346d8c3.png)
 
 ## CMA: LOAN PORTFOLIO
 
-![](e3c65080a8710c7258491e5270409460.png)
+ ![500](e3c65080a8710c7258491e5270409460.png)
 
 ## JPM: KEY VALUES
 
-![](eb900ea6fa8ef08045f4c648595208db.png)
+ ![500](eb900ea6fa8ef08045f4c648595208db.png)
 
 ## JPM: REVENUE BY BUSINESS
 
-![](264497b8608b40ca50a1b12ad3b5fdbb.png)
+ ![500](264497b8608b40ca50a1b12ad3b5fdbb.png)
 
 # BLACKSTONE AND CITIGROUP CASE
 
@@ -216,12 +214,12 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 	 - We can derive $CFE$ as [[Operating Income vs. Net Income What's the Difference|Net Income]] ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
 		  - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
 	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders,  including dividends,  share repurchases,  and new share issuances
-![](2597f4f51cb6585ab5b5591a4796dccd.png)
+ ![500](2597f4f51cb6585ab5b5591a4796dccd.png)
 - Discount with cost of equity ($k_e$)
 
 ### EXAMPLE: CASH FLOW TO EQUITY
 
-![](12e701058fc31e1617bbcbce4dfefd81.png)
+ ![500](12e701058fc31e1617bbcbce4dfefd81.png)
 
 ## BANK BETAS
 - **We do not use WACC for banks**
@@ -276,12 +274,12 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 
 ### STEP 1: EXPECTED NET INCOME
 
-![](7c3fc693795a66a58c62fbc6d2b7ac01.png)
+ ![500](7c3fc693795a66a58c62fbc6d2b7ac01.png)
 Source: Damodaran Chapter 14: Table 14.4 Deutsche Bank – Expected ROE(%) and Net Income Millions of US $ Note: Common equity number is end-of-previous year number plus beginning-of-year forecasted increases in Tier 1 capital.
 
 ### STEP 2: REGULATORY CAPITAL AND REINVESTMENT
 
-![](4967557a1cde0d20f6fcd3e4e3dbc062.png)
+ ![500](4967557a1cde0d20f6fcd3e4e3dbc062.png)
 
 - Forecast: RWA → capital ratio
 	- → T1 capital = required equity
@@ -292,7 +290,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
 ### DEUTSCHE BANK: FCFE AND TERMINAL VALUE
 
-![](24578d9552c9c586c019776092e15c70.png)
+ ![500](24578d9552c9c586c019776092e15c70.png)
 
 - Expected [[Operating Income vs. Net Income What's the Difference|Net Income]] in year 11: $$\text{Expected [[Operating Income vs. Net Income What's the Difference|Net Income]] in year 11} = $8, 161 \times 1.01 = \$8, 243$$
 - Expected retention ratio in perpetuity: $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
@@ -300,7 +298,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
 ### DEUTSCHE BANK: FAILURE RISK AND VALUE PER SHARE
 - **Summing over the PV terms on previous slide implies an equity value:**
-![](1f455b0ff2677642758cc5c983df129e.png)
+ ![500](1f455b0ff2677642758cc5c983df129e.png)
 - Key Points:
 	- Illustration of flow-to-equity model
 	- Valuation incorporates capital raising (and dilution): Divide by shares outstanding
@@ -310,7 +308,7 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 
 ### RELATIVE VALUATION
 
-![](97cdaedf156549bcd1107b5ce6e3bd1f.png)
+ ![500](97cdaedf156549bcd1107b5ce6e3bd1f.png)
 
 ### MARKET‐TO‐BOOK IS FREQUENTLY USED FOR BANKS
 - For banks,  book value is measured closer to market value (or FV):
@@ -322,7 +320,7 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
 
   $$\frac{P}{BV} = \frac{ROE \times (1 - \frac{g}{ROE}) \times (1+g)}{ke^{-g}}$$
 
-![](97cdaedf156549bcd1107b5ce6e3bd1f.png)
+ ![500](97cdaedf156549bcd1107b5ce6e3bd1f.png)
 
 ## MARKET-TO-BOOK RATIO
 -$MTB (\frac{P}{BV})$ is a linear function of ROE:
@@ -333,4 +331,4 @@ Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Valu
   - Account for banks' impairment and provisioning policies (as they determine $BV$).
 ### MARKET -TO-BOOK RATIOS OVER TIME
 
-![](a5b16c9f699242910e7835eb8a613cd3.png)
+ ![500](a5b16c9f699242910e7835eb8a613cd3.png)

@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_345_Credit Markets Homework 2.md
-- Alias_342_Credit Markets Homework 2.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Homework 2
 ---
-
-
-
 # Credit Markets Homework 2
 
 This homework relies on:
@@ -47,11 +44,7 @@ Bond_symbology  = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
 Bond_symbology['term'] = (bond_symbology['maturity'] - bond_symbology['start_date']). Dt. Days / 365.25
 Bond_symbology['TTM'] = (bond_symbology['maturity'] - as_of_date). Dt. Days / 365.25
 Display (bond_symbology.Head ())
-
-
 # Load bond_market_prices_eod
-
-
 # Add mid prices and yields
 Bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 Bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
@@ -60,8 +53,6 @@ Display (bond_market_prices_eod.Head ())
 Bond_symbology
 
 # Load govt_on_the_run,          as of 2024-04-08
-
-
 # Keep OTR treasuries only
 Govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker']. Str.Contains ('B|C')]
 Display (govt_on_the_run_simple.Head ())
@@ -482,14 +473,9 @@ Print ("Cashflow dates for",          corp_bond_details['security'])
 # List cashflow dates
 For date in cashflow_schedule:
         Print (date)
-
-
 ```
 
     Corp bond details for AAPL 3.35 02/09/27
-
-
-
     Ticker                           AAPL
     Class                            Corp
     Figi                     BBG 00 FXTS 8 Z 0
@@ -516,8 +502,6 @@ For date in cashflow_schedule:
     Term                         9.998631
     TTM                          2.839151
     Name: 10,          dtype: object
-
-
     Cashflow dates for AAPL 3.35 02/09/27
     February 9 th,          2017
     August 9 th,          2017
@@ -560,8 +544,6 @@ Def create_bond_from_symbology (details: dict):
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
         Raise ValueError (f"unsupported asset class,          {type (details['class'])},          {details['class']}")
-
-    
     # Create issue_date from details['start_date']
     Issue_date = get_ql_date (details['start_date'])
     
@@ -570,8 +552,6 @@ Def create_bond_from_symbology (details: dict):
 
     # Create coupon from details['coupon']
     Coupon = float (details['coupon'])/100.
-
-
     # Create cashflow schedule
     Schedule = create_schedule_from_symbology (details)
     
@@ -649,9 +629,6 @@ Govt_bond_object = create_bond_from_symbology (govt_bond_details)
 ```
 
     Govt bond details for T 7 5/8 02/15/25
-
-
-
     Ticker                              T
     Class                            Govt
     Figi                     BBG 000 DLBVY 0
@@ -837,12 +814,6 @@ Govt_combined_otr.Plot (x='TTM',          y='midYield',          grid=True,     
 ```
 
     <Axes: title={'center': 'OTR US Treasury yields by TTM'},          xlabel='TTM'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_124_1.png)
 
 ## b. Calibrate the on-the-run treasury yield curve (bootstrapping)
@@ -884,9 +855,6 @@ Def calibrate_yield_curve_from_frame (
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
-
-
-
 Def get_yield_curve_details_df (yield_curve,          curve_dates=None):
     
     If (curve_dates == None):
@@ -1260,12 +1228,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,          0,          'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_129_1.png)
 
 ![png](CreditMarketSolutions_129_2.png)
@@ -1285,12 +1247,6 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,          0,          'Date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_131_1.png)
 
 ![png](CreditMarketSolutions_131_2.png)
@@ -2425,12 +2381,6 @@ Plt. Set_xlabel ('Maturity date')
 ```
 
     Text (0.5,          0,          'Maturity date')
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_150_1.png)
 
 ![png](CreditMarketSolutions_150_2.png)

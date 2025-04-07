@@ -1,11 +1,11 @@
 ---
 aliases:
-- Alias_32_Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]].md
+- Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]].md
 - Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]*
-- Example_Alias_Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]
+- Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]*
 ---
 

@@ -2,12 +2,12 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_372_Teaching Note 6 Mortgage Backed Securities.md
-  - Alias_375_Teaching Note 6 Mortgage Backed Securities.md
+  - 
+  - 
   - MBS
   - Mortgage Backed Securities
 tags:
-  - tag_example
+
 title: Teaching Note 6 Mortgage Backed Securities
 ---
 
@@ -161,8 +161,6 @@ $$E\left[\frac{P^{MBS}(t+1, T)-P^{MBS}(t, T)}{P^{MBS}(t, T)}\right]\approx\frac{
 
 ## THE CONVEXITY OF MBS: GNMA 7 PRICES AND MORTGAGE RATES 
 ![500](Z.%20Clippings/Teaching%20Note%206%20Mortgage%20Backed%20Securities-20240513044633319.png)
-
-
 ## REFINANCING SPEED AND RATES: GNMA 7 PSA AND MORTGAGE RATES 
 ![500](Z.%20Clippings/Teaching%20Note%206%20Mortgage%20Backed%20Securities-20240513044708416.png)
 
@@ -246,8 +244,6 @@ ${{V_{3, ddd}}} {{=Ce^{-r_{3, ddd}}=2693.2308}}$
 - However,  the bank is selling an American call to the home-owner,  which is valued in the next tree.
 - (For the sake of simplicity,  denote by $(a,  b)^{+} = \max(a,  b)$)
 - From the tree,  we see that the value of the mortgage is fair:
-
-
 ![500](Z.%20Clippings/Teaching%20Note%206%20Mortgage%20Backed%20Securities-20240513045442377.png)
 $CA_{3, uuu}^{*} = = (V_{3, uuu}^{*} - P_{3},  0)^{+} = 0$
 $CA_{2, uu} = (V_{2, uu} - P_{2},  e^{-r_{2, uu}}\frac{CA_{3, uuu}+CA_{3, uud}}{2} )^{+} = 0$

@@ -1,22 +1,18 @@
 ---
 aliases:
-- Alias_36_Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks.md
-- Example_Alias_Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks
+- Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks.md
+- Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks
 ---
-
-
-
-
 # Asset Backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks
 # Structured Finance Special Report
 
 Asset-Backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]: Understanding the Risks
 
-![](https://storage.simpletex.cn/view/fMprDbd4ut3LSK80vFzhHhMTXS8zlov8U)
+ ![500](https://storage.simpletex.cn/view/fMprDbd4ut3LSK80vFzhHhMTXS8zlov8U)
 
 ## Executive Summary
 
@@ -75,7 +71,7 @@ Moody's analysis of an ABCP program focuses on the ability of the Issuer to make
 
 The emergence of ABCP programs is primarily attributable to [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] and regulatory factors affecting the banking industry.
 
-![](https://storage.simpletex.cn/view/fRzfzE2lBgvnheEonTDDc641GG30A6Hbz)
+ ![500](https://storage.simpletex.cn/view/fRzfzE2lBgvnheEonTDDc641GG30A6Hbz)
 
 Competition: In the 1980s,  [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] forces drove commercial banks to find ways to offer lower-cost receivables financing to their commercial and industrial customers. When a bank's customer becomes a Seller in an ABCP program,  the customer acquires the ability to finance its receivables at rates comparable to prevailing rates for Prime-1 rated issuers of [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]]. Unless the customer is able to issue its own [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] at comparable rates,  the use of a bank-sponsored ABCP program is likely to provide the lowest-cost alternative for receivables financing.
 
@@ -160,7 +156,7 @@ For example,  suppose that an ABCP program has a $1.5 billion liquidity facility
 
 However,  if the total amount required under the liquidity facility was $1.41 billion instead of $750 million,  even the presence of a supplemental draw mechanism would not prevent a shortfall because of the absolute $100 million cap on each bank's commitment.
 
-![](https://storage.simpletex.cn/view/fZNCQSIQq9myNoRnmqizlVXXbk6KP8XLb)
+ ![500](https://storage.simpletex.cn/view/fZNCQSIQq9myNoRnmqizlVXXbk6KP8XLb)
 
 In analyzing certain liquidity facilities,  Moody's focuses closely on the definition of eligible receivables because that term may define the limits for the availability of funds under the liquidity facility. From the perspective of investors,  the fewer conditions,  the better. An alternative approach,  which offers significant potential but which has not yet achieved widespread use,  is to define eligible receivables as all receivables except for those that satisfy one or more disqualifying conditions. Any receivable that fails to be an eligible receivable for the liquidity facility may still be covered under the credit enhancement facility. However,  if too many of the receivables in the program fail to satisfy the criteria for being eligible receivables,  the capacity of the credit enhancement facility may be exhausted. Accordingly,  the smaller the relative size of the credit enhancement facility,  the more important it is to make sure that the definition of eligible receivables is not overly restrictive.
 
@@ -168,7 +164,7 @@ Some components of a definition of eligible receivables describe features that a
 
 Market Share of Selected Sponsors
 
-![](https://storage.simpletex.cn/view/faWQNE7m231rBNKCFKSrBZq5GVSmnq1kZ)
+ ![500](https://storage.simpletex.cn/view/faWQNE7m231rBNKCFKSrBZq5GVSmnq1kZ)
 
 After a Liquidity Provider makes an advance against given receivables,  the Liquidity Provider is exposed to losses that are subsequently realized on those receivables. In many programs,  the Liquidity Provider is entitled to reimbursement for those losses from the credit enhancement facility. However,  if the credit enhancement facility can be used to protect the Liquidity Provider from losses realized on receivables following a liquidity advance,  the credit enhancement facility will have to be larger than it would otherwise have to be.
 
@@ -212,13 +208,13 @@ The *dramatis personae* of a bank-sponsored,  multiseller ABCP program includes 
 
 The two main entities involved in an ABCP program are the Issuer and its Sponsor. However,  as noted above,  those two entities often are not affiliated - the Issuer may be established as a socalled *orphan subsidiary*. 22
 
-![](https://storage.simpletex.cn/view/f9b3CPt5Vp8C4IidrLnkMwPsy0o0sH60R)
+ ![500](https://storage.simpletex.cn/view/f9b3CPt5Vp8C4IidrLnkMwPsy0o0sH60R)
 
 Although the Issuer technically is often owned by a third party not affiliated with the Sponsor,  the Sponsor actually controls the activities of the Issuer. That arrangement is often established by means of an administration agreement or a management agreement between the Issuer and the Sponsor. Such an agreement typically appoints the Sponsor as administrative agent or managing agent for the Issuer and grants to the Sponsor a power of attorney to take all actions on behalf of the Issuer. In addition,  the Sponsor or one of its affiliates may serve as the depositary for the ABCP according to a depositary agreement with the Issuer. In addition,  subsidiaries or affiliates of the Sponsor may enter into other contractual relationships with the Issuer.
 
 For example,  the Issuer and such an affiliate may enter into a referral agreement under which the affiliate is appointed the referral agent to refer potential Sellers to the Issuer.
 
-![](https://storage.simpletex.cn/view/fSN0hxO3ThFmMSzAMdWrD1ImKHC1uxqxB)
+ ![500](https://storage.simpletex.cn/view/fSN0hxO3ThFmMSzAMdWrD1ImKHC1uxqxB)
 
 Credit Enhancement Facility Provider(s)
 The Sponsor and its affiliates receive fees for each of their roles under the program agreements. The exact amount of the fees is not determined in advance. Instead,  the level of the fees is continually adjusted so that substantially all the Issuer's income remaining after payment of fees to unaffiliated Credit Enhancement Providers and Liquidity Providers (and to other unaffiliated service providers) is paid over to the Sponsor or to its affiliates. Only a token amount of the Issuer's income is paid out as a dividend to the legal owner of the Issuer.

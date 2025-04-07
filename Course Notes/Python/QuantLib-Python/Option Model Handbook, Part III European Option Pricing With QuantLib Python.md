@@ -124,7 +124,7 @@ Out\[8\]:
 <matplotlib.legend.Legend at 0x7f0b85fa7510>
 ```
 
-![](binomial_tree_for_varying_steps.png)
+ ![500](binomial_tree_for_varying_steps.png)
 
 ## Conclusion
 

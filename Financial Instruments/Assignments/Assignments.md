@@ -10,7 +10,6 @@ title: Assignments
 # Assignments
 
 %% Begin Waypoint %%
-
 - **[[Assignments]]**
 	- [[1. Exploiting an Apparent Arbitrage Opportunity]]
 	- [[Assignments]]
@@ -22,6 +21,7 @@ title: Assignments
 	- [[PSET 5 Financial Instruments]]
 	- [[PSET 6- Financial Instruments]]
 	- [[PSET 7- Financial Instruments]]
+	- [[PSETS]]
 	- **[[Solutions]]**
 		- [[PSET 1 Solution-Financial Instruments]]
 		- [[PSET 2 Solution-Financial Instruments]]

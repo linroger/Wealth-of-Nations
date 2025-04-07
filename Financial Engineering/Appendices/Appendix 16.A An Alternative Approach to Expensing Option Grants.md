@@ -1,9 +1,9 @@
 ---
-title: Appendix 16.A An Alternative Approach to Expensing Option Grants
+title: Appendix 16. A An Alternative Approach to Expensing Option Grants
 aliases: [An Alternative Approach to Expensing Option Grants]
 ---
 
-# Appendix 16.A An Alternative Approach to Expensing Option Grants
+# Appendix 16. A An Alternative Approach to Expensing Option Grants
 
 How should companies account for compensation options? One approach is to fully deduct the market value of the option at exercise; this is the approach taken in taxing option grants: A deduction at exercise gives an expense with a present value equal to the price at grant. However,  by waiting to deduct the expense,  the firm's reported income in earlier years will not reflect the economic value of compensation in those years.
 
@@ -23,7 +23,7 @@ FIGURE 16.10
 
 Option expense calculation under the Bulow-Shoven proposal. Assumes $K=$ $\$100$ $\sigma=0.30$ $r=0.05$ $\delta=0$ ,      and $T=3$ years. The risk-neutral probability of an up move is $p=0.5097$ The CRR binomial stock price process is in panel (a). Panel (b) reports the option intrinsic value,      $max[0,  S_{\mathrm{t}}-K]$ . Panel (c) reports the 1-period option value. Panel (d) reports the annual option expense.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f19a060ab4452725c873051e6241dc6f34764daddfe906992902e53a559f33e.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f19a060ab4452725c873051e6241dc6f34764daddfe906992902e53a559f33e.jpg)  
 
 There are several points to make about this example. First,  the full deductions with a present value of $28.15 are reported by the company only if the option is held unexercised until year 3. Thus,    the proposal solves the problem of early exercise and the employee leaving the company. Second,    the actual deductions are substantially less than the maximum possible value of the option at exercise. Third,    expenses behave in what might appear to be a counterintuitive fashion,    with reported option expense greatest when the option is atthe-money. In year 2,    for example,    expense is greatest when the stock price is $100. The reason is that the value of delaying exercise on a deep-in-the-money option is primarily the value of delaying the payment of the strike price. Thus,  in panel (d),  $4.88 is the 1year present value of interest on $100. When the option is at-the-money,  however,  put-call parity tells us that the value of the implicit put option is also important,  and this is why the at-the-money expense is greater. To say this differently,  an employee who prematurely exercises an option that is near the money loses more economic value than an employee who prematurely exercises an option that is deep in the money. The option expense calculation in Figure 16.10 reflects this.
 

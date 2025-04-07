@@ -1,7 +1,7 @@
 ---
 aliases: [FINANCIAL INSTRUMENTS]
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS
-tags: tag_example
+tags: 
 title: PSET 7Financial Instruments
 cssclasses: [academia]
 ---
@@ -24,11 +24,11 @@ Assume that the stock pays no dividends,  and the continuously compounded intere
 
 > [!ANSWER]
 > The price of the American call at t=0 is$10.1457358
-> ![](92cebeb95864bc4a296361c40c2c2e6f.png)
+>  ![500](92cebeb95864bc4a296361c40c2c2e6f.png)
 
 > [!ANSWER]
 > The price of the American put is$4.654588$
-> ![](ec83b9f05d0ec6266517f834840946f0.png)
+>  ![500](ec83b9f05d0ec6266517f834840946f0.png)
 
 >
 
@@ -41,19 +41,19 @@ Assume that the stock pays no dividends,  and the continuously compounded intere
 (c) Let the continuously compounded interest rate be 5%. What are the values of the two ATM American options? Compute the times of early exercise and discuss.
 
 > [!answer] The value of the American call under 5% continuously compounded interest rate is 15.424132. The value of the American put is 1.7824366. Once again,  the call is not exercised early. The put however,  is still exercised early at T=2.
-> ![](7fec7bdb24c17f02a6b7187d6968379c.png)
-> ![](15e0c2b3aa6e65d382d5f7b039fd160f.png)
+>  ![500](7fec7bdb24c17f02a6b7187d6968379c.png)
+>  ![500](15e0c2b3aa6e65d382d5f7b039fd160f.png)
 
 (d) In case (a)-(b),  with interest rate still at r = 2%,  suppose that the firm now pays a 5% proportional dividend per year. How does your answer to point(c) change? Discuss.
 
 > [!An of American Call with Dividends is 5.70483
-> ![](attachment/f9ef49fd213f16fa6496f725291e2007.png)
+>  ![500](attachment/f9ef49fd213f16fa6496f725291e2007.png)
 
 > [!AN of American Put with Dividends is 11.0599
-> ![](attachment/0475e63afdbf889c5d28d2ef1607dd82.png)
+>  ![500](attachment/0475e63afdbf889c5d28d2ef1607dd82.png)
 >
 
-![]/c9b86e20df71de92d351c1682a0dc27c.png)
+ ![500]/c9b86e20df71de92d351c1682a0dc27c.png)
 
 ## 2 PART 2: CITIGROUP'S DEFAULT PROBABILITY DURING THE CREDIT CRISIS
 
@@ -99,22 +99,22 @@ Proceed as follows:
 
 - Compute the value of assets and volatility of assets to match the market cap and equity volatility at the two dates above. The assets and volatility of assets will be different across dates. Please,  note the tips at the end.
 - Corobability of default with one year to maturity. Note that KMV identifies the "Default Point" as short term debt + 1/2 long term debt.
-![](attachment/f38b8d64617760fde019fdc8e395e583.jpeg)
+ ![500](attachment/f38b8d64617760fde019fdc8e395e583.jpeg)
 
 After you do the calculations above,  answer the following:
 
 (a) What was the effect of the bailout announcement on the probability of default? Discuss.
 
 - The ouncement slightly increased the probability of default from 9.122% on 10/10 to 10.132% on 10/14. This seems to be counterintuitive,  since we typically expect the announcement of a bailout to significantly bring down the expected probability of default.
-- ![](attachment/7fe8097bf9c95a2919f0af227b856007.png)
+-  ![500](attachment/7fe8097bf9c95a2919f0af227b856007.png)
 (b) How does your answer to point (a) changes if you keep the volatility of assets σ constant to the value estimated on 10/10/2008 when you recompute the asset value at time 10/14/2008? (it is a simple change in the solver: only change assets but not volatility) Provide an intuition for the difference with (a).
 - Keeping volatility constant,  (ie.$\sigma_{A}=0.72614$on 10/10 and 10/14,  ) the distance to default,  or$d_{2}=1.4686$and the expected frequency of default,  or$N(-d_{2})=7.097\%$. Thus,  the probability of default decreases with the announcement of the bailout. This makes more sense. One property of the Merton Model is the leverage effect,  in which volatility increases when the value of equity decreases. If we keep volatility constant at the lower 10/10 level of 0.72614 (as opposed to volatility increasing to 0.79557),  we expect the value of equity to be higher,  and therefore the value of the asset to be higher.
 (c) What was the credit spread before and after the announcement (choose what you think is most reasonable of your answers in (a) or (b),  if you find any difference).
 - The ad before the announcement (on 10/10) was 0.02898 and the credit spread after the announcement (on 10/14) is 0.03982
-- ![](attachment/3fdac17bd64dfe392b2f8595a83ade7f.png)
+-  ![500](attachment/3fdac17bd64dfe392b2f8595a83ade7f.png)
 (d) The Paulson's Plan promised Citigroup a cash infusion of 25 billion from the US Treasury. Consider your calculated asset and equity values on 10/10/2008,  and assume Citi suddenly gets the 25 bil cash infusion. What is the transfer to bond holders,  if any? Discuss.
 - The bt increases from 321.72876 before the bailout to 324.85172 after the bailout. This difference of about 4 billion is the transfer to bondholders from the bailout package.
-- ![](attachment/d68acb98496df7b7c8a89aac79b2d836.png)
+-  ![500](attachment/d68acb98496df7b7c8a89aac79b2d836.png)
 ## TIPS
 
 This exercise is complicated by the existence of multiple type of securities. Clearly,  we need assumptions,  and no set of assumptions is particularly good (we just need a better model). Here is a set of assumptions that may be reasonable.

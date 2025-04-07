@@ -61,9 +61,6 @@ $$
 # Therefore  
 
 $\begin{array}{l}{{\displaystyle{\pi_{1}=\pi_{0}+\frac{4}{9}\pi_{1}+\frac{4}{9}\pi_{2}}}}\\ {{\displaystyle{\ }}}\\ {{\displaystyle{=\frac{1}{9}\pi_{1}+\frac{4}{9}\pi_{1}+\frac{4}{9}\bigg(\frac{9}{10}-\pi_{1}\bigg)\!=\!\frac{1}{9}\pi_{1}+\frac{2}{5}.}}}\end{array}$   
-
-  
-
   $\therefore{\frac{8}{9}}\pi_{1}={\frac{2}{5}},$  or    ${\begin{array}{l}{\displaystyle\pi_{1}={\frac{9}{20}}}\\ {\displaystyle\pi_{0}={\frac{1}{20}}}\\ {\displaystyle\pi_{2}={\frac{9}{20}}}\\ {\displaystyle\pi_{3}={\frac{1}{20}}.}\end{array}}$  
 
 So it is complete. Whew!!  

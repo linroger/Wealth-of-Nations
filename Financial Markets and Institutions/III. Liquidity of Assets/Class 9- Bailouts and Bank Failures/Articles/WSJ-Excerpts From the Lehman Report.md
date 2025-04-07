@@ -1,18 +1,14 @@
 ---
 aliases:
-- Example_Alias_WSJ-Excerpts From the Lehman Report
+- WSJ-Excerpts From the Lehman Report
 - Excerpts From the Lehman Report
-- Alias_69_WSJ-Excerpts From the Lehman Report.md
+- WSJ-Excerpts From the Lehman Report.md
 linter-yaml-title-alias: Excerpts From the Lehman Report
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Excerpts From the Lehman Report
 ---
-
-
-
-
 # WSJ-Excerpts From the Lehman Report
 
 Thursday,  a U.S. bankruptcy-court examiner investigating the collapse of Lehman Brothers Holdings Inc. Released a scathing 2,  200-page report. Here are some highlights. 

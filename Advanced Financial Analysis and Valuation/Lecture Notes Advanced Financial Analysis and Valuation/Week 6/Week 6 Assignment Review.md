@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_328_Week 6 Assignment Review.md
-  - Alias_331_Week 6 Assignment Review.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#financialanalysis"
   - "#corporatefinance"
   - "#riskanalysis"
@@ -14,9 +14,6 @@ tags:
   - "#banking-crisis"
 title: Week 6 Assignment Review
 ---
-
-
-
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms
 Case: Citigroup,     Blackstone,  and the Sale of a Loan Portfolio
@@ -71,7 +68,7 @@ Recall from Recording: Delay in LLPs and net charge‐offs
 - During 2007‐2008,     banks increased their LLPs to catch up with rising charge‐offs
 	   - LLPs should cover future loan losses (not current ones)
 	   - LLPs increase in a middle of a crisis (procyclicality)
-![](9756852e9cab2f384b9fbc4c1db45e96.png)
+ ![500](9756852e9cab2f384b9fbc4c1db45e96.png)
 
 ## WHAT HAPPENS DURING A RUN ON THE BANK?
 - Why are banks vulnerable to runs?
@@ -95,7 +92,7 @@ $$\begin{gathered}
 -TotalCapitalRatio=\frac{TotalCapital}{Risk-weightedAssets}=8\%\mathrm{~minimum} \\
 -LeverageRatio=\frac{Tier1Capital}{AverageTotalAssets}=3\%\text{ minimum} 
 \end{gathered}$$
-![](17eb2c03efc4dc3559d99c7418ea8059.png)
+ ![500](17eb2c03efc4dc3559d99c7418ea8059.png)
 ### TIER 1 CAPITAL - COMMON STOCKHOLDERS' EQUITY
 - Non-cumulative perpetual preferred
 - Limited amounts of other preferred securities
@@ -113,7 +110,7 @@ Total Capital
 - Risk‐adjusted assets only 57% of total assets: Why lower than total assets?
        - Cash and cash due from banks likely have zero weight
        - Consumer loans are likely residential mortgages with only 50% weight
-![](cee629961140ac4fd87ca0c9b9f92a52.png)
+ ![500](cee629961140ac4fd87ca0c9b9f92a52.png)
 ## EFFECT OF $50 BILLION LOSSES ON TIER 1 RATIO
 - Approximately 10% decline in trading assets
 - Journal Entry:
@@ -184,7 +181,7 @@ $5.07 billion
        - Negative signal – could set off a run
 - What about dividend payments?
        - Citigroup paid dividends of 10.7 billion in 2007 (and still 7.5 billion in 2008!)
-![](63521b342b52d116da30126b1077207f.png)
+ ![500](63521b342b52d116da30126b1077207f.png)
 ## DOES THIS TRANSACTION MAKE SENSE FOR BLACKSTONE?
 - Portfolio is a large illiquid asset 
        - Dislocations in the credit market
@@ -201,24 +198,24 @@ $5.07 billion
        - Control rights would allow them to interfere with debtors
 
 # VALUING THE DEAL
-![](f22cefe4cbe7886e6b8d5ee6d7af8122.png)
+ ![500](f22cefe4cbe7886e6b8d5ee6d7af8122.png)
 Value of the deal
 - Present value of expected cash flows
 - Expected payoff in a given year = \[Interest payment x Probability of Survival] + \[Recovery x Probability of Default] 
 
-![](a2cc82ec7f09f8ca5af2ff6a6d474ca9.png)
+ ![500](a2cc82ec7f09f8ca5af2ff6a6d474ca9.png)
 Sensitivity analysis: Beta and default probability
 
 Sensitivity analysis: Recovery rates and default prob
-![](69ef256924b930f817878bfef13ea859.png)
+ ![500](69ef256924b930f817878bfef13ea859.png)
 Epilogue: What happened to the loan portfolio?
-![](c913b21e63273e071ecb5ca6222b2cc2.png)
+ ![500](c913b21e63273e071ecb5ca6222b2cc2.png)
 
 ## SENSITIVITY ANALYSIS: BETA AND DEFAULT PROBABILITY
-![](b85835f6e15303fe7f434c0437503bbd.png)
+ ![500](b85835f6e15303fe7f434c0437503bbd.png)
 
 ## SENSITIVITY ANALYSIS: RECOVERY RATES AND DEFAULT PROB
-![](8c051512338f4d517238e61c99c2cd8b.png)
+ ![500](8c051512338f4d517238e61c99c2cd8b.png)
 
 - Blackstone and Citi entered the deal in April 2008
 - Blackstone exited completely by 2013 realizing 2x the invested (equity) capital
@@ -232,7 +229,7 @@ were marked to 70 cents on the dollar at their low point (March 200
        - Their equity stake was written down to close to zero and only recovered slowly
 
 Average bid quote for leveraged loans over crisis
-![](65d65965a2fb8e68319727513aca9143.png)
+ ![500](65d65965a2fb8e68319727513aca9143.png)
 Appendix
 
 Citigroup dividends paid in cash
@@ -248,12 +245,8 @@ or significant value drivers are unobservable
 - Use observable market data when available
 - Minimize unobservable inputs
 - Net income will reflect regular operations and changes in asset values
-![](44eef5b9a128beb03c3a573f7f945a0a.png)
-
-
-![](2a91cfaa2c9ffd768a26df88e85b3caf.png)
-
-
+ ![500](44eef5b9a128beb03c3a573f7f945a0a.png)
+ ![500](2a91cfaa2c9ffd768a26df88e85b3caf.png)
 [Week 6 Bank Business Model,     Regulation,     and Accounting Rules](Zhe/Week%206/Week%206%20Bank%20Business%20Model,    %20Regulation,    %20and%20Accounting%20Rules.md)
 [Week 6 Bank Analysis and Valuation](Zhe/Week%206/Week%206%20Bank%20Analysis%20and%20Valuation.md)
 [HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio](HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)

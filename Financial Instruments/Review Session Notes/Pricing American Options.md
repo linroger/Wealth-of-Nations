@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_195_Pricing American Options.md
-- Alias_194_Pricing American Options.md
+- 
+- 
 - PRICING AMERICAN OPTIONS
 linter-yaml-title-alias: PRICING AMERICAN OPTIONS
 tags:
-- tag_example
+- 
 title: PRICING AMERICAN OPTIONS
 ---
-
-
-
 [Teaching Note 8 American Options](Teaching%20Note%208%20American%20Options.md)
 [PSET 7- Financial Instruments](PSET%207-%20Financial%20Instruments.md)
 [PSET 7 Solutions](PSET%207%20Solutions.md)

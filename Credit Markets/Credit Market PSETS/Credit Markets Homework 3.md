@@ -1,13 +1,11 @@
 ---
 aliases:
-- Alias_344_Credit Markets Homework 3.md
-- Alias_347_Credit Markets Homework 3.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Homework 3
 ---
-
-
 # Credit Markets Homework 3
 
 This homework relies on:
@@ -90,8 +88,6 @@ Def create_bond_from_symbology (details: dict):
         Day_count = ql.ActualActual (ql. ActualActual. ISMA)
     Else:
         Raise ValueError (f"unsupported asset class,           {type (details['class'])},           {details['class']}")
-
-    
     # Create issue_date from details['start_date']
     Issue_date = get_ql_date (details['start_date'])
     
@@ -100,8 +96,6 @@ Def create_bond_from_symbology (details: dict):
 
     # Create coupon from details['coupon']
     Coupon = float (details['coupon'])/100.
-
-
     # Create cashflow schedule
     Schedule = create_schedule_from_symbology (details)
     
@@ -135,8 +129,6 @@ Def get_bond_cashflows (bond: ql. FixedRateBond,           calc_date=ql. Date) -
     # filter for payment dates > calc_date
     Cashflows_df = cashflows_df[cashflows_df. CashFlowYearFrac > 0]
     Return cashflows_df
-
-
 Def calibrate_yield_curve_from_frame (
         Calc_date: ql. Date,          
         Treasury_details: pd. DataFrame,          
@@ -167,9 +159,6 @@ Def calibrate_yield_curve_from_frame (
     
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
-
-
-
 Def get_yield_curve_details_df (yield_curve,           curve_dates=None):
     
     If (curve_dates == None):
@@ -185,8 +174,6 @@ Def get_yield_curve_details_df (yield_curve,           curve_dates=None):
                              'DiscountFactor': discounts,          
                              'ZeroRate': zeroRates})                             
     Return yield_curve_details_df
-
-
 Def calc_clean_price_with_zspread (fixed_rate_bond,           yield_curve_handle,           zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
@@ -198,8 +185,6 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,           yield_curve_handle
     Fixed_rate_bond.SetPricingEngine (bond_engine)
     Bond_clean_price = fixed_rate_bond.CleanPrice ()
     Return bond_clean_price
-
-
 Def calibrate_sofr_curve_from_frame (
         Calc_date: ql. Date,          
         Sofr_details: pd. DataFrame,          
@@ -236,8 +221,6 @@ Def calibrate_sofr_curve_from_frame (
     Sofr_yield_curve.EnableExtrapolation ()
     
     Return sofr_yield_curve
-
-
 Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handle,           cds_par_spreads_bps,           cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
     CDS_settle_days = 2
@@ -246,8 +229,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handl
 
     # CDS standard tenors: 1 Y,           2 Y,           3 Y,           5 Y 7 Y and 10 Y
     CDS_tenors = [ql.Period (y,           ql. Years) for y in [1,           2,           3,           5,           7,           10]]
-              
-
     CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),           CDS_tenor,           CDS_settle_days,           ql.TARGET (),          
                                   Ql. Quarterly,           ql. Following,           ql. DateGeneration. TwentiethIMM,           CDS_day_count,           cds_recovery_rate,           sofr_yield_curve_handle)
                
@@ -258,8 +239,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handl
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
-
-
 Def get_hazard_rates_df (hazard_rate_curve):
     '''Return dataframe with calibrated hazard rates and survival probabilities'''
     
@@ -277,9 +256,6 @@ Def get_hazard_rates_df (hazard_rate_curve):
                                      'HazardRateBps': hazard_rates,                                               
                                      'SurvivalProb': surv_probs})
     Return (hazard_rates_df)
-
-
-
 ```
 
 ## a. Create generic fixed-rate corporate bond
@@ -290,8 +266,6 @@ Display the fixed rate bond cashflows.
 
 ```python
 # Import tools from previous homeworks
-
-
 # Use static calculation/valuation date of 2024-04-15,           matching data available in the market prices EOD file
 Calc_date = ql.Date (15,           4,           2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
@@ -306,8 +280,6 @@ Ql.Settings.Instance (). EvaluationDate = calc_date
     ----> 2 from credit_market_tools import *
           4 # Use static calculation/valuation date of 2024-04-15,           matching data available in the market prices EOD file
           5 calc_date = ql.Date (15,           4,           2024)
-
-
     ModuleNotFoundError: No module named 'credit_market_tools'
 
 ```python
@@ -373,8 +345,6 @@ Print ('test_bond_dirty_price: ',           round (test_bond_dirty_price,       
 Print ('test_bond_dv 01: ',           round (test_bond_dv 01,           2))
 Print ('test_bond_duration: ',           round (test_bond_duration,           2))
 Print ('test_bond_convexity: ',           round (test_bond_convexity,           2))
-
-
 ```
 
     Test_bond_clean_price: 92.56
@@ -398,9 +368,6 @@ $$\begin{align}
 \end{align}$$
 
 We implement formula [13] into the `calc_second_order_price_change (…)` function,           taking into account that $B (y)$ is the dirty bond price.
-
-
-
 ```python
 Def calc_second_order_price_change (dirty_price,           yield_diff,           duration,           convexity):
     Return dirty_price * (yield_diff * duration + 0.5 * yield_diff*yield_diff*convexity)
@@ -449,21 +416,8 @@ Plt. Set_xlabel ('Yield')
     18        10.0        68.8          69.5
     19        10.5        66.4          67.4
     20        11.0        64.2          65.4
-
-
-
-
-
     Text (0.5,           0,           'Yield')
-
-
-
-
-    
 ![png](CreditMarketSolutions_200_2.png)
-    
-
-
 ## d. Extreme events scenarios
 
 Compute and show the scenario bond price for a bond yield of 15% (extreme event scenario).
@@ -473,8 +427,6 @@ Compute and show the second-order scenario price approximation in the extreme ev
 How accurate is the second-order scenario price approximations (using duration and convexity sensitivities)?
 
 Compute and show the analytic DV 01,           duration and convexity in the extreme event scenario.
-
-
 ```python
 Extreme_event_bond_yield = 15
 Extreme_event_bond_clean_price = round (test_fixed_rate_bond.CleanPrice (extreme_event_bond_yield/100,           test_fixed_rate_bond.DayCounter (),           ql. Compounded,           ql. Semiannual),           3)
@@ -488,8 +440,6 @@ Print ('extreme_event_approx_error: ',           round (extreme_event_second_ord
     Extreme_event_scenario_price: 49.033
     Extreme_event_approx_price: 55.62
     Extreme_event_approx_error: 6.59
-
-
 -----------------------------------------------------------
 # Problem 2: Perpetual bonds
 ## a. Price a fixed rate perpetual bond
@@ -500,8 +450,6 @@ Assuming that the bond has a (continuously componded) yield of y,           what
 For simplicity,           you can assume T+0 settlement and zero accrued. 
 
 You can use following sympy code (implementing Formula 5 from Session 1) as a starting point.
-
-
 ```python
 # Import libraries
 Import sympy as sp
@@ -518,12 +466,7 @@ Display (bond_pv_eq)
 ```
 
     Analytic formula for bond_pv: (1 - exp (-T*y))*(c/(2*(exp (y/2) - 1)) - 1) + 1
-
-
-
 $\displaystyle \left (1 - e^{T y}\right) \left (\frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)} - 1\right) + 1$
-
-
 We start with the formula for pricing a risky fixed rate bond on a face of 100%,           derived in Lecture 1,           formulas [4] and [5].
 
 $$\begin{align}
@@ -545,28 +488,20 @@ In the case of the fixed rate perpetual bond,           the bond maturity and ca
 $$\begin{align}
 B_{0}^{\infty}=B (0,           c,          \infty,           y)=\sum_{k=1}^{\infty}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}} =  \frac{c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)}=\frac{c}{y_{sa}},          
 \end{align}$$
-
-
 To obtain the fair price on a face of $100,           one has to multiply the formula above by 100:
 $$\begin{align}
 B_{0}^{\infty}(100) =  \frac{100 \cdot c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)} = 100 \cdot \frac{c}{y_{sa}},          
 \end{align}$$
-
-
 ## b. Perpetual bonds priced "at par"
 For which yield y does the bond trade "at par",           i.e. fair value price = $100?
 
 $$\begin{align}
 B_{0}^{\infty}(100)=100 \iff y=2\cdot \ln \left ( 1 + \frac{c}{2} \right) \iff y_{sa} = c.
 \end{align}$$
-
-
 Hence,           the perpetual bond trades "at par" if the smi-annual yield $y_{sa}$ matches the semi-annual coupon c (same result as for "regular" fixed rate bonds).
 
 ## c. Duration and DV 01 for a fixed rate perpetual bond
 Compute Duration and DV 01 of the perpetual bond.
-
-
 ```python
 # Define symbolic equations
 Perpetual_bond_price = c / (sp.Exp (y/2) - 1) / 2
@@ -584,42 +519,21 @@ Display (perpetual_bond_duration)
 ```
 
     1. Perpetual bond price (with coupon c):
-
-
-
 $\displaystyle \frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)}$
-
-
     2. Perpetual bond DV 01:
-
-
-
 $\displaystyle \frac{c e^{\frac{y}{2}}}{4 \left (e^{\frac{y}{2}} - 1\right)^{2}}$
-
-
     3. Perpetual bond duration:
-
-
-
 $\displaystyle \frac{e^{\frac{y}{2}}}{2 e^{\frac{y}{2}} - 2}$
-
-
 Hence,           PV 01 and duration of a fixed rate perpetual bond are given by
 
 $$\begin{align}
 PV 01 = -\frac{\partial B}{\partial y} = -\frac{\partial}{\partial y}\left[\frac{c}{2 \cdot \left ( e^{\frac{y}{2}}-1 \right) }\right]=\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) }{y_{sa}^2}
 \end{align}$$
-
-
 $$\begin{align}
 D = -\frac{1}{B} \cdot \frac{\partial B}{\partial y} = \frac{e^{\frac{y}{2}}}{2 \cdot \left ( e^{\frac{y}{2}} - 1 \right)} = \frac{1 + \frac{y_{sa}}{2} }{y_{sa}}.
 \end{align}$$
-
-
 ## d. Convexity of a fixed rate perpetual bond
 Compute the convexity of the perpetual bond.
-
-
 ```python
 Second_order_derivative = sp.Simplify (first_order_derivative.Diff (y))
 Print ('Second order derivative: ')
@@ -632,19 +546,9 @@ Display (perpetual_bond_convexity)
 ```
 
     Second order derivative:
-
-
-
 $\displaystyle - \frac{c \left (\left (e^{\frac{y}{2}} - 1\right) e^{\frac{y}{2}} - 2 e^{y}\right)}{8 \left (e^{\frac{y}{2}} - 1\right)^{3}}$
-
-
     Perpetual bond convexity:
-
-
-
 $\displaystyle \frac{\left (1 + e^{- \frac{y}{2}}\right) e^{y}}{4 \left (2 e^{\frac{y}{2}} + e^{y} + 1\right)}$
-
-
 Hence,           second order derivative and convexity $\Gamma$ of the fixed rate perpetual bond are given by
 
 $$\begin{align}
@@ -654,8 +558,6 @@ $$\begin{align}
 $$\begin{align}
 \Gamma = \frac{1}{B} \cdot \frac{\partial^{2} B}{\partial y^{2}} = \frac{e^{\frac{y}{2}} \cdot \left (e^{\frac{y}{2}} + 1 \right)}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} =  \frac{\left ( 1 + \frac{y_{sa}}{2} \right) \cdot \left ( 2 + \frac{y_{sa}}{2} \right)}{y_{sa}^2}. 
 \end{align}$$
-
-
 -----------------------------------------------------------
 # Problem 3: US SOFR swap curve calibration as of 2024-04-15
 ### Follow Section "1. SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
@@ -667,8 +569,6 @@ Load the `sofr_swap_symbology` Excel file into a dataframe. Print all swap tenor
 Load the `sofr_swaps_market_data_eod` Excel file into a dataframe. Print all dates available.
 
 Plot the historial time series of SOFR rates for the available [1 Y,           2 Y,           3 Y,           5 Y,           7 Y,           10 Y,           20 Y,           30 Y] tenors.
-
-
 ```python
 # Sofr_symbology
 Sofr_symbology = pd. Read_excel ('./data/sofr_swaps_symbology. Xlsx')
@@ -688,8 +588,6 @@ Plt = sofr_quotes_ts.Plot (grid=True,           style='-',           title='SOFR
 Plt. Set_ylabel ('SOFR Rate')
 Plt. Set_xlabel ('Date')
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -851,21 +749,8 @@ Plt. Set_xlabel ('Date')
   </tbody>
 </table>
 </div>
-
-
-
-
-
     Text (0.5,           0,           'Date')
-
-
-
-
-    
 ![png](CreditMarketSolutions_216_2.png)
-    
-
-
 ## b. Calibrate the US SOFR yield curve (via bootstrapping)
 The function below shows how to calibrate a smooth yield/discount factor curve from SOFR swaps. 
 
@@ -874,8 +759,6 @@ Prepare a joint symbology & market dataframe quotes as of 2024-04-15.
 Calibrate the SOFR discount factor curve as of 2024-04-15.
 
 Follow section 1 b in the QuantLib Advanced notebook.
-
-
 ```python
 Def calibrate_sofr_curve_from_frame (
         Calc_date: ql. Date,          
@@ -914,8 +797,6 @@ Def calibrate_sofr_curve_from_frame (
     
     Return sofr_yield_curve
 ```
-
-
 ```python
 # Sofr_combined
 Sofr_combined = sofr_symbology.Merge (sofr_market_quotes[sofr_market_quotes['date'] == '2024-04-15'],           how='left',           on=['figi'])
@@ -926,8 +807,6 @@ Sofr_yield_curve = calibrate_sofr_curve_from_frame (calc_date,           sofr_co
 Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -1063,26 +942,18 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
   </tbody>
 </table>
 </div>
-
-
 ## c. Display the calibrated SOFR discount curve dataframe
 
 Follow section 1 d (in the QuantLib Advanced notebook) to display the calibration details dataframe.
-
-
 ```python
 # Display and plot SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,           ql. Years) for y in list (range (0,          30,          1))]
-
-
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,           grid_dates)    # using external grid
 
 Display (sofr_yield_curve_simple_df)
 Display (sofr_yield_curve_details_df)
 ```
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -1174,9 +1045,6 @@ Display (sofr_yield_curve_details_df)
   </tbody>
 </table>
 </div>
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -1415,13 +1283,9 @@ Display (sofr_yield_curve_details_df)
   </tbody>
 </table>
 </div>
-
-
 ## d. Plot the calibrated US SOFR Zero Interest Rates and Discount Factor curves
 
 Plot the SOFR zero rates and discount factor curves by maturity. Follow section 1 c in the QuantLib Advanced notebook.
-
-
 ```python
 # Plot the SOFR yield curve
 Plt = sofr_yield_curve_details_df.Plot (x='Date',           y='ZeroRate',           grid=True,           style='*-',           title=f'SOFR Curve: Zero Rates as of {calc_date. To_date ()}',           figsize=(12,          4))
@@ -1432,26 +1296,9 @@ Plt = sofr_yield_curve_details_df.Plot (x='Date',           y='DiscountFactor', 
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')
 ```
-
-
-
-
     Text (0.5,           0,           'Date')
-
-
-
-
-    
 ![png](CreditMarketSolutions_223_1.png)
-    
-
-
-
-    
 ![png](CreditMarketSolutions_223_2.png)
-    
-
-
 -----------------------------------------------------------
 # Problem 4: CDS Hazard Rate calibration and valuation
 ## Follow Section "2. CDS Hazard Rate calibration + Pricing" in the QuantLib Advanced notebook !!!
@@ -1461,9 +1308,6 @@ Plt. Set_xlabel ('Date')
 Load the `cds_market_data_eod` Excel file into a dataframe. 
 
 Plot the historical time series of CDS Par Spreads for the available tenors.
-
-
-
 ```python
 # Cds_market_quotes
 Cds_market_quotes = pd. Read_excel ('./data/cds_market_data_eod. Xlsx')
@@ -1499,26 +1343,11 @@ Plt. Set_xlabel ('Date')
     2        19.1828        28.8454        45.4735        62.6543         70.9180  
     3        18.7703        28.3417        44.7575        61.9778         70.2746  
     4        18.3692        27.7599        43.8548        60.8378         68.8914  
-
-
-
-
-
     Text (0.5,           0,           'Date')
-
-
-
-
-    
 ![png](png)
-    
-
-
 ## b. Calibrate the IBM hazard rate curve as of 2024-04-15
 
 Follow section 2 a in the QuantLib Advanced notebook. Use the calibrated SOFR discount curve from Problem 3 b.
-
-
 ```python
 Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handle,           cds_par_spreads_bps,           cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
@@ -1528,8 +1357,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handl
 
     # CDS standard tenors: 1 Y,           2 Y,           3 Y,           5 Y 7 Y and 10 Y
     CDS_tenors = [ql.Period (y,           ql. Years) for y in [1,           2,           3,           5,           7,           10]]
-              
-
     CDS_helpers = [ql.SpreadCdsHelper ((cds_par_spread / 10000.0),           CDS_tenor,           CDS_settle_days,           ql.TARGET (),          
                                   Ql. Quarterly,           ql. Following,           ql. DateGeneration. TwentiethIMM,           CDS_day_count,           cds_recovery_rate,           sofr_yield_curve_handle)
                
@@ -1540,8 +1367,6 @@ Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handl
     Hazard_rate_curve.EnableExtrapolation ()
 
     Return (hazard_rate_curve)
-
-
 Def get_hazard_rates_df (hazard_rate_curve):
     '''Return dataframe with calibrated hazard rates and survival probabilities'''
     
@@ -1561,8 +1386,6 @@ Def get_hazard_rates_df (hazard_rate_curve):
     Return (hazard_rates_df)
 
 ```
-
-
 ```python
 # CDS spreads for IBM as of calc_date = 2024-04-15
 Cds_par_spreads = list (cds_par_spreads_df. Loc['2024-04-15'])
@@ -1590,12 +1413,8 @@ Print (hazard_rates_df)
     4  2029-06-20   5.263889     102.209360      0.966876
     5  2031-06-20   7.291667     166.229764      0.934828
     6  2034-06-20  10.336111     164.376354      0.889198
-
-
 ## c. Plot the calibrated Hazard Rates and Survival Probability curves
 Follow section 2 b in the QuantLib Advanced notebook. Use the calibrated SOFR discount curve from Problem 3 b.
-
-
 ```python
 Plt = hazard_rates_df.Plot (x='Date',           y='HazardRateBps',           grid=True,           style='*-',           title=f'IBM Hazard Rates Curve as of {calc_date. To_date ()}',           figsize=(12,          4))
 Plt. Set_ylabel ('Hazard Rate (bps)')
@@ -1606,24 +1425,10 @@ Plt. Set_ylabel ('Survival Probability')
 Plt. Set_xlabel ('Date')
 
 ```
-
-
-
-
     Text (0.5,           0,           'Date')
-
-
-
-
-    
 ![png](air/par spread and PV of a CDS 
 
 Follow section 2 c in the QuantLib Advanced notebook. Construct a CDS object with 100 bps coupon and 2029-06-20 maturity. Compute the fair/par spread and PV.
-
-
-
-
-
 ```python
 # CDS specs
 Side = ql. Protection. Seller
@@ -1646,8 +1451,6 @@ Cds_obj = ql.CreditDefaultSwap (side,           face_notional,           contrac
 Default_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (hazard_rate_curve)
 Cds_engine = ql.MidPointCdsEngine (default_prob_curve_handle,           cds_recovery_rate,           sofr_yield_curve_handle)
 Cds_obj.SetPricingEngine (cds_engine)
-
-
 # Print CDS valuation results
 Print ('CDS protection start date: ',           cds_obj.ProtectionStartDate ())
 Print ('CDS fair/par spread: ',           round (cds_obj.FairSpread ()*10000,           3))

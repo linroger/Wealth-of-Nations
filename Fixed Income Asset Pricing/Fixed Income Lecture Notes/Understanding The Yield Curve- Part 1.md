@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_369_Understanding The Yield Curve- Part 1.md
+- 
 - OVERVIEW OF FORWARD RATE ANALYSIS
-- Alias_372_Understanding The Yield Curve- Part 1.md
+- 
 linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
 tags:
-- tag_example
+- 
 title: Understanding The Yield CurvePart 1
 ---
-
-
-
 Salomon Brothers
 ANITI ILMANEN
 

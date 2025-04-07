@@ -48,7 +48,7 @@ tags:
 			- Finish Risk Analysis
 			- focus on financial risk
 			- Start with forecasting (mechanics)
-![](66ab8b84e41c89e8c3c0fec5dc2f16f8.png)
+ ![500](66ab8b84e41c89e8c3c0fec5dc2f16f8.png)
 ### BASIC ISSUES IN LENDING
 - "Lemons" Problem (Ex Ante)
 	- Who will accept a loan at a given rate?
@@ -199,9 +199,9 @@ tags:
 - Potential underinvestment (shareholders' unwilling to fund new projects since benefits will accrue to bondholders,  and since debt [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] prohibit additional borrowing)
 - Management time spent in discussions with creditors and investment bankers about refinancing and reorganization (instead of running the business)
 - Costs Of Financial Distress Likely Vary Across Industries And Over Time
-- ![](3e418c137201bf8000d09e61787f4169.png)
+-  ![500](3e418c137201bf8000d09e61787f4169.png)
 - $L= \frac{BV(D)}{BV(D)+MV(E)}$
-![](b2ff5dc744a8b49bae39a84fcf0d9666.png)
+ ![500](b2ff5dc744a8b49bae39a84fcf0d9666.png)
 #### ESTIMATED COSTS HIGHER IN INDUSTRIES WITH
 - High underinvestment potential
 - Risk of asset fire-sales
@@ -210,7 +210,7 @@ tags:
 
 ### ALTERNATIVE ESTIMATE FOR THE COST OF DISTRESS
 - The spread data for A,  BBB,  BB,  and B bonds come from Citigroup's yieldbook,  and refer to average corporate bond spreads over Treasuries for the period 1985 to 1995. Data for AAA and AA bonds come from Huang and Huang (2003). This table reports risk adjusted probabilities of default (q) calculated from bond yield spreads,  as explained in the text. The probabilities p are the yearly historical probabilities of default (data from Moodys,  averages 1970 to 2001). This table also reports our estimates of the NPV of the costs of financial distress expressed as a percentage of pre-distress firm value,  calculated using risk adjusted probabilities (NPV (q)) and historical probabilities (NPV(p)). It also reports in the last row the increase in the NPV of distress costs that is associated with a rating change from AA to BBB. We use an estimate for the loss in value given distress of 16.5%,  a recovery rate of 0.41,  and a risk free rate of 5%.
-![](ce4f614b9d661992cf364575f6518dcb.png)
+ ![500](ce4f614b9d661992cf364575f6518dcb.png)
 #### RATING AGENCIES
 - Information Intermediary
 - Ratings Could Be For Firm (SPE) As Well As Particular Bond Or Debt Agreement
@@ -255,7 +255,7 @@ tags:
 	- Non-bankrupt sample
 		- 33 manufacturing firms
 		- Matched by industry,  size,  year
-![](491992de7091d970b7e00a181a945327.png)
+ ![500](491992de7091d970b7e00a181a945327.png)
 Higher is 'better'
 
 | Ratio | Characteristic |
@@ -274,7 +274,7 @@ Higher is 'better'
 - Decision Rule: (minimizes total number of errors)
 	- Z < 2.675 => E\[Bankrupt]
 	- Z>= 2.675 => E\[Non-bankrupt]
-	- ![](f316ee52c077d78628422ffb893569d3.png)
+	-  ![500](f316ee52c077d78628422ffb893569d3.png)
 - Accuracy falls off as number of years before [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] increases
 	- 1 year prior to bankruptcy: overall correct: 95%
 	- 2 years prior to bankruptcy: overall correct: 83%
@@ -282,15 +282,15 @@ Higher is 'better'
 
 ### DESPITE LIMITATIONS,  THE ORIGINAL 1968 MODEL STILL WORKS …
 
-![](b36be0f7cf6cce077f1d05fcf4b2fa67.png)
+ ![500](b36be0f7cf6cce077f1d05fcf4b2fa67.png)
 
 ### Z-SCORES FOR S&P BOND RATINGS
 
-![](d256a5217b33202aa1184bd2bf05a970.png)
+ ![500](d256a5217b33202aa1184bd2bf05a970.png)
 
 ### MODIFIED ALTMAN Z-SCORE MODELS FOR PRIVATE FIRMS AND SERVICE FIRMS
 
-![](419c27cf83fab423108d3e9f332d7b1d.png)
+ ![500](419c27cf83fab423108d3e9f332d7b1d.png)
 
 ### KMV PREDICTION MODEL
 - Extension Of Merton's Bond Pricing Model (1974)
@@ -309,7 +309,7 @@ Higher is 'better'
 
 ### BASIC IDEA BEHIND KMV MODEL
 
-![](7cb534f48db9b9c797cc49d489e31ef6.png)
+ ![500](7cb534f48db9b9c797cc49d489e31ef6.png)
 
 This is not necessarily the face value of debt
 
@@ -317,7 +317,7 @@ Commonly used default point = current liabilities + 50% long-term liabilities
 
 ### BASIC IDEA: EXAMPLE
 
-![](051c7bf019a290e5ed4a0cb3f05376d8.png)
+ ![500](051c7bf019a290e5ed4a0cb3f05376d8.png)
 
 ### MORE ON KMV MODEL
 - There are basically three steps to derive the actual probabilities of default:
@@ -332,19 +332,19 @@ Commonly used default point = current liabilities + 50% long-term liabilities
 	- Moody's model is a generalization of Merton's model allowing for various classes and maturities of debt
 ### RATINGS VS. EDF
 
-![](804fd7bc8a23311a9f28d2e015dcf026.png)
+ ![500](804fd7bc8a23311a9f28d2e015dcf026.png)
 
 ### ENRON
 
-![](915b77ca65328ce2109bad65356944ab.png)
+ ![500](915b77ca65328ce2109bad65356944ab.png)
 
 ### WORLDCOM (CONT.)
 
-![](7845909127423edee902c77fa6127431.png)
+ ![500](7845909127423edee902c77fa6127431.png)
 
 #### Z-SCORE USING ADJUSTED NUMBERS
 
-![](4b099b772cb1e1afcd64115b136cf575.png)
+ ![500](4b099b772cb1e1afcd64115b136cf575.png)
 
 - Dark line is Z score based on unadjusted financials
 - Light lines show Z score after adjusting financials for manipulation (and writeoffs)
@@ -363,7 +363,7 @@ Commonly used default point = current liabilities + 50% long-term liabilities
 	- So,  for instance,  the average level of off-balance-sheet financing is in principle captured by the model
 	- Thus,  it is "unusual" amounts of off-balance-sheet financing that you have to worry about
 - Example:
-	-![](3d7a043a6f50989b707a9a3ab0084f62.png)
+	- ![500](3d7a043a6f50989b707a9a3ab0084f62.png)
 
 ### CREDIT DEFAULT SWAPS
 - A credit default swap (CDS) is a contract in which the _buyer_ of the CDS makes a series of payments to the _seller_ and,  in exchange,  receives a payoff if a credit instrument (typically a bond or loan) undergoes a pre-defined credit event
@@ -377,8 +377,8 @@ Commonly used default point = current liabilities + 50% long-term liabilities
 
 ### CDS VS. EDF
 
-![](412826bbe17a13720478fa6d79bfd0d4.png)
+ ![500](412826bbe17a13720478fa6d79bfd0d4.png)
 
 #### BLOOMBERG EXAMPLE: DUPONT
 - Bloomberg screen summarizes all financial risk information: ratios,  CDS prices and the IG rating and default prob are based on KMV-type analysis
-- ![](4a9fb868eaec5ec29d4a93f4441fbdce.png)
+-  ![500](4a9fb868eaec5ec29d4a93f4441fbdce.png)

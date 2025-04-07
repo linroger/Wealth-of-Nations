@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_334_Credit Market Session 2.md
-- Alias_337_Credit Market Session 2.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Market Session 2
 ---
-
-
-
 # Credit Market Session 2
 ## SOVEREIGN BONDS,  ETFS,  CDS AND CDX
 1. Sovereign Bonds
@@ -56,23 +53,23 @@ What Is Special About Sovereigns?
 
 ### SOVEREIGN BOND EXAMPLE: BRAZIL 8.5 2034
 
-![](0c3be445bc5df5265288b1cbca1959da.png)
+ ![500](0c3be445bc5df5265288b1cbca1959da.png)
 
 ### SOVEREIGN BOND EXAMPLE: TURKEY 8 2034
 
-![](997b3ca40608c2014fe7a1a3fd543ddc.png)
+ ![500](997b3ca40608c2014fe7a1a3fd543ddc.png)
 
 ### SOVEREIGN YIELD/SPREAD CURVES: US VS BRAZIL VS TURKEY
 
-![](9e70288f3e9fe20ea95546120aedee86.png)
+ ![500](9e70288f3e9fe20ea95546120aedee86.png)
 
 ### SOVEREIGN BOND EXAMPLE: SRI LANKA 6.85 2024 (DEFAULTED)
 
-![](67d0d32af2d1a4b3f9f7328309201a4b.png)
+ ![500](67d0d32af2d1a4b3f9f7328309201a4b.png)
 
 ### SOVEREIGN BOND EXAMPLE: SRI LANKA 6.85 2024 (HISTORICAL PRICES)
 
-![](fba1c25f3bbf70b9ed04f0dc32066cc1.png)
+ ![500](fba1c25f3bbf70b9ed04f0dc32066cc1.png)
 
 ## FIXED INCOME ETFS: 'CREDIT' TRADING AS 'EQUITY'
 - Basket of bonds packaged into ETF shares
@@ -84,27 +81,27 @@ What Is Special About Sovereigns?
 
 ### FIXED INCOME ETF EXAMPLE: LQD (MOST LIQUID IG CREDIT ETF)
 
-![](9ded321bfb789c9ea0fb85e496a1adc2.png)
+ ![500](9ded321bfb789c9ea0fb85e496a1adc2.png)
 
 ### LQD BASKET COMPOSITION
 
-![](2b810adcf991cbc409cf66532776ecfd.png)
+ ![500](2b810adcf991cbc409cf66532776ecfd.png)
 
 ### HISTORICAL PRICES,  YIELDS AND CREDIT SPREADS FOR LQD
 
-![](816438813e93af05e49edfbd4611fc3d.png)
+ ![500](816438813e93af05e49edfbd4611fc3d.png)
 
 ### TOTAL RETURN ANALYSIS FOR LQD (PRICE DYNAMICS + DIVIDENDS)
 
-![](d6720a949b3bf512ce48232a38c2c779.png)
+ ![500](d6720a949b3bf512ce48232a38c2c779.png)
 
 ### ETF BASIS (MARKET VS INTRINSIC NAV): LQD
 
-![](c901fb400b6b90494a9de0c24b750ef9.png)
+ ![500](c901fb400b6b90494a9de0c24b750ef9.png)
 
 ### ETF CREATIONS/REDEMPTIONS & BASIS ARBITRAGE
 
-![](efceee973dc396be71bf138bbfe6773e.png)
+ ![500](efceee973dc396be71bf138bbfe6773e.png)
 
 ## SOVEREIGN BOND ETFS
 - ETFs that track a sovereign bond index (monthly re-balancing)
@@ -118,15 +115,15 @@ What Is Special About Sovereigns?
 
 ### SOVEREIGN BOND ETF EXAMPLE: EMB ("EMERGING MARKET BONDS")
 
-![](cc842c8750f58b284711a0e1192cb5f2.png)
+ ![500](cc842c8750f58b284711a0e1192cb5f2.png)
 
 ### EMB COMPOSITION: ~ 600 FIXED RATE SOVEREIGN BONDS
 
-![](6b411421318eb361a5220e75b97c4a86.png)
+ ![500](6b411421318eb361a5220e75b97c4a86.png)
 
 ### COUPON CASH-FLOWS DISTRIBUTED AS MONTHLY DIVIDENDS
 
-![](35ca2592baaeb2735590c0ed8ce8d980.png)
+ ![500](35ca2592baaeb2735590c0ed8ce8d980.png)
 
 ### COMPUTING ETF YIELD AND SPREAD USING ACF METHOD
 - Model ETF as "synthetic bond" by aggregating weighted constituent cash-flows
@@ -136,11 +133,11 @@ What Is Special About Sovereigns?
 
 ### ACF CASH-FLOW AGGREGATION EXAMPLE
 
-![](9db36a69fa59f57e2a944e375ce04b56.png)
+ ![500](9db36a69fa59f57e2a944e375ce04b56.png)
 
 ### YIELD AND SPREAD/YAS CALCULATION FOR EMB ETF
 
-![](a6f90d38491a3a417157909e72ab6f97.png)
+ ![500](a6f90d38491a3a417157909e72ab6f97.png)
 
 ## WHY DO CORPORATIONS (SPECIFICALLY BANKS) ISSUE FLOATING RATE BONDS?
 - Commercial/other corporate loans are floating rate contracts
@@ -161,15 +158,15 @@ What Is Special About Sovereigns?
 
 ### REFERENCE INTEREST RATES: [[A Guide to the Front End and Basis Swap Markets#Federal Funds Market|Fed Funds]] (E/U/L) AND SOFR
 
-![](d133ba72dfaf28134855de93dfb5b1a3.png)
+ ![500](d133ba72dfaf28134855de93dfb5b1a3.png)
 
 ### HISTORICAL 3M TERM INTEREST RATES: SOFR VS US TREASURIES
 
-![](a3f0f6cfe25568f6785a88edd3bf9f78.png)
+ ![500](a3f0f6cfe25568f6785a88edd3bf9f78.png)
 
 ### INTEREST RATES CURVES: SOFR VS ACTIVE TREASURY (APRIL 8 2024)
 
-![](669156b14ac5e7a350d93ec6c2483e5a.png)
+ ![500](669156b14ac5e7a350d93ec6c2483e5a.png)
 
 ## COMPOSITION OF FLOATING RATE CASH-FLOWS
 - Floating rate cash-flow payments are composed of two parts:
@@ -180,19 +177,19 @@ What Is Special About Sovereigns?
 
 ### FLOATING RATE BOND (SOFR REF INDEX): MORGAN STANLEY
 
-![](e0758e1ce32b0917bb0e306b44c41537.png)
+ ![500](e0758e1ce32b0917bb0e306b44c41537.png)
 
 ## INVESTING AT RISK-FREE REFERENCE RATES (FEDFUNDS,  SOFR,  LIBOR)
 
-![](0276f0b574ec483e4590525f07aea9b0.png)
+ ![500](0276f0b574ec483e4590525f07aea9b0.png)
 
 ## RISKY BOND CASH-FLOWS INDEXED TO REFERENCE RATE
 
-![](27c9ad08687c262d04fd7624a6d3c1df.png)
+ ![500](27c9ad08687c262d04fd7624a6d3c1df.png)
 
 ### FLOATING RATE BOND FINANCED AT REFERENCE INDEX RATE
 
-![](ec66b51af0b7535c5382b3a4d8951fcf.png)
+ ![500](ec66b51af0b7535c5382b3a4d8951fcf.png)
 
 #### FINANCED RISKY FLOATING RATE BOND
 - Long position: floating rate bond
@@ -204,7 +201,7 @@ What Is Special About Sovereigns?
 
 ### CREDIT DEFAULT SWAP CASH-FLOWS
 
-![](44f40b4572a95169ffdd4abc8d5e4712.png)
+ ![500](44f40b4572a95169ffdd4abc8d5e4712.png)
 
 - What Is A CDS Contract?
 	 - Synthetic swap contract "mimicking" cash-flows of financed floating rate bond
@@ -248,23 +245,23 @@ What Is Special About Sovereigns?
 
 ### CDSW SCREEN: IBM 5Y CDS (ISDA STD MODEL)
 
-![](b36463269447a35cfd1a317932ebb321.png)
+ ![500](b36463269447a35cfd1a317932ebb321.png)
 
 ### CDSW SCREEN: FORD MOTOR CREDIT 5Y CDS (ISDA STD MODEL)
 
-![](73bcea226fb0398292c9ef6cce699dfd.png)
+ ![500](73bcea226fb0398292c9ef6cce699dfd.png)
 
 ### CDS PAR SPREAD CURVES: FORD MOTOR CREDIT (5Y MOST LIQUID)
 
-![](882d831c5336157fe28cb11180948816.png)
+ ![500](882d831c5336157fe28cb11180948816.png)
 
 ### FORD MOTOR CREDIT: CDS SPREADS VS CASH EQUITY (INV)
 
-![](2ea428a01148b6875e4f244bd836d72d.png)
+ ![500](2ea428a01148b6875e4f244bd836d72d.png)
 
 ## ISDA CDS STANDARD MODEL
 
-![](c44339cf371373e99b3ace316e2ef32d.png)
+ ![500](c44339cf371373e99b3ace316e2ef32d.png)
 
 ### HAZARD RATE MODEL INPUTS
 - Contractual cash-flows to maturity
@@ -275,7 +272,7 @@ What Is Special About Sovereigns?
 
 ### SHAPE OF SURVIVAL PROBABILITY CURVES
 
-![](2c6c212036fe6c1859a5da381a7bf48b.png)
+ ![500](2c6c212036fe6c1859a5da381a7bf48b.png)
 
 ### SIMPLE VALUATION FORMULAS (FLAT HAZARD RATE MODEL)
 
@@ -287,7 +284,7 @@ See next session for details on the Hazard Rate Model
 
 ### CDS PV SURFACE (5% FLAT INTEREST RATES,  5% COUPON)
 
-![](3e1035945224c094167ba071f74bb17e.png)
+ ![500](3e1035945224c094167ba071f74bb17e.png)
 
 ## CDX CONTRACT SPECS
 - CDX is an equally weighted index of CDS contracts
@@ -306,19 +303,19 @@ See next session for details on the Hazard Rate Model
 
 ### CDX EXAMPLE: IG 5Y SERIES 42
 
-![](5ce116dd693d87abeec7e1c8e090840f.png)
+ ![500](5ce116dd693d87abeec7e1c8e090840f.png)
 
 ### CDX IG SERIES 42 COMPOSITION: 125 EQUALLY WEIGHTED ISSUERS
 
-![](05184c051d51b459f0d2bebf4f579f6c.png)
+ ![500](05184c051d51b459f0d2bebf4f579f6c.png)
 
 ### CDX HY 42 COMPOSITION: 100 EQUALLY WEIGHTED ISSUERS
 
-![](094657faeb3f434cd4493d10349b56a7.png)
+ ![500](094657faeb3f434cd4493d10349b56a7.png)
 
 ### CDX EM 41 COMPOSITION: 20 EMERGING MARKET SOVEREIGN ISSUERS
 
-![](9b7f505be3489317fadbb019afe9c7c0.png)
+ ![500](9b7f505be3489317fadbb019afe9c7c0.png)
 
 ## WHAT DO CDX INDEX SPREADS REPRESENT?
 - Level of credit default risk in US Markets (by credit market segment: IG vs HY)
@@ -329,15 +326,15 @@ See next session for details on the Hazard Rate Model
 
 ### CDX IG 5Y & 10Y SPREADS VS VIX INDEX
 
-![](c172c402493e5ae7ce686efe9d27bc93.png)
+ ![500](c172c402493e5ae7ce686efe9d27bc93.png)
 
 ### CDX HY 5Y VS JNK AND HYG SPREADS
 
-![](0cb728e5702a7f914aa8a5ca4c61ae85.png)
+ ![500](0cb728e5702a7f914aa8a5ca4c61ae85.png)
 
 ### CDX EM 5Y VS EMB SPREADS: WHAT COULD CAUSE THE LEVEL DIFFS?
 
-![](d9b073749c285636446438c8750d58b7.png)
+ ![500](d9b073749c285636446438c8750d58b7.png)
 
 ## SUMMARY AND Q&A
 - Sovereign bonds

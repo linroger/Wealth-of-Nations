@@ -1,15 +1,12 @@
 ---
 aliases:
-- Example_Alias_Shareholder Report On UBS's Write Downs
-- Alias_54_Shareholder Report On UBS's Write Downs.md
+- Shareholder Report On UBS's Write Downs
+- Shareholder Report On UBS's Write Downs.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Shareholder Report On UBS's Write Downs
 ---
-
-
-
 # Shareholder Report On UBS's Write Downs
 
 Ab **UBS AG**
@@ -804,11 +801,11 @@ Our work is based upon information available as of the date of this letter and d
 Very truly yours,  KPMG Ltd
 
 | Appendix 2: List of Abbreviations and Glossary
-![](Preview%202024-09-30%2011.05.40.tiff)
-![](Preview%202024-09-30%2011.05.48.png)
-![](Preview%202024-09-30%2011.05.57.png)
-![](Preview%202024-09-30%2011.06.05.png)
-![](Preview%202024-09-30%2011.06.15.png)
-![](Preview%202024-09-30%2011.06.23.png)
-![](Preview%202024-09-30%2011.06.31.png)
-![](Preview%202024-09-30%2011.06.31%201.png)
+ ![500](Preview%202024-09-30%2011.05.40.tiff)
+ ![500](Preview%202024-09-30%2011.05.48.png)
+ ![500](Preview%202024-09-30%2011.05.57.png)
+ ![500](Preview%202024-09-30%2011.06.05.png)
+ ![500](Preview%202024-09-30%2011.06.15.png)
+ ![500](Preview%202024-09-30%2011.06.23.png)
+ ![500](Preview%202024-09-30%2011.06.31.png)
+ ![500](Preview%202024-09-30%2011.06.31%201.png)

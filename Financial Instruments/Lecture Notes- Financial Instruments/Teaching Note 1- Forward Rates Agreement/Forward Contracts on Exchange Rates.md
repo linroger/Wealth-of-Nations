@@ -1,13 +1,11 @@
 ---
 aliases:
-- Alias_176_Forward Contracts on Exchange Rates.md
-- Alias_175_Forward Contracts on Exchange Rates.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Forward Contracts on Exchange Rates
 ---
-
-
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)
 
 - [[Ch1 Introduction to Derivative Markets]]

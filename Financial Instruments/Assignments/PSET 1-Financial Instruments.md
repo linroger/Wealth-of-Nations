@@ -2,8 +2,6 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_145_PSET 1-Financial Instruments.md
-  - Alias_146_PSET 1-Financial Instruments.md
   - PSET 1-FINANCIAL INSTRUMENTS
 linter-yaml-title-alias: PSET 1-FINANCIAL INSTRUMENTS
 tags:
@@ -30,17 +28,6 @@ title: PSET 1-FINANCIAL INSTRUMENTS
 aliases: [PSET 1-FINANCIAL INSTRUMENTS]
 
 linter-yaml-title-alias: PSET 1-FINANCIAL INSTRUMENTS
-
-tags: [1,  2]
-
-title: PSET 1-FINANCIAL INSTRUMENTS
-
-aliases: [PSET 1-FINANCIAL INSTRUMENTS]
-
-linter-yaml-title-alias: PSET 1-FINANCIAL INSTRUMENTS
-
-tags: [1,  2]
-
 # PSET 1-Financial Instruments
 
 [Teaching Note 1Forward Rates Agreement](Teaching%20Note%201-%20Forward%20Rates%20Agreement.md)
@@ -68,33 +55,25 @@ Due at the beginning of class week 2.
 | Wednesday,  October 1,  2008 | 1.4021 | 1.40422 | 1.4047 | 1.40302 | 1.39603 |
 | Thursday,  October 1,  2009 | 1.4533 | 1.45341 | 1.45325 | 1.45307 | 1.45302 |
 
-| US [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] |  |  |  | EURO [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] |  |  |  |
+| US   | LIBOR |      |      |      | EURO | LIBOR |      |     |     |
+| ---- | ----- | ---- | ---- | ---- | ---- | ----- | ---- | --- | --- |
+| 1M   | 3M    | 6M   | 1Y   | 1M   | 3M   | 6M    | 1Y   |     |     |
+| 3.88 | 4.08  | 4.27 | 4.48 | 2.12 | 2.18 | 2.21  | 2.33 |     |     |
+| 5.32 | 5.37  | 5.38 | 5.32 | 3.29 | 3.42 | 3.58  | 3.74 |     |     |
+| 5.12 | 5.23  | 5.15 | 4.94 | 4.39 | 4.79 | 4.76  | 4.72 |     |     |
+| 4.00 | 4.15  | 4.04 | 4.04 | 5.07 | 5.29 | 5.39  | 5.50 |     |     |
+| 0.25 | 0.28  | 0.62 | 1.24 | 0.39 | 0.70 | 1.00  | 1.23 |     |     |
 
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-
-| 1M | 3M | 6M | 1Y | 1M | 3M | 6M | 1Y |
-
-| 3.88 | 4.08 | 4.27 | 4.48 | 2.12 | 2.18 | 2.21 | 2.33 |
-
-| 5.32 | 5.37 | 5.38 | 5.32 | 3.29 | 3.42 | 3.58 | 3.74 |
-
-| 5.12 | 5.23 | 5.15 | 4.94 | 4.39 | 4.79 | 4.76 | 4.72 |
-
-| 4.00 | 4.15 | 4.04 | 4.04 | 5.07 | 5.29 | 5.39 | 5.50 |
-
-| 0.25 | 0.28 | 0.62 | 1.24 | 0.39 | 0.70 | 1.00 | 1.23 |
-
-| |   | |   | |   | |   |
-|---|---|---|---|---|---|---|---|
-|US [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] (c.c. rates)| |   | |EURO LIBOR(c.c. rates)| |   | |
-|1M|3M|6M|1Y|1M|3M|6M|1Y|
-|3.87|4.06|4.22|4.39|2.12|2.17|2.20|2.31|
-|5.31|5.33|5.31|5.18|3.29|3.41|3.55|3.68|
-|5.11|5.20|5.08|4.82|4.38|4.76|4.70|4.61|
-|4.00|4.13|4.00|3.96|5.06|5.25|5.32|5.35|
-|0.25|0.28|0.62|1.23|0.39|0.70|1.00|1.22
-
-|
+|      |                   |      |      |      |                        |      |      |     |
+| ---- | ----------------- | ---- | ---- | ---- | ---------------------- | ---- | ---- | --- |
+| US   | LIBOR(c.c. rates) |      |      |      | EURO LIBOR(c.c. rates) |      |      |     |
+| 1M   | 3M                | 6M   | 1Y   | 1M   | 3M                     | 6M   | 1Y   |     |
+| 3.87 | 4.06              | 4.22 | 4.39 | 2.12 | 2.17                   | 2.20 | 2.31 |     |
+| 5.31 | 5.33              | 5.31 | 5.18 | 3.29 | 3.41                   | 3.55 | 3.68 |     |
+| 5.11 | 5.20              | 5.08 | 4.82 | 4.38 | 4.76                   | 4.70 | 4.61 |     |
+| 4.00 | 4.13              | 4.00 | 3.96 | 5.06 | 5.25                   | 5.32 | 5.35 |     |
+| 0.25 | 0.28              | 0.62 | 1.23 | 0.39 | 0.70                   | 1.00 | 1.22 |     |
+|      |                   |      |      |      |                        |      |      |     |
 
 Consider a one-year forward contract for converting between dollars and Euros. The current exchange rate is$1.20 for each Euro. The one-year risk-free rate in dollars is 5% in continuously compounded units while the one-year risk-free rate in Euros is 4.5%.
 
@@ -147,7 +126,7 @@ Consider a one-year forward contract for converting between dollars and Euros. T
 >  	- The trade here mimics the "no cash today" outcome of the forward contract
 ## 2 FORWARD RATES AND COVERED INTEREST RATE PARITY
 
-The Excel file DataHW1 2024.xls contains data on the$/Euro exchange rate on the first business day of October of the years 2005 to 2009. In addition,  it contains Forward Rate quotes,  as well as US and EURO [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates.
+The Excel file DataHW1 2024. xls contains data on the$/Euro exchange rate on the first business day of October of the years 2005 to 2009. In addition,  it contains Forward Rate quotes,  as well as US and EURO [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rates.
 
 Please,  do the following:
 
@@ -262,6 +241,6 @@ $$
 > 	- Pay 1 euro (from short forward position)
 > 	- Receive 1.3960 dollars
 > 	- Receive 1 euro (from long synthetic forward position)
-> 	- Pay$1.3290 · e^{0.0396} = 1.3827$dollars
-> - The net cash flow will be a positive amount equal$1.396 − 1.3827 = 0.0134$
-> dollars per euro traded. If we apply the same strategy on$100 m,     the arbitrage is supposed to generate a positive cash flow at maturity equal to$1.337 m.
+> 	- Pay $1.3290 · e^{0.0396} = 1.3827$ dollars
+> - The net cash flow will be a positive amount equal $1.396 − 1.3827 = 0.0134$
+> dollars per euro traded. If we apply the same strategy on$100 m,     the arbitrage is supposed to generate a positive cash flow at maturity equal to $1.337 m.

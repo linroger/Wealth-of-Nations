@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Alias_92_[[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L.p. (a).md
+  - [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L.p. (a).md
   - Long-Term Capital Management,  L.P. (A)
-  - Example_Alias_[[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L
+  - [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L
 linter-yaml-title-alias: Long-Term Capital Management,  L.P. (A)
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#quantitative-finance"
   - "#finance"
   - "#financial-crises"
@@ -305,7 +305,7 @@ Another option was to shrink the Fund's capital base so as to return the risk to
 
 In general,  the principals felt that a core long-run objective should be to maximize the value of the management company ([[Class Note 13 The LTCM Meltdown|LTCM]]). While the above choices did not necessarily exclude other actions,  the principals wanted to think broadly about the firm's choices. For example,  as a specialist in financial technology,  and with its lean organization,  [[Class Note 13 The LTCM Meltdown|LTCM]] might be very attractive to a large institution wishing to reengineer its financial intermediation businesses. Such an institution might be willing to pay a very high price for [[Class Note 13 The LTCM Meltdown|LTCM]]. [[Class Note 13 The LTCM Meltdown|LTCM]] also could consider a public share offering which would be a means to raising truly permanent equity capital. In addition,  the availability of traded equity and a market valuation of the firm would make it easier to negotiate the compensation and ownership claims with existing and future employees that arose in the ordinary course of building and managing any professional services firm.
 
- ![](CleanShot%202024-09-27%20-002941@2x.png)
+  ![500](CleanShot%202024-09-27%20-002941@2x.png)
 
 | Exhibit 1    | LTCM monthly returns Fund Capital Gross Monthly | Net Monthly  | Index of Net     |      |
 | ------------ | ----------------------------------------------- | ------------ | ---------------- | ---- |
@@ -358,11 +358,11 @@ a. Gross of all fees.
 b. Net of fees paid to [[Class Note 13 The LTCM Meltdown|LTCM]].
 
 Exhibit 2: 20-year U.S. Treasury bond yields and swap spreads
-![](Finder%202024-09-27%2020.36.50.png)
+ ![500](Finder%202024-09-27%2020.36.50.png)
 
 Source: [[Class Note 13 The LTCM Meltdown|LTCM]]
 Exhibit 3: Portfolio risk for N positions (Standard deviation of annual profits,  $ millions)
-![](Finder%202024-09-27%2020.37.00.png)
+ ![500](Finder%202024-09-27%2020.37.00.png)
 
 | Portfolio Risk if                          |                  |                                                     |                  |     |     |    |
 |--------------------------------------------|------------------|-----------------------------------------------------|------------------|-----|-----|----|
@@ -435,9 +435,9 @@ Source: [[Class Note 13 The LTCM Meltdown|LTCM]]
 |                | Average         | 22.5        | 4.6%           |               |
 
 Source: [[Class Note 13 The LTCM Meltdown|LTCM]]
-![](Finder%202024-09-27%2020.37.16.png)
+ ![500](Finder%202024-09-27%2020.37.16.png)
 
-Exhibit 6 Comparati![](CleanShot%202024-09-27%20-002945@2x%20copy.png)ve Balance Sheet and Other Financial Information ($ millions,  Fiscal Year End 1996)
+Exhibit 6 Comparati ![500](CleanShot%202024-09-27%20-002945@2x%20copy.png)ve Balance Sheet and Other Financial Information ($ millions,  Fiscal Year End 1996)
 
 Source: [[Class Note 13 The LTCM Meltdown|LTCM]]
 

@@ -87,7 +87,7 @@ Speculators are usually classified as **bulls** or **bears** according to their 
 
 Some banks are keen to buy a currency because they are short of it and others are keen to sell a currency because they have too much of it. This means that banks will quote slightly different bid–offer quotes on a currency in the interbank market.
 
-![](Pasted%20image%2020240124013116%201.png)
+ ![500](Pasted%20image%2020240124013116%201.png)
 
 Box 7.2 The [[Carry Trade 1]] does not make sense according to UIP
 

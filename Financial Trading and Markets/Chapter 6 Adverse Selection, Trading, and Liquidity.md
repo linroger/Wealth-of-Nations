@@ -261,9 +261,9 @@ a.  Describe how this empirical finding might be consistent with the theoretical
 
 14. a.  Suppose that stock price changes in a given market from transaction to transaction are clearly and statistically inversely correlated, bouncing between prices in a definable range. Is it more likely that transaction prices are influenced by asymmetric information availability, random arrival of information, or frictions such as transactions costs? b.  Suppose that stock price changes in a given market from transaction to transaction are clearly uncorrelated, randomly fluctuating over time. Is it more likely that transaction prices are governed by asymmetric information availability, random arrival of information (that is, perfectly or nearly perfectly efficient markets), or  
 frictions such as transactions costs? c.  Suppose that stock price changes in a given market from transaction to transaction are clearly and statistically positively correlated and are more likely to move in a given direction displaying momentum. Is it more likely that transaction prices are governed by asymmetric information availability, random arrival of information, or frictions such as transactions costs?  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0752a4bff9cb81f778544dc66c19e1a8f4b4e22904ea1b36f04e941f838067a6.jpg)  
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0752a4bff9cb81f778544dc66c19e1a8f4b4e22904ea1b36f04e941f838067a6.jpg)  
 
-# 6.A.1 THE KYLE ADVERSE SELECTION MODEL  
+# 6. A.1 THE KYLE ADVERSE SELECTION MODEL  
 
 This appendix provides for a somewhat more technical introduction to the Kyle (1985) model than is offered in Section 6.4.  
 

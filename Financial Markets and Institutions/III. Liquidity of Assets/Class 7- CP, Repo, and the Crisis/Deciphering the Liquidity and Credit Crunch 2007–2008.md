@@ -1,11 +1,11 @@
 ---
 cssclasses: academia
 aliases:
-  - Example_Alias_Deciphering the Liquidity and Credit Crunch 2007–2008
-  - Alias_38_Deciphering the Liquidity and Credit Crunch 2007–2008.md
+  - Deciphering the Liquidity and Credit Crunch 2007–2008
+  - Deciphering the Liquidity and Credit Crunch 2007–2008.md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#quantitative-finance"
   - "#financial-crises"
   - "#debt-management"

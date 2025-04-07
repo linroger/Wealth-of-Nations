@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_295_HBS Case- Medfield Pharmaceuticals.md
-  - Alias_298_HBS Case- Medfield Pharmaceuticals.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]"
   - "#corporaterestructuring"
   - "#mergers-and-acquisitions"

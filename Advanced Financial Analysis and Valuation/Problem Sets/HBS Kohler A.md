@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_293_HBS Kohler A.md
-  - Alias_290_HBS Kohler A.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#case-studies"
   - "#corporaterestructuring"
   - "#debt-management"

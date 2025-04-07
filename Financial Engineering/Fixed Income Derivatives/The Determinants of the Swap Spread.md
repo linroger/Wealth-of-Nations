@@ -1,21 +1,21 @@
-# The Determinants of the Swap Spread
+# [[1. DeterministicCashFlows#4.1 The Yield Spread|The Determinants of the Swap Spread]]
 Interest-rate swaps are an important ALM and risk management tool in banking markets.  The rate payable on a swap represents bank risk, if we assume that a swap is paying  (receiving) the fixed swap rate on one leg and receiving (paying) Libor-flat on the other  leg. If one of the counter parties is not a bank, then either leg is adjusted to account for the  different counter party risk; usually the floating leg will have a spread added to Libor. We  can see that this produces a swap curve that lies above the government bond yield curve,  if we compare Figure 1 with Figure 2. Figure 1 is the USD swap rates page from Tullett  & Tokyo brokers, and Figure 2 is the US Treasury yield curve, both as at 3 July 2006.  The higher rates payable on swaps represents the additional risk premium associated with  bank risk compared to government risk. The spread itself is the number of basis points  the swap rate lies above the equivalent-maturity government bond yield, quoted on the  same interest basis.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8988d84a9364a2716e524261ab5de5a49cb040893a3790079c73263752f24f0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8988d84a9364a2716e524261ab5de5a49cb040893a3790079c73263752f24f0.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5392ef60e6a848eedf92b5a16dcbad252921a3c11a398102c62720c3081de4e5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5392ef60e6a848eedf92b5a16dcbad252921a3c11a398102c62720c3081de4e5.jpg)
 
-Figure 1 USD interest-rate swap rates, 3 July 2007   $\copyright$   Bloomberg L.P.   $\copyright$   Tullett & Toyko. Used with permission
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd453ad94af71602e9ba5ffecd1867b82ec697502fce390906bbcafeb8e45b93.jpg)
+Figure 1 USD interest-rate swap rates, 3 July 2007      Bloomberg L.P.      Tullett & Toyko. Used with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd453ad94af71602e9ba5ffecd1867b82ec697502fce390906bbcafeb8e45b93.jpg)
 
-# Figure 2 US Treasury yield curve, 3 July 2006   $\copyright$   Bloomberg L.P. Used with permission.
+# Figure 2 US Treasury yield curve, 3 July 2006      Bloomberg L.P. Used with permission.
 
 In theory, the swap spread represents only the additional credit risk of the interbank  market above the government market. However as the spread is variable, it is apparent  that other factors influence it. An ALM desk will want to be aware of these factors,  because they influence swap rates. Swaps are an important risk hedging tool, if not the  most important, for banks so it becomes necessary for practitioners to have an  appreciation of what drives the swap spreads
 
 # Historical pattern
 
 If we plot swap spreads over the last ten years, we note that they have tightened in the  last five years or so. Figure 3 shows the spread for USD and GBP for the period 1997-to  the first quarter of 2006.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d90a93519bfeeffc531cd9faf499695a1618dff14ced52d44fdde8edd0b5cc9d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d90a93519bfeeffc531cd9faf499695a1618dff14ced52d44fdde8edd0b5cc9d.jpg)
 Figure 3 USD and GBP interest-rate swap spreads over government curve, 1997- 2006  (Source: Bloomberg L.P.)
 
 We see that spreads have reduced in recent years. The highest spreads for both currencies  was reached during 2000, when the 10-year sterling swap spread peaked at around 140  bps above the gilt yield. The tightest spreads were reached during 2003, when the 10-year  sterling spread reached around 15 bps towards the end of that year.  At the beginning of  2006 sterling spreads were still lower than the 10-year average of 55 bps. This implies  that the perceived risk premium for the capital markets has fallen.
@@ -28,7 +28,7 @@ This indicates to us, if just superficially, that swap spreads react to macro-le
 # Determinants of the spread
 
 We already noted that in theory the swap spread, representing interbank counter party risk,  should reflect only the market’s perception of bank risk over and above government risk.  Bank risk is captured in the Libor rate – the rate paid by banks on unsecured deposits to  other banks.  So in other words, the swap spread is meant to adequately compensate  against the risk of bank default. The Libor rate is the floating rate paid against the fixed in  the swap transaction, and moves with the perception of bank risk. As we implied in the  previous section though, it would appear that other factors influence the swap spread. We  can illustrate this better comparing the swap spread for 10-year quarterly-paying swaps  with the spread between 3-month Libor and the 3-month general collateral (GC)) repo  rate. The GC rate is the risk-free borrowing rate, whereas the Libor rate represents bank  risk again. In theory, the spread between 3-month Libor and the GC rate should therefore  move closely with the swap spread for quarterly-resetting swaps, as both represent bank  risk. A look at Figure 4 shows us that this is not the case. Figure 4 compares the two  spreads in the US dollar market, but we do not need to calculate the correlation or the   $R^{2}$    for the two sets of numbers. Even on cursory observation we can see that the correlation  is not high. Therefore we conclude that other factors, in addition to perceived bank  default risk, drive one or both spreads. These other factors influence swap rates and  government bond yields, and hence the swap spread, and we consider them below:
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dddacc865c617c46da92a2f335c75afe139bd8d45edad80cff89370c8349b1f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dddacc865c617c46da92a2f335c75afe139bd8d45edad80cff89370c8349b1f.jpg)
 Figure 4 Comparison of USD 10-year swap spread and 3-month Libor-GC repo  spread  (Source: Bloomberg L.P.)
 
   Level and slope of the yield curve
@@ -36,7 +36,7 @@ Figure 4 Comparison of USD 10-year swap spread and 3-month Libor-GC repo  spread
 The magnitude of the swap spread is influenced by the absolute level of base interest  rates. If the base rate is   $10\%$   so that the government short-term rate is around   $10\%$  ,  with longer-term rates being recorded higher, the spread tends to be greater that that  seen if the base rate is   $5\%$  .  The shape of the yield curve has even greater influence.  When the curve is positively sloping, under the expectations hypothesis investors will  expect future rates to be higher, hence floating rates are expected to rise. This would  suggest the swap spread will narrow. The opposite happens if the yield curve inverts
 
 Figure 5 shows the GBP 10-year swap spread compared to the GBP gilt yield curve  spread (10-year gilt yield minus 2-year yield). We see that the slope of the curve has  influenced the swap spread; as the slope is narrowing, swap spreads are increasing  and vice-versa.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3eae8af02d5037389ec71744c378de298707fcc841ef45a7393fd0256fed492.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3eae8af02d5037389ec71744c378de298707fcc841ef45a7393fd0256fed492.jpg)
 Figure 5 GBP swap spreads and gilt spreads compared 1997-2006  (Source: Bloomberg L.P.)
 
   Supply and demand

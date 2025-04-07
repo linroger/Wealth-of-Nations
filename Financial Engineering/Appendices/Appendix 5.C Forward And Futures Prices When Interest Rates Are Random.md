@@ -2,10 +2,10 @@
 aliases: 
 tags: 
 cssclasses: academia
-title: Appendix 5.C Forward And Futures Prices When Interest Rates Are Random
+title: Appendix 5. C Forward And Futures Prices When Interest Rates Are Random
 ---
 
-# Appendix 5.C Forward And Futures Prices When Interest Rates Are Random
+# Appendix 5. C Forward And Futures Prices When Interest Rates Are Random
 
 This appendix formalizes the difference between forward and futures prices and shows the relationship between them when interest rates are stochastic. We will use the following notation:
 

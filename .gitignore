@@ -21,3 +21,7 @@ svg-cache
 *.mdc
 *.octet-stream
 .obsidian/.keys.json
+*.mdc
+*.ipynb
+*.sample
+*.idea

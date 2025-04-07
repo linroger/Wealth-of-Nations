@@ -1,11 +1,11 @@
 ---
-title: Appendix 19.A Formulas for Geometric Average Options
+title: Appendix 19. A Formulas for Geometric Average Options
 aliases: [Formulas for Geometric Average Options]
 ---
 
-# Appendix 19.A Formulas for Geometric Average Options
+# Appendix 19. A Formulas for Geometric Average Options
 
-The discussion of Monte Carlo valuation of geometrically averaged Asian options enables us to understand the formulas for geometrically averaged Asian options,  described in Appendix 14.A. If we sample the stock price $N$ times from time O to 7 ,  with the distance betweer samples $h=T/N$ and the first sample occurring at time $h$ ,  the log of the geometric average i
+The discussion of Monte Carlo valuation of geometrically averaged Asian options enables us to understand the formulas for geometrically averaged Asian options,  described in Appendix 14. A. If we sample the stock price $N$ times from time O to 7 ,  with the distance betweer samples $h=T/N$ and the first sample occurring at time $h$ ,  the log of the geometric average i
 $$\begin{aligned}
 \frac{1}{N}\sum_{i=1}^{N}\ln (S_{ih})& =\frac{1}{N}\left[\sum_{i=1}^{N}\left (\ln (S_{0})+(r-\delta-0.5\sigma^{2}) ih+\sigma\sum_{j=1}^{i}Z_{j}\sqrt{h}\right)\right] \\
 &=\ln (S_{0})+(r-\delta-0.5\sigma^{2})\frac{h}{N}\sum_{i=1}^{N}i+\frac{\sigma\sqrt{h}}{N}\sum_{i=1}^{N}\sum_{j=1}^{i}Z_{j}

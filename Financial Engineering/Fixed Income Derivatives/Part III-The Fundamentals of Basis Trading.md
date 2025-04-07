@@ -11,16 +11,16 @@ One of the ﬁrst considerations for basis traders is the recent (and not so rec
 By tracking the net basis for the CTD, we are able to see the impact of the delivery option possessed by the short on the level of the basis. Figures 3.1 to 3.3 illustrate the behaviour of the net basis for the  $6.25\%$   2010 gilt during the period September 2000 to September 2001. This bond was the CTD bond during this period.
 
 Tracking the net basis allows us to observe the value placed by the market on the short future’s delivery options. For purposes of illustration we also show the futures price, cash bond price and converted bond price in Figure 3.2 and the actual market repo rate in Figure 3.3 during the same period. The net basis is measured in price decimals, just like the futures and cash price. We observe that, as expected, there is a pattern of convergence towards a zero basis as each contract approaches ﬁnal delivery date. We also observe that proﬁt can be obtained by selling the basis at times of approaching the delivery month, assuming that this bond remains the CTD throughout the period. If there is any change in the CTD status this will reduce or eliminate proﬁts, because then instead of the trader gaining the entire net carry basis, some or all of it will have been given up. A good way of assessing a position of being short the basis is to assume one is short of an out-of-the-money option. The maximum proﬁt is the option premium, and this is earned gradually over the term of the trade as the time value of the option decays. In this case the equivalent to the option premium is the net basis itself. As the basis converges to zero, and the futures contract approaches expiry, the net basis is gained. However, the risk is potentially high: identical to the trader who has written an option, and potentially unlimited.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dedcf6d6ddf0377ba032180fa27649a5257a77084b7b5893bd5ff42721a4fd9e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dedcf6d6ddf0377ba032180fa27649a5257a77084b7b5893bd5ff42721a4fd9e.jpg)
 Figure 3.1:  Long gilt cheapest-to-deliver bond net basis history, front month contract (CTD bond is  $6.25\%$   Treasury 2010)
 
 The same approach may be adopted when buying the basis, observing when it is historically cheap. A long position in the basis is similar to being long a call option on a bond or a bond future.
 
 An analysis of the net basis history in isolation is not necessarily sufﬁcient to formulate trade decisions however, because it would not indicate changes in the
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a544c7c6a4fde6874e1c2ea284ba49c76f771f5caf05526b2f3864cd0fe375e4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a544c7c6a4fde6874e1c2ea284ba49c76f771f5caf05526b2f3864cd0fe375e4.jpg)
 Figure 3.2:  CTD bond price histories
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac47ab873976b795c2ab68918eb79c06668d91cfea4f8276f36a5123ef98f937.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac47ab873976b795c2ab68918eb79c06668d91cfea4f8276f36a5123ef98f937.jpg)
 Figure 3.3:  Repo rates during September 2000 to September 2001
 
 status of the CTD bond. In itself, it merely tracks the net basis of the bond that is the CTD at that precise moment. A change in the CTD bond can have serious repercussions for the basis trader. A trade idea based on selling the basis of the CTD bond will be successful only if the bond remains the CTD during the term of the trade. So if a trader sells the basis, with the intention of running the trade to contract delivery, then as long as that bond remains the CTD then the entire basis is the theoretical proﬁt. If there is a change in status amongst the deliverable bonds, then this proﬁt may be reduced, wiped out or turned into a loss.
@@ -37,12 +37,12 @@ Figure 3.5 shows the historical pattern for the Sep01 contract, part of page DLV
 # 3.2 Impact of the repo rate
 
 Basis trading sounds excellent in theory but market participants also must take into account some practical issues that can complicate matters. Possibly the most important consideration is that of ﬁnancing the trade, and the speciﬁc repo rates for the bond concerned. We consider this here.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20d8c2788ffdb519c413e779fd7a20ee874b12690d4ca3cc298dd065899ca460.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20d8c2788ffdb519c413e779fd7a20ee874b12690d4ca3cc298dd065899ca460.jpg)
 
-Figure 3.4:  The CTD bond and implied repo rate, Bloomberg page HCG.  $\copyright$   Bloomberg L.P. Used with permission
+Figure 3.4:  The CTD bond and implied repo rate, Bloomberg page HCG.     Bloomberg L.P. Used with permission
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6888cbcc16456a52d66c022c21e6339ecd6f748842774648475a0badcfc53c52.jpg)
-Figure 3.5:  The historical basis and implied repo rate, Sep01 long gilt contract.  $\copyright$   Bloomberg L.P. Used with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6888cbcc16456a52d66c022c21e6339ecd6f748842774648475a0badcfc53c52.jpg)
+Figure 3.5:  The historical basis and implied repo rate, Sep01 long gilt contract.     Bloomberg L.P. Used with permission
 # 3.2.1 The repo rate
 
 A key issue, possibly  the  key issue in a basis trade involves its ﬁnancing. From our look at the size of the net basis, we know that the potential proﬁt in a basis trade is usually quite small (this being the main reason that arb it rage urs undertake basis trades in very large size,   $\S750$   million being a not uncommon nominal value). Financing a trade, whether this is a long bond position or investing the proceeds of a short sale, can have a signiﬁcant impact on its pro t ability. The trader must decide whether to ﬁx the repo ﬁnancing for the proposed term of the trade, for part of the term, or on an overnight roll basis. The ﬁnancing rate is the speciﬁc repo rate for the bond traded. For virtually all applications, the closer this speciﬁc rate is to the GC rate the better. In a long bond position the repo rate is paid, so a speciﬁc rate that is special will probably render the trade uneconomic. For a short bond position, the repo rate is being received; however if this is special it would indicate that the bond itself is probably overpriced in the cash market or in danger of being squeezed or made un deliverable, which would introduce complications.
@@ -120,9 +120,9 @@ We know that three different values measure the relationship between the current
  ‘‘low’’ basis in March can be ‘‘high’’ by June. However, the general relationship holds true.
 Therefore the IRR is a most useful measure for the basis trader because it provides an indication of a bond’s basis but unrelated to the convergence over time. It also provides ‘‘real’’ values, not relative ones, as a high IRR is high at any stage of the cycle. Similarly, a ‘‘low’’ IRR can be viewed as a true low value, irrespective of the time of the year that it is observed, or whether we are approaching a delivery period or not. When we speak of high or low values for the IRR, we mean high or low against the actual market repo rate. Figure 3.7 shows the
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2e1a9dce43be7ff944d2cd4160750bb81b0fb11d2f68557a9d9c08f46ee6955.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2e1a9dce43be7ff944d2cd4160750bb81b0fb11d2f68557a9d9c08f46ee6955.jpg)
 Figure 3.6:  Gross basis, net basis and implied repo rate for cheapest-todeliver bond   ${\it3\%}$   Treasury 2008), towards contract delivery. Source: Bloomberg
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/472737b973d42657b2ea72b4b708ce82de8acd12b861b6cdaa05fd0a9597494d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/472737b973d42657b2ea72b4b708ce82de8acd12b861b6cdaa05fd0a9597494d.jpg)
 Figure 3.7:  The CTD bond implied repo rate and speciﬁc market repo rate. Source: Bloomberg
 
 IRR for the   $9\%$   2008 bond shown in Figure 3.6, this time plotted against the speciﬁc overnight repo rate (mid-rate) for that bond.
@@ -132,8 +132,8 @@ Using the actual repo rate as a benchmark for comparison, we can check when the 
 # 3.4.2 The implied repo rate across futures contracts: Bloomberg illustration
 
 The implied repo rate for the CTD can be used in association with the actual repo rates across three contracts on Bloomberg page CBSD. This is illustrated at Figure 3.8, which calculates the swap yield spread at which the long future delivered bond is swapped into a bond that is the  new  CTD and delivered into a short future. Thus
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0f36f28c7538641b1ce7a107a84e63396b75d4f66ae8d003a3c601cf2f86f4f.jpg)
-Figure 3.8:  Bond spread valuation and implied repo rate, Sep01–Mar02 long gilt future, 24 August 2001.    $\copyright$  Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0f36f28c7538641b1ce7a107a84e63396b75d4f66ae8d003a3c601cf2f86f4f.jpg)
+Figure 3.8:  Bond spread valuation and implied repo rate, Sep01–Mar02 long gilt future, 24 August 2001.      Bloomberg L.P. Reproduced with permission
 
 this analysis can be carried out whenever the CTD for one contract is not the same as that for the next contract. The swap spread is user-deﬁned but starts off as the current yield spread between the two bonds. We see from Figure 3.8 that the ‘‘Deliver’’ bond is the CTD for each contract; the converted price is given as ‘‘Dlvy price’’.
 

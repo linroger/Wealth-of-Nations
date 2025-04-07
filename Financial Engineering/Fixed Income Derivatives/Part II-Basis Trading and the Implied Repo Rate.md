@@ -13,10 +13,10 @@ We will take a look at this, but ﬁrst let’s consider the principle behind no
 At the expiration of a futures contract, as the exchange delivery settlement price is being determined, there should be no opportunity for a market participant to generate an arbitrage proﬁt by buying bonds and selling futures; by deﬁnition, because on the last day of trading there is no uncertainty with regard to the carry costs of the bond to delivery. In fact certain exchanges arrange it so that the time between the last trading day and date for delivery is identical to the settlement   process in the cash market. On the last day, someone buying cash bonds will receive value on the same day, and with the same accrued interest, as a long future being delivered into. Thus carry cost is no longer an uncertainty and the price of the futures contract in theory must equate that of the cash bond. In other words, the basis is zero at this point.
 Consider Figure 2.2, the delivery basket for the December 2001 long gilt contract. The bonds have been priced so that they all yield   $7\%$  , the notional coupon. Under these conditions, only one futures price will satisfy the noarbitrage principle. As carry is not an issue on expiry, the no-arbitrage condition is met provided there is a zero basis for one of the deliverable bonds and no negative basis for any of the other bonds. For instance, at a futures price of 100.09, following the price factor conversion the equivalent bond price would be below the market price of the  $8\%$   Treasury 2013 (the cheapest-to-deliver bond at this level) and thus maintain a positive basis. However, for the  $6.25\%$   Treasury 2010 bond, this futures price would be equivalent to a converted bond price of 95.1443. The market price of this bond is lower than this, at 94.9685. In theory a trader can buy the bond at this price, sell the futures contract at 100.09 and realise a trading gain of 0.1758 (the difference between the two prices). This is the arbitrage proﬁt. So the initial suggested price for the futures contract is too high. At a price of 100.06 the future no longer presents an opportunity for proﬁt if buying the basis; however, in theory, selling the basis against the  $9\%$   2011 bond still generates proﬁt. The long future must accept delivery of any of the bonds in the basket however, and will not be delivered this bond. So the adjusted futures price is too low.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c317b843da4f8ec645738a36676be3f31bafd3d6ce3380dc4802d2cbdf4905d.jpg)
-Figure 2.1:  Dec01 long gilt delivery basket as at 17 September 2001.  $\copyright$  Bloomberg L.P. Reproduced with permission
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b084a5fde270603903f9883579e4c5a766ac65c3c69fa8311a22ab3e544f19fc.jpg)
-Figure 2.2:  Dec01 long gilt delivery basket with yields all set at  $7\%$  .  $\copyright$  Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c317b843da4f8ec645738a36676be3f31bafd3d6ce3380dc4802d2cbdf4905d.jpg)
+Figure 2.1:  Dec01 long gilt delivery basket as at 17 September 2001.    Bloomberg L.P. Reproduced with permission
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b084a5fde270603903f9883579e4c5a766ac65c3c69fa8311a22ab3e544f19fc.jpg)
+Figure 2.2:  Dec01 long gilt delivery basket with yields all set at  $7\%$  .    Bloomberg L.P. Reproduced with permission
 
 Hence we know that the arbitrage-free futures price lies between these two levels. In fact we obtain the no-arbitrage price by dividing the bonds’ market prices by their respective conversion factor. These are shown in Table 2.1. The prices in Table 2.1 are the futures prices at which there exists a zero basis for that particular underlying bond. We can determine this relationship easily from the deﬁnition of the basis, as shown below:
 
@@ -30,7 +30,7 @@ $$
 P_{f u t}=\frac{P_{b o n d}}{C F}
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0de8ddacebd2865a47bcdee7b8f0615f7782f9389b2bb2eed09d5a8c47d54ec7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0de8ddacebd2865a47bcdee7b8f0615f7782f9389b2bb2eed09d5a8c47d54ec7.jpg)
 Table 2.1:  December 2001 long gilt delivery basket, price at  $7\%$   notional yield level, and zero-basis futures price
 which illustrates how the deliverable bond price divided by its conversion factor is equal to the zero-basis futures price.
 
@@ -38,7 +38,7 @@ Taking this further, the futures price that would ensure that all the deliverabl
 
 The relative bias of the conversion factor is a function of the duration property of the bonds. For further information on this see Meisner and La bus ze w ski (1984) and Arak  et al  (1986).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f8538e5b00f839916cfe8f78955b3091ce189b1b5afa1f77d464dfc823a1908.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f8538e5b00f839916cfe8f78955b3091ce189b1b5afa1f77d464dfc823a1908.jpg)
 Figure 2.3:  Illustrating bias in the conversion factor, June 2000 long gilt future
 # 2.1.2 Options embedded in bond futures contracts
 
@@ -80,14 +80,14 @@ This shows the implied repo rates for delivery on the ﬁrst day of the delivery
 
 In fact our illustration is a peculiar one, because the gilt yield curve was inverted at this time. In a positively-sloped yield curve environment, higher IRRs will result for longer-term trades and the decision of the short over when to deliver is an obvious one. The other reason why the short future would prefer to delay delivery is because early delivery eliminates the value of the option element that the short future possesses. It is a bit like early exercise of an American option eliminating the option’s time value. In a negative yield curve environment the decision is not so clear cut, although early delivery still removes the short’s option advantage. However the market repo rate would need to be considerably higher than the IRRs to justify early delivery, and this was not the case here. Where the market repo rate is higher, the short future will be running a carry cost each day the basis position is maintained, so this will suggest early delivery.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ca46897fb4657fc05b3477268f2a3e635909f60dd6b550035df21bb2384e84.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1ca46897fb4657fc05b3477268f2a3e635909f60dd6b550035df21bb2384e84.jpg)
 Table 2.2:  Identifying the cheapest-to-deliver and the optimum delivery time, December 2000 long gilt basket. Source: LIFFE, JPMorgan Chase Bank
 In theory there should only be two days when the short future delivers: the start or end of the delivery month; but changes in the yield curve, a particular bond yield level, and market repo rates may make it necessary to deliver on dates in between. Consider Table 2.3, which shows the delivery pattern for the September 1996 and December 1998 long gilt contract on LIFFE. In September 1996 the gilt yield curve was conventional and positively sloping, and apart from a small handful of deliveries just prior, all deliveries were made on the last eligible day of the month. In December 1998 however, the yield curve was negatively sloping, and this is reﬂected in the pattern of deliveries. It would appear that some market participants had confused ideas, and although in general bonds were delivered early in the month, some deliveries were still being made right in to the middle of the month. This despite the fact the delivery parties would be experiencing negative carry each day they did not deliver. Essentially, this would have been a cost to all those that did not deliver on the ﬁrst day.
 
 For readers’ interest we list the delivery histories from March 1996 long gilt contract through to the June 2001 contract, in the Appendix to this book.
 
 Table 2.3:  Bond delivery patterns for two gilt futures contracts, reﬂecting the shape of the yield curve at time of delivery
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac8e85ca206a6604b7225e85dd36feb51c9d8796e639d758c5213b1ff32ed09.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cac8e85ca206a6604b7225e85dd36feb51c9d8796e639d758c5213b1ff32ed09.jpg)
 # 2.2.3 Changes in CTD status
 
 A bond may be replaced as CTD if there are changes in relative yield levels of deliverable bonds, if the shape of the yield curve changes or if speciﬁc repo rates turn special for certain bonds and not others. Benninga (2001) amongst others has identiﬁed the following general rules:

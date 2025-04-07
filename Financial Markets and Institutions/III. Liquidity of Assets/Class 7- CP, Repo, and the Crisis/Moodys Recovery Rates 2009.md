@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Moodys Recovery Rates 2009
-- Alias_34_Moodys Recovery Rates 2009.md
+- Moodys Recovery Rates 2009
+- Moodys Recovery Rates 2009. md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Moodys Recovery Rates 2009
 ---
-
-
-
-
 # Moodys Recovery Rates 2009
 
 # Corporate Default and Recovery Rates,  1920-2008

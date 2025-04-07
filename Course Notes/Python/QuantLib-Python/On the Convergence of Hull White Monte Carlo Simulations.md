@@ -180,7 +180,7 @@ axis.set_title("Descount Factor Error for $a=$%0.2f and Varying $\sigma$"%a,    
 plt.show()
 ```
 
-![](Discount_Factor_Error1.png)
+ ![500](Discount_Factor_Error1.png)
 The above plot illustrates that for $\sigma=0.01$,  the Monte-Carlo model shows good convergence,  and the convergence gradually deteriorates as $\sigma$ increases and approaches $a$.
 
 ```python
@@ -228,7 +228,7 @@ axis.set_title("Discount Factor Error for $\sigma$=%0.2f and Varying $a$"%sigma,
 plt.show()
 ```
 
-![](Discount_Factor_Error.png)
+ ![500](Discount_Factor_Error.png)
 The above plot illustrates that for $a=0.1$ the convergence of Monte-Carlo is poor,  and it gradually improves as $a$ increases more than $\sigma$.
 
 From the plots above,  we observe that the convergence is good if the ratio $\sigma/a < 1$,  and the convergence detiorates as the ratio $\sigma/a$ increases above unity. Now,  let us try to formalize this observation from the theoretical footing of the Hull-White model.
@@ -292,7 +292,7 @@ plt.title("Standard Deviation of Discount Factors "
 plt.show()
 ```
 
-![](standard_deviation_of_discount_factors%201.png)
+ ![500](standard_deviation_of_discount_factors%201.png)
 
 The plot above compares the standard deviation of the discount factors $\sigma\_D$ from the closed form expression with a Monte-Carlo estimate. The empirical estimate is in agreement with the theoretical expectation. We can estimate the value of $\sigma\_D$ for the asymptotic limit of $T\rightarrow\infty$:
 

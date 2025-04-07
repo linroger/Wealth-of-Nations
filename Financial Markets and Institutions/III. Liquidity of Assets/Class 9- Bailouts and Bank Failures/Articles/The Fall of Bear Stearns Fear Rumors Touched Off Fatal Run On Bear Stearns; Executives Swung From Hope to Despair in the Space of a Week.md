@@ -1,19 +1,15 @@
 ---
 aliases:
-- Alias_65_The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
+- The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
   Executives Swung From Hope to Despair in the Space of a Week.md
-- Example_Alias_The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear
+- The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear
   Stearns; Executives Swung From Hope to Despair in the Space of a Week
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
   Executives Swung From Hope to Despair in the Space of a Week
 ---
-
-
-
-
 # The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
 
 The 40 top Bear Stearns Cos. executives listening to Alan Schwartz over lunch had spent the morning of March 13 watching the firm's stock plunge. Rumor on Wall Street had it Bear Stearns was strapped for cash.
@@ -36,7 +32,7 @@ The brokerage's sudden fall was a stark reminder of the fragility and ferocity o
 
 Trading partners,  eager to avoid losses,  began to disappear almost as quickly. That further fueled rumors of trouble. Some partners,  spotting a chance to profit,  made bets against Bear Stearns,  helping accelerate its demise. Regulators have been investigating whether there was a coordinated effort to fan negative rumors by those betting on Bear Stearns's downfall.
 
-![](https://s.wsj.net/public/resources/images/P1-AL737_BEAR1_20080527151221.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL737_BEAR1_20080527151221.jpg)
 
 Troubles interrupt Alan Schwartz's meeting with Disney's Robert Iger.
 
@@ -76,7 +72,7 @@ There was nothing that could ease the anxiety of clients and trading partners wo
 
 Hedge funds flooded Credit Suisse Group's brokerage unit with requests to take over trades opposite Bear Stearns. In a blast email sent out that afternoon,  Credit Suisse stock and bond traders were told that all such novation requests involving Bear Stearns and any other "exceptions" to normal business required the approval of credit-risk managers.
 
-![](https://s.wsj.net/public/resources/images/P1-AL738A_BEARp_20080527202034.gif)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL738A_BEARp_20080527202034.gif)
 
 A distorted version of the directive got around to traders at other firms,  who began telling associates that Credit Suisse's internal memo warned its traders not to engage in any transactions with Bear Stearns.
 

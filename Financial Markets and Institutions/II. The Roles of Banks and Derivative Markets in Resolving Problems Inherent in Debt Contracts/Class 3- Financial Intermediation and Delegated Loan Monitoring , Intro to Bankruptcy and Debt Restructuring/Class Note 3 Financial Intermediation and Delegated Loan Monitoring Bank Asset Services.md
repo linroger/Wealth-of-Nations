@@ -1,19 +1,15 @@
 ---
 aliases:
-- Example_Alias_Class Note 3 Financial Intermediation and Delegated Loan Monitoring
+- Class Note 3 Financial Intermediation and Delegated Loan Monitoring
   Bank Asset Services
-- Alias_28_Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank
+- Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank
   Asset Services.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset
   Services
 ---
-
-
-
-
 # Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset Services
 
 This continues the discussion from class note 2.

@@ -2,12 +2,12 @@
 cssclasses: academia
 aliases:
   - Note On LBO Capital Structure
-  - Example_Alias_Note On LBO Capital Structure Module Note
-  - Alias_8_Note On LBO Capital Structure Module Note.md
+  - Note On LBO Capital Structure Module Note
+  - Note On LBO Capital Structure Module Note.md
 linter-yaml-title-alias: Note On LBO Capital Structure
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - leveragedbuyout
   - debtfinancing
   - capitalstructure
@@ -142,21 +142,21 @@ As to the historic importance of regional banks in Europe,  factors such as diff
 
 Exhibit 1
 
-![](CleanShot%202024-09-27%20-002921@2x%20copy.png)
+ ![500](CleanShot%202024-09-27%20-002921@2x%20copy.png)
 
 Exhibit 2
 
-![](CleanShot%202024-09-27%20-002922@2x.png)
+ ![500](CleanShot%202024-09-27%20-002922@2x.png)
 
 Exhibit 3:
 
-![](CleanShot%202024-09-27%20-002923@2x%20copy.png)
+ ![500](CleanShot%202024-09-27%20-002923@2x%20copy.png)
 
 Source:
 
 Exhibit 4:
 
-![](CleanShot%202024-09-27%20-002924@2x.png)
+ ![500](CleanShot%202024-09-27%20-002924@2x.png)
 
 Source:
 
@@ -166,7 +166,7 @@ British Bankers' Association,  European Banking Federation,  and Federal Reserve
 
 Exhibit 5 Leveraged Loan Breakdown by Facility,  1997–2012,  U.S. Market
 
-![](CleanShot%202024-09-27%20-002925@2x.png)
+ ![500](CleanShot%202024-09-27%20-002925@2x.png)
 
  Source:S&P Capital IQ Leveraged Commentary & Data.
 
@@ -192,7 +192,7 @@ Exhibit 8 High Yield Bonds Issuance in U.S. and Europe,  2002–2012 Source:
 
 Bloomberg
 
-![](CleanShot%202024-09-27%20-002926@2x.png)
+ ![500](CleanShot%202024-09-27%20-002926@2x.png)
 
 Exhibit 9 High Yield Bond Spread over Treasury,  1997–2012,  U.S. Market Bank of America Merrill Lynch and Federal Reserve Bank of St. Louis.
 

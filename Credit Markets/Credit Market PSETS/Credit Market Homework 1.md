@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_345_Credit Market Homework 1.md
-- Alias_348_Credit Market Homework 1.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Market Homework 1
 ---
-
-
-
 # Credit Market Homework 1
 
 ## FINM 35700 - Spring 2024
@@ -111,8 +108,6 @@ govt_symbology = bond_symbology[(bond_symbology['class'] == 'Govt')
 
 # Display govt_symbology
 display(govt_symbology.head())
-
-
 ```
 
 <div>
@@ -292,12 +287,6 @@ govt_symbology_10y.plot(x='start_date',         y='coupon',         grid=True,  
 ```
 
     <Axes: title={'center': 'US Treasury coupons by issue date (last 10 years)'},         xlabel='start_date'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_7_1.png)
 
 ## b. Historical time series of US treasury coupons
@@ -747,8 +736,6 @@ Plot a graph/scatter plot of treasury mid yields by TTM.
 
 ```python
 # Load bond_market_prices_eod
-
-
 bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
 
@@ -879,12 +866,6 @@ govt_agg.plot(x='TTM',         y='midYield',         grid=True,         style='*
 ```
 
     <Axes: title={'center': 'US Treasury Yields by TTM'},         xlabel='TTM'>
-
-
-
-
-    
-
 ![png](CreditMarketSolutions_20_1.png)
 
 ```python
@@ -1211,8 +1192,6 @@ Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',         'i
 Corp_merged = corp_merged.Merge (govt_benchmark_yields,         on='und_bench_isin')
 Corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
 display (corp_merged [['ticker',         'isin',         'figi',         'security',         'und_bench_isin',         'midYield',         'und_bench_yield',         'credit_spread']])
-
-
 ```
 
 <div>
@@ -1778,8 +1757,6 @@ Payment_convention = ql. Unadjusted
 
 # Face_value
 Face_value = 100
-
-
 # Construct the fixed_rate_bond
 Face_value = 100
 Fixed_rate_bond = ql.FixedRateBond (

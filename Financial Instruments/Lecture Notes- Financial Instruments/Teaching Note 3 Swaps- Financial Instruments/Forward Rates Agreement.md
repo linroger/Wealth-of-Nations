@@ -3,10 +3,10 @@ title: Forward Rates Agreement
 cssclasses:
   - academia
 aliases:
-  - Alias_166_Forward Rates Agreement.md
-  - Alias_167_Forward Rates Agreement.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#foreign-exchange-market"
   - "#exchange-rates"
   - "#currency-trading"

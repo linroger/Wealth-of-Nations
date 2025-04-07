@@ -18,7 +18,7 @@ Normally,  interest is not paid on foreign cash reserves,  nor on gold holdings,
 
 Reserves of SDRs,  forex and [gold](https://en.wikipedia.org/wiki/Gold_as_an_investment "Gold as an investment") in 2006
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Country_foreign_exchange_reserves_minus_external_debt.png/220px-Country_foreign_exchange_reserves_minus_external_debt.png)
+ ![500](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Country_foreign_exchange_reserves_minus_external_debt.png/220px-Country_foreign_exchange_reserves_minus_external_debt.png)
 
 Foreign exchange reserves minus external debt in 2011
 
@@ -26,7 +26,7 @@ Foreign exchange reserves are also known as reserve assets and include foreign [
 
 In a central bank's accounts,  foreign exchange reserves are called [reserve assets](https://en.wikipedia.org/wiki/Reserve_asset "Reserve asset") in the [capital account](https://en.wikipedia.org/wiki/Capital_account "Capital account") of the [balance of payments](https://en.wikipedia.org/wiki/Balance_of_payments "Balance of payments"),  and may be labeled as reserve assets under assets by functional category. In terms of financial assets classifications,  reserve assets can be classified as [gold bullion](https://en.wikipedia.org/wiki/Gold_bar "Gold bar"),  unallocated gold accounts,  special drawing rights,  currency,  reserve position in the IMF,  interbank position,  other transferable deposits,  other deposits,  [debt securities](https://en.wikipedia.org/wiki/Security_\(finance\) "Security (finance)"),  [loans](https://en.wikipedia.org/wiki/Loan "Loan"),  [stocks](https://en.wikipedia.org/wiki/Stock "Stock") (listed and unlisted),  investment fund shares and financial [derivatives](https://en.wikipedia.org/wiki/Derivative_\(finance\) "Derivative (finance)"),  such as [forward contracts](https://en.wikipedia.org/wiki/Forward_contract "Forward contract") and [options](https://en.wikipedia.org/wiki/Option_\(finance\) "Option (finance)"). There is no counterpart for reserve assets in liabilities of the International Investment Position. Usually,  when the monetary authority of a country has some kind of liability,  this will be included in other categories,  such as Other Investments.[^3] On a central bank's [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet "Balance sheet"),  foreign exchange reserves are assets,  along with domestic credit.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/COFER_2000-2019.svg/220px-COFER_2000-2019.svg.png)
+ ![500](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/COFER_2000-2019.svg/220px-COFER_2000-2019.svg.png)
 
 Currency composition of official foreign exchange reserves (2000-2019),  in trillions of U.S. dollars
 

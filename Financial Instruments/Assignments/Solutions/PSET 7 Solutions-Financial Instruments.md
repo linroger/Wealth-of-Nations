@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_153_PSET 7 Solutions-Financial Instruments.md
-- Alias_154_PSET 7 Solutions-Financial Instruments.md
+- 
+- 
 - PSET 7 SOLUTIONS
 linter-yaml-title-alias: PSET 7 SOLUTIONS
 tags:
-- tag_example
+- 
 title: PSET 7 SOLUTIONS
 ---
-
-
-
 # PSET 7 SOLUTIONS
 ## WINTER 2024
 
@@ -21,7 +18,7 @@ John Heaton
 7 1. American Options
 
 - (a) Figure (1) shows the tree for the stock price implied by the parameters.
-![](df264bf277d7bc4ab9dfe12e767d9644.png)
+ ![500](df264bf277d7bc4ab9dfe12e767d9644.png)
 Let's start with the call option. The first thing to remember is that at maturity,  T = 3,  the American option payoff will be equivalent to the payoff of a European call option:$max(S_T − K,        0)$. Given this we start working backward along the tree. For each node we compute the value to waiting,  and compare it to the value from early exercise. The value to waiting is just the discounted risk neutral valuation of the option. In general,  say we are in the node (*i,  j*) 1,  the value to waiting is
 
 $$V_{i,       j}^{w a i t}=Z(i+1)\cdot[q^{*}\cdot V_{i+1,       j}+(1-q^{*})\cdot V_{i+1,       j+1}]$$
@@ -30,10 +27,10 @@ where $Z(i + 1)$ is the value of a zero coupon bond maturing the next period and
 
 $$q^{*}={\frac{e^{r\cdot d t}-d}{u-d}}={\frac{1.02-0.91}{1.10-0.91}}=0.58$$
 Figure (2) shows the starting point for the tree needed to price the American call option.
-![](8795385da6e8054a332cf681801651a0.png)
+ ![500](8795385da6e8054a332cf681801651a0.png)
 
 Before proceeding back to period$i = 1$,  we compare the values to waiting ("wait" in the tree) with the values from early exercise. At each node the value from early exercise will be simply equal to$$C_{i,       j}^{E E}=m a x(S_{i,       j}-K)$$where EE stands for "Early Exercise." Figure (3) compares both values. As you can see,  the value to waiting is always greater than the value to early exercise,  so we the option values at period$i = 2$will be equal to the values from waiting. We then keep going backward until we reach period$i = 0$. Figure 4 displays the result. We apply the same procedure for the American put. Figure (5) shows the period$i = 2$comparison between values to waiting and values to early exercise.
-![](97212d4591459bf8b7bb76c6a6024a87.png)
+ ![500](97212d4591459bf8b7bb76c6a6024a87.png)
 
 In this case we note that$P_{33}^{wait}=15.38<P_{3.3}^{EE}=17.36$,  therefore the option value in node (3,  3) will be equal to$P_{3,       3}=P_{3,       3}^{EE}=17.36.$Going back until period$i=0$we obtain the tree shown in Figure (6). Early exercise nodes are underlined.
 
@@ -43,7 +40,7 @@ While Figure (8) reports the tree for the American put option. Again,  early exe
 
 The reason is that when stock price drops,  the benefit that we get from investing the strike price at the risk free rate are greater when the risk free rate is greater,  and this increases the benefits from early exercise. Note that at the same time,  as interest rate goes up the value of the put goes down. More in detail the value of the European put goes down by much more than the American put and this is due to the fact that the value from early exercise increases.
 
-![](af4fa979544f686ce9c72cd984392f15.png)
+ ![500](af4fa979544f686ce9c72cd984392f15.png)
 (d) When we have dividend payments the computation is a bit trickier.
 With a dividend we must worry about the drop stock price that occur as a consequence of a payment to shareholders. In other words,  dividends are the amounts of price drops. There are two ways to deal with this: change the stock price outcomes and fix the risk-neutral probabilities or change the stock price outcomes and fix the risk-neutral probabilities. The spreadsheet "HW7 Solution Question 1" provides details on both approaches. Here I outline how to do the calculation with a change in the stock price outcome.
 Since we have a proportional dividend at every period,  to compute the tree for the stock price use the following steps:
@@ -51,15 +48,15 @@ Since we have a proportional dividend at every period,  to compute the tree for 
 - (i) Start from current stock price
 - (ii) Compute the price change in the next node given the u and d parameters. This will be referred to as a pre-dividend price
 - (iii) Compute the after-dividend price by subtracting the amount of the dividends (in this case multiplying the pre-dividend price times$(1 − y_1)$,  where$y_1$is the proportional dividend paid at the end of each period)
-![](b9555bbda73a84037049b736d3e18e0c.png)
+ ![500](b9555bbda73a84037049b736d3e18e0c.png)
 - (iv) Repeat steps (ii) and (iii) until the last period We therefore have two stock prices for each period. Optimal exercise will be different for calls and puts. For calls it may be optimal to exercise right before the dividend is paid,  while for puts it may be optimal to exercise right after dividend payment. We compute the **call** payoff and value from early exercise using the **pre-dividend** stock price,  while we compute the **put** payoff and value from early exercise of the **after-dividend** price. Figure (9) shows the stock price tree. The amounts above the arrows are the pre-dividend prices (again,  used for calls) and the amounts below the arrows are the after-dividend prices (used for puts). We can now use the same procedure as above to compute the option prices,  again,  using the same risk neutral probability computed in point (1.a),  that is$p^∗ = 0.58$. Figure (10)
 shows the tree for the American call option. Early exercise nodes are underlined. Figure (11) below shows the tree for the American put option. Compared to the results from parts (1.a) and (1.c) we see that the put is now more valuable while the call is less valuable. This is expected as the effect of the dividend is to lower the stock price and the put becomes more valuable as the stock price goes down. If we compare the results only with part (1.c) we see that with low interest rate and high dividends it is optimal to exercise early the American Call,  while with no dividends and high interest rate early exercise of the put is useful.
-![](f7c89fdaa4294da77035fa2b8c387ced.png)
-![](be3bfccfdda1e78e793c0b4569bd733e.png)
-![](29a118e77df33aaa9d4ed27037d34a6a.png)
-![](1d891fea8f3f8944a962a62765d95b90.png)
-![](48f9ed99105ac33829a1dcfa648c8b48.png)
-![](956d1fac8764e5d73f4b01d44f502435.png)
+ ![500](f7c89fdaa4294da77035fa2b8c387ced.png)
+ ![500](be3bfccfdda1e78e793c0b4569bd733e.png)
+ ![500](29a118e77df33aaa9d4ed27037d34a6a.png)
+ ![500](1d891fea8f3f8944a962a62765d95b90.png)
+ ![500](48f9ed99105ac33829a1dcfa648c8b48.png)
+ ![500](956d1fac8764e5d73f4b01d44f502435.png)
 
 ## PART 2: CITIGROUP'S DEFAULT PROBABILITY DURING THE CREDIT CRISIS
 

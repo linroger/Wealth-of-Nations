@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_The Economist a Brave New World
-- Alias_68_The Economist a Brave New World.md
+- The Economist a Brave New World
+- The Economist a Brave New World.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: The Economist a Brave New World
 ---
-
-
-
-
 # The Economist a Brave New World
 ## A Brave New World
 

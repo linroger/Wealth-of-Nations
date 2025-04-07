@@ -1,15 +1,12 @@
 ---
 aliases:
 - LECTURE NOTE 8 AMERICAN OPTIONS
-- Alias_159_Teaching Note 8-American Options.md
-- Alias_160_Teaching Note 8-American Options.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Teaching Note 8-American Options
 ---
-
-
-
 # Teaching Note 8-American Options
 
 ### 1. American options
@@ -154,7 +151,7 @@ $$
 - It is only optimal to exercise an American Call at maturity,  or just before a dividend payment.
 - It is never optimal to exercise an American Put just before a dividend payment.
 - Intuitively,  consider the figures
-![](CleanShot%202024-10-02%20-003074@2x.png)
+ ![500](CleanShot%202024-10-02%20-003074@2x.png)
 - By exercising a Call at (1) instead of (2) you: (A) lose both the interest between (1) and (2),  and the right not to exercise; (B) gain nothing,  as there is no dividend between (1) and (2). It cannot be optimal.
 - By exercising a Call at (3) instead of (2) you: (A) lose both the dividend,  and the right not to exercise; (B) gain a little interest,  but small given the small interval.
 - By exercising a Put at (2) instead of (3) you: (A) lose both the dividend and the right not to exercise; (B) gain a little interest,  but small given the small interval.
@@ -180,7 +177,7 @@ $$
 - $\sigma=30\%\Longrightarrow u=e^{r\sqrt{T}}=1.34986$and
 - $q^{*}=0.4707$.
 - Consider a put option with K = 100. The European option is given by
-- ![](CleanShot%202024-10-02%20-003075@2x.png)
+-  ![500](CleanShot%202024-10-02%20-003075@2x.png)
 
 ## AMERICAN OPTION: TWO STEP TREE
 
@@ -201,7 +198,7 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 
 ## AMERICAN OPTION: TWO STEP TREE
 
-![](CleanShot%202024-10-02%20-003076@2x.png)
+ ![500](CleanShot%202024-10-02%20-003076@2x.png)
 
 ## AMERICAN OPTIONS. MULTI STEP TREES
 
@@ -217,7 +214,7 @@ $$p_{i,    j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,    j}\,    \ \ e^{-r\times 
 
 ## AMERICAN OPTIONS. MULTI STEP TREES BINOMIAL TREE MODEL
 
-![](CleanShot%202024-10-02%20-003077@2x.png)
+ ![500](CleanShot%202024-10-02%20-003077@2x.png)
 
 ## MULTI STEP TREE: DOES IT WORK?
 
@@ -230,15 +227,15 @@ $$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 
 ## MULTI STEP TREE: DOES IT WORK? BINOMIAL TREE MODEL
 
-![](CleanShot%202024-10-02%20-003078@2x.png)
+ ![500](CleanShot%202024-10-02%20-003078@2x.png)
 
-- ![](https://storage.simpletex.cn/view/ffPgGtPeGrgkGlKC3pXOd7sbSkSlBTI7u)
+-  ![500](https://storage.simpletex.cn/view/ffPgGtPeGrgkGlKC3pXOd7sbSkSlBTI7u)
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
 - Can we "dynamically replicate" an American option using a portfolio of stocks and bonds?
 - Yes! Once we solve for the optimal exercise strategy,  we have a standard option tree. - Consider the earlier example:
 
-![](https://storage.simpletex.cn/view/fniSs76T3dR8R2gYxCr02RG9gB4BAGpeC)
+ ![500](https://storage.simpletex.cn/view/fniSs76T3dR8R2gYxCr02RG9gB4BAGpeC)
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 

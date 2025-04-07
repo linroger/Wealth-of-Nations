@@ -2,10 +2,8 @@
 title: PSET 5Pharmaceuticals And Intangibles In Valuation
 cssclasses: academia
 aliases:
-  - Alias_297_PSET 5- Pharmaceuticals And Intangibles In Valuation.md
-  - Alias_294_PSET 5- Pharmaceuticals And Intangibles In Valuation.md
 tags:
-  - tag_example
+
   - "[[Week"
   - "5"
   - Pharmaceuticals

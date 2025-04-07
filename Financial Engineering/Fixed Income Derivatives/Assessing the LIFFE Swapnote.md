@@ -1,8 +1,6 @@
-# Assessing the LIFFE Swapnote
+# [[Fixed Income Derivatives/The Determinants of the Swap Spread|Assessing the LIFFE Swapnote]]
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc148469d93faa1e6cf899df4d13571821a3f502d0a0ca8118a1dab4f0380f72.jpg)
-
-
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc148469d93faa1e6cf899df4d13571821a3f502d0a0ca8118a1dab4f0380f72.jpg)
 # Standardised INTEREST-RATE SWAPS:
 
 Assessing the LIFFE Swapnote
@@ -62,12 +60,12 @@ P A Cmdty FVD  $_{<\mathrm{G}0>}$  .
 Screen FVD (see Exhibit 3) shows the market value of the Swapnote® and its conventions such as the day count and valuation date. The Swapnote® can be priced as a forward starting swap where the swaps effective date is set as the valuation date of the futures contract. The sensitivity measures from the FVD screen can be replicated by pricing a 10-year euro-denominated bond with a forward settlement date of the futures valuation date and maturity date, day count and frequency from the futures contract. Note from Exhibit 3 that a   $60/0$   notional coupon is used as the bond's fixed coupon rate. In our example we have evaluated the 10-year Swapnote®. Exhibit 4 is page 2 from the same screen, and lists the fixed coupon and forward rates at each interest fixing date. The forward rates as at
 Exhibit 2
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52560851a49d87e021fbdba90c62adaa3b869013c8167b2411d6f2afa59bc8d3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52560851a49d87e021fbdba90c62adaa3b869013c8167b2411d6f2afa59bc8d3.jpg)
 Swapnote® trading volumes Source: LIFFE. Used with permission.
 
 Bloomberg screen FVD for 10-year Swapnote ®   contract, as at September 11, 2003 Exhibit 3
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76c0b1bf139ee3f6648b1a63516273a1c839f8a598ee63e554568bf14272cc9f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76c0b1bf139ee3f6648b1a63516273a1c839f8a598ee63e554568bf14272cc9f.jpg)
 
 Source: Bloomberg L.P. Used with permission.
 each fixing date are also shown. Screen FVD assesses Swapnote® against a comparison bond. This defaults to the current 10-year German government bond, shown to be the  $3.75\%$   2013 bond. The ‘equivalent yield' shown is the notional yield to maturity of a government bond with a  $60/0$  yield priced to settle on the valuation date, and maturing exactly 10 years from the valuation date. The spread to the comparison bond is shown to be 6.59 basis points.
@@ -86,13 +84,13 @@ The underlying notional cash-flows consist of a series of fixed notional coupons
 
 We reiterate that the Swapnote® contract is essentially a forward starting swap contract that cash settles on the start/effective date of the underlying swap. Thus, a swap
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf4aada4fc70e48d0291ca8dd5a20e3e8ba7e101934f4c2c1f2392a27f955afe.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf4aada4fc70e48d0291ca8dd5a20e3e8ba7e101934f4c2c1f2392a27f955afe.jpg)
 Bloomberg screen FVD, page 2
 
 Exhibit 4 Source: Bloomberg L.P. Used with permission.
 Comparison of quoted and theoretical prices
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/360a6d6d3ab3b006708e3263f7bcf09b046171cff611b48274234c44c6854fb9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/360a6d6d3ab3b006708e3263f7bcf09b046171cff611b48274234c44c6854fb9.jpg)
 
 In Exhibits 5 and 6 we are comparing the Swapnote® settlement prices with those of the Euribor futures which settle at around the same time. The main difference between these methods of evaluating the Swapnote® is that the last method takes into account the convexity correction discussed below. Exhibit 6 illustrates pricing Swapnote® off the Eurodollar futures market using the LIFFE Swapnote® calculator, together with a convexity correction using the Kirikos & Novak equation. We look at this issue in greater detail later.
 
@@ -109,7 +107,7 @@ $$
 $$
 
 A zero coupon bond, maturing at time   $T_{e}$  , pays  $\mathrm{US}\S1$  at time   $T$   and nothing before time   $T^{10}$  . Intuitively, Equation (2) represents the price process of a risk-free security which continuously compounds in value at the rate  $r$  . We first consider the situation with discrete trading dates
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc62316b68f8006a70fd9041010d44ecbca3cc75546f54e0f1ac3373a38e6125.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc62316b68f8006a70fd9041010d44ecbca3cc75546f54e0f1ac3373a38e6125.jpg)
 
 $$
 0\,=\,t_{_0}<t_{_1}<\,\ldots\,<t_{n}=T
@@ -156,7 +154,7 @@ $$
 for an asset valued at   $V(T)$  .
 
 Exhibit 7 illustrates the arbitrage-free pricing of a fiveyear,  $6\%$   Swapnote®. The notional cash-flows are present valued to the contract trade date, summed and financed to delivery.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b15831ad57bcb53b3550e15d5c36ecfe752c22720552fe0fa9543f8ca565b9c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b15831ad57bcb53b3550e15d5c36ecfe752c22720552fe0fa9543f8ca565b9c.jpg)
 
 # Forward – future spread
 
@@ -266,7 +264,7 @@ Finally we have shown how the convexity bias adjustment can be effected by follo
 
 Choudhry, M., “Il liquidity in government bond markets and the search for alternative benchmarks”,  Department of Management Working Paper , Birkbeck, University of London 2003 Fabozzi, F.,  Valuation of Fixed Income Securities and Derivatives , 3rd Edition, John Wiley 2003 Flavell, R.,  Swaps and other Derivatives , John Wiley 2001 Hagan, P., “Convexity conundrums: Pricing CMS Swaps, Caps and Floors”  Wilmott Magazine , March 2003 pp 38-44 Hull, J.,  Options, Futures, and Other Derivatives , 4th Edition, FT Prentice Hall 2000 Kirikos, G., and Novak, D., “Convexity conundrums”  RISK , March 1997, pp 60-61 Remolona, E., Wooldridge, P., “The euro interest rate swap market”,  BIS Quarterly Review , March 2003 Shreve, S.,  Lectures on Stochastic Calculus and Financ e  (1997), available at www-2.cs.cmu.edu/\~chal./shreve.html
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36084035feb3434ff8d39b267b4cc117abd114bd59b76cf0553f883763df130c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36084035feb3434ff8d39b267b4cc117abd114bd59b76cf0553f883763df130c.jpg)
 
 Moorad Choudhry, co-founder of YieldCurve.com
 

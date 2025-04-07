@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_285_Porter's Five Forces.md
-  - Alias_288_Porter's Five Forces.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#economics"
   - "#riskanalysis"
   - "#economic-depression"
@@ -12,9 +12,6 @@ tags:
   - "#market-dynamics"
 title: Porter's Five Forces
 ---
-
-
-
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.
 
 Michael Porter provided a framework that models an industry as being influenced by five forces. The strategic business manager seeking to develop an edge over rival firms can use this model to better understand the industry context in which the firm operates.

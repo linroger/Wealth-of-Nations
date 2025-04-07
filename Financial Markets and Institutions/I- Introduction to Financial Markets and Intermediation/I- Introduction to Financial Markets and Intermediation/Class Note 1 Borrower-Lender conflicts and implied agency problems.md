@@ -1,23 +1,49 @@
 ---
-aliases:
-- Alias_104_Class Note 1 Borrower-Lender conflicts and implied agency problems.md
-- Example_Alias_Class Note 1 Borrower-Lender conflicts and implied agency problems
-tags:
-- tag_example
-- example_tag
-title: Class Note 1 Borrower-Lender conflicts and implied agency problems
+LLM-tagged: 2025-03-10T14:12:46.154Z
 ---
 
+Here is a tagged summary:
 
+**Key Takeaways**
 
+* Debt can distort capital budgeting decisions and provide perverse incentives to the firm.
+* Risky debt provides an advantage to the lender, but can lead to monitoring problems.
+* Bond covenants may not be effective in preventing bad behavior by the borrower if they are not enforceable or contain too little detail.
 
+**Question A: Reducing Bad Effects of Debt**
+
+* Bond covenants may not be sufficient to prevent bad behavior by the borrower.
+* Enforcement requires effort and monitoring, which can be difficult with many small bondholders.
+* The lender needs to have substantial bargaining power over the borrower to renegotiate contracts.
+
+**Question B: Asset Services and Their Role in Reducing Bad Effects**
+
+* Asset services of banks and other intermediaries are important because they provide a single point of contact for borrowers and lenders, making it easier to monitor and enforce contracts.
+* This can help reduce monitoring problems and make bond covenants more effective.
+
+**Question C: Why is Debt Common, Especially for Smaller Firms?**
+
+* Debt may be common for smaller firms because they have limited access to capital markets or face higher costs of borrowing.
+* Asset services of banks and other intermediaries may play a role in making debt more accessible and manageable for small firms.
+
+---
+
+---
+aliases:
+- Class Note 1 Borrower-Lender conflicts and implied agency problems.md
+- Class Note 1 Borrower-Lender conflicts and implied agency problems
+tags:
+- 
+- 
+title: Class Note 1 Borrower-Lender conflicts and implied agency problems
+---
 # Class Note 1 Borrower-Lender conflicts and implied agency problems
 
 The amount of leverage has an impact on the incentives of someone who maximizes the value of the residual equity claim. This“asset substitution theory”is a popular theory of capital structure,  but it is not too plausible for large firms. It makes the most sense for owner-managed firms,  where the manager is the stockholder. If the owner and manager differ,  one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some financial institutions that have government deposit insurance.
 The example illustrates how divided ownership of different parts of the cash flow distribution. distorts capital budgeting decisions.
 Debt holders own the lower tail of the distribution of firm value,  and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm).
 
-### 1.No debt
+### 1. No debt
 
 Two projects,  the riskier one also has a lower expected return. Each has only two possible outcomes,  one if a depression (D),  one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 
@@ -41,10 +67,9 @@ We could get fancy and use the states model to take account of the positive"beta
 Clearly,  project 1 is the best investment. An owner-managed firm with no debt would select it,  . since all require the same initial outlay.
 
  1. What about a firm with debt with face $s=600$ in place?
-	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,             thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
+	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default, thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
 
 	```latex
-
 \begin{document}
 \begin{tabular}{|c|c|c|c|}
 \hline
@@ -53,12 +78,12 @@ Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hlin
 2 & 0 & 1551 - 600 = 951 & 475.5 \\ \hline
 \end{tabular}
 \end{document}
+```
 
-```latex
-
-The levered firm would select project number 2,        despite its lower net present value,        because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,             and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P,             he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
-This does not mean that firms"want" to go bankrupt. Instead,              it is a statement about debt capacity. If the [[Leverage Ratio|leverage ratio]] gets too high,              then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,             with a lower net present value. Potential bondholders can put themselves into the owner's shoes,              and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do,              but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value,              F,              that the borrower prefers project 1?
+The levered firm would select project number 2,        despite its lower net present value,        because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail, and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P, he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
+This does not mean that firms"want" to go bankrupt. Instead, it is a statement about debt capacity. If the [[Leverage Ratio|leverage ratio]] gets too high, then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects, with a lower net present value. Potential bondholders can put themselves into the owner's shoes, and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project 1?
 The borrower's equity payoff from Project 1 and 2 with debt of face F is:
+
 ```latex
 \begin{document}
 \renewcommand{\arraystretch}{1.5} % Adjust the height for better spacing
@@ -66,10 +91,10 @@ The borrower's equity payoff from Project 1 and 2 with debt of face F is:
 \hline
 \textbf{Project} & \textbf{Condition} & \textbf{Equity Payoff} \\ \hline
 \textbf{Project 1 (Face F)} & \(F \leq 500\)  & \(\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F\) \\ \cline{2-3}
-                            & \(500 < F \leq 1500\) & \(\frac{1}{2}(1500 - F)\) \\ \cline{2-3}
-                            & \(F > 1500\)    & 0 \\ \hline
+  & \(500 < F \leq 1500\) & \(\frac{1}{2}(1500 - F)\) \\ \cline{2-3}
+  & \(F > 1500\)    & 0 \\ \hline
 \textbf{Project 2 (Face F)} & \(F < 1551\)    & \(\frac{1}{2}(1551 - F)\) \\ \cline{2-3}
-                            & \(F > 1551\)    & 0 \\ \hline
+  & \(F > 1551\)    & 0 \\ \hline
 \end{tabular}
 \end{document}
 ```

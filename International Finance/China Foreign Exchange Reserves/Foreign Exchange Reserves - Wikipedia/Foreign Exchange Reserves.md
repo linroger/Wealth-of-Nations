@@ -1,10 +1,10 @@
 ---
 cssclasses: academia
-aliases: [Example_Alias_Foreign Exchange Reserves,  Alias_107_Foreign Exchange Reserves.md]
+aliases: [Foreign Exchange Reserves,  ]
 description: Foreign exchange reserves are supplies of foreign currency held by a
   central bank.
 source: https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp
-tags: clippings,  tag_example,  example_tag
+tags: clippings,  
 title: Foreign Exchange Reserves
 ---
 

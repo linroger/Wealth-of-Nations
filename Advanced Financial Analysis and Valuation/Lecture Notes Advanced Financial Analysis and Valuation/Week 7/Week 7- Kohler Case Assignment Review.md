@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_321_Week 7- Kohler Case Assignment Review.md
-  - Alias_324_Week 7- Kohler Case Assignment Review.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#finance"
   - "#valuation-analysis"
   - "#corporate-finance"
@@ -59,13 +59,13 @@ Thomas Rauter
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1
 - Analyze Kohler Co.'S Business Mix From Exhibit 4
-![](cabcf763ba1ffa768143c8947aac57f6.png)
+ ![500](cabcf763ba1ffa768143c8947aac57f6.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1 (CONT.)
  - Analyze Kohler Co.'s business mix from Exhibit 4
-![](4a7c21f56b17c8082da2bc4269ae57ec.png)
+ ![500](4a7c21f56b17c8082da2bc4269ae57ec.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 2  - BETA CALCULATION
 
-![](62e53159d171dbd6c7ba831db6146d95.png)
+ ![500](62e53159d171dbd6c7ba831db6146d95.png)
 
 ## RISK OF DEBT TAX SHIELDS
  - Two different assumptions: Affects how you unlever and relever equity betas
@@ -83,20 +83,20 @@ $$\beta_A=\beta_E\times\left[\frac1{1+(1-T_C)^D/_E}\right]$$
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 3
 - Cost Of Equity
-![](29bca100d7530292541629532b7cea72.png)
+ ![500](29bca100d7530292541629532b7cea72.png)
 
 (a) Assumes debt beta = 0 (because leverage is not high)
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 4
 - Cost Of Debt
-![](3f1eb343074a91c4b80b07f99c42ea18.png)
+ ![500](3f1eb343074a91c4b80b07f99c42ea18.png)
 # APPROXIMATING HERBERT KOHLER'S OFFER: STEP 5
 - Wacc And Total Beta
-![](5d369ec68109e14466a2ad4a611559da.png)
+ ![500](5d369ec68109e14466a2ad4a611559da.png)
 $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i}\times\sigma_{m}\times\rho_{im}}{\sigma_{m}^{2}}=\frac{\sigma_{i}\times\rho_{im}}{\sigma_{m}}\quad+\frac{Market~\beta_{i}}{\rho_{im}}\neq\frac{\sigma_{i}}{\sigma_{m}}}$$
 ## APPROXIMATING HERBERT KOHLER'S OFFER : STEP 6
  - Changes in NWC (positive numbers are uses of cash)
-![](c95fc222d576a99c4e7bb9a3246825a5.png)
+ ![500](c95fc222d576a99c4e7bb9a3246825a5.png)
  - Note:
 	- Calculations for 1998 are for 8 months. They are for 12 months in all subsequent years
 	 - See Exhibits 3a and 6a (balance sheets) to compute the 8-month cash flows consistently
@@ -104,10 +104,10 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7 (HBS)
 - Dcf Valuation:
-![](7fdeb0495a6eadcb83fa6035e34eeb67.png)
+ ![500](7fdeb0495a6eadcb83fa6035e34eeb67.png)
 # APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7 (ADJUSTED)
 
-![](b3f47e11a9d74a50b08ae9d0341b956e.png)
+ ![500](b3f47e11a9d74a50b08ae9d0341b956e.png)
 
 ## ADJUSTMENTS TO VALUATION?
  - What discounts or premia would you apply in this situation?
@@ -115,10 +115,10 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
  - Apply minority discountand liquidity discount to arrive at Herbert Kohler's offer of $55,400 per share (using typical WACC)
-![](b4dbfdd6ea5a6b4e7b2aed6693d66ecc.png)
+ ![500](b4dbfdd6ea5a6b4e7b2aed6693d66ecc.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
  - Using total beta and adjusted WACC of 14.18% to reflect lack of diversification
-![](c0a1b1d6c2cd330b199f275b6febcec5.png)
+ ![500](c0a1b1d6c2cd330b199f275b6febcec5.png)
  - With total beta approach, a lackof marketability discount of 20% (less than on previous slide) brings value already below $55,400
  - This calculation could be viewed as the "value to Kohler"
 	- He would argue that he is not diversified
@@ -136,16 +136,16 @@ $$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i
 
 ## EXHIBIT 7B
 
-![](cf605bef455eebd1d83e2b2fda5d284e.png)
+ ![500](cf605bef455eebd1d83e2b2fda5d284e.png)
 
 ## MULTIPLES VALUATION
 
-![](d33a2e5dd9654d0d89e1267452b09e83.png)
+ ![500](d33a2e5dd9654d0d89e1267452b09e83.png)
 Applying a control premium (25%) to this number based on legal doctrine would get you close to $200K
 
 ## "DESIRED" VALUATION ADJUSTMENTS
 
-![](2dcc08fbe6d06436f8df3bf14f533134.png)
+ ![500](2dcc08fbe6d06436f8df3bf14f533134.png)
 
  - Perspective matters
 	- There are "consistent" combinations depending on the perspective
@@ -186,16 +186,16 @@ Applying a control premium (25%) to this number based on legal doctrine would ge
 ## APPENDIX
 ## HISTORICAL BALANCE SHEET
 
-![](af1c979eada81a0256fd3e62974286a3.png)
+ ![500](af1c979eada81a0256fd3e62974286a3.png)
 
 ## PROJECTED BALANCE SHEET
 
-![](bb697ab38237aab946e7e2f88dac4206.png)
+ ![500](bb697ab38237aab946e7e2f88dac4206.png)
 
 ## PROJECTED INCOME STATEMENT
 
-![](74ff61c18f338c4c3b8fc04d872d70cd.png)
+ ![500](74ff61c18f338c4c3b8fc04d872d70cd.png)
 
 ## PROJECTED CASH FLOW STATEMENTS
 
-![](2134bd6493c510ede0b6d8d5f69c440e.png)
+ ![500](2134bd6493c510ede0b6d8d5f69c440e.png)

@@ -1,23 +1,10 @@
----
-aliases: 
-tags: 
-cssclasses: academia
-title: The Balance of Payments
-Tags: balance-of-payments
-Cssclasses: academia
----
-
----
-title: The Balance of Payments
-Tags: balance-of-payments
- Cssclasses: academia
-----
+__MASK_7_4__-
 
 # The Balance of Payments
 
 # CHAPTER 2 NOTES: THE BALANCE OF PAYMENTS
 
-[[CHAPTER 2 THE BALANCE OF PAYMENTS Annotations]]
+__MASK_6_1__
 
 ## WHAT IS THE BALANCE OF PAYMENTS?
 
@@ -73,11 +60,11 @@ Settlements Balance = Current Account Balance + Balance on capital and financial
 
 **The trade balance** is also called the visible balance,  as it represents exports/imports of physically visible goods.
 
-**The [[Chapter 14- Capital Flows and the Current Account|current account]] balance** brings together the trade balance and invisible balance,  covering services trade,  investment income flows,  and unilateral transfers.
+**The __MASK_6_2__ balance** brings together the trade balance and invisible balance,  covering services trade,  investment income flows,  and unilateral transfers.
 
 **The capital and financial account** records financial and capital transactions into/out of the country,  distinguishing between private/public sector and short/long-term flows.
 
-**The settlements account** shows any transactions by the central bank,  including changes in [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) reserves and IMF borrowing/lending.
+**The settlements account** shows any transactions by the central bank,  including changes in __MASK_4_0__ reserves and IMF borrowing/lending.
 
 ## RECORDING TRANSACTIONS IN THE BALANCE OF PAYMENTS
 
@@ -91,7 +78,7 @@ There are 5 types of cross-border transactions:
 
 ## INTERPRETING KEY BALANCES
 
-**The [[Chapter 14- Capital Flows and the Current Account|current account]]** is very important - a surplus means the country earns more than it spends.
+**The __MASK_6_3__** is very important - a surplus means the country earns more than it spends.
 
 **The basic balance** was important under fixed exchange rates for bringing together stable elements. But deficits/surpluses can be benign or problematic depending on the circumstances.
 
@@ -108,19 +95,19 @@ But the NIIP is also affected by:
 - Valuation changes in external assets/liabilities (e.g. changes in stock/bond prices)
 - Exchange rate fluctuations
 
-So a country’s NIIP depends on flows ([[Chapter 14- Capital Flows and the Current Account|current account]]) and stocks (valuation/exchange rate changes).
+So a country’s NIIP depends on flows (__MASK_6_1__) and stocks (valuation/exchange rate changes).
 
 ## SOME OPEN ECONOMY IDENTITIES
 
 A key macroeconomic identity is:
 
-$$**(X - M) = (S - I) + (T - G)**$$
+__MASK_2_0__
 
-The [[Chapter 14- Capital Flows and the Current Account|current account]] balance equals private sector savings minus investment plus the government budget balance.
+The __MASK_6_2__ balance equals private sector savings minus investment plus the government budget balance.
 
-This implies a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit must be financed by private sector dissaving and/or a government budget deficit.
+This implies a __MASK_6_3__ deficit must be financed by private sector dissaving and/or a government budget deficit.
 
-There is a counterpart flow in the financial account to finance the [[Chapter 14- Capital Flows and the Current Account|current account]] imbalance.
+There is a counterpart flow in the financial account to finance the __MASK_6_4__ imbalance.
 
 ## OPEN ECONOMY MULTIPLIERS
 
@@ -163,61 +150,38 @@ The balance of payments statistics record all of the transactions between domest
 
 Each receipt of currency from residents of the rest of the world is recorded as a credit item (a plus in the accounts),  while each payment to residents of the rest of the world is recorded as a debit (a minus in the accounts).
 
-The [[Chapter 14- Capital Flows and the Current Account|current account]] items refer to income flows,  the capital and financial account records changes in the assets and liabilities of the private sector and non-central-bank public sector,  and the settlements account records any changes in assets and liabilities of the central bank.
+The __MASK_6_0__ items refer to income flows,  the capital and financial account records changes in the assets and liabilities of the private sector and non-central-bank public sector,  and the settlements account records any changes in assets and liabilities of the central bank.
 
 | |
-
 |—|
-
 |Trade Balance|
-
 |+ Exports of goods|
-
 |Imports of goods|
-
 |= Trade balance|
-
 |Current Account|
-
 |Trade Balance|
-
 |+ Exports of services|
-
 |+ Interest,  dividends and profits received|
-
 |+ Unilateral receipts|
-
 |Imports of services|
-
 |Interest,  dividends and profits paid|
-
 |Unilateral payments abroad|
-
 |= Current account balance|
-
 |Basic Balance|
-
 |Current Account Balance|
-
 |+ Balance on long term capital and financial account|
-
 |= Basic balance|
-
 |Official Settlements Balance|
-
 |Current Account Balance|
-
 |+ Balance on capital and financial account|
-
 |+ Statistical error|
-
 |= Settlements balance (opposite in sign to sum of above)|
 
 ### 2.5 AN OVERVIEW OF THE SUB-ACCOUNTS IN THE BALANCE OF PAYMENTS
 
 The trade balance
 
-The trade balance is sometimes referred to as the visible balance because it represents the difference between receipts for exports of goods and expenditure on imports of goods,  which can be visibly seen crossing frontiers. The receipts for exports are recorded as a credit in the balance of payments,  while the payment for imports is recorded as a debit. When the trade balance is in surplus,  this means that the country has earned more from its exports of goods than it has paid for its imports of goods. The [[Chapter 14- Capital Flows and the Current Account|current account]] balance is the sum of the visible trade balance and the invisible balance. The invisible balance shows the difference between revenue received for exports of services and payments made for imports of services,  such as shipping,  tourism,  insurance,  and banking. In addition,  receipts and payments of interest,  dividends,  and profits are recorded in the invisible balance because they represent the rewards for investment in overseas companies,  bonds,  and equity,  while payments reflect the rewards to foreign residents for their investment in the domestic economy. As such,  they are receipts and payments for the services of capital that earn and cost the country income,  just as do exports and imports. There is an item referred to as 'unilateral transfers' included in the invisible balance; these are payments or receipts for which there is no corresponding quid pro quo. Examples of such transactions are migrant workers' remittances to their families back home,  the payment of pensions to foreign residents,  and foreign aid. Such receipts and payments represent a redistribution of income between domestic and foreign residents. Unilateral payments can be viewed as a fall in domestic income due to payments to foreigners and so are recorded as a debit,  while unilateral receipts can be viewed as an increase in income due to receipts from foreigners and consequently are recorded as a credit.
+The trade balance is sometimes referred to as the visible balance because it represents the difference between receipts for exports of goods and expenditure on imports of goods,  which can be visibly seen crossing frontiers. The receipts for exports are recorded as a credit in the balance of payments,  while the payment for imports is recorded as a debit. When the trade balance is in surplus,  this means that the country has earned more from its exports of goods than it has paid for its imports of goods. The __MASK_6_1__ balance is the sum of the visible trade balance and the invisible balance. The invisible balance shows the difference between revenue received for exports of services and payments made for imports of services,  such as shipping,  tourism,  insurance,  and banking. In addition,  receipts and payments of interest,  dividends,  and profits are recorded in the invisible balance because they represent the rewards for investment in overseas companies,  bonds,  and equity,  while payments reflect the rewards to foreign residents for their investment in the domestic economy. As such,  they are receipts and payments for the services of capital that earn and cost the country income,  just as do exports and imports. There is an item referred to as 'unilateral transfers' included in the invisible balance; these are payments or receipts for which there is no corresponding quid pro quo. Examples of such transactions are migrant workers' remittances to their families back home,  the payment of pensions to foreign residents,  and foreign aid. Such receipts and payments represent a redistribution of income between domestic and foreign residents. Unilateral payments can be viewed as a fall in domestic income due to payments to foreigners and so are recorded as a debit,  while unilateral receipts can be viewed as an increase in income due to receipts from foreigners and consequently are recorded as a credit.
 
 The capital and financial account
 
@@ -225,7 +189,7 @@ The capital and financial account records transactions concerning the movement o
 
 Settlements balance
 
-The settlements balance shows transactions (if any occur) undertaken by the central bank. There are two key items that are recorded in the settlements account: (i) rises and falls in [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) reserves; (ii) borrowing funds or repayments of loans to international organizations such as the IMF. A central bank normally holds a stock of reserves made up of foreign currency assets,  principally US Treasury bonds (the US authorities hold mainly euro and yen Treasury bonds). Such reserves are held primarily to enable the central bank to purchase its currency should it wish to prevent it from depreciating. If a central bank intervenes in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market to purchase its currency,  then its [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) reserves fall,  and this is recorded as a plus in the settlements account. Conversely,  if a central bank intervenes in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market to sell its currency,  then its [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) reserves rise,  and this is recorded as a minus in the settlements account.
+The settlements balance shows transactions (if any occur) undertaken by the central bank. There are two key items that are recorded in the settlements account: (i) rises and falls in __MASK_4_0__ reserves; (ii) borrowing funds or repayments of loans to international organizations such as the IMF. A central bank normally holds a stock of reserves made up of foreign currency assets,  principally US Treasury bonds (the US authorities hold mainly euro and yen Treasury bonds). Such reserves are held primarily to enable the central bank to purchase its currency should it wish to prevent it from depreciating. If a central bank intervenes in the __MASK_4_1__ market to purchase its currency,  then its __MASK_4_2__ reserves fall,  and this is recorded as a plus in the settlements account. Conversely,  if a central bank intervenes in the __MASK_4_3__ market to sell its currency,  then its __MASK_4_4__ reserves rise,  and this is recorded as a minus in the settlements account.
 
 Reserves increase when the authorities have been purchasing the foreign currency because the domestic currency is strong. This implies that the other items in the balance of payments are in surplus,  so reserve increases have to be recorded as a debit to ensure overall balance. Conversely,  reserves fall when the authorities have been supporting a currency that is weak,  that is,  all other items sum to a deficit,  so reserve falls must be recorded as a plus to ensure overall balance. 
 
@@ -241,31 +205,31 @@ There are basically five types of economic transactions that can take place betw
 1. A transfer of goods or services with no corresponding quid pro quo (for example,  military and food aid).
 1. A transfer of financial assets with no corresponding quid pro quo (for example,  migrant workers' remittances to their families abroad or a money gift). 
 
-The trade account and [[Chapter 14- Capital Flows and the Current Account|current account]]
+The trade account and __MASK_6_5__
 
-Since the [[Chapter 14- Capital Flows and the Current Account|current account]] balance is concerned with both visible and invisible items,  it is generally considered to be the more important of the two accounts. What really makes a [[Chapter 14- Capital Flows and the Current Account|current account]] surplus or deficit important is that a surplus means that the country as a whole is earning more than it is spending and,  as such,  is increasing its stock of claims on the rest of the world or is reducing its indebtedness; while a deficit means that the country as a whole is spending more than it is earning and is therefore reducing its net claims on the rest of the world or is increasing its indebtedness.
+Since the __MASK_6_0__ balance is concerned with both visible and invisible items,  it is generally considered to be the more important of the two accounts. What really makes a __MASK_6_1__ surplus or deficit important is that a surplus means that the country as a whole is earning more than it is spending and,  as such,  is increasing its stock of claims on the rest of the world or is reducing its indebtedness; while a deficit means that the country as a whole is spending more than it is earning and is therefore reducing its net claims on the rest of the world or is increasing its indebtedness.
 
 The basic balance
 
-The basic balance was considered to be particularly important during the 1950s and 1960s period of fixed exchange rates because it was viewed as bringing together the stable elements in the balance of payments. It was argued that any significant change in the basic balance must be a sign of a fundamental change in the direction of the balance of payments. The more volatile elements such as short-term [[Chapter 14- Capital Flows and the Current Account|capital flows]] and changes in official reserves were regarded as below-the-line items. Although a worsening of the basic balance is supposed to be a sign of a worsening economic situation,  having an overall basic balance deficit is not necessarily a bad thing. For example,  a country may have a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit that is reinforced by a large long-term capital outflow so that the basic balance is in a large deficit. However,  the capital outflow will yield future profits,  dividends,  and interest receipts that will help to generate future surpluses on the [[Chapter 14- Capital Flows and the Current Account|current account]]. Conversely,  a surplus in the basic balance is not necessarily a good thing. A [[Chapter 14- Capital Flows and the Current Account|current account]] deficit which is more than covered by a net long-term capital inflow so that the basic balance is in surplus could be open to two interpretations. It might be argued that because the country is able to borrow over the long run,  there is nothing to worry about,  since the country is regarded as viable by those foreigners who are prepared to lend money over the long run to the country. Another interpretation could argue that the basic balance surplus is a problem because the long-term borrowing will lead to future interest,  profits,  and dividend payments which will worsen the [[Chapter 14- Capital Flows and the Current Account|current account]] deficit. 
+The basic balance was considered to be particularly important during the 1950s and 1960s period of fixed exchange rates because it was viewed as bringing together the stable elements in the balance of payments. It was argued that any significant change in the basic balance must be a sign of a fundamental change in the direction of the balance of payments. The more volatile elements such as short-term __MASK_6_2__ and changes in official reserves were regarded as below-the-line items. Although a worsening of the basic balance is supposed to be a sign of a worsening economic situation,  having an overall basic balance deficit is not necessarily a bad thing. For example,  a country may have a __MASK_6_3__ deficit that is reinforced by a large long-term capital outflow so that the basic balance is in a large deficit. However,  the capital outflow will yield future profits,  dividends,  and interest receipts that will help to generate future surpluses on the __MASK_6_4__. Conversely,  a surplus in the basic balance is not necessarily a good thing. A __MASK_6_5__ deficit which is more than covered by a net long-term capital inflow so that the basic balance is in surplus could be open to two interpretations. It might be argued that because the country is able to borrow over the long run,  there is nothing to worry about,  since the country is regarded as viable by those foreigners who are prepared to lend money over the long run to the country. Another interpretation could argue that the basic balance surplus is a problem because the long-term borrowing will lead to future interest,  profits,  and dividend payments which will worsen the __MASK_6_6__ deficit. 
 
-A country that has a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit but is a net recipient of FDI could be interpreted as a sign of confidence in the long-term prospects of the economy: the FDI will increase the country’s capital stock and future export earnings. On the other hand,  a country with a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit and net FDI outflows could be interpreted as a sign of a struggling economy in which investment opportunities lie abroad rather than at home. Some countries,  such as China,  seem to have a virtuous circle whereby a surplus in the [[Chapter 14- Capital Flows and the Current Account|current account]] and a positive net FDI inflow leads to an increase in their net exports in the future. The settlements balance
+A country that has a __MASK_6_7__ deficit but is a net recipient of FDI could be interpreted as a sign of confidence in the long-term prospects of the economy: the FDI will increase the country’s capital stock and future export earnings. On the other hand,  a country with a __MASK_6_8__ deficit and net FDI outflows could be interpreted as a sign of a struggling economy in which investment opportunities lie abroad rather than at home. Some countries,  such as China,  seem to have a virtuous circle whereby a surplus in the __MASK_6_9__ and a positive net FDI inflow leads to an increase in their net exports in the future. The settlements balance
 
-The official settlements balance focuses on the operations that the monetary authorities have to undertake to finance any combined imbalance in the sum of the [[Chapter 14- Capital Flows and the Current Account|current account]] and financial account. With the settlements concept,  the autonomous items are all the current and financial and capital account transactions including errors,  while the accommodating items are those transactions that the monetary authorities have undertaken as indicated by the settlements balance. The [[Chapter 14- Capital Flows and the Current Account|current account]] and capital account items are all regarded as being induced by independent households,  firms,  and central and local government and are regarded as the autonomous items. If the sum of the current and capital accounts is negative,  the country can be regarded as being in deficit as this has to be financed by the authorities drawing on their reserves of foreign currency,  borrowing from foreign monetary authorities,  or the IMF. The official settlements concept of a surplus or deficit is not as relevant to countries that have floating exchange rates as it is to those with fixed exchange rates. This is because if exchange rates are left to float freely,  the official settlements balance will tend to zero because the central authorities neither purchase nor sell their currency,  and so there will be no changes in their reserves. If the sales of a currency exceed the purchases,  then the currency will depreciate; if sales are less than purchases,  the currency appreciates. The settlements concept is,  however,  very important under fixed exchange rates because it shows the amount of pressure on the authorities to devalue or revalue the currency. Under a fixed exchange rate system,  a country that is running an official settlements deficit will find that sales of its currency exceed purchases,  and to avert a devaluation of the currency,  authorities have to sell reserves of foreign currency to purchase the home currency. On the other hand,  under floating exchange rates and no intervention,  the official settlements balance automatically tends to zero as the authorities do not buy or sell the home currency,  since it is left to appreciate or depreciate. Even in a fixed exchange rate regime,  the settlements concept ignores the fact that the authorities have other instruments available with which to defend the exchange rate,  such as capital controls and interest rates. Also,  it does not reveal the real threat to the domestic currency and official reserves represented by the liquid liabilities held by domestic and foreign residents that might switch suddenly out of the currency. Although in 1973 the major industrialized countries switched from a fixed to a floating exchange rate system,  many developing countries continue to peg their exchange rate to the US dollar and consequently attach much significance to the settlements balance. Indeed,  to the extent that industrialized countries continue to intervene in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market to influence the value of their currencies,  the settlements balance retains some significance,  and news about changes in the reserves of the authorities is of interest to [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) dealers as a guide to the amount of official intervention in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market. 
+The official settlements balance focuses on the operations that the monetary authorities have to undertake to finance any combined imbalance in the sum of the __MASK_6_3__ and financial account. With the settlements concept,  the autonomous items are all the current and financial and capital account transactions including errors,  while the accommodating items are those transactions that the monetary authorities have undertaken as indicated by the settlements balance. The __MASK_6_4__ and capital account items are all regarded as being induced by independent households,  firms,  and central and local government and are regarded as the autonomous items. If the sum of the current and capital accounts is negative,  the country can be regarded as being in deficit as this has to be financed by the authorities drawing on their reserves of foreign currency,  borrowing from foreign monetary authorities,  or the IMF. The official settlements concept of a surplus or deficit is not as relevant to countries that have floating exchange rates as it is to those with fixed exchange rates. This is because if exchange rates are left to float freely,  the official settlements balance will tend to zero because the central authorities neither purchase nor sell their currency,  and so there will be no changes in their reserves. If the sales of a currency exceed the purchases,  then the currency will depreciate; if sales are less than purchases,  the currency appreciates. The settlements concept is,  however,  very important under fixed exchange rates because it shows the amount of pressure on the authorities to devalue or revalue the currency. Under a fixed exchange rate system,  a country that is running an official settlements deficit will find that sales of its currency exceed purchases,  and to avert a devaluation of the currency,  authorities have to sell reserves of foreign currency to purchase the home currency. On the other hand,  under floating exchange rates and no intervention,  the official settlements balance automatically tends to zero as the authorities do not buy or sell the home currency,  since it is left to appreciate or depreciate. Even in a fixed exchange rate regime,  the settlements concept ignores the fact that the authorities have other instruments available with which to defend the exchange rate,  such as capital controls and interest rates. Also,  it does not reveal the real threat to the domestic currency and official reserves represented by the liquid liabilities held by domestic and foreign residents that might switch suddenly out of the currency. Although in 1973 the major industrialized countries switched from a fixed to a floating exchange rate system,  many developing countries continue to peg their exchange rate to the US dollar and consequently attach much significance to the settlements balance. Indeed,  to the extent that industrialized countries continue to intervene in the __MASK_4_0__ market to influence the value of their currencies,  the settlements balance retains some significance,  and news about changes in the reserves of the authorities is of interest to __MASK_4_1__ dealers as a guide to the amount of official intervention in the __MASK_4_2__ market. 
 
 ### 2.8 THE NET INTERNATIONAL INVESTMENT POSITION AND THE BALANCE OF PAYMENTS
 
-When a country invests abroad in foreign bonds,  equities,  and money market securities,  it is increasing its holding of external financial assets. On the other hand,  when foreigners purchase domestic bonds,  equities,  and domestic money market securities,  these financial investments are liabilities of the domestic residents to the foreign residents. The difference between a country’s ownership of foreign financial assets and its financial liabilities to foreign residents is known as its net international investment position (NIIP). If the external financial assets are greater than the external financial liabilities,  then the NIIP of the country will be positive,  and the country is a net creditor nation. If,  however,  the liabilities are greater than the assets,  then the NIIP of the country is negative,  and it is a net debtor. If a country runs a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit,  then this will mean it has to be financed by either selling assets to foreigners or borrowing the funds,  which will worsen its NIIP position by making it less positive or more negative,  other things being equal. On the other hand,  if a country runs a [[Chapter 14- Capital Flows and the Current Account|current account]] surplus,  then it earns more than it spends as a country and so thereby lends money to the rest of the world and/or repays debts it owes to the rest of the world,  so increasing its assets and/or decreasing its liabilities,  thus making its NIIP less negative or more positive,  other things being equal. Such a country’s [[Chapter 14- Capital Flows and the Current Account|current account]] deficit/surplus can,   over time,  have a significant impact on its NIIP position.
+When a country invests abroad in foreign bonds,  equities,  and money market securities,  it is increasing its holding of external financial assets. On the other hand,  when foreigners purchase domestic bonds,  equities,  and domestic money market securities,  these financial investments are liabilities of the domestic residents to the foreign residents. The difference between a country’s ownership of foreign financial assets and its financial liabilities to foreign residents is known as its net international investment position (NIIP). If the external financial assets are greater than the external financial liabilities,  then the NIIP of the country will be positive,  and the country is a net creditor nation. If,  however,  the liabilities are greater than the assets,  then the NIIP of the country is negative,  and it is a net debtor. If a country runs a __MASK_6_0__ deficit,  then this will mean it has to be financed by either selling assets to foreigners or borrowing the funds,  which will worsen its NIIP position by making it less positive or more negative,  other things being equal. On the other hand,  if a country runs a __MASK_6_1__ surplus,  then it earns more than it spends as a country and so thereby lends money to the rest of the world and/or repays debts it owes to the rest of the world,  so increasing its assets and/or decreasing its liabilities,  thus making its NIIP less negative or more positive,  other things being equal. Such a country’s __MASK_6_2__ deficit/surplus can,   over time,  have a significant impact on its NIIP position.
 
-However,  the NIIP is also affected by things other than the [[Chapter 14- Capital Flows and the Current Account|current account]]. One of the other major determinants is valuation changes in the external financial assets and liabilities of the country. For example,  if foreign stock markets and foreign bonds held by the domestic residents rise in value,  then the NIIP position improves,  while if they fall in value,  the NIIP deteriorates. Similarly,  a fall in the valuation of domestic financial securities held by foreign residents will improve the NIIP,  while rises in their value lead to a deterioration in the NIIP. The other factor that heavily influences the NIIP is fluctuations in the exchange rate. Consider the case of the United States. It has a negative NIIP since the value of its foreign assets measured in US dollars is less than the value of its liabilities as measured in US dollars. If the US dollar depreciates by 10%,  then its foreign assets become worth more,  measured in US dollars,  while its liabilities are not directly affected by the fall in the dollar,  and this therefore improves its NIIP,  while an appreciation reduces the value of foreign financial assets,  as measured in US dollars,  so leading to a deterioration in the US NIIP. Of course,  for foreign economies such as Japan and China,  a depreciation of the dollar will mean an appreciation of their currencies,  which reduces the value of their claims on the United States when measured in yen and renminbi,  so leading to a deterioration in their NIIP positions as measured in yen and renminbi.
+However,  the NIIP is also affected by things other than the __MASK_6_3__. One of the other major determinants is valuation changes in the external financial assets and liabilities of the country. For example,  if foreign stock markets and foreign bonds held by the domestic residents rise in value,  then the NIIP position improves,  while if they fall in value,  the NIIP deteriorates. Similarly,  a fall in the valuation of domestic financial securities held by foreign residents will improve the NIIP,  while rises in their value lead to a deterioration in the NIIP. The other factor that heavily influences the NIIP is fluctuations in the exchange rate. Consider the case of the United States. It has a negative NIIP since the value of its foreign assets measured in US dollars is less than the value of its liabilities as measured in US dollars. If the US dollar depreciates by 10%,  then its foreign assets become worth more,  measured in US dollars,  while its liabilities are not directly affected by the fall in the dollar,  and this therefore improves its NIIP,  while an appreciation reduces the value of foreign financial assets,  as measured in US dollars,  so leading to a deterioration in the US NIIP. Of course,  for foreign economies such as Japan and China,  a depreciation of the dollar will mean an appreciation of their currencies,  which reduces the value of their claims on the United States when measured in yen and renminbi,  so leading to a deterioration in their NIIP positions as measured in yen and renminbi.
 
-Countries that tend to run persistent [[Chapter 14- Capital Flows and the Current Account|current account]] surpluses such as Germany,  China,  and Japan are all creditor nations as measured by their NIIPs. This makes sense,  as countries that run persistent deficits have to finance the deficits by selling foreign assets and increasing their liabilities,  while countries that run persistent surpluses increase their foreign assets by lending and/or are able to reduce their liabilities to foreign residents.
+Countries that tend to run persistent __MASK_6_4__ surpluses such as Germany,  China,  and Japan are all creditor nations as measured by their NIIPs. This makes sense,  as countries that run persistent deficits have to finance the deficits by selling foreign assets and increasing their liabilities,  while countries that run persistent surpluses increase their foreign assets by lending and/or are able to reduce their liabilities to foreign residents.
 
-At any point in time,  the United States’ NIIP figure is affected by three factors: (1) the size of the US [[Chapter 14- Capital Flows and the Current Account|current account]] – a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit means the NIIP will worsen by the amount of the [[Chapter 14- Capital Flows and the Current Account|current account]] deficit since it needs to borrow the equivalent sum from foreign residents; (2) changes in the local currency values of US assets and liabilities,  for example,  the value of foreign stocks and bonds held by US residents (US assets) and the value of US stocks and bonds held by foreign residents (US liabilities) – if US holdings of foreign stocks and bonds rise in price more than foreign holdings of US stocks and bonds,  this helps to improve the United States’ NIIP; and (3) changes in the dollar exchange rate,  for example,  a depreciation of the dollar against the euro will raise the dollar value of US residents’ holdings of euro-denominated assets and thereby help improve the United States’ NIIP.
+At any point in time,  the United States’ NIIP figure is affected by three factors: (1) the size of the US __MASK_6_5__ – a __MASK_6_6__ deficit means the NIIP will worsen by the amount of the __MASK_6_7__ deficit since it needs to borrow the equivalent sum from foreign residents; (2) changes in the local currency values of US assets and liabilities,  for example,  the value of foreign stocks and bonds held by US residents (US assets) and the value of US stocks and bonds held by foreign residents (US liabilities) – if US holdings of foreign stocks and bonds rise in price more than foreign holdings of US stocks and bonds,  this helps to improve the United States’ NIIP; and (3) changes in the dollar exchange rate,  for example,  a depreciation of the dollar against the euro will raise the dollar value of US residents’ holdings of euro-denominated assets and thereby help improve the United States’ NIIP.
 
 Any incipient run on the dollar would be offset by foreign central banks accumulating dollar reserves in order to prevent their currencies from appreciating,  because to do otherwise would impose a loss on their countries’ international mercantile competitiveness.
 
-Several mechanisms could lead to an eventual correction of the US [[Chapter 14- Capital Flows and the Current Account|current account]] deficit: (1) a rise in real US interest rates,  which would lead to more private savings and less private investment,  with an accompanying slowdown in the US economy and net imports; (2) a depreciation of the dollar in real trade-weighted terms.
+Several mechanisms could lead to an eventual correction of the US __MASK_6_1__ deficit: (1) a rise in real US interest rates,  which would lead to more private savings and less private investment,  with an accompanying slowdown in the US economy and net imports; (2) a depreciation of the dollar in real trade-weighted terms.
 
 which over time should increase US exports and decrease imports; (3) a decrease in the US budget deficit via a mixture of tax rises and/or a decrease in government expenditure,  which would again slow the US economy and decrease imports; and (4) an increase in economic growth rates in countries and regions like Japan,  Europe,  and Asia,  which would increase the demand for US exports. One advantage that the USA does have over many other countries is that its external debt is denominated in its own currency,  unlike typical emerging market economies that often have much of their external debt denominated in foreign currencies; hence,  it can always print the money to service and redeem its debts,  for example,  US Treasury bonds held by foreign central banks. In this sense,  the USA has a large advantage over most emerging market economies: a rapid depreciation of the dollar would not increase the real cost to the United States of servicing its debt,  whereas currency crises in emerging markets leading to the depreciation of their currencies against the dollar have had major adverse consequences for many of their companies and banks that had dollar-denominated debts. There are clearly significant risks to foreign holders of US assets,  such as the Bank of Japan and the People’s Bank of China,  that have large holdings of US securities and who would suffer substantial losses if US interest rates rise and/or the dollar depreciates.
 
@@ -283,7 +247,7 @@ Where Yd is disposable income. If we denote private savings as S = Yd – C,  we
 
 (X  M) Current account balance (S  I) Netsaving/ dissaving of the private sector  (T  G)  Government deficit / surplus
 
-Equation (2.3) is an important identity: it says that a [[Chapter 14- Capital Flows and the Current Account|current account]] deficit has a counterpart in either private dissaving,  that is,  private investment exceeding private saving and/or in a government deficit,  that is,  government expenditure exceeding government taxation revenue.
+Equation (2.3) is an important identity: it says that a __MASK_6_2__ deficit has a counterpart in either private dissaving,  that is,  private investment exceeding private saving and/or in a government deficit,  that is,  government expenditure exceeding government taxation revenue.
 
 Equation (2.3) can be rearranged to yield:
 
@@ -297,9 +261,9 @@ The assumptions underlying basic multiplier analysis are: (1) both domestic pric
 
 Keynesian analysis proceeds to make assumptions concerning the determinants of the various components of national income. Government expenditure and exports are assumed to be exogenous,  government expenditure being determined independently by political decision,  and exports by foreign expenditure decisions and foreign income. We now introduce taxes into the picture. The simplest way to do this is to assume that taxes are proportional to income: T = tY
 
-where t is the marginal rate of taxation. income,  that is,  the national income less taxes,  i.e. $(1 – t)Y$
+where t is the marginal rate of taxation. income,  that is,  the national income less taxes,  i.e. __MASK_3_0__
 
-$$C = C_a + c(1–t)Y$$
+__MASK_2_0__
 
 where Ca is autonomous consumption and c is the marginal propensity to consume,  that is,  the fraction of any increase in disposable income that is spent on consumption. 
 
@@ -312,3 +276,4 @@ In a carry trade,  investors borrow money in a low-interest-rate currency and pl
 ### The IMF and credit facilities
 
 The IMF was set up with its general objective being to oversee and promote international monetary cooperation and the growth of world trade. To these ends,  one of the principal tasks of the Fund was to ensure the smooth functioning of the fixed exchange rate system – in particular,  minimizing the need for countries to devalue and revalue their currencies by providing them with credit facilities with which to finance temporary balance of payments deficits. One of the major problems envisaged with the fixed exchange rate system was that countries facing a temporary balance of payments deficit would be forced to deflate their economies if they wished to maintain their exchange rate parity. As most governments had committed themselves to the maintenance of full employment,  such a scenario was not particularly appealing. To avert this,  a credit mechanism was set up to provide support for countries facing transitory balance of payments problems. Avoidance of deflationary policies was viewed as helpful in maintaining the volume of world trade. Under the credit facility,  each member of the IMF was allocated a quota,  the size of the quota being related to its economic importance as reflected in the size of its subscription to the Fund. A country had to place one-quarter of its quota in reserve assets (mainly gold) and the remaining three-quarters in its own currency with the Fund. This gave the IMF a stock of funds which could be lent to countries facing balance of payments difficulties. A country facing difficulty could draw upon its quota should it need to do so. A country was automatically entitled to the first 25% of its quota,  known as its gold tranche,  and a further four tranches of 25%,  known as credit tranches,  which could be drawn providing the country agreed to conditions set by the IMF which became increasingly austere with each tranche that was drawn. Thus,  in total,  a country could draw a maximum of 125% of its quota. The conditions attached to the latter tranches are known as ‘IMF conditionality’ and generally constitute a set of measures designed to improve a country’s balance of payments. The IMF commenced operations in March 1947 with the total sum of initial quotas available at$8.8 billion. When drawing upon the IMF resources,  a member purchases reserve assets (usually dollars) in exchange for further deposits of its currency. The Fund decides what assets and currencies the drawing country receives on the basis of the composition of its own resources. As a rule,  any borrowing from the Fund has to be repaid over a period of three to five years. When repaying the Fund,  a country buys back its currency with foreign reserves.
+

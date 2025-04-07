@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Alias_290_BMW Valuation Multiples.md
-  - Alias_287_BMW Valuation Multiples.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - "#finance"
   - "#investmentanalysis"
   - "#corporatefinance"
@@ -11,9 +11,6 @@ tags:
   - "#valuation-metrics"
 title: BMW Valuation Multiples
 ---
-
-
-
 # BMW Valuation Multiples
 
 We consider BMW's peer companies to be Mercedes Benz Group,  Volkswagen AG,  Stellantis NV,  Ford Motor Co,  and Toyota Motor Corp. All of these firms share similar unit economics,  compete in the same markets around the globe,  and generally have a similar offering of different product lines ranging from the affordable car targeting price sensitive consumers to luxury automobiles appealing to more wealthy customers. Each of these firms moreover have a financial services operations that contribute directly and indirectly to the sale or leasing of their primary product-cars. We therefore consider any revenue or expenses incurred by the financial services business to be part of the company's core operations.

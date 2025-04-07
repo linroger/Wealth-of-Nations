@@ -106,12 +106,12 @@ To find the optimum hedge, we solve for the optimum number of calls to short. So
 
 We initially price up the digital call option and produce its payoff chart at expiry. To hedge the  digital call option we use a portfolio of long and short call options. As stated above, we price  up these options individually and show their payoff at expiry.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ecdf772e3aa4af0f53fe817b89fa413953dd96fc531b8184d280aa92fb8bc4d3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ecdf772e3aa4af0f53fe817b89fa413953dd96fc531b8184d280aa92fb8bc4d3.jpg)
 Figure 2.1 Digital Call
 
 To hedge the digital call option with strike price of 100, we use initially a short call option with  a quantity of 0.05 and long call position with quantity of 0.05. Assume the calls have market  prices as given in table below
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2e15a3eeb36d6b9070007678bb8d03a3bff2f9814cd044d111d37cb552c3c15e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2e15a3eeb36d6b9070007678bb8d03a3bff2f9814cd044d111d37cb552c3c15e.jpg)
 The cost of setting up the hedge is
 
 Hedging Cost  $=$      $-0.05\mathrm{~x~}14.42+0.05\mathrm{~x~}4.22\ \ =-0.51$  -0.05 x 14.42 + 0.05 x 4.22   = -0.51
@@ -133,14 +133,14 @@ We repeat this process but this time we use the opposite scenario for the volati
 
 The difference from both results should produce tighter price spread then what would have  been quoted for the original unhedged digital call option. To find the optimum number of calls  to sell and buy, we can use solver in excel.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24637b9c4b9db037fa269648befb29933c50788cb8447ca0e409b0d7a4b5c83b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24637b9c4b9db037fa269648befb29933c50788cb8447ca0e409b0d7a4b5c83b.jpg)
 Figure 2.2
 
 Technical Problem.
 
 Due to the copy office package currently running on my PC, the solver is NOT available and  downloading this add-in is also still causing some technical problems. See screen grab below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5105eb6ff589376f1f98b7390004f6a785796960570e9683ad0f2bfcfe1bdfc0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5105eb6ff589376f1f98b7390004f6a785796960570e9683ad0f2bfcfe1bdfc0.jpg)
 # References
 
 M. Avellaneda, A. Levy, A. Paras,  “Pricing and hedging derivative securities in markets with uncertain  vol at ili ties” , Journal of   Applied Finance, Vol 1, 1995

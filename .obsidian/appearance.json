@@ -1,18 +1,16 @@
 {
   "cssTheme": "LaTeX",
   "accentColor": "#ffc599",
-  "textFontFamily": "SF Pro Text,Latin Modern Roman,CMU Serif",
+  "textFontFamily": "Palatino,SF Pro Text,Latin Modern Roman,CMU Serif",
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
   "baseFontSize": 13,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "centered_table",
     "latex",
-    "transparent_tab_header",
     "inlineAdmonitionsPluginReadOnly",
     "table_rounded_corners",
-    "ion.min",
     "ipad",
     "sf-symbols",
     "accent-yellow",
@@ -22,9 +20,11 @@
     "safaritabs",
     "latex_tables",
     "blockquote_styling_01",
-    "latex_like_pdfs",
     "academic-pdf-export",
-    "header_size"
+    "header_size",
+    "transparent_tab_header",
+    "latex_like_pdfs",
+    "custom_latex"
   ],
   "theme": "moonstone"
 }

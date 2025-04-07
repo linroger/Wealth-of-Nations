@@ -1,18 +1,20 @@
 ---
-cssclasses: academia
-aliases: [FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS,  Alias_147_Financial Instruments Midterm Solutions 2013.md,  Alias_148_Financial Instruments Midterm Solutions 2013.md]
-linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-tags: tag_example
+cssclasses:
+  - academia
+aliases:
+  - Financial Instruments Midterm Solutions 2013
+linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
+tags: 
 title: Financial Instruments Midterm Solutions 2013
 ---
 
 ---
 
-title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+title: Financial Instruments Midterm Solutions 2013
 
-aliases: [FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS]
+aliases: [Financial Instruments Midterm Solutions 2013]
 
-linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
 
 # Financial Instruments Midterm Solutions 2013
 
@@ -33,9 +35,9 @@ linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 (d) The current price of a security is given by the expected future price of that security discounted using the risk-adjusted required rate of return. A forward contract to buy that same security locks in the price to buy the security at maturity. Since risk is eliminated,  the forward price should reflect discounting using the risk-free return. The forward price must therefore be lower than the expected future price of the security.
 > [!ANSWER]
 > Solution: False in general. This depends on the sign of the risk-premium.
-## PROBLEM 2. (20 POINTS) BINOMIAL TREES
+## PROBLEM 2. (20 POINTS) [[BINOMIAL TREES]]
 
-Suppose that stock JCH,  whose current price is$100,      can either increase by u = 1.05 or decrease by d = 1/(1.05) per year for the next 2 years.
+Suppose that stock JCH,  whose current price is$100, can either increase by u = 1.05 or decrease by d = 1/(1.05) per year for the next 2 years.
 
 The continuously-compounded interest rate is 2% per year.
 
@@ -99,12 +101,12 @@ The semiannual coupon from the offer is:$1,  290,  000 × 0.03 = 38,  700$
  The present value of the offer is:$$V_{Offer} = e−0.02×0.5 × 38,      700 + e−0.025 × [1,      290,      000 + 38,      700] = 1,      327,      745.91$$
 Since I would owe the bank less than what I would receive,  I would enter the agreement.
 ## PROBLEM 4. (**20 POINTS**)
-- Through your investment in an index fund you are currently long 1,  000
+- Through your investment in an index fund you are currently long 1,000
 units of the S&P500. In addition,  you are long a put option on the S&P500. The terms of this put option are:
 	- Underlying index: S&P500.
 	 - Current value of the S&P500:$1,  200.
 	- Number of units of the underlying index: 750.
-	- Strike price of the put option (per unit of underlying):$1,  000.
+	- Strike price of the put option (per unit of underlying):$1,000.
  - Maturity of the put option: 2 years.
 (a) (5 points) Why might you be holding the put option contract along with the S&P 500 index?
  > [!ANSWER]

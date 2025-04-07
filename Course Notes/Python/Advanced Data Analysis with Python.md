@@ -1142,7 +1142,7 @@ Joining multiple DataFrames is a common task in data analysis:
 
 ```python
 # Assuming df 1 and df 2 are two DataFrames with a common column 'id'
-Joined_df = df 1.Join (df 2,       df 1. Id == df 2. Id,       "inner")
+Joined_df = df 1. Join (df 2,       df 1. Id == df 2. Id,       "inner")
 
 ```
 
@@ -1253,14 +1253,7 @@ From sqlalchemy import create_engine
 Engine = create_engine ('sqlite:///example. Db')
 
 ```python
-
-    
-      
-    
 2.  **Create a Session:**
-    
-      
-    
     ```
 From sqlalchemy. Orm import sessionmaker
 Session = sessionmaker (bind=engine)
@@ -1289,14 +1282,7 @@ Class User (Base):
 	Age = Column (Integer)
 
 ```python
-
-    
-      
-    
 4.  **Create Tables:**
-    
-      
-    
     ```
 Base. Metadata. Create_all (engine)
 

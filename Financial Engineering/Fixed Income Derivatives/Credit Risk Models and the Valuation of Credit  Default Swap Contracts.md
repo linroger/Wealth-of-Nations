@@ -33,8 +33,6 @@ This paper surveys some of the main credit risk models within structural models 
 Appendix A & B ……….. ……………………………………………………………....44
 Appendix C……….. ………………………………………………………………….....45
 References  ……………………………………………………………………………...46
-
-
 # Credit Risk Models and Valuation of Credit Default  Swap Contract
 
 1.  Introduction.
@@ -53,15 +51,15 @@ Structural credit pricing models are based on modelling the stochastic evolution
 In the intensity models the time of default is modelled directly as the time of the first  jump of a Poisson process with random intensity. The first models of this type were  developed by Jarrow and Thurnbull (1995), Madal and Unal (1998) and Duffie and  Singleton (1997). Jarrow and Thurnbull assume default is driven by a Poisson process  with constant intensity and known payoff at default. Duffie and Singleton (1997) model  assumes the payoff when default occurs as cash, but denoted as a fraction   $(1{\cdot}q)$   of the  value of default able security just before default. This model was applied to a variety of  problems including swap credit risk, two sided credit risk and pricing credit default swap,  binary credit default swap and credit default swap option. Table 1.1 provides brief  overview on the existing credit risk model’s main advantages as well as their limitations.
 
 Table 1.1  Strengths and Drawbacks of Various Models for Default Risky Bonds and Swaps
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a7529c31313f2e0abc09d0ca6c1654598e74ad9cbaa1e6cb407e37c8d75a40d.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da24443907f805e1d6a9d7cfb0221844d43c825b922dd3287e2fef179ce82e66.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a7529c31313f2e0abc09d0ca6c1654598e74ad9cbaa1e6cb407e37c8d75a40d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da24443907f805e1d6a9d7cfb0221844d43c825b922dd3287e2fef179ce82e66.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df15e1e09f17402aa989b30db1a921f45173c2a2e4e44a68cb0b7654413b2bf9.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13917406cdc789e1fcdc2110b6a2ffbe6f2d07465861463af030cb37ac5dd8c6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df15e1e09f17402aa989b30db1a921f45173c2a2e4e44a68cb0b7654413b2bf9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13917406cdc789e1fcdc2110b6a2ffbe6f2d07465861463af030cb37ac5dd8c6.jpg)
 
 Figure 1.1 illustrates the types of credit risk models available and the focus of this paper  is the implementation of the asset value models and the intensity based models.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/26a7d2e9e72f3f9a7e9a394da499b09e0074af61d6fad66a261efb7202a2b63d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/26a7d2e9e72f3f9a7e9a394da499b09e0074af61d6fad66a261efb7202a2b63d.jpg)
 
 # 2.1  Structural Credit Risk Models.
 
@@ -74,13 +72,13 @@ $$
 $$
 Figure 2.1 shows the triggering of default as soon as the stochastic path of the firm value  crosses the default barrier which is the face value of the debt at any time between time  zero and   $T.$  . This however is an extension of Merton’s model which relaxes the  assumption of default taking place only at maturity of the debt. Under Merton’s model,  default cannot occur prior to the maturity of the debt. This means that default is only  triggered if the asset value exceeds the total outstanding debt of the firm at time  $T.$  .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13c501cb749db8475f73c2fefef5e7364c4e5f6935993fb32538925a6dd9b861.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13c501cb749db8475f73c2fefef5e7364c4e5f6935993fb32538925a6dd9b861.jpg)
 Figure 2.1
 
 The dynamics of the firm value under the probability measure   $I\mathrm{P}$    follows a geometric  Brownian motion:
 
 $$
-\begin{array}{l}{\displaystyle{\frac{d V_{t}}{V_{t}}=\mu d t\ +\ \sigma d W_{t},}\ ~~~~~~~~~~~~V_{0}\ >\ 0,}}\\ {d V_{t}=\mu V_{t}d t\ +\ \sigma V_{t}d W_{t},~~~~~~~~~~~~V_{0}\ >\ 0,}}\end{array}
+\begin{array}{l}{\displaystyle{\frac{d V_{t}}{V_{t}}=\mu d t\ +\ \sigma d W_{t},}\ V_{0}\ >\ 0,}}\\ {d V_{t}=\mu V_{t}d t\ +\ \sigma V_{t}d W_{t},V_{0}\ >\ 0,}}\end{array}
 $$
 
 Where  $\mu\varepsilon R$  is a drift parameter,   $\sigma\!>0$  , is a volatility parameter for the firm, and   $\boldsymbol{W}_{t}$   is a  standard Brownian motion. The solution for equation  $(l)$    is given by 2 :
@@ -124,7 +122,7 @@ $$
 
 The above payoff is equivalent to of a portfolio composed of a default-free loan with face  value   $K$    maturing at time   $T$    and a short European put position on the assets of the firm  with strike   $K$    and maturity   $T.$  .  The value of the equity is equivalent to the payoff of a  European call option on the assets of the firm with strike  $K$    and maturity   $T_{\ast}$  .
 Table  2.1 Payoffs at maturity
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffb7779783dfb4fd1604d5cad745cba4ef95aa91af1da6a678c8af8a2dbb0eff.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffb7779783dfb4fd1604d5cad745cba4ef95aa91af1da6a678c8af8a2dbb0eff.jpg)
 
 $$
 E_{\scriptscriptstyle T}\,=\,\operatorname*{max}(0,V_{\scriptscriptstyle T}\,-\,K),
@@ -169,7 +167,7 @@ This depends only on the leverage,   $L,$    the asset volatility   $\sigma$  , 
 
 The credit spread is the difference between the yield on the default able bond and the yield  of an equivalent default-free zero coupon bond. This is the access return demanded by  bond investors to bear the potential default losses.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b55762dfa9c791777c63625c9121401462de61a9a4698dd0c1129ea9270424e3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b55762dfa9c791777c63625c9121401462de61a9a4698dd0c1129ea9270424e3.jpg)
 Source: Bloomberg  $L P$
 
 Since the yield   $Y(t,\boldsymbol{T})$  on a bond with price   $b(t,T)$  satisfies;
@@ -318,7 +316,7 @@ Hull, Nelken and White (2203) tested whether five year credit spreads implied fr
 
 Figure 2.3   Historical 5 year CDS spread vs Credit spread for France Tel.  (2003-2005)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7af753ce05927468a1e5023a66ee246bb10c8e33fba1cf7ae49ce3c5a395442c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7af753ce05927468a1e5023a66ee246bb10c8e33fba1cf7ae49ce3c5a395442c.jpg)
 Source: Bloomberg LP. July 2005
 
 The credit spread backed out from Merton’s model is the spread between the yield on  zero-coupon bonds while the credit default swap spreads are based on spread between the  yields on par yield bonds. The authors also suggest that there may be other factors other  than those suggested by Merton’s model may affect the CDS spreads. This is similar to  the conclusion drawn from the implementation of the reduced-form models. These factors  will be discussed briefly (see section 5.4).
@@ -392,7 +390,7 @@ $$
 If we assume that there is no recovery in the event of default, the calculation of   $Q(T)$
 is relatively easy. At maturity of the corporate bond, it will either be worth zero if default  takes place or 100 (par value of the bond) with probabilities of   $Q(T)$  or   $1\!-\!Q(T)$  respectively. Lets build a two state binomial tree from period 0 and   $\mathrm{T}$  , where the  node at   $t=0$   is the present value of the corporate bond, and nodes at period   $t=T$    are the  expected payoff of the bond if default takes place or not. From the tree below, we can  derive the risk-neutral default probabilities between period zero   and   $T.$  .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62cd5c929d1d649b0171ef44a6b64075b68f2f895e0421597191f9900a41108.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62cd5c929d1d649b0171ef44a6b64075b68f2f895e0421597191f9900a41108.jpg)
 
 The value of the bond can be calculated as
 
@@ -423,7 +421,7 @@ $$
 Probability of Default assuming recovery rate  $R$  :
 
 If we use the same notation as before and suppose the expected recovery rate is   $R$  , then if  default takes place, the bondholder receives a proportion of   $R$   of the bond's no-default  value. If there is no default, the bondholder receives the face value of the bond (100).  Lets set up the same tree again but incorporate recovery rate of  $R$    this time.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a9dec81bdca629168e65a0096f3601bf78a2c3ad88fa9636115e503b0435139.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a9dec81bdca629168e65a0096f3601bf78a2c3ad88fa9636115e503b0435139.jpg)
 
 We can derive the value of the bond as
 
@@ -452,7 +450,7 @@ $$
 
 Default Free Bond 1 Default Free Bond 2 Default Free Bond 3
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/722db18e37580fa0016ab3ea0a5ae4eda62b9e556f62cff95d016b6d153a0434.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/722db18e37580fa0016ab3ea0a5ae4eda62b9e556f62cff95d016b6d153a0434.jpg)
 
 From table 1.2, we drive the risk-neutral default probability for default able bond from 1  year to 3 years using par default able and risk-free bonds with coupon payments. We use  the following notations to explain the above result 10 :
 
@@ -466,7 +464,7 @@ $$
 
 # Table 1.3
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27312e1d25d641668a61c42ccbcf6cd81fe9ee9a1b595c7845838cbfb75cb212.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27312e1d25d641668a61c42ccbcf6cd81fe9ee9a1b595c7845838cbfb75cb212.jpg)
 
 Default probability can be quantified in terms of default probability density or in terms of  hazard rate. The (risk neutral) hazard rate   $\gamma=\gamma(t)$   is defined by
 $$
@@ -662,7 +660,7 @@ Where all transition probabilities are positive and   $\boldsymbol{\mathbf{\Sigm
 
 Each of the   $q_{i j}$  probabilities represent the probability of getting from class   $i$    to class  $j$   in  one period of time. The last line in equation   $(36)$    represents the probabilities attached to  the absorbing state: the probability of leaving this state is always null and the probability  of staying in this state in 1. Once a firm is in default, it will stay in default. Estimates of  these transition probabilities can be found in the reports of credit rating agencies such as  Moody’s or Standard and Poor.
 Table 1.4   Credit rating transition matrix
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69598335d736411d4250678db0bf70cbbd3c7c892cd30614057e35913e21f9fc.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69598335d736411d4250678db0bf70cbbd3c7c892cd30614057e35913e21f9fc.jpg)
 Source:  Moody’s 2001
 
 From table 1.4,   $q_{i j}$  is the historical (“real-world”) probability of moving from credit rating  class   $i$    to class  $j$   in one year as stated above. As mentioned by Jarrow et al., nonzero  probabilities tend to concentrate on the diagonal for a 1-year transition matrix since a  movement of more than one rating class is quite improbable.
@@ -683,7 +681,7 @@ $$
 Additionally
 
 In the Jarrow and Turnbull (1995) model, default probabilities and credit derivative prices  were derived on the basis of illiquid bond prices. However, the Jarrow, Lando, and  Turnbull (1997) model replaced bond prices as the main input and apply historical  transition probabilities as the basis for their analysis. Today, many investment banks and  insurance companies apply the 1997 model and its extensions to price and hedge credit  derivatives.  Some of the short comings of this model is that asset-liability structure of a  company, is not part of the analysis (this may be argued to be the ultimate economic  reason of default). Also, interest rate process and bankruptcy process are assumed to be  independent. Jarrow, Lando and Turnbull also assume that bonds in the same credit class  have the same yield spread.  Longstaff and Schwartz (1995) pointed out that this was not  necessarily the case. Rating are also done infrequent and may not be recent enough to  reflect current counter party risk.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/326b34af9c63d3c209d74a25ff801cbd72e63d20368c4480e9cd7c61fd6cf7fb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/326b34af9c63d3c209d74a25ff801cbd72e63d20368c4480e9cd7c61fd6cf7fb.jpg)
 Figure 3.1   Credit Spread Term Structure
 
 Figure 3.1 shows the default probabilities for various credit rating classes calculated in  excel spreadsheet. See appendix A for spreadsheet used to generate one period transition  matrix.
@@ -699,7 +697,7 @@ Several papers have addressed the theoretical pricing of credit derivatives duri
 
 Figure 3.2   Payment structure of a CDS before and in the event of default
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01642fde86b6f6fe277c17671005efdc2f3911a2ca701e77b4ecd1459d330bf2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01642fde86b6f6fe277c17671005efdc2f3911a2ca701e77b4ecd1459d330bf2.jpg)
 # Notations
 
 $P(0,T)=$   Price today of a  $\S1$   risk-free discount bond maturing at time   $T$
@@ -746,11 +744,11 @@ Note: if we do not want to include accrued interest in the default claim, we set
 The variable   $S_{C D S}(T)$  is referred to as the credit default swap spread or CDS spread. The  formula at   $(4O)$     is simple and intuitive for developing an analytical approach for pricing  credit default swaps because of the assumptions used. The spread   $S_{C D S}(T)$   is the payment  per year, as a percent of notional principal for newly issued credit default swap contract.  Table 1.5 shows the market value of    $S_{C D S}(T)$   for a list of reference names. For example  the quoted CDS bid/ask spread for a maturity of 5 years for France Telecommunications  is: 38/44 basis points for bid and ask respectively.
 
 Table 1.5   CDS quotes: Telecoms and Electronics – Banco Bilbao
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3358ffb964ed7e5d44ea2a57483614a4e14cd36633c5c29883c3e1da755d36c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3358ffb964ed7e5d44ea2a57483614a4e14cd36633c5c29883c3e1da755d36c.jpg)
 Source: Bloomberg LP. July 2005
 
 To implement the above model in order to approximate the quoted market prices, one  need to link the rates observed in the credit protection market and the corporate bond  market via probabilities of default of the issuer. The input used to price the CDS contract  should be selected from a range of market observed yield curves which should include; a  curve of CDS spreads, an issuer (credit-risky) par yield curve, and default probability  curve. The assumptions based on the independence of recovery rates default probabilities  and interest rates may not hold completely in practice since high interest rates may cause  companies to experience financial difficulties and default or administration, and as a  result of this default probabilities would increase. Thus, a positive relation between  interest rates and default probabilities may be associated with high discount rates for the  CDS payoffs, and this would have the effect of reducing the CDS spread. Nevertheless,  the Hull-White approach presents a neat and intuitive approach that allows for a closedform pricing approach for credit default swap, calibrating market data.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c1f640b2718aebe319d80451734be16097d0bcad71c72ff6aed256aba5f9ff9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c1f640b2718aebe319d80451734be16097d0bcad71c72ff6aed256aba5f9ff9.jpg)
 Figure 4.1   Historical CDS for selected Telecoms reference names (2003-2005)
 
 Source: Bloomberg LP. July 2005  Reference names: British Tel. Deutsche Tel. France Tel. Nokia, Telefonica, Vodafone, Telenor
@@ -823,10 +821,10 @@ To provide some intuition about the credit default swap market, Duffie (1990) sh
 Longstaff. F.A., Mithal S. and Neis E. (2003) used credit default swap data for 5 year  contract and corresponding bond prices provided by Citigroup for 68 firms for the period  of march 2001 and October 2002. They estimated the dynamics of the intensity process  for each of the firm as well as all the intensity parameters in order to estimate default  swap prices for these firms. Their result showed wide variation in credit default swap  premia, both overtime and across firms. See table 1.6.
 
 Table 1.6  Summary Statistics for the Differences Between Model Implied and Market Credit-Default  Swap Premia.  This table reports summary statistics for the differences between the premia implied by the fitted credit  model and market premia for the indicated firms. Differences are expressed in basis points. Averages reported at the  bottom of the table are cross-sectional averages of the indicated summary statistics taken over all firms.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81728fbdfd843b5475bda6d9f1e5239d8fe376a11e926df40bd336c051b3d6d0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81728fbdfd843b5475bda6d9f1e5239d8fe376a11e926df40bd336c051b3d6d0.jpg)
 
 Table   $1.6^{15}$   shows the empirical result from Longstaff. F.A., Mithal S. and Neis E. (2003)  where summary statistics for the difference between the model implied and the market  credit default swap premia are reported.  These summary statistics include the average  differences with their associated t-statistics, the minimum and maximum values of the  difference, and the serial correlation of the difference.  One of the most striking result  from their investigation is that the average difference or pricing error is positive for all  the firms (68) in the sample. Thus, the premia implied by fitting the model to the market  prices of corporate bonds are all greater on average then the actual credit default swap  premia observed in the market. They show that all of the average differences are highly  statistically significant based on their t-statistics.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1dd1aa0974754e8b35f623611ed07b79a787923f3f8957142f119d0708a23bd7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1dd1aa0974754e8b35f623611ed07b79a787923f3f8957142f119d0708a23bd7.jpg)
 Figure 4.2   Histogram-  distribution of average premium differences across firms.
 
 These result strongly suggest that the cost of credit protection in the credit default swap  market is significantly less than the cost implied from the corporate bond prices. Because  of the cross sectional variations in the differences between implied and market premia, it  is possible that other factors may be effecting the cost of protection.
@@ -844,16 +842,16 @@ If corporate bonds are less liquid then treasury bonds, then corporate bond spre
 
 Another possible factor due to premia differences may be simply model error. That is,  some key feature of the data is being missed by the model used to estimate the implied  credit default swap premium from corporate bond prices.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/162dd4147f21b059775c76e61a2dda2a6ff81eb22d7353e21498dba01ee0ac30.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/162dd4147f21b059775c76e61a2dda2a6ff81eb22d7353e21498dba01ee0ac30.jpg)
 Figure 4.4.1   Market vs implied CDS (Enron).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6769da2987daf44e5d55cfa301b24dd8ee2f6e694ce579130254ac34a135f4fb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6769da2987daf44e5d55cfa301b24dd8ee2f6e694ce579130254ac34a135f4fb.jpg)
 Figure 4.4.2 shows Enron’s stock price between December 5, 2000 and December 7, 2001. The arrows on each plot  indicate the dates of important corporate events. Enron filed for bankruptcy on December 2 2001.
 # Asset swap spread:
 
 Market practitioners relate the cost of credit protection to the spread between corporate  yields and swap yields. The credit default swap premium is related to the asset swap  spreads, and the difference between the CDS premium and the asset swap spread is  referred to as the basis 16 .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2651a6473be5d8effed88f91a689efbae66d4eec4b03ce055c6c5d039ba435d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2651a6473be5d8effed88f91a689efbae66d4eec4b03ce055c6c5d039ba435d.jpg)
 Figure 4.5   Historical mid Asset swap spread vs CDS spread  (2003-2005) Source: Bloomberg LP. July 2005
 
 Using Bloomberg data for a single reference entity 5 year credit default swap premium,  and a mid asset swap spread from the reference obligation of the credit default swap  contract, figure 4.5 show significant difference in basis point. This result is also  consistent with the result reported by Longstaff. F.A., Mithal S. and Neis E. (2003).
@@ -883,7 +881,7 @@ We use a simple binomial tree where the premium is paid at the end of default pe
 
 Figure 6.1 Discrete time binomial model
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2eac892c914ca188a9340d5e27709de2a640bc0276a8c8ea4a32a7805541d8f0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2eac892c914ca188a9340d5e27709de2a640bc0276a8c8ea4a32a7805541d8f0.jpg)
 The present value of the default swap premium payments from figure 6.1 is given by:
 
 $$
@@ -943,18 +941,18 @@ If one is interested in pricing a firm’s risky debt or related credit derivati
 # 8 .1  Conclusion
 
 This paper introduces the existing credit risk models and their applications to price the  premiums in credit default swaps (CDS) contract. Both structural and reduced-form  models such as Merton’s model and extensions as well as intensity based models are  introduced. we examined the difference between model generated CDS prices using both  Merton’s model and intensity based model such as the model proposed by Duffie and  Singleton. according to Longstaff. F.A., Mithal S. and Neis E. (2003) , there is a clear  evidence that the implied cost of credit protection is significantly higher in the corporate   bond market for all the firms they used in their sample.  Possible explanations for the  higher cost of credit protection implied by corporate bonds could be due to number of  factors including tax issues, liquidity issues, asset pricing, the cost of shorting corporate  bonds, or model error due to missing out relevant data.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9640afa76b23071253719893c467a2e82305ad9467948bdaf0ef9abca234c96.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9640afa76b23071253719893c467a2e82305ad9467948bdaf0ef9abca234c96.jpg)
 The result on the spreads are generated using VBA code which we omit from this text due to the length of  the code.
 
 # Appendix B
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52f812265849754590cfff5d1d2108a033592b108c20681acfde5d48de8cf128.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52f812265849754590cfff5d1d2108a033592b108c20681acfde5d48de8cf128.jpg)
 Appendix C 18
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82f0a3b63f0f9ba6c7495af6bc747176da14ab6afe3b4da924b31081bcaf20a3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82f0a3b63f0f9ba6c7495af6bc747176da14ab6afe3b4da924b31081bcaf20a3.jpg)
 Banks AAA - Default Probability from recovery of  $0\%-.9\%$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c83210fd5b0e498172a66ea3e169a77303559ef4154f251f429c3420c7eb25d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c83210fd5b0e498172a66ea3e169a77303559ef4154f251f429c3420c7eb25d.jpg)
 # References
 
 Ali, A., (2004)  “Credit Risk Modelling: An introduction to credit risk modeling.” Risk  International. Published by Risk magazine.

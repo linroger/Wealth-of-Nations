@@ -3,12 +3,12 @@ cssclasses:
   - academia
 aliases:
   - Greece Faces Bond-Swap Holdouts
-  - Example_Alias_Greece Faces Bond Swap Holdouts
-  - Alias_3_Greece Faces Bond Swap Holdouts.md
+  - Greece Faces Bond Swap Holdouts
+  - Greece Faces Bond Swap Holdouts.md
 linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - debt-restructuring
   - bond-swap
   - Greece

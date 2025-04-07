@@ -3,10 +3,10 @@ title: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 cssclasses:
   - academia
 aliases:
-  - Alias_303_JP Morgan Deep Discount Retail Sector Report.md
-  - Alias_300_JP Morgan Deep Discount Retail Sector Report.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - case-studies
   - retail-analysis
   - dollar-stores

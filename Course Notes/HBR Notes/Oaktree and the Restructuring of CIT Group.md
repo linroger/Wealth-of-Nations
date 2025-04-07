@@ -3,8 +3,8 @@ cssclasses:
   - academia
 Owner: RRoger Lin
 aliases:
-  - Alias_126_Oaktree and the Restructuring of CIT Group.md
-  - Example_Alias_Oaktree and the Restructuring of CIT Group
+  - 
+  - Oaktree and the Restructuring of CIT Group
   - Restructuring
 tags:
   - Case-Studies
@@ -12,12 +12,12 @@ tags:
   - debt-management
   - debt-management-strategies
   - distressed-debt
-  - example_tag
+  - 
   - finance
   - financial-crises
   - quantitative-finance
   - restructuring-strategies
-  - tag_example
+
 title: Oaktree and the Restructuring of CIT Group
 ---
 

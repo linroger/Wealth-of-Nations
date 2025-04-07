@@ -1,6 +1,6 @@
-# Introduction to the Mathematics of Fixed Income Pricing  
+# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]] to the Mathematics of Fixed Income Pricing  
   
-# Introduction  
+# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  
 
 Powerfully built techniques for handling the dynamics and calculus of stochastic variables  such as interest rates have been developed over the last few decades. In this section we  introduce the fundamentals of mathematical finance with respect to fixed income pricing.  An extended and through discussion of the content of this section can be found in  Choudhry (2004).  
 
@@ -20,10 +20,10 @@ To begin we need to state the following sets of assumptions, generally adopted f
 
 The main prerequisite of mathematical finance that is imperative in understanding fixed  income are risk neutral valuation and arbitrage pricing theory. In this introduction we will  establish the probabilistic setting in which these concepts are formulated.  
 
-As stated in Musiela and Rutkowski (1998), an economy is a family of filtered space   $\{\!\!\left(\varOmega,I,\mu\right)\!\!:\mu\in P\!\right\}^{2}$  , where the filtration satisfies the usual conditions 3 , and  $\pmb{P}$    is a collection  4 of mutually equivalent probability measures on the measurable space.   We model the  subjective market uncertainty of each investor by associating to each investor a probability  measure from   $\pmb{P}$  . Investors with more risky tolerance will be represented by probability  measures that weight unfavourable events relatively lower, whereas conservatives investors  are characterized by probability measures that weight unfavourable relatively higher.  Moreover, it is assumed that investment information is revealed to each investor  simultaneously as events in the filtration.  
+As stated in Musiela and Rutkowski (1998), an economy is a family of filtered space   $\{\!\!\left(\varOmega,I,\mu\right)\!\!:\mu\in P\!\right\}^{2}$  , where the filtration satisfies the usual conditions 3 , and  $\textdollar{P}$    is a collection  4 of mutually equivalent probability measures on the measurable space.   We model the  subjective market uncertainty of each investor by associating to each investor a probability  measure from   $\textdollar{P}$  . Investors with more risky tolerance will be represented by probability  measures that weight unfavourable events relatively lower, whereas conservatives investors  are characterized by probability measures that weight unfavourable relatively higher.  Moreover, it is assumed that investment information is revealed to each investor  simultaneously as events in the filtration.  
 
-Since the measures in  $\pmb{P}$   are mutually equivalent, the investors agree on the events that have  and have not occurred. We refer the reader to Neftci (2000) for an excellent example of this.  It is convenient to further assume that investors initially have no other information, that is,  the filtration is trivial with respect to each probability measure in   $\pmb{P}$  . This assumption  asserts that the initial information available to investors is objective.  
-The foundation of a working knowledge of fixed income finance rests on an understanding  of the inherent relationship between the various interest rates and bonds. Consider the  economy   $\{\!(\varOmega,I,\mu)\!:\!\mu\in\bar{P}\!\}$   on the interval   $[0,T]$   and a Markov process   5      $X_{t}$      $I\equiv\sigma\big(X_{:0\leq s\leq t}\big)$  6 with . Implicit in this statement is the assumption that the state variable   probability   ${\cal P}\equiv{\cal P}^{X}$   associated with   $\boldsymbol{X}_{t}$    belongs to  $\pmb{P}$   for some fixed elements  $\mathrm{X}$   of the state  space  $\boldsymbol{X}_{t}$   .  
+Since the measures in  $\textdollar{P}$   are mutually equivalent, the investors agree on the events that have  and have not occurred. We refer the reader to Neftci (2000) for an excellent example of this.  It is convenient to further assume that investors initially have no other information, that is,  the filtration is trivial with respect to each probability measure in   $\textdollar{P}$  . This assumption  asserts that the initial information available to investors is objective.  
+The foundation of a working knowledge of fixed income finance rests on an understanding  of the inherent relationship between the various interest rates and bonds. Consider the  economy   $\{\!(\varOmega,I,\mu)\!:\!\mu\in\bar{P}\!\}$   on the interval   $[0,T]$   and a Markov process   5      $X_{t}$      $I\equiv\sigma\big(X_{:0\leq s\leq t}\big)$  6 with . Implicit in this statement is the assumption that the state variable   probability   ${\cal P}\equiv{\cal P}^{X}$   associated with   $\boldsymbol{X}_{t}$    belongs to  $\textdollar{P}$   for some fixed elements  $\mathrm{X}$   of the state  space  $\boldsymbol{X}_{t}$   .  
 
 Setting the scene further, a zero coupon or discount bond of maturity    $T$   is a security that  pays the holder one unit of currency at time   $T.$  . The prices of government and corporate  discount bonds at time   $t\leq T$   are denoted   $B(t,\boldsymbol{T})$   and   $\widetilde{B}(t,T)$   respectively. The local  expectation hypothesis (L-EH) relates the discount bond to the instantaneous interest rate,  or the spot rate for borrowing of the loan over the time interval  $\left[t,t+d t\right]$  .  
 
@@ -44,7 +44,7 @@ $$
 $$  
 Under the assumption of no arbitrage, it can be shown that above equation holds under the  8 risk neutral measure.   Naturally as similar relationship holds between the risky bond and  the risky spot rate.  
 
-# Bond pricing  
+# [[1. DeterministicCashFlows#2 Fixed Income Securities|Bond pricing]]  
 
 9  ${'}B_{t}$  The process   $B_{t}$   is referred to as an accumulation factor or savings account.  represents  the price of a riskless security that continuously compounds at the spot rate. More precisely  it is the amount of cash at time  $t$   that accumulates by investing   $\S1$   initially, and continually  rolling over a bond with an infinitesimal time to maturity. See Musiela and Rutkowski  (1998) page 268 for more detail on this.  
 
@@ -67,7 +67,7 @@ $$
 A similar relationship holds for the risky coupon bond.  
 
 However  the  coupons  are  typically  structured  by  setting  $c_{i}=c$    for   $\mathbf{i}=l,...,n-l$    and  $\mathtt{c_{n}}=N+c$  , where  $N$  is the principal or face value, and   $c$   is  a fixed amount that is generally quoted as a percentage of   $N$  called the coupon rate. A  problem that arises in comparing coupon bonds is that uncertainty about the rate at which  the coupons will be reinvested causes uncertainty in the total return of the coupon bond.  Hence, coupon bonds of different coupon rates and payment dates are not directly  comparable. The standard way to overcome this problem is to extend the notion of a yield  to maturity to coupon bearing bonds.  
-# Yield to Maturity (YTM)  
+# [[1. DeterministicCashFlows#2.2 Yield-To-Maturity|Yield to Maturity (YTM)]]  
 
 In Musiela and Rutkowski (1998) the continuously compounded riskless yield to maturity   $Y_{c}(t)=Y_{c}(t;c_{_I},...,c_{_n}.T_{_I},...,T_{_n})$   is derived as the unique exposition to the equation  
 
@@ -77,7 +77,7 @@ $$
 
 and stands for the total return on the coupon bond under the assumption that each of the  coupon payments occurring after  $t$   is reinvested at the rate  $Y_{c}(t)$  . The risky yield to maturity  is defined in a similar fashion.  
 
-# Expectation Hypothesis  
+# [[1. DeterministicCashFlows#3.2 Term Structure Explanations|Expectation Hypothesis]]  
 
 There are number of excellent textbooks that the reader is encouraged to read which  provides the necessary background, in particular Ingersoll (1987) and Choudhry (2004).  
 
@@ -125,7 +125,7 @@ $$
 
 provided that this derivation exists!  
 
-Therefore the YTM-EH asserts that the forward rate is an unbiased estimate of the spot rate  under the state variable probability measure   $\pmb{P}$  . See Choudhry (2004) chapter 2, equation  (2.18). For the relationship between the spot and forward rate we refer the reader to read  further in chapter 3 of Choudhry (2004).  
+Therefore the YTM-EH asserts that the forward rate is an unbiased estimate of the spot rate  under the state variable probability measure   $\textdollar{P}$  . See Choudhry (2004) chapter 2, equation  (2.18). For the relationship between the spot and forward rate we refer the reader to read  further in chapter 3 of Choudhry (2004).  
 
 # 11 Review of Arbitrage Pricing Theory  
 

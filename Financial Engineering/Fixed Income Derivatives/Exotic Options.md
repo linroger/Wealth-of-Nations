@@ -1,6 +1,6 @@
-# Exotic Options
+# [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]
 
-## Exotic Options:  Pricing Path-Dependent single Barrier Option contracts
+## [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]:  Pricing Path-Dependent single Barrier Option contracts
 
 # Abstract
 
@@ -483,7 +483,7 @@ $$
 \begin{array}{l}{{\tilde{X}(t)=X(t)\mathrm{~for~}t<T_{b}}}\\ {{=2b-X(t)\mathrm{~for~}t>T_{b}}}\end{array}
 $$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d584fb2d9a995e0f2b94aa7f74fa74d66cebeec668eac7baf3adfb78b7098aab.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d584fb2d9a995e0f2b94aa7f74fa74d66cebeec668eac7baf3adfb78b7098aab.jpg)
 Simulated asset  price
 
 Figure 1.1   Simulated asset prices with a fixed barrier level of 115.
@@ -824,7 +824,7 @@ $\begin{array}{l}{\mathrm{S}(0)=110}\\ {\mathrm{K}=100}\end{array}$  S(0) = 110
 
   $\mathrm{T}=0.2$   year, which represents roughly 50 trading days.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/992b65514f92c573f6597136b196daf1386a6162fc0bbb87373e6079d4d1fc32.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/992b65514f92c573f6597136b196daf1386a6162fc0bbb87373e6079d4d1fc32.jpg)
 # References
 
 Broadie, M., Glasserman, P. and Kou, S G. (1997), “A continuous correction for  discrete barrier options”,  Math. Finance   7 , pp. 325-349

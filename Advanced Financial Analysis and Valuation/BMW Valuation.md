@@ -1,9 +1,6 @@
 ---
-aliases:
-  - Alias_283_BMW Valuation.md
-  - Alias_286_BMW Valuation.md
+aliases: []
 tags:
-  - tag_example
   - "#finance"
   - "#investmentanalysis"
   - "#financialanalysis"
@@ -11,6 +8,8 @@ tags:
   - "#automotive-industry"
   - "#peer-comparison"
   - "#financial-metrics"
+cssclasses:
+  - academia
 ---
 
 We consider BMW'

@@ -1,16 +1,53 @@
 ---
+LLM-tagged: 2025-03-10T14:13:25.958Z
+---
+
+Here is a tagged summary:
+
+**Key Points**
+
+1. **Credit Derivatives Market**: The credit derivatives market skyrocketed in 2000-2008, driven by the proliferation of credit default swaps (CDS).
+2. **Single Name CDS**: A single name CDS is an insurance contract where the investor pays interest on a notional amount to the protection seller until maturity or the default of the reference entity.
+3. **CDS Spread**: The CDS spread captures important information about the likelihood of survival of individual companies, and can be used to assess credit risk.
+4. **Merton's Model**: Merton's model is a mathematical framework for calculating credit spreads, but it is not commonly used in practice due to its complexity and the fact that underlying bonds are not zero-coupon.
+
+**Key Concepts**
+
+1. **Credit Default Swap (CDS)**: A security whose payoff depends on a "credit event", such as default or change in credit rating.
+2. **Notional Amount**: The amount on which interest is paid by the protection buyer to the protection seller.
+3. **Protection Buyer and Seller**: Two parties that enter into a CDS contract, with the buyer seeking protection against default and the seller selling insurance against default.
+4. **Credit Spread Formula**: A formula used to calculate credit spreads, but not commonly used in practice due to its complexity.
+
+**Key Applications**
+
+1. **Corporate Risk Management**: Companies use CDS to manage their assets and liabilities, reducing their exposure to credit risk.
+2. **Investment Banking**: Banks use CDS to assess credit risk and price securities.
+3. **Market Liquidity**: The CDS market provides liquidity for investors seeking protection against default.
+
+**Key Challenges**
+
+1. **Model Risk**: The complexity of credit models used in the CDS market can lead to errors and biases.
+2. **Liquidity Risk**: The lack of liquidity in the CDS market can make it difficult for buyers and sellers to trade.
+3. **Counterparty Risk**: The risk that the protection seller will default on their obligations, causing losses for the buyer.
+
+**Key Trends**
+
+1. **Increased Use of CDS**: The use of CDS has increased as companies seek to manage their credit risk.
+2. **Growing Importance of Credit Spreads**: Credit spreads have become an important tool for assessing credit risk and pricing securities.
+3. **Regulatory Scrutiny**: Regulatory bodies have taken steps to increase oversight and transparency in the CDS market.
+
+---
+
+---
 aliases:
-- Alias_161_Lecture Notes 9- Corporate Securities And Credit Derivatives.md
-- Alias_160_Lecture Notes 9- Corporate Securities And Credit Derivatives.md
+- Lecture Notes 9- Corporate Securities And Credit Derivatives.md
+- Lecture Notes 9- Corporate Securities And Credit Derivatives.md
 - LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
 linter-yaml-title-alias: LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
 tags:
-- tag_example
+- 
 title: LECTURE NOTES 9 CORPORATE SECURITIES AND CREDIT DERIVATIVES
 ---
-
-
-
 # Lecture Notes 9- Corporate Securities And Credit Derivatives
 
 [Teaching Note 8-American Options](Teaching%20Note%208-American%20Options.md)
@@ -66,7 +103,7 @@ $${\mathrm{Volatility~of~Equity~Returns}}=\sigma_{E}=\left({\frac{V N(d_{1})}{V 
 - Since equity E = Call (V,  F) is strictly increasing in V,  we have then that when EV decreases its volatility increases.
 	- This is called "Leverage effect" and it was first noticed by Fisher Black.
 - =⇒ The model generates time varying volatility correlated with the value of equity: When equity drop,  volatility increases.
-![](12cfba8371.png)
+ ![500](12cfba8371.png)
 ## THE MERTON MODEL - THE VALUE OF DEBT
 - What is the value of defaultable debt in the model? - The payoff to debt holders is
 $$\operatorname*{min}\left(V_{T},   F\right)=V_{T}-\operatorname*{max}\left(V_{T}-F\right)$$
@@ -86,7 +123,7 @@ $$\mathrm{Credit~Spread}=y-r=-{\frac{1}{T}}l o g\left[1-e^{r\times T}P u t\left(
 
 ## CREDIT SPREADS UNDER THE MERTON MODEL
 
-![](09041a570db092105c83be0bc0ac774a.png)
+ ![500](09041a570db092105c83be0bc0ac774a.png)
 
 - Issues:
 	- (A) They are small;
@@ -119,10 +156,10 @@ $$\begin{aligned}D_{S}~&=~V-BSC\left(V,   F_S,   r,   T,   \sigma\right)\\D_{J}~
 
 ## RELATIVE PRICING OF JUNIOR AND SENIOR DEBT
 
-![](7935c5954a066958614775deb9b08ecb.png)
+ ![500](7935c5954a066958614775deb9b08ecb.png)
 
 - Given these relationships,  we can also look at the relationship between$D_J$and$D_S$
-- ![](30a7c497b3d3ab02dc13c8491d0c237a.png)
+-  ![500](30a7c497b3d3ab02dc13c8491d0c237a.png)
 - This gives a measure of how Senior and Junior debt should be related.
 - It could help spotting misallignments of the two debt values.
 
@@ -174,14 +211,14 @@ conflict between equity holders and debt holders.
 - How can we compute the probability of default of a particular bond or entity?
 - Credit rating agencies provide credit rating to bonds,  which provide (their) assessment of their probability of default.
 - For instance,  the following table is from Standard and Poor. This is called the transition matrix
-	- ![](97d8406b7652c7fe3d3c5b719077d097.png)
+	-  ![500](97d8406b7652c7fe3d3c5b719077d097.png)
 - For instance,  a BBB rated company has a probability % to move to AAA,  % to AA,  6.5% to A,  84.27% to remain at BBB,  6% to move to BB,  etc.
 
 ## CREDIT RISK MEASUREMENT: KMV
 - KMV argues that credit ratings did not tell the whole story (they said so way before the crisis).
 	- e.g. Bonds in the same credit rating class show different probabilities of default
 - They use Merton’s model to compute the probabilities of default:
-![](c399d2f24f626a4be0e259a5964c585c.png)
+ ![500](c399d2f24f626a4be0e259a5964c585c.png)
 
 - More specifically,  they obtain
 	- Expected Default Frequency (EDF)$=$$p_{T}=\Pr\left[V_{T}<F|V_{0}\right]=N\left(-d_{2}\right)$
@@ -214,11 +251,11 @@ $$E_{0}~=~\mathrm{Market~Value~of~Equity};~~~~\sigma_{E}=\mathrm{Volatility~of~E
 
 ## CREDIT RISK MEASUREMENT: KMV
 
-![](e6964bd1fc5825a9c507639f437ad4f8.png)
+ ![500](e6964bd1fc5825a9c507639f437ad4f8.png)
 
-- ![](c2f02f6519e277b3f01ebe8463b5f7c6.png)
+-  ![500](c2f02f6519e277b3f01ebe8463b5f7c6.png)
 - The plot shows a combination of$V_0$and σ that equates the model equity value to the market equity capitalization of 2.26 bil.
-- ![](f4fe746eb4ef8aa3fef7ddffcb156422.png)
+-  ![500](f4fe746eb4ef8aa3fef7ddffcb156422.png)
 - We therefore find$V_0$= 3.84 bil and σ = 12%.
 - We finally use these quantities to compute the distance to default and the expected frequency of default.
 	- We need one more input: the growth rate of assets µ.
@@ -227,16 +264,16 @@ $$d_{2}=2.69\quad\mathrm{~and~}\quad p_{T}=36\mathrm{bp}$$
 - According to the transition table at the end of the case,  a BBB company has 45 bp chance of defaulting.
 	- KMV argues that the normal distribution is imperfect,  especially because of the thin tails.
 	- So,  they define a new map from distance to default and expected default frequency,  which is estimated from data.
-	- ![](6d3e1a0868c56050cc916995d8e68255.png)
+	-  ![500](6d3e1a0868c56050cc916995d8e68255.png)
 	- For$d_2 = 2.69$it looks on target.
 ## THE CREDIT DERIVATIVES MARKET
 
 - Credit derivatives are securities whose payoff depend on a "credit event"
 - The credit event could be "default,  " change in the credit rating of the issuer,  or change in credit spreads.
 - The credit derivatives market skyrocketed in the 2000 - 2008 period.
-![](593a5e60298e50f161ea6a9ef817db3f.png)
+ ![500](593a5e60298e50f161ea6a9ef817db3f.png)
 
-![](03e894c42fb4dfe8b25ca5b815cdb84d.png)
+ ![500](03e894c42fb4dfe8b25ca5b815cdb84d.png)
 
 d highly esoream market nk loan mand its base of companies,  credit derivavey. This surend of 2002,  showed that 40.1% of all reference entities
 
@@ -252,7 +289,7 @@ d highly esoream market nk loan mand its base of companies,  credit derivavey. T
 
 ## SINGLE NAME CREDIT DEFAULT SWAP
 
-![](5df13b2d7b16aa00bbef78b12c162fd9.png)
+ ![500](5df13b2d7b16aa00bbef78b12c162fd9.png)
 
 - Investor pays interest on a notional amount N to Bank until maturity T or the default of the issuer (reference entity);
 - In case of default,  Bank pays Investor the notional amount N in exchange of the physical delivery of the underlying asset.
@@ -276,11 +313,11 @@ d highly esoream market nk loan mand its base of companies,  credit derivavey. T
 ## CDS SPREAD: LEHMAN AND BEAR STEARNS
 
 - The CDS spread capture important information about the likelihood of survival of individual companies.
-![](4b7ec0fa1ed7089fe9e5506a0ecc5050.png)
+ ![500](4b7ec0fa1ed7089fe9e5506a0ecc5050.png)
 
 ## CDS SPREAD: ITALY,  GREECE,  AND USA THE CREDIT DEFAULT SWAP SPREAD
 
-![](bd018ef58c733a40505bddde176053ca.png)
+ ![500](bd018ef58c733a40505bddde176053ca.png)
 
 - In principle,  the credit default swap spread should coincide with the credit spread of the underlying bond.
 	- For instance,  with the credit spread formula in Merton's model discussed earlier:

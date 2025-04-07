@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_340_Credit Markets Session 1.md
-- Alias_337_Credit Markets Session 1.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: Credit Markets Session 1
 ---
-
-
-
 # Credit Markets Session 1
 - Course objective: introduce basic concepts on pricing,  trading and portfolio risk management for credit instruments. Discuss credit market segments,  seniority ranks,  instrument types & specs,  quoting conventions,  execution venues and trading protocols
 - Understand the valuation of an instrument with default risk
@@ -22,7 +19,7 @@ title: Credit Markets Session 1
 
 # WHAT IS CREDIT DEFAULT RISK?
 
-![](e83ab197f445cef5c27a8c11ae5a3919.png)
+ ![500](e83ab197f445cef5c27a8c11ae5a3919.png)
 
 # WHEN DOES A COMPANY DEFAULT?
 
@@ -39,7 +36,7 @@ title: Credit Markets Session 1
 - Speculative Grade / High Yield
 	 - higher risk of default
 - Role of credit rating agencies in assessing issuer default risk
-![](41f1460878fe978d3c07cc92d3d99568.png)
+ ![500](41f1460878fe978d3c07cc92d3d99568.png)
 # INSTRUMENT TYPES & CONTRACTUAL SPECS CONTRACTUAL SPECS: [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 - Issuer name
@@ -50,48 +47,48 @@ title: Credit Markets Session 1
 - Coupon frequency & day count convention: semi-annual,  30/360,  etc
 - Call/Put schedules / embedded optionality: right to exercise call/put options at pre-specified prices
 - [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] (positive vs negative,  mostly high yield)
-![](8adf926c7b99b2d66bd9490420329665.png)
+ ![500](8adf926c7b99b2d66bd9490420329665.png)
 # INSTRUMENT TYPES & CONTRACTUAL SPECS FIXED RATE IG BOND EXAMPLE: ORACLE
 
-![](d77b21350f5e4d1279ecaff6b0354fda.png)
+ ![500](d77b21350f5e4d1279ecaff6b0354fda.png)
 Instrument types & contractual specs
 
 # FIXED RATE BOND CASH-FLOWS
 
-![](73036b9191c8c1e4cea4fb10478a5299.png)
+ ![500](73036b9191c8c1e4cea4fb10478a5299.png)
 Instrument types & contractual specs
 
 # FLOATING RATE BOND (SOFR REF INDEX): MORGAN STANLEY
 
-![](ec8418e437fcbfa6ba0afae5d9fc189a.png)
+ ![500](ec8418e437fcbfa6ba0afae5d9fc189a.png)
 Instrument types & contractual specs
 
 # FLOATING RATE BOND CASH-FLOWS
 
-![](545ba227fa5a360867d223eb91ab6343.png)
+ ![500](545ba227fa5a360867d223eb91ab6343.png)
 
 ## FIXED RATE HY BOND EXAMPLE: AMC
 
-![](da78a73598433db6b0a4c5f587b0feab.png)
+ ![500](da78a73598433db6b0a4c5f587b0feab.png)
 
 ## FOREIGN SOVEREIGN BOND EXAMPLE: MEXICO
 
-![](1758a410a6e2b88bd3dabb13670a7303.png)
+ ![500](1758a410a6e2b88bd3dabb13670a7303.png)
 Instrument types & contractual specs
 
 # FLOATING RATE LOAN EXAMPLE (FIRST LIEN): UNITED AIRLINES
 
-![](583d1159c55fec5c5632d47c450a15e1.png)
+ ![500](583d1159c55fec5c5632d47c450a15e1.png)
 Instrument types & contractual specs
 
 # FLOATING RATE LOAN CASH-FLOWS
 
-![](3002a15f421a7d61e0e400da0b298eb5.png)
+ ![500](3002a15f421a7d61e0e400da0b298eb5.png)
 Instrument types & contractual specs
 
 # PREFERRED PERPETUAL EXAMPLE: MORGAN STANLEY
 
-![](98878c8a473b74952d2ed59d7715d20e.png)
+ ![500](98878c8a473b74952d2ed59d7715d20e.png)
 
 Market Participants: Mostly Institutional Players
 
@@ -121,14 +118,14 @@ Market Participants: Mostly Institutional Players
 
 # SIFMA: FIXED INCOME OUTSTANDING AND NEW ISSUES (2023) IG BONDS LIQUIDITY (SOURCE: MORGAN STANLEY 2023) HEDGING AND RELATED INSTRUMENTS
 
-![](b9678fc69c6540872f5e5a8bab084fba.png)
+ ![500](b9678fc69c6540872f5e5a8bab084fba.png)
 
 - US treasuries
 - US treasury futures
 - Credit Default Swaps
 - CDX credit indices
 - Fixed income ETFs
-![](d1feb0724ae305487f40482ff7403fdb.png)
+ ![500](d1feb0724ae305487f40482ff7403fdb.png)
 # TRADING
 
 - ~70% over-the-counter (with broker-dealers)
@@ -194,9 +191,9 @@ $$B_0=1+\frac{c-y_{sa}}{y_{sa}}\cdot\left[1-\left(1+\frac{y_{sa}}2\right)^{-2T}\
 
 ### BOND VALUATION SURFACE (0 ACCRUED,  T+0 SETTLE)
 
-![](b23dd256712e6173f4c764a0110d1921.png)
+ ![500](b23dd256712e6173f4c764a0110d1921.png)
 
-![](46c53c8593e13c304ca92ae1d091c29e.png)
+ ![500](46c53c8593e13c304ca92ae1d091c29e.png)
 
 # COMMENTS
 
@@ -264,7 +261,7 @@ $$
 $$
 $$\text{``yield''} + \text{``yield curve roll down''} + \text{``yield convexity''}.$$
 
-![](e6c0c03635bd4c405c38cd4fdd5454c5.png)
+ ![500](e6c0c03635bd4c405c38cd4fdd5454c5.png)
 
 ####    CREDIT SPREADS AND TREASURY BENCHMARKS
 - “Treasury benchmark” = US treasury bond with same/similar maturity as the corporate bond
@@ -272,7 +269,7 @@ $$\text{``yield''} + \text{``yield curve roll down''} + \text{``yield convexity'
 - “G-Spread” = corporate bond yield - interpolated treasury yield
 - Credit spreads quantify the risk of credit issuer defaulting to bond maturity
 - Spread to benchmark = market convention for quoting IG bonds
-![](56def999d8659b9d747c2ad62e48475b.png)
+ ![500](56def999d8659b9d747c2ad62e48475b.png)
 
 ## Z-SPREAD PARAMETRIZATION
 
@@ -299,12 +296,9 @@ $$ \frac{dB_t}{B_t} = \left( s_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_s^2 \ri
 $$ \mathbb{E}\left[ \frac{dB_t}{B_t} \right] / dt = s_t - D \cdot \mathbb{E}\left[ \frac{ds_t}{dt} \right] + \frac{1}{2} \cdot \Gamma \cdot \sigma_s^2 \tag{27} $$
 
 $$\text{spread} + \text{spread curve roll down} + \text{spread convexity}$$.
+ ![500](14f84088ac66af7dbead4cbf637c79e6.png)
 
-
-
-![](14f84088ac66af7dbead4cbf637c79e6.png)
-
-![](e0ccd72d68224fff194d1818e62fa391.png)
+ ![500](e0ccd72d68224fff194d1818e62fa391.png)
 ## SUMMARY
 - Capital structure and credit default events
 - Credit ratings

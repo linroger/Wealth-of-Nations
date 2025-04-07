@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_163_Teaching Note 2-Futures Contracts.md
+- 
 - 'EXAMPLE: HEDGING WITH FUTURES'
-- Alias_164_Teaching Note 2-Futures Contracts.md
+- 
 linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
 tags:
-- tag_example
+- 
 title: Teaching Note 2-Futures Contracts
 ---
-
-
-
 [Carry Trade 1](Carry%20Trade%201.md)
 
 Futures contracts are similar to forward contracts,  as they are agreements between two counterparties to exchange a pre-specified amount of good (e.g.,  corn,  or Euros) at a pre-specified time for a predetermined price.

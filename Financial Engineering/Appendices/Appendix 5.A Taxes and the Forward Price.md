@@ -1,8 +1,8 @@
 ---
-title: Appendix 5.A Taxes and the Forward Price
+title: Appendix 5. A Taxes and the Forward Price
 ---
 
-# Appendix 5.A Taxes and the Forward Price
+# Appendix 5. A Taxes and the Forward Price
 
 The formulas in this chapter—and in the book to this point—have ignored taxes. In this appendix we show how taxes enter into the theoretical formula for the forward price,  and explain why in practice these tax adjustments are never used. The impact of taxes on derivative prices was studied by Scholes (1976) and Cornell and French (1983),  who showed that prices depend upon taxes when capital gains,  dividends and interest are taxed at different rates. However,  a party such as a broker-dealer,  who is taxed identically on all forms of income,  will have a fair price that is independent of taxes.
 
@@ -18,7 +18,7 @@ The important insight is that broker-dealers are marked-to-market for tax purpos
 $$F_{0,      1}=S_0\left(1+r\right)-Div$$
 The same as equation (5.5).
 
-# [[Appendix 5.C Forward And Futures Prices When Interest Rates Are Random|Appendix 5.C Forward and Futures Prices When Interest Rates Are Random]]
+# [[Appendix 5. C Forward And Futures Prices When Interest Rates Are Random|Appendix 5. C Forward and Futures Prices When Interest Rates Are Random]]
 
 This appendix formalizes the difference between forward and futures prices and shows the relationship between them when interest rates are stochastic. We will use the following notation:
 

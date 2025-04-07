@@ -1,19 +1,15 @@
 ---
 aliases:
-- Example_Alias_Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
+- Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
   Update,  March 2009
-- Alias_44_Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
-  Update,  March 2009.md
+- Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
+  Update,  March 2009. md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
   Update,  March 2009
 ---
-
-
-
-
 # Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 
 ## Contents - Summary
@@ -324,23 +320,23 @@ Moody's applied Updated LTVs and general assumptions regarding the costs of main
 
 ----
 
-![](Preview%202024-09-29%2002.53.42.tiff)
+ ![500](Preview%202024-09-29%2002.53.42.tiff)
 
-![](Dropover%202024-09-29%2002.53.54.png)
+ ![500](Dropover%202024-09-29%2002.53.54.png)
 
-![](Dropover%202024-09-29%2002.54.04.png)
+ ![500](Dropover%202024-09-29%2002.54.04.png)
 
-![](Dropover%202024-09-29%2002.54.11.png)
+ ![500](Dropover%202024-09-29%2002.54.11.png)
 
-![](Dropover%202024-09-29%2002.54.23.png)
+ ![500](Dropover%202024-09-29%2002.54.23.png)
 
 **Corporate Default and Recovery Rates,  1920-2008**
 
 The recovery data discussed above is based on debt trading prices 30 days after the default date.An alternative recovery measure is based on ultimate recoveries,  or the value creditors realize at the resolution of a default event.For example,  for issuers filing for bankruptcy,  the ultimate recoveries are the present values of the cash and/or securities that creditors actuallyreceive when these issuers exit bankruptcy,  typically 1-2 years following their initial default dates.
 
-In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody’s Ultimate Recovery Database.Last year,  Moody’s added 20 firms that either emerged from [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] or resolved their default events in 2008.The average “firm-wide”recovery rate for these 20 firms was   ,  below 2007’s   level,  but still well above the long-term average of   since 1987.As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages.However,  among the10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer’s default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]] of ultimate recovery rates and default rates.
+In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody’s Ultimate Recovery Database.Last year,  Moody’s added 20 firms that either emerged from [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was   ,  below 2007’s   level,  but still well above the long-term average of   since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages.However,  among the10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer’s default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclicality]] of ultimate recovery rates and default rates.
 
-![](Dropover%202024-09-29%2002.54.30.png)
+ ![500](Dropover%202024-09-29%2002.54.30.png)
 
 1. Some of thesenumbers differ from last year’s report due to newdata being added to the Uitimate Recovery Database during 2008.
 1. There were only two sr. sub bond defaults in 2008.
@@ -356,7 +352,7 @@ Correlation between Default and Recovery Rates
 Moody’s credit ratings are opinions of relative expected credit losses upon default,  which are functions of both the probability of default and severity of default (LGD). Exhibit 10 shows annual credit loss rates from 1982 to 2008 for Moody’s-rated corporate issuers. In 2008,  the rising default rate,  coupled with a higher loss severity rate,  led to an increase in the credit lossrate among Moody’s-rated issuers to   ,  compared to   in 2007. The average annual credit loss rate since 1982 is   (see underlying data in Exhibit 29)
 
 Exhibit 10
-![](d736bf5cd6656dd57faf000dd0dc80f72cbee80d23f0e87f0a33cac060a132e7.png)
+ ![500](d736bf5cd6656dd57faf000dd0dc80f72cbee80d23f0e87f0a33cac060a132e7.png)
 
 **Default and Recovery Outlook for 2009**
 
@@ -364,44 +360,44 @@ Exhibit 10
 
 The ongoing banking crisis and global economic downtum makeit almost certain that default rates will continue to climb sharply during 20o9. The only outstanding questions are to what levels they will rise and how quickly.Because the impact of the current economic downturn on corporate debt issuers is likely to be more severe than for the two most recent credit cycles of the early 1990s and 2000s,  Moody’s expects that the speculative-grade default rate willexceed the peaks of   and   reached in those cycles,  respectively. Indeed,  the speculative-grade default rate could exceed the   record level set in 1933 when the speculative-grade market was solely a fallen angel market comprised exclusively of downgraded. investment-grade issuers.
 
-Moody’s formal forecasting model,  the Credit Transition Model   ,  indicates that the global issuerweighted speculative-grade default rate willhit a peak of   in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of.   at the endof 2008.In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
+Moody’s formal forecasting model,  the Credit Transition Model   ,  indicates that the global issuerweighted speculative-grade default rate willhit a peak of   in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of.   at the endof 2008. In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
 
 Exhibit 11 shows the model’s baseline forecasts through 2009,  as well as the optimistic and pessimistic forecast scenarios. The baseline forecast assumes that the unemployment rate will increase to.   in the U.S. and   in Europe by year end.We note,  however,  that the high level of uncertainty surrounding the likely severity and length of the current global economic downturn imply similarlyhigh uncertainty around the point estimates of model-based forecasts of default rates.Moreover,  some of the model’s main drivers,  including the current record lowratings mix of Moody’s issuers and record high levels of high yield bond spreads,  are in ranges not seen in the historical data used to parameterize the model,  implying heightened model risk.
 
 Exhibit 11
-![](502692e1577f88dfbc8a5309c7dc18d1d77c24cefa193020d68cd4e742f589c4.png)
+ ![500](502692e1577f88dfbc8a5309c7dc18d1d77c24cefa193020d68cd4e742f589c4.png)
 
-The high level of the high yield bond spread,  which is a primary driver underlying the model’s forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1.oo0 basis points,  also climbed sharply and now stands at   of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
+The high level of the high yield bond spread,  which is a primary driver underlying the model’s forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. oo0 basis points,  also climbed sharply and now stands at   of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
 
 **Corporate Default and Recovery Rates,  1920-2008**
 
 high yield spreads,  and Moody’s Distressed Issuer index.The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the speculative-grade default rate.During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1,  000 basis points,  and were associated with peak speculative-grade default rates of roughly   . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo0 basis points in the high yield spread suggests that speculative-grade default rates could approach  
 
 Exhibit 12
-![](d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png)
+ ![500](d6fe8ad25da1082420dcf976e284c1637118690efeb6ab47c354b0820bfc617b.png)
 
 The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers.As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost   of Moody’s speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . roughly   of issuers currently rated Caa1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
 
 Exhibit 13
-![](72e1978fbcba22ae6cd273b73e27b2e045873f74136a051ef3942b166b5edf73.png)
+ ![500](72e1978fbcba22ae6cd273b73e27b2e045873f74136a051ef3942b166b5edf73.png)
 
 **Corporate Default and Recovery Rates,  1920-2008**
 
 In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of   billion in debt is coming due over the next three years,  which more than doubles the refunding needs of   billion between 2008 and   .This increase in issuers’ refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007.Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
 
 Exhibit 14
-![](8de854e5dd959227e89652a4a1e0b31ded87c2a9bfba5062b9e3c92e7c31131f.png)
+ ![500](8de854e5dd959227e89652a4a1e0b31ded87c2a9bfba5062b9e3c92e7c31131f.png)
 
 Across geographical regions,  the speculative default rate is expected to climb to   in the U.S. by year-end 2009,  while the European default rate is expected to rise more sharply to   .Driving this differential is the currently weaker ratings mix among European speculative-grade issuers relative to U.S. issuers.
 
 Exhibit 15 shows the baseline one-year default rate forecasts across industries in both the U.S. and Europe. In the U.S.,  the consumer transportation industry,  comprised mostly of airline companies,  is expected to experience the highest default rate at over.   .In Europe,  the most troubled sectoris expected to be durable consumer goods
-![](1e30a420691664048397c52acfac36e2994d8321608cd4590d305b7b91001587.png)
+ ![500](1e30a420691664048397c52acfac36e2994d8321608cd4590d305b7b91001587.png)
 
-![](Dropover%202024-09-29%2002.54.43.png)
+ ![500](Dropover%202024-09-29%2002.54.43.png)
 
-1.There is only one European issuer in the Consumer Service industry
+1. There is only one European issuer in the Consumer Service industry
 
-Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody’s-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. further to0.2in 2009 from 0.3 in 2008.Among investment-grade companies,            of issuers are expected to have their ratings downgraded toBa1 orbelow in the coming twelve months.On the otherhand,  only   of speculative-grade issuers are expected to become rising stars in 2009.
+Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody’s-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. further to0.2in 2009 from 0.3 in 2008. Among investment-grade companies,            of issuers are expected to have their ratings downgraded toBa1 orbelow in the coming twelve months.On the otherhand,  only   of speculative-grade issuers are expected to become rising stars in 2009.
 
 **Recovery Outlook**
 
@@ -410,105 +406,105 @@ As recovery rates are negatively correlated with default rates,  Moody’s expec
 **Corporate Default and Recovery Rates,  1920-2008**
 
 Exhibit 16
-![](f5b129b84cbe41a54130da80b3bcbe5a07081595dc60b1b4ed40bef9ce2687d5.png)
+ ![500](f5b129b84cbe41a54130da80b3bcbe5a07081595dc60b1b4ed40bef9ce2687d5.png)
 **Rating Accuracy Metrics.**
 
 Moody’s ratings have historically proven to be effective predictors of default. This is illustrated in Exhibit 17,  which plots the average and median ratings of roughly 1,  300 corporate issuers that defaulted from 1983 to 2008. The chart shows that Moody’s-rated issuers have,  on average,  been downgraded to the Ba3 level as early as fiveyears prior to default.Among issuers that defaulted in2008,  the average rating is Ba2fiveyears prior to default,  which is slightly higher than its comparable historical average. In the year prior to default,  2008. defaulters’ ratings were downgraded to B2 on average,  which is comparable to historical average since 1983
 
 Exhibit 17
-![](7016775767f2e47f504b3e8a4b7f9a6132dc24c204ff1f68cbc0ce686ec22b1c.png)
-As a valuable tool tomeasure credit risk,  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default.Ametric designed to measure this aspect of ratings performance is the cumulative accuracy profile(CAP) plot as shown in Exhibit 18.A rating system that possessed no predictive information about default risk would lie on the   line; the further the CAP curve
+ ![500](7016775767f2e47f504b3e8a4b7f9a6132dc24c204ff1f68cbc0ce686ec22b1c.png)
+As a valuable tool tomeasure credit risk,  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default.Ametric designed to measure this aspect of ratings performance is the cumulative accuracy profile(CAP) plot as shown in Exhibit 18. A rating system that possessed no predictive information about default risk would lie on the   line; the further the CAP curve
 
 **Corporate Default and Recovery Rates,  1920-2008**
 
 bows toward the northwest comer,  the betterit is at identifying defaults in the riskiest rating categories.Exhibi 18 shows that the CAP curvefor 2008liesbelow the one for the1983-2008period,  which indicates a worse performance in 2008relative to the historical average.The drop inrating performance in 2008is largely the result of several investment-grade defaults in the banking and financial sectors,  including Lehman Brothers,  Washington Mutual and three Icelandic banks.
 
 Exhibit 18
-![](f71ff7b9aad919132b0ff709098d51be717e744967b23105bc13620ccc430a2a.png)
+ ![500](f71ff7b9aad919132b0ff709098d51be717e744967b23105bc13620ccc430a2a.png)
 Another way to measure rating performance is the accuracy ratio,  which is derived from the CAP curve.The accuracy ratio (AR) is the ratio of the area between the CAP curve and the   line,  to the maximum possible area above the   line. AR values range from minus one to positive one and a higher AR indicates better. rating accuracy. Exhibit 19 shows both oneand five-year horizon accuracy ratios for the period of 1983-2008. The graph suggests that the one-year accuracy ratiois positively correlated with the credit cycle: when defaults increase,  the accuracy ratio falls.At the five-year horizon this correlation is much less evident. In the short run,  the stability objective of Moody’s rating system dampens rating changes; at longer time horizons,  the stability objective is less of a constraint,  and accuracy increases.
 
 Exhibit 19
-![](19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png)
+ ![500](19fcfead507e40dc935cb3faa0cd0dc69ea2f6435e2c0587452b8a8e4cf737ac.png)
 
 ### Data and Tables
 
-![](Preview%202024-09-29%2002.55.06.png)
+ ![500](Preview%202024-09-29%2002.55.06.png)
 
-![](Preview%202024-09-29%2002.55.18.png)
+ ![500](Preview%202024-09-29%2002.55.18.png)
 
-![](Preview%202024-09-29%2002.55.26.png)
+ ![500](Preview%202024-09-29%2002.55.26.png)
 
-![](Preview%202024-09-29%2002.55.32.png)
+ ![500](Preview%202024-09-29%2002.55.32.png)
 
-![](Preview%202024-09-29%2002.55.39.png)
+ ![500](Preview%202024-09-29%2002.55.39.png)
 
-![](Preview%202024-09-29%2002.55.46.png)
+ ![500](Preview%202024-09-29%2002.55.46.png)
 
-![](Preview%202024-09-29%2002.55.57.png)
+ ![500](Preview%202024-09-29%2002.55.57.png)
 
-![](Preview%202024-09-29%2002.56.05.png)
+ ![500](Preview%202024-09-29%2002.56.05.png)
 
-![](Preview%202024-09-29%2002.56.10.png)
+ ![500](Preview%202024-09-29%2002.56.10.png)
 
-![](Preview%202024-09-29%2002.56.18.png)
+ ![500](Preview%202024-09-29%2002.56.18.png)
 
-![](Preview%202024-09-29%2002.56.23.png)
+ ![500](Preview%202024-09-29%2002.56.23.png)
 
-![](Preview%202024-09-29%2002.56.31.png)
+ ![500](Preview%202024-09-29%2002.56.31.png)
 
-![](Preview%202024-09-29%2002.56.39.png)
+ ![500](Preview%202024-09-29%2002.56.39.png)
 
-![](Preview%202024-09-29%2002.56.49.png)
+ ![500](Preview%202024-09-29%2002.56.49.png)
 
-![](Preview%202024-09-29%2002.56.58.png)
+ ![500](Preview%202024-09-29%2002.56.58.png)
 
-![](Preview%202024-09-29%2002.57.04.png)
+ ![500](Preview%202024-09-29%2002.57.04.png)
 
-![](Preview%202024-09-29%2002.57.09.png)
+ ![500](Preview%202024-09-29%2002.57.09.png)
 
-![](Preview%202024-09-29%2002.57.23.png)
+ ![500](Preview%202024-09-29%2002.57.23.png)
 
-![](Preview%202024-09-29%2002.57.33.png)
+ ![500](Preview%202024-09-29%2002.57.33.png)
 
-![](Preview%202024-09-29%2002.57.47.png)
+ ![500](Preview%202024-09-29%2002.57.47.png)
 
-![](Preview%202024-09-29%2002.57.55.png)
+ ![500](Preview%202024-09-29%2002.57.55.png)
 
-![](Preview%202024-09-29%2002.58.07.png)
+ ![500](Preview%202024-09-29%2002.58.07.png)
 
-![](Preview%202024-09-29%2002.58.11.png)
+ ![500](Preview%202024-09-29%2002.58.11.png)
 
-![](Preview%202024-09-29%2002.58.18.png)
+ ![500](Preview%202024-09-29%2002.58.18.png)
 
-![](Preview%202024-09-29%2002.58.26.png)
+ ![500](Preview%202024-09-29%2002.58.26.png)
 
-![](Preview%202024-09-29%2002.58.34.png)
+ ![500](Preview%202024-09-29%2002.58.34.png)
 
-![](Preview%202024-09-29%2002.58.41.png)
+ ![500](Preview%202024-09-29%2002.58.41.png)
 
-![](Preview%202024-09-29%2002.58.48.png)
+ ![500](Preview%202024-09-29%2002.58.48.png)
 
-![](Preview%202024-09-29%2002.58.55.png)
+ ![500](Preview%202024-09-29%2002.58.55.png)
 
-![](Preview%202024-09-29%2002.59.02.png)
+ ![500](Preview%202024-09-29%2002.59.02.png)
 
-![](Preview%202024-09-29%2002.59.08.png)
+ ![500](Preview%202024-09-29%2002.59.08.png)
 
-![](Preview%202024-09-29%2002.59.15.png)
+ ![500](Preview%202024-09-29%2002.59.15.png)
 
-![](Preview%202024-09-29%2002.59.24.png)
+ ![500](Preview%202024-09-29%2002.59.24.png)
 
-![](Preview%202024-09-29%2002.59.35.png)
+ ![500](Preview%202024-09-29%2002.59.35.png)
 
-![](Preview%202024-09-29%2002.59.44.png)
+ ![500](Preview%202024-09-29%2002.59.44.png)
 
-![](Preview%202024-09-29%2002.59.55.png)
+ ![500](Preview%202024-09-29%2002.59.55.png)
 
 **Guide to Data Tables and Charts**
 
 In this section we briefly describe theinterpretation of some of the Exhibits contained in thisreport Methodological details are discussed in separate sections below.
 
-Exhibit 11 presents Moody’s speculative-grade default rate forecast for 2009.The model generated point forecasts for each month are shown,  as well as forecasted optimistic and pessmistic bounds. The pessimistic and optimistic bounds represent positive and negative economic scenarios for the U.S. unemployment rate and highyield spread.
+Exhibit 11 presents Moody’s speculative-grade default rate forecast for 2009. The model generated point forecasts for each month are shown,  as well as forecasted optimistic and pessmistic bounds. The pessimistic and optimistic bounds represent positive and negative economic scenarios for the U.S. unemployment rate and highyield spread.
 
 Exhibit 17 was derived bymapping Moody’sratings to a linear scale,  then taking the average and median values of the numerically mapped ratings
 

@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_178_Carry Trade.md
+- 
 - GOVERNMENT OF CANADA BOND FUTURES
-- Alias_177_Carry Trade.md
+- 
 linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
 tags:
-- tag_example
+- 
 title: Carry Trade
 ---
-
-
-
 [Lecture Note 1- Forward Rates Agreement](Lecture%20Note%201-%20Forward%20Rates%20Agreement.md)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 [Currency Forward](Currency%20Forward.md)

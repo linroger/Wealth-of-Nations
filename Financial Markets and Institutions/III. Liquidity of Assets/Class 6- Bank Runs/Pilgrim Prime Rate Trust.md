@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Pilgrim Prime Rate Trust
-- Alias_84_Pilgrim Prime Rate Trust.md
+- Pilgrim Prime Rate Trust
+- Pilgrim Prime Rate Trust.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Pilgrim Prime Rate Trust
 ---
-
-
-
-
 # Pilgrim Prime Rate Trust
 
 |      | Price to Public(1)  | Sales Charge(1)  | Proceeds to Company  |

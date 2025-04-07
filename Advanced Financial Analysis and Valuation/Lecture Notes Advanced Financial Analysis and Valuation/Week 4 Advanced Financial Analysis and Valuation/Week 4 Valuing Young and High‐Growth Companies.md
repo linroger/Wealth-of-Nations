@@ -93,7 +93,7 @@ forecasts are plausible
 - Investors often start using "innovative" multiples: e.g.,
 	   - Eyeballs,  clicks,  oil reserves
 	   - Not necessarily tied to value drivers or "economics"
-![](99da11dd46d9fb034b6d8163670a9b26.png)
+ ![500](99da11dd46d9fb034b6d8163670a9b26.png)
 ## COMMON VALUATION PRACTICES
 
 - Recall Week 1 (bubbles) and Week 2 (behavioral biases)
@@ -125,13 +125,13 @@ needs to happen to support a particular value
 # ANALYSTS AND HIGH GROWTH COMPANIES
 ## LTG ESTIMATES FOR SELECT HIGH‐GROWTH FIRMS
 
-![](f8d00cd96793189a6e192fdbb477e996.png)
+ ![500](f8d00cd96793189a6e192fdbb477e996.png)
 
 LTG definition: The long‐term growth rate represents an expected annual increase in operating earnings over the company's next full business cycle. These forecasts refer to a period of between three and five years and are expressed as a percentage. Long‐term growth rate forecasts are received directly from contributing analysts; they are not calculated by Thomson Reuters Source: Capital IQ LTG of EPS; January 2024
 
 ## RECALL: LTG BIAS IN ANALYST FORECASTS
 
-![](4d6737df30319e6560ff0c845857f4f4.png)
+ ![500](4d6737df30319e6560ff0c845857f4f4.png)
 
 - LTG forecasts are overly optimistic
 	   - Forecasted LTG on average 7%  (p.a.) higher than its realization
@@ -145,9 +145,9 @@ Source: Data based on Chan et al 2003 Table 9
 
 ## DISPERSION OF VIEWS: TARGET PRICES FOR HIGH‐GROWTH FIRMS
 
-![](eb2c2798b042881c4f48ee41d8dc8b78.png)
+ ![500](eb2c2798b042881c4f48ee41d8dc8b78.png)
 
-![](f92788a4e6771a51bb7109c999f70440.png)
+ ![500](f92788a4e6771a51bb7109c999f70440.png)
 
  - Coincidence?
 	- The More Bullish Analysts Are Often The Ones With Shortest Forecast Horizons
@@ -165,7 +165,7 @@ Source: Data based on Chan et al 2003 Table 9
 
 ## MORGAN STANLEY'S DCF BEFORE AND AFTER CORRECTION
 
-![](44c1efc44cb0ef89e9f314ccf18f2f5a.png)
+ ![500](44c1efc44cb0ef89e9f314ccf18f2f5a.png)
 
 Morgan Stanley's first research note Morgan Stanley's second research note Source: Morgan Stanley's DCF models published in Business Insider 2017
 
@@ -203,7 +203,7 @@ Morgan Stanley's first research note Morgan Stanley's second research no
 
 - Revenue growth of 800% from 1996‐1997 and 300% from 1997‐1998
 - You could assume continued high growth but fade estimates over time
-![](5c2135b254d38417162719926cde4ab6.png)
+ ![500](5c2135b254d38417162719926cde4ab6.png)
 
 | Fiscal Year   | Expected growth rate | Revenues  | Change in revenues |
 | ------------- | -------------------- | --------- | ------------------ |
@@ -223,7 +223,7 @@ Morgan Stanley's first research note Morgan Stanley's second research no
 ## AMAZON IN 1998: FADING SALES GROWTH OVER TIME
 - Here Is Comparison With Actual Revenues (Last Column)
 - Clear Fading Over Time!
-![](4313aa9c52a1bced4c891264de717014.png)
+ ![500](4313aa9c52a1bced4c891264de717014.png)
 
 | Fiscal Year   | Growth rate | Expected Revenues | Change in revenues | Actual revenues |
 | ------------- | ----------- | ----------------- | ------------------ | --------------- |
@@ -244,15 +244,15 @@ Source: Damodaran Subsequent to this,  Amazon showed again higher growth
 
 ### WE KNOW SALES GROWTH DECAYS FAST: BUT WHY AGAIN?
 
-![](0436c9503fe7bfc333e4c61882a1e47b.png)
+ ![500](0436c9503fe7bfc333e4c61882a1e47b.png)
 
 ## MARKET SATURATION AND S‐CURVES
 
-![](91055c0ff185a9f82dc71fe14e8c8088.png)
+ ![500](91055c0ff185a9f82dc71fe14e8c8088.png)
 
 ### TECH FIRMS OFTEN HAVE LIFE CYCLE COMPRESSION
 
-![](a3cafebe60e37108c183ecf094f93ac4.png)
+ ![500](a3cafebe60e37108c183ecf094f93ac4.png)
 
 - What does that mean for their TV?
 ## BACKWARD INDUCTION: START WITH THE FUTURE
@@ -287,28 +287,28 @@ Source: Damodaran Subsequent to this,  Amazon showed again higher growth
 
 ## EXAMPLE: YELP
 
-![](503d4f8553835f09413a69917e74687d.png)
+ ![500](503d4f8553835f09413a69917e74687d.png)
 
 Yelp: Revenues
 
 ## EXAMPLE: YELP COHORT FORECASTING
 
-![](df969b5b20e17c64cf8017f9182098d9.png)
+ ![500](df969b5b20e17c64cf8017f9182098d9.png)
 
 Yelp: Active Markets,  2005-2009
 
 - Yelp defines an active market as a city or region where the company has hired a community manager. Source: Yelp Amendment No. 4 to Form S-1,  February 16,  2012
 ### EXAMPLE: YELP COHORT FORECASTING
 
-![](6a8ac3e8bf2b8fe0a5ce55bcad5bf9be.png)
+ ![500](6a8ac3e8bf2b8fe0a5ce55bcad5bf9be.png)
 
 ## EXAMPLE: YELP REVENUE MODEL YELP: REVENUE MODEL
 
-![](0e15a7972d8840ba8bb910d50e6129f1.png)
+ ![500](0e15a7972d8840ba8bb910d50e6129f1.png)
 
 ## DISCIPLINING THE MODEL WITH THE OUTSIDE VIEW
 
-![](ca09e6a92ef4c45c757edb728083879e.png)
+ ![500](ca09e6a92ef4c45c757edb728083879e.png)
 
 ## MARGINS,  CAPITAL INTENSITY,  AND ROIC (OR RONIC)
 
@@ -327,11 +327,11 @@ to enter,  which in the long‐run creates margin and ROIC pressures
 
 ## ANOTHER ILLUSTRATION: AMAZON MARGIN FORECAST IN 2003
 
-![](deae7c91829ffd3f7f3676507b07f568.png)
+ ![500](deae7c91829ffd3f7f3676507b07f568.png)
 
 ### AMAZON EBIT MARGIN
 
-![](8d6400f677a63f58f17521ccfe758abd.png)
+ ![500](8d6400f677a63f58f17521ccfe758abd.png)
 
 # VALUING STOCK COMPENSATION
 
@@ -342,7 +342,7 @@ to enter,  which in the long‐run creates margin and ROIC pressures
 - Young and high‐growth firms are often short on cash
 	   - ESOs allow cash‐poor firms with growth prospects to compete for talent
 - As a consequence,  ESOs are highly used in high‐growth companies
-	- ![](8f4cb1e5f1fae56a1bdac96d971cf27c.png)
+	-  ![500](8f4cb1e5f1fae56a1bdac96d971cf27c.png)
 
 > [!NOTE]
 > - Key points:
@@ -352,7 +352,7 @@ to enter,  which in the long‐run creates margin and ROIC pressures
 
 ## STOCK COMPENSATION AT LYFT
 
-![](29e80da34381de04cd696f1843005f7a.png)
+ ![500](29e80da34381de04cd696f1843005f7a.png)
 
 - Stock comp is included in many of the line items:
 - Lyft reports non‐GAAP numbers before SBC: Undoes much of their labor costs
@@ -384,7 +384,7 @@ to enter,  which in the long‐run creates margin and ROIC pressures
 
 ## FINANCIAL SHENANIGANS: RELEVANT FORCES
 
-![](791fd2ce323ba5cdf2b1a611ead869c0.png)
+ ![500](791fd2ce323ba5cdf2b1a611ead869c0.png)
 
 Reporting Incentives and Pressures
 
@@ -419,7 +419,7 @@ Symbol shipped products to customers early (w/o their approval) to inf
 
 ## LYFT S‐1 FILING FOR IPO
 
-![](19ab4813250dda370f133ebca0ec2454.png)
+ ![500](19ab4813250dda370f133ebca0ec2454.png)
 
 - Makes the determination that drivers are their customers,  rather than passengers
 - Allows Lyft to categorize most of its rider incentives (i.e.,  discounts) and rider refunds as a marketing expense,  rather than revenue reduction
@@ -448,4 +448,4 @@ recurring operating cash flow 
 
 ## MISSTATEMENTS BY INDUSTRY
 - Frequency Of Misstating Firms
-- ![](f1c770d96a5465d916061652b6ca487a.png)
+-  ![500](f1c770d96a5465d916061652b6ca487a.png)

@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_326_Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md
-  - Alias_323_Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#corporatefinance"
   - "#valuation"
@@ -13,9 +11,6 @@ tags:
   - "#control-premium"
   - "#corporate-governance"
 ---
-
-
-
 # TODAY
  - More than 60% of global GDP driven by "closely held" public or private firms
  - Analyzing and valuing private companies
@@ -33,15 +28,15 @@ tags:
 
 ## U.S. PRIVATE FIRMS: BIG AND GROWING IN NUMBERS
 
-![](7eacf14cdaab73c0227baff0944eed3f.png)
+ ![500](7eacf14cdaab73c0227baff0944eed3f.png)
 1 Unique U.S.‐based common stock PERMCO on CRSP as of December of each year per monthly file
 2 Number of corporations per IRS SOI aggregate data. Excludes partnerships
 
 ## U.S. PRIVATE FIRMS (CONT.)
  - MEDIUM‐TO‐LARGE PRIVATE U.S. COMPANIES BY INDUSTRY
-![](88915009770656410b3846e635aad8de.png)
+ ![500](88915009770656410b3846e635aad8de.png)
  - N = 70,425 non‐financial firms filing 1120, 1120‐S, or 1065 and also filing Schedule M‐3 (> $10 million in assets) but not filing with SEC
-![](c036e85016d18a058a11e9457b2f66e6.png)
+ ![500](c036e85016d18a058a11e9457b2f66e6.png)
 ## PRIVATE FIRMS: EXAMPLES
  - Important consideration for valuation of private firms:
 	- Value (Share) = Value (Cash Flows) + Value (Control)
@@ -51,7 +46,7 @@ tags:
  - Important consideration for valuation "closely held" firms:
 	- Value (Share) = Value (Cash Flows) + Value (Control)
 	- Value of shares for controlling shareholders can be very different from noncontrolling ones
-![](749210ec45417789fe24657cb6599f80.png)
+ ![500](749210ec45417789fe24657cb6599f80.png)
 
 # VALUING PRIVATE COMPANIES
 
@@ -193,20 +188,20 @@ $$
 
 - Dispersed shareholder base is the exception, rather than the norm
 - Ownership is typically concentrated around the world
-![](a888aecbed18c7e22588b914fd285f66.png) - As with private firms:
+ ![500](a888aecbed18c7e22588b914fd285f66.png) - As with private firms:
     - Insiders have control
     - Controlling blocks are illiquid
 Source: McKinsey
 
 ## INSIDER OWNERSHIP AROUND THE WORLD
-![](235b4a31bff5aa78393028ccb4437300.png)
+ ![500](235b4a31bff5aa78393028ccb4437300.png)
 Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 
 ## INSIDER OWNERSHIP AROUND THE WORLD (CONT.)
-![](602f136ca2d5685df99393b166438791.png)
+ ![500](602f136ca2d5685df99393b166438791.png)
 
 ## EVOLUTION OF OWNERSHIP CONCENTRATION
-![](e4e24a16f32b59cffcb65f89422997c8.png)
+ ![500](e4e24a16f32b59cffcb65f89422997c8.png)
 Source: Aminadav & Papaioannou, Journal of Finance, 2020
 
 ## INSIDER OWNERSHIP AND CORPORATE GOVERNANCE
@@ -244,11 +239,11 @@ Source: Aminadav & Papaioannou, Journal of Finance, 2020
     - Dual share classes     
     - Enhanced (or super) voting rights
     - Pyramids
-![](324ebf99c94bb07dcc80addd0a0083d1.png)
+ ![500](324ebf99c94bb07dcc80addd0a0083d1.png)
 
 ## EXAMPLE: RENONG BERHAD 
 OWNERSHIP STRUCTURE OF FIRMS CONTROLLED BY RENONG BERHAD
-![](5126a73bd4ef5c467a77541e0cc4214b.png)
+ ![500](5126a73bd4ef5c467a77541e0cc4214b.png)
 
  - UEM bought shares in parent, Renong Berhad, for an artificially high price
     - Renong shares purchased were held by family members in UEM's and Renong's management who wanted to 'get out'
@@ -294,11 +289,11 @@ U.S. investors stay away from stocks with "problematic ownership struct
  - Evidence that governance is priced by markets (in valuations & even returns)
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMERGING MARKETS
-![](056fe36879b6be38f01970a031eeab87.png)
+ ![500](056fe36879b6be38f01970a031eeab87.png)
 Considering the institutional & governance scores, what would be your valuation of Company if it were located / listed in each of the below emerging markets?
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMS (CONT.)
-![](de95e0b2f43e1b4fc3dc8a7172b1c65c.png)
+ ![500](de95e0b2f43e1b4fc3dc8a7172b1c65c.png)
 What cost of equity would you apply to Company if it were located and listed in each of the emerging markets below?
  - Survey respondents tend to incorporate higher premiums in their cost of equity
 estimates than what was implied in their valuation discounts (on previous slide)
@@ -322,7 +317,7 @@ Source: ST Investor Protection and Governance in the Valuation of Emer
  - Be careful about double‐counting
 
 ## EXAMPLE: BEWARE OF DOUBLE COUNTING
-![](6503a77b20942d99298c2afd358607ed.png)
+ ![500](6503a77b20942d99298c2afd358607ed.png)
 ## APPENDIX 
 RELATED‐PARTY TRANSACTIONS: RULES
  - In the US (ASC 850): Firms are required to disclose material related‐party transactions

@@ -3,10 +3,8 @@ title: Operating Income vs. Net Income What's the Difference
 cssclasses:
   - academia
 aliases:
-  - Alias_312_Operating Income vs. Net Income What's the Difference.md
-  - Alias_309_Operating Income vs. Net Income What's the Difference.md
 tags:
-  - tag_example
+
   - finance
   - financialanalysis
   - investmentanalysis

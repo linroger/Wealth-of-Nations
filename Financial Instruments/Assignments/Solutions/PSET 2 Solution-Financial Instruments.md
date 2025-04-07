@@ -1,14 +1,11 @@
 ---
 aliases:
-- Alias_152_PSET 2 Solution-Financial Instruments.md
-- Alias_153_PSET 2 Solution-Financial Instruments.md
+- 
+- 
 tags:
-- tag_example
+- 
 title: PSET 2 Solution-Financial Instruments
 ---
-
-
-
 ---
 
 title: PSET 2 Solution
@@ -79,9 +76,9 @@ Table 1: Securities used in Bootstrap
 \end{tabular}
 \end{document}
 ```
-%%caption![](https://storage.simpletex.cn/view/ff2ZSGmy0NZgg8nslPSF36PDEMxs3ARmc)
+%%caption ![500](https://storage.simpletex.cn/view/ff2ZSGmy0NZgg8nslPSF36PDEMxs3ARmc)
 Figure 1: Zero Coupon Discount Curves
-%%caption![](https://storage.simpletex.cn/view/frkXwNpZpG1RX0Oaq3k94sVV3motESwTt)
+%%caption ![500](https://storage.simpletex.cn/view/frkXwNpZpG1RX0Oaq3k94sVV3motESwTt)
 Figure 2: Zero Coupon Yield Curves
 2. (PP) The value of the Leveraged Inverse Floater can be computed as follows. The coupon rate at any time $t$ is given by
 $$c(T_i)=10\%-2\times r_2(T_{i-1})$$

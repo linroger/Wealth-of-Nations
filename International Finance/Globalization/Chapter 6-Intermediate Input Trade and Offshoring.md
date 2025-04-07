@@ -45,7 +45,7 @@ Unfortunately,  the same phenomenon is sometimes also called outsourcing . But i
 
 Table 6.1: Offshoring and Outsourcing
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e8734c8461741ecc19b90b4ff0f73204e5fb2fa0f0aefa6bbcd71c9177ce22d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e8734c8461741ecc19b90b4ff0f73204e5fb2fa0f0aefa6bbcd71c9177ce22d.jpg)
 
 Decision that a ﬁrm makes for the production of its output. If a production stage is not kept in-house (within the ﬁrm) but is sent to another ﬁrm to perform,  then it is said to be outsourced.
 
@@ -92,7 +92,7 @@ Much of the concern with [[Chapter 6-Intermediate Input Trade and Offshoring|off
 
 A high $H(s)/L(s)$ ratio means that the stage $s$ is high-skill intensive. Other stages require a low
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6976c8e69702bd5e6770d0d75a2b02e52d4cbde56c53c5061317b0d2bef0103.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6976c8e69702bd5e6770d0d75a2b02e52d4cbde56c53c5061317b0d2bef0103.jpg)
 
 Figure 6.1: Stages of Intermediate Production and Offshoring
 
@@ -184,7 +184,7 @@ $$
 $$ 
 
 (Mathematical Appendix 6. II presents an alternative [[Chapter 6-Intermediate Input Trade and Offshoring|offshoring]] cost schedule.) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ee3d2b4c8080ded0d865b2cba62f99c7f8b5926febbd7090b29c3373f6141b53.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ee3d2b4c8080ded0d865b2cba62f99c7f8b5926febbd7090b29c3373f6141b53.jpg) 
 Figure 6.2: Trade in Tasks 
 
 A simple contracting rule is as follows: Contract a task from offshore if the labor cost for the task from abroad $\tau(j)\,   w_{H}^{*}$ is at least as low as the onshore wage rate $w_{H}$ : 
@@ -251,7 +251,7 @@ finally there is trade in tasks under varying [[Chapter 6-Intermediate Input Tra
 # Sequential supply chains 
 
 The coffee supply chain,    from growing to processing to final packaging,    offers insight into what one could call the sequential supply chain . Some economists also refer to this type of supply chain as a “snake”—envisaging the main material as it slithers from raw form to final stage. One essential ingredient,    the coffee bean,    undergoes a series of transformations until it is made into the final product. Prices at different stages of a sequential supply chain show how value added builds up. 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7307259f7a4965ede6cec6514b9354b33de29235de1785605aa5c1870eb8524.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7307259f7a4965ede6cec6514b9354b33de29235de1785605aa5c1870eb8524.jpg) 
 Source : International Coffee Organization (ICO),    2011. Note: Farm gate and retail prices are ICO annual averages. The market price of green Colombian Mild Arabicas is the annual ICO average on the physicals markets for raw coffee in France,    Germany and the United States. New York and London prices are annual average NYMEX and Liffe futures prices. 
 
 Figure 6.3: Prices of Mild Arabicas and Robustas by Supply Chain Segment,    1980-2010 
@@ -262,7 +262,7 @@ Arabica beans are mostly traded on the New York Mercantile Exchange (NYMEX),    
 
 The success of food-processing companies has turned some of their countries into leading reexporters of packaged coffee. As Table 6.2 shows,    Belgium and Germany rank fourth and ﬁfth in 
 Table 6.2: Coffee Exports and Re-Exports 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd9acb8cd5fdf1ecb9673143bfcc6ca217b953befda63f5e4fdf4bf2131e4693.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd9acb8cd5fdf1ecb9673143bfcc6ca217b953befda63f5e4fdf4bf2131e4693.jpg) 
 Source : International Coffee Organization 2011,    millions of $60–\mathrm{kg}$ bags in 2008. 
 
 Terms of the amount of coffee they export—right after the leading exporter countries Brazil (ﬁrst),    Vietnam (second) and Colombia (third). Protectionist policies in consumer countries continue to distort global coffee trade. European Union countries,    North American countries,    and Japan impose tariffs and subsidies to protect local industries. Especially European roasters beneﬁt from trade barriers. The European Union assess no tariff on the (raw) green beans,    but imposes a 9 percent tariff on roasted beans. It is therefore difﬁcult for economies that now grow,    sort and warehouse the beans to also attract the parts of the supply chain that generate most value added: roasting,    grinding,    and branding coffee. 
@@ -298,10 +298,8 @@ Should economies globalize their supply chains? All participating economies gain
 Global supply arrangements can take various forms. Two speciﬁc arrangements are sequential supply chains,    as we observe them in global coffee trade,    and dispersed supply rings,    for which aircraft is a good example. In a sequential supply chain,    one essential ingredient such as the coffee bean undergoes a series of transformations until it is made into a final product. In a production arrangement with dispersed supply rings there is no single essential ingredient that gradually gets transformed. In contrast,    the final product,    the airplane say,    emerges from the center of an inner ring (or tier-1) of multiple inputs. Each one of those inputs in turn emerges from a preceding ring of earlier inputs (tier-2),    and so forth. The nature of speciﬁc supply arrangements expectedly determines how future globalization will vary from industry to industry. 
 # Key Terms 
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/241517da2a2582c756c76091f460c732ca44c015a62d687604741bfc43f79b5a.jpg) 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aebc643ed4e68b3cf88527135a1d143a11a45f6a8d92d1974304178e27d6c841.jpg) 
-
-
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/241517da2a2582c756c76091f460c732ca44c015a62d687604741bfc43f79b5a.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aebc643ed4e68b3cf88527135a1d143a11a45f6a8d92d1974304178e27d6c841.jpg) 
 # Further Readings 
 
 Autor,    David H.,    Frank Levy,    and Richard J. Murnane. 2003. “The Skill Content of Recent Technological Change: An Empirical Exploration.” Quarterly Journal of Economics ,    118 (4): 1279–1333. 
@@ -327,9 +325,9 @@ Koopman,    Robert,    William Powers,    Zhi Wang,    and Shang Jin Wei. 2010. 
 Rybczynski,    T. M. 1955. “Factor Endowment and Relative Commodity Prices.” Economica ,    22 (88): 336– 341. 
 
 Yi,    Kei Mu. 2003. “Can Vertical Specialization Explain the Growth of World Trade?” Journal of Political Economy ,    111 (1): 52–102. 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14f597a12850350197e28d864ea9e15e897fee998ba9548b7ec6420964c4e42b.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14f597a12850350197e28d864ea9e15e897fee998ba9548b7ec6420964c4e42b.jpg) 
 Figure 6.4: Graphs Accompanying Concept Checks and Discussion Questions 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dff91a15af7c2812e49fd59b5e63e471d041a5edcbf111b395ea7c4003030ce2.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dff91a15af7c2812e49fd59b5e63e471d041a5edcbf111b395ea7c4003030ce2.jpg) 
 Figure 6.5: Graphs Accompanying Concept Checks and Discussion Questions 
 # Mathematical Appendix 6. I: Unique Treshold in the Feenstra-Hanson Model 
 
@@ -408,11 +406,11 @@ The unit factor requirements $a_{L i}$ and $a_{H i}$ do not change under Hecksch
 Suppose the $\tau (j)$ schedule falls to $\tau^{\prime}(j)$ so that $J$ increases,    as depicted in the right panel of Figure 6.2. It is apparent from the graph that the cost savings beneﬁt $B (J)$ increases with the drop in $\tau (j)$ . 5 As a consequence,    the term $[1-B (J)/\omega]$ falls with more [[Chapter 6-Intermediate Input Trade and Offshoring|offshoring]]. The cost savings from [[Chapter 6-Intermediate Input Trade and Offshoring|offshoring]] act in a similar way as a drop in the marginal unit labor requirement $a_{H i}$ or a productivity increase of $a_{H i}$ . As discussed in the text,    however,    there is no physical change in productivity. Perfect price discrimination of contracting the tasks generates a quasi rent. 
 
 What else can change in the second equation? For the foreign country,    which cannot offshore under $A/A^{*}\,   >\,    1.$ ,    product prices $p_{i}\,   =\,    w_{H}^{*}\,    a_{H i}^{*}+w_{L}^{*}\,    a_{L i}^{*}$ determine the factor prices so that both $\boldsymbol{w}_{L}^{*}$ and $\boldsymbol{w}_{H}^{*}$ stay the same as before [[Chapter 6-Intermediate Input Trade and Offshoring|offshoring]]. If $\boldsymbol{w}_{L}^{*}$ stays the same,    then $w_{L}$ must remain ﬁxed at $w_{L}=(A/A^{*}) w_{L}^{*}$ . Similarly,    the product $[1\!-\! B (J)/\omega]\!\cdot\! W_{H}=(A/A^{*}) w_{H}^{*}$ must remain constant for given $a_{H i}$ . We conclude that $w_{H}$ must increase by the same percentage as the preceding term $[1-B (J)/\omega]$ falls. The term $B (J)$ measures the cost savings generated as we move $J$ up. When $J\,   =\,    0$ ,    then $B (J)\,   =\,    0,   $ ,    so that there is no cost savings. We are then back in the conventional Heckscher-Ohlin model with $p_{i}=w_{L}\,    a_{L i}+w_{H}\,    a_{H i}$ . 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44b31fee227fb194a5cb7cbb01debdd7c666a038de9c02fac2da891a7db6ef22.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44b31fee227fb194a5cb7cbb01debdd7c666a038de9c02fac2da891a7db6ef22.jpg) 
 Intermediate Input Price 
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f94d922e6c6539d8d741051b6934d49ba09f291fc0a5d7c4ee6766585e46a2b7.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f94d922e6c6539d8d741051b6934d49ba09f291fc0a5d7c4ee6766585e46a2b7.jpg) 
 Intermediate Input Price after Drop in Offshore Cost 
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df57a05ebd9f98613b5432780b98be8f20a7460944e8b2113447b9066e9a4e4f.jpg) 
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df57a05ebd9f98613b5432780b98be8f20a7460944e8b2113447b9066e9a4e4f.jpg) 
 Task Trade Choice 

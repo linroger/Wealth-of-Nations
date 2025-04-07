@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_192_Option Pricing And Implied Volatility.md
-- Alias_193_Option Pricing And Implied Volatility.md
+- 
+- 
 - 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 linter-yaml-title-alias: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 tags:
-- tag_example
+- 
 title: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 ---
-
-
-
 # 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 ## 1.1. PARAMETERS
 1. Stock price: 𝑆

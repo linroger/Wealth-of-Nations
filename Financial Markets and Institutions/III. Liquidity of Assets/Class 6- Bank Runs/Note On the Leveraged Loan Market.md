@@ -1,18 +1,14 @@
 ---
 aliases:
-- Alias_89_Note On the Leveraged Loan Market.md
-- Example_Alias_Note On the Leveraged Loan Market
+- Note On the Leveraged Loan Market.md
+- Note On the Leveraged Loan Market
 - Note On The Leveraged Loan Market
 linter-yaml-title-alias: Note On The Leveraged Loan Market
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Note On The Leveraged Loan Market
 ---
-
-
-
-
 # Note On the Leveraged Loan Market
 
 A leveraged loan is a senior secured syndicated credit that has a non-investment-grade rating or is priced like a non-investment-grade loan (which means that it carries a similar risk). Typically,  data providers classify loans as leveraged based on the spread: If the spread exceeds a certain threshold,  the loan is considered leveraged. This cutoff point is a moving target,  as spreads tend to compress in periods of credit expansion and expand in economic downturns.a As will be discussed later in this note,  leveraged loans are primarily held by institutional investors. It is due to the wide investor base that leveraged loans—as distinct from other [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]—are treated as a separate asset class and receive a lot of coverage from financial analysts.
@@ -116,7 +112,7 @@ had been steadily rising from 2003 through 2007,  which coincides with the CLO e
 
 ##### Exhibit 1 The Structure of a Typical LBO Debt
 
-![](CleanShot%202024-09-27%20-002898@2x.png)
+ ![500](CleanShot%202024-09-27%20-002898@2x.png)
 
 Source: Ulf Axlelson et al.,  "Borrow Cheap,  Buy High? The Determinants of Leverage and Pricing in Buyouts,  " *Journal of Finance*,  November 12,  2013,  p. 2235.
 
@@ -124,9 +120,9 @@ Source: Ulf Axlelson et al.,  "Borrow Cheap,  Buy High? The Determinants of Leve
 
 Source: Thomson Reuters LPC.
 
-![](Preview%202024-09-27%2000.48.56.png)
-![](Preview%202024-09-27%2000.49.08.png)
-![](Preview%202024-09-27%2000.49.14.png)
+ ![500](Preview%202024-09-27%2000.48.56.png)
+ ![500](Preview%202024-09-27%2000.49.08.png)
+ ![500](Preview%202024-09-27%2000.49.14.png)
 
 ##### Exhibit 3 **(continued)**
 
@@ -140,7 +136,7 @@ Lead share (%) Net % of respondants tightening standards for C&I loans Source: V
 
 Note: The graph is compiled from the DealScan database of loan originations and corresponds to U.S. nonfinancial [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]. Data on credit standard tightening comes from Federal Reserve Senior Loan Officer Opinion Survey on Bank Lending Practices. The series corresponds to the net percentage of domestic respondents tightening standards for commercial and industrial (C&I) loans to large and medium-sized firms. Lead share is a three-month rolling window average (equally weighted). The horizontal axis is modified to match the timing of the survey. Shaded areas indicate U.S. economic recessions as defined by NBER.
 
-![](Preview%202024-09-27%2000.49.23.png)
+ ![500](Preview%202024-09-27%2000.49.23.png)
 
 Source: S&P Capital IQ,  Leveraged Commentary & Data.
 
@@ -148,25 +144,25 @@ Note: Includes investor groups that either participated in three or more loans o
 
 ##### Exhibit 6 [[Course Notes/HBR Notes/Note on the Leveraged Loan Market|Leveraged Loans]] Holdings by Investor Type
 
-![](Preview%202024-09-27%2000.49.27.png)
-![](Preview%202024-09-27%2000.49.36.png)
+ ![500](Preview%202024-09-27%2000.49.27.png)
+ ![500](Preview%202024-09-27%2000.49.36.png)
 
 ##### Exhibit 6 (Continued)
 
 Subset of the above:
-![](Preview%202024-09-27%2000.49.40.png)
-![](CleanShot%202024-09-27%20-002906@2x.png)
+ ![500](Preview%202024-09-27%2000.49.40.png)
+ ![500](CleanShot%202024-09-27%20-002906@2x.png)
 
 Source: Standard & Poor's,  Leveraged Data and Commentary.
 
 ##### Exhibit 9 Total Loan Fund Assets under Management (billion U.S. dollars)
 
 Year-end data points Monthly data points Source: Standard & Poor's,  Leveraged Data and Commentary.
-![](Preview%202024-09-27%2000.50.53.png)
+ ![500](Preview%202024-09-27%2000.50.53.png)
 
 ##### Exhibit 10 Average Leveraged Loan Multiples of EBITDA
 
-![](Preview%202024-09-27%2000.51.01.png)
+ ![500](Preview%202024-09-27%2000.51.01.png)
 
 First Lien Second Lien LBO
 Source: Standard & Poor's,  Leveraged Data and Commentary.
@@ -176,7 +172,7 @@ Note: Includes borrowers with EBITDA of more than $50 million.
 ##### Exhibit 11 Volume and Fraction of Covenant-Lite Loans
 
 1 KPMG,  *Credit Markets Update December 31,  2017* 2 Bloomberg,  *Global Syndicated League Tables FY 2017* 20
-![](Preview%202024-09-27%2000.51.12.png)
+ ![500](Preview%202024-09-27%2000.51.12.png)
 
 ## Endnotes
 

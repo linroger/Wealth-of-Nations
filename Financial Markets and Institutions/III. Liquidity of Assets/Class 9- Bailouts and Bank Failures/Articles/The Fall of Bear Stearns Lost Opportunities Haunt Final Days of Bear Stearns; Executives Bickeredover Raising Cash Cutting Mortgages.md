@@ -1,21 +1,17 @@
 ---
 aliases:
-- Example_Alias_The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear
+- The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear
   Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
-- Alias_73_The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
+- The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
   Executives Bickeredover Raising Cash Cutting Mortgages.md
 - 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 linter-yaml-title-alias: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days
   of Bear Stearns '
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 ---
-
-
-
-
 # The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
 
 Executives Bickeredover Raising Cash Cutting Mortgages
@@ -45,7 +41,7 @@ Instead of managing these fickle forces,  though,  a brokerage whose culture and
 
 ### Early Warnings
 
-![](https://s.wsj.net/public/resources/images/P1-AL726_BearCh_20080526163221.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL726_BearCh_20080526163221.jpg)
 
 An August conference call fails to calm investors.
 
@@ -89,7 +85,7 @@ Bear Stearns -- with its immense stockpile of mortgages and related securities -
 
 ### 'We've Got to Cut!'
 
-![](https://s.wsj.net/public/resources/images/P1-AL727_BEARCh_20080526163234.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL727_BEARCh_20080526163234.jpg)
 
 'Ace' Greenberg argues to dump mortgage inventory.
 
@@ -131,7 +127,7 @@ Neither effort would bear fruit.
 
 ### Time to Move On
 
-![](https://s.wsj.net/public/resources/images/P1-AL728_BearCh_20080526163638.jpg)
+ ![500](https://s.wsj.net/public/resources/images/P1-AL728_BearCh_20080526163638.jpg)
 
 Alan Schwartz tells James Cayne he needs to step down as CEO.
 

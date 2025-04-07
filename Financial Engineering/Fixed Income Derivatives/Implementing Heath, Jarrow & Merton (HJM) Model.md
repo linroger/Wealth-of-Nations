@@ -1,4 +1,4 @@
-# Implementing Heath, Jarrow & Merton (HJM) Model
+# [[6. A Brief Introduction to Stochastic Calculus#3 Some Specific Models|Implementing Heath, Jarrow & Merton (HJM) Model]]
 # 1.1 HJM model by Monte Carlo Simulation.
 
 The Heath-Jarrow-Morton framework refers to a class of models that are derived by directly  modelling the dynamics of instantaneous forward-rates. The central insight of this framework  is to recognize that there is an explicit relationship between the drift and volatility parameters  of the forward-rate dynamics in a no-arbitrage world.
@@ -126,7 +126,7 @@ PCA can also be explained as a technique for finding common movements in the rat
 
 To implement the HJM model we use historical yield curve data from Bank of England from  January   $4^{\mathrm{th}}~2005$   to May   $31^{\mathrm{st}}\,2011$  . The data is semi-annually spaced starting from 6 month  maturity to 25 years maturity. For example, the data are the yield implied from zero coupon  bonds from 6 month maturity to 25 years. In addition, these data are nominal yield data which  has already been stripped and are downloaded from Bank of England website.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2df0fbe58fa362c42e2922327bd3216d051a7d69af085c4634a9c58b6b45424a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2df0fbe58fa362c42e2922327bd3216d051a7d69af085c4634a9c58b6b45424a.jpg)
 Figure 1.1  Data Source: See spreadsheet attached. Fwd curve tap.
 
 # 1.3 Covariance Matrix
@@ -164,12 +164,12 @@ We highlight the largest eigenvalues and the corresponding ei gen vectors which 
 
 Table 1.1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f89239b6490460c0c4efaf67f607e0651ff70dbae6ab0e3b7398ffb89d1318d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f89239b6490460c0c4efaf67f607e0651ff70dbae6ab0e3b7398ffb89d1318d.jpg)
 
 # 0.003931095
 
 The largest eigenvalue at the maturity point of 1.5 has a value of 0.002647853 and a variance  of  $67\%$  . This means that   $67\%$   of total variations are explained by the first principal component  which has the highest eigenvalue.   $84.9\%$   of the total variation is explained by the sum of the  first two principal components and finally,   $93\%$   of the total variations are explained by the all  three principal components. The figure below shows the term-structure of ei gen vectors  corresponding to the largest eigenvalues (principal components).
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e687c9df3ea36f1a298658474be70c49f4b063f9c70f7ae866af09d4ecdf4271.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e687c9df3ea36f1a298658474be70c49f4b063f9c70f7ae866af09d4ecdf4271.jpg)
 
 The figure above shows how the yield curve responds to different shocks. For example, as  stated before the first principal component is due to parallel shift in the yield curve while, the  second and the third principal components are due to twist and bending of the curve  respectively.
 
@@ -193,8 +193,8 @@ $$
 We then fit a function of the volatility so that we can do the integration. The first volatility is a  flat line (parallel shift). We also fit polynomial function of the second and the third volatility  function. Once we have these functions, we then do the integration. (See figure 1.3 below for  the  $2^{\mathrm{nd}}$   volatility function). See also the attached spreadsheet, v1, v2 and v3 tabs.
 
 Table 1.2 (Volatility matrix)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8836b7dd81be271bea7a42b464bf4e77810fe6d988dd2108c8ffae5f97fa8d1.jpg)
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c772ed7147df3910915ce76531154f321ff4ae9eaba3aa6a8303fe6ce63dfc4e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8836b7dd81be271bea7a42b464bf4e77810fe6d988dd2108c8ffae5f97fa8d1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c772ed7147df3910915ce76531154f321ff4ae9eaba3aa6a8303fe6ce63dfc4e.jpg)
 
 In spreadsheet, under the “sim forward rates” tab, we show the calculated risk-neutral function   $\mathbf{M}(\mathbf{t})$   with fitted values.
 
@@ -213,7 +213,7 @@ $$
 Where  $\mathrm{F(t,t)}$   is the current rate,  $\mathbf{M}(\mathbf{t})$   is the drift, vols are the vol at ili ties for the first, second and  third factors. The  $\mathbf{W}$   is the Brownian motion generated via the excel function Rand.  We then get the simulated entire HJM forward curve which we can use to price bonds or  derivatives for any maturity points.
 
 One issue we may notice in the simulated forward curve is that the rates we get at the longer  end of the maturity seems to be negative.  We may simply take the absolute value of the result  alternatively, re-investigate or check any potential errors in the data (this may be difficult if  one is working with large data set as in this case).
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a4bc1825f0c29a0515652ee5e9fda1af26bd94449efc586d6bc93641412d8f0d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a4bc1825f0c29a0515652ee5e9fda1af26bd94449efc586d6bc93641412d8f0d.jpg)
 Figure 1.4
 
 # 1.7 Pricing Zero Coupon Bond
@@ -251,7 +251,7 @@ $$
 (see VBA code module6 to see the function used). We can also either use the simulated forward  curve or use HJM function to calculate the forward curve quickly.
 The final result can be seen in the spreadsheet under the tab “Zero cp n Price”.  Enter the  parameters and also number of simulations and the price of the bond is calculated. Reaching  the number of simulations to 1000, excel is extremely slow. The chart below shows the  simulated zero coupon bond price.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/583ba6767955d0b52c4e4ab27b7159c04f9c29b64599ae6f15f871f94f033a8b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/583ba6767955d0b52c4e4ab27b7159c04f9c29b64599ae6f15f871f94f033a8b.jpg)
 Figure 1.5
 
 # Interest Rate Options (Cap/Floor)
@@ -273,14 +273,14 @@ $$
 We then take the above payoff and scale these by a unique discount factor for each simulation.  In the attached spreadsheet, you will be able to see the discounted cap and floor prices for each  simulation
 
 Table. 1.3
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f7e41f3f67149353adec371864d217ca3dc8e7335521be309f1bcf8e22f804b2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f7e41f3f67149353adec371864d217ca3dc8e7335521be309f1bcf8e22f804b2.jpg)
 Change the number of simulation input and press the gray button to see different iterations of  the Cap and Floor price computations. The figure below shows the CAP price convergence as  the number of simulations is increased from low number up to 1000 simulations. At lower  simulations prices seem to fluctuates but stabilize later afer 200 simulations. So increasing the  number of simulations from 400 to 1000 does not have any significant change in the prices but  also reduces the computation speed.
 
 Figure 1.6
 
 # Cap price covergence
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1a548b1d3525a8b8453d1e416f5b20d95742095d3acadb3bcedc330bb952240.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1a548b1d3525a8b8453d1e416f5b20d95742095d3acadb3bcedc330bb952240.jpg)
 # References
 
 M. Avellaneda, A. Levy, A. Paras,  “Pricing and hedging derivative securities in markets with uncertain  vol at ili ties” , Journal of   Applied Finance, Vol 1, 1995

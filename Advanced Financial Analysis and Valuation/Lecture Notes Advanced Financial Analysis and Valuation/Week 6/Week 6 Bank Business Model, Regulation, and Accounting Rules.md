@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Alias_330_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
-  - Alias_327_Week 6 Bank Business Model, Regulation, and Accounting Rules.md
 tags:
-  - tag_example
+
   - "#banking"
   - "#risk-management"
   - "#regulation"
@@ -13,8 +11,6 @@ tags:
   - "#loan-loss-provisions"
   - "#bank-regulation"
 ---
-
-
 Banks: Business Model, Regulation and Accounting Rules
 
 ## BUSINESS MODEL BANKS: MAIN ACTIVITIES AND FUNCTIONS
@@ -52,12 +48,12 @@ credit cards)
 
 ## BALANCE SHEETS OF U.S. BANKS
 
-![](348ae1376b2afaad5fb7aba135f798a1.png)
+ ![500](348ae1376b2afaad5fb7aba135f798a1.png)
 Source: FDIC, all institutions * Includes bank premises and [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]]; ** includes interbank borrowings and senior/subordinated debt issuances
 
 ## INCOME STATEMENTS OF U.S. BANKS (AGGREGATE)
 
-![](c14280fef924cec96ba2e19c519092a5.png)
+ ![500](c14280fef924cec96ba2e19c519092a5.png)
 Source: FDIC, all institutions
 
 ## BANKS ARE VERY DIFFERENT
@@ -123,7 +119,7 @@ market risk in their securities portfolio when computing RWA        - p VaR is d
 
 ## RISK-WEIGHTED ASSETS (RWA) (CONT.)
 
-![](151f1c8d6d16a3ab10764edb722a8af4.png)
+ ![500](151f1c8d6d16a3ab10764edb722a8af4.png)
 
 ### KEY BASEL III RATIOS
 - Common Tier 1 ratio: CT1 / RWA > 4.5%
@@ -141,24 +137,24 @@ requirements are even more stringent
 
 ## BASEL III REGULATION
 
-![](34cbe6562cc91d2366ea3849778b0d25.png)
+ ![500](34cbe6562cc91d2366ea3849778b0d25.png)
 
 ### PHASED -IN IMPLEMENTATION
 
-![](dd4c95dd7bda613a88e5701f5a74366a.png)
+ ![500](dd4c95dd7bda613a88e5701f5a74366a.png)
 Source: Accenture
 
  - Basel III Handbook 2011
 
 ## PHASED-IN IMPLEMENTATION (CONT.)
 
-![](9ba1598ac1c991009329d70dabc98e77.png)
+ ![500](9ba1598ac1c991009329d70dabc98e77.png)
 
 ## LOAN LOSS ACCOUNTING
 
 ### PROVISION AND ALLOWANCE FOR LOAN AND LEASE LOSSES
 
-![](1d36ad45092793858aca191474bc44a0.png)
+ ![500](1d36ad45092793858aca191474bc44a0.png)
 
 - Banks maintain reserve accounts to offset losses they incur on bad loans
 - A loan loss provision is an expense creating an allowance for uncollected loan
@@ -180,14 +176,14 @@ losses" to models based on "expected losses" (CECL):        - IFRS 9
 
 ## HIGH-LEVEL DIFFERENCES BETWEEN IFRS AND US GAAP
  - Fasb And Iasb Both Adopted An Expected Credit Loss Approach And Replaced The Incurred Loss Approach. However, Some Differences Remain:
-![](a4922ce8471810933bfd4d95dc873fd6.png)
+ ![500](a4922ce8471810933bfd4d95dc873fd6.png)
 
 Life of Loan
 Not Mandated (greater flexibility)
 
 ## HIGH-LEVEL DIFFERENCES BETWEEN IFRS AND US GAAP
 
-![](0bcfc9ea70d1377e18e72a10f1b00e94.png)
+ ![500](0bcfc9ea70d1377e18e72a10f1b00e94.png)
 
 Source: KPMG Advisory Insight, PwC In depth Report (2017), Congressional Research Service (2018)
 
@@ -210,13 +206,13 @@ case-by-case basis
 
 ## CYCLICALITY IN LOAN LOSSES
 
-![](a13c861ec8b9402bb5ee9727649fb742.png)
+ ![500](a13c861ec8b9402bb5ee9727649fb742.png)
 
 ### DELAY IN LLPS AND NET CHARGE-OFFS
 - During 2007-2008, banks increased their LLPs to catch up with rising charge-offs
 	   - LLPs should be cover future loan losses (not current ones)
 	   - LLPs increase in a middle of a crisis (procyclicality)
-![](ac5a761bac8def01fcff19415b5000c5.png)
+ ![500](ac5a761bac8def01fcff19415b5000c5.png)
 ## THE INCURRED LOSS MODEL IN THE FINANCIAL CRISIS
 
 - In the U.S.:
@@ -265,7 +261,7 @@ delay implementing CECL until December 31, 2020, or until the end of the coronav
 
 ## RECENT JUMP IN LOAN LOSS PROVISIONS
 
-![](2e5f53bc3510ce54a57ac25e4ab67c7e.png)
+ ![500](2e5f53bc3510ce54a57ac25e4ab67c7e.png)
 
 - Two effects: CECL adoption and COVID
 Source: Financial Times, FactSet

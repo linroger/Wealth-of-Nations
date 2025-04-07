@@ -1,17 +1,15 @@
 ---
 aliases:
-- Example_Alias_Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange
+- Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange
   Offers
-- Alias_9_Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md
+- Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
 ---
 
 [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
-
-
 # Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
 **Includes Note 6A: Coercive Exchange Offers and Exit Consents at the End**
 

@@ -89,7 +89,7 @@ plt.title("Hull-White Short Rate Simulation")
 plt.show()
 ```
 
-![](Unknown.png)
+ ![500](Unknown.png)
 The short rate $r(t)$ is given a distribution with the properties:
 
 $$ E\{r(t) | F\_s\} = r(s)e^{-a(t-s)} + \alpha(t) - \alpha(s)e^{-a(t-s)} $$ $$ Var\{ r(t) | F\_s \} = \frac{\sigma^2}{2a} [1 - e^{-2a(t-s)}] $$ where $$ \alpha(t) = f^M(0,  t) + \frac{\sigma^2} {2a^2}(1-e^{-at})^2$$
@@ -120,7 +120,7 @@ Out\[8\]:
 <matplotlib.text.Text at 0x7f555d561ad0>
 ```
 
-![](variance_of_short_rates.png)
+ ![500](variance_of_short_rates.png)
 In \[9\]:
 
 ```latex
@@ -139,7 +139,7 @@ Out\[9\]:
 <matplotlib.text.Text at 0x7f555d6a9e10>
 ```
 
-![](mean_of_short_rates.png)
+ ![500](mean_of_short_rates.png)
 
 ## Conclusion
 

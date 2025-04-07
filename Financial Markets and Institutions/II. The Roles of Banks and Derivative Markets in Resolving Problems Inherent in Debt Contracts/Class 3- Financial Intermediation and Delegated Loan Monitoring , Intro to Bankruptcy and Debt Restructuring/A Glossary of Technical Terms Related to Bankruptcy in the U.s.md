@@ -1,19 +1,15 @@
 ---
 aliases:
 - A Glossary of Technical Terms Related to Bankruptcy in the US
-- Example_Alias_A Glossary of Technical Terms Related to Bankruptcy in the U
-- Alias_25_A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
+- A Glossary of Technical Terms Related to Bankruptcy in the U
+- A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
 linter-yaml-title-alias: A Glossary of Technical Terms Related to Bankruptcy in the
   US
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
 ---
-
-
-
-
 # A Glossary of Technical Terms Related to Bankruptcy in the U.s
 
 This note briefly describes the most important legal forms of U.S. bankruptcy: Chapter 7 and Chapter 11,  and provides definitions of technical terms related to the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] process.

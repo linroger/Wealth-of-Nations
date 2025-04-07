@@ -3,8 +3,8 @@ cssclasses: academia
 aliases: [Corporate Default and Recovery Rates,  1920-2008,  Special Comment]
 linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
 tags:
-  - tag_example
-  - example_tag
+
+  - 
 title: "Moody's Corporate Default and Recovery Rates,  1920-2008"
 ---
 
@@ -94,7 +94,7 @@ Across regions,  84 of the 101 defaulters in 2008 were North American issuers (7
 
 Rating downgrades in 2008 surpassed rating upgrades for the first time since 2003. The upgrade-todowngrade ratio fell significantly from 2.0 in 2007 to 0.3 in 2008. Measured using post-default trading prices,  the average recovery rate for senior unsecured bonds dropped from $53.3\%$ in 2007 to $33.8\%$ in 2008.
 
-![](https://storage.simpletex.cn/view/fCNXal98RN919XD21MXRGBtXqqQrOqozv)
+ ![500](https://storage.simpletex.cn/view/fCNXal98RN919XD21MXRGBtXqqQrOqozv)
 
 ------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.
 
 Exhibit 1
 
-![](https://storage.simpletex.cn/view/fxXHkXynslcwxSTC2TX80kWGDFE6GFeg8)
+ ![500](https://storage.simpletex.cn/view/fxXHkXynslcwxSTC2TX80kWGDFE6GFeg8)
 
 Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming,  & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and Banking sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting financial institutions in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
 
@@ -233,7 +233,7 @@ As a result of rapidly increasing defaults in 20 o 8,  the trailing twelve-month
 
 Exhibit 3
 
-![](https://storage.simpletex.cn/view/fr1zLQRcO8DHYbiUu7RleAzlxY2iLpODw)
+ ![500](https://storage.simpletex.cn/view/fr1zLQRcO8DHYbiUu7RleAzlxY2iLpODw)
 
 ------------------------------------------------------------------
 
@@ -243,7 +243,7 @@ Consistent with rapidly weakening credit quality and increasing numbers of defau
 
 Exhibit 4
 
-![](https://storage.simpletex.cn/view/firodfAfXHmbknsVY6Bk5Giw6QcQPtgmW)
+ ![500](https://storage.simpletex.cn/view/firodfAfXHmbknsVY6Bk5Giw6QcQPtgmW)
 
 Historically,  as shown by Moody's research,  default rates and recovery rates are negatively correlated. In 2008,  this negative correlation reared its head again as rising default rates coincided with declining recovery rates. As shown in Exhibit 5,  and as measured by post-30 day trading prices,  average recovery rates for bonds and loans in all lien positions dropped in 2008 from 2007. For example,  in 2008,  senior unsecured bondsrecovered an average of $33.8\%$ on an issuer-weighted basis,  well below 2007's $53.3\%$ .Measured on a value-weighted basis,  the decline was even more pronounced as the average senior unsecured bond recovery rate fell to $26.2\%$ in 2008,  from alevel of $56.9\%$ a year earlier. And relative to historical averages,  recovery. Rates ofalldebts,  with the exception of senior secured bonds,  werebelow average in 2008 when measured on an issuer-weighted basis
 
@@ -731,13 +731,13 @@ During 2008. 2. There were only two sr. Sub bond defaults in 2008.
 
 Correlation between Default and Recovery Rates
 
-![](https://storage.simpletex.cn/view/fPFgUNzh1mKhvpaeEm5Xy6bMrI3kCIpHQ)
+ ![500](https://storage.simpletex.cn/view/fPFgUNzh1mKhvpaeEm5Xy6bMrI3kCIpHQ)
 
 Moody’s credit ratings are opinions of relative expected credit losses upon default,  which are functions of both the probability of default and severity of default (LGD). Exhibit 10 shows annual credit loss rates from 1982 to 2008 for Moody's-rated corporate issuers. In 2008,  the rising default rate,  coupled with a higher loss severity rate,  led to an increase in the credit lossrate among Moody’s-rated issuers to $1.2\%$ ,  compared to $0.2\%$ in 2007. The average annual credit loss rate since 1982 is $0.9\%$ (see underlying data in Exhibit 29)
 
 Exhibit 10
 
-![](https://storage.simpletex.cn/view/fxTEmlkAogMgnBFcveV1qzrH1yKgciyBh)
+ ![500](https://storage.simpletex.cn/view/fxTEmlkAogMgnBFcveV1qzrH1yKgciyBh)
 
 ------------------------------------------------------------------
 
@@ -753,7 +753,7 @@ Exhibit 11 shows the model's baseline forecasts through 2009,  as well as the op
 
 Exhibit 11
 
-![](https://storage.simpletex.cn/view/f9YhaqBE0SXruA6BryMokla9F3DB1Rl1Q)
+ ![500](https://storage.simpletex.cn/view/f9YhaqBE0SXruA6BryMokla9F3DB1Rl1Q)
 
 The high level of the high yield bond spread,  which is a primary driver underlying the model's forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. Oo 0 basis points,  also climbed sharply and now stands at $52.6\%$ of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
 
@@ -765,13 +765,13 @@ high yield spreads,  and Moody’s Distressed Issuer index. The historical data 
 
 Exhibit 12
 
-![](https://storage.simpletex.cn/view/fRaNQcBl2Xr7BSNHA5wK92MOcz9th0UqK)
+ ![500](https://storage.simpletex.cn/view/fRaNQcBl2Xr7BSNHA5wK92MOcz9th0UqK)
 
 The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers. As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost $25\%$ of Moody's speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . Roughly $60\%$ of issuers currently rated Caa 1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
 
 Exhibit 13
 
-![](https://storage.simpletex.cn/view/f8zmGKBTawg4Wo2p8uhgxsgVLvuqC5Www)
+ ![500](https://storage.simpletex.cn/view/f8zmGKBTawg4Wo2p8uhgxsgVLvuqC5Www)
 
 ------------------------------------------------------------------
 
@@ -781,7 +781,7 @@ In addition to deteriorating credit quality,  refunding risks are projected to i
 
 Exhibit 14
 
-![](https://storage.simpletex.cn/view/fIhrLdsiUnFn7xHbZNWipyStOP7REWk0w)
+ ![500](https://storage.simpletex.cn/view/fIhrLdsiUnFn7xHbZNWipyStOP7REWk0w)
 
 Across geographical regions,  the speculative default rate is expected to climb to $15.8\%$ in the U.S. by year-end 2009,  while the European default rate is expected to rise more sharply to $19.6\%$ .Driving this differential is the currently weaker ratings mix among European speculative-grade issuers relative to U.S. issuers.
 
@@ -962,7 +962,7 @@ As recovery rates are negatively correlated with default rates,  Moody's expects
 
 Exhibit 16
 
-![](https://storage.simpletex.cn/view/fpcRQLmqAkgeacwKSCkr9dVYTllbl2wyn)
+ ![500](https://storage.simpletex.cn/view/fpcRQLmqAkgeacwKSCkr9dVYTllbl2wyn)
 
 # Rating Accuracy Metrics
 
@@ -970,7 +970,7 @@ Moody’s ratings have historically proven to be effective predictors of default
 
 Exhibit 17
 
-![](https://storage.simpletex.cn/view/fYzKGZTOHAdNzDkO7rdN1gZupfYbT6ziG)
+ ![500](https://storage.simpletex.cn/view/fYzKGZTOHAdNzDkO7rdN1gZupfYbT6ziG)
 
 As a valuable tool tomeasure credit risk,  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default. Ametric designed to measure this aspect of ratings performance is the cumulative accuracy profile (CAP) plot as shown in Exhibit 18. A rating system that possessed no predictive information about default risk would lie on the $45^0$ line; the further the CAP curve
 
@@ -982,13 +982,13 @@ Bows toward the northwest comer,  the betterit is at identifying defaults in the
 
 Exhibit 18
 
-![](https://storage.simpletex.cn/view/f4BEZ9TBvksKxvgAeiRpNfWGNlg7KCMXw)
+ ![500](https://storage.simpletex.cn/view/f4BEZ9TBvksKxvgAeiRpNfWGNlg7KCMXw)
 
 Another way to measure rating performance is the accuracy ratio,  which is derived from the CAP curve. The accuracy ratio (AR) is the ratio of the area between the CAP curve and the $45^{\circ}$ line,  to the maximum possible area above the $45^0$ line. AR values range from minus one to positive one and a higher AR indicates better. Rating accuracy. Exhibit 19 shows both oneand five-year horizon accuracy ratios for the period of 1983-2008. The graph suggests that the one-year accuracy ratiois positively correlated with the credit cycle: when defaults increase,  the accuracy ratio falls. At the five-year horizon this correlation is much less evident. In the short run,  the stability objective of Moody's rating system dampens rating changes; at longer time horizons,  the stability objective is less of a constraint,  and accuracy increases.
 
 Exhibit 19
 
-![](https://storage.simpletex.cn/view/fOBS9pBaLGukxypghRsrQVEpkNeExkgvu)
+ ![500](https://storage.simpletex.cn/view/fOBS9pBaLGukxypghRsrQVEpkNeExkgvu)
 
 ------------------------------------------------------------------
 

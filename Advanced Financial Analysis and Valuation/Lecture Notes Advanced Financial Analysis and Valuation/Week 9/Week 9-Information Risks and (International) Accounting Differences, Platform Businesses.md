@@ -1,11 +1,9 @@
 ---
 aliases:
-  - Alias_323_Week 9-Information Risks and (International) Accounting Differences
   - Platform Businesses.md
-  - Alias_320_Week 9-Information Risks and (International) Accounting Differences
   - Platform Businesses.md
 tags:
-  - tag_example
+
   - "#finance"
   - "#accounting"
   - "#valuation"
@@ -33,13 +31,13 @@ title: Week 9-Information Risks and (International) Accounting Differences,  Pla
 # Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses
 ## EVOLUTION OF ACCOUNTING STANDARDS
 
-![](342618fd2e9a63f7be454abc6aed1b89.png)
+ ![500](342618fd2e9a63f7be454abc6aed1b89.png)
 
  - Standards continue to evolve and rule changes can pose significant challenges
 
 ## ACCOUNTING STANDARDS MAP
 
-![](f8bf5429c361fe9ed1663f3c37a9a0c1.png)
+ ![500](f8bf5429c361fe9ed1663f3c37a9a0c1.png)
 
 ## IFRS ADOPTION WORLDWIDE
 - - International Financial Reporting Standards (IFRS) has become the de‐facto global reporting language
@@ -51,7 +49,7 @@ title: Week 9-Information Risks and (International) Accounting Differences,  Pla
 	- Statutory reporting often still follows local GAAP
 		- E.g.,  a non‐listed private subsidiary 
 		- E.g.,  parent‐only accounts
-		- ![](7c349dedee13466e9c00e9cc08c8e796.png)
+		-  ![500](7c349dedee13466e9c00e9cc08c8e796.png)
 
 ## 'APPLES TO APPLES' APPROACH AT MORGAN STANLEY
 - “Valuation is the biggest challenge for global investing”
@@ -66,7 +64,7 @@ title: Week 9-Information Risks and (International) Accounting Differences,  Pla
 
 ## CREDIT SUISSE HOLT APPROACH: OPERATING RETURNS (CFROI)
 
-![](a314217da104e48bc0cecf84c83fbb04.png)
+ ![500](a314217da104e48bc0cecf84c83fbb04.png)
 CFROI is defined as the average economic return on all of a company's investment projects in a given year. It is a multi‐year concept,  close to the IRR of the existing projects
 
 ## ACCOUNTING DIFFERENCES AND VALUATION
@@ -106,19 +104,19 @@ CFROI is defined as the average economic return on all of a company'
 
 ## EARNINGS OPACITY AROUND THE WORLD
 
-![](504ad9e2e965b2f34ce7bf729667a037.png)
+ ![500](504ad9e2e965b2f34ce7bf729667a037.png)
 
 - The aggregate score is an average over 4 metrics capturing a wide range of practices that make earnings more opaque. 
 - The full sample consists of 70, 955 firm year observations for fiscal years 1990 to 1999 across 31 countries and 8, 616 non‐financial firms.
 
 ## UPDATED TRANSPARENCY SCORES
 
-![](d6b557a5bbf18af62cca39ae2d6abc9f.png)
+ ![500](d6b557a5bbf18af62cca39ae2d6abc9f.png)
 Higher score means LESS transparent
 
 ## UPDATED TRANSPARENCY SCORES (CONT.)
 
-![](c82faf1fe29679315846986806731fc2.png)
+ ![500](c82faf1fe29679315846986806731fc2.png)
 
  - The correlation in the scores across time is very high (> 0.70)
  - The rank order of countries has not much changed over the years
@@ -186,7 +184,7 @@ prepared in accordance with IFRSs **as adopted by the EU**"
 
 ## "NEW VARIATION"
 
-![](0ba61c391dfce8147837dc026d5c16d1.png)
+ ![500](0ba61c391dfce8147837dc026d5c16d1.png)
 
  - Examples of companies in same sector that treat amortization differently
 
@@ -223,19 +221,19 @@ prepared in accordance with IFRSs **as adopted by the EU**"
 
 Claim: Expense 5 is a non‐recurring expense or non‐cash item (like depreciation and amortization)
 But why stop there?
-![](25c1d7a5c04335ee135402d8f20f57d9.png)
+ ![500](25c1d7a5c04335ee135402d8f20f57d9.png)
 
 ## PROXIM ‐ WAS IT 6¢ PROFIT OR  $3.87 LOSS?
 
  - Proxim has excluded almost every expense in their pro forma earnings (2001)
-![](d10545de69894e85116490a6658e0a3f.png)
+ ![500](d10545de69894e85116490a6658e0a3f.png)
 
  - Revenues were only $85 million
  - Only expenses that are not excluded:   COGS,  SG&A,  and R&D 
 
 ## WEWORK: "COMMUNITY ADJUSTED EBITDA"
 
-![](d383287c544e32b05ed4d3af1f3451a8.png)
+ ![500](d383287c544e32b05ed4d3af1f3451a8.png)
 WeWork devised "Community Adjusted EBITDA" to measure [[Operating Income vs. Net Income What's the Difference|Net Income]] before not only interest,  taxes,  depreciation,  and amortization,  but also "building and community‐level operating expenses, " a category that includes rent and tenancy expenses,  utilities,  internet,  the salaries of building staff,  and the cost of building amenities (which WeWork described as "our largest category of expenses").
 
 ## COMMON PRACTICE
@@ -251,7 +249,7 @@ WeWork devised "Community Adjusted EBITDA" to measure [[Operating Income vs. Net
 
 ## WIDENING GAAP COMMON 
 
-![](6ee1abf6e3dcc2ac8600725599215cec.png)
+ ![500](6ee1abf6e3dcc2ac8600725599215cec.png)
 
 ## EXCLUSIONS IN NON‐GAAP NUMBERS
 
@@ -266,7 +264,7 @@ WeWork devised "Community Adjusted EBITDA" to measure [[Operating Income vs. Net
  - Advertising
  - Interest expenses
  - Litigation related charges
-![](abe506bcdff278fc05baea03a673bab2.png)
+ ![500](abe506bcdff278fc05baea03a673bab2.png)
 # NON‐GAAP REPORTING REVISITED ## HOW SHOULD WE THINK ABOUT NON‐GAAP REPORTING?
  - This practice leads to "new" accounting differences
 	- Despite US GAAP,  firms start defining their numbers on their own
@@ -281,7 +279,7 @@ WeWork devised "Community Adjusted EBITDA" to measure [[Operating Income vs. Net
 
 ## SPECIAL ITEMS CAN BE MATERIAL (BUT ALSO RECURRING)
 
-![](f6b84e22f4cf2382fa587205bb474974.png)
+ ![500](f6b84e22f4cf2382fa587205bb474974.png)
 
 ## EXAMPLE FOR POTENTIAL TO MISLEAD
  - Delphi created a non‐GAAP measure: "operating cash flow"
@@ -323,11 +321,11 @@ Operating CF = net income + depreciation & other non‐cash charges �
 
 # DROPBOX: INVESTOR PRESENTATION HIGHLIGHTS NON‐GAAP
 
-![](5de726dd2ba38c50cdfb3038c5bcdf95.png)
+ ![500](5de726dd2ba38c50cdfb3038c5bcdf95.png)
 
 ## DROPBOX: RECONCILIATION
 
-![](976d664054cc8c00dc54db8502868e9d.png)
+ ![500](976d664054cc8c00dc54db8502868e9d.png)
 
 ## CAN YOU GET IN TROUBLE FOR NON‐GAAP REPORTING?
 
@@ -344,13 +342,13 @@ by 6% three days later when the one‐time gain was revealed
 # PLATFORM AND SUBSCRIPTION BUSINESSES
 ## NEW BUSINESS MODEL
 - #### Subscription Business Growth Versus the SP 500
-- ![](af8bd2e70fbd80a0d3a5cdfefc37d7e5.png)
+-  ![500](af8bd2e70fbd80a0d3a5cdfefc37d7e5.png)
 
 # CUSTOMER ‐BASED VALUATION: BLUE APRON
 
 ## RECALL: UNIT ECONOMICS
 
-![](5649ab0b09bbcb934598ce83b5e7c867.png)
+ ![500](5649ab0b09bbcb934598ce83b5e7c867.png)
 
 ## WHAT IS CUSTOMER‐BASED VALUATION?
  - We can use unit economic decompositions to value the entire firm: Customer Based Corporate Valuation (CBCV)
@@ -362,14 +360,14 @@ by 6% three days later when the one‐time gain was revealed
  - This same structure can be applied to any level of unit
 	- Higher level customer (business,  store)
 	- Supply‐side unit (restaurant,  plane)
-![](36a4cebd0ff451ccbdad34ea299920df.png)
+ ![500](36a4cebd0ff451ccbdad34ea299920df.png)
 ## VALUATION EXAMPLE: BLUE APRON AT IPO
 
  - CAC = Total Marketing Expense / Total Customers Acquired in Period = $94
  - Lifetime value (LTV) = Revenue * Gross Margin = 939 * 31.2% = $293
 	- Assume cohort lasts for 3 years and gross margin stays at Q1'17 levels
  - LTV / CAC = 3.1x
-![](24017771e77ddbc4015461622b2e2f6b.png)
+ ![500](24017771e77ddbc4015461622b2e2f6b.png)
 ## BLUE APRON: NUMBER OF CUSTOMERS
 
  - Active customers (S1,  2017) = 1.04M
@@ -388,7 +386,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 	- IPO Valued Blue Apron at 1.9B
  - Even using all their numbers with no scrutiny,  IPO was heavily overvalued
 	- Market cap < 40M
-![](60cab78917edb1aaa79b9a80a36684d5.png)
+ ![500](60cab78917edb1aaa79b9a80a36684d5.png)
 ## MODELING ISSUES WITH CBCV
 - HETEROGENEITY OF CUSTOMERS
 	- Firms go from customers with strongest product‐market fit to weakest
@@ -406,7 +404,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 
 ## COMMON ERRORS (MAUBOUSSIN)
 
-![](60423097173a249ff3081cd172f572ac.png)
+ ![500](60423097173a249ff3081cd172f572ac.png)
 
 # SAAS VALUATION
 
@@ -425,7 +423,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 
 ## ASC 606 EXAMPLE: ALTERYX
 
-![](6928510aafa14d84ee1a6d6c501d38c9.png)
+ ![500](6928510aafa14d84ee1a6d6c501d38c9.png)
 
  - Some recognition of revenue up front
  - RPO in Year 1 = Sum of future revenues
@@ -438,7 +436,7 @@ $$\text{Total Customers} =\frac{\text{TAM of market in future} ∗ \text{a
 and "quasi‐unforecastable" 
  - Example: Zoom valuation
 	- JPM in Nov 2020
-![](faf6fddd3a7386ba5122662a896ea719.png)
+ ![500](faf6fddd3a7386ba5122662a896ea719.png)
 ## SAAS VALUATION (USING SALES MULTIPLE)
 
  - Common method for valuing SaaS firms is using a multiple based off of ARR:
@@ -455,7 +453,7 @@ traditional UC market + combined education and UC market
 
 ## SAAS VALUATION USING MULTIPLES -
 
-![](7e24147c51d2dce855a9fb808cd60c4d.png)
+ ![500](7e24147c51d2dce855a9fb808cd60c4d.png)
 
 - VALUATION GUIDE BY SAAS CAPITAL
 	- DESCRIBES COMMON SALES‐MULTIPLE APPROACH TO SAAS COMPANY VALUATION

@@ -27,7 +27,9 @@ linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 	- [[Understanding the Yield Curve Notes]]
 	- [[Understanding The Yield Curve- Part 1]]
 	- [[Understanding the Yield Curve- Part 2]]
-	- [[Untitled 2]]
-	- [[Yield Curve Extraction Methods-A Comprehensive Analysis ]]
+	- [[Untitled 2.md .gitFinderDeleted]]
+	- [[Vasicek Short Rate Model]]
+	- [[Yield Curve Extraction Methods-A Comprehensive Analysis .md .gitFinderDeleted]]
+	- [[Yield Curve Extraction Methods-A Comprehensive Analysis]]
 
 %% End Waypoint %%

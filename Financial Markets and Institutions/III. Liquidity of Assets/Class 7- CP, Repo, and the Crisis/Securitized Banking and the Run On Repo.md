@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Example_Alias_Securitized Banking and the Run On Repo
-  - Alias_42_Securitized Banking and the Run On Repo.md
+  - Securitized Banking and the Run On Repo
+  - Securitized Banking and the Run On Repo.md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - quantitative-finance
   - financial-crises
   - repo-market
@@ -59,7 +59,7 @@ Balance sheet,  along with other non-mortgage loans made to retail and commercia
 
 Traditional-banking runs,  for the most part,  were ended in United States after the Great Depression,  owing to a combination of influences,  including enhanced dis count window lending by the Federal Reserve and the introduction of deposit insurance. Deposit insurance removes any incentive for insured depositors to withdraw their funds,  but larger insured banks cannot offer insured depositors to non retail depositors (including sovereign wealth funds,  mutual funds,  and cash-rich companies) One solution to this problem is the securitized-banking system illustrated in Fig. 2,  which takes large deposits from investors (Step 1) and then intermediates these deposits to mortgage borrowers (Steps 2 and 3) and other debtors,  Step 1 in Fig. 2 is an analogue to Step A from Fig. 1,  with one important difference. In the traditional-banking sys-. Tem shown in Fig. 1,  the deposits are insured by the government. To achieve similar protection in Step 1 of Fig. 2,  the investor receives collateral from the bank. In practice,  this deposit-collateral transaction takes the form of a [[Financial Markets and Institutions/III. Liquidity of Assets/Class 7- CP,    Repo,    and the Crisis/Class 7- CP,    Repo,    and the Crisis.md|repo]] agreement: the investor buys some asset (i.e.,  the collateral) from the bank for $sx$ and the bank agrees to repurchase the same asset some time later (perhaps the next day) for $\$Y.$ The percentage $(Y-X)/X$ is the repo rate and is analogous to the interest rate on a bank deposit
 
-![](https://storage.simpletex.cn/view/fmSeg2dnFdVakc1f1gTNM8hrCknrw38z6)
+ ![500](https://storage.simpletex.cn/view/fmSeg2dnFdVakc1f1gTNM8hrCknrw38z6)
 
 Fig. 2. Securitized banking
 
@@ -73,7 +73,7 @@ banking system to insolvency. Take as a benchmark a repo market size of,  for ex
 
 State variables used in the paper: the ABX index—which proxies for fundamentals in the subprime mortgage market and the LIB Is,  which is the spread between the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] (London Inter Bank Offered Rate,  for unsecured interbank borrowing) and the rate on an overnight interest swap (OlS) a proxy for the risk-free rate. In our analysis the LIB-OIS spread acts primarily as a proxy for counterparty risk in the banking system. We then plot runs. There were runs,  in particular,  on asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] programs and structured investment vehicles. Papers that consider the runs on asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] programs during the crisis include Covitz,  Liang,  and Suarez (2009) and Carey,  Correa,  and Kotter (2009). Aside from asset-backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  . The [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] of financial firms,  the predominant issuers of corporate short-term [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] also saw withdrawals when investors refused to reinvest as these state variables for 2007 and 2008 and review the timeline for the crisis.
 
-![](https://storage.simpletex.cn/view/fCnORz7FEwpnX8SXKGODK6Xyw5cCGZpE4)
+ ![500](https://storage.simpletex.cn/view/fCnORz7FEwpnX8SXKGODK6Xyw5cCGZpE4)
 
 Fig. 4. The repo-haircut index. The repo-haircut index is the equally weighted average haircut for all nine asset classes included in Table 2,  Panel D.
 
@@ -819,7 +819,7 @@ Singh,  M.,  Aitken,  J.,  2010. The (sizeable) Role of Rehypothecation in the S
 
 Stanton,  R.,  Wallace,  N.,  2009. The Bear's Lair: Indexed Credit Default Swaps and the Subprime Mortgage Crisis. Unpublished Working Paper,  University of California,  Berkeley,  CA.
 
-Stigum,  M.,  Crescenzi,  A.,  2007. Stigum's Money Market,  ,         fourth ed.
+Stigum,  M.,  Crescenzi,  A.,  2007. Stigum's Money Market,         fourth ed.
 
 McGraw Hill.
 

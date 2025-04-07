@@ -3,11 +3,11 @@ cssclasses:
   - academia
 Owner: RRoger Lin
 aliases:
-  - Alias_131_Note on the Leveraged Loan Market.md
-  - Alias_132_Note on the Leveraged Loan Market.md
+  - 
+  - 
 tags:
   - Primers/Notes
-  - tag_example
+
 title: Note on the Leveraged Loan Market
 ---
 
@@ -56,7 +56,7 @@ The goal of this note is to introduce key concepts related to the leveraged loan
 |Preferred equity|2.6%|0.5%|
 
 **Exhibit 2** Annual Syndicated Loan Issuance,  Global Market (billion U.S. dollars)
-![[Exhibit 2 Annual Syndicated Loan Issuance,  Global Market (billion U.S. dollars) 1 1.png]]
+![[Exhibit 2 Annual Syndicated Loan Issuance,  Global Market (billion U.S. dollars) 1 1. png]]
 
 Source: Thomson Reuters LPC
 
@@ -211,11 +211,11 @@ Loan mutual funds,  the other major player in the market,  have blossomed only a
 The rise and fall in the supply of leveraged credit influences not only the availability but also the term of the leveraged financing. The Loan-to-EBITDA ratio (a common way of measuring leverage) had been steadily rising from 2003 through 2007,  which coincides with the CLO expansion. At the peak of the securitization boom,  the average Loan-to-EBITDA ratio for large LBO transactions was 4.8 (**Exhibit 10**). After a fall in 2008–2009,  tolerance for leverage was back to the pre-crisis level,  with an even bigger fraction of second-lien tranches. Indeed,  in the first three quarters of 2018,  issuance of covenant-lite loans totaled $305 billion in volume (on-track to surpass 2017’s total volume of $375 billion),  compared to a pre-financial crisis high of $97 billion (**Exhibit 11**)0.\1 But easing had been selective and,  despite signs of leveraged loan recovery (and perhaps even of market hitting),  loan spreads remained substantially above the 2006–2007 levels. (**Exhibit 12** presents average spreads to maturity.)
 
 **Exhibit 4** Loan Share Retained by the Originating Bank through Credit Cycle
-![[Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1.png]]
+![[Exhibit 4 Loan Share Retained by the Originating Bank through Credit Cycle 1. png]]
 Source: Victoria Ivashina and David S. Scharfstein,  “Loan Syndication and Credit Cycles, ” _American Economic Review: Papers and Proceedings_ 100,  no. 2 (2010).
 
 **Exhibit 5** Total Institutional Loan Investor Groups
-![[Exhibit 5 Total Institutional Loan Investor Groups 1.png]]
+![[Exhibit 5 Total Institutional Loan Investor Groups 1. png]]
 
 Source: S&P Capital IQ,  Leveraged Commentary & Data.
 
@@ -277,18 +277,18 @@ Note: Includes investor groups that either participated in three or more loans o
 
 Source: Standard & Poor’s,  Leveraged Data and Commentary.
 
-![[CLO Structure 1.png]]
+![[CLO Structure 1. png]]
 
 **Exhibit 8** Annual CLO Issuance (billion U.S. dollars)
 **Exhibit 9** Total Loan Fund Assets under Management (billion U.S. dollars)
-![[Annual CLO Isuance and Total Loan Fund Assets Under Management 1.png]]
+![[Annual CLO Isuance and Total Loan Fund Assets Under Management 1. png]]
 
 Source: Standard & Poor’s,  Leveraged Data and Commentary.
 
 **214-047 Note on the Leveraged Loan Market**
 
 **Exhibit 10** Average Leveraged Loan Multiples of EBITDA
-![[Exhibit 10 Average Leveraged Loan Multiples of EBITDA 1.png]]
+![[Exhibit 10 Average Leveraged Loan Multiples of EBITDA 1. png]]
 
 Source: Standard & Poor’s,  Leveraged Data and Commentary.
 
@@ -296,6 +296,6 @@ Note: Includes borrowers with EBITDA of more than $50 million.
 
 **Exhibit 11** Volume and Fraction of Covenant-Lite Loans
 **Exhibit 12** Average Discounted Spread to Maturity
-![[Exhibit 11 Volume and Fraction of Covenant-Lite Loans + Exhibit 12 Average Discounted Spread to Maturity 1.png]]
+![[Exhibit 11 Volume and Fraction of Covenant-Lite Loans + Exhibit 12 Average Discounted Spread to Maturity 1. png]]
 ---
 

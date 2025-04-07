@@ -127,7 +127,7 @@ Another useful way to display the value of a company is via a market-value balan
 
 PCM&C Market-Value Balance Sheet (millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20acbab0e0959f10f274ca472f754bcde336e059eef1b9dfbce27a0f276cc054.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20acbab0e0959f10f274ca472f754bcde336e059eef1b9dfbce27a0f276cc054.jpg)
 
 Here,  we can think of PCM&C as having two assets,  namely the $\S\,  100$ million of cash (or marketable securities) on hand and the investment worth $\S190.48$ million in current dollars. We refer to the investment as assets-in-place. Initially,  we can assume that PCM&C has no debt in its capital structure and the financing is $100\%$ equity. Thus,  the equity market capitalization of PCM&C is $\S290.48$ million,  which is equal to the value of the assets on the left-hand side of the balance sheet. It is important to recognize that the balance sheet as constructed is based on market values,  rather than on book values,  as in the case of typical balance sheets found in financial statements for accounting purposes.
 
@@ -135,7 +135,7 @@ This course focuses on two primary decisions by corporate management,  namely wh
 
 PCM&C Market-Value Balance Sheet (millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/555589937ae53b3228abbe363bf353018b79c55c421bb0054249d4557dab435b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/555589937ae53b3228abbe363bf353018b79c55c421bb0054249d4557dab435b.jpg)
 
 Given the value of the debt is $\S50$ million,  the equity value is $\S240.48$ million,  that is,  the total firm value of $\S290.48$ million minus the $\S50$ million of debt. Obviously,  the equity value is the residual value of the total firm value less the value of the debt. But less obvious is that the swap of $\S50$ million debt was for an equal amount of equity. That is,  we made the underlying assumption that the total firm value didn’t change with this adjustment to the capital structure. Under certain restrictive conditions,  which don’t hold in the real world,  firm value is invariant to changes in the capital structure,  a proof that generated Nobel Prizes for the researchers,  Merton Miller (formerly a very influential figure at Chicago Booth) and Franco Modigliani. Rather,  firm value is driven by the value of all the assets on the left-hand side of the balance sheet — in this case,  cash and the present value of the investment project. That is,  alterations to the mix of debt and equity don’t have any impact on the value of these assets,  at least in a world with perfect capital markets.
 
@@ -143,7 +143,7 @@ As described so far,  PCM&C has two assets on its balance sheet,  the $\S100$ mi
 
 Table 1: PCM&C Investment in PROJECT (millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/98c87e8739b133a5ff6756fc99815b7b5183f4a251d95dda3e6d59b7098006eb.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/98c87e8739b133a5ff6756fc99815b7b5183f4a251d95dda3e6d59b7098006eb.jpg)
 
 Management of PCM&C has the option to invest between $\S50$ million and $\S200$ million in PROJECT. The investment occurs today,  and the payoff is at the end of the year. For each level of investment in PROJECT,  Table 1 displays the corresponding payoff or cash flow at the end of the period,  the present value of each cash flow,  the net project value associated with each level of investment,  and the return on the investment. For example,  an investment level of $\S50$ million in PROJECT generates a future cash flow of
 
@@ -209,7 +209,7 @@ At what price can PCM&C sell new shares to raise the $\S25$ million? Assume ther
 
 Table 2: PCM&C Equity Market Capitalization
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d463d6746821097d0a0a160fd4a1d0799cbae4d5ae4a20f457103febd4011e3b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d463d6746821097d0a0a160fd4a1d0799cbae4d5ae4a20f457103febd4011e3b.jpg)
 
 <table>
 	<tbody>
@@ -314,7 +314,7 @@ It is useful to address this issue in the setting of perfect capital markets. Co
 
 OWNER Personal Market-Value Balance Sheet (millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b1ff942e83126bcfe36a55019ead58b44521169f821ea5bd6ca20ac062f6960.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b1ff942e83126bcfe36a55019ead58b44521169f821ea5bd6ca20ac062f6960.jpg)
 
 As shown on OWNER’s balance sheet,  her current wealth is $\S8.91$ million. Assume that OWNER is restricted from selling the bond and from selling her shares in PCM&C stock before the end of the year. If OWNER chooses to consume at the end of the period rather than at the current time,  she will have $\S9.36$ million in wealth to consume due to each of her assets increasing at a rate of $5\%$ over the period. Alternatively,  OWNER can consume $\S8.91$ million of cash today via borrowing $\S8.81$ million collateralized by her bond position and ownership in PCM&C stock,  and then using the $\S8.81$ million from borrowed funds and the $\mathbb{S}100{,  }000$ cash on hand for consumption purposes. Given perfect capital markets and certainty,  OWNER is not subject to a haircut on the loan,  rather is subject to only the time value of money. With certainty,  we know that OWNER will receive the cash flows. And because of the perfect capital markets conditions,  we know that OWNER will pay no taxes on the proceeds,  will not pay any transactions costs on receiving the funds,  and will not engage in nefarious behavior — that is,  she will not divert the $\S9.36$ million elsewhere in one year upon the realization of that amount. Consequently,  OWNER will be able to borrow against the full amount because no haircut on the loan is needed to account for a possible loan default.
 
@@ -326,7 +326,7 @@ OWNER has a $2\%$ stake in PCM&C,  she will need to invest an additional $\$ 500
 
 OWNER Personal Market-Value Balance Sheet (millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/112270c6ce7ca7566598edb433112b93ca5d42d1fff74dfdb69f2d969125fd5b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/112270c6ce7ca7566598edb433112b93ca5d42d1fff74dfdb69f2d969125fd5b.jpg)
 
 OWNER’s cash drops to zero because she used the $\mathbb{S}100{,  }000$ to provide some of the funds for the additional $\$ 500{,  }000$ investment in PCM&C shares. The balance sheet displays the Debt of $\$ 400{,  }000$ which accounts for the rest of the financing for the investment. I mportantly,  the value of OWNER’s stake in PCM&C stock increases from $\$ 5.81$ million to $\$ 6.55$ million,  an increase of roughly $\$ 740{,  }000,  $ ,  thus reflecting the $\$ 500{,  }000$ additional shares purchased plus the $+\,  \mathsf{N P V}$ resulting from PROJECT allocated to her shares.
 
@@ -473,7 +473,7 @@ The first term is equal to $\$ 1.25$ billion and is merely the value of the perp
 
 Table 3: Annuity and Growing Annuity Valuations
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fe29adb9e41e3474f5eb77c32681a5b88a784cd41f87c7148423ec0961e0287.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fe29adb9e41e3474f5eb77c32681a5b88a784cd41f87c7148423ec0961e0287.jpg)
 
 Lastly,  the value of a growing annuity follows the same logic; namely,  it is a growing perpetuity minus a growing perpetuity beginning in a subsequent period,  and the formula is
 
@@ -563,9 +563,9 @@ While this note didn’t cover work ing capital management,  it is just an exten
 
 Exhibit 1: Giddy-Up Corporation Income Statement (thousands)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e10175a5f9f5e467750ff308792de97484e4bf8e4810dabcbb2f9b998301006.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e10175a5f9f5e467750ff308792de97484e4bf8e4810dabcbb2f9b998301006.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63171db8eb8d14498a2d12231950b1382c7102d8672c30f72d79f8e617385d9f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63171db8eb8d14498a2d12231950b1382c7102d8672c30f72d79f8e617385d9f.jpg)
 
 # Exhibit 3: Linking GiddyUp’s Income Statement to the Balance Sheet (thousands)
 
@@ -577,7 +577,7 @@ Exhibit 1: Giddy-Up Corporation Income Statement (thousands)
 
   $=2018$ Retained Earnings
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34e7ec4ef1a6596847f12139981b3f40bcd67ba181c91570439da268bf2ff421.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34e7ec4ef1a6596847f12139981b3f40bcd67ba181c91570439da268bf2ff421.jpg)
 
 # Using NPV to Make Investment Decisions
 
@@ -607,7 +607,7 @@ The Amazon letter makes the point that while earnings is accelerating at a rapid
 
 Table 1 – Discounted Cash Flow Analysis (in millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2d431fa088d7d572cd9ec8f25f87574fd3e6eb0eebb8009281a30dec44c3465.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2d431fa088d7d572cd9ec8f25f87574fd3e6eb0eebb8009281a30dec44c3465.jpg)
 
 The revenue doubles in Year 2,  Year 3,  and Year 4,  respectively,  due to the investment in additional travel machines. Given the assumptions from the Amazon letter,  the after-tax profits also double in Year 2 through Year 4. Starting in Year 5,  the profits decline annually due to the decommissioning of the machines as a result of their four-year life,  and the last period of profits is Year 7. In total,  the space-travel project yields $\S_{ Ḋ }240 Ḍ$ million of after-tax profits.
 
@@ -621,7 +621,7 @@ The second adjustment in Table 1 is to subtract the CAPX from the after-tax prof
 
 Table 2 – Depreciation Schedule (in millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc7cf3bff8ae2b2cadddb3afdd0aa451917b4ab99bf3d08feba774125444638d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc7cf3bff8ae2b2cadddb3afdd0aa451917b4ab99bf3d08feba774125444638d.jpg)
 
 The third adjustment in converting after-tax profits to cash flows is to account for changes in net working capital (NWC). For our purposes,  NWC consists of cash required for operations,  accounts receivable,  and inventory,  and minus accounts payable. Increases in cash required for operations,  accounts receivable and inventory result in higher NWC,  whereas increases in accounts payable reduce NWC. The income statement does not capture changes in NWC,  and thus we adjust for changes in NWC below the [[Operating Income vs. Net Income What's the Difference|Net Income]] line. For example,  suppose the first-year revenue for a company was solely in accounts receivable,  none of which had been converted to cash by the end of the company’s fiscal year. While the income statement treats the accounts receivable as revenue for the year,  the adjustment to cash flows is necessary to reflect the fact that the accounts receivable had not yet converted to cash. Likewise,  the payment for purchased inventory is a negative cash flow which doesn’t hit the income statement. Typically,  NWC increases as revenue climbs in subsequent years and converts to cash flow when the project or venture terminates. As covered in the Financial Forecasting lecture note,  extraordinary increases in revenue can cause sharp short-run reductions in cash,  and thus a need for new financing due to the additional NWC.
 
@@ -631,7 +631,7 @@ The Amazon shareholder letter omitted changes in NWC in its adjustment from afte
 
 Table 3 – Net Working Capital Schedule (in millions)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f729a125a0376e8561d74f84843a868534c19f13649a4531de07bc6505dfd9b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f729a125a0376e8561d74f84843a868534c19f13649a4531de07bc6505dfd9b.jpg)
 
 The three adjustments (adding back depreciation,  subtracting CAPX,  and subtracting the change in NWC) to the after-tax profits yields cash flows. For example,  the cash flow in Year 1 is $-\S\,   1\,   17.5$ million versus profit-after-taxes of $\$ 7.5$ million. Here,  the major source of the difference between profits and cash flows is the additional machine purchase of $\$ 160$ million at the end of Year 1 which generates revenues in Years 2-5. The cash flows are negative through Year 3,  that is,  during the investing phase,  and positive during Years 4-7.
 
@@ -707,17 +707,17 @@ $\mathbb{S}160$ $\mathbb{S}1{,  }000$ $\$ 450$ $\$ 50$
 
 $\$ 10$ $10\%$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6075a5465953daa60c5e3733caae26ca0dc0d0d7df893ab5c9246bf6576c1d8a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6075a5465953daa60c5e3733caae26ca0dc0d0d7df893ab5c9246bf6576c1d8a.jpg)
 
 $100\%$ $\$ 150$
 
 $\$ 530$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/510f7a22c551564bc9daef3bdbb5db49b757799f2d12c9ea9541c79a06303eb3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/510f7a22c551564bc9daef3bdbb5db49b757799f2d12c9ea9541c79a06303eb3.jpg)
 
 $\$ 50.$ $\$ 100$ $\$ 200$ $\$ 400$ $100\%$ $\$ 1.28$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d4dbb60966f6095c6da85f3adee976edcc177953e0bf5a403cf28ddd461834a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d4dbb60966f6095c6da85f3adee976edcc177953e0bf5a403cf28ddd461834a.jpg)
 
 $100\%$ $12\%$
 
@@ -729,7 +729,7 @@ $38\%$ $\mathbb{S}131$
 
 $1\%$ $\$ 600$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ceca489d57147c13a57906f54042243ca7ae191bcc38c1eb0a2af57647435b97.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ceca489d57147c13a57906f54042243ca7ae191bcc38c1eb0a2af57647435b97.jpg)
 
 #
 
@@ -748,7 +748,7 @@ $70\%$ $\mathbb{S}75$
 
 #
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00198acf963075efceac6ac9db47c154aa6ba2bec693c0d7c1eb2332f2737337.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00198acf963075efceac6ac9db47c154aa6ba2bec693c0d7c1eb2332f2737337.jpg)
 
 # The Cost of Capital
 
@@ -786,7 +786,7 @@ Table 1 displays the average annual rate of return and standard deviation for U.
 
 Table 1 Average Annual Rate of Return and Standard Deviation (1900-2014)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/394a4e909ece70e416d429f09163af372a74e591b59d18525f8777f2ee8c8c21.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/394a4e909ece70e416d429f09163af372a74e591b59d18525f8777f2ee8c8c21.jpg)
 
 As shown,  U.S. Treasury bills have generated an average annual rate of return of $3.8\%$ ,  whereas Treasury bonds have returned a higher $5.4\%$ . Stocks have returned $11.5\%$ annually,  thus an excess return of $7.7\%$ relative to Treasury bills and an excess return of $6.1\%$ to Treasury bonds. Assuming investor expectations turn out to be correct ex-post,  then we can use the realized historical excess return as the proxy for the ex-ante risk premium going forward. In this context,  if we assume a long-term project has the same risk as the stock market,  the project’s cost of capital is:
 
@@ -868,7 +868,7 @@ Since the capital expenditures are expected to generate cash flows which will oc
 
 Whereas the choice of the risk-free rate and the market risk premium does not rely on the identity of the underlying project or the company itself,  the asset beta does require an understanding of the risk,  specifically the systematic risk,  associated with the project and or the company. In the case of calculating the cost of capital for Northrop Grumman’s growth plans this year,  it will be the same as Northrop Grumman’s overall cost of capital since the proposed capital expenditure is intended to be across all of the business units at Northrop Grumman. Thus,  the starting point for estimating the asset beta is Northrop Grumman’s equity beta is displayed below from Bloomberg.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf25fc1d0ea32066848f1930e907c907ae80aff4f5d050f108a513e6a9244e69.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf25fc1d0ea32066848f1930e907c907ae80aff4f5d050f108a513e6a9244e69.jpg)
 
 In the Bloomberg chart,  Northrop Grumman’s equity beta is 0.799. To replicate the output above,  the pertinent inputs are: (1) length of estimation period,  return interval frequency,  choice of market proxy,  mathematical model,  etc. The estimation period is five years using weekly return intervals,  hence the 260 observations. The S&P 500 Total Return (SPXT) index is the proxy for the overall stock market. Bloomberg uses linear regression analysis to estimate Northrop Grumman’s equity beta. With a bit of trial and error,  you should be able to match the above results identically. Importantly,  and not noted in the chart above,  your return calculation for Northrop Grumman (ticker symbol: NOC) should include dividends to capture the total weekly return for Northrop Grumman as opposed to just using returns based on Northrop
 
@@ -886,7 +886,7 @@ Bloomberg,  Northrop Grumman’s debt and equity values are displayed below over
 
 Table 2 Capital Structure at Northrop Grumman
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81357ea675367e6635785f33eae2a642ff15d057575500b5b084cc03626ac957.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81357ea675367e6635785f33eae2a642ff15d057575500b5b084cc03626ac957.jpg)
 
 The average Debt/Equity ratio for Northrop Grumman over the most recent five years is $11\%$ . Assuming the debt of Northrop Grumman does not have systematic market risk,  we can use Equation 6 to unlever its equity beta. 11 Given Northrop Grumman’s [[Leverage Ratio|leverage ratio]] is modest and also since it’s debt has an Investment Grade rating,  we assume zero systematic market risk for the debt.
 
@@ -898,7 +898,7 @@ As a robustness check,  one can look at industry peers. In the case of Northrop 
 
 Equity and Asset Betas for Defense Contractors
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b31c2c20e6405ad2b1246c466ec5f8c23fa3fcc88ea97c77f1135324eb75b2d2.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b31c2c20e6405ad2b1246c466ec5f8c23fa3fcc88ea97c77f1135324eb75b2d2.jpg)
 
 The final step is to estimate the cost of capital via Equation 7 for Northrop Grumman using all of the available inputs.
 
@@ -938,13 +938,13 @@ Using the assumption that investors are only concerned about the tradeoff betwee
 
 Thus identifies the efficient frontier. The term efficient refers to the concept of maximizing the expected return for a given level of standard deviation,  or minimizing the standard deviation for a given level of expected return. For any group of stocks or securities,  one can create efficient portfolios via quadradic programming to solve for the minimum variance given any expected return. Figure A 1 displays the meanstandard deviation frontier for a set of securities.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3c39122956a8235259c9b0f6aab73b5235c0c02648346f6d643cc8d99aecdc5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3c39122956a8235259c9b0f6aab73b5235c0c02648346f6d643cc8d99aecdc5.jpg)
 
 Portfolio Standard Deviation
 
 The efficient frontier is represented by the upper line sloping region of the line as it provides the maximum expected return for a given standard deviation. The points on the line dominate all of the points below the line,  as well as the portion of the line in the lower region. Given that investors can choose from thousands of securities,  this optimization will yield a superior,  efficient frontier versus one obtained by merely considering a small sample of securities. In effect,  theoretically,  all investors will thus hold the same market portfolio. However,  these investors will have different tolerances for risk. Some will want to own a portfolio which is less risky than the market portfolio whereas others will want to own a portfolio which has a higher risk than the market portfolio. The way to achieve this is to introduce the riskfree rate to the efficient frontier as shown in Figure A 2.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e685c88bf32adb23878e440404a72fab4a63370b835b59be2cc6ea52133c19c5.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e685c88bf32adb23878e440404a72fab4a63370b835b59be2cc6ea52133c19c5.jpg)
 
 Portfolio Standard Deviation
 
@@ -964,7 +964,7 @@ Whereas Markowitz laid the foundation for asset pricing in his classic 1952 arti
 
 Sharpe’s model of market equilibrium shows that all investors end up holding the identical portfolio which happens to be the market portfolio. That is,  given investors have the same information set and access to the same universe of securities,  they will end up with the same efficient frontiers and likewise the same risky portfolio as shown in Figure A 3.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0933d08557578c793b2e1ac702ca2ac107c891369412ba6c41a722c64c0af9e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0933d08557578c793b2e1ac702ca2ac107c891369412ba6c41a722c64c0af9e.jpg)
 
 Portfolio Standard Deviation
 
@@ -994,7 +994,7 @@ $$
 
 Eq. A 8 is the infamous CAPM equation. It states that the beta of a security is the right measure of risk since it is proportional to the risk that the security contributes to the market portfolio. And the risk premium of a security is the product of the security’s beta and the market risk premium,  that is,  $\upbeta_{\mathrm{i}}\bullet[\mathsf{\Delta}E (\mathsf{R}_{\mathsf{m}})-$ R f ]. Thus,  the expected return to a security varies in direct proportion to its beta. The security market line (SML) portrays this relation graphically below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/699e6bd9900355acef81338250d79776dc715f74ffae71a494ab13e6c9a3370f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/699e6bd9900355acef81338250d79776dc715f74ffae71a494ab13e6c9a3370f.jpg)
 
 # Additional Considerations in Estimating the Cost of Capital
 
@@ -1074,7 +1074,7 @@ Is the CAPM a suitable model by which we can reliably estimate the cost of capit
 
 Empirical tests of the CAPM have generally formed portfolios of stocks based on betas calculated from a prior period. According to the CAPM,  these portfolios,  ranked on beta,  should line up on the security market line. In a 2004 review paper,  Fama and French update this basic relation and is reproduced here as Figure 1. Consistent with prior empirical evidence,  the relationship between beta and average returns for ten portfolios sorted on beta have a lower slope than implied by the CAPM. That is,  as illustrated in Figure 1,  the returns are higher than predicted for the low-beta portfolios and are smaller than predicted for the high-beta portfolio. Note that the relation is still linear and positive,  just with a lower slope than predicted by the CAPM.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b79a0cb097aee32e516df397c649d67cbf424bed7d19c918389a2790591b7ffa.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b79a0cb097aee32e516df397c649d67cbf424bed7d19c918389a2790591b7ffa.jpg)
 
 G iven the CAPM doesn’t appear to explain stock returns fully,  the implication is that other factors,  in addition to the market return,  may also have reliable explanatory power. Since the development of the CAPM,  empirical researchers have shown that specific portfolios of stocks have higher beta-adjusted returns than the market portfolio. For example,  while small stocks have higher betas than large stocks,  their realized returns are statistically higher,  even after adjusting for their higher betas. This phenomenon is the well-known size effect. Another example is value stocks represented by firms with high book-tomarket ratios. Value stocks tend to have positive excess returns after accounting for their beta loading on the overall portfolio. Likewise,  stocks which have performed well tend to continue to perform well,  a
 
@@ -1102,9 +1102,9 @@ Table 1 displays the CAPM regression. The beta estimate is 0.594 and is well bel
 
 Table 1 CAPM Regression Estimates for McDonald’s Corporation
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7365ef032699a147f5a1c447075496fdfd1f9488cce2b6416b5e792d424ca08.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7365ef032699a147f5a1c447075496fdfd1f9488cce2b6416b5e792d424ca08.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0bbdd195369f7d0eef1a690334afa196b270178adf994af4fe74b03081024c62.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0bbdd195369f7d0eef1a690334afa196b270178adf994af4fe74b03081024c62.jpg)
 
 While this course is not about statistics,  it is helpful to understand the basic statistics from the regression output as they can influence our managerial decision making. The only number included from the above regression statistics which ends up in in the cost of capital calculation is the beta coefficient of 0.594. The other numbers are often disregarded but can be relevant. The standard error,  0.164,  is the estimate of the variability associated with the 0.594 beta coefficient. The t-statistic measures how significant the beta coefficient of 0.594 is from zero. Given the t-statisitic is 3.63,  the coefficient is stat is ic ally different from zero. And the p-value provides the probability levels associated with this beta coefficient and its difference from zero. But we care more about the confidence intervals associated with the beta coefficient. The confidence intervals of 0.266 and 0.922 indicate that we can be 95 percent certain that the intervals of 0.266 and 0.922 contain the true mean. Thus,  the range of be live ability is quite large. The Cost of Capital lecture note cautions us as to the reliability of the market risk premium as it is just an estimate. The same is true of these beta coefficients as they are only estimates with significant measurement error.
 
@@ -1112,7 +1112,7 @@ The next step is to evaluate McDonald’s returns with the three-factor Fama-Fre
 
 Table 2 Fama French Regression Estimates for McDonald’s Corporation
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e03276b717a4b355c3656f999a7e2be0fc211ff4fcb22689672b3397f4c71a0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e03276b717a4b355c3656f999a7e2be0fc211ff4fcb22689672b3397f4c71a0.jpg)
 
 As displayed by the R-Square of 0.233,  the Fama French regression has higher explanatory power than the CAPM regression with an R-Square of 0.171. Even so,  the three-factor model can explain less than onefourth of the variation in the returns to McDonald ’s . The market beta increased from 0.594 to 0.658,  suggesting that McDonald’s stock has a higher relation to the overall stock market with the inclusion of other factors. The coefficient on SMB is -0.469 and thus a negative loading on the small-minus-big factor. This factor loading is not too surprising given that McDonald’s has a market capitalization of nearly $\S\,   140$ billion,  and therefore not only is a large capitalization stock but also behaves as such. The coefficient on HML is 0.067 and indicates that McDonald’s stock returns load positively on the value premium. But note that the standard error of 0.190 is large relative to the 0.067 estimate and thus the confidence interval is also large on a comparable base. Given McDonald’s P/E ratio of roughly 2 3,  it is indeed not a deep value stock with a low multiple and likewise not a super-high-growth stock. Consequently,  the 0.067 seems within the expected ballpark as the factor loading is not high in absolute value.
 
@@ -1126,7 +1126,7 @@ The Fama-French factors are available on Ken French’s website at Dartmouth. Be
 
 Table 3 Summary Statistics for Fama-French Risk Factors
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a746c9cc38a795f6655c0a2d9d12a3c9b460107fb139fecf9d7b70cec260362.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a746c9cc38a795f6655c0a2d9d12a3c9b460107fb139fecf9d7b70cec260362.jpg)
 
 The market is the return on the value-weighted index of all NYSE-AMEX-NASDAQ stocks,  and the risk-free return is the return on short-term U.S. Treasury bills. The annual market return,  net of the risk-free rate,  over the past 50 years is $6.77\%$ . Also,  as discussed prior,  the volatility of stocks is large relative to bonds,  and is calculated at $17.84\%$ for the past 50 years. Thus,  there is a considerable amount of variability around the $6.77\%$ excess return. Despite the high volatility,  the mean estimate of $6.77\%$ is 2.68 standard errors from zero and thus reliably different from zero.
 
@@ -1202,7 +1202,7 @@ As described,  there is a direct connection in valuing a corporation using DCF a
 
 While conceptually the cash-flow multiple from a comparable firm should mimic traditional DCF valuation. A shortcoming in actual practice is that cash flows can be very lumpy and vary considerably year-to-year across firms. Recall the previously mentioned analysis of the travel machine project as described in Amazon ’s 2004 letter to shareholders. The analysis computes the [[Operating Income vs. Net Income What's the Difference|Net Income]] for the Amazon travel machine project and then converts the [[Operating Income vs. Net Income What's the Difference|Net Income]] to cash flows as follows:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6430cc1a587e66bf89427eb425793c5890fea02300b134ffbd0b2a2be42d121.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6430cc1a587e66bf89427eb425793c5890fea02300b134ffbd0b2a2be42d121.jpg)
 
 The cash-flow pattern for the travel machines was highly variable on a year-to-year basis due to the large CAPX of the additional machines. The expected cash flow was even negative in the first three years of operations,  swinging from - $\cdot\$ 470$ million in Year 3 to $\$ 385$ million in Year 4. Consequently,  if the Amazon travel-machine project was a publicly-traded security,  it would not be possible to use its cash-flow multiple in the early years to value a related project or firm. Even for large and relatively stable firms such as Coca-Cola,  the cash flow can be way off the normal trend line in the year used to calculate the multiple as a result of an extraordinary amount of depreciation,  CAPX,  or change in NWC in a given year.
 
@@ -1278,11 +1278,11 @@ While the NPV of immediately investing in Bang-Bang is positive at $\$ 5$ millio
 
 The starting point is a probability tree as displayed below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ce722bf3c8f217a72184386d9499acd7a47b571766e813e3a580894b562bd19.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ce722bf3c8f217a72184386d9499acd7a47b571766e813e3a580894b562bd19.jpg)
 
 There is no new information in these diagrams,  rather,  a different way of illustrating the analysis. I label it a probability tree since there are no decisions made along the way. That is,  the decision will be made to invest now or not at all based on the cash flows provided. As shown above,  the associated NPV is $\$ 5$ million. The purpose of starting with the probability tree is to lay the groundwork for the decision tree in the illustration below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a31e85014efcb1cfabe80befaf22a785007ae7b74476e96bab477dde2e7118e4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a31e85014efcb1cfabe80befaf22a785007ae7b74476e96bab477dde2e7118e4.jpg)
 
 The decision tree illustrates the optional it y associated with the Bang-Bang project. Management can either decide to invest today or instead to wait and reevaluate in one year. By waiting one year,  management learns which state of the world exists,  the good state or the bad state. In both cases,  management has the option at the end of the first year to invest $\S\,   103.5$ million in Bang-Bang but will optimally choose to invest only in the good state. We saw that the NPV of investing today is $\$ 5$ million and the NPV of delaying the project and investing a year later,  if in the good state of the world,  is $\$ 15.6$ million. Thus,  the ability to delay the project by one year increases its value by $\$ 10.6$ million,  and hence the option to delay is $\$ 10.6$ million. Indeed,  the delay option is more than twice the value of the original NPV. Without this option to delay the project,  management bears the risk of ending up in the bad state of the world and with an ex-post negative NPV.
 
@@ -1294,7 +1294,7 @@ Before delving into real options,  it is crucial to understand basic option term
 
 There are two basic types of options,  calls and puts. A call option gives the owner the right to purchase an asset by a specified date (exercise or maturity date) at a set price typically referred to as the exercise or strike price,  whereas a put option gives the owner the right to sell an asset by a specified date at a set exercise or strike price. Figure 1 shows the payoff (in blue line) and profit (in dotted blue line) diagrams for the owner of a call option on the option exercise date at an exercise price of $\$ 40$ . Assume the option was purchased several weeks prior at $\$ 5$ . Further assume these options are European options and thus can only be exercised on the exercise date,  whereas American options can be exercised any date prior to the exercise date.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d53ba534695f5ea1b67bde75d2a694442b846f13a15b840e04bb60c84a44bb1.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d53ba534695f5ea1b67bde75d2a694442b846f13a15b840e04bb60c84a44bb1.jpg)
 
 If the asset price exceeds $\$ 40$ on the exercise date,  the holder of the option will exercise the option as it will be “in -themoney.” And if the asset price is equal or less than $\$ 40,  $ ,  the holder allow s the call option to expire worthless. The call option value at expiration is:
 
@@ -1312,7 +1312,7 @@ $$
 
 Thus,  the holder benefits if the asset price is less than the exercise price on the date of exercise. Figure 2 shows the payoff (in blue line) and profit (in dotted blue line) diagrams for the owner of a put option as the option exercise date and an exercise price of $\$ 60$ .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40fcb7b4e7fcf65f78e35f44ae951c1a7cc066f2486059731a895b2368dbc613.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40fcb7b4e7fcf65f78e35f44ae951c1a7cc066f2486059731a895b2368dbc613.jpg)
 
 Assume the option was purchased several weeks prior for $\$ 7$ . As illustrated,  the option is “in the money” and thus has a positive payoff if the asset price on the exercise date is less than $\$ 60$ . For example,  if the asset price is $\$ 50$ on the exercise date,  the holder will exercise and realize a profit of $\$ 3$ $\S\ (\$ 60\textrm{-}\$ 50\textrm{-}\$ 7)$ . And as indicated with the call option,  the holder of the put option will exercise at certain prices even it means losing money on the roundtrip trade. For example,  if the asset price is $\$ 55$ on the exercise date,  the holder will exercise and realize an overall loss of $\$ 2$ $(\$ 60\textrm{-}\$ 55\textrm{-}\$ 7)$ . But exercising and realizing a loss of $\$ 2$ is preferable to not exercising and realizing a loss of $\$ 7$ .
 
@@ -1324,7 +1324,7 @@ $$
 
 The payoff,  and profit,  at expiration to the seller of the call option is shown below in Figure 3 and is the exact opposite of the payoff and profit diagram for the call buyer as shown in Figure 1.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9b72a7fee8ecaed64583189d578c4fe866b4e8a32c6dfaf6f5107447f4e318a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9b72a7fee8ecaed64583189d578c4fe866b4e8a32c6dfaf6f5107447f4e318a.jpg)
 
 Finally,  the payoff to the seller of a put option is:
 
@@ -1334,17 +1334,17 @@ $$
 
 The payoff,  and profit,  at expiration to the seller of the put option is shown below in Figure 4 and is the exact opposite of the payoff and profit diagram for the put buyer as shown in Figure 2.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23bce3a229212a4b19ba756c90f54de92c7a331272bfead2b3c60afebaa05d68.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23bce3a229212a4b19ba756c90f54de92c7a331272bfead2b3c60afebaa05d68.jpg)
 
 The payoff to the put writer is similar to that of certain investment strategies including that of merger arbitrage. In 2001,  Todd Pulvino and I were the first researchers to document that hedge fund strategies such as merger arbitrage have a payoff structure comparable to that of sellers of out-of-the-money S&P 500 index put options. See Figure 5 below which is from our 2001 paper and covers the period 1975-1998.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c4fc3e68830d0472c01f4d3f0bf71bfa9ea792e7c3b726550f33c3f82384dcec.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c4fc3e68830d0472c01f4d3f0bf71bfa9ea792e7c3b726550f33c3f82384dcec.jpg)
 
 Below,  see Figure 6 which covers the 2001-2017 period in support of the original analysis. The beta tends to be somewhat flat when the market is increasing,  flat or slightly declining,  but increases substantially when the market is tanking. Overall,  our research shows that similar to out-of-the-money index put options,  a small premium is collected in most states of the world by merger arb it rage urs,  but occasionally a hefty payout is made just like with insurance policies. Moreover,  while investment managers are typically judged against a CAPM or a multi-factor asset pricing model such as Fama-French,  risk arbitrage may be better evaluated relative to a replicating portfolio with a non-linear option-like payoff.
 
 # Figure 6
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00ebb73cc53eeaf1fd4b3d93258e93a38e44f56e42b2ac19ac76bf566f8b31e6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00ebb73cc53eeaf1fd4b3d93258e93a38e44f56e42b2ac19ac76bf566f8b31e6.jpg)
 
 The purpose of illustrating the above is to point out that if an investment strategy looks like an option,  then it should be modeled and valued as an option. The same is true for real options as discussed at the end of this lecture note.
 
@@ -1384,7 +1384,7 @@ Model requires advanced mathematics such as solving partial differential equatio
 
 Consider a call option that expires in one period and has an exercise price of $\S\,   100$ . The current price of the underlying asset is $\$ 80$ and the interest rate during the period is $5\%$ . At the end of the period,  the asset price will either be $\S\,   120$ or $\$ 50$ . All of this information can be summarized on the binomial tree below which provides the timeline and all of the possible outcomes.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1119cbd219bbd5109687ae64961f80d49ddd85f656fd6b44696a917ee8e3ac8d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1119cbd219bbd5109687ae64961f80d49ddd85f656fd6b44696a917ee8e3ac8d.jpg)
 
 The timeline above shows that the current asset price is $\$ 80$ and there are two possible outcomes at the end of the period. First,  the asset price can increase to $\mathbb{S}120,  $ ,  and we refer to this state as the up state. Second,  the asset price can decrease to $\$ 50,  $ ,  and we refer to this state as the down state. We know that at the up state asset price of $\mathbb{S}120,  $ ,  the holder of the call option will choose to exercise the option at the strike price of $\mathbb{S}100,  $ ,  thereby yielding a payoff of $\$ 20$ . At the down state asset price of $\$ 50,  $ ,  the option holder will opt not to exercise the option and thus the payoff will be $\$ 0$ .
 
@@ -1446,7 +1446,7 @@ Equivalent securities must sell for the same price,  the price of the call optio
 
 The above stylized example can easily be generalized to apply to any option. As before,  assume there is only one period which has a beginning and end of the period and can be represented below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d2d7bb2dc61d495ab96e626431a2c8defe0241b9884a58bbd40574bb594a62.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d2d7bb2dc61d495ab96e626431a2c8defe0241b9884a58bbd40574bb594a62.jpg)
 
 As shown,  the current asset price is $\mathsf{A},  $ and it can increase to A U or decrease to A D . And the corresponding option prices are ${\mathsf{C}}{\mathsf{U}}$ and $\mathsf{C}_{\mathsf{D}}$ . As before,  the bond is given as B,  and it earns (or pays) the risk-free (R F ) rate of interest. To compute the value of the option today,  we calculate the number of units,  $\Delta,  $ in the asset and the number of bond units to create a replicating portfolio which has the same payoff as the option when the asset goes up or down. As shown earlier with the stylized example,  here we solve generally for the two unknowns in the two simultaneous equations with the replicating portfolio.
 
@@ -1493,7 +1493,7 @@ Thus,  with this general formula,  we obtain the exact same answer as earlier wh
 
 Notwithstanding the powerful finding that pricing an option is straightforward as demonstrated above,  we have done so in a vacuum as the real world contains many more possible states (outcomes) and many more periods than our simplistic assumptions. It is conceptually easy to add more periods and we can demonstrate by adding another period to the example used earlier. Thus,  we add another period to the previous example as shown below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/409cd8c6e291c3423a7fc52ac9edfff292e1faa55e322b40d74cde4f544ca6b6.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/409cd8c6e291c3423a7fc52ac9edfff292e1faa55e322b40d74cde4f544ca6b6.jpg)
 
 As shown above,  the asset can either go up or down in each period. With two periods,  there are four possible stock price outcomes at the end rather than two stock price outcomes in the one-period model. Assume the current asset price is $\$ 60,  $ ,  rather than the previously assumed $\$ 80$ ,  the exercise price remains at $\mathbb{S}100,  $ and the risk-free rate remains at $5\%$ . Importantly,  to calculate the value of an option in a multiperiod model,  we start at the far right of the binomial tree and work backward. Note that the option expires at the end of the second period,  and in only one state in this example,  that is when the asset price is $\mathbb{S}120,  $ ,  will it be optimal to exercise the option. That is,  at the end of the second period,  the call option is worth $\$ 20$ when the asset price is $\S\,   120$ and is worthless for the other states where the asset price is $\$ 50$ and $\$ 30$ .
 
@@ -1503,7 +1503,7 @@ In the case where the asset price drops to $\$ 40$ at the end of the first perio
 
 Now that we know the value of the call option in either state of the world at the end of the first period,  we can work backward and determine the current value of the call option.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf9577923964c6e1d51f625dec2483368f8be0695978f7eb3dfda5d1eef2fc0c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf9577923964c6e1d51f625dec2483368f8be0695978f7eb3dfda5d1eef2fc0c.jpg)
 
 Thus,  the initial value of the call option is $\$ 5.07$ given the exercise price of $\S\,   100$ and the current asset price of $\$ 60$ . Note how the $\Delta$ changes from the first period to the second period if the asset price increases to $\$ 80,  $ ,  that is,  the $\Delta$ increases from 0.23 to 0.29. Thus,  we will rehedge our position at each period as the risk changes,  and at the limit,  this is referred to as dynamic hedging.
 
@@ -1531,7 +1531,7 @@ The terms ${\mathsf{N}}({\mathsf{d}}\,  \rlap{/}\gamma)$ and N (d 2) require fur
 
 learned at various times in math and statistics classes. It is the probability that a normally distributed variable will be less than d.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe3be2c975992df909c1ff4bd0d15e53cc50c6b9bf3b069cab5b8ae13c85bd4b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe3be2c975992df909c1ff4bd0d15e53cc50c6b9bf3b069cab5b8ae13c85bd4b.jpg)
 
 $$
 \mathsf{d}_{1}=\frac{\mathsf{I n}\left[\frac{\mathsf{S}}{\mathsf{p v}\big (\mathsf{K}\big)}\right]}{\mathsf{S}\,  \sqrt{\mathsf{T}}}+\frac{\mathsf{S}\,  \sqrt{\mathsf{T}}}{2}
@@ -1579,7 +1579,7 @@ Scroll Motion estimates the transition and redevelopment to Ingage will cost $\$
 
 The valuation metrics for Ingage and Ingage Plus are displayed below.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93438237f33384077b4fd84120e95f9f1ce2ba951ec794efc0aa9c37af349657.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93438237f33384077b4fd84120e95f9f1ce2ba951ec794efc0aa9c37af349657.jpg)
 
 Based on the above NPV estimates,  Scroll Motion will reject both projects. But,  in the course of developing Ingage and assessing the customer response thereof,  management will amass valuable information which will likely influence its decision to go forward or not with Ingage Plus. By considering only the expected cash flows and then discounting back to the current,  management should pass on Ingage and by definition,  on Ingage Plus as well,  since to invest in Ingage Plus,  Scroll motion must first develop Ingage. While Ingage Plus looks like a bad investment today,  this does not have to be the case if we are able to value the real option of Ingage Plus by investing in Ingage today.
 
@@ -1625,7 +1625,7 @@ The ability of Fresh Direct to sell the new plant at the end of the year for $\$
 
 To facilitate our understanding of the treatment of the plant abandonment as a put option,  all of the various assumptions are simplified. For example,  only one period is specified. Likewise only two outcomes are specified,  the most likely outcome and the disaster state in which Fresh Direct would sell the facility. We can use the binomial option pricing model described earlier to value the abandonment option of Fresh Direct’s Bronx facility. The information as provided can be summarized on the binomial tree below which provides the timeline and possible outcomes.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8f069badf5c096cd5b57d4c6aec8d3c1762f9f8fda344426ab8951254906f2a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8f069badf5c096cd5b57d4c6aec8d3c1762f9f8fda344426ab8951254906f2a.jpg)
 
 As shown in the above timeline,  the incremental value of the Bronx plant just before it opens for business is $\S\,   100$ million. Assuming that all goes well,  the facility’s incremental value will increase to $\S\,   125$ million at the end of the period and will be $\$ 20$ million otherwise. Obviously,  if the plant operates as expected,  Fresh Direct will not consider disposing of the plant at year end. But in the low likelihood that disaster strikes,  and it is not efficient to reconfigure the plant,  Fresh Direct will exercise its option to dispose of the plant,  that is,  sell the plant to the beer distributor.
 
@@ -1697,7 +1697,7 @@ As shown below,  VALUE’s assets -in-place a re displayed on VALUE’s balance 
 
 VALUE: Market-Value Balance Sheet
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0a06cb75aa9fb7668e0f9e6d899f90d9930d58aafce30308052d7f253a7ccac.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0a06cb75aa9fb7668e0f9e6d899f90d9930d58aafce30308052d7f253a7ccac.jpg)
 
 Insufficient information has been provided to indicate whether or not management of VALUE has created shareholder wealth. That is,  VALUE may have undertaken strictly $+\mathsf{N P V}$ projects,  strictly – NPV projects,  or a combination of positive and negative NPV projects which resulted in the $\$ 1.25$ billion value of the assets-inplace.
 
@@ -1705,7 +1705,7 @@ GROWTH also has assets-in-place valued at $\$ 1.25$ billion,  the same as VALUE.
 
 GROWTH: Market-Value Balance Sheet
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3b448505c87389119b3c31f35a15273f3bca6ab11186da0110138d78241747c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3b448505c87389119b3c31f35a15273f3bca6ab11186da0110138d78241747c.jpg)
 
 As mentioned above with respect to VALUE,  we have not provided sufficient information to assess whether management created shareholder value regarding the assets-in-place. The focus is to understand the logic behind the $\$ 750$ million estimate of growth options,  commonly referred to as PVGO. The $\$ 750$ million of PVGO reflects investors’ expectations today of NPVs associated with GROWTH future projects. Put differently,  investors expect that GROWTH management will undertake new projects which generate a return in excess of the respective cost of capital of such projects. Importantly,  the estimate simply captures the NPV part of the expected future projects,  not the total expected value. For example,  suppose investors expect GROWTH to invest in numerous future projects,  but these projects will generate zero NPV in aggregate,  that is,  the return will simply equal the cost of capital. In this case,  the value of PVGO is zero and GROWTH has the same value as VALUE.
 
@@ -1725,7 +1725,7 @@ $$
 
 In both cases,  the zero growth case and the $3\%$ annual growth case,  the value of the assets-in-place is less than half of the total enterprise value of Adobe Inc. As shown in the table below,  the implied value of Adobe’s PVGO is $\$ 92.2$ billion under the zero growth case . As noted earlier,  these estimates don’t reflect the future value of new assets and businesses created by Adobe,  rather these estimates reflect the NPV,  that is,  the expected value created,  via future investments.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/19c12509ed4c9563c34ff213e184da03400ba2ef3de0eabc7deb0da264214d54.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/19c12509ed4c9563c34ff213e184da03400ba2ef3de0eabc7deb0da264214d54.jpg)
 
 One can make the argument that the existing assets-in-place are worth more,  and thus the expected growth rate is far higher than assumed here. But it is practically impossible for static assets to perpetually grow at a rate which exceeds the overall economy growth. To grow at a higher rate requires subsequent CAPX,  which in turn reduces the corresponding near-term cash flows. In any event,  the subsequent CAPX in enhancing the assets-in-place would be reflective of the exercise of the growth options.
 

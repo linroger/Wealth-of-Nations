@@ -1,16 +1,13 @@
 ---
 aliases:
-- Alias_192_Covered Interest Rate Parity.md
-- Alias_191_Covered Interest Rate Parity.md
+- 
+- 
 - COVERED INTEREST RATE PARITY
 linter-yaml-title-alias: COVERED INTEREST RATE PARITY
 tags:
-- tag_example
+- 
 title: COVERED INTEREST RATE PARITY
 ---
-
-
-
 [Teaching Note 1 Forward Rates Agreement](Teaching%20Note%201%20Forward%20Rates%20Agreement)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 

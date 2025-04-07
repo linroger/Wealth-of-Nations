@@ -2,8 +2,8 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_320_Week 2 Dollar General Case- Assignment Review.md
-  - Alias_317_Week 2 Dollar General Case- Assignment Review.md
+  - 
+  - 
 tags:
   - finance
   - debt-management
@@ -50,7 +50,7 @@ title: Week 2 Dollar General CaseAssignment Review
 
 ## ASSESSMENT OF DG PERFORMANCE: OVER TIME
 
-![](a111b8893a2c52c817420be41efd5f64.png)
+ ![500](a111b8893a2c52c817420be41efd5f64.png)
 
 - Sharp decline in earnings from $350.2MM in FY2005 to $137.9MM in FY2006,  despite increase in revenues
    - Increase in COGS and SG&A as % of revenue
@@ -64,7 +64,7 @@ title: Week 2 Dollar General CaseAssignment Review
 - Until FY2006,  DG's profit margin was better than Family Dollar's but worsened due to the new strategy
 - DG's FY2006 ROA and ROE were worse than Family Dollar's or Dollar Tree's - DG's market ratios tend to look better than peers (Why? Driven by denominator)
    - Market-to-book is more stable than PE (less affected by transitory items)
-![](49659fd1cc0c80fcf0f1b85f7efdcbc1.png)
+ ![500](49659fd1cc0c80fcf0f1b85f7efdcbc1.png)
 ## CAUSE FOR DG PERFORMANCE DECLINE
 
 #### RESTRUCTURING PLAN
@@ -82,7 +82,7 @@ title: Week 2 Dollar General CaseAssignment Review
 
 (A) Adjusting For Non-Recurring Items (Excl. Net Sales Adjustment)
 
-![](4ce14116f4b8f02aa89ada23d44d08ac.png)
+ ![500](4ce14116f4b8f02aa89ada23d44d08ac.png)
 
 Mark down adjustment
 
@@ -102,7 +102,7 @@ Mark down adjustment
 
 Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
 
-![](821b7bcf6c2e76f3827f90d909bb2787.png)
+ ![500](821b7bcf6c2e76f3827f90d909bb2787.png)
 
 ## ASSESSMENT OF DG'S FUTURE PROSPECTS FORECAST FOR FY2007 (YEAR ENDED FEB. 2008)
 - Key drivers are growth,  gross margin,  and SG&A - two reasonable approaches:
@@ -121,7 +121,7 @@ Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
 
 SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 
-![](6eff0608c8f918f88bd4ab0b7c3ee4aa.png)
+ ![500](6eff0608c8f918f88bd4ab0b7c3ee4aa.png)
 
 ## ASSESSMENT OF KKR OFFER VALUATION
 
@@ -142,14 +142,14 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 - Chairman and CEO David A. Perdue said that he would retire upon completion of the deal
 	   - Mr. Perdue realized ~$30 million from the transaction
 - End of July,  2007,  the banks that financed the deal sold the debt to TPG for as little as 87 cents on the dollar
-![](c44bab1276353e7791ec6225a451aaac.png)
+ ![500](c44bab1276353e7791ec6225a451aaac.png)
 ## LONGER-TERM AFTERMATH
 
 - Dollar General IPO-ed in November 2009 and raised $823 million,  making it the largest retail IPO in more than a decade
 - With the advent of the pandemic,  Dollar General benefited from a combination of economic uncertainty and consumer desire to stock up on household goods
 - As of January 8,  2021,  its stock had risen 40% compared to one year prior
 - It rose to over $250 in 2022 (but has declined substantially in 2023)
-![](222f82ee63808e735953de23925150e3.png)
+ ![500](222f82ee63808e735953de23925150e3.png)
 ## KEY TAKE-AWAYS
 
 - Measurement of corporate performance is challenging

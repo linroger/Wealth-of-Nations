@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Alias_281_BMW Valuation Report.md
+  - 
   - <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
-  - Alias_284_BMW Valuation Report.md
+  - 
 linter-yaml-title-alias: <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
 tags:
-  - tag_example
+
   - "#finance"
   - "#investmentanalysis"
   - "#financialmarkets"
@@ -15,9 +15,6 @@ tags:
   - "#bmw"
 title: BMW Valuation Report
 ---
-
-
-
 **Executive Summary**
 
 **Investment Thesis**
@@ -107,7 +104,7 @@ The geopolitical uncertainties and weaker economic outlook in 2022 result in hig
 BMW is deeply committed to electromobility. As it aggressively expands its offering of electric vehicle (EV) models across all key segments,  BMW aims to increase the delivery share of all-electric vehicles to 30% by 2025 and to 50% by 2030. By 2030,  the company plans to introduce at least six fully electric models in the US. The company’s EV strategy includes several key components. It has launched the Neue Klasse—a platform and concept designed to define next-generation EVs—emphasizing "electric, " "digital, " and "circular" elements. Concurrently,  BMW is significantly investing in its manufacturing capabilities to support this EV rollout. This includes a $1.7 billion investment in its U.S. operations,  with $1 billion allocated to prepare for electric vehicle production at its existing manufacturing facility in South Carolina,  and an additional $700 million to construct a new high-voltage battery assembly facility nearby. Moreover,  BMW has committed $800 million to enhance its production network in Mexico,  which involves integrating fully electric NEUE KLASSE models and constructing a local high-voltage battery assembly. BMW’s commitment to electromobility is further underscored by its strategic target to reduce CO2 emissions not only from its vehicles but also from its supply chain and manufacturing processes.
 
 As BMW hit a major EV sales milestone after reaching 1 million EV delivery mark in Q1 2024,  it is also outpacing rivals in the global EV market,  such as Mercedes-Benz,  Volkswagen and Audi. BMW anticipates significant sales growth in 2024,  projecting that its fully electric vehicles and luxury models will be key drivers of this growth.
-![](Untitled%205-20240517225835738.png)
+ ![500](Untitled%205-20240517225835738.png)
 
 **4. # <a name="_heading=h.i3th7zshtb7z"></a>Research and Development (R&D) and Technical Advantages**
 In line with its strategic plans,  BMW continues to invest heavily in R&D with a focus on digitalization,  electrification and automated driving functions across all model series. The company’s R&D expense rose by 13.8% to $8.2 billion in 2023. In 2024,  it expects to see record levels of R&D expenses and capital expenditures,  which will exceed 5% and 6% of revenue,  respectively.  Additional R&D expenditures were also devoted to the development of new models including the new BMW X5 and NEUE KLASSE models. BMW is not the only shifting focus to R&D of EVs. According to BDO LLP,  the world's top 20 automakers have collectively invested $467 billion in research and development over the last five years as they compete to develop EVs and meet carbon reduction targets. Compared to its industry peers,  BMW falls in the middle of the spectrum of R&D spending,  reflecting a strong but balanced investment level.
@@ -169,35 +166,35 @@ The company received authorization in May 2022 to acquire up to 10% of its share
 
 ## <A NAME="_HEADING=H.XAI1CYO48KPJ"></A> 9.2 MAIN ASSUMPTION AND THE FORECAST RESULT
 - **Segment Breakdown:** Automotive segment maintain it high revenue and high profit status,  we expected automotive segment will contribute around 90% of total revenue in forecasted periods and maintain a gross profit margin at 17%.
-- ![](Untitled%205-20240518012242435.png)
-- ![](Untitled%205-20240518012311864.png)
+-  ![500](Untitled%205-20240518012242435.png)
+-  ![500](Untitled%205-20240518012311864.png)
 - **R&D and CAPEX:** we assume the company’s CAPEX in line with the historical level,  based on the % related with the fiscal year’s revenue. The reinvestment rate and the RONIC is align with the expected the growth rate and development stage of the Company.
-![](Untitled%205-20240518012356271.png)
-![](Untitled%205-20240518012407033.png)
+ ![500](Untitled%205-20240518012356271.png)
+ ![500](Untitled%205-20240518012407033.png)
 - **Free Cash Flow and DCF**
-![](Untitled%205-20240518012421043.png)
+ ![500](Untitled%205-20240518012421043.png)
 The target price is €121.7,  with a WACC at 5.7%.
 
 - **Economic Profit Model**
-![](Untitled%205-20240518012434809.png)
+ ![500](Untitled%205-20240518012434809.png)
 The target price calculated by Economic Profit is €123.1,  with an assumption that the long-term RONIC is 14%.
 
 ## <A NAME="_HEADITIVITY ANALYSIS
 
-![](Z.%20Clippings/Untitled%205-20240518012446253.png)
+ ![500](Z.%20Clippings/Untitled%205-20240518012446253.png)
 
-![](Z.%20Clippings/Attachments%201/Untitled%205-20240518012506325.png)
+ ![500](Z.%20Clippings/Attachments%201/Untitled%205-20240518012506325.png)
 
 ## <A NAME="_HEADING=H0.\1Y22J34ZNUS"></A>9.4 MULTIPLES V.S. INDUSTRY AVERAGE
 
 The BMW set financial goals for EBT/EBIT margin and Return on capital employed. Moreover,  according to the value drivers provided by the company itself,  RoCE,  Return on sales and Capital turnover are the main factors for the value added. Thus,  here we used the relative ratios and multiples above for the multiple valuation and peer comparison.
-![](Untitled%205-20240518012520208.png)
+ ![500](Untitled%205-20240518012520208.png)
 The current EV multiples of BMW are close to or lower than the industry average and significantly lower than those of market peers like Mercedes. The gap between valuation multiples suggests that there is potential for BMW to catch up with the valuation levels of its industry peers,  indicating that the market may not have fully realized the value of BMW. On the other hand,  BMW’s EPS and margins are higher than peers average,  suggesting its high profitability.
 
 Due to BMW's valuation multiple being lower than the industry average,  the target price derived through the comparable company multiples method is €185.2,  which is considerably higher than the results obtained from the DCF and Profit Model.
-![](Z.%20Clippings/Untitled%205-20240518012539472.png)
+ ![500](Z.%20Clippings/Untitled%205-20240518012539472.png)
 
-![](Untitled%205-20240518012548862.png)
+ ![500](Untitled%205-20240518012548862.png)
 
 ## <A NAME="_HEADING=H.WZLB5WE2EAR9"></A>9.5 RISKS
 - **Bull Scenario**
@@ -212,7 +209,7 @@ Due to BMW's valuation multiple being lower than the industry average,  the targ
 
 1. # <a name="_heading=h.smft4i4n75gb"></a>Appendix
 
-![](Untitled%205-20240518012608900.png)
+ ![500](Untitled%205-20240518012608900.png)
 Source:
 
 The future is ELECTRIC (<https://www.bmwgroup.com/en/report/2021/index.html>)

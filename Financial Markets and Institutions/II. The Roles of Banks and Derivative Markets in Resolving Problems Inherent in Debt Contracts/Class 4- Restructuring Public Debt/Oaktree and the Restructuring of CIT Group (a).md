@@ -1,7 +1,7 @@
 ---
-aliases: [Oaktree And The Restructuring Of Cit Group (A),  Alias_11_Oaktree and the Restructuring of CIT Group (a).md,  Example_Alias_Oaktree and the Restructuring of CIT Group (a)]
+aliases: [Oaktree And The Restructuring Of Cit Group (A),  Oaktree and the Restructuring of CIT Group (a).md,  Oaktree and the Restructuring of CIT Group (a)]
 linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
-tags: [tag_example,  example_tag]
+tags: [ ]
 title: Oaktree and the Restructuring of CIT Group (a)
 ---
 
@@ -70,36 +70,36 @@ Time,  CIT had significant maturities of unsecured shortand long-term debt: a to
 
  Exhibit 1 CIT Group,  Quarterly Income Statement Data,  2007–Q 2 2009 (in $ millions)
 
-![](CleanShot%202024-09-27%20-002910@2x%20copy.png)
+ ![500](CleanShot%202024-09-27%20-002910@2x%20copy.png)
 
  Exhibit 2 CIT Group,  Balance Sheet Data,  Q 4 2006–Q 2 2009 (in $ millions)
-![](CleanShot%202024-09-27%20-002911@2x%20copy.png)
+ ![500](CleanShot%202024-09-27%20-002911@2x%20copy.png)
 | Quarter Ending: |
 
  Exhibit 3 CIT Group Debt Maturing between 01/01/2009–12/31/2012
-![](CleanShot%202024-09-27%20-002912@2x.png)
+ ![500](CleanShot%202024-09-27%20-002912@2x.png)
 
 Exhibit 3 (continued)
 
-![](CleanShot%202024-09-27%20-002913@2x.png)
+ ![500](CleanShot%202024-09-27%20-002913@2x.png)
 
 Source: Compiled from Mergent FISD and DealScan,  accessed August 2013.
 
 Exhibit 4
 The Basics of Factoring
-![](Finder%202024-09-27%2014.06.47.png)
+ ![500](Finder%202024-09-27%2014.06.47.png)
 www.cit.com/factoring-university/basics-of-factoring/index.htm accessed September 2013.
 
 Source:
 Exhibit 5 CIT Group,  Finance and Leasing Assets by Segment (in $ billions)
-![](Finder%202024-09-27%2014.06.54.png)
+ ![500](Finder%202024-09-27%2014.06.54.png)
 
 Source: Compiled from CIT Group,  10-Q report (New York: CIT Group,  various periods).
 
 Source: CRSP,  accessed September 2010.
 
 Exhibit 6 CIT Group,  Daily Stock Prices,  July 2007–July 2009 (in $)
-![](Finder%202024-09-27%2014.06.59.png)
+ ![500](Finder%202024-09-27%2014.06.59.png)
 
 | Rating Date   | Action     | Long-Term   | CreditWatch/Outlook   | Short-Term   |
 |---------------|------------|-------------|-----------------------|--------------|
@@ -124,19 +124,19 @@ Exhibit 6 CIT Group,  Daily Stock Prices,  July 2007–July 2009 (in $)
 
 Exhibit 7 CIT Group,  Standard and Poor's Credit Ratings,  November 1970–July 2009
 Source: CapitalIQ,  accessed October 2010.
-![](Finder%202024-09-27%2014.07.04.png)
+ ![500](Finder%202024-09-27%2014.07.04.png)
 
 Exhibit 8 Average Transaction Price,  01/01/2009–07/15/2009 (in cents per $1)
-![](Finder%202024-09-27%2014.07.10.png)
+ ![500](Finder%202024-09-27%2014.07.10.png)
 
 Floating Rate Notes Due 06/08/2009 Floating Rate Notes Due 08/17/2009
 
 Exhibit 8 (continued) Floating Rate Notes Due 11/30/2012
-![](Finder%202024-09-27%2014.07.16.png)
+ ![500](Finder%202024-09-27%2014.07.16.png)
 Source: TRACE,  accessed July 2013.
 
 Exhibit 9 CIT Group,  Daily CDS Quotes,  July 2007–July 2009 (in basis points)
-![](Finder%202024-09-27%2014.07.22.png)
+ ![500](Finder%202024-09-27%2014.07.22.png)
 Source: DataStream,  accessed September 2010.
 
 ## Endnotes

@@ -2,12 +2,12 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_12_Do Bondholders Lose From Junk Bond Covenant Changes.md
-  - Example_Alias_Do Bondholders Lose From Junk Bond Covenant Changes
+  - Do Bondholders Lose From Junk Bond Covenant Changes.md
+  - Do Bondholders Lose From Junk Bond Covenant Changes
   - Do Bondholders Lose From Junk Bond Covenant Changes?
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - covenants
   - bondholders
   - consentSolicitations
@@ -84,7 +84,7 @@ Diluting protective [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Coven
 
 Transactions to Be Consummated if Bondholders Consent to the TABLE 1 Proposed Covenant Modifications
 
-![](CleanShot%202024-09-27%20-002940@2x.png)
+ ![500](CleanShot%202024-09-27%20-002940@2x.png)
 
 Note.—Issuers in the sample asked bondholders to modify protective [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] in order to permit
 
@@ -124,7 +124,7 @@ thatwould make the soliciation more likely to succeed: strengthen the incentive 
 
 The analysis of this section reveals that requiring bondholders to consent in order to receive consent payments or requiring that they consent in order to participate in the exchange or tender offer can lead to coercive outcomes. Absent both these requirements,  bondholders can vote against covenant changes without forfeiting either consent payments or the right to participate in the exchange offer. In other words,  they may assure themselves of the payoffs available in the event of the solicitation's success without having to contribute to that success. 12 Formally stated,  it is easy to show that without these two requirements bondholders would never approve disadvantageous covenant changes. One may now return to the data and ask whether or not firms structure their consent solicitations in a coercive way. Table 2 answers this question in the affirmative. Of the 48 solicitations for which sufficient modifications (i.e.,  making *consent payments') or conditioning participation in an exchange or tender offer on consenting to covenant modifications (i.e.,  requiring exit consents') may lead individual bondholders to consent to wealth-reducing changes. This table shows the number of consent solicitations that made these consent payments or required exit consents. Solicitations for which the terms could not be obtained are not included.
 
-![](CleanShot%202024-09-27%20-002938@2x.png)
+ ![500](CleanShot%202024-09-27%20-002938@2x.png)
 
 Information was available,  44 either made consent payments available only to consenting bondholders,  required exit consents,  or did both.
 

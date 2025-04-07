@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_The Economist Margin Call of the Wild
-- Alias_91_The Economist Margin Call of the Wild.md
+- The Economist Margin Call of the Wild
+- The Economist Margin Call of the Wild.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: The Economist Margin Call of the Wild
 ---
-
-
-
-
 # The Economist Margin Call of the Wild
 
 Before friday March 26th,  few people may have heard of Archegos Capital Management,  an investment vehicle run by Bill Hwang,  a former hedge-fund trader with a chequered past. But it has emerged as the entity behind a fire sale of at least $20bn-worth of equities,  which roiled stockmarkets on an otherwise unremarkable Friday and has left at least two global banks—Credit Suisse and Nomura—facing multi-billion-dollar losses. Financial regulators in America and Europe will have a say before the affair has run its course.
@@ -19,7 +15,7 @@ The plotline has already taken shape. Archegos is a so-called family office. It 
 
 The first sign of trouble came that Friday when Goldman Sachs and Morgan Stanley,  two Wall Street behemoths,  began selling large blocks of shares for an unnamed client who had missed a margin call—a demand for more collateral to cover losses on trades that had gone awry. The stocks that were forcibly sold might best be categorised as “second-tier tech”. They included [Baidu,     a Chinese search engine](https://archive.is/o/ij3xX/https://www.economist.com/business/2021/03/20/baidu-turns-to-personal-transport-for-growth),  and [Viacomcbs](https://archive.is/o/ij3xX/https://www.economist.com/business/2019/08/15/viacom-and-cbs-agree-to-reunite),  an American media conglomerate,  with a streaming service that gives it the flavour of a faddish tech stock. Their prices crashed under the weight of the selling. The price of Viacomcbs shares,  for instance,  fell by more than a quarter.
 
-![](https://archive.is/ij3xX/154b872b4bb665f5a9a784219732ff1bcf34498c.webp)
+ ![500](https://archive.is/ij3xX/154b872b4bb665f5a9a784219732ff1bcf34498c.webp)
 
 By Sunday March 28th it had emerged that the mystery client was Archegos. More familiar names were caught up in the drama. On Monday Credit Suisse said it was in the process of liquidating the positions of a client that had defaulted on margin calls,  and that the related losses would be “material”. Unofficial estimates put these at $3bn-4bn. Nomura,     a Japanese bank,     said that it was on the hook for about $2bn,  possibly more if stock prices fell further. These are significant losses. If not quite a lost limb,  they amount to more than a flesh wound. The banks’ share prices tanked. 
 

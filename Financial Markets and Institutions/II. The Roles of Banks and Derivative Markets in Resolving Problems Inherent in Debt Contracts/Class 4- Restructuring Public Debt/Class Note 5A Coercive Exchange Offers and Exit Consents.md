@@ -2,11 +2,11 @@
 cssclasses:
   - academia
 aliases:
-  - Example_Alias_Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
-  - Alias_5_Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents.md
+  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
+  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents.md
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - Bankruptcy
   - Restructuring
   - Covenants

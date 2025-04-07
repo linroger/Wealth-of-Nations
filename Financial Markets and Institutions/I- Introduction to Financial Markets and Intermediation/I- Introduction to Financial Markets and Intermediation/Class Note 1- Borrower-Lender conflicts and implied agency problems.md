@@ -2,13 +2,12 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_100_Class Note 1- Borrower-Lender conflicts and implied agency problems.md
-  - Example_Alias_Class Note 1- Borrower-Lender conflicts and implied agency problems
+  - Class Note 1- Borrower-Lender conflicts and implied agency problems
   - Class Note 1 Borrower-Lender conflicts and implied agency problems
 linter-yaml-title-alias: Class Note 1 Borrower-Lender conflicts and implied agency problems
 tags:
-  - tag_example
-  - example_tag
+
+  - 
   - "#debt-management"
   - "#financial-instruments"
   - "#capitalstructure"
@@ -28,7 +27,7 @@ The example illustrates how divided ownership of different parts of the cash flo
 
 Debt holders own the lower tail of the distribution of firm value,  and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm).
 
-### 1.No debt
+### 1. No debt
 
 Two projects,  the riskier one also has a lower expected return. Each has only two possible outcomes,  one if a depression (D),  one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
 

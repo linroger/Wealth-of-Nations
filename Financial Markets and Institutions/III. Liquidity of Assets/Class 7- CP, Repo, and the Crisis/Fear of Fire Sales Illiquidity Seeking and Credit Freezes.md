@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Fear of Fire Sales Illiquidity Seeking and Credit Freezes
-- Alias_35_Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
+- Fear of Fire Sales Illiquidity Seeking and Credit Freezes
+- Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 ---
-
-
-
-
 # Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 
 ## The Quarterly Journal of Economics
@@ -144,7 +140,7 @@ Let the base case be $Z=2,        \theta=0.3$. $Z=2,        \theta=0.3,        f
 
 vary the amount of available cash with liquid buyers. 0. Atlevels of $\theta$ below 0.32,  the banks will fail conditional on the liquidity shock and will be run. Securities prices are low and lending even lower. Interestingly,  an increase in liquidity from 0.29 to 0.3 makes little difference in prices or lending (see Figure II) because it does not alter the fact that the bank will be run and that the date-1 fire sale prices conditional on the shock will be very low,  so date-0 prices will be low. However,  if enough liquidity is infused into the system so that the bank is not insolvent at date 1,  securities prices are considerably higher at date 1 and date 0,  and consequently date-0 lending jumps.
 
-![](https://storage.simpletex.cn/view/fukhMXuAkC7Ey7XdMm4yg4AVLchfqzain)
+ ![500](https://storage.simpletex.cn/view/fukhMXuAkC7Ey7XdMm4yg4AVLchfqzain)
 
 Prices of Securities and Liquidity
 
@@ -156,7 +152,7 @@ Sources of Illiquidity. The key contractual element that exposes the financial i
 
 Informed buyers is limited and they have finite borrowing capacity (Shleifer and Vishny 1992). 8 Hence buying capacity,  rather than asymmetry of information between buyers and sellers of assets,  drives our results. Implicit here is the idea that potential buyers cannot raise funds and increase scale instantly. Of course,  over time we would expect that if there were substantial quantities of illiquid assets,  existing skilled buyers would raise more funds,  and more entities would acquire the necessary skills. So illiquidity of this kind would,  at best,  be a medium-term phenomenon.
 
-![](https://storage.simpletex.cn/view/fMYbYIsdQ052BCl33awFIzYqDZvK6gsCE)
+ ![500](https://storage.simpletex.cn/view/fMYbYIsdQ052BCl33awFIzYqDZvK6gsCE)
 
 The Liquidity Shock. We have referred to the bank's required need at date 1 of $fD$ of cash as a liquidity shock without specifying the source. It could be a need by depositors for working capital for their own businesses during a period of limited liquidity or represent a fear-based withdrawal by some (uninsured) depositors or other short-term creditors who come to doubt the bank's viability or the government's ability or willingness to protect bank creditors. One exampleis theloss of access to interbank loan markets where other banks anticipate future problems with the bank and prefer to collect before the bank fails or is closed (Smith 1991).
 
@@ -245,8 +241,6 @@ In sales. If there is plenty of cash $\theta$ available with buyers or if the si
 ### IV. B. Voluntary Sales to the Authorities
 
 The authorities can force sales only when they have some legal or regulatory ability to coerce the bank. If a bank has to sell voluntarily,        it will demand at least the ask price,        which is above the private buyer's bid price. The authorities can offer to buy securities through a reverse auction to establish securities prices,        keep the securities off market in an entity like the Resolution Trust Corporation,        and prevent some bank failures. A reverse auction to establish securities prices,        but if authorities are unsure of why banks do not sell (and do not know $q,        \delta^{I}$ ,        or $f$ ),        it will not reveal the long-run value of the Resolution Trust Corporation,        and prevent some bank failures. A reverse auction are clear shock and hence the safest banks) would agree to sell at the lowest price. Thus a substantial amount of money could be spent in cleaning up banks that do not provide much reduction in future fire sales,        while the banks most in need of being cleaned up may not sell at the auction clearing price.
-
-
 (i) Unlike with a forced sale,        the authorities will have to pay for the put option banks have,        making this a costlier intervention. (i) Unlike with a forced sale,        the authoritithe resources to pay for the purchase or subsidize private purchases. (ii) As Proposition 3 indicates,        the banks with the lowest value of the put option banks have,        making this a costlier intervention.
 
 (ii) Conditional on agreeing to sell,        a bank would want to sell all its securities,        since at any price over the bid price,        selling and reinvesting conditional on the liquidity shock beats holding to maturity. 14 If these selling banks were banned from repurchasing the illiquid security if they did not receive a liquidity shock on date 1,        they would demand a higher price for parting with it at date 0.
@@ -292,8 +286,6 @@ Who model contagious bank failures due to limited aggregate liquidity. In their 
 Banks expand and contract lending based on their ability to securitize loans in a sentiment-driven market. In their model,        parameters are assumed such that banks would not want to hoard cash in order to buy assets when market sentiment falls. This then drives the procyclicality of lending. However,        banks would hoard securities and not sell them at such times in anticipation of a recovery in prices. However,        banks would hoard securities is different because there are buyers in our market who are not infected by negative sentiment. The reason in our model is that banks prefer the higher return they get conditional on survival by holding on to the asset to the lower unconditional return they get from selling. The reason in our model is analogous to liquidity in ours,        the primary difference in implication is that in our framework,        the authorities could make a difference by various forms of liquidity infusion. Of course,        to the extent that liquidity infusion affects sentiment in unmodeled ways,        this difference would diminish.
 
 Finally,        our article is related to Philippon and Schnabl (2009). Unlike our article,        they treat the problem of credit contraction in a crisis as primarily due to a traditional long-term debt overhang caused by risky bank debt,        as in Myers (1977). Our focus on the institutional overhang of illiquid assets held by short-term debt-financed institutions and implied illiquidity seeking is quite different from traditional overhang. Our paper has implications for the world financial crisis of 2008-2009. Anecdotal evidence does seem to suggest that trading slowed in mortgage-backed securities as the possibility of liquidity shocks increased. Of course,        bank lending also slowed,        even to highly rated borrowers (Ivashina and Scharfstein,        2010).
-
-
 The most obvious alternative explanation is one related to bank regulatory capital—that banks were trying to preserve book capital,        and they would have been reluctant to sell securities that were heavily discounted in the market relative to what they were carried on the books for. According to the book capital explanation,        these securities that had the greatest divergence between their book value and their market value would be the ones that banks would be reluctant to sell (and that they would move to the “held-to-maturity"account). Our model,        by contrast,        would suggest that the securities most exposed to liquidity risk would be the ones that the weak banks would be most reluctant to sell. Empirically,        though,        the securities whose market value diverges most from book value in a liquidity crisis might be the ones most exposed to liquidity risk,        so these explanations are not easy to tell apart.
 
 The book capital explanation would,        however,        suggest weak banks would not have strong incentives to add to their existing holdings of illiquid assets. Our model,        by contrast,        would suggest they would have an incentive to "double up,       " including by increasing leverage. There is some anecdotal evidence consistent with this. *The Economist* (February 27,        2010) cites an ABN Amro executive who claims that the giant U.K. bank Royal Bank of Scotland (RBS) got into trouble after its acquisition of Dutch bank ABN Amro because"RBS,        desperate for profit and capital,        insisted ABN's risky credit trading positions be kept open—and some be increased.” 'RBS decided to take a massive punt,       ' he says." More systematically,        He,        Khang,        and Krishnamurthy (2010) show that over the period they examine,        even while hedge funds and broker-dealers (typically investment banks) were reducing their holdings of (illiquid) securitized assets by approximately $800 billion,        insured that commercial banks were increasing their holdings by close to $550 billion. At the same time,        even while the rest of the industry appeared to be reducing leverage,        banks increasedleveragefrom10 tobetween20 and32. He,        Khang,        and Krishnamurthy argue that the likely explanation is that commercial banks had easier access to funding because of help from the government,        though absent the debt overhang incentives,        it is less clear why banks would increase their holdings of illiquid assets rather than increasing lending substantially. Moreover,        Laeven and Huizinga (2009) suggest mortgage-backed securities as a share of bank assets were increasing even before the panic-induced expansion in government lending support. Our model offers a reason why illiquid assets were more attractive,        even without government aid.

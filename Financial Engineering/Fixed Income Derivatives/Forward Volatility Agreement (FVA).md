@@ -38,7 +38,7 @@ The implied volatility is a measure of expected volatility, which is directly qu
 “Forward” implied volatility is the implied volatility determined today for an  interval starting in the future and ending further in the future (e.g., starting in one  month and ending in two months from now).
 The key motivation for trading FVA’s is that it allows investors to speculate on the level of future  volatility. Similar to the standard carry trade, volatility carry trade is a speculation strategy that  buys and sells FVAs, where investors try to make money by guessing the level of future spot  implied volatility. The carry trade in volatility works well if spot implied volatility is  unpredictable. Then, investors engaging in this new carry trade will on average earn the difference  between spot and forward volatility without having to worry about movements in exchange rates.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/959c09624ab9fe74d8a979628f1f540068f0d7ca8e4a5cc9568d018fe133bf8c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/959c09624ab9fe74d8a979628f1f540068f0d7ca8e4a5cc9568d018fe133bf8c.jpg)
 Figure 1.1, Source:
 
 Given the data on the current implied vol at ili ties for alternative maturities, the calculation of  forward implied volatility can be computed (proxy) by a simple formula, which assumes that the  relation between implied variance and time is linear across the term structure.
@@ -108,7 +108,7 @@ Variations of FVA contract are currently restricted to the definition of strike 
 
 # TERMSHEET
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/881ae466db7aaa14ea130888e0367d64bd00fdfe8495f2ae41d85d9de7266aea.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/881ae466db7aaa14ea130888e0367d64bd00fdfe8495f2ae41d85d9de7266aea.jpg)
 
 From the above term-sheet, the strike of the straddle is defined to as Delta Neutral straddle. This  implies that the strike is solved for such that the aggregate delta of the straddle is zero.
 
@@ -128,9 +128,9 @@ p a y\circ\mathcal{V}_{s t r a x}(\mathcal{N},\sigma,\sigma_{j x})=\bar{N}\cdot\
 $$
 
 The net profit if cash settled is:   $25\mathbf{M}\times(0.043839-0.039847)=3$  approximately, 100,000
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61b13c66b48e332a90e445a366ce8e474b79fecb07c9bad1f603ef4bb2222fcc.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61b13c66b48e332a90e445a366ce8e474b79fecb07c9bad1f603ef4bb2222fcc.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d17133328a5c4829fbfd9a6d93a83a889d608dc87f3071cba51fa06497a53d4d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d17133328a5c4829fbfd9a6d93a83a889d608dc87f3071cba51fa06497a53d4d.jpg)
 
 On settlement date, we are pricing  EUR-USD Straddle position which  expires in 3 month time and with a  volatility of   $10\%$   which is the fixed  FVA rate.
 
@@ -138,7 +138,7 @@ The upfront premium is  $\mathbf{EUC}\%$  3.9847
 
 On Settlement date, if the observed 3  moths spot implied volatility is  $11\%.$  ,  we can cash settle the deal by the  difference in premium using the two  vols.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad566b36c9d29447a316603fda47cb089dd88b43a0eab06fb56d4a2b09f7b61d.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad566b36c9d29447a316603fda47cb089dd88b43a0eab06fb56d4a2b09f7b61d.jpg)
 # FVA EXAMPLE (BID/ASK SPREAD)
 
 Consider an investor who on September 25, 2007 enters a   $I$  -month FVA written on the dollar price  of the euro (EUR) with a notional of M = 1,000,000 USD. Note that for this example we go back  to using two subscripts to clearly identify the start and end of the volatility interval.
@@ -149,12 +149,12 @@ Given these quotes, we compute the model-free   $I$  -month and 2-month spot IVs
 
 These figures suggest a downward-sloping volatility curve. In a real trade, the FVA delivery price  is quoted with a bid-ask spread, which typically revolves around  $\it{0:5\%}$   for major currencies such  as EUR. If the trader goes long the FVA, the contract will expire on October 25, 2007 and deliver  a payoff equal to   $(S V t{+}I;t{+}2\;{\bar{\mathbf{\nabla}}}F V-O.5\%)\,x\,M,$  , where  $\scriptstyle S V t+I;t+2$   is the model-free 1-month spot  IV computed on October 25, 2007 that covers the period of October 25, 2007 to November 25,  2007. As seen in Table below, it turns out that   $S V t{+}I{;}t{+}2\,=\,7{\cdot}75O\%$  . Hence, the FVA is cashsettled with a payoff of 390, 000 USD .
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7031d380c10951557c4973ee1961ae3605fbcb393e4817d0119c5006a3da868b.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7031d380c10951557c4973ee1961ae3605fbcb393e4817d0119c5006a3da868b.jpg)
 # Table (data source Bloomberg)
 
 $_{t+1}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $(S V_{t+1,t+2}-F V_{t}^{1}-0.5\%)$   $1,000,000$   $0.5\%$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/caf9f988919a038bdd6a563e6364439c7c2195a2cb1643dfa3ef0004367df1d4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/caf9f988919a038bdd6a563e6364439c7c2195a2cb1643dfa3ef0004367df1d4.jpg)
 # 2.1 Pricing and Hedging FVA’s
 
 Isolating Local Volatility with “Gadgets”
@@ -169,7 +169,7 @@ Something similar can be done with option. A volatility gadget is a small portfo
 
 This gadget is sensitive to (forward) local index volatility only in the region between the strikes  and expiration s of the spreads in the gadget. Figure 3b illustrates the volatility gadget. By buying  or selling suitably constructed gadgets corresponding to different future times and index levels, we  can theoretically hedge an index option portfolio against changes in future local volatility.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74ef17865a49f67db6ae35905e5c83b60c2fb54ae8d0d67539c1343bc27df42e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74ef17865a49f67db6ae35905e5c83b60c2fb54ae8d0d67539c1343bc27df42e.jpg)
 
 See, (Derman, E., Kani, I., and Kamal, M., \`Trading and Hedging Local Volatility',  Quantitative Strategies Research Notes, Goldman Sachs & Co, 1996
 # Forward Start Straddle (STO)
@@ -198,10 +198,10 @@ Results from the above model show that for relatively low strike prices, the eff
 
 They have also showed that the sensitivity of the straddle position to changes in initial volatility.  This shows that the position was extremely sensitive to changes in volatility and declined in value  when volatility decreased. Also, the higher the vol-of-vol, the higher is the vega of the forward  strart straddle position.
 $i=0$   $K_{\mathrm{SID}}$
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39674cc607105c803dfbf50ecbbb4ede4da5cd92eb0ef42df9481592e3602146.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39674cc607105c803dfbf50ecbbb4ede4da5cd92eb0ef42df9481592e3602146.jpg)
  $=0.20,\theta,$   $=$   $=4.00$   $T_{1}=0.5,$
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ff5e357bfa01e660b7e4f18672dbb23bd9d15565608f5ac49fedb14b7edd8f8.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ff5e357bfa01e660b7e4f18672dbb23bd9d15565608f5ac49fedb14b7edd8f8.jpg)
  $k$   $K_{\mathrm{STO}}$   $k\,S_{0}\,{=}\,100,r\,{=}\,0$   $\bar{\sigma}_{\bar{0}}=0.20$   $\beta\!=\!0.20$   $\delta\!=\!4.00$   $T_{\mathrm{i}}=0.5$   $T_{2}=1.0$
 # Trading FVA’s
 
@@ -209,7 +209,7 @@ An investor who believes that the implied volatility will be higher (lower) leve
 
 $\checkmark$    If implied volatility is expected to be higher ----  $\cdot\xrightarrow{}$   buy/take a long FVA position   $\checkmark$    If implied volatility is expected to be lower ----  $\cdot\xrightarrow{}$   Sell/take a short FVA position
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aa3bc01624bd2ffbf60f4a76ebf957eb99f2fc4d633a13f2865a47f8a5999ca7.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aa3bc01624bd2ffbf60f4a76ebf957eb99f2fc4d633a13f2865a47f8a5999ca7.jpg)
 Figure 2.1 (3 month forward volatility from different terms-structure; source Credit Suisse
 
 Forward volatility agreement may provide investors with long-term volatility (Vega) exposure,  without having exposure to short-term volatility (Gamma). This type of product does not have to  pay Theta as the gamma of the position is zero initially until the start of FVA’s trade date.
@@ -221,7 +221,7 @@ While the FVA product may have zero mathematical Theta, they might suffer from t
 
 If we look at the current implied forward volatility that commences 3 month from now and expires  3 months later. We can see from the table below that the 3x6 for EURUSD quote is:   $11.541\%$  .  Even-though the market quote for future date is unknown, however, the current volatility surface  can be used to extract future or instantaneous vol at ili ties.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5116e01e30dcd4978eeb4bbb41a3f67f10fb6fc25d604603a70db5eb925440ee.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5116e01e30dcd4978eeb4bbb41a3f67f10fb6fc25d604603a70db5eb925440ee.jpg)
 
 We can compare the above extrapolated forward volatility from the current vanilla surface for a  given tenor to a model dependent volatility strike computed from FVA pricing.
 
@@ -273,7 +273,7 @@ To maintain the delta neutrality of the position once after the FVA’s date, we
 
 Both Volatility Swap and FVA’s initially give exposure to strike-less Vega (exposure to implied  volatility that remains constant as spot moves). This is because the ATM straddle is not set until  the FVA’s fixing date / start date.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eee802fcec3bbcfca2c78103cd45c576c3b3b50ef0ab882311166cbe2d4ea154.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eee802fcec3bbcfca2c78103cd45c576c3b3b50ef0ab882311166cbe2d4ea154.jpg)
 
 The FVA’s strike-less Vega is constant until the strike fixing date and once the strike is fixed at  fixing date of the FVA, the Vega profile is similar to Vanilla and varies with the underlying.
 
@@ -292,7 +292,7 @@ The volga is also referred to as Vomma. For volatility movements, Volga is to Ve
 
 For complex exotics such as FVA’s that requires stochastic volatility models, one need to compute  volga and other Greeks with respect to model parameters.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/30620436f41460a2874750d8a1d0b714acbeb36573152f7de946f57ef7be6214.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/30620436f41460a2874750d8a1d0b714acbeb36573152f7de946f57ef7be6214.jpg)
 
 The interest of Volga is to measure the convexity of an FVA position with respect to volatility.  FVA contract with high Volga benefits from volatility of volatility.
 
@@ -307,7 +307,7 @@ For complex exotics such as FVA, traders cannot just simply ignore the risk due 
 
 Vanna measures the change in delta due to a change in volatility. It measures the size of the skew  position. Vanna is the slope of vega plotted against spot.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e13ce0621954f34d590419929ca8173425b1d918ff1b4a36adf384efc0d1a80.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e13ce0621954f34d590419929ca8173425b1d918ff1b4a36adf384efc0d1a80.jpg)
 
 The Vanna is a second order “cross” Greeks. Like any other cross Greeks, the Vanna can be  defined in many ways:
 
@@ -328,16 +328,16 @@ The static hedge has some practical limits:
 
 Figure 4 shows the dollar gamma profile of holding portfolios of 1, 2 and 5 options, and illustrates  the limited range of spot levels for which the dollar gamma profile is flat.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/455017c05f53fceae56d15d40c640caf698d9584f3a7512c24a21a654546a774.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/455017c05f53fceae56d15d40c640caf698d9584f3a7512c24a21a654546a774.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8254f5845a49bd4eea84d7aecb2a5411c1e11f22aa58279cf977ebeab9964a0.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8254f5845a49bd4eea84d7aecb2a5411c1e11f22aa58279cf977ebeab9964a0.jpg)
 
 After the market declined, many single stock option desks became forced buyers of low strike  options, in order to manage the gamma and vega risk of the variance swap positions in their books.  In fact, by selling variance swaps, the traders had committed to deliver the P/L of a constant dollar  gamma portfolio, irrespective of the spot level, but their replicating portfolio did not have  sufficient dollar gamma at the new spot levels. Market makers were therefore forced to buy low  strike options at the post-crash volatility level, which was much higher than the one prevailing  when they sold the variance swap, and therefore incurred heavy losses.
 Not re-hedging the gamma risk was not a possibility, as this would have left the books exposed to  potentially catastrophic losses if the stock prices declined further, and volatility continued to  increase. The convexity of the variance swap payoff further exacerbated the downside risk. This  situation led to large losses for many market-makers in the single stock variance swap markets. In  turn this led banks to re-assess the risk of making markets in these instruments and to a substantial  shutdown of the single stock variance swap market
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d2be48d1c01e5bfdd0bc7fd43ce8a71d01e81aa4d8cdd38f16f37177d1ba1c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d2be48d1c01e5bfdd0bc7fd43ce8a71d01e81aa4d8cdd38f16f37177d1ba1c.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca4de30c1ba35054a4f463de050a693b1671b0d2fcb7c1e812f4748a7a97a410.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca4de30c1ba35054a4f463de050a693b1671b0d2fcb7c1e812f4748a7a97a410.jpg)
 # Review of Volatility Swap risks:
 
 Delta-hedging options leads to a P/L linked to the variance of returns rather than volatility. To  achieve the linear exposure to volatility which volatility swaps provide it is therefore necessary to  dynamically trade in portfolios of options, which would otherwise provide an exposure to the  square of volatility. A volatility swap can be thought as a non-linear derivative of realized variance,  the ‘underlier’ that can be traded through portfolios of delta-hedged options.
@@ -346,7 +346,7 @@ To hedge volatility swap with variance swap, the trader would need to trade in a
 
 The volatility swap payoff can be locally approximated by a variance swap, where the variance  swap begins to outperform the further realized volatility moves from the initial strike. Thus, the  volatility swap could theoretically be replicated through “delta-hedging” by trading dynamically  in the variance swap, where the “delta” is the sensitivity to the instruments’ underlying, namely  realized variance. Changes in this volatility “delta” will depend on the investor’s estimate of  volatility of volatility.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9bbe59ffca7e8cb0fabb62685610a851ee713d55220cf93e074f4e886e4763f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9bbe59ffca7e8cb0fabb62685610a851ee713d55220cf93e074f4e886e4763f.jpg)
 A volatility swap can be replicated using a delta-hedged portfolio of options, where the portfolio  of options is dynamically rebalanced to replicate the Vega and gamma profile of the volatility swap  across the range of spot prices.
 
 One possible approach to hedging the volatility swap is to trade delta-hedged ratio strangles (e.g.  short   $1.5\;80\%$   strike puts and short one   $120\%$   call to hedge a long volatility swap), where the ratio  and strikes are set in order to minimize the net exposure to volatility across the skew (i.e. to attempt  to match the Vega profile of the options to the volatility swap over a range of anticipated spot  levels). Since the Vega exposure of the strangle and volatility swap differ as the spot changes, the  strangles will have to be re-striked when the net exposure to volatility exceeds the trader’s  tolerance .
@@ -356,9 +356,9 @@ The strangle notionals, strikes and the ratio of puts to calls will depend on th
 
 Additionally, it may not be possible to simultaneously replicate both vega and gamma well over a  broad range of spot levels with this approach, as is the case in the example below where the chosen  portfolio poorly replicates the gamma exposure of the volatility swap below the spot.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c85940a7ee4e43b91c41339cb4c0e93b8ac48b676b072b584b438747ae79e6b4.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c85940a7ee4e43b91c41339cb4c0e93b8ac48b676b072b584b438747ae79e6b4.jpg)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/882e3d1ae6e840a09aa470a887f3f1a8d10a77e733892d10b273cf5ae96f014e.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/882e3d1ae6e840a09aa470a887f3f1a8d10a77e733892d10b273cf5ae96f014e.jpg)
 
 -   Re-striking may cause the need for new strangles to be initiated with significant different  volatility if the volatility level has shifted.
 
@@ -408,19 +408,19 @@ Local volatility Models are easy to implement and theoretically self consistent,
 
 When the prices decreases, Local Volatility Models predict that the smile shifts to higher prices.  When the price increases, Local Volatility Models predict that the smile shifts to lower prices. In  reality asset prices and market smiles moves in the same direction. These inconsistencies lead to  incorrect hedges and hence incorrect pricing for exotic options.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c95934c5ff98e157e1a36d9a9cbd178ffa9083a8176c6f670c4dd873e9ff9c3.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c95934c5ff98e157e1a36d9a9cbd178ffa9083a8176c6f670c4dd873e9ff9c3.jpg)
 Implied volatility  $\sigma(K,f)$   if the forward prices decreases from  f 0  to f (solid line).
 Local volatility models are deterministic models and produce sharply flattened future volatility  smiles and skews as seen in figure below, which shows the three month forward implied volatility  skew at different reset dates, where 0M refers to the vanilla three-month option and 60M refers to  an option with three months' expiry starting in five years' time. We can see as we go out further in  time that the volatility skew and curvature decays. This behavior is not observed in the market.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c6e34f600e9aebbe53cb0cabb0018267b73ab33f5f2c35ed3ee0acc4751cb0c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c6e34f600e9aebbe53cb0cabb0018267b73ab33f5f2c35ed3ee0acc4751cb0c.jpg)
 Notice the flattening of the surface for lower and higher strikes
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8ae35b833abfd1a11d0cbdef67eba2a152755b95cf09a5025f2279fd8186b1f.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8ae35b833abfd1a11d0cbdef67eba2a152755b95cf09a5025f2279fd8186b1f.jpg)
 Local Volatility surface for SX5E index
 
 There are no documented empirical research testing the pricing result of FVA’s against the market,  however, Behvan (2010) investigated the pricing of structures that depend on forward volatility  such as Cliquet options (strip of forward starting options). Behvan (2010) compares the pricing  result of Cliquet using Local Volatility model against market consensus (Totem).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7ca0fbb4b9b383f523cf8f95a182213fc64f934a02c2720c0eb88d58ed90117.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7ca0fbb4b9b383f523cf8f95a182213fc64f934a02c2720c0eb88d58ed90117.jpg)
 
 Red indicates results from the Local Vol. Model which are outside of the market consensus.
 # STOCHASTIC VOLATILITY MODELS
@@ -449,17 +449,17 @@ $$
 
  3. Speed of mean reversion of volatility:  $k$
 
- 4. Volatility of volatility:  $\pmb{\sigma}$
+ 4. Volatility of volatility:  $\textdollar{\sigma}$
 
- 5. Correlation between spot exchange rate and volatility:  $\pmb{\rho}$
+ 5. Correlation between spot exchange rate and volatility:  $\textdollar{\rho}$
 
 All these parameters can be calibrated.
 
-We can interpret the parameters   $\pmb{\sigma}$   and   $\pmb{\rho}$   as being responsible for the skew, the volatility of  variance controlling the curvature and the correlation the tilt.
+We can interpret the parameters   $\textdollar{\sigma}$   and   $\textdollar{\rho}$   as being responsible for the skew, the volatility of  variance controlling the curvature and the correlation the tilt.
 
-The other three parameters   $(V(\pmb{\theta}),\pmb{\theta},a n d\pmb{k})$    control the term structure of the model; where the mean  reversion controls the skewness of the curve from the short volatility level to the long volatility  level.
+The other three parameters   $(V(\textdollar{\theta}),\textdollar{\theta},a n d\textdollar{k})$    control the term structure of the model; where the mean  reversion controls the skewness of the curve from the short volatility level to the long volatility  level.
 
-The Heston model is a generalization of the Black-Scholes model. Taking the limits   $\pmb{\sigma}->\mathbf{0}$  ,  and   $k\Rightarrow\theta_{r}$  ,  we recover the Black-Scholes PDE with constant volatility.
+The Heston model is a generalization of the Black-Scholes model. Taking the limits   $\textdollar{\sigma}->\mathbf{0}$  ,  and   $k\Rightarrow\theta_{r}$  ,  we recover the Black-Scholes PDE with constant volatility.
 
 The volatility-of-volatility and mean reversion have opposite effect on the dispersion of volatility.  Volatility-of-volatility allows a large variation of future values of volatility; Mean-reversion  reversion tends to push future values of volatility towards the long-term value of volatility.
 # Advantages:
@@ -481,11 +481,11 @@ Bloomberg have implemented Heston model for pricing FX options and find similar 
 Below we list the three main problems reported in the Bloomberg study:
 
    Heston model cannot fit a general volatility surface, which may contain 20-30 data  points.        Over short horizons, the Heston model does not generate the amount of skew and  curvatures quoted in actual volatility surfaces. (  This short comings of stochastic volatility  models can be alleviated by adding jump component to the model )       The time dependency in implied vol at ili ties of ATM options is not in general of the form  of an exponential transition from short-term to long-term levels as prescribed by the form  of mean-reversion of the Heston model Parameter effects on the implied volatility smile  in the Heston SV model.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7903d0c6da93619d26c20d1fddcbb6370844024621c22d214620c4a6cdd90819.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7903d0c6da93619d26c20d1fddcbb6370844024621c22d214620c4a6cdd90819.jpg)
 
 Under the Bloomberg study, a set of Heston model parameters are calibrated using EUR/JPY,  EUR/USD, GBP/USD and USD/JPY and their volatility surfaces. The relative error of volatility  implied by the Heston option pricingi model and the input implied volatility. The test is based on  ATM, 25 and 10-delta points with expiries of 1 week, 1 month, 6 month and 1 year.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0c4525800f172aa1ebb6d50d2a7e4acb77e137d33de0c8ee8063f0dea554a61.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0c4525800f172aa1ebb6d50d2a7e4acb77e137d33de0c8ee8063f0dea554a61.jpg)
 Errors are smaller for the 25-delta options but the error increases for 10-delta options. For 1  week and 1 month options, the fit is not very good as expected for the Heston model. Errors are  around   $5.10\%$   for all delta values.
 Below is a list of pros and cons of stochastic volatility models compiled by Peter Carr and Roger  Lee in their joint presentation; Robust Re plc i ation of Volatility Derivatives, April 2003, Stanford  University.
 
@@ -498,10 +498,10 @@ According to the above authors, a comparison between a deterministic volatility 
 
 A model-independent approach can be derived for volatility swap using Taylor expansion of the  square root function around some value that is close to the expected volatility swap value. So in  approximating volatility swaps only to   $1^{\mathrm{st}}$   order, we do not capture the effects of stochastic  volatility (volatility convexity).
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0430a8b92e387b103438eff6efa33a5d6a395fbd4213a51349587e1f8347262c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0430a8b92e387b103438eff6efa33a5d6a395fbd4213a51349587e1f8347262c.jpg)
  $I^{s t}$    and  $2^{n d}$    order approximation for the volatility swap.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11a09c0ca7438c9f1130b2da7d7406e08b5a66cf484a4e7447e566c96977c92a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11a09c0ca7438c9f1130b2da7d7406e08b5a66cf484a4e7447e566c96977c92a.jpg)
 model dependency of volatility swap.
 
 So, the   $1^{\mathrm{st}}$   and   $2^{\mathrm{nd}}$   order Taylor expansions provide two approximations that respectively  overestimate and underestimate the true value of the swap. Since Forward volatility agreement  requires the square root of the variance, one can argue that we might expect similar results too.
@@ -530,7 +530,7 @@ $$
 \begin{array}{r l}&{\displaystyle\frac{d S_{t}}{S_{t}}=(\boldsymbol{r}_{d}-\boldsymbol{r}_{f})d t+L(S_{t},t)\sqrt{V_{t}}d W_{t}^{1}}\\ &{d V_{t}=k(\theta-V_{t})d t+\nu\nu o l\!\cdot\!V_{t}^{\alpha}d W_{t}^{2}}\\ &{d W_{t}^{1}\cdot d W_{t}^{2}=\rho~d t}\end{array}
 $$
 
-$L(S_{t},t)\ =$   = Local Volatility,   $\pmb{K}=$    speed of mean reversion,   $\Theta\!\!=$  mean reversion level,  Vvol    $=$  volatility of variance,  $\mathbf{P}=$  correlation.
+$L(S_{t},t)\ =$   = Local Volatility,   $\textdollar{K}=$    speed of mean reversion,   $\Theta\!\!=$  mean reversion level,  Vvol    $=$  volatility of variance,  $\mathbf{P}=$  correlation.
 
 The mixing of LV and SV features is controlled mostly by  vvol , followed as importance by the  correlation ρ. For SLV to degenerate to a pure LV model one would set   $\nu\nu o l{=}0$   and to obtain a  pure SV model one would set   $L(S_{t},t)\!=\!1$  =1.
 
@@ -538,7 +538,7 @@ The mixing of LV and SV features is controlled mostly by  vvol , followed as imp
 
 1.   Find the stochastic parameters to match the market dynamics  2.   And then calibrate the local vol. function   $L(S_{t},t)$   to match the vanilla market
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e346beef210217fbed3eab3cc97a174eaeef791a144eb2bd9f66146ceba9c928.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e346beef210217fbed3eab3cc97a174eaeef791a144eb2bd9f66146ceba9c928.jpg)
 
 $\mathcal{\prime}_{\sf A}$   rigorous approach to finding the stochastic parameters rests on a quant if i cation of the market  dynamics. This can be represented by   ATM/  Spot and   $\hat{\sigma}$  RR/  Spot  or other ways to quantify the  movements of the implied volatility surface given a move in spot.”
 

@@ -2,13 +2,12 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_50_Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook.md
-  - Example_Alias_Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
+  - Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook.md
+  - Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
   - "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
 linter-yaml-title-alias: "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
 tags:
-  - tag_example
-  - example_tag
+  - 
   - finance
   - financial-crises
   - debt-management
@@ -20,6 +19,13 @@ tags:
   - "#quantitative-finance"
   - "#debt-management-strategies"
   - "#automotive-industry-distress"
+  - "#financial_crises"
+  - "#economics"
+  - "#financial-crisis"
+  - "#corporate-defaults"
+  - "#loan-default-rates"
+  - "#bond-default-rates"
+  - "#recovery-rates"
 title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
 ---
 
@@ -54,19 +60,19 @@ Philips Displays Holding BV with $1.4 billion in bank debt. Loan defaults were r
 
 Exhibit 1 Global Loan Defaults Remained Low in 2006
 
-![](Finder%202024-09-29%2002.43.31.png)
+ ![500](Finder%202024-09-29%2002.43.31.png)
 
 ## Corporate Bond Defaults
 
 Mirroring the credit environment for syndicated bank loans,  the dollar volume of Moody's-rated corporate bond defaults also decreased substantially in 2006. A total of twenty-eight Moody's-rated issuers defaulted on $7.8 billion in bonds in 2006 debt in 2006 compared with twenty-nine corporate issuers that defaulted on $28.3 billion in bonds in 2005 (see Exhibit 3). Similar to the loan market,  distress in the automotive parts industry led to $2.5 billion in bond defaults in this industry,  contributing roughly one-third of total 2006 global bond default volume (see Exhibit 4).
 
-![](CleanShot%202024-09-29%20-002953@2x.png)
+ ![500](CleanShot%202024-09-29%20-002953@2x.png)
 
 Exhibit 3 Global Bond Default Volume Fell Sharply in 2006
 
 Dana Corporation,  together with Dana Credit Corporation,  was the year's largest default at approximately $1.9 billion. Corporate bond defaults were concentrated in the US in 2006,         with twenty-two issuers defaulting on a total of $6.4 billion in debt. Four issuers defaulted on $1.2 billion in Europe,         and two bond issuers based in South America defaulted on $0.2 billion in debt.
 
-![](Finder%202024-09-29%2002.43.46.png)
+ ![500](Finder%202024-09-29%2002.43.46.png)
 
 ## Default Rates
 
@@ -86,7 +92,7 @@ Recovery rates on defaulted bonds declined in 2006,  while loan recovery rates w
 
 Reflecting the currently benign credit environment,  both bond and loan recovery rates remain relatively high by historical standards. Moody's studies,  as well as academic research,  have noted that when default rates are high,  as they were in 2001 and 2002,  recovery rates tend to be low,  and vice versa. 2
 
-![](CleanShot%202024-09-29%20-002954@2x.png)
+ ![500](CleanShot%202024-09-29%20-002954@2x.png)
 
 Exhibit 6 Loan and Bond Recovery Rates
 
@@ -102,7 +108,7 @@ Exhibit 7 shows Moody's global speculative-grade bond default rate forecast for 
 
 Exhibit 7 Global Speculative-Grade Bond Default Rate Expected to Climb Moderately in 2007
 
-![](CleanShot%202024-09-29%20-002955@2x.png)
+ ![500](CleanShot%202024-09-29%20-002955@2x.png)
 
 Moody's forecast is based on a statistical model with a one-year forecast horizon. The model's primary drivers include changes in the distribution of credit ratings,  high-yield issuance,  and macroeconomic factors. The trends in the credit and economic variables that drive Moody's forecast are somewhat mixed relative to a year ago. On the positive side,  the credit quality of speculative-grade issuers - those most likely to default - remained steady in 2006. The number of downgrades was roughly equal to the number of upgrades during 2006,  similar to the downgrade-toupgrade ratios experienced in 2004 and 2005. Additionally,  in 2006,  favorable rating outlook changes were similar to non-favorable rating outlook changes,  a continuation of a trend that began in 2003.
 

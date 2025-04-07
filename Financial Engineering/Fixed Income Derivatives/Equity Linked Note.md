@@ -1,13 +1,13 @@
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures
 
-# Introduction
+# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]
 
 In this article we provide a succinct description of a commonly used investment instrument  in the capital markets, the equity-linked note. These are instruments that allows investors  to secure downside protection for their initial investment, while still retaining a  participation in any upside gain in the equity market. The equity side of the instrument is  linked to the performance of an equity index, individual stocks, or a portfolio of indices  and equities.
 
 The basic instrument consists of a bond with no periodic income payments (zero coupon  bond) plus a long call option on either a basket of indices or equities, single equity index,  or stock. Alternative structures may include interest rate call or put options with lower  coupon payments. At maturity, the holder of each note will receive the par amount of the  note plus a supplemental redemption amount based on the percentage increase of the  equity exposure. As an example, figure 1 below is the description of a medium term note  issued by Morgan Stanley Dean Witter which has similar characteristics in terms of its  guaranteed income and return profile. This is the “DES” page as featured on the  Bloomberg analytics system.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dfcc2f87a6addac856dc465a88b407b431594d2b65275a61e96745d23eb9b7be.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dfcc2f87a6addac856dc465a88b407b431594d2b65275a61e96745d23eb9b7be.jpg)
 Figure 1
 The bond described in figure 1 makes no periodic coupon payments and matures on 29  Sept 2003. The redemption of the bond is defined in accordance with the following  formula:
 
@@ -40,7 +40,7 @@ paying the forgone income from the bond to purchase the call option. To put it d
 
 Figure 2 sets out the essential structural design of the principal protected note in a general  framework.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62fd9026950232f9b46bbe8497cc9bb5fa14afed19c924785c6acd3afe5a0f9.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b62fd9026950232f9b46bbe8497cc9bb5fa14afed19c924785c6acd3afe5a0f9.jpg)
 
 # Figure 2
 
@@ -55,7 +55,7 @@ and the sale of a call option at a strike level that is out of the money. The pr
 
 Figure 3 sets out the return profile of a principal protected capped return equity index  linked note.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6575e3e04965f9082756de2d747a0b1f0479b0a07b043325b45c4a7ab904c1a.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6575e3e04965f9082756de2d747a0b1f0479b0a07b043325b45c4a7ab904c1a.jpg)
 
 # Figure 3
 
@@ -64,7 +64,7 @@ The issuer may also introduce a note that does not pay or guarantee   $100\%$   
 Investors have also purchased structures with embedded exotic options. For example, a  security may incorporate a payoff linked not just to the single closing value of the index on  a particular date, but also to the average closing values of the index on a series of dates.  This type of option is known as an  Asian  option. To see an example of a security with such  a payoff feature, type:   $\mathbf{EC4143078<}\mathbf{COR}\mathbf{P}\mathrm{>}\mathbf{D}\mathbf{E}\mathbf{S}\mathrm{<}\mathbf{G}\mathbf{O}\mathrm{>}$    on the Bloomberg system   to  pull out a equity linked zero coupon bond that matures on 27 June 2008 and has been  issued by the First Union National Bank. Users should then type,   ${\bf5}\!<\!{\bf g0}^{>}$    from the DES  page to see the redemption formula. Note that the payoff of the security payoff is only  $80\%$    of any increase in the index (in this case the Nasdaq 100 index). The final valuation dates  are given on the next page. The value of the option on maturity is given by the average  closing values on specified dates.
 
 The redemption formula is shown at figure 4, the Bloomberg page DES for this security.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6cb75998dd18be4acd0b98c965e94b3f7ef078d606ff7fc7c1ef9b72a3b4628.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6cb75998dd18be4acd0b98c965e94b3f7ef078d606ff7fc7c1ef9b72a3b4628.jpg)
 
 # Figure 4
 
@@ -77,7 +77,7 @@ For example, consider one of the securities introduced above by selecting on the
 # EC2243102 <CORP  $>$   DES <GO>.
 
 Type again  OV  $\mathbf{X}\!<\!\!\mathbf{G}\mathbf{O}\!>$     to determine the theoretical value of the bond. This page is  shown as figure 5.
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85e6d38da927ee4f6d764f0ecc6f1cc2afc0f9f7f433f9171cc0157ad5dda34c.jpg)
+ ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85e6d38da927ee4f6d764f0ecc6f1cc2afc0f9f7f433f9171cc0157ad5dda34c.jpg)
 
 # Figure 5
 

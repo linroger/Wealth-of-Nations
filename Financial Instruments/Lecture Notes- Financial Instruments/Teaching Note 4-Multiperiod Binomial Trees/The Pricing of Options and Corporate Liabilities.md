@@ -1,18 +1,15 @@
 ---
 Owner: RRoger Lin
 aliases:
-- Alias_185_The Pricing of Options and Corporate Liabilities.md
-- Alias_186_The Pricing of Options and Corporate Liabilities.md
+- 
+- 
 - THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 tags:
 - Papers
-- tag_example
+- 
 title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 ---
-
-
-
 # The Pricing of Options and Corporate Liabilities
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
@@ -46,7 +43,7 @@ On the other hand, if the expiration date is very near, the value of the option 
 
 These general properties of the relation between the option value and the stock price are often illustrated in a diagram like figure 1. Line A represents the maximum value of the option, since it cannot be worth more than the stock. Line B represents the minimum value of the option, since its value cannot be negative and cannot be less than the stock price minus the exercise price. Lines T1, 112, and 113 represent the value of the option for successively shorter maturities.
 
-![](Pasted%20image%2020240916034719.png)
+ ![500](Pasted%20image%2020240916034719.png)
 
 Normally, the curve representing the value of an option will be concave upward. Since it also lies below the 45 line, A, we can see that the option will be more volatile than the stock. A given percentage change in the stock price, holding maturity constant, will result in a larger percentage change in the option value. The relative volatility of the option is not constant, however. It depends on both the stock price and maturity.
 

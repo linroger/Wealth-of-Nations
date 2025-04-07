@@ -1,16 +1,12 @@
 ---
 aliases:
-- Example_Alias_Governance in Financial Distress and Bankruptcy
-- Alias_22_Governance in Financial Distress and Bankruptcy.md
+- Governance in Financial Distress and Bankruptcy
+- Governance in Financial Distress and Bankruptcy.md
 tags:
-- tag_example
-- example_tag
+- 
+- 
 title: Governance in Financial Distress and Bankruptcy
 ---
-
-
-
-
 # Governance in Financial Distress and Bankruptcy
 
 # Governance In **Financial Distress And Bankruptcy**

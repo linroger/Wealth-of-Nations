@@ -2,10 +2,10 @@
 cssclasses:
   - academia
 aliases:
-  - Alias_325_Week 1 Introduction to Financial Analysis.md
-  - Alias_328_Week 1 Introduction to Financial Analysis.md
+  - 
+  - 
 tags:
-  - tag_example
+
   - finance
   - financial-analysis
   - valuation
@@ -43,7 +43,7 @@ title: Week 1 Introduction to Financial Analysis
 
 # CORE ISSUES IN VALUATION
 
-![](27a8dd885d876f0e0de1859e530bb71a.png)
+ ![500](27a8dd885d876f0e0de1859e530bb71a.png)
 
 ### THE BASIS OF VALUATION: DISCOUNTED DIVIDEND MODEL
 
@@ -61,7 +61,7 @@ title: Week 1 Introduction to Financial Analysis
 - We then convert these forecasts into free cash flows
 ‒ This is essentially the DCF model
 - Using the cash flows with the markets leads to an entity model where you first determine the value of the entire entity (or enterprise)
-- ![](3ae4fc585a8ea52c2a08d6a815215553.png)
+-  ![500](3ae4fc585a8ea52c2a08d6a815215553.png)
 
 ## WHAT ARE THE CORE CHALLENGES IN VALUATION?
 
@@ -122,7 +122,7 @@ From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013,  Exa
 
 The effect of this change resulted in a reduction of product costs,  as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013,  the change resulted in a benefit to [[Operating Income vs. Net Income What's the Difference|Net Income]] of $15 million or $0.10 in basic earnings per share.
 
-![](9c51031c984f0f8377c4b2c4881981f5.png)
+ ![500](9c51031c984f0f8377c4b2c4881981f5.png)
 
 ## UNDERSTANDING THE BUSINESS MODEL IS KEY
 
@@ -142,13 +142,13 @@ RNOA = Return on Net Operating Assets ≈ ROIC
 
 - But note that RNOA/ROIC is of similar magnitude across industries
 	- ‒ Firms differ in how they create value
-![](84142850beacda61f5eddba71b4772f7.png)
+ ![500](84142850beacda61f5eddba71b4772f7.png)
 
 ## PROFIT MARGIN VS. ASSET TURNOVER
 
 AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
 
-![](b09ef50a2a9345aa8bdc2a9814b48206.png)
+ ![500](b09ef50a2a9345aa8bdc2a9814b48206.png)
 
 You can find this graph and the underlying industry data on Canvas (see Useful Material folder)
 
@@ -156,9 +156,9 @@ Value Driver Model for Forecasting FCF
 
 ## VALUE DRIVERS AND KEY PERFORMANCE INDICATORS (KPIS)
 
-![](5e2970890124cc0b8a46a3fc8dbdf56e.png)
+ ![500](5e2970890124cc0b8a46a3fc8dbdf56e.png)
 
-![](8d012b97a32484f22c2b938f2592c20e.png)
+ ![500](8d012b97a32484f22c2b938f2592c20e.png)
 
 ### BASIC IDEA OF VALUE DRIVER MODEL
 
@@ -185,10 +185,10 @@ Revenues Operating margin
 	- ‒Investment rate (or asset turnover)
 - You can bring in other businessmodel specific drivers
 	- ‒Connect them to three main drivers
-![](0afcc6662687105cc7d22e71f6b49048.png)
+ ![500](0afcc6662687105cc7d22e71f6b49048.png)
 ## EXAMPLE OF SIMPLE VALUE DRIVER MODEL
 
-![](ae9b588a4867fda8b108ae849841a10a.png)
+ ![500](ae9b588a4867fda8b108ae849841a10a.png)
 
 - Sales growth estimates (yoy): 1.2%,       2%,       2%,       2.2%
 - Margin and NOA turnover: constant
@@ -215,7 +215,7 @@ Revenues Operating margin
 
 ## SUMMARY: VALUATION SEQUENCE
 
-![](b66ed4a07d1539c3765b9d0e5739b914.png)
+ ![500](b66ed4a07d1539c3765b9d0e5739b914.png)
 
 Take the narrative apart and bring it into the valuation.  By the time you are done,       each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
 
@@ -237,7 +237,7 @@ Listen to people who know the business better than you do and use t
 
 ## THREE‐STAGE MODEL
 
-![](179594c17207e4de6adfebccfb4314fc.png)
+ ![500](179594c17207e4de6adfebccfb4314fc.png)
 
 ROIC
 
@@ -253,7 +253,7 @@ Time segment
 
 ## NEAR‐TERM FLOWS AS % OF VALUE FOR TWO EXAMPLES
 
-![](20d491c0d6834af7b6ccaaafef179075.png)
+ ![500](20d491c0d6834af7b6ccaaafef179075.png)
 
 ## NEAR‐TERM CASH FLOWS VS. TERMINAL VALUE
 
@@ -303,7 +303,7 @@ small percentage of overall value
 
 ## COMPETITION AND RETURNS (OR ECONOMIC PROFITS)
 
-![](13fff9fd8913b3a88e2e3f11928a60f8.png)
+ ![500](13fff9fd8913b3a88e2e3f11928a60f8.png)
 
 - High returns attract competitors
 	- ‒ Competitors settle for lower returns that are still attractive
@@ -311,7 +311,7 @@ small percentage of overall value
 
 ## MOATS AND THE DECAY IN THE SPREAD
 
-![](be627923a86ffea8c0b5fbc72b81d8ab.png)
+ ![500](be627923a86ffea8c0b5fbc72b81d8ab.png)
 
 - Economic profit declines on average
 	- ‒ But not necessarily for all companies (at the same rate)
@@ -319,25 +319,25 @@ small percentage of overall value
 
 ## DECAY IN INDUSTRY PROFITABILITY: HIGH VS. LOW COMPETITION
 
-![](032876422cd7496a4ab774611b89f69d.png)
+ ![500](032876422cd7496a4ab774611b89f69d.png)
 
 Source: Li,       Feng,       Russell Lundholm,       and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51,       no. 2 (2013): 399‐436.
 
 ## MEAN REVERSION IN SALES GROWTH
 
-![](6f63cfe83aa4fb5c9a02a89b95694f53.png)
+ ![500](6f63cfe83aa4fb5c9a02a89b95694f53.png)
 
 ### MEAN REVERSION IN ROIC
 
-![](0572aec04d796c3eee3da09f4da26710.png)
+ ![500](0572aec04d796c3eee3da09f4da26710.png)
 
 ### MEAN REVERSION IN OPERATING MARGIN
 
-![](032504146326b04d04b4919189d8910f.png)
+ ![500](032504146326b04d04b4919189d8910f.png)
 
 ### MEAN REVERSION IN ASSET TURNOVER
 
-![](b2288f50a013ee439cf2d7162ee9672c.png)
+ ![500](b2288f50a013ee439cf2d7162ee9672c.png)
 
 ### MULTIPLES REVIEW AND KEY CHALLENGES
 
@@ -385,11 +385,11 @@ Source: Li,       Feng,       Russell Lundholm,       and Michael Minnis.
 
 ## EXAMPLE: PE RATIOS AND NON‐RECURRING ITEMS
 - COMPARING PE RATIOS IN THE NEWSPAPER INDUSTRY
-![](a0c2147f305ca4f0466715c1ad3f39ca.png)
+ ![500](a0c2147f305ca4f0466715c1ad3f39ca.png)
 
 ## EXAMPLE: PE RATIOS AFTER ADJUSTMENTS
 
-![](5d4ff12696b5c1ba7dde7cb74e1b7313.png)
+ ![500](5d4ff12696b5c1ba7dde7cb74e1b7313.png)
 
 ## WHICH MULTIPLE SHOULD WE USE?
 - Koller et al. recommend EBITA or NOPAT multiple (see Ch. 18)
@@ -406,7 +406,7 @@ Source: Li,       Feng,       Russell Lundholm,       and Michael Minnis.
 ## ILLUSTRATING THE IMPACT OF CAPITAL STRUCTURE
 - EV/EBITA is not affected by leverage but PE is
 - Note that you cannot even sign the effect of leverage on the PE ratio
-![](576380c2a724442915b3e26f26ac9004.png)
+ ![500](576380c2a724442915b3e26f26ac9004.png)
 ## MULTIPLES: SUMMARY
 - Relatively quick and "easy"
 	- Assumes other firms are "comparable" and their securities are correctly priced

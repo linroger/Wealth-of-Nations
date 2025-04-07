@@ -1,9 +1,9 @@
 ---
-title: Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
+title: Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
 aliases: [Calculation of Optimal Time to Drill an Oil Well]
 ---
 
-# Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
+# Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
 ## Single-Barrel Solution
 
 It is optimal to defer investing as long as
