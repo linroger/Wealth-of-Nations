@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
+                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 6-Leverage, Tail Risk, Volatility Products"
+              "title": "Lecture 8- Inflation & Sovereign Default Risk"
             }
           }
         ],
@@ -283,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md"
+                "file": "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Lecture 6-Leverage, Tail Risk, Volatility Products"
+              "title": "File properties for Lecture 8- Inflation & Sovereign Default Risk"
             }
           },
           {
@@ -331,6 +331,14 @@
   },
   "active": "73e0ae9f977fc484",
   "lastOpenFiles": [
+    "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
+    "Advanced Investments/Lecture 6-Leverage, Tail Risk, Volatility Products.md",
+    "Advanced Investments/Lecture 5- Dynamic Portfolio Choice.md",
+    "Advanced Investments/Lecture 4- Investor Sentiment.md",
+    "Advanced Investments/Lecture 3- Dynamics of Returns.md",
+    "Advanced Investments/Lecture 2- Asset Allocation with Multiple Risky Assets.md",
+    "Advanced Investments/Lecture 1- Probability Distributions of Returns.md",
+    "International Finance/Characteristics of the Eurodollar Market.md",
     "International Finance/The Balance of Payments.md",
     "International Finance/Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
     "Course Notes/Articles/Articles.md",
@@ -350,14 +358,6 @@
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke",
     "International Finance/Navigating Big Debt Crises/Exchange Rates and the Foreign Exchange Market- An Asset Approach.md",
     "International Finance/Navigating Big Debt Crises/Chapters/War Economies.md",
-    "Navigating Big Debt Crises/Archetypal Debt Crisis Lecture Notes.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment 1928-1937.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment (2007–2011).md",
-    "International Finance/Navigating Big Debt Crises/Chapters/Part 1 The Archetypal Big Debt Cycle.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
-    "International Finance/Navigating Big Debt Crises/Principles Part I.md",
     "Clippings",
     "International Finance/Navigating Big Debt Crises/-*coding utf-8 -*import math.md \u000e.gitFinderDeleted",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md \u000e.gitFinderDeleted",

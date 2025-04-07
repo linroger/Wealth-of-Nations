@@ -1,4 +1,18 @@
-__MASK_7_2__
+---
+aliases: 
+tags:
+  - "#eurocurrency-markets"
+  - "#international-finance"
+  - "#capital-flows-management"
+  - "#financial-instruments"
+  - "#global-capital-markets"
+  - "#eurodollar-market"
+  - "#eurobond-market"
+  - "#cross-border-banking"
+cssclasses:
+  - academia
+title: Characteristics of the Eurodollar Market
+---
 
 # Characteristics of the Eurodollar Market
 ## THE EUROCURRENCY MARKET
@@ -31,7 +45,7 @@ There are numerous participants in the international money and capital markets, 
 
 Most industrialized countries' participants act both as lenders and borrowers of funds,  while many developing countries use the markets almost exclusively for borrowing purposes.
 
-The __MASK_6_0__ between different countries are motivated by factors such as:
+The [[Chapter 14- Capital Flows and the Current Account|capital flows]] between different countries are motivated by factors such as:
 
 1. Trade financing motive
 1. Borrowing/lending motive
@@ -39,13 +53,35 @@ The __MASK_6_0__ between different countries are motivated by factors such as:
 1. Hedging motive
 1. Capital flight motive
 
-In the 1970s and early 1980s,  the vast majority of loans made by the eurobanks to the developing countries were made by syndicates of eurobanks. A syndicate is normally led by a lead or managing bank,  with other banks contributing funding to participate in a loan. __MASK_6_1__ reduce the exposure of individual banks to particular borrowers.
+In the 1970s and early 1980s,  the vast majority of loans made by the eurobanks to the developing countries were made by syndicates of eurobanks. A syndicate is normally led by a lead or managing bank,  with other banks contributing funding to participate in a loan. [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]] reduce the exposure of individual banks to particular borrowers.
 
 A final factor behind the growth of eurobanking activity has been the rapid growth of world trade,  which provides companies with foreign currency balances to earn interest on and others that require foreign currency funding.
 
 12.14 THE MANAGEMENT OF A EUROBOND ISSUE
 
-__MASK_8_5__
+| Amount: |$100 million-$4,     000 million. |
+| ---- | ---- |
+| Issuers: | Governments,      international organisations eg: the World Bank,      the European Investment Bank,      banks/financial institutions and major corporations with AAA,      AA,      A credit ratings accounting for approximately 75% of all corporate issues. |
+| Maturity: | Normally 10 years or less. |
+|  | Most issues being in the 4-7 year range. |
+| Principal: | Typically repayable in full upon maturity"bullet form"). Occasionally some issues have the principal repayable in stages over the life of the bond and sometimes the principal repayable linked to movements in a market index such as the Nikkei or Standard & Poor 500. |
+| Coupon: | Payable annually. Vast majority are "straights,      that is,      at a fixed coupon. Approximately a quarter of issues are at a variable coupon linked to a spread over [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate ( [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] )]] (or some other benchmark) known as floating rate notes. |
+| Yield: | Spread over US Treasury bonds depends on credit rating. |
+|  | AAA governments around 10-20 basis points |
+|  | AAA corporates around 20-40 basis points |
+|  | AA governments around 30-50 basis points |
+|  | AA corporates around<br><br>40-80 basis points |
+|  | A governments around 50-100 basis points |
+|  | A Corporates around<br><br>80-110 basis points |
+|  | BBB around 120+ basis points |
+|  | The above margins are only indicative and they can quite easily change substantially depending on market conditions and the date to maturity. |
+| Security: | Usually senior unsecured debt (i.e. high priority in caseclosure of the business). In some instances,      the bond is backed by letter of credit or other collateral such as outstanding company assets. |
+| Form: | Bearer form. Holder is deemed to be owner and the anonymity is one of the attractions to investors. |
+| Tax status: | The bonds are issued free of withholding taxes. |
+| Listing: | London or Luxembourg |
+| Denominations: |$1,     000,     $5,     000,     $10,     000 |
+| Special Features: | Many bonds have call back features typically after 5 years,      some have warrants attached and others can be converted into equity at a predetermined price. |
+
 # Characteristics of the Eurodollar Market
 
 **Key features:**
@@ -54,7 +90,7 @@ __MASK_8_5__
 - Not subject to reserve requirements,  interest rate controls,  or deposit insurance
 - Users include banks,  companies,  institutions,  governments
 - The benchmark eurocurrency interest rate is the London Interbank Offered Rate (LIBOR)
-- Increasingly,  floating interest rates tied to __MASK_6_3__ rather than fixed rates
+- Increasingly,  floating interest rates tied to [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] rather than fixed rates
 - Eurobank assets and liabilities mostly short-term with matched maturities
 
 ## COMPETITIVE ADVANTAGE OF EUROBANKS
@@ -88,7 +124,7 @@ But advantages include:
 
 - Widened borrowing/lending options
 - Enabled access to competitive rates
-- Facilitated international __MASK_6_4__
+- Facilitated international [[Chapter 14- Capital Flows and the Current Account|capital flows]]
 
 Properly regulated,  the eurocurrency markets provide useful services but oversight is needed to reduce systemic financial risks.
 
@@ -159,4 +195,3 @@ So major economies exert some control over Eurobond issues in their currency.
 - Development of a secondary market
 
 Fees range from 0.5-2% based on issue complexity and bank rivalries also affect outcomes.
-
