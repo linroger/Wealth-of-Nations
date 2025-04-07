@@ -4,7 +4,7 @@
 
 The Ornstein-Uhlenbeck (OU) process stands as a fundamental concept in the study of **stochastic processes**, which are mathematical models for systems evolving randomly over time. Its defining characteristic is **mean reversion**, a property that makes it particularly suitable for modeling real-world phenomena where values tend to fluctuate around a central equilibrium or average level. Imagine an object tethered by a spring: random forces might push it away from its resting position, but the spring constantly pulls it back. The OU process captures this dynamic mathematically.
 
-It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s to provide a more realistic model for the velocity of a massive particle undergoing Brownian motion, incorporating the effect of friction (drag) which prevents the velocity from increasing indefinitely. Unlike standard Brownian motion (a random walk), which can drift infinitely far from its starting point, the OU process exhibits a "memory" of its central tendency, __MASK_1_1__. This inherent stability makes it invaluable in diverse fields:
+It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s to provide a more realistic model for the velocity of a massive particle undergoing Brownian motion, incorporating the effect of friction (drag) which prevents the velocity from increasing indefinitely. Unlike standard Brownian motion (a random walk), which can drift infinitely far from its starting point, the OU process exhibits a "memory" of its central tendency, `μ`. This inherent stability makes it invaluable in diverse fields:
 
 - **Finance:** Modeling short-term interest rates (which tend to revert to a long-run average set by monetary policy), volatility smiles, or pairs trading strategies where the spread between two related assets is expected to revert to zero.
     
@@ -17,33 +17,35 @@ It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s
 
 The mathematical heart of the OU process is its Stochastic Differential Equation (SDE):
 
-__MASK_0_0__
+```
+dX(t) = θ(μ - X(t)) dt + σ dW(t)
+```
 
 Let's break down the components further:
 
-- __MASK_1_2__: Represents the state (e.g., velocity, interest rate, temperature) of the system at a given time __MASK_1_3__.
+- `X(t)`: Represents the state (e.g., velocity, interest rate, temperature) of the system at a given time `t`.
     
-- __MASK_1_4__: The **long-term mean** or equilibrium level. This is the value the process would eventually settle at if the random noise were absent. It acts as the center of gravity for the process's fluctuations.
+- `μ`: The **long-term mean** or equilibrium level. This is the value the process would eventually settle at if the random noise were absent. It acts as the center of gravity for the process's fluctuations.
     
-- __MASK_1_5__: The **rate (or speed) of mean reversion**. This crucial parameter (__MASK_1_6__) dictates how strongly the process is pulled back towards __MASK_1_7__. A larger __MASK_1_8__ implies a stronger pull and faster reversion; deviations from the mean are corrected more quickly. Conversely, a smaller __MASK_1_9__ means the process reverts more slowly and can wander further from the mean for longer periods. The quantity __MASK_1_10__ is often called the **characteristic time** or **relaxation time**, representing the typical timescale over which deviations decay.
+- `θ`: The **rate (or speed) of mean reversion**. This crucial parameter (`θ > 0`) dictates how strongly the process is pulled back towards `μ`. A larger `θ` implies a stronger pull and faster reversion; deviations from the mean are corrected more quickly. Conversely, a smaller `θ` means the process reverts more slowly and can wander further from the mean for longer periods. The quantity `1/θ` is often called the **characteristic time** or **relaxation time**, representing the typical timescale over which deviations decay.
     
-- __MASK_1_11__: The **volatility** or diffusion coefficient (__MASK_1_12__). This parameter quantifies the intensity of the random "kicks" the process receives. A larger __MASK_1_13__ leads to more pronounced, larger-amplitude random fluctuations around the mean.
+- `σ`: The **volatility** or diffusion coefficient (`σ > 0`). This parameter quantifies the intensity of the random "kicks" the process receives. A larger `σ` leads to more pronounced, larger-amplitude random fluctuations around the mean.
     
-- __MASK_1_14__: An increment of a **Wiener process** (standard Brownian motion). This is the engine of randomness. Over an infinitesimal time interval __MASK_1_15__, __MASK_1_16__ behaves like a random variable drawn from a normal distribution with mean 0 and variance __MASK_1_17__. It represents the cumulative effect of many small, independent random shocks.
+- `dW(t)`: An increment of a **Wiener process** (standard Brownian motion). This is the engine of randomness. Over an infinitesimal time interval `dt`, `dW(t)` behaves like a random variable drawn from a normal distribution with mean 0 and variance `dt`. It represents the cumulative effect of many small, independent random shocks.
     
-- __MASK_1_18__: An infinitesimal increment in time, representing the timescale over which changes are considered.
+- `dt`: An infinitesimal increment in time, representing the timescale over which changes are considered.
     
 
 The SDE elegantly combines deterministic and stochastic elements:
 
-1. **Drift Term:** __MASK_1_19__. This is the deterministic "pull-back" component. Its magnitude is proportional to the current deviation __MASK_1_20__ from the mean and the reversion speed __MASK_1_21__. If __MASK_1_22__ is above __MASK_1_23__, the term is negative, pushing the process down. If __MASK_1_24__ is below __MASK_1_25__, the term is positive, pushing it up. This is the mathematical embodiment of mean reversion.
+1. **Drift Term:** `θ(μ - X(t)) dt`. This is the deterministic "pull-back" component. Its magnitude is proportional to the current deviation `(μ - X(t))` from the mean and the reversion speed `θ`. If `X(t)` is above `μ`, the term is negative, pushing the process down. If `X(t)` is below `μ`, the term is positive, pushing it up. This is the mathematical embodiment of mean reversion.
     
-2. **Diffusion Term:** __MASK_1_26__. This is the stochastic "random kick" component. It introduces unpredictable fluctuations, scaled by the volatility __MASK_1_27__. This term ensures the process doesn't simply decay exponentially to __MASK_1_28__ but continues to explore values around it.
+2. **Diffusion Term:** `σ dW(t)`. This is the stochastic "random kick" component. It introduces unpredictable fluctuations, scaled by the volatility `σ`. This term ensures the process doesn't simply decay exponentially to `μ` but continues to explore values around it.
     
 
 ### Analytical Derivation (Solving the SDE) Explained
 
-Solving the OU SDE provides an explicit formula for __MASK_1_29__, revealing its structure. We employ the integrating factor method, a standard technique for linear differential equations, adapted for the stochastic context using the rules of Itô calculus.
+Solving the OU SDE provides an explicit formula for `X(t)`, revealing its structure. We employ the integrating factor method, a standard technique for linear differential equations, adapted for the stochastic context using the rules of Itô calculus.
 
 1. Rearrange the SDE: Group terms involving X(t) on one side:
     
@@ -51,7 +53,7 @@ Solving the OU SDE provides an explicit formula for __MASK_1_29__, revealing it
     
     This form highlights the linear structure dX + (function of t)X dt = (other terms).
     
-2. **Determine the integrating factor:** For a term like __MASK_1_0__, the integrating factor is __MASK_1_1__. Multiplying by this factor aims to make the left-hand side a perfect differential.
+2. **Determine the integrating factor:** For a term like `dX + θX dt`, the integrating factor is `exp(∫ θ ds) = e^(θt)`. Multiplying by this factor aims to make the left-hand side a perfect differential.
     
 3. Multiply the SDE by e^(θt): Apply the factor to all terms:
     
@@ -82,26 +84,26 @@ Solving the OU SDE provides an explicit formula for __MASK_1_29__, revealing it
     X(t) = e^(-θt)X(0) + μ(1 - e^(-θt)) + σ ∫[0, t] e^(-θ(t-u)) dW(u)
     
 
-This **analytical solution** is highly informative. It shows that __MASK_1_2__ is composed of three parts:
+This **analytical solution** is highly informative. It shows that `X(t)` is composed of three parts:
 
-- __MASK_1_3__: The influence of the initial condition __MASK_1_4__, decaying exponentially over time with a rate __MASK_1_5__.
+- `e^(-θt)X(0)`: The influence of the initial condition `X(0)`, decaying exponentially over time with a rate `θ`.
     
-- __MASK_1_6__: The growing influence of the long-term mean __MASK_1_7__. As time progresses (__MASK_1_8__), this term approaches __MASK_1_9__.
+- `μ(1 - e^(-θt))`: The growing influence of the long-term mean `μ`. As time progresses (`t → ∞`), this term approaches `μ`.
     
-- __MASK_1_10__: The accumulated effect of random noise up to time __MASK_1_11__. Notice the term __MASK_1_12__ acts as a weighting factor: more recent noise increments (__MASK_1_13__ close to __MASK_1_14__) have a larger impact than noise from the distant past (__MASK_1_15__ close to 0), reflecting the decaying memory of the process.
+- `σ ∫[0, t] e^(-θ(t-u)) dW(u)`: The accumulated effect of random noise up to time `t`. Notice the term `e^(-θ(t-u))` acts as a weighting factor: more recent noise increments (`u` close to `t`) have a larger impact than noise from the distant past (`u` close to 0), reflecting the decaying memory of the process.
     
 
 ### Properties Explored
 
 The analytical solution and the SDE reveal several key properties:
 
-1. **Mean Reversion:** As already emphasized, the drift term __MASK_1_0__ inherently drives the process towards __MASK_1_1__. This property is crucial for modeling phenomena that don't exhibit unbounded growth or decay but rather fluctuate around a stable average. It ensures the process has a finite long-term variance.
+1. **Mean Reversion:** As already emphasized, the drift term `θ(μ - X(t))` inherently drives the process towards `μ`. This property is crucial for modeling phenomena that don't exhibit unbounded growth or decay but rather fluctuate around a stable average. It ensures the process has a finite long-term variance.
     
-2. **Markov Property:** The future state __MASK_1_2__ depends only on the current state __MASK_1_3__ and the intervening random shock __MASK_1_4__, not on the path taken to reach __MASK_1_5__. This "memoryless" property (beyond the current state) simplifies analysis and simulation, as we don't need to track the entire history of the process. It stems directly from the SDE formulation where __MASK_1_6__ depends only on __MASK_1_7__ and __MASK_1_8__.
+2. **Markov Property:** The future state `X(t+Δt)` depends only on the current state `X(t)` and the intervening random shock `dW`, not on the path taken to reach `X(t)`. This "memoryless" property (beyond the current state) simplifies analysis and simulation, as we don't need to track the entire history of the process. It stems directly from the SDE formulation where `dX(t)` depends only on `X(t)` and `dW(t)`.
     
-3. **Gaussian Process:** Because __MASK_1_9__ is constructed as a linear combination of the (potentially random, but often assumed deterministic or Gaussian) initial state __MASK_1_10__ and the Itô integral (which represents a sum of Gaussian increments __MASK_1_11__), __MASK_1_12__ itself follows a Gaussian (Normal) distribution for any fixed __MASK_1_13__. Furthermore, the joint distribution of the process values at multiple time points, __MASK_1_14__, is multivariate Gaussian. This Gaussian nature is extremely convenient, allowing for analytical tractability of moments, transition probabilities, and likelihood functions used in parameter estimation.
+3. **Gaussian Process:** Because `X(t)` is constructed as a linear combination of the (potentially random, but often assumed deterministic or Gaussian) initial state `X(0)` and the Itô integral (which represents a sum of Gaussian increments `dW`), `X(t)` itself follows a Gaussian (Normal) distribution for any fixed `t`. Furthermore, the joint distribution of the process values at multiple time points, `(X(t₁), X(t₂), ..., X(tₙ))`, is multivariate Gaussian. This Gaussian nature is extremely convenient, allowing for analytical tractability of moments, transition probabilities, and likelihood functions used in parameter estimation.
     
-4. **__MASK_1_15__** These describe the average behavior and spread of the process over time, starting from a known point.
+4. **`Moments (Conditional on a deterministic X(0)):`** These describe the average behavior and spread of the process over time, starting from a known point.
     
     - Mean: E[X(t) | X(0)] = e^(-θt)X(0) + μ(1 - e^(-θt))
         
@@ -111,9 +113,9 @@ The analytical solution and the SDE reveal several key properties:
         
         The variance starts at 0 (since X(0) is fixed) and increases over time, asymptotically approaching a maximum value, the stationary variance, σ² / (2θ). This contrasts sharply with Brownian motion, whose variance σ²t grows linearly without bound. The bounded variance is a direct consequence of mean reversion. The rate at which the variance approaches its stationary value also depends on θ.
         
-5. **Stationary Distribution:** As __MASK_1_16__, the influence of the specific initial state __MASK_1_17__ decays away (__MASK_1_18__), and the process settles into a statistical equilibrium. The distribution of __MASK_1_19__ converges to a **stationary distribution**, which is invariant over time. If the process starts with __MASK_1_20__ drawn from this distribution, its distribution remains unchanged for all __MASK_1_21__. This long-term equilibrium distribution is Normal (Gaussian) with:
+5. **Stationary Distribution:** As `t → ∞`, the influence of the specific initial state `X(0)` decays away (`e^(-θt) → 0`), and the process settles into a statistical equilibrium. The distribution of `X(t)` converges to a **stationary distribution**, which is invariant over time. If the process starts with `X(0)` drawn from this distribution, its distribution remains unchanged for all `t > 0`. This long-term equilibrium distribution is Normal (Gaussian) with:
     
-    - Mean: __MASK_1_22__
+    - Mean: `μ`
         
     - Variance: σ² / (2θ)
         
@@ -128,32 +130,32 @@ The analytical solution and the SDE reveal several key properties:
 
 ### Parameters Recap and Impact
 
-The three parameters __MASK_1_23__, __MASK_1_24__, and __MASK_1_25__ fully define the univariate OU process and control its behavior:
+The three parameters `μ`, `θ`, and `σ` fully define the univariate OU process and control its behavior:
 
-- __MASK_1_26__ (Long-term mean): Determines the central level around which the process fluctuates. Changing __MASK_1_27__ shifts the entire process vertically without altering the nature of the fluctuations.
+- `μ` (Long-term mean): Determines the central level around which the process fluctuates. Changing `μ` shifts the entire process vertically without altering the nature of the fluctuations.
     
-- __MASK_1_28__ (Mean reversion speed): Controls how quickly the process returns to __MASK_1_29__ after a deviation. High __MASK_1_30__ results in paths that oscillate rapidly and tightly around __MASK_1_31__. Low __MASK_1_32__ results in paths that wander more slowly and can exhibit longer excursions away from __MASK_1_33__, resembling a random walk over short timescales but eventually returning.
+- `θ` (Mean reversion speed): Controls how quickly the process returns to `μ` after a deviation. High `θ` results in paths that oscillate rapidly and tightly around `μ`. Low `θ` results in paths that wander more slowly and can exhibit longer excursions away from `μ`, resembling a random walk over short timescales but eventually returning.
     
-- __MASK_1_34__ (Volatility): Governs the amplitude of the random noise. High __MASK_1_35__ produces highly jagged, noisy paths with large fluctuations. Low __MASK_1_36__ results in smoother paths with smaller deviations from the mean-driven trajectory.
+- `σ` (Volatility): Governs the amplitude of the random noise. High `σ` produces highly jagged, noisy paths with large fluctuations. Low `σ` results in smoother paths with smaller deviations from the mean-driven trajectory.
     
 
 Visualizing sample paths with different parameter combinations helps build intuition about their respective roles.
 
 ### Behavior Summary
 
-An OU process path exhibits random fluctuations around its mean __MASK_1_0__. When the process deviates far from __MASK_1_1__, the deterministic drift term dominates, pulling it back strongly. When close to __MASK_1_2__, the random diffusion term becomes more influential, causing local jitter. While random shocks can cause temporary overshooting of the mean, the mean-reverting tendency ensures long-term stability and bounded variance. The interplay between __MASK_1_3__ and __MASK_1_4__ determines the character of the fluctuations – whether they are rapid and small or slow and large.
+An OU process path exhibits random fluctuations around its mean `μ`. When the process deviates far from `μ`, the deterministic drift term dominates, pulling it back strongly. When close to `μ`, the random diffusion term becomes more influential, causing local jitter. While random shocks can cause temporary overshooting of the mean, the mean-reverting tendency ensures long-term stability and bounded variance. The interplay between `θ` and `σ` determines the character of the fluctuations – whether they are rapid and small or slow and large.
 
 ### Multivariate OU Process Insights
 
-The generalization to __MASK_1_5__ dimensions allows modeling complex systems where multiple variables interact:
+The generalization to `n` dimensions allows modeling complex systems where multiple variables interact:
 
-__MASK_1_6__
+`d**X**(t) = **Θ**( **μ** - **X**(t) ) dt + **Σ** d**W**(t)`
 
 - **X**(t), **μ**, **W**(t): Now n-dimensional vectors.
     
-- **Θ** (Mean reversion matrix): An __MASK_1_7__ matrix. Its diagonal elements __MASK_1_8__ relate to the own mean-reversion speed of component __MASK_1_9__ towards __MASK_1_10__. Off-diagonal elements __MASK_1_11__ (for __MASK_1_12__) represent **cross-reversion effects**: how the deviation of __MASK_1_13__ from __MASK_1_14__ influences the drift of __MASK_1_15__. For example, in an ecosystem model, a large predator population (__MASK_1_16__) above its mean might negatively impact the drift of the prey population (__MASK_1_17__). The stability of the multivariate system depends on the eigenvalues of **Θ**; typically, all eigenvalues must have positive real parts for the system to be stable and possess a stationary distribution.
+- **Θ** (Mean reversion matrix): An `n x n` matrix. Its diagonal elements `Θᵢᵢ` relate to the own mean-reversion speed of component `Xᵢ(t)` towards `μᵢ`. Off-diagonal elements `Θᵢⱼ` (for `i ≠ j`) represent **cross-reversion effects**: how the deviation of `Xⱼ(t)` from `μⱼ` influences the drift of `Xᵢ(t)`. For example, in an ecosystem model, a large predator population (`X₁`) above its mean might negatively impact the drift of the prey population (`X₂`). The stability of the multivariate system depends on the eigenvalues of **Θ**; typically, all eigenvalues must have positive real parts for the system to be stable and possess a stationary distribution.
     
-- **Σ** (Diffusion matrix): An __MASK_1_18__ matrix determining the noise structure. The matrix __MASK_1_19__ is the instantaneous covariance matrix of the noise term. Diagonal elements of **C** relate to the individual volatilities of each component __MASK_1_20__. Off-diagonal elements represent instantaneous correlations between the noise driving different components. For instance, random shocks affecting two related stock prices might be positively correlated, which would be captured by off-diagonal terms in **C** (and thus implicitly in **Σ**).
+- **Σ** (Diffusion matrix): An `n x n` matrix determining the noise structure. The matrix `**C** = **ΣΣ**^T` is the instantaneous covariance matrix of the noise term. Diagonal elements of **C** relate to the individual volatilities of each component `Xᵢ(t)`. Off-diagonal elements represent instantaneous correlations between the noise driving different components. For instance, random shocks affecting two related stock prices might be positively correlated, which would be captured by off-diagonal terms in **C** (and thus implicitly in **Σ**).
     
 
 The multivariate OU process provides a flexible framework for modeling linear stochastic systems with equilibrium tendencies and correlated noise, finding applications in areas like econometrics (vector autoregressions with error correction), neuroscience (networks of neurons), and engineering (multi-input multi-output control systems).
@@ -382,110 +384,118 @@ print("-" * 30)
 
 ## Conditional and Unconditional Densities: A Closer Look
 
-Understanding the evolution of stochastic processes like the Ornstein-Uhlenbeck (OU) process, __MASK_1_0__, hinges on characterizing the probability of finding the process in a particular state at a given time. Two key concepts are central to this characterization:
+Understanding the evolution of stochastic processes like the Ornstein-Uhlenbeck (OU) process, `X(t)`, hinges on characterizing the probability of finding the process in a particular state at a given time. Two key concepts are central to this characterization:
 
-1. **Conditional Probability Density Function (PDF):** __MASK_1_1__
+1. **Conditional Probability Density Function (PDF):** `p(x, t | x₀, t₀)`
     
-    - This function, often called the **transition density**, quantifies the likelihood (per unit state __MASK_1_2__) of the process being at state __MASK_1_3__ precisely at time __MASK_1_4__, _given the knowledge_ that it started at a specific state __MASK_1_5__ at an earlier time __MASK_1_6__ (where __MASK_1_7__). Think of it as a probabilistic forecast: "Knowing the temperature was __MASK_1_8__ degrees at time __MASK_1_9__, what is the probability density of it being __MASK_1_10__ degrees at time __MASK_1_11__?"
+    - This function, often called the **transition density**, quantifies the likelihood (per unit state `x`) of the process being at state `x` precisely at time `t`, _given the knowledge_ that it started at a specific state `x₀` at an earlier time `t₀` (where `t > t₀`). Think of it as a probabilistic forecast: "Knowing the temperature was `x₀` degrees at time `t₀`, what is the probability density of it being `x` degrees at time `t`?"
         
-    - It fully describes the _dynamics_ of how the probability distribution evolves from a single point (__MASK_1_12__ at __MASK_1_13__). For Markov processes, like the OU process, the entire future probabilistic evolution depends _only_ on this current state (__MASK_1_14__), not on the path taken to reach it. This "memoryless" property is mathematically captured by the Chapman-Kolmogorov equation, which relates transition densities over different time intervals: __MASK_1_15__ for __MASK_1_16__.
+    - It fully describes the _dynamics_ of how the probability distribution evolves from a single point (`x₀` at `t₀`). For Markov processes, like the OU process, the entire future probabilistic evolution depends _only_ on this current state (`x₀, t₀`), not on the path taken to reach it. This "memoryless" property is mathematically captured by the Chapman-Kolmogorov equation, which relates transition densities over different time intervals: `p(x, t | x₀, t₀) = ∫ p(x, t | y, s) p(y, s | x₀, t₀) dy` for `t₀ < s < t`.
         
     - This conditional density is fundamental for tasks like simulation (predicting the next state given the current one) and parameter estimation using maximum likelihood methods (calculating the likelihood of observing a sequence of states).
         
-2. **Unconditional Probability Density Function (PDF):** __MASK_1_17__
+2. **Unconditional Probability Density Function (PDF):** `p(x, t)`
     
-    - This function describes the probability density of finding the process at state __MASK_1_18__ at time __MASK_1_19__, _without_ reference to a specific starting point in the past. It represents the overall distribution of the process across its state space at time __MASK_1_20__. Imagine observing many independent realizations of the process; __MASK_1_21__ describes the histogram of their states at time __MASK_1_22__.
+    - This function describes the probability density of finding the process at state `x` at time `t`, _without_ reference to a specific starting point in the past. It represents the overall distribution of the process across its state space at time `t`. Imagine observing many independent realizations of the process; `p(x, t)` describes the histogram of their states at time `t`.
         
-    - Its relationship to the conditional density highlights how the overall distribution is formed from all possible starting points. If we know the distribution of starting states __MASK_1_23__ at time __MASK_1_24__, we can find the distribution at time __MASK_1_25__ by summing (integrating) the probabilities of transitioning from each possible __MASK_1_26__ to __MASK_1_27__, weighted by the initial probability of being at __MASK_1_28__: __MASK_1_29__
+    - Its relationship to the conditional density highlights how the overall distribution is formed from all possible starting points. If we know the distribution of starting states `p(x₀, t₀)` at time `t₀`, we can find the distribution at time `t` by summing (integrating) the probabilities of transitioning from each possible `x₀` to `x`, weighted by the initial probability of being at `x₀`: `p(x, t) = ∫ p(x, t | x₀, t₀) p(x₀, t₀) dx₀`
         
-    - Often, analysis starts assuming a known initial condition at __MASK_1_30__. This could be a fixed point, __MASK_1_31__, where __MASK_1_32__ is a Dirac delta function __MASK_1_33__, or it could be a distribution representing initial uncertainty. The unconditional density __MASK_1_34__ then describes how this initial distribution spreads out and evolves over time under the process dynamics.
+    - Often, analysis starts assuming a known initial condition at `t₀ = 0`. This could be a fixed point, `X(0) = x₀`, where `p(x₀, 0)` is a Dirac delta function `δ(x₀ - x_{start})`, or it could be a distribution representing initial uncertainty. The unconditional density `p(x, t)` then describes how this initial distribution spreads out and evolves over time under the process dynamics.
         
 
 ## Densities for the Ornstein-Uhlenbeck Process: Derivation and Interpretation
 
-To find these densities for the OU process, we leverage its analytical solution, previously derived: __MASK_1_35__
+To find these densities for the OU process, we leverage its analytical solution, previously derived: `X(t) = e^(-θ(t-s))X(s) + μ(1 - e^(-θ(t-s))) + σ ∫[s, t] e^(-θ(t-u)) dW(u)`
 
-Let's set __MASK_1_36__ and condition on the starting state __MASK_1_37__. Our goal is the conditional density __MASK_1_38__.
+Let's set `t₀ = s` and condition on the starting state `X(s) = x₀`. Our goal is the conditional density `p(x, t | x₀, t₀)`.
 
-The structure of the solution is key: __MASK_1_0__ given __MASK_1_1__ is the sum of a deterministic term (which depends linearly on __MASK_1_2__) and a stochastic Itô integral term. The Itô integral __MASK_1_3__ represents a limit of sums of Gaussian increments __MASK_1_4__(scaled by __MASK_1_5__). As sums of Gaussian variables are themselves Gaussian, the Itô integral follows a normal distribution with mean 0. Consequently, __MASK_1_6__ given __MASK_1_7__ must also be normally distributed. To define this normal distribution, we only need its mean and variance.
+The structure of the solution is key: `X(t)` given `x₀` is the sum of a deterministic term (which depends linearly on `x₀`) and a stochastic Itô integral term. The Itô integral `∫ H(u) dW(u)` represents a limit of sums of Gaussian increments `dW(u)`(scaled by `H(u)`). As sums of Gaussian variables are themselves Gaussian, the Itô integral follows a normal distribution with mean 0. Consequently, `X(t)` given `x₀` must also be normally distributed. To define this normal distribution, we only need its mean and variance.
 
-- **Conditional Mean:** (The expected location at time __MASK_1_8__ given __MASK_1_9__ at __MASK_1_10__) __MASK_1_11__ Since the expectation of the Itô integral is zero:__MASK_1_12__ _Interpretation:_ The expected future value is a weighted average of the initial state __MASK_1_13__ and the long-term mean __MASK_1_14__. The weight __MASK_1_15__ on the initial state decays exponentially as time __MASK_1_16__ progresses (or as the time lag __MASK_1_17__ increases), while the weight __MASK_1_18__ on the long-term mean grows correspondingly. The speed of this shift in influence is determined by __MASK_1_19__.
+- **Conditional Mean:** (The expected location at time `t` given `x₀` at `t₀`) `E[X(t) | X(t₀)=x₀] = E[e^(-θ(t-t₀))x₀ + μ(1 - e^(-θ(t-t₀))) + σ ∫[t₀, t] e^(-θ(t-u)) dW(u)]` Since the expectation of the Itô integral is zero:`E[X(t) | x₀, t₀] = e^(-θ(t-t₀))x₀ + μ(1 - e^(-θ(t-t₀)))` _Interpretation:_ The expected future value is a weighted average of the initial state `x₀` and the long-term mean `μ`. The weight `e^(-θ(t-t₀))` on the initial state decays exponentially as time `t` progresses (or as the time lag `t-t₀` increases), while the weight `(1 - e^(-θ(t-t₀)))` on the long-term mean grows correspondingly. The speed of this shift in influence is determined by `θ`.
     
-- **Conditional Variance:** (The uncertainty or spread around the conditional mean) __MASK_1_20__ Since the first two terms are deterministic given __MASK_1_21__, the variance comes solely from the stochastic integral: __MASK_1_22__ Using Itô isometry (__MASK_1_23__): __MASK_1_24__ Evaluating the integral (as shown previously via substitution __MASK_1_25__): __MASK_1_26__ _Interpretation:_ The variance starts at 0 at __MASK_1_27__ (since __MASK_1_28__ is known) and increases over time, asymptotically approaching the stationary variance __MASK_1_29__. This reflects the accumulation of uncertainty due to the random shocks __MASK_1_30__, but the mean reversion prevents the variance from growing indefinitely. The rate of approach to the asymptotic variance is governed by __MASK_1_31__.
+- **Conditional Variance:** (The uncertainty or spread around the conditional mean) `Var[X(t) | X(t₀)=x₀] = Var[e^(-θ(t-t₀))x₀ + μ(1 - e^(-θ(t-t₀))) + σ ∫[t₀, t] e^(-θ(t-u)) dW(u)]` Since the first two terms are deterministic given `x₀`, the variance comes solely from the stochastic integral: `Var[X(t) | x₀, t₀] = Var[σ ∫[t₀, t] e^(-θ(t-u)) dW(u)]` Using Itô isometry (`Var[∫ H dW] = E[∫ H² dt]`): `Var[X(t) | x₀, t₀] = σ² E[∫[t₀, t] (e^(-θ(t-u)))² du] = σ² ∫[t₀, t] e^(-2θ(t-u)) du` Evaluating the integral (as shown previously via substitution `v = t-u`): `Var[X(t) | x₀, t₀] = (σ² / (2θ)) * (1 - e^(-2θ(t-t₀)))` _Interpretation:_ The variance starts at 0 at `t=t₀` (since `x₀` is known) and increases over time, asymptotically approaching the stationary variance `σ² / (2θ)`. This reflects the accumulation of uncertainty due to the random shocks `dW(u)`, but the mean reversion prevents the variance from growing indefinitely. The rate of approach to the asymptotic variance is governed by `2θ`.
     
 
-**__MASK_1_32__** Knowing __MASK_1_33__ given __MASK_1_34__ follows __MASK_1_35__, its PDF is the standard Gaussian formula: __MASK_1_36__ where:__MASK_1_37__ __MASK_1_38__
+**`Conditional Density p(x, t | x₀, t₀):`** Knowing `X(t)` given `(x₀, t₀)` follows `N(Mean, Var)`, its PDF is the standard Gaussian formula: `p(x, t | x₀, t₀) = (1 / sqrt(2π * Var)) * exp(-(x - Mean)² / (2 * Var))` where:`Mean = e^(-θ(t-t₀))x₀ + μ(1 - e^(-θ(t-t₀)))` `Var = (σ² / (2θ)) * (1 - e^(-2θ(t-t₀)))`
 
-This transition density describes how a sharp probability spike at __MASK_1_39__ at time __MASK_1_40__ spreads out into a Gaussian bell curve whose center (Mean) drifts from __MASK_1_41__ towards __MASK_1_42__ and whose width (sqrt(Var)) increases towards __MASK_1_43__ as time __MASK_1_44__progresses.
+This transition density describes how a sharp probability spike at `x₀` at time `t₀` spreads out into a Gaussian bell curve whose center (Mean) drifts from `x₀` towards `μ` and whose width (sqrt(Var)) increases towards `sqrt(σ² / (2θ))` as time `t`progresses.
 
 ## Stationary Density and Mean Reverting Processes: Equilibrium and Stability
 
-- **Mean Reverting Process:** The concept of mean reversion is fundamental to modeling systems that exhibit stability or are subject to restoring forces. A process __MASK_1_0__ is mean-reverting if its drift pulls it towards a long-term level __MASK_1_1__. In the OU SDE __MASK_1_2__, the term __MASK_1_3__ explicitly implements this: if __MASK_1_4__ is above __MASK_1_5__, the drift is negative, and vice-versa. This contrasts sharply with processes like Brownian motion (__MASK_1_6__) or Brownian motion with drift (__MASK_1_7__), where the absence of such a restoring force allows the process variance to grow without bound. Mean reversion implies predictability over longer horizons (the process is likely to be near __MASK_1_8__) and is characteristic of many economic variables (e.g., inflation rates, interest rates relative to a target) and physical systems (e.g., temperature under thermostatic control).
+- **Mean Reverting Process:** The concept of mean reversion is fundamental to modeling systems that exhibit stability or are subject to restoring forces. A process `X(t)` is mean-reverting if its drift pulls it towards a long-term level `μ`. In the OU SDE `dX(t) = θ(μ - X(t)) dt + σ dW(t)`, the term `θ(μ - X(t))` explicitly implements this: if `X(t)` is above `μ`, the drift is negative, and vice-versa. This contrasts sharply with processes like Brownian motion (`dX = σ dW`) or Brownian motion with drift (`dX = δ dt + σ dW`), where the absence of such a restoring force allows the process variance to grow without bound. Mean reversion implies predictability over longer horizons (the process is likely to be near `μ`) and is characteristic of many economic variables (e.g., inflation rates, interest rates relative to a target) and physical systems (e.g., temperature under thermostatic control).
     
-- **__MASK_1_9__** For stable (__MASK_1_10__) OU processes, the system eventually "forgets" its precise initial condition and settles into a state of **statistical equilibrium**. In this state, the overall probability distribution __MASK_1_11__ no longer changes with time; it becomes the **stationary distribution**, characterized by the **stationary density**__MASK_1_12__. This happens because the tendency of the drift to pull the process towards __MASK_1_13__ (concentrating the distribution) eventually balances the tendency of the diffusion term to spread the distribution out.
+- **`Stationary Density p_s(x):`** For stable (`θ > 0`) OU processes, the system eventually "forgets" its precise initial condition and settles into a state of **statistical equilibrium**. In this state, the overall probability distribution `p(x, t)` no longer changes with time; it becomes the **stationary distribution**, characterized by the **stationary density**`p_s(x)`. This happens because the tendency of the drift to pull the process towards `μ` (concentrating the distribution) eventually balances the tendency of the diffusion term to spread the distribution out.
     
-    - The condition for stationarity is that the time derivative of the probability density is zero, __MASK_1_14__. This is used in the context of the **Fokker-Planck equation**, which is a partial differential equation describing the time evolution of the probability density __MASK_1_15__ for a process defined by an SDE. Setting __MASK_1_16__ in the Fokker-Planck equation for the OU process yields an ordinary differential equation whose solution is __MASK_1_17__.
+    - The condition for stationarity is that the time derivative of the probability density is zero, `∂p/∂t = 0`. This is used in the context of the **Fokker-Planck equation**, which is a partial differential equation describing the time evolution of the probability density `p(x, t)` for a process defined by an SDE. Setting `∂p/∂t = 0` in the Fokker-Planck equation for the OU process yields an ordinary differential equation whose solution is `p_s(x)`.
         
-    - Alternatively, as shown previously, we can find __MASK_1_18__ by considering the limit of the conditional (transition) density as the time elapsed __MASK_1_19__. The conditional mean converges to __MASK_1_20__, and the conditional variance converges to __MASK_1_21__.
+    - Alternatively, as shown previously, we can find `p_s(x)` by considering the limit of the conditional (transition) density as the time elapsed `τ = t - t₀ → ∞`. The conditional mean converges to `μ`, and the conditional variance converges to `σ² / (2θ)`.
         
-    - Thus, the **__MASK_1_22__** is the PDF of a Normal distribution __MASK_1_23__: __MASK_1_24__ __MASK_1_25__
+    - Thus, the **`stationary density p_s(x) for the OU process`** is the PDF of a Normal distribution `N(μ, σ² / (2θ))`: `p_s(x) = (1 / sqrt(2π * (σ² / (2θ)))) * exp(-(x - μ)² / (2 * (σ² / (2θ))))` `p_s(x) = sqrt(θ / (πσ²)) * exp(-θ(x - μ)² / σ²)`
         
-    - _Significance:_ __MASK_1_26__ tells us the long-term probability of finding the process in any given region of its state space. It describes the typical fluctuations and where the process spends most of its time in equilibrium. For ergodic processes like OU, time averages calculated over a single long trajectory will converge to the ensemble averages calculated using __MASK_1_27__.
+    - _Significance:_ `p_s(x)` tells us the long-term probability of finding the process in any given region of its state space. It describes the typical fluctuations and where the process spends most of its time in equilibrium. For ergodic processes like OU, time averages calculated over a single long trajectory will converge to the ensemble averages calculated using `p_s(x)`.
         
 
 ## Analytical Derivation of a Simple Random Walk with Drift (Continuous Time)
 
-Often considered the simplest non-trivial continuous-time stochastic process, **Brownian Motion with Drift** models phenomena with a constant average trend (__MASK_1_28__) superimposed on random fluctuations (__MASK_1_29__). Its SDE is:
+Often considered the simplest non-trivial continuous-time stochastic process, **Brownian Motion with Drift** models phenomena with a constant average trend (`δ`) superimposed on random fluctuations (`σ dW(t)`). Its SDE is:
 
-__MASK_1_30__
+`dX(t) = δ dt + σ dW(t)`
 
 Where:
 
-- __MASK_1_31__: State variable (e.g., position, log-price).
+- `X(t)`: State variable (e.g., position, log-price).
     
-- __MASK_1_32__: The constant drift rate, representing the average change in __MASK_1_33__ per unit time.
+- `δ`: The constant drift rate, representing the average change in `X` per unit time.
     
-- __MASK_1_34__: The constant volatility, scaling the magnitude of random shocks.
+- `σ`: The constant volatility, scaling the magnitude of random shocks.
     
-- __MASK_1_35__: Increment of a standard Wiener process (source of randomness).
-    
-
-The solution is obtained by direct integration, as the coefficients __MASK_1_36__ and __MASK_1_37__ do not depend on __MASK_1_38__.
-
-1. **Integrate the SDE** from time 0 to __MASK_1_39__: __MASK_1_40__
-    
-2. **Evaluate the integrals:** The integral of __MASK_1_41__ is the net change in __MASK_1_42__. The integral of __MASK_1_43__ is __MASK_1_44__ times the interval length. The integral of __MASK_1_45__ is __MASK_1_46__ times the net change in the Wiener process __MASK_1_47__.
-    
-    - __MASK_1_48__
-        
-    - __MASK_1_49__
-        
-    - __MASK_1_50__
-        
-3. **Combine:** __MASK_1_51__
-    
-4. **__MASK_1_52__** (standard definition): __MASK_1_53__
+- `dW(t)`: Increment of a standard Wiener process (source of randomness).
     
 
-This is the **analytical solution**. It clearly shows __MASK_1_54__ is the initial position plus a linear deterministic trend plus scaled Brownian motion.
+The solution is obtained by direct integration, as the coefficients `δ` and `σ` do not depend on `X(t)`.
+
+1. **Integrate the SDE** from time 0 to `t`: `∫[0, t] dX(s) = ∫[0, t] δ ds + ∫[0, t] σ dW(s)`
+    
+2. **Evaluate the integrals:** The integral of `dX` is the net change in `X`. The integral of `δ` is `δ` times the interval length. The integral of `σ dW` is `σ` times the net change in the Wiener process `W(t)`.
+    
+    - `∫[0, t] dX(s) = X(t) - X(0)`
+        
+    - `∫[0, t] δ ds = δt`
+        
+    - `∫[0, t] σ dW(s) = σ (W(t) - W(0))`
+        
+3. **Combine:** `X(t) - X(0) = δt + σ (W(t) - W(0))`
+    
+4. **`Assume W(0) = 0`** (standard definition): `X(t) = X(0) + δt + σ W(t)`
+    
+
+This is the **analytical solution**. It clearly shows `X(t)` is the initial position plus a linear deterministic trend plus scaled Brownian motion.
 
 **Properties and Implications:**
 
-- **Distribution:** Since __MASK_1_0__, __MASK_1_1__ is normally distributed: __MASK_1_2__.
+- **Distribution:** Since `W(t) ~ N(0, t)`, `X(t)` is normally distributed: `X(t) ~ N(X(0) + δt, σ²t)`.
     
-- **Mean:** __MASK_1_3__. The expected value follows the deterministic drift.
+- **Mean:** `E[X(t)] = X(0) + δt`. The expected value follows the deterministic drift.
     
-- **Variance:** __MASK_1_4__ (assuming deterministic __MASK_1_5__). The variance grows linearly with time _without bound_. This is a crucial difference from the OU process.
+- **Variance:** `Var[X(t)] = σ² t` (assuming deterministic `X(0)`). The variance grows linearly with time _without bound_. This is a crucial difference from the OU process.
     
     - _Implication:_ The uncertainty about the process's position continually increases. The process can, and eventually will, wander arbitrarily far from its starting point. This makes it suitable for modeling phenomena like stock prices (in log terms, under the geometric Brownian motion model) where there isn't necessarily a strong pull back to a specific level.
         
-- **No Stationary Distribution:** Because the variance grows indefinitely, the distribution __MASK_1_6__ never settles down; it just keeps spreading out. Therefore, Brownian motion (with or without drift, unless __MASK_1_7__) does not possess a stationary distribution over the infinite real line.
+- **No Stationary Distribution:** Because the variance grows indefinitely, the distribution `p(x, t)` never settles down; it just keeps spreading out. Therefore, Brownian motion (with or without drift, unless `σ=0`) does not possess a stationary distribution over the infinite real line.
     
-- **Not Mean-Reverting:** There is no drift term pulling the process back towards any specific level __MASK_1_8__. The process follows its drift __MASK_1_9__ on average but is free to diffuse arbitrarily far away due to the __MASK_1_10__ term.
+- **Not Mean-Reverting:** There is no drift term pulling the process back towards any specific level `μ`. The process follows its drift `δ` on average but is free to diffuse arbitrarily far away due to the `σ dW(t)` term.
     
 
 **Contrasting OU and Brownian Motion with Drift:**
 
-__MASK_8_27__
-This comparison highlights how the inclusion of the mean-reverting drift term fundamentally changes the long-term behavior of the process, leading to bounded variance and a stable equilibrium distribution, unlike the ever-diffusing random walk.
+|  **Feature**               |  **Ornstein-Uhlenbeck (OU)**                   |  **Brownian Motion w/ Drift (BMD)**   |
+| -------------------------- | ---------------------------------------------- | ------------------------------------- |
+|  **SDE**                   |  `dX = θ(μ - X)dt + σ dW`                      |  `dX = δ dt + σ dW`                   |
+|  **Mean Reversion**        | Yes (towards `μ` with speed `θ`)               | No                                    |
+|  **Drift**                 | State-dependent (`θ(μ - X)`)                   | Constant (`δ`)                        |
+|  **`Mean E[X(t)]`**        |  `X₀e^(-θt) + μ(1 - e^(-θt))` (approaches `μ`) |  `X₀ + δt` (linear growth/decay)      |
+|  **`Variance Var[X(t)]`**  |  `(σ²/2θ)(1 - e^(-2θt))` (approaches `σ²/2θ`)  |  `σ²t` (unbounded linear growth)      |
+|  **Stationary Dist.**      | Yes (Normal `N(μ, σ²/2θ)`)                     | No (unless `σ=0`)                     |
+| **Typical Use**            | Interest rates, volatility, temp., velocity    | (Log) Stock prices, particle position |
 
+This comparison highlights how the inclusion of the mean-reverting drift term fundamentally changes the long-term behavior of the process, leading to bounded variance and a stable equilibrium distribution, unlike the ever-diffusing random walk.

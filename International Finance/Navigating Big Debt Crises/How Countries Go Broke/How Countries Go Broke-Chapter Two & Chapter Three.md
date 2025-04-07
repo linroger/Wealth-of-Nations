@@ -262,7 +262,12 @@ I won’t now delve into how all these work—both because doing that would be t
 
 **4\. Debts and debt service relative to savings (e.g., reserves).**If all of the above are not financially healthy but one has large savings to draw on and draw down, one won’t have a high risk of default because one can draw on the savings (e.g., reserves) to make debt and spending payments.
 
-***Inevitably, equilibrium levels of 1) debts relative to incomes, 2) debt service relative to incomes, 3) nominal interest rates relative to inflation rates (i.e., real interest rates) and nominal growth rates, and 4) debts and debt service relative to savings will be approached. If you watch these ratios over time, you will see them go to extreme levels and return to more normal levels one way or another. If you understand the cause/effect relationships that drive these changes, you can understand how to navigate them and how they can be best managed.*****Most importantly, if you understand the painful deleveraging part, you will understand that it can be handled well (to be less painful) or handled poorly (and be very painful).**
+***Inevitably, equilibrium levels of 
+1) debts relative to incomes,
+2) debt service relative to incomes, 
+3) nominal interest rates relative to inflation rates (i.e., real interest rates) and nominal growth rates, and 
+4) debts and debt service relative to savings will be approached. 
+If you watch these ratios over time, you will see them go to extreme levels and return to more normal levels one way or another. If you understand the cause/effect relationships that drive these changes, you can understand how to navigate them and how they can be best managed.*****Most importantly, if you understand the painful deleveraging part, you will understand that it can be handled well (to be less painful) or handled poorly (and be very painful).**
 
 These four indicators are not the only ones that matter. In Chapter 4, I’ll show you how a broader set of indicators evolve through the end of the Big Debt Cycle, and in Chapter 15, I’ll show you what my indicators suggest for the US today. However, the previously mentioned four are the most important ones to watch. They give us valuable information about how likely a debt squeeze is and how severe it will be when it happens. However, they cannot tell us exactly when the debt problem will occur because different conditions and different people’s reactions to them lead to different lead times for the selling of debt assets and other actions that precipitate a crisis. Still, we can measure the level of risk because ***countries with very high debt levels, very large deficits, low savings, and very high and very fast rising interest rates have a very high risk of a debt default or debt devaluation crisis****.*
 
@@ -334,7 +339,7 @@ If we assume that interest rates equal income growth but use the actual projecte
 
 The table below shows debt levels 10 years forward for various starting debt levels and deficits. The second table shows the change relative to the starting debt level. You can see that as the starting debt level rises, and as deficits become larger, the expected debt level at the end gets higher.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQGdovql681W9g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863728407?e=1749686400&v=beta&t=EUDfTuvdNNrPXtFVTd6fT6162_sNz7nAlim7idbH9N8)
+ ![](https://media.licdn.com/dms/image/v2/D4E12AQGdovql681W9g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863728407?e=1749686400&v=beta&t=EUDfTuvdNNrPXtFVTd6fT6162_sNz7nAlim7idbH9N8)
 
 When going through these numbers, you might keep in mind that at the time of this writing, the US, Japanese, Chinese, French, German, and UK numbers are approximately as follows.
 
@@ -393,7 +398,7 @@ While these factors are measurable, they are much harder to project than the pre
 
 **Rather than allowing interest rates to spiral upward to generate sufficient demand for these debt assets, let’s assume the central bank steps in and buys all the excess issuance, so that the private sector continues to hold no more than 600% of government income in debt, and interest rates stay flat at 3.4%.**In this example, in Year 2, the central bank will have to buy $0.3 trillion of those debt assets. In subsequent years, these purchases get larger and larger.
 
-**Mechanically, to purchase these debt assets—i.e., monetize the government debt—the central bank prints money** (by creating new reserves/cash) and gives private players that money in exchange for the bonds. This increases the money supply (M0). In this example, let’s assume that the money supply starts at $5.6 trillion—so 110% of the starting government income—roughly where it is today in the United States.**In our example,****as the central bank prints more and more to cover government shortfalls, the money supply balloons.**
+**Mechanically, to purchase these debt assets—i.e., monetize the government debt—the central bank prints money** (by creating new reserves/cash) and gives private players that money in exchange for the bonds. This increases the money supply (M0). In this example, let’s assume that the money supply starts at $5.6 trillion—so 110% of the starting government income—roughly where it is today in the United States. **In our example,****as the central bank prints more and more to cover government shortfalls, the money supply balloons.**
 
 **The Central Bank Steps In**
 
