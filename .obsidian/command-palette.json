@@ -2,10 +2,8 @@
   "pinned": [
     "global-search-and-replace:search-and-replace",
     "obsidian-regex-replace:obsidian-regex-replace",
-    "copy-as-latex:copy-as-latex",
     "markdown:add-alias",
     "obsidian-text-format:hyphen",
-    "obsidian-linter:lint-all-files",
-    "obsidian-linter:lint-file"
+    "obsidian-enhancing-export:obsidian-enhancing-export:export"
   ]
 }
