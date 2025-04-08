@@ -59,45 +59,31 @@ In the next few chapters I will show you all this happening in charts.
 
 We see this in classic ways, such as:
 
-\- In the years before the crisis, the government classically has **a large and growing stock of debt** as a result of chronic deficit spending. Typically, one sees **a rising share of spending going to consumption/social safety net and a declining share going to productivity-enhancing investment**, causing debts to increase without a commensurate increase in incomes. Typically, countries become so reliant on a large social safety net that cutting it becomes a political third rail (e.g., in Brazil today, the US today).
+- In the years before the crisis, the government classically has **a large and growing stock of debt** as a result of chronic deficit spending. Typically, one sees **a rising share of spending going to consumption/social safety net and a declining share going to productivity-enhancing investment**, causing debts to increase without a commensurate increase in incomes. Typically, countries become so reliant on a large social safety net that cutting it becomes a political third rail (e.g., in Brazil today, the US today).
 
-\- **The level of debt is typically high relative to the government’s ability to pay it back with tax revenues and the debt service burden is also high relative to the government’s incomes**, starting to crowd out spending on other line items that are considered essential. To cover these costs, more debt needs to be sold than the private sector wants to buy, a source of upward pressure on interest rates (further increasing debt service costs). Note the big differences in what happens in these cases between the floating rate currencies and the fixed rate currencies after the big default/devaluation moment. It reflects the fact that in the fixed exchange rate cases the debt restructuring is more severe and definitive, which sets the stage for a more abrupt and larger rebound. Fiat cases see a gradual increase in debt, as money printing from the central bank allows government spending to continue or even accelerate. Please note that the numbers in the x-axis represent months before and after the peak of the crisis.
-
-  
+- **The level of debt is typically high relative to the government’s ability to pay it back with tax revenues and the debt service burden is also high relative to the government’s incomes**, starting to crowd out spending on other line items that are considered essential. To cover these costs, more debt needs to be sold than the private sector wants to buy, a source of upward pressure on interest rates (further increasing debt service costs). Note the big differences in what happens in these cases between the floating rate currencies and the fixed rate currencies after the big default/devaluation moment. It reflects the fact that in the fixed exchange rate cases the debt restructuring is more severe and definitive, which sets the stage for a more abrupt and larger rebound. Fiat cases see a gradual increase in debt, as money printing from the central bank allows government spending to continue or even accelerate. Please note that the numbers in the x-axis represent months before and after the peak of the crisis.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFMLEdHPB4BDA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145645885?e=1749686400&v=beta&t=3aQDbX59HEOHInWADd6H953oSuAkLr2qMDXaQ28rLMc)
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQG_00bVHaMA_g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145658094?e=1749686400&v=beta&t=IFL22zRmi00c8o5qkOQ5oZf_NNdkIFAjnHoxYU0Y0oU)
 
-\- The charts below show the typical amount of government borrowing (in total and excluding borrowing to cover interest payments) that was done in the years leading up to the devaluation. In 31 of the 35 cases we studied, we saw **large, persistent government deficits** going into the crisis.
-
-  
+- The charts below show the typical amount of government borrowing (in total and excluding borrowing to cover interest payments) that was done in the years leading up to the devaluation. In 31 of the 35 cases we studied, we saw **large, persistent government deficits** going into the crisis.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQGz7N73OMbKng/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145687019?e=1749686400&v=beta&t=H66xo9X-EWv6bXXvaNddTYATQN805ljeBU3LifH5Tkg)
 
-\- It’s worth noting that sometimes the public sector balance sheet looks less problematic on its face. This is true when **there is heavy borrowing in the private sector that the public sector has to back up and when there are implicit public sector guarantees to backstop institutions such as banks that the government can’t afford to let fail**. Such cases might as well be public sector balance sheet problems.
-
-  
+- It’s worth noting that sometimes the public sector balance sheet looks less problematic on its face. This is true when **there is heavy borrowing in the private sector that the public sector has to back up and when there are implicit public sector guarantees to backstop institutions such as banks that the government can’t afford to let fail**. Such cases might as well be public sector balance sheet problems.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFfhFJyD_2fGA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145701750?e=1749686400&v=beta&t=hzFnv83er6XaxJ-kjDuHK98fOBagU3F3eaGDLwzcGQw)
 
-\- **The buildup of debts requires large lending from foreigners to finance them.**That lending can be in borrowing the country’s currency (which increases the risk of devaluation) or a reserve currency (which increases the risk of default). This increases the country’s vulnerability to a pullback in foreign capital. Having said that, having a current account deficit doesn’t necessarily signal problems. It reflects capital coming into the country, which could be indicative of the attractiveness of the country’s capital markets. However, in circumstances in which the attractiveness of the country’s capital markets gets impaired by the need to issue a lot of debt and money quickly to deal with a crisis, the potential for foreign selling of the country’s currency and debt represents an added source of vulnerability. As shown in the next set of charts, steadily increasing current account and twin deficits typically lead the crisis by several years. When the crisis occurs, it takes the form of a big devaluation and a constriction of debt-financed demand (including for imports), which has the effect of reducing these deficits.
-
-  
+- **The buildup of debts requires large lending from foreigners to finance them.**That lending can be in borrowing the country’s currency (which increases the risk of devaluation) or a reserve currency (which increases the risk of default). This increases the country’s vulnerability to a pullback in foreign capital. Having said that, having a current account deficit doesn’t necessarily signal problems. It reflects capital coming into the country, which could be indicative of the attractiveness of the country’s capital markets. However, in circumstances in which the attractiveness of the country’s capital markets gets impaired by the need to issue a lot of debt and money quickly to deal with a crisis, the potential for foreign selling of the country’s currency and debt represents an added source of vulnerability. As shown in the next set of charts, steadily increasing current account and twin deficits typically lead the crisis by several years. When the crisis occurs, it takes the form of a big devaluation and a constriction of debt-financed demand (including for imports), which has the effect of reducing these deficits.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQG2Z3WhDfMRZg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145737370?e=1749686400&v=beta&t=waiXD03bvlPi39yWJzN-o1l1z-B3vGXIQkDc4EIHwRU)
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHyy_ZmeASsPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145755128?e=1749686400&v=beta&t=HSayqXYNocM2-AyDkvCgx8O3tmbBN8ov0dIVNep9qi4)
 
 **Years of large borrowing from foreigners results in a substantial accumulated debt to foreigners**, which increasesthe country’s vulnerability to a pullback in foreign capital. The charts below on the left show the total net international investment position (assets owned abroad minus liabilities owed to the rest of the world) and an adjusted version on the right that measures the amount of liquid assets the country has available relative to the external debts it must service. By the time of the devaluation, the country is typically very low in liquid assets it can use to cover external debt service obligations.
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQF7fBEPimpkBA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145796769?e=1749686400&v=beta&t=LYzHP-pZGCwGmkXCkBlzAYXjLv3aQkZt6Zp9MkCADsw)
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHtPNop5lAY7A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145808256?e=1749686400&v=beta&t=5FpMQrXuve4kQ_Npi4hhj1xvtEIVqTDuEBHvfngMOWs)
 
@@ -107,19 +93,16 @@ Typically, this occurs at the stage of the cycle when the government’s balance
 
 As a result, when debt conditions deteriorate and governments need to save the day, government debt increases faster than private sector debt. As shown in the charts below, it is typical for the government debt level to soar while the private sector’s debt level plunges about a year before the crisis, and for the government debt levels to rise a lot relative to private debt levels. In 15 of the 21 cases where we had data on both the government and the private sector balance sheet, we saw this pattern happen. When private debt is falling sharply and government debt is rising sharply, it is a short leading indicator of trouble.
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQH5BJ_9ztCgSg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145824127?e=1749686400&v=beta&t=yMd-N-1bN8AuKQNyAD22y4ovHBrAj_l4vrMTgfnCKS0)
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQGPNyuoBx8dZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145833339?e=1749686400&v=beta&t=bQ5549bEo3F95uUbhnIrD-auf8oBphYoPpEYBY-_T8Y)
 
 **At this time, government debt problems tend to intensify.**We show a few more measures of this below.
 
-**The stock of government debt grows in relation to 1) its revenues, 2) the hard assets it has available to repay its debts (usually in the form of reserves), and 3) the quantity of money in the economy** that is available to finance the debt (until the central bank eventually steps in to provide more money and credit to the government).
-
-  
+**The stock of government debt grows in relation to 
+1) its revenues,
+2) the hard assets it has available to repay its debts (usually in the form of reserves), and 
+3) the quantity of money in the economy** that is available to finance the debt (until the central bank eventually steps in to provide more money and credit to the government).
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHM1YTRx4Kisg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145864288?e=1749686400&v=beta&t=iJvFTF2ondsPbkL0-Yrsu5MqyswfCQLDgiQ6_n_oZRY)
 
@@ -129,13 +112,9 @@ As a result, when debt conditions deteriorate and governments need to save the d
 
 More specifically, when debt service becomes a very high percentage of income (e.g., 100%), it is a red flag because it means that it is a) squeezing out a lot of spending and/or b) requiring a lot of borrowing and debt rollovers that might not happen because lender-creditors see this situation and worry about it, leading them to not lend or sell their debt assets. There comes a time in the long-term debt cycle when the debt service becomes so large relative to the incomes that it either squeezes out other spending because the borrowing can’t be large enough to allow the avoidance of the squeeze, or because it is so large that it leads to a big demand shortage. In 25 of the 35 cases we studied, we saw government debt service as a percent of government revenues accelerate going into the crisis.
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQGwO69zJKV8Zw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145878811?e=1749686400&v=beta&t=3sLY6kn9DcyEDFqANLz5JuHU0-MVRqm_UHrHO0fq-94)
 
-\- **Given the debts the government has built up (and the ongoing deficits it is running to compensate for a weak private sector), its debt and debt service burdens are on a path to continue climbing.**The charts below show the average projected path of government debt and interest expense at the time of devaluation across the historical cases. At the time of the eventual devaluation, we can see that the government was typically on a path toward indefinitely increasing debts and debt service absent a devaluation of those debts.
-
-  
+- **Given the debts the government has built up (and the ongoing deficits it is running to compensate for a weak private sector), its debt and debt service burdens are on a path to continue climbing.**The charts below show the average projected path of government debt and interest expense at the time of devaluation across the historical cases. At the time of the eventual devaluation, we can see that the government was typically on a path toward indefinitely increasing debts and debt service absent a devaluation of those debts.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQEK8H0In6CNYA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145901810?e=1749686400&v=beta&t=kL1ZIR0rZ3IdN9bny5vvOY0xCY_8bV_hxuX9UdJjmWU)
 
@@ -164,13 +143,9 @@ During times of risks of war or actual war this is worsened because risks of san
 
 As you will see in the charts below, in these times there is a simultaneous plunge in foreign inflows to buy local bonds, government and corporate (left chart), and a spike in real rates as there is a classic failed attempt to support the currency via rising interest rates and tightening credit.
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQF1HJJwqYWubA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145923189?e=1749686400&v=beta&t=NqQO-6mIh6jZFB8wLQ0i422XM0uh2zpBpDs5MdV4sNM)
 
 In these periods, we often see the government shorten the maturity of its issuance in order to make the bonds more palatable to the market.
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFx390B-qq2-A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145934792?e=1749686400&v=beta&t=HF3Mfaqo_0rGR9gwvlFuD5iB6jK1Kd4hNOZ-luZrHko)
 
@@ -181,91 +156,56 @@ That happens when the debt service squeeze becomes intolerable for the borrower-
 This hasn’t yet happened in the US, Europe, Japan, or China.
 
 **Below, we walk through these dynamics in more detail.**
-
-\- **There is a tightening and/or currency intervention to defend the currency, but the tightening is abandoned because it’s too harmful for the economy and the currency intervention is abandoned because it doesn’t work and is too costly, so the currency/debt devalues.**
+- **There is a tightening and/or currency intervention to defend the currency, but the tightening is abandoned because it’s too harmful for the economy and the currency intervention is abandoned because it doesn’t work and is too costly, so the currency/debt devalues.**
 
 This situation becomes untenable when investors and savers see what’s going on and make the logical decision to abandon the country’s assets and currency because there is a high risk that in one way or another they won’t get their buying power back. This brings the crisis to a head because it puts more pressure on the central bank to tighten at a time when doing so would likely produce unacceptably bad economic outcomes.**A few of the red flags of this more advanced stage are:**
-
-\- **Interest rates rise because there is selling of the country’s debt assets and because the central bank typically attempts to tighten to defend the currency.**In the face of such depressed conditions, such an increase in real interest rates is unsustainable as it puts too much pressure on an economy that is already weak and on a government that is facing a debt spiral absent lower interest rates.
-
-  
+- **Interest rates rise because there is selling of the country’s debt assets and because the central bank typically attempts to tighten to defend the currency.**In the face of such depressed conditions, such an increase in real interest rates is unsustainable as it puts too much pressure on an economy that is already weak and on a government that is facing a debt spiral absent lower interest rates.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHhJsb9099rGA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145961291?e=1749686400&v=beta&t=41G7yHrRYcRsYuuhWxoezcAy6bW5U6lbEh35ftH0-Pk)
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHuN6hnMOEl4Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145971624?e=1749686400&v=beta&t=c2uRYrtoTLLVHvEqTU2ijR5KDSEAueHQxBCv_Ypm5J4)
 
-\- **The tightening worsens a weak economy** (which ultimately requires the tightening to be abandoned and the devaluation to occur).
-
-  
+- **The tightening worsens a weak economy** (which ultimately requires the tightening to be abandoned and the devaluation to occur).
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHTsDFIprI7MQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145999119?e=1749686400&v=beta&t=-Z9NwaQrBbHoM2BjxcbPOlWIAo8y82kT4bRy9bWESv4)
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFghZ_-s9tBmA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146009962?e=1749686400&v=beta&t=-RqdB4IgpQZnP4q7rxN0RnU8XamcaWmoq3czvOVBuYw)
 
-\- While not always the case,**inflation tends to rise and become higher than desirable** going into the crisis (constraining the central bank’s ability to ease without risking undesirable high inflation).
-
-  
+- While not always the case,**inflation tends to rise and become higher than desirable** going into the crisis (constraining the central bank’s ability to ease without risking undesirable high inflation).
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHj-Kpu3ggW-Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146029239?e=1749686400&v=beta&t=C_w-ISfYMB9Y8YVfqrgH3RQJ2vwdQQVuGHusQPA-s90)
-
-\- Due to the weak economy and the rising inflation, there is substantial pressure for the currency to fall. At this stage, there is a big divergence between the floating rate and fixed rate cases. The policy makers in fixed rate cases are fighting against currency depreciation. In fact, with high inflation the currency is getting more expensive right when they need a devaluation. In the floating rate cases, the currency is gradually selling off into the economic weakness.
-
-  
-
+- Due to the weak economy and the rising inflation, there is substantial pressure for the currency to fall. At this stage, there is a big divergence between the floating rate and fixed rate cases. The policy makers in fixed rate cases are fighting against currency depreciation. In fact, with high inflation the currency is getting more expensive right when they need a devaluation. In the floating rate cases, the currency is gradually selling off into the economic weakness.
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHnMjcnCG6tPA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146048841?e=1749686400&v=beta&t=QbMnOjrNtYbJSe4anqMEI5Nq2dQpXuxtl6C40nEV7tE)
 
-\- For countries with hard currency debts,**credit** **spreads rise** as markets price in a greater likelihood of default.
-
-  
-
+- For countries with hard currency debts,**credit** **spreads rise** as markets price in a greater likelihood of default.
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHugyRrTxqtqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146062538?e=1749686400&v=beta&t=fWwba68FFWamAVDF__-G4lHYY_MCWX-yrlay6THxL7Q)
 
-\- **Risky assets price in higher risk premiums** (i.e., sell off), adding to the downward pressure on the economy.
-
-  
-
+- **Risky assets price in higher risk premiums** (i.e., sell off), adding to the downward pressure on the economy.
 ![](https://media.licdn.com/dms/image/v2/D4E12AQGIOQ9wXthOKA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146074637?e=1749686400&v=beta&t=QFSrZIGjbY5TveosjsiTYAPHtmbiR3l_Za6-KSQcPqk)
 
-\- **At this stage, the central bank typically sells reserves**. Remember that debt works for governments pretty much the same way it works for people and companies except that governments that have the debt denominated in their own currency and have the ability to print their own currency can print the money to pay off their debt. Also, as for people and companies, governments can build up savings to help them prevent financial problems when their incomes fall short of their expenses. For that reason, when looking at the riskiness of any debtor, including governments, one should also see what amount of liquid savings they have. Reserves are one of the main forms of liquid savings for governments. So are sovereign wealth funds. Watching their size, how fast they are being drawn down, and how close they are to running out is important to identifying the timing of debt problems. In the process, it pays to watch for the selling of foreign currency and buying of local currency, which is typically done. Because this reduces the money supply, it is a form of tightening. As shown in the chart below, the selling of reserves is typical at this stage of the cycle.
-
-  
+- **At this stage, the central bank typically sells reserves**. Remember that debt works for governments pretty much the same way it works for people and companies except that governments that have the debt denominated in their own currency and have the ability to print their own currency can print the money to pay off their debt. Also, as for people and companies, governments can build up savings to help them prevent financial problems when their incomes fall short of their expenses. For that reason, when looking at the riskiness of any debtor, including governments, one should also see what amount of liquid savings they have. Reserves are one of the main forms of liquid savings for governments. So are sovereign wealth funds. Watching their size, how fast they are being drawn down, and how close they are to running out is important to identifying the timing of debt problems. In the process, it pays to watch for the selling of foreign currency and buying of local currency, which is typically done. Because this reduces the money supply, it is a form of tightening. As shown in the chart below, the selling of reserves is typical at this stage of the cycle.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFtSZoNGLxLKQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146088202?e=1749686400&v=beta&t=N14vEjN9jMS-Azhmdfg9dWwBppqclzEg5Y2N2_yYF3I)
 
-\- **Note that in the most severe cases, reserves are typically already low relative to the central bank’s liabilities (e.g., the stock of money that savers hold), which gives these central banks little firepower to fight the run on the currency. When that is the case, it becomes apparent that their currency defense will fail, which increases the betting against the currency and the fleeing of debt denominated in it.**
+- **Note that in the most severe cases, reserves are typically already low relative to the central bank’s liabilities (e.g., the stock of money that savers hold), which gives these central banks little firepower to fight the run on the currency. When that is the case, it becomes apparent that their currency defense will fail, which increases the betting against the currency and the fleeing of debt denominated in it.**
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQH4cWto4YI4qA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146100283?e=1749686400&v=beta&t=UrGeaBhefbJJfri8JInsmgKH8ypZvr2kDgipb9tWBxQ)
 
 The table below shows in more detail past interventions of central banks via their reserves across all the cases with meaningful intervention. What you can see is that:
-
-\- **Typically, before the central bank intervenes by selling reserves, the country has a modest war chest of reserves (on average around 5% of GDP covering 10% of the outstanding money supply and government debt outstanding).**
-
-\- **To stem capital flight, during the intervention phase the central bank typically spends over half of its reserves in total to defend the currency** (reserves in global currency terms have fallen by 62% on average). Typically, a lot of this selling is concentrated in a relatively short period of time—for example, in the worst six-month period of intervention reserves decline by 49% in the median case.
-
-\- **Typically, the currency falls** during the currency defense phase (gold rallies 42% in the median case)—though in some cases the central bank’s intervention is able to temporarily prop up the currency.
-
-\- **Then, after a roughly two-year defense (though it of course varies by case)—the central bank gives up.**At this point the reserves back only a small amount of the money stock (6% on average) and a tiny amount of the government debt (3% on average).**After the central bank stops intervening, the currency falls further (and on average gold has rallied another 51% in the median case).**The different cases are shown below.
-
-  
+- **Typically, before the central bank intervenes by selling reserves, the country has a modest war chest of reserves (on average around 5% of GDP covering 10% of the outstanding money supply and government debt outstanding).**
+- **To stem capital flight, during the intervention phase the central bank typically spends over half of its reserves in total to defend the currency** (reserves in global currency terms have fallen by 62% on average). Typically, a lot of this selling is concentrated in a relatively short period of time—for example, in the worst six-month period of intervention reserves decline by 49% in the median case.
+- **Typically, the currency falls** during the currency defense phase (gold rallies 42% in the median case)—though in some cases the central bank’s intervention is able to temporarily prop up the currency.
+- **Then, after a roughly two-year defense (though it of course varies by case)—the central bank gives up.**At this point the reserves back only a small amount of the money stock (6% on average) and a tiny amount of the government debt (3% on average).**After the central bank stops intervening, the currency falls further (and on average gold has rallied another 51% in the median case).**The different cases are shown below.
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFYHnV0_gskMg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737466785661?e=1749686400&v=beta&t=ToBJjf7YVD2ivcq0mLfN58xuW4I6iFnL5ZZo6s0TtLQ)
 
-  
-
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHxpjS9eECFKg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737466800293?e=1749686400&v=beta&t=BdyO4qQsiPdrUrePhck5SyZ1SJRwpbWC7H2gzeKwikc)
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQF3EKX3lfBumQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737466816306?e=1749686400&v=beta&t=kaNmG9uKqbb3tcs6u1PnEoCI3bSUMlgthJqw6YLweJg)
 
 **At this stage, it becomes relatively clear that the currency is at best highly risky and at worst a very bad deal. This leads to not just investors leaving the debt/currency, but in many cases participants in the economy—most importantly banks, corporations, and households—making prudent/de-risking moves out of the debt and currency.**Here are many of the dynamics we saw in the cases we studied which I consider classic signs of being in the late stages of the debt cycle:
 
 Corporate Treasury Actions
-
 1. **Domestic companies decide to keep international revenue offshore principally in foreign FX** (i.e., dollars), not converting them back to local currency like they used to. Seeing their revenues swing in local currency terms even as dollar prices stay more stable, they begin to think of their local currency as the currency to hedge, even though in traditional investing they should hedge the foreign currencies.
 2. **Domestic corporations decide to increase their amount of hedging of the local currency**, especially those with hard currency debts. Hedging involves a forward contract to sell the local currency and buy foreign currency, which lowers the forward exchange rate and drags down the spot exchange rate.
 3. Similarly,**foreign corporations with domestic subsidiaries ensure cash is promptly swept out of the country**.
@@ -294,8 +234,6 @@ Large International Investor Actions
 12\. Relatedly, international investors can’t sell their assets (too little liquidity), but **they don’t roll the exposures**.
 
 The outflows from foreigners are classic and tend to lead the devaluation.
-
-  
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQErGmm44DsLTA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146146727?e=1749686400&v=beta&t=yfT-ENdswJ6GpJTSPbkk-cvAphtcSYNcYSj9DKvJsnk)
 

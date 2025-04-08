@@ -1,11 +1,11 @@
 {
-  "cssTheme": "LaTeX",
+  "cssTheme": "Cupertino",
   "accentColor": "#ffc599",
   "textFontFamily": "Palatino,SF Pro Text,Latin Modern Roman,CMU Serif",
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 13,
-  "translucency": false,
+  "baseFontSize": 14,
+  "translucency": true,
   "enabledCssSnippets": [
     "centered_table",
     "latex",
@@ -24,7 +24,9 @@
     "header_size",
     "transparent_tab_header",
     "latex_like_pdfs",
-    "custom_latex"
+    "custom_latex",
+    "[ui] Compact Tabs",
+    "ion.min"
   ],
   "theme": "moonstone"
 }

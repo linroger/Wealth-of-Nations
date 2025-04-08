@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How Countries Go Broke-Chapter Two & Chapter Three"
+              "title": "How Countries Go Broke-Chapter Four & Chapter Five 1"
             }
           }
         ],
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 256.5
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -283,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md"
+                "file": "Clippings/Contract for Differences (CFD) - Overview and Examples.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for How Countries Go Broke-Chapter Two & Chapter Three"
+              "title": "File properties for Contract for Differences (CFD) - Overview and Examples"
             }
           },
           {
@@ -300,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -331,12 +331,25 @@
   },
   "active": "73e0ae9f977fc484",
   "lastOpenFiles": [
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
+    "International Finance/Navigating Big Debt Crises/Capital Wars from 1600 to the Present..md",
+    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.png",
+    "Users/rogerlin/Downloads/extracted_images/extracted_images.md",
+    "Users/rogerlin/Downloads/extracted_images/image_0508.jpeg.md",
+    "Users/rogerlin/Downloads/Downloads.md",
+    "Users/rogerlin/rogerlin.md",
+    "Users/rogerlin/Downloads/extracted_images",
+    "Users/Users.md",
+    "Users/rogerlin/Downloads",
+    "Clippings/Contract for Differences (CFD) - Overview and Examples.md",
+    "Users/rogerlin",
+    "Users",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
     "Advanced Investments/Lecture 8- Inflation & Sovereign Default Risk.md",
     "Advanced Investments/Lecture 7-Risk and Return of Bonds.md",
@@ -349,28 +362,15 @@
     "International Finance/Characteristics of the Eurodollar Market.md",
     "International Finance/The Balance of Payments.md",
     "International Finance/Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
-    "Course Notes/Articles/Articles.md",
-    "International Finance/Navigating Big Debt Crises/Capital Wars from 1600 to the Present..md",
-    "International Finance/Navigating Big Debt Crises/Black Scholes Derivation.md",
-    "The Ornstein-Uhlenbeck (OU) Process.md",
-    "Python Notes.md",
-    "Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing.md",
-    "International Finance/Navigating Big Debt Crises/Largest Events Driving Changes to Life Expectancy Through Time.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke",
     "Clippings",
     "International Finance/Navigating Big Debt Crises/-*coding utf-8 -*import math.md \u000e.gitFinderDeleted",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income Python Code.md \u000e.gitFinderDeleted",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW LaTeX Files.md \u000e.gitFinderDeleted",
     "Fixed Income Asset Pricing/Problem Sets/Fixed Income HW Assignments.md \u000e.gitFinderDeleted",
-    "Fixed Income Asset Pricing/Problem Sets/Fixed Income Assignments LATEX Completed.md \u000e.gitFinderDeleted",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Yield Curve Extraction Methods-A Comprehensive Analysis .md \u000e.gitFinderDeleted",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Untitled 2.md \u000e.gitFinderDeleted",
-    "Financial Markets and Institutions/Class Note 1.md \u000e.gitFinderDeleted",
     "Untitled.canvas",
     "svg-cache/ccaeded309b638a7bdc165b97377e78d.svg",
     "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.svg",
-    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.png",
     "svg-cache/bbf9b62e480f794332f92788870c7c2e.svg",
     "svg-cache/bbf9b62e480f794332f92788870c7c2e.png",
     "svg-cache/ccaeded309b638a7bdc165b97377e78d.png",

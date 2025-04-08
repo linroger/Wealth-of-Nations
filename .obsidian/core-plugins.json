@@ -13,7 +13,7 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": true,
+  "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": true,
@@ -26,6 +26,5 @@
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
-  "webviewer": false
+  "sync": true
 }
