@@ -321,11 +321,11 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "formatto-format:Format Document": false,
-      "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false,
+      "jupyter:Start Jupyter Server": true,
+      "jupyter:Create Jupyter Notebook": true,
       "hide-folders:Show hidden folders": false,
-      "ai-tagger:Generate tags!": false,
-      "llm-tagger:LLM Tagger": false,
+      "ai-tagger:Generate tags!": true,
+      "llm-tagger:LLM Tagger": true,
       "github-sync:Sync with Remote": false
     }
   },

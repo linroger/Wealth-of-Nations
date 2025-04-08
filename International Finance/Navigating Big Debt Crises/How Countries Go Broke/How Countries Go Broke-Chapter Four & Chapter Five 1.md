@@ -149,7 +149,10 @@ In these periods, we often see the government shorten the maturity of its issuan
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFx390B-qq2-A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737145934792?e=1749686400&v=beta&t=HF3Mfaqo_0rGR9gwvlFuD5iB6jK1Kd4hNOZ-luZrHko)
 
-When market participants see that these limitations are being reached there is selling, which worsens the supply/demand balance. When that becomes large the central bank is faced with the choice of a) allowing interest rates to rise to a level that will curtail borrowing and lead to greater desire to lend to the government by redirecting money and credit that would have gone to other things (e.g., the purchase of other investments), or b) printing money and buying the debt to make up for the demand shortfall. History shows and logic dictates that it will always choose b) over a), and that the best path is to balance a) and b). When that produces enough selling so that inflation rises when the economy is weak, the central bank is damned if it does print money and buy a lot of debt because it contributes to terrible currency weakness and inflation, and it’s damned if it doesn’t because it causes extremely tight money, extremely high interest rates, and a very bad economy.
+When market participants see that these limitations are being reached there is selling, which worsens the supply/demand balance. When that becomes large the central bank is faced with the choice of 
+- a) allowing interest rates to rise to a level that will curtail borrowing and lead to greater desire to lend to the government by redirecting money and credit that would have gone to other things (e.g., the purchase of other investments), or 
+- b) printing money and buying the debt to make up for the demand shortfall. 
+History shows and logic dictates that it will always choose b) over a), and that the best path is to balance a) and b). When that produces enough selling so that inflation rises when the economy is weak, the central bank is damned if it does print money and buy a lot of debt because it contributes to terrible currency weakness and inflation, and it’s damned if it doesn’t because it causes extremely tight money, extremely high interest rates, and a very bad economy.
 
 That happens when the debt service squeeze becomes intolerable for the borrower-debtor and/or the lender-creditor doesn’t want to hold the debt (typically because it is not providing a high enough real return, the risk of default is perceived as high, and/or the risk of the central bank printing a lot of money thus devaluing it is high). When those things happen a doom loop downward spiral in the value of the government debt occurs until a new equilibrium level is reached when the debt is sufficiently destroyed or devalued so that the debt burdens are no longer excessive.
 
@@ -206,31 +209,23 @@ The table below shows in more detail past interventions of central banks via the
 **At this stage, it becomes relatively clear that the currency is at best highly risky and at worst a very bad deal. This leads to not just investors leaving the debt/currency, but in many cases participants in the economy—most importantly banks, corporations, and households—making prudent/de-risking moves out of the debt and currency.**Here are many of the dynamics we saw in the cases we studied which I consider classic signs of being in the late stages of the debt cycle:
 
 Corporate Treasury Actions
-1. **Domestic companies decide to keep international revenue offshore principally in foreign FX** (i.e., dollars), not converting them back to local currency like they used to. Seeing their revenues swing in local currency terms even as dollar prices stay more stable, they begin to think of their local currency as the currency to hedge, even though in traditional investing they should hedge the foreign currencies.
-2. **Domestic corporations decide to increase their amount of hedging of the local currency**, especially those with hard currency debts. Hedging involves a forward contract to sell the local currency and buy foreign currency, which lowers the forward exchange rate and drags down the spot exchange rate.
-3. Similarly,**foreign corporations with domestic subsidiaries ensure cash is promptly swept out of the country**.
-4. **Companies decide their foreign subsidiaries aren’t worth the hassle** —navigating the currency risk, political chaos, sometimes career risk, for a small expansion opportunity doesn’t make a lot of sense. New FDI projects are put on hold.
+1\. **Domestic companies decide to keep international revenue offshore principally in foreign FX** (i.e., dollars), not converting them back to local currency like they used to. Seeing their revenues swing in local currency terms even as dollar prices stay more stable, they begin to think of their local currency as the currency to hedge, even though in traditional investing they should hedge the foreign currencies.
+2\. **Domestic corporations decide to increase their amount of hedging of the local currency**, especially those with hard currency debts. Hedging involves a forward contract to sell the local currency and buy foreign currency, which lowers the forward exchange rate and drags down the spot exchange rate.
+3\. Similarly, **foreign corporations with domestic subsidiaries ensure cash is promptly swept out of the country**.
+4\. **Companies decide their foreign subsidiaries aren’t worth the hassle** —navigating the currency risk, political chaos, sometimes career risk, for a small expansion opportunity doesn’t make a lot of sense. New FDI projects are put on hold.
 
 Domestic Bank Actions
-
 **5\. The banks that were forced to buy the debts under government policies have to sell them when liquidity dries up** —accelerating the debt sell-off in the worst of the crisis.
-
 **6\. Some of the central bank tactics to keep conditions stimulative (multiple interest rates, capital controls) make it more attractive to keep money offshore than onshore.**Domestic banks and corporations are often the ones best placed to make that market. Even if kept in the same currency, money leaving the domestic banking system often means selling government debt.
 
 International Bank Actions
-
 **7\. International lenders close lines of business that are too much of a headache** —trade financing, working capital lines of credit, etc.
-
 **8\. Often, they** **literally sell or give away their bank subsidiaries when it is not worth the exposure to losses** that a small subsidiary has on the broader corporation (let alone the headache of paying attention to this corner of the business).
 
 Large International Investor Actions
-
 9\. Ironically, even as borrowing grows, more of it is held by players who can’t sell (e.g., banks), and the dollar value of the assets fall.**Liquidity dries up, pushing out large foreign investors who don’t like illiquid assets**.
-
 **10\. There are moves out of the currency by large government reserve holders, often with geopolitical considerations** a big part of the decision.
-
 11\. Often, big international reserve allocators can’t really sell their assets—it would be too disruptive to the market. Instead,**reserve managers start accumulating all new reserves in a different currency** —causing demand to dry up.
-
 12\. Relatedly, international investors can’t sell their assets (too little liquidity), but **they don’t roll the exposures**.
 
 The outflows from foreigners are classic and tend to lead the devaluation.
@@ -238,21 +233,14 @@ The outflows from foreigners are classic and tend to lead the devaluation.
 ![](https://media.licdn.com/dms/image/v2/D4E12AQErGmm44DsLTA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1737146146727?e=1749686400&v=beta&t=yfT-ENdswJ6GpJTSPbkk-cvAphtcSYNcYSj9DKvJsnk)
 
 Domestic Saver Actions
-
 **13\. Domestic savers decide they want diversification, and to some degree begin betting on inflation-hedge assets, which drives flows in that direction.****They convert bank deposits to hard currency**, requiring banks to sell local currency to buy foreign currency.
-
 **14\. People buy real goods to get ahead of inflation.**Since a share of these real goods are imports, it creates a currency sale. This of course also fuels inflation and makes matters worse.
-
 **15\. High-net-worth individuals, mostly concerned about wealth preservation and rising taxes and wealth confiscation, move money abroad.**
-
 **16\. Domestic savers see holding foreign stocks as the more reliable bet.**More products pop up to make that possible.
-
 **17\. Opening foreign bank accounts, since domestic banks look troubled, looks like the prudent move.**Those banks make it easy to exchange to other currencies (assuming the government hasn’t imposed capital controls; in many cases the government makes opening foreign bank accounts quite difficult).
 
 More Traditional Speculative Trading
-
 **18\. Bond vigilante market action emerges and becomes self-reinforcing.**
-
 **19\. Equity investors pull out of the country as the environment deteriorates, which creates a negative currency impact.**
 
 ---
