@@ -24,5 +24,6 @@ tags: Advanced-Financial-Analysis-and-Valuation
 	- [[Lectures on Valuation and Security Analysis]]
 	- [[Porter's Five Forces]]
 	- **[[Problem Sets]]**
+	- [[Warren Buffet Case Study]]
 
 %% End Waypoint %%
