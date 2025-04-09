@@ -205,7 +205,7 @@ n what follows I will often use the terms forward curve, yield curve, and zero c
 
 In general we want to be able to get the discount factor for any date; i.e. we want $f(t)$ for any and all $t$ Market data (such as in table 2 below) never provide enough data to directly determine the discount factor for every day. Instead we generally. assume some parametric (but flexible) functional form, depending on parameters or variables $\left(\begin{array}{l l l}{\nu_{1}}&{\cdots}&{\nu_{k}}\end{array}\right)$ , for the forward curve. We then choose the parameters so that the curve prices the market data correctly. This means the forward / zero curve will be a function of the variables:. $\left(\begin{array}{l l l}{\nu_{1}}&{\cdots}&{\nu_{k}}\end{array}\right)$  
 
-# Example of Forw ard Curve  
+# Example of Forward Curve  
 
 An example helps to explain and clarify how a yield curve is constructed and used. Say that the following swaps are PV zero in the market, and we decide to use these as our market data:  
 
@@ -246,7 +246,7 @@ Table 3 - Market Instrument Used for Building Sample Curve
 
 These instruments produce the values for the forward curve variables (the instantaneous forward rates) shown above in figure 2.  
 
-# PVof Instruments Off Curv e  
+# PV of Instruments Off Curve  
 
 With this forward curve we can now price the original market instruments (which by construction will have PV zero) plus other swaps or bonds. Table 4 shows the original PV-zero market swaps, plus a selection of additional swaps, annuities and zero-coupon instruments (all notional 100).  
 

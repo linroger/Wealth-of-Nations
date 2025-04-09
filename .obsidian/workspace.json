@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
+                "file": "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BMW Valuation Report"
+              "title": "An Enhanced Method for Estimating Delta and Gam"
             }
           },
           {
@@ -181,12 +181,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 242.5
   },
   "right": {
     "id": "37d32b26777931ab",
@@ -332,34 +331,42 @@
   },
   "active": "6e95f92153345b18",
   "lastOpenFiles": [
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Theory Meets Data - Asset Pricing Puzzles.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/HSBC-Auto callable Barrier Notes with Step-up Premium.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Forward and Futures Contracts.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
+    "Financial Engineering/Introduction to Financial Mathematics.md",
+    "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
+    "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
+    "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
+    "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Corporate Bonds.md",
+    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
+    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
+    "The Ornstein-Uhlenbeck (OU) Process.md",
+    "Fixed Income Asset Pricing/Lecture Notes Bonds,  Preferred Stock,  and Structured Products.md",
+    "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
+    "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
+    "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
+    "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
+    "Attachments/636e6774de04a99365ad1f32897bce5ed12dfecd318761abc18acb32b21117cc.jpg",
+    "Attachments/b1db70a25202a4474ff609283380337a84efa28281a9a090a172534b758e04c4.jpg",
+    "Attachments/033d532e8e25d91ff10589fe15b024e471d1b0a6b1a8ec79fc15333ca8b5318b.jpg",
+    "Attachments/61dee99f4e0f38956793c73111665f4d9d5d94b64ec8ad111eb2e8bc14c2911f.jpg",
+    "Attachments/fc3cfd6086fe7d110151c6f1af678be2cc5d45a31a2850a0a6e2f2641a3d8af5.jpg",
+    "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
+    "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
-    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.svg",
-    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.png",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
     "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/Chapter 2.md",
     "Users/rogerlin/Downloads/extracted_images/image_0508.jpeg.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Some Stylized Empirical Facts About Asset Retur.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Introduction and Overview 1.md",
-    "Financial Engineering/10. Other Topics in Quantitative Finance.md",
-    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
-    "Advanced Investments/Lecture 3- Dynamics of Returns.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Principles of Financial Engineering Part1.md",
-    "Financial Engineering/Inverse Matrices Solve Linear Systems.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Front Matter.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Front Matter/Front Matter.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 9/Chapter 9.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 8/Chapter 8.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 7/Chapter 7.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 6/Chapter 6.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 5/Chapter 5.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 4/Chapter 4.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 3/Chapter 3.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 2/Chapter 2.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
@@ -370,14 +377,6 @@
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 2",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12",
-    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.png",
-    "Untitled.canvas",
-    "svg-cache/ccaeded309b638a7bdc165b97377e78d.svg",
-    "svg-cache/d643f9a6454146fe822bcdbc5b73c9c6.svg",
-    "svg-cache/bbf9b62e480f794332f92788870c7c2e.svg",
-    "svg-cache/bbf9b62e480f794332f92788870c7c2e.png",
-    "svg-cache/ccaeded309b638a7bdc165b97377e78d.png",
-    "svg-cache/f1d10a40db622c7c33c6edb95fe7cf1b.svg",
-    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.svg"
+    "Untitled.canvas"
   ]
 }
