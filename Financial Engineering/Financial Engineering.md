@@ -22,6 +22,7 @@ title: Financial Engineering
 	- [[An Introduction to Equity Markets]]
 	- **[[Appendices]]**
 	- [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma]]
+	- [[Finance Derivatives Overview and Uses]]
 	- [[Financial Engineering]]
 	- [[Financial Mathematics Course]]
 	- **[[Fixed Income Derivatives]]**
@@ -49,6 +50,20 @@ title: Financial Engineering
 		- [[The Impact of Option Strategies in Financial  Portfolios Performance]]
 		- [[Uncertain Volatility with Static Hedge]]
 		- [[Zero-coupon convertible bonds]]
+	- [[Introduction to Financial Mathematics]]
+	- [[Inverse Matrices Solve Linear Systems]]
+	- [[Mathematical Modeling of Derivative Pricing]]
+	- [[Mathematics of the Financial Markets]]
+	- [[Notes on Currency Swaps]]
+	- [[Pricing Interest Rate Derivatives Under Stochastic Volatility]]
+	- [[Primer on Credit Default Swaps]]
+	- [[Primer on Interest Rate Swaps]]
+	- [[SOFR Derivative Pricing Using a Short Rate Model]]
+	- [[Static Option Replication]]
+	- [[Trading the Fixed Income Inflation and Credit Markets]]
+	- [[Valuation of Credit Default Swaps]]
 	- [[Variance Swaps]]
+	- [[Verification of Central Limit Theorem]]
+	- [[Verifying Martingale Property with Q]]
 
 %% End Waypoint %%

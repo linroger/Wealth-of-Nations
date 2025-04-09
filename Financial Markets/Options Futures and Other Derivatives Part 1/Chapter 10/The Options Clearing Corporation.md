@@ -1,0 +1,11 @@
+# 10.8 THE OPTIONS CLEARING CORPORATION  
+
+The Options Clearing Corporation (OCC) performs much the same function for options markets as the clearing house does for futures markets (see Chapter 2). It guarantees that options writers will fulfill their obligations under the terms of options contracts and keeps a record of all long and short positions. The OCC has a number of members, and all option trades must be cleared through a member. If a broker is not itself a member of an exchange's OCC, it must arrange to clear its trades with a member. Members are required to have a certain minimum amount of capital and to contribute to a special fund that can be used if any member defaults on an option obligation.  
+
+The funds used to purchase an option must be deposited with the OCC by the morning of the business day following the trade. The writer of the option maintains a. margin account with a broker, as described earlier.? The broker maintains a margin. account with the OCC member that clears its trades. The OCC member in turn maintains a margin account with the OCC..  
+
+# Exercising an Option  
+
+When an investor instructs a broker to exercise an option, the broker notifies the OCC member that clears its trades. This member then places an exercise order with the OCC. The OCC randomly selects a member with an outstanding short position in the same option. The member, using a procedure established in advance, selects a particular investor who has written the option. If the option is a call, this investor is required to sell stock at the strike price. If it is a put, the investor is required to buy stock at the strike price. The investor is said to be assigned. The buy/sell transaction takes place on the third business day following the exercise order. When an option is exercised, the open interest goes down by one.  
+
+At the expiration of the option, all in-the-money options should be exercised unless. the transaction costs are so high as to wipe out the payoff from the option. Some. brokers will automatically exercise options for a client at expiration when it is in their. client's interest to do so. Many exchanges also have rules for exercising options that are in the money at expiration.  

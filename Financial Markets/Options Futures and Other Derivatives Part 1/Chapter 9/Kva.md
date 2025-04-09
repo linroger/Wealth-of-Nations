@@ -1,0 +1,12 @@
+# 9.3 KVA  
+
+KVA, capital valuation adjustment, is a charge to a derivatives transaction for the. incremental capital requirements that the transaction gives rise to. Suppose that as a result of entering into a particular transaction a bank calculates that regulations require it to hold an extra $\$1$ million of equity capital throughout the life of the transaction.11. What is the cost of this?.  
+
+Again there is a divergence between between financial economics theory and the opinions of many practitioners. Many practitioners would argue that if equity share-. holders require a return of $15\%$ per annum and a bank invests in a low-risk project that will require additional equity capital, the return on the additional capital should be at. least $15\%$ . (This is similar to nonfinancial companies using WACC as a hurdle rate for all projects, as discussed earlier.) In the derivatives context this means that there should be a price adjustment, a KVA, to ensure that the return on the incremental equity capital is $15\%$ . Financial economists argue that how a company is financed should not. affect how it evaluates projects (except possibly for tax effects). As a bank uses more.  
+
+equity to finance itself, it becomes less risky and the providers of both debt and equity capital require a lower return. This argument is over 50 years old in the finance literature and so its theoretical validity has stood the test of time.12 Many practitioners. disagree with the theory. As in the case of MVA and FVA the difference between the two sides is whether average or marginal capital costs should be used. We can imagine the following dialogue:  
+
+Financial Economist: You do not need to make a KVA. As long as a derivatives book provides a return reflecting its risk your investors will be happy. Practitioner:  Equity capital requirements for derivatives have gone up since the crisis. My equity investors require a $15\%$ per annum return. If I enter into a derivatives transaction that requires additional capital under the new regulations, I need to make sure that the return on that capital is at least $15\%$   
+Financial Economist:  But as more of the bank is financed by equity capital it becomes less risky and the return required by equity in-. vestors goes down. This is true even if the average risk of the whole bank does not change. So the marginal return required on new equity capital is low.  
+
+Practitioner:  I am not sure that is how things work in practice.  

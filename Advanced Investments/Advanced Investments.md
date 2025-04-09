@@ -3,17 +3,17 @@ __MASK_7_10__
 # Advanced Investments
 
 %% Begin Waypoint %%
-
-- **__MASK_6_0__**
-	- __MASK_6_1__
-	- __MASK_6_2__
-	- __MASK_6_3__
-	- __MASK_6_4__
-	- __MASK_6_5__
-	- __MASK_6_6__]]
-	- __MASK_6_7__
-	- __MASK_6_8__
-	- __MASK_6_9__
+- **[[Advanced Investments]]**
+	- [[Advanced Investments]]
+	- [[An Asset Allocation Primer]]
+	- [[Lecture 1- Probability Distributions of Returns]]
+	- [[Lecture 2- Asset Allocation with Multiple Risky Assets]]
+	- [[Lecture 3- Dynamics of Returns]]
+	- [[Lecture 4- Investor Sentiment]]
+	- [[Lecture 5- Dynamic Portfolio Choice]]
+	- [[Lecture 6-Leverage, Tail Risk, Volatility Products]]
+	- [[Lecture 7-Risk and Return of Bonds]]
+	- [[Lecture 8- Inflation & Sovereign Default Risk]]
 
 %% End Waypoint %%
 

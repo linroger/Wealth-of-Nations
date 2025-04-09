@@ -1,0 +1,33 @@
+# 19.2 NAKED AND COVERED POSITIONS  
+
+One strategy open to the financial institution is to do nothing. This is sometimes referred to as a naked position. It is a strategy that works well if the stock price is below $\$50$ at the end of the 20 weeks. The option then costs the financial institution nothing and it makes. a profit of $\$300,000$ . A naked position works less well if the call is exercised because the financial institution then has to buy 100,o00 shares at the market price prevailing in 20 weeks to cover the call. The cost to the financial institution is 100,000 times the amount by which the stock price exceeds the strike price. For example, if after 20 weeks the stock price is $\$60$ , the option costs the financial institution $\$1,000,000$ . This is considerably greater than the $\$300,000$ charged for the option.  
+
+As an alternative to a naked position, the financial institution can adopt a covered. position. This involves buying 100,o00 shares as soon as the option has been sold. If the option is exercised, this strategy works well, but in other circumstances it could lead to a. significant loss. For example, if the stock price drops to $\$40$ , the financial institution. loses $\$900,000$ on its stock position. This is also considerably greater than the $\$300,000$ charged for the option.  
+
+Neither a naked position nor a covered position provides a good hedge. If the. assumptions underlying the Black-Scholes-Merton formula hold, the cost to the financial institution should always be. $\$240,000$ on average for both approaches.4 But. on any one occasion the cost is liable to range from zero to over $\$1,000,000$ .A good hedge would ensure that the cost is always close to. $\$240,000$  
+
+# A Stop-Loss Strategy  
+
+One interesting hedging procedure that is sometimes proposed involves a stop-loss. strategy. To illustrate the basic idea, consider an institution that has written a call option. with strike price $K$ to buy one unit of a stock. The hedging procedure involves buying one. unit of the stock as soon as its price rises above. $K$ and selling it as soon as its price falls below $K$ The objective is to hold a naked position whenever the stock price is less than $K$ and a covered position whenever the stock price is greater than. $K$ . The procedure is designed to ensure that at time $T$ the institution owns the stock if the option closes in the. money and does not own it if the option closes out of the money. In the situation illustrated in Figure 19.1, it involves buying the stock at time. $t_{1}$ , selling it at time $t_{2}$ buying it at time $t_{3}$ , selling it at time $t_{4}$ , buying it at time $t_{5}$ , and delivering it at time $T$  
+
+![](images/ce5097ce640884a2466a5e562fe700236bee74d9b01fbdf26c661ed735d63fd0.jpg)  
+Figure 19.1 A stop-loss strategy.  
+
+As usual, we denote the initial stock price by $S_{0}$ . The cost of setting up the hedge initially is $S_{0}$ if $S_{0}>K$ and zero otherwise. It seems as though the total cost, $Q$ , of writing and hedging the option is the option's initial intrinsic value:  
+
+$$
+Q=\operatorname*{max}(S_{0}-K,0)
+$$  
+
+This is because all purchases and sales subsequent to time 0 are made at price $K$ If this were in fact correct, the hedging procedure would work perfectly in the absence of transaction costs. Furthermore, the cost of hedging the option would always be less than its Black-Scholes-Merton price. Thus, a trader could earn riskless profits by writing options and hedging them.  
+
+There are two key reasons why equation (19.1) is incorrect. The first is that the cash fows to the hedger occur at different times and must be discounted. The second is that purchases and sales cannot be made at exactly the same price. $K.$ This second point is critical. If we assume a risk-neutral world with zero interest rates, we can justify. ignoring the time value of money. But we cannot legitimately assume that both purchases and sales are made at the same price. If markets are efficient, the hedger cannot know whether, when the stock price equals. $K$ , it will continue above or below. $K$  
+
+As a practical matter, purchases must be made at a price $K+\epsilon$ and sales must be made at a price $K-\epsilon$ , for some small positive number. $\epsilon$ . Thus, every purchase and. subsequent sale involves a cost (apart from transaction costs) of. $2\epsilon$ . A natural response on the part of the hedger is to monitor price movements more closely, so that. $\epsilon$ is reduced. Assuming that stock prices change continuously,. $\epsilon$ can be made arbitrarily small by monitoring the stock prices closely. But as $\epsilon$ is made smaller, trades tend to. occur more frequently. Thus, the lower cost per trade is offset by the increased frequency of trading. As $\epsilon\to0$ , the expected number of trades tends to infinity.5.  
+
+Table 19.1 Performance of stop-loss strategy. The performance measure is the ratio of the standard deviation of the cost of writing the option and hedging it to the theoretical price of the option.   
+
+
+<html><body><table><tr><td>t (weeks)</td><td>5</td><td>4</td><td>2</td><td>1</td><td>0.5</td><td>0.25</td></tr><tr><td>Hedge performance</td><td>0.98</td><td>0.93</td><td>0.83</td><td>0.79</td><td>0.77</td><td>0.76</td></tr></table></body></html>  
+
+A stop-loss strategy, although superficially attractive, does not work particularly well. as a hedging procedure. Consider its use for an out-of-the-money option. If the stock. price never reaches the strike price $K$ , the hedging procedure costs nothing. If the path of the stock price crosses the strike price level many times, the procedure is quite expensive. Monte Carlo simulation can be used to assess the overall performance of stop-loss hedging. This involves randomly sampling paths for the stock price and observing the. results of using the procedure. Table 19.1 shows the results for the option considered in Section 19.1. It assumes that the stock price is observed at the end of time intervals of length $\Delta t$ 6 The hedge performance measure in Table 19.1 is the ratio of the standard deviation of the cost of hedging the option to the Black-Scholes-Merton price. (The cost of hedging was calculated as the cumulative cost excluding the impact of interest payments and discounting.) Each result is based on one million sample paths for the. stock price. An effective hedging scheme should have a hedge performance measure close to zero. In this case, it seems to stay above 0.7 regardless of how small $\Delta t$ is. This emphasizes that the stop-loss strategy is not a good hedging procedure.  

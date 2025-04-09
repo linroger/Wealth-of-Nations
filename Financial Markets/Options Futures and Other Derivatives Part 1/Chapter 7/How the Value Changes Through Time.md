@@ -1,0 +1,10 @@
+# 7.7 HOW THE VALUE CHANGES THROUGH TIME  
+
+The fixed rate in an interest rate swap is chosen so that the swap is worth zero initially. This does not mean that each cash flow exchange in the swap is worth zero initially. Instead, it means that the sum of the values of the cash flow exchanges is zero. Figure 7.9 shows two alternative situations in swap where there are ten cash-flow exchanges.  
+
+Figure $7.9\mathrm{a}$ would arise in the situation where the term structure of interest rates is upward sloping and a fixed rate of interest is being received while the floating rate is paid. The upward-sloping term structure produces forward rates that increase with maturity. As a result the value of the exchanges decreases with maturity. Because the sum of the exchanges is zero, it follows that the early exchanges must have a positive. value while the later ones have a negative value. If the term structure of rates is upward sloping and the fixed rate is being paid while the floating rate is received, a. similar argument shows that the early exchanges will have a negative value while the. later exchanges have a positive value. This is the situation in Figure 7.9b. When the term structure is downward sloping, the position is reversed, so that Figure. $7.9\mathrm{a}$ shows the situation where the fixed rate is paid and Figure $7.9\mathbf{b}$ where the fixed rate is received.  
+
+These results can be used to determine whether the swap is expected to have a positive or negative value in the future. In Figure $7.9\mathrm{a}$ the value of the swap is expected to become negative with the passage of time because the early positive-value exchanges will have been made. Similarly, in Figure 7.9b the value of the swap is expected to become positive with the passage of time because the early negative-value exchanges will have been made.6  
+
+![](images/9a0c6e23b1036b684ad915209ec5e30d2f5b784d8d220b5b58014089f9d37221.jpg)  
+Figure 7.9 Two possible patterns for the value of the cash-flow exchanges in an interest rate swap.  
