@@ -14,9 +14,16 @@ title: Financial Engineering
 	- [[8. Credit Modeling and Credit Derivatives]]
 	- [[9. Introduction to Real Options]]
 	- [[10. Other Topics in Quantitative Finance]]
+	- [[A Guide to Duration DV01 and Yield Curve]]
+	- [[A Practical Guide to Bonds and Swaps]]
+	- [[A Primer on Currency Derivatives]]
+	- [[A Primer on Structured Finance]]
+	- [[Advanced Derivatives Pricing Methodology]]
+	- [[An Introduction to Equity Markets]]
 	- **[[Appendices]]**
 	- [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma]]
 	- [[Financial Engineering]]
+	- [[Financial Mathematics Course]]
 	- **[[Fixed Income Derivatives]]**
 		- [[A Primer on Probability Theory and Stochastic  Modelling]]
 		- [[An Introduction to Credit Risk Modelling]]
@@ -42,5 +49,6 @@ title: Financial Engineering
 		- [[The Impact of Option Strategies in Financial  Portfolios Performance]]
 		- [[Uncertain Volatility with Static Hedge]]
 		- [[Zero-coupon convertible bonds]]
+	- [[Variance Swaps]]
 
 %% End Waypoint %%
