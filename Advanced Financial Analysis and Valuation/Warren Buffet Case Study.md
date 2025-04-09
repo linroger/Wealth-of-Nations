@@ -125,11 +125,11 @@ Conventional thinking held that it would be difficult for Warren Buffett to main
 
 Or did Buffett pay a fair price for a great business? If so, what determines a fair price? What makes a great. business? And why would Berkshire Hathaway be interested in buying PCP? Why would PCP be interested in selling itself to Berkshire Hathaway? What value did Berkshire Hathaway bring to the equation?.  
 
-![](images/088ea87bf2afa3a2c76c32da6b7ce1dbd3f8c09c51c351e2708b3878c8acbdb7.jpg)  
+![](088ea87bf2afa3a2c76c32da6b7ce1dbd3f8c09c51c351e2708b3878c8acbdb7.jpg)  
 
 <html><body><table><tr><td colspan="3">2012 134,810 27,690 5,450 2011</td><td>31,360 3,250 34,430 5,630</td><td rowspan="9">22,240 20,620 Incomebeforeincometaxexpense Incomefromoperations Net interest expense Operating expenses Incometaxexpense</td><td rowspan="9">$10,075 (In millions, except per share data, unless otherwise Consolidated net income BalanceSheet</td><td rowspan="9">2014 $107,900 137,200 8,430 8,430</td><td rowspan="9">9,780 Net property, plant and equipment Deferred taxassets Current assets Otherassets Totalassets specified) Assets:</td><td rowspan="9">281,070 $534,600 271,270 $493,400 229,320 $437,200 Other long-term liabilities Deferred tax liabilities</td><td rowspan="9">$48,510 70,370 71,930 100,790 291,600 $44,470 65,870 65,590 92,970 268,900 $47,290 53,670 50,810 93,830 245,600</td></tr><tr><td>2014 $194,700 163,340 2013 $182,200 147,770</td><td>28,110 7,940 $20,170 28,800 8,950</td></tr><tr><td>$19,850 2013 $91,500 122,200</td></tr><tr><td></td></tr><tr><td>6,920 $15,310 2012 $91,200 106,900</td></tr><tr><td>$162,500 $143,700 123,080 5,310 15,310 4,570 2011</td></tr><tr><td>$79,220 100,400 10,540 213,040 $403,200 $34,200 47,650 58,890 93,460</td></tr><tr><td>Liabilities & Shareholder Equity:</td></tr><tr></table></body></html>  
 
-![](images/614ddfa7075823d3a7c16daff87b76bca7c70069da04750beef3cc5963eb6e4d.jpg)  
+![](614ddfa7075823d3a7c16daff87b76bca7c70069da04750beef3cc5963eb6e4d.jpg)  
 
 <html><body><table><tr><td>S&P500</td><td>13.8%</td><td>2.6%</td><td></td><td>8.0%</td></tr><tr><td>BRK.A</td><td>12.8%</td><td></td><td>9.5%</td><td>22.8%</td></tr><tr><td></td><td>5 Years Annualized</td><td></td><td>15 Years Annualized</td><td>39 Years Annualized</td></tr></table></body></html>  
 

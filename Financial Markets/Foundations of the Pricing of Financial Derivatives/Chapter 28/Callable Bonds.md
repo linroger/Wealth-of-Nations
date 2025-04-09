@@ -30,7 +30,7 @@ $$
 {\begin{array}{l l}{{\mathord{\it{c C B}}}(1,1.25,4,0.05)^{+-}=\operatorname*{min}\left\{\left[0.5(1.0071)+0.5(1.025)\right]0.9226+0.05,1.025\right\}=0.98}\ {{\mathord{\it{c C B}}}(1,1.25,4,0.05)^{--}=\operatorname*{min}\left\{\left[0.5(1.0250)+0.5(1.025)\right]0.9507+0.05,1.025\right\}=1.02}\end{array}}
 $$
 
-![](images/44941448d2a3ddb15ab8368767434c856310c7851b96b46b52737bf71e8fa34f.jpg)
+![](44941448d2a3ddb15ab8368767434c856310c7851b96b46b52737bf71e8fa34f.jpg)
 FIGURE 28.6 Binomial Tree of Noncallable and Callable Bond Prices
 
 So clearly it would not be called at time 2. We would then step back to time 1 and apply the same procedure, and we would obtain callable bond prices of 0.9303 and 1.0048, and of course, the bond would not be called at time 1. At time 0, the bond is not callable at all and the callable bond price would be 0.9039, which is lower than the price of the bond if it were not callable, 0.9066. The lower price compensates the buyer for the risk of having it called. That risk is realized when the bond is called, the bondholder is paid back the principal, and then has to invest it elsewhere in a lower interest rate environment. The full tree is presented in Figure 28.6.

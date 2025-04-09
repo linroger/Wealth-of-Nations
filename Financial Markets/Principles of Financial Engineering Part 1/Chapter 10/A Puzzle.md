@@ -2,7 +2,7 @@
 
 Here is a puzzle. Consider the yield curve shown in Figure 10.1. The 10-year zero-coupon bond has a yield to maturity that equals $5.2\%$ . The 30-year zero, however, has a yield to maturity of just $4.94\%$ . In other words, if we buy and hold the latter bond 20 more years, we would receive a lower yield during its lifetime.  
 
-![](images/4ab3c5c74ba206c34ea744b395d59f7c6d7e7a92aaa697fabc19de5182a1d65e.jpg)  
+![](4ab3c5c74ba206c34ea744b395d59f7c6d7e7a92aaa697fabc19de5182a1d65e.jpg)  
 
 # FIGURE 10.1  
 

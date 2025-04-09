@@ -2,7 +2,7 @@
 
 Since the bulk of the credit derivatives business is in individual name CDSs, and for each name multiple maturity CDSs trade at the same time, calibrating marginal default probability distributions and simple univariate default models - like those in Chapter 7 - is quite easy. However, the individual CDSs contain no information about the default correlation structure. among different names. These have to be extracted from basket structures or CDOs. The main problem in modeling default correlation is the simple fact that, in mathematical statistics, very few distributions generalize easily from univariate to multivariate functions. While the multivariate normal distribution consists of correlated marginal univariate normals, the same.  
 
-![](images/76618f315002d5374a776c57dafcffc8c17fb15af352a8342f6bb527e1fbf0b0.jpg)  
+![](76618f315002d5374a776c57dafcffc8c17fb15af352a8342f6bb527e1fbf0b0.jpg)  
 Figure 10.6 Hedging a long position in the first-to-default basket  
 
 is not generally true of other distributions with non-independent marginals or transforms of known distributions. Defaults are binary events that are most naturally handled with Poisson or Gamma processes, not continuous normals. The main way of dealing with the problem of generalizing univariates to correlated multivariates is through the use of copula functions.  

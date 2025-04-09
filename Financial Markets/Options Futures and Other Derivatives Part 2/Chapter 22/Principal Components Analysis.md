@@ -20,7 +20,7 @@ Table 22.10 Standard deviation of factor scores (basis points).
 
 <html><body><table><tr><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td><td>PC5</td><td>PC6</td><td>PC7</td><td>PC8</td></tr><tr><td>11.54</td><td>3.55</td><td>1.78</td><td>1.25</td><td>0.91</td><td>0.69</td><td>0.62</td><td>0.57</td></tr></table></body></html>  
 
-![](images/9276a2feeee78f1fcc71070f8808402941a13b11ee81b17570639d97c72c4b18.jpg)  
+![](9276a2feeee78f1fcc71070f8808402941a13b11ee81b17570639d97c72c4b18.jpg)  
 Figure 22.6 The three most important factors driving movements in U.S. Treasury rates.  
 
 $$
@@ -140,7 +140,7 @@ Rich, D. "Second Generation VaR and Risk-Adjusted Return on Capital," Journal of
 
 22.20. Use equation (22.1) to show that when the loss distribution is normal, VaR with $99\%$ confidence is almost exactly the same as ES with $97.5\%$ confidence.  
 
-![](images/64a20f671099ce8c1a8846eb9b1f02fd1e58e81a8c5315aa2a22f081797dd721.jpg)  
+![](64a20f671099ce8c1a8846eb9b1f02fd1e58e81a8c5315aa2a22f081797dd721.jpg)  
 
 # Estimating Volatilities and Correlations  
 

@@ -110,7 +110,7 @@ The difference between the interest rates on 3-month Treasury Bills (T-Bills) an
 
 The TED spread average from 1986 to 2014 is around 62 bps.31 On October 10, 2008, the TED spread reached 458 bps as liquidity in the interbank lending market dried up and lenders' perception of the default on interbank loans (counterparty risk) spiked. This reading eclipsed the level of 278 bps reached on October 28, 1987. Figure 3.17 plots the TED spread against the 3-month USD LIBOR and T-BILL rates from January 2, 1986 until April 17, 2014.  
 
-![](images/ad2b3170e12a25c5461f9733b4a6656e0ac8a8eac7b674f6c888083f30acac8b.jpg)  
+![](ad2b3170e12a25c5461f9733b4a6656e0ac8a8eac7b674f6c888083f30acac8b.jpg)  
 
 # FIGURE 3.17  
 

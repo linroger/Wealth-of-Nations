@@ -8,7 +8,7 @@ Bonds that do not contain options are easy to analyze and value. They typically 
 
 Jack lends money to the ABC Company by buying a 4-year. $\$1,000$ face value zero-coupon bond. Let us suppose the interest rate (called the yield-to-maturity) Jack is going to earn is  
 
-![](images/a40e9f6a293d21c6832128ed6543aab42757126308043fc1806448cf32aa02ee.jpg)  
+![](a40e9f6a293d21c6832128ed6543aab42757126308043fc1806448cf32aa02ee.jpg)  
 Figure 2.1 A 4-year zero-coupon bond  
 
 $5\%$ . Figure 2.1 illustrates how we can value the bond by discounting the cash flow back through time.  
@@ -29,7 +29,7 @@ $$
 P_{0}=\frac{100}{(1+r)^{n}}
 $$  
 
-![](images/b446ca79284327ba9c2c9f46ef248753365765d663d75f02e887c4f3944d5e9a.jpg)  
+![](b446ca79284327ba9c2c9f46ef248753365765d663d75f02e887c4f3944d5e9a.jpg)  
 Figure 2.2 A $\$1,035,46$ zero-coupon loan earning $5\%$  
 
 where $r$ is the interest rate and. $n$ is the number of years. The spot discount factor (df) is defined as:  
@@ -50,7 +50,7 @@ $$
 
 Instead of going back in time step-by-step to discount and cumulate cash flows, we can value the coupon bond as the sum of its parts. The coupon bond is a package of four zero-coupon bonds with face values of $\$60,4560,78$ and $\$1,060$ and maturities 1, 2, 3, and 4 years, respectively. We do this by multiplying each coupon cash flow (face value of the component zero-coupon bond) by its appropriate discount factor. This factorization is illustrated in Figure 2.4.  
 
-![](images/db4beb28d94b7a26f77713930a7ea0defc6bd94efcbdd6be54a97764bb20534f.jpg)  
+![](db4beb28d94b7a26f77713930a7ea0defc6bd94efcbdd6be54a97764bb20534f.jpg)  
 Figure 2.3 A4-year $6\%$ coupon bond yielding $5\%$ : backward sweep  
 
 $$
@@ -69,7 +69,7 @@ $$
 d f_{n-1,n}=\frac{1}{(1+r_{n-1,n})}
 $$  
 
-![](images/88560852533d55790ec2d4e5717538f9a2cb7353ceb7287ceb49153f3200c33c.jpg)  
+![](88560852533d55790ec2d4e5717538f9a2cb7353ceb7287ceb49153f3200c33c.jpg)  
 Figure 2.4  A 4-year $6\%$ coupon bond yielding $5\%$ : sum of the parts.  
 
 or all at once by today's (spot) discount factors  
@@ -86,7 +86,7 @@ One has to be a bit more careful, but the two methods are still identical when i
 
 An amortizing bond is also a multicash flow bond. Unlike the coupon bond which has an equal stream of coupon interest plus a one-time cash flow representing the return of par, the amortizing bond has a stream of equal cash flows, all of which can be thought of as partly coupon interest (on the remaining balance of the loan) and partly principal repayment. This distinction is somewhat artificial since the coupon interest of the coupon bond is generally not. the same as the interest rate earned on the amount invested in the bond. The real difference between the coupon bond and the amortizing bond is the pattern of cash flows. The amortizing.  
 
-![](images/59f713d45dee8bbe976bddcb48b1fb83a08abbaffed473ad5de6e130e87de7ae.jpg)  
+![](59f713d45dee8bbe976bddcb48b1fb83a08abbaffed473ad5de6e130e87de7ae.jpg)  
 Figure 2.5 A 4-year amortizing loan yielding $5\%$ : sum of the parts  
 
 bond's cash flows are all identical, and there is no large "balloon" payment at maturity.  
@@ -103,7 +103,7 @@ financed with a 4-year installment loan at. $5\%$ .) We value it using the sum-o
 
 The last type of bond, the floating rate bond, is also a multiple-cash flow bond. Similarly to. the coupon bond, it has a stream of coupon cash flows and a large balloon cash flow equal to the par value at maturity. However, the coupon cash flows are not known up front, but are set one period in advance: next coupon payment is set today, the coupon paid 2 years from today is set 1 year from today, the coupon paid 3 years from today is set 2 years from today, etc. The. idea is to reset the interest rate, as on a revolving loan, to a new "fair' rate each year, rather than holding it constant throughout of the life of the bond..  
 
-![](images/00ea206c43f976c6dc9ed8fede7472153f26e8af53ee5165c02e9b8da5614c9a.jpg)  
+![](00ea206c43f976c6dc9ed8fede7472153f26e8af53ee5165c02e9b8da5614c9a.jpg)  
 Figure 2.6 A 4-year floating-rate bond: always worth par  
 
 Since the cash flows are not known in advance (we use a tilde to denote a quantity unknown today), it may appear that the floating rate bond is impossible to value. In fact, as long as the. rates set each year are flat without a margin (i.e. LIBOR plus zero), the floating rate bond is. easy to value using the backward sweep method..  

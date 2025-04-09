@@ -20,7 +20,7 @@ At each node: Upper value $=$ Underlying Asset Price Lower value $=$ Option Pric
 
 Strike price $=0.795$ Discount factor per step $=0.9851$ Time step, $\mathsf{d t}=0.2500$ years, 91.25 days  
 
-![](images/9b613e56b67c5fb924e1f1130d5f9c83951617665361e0259d501a34dcfb33a1.jpg)  
+![](9b613e56b67c5fb924e1f1130d5f9c83951617665361e0259d501a34dcfb33a1.jpg)  
 
 $T=0.75$ Using the alternative tree-building procedure, we set $\Delta t=0.25$ (3 steps) and the probabilities on each branch to 0.5, so that  
 
@@ -44,7 +44,7 @@ $$
 
 Calculations for a trinomial tree are analogous to those for a binomial tree. We work from the end of the tree to the beginning. At each node we calculate the value of.  
 
-![](images/b79aff022801bf7e7cbf35a0bcfff5850f2e8f6f3078479d1b5b61725edf1b76.jpg)  
+![](b79aff022801bf7e7cbf35a0bcfff5850f2e8f6f3078479d1b5b61725edf1b76.jpg)  
 Figure 21.12 Trinomial stock price tree.  
 
 exercising and the value of continuing. The value of continuing is  

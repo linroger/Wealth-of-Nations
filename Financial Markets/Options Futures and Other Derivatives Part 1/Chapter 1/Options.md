@@ -24,7 +24,7 @@ In our example, the trader has obtained at a cost of. $\$2,030$ the right to buy
 
 An alternative trade would be to sell one September put option contract with a strike. price of $\$290$ at the bid price of $\$12.70$ . The trader receives. $100\times12.70=\$1,270.$ If the Apple stock price stays above. $\$290$ , the option is not exercised and the trader makes a. $\$1,270$ profit. However, if stock price falls and the option is exercised when the stock price is $\$250$ , there is a loss. The trader must buy 100 shares at. $\$290$ when they are worth. only $\$250$ . This leads to a loss of. $\$4,000$ , or $\$2,730$ when the initial amount received for the option contract is taken into account.  
 
-![](images/4d3b569792ff60f71d14062fb9a2f2ce3ca49314bac34d25141cd12c651df638.jpg)  
+![](4d3b569792ff60f71d14062fb9a2f2ce3ca49314bac34d25141cd12c651df638.jpg)  
 Figure 1.3 Net profit from (a) purchasing a contract consisting of 100 Apple December call options with a strike price of $\$340$ and (b) selling a contract consisting of 100 Apple September put options with a strike price of $\$290$  
 
 The stock options trading on the CBOE are American. If we assume for simplicity that they are European, so that they can be exercised only at maturity, the trader's profit. as a function of the final stock price for the two trades we have considered is shown in Figure 1.3.  

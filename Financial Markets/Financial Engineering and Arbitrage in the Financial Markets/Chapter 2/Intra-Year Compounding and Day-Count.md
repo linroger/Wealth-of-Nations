@@ -17,7 +17,7 @@ $$
 
 At the end of 12 months, Jack will receive his. $\$1,000$ back and $\$50.95$ in interest. A $5.095\%$ annually compounded interest rate is economically equivalent to a $5.00\%$ quarterly compounded interest rate. In US consumer finance and retail banking, the $5.095\%$ annual rate is often referred to as APY or annual percentage yield. $(\%\mathrm{APY})$ , while the $5.00\%$ quarterly rate is referred to as APR or the annual percentage rate ( $\%$ APR), with annual (a) or quarterly.  
 
-![](images/1b095f3f41c3e948b8a0905cf4e6db3862b3adea2c4021d6aa66ab55a0d3d649.jpg)  
+![](1b095f3f41c3e948b8a0905cf4e6db3862b3adea2c4021d6aa66ab55a0d3d649.jpg)  
 Figure 2.7A $5\%$ quarterly compounded rate over 1 year  
 
 (q) added after the rate. The two interest rates ( $\%{\mathbf a}$ and $\%{\bf q}$ ) are just different measuring units for interest in the way that miles (m) and kilometers (km) are used for distance. In general, the conversion formula for any non-annual compounded rate into annual is:.  
@@ -48,13 +48,13 @@ Interest compounding is actually even more complicated, partly because the calen
 
 Suppose that, on September 30, 2013, ABC issues a $6\%$ semi-annual coupon $\$1,000$ face value bond maturing on September 30, 2015. Coupon accrual periods are October 1 through March 31 and April 1 through September 30. In Figure 2.9 we review three commonly used conventions: 30/360, Actual/Actual (similar to Actual/365), and Actual/360. The word Actual is usually abbreviated to Act.  
 
-![](images/7f82fad43cecb572eb2625ac4b57385999d10a41a0097064d082ab0bef57550a.jpg)  
+![](7f82fad43cecb572eb2625ac4b57385999d10a41a0097064d082ab0bef57550a.jpg)  
 Figure 2.8A 4-year $6\%$ semi-annual coupon bond yielding $5\%$ : sum of the parts  
 
-![](images/e32a0e8cd0f9fa63ff44d29c4d04a8e8a932ba068de75972ae80ca32b62284f2.jpg)  
+![](e32a0e8cd0f9fa63ff44d29c4d04a8e8a932ba068de75972ae80ca32b62284f2.jpg)  
 Figure 2.9 Day-count conventions  
 
-![](images/5b42f368e7a2504b91f0079a383b5274d7a8c06d18d75836b807ba674da13cab.jpg)  
+![](5b42f368e7a2504b91f0079a383b5274d7a8c06d18d75836b807ba674da13cab.jpg)  
 Figure 2.10 The Act/Act day-count convention  
 
 US corporate bonds follow the 30/360 convention, continental Europe bonds follow a. 30/360 convention modified by how month ends are treated, UK gilts follow Act/365, US. Treasuries follow Act/Act using half-years, and LIBOR money markets follow Act/360. In addition to day-count conventions, different markets may have different delays ranging from. zero to 3 (business) days between the end of the interest accrual period and the actual receipt of interest (and different countries have different holidays and thus business days!). The day-count convention can be followed by letters like m, mf, 2d, etc., to denote the rule on that. For example,. Eurodollar (LIBOR) deposits have a 2-business-day delay, using the UK holiday calendar.  
@@ -65,7 +65,7 @@ Not only the coupon accrual, but also discounting has to be modified to follow t
 
 Except by coincidence, bonds are usually purchased between coupon dates. Once the ownership of the bond is transferred, the new owner will receive the full coupon on the next coupon payment date. Yet he will have held the bond only for the fraction of the full coupon period. from the purchase date till the next coupon date. The new buyer reimburses the current one for the portion of the coupon interest accrued from the last coupon date to the date of the purchase. This reimbursement is done "in advance" at the time of the purchase of the bond through the. payment of the accrued interest on top of the quoted price of the bond. The invoice or dirty. price of the bond is equal to the clean price of the bond plus the accrued interest. The clean price is just the present value of the coupons and principal. Bonds are thus quoted clean but settled dirty.  
 
-![](images/a27a32f5f6d88b3705f9f3f0909db3c0f65ae5d7f17768413b44eee9a6465cd7.jpg)  
+![](a27a32f5f6d88b3705f9f3f0909db3c0f65ae5d7f17768413b44eee9a6465cd7.jpg)  
 Figure 2.11Accrued interest  
 
 The calculation of the accrued interest observes the day-count convention of the bond and involves prorating the current coupon between the coupon already accrued (due the current owner) and the coupon to be accrued (due the new owner). Suppose, on December 7, 2013, Jack purchases from Jill the $6\%$ Act/Act semi-annual coupon September 2015 bond issued by ABC Company. In addition to the clean price, Jack will have to pay Jill the accrued interest for the September 30-December 7, 2013, period. The calculation is illustrated in Figure 2.11.  

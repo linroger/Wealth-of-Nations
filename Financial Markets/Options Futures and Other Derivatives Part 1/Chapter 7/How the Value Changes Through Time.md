@@ -6,5 +6,5 @@ Figure $7.9\mathrm{a}$ would arise in the situation where the term structure of 
 
 These results can be used to determine whether the swap is expected to have a positive or negative value in the future. In Figure $7.9\mathrm{a}$ the value of the swap is expected to become negative with the passage of time because the early positive-value exchanges will have been made. Similarly, in Figure 7.9b the value of the swap is expected to become positive with the passage of time because the early negative-value exchanges will have been made.6  
 
-![](images/9a0c6e23b1036b684ad915209ec5e30d2f5b784d8d220b5b58014089f9d37221.jpg)  
+![](9a0c6e23b1036b684ad915209ec5e30d2f5b784d8d220b5b58014089f9d37221.jpg)  
 Figure 7.9 Two possible patterns for the value of the cash-flow exchanges in an interest rate swap.  

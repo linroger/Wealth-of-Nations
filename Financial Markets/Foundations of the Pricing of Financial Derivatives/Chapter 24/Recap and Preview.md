@@ -34,7 +34,7 @@ Much of the study of the term structure is about understanding what that forward
 
 Almost anyone who has studied the term structure of interest rates, perhaps through a course in fixed income markets, is familiar with the unbiased expectations hypothesis (UEH),3 which proposes that the forward rate is an unbiased predictor of the future spot rate. Thus, the forward rate is seen as the expected spot rate. The question of whether the
 
-![](images/4096044864612219b141f771328d558d50c44eb2bc32ae1f58d1e215c16b5014.jpg)
+![](4096044864612219b141f771328d558d50c44eb2bc32ae1f58d1e215c16b5014.jpg)
 FIGURE 25.1Term Structure of Interest Rates Illustration
 
 UEH is true has occupied a central place in research in our body of understanding of the. term structure, in particular in empirical research. There is no clear consensus empirically, but in fact it is a simple matter to prove that the unbiased expectations hypothesis cannot. be true theoretically and almost surely cannot be true in reality.4.

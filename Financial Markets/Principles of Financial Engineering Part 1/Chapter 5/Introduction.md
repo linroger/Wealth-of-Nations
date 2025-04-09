@@ -12,7 +12,7 @@ Below we will explore the details and different types of repos further. In the a
 
 # On the start date:  
 
-![](images/b9a47db89bf14a612f8ac3cd3f6a2b6bb32f7a582c03224ffb3521595ee9f91e.jpg)  
+![](b9a47db89bf14a612f8ac3cd3f6a2b6bb32f7a582c03224ffb3521595ee9f91e.jpg)  
 
 # FIGURE 5.1  
 

@@ -9,7 +9,7 @@ In the traditional textbook approach, options are introduced as directional inst
 
 This chapter intends to show that an option exposure, when fully put in place, is an impure position on the way volatility is expected to change. A market maker with a net long position in options is someone who is "expecting" the volatility to increase. A market maker who is short the option is someone who thinks that the volatility of the underlying is going to decrease. Sometimes such positions are taken as funding vehicles.  
 
-![](images/c6959350a48c721ab5bc4856db7a94d24ceaebe5aa2256c6c9aecbf32b3d78ff.jpg)  
+![](c6959350a48c721ab5bc4856db7a94d24ceaebe5aa2256c6c9aecbf32b3d78ff.jpg)  
 
 # FIGURE 9.1  
 

@@ -257,7 +257,7 @@ To keep the issue as simple as possible, we continue with the basic model in Eq.
 
 Altogether, it is important to realize that during the following discussion we are working with a very simple example involving only four time periods, $t_{0},t_{1},t_{2}$ and $t_{3}$ . We start with the arbitrage-free  
 
-![](images/974b98282b49d5ac26647c0312c5dfdbdd29a3c8497b8e3358913fa4c0e3fc47.jpg)  
+![](974b98282b49d5ac26647c0312c5dfdbdd29a3c8497b8e3358913fa4c0e3fc47.jpg)  
 
 # FIGURE 14.4  
 

@@ -18,7 +18,7 @@ $$
 e^{r\Delta t}(u+d)-u d-e^{2r\Delta t}=\sigma^{2}\Delta t
 $$  
 
-![](images/66262210d002192e3d453c2b7f5e0670a25d7fb3f6289ebb055a672f26af8c54.jpg)  
+![](66262210d002192e3d453c2b7f5e0670a25d7fb3f6289ebb055a672f26af8c54.jpg)  
 Figure 13.9 Change in stock price in time $\Delta t$ in (a) the real world and (b) the risk.. neutral world..  
 
 When terms in $\Delta t^{2}$ and higher powers of. $\Delta t$ are ignored, a solution to equation (13.13) is2  

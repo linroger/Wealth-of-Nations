@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
+                "file": "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,58 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How Countries Go Broke-Chapter Four & Chapter Five"
-            }
-          },
-          {
-            "id": "6e95f92153345b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "An Enhanced Method for Estimating Delta and Gam"
-            }
-          },
-          {
-            "id": "73e0ae9f977fc484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arbitrage-Free Dynamics"
+              "title": "1. Exploiting an Apparent Arbitrage Opportunity"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,11 +281,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "907f0640e075ca09",
+  "active": "34c1ecfe6365b698",
   "lastOpenFiles": [
-    "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
+    "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
+    "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Theory Meets Data - Asset Pricing Puzzles.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
@@ -364,8 +319,6 @@
     "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
     "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/Chapter 2.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",

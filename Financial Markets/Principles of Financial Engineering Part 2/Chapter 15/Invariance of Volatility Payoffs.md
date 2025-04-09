@@ -16,7 +16,7 @@ Variance (volatility) swaps, on the other hand, are pure volatility positions. P
 
 In financial markets, a volatility position is often interpreted to be a static position taken by buying. and selling straddles, or a dynamically maintained position that uses straddles or options. As  
 
-![](images/0c1513dc5534d4a84d2b7eafe9d6ee378cbfe1ade63a5693475ef3fd108ca7d6.jpg)  
+![](0c1513dc5534d4a84d2b7eafe9d6ee378cbfe1ade63a5693475ef3fd108ca7d6.jpg)  
 
 # FIGURE 15.1  
 
@@ -65,7 +65,7 @@ Initially we let $t_{0}=0$
 100 calls at time $t_{0}$ with funding cost $r=0$   
 4. Next, the position is delta-hedged by short-selling. $C_{s}$ units of the underlying per call to obtain. the familiar exposure shown in Figure 15.2.  
 
-![](images/57a7b0480024b3f74ab6094f0ef60c887751fc0005efd4994c4009fc659cfea2.jpg)  
+![](57a7b0480024b3f74ab6094f0ef60c887751fc0005efd4994c4009fc659cfea2.jpg)  
 
 # FIGURE 15.2  
 
@@ -138,7 +138,7 @@ $$
 
 Under the present conditions, we see that as long as $S_{t}$ remains in the vicinity of the strike $K$ the trader has some exposure to volatility changes. But as soon as $S_{t}$ leaves the neighborhood of $K$ this exposure drops sharply. The trader may think he or she has a (variance) volatility position, but, in fact, the position costs money, and may not have any significant variance exposure as the underlying changes right after the trade is put in place. Thus, such classical volatility positions are imperfect ways of putting on volatility trades or hedging volatility exposures.  
 
-![](images/6785e0aa035a11c760c69be7b774d0c279d64fda0459314e42da788e0c45a119.jpg)  
+![](6785e0aa035a11c760c69be7b774d0c279d64fda0459314e42da788e0c45a119.jpg)  
 
 # FIGURE 15.3  
 
@@ -156,7 +156,7 @@ If a dynamic delta-neutral option position loses its exposure to movements in. $
 
 A classic position that has volatility exposure is buying (selling) ATM straddles. Using the same numbers as above, Figure 15.4 shows the joint payoff of an ATM call and an ATM put struck at $K=100$ . This position is made of two plain vanilla options and may suffer from a similar defect. The following example discusses this in more detail.  
 
-![](images/31e2c8ff351038603298dad221642bcea7fb64a471228d083a23e18e6a87e2fc.jpg)  
+![](31e2c8ff351038603298dad221642bcea7fb64a471228d083a23e18e6a87e2fc.jpg)  
 
 # FIGURE 15.4  
 
@@ -200,7 +200,7 @@ $$
 
 As expected, this return is about twice as big as in the previous example. The straddle has more sensitivity to volatility changes. But, the option's responsiveness to volatility movements is again not constant, and depends on factors that are external to what happens to volatility. The table shows that if $S_{t}$ moves to 80, then even when the trader's expectation is justified and volatility moves from $20\%$ to $30\%$ , the position's mark-to-market gains will go down to about 0.56.  
 
-![](images/06b7f34621dda0d5b9d89e7a23d334acf3f7d7b43a53cf66c2802a323c90436d.jpg)  
+![](06b7f34621dda0d5b9d89e7a23d334acf3f7d7b43a53cf66c2802a323c90436d.jpg)  
 
 # FIGURE 15.5  
 

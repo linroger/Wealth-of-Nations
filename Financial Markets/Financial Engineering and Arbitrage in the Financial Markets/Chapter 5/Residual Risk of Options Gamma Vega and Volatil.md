@@ -6,10 +6,10 @@ What can go wrong is that the local and total volatility of the stock is greater
 
 The main assumption of delta hedging is that the range of possible stock price outcomes. considered is constrained by the assumed volatility of the stock. The volatility is the square root of the variance. The variance is the expected value of the squared deviations of the stock's return from the mean return over a given period. The Black-Scholes model requires volatility as an input. It then considers all the stock price paths that are within a certain range bounded by. the volatility. That is, the stock price movements, period-to-period and overall, are restricted to be less than a certain number. This can be portrayed graphically as all the paths within. an expanding cylinder of outcomes, with the greatest density of paths close to the center (see Figure 5.26). The edges of the cylinder are not binding, but the probability of outcomes outside, or far from the center, is minuscule. That is, we assume a bell-shaped normal curve for the path of stock returns.  
 
-![](images/a2dc22498ebc186dab5e20fa0c3943f6bdc2c983bb9d2c80dba622df6f4b0a80.jpg)  
+![](a2dc22498ebc186dab5e20fa0c3943f6bdc2c983bb9d2c80dba622df6f4b0a80.jpg)  
 Figure 5.26Stock price vs time  
 
-![](images/53fa6179d817f50649aa86060e9d4bae8a1f7345219e1d163bc66c06dcf00539.jpg)  
+![](53fa6179d817f50649aa86060e9d4bae8a1f7345219e1d163bc66c06dcf00539.jpg)  
 Figure 5.27Example 2b revisited - mishedge $\boldsymbol{C}=m a x(S-55,0))$  
 
 In the binomial set-up, the volatility translates directly to the width of the span of potential outcomes. Thus a $30\%$ annual volatility may translate into a 70-20 span as in Example 2b,. but a $40\%$ volatility may result in a wider span of 80-15 as in Example 2c..  
@@ -74,7 +74,7 @@ actual volatility and "mean reversion.' Short-term at-the-money options will req
 
 Consider another example of the computation of implied volatilities, as of October 15, 2003, this time for options all on the same underlying asset and all with the same expiry date.. Table 5.2 shows the implied volatilities on options on the S&P 500 index futures expiring.  
 
-![](images/1ad0cd23267f972c36e70240dd57fcf53ef48e408b5956ad99fe40ebc3cae288.jpg)  
+![](1ad0cd23267f972c36e70240dd57fcf53ef48e408b5956ad99fe40ebc3cae288.jpg)  
 Figure 5.28 S&P 500 implied volatility skew, December 18, 2003 Puts with strikes below 1,045; Calls with strikes above 1,045 Source: http://www.pmpublishing.com/volatility/sp.html#StandardDeviations  
 
 December 18, 2003. The table also shows the delta for each option sold, in units of futures contracts to be bought/shorted per one option, as well as its vega, in ticks (index points) per $1\%$ volatility change.  

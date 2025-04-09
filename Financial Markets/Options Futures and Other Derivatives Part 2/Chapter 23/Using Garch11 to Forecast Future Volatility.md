@@ -44,7 +44,7 @@ $$
 0.0001391+0.9714^{10}(0.0003-0.0001391)=0.0002594
 $$  
 
-![](images/dc645dc8f9e1545fdc6fffaaed47c0f8d5c6c8d9b1fb240387e6c03834364387.jpg)  
+![](dc645dc8f9e1545fdc6fffaaed47c0f8d5c6c8d9b1fb240387e6c03834364387.jpg)  
 Figure 23.3 Expected path for the variance rate when (a) current variance rate is above long-term variance rate and (b) current variance rate is below long-term variance rate.  
 
 The expected volatility per day is $1.61\%$ , still well above the long-term volatility of $1.18\%$ per day. However, the expected variance rate in 100 days is  

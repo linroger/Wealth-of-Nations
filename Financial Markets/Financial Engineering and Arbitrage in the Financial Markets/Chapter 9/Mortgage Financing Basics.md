@@ -41,7 +41,7 @@ $$
 C P R=1.75\times6\%=10.5\%
 $$  
 
-![](images/f6990e61df5bcafb909f1ae66c043bcbb204c386b498be5afe648256660738ce.jpg)  
+![](f6990e61df5bcafb909f1ae66c043bcbb204c386b498be5afe648256660738ce.jpg)  
 Figure 9.1 The PSA Curve.  
 
 We then de-annualize the CPR into the SMM following the monthly compounding rule:  

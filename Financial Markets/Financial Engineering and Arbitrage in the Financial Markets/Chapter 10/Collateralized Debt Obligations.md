@@ -19,7 +19,7 @@ Figure 10.1 shows an example of a static cash CDO in which $\$100$ million junk-
 
 If no defaults occur during the life of the CDO, then the $\$7,500,000$ annual coupon flow will cover the fees and the stated coupon rates of the different tranches: $5.5\%\times\%80$ million $=\$4.4$ million; $9.17\%\times\S15\mathrm{million}=\S1.375$ million; and $24.5\%\times\mathbb{\S}5\mathrm{million}=\mathbb{\S}1.225$ million. If all tranche holders purchase their certificates at par, then the senior tranche holders will make a return of $5.5\%$ , the mezzanine holders will make a return of $9.17\%$ , and the equity holders will make a return of $24.5\%$  
 
-![](images/d1abaf15d19ca39fc786edc62b13c59e42829b32394b73641f43b932def5739f.jpg)  
+![](d1abaf15d19ca39fc786edc62b13c59e42829b32394b73641f43b932def5739f.jpg)  
 Figure 10.1  A cash CDO  
 
 If the bonds held by the SPV begin to default, then the returns on the equity and mezzanine. tranches will be drastically different, while the senior tranche will enjoy a cushion of protection,. because initially all default losses will be allocated to the equity tranche. If more than. $\$5$ million bonds default, then the losses will start to be allocated to the mezzanine tranche. More than $20\%$ of the underlying collateral has to default before the senior tranche is affected..  
@@ -28,7 +28,7 @@ Let us consider a scenario where $\$2.5$ million bonds default in year 3 and ano
 
 Two important refinements are commonly found in cash CDO structures. First, there need not be only three tranches, as laid out in Figure 10.1. In fact, most CDOs created in the first decade of 2o00s had several investment-grade tranches, and the mezzanine and equity tranches were typically much thinner. Figure 10.2 illustrates how the same collateral could have been used to create five different tranches.  
 
-![](images/2de4808abcd4a8cecbbf84794d97324088d4b6bab121a295ed81ecafb8fc1919.jpg)  
+![](2de4808abcd4a8cecbbf84794d97324088d4b6bab121a295ed81ecafb8fc1919.jpg)  
 Figure 10.2 A cash CDO with multiple senior tranches  
 
 The second common feature is the layering of securitization. The most senior and the. mezzanine tranches could be put into new SPVs and then tranched even more finely. This. creates a more skewed default protection structure and can produce even more senior tranches. Figure 10.3 shows an example of a CDO of a CDO.  
@@ -41,14 +41,14 @@ For the senior AAA tranche holders of the high-grade CDO to suffer losses, the o
 
 The objectives of a cash CDO, i.e. spread compensation for bearing the risk of default of one credit or a basket of credits, can be replicated synthetically through the use of credit default swaps (CDSs) or basket credit swaps. The $2.0\%$ coupon differential between the $7.5\%$ weighted average coupon of the collateral minus the fees of. $0.5\%$ and the risk-free rate of. $5\%$ can be earned by the SPV by selling credit default protection to an unrelated third party. The $\$100$ million proceeds from selling the CDO certificates can be used to purchase risk-free Treasuries yielding $5\%$  
 
-![](images/33a1c960980ee8d9360bbc72a782e48f6ca69077b250b3dca3f0a197dbc722c1.jpg)  
+![](33a1c960980ee8d9360bbc72a782e48f6ca69077b250b3dca3f0a197dbc722c1.jpg)  
 Figure 10.3A CDO of a CDO  
 
 Let us suppose that, as in the previous example (Figures 10.1 to 10.3), the underlying collateral is a single $7.5\%$ 10-year bond issued by the XYZ Corporation. In Chapter 7 we. argued that the premium for the CDS on a corporate bond should be approximately equal to the difference between the corporate bond's yield and the yield of a comparable maturity Treasury bond. If the 10-year default-free rate is $5\%$ , then the XYZ bond can be insured by paying. $2.5\%$ per annum in exchange for par minus the recovery rate if, or when, the bond defaults.  
 
 Figure 10.4 shows how a synthetic CDO on the XYZ bond would work. Here the XYZ. bond serves as a reference collateral on a CDS sold by the SPV, rather than actual collateral being purchased by the SPV. The reference collateral is chosen by an asset selection agent (a credit analysis and sponsoring asset manager). The CDS is sold by the SPV to a third party, typically the sponsoring investment bank arranging the transaction. The SPV holds Treasuries. yielding $5\%$ and collects an additional $2.5\%$ in premiums on the CDS. The $\$7.5$ million cash  
 
-![](images/b9dff98c4127cfc9fbcfbbd960fc541ee737efaab3f107ffdc619b61b68e78af.jpg)  
+![](b9dff98c4127cfc9fbcfbbd960fc541ee737efaab3f107ffdc619b61b68e78af.jpg)  
 Figure 10.4A Synthetic CDO  
 
 flow is then tranched into the same classes of CDO certificates as in our cash CDO example.   

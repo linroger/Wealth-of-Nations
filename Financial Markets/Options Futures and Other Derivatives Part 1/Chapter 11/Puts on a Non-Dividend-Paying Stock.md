@@ -34,7 +34,7 @@ Because there are some circumstances when it is desirable to exercise an America
 
 Figure 11.7 shows the variation of the European put price with the stock price. Note that point B in Figure 11.7, at which the price of the option is equal to its intrinsic value, must represent a higher value of the stock price than point A in Figure 11.6. because the curve in Figure 11.7 is below that in Figure 11.6. Point E in Figure 11.7 is where $S_{0}=0$ and the European put price is $K e^{-r T}$  
 
-![](images/860cae9ca13b1fde3606b4bb0193c31bc9b24334da43c92b64883158f66093c4.jpg)  
+![](860cae9ca13b1fde3606b4bb0193c31bc9b24334da43c92b64883158f66093c4.jpg)  
 
-![](images/b47223ba3958e65a297105e944a71f2f401323f68efc8a9e1c2fafd6a4d20be4.jpg)  
+![](b47223ba3958e65a297105e944a71f2f401323f68efc8a9e1c2fafd6a4d20be4.jpg)  
 Figure 11.6 Variation of price of an American put option with stock price. Curve moves in the direction of the arrows when the time to maturity or stock price volatility. increases or when the interest rate decreases..  

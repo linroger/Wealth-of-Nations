@@ -16,7 +16,7 @@ Fourth, sovereign CDS are important credit risk management tools and sovereign C
 
 Dealer banks act as market makers and dominate the sovereign CDS market on the buy and the sell side. The banks' exposure to sovereign risk arises from their direct holdings of sovereign debt as well as counterparty credit risk associated with their derivatives trades with countries. Historically, sovereigns did not post collateral on a mark-to-market basis related to their OTC derivatives positions in interest rate and cross-currency derivatives for example. As a result dealer  
 
-![](images/1afc43512f750062d4fbd2677c47c8feda0744e2f2214eb629ddc7bdb4ee73e5.jpg)  
+![](1afc43512f750062d4fbd2677c47c8feda0744e2f2214eb629ddc7bdb4ee73e5.jpg)  
 
 # FIGURE 18.6  
 
@@ -64,7 +64,7 @@ outstanding as of June 13, according to the Depository Trust & Clearing Corp.. (
 
 The legal wrangling regarding the payment of creditors by Argentina in $2013-2014$ led to gyrations in the CDS spread and implied default probability. Figure 18.7 shows the annual probability of default for Argentina implied by 5-year CDS spreads and under the assumption of a $40\%$ recovery rate. In the  
 
-![](images/28d5dbbc1bf37696e0173b92030faecca297130bcee43b16568db65924fdd67e.jpg)  
+![](28d5dbbc1bf37696e0173b92030faecca297130bcee43b16568db65924fdd67e.jpg)  
 
 # FIGURE 18.7  
 

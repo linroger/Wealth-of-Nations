@@ -62,7 +62,7 @@ This is the fixed all-in-cost.
 
 The next step is to swap this issue into floating and obtain the floating all-in-cost. Suppose we have the same notional amount of $\$200$ million and consider a fixed to floating 3-year interest-rate swap. Table 4.2 gives the 3-year receiver swap rate as $3.341\%$ . This is, by definition, a 30/360, semiannual rate.  
 
-![](images/0da8d84e7c9b36d964d93bfb6be4ccef8842eeabd780f43065d9b7a0ad5424a1.jpg)  
+![](0da8d84e7c9b36d964d93bfb6be4ccef8842eeabd780f43065d9b7a0ad5424a1.jpg)  
 
 # FIGURE 4.12  
 

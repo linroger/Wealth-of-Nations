@@ -10,7 +10,7 @@ The CDO-issuing SPV enters into a $\$500$ million cash-settled CDS agreement wit
 
 The SPV receives $\$85$ million for the CLN tranches. This principal money is not used to buy. the underlying corporate bonds or loans as in the cash CDO, but it is deposited into a credit. support account invested in US Treasuries. It is to be used to absorb any losses coming from defaults. The CLN tranches are hit in the reverse order of seniority, with the first default losses reducing and then wiping out the equity tranche (first. $2\%$ of the collateral defaulting), then the mezzanine (BBB-) tranche (the next $2\%$ defaulting), and then investment grade tranches (the next $13\%$ defaulting). The super-senior tranche holders are the most protected. They have not put any money into the structure, they simply collect some of the CDS premium, and fully $\$85$ million of losses ( $17\%$ of the collateral principal) have to occur before they start making payments on their CDS. Their main risk is the exposure to losses in excess of $\$85$ million in exchange for the CDS premium per $\$1$ of insured collateral that is lower than the original CDS premium received by the SPV. This is due to their "better-than-AAA' status delivered by the protection cushion of the junior tranches.  
 
-![](images/94dcfac8182184b589a76090556496ac997b31f92ae45efc76cc9c29e65de935.jpg)  
+![](94dcfac8182184b589a76090556496ac997b31f92ae45efc76cc9c29e65de935.jpg)  
 Figure 10.7 A super-senior synthetic CDO  
 
 # 10.4.2 Synthetic CDO Pricing and Expected Loss  
@@ -25,7 +25,7 @@ $$
 
 By arbitrage, the price of a 1-year CDS on the discount bond must be $\$4.80$ . To replicate a riskless discount bond paying off $\$100$ for certain, one can buy the risky discount bond for $\$95.20$ and spend $\$4.80$ to insure it. If the risky bond does not default, then the $\$95.20$ investment turns into $\$100$ , and the insurance expires. If the risky bond defaults, then the $\$95.20$ investment turns into $\$40$ , but the insurance pays $\$100\times(1-R)=\S60$ We can thus interpret the $\$4.80$ cost of the insurance equal to. $4.8\%$ of the face value as the risk-neutral. credit spread on the bond (here in discount yield terms). It is important to note that the credit spread is also equal to the expected risk-neutral loss on the bond. If we define the loss as the loss of principal, then it is equal to zero in the survival state with probability $q=0.92$ , and equal to $\$100\times(1-R)=\S60$ with probability $p=0.08$ . In general,  
 
-![](images/5a5e1691b4a07f1f70fd3bf6386321091f7d4236fca1e8a2c5a0114e1284efa9.jpg)  
+![](5a5e1691b4a07f1f70fd3bf6386321091f7d4236fca1e8a2c5a0114e1284efa9.jpg)  
 Figure 10.8 A discount bond subject to constant probability of default  
 
 $$
@@ -52,7 +52,7 @@ $$
 
 For example, using this formula, an annualized spread of $0.5\%$ with a recovery rate of 40 cents on the dollar translates into the cumulative probability of default over 5 years of $4.1\%$  
 
-![](images/3cd4a0b0becda609a0e5b96954053da8e3fc35634998a3cd59189e2ca06e588e.jpg)  
+![](3cd4a0b0becda609a0e5b96954053da8e3fc35634998a3cd59189e2ca06e588e.jpg)  
 Figure 10.9 Loss rate distribution for $\rho=0$ , 0.5 and 0.95  
 
 Given the cumulative probabilities, we can recursively back out the conditional probabilities using the equation for our two-step example and solving for $p\left(1,2\right)$ . Once we have the entire conditional probability tree, we can compute the expected loss assuming a deterministic recovery rate.  

@@ -28,13 +28,13 @@ $$
 
 This option is financed by a money market loan so that the overall position is shown as the downward sloping curve $B B^{\prime}$ 5 We see a great deal of resemblance between the two positions.  
 
-![](images/a2fa75e56ff757fd8c587f94de06b96b9409ab311ce9c42a2c8f2bf8deb4c4c3.jpg)  
+![](a2fa75e56ff757fd8c587f94de06b96b9409ab311ce9c42a2c8f2bf8deb4c4c3.jpg)  
 
 # FIGURE 10.2  
 
 Bond and put option as examples of convex instruments.  
 
-![](images/2f194c3c852b954356c9d2ae7694ece850970d6166952013d0f9c3d316555f2b.jpg)  
+![](2f194c3c852b954356c9d2ae7694ece850970d6166952013d0f9c3d316555f2b.jpg)  
 
 # FIGURE 10.3  
 
@@ -67,7 +67,7 @@ Thus, we will proceed as if there was a single underlying risk that causes price
 
 The trader buys the long bond with borrowed funds and then hedges the downside risk implied by the curve $A A^{\prime}$ in Figure 10.4. The hedge for the downside risk will be a position that makes money when $r_{t}$ increases and loses money when. $r_{t}$ declines. This can be accomplished by shorting an. appropriate number of the short bond..  
 
-![](images/96a253d8c557d73b41c21c4964d993798e670001beae489a010d96f6a3213097.jpg)  
+![](96a253d8c557d73b41c21c4964d993798e670001beae489a010d96f6a3213097.jpg)  
 
 # FIGURE 10.4  
 

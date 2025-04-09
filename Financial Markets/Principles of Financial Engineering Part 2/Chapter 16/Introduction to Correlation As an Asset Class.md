@@ -6,7 +6,7 @@ Index volatility $\approx{\sqrt{\mathsf{c o r r e l a t i o n}}}\times$ average 
 
 This formula shows that correlation is an important driver of index volatility. Historically, more than half of the changes in index volatility are driven by changes in correlation. This shows that correlation exposure is a fundamental component of volatility. Correlation risk is also an important. driver of returns on options and other assets such as hedge funds. How can we use the principles of financial engineering applied in previous chapters to correlation? It turns out that it is quite straightforward to back out the level of forward-looking correlation being priced by the market by calculating the relative levels of implied index and implied single-stock volatilities. As with implied index volatility, this implied correlation tends to trade at a premium to that realized correlation. Figure 16.1 shows the realized and implied correlation for the S&P500.  
 
-![](images/df6dea373ff40a161b77c378359a54a3b6ebda5f518d4fe152a264709c2f00d7.jpg)  
+![](df6dea373ff40a161b77c378359a54a3b6ebda5f518d4fe152a264709c2f00d7.jpg)  
 
 # FIGURE 16.1  
 
@@ -89,7 +89,7 @@ However, that looks set to change as investors increasingly seek to express view
 
 (Thomson Reuters IFR 1968, January 26, 2013)  
 
-![](images/4a6fe2e18ad261c61011c6c5cbe1759ddd635a1c1163a4a474e59bd420634e92.jpg)  
+![](4a6fe2e18ad261c61011c6c5cbe1759ddd635a1c1163a4a474e59bd420634e92.jpg)  
 
 # FIGURE 16.2  
 

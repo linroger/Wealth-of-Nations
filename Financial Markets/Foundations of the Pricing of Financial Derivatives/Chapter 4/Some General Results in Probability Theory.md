@@ -158,28 +158,28 @@ Figures $4.1\mathrm{a}{-}\mathrm{h}$ illustrate both the probability density fun
 
 We see from these graphs that with the normal distribution, there is a nonzero probability that the underlying instrument value can fall below zero. Financial derivative instru-. ments can often themselves take on negative values. Negative value is very common for symmetric derivatives such as forwards, futures, and swaps as well as short positions in asymmetric derivatives such as options, swaptions, caps, and floors. For example, the short position for any option cannot be positive as it can only result in a future liability. A call option price may be 14, but to the writer it is a liability of 14 and hence has a negative. value. Because common stock has limited liability, we expect the stock price to remain nonnegative. Limited liability can be viewed as a company obtaining a long put option. contract with a zero strike price. Clearly, company assets can obtain a negative value, such. as is the case with environmental damage or company products found to be carcinogenic.. Again, more extensive details on the normal distribution are given in Chapter 5. To address some of these challenges, many financial models are built on the lognormal distribution.
 
-![](images/5fccc7da129f093142cf7f5193a8273d4f4625d630605828c2d6194015950094.jpg)
+![](5fccc7da129f093142cf7f5193a8273d4f4625d630605828c2d6194015950094.jpg)
 FIGURE 4.1a Normal Probability Density Function $\mu=0\%$ $\sigma=30\%$
 
-![](images/e99b4bae5da485fce7df5c46ff76b67f43d12d2fed3dd522f87c9f4c439aafb3.jpg)
+![](e99b4bae5da485fce7df5c46ff76b67f43d12d2fed3dd522f87c9f4c439aafb3.jpg)
 FIGURE 4.1b Normal Cumulative Distribution Function $\mu=0\%$ $\sigma=30\%$
 
-![](images/467bbfb2900fc6e68e8ee855bb1c76a2f08b4abf14435d2e3c8194d454be1cac.jpg)
+![](467bbfb2900fc6e68e8ee855bb1c76a2f08b4abf14435d2e3c8194d454be1cac.jpg)
 FIGURE 4.1c Normal Probability Density Function $\mu=0\%$ $\sigma=80\%$
 
-![](images/5d37aeef3ba1b4fe9587cc0d251416b3c6f880ece7cbd2c3d464dbfbf89e7b4c.jpg)
+![](5d37aeef3ba1b4fe9587cc0d251416b3c6f880ece7cbd2c3d464dbfbf89e7b4c.jpg)
 FIGURE 4.1d Normal Cumulative Distribution Function $\mu=0\%$ $\sigma=80\%$
 
-![](images/4a219b9a629aadff37ac3510cd4836c09a65bcaee7921795ae9bb0aa31573ae9.jpg)
+![](4a219b9a629aadff37ac3510cd4836c09a65bcaee7921795ae9bb0aa31573ae9.jpg)
 FIGURE 4.1e Normal Probability Density Function $\mu=0\%$ $\sigma=130\%$
 
-![](images/4f0ff57d2a978769a280105aef7dfaf3a2db9e632529dcf66af3488c414b5163.jpg)
+![](4f0ff57d2a978769a280105aef7dfaf3a2db9e632529dcf66af3488c414b5163.jpg)
 FIGURE 4.1f Normal Cumulative Distribution Function $\mu=0\%$ $\sigma=130\%$
 
-![](images/87989e441942957ddd6338f5c04846d78c59cb9e80473c35b9cfd67e2f956637.jpg)
+![](87989e441942957ddd6338f5c04846d78c59cb9e80473c35b9cfd67e2f956637.jpg)
 FIGURE 4.1g Normal Probability Density Function $\mu=0\%$ $\sigma=800\%$
 
-![](images/3ccd2ce2ee0ab1d04a6ba7243b5272dfad485c65ea14cb8ccf80db1c08d882d4.jpg)
+![](3ccd2ce2ee0ab1d04a6ba7243b5272dfad485c65ea14cb8ccf80db1c08d882d4.jpg)
 FIGURE 4.1h Normal Cumulative Distribution Function $\mu=0\%$ $\sigma=800\%$
 
 # 4.5.4 Lognormal Distribution
@@ -268,30 +268,30 @@ Figures $4.2\mathrm{a-h}$ illustrate both the probability density function as we
 
 We see from these graphs that with the lognormal distribution, there is no possibility. that the underlying instrument value will fall to zero or below. Because common stock has. limited liability, we expect the stock price to remain nonnegative, but we also expect that some stock prices will go to zero--an outcome not possible with the lognormal distribu-. tion. Based on the lognormal distribution, limited liability has no value. Thus, both the. normal and lognormal distribution have strengths and weaknesses..
 
-![](images/331ca4d1b6b1505fb5d790ebadcbcf7efcfaeda17b1b763cf967e49c62e604df.jpg)
+![](331ca4d1b6b1505fb5d790ebadcbcf7efcfaeda17b1b763cf967e49c62e604df.jpg)
 FIGURE 4.2a Lognormal Probability Density Function $\mu=0\%$ $\sigma=30\%$
 
-![](images/2316dd46c6f9e30a5f07a234bf67c687b1be7d7f14ebb6a2f267a3563fa1e6ac.jpg)
+![](2316dd46c6f9e30a5f07a234bf67c687b1be7d7f14ebb6a2f267a3563fa1e6ac.jpg)
 FIGURE 4.2b Lognormal Cumulative Distribution Function $\mu=0\%$ $\sigma=30\%$
 
-![](images/dc8303c2d62c42530094f61e0c240fea335909688591e39db47bc9f2fdc7d60c.jpg)
+![](dc8303c2d62c42530094f61e0c240fea335909688591e39db47bc9f2fdc7d60c.jpg)
 FIGURE 4.2c Lognormal Probability Density Function $\mu=0\%$ $\sigma=80\%$
 
-![](images/c2de335d9496222ed0fb0aa9ab78f18e8368cfc5f974d2e3163994eb25832508.jpg)
+![](c2de335d9496222ed0fb0aa9ab78f18e8368cfc5f974d2e3163994eb25832508.jpg)
 FIGURE 4.2d Lognormal Cumulative Distribution Function $\mu=0\%$ $\sigma=80\%$
 
-![](images/93cdf9b0c5d8bae9a560bbc2946a545c777a6b722a77c255f6a06225cdd09f5a.jpg)
+![](93cdf9b0c5d8bae9a560bbc2946a545c777a6b722a77c255f6a06225cdd09f5a.jpg)
 FIGURE 4.2e Lognormal Probability Density Function $\mu=0\%$ $\sigma=130\%$
 
-![](images/5666d46b8b589eb9f7c92c23d8ddd5176429baed6fee8f386fecaacd8e3040ac.jpg)
+![](5666d46b8b589eb9f7c92c23d8ddd5176429baed6fee8f386fecaacd8e3040ac.jpg)
 FIGURE 4.2f Lognormal Cumulative Distribution Function $\mu=0\%$ $\sigma=130\%$
 
-![](images/b8ed8077145424b4d73c19f108ef9151497c92c8cf2d821f5af9da6187556c4e.jpg)
+![](b8ed8077145424b4d73c19f108ef9151497c92c8cf2d821f5af9da6187556c4e.jpg)
 FIGURE 4.2g Lognormal Probability Density Function $\mu=0\%$ $\sigma=800\%$
 
-![](images/10f68f96c19952b95193690f001c319d2ff8982d6c2cd29209cd3a2d77ae42e9.jpg)
+![](10f68f96c19952b95193690f001c319d2ff8982d6c2cd29209cd3a2d77ae42e9.jpg)
 
-![](images/6c12244bdf3f19bad6c4b526846d909d9f17c88e249b22a728e2399ce82764c8.jpg)
+![](6c12244bdf3f19bad6c4b526846d909d9f17c88e249b22a728e2399ce82764c8.jpg)
 
 # Financial Applications of Probability Distributions
 

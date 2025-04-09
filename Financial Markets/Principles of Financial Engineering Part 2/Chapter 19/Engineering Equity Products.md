@@ -28,7 +28,7 @@ Can we say anything about the price of the convertible bond and how high it shou
 
 On the other hand, the convertible bond is worth at least as much as a straight bond since the convertible consists of a straight bond plus a call option. The straight bond value provides a bond floor. Figures 19.6a illustrates the straight bond value. For bond issuers with a strong balance sheet, the straight debt value should be largely independent of the value of the stock since the default risk  
 
-![](images/7113629a132dc6ea169092a7580ea63f5d5ab6578f75f081766cf14ff4f91fca.jpg)  
+![](7113629a132dc6ea169092a7580ea63f5d5ab6578f75f081766cf14ff4f91fca.jpg)  
 
 # FIGURE 19.6  
 
@@ -42,7 +42,7 @@ We discuss the engineering of such a convertible bond under simplified assumptio
 
 From the above discussion, we can see that a convertible bond can be viewed as a portfolio of a straight bond plus a call option. This leads us to the following contractual equation..  
 
-![](images/7eb5fede3df593f74f230afafa01c7a952b09abb803f51f879561fb9cea9b537.jpg)  
+![](7eb5fede3df593f74f230afafa01c7a952b09abb803f51f879561fb9cea9b537.jpg)  
 
 Figure 19.7 shows the composition of a convertible bond's cash flows into a defaultable bond and a call option.13 There are four potential scenarios depending on whether the bond defaults or not and whether the option is exercised or not.  
 
@@ -50,11 +50,11 @@ As the issuer sells an embedded option to convert its shares, the issuer expects
 
 For a risky bond, we can also build on the discussion from the previous chapter on CDS which showed that a defaultable can be replicated by a portfolio consisting of a receiver interest rate swap, a default-free deposit and selling a CDS. Thus if we replace the straight bond in Eq. (19.31) by a portfolio we obtain the following contractual equation:.  
 
-![](images/e1b3e51ffb86512ca001506820facaa71cf878a786a4ae27a3e5d8620f434314.jpg)  
+![](e1b3e51ffb86512ca001506820facaa71cf878a786a4ae27a3e5d8620f434314.jpg)  
 
 This contractual equation provides an interesting insight since it shows that the convertible bond contains default risk that can be hedged by buying a CDS..  
 
-![](images/cfb1e06b2ac030f32263261532f4413f1dd5d3907ea2193e0aee3b046af02637.jpg)  
+![](cfb1e06b2ac030f32263261532f4413f1dd5d3907ea2193e0aee3b046af02637.jpg)  
 
 # FIGURE 19.7  
 
@@ -128,7 +128,7 @@ $$
 
 where $e_{t}$ is an exchange rate denoting the price of USD1 in terms of Thai baht at date $t.$ This is needed since the original conversion price, $K$ , will be in Thai baht, yet, the face value of the bond. will be in USD. The bond structure can set a value for. $e_{t}$ and include it as a parameter in the con-. tract. Often, this. $e_{t}$ will be the current exchange rate..  
 
-![](images/961c91e46ec267ddc53fe261ed4266354173982a6235a2af7b29c7367101f105.jpg)  
+![](961c91e46ec267ddc53fe261ed4266354173982a6235a2af7b29c7367101f105.jpg)  
 
 # FIGURE 19.8  
 

@@ -24,9 +24,9 @@ TABLE 10A.1 Values of $d\mathbb{W}_{t}$ and $d\mathbb{W}_{t}^{2}$ for Various dt
 3 As discussed in this chapter, an alternative framework for modeling certain financial instruments is arithmetic Brownian motion with geometric drift or $d S_{t}=\alpha S_{t}d t+$ $\sigma_{\mathbb{S}}d\boldsymbol{W}_{t}$ . Explain the behavior of changes in $S_{t}$ for different values of $S_{t}$ . In particular, explain why $S_{t}$ may obtain the value of zero or become negative.
 4  The following two graphs were generated based on discretized versions of geometric Brownian motion $(d S_{t}=\alpha S_{t}d t+\sigma S_{t}d W_{t})$ and arithmetic Brownian motion. $\boldsymbol{(d S_{t}=}$ $\alpha S_{t}d t+\sigma_{\mathbb{S}}d\mathbb{W}_{t})$ . Identify the graphs and defend your answer..
 
-![](images/092ce51f46925dbac23f0b67e2bf25066dac10f1b7f98d412c09dc992e6d57ce.jpg)
+![](092ce51f46925dbac23f0b67e2bf25066dac10f1b7f98d412c09dc992e6d57ce.jpg)
 
-![](images/a2b3e03fca0d617dadb1778a57239291ca8f86e22d941d21cf3aa7a0ee833e00.jpg)
+![](a2b3e03fca0d617dadb1778a57239291ca8f86e22d941d21cf3aa7a0ee833e00.jpg)
 
 5  Identify four important characteristics that a model of asset prices should encompass.
 

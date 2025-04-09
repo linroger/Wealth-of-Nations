@@ -177,7 +177,7 @@ $$
 
 profit  
 
-![](images/b991efadb49b157353998ac2e67d54bd7f559e61c063d9c0be1e944df81b545c.jpg)  
+![](b991efadb49b157353998ac2e67d54bd7f559e61c063d9c0be1e944df81b545c.jpg)  
 Figure 1.1: Profit diagram for a European call  
 
 # Forwards  
@@ -489,7 +489,7 @@ We call this setting a $(B,S)-$ market. The problem is to price a European call 
 
 The key idea now is to try to find a portfolio combining bond and stock, which synthesizes the cash flow of the option. If such a portfolio exists, holding this portfolio today would be equivalent to holding the option - they would produce the same cash flow in the future. Therefore the price of the option should be the same as the price of constructing the portfolio, otherwise investors could just restructure their holdings in the assets and obtain a riskfree profit today.  
 
-![](images/ab3438638b76b47c8b52a633d92876a8a9bf2afafa8f4a494e424976392037a0.jpg)  
+![](ab3438638b76b47c8b52a633d92876a8a9bf2afafa8f4a494e424976392037a0.jpg)  
 Figure 1.2: One-period example  
 
 We briefly present the constructing of the portfolio $\pmb{\theta}=(\theta_{0},\theta_{1})$ , which in the current setting is. just a simple exercise in linear algebra. If we buy. $\theta_{1}$ stocks and invest $\theta_{0}$ $\mathrm{\mathcal{L}}$ in the bank account,. then today's value of the portfolio is  
@@ -2265,7 +2265,7 @@ $$
 
 with $-1<d<u,S_{0}\in I R_{0}^{+}$ (see Fig. 3.4.1 below).  
 
-![](images/5d2d21c17e3a7a0f17dcff64d2655ca913f6ec0e96fcf8ffe53fc1f36b8abfff.jpg)  
+![](5d2d21c17e3a7a0f17dcff64d2655ca913f6ec0e96fcf8ffe53fc1f36b8abfff.jpg)  
 Figure 3.1: One-step tree diagram  
 
 Alternatively we write this as  
@@ -3385,15 +3385,15 @@ $$
 
 We assume that the price of the stock at time. $t=0$ is $S(0)=100$ . To price a European call option. with maturity one year (. $N=3$ ) and strike $K=10$ ) we can either use the valuation formula (3.12) or work our way backwards through the tree. Prices of the stock and the call are given in Figure 4.2 below. One can implement the simple evaluation formulae for the CRR- and the BS-models and compare the values. Figure 3.3 is for $S=100,K=90,r=0.06,\sigma=0.2,T=1.$  
 
-![](images/7779388d070b426040dfbaec3e2174d598fc2b85bf65ea70933bb8f7418a753d.jpg)  
+![](7779388d070b426040dfbaec3e2174d598fc2b85bf65ea70933bb8f7418a753d.jpg)  
 Figure 3.2: Stock and European call prices  
 
-![](images/ac9e26819594dbdbaef2357f5a8490ae18862966caa46a7c42dc192a0dc78bd4.jpg)  
+![](ac9e26819594dbdbaef2357f5a8490ae18862966caa46a7c42dc192a0dc78bd4.jpg)  
 Figure 3.3: Approximation of Black-Scholes price by Binomial models  
 
 To price a European put, with price process denoted by. $p(t)$ , and an American put, $P(t)$ (maturity $N=3$ , strike 100), we can for the European put either use the put-call parity (1.1), the. risk-neutral pricing formula, or work backwards through the tree. For the prices of the American put we use the technique outlined in \$4.8.1. Prices of the two puts are given in Figure 4.4. We. indicate the early exercise times of the American put in bold type. Recall that the discrete-time. rule is to exercise if the intrinsic value $K-S(t)$ is larger than the value of the corresponding European put.  
 
-![](images/681bb4bf788c39818d65fa4d9745bc094532c0049e1a45b060796fbdbbe16275.jpg)  
+![](681bb4bf788c39818d65fa4d9745bc094532c0049e1a45b060796fbdbbe16275.jpg)  
 Figure 3.4: European $p(.)$ and American $P(.)$ put prices  
 
 # Chapter 4  
@@ -4351,7 +4351,7 @@ The term structure of interest rates is defined as the relationship between the 
 
 In constructing the term structure of interest rates, we face the additional problem that in. most economies no zero-coupon bonds with maturity greater than one year are traded (in the USA, Treasury bills are only traded with maturity up to one year). We can, however, use prices of. coupon bonds and invert formula (5.1) for zero-coupon prices. In practice, additional complications. arise, since the maturities of coupon bonds are not equally spaced and trading in bonds with some maturities may be too thin to give reliable prices. We refer the reader to Jarrow and Turnbull (2000) for further discussion of these issues..  
 
-![](images/9d3a8c6cd69f86d00cca9e93898e1b416c35a057dd374220e290ac1e0ae55b2c.jpg)  
+![](9d3a8c6cd69f86d00cca9e93898e1b416c35a057dd374220e290ac1e0ae55b2c.jpg)  
 Figure 5.1: Yield curve  
 
 # 5.1.2 Mathematical Modelling  

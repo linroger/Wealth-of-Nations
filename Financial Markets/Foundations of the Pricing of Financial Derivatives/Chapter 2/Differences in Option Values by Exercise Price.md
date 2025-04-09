@@ -2,7 +2,7 @@
 
 The results in this section will enable us to understand the effect of exercise price on the pricing of options. That is, of two otherwise identical calls or puts, differing only by exercise price, which option will be priced higher? Our intuition should tell us that the call with the lower exercise price and the put with the higher exercise price should have higher prices. For the call, the exercise price is the hurdle over which the underlying must get to justify exercise. Thus, the lower the hurdle the easier it is to get over it. Moreover, for a given level of the underlying above the exercise price, the more valuable is the call when exercised. Hence, the lower-exercise price call should be worth more before expiration. For a put, the argument is reversed. To exercise the put, the underlying must get under the exercise price. Hence, the higher is the exercise price, the easier it is to get under it, and for a given level of the underlying below the exercise price, the higher is the exercise price, the higher the payoff of the put. Hence, puts with higher exercise prices should be worth more before expiration. Let us first take a formal look at calls.
 
-![](images/f3a50bf55cc284807139c94966863806c7cbb00a6c19f0a54d5ed7f90a5df8ad.jpg)
+![](f3a50bf55cc284807139c94966863806c7cbb00a6c19f0a54d5ed7f90a5df8ad.jpg)
 FIGURE 2.4  Illustration of Dividend Impact on Put Lower Bound (Expressed as Percentage)
 
 # 2.6.1 Calls Differing by Exercise Price

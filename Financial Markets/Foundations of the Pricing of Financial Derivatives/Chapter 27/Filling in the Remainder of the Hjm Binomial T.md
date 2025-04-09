@@ -92,7 +92,7 @@ $$
 
 This is the price of a four-year bond at time 0, and we can verify that by going back to the initial set of bond prices. Now, we should also be able to find this price by applying the equivalent approach of rolling through the tree from maturity back to time 0. We start by pricing this bond at time 3, then working backwards. When we arrive at time zero, we should get this price, subject to perhaps a small round-off error.
 
-![](images/c2dca5836f979315e2104b77331d96271655d7e4e51ebb6cf57e08ecb65ff95d.jpg)
+![](c2dca5836f979315e2104b77331d96271655d7e4e51ebb6cf57e08ecb65ff95d.jpg)
 FIGURE 27.4 Binomial Tree over Four Periods
 
 The price at time 3 is obtained by discounting the 1.0 face value at the spot rate at time 3, $f(3,3)$ . There are, of course, four states at time 3. Thus, the prices in the four states are

@@ -19,7 +19,7 @@ The cash flows from holding the pool are very simple. The February payment of $\
 
 The cash flows from rolling are as follows. The pool is sold through the January TBA for flat proceeds of $\$1,000,0000\times101.875=\$1,018,750.00$ plus 12 days of accrued interest, that is, $\$1,000,000$ 833.33, for total proceeds of $\$1,019,583,33$ . These proceeds are invested at the repo rate from 1/13 to 2/14, that is, for 32 days, to earn interest of $\$1,019$ $583.33\times{0.10\%}\times32/360=590.63$ . The next part of this strategy. is to buy $\$991,200.00$ face amount of the pool through the February TBA at a flat cost of. $\$9991,200.00$ 00, plus accrued interest of 13 days of $\$9991,200.000\times2.50\%\times13/360=\S894.83$ , for a total cost of $\$1,008,201.83$ . Finally, subtracting this cost from the invested proceeds of the January sale leaves a net of $\$11,472.13$  
 
-![](images/91ebea2122375d029660f0e767c9e81120b4494330f09eee2caecbc3c903d7a1.jpg)  
+![](91ebea2122375d029660f0e767c9e81120b4494330f09eee2caecbc3c903d7a1.jpg)  
 FIGURE 15.7  Dollar Roll Example, UMBS 30-Year $2.5\%$ Jan-Feb TBAs, as of January 2022.  
 
 Putting the pieces together, both the hold and roll strategies leave the. investor with $\$991,200$ of the pools as of 2/14. But the roll strategy also. leaves the investor with net proceeds of. $\$11,472.13$ on 2/14, while the hold strategy leaves the investor with $\$10,849,67$ . The value of the roll, defined as the difference between these two amounts, is. $\$623.46$ . Hence, according to this analysis, the January TBA is rich relative to the February TBA, or, in other words, investors are willing to pay up to have the. $2.5\%$ pools now.  

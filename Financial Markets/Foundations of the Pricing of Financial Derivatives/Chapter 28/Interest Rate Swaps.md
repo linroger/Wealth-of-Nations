@@ -36,7 +36,7 @@ The symmetry of these two values guarantees that the value at time zero will be 
 
 You will note that here we valued the swap a bit differently from the way we did. in Chapter 26, where we added the notional to the fixed and floating sides. That was a necessary trick that helped us avoid having to value specific outcomes. But with a binomial tree, we can value specific outcomes. Just to show you that we obtain the same results, let us verify the value of 0.019956 that appears in the top state at time 1 in Figure 28.9.. Remember that in Chapter 26 we showed that the present value of the remaining floating. payments plus the notional is 1. The present value of the remaining fixed payment plus. notional of 1 is easily found by discounting 1 plus the upcoming fixed payment at the one-period rate, which would be done by multiplying by the one-period zero-coupon bond price of 0.9119. Subtracting the present value of the fixed payments plus notional from the present value of the floating payments plus notional, which is equal to 1, gives the value. of the swap:
 
-![](images/cb59043ce3f425900ca0820f80db0fd87eea20173ccd93fbb658e6de92de3fab.jpg)
+![](cb59043ce3f425900ca0820f80db0fd87eea20173ccd93fbb658e6de92de3fab.jpg)
 
 $$
 1.0-1.072433(0.9119)-0.002068=0.019956.

@@ -25,10 +25,10 @@ Figure 14.5 shows the slope of the term structure of CDS spreads for the. iTraxx
 
 This introduction to CDS now turns to market participants. An often cited use case is a corporate bond investor hedging the default risk of a bond by buying CDS protection. This case does not really stand on its own, however, because an investor is likely to give up most if not all of the bond's credit spread by buying protection. Or, put another way, an investor not wanting to bear the credit risk of a particular bond can just sell that bond. Other use cases, therefore, are worth exploring.  
 
-![](images/35df8d3c38fdbdcf7f94f170a1e0888a0f295f97b3470a3cbcea583107297d0f.jpg)  
+![](35df8d3c38fdbdcf7f94f170a1e0888a0f295f97b3470a3cbcea583107297d0f.jpg)  
 FIGURE 14.4  iTraxx Europe 10-Year CDS Indexes.  
 
-![](images/95e64a51a407f0d251a4b76459b9921d5eeab2696ce94b46dc397ced77bfa508.jpg)  
+![](95e64a51a407f0d251a4b76459b9921d5eeab2696ce94b46dc397ced77bfa508.jpg)  
 FIGURE 14.5 iTraxx Europe 10-Year versus Three-Year Crossover CDS Indexes.  
 
 As mentioned earlier and discussed presently, selling CDS protection very much resembles buying a bond: both the protection seller and the investor receive coupons over time and lose money in the event of a default. Many sellers of protection, therefore, choose to bear credit risk through  

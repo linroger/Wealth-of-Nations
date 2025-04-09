@@ -10,7 +10,7 @@ Unlike relative value trading, which finds value in the absence of factor exposu
 
 In the context of any term structure model, it is relatively straightforward to determine the effect of convexity on forward rates. It is much more difficult, however, to separate expectations from risk premium. A number of approaches appear in the academic literature, but these are not without various shortcomings.7 The method proposed here relies on one key assumption: expectations of future short-term rates do not change past some point in the. future. Anyone with a view of the short-term rate in 15 years, for example, has the same view of the short-term rate in 20 or in 30 years. Consequently,. any difference in forward rates beyond some term is attributable not to rate expectations, but solely to risk premium and convexity. In this way, expectations and risk premium can be separated and calculated from observable rates.  
 
-![](images/8a806d299c2d1cab3c50e043b449b257548240755122b67c9cda2fa7dda888da.jpg)  
+![](8a806d299c2d1cab3c50e043b449b257548240755122b67c9cda2fa7dda888da.jpg)  
 FIGUrE 9.9 Difference Between the Nine- and Five-Year Signals. Each Signal Is Based on a Difference of Moving Averages of Deviations of Market from Gauss $^{+}$ Model Rates.  
 
 Using the assumption just described and the parameters of the Gauss+ model estimated previously, Figure 9.10 graphs the risk premium on the  
@@ -19,10 +19,10 @@ Using the assumption just described and the parameters of the Gauss+ model estim
 
 The flip-side of identifying the risk premium, of course, is identifying the long-run expectation of the short-term rate in the estimated Gauss+ model, more specifically, the 10-year forward rate minus the term-appropriate risk premium plus the term-appropriate convexity. The time series of this expectation is shown in Figure 9.11, along with a different estimate, formed from real rate forecasts and inflation estimates at the Federal Reserve Bank of Cleveland.8 while the model and outside series track each other quite well over time, there are trading opportunities to use the difference between the two series as a measure of value. Put another way, the difference between the  
 
-![](images/731241e3e386cd6c1014cec4cd2b100e29e2b5648b45142e7b555c4bf2d1f534.jpg)  
+![](731241e3e386cd6c1014cec4cd2b100e29e2b5648b45142e7b555c4bf2d1f534.jpg)  
 FIGURE 9.10 Estimated Risk Premium on the 10-Year Forward Rate.  
 
-![](images/4392cd1e6281cb4c2500757cecc410fe68bf13d228855fda38dfde6b6322d01a.jpg)  
+![](4392cd1e6281cb4c2500757cecc410fe68bf13d228855fda38dfde6b6322d01a.jpg)  
 FIGurE 9.11 Long-Run Expectations of the Short-Term Rate, as Implied by Gauss $^{\ast}$ Fitted to Market Rates and by Fundamental Analysis at the Federal Reserve Bank of Cleveland.  
 
 Gauss $^{+}$ market-implied view -- the long-run rate priced in the market - and. the exogenous, economist-generated, fundamental view - what one thinks the long-run rate should be - can be used as a basis for taking outright long. or short positions in bonds..  

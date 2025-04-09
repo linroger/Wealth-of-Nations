@@ -8,7 +8,7 @@ The values of the interest rate calls and puts at time 3 are, therefore,
 
 $V I R C(3,0.09)^{+++}=\operatorname*{max}(0,0.119240-0.09)0.8935=0.0261$ $V I R P(3,0.09)^{+++}=\operatorname*{max}(0,0.09-0.119249)\:0.8935=0.0000$ $V I R C(3,0.09)^{++-}=\operatorname*{max}(0,0.097078-0.09)0.9115=0.0065$ $V I R P(3,0.09)^{++-}=\operatorname*{max}(0,0.09-0.097078)0.9115=0.0000$ $V I R C(3,0.09)^{--+}=\operatorname*{max}(0,0.075354-0.09)0.9299=0.0000$ $V I R P(3,0.09)^{--+}=\operatorname*{max}(0,0.09-0.075354)0.9299=0.0136$ $V I R C(3,0.09)^{--}=\operatorname*{max}(0,0.054061-0.09)0.9487=0.0000$ $V I R P(3,0.09)^{--}=\operatorname*{max}(0,0.09-0.054061)0.9487=0.0341.$
 
-![](images/b6dde49f1c0eaebdd2cb247c7fbf570aad7910b803a1efafc2e060c661f11336.jpg)
+![](b6dde49f1c0eaebdd2cb247c7fbf570aad7910b803a1efafc2e060c661f11336.jpg)
 FIGURE 28.10 Binomial Tree of One-Period Add-on Spot Rates Through Time 3
 
 <html><body><table><tr><td colspan="2"></td><td></td><td>VIRC(3,0.9)+++ = 0.0261 VIRP(3,0.9)+++ = 0.0000</td></tr><tr><td rowspan="3"></td><td>VIRC(3,0.9)+= 0.0080</td><td>VIRC(3,0.9)++=0.0146 VIRP(3,0.9)++=0.0000</td><td></td></tr><tr><td>VIRP(3,0.9)+=0.0029</td><td></td><td>VIRC(3,0.9)++- = 0.0065 VIRP(3,0.9)++-= 0.0000</td></tr><tr><td>VIRC(3,0.9)-= 0.0014</td><td>VIRC(3,0.9)+-=0.0030 VIRP(3,0.9)+-= 0.0063</td><td></td></tr><tr><td colspan="2">VIRP(3,0.9)-= 0.0137</td><td></td><td>VIRC(3,0.9)--+ = 0.0000 VIRP(3,0.9)--+ = 0.0136</td></tr><tr><td colspan="2"></td><td>VIRC(3,0.9)-- = 0.0000 VIRP(3,0.9)--= 0.0227</td><td>VIRC(3,0.9)---= 0.0000</td></tr></table></body></html>

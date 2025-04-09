@@ -42,7 +42,7 @@ $$
 
 The above states that $(1/2K_{\mathrm{vol}})$ variance contracts with a strike $K_{\mathrm{vol}}$ can be used to approximate a volatility swap with a notional of. $(\$1/\mathrm{vol}$ point) for realized volatilities near $K_{\mathrm{vol}}$ . This naive approximation would also mean that the fair price of future volatility (the stroke for which the volatility swap has zero value) is simply the square root of the fair variance, that is,. $K_{\mathrm{vol}}=\sqrt{K_{\mathrm{var}}}$ Figure 15.10 plots the left-hand side and the right-hand side of Eq. (15.59) for different values of realized volatility and a strike price $K_{\mathrm{vol}}=16\%$ . The payoff of the volatility swap is represented by the dashed line and the pay-. off of the variance swap is represented by the solid parabola. The figure shows that the actual volatility swap and the corresponding approximation based on a variance swap different considerably when future realized volatility is far away from the strike price. We see that the naive approximation  
 
-![](images/d43bf318f149c97c55399c4e5d03c2fb1e133a9744c4c5f3a9a109fac962bd3a.jpg)  
+![](d43bf318f149c97c55399c4e5d03c2fb1e133a9744c4c5f3a9a109fac962bd3a.jpg)  
 
 # FIGURE 15.10  
 
@@ -106,7 +106,7 @@ Below is a term sheet for the S&P500 Variance Futures
 
 <html><body><table><tr><td>Description:</td><td>S&P5ooVariancefutures areexchange-tradedfuturescontractsbasedontherealized varianceoftheS&P500CompositeStockPriceIndex(S&P500).Thefinalsettlement valueforthecontractwillbedeterminedbasedonastandardizedformulaforcalculating the realizedvariance of the S&P 5o0 measured from the time of initiallisting until</td></tr><tr><td>Contractsize:</td><td>expirationofthecontract.Thestandardformulainputsfordiscountfactor anddaily interestratearedeterminedby theExchange.</td></tr><tr><td>Tradinghours:</td><td>One contract equals one variance unit. 8:30 a.m.-3:15 p.m.(Chicago time). AllOrders,quotes,cancellations and OrdermodificationsforS&P5ooVariancefutures</td></tr><tr><td></td><td>during trading hours must be received by the Exchange by no later than 3:14:59 p.m. Chicago time andwillbe automatically rejected if received by theExchange during trading hours after 3:14:59 p.m.Chicagotime.</td></tr><tr><td>Contractmonths:</td><td>thelistedcontractmonthsforS&P500IndexoptionslistedonChicagoBoard Options Exchange,Incorporated (CBOE).</td></tr></table></body></html>  
 
-![](images/0fc88a9dd02ecf7936ce77e58470540097f6e05d16d631e390e963e4f19f5b50.jpg)  
+![](0fc88a9dd02ecf7936ce77e58470540097f6e05d16d631e390e963e4f19f5b50.jpg)  
 S&P500 VARIANCE FUTURES   
 Source: CBOE  
 

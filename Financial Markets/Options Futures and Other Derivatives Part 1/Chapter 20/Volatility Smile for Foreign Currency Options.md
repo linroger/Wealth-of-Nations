@@ -6,10 +6,10 @@ In the appendix at the end of this chapter, we show how to determine the risk-ne
 
 To see that Figures 20.1 and 20.2 are consistent with each other, consider first a deepout-of-the-money call option with a high strike price of. $K_{2}$ $(K_{2}/S_{0}$ well above 1.0). This option pays off only if the exchange rate proves to be above. $K_{2}$ . Figure 20.2 shows that the probability of this is higher for the implied probability distribution than for the lognormal distribution. We therefore expect the implied distribution to give a relatively high price for the option. A relatively high price leads to a relatively high implied volatility--and this is exactly what we observe in Figure 20.1 for the option. The two figures are therefore consistent with each other for high strike prices. Consider next a deep-out-of-the-money put option with a low strike price of. $K_{1}$ $K_{1}/S_{0}$ well below 1.0).. This option pays off only if the exchange rate proves to be below. $K_{1}$ . Figure 20.2 shows. that the probability of this is also higher for the implied probability distribution than for the lognormal distribution. We therefore expect the implied distribution to give a relatively high price, and a relatively high implied volatility, for this option as well. Again, this is exactly what we observe in Figure 20.1..  
 
-![](images/6bf969a47e7b3126a8b4e0d1fb7608b36948164dba879e27ccb1dfbcf54e8b8c.jpg)  
+![](6bf969a47e7b3126a8b4e0d1fb7608b36948164dba879e27ccb1dfbcf54e8b8c.jpg)  
 Figure 20.1Volatility smile for foreign currency options ( $K=$ strike price, $S_{0}=$ current exchange rate).  
 
-![](images/2e1bb21dd425493b97180f4e9c3411f2938d30336a598ecd1fdaffd6ae115e23.jpg)  
+![](2e1bb21dd425493b97180f4e9c3411f2938d30336a598ecd1fdaffd6ae115e23.jpg)  
 Figure 20.2  Implied and lognormal distribution for foreign currency options.  
 
 # Empirical Results  

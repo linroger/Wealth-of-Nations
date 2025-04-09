@@ -21,7 +21,7 @@ FIGURE 7.10 Two-Period Binomial Model for American Put Option Illustrated
 
 <html><body><table><tr><td>Item</td><td>Value</td></tr><tr><td>Underlying</td><td>59.29</td></tr><tr><td>Put</td><td>45.71</td></tr></table></body></html>
 
-![](images/37ecf09da98f621c3ebcdebc5a295434ce8796de07c179737a0f7613c056f7e7.jpg)
+![](37ecf09da98f621c3ebcdebc5a295434ce8796de07c179737a0f7613c056f7e7.jpg)
 FIGURE 7.11 Two-Period Binomial Model with Discrete Dividends
 
 Thus, the presence of discrete dividends poses a significant computational problem. The binomial tree fails to recombine and is known as a bushy tree. When a binomial tree does recombine, the number of nodes after $N$ time steps is. $N+1$ . Unfortunately, when. a binomial tree fails to recombine the node count explodes with more time steps.12 That is, the number of nodes after $N$ time steps is $2^{N}$ . There are numerous potential ways to address this challenge.
@@ -46,13 +46,13 @@ The values for American options are different. At each node, we appraise whether
 
 Thus, at time 1 after an up move has occurred, the call buyer will exercise the option right before the ex-dividend event, buy the stock at 100, and sell the stock at 130.77, netting 30.77. At time 1, when a down move has occurred, the put buyer will exercise the option right after the ex-dividend event, buy the stock at 77.33. $(=79.33-2)$ , and sell the stock via the put at 100, netting 22.67. Therefore, both the call and put prices are higher. for the American options when compared to the European options..
 
-![](images/c9879426e49049879568e03176d0b4410c7b1559704c11bff460f610474d4f76.jpg)
+![](c9879426e49049879568e03176d0b4410c7b1559704c11bff460f610474d4f76.jpg)
 FIGURE 7.12 Two-Period Binomial Model with Dividends Based on Escrow Method
 
-![](images/b6f1bb719cc86b677f0806141069ffb4f99dc798cc46f3d2b6f2fd0b97b166ae.jpg)
+![](b6f1bb719cc86b677f0806141069ffb4f99dc798cc46f3d2b6f2fd0b97b166ae.jpg)
 HGuRe7.13 Numerical Example of Two-Period Binomial Model with Dividends for European Options
 
-![](images/1dee67a26e27d3893b06d422de71d3aecbccb69bb54ee5ef59c66737fbdf3e72.jpg)
+![](1dee67a26e27d3893b06d422de71d3aecbccb69bb54ee5ef59c66737fbdf3e72.jpg)
 FGURE 7.14 Numerical Example of Two-Period Binomial Model with Dividends for American Options
 
 We now examine cases where the binomial framework is difficult at best to apply.

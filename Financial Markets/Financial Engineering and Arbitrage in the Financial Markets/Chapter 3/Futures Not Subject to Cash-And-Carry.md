@@ -12,7 +12,7 @@ where $r$ is the interest rate, $s$ is the storage cost as extra interest charge
 
 There are many economic explanations for the pattern of commodity futures prices. The earliest one goes back to Keynes. In Keynes' view, most hedgers are producers of commodities (farmer selling wheat) who tend to short futures at a discount to expected future spot value (anxious to lock in price) in order to compensate speculators for accepting the risk (the difference between the expected future spot and the futures price is the reward). This results in normal backwardation. Note that the statement of value is relative to the expected future spot. price not the fair value from the cost-of-carry equation. Figure 3.1(a) illustrates the situation. The hedgers' demand for futures is inelastic (steep) and the hedgers want to short futures. Speculators display elastic (flat) demand; they can go long or short as long as they expect.  
 
-![](images/0f8825058d4d7afbb6bc7d2abb57210b92629f0796c8cba5c2e9fd782c58230c.jpg)  
+![](0f8825058d4d7afbb6bc7d2abb57210b92629f0796c8cba5c2e9fd782c58230c.jpg)  
 Figure 3.1  Futures not subject to cash and carry: (a) Normal backwardation (b) Contango  
 
 to make a profit on the futures price moving to the expected spot. The futures price obtains where the hedgers' demand for, and the speculators' supply of, futures are equal in absolute value.  

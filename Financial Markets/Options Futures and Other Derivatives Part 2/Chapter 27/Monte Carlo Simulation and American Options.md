@@ -209,7 +209,7 @@ where $\bar{r}$ is the average value of $r,\overline{{V}}$ is equal to the avera
 
 27.25. Show that, if there is no recovery from the bond in the event of default, a convertible bond can be valued by assuming that (a) both the expected return and discount rate are $r+\lambda$ and (b) there is no chance of default.  
 
-![](images/e6d4987018d78ea3f7cd47fbc5b1f2dcab706a442d12a55b025ef4eeabf8ae80.jpg)  
+![](e6d4987018d78ea3f7cd47fbc5b1f2dcab706a442d12a55b025ef4eeabf8ae80.jpg)  
 
 # Martingales and Measures  
 

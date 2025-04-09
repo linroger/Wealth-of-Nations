@@ -77,5 +77,5 @@ In practice, we do not usually have bonds with maturities equal to exactly 1.5 y
 
 A more sophisticated approach is to use polynomial or exponential functions, rather than linear functions, for the zero curve between times $t_{i}$ and $t_{i+1}$ for all i. The functions. are chosen so that they price the bonds correctly and so that the gradient of the zero curve does not change at any of the. $t_{i}.$ This is referred to as using a spline function for the zero curve..  
 
-![](images/311c6934218c617b2c09737f73581d9380f06ddfddc88d57ea7b576823003f51.jpg)  
+![](311c6934218c617b2c09737f73581d9380f06ddfddc88d57ea7b576823003f51.jpg)  
 Figure 4.1 Zero rates given by the bootstrap method.  

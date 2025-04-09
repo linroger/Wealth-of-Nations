@@ -10,7 +10,7 @@ A straddle is appropriate when an investor is expecting a large move in a stock 
 
 The straddle in Figure 12.10 is sometimes referred to as a bottom straddle or straddle purchase. A top straddle or straddle write is the reverse position. It is created by selling a call and a put with the same exercise price and expiration date. It is a highly risky strategy..  
 
-![](images/2420584b3564af9d5e2c311c08ef1f996d382234a1d8be7f9a8be8c208dd7519.jpg)  
+![](2420584b3564af9d5e2c311c08ef1f996d382234a1d8be7f9a8be8c208dd7519.jpg)  
 Figure 12.10 Profit from a straddle.  
 
 Table 12.5 Payoff from a straddle.   
@@ -33,7 +33,7 @@ However, the loss arising from a large move is unlimited..
 
 A strip consists of a long position in one European call and two European puts with the same strike price and expiration date. A strap consists of a long position in two European calls and one European put with the same strike price and expiration date. The profit patterns from strips and straps are shown in Figure 12.11. In a strip the investor is betting that there will be a big stock price move and considers a decrease in the stock price to be more likely than an increase. In a strap the investor is also betting that there will be a big stock price move. However, in this case, an increase in the stock price is considered to be more likely than a decrease.  
 
-![](images/174317c4da15e9eecb30603739878757809eebbc62b81845b13d44e9ae78c379.jpg)  
+![](174317c4da15e9eecb30603739878757809eebbc62b81845b13d44e9ae78c379.jpg)  
 Figure 12.11 Profit from a strip and a strap.  
 
 # Strangles  

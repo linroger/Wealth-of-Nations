@@ -2,7 +2,7 @@
 
 This chapter has demonstrated just a few of the ways in which options can be used to produce an interesting relationship between profit and stock price. If European options expiring at time $T$ were available with every single possible strike price, any payoff function at time $T$ could in theory be obtained. The easiest illustration of this involves. butterfly spreads. Recall that a butterfly spread is created by buying options with strike prices $K_{1}$ and $K_{3}$ and selling two options with strike price $K_{2}$ , where $K_{1}<K_{2}<K_{3}$ and $K_{3}-K_{2}=K_{2}-K_{1}$ Figure 12.13 shows the payoff from a butterfly spread. The pattern could be described as a spike. As $K_{1}$ and $K_{3}$ move closer together, the spike becomes smaller. Through the judicious combination of a large number of very small spikes, any. payoff function can in theory be approximated as accurately as desired..  
 
-![](images/5e20577498cb0d1d34a6aaeafa049abba260418750cb27550bec596414fe93a2.jpg)  
+![](5e20577498cb0d1d34a6aaeafa049abba260418750cb27550bec596414fe93a2.jpg)  
 Figure 12.12 Profit from a strangle  
 
 Table 12.6 Payoff from a strangle.   
@@ -10,7 +10,7 @@ Table 12.6 Payoff from a strangle.
 
 <html><body><table><tr><td>Rangeof stockprice</td><td>Payoff fromcall</td><td>Payoff fromput</td><td>payoff</td></tr><tr><td>Sr ≤ K1</td><td>0</td><td>K1 - ST</td><td>K1 - Sr</td></tr><tr><td>K1 < S < K2</td><td>0</td><td>0</td><td>0</td></tr><tr><td>ST ≥ K2</td><td>ST - K2</td><td>0</td><td>ST - K2</td></tr></table></body></html>  
 
-![](images/606f4f4b613a347b73c8416ff63964e471205c0bd318899bbb9810209e955d97.jpg)  
+![](606f4f4b613a347b73c8416ff63964e471205c0bd318899bbb9810209e955d97.jpg)  
 Figure 12.13 "Spike payoff" from a butterfly spread that can be used as a building block to create other payoffs.  
 
 # SUMMARY  
@@ -80,7 +80,7 @@ In each case, assume that the call option has an exercise price equal to the cur
 (f) A strangle using options with strike prices of $\$25$ and $\$35$ and a 6-month maturity. In each case provide a table showing the relationship between profit and final stock price.   
 Ignore the impact of discounting.  
 
-![](images/e72acbf1dde3067b9ff7f857894747052219c5a9e976a361a266e5cb86fd2ac6.jpg)  
+![](e72acbf1dde3067b9ff7f857894747052219c5a9e976a361a266e5cb86fd2ac6.jpg)  
 
 # Binomial Trees  
 

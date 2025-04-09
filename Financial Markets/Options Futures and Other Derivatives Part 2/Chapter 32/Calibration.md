@@ -4,7 +4,7 @@ Up to now, we have assumed that the volatility parameters. $a$ and $\sigma$ are 
 
 The volatility parameters are determined from market data on actively traded options. These will be referred to as the calibrating instruments. The first stage is to choose a "goodness-of-fit" measure. Suppose there are $n$ calibrating instruments. A popular goodness-of-fit measure is $\textstyle\sum_{i=1}^{n}({\hat{U}}_{i}-V_{i})^{2}$ where $U_{i}$ is the market price of the ith calibrating instrument and $V_{i}$ is the price given by the model for this instrument. The. objective of calibration is to choose the model parameters so that this goodness-of-fit measure is minimized.  
 
-![](images/6d511700fdf51e696062820799350ce695ef6325f886d8e8b40ff409deb8991b.jpg)  
+![](6d511700fdf51e696062820799350ce695ef6325f886d8e8b40ff409deb8991b.jpg)  
 Figure 32.9 Tree, produced by DerivaGem, for valuing an American bond option.  
 
 The number of volatility parameters should not be greater than the number of calibrating instruments. If $a$ and $\sigma$ are constant, there are only two volatility parameters. The models can be extended so that. $a$ or $\sigma$ , or both, are functions of time. Step functions. can be used. Suppose, for example, that. $a$ is constant and $\sigma$ is a function of time. We might choose times. $t_{1},t_{2},\ldots,t_{n}$ and assume $\sigma(t)=\sigma_{0}$ for $t\leq t_{1}$ $\sigma(t)=\sigma_{i}$ for $t_{i}<t\leq t_{i+1}$ - $1\leq i\leq n-1$ ),and $\sigma(t)=\sigma_{n}$ for $t>t_{n}$ . There would then be a total of. $n+2$ volatility parameters: $a$ $\sigma_{0}$ $\sigma_{1}$ ,..., and $\sigma_{n}$  

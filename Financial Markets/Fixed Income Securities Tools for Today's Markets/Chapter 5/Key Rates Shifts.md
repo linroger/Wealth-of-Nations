@@ -9,10 +9,10 @@ The key-rate framework imposes no restrictions on how any key rate. changes rela
 
 The 20-year key-rate shift, depicted by the black, dashed line in the figure, equals one basis point at a term of 20 years. That shift has no effect on par rates with terms less than 10 years - the term of the previous key rate - or on par rates with terms greater than 30 years - the term of the next key rate. Between 10 and 30 years, however, the impact of the shift declines linearly from the 20-year term, which, since the adjacent key rates are both 10 years distant, means a decline of 0.1 basis points per year. For example, the shift increases the 19- and 21-year par rates by 0.9 basis points each; the 18- and 22-year rates by 0.8 basis points each; etc., the 11- and 29-year rates by 0.1 basis points each; and the 10- and 30-year par rates, which are the adjacent key rates, by 0.0 basis points each.  
 
-![](images/e323b7819f8cc02a99bec1e6a6206385c80e5230bd279d728ee337aa827173a5.jpg)  
+![](e323b7819f8cc02a99bec1e6a6206385c80e5230bd279d728ee337aa827173a5.jpg)  
 FIGURE 5.2  Key Rate Shifts with Four Key Rates at Terms of 10, 20, 30, and 40 Years.  
 
-![](images/47046b21390abda98b945cc5d8b5b8e4635f8cd1194d8b91e82ec86b46bacba0.jpg)  
+![](47046b21390abda98b945cc5d8b5b8e4635f8cd1194d8b91e82ec86b46bacba0.jpg)  
 FIGURE 5.3 The HQM Par Rate Curve, as of May 2021, with and Without a 20- Year Key-Rate Shift.  
 
 When computing the 20-year key-rate Dv01 or key-rate duration of. a bond or portfolio, all prices are recomputed after shifting the existing. par rate curve by the 20-year key-rate shift. Figure 5.3 shows the starting High-Quality Market-Weighted (HQM) corporate par-rate curve as the gray, dotted line, and the 20-year key-rate shift, just described, added to that par-rate curve. The shifted par-rate curve, therefore, is the dotted line out to 10 years, the black line from 10 to 30 years, and the dotted line again from 30 to 60 years. As an aside, while this shifted par-rate curve looks reasonable enough, spot and forward rates implied by this shifted curve may not look as natural or reasonable..  

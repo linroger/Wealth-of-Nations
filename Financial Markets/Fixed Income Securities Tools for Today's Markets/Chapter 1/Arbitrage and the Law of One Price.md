@@ -47,5 +47,5 @@ IABLE 1.7 Prices of STRIPS Maturing on May 15, 2030, as of May 14, 2021.
 
 <html><body><table><tr><td>STRIPS</td><td>Price</td></tr><tr><td>C-STRIPS</td><td>85.9453</td></tr><tr><td>P-STRIPSof0.625sof5/15/2030</td><td>86.8549</td></tr><tr><td>P-STRIPS of 6.25s of 5/15/2030</td><td>87.0412</td></tr></table></body></html>  
 
-![](images/9514f8d696f26cc2852effc0adc720ef1b8ee652b941309262909d3107a4ad19.jpg)  
+![](9514f8d696f26cc2852effc0adc720ef1b8ee652b941309262909d3107a4ad19.jpg)  
 FIGURE 1.2 Prices of US Treasury C-STRIPS and P-STRIPS, as of May 14, 2021.  

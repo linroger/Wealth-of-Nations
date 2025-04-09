@@ -318,7 +318,7 @@ A reverse repo is the opposite of a repo. From this perspective the transaction 
 
 Economically, the repo can be viewed as a collateralized loan rather than a pair of securities trades. Legally, however, the transaction is a sale and repurchase, which will have important implications in the event of the default of one of the counterparties. If the securities had merely been pledged, then the default of the repo counterparty would result. in the reverse repo counterparty becoming an unsecured creditor. However, the sale and. repurchase structure means the reverse repo counterparty has the right of close out and set off - they get to keep the securities in lieu of the money lent. Similar principles would. apply if the reverse repo counterparty were to fail..  
 
-![](images/b8b7fe170385d06f6c8a20e277bd3db9714c713f5242ffd0e19187e4d8c5c1a2.jpg)  
+![](b8b7fe170385d06f6c8a20e277bd3db9714c713f5242ffd0e19187e4d8c5c1a2.jpg)  
 Figure 1.1 Repurchase agreements.  
 
 Repos are quoted on a bid and offer basis. From a quoting institution's perspective a quote may be expressed as:  
@@ -439,7 +439,7 @@ The calculation assumes an exact 90-day quarter.
 
 In its most basic form an interest rate swap consists of a periodic exchange of cash flows with one referenced to a fixed rate while the other is referenced to a floating rate of interest, such as a particular maturity of LIBOR (Figure 1.2). Swaps are traded on a notional amount basis, which is usually fixed. The notional amount of a swap is merely a reference value and does not represent an actual cash flow. It will simply determine the magnitude of any cash flow that is subsequently exchanged. Swaps are typically long term, with maturities that may extend out to 30 or 50 years. Although the deals have a long-term maturity, the exchange of cash flows will take place on a more frequent basis. The cash flows are calculated on a. simple interest basis and are paid in arrears. Each market has adopted its own conventions as to the frequency of these payments. For example, in the UsD market the convention is a semi-annual payment of fixed for a quarterly payment of LIBOR. Where the payment dates coincide, it is market convention for the cash flows to be netted. However, since the transaction is OTC, all of the terms and conditions are negotiable and so there are many different variations of the simple vanilla "fixed/float' structure.  
 
-![](images/5a1d5c692d3797bd9104fb19d0477e697c9caca222cec5ebcd148a739fd3603f.jpg)  
+![](5a1d5c692d3797bd9104fb19d0477e697c9caca222cec5ebcd148a739fd3603f.jpg)  
 Figure 1.2 Illustration of fixed vs. floating interest rate swap.  
 
 To illustrate the principles involved, let us assume that both fixed and floating are paid. semi-annually, with the rates for the period being. $5.00\%$ and $4.50\%$ , respectively. We will assume that the cash flows are denominated in GBP, the notional amount is 10 million and that in the 6-month period there are 182 days.  
@@ -482,7 +482,7 @@ In the previous section we had shown that the majority of interest rate swaps in
 
 An asset swap structure has more credit than interest rate exposure. Suppose that interest rates were to rise. The bond element of the structure would lose money but since the investor is paying fixed on a swap, this deal now becomes a more attractive transaction and will therefore increase in value. As a result, the two elements more or less cancel each other out. The same effect in the opposite direction would happen for a fall in interest rates. However, if interest rates remain unchanged but there is a perception that the issuer is more likely to default then the bond element will lose value with no offsetting profit on the swap. Overall there will be a net loss.  
 
-![](images/e79b8c4f234cc7deea49b5b1a6b88a15af97faabe84fd6879ebd647409f12304.jpg)  
+![](e79b8c4f234cc7deea49b5b1a6b88a15af97faabe84fd6879ebd647409f12304.jpg)  
 Figure 1.3 Asset swap package.  
 
 There are a number of reasons why an investor may wish to enter into an asset swap package:  
@@ -499,7 +499,7 @@ An overnight index swap (Ois) is an interest rate swap where the floating leg of
 
 Figure 1.4 shows one simple application of the swap. A bank has agreed to take money on deposit on a fixed rate but can use the swap to transform the nature of their interest rate risk. They enter into an OIS where they receive a fixed rate and pay an overnight index rate. If we assume that the two fixed rates cancel out then the bank accepting the deposit has acquired the funds and on a net basis is paying the overnight index rate. For deals with a maturity of less than one year, the fixed versus compounded floating payments are exchanged at maturity. For OIS transactions of greater than one year the payments are exchanged annually.  
 
-![](images/84e48f75a6c1af1bafac1d8baf9bdefb9b8ab152910cb0ca4a0d991459c66602.jpg)  
+![](84e48f75a6c1af1bafac1d8baf9bdefb9b8ab152910cb0ca4a0d991459c66602.jpg)  
 Figure 1.4 Overnight index swap.  
 
 # Credit default swaps  
@@ -510,7 +510,7 @@ Diagrammatically the CDS can be represented as in Figure 1.5.
 
 In the credit fundamentals section of this chapter (Section 1.4) we derived an intuitive approach to pricing credit that suggested the magnitude of the spread was a function of the expected loss and the probability of default. In the USA and Europe, CDS trade with fixed coupons: 100 and 500 basis points for the USA; 25, 100, 500 and 1000 basis points for Europe. Higher-yielding names will trade with higher coupons, while investment grade names will trade with lower coupons. These coupons will not necessarily reflect the current. market value of the spread and so an upfront cash adjustment will be necessary. Suppose an investment grade name is trading with a fixed coupon of 100 basis points but the market believes that the current value of the spread is 90 basis points. The buyer of protection will be required to pay the spread on a quarterly basis but is locking into a value that is 10 basis points higher than the market spread at the time the deal is executed. As a result he will receive an upfront cash adjustment of 10 basis points per annum, discounted to reflect the time value of money and the probability that the company may default. This is covered in more detail in Chapter 3.  
 
-![](images/9b6334022590de9f4aeb9fb89a28c29821d5c7ea2903da8694c75f510eac4578.jpg)  
+![](9b6334022590de9f4aeb9fb89a28c29821d5c7ea2903da8694c75f510eac4578.jpg)  
 Figure 1.5Credit default swaps.  
 
 Two quoting methods have evolved for single-name CDS transactions. For investment. grade names, the quote is given in terms of a "par spread'. In effect this spread is a reflection of the market's current perception of the creditworthiness of the reference entity. Once the trade is executed, an upfront adjustment is paid or received and all subsequent cash. flows are based on the agreed fixed coupon. For high-yield names the quotation is given. in terms of "points upfront"' but again all subsequent cash flows are executed on a fixed coupon basis. There is a standard market methodology to convert between par spreads and points upfront.  
@@ -555,7 +555,7 @@ The outcome for the buyer of a put with the same characteristics as the call wou
 
 From the profiles illustrated in Figure 1.6, it can be seen that for buyers of options, the maximum loss can never exceed the premium paid. The buyer's maximum loss represents the maximum profit that could be made by the seller of the option. The maximum profit for the option buyer appears to be unlimited, which is true for the call profile but not for the put. The maximum payoff on a put option is the difference between the strike rate and zero as the price of the underlying asset cannot go negative. Selling options can lead to unlimited losses for sellers of calls and significant losses for put writers, with the latter's losses "benefiting" from the restraint of a zero price boundary..  
 
-![](images/5fc25f83b77ee2c1032cf9820694ce895f1cee93cfff7b3cb4f05b73fa795e87.jpg)  
+![](5fc25f83b77ee2c1032cf9820694ce895f1cee93cfff7b3cb4f05b73fa795e87.jpg)  
 Figure 1.6 Profit and loss profiles for options at expiry.  
 
 The payoff of calls and puts at expiry is often represented using the following expressions:  
@@ -647,7 +647,7 @@ We will use this framework of spot-forward-swap-option as the basis of our trade
 
 At the core of the analysis is our relative value triangle (Figure 2.1), which gives a visual description of the relationships that exist between the four core components of any market. The triangle can be interpreted either as a way of representing pricing relationships or to identify trading opportunities. Without wishing to get ahead of ourselves, the following is a brief overview of the direction the chapter will take and considers the nature of fixed income relationships within this framework. We will show there is a mathematical link between the spot price of a bond in the cash market and a bond for future delivery through the concept of "net carry'. Equally, we will show that one way of valuing a swap is to think of the position as being equivalent to a pair of cash bonds, one with a fixed coupon and the other with a floating coupon. In short-term money markets a forward rate of interest could also be derived if we know the value of two spot-starting instruments with different maturities. It is possible to derive the value of a forward-starting instrument with a maturity equal to the difference between the maturities of the two spot instruments. For example, if the value of a 3-month and a 6-month instrument can be observed in the market, it is possible to derive the value of a 3-month instrument in 3 months' time. Using similar principles it is possible to calculate the value of a swap as the weighted average of a series of forward rates. The triangle will also help identify the relationships between the option world and the three corners of the triangle. The term "volatility"' is used as this is the unknown pricing variable within an option pricing model. Although somewhat more involved, it. is possible to create mathematical relationships between the underlying price of the asset (be it a spot or a forward price) and the value of an option. For example, we will show the relationship between options and their underlying market through the very useful (but underrated) concept of put-call parity.  
 
-![](images/fc792e9825efdaefd609e7ffe616fc49b3a7d91d20573ff6a3f06dcc8a29ec78.jpg)  
+![](fc792e9825efdaefd609e7ffe616fc49b3a7d91d20573ff6a3f06dcc8a29ec78.jpg)  
 Figure 2.1 The relative value triangle.  
 
 # 2.3 SPOT PRICING  
@@ -823,7 +823,7 @@ $R=$ zero-coupon rate a, b, $c$ are periods of varying maturity
 
 To illustrate the application of equation (2.6), consider the derivation of a 1-year rate in 1 year's time (also referred to as $^{\circ}1\times2^{\circ}$ rate or the $12/24^{,}$ rate). To derive this value we need a 1-year and a 2-year zero-coupon rate, which we derived in Section 2.3.3 $4.35\%$ and $4.4011\%$ , respectively):  
 
-![](images/5f172d815c80e6de214854a1c181257f320e361db5caa052f3d30deae98b83eb.jpg)  
+![](5f172d815c80e6de214854a1c181257f320e361db5caa052f3d30deae98b83eb.jpg)  
 Figure 2.2 Hedging a forward loan commitment.  
 
 Table 2.2 Par, forward and zero rates   
@@ -871,7 +871,7 @@ $$
 
 Note that the original par values were set up with "steps" of five basis points $(0.05\%)$ between each observation. This resulted in a set of forward rates that was consistently upward sloping. If the par curve was to flatten out at longer maturities then the mathematics of forward rate derivation would show a different result. Consider the values in Figure 2.3. In this figure, the par and zero curves are flat but as a result the derived forward observations are somewhat jagged in nature. Consequently, an investor may consider there is no. fundamental justification for this shape. Perhaps they do not believe that interest rates will evolve in such a discontinuous manner, and a smoother evolution would be a more reasonable outcome. As a result, this anomaly could be exploited using a number of strategies, which we consider in later chapters..  
 
-![](images/25489b1cc73f95abde8e072ea06fa4c4a5257b42471f4269abcd40306b991414.jpg)  
+![](25489b1cc73f95abde8e072ea06fa4c4a5257b42471f4269abcd40306b991414.jpg)  
 Figure 2.3 Par and forward curves; the effects of a flat par curve.  
 
 # Forwards as breakevens  
@@ -921,7 +921,7 @@ Empirically there is also little evidence that forward rates are accurate predic
 
 Each "hair"' represents the forward curve out to 2 years on a single date. By looking. at the difference between the "hair' at any point and the actual level of LIBOR that sits. immediately below that observation, we can determine the accuracy of the forwards in predicting LIBOR.  
 
-![](images/638e3a745d9cea99ef40359970517f0b2a35f4e52626ed9e4869aa470e785e1b.jpg)  
+![](638e3a745d9cea99ef40359970517f0b2a35f4e52626ed9e4869aa470e785e1b.jpg)  
 Figure 2.4  Forwards as predictors of future spot rates: 3-month LIBOR from 1992 to 2007.  
 
 This vertical distance is the extent to which the forward rate over- or under-predicted. the actual value of LIBOR. As the figure shows, the ability of the forward rate to accurately predict the value of LIBOR is very poor. In the majority of cases, the forward rates. over-predicted actual LIBOR and by a considerable amount. Interestingly, when forward. rates under-predicted LIBOR they did so by a smaller margin..  
@@ -1270,7 +1270,7 @@ As a result of this dislocation, banks now vary the discount rate applied to a p
 
 To illustrate the concept, consider a hedge fund that has an off-market/loss-making USD swap exposure to a bank and has posted USD collateral against it. The hedge fund will earn the Fed Funds rate, which will be paid by the bank on this collateral. If the hedge fund were to decide to cancel the swap, then it would have to pay cash to the bank rather than post. the collateral. The issue faced by the bank is whether it should calculate the termination value of the swap using either a LIBOR rate or an OIS rate. It should calculate the present value of the swap using the OIS curve, since this more accurately highlights the "value" of the collateral it is currently holding.  
 
-![](images/b63ab8e99efa3a2a1e69c3d31472759523b004f8386a1d5e7f44c9bb73363dd5.jpg)  
+![](b63ab8e99efa3a2a1e69c3d31472759523b004f8386a1d5e7f44c9bb73363dd5.jpg)  
 Figure 2.5LIBOR-OIS spread for EUR, GBP and USD 2006-2011. Source: Data sourced from Barclays Capital Live. Reproduced with permissio  
 
 Suppose the swap is out-of-the-money from the hedge fund's perspective by $0.5\%$ . If we assume that the notional is $\$100$ , the transaction has exactly one year to expiry and that. current 12-month LIBOR rates are $3\%$ , then the mark to market is $(0.5\%\times\S100)/(1.03)=$ $\$0.4854$ . However, the counterparty bank would demand collateral in excess of this amount. as they will only earn interest at an OIS rate, which is lower than LIBOR. The higher sum demanded by the bank will ensure that the collateral and the interest earned will cover the cash payments due under the swap. So if we assume that the 12-month OIS rate is. $2\%$ then the discounted value of the collateral is $(0.5\%\times\S100)/(1.02)=\S0.4902.$ It follows that this higher sum of money invested at the current OIS rate will return $\$0.5$ at the end of the swap.  
@@ -1407,10 +1407,10 @@ Asset price $_{\mathbf{down}}=$ the price of the asset assuming its value has de
 
 The formula indicates that the value of the option has only moved by $50\%$ of the movement in the underlying price. This suggests that to replicate the payoff on the option position the appropriate hedge is to purchase half of the underlying asset. This hedge ratio means that for every two options sold we would only need to buy and hold one of the underlying assets. Figure 2.6 shows the value of the replicating portfolio assuming we sell two call options and hedge the exposure by purchasing one underlying asset.  
 
-![](images/05feab66d318d8f0b5d8320dc03740f41aea79bbd8977a5c6c00ca650ee7e8fb.jpg)  
+![](05feab66d318d8f0b5d8320dc03740f41aea79bbd8977a5c6c00ca650ee7e8fb.jpg)  
 Figure 2.6 The value of the replicating portfolio.  
 
-![](images/1a61637f480a4c2e0389d25c28f502a08d54fec4bb28bdf7048fbb0899b54433.jpg)  
+![](1a61637f480a4c2e0389d25c28f502a08d54fec4bb28bdf7048fbb0899b54433.jpg)  
 Figure 2.7 The option exposure.  
 
 Figure 2.7 shows the value of the option portfolio over the same period. The figure indicates that having sold two options and received a premium inflow, the trader could be faced with a possible payout at the option's maturity. The $-\$10$ in the upper right-hand side of the tree represents the total payout if both options were exercised. This is derived assuming an expiry value of $\$105$ and a strike price of $\$100$  
@@ -1421,7 +1421,7 @@ Since the portfolio is worth. $\$95$ in 12 months' time, the present value of th
 
 Note, however, that on the trade date there is a net outflow of funds. The trader must buy one asset at. $\$100$ to hedge the portfolio and will receive. $\$9.52$ from the sale of the. two options. The difference between the two cash flows. $(\$90.48)$ will have to be borrowed and will be financed at current rates of interest. $(5\%)$ , with $\$95$ being repaid at maturity.. The repayment on this loan is equal to the value of the portfolio at maturity, irrespective of whether the price rises or falls.  
 
-![](images/2c0e79c6f657d4d6f4dc18d2680f37abc7669c06366b3f3b6f283f6d7ded91ff.jpg)  
+![](2c0e79c6f657d4d6f4dc18d2680f37abc7669c06366b3f3b6f283f6d7ded91ff.jpg)  
 Figure 2.8 The option exposure combined with the underlying hedge.  
 
 Consider the cash flows at maturity. In the "price up' scenario:  
@@ -1453,7 +1453,7 @@ Monte Carlo simulation is a technique that is used to price options when a close
 
 . The price will grow exponentially over time in line with the cost of carrying the underlying asset. So if holding the asset incurs expense (i.e., negative carry), the asset price will trend upwards and will trend downwards if the asset carries positively.. . The price will deviate unpredictably from its trend based on a random disturbance..  
 
-![](images/16f3f20cdb7ad10167a5e91c6b6eb7761bcc4a75b1c2fa795b9912891fa4d438.jpg)  
+![](16f3f20cdb7ad10167a5e91c6b6eb7761bcc4a75b1c2fa795b9912891fa4d438.jpg)  
 Figure 2.9 Monte Carlo simulation.  
 
 So to calculate the price of the option using the Monte Carlo process the steps are:  
@@ -1547,7 +1547,7 @@ In this appendix we consider a number of aspects relating to the discounting of 
 
 The first issue relates to the sourcing of OIS rates. One of the simplest ways to build an OIS curve is to use observed market values. The rates quoted for maturities of less than one year are zero coupon in style but those of longer maturities are par rates. Where the market does not quote an OIS rate it would be possible to derive a value using LIBOR rates and then adjusting them by the LIBOR-OIS basis which is quoted out to 30 years (see Figure 2.10).  
 
-![](images/264196ef5c077f4e18a3075ae6feff2fc7dde303336bf3300f77961bb35b2925.jpg)  
+![](264196ef5c077f4e18a3075ae6feff2fc7dde303336bf3300f77961bb35b2925.jpg)  
 Figure 2.10LIBOR-OIS basis report. Report shows the difference between LIBOR and OIS rates of a given maturity in basis points. Effective dates are read vertically, maturities horizontally. Example: the spot starting 12-month LIBOR-OIS basis is 16.7 basis points. Source: Barclays Capital Live. Reproduced with permission.  
 
 # Value of swap at inception  
@@ -1733,7 +1733,7 @@ One of the drawbacks of using modified duration as a measure of market risk is t
 
 However, if we were to calculate the prices of these bonds at the new level of yields using either a spreadsheet or bond calculator, then we would see very different results. Re-pricing the 5-year bond with a $6\%$ coupon at a $5\%$ yield to maturity returns a clean price of 104.3295. The same bond priced at a $3\%$ yield returns a price of 113.7391. From this we can conclude that modified duration as an accurate predictor of market risk has. its limitations. Figure 3.1 shows the convex price-yield relationship along with the linear predictions made by modified duration. Modified duration will tend to overestimate the fall in bond prices when yields rise and underestimate the rise in price for a fall in yields. The figure also illustrates an advantageous property for an investor who has bought the bond.. Note that when yields fall, prices rise at an accelerating rate; when yields rise, prices fall at a decelerating rate. This effect is referred to as "positive convexity" and is a desirable property in a bond.  
 
-![](images/d8e6b429ad1ff3c525934edab51c60205b750ebb1fb30c47ad39914b988eb3a9.jpg)  
+![](d8e6b429ad1ff3c525934edab51c60205b750ebb1fb30c47ad39914b988eb3a9.jpg)  
 Figure 3.1 Price-yield relationship for fixed income securities.  
 
 It is possible to calculate the predicted price of the asset for a given change in yields that will take into account the degree of curvature that the instrument displays and hence account for the degree of "error' when using modified duration. Mathematically, convexity is a second-order function and so is defined as the change in the modified duration of the bond for a $1\%$ change in yield. It is unlikely that the majority of readers will be required to. perform this calculation, and so the interested reader is referred to Watsham and Parramore (1997) who provide a complete mathematical derivation.  
@@ -2052,7 +2052,7 @@ In reality, very few market participants will use a model to price an option. Th
 . Theta - the passage of time.   
 Gamma  the rate of change of delta.  
 
-![](images/1c2a480502d170595454376e37cfd6ba6eb4f15f62dce79b0aae1234d7c084e3.jpg)  
+![](1c2a480502d170595454376e37cfd6ba6eb4f15f62dce79b0aae1234d7c084e3.jpg)  
 Figure 3.2 Option payoff profiles and delta.  
 
 # 3.6.1 Delta  
@@ -2096,7 +2096,7 @@ The probability of exercise - Although not true in a statistical sense, delta ca
 
 Delta possesses two other important properties. Firstly, delta changes as a function of time even if there is no movement in the underlying asset price. In Figure 3.3 the evolution of delta is shown through time. The upper figure shows the value of delta for a 12-month option, while the lower figure shows the value of delta for the same position much closer to expiry. This follows from the upper part of Figure 3.2, which illustrates how the price line of the option evolved through time, losing its curvature and becoming more linear. This evolution of delta is sometimes referred to as "delta bleed", and would be of concern to a trader looking to hedge his directional exposure..  
 
-![](images/291941267a1f32f3754fa07b42acc89ce924450a62be6a4b15c55981e400c099.jpg)  
+![](291941267a1f32f3754fa07b42acc89ce924450a62be6a4b15c55981e400c099.jpg)  
 Figure 3.3 The evolution of delta through time.  
 
 The second important property of delta is the sensitivity of its value to the magnitude. of the implied volatility input used to price the option. As the implied volatility of the underlying asset increases, the delta of both calls and puts will tend towards zero, all other things being equal. This is because the range of expected prices at maturity widens and so intuitively the probability of exercise tends towards 50:50..  
@@ -2129,12 +2129,12 @@ Suppose an asset is trading with a price of $\yen50$ and the delta value for a l
 
 The second example of gamma relates to its impact on the delta hedging activities of an option trader. Suppose an option trader has sold a very short-dated call on 10,o00 shares, which are trading at a price of $700\mathrm{p}$ The trader has decided to implement a trade that is delta neutral as he wishes to express a view on the volatility of the underlying asset. We will assume the delta of the option is $-0.50$ , meaning the market risk on the option position is equivalent to being short 5,000 of the underlying shares. To delta hedge this exposure the trader buys 5,000 shares at the prevailing price of $700\mathrm{p}$ . However, shortly after the trade has been hedged the underlying share price rallies to $720\mathrm{p}$ which according to the trader's option model corresponds to a delta of. $-0.92$ . As a result, the option position now. has the same market exposure as a short position of 9,200 shares. However, his existing. delta hedge comprises a long position of 5,000 shares. If the price of the underlying asset continues to rise, the option position will show a mark-to-market loss greater than the profit on the offsetting hedge. This is because the loss on his option is nonlinear and so will increase at a faster rate than the increase in the linear profit on the underlying hedge. As a result, he decides to re-hedge at the higher price and new delta value, which means he must buy 4,200 shares at $720\mathrm{p}$ to maintain his delta neutrality. However, shortly after putting on the hedge the share price slips back to its original starting value of $700\mathrm{p}$ , which means. that the option's delta falls back to. $-0.50$ If the price of the underlying asset continues to fall, the mark-to-market profits on the trader's option position (as measured from the higher price of 720p) will be greater than the losses on the delta hedge. This time the option profits are decelerating while the losses on his hedge increase at a faster rate. As a result, the trader decides to rebalance again by selling 4,200 shares at the prevailing price of $700\mathrm{p}$ If the market were to close at this point the trader would be facing a loss after their trading activities. Since the underlying price started and finished the session at the same price and. the analysis has been performed intraday, the value of the option position will be unchanged. The source of loss was the trader's hedging activities. He started and finished the session with a long position of 5,000 shares but bought an additional 4,200 at a price of 720p before selling them at. $700\mathrm{p}$ . This results in a net loss of 840..  
 
-![](images/8d94c500f2392563911f25d759c96825ee359a0634614b6ea8ad930736d55c15.jpg)  
+![](8d94c500f2392563911f25d759c96825ee359a0634614b6ea8ad930736d55c15.jpg)  
 
-![](images/fbc9bee93b68ea04d374a802b7e613a90ae98537f3384dbcfaf8e71a0a6de87c.jpg)  
+![](fbc9bee93b68ea04d374a802b7e613a90ae98537f3384dbcfaf8e71a0a6de87c.jpg)  
 Figure 3.5 The value of gamma in three dimensions (option strike $=100\AA.$  
 
-![](images/b9c7c2d6c4cde01805d030aad650755f567694f03e0d5753ecb32e483b670688.jpg)  
+![](b9c7c2d6c4cde01805d030aad650755f567694f03e0d5753ecb32e483b670688.jpg)  
 Figure 3.6 Delta hedging an option position in a volatile market.  
 
 Figure 3.6 illustrates the intuition of delta hedging a short option position when the market moves. If we assume that the initial price of the underlying asset is. $P_{1}$ , then a rise in price to $P_{2}$ will lead to a loss on the short option position equal to. $A_{2}-A_{3}$ . This loss is greater than the profit made on the underlying delta hedge, which is equal to. $A_{0}-A_{1}$ . Although not shown on the diagram, the reader is invited to consider the impact of a falling price. from point $P_{1}$ . Here the profits on the option position will decelerate, while the losses on. the hedge increase at a faster rate.  
@@ -2171,7 +2171,7 @@ Table 3.9 The time decay for a long call option position with initially 1 year t
 
 <html><body><table><tr><td>Option type</td><td>1 year</td><td>0.75 year</td><td>0.5year</td><td>0.25 year</td><td>Expiry</td></tr><tr><td>ITM</td><td>10.4197</td><td>10.2313</td><td>10.0501</td><td>9.9321</td><td>10.0000</td></tr><tr><td>ATM</td><td>3.7933</td><td>3.3267</td><td>2.7507</td><td>1.9697</td><td>0.0000</td></tr><tr><td>OTM</td><td>0.6776</td><td>0.4288</td><td>0.1961</td><td>0.0297</td><td>0.0000</td></tr></table></body></html>  
 
-![](images/24cec0e4978924084ea0a7a0da379f8179a703db41524be1355edea476a07f4b.jpg)  
+![](24cec0e4978924084ea0a7a0da379f8179a703db41524be1355edea476a07f4b.jpg)  
 Figure 3.7 Evolution of theta in three dimensions (option strike $=100\AA.$  
 
 A number of features can be identified from this table:  
@@ -2207,7 +2207,7 @@ For OTM options, when implied volatility is very low a doubling in its value wil
 . Buyers of options (calls and puts) are considered to be vega positive, while sellers of options are vega negative.   
 Vega is highest for long-dated, at-the-money strikes, whereas short-dated OTM/ITM strikes will have the lowest vega values.  
 
-![](images/44a772cde9c6419229dd8366910c1b423dc9fc5dd4fca365ee4fba038b9752b1.jpg)  
+![](44a772cde9c6419229dd8366910c1b423dc9fc5dd4fca365ee4fba038b9752b1.jpg)  
 Figure 3.8  Relationship between implied volatility and option premium for options with different strikes.  
 
 Vega in three dimensions is shown in Figure 3.9.  
@@ -2218,7 +2218,7 @@ A trader can take vega exposure to express a particular view on how the market w
 
 Figure 3.8 shows that for an ATM option vega is a constant but for other strikes will change. as implied volatility itself changes. This is captured by the Greek measure "vol gamma" (sometimes called "volga' or "vomma"). Although not shown in the diagram vega will also change as the spot price changes and this effect is captured by "vanna' (sometimes called "dvega dspot'). Readers interested in understanding more about the maths relating to these measures are referred to Haug (2007).  
 
-![](images/b7e0110929253e500710758c54fc1fdce1ba724a424c3dd5e9d7724f2994dbd1.jpg)  
+![](b7e0110929253e500710758c54fc1fdce1ba724a424c3dd5e9d7724f2994dbd1.jpg)  
 Figure 3.9 Evolution of vega with respect to the underlying price and expiry (option strike $=100\AA.$  
 
 # Headline and weighted vega  
@@ -2233,17 +2233,17 @@ This indicates that the market risk is concentrated in the shorter-dated maturit
 
 One of the assumptions of pricing options using a Black-Scholes framework is that the implied volatility input is not dependent on strike or maturity - i.e., it is a constant across both these variables. However, this assumption is contradicted by empirical observation. When volatility varies with respect to strike this is referred to as a volatility smile or volatility skew. When volatilities vary according to maturity it is possible to describe volatility as possessing a term structure. Combining these two concepts together, it is possible to derive the concept of a volatility surface. However, in our experience it is common for practitioners to use the terms interchangeably and so we will first of all define our terms. A volatility smile exists where OTM and ITM options are priced using a higher implied volatility input than that used for ATM options. This would typically be seen in markets like foreign exchange (see Figure 3.10).  
 
-![](images/d1fc4d0fed4fb4fc61910d4535b740ed596292eb2b5a6f7649eaccb21ff50c66.jpg)  
+![](d1fc4d0fed4fb4fc61910d4535b740ed596292eb2b5a6f7649eaccb21ff50c66.jpg)  
 Figure 3.10 Example of volatility smile $\mathrm{D}=$ Delta.  
 
 If the smile is somewhat lopsided then this is termed a volatility skew. For example, equity index options tend to display a skew to the downside. That is, OTM puts (and ITM calls) are priced at a higher implied volatility than ATM options and OTM calls (and ITM puts). Several reasons have been offered to explain the existence of non-constant volatility. Arguably the most popular reason is the concept of "fat tails"; the occurrence of extreme events is greater than the option model predicts since the underlying distribution does not conform to the classic (lognormal) distribution used in theoretical option pricing (see Figure 3.11).  
 
 De Weert (2008) offers a second explanation, which is based on traders' hedging activities.. Using the equity market as an example, he points out that as markets crash they tend to. become more volatile. For those traders who had sold OTM put options, these options would suddenly tend towards becoming ATM and their gamma exposure would increase. As we showed in Section 3.6.2, delta hedging a short option position in a volatile market will lead to losses as a result of rebalancing the hedge. Since the trader will be aware of this problem, he is more likely to initially price his options with a higher implied volatility to provide. him with an extra cushion..  
 
-![](images/c0247215841073384c2b3cf98fcfefc12241ab007a39bef98ac6a01e082b3780.jpg)  
+![](c0247215841073384c2b3cf98fcfefc12241ab007a39bef98ac6a01e082b3780.jpg)  
 Figure 3.11 Example of fat-tailed distribution relative to lognormal distribution.  
 
-![](images/442b036c02a9f8dfd4e57a5382fb9bee8cdea0b4d38f3ef7b6d47702a78f9722.jpg)  
+![](442b036c02a9f8dfd4e57a5382fb9bee8cdea0b4d38f3ef7b6d47702a78f9722.jpg)  
 Figure 3.12Example of volatility skew $\mathrm{D}=$ Delta.  
 
 The third explanation is simple demand and supply. If a trader expects a rally in the market he may decide to buy OTM calls in anticipation of the event occurring. To finance this purchase he could sell OTM puts which he believes would not be exercised since the market is expected to move in the opposite direction. As a result of the purchase and sale, the implied volatility of OTM calls rises and falls for OTM puts and the market becomes skewed to the upside (Figure 3.12).  
@@ -2272,7 +2272,7 @@ The favoured method used by the bank to calculate DVAR is historical simulation.
 
 Figure 3.13 illustrates the average, high and low DVAR for two asset classes comparing. 2008 with 2007. The period was one of great volatility and the VAR numbers reflect this increased turbulence.  
 
-![](images/ff34439fba88cd79fe83b5656398f7489313e9b1b100d2d7c8f587b7049866da.jpg)  
+![](ff34439fba88cd79fe83b5656398f7489313e9b1b100d2d7c8f587b7049866da.jpg)  
 Figure 3.13Daily value at risk (GBP millions). Source: Barclays plc 2008 annual report.  
 
 # 4 Expressing Views on the Interrelationships between Products  
@@ -2308,7 +2308,7 @@ Bond futures and forward-starting interest rate swaps.
 . Directional and volatility strategies.   
 : Caps/floors and swaptions.  
 
-![](images/967fd0ae276314f4a297ccc7a6c8497098e6a7925130f7c51526810dfde6957d.jpg)  
+![](967fd0ae276314f4a297ccc7a6c8497098e6a7925130f7c51526810dfde6957d.jpg)  
 Figure 4.1  A relative value framework.  
 
 # 4.1 THE SPOT-FORWARD RELATIONSHIP  
@@ -2341,7 +2341,7 @@ The contract specification for the Bund future is shown in Table 4.1.
 
 The unique property of this futures contract is that there is no underlying instrument with a coupon of $6\%$ that matures between $8{\frac{1}{2}}$ and $10{\frac{1}{2}}$ years in the future. The contract was deliberately designed this way to allow market participants the ability to deliver one of a number of pre-specified bonds. The intention was to avoid excessive demand for a single bond at a particular date. The exchange states which bonds are part of the so-called "deliverable basket' and for the Bund future maturing in June 2010, they were:  
 
-![](images/5f2e272a86d0b9283f41112cd8a49ca064a930b3babbd8eafce220952749c154.jpg)  
+![](5f2e272a86d0b9283f41112cd8a49ca064a930b3babbd8eafce220952749c154.jpg)  
 Figure 4.2  The German sovereign bond yield curve with the various bond futures maturities superimposed.  
 
 Table 4.1  Contract specification for Bund future   
@@ -2522,7 +2522,7 @@ One of the consequences of using the conversion factor formula is that all of th
 
 Figure 4.3 illustrates how the CTD could change over the life of the bond future. As a rule of thumb, if market yields are below the notional coupon on the future, the CTD will tend to track the bond with the lowest DV01 and shortest maturity. This is because as yields fall, the rise in price of this type of bond is relatively small and so will tend to remain the bond with the lowest converted forward price. A rise in yields will push bond prices down with the result that the high Dv01 bond will tend to fall by the greatest amount, resulting. in the lowest converted forward price. It is only when market yields are identical to the coupon on the notional future that a trader would be indifferent between the two bonds. Indeed, if we refer back to our basket of deliverable bonds with market yields at just over  
 
-![](images/c28c8598fd007e29f5ebc390524458f8f06bd2f6ca0d7970ff1179103e94a10b.jpg)  
+![](c28c8598fd007e29f5ebc390524458f8f06bd2f6ca0d7970ff1179103e94a10b.jpg)  
 Figure 4.3 How the CTD can change over the life of the bond future.  
 
 $3.00\%$ , below the notional coupon on the bond future $(6\%)$ the bond with the lowest DV01 and the shortest maturity is indeed the CTD. The values were:  
@@ -2574,7 +2574,7 @@ However, this analysis does not capture the reality of how yield curves move. We
 
 From this it follows that if yields were to fall, the likelihood of CTD switches is reduced as the price of shorter-dated bonds will rise by more than long-term bonds. This will delay. the switch in the CTD from the longer to the shorter-dated bond. As yields rise, the price. of shorter-dated bonds falls by more than longer-dated bonds. Therefore, the shorter-dated. bond is likely to stay as the CTD for longer. This means it is possible to slow down or. quicken up the point at which a switch occurs between bonds being the CTD..  
 
-![](images/0781b811d39446fb1f6685871e39ee2166b437a8c8cdf4aaab60205f6e96ca64.jpg)  
+![](0781b811d39446fb1f6685871e39ee2166b437a8c8cdf4aaab60205f6e96ca64.jpg)  
 Figure 4.4 Yield curve movements.  
 
 Table 4.4 Yield changes required for a deliverable bond to become the CTD   
@@ -2671,7 +2671,7 @@ $$
 
 The value of the gross basis includes both the cost of carry and the embedded optionality. Since the repo expense is 0.143502 and the coupon income was 1.808219, the carry totals to a value of $-1.664717$ . Since the cash bond and the carry components have no optionality, the residual value - which is part of the observed futures price - is the embedded option value and is worth. $-0.04652$ . Admittedly, this is something of an odd position in that a trader initiating a long basis trade (buy the bond, sell the future, long the delivery option). is actually being paid for buying the option. Suppose, however, the fair value of the option (i.e., the theoretical value of the net basis) had been calculated as. $+0.01$ . Holding the price. of the cash bond and carry components the same (as they have no optionality), the fair. value of the future would have to be about 5.5 basis points lower in order to return a net basis of $0.01-103.4843$ to be a little more precise. This confirms the notion that the future is rich and the basis cheap, implying buy the basis and in this instance get paid for going long. an option!  
 
-![](images/db105ec9e80f6b1ee6a2c8e401dd48351c264eb90ff16e7c6fe39dbc575b490a.jpg)  
+![](db105ec9e80f6b1ee6a2c8e401dd48351c264eb90ff16e7c6fe39dbc575b490a.jpg)  
 Figure 4.5 (a) The deliverable basket of bond moments before the expiry of the bond futures contract.. (b) The net basis of the long-dated bond from part (a) against yields. (c) The net basis of the long-dated bond from part (a) with an overlaid probability distribution..  
 
 # 4.1.6 Implementing a basis trade  
@@ -2825,7 +2825,7 @@ Although credit factors can explain the existence of the swap spread, there are 
 The perceived creditworthiness of the banking sector - If there are concerns over the creditworthiness of banks then there may be a "flight to quality" with the increased purchase of government bonds. As a result, yields will fall and LIBOR may increase. Since swap rates are in effect long-dated LIBOR rates they may well increase, causing swap spreads to widen.   
 The shape of the swaps curve - If the swap curve is very steep, it is advantageous to receive longer-term swap fixed rates and pay short-term LIBOR. This increases the demand to receive fixed, making it relatively "expensive'. However, in this context expensive is defined as a fall. in rates, i.e., it becomes less attractive to receive fixed. If swap rates fall and government yields are unchanged, then swap spreads will fall. If the curve is flat or perhaps inverted, floating-rate borrowers are more likely to want to pay a fixed rate. By paying fixed and receiving LIBOR in an interest rate swap, the LIBOR cash flow should neutralize their underlying floating borrowing exposure, leaving them a net payer of fixed. As a result of this activity swap rates should increase, removing the relative attractiveness of the strategy and leading to an increase in swap spreads. This relationship is shown in Figure 4.6. The observant reader will note that on certain occasions (i.e.,. May 2009) the swap spread became negative, implying that the banks were considered a better credit risk than the governments! However, this interpretation needs to be treated with caution. "A swap rate, irrespective of the tenor, carries the risk of a Libor panel bank defaulting in the  
 
-![](images/e64df2c4813bc2f83a35275f069f6897464db889cd9c046ecf59a661083ba3d8.jpg)  
+![](e64df2c4813bc2f83a35275f069f6897464db889cd9c046ecf59a661083ba3d8.jpg)  
 Figure 4.6 The relationship between EUR swap rates and the slope of the swap curve. January $2000-$ November 2009. Source: Data sourced from Barclays Capital Live. Used with permission.  
 
 next three months as the rate is built on 3m Libor settings. If a Libor panel bank were to default it would no longer be in the panel and Libor would still be computed based on settings by the remaining banks. The default risk would certainly rise, resulting in a higher Libor setting, but it would still reflect the risk of a Libor panel bank defaulting over the subsequent three months. The. tenor of the swap - 5y or 30y - has no bearing on the implicit default risk. A government bond,. on the other hand, carries the sovereign risk over the life of the bond. Hence, a negative 30y swap. spread simply means that the market perceives the banking system to be healthier over three-month periods than the government over the next 30 years, a possibility that cannot be considered trivial". (Pradhan, 2010).  
@@ -2842,10 +2842,10 @@ Swap market
 
 . 5-year swap rate $=2.69\%$ : $\mathrm{DV}01=4.70$ (scaled by a factor of 100)  
 
-![](images/58b0892c3c4da1e2e90606d7fdcbf880c6a19178e6ae3f01dfa641846fd1a447.jpg)  
+![](58b0892c3c4da1e2e90606d7fdcbf880c6a19178e6ae3f01dfa641846fd1a447.jpg)  
 Figure 4.7 Relationship between 10-year EUR swap rates and swap spreads. January 2000- November 2009. Source: Data sourced from Barclays Capital Live. Used with permission.  
 
-![](images/e9c3d887dd274e0ab9285594a272e2695cfdf584652895377c78082dac71a742.jpg)  
+![](e9c3d887dd274e0ab9285594a272e2695cfdf584652895377c78082dac71a742.jpg)  
 Figure 4.8 Evolution of 5-year UsD swap spread (measured on the right-hand axis; SeptemberDecember 2009). Source: Data sourced from Barclays Capital Live. Used with permission.  
 
 Table 4.8  Summary of transactions required to express a view on the movement of swap spreads   
@@ -2884,7 +2884,7 @@ The profit and loss on the transaction is:
 
 An interesting phenomenon witnessed in the swaps markets from 2008 to 2010 was the existence on a prolonged basis of a negative swap spread (Figure 4.9)..  
 
-![](images/5ccf2aad8aa98662e8529b0b2e2e0fd73546212134d19dbf3579eae5ed0ee080.jpg)  
+![](5ccf2aad8aa98662e8529b0b2e2e0fd73546212134d19dbf3579eae5ed0ee080.jpg)  
 Figure 4.9 Negative 30-year USD swap spreads (January 2008-December 2009). Source: Data sourced from Barclays Capital Live. Used with permission.  
 
 These negative swap spreads were attributed to:  
@@ -2920,7 +2920,7 @@ The first step is to calculate the yield to maturity implied by the bond future 
 
 In simple terms the objective of trading options is to ensure that more premium is received than paid. From this it follows that a trader needs to understand the different components of an option premium and how it is likely to move. In Chapter 2 we argued that an option's premium comprised intrinsic and time value. The intrinsic value of the option is driven by changes in the underlying market, while the two primary drivers of time value are implied volatility and the passage of time. From this it makes sense to suggest that a trader needs to develop views on expected movements in the price of the underlying asset and its implied volatility (Figure 4.10). It is difficult to have a "view" on time, although there are certain option strategies that will exploit the different speeds at which options decay as a result of the passage of time. Tompkins (1994) develops a simple matrix that captures the different ways in which a trader can express views on directional movements and/or movements in implied volatility. We have adopted a similar approach, but emphasizing one of our key. themes - \*"what is the most effective way to express a particular view on the market? For purposes of space we have decided to omit a number of strategies (e.g., butterflies and time spreads as well as those that are neutral to both direction and volatility), but we highly recommend the Tompkins text to those readers who wish to analyse these strategies in detail.  
 
-![](images/f0c1a3773c7449a38ecd70eb0ccc99c9e98ce4b0502fa22a7ed24a3a7208d356.jpg)  
+![](f0c1a3773c7449a38ecd70eb0ccc99c9e98ce4b0502fa22a7ed24a3a7208d356.jpg)  
 Figure 4.10  Option-trading matrix for options.  
 
 # Building-block strategies  
@@ -2940,7 +2940,7 @@ These positions are represented in Figure 4.11.
 
 Directional strategies can be constructed using either a single option or combinations of options that are referred to as "vertical spreads". Somewhat confusingly, the market refers to these trades as "call spreads" (to express a bullish sentiment) or "put spreads" (to express a bearish sentiment). Technically, this is somewhat ambiguous as vertical spreads to express bullish views on the market ("bull spreads") can be constructed using either calls or puts.. Similarly, bear spreads can be constructed using calls or puts, but as we will see the strategies are not exactly equal.  
 
-![](images/a8bc11a407832a38d9b63d3e96845c036a80b5322c7da8f3a3d052ea9e01888e.jpg)  
+![](a8bc11a407832a38d9b63d3e96845c036a80b5322c7da8f3a3d052ea9e01888e.jpg)  
 Figure 4.11 Option-trading matrix for options incorporating the building-block strategies.  
 
 # Bull spreads  
@@ -2963,7 +2963,7 @@ Figure 4.12 illustrates the net payoff from selling a put option at a strike of 
 
 The same strategy could have been constructed by selling a call at a strike of 99 and buying a call at a strike of 101. This would have generated an initial income of 19,200, which would be the maximum profit on the strategy. The maximum loss if the market had rallied would be 20,800.  
 
-![](images/6d41280bac6e49beea78345fc24a54fbcc57800e94b4061d84288d47a9ad8ef9.jpg)  
+![](6d41280bac6e49beea78345fc24a54fbcc57800e94b4061d84288d47a9ad8ef9.jpg)  
 Figure 4.12 Example of net payoff from a "99 - 101 bear spread". Current underlying price is 100. Straight lines illustrate the "at-expiry" profit and loss; curved line represents profit and loss prior to expiry.  
 
 From a "Greek"' point of view, the bear spread position is initially:  
@@ -2985,7 +2985,7 @@ The bull spread is initially:
 
 Similar to the bear spreads, the deltas will net to zero for large movements in the underlying price. Additionally, time decay will not start to set in until close to maturity and will either be positive or negative depending on how the underlying price has moved.  
 
-![](images/31da21454e8ab6892fb76368939b268febb5168793509306dbb58d19658c1279.jpg)  
+![](31da21454e8ab6892fb76368939b268febb5168793509306dbb58d19658c1279.jpg)  
 Figure 4.13 Example of net payoff from a "99 - 101 bull spread'. Current underlying price is 100. Straight lines illustrate "at-expiry" profit and loss; curved line represents profit and loss prior to expiry.  
 
 Table 4.9 Summary of vertical spread trades   
@@ -3007,7 +3007,7 @@ Upfront cost/income
 
 Buying the underlying asset will require the trader to borrow the cost of the asset upfront. A bull call spread will require a payment of premium but this will be smaller than buying the asset. outright. . A bull put spread will generate a payment of premium.  
 
-![](images/2c350994a7cfaddee7bbcbd6447160fd170c8288c342e9e214c442350b16dd01.jpg)  
+![](2c350994a7cfaddee7bbcbd6447160fd170c8288c342e9e214c442350b16dd01.jpg)  
 Figure 4.14  Option-trading matrix incorporating directional strategies.  
 
 Profit and loss potential  
@@ -3062,20 +3062,20 @@ position will become delta positive (the short put option dominates the exposure
 the outcomes is desirable and the position will lose money for significant movements in the.   
 underling price. As the position approaches expiry it will rise in value due to the positive.  
 
-![](images/0848ac3190afa758cde4bfab3227133a0cf140e064d906bb3c17d92415324e38.jpg)  
+![](0848ac3190afa758cde4bfab3227133a0cf140e064d906bb3c17d92415324e38.jpg)  
 Figure 4.15 Net payoff for short straddle at expiry and prior to expiry.  
 
 effect of theta. However, the gamma exposure will also increase, making the profit and loss on the position very sensitive to significant changes in the underlying price. However, the strategy is impacted by both implied and actual volatility. If there is a change in implied volatility but no change in the spot price, then the curved pre-expiry profit and loss profile will rise or fall vertically. If the current spot price changes (actual volatility) then the profit or loss profile will move along the horizontal axis. The profit and loss profile for a long straddle is shown in Figure 4.16. Its position within the trading matrix is shown in Figure 4.17.  
 
 However, two popular strategies to exploit the skew/smile are strangles and risk reversals.  
 
-![](images/a2fe2fa664c69592cc5981ec349e64f5acba814850f5882c0f5325269efef1dc.jpg)  
+![](a2fe2fa664c69592cc5981ec349e64f5acba814850f5882c0f5325269efef1dc.jpg)  
 Figure 4.16 Long straddle profit and loss profile at expiry and pre-expiry.  
 
-![](images/78845370a2a5f18e9ad0855afc9b3b798d66bac1d392f780f70a71fa1634d10d.jpg)  
+![](78845370a2a5f18e9ad0855afc9b3b798d66bac1d392f780f70a71fa1634d10d.jpg)  
 Figure 4.17  Option-trading matrix incorporating volatility strategies.  
 
-![](images/ce8f040bffef53500df5e15bdbc7c37924f399a4ac3876d63ac5de671feb9933.jpg)  
+![](ce8f040bffef53500df5e15bdbc7c37924f399a4ac3876d63ac5de671feb9933.jpg)  
 Figure 4.18 The profit and loss profile of a long strangle position.  
 
 Strangles are normally quoted for a particular delta value. For example, in the FX market one common quotation is for a "25 delta strangle'. So at the bid price the trader will buy a call with the strike set at a level equal to a delta of 25 and buy a put with a strike set also to return a delta of the same value. Since the deltas for the long call and put are positive and negative, respectively, the position is initially delta neutral.  
@@ -3096,10 +3096,10 @@ Upfront cost/income
 
 . Straddle requires a greater initial premium payment than strangle.  
 
-![](images/37a49d018a08ad280580214fe54dd53dbf668ba42bfb2cb977016e32d7be0d16.jpg)  
+![](37a49d018a08ad280580214fe54dd53dbf668ba42bfb2cb977016e32d7be0d16.jpg)  
 Figure 4.19 The profit and loss profile of a short strangle position.  
 
-![](images/eed88417540b564076b379dd4c0d38631d1b8d5bc24ada982206d813eb361221.jpg)  
+![](eed88417540b564076b379dd4c0d38631d1b8d5bc24ada982206d813eb361221.jpg)  
 Figure 4.20 Option-trading matrix with strangle exposures added.  
 
 Profit and loss potential  
@@ -3128,13 +3128,13 @@ Suppose the market believed that the underlying price was going to fall. As a re
 
 Risk reversals can be used to express a bullish or a bearish sentiment. A bullish risk reversal is used when the trader anticipates a rise in OTM call volatility relative to OTM put volatility as a consequence of an anticipated rise in the underlying price. Typically, it is constructed by the purchase of a 25 delta call and the sale of a 25 delta put. However, the combination of these two options will leave the trader overall delta positive and since this is classed as a volatility trade, he will need to delta hedge this exposure by selling the underlying asset. A bearish risk reversal is used when the trader anticipates a rise in  
 
-![](images/74937443b1ae8b1701b0d07f94f220f56781a3dad9f6fa014b1a11e78dc1d9ce.jpg)  
+![](74937443b1ae8b1701b0d07f94f220f56781a3dad9f6fa014b1a11e78dc1d9ce.jpg)  
 Figure 4.21  Comparison of "at-expiry" profit and loss profile for short straddle and strangle.  
 
-![](images/a8d241fab825e8e4e2fcb7b83c38e8af5cb6990c57221184dee465dd864696b5.jpg)  
+![](a8d241fab825e8e4e2fcb7b83c38e8af5cb6990c57221184dee465dd864696b5.jpg)  
 Figure 4.22 Example of risk reversal.  
 
-![](images/1bb62eeb300beed8eae592a318d096a9a8a5c3bd311a1306b506daf8b073bbf1.jpg)  
+![](1bb62eeb300beed8eae592a318d096a9a8a5c3bd311a1306b506daf8b073bbf1.jpg)  
 Figure 4.23 The payoff on a bullish risk reversal.  
 
 OTM put volatility relative to OTM call volatility as a result of an anticipated downward movement in the underlying price. Typically, it is constructed as the purchase of a 25 delta put and the sale of a 25 delta call with a delta hedge to achieve overall delta neutrality. The. strategy is almost (but not exactly) zero premium..  
@@ -3145,7 +3145,7 @@ Figure 4.23 illustrates the profit and loss profile for a bullish risk reversal 
 
 It is important to note that the strategy is not aiming to benefit from a move in the market price per se, since the position is delta neutral, but rather the change in implied volatility as a result of the anticipated directional move.  
 
-![](images/50d3e548b47aa54bbcacfffbc2b6b632db1dc599c0cd198b4d1c9c9087ab6f24.jpg)  
+![](50d3e548b47aa54bbcacfffbc2b6b632db1dc599c0cd198b4d1c9c9087ab6f24.jpg)  
 Figure 4.24 Payoff profile of a bearish risk reversal.  
 
 The position is initially neutral with respect to all of the Greeks. However, these values will evolve as the underlying price changes. For example in Figure 4.23, if the spot rate increases the position becomes delta positive, gamma positive, vega positive and theta negative. However, if the price of the underlying asset falls, the position becomes delta positive, gamma negative, vega negative and theta positive. This is one reason why the strategy is called a risk reversal; a change in the direction of the underlying price will cause the exposure on the position to reverse in terms of the signs (with the exception of delta).  
@@ -3179,9 +3179,9 @@ Gamma positive.
 
 If the market price rises, the position becomes delta positive and will show a profit. If the market price of the underlying asset falls, then the position will also show a profit but  
 
-![](images/c5e6805bb1b44613b1b0754aac1875aec832fddf558ef34098375adc32727180.jpg)  
+![](c5e6805bb1b44613b1b0754aac1875aec832fddf558ef34098375adc32727180.jpg)  
 
-![](images/35000b1b7387b12cdf1544be2552bc0d599bbaa7088f7642ac2083906afb3724.jpg)  
+![](35000b1b7387b12cdf1544be2552bc0d599bbaa7088f7642ac2083906afb3724.jpg)  
 Figure 4.26 The option-trading matrix incorporating the hybrid strategies  
 
 will become delta neutral. If implied volatility rises, the position will also show a profit..   
@@ -3362,7 +3362,7 @@ Typically, cap/floor vols trade above swaption volatilities and so the value of 
 
 Figure 4.27 shows that the wedge has experienced negative values for prolonged periods of time, contrary to what the theory would suggest. A negative value for the wedge would suggest an increase in swaption volatility and a correlation in excess of. $100\%$ . However, in wedge analysis the correlation analysis is more intuitive than it is formal. As a result, the relationship does not conform to any "no-arbitrage" pricing rules, which is why the implied correlation could be in excess of. $100\%$ 3  
 
-![](images/5d7789ac31498b50a9f0e2427d7b0378e4f03a7dc1b4647328f1bf504e033522.jpg)  
+![](5d7789ac31498b50a9f0e2427d7b0378e4f03a7dc1b4647328f1bf504e033522.jpg)  
 Figure 4.27The $5\mathrm{~x~}10$ wedge. Data expressed as basis points per annum, normalized volatility. Source: Data sourced from Barclays Capital Live. Used with permission.  
 
 # Swaption triangles  
@@ -3393,7 +3393,7 @@ Another popular strategy that is sometimes used in these circumstances is volati
 
 Another way of taking advantage is by the use of swaption triangles, which are a combination of three swaptions. Suppose a trader has calculated the forward volatility of options on 2-year swap rates. These are shown in Figure 4.28..  
 
-![](images/5d01e0993442b0d2f76369c369ff9c1504ce042f10e3705483c4fece994054bd.jpg)  
+![](5d01e0993442b0d2f76369c369ff9c1504ce042f10e3705483c4fece994054bd.jpg)  
 Figure 4.28 Forward volatilities on options on 2-year swap rates.  
 
 The figure can initially seem very confusing, since it involves swaption terminology. Take the uppermost curve labelled "1yr 2yr". This curve traces out a series of implied volatility. quotes for 1-year options into 2-year swaps. At the far left-hand side of the curve the implied volatility quote is for a spot-starting 1-year option into a 2-year swap. The next point on the curve to the right of this is for the same swaption (1yr 2yr) but starting in 1 year's time. Therefore, the far right of the curve references a 1-year option into a 2-year swap but starting in 5 years' time. So although the maturity of the swap is constant in this case (2 years), we are analysing options of different maturities (1, 2, 5 and 10 years) that start in different forward periods (1, 2, 3, 4 and 5 years' time)..  
@@ -3405,7 +3405,7 @@ Suppose the trader feels that the "dent' around the 3-year point presents a poss
 
 This combination of trades is shown in Figure 4.29, and should show a profit if volatilities revert to more "normal"' levels.  
 
-![](images/679e4fb0e34fc0cae726195d77993b7d85837431fd0d2ca648028442cc4a827f.jpg)  
+![](679e4fb0e34fc0cae726195d77993b7d85837431fd0d2ca648028442cc4a827f.jpg)  
 Figure 4.29 Creating a swaption triangle.  
 
 # 5.1 WHAT IS RELATIVE VALUE?  
@@ -3457,7 +3457,7 @@ In reality, yield curves are determined by all of the factors discussed above. T
 
 By now, it should be clear that downward-sloping yield curves will tend to imply that market participants expect interest rates to fall over time. By extension, a steep, upward-sloping yield curve will tend to imply that market participants expect interest rates to rise over time. Of course, a gentle, upward-sloping yield curve could imply that interest rates are expected to stay steady but that liquidity preference considerations have pushed longer-dated interest rates higher relative to short-dated interest rates. For example, investors may only be willing to lock up their money in long-term investments if they are paid a premium to do so.  
 
-![](images/2573290722b681bc75a43acde761173a841d732fc09c144ee117701dc7ded43a.jpg)  
+![](2573290722b681bc75a43acde761173a841d732fc09c144ee117701dc7ded43a.jpg)  
 Figure 5.1 Stylized yield curve.  
 
 Figure 5.1 is a stylized depiction of a generic yield curve that aims to highlight how some of the factors discussed above impact yield curve shape. Market segmentation effects, for example, have caused money-market investors to crowd into short-dated instruments (zero to 2 years), reducing their yields relative to the rest of the curve. In the 2 to 10-year maturities the curve is steeply upward-sloping, suggesting that market participants expect interest rates to rise over time while, from the 10-year sector onwards, the gently sloping. yield curve implies that interest rates are expected to stay more or less stable in the longer term and that liquidity preference effects are the dominant factor determining yield curve shape here. Finally, at the very long end of the curve, preferred habitat effects have caused pension funds to crowd into very long-dated instruments, again reducing yields relative to. the rest of the curve.  
@@ -3492,7 +3492,7 @@ in periods of high volatility. However, in some sense this outperformance needs 
 
 In this section we discuss some of the theoretical ways in which a yield curve can move before moving on to consider whether there is any empirical justification. A parallel move-. ment (Figure 5.2) is defined as a situation where yields across all maturities move up or. down by the same amount.  
 
-![](images/3d314233a3dcd7a964c0113737f04c7e9871252cde4b2370865efacddcd34947.jpg)  
+![](3d314233a3dcd7a964c0113737f04c7e9871252cde4b2370865efacddcd34947.jpg)  
 Figure 5.2 Parallel movements in the yield curve.  
 
 The movement of a curve from being upward to downward-sloping is termed an inversion, while a downward to upward movement is referred to as normalization (Figure 5.3).  
@@ -3505,16 +3505,16 @@ The final way of categorizing movements looks at the degree of curvature. A chan
 
 Generally speaking, there are two popular techniques used to analyse the variability of a. complex set of data such as yield curve changes. In multiple regression analysis, the aim is to determine a relationship between a dependent variable (such as a particular yield) and one or more independent variables (such as other yields, a yield spread or economic data series). Principal component analysis (PCA) involves examining the relationships amongst all the variables without identifying which variables depend on others. As a result, it only reveals the structure of relationships and doesn't explain any fundamental relationships. PCA aims to reduce a complex set of data into a few components that describe it sufficiently, and also seeks to expose key relationships and opportunities in the data set. Since our overall approach is intuitive in nature, the References provide more sources of information for readers wishing to understand the different techniques in greater detail.  
 
-![](images/60c8d6802e2bcb7f7d250a47a578737e43c7001da674e719dd761d3f3c207d4a.jpg)  
+![](60c8d6802e2bcb7f7d250a47a578737e43c7001da674e719dd761d3f3c207d4a.jpg)  
 Figure 5.3 Yield curve inversions and normalization.  
 
-![](images/96ad95a83c46aa3a4212f797c50ce0eeda0fc19836dffc6e2e3d2dc5d885e192.jpg)  
+![](96ad95a83c46aa3a4212f797c50ce0eeda0fc19836dffc6e2e3d2dc5d885e192.jpg)  
 Figure 5.4 Bullish yield curve movements.  
 
-![](images/91c231cbfda517a8c1a05c04dd4f6acc07691053337bd50886f09dd97df633a3.jpg)  
+![](91c231cbfda517a8c1a05c04dd4f6acc07691053337bd50886f09dd97df633a3.jpg)  
 Figure 5.5 Bearish yield curve movements.  
 
-![](images/20e9e4e604b4dad35f97be68424207519cf96ecfb1e24e142e2601e29331fc90.jpg)  
+![](20e9e4e604b4dad35f97be68424207519cf96ecfb1e24e142e2601e29331fc90.jpg)  
 Figure 5.6 Increased and decreased curvature.  
 
 Suppose we are analysing three bonds with maturities of 5, 10 and 15 years. There are only three separate changes that can occur to the shape and position of the curve made up of these bonds over the period in question. The curve could move in parallel, it can steepen between the 5 and 15-year maturities, with the 10-year steepening proportionately. and/or it can become more/less convex between the three bonds with the 10-year moving. independently. No other movement is possible..  
@@ -3527,7 +3527,7 @@ To illustrate the principles of PCA, let us consider yields on a variety of US T
 
 <html><body><table><tr><td>-0.00244 0.02168 -0.55300 0.79957 -0.23168 0.01601 -0.00800 -0.00385 -0.01859 0.00280 0.00693</td></tr><tr><td>-0.00388 0.00449 0.03284 0.01868 0.00268 0.00361 0.00255 0.00430 0.01034 -0.71959 0.69324</td></tr><tr><td>0.00441 -0.01309 -0.01159 0.00552 0.05508 0.02870 -0.69005 0.71755 -0.02096 -0.04496 -0.04769</td></tr><tr><td>0.00971 0.01210 -0.00660 -0.01417 -0.11340 0.21965 0.23477 -0.23183 0.84584 -0.22868 0.24860</td></tr><tr><td>-0.00300 0.07731 -0.07049 -0.06496 -0.05131 0.75743 -0.35458 -0.34988 -0.29055 0.18703 0.20237 0.01105 0.05261 0.09045 0.67710 0.10654 0.20548 0.22342</td></tr><tr><td>-0.13188 -0.37474 0.36988 -0.36379 0.59285 -0.60510 -0.36948 0.20410 0.09222 0.18926 0.14986 0.00368 -0.14631 -0.11872</td></tr><tr><td>-0.04374 -0.17876 0.70039 0.31869 0.07773 -0.40040 -0.23761 -0.13862 -0.03985 0.09439 0.25529 0.24131</td></tr><tr><td>0.29329 0.39194 0.37041 0.36367 0.15941 0.01515</td></tr><tr><td>0.26929 0.06882 -0.23026 -0.38756 0.42987</td></tr><tr><td>0.94419 0.24023 0.13625 0.09314 0.01283 0.00831 -0.02201 -0.03550 -0.07423 -0.08606 0.09306</td></tr><tr><td>0.04305 0.06852 0.17519 0.24346 .36733 38223 0.38774 38281 0.34704 0.32630 0.31409 3 3 0</td></tr></table></body></html>  
 
-![](images/11ce5ab2e9042c139b8699e4454424504420e7a88ee22134da65f31cd198f92f.jpg)  
+![](11ce5ab2e9042c139b8699e4454424504420e7a88ee22134da65f31cd198f92f.jpg)  
 Figure 5.7Values for PCA factors 1-3 against maturity of the underlying instrument.  
 
 Looking at factor one, the factor values (technically known as eigenvalues) from years 2 to 30 are similar in magnitude, so it would be reasonable to say that this is describing the tendency of the yield curve to move in a parallel manner. However, this would also perhaps indicate that the curve is less likely to move in a parallel fashion at the shorter-dated maturities (1 month to 1 year). The values for the second factor decline as maturity lengthen and turn negative from the 3-year maturity point. This could be interpreted as the tendency of the yield curve to steepen (positive values) or flatten (negative values), with the. point of rotation being centred on the 3-year maturity. The factor values give some sense of the degree of steepening/flattening you will see between the individual points on the. curve. Factor 3 increases initially to the 6-month maturity point and then declines with maturity, turning negative at the 7-year point. This could be interpreted as the tendency. of the curve to become more concave in a market rally (a general falling rate environment; as a result, the curve steepens at the shorter maturities and flattens at the longer end) and less concave in a sell-off (rising rate environment). The first three factors are graphed in Figure 5.7.  
@@ -3549,7 +3549,7 @@ Figure 5.8 illustrates this by considering the movement in:
 
 : 2 and 10-year US constant-maturity yields. : The yield curve curvature as represented as the difference between 30-year, 10-year and 2-year rates. This is measured as the $2^{*}10$ year rate minus the 2 year rate minus the 30 year rate. A low value represents a convex curve, while a high value represents a concave curve.  
 
-![](images/6248b734cc39ea52894c433b8ca5c44333b0a3b5f0787e8aa31fdb6296890934.jpg)  
+![](6248b734cc39ea52894c433b8ca5c44333b0a3b5f0787e8aa31fdb6296890934.jpg)  
 Figure 5.8  2-Year and 10-year yields vs. yield curve curvature. All yields are constant-maturity US Treasury yields (February 2001-February 2011). Source: Data sourced from Barclays Capital Live. Reproduced with permission.  
 
 When the market is rallying" (falling yields/rising prices), the 2-year rate falls by more than the 10-year rate and the curve becomes more concave as the measure of curvature increases. Equally, when the market "sells off' (rising rates/falling prices), 2-year yields rise by more than 10-year yields and the curve becomes more convex as the measure of curvature decreases. From this we can make the observation that shorter-term rates will usually display greater volatility than longer-term rates.  
@@ -3568,7 +3568,7 @@ As a result, a number of bonds within the population of observations will sit of
 
 There are a number of different methods used to fit curves to the selected observations, but there are some basic criteria that need to be applied:  
 
-![](images/34c65dd219c8dc3a27608546b6dc7e7dce1e1041f9156560563cb7e3082452ed.jpg)  
+![](34c65dd219c8dc3a27608546b6dc7e7dce1e1041f9156560563cb7e3082452ed.jpg)  
 Figure 5.9 The impact of linking four yield curve observations with three cubic equations.  
 
 . The curve must be continuous and should not contain any gaps.   
@@ -3585,7 +3585,7 @@ To achieve the same slope and curvature at each joining point, the equations are
 
 Every institution will have its own preferred method of modelling the curve, and will also apply its own criteria in the sample selection of the bonds; as a result, there will never be one single curve that will be used by all participants. If two institutions were trying to agree the value of a single transaction, a certain amount of negotiation would need to take place if they were both using their respective curves!  
 
-![](images/51947679cdf66eaf4055b84a2a425760c8260f2e43481f46c3e74fdbb5fa39a7.jpg)  
+![](51947679cdf66eaf4055b84a2a425760c8260f2e43481f46c3e74fdbb5fa39a7.jpg)  
 Figure 5.10 A smooth fitted yield curve.  
 
 # 5.3 MEASURES OF SPREAD  
@@ -3612,7 +3612,7 @@ Before we consider these measures in detail, Figure 5.11 provides a "big picture
 
 In simple terms, the foundation of a bond's return is the yield of a government security ("benchmark yield") with the same maturity. The traditional "credit spread"' is usually represented in two ways by systems such as Bloomberg. They may simply measure the difference in yield between the bond and a sovereign issue and a benchmark bond. This benchmark bond may have a very different maturity to that of the bond being analysed. To overcome this, it is possible to use the concept of the G-spread which is simply the difference between the yield to maturity of the bond and that of an interpolated government bond yield.  
 
-![](images/f60dc08aa812e440d8f237a3fb0d74474ed993d3f524deb0270307e55c2f131a.jpg)  
+![](f60dc08aa812e440d8f237a3fb0d74474ed993d3f524deb0270307e55c2f131a.jpg)  
 Figure 5.11  Decomposing a bond yield into its component parts.  
 
 # 5.3.2 Swap spreads  
@@ -3751,7 +3751,7 @@ EONIA (Euro Overnight Index Average) curves - These curves are rated AAA and are
 
 An EONIA swap is an agreement between two parties to exchange a fixed for floating rate. The floating rate is the compounded average of the daily EONIA fixings for agreed tenor of the swap. The biggest driver of EONIA rates is ECB monetary policy, and an overview of this is presented in Appendix 2.1. This means that the EONIA rate very closely tracks the Central Bank rate and is viewed by the market as having an AAA-equivalent credit risk.  
 
-![](images/a37061059c2d4e2657b31be826d2b2df46f75d179caee37f4090f2c9afacbb02.jpg)  
+![](a37061059c2d4e2657b31be826d2b2df46f75d179caee37f4090f2c9afacbb02.jpg)  
 Figure 5.12  Spreads (in basis points) between interest rate swaps and EONIA swaps. Source: Barclays Capital Live. Reproduced with permission..  
 
 Figure 5.12 illustrates a matrix of spreads between euro interest rate swaps and EONIA. swaps as of mid-February 2011. The spreads are calculated as interest rate swaps minus EONIA swaps. The columns represent the effective date of the transaction and the horizontal columns show a given maturity. So, the first column shows the spreads between swaps and EONIA for spot-starting swaps with maturities to 30 years. However, the maturities at the. shorter end of the curve have the greatest liquidity. Notice that in all instances the spread is positive, implying that the EONIA swaps curve lies below the interest rate swaps curve..  
@@ -3770,17 +3770,17 @@ Another use of asset swaps helps us identify how the market perceives the differ
 
 Figure 5.14 shows how asset swap spreads for three AAA-rated euro sovereign issuers have evolved over time. The period from about 2003 to 2008 showed how investors largely ignored the risks of each individual issuer and spreads generally converged. However, during. the credit crisis that followed, spreads moved to reach differentials of about 150 basis points. Figure 5.15 shows that the asset swaps of most European sovereign AAA issuers trade higher than Germany, suggesting that at first glance the market perceives a higher degree of default risk for Austria, France and the Netherlands..  
 
-![](images/32bb87db9cbc0bc0184c393f943183bc75dc5708c166d58b915f78cf751d1da1.jpg)  
+![](32bb87db9cbc0bc0184c393f943183bc75dc5708c166d58b915f78cf751d1da1.jpg)  
 Figure 5.13 Asset swap spreads for the entire population of US Treasury bonds as at 25 November 2009. Source: Barclays Capital Live. Reproduced with permission.  
 
-![](images/79e262c7e3f5fe2879b40ccc4bc79ecb53aa4aac37ba069bde9d5c0a8eca2450.jpg)  
+![](79e262c7e3f5fe2879b40ccc4bc79ecb53aa4aac37ba069bde9d5c0a8eca2450.jpg)  
 Figure 5.14 10-Year constant-maturity asset swap spreads for Germany, Holland and Spain,. 2000-2009. Source: Data sourced from Barclays Capital Live. Reproduced with permission.  
 
 # 5.4.3 Assessing value in sovereign bonds  
 
 Figure 5.16 gives a snapshot of the Dutch government bond market as of late November 2009. In the first five columns of the matrix the basic details of each bond are highlighted.  
 
-![](images/c4ec32bac8650a1f3e85fd7e75b404e3adde393cebd5b9790287a3234f44233e.jpg)  
+![](c4ec32bac8650a1f3e85fd7e75b404e3adde393cebd5b9790287a3234f44233e.jpg)  
 Figure 5.15 Term structure of asset swap spreads for Germany, France and Austria. Data as of 25 November 2009. Source: Barclays Capital Live. Reproduced with permission..  
 
 The remaining columns contain information that may be useful in determining value. One possible approach to identifying value is outlined below:  
@@ -3802,13 +3802,13 @@ $$
 
 <html><body><table><tr><td>Benchmark Summary for Europe</td><td>Coupon</td><td>Maturity</td><td>Latest Price</td><td>tYield Latest</td><td>Spread Swap PP</td><td>Swaps ? IZ-score M 3</td><td>Correlation CDS</td><td>Spread Govt OAS</td><td>Germany ? Score Z M 3</td><td>Germany ? Bps SD</td><td>ASK Repo 3M</td><td>(sdq) Carry M 3</td><td></td><td>Curve ng ? Down Roll M 3</td><td>Curve Swap ? Down 1Roll M</td><td>Billions .= Size</td></tr><tr><td>Netherlands</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3</td><td></td><td></td></tr><tr><td>NETHER 5.500% Jul 10</td><td>5.5</td><td>15-Jul-10</td><td>103.001</td><td>0.620</td><td>-34.6</td><td></td><td>0.99</td><td>-0.4</td><td>3.2</td><td>1.93</td><td>2.5</td><td>0.45</td><td>10.8</td><td>11.9</td><td>7.7</td><td>10.6</td></tr><tr><td>NETHER 4.000% Jan 11</td><td>4.0</td><td>15-Jan-11</td><td>103.470</td><td>0.879</td><td>-36.5</td><td>1.03</td><td></td><td>-0.0</td><td>5.3</td><td>3.05</td><td>3.6</td><td>0.45</td><td>12.0</td><td>12.0</td><td>13.1</td><td>12.9</td></tr><tr><td>NETHER 5.000% Jul 11</td><td>5.0</td><td>15-Jul-11</td><td>106.205</td><td>1.107</td><td>-38.3</td><td>-1.54</td><td></td><td>0.2</td><td>5.6</td><td>0.89</td><td>4.1</td><td>0.45</td><td>12.1</td><td>11.4</td><td>12.1</td><td>15.2</td></tr><tr><td>NETHER 2.500% Jan 12</td><td>2.5</td><td>15-Jan-12</td><td>102.365</td><td>1.361</td><td>-37.6</td><td>-2.24</td><td></td><td>0.5</td><td>7.6</td><td>-0.05</td><td>3.7</td><td>0.45</td><td>12.2</td><td>11.2</td><td>11.4</td><td>13.1</td></tr><tr><td>NETHER 5.000% Jul 12</td><td>5.0</td><td>15-Jul-12</td><td>108.672</td><td>1.589</td><td>-34.1</td><td></td><td>-2.10</td><td>0.4</td><td>9.7</td><td>-0.85</td><td>3.7</td><td>0.45</td><td>12.5</td><td>10.7</td><td>9.6</td><td>13.0</td></tr><tr><td>NETHER 4.250% Jul 13</td><td>4.25</td><td>15-Jul-13</td><td>107.744</td><td>2.007</td><td>26.2</td><td>-2.51</td><td></td><td>0.3</td><td>11.9</td><td>0.50</td><td>3.5</td><td>0.45</td><td>12.2</td><td>9.2</td><td>7.6</td><td>16.0</td></tr><tr><td>NETHER 3.750% Jul 14</td><td>3.75</td><td>15-Jul-14</td><td>105.961</td><td>2.369</td><td>-17.6</td><td>-2.55</td><td></td><td>0.3</td><td>15.2</td><td>0.24</td><td>4.6</td><td>0.45</td><td>11.8</td><td>7.3</td><td>6.1</td><td>13.9</td></tr><tr><td>NETHER 2.750% Jan 15</td><td>2.75</td><td>15-Jan-15</td><td>101.022</td><td>2.534</td><td>-15.0</td><td>-2.20</td><td></td><td>0.3</td><td>16.8</td><td>0.53</td><td>5.4</td><td>0.45</td><td>11.2</td><td>6.4</td><td>5.8</td><td>8.0</td></tr><tr><td>NETHER 3.250% Jul 15</td><td>3.25</td><td>15-Jul-15</td><td>103.130</td><td>2.641</td><td>-14.0</td><td>-1.90</td><td></td><td>0.4</td><td>16.8</td><td>0.94</td><td>5.7</td><td>0.45</td><td>11.0</td><td>5.4</td><td>5.1</td><td>14.0</td></tr><tr><td>NETHER 4.000% Jul 16</td><td>4.0</td><td>15-Jul-16</td><td>106.643</td><td>2.880</td><td>-7.4</td><td>-1.79</td><td></td><td>0.3 22.6</td><td></td><td>0.63</td><td>6.6</td><td>0.45</td><td>10.7</td><td>4.3</td><td>4.2</td><td>12.0</td></tr><tr><td>NETHER 4.500%Jul 17</td><td>4.5</td><td>15-Jul-17</td><td>109.407</td><td>3.092</td><td>-0.4</td><td>-1.57</td><td></td><td>0.3 28.5</td><td></td><td>0.58</td><td>6.4</td><td>0.45</td><td>10.4</td><td>3.8</td><td>3.4</td><td>12.1</td></tr><tr><td>NETHER 4.000% Jul 18</td><td>4.0</td><td>15-Jul-18</td><td>105.456</td><td>3.261</td><td>2.0</td><td>-1.39</td><td></td><td>0.4 29.5</td><td></td><td>0.71</td><td>6.5</td><td>0.45</td><td>9.8</td><td>3.5</td><td>2.8</td><td>11.5</td></tr><tr><td>NETHER 4.000% Jul 19</td><td>4.0</td><td>15-Jul-19</td><td>104.734</td><td>3.412</td><td>6.0</td><td>-1.04</td><td></td><td>0.4 30.1</td><td></td><td>0.97</td><td>6.9</td><td>0.45</td><td>9.4</td><td>3.5</td><td>2.5</td><td>12.7</td></tr><tr><td>NETHER 7.500% Jan 23</td><td>7.5</td><td>15-Jan-23</td><td>138.116</td><td>3.764</td><td>26.9</td><td>0.15</td><td></td><td>0.0 26.4</td><td></td><td>2.24</td><td>5.2</td><td>0.45</td><td>9.1</td><td>3.1</td><td>1.8</td><td>8.2</td></tr><tr><td>NETHER 3.750% Jan 23</td><td>3.75</td><td>15-Jan-23</td><td>99.518</td><td>3.796</td><td>10.1</td><td>0.31</td><td></td><td>0.0 17.4</td><td></td><td>2.23</td><td>5.5</td><td>0.45</td><td>8.2</td><td>3.1</td><td>1.8</td><td>6.4</td></tr><tr><td>NETHER 5.500% Jan 28</td><td>5.5</td><td>15-Jan-28</td><td>118.436</td><td>4.044</td><td>22.9</td><td>-0.10</td><td></td><td>0.0</td><td>8.9</td><td>0.73</td><td>1.7</td><td>0.45</td><td>7.5</td><td>0.9</td><td>0.5</td><td>10.1</td></tr><tr><td>NETHER 4.000% Jan 37</td><td>4.0</td><td>15-Jan-37</td><td>98.889</td><td>4.067</td><td>19.3</td><td>1.80</td><td></td><td>0.2 7.1</td><td>1.32</td><td></td><td>3.1</td><td>0.45</td><td>5.5</td><td>-0.5</td><td>-0.3</td><td>12.0</td></tr></table></body></html>  
 
-![](images/84e254410d57d14c2fc1fc97f4a27d6a46be7fe5ae0fd5e5301ab2de55bfb9e2.jpg)  
+![](84e254410d57d14c2fc1fc97f4a27d6a46be7fe5ae0fd5e5301ab2de55bfb9e2.jpg)  
 Figure 5.16 Sovereign bond cheap/rich analysis (data as of 27 November 2009). Source: Barclays Capital Live. Reproduced with permission..   
 Figure 5.17 German asset swap spreads against maturity (data as of 25 November 2009). Source: Barclays Capital Live. Reproduced with permission..  
 
 The Z-score represents the number of standard deviations that the bond is trading rich or cheap to the chosen average spread measure (par/par asset swap spread in this case). A negative Z-score indicates that the bond is trading rich relative to its 3-month average (even if it appears to be trading cheap to its fair value). A positive Z-score indicates that. the bond is trading cheap to fair value. The different shading in this column is used to highlight varying degrees of richness or cheapness. However, this methodology implies a belief that the spread will revert to its average value - i.e., it will display an element of. mean reversion. Figure 5.16 also indicates the carry and roll down (columns 13, 14 and 15) that an investor will earn from holding the bond for a specified period (3 months in this example). At the time of writing (late 2009), government bond yield curves were relatively steep and Central Banks were expected to hold short-term interest rates at historically low levels for a prolonged period. Consequently, buying a longer-dated bond financed by a repo. transaction would generate favourable roll down and carry values. The analyst could select an asset that would generate the most favourable values for these two variables.  
 
-![](images/e44120717b0a9b8935f69f47aeb5cf8ae720eb939eeecf7bf0c9d2cf7a6e0c71.jpg)  
+![](e44120717b0a9b8935f69f47aeb5cf8ae720eb939eeecf7bf0c9d2cf7a6e0c71.jpg)  
 Figure 5.18 Using Z-scores to determine if a bond is cheap or rich relative to the norm.  
 
 In Figure 5.16, the $3.75\%$ of 2023 is trading with a par/par asset swap spread of 11 basis points while its peers (including a bond of the same maturity) have spreads of greater than 20 basis points. The analyst would need to make a judgement as to whether the positive Z-score of 0.31 warrants a purchase decision. Equally, the longest-dated bond ( $4\%$ of 2037) is cheap as its Z-score of $+1.80$ indicates it has moved by almost two standard deviations relative to its 3-month average.  
@@ -3881,7 +3881,7 @@ The investor receives a nominal floating cash flow (e.g., LIBOR or EURIBOR) $+/-
 
 After the collapse of Lehman Brothers in 2008, there was a divergence between spreads to LIBOR obtainable by asset swapping nominal sovereign bonds and those derived from swapping inflation-linked sovereign bonds. Figure 5.19 shows the evolution of nominal asset swap spreads on French nominal bonds ( $5.75\%$ of 2032) and inflation-linked bonds $3.15\%$ of  
 
-![](images/5192b3ec14f592924e99741dfcec7eb1fe8e10a83e42abda311705e9d3c46f65.jpg)  
+![](5192b3ec14f592924e99741dfcec7eb1fe8e10a83e42abda311705e9d3c46f65.jpg)  
 Figure 5.19  Asset swap spreads from nominal and inflation-linked French sovereign bonds. December 2007 to December 2009. Source: Barclays Capital Live. Reproduced with permission.  
 
 2032) from December 2007 to December 2009. The figure shows that the spreads are very close in the early part of the period but diverge significantly in the third quarter of 2008. The difference between the spreads reached a peak of nearly 72 basis points in October 2008. The reason for this "anomaly" was attributed to a number of factors:  
@@ -3956,7 +3956,7 @@ Both carry and roll down will appear on a regular basis throughout this chapter 
 
 We will assume the trader chooses to implement a steepening trade using the 1 and 2-year maturities with an investment horizon of 6 months. At the anticipated close-out. date, the two legs would then have a residual maturity of 6 and 18 months. The initial spread between the 1 and a 2-year maturity is 80 basis points, while the spread between the 6-month and 18-month maturities is currently 150 basis points. As a result, assuming. the yield curve remains unchanged, the position will have a roll down of 70 basis points.. The approximate profit and loss on this trade attributable to its roll down would be 70 basis points multiplied by the Dv01 of the position. Another way of looking at the problem is to. consider the individual positions. The short 2-year position will roll down by 30 basis points,. which will result in a loss. The long 1-year position will roll down by 100 basis points,. which will result in a profit. So, in an unchanged yield curve environment the steepening. trade will benefit from 70 basis points of roll down..  
 
-![](images/458dc83b283d4b8f98d80e0fcbca4b6ae974692a297192b9bdea5dad8a0e211e.jpg)  
+![](458dc83b283d4b8f98d80e0fcbca4b6ae974692a297192b9bdea5dad8a0e211e.jpg)  
 Figure 6.1 Spot and forward-starting swap rates. (Effective dates are read vertically, tenors are read horizontally; a 5-year swap starting in 12 months' time is quoted at. $3.66\%$ Source: Data sourced from Barclays Live. Used with permission..  
 
 Consider the swap quotes in Figure 6.1. Suppose that the trader puts on a steepening trade between the 5-year and 10-year maturities with a 12-month investment horizon, at which point the individual legs of the trade would have residual maturities of 4 and 9 years. If the current spot rates for 5 and 10-year maturities are $2.77\%$ and $3.85\%$ , respectively, the spot-starting spread would be measured as 108 basis points. Figure 6.1 shows that the 4-year and 9-year rates, 1 year forward, were $3.37\%$ and $4.29\%$ - implying a forward spread of 92 basis points; a difference of 16 basis points from the spot spread.  
@@ -4320,7 +4320,7 @@ A snapshot of USD lognormal volatilities is shown in Figure 6.2.
 
 The matrix highlights two different trading opportunities. Reading down each column shows there is a term structure of option volatility. As with any term structure, transactions could be constructed to express views on its expected evolution. Reading along each line  
 
-![](images/2d7d6596b27a42d1167921417bf9925120f9e1cc063408e252def9d8c589f8d9.jpg)  
+![](2d7d6596b27a42d1167921417bf9925120f9e1cc063408e252def9d8c589f8d9.jpg)  
 Figure 6.2 Lognormal volatilities for USD swaptions. Option maturities are read horizontally, swap tenors are read vertically, so the implied volatility of a 1-year option into a 5-year swap is $37.4\%$ Source: Barclays Capital Live. Reproduced with permission.  
 
 Table 6.5 Matrix of conditional curve trades   
@@ -4373,7 +4373,7 @@ Figure 6.3 shows a line of best fit.
 
 A line of best fit returned an intercept value of 0.0015 and a slope (i.e., beta value) of 1.0512. This can be interpreted as saying that for every one basis point change in the 5-year yield, the regression equation predicts a change in the 10-year yield of 1.0512 basis points.  
 
-![](images/064a8ef96889412c3800468f408242e4296ac5e41fd39e23e0d8d05c99f89cfe.jpg)  
+![](064a8ef96889412c3800468f408242e4296ac5e41fd39e23e0d8d05c99f89cfe.jpg)  
 Figure 6.3 Regression results on change in 10-year USD swap rates on 5-year USD swap rates for the period 29 April 2009-30 April 2010. Source: Data sourced from Barclays Capital Live. Reproduced with permission..  
 
 The regression equation suggests that over the past 12 months the most volatile part of the curve has actually been the long end, which is not what we would expect. For example, in Chapter 5 we argued that short-term rates are more volatile than longer-term rates (see, for example, Figure 5.8). So, from this we could conclude that the current ratio of implied volatilities is implying that the curve is expected to revert to more normal behaviour going. forward than it has in the recent past..  
@@ -4400,7 +4400,7 @@ When curves are steep, which is generally associated with a low-rate environment
 
 On the other hand, there could be a supply of volatility as insurance companies and. retail investors hunt for an enhanced return in a low-yield environment. These investors will buy structured products with an embedded short volatility position, i.e., they are net sellers of options. So the net impact will depend on whether the demand from long receiver positions outweighs the supply of volatility from structured products. So even if sellers of volatility outnumber buyers, it should not fundamentally offset the full impact of the traditional inverse relationship between implied volatility and the level of rates.  
 
-![](images/494601df61d45192d8c5409aa38b2f81f6880cdf93d16cc69fe860a1df4126fe.jpg)  
+![](494601df61d45192d8c5409aa38b2f81f6880cdf93d16cc69fe860a1df4126fe.jpg)  
 Figure 6.4  (a) Swaption volatility vs. swap rates. (b) Scattergraph of swap rates against implied volatility with line of best fit. Source: Data sourced from Barclays Capital Live. Reproduced with permission..  
 
 Table 6.6 Relationship between yield, lognormal volatility and normalized volatility   
@@ -4422,7 +4422,7 @@ There are no set rules as to which maturities the trader should select to expres
 
 o 1y-2y-3y o 2y-3y-5y o 2y-5y-10y . 5y-10y-15y  
 
-![](images/cfd4dcfdd48e54effab3c31af3cb7ad992cac3311307404da873d3e5170e264f.jpg)  
+![](cfd4dcfdd48e54effab3c31af3cb7ad992cac3311307404da873d3e5170e264f.jpg)  
 Figure 6.5  Butterfly trade; the kink in the middle of the curve is expected to correct itself.  
 
 It is also possible to execute all of these trades on a forward-starting basis, e.g. a 5y-10y-15y trade effective in 3, 6 or 12 months' time..  
@@ -4575,7 +4575,7 @@ So in this example, the butterfly trade will show a profit if the "kink' in the 
 
 Consider the matrix of spot and forward-starting USD interest rate swaps shown in Figure 6.1 (reproduced as Figure 6.6 for ease of reference).  
 
-![](images/58f6a741bf7c03755a1a8c940bd117e1b4ae397939d21b2c09888ab59f2bd17c.jpg)  
+![](58f6a741bf7c03755a1a8c940bd117e1b4ae397939d21b2c09888ab59f2bd17c.jpg)  
 Figure 6.6 Mid-market USD interest rate swap rates. Source: Barclays Capital Live. Reproduced with permission.  
 
 The horizontal maturities represent the tenor of a given swap, while the vertical maturities represent the effective date. So the 5-year spot-starting swap rate is $2.77\%$ , whereas the 5-year swap rate effective in 3 years' time is $4.76\%$  
@@ -4588,10 +4588,10 @@ Figure 6.8 shows how the spread has evolved over a 60-day period and shows that 
 
 Whatever value is derived for the butterfly spread, it is quoted on a bid-offer basis. So if the mid quote is 6 basis points, the trade may be offered as 4 bps bid, 8 bps offered. So if a trader (i.e., a price taker) believed that the 5-year maturity was to fall, which would. result in a fall in the butterfly spread, they would take the bid price. At the bid side of the quote the price taker is receiving the 5-year rate and paying the fixed rate on the two wing. transactions. Sometimes the market may describe this movement in the 5-year rate as an "outperformance". This is because the trader treats the change from a bond perspective. In. that context a fall in the 5-year rate would lead to an increase in prices. Likewise, if the trader thought that the 5-year rate would increase ("underperform'), this can be interpreted to mean that the spread will rise so the trader takes the offered quote. In this instance the trader would be paying the 5-year rate and receiving fixed on the two wing transactions.  
 
-![](images/4552cba5db9d02e985c0888e1f6d4a0263b515a58a70835b9601ebadbbe5f510.jpg)  
+![](4552cba5db9d02e985c0888e1f6d4a0263b515a58a70835b9601ebadbbe5f510.jpg)  
 Figure 6.7 Cheap/rich analysis of butterfly spreads constructed using interest rate swaps. Source: Barclays Capital Live. Reproduced with permission.  
 
-![](images/8353ed2362c6464419c1d275ee0315c6083233f3a9cfd939c5b37d3163162c72.jpg)  
+![](8353ed2362c6464419c1d275ee0315c6083233f3a9cfd939c5b37d3163162c72.jpg)  
 Figure 6.8 60-day time series of 10-2030 butterfly spread constructed using interest rate swaps. Source: Barclays Capital Live. Reproduced with permission..  
 
 Table 6.8 Butterfly spread quoting conventions   
@@ -4611,7 +4611,7 @@ A 50:50 weighted butterfly trade would be quoted and constructed as follows:
 
 $2.77-(0.5\times1.20)-(0.50\times3.85)=24.5$ basis points  
 
-![](images/341f8dea863e5497707385660b899197d4969eda6f7fdcc3f13652042ba5f185.jpg)  
+![](341f8dea863e5497707385660b899197d4969eda6f7fdcc3f13652042ba5f185.jpg)  
 Figure 6.9 The 2s5s10s butterfly spread in EUR on a spot and 3-month forward-starting basis, April 2009-April 2010. Source: Data sourced from Barclays Capital Live. Reproduced with permission.  
 
 The 50:50 weighting approach means the butterfly trade has no exposure to parallel movements in the yield curve, since the total risk weight in the "wings" should be equal to the risk weight in the "body". However, for every 1 basis point non-parallel movement in the yield curve the position would gain or lose $\$4,696$ This approach is similar to that used in the previous section, when the trade was constructed using bonds.  
@@ -4758,10 +4758,10 @@ Although there is not much publically available data to prove it, anecdotally tr
 
 So, skew tends to be higher in absolute terms when curves are very convex or very concave and lower when the curvature is less pronounced..  
 
-![](images/cd3fc1ef3ae3c8013b63f1653305e6ed9c59c0ee2724354a843a03b38404a8e3.jpg)  
+![](cd3fc1ef3ae3c8013b63f1653305e6ed9c59c0ee2724354a843a03b38404a8e3.jpg)  
 Figure 6.10 (a) Time series graph of the slope of the USD swap curve vs. swaption volatility. 2s10s slope is defined as 10-year swap rate minus 2-year swap rate. (b) Scattergraph of the slope of the USD swap curve vs. swaption volatility. 2s10s slope is defined as 10-year swap rate minus 2-year swap rate. (c) Time series graph of the curvature of the USD swap curve vs. swaption volatility. 2s10s30s spread is defined as $2~^{*}~10$ year swap rate minus the 2 year swap rate minus the 30 year swap rate. (d) Scattergraph of the curvature of the USD swap curve vs. swaption volatility. 2s10s30s spread is defined as 30-year swap rate minus 10-year swap rate minus 2-year swap rate. Source: Data sourced from Barclays Capital Live. Reproduced with permission.  
 
-![](images/a5e278991dc59525aaae60cf556f1d1792fe2fea76d2d0ff63dff82f1470ddf9.jpg)  
+![](a5e278991dc59525aaae60cf556f1d1792fe2fea76d2d0ff63dff82f1470ddf9.jpg)  
 Figure 6.10 (continued)  
 
 # 6.6 CONSTANT-MATURITY PRODUCTS  
@@ -4854,7 +4854,7 @@ One example of a structured note referenced to CMS rates is the Atlantic Range A
 
 The structures can be designed with either fixed or floating coupons. So, in the case of a. fixed-coupon structure the investor will be paid (say). $5.30\%$ for every day that an agreed interest rate index fixes within an agreed range. A floating-rate structure may pay a coupon. referenced to a particular interest rate index such as EURIBOR plus a fixed spread, the latter being in effect the premia receivable from the sale of the daily digitals. Again this.  
 
-![](images/d691dd8d492b4e832056712eb420bed774fb89fb7116d3f36f22acbf2b813fc3.jpg)  
+![](d691dd8d492b4e832056712eb420bed774fb89fb7116d3f36f22acbf2b813fc3.jpg)  
 Figure 6.11 Example of digital range accrual note.  
 
 coupon would only accrue based on the conditionality written into the contract. Although. Figure 6.11 shows the reference index accruing within a particular range, it is also possible for the range to be specified as either above or below a given value..  
@@ -4905,7 +4905,7 @@ Intuitively one might expect the basis to be always positive. In other words, al
 
 Since negative basis scenarios do exist, the obvious question that arises from this is why? One starting point is to realize that the two markets will attract different participants who may react at different speeds to new information. The CDS market will largely be dominated by investment banks and hedge funds, which are more likely to react swiftly to changes. in the perceived creditworthiness of a particular reference entity. However, the cash bond market will probably be dominated by "buy-and-hold' participants such as pension funds and insurance companies, who may not react as quickly..  
 
-![](images/f63bc1983a9d16253974b59d0137f80093210f447aa5cac7f1d4b39b6142646b.jpg)  
+![](f63bc1983a9d16253974b59d0137f80093210f447aa5cac7f1d4b39b6142646b.jpg)  
 Figure 7.1CDS basis for $6.75\%$ 2012 issued by Barclays Bank plc. Data covers period JuneDecember 2010. Source: Barclays Capital Live. Used with permission.  
 
 O'Kane and McAdie (2004) suggest a number of different reasons for the existence of the CDS basis by analysing situations where the CDS spread could either be larger or smaller than the asset swap spread. They suggest the following reasons.  
@@ -4940,10 +4940,10 @@ Like any index, the quoted number could be interpreted as a measure of the healt
 
 The indices are referenced to a portfolio of credit default swap names rather than a portfolio of cash bonds. The single-name CDS contracts eligible for inclusion in the indices are. fixed every 6 months on or around 20th March and September, which are referred to as the "roll dates". The constituent members of the index are selected according to a predetermined set of rules. For example, the iTraxx Main Index comprises 125 equally weighted investment grade names with the highest trading volumes over the previous 6 months. The constituent names remain unchanged through the life of the trade except in the event of default, in which case the name is removed from the index.  
 
-![](images/e57a422ec6ec41cd59d9f47c2974bb1c41fa62254986d7b953cbed88310db891.jpg)  
+![](e57a422ec6ec41cd59d9f47c2974bb1c41fa62254986d7b953cbed88310db891.jpg)  
 Figure 7.2 Family of credit indices. Source: Markit..  
 
-![](images/28f9d22f968ef3022f9629459c9f53967472197be444a48b5c56b9195d08fc3e.jpg)  
+![](28f9d22f968ef3022f9629459c9f53967472197be444a48b5c56b9195d08fc3e.jpg)  
 Figure 7.3 Credit term structure of iTraxx Main series 14. Data as of 24 December 2010. Source: Barclays Capital Live, reproduced with permission.  
 
 In actuality, a contract's maturity will be slightly longer than its stated tenor. So a new 5-year contract created on 20th March of a particular year will mature on 20th June, 5.25 years later. Each new contract created on a particular roll date is referred to by a consecutive number, e.g. series 1, series 2 and so on.  
@@ -5061,7 +5061,7 @@ A summary of the payoffs is shown in Figure 7.4.
 
 As Table 7.2 suggests, the payoff at the maturity of the option is only partially based on the difference between the spread and the strike. The calculation of the settlement amount will also be a function of the contract's risky PV01 at the expiry of the option. Suppose that an investor has bought a 6-month option on a 5-year index CDS with a strike of 50 basis points. At maturity the index is trading at a par spread of 60 basis points and so the option is 10 basis points in-the-money. However, the intrinsic value of 10 basis points per annum and since the underlying CDS contract has a maturity of 5 years, this can be converted into a monetary value by multiplying by the risky PV01 (see Section 3.3.6) that prevails at the option's expiry. Suppose that at the option's maturity the risky PV01 of the underlying CDS is 4.2, then the dollar value of the 10 basis point per annum intrinsic value based on $\$10$ million notional is $\$42,000$ $\Phi10\mathrm{m}\times0.10\%\times4.2\%$  
 
-![](images/72446ff8deceb14d634a794fea5d38004305282a09f1c6cdd4b20146e434db7d.jpg)  
+![](72446ff8deceb14d634a794fea5d38004305282a09f1c6cdd4b20146e434db7d.jpg)  
 Figure 7.4 At expiry payoffs for long payer, short payer, long receiver and short receiver, respectively.  
 
 Table 7.2 Summary of credit default options   
@@ -5161,7 +5161,7 @@ Since CDSs exhibit a term structure, views could be expressed on possible steepe
 
 These will typically be constructed to be "duration neutral', so that they are protected against parallel movements in the curve. For ease of illustration, we will use the same figures. presented in Section 7.1.2. In that example the par CDS spreads for the reference entity were different from the fixed coupon of 100 basis points. Since par spreads were greater than the fixed coupon, an upfront adjustment was required to make trades equitable. To calculate this value we need to derive the notional values of each leg of the trade. We will assume that the Dv01 of the trade has been calculated as 4.5 and 7 for the 5 and 10-year maturities, respectively (the values are illustrative). The ratio of the Dv01s returns a hedge ratio of 1.56 and so, based on a notional amount of. $\pmb{\varepsilon}_{100\mathrm{m}}$ for the 10-year transaction, we would require a 5-year notional with a value of. $\yen156$ million. Since a steepening trade. implies that longer-term spreads will increase by more than shorter-term spreads, the trader will need to buy 10-year protection and sell 5-year protection..  
 
-![](images/f9dd85bf6544a61366974b13495b8f592e601f3abfe6d80a65fbada642216707.jpg)  
+![](f9dd85bf6544a61366974b13495b8f592e601f3abfe6d80a65fbada642216707.jpg)  
 Figure 7.5Credit term structure for Barclays Bank plc CDS spreads. Data as of 24 December 2010. Source: Barclays Capital Live. Reproduced with permission..  
 
 Based on these notional amounts the upfront payment and receipt are as follows.  
@@ -5204,7 +5204,7 @@ Although there are many ways to define pull to par, Rennison et al. (2008) sugge
 
 $\mathrm{Pulltopar}=\mathrm{(Parspread-fixedcoupon)}\times\Delta\mathrm{PV}01\mathrm{~}$ f par spread  
 
-![](images/45261c403fb6fb6b362cbadf310a0fb28bc2b0f3cf6f147bf386b808f1705b04.jpg)  
+![](45261c403fb6fb6b362cbadf310a0fb28bc2b0f3cf6f147bf386b808f1705b04.jpg)  
 Figure 7.6  3-5-7 CDS butterfly spread for Barclays Bank plc. Data covers a 3-year period from December 2007-2010. Source: Barclays Capital Live. Reproduced with permission.  
 
 Since the Dv01 exposures of the position are equal - 70,000 - then the position will enjoy a profit equal to this amount per basis point of steepening. Since the notional amounts are not equal, however, an event of default will have a net impact on the position. The trader has sold $\yen57$ million more protection than he has bought and so the loss is:  
@@ -5258,7 +5258,7 @@ From this they derive two rules of thumb:
 
 1. A flattening trade will display positive convexity - The profits from a given flattening of the curve. will be greater than the losses incurred from the same magnitude of steepening. 2. A steepening trade will display negative convexity - The gains from a steepening move are less than the losses incurred if the curve were to flatten by the same amount.  
 
-![](images/0abe4431a3713e50168231e3c29b59ec4959c5bf7a9110e23ad4020fb9ae738e.jpg)  
+![](0abe4431a3713e50168231e3c29b59ec4959c5bf7a9110e23ad4020fb9ae738e.jpg)  
 Figure 7.7  A credit-linked note.  
 
 # 7.3 EXPRESSING A VIEW ON A SINGLE REFERENCE ENTITY  
@@ -5287,7 +5287,7 @@ Figure 7.8 shows the cash flows in the event of a credit event being declared on
 
 . The reference entity suffers an event of default and the recovery value is high.. . The issuer's creditworthiness improves, resulting in a mark-to-market profit when unwinding the money-market deposit.  
 
-![](images/d1bfd62ef17a3b5945fa974094dfc790042ea3a6101c5a7337cb0bce1606c895.jpg)  
+![](d1bfd62ef17a3b5945fa974094dfc790042ea3a6101c5a7337cb0bce1606c895.jpg)  
 Figure 7.8 Cash flows associated with a credit event being declared on the reference entity.  
 
 Although a CLN may appear to be similar to a bond, there are a number of differences worth noting:  
@@ -5373,7 +5373,7 @@ Total return swaps are designed to replicate the return of a particular index. W
 
 The basic structure of the total return swap would look as shown in Figure 7.9. Here,. the investor agrees the underlying index to which the transaction will be referenced with their counterparty bank. The bank then agrees to pay the investor the total return (i.e., price change plus coupons) from the index constituents over an agreed period. In return, the investor pays to the bank LIBOR plus or minus a spread. From the investor's perspective, the structure replicates a purchase of the constituent bonds - they receive the bonds' total return while paying a LIBOR cash flow which replicates their normal borrowing costs..  
 
-![](images/b6ab6204079c96bb7514aea431666ce48166fa94ffb0eeb7c946df05ba931190.jpg)  
+![](b6ab6204079c96bb7514aea431666ce48166fa94ffb0eeb7c946df05ba931190.jpg)  
 Figure 7.9 Total return swap.  
 
 However, the total return swap is operationally easier to execute than an outright bond purchase and easier to manage, particularly if the index is large..  
@@ -5444,7 +5444,7 @@ In Figure 7.10, the left-hand column represents a hypothetical reference portfol
 
 With an index tranche investment the seller of protection can select the point from which. they will incur losses. The entire index tranche transaction is shown as the middle column of Figure 7.10 and in order to simplify the example, the transaction has been split into three slices. A market participant can buy or sell protection on any one (or all) of these tranches.  
 
-![](images/a0fbaab5204abb659b0e5c1a2133aa3c2acd43e77d79a6a3e1dcf6547af9f1a9.jpg)  
+![](a0fbaab5204abb659b0e5c1a2133aa3c2acd43e77d79a6a3e1dcf6547af9f1a9.jpg)  
 Figure 7.10  An index tranche investment referenced to a portfolio of $100\mathrm{CDS}$ reference entities.  
 
 A tranche is described by its degree of subordination (also known as the "attachment point'), its detachment point and hence its width. In Figure 7.10 the attachment point for the mezzanine tranche is $3\%$ while the detachment point is $6\%$ . These values are expressed as a percentage of the total underlying reference portfolio but this may be a function of the desired notional on the tranche investment. So, if a mezzanine investor agrees to a $3\%-6\%$ tranche with a notional of $\t{\le}30\mathrm{m}$ then this implies a referencing portfolio with a notional value of 1bn. The agreed notional amount on a tranche investment also represents their total possible loss and is sometimes referred to as the "exhaustion amount".  
@@ -5510,7 +5510,7 @@ The figure illustrates three possible relationships that we will consider in thi
 
 Despite the limitations of the RV triangle within an inflation context, it is possible to. apply the second aspect of our relative value approach: "What is the most optimal way to. express a view on an underlying asset?" As a result, we will analyse the inflation markets using themes considered in previous chapters - for example, cheap/rich analysis and curve trades. However, at this point it is worth recalling that in the inflation market we actually have three underlying "assets" if we use the Fisher equation (presented in Chapter 1) as a point of reference:  
 
-![](images/d3b3e6b8c647bcdb92c9e02d720e93f429fb54abb3723b12e32a3979a4986eda.jpg)  
+![](d3b3e6b8c647bcdb92c9e02d720e93f429fb54abb3723b12e32a3979a4986eda.jpg)  
 Figure 8.1 The relative value triangle from a nominal and real perspective.  
 
 . Real yields.   
@@ -5547,7 +5547,7 @@ In Figure 8.2 we illustrate the term structure of yields in the UK government bo
 
 Figure 8.2 suggests that market participants may choose to express a view on how the shape of both the breakeven and real rate curves may evolve. The basic principles of fixed income curve trades are analysed in Chapter 6. Trade construction within an inflation context is considered in greater detail in Sections 8.6 and 8.8.  
 
-![](images/29be534556e4f5564fe41c056b8aab2061fe045a79826245253a72bb739b763b.jpg)  
+![](29be534556e4f5564fe41c056b8aab2061fe045a79826245253a72bb739b763b.jpg)  
 Figure 8.2 Nominal, breakeven and real yields across different maturities. Rates as of 27 December 2010. Source: Barclays Capital Live. Reproduced with permission.  
 
 # 8.2.2 The importance of liquidity  
@@ -5631,7 +5631,7 @@ is most commonly done using swaps and Figure 8.4 shows:. -zero coupon breakeven 
 -zero coupon real rate swap rates (bottom left)   
 -Real rate swap rates (annual rates top right, semi-annual rates bottom right).  
 
-![](images/0eb76ba7c942815cd84586bbe4f087c4973dda3d3070d313b8590a3b40c5344e.jpg)  
+![](0eb76ba7c942815cd84586bbe4f087c4973dda3d3070d313b8590a3b40c5344e.jpg)  
 Figure 8.5  5-10-10 Butterfly spread for USD breakevens constructed using zero-coupon swaps. Data covers June-December 2010. Source: Barclays Capital Live. Reproduced with permission.  
 
 # 8.4.3 Butterfly trades  
@@ -5795,7 +5795,7 @@ The profit on the linker is uplifted by the index ratio of 1.11234 to give a val
 
 The majority of inflation swaps are zero coupon in style, meaning there is no exchange of cash flows until the maturity of the swap. One counterparty agrees to pay the cumulative. percentage increase in the inflation index over the tenor of the swap, while the other party pays a compounded fixed rate (see Figure 8.6).  
 
-![](images/b7cf5001f0733a0686bf8163bcb62cb80e76856312029d172a1572d3bf94b2f6.jpg)  
+![](b7cf5001f0733a0686bf8163bcb62cb80e76856312029d172a1572d3bf94b2f6.jpg)  
 Figure 8.6 Zero-coupon inflation swap.  
 
 It is worth noting that the quoting conventions for inflation swaps are different from those used in the nominal market. A 'receiver' inflation swap position means the market participant is receiving accrued inflation and paying the fixed rate; this may also be described as a "long" inflation position. A "payer' inflation swap position means the market participant is paying the accrued inflation leg and receiving fixed; this is a "short' inflation position.  
@@ -5819,7 +5819,7 @@ Table 8.3 Zero-coupon swap market conventions
 
 <html><body><table><tr><td></td><td>Euro</td><td>France</td><td>USA</td><td>UK</td></tr><tr><td>Inflation index</td><td>Euro HICP ex-tobacco</td><td>CPIex-tobacco (CPIx)</td><td>US CPI (non-seasonally</td><td>RPI</td></tr><tr><td>Indexation</td><td>(HICPx) 3-monthlag,not interpolated</td><td>3-month lag, interpolated</td><td>adjusted) 3-month lag, interpolated</td><td>2-month lag, not</td></tr><tr><td>Effective date</td><td>Trade date + 2 days</td><td>Trade date + 2 days</td><td>Trade date + 2 days</td><td>interpolated Tradedate</td></tr></table></body></html>  
 
-![](images/961ec87f069bf3036d62c932d3b60eaf17d3a114d7f8716f013e09415d727be5.jpg)  
+![](961ec87f069bf3036d62c932d3b60eaf17d3a114d7f8716f013e09415d727be5.jpg)  
 Figure 8.7 Deal structure for year-on-year inflation swap.  
 
 Floating payment:  
@@ -5842,7 +5842,7 @@ This type of transaction was popular in the early days of the swap market as it 
 
 In Figure 8.1 we presented a framework that illustrated the relationships that could exist between nominal and real interest rates. One of the relationships highlighted the linkage. between nominal swaps and real rate swaps (which are explained in Section 8.7.2). In Figure 8.8 we show pricing matrices for nominal and real rate swaps, respectively, for both spot and forward-starting maturities. If we took the 10-year spot-starting values from these figures, nominal rates are $3.22\%$ (Figure 8.8(a)) and real rates are $-0.01\%$ (Figure 8.8(b)), implying a swap breakeven value of. $3.23\%$ . If the trader expected the value of breakevens. to increase, they would pay fixed on the nominal swap and receive fixed on the real rate. swap. Although we have considered this trade within a spot framework, Figure 8.8 indicates that the transactions could also be executed within forward space..  
 
-![](images/998a8f69e3a7f696321a3c9ba83a64521b19b0255bb3e9ff3db631a23bec1915.jpg)  
+![](998a8f69e3a7f696321a3c9ba83a64521b19b0255bb3e9ff3db631a23bec1915.jpg)  
 Figure 8.8 Values for (a) GBP nominal swaps and (b) GBP real rate swaps for spot and forward maturities. Effective dates are read vertically, tenors are read horizontally. Rates as of 29 July 2011. Source: Barclays Capital Live. Reproduced with permission.  
 
 # 8.7 EXPRESSING VIEWS ON REAL YIELDS  
@@ -5871,7 +5871,7 @@ Certain customers are not allowed to enter into swap transactions and so banks m
 
 A real rate swap can be thought of as an inflation bond in swap format. In this type of deal one party receives a cash flow that accretes in line with realized levels of inflation (i.e., a real yield uplifted by an inflation accrual) and in return pays a LIBOR-based return. In order to mimic the cash market there will be an adjustment at maturity that will reflect the impact of inflation on the notional value of the transaction. The major difference between the bond and the swap is that the latter does not require any initial upfront financing.  
 
-![](images/a8bf86c9262e2bf097c782193458ee18b7be12d9ddb635c3b58f87aea5732d95.jpg)  
+![](a8bf86c9262e2bf097c782193458ee18b7be12d9ddb635c3b58f87aea5732d95.jpg)  
 Figure 8.9 Total return inflation swap.  
 
 To illustrate how this might look, consider the following simple termsheet:   
@@ -5893,7 +5893,7 @@ One of the key concepts introduced earlier in the text is that all fixed income 
 
 One popular reason why forward analysis is important is that Central Banks such as the Federal Reserve use measures such as the 5-year breakeven rate, 5 years forward as a market-based indicator of long-term inflation expectations. This longer-dated measure is preferred as it is constructed from 5 and 10-year spot breakevens which are considered to be liquid points on the inflation curve. As a result of this Central Bank focus, traders could exploit movements in the 5-year, 5-year forward rate by going long or short breakevens if they believe that it is trading at an extreme of a particular range. If the market felt that the breakeven rate was too high and they expected the Central Bank to take action, then they may decide to take a short breakeven position.  
 
-![](images/be279dd787585494f11f0866dc5b65518d4259dd0019b7520bf461372c49eeae.jpg)  
+![](be279dd787585494f11f0866dc5b65518d4259dd0019b7520bf461372c49eeae.jpg)  
 Figure 8.10 1-year rates at different forward effective dates. Rates are derived from Figure 8.4. Source: Barclays Capital Live. Reproduced with permission..  
 
 One of the features of forward analysis is that analysis of forward rates often highlights. dislocations along the spot curve as a result of the bootstrapping process. A forward curve. which is not smooth in nature would lend itself to trades such as butterflies on forward rates. However, care has to be taken when analysing forward rates as their value may be exaggerated by the influence of seasonal factors. So, one popular technique may be to. construct a series of 1-year rates with differing forward-starting dates - 1 year, 1 year forward; 1 year, 2 years forward; 1 year, 3 years forward and so on. An example of 1-year rates, effective at different future time periods, is shown in Figure 8.10..  
@@ -5908,7 +5908,7 @@ In the original Fisher equation (see Sections 1.2.3 or 8.2), one component of a 
 
 Trading forwards using bonds may be somewhat difficult given there are limited tenors available in the cash market and, since a single forward position would have four components, crossing the bid/offer spread on this many occasions may render the economics of the trade unattractive.  
 
-![](images/30dd4d4af462ee6bde1f0442df14e15ae9241a120d52cacf420352170de0439c.jpg)  
+![](30dd4d4af462ee6bde1f0442df14e15ae9241a120d52cacf420352170de0439c.jpg)  
 Figure 8.11  Using forward rates to assess the inflation risk premium. Chart shows the 10-year rate, 10 years forward minus the 5-year rate, 5 years forward. Source: Barclays Capital Live. Reproduced with permission.  
 
 Forward breakeven rates can be calculated using techniques similar to those seen in the. nominal markets. One shortcut method (Barclays Capital, 2010) for approximating forward breakeven rates is:  
@@ -5978,7 +5978,7 @@ There is a wider range of available maturities offering greater trading opportun
 When setting up the trade, swaps will not have accreted principal values as in the bond market.   
 One of the advantages of using the swaps market for forward analysis is that an analyst can derive a series of shorter-term forward rates (i.e., 1-year forwards), which is not possible in the cash markets. This type of shorter-term analysis would allow traders to identify those areas of the curve. that are trading cheap or rich to the curve.  
 
-![](images/304b1501a370a395d8f19ff3fee5a7a98a9de0053f0678c86a7119480561b75e.jpg)  
+![](304b1501a370a395d8f19ff3fee5a7a98a9de0053f0678c86a7119480561b75e.jpg)  
 Figure 8.12  Chart of yield curve for UK inflation-linked bonds, UK real rate swaps and UK zero-coupon inflation swaps. Data as of 31 December 2010. Source: Barclays Capital Live. Used with permission..  
 
 # 8.8.5 Calculating forward swap rates  

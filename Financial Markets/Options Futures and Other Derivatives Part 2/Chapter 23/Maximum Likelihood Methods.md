@@ -87,12 +87,12 @@ An alternative approach to estimating parameters in GARCH(1,1), which is sometim
 
 When the EWMA model is used, the estimation procedure is relatively simple. We set $\omega=0,\alpha=1-\lambda$ , and $\beta=\lambda$ , and only one parameter has to be estimated. In the data in Table 23.1, the value of $\lambda$ that maximizes the objective function in equation (23.12) is. 0.9182 and the value of the objective function is 10,692.6213.  
 
-![](images/adfe20a83a00c243b3d31145aae103b252214ffa9eae90c73fc5f73854f83bb3.jpg)  
+![](adfe20a83a00c243b3d31145aae103b252214ffa9eae90c73fc5f73854f83bb3.jpg)  
 Figure 23.1 S&P 500 index: July 10, 2015, to July 9, 2020.  
 
 For both GARCH (1,1) and EWMA, we can use the Solver routine in Excel to search for the values of the parameters that maximize the likelihood function. The routine works well provided that the spreadsheet is structured so that the parameters being searched for have roughly equal values. For example, in GARCH (1,1) we could let cells A1, A2, and A3 contain $\omega\times10^{5}$ $10\alpha$ , and $\beta$ . We could then set. $\mathbf{B}1=\mathbf{A}1/100{,}000$ $\mathrm{B}2=\mathrm{A}2/10$ , and $\mathrm{B}3=\mathrm{A}3$ . We would use B1, B2, and B3 to calculate the likelihood function. We would ask Solver to calculate the values of A1, A2, and A3 that maximize the likelihood function. Occasionally Solver gives a local maximum, so testing a number of different starting values for parameters is a good idea.  
 
-![](images/5a9de376f586582fc41fd18f9eb65ee483274b8fd68676a2a1d755e689aacaeb.jpg)  
+![](5a9de376f586582fc41fd18f9eb65ee483274b8fd68676a2a1d755e689aacaeb.jpg)  
 Figure 23.2Volatility ( $\%$ per day) of S&P 500 index: July 10, 2015, to July 9, 2020.  
 
 # How Good Is the Model?  

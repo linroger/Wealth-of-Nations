@@ -79,7 +79,7 @@ $$
 B_{t}^{s}=\mathrm{E}_{t}\left[\frac{\zeta_{s}}{\zeta_{t}}\right]=\mathrm{E}_{t}\left[\exp\left\{-\int_{t}^{s}r_{u}d u-\frac{1}{2}\int_{t}^{s}\lambda^{2}d u-\int_{t}^{s}\lambda d z_{u}\right\}\right].
 $$  
 
-![](images/aa91ef79b8c9771b5427ae66d58f461f07dd747c5525df962126c215a3dd4ab1.jpg)  
+![](aa91ef79b8c9771b5427ae66d58f461f07dd747c5525df962126c215a3dd4ab1.jpg)  
 Figure 10.1: Simulated paths for an Ornstein-Uhlenbeck process. The basic parameter values are $r_{0}=\bar{r}=0.08$ $\kappa=\ln2\approx0.69$ , and $\sigma_{r}=0.03$  
 
 In order to compute this expectation, first use (10.32) to find that  
@@ -204,10 +204,10 @@ The market price of risk associated with the combined shock. $z$ is $\rho\lambda
 
 Before we discuss the implications for bond prices and the yield curve, let us look at the properties of the square root process. The only difference to the Ornstein-Uhlenbeck process is the square root term in the volatility. The variance rate is now $\sigma_{r}^{2}r_{t}$ which is proportional to the level of the process. A square root process also exhibits mean reversion. A square root process can only take on non-negative values. To see this, note that if the value should become zero, then the  
 
-![](images/65ce9a40fa08e2f820571e190c9b1606d4f949a2add631b935d92ad2ab9f4548.jpg)  
+![](65ce9a40fa08e2f820571e190c9b1606d4f949a2add631b935d92ad2ab9f4548.jpg)  
 Figure 10.2: A comparison of simulated paths for an Ornstein-Uhlenbeck process and a square root process. For both processes, the parameters $\bar{r}=0.08$ and $\kappa=\ln2\approx0.69$ are used, while. $\sigma_{r}$ is set to 0.03 for the Ornstein-Uhlenbeck process and to $0.03/\sqrt{0.08}\approx0.1061$ for the square root process..  
 
-![](images/7976161ada784d107961ebe3e70514aeb6bdf97ff52ddd658fdca3deb8374271.jpg)  
+![](7976161ada784d107961ebe3e70514aeb6bdf97ff52ddd658fdca3deb8374271.jpg)  
 (b) Initial value. $r_{0}=0.06$ , different random numbers  
 
 (a) Initial value $r_{0}=0.08$ , same random numbers as in Figure 10.1  

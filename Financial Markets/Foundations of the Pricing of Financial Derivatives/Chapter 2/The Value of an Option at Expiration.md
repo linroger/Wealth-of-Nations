@@ -65,7 +65,7 @@ IABLE 2.2 Numerical Illustration Establishing a Lower Bound for a European Call
 
 <html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="2">Cash Flow atExpiration</td></tr><tr><td>Sr ≤X</td><td>ST</td></tr><tr><td>Shortsellstock</td><td>+S, = 102</td><td>-ST</td><td>-ST</td></tr><tr><td>Buy bond</td><td>-Xe-rc=-97</td><td>X+</td><td>+X</td></tr><tr><td>Buy call</td><td>-Ct =-4.95</td><td>0</td><td>ST-X</td></tr><tr><td>Net</td><td>0.05</td><td>100-St</td><td>0</td></tr></table></body></html>
 
-![](images/661685096385f68af16b143bc1de3d8b925644e7c706b1ee13a8e4adc7e87609.jpg)
+![](661685096385f68af16b143bc1de3d8b925644e7c706b1ee13a8e4adc7e87609.jpg)
 FGURE 2.1Illustration of Lower Bound for a Non-Dividend-Paying Call(Expressed as Percentage)
 
 Figure 2.1 illustrates what we have asserted thus far. As is common in industry practice,. the strike price, call price, and lower bound are normalized by the underlying price. That is, these values are divided by the underlying price. By normalizing values, we can easily. compare option information across different instruments. Thus, the call mid price is the average of the bid and ask call price for an American call option on an index ETF (266.86) on the last trading day of a recent year divided by the index ETF price. This anecdote shows with actual data that the call price remains above the lower bound. Also, note that for calls, the exercise value is below the lower bound. As such, the exercise value is not binding in real markets. Specifically, the higher lower bound is binding and nothing else.
@@ -110,10 +110,10 @@ The American call clearly has a positive probability of early exercise except in
 
 Figure $2.2{\a}^{}{\mathrm{a}}$ illustrates the influence of actual dividends on the call lower bound. Recall in Figure 2.1 that the exercise value is less than the lower bound for a 49-day call option. For this longer dated option, there are two future quarterly dividends before this 203-day option expires. The present value of these dividends was estimated to be 2.326, based on a market risk-free interest rate of. $1.79\%$ . Thus, the present value factor is 0.990094 or. $e^{-r_{c}\tau}{=}e^{-0.0179(203/365)}=0.990094$ . Based on Equation (2.11), $X(1-e^{-r_{c}\tau})=D_{t}$ at $88\%$ of the underlying value or $[2.326/(1-0.990094)]/266.86.$ As shown in Figure 2.2b, the exercise value is higher than the lower bound for strike prices below. $88\%$ of the underlying price. The observed call prices appear to be converging to the call exercise value for lower strike prices, which are deep in-the-money calls..
 
-![](images/bf07603b20a7275680379c3f093d07bd0fc1d3259a4beefa62dba34c9665945f.jpg)
+![](bf07603b20a7275680379c3f093d07bd0fc1d3259a4beefa62dba34c9665945f.jpg)
 FIGURE 2.2a Illustration of Dividend Impact on Call Lower Bound (Expressed as Percentage)
 
-![](images/2889be062a82151c221197f0832329bf54e1ee07a527ba99dc855866640c4f87.jpg)
+![](2889be062a82151c221197f0832329bf54e1ee07a527ba99dc855866640c4f87.jpg)
 FIGURE 2.2b Call Lower Bound Less Call Exercise Value
 
 TABLE 2.3 Establishing a Lower Bound for a European Put
@@ -147,7 +147,7 @@ $$
 p_{t}\geq\operatorname*{max}(0,X e^{-r_{c}\tau}+D_{t}-S_{t}).
 $$
 
-![](images/08a44e9f1b02ae51a2d57b65306c115bcfb38f2480c54853fbb7248b4fe8acac.jpg)
+![](08a44e9f1b02ae51a2d57b65306c115bcfb38f2480c54853fbb7248b4fe8acac.jpg)
 FGURe 2.3 Illustration of Lower Bound for a Non-Dividend-Paying Put (Expressed as Percentage)
 
 The plus sign on the dividends implies that they have a positive effect on put options, which is easy to rationalize. When a firm pays a dividend, it reduces its ability to grow, which is harmful to holders of calls, who benefit only from growth in the asset, but the dividend benefits holders of puts who gain from less growth, which keeps the stock price down.

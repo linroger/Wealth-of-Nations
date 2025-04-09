@@ -8,7 +8,7 @@ Hull-White (one- and two-factor), Black-Derman-Toy, and Black-Karasinski models.
 
 Ho and Lee proposed the first no-arbitrage model of the term structure in a paper in 1986.1 They presented the model in the form of a binomial tree of bond prices with two.  
 
-![](images/6d4a47ffbdb629fdd519f70306568552ce97f37514bb45c41df1d918a79df8d2.jpg)  
+![](6d4a47ffbdb629fdd519f70306568552ce97f37514bb45c41df1d918a79df8d2.jpg)  
 Figure 32.1 The Ho-Lee model.  
 
 parameters: the short-rate standard deviation and the market price of risk of the short. rate. It has since been shown that the continuous-time limit of the model in the traditional risk-neutral world is.  
@@ -65,7 +65,7 @@ $$
 \theta(t)=F_{t}(0,t)+a F(0,t)+\frac{\sigma^{2}}{2a}(1-e^{-2a t})
 $$  
 
-![](images/53ada3c979522778c64b5238e5e8d5122391a01f1e26cafda1849e70442ab8db.jpg)  
+![](53ada3c979522778c64b5238e5e8d5122391a01f1e26cafda1849e70442ab8db.jpg)  
 Figure 32.2 The Hull-White model.  
 
 The last term in this equation is usually fairly small. If we ignore it, the equation implies.   

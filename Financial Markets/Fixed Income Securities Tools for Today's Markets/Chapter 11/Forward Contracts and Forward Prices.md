@@ -11,7 +11,7 @@ TABLE 11.1 A Forward Contract on the US Treasury 2.875s of 05/15/2028.
 
 By definition, the forward price is such that the buyer and seller are. willing to enter into the forward agreement without any exchange of cash. This implies that the initial value of the forward contract is zero. Over time,. however, the value of the forward position may rise or fall. Continuing with the example, say that, just after the agreement was struck, the market forward price increases to 110. The contract to buy the bond at 109.72 now. has positive value to the buyer and negative value to the seller. The buyer could immediately sell the bond through a new forward contract at 110,. which makes the contract worth 110 - 109.72, or 0.28, as of 09/30/2021, or the present value of 0.28 as of today. The seller of the original contract,. however, having locked in a forward price of 109.72, would have to pay the buyer to exit the contract. In any case, note that the "value of a forward contract" denotes the value of an existing contract under current market. conditions, while the "forward price" denotes the price at which the underlying bond is to be traded on the forward date.2.  
 
-![](images/b8b911dfad7c6e4ba43bbce2e581407474ea88428ea3966cd0bd31131ec372e4.jpg)  
+![](b8b911dfad7c6e4ba43bbce2e581407474ea88428ea3966cd0bd31131ec372e4.jpg)  
 FIGURE 11.2 A Forward Contract on the US Treasury 2.875s of 05/15/2028.  
 
 Forward bond prices can be determined by arbitrage arguments. To demonstrate, consider the following strategy in the context of the example, using the data in Table 11.1 and referring to the timeline in Figure 11.2:  

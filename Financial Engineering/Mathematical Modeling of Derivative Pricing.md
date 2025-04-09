@@ -387,7 +387,7 @@ Complete Markets are intimately tied to the Fundamental Theorems of Asset Pricin
 
 4.1. Observing the Volatility Parameter. With the Black-Scholes-Merton formula in hand, one can derive a theoretical price for an option based on the current state of the random stock process. However, in practice, multiple quotes for the same option (same strike price and expiry) can be discovered. How is this possible? The volatility parameter, $\sigma$ of the stock movement $X_{t}$ is not directly observable, meaning individuals who trade in the market have to estimate what exactly this parameter is. In practice, traders come up with very different opinions about that particular value. This opinion is always observable (when pricing with. Black-Scholes-Merton) upon observing the price of the option contract, we can manipulate the explicit pricing formula to solve for the implied volatility (the value of $\sigma$ that the trader must be using to offer the price) contained in the offer. As it turns out, plotting implied volatility of an option as a function of its strike price (holding expiry constant) leads to a significant level of curvature. This phenomenon. is known as the volatility smile [12].  
 
-![](images/649873073bcabe9fd4e2e1a09efc365a23de92dbf2f63df78e04e85eb6f1819d.jpg)  
+![](649873073bcabe9fd4e2e1a09efc365a23de92dbf2f63df78e04e85eb6f1819d.jpg)  
 
 This immediately tells us that $\sigma$ is not constant through time, and multiple models of the non-constant behavior of volatility have been proposed since the discovery of this phenomenon.  
 

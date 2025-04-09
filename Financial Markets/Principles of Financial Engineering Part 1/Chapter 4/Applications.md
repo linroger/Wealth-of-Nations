@@ -14,7 +14,7 @@ $$
 S_{t_{4}}-S_{t_{0}}=[(S_{t_{1}}-S_{t_{0}})+(S_{t_{2}}-S_{t_{1}})+(S_{t_{3}}-S_{t_{2}})+(S_{t_{4}}-S_{t_{3}})]
 $$  
 
-![](images/d9afa902cbdba7ae6bbe2c791dc7114feffe5ff534f010dc045e5e16277f9a56.jpg)  
+![](d9afa902cbdba7ae6bbe2c791dc7114feffe5ff534f010dc045e5e16277f9a56.jpg)  
 
 # FIGURE 4.2  
 
@@ -86,6 +86,6 @@ This result is proved normally by using the fundamental theorem of asset pricing
 
 Now we move on to interest-rate swaps.  
 
-![](images/1a4410c46430a1be3b5dfdd4eaf4d20b129345204908b665d866a6b95d3b567b.jpg)  
+![](1a4410c46430a1be3b5dfdd4eaf4d20b129345204908b665d866a6b95d3b567b.jpg)  
 
 # FIGURE 4.3  

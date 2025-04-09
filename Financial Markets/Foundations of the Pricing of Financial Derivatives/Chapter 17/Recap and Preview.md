@@ -246,7 +246,7 @@ The original development of the compound option model was Geske (1979b). The. co
 
 The compound option model requires significantly more variables, so we briefly intro-. duce some of the terms. Figure 18.1 illustrates three important dates with compound options: the trade date $(t)$ , the compound option expiration date $(T_{1})$ , and the underlying option expiration $(T_{2})$ . There are three important periods of time corresponding to the. compound option: the period of time until the compound option expires $(\tau_{1})$ , the period of time until the underlying option expires $(\tau_{2})$ , and the period of time between the compound option expiration and the underlying option expiration $(\tau_{12})$
 
-![](images/c6c049a2d2c03a7c66f521dfbf7f22108b78374666b9874b9f320f5b4a3c4f5b.jpg)
+![](c6c049a2d2c03a7c66f521dfbf7f22108b78374666b9874b9f320f5b4a3c4f5b.jpg)
 FIGURE 18.1 Compound Option Timeline
 
 Further, the compound option model requires the compound option exercise price $(X_{\mathrm{C}})$ and the underlying option exercise price $(X_{U})$ . The remaining underlying parameters are as defined before with $S_{t}$ denoting the underlying instrument price, $r_{c}$ denoting the annualized continuously compounded risk-free rate, and $\sigma$ denoting the annualized standard deviation of the continuously compounded rates of return of the underlying instrument.

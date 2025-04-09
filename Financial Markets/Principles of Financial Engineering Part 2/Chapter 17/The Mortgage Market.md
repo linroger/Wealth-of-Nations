@@ -16,7 +16,7 @@ We consider the following setup. A balloon mortgage is issued at time $t_{0}$ 5 
 
 The home buyer makes four interest payments and then pays the $N$ at time $t_{4}$ if he or she does not prepay during the life of the mortgage. On the other hand, if the mortgage rate $c_{t}$ falls below a  
 
-![](images/053ec0a3c1ece642be778903399ddb0e68d0d9703d01a70f93f70d2c99c3ccd0.jpg)  
+![](053ec0a3c1ece642be778903399ddb0e68d0d9703d01a70f93f70d2c99c3ccd0.jpg)  
 
 # FIGURE 17.1  
 
@@ -28,7 +28,7 @@ The bank borrows at the floating LIBOR rate, $L_{t_{i}}$ , and lends at the fixe
 
 The interesting position is that of the agency that ends up with the mortgage. The agency buys. the mortgage and puts it on its books. This forms the asset side of its balance sheet. The issue is how these secondary market purchases are funded. In reality, there is more than one way. Some of the mortgages bought in the secondary market are kept on the books, and funded by issuing agency. securities to investors. Other mortgages are packaged as MBS, and resold to end investors..  
 
-![](images/d2a5d93a4861f83e333611d3f30e1446f7ab3db26a0b068f33ddc5d27ea13290.jpg)  
+![](d2a5d93a4861f83e333611d3f30e1446f7ab3db26a0b068f33ddc5d27ea13290.jpg)  
 
 # FIGURE 17.2  
 
@@ -38,7 +38,7 @@ Suppose in our case the agency uses a 4-year fixed coupon note to secure funding
 
 If the home buyer does not refinance, the agency receives four interest payments of size $c_{t_{0}}N$ each, then, at time. $t_{4}$ receives the principal. We assume that the home buyer never defaults.' If, on the other hand, the home buyer pays the last' interest payment $c_{t_{0}}N$ and prepays the principal earlier at time $t_{2}$ , the agency places these funds in a floating rate money market account until time $t_{4}$ The rate would be. $L_{t_{i}}$ . Alternatively, the agency can get into a fixed receiver swap and receive the  
 
-![](images/13fc7b17d2fde63c1fdab5d5db16f5cd74355391c5da8312dc5e25695bce67b5.jpg)  
+![](13fc7b17d2fde63c1fdab5d5db16f5cd74355391c5da8312dc5e25695bce67b5.jpg)  
 
 # FIGURE 17.3  
 

@@ -10,7 +10,7 @@ The illustration is looking more like a branching tree or lattice. Two key featu
 
 Let us position ourselves in the time 1 up state, where the asset price is $S u$ .  At this point, we are now back in a one-period world. There are two possible outcomes in the next period, which is the expiration. It should be easy to see that the value of the call and put at this point would be
 
-![](images/ff60534e24e860b2fe4469b728753f618cf87d654b28287db14451e243d57697.jpg)
+![](ff60534e24e860b2fe4469b728753f618cf87d654b28287db14451e243d57697.jpg)
 FIGURE 7.6 Two-Period Binomial Model
 
 $$

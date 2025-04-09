@@ -12,7 +12,7 @@ $$
 \begin{array}{l}{{B(0,1)=e^{-0.068}=0.9343}}\ {{B(0,2)=e^{-(0.068+0.072)}=0.8694}}\ {{B(0,3)=e^{-(0.068+0.072+0.08)}=0.8025}}\ {{B(0,4)=e^{-(0.068+0.072+0.08+0.082)}=0.7393.}}\end{array}
 $$
 
-![](images/93ac4fa8b27c21a5ba9d7231a829dc82c1ea1c74f0352ff05e1566c47eb5083c.jpg)
+![](93ac4fa8b27c21a5ba9d7231a829dc82c1ea1c74f0352ff05e1566c47eb5083c.jpg)
 FIGURe 27.1  Structural Layout of One-Period Binomial Tree of Forward Rates
 
 The volatilities at time 0 are given as
@@ -73,7 +73,7 @@ $$
 \begin{array}{l}{\displaystyle\alpha(0,3)=\sigma(0,3)\sum_{j=1}^{3}\sigma(0,j)-\frac{\sigma^{2}(0,3)}{2}}\ {\displaystyle=\sigma(0,3)[\sigma(0,1)+\sigma(0,2)+\sigma(0,3)]-\frac{\sigma^{2}(0,3)}{2}}\ {\displaystyle=0.01(0.02+0.015+0.01)-\frac{0.0001}{2}=0.0004,}\end{array}
 $$
 
-![](images/0198538cef55ca6617e51300b9ce6283f37f5602345873d979dc90a26ba1d4ff.jpg)
+![](0198538cef55ca6617e51300b9ce6283f37f5602345873d979dc90a26ba1d4ff.jpg)
 FIGURe 27.2 Numerical Illustration of One-Period Binomial Tree of Forward Rates
 
 or from the covariance matrix,
@@ -88,7 +88,7 @@ Now suppose we wanted to move forward another time step. If we position ourselve
 
 Note that we now require not only new drift terms but also we see volatility terms not previously seen. That is, we started with a term structure of volatility of. $\sigma(0,1)$ $\sigma(0,2)$ and $\sigma(0,3)$ . These were the volatilities from time point 0. Now, having moved forward to. time point 1, we have a new set of volatilities:. $\sigma(1,2)$ and $\sigma(1,3)$ . Recall that $\sigma(0,2)$ was our value at time 0 of the volatility of the forward rate for time 2. Now, at time 1, $\sigma(1,2)$ is our value of that volatility. Should it be different? In HJM it can indeed be different. In this model, volatility can change over time, but it cannot change stochastically. That is, although $\sigma(1,2)$ can be different from $\sigma(0,2)$ , we had to have known both values at time O. In other words, volatility can change, but we have to know to what value it will change.
 
-![](images/e8056746f79b46b8e38d3576a510780f7748305c61367f415702ba722491066c.jpg)
+![](e8056746f79b46b8e38d3576a510780f7748305c61367f415702ba722491066c.jpg)
 FIGURE 27.3 Binomial Tree of Forward Rates from Time $1~\mathrm{Up}$ State
 
 If we do not impose any time series changes on volatility then we simply use the value. $\sigma(0,2)$ for $\sigma(1,2)$ and use $\sigma(0,3)$ for $\sigma(1,3)$ . Then we would be able to calculate the drift. and fit the tree. We would then step down to the lower state at time 1 and determine the rates in the next two states at time 2. As long as we make the assumption that $\sigma(0,2)=$ $\sigma(1,2)$ and $\sigma(0,3)=\sigma(1,3)$ , the tree will recombine. In other words, we require constant. time series volatility. We do not, however, require equivalent cross-sectional volatility. That is, all rates do not have to have the same volatility for the tree to recombine, but a given rate must have the same volatility across time for the tree to recombine. Also, note that as we move to time step 3, we would require. $\sigma(2,3)$ , which might also be assumed equal to $\sigma(0,3)$ or could be treated as a different but known value..

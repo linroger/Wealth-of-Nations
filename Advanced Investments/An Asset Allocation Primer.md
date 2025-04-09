@@ -86,12 +86,12 @@ Table 1 Hypothetical annualized descriptive statistics for two risky securities
 
 The task is to pick the weights ( $w_{S}$ and $w_{B}$ ) such that they sum to one and the expected return of the portfolio ( $w_{s}r_{s}+w_{B}r_{B}$ , where r stands for the expected return) is maximized for any given level of portfolio risk. There are a number of ways to define risk, but the most common way is to define it as the Standard deviation of returnse $(s_{P}=\sqrt{w_{S}^{2}s_{S}^{2}+w_{B}^{2}s_{B}^{2}+2w_{S}w_{B}s_{S}s_{B}\rho_{S B}}$ , where s is the standarde deviation and. $\rho$ is the correlation coefficient). Alternatively, an efficient portfolio can be thought of as the portfolio that minimizes the risk for any given level of expected return.  
 
-![](images/755a0dda2ccf02927c15d2a24fb3669a470b446ac4f467131342f8d77eb92a78.jpg)  
+![](755a0dda2ccf02927c15d2a24fb3669a470b446ac4f467131342f8d77eb92a78.jpg)  
 Figure 1 Efficient Frontier from hypothetical inputs  
 
 An alternative way to visualize the efficient frontier is to think of the efficient portfolios as representing different probability distributions an investor must select from. For example, two of the efficient portfolios (return of $6.59\%$ and $7.87\%$ ) can be represented as the following two distributions:  
 
-![](images/44e59afbef9b08e7f0c57a280a0572174bc0d7bb8ab0e3e9ecfb19f2c3ac1230.jpg)  
+![](44e59afbef9b08e7f0c57a280a0572174bc0d7bb8ab0e3e9ecfb19f2c3ac1230.jpg)  
 Figure 2 Probability distributions of two different hypothetical efficient portfolios  
 
 The traditional efficient frontier may mislead an investor into thinking that the security's returns will average out over time to the expected return with the returns jumping up and down according to the standard deviation of returns. In fact, the efficient frontier reflects the probability distribution of returns over a certain time horizon. It does not tell the investor about the path the security will take over the investment horizon, but only about the projected terminal values and the uncertainty thereof. Which specific distribution is most attractive is not obvious, but instead depends on investor preferences.  
@@ -129,10 +129,10 @@ There is a philosophical question as to whether multiplying the market price by 
 
 Figure 4 show how there is no statistically discernible relationship between the dollar trading volume of a security and the calculated market capitalization of a company, meaning that the choice of metric could have a significant impact on asset allocation..  
 
-![](images/643a2f49f537585a47036c2ed53282ddb1f7868b1a1d11a765d3edebce2fc253.jpg)  
+![](643a2f49f537585a47036c2ed53282ddb1f7868b1a1d11a765d3edebce2fc253.jpg)  
 Figure 3 Trading volume regressed on market. capitalization for third quarter, 2004, for Russell 3000 constituents.  
 
-![](images/29c69f6047487f5e34c426c2c3a5ab20284cc8dbeaf07fd37a0400082ae3c69f.jpg)  
+![](29c69f6047487f5e34c426c2c3a5ab20284cc8dbeaf07fd37a0400082ae3c69f.jpg)  
 Figure 4 Trading volume regressed on market capitalization for second quarter, 2009, for Russell 3000 constituents.  
 
 Different weighting schemes reflect different views about how security prices will likely move. For.   

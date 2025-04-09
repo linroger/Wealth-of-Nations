@@ -60,7 +60,7 @@ $$
 \sigma_{K_{0}}=\sigma_{K_{1}}=\cdots=\sigma_{K_{n}}=\sigma
 $$  
 
-![](images/95cd77d0d6cb84e8d4b3704b26796b65c5f92f21370000057089deac53172425.jpg)  
+![](95cd77d0d6cb84e8d4b3704b26796b65c5f92f21370000057089deac53172425.jpg)  
 
 # FIGURE 16.9  
 
@@ -84,7 +84,7 @@ Volatility smiles observed in reality seem to have the following characteristics
 
 1. Options written on equity indices yield, in general, a nonsymmetric one-sided "smile" as shown in Figure 16.10a. For this reason, they are often called skews.  
 
-![](images/cadda1939b8954f8444b02781766a54980eb703841f211ffc1b15fe9655080f8.jpg)  
+![](cadda1939b8954f8444b02781766a54980eb703841f211ffc1b15fe9655080f8.jpg)  
 
 # FIGURE 16.10  
 
@@ -111,7 +111,7 @@ were solved for the implied vols of calls $\{\sigma_{i}\}$ and the implied vols 
 
 <html><body><table><tr><td colspan="8">Table 16.1 OEX Options with January 18, 2002, Expiration</td></tr><tr><td>Calls</td><td>Bid</td><td>Ask</td><td>Vol</td><td>Puts</td><td>Bid</td><td>Ask</td><td>Vol</td></tr><tr><td>Jan 550</td><td>39.5</td><td>41.5</td><td>0</td><td>Jan 550</td><td>0.45</td><td>0.75</td><td>0</td></tr><tr><td>Jan 555</td><td>34.8</td><td>36.3</td><td>0</td><td>Jan 555</td><td>0.65</td><td>0.95</td><td>0</td></tr><tr><td>Jan 560</td><td>30</td><td>31.5</td><td>0</td><td> Jan 560</td><td>0.9</td><td>1.2</td><td>0</td></tr><tr><td>Jan 565</td><td>25.2</td><td>26.7</td><td>0</td><td>Jan 565</td><td>1.25</td><td>1.55</td><td>0</td></tr><tr><td>Jan 570</td><td>20.6</td><td>22.1</td><td>0</td><td> Jan 570</td><td>1.8</td><td>2.1</td><td>0</td></tr><tr><td>Jan 575</td><td>16.3</td><td>17.8</td><td>0</td><td>Jan 575</td><td>2.3</td><td>3</td><td>0</td></tr><tr><td>Jan 580</td><td>13</td><td>13.5</td><td>0</td><td>Jan 580</td><td>3.4</td><td>4.1</td><td>2</td></tr><tr><td>Jan 585</td><td>9.1</td><td>9.8</td><td>0</td><td>Jan 585</td><td>5</td><td>5.7</td><td>5</td></tr><tr><td>Jan 590</td><td>6.1</td><td>6.8</td><td>50</td><td>Jan 590</td><td>7.6</td><td>7.9</td><td>5</td></tr><tr><td>Jan 595</td><td>4.1</td><td>4.5</td><td>12</td><td>Jan 595</td><td>10.1</td><td>10.8</td><td>25</td></tr><tr><td> Jan 600</td><td>2.5</td><td>2.8</td><td>3</td><td> Jan 600</td><td>13.1</td><td>14.5</td><td>0</td></tr><tr><td>Jan 605</td><td>1.2</td><td>1.5</td><td>0</td><td>Jan 605</td><td>17.2</td><td>18.7</td><td>0</td></tr><tr><td>Jan 610</td><td>0.55</td><td>0.85</td><td>1</td><td>Jan 610</td><td>21.7</td><td>23.2</td><td>0</td></tr><tr><td>Jan 615</td><td>0.25</td><td>0.55</td><td>0</td><td>Jan 615</td><td>26.6</td><td>28.1</td><td>0</td></tr><tr><td>Jan 620</td><td>0.2</td><td>0.35</td><td>1</td><td>Jan 620</td><td>31.4</td><td>32.9</td><td>0</td></tr><tr><td>Jan 625</td><td>0.05</td><td>0.2</td><td>0</td><td>Jan 625</td><td>36.3</td><td>37.8</td><td>0</td></tr><tr><td>Jan 630</td><td>0</td><td>0.15</td><td>0</td><td>Jan 630</td><td>41</td><td>43</td><td>0</td></tr><tr><td>Jan 635</td><td>0</td><td>0.1</td><td>0</td><td>Jan 635</td><td>46</td><td>48</td><td>0</td></tr><tr><td>Jan 640</td><td>0</td><td>0.1</td><td>0</td><td> Jan 640</td><td>51</td><td>53</td><td>0</td></tr><tr><td>Jan 645</td><td>0</td><td>0.1</td><td>0</td><td>Jan 645</td><td>56.5</td><td>57.5</td><td>0</td></tr><tr><td>Jan 650</td><td>0</td><td>0.1</td><td>0</td><td> Jan 650</td><td>60.5</td><td>63.5</td><td>0</td></tr><tr><td> Jan 660</td><td>0</td><td>0.05</td><td>0</td><td> Jan 660</td><td>70.5</td><td>73.5</td><td>0</td></tr><tr><td> Jan 680</td><td>0</td><td>0.05</td><td>0</td><td> Jan 680</td><td>90.5</td><td>93.5</td><td>0</td></tr></table></body></html>  
 
-![](images/c4876dc24cb5ff4ad99c0af3e9c25342ffbfb1f70c9c7bcbc78d6b68463656dd.jpg)  
+![](c4876dc24cb5ff4ad99c0af3e9c25342ffbfb1f70c9c7bcbc78d6b68463656dd.jpg)  
 
 # FIGURE 16.11  
 
@@ -133,11 +133,11 @@ Sometimes the horizontal axis represents the option's delta. FX traders take the
 
 The reader should note that the smile in Figure 16.9 is a plot of the implied volatility against the strike only. Figures 16.12 and 16.13 are plots of the implied volatility against the delta. These curves  
 
-![](images/165eed02322fd1348bb57a3781307782ea3d78d90c41a355a89cbd7bd541002a.jpg)  
+![](165eed02322fd1348bb57a3781307782ea3d78d90c41a355a89cbd7bd541002a.jpg)  
 
 # FIGURE 16.12  
 
-![](images/7a88620426fe85492c3db547e19aeeb55790d131e537a05bb5da10cfe4fd7ecd.jpg)  
+![](7a88620426fe85492c3db547e19aeeb55790d131e537a05bb5da10cfe4fd7ecd.jpg)  
 
 # FIGURE 16.13  
 
@@ -160,7 +160,7 @@ $$
 
 where $\sigma(25$ delta $R R$ spread), $\sigma(25$ delta put), and $\sigma$ (25-delta call) indicate, respectively, the implied volatilities of a risk reversal, a 25-delta put, and a 25-delta call.  
 
-![](images/d54c881064089da7182da74d004c0e15aeacf1d22be69ca3f9a76a3d0f26f1dd.jpg)  
+![](d54c881064089da7182da74d004c0e15aeacf1d22be69ca3f9a76a3d0f26f1dd.jpg)  
 
 # FIGURE 16.14  
 
@@ -179,7 +179,7 @@ ties, respectively.
 
 Chapter 3 dealt with contractual equations for simple assets. The equalities discussed in the preceding paragraphs now permit considering quite different types of contractual equations. In fact, we. can rearrange equalities shown in Eqs. (16.60) and (16.61) to generate some contractual equations for out-of-the-money implied volatilities:.  
 
-![](images/1cf5cdea740f8753c2d33e8e13f23c5c54462880c5343ac2b1f6d934aacea64f.jpg)  
+![](1cf5cdea740f8753c2d33e8e13f23c5c54462880c5343ac2b1f6d934aacea64f.jpg)  
 
 These equalities can be used to determine out-of-the-money volatilities in the case of vanilla.   
 options. For example, if ATM, RR, and butterfly volatilities are liquid, we can use these equations.   

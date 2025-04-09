@@ -8,14 +8,14 @@ In Chapter 9, we show how the binomial model can be extended to a continuous-tim
 
 Suppose you are given the following information:. $S=48.08$ $X=50$ $r_{a}=4.0\%$ (discrete, annual compounding), one year to expiration, two time steps, $u=1.2808$ , and $d=0.7808$ . Complete the following binomial tree.
 
-![](images/bf0f6fc76479f4222f8029a6c78318911aac2c7d9b3e138d97fb3902069a91ff.jpg)
+![](bf0f6fc76479f4222f8029a6c78318911aac2c7d9b3e138d97fb3902069a91ff.jpg)
 
 2 Based on the results from the previous problem, compute the delta, gamma, and theta based on the standard method.
 3 Based on the data from the previous two problems and the following binomial tree, compute the delta, gamma, and theta using the extended method..
 4 Based on put-call parity, derive the relationship between call and put deltas, gammas, and thetas. Assume interest rates are quoted on a continuous compounding basis.
 5 Verify that your results in problem 3 are consistent with the put-call parity results in problem 4.
 
-![](images/fe23e3db6a6c1a1f916f542fffca688a0f0d8cb86001aefc16d0d6a66b4981b2.jpg)
+![](fe23e3db6a6c1a1f916f542fffca688a0f0d8cb86001aefc16d0d6a66b4981b2.jpg)
 
 # NOTES
 

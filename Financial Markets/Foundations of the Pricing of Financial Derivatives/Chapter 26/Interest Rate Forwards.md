@@ -4,7 +4,7 @@ As noted, we referred to interest rate forwards as forward rate agreements, or F
 
 Let us assume that the forward contract expires in m days. On day m, the payoff of the forward contract will be based on the $q$ -day interest rate. Figure 26.1 illustrates our notation. Rather than maturity time being measured in years, with FRAs, it is typically measured in days. Note here $T$ is simply $m+q$ In the next section, we will value FRAs at some future time $t$ (prior to expiration). For example, suppose the underlying is a 90-day loan rate. Then $q=90$ . If the forward contract expires in 30 days, then $m=30$ . We shall need notation for the rate on a 90-day loan on day 30 relative to the initiation date of the contract, day 0. This would be $L_{30}(90)$ In general, we shall write this rate as $L_{m}(q)$ , the $q$ -day rate on day $^m$ . Thus, $T=m+q=$ $30+90=120$ In addition, the figure shows a date $t_{z}$ referred to as an evaluation date. We will later value the FRA at that point in time. For now, we focus on the initiation date, 0.
 
-![](images/c2045b9684801cc97a00f8c1fbd99b2326fe6fb2b433aad9cba63ac529a0b2e9.jpg)
+![](c2045b9684801cc97a00f8c1fbd99b2326fe6fb2b433aad9cba63ac529a0b2e9.jpg)
 FIGURE 26.1 Interest Rate FRA Maturity Time Notation
 
 We assume that on day 0, an FRA maturing on day m is created. We assume that the rate that the parties agree will be paid by the long to the short on day $^m$ is $R_{0}(m,q)$ This rate can be thought of as the forward price, in much the same manner that we think of a forward price in a standard forward contract on an asset, as described in Chapter 22.

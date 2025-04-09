@@ -67,13 +67,13 @@ This is true regardless of whether we have observed. $L_{t_{i}}$ or not. For thi
 
 Suppose an investor desires an enhanced return or a corporation wants a hedging solution at a lower cost. The general principle behind putting together such structured products is similar to equity pro-. ducts and is illustrated in the following contractual equation:  
 
-![](images/c225240350f664115871d3beb2ccf505610c0e9807739154ee5be173a3f25eb3.jpg)  
+![](c225240350f664115871d3beb2ccf505610c0e9807739154ee5be173a3f25eb3.jpg)  
 
 As in equity structured products, in order to offer a return higher than the one offered by straight bonds, make the client sell one or more options. In fact, as long as the client properly understands the risks and is willing to bear them, the more expensive and more numerous the options are, the higher will be the return. If the client is a corporation and is looking for a cheaper hedge, selling an option would again lower the associated costs.  
 
 In structured fixed income products, there are at least two standard ways one can enhance yields.  
 
-![](images/2a989429d0691d07072a4590a054ca57e8828a359c988e6f761b5a480e55e8cc.jpg)  
+![](2a989429d0691d07072a4590a054ca57e8828a359c988e6f761b5a480e55e8cc.jpg)  
 
 # FIGURE 20.8  
 

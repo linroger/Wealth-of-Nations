@@ -179,7 +179,7 @@ Assume only one source of uncertainty and that $f$ provides no income.
 (c) Defining variables as necessary, derive an expression for the difference between the drift of the futures price and the drift of the forward price in the traditional riskneutral world.   
 (d) Show that your result is consistent with the points made in Section 5.8 about the circumstances when the futures price is above the forward price.  
 
-![](images/f21190f9ac3490fd14e74124c267ae5c42118543d463ddd705568e332406a84a.jpg)  
+![](f21190f9ac3490fd14e74124c267ae5c42118543d463ddd705568e332406a84a.jpg)  
 
 # Interest Rate Derivatives: The Standard. Market Models  
 

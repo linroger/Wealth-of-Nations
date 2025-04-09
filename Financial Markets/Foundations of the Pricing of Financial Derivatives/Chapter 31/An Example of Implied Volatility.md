@@ -20,7 +20,7 @@ TABLE 31.2 Implied Volatilities of SPX Options
 
 <html><body><table><tr><td>Exercise Price</td><td>Calls</td><td>Puts</td></tr><tr><td>2880</td><td>0.1089</td><td>0.0952</td></tr><tr><td>2885</td><td>0.1066</td><td>0.0931</td></tr><tr><td>2890</td><td>0.1044</td><td>0.0907</td></tr><tr><td>2895</td><td>0.1018</td><td>0.0886</td></tr><tr><td>2900</td><td>0.0996</td><td>0.0862</td></tr><tr><td>2905</td><td>0.0973</td><td>0.0843</td></tr><tr><td>2910</td><td>0.0949</td><td>0.0822</td></tr><tr><td>2915</td><td>0.0928</td><td>0.0800</td></tr><tr><td>2920</td><td>0.0908</td><td>0.0779</td></tr></table></body></html>
 
-![](images/c5fd32c49fbcc943ada1e37b429c57e549b94d28c55bde0a51142ce08dc38e47.jpg)
+![](c5fd32c49fbcc943ada1e37b429c57e549b94d28c55bde0a51142ce08dc38e47.jpg)
 FIGURE 31.2 Graph of Implied Volatilities by Exercise Price
 
 Note that we observe a pattern in which the implied volatilities monotonically decrease. with a higher exercise price. The relationship between the option exercise price and the implied volatility has been documented at the least since the time of the massive stock market crash of October 19, 1987. When first observed, the implied volatilities were. $u\cdot$ shaped giving the appearance of a smile. Hence this relationship was named the volatility smile.4 In more recent years, the smile has mostly disappeared, and the relationship has sometimes been referred to as a skew or even a smirk, reflecting the appearance of a sort of snarky half smile.5 Note also that we obtain different implied volatilities depending on whether we are looking at calls or puts. There is no a priori reason why puts and calls should have different implied volatilities but obviously they do..
@@ -29,22 +29,22 @@ We now turn to options on the ETF SPY, a very popular index option. Recall from 
 
 Figure 31.3 illustrates actual SPY option prices and exercise values on the left and reported implied volatilities on the right for selected dates before and during the great financial crisis starting in 2008.7 As is common, we select the nearest option that expires at least more than one month from the observation date. The days to maturity range from 47 to 53. Recall that the SPY is an exchange-traded fund that seeks to mimic the total return of the S&P 500 index. We normalize the exercise price by dividing by the stock price to ease comparison across time. Further, we fix the axis range, improving the ability to see changes over time. Thus, the call (put) option is out-of-the-money (in-the-money) when
 
-![](images/299875415642f4d808957ffce11c8dccbff7dd82511021fec7e42f681b176c64.jpg)
+![](299875415642f4d808957ffce11c8dccbff7dd82511021fec7e42f681b176c64.jpg)
 FIGURE 31.3  Selected Graphs of SPY Option Prices and Implied Volatilities by Normalized Exercise Price, 2006-2008
 
 Panel C. March 31, 2008
 
-![](images/069c198a9ffe14c701b99a6537f4cc68dea77a04dd865c6c18de77aebc5ed764.jpg)
+![](069c198a9ffe14c701b99a6537f4cc68dea77a04dd865c6c18de77aebc5ed764.jpg)
 Panel D. June 30, 2008
 
-![](images/be337ba0a26d5e0cf34992e9aa4f3fb1872a561632a413cfeace9f72aa7a141c.jpg)
+![](be337ba0a26d5e0cf34992e9aa4f3fb1872a561632a413cfeace9f72aa7a141c.jpg)
 
-![](images/0159c7fcac819dbc3295eb9193578dcf5347419a07c902df5d4d15be9e6bdf0b.jpg)
+![](0159c7fcac819dbc3295eb9193578dcf5347419a07c902df5d4d15be9e6bdf0b.jpg)
 Panel E. September 30, 2008
 
-![](images/1fd27508cd963791bf662a9a2e7eb09b84d9ce5706dc207d336b397a1843c471.jpg)
+![](1fd27508cd963791bf662a9a2e7eb09b84d9ce5706dc207d336b397a1843c471.jpg)
 
-![](images/4a5df563d3598e98574d71c1f021e18bc303992458e838c782b2559e4c36e423.jpg)
+![](4a5df563d3598e98574d71c1f021e18bc303992458e838c782b2559e4c36e423.jpg)
 
 # Panel F. December 31, 2008
 
@@ -56,12 +56,12 @@ Notice in Figure 31.3 that on June 30, 2008, the put implied volatilities were a
 
 Figure 31.4 illustrates the same type of input data as Figure 31.3 but in this case for. quarter-end observations in 2009. We see that as the financial crisis ended, the options market prices dropped and, hence, so did implied volatilities..
 
-![](images/34379bea333bfa5b86bc50a3d8f4af225a721183cb252dad093b54b4837cdc6e.jpg)
+![](34379bea333bfa5b86bc50a3d8f4af225a721183cb252dad093b54b4837cdc6e.jpg)
 FIGURE 31.4 Selected Graphs of SPY Option Prices and Implied Volatilities by Normalized Exercise Price, 2009
 
 Panel B. June 30, 2009
 
-![](images/5932e25fa7f28e49d9f397963b405beaa42fd4092416df25fc52916306a69816.jpg)
+![](5932e25fa7f28e49d9f397963b405beaa42fd4092416df25fc52916306a69816.jpg)
 
 # Panel D. December 31, 2009
 
@@ -73,7 +73,7 @@ The existence of multiple implied volatilities, regardless of whether they arran
 
 What we learn, however, is what we wanted to know: Which options are the most. expensive? We see that the calls and puts with the lowest exercise price are the most expen-. sive options. But what is so puzzling is that in the Black-Scholes-Merton world, no option should be more expensive than any other option after accounting for the exercise price and.
 
-![](images/60336e0306a67fece68fe4e00a507ef8256d180c358a703b49d99b99159f7700.jpg)
+![](60336e0306a67fece68fe4e00a507ef8256d180c358a703b49d99b99159f7700.jpg)
 FGURE 31.5 Selected Graphs of SPY Option Prices and Implied Volatilities by Normalized Exercise Price, December 29, 2017
 
 time to expiration. Any option should be a perfect substitute for any other option, given the ability to replicate using the concept of delta.

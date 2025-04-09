@@ -24,7 +24,7 @@ $S_{1}$ Spot price at time $t_{1}$ $S_{2}$ Spot price at time $t_{2}$ $F_{1}$ ..
 
 We will assume that a hedge is put in place at time $t_{1}$ and closed out at time $t_{2}$ . As an example, we will consider the case where the spot and futures prices at the time the hedge is initiated are $\$2.50$ and $\$2.20$ , respectively, and that at the time the hedge is closed out they are $\$2.00$ and $\$1.90$ , respectively. This means that $S_{1}=2.50,F_{1}=2.20$ $S_{2}=2.00$ , and $F_{2}=1.90$  
 
-![](images/2086bec2cc543cadd9fd3f9ad139c921d19d3c35dcfb836246d70a2bee4654a0.jpg)  
+![](2086bec2cc543cadd9fd3f9ad139c921d19d3c35dcfb836246d70a2bee4654a0.jpg)  
 Figure 3.1 Variation of basis over time.  
 
 From the definition of the basis, we have  

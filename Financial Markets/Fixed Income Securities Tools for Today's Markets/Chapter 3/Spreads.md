@@ -41,7 +41,7 @@ TABLE 3.3 Spreads of Selected US Treasury Bonds to Benchmark Treasuries ande to 
 
 Source: Author Calculations.  
 
-![](images/e394a38ab71ef7416d76dbb05af8163c095b8f434b8efa1ff0dcfdaa6ce97933.jpg)  
+![](e394a38ab71ef7416d76dbb05af8163c095b8f434b8efa1ff0dcfdaa6ce97933.jpg)  
 FIGURE 3.4  Spreads of Selected US Treasury Bonds to Benchmark Treasuries and to SOFR Swaps, as of May 14, 2021.  
 
 To understand this difference in relative valuations, Figure 3.5 graphs.   
@@ -50,7 +50,7 @@ is not as steep as the Treasury forward curve. This means that the SOFR curve as
 consequently, makes their market prices look relatively cheap. Equivalently,.   
 SOFR spreads at longer terms need to be larger to get pricing back up to.  
 
-![](images/ae041b602d75b746364baf34d7e930c1b7250b789648c1844d5e6c6ae914d4a8.jpg)  
+![](ae041b602d75b746364baf34d7e930c1b7250b789648c1844d5e6c6ae914d4a8.jpg)  
 FIGURE 3.5  Benchmark Treasury and SOFR Forward Rate Curves, as of May 14, 2021.  
 
 the levels of Treasury forwards. The lesson here to practitioners is that using spreads against a curve from another market may have liquidity. advantages, as mentioned earlier, but can complicate the interpretation of. spreads and trades based on those spreads. In the present case, the relative. cheapness of longer-term, high-coupon Treasuries, as indicated by their relatively large SOFR spreads, is actually a combination of their relative cheapness against the Treasury curve and the relative flatness of the SOFR curve. Furthermore, trades that attempt to lock in these spreads of Treasury. bonds against SOFR spreads, called asset swaps, require trades not only. in Treasuries but in matched-maturity SOFR swaps as well. Chapter 14 discusses asset swap trades in greater detail..  

@@ -6,7 +6,7 @@ As is explained in Chapter 12, SOFR on any given day is the. volume-weighted med
 
 The $\$100$ million in the swap of Figure 2.1 is called the notional amount of the swap, rather than the face, par, or principal amount of the swap, because it is used only to compute the fixed- and floating-rate payments. The notional amount is never paid or received by either counterparty. The dashed arrows in Figure 2.1, which portray a final exchange of notional amount, will be convenient later for pricing the swap, but this exchange is fictional: it is not part of the swap contract and never actually takes place.  
 
-![](images/42c488508bb271d671ff98c50b736c1eecfa3b0328e4138d8ccfb9b20a92e8c1.jpg)  
+![](42c488508bb271d671ff98c50b736c1eecfa3b0328e4138d8ccfb9b20a92e8c1.jpg)  
 FIGURE 2.1 A SOFR Swap.  
 
 Payments on both sides of a SOFR swap follow the actual/360 day-count convention. The annual interest payment on the fixed leg of the swap, therefore, over any 365-day year, is,  
@@ -37,7 +37,7 @@ Figure 2.2 shows the term structure of swap rates in different currencies. as of
 
 The other rates and currencies shown are SONIA (Sterling Overnight. Interbank Average) in British Pounds (GBP); TONAR (Tokyo Overnight  
 
-![](images/6041084b4e95f086049b2131084f6d3ef51349fc7620e2bd8c80078aa9c00108.jpg)  
+![](6041084b4e95f086049b2131084f6d3ef51349fc7620e2bd8c80078aa9c00108.jpg)  
 FIGURE 2.2 Term Structures in Different Currencies, as of May 14, 2021.  
 
 Average Rate) in Japanese Yen (JPY); ESTER, also written as STR (Euro Short-Term Rate) in Euro (EUR); and SARON (Swiss Average Rate Overnight) in Swiss Franc (CHF). These rates, which are discussed further. in Chapter 12, are often called "risk-free" rates to distinguish them from LIBOR rates, but only SOFR and SARON are rates on loans collateralized by government bonds. SONIA, TONAR, and ESTER, by contrast, are all rates on interbank loans. In any case, Figure 2.2 illustrates that the term structures of these rates vary across currencies and, of course, though not. shown, over time as well..  

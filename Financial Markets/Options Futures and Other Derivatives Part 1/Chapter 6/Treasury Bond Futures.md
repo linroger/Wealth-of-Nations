@@ -105,7 +105,7 @@ where $I$ is the present value of the coupons during the life of the futures con
 
 Suppose that, in a Treasury bond futures contract, it is known that the cheapestto-deliver bond will be a $12\%$ coupon bond with a conversion factor of 1.6000. Suppose also that it is known that delivery will take place in 270 days. Coupons. are payable semiannually on the bond. As illustrated in Figure 6.1, the last coupon date was 60 days ago, the next coupon date is in 122 days, and the coupon date thereafter is in 305 days. The term structure is flat, and the rate of interest (with continuous compounding) is $10\%$ per annum. Assume that the current quoted bond price is $\$115$ The cash price of the bond is obtained by adding to this. quoted price the proportion of the next coupon payment that accrues to the holder. The cash price is therefore.  
 
-![](images/9a25c06630986021efd41da2c38c2b258197904b35bde2b7914e27a1924bf909.jpg)  
+![](9a25c06630986021efd41da2c38c2b258197904b35bde2b7914e27a1924bf909.jpg)  
 Figure 6.1 Time chart for Example 6.2.  
 
 $$

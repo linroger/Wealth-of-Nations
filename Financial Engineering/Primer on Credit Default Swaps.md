@@ -45,7 +45,7 @@ As soon as bond issued by C does default (during the next five years) Party B ag
 
 The following diagram shows the payments, with the dotted line (.-.) representing periodic payments. (say once a quarter) that are made as long as the bond issued by C is not in default, and the dot-dash line $(----)$ representing payments made upon default.  
 
-![](images/553e3fe07068da2f5b5d3b181da9f7f9fd6245c74581f8c5d993196d8703d980.jpg)  
+![](553e3fe07068da2f5b5d3b181da9f7f9fd6245c74581f8c5d993196d8703d980.jpg)  
 Figure 1 - CDS between parties A and B, with A paying quarterly premiums and B paying loss upon default  
 
 The result of this swap of payments is that party A makes periodic payments as long as the bond issued by C does not default, while A is compensated by receiving $\$100$ , the par value of the bond, if the bond defaults. In this sense, A is protected against the default of the bond issued by C, while B is at risk to pay $\$100$ upon default. For this reason, one says that party A buys protection and party B sells protection.  
@@ -60,7 +60,7 @@ When first introduced to a CDS and after reflecting on figure 1, it is natural t
 
 To see why a CDS is really the same as a floating rate bond (FRN), first consider figure 2, which shows the CDS cash flows over time for party B, who sells protection, from the example above. Party B receives premiums until the maturity of the CDS or default, whichever occurs first. Since the premiums are paid only if there is no default, they are risky. If there is a default, then party B must pay 100 - Recovery.  
 
-![](images/339334e3d69b66d70073417be86aeb9ac49c8e63439417c724aac84d2f8bf8a7.jpg)  
+![](339334e3d69b66d70073417be86aeb9ac49c8e63439417c724aac84d2f8bf8a7.jpg)  
 Figure 2 - Time-line of CDS Payments (Sell Protection)  
 
 Now we can utilize an elegant trick. With any swap agreement only net cash flows are exchanged.. This means we can insert any arbitrary cash flows we wish, so long as the same amount is paid and. received and the net is zero. Let us add and subtract libor payments at each premium date, and also. 100 at CDS maturity, but only when there is no default. These libor payments are thus risky. But. since they net to zero, they have absolutely no impact on the price or risk of the CDS. The top part of figure 3 shows the original CDS plus these net-zero cash flows. The bottom part of figure 3 then rearranges these cash flows in a convenient manner:.  
@@ -71,7 +71,7 @@ Left panel produces an FRN by combining: CDS premium and $+$ libor into a risky 
 
 The lower left panel is exactly a floating rate bond (FRN): if no default occurs then party B receives coupon of (libor $+$ spread) and final principal at maturity, while if default occurs then party B receives the coupon up to default and then Recovery. The combination in the lower right panel looks awkward but is actually very simple: it is always worth 100 today. It is a libor floating bond with maturity equal to the date of default or maturity of the CDS: payments are libor $+~100$ whether there is a default or not, with the date of the 100 payment being determined by date of default (or CDS maturity). The timing of the payments may be uncertain, but that does not affect the price because any bond that pays libor $+~100$ , when discounted at libor (as is done for CDS), is worth 100 irrespective of maturity.  
 
-![](images/9fb7e055b534c2665af0bbb09158d6d8076ac6d155d31384b375ba4046e78673.jpg)  
+![](9fb7e055b534c2665af0bbb09158d6d8076ac6d155d31384b375ba4046e78673.jpg)  
 Figure 3  CDS Payments plus Offsetting Payments $=$ FRN - libor floater  
 
 In other words, we have just proven, rather simply and without any complex mathematics, that a CDS(sell protection) is just a combination of long an FRN and short a libor floater (worth $\$100$  
@@ -147,7 +147,7 @@ Pay When (and if) default occurs, 100 less any recovery
 
 These cash flows are as shown in figure 2, repeated here:  
 
-![](images/bad9d41ca68e86b021c312fb4a2abd2d59b1f6f63bb5291daaefd932f5ca0c76.jpg)  
+![](bad9d41ca68e86b021c312fb4a2abd2d59b1f6f63bb5291daaefd932f5ca0c76.jpg)  
 Figure 2 - Time-line of CDS Payments (Sell Protection)  
 
 Under the martingale modeling approach the default is assumed to occur at some random time, t. This is a reduced form model in the sense that the process governing default (the random time. $\vec{\tau_{,}}$ is assumed rather than default being modeled as a result of underlying financial or economic processes. The benefit of the approach is the substantial flexibility in the stochastic process governing default,. and the simplicity of the relative pricing (risk-free or equivalent martingale) framework.(See, for example, McNeil, Frey, Embrechts 2005, section 9.3.3.)  

@@ -72,10 +72,10 @@ The hedge ratio $\mathrm{d}D_{t}/\mathrm{d}E_{t}$ allows us to calculate how man
 
 Figure 19.4 illustrated a decision rule based on the Merton model that can be used to exploit any potential mispricing between bonds (or CDS) and equity. Now we want to examine the main  
 
-![](images/6b40a68632a364589e59a62b687851e05c581fa77973c0c0b23ae2586ea3cb53.jpg)  
+![](6b40a68632a364589e59a62b687851e05c581fa77973c0c0b23ae2586ea3cb53.jpg)  
 (a) lustrative example of relationship between credit spread and share price  
 
-![](images/a94928a097d087ed023d5d76b291f1f4e745f262056f07fb9e39c365c212eef5.jpg)  
+![](a94928a097d087ed023d5d76b291f1f4e745f262056f07fb9e39c365c212eef5.jpg)  
 (c) Indictator for capital structure arbitrage strategy and decision to go long or short  
 
 # FIGURE 19.4  
@@ -110,7 +110,7 @@ What would happen if we used the procedure in Eq. (19.29) and, together with the
 
 (a) llustrative example of relationship between credit spread and share price  
 
-![](images/0a719da94c102a1be55ea6235693d0813a8ab6de1b8792f8e4c519fc3eef9200.jpg)  
+![](0a719da94c102a1be55ea6235693d0813a8ab6de1b8792f8e4c519fc3eef9200.jpg)  
 
 # FIGURE 19.5  
 

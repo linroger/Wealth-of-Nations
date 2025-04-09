@@ -13,7 +13,7 @@ $$
 
 where
 
-![](images/41d92110a5aea1c81ffa5cc562871b1ef272dd101eeefb951759caa68116ec42.jpg)
+![](41d92110a5aea1c81ffa5cc562871b1ef272dd101eeefb951759caa68116ec42.jpg)
 FIGURE 19.2  American Option with Two Dividend Payments Timeline
 
 $$

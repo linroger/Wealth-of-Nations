@@ -30,7 +30,7 @@ Table 4.11 5-year fixed $\mathbb{S}$ -for-fixed  cross-currency swap
 
 <html><body><table><tr><td>Years</td><td>Receiveinf</td><td>Pay in $</td></tr><tr><td>1</td><td>4.780222</td><td>6.614962</td></tr><tr><td>2</td><td>4.780222</td><td>6.614962</td></tr><tr><td>3</td><td>4.780222</td><td>6.614962</td></tr><tr><td>4</td><td>4.780222</td><td>6.614962</td></tr><tr><td>5</td><td>104.780222</td><td>156.614962</td></tr></table></body></html>  
 
-![](images/3887e619d2c090dd1ea2bb891e6883cb64453258b418a3bc22619569eeb1ffd9.jpg)  
+![](3887e619d2c090dd1ea2bb891e6883cb64453258b418a3bc22619569eeb1ffd9.jpg)  
 Figure 4.1 UK bond swapped into dollars  
 
 The swap shown in Table 4.11 is non-standard. The pay side would probably pay semiannually following the US corporate bond market conventions. For the swap to be par -i.e. with no compensating payment by either party - the swap's USD rate would be set to $4.359746\%$ semi-annual, instead of $4.409975\%$ annual (this is not exactly a simple EAR conversion). The company would have annual GBP cash flows on the receive side, passed on to its bondholders, and semi-annual USD cash flows on the pay side. The flows are illustrated in Table 4.12.  

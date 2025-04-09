@@ -28,7 +28,7 @@ The life of the tree is set equal to the life of the convertible bond. The value
 
 Consider a 9-month zero-coupon bond issued by company XYZ with a face value of $\$100$ . Suppose that it can be exchanged for two shares of company XYZ's stock at any time during the 9 months. Assume also that it is callable for $\$113$ at any time. The initial stock price is $\$50$ , its volatility is $30\%$ per annum, and there are no dividends. The hazard rate $\lambda$ is $1\%$ per year, and all risk-free rates for all maturities are $5\%$ . Suppose that in the event of a default the bond is worth $\$40$ (i.e., the recovery rate, as it is usually defined, is. $40\%$  
 
-![](images/ed5b69837ff71918c0a33b8523d5ee363a44611b9027685d1bd0f66f017d2a03.jpg)  
+![](ed5b69837ff71918c0a33b8523d5ee363a44611b9027685d1bd0f66f017d2a03.jpg)  
 Figure 27.2 Tree for valuing convertible. Upper number at each node is stock price; lower number is convertible bond price..  
 
 Figure 27.2 shows the stock price tree that can be used to value the convertible when there are three time steps ( $\Delta t=0.25$ ). The upper number at each node is the stock price; the lower number is the price of the convertible bond. The tree parameters are:  

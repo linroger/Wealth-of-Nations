@@ -42,7 +42,7 @@ The following example shows how CPPI can be combined with the ITraxx and has sim
 
 First we note that the equity tranche of the iTraxx Index is quoted as an upfront percentage of the notional plus 500 basis point running-fee paid quarterly. Assume that the upfront fee of the iTraxx equity tranche is $q_{t}=20\%$ of the notional amount invested in the equity tranche. $N^{\mathrm{Eq}}$ and that the annual LIBOR rate is $L_{t}=5\%$ . For simplicity, suppose the swap curve is flat at. $5.095\%$ as well. The CPPI is applied with daily adjustment periods denoted by. $t_{i},i=0,1,...,n.$ The leverage factor is assumed to be 2. Assume no bid-ask spreads. Figure 23.1 illustrates how the leveraged amount $C u_{t}\times\lambda$ is invested in the risky asset. It also shows that the equity tranche of the iTraxx. index is quoted as an upfront cash amount..  
 
-![](images/0ec9f6fdad0d355964567c64f7fca16abf811c13e9a2d70c823f5c27aec2e464.jpg)  
+![](0ec9f6fdad0d355964567c64f7fca16abf811c13e9a2d70c823f5c27aec2e464.jpg)  
 
 # FIGURE 23.1  
 
@@ -169,7 +169,7 @@ Figure 23.2 illustrates the difference between the value of risky assets, which 
 
 The opposite adjustment will be implemented if $q_{t_{1}}$ decreases. We leave the details of this case to the end-of-chapter exercises. Instead, we will consider the case of a default.  
 
-![](images/5e9b62df93ce62e480834f0660c736201521176d747d40a2f32fed68e3e47919.jpg)  
+![](5e9b62df93ce62e480834f0660c736201521176d747d40a2f32fed68e3e47919.jpg)  
 
 # FIGURE 23.2  
 

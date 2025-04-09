@@ -126,7 +126,7 @@ Backward induction: Given the terminal stock price $(S_{T})$ , we can compute th
 
 o The zero-coupon bond price with \$1 par value is: $1\times e^{-.12\times.25}=\S0.9704.$  
 
-![](images/20b25348201d805a103918820b2801dce194a0243f0d6edc827a9bf4c22f2ebf.jpg)  
+![](20b25348201d805a103918820b2801dce194a0243f0d6edc827a9bf4c22f2ebf.jpg)  
 
 # Two angles:  
 
@@ -136,7 +136,7 @@ Hedging: See if you can hedge away the risk of the call using stock. => If the h
 
 # Replicating  
 
-![](images/294e42883529c5e32337ff56eabad6cb87e5dc00a8031c866785a3889eaf44c5.jpg)  
+![](294e42883529c5e32337ff56eabad6cb87e5dc00a8031c866785a3889eaf44c5.jpg)  
 
 Assume that we can replicate the payoff of 1 call using $\Delta$ share of stock and $D$ par value of bond, we have  
 
@@ -150,7 +150,7 @@ o Value of option $=$ value of replicating portfolio $\begin{array}{r}{=\frac{1}
 
 # Hedging  
 
-![](images/ad57fec2ca8ad286495d43656fecdffdb19f8eaa673afc977a84e5a3a0abb9fe.jpg)  
+![](ad57fec2ca8ad286495d43656fecdffdb19f8eaa673afc977a84e5a3a0abb9fe.jpg)  
 
 o Assume that we can hedge away the risk in 1 call by shorting $\Delta$ share of stock, such as the hedged portfolio has the same payoff at both nodes: $1-\Delta22=0-\Delta18$  
 
@@ -185,7 +185,7 @@ We need another instrument (say another option) to do perfect hedging or replica
 
 # Risk-neutral valuation  
 
-![](images/b46bc059cd46418e10c879f8bafcde5931131ec719dc0a08545a3201b907726a.jpg)  
+![](b46bc059cd46418e10c879f8bafcde5931131ec719dc0a08545a3201b907726a.jpg)  
 
 Compute a set of artificial probabilities for the two nodes. $\left(p,1-p\right)$ Ssuch that the stock price equals the expected value of the terminal payment, discounted by the riskfree rate..  
 
@@ -234,7 +234,7 @@ The market can still be completed with the stock alone, in a dynamic sense.
 
 # Constructing the binomial tree  
 
-![](images/4450969e0f97a7cd4a460649c750b6072a96a32e7cb8e0a8ed3196688101be8f.jpg)  
+![](4450969e0f97a7cd4a460649c750b6072a96a32e7cb8e0a8ed3196688101be8f.jpg)  
 
 One way to set up the tree is to use $(u,d)$ to match the stock return volatility (Cox, Ross, Rubinstein):  
 
@@ -368,7 +368,7 @@ D Integral form: St = Soet-3o?t+oW, $S_{t}=S_{0}e^{\mu t-\frac{1}{2}\sigma^{2}t+
 
 $\begin{array}{r}{\mathcal{I}S_{t}=\mu S_{t}d t+\sigma S_{t}d W_{t},\quad\mu=10\%,\sigma=20\%}\end{array}$ 6, So = 100, t = 1.  
 
-![](images/f017cb82878a5d85dcc2f0b21d4b1ce130c745cf79043b07841e14dac7e50c2e.jpg)  
+![](f017cb82878a5d85dcc2f0b21d4b1ce130c745cf79043b07841e14dac7e50c2e.jpg)  
 
 The earliest application of Brownian motion to finance is Louis Bachelier in his dissertation (1900) "Theory of Speculation." He specified the stock price as following a Brownian motion with drift:.  
 
@@ -380,7 +380,7 @@ $$
 
 $\begin{array}{r}{\mathcal{I}S_{t}=\mu S_{t}d t+\sigma S_{t}d W_{t},\quad\mu=10\%,\sigma=20\%}\end{array}$ 6, So = 100, t = 1.  
 
-![](images/0958083e43e6bb1ee5903a02478be26e9e2daa2ce902f7801c0f6ffb4c30486b.jpg)  
+![](0958083e43e6bb1ee5903a02478be26e9e2daa2ce902f7801c0f6ffb4c30486b.jpg)  
 
 , Stock with the return process: $d$ $\begin{array}{r}{\prime\ln S_{t}=(\mu-\frac{1}{2}\sigma^{2})d t+\sigma d W_{t}.}\end{array}$ Discretize to daily intervals $d t\approx\Delta t=1/252.$ Draw standard normal random variables $\varepsilon(100\times252)\sim\phi(0,1).$ Convert them into daily log returns: $\begin{array}{r}{R_{d}=(\mu-\frac{1}{2}\sigma^{2})\Delta t+\sigma\sqrt{\Delta t}\varepsilon.}\end{array}$ Convert returns into stock price sample paths: $S_{t}=S_{0}e^{\sum_{d=1}^{252}R_{d}}.$  
 
@@ -702,7 +702,7 @@ The compensator of the jump process under $\mathbb{Q}$ becomes: $\nu(x,t)^{\math
 
 The BMS delta of European options (Can you derive them?):  
 
-![](images/2de89cd4f566ddbd40d380f91efe03c7a202529a141e5b8c3884c09aac62383f.jpg)  
+![](2de89cd4f566ddbd40d380f91efe03c7a202529a141e5b8c3884c09aac62383f.jpg)  
 
 Industry quotes the delta in absolute percentage terms (right panel).   
 Which of the following is out-of-the-money? (i) 25-delta call, (ii) 25-delta put, (ii) 75-delta call, (iv) 75-delta put.   
@@ -738,7 +738,7 @@ $$
 
 $n(d_{1})$ is the standard normal probability density: $\begin{array}{r}{\eta(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^{2}}{2}}.}\end{array}$  
 
-![](images/053595a7c3ba3b069e0335e1041fe57353f635052661a979e1ba9c2fd2d68ec7.jpg)  
+![](053595a7c3ba3b069e0335e1041fe57353f635052661a979e1ba9c2fd2d68ec7.jpg)  
 
 Volatility exposure (vega) is higher for at-the-money options.  
 
@@ -812,7 +812,7 @@ o Gamma () is the rate of change of delta $(\triangle)$ with respect to the pric
 
 o The BMS gamma is the same for calls and puts:  
 
-![](images/5b4b65a9f6a212b42647685b15a4ec7121251166d9b2b474eb19e62d779e9916.jpg)  
+![](5b4b65a9f6a212b42647685b15a4ec7121251166d9b2b474eb19e62d779e9916.jpg)  
 
 Gamma is high for near-the-money options..   
 High gamma implies high variation in delta, and hence more frequent rebalancing to maintain low delta exposure..  
@@ -832,7 +832,7 @@ based on a locally linear approximation.
 between the derivative portfolio value and the underlying stock price and.   
 volatility.  
 
-![](images/d85ce84842874e74ce720957b94bbc0b769d8deb48a85fb064bca0e343e34cb2.jpg)  
+![](d85ce84842874e74ce720957b94bbc0b769d8deb48a85fb064bca0e343e34cb2.jpg)  
 
 Since the relation is not linear, the hedging ratios change as the environment change.  
 
@@ -919,7 +919,7 @@ instead of the option invoice price.
 
 # The relation between option price and  under BMS  
 
-![](images/2c351e1a8ced1a61c6f813e34a32e47be057ed3c8d2a5b2d2f4ed60c88277836.jpg)  
+![](2c351e1a8ced1a61c6f813e34a32e47be057ed3c8d2a5b2d2f4ed60c88277836.jpg)  
 
 o An option value has two components:  
 
@@ -1016,15 +1016,15 @@ If the BMS model assumptions hold in reality, the BMS model should be able to ma
 
 # Implied volatility smiles & skews on a stock  
 
-![](images/58664768c3b2ab5ac188bd6bda47cad18da63978491994d420590d70aecdbec7.jpg)  
+![](58664768c3b2ab5ac188bd6bda47cad18da63978491994d420590d70aecdbec7.jpg)  
 
 # Implied volatility skews on a stock index (SPX)  
 
-![](images/d131d49ce404e17b55c3ad6e85eb1ae1d8d254e23064bf5c6792ba95b9299215.jpg)  
+![](d131d49ce404e17b55c3ad6e85eb1ae1d8d254e23064bf5c6792ba95b9299215.jpg)  
 
 # Average implied volatility smiles on currencies  
 
-![](images/fb2799538b2966e5023406e8401ec6bb116ac068774ba2309cd5646920e4dacb.jpg)  
+![](fb2799538b2966e5023406e8401ec6bb116ac068774ba2309cd5646920e4dacb.jpg)  
 
 Maturities: 1m (solid), 3m (dashed), 1y (dash-dotted)  
 
@@ -1067,25 +1067,25 @@ Another assumption of BMS is that the return volatility $(\sigma)$ is constant -
 
 # Stochastic volatility on stock indexes  
 
-![](images/c299852caa58aabe5368461bc13a3f07116bbf986a983b4844ccbe34d366b7a7.jpg)  
+![](c299852caa58aabe5368461bc13a3f07116bbf986a983b4844ccbe34d366b7a7.jpg)  
 
 At-the-money implied volatilities at fixed time-to-maturities from 1 month to 5 years.  
 
 # Stochastic volatility on currencies  
 
-![](images/ffd9658429ef07c327dede9538a107cbedec9488d6978ed2e0e41a4f578b70e4.jpg)  
+![](ffd9658429ef07c327dede9538a107cbedec9488d6978ed2e0e41a4f578b70e4.jpg)  
 
 Three-month delta-neutral straddle implied volatility.  
 
 # Stochastic skewness on stock indexes  
 
-![](images/22438c94acf5da0f8802f14e41f956e109eb8baf09bed7855c64c8b7baf07e11.jpg)  
+![](22438c94acf5da0f8802f14e41f956e109eb8baf09bed7855c64c8b7baf07e11.jpg)  
 
 Implied volatility spread between $80\%$ and $120\%$ strikes at fixed time-to-maturities from 1 month to 5 years.  
 
 # Stochastic skewness on currencies  
 
-![](images/e6e55dd313ca0a92ef196d3841960201c7acb81e3907343e56fac2908ed4d6e0.jpg)  
+![](e6e55dd313ca0a92ef196d3841960201c7acb81e3907343e56fac2908ed4d6e0.jpg)  
 
 Three-month 10-delta risk reversal (blue lines) and butterfly spread (red lines)  
 

@@ -74,7 +74,7 @@ reducing the risk that the future selling price will deviate unexpectedly from t
 
 Derivatives can serve legitimate business purposes. For example, a corporation borrows a large sum of money at a specific interest rate.4 The rate of interest on the loan resets every six months. The corporation is concerned that the rate of interest may be much higher in six months. The corporation could buy a forward rate agreement (FRA), which is a contract to pay a fixed rate of interest six months after purchases on a notional. amount of money.[5] 1f the interest rate after six months is above the contract rate, the seller will pay the. difference to the corporation, or FRA buyer. If the rate is lower, the corporation will pay the difference to the seller. The purchase of the FRA serves to reduce the uncertainty concerning the rate increase and stabilize earnings.  
 
-![](images/086efcb2fec35f11946667d238469091003d8270c9f7d8627a397968892c6f9a.jpg)  
+![](086efcb2fec35f11946667d238469091003d8270c9f7d8627a397968892c6f9a.jpg)  
 Derivatives traders at the Chicago Board of Trade.  
 
 # Speculation and arbitrage  
@@ -143,7 +143,7 @@ rational pricing.
 
 For exchange-traded derivatives, market price is usually transparent  
 
-![](images/7f5de59cccf42d963c0e5db6dfb6b04c89747083278c2a88a2f9c8739244d1cd.jpg)  
+![](7f5de59cccf42d963c0e5db6dfb6b04c89747083278c2a88a2f9c8739244d1cd.jpg)  
 World Wealth vs World Derivatives 1998-2007  
 
 Total world derivatives from 1998-2007[12] compared to total world wealth in the year 2000[13]  
@@ -291,7 +291,7 @@ Margin requirements are waived or reduced in some cases for hedgers who have phy
 
 Clearing margin are financial safeguards to ensure that companies or corporations perform on their customers' open futures and options contracts. Clearing margins are distinct from customer margins that individual buyers and sellers of futures and options contracts are required to deposit with brokers.  
 
-![](images/fb9601983257c7d65ede4cb5ace21a1a4172708d25354b4e655da8f73e8aa83c.jpg)  
+![](fb9601983257c7d65ede4cb5ace21a1a4172708d25354b4e655da8f73e8aa83c.jpg)  
 
 Customer margin Within the futures industry, financial guarantees required of both buyers and sellers of futures contracts and sellers of options contracts to ensure fulfillment of contract obligations. Futures Commission  
 
@@ -557,7 +557,7 @@ The value of a forward position at maturity depends on the relationship between 
 
 .For a long position this payoff is: $f_{T}=S_{T}-K$ .For a short position, it is:. $f_{T}=K-S_{T}$  
 
-![](images/c44cc5a2e3a082d974f6357d1df503d82aa3a89294e387797a04c07498b07ad6.jpg)  
+![](c44cc5a2e3a082d974f6357d1df503d82aa3a89294e387797a04c07498b07ad6.jpg)  
 
 # How a forward contract works  
 
@@ -623,7 +623,7 @@ The market's opinion about what the spot price of an asset will be in the future
 
 The economists John Maynard Keynes and John Hicks argued that in general, the natural hedgers of a commodity are those who wish to sell the commodity. at a future point in time.3 4] Thus,  
 
-![](images/d4d3107c73b81adbcbae42cf8642029cd7d561ee2838ea04106247d4d4f0c872.jpg)  
+![](d4d3107c73b81adbcbae42cf8642029cd7d561ee2838ea04106247d4d4f0c872.jpg)  
 
 hedgers will collectively hold a net short position in the forward market. The other side of these contracts are held by. speculators, who must therefore hold a net long position. Hedgers are interested in reducing risk, and thus will accept losing money on their forward contracts. Speculators on the other hand, are interested in making a profit, and will hence only enter the contracts if they expect to make money. Thus, if speculators are holding a net long position, it must be the case that the expected future spot price is greater than the forward price.  
 
@@ -852,28 +852,28 @@ These trades are described from the point of view of a speculator. If they are c
 
 A trader who believes that a stock's price will increase might buy the right to purchase the stock (a call option) rather than just purchase the stock itself. He would have no obligation to buy the stock, only the right to do so until the expiration date. If the stock price at expiration is above the exercise price by more than the premium (price) paid, he will profit. If the stock price at expirationn. is lower than the exercise price, he will let the call contract expire worthless, and only lose the amount of the premium. A trader might buy the option instead of shares, because for the same amount of money, he can control (leverage) a much larger number of shares.  
 
-![](images/21aa776c59a6a3fc21d9cd8c040bdc36df141b5c935832600f1d1cae82c9c6dc.jpg)  
+![](21aa776c59a6a3fc21d9cd8c040bdc36df141b5c935832600f1d1cae82c9c6dc.jpg)  
 Payoff from buying a call  
 
 # Long put  
 
 A trader who believes that a stock's price will decrease can buy the right to sell the stock at a fixed price (a put option). He will be under no obligation to sell the stock, but has the right to do so until the expiration date. If the stock price at expiration is below the exercise price by more than the premium paid, he will profit. If the stock price at expiration is above the exercise price, he will let the put contract expire worthless and only lose the premium paid.  
 
-![](images/f6ecea7f40b330eef113e22eeca6756f69ad1aceb14978c8a8b10b52023ec54d.jpg)  
+![](f6ecea7f40b330eef113e22eeca6756f69ad1aceb14978c8a8b10b52023ec54d.jpg)  
 Payoff from buying a put.  
 
 # Short call  
 
 A trader who believes that a stock price will decrease, can sell the stock short or instead sell, or "write," a call. The trader selling a call has an obligation to sell the stock to the call buyer at the buyer's option. If the stock price decreases, the short call position will make a profit in the amount of the premium. If the stock price. increases over the exercise price by more than the amount of the premium, the short will lose money, with the potential loss unlimited.  
 
-![](images/f9f5fbcb5ce94dd1df73452dcf050f9ed4f42e64c0546c53b8dd330417ec0613.jpg)  
+![](f9f5fbcb5ce94dd1df73452dcf050f9ed4f42e64c0546c53b8dd330417ec0613.jpg)  
 Payoff from writing a call.  
 
 # Short put  
 
 A trader who believes that a stock price will increase can buy the stock or instead sell a put. The trader selling a put has an obligation to buy the stock from the put buyer at the put buyer's option. If the stock price at expiration is above the exercise price, the short put position will make a profit in the amount of the. premium. If the stock price at expiration is below the exercise. price by more than the amount of the premium, the trader will lose money, with the potential loss being up to the full value of the stock. A benchmark index for the performance of a cash-secured short put option position is the CBOE S&P 500 PutWrite Index (ticker PUT).  
 
-![](images/a12d8b7fd334feda75b8548722b4e9d4b8626f29e7e29298de903ef3574d0747.jpg)  
+![](a12d8b7fd334feda75b8548722b4e9d4b8626f29e7e29298de903ef3574d0747.jpg)  
 Payoff from writing a put.  
 
 # Option strategies  
@@ -882,7 +882,7 @@ Combining any of the four basic kinds of option trades (possibly. with different
 
 Strategies are often used to engineer a particular risk profile to movements in the underlying security. For example, buying a butterfly spread (long one X1 call, short two X2 calls, and long one X3 call) allows a trader to profit if the stock price on the expiration date is near the middle exercise price, X2, and does not expose the trader to a large loss.  
 
-![](images/f05c65934fd9b73ff418750f520b2700f2bd7f4779d2700895fc7d67d6178e9c.jpg)  
+![](f05c65934fd9b73ff418750f520b2700f2bd7f4779d2700895fc7d67d6178e9c.jpg)  
 
 Payoffs from buying a butterfly spread.  
 
@@ -890,14 +890,14 @@ An Iron condor is a strategy that is similar to a butterfly spread,. but with di
 
 Selling a straddle (selling both a put and a call at the same exercise price) would give a trader a greater profit than a butterfly if the final stock price is near the exercise price, but might result in a large loss.  
 
-![](images/ab233b410f0d3bb61194e6e2c8d06b06c5ceec5b837432056d00bae8c508ca21.jpg)  
+![](ab233b410f0d3bb61194e6e2c8d06b06c5ceec5b837432056d00bae8c508ca21.jpg)  
 Payoffs from selling a straddle.  
 
 Similar to the straddle is the strangle which is also constructed by. a call and a put, but whose strikes are different, reducing the net debit of the trade, but also reducing the likelihood of profit in the trade.  
 
 One well-known strategy is the covered call, in which a trader buys a stock (or holds a previously-purchased long stock position), and sells a call. If the stock price rises above the exercise price, the call will be exercised and the trader will get a fixed profit. If the stock price falls, the trader will lose money on his stock position, but this will be partially offset by the premium received from selling the call. Overall, the payoffs match the payoffs from selling a put. This relationship is known as put-call parity and offers insights for financial theory. A benchmark index for the performance of a buy-write strategy is the CBOE S&P 500 BuyWrite Index (ticker symbol BXM).  
 
-![](images/5ce88e91adbb1e6c569333d904f1691fcdb82921fc4726bf42fb03012271fb93.jpg)  
+![](5ce88e91adbb1e6c569333d904f1691fcdb82921fc4726bf42fb03012271fb93.jpg)  
 Payoffs from a covered call.  
 
 # Historical uses of options  
@@ -972,12 +972,12 @@ Call options can be purchased on many financial instruments other than stock in 
 
 An investor typically 'buys a call' when he expects the price of the underlying instrument will go above the call's 'strike price,'. hopefully significantly so, before the call expires. The investor pays a non-refundable premium for the legal right to exercise the call at the strike price, meaning he can purchase the underlying instrument at the strike price. Typically, if the price of the underlying instrument has surpassed the strike price, the buyer pays the strike price to actually purchase the underlying instrument, and then sells the instrument and pockets the profit. Of course, the investor can also hold onto the underlying instrument, if he feels it will continue to climb even higher.  
 
-![](images/e8fee0a64296cd5f34bb2441dd8df1c547ccfed22f82915522899b3e06612fb6.jpg)  
+![](e8fee0a64296cd5f34bb2441dd8df1c547ccfed22f82915522899b3e06612fb6.jpg)  
 Payoff from buying a call  
 
 An investor typically 'writes a call' when he expects the price of the underlying instrument to stay below the call's strike price. The writer (seller) receives the premium up front as his or her profit. However, if the call buyer decides to exercise his option to buy, then the writer has the obligation to sell the underlying instrument at the strike price. Oftentimes the writer of the call does not actually own the underlying instrument, and must purchase it on the open market in order to be able to sell it to the buyer of the call. The seller of the call will lose the difference between his or her purchase price of the underlying instrument and the strike. price. This risk can be huge if the underlying instrument skyrockets unexpectedly in price.  
 
-![](images/545515f5476c842bd5e8310b13e59f70d66b22e3cfc9ddc1311ed314c06a6a81.jpg)  
+![](545515f5476c842bd5e8310b13e59f70d66b22e3cfc9ddc1311ed314c06a6a81.jpg)  
 Payoff from writing a call.  
 
 .The current price of ABC Corp stock is $\$45$ per share, and investor 'Chris' expects it will go up significantly. Chris buys a call contract for 100 shares of ABC Corp from 'Steve, who is the call writer/seller. The strike price for the contract is $\$50$ per share, and Chris pays a premium up front of. $\$5$ per share, or $\$500$ total. If ABC Corp does not go up, and Chris does not exercise the contract, then Chris has lost $\$500$   
@@ -1058,10 +1058,10 @@ Trader A' (Put Buyer) purchases a put contract to sell 100 shares of XYZ Corp. t
 
 Trader A's total earnings (S) can be calculated at $\$500$ . The sale of the 100 shares of stock at a strike price of $\$50$ to 'Trader $\mathbf{B}^{\prime}=\$5,000$ (P). The purchase of 100 shares of stock at $\$40$ (Q). The put option premium paid to trader  
 
-![](images/1b8d86da068367a1cc9d36084dd47fe8ea29edbeb74e4dafce452276d2532bed.jpg)  
+![](1b8d86da068367a1cc9d36084dd47fe8ea29edbeb74e4dafce452276d2532bed.jpg)  
 Payoff from buying a put.  
 
-![](images/4a01c4addbc8fcdc2c45e9333a8565bf56335de61dcc0b3bff238b2accd7bc82.jpg)  
+![](4a01c4addbc8fcdc2c45e9333a8565bf56335de61dcc0b3bff238b2accd7bc82.jpg)  
 Payoff from writing a put.  
 
 B for buying the contract of 100 shares at $\$5$ per share, excluding commissions $=\$500$ $(\mathbf{R})$ . Thus $\mathbf{S}=\mathbf{P}$ $\mathbf{(Q+R)}=\mathbb{5}\pm\mathbf{5},\mathbf{0}\mathbf{0}\mathbf{0}-(\mathbb{5}4,\mathbf{0}\mathbf{0}\mathbf{0}+\mathbb{5}\pm\mathbf{5}\mathbf{0}\mathbf{0})=\mathbb{5}\pmb{5}\mathbf{0}\mathbf{0}.$  
@@ -1173,7 +1173,7 @@ Most swaps are traded over-the-counter (OTC), "tailor-made" for the counterparti
 
 The Bank for International Settlements (BIS) publishes statistics on the notional amounts outstanding in the OTC. derivatives market. At the end of 2006, this was UsD 415.2 trillion, more than 8.5 times the 2006 gross world. product. However, since the cash flow generated by a swap is equal to an interest rate times that notional amount, the cash flow generated from swaps is a substantial fraction of but much less than the gross world product--which is. also a cash-flow measure. The majority of this (UsD 292.0 trillion) was due to interest rate swaps. These split by. currency as:  
 
-![](images/e7ab845a7ebd1f7fb4f90fd615e9ae058ed94e9495d15881a10e06355bfc3173.jpg)  
+![](e7ab845a7ebd1f7fb4f90fd615e9ae058ed94e9495d15881a10e06355bfc3173.jpg)  
 Source: BIS Semiannual OTC derivatives statistics at end-December 2008  
 
 The CDS and currency swap markets are dwarfed by the interest rate swap market. All three markets peaked in mid 2008.  
@@ -1192,7 +1192,7 @@ The five generic types of swaps, in order of their quantitative importance, are:
 
 The most common type of swap is a "plain Vanilla' interest rate swap. It is the exchange of a fixed rate loan to a floating rate loan. The life of the swap can range from 2 years to over 15 years. The reason for this exchange is to take benefit from comparative advantage. Some companies may have comparative advantage in fixed rate markets while other companies have a comparative advantage in floating rate markets. When companies want to borrow they look for cheap borrowing. i.e. from the market where they have comparative advantage. However this may lead to a company borrowing.  
 
-![](images/070fbd819eeae29d169cdf1db2dcfc1195b2fb288d11eabb056c5b8bddca5160.jpg)  
+![](070fbd819eeae29d169cdf1db2dcfc1195b2fb288d11eabb056c5b8bddca5160.jpg)  
 
 A is currently paying floating, but wants to pay fixed. B is currently paying fixed but wants to pay floating. By entering into an interest rate swap, the net result is that each party can 'swap' their existing obligation for their desired obligation. Normally the parties do not swap payments directly, but rather, each sets up a separate swap with a financial intermediary such as a bank. In return for matching the two parties together, the bank takes a spread from the swap payments.  
 
@@ -1452,7 +1452,7 @@ Typically, an investment fund manager will purchase such a note to hedge.
 
 against possible down grades, or loan defaults.  
 
-![](images/ad308e30f6c469f2ef7ff4043f64b52e3b5722fe5ca369e59b91b7cf6e8a7cf5.jpg)  
+![](ad308e30f6c469f2ef7ff4043f64b52e3b5722fe5ca369e59b91b7cf6e8a7cf5.jpg)  
 
 In this example coupons from the bank's portfolio of loans are passed to the SPV which uses the cash flow to service the credit linked notes..  
 
@@ -1800,14 +1800,14 @@ After GK, the most common models in use are SABR and local volatility, although 
 
 Of all the precious metals, gold is the most popular as an investment.11] Investors generally buy gold as a hedge or safe haven against any economic, political, social, or fiat currency crises (including investment market declines, burgeoning national debt, currency failure, inflation, war and social unrest). The gold market is also subject to. speculation as other commodities are, especially through the use of. futures contracts and derivatives. The history of the gold standard, the role of gold reserves in central banking, gold's low correlation with other commodity prices, and its pricing in relation to fiat currencies during the financial crisis of 2007-2010, suggest that gold has features of being money.[2] [3]  
 
-![](images/3d97b0d1fd12f8c23b49752affd3c6aaf556b7fe2fc7c340b29cd8f0bb92ce79.jpg)  
+![](3d97b0d1fd12f8c23b49752affd3c6aaf556b7fe2fc7c340b29cd8f0bb92ce79.jpg)  
 Reserves of SDR, forex and gold in 2006  
 
 # Gold price  
 
 Gold has been used throughout history as money and has been a. relative standard for currency equivalents specific to economic regions. or countries. Many European countries implemented gold standards in the later part of the 19th century until these were dismantled in the financial crises involving World War I. After World War II, the  
 
-![](images/eed13c09d5f4184136855bb3de798e74b8e63555ba46fb252268227969253991.jpg)  
+![](eed13c09d5f4184136855bb3de798e74b8e63555ba46fb252268227969253991.jpg)  
 A Good Delivery bar, the standard for trade in the major international gold markets.  
 
 Bretton Woods system pegged the United States dollar to gold at a rate of $\mathrm{USS}35$ per troy ounce. The system existed until the 1971 Nixon Shock, when the US unilaterally suspended the direct convertibility of the United States dollar to gold and made the transition to a fiat currency system. The last currency to be divorced from gold was the Swiss Franc in 2000.  
@@ -1873,7 +1873,7 @@ The most traditional way of investing in gold is by buying bullion gold bars. In
 Bars generally carry lower price premiums than gold bullion coins.   
 However larger bars carry an increased risk of forgery due to their less.  
 
-![](images/8e00d94671e6fb37bcfcae39af84b319020f3f7d735d3d887be4586418eb19f2.jpg)  
+![](8e00d94671e6fb37bcfcae39af84b319020f3f7d735d3d887be4586418eb19f2.jpg)  
 1 troy ounce (31 g) gold bar with certificate  
 
 stringent parameters for appearance. While bullion coins can be easily weighed and measured against known values, most bars cannot, and gold buyers often have bars re-assayed. Larger bars also have a greater volume in which to create a partial forgery using a tungsten-filed cavity, which may not be revealed by anasay 1380  
@@ -1886,7 +1886,7 @@ Gold coins are a common way of owning gold. Bullion coins are priced. according 
 
 The Krugerrand is the most widely-held gold bullion coin, with 46000000 troy ounces (1400 tonnes) in circulation. Other common gold bullion coins include the Australian Gold Nugget (Kangaroo), Austrian Philharmoniker (Philharmonic), Austrian 100 Corona, Canadian Gold Maple Leaf, Chinese Gold Panda, Malaysian Kijang  
 
-![](images/7ecfdb5094848b67bed0bff2dd5f92b42fddbaf721ac809ba3ace912782dbff4.jpg)  
+![](7ecfdb5094848b67bed0bff2dd5f92b42fddbaf721ac809ba3ace912782dbff4.jpg)  
 The faces of a Krugerrand, the most common gold bullion coin.  
 
 Emas, French Coq d'Or (Golden Rooster), Mexican Gold 50 Peso, British Sovereign, and American Gold Eagle. Coins may be purchased from a variety of dealers both large and small. Fake gold coins are not uncommon, and are usually made of gold-plated lead.  
@@ -1950,7 +1950,7 @@ In the last century, major economic crises (such as the Great Depression, World 
 
 The performance of gold bullion is often compared to stocks due to their fundamental differences. Gold is regarded by some as a. store of value (without growth) whereas  
 
-![](images/f8d789c80145779cfbbf4821ed0f21b49816b483d8818f9637d6074a16ff8aa7.jpg)  
+![](f8d789c80145779cfbbf4821ed0f21b49816b483d8818f9637d6074a16ff8aa7.jpg)  
 
 stocks are regarded as a return on value (i.e., growth from anticipated real price increase plus dividends). Stocks and bonds perform best in a stable political climate with strong property rights and little turmoil. The attached graph. shows the value of Dow Jones Industrial Average divided by the price of an ounce of gold. Since 1800, stocks have consistently gained value in comparison to gold in part because of the stability of the American political system.[51] This appreciation has been cyclical with long periods of stock outperformance followed by long periods of gold. outperformance. The Dow Industrials bottomed out a ratio of 1:1 with gold during 1980 (the end of the 1970s bear market) and proceeded to post gains throughout the 1980s and 1990s. The gold price peak of 1980 also coincided. with the Soviet Union's invasion of Afghanistan and the threat of the global expansion of communism. The ratio. peaked on January 14, 2000 a value of 41.3 and has fallen sharply since.  
 
@@ -2037,13 +2037,13 @@ In its simplest form, a credit default swap is a bilateral contract between the 
 
 A holder of a bond may "buy protection" to hedge its risk of default. In this way, a CDS is similar to credit insurance, although CDS are not similar to or subject to regulations governing casualty or life insurance. Also, investors can buy and sell protection without  
 
-![](images/278f6a34f882eb4d62dad53fbd33affd01bee9f3f1a67da16c6ee2b23fc87c4d.jpg)  
+![](278f6a34f882eb4d62dad53fbd33affd01bee9f3f1a67da16c6ee2b23fc87c4d.jpg)  
 
 If the reference bond performs without default, the protection buyer pays quarterly payments to the seller until maturity  
 
 # CDS (DEFAULT)  
 
-![](images/e6d54b08e11cce9621ef95a76944fb17d4340eed30d55de5569ce1f1fc13c00d.jpg)  
+![](e6d54b08e11cce9621ef95a76944fb17d4340eed30d55de5569ce1f1fc13c00d.jpg)  
 
 If the reference bond defaults, the protection seller pays par value of the bond to the buyer, and the buyer physically delivers the bond to the seller.  
 
@@ -2057,11 +2057,11 @@ Credit default swaps are not traded on an exchange and there is no required repo
 
 # Description  
 
-![](images/287ff2ade577f17408e3760df1dab9d621bd0543e3313413ac2118f34875462c.jpg)  
+![](287ff2ade577f17408e3760df1dab9d621bd0543e3313413ac2118f34875462c.jpg)  
 
 - Buyer purchased a CDS at time t, and makes regular premium payments at times ty, 2 $\mathfrak{t}_{3}$ and $\mathfrak{t}_{4}$ If the associated credit instrument suffers no credit event, then the buyer continues paying premiums at $\mathfrak{t}_{5}\mathrm{.}$ $\mathrm{t}_{6}$ and so on until the end of the contract at time tn. Protection seller. - However, if the associated credit. instrument suffered a credit event at $\mathfrak{t}_{5}\mathrm{.}$ then the Protection seller pays the buyer for the loss, and the buyer would cease paying premiums.  
 
-![](images/ad6f6389432dc456812b48dfd42e3ee770642aa2d6b21c25f81ded90b1107797.jpg)  
+![](ad6f6389432dc456812b48dfd42e3ee770642aa2d6b21c25f81ded90b1107797.jpg)  
 
 A "credit default swap" (CDS) is a credit derivative contract between two counterparties. The buyer makes periodic payments to the seller, and in return receives a payoff if an underlying financial instrument defaults or experiences a. similar crdi vent.1 12 12] The CDs may refer to a specified loan or bond obligation of a 'reference entityt. usully a corporation or government.31]  
 
@@ -2214,11 +2214,11 @@ In the days and weeks leading up to Bear's collapse, the bank's CDS spread widen
 
 In September, the bankruptcy of Lehman Brothers caused a total close to $\$400$ billion to become payable to the buyers of CDS protection referenced against the insolvent bank. However the net amount that changed hands was around $\$7.2$ billion[56] This difference is due to the process of 'netting'. Market participants co-operated so that CDS sellers. were allowed to deduct from their payouts the inbound funds due to them from their hedging positions. Dealers generally attempt to remain  
 
-![](images/12da6ff9d5e5c5c88024acadb07429e27b98b225f31811bf846b46d820f1b6a3.jpg)  
+![](12da6ff9d5e5c5c88024acadb07429e27b98b225f31811bf846b46d820f1b6a3.jpg)  
 
 Composition of the United States 15.5 trillion US. dollar CDS market at the end of 2008 Q2. Green tints show Prime asset CDSs, reddish tints show sub-prime asset CDSs. Numbers followed by "Y" indicate years until maturity.  
 
-![](images/f6f5c62aa2d8e3fdb2fd42d90d1c5b4b547df037bcf4e66b3f47c7796fb4ce6a.jpg)  
+![](f6f5c62aa2d8e3fdb2fd42d90d1c5b4b547df037bcf4e66b3f47c7796fb4ce6a.jpg)  
 Proportion of CDSs nominals (lower left) held by United States banks compared to all derivatives, in 2008Q2. The black disc represents the 2008 public debt.  
 
 risk-neutral so their losses and gains after big events will on the whole offset each other.  
@@ -2323,7 +2323,7 @@ To price the CDS we now need to assign probabilities to the five possible outcom
 
 This is illustrated in the following tree diagram where at each payment date either the contract has a default event, in which case it ends with a payment of $N(1-R)$ shown in red, where $R$ is the recovery rate, or it survives without a default being triggered, in which case a premium payment of $N c/4$ is made, shown in blue. At either side of the diagram are the cashflows up to that point in time with premium payments in blue and default payments in red. If the contract is terminated the square is shown with solid shading.  
 
-![](images/c36fa8a084b43ba24f416f0597d094967fd7f0e5c11ce69519db08608e1e9eb7.jpg)  
+![](c36fa8a084b43ba24f416f0597d094967fd7f0e5c11ce69519db08608e1e9eb7.jpg)  
 
 The probability of surviving over the interval. $t_{i-1}$ to $t_{i}$ without a default payment is $p_{i}$ and the probability of a default being triggered is $1-p_{i}$ . The calculation of present value, given discount factor of $\delta_{1}$ to $\delta_{4}$ is then  
 

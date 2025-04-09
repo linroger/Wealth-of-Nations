@@ -53,7 +53,7 @@ The economy is known to be arbitrage-free.
 
 EXERCISE 4.8 Consider a two-period economy where the resolution of uncertainty can be represented by the tree in Figure 2.2 in Chapter 2. Assume that three assets are traded. Their dividend processes are illustrated in Figure 4.1, where a triple $(D_{1},D_{2},D_{3})$ near a node means that asset $i={1,2,3}$ pays a dividend of $D_{i}$ if/when that node is reached. For example, if the economy at time 2 is in the scenario. $F_{22}$ , assets 1 and 2 will pay a dividend of 1 and asset 3 will pay a dividend of 2. In Figure 4.1, the numbers near the lines connecting nodes denote values of the next-period state-price deflator, i.e. $\zeta_{1}/\zeta_{0}=\zeta_{1}$ over the first period and. $\zeta_{2}/\zeta_{1}$ over the second period. For. example, the value of $\zeta_{2}/\zeta_{1}$ given that the economy is in scenario $F_{11}$ at time $^{1}$ is $^{1}$ if the economy moves to scenario $F_{21}$ and $2/3$ if the economy moves to scenario $F_{22}$ . This characterizes completely the state-price deflator to be used in the computations below.  
 
-![](images/9ecf41d112b9045cdd64941fa06bf9669f56618f613c5d14cc382d51b161b720.jpg)  
+![](9ecf41d112b9045cdd64941fa06bf9669f56618f613c5d14cc382d51b161b720.jpg)  
 Figure 4.1: Dividends and state prices.  
 
 (a) Find the price processes of the three assets. (You should find that the time 0 price of asset 1 is 1.802.)   
@@ -90,7 +90,7 @@ EXERCISE 4.12 In a one-period framework show that if $x$ is a pricing factor and
 
 EXERCISE 4.13 Consider a two-period arbitrage-free economy where the resolution of uncertainty is illustrated in the following binomial tree.  
 
-![](images/21962c625e82cc0c10adca08392d14d9efd2cc8649ef86fb744d2d27c92c18dc.jpg)  
+![](21962c625e82cc0c10adca08392d14d9efd2cc8649ef86fb744d2d27c92c18dc.jpg)  
 
 Each branch in the tree has a conditional probability of $\frac{\mathrm{~1~}}{2}$ . Assets in the economy are priced by a. state-price deflator $\zeta=\left(\zeta_{t}\right)_{t\in\{0,1,2\}}$ . The numbers along the branches show the possible values of. the state-price deflator over that period, i.e. $\zeta_{1}/\zeta_{0}$ over the first period and. $\zeta_{2}/\zeta_{1}$ over the second period. The pair of numbers written at each node shows the dividend payments of asset 1 and asset 2, respectively, if that node is reached. For example, if the up-branch is realized in both periods, then asset 1 will pay a dividend of 10 and asset 2 a dividend of 6 at time 2..  
 

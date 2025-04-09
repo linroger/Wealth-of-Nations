@@ -8,9 +8,9 @@ In the final chapter, we look at foreign currency options. There are, of course,
 
 1 As the financial crisis unfolded, the implied volatilities rose as illustrated in the. following two figures. Note that on June 30, 2008, the put implied volatilities were. always above the call implied volatilities. On September 30, 2008, the put implied volatilities were always below the call implied volatilities. Based solely on these patterns, what does this imply regarding the exercise price such that the call and put. prices are the same?
 
-![](images/f9e37424b211837aca967473dffefb56e6894ff1eae7b91ad673cb787e307685.jpg)
+![](f9e37424b211837aca967473dffefb56e6894ff1eae7b91ad673cb787e307685.jpg)
 
-![](images/cd41edd381ed406c928a087b4c2ed4b7ed1942e0a84f2410dfcb05c15e4a3740.jpg)
+![](cd41edd381ed406c928a087b4c2ed4b7ed1942e0a84f2410dfcb05c15e4a3740.jpg)
 Call and Put Option Implied Volatility
 
 2 "Within the Black-Scholes-Merton framework, any option on the same underlying should be a perfect substitute for any other option." Demonstrate this result by designing a perfect substitute for one call option with another call option. Identify and explain four reasons that have been offered for the observed implied volatility smile. Explain how practitioners use the implied volatility smile. "One measure of the internal consistency of an option pricing model is deviations from the average implied volatility for options with the same maturity." Evaluate and. explain whether this statement is true or false.

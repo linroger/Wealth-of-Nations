@@ -38,10 +38,10 @@ The theta is $-4.31/365=-0.0118$ per calendar day, or $-4.31/252=-0.0171$ per tr
 
 Theta is usually negative for an option.' This is because, as time passes with all else. remaining the same, the option tends to become less valuable. The variation of O with stock price for a call option on a stock is shown in Figure 19.5. When the stock price is very low, theta is close to zero. For an at-the-money call option, theta is large and negative. As the stock price becomes larger, theta tends to. $-\boldsymbol{r}K\boldsymbol{e}^{-{r T}}$ (In our example, $r=0.$ ) Figure 19.6 shows typical patterns for the variation of O with the time to. maturity for in-the-money, at-the-money, and out-of-the-money call options..  
 
-![](images/c358cd5f6ddabb09428a2ebdd72bfbfbfdd7611188987c2c3bb069466b374b3d.jpg)  
+![](c358cd5f6ddabb09428a2ebdd72bfbfbfdd7611188987c2c3bb069466b374b3d.jpg)  
 Figure 19.5 Variation of theta of a European call option with stock price $(K=50$ $r=0$ $\sigma=0.25$ $T=2$  
 
-![](images/4d871b64e63a20c762953799336320b6ec747f42aea8b5cc8e287ee74f1aad61.jpg)  
+![](4d871b64e63a20c762953799336320b6ec747f42aea8b5cc8e287ee74f1aad61.jpg)  
 Figure 19.6 Typical patterns for variation of theta of a European call option with time to maturity $(S_{0}=50,K=50,r=0,\sigma=25\%)$  
 
 Theta is not the same type of hedge parameter as delta. There is uncertainty about the future stock price, but there is no uncertainty about the passage of time. It makes sense to hedge against changes in the price of the underlying asset, but it does not make any sense to hedge against the passage of time. In spite of this, many traders regard theta as a useful descriptive statistic for a portfolio. This is because, as we shall see later, in a delta-neutral portfolio theta is a proxy for gamma.  

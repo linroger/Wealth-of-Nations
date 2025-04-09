@@ -41,7 +41,7 @@ $$
 N\delta[F(t_{0},t_{i})-L_{t_{i}}]
 $$  
 
-![](images/7e0b44a8ecd0f6aeb2e403578170233953c2a17b438f60626578384a0674b0a7.jpg)  
+![](7e0b44a8ecd0f6aeb2e403578170233953c2a17b438f60626578384a0674b0a7.jpg)  
 
 # FIGURE 14.5  
 

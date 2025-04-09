@@ -44,5 +44,5 @@ Technically these values should be discounted, but clearly that is unnecessary. 
 
 With the methodology learned here, we would be able to price virtually any futures following the same procedure.
 
-![](images/506fd2ae5889801bf63dfd36a6635f1efa71129520a30ca80fa9a93481443675.jpg)
+![](506fd2ae5889801bf63dfd36a6635f1efa71129520a30ca80fa9a93481443675.jpg)
 FIGURE 28.13 Binomial Tree of Futures Prices and Values

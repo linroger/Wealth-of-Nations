@@ -48,7 +48,7 @@ Smith D. J., "Aggressive Corporate Finance: A Close Look at the Procter and Gamb
 
 34.7. Estimate the interest rate paid by P&G on the $5/30$ swap in Section 34.6 if (a) the CP rate is $6.5\%$ and the Treasury yield curve is flat at $6\%$ and (b) the CP rate is. $7.5\%$ and the Treasury yield curve is flat at. $7\%$ with semiannual compounding.  
 
-![](images/49b099c7db3008c6e83a0fec9d81d5ab2d8440ea947047304af50bd88811f664.jpg)  
+![](49b099c7db3008c6e83a0fec9d81d5ab2d8440ea947047304af50bd88811f664.jpg)  
 
 # Energy and Commodity Derivatives  
 

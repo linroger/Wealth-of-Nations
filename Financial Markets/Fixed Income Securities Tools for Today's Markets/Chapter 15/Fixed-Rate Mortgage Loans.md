@@ -29,5 +29,5 @@ $$
 
 Figure 15.1 depicts the amortization of this mortgage graphically. For each month, against the left axis, the height of the dark-shaded area represents the principal component of that month's payment; the height of the light-shaded area represents the interest component; and the total height, or sum, equals the fixed total payment of $\$506.69$ . The black curve, against the right axis, gives the ending balance or principal outstanding at the end of each month. The figure clearly illustrates the banker's adage that "interest lives off principal," that is, as principal is paid off, interest payments decline. Interest constitutes $\$375.00/\$506.69$ or $74.0\%$ of the first monthly payment; $\$342.46/\$506.69$ or $67.6\%$ of the 60th payment; $\$301.11/\$506.69$ or $59.4\%$ of the 120th payment; etc.; and $\$1.89/\$506.69$ or $0.4\%$ of the final payment. While not shown in the figure, the higher the loan rate, the greater the monthly payment, and the greater the proportion of each payment that is dedicated to interest.  
 
-![](images/a1e21b018fdbdb86fe98a6a38d092043864f482ce79594d92f842795388e008f.jpg)  
+![](a1e21b018fdbdb86fe98a6a38d092043864f482ce79594d92f842795388e008f.jpg)  
 FIGURE 15.1 Amortization of a 30-Year $\$100,000$ Mortgage at $4.5\%$  

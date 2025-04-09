@@ -8,13 +8,13 @@ According to an important theorem in modern finance, if options of all strikes e
 
 Let $x_{t}$ be a random variable representing the time- $t$ value of a risk factor, and let. $f(x_{T})$ be a function that indicates the payoff of an arbitrary instrument at "maturity" date $T.$ given the value of $x_{T}$ at time $T>t.$ We call $f(x_{T})$ a payoff function. The functional form of. $f\left(.\right)$ is known if the contract is well. defined.? It is customary in textbooks to represent the pair $\{f(x_{T}),x_{T}\}$ as in Figure 11.1 or 11.2. Note. that, here, we have a nonlinear upward sloping payoff function that depends on the values assumed by $x_{T}$ only. The payoff diagram in Figure 11.1 is drawn in a completely arbitrary fashion, yet, it illustrates some of the general principles of financial exposures. Let us review these.  
 
-![](images/4465ca0304792d1a5bd9cc026d24300fa6dbc4a2e9ea5e89162e33cc8be13029.jpg)  
+![](4465ca0304792d1a5bd9cc026d24300fa6dbc4a2e9ea5e89162e33cc8be13029.jpg)  
 
 # FIGURE 11.1  
 
 Payoff of nonlinear exposure.  
 
-![](images/9fef3ed7e02188eba222b5d83c833b754abb34f48be1c96e72156ffc53e207d9.jpg)  
+![](9fef3ed7e02188eba222b5d83c833b754abb34f48be1c96e72156ffc53e207d9.jpg)  
 
 # FIGURE 11.2  
 

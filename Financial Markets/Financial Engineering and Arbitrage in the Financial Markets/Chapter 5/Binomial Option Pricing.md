@@ -46,12 +46,12 @@ We will show that if he faithfully follows Steps 1-5, then in Step 6 he will alw
 
 In our illustrations, we will place all the computed numbers on nodes, as shown in Figure 5.8. Next to today's stock price of $S=50$ , we will show all the numbers from Steps 1-5, i.e.. $q,\Delta$ the option premium $C$ or $P$ , the cost of shares $\Delta\times S$ , and the amount of borrowing/lending $\Delta\times S-C$ or $\Delta\times S-P$ . Next to the potential future stock prices $S_{u p}$ and $S_{d n}$ , we will show. the corresponding value of the option $C_{u p}$ (or $P_{u p}$ ) and $C_{d n}$ (or $P_{d n}$ ), the value of the stock position held from the previous step $\Delta\times S_{u p}$ and $\Delta\times S_{d n}$ , and the cash position carried over from the previous step.  
 
-![](images/d3d61719d9b52fceacade55433ae79171f73b32ee942d2752056599de9c8c11b.jpg)  
+![](d3d61719d9b52fceacade55433ae79171f73b32ee942d2752056599de9c8c11b.jpg)  
 Figure 5.8  
 
 Example 1 Binary lottery, zero interest rate. John Dealer sells a binary "call' option on the stock that pays $\$10$ if the stock ends up at or above. $\$60$ or nothing if it ends up below. $\$60$ one period from today. John's calculations are as follows..  
 
-![](images/e8f1c3da78b2f84d2389af04b51ec2ab4f80f480bce3bb59ed098388dcee34e1.jpg)  
+![](e8f1c3da78b2f84d2389af04b51ec2ab4f80f480bce3bb59ed098388dcee34e1.jpg)  
 Figure 5.9 Example 1  
 
 The risk-neutral probability $q=0.60$ . The call payoffs one year from today are 10 if the stock is at 70, or 0 if the stock is at 20. So he sells the call for:  
@@ -72,7 +72,7 @@ One period later, if the stock is at. $\$70$ , his stock position is worth. $0.2
 
 Example 2a Call struck at 55, zero interest rate. John Dealer sells a standard call option on the stock struck at $\$55$ . At expiry, the call pays the value of the stock (i.e. $S_{u p}$ or $S_{d n}$ ) minus the strike ( $K=55$ ) if the stock ends up at or above $\$55$ , or nothing if it ends up below $\$55$ one period from today. John's calculations are shown in Figure 5.10.  
 
-![](images/9d9ad6ac04694ae3b29f800526f6b879d044475600cc9d8a0632a045c815e3af.jpg)  
+![](9d9ad6ac04694ae3b29f800526f6b879d044475600cc9d8a0632a045c815e3af.jpg)  
 Figure 5.10 Example 2a  
 
 The call payoffs are 15 if the stock is at 70, or 0 if the stock is at 20. So he sells the call for:  
@@ -93,7 +93,7 @@ One period later, if the stock is at $\$70$ , his stock position is worth $0.30\
 
 Example 3a Put struck at 55, zero interest rate. John Dealer sells a standard put option on the stock struck at $\$55$ . At expiry, the put pays the strike ( $K=55$ ) minus the stock value $S_{u p}$ or $S_{d n}$ ) if the stock ends up at or below $\$55$ , or nothing if it ends up above $\$55$ one period from today. John's calculations are as shown in Figure 5.11.  
 
-![](images/af49fe1aab351056eb67b8b439830719f2f63c29db9274fcb3da59c959c636b5.jpg)  
+![](af49fe1aab351056eb67b8b439830719f2f63c29db9274fcb3da59c959c636b5.jpg)  
 Figure 5.11 Example 3a  
 
 The put payoffs are 0 if the stock is at 70, or 35 if the stock is at 20. So he sells the put for:  
@@ -143,7 +143,7 @@ $$
 
 Example 2b Call struck at 55, $10\%$ interest rate. John Dealer sells a standard call option on the stock struck at $\$55$ At expiry, the call pays the value of the stock (i.e. $S_{u p}$ or $S_{d n}$ ) minus the strike ( ${\cal K}=55\$ ) if the stock ends up at or above. $\$55$ , or nothing if it ends up below. $\$55$ one period from today. John's calculations are shown in Figure 5.12.  
 
-![](images/41971b2f6df407d72711e7d105b1f305ebe1fc9371d0a6ccbffd0aa261f2153a.jpg)  
+![](41971b2f6df407d72711e7d105b1f305ebe1fc9371d0a6ccbffd0aa261f2153a.jpg)  
 Figure 5.12 Example 2b  
 
 The call payoffs are still 15 if the stock is at 70, or 0 if the stock is at 20. But he sells the call for:  
@@ -164,7 +164,7 @@ One period later, if the stock is at $\$70$ , his stock position is worth $0.30\
 
 Example 3b Put struck at 55, $10\%$ interest rate. John Dealer sells a standard put option. on the stock struck at $\$55$ . At expiry, the put pays the strike (. $K=55$ ) minus the stock value. $S_{u p}$ or $S_{d n}$ ) if the stock ends up at or below. $\$55$ , or nothing if it ends up above. $\$55$ one period from today. John's calculations are as shown in Figure 5.13.  
 
-![](images/a52f6ea786ca4f7219f1b70536dff020c90e566bbd31bc1c0cec996ac140cf1c.jpg)  
+![](a52f6ea786ca4f7219f1b70536dff020c90e566bbd31bc1c0cec996ac140cf1c.jpg)  
 Figure 5.13Example 3b  
 
 The put payoffs are unchanged, 0 if the stock is at 70, or 35 if the stock is at 20. He sells the put for:  
@@ -196,14 +196,14 @@ Let us further show that the last property will hold no matter how volatile the 
 
 Example 2c Call struck at 55, $10\%$ interest rate. John Dealer's calculations are shown in Figure 5.14.  
 
-![](images/4cacdc38ce5c8bf969a4739d57c07c6b108e3cf59c1dd99c28b70a0ad253669c.jpg)  
+![](4cacdc38ce5c8bf969a4739d57c07c6b108e3cf59c1dd99c28b70a0ad253669c.jpg)  
 Figure 5.14 Example 2c  
 
 He sells the option for. $\$13.986$ a lot more than before (Example 2c relative to 2b), to reflect the increased expected value of the payoff.  
 
 Example 3c Put struck at 55, $10\%$ interest rate. John's calculations are shown in Figure 5.15.  
 
-![](images/a23f235584d943185452970924c2cc019017c795697da1cdb8b4e3c9a70aee83.jpg)  
+![](a23f235584d943185452970924c2cc019017c795697da1cdb8b4e3c9a70aee83.jpg)  
 Figure 5.15Example 3c  
 
 Again, he sells the option for $\$13.986$ , a lot more than before (Example 3c relative to 3b), to reflect the increased expected value of the payoff.  
@@ -222,7 +222,7 @@ $$
 q=\frac{S(1+r)-S_{d n}}{S_{u p}-S_{d n}}
 $$  
 
-![](images/00a8acec272bbce16b0702399da332f2e9066d0abb5eb813c1b979ab7d047027.jpg)  
+![](00a8acec272bbce16b0702399da332f2e9066d0abb5eb813c1b979ab7d047027.jpg)  
 Figure 5.16 A multistep price tree  
 
 for all sub-trees. For example, for the sub-tree emanating from the 45 point, we have:  
@@ -233,7 +233,7 @@ $$
 
 We also determine the payoff of the option at expiry. For example, when the stock price is 45, the payoff would be $54-45=\$9$ . We place the $q\mathrm{s}$ and the final payoffs in the diagram. (Figure 5.17).  
 
-![](images/51472d0e85d570700fabc137026867768b5df3bfdac7f7feebc52655a68e9bb7.jpg)  
+![](51472d0e85d570700fabc137026867768b5df3bfdac7f7feebc52655a68e9bb7.jpg)  
 Figure 5.17 A multistep price tree with probabilities and final payoffs  
 
 As in one-step examples, we sweep through the tree backwards to determine the premium on the option today. We use the same equation as before for each node:  
@@ -242,7 +242,7 @@ $$
 C=\frac{1}{1+r}\left[q C_{u p}+(1-q)C_{d n}\right]\mathrm{or}P=\frac{1}{1+r}\left[q P_{u p}+(1-q)P_{d n}\right]
 $$  
 
-![](images/60cbd64f77d051b39d60e63358f1fe8c8932f8f064ce87810de236a7c552a8ab.jpg)  
+![](60cbd64f77d051b39d60e63358f1fe8c8932f8f064ce87810de236a7c552a8ab.jpg)  
 Figure 5.18A multistep tree with option prices  
 
 We start with the second-to-last date and consider the sub-trees emanating from all three points We compute put values for all three states: 70, 45, and 20. For the $\$45$ state we compute:  
@@ -281,34 +281,34 @@ $$
 
 Again we place all the deltas on the diagram (Figure 5.19).  
 
-![](images/6a36f78628757efb1d7c15052fa51dbc3acac09c5d1697035cc72568bf8c2fe9.jpg)  
+![](6a36f78628757efb1d7c15052fa51dbc3acac09c5d1697035cc72568bf8c2fe9.jpg)  
 Figure 5.19 A multistep tree with deltas  
 
 Depending on the route the stock takes, all trades are now determined by the differences between deltas at subsequent nodes. The lending amounts are also determined by the cash position at each node. Let us go through the tree forward following one hypothetical path.  
 
 Suppose the stock price from today's level of. $\$50$ goes down to $\$351$ month from today, then to $\$452$ months from today, and ends up at. $\$30$ months from today. In order to hedge. our position, we are required to short O.5588 share today. This will result in proceeds of $0.5588\times50=\$27.9406$ We deposit that and the premium received from selling the put, i.e.. a total of $27.9406+7.3881=\$35.3287$ , in an account earning $2.6\%$ per month (Figure 5.20).  
 
-![](images/5a025a9f777eca2fe6adb7c4a6260192d816bd0e304ee7057ee7406f3004aa54.jpg)  
+![](5a025a9f777eca2fe6adb7c4a6260192d816bd0e304ee7057ee7406f3004aa54.jpg)  
 Figure 5.20  
 
 Next month the price goes down to $\$35$ . Based on our new delta of $-0.9748$ , we need to short additional $0.9748-0.5588=0.4159$ shares. This results in proceeds of $0.4159\times35=$ $\$14.5590$ . Meanwhile, our prior lending accrued to. $35.3287\times(1+0.026)=\$36.2473.$ We re-lend the sum of the two, i.e. $14.5590+36.2473=\$0.8063$ , for another month at $2.6\%$ (Note that the borrowing/lending amount can also be found by subtracting the put value at a node, 16.6889, from the value of the share holding,. $-0.9748\times35=-\$34.1174$ ,i.e. -34.1174 $-16.6889=-\$50.8063$ as in Figure 5.21.)  
 
-![](images/f7241dded89b596dad403f91356a5295cb6025bd6afc158468b207edd5fc493e.jpg)  
+![](f7241dded89b596dad403f91356a5295cb6025bd6afc158468b207edd5fc493e.jpg)  
 Figure 5.21  
 
 The following month, the stock price increases to. $\$45$ . Based on our new delta of -0.9600, we need to buy back. $0.9748-0.9600=0.0148$ shares. This costs us. $0.0148\times45=\$0.6653$ We take that amount from the maturing deposit which has accrued to $50.8063\times(1+0.026)=$ $\$52.1273$ . We re-lend the remainder $52.1273-0.6653=\$1.4620$ for another month at. $2.6\%$ (Again the borrowing/lending amount can be found by subtracting the put value at a node, 8.2620, from the value of the share holding,. $-~0.9600\times45=-\$43.2000$ , i.e. $-43.2000\textrm{--}$ $8.2620=-\$5$ s in Figure 5.22.)  
 
-![](images/62e7d069d6b593dd3e202e7c20d6c5a11561433fb8e503520455af48d797ea8a.jpg)  
+![](62e7d069d6b593dd3e202e7c20d6c5a11561433fb8e503520455af48d797ea8a.jpg)  
 Figure 5.22  
 
 We proceed to the final step in Figure 5.23. The stock goes down to $\$30$ . We collect the deposit with accrued interest, i.e.. $51.4620\times(1+0.026)=\mathbb{5}52.8000.$ We buy back the shorted. shares for $0.9600\times30=\mathbb{5}28.8000$ and pay $\$24$ to the put holder. We are left with no stock position, no borrowing or lending position, and our put obligation is satisfied.  
 
 One can trace any other path through the tree to see that the result would be identical. We would end up with no stock, no cash, and we would have made a payout on the put, if any was required. The summary of all calculation is portrayed in the completed diagram (Figure 5.24).  
 
-![](images/a37a2e5ace0f1157313166c5d5f0d2a9cb8b9658ec0d31d754dfb642ac267264.jpg)  
+![](a37a2e5ace0f1157313166c5d5f0d2a9cb8b9658ec0d31d754dfb642ac267264.jpg)  
 Figure 5.23  
 
-![](images/02b1facaa7223fba455621130bdb4134aa8a291471f500ce2af754dd1456ec03.jpg)  
+![](02b1facaa7223fba455621130bdb4134aa8a291471f500ce2af754dd1456ec03.jpg)  
 Figure 5.24  
 
 The procedure of computing the qs sweeping backwards to get the option value up front and sweeping forward to compute the required hedges and borrowing/lending positions works for all standard calls and puts, digital options, barrier options, American exercise style, and many other options. In all of these cases, the only thing that changes is the recursive computations of the option value during the backward sweep. For example, for American options that can be exercised early, one has to amend the option value for any given node to see if the immediate exercise value is not greater than the unexercised value, i.e..  

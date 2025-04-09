@@ -62,7 +62,7 @@ Subeect indeex .... .841
 37.1 Big Losses by Financial Institutions .794   
 37.2 Big Losses by Nonfinancial Organizations. .. .795  
 
-![](images/69c47875ab0fcec2401cb93139cbf6cea3bf5a7d30901d8be65d77cc76ecdb9b.jpg)  
+![](69c47875ab0fcec2401cb93139cbf6cea3bf5a7d30901d8be65d77cc76ecdb9b.jpg)  
 
 # Introduction  
 

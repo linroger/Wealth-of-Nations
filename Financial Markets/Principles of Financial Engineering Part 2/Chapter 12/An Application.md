@@ -63,7 +63,7 @@ $$
 \overline{{S}}^{1}=750
 $$  
 
-![](images/6927f8527df7c9b0d5c59f4d13751b567b9d64644e86d549269e494325fe2e97.jpg)  
+![](6927f8527df7c9b0d5c59f4d13751b567b9d64644e86d549269e494325fe2e97.jpg)  
 
 # FIGURE 12.2  
 

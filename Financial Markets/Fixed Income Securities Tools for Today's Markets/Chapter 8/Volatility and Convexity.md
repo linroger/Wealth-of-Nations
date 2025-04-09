@@ -14,7 +14,7 @@ $$
 
 The price of a one-year zero in this model is simply. $1/1.09$ , or 0.917431. Assuming, for the moment, that investors are risk neutral, the price trees of the two- and three-year zeros can be calculated by expected discounted value, as explained in the previous chapter. These trees are shown in the bottom of Figure 8.1, with the supporting calculations left to the reader. Table 8.1 collects the prices of the three zero coupon bonds, along with the associated forward rates. The striking feature of the table is that the term structure of forward rates is downward sloping, despite the fact that interest rate expectations are flat at $9\%$ . This result can be explained by the interaction of interest rate volatility with the convexity of bond prices.  
 
-![](images/b5357265c248d862370cea4cebe6b9b23dac98060320ff4de3bc022c1d2fcd0a.jpg)  
+![](b5357265c248d862370cea4cebe6b9b23dac98060320ff4de3bc022c1d2fcd0a.jpg)  
 FIGURE 8.1 Binomial Rate Tree and Price Trees for Two- and Three-Year Zero. Coupon Bonds. Steps Are Annual, and the Probabilities of All Transitions Are $50\%$  
 
 TABLE 8.1 Prices of Zero Coupon Bonds and Their Associated Forward Rates from the Rate Tree in Figure 8.1. Rates Are in Percent.   
@@ -30,7 +30,7 @@ $$
 
 In words, the expected price of a bond is greater than the price of a bond at the expected interest rate.  
 
-![](images/d7528895cf70580f4c42ca74cb5d468f74b1cdb213096ab6874ad64d643b6b6d.jpg)  
+![](d7528895cf70580f4c42ca74cb5d468f74b1cdb213096ab6874ad64d643b6b6d.jpg)  
 FIGURe 8.2  An Illustration of Jensen's Inequality as Applied to Bond Pricing.  
 
 This inequality is easily explained by Figure 8.2. In the figure, the rate can take on two values,. $r^{d}$ and $r^{u}$ , with equal probability, resulting in an expected value just between them, $E[r]$ . Each possible value of. $r$ has an associated price, and the expected value of that price, $E[1/(1+r)]$ , is graphically depicted as the vertical-axis coordinate of the dotted line connecting the points $\{r^{d},1/(1+r^{d})\}$ and $\{r^{u},1/(1+r^{u})\}$ . Because of the curvature or con-. vexity of the price-rate curve, however, this expected price exceeds the price at a rate of $E[r]$ , which is $1/(1+E[r])$ . And this is exactly the relationship described in Equation (8.5)..  

@@ -15,7 +15,7 @@ $$
 e^{-0.05\times1}(0.6282\times1.4147+0.3718\times12.0)=5.0894
 $$  
 
-![](images/4d988cc3988ef44ba9ca9688f1ddd83616cb4c6f0e8ab551faff6337f7f7125f.jpg)  
+![](4d988cc3988ef44ba9ca9688f1ddd83616cb4c6f0e8ab551faff6337f7f7125f.jpg)  
 Figure 13.8 Using a two-step tree to value an American put option. At each node, the upper number is the stock price and the lower number is the option price..  
 
 and the payoff from early exercise is 2. In this case early exercise is not optimal. The value of the option is therefore $\$5.0894$  

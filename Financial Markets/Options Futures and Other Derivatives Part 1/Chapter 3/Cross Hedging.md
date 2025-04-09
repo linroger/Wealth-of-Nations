@@ -34,9 +34,9 @@ $$
 
 Figure 3.2  Regression of change in spot price against change in futures price.  
 
-![](images/d0c8916772fd20119a123cfc0ecd094afb6d08d972ec0cb062539cf2b06e21bd.jpg)  
+![](d0c8916772fd20119a123cfc0ecd094afb6d08d972ec0cb062539cf2b06e21bd.jpg)  
 
-![](images/24c979b6b1a492a888680f83b9f1e79943484be2701c72a51751dc8fa366215b.jpg)  
+![](24c979b6b1a492a888680f83b9f1e79943484be2701c72a51751dc8fa366215b.jpg)  
 Figure 3.3 Dependence of variance of hedger's position on hedge ratio.  
 
 where $\sigma_{S}$ is the standard deviation of $\Delta S,\sigma_{F}$ is the standard deviation of $\Delta F$ , and $\rho$ is the coefficient of correlation between the two.  

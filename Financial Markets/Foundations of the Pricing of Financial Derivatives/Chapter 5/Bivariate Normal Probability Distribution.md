@@ -46,7 +46,7 @@ $$
 
 Computation of the bivariate normal probability is quite challenging, but an analytic approximation developed by Drezner (1978) is often used and gives a high degree of accuracy.6 Using that approximation, let us work a problem involving bivariate standard normal random variables. An Excel routine based on this technique is in Appendix 5A. Let $x=0.74$ $y=-1.13$ and $\rho=0.32$ . We wish to know $\operatorname*{Pr}(x\leq0.74$ $y\le-1.13|0.32)$ . The univariate probabilities as obtained from Excel's ${}={}.$ normsdist() function are $N(0.74)=0.7704$ and $N(-1.13)=0.1292$ . The bivariate normal probability is $N_{2}(0.74,-1.13;0.32)=0.1171$ Let us check out the above relationships:
 
-![](images/a1c4d5abdf494d8a68ba9c89b7a72dfbdc2441322e573001184dfb5c9c8b738d.jpg)
+![](a1c4d5abdf494d8a68ba9c89b7a72dfbdc2441322e573001184dfb5c9c8b738d.jpg)
 FIGURE 5.5 Bivariate Normal Density
 
 $$

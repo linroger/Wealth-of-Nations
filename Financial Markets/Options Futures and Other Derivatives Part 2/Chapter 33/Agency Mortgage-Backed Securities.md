@@ -89,7 +89,7 @@ Rebonato, R., Modern Pricing of Interest Rate Derivatives: The LIBOR Market Mode
 
 Discuss the problems in valuing these types of flexi caps. Of the three types of flexi caps, which would you expect to be most expensive? Which would you expect to be least expensive?  
 
-![](images/7f450e942df9755886da32397276cb532ec9d2451aee4d8b621cb2e1dd44ef15.jpg)  
+![](7f450e942df9755886da32397276cb532ec9d2451aee4d8b621cb2e1dd44ef15.jpg)  
 
 # Swaps Revisited  
 

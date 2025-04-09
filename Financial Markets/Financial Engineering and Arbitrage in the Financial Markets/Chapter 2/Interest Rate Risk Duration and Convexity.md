@@ -36,7 +36,7 @@ $$
 
 The price for the bond asymptotically approaches zero as the yield goes to infinity. Most. of the time, we are in between. The graph is a convex curve (bowed to below) due to interest compounding. This convexity implies that price responses are not symmetric. When the yield.  
 
-![](images/c62058bbf9192530fa522313dfc0a25e2f257fa709a3de8b7985cd98358015d1.jpg)  
+![](c62058bbf9192530fa522313dfc0a25e2f257fa709a3de8b7985cd98358015d1.jpg)  
 Figure 2.15 The Price-Yield Relationship of a 12-Year $10\%$ Coupon Bond  
 
 goes down by $2\%$ , the price goes up by 15.25, but when the yield goes up by $2\%$ , the price goes down by 12.55. The magnitude of bond price responses to yield changes depends on three factors (in the order of importance):  
@@ -85,7 +85,7 @@ Table 2.2 Macaulay duration calculation
 
 <html><body><table><tr><td colspan="6">Maturity in years: 6</td></tr><tr><td>Coupon:</td><td></td><td>7.00%</td><td>semi</td><td></td><td></td></tr><tr><td>Yield:</td><td></td><td>8.00%</td><td>semi</td><td></td><td></td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>t</td><td>CF</td><td>Df</td><td>PV</td><td>%PV</td><td>tx %PV</td></tr><tr><td>0.5</td><td>3.5</td><td>0.961538</td><td>3.365385</td><td>3.53%</td><td>0.0177</td></tr><tr><td>1</td><td>3.5</td><td>0.924556</td><td>3.235947</td><td>3.40%</td><td>0.0340</td></tr><tr><td>1.5</td><td>3.5</td><td>0.888996</td><td>3.111487</td><td>3.26%</td><td>0.0490</td></tr><tr><td>2</td><td>3.5</td><td>0.854804</td><td>2.991815</td><td>3.14%</td><td>0.0628</td></tr><tr><td>2.5</td><td>3.5</td><td>0.821927</td><td>2.876745</td><td>3.02%</td><td>0.0755</td></tr><tr><td>3</td><td>3.5</td><td>0.790315</td><td>2.766101</td><td>2.90%</td><td>0.0871</td></tr><tr><td>3.5</td><td>3.5</td><td>0.759918</td><td>2.659712</td><td>2.79%</td><td>0.0977</td></tr><tr><td>4</td><td>3.5</td><td>0.730690</td><td>2.557416</td><td>2.68%</td><td>0.1073</td></tr><tr><td>4.5</td><td>3.5</td><td>0.702587</td><td>2.459054</td><td>2.58%</td><td>0.1161</td></tr><tr><td>5</td><td>3.5</td><td>0.675564</td><td>2.364475</td><td>2.48%</td><td>0.1240</td></tr><tr><td>5.5</td><td>3.5</td><td>0.649581</td><td>2.273533</td><td>2.39%</td><td>0.1312</td></tr><tr><td>6</td><td>103.5</td><td>0.624597</td><td>64.64579</td><td>67.83%</td><td>4.0697</td></tr><tr><td>Total</td><td></td><td></td><td>95.30746</td><td>100.00%</td><td>4.9720</td></tr></table></body></html>  
 
-![](images/8a3106518acf5ce41baa4c3850bfa3562d409b3de53c64adc46cd5ff34964919.jpg)  
+![](8a3106518acf5ce41baa4c3850bfa3562d409b3de53c64adc46cd5ff34964919.jpg)  
 Figure 2.16 Present values of the coupons as duration calculation weights  
 
 It would make all the blocks balance.) That number is the approximate percentage change of the price corresponding to a $1\%$ change in yield.  
@@ -123,7 +123,7 @@ above and one set a small number of basis points below the current yield-to-matu
 dividing the change in the bond's value by the combined size of the yield change "blip.' That.   
 is, they compute the numerical sensitivity of price to yield. If we denote the value of the bond  
 
-![](images/f7178273188402cbadbfa41c3a75de2743e59255969e0658c9e290d4a21db02b.jpg)  
+![](f7178273188402cbadbfa41c3a75de2743e59255969e0658c9e290d4a21db02b.jpg)  
 Figure 2.17Bond price vs yield  
 
 with a yield blipped up by $d y$ basis points as $P_{+d y}$ and the value of the bond with a yield blipped down by $d y$ basis points as $P_{-d y}$ , then duration is computed numerically by dividing the percentage price change by the total change in yield:  

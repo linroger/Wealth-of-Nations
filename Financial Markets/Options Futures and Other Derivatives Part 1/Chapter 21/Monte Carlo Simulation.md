@@ -6,7 +6,7 @@ When used to value an option, Monte Carlo simulation uses the risk-neutral valua
 
 Figure 21.13 Calculation of $\pi$ by throwing darts.  
 
-![](images/1c96f1c905c1ede8d51dab3ecd8c94665f18b2392b0add2268fd7a3038ca28d6.jpg)  
+![](1c96f1c905c1ede8d51dab3ecd8c94665f18b2392b0add2268fd7a3038ca28d6.jpg)  
 
 Table 21.1 Sample spreadsheet calculations in Business Snapshot 21.1.   
 

@@ -8,7 +8,7 @@ $$
 
 and the interest paid becomes $L_{t_{0}}(1/4)$ . The possibility of default is assumed away.14  
 
-![](images/222790bdf5b349ae5feff0e91422b9095578263c986193bc68228b0ae3aeb6b3.jpg)  
+![](222790bdf5b349ae5feff0e91422b9095578263c986193bc68228b0ae3aeb6b3.jpg)  
 
 # FIGURE 1.7  
 
@@ -30,7 +30,7 @@ To see how a synthetic loan can be created, consider the following series of ope
 2. Next, the bank sells these yen in the spot market at the current exchange rate $e_{t_{0}}$ to secure USD100. This spot operation is shown in Figure 1.8b.   
 3. Finally, the bank must eliminate the currency mismatch introduced by these operations. In orde to do this, the Japanese bank buys $100(1+L_{t_{0}}^{Y}\delta)f_{t_{0}}$ yen at the known forward exchange rate $f_{t_{0}}$  
 
-![](images/fc1ac72220aae73707f8df5fc51911aaf546afbc7bf2e882faba0c0135fbbc94.jpg)  
+![](fc1ac72220aae73707f8df5fc51911aaf546afbc7bf2e882faba0c0135fbbc94.jpg)  
 
 # FIGURE 1.8  
 

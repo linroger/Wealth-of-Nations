@@ -6,7 +6,7 @@ The simple hazard-rate framework presented earlier can be used to cal-. culate a
 
 To illustrate the difference between the conventional and hazard-adjusted approaches, Figure 14.7 graphs conventional and hazard-adjusted durations for bonds of various terms at two different hazard rates. The benchmark rate curve is flat at $2\%$ , and the recovery rate is fixed at $40\%$ . The hazard rate is either $5\%$ or $10\%$ , which, given the $40\%$ recovery rate, corresponds approximately to CDS spreads of 300 and 600 basis points, respectively. All bonds are priced using the constant hazard-rate model, and HADs are computed as described in the previous paragraph. Conventional durations are calculated by finding the fixed spread to the benchmark curve that correctly prices each bond, and then shifting the benchmark curve and repricing each bond, keeping its spread constant.  
 
-![](images/d40b785c13f8665da02889fa30a3427338230fe66da621a7cb389e99fb06b23e.jpg)  
+![](d40b785c13f8665da02889fa30a3427338230fe66da621a7cb389e99fb06b23e.jpg)  
 FIGURE 14.7 Conventional $V s$ . Hazard-Adjusted Durations.  
 
 Bonds with a higher hazard rate have higher spreads and, therefore,. lower durations than bonds with a lower hazard rate. The striking message. of Figure 14.7, however, is that HADs can be significantly below conventional durations, particularly for larger hazard rates and longer terms. For 10-year bonds at a hazard rate of. $5\%$ , the conventional duration is 7.7 and. the HAD is 7.3, while at a hazard rate of $10\%$ , the durations are 7.3 con-. ventional and 6.4 HAD. For 30-year bonds at a hazard rate of $5\%$ , the conventional duration is 15.3 and the HAD is 12.8, while at a hazard rate of $10\%$ , the durations are 13.2 conventional and 8.7 HAD..  

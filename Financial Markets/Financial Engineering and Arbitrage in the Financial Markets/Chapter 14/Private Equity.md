@@ -2,7 +2,7 @@
 
 Private equity firms have generally two ways to raise funds when acquiring a company. One, common in taking a publicly traded company private, is to have the acquired  
 
-![](images/ecfe4b9ea57bfd1186e223324b2939f91ad509adb509c7eb2b7fe131c0c2ebc9.jpg)  
+![](ecfe4b9ea57bfd1186e223324b2939f91ad509adb509c7eb2b7fe131c0c2ebc9.jpg)  
 Figure 14.1 Private equity fund life cycle. Graph idea adapted from en.wikipedia.org/wiki/J_curve  
 
 company issue debt. The other, common in venture start-ups, is to form a partnership fund, capitalized mostly by other investors, that makes equity investments in one or many. companies.  

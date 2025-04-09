@@ -24,7 +24,7 @@ Consider a hypothetical two-year OIS initiated on March 8, 2022, between Apple a
 
 Figure 7.1 Interest rate swap between Apple and Citigroup.  
 
-![](images/18b87a0c1a2119d5469703ad8d5f6eb4dc68ceaf3a75e1234647c8fbbfa45069.jpg)  
+![](18b87a0c1a2119d5469703ad8d5f6eb4dc68ceaf3a75e1234647c8fbbfa45069.jpg)  
 
 In total there are eight exchanges on the swap. One possible outcome is shown in Table 7.1. The first exchange of payments would take place on June 8, 2022. Apple. would pay Citigroup $\$750,000$ (one quarter of $3\%$ applied to $\$100$ million). Citigroup would pay Apple the three-month rate calculated from daily SOFR rates over the previous three months. The 3-month SOFR rate calculated on June 8, 2022 (from overnight rates between March 8, 2022, and June 8, 2022) is assumed to be. $2.2\%$ per annum or $0.55\%$ per three months using the formula in Section 4.2. The floating payment from Citigroup to Apple is therefore $\$550,000$ . The fixed and floating payments are netted with the result that Apple pays Citigroup. $\$200,000$ on June 8, 2022. The second exchange of payments is on September 8, 2022. Again, the fixed payment. from Apple to Citigroup is $\$750,000$ . We assume that the 3-month SOFR rate on September 8, 2022 (calculated from overnight rates between June 8, 2022 and September 8, 2022) is $2.6\%$ per annum or $0.65\%$ per three months. The floating payment is therefore $\$650,000$ and the net payment from Apple to Citigroup is therefore $\$100,000$  
 

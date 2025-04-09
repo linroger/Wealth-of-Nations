@@ -24,7 +24,7 @@ Let the underlying asset be a stock whose price is $S_{t}$ .Then, when the stock
 
 This means that we can form at time $t_{0}$ a porfolio using $B_{t_{0}}$ and $S_{t_{0}}$ such that as time passes, the gains from adjusting one asset compensate the losses from adjusting the other. Constant rebalancing can be done without cash injections and withdrawals, and the final value of the portfolio would equal the expiration value of the option. If this can be done with reasonably close approximation,  
 
-![](images/b2e87dc431fa83413a26dda859bb6cd928bdf4361512065ed9183ce1469a2ab5.jpg)  
+![](b2e87dc431fa83413a26dda859bb6cd928bdf4361512065ed9183ce1469a2ab5.jpg)  
 
 # FIGURE 8.5  
 
@@ -56,7 +56,7 @@ We simplify the notation significantly. We let. $j=0$ , 1, 2, ... denote the "ti
 
 In fact, by adjusting $\Delta$ and selecting the number of possible states at each node as two, three,. or more, we obtain more and more complicated trees. With two possible states at every node, the tree is called binomial; with three possible states, the tree is called trinomial. The implied binomial.  
 
-![](images/4b69c26c55ff5db674de18a9d6f479df9da9e0843ee15a262c37cbaee7c1bb97.jpg)  
+![](4b69c26c55ff5db674de18a9d6f479df9da9e0843ee15a262c37cbaee7c1bb97.jpg)  
 
 # FIGURE 8.6  
 
@@ -106,7 +106,7 @@ $$
 
 Hence, Figure 8.7 shows the dynamics of two different default-free fixed-income instruments: the savings account $B_{t}$ , which can also be interpreted as a shorter maturity bond, and a three-period long bond $B(t,T_{3})$ . The question is how to combine these two instruments so as to form a synthetic medium-term bond $B(t,T_{2})$  
 
-![](images/e920063333cbc3b2993b2b1c59ebf896f62f6f1a8498d923d277b978c8d74a47.jpg)  
+![](e920063333cbc3b2993b2b1c59ebf896f62f6f1a8498d923d277b978c8d74a47.jpg)  
 
 # FIGURE 8.7  
 
@@ -128,7 +128,7 @@ $$
 
 for all $t$ or $j.$  
 
-![](images/aef223549e64827aef1b919295009092290ab290ad13f606237a6c6f08a944b8.jpg)  
+![](aef223549e64827aef1b919295009092290ab290ad13f606237a6c6f08a944b8.jpg)  
 
 # FIGURE 8.8  
 
@@ -256,7 +256,7 @@ We can apply the replication technique to options and create appropriate synthet
 
 Suppose the stock price $S_{t}$ follows the tree shown in Figure 8.9. Note that unlike a bond, the stock never "matures"' and future values of $S_{t}$ are always random. There is no terminal time period where we know the future value of $S_{t}.$ as was the case for the bond that expired at time $T_{3}$  
 
-![](images/5849e132ddc44f3edcc427a1da7ae3d853812a0c08f23f790c0f505e213d6bf8.jpg)  
+![](5849e132ddc44f3edcc427a1da7ae3d853812a0c08f23f790c0f505e213d6bf8.jpg)  
 
 # FIGURE 8.9  
 

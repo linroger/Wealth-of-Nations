@@ -6,7 +6,7 @@ We will now analyze repo strategies by using contractual equations that we intro
 
 Let $F_{t}$ be the forward price observed at time. $t$ , for a Treasury bond to be delivered at a future date $T_{:}$ with $t<T.$ Suppose the bond to be delivered at time. $T$ needs to have a maturity of. $U$ years. Then, at time $t_{:}$ we can (i) buy a $(T-t)+U$ year Treasury bond, (ii) repo it out to get the necessary. cash to pay for it, and (ii) hold this repo position until $T.$ At time $T_{:}$ cash plus the repo interest has to be returned to the repo dealer and the bond is received. The bond will have a maturity of $U$ years. As seen above, these steps will result in exactly the same outcome as a bond forward. We express these steps using a contractual equation. This equation provides a synthetic forward.  
 
-![](images/cee69828170fb0e5b24dfc37d9be1b440057baefa72e8828408bf061e4863268.jpg)  
+![](cee69828170fb0e5b24dfc37d9be1b440057baefa72e8828408bf061e4863268.jpg)  
 
 According to this, futures positions can be fully hedged by transactions shown on the right-hand side of the equation. This contractual equation can be used in several interesting applications of. repo transactions. We discuss two examples.  
 
@@ -14,7 +14,7 @@ According to this, futures positions can be fully hedged by transactions shown o
 
 Now rearrange the preceding contractual equation so that repo is on the left-hand side:  
 
-![](images/455262ab91a1ee9fdf6578f33af4c63d73db77638d74cb2023d0bb96ee300d02.jpg)  
+![](455262ab91a1ee9fdf6578f33af4c63d73db77638d74cb2023d0bb96ee300d02.jpg)  
 
 Thus, we can easily create a synthetic repo transaction by using a spot sale along with a forward purchase of the underlying asset.  
 
@@ -22,7 +22,7 @@ Thus, we can easily create a synthetic repo transaction by using a spot sale alo
 
 Suppose for some reason we don't want to buy the underlying asset directly. We can use the contractual equation to create a spot purchase synthetically. Moving the spot operation to the left-hand side,  
 
-![](images/f4f916282cf97f62d744b52010d767c8e185c03bf7bb1805ee317284b57dfe82.jpg)  
+![](f4f916282cf97f62d744b52010d767c8e185c03bf7bb1805ee317284b57dfe82.jpg)  
 
 The right-hand side operations are equivalent to the outright purchase of the security.  
 

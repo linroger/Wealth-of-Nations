@@ -833,7 +833,7 @@ Estimates based on historical data range from $4.1\%$ to $8.2\%$
 
 # Forward-looking risk premium from a three-stage valuation model
 
- ![500](images/96cb5c803f55bfe7fae81a4919435b9b99e042bb51972201adfbfe825b9a85eb.jpg)
+ ![500](96cb5c803f55bfe7fae81a4919435b9b99e042bb51972201adfbfe825b9a85eb.jpg)
 
 The monthly risk premium is estimated by first computing an implied cost of capital from a threestage discounted cash flow model and then subtracting the long-term treasury yield. We will discuss the three-stage valuation model used in this paper in the next Lecture.
 
@@ -1739,7 +1739,7 @@ Home Furnishing Industry
 
 LA-Z-BOY Earnings (current in MM\$) 94.72 Book Value (currentin MM\$) 606.1 Sales (current in MM\$) 2201
 
- ![500](images/82245aff332e62c71a45aa455b00ba7096827a1e0193957386af476da15dbe61.jpg)
+ ![500](82245aff332e62c71a45aa455b00ba7096827a1e0193957386af476da15dbe61.jpg)
 
 # Correlation
 
@@ -1748,7 +1748,7 @@ P/E and Growth 30%
 ●P/E is positively correlated with growth. Firms with high growth should have high P/E.
 Choose firms with similar expected growth rates, plowback rates, and operating risk/cost of equity.
 
- ![500](images/7ca59a6fa938bbbc11a9e3ca67d61723be705a7de1de7bf5cada11a9c3f878af.jpg)
+ ![500](7ca59a6fa938bbbc11a9e3ca67d61723be705a7de1de7bf5cada11a9c3f878af.jpg)
 
 # Correlation
 
@@ -1756,7 +1756,7 @@ P/B and ROE 69%
 
 · P/B is positively correlated with ROE. Firms with high ROE should have high P/B. · Choose firms with similar ROE, growth, and operating risk.
 
- ![500](images/66aa2fe6fd2433aab982c03fc5d3d589c8c0dbffe3ba62daf957f157583afc73.jpg)
+ ![500](66aa2fe6fd2433aab982c03fc5d3d589c8c0dbffe3ba62daf957f157583afc73.jpg)
 
 # Correlation
 
@@ -1982,7 +1982,7 @@ To summarize:
 WACC formula also assumes that any change in debt level does not have an appreciable effect on the cost of debt.
 · Look at the EXCEL file “Example involving FCFF, FCFE and FCFD. Xls" on the course website to understand the source of interest tax shields.
 
- ![500](images/48f8a96188881d6d9071e364e0aff268fc27978c34f72e709818df7dd9ce6adf.jpg)
+ ![500](48f8a96188881d6d9071e364e0aff268fc27978c34f72e709818df7dd9ce6adf.jpg)
 
 # With direct and indirect costs of financial distress
 
@@ -2626,11 +2626,11 @@ We will explore the common behavioral biasesthat individualsexhibit and how we m
 
 - Benjamin Graham Considered the fatherof value investing ' Investing is $\sin p/\theta$ , but not easy.
 
- ![500](images/2db13791772207165e5746ee8d897ab41ae32e033bd953d0591acadc1f834755.jpg)
+ ![500](2db13791772207165e5746ee8d897ab41ae32e033bd953d0591acadc1f834755.jpg)
 
 "Success in investing doesn't correlate with IQ once you are above the level of 1 o 0.... What you need isthe temperamentto controlthe urges that get other people into trouble in investing."
 
- ![500](images/fb47cb99920c154a7dec638921d84f8ef3cd5bbee2a8b0013996781de5f57a55.jpg)
+ ![500](fb47cb99920c154a7dec638921d84f8ef3cd5bbee2a8b0013996781de5f57a55.jpg)
 
 -Warren Buffett
 
@@ -2666,11 +2666,11 @@ System 2: isthe Soock (S) System which is rational, logical, and analytical, but
 
 The M system can give rise to cognitive biases. The Ssystem attemptsto monitor and control the M system, but isnot a lw a ys suc c e ssful.
 
- ![500](images/3ed2bd9942bf607827b4e146475e1511f8317025db3876d8de8c2c241cde7a0c.jpg)
+ ![500](3ed2bd9942bf607827b4e146475e1511f8317025db3876d8de8c2c241cde7a0c.jpg)
 
 # Ho w Do They Work?
 
- ![500](images/8a694d0d075fda929773d151a9230282cee97707b9ab06b2a939819626c10d85.jpg)
+ ![500](8a694d0d075fda929773d151a9230282cee97707b9ab06b2a939819626c10d85.jpg)
 
 Whatis 95 x 78?
 
@@ -2793,7 +2793,7 @@ Lake Wobegon where "allthe women are strong, allthe men are good looking, and al
 
 - Garrison Keillor A Prairie Home Companion
 
- ![500](images/b025f876a9cb972d0805a2941b49ea4b7344418cf4873bc5f8935900ad16a6cb.jpg)
+ ![500](b025f876a9cb972d0805a2941b49ea4b7344418cf4873bc5f8935900ad16a6cb.jpg)
 
 Overconfidence leadspeople to overestimate their abilitiesand fo rec a sting skills.
 
@@ -2950,7 +2950,7 @@ Period 1 growth:
 
 Frm 1: Above average growth $=$ Above average performance $^+$ Above average luck Frm 2: Below Average growth $=$ Below average performance $^+$ Below Average luck
 
- ![500](images/4acdc8b374f952327af42516a646e2f2dd941e50261699ff6c10f0970a9dabaf.jpg)
+ ![500](4acdc8b374f952327af42516a646e2f2dd941e50261699ff6c10f0970a9dabaf.jpg)
 
 Period 2 growth
 
@@ -3021,7 +3021,7 @@ Stronger than the response
 To ga ins.
 -A $\$100$ loss bringsmore pain than the a $\$100$ gain brings plea sure. This is loss a ve rsion.
 
- ![500](images/1e4990ec25286cb61db46be8f4fa067345a3ecea412a3da8b9445f74e33a76ba.jpg)
+ ![500](1e4990ec25286cb61db46be8f4fa067345a3ecea412a3da8b9445f74e33a76ba.jpg)
 
 # Disposition Effect: Evidence of Loss Aversion
 
@@ -3090,7 +3090,7 @@ Glamour Stocks (Low B/M, High Volume, LongTerm Positive Earnings Surprises)
 
 Quantitative strategies combine value and momentum.
 
- ![500](images/24be346b009b04113b92fe151424d9b49b30dc949e450bc5bd74f33a24955f58.jpg)
+ ![500](24be346b009b04113b92fe151424d9b49b30dc949e450bc5bd74f33a24955f58.jpg)
 
 (High B/M, Low Volume, Long-Term Negative Earnings Surprises)
 
@@ -3200,7 +3200,7 @@ Strategies involving any publicly available information:
 
 Glamour Stocks (Low B/M, High Volume, LongTerm Positive Earnings Surprises)
 
- ![500](images/6d28573b050acc4e4d4708c6a7fc67f41250f46f0bc91bf61dbe6fa58c8981c4.jpg)
+ ![500](6d28573b050acc4e4d4708c6a7fc67f41250f46f0bc91bf61dbe6fa58c8981c4.jpg)
 
 Early stage winner are Value Winners. Late stage winners are Glamour/Growth Winners. Early stage losers are Glamour/Growth Losers. Late stage losers are Value Losers.
 
@@ -3289,7 +3289,7 @@ Another manifestation of value strategies is contrarian strategies based on past
 
 Buy long-run losers and sell long-run winners.
 
- ![500](images/0e343b6557b45ded5af84677516f3a714daceadd051def2564888d22ac254312.jpg)
+ ![500](0e343b6557b45ded5af84677516f3a714daceadd051def2564888d22ac254312.jpg)
 
 Stocks with high past performance (high stock returns) underperform stocks with poor past performance where past performance is measured over the previous 5 years.
 
@@ -3317,9 +3317,9 @@ Loser (1) outperforms winner (1 o) by $0.13\%$ to $1.6\%$ a month depending on t
 
 Value vs. Growth: 1927-2014 Value (High B/M, Top $30\%$ ) - Growth (Low B/M, Bottom $30\%$ B/M: Book Value of Equity / Market Value of Equity
 
- ![500](images/34ee74b7e5083dd19d0f3fc2459c6dffae2a52f603cfe20a2648ab5a02d59316.jpg)
+ ![500](34ee74b7e5083dd19d0f3fc2459c6dffae2a52f603cfe20a2648ab5a02d59316.jpg)
 
- ![500](images/7d0da92bad200def0a10b6613ba5e2f7fe752c349596b84463eaa953d0d9f815.jpg)
+ ![500](7d0da92bad200def0a10b6613ba5e2f7fe752c349596b84463eaa953d0d9f815.jpg)
 Value Premium (HML $=$ High B/M - Low B/M) in Developed International Markets: 1991-2014
 Data from KenFrench's website http://mba.tuck dartmcuth. Edu/pages/faculty/ken french/data_library. Html
 
@@ -3393,7 +3393,7 @@ TABLE 4 One-Year Marret-Adjusted Buy-and-Hold Returns to a Value Investment Stra
 
 $59\%$ of the sample $(\mathbf{n}{=}8{,}302)$ is concentrated among small firms and only $13\%$ $({\bf n}=1,835)$ is concentrated among large firms. The excess returns in large cap value portfolios are lower. In small cap and especially micro-cap value portfolios, capacity may be limited because of liquidity constraints. · The median market cap of Pietroski's sample (see Table 6) is only \$14.37 million!
 
- ![500](images/79bfd3a8f627d094f02e272cb783646632e8a5961fdd3aa3c651c4e7eb7b3ef5.jpg)
+ ![500](79bfd3a8f627d094f02e272cb783646632e8a5961fdd3aa3c651c4e7eb7b3ef5.jpg)
 FIG. 1 --One-year market-adjusted returns to a hedge portfolio based on a fundamental analysis strategy by calendar year. This figure documents one-year market-adjusted returns by calendar year to a hedge portfolio taking a long position in firms with a strong $F_{-}S C O R E$ $(F_{-}S C O R E$ greater than or equal to 5) and a short posihon in firms with a weak F_SCORE (F_SCORE less than 5) Returns are cumulated over a one-year period startung four months after fiscal year-end. A market-adjusted return is defined as the firm's 12-month buy-andhold return less the buy-and-hold return on the value-weighted market index over the same investmenthorizon
 
 The figure above suggests the F-score long-short strategy earned positive returns in almost every year from 1977 to 1996.
@@ -3403,7 +3403,7 @@ The returns may not be as high for large institutional investors because of liqu
 Nevertheless, the intuition behind the F-Score is appealing.
 # Price momentum strategies
 
- ![500](images/6229daeef596bdd20d71e243f365b47da7930d904d58137d6354d9c8c61ae779.jpg)
+ ![500](6229daeef596bdd20d71e243f365b47da7930d904d58137d6354d9c8c61ae779.jpg)
 
 > Momentum is evidence of return continuation. High returns followed by high returns and vice-versa.
 
@@ -3438,11 +3438,11 @@ The above table reproduces only a portion of Table I.
 · J refers to the measurement period and K refers to the holding period. Past returns are computed for the prior 6 months $(\mathrm{J}{=}6)$ ,the momentum portfolios constructed, and the stocks held for 3, 6, 9, or 12 months $(\mathrm{K}{=}3$ , 6, 9, or 12). The holding period returns are reported in $\%$ per month. · Winners outperform losers by about $1\%$ per month or $12\%$ annualized which is a violation of weak-form market efficiency. · Multiple monthly averages by 12 to annualize them. The numbers in parentheses are t-statistics. T-statistic $>2$ is significant.
 # Price Momentum in the U.S.: 1927-2014 Winner (Top $30\%$ ) - Loser (Bottom $30\%$ Return measured from month -12 to -2
 
- ![500](images/a44f5e2dc30280090960f00446a2e2ddab855fede713c2c957551ced023013ab.jpg)
+ ![500](a44f5e2dc30280090960f00446a2e2ddab855fede713c2c957551ced023013ab.jpg)
 
 # Momentum Premium in Developed Intl Markets from 1991-2014 WML $=$ Winner (Top $30\%$ ) - Loser (Bottom 30%) Return measured from month -12 to -2
 
- ![500](images/c1aaf389abc8d6c7295ccd40b5a45b9256f7f34b34cf5495ed959d11503a72af.jpg)
+ ![500](c1aaf389abc8d6c7295ccd40b5a45b9256f7f34b34cf5495ed959d11503a72af.jpg)
 Data from Ken French's website http://mba.tuck.dartmouth.edupages/faculty/ken french/data_library. Html
 
 # Price Momentum and Trading Volume
@@ -3458,7 +3458,7 @@ Momentum profits are stronger among stocks with high trading volume and volume r
 
 Glamour Stocks (Low B/M, High Volume, LongTerm Positive Earnings Surprises)
 
- ![500](images/b10a1609f5e50474820e812aa1609abce96f4dc7a7a9a62fdfc9ec6930d01838.jpg)
+ ![500](b10a1609f5e50474820e812aa1609abce96f4dc7a7a9a62fdfc9ec6930d01838.jpg)
 
 (High B/M, Low Volume, Long-Term Negative Earnings Surprises)
 
@@ -3590,15 +3590,15 @@ Cross-sectional regressions are estimated each month from January 1977 to Januar
 
 Efficient market hypothesis
 
- ![500](images/756aa5f7e1be83288752e8732e9b637f1590d09557e4aeb52609f38cd383c51f.jpg)
+ ![500](756aa5f7e1be83288752e8732e9b637f1590d09557e4aeb52609f38cd383c51f.jpg)
 
 Underreaction (Price adjusts to news with a lag)
 
- ![500](images/b8f3d66fa690d702d6c5a3f43588511c85406c786c72d5a1a92c76f5a24e230a.jpg)
+ ![500](b8f3d66fa690d702d6c5a3f43588511c85406c786c72d5a1a92c76f5a24e230a.jpg)
 
 Eventual Overreaction (Price eventually overreacts)
 
- ![500](images/ab072994fea35206ae63cf2aa2ffe3999f58b6e8b26dc2f4a02af7cf034501b0.jpg)
+ ![500](ab072994fea35206ae63cf2aa2ffe3999f58b6e8b26dc2f4a02af7cf034501b0.jpg)
 # Market inefficiency and limited arbitrage
 
 Why doesn't arbitrage eliminate these “inefficiencies/mispricing?
@@ -3770,7 +3770,7 @@ WCA/Average Total Assets or WCA/Average Invested Capital.
 
 Time Series Properties of Earnings, Accruals and Operating Cash Flows. Year O is the year in which firms are ranked and assigned in equal numbers to ten portfolios based on each of the three respective variables. Earnings is measured as income from continuing operations scaled by average total assets for the year. Accruals is the change in non-cash current assets, less the change in current liabilities (exclusive of short-term debt and taxes payable), less depreciation expense, all divided by average total assets. Cash flow is the difference between earnings and accruals (as defined above).
 
- ![500](images/6dcdf68e166eb39e0d4b8e8072c3585b990decdc24561a125004ca5c501b1261.jpg)
+ ![500](6dcdf68e166eb39e0d4b8e8072c3585b990decdc24561a125004ca5c501b1261.jpg)
 
 # Earnings Quality and Stock Returns
 
@@ -3789,7 +3789,7 @@ TABLE 6 Time-series Means of Equal Weighted Portfolio Abnormal Stock Returns Sam
 
 Returns by calendar year to a hedge portfolio taking a long position in the stock of firms in the lowest decile of accruals and an equal-sized short position in the stock of firms in the highest decile of accruals. Returns are cumulated over a one-year period beginning four months after the fiscal year end. Accruals is the change in non-cash current assets, less the change in current liabilities (exclusive of short-term debt and taxes payable), less depreciation expense, all divided by average total assets.
 
- ![500](images/ef97d3d08f60993d32cfcb1b1f13a372f21701186a4c1e9d30a4ee9cb0cb4b56.jpg)
+ ![500](ef97d3d08f60993d32cfcb1b1f13a372f21701186a4c1e9d30a4ee9cb0cb4b56.jpg)
 
 # Which component of accruals is more mispriced?
 
@@ -3816,7 +3816,7 @@ Thus, it is more of a short or sell signal.
 High accrual portfolios have high past performance but exhibit poor future performance up to three years after portfolio formation.
 
 Portfolios are formed in April of each year (1971-1995) and abnormal returns are computed relative to size-B/M portfolios.
- ![500](images/1391fd56cb9fb5f91fb3933cd31db216f0448bdba120cc47af96f364da9646d6.jpg)
+ ![500](1391fd56cb9fb5f91fb3933cd31db216f0448bdba120cc47af96f364da9646d6.jpg)
 Fic. 1. —-Operating performance of portfolios sorted by accruals
 
 Firms with high accruals experience extreme growth in earnings, cash flows, accounts receivables, inventories and accounts payable from Year -1 to 0. It is possible accruals grow with sales or in anticipation of future sales; however sales (asset) turnover (sales/avg. Total assets) remain flat in the pre-formation years (-5 to 0) and decline in the post-formation years $(0\mathrm{to}+5)$ for the high accrual firms.
@@ -4302,7 +4302,7 @@ Construct two size portfolios based on the median NYSE market cap. Stocks with m
 
 Within each size portfolio form three quality portfolios for an intersection of six portfolios. All portfolios are value-weighted.
 
- ![500](images/b2de75c1c38dce029240389b8a91a5c87bbf4d51a9290c726dce1fcd6ca2f74c.jpg)
+ ![500](b2de75c1c38dce029240389b8a91a5c87bbf4d51a9290c726dce1fcd6ca2f74c.jpg)
 # Global sample of firms
 
 # Table I Summary Statistics

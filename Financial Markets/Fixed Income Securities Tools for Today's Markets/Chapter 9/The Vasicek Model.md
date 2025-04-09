@@ -36,7 +36,7 @@ For the relatively small mean reverting parameter, $k=0.0165$ $b$ is over 42 yea
 
 The standard deviation of the short-term rate around its expectations is given by the square root of (9.5) and shown by the dashed lines in Figure 9.1. With a volatility parameter of 95 basis points per year and a very slow mean reversion, the standard deviation around expectations is quite wide. The figure does show, however, that mean reversion narrows this standard deviation. Without mean reversion, the standard deviation of the short-term rate is greater, at $\sigma{\sqrt{t}}$ . Put another way, the pull of the short-term rate to the constant value $\theta$ reduces the standard deviation of the short-term rate as of any future date.  
 
-![](images/e743777a47f9698620fd03c06159e945d2da04c75ed755330ae6824863335d76.jpg)  
+![](e743777a47f9698620fd03c06159e945d2da04c75ed755330ae6824863335d76.jpg)  
 FIGURE 9.1  Expectations of the Continuously Compounded Short-Term Rate in the Vasicek Model, with One-Standard-Deviation Bands. Light Dotted Lines Give Bands Without Any Mean Reversion. Model Parameters Are $r_{0}=2\%$ $\theta=11\%$ $k=0.0165$ , and $\sigma=0.95\%$  
 
 Equations (9.6) and (9.7), illustrated in Figure 9.2, give the continuously. compounded forward and spot rates in the model. The shape of the forward curve is discussed presently. Recall, however, as discussed in Chapter 2, so long as the forward curve is above the spot curve, spot rates are increasing..  
@@ -45,13 +45,13 @@ Figure 9.3 shows the term structure of forward rate volatility in the.. model, t
 
 Figure 9.4, the last presented on the Vasicek model, decomposes the forward rate curve into expectations, risk premium, and convexity using the values $\lambda=0.125\%$ , which - given $\theta=11\%$ and Equation (9.3) - means that $r_{\infty}=3.424\%$ . In this decomposition, expectations are mildly increasing. over the coming years. Forward rates out to 10 year or so increase much more rapidly than expectations, however, due to the risk premium of 12.5 basis points per year. For longer terms, however, the (negative) convexity term grows rapidly, not only moderating the impacts of expectations and convexity but also actually causing forward rates to decline with term.  
 
-![](images/80c3a67e3d3b4b9fa64bbee1d53ccdbcfa1a9bc83641fe055d8253aa1bc7a973.jpg)  
+![](80c3a67e3d3b4b9fa64bbee1d53ccdbcfa1a9bc83641fe055d8253aa1bc7a973.jpg)  
 FIGurE 9.2  Continuously Compounded Forward and Spot Rates in the Vasicek Model. Model Parameters Are $r_{0}=2\%$ $\theta=11\%$ $k=0.0165$ , and $\sigma=0.95\%$  
 
-![](images/eb58567ac3a8892fcd3c7e8b692abd8ab804044aaf896e4292f1995f8fe20024.jpg)  
+![](eb58567ac3a8892fcd3c7e8b692abd8ab804044aaf896e4292f1995f8fe20024.jpg)  
 FIGUre 9.3 Term Structure of Forward Rate Volatilities in the Vasicek Model. Parameters Are $r_{0}=2\%$ $\theta=11\%$ $k=0.0165$ , and $\sigma=0.95\%$  
 
-![](images/c10126115bf9b1ea66dfdd5a2d4749709288cf0cd77c85c5c4dd584eb870f09f.jpg)  
+![](c10126115bf9b1ea66dfdd5a2d4749709288cf0cd77c85c5c4dd584eb870f09f.jpg)  
 FIGURe 9.4 Decomposition of the Forward Rates in the Vasicek Model into Expectations, Risk Premium, and Convexity. Model Parameters Are $r_{0}=2\%$ $\lambda=0.125\%$ $r_{\infty}=3.424\%$ $k=0.0165$ , and $\sigma=0.95\%$  
 
 The Vasicek model has some limited uses for practitioners. It is a rela-. tively simple model, which is a great advantage. Furthermore, as explained in Chapter 6, a single factor can explain a large fraction of term structure variability, particular across longer maturities. The parameters. $r_{0},k$ and $\theta$ can be jointly calibrated to approximate both the shape of the term structure and the shape of rate sensitivities to the factor (i.e., Figure 9.3). The parameter $\sigma$ can be used to approximate an implied option volatility at one point of the term structure. With these considerations in mind, the model. can reasonably be used, for example, to price, compare values, and hedge. long-term bonds that are first callable after some intermediate number of years. The model is flexible enough to match the prices of noncallable bonds from 10 to 30 years, and also to match the most relevant volatility, namely,. the volatility of 10-year rates. Bond sensitivities to changes in interest rates, defined in the model as changes in $r$ , can be computed by shifting $r_{0}$ , recomputing prices, and computing DV01s or durations. To the extent that bonds of one maturity are hedged with bonds of another maturity, the effectiveness of the resulting hedges depend on the reliability of the shape in Figure 9.3..  

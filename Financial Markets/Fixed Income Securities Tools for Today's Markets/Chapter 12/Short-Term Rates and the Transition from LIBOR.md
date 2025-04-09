@@ -27,7 +27,7 @@ Given the enormous volume of loans and derivatives that had been refer-. encing 
 
 More substantive challenges to the transition, particularly in the loan. market, arise from two key features of the new benchmarks. First, they are overnight rather than term rates. Second, they are rates with little to no bank credit risk. The challenge of moving from term to overnight rate benchmarks is described in Figure 12.1. Panel a) depicts the historical use of onemonth LIBOR as part of a longer-term, floating-rate loan. A borrower of $\$1$ million from October 1 to November 1, 2021, knows the rate of interest at the start of the period and, therefore, can compute the interest due at the end of the period, in this case,. $\$1,000,0000\times0.07525\%\times31/360=\S64.80$  
 
-![](images/451b573cb1211194e003959445b39dd94f4c2be45cd076042d5121f353f63a88.jpg)  
+![](451b573cb1211194e003959445b39dd94f4c2be45cd076042d5121f353f63a88.jpg)  
 FIGURE 12.1 Examples of Monthly Interest Payment Conventions for a. $\$1$ Million Monthly Resetting Floating-Rate Loan, September to November 2021.  
 
 In this convention, interest is said to be set in advance of the loan period and paid in arrears of the loan period. With overnight rather than term benchmarks, however, borrowers typically do not know the final amount of interest at the start of the period. Panel b) shows the most straightforward structure for term loans with an overnight rate benchmark, namely, set in arrears and paid in arrears. Over the 31 days - October 1, 2021, to October 31, 2021 - SOFR was three basis points on three days, four basis points on one day, and five basis points on 27 days. On a. $\$1$ million loan, therefore, with daily compounding, the interest payment due at the end of the period is,  

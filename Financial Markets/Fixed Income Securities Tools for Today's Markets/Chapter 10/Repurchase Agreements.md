@@ -2,10 +2,10 @@
 
 The most straightforward description of a repurchase agreement or repo is as a secured loan with bonds or other financial instruments as collateral. Figures 10.1 and 10.2 depict an example in which one counterparty - the "repo seller" -- borrows $\$109,898,438$ for 44 days at a rate of $0.015\%$ , while giving $\$100$ million of the 2.75s of $02/15/2028$ as collateral. At the time of the trade, the price of the bond is $109{-}283/4$ , that is, $109+28.75/32=$ 109.898438 per 100 face amount, which means that the value of the collateral at the start of the trade equals the amount loaned. In practice, the value of the collateral typically exceeds the amount loaned, and this feature. of repo is discussed next. Continuing with the present example, however, Figure 10.1 shows the flows of cash and bonds at the initiation of the trade,. and Figure 10.2 shows the flows at the expiration or unwind of the trade. In the latter, the repo seller pays principal plus interest, $\$109,898,438\times(1+$ $0.015\%\times44/360)$ , or $\$109,900,452$ , to discharge the loan, and then takes back its $\$100$ million face amount of bonds.  
 
-![](images/a6a704697ad665f492e306bb61662a3214df6ebe0bb7bcc4fb582f15282da04a.jpg)  
+![](a6a704697ad665f492e306bb61662a3214df6ebe0bb7bcc4fb582f15282da04a.jpg)  
 FIGURE 10.1 Initiation of a Repurchase Agreement.  
 
-![](images/ab02842fc4352fe975c8bd5c8b27fcef24a7193550b7c43cf0c1aafa3b648606.jpg)  
+![](ab02842fc4352fe975c8bd5c8b27fcef24a7193550b7c43cf0c1aafa3b648606.jpg)  
 FIGURE 10.2 Unwind of a Repurchase Agreement.  
 
 The lender of cash in Figures 10.1 and 10.2 is protected by the bonds taken as collateral against the loans: if the borrower of cash defaults, the lender of cash has a claim on those bonds. But lenders of cash in the repo market are protected even further by a safe harbor from the bankruptcy code, by a haircut or initial margin, and by variation margin.  

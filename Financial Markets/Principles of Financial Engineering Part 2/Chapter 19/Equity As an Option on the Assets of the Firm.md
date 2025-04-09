@@ -26,7 +26,7 @@ A standard company balance sheet is a summary of the financial position of a com
 
 <html><body><table><tr><td></td><td>Scenario1: A>F T</td><td>Scenario2: A<F T</td></tr><tr><td>Debtholders</td><td>F</td><td>A T</td></tr><tr><td>Equityholders</td><td>A-F T</td><td>0</td></tr></table></body></html>  
 
-![](images/a96c81b6b0ffdafd60f2b37d64569b346a56363b1760c72984e157a9c3beb997.jpg)  
+![](a96c81b6b0ffdafd60f2b37d64569b346a56363b1760c72984e157a9c3beb997.jpg)  
 (dDecomposition of payoff to debt holders into short put option position  
 
 <html><body><table><tr><td rowspan="5">Portfolio</td><td></td><td>Scenario1: A>F T</td><td>Scenario2: A<F T</td></tr><tr><td>Debtholders</td><td>F</td><td>A T</td></tr><tr><td>Risklessdebt</td><td>F</td><td>F</td></tr><tr><td></td><td>0</td><td>-（A_-F) T</td></tr></table></body></html>  
@@ -64,7 +64,7 @@ $$
 C_{t}-P_{t}=S_{t}-e^{-r(T-t)}K=A_{t}-\operatorname{Riskless}\operatorname{Bond}(t)
 $$  
 
-![](images/ee7e08b12a33d3aa24f3cadb6f07b7ff877b675aed2c3a5a998718cc3404baab.jpg)  
+![](ee7e08b12a33d3aa24f3cadb6f07b7ff877b675aed2c3a5a998718cc3404baab.jpg)  
 
 # FIGURE 19.2  
 
@@ -102,7 +102,7 @@ $$
 
 This leads to the following contractual equation:  
 
-![](images/a2828f213259b8bf8ddbb5cddc6df69610214f24ad8574a4ce00424f48a879c9.jpg)  
+![](a2828f213259b8bf8ddbb5cddc6df69610214f24ad8574a4ce00424f48a879c9.jpg)  
 
 # 19.4.2.2 Bond and equity value in the Merton mode!  
 
@@ -184,7 +184,7 @@ The expression in Eq. (19.23) is important and useful since it shows us how base
 
 It is a priori not clear which financial market should price credit risk correctly, but a market. participant can take the view that either the equity, the bond, or the CDS market prices credit risk. correctly and then take long and short positions in two of these markets to try to exploit potential. relative mispricing. We will describe the underlying rationale and examples of such trades in detail in one of the subsequent sections.  
 
-![](images/25f1a8702ab47715b981324cb2abfaf5b2e97026d0961ce8b9e25df8a25cdf0b.jpg)  
+![](25f1a8702ab47715b981324cb2abfaf5b2e97026d0961ce8b9e25df8a25cdf0b.jpg)  
 Goldman Sachs CDS versus share price (2007-2014, weekly frequency)  
 
 # FIGURE 19.3  

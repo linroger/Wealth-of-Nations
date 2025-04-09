@@ -34,5 +34,5 @@ $$
 
 This information is summarized in Figure 28.12.
 
-![](images/87e459da041f32dbd0e7b7e561c6239acc638a85a25f485b65e99dabedeee440.jpg)
+![](87e459da041f32dbd0e7b7e561c6239acc638a85a25f485b65e99dabedeee440.jpg)
 FIGURE 28.12 Binomial Tree of Swaption Values

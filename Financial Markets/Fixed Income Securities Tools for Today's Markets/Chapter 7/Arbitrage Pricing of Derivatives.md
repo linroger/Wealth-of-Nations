@@ -2,7 +2,7 @@
 
 This section prices an interest rate contingent claim or derivative, in particular, a call option that expires in six months to purchase $\$1,000$ face value of a then six-month zero at $\$990$ . Figure 7.2 starts the price tree for this call option based on the rates and prices in Figure 7.1. If on date 1 the six-month rate is $2.50\%$ , and a six-month zero sells for $\$987.654$ , the right to buy that zero at $\$990$ is worthless. On the other hand, if the six-month rate is $1.50\%$ , and the price of a six-month zero is $\$992.556$ , then the right to buy the zero at $\$990$ is worth $\$992.556-\$9990$ , or $\$2.556$ . This description of the option's terminal payoffs emphasizes the contingent claim nature of the option: its value depends on interest rates through the value of an underlying bond.  
 
-![](images/a43fa1d520f560d699698b4262b58beb1da668723a80f9a323382bdfc3c4fab2.jpg)  
+![](a43fa1d520f560d699698b4262b58beb1da668723a80f9a323382bdfc3c4fab2.jpg)  
 FIGURE 7.2 Pricing a 990 Six-Month Call Option on a Six-Month Zero Coupon Bond.  
 
 Chapter 1 showed that a security is priced by arbitrage by finding and. pricing its replicating portfolio. In that context, because all bond cash flows are fixed or constant, the construction of the replicating portfolio is rela-. tively simple. The present context is more difficult, because cash flows do. depend on the level of rates, and the replicating portfolio must replicate the. contingent claim for any possible interest rate scenario..  

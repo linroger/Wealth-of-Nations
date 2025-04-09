@@ -52,7 +52,7 @@ Explain this statement.
 9.12. Explain the meaning of "netting". Suppose no collateral is posted. Why does a netting agreement usually reduce credit risks to both sides? Under what circumstances does. netting have no effect on credit risk?.   
 9.13. The average funding cost for a company is. $5\%$ per annum when the risk-free rate is $3\%$ The company is currently undertaking projects worth $\$9$ million. It plans to increase its. size by undertaking. $\$1$ million of risk-free projects. What would you expect to happen to its average funding cost?.  
 
-![](images/1ce4b24af23b5ac52adfb5a9f9928fe28ec70353d7cf60a3336dfbcaedd3d431.jpg)  
+![](1ce4b24af23b5ac52adfb5a9f9928fe28ec70353d7cf60a3336dfbcaedd3d431.jpg)  
 
 # Mechanics of Options Markets  
 

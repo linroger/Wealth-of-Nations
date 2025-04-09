@@ -17,10 +17,10 @@ Figure 11.2 shows the information graphically. In the first graph, what stands o
 
 In MPT, the efficient frontier is a generalization of the left-hand graph in Figure 11.2 and the line we added to show where all the combinations of CsCO and XOM with varying investment proportions would be. The efficient frontier is the locus of all the "best' stocks and all the "best' portfolios consisting of the stocks (including all combinations of stocks and all. weight combinations) in the mean-standard deviation space. Because few stocks are perfectly positively correlated, we achieve diversification effects with many portfolios, moving them to the left relative to the component stocks while getting the average return. The "best"' here means the lowest standard deviation for a given level of expected return and/or the highest expected return for a given level of standard deviation. Conversely, it also means that horizontally there is no combination of stocks with a lower risk for a given level of expected return than that. on the frontier. Figure 11.3 shows the efficient frontier of the best risky-risky combinations drawn in the mean-standard deviation space. Stocks are portrayed as white dots, portfolios as. black dots. The efficient frontier traces out the northwestern contour of the cloud containing. stocks and their combinations. No rational investor chooses to put all of his money into any. dot in the interior of the cloud. Rational investors choose only from the efficient frontier menu. Risk-averse investors choose the portfolios on the lower part of the frontier (lower risk), less risk-averse on the upper part (higher risk)..  
 
-![](images/e00909eb7bafc4c9e1197128fe23f71748d038049e02163301eacd34bce3b471.jpg)  
+![](e00909eb7bafc4c9e1197128fe23f71748d038049e02163301eacd34bce3b471.jpg)  
 Figure 11.2 $Y=$ mean vs $X=\operatorname{st}$ deviation for risky-risky and riskless-risky portfolios  
 
-![](images/ca113408abf77043b4628fe4aaaa84fa84052da86b97a28b808a2b447ccb5008.jpg)  
+![](ca113408abf77043b4628fe4aaaa84fa84052da86b97a28b808a2b447ccb5008.jpg)  
 Figure 11.3 The efficient frontier of risky assets and portfolios  
 
 # 11.3.2Two-Fund Separation  
@@ -75,7 +75,7 @@ Suppose we are looking at three stocks with the following characteristics in the
 
 The risk-free rate is $3\%$ and the market risk premium is $6.5\%$ . In column 5, we compute the CAPM-"warranted" returns. In column 6, we compute the expected return based on the. constant-growth fundamental valuation model of Section 11.2.2 using the recent prices in column 7. Column 8 contains the "fair' price based on the fundamental discounting of FCFE using the CAPM discount rate. Column 9 contains a proxy for the price/earnings ratio..  
 
-![](images/83238d1427dbbe5e42df45e848f23e1a20078ec9331f260b6aae964c044c8248.jpg)  
+![](83238d1427dbbe5e42df45e848f23e1a20078ec9331f260b6aae964c044c8248.jpg)  
 Figure 11.4 The CAPM security market line (SML)   
 Figure 11.5 shows graphically our stock selection analysis.  
 
@@ -88,7 +88,7 @@ Table 11.5 CAPM-based stock screen
 
 <html><body><table><tr><td>1 Stock</td><td>2 Beta</td><td>3 FCFE/shr</td><td></td><td>4 Growth</td><td>5 CAPM ret</td><td>6 Implied ret</td><td>7 Recent price</td><td>8 Fair price</td><td></td><td>9 P/FCFE</td></tr><tr><td>A</td><td>1.10</td><td>$L</td><td>4.50</td><td>5%</td><td>10.15%</td><td>14.00%</td><td>$5 50.00</td><td></td><td>$ 87.38</td><td>11</td></tr><tr><td>B</td><td>0.93</td><td>$2</td><td>2.45</td><td>3%</td><td>9.05%</td><td>8.16%</td><td>$ 47.50</td><td>$</td><td>40.50</td><td>19</td></tr><tr><td>C</td><td>1.33</td><td>$ 11.20</td><td></td><td>6%</td><td>11.65%</td><td>11.79%</td><td>$193.25</td><td></td><td>$198.23</td><td>17</td></tr></table></body></html>  
 
-![](images/051ceca00471c386cc2ddfe0f33caabf875a3fe487be5b0a699c5ff42f1d2302.jpg)  
+![](051ceca00471c386cc2ddfe0f33caabf875a3fe487be5b0a699c5ff42f1d2302.jpg)  
 Figure 11.5 A stock screen using the CAPM  
 
 # 11.4MULTIFACTOR INDEX MODELS  

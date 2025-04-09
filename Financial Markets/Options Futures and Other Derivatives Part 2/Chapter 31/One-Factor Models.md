@@ -28,7 +28,7 @@ where $\mu$ and $\sigma$ are constants. This means that $r$ follows geometric Br
 
 The assumption that the short-term interest rate behaves like a stock price is a natural starting point but is less than ideal. One important difference between interest rates and stock prices is that interest rates appear to be pulled back to some long-run average level over time. This phenomenon is known as mean reversion. When. $r$ is high, mean reversion tends to cause it to have a negative drift; when. $r$ is low, mean reversion tends. to cause it to have a positive drift. Mean reversion is illustrated in Figure 31.1. The Rendleman and Bartter model does not incorporate mean reversion..  
 
-![](images/075aa26dcb420d9009b4b8013f16a78e2ccbdf3ba3797eb197d455ca26dbaa5c.jpg)  
+![](075aa26dcb420d9009b4b8013f16a78e2ccbdf3ba3797eb197d455ca26dbaa5c.jpg)  
 Figure 31.1 Mean reversion.  
 
 There are compelling economic arguments in favor of mean reversion. When rates are high, the economy tends to slow down and there is low demand for funds from borrowers. As a result, rates decline. When rates are low, there tends to be a high demand for funds on the part of borrowers and rates tend to rise.  
@@ -147,7 +147,7 @@ This shows that the entire term structure at time. $t$ can be determined as a fu
 
 One difference between Vasicek and CIR is that in Vasicek the short rate, $r(t)$ , can become negative whereas in CIR this is not possible. If $2a b\geq\sigma^{2}$ in CIR, $r(t)$ is never zero; otherwise it occasionally touches zero.  
 
-![](images/3c2cc49245da07a840be43aa45a0842b7672533c004482d5f243627f611ab7f3.jpg)  
+![](3c2cc49245da07a840be43aa45a0842b7672533c004482d5f243627f611ab7f3.jpg)  
 Figure 31.2 Possible shapes of term structure in the Vasicek and CIR models.  
 
 From Chapter 4, the duration $D$ of a bond that has a price of $Q$ is given by  

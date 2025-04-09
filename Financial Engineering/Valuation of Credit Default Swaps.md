@@ -18,12 +18,12 @@ Credit default swaps (CDS) have been explained in detail elsewhere'. In brief, a
 
 Between trade initiation and default or maturity, protection buyer makes regular payments of default swap spread to protection seller  
 
-![](images/c4413c8b3f68434abae24c90d1534f1a6793c0fc47d53c205d71e054d93c0cb1.jpg)  
+![](c4413c8b3f68434abae24c90d1534f1a6793c0fc47d53c205d71e054d93c0cb1.jpg)  
 Figure 1. Mechanics of a default swap premium leg  
 
 If a credit event does occur before the maturity date of the contract, there is a payment by the protection seller, known as the protection leg. This payment equals the difference between par and the price of the cheapest to deliver' (CTD) asset of the reference entity on the face value of the protection and compensates the protection buyer for the loss. It can be made in cash or physically settled format. This is shown in Figure 2..  
 
-![](images/2e1278474c0ab0694dddfbf0798f1f39bc1247bea7d78afbe7940a3c3114a65d.jpg)  
+![](2e1278474c0ab0694dddfbf0798f1f39bc1247bea7d78afbe7940a3c3114a65d.jpg)  
 Figure 2. The protection leg following a credit event  
 
 # Example  
@@ -59,7 +59,7 @@ i. Unwind it with the initial counterparty (or have it reassigned to another cou
 
 Both choices have the same economic value today. However they are different. In case (i) the P&L is realised immediately and the position is terminated. In case (ii) the P&L is only realised over the remaining life of the swap and the investor is taking the risk that a credit event occurs and the realised P&L is less than that they would have achieved if they had unwound the position for a cash amount. On the other hand, if no credit event occurs, and the net spread income is positive, they will receive more than the cash unwind value.  
 
-![](images/9858ab1f6167976df36ba03453535588427a7414287aa6be7b5433e3546bfa90.jpg)  
+![](9858ab1f6167976df36ba03453535588427a7414287aa6be7b5433e3546bfa90.jpg)  
 Figure 3. A protection buyer who seeks to value a 5-year protection position after one year  
 
 The present value of a position initially traded at time. $t_{0}$ at a contractual spread of $S(t_{0,}t_{N})$ with maturity. $t_{N}$ and which has been offset at valuation time $t_{V}$ with a position traded at a spread of $S(t_{V,}t_{N})$ is given by.  
@@ -101,7 +101,7 @@ assumption in the context of pricing. All we say now is that for almost all mark
 these assumptions are acceptable as their pricing impact is well within the typical bid-offer.   
 spread for credit default swaps.  
 
-![](images/64b300be595ce2e0002484a532d51da10e34ca2efb8c5cfd1beec7aa6d60834f.jpg)  
+![](64b300be595ce2e0002484a532d51da10e34ca2efb8c5cfd1beec7aa6d60834f.jpg)  
 Figure 4. The equivalent of a binomial tree in the modeling of default in which the tree terminates and makes a payment K at default.  
 
 We can extend this model to multiple time periods, as shown pictorially in Figure 4, where K is the payoff at the time of a default. We can compute the continuous time survival probability to time T conditional on surviving to time ty by considering the limit dt. $\rightarrow0$ . It can be shown that the survival probability is given by.  
@@ -171,7 +171,7 @@ $$
 
 where $f$ is the frequency of payments on the premium leg.  
 
-![](images/8ef3a2aa9523a7c828c444427dfe3651001e7c9f72f9c4171f8905af7194e552.jpg)  
+![](8ef3a2aa9523a7c828c444427dfe3651001e7c9f72f9c4171f8905af7194e552.jpg)  
 
 The breakeven spread with premium accrued has to be less than that without premium accrued as a protection buyer will want to pay a lower spread in order to offset the possible. extra accrued payment if there is a credit event. For a contract with a credit default swap spread of 200bp and an expected recovery rate of $40\%$ , the change in spread due to premium accrued on a quarterly-paying default swap is approximately equal to 0.83bp. This is well inside typical bid-offers for names that trade at this spread level. However, for wide spread names, this difference, which is quadratic in the spread, cannot be ignored.  
 
@@ -186,7 +186,7 @@ In pricing the protection leg, it is important to take into account the timing o
 3.  At this point an amount $(100\%\mathrm{~-~R~})$ is paid, and we discount this back to today at the risk-free rate $Z(\mathrm{t_{V}},\mathrm{s})$   
 4. We then consider the probability of this happening at all times from $\mathbf{s}=\mathbf{t}_{\mathrm{V}}$ to the maturity date ty. Strictly speaking the timing of a credit event should not be resolved to less than a day. However, assuming that a credit event can occur intra-day has almost no effect on the valuation while simplifying the exposition.  
 
-![](images/81bcf1d876d0cf5ede3efe0d8f6ec6a8ee0488e28e4b4e859bcfd2751dac5ef0.jpg)  
+![](81bcf1d876d0cf5ede3efe0d8f6ec6a8ee0488e28e4b4e859bcfd2751dac5ef0.jpg)  
 Figure 6. Steps in the calculation of the expected present value of a recovery rate which is paid at the time of a credit event  
 
 These steps are also shown in Figure 6. As a result, we calculate the expected present value of the recovery payment as  
@@ -203,7 +203,7 @@ $$
 
 The lower the value of M, the fewer calculations we have to do. However it also means that the accuracy is reduced. In terms of spread change, we show in O'Kane and Turnbull (2o03) that for a flat hazard rate structure, the percentage difference in the computed spread between. the continuous and discrete case is given by $\mathbf{r}/2\mathbf{M}$ where r is the continuously compounded default free interest rate. The quality of this approximation is demonstrated in Figure 7 for. different values of M and r. For example, assuming that. $\scriptstyle{\mathrm{r}}=3\%$ and $\mathbf{M}{=}12$ (corresponding to monthly intervals) we have a percentage error in the spread of. $0.125\%$ , i.e., an absolute error. of 1bp on a spread of 800bp compared with the continuous case. This level of accuracy is. well inside the typical bid-offer spread. This is encouraging as it means that the model can be. fast, simple and accurate.  
 
-![](images/7c3c013c428edf34ff1c2007f008a4a49c9f3fad757a201b4398828240d6f02d.jpg)  
+![](7c3c013c428edf34ff1c2007f008a4a49c9f3fad757a201b4398828240d6f02d.jpg)  
 Figure 7. Model-based calculation of the percentage discretization error on protection leg PV shown as a function of 1/M, the interval time spacing  
 
 # 7. CALIBRATING EXPECTED RECOVERY RATES  
@@ -245,7 +245,7 @@ In this equation we know all of the accrual factors, we can make an assumption a
 
 The standard modeling assumption used in the credit default swap market is to assume that the hazard rate is a piecewise flat function of maturity time. This is an entirely reasonable assumption because, given only one data point, it is not possible to extract more than one piece of information about the term structure of hazard rates.  
 
-![](images/63cb83a843859aa0d95a84faef1cb341505cccb7b51afa8ba23f79cbb6c4b1a1.jpg)  
+![](63cb83a843859aa0d95a84faef1cb341505cccb7b51afa8ba23f79cbb6c4b1a1.jpg)  
 Figure 9. Given market default swap spreads at 1Y, 3Y, 5Y, 7Y and 10Y, the simplest assumption is of a piecewise flat hazard rate term structure. One can also assume a flat then linear term structure  
 
 One could go a stage further and assume that the curve is piecewise linear. However, this only makes a difference if (i) we do not have quoted spreads for many maturities and (ii) the curve is steeply sloped. This is generally not the case because most names only have liquidity at the 5-year default swap and the curve is therefore assumed to be flat. The main exception is when we have an inverted spread curve, usually associated with a distressed credit. In this case we usually have more market spreads, especially at short maturities. As a result we will keep the model simple by assuming a piecewise flat structure, although we note that the generalization to a linear scheme is actually fairly straightforward.  

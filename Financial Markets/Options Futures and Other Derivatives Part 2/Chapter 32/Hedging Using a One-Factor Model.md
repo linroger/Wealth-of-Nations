@@ -57,7 +57,7 @@ the DerivaGem software with 10 time steps to answer the following questions:.
 
 (a) Option is European; normal model with. $\sigma=0.01$ and $a=0.05$ (b) Option is European; lognormal model with $\sigma=0.15$ and $a=0.05$ (c) Option is American; normal model with. $\sigma=0.01$ and $a=0.05$ (d) Option is American; lognormal model with $\sigma=0.15$ and $a=0.05$  
 
-![](images/211a9be27deb03c073e4657e1d495db1fbe8611ee052db309898205341fd588c.jpg)  
+![](211a9be27deb03c073e4657e1d495db1fbe8611ee052db309898205341fd588c.jpg)  
 
 # Modeling Forward Rates  
 

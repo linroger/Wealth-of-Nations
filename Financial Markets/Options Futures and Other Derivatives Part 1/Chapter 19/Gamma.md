@@ -8,7 +8,7 @@ $$
 
 If gamma is small, delta changes slowly, and adjustments to keep a portfolio delta. neutral need to be made only relatively infrequently. However, if gamma is highly. negative or highly positive, delta is very sensitive to the price of the underlying asset. It is then quite risky to leave a delta-neutral portfolio unchanged for any length of time. Figure 19.7 illustrates this point. When the stock price moves from $S$ to $S^{\prime}$ , delta hedging assumes that the option price moves from $C$ to $C^{\prime}$ , when in fact it moves from $C$ to $C^{\prime\prime}$ . The difference between $C^{\prime}$ and $C^{\prime\prime}$ leads to a hedging error. The size of the error depends on the curvature of the relationship between the option price and the. stock price. Gamma measures this curvature.  
 
-![](images/044304f1752b6d4dd9e57ff86c4344e37e4aec07739f848f173513a98c31f707.jpg)  
+![](044304f1752b6d4dd9e57ff86c4344e37e4aec07739f848f173513a98c31f707.jpg)  
 Figure 19.7 Hedging error introduced by nonlinearity.  
 
 Suppose that $\Delta S$ is the price change of an underlying asset during a small interval of time, $\Delta t$ and $\Delta\Pi$ is the corresponding price change in the portfolio. The appendix at the end of this chapter shows that, if terms of order higher than $\Delta t$ are ignored,  
@@ -35,7 +35,7 @@ $$
 
 Hence, the position in the traded option necessary to make the portfolio gamma neutral is $-\Gamma/\Gamma_{T}.$ Including the traded option is likely to change the delta of the portfolio, so the position in the underlying asset then has to be changed to maintain delta neutrality.  
 
-![](images/545018350e3a9b110feb5f9a94294751ee3cdf0853d3e9d6943341dd24ec7945.jpg)  
+![](545018350e3a9b110feb5f9a94294751ee3cdf0853d3e9d6943341dd24ec7945.jpg)  
 Figure 19.8Relationship between $\Delta\Pi$ and $\Delta S$ in time $\Delta t$ for a delta-neutral portfolio with (a) slightly positive gamma, (b) large positive gamma, (c) slightly negative gamma, and (d) large negative gamma.  
 
 Note that the portfolio is gamma neutral only for a short period of time. As time passes, gamma neutrality can be maintained only if the position in the traded option is adjusted so that it is always equal to $-\Gamma/\Gamma_{T}$  
@@ -70,8 +70,8 @@ $$
 
 When the stock price changes by $\Delta S$ , the delta of the option changes by 0.066S.  
 
-![](images/0ef151b447fa5f37675228b28a939e4204fd5c760282194a2536b377ed681a58.jpg)  
+![](0ef151b447fa5f37675228b28a939e4204fd5c760282194a2536b377ed681a58.jpg)  
 Figure 19.9  Variation of gamma with stock price for an option $(K=50,r=0$ $\sigma=25\%$ $T=2$  
 
-![](images/182bee1a44e810252327d178c00c4d9db52000e1e5c37a0fe1ee9f47724810fd.jpg)  
+![](182bee1a44e810252327d178c00c4d9db52000e1e5c37a0fe1ee9f47724810fd.jpg)  
 Figure 19.10 Variation of gamma with time to maturity for a stock option $(S_{0}=50$ $r=0,\sigma=25\%$  

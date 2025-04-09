@@ -14,7 +14,7 @@ At the time of the trade, the stock traded at roughly UsD1874.6. Volatilities we
 
 (Based on an article in Derivatives Week (now part of GlobalCapital)  
 
-![](images/a93fc4ac3f99a237898bf9e3a473037328ce8f19f43ec41c9b41b2d499cebb24.jpg)  
+![](a93fc4ac3f99a237898bf9e3a473037328ce8f19f43ec41c9b41b2d499cebb24.jpg)  
 
 # FIGURE 11.11  
 
@@ -34,7 +34,7 @@ Note that the breakeven points are set according to $4\%$ movements toward eithe
 
 According to this, the client who takes this position expects the realized volatility to be significantly less than the $7.5\%$ quoted by the market. In fact, the client expects volatility to be somewhat less than $4\%$  
 
-![](images/fc33355a46a92e5fe057105c1e99f66314cb7b1191018111d030db61a3f70655.jpg)  
+![](fc33355a46a92e5fe057105c1e99f66314cb7b1191018111d030db61a3f70655.jpg)  
 
 # FIGURE 11.12  
 
@@ -80,13 +80,13 @@ It is worthwhile to emphasize that the strangle or straddle positions discussed 
 
 Note a major difference between the static and dynamic approaches. Suppose we take a static straddle position, and $S_{t}$ fluctuates by small amounts very frequently and never leaves the region $[S_{1},S_{2}]$ shown in Figure 11.14. Then, the static position will lose money, while the dynamic deltahedged position may make money, depending on the size and frequency of oscillations in $S_{t}.$  
 
-![](images/e8d440c6bc8d5094bd4f4001ce1b5a24d509c4846fcfc042a458a78a44c85a95.jpg)  
+![](e8d440c6bc8d5094bd4f4001ce1b5a24d509c4846fcfc042a458a78a44c85a95.jpg)  
 
 # FIGURE 11.13  
 
 Expiration payoff and time value of a long straddle.  
 
-![](images/7539f1069858237a65df4f538f15ec1087bfb06ed121c52eac37032c1c2ec3d2.jpg)  
+![](7539f1069858237a65df4f538f15ec1087bfb06ed121c52eac37032c1c2ec3d2.jpg)  
 
 # FIGURE 11.14  
 
@@ -100,7 +100,7 @@ This equation immediately suggests one objective behind butterflies. By selling 
 
 Short butterfly. $=$ Short ATM straddle $+$ Long $k\%$ out-of-the-money strangle  
 
-![](images/5f3128a993b183db5e762f54e47c883b2e74408413560eb10dc83bec9aea4a6d.jpg)  
+![](5f3128a993b183db5e762f54e47c883b2e74408413560eb10dc83bec9aea4a6d.jpg)  
 
 # FIGURE 11.15  
 

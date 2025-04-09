@@ -60,10 +60,10 @@ To summarize, there are two reasons an American call on a non-dividend-paying. s
 
 Because American call options are never exercised early when there are no dividends, they are equivalent to European call options, so that $C=c$ . From equations (11.1)  
 
-![](images/be879285b8c4540f960cafa7d5af421fecdc8e03f9aef7185542299963e6afe7.jpg)  
+![](be879285b8c4540f960cafa7d5af421fecdc8e03f9aef7185542299963e6afe7.jpg)  
 Figure 11.3 Bounds for European and American call options when there are no dividends.  
 
-![](images/c4152b3627440ea0a445fccbee93217a5c4690d3b8b2560d909d0b5b3a12a377.jpg)  
+![](c4152b3627440ea0a445fccbee93217a5c4690d3b8b2560d909d0b5b3a12a377.jpg)  
 Figure 11.4  Variation of price of an American or European call option on a non-. dividend-paying stock with the stock price. Curve moves in the direction of the arrows when there is an increase in the interest rate, time to maturity, or stock price volatility..  
 
 and (11.4), it follows that lower and upper bounds for both $c$ and $C$ are given by  

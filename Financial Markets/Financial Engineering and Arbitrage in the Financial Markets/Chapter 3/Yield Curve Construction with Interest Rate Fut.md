@@ -107,7 +107,7 @@ Once we have computed all the discount factors, we can recover discount rates ac
 
 The yield curve for 520 days, as of October 25, 2001, is shown in Figure 3.2.  
 
-![](images/6e5d8518460cc444367db5df8e0ff1d4242a9ed5b7b5319f2d700973b7be1caa.jpg)  
+![](6e5d8518460cc444367db5df8e0ff1d4242a9ed5b7b5319f2d700973b7be1caa.jpg)  
 Figure 3.2 The zero-coupon curve  
 
 Since the discount factors are today's prices of future dollars, pricing fixed income securities is trivial. Suppose we are offered a structured note paying $\$3,500$ twice, 182 days from today and 365 days from today plus the principal of $\$100,000$ How much do we pay for it?  

@@ -99,7 +99,7 @@ What arbitrage opportunity is there in this situation? What arbitrage opportunit
 25.29. In Example 25.2, what is the tranche spread for the $6\%$ to $9\%$ tranche assuming a tranche correlation of 0.15?   
 25.30. Table 25.6 shows the 5-year iTraxx index was 77 basis points on January 31, 2008. Assume the risk-free rate is $5\%$ for all maturities, the recovery rate is. $40\%$ , and payments are quarterly. Assume also that the spread of 77 basis points applies to all maturities. Use the DerivaGem CDS worksheet to calculate a hazard rate consistent with the spread. Use this in the CDO worksheet with 10 integration points to imply base. correlations for each tranche from the quotes for January 31, 2008..  
 
-![](images/75fb9e1b4b107455cf93261456eb5ebe61b97a478e5a419397c2a509065ad9b7.jpg)  
+![](75fb9e1b4b107455cf93261456eb5ebe61b97a478e5a419397c2a509065ad9b7.jpg)  
 
 # Exotic Options  
 

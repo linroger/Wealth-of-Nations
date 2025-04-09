@@ -14,7 +14,7 @@ One approach to overcoming this problem is to:
 
 Another approach is to ensure that nodes lie on the barrier. Suppose that the initial stock price is $S_{0}$ and that the barrier is at $H.$ In a trinomial tree, there are three possible.  
 
-![](images/16bdd77e093809f71785fbf21126df1b1130a439f018a96ee49440561e191cf8.jpg)  
+![](16bdd77e093809f71785fbf21126df1b1130a439f018a96ee49440561e191cf8.jpg)  
 Figure 27.4 Barriers assumed by trinomial trees.  
 
 movements in the asset's price at each node: up by a proportional amount $u$ ; stay the same; and down by a proportional amount $d$ , where $d=1/u$ . We can always choose $u$ so that nodes lie on the barrier. The condition that must be satisfied by $u$ is  
@@ -47,7 +47,7 @@ and $\operatorname{int}(x)$ is the integral part of $x$
 
 This leads to a tree of the form shown in Figure 27.5. The probabilities $p_{u},p_{m}$ and $p_{d}$ on the upper, middle, and lower branches of the tree are chosen to match the first  
 
-![](images/1d0d9ff515bea1c2547396ec70e505b52b06abf5e30d52dab9beb4949938e880.jpg)  
+![](1d0d9ff515bea1c2547396ec70e505b52b06abf5e30d52dab9beb4949938e880.jpg)  
 Figure 27.5 Tree with nodes lying on barrier.  
 
 two moments of the return, so that  

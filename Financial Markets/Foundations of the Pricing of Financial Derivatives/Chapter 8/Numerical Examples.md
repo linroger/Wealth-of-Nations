@@ -34,10 +34,10 @@ $$
 
 Note that from Equations (8.3) and (8.7), the put-call parity relationship for delta and gamma hold. The tree for the more precise method is as shown in Figure 8.4: The positioning of this tree in the context of time merits an explanation. The current state is the middle position of time 2 where the asset is at 100 and the call is at 25.34.10 In general terms, the current state is where the asset price is $S_{u d}$ . To obtain the states above and below, where the asset price is $S_{u^{2}}$ and $S_{d^{2}}$ , we have to back up and generate states $S_{u}$ and $S_{d}$ and then back up to generate S. Once we have this information, we can generate the prices $S_{u^{2}}$ and $S_{d^{2}}$ . The option still expires in two years, and with two periods, each time step is one year. It is important to understand that the time steps before the current step, time 2, are artificial. They do not imply a past history. And in general, $S_{u d}$ does not have to equal
 
-![](images/9af3da2495acc7a2c188491f6ae8e47d4d6b58987bb7bdfc315d2002d0b5b08b.jpg)
+![](9af3da2495acc7a2c188491f6ae8e47d4d6b58987bb7bdfc315d2002d0b5b08b.jpg)
 FIGURE 8.3 Standard Binomial Greeks Example
 
-![](images/c3d91e8b12b4217aec65cca63bf788288f316c307ce6f70652a5531b1506bc5f.jpg)
+![](c3d91e8b12b4217aec65cca63bf788288f316c307ce6f70652a5531b1506bc5f.jpg)
 FIGURE 8.4 Expanded Binomial Tree Example
 
 TABLE 8.1 Prices, Deltas, Gammas, and Thetas from Standard Binomial (500 Time Steps), Expanded Binomial, and Black-Scholes-Merton Models.

@@ -5,7 +5,7 @@ and ser
 as diffe
 edge fr In
 
-![](images/bb233d5f2e25152da2db56a196d30b325b59bb57b1267f2b5ac64567657212db.jpg)
+![](bb233d5f2e25152da2db56a196d30b325b59bb57b1267f2b5ac64567657212db.jpg)
 
 # Elementary Review of Probability for Finance
 

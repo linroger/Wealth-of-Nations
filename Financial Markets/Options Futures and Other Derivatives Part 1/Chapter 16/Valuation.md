@@ -22,7 +22,7 @@ Suppose a company grants stock options that last 8 years and vest after 3 years.
 
 At each node: Upper value $=$ Underlying asset price. Lower value $=$ Option price Values in bold are a result of early exercise.  
 
-![](images/e6a8a1feb194e72d05ca58d3aa727a62c4e78403753b98010c5ca0518670b33e.jpg)  
+![](e6a8a1feb194e72d05ca58d3aa727a62c4e78403753b98010c5ca0518670b33e.jpg)  
 Figure 16.1 Valuation of employee stock option in Example 16.2.  
 
 The value of the option at the final nodes is its intrinsic value. Consider the nodes at time 6 years. Nodes I and J are easy. Since these nodes are certain to lead to nodes where the option is worth nothing, the value of the option is zero at these nodes. At node $_\mathrm{H}$ there is a $30\%$ chance that the employee will choose to exercise the option. In cases where the employee does not choose to exercise, there is a $5\%$ chance that the employee leaves the company and has to exercise. The total probability of exercise is therefore $0.3+0.7\times0.05=0.335.$ If the option is exercised, its value is $61.14-40=21.14.$ If it is not exercised, its value is  

@@ -4,7 +4,7 @@ Tickets sold by national lotteries around the world are bets on sets of numbers.
 
 Most options sold in financial markets work a little differently. There is also the right and the wrong guess, but, the person who bets is right, the "more right' he is the more he gets.  
 
-![](images/48ebe88890837c0b94bd80ec563315212655a0e8b07c49f4e092820fad5adb30.jpg)  
+![](48ebe88890837c0b94bd80ec563315212655a0e8b07c49f4e092820fad5adb30.jpg)  
 Figure 5.1 Payoff on a call and a put at expiry. $K=\mathrm{S}$ trike price; $S={\mathrm{Spot}}$ price at expiry  
 
 A call option on a price of an asset (e.g. stock) pays on the expiry date the greater of zero and the difference between the asset's price and a prespecified strike price (bet level). If we think that the price of ABC will go over $\$60$ per share, we buy a call struck at 60. If the price on the expiry date is 67, we get $\$7$ ; if the price is 74, we get $\$14$ . If the price ends up below 60, whether at 40 or 50, we get nothing. A put option on a price of an asset pays on the expiry date the greater of zero and the difference between a prespecified strike price and that asset's price. If we want to bet that the price of ABC will go under $\$60$ per share, we buy a put struck at 60. If the price on the expiry date is 47, we get $\$13$ ; if the price is 54, we get $\$6$ If the price is above 60, whether at 65 or 80, we get nothing. We graph the payoff that the buyer of the option (bet) gets as a function of the underlying asset's price in the following payoff diagrams in Figure 5.1.  

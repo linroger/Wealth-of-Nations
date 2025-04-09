@@ -4,7 +4,7 @@ As we saw in the introductory chapter, volatility trading is made possible in th
 
 We will encounter several other convex instruments, including options, in later chapters but one. of the simplest convex instruments is a default-free bond. A bond's price is a nonlinear function of its yield. This is shown in Figure 3.15.24 The solid line represents the price-yield relationship for a.  
 
-![](images/af2cd5fe1b2e6beb07fe4d5c18bb1b7ac1eb654f9ca33b489ac20d5d1e51f4b6.jpg)  
+![](af2cd5fe1b2e6beb07fe4d5c18bb1b7ac1eb654f9ca33b489ac20d5d1e51f4b6.jpg)  
 
 # FIGURE 3.15  
 
@@ -84,7 +84,7 @@ The above equation nicely illustrates that duration is linked to the average tim
 
 Figure 3.16 presents a real-world example of risk measures for a fixed income security. It shows a screenshot from Bloomberg on June 16, 2014 for the T $2{\frac{1}{2}}$ 05/15/24, that is the 10-year Treasury note with a $2.5\%$ fixed coupon, a $\$1\mathrm{m}$ face value and a maturity of May 5, 2024. The Dv01 at the current yield level of $2.59\%$ is 865 and the modified duration is 8.701.  
 
-![](images/5834836f36f526228b354da57cfe9709be2da0db010e95ed07262b0375847e2a.jpg)  
+![](5834836f36f526228b354da57cfe9709be2da0db010e95ed07262b0375847e2a.jpg)  
 
 Ten-year Treasury note with $2.5\%$ fixed coupon.  
 

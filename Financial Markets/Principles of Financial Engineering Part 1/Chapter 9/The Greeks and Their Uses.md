@@ -28,7 +28,7 @@ To get some intuition on this, remember that the price curve for a long call has
 
 At point $C$ , the slope, and hence, the delta is close to 0, since the curve is approaching the horizontal axis as $S_{t}$ falls. At point $B$ , the delta is close to 1, since the curve is approaching a line with slope. $+1$ At point $A$ , the delta is in the "middle," and the slope of the tangent is between O and 1..  
 
-![](images/4133932cbc663f4ece954559fa4c2682294e12b12a8dece3791886868ecc2bc8.jpg)  
+![](4133932cbc663f4ece954559fa4c2682294e12b12a8dece3791886868ecc2bc8.jpg)  
 
 # FIGURE 9.9  
 
@@ -68,7 +68,7 @@ $$
 
 decreases the delta. The effect of volatility changes is more ambiguous and depends on the moneyness of the option.  
 
-![](images/4f4d55a3a9747cd5b0d52758605add51faec62de738626a1b5839e73943f3bb8.jpg)  
+![](4f4d55a3a9747cd5b0d52758605add51faec62de738626a1b5839e73943f3bb8.jpg)  
 
 # FIGURE 9.10  
 
@@ -115,7 +115,7 @@ We now point out to some questionable assumptions used in our example. First, in
 
 Gamma represents the rate of change of the delta as the underlying risk $S_{t}$ changes. Changes in delta were seen to play a fundamental role in determining the price of a vanilla option. Hence,  
 
-![](images/c8afb33e58cd9d14c313452a0ebe03fbec3e8bbd78f71f79107a9a6a6dc7aaa7.jpg)  
+![](c8afb33e58cd9d14c313452a0ebe03fbec3e8bbd78f71f79107a9a6a6dc7aaa7.jpg)  
 
 # FIGURE 9.11  
 
@@ -216,7 +216,7 @@ We can make the following comments:
 1. ATM options have the largest values of vega.   
 2. As implied volatility increases, the ATM vega changes marginally, whereas the out-of-. the-money and in-the-money option vegas do change, and in the same direction.  
 
-![](images/c73286bf086b6df5b54b01087cff652a89ebcd253871d907212d8db45e0e6172.jpg)  
+![](c73286bf086b6df5b54b01087cff652a89ebcd253871d907212d8db45e0e6172.jpg)  
 
 # FIGURE 9.12  
 
@@ -248,7 +248,7 @@ $$
 \mathrm{theta}=\frac{\partial C(S_{t},t\mid r,\sigma,T,K}{\partial t}
 $$  
 
-![](images/4ca65dc9f58ed6531298170c1d117a747e833e45e39142c6b1c6fbf16dfe95e2.jpg)  
+![](4ca65dc9f58ed6531298170c1d117a747e833e45e39142c6b1c6fbf16dfe95e2.jpg)  
 
 # FIGURE 9.13  
 

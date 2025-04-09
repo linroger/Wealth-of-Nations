@@ -16,7 +16,7 @@ The probability mass curve in the graph is not the normal bell-curve but rather 
 
 The inclusion of price volatility in arriving at the value of the option was implicit in our. binomial trees where the width of each branch depended on the variability of the stock. But, it is easy to show that if, in a binomial model with a time step of $\Delta t$ , we set  
 
-![](images/4fdf4579192afe024988e04f70f96217f5ebcf7f7129974065d696e3f04569a9.jpg)  
+![](4fdf4579192afe024988e04f70f96217f5ebcf7f7129974065d696e3f04569a9.jpg)  
 Figure 5.25  
 
 $$

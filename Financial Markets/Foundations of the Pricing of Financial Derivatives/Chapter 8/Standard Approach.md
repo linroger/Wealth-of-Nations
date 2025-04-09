@@ -14,7 +14,7 @@ $$
 
 where $P V(X)$ denotes the present value of $X$ In this and future chapters the interest rate. quotation convention, such as different ways of discrete compounding and even continuous compounding, can vary. Hence, for convenience, we will simply rely on a generic present value function. PCP is based on static arbitrage transactions. Therefore, put-call parity should hold with any model for option pricing. Thus, we will rely on the linkage between puts and calls whenever convenient..
 
-![](images/92509b192310996d9418a900f411d32f2b5bddc4448bcca7b867ec338be16164.jpg)
+![](92509b192310996d9418a900f411d32f2b5bddc4448bcca7b867ec338be16164.jpg)
 FIGURE 8.1 The Binomial Model (Two Periods)
 
 # 8.1.1 Delta

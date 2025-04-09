@@ -74,7 +74,7 @@ Closing pricee Number of shares predividend Closing price  \$3.00
 "Closing Price" means the official NASDAQ closing price of a share of Microsoft common.   
 stock on the last trading day before the ex-dividend date. Evaluate this adjustment.  
 
-![](images/bed7f75bfa40f833d7bb93f62f206e29392ecbf61b60733bf5b671ae6dce3195.jpg)  
+![](bed7f75bfa40f833d7bb93f62f206e29392ecbf61b60733bf5b671ae6dce3195.jpg)  
 
 # Properties of Stock Options  
 

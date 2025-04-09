@@ -12,7 +12,7 @@ In this section, we will obtain a contractual equation for a currency forward. I
 
 we can write the equivalence between the related synthetic and the original instrument as a contractual equation that can conveniently be exploited in practice. In fact, the synthetic using the money market involved three contractual deals that can be summarized by the following contractual equation:  
 
-![](images/5eacf51ce76fd3f547ae5d6dbcb6ea12dfdd9c9b876f33c2d88045ae287169a6.jpg)  
+![](5eacf51ce76fd3f547ae5d6dbcb6ea12dfdd9c9b876f33c2d88045ae287169a6.jpg)  
 
 This operation can be applied to any two currencies to yield the corresponding FX forward.  
 

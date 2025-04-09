@@ -13,7 +13,7 @@ TABLE 14.4 Average Five-Year Default Rates, Senior Unsecured Bond Recovery. Rate
 
 Source: Moody's Investors Service  
 
-![](images/7100c4ab25220fd7e141b7f626c1effd82004d80b78cdc53da82fff4a6441a51.jpg)  
+![](7100c4ab25220fd7e141b7f626c1effd82004d80b78cdc53da82fff4a6441a51.jpg)  
 FIGURE 14.1 Credit Losses for Senior Unsecured Bonds, 1983-2020. Source: Moody's Investors Service.  
 
 Table 14.4 and Figure 14.1 report credit losses for senior unsecured bonds. Investment outcomes vary significantly, however, across loans and bonds of different seniority. Over the same sample period as in the table and figure, Moody's reports that bond recovery rates were $22\%$ for junior sub-. ordinated; $38\%$ for senior unsecured; and $54\%$ for first lien (i.e., the highest priority secured claim). For bank loans, average recovery rates were $46\%$ for senior unsecured; $65\%$ for first lien; and. $32\%$ for second lien..  

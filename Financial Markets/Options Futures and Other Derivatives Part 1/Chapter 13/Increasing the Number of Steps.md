@@ -2,7 +2,7 @@
 
 The binomial model presented above is unrealistically simple. Clearly, an analyst can. expect to obtain only a very rough approximation to an option price by assuming that stock price movements during the life of the option consist of one or two binomial steps.  
 
-![](images/0610470e46a9d59ac8a0a0005a6bfbec7333f552204554c853930e63a2a1823d.jpg)  
+![](0610470e46a9d59ac8a0a0005a6bfbec7333f552204554c853930e63a2a1823d.jpg)  
 Figure 13.10 Two-step tree to value a 2-year American put option when the stock price is 50, strike price is 52, risk-free rate is. $5\%$ , and volatility is $30\%$  
 
 When binomial trees are used in practice, the life of the option is typically divided. into 30 or more time steps. In each time step there is a binomial stock price movement. With 30 time steps there are 31 terminal stock prices and $2^{30}$ , or about 1 billion, possible stock price paths are implicitly considered..  

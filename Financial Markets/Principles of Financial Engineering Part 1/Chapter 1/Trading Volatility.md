@@ -4,7 +4,7 @@ Practitioners or investors can take positions on expectations concerning the pri
 
 In order to discuss volatility trading, we need to introduce the notion of convexity gains.. We start with a forward contract. Let us stay within the framework of the previous section and  
 
-![](images/eac3325fd4b63df3f354c75daa5be720387519100895602fd2acf22f216ce722.jpg)  
+![](eac3325fd4b63df3f354c75daa5be720387519100895602fd2acf22f216ce722.jpg)  
 
 # FIGURE 1.12  
 
@@ -28,13 +28,13 @@ exist at all points.
 
 Finally, suppose this payoff function has the additional property that as time passes the function changes shape. In fact as expiration time $T$ approaches, the curve becomes a (piecewise) straight line just like the forward contract payoff. This is shown in Figure 1.14.  
 
-![](images/f0b90516260d902f61cef595a5a6460582ebff26a0a14ebdaf86d6ef088dcd63.jpg)  
+![](f0b90516260d902f61cef595a5a6460582ebff26a0a14ebdaf86d6ef088dcd63.jpg)  
 
 # FIGURE 1.13  
 
 Payoff function of a nonlinear (convex) instrument.  
 
-![](images/9dbf3524151c8b4401c9de259a194544b6080c4d1c009d89a371f141b50d9c2e.jpg)  
+![](9dbf3524151c8b4401c9de259a194544b6080c4d1c009d89a371f141b50d9c2e.jpg)  
 
 # FIGURE 1.14  
 
@@ -59,7 +59,7 @@ Simultaneously, we sell. $D_{0}$ units of the forward contract. $F_{t_{0}}$ . No
 
 Finally, as time passes, we recalculate the tangent $D_{i}$ of that period and adjust the forward sale accordingly. For example, if the slope has increased, sell $D_{i}-D_{i-1}$ units more of the forward  
 
-![](images/4c6c983a7c2f78e95ebdb6e564b22cbc4881259cee1aa3add26a61bdf6714c58.jpg)  
+![](4c6c983a7c2f78e95ebdb6e564b22cbc4881259cee1aa3add26a61bdf6714c58.jpg)  
 
 Ignore the movement of the curve, assumed small Note that as the curve moves down slope changes  
 

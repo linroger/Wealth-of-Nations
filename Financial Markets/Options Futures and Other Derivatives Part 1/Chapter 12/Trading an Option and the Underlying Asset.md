@@ -8,7 +8,7 @@ In Figure 12.1a, the portfolio consists of a long position in a stock plus a sho
 
 The profit patterns in Figures 12.1a, b, c, and d have the same general shape as the. profit patterns discussed in Chapter 10 for short put, long put, long call, and short call, respectively. Put-call parity provides a way of understanding why this is so. From Chapter 11, the put-call parity relationship is.  
 
-![](images/03a93cacbf9c725ddbbec713441bcbf4463bfcfb64bd4a81d125c7bb79c8e57d.jpg)  
+![](03a93cacbf9c725ddbbec713441bcbf4463bfcfb64bd4a81d125c7bb79c8e57d.jpg)  
 Figure 12.1  Profit patterns (a) long position in a stock combined with short position in a call; (b) short position in a stock combined with long position in a call; (c) long position in a put combined with long position in a stock; (d) short position in a put combined with short position in a stock.  
 
 $$

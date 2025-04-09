@@ -18,5 +18,5 @@ A trade involving options on the S&P 500 is a bet on the future level of the S&P
 
 VIX monitors the volatility of the S&P 500. The CBOE publishes a range of other volatility indices. These are on other stock indices, commodity indices, interest rates, currencies, and some individual stocks (for example, Amazon and Goldman Sachs). There is even a volatility index of the VIX index (VVIX).  
 
-![](images/ec90d82cc34c1b3396dc205f0ac62039ead1a4e335c6e61eed922b86c2db23b4.jpg)  
+![](ec90d82cc34c1b3396dc205f0ac62039ead1a4e335c6e61eed922b86c2db23b4.jpg)  
 Figure 15.4 The VIX index, January 2004 to June 2020.  

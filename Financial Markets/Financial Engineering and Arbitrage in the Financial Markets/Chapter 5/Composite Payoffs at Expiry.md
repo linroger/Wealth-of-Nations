@@ -14,7 +14,7 @@ Next, suppose that we believe that on the expiry date the price of ABC is going 
 
 The payoffs on the long 55-65 strangle and short 60-65 strangle are shown in Figure 5.2.  
 
-![](images/73ddbfa0ce621568cf1e3d553f7b0b55f22798189b837eb185bec00e353052d5.jpg)  
+![](73ddbfa0ce621568cf1e3d553f7b0b55f22798189b837eb185bec00e353052d5.jpg)  
 Figure 5.2 Strangle payoffs at expiry  
 
 A strangle where the call strike and the put strike are the same is called a straddle. Short. straddles and strangles are bets that the price will not fluctuate much from some level. Long. strangles and straddles are bets that the price will move away from the anticipated level.  
@@ -33,7 +33,7 @@ The payoffs on the long 65-80 call spread and long 55-35 put spread are shown in
 
 We can package puts and calls into other combinations. If we sell a low strike put and buy a. high strike call, we will have no payout over a wide intermediate range of prices (but perhaps a net premium received); we will benefit on the upside, and pay out on the downside. This is called a reverse collar.  
 
-![](images/53e444281d61ad8942960e2fe2094368075d8618734687e45fddafeb18576e68.jpg)  
+![](53e444281d61ad8942960e2fe2094368075d8618734687e45fddafeb18576e68.jpg)  
 Figure 5.3 Spread payoffs at expiry  
 
 Options can also be combined to form calendar spreads. In this case, we buy an option with one expiry date and sell an option with the same (or different) strike, but with a different expiry date. For example, if we believe that ABC's price might first go up but then come down, we can buy a call with short maturity and sell one with a longer maturity. Or if we believe that neither option will ever pay, we may want to sell the more expensive (longer) one and buy the cheaper (shorter) one to pocket the difference.  
@@ -50,10 +50,10 @@ We can also combine a put with a long stock position to obtain protection agains
 
 Options can help with investment timing decisions. Suppose we researched ABC's stock and consider it to be a solid long-term investment. Based on our analysis, we would like to buy.  
 
-![](images/7030cc897df1caf7c7fddbe12aff437a8d2539fa3cb871c0d7ef7a2a0e054d9d.jpg)  
+![](7030cc897df1caf7c7fddbe12aff437a8d2539fa3cb871c0d7ef7a2a0e054d9d.jpg)  
 Figure 5.4Buy-write payoffs at expiry (stock at 60)  
 
-![](images/e7eacc546941799a707e66738274e58bbfd7c286572c14b82c8d5953a94ac498.jpg)  
+![](e7eacc546941799a707e66738274e58bbfd7c286572c14b82c8d5953a94ac498.jpg)  
 Figure 5.5 Payoffs on put-protected stock at expiry (stock at 60)  
 
 it at 56 or below, but the price has run up to 60. The stock is highly volatile in the short run. Suppose we sell (write) a 60 put for 5. If the stock continues to go up, at least we collected 5; we have to chase it up, but at least we enjoy a defrayment of cost. If the stock goes down to 57, we will be exercised against, having to pay 3. Our net profit is 2 and we can use it to buy the stock, effectively paying 55. If the stock goes down even further to 50, we pay out 10. This leaves us with a loss of 5, but we can buy the stock for 50, effectively paying 55.  
@@ -64,8 +64,8 @@ The payoffs on a 50 put-protected stock and a long 40-50 put spread protected st
 
 Over the counter, one can purchase options with fixed monetary payoffs. Suppose we pay 3 to get 20 if ABC's stock goes to or above 70. Or, we pay 2 to get 20 if ABC's stock goes down to 50 but not below 40. The payoffs on these two options are shown in Figure 5.6. Binary options are more common with interest rates where a version of them is called a range.  
 
-![](images/b3a544a263484b0db5e6a5f0e093bd9043664445dd9e37239b521c94740b6a79.jpg)  
+![](b3a544a263484b0db5e6a5f0e093bd9043664445dd9e37239b521c94740b6a79.jpg)  
 Figure 5.6 Payoffs on binary options at expiry (stock at 60)  
 
-![](images/9ffa686dd038a337b3ff4e15b7b00cf1076b14889e841b3768de4baa8839a8c0.jpg)  
+![](9ffa686dd038a337b3ff4e15b7b00cf1076b14889e841b3768de4baa8839a8c0.jpg)  
 Figure 5.7Value on a call and a put prior to expiry. $K={\mathfrak{S}}$ trike Price; $S=S$ top Price now  

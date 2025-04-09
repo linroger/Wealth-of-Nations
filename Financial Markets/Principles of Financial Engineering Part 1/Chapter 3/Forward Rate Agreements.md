@@ -20,7 +20,7 @@ Thus, the joint use of a forward loan, and a spot deposit to be made in the futu
 
 # FIGURE 3.14  
 
-![](images/7816ab9155aaaf53a074a4dd57f42f447791037bef99270512e217b1166c65cd.jpg)  
+![](7816ab9155aaaf53a074a4dd57f42f447791037bef99270512e217b1166c65cd.jpg)  
 
 A synthetic FRA.  
 
@@ -81,11 +81,11 @@ Note one important interpretation. An FRA contract can be visualized as an excha
 
 We can immediately obtain a synthetic FRA using the ideas displayed in Figure 3.14. Figure 3.14 displays a swap of a fixed-rate loan of size $N$ , against a floating-rate loan of the same size. Thus, we can write the contractual equation  
 
-![](images/d15330324c48d13395276204eab0d0bb5c8e586b8c5a809dca1979378943f8da.jpg)  
+![](d15330324c48d13395276204eab0d0bb5c8e586b8c5a809dca1979378943f8da.jpg)  
 
 It is clear from the construction in Figure 3.14 that the FRA contract eliminates the credit risk associated with the principals-since the two N's will cancel out-but leaves behind the exchange. of interest rate risk. In fact, we can push this construction further by "plugging in' the contractual. equation for the fixed rate forward loan obtained in formula (3.33) and get.  
 
-![](images/3dfe28c6c54f4dec98a386753feb70b4d67eaa566f903fcd6207f495b39d9093.jpg)  
+![](3dfe28c6c54f4dec98a386753feb70b4d67eaa566f903fcd6207f495b39d9093.jpg)  
 
 This contractual equation can then be exploited to create new synthetics. One example is the use of FRA strips.  
 

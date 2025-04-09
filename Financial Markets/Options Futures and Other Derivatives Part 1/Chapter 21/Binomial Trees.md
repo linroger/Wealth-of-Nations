@@ -7,7 +7,7 @@ trees are therefore most useful for valuing these types of options.?.
 
 As explained in Chapter 13, the binomial tree valuation approach involves dividing the life of the option into a large number of small time intervals of length. $\Delta t.$ It assumes that in each time interval the price of the underlying asset moves from its initial value of $S$ to one of two new values, $S u$ and $S d$ . The approach is illustrated in Figure 21.1. In.  
 
-![](images/52bda97399bdf86872fe287a665134eec639336fdc1c41cd21448a7fa11bef4f.jpg)  
+![](52bda97399bdf86872fe287a665134eec639336fdc1c41cd21448a7fa11bef4f.jpg)  
 Figure 21.1 Asset price movements in time $\Delta t$ under the binomial model..  
 
 general, $u>1$ and $d<1$ The movement from $S$ to $S u$ , therefore, is an "up" movement and the movement from $S$ to $S d$ is a "down" movement. The probability of an up movement will be denoted by $p$ . The probability of a down movement is $1-p$  
@@ -88,7 +88,7 @@ Note that the relationship $u=1/d$ is used in computing the asset price at each 
 
 Options are evaluated by starting at the end of the tree (time $T$ ) and working backward. This is known as backward induction. The value of the option is known at time $T$ For example, aput optionis worth max $(K-S_{T},0)$ and a call optionis worth max $(S_{T}-K,0)$  
 
-![](images/7727d870d0315d270f9acfae1458a50fab68d53f19c73408bc85275a2bd04fc6.jpg)  
+![](7727d870d0315d270f9acfae1458a50fab68d53f19c73408bc85275a2bd04fc6.jpg)  
 Figure 21.2 Tree used to value an option.  
 
 where $S_{T}$ is the asset price at time $T$ and $K$ is the strike price. Because a risk-neutral world is being assumed, the value at each node at time $T-\Delta t$ can be calculated as the expected value at time $T$ discounted at rate $r$ for a time period $\Delta t.$ Similarly, the value at each node at time $T-2\Delta t$ can be calculated as the expected value at time $T-\Delta t$ discounted for a time period $\Delta t$ at rate $r$ , and so on. If the option is American, it is necessary to check at each node to see whether early exercise is preferable to holding the option for a further time period $\Delta t.$ Eventually, by working back through all the nodes, we are able to obtain the value of the option at time zero.  
@@ -109,7 +109,7 @@ Figure 21.3 shows the binomial tree produced by DerivaGem. At each node there. a
 
 At each node:. Upper value $=$ Underlying Asset Price. Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/3be445d930c4a0221b544e55a56fe950cdcc8c07c404039c7952691c3e3e5856.jpg)  
+![](3be445d930c4a0221b544e55a56fe950cdcc8c07c404039c7952691c3e3e5856.jpg)  
 Figure 21.3 Binomial tree from DerivaGem for Americanput on non-dividendpaying stock (Example 21.1).  
 
 The stock price at the jth node $(j=0,1,\ldots,i)$ at time i $\Delta t(i=0,1,\ldots,5)$ is calculated as $\dot{S}_{0}u^{j}d^{i-j}$ For example, the stock price at node A $(i=4,j=1)$ ) (i.e., the second node up at the end of the fourth time step) is $50\times1.1224\times0.8909^{3}=$ $\$39.69$ The option prices at the final nodes are calculated as $\operatorname*{max}(K-S_{T},0)$ . For example, the option price at node G is $50.00-35.36=14.64.$ The option prices at the penultimate nodes are calculated from the option prices at the final nodes. First, we assume no exercise of the option at the nodes. This means that the option price is calculated as the present value of the expected option price one time step later. For example, at node E, the option price is calculated as  
@@ -170,7 +170,7 @@ $$
 
 Note that, because the calculations start at time $T$ and work backward, the value at.  
 
-![](images/50b216fe001ccf28b7abd822ca2272f835d1cd68f2883f2056186d5d429f49b1.jpg)  
+![](50b216fe001ccf28b7abd822ca2272f835d1cd68f2883f2056186d5d429f49b1.jpg)  
 Figure 21.4 Convergence of the price of the option in Example 21.1 calculated from the DerivaGem Application Builder functions.  
 
 time $i~\Delta t$ captures not only the effect of early exercise possibilities at time i $\Delta t$ , but also the effect of early exercise at subsequent times..  

@@ -13,8 +13,8 @@ Equipped with these assumptions, the prices of the bonds in Table 4.1 can be com
 
 Figure 4.2 shows the results of these calculations. The horizontal axis gives changes in the 30-year HQM par rate, and the vertical axis gives corresponding bond prices. Note that each rate change is assumed to be instantaneous; that is, no time passes as the rate changes from its current to its new level. In any case, as expected, prices increase as rates fall and decrease as rates rise. But the figure also shows that the three bonds do not have the same sensitivity to changes in rates. The price of the Treasury 1.625s of 05/15/2026, which has five years remaining to maturity, declines relatively mildly as rates increase; that is, its price is least sensitive to changes in rates. By the same token, the price of the Treasury 1.625s of 11/15/2050, which matures in 29.5 years, is more sensitive to rates, and the NSC century. bond is the most sensitive of all. These differences in price sensitivities are quantified in the next sections as differences in Dv01 or duration. Finally, the figure shows that the five-year Treasury price-rate curve is not far from a line, whereas the price-rate curve of the 29.5-year Treasury, and even more so of the NsC century bond, have noticeable curvature. These differences are quantified in subsequent sections as differences in convexity.  
 
-![](images/7b3aa6c3a5824df27fdf1d6112b1fb39c6836b63ce7a477b570c1f37d8306a9b.jpg)  
+![](7b3aa6c3a5824df27fdf1d6112b1fb39c6836b63ce7a477b570c1f37d8306a9b.jpg)  
 FIGURE 4.1 Sample Shifts to HQM Par Rates.  
 
-![](images/223c7f5d68cda32e73b71ba8bc0793649feee9fa87c4c91701a221baa10d2ad6.jpg)  
+![](223c7f5d68cda32e73b71ba8bc0793649feee9fa87c4c91701a221baa10d2ad6.jpg)  
 FIGURE 4.2 Price-Rate Curves for the Bonds in Table 4.1, as of Mid-May 2021.  

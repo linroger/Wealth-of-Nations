@@ -13,7 +13,7 @@ TABLE 6.1  Yields and Yield-Based DV01s for the JNJ 2.450s of 09/01/2060 and Sel
 
 <html><body><table><tr><td>Issuer</td><td>Bond</td><td></td><td>DV01</td></tr><tr><td>JNJ</td><td>2.450sof09/01/2060</td><td>2.962</td><td>0.2124</td></tr><tr><td>Treasury</td><td>0.875sof11/15/2030</td><td>1.601</td><td>0.0847</td></tr><tr><td>Treasury</td><td>1.375sof11/15/2040</td><td>2.246</td><td>0.1446</td></tr><tr><td>Treasury</td><td>1.625s of 11/15/2050</td><td>2.364</td><td>0.1910</td></tr></table></body></html>  
 
-![](images/bc96b39021efbd8561339c24806dea698bb6fffe25f04ecf4194ef1d339d9308.jpg)  
+![](bc96b39021efbd8561339c24806dea698bb6fffe25f04ecf4194ef1d339d9308.jpg)  
 FIGURE 6.1 Regression of Daily Changes in Yields of the JNJ 2.450s of 09/01/2060 on Daily Changes in Yields of the Treasury 1.625s of 11/15/2050, from January 19, 2021, to May 14, 2021.  
 
 In light of the empirical evidence in Figure 6.1, the trader might very well choose to: i) adjust the hedge ratio to account for the less than one-to-one relationships between changes in yields; and ii) measure the variation around the average relationship to gain a better understanding of the risk of the hedged position. Regression analysis is a tool with which to achieve both of these objectives.  
@@ -109,5 +109,5 @@ Applying Equation (6.12) to the case at hand, the DV01 of the JNJ bond position 
 
 This section concludes with an out-of-sample analysis of the estimated. regression model. Figure 6.2 shows the same regression line as estimated in Table 6.2 and graphed in Figure 6.1. The plus signs, however, are the changes in yields over the period May 17, 2021, to July 19, 2021. The regression model, estimated over the earlier period, January 29, 2021, to May 15, 2021, holds up quite well. In fact, the standard error of the residu-. als of the out-of-sample data against the original regression line is 1.5 basis. points, which is actually smaller than the in-sample equivalent. The trader hedging as of May 14, 2021, cannot, of course, run this analysis. But other out-of-sample tests can be informative. A trader might see how a regression model performed over a period before the estimation period, perhaps a period right before that window or perhaps an even earlier period that might be more likely to resemble the future. In any case, poor out-of-sample performance should raise questions about the stability of the regression coefficients over time and, therefore, the reliability of the resulting hedge.  
 
-![](images/cb18f9eb9daed17455c086d2a6d2cc7ff172381b0e24933c5f674e38bdebc6a6.jpg)  
+![](cb18f9eb9daed17455c086d2a6d2cc7ff172381b0e24933c5f674e38bdebc6a6.jpg)  
 FIGURE 6.2 Yield Changes of the JNJ 2.450s of 09/01/2060 and the Treasury 1.625s of 11/15/2050 from May 17, 2021, to July 19, 2021, and the Regression Line Estimated over the Period January 19, 2021, to May 14, 2021.  

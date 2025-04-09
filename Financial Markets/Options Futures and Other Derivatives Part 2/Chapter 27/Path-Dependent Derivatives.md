@@ -21,7 +21,7 @@ and 53.83 are considered; at node Y, averages 47.99, 51.12, 54.26, and 57.39 are
 considered; and at node Z, averages 43.88, 46.75, 49.61, and 52.48 are considered..   
 Assume that backward induction has already been used to calculate the value of the option for each of the alternative values of the average at nodes Y and Z. Values are.  
 
-![](images/c5082aacf0341bf6b6a721928682595e09342f53055a27b645841c2602bb41b3.jpg)  
+![](c5082aacf0341bf6b6a721928682595e09342f53055a27b645841c2602bb41b3.jpg)  
 Figure 27.3 Part of tree for valuing option on the arithmetic average.  
 
 shown in Figure 27.3 (e.g., at node Y when the average is 51.12, the value of the option is 8.101).  

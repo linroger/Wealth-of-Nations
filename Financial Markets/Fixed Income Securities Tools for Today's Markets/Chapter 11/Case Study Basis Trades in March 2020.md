@@ -4,20 +4,20 @@ In the wake of the COvID pandemic and economic shutdown, US Treasury yields fell
 
 For a couple of years before the pandemic, Treasury futures had often traded somewhat rich to their underlying bonds. Many attributed this rela-. tive mispricing to a preference for futures over bonds by regulated financial institutions seeking to limit the sizes of their balance sheets: long futures. positions do not appear on the balance sheet, while purchased bonds do. In any case, Figure 11.10 shows that, through much of February 2020, TYM0 traded a bit rich to its CTD, in that the net basis of the CTD into TYM0 fluc. tuated between zero and minus five ticks. Figure 11.11 shows that TUM0 and FVM0, along with TYM0, traded slightly rich in that the implied repo rate of the CTD bonds into these contracts exceeded the actual repo rate, represented by SOFR.11  
 
-![](images/c3a13cb3279d239e2fcf37fd837467ff4fbe909bf3fed1bad6bbcd9964481814.jpg)  
+![](c3a13cb3279d239e2fcf37fd837467ff4fbe909bf3fed1bad6bbcd9964481814.jpg)  
 FIGURE 11.9 Yields of CTD Bonds into TYM0, FVM0, and TUM0, from February 3, 2020, to April 1, 2020.  
 
 Responding to the chronic richness of futures contracts, hedge funds and their relative value traders consistently bought the CTD basis. To understand the attractiveness of this trade, consider a hedge fund that on February 10, 2020, buys $\$1$ billion face amount of the TYM0 CTD basis at. $-4.0$ ticks, which is consistent with the levels shown in Figure 11.10. Given that interest rates are almost certainly not going to rise enough to change the CTD, the net basis will be zero at expiration, and the profit on the trade would be $(4/32)\%$ times $\$1$ billion, or $\$1.25$ million. If levered 20-to-1, which many. believe was typical for trades of this type, the hedge fund would assign $\$50$ million of capital to the trade and earn a return on capital, from February 10 to June 30 (141 days), of $\$1.25$ million $\$50$ million or $2.5\%$ , which is about. $6.5\%$ annualized. If levered 40-1, which has been characterized as common for these trades, assigned capital would be $\$25$ million and the annualized return would be about 13%.12  
 
-![](images/7f1992186ee5d947c3c0068d7287c82a751fae2cafca980a988874a7bf4fec3b.jpg)  
+![](7f1992186ee5d947c3c0068d7287c82a751fae2cafca980a988874a7bf4fec3b.jpg)  
 FIGURE 11.10  Net and Gross Basis of CTD into TYM0, from February 3, 2020, to April 1, 2020.  
 
-![](images/72d8fdaa17bbc93f51d6f8ca40e26af77ccbb0a48e225bfe25b0feab0fd4617c.jpg)  
+![](72d8fdaa17bbc93f51d6f8ca40e26af77ccbb0a48e225bfe25b0feab0fd4617c.jpg)  
 FIGURE 11.11 Implied Repo Rates of CTD Bonds into TYM0, FVM0, TUM0, and SOFR from February 3, 2020, to April 1, 2020.  
 
 Buying the basis at a negative price and holding the position until the net basis converges to zero had indeed, for some time, been a relatively reliable and stable money machine. From March 9, however, when Treasury yields became much more volatile, so did the P&L of long basis trades. The newfound volatility of the trade can be seen from the net and gross basis of TYM0 in Figure 11.10 and from the implied repo of TYM0, FVM0, and TUM0 in Figure 11.11. The market dislocations at that time can also be seen from rising spreads between CTD yields and the yields of nondeliverable, but otherwise comparable bonds. The TUM0 line in Figure 11.12 shows the difference between the yields of the 1.875s of 02/28/2022 and the CTD into TUM0, that is, the 2.375s of 03/15/2022. While these two bonds traded at a low and stable spread through February and early March, that spread rose and became much more volatile over the rest of March. Similarly behaved are the FVM0 and TYM0 spreads, that is, the spread between the 1.875s of 08/31/2024 and the CTD into FVM0, that is, the 1.25s of 08/31/2024, and the spread between the 2s of 11/15/2026 and the CTD into TYM0, that is, the 2.25s of 02/15/2027. Generally speaking, liquidity is in high demand. when markets are volatile, and the most liquid bonds tend to trade at a premium. CTD bonds, which inherit the liquidity of their associated futures. contracts, trade in volatile markets at a premium relative to bonds that - in normal times - are comparable. This premium, however, like the demand for liquidity, can be quite volatile, as evident from Figure 11.12..  
 
-![](images/b83d02ed7c78c513857abe8b9c5bfbeb49faa9b64ed2b0c41c98f8e0a3ca0591.jpg)  
+![](b83d02ed7c78c513857abe8b9c5bfbeb49faa9b64ed2b0c41c98f8e0a3ca0591.jpg)  
 FIGURE 11.12 Richness of CTD Bonds into TYM0, FVM0, and TUM0 Relative to Comparable, Non-Deliverable Bonds, from February 3, 2020, to April 1, 2020.  
 
 TABLE 11.9A $\$1$ Billion Long TYM0 CTD Basis Trade, from March 6, 2020, to March 12, 2020. Net Basis Is in Ticks (32nds). All Other Columns Are in Dollars.   
@@ -37,7 +37,7 @@ First, the overnight rate can rise or fall relative to what could have. been loc
 
 Second, in stressed markets, prime brokers might reduce risk by limiting. lending to hedge funds in the basis trade, or, with similar effect, by increasing repo haircuts. In that case, basis traders who did not lock in term repo might. have to reduce position size or even exit a position at a loss. Some evidence of this funding risk through March 2020 can be seen from the difference. between the 99th percentile repo rate and SOFR in Figure 11.13. Through. February, the spread of the highest rate percentile of repo transactions over. the median SOFR rate was typically only 10 or 11 basis points. In March, however, that spread was between 20 and 50 basis points on several days and hit a peak of 174 basis points on March 16. These data strongly imply. that at least some overnight repo borrowers had trouble borrowing money. against Treasuries. Furthermore, basis traders who had not locked in term. rates might very well have had to roll over borrowing at rates very much above term rates they might have locked in at an earlier date..  
 
-![](images/9b9a1ccd1fdcb2d6a6ccc5ad33c5eec967b3e84ed3fe0cee7649862b7928c9ab.jpg)  
+![](9b9a1ccd1fdcb2d6a6ccc5ad33c5eec967b3e84ed3fe0cee7649862b7928c9ab.jpg)  
 FIGURE 11.13  SOFR and 1st and 99th Percentile Repo Rates, from February 3, 2020, to April 1, 2020.  
 
 # Short-Term Rates and Their Derivatives  

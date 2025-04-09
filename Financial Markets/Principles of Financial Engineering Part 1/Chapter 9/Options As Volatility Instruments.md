@@ -12,7 +12,7 @@ maker is not an investor or speculator, and this option is bought with the purpo
 lowed. First, the market maker needs to fund this position. Second, he or she should hedge the asso-.   
 ciated risks.  
 
-![](images/4be6206a37b55ffa1e3ea26352bd21ae99975b9ae33141832707cf54b4258e4e.jpg)  
+![](4be6206a37b55ffa1e3ea26352bd21ae99975b9ae33141832707cf54b4258e4e.jpg)  
 
 # FIGURE 9.4  
 
@@ -56,7 +56,7 @@ $$
 \Delta V_{t}\cong[C(S_{t}+\Delta S_{t},t)-C(S_{t},t)]-C_{s}\Delta S_{t}
 $$  
 
-![](images/e35be0d6d9c9a240d92f377f3aa77d9baa4d55ae34a6da3890c678da3610fe2d.jpg)  
+![](e35be0d6d9c9a240d92f377f3aa77d9baa4d55ae34a6da3890c678da3610fe2d.jpg)  
 
 # FIGURE 9.5  
 
@@ -112,7 +112,7 @@ $$
 t_{i}-t_{i-1}=\Delta
 $$  
 
-![](images/27a763ef01e0a74a43bea19494edf05e5a824b739faef13954b4cdb28de2509a.jpg)  
+![](27a763ef01e0a74a43bea19494edf05e5a824b739faef13954b4cdb28de2509a.jpg)  
 
 # FIGURE 9.6  
 
@@ -126,7 +126,7 @@ $$
 
 With $\Delta S=\sigma S^{0}\sqrt{\Delta}$ the percentage oscillations will be proportional to $\sqrt{\Delta}$ The mechanics of maintaining the delta-hedged long call position will be discussed in this simplified setting.  
 
-![](images/a5501bccf3146691afa5e6a7f1d183c83e5a804370ad1c0e5ebf76f4614b6a9d.jpg)  
+![](a5501bccf3146691afa5e6a7f1d183c83e5a804370ad1c0e5ebf76f4614b6a9d.jpg)  
 
 # FIGURE 9.7  
 

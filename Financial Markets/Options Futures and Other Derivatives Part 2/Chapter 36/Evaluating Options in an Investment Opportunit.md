@@ -60,7 +60,7 @@ $-0.54.)$ However, before we move on to consider options, it will be instructive
 as useful for future calculations, for us to use the tree to value the project in the absence   
 of embedded options and verify that we get the same answer as that obtained earlier.  
 
-![](images/609789b75cf886098ff96fab81178470fd54042155f5167f0ce4b7ac1fefac81.jpg)  
+![](609789b75cf886098ff96fab81178470fd54042155f5167f0ce4b7ac1fefac81.jpg)  
 Figure 36.1 Tree for spot price of a commodity: $p_{u},p_{m}$ , and $p_{d}$ are the probabilities of "up", "middle", and "down' movements from a node.  
 
 Figure 36.2 shows the value of the project at each node of Figure 36.1. Consider, for example, node H. There is a 0.2217 probability that the commodity price at the end of the third year is 22.85, so that the third-year profit is $2\times22.85-2\times17-6=5.70$ Similarly, there is a 0.6566 probability that the commodity price at the end of the third year is 16.16, so that the profit is $-7.68$ and there is a 0.1217 probability that the commodity price at the end of the third year is 11.43, so that the profit is $-17.14$ . The value of the project at node $_\mathrm{H}$ in Figure 36.2 is therefore  
@@ -85,7 +85,7 @@ Figure 36.2 shows that the value of the project at the initial node A is 14.46. 
 
 Figure 36.2 Valuation of base project with no embedded options:. $p_{u},p_{m}$ , and $p_{d}$ are the probabilities of "up", "middle", and "down' movements from a node.  
 
-![](images/cacb68d2f66ec2cc49e3e24553605d8f1fcf24f3b195e41c728f920f6ab18c36.jpg)  
+![](cacb68d2f66ec2cc49e3e24553605d8f1fcf24f3b195e41c728f920f6ab18c36.jpg)  
 
 # Option to Abandon  
 
@@ -109,7 +109,7 @@ $$
 
 The abandonment option is therefore worth $\$1.94$ million. It increases the value of the project from $-\$0.54$ million to $+\$1.40$ million. A project that was previously unattractive now has a positive value to shareholders.  
 
-![](images/d5f6f02bd6e0259677d9eec2d0bd52c26b3811d1b81ea55323ef7ab5f50934d9.jpg)  
+![](d5f6f02bd6e0259677d9eec2d0bd52c26b3811d1b81ea55323ef7ab5f50934d9.jpg)  
 Figure 36.3  Valuation of option to abandon the project:. $p_{u},p_{m}$ and $p_{d}$ are the probabilities of "up", "middle", and "down" movements from a node.  
 
 # Option to Expand  
@@ -130,7 +130,7 @@ If the option is exercised it is worth $0.2\times14.46-2=0.89.$ Early exercise i
 
 Figure 36.4  Valuation of option to expand the project:. $p_{u},p_{m}$ and $p_{d}$ are the probabilities of "up", "middle", and "down' movements from a node.  
 
-![](images/e9594e7ca3e1e69e9b4f4c1a9c2d19557e11c529c26ba68907600cac1de0e94d.jpg)  
+![](e9594e7ca3e1e69e9b4f4c1a9c2d19557e11c529c26ba68907600cac1de0e94d.jpg)  
 
 The expansion option in Figure 36.4 is relatively easy to value because, once the. option has been exercised, all subsequent cash inflows and outflows increase by. $20\%$ . In the case where fixed costs remain the same or increase by less than. $20\%$ , it is necessary to keep track of more information at the nodes of Figure 36.4. Specifically, we need to record the following in order to calculate the payoff from exercising the option:  
 
@@ -184,7 +184,7 @@ Trigeorgis, L., Real Options: Managerial Flexibility and Strategy in Resource Al
 
 compounding.  
 
-![](images/096e27502f707fa0dfa34619876afb7d726919f0450cb6eb8d1c25b9f1ee6f74.jpg)  
+![](096e27502f707fa0dfa34619876afb7d726919f0450cb6eb8d1c25b9f1ee6f74.jpg)  
 
 # Derivatives Mishapsd s and what We Can Learn from Them  
 

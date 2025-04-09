@@ -24,7 +24,7 @@ $$
 S_{0}(1-\delta_{i})u^{j}d^{i-j}
 $$  
 
-![](images/da4ed0ecb3234ceeddb182f6c1b16e32ccfb243087ca55f8cb0cc1bb4c1d5dc2.jpg)  
+![](da4ed0ecb3234ceeddb182f6c1b16e32ccfb243087ca55f8cb0cc1bb4c1d5dc2.jpg)  
 Figure 21.7 Tree when stock pays a known dividend yield at one particular time.  
 
 # Known Dollar Dividend  
@@ -49,7 +49,7 @@ $$
 
 for $j=0,1,2,\dots,i-1$ , there are $2i$ rather than $i+1$ nodes. When $i=k+m$ there are $m(k+2)$ rather than $k+m+1$ nodes. The number of nodes expands even. faster when there are several ex-dividend dates during the option's life.  
 
-![](images/09b607fc933bf8fab957aa88f3d348e8dffcc4e48e0f71e1c205c27cf5d46582.jpg)  
+![](09b607fc933bf8fab957aa88f3d348e8dffcc4e48e0f71e1c205c27cf5d46582.jpg)  
 Figure 21.8 Tree when dollar amount of dividend is assumed known and volatility is assumed constant.  
 
 Section 15.12 explained that European options on dividend-paying stocks are valued by assuming that the stock price has two components: a part that is uncertain and a part that is the present value of dividends paid during the life of the option. It outlined a number of reasons why practitioners find this a sensible assumption. American options clearly have to be valued using the same model as European options. (Otherwise the prices of American options that should never be exercised early will not be the same as the prices of European options.) American options on stocks paying known dividends are therefore in practice valued using the approach in Section 15.12. As it happens, this solves the node-proliferation problem in Figure 21.8.  
@@ -104,7 +104,7 @@ To illustrate this approach, Figure 21.10 values the option in Figure 21.3 on th
 
 At each node:. Upper value $=$ Underlying Asset Price Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/396f2c363553d50cad21154a2b9d208b74baa80cf6f7c968e39f6856a91ae3d1.jpg)  
+![](396f2c363553d50cad21154a2b9d208b74baa80cf6f7c968e39f6856a91ae3d1.jpg)  
 Figure 21.9 Tree produced by DerivaGem for Example 21.5.  
 
 estimate of the American price in Figure 21.3, $f_{A}$ , is $\$4.49$ . The control variate estimate.   
@@ -122,4 +122,4 @@ Figure 21.10 Tree, as produced by DerivaGem, for European version of option in F
 
 At each node: Upper value $=$ Underlying Asset Price Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/674e0115bd39999b07f2c2daa642fc819280d610ba6b5d59b4e7cb254b30f141.jpg)  
+![](674e0115bd39999b07f2c2daa642fc819280d610ba6b5d59b4e7cb254b30f141.jpg)  

@@ -8,7 +8,7 @@ It often proves to be convenient to use a trinomial rather than a binomial tree 
 
 To illustrate how trinomial interest rate trees are used to value derivatives, consider the simple example shown in Figure 32.4. This is a two-step tree with each time step equal to 1 year in length so that $\Delta t=1$ year. Assume that the up, middle, and down probabilities are 0.25, 0.50, and 0.25, respectively, at each node. The assumed $\Delta t$ period rate is shown as the upper number at each node.6  
 
-![](images/75f14a748ce7f5a2311820dd615d99fa2a90b4a7ae9adf7845849e9162c36137.jpg)  
+![](75f14a748ce7f5a2311820dd615d99fa2a90b4a7ae9adf7845849e9162c36137.jpg)  
 Figure 32.4 Example of the use of trinomial interest rate trees. Upper number at each node is rate; lower number is value of instrument..  
 
 The tree is used to value a derivative that provides a payoff at the end of the second time step of  
@@ -39,6 +39,6 @@ $$
 
 It sometimes proves convenient to modify the standard trinomial branching pattern that. is used at all nodes in Figure 32.4. Three alternative branching possibilities are shown in Figure 32.5. The usual branching is shown in Figure 32.5a. It is "up one/straight along/ down one". One alternative to this is "up two/up one/straight along", as shown in.  
 
-![](images/aa492c0e4ef45464fcde97316d4c68206f5047c80c3da9ea7e95f3c5b79d77f3.jpg)  
+![](aa492c0e4ef45464fcde97316d4c68206f5047c80c3da9ea7e95f3c5b79d77f3.jpg)  
 Figure 32.5 Alternative branching methods in a trinomial tree.   
 Figure 32.5b. This proves useful for incorporating mean reversion when interest rates are very low. A third branching pattern shown in Figure. $32.5\mathrm{c}$ is "straight along/down one/. down two". This is useful for incorporating mean reversion when interest rates are very. high. The use of different branching patterns is illustrated in the following section..  

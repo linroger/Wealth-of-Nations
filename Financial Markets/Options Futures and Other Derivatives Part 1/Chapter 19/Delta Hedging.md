@@ -18,7 +18,7 @@ $$
 
 This means that the trader loses $1{,}200\Delta S$ on the option position when the stock price increases by $\Delta S$ The delta of one share of the stock is 1.0, so that the long position in. 1,200 shares has a delta of $+1{\,}200$ . The delta of the trader's overall position in our. example is, therefore, zero. The delta of the stock position offsets the delta of the option position. A position with a delta of zero is referred to as delta neutral..  
 
-![](images/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg)  
+![](722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg)  
 Figure 19.2 Calculation of delta.  
 
 It is important to realize that, since the delta of an option does not remain constant, the trader's position remains delta hedged (or delta neutral) for only a relatively short period of time. The hedge has to be adjusted periodically. This is known as rebalancing. In our example, by the end of 1 day the stock price might have increased to $\$110$ . As indicated by Figure 19.2, an increase in the stock price leads to an increase in delta. Suppose that delta rises from 0.60 to 0.65. An extra $0.05\times2{,}000=100$ shares would then have to be purchased to maintain the hedge. A procedure such as this, where the hedge is adjusted on a regular basis, is referred to as dynamic hedging. It can be. contrasted with static hedging, where a hedge is set up initially and never adjusted. Static hedging is sometimes also referred to as "hedge-and-forget."  
@@ -37,10 +37,10 @@ $$
 \Delta(\mathrm{call})=N(d_{1})
 $$  
 
-![](images/872a68ff35e74fc2bce6c98abf93743a6a084dbcd1ff5bdb26978d82ba0e2655.jpg)  
+![](872a68ff35e74fc2bce6c98abf93743a6a084dbcd1ff5bdb26978d82ba0e2655.jpg)  
 Figure 19.3 Variation of delta with stock price for (a) a call option and (b) a pu1 option on a non-dividend-paying stock (. $\kappa=50,r=0$ $\sigma=25\%$ $T=2$  
 
-![](images/e5742019445b64a0696aa8deb7cd8d38ce77948b495951061ace73293e223cf7.jpg)  
+![](e5742019445b64a0696aa8deb7cd8d38ce77948b495951061ace73293e223cf7.jpg)  
 Figure 19.4 Typical patterns for variation of delta with time to maturity for a call option $(S_{0}=50,r=0,\sigma=25\%)$  
 
 where $d_{1}$ is defined as in equation (15.20) and. $N(x)$ is the cumulative distribution function for a standard normal distribution. The formula gives the delta of a long position in one call option. The delta of a short position in one call option is. $-N(d_{1})$ Using delta hedging for a short position in a European call option involves maintaining. a long position of. $N(d_{1})$ for each option sold. Similarly, using delta hedging for a long. position in a European call option involves maintaining a short position of. $N(d_{1})$ shares for each option purchased..  

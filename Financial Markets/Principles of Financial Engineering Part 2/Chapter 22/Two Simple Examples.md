@@ -184,7 +184,7 @@ We can extract some general conclusions from the examples in cases 1 and 2 above
 
 Second, we see that as correlation goes from zero to one, the expected loss of equity tranche decreases and the credit spread decreases. The expected loss of the senior tranche and the resulting credit spread, on the other hand, goes up. The mezzanine tranche is somewhere in between: the expected loss and credit spread goes up as correlation increases, but not as much as the senior tranche. In general, the sensitivity of the mezzanine tranche to correlation is dependent on its attachment points and size as well as the current credit spreads.  
 
-![](images/9774c290fa655de2a5e8a44c7dc3ce13f7b27c5ccc069d9658d5cfe4cb351671.jpg)  
+![](9774c290fa655de2a5e8a44c7dc3ce13f7b27c5ccc069d9658d5cfe4cb351671.jpg)  
 
 # FIGURE 22.1  
 
@@ -206,16 +206,16 @@ Therefore we will examine the years from 2007 until 2009 in Figure 22.2a and b f
 
 Some commentators have laid partial blame for the severity of the GFC on the Gaussian copula model use in the pricing of CDO backed by MBs. However, it is important to note that the limitations of the model were pointed out by practitioners and academics before the crisis. Moreover, laying blame on the model for mispricing the tranches and CDOs is akin to a trader laying blame for option losses that he or she suffered after using historical implied volatilities to price options before being surprised by an unexpected increase in implied volatility. Option prices and tranche prices  
 
-![](images/04828f1dcbb36b53b344eb858578cfac52b6638a25b727af8bfb26c83bc2ba12.jpg)  
+![](04828f1dcbb36b53b344eb858578cfac52b6638a25b727af8bfb26c83bc2ba12.jpg)  
 (a) Equity $(0-3\%)$ tranche in 2007-2009 (in %)  
 
-![](images/c307dd8439f9683c3894846f4748eda18d44c5ff6007c3bfef26e5eb77060d06.jpg)  
+![](c307dd8439f9683c3894846f4748eda18d44c5ff6007c3bfef26e5eb77060d06.jpg)  
 (c) Equity and mezzaine tranches in 2010-2013 (in %)  
 
-![](images/a45f9894d358c746b14d2b0ea02fbdb8d84672e8a40dd60c40b227dda09c1e1f.jpg)  
+![](a45f9894d358c746b14d2b0ea02fbdb8d84672e8a40dd60c40b227dda09c1e1f.jpg)  
 (b) Mezzanine and senior tranches in 2007-2009 (in bps)  
 
-![](images/056ceb307380a1604a0cdd41ffe54acdfe0b4b4e5550c4105907b3c95b20b361.jpg)  
+![](056ceb307380a1604a0cdd41ffe54acdfe0b4b4e5550c4105907b3c95b20b361.jpg)  
 (d) Mezzanine and senior tranches in 2010-2013 (in bps)  
 
 # FIGURE 22.2  

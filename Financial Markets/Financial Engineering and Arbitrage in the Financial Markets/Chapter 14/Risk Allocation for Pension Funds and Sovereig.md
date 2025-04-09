@@ -60,4 +60,4 @@ The risk budget imposes a different discipline on the fund sponsors from standar
 
 The most obvious criticism of the risk-budgeting approach is that the initial allocation is based on risk calculations of historical volatility and correlation estimates. Yet risk changes over time and in extreme tail events correlations dramatically increase. The answer to this criticism is that standard allocation is implicitly based on realized return histories which may be just as unreliable. After all, we tend to allocate to equities and emerging markets because we expect higher returns there. What if they don't materialize?  
 
-![](images/fafb6f362f67e8ad1648ab8848c8a61862430d6c6c33ed358a8635f2ea783f06.jpg)  
+![](fafb6f362f67e8ad1648ab8848c8a61862430d6c6c33ed358a8635f2ea783f06.jpg)  

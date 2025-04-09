@@ -61,5 +61,5 @@ Assuming a trade size of $\$100$ million face amount in the 20-year Trea-. sury,
 
 Figure 6.3 compares in-sample and out-of-sample residuals from the. regression in Table 6.3. The out-of-sample residuals are very well behaved, in fact, better behaved than the in-sample residuals: the standard error is 1.15 in-sample, and only 0.70 out-of-sample. Traders are not always so fortunate!  
 
-![](images/9236e12cd1b5f7f45bd6b22d444a5dc60880a8c50377d83e6aeb9590347f42be.jpg)  
+![](9236e12cd1b5f7f45bd6b22d444a5dc60880a8c50377d83e6aeb9590347f42be.jpg)  
 FIGURE 6.3 Residuals Using the Regression Coefficients in Table 6.3, in-Sample -- from January 19, 2021, to May 14, 2021 - and Out-of-Sample - from May 17, 2021, to July 19, 2021.  

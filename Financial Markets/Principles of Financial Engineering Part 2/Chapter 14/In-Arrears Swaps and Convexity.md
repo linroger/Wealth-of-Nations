@@ -8,11 +8,11 @@ But first we need to clarify the terminology. In a vanilla swap, the LIBOR rates
 
 Receive floating $L_{t_{j-1}}\delta N$  
 
-![](images/47f21fa2ba5a7ce6909e7220892ba325ee2886d8134478484f2a3eb24d33bb9a.jpg)  
+![](47f21fa2ba5a7ce6909e7220892ba325ee2886d8134478484f2a3eb24d33bb9a.jpg)  
 
 2. LIBOR-in-arrears swap  
 
-![](images/fcf00aac26894f00f5a19ec0d422bd3183acd662fbd57e458f10ed54ba01a936.jpg)  
+![](fcf00aac26894f00f5a19ec0d422bd3183acd662fbd57e458f10ed54ba01a936.jpg)  
 
 # FIGURE 14.6  
 

@@ -31,7 +31,7 @@ Figures 3.2 and 3.3 show the coupon effect at work in the US Treasury. market as
 
 Table 3.2 shows the coupons and yields of these four newly issued. 20-year bonds, each paired with the coupons and yields of old 30-year bonds of the same maturity. As expected, because of the coupon effect and the upward-sloping term structure of rates, the high-coupon, old 30-year bonds have lower yields than the low-coupon, newly issued 20-year bonds.. More analysis is needed, of course, to say that any one bond in this table is cheap or rich relative to another. But, because of the coupon effect, the fact that the new 20-year bonds have higher yields does not necessarily imply that they are better investments.  
 
-![](images/6ee5276a4853295815821e04fe638c7ce3cffe26a78c0fd96f8474b28e9ffca6.jpg)  
+![](6ee5276a4853295815821e04fe638c7ce3cffe26a78c0fd96f8474b28e9ffca6.jpg)  
 FIGURE 3.2 Yields of US Treasury Bonds, as of May 14, 2021.  
 
 TABLE 3.2 Yields of Selected US Treasury Bonds Maturing Between May 15,. 2040, and February 15, 2041, as of May 14, 2021. Coupons and Yields Are in Percent.   
@@ -41,5 +41,5 @@ TABLE 3.2 Yields of Selected US Treasury Bonds Maturing Between May 15,. 2040, a
 
 Returning to Figure 3.2, there are several bonds that mature on or before May 2031 that have yields noticeably below the curve. To examine these bonds, Figure 3.3 zooms in on maturities on or before May 2031. The dots represent bonds with coupon rates less than or equal to $5\%$ , while the plus signs represent bonds with coupon rates greater or equal to $5.25\%$ . Once again, as expected because of the coupon effect and the upward-sloping term structure, the bonds with the higher coupons have lower yields.  
 
-![](images/3b63d8f2f068f1a4c3d3d88e80ee7ceb03bf65b0a24f7d331b8f2975f65e4e21.jpg)  
+![](3b63d8f2f068f1a4c3d3d88e80ee7ceb03bf65b0a24f7d331b8f2975f65e4e21.jpg)  
 FIGURE 3.3  Yields of US Treasury Bonds Maturing in Less than 10 Years, as of May 14, 2021.  

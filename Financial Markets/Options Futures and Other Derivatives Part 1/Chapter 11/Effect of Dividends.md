@@ -2,7 +2,7 @@
 
 The results produced so far in this chapter have assumed that we are dealing with options on a non-dividend-paying stock. In this section, we examine the impact of dividends. We assume that the dividends that will be paid during the life of the option  
 
-![](images/bf79158770a7fe393def25179d0b0d6ca3843092912ee19213ffd6b8579d5d58.jpg)  
+![](bf79158770a7fe393def25179d0b0d6ca3843092912ee19213ffd6b8579d5d58.jpg)  
 Figure 11.7 Variation of price of a European put option with the stock price.  
 
 are known. In many situations, this assumption is often not too unreasonable. We will use $D$ to denote the present value of the dividends during the life of the option. In the calculation of $D$ , a dividend is assumed to occur at the time of its ex-dividend date.  
@@ -157,7 +157,7 @@ $$
 
 11.32. What is the result corresponding to that in Problem 11.31 for European put options?  
 
-![](images/187d2433b0566e3755883555ec6e4f545bf77b357d5a9d3a121a3c13325bcaa8.jpg)  
+![](187d2433b0566e3755883555ec6e4f545bf77b357d5a9d3a121a3c13325bcaa8.jpg)  
 
 # Trading Strategies Involving Options  
 

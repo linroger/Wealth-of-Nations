@@ -18,7 +18,7 @@ $$
 
 The subsequent purchase puts this asset back into the portfolio so that the diversified portfolio can be maintained. This way, the losses in $Z_{t}$ are recognized and will cancel out some or all of the capital gains earned from $S_{t}$ There may be several problems with this strategy, but one is fatal. Tax authorities would call this a wash-sale (i.e., a sale that is being intentionally used to "wash' the 2014 capital gains) and would disallow the deductions.17  
 
-![](images/7bb6f274784579e67362ff990df7e4e21866b5478e7a95adbbc5065675a2b65c.jpg)  
+![](7bb6f274784579e67362ff990df7e4e21866b5478e7a95adbbc5065675a2b65c.jpg)  
 
 # FIGURE 1.9  
 
@@ -46,7 +46,7 @@ Now consider what happens as time passes. If $Z_{t}$ appreciates by December 30,
 
 The timing issue is important here. For example, according to US tax legislation, wash-sale rules will apply if the investor has acquired or sold a substantially identical property within a.  
 
-![](images/7e1abe0b2e9086bd808b38e659d452d8169daff684d5a7910ba252a44810b549.jpg)  
+![](7e1abe0b2e9086bd808b38e659d452d8169daff684d5a7910ba252a44810b549.jpg)  
 
 # FIGURE 1.10  
 
@@ -58,7 +58,7 @@ Two positions that cancel each other.
 
 There are at least three interesting points to our discussion. First, the strategy offered to the investor was risk-free and had zero cost aside from commissions and fees. Whatever happens to the new long position in the $Z$ asset, it will be canceled by the synthetic short position. This situation is shown in the lower half of Figure 1.10. As this graph shows, the proposed solution has no market risk, but may have counterparty, or operational risks. The second point is that, once again, we have created a synthetic, and then used it in providing a solution to our problem. Finally, the example  
 
-![](images/5da122eb8724b2aa524965b109dc80c52c2765fe023da83430eb2ed97a2b688e.jpg)  
+![](5da122eb8724b2aa524965b109dc80c52c2765fe023da83430eb2ed97a2b688e.jpg)  
 
 # FIGURE 1.11  
 

@@ -73,7 +73,7 @@ bonds is cheapest to deliver?
 6.33. A Canadian company wishes to create a Canadian LIBOR futures contract from a U.S. Eurodollar futures contract and forward contracts on foreign exchange. Using an. example, explain how the company should proceed. For the purposes of this problem,. assume that a futures contract is the same as a forward contract..   
 6.34. A portfolio manager plans to use a Treasury bond futures contract to hedge a bond portfolio over the next 3 months. The portfolio is worth $\$100$ million and will have a. duration of 4.0 years in 3 months. The futures price is 122, and each futures contract is on $\$100,000$ of bonds. The bond that is expected to be cheapest to deliver will have a duration of 9.0 years at the maturity of the futures contract. What position in futures contracts is required? (a) What adjustments to the hedge are necessary if after 1 month the bond that is. expected to be cheapest to deliver changes to one with a duration of 7 years? (b) Suppose that all rates increase over the next 3 months, but long-term rates increase less than short-term and medium-term rates. What is the effect of this on the performance of the hedge?  
 
-![](images/19d3e049be09b479c2bdffe2b10263c3fab0691762452e6322388d046252b39b.jpg)  
+![](19d3e049be09b479c2bdffe2b10263c3fab0691762452e6322388d046252b39b.jpg)  
 
 # Swaps  
 

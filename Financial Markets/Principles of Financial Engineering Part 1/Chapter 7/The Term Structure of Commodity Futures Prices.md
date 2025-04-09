@@ -10,7 +10,7 @@ Traders use different terms to describe the shape of the curve. If the resulting
 
 The term structure of futures prices changes over time by commodity and it differs across com-. modities at the same point in time. Some commodities have a tendency to exhibit contango; others exhibit backwardation most of the time. As Figure 7.1 illustrates, the crude oil futures curve often tends to be in backwardation while the gold futures curve tends to be in contango. The term structure of crude oil futures prices in Table 7.1 implies that on June 20, 2014, crude oil futures were in backwardation. To illustrate how much the term structure can change and that it can flip from backwardation to contango, Figure 7.2 shows the WTI crude oil futures price term structure on four different dates. The orange line represents the curve on June 16, 2014, which is the baseline. The green line plots the term structure 1 month earlier, on May 16, 2014, the blue line plots the curve 1 year earlier, on June 14, 2013, whereas the red line shows the term structure of futures prices on June 16, 2009. As we see the curves in 2013-2014 were in backwardation, but in November 2009, the crude oil futures curve was in contango. Below we will discuss the trading opportunities that. this relatively unusual situation gave rise to. First we will turn to potential explanations for the shape of the term structure of futures prices. To do so we will build on the cash flow engineering methodology developed in earlier chapters and the relationship between commodity futures prices and the underlying replication portfolio..  
 
-![](images/bbea34c53dd8b9b9af6ec0733b3b520dd6c09ae4792411332440fa17b1e78731.jpg)  
+![](bbea34c53dd8b9b9af6ec0733b3b520dd6c09ae4792411332440fa17b1e78731.jpg)  
 
 # FIGURE 7.1  
 
@@ -20,7 +20,7 @@ Backwardation and contango.
 
 Consider the example of an oil refiner that contacts a bank asking for the price for the purchase of oil in, say, 12 months. The price quoted by the bank is not a forecast of where it thinks the price of oil will trade at the time of delivery. The bank will quote a price which depends on the cost of hedging the bank's own exposure. This is another example of the application of cash flow engineering to derivatives products. The cost of the product will be a function of the cost of the hedge. To avoid the risk of a rise in the price of oil, the bank would enter a series of transactions on the trade date to hedge its risk. Since the bank is agreeing to sell a fixed amount of oil in the future, it must first fund the purchase of oil in the spot market now and store the oil until delivery. Oil is traded in US dollars. The spot oil purchase could be financed by borrowing in US dollars at LIBOR from another bank. The bank buys the agreed amount of oil in the spot market from another institution, say another investment bank or an oil producer. The bank also incurs storage and insurance costs to store the oil until delivery. The above example is framed in the context of a bilateral OTC forward contract, but the same principle also applies to an oil futures contract.  
 
-![](images/858dd3bee8f173443d4882fe0e88134b4e297d9f0d5bd5b1304893b2377ed945.jpg)  
+![](858dd3bee8f173443d4882fe0e88134b4e297d9f0d5bd5b1304893b2377ed945.jpg)  
 
 # FIGURE 7.2  
 
@@ -28,17 +28,17 @@ Historical crude oil term structure of futures prices.
 
 We can apply the contractual equation developed earlier to create synthetic commodities. For example, suppose $S_{t}$ represents spot oil, which is the underlying asset for a futures contract with. price $F_{t}$ and expiration date $T$ $t_{0}<T$ How can we create a synthetic for this contract? The answer. is quite similar to the case of currencies. Using the same logic, we can write a contractual equation:  
 
-![](images/1d467915b21571e0659d18cc75d79f0c485a91516670d3aff2577c9534b45793.jpg)  
+![](1d467915b21571e0659d18cc75d79f0c485a91516670d3aff2577c9534b45793.jpg)  
 
 The contractual equation above incorporates one of the distinguishing features of commodities,. which is storage costs. Most commodities can be stored at a cost. Note, however, that for some commodities, storage is either not possible (e.g., due to seasons) or prohibitive (e.g., wholesale. electricity). Figure 7.3 shows the cash flows associated with a long futures and a synthetic long. futures position (ignoring margin payments).  
 
 We can use Eq. (7.1) to obtain two results. First, by rearranging the contracts, we create a syn. thetic spot:  
 
-![](images/ebacdc7f78ae875bac12fe9c0be9059ac063db493b0ce3f512acc7a1f0ec39c7.jpg)  
+![](ebacdc7f78ae875bac12fe9c0be9059ac063db493b0ce3f512acc7a1f0ec39c7.jpg)  
 
 In other words, after changing signs, we need to borrow one unit of oil, make a deposit of $S_{t_{0}}$ dollars, and go long an oil futures contract. This will yield a synthetic spot.  
 
-![](images/6734ed0b3e8ce58a63af701e945e2a0b0d4617a8e87309cf88f17c8af163605a.jpg)  
+![](6734ed0b3e8ce58a63af701e945e2a0b0d4617a8e87309cf88f17c8af163605a.jpg)  
 
 # FIGURE 7.3  
 

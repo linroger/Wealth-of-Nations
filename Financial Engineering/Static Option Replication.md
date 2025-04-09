@@ -26,7 +26,7 @@ You can use the technique to construct static hedges for exotic options, thereby
 
 Replicating an Exotic Option with a Portfolio of Standard Options.  
 
-![](images/20ac61b564408a4dec1b6b7810138755b2a18795f1888ca0bf0293f129889316.jpg)  
+![](20ac61b564408a4dec1b6b7810138755b2a18795f1888ca0bf0293f129889316.jpg)  
 
 The figure above, taken from an example in this paper, illustrates. how the technique works. The graph on the left shows the value of a. one-year up-and-out call, struck at 100 with out-barrier at 120, for all times to expiration and for market levels between 90 and 120. The. graph on the right shows the value of a replicating portfolio con-. structed from seven standard options, struck either at 100 or 120,. and expiring every two months over the one-year period. You can see that the replicating portfolio value approximately matches the target. option value over a large range of times and stock prices, and has the same general behavior. The more standard options you include in the replicating portfolio, the better the match..  
 
@@ -103,7 +103,7 @@ There are two different classes of stock price scenarios that determine the opti
 
 These are displayed in Figure 1 below.  
 
-![](images/7d92e7f85fae7bd89bbad0c2891c5e702c813718c52c9d0ffa67ee0c407f90d2.jpg)  
+![](7d92e7f85fae7bd89bbad0c2891c5e702c813718c52c9d0ffa67ee0c407f90d2.jpg)  
 FIGUre 1. Stock price scenarios for an up-and-out European call option with strike ${\bf K}={\bf100}$ and barrier $\mathbf{\bar{B}}=\mathbf{1}2\mathbf{0}$  
 
 From a trader's point of view, a long position in this up-and-out call is. equivalent to owning an ordinary call if the stock never hits the barrier, and owning nothing otherwise. Let's try to construct a portfolio. of ordinary options that behaves like this..  
@@ -129,7 +129,7 @@ TABLE 3. Portfolio 2. Its payoff matches that of an up-and-out call if the barri
 
 <html><body><table><tr><td>Quantity</td><td>Type</td><td>Strike</td><td>Expiration</td><td colspan="2">Value 1 year before expiration</td></tr><tr><td></td><td></td><td></td><td></td><td>Stock at100</td><td>Stock at 120</td></tr><tr><td>1.000</td><td>call</td><td>100</td><td>1 year</td><td>11.434</td><td>25.610</td></tr><tr><td>-1.866</td><td>call</td><td>120</td><td>1 year</td><td>-8.602</td><td>-25.610</td></tr><tr><td>Net</td><td></td><td></td><td></td><td>2.832</td><td>0.000</td></tr></table></body></html>  
 
-![](images/1938d56e6b9756353a3a4ef060ed059b5ee327b6b8b83763b8f741a0d6a7ff3f.jpg)  
+![](1938d56e6b9756353a3a4ef060ed059b5ee327b6b8b83763b8f741a0d6a7ff3f.jpg)  
 FIGuRe 2. Value of Portfolio 2 on the barrier at 120.  
 
 Portfolio 3 in Table 4 illustrates an alternative replicating portfolio. It adds to Portfolio 1 a short position in one extra option so as to attain the correct zero value for the replicating portfolio at a stock price of 120 with 6 months to expiration, as well as for all stock prices below the barrier at expiration. Figure 3 shows the value of Portfolio 3 for stock prices of 120, at all times prior to expiration. You can see that the replication on the barrier is good only at six months. At all other times, it again fails to match the up-and-out call's zero payoff.  
@@ -139,7 +139,7 @@ TABLE 4. Portfolio 3. Its payoff matches that of an up-and-out call if the barri
 
 <html><body><table><tr><td>Quantity</td><td>Type</td><td>Strike</td><td>Expiration</td><td colspan="2">Value 6 months before expiration</td></tr><tr><td></td><td></td><td></td><td></td><td>Stockat100</td><td>Stockat120</td></tr><tr><td>1.000</td><td>call</td><td>100</td><td>1 year</td><td>7.915</td><td>22.767</td></tr><tr><td>-2.387</td><td>call</td><td>120</td><td>1 year</td><td>-4.446</td><td>-22.767</td></tr><tr><td>Net</td><td></td><td></td><td></td><td>3.469</td><td>0.000</td></tr></table></body></html>  
 
-![](images/db6100fc5bacb0bdd48edd81f524e6665cf3b2a36faf9df63f5609cb92d8ecc6.jpg)  
+![](db6100fc5bacb0bdd48edd81f524e6665cf3b2a36faf9df63f5609cb92d8ecc6.jpg)  
 FIGuRe 3. Value of Portfolio 3 on the barrier at 120.  
 
 By adding one more call to Portfolio 3, we can construct a portfolio to. match the zero payoff of the up-and-out call at a stock price of 120 at both six months and one year. This portfolio, Portfolio 4, is shown in. Table 5.  
@@ -151,12 +151,12 @@ IABLE 5. Portfolio 4. Its payoff matches that of an up-and-out call if barrier i
 
 The value of Portfolio 4 on the barrier at 120 for all times prior to expiration is shown in Figure 4. You can see that this portfolio does a much better job of matching the zero value of an up-and-out call on the barrier. For times between zero and six months the boundary value at a stock price of 120 remains fairly close to zero.  
 
-![](images/71418afcdc77bc805afa4e60e0beefe584ebe9f505e2c0b6a56c43bd9d141a23.jpg)  
+![](71418afcdc77bc805afa4e60e0beefe584ebe9f505e2c0b6a56c43bd9d141a23.jpg)  
 FIGuRe 4. Value of Portfolio 4 on the barrier at 120.  
 
 By adding more options to the replicating portfolio, we can match the value of the target option at more points on the barrier. Figure 5 shows the value of a portfolio of seven standard options at a stock level of 120 that matches the zero value of the target up-and-out call on the barrier every two months. You can see that the match between the target option and the replicating portfolio on the barrier is much improved. In the next section we show that improving the match on the boundary improves the match between the target option and the portfolio for all times and stock prices.  
 
-![](images/f6def69db2878ae586b134b2410655d3d8a6fd80bc3dfbe234be41f04b361569.jpg)  
+![](f6def69db2878ae586b134b2410655d3d8a6fd80bc3dfbe234be41f04b361569.jpg)  
 FlGure 5. Value on the barrier at 120 of a portfolio of standard options that is constrained to have zero value every two months.  
 
 # THE METHOD OFSTATIC REPLICATIONIN A BINO MIAL WORLD  
@@ -185,7 +185,7 @@ There are three components to the method:
 
 3. The backward equation. This is the formula for computing all ear-. lier option values from the boundary option values by moving. backwards down the tree. In mathematical form, the equation rep-. resents the statement that a hedged position must earn the same instantaneous return as a riskless money-market account. In the limit of infinitesimally small time steps and stock moves, the back-. ward equation becomes the Black-Scholes equation..  
 
-![](images/5ed9847fb351b62c2a6ef98875d4c6c0e70ed6b15586a4cb43fadfe61490ef62.jpg)  
+![](5ed9847fb351b62c2a6ef98875d4c6c0e70ed6b15586a4cb43fadfe61490ef62.jpg)  
 FIGURe 6. The method of backward induction.  
 
 The risk-neutral binomial tree depends only on interest rates, the current stock price, the stock volatility and the stock dividend yield. The backward equation is the same for all securities whose values. are contingent on the stock price. Only the boundary condition differs from security to security. If two different portfolios have the same values everywhere on the boundary, and produce the same cashflows inside this boundary, the backward equation dictates that they will.. have the same values everywhere inside the boundary. This leads to the principle of static replication.  
@@ -198,7 +198,7 @@ You can replicate a target security for all future stock prices and. times withi
 
 Let's illustrate how this works. In order to concentrate on the essence of the method, we'll make certain simplifying assumptions. Dropping these assumptions does not invalidate our method; it just makes the explanation less transparent. So, we assume that interest rates and stock dividend yields are zero, and that the stock is worth 100 today. We also assume that the stock price can move up or down 10 with equal probability (of 1/2) only at the end of each year. Figure 7 shows the binomial tree of stock prices for this stock in the risk-neutral world over the next five years.  
 
-![](images/241901b4d24334fc451223cd8b5fc9224bbcacdbd4f11b37ea8e5bfa084b947d.jpg)  
+![](241901b4d24334fc451223cd8b5fc9224bbcacdbd4f11b37ea8e5bfa084b947d.jpg)  
 FIGURE 7. A binomial tree of stock prices in dollars. Up and down moves have equal probability.  
 
 Let's choose a five-year up-and-out European-style call with a strike.   
@@ -206,7 +206,7 @@ of 70 and a knockout barrier of 120 as the target barrier option we'll.
 try to replicate. This option has a natural boundary at expiration in five years, where it expires, and on the knockout barrier at 120.   
 These boundaries are shown in Figure 8..  
 
-![](images/59817dcfcb0f5fb31d6dff9ef9a9544e8046f74479a6b45766fee9d9268e1e78.jpg)  
+![](59817dcfcb0f5fb31d6dff9ef9a9544e8046f74479a6b45766fee9d9268e1e78.jpg)  
 FIGurE 8. A binomial tree of call prices for a five-year European-style up-and-out call with strike at 70 and barrier at 120. The corresponding stock prices at each node are shown in Figure 7.  
 
 For those scenarios in which the stock price reaches expiration in year 5 without having touched the knockout boundary, the call has the payoff of an ordinary call. Its boundary value on each node in the heavily shaded expiration boundary in Figure 8 is  
@@ -231,7 +231,7 @@ How can you replicate this up-and-out call with ordinary options? You need to cr
 
 Tree 1 shows the stock prices at each node. Tree 2 shows the value of an ordinary 5-year call struck at 70. It has the same values as the upand-out call of Figure 8 at expiration in year 5 at all nodes below the. barrier of 120. Therefore, this ordinary call replicates the up-and-out call perfectly if the barrier is never struck. However, the ordinary call has a value of 50 at those stock nodes labeled A and B that correspond to stock prices of 120 in year 2 and year 4. In contrast, the upand-out call has zero value at those nodes.  
 
-![](images/d4b54324a1c26f33a2bdb91dbbc38c49acc91c6814625b149d8436a180da55dd.jpg)  
+![](d4b54324a1c26f33a2bdb91dbbc38c49acc91c6814625b149d8436a180da55dd.jpg)  
 FIGUre 9. Replicating an up-and-out call with a portfolio of ordinary calls.  
 
 By adding a short position in 10 5-year calls with a strike of 120 to the portfolio in Tree 2, the portfolio value can be made zero at node A. This portfolio is shown in Tree 3. Because the strike of the new calls is not below 120, it expires out-of-the-money if the barrier is never struck. Therefore, it does not spoil the replication already achieved on the expiration boundary in year 5. However, this portfolio now has a value of -25 at stock node B, in contrast to the zero value of the upand-out call option at the same node.  
@@ -261,19 +261,19 @@ general boundary using a portfolio of ordinary call and put options,.
 without introducing additional payoffs or cashflows within the.   
 boundary, then the value of the portfolio must be the same as the value of the target option..  
 
-![](images/ef125c29d63644943d36af43271bc11eab4a582d6138b46f34512f0764c326b8.jpg)  
+![](ef125c29d63644943d36af43271bc11eab4a582d6138b46f34512f0764c326b8.jpg)  
 FIGURE 10. Options boundaries: (a) ordinary call (b) European-style down-and-in call (c) general option..  
 
 Figure 11 shows the options you can use to match the boundary val-. ues of the target option without introducing these extra cashflows. At each point on the boundary, use an ordinary option that expires at that time, and whose strike is determined in the following way. On. boundaries above the current stock value, use calls with strikes on or above the boundary. This prevents the call from having a payoff. within the boundary, and so altering the value of the option that has already been computed via the backward equation from future boundary values. Similarly, on boundaries below the current stock value, use puts with strikes on or below the boundary. Finally, on expiration-style boundaries that have a fixed-time, you can use calls or puts of any convenient strike..  
 
-![](images/9fa92fd69af4c578647f66a23db18f19acb2d8fafb21a9c668b23bd8d8159727.jpg)  
+![](9fa92fd69af4c578647f66a23db18f19acb2d8fafb21a9c668b23bd8d8159727.jpg)  
 FIGURE 11. Allowed strikes for options replication.  
 
 In Figure 12 we illustrate how to construct a replicating portfolio that matches the target option's value on the boundary for a series of discrete times $t_{1},t_{2}.$ . out to expiration $t_{e x p}.$ We first look at the expiration boundary and match the payoff of the target option there with a portfolio consisting of a combination of European-style calls and/or puts with different strikes that expire at that time. This is our initial replicating portfolio that takes care of replication at expiration.  
 
 Moving back one time step before expiration ( $t_{4}$ in Figure 12), we can compute the theoretical value of the initial replicating portfolio at time $t_{4}$ at the boundary stock price $\mathrm{{U_{4}}}$ . In general, this theoretical value will not match the boundary value of the target option when. the stock price is $\mathrm{{U_{4}}}$ . You can now add a position in ordinary calls. with expiration at $t_{e x p}$ and strike at or above. $\mathrm{U_{exp}}$ to the initial replicating portfolio. You must choose these calls such that their theoreti-. cal value, when added to the theoretical value of the initial portfolio at stock price $\mathrm{{U_{4}}}$ and time $t_{4},$ yields the value of the target option at stock price $\mathrm{{U_{4}}}$ . The corrected replicating portfolio then consists of the. initial replicating portfolio plus the position in these new calls. These new calls expire out of the money below stock levels of $\mathrm{U_{exp}}.$ and therefore do not alter the cash position at time $t_{e x p}$ in the portfolio of calls and puts that already replicate the target option at expiration..  
 
-![](images/d8c3792fd5baee9820dd28e64e55081eeba89479a60e8727be7ab8cbbf618260.jpg)  
+![](d8c3792fd5baee9820dd28e64e55081eeba89479a60e8727be7ab8cbbf618260.jpg)  
 FIGUre 12. Replicating the payoff of an option at discrete times.  
 
 Similarly, by adding an appropriate position in puts with strike at or below $\mathbf{L}_{\mathrm{exp}}.$ you can make the replicating portfolio have the appropriate boundary at a stock price of. $\mathrm{L}_{4}$ at time $t_{4}$ The addition of these. puts to the replicating portfolio will not affect the replication already achieved on the boundary at expiration, because they expire out of the money at this stock price level..  
@@ -312,16 +312,16 @@ TABLE 7. The replicating portfolio.
 
 Instead of using six options, struck at 120, to match the zero boundary value on the barrier every two months for one year, we can use 24 options to match the boundary value at half-month intervals. In that case, the theoretical value of the replicating portfolio becomes 2.01,. only O.10 away from the theoretical value of the target option. The behavior of the replicating portfolio over a range of stock prices and. times to expiration is shown in Figure 14. You can see that the portfolio value varies like that of an up-and-out option with barrier at 120. The replication mismatch is shown in Figure 15, and is clearly. smaller than in the case of replication with six options..  
 
-![](images/bfe5b3c22ef2d0060c58ecc099b1cf41ef45e9d6bc5b6f8d42493011aaddfeb5.jpg)  
+![](bfe5b3c22ef2d0060c58ecc099b1cf41ef45e9d6bc5b6f8d42493011aaddfeb5.jpg)  
 
 FIGUrE 13. The replication mismatch between the target option of Table 6 and the replicating portfolio of Table 7.  
 
 # Call Value vs Stock Price and Time to Expiration  
 
-![](images/18fff833f45d74bebd312d52c4d6d19b1c2289a64caf16bedb34f04369749ce0.jpg)  
+![](18fff833f45d74bebd312d52c4d6d19b1c2289a64caf16bedb34f04369749ce0.jpg)  
 FIGURE 14. Theoretical value of a 24-option replicating portfolio for the target option of Table 6.  
 
-![](images/e2153744eafb92b7e5dc3fb82f97dc6fd801e7ad1e029fd2d8484753081b86f2.jpg)  
+![](e2153744eafb92b7e5dc3fb82f97dc6fd801e7ad1e029fd2d8484753081b86f2.jpg)  
 Re plic ation Error (\$)   
 FIGURE 15. Replication mismatch between a 24-option replicating portfolio and the target option of Table 6..  
 
@@ -333,7 +333,7 @@ Under certain circumstances, you can statically replicate a barrier option with 
 
 Consider a European down-and-out call option' with time $t$ to expiration on a stock with price. $S$ and dividend yield $^{d.}$ We denote the strike level by. $K$ and the level of the out-barrier by. $B.$ We assume in this particular example that $B$ and $K$ are equal. and that there is no. cash rebate when the barrier is hit. There are two classes of scenarios for the stock price paths: scenario 1 in which the barrier is avoided. and the option finishes in-the-money; and scenario 2 in which the barrier is hit before expiration and the option expires worthless.. These are shown in Figure 16..  
 
-![](images/ce168b7b8d998b130d674d402465bd7f789db80d73afc8d17493f2ff1c921f98.jpg)  
+![](ce168b7b8d998b130d674d402465bd7f789db80d73afc8d17493f2ff1c921f98.jpg)  
 FIGUrE 16. A down-and-out European call option with $B=K$  
 
 In scenario 1 the call pays out $S^{\prime}{-}K$ , where $S$ 'is the unknown value of the stock price at expiration. This is the same as the payoff of a forward contract with delivery price $K.$ This forward has a theoretical value $F=S e^{-d t}-K e^{-r t}$ , where $^{d}$ is the continuously paid dividend yield of the stock. You can replicate the down-and-out call under all stock price paths in scenario 1 with a long position in the forward.  
@@ -348,7 +348,7 @@ riskless interest rate equals the dividend yield (that is, the stock forward is 
 
 Let's look at a down-and-in call similar to the call above, but where the strike $K$ is above the barrier B. For very large volatility, the stock. price is almost certain to hit the barrier, as shown in Figure 17..  
 
-![](images/4ba139853c5bdd2632102f883fa1f0e70621b90b6986beb3cbae20968346645b.jpg)  
+![](4ba139853c5bdd2632102f883fa1f0e70621b90b6986beb3cbae20968346645b.jpg)  
 FIGUre 17. A down-and-in European call with large volatility.  
 
 When the stock price hits the barrier, $S$ equals $B$ and the down-andin call becomes an ordinary call with large volatility. It's value is then $B{\mathrm{e}}^{-{\mathrm{d}}t}$ , because owning a call on a stock with very large volatility is equivalent in value to a long stock position less the dividends paid during the option's lifetime. So, the down-and-in call's value is $B{\stackrel{}{\ e^{-}}}{}^{d t}$ You can replicate it before the stock price hits the boundary by owning $B\mathrm{e}^{-\mathrm{d}t}$ dollars. When the stock price hits the barrier, the static replicating portfolio will have a theoretical value large enough to fund the purchase of an ordinary call with strike $K.$  
@@ -359,7 +359,7 @@ Now look at a down-and-out call. It is equivalent to a long position in. an ordi
 
 Similarly, you can statically replicate barrier puts with stock when volatility is very large. The argument is a little more subtle than the one for calls, and is illustrated in Figure 18..  
 
-![](images/5dccae3c47e2364c458920ccbe4cec190e008bc683c5de5e4a7a257fe91649df.jpg)  
+![](5dccae3c47e2364c458920ccbe4cec190e008bc683c5de5e4a7a257fe91649df.jpg)  
 FIGURE 18. A European barrier put with large volatility.  
 
 Let's first look at an up-and-out put with strike $K,$ and with barrier. $B$ above the strike. At very high volatilities, there are only two possibil-. ities for the stock price, as shown in Figure 18: it will either rapidly. move up and hit the out-barrier or move down and stop at zero stock. price, which is effectively also a barrier. The value of the up-and-out put at stock price $S$ is the average of its values at zero stock price and the barrier $B$  
@@ -384,7 +384,7 @@ We are indebted to Peter Carr of Cornell University for the example below3.
 
 Let's look at a European-style down-and-in call option with strike $K$ and barrier $B$ where the barrier is below the strike. In Figure 19 we illustrate the stock price $S,$ the strike $K,$ the barrier $B$ and another strike $K^{\prime}$ somewhere below the barrier.  
 
-![](images/2c2a4b75b3da05bf367570d0f977a8434080eb20fce12c89c6883a1ca6488eb6.jpg)  
+![](2c2a4b75b3da05bf367570d0f977a8434080eb20fce12c89c6883a1ca6488eb6.jpg)  
 FIGUrE 19. Behavior of a down-and-in European call with $\mathbf{B}<\mathbf{K}$  
 
 Again, there are again two classes of scenarios that determine the value $C_{K I}$ of the knock-in call:  

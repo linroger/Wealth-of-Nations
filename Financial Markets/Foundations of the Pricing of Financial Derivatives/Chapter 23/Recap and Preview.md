@@ -14,9 +14,9 @@ In Chapter 24, we look at one more numerical procedure, the finite difference me
 3 Identify and discuss two ways to reduce the standard error of the estimate when pricing options with Monte Carlo simulation.
 4 The following two figures were generated with Monte Carlo simulation. One figure. is based on geometric Brownian motion (GBM) and one figure is based on arithmetic Brownian motion (ABM). Identify each figure and defend your answer.
 
-![](images/01f3f1f1a00a48d92bd75298ae981c59e9c6bc1b4b9690c00f3598d7b876c566.jpg)
+![](01f3f1f1a00a48d92bd75298ae981c59e9c6bc1b4b9690c00f3598d7b876c566.jpg)
 
-![](images/fdc118fc66699ed9a6d5aa78fbe0b8b871c3d13541e806262f6e0d1cb3e3ddd9.jpg)
+![](fdc118fc66699ed9a6d5aa78fbe0b8b871c3d13541e806262f6e0d1cb3e3ddd9.jpg)
 
 5 The option price obtained from a Monte Carlo simulation is a sample average. Distinguish between the standard deviation of a sample and the standard deviation of the sample mean estimate and explain the implication of this point for Monte Carlo simulation.
 

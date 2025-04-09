@@ -76,7 +76,7 @@ So how does Pascal's triangle come into play in option pricing? It tells us how 
 
 For a three-period binomial tree, you can go up three times, up twice and down once, down twice and up once, and down three times. There is only one way to go up three times:
 
-![](images/5b29ecef9f20979489ea6f6610255feb15696a803166c4e64b35997b4a19c4d8.jpg)
+![](5b29ecef9f20979489ea6f6610255feb15696a803166c4e64b35997b4a19c4d8.jpg)
 
 FIGURE 7B.1 Pascal's Triangle (First Five Rows)
 TABLE 7B.1 Coefficients of the Binomial Expansion

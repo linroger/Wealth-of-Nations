@@ -17,7 +17,7 @@ Figure 14.2 illustrates one type of asset swap, the par-par asset swap,. or, mor
 
 The par asset swap spread, $s^{p a r}$ , can be determined by the condition that the interest rate swap with the swap desk is fair, that is, that the initial payment plus the present value of the floating leg equals the present value of the fixed leg, where discounting is at market swap rates.7 Mathematically, let $A^{\mathit{f x e d}}$ and $A^{f l o a t i n g}$ be the factors such that $c A^{\mathit{f i x e d}}$ gives the present value of the payments of $c$ on the fixed side of the swap and such that $s^{p a r}A^{\textit{t l}}$ oating gives the present value of the payments of $s^{p a r}$ on the floating side. Let $d$ be the discount factor for cash flows at maturity. Also, along the lines of Chapter 13, include a fictional notional amount of 100 at maturity on both legs of the swap, and note that the present value of receiving LIBOR and the final notional amount is par. Then, the fair pricing condition for the swap is,  
 
-![](images/6fd9612f462c035a511866e01eb0ef41e2a11f778378e29aa8df804b8dd1fb4a.jpg)  
+![](6fd9612f462c035a511866e01eb0ef41e2a11f778378e29aa8df804b8dd1fb4a.jpg)  
 FIGURE 14.2 A Par-Par Asset Swap with Financing.  
 
 $$
@@ -32,7 +32,7 @@ $$
 \begin{array}{c}{{P+s^{m k t}P A^{q o a t}+(P-100)d=c A^{f x e d}+P d}}\ {{s^{m k t}=\displaystyle\frac{c A^{f x e d}+100d-P}{P A^{f l o a t}}}}\ {{=\displaystyle\frac{100s^{p a r}}{P}}}\end{array}
 $$  
 
-![](images/08a16533c6bf15a5e94377d219bc655ca2703274a1bbb0c9bc7300e373f22adc.jpg)  
+![](08a16533c6bf15a5e94377d219bc655ca2703274a1bbb0c9bc7300e373f22adc.jpg)  
 FIGURE 14.3 A Market Value Asset Swap with Financing.  
 
 where the final equality uses Equation (14.1). According to Table 14.7, the market value asset swap spread of the Genworth 4.90s of 08/15/2023, as of August 15, 2021, is 533.3 basis points. The relationship between the two asset swap spreads is quite intuitive: an investor can earn $s^{p a r}$ on 100 or $s^{m k t}$ on $P$ , which, from Equation (14.2), gives the same result. The choice between the two asset swap trades, therefore, depends not on earnings, but on collateral and counterparty risk considerations.9  

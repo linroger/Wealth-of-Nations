@@ -22,7 +22,7 @@ $$
 C(T)-P(T)=F_{T}-K
 $$  
 
-![](images/4d0b04e450ce97c3c7a9455f20e71d0440610c5bfdf736a88407cef14c82f1a2.jpg)  
+![](4d0b04e450ce97c3c7a9455f20e71d0440610c5bfdf736a88407cef14c82f1a2.jpg)  
 
 # FIGURE 11.3  
 
@@ -42,7 +42,7 @@ $$
 \{1\mathrm{Long}K\mathrm{{-Call}},1\mathrm{Short}K\mathrm{{-Put}},e^{-r(T-t)}(K-F_{t})\mathrm{Dollars}\}
 $$  
 
-![](images/4220c9850f250d6e0227eeafef3c61a4465c96580f9181d6cb15bcce0815eb1b.jpg)  
+![](4220c9850f250d6e0227eeafef3c61a4465c96580f9181d6cb15bcce0815eb1b.jpg)  
 
 # FIGURE 11.4  
 
@@ -72,7 +72,7 @@ Put-call parity can thus be regarded as another result of the application of con
 
 Option market makers routinely use the put-call parity in exploiting windows of arbitrage opportunities. Using options, market makers construct synthetic futures positions and then trade them  
 
-![](images/b76959cc49e1626e61e971a633ef6955437b10fea38a305969cdecfd6cf21ec0.jpg)  
+![](b76959cc49e1626e61e971a633ef6955437b10fea38a305969cdecfd6cf21ec0.jpg)  
 
 # FIGURE 11.5  
 
@@ -94,11 +94,11 @@ Borrow necessary funds overnight for 30 days, and buy the stock at price $S_{t}$
 
 The position is fully hedged, as any potential gains due to movement in. $S_{t}$ will cover the potential losses. This means that the only factors that matter are the transaction costs and any price differentials that may exist between the call and the put. The market maker will monitor the difference between the put and call premiums and take the arbitrage position shown in Figure 11.6 if this difference is bigger than the total cost of the conversion.  
 
-![](images/7b996a192816ed1ae8b4ea49e3c08b0d45cd75591563eb4209342ff43d9f2155.jpg)  
+![](7b996a192816ed1ae8b4ea49e3c08b0d45cd75591563eb4209342ff43d9f2155.jpg)  
 
 Adding together...If prices are different enough" then there will be arbitrage opportunity.  
 
-![](images/a28a15a7646bf2a48a3d735b6460e186c7a12f3a9857e9430a8187ee520265d4.jpg)  
+![](a28a15a7646bf2a48a3d735b6460e186c7a12f3a9857e9430a8187ee520265d4.jpg)  
 
 # FIGURE 11.6  
 
@@ -160,7 +160,7 @@ $$
 K_{1}<S_{t}<K_{2}
 $$  
 
-![](images/5dee2c6cfbd12acc7d3bc26a4c73e14750c26074193dd237e852e0510f277b55.jpg)  
+![](5dee2c6cfbd12acc7d3bc26a4c73e14750c26074193dd237e852e0510f277b55.jpg)  
 
 # FIGURE 11.7  
 
@@ -196,7 +196,7 @@ The company entered a risk reversal rather than buying a dollar call outright be
 
 Here we have a corporation that has EUR receivables from tourists going abroad but needs to make payments to foreigners in dollars. Euros are received at time $t.$ , and dollars will be paid at some future date $T,$ with $t<T$ The risk reversal is put together as a zero-cost structure, which means that the premium collected from selling the put (on the UsD) is equal to the call premium on the USD. For small movements in the exchange rate, the position is neutral, but for large movements it represents a hedge similar to a futures contract.  
 
-![](images/9ca30c5b117abcd33c53aeb97a1c927b8ebbed6031760e15272a0ccddc8b5daf.jpg)  
+![](9ca30c5b117abcd33c53aeb97a1c927b8ebbed6031760e15272a0ccddc8b5daf.jpg)  
 
 # FIGURE 11.8  
 
@@ -208,7 +208,7 @@ Of course, such a position could also be taken in the futures market. But one im
 
 The class of option strategies that we have studied thus far is intended for creating synthetic short and long futures positions. In this section, we consider option synthetics that are said to lead to yield enhancement for investment portfolios.  
 
-![](images/3c7902f2f691ae5ac8c42ce58a83b32295cfc97caff59206321b8113517f47f3.jpg)  
+![](3c7902f2f691ae5ac8c42ce58a83b32295cfc97caff59206321b8113517f47f3.jpg)  
 
 # FIGURE 11.9  
 
@@ -224,7 +224,7 @@ $$
 
 where $\hat{P}$ is a subjective conditional probability distribution for the random variable $S_{\mathrm{t}+\Delta}$ According to the formula, the investor is expecting a gain of $\hat{R_{t}}$ during period $\Delta$ .The question is. whether we can provide a yield-enhancing alternative to this investor. The answer depends on what we mean by "yield enhancement.".  
 
-![](images/28d0051e4a48d99718df6c88e0661f7322193c277ed6098dd94d86a975358472.jpg)  
+![](28d0051e4a48d99718df6c88e0661f7322193c277ed6098dd94d86a975358472.jpg)  
 
 # FIGURE 11.10  
 

@@ -95,7 +95,7 @@ futures trade.
 2.36. What position is equivalent to a long forward contract to buy an asset at $K$ on a certain date and a put option to sell it for. $K$ on that date.   
 2.37. A bank's derivatives transactions with a counterparty are worth $+\$10$ million to the bank. and are cleared bilaterally. The counterparty has posted $\$10$ million of cash collateral.. What credit exposure does the bank have?  
 
-![](images/951f4b96401ce23c7b480a554d18824fb759b651f1de44149a16872f7ddb2d3e.jpg)  
+![](951f4b96401ce23c7b480a554d18824fb759b651f1de44149a16872f7ddb2d3e.jpg)  
 
 # Hedging Strategies Using Futures  
 

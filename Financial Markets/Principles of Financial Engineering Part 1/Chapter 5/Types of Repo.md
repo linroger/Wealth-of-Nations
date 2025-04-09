@@ -24,7 +24,7 @@ Thus, by lending 47,607,000 of nominal bonds (DBRs), the investor borrows EUR 50
 
 The difference between the nominal and $50\mathrm{m}$ is due to the existence of accrued interest. Accrued interest needs to be added to the nominal. That is to say, the calculations are done using bond's dirty price.4  
 
-![](images/35a972153acb1ed35158a026c90672f503c561584623b8c314d5f550bee2bdb1.jpg)  
+![](35a972153acb1ed35158a026c90672f503c561584623b8c314d5f550bee2bdb1.jpg)  
 
 # FIGURE 5.2  
 
@@ -53,7 +53,7 @@ Repo interest earned: EUR $50000322.91\times0.0405\times7/360=39.375$
 
 In this case, the investor's interest cost is the difference between the purchase price and selling price. The interest earned is exactly the same as in classic repo, but the way interest rate is characterized is different. We show the deal in Figure 5.3.  
 
-![](images/64747df9c99e3c2c95217fc890be84ed737a1d96ceb9f043bb89463c83287fe7.jpg)  
+![](64747df9c99e3c2c95217fc890be84ed737a1d96ceb9f043bb89463c83287fe7.jpg)  
 
 # FIGURE 5.3  
 
@@ -65,7 +65,7 @@ The major difference between the two repo types lies not in the mechanics, or in
 
 Securities lending is older than repo as a transaction. It is also somewhat less practical than repo. However, the mechanics of the operation are similar. The main difference is that one of the parties  
 
-![](images/af9f5e8442572ace8d997fcd371ce5549a752e10edc5778f28acd377566829f2.jpg)  
+![](af9f5e8442572ace8d997fcd371ce5549a752e10edc5778f28acd377566829f2.jpg)  
 
 # FIGURE 5.4  
 
@@ -89,7 +89,7 @@ Obviously, the market value of the collateral will be at least equal to the valu
 
 There are two main types of repos: bilateral and tri-party repos. At the beginning of the repo market, there was only the bilateral repo. The bilateral repo market allows for the exchange of cash  
 
-![](images/701cd2f471299474d7d714ab2d8b2055f5253d185c8132e07650ab2e865d6816.jpg)  
+![](701cd2f471299474d7d714ab2d8b2055f5253d185c8132e07650ab2e865d6816.jpg)  
 
 # FIGURE 5.5  
 

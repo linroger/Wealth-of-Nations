@@ -62,7 +62,7 @@ Zimmerman, T. "The Great Subprime Meltdown,' Journal of Structured Finance, Fall
 8.21. "Resecuritization was a badly flawed idea. AAA tranches created from the mezzanine tranches of ABSs are bound to have a higher probability of default than the AAA-rated tranches of ABSs." Discuss this point of view..   
 8.22. Suppose that mezzanine tranches of the ABS CDOs, similar to those in Figure 8.3, are resecuritized to form what is referred to as a "CDO squared.' As in the case of tranches created from ABSs in Figure 8.3, $65\%$ of the principal is allocated to a AAA tranche,. $25\%$ to a BBB tranche, and $10\%$ to the equity tranche. How high does the loss percentage. have to be on the underlying assets for losses to be experienced by a AAA-rated tranche that is created in this way? (Assume that every portfolio of assets that is used to create ABSs experiences the same loss rate.)  
 
-![](images/5f19be6335c2e53ffebecfeace97b77bc6de01ff6d13c91d1d2ec91e1245b1fb.jpg)  
+![](5f19be6335c2e53ffebecfeace97b77bc6de01ff6d13c91d1d2ec91e1245b1fb.jpg)  
 XVAs  
 
 Before moving on to discuss how options and other more complex derivatives are valued, we consider various price adjustments that have become important in derivatives markets. These are the credit valuation adjustment (CVA),the debit (or debt) valuation adjustment (DVA), the funding valuation adjustment (FVA), the margin valuation adjustment (MVA), and the capital valuation adjustment (KVA). Collectively the. adjustments are known as XVAs. Some of the adjustments have a stronger theoretical. basis than others. As we shall see, financial economists have no problem with CVA and DVA, but have reservations about FVA, MVA, and KVA..  

@@ -18,10 +18,10 @@ A securitization arrangement of the type used during the 2000 to 2007 period (wi
 
 The portfolio in Figure 8.1 has a principal of $\$100$ million. This is divided as follows:. $\$80$ million to the senior tranche,. $\$15$ million to the mezzanine tranche, and $\$5$ million to the equity tranche. The senior tranche's return is LIBOR plus 60 basis points, the mezzanine tranche's return is LIBOR plus 250 basis points, and the equity tranche's. return is LIBOR plus 2,000 basis points.  
 
-![](images/c209b83d4b1f6684bce3ff80a0e482cb19c3dc2a987b1760b1bfd651b30cf687.jpg)  
+![](c209b83d4b1f6684bce3ff80a0e482cb19c3dc2a987b1760b1bfd651b30cf687.jpg)  
 Figure 8.1 An asset-backed security (simplified); bp $=$ basis points $(1\mathrm{bp}=0.01\%$  
 
-![](images/6a209ddb7f77f9182a2545d03b562c65cd11b880ef3043ca7dacb7064ab5ffc0.jpg)  
+![](6a209ddb7f77f9182a2545d03b562c65cd11b880ef3043ca7dacb7064ab5ffc0.jpg)  
 Figure 8.2 The waterfall in an asset-backed security.  
 
 It sounds as though the equity tranche has the best deal, but this is not necessarily the. case. The payments of interest and principal are not guaranteed. The return is like the yield on a bond. It is the return that will be realized if there are no defaults affecting the. tranche. As we will see, the equity tranche is more likely to lose part of its principal, and. less likely to receive the promised interest payments on its outstanding principal, than the. other tranches.  
@@ -40,7 +40,7 @@ Finding investors to buy the senior AAA-rated tranches of ABSs was usually not d
 
 Finding investors for mezzanine tranches was more difficult. This led to the creation of. ABSs of ABSs. The way this was done is shown in Figure 8.3. Many different mezzanine. tranches, created in the way indicated in Figure 8.1, are put in a portfolio and the risks associated with the cash flows from the portfolio are tranched out in the same way as the risks associated with cash flows from the assets are tranched out in Figure 8.1. The resulting structure is known as an $A B S C D O$ or $M e z z~A B S~C D O.$ (CDO is short for collateralized debt obligation.) In the example in Figure 8.3, the senior tranche of the ABS CDO accounts for $65\%$ of the principal of the ABS mezzanine tranches, the. mezzanine tranche of the ABS CDO accounts for $25\%$ of the principal, and the equity tranche accounts for the remaining $10\%$ of the principal. The structure is designed so. that the senior tranche of the ABS CDO is given the highest credit rating of AAA. This means that the total of the AAA-rated instruments created in the example that is considered here is about $90\%$ $80\%$ plus $65\%$ of $15\%$ ) of the principal of the underlying portfolios. This seems high but, if the securitization were carried further with an ABS being created from tranches of ABS CDOs (and this did happen), the percentage would be pushed even higher.  
 
-![](images/56b1da09aadd5aa54da6cc09d32b908b3aaac289297ea9dafa0865138618e8ae.jpg)  
+![](56b1da09aadd5aa54da6cc09d32b908b3aaac289297ea9dafa0865138618e8ae.jpg)  
 Figure 8.3 Creation of ABSs and an ABS CDO from portfolios of assets (simplified).  
 
 Table 8.1 Estimated losses to tranches of ABS CDO in Figure 8.3.   

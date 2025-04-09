@@ -66,7 +66,7 @@ Notice how we have labeled the states. For example, the lowest state at time 4 i
 
 Now suppose we are in state 1,2. Find this state in the Figure 16.7. Suppose we are interested in knowing the probability of being in state 4,4. Note that to get from 1,2 to 4,4, we can go up two periods and down one or down one period and up two. We can also go up one period, then down one period, and then up one period. Thus, there is more. than one path that can take us to 4,4 from 1,2. We do not need to consider the path from state 1,1 to 2,2 to 3,3 to 4,4, because it did not start off in state 1,2. The probability of getting to state 4,4 from state 1,2 is the forward probability. Alternatively, we might be. in state 4,4 and want to know what is the probability that we came from state 1,2. The paths are the same as in the forward probability, but the perspective is different. We can think of the forward probability as $\operatorname*{Pr}(k=4,4|j=1,2)$ and the backward probability as $\operatorname*{Pr}(j=1,2|k=4,4)$
 
-![](images/d81e030d36cd5298c130f62f217c29dab8b7799673ff9f8ad7e376f70996ee04.jpg)
+![](d81e030d36cd5298c130f62f217c29dab8b7799673ff9f8ad7e376f70996ee04.jpg)
 FIGURE 16.7 Four-Period Binomial Wiener Process
 
 For illustration of the forward probability, let state $j$ be state 1,2; state $k$ be state 4,4; then $n=3$ . Recall the forward probability stated in Equation (16.39):
@@ -107,10 +107,10 @@ This backward lattice consists of states that do not actually exist. The impossi
 
 For the columns 0, 1, and 2, we can see that there exists states in each column that are not real. If we are coming from a state in one of these columns, then we must consider that we came from only a possible state in the column (not a fake state created during the creation of the backward lattice). Conditional probabilities are used to update the probabilities for a given column. Column 1, for example, has only two possible states-1,1 and 1,2; thus, if we are looking for the probability that we came from a state in column 1 given that we are currently in state 4,4, we must update the probability to be conditional that we have to be in either state 1,1 or 1,2 only. Thus,.
 
-![](images/f20b16426e91d90daefc5b4d2cbb397a8b9c9979fc195b8a86b870a155bb320d.jpg)
+![](f20b16426e91d90daefc5b4d2cbb397a8b9c9979fc195b8a86b870a155bb320d.jpg)
 FIGURE 16.8Forward Lattice with Impossible Nodes Demarcated in Bold
 
-![](images/30ed96ddc5ddce8c9d096d1cb3cef9a11920f97682ab2cec1d38519a0d374456.jpg)
+![](30ed96ddc5ddce8c9d096d1cb3cef9a11920f97682ab2cec1d38519a0d374456.jpg)
 FIGURE 16.9  Backward Lattice Illustrated with Impossible Nodes Demarcated in Bold
 
 $$
@@ -134,7 +134,7 @@ Figure 16.10 shows a three-period binomial tree for an asset priced at 100 that 
 
 For the discrete time analog of the forward equations, we present Table 16.1, which indicates the probability of being in a future state, given that one is in a current state. The rows, as described in the first column, are the current states in which one could be. The columns are the future states. A given cell value is the probability of being in the future state, given that one is in the current state. There are a number of values indicated as NA, which are cases in which the current cell is either after or in the same time step as the future state. That is, from state 2,2, you cannot get to any prior states, nor can you get. to state 2,1 or 2,3. For all future states, there is a probability given when feasible. From. state 2,2, you cannot get to state 3,1, so it is infeasible but that probability is shown as 0.0000. From state 2,2, you can get to state 3,3 by going up, probability 0.54, or to state. 3,2 by going down, probability 0.46. Of course, you cannot get to state 3,4 from 2,2, so that probability is 0.0000.
 
-![](images/1f62f11d1b6c9194587d473d9e321aa082b528bf8c55075078a12b4aa57c6fbb.jpg)
+![](1f62f11d1b6c9194587d473d9e321aa082b528bf8c55075078a12b4aa57c6fbb.jpg)
 FIGURE 16.10 Binomial Tree for Illustrating Forward and Backward Probabilities
 
 IABLE 16.1 Forward Probabilities in a Binomial World

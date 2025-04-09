@@ -189,7 +189,7 @@ Choose one exchange rate and one stock index. Estimate the value of. $\lambda$ i
 
 www-2.rotman.utoronto.ca/\~hull/data.  
 
-![](images/6736579988986b038b4cf287fe6b2a41c24ffaa672ab66927b768f2dc67cda7f.jpg)  
+![](6736579988986b038b4cf287fe6b2a41c24ffaa672ab66927b768f2dc67cda7f.jpg)  
 Credit Risk  
 
 Most of the derivatives considered so far in this book have been concerned with market risk. In this chapter we consider another important risk for financial institutions: credit risk. Most financial institutions devote considerable resources to the measurement and management of credit risk. Regulators have for many years required banks to keep capital to reflect the credit risks they are bearing.  

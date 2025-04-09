@@ -116,7 +116,7 @@ $$
 
 We see that the function is nonlinear and concave.  
 
-![](images/84952aef7f555a0f36bb2edcf5dc0c032a8a4a9f3f5894caca976fd867d60e7d.jpg)  
+![](84952aef7f555a0f36bb2edcf5dc0c032a8a4a9f3f5894caca976fd867d60e7d.jpg)  
 
 # FIGURE 10.5  
 
@@ -164,7 +164,7 @@ $$
 \left[L_{t_{i}}-f_{t_{0}}\right]\delta N
 $$  
 
-![](images/0c52dfff15003128c045173addfc20ce75708b454ceed03cedb1f9c44455d4ab.jpg)  
+![](0c52dfff15003128c045173addfc20ce75708b454ceed03cedb1f9c44455d4ab.jpg)  
 
 # FIGURE 10.6  
 

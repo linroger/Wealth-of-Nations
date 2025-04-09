@@ -6,7 +6,7 @@ As rates move away from $6\%$ , however, the costs of delivering the two bonds d
 
 The futures price equals the lowest price-conversion factor ratio across deliverable bonds. Graphically, in the present example, the price of TYU1 is the minimum or lower envelope of the two price-conversion factor curves, depicted in Figure 11.5 by a semi-transparent, gray band. At expiration, the futures price tracks the price of the low-duration bond when rates are low and the price of the high-duration bond when rates are high.  
 
-![](images/0955e3004faf5b9315b4f05c07de13f4ecd9ed33e2418edbcd2fa616c517ca58.jpg)  
+![](0955e3004faf5b9315b4f05c07de13f4ecd9ed33e2418edbcd2fa616c517ca58.jpg)  
 FIGURE 11.5 Quality Option for TYU1 with a Flat Term Structure of Yields, as of the Last Trading Date.  
 
 Figure 11.5 is stylized in two ways. First, because there are many deliverable bonds, several distinct ranges of yield at expiration might each determine a different CTD. Along the lines of the discussion here, however, the deliverable bond with the shortest duration is typically CTD at the lowest range of yields; deliverable bonds with intermediate durations might be CTD at intermediate ranges of yield; and the deliverable bond with the longest duration is typically CTD at the highest range of yields.  

@@ -17,7 +17,7 @@ PCs of rates are particularly useful because of an empirical regularity: the sum
 
 Figure 6.4 graphs the first three principal components, while Table 6.5 provides similar information in tabular form. Columns (2) to (4) correspond to the three PC curves in the figure, which can be interpreted as follows. A one standard deviation increase in the level' PC, given both in Column (2) and the solid line in the figure, is a simultaneous increase in the one-year rate of 0.23 basis points; in the two-year rate of 0.59 basis points; in the 10-year rate of 3.44 basis points; and in the 30-year rate of 3.77 basis points. On a particular day, the change in the term structure might be best explained as a 1.5 standard deviation move in the first PC, that is, as adding 1.5 times each element of the first PC to corresponding. swap rates. On another day, the change in the term structure might best be described as a $-0.75$ standard deviation move in the first component, that. is, as subtracting 0.75 times each element of the first PC from current rates. In any case, the first PC has been traditionally called the "level" component because it has typically represented an approximately parallel shift over much of its range. In the empirical results presented here, however, the component is not particularly level for terms from one to seven years..  
 
-![](images/5ad58d05c4934711dabf1da5746fa9a0597e97b2989f70ac136bf0f608a0c082.jpg)  
+![](5ad58d05c4934711dabf1da5746fa9a0597e97b2989f70ac136bf0f608a0c082.jpg)  
 FIGURE 6.4  The First Three Principal Components of USD LIBOR Swap Rates, Estimated from June 1, 2020, to July 16, 2021.  
 
 TABLE 6.5 Principal Component Analysis of USD LIBOR Swap Rates from June 1, 2020, to July 16, 2021. Columns (2)-(6) Are in Basis Points; Columns (7)-(10) Are in Percent.   
@@ -65,10 +65,10 @@ The overall lessons from PCA are often similar across global markets. Estimated 
 
 Hedges based on PCA are constructed like the multi-factor approaches of Chapter 5. Using the current term structure, calculate the current price of the portfolio being hedged; shift the current term structure by each PC,. in turn, to get new term structures and new portfolio prices; with these new prices, calculate a portfolio $^{\ '}01$ with respect to each PC; and find a portfolio of hedging securities that neutralizes these $^{\circ_{1s}}$  
 
-![](images/dbfd19bb35f2a8449580b4b5e9360b13639aa5269a1fee901d12c4b7b3d238e8.jpg)  
+![](dbfd19bb35f2a8449580b4b5e9360b13639aa5269a1fee901d12c4b7b3d238e8.jpg)  
 FIGURE 6.5 The First Three Principal Components of GBP LIBOR Swap Rates, Estimated from June 1, 2020, to July 16, 2021.  
 
-![](images/f37d77ceed15875bdf839f15d87fef50c9027d54b262177e09d1d147619f062e.jpg)  
+![](f37d77ceed15875bdf839f15d87fef50c9027d54b262177e09d1d147619f062e.jpg)  
 FIGURe 6.6 The First Three Principal Components of Euribor Swap Rates, Estimated from June 1, 2020, to July 16, 2021.  
 
 IABLE 6.6USD LIBOR Par Swap Rates and DV01s, as of July 16, 2021, and PC Elements from Table 6.5. Rates Are in Percent, and PC Elements Are in Basis Points.   

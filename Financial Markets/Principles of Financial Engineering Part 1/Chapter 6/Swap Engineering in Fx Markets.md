@@ -12,7 +12,7 @@ According to this figure, there are at least two ways of looking at a FX swap. T
 
 When combined with a spot operation, FX swaps duplicate forward currency contracts easily, as shown in Figure 6.7. Because they are swaps of a deposit against a loan, interest rate differentials  
 
-![](images/68fa8a8ef3554d93c138d0ce67a2145eeddb97d729a0b2861453470529efc852.jpg)  
+![](68fa8a8ef3554d93c138d0ce67a2145eeddb97d729a0b2861453470529efc852.jpg)  
 
 # FIGURE 6.6  
 
@@ -28,7 +28,7 @@ Why would a bank prefer to deal in FX swaps instead of outright forward? This is
 
 FX swaps have several advantages over the synthetic seen earlier. First of all, FX swaps are interbank instruments and, normally, are not available to clients. Banks deal with each other every day, and thus, compared to other counterparties, one could argue that counterparty risk is relatively lower in writing such contracts. In liquid markets, the implied bid-ask spread for synthetics  
 
-![](images/52847ac6803c0d69d61bf316cd3acc2207e354531cb197787f9580f1a0dd2f38.jpg)  
+![](52847ac6803c0d69d61bf316cd3acc2207e354531cb197787f9580f1a0dd2f38.jpg)  
 
 # FIGURE 6.7  
 

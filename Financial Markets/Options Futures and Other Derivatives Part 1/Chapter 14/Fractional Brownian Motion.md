@@ -70,7 +70,7 @@ Figure 14.3 shows the simulation of fractional Brownian motion over one year for
 
 Stochastic processes describe the probabilistic evolution of the value of a variable. through time. A Markov process is one where only the present value of the variable. is relevant for predicting the future. The past history of the variable and the way in which the present has emerged from the past is irrelevant..  
 
-![](images/61dee99f4e0f38956793c73111665f4d9d5d94b64ec8ad111eb2e8bc14c2911f.jpg)  
+![](61dee99f4e0f38956793c73111665f4d9d5d94b64ec8ad111eb2e8bc14c2911f.jpg)  
 Figure 14.3 Simulation of fractional Brownian motion for different values of the Hurst exponent.  
 
 A Wiener process. $d z$ is a Markov process describing the evolution of a normally. distributed variable. The drift of the process is zero and the variance rate is 1.0 per unit time. This means that, if the value of the variable is. $x_{0}$ at time 0, then at time $T$ it is normally distributed with mean $x_{0}$ and standard deviation $\sqrt{T}$  
@@ -302,7 +302,7 @@ $$
 
 In these equations, $\rho_{i j}$ is the correlation between $d z_{i}$ and $d z_{j}$ (see Section 14.5).  
 
-![](images/2d59f63d0b51c9873cff0f038bf2eef594345bbc40ca8a34500fb17d20b5d597.jpg)  
+![](2d59f63d0b51c9873cff0f038bf2eef594345bbc40ca8a34500fb17d20b5d597.jpg)  
 
 # The BlackScholes-Merton Model  
 

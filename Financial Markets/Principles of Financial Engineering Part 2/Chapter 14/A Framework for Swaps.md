@@ -7,7 +7,7 @@ To simplify the discussion we work with a three-period forward swap, shown in Fi
 1. The notional amount is $N_{-}$ and the tenor of the underlying LIBOR rate is $\delta$ , which represents a proportion of a calendar year. As usual, if a year is denoted by 1, then $\delta$ will be 1/4 in the case of 3-month LIBOR.   
 2. The swap maturity is three periods. The swap ends at time $T=t_{4}$ . The swap contract is signed at time $t_{0}$ but starts at time $t_{1}$ , hence the term forward swap is used.'  
 
-![](images/2fbd6b922c97f4e54d9295756991a02987c168af255c50676d76c4541ac6d34d.jpg)  
+![](2fbd6b922c97f4e54d9295756991a02987c168af255c50676d76c4541ac6d34d.jpg)  
 
 # FIGURE 14.2  
 
@@ -24,7 +24,7 @@ $$
 T_{1}<T_{2}<T_{3}<T_{4}
 $$  
 
-![](images/641f3c5c075b1e768310a771b8a30ed0f1924eacdef4c496c2205c9081d0c17f.jpg)  
+![](641f3c5c075b1e768310a771b8a30ed0f1924eacdef4c496c2205c9081d0c17f.jpg)  
 
 # FIGURE 14.3  
 

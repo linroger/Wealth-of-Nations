@@ -171,7 +171,7 @@ Table 1 shows the Macaulay duration of the zero bonds are equal to maturity, as 
 
 A good way to visualize the Macaulay duration is to imagine PVs of cash flows as weights placed on a balance-beam. Figure 1 shows the Macaulay duration for the two year annuity. The cash flows are. $\$1.25$ each half- year, and the circles represent the PVs, which gradually decline further out. The fulcrum of the balance beam is just slightly less than the mid-point (1.24 years). If we drew the diagram for the two year bond there would be a much large cash flow (the. $\$100$ principal) at year 2 and this is what pushes the Macaulay duration (the fulcrum on the balance beam) out to 1.96 years for the two year coupon bond..  
 
-![](images/1814cb9a3ff36af6d901ced72027f0cf0be48f37951e9abd3da6a9e13985d0dd.jpg)  
+![](1814cb9a3ff36af6d901ced72027f0cf0be48f37951e9abd3da6a9e13985d0dd.jpg)  
 Figure 1 - Macaulay Duration for Two Year Annuity   
 This shows the Macaulay duration as the fulcrum or balance point on a balance beam, with weights representing the present value ofcash flows. "PV' is the present value ofthe cash flow. Time" is the maturity ofthe cash flow. The Macaulay Duration is shown at the fulcrum.  
 
@@ -232,7 +232,7 @@ $$
 
 and graphically the forward function is a step function:  
 
-![](images/dc7607394395fdb5c56e4da644694260f5904b126ea0ed9107d4303c89d13d63.jpg)  
+![](dc7607394395fdb5c56e4da644694260f5904b126ea0ed9107d4303c89d13d63.jpg)  
 Figure 2 - Piece-Wise Constant Forward Curve   
 Solid are Zero Rates, Dashed are Forward Rates  
 
@@ -664,7 +664,7 @@ Our original curve has breaks at 1, 2, 5, and 10 years and is built with instrum
 
 Figure 3 shows the original curve and the reduced or compressed curve.  
 
-![](images/7432f8badc792e2554303b3d5c085b314b50814bc8fac4a798299b2ae4fe8cf3.jpg)  
+![](7432f8badc792e2554303b3d5c085b314b50814bc8fac4a798299b2ae4fe8cf3.jpg)  
 Figure 3 - Piece-Wise Constant Forward Curve, Original and Reduced   
 Solid is Original Curve. Dashed is Without 2yr Swap  
 
@@ -705,7 +705,7 @@ Comparing this with table 12 we see that the risk for the 5 year and 10 year swa
 
 All examples so far have used a piece-wise constant forward curve but none of the results are limited to this functional form. Although a piece-wise constant forward curve is a robust, simple, useful functional form to use in market applications it is by no means the only possible curve. One popular alternative is piece-wise linear zero, where continuously-compounded zero rates are linearly-interpolated between break points. The curve variables $\left(\begin{array}{l l l}{\nu_{1}}&{\cdots}&{\nu_{k}}\end{array}\right)$ are zero rates at the break points: in this case (zero 1yr, zero 2yr, zero 5yr, zero 10yr). Figure 4 shows the fitted zero rates and forward rates..  
 
-![](images/d51a8770f7b0b089a54602a23aa61e5ebe0798f9f180532a4e0f8a47d2c0081a.jpg)  
+![](d51a8770f7b0b089a54602a23aa61e5ebe0798f9f180532a4e0f8a47d2c0081a.jpg)  
 Figure 4 - Piece-Wise Linear Zero Curve  
 
 e can calculate the derivatives of instruments w.r.t. the curve parameters, just as we did in table 5 above. In this case the risk is w.r.t. continuously-compounded zero rates. The following table shows the risk w.r.t. the curve variables, on other words w.r.t. zero rates.  
@@ -770,7 +770,7 @@ Table A2 - Market Instrument Used for Building Sample Curve
 
 <html><body><table><tr><td>Instrument</td><td>Maturity (yrs)</td><td>Coupon Rate (%)</td><td>Fwd Rate</td></tr><tr><td>1yr Swap</td><td>1</td><td>2.</td><td>0.0199</td></tr><tr><td>1 y2y Fwd</td><td>1</td><td>3.014</td><td>0.0299</td></tr><tr><td>5yr Swap</td><td>5</td><td>3.</td><td>0.0333</td></tr><tr><td>10yr Swap</td><td>10</td><td>3.5</td><td>0.0406</td></tr></table></body></html>  
 
-![](images/fd99e311622bff439f9a55882220291f39342f674f31ad50428e23c6a6cf0167.jpg)  
+![](fd99e311622bff439f9a55882220291f39342f674f31ad50428e23c6a6cf0167.jpg)  
 Figure A1 - Piece-Wise Constant Forward Curve  
 
 The partial Dv01s for all the instruments, calculated from the piece-wise constant forward curve, is shown in the following :able. The Dv01s are derivatives w.r.t. continuously-compounded forward rates (the parameters of the curve above).  
@@ -791,13 +791,13 @@ Table A4 shows the Dvo1, modified duration, and Macaulay duration for a sub-set 
 
 Table A4 - Dv01 w.r.t. Curve Variables (Forward Rates) for Selected Instruments  
 
-![](images/c48003a33b382edda1397480d7903a23dcf7cb23c36180d27f2f540f29f112ec.jpg)  
+![](c48003a33b382edda1397480d7903a23dcf7cb23c36180d27f2f540f29f112ec.jpg)  
 
 <html><body><table><tr><td>Instrument</td><td>Coupon （%)</td><td>Price</td><td>Yield （%)</td><td>DV01</td><td>Mod Dur</td><td>Mac Dur</td></tr><tr><td>2yr Bond</td><td>2.5</td><td>100.</td><td>2.5</td><td>1.94</td><td>1.94</td><td>1.96</td></tr><tr><td>10yr Bond</td><td>3.5</td><td>100.</td><td>3.5</td><td>8.38</td><td>8.38</td><td>8.52</td></tr><tr><td>2yr Ann</td><td>2.5</td><td>4.86</td><td>2.3</td><td>0.06</td><td>1.23</td><td>1.24</td></tr><tr><td>10yr Ann</td><td>3.5</td><td>29.72</td><td>3.22</td><td>1.46</td><td>4.91</td><td>4.98</td></tr><tr><td>2yr Zero</td><td>0.</td><td>95.14</td><td>2.51</td><td>1.88</td><td>1.97</td><td>2.</td></tr><tr><td>2y5y Fwd</td><td>3.36</td><td>0.</td><td>3.36</td><td>2.69</td><td>-100.</td><td>-100.</td></tr></table></body></html>  
 
 Macaulay Duration for first security in table above  
 
-![](images/1f0dc4994f6c4a4602f97b72885010b369ada3b16f466779636c02cd4ff9c74f.jpg)  
+![](1f0dc4994f6c4a4602f97b72885010b369ada3b16f466779636c02cd4ff9c74f.jpg)  
 DV01 is the dollar change for a $\$100$ notional instrument per 100bp change in yield. Modified duration is the percent change per 100bp change in yield. Macaulay duration is the weighted average time to maturity, in years. Duration for forward swaps are not calculated (anc are reported as -100).  
 
 # Transformed Partial Dv01s  
@@ -808,7 +808,7 @@ Table A5 - Transformed Dv01 w.r.t. Alternate Variables
 
 Partial Dvols  
 
-![](images/ac09003a2a197fc7cf7faf95670824d7857ee868953654989801119f729a6c37.jpg)  
+![](ac09003a2a197fc7cf7faf95670824d7857ee868953654989801119f729a6c37.jpg)  
 DV01s are reported as dollar change for a $\$100$ notional instrument per l00bp change in yields orrates. Instruments used in fitting the curve are highlighted. Transformed via methodology discussed in the text.  
 
 <html><body><table><tr><td></td><td>lyr : Swap</td><td>2yr Swap</td><td>5yr Swap</td><td>10yr Swap</td><td>Total</td></tr><tr><td>1yr Swap</td><td>0.98</td><td>0.</td><td>0.</td><td>0.</td><td>0.98</td></tr><tr><td>2yr Swap</td><td>0.</td><td>1.94</td><td>0.</td><td>0.</td><td>1.94</td></tr><tr><td>3yr Swap</td><td>0.</td><td>1.27</td><td>1.59</td><td>0.</td><td>2.86</td></tr><tr><td>5yr Swap</td><td>0.</td><td>0.</td><td>4.61</td><td>0.</td><td>4.61</td></tr><tr><td>10yr Swap</td><td>0.</td><td>0.</td><td>0.</td><td>8.38</td><td>8.38</td></tr><tr><td>1yr Ann</td><td>0.01</td><td>0.</td><td>0.</td><td>0.</td><td>0.01</td></tr><tr><td>2yr Ann</td><td>0.02</td><td>0.04</td><td>0.</td><td>0.</td><td>0.06</td></tr><tr><td>3yr   Ann</td><td>0.03</td><td>0.08</td><td>0.04</td><td>0.</td><td>0.15</td></tr><tr><td>5yr Ann</td><td>0.03</td><td>0.11</td><td>0.24</td><td>0.</td><td>0.37</td></tr><tr><td>10yr Ann</td><td>0.03</td><td>0.11</td><td>0.54</td><td>0.78</td><td>1.45</td></tr><tr><td>lyr Zero</td><td>0.97</td><td>0.</td><td>0.</td><td>0.</td><td>0.97</td></tr><tr><td>2yr Zero</td><td>-0.02</td><td>1.9</td><td>0.</td><td>0.</td><td>1.88</td></tr><tr><td>3yr Zero</td><td>-0.02</td><td>1.19</td><td>1.56</td><td>0.</td><td>2.72</td></tr><tr><td>5yr Zero</td><td>-0.03</td><td>-0.11</td><td>4.37</td><td>0.</td><td>4.24</td></tr><tr><td>10yr Zero</td><td>-0.03</td><td>-0.11</td><td>-0.54</td><td>7.6</td><td>6.93</td></tr><tr><td>1y2y Fwd</td><td>-0.99</td><td>1.95</td><td>0.</td><td>0.</td><td>0.96</td></tr><tr><td>2y5yFwd</td><td>-0.01</td><td>-1.94</td><td>4.64</td><td>0.</td><td>2.7</td></tr><tr><td>3y5y Fwd</td><td>0.</td><td>-1.27</td><td>3.02</td><td>0.</td><td>1.74</td></tr><tr><td>5y10y Fwd</td><td>-0.01</td><td>-0.02</td><td>- 4.6</td><td>8.51</td><td>3.88</td></tr><tr><td>7y10y Fwd</td><td>0.</td><td>-0.01</td><td>-2.66</td><td>4.79</td><td>2.12</td></tr></table></body></html>  

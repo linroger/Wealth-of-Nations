@@ -11,10 +11,10 @@ Jack is offered a $4.0\%$ semi-annual $\$1,000$ par value bond maturing in $3^{1
 
 Suppose that no zero-coupon bonds are currently traded in the market from which to obtain the zero-coupon rates, but we can observe the set of coupon bond prices and rates in Figure 2.13. All the bonds have semi-annual coupons, the yields-to-maturity are stated in semi-annual.  
 
-![](images/81a2c0a2a1ab18423dac977c07d0685b6227c4ac72e8e5b5f4313d293302f394.jpg)  
+![](81a2c0a2a1ab18423dac977c07d0685b6227c4ac72e8e5b5f4313d293302f394.jpg)  
 Figure 2.12 A $3\%$ -year coupon bond we want to value  
 
-![](images/6916017075b20a3e5a56226cde0413c5f78fe573a858d39ae058dafd714d85c3.jpg)  
+![](6916017075b20a3e5a56226cde0413c5f78fe573a858d39ae058dafd714d85c3.jpg)  
 Figure 2.13 The term structure of coupon interest rates  
 
 rates, and prices are stated per $\$100$ par value. The yields-to-maturity are computed by solving. for the discount rate for which the sum of the present values of the cash flows equals the given bond price. An example yield-to-maturity equation is shown for the 2-year. $3.5\%$ bond. The equation is solved using a trial-and-error method, a financial calculator, or an Excel function RATE. The term structure of coupon rates is a set of terms (maturities) and the corresponding. yields-to-maturity. It is commonly represented as a table or graph. In Figure 2.13 we show both.  
@@ -49,5 +49,5 @@ $$
 
 where one period forward discount factors are df-1,t = - $\mathbf{\Sigma}_{\cdot1,\mathbf{t}}={\frac{\mathrm{df}_{\mathrm{t}}}{\mathrm{df}_{\mathrm{t-1}}}}$ and forward zero rates are $\mathrm{f_{t-l,t}}=2(\mathrm{df_{t-l,t}}^{-2}-1)$  
 
-![](images/27f773ba4b912238eb310fb703fabddd94628bcfaef83569444efe512696c8f5.jpg)  
+![](27f773ba4b912238eb310fb703fabddd94628bcfaef83569444efe512696c8f5.jpg)  
 Figure 2.14Valuation of the $31/2$ year $4\%$ semiann. coupon bond using the bootstrapped discount factors  

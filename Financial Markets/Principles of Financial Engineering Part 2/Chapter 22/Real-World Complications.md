@@ -2,7 +2,7 @@
 
 The discussion of how to model and value tranche spreads has been a very simplified one. Realworld trading has several complications and also requires further modeling effort. Several additional questions also need to be addressed. We briefly discuss them below..  
 
-![](images/2101131f85e5f9436ae33bb67eafa0b2939f40970511e5af82b1f745c0023409.jpg)  
+![](2101131f85e5f9436ae33bb67eafa0b2939f40970511e5af82b1f745c0023409.jpg)  
 
 # FIGURE 22.4  
 

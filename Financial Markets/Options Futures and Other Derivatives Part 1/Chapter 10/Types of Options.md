@@ -4,7 +4,7 @@ As mentioned in Chapter 1, there are two types of options. A call option gives t
 
 Options can be either American or European, a distinction that has nothing to do with geographical location. American options can be exercised at any time up to the. expiration date, whereas European options can be exercised only on the expiration date itself. Most of the options that are traded on exchanges are American. However, European options are generally easier to analyze than American options, and some. of the properties of an American option are frequently deduced from those of its. European counterpart.  
 
-![](images/edade3a3d2f28871a3829ab20179f8ac20e692b950aca132cc6eb5b3b33a661f.jpg)  
+![](edade3a3d2f28871a3829ab20179f8ac20e692b950aca132cc6eb5b3b33a661f.jpg)  
 Figure 10.1 Profit from buying a European call option on one share of a stock. Option price $=\$5$ ; strike price $=\$100$  
 
 # Call Options  
@@ -17,7 +17,7 @@ Figure 10.1 shows how the investor's net profit or loss on an option to purchase
 
 Whereas the purchaser of a call option is hoping that the stock price will increase, the. purchaser of a put option is hoping that it will decrease. Consider an investor who buys a European put option with a strike price of $\$70$ to sell 100 shares of a certain. stock. Suppose that the current stock price is $\$65$ , the expiration date of the option is in 3 months, and the price of an option to sell one share is $\$7$ The initial investment is. $\$700$ . Because the option is European, it will be exercised only if the stock price is below $\$70$ on the expiration date. Suppose that the stock price is $\$55$ on this date. The investor can buy 100 shares for $\$55$ per share and, under the terms of the put option, sell the same shares for. $\$70$ to realize a gain of. $\$15$ per share, oru. $\$1,500$ .(Again, transaction costs are ignored.) When the $\$700$ initial cost of the option is taken into account, the investor's net profit is $\$800$ . There is no guarantee that the investor will make a gain. If the final stock price is above $\$70$ , the put option expires worthless, and the investor loses $\$700$ Figure 10.2 shows the way in which the investor's profit or loss on an option to sell one share varies with the terminal stock price in this example.  
 
-![](images/e0935ecfc9262860c7ff5e311a73cbfb4f4164f7b74a4ac17e3e2ee6bb09b725.jpg)  
+![](e0935ecfc9262860c7ff5e311a73cbfb4f4164f7b74a4ac17e3e2ee6bb09b725.jpg)  
 Figure 10.2 Profit from buying a European put option on one share of a stock. Option price $=\$7$ ; strike price $=\$70$  
 
 # Early Exercise  

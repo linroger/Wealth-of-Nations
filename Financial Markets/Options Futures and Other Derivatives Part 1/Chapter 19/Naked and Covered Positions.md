@@ -10,7 +10,7 @@ Neither a naked position nor a covered position provides a good hedge. If the. a
 
 One interesting hedging procedure that is sometimes proposed involves a stop-loss. strategy. To illustrate the basic idea, consider an institution that has written a call option. with strike price $K$ to buy one unit of a stock. The hedging procedure involves buying one. unit of the stock as soon as its price rises above. $K$ and selling it as soon as its price falls below $K$ The objective is to hold a naked position whenever the stock price is less than $K$ and a covered position whenever the stock price is greater than. $K$ . The procedure is designed to ensure that at time $T$ the institution owns the stock if the option closes in the. money and does not own it if the option closes out of the money. In the situation illustrated in Figure 19.1, it involves buying the stock at time. $t_{1}$ , selling it at time $t_{2}$ buying it at time $t_{3}$ , selling it at time $t_{4}$ , buying it at time $t_{5}$ , and delivering it at time $T$  
 
-![](images/ce5097ce640884a2466a5e562fe700236bee74d9b01fbdf26c661ed735d63fd0.jpg)  
+![](ce5097ce640884a2466a5e562fe700236bee74d9b01fbdf26c661ed735d63fd0.jpg)  
 Figure 19.1 A stop-loss strategy.  
 
 As usual, we denote the initial stock price by $S_{0}$ . The cost of setting up the hedge initially is $S_{0}$ if $S_{0}>K$ and zero otherwise. It seems as though the total cost, $Q$ , of writing and hedging the option is the option's initial intrinsic value:  

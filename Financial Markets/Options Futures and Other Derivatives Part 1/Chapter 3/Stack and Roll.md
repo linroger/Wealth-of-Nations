@@ -161,7 +161,7 @@ $$
 
 can be used as a basis for hedging a diversified portfolio, as described in Section 3.5. The $\beta$ in the equation is the beta of the portfolio. It can be calculated as the weighted average of the betas of the stocks in the portfolio.  
 
-![](images/46f0b70095d70f5694da0f5130485a3e63ee61b5bb79931d3ef1e59c9a29b92b.jpg)  
+![](46f0b70095d70f5694da0f5130485a3e63ee61b5bb79931d3ef1e59c9a29b92b.jpg)  
 
 # Interest Rates  
 

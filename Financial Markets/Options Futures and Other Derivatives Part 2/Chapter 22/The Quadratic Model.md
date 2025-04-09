@@ -10,13 +10,13 @@ Figure 22.3 shows the impact of a nonzero gamma on the probability distribution 
 
 The VaR or ES for a portfolio is critically dependent on the left tail of the probability distribution of the portfolio value. For example, when the confidence level used is. $99\%$ the $\mathrm{VaR}$ is the value in the left tail below which there is only. $1\%$ of the distribution. As. indicated in Figures 22.3a and 22.4, a positive gamma portfolio tends to have a less heavy left tail than the normal distribution. If the distribution of $\Delta P$ is normal, the calculated VaR tends to be too high. Similarly, as indicated in Figures 22.3b and 22.5, a negative gamma portfolio tends to have a heavier left tail than the normal distribution. If the distribution of $\Delta P$ is normal, the calculated VaR tends to be too low.  
 
-![](images/297e7a22026ed74af815022c419f72460e8abd84318d0e89a524dffd0568de18.jpg)  
+![](297e7a22026ed74af815022c419f72460e8abd84318d0e89a524dffd0568de18.jpg)  
 Figure 22.3  Probability distribution for value of portfolio: (a) positive gamma; (b) negative gamma.  
 
-![](images/1ca6323bbc85a5a69ebd66cffacd69dd07f30290165b5c47cb8628182bc6694a.jpg)  
+![](1ca6323bbc85a5a69ebd66cffacd69dd07f30290165b5c47cb8628182bc6694a.jpg)  
 Figure 22.4 Translation of normal probability distribution for asset into probability distribution for value of a long call on asset..  
 
-![](images/9fc3dc8a410e4112a5a9fbcd13c56bc745df53b4d71b4e11abdb78446fd78cfa.jpg)  
+![](9fc3dc8a410e4112a5a9fbcd13c56bc745df53b4d71b4e11abdb78446fd78cfa.jpg)  
 Figure 22.5 Translation of normal probability distribution for asset into probability distribution for value of a short call on asset.  
 
 For a more accurate estimate of $\mathrm{VaR}$ than that given by the linear model, both delta. and gamma measures can be used to relate. $\Delta P$ to thee $\Delta x_{i}.$ Consider a portfolio dependent on a single asset whose price is. $S$ . Suppose $\delta$ and $\gamma$ are the delta and gamma. of the portfolio. From the appendix to Chapter 19, the equation  

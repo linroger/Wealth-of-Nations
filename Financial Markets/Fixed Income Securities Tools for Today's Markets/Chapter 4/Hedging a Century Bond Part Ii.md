@@ -6,7 +6,7 @@ Figure 4.6 shows the $\mathrm{P}\&\mathrm{L}$ of $\$100$ million face amount of 
 
 Section 4.3 showed that, with these face amounts, the two positions have the same Dv01 at current market levels. Figure 4.6 reflects this fact in that the two $\mathrm{P}\&\mathrm{L}$ curves are tangent to each other, that is, they have the same slope, at current rates. Both bonds are positively convex, of course, but, because the NSC bonds are more convex (Table 4.4), their P&L exceeds the P&L on the Treasury bonds whether rates fall or rise. This result is emphasized by the dotted line in the figure, graphed against the right axis, which is the P&L of the NSC bonds minus the. $\mathrm{P}\&\mathrm{L}$ of the Treasury bonds and which,. in turn, is the net P&L of the market maker in this application. This net P&L is zero, of course, at current market levels but is positive for both negative and positive rate changes, and particularly large for large, negative changes.  
 
-![](images/daf216b9e4be2551e5d6d7169a7b13d27544930154ac086959f996537385f9c1.jpg)  
+![](daf216b9e4be2551e5d6d7169a7b13d27544930154ac086959f996537385f9c1.jpg)  
 FIGURE 4.6P&L of a Long Position of $\$100$ Million Face Amount of the NSC. 4.10s of 05/15/2121, a Dv01-Equivalent Long Position in the Treasury 1.625s of 11/15/2050, and a Position Long the NSC Bonds and Short the Treasury Bonds, as. of Mid-May 2021.  
 
 Expanding on the results of the previous paragraph, for unchanged. rates and prices, the P&L of both bond holdings is clearly zero. If rates fall, both bonds increase in price and -- because they are both positively convex -- both their Dv01s increase as well. But because the NSC bonds are more. convex, their DV01 increases by more, which, for falling rates, means higher profits. Instead, if rates rise, both bonds decrease in price and in Dv01. But because the NSC bonds are more convex, their DV01 falls by more, which, for rising rates, means lower losses. Therefore, whether rates fall or rise, the P&L on the NSC bonds exceeds the P&L on a DV01-equivalent amount of Treasury bonds.  
@@ -76,7 +76,7 @@ $$
 \begin{array}{c}{{\displaystyle{D V01_{c=100y}=\frac{1}{100y}\left(1-\frac{1}{\left(1+\frac{y}{2}\right)^{2T}}\right)}}}\ {{\displaystyle{}}}\ {{\displaystyle{D_{c=100y}=\frac{1}{y}\left(1-\frac{1}{\left(1+\frac{y}{2}\right)^{2T}}\right)}}}\end{array}
 $$  
 
-![](images/676cd9a0ebe1e5afa059cd652b3485d0a5e387e5b53da6937a91b488c0ecbfbd.jpg)  
+![](676cd9a0ebe1e5afa059cd652b3485d0a5e387e5b53da6937a91b488c0ecbfbd.jpg)  
 FIGUre 4.7 Yield-Based Duration for Bonds with Coupons of $0\%$ $2\%$ , and $5\%$ Yield Equals $2\%$  
 
 The discussion now turns to using these simple expressions to understand how yield-based duration and Dv01 depend on a bond's maturity, coupon, and yield. Figure 4.7, fixing yield for all bonds at. $2\%$ , graphs the duration of bonds of terms out to 40 years with coupons of $0\%$ $2\%$ , and $5\%$ . Several lessons can be taken from this figure..  
@@ -93,14 +93,14 @@ $$
 
 In thinking about how Dv01 changes with term, therefore, there is a. price effect in addition to a duration effect. The duration effect almost always causes DV01 to increase with term, along the lines of the previous discussion. The price effect, however, can reinforce or counter this duration effect. For par bonds, whose prices are always 100, there is no price effect. For premium bonds, whose prices increase with term (recall Figure 3.1), the price effect reinforces the duration effect and, therefore, as shown in Figure (4.8), the. DV01s of $5\%$ bonds increase much more rapidly with term than do the DV01s of par bonds. For discount bonds, by contrast, whose prices decrease. with term, the price effect works against the duration effect and, therefore, as shown in the figure, the DV01s of zero coupon bonds increase more slowly. with term than those of par bonds. In fact, inspection of Equation (4.27). reveals that, at large enough terms, the Dv01s of zero coupon bonds fall. as term increases further, that is, the price effect,. $(1+y/2)^{2{\bar{T}}+1}$ , eventually dominates the duration effect,. $T$  
 
-![](images/56b4fd0756c4bf00dd1605f394b80d6e0ffcbef561439e09b669ef4f534f14c2.jpg)  
+![](56b4fd0756c4bf00dd1605f394b80d6e0ffcbef561439e09b669ef4f534f14c2.jpg)  
 FIGURE 4.8 Yield-Based DV01 for Bonds with Coupons of $0\%,2\%$ and $5\%$ . Yield Equals $2\%$  
 
 Having described how Dv01 and duration vary with term and coupon. rate, the discussion turns to the effect of yield. It is clear from Equation (4.22) that Dvo1 falls as yield increases. This fact was introduced earlier, as an implication of the convex shape of the price-rate curve. As it turns out, increasing yield also lowers duration. Intuitively, increasing yield lowers the present value of all payments, but lowers the present value of the longer payments the most. This, in turn, lowers the proportions of bond value in the longer payments, lowers their weights in the duration calculation, and, therefore, lowers the duration of the bond..  
 
 Figure 4.9 illustrates how duration changes with yield, graphing the duration of par bonds of various terms at yields of $0.5\%$ $2\%$ , and $5\%$ As just discussed, duration is lower at higher yields, significantly so for longer terms. Furthermore, the difference between duration and term, discussed earlier, is greater at higher yields. At a yield of $0.5\%$ , the durations of. 10- and 30-year par bonds are 9.7 and 27.8, respectively, while, at a yield of $5\%$ , those durations are 7.8 and 15.5, respectively.  
 
-![](images/171d75abf4833da419c80fad3b046adc4222b9b8460222d5dc4f67756baa5cfd.jpg)  
+![](171d75abf4833da419c80fad3b046adc4222b9b8460222d5dc4f67756baa5cfd.jpg)  
 FIGURE 4.9  Duration of Par Bonds, with Yields Equal to $0.5\%$ $2\%$ , and $5\%$  
 
 The section turns now to yield-based convexity. Given the general definition of convexity in Equation (4.14), an expression for yield-based convexity can be found by taking the second derivative of Equation (4.20) and dividing by price. The resulting formula is,.  

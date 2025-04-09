@@ -95,7 +95,7 @@ Half of the analysts polled predict the rate to go to $X^{\frac{U S D}{A U D}}=0
 
 The main law governing spot currency trading is that of no triangular arbitrage. In the inter-dealer market, all spot FX rates have to be 'in line' with each other in such a way that buying one currency through a vehicle is neither cheaper nor more expensive than buying it directly. The rule, of course, does not apply to retail markets. Let us illustrate.  
 
-![](images/3e6fc1944f0da999299ac6bf2525b33cbed6a5d358bf1e0d06e8a9da7f65a083.jpg)  
+![](3e6fc1944f0da999299ac6bf2525b33cbed6a5d358bf1e0d06e8a9da7f65a083.jpg)  
 Figure 2.18 Triangular arbitrage  
 
 Suppose you observe in New York: $X^{\frac{J P Y}{U S D}}=118.50$ and $X^{\frac{H K D}{U S D}}=7.80$ At the same moment, a dealer in Tokyo quotes $X^{\frac{J P Y}{H K D}}=15.02$ Can you profit?  

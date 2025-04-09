@@ -230,7 +230,7 @@ $$
 
 should be added to the forward bond yield. This is the result in equation (30.1). For an alternative proof, see Problem 30.6.  
 
-![](images/1a899f4eff386f608b4d6d3495951fc0a81e4c9101047458638a536732eafd25.jpg)  
+![](1a899f4eff386f608b4d6d3495951fc0a81e4c9101047458638a536732eafd25.jpg)  
 
 # Equilibrium Models of the Short Rate  
 

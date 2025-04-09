@@ -28,10 +28,10 @@ Figure 7.5 illustrates the setup for puts. Again, the goal is to establish the l
 
 Again, to form a hedge portfolio, we need the number of underlying assets to have the. same sign as the number of puts. That is, we need to either buy the underlying and buy the put or short the underlying and sell the put..
 
-![](images/b0613005d3dc4733b2a56c055368ca812308ae8eb67f48566ca5809d5942b7a4.jpg)
+![](b0613005d3dc4733b2a56c055368ca812308ae8eb67f48566ca5809d5942b7a4.jpg)
 FGURE 7.4 Binomial Process for Underlying Asset and Put Option
 
-![](images/cbde51600de04f8eb4f83af7b3c6af730645812bee82c47fcc7e6692e08ff5d7.jpg)
+![](cbde51600de04f8eb4f83af7b3c6af730645812bee82c47fcc7e6692e08ff5d7.jpg)
 FIGURe 7.5 Binomial Process for Underlying Asset, Put Option, and Hedge Portfolio
 
 Recall this portfolio replicates a risk-free bond and thus the two portfolio values at the next time step have to be equal or

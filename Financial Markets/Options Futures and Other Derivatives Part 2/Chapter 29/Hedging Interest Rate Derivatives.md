@@ -85,7 +85,7 @@ Assume that all 6-month LIBOR forward rates are $6.7\%$ with semiannual compound
 29.24. Use the DerivaGem software to value a European swaption that gives you the right in   
 2 years to enter into a 5-year swap in which you pay a fixed rate of. $6\%$ and receive floating. Cash flows are exchanged semiannually on the swap. The continuously compounded 1-year, 2-year, 5-year, and 10-year risk-free (Ois) zero rates are $5\%$ $6\%$ $6.5\%$ , and $7\%$ , respectively. Assume a principal of $\$100$ . The forward swap rate. is $7\%$ (compounded semiannually) and its volatility is $15\%$ per annum. Give an example of how the swaption might be used by a corporation. What bond option is equivalent to the swaption?  
 
-![](images/17e6222841178b1c960a7e1fa24058eb6b4dfd71e1847a10297f4b27c10f23ef.jpg)  
+![](17e6222841178b1c960a7e1fa24058eb6b4dfd71e1847a10297f4b27c10f23ef.jpg)  
 
 # Convexity, Timing, and Quanto Adjustments  
 
