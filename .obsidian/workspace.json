@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
+                "file": "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Effects of Tariffs How the Machine Works"
+              "title": "BMW Valuation Report"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Users/rogerlin/Downloads/extracted_images/image_0508.jpeg.md",
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "image_0508.jpeg"
+              "title": "Arbitrage-Free Dynamics"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balance of payments",
+                "query": "Attachments",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,9 +330,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "73e0ae9f977fc484",
+  "active": "6e95f92153345b18",
   "lastOpenFiles": [
+    "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
+    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.svg",
+    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.png",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
+    "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/Chapter 2.md",
+    "Users/rogerlin/Downloads/extracted_images/image_0508.jpeg.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Some Stylized Empirical Facts About Asset Retur.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Introduction and Overview 1.md",
@@ -351,12 +360,6 @@
     "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 4/Chapter 4.md",
     "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 3/Chapter 3.md",
     "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 2/Chapter 2.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Chapter 1/Chapter 1.md",
-    "Financial Markets/Random Walks in Fixed Income and Foreign Exchange/Random Walks in Fixed Income and Foreign Exchange.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Front Matter.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 9/Chapter 9.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 8/Chapter 8.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 7/Chapter 7.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
@@ -375,8 +378,6 @@
     "svg-cache/bbf9b62e480f794332f92788870c7c2e.png",
     "svg-cache/ccaeded309b638a7bdc165b97377e78d.png",
     "svg-cache/f1d10a40db622c7c33c6edb95fe7cf1b.svg",
-    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.svg",
-    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.svg",
-    "svg-cache/94e97c690142b9bc8ebd92d6fd7017a2.png"
+    "svg-cache/2f6b1181de24f12a3a7a85b0d9600b05.svg"
   ]
 }
