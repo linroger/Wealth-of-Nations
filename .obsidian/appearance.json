@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Cupertino",
+  "cssTheme": "LaTeX",
   "accentColor": "#ffc599",
-  "textFontFamily": "Palatino,SF Pro Text,Latin Modern Roman,CMU Serif",
+  "textFontFamily": "Latin Modern Roman,CMU Serif,Palatino,SF Pro Text",
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "translucency": true,
   "enabledCssSnippets": [
     "centered_table",
