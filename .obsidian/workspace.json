@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
+                "file": "Financial Engineering/7. Black Scholes Model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fixed Income Derivatives"
+              "title": "7. Black Scholes Model"
             }
           }
         ],
@@ -302,11 +302,14 @@
       "hide-folders:Show hidden folders": false,
       "ai-tagger:Generate tags!": true,
       "llm-tagger:LLM Tagger": true,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "ai-tagger-universe:Analyze and tag current note": false,
+      "ai-tagger-universe:View tag relationships network": false
     }
   },
   "active": "2bb506e1d75ef789",
   "lastOpenFiles": [
+    "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
     "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
@@ -342,7 +345,6 @@
     "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
