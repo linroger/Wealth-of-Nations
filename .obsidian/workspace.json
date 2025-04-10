@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1. Exploiting an Apparent Arbitrage Opportunity"
             }
+          },
+          {
+            "id": "2bb506e1d75ef789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fixed Income Derivatives"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,8 +305,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "34c1ecfe6365b698",
+  "active": "2bb506e1d75ef789",
   "lastOpenFiles": [
+    "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
@@ -318,7 +343,6 @@
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
-    "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
