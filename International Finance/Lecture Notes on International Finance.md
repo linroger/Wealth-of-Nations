@@ -1002,7 +1002,14 @@ $$
 Now that we obtain a simple solution of the SDF, we are ready to characterize the exchange rate dynamics.
 Proposition  3 . 5 .  Assuming complete markets, the real exchange rate movement is
 $$
-\begin{array}{l} {{\Delta e_{t+1}=\left\{-\displaystyle\frac{\theta}{\psi}+(\theta-1)[1+W_{x}(\rho-\kappa_{1}^{c})]\right\}(x_{t}-x_{t}^{*})+\left\{W_{\sigma}(\phi-\kappa_{1}^{c})(\theta-1)\right\}\left(\sigma_{t}^{2}-\sigma_{t}^{*2}\right)}} \\ {{\qquad-\left\gamma(\sigma_{t}\varepsilon_{g,t+1}-\sigma_{t}^{*}\varepsilon_{g,t+1}^{*}\right)+(\theta-1)W_{x}\varphi_{e}(\sigma_{t}\varepsilon_{x,t+1}-\sigma_{t}^{*}\varepsilon_{x,t+1}^{*})+(\theta-1)W_{\sigma}\omega(\varepsilon_{w,t+1}-\varepsilon_{w,t}^{*}\varepsilon_{g,t+1}^{*})\;.}} \end{array}
+\begin{align}
+\Delta e_{t+1} =\ 
+&\left\{ -\frac{\theta}{\psi} + (\theta - 1)\left[1 + W_{x}(\rho - \kappa_{1}^{c}) \right] \right\}(x_{t} - x_{t}^{*}) \notag \\
+&+ \left\{ W_{\sigma}(\phi - \kappa_{1}^{c})(\theta - 1) \right\} \left( \sigma_{t}^{2} - \sigma_{t}^{*2} \right) \notag \\
+&- \gamma\left(\sigma_{t} \varepsilon_{g,t+1} - \sigma_{t}^{*} \varepsilon_{g,t+1}^{*} \right) \notag \\
+&+ (\theta - 1) W_{x} \varphi_{e} \left(\sigma_{t} \varepsilon_{x,t+1} - \sigma_{t}^{*} \varepsilon_{x,t+1}^{*} \right) \notag \\
+&+ (\theta - 1) W_{\sigma} \omega \left(\varepsilon_{w,t+1} - \varepsilon_{w,t}^{*} \varepsilon_{g,t+1}^{*} \right)\;.
+\end{align}
 $$
 The currency risk premium is
 $$
@@ -1179,7 +1186,23 @@ $$
 With    $\theta=0.5$  .
 In this trade network, countries  2 ,  3 , and  4  rely on country  1 ’s export as intermediate input. The dependency is increasing from country  2  to  $4$  . The implied centrality measure is
 $$
-\begin{array}{r}{\left[\mathcal{C}(1,1)\right]}\\ {\mathcal{C}(2,2)}\\ {\mathcal{C}(3,3)}\\ {\mathcal{C}(4,4)}\end{array}\right]=\left[\begin{array}{l}{4.00}\\ {2.72}\\ {2.22}\\ {2.04}\end{array}\right],
+\left[
+\begin{array}{r}
+\mathcal{C}(1,1) \\
+\mathcal{C}(2,2) \\
+\mathcal{C}(3,3) \\
+\mathcal{C}(4,4)
+\end{array}
+\right]
+=
+\left[
+\begin{array}{r}
+4.00 \\
+2.72 \\
+2.22 \\
+2.04
+\end{array}
+\right],
 $$
 Which implies that country  1  is the most central country because it provides essential production input to all other countries, and country  4  is the most peripheral country because it is very reliant on country  1 ’s export. Accordingly, country  1 ’s shock is the most systematic and as a result it has the lowest currency risk premium.
 This simple network structure also gives rise to a factor structure in exchange rate movements. Let  $\varepsilon_{t+1}^{(i)}$    denote the combined supply and demand shock in country  $i$  . Then, the bilateral exchange rate movements also load on these shocks:
