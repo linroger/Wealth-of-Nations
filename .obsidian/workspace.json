@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/2. Forwards, Swaps, Futures, and Options.md",
+                "file": "International Finance/Lecture Notes on International Finance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Forwards, Swaps, Futures, and Options"
+              "title": "Lecture Notes on International Finance"
             }
           }
         ],
@@ -309,6 +309,7 @@
   },
   "active": "2bb506e1d75ef789",
   "lastOpenFiles": [
+    "Financial Engineering/2. Forwards, Swaps, Futures, and Options.md",
     "Financial Engineering/7. Black Scholes Model.md",
     "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
     "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
@@ -334,7 +335,6 @@
     "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
     "The Ornstein-Uhlenbeck (OU) Process.md",
     "Fixed Income Asset Pricing/Lecture Notes Bonds,  Preferred Stock,  and Structured Products.md",
-    "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",

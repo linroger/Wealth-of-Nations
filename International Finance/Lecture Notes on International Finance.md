@@ -864,7 +864,7 @@ $$
 $$
 Its slope coefficient is given by
 $$
-\frac{c o v (\Delta e_{t+1}^{i\slash\S}, r_{t}^{i}-r_{t}^{\S})}{v a r (r_{t}^{i}-r_{t}^{\S})}=\frac{\chi (\frac{1}{2}\gamma-\chi)(v a r (z_{t}^{i})+v a r (z_{t}^{\S}))}{(\chi-\frac{1}{2}\gamma)^{2}(v a r (z_{t}^{i})+v a r (z_{t}^{\S}))+\frac{1}{4}(\delta^{\S}-\delta^{i})^{2}v a r (z_{t}^{w})},
+\frac{c o v (\Delta e_{t+1}^{i\slash \S}, r_{t}^{i}-r_{t}^{\S})}{v a r (r_{t}^{i}-r_{t}^{\S})}=\frac{\chi (\frac{1}{2}\gamma-\chi)(v a r (z_{t}^{i})+v a r (z_{t}^{\S}))}{(\chi-\frac{1}{2}\gamma)^{2}(v a r (z_{t}^{i})+v a r (z_{t}^{\S}))+\frac{1}{4}(\delta^{\S}-\delta^{i})^{2}v a r (z_{t}^{w})},
 $$
 Which is also positive if    $\textstyle{\frac{1}{2}}\gamma-\chi>0$  . In other words, when  $\chi\,>\, 0$  , the interest rate differential does not fully reflect the currency risk premium that is driven by the idiosyncratic SDF volatility in this model, so that the expected exchange rate movement also co-moves with the risk premium.
 In models with richer structures, it is possible that the global SDF volatility    $z_{t}^{w}$    also drives the expected exchange rate movement. For example, this happens when the drift term in the SDF is
