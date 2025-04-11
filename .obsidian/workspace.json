@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/7. Black Scholes Model.md",
+                "file": "Financial Engineering/2. Forwards, Swaps, Futures, and Options.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Black Scholes Model"
+              "title": "2. Forwards, Swaps, Futures, and Options"
             }
           }
         ],
@@ -309,6 +309,7 @@
   },
   "active": "2bb506e1d75ef789",
   "lastOpenFiles": [
+    "Financial Engineering/7. Black Scholes Model.md",
     "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
     "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
@@ -344,7 +345,6 @@
     "Attachments/fc3cfd6086fe7d110151c6f1af678be2cc5d45a31a2850a0a6e2f2641a3d8af5.jpg",
     "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
-    "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
