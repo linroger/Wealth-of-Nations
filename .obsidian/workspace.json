@@ -157,8 +157,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,7 +307,7 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "2bb506e1d75ef789",
+  "active": "646b7cfa4cb674fd",
   "lastOpenFiles": [
     "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
     "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
