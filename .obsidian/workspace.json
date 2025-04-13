@@ -103,8 +103,7 @@
               "title": "PSET 1 Solution-Financial Instruments"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,46 +306,7 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "floating": {
-    "id": "e5f75aecd4701c05",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8257c7f58ff703ac",
-        "type": "window",
-        "children": [
-          {
-            "id": "7b73ba436531ad58",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e1fc987882551fd6",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/benf2004/Obsidian-LaTeX-Theme",
-                    "title": "GitHub - benf2004/Obsidian-LaTeX-Theme: A theme for Obsidian MD that looks like LaTeX. Based on Paper for Typora: https://github.com/IagoLast/paper",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - benf2004/Obsidian-LaTeX-Theme: A theme for Obsidian MD that looks like LaTeX. Based on Paper for Typora: https://github.com/IagoLast/paper"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 352,
-        "y": 103,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e1fc987882551fd6",
+  "active": "907f0640e075ca09",
   "lastOpenFiles": [
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
     "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
