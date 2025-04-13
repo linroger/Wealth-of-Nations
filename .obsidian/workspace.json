@@ -307,8 +307,48 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "floating": {
+    "id": "e5f75aecd4701c05",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8257c7f58ff703ac",
+        "type": "window",
+        "children": [
+          {
+            "id": "7b73ba436531ad58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1fc987882551fd6",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/benf2004/Obsidian-LaTeX-Theme",
+                    "title": "GitHub - benf2004/Obsidian-LaTeX-Theme: A theme for Obsidian MD that looks like LaTeX. Based on Paper for Typora: https://github.com/IagoLast/paper",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - benf2004/Obsidian-LaTeX-Theme: A theme for Obsidian MD that looks like LaTeX. Based on Paper for Typora: https://github.com/IagoLast/paper"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 103,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e1fc987882551fd6",
   "lastOpenFiles": [
+    "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
     "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
     "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "The Ornstein-Uhlenbeck (OU) Process.md",
@@ -335,7 +375,6 @@
     "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
-    "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Corporate Bonds.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
