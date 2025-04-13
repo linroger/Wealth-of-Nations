@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Lecture Notes on International Finance.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes on International Finance"
+              "title": "PSET 1 Solution-Financial Instruments"
             }
           }
         ],
@@ -131,23 +131,6 @@
             }
           },
           {
-            "id": "6350988f742665d5",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Attachments",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "c1be147b0333c8c2",
             "type": "leaf",
             "state": {
@@ -156,8 +139,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "8d1d7af2b8c171f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "latex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -309,6 +310,11 @@
   },
   "active": "2bb506e1d75ef789",
   "lastOpenFiles": [
+    "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
+    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
+    "The Ornstein-Uhlenbeck (OU) Process.md",
+    "Untitled.canvas",
+    "International Finance/Lecture Notes on International Finance.md",
     "Financial Engineering/2. Forwards, Swaps, Futures, and Options.md",
     "Financial Engineering/7. Black Scholes Model.md",
     "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
@@ -331,10 +337,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
     "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Corporate Bonds.md",
-    "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
-    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
-    "The Ornstein-Uhlenbeck (OU) Process.md",
-    "Fixed Income Asset Pricing/Lecture Notes Bonds,  Preferred Stock,  and Structured Products.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
@@ -354,7 +356,6 @@
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 2",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12",
-    "Untitled.canvas"
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12"
   ]
 }
