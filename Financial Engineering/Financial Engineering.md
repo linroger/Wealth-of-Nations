@@ -61,6 +61,7 @@ title: Financial Engineering
 	- [[SOFR Derivative Pricing Using a Short Rate Model]]
 	- [[Static Option Replication]]
 	- [[Trading the Fixed Income Inflation and Credit Markets]]
+	- [[Untitled]]
 	- [[Valuation of Credit Default Swaps]]
 	- [[Variance Swaps]]
 	- [[Verification of Central Limit Theorem]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Asset Pricing/Fixed Income Lecture Notes/A Guide to the Front End and Basis Swap Markets.md",
+                "file": "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Guide to the Front End and Basis Swap Markets"
+              "title": "8. Credit Modeling and Credit Derivatives"
+            }
+          },
+          {
+            "id": "f369d220e801c9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Engineering/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "PSET 1 Solution-Financial Instruments"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,12 +331,14 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "907f0640e075ca09",
+  "active": "f369d220e801c9cd",
   "lastOpenFiles": [
+    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
+    "Financial Engineering/Untitled.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/A Guide to the Front End and Basis Swap Markets.md",
     "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
     "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
-    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "The Ornstein-Uhlenbeck (OU) Process.md",
     "Untitled.canvas",
     "International Finance/Lecture Notes on International Finance.md",
@@ -333,8 +360,6 @@
     "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
     "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
     "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 2- Interest Rate Risk Management And Factors.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
