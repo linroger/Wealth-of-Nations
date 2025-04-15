@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Untitled.md",
+                "file": "Python Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Python Notes"
+            }
+          },
+          {
+            "id": "1e5b295b03ccffab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025)"
             }
           },
           {
@@ -102,33 +126,9 @@
               "icon": "lucide-file",
               "title": "1. Exploiting an Apparent Arbitrage Opportunity"
             }
-          },
-          {
-            "id": "2bb506e1d75ef789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PSET 1 Solution-Financial Instruments"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,10 +331,12 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "f369d220e801c9cd",
+  "active": "1e5b295b03ccffab",
   "lastOpenFiles": [
-    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
+    "Python Notes.md",
+    "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
     "Financial Engineering/Untitled.md",
+    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/A Guide to the Front End and Basis Swap Markets.md",
     "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
     "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
@@ -358,8 +360,6 @@
     "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
     "Financial Engineering/Introduction to Financial Mathematics.md",
     "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
-    "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
-    "Financial Engineering/Fixed Income Derivatives/The Impact of Option Strategies in Financial  Portfolios Performance.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
