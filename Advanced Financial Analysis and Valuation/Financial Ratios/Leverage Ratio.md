@@ -4,26 +4,19 @@ cssclasses:
 aliases:
   - What It Tells You
   - How to Calculate.md
-tags:
-
-  - finance
-  - risk-management
-  - debt-management
-  - financial-analysis
-  - leverage-ratios
-  - capital-structure
-  - financial-metrics
-  - quantitative-finance
-  - financial-instruments
-  - financial-markets
-  - "#financial-crises"
-  - "#debt-cycles"
-  - "#economic-theory"
-  - "#banking-regulation"
-  - "#corporate-finance"
 title: Leverage Ratio
+tags:
+  - '#banking_regulations'
+  - '#consumer_leverage_ratio'
+  - '#debt_to_capitalization_ratio'
+  - '#debt_to_ebitda_ratio'
+  - '#debt_to_equity_ratio'
+  - '#degree_of_financial_leverage'
+  - '#equity_multiplier'
+  - '#fixed_charge_coverage_ratio'
+  - '#interest_coverage_ratio'
+  - '#leverage_ratio'
 ---
-
 [[Leverage Ratio]]
 
 # Leverage Ratio

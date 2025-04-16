@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton'
+  - '#equity_options'
+  - '#implied_volatility'
+  - '#market_dynamics'
+  - '#non_lognormality'
+  - '#option_pricing'
+  - '#option_valuation'
+  - '#risk_neutral_distribution'
+  - '#volatility_smile'
+  - '#volatility_surface'
+---
 # 20.8 WHEN A SINGLE LARGE JUMP IS ANTICIPATED  
 
 Let us now consider an example of how an unusual volatility smile might arise in equity markets. Suppose that a stock price is currently. $\$50$ and an important news announce-. ment due in a few days is expected either to increase the stock price by $\$8$ or to reduce it by $\$8$ (This announcement could concern the outcome of a takeover attempt or the verdict in an important lawsuit.) The probability distribution of the stock price in, say,. 1 month might then consist of a mixture of two lognormal distributions, the first corresponding to favorable news, the second to unfavorable news. The situation is illustrated in Figure 20.5. The solid line shows the mixture-of-lognormals distribution. for the stock price in 1 month; the dashed line shows a lognormal distribution with the. same mean and standard deviation as this distribution..  

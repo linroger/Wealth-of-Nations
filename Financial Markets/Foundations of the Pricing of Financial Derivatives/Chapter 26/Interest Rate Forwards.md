@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#forward_price'
+  - '#forward_rate_agreements'
+  - '#fra_pricing'
+  - '#fra_valuation'
+  - '#interest_rate_forwards'
+  - '#off_market_fras'
+---
 # 26.1 INTEREST RATE FORWARDS
 
 As noted, we referred to interest rate forwards as forward rate agreements, or FRAs. They are forward contracts that pay off based on what the interest rate is on the expiration date of the contract. To understand them, we shall need to add some additional specifications. There are two forms of FRAs: advanced set, settled in arrears, and advanced set, advanced settled. Advanced set, settled in arrears, assumes that the FRA cash settlement is made at the end of the embedded interest rate period ( $q$ in Figure 26.1), whereas advanced set, advanced settled, assumes that the FRA cash settlement is made at the beginning of the embedded interest rate period. When first learning the mechanics of FRAs, it is easier to focus on advanced set, settled in arrears. For credit risk reasons, FRAs are typically advanced set, advanced settled. Recall FRAs are unlike loans so there is no repayment of principal. Thus, once the floating rate is set, the settlement amount can be computed. For example, an advanced set, settled in arrears, that mimics a typical loan may require settlement in three months of say 2,000,o00 (e.g., receive floating FRA and rates rose). The counterparty due the 2,000,o00 would prefer to receive the present value of the settlement amount now so as not to incur the risk that the counterparty owing the money defaults in three months (e.g., due to a credit crisis).

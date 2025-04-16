@@ -1,3 +1,14 @@
+---
+tags:
+  - '#hedging'
+  - '#implied_volatility'
+  - '#marking_to_market'
+  - '#option_pricing'
+  - '#option_strike_price'
+  - '#out_of_the_money_options'
+  - '#volatility_skew'
+  - '#volatility_smile'
+---
 # 16.8 INTRODUCTION TO THE SMILE  
 
 Markets trade many options with the same underlying, but different strike prices and different expirations. Does the difference in strike price between options that are identical in every other aspect have any important implications?  

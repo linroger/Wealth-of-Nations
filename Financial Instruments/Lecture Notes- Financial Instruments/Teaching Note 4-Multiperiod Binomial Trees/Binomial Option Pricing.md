@@ -2,18 +2,17 @@
 aliases:
   - Binomial Option Pricing
 linter-yaml-title-alias: Binomial Option Pricing
-tags:
-  - "#financial-markets"
-  - "#financial-instruments"
-  - "#financial-derivatives"
-  - "#economics"
-  - "#quantitative-finance"
-  - "#option-pricing"
-  - "#binomial-model"
-  - "#risk-neutral-valuation"
 title: Binomial Option Pricing
+tags:
+  - '#american_option_pricing'
+  - '#binomial_option_pricing'
+  - '#binomial_tree'
+  - '#cox_ross_rubinstein_model'
+  - '#european_call_option'
+  - '#option_premium'
+  - '#option_pricing_model'
+  - '#recombining_tree'
 ---
-
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]

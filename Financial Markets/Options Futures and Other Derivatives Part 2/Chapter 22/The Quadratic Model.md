@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cornish_fisher_expansion'
+  - '#delta_hedging'
+  - '#option_greeks'
+  - '#option_pricing'
+  - '#portfolio_gamma'
+  - '#portfolio_value'
+  - '#probability_distribution'
+  - '#quadratic_model'
+  - '#value_at_risk_var'
+---
 # 22.5  THE QUADRATIC MODEL  
 
 When a portfolio includes options, the linear model is an approximation. It does not.   

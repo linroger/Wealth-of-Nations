@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: QuantLib-Python
+tags:
+  - '#quantlib_python'
 ---
-
 # QuantLib-Python
 
 %% Begin Waypoint %%

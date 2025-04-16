@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#black_model'
+  - '#european_options'
+  - '#futures_options'
+  - '#futures_style_options'
+  - '#hedging_options'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#risk_management'
+---
 # 18.11 FUTURES-STYLE OPTIONS  
 
 Some exchanges, particularly those in Europe, trade what are termed futures-style options. These are futures contracts on the payoff from an option. Normally a trader who buys (sells) an option, whether on the spot price of an asset or on the futures price of an asset, pays (receives) cash up front. By contrast, traders who buy or sell a futuresstyle option post margin in the same way that they do on a regular futures contract (see Chapter 2). The contract is settled daily as with any other futures contract and the final settlement price is the payoff from the option. Just as a futures contract is a bet on what the future price of an asset will be, a futures-style option is a bet on what the payoff. from an option will be. If interest rates are constant, the futures price in a futures-style. option is the same as the forward price in a forward contract on the option payoff. Our analysis of forward contracts in Chapter 5 shows that this is the current option price. compounded forward at the risk-free rate.  

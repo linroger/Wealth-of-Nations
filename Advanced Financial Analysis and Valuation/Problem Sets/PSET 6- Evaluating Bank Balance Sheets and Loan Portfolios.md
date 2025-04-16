@@ -1,16 +1,17 @@
 ---
 aliases:
-tags:
-
-  - "#finance"
-  - "#banking"
-  - "#risk-management"
-  - "#financial-analysis"
-  - "#credit-risk"
-  - "#leveraged-loans"
-  - "#capital-ratios"
-  - "#financial-reporting"
 title: PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
+tags:
+  - '#bank_balance_sheets'
+  - '#blackstone'
+  - '#citigroup'
+  - '#default_probability'
+  - '#internal_rate_of_return_irr'
+  - '#leveraged_loans'
+  - '#loan_portfolio_sale'
+  - '#loan_portfolios'
+  - '#risk_weighted_assets'
+  - '#tier_1_capital_ratio'
 ---
 # PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ### ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS BUSINESS 30131

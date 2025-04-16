@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cds_duration'
+  - '#cds_index_payments'
+  - '#cds_pricing'
+  - '#default_payoff'
+  - '#fixed_coupon_cds'
+  - '#hazard_rate'
+  - '#itraxx_europe_index'
+  - '#recovery_rate'
+---
 # 25.4  THE USE OF FIXED COUPONS  
 
 The precise way in which CDS and CDS index transactions work is a little more complicated than has been described up to now. For each underlying and each maturity, a coupon and a recovery rate are specified. A price is calculated from the quoted spread using the following procedure:  

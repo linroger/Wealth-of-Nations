@@ -1,6 +1,17 @@
 ---
-tags: [finance, fixed-income, inflation, pricing-models]
-aliases: [Inflation-Indexed Securities Pricing, Inflation Risk Framework]
+aliases:
+  - Inflation-Indexed Securities Pricing
+  - Inflation Risk Framework
+tags:
+  - '#bond_price_models'
+  - '#cox_ingersoll_ross_cir_model'
+  - '#inflation_dynamics'
+  - '#inflation_indexed_securities'
+  - '#no_arbitrage_framework'
+  - '#pricing_framework'
+  - '#risk_metric_analysis'
+  - '#stochastic_modeling'
+  - '#vasicek_model'
 ---
 # Inflation-Indexed Securities: Pricing Framework
 

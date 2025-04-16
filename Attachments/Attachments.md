@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: Attachments
+tags:
+  - '#attachments'
 ---
-
 # Attachments

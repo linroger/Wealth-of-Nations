@@ -1,9 +1,19 @@
 ---
-title: "Time Decay"
-source: "https://www.investopedia.com/terms/t/timedecay.asp"
-description: "Time decay is a measure of the rate of decline in the value of an options contract due to the passage of time."
+title: Time Decay
+source: https://www.investopedia.com/terms/t/timedecay.asp
+description: Time decay is a measure of the rate of decline in the value of an options
+  contract due to the passage of time.
 tags:
-  - "clippings"
+  - '#at_the_money_atm'
+  - '#expiration_date'
+  - '#extrinsic_value'
+  - '#in_the_money_itm'
+  - '#intrinsic_value'
+  - '#option_greeks'
+  - '#option_premium'
+  - '#options_contract'
+  - '#out_of_the_money_otm'
+  - '#time_decay'
 ---
 ## What Is Time Decay?
 

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#cds_analytics'
+  - '#cds_engineering'
+  - '#credit_default_swaps'
+  - '#credit_markets'
+  - '#default_probability'
+  - '#single_name_cds'
+  - '#sovereign_cds'
+---
 # CHAPTER 18  Credit Markets: CDS Engineering. 619  
 
 18.1 Introduction.. .620   

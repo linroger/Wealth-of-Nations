@@ -1,3 +1,14 @@
+---
+tags:
+  - '#credit_risk'
+  - '#fannie_mae'
+  - '#liquidity'
+  - '#mbs_characteristics'
+  - '#mbs_investors'
+  - '#mortgage_backed_securities'
+  - '#mortgage_securitization'
+  - '#pass_through_rate'
+---
 # 17.5 MORTGAGE-BASED SECURITIES  
 
 MBS is a very important market, especially in the United States. MBS is also called "mortgage.   

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#european_swaption'
+  - '#forward_swap'
+  - '#interest_rate_swaps'
+  - '#lognormal_swap_rate_model'
+  - '#payer_swap'
+  - '#plain_vanilla_swap'
+  - '#receiver_swap'
+  - '#swap_martingale_measure'
+  - '#swap_rate'
+  - '#swaptions'
+---
 # 12.4 Interest rate swaps and swaptions  
 
 # 12.4.1 Interest rate swaps  

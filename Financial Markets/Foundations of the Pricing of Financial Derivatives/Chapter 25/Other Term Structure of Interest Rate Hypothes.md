@@ -1,3 +1,15 @@
+---
+tags:
+  - '#forward_rates'
+  - '#liquidity_premium_hypothesis'
+  - '#money_substitute_hypothesis'
+  - '#preferred_habitat_hypothesis'
+  - '#return_to_maturity_expectations_hypothesis'
+  - '#risk_premium_hypothesis'
+  - '#segmented_markets_hypothesis'
+  - '#term_premium_hypothesis'
+  - '#term_structure_of_interest_rates'
+---
 # 25.4 OTHER TERM STRUCTURE OF INTEREST RATE HYPOTHESES
 
 In this section, we review several term structure of interest rate hypotheses, excluding UEH and LEH because they have been covered already. We also provide several foundational research papers on which these hypotheses were created and evaluated..

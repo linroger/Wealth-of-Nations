@@ -1,3 +1,15 @@
+---
+tags:
+  - '#annuity'
+  - '#binomial_model'
+  - '#interest_rate_swaptions'
+  - '#payer_swaption'
+  - '#receiver_swaption'
+  - '#strike_rate'
+  - '#swap_rates'
+  - '#swaptions'
+  - '#zero_coupon_bonds'
+---
 # 28.9 INTEREST RATE SWAPTIONS
 
 Swaptions, which we briefly mentioned in Chapter 26, are options to enter into a swap.. If the underlying swap is a pay-fixed swap, then the swaption is called a payer swaption. If it is a receive-fixed swap, then the swaption is called a receiver swaption. In either case,. the swaption has a designated fixed or strike rate that plays the role of an exercise price. The underlying swap has a specific set of terms that are specified in the swaption contract. Say the strike rate is $7\%$ , and the underlying swap is a five-year swap with semiannual payments on January 30 and July 30. Let us assume that at expiration of the swaption, the equilibrium rate on the underlying swap is more than $7\%$ . Then a payer swaption is in-the-money, because it allows the holder to enter into the underlying swap and pay $7\%$ fixed to receive floating, while that same swap in the market would require paying more than $7\%$ fixed to receive floating. The swaption holder can either maintain the. $7\%$ swap or can offset it by going into the market and entering into the opposite swap with the same counterparty, thereby paying floating and receiving more than. $7\%$ fixed. The floating sides. effectively cancel and what remains is an annuity of the difference between the market rate and $7\%$ . If that swaption were structured to settle in cash, the seller of the swap would. pay the buyer the present value of that annuity. Letting the market rate at expiration of the swaption be less than. $7\%$ would result in a receiver swaption being in the money, and. a similar process would apply.

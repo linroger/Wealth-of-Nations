@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_style_options'
+  - '#binomial_tree'
+  - '#black_scholes_formula'
+  - '#delta_hedging'
+  - '#dynamic_replication'
+  - '#european_call_option'
+  - '#greeks'
+  - '#option_valuation'
+  - '#volatility_hedging'
+---
 # 8.8 CONCLUSIONS  
 
 We finish the chapter with an important observation. Static replication was best done using cash flow diagrams and resulted in contractual equations with constant weights..  

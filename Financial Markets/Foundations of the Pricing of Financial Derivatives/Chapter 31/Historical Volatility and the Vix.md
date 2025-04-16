@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#covid_pandemic'
+  - '#historical_volatility'
+  - '#implied_volatility'
+  - '#s_and_p_500_index'
+  - '#spy_etf'
+  - '#standard_deviation'
+  - '#vix_index'
+---
 # 31.1 HISTORICAL VOLATILITY AND THE VIX
 
 In finance, the term volatility typically means some measure of dispersion, usually com-. puted as the standard deviation. Within this context, the standard deviation is annualized just as the inputted standard deviation for the Black-Scholes-Merton model is assumed to be annualized. As previously defined, the implied volatility is derived from equating the. observed option price with Black-Scholes-Merton model price by solving for the volatility. implied, hence, the term implied volatility..

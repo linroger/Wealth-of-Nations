@@ -1,9 +1,18 @@
 ---
-title: "Synthetic Instruments"
-source: "https://www.investopedia.com/terms/s/synthetic.asp"
-description: "Synthetic is the term given to financial instruments that are engineered to simulate other instruments while altering key characteristics."
+title: Synthetic Instruments
+source: https://www.investopedia.com/terms/s/synthetic.asp
+description: Synthetic is the term given to financial instruments that are engineered
+  to simulate other instruments while altering key characteristics.
 tags:
-  - "clippings"
+  - '#cash_flow'
+  - '#collateralized_debt_obligations'
+  - '#convertible_bonds'
+  - '#financial_derivatives'
+  - '#investment_strategies'
+  - '#risk_management'
+  - '#synthetic_instruments'
+  - '#synthetic_positions'
+  - '#synthetic_products'
 ---
 ## What Is a Synthetic?
 

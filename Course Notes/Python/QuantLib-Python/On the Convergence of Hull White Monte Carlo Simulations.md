@@ -1,10 +1,21 @@
 ---
 title: On the Convergence of Hull White Monte Carlo Simulations
-source: "https://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html"
-description: "Discusses the convergence of the Monte-Carlo simulations of the Hull-White model"
-tags: ["clippings"]
+source: 
+  https://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html
+description: Discusses the convergence of the Monte-Carlo simulations of the Hull-White
+  model
+tags:
+  - '#brownian_bridge'
+  - '#convergence_analysis'
+  - '#discount_factor'
+  - '#hull_white_model'
+  - '#monte_carlo_simulation'
+  - '#quantlib'
+  - '#short_rate_model'
+  - '#simulation_parameters'
+  - '#term_structure'
+  - '#volatility_parameter'
 ---
-
 # On the Convergence of Hull White Monte Carlo Simulations
 I had recently written an introductory post on [simulating short rates in the Hull-White Model](http://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-python.html). This [question on the QuantLib forum](http://quantlib0.\1.n7.nabble.com/Matching-results-between-HW-tree-and-simulation-models-td16399.html) raised some interesting questions on the convergence of the Hull-White model simulations. In this post,  I discuss the convergence of Monte-Carlo simulations using the Hull-White model.
 

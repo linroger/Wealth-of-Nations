@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_style_options'
+  - '#currency_derivatives'
+  - '#derivatives'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#interest_rate_derivatives'
+  - '#options'
+  - '#organized_exchanges'
+  - '#over_the_counter_otc_markets'
+  - '#swaps'
+---
 # 12.1 Introduction  
 
 A derivative is an asset whose dividend(s) and price are derived from the price of another asset, the. underlying asset, or the value of some other variable. The main types of derivatives are forwards, futures, options, and swaps. While a large number of different derivatives are traded in today's financial markets, most of them are variations of these four main types..  

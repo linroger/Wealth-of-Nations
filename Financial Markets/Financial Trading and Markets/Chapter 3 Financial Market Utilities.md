@@ -1,3 +1,16 @@
+---
+tags:
+  - '#brokerage_operations'
+  - '#central_counterparties'
+  - '#clearing_and_settlement'
+  - '#dtcc'
+  - '#financial_market_utilities'
+  - '#margin_requirements'
+  - '#market_fragmentation'
+  - '#securities_trading_infrastructure'
+  - '#simfus'
+  - '#sipc'
+---
 # Financial Market Utilities and Securities Trading Support  
 
 # 3.1 SECURITIES TRADING INFRASTRUCTURE  

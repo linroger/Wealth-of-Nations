@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#gamma_neutrality'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#option_volatility'
+  - '#vega'
+  - '#vega_hedging'
+  - '#volatility_surface'
+---
 # 19.8 VEGA  
 
 As mentioned in Section 19.3, when Greek letters are calculated the volatility of the asset is in practice usually set equal to its implied volatility. The Black-Scholes-Merton model assumes that the volatility of the asset underlying an option is constant. This means that the implied volatilities of all options on the asset are constant and equal to this assumed volatility.  

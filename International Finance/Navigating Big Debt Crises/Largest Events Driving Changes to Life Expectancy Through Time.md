@@ -1,21 +1,19 @@
 ---
 title: Largest Events Driving Changes to Life Expectancy Through Time
-aliases: 
-tags:
-  - economic-history
-  - historical-analysis
-  - war-economies
-  - pandemics
-  - life-expectancy
-  - global-events
-  - demographic-impact
-  - "#economic-theory"
-  - "#macroeconomics"
-  - "#historical-debt-analysis"
+aliases:
 cssclasses:
   - academia
+tags:
+  - '#changing_world_order'
+  - '#death_toll'
+  - '#famines'
+  - '#global_events'
+  - '#historical_analysis'
+  - '#historical_events'
+  - '#life_expectancy'
+  - '#pandemics'
+  - '#uk_life_expectancy'
 ---
-
 # Largest Events Driving Changes to Life Expectancy Through Time
 
 In my book The Changing World Order: Why Nations Succeed and Fail,  I show these charts of how life expectancy has changed through time. Here,  I wanted to share some of the largest events that drove these historical moves up and down. Note that prior to 180 O,  these charts only reflect shifts in UK life expectancy,  but I am listing global event here and including events over a longer time frame

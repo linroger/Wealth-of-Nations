@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cme_group'
+  - '#commodities'
+  - '#exchange_trading'
+  - '#financial_assets'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#futures_prices'
+  - '#supply_and_demand'
+  - '#underlying_assets'
+---
 # 1.4 FUTURES CONTRACTS  
 
 Like a forward contract, a futures contract is an agreement between two parties to buy or.   

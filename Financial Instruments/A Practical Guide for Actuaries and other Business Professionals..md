@@ -1,11 +1,15 @@
 ---
 tags:
-  - "#financial-markets"
-  - "#risk-management"
-  - "#economics"
-  - "#financial-instruments"
-  - "#actuarial-science"
-  - "#financial-analysis"
+  - '#accumulated_value'
+  - '#annuities'
+  - '#discount_rates'
+  - '#duration_convexity'
+  - '#financial_instruments'
+  - '#financial_mathematics'
+  - '#interest_rates'
+  - '#perpetuities'
+  - '#present_value'
+  - '#term_structure'
 ---
 # FINANCIAL MATHEMATICS
 

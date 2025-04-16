@@ -1,3 +1,15 @@
+---
+tags:
+  - '#agency_costs'
+  - '#backdating_scandals'
+  - '#employee_stock_options'
+  - '#executive_compensation'
+  - '#insider_trading'
+  - '#restricted_stock_unit'
+  - '#shareholder_manager_alignment'
+  - '#short_term_vs_long_term_performance'
+  - '#stock_option_risks'
+---
 # 16.2 DO OPTIONS ALIGN THE INTERESTS OF SHAREHOLDERS AND MANAGERS?  
 
 For investors to have confidence in capital markets, it is important that the interests of.   

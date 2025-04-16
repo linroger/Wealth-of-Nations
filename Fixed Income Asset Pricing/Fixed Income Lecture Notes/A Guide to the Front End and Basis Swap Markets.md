@@ -1,40 +1,21 @@
 ---
 title: A Guide to the Front End and Basis Swap Markets
 aliases: []
-tags:
-  - untitled-document
-  - quantitative-finance
-  - finance
-  - financial-derivatives
-  - interest-rate-swaps
-  - hedging-strategies
-  - basis-swaps
-  - interest-rate-instruments
-  - libor
-  - financial-instruments
-  - interest-rate-parity
-  - currency-risk-management
-  - interest-rate-derivatives
-  - financial-crises
-  - currency-crisis
-  - international-finance
-  - financial_crises
-  - macroeconomics
-  - interest-parity
-  - currency-trading
-  - asset-pricing
-  - financial-markets
-  - exchange-rates
-  - interest-rates
-  - "#financialmarkets"
-  - "#bond-valuation"
-  - "#debt-management-strategies"
-  - "#risk-management"
-  - "#exchange-rate"
 cssclasses:
   - academia
+tags:
+  - '#basis_swap_markets'
+  - '#fed_funds_basis_swaps'
+  - '#federal_funds'
+  - '#fra_ois_spread'
+  - '#fras'
+  - '#front_end_markets'
+  - '#interest_rate_derivatives'
+  - '#libor'
+  - '#libor_basis_swaps'
+  - '#ois'
+  - '#prime_basis_swaps'
 ---
-
 | Introduction                                                                                                                   | 5                                                      |     |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | --- |
 | The Basics                                                                                                                     | 7                                                      |     |

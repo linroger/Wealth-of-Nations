@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cds_liquidity'
+  - '#convexity'
+  - '#credit_index_arbitrage'
+  - '#credit_skew'
+  - '#index_arbitrage'
+  - '#leverage_ratio'
+  - '#regulatory_impact'
+  - '#restructuring_risk'
+  - '#single_name_cds'
+---
 # 21.5 INDEX ARBITRAGE  
 
 Index arbitrage is well known in equity markets. A stock index is made of a given and known number of stocks. The Index itself can be traded in the futures markets. The carry strategy applies and. by buying (short selling) the underlying stocks, one can create a synthetic futures contract which can be used to take arbitrage positions on the stock index.9  

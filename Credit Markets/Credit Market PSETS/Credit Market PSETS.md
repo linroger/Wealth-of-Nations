@@ -1,7 +1,9 @@
 ---
 title: Credit Market PSETS
+tags:
+  - '#credit_market'
+  - '#psets'
 ---
-
 # Credit Market PSETS
 
 %% Begin Waypoint %%

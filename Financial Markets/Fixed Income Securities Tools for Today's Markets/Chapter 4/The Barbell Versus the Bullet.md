@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_liability_management'
+  - '#barbell_bullet_portfolios'
+  - '#convexity_yield_tradeoff'
+  - '#defined_benefit_pension'
+  - '#duration_convexity'
+  - '#interest_rate_risk_hedging'
+  - '#pension_fund_management'
+  - '#robust_hedging_strategies'
+  - '#term_structure_modeling'
+---
 # 4.8 THE BARBELL VERSUS THE BULLET  
 
 This section presents a stylized example of asset-liability management for defined-benefit pension liabilities; applies the concepts of duration and convexity to hedging in this context, and explains how a choice arises between barbell and bullet asset portfolios, or, more generally, across asset portfolios with different convexities.  

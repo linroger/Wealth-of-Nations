@@ -1,3 +1,16 @@
+---
+tags:
+  - '#accounting_practices'
+  - '#basis_trades'
+  - '#bond_futures'
+  - '#bond_haircuts'
+  - '#european_sovereign_debt_crisis'
+  - '#forward_contracts'
+  - '#jon_corzine'
+  - '#mf_global'
+  - '#repo_to_maturity_trades'
+  - '#risk_management'
+---
 # 10.7 CASE STUDY: MF GLOBAL'S REPO-TO-MATURITY TRADES  
 
 In March 2010, MF Global was a broker-dealer and futures commission. merchant, in the business of making markets in exchange-traded and. over-the-counter derivatives.12 Experiencing poor performance, in particular, a fiscal-year loss of $\$195$ million in its core businesses, the company hired Jon Corzine as CEO. Corzine worked for Goldman Sachs from 1976 to 1999 and was chair and CEO from 1994 to 1999. He was a US senator from New Jersey from 2001 to 2006 and the governor of New Jersey from 2006-2010.  

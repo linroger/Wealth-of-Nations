@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#call_options'
+  - '#european_options'
+  - '#exercise_price'
+  - '#foreign_currency_options'
+  - '#option_exercise'
+  - '#option_payoffs'
+  - '#option_pricing'
+  - '#option_valuation'
+  - '#put_options'
+---
 # CHAPTER 32 Pricing Foreign Currency Options
 
 555

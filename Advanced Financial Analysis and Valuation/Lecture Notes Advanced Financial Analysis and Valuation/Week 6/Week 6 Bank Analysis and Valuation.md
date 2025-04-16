@@ -2,17 +2,18 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#banking"
-  - "#financial-analysis"
-  - "#valuation"
-  - "#risk-management"
-  - "#capital-structure"
-  - "#economic-spread"
-  - "#regulatory-capital"
-  - "#cyclical-lending"
 title: MOATS AND COMPETITIVE ANALYSIS
+tags:
+  - '#bank_valuation'
+  - '#competitive_moats_banking'
+  - '#deutsche_bank_valuation'
+  - '#economic_spread_analysis'
+  - '#flow_to_equity_model'
+  - '#loan_cyclicality'
+  - '#market_to_book_ratio'
+  - '#regulatory_capital'
+  - '#risk_weighted_assets'
+  - '#roe_bank_metric'
 ---
 ### BANK ANALYSIS AND VALUATION
 

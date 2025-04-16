@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: Appendices
+tags:
+  - '#appendices'
+  - '#document_structure'
+  - '#waypoint'
 ---
-
 # Appendices
 
 %% Begin Waypoint %%

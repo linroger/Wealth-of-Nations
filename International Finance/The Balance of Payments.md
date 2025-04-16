@@ -1,12 +1,21 @@
 ---
-aliases: 
-tags: 
+aliases:
 cssclasses: academia
 title: The Balance of Payments
 Tags: balance-of-payments
 Cssclasses: academia
+tags:
+  - '#balance_of_payments'
+  - '#capital_and_financial_account'
+  - '#current_account'
+  - '#economic_transactions'
+  - '#exchange_rates'
+  - '#imf'
+  - '#net_international_investment_position'
+  - '#open_economy'
+  - '#settlements_account'
+  - '#trade_balance'
 ---
-
 # The Balance of Payments
 
 # CHAPTER 2 NOTES: THE BALANCE OF PAYMENTS

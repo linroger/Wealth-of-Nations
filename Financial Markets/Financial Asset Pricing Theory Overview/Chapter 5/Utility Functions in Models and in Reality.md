@@ -1,3 +1,16 @@
+---
+tags:
+  - '#ces_utility'
+  - '#cobb_douglas_utility'
+  - '#crra_utility'
+  - '#elasticity_of_substitution'
+  - '#empirical_evidence'
+  - '#hara_utility'
+  - '#mean_variance_preferences'
+  - '#relative_risk_aversion'
+  - '#risk_aversion'
+  - '#utility_functions'
+---
 # 5.6 Utility functions in models and in reality  
 
 # 5.6.1 Frequently applied utility functions  

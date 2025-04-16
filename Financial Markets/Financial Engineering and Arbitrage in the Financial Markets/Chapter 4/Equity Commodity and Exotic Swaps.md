@@ -1,3 +1,16 @@
+---
+tags:
+  - '#commodity_swaps'
+  - '#delta_hedging'
+  - '#equity_swaps'
+  - '#implied_volatility'
+  - '#index_principal_swaps'
+  - '#option_valuation'
+  - '#options_markets'
+  - '#risk_management'
+  - '#swap_structures'
+  - '#volatility_swaps'
+---
 # 4.4 EQUITY, COMMODITY, AND EXOTIC SWAPS  
 
 A swap can serve the role of a flexible investment vehicle. An investment normally involves an outright purchase of a return stream earned on a risk exposure. A swap is an exchange of two streams of return flows with no outright purchase. Yet a swap structured with the receive side as the return on a risky asset and the pay side of floating LIBOR, combined with an investment in a money market account, will be equivalent to the investment in the risky asset. The floating LIBOR payments on the swap will be made with the interest earned in the money market account. The net will be the return on the risky asset. An investor can spend. $\$100$ to buy a stock or a commodity, or he can put. $\$100$ in a money market account and swap the LIBOR. interest from the account into a return on a stock or a commodity. In general, the receive side of the swap can be structured to provide the return on any asset class combination normally not easily available to the investor, and with any degree of leverage desired..  

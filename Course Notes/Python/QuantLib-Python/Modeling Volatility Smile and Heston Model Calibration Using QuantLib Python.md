@@ -1,8 +1,15 @@
 ---
-tags: [sigma]
 title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
+tags:
+  - '#arbitrage_free_smoothing'
+  - '#european_options'
+  - '#heston_model'
+  - '#implied_volatility_surface'
+  - '#local_volatility_surface'
+  - '#option_calibration'
+  - '#quantlib_python'
+  - '#volatility_smile'
 ---
-
 # Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ## Strikes Market Value Model Value Relative Error (%)
 

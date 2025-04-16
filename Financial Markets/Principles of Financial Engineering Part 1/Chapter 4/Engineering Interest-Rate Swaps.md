@@ -1,3 +1,15 @@
+---
+tags:
+  - '#fra_contracts'
+  - '#horizontal_decomposition'
+  - '#interest_rate_swap'
+  - '#libor_rate'
+  - '#present_value_calculation'
+  - '#swap_decomposition'
+  - '#swap_pricing'
+  - '#synthetic_coupon_bond'
+  - '#vertical_decomposition'
+---
 # 4.5 ENGINEERING INTEREST-RATE SWAPS  
 
 We now study the financial engineering of swaps. We focus on plain vanilla interest-rate swaps. Engineering of other swaps is similar in many ways and is left to the reader. For simplicity, we deal with a case of only three settlement dates. Figure 4.8 shows a fixed-payer, three-period  

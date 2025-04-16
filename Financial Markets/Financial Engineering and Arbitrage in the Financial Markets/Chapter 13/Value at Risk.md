@@ -1,3 +1,16 @@
+---
+tags:
+  - '#alpha_beta'
+  - '#alternative_investments'
+  - '#factor_analysis'
+  - '#hedge_funds'
+  - '#market_var'
+  - '#portfolio_sensitivity'
+  - '#risk_management'
+  - '#strategy_indexes'
+  - '#style_drift'
+  - '#value_at_risk_var'
+---
 # 13.4 VALUE AT RISK  
 
 The objective of the Market Value-at-Risk (VaR) analysis is to factorize the present value of assets and liabilities of a financial company and compute the loss that the present value would suffer if the factors fall into a $5\%$ 0r $1\%$ probability adverse "tail' event. There are two general distributional approaches in the banking industry used to define the tail event: historical non-parametric or normal (or log-normal) with a given volatility and correlation structure of the factors. The factors can be any variables (preferably observable and tradeable) that affect the institution's portfolio of assets and liabilities: equity indexes and individual stock prices, currency rates, and commodity prices, points on the government yield curve, swap spreads, other credit spreads, implied volatilities of interest rates, and equities.  

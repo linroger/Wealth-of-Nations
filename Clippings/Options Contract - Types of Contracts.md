@@ -1,9 +1,19 @@
 ---
-title: "Options Contract - What It Is, How It Works, Types of Contracts"
-source: "https://www.investopedia.com/terms/o/optionscontract.asp"
-description: "An options contract gives the holder the right to buy or sell an underlying security at a preset price, known as the strike price."
+title: Options Contract - What It Is, How It Works, Types of Contracts
+source: https://www.investopedia.com/terms/o/optionscontract.asp
+description: An options contract gives the holder the right to buy or sell an underlying
+  security at a preset price, known as the strike price.
 tags:
-  - "clippings"
+  - '#call_options'
+  - '#expiration_date'
+  - '#hedging'
+  - '#options_contracts'
+  - '#options_rewards'
+  - '#options_risks'
+  - '#options_trading_strategies'
+  - '#put_options'
+  - '#speculation'
+  - '#strike_price'
 ---
 Definition
 

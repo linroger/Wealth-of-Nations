@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_options'
+  - '#black_scholes_merton_model'
+  - '#dividends'
+  - '#employee_stock_options'
+  - '#european_options'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#risk_neutral_valuation'
+---
 # 15.12 DIVIDENDS  
 
 Up to now, we have assumed that the stock on which the option is written pays no. dividends. In this section, we modify the Black-Scholes-Merton model to take account. of dividends. We assume that the amount and timing of the dividends during the life of an option can be predicted with certainty. When options last for relatively short periods of time, this assumption is not too unreasonable. (For long-life options it is usual to assume that the dividend yield rather the dollar dividend payments are known. Options. can then be valued as will be described in the Chapter 17.) The date on which the dividend is paid should be assumed to be the ex-dividend date. On this date the stock price declines by the amount of the dividend.12  

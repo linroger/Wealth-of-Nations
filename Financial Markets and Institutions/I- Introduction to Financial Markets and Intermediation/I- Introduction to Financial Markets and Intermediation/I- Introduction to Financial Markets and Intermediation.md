@@ -1,11 +1,14 @@
 ---
-tags: 
 cssclasses: academia
 title: IIntroduction to Financial Markets and Intermediation
-aliases: [IIntroduction to Financial Markets and Intermediation]
+aliases:
+  - IIntroduction to Financial Markets and Intermediation
 linter-yaml-title-alias: IIntroduction to Financial Markets and Intermediation
+tags:
+  - '#financial_markets'
+  - '#introduction'
+  - '#market_intermediation'
 ---
-
 # I- Introduction to Financial Markets and Intermediation
 
 %% Begin Waypoint %%

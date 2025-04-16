@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#binomial_model'
+  - '#black_scholes_model'
+  - '#currency_options'
+  - '#derivative_securities'
+  - '#hedging_strategies'
+  - '#option_greeks'
+  - '#options_pricing'
+  - '#put_call_parity'
+  - '#risk_management'
+---
 # Arbitrage and Hedging With Options  
 
 # 9.1 DERIVATIVE SECURITIES MARKETS AND HEDGING  

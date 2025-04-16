@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_free_pricing'
+  - '#discount_bonds'
+  - '#financial_engineering'
+  - '#fixed_income_framework'
+  - '#forward_rate_agreements_fras'
+  - '#forward_swaps'
+  - '#interest_rate_swaps'
+  - '#mark_to_market'
+  - '#swap_pricing'
+---
 # 14.2 A FRAMEWORK FOR SWAPS  
 
 We work with forward fixed payer interest rate swaps and their "spot' equivalent. These are vanilla. products in the sense that contracts are predesigned and homogeneous. They are liquid, the bid--ask spreads are tight, and every market player is familiar with their properties and related conventions.  

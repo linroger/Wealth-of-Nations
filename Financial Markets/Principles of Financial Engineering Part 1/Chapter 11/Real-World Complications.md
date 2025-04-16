@@ -1,3 +1,15 @@
+---
+tags:
+  - '#barrier_options'
+  - '#exotic_options'
+  - '#implied_volatility'
+  - '#position_limits'
+  - '#real_world_complications'
+  - '#rho_risk'
+  - '#synthetic_payoff_structures'
+  - '#vega_risk'
+  - '#volatility_smile'
+---
 # 11.6 REAL-WORLD COMPLICATIONS  
 
 Actual implementation of the synthetic payoff structures discussed in this chapter requires dealing with several real-world imperfections. First of all, it must be remembered that these positions are shown at expiration, and that they are piecewise linear. In real life, payoff diagrams may contain sev-. eral convexities, which is an equivalent term for nonlinear payoffs. We will review these briefly..  

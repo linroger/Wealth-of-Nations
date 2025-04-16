@@ -1,7 +1,18 @@
 ---
-aliases: [Lecture 7-Risk and Return of Bonds]
-tags: []
+aliases:
+  - Lecture 7-Risk and Return of Bonds
 title: Lecture 7-Risk and Return of Bonds
+tags:
+  - '#bond_risk_and_return'
+  - '#bond_stock_beta'
+  - '#bond_yield_factors'
+  - '#default_free_bonds'
+  - '#expectations_theory'
+  - '#fed_put'
+  - '#federal_reserve'
+  - '#monetary_policy'
+  - '#taylor_rule'
+  - '#yield_curve'
 ---
 # Lecture 7-Risk and Return of Bonds
 

@@ -4,20 +4,18 @@ cssclasses:
 aliases:
   - Lecture Slides 1 Debt Pricing
 linter-yaml-title-alias: Lecture Slides 1 Debt Pricing
-tags:
-
-  - 
-  - "#debt-management"
-  - "#financial-crises"
-  - "#capitalstructure"
-  - "#debt-structuring"
-  - "#financial-instruments"
-  - "#debt-contracts"
-  - "#bankruptcy-strategies"
-  - "#liquidity-management"
 title: Lecture Slides 1-Debt Contracts
+tags:
+  - '#bank_runs'
+  - '#bankruptcy_reorganization'
+  - '#capital_structure'
+  - '#debt_capacity'
+  - '#debt_contracts'
+  - '#financial_panics'
+  - '#liquidity'
+  - '#securitization'
+  - '#us_federal_trust_indenture_act'
 ---
-
 # Lecture Slides 1-Debt Contracts
 
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**

@@ -1,13 +1,23 @@
 ---
 cssclasses: academia
-aliases: [Corporate Default and Recovery Rates,  1920-2008,  Special Comment]
+aliases:
+  - Corporate Default and Recovery Rates
+  - 1920-2008
+  - Special Comment
 linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
+title: Moody's Corporate Default and Recovery Rates,  1920-2008
 tags:
-
-  - 
-title: "Moody's Corporate Default and Recovery Rates,  1920-2008"
+  - '#corporate_default_rates'
+  - '#credit_downgrades'
+  - '#default_forecasting'
+  - '#distressed_exchanges'
+  - '#financial_crisis_2008'
+  - '#high_yield_bonds'
+  - '#moodys_ratings'
+  - '#rating_accuracy'
+  - '#recovery_rates'
+  - '#speculative_grade_default'
 ---
-
 [[Moody's Corporate Default and Recovery Rates,   1920-2008|Corporate Defaults]]
 
 # Moody's Corporate Default and Recovery Rates,  1920-2008

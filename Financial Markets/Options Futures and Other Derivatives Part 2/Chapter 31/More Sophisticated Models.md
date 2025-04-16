@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_pricing'
+  - '#cir_model'
+  - '#equilibrium_models'
+  - '#market_price_of_risk'
+  - '#no_arbitrage_models'
+  - '#risk_neutral_world'
+  - '#short_rate_models'
+  - '#term_structure_of_interest_rates'
+  - '#two_factor_models'
+  - '#vasicek_model'
+---
 # 31.5 MORE SOPHISTICATED MODELS  
 
 The Vasicek and CIR models are simple one-factor Markov models of the short rate. A two-factor Markov model of the short rate that is an extension of Vasicek is6.  

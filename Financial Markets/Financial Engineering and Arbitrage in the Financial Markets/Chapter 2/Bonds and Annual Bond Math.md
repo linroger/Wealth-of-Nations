@@ -1,3 +1,15 @@
+---
+tags:
+  - '#amortizing_bond'
+  - '#bond_valuation'
+  - '#bonds_and_annual_bond_math'
+  - '#cash_flow_analysis'
+  - '#coupon_bond'
+  - '#discount_factor'
+  - '#floating_rate_bond'
+  - '#yield_to_maturity'
+  - '#zero_coupon_bond'
+---
 # 2.1 BONDS AND ANNUAL BOND MATH  
 
 In this book, we use the term "loan' and "bond' interchangeably. A loan is a private credit. arrangement between a borrower and a lender in which the lender acquires rights to future. cash flows from the borrower. A lender, subsequently, can privately resell the loan to another willing lender. A bond is a publicly traded credit arrangement. The issuer borrows money by. selling the bond to a distributed group of creditors who can then resell their portion of the issued bonds to other willing creditors.  

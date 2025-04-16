@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cat_bonds'
+  - '#commodity_derivatives'
+  - '#derivative_valuation'
+  - '#energy_derivatives'
+  - '#hdd_cdd'
+  - '#insurance_derivatives'
+  - '#real_options'
+  - '#risk_hedging'
+  - '#weather_derivatives'
+---
 # 35.8 HOW AN ENERGY PRODUCER CAN HEDGE RISKS  
 
 There are two components to the risks facing an energy producer. One is the risk associated with the market price for the energy (the price risk); the other is risk associated with the amount of energy that will be bought (the volume risk). Although prices do adjust to reflect volumes, there is a less-than-perfect relationship between the two, and energy producers have to take both into account when developing a hedging strategy. The price risk can be hedged using the energy derivative contracts. The volume risks can be hedged using the weather derivatives. Define:  

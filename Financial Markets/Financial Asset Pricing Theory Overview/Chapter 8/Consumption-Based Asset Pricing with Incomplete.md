@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#consumption_based_asset_pricing'
+  - '#consumption_smoothing'
+  - '#crra_utility'
+  - '#equity_premium_puzzle'
+  - '#heterogeneous_agents'
+  - '#incomplete_markets'
+  - '#labor_income_risk'
+  - '#risk_aversion'
+  - '#state_price_deflator'
+---
 # 8.9 Consumption-based asset pricing with incomplete markets  
 
 # 8.9.1 Evidence of incomplete markets  

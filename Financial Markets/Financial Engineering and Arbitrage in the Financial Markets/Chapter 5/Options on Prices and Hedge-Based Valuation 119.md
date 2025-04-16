@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_option_pricing'
+  - '#black_scholes_model'
+  - '#call_and_put_payoffs'
+  - '#currency_options'
+  - '#hedge_based_valuation'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#put_call_parity'
+---
 # 5 Options on Prices and Hedge-Based Valuation 119  
 
 5.1 Call and Put Payoffs at Expiry 120   

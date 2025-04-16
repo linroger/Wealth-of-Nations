@@ -1,3 +1,14 @@
+---
+tags:
+  - '#50_delta_options'
+  - '#asset_price'
+  - '#at_the_money_option'
+  - '#delta_option'
+  - '#forward_price'
+  - '#implied_volatility'
+  - '#strike_price'
+  - '#volatility_smile'
+---
 # 20.4  ALTERNATIVE WAYS OF CHARACTERIZING THE VOLATILITY SMILE  
 
 There are a number of ways of characterizing the volatility smile. Sometimes it is shown as the relationship between implied volatility and strike price K. However, this relationship depends on the price of the asset. As the price of the asset increases (decreases), the central at-the-money strike price increases (decreases) so that the curve relating the implied volatility to the strike price moves to right (left).4 For this reason the implied volatility is often plotted as a function of the strike price divided by the current asset price, $K/S_{0}$ This is what we have done Figures 20.1 and 20.3.  

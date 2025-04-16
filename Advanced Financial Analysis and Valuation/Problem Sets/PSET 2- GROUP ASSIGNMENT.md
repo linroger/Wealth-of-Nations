@@ -4,15 +4,18 @@ aliases:
   - PSET 2GROUP ASSIGNMENT
   - 
 linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
-tags:
-
-  - "#case-studies"
-  - "#financialanalysis"
-  - "#valuationanalysis"
-  - "#corporatefinance"
-  - "#retail-sector"
-  - "#performance-evaluation"
 title: PSET 2GROUP ASSIGNMENT
+tags:
+  - '#dollar_general'
+  - '#financial_performance'
+  - '#financial_ratios'
+  - '#inventory_impairment'
+  - '#kkr_offer'
+  - '#market_share'
+  - '#pro_forma_income_statement'
+  - '#profit_margins'
+  - '#sg_and_a_expenses'
+  - '#strategic_overhaul'
 ---
 # PSET 2GROUP ASSIGNMENT
 

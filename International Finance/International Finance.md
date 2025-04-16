@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: International Finance
+tags:
+  - '#international_finance'
 ---
-
 # International Finance
 
 %% Begin Waypoint %%

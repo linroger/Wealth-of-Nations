@@ -1,10 +1,18 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Ch1 Introduction to Derivative Markets
+tags:
+  - '#derivative_markets'
+  - '#financial_engineering'
+  - '#long_position'
+  - '#market_makers'
+  - '#regulatory_arbitrage'
+  - '#risk_management'
+  - '#short_selling'
+  - '#speculation'
+  - '#transaction_costs'
 ---
 # Ch1 Introduction to Derivative Markets
 

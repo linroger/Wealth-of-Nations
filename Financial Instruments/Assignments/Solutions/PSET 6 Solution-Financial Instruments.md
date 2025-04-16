@@ -1,12 +1,20 @@
 ---
 aliases:
-- 
-- Solution to Homework 6
-- 
+  - 
+  - Solution to Homework 6
+  - 
 linter-yaml-title-alias: Solution to Homework 6
-tags:
-- 
 title: Solution to Homework 6
+tags:
+  - '#beta_calculation'
+  - '#black_scholes_merton'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#payoff_decomposition'
+  - '#plus_security'
+  - '#s_and_p500'
+  - '#sensitivity_analysis'
+  - '#structured_security_valuation'
 ---
 # Solution to Homework 6
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - '#applications'
+  - '#calibration'
+  - '#fundamental_theorem'
+  - '#monte_carlo_approach'
+  - '#quantos'
+---
 # CHAPTER 13  Some Applications of the Fundamental Theorem 427  
 
 13.1 Introduction. 428   

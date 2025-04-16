@@ -6,19 +6,16 @@ aliases:
   - 
   - 
 tags:
-
-  - finance
-  - valuation-analysis
-  - financial-analysis
-  - dcf-valuation
-  - cash-flow-forecasting
-  - "#quantitative-finance"
-  - "#financial-instruments"
-  - "#asset-pricing"
-  - "#dcf-analysis"
-  - "#valuation-methods"
+  - '#capital_expenditures'
+  - '#dcf_methodology'
+  - '#financial_modeling'
+  - '#forecasting_techniques'
+  - '#free_cash_flow'
+  - '#sensitivity_analysis'
+  - '#terminal_value'
+  - '#valuation_process'
+  - '#wacc_calculation'
 ---
-
 # DCF Breakdown
 
 ### 1. PREPARATION AND ASSUMPTIONS

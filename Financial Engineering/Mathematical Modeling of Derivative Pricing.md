@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton'
+  - '#european_options'
+  - '#feynman_kac_theorem'
+  - '#girsanov_theorem'
+  - '#heston_model'
+  - '#ito_calculus'
+  - '#mathematical_modeling'
+  - '#option_pricing'
+  - '#risk_neutral_pricing'
+  - '#stochastic_volatility'
+---
 # MATHEMATICAL MODELING OF DERIVATIVE PRICING  
 
 WILL GRIFFIN  

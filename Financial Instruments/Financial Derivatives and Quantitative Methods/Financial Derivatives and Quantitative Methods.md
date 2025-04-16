@@ -1,10 +1,11 @@
 ---
-aliases: 
-tags: 
+aliases:
 cssclasses: academia
 title: Financial Derivatives and Quantitative Methods
+tags:
+  - '#financial_derivatives'
+  - '#quantitative_methods'
 ---
-
 # Financial Derivatives and Quantitative Methods
 
 %% Begin Waypoint %%

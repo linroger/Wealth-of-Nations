@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#bond_valuation'
+  - '#cash_carry'
+  - '#coupon_payment'
+  - '#forward_contracts'
+  - '#forward_drop'
+  - '#forward_prices'
+  - '#repo_rate'
+  - '#synthetic_forward_position'
+---
 # 11.1 FORWARD CONTRACTS AND FORWARD PRICES  
 
 In a forward bond contract, the counterparties agree on a price at which to trade a bond at some time in the future. Consider a forward contract, traded on May 14, 2021, to purchase $\$100,000$ face amount of the US Treasury. 2.875s of $05/15/2028$ for 109.72 on September 30, 2021. In this example,. the initiation or trade date is May 14, 2021; the underlying security is the.  

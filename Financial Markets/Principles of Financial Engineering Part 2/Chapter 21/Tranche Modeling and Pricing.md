@@ -1,3 +1,16 @@
+---
+tags:
+  - '#attachment_points'
+  - '#cdo_tranche_valuation'
+  - '#default_correlation'
+  - '#default_distribution'
+  - '#equity_tranche'
+  - '#itrazz_indices'
+  - '#loss_distribution'
+  - '#mezzanine_tranche'
+  - '#senior_tranche'
+  - '#tranche_values'
+---
 # 21.7 TRANCHE MODELING AND PRICING  
 
 Markets trade the indices and the index tranches actively. As a result, the spreads associated with these instruments should be considered to be arbitrage-free. Still, we would like to understand the price formation, and this requires a modeling effort. The market has over the past few years developed a market standard for this purpose. The specifics of this market standard model are discussed in the next chapter. Here we discuss the heuristics of CDO tranche valuation.  

@@ -1,8 +1,18 @@
 ---
 title: Appendix 16. A An Alternative Approach to Expensing Option Grants
-aliases: [An Alternative Approach to Expensing Option Grants]
+aliases:
+  - An Alternative Approach to Expensing Option Grants
+tags:
+  - '#binomial_pricing_method'
+  - '#bulow_shoven_proposal'
+  - '#compensation_options'
+  - '#contingent_liabilities'
+  - '#fair_market_value'
+  - '#intrinsic_value'
+  - '#option_expense_calculation'
+  - '#option_grants'
+  - '#stock_options'
 ---
-
 # Appendix 16. A An Alternative Approach to Expensing Option Grants
 
 How should companies account for compensation options? One approach is to fully deduct the market value of the option at exercise; this is the approach taken in taxing option grants: A deduction at exercise gives an expense with a present value equal to the price at grant. However,  by waiting to deduct the expense,  the firm's reported income in earlier years will not reflect the economic value of compensation in those years.

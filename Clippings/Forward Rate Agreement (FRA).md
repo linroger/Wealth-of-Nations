@@ -1,9 +1,19 @@
 ---
-title: "Forward Rate Agreement (FRA)"
-source: "https://www.investopedia.com/terms/f/fra.asp"
-description: "Forward rate agreements are over-the-counter contracts between parties that determine the rate of interest to be paid on an agreed-upon date in the future."
+title: Forward Rate Agreement (FRA)
+source: https://www.investopedia.com/terms/f/fra.asp
+description: Forward rate agreements are over-the-counter contracts between parties
+  that determine the rate of interest to be paid on an agreed-upon date in the future.
 tags:
-  - "clippings"
+  - '#counterparty_risk'
+  - '#fixed_vs_floating_interest_rates'
+  - '#forward_rate_agreement'
+  - '#fra_calculation'
+  - '#fra_definition'
+  - '#interest_rate_futures'
+  - '#interest_rate_risk_management'
+  - '#libor_replacement'
+  - '#over_the_counter_contract'
+  - '#term_sofr'
 ---
 Definition
 

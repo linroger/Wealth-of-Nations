@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Markets Session 4
+tags:
+  - '#credit_markets'
+  - '#hazard_rate_models'
+  - '#model_calibration'
+  - '#nelson_siegel_model'
+  - '#parametric_models'
+  - '#portfolio_construction'
+  - '#quant_credit_trading'
+  - '#risk_models'
+  - '#strategy_backtesting'
+  - '#verizon_bonds'
 ---
 # Credit Markets Session 4
 ## CALIBRATION AND MODEL PRICES

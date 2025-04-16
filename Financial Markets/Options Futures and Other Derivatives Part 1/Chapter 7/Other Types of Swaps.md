@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_backed_securities'
+  - '#currency_swaps'
+  - '#derivatives'
+  - '#equity_swaps'
+  - '#interest_rate_swaps'
+  - '#mortgage_market'
+  - '#securitization'
+  - '#swaps'
+---
 # 7.13 OTHER TYPES OF SWAPS  
 
 Many other types of swaps are traded. We will discuss some of them in Chapter 34. At this stage we provide an overview.  

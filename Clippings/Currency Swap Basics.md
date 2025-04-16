@@ -1,9 +1,19 @@
 ---
-title: "Currency Swap Basics"
-source: "https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp"
-description: "Find out what makes currency swaps unique and slightly more complicated than other types of swaps."
+title: Currency Swap Basics
+source: https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp
+description: Find out what makes currency swaps unique and slightly more complicated
+  than other types of swaps.
 tags:
-  - "clippings"
+  - '#borrowing_costs'
+  - '#currency_swap'
+  - '#exchange_rate'
+  - '#financial_instruments'
+  - '#foreign_exchange_risk'
+  - '#fx_swaps'
+  - '#hedging_strategy'
+  - '#interest_rate'
+  - '#multinational_corporations'
+  - '#notional_principal'
 ---
 Currency swaps are an essential financial instrument utilized by banks, multinational corporations, and institutional investors. Although these type of swaps function in a similar fashion to [interest rate swaps](https://www.investopedia.com/terms/i/interestrateswap.asp) and [equity swaps](https://www.investopedia.com/terms/e/equityswap.asp), there are some major fundamental qualities that make currency swaps unique and thus slightly more complicated.
 

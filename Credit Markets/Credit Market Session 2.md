@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Market Session 2
+tags:
+  - '#cdx_indexes'
+  - '#credit_default_swaps'
+  - '#credit_spreads'
+  - '#emerging_markets'
+  - '#etf_basis'
+  - '#fixed_income_etfs'
+  - '#floating_rate_bonds'
+  - '#hazard_rate_model'
+  - '#pairs_trading'
+  - '#sovereign_bonds'
 ---
 # Credit Market Session 2
 ## SOVEREIGN BONDS,  ETFS,  CDS AND CDX

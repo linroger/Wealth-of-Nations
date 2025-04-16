@@ -1,3 +1,14 @@
+---
+tags:
+  - '#expectations_theory'
+  - '#forward_rates'
+  - '#interest_rate_expectations'
+  - '#long_run_interest_rates'
+  - '#macroeconomic_analysis'
+  - '#short_term_rates'
+  - '#term_structure_of_interest_rates'
+  - '#zero_coupon_bonds'
+---
 # 8.1 EXPECTATIONS  
 
 Consider a simple framework with annual periods. Assume for the moment that the current one-year rate is $8\%$ , and that investors know with certainty that the one-year rate in one year will be $7\%$ and in two years will be $6\%$ Then, the prices of one-, two-, and three-year zero coupon bonds with a unit face value, $P(1),P(2)$ , and $P(3)$ , are priced such that,  

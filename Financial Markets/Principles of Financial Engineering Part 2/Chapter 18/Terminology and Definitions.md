@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds'
+  - '#credit_derivatives'
+  - '#credit_events'
+  - '#credit_indices'
+  - '#credit_risk'
+  - '#protection_buyer'
+  - '#protection_seller'
+  - '#recovery_value'
+  - '#standardization'
+  - '#tranches'
+---
 # 18.2 TERMINOLOGY AND DEFINITIONS  
 
 First, we need to define some terminology. The credit sector is relatively new in modern finance, although an ad hoc treatment of it has existed as long as banking itself.? Some of the terms used in this sector come from swap markets, but others are new and specific to the credit sector. The following list is selective.  

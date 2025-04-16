@@ -1,10 +1,19 @@
 ---
 title: Principles Part I
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#borrower_debtors'
+  - '#central_banks'
+  - '#credit_markets'
+  - '#debt_cycles'
+  - '#economic_cycles'
+  - '#fiat_money'
+  - '#financial_crises'
+  - '#lender_creditors'
+  - '#monetary_policy'
+  - '#principles_for_navigating_big_debt_crises'
 ---
-
 # Principles Part I
 
 [Principles Part II](Principles%20Part%20II.md)

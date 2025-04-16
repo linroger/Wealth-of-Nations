@@ -1,3 +1,13 @@
+---
+tags:
+  - '#markov_chain'
+  - '#mathematical_modeling'
+  - '#probability_theory'
+  - '#stationary_distribution'
+  - '#stochastic_modelling'
+  - '#transition_probabilities'
+  - '#urn_model'
+---
 # A Primer on Probability Theory and Stochastic  Modelling  
 
 # Markov Chain  

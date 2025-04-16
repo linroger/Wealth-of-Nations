@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#asset_pricing'
+  - '#financial_derivatives'
+  - '#geometric_brownian_motion'
+  - '#lognormal_distribution'
+  - '#model_comparison'
+  - '#normal_distribution'
+  - '#option_pricing_models'
+  - '#risk_management'
+  - '#stock_splits'
+---
 # 12.6 GEOMETRIC BROWNIAN MOTION OR ARITHMETIC BROWNIAN MOTION?
 
 The key focus of this book is addressing approaches to valuing financial derivatives. Based on materials covered thus far, there appears to be a key decision to be made in our journey. Do we go with GBM or ABM?

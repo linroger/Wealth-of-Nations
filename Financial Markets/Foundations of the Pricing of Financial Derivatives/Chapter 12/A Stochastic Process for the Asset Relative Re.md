@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_relative_return'
+  - '#central_limit_theorem'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#log_return'
+  - '#lognormally_distributed'
+  - '#stochastic_differential_equations'
+  - '#stochastic_process'
+---
 # 12.1 A STOCHASTIC PROCESS FOR THE ASSET RELATIVE RETURN
 
 The relative return on the asset from a starting point of time O to a point of time dt is3

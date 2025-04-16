@@ -1,3 +1,15 @@
+---
+tags:
+  - '#beta_of_portfolio'
+  - '#cme_group_contracts'
+  - '#equity_portfolio_hedging'
+  - '#hedge_ratio'
+  - '#nasdaq_100_index'
+  - '#portfolio_beta_adjustment'
+  - '#s_and_p_500_index'
+  - '#stock_index_futures'
+  - '#stock_picking_strategy'
+---
 # 3.5 STOCK INDEX FUTURES  
 
 We now move on to consider stock index futures and how they are used to hedge or manage exposures to equity prices.  

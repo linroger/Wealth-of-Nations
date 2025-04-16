@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_or_nothing_option'
+  - '#binary_options'
+  - '#cash_or_nothing_option'
+  - '#digital_options'
+  - '#european_options'
+  - '#option_building_blocks'
+  - '#option_decomposition'
+  - '#option_payoffs'
+---
 # 2.12 THE BUILDING BLOCKS OF EUROPEAN OPTIONS
 
 There are two types of options that can be seen as the building blocks of standard European. options, and it is useful to introduce them in this chapter. One type is called a binary option or digital option, owing to the fact that there are only two possible payoffs, O or 1..

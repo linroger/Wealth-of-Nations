@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_put_options'
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#compound_options'
+  - '#correlation_coefficients'
+  - '#early_exercise'
+  - '#geske_johnson_model'
+  - '#option_pricing'
+  - '#wiener_processes'
+---
 # 20.2 THE AMERICAN PUT AS A SERIES OF COMPOUND OPTIONS
 
 To solve the problem, we need to know the correlation between successive cumulative Wiener processes at different times, say $t_{1}$ and $t_{2}$ , where $t_{1}<t_{2}$ . For example, starting from time 0, we have

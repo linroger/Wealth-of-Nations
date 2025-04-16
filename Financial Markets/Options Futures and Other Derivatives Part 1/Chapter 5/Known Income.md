@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#coupon_bearing_bond'
+  - '#forward_contract'
+  - '#investment_asset'
+  - '#known_income'
+  - '#present_value_of_dividends'
+  - '#risk_free_interest_rates'
+  - '#stock_price'
+---
 # 5.5 KNOWN INCOME  
 
 In this section we consider a forward contract on an investment asset that will provide a perfectly predictable cash income to the holder. Examples are stocks paying known dividends and coupon-bearing bonds. We adopt the same approach as in the previous section. We first look at a numerical example and then review the formal arguments.  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#drift_rate'
+  - '#generalized_wiener_process'
+  - '#ito_process'
+  - '#markov_process'
+  - '#stochastic_calculus'
+  - '#stochastic_process'
+  - '#variance_rate'
+  - '#wiener_process'
+---
 # 14.2 CONTINUOUS-TIME STOCHASTIC PROCESSES  
 
 Consider a variable that follows a Markov stochastic process. Suppose that its current value is 10 and that the change in its value during a year is $\phi(0,1)$ , where $\phi(m,\nu)$ denotes a probability distribution that is normally distributed with mean $m$ and variance $\nu$ 2 What is the probability distribution of the change in the value of the variable during 2 years?  

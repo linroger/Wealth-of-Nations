@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basel_iii'
+  - '#counterparty_risk'
+  - '#credit_valuation_adjustment'
+  - '#cva'
+  - '#derivatives_pricing'
+  - '#dva'
+  - '#financial_engineering'
+  - '#fva'
+  - '#ois_rates'
+  - '#risk_management'
+---
 # 24.1 INTRODUCTION  
 
 In this chapter, we review recent innovations in financial engineering that attempt to better incorporate counterparty risk into derivatives pricing. The topics covered in this chapter are very much at the forefront of financial engineering practice and derivatives research. In previous chapters, we showed how basic principles such as swap cash flow engineering, option valuation, and dynamic replication. can be used to construct and value more complex products. Our hope is that the reader now appreciates the commonality in the approaches to different asset classes and financial engineering problems.. In this chapter, we will see how some of the tools that we studied earlier can be used to better account.  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_correlation'
+  - '#basket_options'
+  - '#black_model'
+  - '#bond_futures_contract'
+  - '#correlated_geometric_brownian_motion'
+  - '#european_basket_option'
+  - '#monte_carlo_simulation'
+  - '#rainbow_options'
+---
 # 26.15 OPTIONS INVOLVING SEVERAL ASSETS  
 
 Options involving two or more risky assets are sometimes referred to as rainbow options.   

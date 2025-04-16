@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#bond_markets'
+  - '#credit_risk'
+  - '#currency_swaps'
+  - '#eurobonds'
+  - '#foreign_exchange'
+  - '#hedging'
+  - '#interest_rate_swaps'
+  - '#international_finance'
+  - '#market_swap_rates'
+---
 # Currency Swaps  
 
 A currency swap, in the simplest sense, is an agreement between two parties to exchange a given amount of one currency for another and to pay back with interest these currencies in the future1 Frequently, one counterparty--such as a corporation, bank, sovereign, or supranational--borrows under specific terms and conditions in one currency while the other counterparty borrows under different terms and conditions in a second currency. The two counterparties then exchange the net receipts from the capital markets issues and agree to service each other's debt. For example, a U.S. company that has issued deutsche mark (DM) bonds with an annual all-in DM cost of $8\%$ enters into a foreign currency swap directly with a German company that has issued ${\mathrm{US}}\$4$ bonds with an annual all-in ${\mathrm{US}}\$4$ cost of $11\%$ . The companies exchange the initial receipts from their respective bonds. At the same time, the U.S. company agrees to pay the interest and principal on the ${\mathrm{US}}\$4$ bonds issued by the German company, and the German company agrees to pay the interest and principal on the DM bonds issued by the U.S. company.  

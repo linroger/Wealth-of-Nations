@@ -1,3 +1,14 @@
+---
+tags:
+  - '#central_limit_theorem'
+  - '#distribution_function'
+  - '#moment_generating_function'
+  - '#proof'
+  - '#random_variables'
+  - '#sample_mean'
+  - '#standard_normal_distribution'
+  - '#taylor_series'
+---
 # Chapter 2 Additional Readings  
 
 # A Verification of the Central Limit Theorem  

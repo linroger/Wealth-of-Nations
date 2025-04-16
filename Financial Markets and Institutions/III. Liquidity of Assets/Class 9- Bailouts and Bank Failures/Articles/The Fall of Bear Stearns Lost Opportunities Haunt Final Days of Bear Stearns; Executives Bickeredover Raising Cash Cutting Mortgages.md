@@ -1,16 +1,23 @@
 ---
 aliases:
-- The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear
-  Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
-- The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
-  Executives Bickeredover Raising Cash Cutting Mortgages.md
-- 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
+  - The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
+    Executives Bickeredover Raising Cash Cutting Mortgages
+  - The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
+    Executives Bickeredover Raising Cash Cutting Mortgages.md
+  - 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 linter-yaml-title-alias: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days
   of Bear Stearns '
-tags:
-- 
-- 
 title: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
+tags:
+  - '#alan_schwartz'
+  - '#bear_stearns_collapse'
+  - '#federal_reserve_intervention'
+  - '#financial_regulation'
+  - '#hedge_funds'
+  - '#james_cayne'
+  - '#market_indecision'
+  - '#mortgage_market_crisis'
+  - '#risk_management'
 ---
 # The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
 

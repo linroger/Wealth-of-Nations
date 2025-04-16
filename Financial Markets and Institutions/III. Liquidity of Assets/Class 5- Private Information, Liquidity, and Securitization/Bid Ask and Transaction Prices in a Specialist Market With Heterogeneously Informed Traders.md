@@ -1,18 +1,26 @@
 ---
 aliases:
-- Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
-  Informed Traders*
-- Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
-  Informed Traders
-- Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously
-  Informed Traders.md
+  - Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
+    Informed Traders*
+  - Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed
+    Traders
+  - Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed
+    Traders.md
 linter-yaml-title-alias: Bid,  Ask,  and **Transaction** Prices in a Specialist Market
   with Heterogeneously Informed Traders*
-tags:
-- 
-- 
 title: Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
   Informed Traders*
+tags:
+  - '#adverse_selection'
+  - '#bid_ask_spread'
+  - '#information_asymmetry'
+  - '#insider_trading'
+  - '#liquidity_traders'
+  - '#market_efficiency'
+  - '#martingale'
+  - '#small_firm_effect'
+  - '#specialist_market'
+  - '#transaction_prices'
 ---
 # Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders
 

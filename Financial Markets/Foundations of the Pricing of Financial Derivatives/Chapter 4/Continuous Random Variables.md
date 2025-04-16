@@ -1,3 +1,16 @@
+---
+tags:
+  - '#conditional_density'
+  - '#continuous_random_variables'
+  - '#covariance'
+  - '#distribution_function'
+  - '#expectation'
+  - '#joint_density'
+  - '#marginal_density'
+  - '#probability_density_function'
+  - '#variance'
+  - '#weighted_combination'
+---
 # 4.3 CONTINUOUS RANDOM VARIABLES
 
 For continuous random variables, the operations are somewhat different, but the results are conceptually identical to the discrete case. Consider a random variable $x$ with lower. limit $x_{L}$ and upper limit $x_{H}$ Its density function is $f(x)$ . Over the entire range of outcomes, the density integrates to 1:

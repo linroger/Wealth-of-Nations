@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_opportunity'
+  - '#elementary_insurance_contracts'
+  - '#fundamental_theorem_of_asset_pricing'
+  - '#option_pricing'
+  - '#payoff_matrix'
+  - '#pricing_framework'
+  - '#risk_management'
+  - '#state_prices'
+  - '#states_of_the_world'
+---
 # 12.3 THE FRAMEWORK  
 
 The pricing framework that we use emphasizes important aspects of the theory within a real-world setting. We assume that. $m$ liquid asset prices are observed at times $t_{i:}$ $i=1$ , 2, ... The time. $t_{i}$ price of the kth asset is denoted by. $S_{k t_{i}}$ . The latter can represent credit, stocks, fixed-income instruments, the corresponding derivatives, or commodity prices.  

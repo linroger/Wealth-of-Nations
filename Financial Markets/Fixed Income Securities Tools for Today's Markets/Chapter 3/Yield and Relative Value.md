@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#bond_yields'
+  - '#coupon_effect'
+  - '#relative_value'
+  - '#spot_rates'
+  - '#term_structure'
+  - '#us_treasury_bonds'
+  - '#yield_to_maturity'
+---
 # 3.4 YIELD AND RELATIVE VALUE  
 
 This section argues that yield is not a reliable measure of relative value. In. fact, if two bonds have the same maturity but different yields, it is not nec-. essarily true that the bond with a higher yield is a superior investment. To explain this, the discussion turns to the coupon effect, starting with a simple numerical example and finishing with an empirical demonstration from the US Treasury bond market.  

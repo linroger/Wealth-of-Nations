@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#bond_valuation'
+  - '#credit_migration'
+  - '#credit_rating'
+  - '#default_probability'
+  - '#deterministic_credit_migration_model'
+  - '#present_value'
+  - '#transitional_probabilities'
+---
 # 7.3 A DETERMINISTIC CREDIT MIGRATION MODEL  
 
 The constant default probability model can incorporate a deterministic scenario of changing credit quality. Suppose we believe that the probability of default for year 1 is $0.11\%$ , but $6\%$ in year 2 and $8\%$ in year 3. Table 7.4 shows that all we need to do is recompute the cumulative survival probabilities; the rest proceeds as before.  

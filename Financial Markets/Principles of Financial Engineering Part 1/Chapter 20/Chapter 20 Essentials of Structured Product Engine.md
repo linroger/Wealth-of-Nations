@@ -1,3 +1,11 @@
+---
+tags:
+  - '#fixed_income_products'
+  - '#product_prototypes'
+  - '#product_purposes'
+  - '#structured_product_engineering'
+  - '#structured_products'
+---
 # CHAPTER 20 Essentials of Structured Product Engineering. 695  
 
 20.1 Introduction.. .696   

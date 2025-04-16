@@ -1,9 +1,20 @@
 ---
-aliases: [The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md]
-tags: []
+aliases:
+  - The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days
+    Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md
 title: The Fall of Bear Stearns
+tags:
+  - '#alan_schwartz'
+  - '#bear_stearns_collapse'
+  - '#financial_crisis_2008'
+  - '#government_intervention'
+  - '#henry_paulson'
+  - '#james_dimon'
+  - '#jp_morgan_chase'
+  - '#market_instability'
+  - '#moral_hazard'
+  - '#timothy_geithner'
 ---
-
 # The Fall of Bear Stearns
 ## Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 

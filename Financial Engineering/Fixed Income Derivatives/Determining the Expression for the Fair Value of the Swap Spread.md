@@ -1,3 +1,16 @@
+---
+tags:
+  - '#benchmark_valuation'
+  - '#fair_value'
+  - '#gc_repo_rate'
+  - '#government_bond_yield'
+  - '#interest_rate_swap'
+  - '#libor_rate'
+  - '#market_liquidity'
+  - '#risk_free_rate'
+  - '#swap_spread'
+  - '#zero_cost_portfolio'
+---
 # Determining the Expression for the Fair Value of the Swap Spread
 
 ## Determining the Expression for the Fair Value of the Swap Spread: An Approach  Using Libor and GC Repo Rates

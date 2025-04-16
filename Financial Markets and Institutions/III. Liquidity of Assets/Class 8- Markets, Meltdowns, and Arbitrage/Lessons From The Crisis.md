@@ -1,12 +1,19 @@
 ---
 cssclasses: academia
-aliases: [Lessons From The Crisis.md,  Lessons From The Crisis]
-tags:
-
-  - 
+aliases:
+  - Lessons From The Crisis.md
+  - Lessons From The Crisis
 title: Lessons From The Crisis
+tags:
+  - '#abs_cdos'
+  - '#convexity_risk'
+  - '#counterparty_risk'
+  - '#financial_crisis'
+  - '#incentives'
+  - '#negative_basis_trade'
+  - '#regulatory_environment'
+  - '#stress_testing'
 ---
-
 # Lessons From The Crisis
 
 # Five Structural Causes Of The Crisis

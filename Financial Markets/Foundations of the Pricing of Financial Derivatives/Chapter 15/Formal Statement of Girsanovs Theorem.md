@@ -1,3 +1,13 @@
+---
+tags:
+  - '#adapted_process'
+  - '#girsanov_theorem'
+  - '#martingale'
+  - '#probability_measure'
+  - '#probability_space'
+  - '#radon_nikodym_derivative'
+  - '#wiener_process'
+---
 # 15.4 FORMAL STATEMENT OF GIRSANOV'S THEOREM
 
 Define the complete probability space as $(\itOmega,I,P)$ . Let $\mathcal{Q}$ be a probability measure defined on I. $\mathcal{Q}$ is equivalent to $P$ if for every $A$ that is an element of $I,P(A)=0$ if and only if $Q(A)=0$

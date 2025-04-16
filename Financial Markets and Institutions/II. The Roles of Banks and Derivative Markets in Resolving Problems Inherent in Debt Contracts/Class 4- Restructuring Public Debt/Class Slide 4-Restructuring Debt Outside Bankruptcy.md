@@ -3,26 +3,20 @@ cssclasses:
   - academia
 aliases:
   - Restructuring Debt Outside Bankruptcy
-linter-yaml-title-alias: Class Note 4-[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] outside bankruptcy
-tags:
-  - debt
-  - restructuring
-  - bankruptcy
-  - coercive
-  - exchange
-  - priority
-  - concessions
-  - liquidation
-  - holdouts
-  - "#debt-management"
-  - "#financial-crises"
-  - "#debt-structuring"
-  - "#bankruptcy-restructuring"
-  - "#debt-concessions"
-  - "#coercive-exchange"
+linter-yaml-title-alias: Class Note 4-[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
+  Debt]] outside bankruptcy
 title: Class Slide 4-Restructuring Debt Outside Bankruptcy
+tags:
+  - '#bank_debt'
+  - '#bankruptcy'
+  - '#coercive_exchange_offer'
+  - '#debt_restructuring'
+  - '#exit_consent_votes'
+  - '#holdout_problem'
+  - '#non_pivotal_holders'
+  - '#priority_stack'
+  - '#public_debt'
 ---
-
 # Class Slide 4-Restructuring Debt Outside Bankruptcy
 
 ## Bank Debt along with Public Debt

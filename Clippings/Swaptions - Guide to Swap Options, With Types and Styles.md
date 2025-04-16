@@ -1,11 +1,20 @@
 ---
-title: "Swaptions - Guide to Swap Options, With Types and Styles"
-source: "https://www.investopedia.com/terms/s/swaption.asp"
-description: "A swaption, also known as a swap option, refers to an option to enter into a swap agreement with another party."
+title: Swaptions - Guide to Swap Options, With Types and Styles
+source: https://www.investopedia.com/terms/s/swaption.asp
+description: A swaption, also known as a swap option, refers to an option to enter
+  into a swap agreement with another party.
 tags:
-  - "clippings"
+  - '#american_swaption'
+  - '#bermudan_swaption'
+  - '#derivative_contracts'
+  - '#european_swaption'
+  - '#financial_derivatives'
+  - '#interest_rate_risk_management'
+  - '#interest_rate_swaps'
+  - '#payer_swaption'
+  - '#receiver_swaption'
+  - '#swaptions'
 ---
-
 Definition
 
 A swap is a derivative contract through which two parties exchange the cash flows or liabilities from two different financial instruments.

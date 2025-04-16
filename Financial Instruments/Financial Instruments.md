@@ -1,10 +1,19 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: Financial Instruments
+tags:
+  - '#american_options'
+  - '#asian_options'
+  - '#barrier_options'
+  - '#delta_hedging'
+  - '#exotic_options'
+  - '#one_period_binomial_model'
+  - '#option_elasticity'
+  - '#risk_neutral_valuation'
+  - '#synthetic_options'
+  - '#two_period_binomial_model'
 ---
-
 # Financial Instruments
 
 # One Period Binomial Model

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bank_of_japan'
+  - '#ecb'
+  - '#european_central_bank'
+  - '#eurosystem'
+  - '#japan_economy'
+  - '#monetary_policy'
+  - '#negative_interest_rates'
+  - '#quantitative_easing'
+  - '#yield_curve_control'
+---
 # 0.5 NEGATIVE RATES AND QE IN EUROPE AND JAPAN  
 
 Lending $\epsilon1$ at a negative rate means receiving less than $\epsilon1$ when the loan matures. Conversely, borrowing 1 at a negative rate means paying back. less than 1 at maturity. Buying a bond at a negative yield means purchasing. the bond for more than its face amount, receiving no interest over the life. of the bond, and receiving only face amount at maturity.27 Individuals with relatively small amounts of money can avoid lending at negative rates by. keeping money in cash. For individuals and corporations with larger sums,. however, holding cash is very cumbersome, and depositing funds at a bank at a modestly negative rate of interest may be the best available choice. There are also reasons to buy long-term bonds trading at a negative yield, despite their being guaranteed to lose money in nominal or euro terms. First, if bank deposit rates are negative, say at $-0.50\%$ , then purchasing. a bond yielding $-0.25\%$ might be preferable to a deposit. Second, if the future is characterized by falling prices, that is, by deflation, then a negative yielding bond can offer a positive real return. For example, a bond yielding. $-1\%$ when prices are falling at a rate of $2\%$ is actually gaining $1\%$ in real terms, that is, in purchasing power. Third, from a short-term trading.  

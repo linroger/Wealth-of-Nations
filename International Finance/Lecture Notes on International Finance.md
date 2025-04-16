@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convenience_yields'
+  - '#exchange_rates'
+  - '#fiscal_policy'
+  - '#global_imbalances'
+  - '#international_finance'
+  - '#market_segmentation'
+  - '#monetary_policy'
+  - '#net_foreign_assets'
+  - '#portfolio_choice'
+  - '#risk_premia'
+---
 # Lecture Notes on International Finance
 # Contents
 # Table of Contents

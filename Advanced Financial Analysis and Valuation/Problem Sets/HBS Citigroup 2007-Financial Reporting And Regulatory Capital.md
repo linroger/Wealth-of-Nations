@@ -1,16 +1,17 @@
 ---
 aliases:
-tags:
-
-  - "#finance"
-  - "#banking"
-  - "#financial-crises"
-  - "#risk-management"
-  - "#debt-management"
-  - "#subprime-mortgage-crisis"
-  - "#regulatory-capital"
-  - "#citigroup-history"
 title: HBS Citigroup 2007-Financial Reporting And Regulatory Capital
+tags:
+  - '#2007_financial_results'
+  - '#citigroup'
+  - '#fair_value_measurements'
+  - '#financial_instruments'
+  - '#financial_reporting'
+  - '#loan_loss_reserves'
+  - '#operating_segments'
+  - '#regulatory_capital'
+  - '#securitization'
+  - '#subprime_mortgage_crisis'
 ---
 ## CITIGROUP 2007: FINANCIAL REPORTING AND REGULATORY CAPITAL
 

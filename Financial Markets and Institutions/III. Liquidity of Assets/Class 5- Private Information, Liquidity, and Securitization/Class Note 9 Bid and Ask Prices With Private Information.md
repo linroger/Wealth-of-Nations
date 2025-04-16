@@ -1,11 +1,19 @@
 ---
 cssclasses:
   - academia
-aliases: 
-tags: 
+aliases:
 title: Class Note 9 Bid and Ask Prices With Private Information
+tags:
+  - '#adverse_selection'
+  - '#bid_ask_spread'
+  - '#glosten_milgrom_model'
+  - '#informed_traders'
+  - '#liquidity_traders'
+  - '#market_efficiency'
+  - '#market_makers'
+  - '#private_information'
+  - '#stock_valuation'
 ---
-
 # Class Note 9 Bid and Ask Prices With Private Information
 
 **Bid and Ask Prices with Adverse Selection/Private Information**

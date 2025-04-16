@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_holders'
+  - '#discounted_cash_flows'
+  - '#equity'
+  - '#equity_holders'
+  - '#equity_to_credit_approach'
+  - '#merton_model'
+  - '#probability_of_default'
+  - '#structural_model_of_default'
+---
 # 19.1 Introduction. 66C  
 
 19.2 What Is Equity?. . 662   

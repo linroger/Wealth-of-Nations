@@ -1,3 +1,16 @@
+---
+tags:
+  - '#autocallables'
+  - '#cppi_techniques'
+  - '#dppi'
+  - '#gap_risk'
+  - '#liquidity_risk'
+  - '#monte_carlo_simulations'
+  - '#obpi'
+  - '#out_of_the_money_puts'
+  - '#portfolio_insurance'
+  - '#principal_protection_techniques'
+---
 # 23.9 REAL-WORLD COMPLICATIONS  
 
 The idea behind CPPI techniques is simple. Actually, even the modeling is fairly straightforward.   

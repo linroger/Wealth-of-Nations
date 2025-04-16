@@ -1,12 +1,19 @@
 ---
 aliases:
-- The Economist Regime Change
-- The Economist Regime Change.md
+  - The Economist Regime Change
+  - The Economist Regime Change.md
 banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
-tags:
-- 
-- 
 title: The Economist Regime Change
+tags:
+  - '#budget_deficits'
+  - '#central_banks'
+  - '#economic_reversal'
+  - '#energy_crisis'
+  - '#fiscal_policy'
+  - '#global_economy'
+  - '#government_spending'
+  - '#inflation'
+  - '#monetary_policy'
 ---
  ![500](4a643986b2694830401910f31df7403911f5d2ef.avif.png)
 

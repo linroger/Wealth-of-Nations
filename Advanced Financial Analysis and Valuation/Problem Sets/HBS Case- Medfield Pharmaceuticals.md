@@ -3,17 +3,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]"
-  - "#corporaterestructuring"
-  - "#mergers-and-acquisitions"
-  - "#patent-strategy"
-  - "#product-pipeline"
-  - "#drug-reformulation"
-  - "#patent-expiration"
-  - "#pharmaceutical-industry-trends"
+  - '#ceo_decision'
+  - '#company_valuation'
+  - '#drug_reformulation'
+  - '#fleximat'
+  - '#generic_drugs'
+  - '#medfield_pharmaceuticals'
+  - '#mergers_and_acquisitions'
+  - '#patent_expiration'
+  - '#pharmaceutical_industry_trends'
+  - '#reximet'
 ---
-
 # HBS CASE MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 ## MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 

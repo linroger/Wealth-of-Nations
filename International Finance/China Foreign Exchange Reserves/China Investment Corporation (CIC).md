@@ -1,20 +1,21 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: China Investment Corporation (CIC)
 source: https://www.investopedia.com/terms/c/china-inv-corp.asp
-description: China Investment Corporation is the sovereign wealth fund of China that invests in public and private assets to diversify foreign exchange holdings.
+description: China Investment Corporation is the sovereign wealth fund of China that
+  invests in public and private assets to diversify foreign exchange holdings.
 tags:
-  - china
-  - sovereign-wealth-fund
-  - fx
-  - "#finance"
-  - "#risk-management"
-  - "#global-capital-markets"
-  - "#china-investment-corporation"
+  - '#asset_allocation'
+  - '#china_investment_corporation_cic'
+  - '#cic_subsidiaries'
+  - '#foreign_exchange_holdings'
+  - '#global_investments'
+  - '#investment_strategy'
+  - '#sovereign_wealth_fund'
+  - '#us_china_investment'
 ---
-
 # China Investment Corporation (CIC)
 
 ## What Is the China Investment Corporation (CIC)?

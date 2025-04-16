@@ -1,12 +1,27 @@
 ---
 cssclasses: academia
 Owner: RRoger Lin
-aliases: [[[Class Note 13 The LTCM Meltdown|Long Term Capital Management]],  Note on Long-Term Capital Management,  Note on Long-Term Capital Management,  L.P. (A),  L.P. HBP.md,  Long-Term Capital Management]
+aliases:
+  -   -   - Class Note 13 The LTCM Meltdown|Long Term Capital Management
+  - Note on Long-Term Capital Management
+  - Note on Long-Term Capital Management
+  - L.P. (A)
+  - L.P. HBP.md
+  - Long-Term Capital Management
 linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
-tags: ["finance",  "financial-crises",  "financial-markets",  "financial-modeling",  "hedge-fund-strategies",  "market-liquidity",  "quantitative-finance",  "risk-management",  Primers/Notes,  ]
 title: Note on Long-Term Capital Management,  L.P. HBP
+tags:
+  - '#convergence_trades'
+  - '#financial_markets'
+  - '#fund_size'
+  - '#hedge_fund'
+  - '#leverage'
+  - '#liquidity_management'
+  - '#long_term_capital_management'
+  - '#relative_value_trades'
+  - '#risk_management'
+  - '#trading_strategies'
 ---
-
 **Harvard Business School**
 
 # Note on Long-Term Capital Management,  L.P. HBP

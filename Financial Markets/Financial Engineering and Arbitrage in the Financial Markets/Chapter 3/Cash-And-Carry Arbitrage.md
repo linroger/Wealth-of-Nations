@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cash_and_carry_arbitrage'
+  - '#commodities'
+  - '#cost_of_carry_equation'
+  - '#covered_interest_rate_parity'
+  - '#currency_forwards'
+  - '#fair_value_equation'
+  - '#forward_price'
+  - '#spot_price'
+  - '#stock_index_arbitrage'
+---
 # 3.3 CASH-AND-CARRY ARBITRAGE  
 
 The cost-of-carry equation and the cash-and-carry arbitrage that justifies it and are the most. important links that bind the spot price of a commodity to all its forwards and futures prices.. The essence of the cost-of-carry equation lies in the fact that futures and forwards are redundant derivative contracts that can be completely replicated with a spot transaction combined with financing and carrying actions. The purchase of 20,o00 bushels of corn for delivery in 3 months can be replicated with borrowing money for 3 months, buying corn now, and paying for the storage of corn for 3 months. The purchase of 500 component stocks in the S&P 500 index. for delivery in 6 months can be replicated with borrowing money for 6 months, buying the stocks in the right proportions now, and receiving the expected dividends on the stocks over. the next 3 months, which defrays the cost of buying them now. The purchase of euros with dollars for delivery in 1 month can be replicated with borrowing dollars for 1 month, buying euros with the borrowed dollars now, and earning interest on the purchased euros over the next month. In a month, dollars are repaid with interest and euros are received with interest, but the exact amounts, and therefore the exchange ratio, are known or are locked in now, in advance. All the replicating strategies involve borrowing or lending money (financing), buying or selling a commodity now (spot), and paying for storage and/or receiving cash flows (dividends, coupon interest) from the commodity (carry). Therefore, the relationship between. spot $S$ and futures/forwards $F$ can be written approximately as:  

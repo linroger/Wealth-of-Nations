@@ -1,6 +1,16 @@
 ---
-tags: [finance, fixed-income, asset-pricing, securities-analysis]
-aliases: [Fixed Income Securities Analysis, Bond Market Insights]
+aliases:
+  - Fixed Income Securities Analysis
+  - Bond Market Insights
+tags:
+  - '#credit_spread'
+  - '#debt_instruments'
+  - '#fixed_income_derivatives'
+  - '#fixed_income_securities'
+  - '#interest_rates'
+  - '#market_structure'
+  - '#risk_management'
+  - '#yield_curve'
 ---
 # Analysis of Fixed Income Securities
 

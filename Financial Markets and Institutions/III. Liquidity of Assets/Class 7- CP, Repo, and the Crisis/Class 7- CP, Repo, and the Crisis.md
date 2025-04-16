@@ -1,10 +1,18 @@
 ---
-aliases: [Class 7- CP,  Repo,  and the Crisis,  Class 7- CP,  and the Crisis.md,  Class 7CP]
+aliases:
+  - Class 7- CP
+  - Repo
+  - and the Crisis
+  - Class 7- CP
+  - and the Crisis.md
+  - Class 7CP
 linter-yaml-title-alias: Class 7CP,    Repo,    and the Crisis
-tags: []
 title: Class 7CP,  Repo,  and the Crisis
+tags:
+  - '#class_7cp'
+  - '#crisis'
+  - '#repo'
 ---
-
 # Class 7CP,  Repo,  and the Crisis
 
 %% Begin Waypoint %%

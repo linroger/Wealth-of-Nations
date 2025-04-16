@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton_bsm'
+  - '#credit_default_swap_cds'
+  - '#credit_risk_modeling'
+  - '#default_probability'
+  - '#default_time'
+  - '#merton_model'
+  - '#option_pricing'
+  - '#recovery_rate'
+  - '#reduced_form_models'
+  - '#structural_models'
+---
 # An Introduction to Credit Risk Modelling
 
 Models of credit risks have long existed in the insurance and corporate finance literature. Those models concentrate on default rates, credit ratings and credit risk premiums. These traditional models focus on diversification and assume that since the credit risk for the individual assets in the portfolio are unique; these can be diversified away in a large portfolio. Models of this kind are along the line of portfolio theory that employs the capital asset pricing model (CAPM). In the CAPM, only the systematic risk or market risk matters. For single, isolated credits, the models calculate risk premiums as mark-ups onto the risk-free rate. Since the default risk is not diversified away, a similar model to the CAPM called the  capital market line  is used to compute the correct markup for bearing the default risk. The Sharpe ratio is commonly used to measure how credit risks are priced

@@ -1,11 +1,21 @@
 ---
 aliases:
-- The Dodd Frank Act and Its Impact
-- The Dodd Frank Act and Its Impact.md
-tags:
-- 
-- 
+  - The Dodd Frank Act and Its Impact
+  - The Dodd Frank Act and Its Impact.md
 title: The Dodd Frank Act and Its Impact
+tags:
+  - '#basel_iii_accord'
+  - '#collins_amendment'
+  - '#contingent_convertible_securities'
+  - '#dodd_frank_act'
+  - '#financial_crisis_2008_09'
+  - '#financial_reform'
+  - '#financial_stability'
+  - '#financial_stability_oversight_council'
+  - '#orderly_liquidation_authority'
+  - '#regulatory_reform'
+  - '#trust_preferred_securities'
+  - '#volcker_rule'
 ---
 # The Dodd Frank Act and Its Impact
 

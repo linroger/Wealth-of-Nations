@@ -1,3 +1,26 @@
+---
+tags:
+  - '#call_option'
+  - '#credit_default_swap'
+  - '#credit_derivative'
+  - '#derivative_finance'
+  - '#equity_derivative'
+  - '#equity_swap'
+  - '#foreign_exchange_derivative'
+  - '#foreign_exchange_option'
+  - '#forward_contract'
+  - '#freight_derivative'
+  - '#futures_contract'
+  - '#gold_investment'
+  - '#inflation_derivative'
+  - '#interest_rate_derivative'
+  - '#option_finance'
+  - '#property_derivatives'
+  - '#put_option'
+  - '#strike_price'
+  - '#swap_finance'
+  - '#warrant_finance'
+---
 # Contents  
 
 # rticles  

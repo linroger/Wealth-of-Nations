@@ -1,10 +1,17 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Understanding the Yield Curve Notes
+tags:
+  - '#bond_duration'
+  - '#breakeven_yield_change'
+  - '#carry'
+  - '#holding_period_return'
+  - '#implied_forward_rate'
+  - '#yield_curve'
+  - '#yield_spread'
+  - '#zero_coupon_bond'
 ---
 # Understanding the Yield Curve Notes
 

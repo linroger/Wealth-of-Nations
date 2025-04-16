@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1
+tags:
+  - '#ar1_process'
+  - '#bootstrap_procedure'
+  - '#duration_hedging'
+  - '#estimation_and_forecast'
+  - '#forward_rates'
+  - '#interest_rate_forecast'
+  - '#inverse_floater'
+  - '#mean_reversion'
+  - '#principal_components_analysis'
+  - '#strip_prices'
 ---
 ---
 

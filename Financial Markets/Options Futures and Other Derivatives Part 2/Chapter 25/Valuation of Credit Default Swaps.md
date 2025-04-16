@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binary_credit_default_swaps'
+  - '#cds_valuation'
+  - '#credit_default_swaps'
+  - '#default_probabilities'
+  - '#deriva_gem'
+  - '#hazard_rate'
+  - '#marking_to_market'
+  - '#recovery_rate'
+  - '#risk_neutral_default_probabilities'
+---
 # 25.2 VALUATION OF CREDIT DEFAULT SWAPS  
 
 The CDS spread for a particular reference entity can be calculated from default probability estimates. We will illustrate how this is done for a 5-year CDS..  

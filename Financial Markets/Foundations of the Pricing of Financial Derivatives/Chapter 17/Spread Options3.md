@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#european_spread_call_option'
+  - '#european_spread_put_option'
+  - '#exercise_price'
+  - '#geometric_brownian_motion'
+  - '#risk_neutral_valuation'
+  - '#spread_option_pricing'
+  - '#spread_options'
+---
 # 17.6 SPREAD OPTIONS3
 
 We now consider spread options where there is a nonzero exercise price. In this case, suppose we have a European spread call option in which at expiration the holder can exchange $\alpha_{2}$ units of asset 2 and receive $\alpha_{1}$ units of asset 1 but also must pay a prespecified. exercise price, X. We assume. $\alpha_{1}$ and $\alpha_{2}$ are both positive. A European spread put option in which at expiration the holder can exchange $\alpha_{1}$ units of asset 1 and receive. $\alpha_{2}$ units of. asset 2 but again has to pay a prespecified exercise price, $X$ Note that. $X$ can be positive. or negative. The payoffs at expiration are

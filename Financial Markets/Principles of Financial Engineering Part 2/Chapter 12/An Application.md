@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_free_pricing'
+  - '#elementary_insurance_contracts'
+  - '#financial_engineering'
+  - '#option_pricing'
+  - '#replication'
+  - '#s_and_p500_options'
+  - '#state_prices'
+  - '#synthetic_probabilities'
+---
 # 12.4 AN APPLICATION  
 
 The framework based on state prices and elementary insurance contracts is a surprisingly poten1. and realistic pricing tool. Before going any further and obtaining more results from the  

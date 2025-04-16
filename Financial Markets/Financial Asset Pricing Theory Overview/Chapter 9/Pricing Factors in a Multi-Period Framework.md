@@ -1,3 +1,15 @@
+---
+tags:
+  - '#conditional_pricing_factor'
+  - '#continuous_time_model'
+  - '#expected_return_beta'
+  - '#factor_beta'
+  - '#market_price_of_risk'
+  - '#multi_period_framework'
+  - '#pricing_factors'
+  - '#state_price_deflator'
+  - '#unconditional_pricing_factor'
+---
 # 9.5 Pricing factors in a multi-period framework  
 
 In the one-period framework we defined a pricing factor to be a $K$ -dimensional random variable $_{\alpha}$ such that there exists some $\alpha\in\mathbb R$ and some $\eta\in\mathbb{R}^{K}$ so that  

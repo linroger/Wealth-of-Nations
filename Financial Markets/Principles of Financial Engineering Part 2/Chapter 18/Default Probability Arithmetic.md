@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cds_unwinding'
+  - '#cds_valuation'
+  - '#credit_default_swap_cds'
+  - '#default_probability'
+  - '#exponential_distribution'
+  - '#risky_annuity_factor'
+  - '#risky_dv01'
+  - '#upfront_payments'
+---
 # 18.6 DEFAULT PROBABILITY ARITHMETIC  
 
 Modeling the occurrence and the timing of default events can be quite complex. The market, however, gravitates to some simple and tradable notions as we have seen before with options and implied volatility. In this section, we discuss the arithmetic behind the trading of default probability.  

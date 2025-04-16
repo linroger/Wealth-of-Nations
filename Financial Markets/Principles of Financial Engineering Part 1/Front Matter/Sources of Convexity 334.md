@@ -1,3 +1,12 @@
+---
+tags:
+  - '#convexity'
+  - '#convexity_by_design'
+  - '#fras'
+  - '#mark_to_market'
+  - '#prepayment_options'
+  - '#swaps'
+---
 # 0.4 Sources of Convexity.. 334  
 
 10.4.1 Mark to Market. 334   

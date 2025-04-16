@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bilateral_clearing'
+  - '#central_counterparties_ccps'
+  - '#collateral_agreements_csas'
+  - '#credit_risk'
+  - '#hedge_funds'
+  - '#initial_margin'
+  - '#long_term_capital_management_ltcm'
+  - '#market_regulation'
+  - '#otc_markets'
+  - '#variation_margin'
+---
 # 2.5 OTC MARKETS  
 
 Over-the-counter (OTC) markets, introduced in Chapter 1, are markets where compan-. ies agree to derivatives transactions without involving an exchange. Credit risk has traditionally been a feature of OTC derivatives markets. Consider two companies, A. and B, that have entered into a number of derivatives transactions. If A defaults when the net value of the outstanding transactions to B is positive, a loss is likely to be taken by B. Similarly, if B defaults when the net value of outstanding transactions to A is positive, a loss is likely to be taken by company A. In an attempt to reduce credit risk,. the OTC market has borrowed some ideas from exchange-traded markets. We now. discuss this.  

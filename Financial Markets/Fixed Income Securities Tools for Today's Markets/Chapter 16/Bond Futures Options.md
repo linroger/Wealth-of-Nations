@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_futures_options'
+  - '#bsm_model'
+  - '#delivery_options'
+  - '#european_options'
+  - '#futures_options_valuation'
+  - '#futures_price_volatility'
+  - '#option_expiration'
+  - '#treasury_note_futures'
+---
 # 16.3 BOND FUTURES OPTIONS  
 
 Bond futures in the United States are discussed in Chapter 11. Options on these futures contracts are traditional or equity-style options, which means that, like options on stocks, purchasers of options pay a premium at the time of purchase and, if exercised, realize their intrinsic values.  

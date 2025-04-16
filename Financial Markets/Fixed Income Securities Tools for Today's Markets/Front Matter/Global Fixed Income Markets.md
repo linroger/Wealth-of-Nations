@@ -1,3 +1,14 @@
+---
+tags:
+  - '#credit_default_swaps'
+  - '#debt_securities'
+  - '#global_fixed_income_markets'
+  - '#interest_rate_derivatives'
+  - '#issuer_residence'
+  - '#market_size_overstatement'
+  - '#notional_amounts'
+  - '#sector_analysis'
+---
 # 0.1 GLOBAL FIXED INCOME MARKETS  
 
 Fixed income markets are large and global. Figure O.1 shows the outstand-. ing amounts of debt securities, by residence of issuer. Debt securities are. instruments designed to be traded, like bonds issued by corporations or by governments. Grouping by residence of issuer means, for example, that US. Treasury bonds held by China's central bank are included in the total for the United States. As of March 2021, the global total of outstanding debt. securities was about $\$123$ trillion. For reference, the total capitalization of. global equity markets at the time was $\$110$ trillion, although stock market. values are significantly more volatile.  

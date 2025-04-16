@@ -1,3 +1,16 @@
+---
+tags:
+  - '#apple_stock_aapl'
+  - '#daily_returns_first_differences'
+  - '#etf_analysis'
+  - '#financial_data_analysis'
+  - '#lognormal_distribution'
+  - '#probability_distributions'
+  - '#skewness_kurtosis'
+  - '#sp_500_etf_spy'
+  - '#stock_returns'
+  - '#technology_sector_etf_xlk'
+---
 # 5.2 CONTRASTING THE NORMAL WITH THE LOGNORMAL PROBABILITY DISTRIBUTIONS
 
 Based on properties of the lognormal distribution, if $S_{t}=S_{t-1}e^{R_{t}^{c}}$ and $R_{t}^{c}$ is normally dis-.

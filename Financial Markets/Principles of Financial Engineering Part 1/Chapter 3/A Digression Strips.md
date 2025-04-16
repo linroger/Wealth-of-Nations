@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bank_of_england'
+  - '#bond_stripping'
+  - '#coupon_bonds'
+  - '#gilt'
+  - '#strips'
+  - '#treasury_bonds'
+  - '#us_treasury'
+  - '#zero_coupon_bonds'
+---
 # 3.13 A DIGRESSION: STRIPS  
 
 Before finishing this chapter we discuss an instrument that is the closest real-life equivalent to the default-free pure discount bonds $B(t_{0},t_{i})$ . This instrument is called strips. US strips have been available since 1985 and UK strips since 1997.  

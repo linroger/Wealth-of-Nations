@@ -1,12 +1,20 @@
 ---
 aliases:
-- 
-- FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-- 
+  - 
+  - FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+  - 
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-tags:
-- 
 title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
+tags:
+  - '#binomial_trees'
+  - '#european_options'
+  - '#exchange_rates'
+  - '#financial_instruments'
+  - '#forward_contracts'
+  - '#hedging_strategies'
+  - '#options_pricing'
+  - '#put_options'
+  - '#risk_management'
 ---
 # FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 [Financial Instruments Midterm Solutions 2013](Financial%20Instruments%20Midterm%20Solutions%202013.md)

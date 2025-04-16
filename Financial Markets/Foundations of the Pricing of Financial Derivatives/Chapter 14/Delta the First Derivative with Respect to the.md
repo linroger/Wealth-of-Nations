@@ -1,3 +1,12 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#call_option_delta'
+  - '#delta'
+  - '#first_derivative'
+  - '#hedge_ratio'
+  - '#underlying_price'
+---
 # 14.1 DELTA: THE FIRST DERIVATIVE WITH RESPECT TO THE UNDERLYING PRICE
 
 This measure is called the delta. We take the derivative of the call price with respect to the underlying price,

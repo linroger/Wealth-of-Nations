@@ -1,13 +1,21 @@
 ---
 aliases:
-- The Economist Hege Money
-- The Economist Hege Money.md
-- The Economist Hege-Money
+  - The Economist Hege Money
+  - The Economist Hege Money.md
+  - The Economist Hege-Money
 linter-yaml-title-alias: The Economist Hege-Money
-tags:
-- 
-- 
 title: The Economist Hege-Money
+tags:
+  - '#alipay'
+  - '#capital_controls'
+  - '#central_bank_digital_currency'
+  - '#chinese_economy'
+  - '#digital_money'
+  - '#dollar_hegemony'
+  - '#emerging_economies'
+  - '#international_finance'
+  - '#monetary_sovereignty'
+  - '#yuan'
 ---
 # The Economist Hege Money
 

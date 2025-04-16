@@ -1,3 +1,15 @@
+---
+tags:
+  - '#apple_inc'
+  - '#asset_transformation'
+  - '#basis_points'
+  - '#cash_flows'
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#intel_corp'
+  - '#interest_rate_swaps'
+  - '#liability_transformation'
+---
 # 7.3 REASONS FOR TRADING INTEREST RATE SWAPS  
 
 Swaps have proved to be very popular because they have many uses, as we will now. explain. Most of the discussion of interest rate swaps in the next few sections applies. regardless of the floating reference rate used. For ease of exposition we will therefore simply refer to the floating rate as "floating.'.  

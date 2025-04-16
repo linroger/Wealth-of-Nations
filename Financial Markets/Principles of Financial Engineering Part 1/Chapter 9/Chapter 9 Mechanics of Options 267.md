@@ -1,3 +1,14 @@
+---
+tags:
+  - '#option_definition'
+  - '#options_introduction'
+  - '#options_mechanics'
+  - '#options_notation'
+  - '#options_tools'
+  - '#real_life_complications'
+  - '#the_greeks'
+  - '#volatility_instruments'
+---
 # CHAPTER 9 Mechanics of Options . 267  
 
 9.1 Introduction. 268   

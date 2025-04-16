@@ -1,3 +1,13 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_tree'
+  - '#early_exercise'
+  - '#european_options'
+  - '#option_payoff'
+  - '#option_valuation'
+  - '#put_option'
+---
 # 13.5 AMERICAN OPTIONS  
 
 Up to now all the options we have considered have been European. We now move on to.   

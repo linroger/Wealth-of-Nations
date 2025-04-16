@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_free_price'
+  - '#drift_rate'
+  - '#forward_contract'
+  - '#geometric_brownian_motion'
+  - '#ito_s_lemma'
+  - '#non_dividend_paying_stock'
+  - '#stochastic_process'
+  - '#theta_delta_gamma'
+---
 # Determining the Stochastic Process for a Forward Contract from Ito’s Lemma 
 
 Let $F=F(S,t)$ . Note that $F$ is once differentiable in $t$ and twice differentiable in $S$ . Ito's Lemma justifies the use of the following Taylor-series-like expansion for the instantaneous change in $F$ : 

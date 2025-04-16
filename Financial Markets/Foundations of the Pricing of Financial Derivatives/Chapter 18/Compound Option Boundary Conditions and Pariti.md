@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#call_on_call_bounds'
+  - '#compound_option_boundary_conditions'
+  - '#compound_option_parities'
+  - '#european_options'
+  - '#option_valuation'
+  - '#option_yield'
+  - '#put_call_parity'
+---
 # 18.3 COMPOUND OPTION BOUNDARY CONDITIONS AND PARITIES
 
 We briefly review the appropriate compound option boundary conditions and parities followed by selected proofs. For completeness, we consider both the possibility of dividends on the underlying asset, denoted $\delta$ as before, as well as the possibility of dividends on the. underlying option, denoted $\widehat{q}$ or the option yield. In the previous section, recall equity was. viewed as an option on the firm and that equity may pay a dividend. Thus, for completeness, we need a model that can address the yield paid out of the firm as a whole as well as the yield paid out specifically to equity holders. Also, recall that compound options are often used in modeling complex financial valuation problems where the capacity to capture a cash flow related to the underlying option is useful..

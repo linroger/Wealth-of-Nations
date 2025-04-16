@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_style_options'
+  - '#european_call_option'
+  - '#european_put_option'
+  - '#futures_options'
+  - '#futures_price'
+  - '#option_maturity'
+  - '#option_payoff'
+  - '#spot_price'
+---
 # 18.3 EUROPEAN SPOT AND FUTURES OPTIONS  
 
 The payoff from a European call option with strike price $K$ on the spot price of an asset is  

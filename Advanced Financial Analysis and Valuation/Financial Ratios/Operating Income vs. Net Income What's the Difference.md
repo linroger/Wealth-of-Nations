@@ -4,17 +4,15 @@ cssclasses:
   - academia
 aliases:
 tags:
-
-  - finance
-  - financialanalysis
-  - investmentanalysis
-  - income-statement
-  - operating-income
-  - net-income
-  - "#financial-markets"
-  - "#financial-modeling"
-  - "#corporate-finance"
-  - "#income-statement-analysis"
+  - '#depreciation_and_amortization'
+  - '#financial_analysis'
+  - '#income_statement'
+  - '#j_c_penney'
+  - '#net_income'
+  - '#operating_expenses'
+  - '#operating_income'
+  - '#revenue'
+  - '#sg_and_a'
 ---
 # Operating Income vs. Net Income What's the Difference
 

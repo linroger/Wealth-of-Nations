@@ -5,34 +5,18 @@ aliases:
   - Debt Pricing
   - Information Asymmetry
 linter-yaml-title-alias: Debt Pricing
-tags:
-
-  - 
-  - debt-management
-  - financial-crises
-  - capitalstructure
-  - debt-structuring
-  - financial-instruments
-  - bankruptcy-strategies
-  - debt-renegotiation
-  - liquidity-management
-  - debt-management-strategies
-  - financial_crises
-  - macroeconomic-policymaking
-  - economic-theory
-  - financial-markets
-  - debt-contracts
-  - bankruptcy-reorganization
-  - capital-structure
-  - "#quantitative-finance"
-  - "#debt-cycles"
-  - "#financial-crisis"
-  - "#distressed-debt"
-  - "#banking-regulation"
-  - "#liquidity-crisis"
 title: Lecture Note 1Debt Pricing
+tags:
+  - '#bank_runs'
+  - '#bankruptcy'
+  - '#capital_structure'
+  - '#debt_capacity'
+  - '#debt_contracts'
+  - '#financial_crises'
+  - '#liquidity'
+  - '#securitization'
+  - '#us_federal_trust_indenture_act'
 ---
-
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**
 - Strategic effects of debt. How much is too much? - Bankruptcy & Reorganization: bargaining and strategy. - Debt contract renegotiation. - Debt [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] when [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] is the alternative - [[A Primer on Distressed Investing|Distressed Debt]] Investing (especially during a financial crisis). - Capital structure is more than debt versus equity: it is a choice of source of funds: who holds and enforces the terms of securities that a firm issues.
 1. How the problems and benefits of DEBT contracts are related to banking.

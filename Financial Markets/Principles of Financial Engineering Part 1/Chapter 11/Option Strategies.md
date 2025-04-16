@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#call_overwriting'
+  - '#hedging_strategies'
+  - '#market_makers'
+  - '#option_strategies'
+  - '#pin_risk'
+  - '#put_call_parity'
+  - '#risk_reversals'
+  - '#synthetic_positions'
+  - '#yield_enhancement'
+---
 # 11.2 OPTION STRATEGIES  
 
 We divide the engineering of option strategies into two broad categories. First, we consider the classical option-related methods. These will cover strategies used by market makers as well as retail investors. They will themselves be divided into two groups, those that can be labeled directional strategies, and those that relate to views on the volatility of some underlying instrument. The second category involves exotic options, which we consider as more efficient and sometimes cheaper alternatives to the classical option strategies. The underlying risks can be any of those mentioned in the previous section.  

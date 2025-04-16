@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cppi_technique'
+  - '#credit_derivatives'
+  - '#default_scenario'
+  - '#dynamic_adjustments'
+  - '#equity_tranches'
+  - '#itraxx_index'
+  - '#leverage_factor'
+  - '#numerical_example'
+  - '#structured_credit'
+  - '#zero_coupon_bond'
+---
 # 23.5 AN APPLICATION: CPPI AND EQUITY TRANCHES  
 
 We will use structured credit as an application of the CPPI technique. The credit sector has experi-.   

@@ -1,11 +1,21 @@
 ---
 cssclasses: academia
-aliases: [LECTURE NOTE 5 BLACK SCHOLES FORMULA,  ]
+aliases:
+  - LECTURE NOTE 5 BLACK SCHOLES FORMULA
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-tags: 
 title: Lecture Note 5Black Scholes Formula
+tags:
+  - '#binomial_trees'
+  - '#black_scholes_formula'
+  - '#capital_protected_note'
+  - '#delta_gamma_hedging'
+  - '#delta_hedging'
+  - '#dynamic_replication'
+  - '#greeks'
+  - '#option_beta'
+  - '#option_pricing'
+  - '#risk_management'
 ---
-
 ---
 
 title: LECTURE NOTE 5 BLACK SCHOLES FORMULA

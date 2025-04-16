@@ -7,10 +7,16 @@ aliases:
   - Competitiveness
   - Terms of Trade
 tags:
-  - Comparative-Advantage
-  - Terms-of-Trade
+  - '#comparative_advantage'
+  - '#deindustrialization'
+  - '#globalization'
+  - '#gravity_equation'
+  - '#great_doubling'
+  - '#productivity_gaps'
+  - '#ricardian_model'
+  - '#terms_of_trade'
+  - '#wage_gap'
 ---
-
 # Chapter 3-Comparative Advantage,  Competitiveness,  and the Terms of Trade
 
 [[Chapter 3-Comparative Advantage,   Competitiveness,   and the Terms of Trade|competitive]]

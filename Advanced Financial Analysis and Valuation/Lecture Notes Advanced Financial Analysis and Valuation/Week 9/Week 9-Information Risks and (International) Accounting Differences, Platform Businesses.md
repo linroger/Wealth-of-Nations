@@ -2,17 +2,20 @@
 aliases:
   - Platform Businesses.md
   - Platform Businesses.md
+title: Week 9-Information Risks and (International) Accounting Differences,  Platform
+  Businesses
 tags:
-
-  - "#finance"
-  - "#accounting"
-  - "#valuation"
-  - "#ifrs"
-  - "#non-gaap-reporting"
-  - "#global-investment-risks"
-title: Week 9-Information Risks and (International) Accounting Differences,  Platform Businesses
+  - '#blue_apron'
+  - '#customer_based_valuation'
+  - '#information_risks'
+  - '#international_accounting_differences'
+  - '#non_gaap_reporting'
+  - '#platform_businesses'
+  - '#reporting_incentives'
+  - '#saas_valuation'
+  - '#us_gaap_vs_ifrs'
+  - '#zoom'
 ---
-
 ## TODAY
 
  - International accounting differences

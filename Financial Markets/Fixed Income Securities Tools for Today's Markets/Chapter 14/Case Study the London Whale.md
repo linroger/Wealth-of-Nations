@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cds_tranches'
+  - '#cdx_na_ig_9'
+  - '#credit_default_swaps'
+  - '#credit_spreads'
+  - '#jpmorgan_chase'
+  - '#london_whale_case_study'
+  - '#mortgage_backed_securities'
+  - '#mortgages'
+  - '#synthetic_credit_portfolio'
+---
 # 14.13 CASE STUDY: THE LONDON WHALE  
 
 In the first half of 2012, JPMorgan Chase (JPM) lost more than $\$6$ billion on its "London Whale" trades. With assets at the time of over. $\$2$ trillion and 2012 income of $\$21$ billion, the loss in no sense endangered the bank, but it was large and embarrassing. In this chapter, the case is used to explain more fully the workings of index CDS and CDS tranches, though other lessons. include the need to define the purpose and scope of hedging programs and. the importance of sizing trades so as not to "become the market."28  

@@ -1,12 +1,18 @@
 ---
 aliases:
-- 
-- 
-- COVERED INTEREST RATE PARITY
+  - 
+  - 
+  - COVERED INTEREST RATE PARITY
 linter-yaml-title-alias: COVERED INTEREST RATE PARITY
-tags:
-- 
 title: COVERED INTEREST RATE PARITY
+tags:
+  - '#covered_interest_rate_parity'
+  - '#currency_security'
+  - '#exchange_rate'
+  - '#foreign_currency'
+  - '#forward_rate'
+  - '#home_country_interest_rate'
+  - '#model_parameters'
 ---
 [Teaching Note 1 Forward Rates Agreement](Teaching%20Note%201%20Forward%20Rates%20Agreement)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)

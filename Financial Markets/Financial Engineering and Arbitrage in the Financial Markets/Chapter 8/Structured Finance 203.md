@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_class_linked_notes'
+  - '#insurance_risk_products'
+  - '#interest_rate_products'
+  - '#inverse_floater'
+  - '#principal_protected_notes'
+  - '#structured_finance'
+  - '#structured_notes'
+---
 # 8 Structured Finance 203  
 
 8.1 A Simple Classification of Structured Notes 204   

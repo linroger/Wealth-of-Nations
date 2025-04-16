@@ -1,3 +1,14 @@
+---
+tags:
+  - '#calculus_derivatives'
+  - '#differential_equations'
+  - '#integration'
+  - '#logarithms_exponentials'
+  - '#mathematics_finance'
+  - '#product_notation'
+  - '#series_formulas'
+  - '#summation_notation'
+---
 # CHAPTER 3 Elementary Review of Mathematics for Finance 53
 
 3.1 Summation Notation 53

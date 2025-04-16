@@ -1,13 +1,20 @@
 ---
 aliases:
-- Note On the Leveraged Loan Market.md
-- Note On the Leveraged Loan Market
-- Note On The Leveraged Loan Market
+  - Note On the Leveraged Loan Market.md
+  - Note On the Leveraged Loan Market
+  - Note On The Leveraged Loan Market
 linter-yaml-title-alias: Note On The Leveraged Loan Market
-tags:
-- 
-- 
 title: Note On The Leveraged Loan Market
+tags:
+  - '#clo_collateralized_loan_obligations'
+  - '#credit_risk'
+  - '#information_asymmetry'
+  - '#institutional_investors'
+  - '#leveraged_loans'
+  - '#loan_issuance'
+  - '#loan_market_dynamics'
+  - '#loan_syndication'
+  - '#lsta_loan_syndications_trading_association'
 ---
 # Note On the Leveraged Loan Market
 

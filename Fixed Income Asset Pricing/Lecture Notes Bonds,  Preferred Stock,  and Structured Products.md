@@ -1,6 +1,17 @@
 ---
-tags: [finance, bonds, fixed-income, investment, structured-products]
-aliases: [Bond Investment Lecture Notes, Fixed Income Financial Instruments]
+aliases:
+  - Bond Investment Lecture Notes
+  - Fixed Income Financial Instruments
+tags:
+  - '#bond_issuers'
+  - '#bond_market_composition'
+  - '#bond_maturity'
+  - '#bond_risks'
+  - '#bonds'
+  - '#coupon_types'
+  - '#embedded_options'
+  - '#portfolio_management_strategies'
+  - '#yield_measures'
 ---
 # Lecture Notes: Bonds, Preferred Stock, and Structured Products
 

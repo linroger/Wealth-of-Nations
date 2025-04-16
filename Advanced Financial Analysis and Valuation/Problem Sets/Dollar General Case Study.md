@@ -6,18 +6,16 @@ aliases:
   - 
   - 
 tags:
-
-  - case-studies
-  - financialanalysis
-  - corporaterestructuring
-  - retail-performance
-  - turnaround-strategy
-  - "#finance"
-  - "#financial_crises"
-  - "#financial-markets"
-  - "#retail-analysis"
+  - '#dollar_general'
+  - '#financial_performance'
+  - '#industry_risks'
+  - '#inventory_management'
+  - '#kkr_offer'
+  - '#peer_comparison'
+  - '#profitability'
+  - '#revenue_growth'
+  - '#turnaround_potential'
 ---
-
 # DOLLAR GENERAL CASE STUDY
 
 1a. Dollar General's performance over time and relative to peers:

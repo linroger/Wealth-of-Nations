@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_price_fluctuations'
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#brownian_motion'
+  - '#dividends'
+  - '#option_pricing'
+  - '#wiener_process'
+---
 # CHAPTER 9 Convergence of the Binomial Model to the Black-Scholes-Merton Model
 
 177

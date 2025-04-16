@@ -2,11 +2,21 @@
 aliases: []
 cssclasses: academia
 title: Mastering Data Visualization with Plotly in Python
-source: "https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/"
+source: 
+  https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
 description:
-tags: 
+tags:
+  - '#bar_plots'
+  - '#data_analysis'
+  - '#data_visualization'
+  - '#interactive_dashboards'
+  - '#line_plots'
+  - '#pandas'
+  - '#plotly'
+  - '#plotly_dash'
+  - '#python'
+  - '#scatter_plots'
 ---
-
 # Mastering Data Visualization with Plotly in Python
 
 - Introduction to Plotly and Basic Plotting

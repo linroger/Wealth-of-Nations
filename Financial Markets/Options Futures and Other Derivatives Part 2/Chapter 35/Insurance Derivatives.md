@@ -1,3 +1,14 @@
+---
+tags:
+  - '#california_earthquake_losses'
+  - '#cat_bonds'
+  - '#catastrophic_risks'
+  - '#excess_of_loss_reinsurance'
+  - '#hedging_purposes'
+  - '#hurricane_andrew'
+  - '#insurance_derivatives'
+  - '#reinsurance'
+---
 # 35.6 INSURANCE DERIVATIVES  
 
 When derivative contracts are used for hedging purposes, they have many of the same characteristics as insurance contracts. Both types of contracts are designed to provide protection against adverse events. It is not surprising that many insurance companies have subsidiaries that trade derivatives and that many of the activities of insurance companies are becoming very similar to those of investment banks.6  

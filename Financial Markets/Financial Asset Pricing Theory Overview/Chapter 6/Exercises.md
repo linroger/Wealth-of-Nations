@@ -1,3 +1,15 @@
+---
+tags:
+  - '#consumption_plans'
+  - '#expected_utility'
+  - '#habit_formation'
+  - '#mean_variance_frontier'
+  - '#one_period_economy'
+  - '#portfolio_optimization'
+  - '#risk_free_asset'
+  - '#state_price_deflator'
+  - '#state_price_vector'
+---
 # 6.8 Exercises  
 
 EXERCISE 6.1 Consider a one-period economy and an individual with a time-additive but state-dependent expected utility so that the objective is.  

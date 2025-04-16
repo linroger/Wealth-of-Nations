@@ -6,28 +6,16 @@ aliases:
   - 
   - 
 tags:
-
-  - finance
-  - quantitative-finance
-  - financial-analysis
-  - market-efficiency
-  - fundamental-analysis
-  - quant-investing
-  - financial-markets
-  - financial-modeling
-  - asset-pricing
-  - risk-management
-  - hedge-fund-strategies
-  - arbitrage-strategies
-  - financial-crises
-  - macroeconomics
-  - economic-theory
-  - "#arbitrage-trading"
-  - "#investment-strategies"
-  - "#market-volatility"
-  - "#academic-research"
+  - '#10k_filings'
+  - '#alternative_data'
+  - '#arbitrage'
+  - '#fundamental_analysis'
+  - '#lazy_prices'
+  - '#market_anomalies'
+  - '#market_efficiency'
+  - '#passive_investments'
+  - '#quant_investing'
 ---
-
 # Week 1 Market Efficiency
 
 [Week 1 Introduction](Zhe/Week%201/Week%201%20Introduction.md)

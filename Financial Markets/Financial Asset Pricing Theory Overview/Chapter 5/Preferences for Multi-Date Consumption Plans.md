@@ -1,3 +1,15 @@
+---
+tags:
+  - '#epstein_zin_preferences'
+  - '#habit_formation'
+  - '#intertemporal_substitution'
+  - '#multi_date_consumption'
+  - '#recursive_preferences'
+  - '#relative_risk_aversion'
+  - '#stochastic_differential_utility'
+  - '#time_separable_utility'
+  - '#two_good_utility'
+---
 # 5.7 Preferences for multi-date consumption plans  
 
 Above we implicitly considered preferences for consumption at one given future point in time. We need to generalize the ideas and results to settings with consumption at several dates. In one-period models individuals can consume both at time 0 (beginning-of-period) and at time 1 (end-of-period). In multi-period models individuals can consume either at each date in the discrete time set ${\mathcal{T}}=\{0,1,2,\ldots,T\}$ or at each date in the continuous time set $\mathcal{T}=[0,T]$ . In any case a consumption plan is a stochastic process $c=(c_{t})_{t\in\mathcal{T}}$ where each $c_{t}$ is a random variable representing the state-dependent level of consumption at time $t$  

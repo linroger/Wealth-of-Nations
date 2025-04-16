@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_put_option'
+  - '#binomial_model'
+  - '#binomial_tree'
+  - '#black_scholes_merton_model'
+  - '#european_option'
+  - '#option_pricing'
+  - '#stock_price_movement'
+  - '#time_steps'
+---
 # 13.9 INCREASING THE NUMBER OF STEPS  
 
 The binomial model presented above is unrealistically simple. Clearly, an analyst can. expect to obtain only a very rough approximation to an option price by assuming that stock price movements during the life of the option consist of one or two binomial steps.  

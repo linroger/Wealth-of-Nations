@@ -1,3 +1,16 @@
+---
+tags:
+  - '#actuarially_fair'
+  - '#asset_choice'
+  - '#certainty_equivalent'
+  - '#consumption_gamble'
+  - '#expected_utility_maximization'
+  - '#financial_asset'
+  - '#insurance_problem'
+  - '#power_utility'
+  - '#risk_aversion'
+  - '#risk_premium'
+---
 # 5.8 Exercises  
 
 EXERCISE 5.1 Give a proof of Theorem 5.3.  

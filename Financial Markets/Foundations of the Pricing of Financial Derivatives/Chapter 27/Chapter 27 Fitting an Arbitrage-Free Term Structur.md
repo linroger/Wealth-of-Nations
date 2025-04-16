@@ -1,3 +1,12 @@
+---
+tags:
+  - '#arbitrage_free_term_structure'
+  - '#binomial_tree'
+  - '#hjm_model'
+  - '#hjm_model_discretization'
+  - '#model_fitting'
+  - '#term_structure_model'
+---
 # CHAPTER 27 Fitting an Arbitrage-Free Term Structure Model
 
 # 475

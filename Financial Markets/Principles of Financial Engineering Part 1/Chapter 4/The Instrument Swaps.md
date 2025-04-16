@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cash_flow_exchange'
+  - '#currency_swap'
+  - '#initial_value_zero'
+  - '#interest_rate_swap'
+  - '#isda_documentation'
+  - '#risk_factors'
+  - '#swap_contract'
+  - '#swap_spread'
+---
 # 4.3 THE INSTRUMENT: SWAPS  
 
 Imagine any two sequences of cash flows with different characteristics. These cash flows could be.   

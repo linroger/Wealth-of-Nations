@@ -1,3 +1,15 @@
+---
+tags:
+  - '#add_up_basket_cds'
+  - '#basket_credit_default_swaps'
+  - '#cds_forwards'
+  - '#cds_options'
+  - '#credit_default_swap_option'
+  - '#credit_default_swap_spreads'
+  - '#first_to_default_cds'
+  - '#forward_credit_default_swap'
+  - '#kth_to_default_cds'
+---
 # 25.5  CDS FORWARDS AND OPTIONS  
 
 Once the CDS market was well established, it was natural for derivatives dealers to trade forwards and options on credit default swap spreads.8.  

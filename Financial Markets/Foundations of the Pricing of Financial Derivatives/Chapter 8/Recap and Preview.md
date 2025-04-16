@@ -1,3 +1,16 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#delta'
+  - '#gamma'
+  - '#greeks'
+  - '#nonrecombining_tree'
+  - '#option_valuation'
+  - '#put_call_parity'
+  - '#theta'
+  - '#vega'
+---
 # 8.5 RECAP AND PREVIEW
 
 In option valuation, the Greeks are the changes in the value of an option for changes. in the inputs that determine the value of an option. They are sensitivity measures and are important in the valuation and trading of options. We examined the various Greeks known as the delta, gamma, theta, vega, and rho, and we showed how they can be calculated in the binomial model. We also presented numerical examples.

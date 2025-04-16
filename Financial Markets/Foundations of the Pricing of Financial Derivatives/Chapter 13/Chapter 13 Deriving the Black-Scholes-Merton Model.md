@@ -1,3 +1,13 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#black_scholes_merton_model'
+  - '#dividends'
+  - '#european_call_option'
+  - '#european_put_option'
+  - '#option_pricing_formula'
+  - '#partial_differential_equation'
+---
 # CHAPTER 13 Deriving the Black-Scholes-Merton Model
 
 245

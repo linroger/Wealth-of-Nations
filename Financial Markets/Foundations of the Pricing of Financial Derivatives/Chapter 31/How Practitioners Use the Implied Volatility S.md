@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#implied_volatility_surface'
+  - '#option_delta'
+  - '#option_moneyness'
+  - '#option_pricing'
+  - '#option_trading'
+  - '#stressed_market_conditions'
+  - '#time_to_expiration'
+---
 # 31.6 HOW PRACTITIONERS USE THE IMPLIED VOLATILITY SURFACE
 
 Practitioners seem capable of operating in a world of complex volatility smiles and volatil-. ity surfaces. They even use the surface to simplify how they trade. That is, they oftentimes quote option prices not in terms of the actual price but in terms of the implied volatility. For. example, a dealer might indicate an intention to sell a January 50 call by quoting a volatility of 45. This statement is interpreted to mean that the actual price of this option that expires in January and has an exercise price of 50 is derived from the Black-Scholes-Merton model using a volatility of 45, technically 0.45. By quoting prices this way, traders can immediately see which options are truly more expensive, that is, after accounting for moneyness, time to expiration, and whether the option is a call or a put.

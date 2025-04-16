@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_opportunity'
+  - '#arbitrage_pricing_theory'
+  - '#coupon_bond'
+  - '#discount_bond'
+  - '#fixed_income_pricing'
+  - '#forward_rate'
+  - '#mathematical_finance'
+  - '#risk_neutral_valuation'
+  - '#spot_rate'
+  - '#yield_to_maturity'
+---
 # [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]] to the Mathematics of Fixed Income Pricing  
   
 # [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  

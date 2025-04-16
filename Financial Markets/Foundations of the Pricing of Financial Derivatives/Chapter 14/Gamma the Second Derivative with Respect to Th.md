@@ -1,3 +1,12 @@
+---
+tags:
+  - '#asset_price'
+  - '#delta'
+  - '#gamma'
+  - '#rate_of_change'
+  - '#second_derivative'
+  - '#underlying_price'
+---
 # 14.2 GAMMA: THE SECOND DERIVATIVE WITH RESPECT TO THE UNDERLYING PRICEA
 
 The second derivative with respect to the underlying price is the gamma and is obtained as follows:

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_style_options'
+  - '#dividends_and_stock_splits'
+  - '#flex_options'
+  - '#leaps_options'
+  - '#option_expiration_dates'
+  - '#option_terminology'
+  - '#position_and_exercise_limits'
+  - '#stock_options'
+  - '#strike_prices'
+---
 # 10.4  SPECIFICATION OF STOCK OPTIONS  
 
 In the rest of this chapter, we will focus on stock options. As already mentioned, a standard exchange-traded stock option in the United States is an American-style option contract to buy or sell 100 shares of the stock. Details of the contract (the expiration date, the strike price, what happens when dividends are declared, how large a position. investors can hold, and so on) are specified by the exchange..  

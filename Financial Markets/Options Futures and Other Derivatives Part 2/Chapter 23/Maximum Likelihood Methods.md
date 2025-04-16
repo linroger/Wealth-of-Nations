@@ -1,3 +1,15 @@
+---
+tags:
+  - '#ewma_model'
+  - '#garch_1_1_model'
+  - '#ljung_box_statistic'
+  - '#maximum_likelihood_method'
+  - '#parameter_estimation'
+  - '#sp_500_index'
+  - '#variance_estimation'
+  - '#variance_targeting'
+  - '#volatility_modeling'
+---
 # 23.5 MAXIMUM LIKELIHOOD METHODS  
 
 It is now appropriate to discuss how the parameters in the models we have been. considering are estimated from historical data. The approach used is known as the maximum likelihood method. It involves choosing values for the parameters that. maximize the chance (or likelihood) of the data occurring.  

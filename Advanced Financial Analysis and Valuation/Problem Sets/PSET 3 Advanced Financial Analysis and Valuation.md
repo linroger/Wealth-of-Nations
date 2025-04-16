@@ -1,11 +1,19 @@
 ---
 aliases:
-- 
-- 
+  - 
+  - 
 tags:
-- 
+  - '#commodity_cycle'
+  - '#commodity_prices'
+  - '#ethylene'
+  - '#financial_analysis'
+  - '#natural_gas_prices'
+  - '#operating_leverage'
+  - '#peak_eps'
+  - '#pvc'
+  - '#valuation'
+  - '#westlake_chemical'
 ---
-
 # PSET 3 ADVANCED FINANCIAL ANALYSIS AND VALUATION
 
 [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)

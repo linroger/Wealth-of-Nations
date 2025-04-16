@@ -1,3 +1,16 @@
+---
+tags:
+  - '#coupon_payments'
+  - '#financing_cost'
+  - '#horizon_return'
+  - '#leverage'
+  - '#net_return'
+  - '#opportunity_cost'
+  - '#realized_returns'
+  - '#reinvestment_rate'
+  - '#repo_market'
+  - '#return_on_capital'
+---
 # 3.1 REALIZED RETURNS  
 
 The gross horizon return of a bond depends on the price at which the bond.   

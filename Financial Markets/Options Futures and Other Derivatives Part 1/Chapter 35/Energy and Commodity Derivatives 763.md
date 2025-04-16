@@ -1,3 +1,15 @@
+---
+tags:
+  - '#agricultural_commodities'
+  - '#commodity_derivatives'
+  - '#commodity_price_modeling'
+  - '#energy_derivatives'
+  - '#energy_products'
+  - '#insurance_derivatives'
+  - '#metals'
+  - '#risk_hedging'
+  - '#weather_derivatives'
+---
 # Chapter 35. Energy and commodity derivatives .. .763  
 
 35.1 Agricultural commodities .763   

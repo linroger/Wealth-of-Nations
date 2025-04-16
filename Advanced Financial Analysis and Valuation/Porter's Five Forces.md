@@ -2,15 +2,18 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#economics"
-  - "#riskanalysis"
-  - "#economic-depression"
-  - "#industry-structure"
-  - "#competitive-strategy"
-  - "#market-dynamics"
 title: Porter's Five Forces
+tags:
+  - '#barriers_to_entry'
+  - '#buyer_power'
+  - '#entry_deterring_pricing'
+  - '#generic_strategies'
+  - '#industry_rivalry'
+  - '#industry_shakeout'
+  - '#market_concentration'
+  - '#porter_five_forces'
+  - '#supplier_power'
+  - '#threat_of_substitutes'
 ---
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.
 

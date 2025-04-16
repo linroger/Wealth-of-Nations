@@ -2,27 +2,18 @@
 cssclasses:
   - academia
 aliases: []
-tags:
-
-  - 
-  - bonds
-  - indentures
-  - covenants
-  - callprovisions
-  - trustee
-  - creditordefaultprotections
-  - contractmodifications
-  - defeasance
-  - corporatebonds
-  - "#financial-instruments"
-  - "#bond-valuation"
-  - "#debt-structuring"
-  - "#corporate-bond-contracts"
-  - "#indenture-analysis"
-  - "#creditor-rights"
 title: Class Notes 2 – Corporate Bond Contracts
+tags:
+  - '#bondholder_rights'
+  - '#contract_modification'
+  - '#corporate_bond_contracts'
+  - '#covenants'
+  - '#defeasance'
+  - '#events_of_default'
+  - '#indentures'
+  - '#optional_redemption'
+  - '#trustee_role'
 ---
-
 # Class Notes 2 – Corporate Bond Contracts
 
 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]

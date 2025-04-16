@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#currency_options'
+  - '#exercise_price'
+  - '#foreign_currency_options'
+  - '#implied_volatility'
+  - '#isomorphism'
+  - '#option_pricing'
+  - '#volatility_smile'
+---
 # 31.7 RECAP AND PREVIEW
 
 The entire notion of implied volatility and the existence of the volatility smile are results. of using a model that does not capture every factor that affects the prices of options. Practitioners and academics largely accept the limitations of the model and consider the smile a means of forcing the model to reveal information it is not designed to reveal. As flawed as the model may be, the advantages of the Black-Scholes-Merton model and its attendant defects may outweigh the disadvantages of other more complex models.

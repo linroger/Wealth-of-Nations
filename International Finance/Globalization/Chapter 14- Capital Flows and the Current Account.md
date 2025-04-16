@@ -1,10 +1,22 @@
 ---
 title: Chapter 14Capital Flows and the Current Account
 cssclasses: academia
-aliases: [Capital Flows,  Capital Flows and the Current Account,  Current Accounr]
-tags: [Capital-Flows,  Current-Account,  International-Trade]
+aliases:
+  - Capital Flows
+  - Capital Flows and the Current Account
+  - Current Accounr
+tags:
+  - '#balance_of_payments'
+  - '#current_account'
+  - '#fisher_model'
+  - '#foreign_direct_investment'
+  - '#gdp_vs_gni'
+  - '#international_capital_flows'
+  - '#intertemporal_trade'
+  - '#net_exports'
+  - '#savings_and_investment'
+  - '#trade_balance'
 ---
-
 # Chapter 14Capital Flows and the Current Account
 
 [[Chapter 14- Capital Flows and the Current Account|capital flows]]

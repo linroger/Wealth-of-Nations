@@ -6,17 +6,19 @@ aliases:
   - 
   - Market's Rate Expectations and Forward rates
 linter-yaml-title-alias: Market's Rate Expectations and Forward rates
-tags:
-
-  - "#quantitative-finance"
-  - "#finance"
-  - "#economic-theory"
-  - "#yield-curve"
-  - "#forward-rates"
-  - "#bond-risk-premia"
 title: Understanding the Yield CurvePart 2
+tags:
+  - '#bond_risk_premia'
+  - '#convexity_bias'
+  - '#empirical_evidence'
+  - '#expectations_hypothesis'
+  - '#forward_rates'
+  - '#market_analysis'
+  - '#rate_expectations'
+  - '#spot_rates'
+  - '#term_structure'
+  - '#yield_curve'
 ---
-
 # Understanding the Yield Curve-Part 2
 
 MARKET 'S RATE EXPECTATIONS AND FORWARD RATES UNDERSTANDING THE YIELD CURVE: PART 2

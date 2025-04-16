@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#basis_swap'
+  - '#credit_risk'
+  - '#cross_currency_swaps'
+  - '#currency_swap_spread'
+  - '#gfc_global_financial_crisis'
+  - '#hedge_funds'
+  - '#hedging'
+  - '#swap_pricing'
+  - '#usd_libor'
+---
 # 14.8 CROSS-CURRENCY SWAPS  
 
 A cross-currency swap can serve different purposes. It can be used for hedging, that is to reduce the exposure to exchange rate changes. Alternatively, one can use it to exploit arbitrage opportunities between different rates.  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_returns'
+  - '#cochrane_piazzesi_factor'
+  - '#expectations_hypothesis'
+  - '#forward_rates'
+  - '#inflation_risk'
+  - '#real_interest_rates'
+  - '#risk_premia'
+  - '#term_structure_interest_rates'
+  - '#treasury_inflation_protected_securities'
+---
 Teaching Notes
 ### Understanding the Term Structure of Interest Rates
 John Heaton

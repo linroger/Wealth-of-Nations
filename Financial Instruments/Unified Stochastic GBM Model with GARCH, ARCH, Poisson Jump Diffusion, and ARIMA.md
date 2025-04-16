@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arch_in_mean'
+  - '#arima_drift'
+  - '#asset_price_model'
+  - '#continuous_time_sde'
+  - '#exponential_jump_diffusion'
+  - '#heavy_tails'
+  - '#market_data_calibration'
+  - '#python_implementation'
+  - '#regime_switching_garch'
+  - '#volatility_clustering'
+---
 **Title:** _A Regime-Switching GARCH Jump-Diffusion Model with ARIMA-Driven Drift for Asset Prices_
 **Abstract:** We develop a comprehensive financial time series model that integrates multiple stylized features of asset returns into a single stochastic framework. Our model combines geometric Brownian motion (GBM) with dynamic, regime-dependent volatility, a GARCH(1,1) process (extendable to GARCH(2,1)) for volatility clustering, an ARIMA(1,1,0) component to capture time-varying drift, an ARCH process governing drift to allow conditional heteroskedasticity in the mean, and an exponential jump diffusion mechanism to account for sudden large losses (downward jumps) and heavy-tailed return distributions. We derive the continuous-time stochastic differential equations (SDEs) that unify these elements. The model is calibrated on historical market data to demonstrate its ability to replicate real-world distributional characteristics and volatility dynamics. We present a Python implementation of the model and provide visualizations generated with Plotly illustrating how each component—drift, volatility, and jumps—affects the behavior of asset prices. The results highlight that our integrated model offers a more realistic representation of asset price dynamics than the classical GBM, capturing volatility clustering, regime shifts, heavy tails, and leverage effects with mathematical rigor and clarity.
 **1. Introduction**

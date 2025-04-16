@@ -1,3 +1,14 @@
+---
+tags:
+  - '#capital_gains_tax'
+  - '#financial_engineering'
+  - '#options_strategy'
+  - '#portfolio_management'
+  - '#regulatory_frameworks'
+  - '#synthetic_instruments'
+  - '#taxation_example'
+  - '#wash_sale_rules'
+---
 # 1.3 A TAXATION EXAMPLE  
 
 Now consider a totally different problem. We create synthetic instruments to restructure taxable gains. The legal environment surrounding taxation is a complex and ever-changing phenomenon; therefore, this example should be read only from a financial engineering perspective and not as a tax strategy. Yet the example illustrates the close connection between what a financial engineer does and the legal and regulatory issues that surround this activity.  

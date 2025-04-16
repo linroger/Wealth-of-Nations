@@ -1,3 +1,14 @@
+---
+tags:
+  - '#dvp_markets'
+  - '#federal_reserve_bank_of_new_york'
+  - '#libor_transition'
+  - '#repo_transactions'
+  - '#secured_overnight_financing_rate'
+  - '#sofr'
+  - '#tri_party_repo'
+  - '#volume_weighted_median'
+---
 # 10.4 SOFR  
 
 In the transition away from LIBOR in the United States, discussed in detail in Chapter 12, regulators and others have advocated for a transition to the. Secured Overnight Financing Rate, or SOFR. Intended to represent the rate of secured, overnight borrowing, the Federal Reserve Bank of New York calculates SOFR using daily repo transactions in the tri-party and DVP markets. However, DVP repo transactions are trimmed so as to exclude the lower-rate, presumably specials trades, which reflect the idiosyncrasies of lending on individual bond issues. In particular, the. $25\%$ of DVP repo trade volume with the lowest rates are excluded from the data used to calculate SOFR.  

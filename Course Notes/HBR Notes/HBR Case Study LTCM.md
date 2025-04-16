@@ -1,13 +1,19 @@
 ---
 Owner: RRoger Lin
 aliases:
-- HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]]
-- HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]].md
-tags:
-- Primers/Notes
-- 
-- 
+  - HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]]
+  - HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]].md
 title: HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]]
+tags:
+  - '#financial_modeling'
+  - '#leveraged_portfolios'
+  - '#liquidity_risk'
+  - '#long_term_capital_management'
+  - '#ltcm_case_study'
+  - '#market_values'
+  - '#risk_management'
+  - '#russian_financial_crisis'
+  - '#systemic_risk'
 ---
 [[Note on Long-Term Capital Management,  L.P. HBP]]
 # HBR Case Study LTCM

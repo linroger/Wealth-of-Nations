@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_scholes_merton'
+  - '#delta_calculation'
+  - '#equity_prices_volatility'
+  - '#implied_volatility'
+  - '#minimum_variance_delta'
+  - '#option_pricing'
+  - '#vega'
+---
 # 20.6 MINIMUM VARIANCE DELTA  
 
 The formulas for delta and other Greek letters in Chapter 19 assume that the implied volatility remains the same when the asset price changes. This is not what is usually expected to happen. Consider, for example, a stock or stock index option.  

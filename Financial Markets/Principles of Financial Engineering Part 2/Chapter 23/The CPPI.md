@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cppi'
+  - '#dynamic_ppi'
+  - '#investment_strategy'
+  - '#leveraged_products'
+  - '#market_risk'
+  - '#principal_protection'
+  - '#risk_management'
+  - '#structured_notes'
+---
 # 23.3 THE CPPI  
 
 The main advantage of the CPPI as a principal protection technique is that it gives a higher participation in the underlying asset than one can get from traditional capital protection. It also can be applied when interest rates are "too' low, or when options do not trade for some underlying risk. Before we discuss the CPPI algorithm and the associated risks we consider some market examples.  

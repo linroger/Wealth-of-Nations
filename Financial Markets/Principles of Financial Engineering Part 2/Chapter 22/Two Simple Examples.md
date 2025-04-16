@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basket_default_swap'
+  - '#cdo_tranches'
+  - '#credit_default_swap'
+  - '#default_correlation'
+  - '#equity_tranche'
+  - '#gfc_2007_2009'
+  - '#mezzanine_tranche'
+  - '#senior_tranche'
+  - '#tranche_pricing'
+  - '#tranche_spreads'
+---
 # 22.2 TWO SIMPLE EXAMPLES  
 
 We first discuss two simple cases to illustrate the logic of how default correlation movements affect. tranche prices. It is through this logic that observed tranche trading can be used to back out the default correlation. This quantity will be called implied correlation..  

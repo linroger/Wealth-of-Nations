@@ -1,3 +1,15 @@
+---
+tags:
+  - '#ccapm'
+  - '#complete_markets'
+  - '#consumption_based_asset_pricing'
+  - '#epstein_zin_utility'
+  - '#habit_formation'
+  - '#incomplete_markets'
+  - '#long_run_risks'
+  - '#market_equilibrium'
+  - '#pareto_optimality'
+---
 # 6.8 Exercises 155  
 
 # Market equilibrium 161  

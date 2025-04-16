@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Market Solutions
+tags:
+  - '#bond_symbology'
+  - '#corporate_bonds'
+  - '#credit_default_swap'
+  - '#credit_market_solutions'
+  - '#credit_spreads'
+  - '#nelson_siegel_model'
+  - '#quantlib'
+  - '#sofr'
+  - '#us_treasuries'
+  - '#yield_curve_calibration'
 ---
 # Credit Market Solutions
 ## Solution to Homework 1

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bank_loans'
+  - '#call_provisions'
+  - '#collateralized_loan_obligations_clos'
+  - '#commercial_paper_cp'
+  - '#corporate_bonds'
+  - '#floating_rate_notes_frns'
+  - '#indentures'
+  - '#make_whole_call'
+  - '#medium_term_notes_mtns'
+  - '#secondary_loan_market'
+---
 # 14.1 CORPORATE BONDS AND LOANS  
 
 Large and highly creditworthy corporations in the United States tend to borrow money for fixed terms in public markets through commercial paper (CP), medium-term notes (MTNs), and corporate bonds. CP is typically a discount (i.e., zero coupon) instrument that is either unsecured, backed by a letter of credit from a bank, or secured by assets. CP is exempt from Securities and Exchange Commission (SEC) registration, along with its associated costs, so long as the paper matures in less than 270 days and its proceeds are used for short-term purposes (rather than, for example, building a factory). With its high credit quality and short-term maturity, CP is a particularly inexpensive and liquid way for the most creditworthy corporations to raise short-term funds. CP borrowing does, however, expose a corporation to the funding or liquidity risk of having to roll outstanding CP as it matures into new CP issues.  

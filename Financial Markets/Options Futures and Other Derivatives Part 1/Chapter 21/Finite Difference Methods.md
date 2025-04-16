@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_put_option'
+  - '#change_of_variable'
+  - '#crank_nicolson_method'
+  - '#explicit_finite_difference'
+  - '#finite_difference_methods'
+  - '#hopscotch_method'
+  - '#implicit_finite_difference'
+  - '#numerical_methods'
+  - '#option_pricing'
+  - '#trinomial_tree'
+---
 # 21.8 FINITE DIFFERENCE METHODS  
 
 Finite difference methods value a derivative by solving the differential equation that the derivative satisfies. The differential equation is converted into a set of difference equations, and the difference equations are solved iteratively.  

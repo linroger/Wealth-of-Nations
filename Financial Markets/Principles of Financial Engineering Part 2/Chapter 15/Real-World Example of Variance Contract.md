@@ -1,3 +1,14 @@
+---
+tags:
+  - '#gfc_volatility_products'
+  - '#implied_volatility'
+  - '#risk_neutral_measure'
+  - '#variance_swap'
+  - '#volatility_exposure'
+  - '#volatility_hedging'
+  - '#volatility_options'
+  - '#volatility_trading'
+---
 # 15.6 REAL-WORLD EXAMPLE OF VARIANCE CONTRACT  
 
 Variance (volatility) swaps are clearly useful for taking positions with variance (volatility) exposure. and hedging. But, each time a new market is born, there are usually further developments beyond the immediate uses. We briefly mention some further applications of the notions developed in this chapter..  

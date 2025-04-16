@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_valuation'
+  - '#contract_valuation'
+  - '#foreign_exchange_trading'
+  - '#forward_contracts'
+  - '#forward_price'
+  - '#futures_contracts'
+  - '#marking_to_market'
+  - '#risk_free_rate'
+---
 # 5.7 VALUING FORWARD CONTRACTS  
 
 The value of a forward contract at the time it is first entered into is close to zero. At a later stage, it may prove to have a positive or negative value. It is important for banks and other financial institutions to value the contract each day. (This is referred to as marking to market the contract.) Using the notation introduced earlier, we suppose $K$ is the delivery price for a contract that was negotiated some time ago, the delivery date is $T$ years from today, and. $r$ is the $T$ -year risk-free interest rate. The variable $F_{0}$ is the forward price that would be applicable if we negotiated the contract today. In addition, we define $f$ to be the value of forward contract today.  

@@ -1,9 +1,18 @@
 ---
-aliases: 
-tags: []
+aliases:
 title: Lecture 8- Inflation & Sovereign Default Risk
+tags:
+  - '#breakeven_inflation'
+  - '#fiscal_policy'
+  - '#inflation'
+  - '#inflation_expectations'
+  - '#inflation_risk'
+  - '#nominal_assets'
+  - '#real_assets'
+  - '#real_returns'
+  - '#sovereign_default'
+  - '#tips'
 ---
-
   [Teaching Note 2- Interest Rate Risk Management And Factors](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md)
   
 # Lecture 8- Inflation & Sovereign Default Risk

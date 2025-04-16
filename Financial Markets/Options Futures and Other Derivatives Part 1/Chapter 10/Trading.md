@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bid_ask_spread'
+  - '#derivatives_exchanges'
+  - '#electronic_exchanges'
+  - '#liquidity'
+  - '#market_makers'
+  - '#offsetting_orders'
+  - '#open_interest'
+  - '#options_trading'
+---
 # 10.5 TRADING  
 
 Traditionally, exchanges have had to provide a large open area for individuals to meet and trade options. This has changed. Most derivatives exchanges are fully electronic, so traders do not have to physically meet. The International Securities Exchange (www.ise.com) launched the first all-electronic options market for equities in the United States in May 2000. Over $95\%$ of the orders at the Chicago Board Options Exchange are handled electronically. The remainder are mostly large or complex institutional orders that require the skills of traders.  

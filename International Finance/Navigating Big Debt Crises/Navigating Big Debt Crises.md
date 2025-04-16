@@ -1,26 +1,13 @@
 ---
 title: Navigating Big Debt Crises
-aliases: 
-tags:
-  - debt_cycles
-  - financial_crises
-  - currency-crisis
-  - inflationary-depression
-  - capital-wars
-  - debt-management-strategies
-  - historical-debt-analysis
-  - "#debt-management"
-  - "#financial-crises"
-  - "#war-economies"
-  - "#german-hyperinflation"
-  - "#macroeconomic-policymaking"
-  - "#debt-cycles"
-  - "#currency-crises"
-  - "#economic-adjustment"
+aliases:
 cssclasses:
   - academia
+tags:
+  - '#big_debt_crises'
+  - '#economic_downturn'
+  - '#financial_crises'
 ---
-
 # Navigating Big Debt Crises
 
 %% Begin Waypoint %%

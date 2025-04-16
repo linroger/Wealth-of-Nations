@@ -1,12 +1,22 @@
 ---
-title: "How Countries Go Broke-Chapter 15 & Chapter 16"
-source: "https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/"
+title: How Countries Go Broke-Chapter 15 & Chapter 16
+source: 
+  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/
 author:
 published: 2000-02-13
 created: 2025-04-07
 description:
 tags:
-  - "clippings"
+  - '#budget_deficit'
+  - '#debt_crisis'
+  - '#economic_indicators'
+  - '#federal_reserve'
+  - '#fiscal_policy'
+  - '#government_spending'
+  - '#interest_rates'
+  - '#monetary_policy'
+  - '#taxation'
+  - '#us_government_debt'
 ---
 *This post was originally published on February 13, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 

@@ -1,7 +1,17 @@
 ---
 title: The Foreign Exchange Market Annotations
+tags:
+  - '#arbitrage'
+  - '#covered_interest_parity'
+  - '#currency_speculation'
+  - '#effective_exchange_rate'
+  - '#exchange_rate'
+  - '#exchange_rate_regimes'
+  - '#foreign_exchange_market'
+  - '#forward_exchange_rate'
+  - '#hedging'
+  - '#spot_exchange_rate'
 ---
-
 # The Foreign Exchange Market Annotations
 
  CHAPTER 1 THE [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) MARKET

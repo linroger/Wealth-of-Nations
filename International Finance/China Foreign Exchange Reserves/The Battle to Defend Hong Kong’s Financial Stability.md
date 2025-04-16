@@ -1,26 +1,24 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: The Battle to Defend Hong Kong’s Financial Stability
 source: https://www.hkma.gov.hk/eng/news-and-media/insight/2019/09/20190911/
-description: During my nearly three decade career with the HKMA,     I have had the unenviable experience of very close encounters with two major financial crises,     namely the Asian Financial Crisis (AFC) which started
+description: During my nearly three decade career with the HKMA,     I have had the
+  unenviable experience of very close encounters with two major financial crises,     namely
+  the Asian Financial Crisis (AFC) which started
 tags:
-  - currency-peg
-  - exchange-rates
-  - speculative-attack
-  - China
-  - Hong-Kong
-  - Asian-Financial-Crisis
-  - "#financial-crises"
-  - "#currency-crisis"
-  - "#macroeconomic-policymaking"
-  - "#economic-history"
-  - "#risk-management"
-  - "#currency-speculation"
-  - "#hong-kong-financial-stability"
+  - '#asian_financial_crisis'
+  - '#currency_speculation'
+  - '#double_play_strategy'
+  - '#hang_seng_index'
+  - '#hedge_funds'
+  - '#hibor'
+  - '#hong_kong_monetary_authority'
+  - '#linked_exchange_rate_system'
+  - '#market_stability'
+  - '#stock_market_intervention'
 ---
-
 # The Battle to Defend Hong Kong’s Financial Stability
 
 During my nearly three decade career with the HKMA,  I have had the unenviable experience of very close encounters with two major financial crises,  namely the Asian Financial Crisis (AFC) which started in 1997 and the Global Financial Crisis of 2008.  In particular,  during the AFC that rampaged across the region,  there were attacks on Hong Kong,  with speculators using a “double play” strategy to manipulate both the currency and stock markets,  with the aim of breaking Hong Kong’s Linked Exchange Rate System (LERS) and profiteering from the stock market.  I was tasked to take command of a stock market operation.  While we were “fighting” the battle on the frontline,  many critics at that time did not understand the reasons for our operation,  which they believed was a betrayal of the fundamental principle of the free market.  So I would like to share with you my personal experience of this special episode in Hong Kong’s history.

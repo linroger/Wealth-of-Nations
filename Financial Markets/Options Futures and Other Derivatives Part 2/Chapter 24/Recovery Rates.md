@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_recovery_rate'
+  - '#bond_seniority'
+  - '#collateral'
+  - '#corporate_bonds'
+  - '#default_rates'
+  - '#financial_crisis_2007_2008'
+  - '#mortgage_default_rate'
+  - '#recovery_rates'
+---
 # 24.3 RECOVERY RATES  
 
 When a company goes bankrupt, those that are owed money by the company file claims.   

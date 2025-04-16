@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Market Homework 1
+tags:
+  - '#bond_symbology'
+  - '#corporate_bonds'
+  - '#coupon_rates'
+  - '#credit_market_homework'
+  - '#credit_spreads'
+  - '#fixed_rate_bonds'
+  - '#g_spreads'
+  - '#time_to_maturity'
+  - '#us_treasuries'
+  - '#yield_curve'
 ---
 # Credit Market Homework 1
 

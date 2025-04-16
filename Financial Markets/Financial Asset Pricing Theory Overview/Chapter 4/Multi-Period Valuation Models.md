@@ -1,3 +1,16 @@
+---
+tags:
+  - '#affine_models'
+  - '#closed_form_valuation'
+  - '#continuous_time_valuation'
+  - '#discrete_time_valuation'
+  - '#dividend_valuation'
+  - '#multi_period_valuation_models'
+  - '#pde_approach'
+  - '#price_dividend_ratio'
+  - '#risk_adjusted_discount_factor'
+  - '#state_price_deflator'
+---
 # 4.4 Multi-period valuation models  
 
 This section gives some examples of concrete assumptions on the state-price deflator and the dividends that will lead to a closed-form expression for the present value of the dividends.  

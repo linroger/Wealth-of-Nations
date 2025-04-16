@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#counterparty_risk'
+  - '#credit_default_swaps'
+  - '#equity_products'
+  - '#financial_engineering'
+  - '#securitization'
+  - '#structured_products'
+  - '#swaptions'
+  - '#volatility_smile'
+  - '#volatility_swaps'
+---
 # Table of Contents - Principles of Financial Engineering Part2
 
 Chapter 02: 2.3 The Framework. 396

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_scholes_merton_equation'
+  - '#black_scholes_merton_formula'
+  - '#european_put_option_pricing'
+  - '#option_pricing_model'
+  - '#partial_derivatives'
+  - '#put_call_parity'
+  - '#risk_free_hedge'
+---
 # 13.2 THE EUROPEAN PUT OPTION PRICING FORMULA
 
 The model for pricing a European put is easily derived from put-call parity. We know that

@@ -1,10 +1,22 @@
 ---
-aliases: [Oaktree And The Restructuring Of Cit Group (A),  Oaktree and the Restructuring of CIT Group (a).md,  Oaktree and the Restructuring of CIT Group (a)]
+aliases:
+  - Oaktree And The Restructuring Of Cit Group (A)
+  - Oaktree and the Restructuring of CIT Group (a).md
+  - Oaktree and the Restructuring of CIT Group (a)
 linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
-tags: [ ]
 title: Oaktree and the Restructuring of CIT Group (a)
+tags:
+  - '#chapter_11_bankruptcy'
+  - '#cit_group'
+  - '#credit_facility'
+  - '#fdic'
+  - '#financial_restructuring'
+  - '#oaktree_capital'
+  - '#subprime_mortgage_crisis'
+  - '#tarp'
+  - '#temporary_liquidity_guarantee_program'
+  - '#unsecured_debt'
 ---
-
 [Oaktree and the Restructuring of Cit Group (b)](Oaktree%20 and%20 the%20 Restructuring%20 of%20 Cit%20 Group%20 (b). Md)
 [Note On LBO Capital Structure](Note%20on%20LBO%20Capital%20Structure%20Module%20Note.md)
 [Note On the Leveraged Loan Market](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Note%20On%20the%20Leveraged%20Loan%20Market.md)

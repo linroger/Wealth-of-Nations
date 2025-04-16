@@ -1,9 +1,19 @@
 ---
 title: Business CyclesIntroduction, Characteristics, and History
-aliases: ["Business CyclesIntroduction, Characteristics, and History"]
-linter-yaml-title-alias: "Business CyclesIntroduction, Characteristics, and History"
+aliases:
+  - Business CyclesIntroduction, Characteristics, and History
+linter-yaml-title-alias: Business CyclesIntroduction, Characteristics, and History
+tags:
+  - '#business_cycles'
+  - '#comovement'
+  - '#economic_fluctuations'
+  - '#economic_indicators'
+  - '#expansions'
+  - '#great_moderation'
+  - '#leading_indicators'
+  - '#nber'
+  - '#recessions'
 ---
-
 # Business CyclesIntroduction, Characteristics, and History
 
 ### Business Cycles: Introduction, Characteristics, and History

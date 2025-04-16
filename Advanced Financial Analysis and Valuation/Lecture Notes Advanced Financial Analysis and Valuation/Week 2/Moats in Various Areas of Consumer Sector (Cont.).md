@@ -6,28 +6,17 @@ aliases:
   - 
   - 
 tags:
-
-  - finance
-  - financialanalysis
-  - retailindustry
-  - valuationanalysis
-  - forecasting
-  - retailstrategy
-  - competitiveanalysis
-  - ecommerceimpact
-  - financial-markets
-  - financial-modeling
-  - corporate-finance
-  - retail-industry-analysis
-  - competitive-strategy
-  - valuation-techniques
-  - "#economic-history"
-  - "#financial-crises"
-  - "#macroeconomics"
-  - "#retail-analysis"
-  - "#financial-forecasting"
+  - '#competitive_analysis'
+  - '#dollar_general_case'
+  - '#e_commerce_impact'
+  - '#financial_shenanigans'
+  - '#kpi_retail'
+  - '#retail_industry_analysis'
+  - '#revenue_forecasting'
+  - '#same_store_sales'
+  - '#unit_economics'
+  - '#value_drivers_retail'
 ---
-
 [Week 2 Retail](Zhe/Week%202/Week%202%20Retail.md)
 
 [Week 2 Fundamentals Of Forecasting](Zhe/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)

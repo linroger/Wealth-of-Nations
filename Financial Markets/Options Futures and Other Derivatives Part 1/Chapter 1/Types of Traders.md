@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrageurs'
+  - '#convertible_arbitrage'
+  - '#derivatives_markets'
+  - '#hedge_funds'
+  - '#hedgers'
+  - '#investment_strategies'
+  - '#merger_arbitrage'
+  - '#risk_management'
+  - '#speculators'
+  - '#types_of_traders'
+---
 # 1.6 TYPES OF TRADERS  
 
 Derivatives markets have been outstandingly successful. The main reason is that they. have attracted many different types of traders and have a great deal of liquidity. When a trader wants to take one side of a contract, there is usually no problem in finding. someone who is prepared to take the other side..  

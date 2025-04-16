@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bank_runs'
+  - '#bond_covenants'
+  - '#borrower_lender_conflicts'
+  - '#capital_structure'
+  - '#commercial_paper'
+  - '#debt_capacity'
+  - '#delegated_monitoring'
+  - '#financial_intermediation'
+  - '#liquidity_risk'
+  - '#securitization'
+---
 __MASK_7_17__
 # Financial Markets and Institutions Lecture Notes
 

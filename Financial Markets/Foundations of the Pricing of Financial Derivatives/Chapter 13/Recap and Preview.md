@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#black_scholes_merton_model'
+  - '#dividend_yield'
+  - '#dynamic_hedging'
+  - '#european_options'
+  - '#option_greeks'
+  - '#option_pricing'
+  - '#partial_differential_equation'
+  - '#put_call_parity'
+---
 # 13.9 RECAP AND PREVIEW
 
 In this chapter, we showed how the Black-Scholes-Merton model is derived. We illustrated.

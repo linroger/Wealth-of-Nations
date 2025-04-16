@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#buy_side_vs_sell_side'
+  - '#cost_of_capital'
+  - '#financial_markets'
+  - '#hedge_funds'
+  - '#hedgers_vs_speculators'
+  - '#market_participants'
+  - '#risk_management'
+  - '#speculation'
+---
 # 1.7 MARKET PLAYERS: HEDGERS VS SPECULATORS  
 
 Without risk sharing, issuers and investors live and die with the markets. When prices increase,. investors who have bought, gain; when stock prices decline, they lose. New investors "buy high"' when prices rise, but "buy low" when prices decline. The decline benefits past issuers who "sold high.' The rise hurts them since they received little money and now have to deliver cash flows. In this view of the markets, both sides - the issuers and the investors - speculate. on the direction of stock prices and interest rates. The word investment is a euphemism for speculation. The logic does not change if we allow shorting of securities. The shorting. allows investors to become synthetic issuers and benefit from prices going down, but they still speculate. Investors manage risk, enhance or mitigate it, by concentrating or diversifying the types of assets held. An equity investor may hold shares of companies from different industrial. sectors; and a pension fund may diversify investments across domestic and foreign equities, or domestic and foreign bonds. The investor can also choose to be long or short an exposure..  

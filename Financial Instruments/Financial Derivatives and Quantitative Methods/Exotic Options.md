@@ -1,14 +1,19 @@
 ---
-aliases: 
-tags:
-  - "#financial-derivatives"
-  - "#finance"
-  - "#financial-instruments"
-  - "#exotic-options"
-  - "#option-pricing"
+aliases:
 cssclasses:
   - academia
 title: Exotic Options
+tags:
+  - '#as_you_like_it_options'
+  - '#asian_options'
+  - '#barrier_options'
+  - '#break_forward_contract'
+  - '#digital_options'
+  - '#exotic_options'
+  - '#lookback_options'
+  - '#path_dependent_options'
+  - '#rainbow_options'
+  - '#range_forward_contract'
 ---
 # Exotic Options
 

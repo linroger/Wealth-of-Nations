@@ -1,3 +1,15 @@
+---
+tags:
+  - '#eurodollar_futures'
+  - '#forward_price'
+  - '#forward_rate_agreement'
+  - '#forwards_and_futures'
+  - '#futures_price'
+  - '#interest_rate_futures'
+  - '#libor_rate'
+  - '#marking_to_market'
+  - '#risk_neutral_probability'
+---
 # 12.2 Forwards and futures  
 
 # 12.2.1 General results on forward prices and futures prices  

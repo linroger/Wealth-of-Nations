@@ -1,3 +1,15 @@
+---
+tags:
+  - '#convexity_adjustments'
+  - '#gfc_impact_on_volatility'
+  - '#liquidity_problems'
+  - '#smile_effect'
+  - '#variance_swap_framework'
+  - '#variance_swaps'
+  - '#volatility_hedging'
+  - '#volatility_positions'
+  - '#volatility_term_structure'
+---
 # 15.1 Introduction. 508  
 
 15.2 Volatility Positions. 509   

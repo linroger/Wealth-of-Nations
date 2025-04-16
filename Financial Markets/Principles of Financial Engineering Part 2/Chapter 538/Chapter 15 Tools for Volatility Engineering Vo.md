@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cboe_volatility_indices'
+  - '#correlation_trading'
+  - '#exchange_traded_variance_swaps'
+  - '#hedging_with_variance_swaps'
+  - '#market_participants'
+  - '#otc_variance_swaps'
+  - '#regulatory_impact_on_swaps'
+  - '#structured_products'
+  - '#variance_swaps'
+  - '#volatility_engineering'
+---
 # 538 CHAPTER 15 TOOLS FOR VOLATILITY ENGINEERING, VOLATILITY SWAPS  
 
 VU CBOE Russell 2000 Volatility Index (RVX) Futures   

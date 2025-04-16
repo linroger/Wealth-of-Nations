@@ -1,14 +1,20 @@
 ---
 aliases:
-- Runs and Interventions in the Time of Covid 19 Evidence From Money Funds.md
-- Runs and Interventions in the Time of Covid 19 Evidence From Money
-  Funds
-tags:
-- 
-- 
+  - Runs and Interventions in the Time of Covid 19 Evidence From Money Funds.md
+  - Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
 title: Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
+tags:
+  - '#covid_19_crisis'
+  - '#funding_markets'
+  - '#liquidity_regulations'
+  - '#mmlf'
+  - '#money_market_funds'
+  - '#preemptive_runs'
+  - '#prime_funds'
+  - '#redemption_gates'
+  - '#sec_reform_2016'
+  - '#wla'
 ---
-
 # Runs and Interventions in the Time of Covid 19 Evidence From Money Funds
 
 ## Abstract

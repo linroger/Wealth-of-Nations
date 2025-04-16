@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_call_option'
+  - '#black_scholes_merton_formulas'
+  - '#european_call_option'
+  - '#european_put_option'
+  - '#option_pricing'
+  - '#risk_neutral_valuation'
+  - '#stock_price_volatility'
+  - '#time_to_maturity'
+  - '#zero_coupon_risk_free_rate'
+---
 # 15.8 BLACK-SCHOLES-MERTON PRICING FORMULAS  
 
 The most famous solutions to the differential equation (15.16) are the Black-ScholesMerton formulas for the prices of European call and put options. These formulas are:.  

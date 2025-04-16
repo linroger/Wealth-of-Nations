@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_dream'
+  - '#capitalism_reform'
+  - '#double_bottom_line'
+  - '#economic_mobility'
+  - '#education_system'
+  - '#fiscal_policy'
+  - '#income_inequality'
+  - '#populism'
+  - '#social_conflict'
+  - '#wealth_gap'
+---
 April 5 th, 2019
 
 ## Summary

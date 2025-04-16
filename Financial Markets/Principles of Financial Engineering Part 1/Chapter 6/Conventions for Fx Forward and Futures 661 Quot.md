@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bid_ask_spread'
+  - '#cme_currency_contracts'
+  - '#eur_usd'
+  - '#exchange_traded_derivatives'
+  - '#forward_points'
+  - '#fx_forward_quotes'
+  - '#fx_futures'
+  - '#fx_market_conventions'
+  - '#otc_fx_market'
+  - '#spot_exchange_rate'
+---
 # 6.6 CONVENTIONS FOR FX FORWARD AND FUTURES 6.6.1 QUOTING CONVENTIONS FOR FX FORWARD  
 
 Forwards in foreign currencies have special quotation conventions. Markets do not quote outright. forward rates, but the so-called forward points. The related terminology and conventions are illustrated in the following example.  

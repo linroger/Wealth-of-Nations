@@ -1,12 +1,9 @@
 ---
 title: Week 9
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financialanalysis"
-  - "#accounting-differences"
-  - "#platform-businesses"
+  - '#waypoint'
+  - '#week_9'
 ---
-
 # Week 9
 %% Begin Waypoint %%
 - **[[Week 9]]**

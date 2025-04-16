@@ -6,29 +6,19 @@ aliases:
   - Moody's Bank Loan Ratings- Pricing Implications and Approach
   - Moody's Bank Loan RatingsPricing Implications and Approach
 linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
-tags:
-
-  - 
-  - CreditRatings
-  - BankLoans
-  - RiskAnalysis
-  - FinancialMarkets
-  - CreditRisk
-  - InvestmentAnalysis
-  - DebtMarkets
-  - RecoveryRates
-  - LoanStructure
-  - CorporateFinance
-  - "#finance"
-  - "#financial-markets"
-  - "#credit-cycles"
-  - "#risk-management"
-  - "#syndicated-loans"
-  - "#loan-pricing"
-  - "#credit-ratings"
 title: Moody's Bank Loan RatingsPricing Implications and Approach
+tags:
+  - '#bank_loan_ratings'
+  - '#capital_structure_assessment'
+  - '#convergence_loan_bond_markets'
+  - '#covenants'
+  - '#loan_market_analysis'
+  - '#loan_structure_analysis'
+  - '#market_transparency'
+  - '#moodys_ratings'
+  - '#recovery_rates'
+  - '#risk_adjusted_pricing'
 ---
-
 # Moody's Bank Loan RatingsPricing Implications and Approach
 
 The following Special Comment is based upon remarks made by Michael Dommermuth before the membership of the Kinsai Institute for Financial Affairs in New York on March 5,  1996

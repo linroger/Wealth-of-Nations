@@ -1,3 +1,18 @@
+---
+tags:
+  - '#accounting_tax_futures'
+  - '#central_counterparties'
+  - '#delivery_futures'
+  - '#forward_vs_futures'
+  - '#futures_contract_specification'
+  - '#futures_markets'
+  - '#futures_price_convergence'
+  - '#futures_regulation'
+  - '#futures_traders_orders'
+  - '#margin_accounts'
+  - '#market_quotes'
+  - '#otc_markets'
+---
 # Chapter 2. Futures markets and central counterparties . 24  
 
 2.1 Background 24   

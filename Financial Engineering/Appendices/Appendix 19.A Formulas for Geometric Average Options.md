@@ -1,8 +1,17 @@
 ---
 title: Appendix 19. A Formulas for Geometric Average Options
-aliases: [Formulas for Geometric Average Options]
+aliases:
+  - Formulas for Geometric Average Options
+tags:
+  - '#asian_options'
+  - '#average_price_options'
+  - '#average_strike_options'
+  - '#black_scholes_formula'
+  - '#geometric_average_options'
+  - '#lognormal_process'
+  - '#monte_carlo_valuation'
+  - '#option_pricing'
 ---
-
 # Appendix 19. A Formulas for Geometric Average Options
 
 The discussion of Monte Carlo valuation of geometrically averaged Asian options enables us to understand the formulas for geometrically averaged Asian options,  described in Appendix 14. A. If we sample the stock price $N$ times from time O to 7 ,  with the distance betweer samples $h=T/N$ and the first sample occurring at time $h$ ,  the log of the geometric average i

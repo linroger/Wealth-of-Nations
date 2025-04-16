@@ -1,3 +1,15 @@
+---
+tags:
+  - '#at_the_money_option'
+  - '#black_scholes_merton_model'
+  - '#call_options'
+  - '#cumulative_distribution_table'
+  - '#dividend_yield'
+  - '#manual_calculation'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#put_options'
+---
 # 13.8 COMPUTING THE BLACK-SCHOLES-MERTON OPTION PRICING MODEL VALUES
 
 We provide a few illustrations of the manual option value computation. The key to man-. ually calculating option values is the standard normal cumulative distribution table given in Chapter 5 (Table 5.1). We will refer back to Table 5.1 during these illustrations.

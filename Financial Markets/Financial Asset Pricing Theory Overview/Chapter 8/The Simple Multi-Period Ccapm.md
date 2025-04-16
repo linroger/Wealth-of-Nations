@@ -1,3 +1,14 @@
+---
+tags:
+  - '#ccapm_model'
+  - '#consumption_growth'
+  - '#crra_utility'
+  - '#geometric_brownian_motion'
+  - '#lognormal_distribution'
+  - '#multi_period_model'
+  - '#risk_free_return'
+  - '#sharpe_ratio'
+---
 # 8.4 The simple multi-period CCAPM  
 
 A large part of the asset pricing literature makes (not always explicitly stated, unfortunately) the following additional assumptions:  

@@ -3,17 +3,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#banking"
-  - "#financial-crises"
-  - "#economic-depression"
-  - "#debt-management"
-  - "#risk-management"
-  - "#mortgage-bonds"
-  - "#financial-regulation"
-  - "#bank-mergers"
+  - '#2008_financial_crisis'
+  - '#antitrust_regulation'
+  - '#bank_mergers'
+  - '#banking_industry'
+  - '#economic_performance'
+  - '#federal_reserve'
+  - '#financial_innovation'
+  - '#market_concentration'
+  - '#mortgage_backed_securities'
+  - '#public_policy'
 ---
-
 The Banking Industry Faculty Research Working Paper Series
 
 ## THE BANKING INDUSTRY

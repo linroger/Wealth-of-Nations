@@ -1,10 +1,22 @@
 ---
 title: US Debt Crisis and Adjustment 1928-1937
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#bank_failures'
+  - '#deflationary_deleveraging'
+  - '#fdr_new_deal'
+  - '#federal_reserve'
+  - '#fiscal_policy'
+  - '#gold_standard'
+  - '#great_depression'
+  - '#hoover_administration'
+  - '#monetary_policy'
+  - '#sterilization'
+  - '#stock_market_bubble'
+  - '#us_debt_crisis'
+  - '#world_war_ii'
 ---
-
 # US Debt Crisis and Adjustment 1928-1937
 ## ********US Debt Crisis and Adjustment \(1928–1937\)
 

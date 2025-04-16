@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_pricing'
+  - '#bsm_model'
+  - '#continuous_compounding'
+  - '#principal_component_analysis'
+  - '#replicating_portfolios'
+  - '#sabr_model'
+  - '#shifted_lognormal_model'
+  - '#swaption_skew'
+  - '#volatility_skew'
+  - '#yield_to_maturity'
+---
 # 16.6 SWAPTION SKEW  
 
 The BSM normal model, as applied in the previous section, has a single. and constant volatility parameter. Taking the model literally, this would. imply that all swaptions can be priced with a single basis-point volatility. Figure 16.2 illustrates, however, that this is not the case: even across swap-. tions with the same expiration and underlying tenor, like either the 2y2y. and 5y10y swaptions in the figure, implied volatilities vary significantly with. strike. As of the pricing date, the two-year swap rate, two years forward is $1.11\%$ (not shown in the figure), which is the ATM strike for 2y2y swap-. tions. The darker gray curve shows, therefore, that 2y2y implied volatilities. increase mostly linearly from 56 basis points at a strike of. $0.11\%$ , which is 100 basis points below the ATM strike, to 125 basis points at a strike of $4.11\%$ , which is 300 basis points above the ATM strike. At the same time, the 10-year swap rate, five years forward is. $2.43\%$ . The lighter gray curve of the figure shows, therefore, that implied volatilities of 5y10y swaptions are roughly 75 basis points for strikes below that ATM strike, and then increase along the curve shown to 95 basis points at a strike 300 basis points over the ATM strike. The phenomenon that basis-point volatility is not constant across strikes is known as the volatility skew. The phenomenon that basis-point volatility is higher for both in- and out-of-the-money options than for at-the-money options, as seen here for 5y10y swaptions, is known as the smile, or, to the extent this effect is not symmetric, the smirk.  

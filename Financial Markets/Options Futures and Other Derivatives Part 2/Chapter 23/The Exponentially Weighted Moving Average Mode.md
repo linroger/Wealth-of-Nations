@@ -1,3 +1,14 @@
+---
+tags:
+  - '#daily_percentage_change'
+  - '#ewma_model'
+  - '#exponentially_weighted_moving_average'
+  - '#jp_morgan'
+  - '#moving_average_model'
+  - '#riskmetrics'
+  - '#variance_rate'
+  - '#volatility_estimation'
+---
 # 23.2 THE EXPONENTIALLY WEIGHTED MOVING AVERAGE MODEL  
 
 The exponentially weighted moving average (EwMA) model is a particular case of the model in equation (23.4) where the weights. $\alpha_{i}$ decrease exponentially as we move back through time. Specifically, $\alpha_{i+1}=\lambda\alpha_{i}$ where $\lambda$ is a constant between 0 and 1.  

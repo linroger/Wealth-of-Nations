@@ -1,9 +1,19 @@
 ---
-aliases: [Squam Lake Group Introduction]
-tags: []
+aliases:
+  - Squam Lake Group Introduction
 title: Squam Lake Group Introduction
+tags:
+  - '#agency_problems'
+  - '#bank_bailouts'
+  - '#bank_runs'
+  - '#capital_requirements'
+  - '#financial_innovation'
+  - '#financial_system_regulation'
+  - '#living_wills'
+  - '#regulatory_reform'
+  - '#systemic_risk'
+  - '#world_financial_crisis'
 ---
-
 # Squam Lake Group Introduction
 # Chapter 1 Introduction
 

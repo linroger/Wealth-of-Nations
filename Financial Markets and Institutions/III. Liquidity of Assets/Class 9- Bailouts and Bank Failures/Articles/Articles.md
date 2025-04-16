@@ -1,7 +1,9 @@
 ---
 title: Articles
+tags:
+  - '#articles'
+  - '#waypoint'
 ---
-
 # Articles
 
 %% Begin Waypoint %%

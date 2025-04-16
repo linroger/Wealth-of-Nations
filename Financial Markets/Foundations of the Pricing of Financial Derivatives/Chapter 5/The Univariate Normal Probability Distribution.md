@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bell_curve'
+  - '#cumulative_density_function'
+  - '#financial_market_returns'
+  - '#gaussian_distribution'
+  - '#log_returns'
+  - '#normal_probability_distribution'
+  - '#probability_density_function'
+  - '#s_and_p_500_returns'
+  - '#standard_normal_variable'
+---
 # 5.1 THE UNIVARIATE NORMAL PROBABILITY DISTRIBUTION
 
 The normal probability distribution, known commonly to the layperson as the bell-shaped. curve or bell curve, was first identified in the 18th century by Abraham de Moivre. (1667-1754). Its mathematical structure was developed by Carl Frederich Gauss. (1777-1855) and the curve is often referred to as the Gaussian distribution. Recall the mathematical function that plots the normal curve, called the probability density function or density function for short, is.

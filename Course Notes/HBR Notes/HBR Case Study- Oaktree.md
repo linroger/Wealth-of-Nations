@@ -5,12 +5,18 @@ Owner: RRoger Lin
 aliases:
   - 
   - 
-tags:
-  - Case-Studies
-
 title: HBR Case StudyOaktree
+tags:
+  - '#bankruptcy'
+  - '#cit_group'
+  - '#credit_crisis'
+  - '#debt_financing'
+  - '#financial_restructuring'
+  - '#lenders_steering_committee'
+  - '#oaktree_capital'
+  - '#subprime_mortgage_crisis'
+  - '#tlgp'
 ---
-
 # HBR Case StudyOaktree
 
 ![[Untitled 10. jpeg|Untitled 10. jpeg]]

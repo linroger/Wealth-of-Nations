@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_equation'
+  - '#interest_rate_derivatives'
+  - '#ito_lemma'
+  - '#markov_process'
+  - '#risk_free_short_rate'
+  - '#risk_neutral_world'
+  - '#term_structure_of_interest_rates'
+  - '#zero_coupon_bond'
+---
 # 31.1 BACKGROUND  
 
 The risk-free short rate, $r.$ at time $t$ is the rate that applies to an infinitesimally short period of time at time $t.$ It is sometimes referred to as the instantaneous short rate. Bond prices, option prices, and other derivative prices depend only on the process followed by $r$ in the traditional risk-neutral world. As explained in Chapter 28, the traditional riskneutral world is a world where, in a very short time period between. $t$ and $t+\Delta t$ , investors earn on average $r(t)\Delta t$ . All risk-neutral processes for $r$ that will be considered in this chapter are processes in this traditional risk-neutral world.  

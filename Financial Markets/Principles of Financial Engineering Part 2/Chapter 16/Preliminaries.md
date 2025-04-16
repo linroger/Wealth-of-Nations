@@ -1,3 +1,16 @@
+---
+tags:
+  - '#at_the_money_volatility'
+  - '#black_scholes_model'
+  - '#hedge_funds'
+  - '#implied_volatility'
+  - '#options_trading'
+  - '#out_of_the_money_volatility'
+  - '#risk_management'
+  - '#skew_trade'
+  - '#volatility_smile'
+  - '#volatility_surface'
+---
 # 16.9 PRELIMINARIES  
 
 The volatility smile has important implications for trading, hedging, and pricing financial instru-. ments. To illustrate how far things have come in this area, we look at a position taken with the objective of benefiting from abnormal conditions regarding the volatility smile..  

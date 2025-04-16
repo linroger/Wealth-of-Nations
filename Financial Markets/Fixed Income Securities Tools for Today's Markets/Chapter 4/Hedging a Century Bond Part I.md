@@ -1,3 +1,14 @@
+---
+tags:
+  - '#basis_point_sensitivity'
+  - '#bid_ask_spread'
+  - '#corporate_bond_market_making'
+  - '#dv01_hedging'
+  - '#hedging_century_bond'
+  - '#interest_rate_risk'
+  - '#market_maker_strategy'
+  - '#treasury_bond_hedging'
+---
 # 4.3 HEDGING A CENTURY BOND: PART I  
 
 Say that a market maker buys from a client. $\$10,000,000$ face amount of the NSC 4.10s of 05/15/2121 at the going bid price. The market maker does not turn around and immediately sell those bonds at market, because that would likely mean selling at the same bid price, leaving no overall profit from the trades. Instead, the market maker waits until other clients appear, who are willing to pay the higher ask price. In this way, the market maker earns the bid-ask spread for providing immediacy or liquidity both to the client who originally sells the bonds and to the clients who later buy the bonds.  

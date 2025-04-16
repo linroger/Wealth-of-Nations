@@ -1,3 +1,16 @@
+---
+tags:
+  - '#capital_asset_pricing_model_capm'
+  - '#consumption_process'
+  - '#continuous_time_framework'
+  - '#discrete_time_economy'
+  - '#dividend_valuation'
+  - '#market_price_of_risk'
+  - '#mean_variance_frontier'
+  - '#power_utility'
+  - '#state_price_deflator'
+  - '#unconditional_linear_factor_model'
+---
 # 9.8 Exercises  
 
 EXERCISE 9.1 Consider a discrete-time economy with a one-dimensional conditional pricing factor $x=\left(x_{t}\right)$ so that, for some adapted processes $\alpha=\left(\alpha_{t}\right)$ and some $\eta=\left(\eta_{t}\right)$  

@@ -1,9 +1,19 @@
 ---
-title: "(24) How Countries Go Broke: Chapter 12 to Chapter 14  | LinkedIn"
-source: "https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/"
+title: '(24) How Countries Go Broke: Chapter 12 to Chapter 14  | LinkedIn'
+source: 
+  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
 description:
 tags:
-  - "clippings"
+  - '#big_debt_cycle'
+  - '#china_economy'
+  - '#debt_monetization'
+  - '#economic_cycles'
+  - '#global_economics'
+  - '#inflation'
+  - '#interest_rates'
+  - '#japanese_economy'
+  - '#monetary_policy_4'
+  - '#us_china_relations'
 ---
 *This post was originally published on January 30, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#fixed_interest_rate'
+  - '#forward_interest_rate'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#market_value'
+  - '#notional_amount'
+  - '#spot_interest_rate'
+  - '#swap_rate'
+  - '#variable_interest_rate'
+  - '#zero_coupon_bonds'
+---
 # EDUCATION AND EXAMINATION COMMITTEE  
 
 OF THE  

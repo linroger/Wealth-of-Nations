@@ -1,3 +1,14 @@
+---
+tags:
+  - '#currency_options'
+  - '#european_options'
+  - '#exchange_rate_volatility'
+  - '#foreign_exchange_hedging'
+  - '#forward_contracts'
+  - '#over_the_counter_market'
+  - '#range_forward_contract'
+  - '#strike_price'
+---
 # 17.2 CURRENCY OPTIONS  
 
 Currency options are primarily traded in the over-the-counter market. The advantage of this market is that large trades are possible, with strike prices, expiration dates, and other features tailored to meet the needs of corporate treasurers. Although currency options do trade on NASDAQ OMX in the United States, the exchange-traded market for these options is much smaller than the over-the-counter market.  

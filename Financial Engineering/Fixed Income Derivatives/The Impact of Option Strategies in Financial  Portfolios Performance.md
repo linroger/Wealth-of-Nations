@@ -1,3 +1,15 @@
+---
+tags:
+  - '#capm_statistics'
+  - '#covered_call'
+  - '#french_market'
+  - '#mean_variance_analysis'
+  - '#option_strategies'
+  - '#portfolio_performance'
+  - '#protective_put'
+  - '#risk_management'
+  - '#stochastic_dominance'
+---
 # The Impact of Option Strategies in Financial  Portfolios Performance
 # The Impact of Option Strategies in Financial  Portfolios Performance: Mean-Variance and  Stochastic Dominance Approaches
 # THE IMPACT OF OPTION STRATEGIES IN FINANCIAL PORTFOLIOS  PERFORMANCE: MEAN-VARIANCE AND STOCHASTIC DOMINANCE  APPROACHES

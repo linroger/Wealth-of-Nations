@@ -1,5 +1,16 @@
 ---
 title: Contango And Backwardation In Arbitrage-Free Futures-Markets
+tags:
+  - '#arbitrage'
+  - '#carry_trades'
+  - '#consumption_goods'
+  - '#contango_backwardation'
+  - '#convenience_yield'
+  - '#futures_prices'
+  - '#investment_goods'
+  - '#reverse_carry_trades'
+  - '#spot_prices'
+  - '#term_structure'
 ---
 # Contango And Backwardation In Arbitrage-Free Futures-Markets
 

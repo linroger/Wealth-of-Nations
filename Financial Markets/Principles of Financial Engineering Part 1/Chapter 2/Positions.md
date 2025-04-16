@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#delta_one_products'
+  - '#financial_positions'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#long_positions'
+  - '#payoff_diagrams'
+  - '#short_positions'
+  - '#short_selling'
+---
 # 2.7 POSITIONS  
 
 By buying or short-selling assets, one takes positions, and once a position is taken, one has exposure to various risks.  

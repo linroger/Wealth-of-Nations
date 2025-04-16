@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_yields'
+  - '#liquidity_preference_hypothesis'
+  - '#market_segmentation_hypothesis'
+  - '#maturity_preference'
+  - '#preferred_habitats_hypothesis'
+  - '#risk_aversion'
+  - '#term_structure_of_interest_rates'
+  - '#yield_curve'
+---
 # 10.8 Liquidity preference, market segmentation, and preferred habitats  
 
 Another traditional explanation of the shape of the yield curve is given by the liquidity preference hypothesis introduced by Hicks (1939). He realized that the expectation hypothesis basically ignores investors' aversion towards risk and argued that expected returns on long-term bonds should exceed the expected returns on short-term bonds to compensate for the higher price  

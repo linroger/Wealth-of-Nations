@@ -1,3 +1,13 @@
+---
+tags:
+  - '#amazon_com_example'
+  - '#business_valuation'
+  - '#future_cash_flows'
+  - '#monte_carlo_simulation'
+  - '#new_businesses'
+  - '#real_options_approach'
+  - '#risk_neutral_valuation'
+---
 # 36.4  APPLICATION TO THE VALUATION OF A BUSINESS  
 
 Traditional methods of business valuation, such as applying a price/earnings multiplier.   

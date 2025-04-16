@@ -1,3 +1,14 @@
+---
+tags:
+  - '#counterparty_risk'
+  - '#credit_valuation_adjustment'
+  - '#default_probability'
+  - '#exposure_calculation'
+  - '#interest_rate_swaps'
+  - '#risk_neutral_valuation'
+  - '#unilateral_cva'
+  - '#wrong_way_risk'
+---
 # 24.3 CREDIT VALUATION ADJUSTMENT  
 
 Throughout this book, we have assumed that there is no default risk in derivatives transactions. For exam-. ple, in the Black-Scholes model we assumed that each counterparty will honor its obligations and that neither will default. The assumption that large financial institutions are default free is not realistic. For example, in 2008, eight credit events on financial institutions occurred in 1 month (Lehman Brothers, Fannie Mae, Freddie Mac, Washington Mutual, Landsbanki, Glitnir, Kaupthing, and Merrill Lynch)..  

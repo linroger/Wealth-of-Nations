@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Forwards and Futures Notes
+tags:
+  - '#convexity'
+  - '#covered_interest_arbitrage'
+  - '#currency_forwards'
+  - '#duration'
+  - '#eurodollar_futures'
+  - '#forward_pricing'
+  - '#no_arbitrage_bounds'
+  - '#prepaid_forward'
+  - '#synthetic_forwards'
+  - '#zero_coupon_bonds'
 ---
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]

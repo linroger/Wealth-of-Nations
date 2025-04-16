@@ -1,3 +1,13 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#coupon_bond'
+  - '#finite_series'
+  - '#infinite_series'
+  - '#series_formulas'
+  - '#spreadsheet_application'
+  - '#yield_to_maturity'
+---
 # 3.4 SERIES FORMULAS
 
 The following formulas for the sums of various finite and infinite series can be useful.. These expressions are not easy to memorize and do not show up often in finance, but they. can be used on occasion to simplify results, and you should have an accessible list such as the following:

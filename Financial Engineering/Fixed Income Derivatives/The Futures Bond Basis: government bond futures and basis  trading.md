@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_trading'
+  - '#bond_market_dynamics'
+  - '#cheapest_to_deliver'
+  - '#futures_contract_specifications'
+  - '#gilt_market'
+  - '#government_bond_futures'
+  - '#gross_basis'
+  - '#implied_repo_rate'
+  - '#net_basis'
+---
 # The Futures Bond Basis: government bond futures and basis  trading  
 
 # ABSTRACT  

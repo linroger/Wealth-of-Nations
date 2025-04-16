@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#bond_duration'
+  - '#currency_arbitrage'
+  - '#exchange_rate_exposure'
+  - '#fixed_income_instruments'
+  - '#forward_contracts'
+  - '#hedging'
+  - '#portfolio_immunization'
+  - '#purchase_power_parity'
+  - '#term_structure_interest_rates'
+---
 # Arbitrage and Hedging With Fixed Income Instruments and Currencies  
 
 # 8.1 ARBITRAGE WITH RISKLESS BONDS  

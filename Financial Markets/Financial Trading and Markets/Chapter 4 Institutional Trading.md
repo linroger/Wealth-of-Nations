@@ -1,3 +1,16 @@
+---
+tags:
+  - '#algorithmic_trading'
+  - '#best_execution'
+  - '#dark_pools'
+  - '#flash_trading'
+  - '#high_frequency_trading'
+  - '#institutional_trading'
+  - '#investment_companies'
+  - '#market_impact'
+  - '#sponsored_access'
+  - '#stealth_trading'
+---
 # Institutional Trading  
 
 # 4.1 INSTITUTIONS AND MARKET IMPACT  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#bond_pricing'
+  - '#forward_rates'
+  - '#interest_rate_expectations'
+  - '#jensens_inequality'
+  - '#term_structure'
+  - '#volatility_and_convexity'
+  - '#zero_coupon_bonds'
+---
 # 8.2 VOLATILITY AND CONVEXITY  
 
 While investors have expectations about future short-term rates, they recognize the limits of their analyses, that is, realized rates are assumed to fluctuate randomly around expectations. Continuing with the framework of the previous chapter, consider the binomial tree for the one-year rate in the top part. of Figure 8.1. The step size is one year, and the probabilities of all transitions are $50\%$ (not shown). The level of rates and their volatility is exaggerated in this tree to illustrate the concepts of this chapter. Note that the expected. value of the short-term rate in one year is $9\%$ , as is the expected short-term rate in two years,  

@@ -1,14 +1,22 @@
 ---
 aliases:
-- A Glossary of Technical Terms Related to Bankruptcy in the US
-- A Glossary of Technical Terms Related to Bankruptcy in the U
-- A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
+  - A Glossary of Technical Terms Related to Bankruptcy in the US
+  - A Glossary of Technical Terms Related to Bankruptcy in the U
+  - A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
 linter-yaml-title-alias: A Glossary of Technical Terms Related to Bankruptcy in the
   US
-tags:
-- 
-- 
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
+tags:
+  - '#absolute_priority'
+  - '#automatic_stay'
+  - '#chapter_11'
+  - '#chapter_7'
+  - '#debtor_in_possession_financing'
+  - '#impaired_claim'
+  - '#liquidation'
+  - '#plan_of_reorganization'
+  - '#reorganization'
+  - '#us_bankruptcy'
 ---
 # A Glossary of Technical Terms Related to Bankruptcy in the U.s
 

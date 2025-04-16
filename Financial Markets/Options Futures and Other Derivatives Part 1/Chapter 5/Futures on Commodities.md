@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#commodities'
+  - '#consumption_assets'
+  - '#convenience_yield'
+  - '#futures_contracts'
+  - '#gold_lease_rate'
+  - '#investment_assets'
+  - '#storage_costs'
+---
 # 5.11 FUTURES ON COMMODITIES  
 
 We now move on to consider futures contracts on commodities. First we look at the futures prices of commodities that are investment assets such as gold and silver.6 we then go on to examine the futures prices of consumption assets.  

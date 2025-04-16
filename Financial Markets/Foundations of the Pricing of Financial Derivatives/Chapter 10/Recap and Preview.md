@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#asset_pricing_models'
+  - '#black_scholes_merton_model'
+  - '#brownian_motion'
+  - '#financial_modeling'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#stochastic_calculus'
+  - '#wiener_process'
+---
 # 10.7 RECAP AND PREVIEW
 
 In this chapter, we introduced the basic Brownian motion and Wiener process. We did this on a very intuitive level. We identified certain desirable characteristics and, one by one, we. added features that introduced those characteristics without affecting the characteristics we had already built into the model. We ultimately obtained the stochastic process that. is widely used to model assets. We showed several of its properties, and we generated a simulation so you could get a feel for what these numbers look like..

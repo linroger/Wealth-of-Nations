@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#black_scholes_merton'
+  - '#call_option_pricing'
+  - '#capital_asset_pricing_model'
+  - '#complex_assets'
+  - '#expected_returns'
+  - '#financial_modeling'
+  - '#option_pricing_theory'
+  - '#pure_assets'
+  - '#state_preference_theory'
+---
 # 29.6 RECAP AND PREVIEW
 
 With the development of option pricing theory, state preference theory has stepped to the. back in the family of valuation models. Although, as we have seen here, state preference. theory is clearly consistent with option pricing theory, the implications of the latter are much easier to observe in the real world, and, hence, it has become more widely used in practice as well as in scholarly work. Keep in mind, however, that just as a biologist cannot. simply observe a specimen with the naked eye and expect to learn much about it, so must a serious student of finance observe the internal structure of the financial pricing process.. State preference theory provides the framework to accomplish that task..

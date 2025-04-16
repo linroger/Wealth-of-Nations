@@ -1,3 +1,15 @@
+---
+tags:
+  - '#30_year_mortgage'
+  - '#amortization_table'
+  - '#fixed_rate_mortgage_loans'
+  - '#interest_component'
+  - '#loan_rate'
+  - '#monthly_payments'
+  - '#mortgage_amortization'
+  - '#prepayment_option'
+  - '#principal_component'
+---
 # 15.2 FIXED-RATE MORTGAGE LOANS  
 
 Though terms of 10, 15, and 20 years are also available, the most common mortgage is a 30-year, fixed-rate, level payment mortgage. For example, a. homeowner might borrow $\$100,000$ from a bank at $4.5\%$ and agree to make payments of $\$506.6853$ every month for 30 years. (The extra decimal places are given to help the reader reproduce the calculations to follow.) The loan rate and the monthly payment are related by,.  

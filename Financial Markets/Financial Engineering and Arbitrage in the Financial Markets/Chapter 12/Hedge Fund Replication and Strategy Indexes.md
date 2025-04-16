@@ -1,3 +1,16 @@
+---
+tags:
+  - '#alternative_beta'
+  - '#factor_based_replication'
+  - '#hedge_fund_replication'
+  - '#hedge_fund_returns'
+  - '#pension_funds'
+  - '#private_equity'
+  - '#risk_budgeting'
+  - '#rule_based_replication'
+  - '#sovereign_funds'
+  - '#survivorship_bias'
+---
 # 12.3 HEDGE FUND REPLICATION AND STRATEGY INDEXES  
 
 The oft-quoted statistics of superior returns of the hedge funds over traditional investments suffer from two related problems. First, the number of funds launched and liquidated each year is very large. Fung and Hsieh (2009) point out that when hedge funds migrate from one database to another, or databases are merged, performance has to be supplied for early years (backfill) or the fund has to be deleted (survivorship). In 2008 about 1,500 funds were liquidated and 500 launched; in 2009 about 1,000 were liquidated and more than 500 new ones launched. While the average return may be higher than a passive index strategy, extreme. positive and negative surprises abound. How would an investor know in advance which fund to choose to be at or above average? The survivorship bias implies that each year many failed funds are excluded from the average calculation. We have no way of knowing what the average would be if we could include failures. And what if the high fees charged by the funds eat away any alpha over time? Arnott and West (2008) explore the erosion of gross returns of funds of funds by fees (asset-based plus carry). Bollen and Pool (2009) find evidence that funds use discretion in valuing illiquid securities to temporarily overstate their returns. Bollen and Whaley (2009) show the errors produced trying to estimate alpha, when the benchmark constantly moves (shift in asset classes, strategies and leverage). Hedge fund investors have to face the lack of transparency, high net worth requirements, lack of liquidity, and being shut out of many funds with good records as they close to new investors. There are also questions about the persistence of hedge fund returns. Brown et al. (1999) found no evidence of year-to-year persistence when controlling for survivorship bias. Agarwal and Naik (2o00) found persistence in the 1982-98 period, attributing it to superior mutual fund managers opening new hedge. funds. Agarwal et al. (2009) further suggested that funds with generous managerial optionlike incentives and discretion delivered better performance. Yet, similar to mutual funds, large. size and fund inflows seem to negatively affect subsequent performance. Boyson (2009) finds strongest persistence in younger and smaller funds, as a group outperforming older, larger ones by over $10\%$ . Most surveys show that investors shrug off these questions; the surveys cite. high fees and illiquidity topping the concern list. Other research into hedge fund performance has also documented a very high correlation of their returns with passive index strategies (with the exception of some long/short and most inflation focused funds). Could it be that hedge. fund investors get no superior returns, get no benefits of diversification, and suffer high fees?  

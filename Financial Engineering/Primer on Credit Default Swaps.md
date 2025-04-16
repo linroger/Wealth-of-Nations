@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds_valuation'
+  - '#corporate_bonds'
+  - '#counterparty_risk'
+  - '#credit_default_swaps'
+  - '#credit_spreads'
+  - '#default_probability'
+  - '#financial_markets'
+  - '#floating_rate_notes'
+  - '#leveraged_positions'
+  - '#risk_management'
+---
 # A PRIMER ON CREDIT DEFAULT SWAPS (CDS)  
 
 Thomas S. Coleman, PhD Close Mountain Advisors LLC tcoleman@closemountain.com  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asian_option'
+  - '#bloomberg_analytics'
+  - '#call_option'
+  - '#equity_linked_note'
+  - '#option_premium'
+  - '#principal_guaranteed_structures'
+  - '#quanto_option'
+  - '#variable_participation'
+  - '#zero_coupon_bond'
+---
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures
 

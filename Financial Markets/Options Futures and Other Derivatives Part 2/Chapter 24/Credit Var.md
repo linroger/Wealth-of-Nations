@@ -1,3 +1,15 @@
+---
+tags:
+  - '#collateralized_debt_obligation'
+  - '#credit_default_swap'
+  - '#credit_derivatives'
+  - '#credit_var'
+  - '#creditmetrics'
+  - '#cva_dva'
+  - '#default_probability'
+  - '#gaussian_copula_model'
+  - '#risk_neutral_probabilities'
+---
 # 24.9 CREDIT VaR  
 
 Credit value at risk can be defined analogously to the way value at risk is defined for market risks (see Chapter 22). For example, a credit VaR with a confidence level of $99.9\%$ and a 1-year time horizon is the credit loss that we are $99.9\%$ confident will not be exceeded over 1 year.  

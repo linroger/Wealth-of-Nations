@@ -1,3 +1,15 @@
+---
+tags:
+  - '#adverse_selection'
+  - '#dealer_inventories'
+  - '#dealer_spread'
+  - '#glosten_milgrom_model'
+  - '#information_asymmetry'
+  - '#kyle_model'
+  - '#liquidity'
+  - '#market_microstructure'
+  - '#noise_traders'
+---
 # Adverse Selection, Trading, and Liquidity  
 
 # 6.1 MARKET MICRO STRUCTURE, LIQUIDITY, AND SPREADS  

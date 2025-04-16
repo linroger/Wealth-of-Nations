@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bid_ask_spreads'
+  - '#convexity_differences'
+  - '#eurocurrency_futures'
+  - '#eurodollar_futures'
+  - '#fra_contracts'
+  - '#hedging_strategies'
+  - '#interest_rate_risk'
+  - '#libor'
+  - '#mark_to_market'
+  - '#ted_spread'
+---
 # 3.9 FUTURES: EUROCURRENCY CONTRACTS  
 
 Forward loans do not trade in the OTC market because FRAs are much more cost-effective Eurocurrency futures are another attractive alternative. In this section, we discuss Eurocurrency futures using the Eurodollar (ED) futures as an example and then compare it with FRA contracts. This comparison illustrates some interesting aspects of successful contract design in finance.  

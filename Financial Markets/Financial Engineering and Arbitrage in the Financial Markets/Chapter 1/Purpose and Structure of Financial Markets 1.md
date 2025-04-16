@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#financial_institutions'
+  - '#financial_markets'
+  - '#hedgers_vs_speculators'
+  - '#market_players'
+  - '#primary_markets'
+  - '#risk_sharing'
+  - '#secondary_markets'
+---
 # 1 Purpose and Structure of Financial Markets 1  
 
 1.1 Overview of Financial Markets 1   

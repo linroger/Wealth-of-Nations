@@ -1,14 +1,9 @@
 ---
 title: Week 7
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financialanalysis"
-  - "#valuationanalysis"
-  - "#cost-of-capital"
-  - "#private-firms"
-  - "#case-assignment"
+  - '#waypoint'
+  - '#week_7'
 ---
-
 # Week 7
 %% Begin Waypoint %%
 - **[[Week 7]]**

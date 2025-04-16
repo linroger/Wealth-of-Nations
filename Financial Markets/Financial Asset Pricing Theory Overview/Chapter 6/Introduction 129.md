@@ -1,3 +1,16 @@
+---
+tags:
+  - '#continuous_time_framework'
+  - '#discrete_time_framework'
+  - '#dynamic_programming'
+  - '#epstein_zin_recursive_utility'
+  - '#general_utility_index'
+  - '#habit_formation_utility'
+  - '#mean_variance_analysis'
+  - '#non_additive_expected_utility'
+  - '#optimal_portfolios'
+  - '#time_additive_expected_utility'
+---
 # 6.1 Introduction . 129  
 
 6.2 The one-period framework . 129   

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_model'
+  - '#call_options'
+  - '#multiperiod_model'
+  - '#option_pricing'
+  - '#put_options'
+  - '#recombining_tree'
+  - '#risk_neutral_probabilities'
+  - '#two_period_binomial_model'
+---
 # 7.4 THE MULTIPERIOD MODEL
 
 The case we have covered until now spans only one period. We can easily extend the model. to multiple periods and thereby accommodate options with longer lives.3 The layout is illustrated in Figure 7.6. We let the asset move from $S u$ to $S u^{2}$ or Sud, and from. $S d$ to $S d u$ or $S d^{2}$ . Note that $S u d=S d u$ , so over two periods, there are three possible outcomes. The asset can go up twice to $S u^{2}$ , up and then down or down and then up to. $S u d_{;}$ or down twice to $S d^{2}$ . The call and put option payoffs in those states are4.

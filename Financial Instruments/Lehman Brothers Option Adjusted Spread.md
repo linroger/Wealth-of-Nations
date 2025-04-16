@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_karasinsky_model'
+  - '#bond_implied_cds_spread'
+  - '#callable_bonds'
+  - '#credit_default_swap_cds'
+  - '#credit_risk_assessment'
+  - '#option_adjusted_spread_oas'
+  - '#stochastic_term_structure_model'
+  - '#volatility_skew'
+  - '#z_spread'
+---
 # Fixed Income Quantitative Credit Research  
 
 February 27, 2006  

@@ -1,17 +1,19 @@
 ---
 title: JP Morgan-Variance Swaps
 aliases: []
-tags:
-  - "#finance"
-  - "#financial-derivatives"
-  - "#risk-management"
-  - "#volatility"
-  - "#variance-swaps"
-  - "#volatility-trading"
-  - "#hedging-strategies"
 cssclasses: academia
+tags:
+  - '#convexity'
+  - '#delta_hedging'
+  - '#hedging'
+  - '#replication'
+  - '#skew'
+  - '#term_structure'
+  - '#variance_swaps'
+  - '#volatility'
+  - '#volatility_risk_premium'
+  - '#volatility_trading'
 ---
-
 # JP Morgan-Variance Swaps
 
 [[JP Morgan-Variance Swaps|Variance Swaps]]

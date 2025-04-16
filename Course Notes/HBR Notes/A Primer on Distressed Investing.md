@@ -2,12 +2,20 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases: 
-tags:
-  - Primers/Notes
+aliases:
 title: A Primer on Distressed Investing
+tags:
+  - '#bankruptcy'
+  - '#capital_structure'
+  - '#corporate_restructuring'
+  - '#debt_claims'
+  - '#distressed_investing'
+  - '#enterprise_value'
+  - '#holdout_problem'
+  - '#home_max_inc'
+  - '#restructuring_process'
+  - '#vulture_investing'
 ---
-
 # A Primer on Distressed Investing
 
 [[A Primer on Distressed Investing|Distressed Debt]]

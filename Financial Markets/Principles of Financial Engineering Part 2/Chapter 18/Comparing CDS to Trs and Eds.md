@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds_vs_trs_eds_comparison'
+  - '#credit_default_swaps_cds'
+  - '#credit_derivatives'
+  - '#default_risk'
+  - '#equity_default_swaps_eds'
+  - '#equity_derivatives'
+  - '#market_risk'
+  - '#protection_buyer'
+  - '#protection_seller'
+  - '#total_return_swaps_trs'
+---
 # 18.8 COMPARING CDS TO TRS AND EDS  
 
 To appreciate the nuances of CDS it is helpful to compare them to different but related products.  

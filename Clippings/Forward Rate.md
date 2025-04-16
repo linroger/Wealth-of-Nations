@@ -1,9 +1,18 @@
 ---
-title: "Forward Rate"
-source: "https://www.investopedia.com/terms/f/forwardrate.asp"
-description: "A forward rate is an interest rate applicable to a financial transaction that will take place in the future. Forward rates are calculated from the spot rate and are adjusted for the cost of carry."
+title: Forward Rate
+source: https://www.investopedia.com/terms/f/forwardrate.asp
+description: A forward rate is an interest rate applicable to a financial transaction
+  that will take place in the future. Forward rates are calculated from the spot rate
+  and are adjusted for the cost of carry.
 tags:
-  - "clippings"
+  - '#currency_exchange_rates'
+  - '#financial_hedging'
+  - '#financial_instruments'
+  - '#forward_rates'
+  - '#interest_rates'
+  - '#market_expectations'
+  - '#risk_management'
+  - '#spot_rates'
 ---
 Definition
 

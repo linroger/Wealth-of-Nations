@@ -1,3 +1,16 @@
+---
+tags:
+  - '#alternative_trading_systems'
+  - '#credit_ratings'
+  - '#currency_exchange'
+  - '#fixed_income_securities'
+  - '#futures_contracts'
+  - '#new_york_stock_exchange'
+  - '#over_the_counter_markets'
+  - '#securities_markets'
+  - '#stock_exchanges'
+  - '#swap_execution_facilities'
+---
 # Securities Markets  
 
 # 2.1 EXCHANGES AND FLOOR MARKETS  

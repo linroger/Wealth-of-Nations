@@ -1,3 +1,15 @@
+---
+tags:
+  - '#conditional_expectation'
+  - '#conditional_probabilities'
+  - '#information_filtration'
+  - '#information_flow'
+  - '#law_of_iterated_expectations'
+  - '#multi_period_model'
+  - '#multinomial_tree'
+  - '#partitions'
+  - '#state_space'
+---
 # 2.3 Information  
 
 In a one-period model all uncertainty is resolved at time $t=1$ .At time $0$ we only know that the true state is an element in $\Omega$ . At time 1 we know exactly which state has been realized. In a multi-period model the uncertainty is gradually resolved. Investors will gradually know more. and more about the true state. For example, the dividends of assets at a given point in time are typically unknown before that time, but known afterwards. The consumption and investment. decisions taken by individuals at a given point in time will depend on the available information at. that time and therefore asset prices will also depend on the information known. We will therefore have to consider how to formally represent the flow of information through time.  

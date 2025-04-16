@@ -1,3 +1,14 @@
+---
+tags:
+  - '#abm_arithmetic_drift'
+  - '#abm_geometric_drift'
+  - '#asset_price_change'
+  - '#asset_value'
+  - '#expected_price_change'
+  - '#normal_distribution'
+  - '#price_change_variance'
+  - '#stochastic_process'
+---
 # 12.2 A STOCHASTIC PROCESS FOR THE ASSET PRICE CHANGE
 
 The price change on the asset from a starting point of time 0 to a point of time $d t$ is simply the dollar change or5

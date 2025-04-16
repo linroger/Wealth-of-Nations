@@ -1,3 +1,16 @@
+---
+tags:
+  - '#behavioral_finance'
+  - '#cognitive_biases'
+  - '#framing_effect'
+  - '#herding_behavior'
+  - '#market_efficiency'
+  - '#myopic_loss_aversion'
+  - '#neuro_finance'
+  - '#overconfidence'
+  - '#prospect_theory'
+  - '#rational_investor'
+---
 # The Mind of the Investor  
 
 # 11.1 RATIONAL INVESTOR PARADIGMS  

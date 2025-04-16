@@ -1,3 +1,13 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#dividend_yield'
+  - '#dividends'
+  - '#escrow_method'
+  - '#european_options'
+  - '#index_options'
+---
 # 9.4 DIVIDENDS
 
 The payment of dividends has the effect of lowering the expected growth rate of the stock based on the risk-neutral probability measure. Hence, solely increasing dividends will lower the call price and raise the put price. Thus, we need an efficient way to incorporate dividends into the Black-Scholes-Merton model for European options.

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_free_models'
+  - '#bond_market'
+  - '#bond_pricing'
+  - '#cox_ingersoll_ross_model'
+  - '#expectation_hypothesis'
+  - '#nominal_bonds'
+  - '#real_interest_rates'
+  - '#term_structure_of_interest_rates'
+  - '#vasicek_model'
+---
 # 10.1 Introduction  
 
 The previous two chapters focused on the implications of asset pricing models for the level of stock market excess returns and the cross-section of stock returns. This chapter focuses on the consequences of asset pricing theory for the pricing of bonds and the term structure of interest rates implied by bond prices.  

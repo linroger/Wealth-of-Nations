@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_price'
+  - '#asset_yield'
+  - '#continuous_compounding'
+  - '#forward_contract'
+  - '#known_yield'
+  - '#reinvestment_strategy'
+  - '#risk_free_rate'
+  - '#yield_calculation'
+---
 # 5.6 KNOWN YIELD  
 
 We now consider the situation where the asset underlying a forward contract provides a. known yield rather than a known cash income. This means that the income is known. when expressed as a percentage of the asset's price at the time the income is paid.. Suppose that an asset is expected to provide a yield of. $5\%$ per annum. This could mean. that income is paid once a year and is equal to. $5\%$ of the asset price at the time it is paid, in which case the yield would beo. $5\%$ with annual compounding. Alternatively, it could. mean that income is paid twice a year and is equal to. $2.5\%$ of the asset price at the time. it is paid, in which case the yield would be $5\%$ per annum with semiannual compounding. In Section 4.4 we explained that we will normally measure interest rates with continuous compounding. Similarly, we will normally measure yields with continuous. compounding. Formulas for translating a yield measured with one compounding frequency to a yield measured with another compounding frequency are the same as. those given for interest rates in Section 4.4..  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_backed_securities_abss'
+  - '#collateralized_debt_obligations_cdos'
+  - '#contingent_convertibles_cocos'
+  - '#credit_correlation'
+  - '#credit_indices'
+  - '#credit_structured_products'
+  - '#gfc_impact'
+  - '#securitization'
+---
 # 21.1 INTRODUCTION  
 
 In this chapter, we introduce securitization, asset-backed securities (ABSs) and the modeling of collateralized debt obligations (CDOs) as well as other credit structured products. We explain the eco-. nomic drivers of securitization, potential for misaligned interests, and the role of securitization in the run-up to the GFC. The securitization and CDO market has rebounded in recent years and we offer an outlook for these markets based on recent regulatory developments. The chapter also deals with credit indices, their implications in creating tranched securities..  

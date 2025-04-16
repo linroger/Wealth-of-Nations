@@ -6,17 +6,15 @@ aliases:
   - With Examples.md
   - With Examples.md
 tags:
-
-  - finance
-  - investmentanalysis
-  - financialanalysis
-  - operating-margin
-  - profitability-metrics
-  - business-efficiency
-  - "#financial-markets"
-  - "#financial-instruments"
-  - "#corporate-finance"
-  - "#profitability-analysis"
+  - '#business_efficiency'
+  - '#cost_of_goods_sold'
+  - '#ebit'
+  - '#financial_analysis'
+  - '#industry_comparison'
+  - '#net_sales'
+  - '#operating_margin'
+  - '#profit_margins'
+  - '#profitability_ratio'
 ---
 # Operating Margin
 

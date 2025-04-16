@@ -1,3 +1,16 @@
+---
+tags:
+  - '#allianz_global_investors'
+  - '#counterparty_risk'
+  - '#cppi_insurance_sector'
+  - '#guaranteed_products'
+  - '#icppi_products'
+  - '#insurance_product_innovation'
+  - '#rebalancing_costs'
+  - '#risk_management_insurance'
+  - '#unicredit_green'
+  - '#variable_annuity_products'
+---
 # 23.8 APPLICATION OF CPPI IN THE INSURANCE SECTOR: ICPPI  
 
 CPPI techniques continue to be applied in different financial sectors despite the turmoil related to credit-linked CPPI products during the GFC. One example of the application of CPPI techniques is the insurance sector. The difficult economic climate following the GFC also affected the insurance. sector and many insurance firm customers have become more cautious. There is still demand for guaranteed products that include upside participation. The UK's with profit or traditional variable annuity (VA) products typically included restrictions on protection levels and fund choices. Customers are now asking for less restrictive guaranteed products with upside participation. In response, insurance firms are exploring a variation on CPPI-type structures. Insurance companies compete with other financial services such as banks for long-term savings customers, but prefer not. to offer products that add risks to their own balance sheets or require expensive hedges based on derivatives. CPPI solutions have been applied in several countries' insurance sectors. In Japan, insurers employ them to match guarantees embedded in VA policies. In Germany they were popular in $2006{-}2007$ since they allowed insurers to circumvent restrictive investment rules for insurance companies that attempted to offer state-subsidised "Riester' pension products.  

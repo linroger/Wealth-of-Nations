@@ -1,3 +1,15 @@
+---
+tags:
+  - '#classic_repo'
+  - '#collateral_management'
+  - '#repo_collateral'
+  - '#repo_credit_risk'
+  - '#repo_dealer'
+  - '#repo_types'
+  - '#securities_lending'
+  - '#sell_and_buy_back'
+  - '#tri_party_repo'
+---
 # 5.3 TYPES OF REPO  
 
 The term "repo" is used for selling and then simultaneously repurchasing the same instrument. But in practice, this operation can be done in different ways, and these lead to slightly different repo. categories.  

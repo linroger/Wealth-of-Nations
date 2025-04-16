@@ -1,13 +1,24 @@
 ---
 cssclasses: academia
 Owner: RRoger Lin
-aliases: [Mutual Funds,  WHAT ARE MONEY MARKET FUNDS]
-created: null
+aliases:
+  - Mutual Funds
+  - WHAT ARE MONEY MARKET FUNDS
+created:
 linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
-tags: [Primers/Notes,  ]
 title: A Primer on Money Market Mutual Funds
+tags:
+  - '#debt_securities'
+  - '#fund_types'
+  - '#government_funds'
+  - '#investment_risks'
+  - '#investment_strategies'
+  - '#liquidity_risk'
+  - '#money_market_mutual_funds'
+  - '#municipal_funds'
+  - '#prime_funds'
+  - '#retail_vs_institutional'
 ---
-
 # A Primer on Money Market Mutual Funds
 
 [[A Primer on Money Market Mutual Funds|Money Market Funds]]

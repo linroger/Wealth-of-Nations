@@ -1,3 +1,15 @@
+---
+tags:
+  - '#antithetic_variable_technique'
+  - '#control_variate_technique'
+  - '#derivative_pricing'
+  - '#importance_sampling'
+  - '#moment_matching'
+  - '#monte_carlo_simulation'
+  - '#quasi_random_sequences'
+  - '#stratified_sampling'
+  - '#variance_reduction_procedures'
+---
 # 21.7 VARIANCE REDUCTION PROCEDURES  
 
 If the stochastic processes for the variables underlying a derivative are simulated as. indicated in equations (21.13) to (21.18), a very large number of trials is usually  

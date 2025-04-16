@@ -1,3 +1,13 @@
+---
+tags:
+  - '#moneyness'
+  - '#option_expirations'
+  - '#option_series'
+  - '#smile_dynamics'
+  - '#smile_explanation'
+  - '#underlying_asset'
+  - '#volatility_smile'
+---
 # 16.12 SMILE DYNAMICS  
 
 There are at least two types of smile "dynamics.' In the first, we would fix the time parameter. $t$ and consider options with longer and longer expirations,. $T.$ In the second case, we would keep $T$ constant, but let time $t$ pass and study how changes in various factors affect the volatility smile. In particular, we can observe if changes in $S_{t}$ affect the smile when the moneyness. $K_{i}/S_{t}$ is kept constant.  

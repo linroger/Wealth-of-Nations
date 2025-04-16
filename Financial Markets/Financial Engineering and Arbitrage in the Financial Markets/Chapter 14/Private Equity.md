@@ -1,3 +1,16 @@
+---
+tags:
+  - '#exit_strategies'
+  - '#ipo'
+  - '#j_curve'
+  - '#leverage_buyout'
+  - '#limited_partnership'
+  - '#mezzanine_capital'
+  - '#private_equity'
+  - '#private_equity_funds'
+  - '#secondary_sales'
+  - '#venture_capital'
+---
 # 14.1  PRIVATE EQUITY  
 
 Private equity firms have generally two ways to raise funds when acquiring a company. One, common in taking a publicly traded company private, is to have the acquired  

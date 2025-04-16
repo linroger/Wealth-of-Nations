@@ -1,3 +1,16 @@
+---
+tags:
+  - '#advanced_derivatives_pricing'
+  - '#black_scholes_model'
+  - '#delta_hedging'
+  - '#gamma_hedging'
+  - '#implied_volatility'
+  - '#market_completeness'
+  - '#no_arbitrage_models'
+  - '#risk_neutral_valuation'
+  - '#stochastic_volatility'
+  - '#vega_hedging'
+---
 # Overview  
 
 

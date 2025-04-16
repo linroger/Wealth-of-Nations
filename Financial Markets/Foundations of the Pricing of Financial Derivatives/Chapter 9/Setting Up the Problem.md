@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_coefficient'
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#call_options'
+  - '#discrete_vs_continuous_discounting'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#put_options'
+  - '#risk_neutral_probability'
+---
 # 9.1 SETTING UP THE PROBLEM
 
 We start with our ultimate objective, the Black-Scholes-Merton model for calls and puts,

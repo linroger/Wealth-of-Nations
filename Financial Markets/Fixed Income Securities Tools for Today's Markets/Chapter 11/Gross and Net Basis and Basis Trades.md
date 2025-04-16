@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_trade'
+  - '#conversion_factor'
+  - '#ctd'
+  - '#deliverable_bond'
+  - '#futures_contract'
+  - '#gross_basis'
+  - '#net_basis'
+  - '#p_and_l'
+  - '#repo_rate'
+  - '#tyu1'
+---
 # 11.9 GROSS AND NET BASIS AND BASIS TRADES  
 
 The gross basis and net basis of a deliverable bond measure the difference between the price of that bond and the relevant futures contract. The gross basis of a bond is convenient for quoting the prices of packages, that is,  

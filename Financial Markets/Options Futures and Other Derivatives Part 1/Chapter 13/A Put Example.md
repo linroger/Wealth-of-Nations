@@ -1,3 +1,12 @@
+---
+tags:
+  - '#european_put_option'
+  - '#option_valuation'
+  - '#put_option_pricing'
+  - '#risk_neutral_probability'
+  - '#stock_price_movement'
+  - '#two_step_tree'
+---
 # 13.4  A PUT EXAMPLE  
 
 The procedures described in this chapter can be used to price puts as well as calls. Consider a 2-year European put with a strike price of. $\$52$ on a stock whose current price is $\$50$ . We suppose that there are two time steps of 1 year, and in each time step. the stock price either moves up by. $20\%$ or moves down by $20\%$ . We also suppose that the risk-free interest rate is $5\%$  

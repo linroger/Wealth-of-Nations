@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cash_and_carry_arbitrage'
+  - '#contractual_equations'
+  - '#repo_rates'
+  - '#repo_strategies'
+  - '#swap_spreads'
+  - '#synthetic_forwards'
+  - '#synthetic_outright_purchase'
+  - '#synthetic_repo_transactions'
+  - '#treasury_bonds'
+---
 # 5.6 SYNTHETICS USING REPOS  
 
 We will now analyze repo strategies by using contractual equations that we introduced in previous chapters. We show several examples. The first example deals with using repos in cash-and-carry arbitrage, we then manipulate the resulting contractual equations to get further synthetics.  

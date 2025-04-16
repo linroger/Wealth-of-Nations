@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cash_settlement'
+  - '#delivery_procedures'
+  - '#delivery_process'
+  - '#first_notice_day'
+  - '#futures_contracts'
+  - '#last_notice_day'
+  - '#last_trading_day'
+  - '#notice_of_intention_to_deliver'
+  - '#underlying_asset'
+---
 # 2.7 DELIVERY  
 
 As mentioned earlier in this chapter, very few of the futures contracts that are entered. into lead to delivery of the underlying asset. Most are closed out early. Nevertheless, it is the possibility of eventual delivery that determines the futures price. An under-. standing of delivery procedures is therefore important..  

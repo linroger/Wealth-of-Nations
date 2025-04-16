@@ -1,3 +1,13 @@
+---
+tags:
+  - '#continuous_compounding'
+  - '#coupon_bond'
+  - '#coupon_payment'
+  - '#risk_free_bond'
+  - '#spot_rate'
+  - '#zero_coupon_interest_rate'
+  - '#zero_rate'
+---
 # 4.5 ZERO RATES  
 
 The $n$ -year zero-coupon interest rate is the rate of interest earned on an investment that starts today and lasts for $n$ years. All the interest and principal is realized at the end of $n$ years. There are no intermediate payments. The. $n$ -year zero-coupon interest rate is. sometimes also referred to as the $n$ -year spot rate, the $n$ -year zero rate, or just the $n$ -year zero. Suppose a 5-year zero rate with continuous compounding is quoted as $5\%$ per annum. This means that $\$100$ , if invested for 5 years, grows to.  

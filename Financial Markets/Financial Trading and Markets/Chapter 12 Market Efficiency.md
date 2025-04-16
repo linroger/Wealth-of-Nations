@@ -1,3 +1,16 @@
+---
+tags:
+  - '#anomalies'
+  - '#efficient_market_hypothesis'
+  - '#event_study'
+  - '#insider_trading'
+  - '#market_efficiency'
+  - '#prediction_markets'
+  - '#semistrong_form_efficiency'
+  - '#strong_form_efficiency'
+  - '#technical_analysis'
+  - '#weak_form_efficiency'
+---
 # Market Efficiency  
 
 # 12.1 INTRODUCTION TO MARKET EFFICIENCY  

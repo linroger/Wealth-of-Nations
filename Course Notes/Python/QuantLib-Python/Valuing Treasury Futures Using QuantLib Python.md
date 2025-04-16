@@ -1,10 +1,18 @@
 ---
 title: Valuing Treasury Futures Using QuantLib Python
-source: "http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html"
-description: "Provides an introduction to valuation of treasury futures contract in QuantLib Python."
-tags: ["clippings"]
+source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html
+description: Provides an introduction to valuation of treasury futures contract in
+  QuantLib Python.
+tags:
+  - '#cheapest_to_deliver'
+  - '#conversion_factor'
+  - '#futures_valuation'
+  - '#quantlib_python'
+  - '#treasury_futures'
+  - '#tyz5_futures'
+  - '#yield_curve_building'
+  - '#z_spread'
 ---
-
 # Valuing Treasury Futures Using QuantLib Python
 Provides an introduction to valuation of treasury futures contract in QuantLib Python.
 

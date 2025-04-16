@@ -6,26 +6,17 @@ aliases:
   - Greece Faces Bond Swap Holdouts
   - Greece Faces Bond Swap Holdouts.md
 linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
-tags:
-
-  - 
-  - debt-restructuring
-  - bond-swap
-  - Greece
-  - holdouts
-  - foreign-law-bonds
-  - participation-rate
-  - collective-action-clauses
-  - debt-burden
-  - default
-  - "#debt-management"
-  - "#financial-crises"
-  - "#international-finance"
-  - "#currency-crisis"
-  - "#debt-structuring"
 title: Greece Faces Bond Swap Holdouts
+tags:
+  - '#abn_amro'
+  - '#bond_swap_holdouts'
+  - '#collective_action_clauses'
+  - '#debt_burden_reduction'
+  - '#debt_restructuring_deal'
+  - '#foreign_law_bonds'
+  - '#greece_bond_swap'
+  - '#participation_rate'
 ---
-
 # Greece Faces Bond Swap Holdouts
 
 ## Abstract

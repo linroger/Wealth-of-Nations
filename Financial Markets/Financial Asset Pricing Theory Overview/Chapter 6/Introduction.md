@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#consumption_based_asset_pricing'
+  - '#dynamic_programming'
+  - '#marginal_utility_of_consumption'
+  - '#market_equilibrium'
+  - '#portfolio_decisions'
+  - '#state_price_deflator'
+  - '#utility_maximization'
+---
 # 6.1 Introduction  
 
 Chapter 4 discussed how the general pricing mechanism of a financial market can be represented. by a state-price deflator. Given a state-price deflator we can price all state-contingent dividends.. Conversely, given the market prices of state-contingent dividends we can extract one or several. state-price deflators. Market prices and hence the state-price deflator(s) are determined by the supply and demand of the individuals in the economy. Therefore, we have to study the portfolio decisions of individuals. This is the topic of the present chapter. In the next chapter we will then discuss market equilibrium.  

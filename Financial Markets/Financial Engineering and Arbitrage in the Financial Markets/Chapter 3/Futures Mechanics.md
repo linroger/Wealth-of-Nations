@@ -1,3 +1,16 @@
+---
+tags:
+  - '#currency_futures'
+  - '#eurocurrency_futures'
+  - '#futures_mechanics'
+  - '#fx_forwards'
+  - '#interest_rate_futures'
+  - '#libor'
+  - '#marking_to_market'
+  - '#physical_commodity_futures'
+  - '#stock_index_futures'
+  - '#variation_margin'
+---
 # 3.2 FUTURES MECHANICS  
 
 We will review the mechanics of futures trading and marking-to-market starting with physical commodities. This is an intuitive case: each contract represents a defined quantity of the commodity and the variation margin per contract settles the price change times the quantity of the commodity. Next, we move to interest rate futures where there is no "quantity, but the contract multiplier is chosen to mimic the settlement of interest payments on a principal amount. We will then cover stock indexes where the multiplier is an arbitrary number converting index points to dollars, but can be interpreted as defining the dollar amount of stocks in the cashand-carry arbitrage. Lastly, we will cover currencies. Currencies are physical commodities; contract sizes are defined with standard quantities..  

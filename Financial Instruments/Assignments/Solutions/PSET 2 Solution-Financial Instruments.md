@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: PSET 2 Solution-Financial Instruments
+tags:
+  - '#bond_valuation'
+  - '#bootstrap_procedure'
+  - '#convexity'
+  - '#duration'
+  - '#financial_instruments'
+  - '#interest_rate_sensitivity'
+  - '#inverse_floater'
+  - '#pset_2_solution'
+  - '#term_structure'
+  - '#yield_curve'
 ---
 ---
 

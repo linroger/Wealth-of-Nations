@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_framework'
+  - '#bond_issuer'
+  - '#bond_pricing'
+  - '#bond_valuation'
+  - '#bondholder_risk'
+  - '#call_period'
+  - '#call_price'
+  - '#callable_bond'
+  - '#interest_rates'
+---
 # 28.5 CALLABLE BONDS
 
 A callable bond is a bond in which the issuer can choose to retire the bond early. This is sometimes done because interest rates have fallen, and a new bond can be issued at a lower rate. There are naturally some costs associated with retiring one bond and issuing another, but these costs can often be far less than the savings from issuing a bond at a lower interest rate. Firms might also retire bonds when they have unexpected available cash that can be used to pay off the remaining amount owed. A callable bond has a call price embedded in it, which is represented by the amount that is paid off to retire it. This price will often be the face value plus some additional interest, which compensates the bond holders for the inconvenience of having their investment prematurely terminated. In addition, the bondholder has to find another investment in an environment in which rates are lower. A callable bond will also have a call period, which means that it cannot be called before one date, nor after another, though the latter might simply be the maturity.

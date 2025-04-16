@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Markets Session 3
+tags:
+  - '#basis_arbitrage'
+  - '#bond_pricing'
+  - '#calibration_model'
+  - '#cds_pricing'
+  - '#credit_risk_valuation'
+  - '#default_probabilities'
+  - '#hazard_rate_model'
+  - '#isda_cds_model'
+  - '#model_edges'
+  - '#yield_spread_model'
 ---
 # Credit Markets Session 3
 1. CDS pricing in the Hazard Rate Model

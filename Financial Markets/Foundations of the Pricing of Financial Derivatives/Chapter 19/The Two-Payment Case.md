@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_call_option'
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#critical_stock_price'
+  - '#dividend_payments'
+  - '#early_exercise'
+  - '#multivariate_normal_probability'
+  - '#two_payment_case'
+---
 # 19.2 THE TWO-PAYMENT CASE
 
 The single dividend model has been extended to cover the case of two known payments.

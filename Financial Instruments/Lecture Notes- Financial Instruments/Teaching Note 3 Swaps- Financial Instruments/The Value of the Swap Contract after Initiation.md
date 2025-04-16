@@ -1,11 +1,17 @@
 ---
 aliases:
-- 
-- 
+  - 
+  - 
 tags:
-- 
+  - '#convexity_bias'
+  - '#eurodollar_futures'
+  - '#fx_swap_hedging'
+  - '#hedge_tailoring'
+  - '#interest_rate_risk_management'
+  - '#plain_vanilla_fx_swaps'
+  - '#swap_contract_value'
+  - '#swap_rate_determination'
 ---
-
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

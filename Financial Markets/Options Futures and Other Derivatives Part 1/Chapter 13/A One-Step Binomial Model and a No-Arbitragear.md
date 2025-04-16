@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#no_arbitrage_argument'
+  - '#one_step_binomial_model'
+  - '#option_delta'
+  - '#option_pricing_formula'
+  - '#riskless_portfolio'
+  - '#stock_option_pricing'
+  - '#stock_price_movements'
+---
 # 13.1 A ONE-STEP BINOMIAL MODEL AND A NO-ARBITRAGEARGUMENT  
 
 We start by considering a very simple situation. A stock price is currently $\$20$ , and it is. known that at the end of 3 months it will be either $\$22$ or $\$18$ We are interested in. valuing a European call option to buy the stock for $\$21$ in 3 months. This option will have one of two values at the end of the 3 months. If the stock price turns out to be $\$22$ the value of the option will be $\$1$ ; if the stock price turns out to be $\$18$ , the value of the. option will be zero. The situation is illustrated in Figure 13.1.  

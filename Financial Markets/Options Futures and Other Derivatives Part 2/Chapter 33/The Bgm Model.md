@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bermudan_swap_options'
+  - '#bgm_model'
+  - '#calibration'
+  - '#european_swap_options'
+  - '#forward_rate_volatility'
+  - '#interest_rate_derivatives'
+  - '#libor_market_model'
+  - '#monte_carlo_simulation'
+  - '#nonstandard_caps'
+  - '#volatility_skew'
+---
 # 33.2 THE BGM MODEL  
 
 One drawback of the HJM model is that it is expressed in terms of instantaneous forward rates and these are not directly observable in the market. Another related drawback is that it is difficult to calibrate the model to prices of actively traded instruments. This has led Brace, Gatarek, and Musiela (BGM), Jamshidian, and Miltersen, Sandmann, and Sondermann to propose an alternative.4 At the time the. model was developed, LIBOR was commonly used for both discounting and defining. payoffs. For this reason it was termed the LIBOR market model. However, the same. approach can be used to model risk-free rates determined from overnight indexed swaps..  

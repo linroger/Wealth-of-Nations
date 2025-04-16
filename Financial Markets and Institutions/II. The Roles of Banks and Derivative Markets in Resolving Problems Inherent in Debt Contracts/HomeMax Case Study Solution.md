@@ -4,30 +4,19 @@ cssclasses:
 aliases:
   - HomeMax Case Study Solution.md
   - HomeMax Case Study Solution
-tags:
-
-  - 
-  - HomeMax
-  - CaseStudy
-  - DistressedDebtInvesting
-  - RestructuringPlan
-  - FinancialAnalysis
-  - StakeholderNegotiations
-  - CapitalStructure
-  - ValuationAnalysis
-  - BalanceSheetRestructuring
-  - DebtRecovery
-  - "#debt-management"
-  - "#financial-crises"
-  - "#debt-management-strategies"
-  - "#financialmarkets"
-  - "#risk-management"
-  - "#distressed-debt"
-  - "#restructuring-plans"
-  - "#stakeholder-negotiations"
 title: HomeMax Case Study Solution
+tags:
+  - '#capital_structure'
+  - '#debt_recovery'
+  - '#distressed_debt_investing'
+  - '#enterprise_value'
+  - '#financial_analysis'
+  - '#homemax_case_study'
+  - '#oaktree_capital'
+  - '#restructuring_plan'
+  - '#stakeholder_negotiations'
+  - '#valuation_analysis'
 ---
-
 # HomeMax Case Study Solution
 
 Comprehensive Walkthrough of HomeMax Inc. Case Study

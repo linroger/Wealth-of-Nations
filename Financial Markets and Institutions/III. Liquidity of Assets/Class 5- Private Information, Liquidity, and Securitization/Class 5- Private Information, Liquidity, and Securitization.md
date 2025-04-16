@@ -1,10 +1,16 @@
 ---
-aliases: [Private Information,     Liquidity,     and Securitization]
+aliases:
+  - Private Information
+  - Liquidity
+  - and Securitization
 linter-yaml-title-alias: Class 5 Private Information,     Liquidity,     and Securitization
-tags: []
 title: Class 5Private Information,  Liquidity,  and Securitization
+tags:
+  - '#liquidity'
+  - '#liquidity_management'
+  - '#private_information'
+  - '#securitization'
 ---
-
 # Class 5Private Information,  Liquidity,  and Securitization
 %% Begin Waypoint %%
 - **[[Class 5- Private Information, Liquidity, and Securitization]]**

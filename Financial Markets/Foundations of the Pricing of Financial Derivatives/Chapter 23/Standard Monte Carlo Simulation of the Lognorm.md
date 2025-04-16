@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_price_simulation'
+  - '#black_scholes_merton_model'
+  - '#european_call_option'
+  - '#excel_rand_function'
+  - '#lognormal_diffusion'
+  - '#monte_carlo_simulation'
+  - '#option_pricing'
+  - '#risk_neutral_measure'
+  - '#simulation_error'
+  - '#standard_normal_random_variable'
+---
 # 23.1 STANDARD MONTE CARLO SIMULATION OF THE LOGNORMAL DIFFUSION
 
 Recall that the Black-Scholes-Merton model is based on geometric Brownian motion with risk-neutral growth of the underlying asset,.

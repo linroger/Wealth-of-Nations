@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_price'
+  - '#black_scholes_merton_model'
+  - '#continuous_dividends'
+  - '#dividend_yield'
+  - '#dividends'
+  - '#holding_costs'
+  - '#option_pricing'
+  - '#storage_costs'
+---
 # 13.6 BLACK-SCHOLES-MERTON OPTION PRICING WHEN THERE ARE DIVIDENDS
 
 Recall in Chapter 2 that we examined the boundary conditions for option pricing with. and without dividends. In almost every situation, we subtracted the present value of the dividends, $D_{t}$ , from the asset price. We also discussed how this consideration comes into. play in the binomial model, as covered in Chapter 7. Whenever we subtract the present. value of the dividends over the life of the option, we are assuming that the dividends over. the life of the option are known. Hence, when we are interested in pricing an option in a continuous time world, the stochastic process followed by the asset price, Equation (13.1), can apply only to the value of the asset price minus the present value of the dividends. Without going through the derivation again, we will just say that the Black-Scholes-Merton formula for calls and puts requires a small adjustment, which is that the asset price, $S_{t}$ , must represent the asset price minus the present value of the dividends.

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#combinations_strategy'
+  - '#european_options'
+  - '#options_trading'
+  - '#profit_pattern'
+  - '#risk_management'
+  - '#straddle'
+  - '#strangle'
+  - '#strike_price'
+  - '#strip_strap'
+---
 # 12.4 COMBINATIONS  
 
 A combination is an option trading strategy that involves taking a position in both calls and puts on the same stock. We will consider straddles, strips, straps, and strangles.  

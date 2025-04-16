@@ -1,6 +1,13 @@
 ---
-tags: [academia, finance, economics, fixed-income]
-aliases: [Fixed Income Asset Pricing Overview]
+aliases:
+  - Fixed Income Asset Pricing Overview
+tags:
+  - '#financial_markets'
+  - '#fixed_income_asset_pricing'
+  - '#fixed_income_securities'
+  - '#handbook_of_fixed_income'
+  - '#problem_sets'
+  - '#securities_analysis'
 ---
 # Fixed Income Asset Pricing
 This document serves as a comprehensive resource for understanding fixed income asset pricing, covering various critical topics in financial markets and securities analysis.

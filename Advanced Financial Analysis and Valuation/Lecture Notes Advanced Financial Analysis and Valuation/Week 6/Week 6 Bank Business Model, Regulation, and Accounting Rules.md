@@ -1,15 +1,16 @@
 ---
 aliases:
 tags:
-
-  - "#banking"
-  - "#risk-management"
-  - "#regulation"
-  - "#financial-analysis"
-  - "#credit-risk"
-  - "#bank-business-model"
-  - "#loan-loss-provisions"
-  - "#bank-regulation"
+  - '#bank_business_model'
+  - '#bank_regulation'
+  - '#basel_iii'
+  - '#cecl'
+  - '#cyclicality_in_loan_losses'
+  - '#expected_credit_loss'
+  - '#ifrs_9'
+  - '#loan_loss_provisioning'
+  - '#regulatory_capital'
+  - '#risk_weighted_assets'
 ---
 Banks: Business Model, Regulation and Accounting Rules
 

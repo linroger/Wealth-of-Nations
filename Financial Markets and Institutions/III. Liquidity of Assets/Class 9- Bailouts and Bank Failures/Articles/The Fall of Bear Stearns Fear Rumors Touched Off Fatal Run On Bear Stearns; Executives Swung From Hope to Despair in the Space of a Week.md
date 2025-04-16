@@ -1,14 +1,21 @@
 ---
 aliases:
-- The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
-  Executives Swung From Hope to Despair in the Space of a Week.md
-- The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear
-  Stearns; Executives Swung From Hope to Despair in the Space of a Week
-tags:
-- 
-- 
+  - The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives
+    Swung From Hope to Despair in the Space of a Week.md
+  - The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives
+    Swung From Hope to Despair in the Space of a Week
 title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
   Executives Swung From Hope to Despair in the Space of a Week
+tags:
+  - '#alan_schwartz'
+  - '#bear_stearns_collapse'
+  - '#credit_default_swaps'
+  - '#federal_reserve'
+  - '#financial_crisis_2008'
+  - '#hedge_funds'
+  - '#jp_morgan_chase'
+  - '#market_liquidity'
+  - '#run_on_the_bank'
 ---
 # The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
 

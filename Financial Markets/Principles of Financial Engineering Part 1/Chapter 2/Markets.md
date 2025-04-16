@@ -1,3 +1,16 @@
+---
+tags:
+  - '#central_clearing'
+  - '#derivatives_markets'
+  - '#euromarkets'
+  - '#financial_regulation'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#gfc_impact'
+  - '#marking_to_market'
+  - '#onshore_markets'
+  - '#otc_markets'
+---
 # 2.2 MARKETS  
 
 The first distinction is between local and Euromarkets. Local markets are also called onshore markets.   

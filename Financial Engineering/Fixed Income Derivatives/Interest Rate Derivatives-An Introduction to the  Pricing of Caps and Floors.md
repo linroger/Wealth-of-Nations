@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#bloomberg_analytics'
+  - '#caps_and_floors'
+  - '#implied_volatility'
+  - '#interest_rate_derivatives'
+  - '#interest_rate_options'
+  - '#libor'
+  - '#option_pricing'
+  - '#risk_neutral_pricing'
+  - '#volatility_estimation'
+---
 # Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors
 # Abstract
 

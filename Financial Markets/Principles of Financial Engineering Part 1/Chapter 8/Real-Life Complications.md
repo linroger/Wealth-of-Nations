@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bid_ask_spreads'
+  - '#dynamic_replication'
+  - '#liquidity_risk'
+  - '#model_risk'
+  - '#operational_costs'
+  - '#static_replication'
+  - '#transaction_costs'
+  - '#volatility_changes'
+---
 # 8.7 REAL-LIFE COMPLICATIONS  
 
 Real-life complications make dynamic replication a much more fragile exercise than static replication. The problems that are encountered in static replication are well known. There are operational problems, counterparty risk, and the theoretically exact synthetics may not be identical to the original asset. There are also liquidity problems and other transaction costs. But, all these are relatively minor and in the end, static replicating portfolios used in practice generally provide good synthetics.  

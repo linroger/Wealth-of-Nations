@@ -1,3 +1,16 @@
+---
+tags:
+  - '#accrual_swaps'
+  - '#bermudan_swaption'
+  - '#cancelable_swaps'
+  - '#compounding_swaps'
+  - '#embedded_options'
+  - '#european_swaption'
+  - '#interest_rate_swaps'
+  - '#risk_free_rate'
+  - '#sofr'
+  - '#swap_valuation'
+---
 # 34.5 SWAPS WITH EMBEDDED OPTIONS  
 
 Some swaps contain embedded options. In this section we consider some commonly encountered examples.  

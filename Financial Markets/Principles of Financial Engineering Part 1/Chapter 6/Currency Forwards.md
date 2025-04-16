@@ -1,3 +1,15 @@
+---
+tags:
+  - '#credit_risk'
+  - '#currency_forwards'
+  - '#financial_engineering'
+  - '#fx_forward'
+  - '#hedging'
+  - '#money_market_instruments'
+  - '#risk_management'
+  - '#synthetic_instruments'
+  - '#treasury_bills'
+---
 # 6.2 CURRENCY FORWARDS  
 
 Currency forwards are very liquid instruments. Although they are elementary, they are used in a broad spectrum of financial engineering problems.  

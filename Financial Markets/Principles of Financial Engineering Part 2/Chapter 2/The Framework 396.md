@@ -1,3 +1,12 @@
+---
+tags:
+  - '#arbitrage_opportunity'
+  - '#framework'
+  - '#fundamental_theorem'
+  - '#payoff_matrix'
+  - '#state_prices'
+  - '#states_of_the_world'
+---
 # 2.3 The Framework. 396  
 
 12.3.1 States of the World. 396   

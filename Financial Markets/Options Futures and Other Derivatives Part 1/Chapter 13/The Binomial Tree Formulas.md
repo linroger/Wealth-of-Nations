@@ -1,3 +1,13 @@
+---
+tags:
+  - '#american_put_option'
+  - '#binomial_tree_formulas'
+  - '#option_valuation'
+  - '#risk_free_rate'
+  - '#stock_price'
+  - '#time_step'
+  - '#volatility_matching'
+---
 # 13.8 THE BINOMIAL TREE FORMULAS  
 
 The analysis in the previous section shows that, when the length of the time step on a binomial tree is $\Delta t$ we should match volatility by setting  

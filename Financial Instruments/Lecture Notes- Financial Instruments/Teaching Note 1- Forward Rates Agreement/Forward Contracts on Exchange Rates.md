@@ -1,10 +1,18 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Forward Contracts on Exchange Rates
+tags:
+  - '#arbitrage_strategy'
+  - '#currency_exchange_risk'
+  - '#eurocurrency_interest_rates'
+  - '#forward_contract_pricing'
+  - '#forward_exchange_rates'
+  - '#interest_rate_differential'
+  - '#overvalued_forward_rate'
+  - '#spot_exchange_rate'
+  - '#undervalued_forward_rate'
 ---
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)
 

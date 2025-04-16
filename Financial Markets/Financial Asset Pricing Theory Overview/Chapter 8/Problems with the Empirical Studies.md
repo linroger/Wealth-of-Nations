@@ -1,3 +1,16 @@
+---
+tags:
+  - '#consumption_based_model'
+  - '#data_quality'
+  - '#empirical_studies'
+  - '#ex_ante_expectations'
+  - '#market_expectations'
+  - '#stationarity'
+  - '#stock_returns'
+  - '#survivorship_bias'
+  - '#tax_system'
+  - '#transaction_costs'
+---
 # 8.6 Problems with the empirical studies  
 
 A number of issues should be taken into account when the conclusions of the empirical studies of the consumption-based model are evaluated. In the following we discuss some selected issues.  

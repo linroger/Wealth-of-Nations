@@ -1,3 +1,15 @@
+---
+tags:
+  - '#artificial_asset'
+  - '#asset_pricing'
+  - '#black_scholes_merton'
+  - '#european_call_option'
+  - '#exchange_option_pricing'
+  - '#linear_homogeneity'
+  - '#margrabe_formula'
+  - '#option_greeks'
+  - '#stochastic_exercise_price'
+---
 # 17.5 EXCHANGE OPTION PRICING
 
 Now let us use the concept of linear homogeneity to price exchange options. We assume each asset follows the lognormal diffusion process,.

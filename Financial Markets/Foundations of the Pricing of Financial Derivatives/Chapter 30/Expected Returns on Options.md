@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#expected_return_on_call'
+  - '#hedge_portfolio'
+  - '#option_delta'
+  - '#option_elasticity'
+  - '#option_returns'
+  - '#risk_free_rate'
+  - '#risk_premium'
+---
 # 30.2 EXPECTED RETURNS ON OPTIONS
 
 Consider a hedge portfolio consisting of $b$ shares of the asset and one short call option. The portfolio value is $b S-c$ One period later the portfolio will be worth

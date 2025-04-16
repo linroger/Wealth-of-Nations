@@ -1,14 +1,22 @@
 ---
 aliases:
-- Class Note 3 Financial Intermediation and Delegated Loan Monitoring
-  Bank Asset Services
-- Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank
-  Asset Services.md
-tags:
-- 
-- 
+  - Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset
+    Services
+  - Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset
+    Services.md
 title: Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset
   Services
+tags:
+  - '#bank_asset_services'
+  - '#bank_diversification'
+  - '#banker_profit'
+  - '#control_rent'
+  - '#delegated_loan_monitoring'
+  - '#financial_intermediation'
+  - '#loan_monitoring_incentives'
+  - '#monitoring_costs'
+  - '#publicly_traded_debt'
+  - '#two_loan_bank'
 ---
 # Class Note 3 Financial Intermediation and Delegated Loan Monitoring Bank Asset Services
 

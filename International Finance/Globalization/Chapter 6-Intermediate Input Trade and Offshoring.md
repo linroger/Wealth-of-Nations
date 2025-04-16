@@ -1,10 +1,19 @@
 ---
 title: Chapter 6-Intermediate Input Trade and Offshoring
 cssclasses: academia
-aliases: [Intermediate Input Trade and Offshoring,  International Trade]
-tags: [[[Chapter 1-Introduction to Globalization|Globalization]],  International-Trade]
+aliases:
+  - Intermediate Input Trade and Offshoring
+  - International Trade
+tags:
+  - '#global_supply_chains'
+  - '#heckscher_ohlin_model'
+  - '#income_inequality'
+  - '#intermediate_inputs'
+  - '#offshoring'
+  - '#production_stages'
+  - '#trade_in_tasks'
+  - '#value_added'
 ---
-
 # Chapter 6-Intermediate Input Trade and Offshoring
 
 [[Chapter 6-Intermediate Input Trade and Offshoring|offshorting]]

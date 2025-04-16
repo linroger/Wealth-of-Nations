@@ -1,3 +1,14 @@
+---
+tags:
+  - '#call_on_call_option'
+  - '#compound_option_valuation'
+  - '#european_options'
+  - '#hedge_portfolio'
+  - '#ito_lemma'
+  - '#option_pricing_model'
+  - '#partial_differential_equation'
+  - '#risk_free_rate'
+---
 # 18.2 VALUING AN OPTION ON THE EQUITY AS A COMPOUND OPTION
 
 In valuing compound options, we must first recognize that there are calls on calls, calls on puts, puts on calls, and puts on puts. In addition, these options can be either European or American, and they can be mixed, as for example, an American call on a European put. We will use the simple notation $c c,c p,p c$ and $\mathbf{\Delta}p p$ to denote the price of a European call or put on a European call or put. We would use an uppercase $c$ or $p$ if either option is American, but we will not cover American options here.3

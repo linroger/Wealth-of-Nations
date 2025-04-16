@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#liquidity_risk'
+  - '#long_term_capital_management'
+  - '#ltcm_meltdown'
+  - '#margin_calls'
+  - '#noise_traders'
+  - '#performance_based_arbitrage'
+  - '#russian_default'
+  - '#shleifer_vishny'
+---
 # Class Note 13 The LTCM Meltdown
 
 ## I.Introduction

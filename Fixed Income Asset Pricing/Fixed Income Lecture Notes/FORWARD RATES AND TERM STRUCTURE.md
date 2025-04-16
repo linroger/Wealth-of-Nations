@@ -4,20 +4,19 @@ cssclasses:
 aliases:
   - Forward Rates and Term Structure
 linter-yaml-title-alias: Forward Rates and Term Structure
-tags:
-  - financial_contracts
-  - interest-rate-models
-  - stochastic-processes
-  - term-structure
-  - bond-pricing
-  - finance
-  - financialmarkets
-  - fixed-income
-  - interest-rate-risk
-  - quantitative-finance
 title: Forward Rates and Term Structure
+tags:
+  - '#bond_returns'
+  - '#expectations_hypothesis'
+  - '#fisher_equation'
+  - '#inflation_risk'
+  - '#monetary_policy'
+  - '#real_interest_rates'
+  - '#risk_premia'
+  - '#term_structure_of_interest_rates'
+  - '#tips_treasury_inflation_protected_securities'
+  - '#vasicek_model'
 ---
-
 [[Fixed Income Lecture Notes]]
 
  [[Introduction to Fixed Income Asset Pricing]]

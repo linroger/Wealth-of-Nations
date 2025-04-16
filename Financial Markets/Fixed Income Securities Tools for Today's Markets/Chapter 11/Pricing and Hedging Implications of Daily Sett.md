@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_futures'
+  - '#daily_settlement'
+  - '#forward_pricing'
+  - '#futures_pricing'
+  - '#futures_vs_forwards'
+  - '#hedge_ratio'
+  - '#hedging_strategies'
+  - '#mark_to_market'
+  - '#tailing_the_hedge'
+  - '#variation_margin'
+---
 # 11.5 PRICING AND HEDGING IMPLICATIONS OF DAILY SETTLEMENT  
 
 Daily settlement has implications for the pricing of futures relative to forwards and for hedging using futures rather than forwards. This section considers these two issues in turn..  

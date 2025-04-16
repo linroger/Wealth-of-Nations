@@ -1,9 +1,17 @@
 ---
 aliases: []
-tags: []
 title: Primary vs. Secondary Commodities
+tags:
+  - '#cash_and_carry_markets'
+  - '#commodity_prices'
+  - '#commodity_units'
+  - '#convenience_yield'
+  - '#extractive_commodities'
+  - '#lease_rate'
+  - '#primary_vs_secondary_commodities'
+  - '#renewable_commodities'
+  - '#storage_costs'
 ---
-
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

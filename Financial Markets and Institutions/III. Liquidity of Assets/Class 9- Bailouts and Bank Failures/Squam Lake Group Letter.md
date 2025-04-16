@@ -2,19 +2,20 @@
 cssclasses: academia
 aliases:
   - Squam Lake Group Letter
-linter-yaml-title-alias: 
-tags:
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-crises"
-  - "#macroeconomic-policymaking"
-  - "#economic-theory"
-  - "#systemic-risk"
-  - "#financial-regulation"
-  - "#crisis-management"
+linter-yaml-title-alias:
 title: Squam Lake Group Letter
+tags:
+  - '#agency_problems'
+  - '#bank_runs'
+  - '#capital_requirements'
+  - '#financial_innovation'
+  - '#financial_regulation'
+  - '#financial_system'
+  - '#government_bailouts'
+  - '#regulatory_reform'
+  - '#systemic_risk'
+  - '#world_financial_crisis'
 ---
-
 ## Chapter 1 Introduction
 
 The financial system promotes our economic welfare by helping borrowers obtain funding from savers and by transferring risks. During the World Financial Crisis,  which started in 2007 and seems to have ebbed as we write in 2010,  the financial system struggled to perform these critical tasks.

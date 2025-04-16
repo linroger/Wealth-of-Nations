@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#call_options'
+  - '#delta'
+  - '#dividend_adjusted_greeks'
+  - '#dividend_adjustment'
+  - '#put_options'
+  - '#sensitivity_analysis'
+---
 # 14.7 INCORPORATING DIVIDENDS
 
 In the case of continuous dividends, recall the Black-Scholes-Merton model is adjusted where $S^{\prime}=e^{-\delta\tau}S$ and can be expressed as

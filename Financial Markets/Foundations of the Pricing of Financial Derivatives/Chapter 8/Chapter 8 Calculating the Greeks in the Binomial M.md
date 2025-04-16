@@ -1,3 +1,12 @@
+---
+tags:
+  - '#binomial_model'
+  - '#delta_estimation'
+  - '#dividends'
+  - '#gamma_estimation'
+  - '#greeks_calculation'
+  - '#numerical_examples'
+---
 # CHAPTER 8 Calculating the Greeks in the Binomial Model
 
 165

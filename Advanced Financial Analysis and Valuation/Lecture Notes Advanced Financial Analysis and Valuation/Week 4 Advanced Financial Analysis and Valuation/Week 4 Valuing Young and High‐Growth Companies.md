@@ -2,22 +2,19 @@
 title: Week 4 Valuing Young and High‐Growth Companies
 cssclasses:
   - academia
-aliases: 
+aliases:
 tags:
-  - finance
-  - financial-analysis
-  - valuation
-  - investment-analysis
-  - corporate-finance
-  - high-growth-companies
-  - stock-compensation
-  - accounting-shenanigans
-  - "#quantitative-finance"
-  - "#financial-instruments"
-  - "#economic-theory"
-  - "#high-growth-valuation"
+  - '#accounting_shenanigans'
+  - '#amazon_valuation'
+  - '#dcf_model'
+  - '#high_growth_companies'
+  - '#ltg_estimates'
+  - '#market_saturation'
+  - '#netflix_valuation'
+  - '#revenue_recognition'
+  - '#stock_compensation'
+  - '#valuation'
 ---
-
 [[Week 4 Valuing Young and High‐Growth Companies|high growth companies]]
 
 [Week 4 ESOs and Vaulation](Zhe/Week%204/Week%204%20ESOs%20and%20Vaulation.md)

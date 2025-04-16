@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_call_option'
+  - '#capital_structure'
+  - '#early_exercise'
+  - '#european_call_option'
+  - '#fischer_black'
+  - '#myron_scholes'
+  - '#non_dividend_paying_stock'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#robert_merton'
+---
 # 11.5 CALLS ON A NON-DIVIDEND-PAYING STOCK  
 
 In this section, we first show that it is never optimal to exercise an American call option on a non-dividend-paying stock before the expiration date..  

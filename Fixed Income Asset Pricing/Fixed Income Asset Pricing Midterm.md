@@ -1,8 +1,17 @@
 ---
-tags: [fixed-income, finance, asset-pricing, exam]
-aliases: [Fixed Income Asset Pricing Midterm Solutions, Bus 35130 Spring 2019 Midterm]
+aliases:
+  - Fixed Income Asset Pricing Midterm Solutions
+  - Bus 35130 Spring 2019 Midterm
+tags:
+  - '#fixed_income_asset_pricing'
+  - '#floating_rate_notes'
+  - '#forward_rates'
+  - '#midterm_solutions'
+  - '#real_yield'
+  - '#risk_neutral_probabilities'
+  - '#spot_rates'
+  - '#swap_valuation'
 ---
-
 # Fixed Income Asset Pricing Midterm Solutions
 
 ## INSTRUCTIONS

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_option'
+  - '#asset_exchange_options'
+  - '#asset_valuation'
+  - '#binomial_tree'
+  - '#european_option'
+  - '#geometric_brownian_motion'
+  - '#margrabe_formula'
+  - '#option_payoff'
+  - '#stock_tender_offer'
+---
 # 26.14 OPTIONS TO EXCHANGE ONE ASSET FOR ANOTHER  
 
 Options to exchange one asset for another (sometimes referred to as exchange options) arise in various contexts. An option to buy yen with Australian dollars is, from the point of view of a U.S. investor, an option to exchange one foreign currency asset for  

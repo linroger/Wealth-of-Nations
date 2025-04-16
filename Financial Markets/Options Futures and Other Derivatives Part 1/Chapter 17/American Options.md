@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_trees'
+  - '#black_model'
+  - '#black_scholes_merton_formula'
+  - '#currency_options'
+  - '#european_options'
+  - '#futures_options'
+  - '#index_options'
+  - '#portfolio_insurance'
+  - '#range_forward_contract'
+---
 # 17.6  AMERICAN OPTIONS  
 
 As described in Chapter 13, binomial trees can be used to value American options on indices and currencies. As in the case of American options on a non-dividend-paying stock, the parameter determining the size of up movements,. $u$ , is set equal to $e^{\sigma{\sqrt{\Delta t}}}$ where $\sigma$ is the volatility and $\Delta t$ is the length of time steps. The parameter determining. the size of down movements,. $d$ , is set equal to $1/u$ , or $e^{-\sigma{\sqrt{\Delta t}}}$ . For a non-dividendpaying stock, the probability of an up movement is.  

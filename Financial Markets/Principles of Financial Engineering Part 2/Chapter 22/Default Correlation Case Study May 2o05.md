@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cdx_itraxx_tranche_markets'
+  - '#correlation_trades'
+  - '#credit_volatility'
+  - '#default_correlation'
+  - '#equity_tranche'
+  - '#gm_ford_downgrade'
+  - '#hedge_fund_unwinding'
+  - '#may_2005_credit_market_events'
+  - '#mezzanine_tranche'
+  - '#synthetic_cdos'
+---
 # 22.7 DEFAULT CORRELATION CASE STUDY: MAY 2O05  
 
 During May 2005, credit markets witnessed an intriguing event which looked like a puzzle and created a significant amount of discussion as to the correctness of the credit markets' standard models. The events are worth reviewing briefly since they are a good example of the way cash derivatives markets influence each other in the newly developing credit markets.  

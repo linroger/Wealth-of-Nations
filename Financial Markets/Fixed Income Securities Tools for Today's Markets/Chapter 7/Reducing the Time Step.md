@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_option_pricing'
+  - '#callable_bond_pricing'
+  - '#cash_flow_timing'
+  - '#computational_efficiency'
+  - '#interest_rate_tree'
+  - '#monthly_time_steps'
+  - '#pricing_accuracy'
+  - '#time_step_reduction'
+---
 # 7.8 REDUCING THE TIME STEP  
 
 This chapter has so far assumed that the time elapsed between dates of the tree is six months. The methodology outlined, however, adapts easily to any time step of $\Delta t$ years. For monthly time steps, for example, $\Delta t=1/12$ or .0833, and one-month rather than six-month interest rates appear on the tree. Furthermore, discounting is done over the appropriate time interval. If the rate of term $\Delta t$ is $r$ , then discounting means dividing by $1+r\Delta t$ . In the case of monthly time steps, discounting with a one-month rate of $2\%$ means dividing by $1+0.02/12$  

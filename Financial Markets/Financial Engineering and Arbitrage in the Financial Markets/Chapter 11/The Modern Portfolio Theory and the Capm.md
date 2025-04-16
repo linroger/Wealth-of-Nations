@@ -1,3 +1,16 @@
+---
+tags:
+  - '#capm'
+  - '#carhart_momentum_factor'
+  - '#efficient_frontier'
+  - '#fama_french_three_factor_model'
+  - '#market_risk_premium'
+  - '#modern_portfolio_theory'
+  - '#multifactor_index_models'
+  - '#stock_screening'
+  - '#systematic_risk'
+  - '#two_fund_separation'
+---
 # 11.3 THE MODERN PORTFOLIO THEORY AND THE CAPM  
 
 The original modern portfolio theory (MPT), as laid out by Markowitz, and the CAPM have no time dimension. There is now, time prior to investment, and tomorrow, when we know how the investment turns out. Now the investor can work only with a probability distribution, best described by its first two moments. The mean, or expected return, measures the reward. The variance, or its cousin standard deviation, measures the risk. In MPT, standard deviation is synonymous with total risk. A stock whose price appreciates, but swings wildly up and down in the process, is considered risky. A stock whose price goes down, and swings wildly up and down in the process, is also considered risky, perhaps less risky if its standard deviation is lower.  

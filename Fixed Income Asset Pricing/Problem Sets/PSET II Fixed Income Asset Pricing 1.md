@@ -1,10 +1,19 @@
 ---
-aliases: [  FIXED INCOME ASSET PRICING,  ]
+aliases:
+  - FIXED INCOME ASSET PRICING
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING
-tags: []
 title: PSET II Fixed Income Asset Pricing 1
+tags:
+  - '#bond_convexity'
+  - '#bond_duration'
+  - '#bootstrap_methodology'
+  - '#fixed_income_asset_pricing'
+  - '#leveraged_inverse_floater'
+  - '#risk_assessment'
+  - '#spot_rates'
+  - '#term_structure_of_interest_rates'
+  - '#yield_calculation'
 ---
-
 # PSET II Fixed Income Asset Pricing 1
 
 Bus 35130

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#back_testing'
+  - '#expected_shortfall'
+  - '#historical_simulation'
+  - '#linear_model'
+  - '#model_building_approach'
+  - '#monte_carlo_simulation'
+  - '#principal_components_analysis'
+  - '#quadratic_model'
+  - '#value_at_risk'
+---
 # Chapter 22. Value at risk and expected shortfall . .492  
 
 22.1 The VaR and ES measures .492   

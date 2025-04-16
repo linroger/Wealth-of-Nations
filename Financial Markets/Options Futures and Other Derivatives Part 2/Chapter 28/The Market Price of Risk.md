@@ -1,3 +1,15 @@
+---
+tags:
+  - '#consumption_assets'
+  - '#derivative_pricing'
+  - '#girsanov_theorem'
+  - '#investment_assets'
+  - '#market_price_of_risk'
+  - '#no_arbitrage'
+  - '#risk_and_return'
+  - '#risk_neutral_world'
+  - '#sharpe_ratio'
+---
 # 28.1 THE MARKET PRICE OF RISK  
 
 We start by considering the properties of derivatives dependent on the value of a single variable $\theta$ Assume that the process followed by. $\theta$ is  

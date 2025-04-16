@@ -1,3 +1,14 @@
+---
+tags:
+  - '#continuously_compounded_return'
+  - '#exponentially_weighted_moving_average'
+  - '#garch_model'
+  - '#historical_data'
+  - '#market_variable'
+  - '#variance_rate'
+  - '#volatility_estimation'
+  - '#weighting_schemes'
+---
 # 23.1 ESTIMATING VOLATILITY  
 
 Define $\sigma_{n}$ as the volatility of a market variable on day $n$ , as estimated at the end of day $n-1$ . The square of the volatility, $\sigma_{n}^{2}$ , on day $n$ is the variance rate. We described the standard approach to estimating $\sigma_{n}$ from historical data in Section 15.4. Suppose that the value of the market variable at the end of day $i$ is $S_{i}$ The variable $u_{i}$ is defined as the continuously compounded return during day $i$ (between the end of day $i\textrm{--}1$ and the end of day $i$  

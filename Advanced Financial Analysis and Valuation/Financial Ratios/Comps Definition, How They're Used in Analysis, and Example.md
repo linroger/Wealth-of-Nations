@@ -1,25 +1,19 @@
 ---
 cssclasses:
   - academia
-aliases: 
-tags:
-  - finance
-  - investmentanalysis
-  - valuationanalysis
-  - comparable-analysis
-  - retail-metrics
-  - financial-markets
-  - financial-instruments
-  - corporate-finance
-  - valuation-methods
-  - financial-modeling
-  - financial_crises
-  - economic-theory
-  - "#quantitative-finance"
-  - "#business-valuation"
+aliases:
 title: Comps Definition,  How They're Used in Analysis,  and Example
+tags:
+  - '#business_valuation'
+  - '#comparable_company_analysis'
+  - '#comps_definition'
+  - '#fair_market_value'
+  - '#financial_metrics'
+  - '#real_estate_comps'
+  - '#retail_comps'
+  - '#same_store_sales'
+  - '#valuation_metrics'
 ---
-
 [[Comps Definition,     How They're Used in Analysis,     and Example|Comps]]
 
 # Comps Definition,  How They're Used in Analysis,  and Example

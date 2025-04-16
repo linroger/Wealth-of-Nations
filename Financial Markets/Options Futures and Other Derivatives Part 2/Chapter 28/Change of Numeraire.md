@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_options'
+  - '#change_of_numeraire'
+  - '#equivalent_martingale_measure'
+  - '#interest_rate_caps_floors'
+  - '#interest_rate_derivatives'
+  - '#market_price_of_risk'
+  - '#risk_neutral_valuation'
+  - '#stochastic_interest_rates'
+  - '#swap_options'
+---
 # 28.8 CHANGE OF NUMERAIRE  
 
 In this section, we consider the impact of a change in numeraire on the process followed. by a market variable. Suppose first that the variable is the price of a traded security, $f.$  

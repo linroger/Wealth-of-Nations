@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cash_settlement'
+  - '#commodity_futures'
+  - '#futures_contract_liquidity'
+  - '#futures_option_exercise'
+  - '#futures_options'
+  - '#hedging_arbitrage_speculation'
+  - '#transaction_costs'
+  - '#treasury_bond_futures'
+  - '#underlying_asset_trading'
+---
 # 18.2  REASONS FOR THE POPULARITY OF FUTURES OPTIONS  
 
 It is natural to ask why people choose to trade options on futures rather than options on the underlying asset. The main reason appears to be that a futures contract is, in many circumstances, more liquid and easier to trade than the underlying asset. Furthermore, a futures price is known immediately from trading on the futures exchange, whereas the spot price of the underlying asset may not be so readily available.  

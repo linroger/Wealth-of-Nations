@@ -1,10 +1,20 @@
 ---
-title: "(17) How Countries Go Broke: Introduction & Chapter One  | LinkedIn"
-source: "https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/"
+title: '(17) How Countries Go Broke: Introduction & Chapter One  | LinkedIn'
+source: 
+  https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
 description:
 tags:
+  - '#big_debt_cycle'
+  - '#currency_devaluation'
+  - '#debt_crisis'
+  - '#deleveraging'
+  - '#economic_cycles'
+  - '#financial_markets'
+  - '#government_debt'
+  - '#interest_rates'
+  - '#monetary_policy'
+  - '#reserve_currency'
 ---
-
 ## Introduction
 
 **Are there limits to a country’s’ debt and debt growth?**

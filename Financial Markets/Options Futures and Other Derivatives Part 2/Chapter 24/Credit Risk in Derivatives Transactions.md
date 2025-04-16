@@ -1,3 +1,15 @@
+---
+tags:
+  - '#collateral_agreements'
+  - '#counterparty_default'
+  - '#credit_risk_derivatives'
+  - '#cva_dva'
+  - '#downgrade_triggers'
+  - '#exposure_calculation'
+  - '#isda_master_agreement'
+  - '#monte_carlo_simulation'
+  - '#wrong_way_risk'
+---
 # 24.7 CREDIT RISK IN DERIVATIVES TRANSACTIONS  
 
 In this section we consider how credit risk is quantified for bilaterally cleared derivatives. transactions. This topic was introduced in Chapter 9. Typically, bilaterally cleared derivatives between two companies are governed by an International Swaps and Derivatives Association (ISDA) Master Agreement. For transactions between financial institutions, regulations require that variation margin be exchanged and initial margin be posted with third parties. Initial margin is calculated so that it covers losses over a 10-day period with $99\%$ confidence.  

@@ -2,37 +2,26 @@
 cssclasses:
   - academia
 aliases:
-  - "Class Note 2- Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
-  - "Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
-linter-yaml-title-alias: "Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat"
+  - 'Class Note 2- Debt Contracts Due to the Lack of Information: Debt as a Promise
+    and a Threat'
+  - 'Class Note 2 Debt Contracts Due to the Lack of Information: Debt as a Promise
+    and a Threat'
+linter-yaml-title-alias: 'Class Note 2 Debt Contracts Due to the Lack of Information:
+  Debt as a Promise and a Threat'
+title: Class Note 2Debt Contracts Due to the Lack of Information Debt as a Promise
+  and a Threat
 tags:
-  - debt
-  - contracts
-  - monitoring
-  - renegotiation
-  - liquidation
-  - covenants
-  - borrowers
-  - lenders
-  - monitoring-costs
-  - information-asymmetry
-  - debt-management
-  - financial-instruments
-  - debt-structuring
-  - financial-markets
-  - risk-management
-  - corporate-control
-  - financial-contracts
-  - "#debt-management-strategies"
-  - "#financial-crises"
-  - "#debt-crisis-phases"
-  - "#debt-cycle"
-  - "#financial-crisis"
-  - "#corporate-bond-contracts"
-  - "#financial-monitoring"
-title: Class Note 2Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat
+  - '#borrower_incentives'
+  - '#covenants'
+  - '#debt_contracts'
+  - '#face_value_debt'
+  - '#information_asymmetry'
+  - '#lender_strategies'
+  - '#liquidation'
+  - '#monitoring'
+  - '#monitoring_costs'
+  - '#renegotiation'
 ---
-
 # Class Note 2Debt Contracts Due to the Lack of Information Debt as a Promise and a Threat
 
 [Class Notes 2 – Corporate Bond Contracts](Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)

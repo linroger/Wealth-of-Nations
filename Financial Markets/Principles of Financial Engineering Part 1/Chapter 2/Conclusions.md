@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#financial_engineering'
+  - '#fixed_income_markets'
+  - '#forward_rate_agreements'
+  - '#futures_contracts'
+  - '#interest_rate_derivatives'
+  - '#libor'
+  - '#market_conventions'
+  - '#risk_management'
+  - '#yield_curve'
+---
 # 2.9 CONCLUSIONS  
 
 This chapter reviewed some basic information the reader is assumed to have been exposed to. The discussion provided here is sketchy and cannot be a substitute for a thorough course on conventions, markets, and players. Also, market conventions, market structure, and the instrument characteristics may change over time.  

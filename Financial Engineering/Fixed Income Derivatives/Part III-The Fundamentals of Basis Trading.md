@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_trading'
+  - '#conversion_factor'
+  - '#ctd_bond'
+  - '#futures_contracts'
+  - '#implied_repo_rate'
+  - '#market_intelligence'
+  - '#net_basis'
+  - '#repo_rates'
+  - '#short_squeeze'
+---
 # 3 The Fundamentals of Basis Trading
 
 In this chapter we consider some further issues of basis trading and look at the impact of repo rates on an individual’s trading approach.

@@ -1,11 +1,19 @@
 ---
 aliases:
-- Turmoil in Financial Markets the Risk Business.md
-- Turmoil in Financial Markets the Risk Business
-tags:
-- 
-- 
+  - Turmoil in Financial Markets the Risk Business.md
+  - Turmoil in Financial Markets the Risk Business
 title: Turmoil in Financial Markets the Risk Business
+tags:
+  - '#arbitrage'
+  - '#financial_markets'
+  - '#financial_turmoil'
+  - '#hedge_funds'
+  - '#investment_banks'
+  - '#leverage'
+  - '#long_term_capital_management'
+  - '#market_liquidity'
+  - '#risk_management'
+  - '#value_at_risk'
 ---
 # Turmoil in Financial Markets the Risk Business
 

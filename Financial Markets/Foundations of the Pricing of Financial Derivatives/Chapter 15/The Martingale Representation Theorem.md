@@ -1,3 +1,14 @@
+---
+tags:
+  - '#derivative_pricing'
+  - '#dynamic_replication'
+  - '#girsanov_theorem'
+  - '#martingale_representation_theorem'
+  - '#option_delta'
+  - '#option_pricing'
+  - '#risk_neutral_pricing'
+  - '#stochastic_processes'
+---
 # 15.1 THE MARTINGALE REPRESENTATION THEOREM
 
 In applying Girsanov's theorem, what we do is alter the probability distribution of the asset return such that it follows a stochastic process known as a martingale. A martingale is a process without a drift, that is, it has a zero price change.1 In that case, we can obtain the value today of the derivative by determining the expected future value of the derivative, where the expectation is arrived at by using the altered probability distribution. In doing it this way, we avoid the problem of having to solve a differential equation.

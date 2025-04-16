@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_backed_securities_abss'
+  - '#collateralized_debt_obligations_cdos'
+  - '#credit_indices'
+  - '#credit_structured_products'
+  - '#index_arbitrage'
+  - '#regulation_credit_risk_management'
+  - '#securitization'
+  - '#tranche_modeling_and_pricing'
+---
 # CHAPTER 21 Securitization, ABSs, CDOs, and Credit Structured Products.... 739  
 
 21.1 Introduction.. 740   

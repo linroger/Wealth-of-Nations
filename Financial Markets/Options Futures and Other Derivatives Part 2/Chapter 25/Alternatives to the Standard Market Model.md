@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cdos'
+  - '#credit_default_swap'
+  - '#credit_derivatives'
+  - '#default_correlation'
+  - '#dynamic_models'
+  - '#exotic_options'
+  - '#gaussian_copula_model'
+  - '#implied_copula_model'
+---
 # 25.11 ALTERNATIVES TO THE STANDARD MARKET MODEL  
 
 This section outlines a number of alternatives to the one-factor Gaussian copula model that has become the market standard..  

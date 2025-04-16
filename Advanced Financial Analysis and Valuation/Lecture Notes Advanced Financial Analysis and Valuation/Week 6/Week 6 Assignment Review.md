@@ -2,17 +2,17 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#financialanalysis"
-  - "#corporatefinance"
-  - "#riskanalysis"
-  - "#bankloans"
-  - "#debtmarkets"
-  - "#loan-portfolio-valuation"
-  - "#regulatory-capital"
-  - "#banking-crisis"
 title: Week 6 Assignment Review
+tags:
+  - '#bank_regulatory_capital'
+  - '#blackstone'
+  - '#citigroup'
+  - '#default_probability'
+  - '#fair_value_accounting'
+  - '#leveraged_loans'
+  - '#loan_portfolio_valuation'
+  - '#loan_sale_analysis'
+  - '#tier_1_capital_ratio'
 ---
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms

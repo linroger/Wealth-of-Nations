@@ -1,3 +1,11 @@
+---
+tags:
+  - '#convexity'
+  - '#equity'
+  - '#practical_considerations'
+  - '#pricing'
+  - '#quantos'
+---
 # 10.5 A Special Instrument: Quantos . 340  
 
 10.5.1 A Simple Example. 340   

@@ -1,12 +1,21 @@
 ---
 aliases:
-- 
-- OPTIONS STRATEGIES CONSTRUCTION
-- 
+  - 
+  - OPTIONS STRATEGIES CONSTRUCTION
+  - 
 linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
-tags:
-- 
 title: OPTIONS STRATEGIES CONSTRUCTION
+tags:
+  - '#bear_spread'
+  - '#bull_spread'
+  - '#butterfly_spread'
+  - '#collar_strategy'
+  - '#covered_call'
+  - '#option_expiration'
+  - '#options_strategies'
+  - '#options_trading'
+  - '#protective_put'
+  - '#risk_management'
 ---
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]

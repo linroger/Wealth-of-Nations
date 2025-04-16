@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#call_option_premium'
+  - '#currency_options_valuation'
+  - '#domestic_interest_rate'
+  - '#euro_exchange_rate'
+  - '#foreign_interest_rate'
+  - '#numerical_example'
+  - '#option_valuation_formula'
+  - '#put_option_premium'
+---
 # 32.3 VALUATION OF THE OPTIONS
 
 Now we demonstrate how the premiums of these two options are equivalent in the BlackScholes-Merton model. The BSM value of the call option is.

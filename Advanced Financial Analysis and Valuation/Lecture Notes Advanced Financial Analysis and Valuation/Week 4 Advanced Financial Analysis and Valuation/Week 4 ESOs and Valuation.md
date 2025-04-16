@@ -2,25 +2,19 @@
 title: Week 4 ESOs and Valuation
 cssclasses:
   - academia
-aliases: 
+aliases:
 tags:
-  - finance
-  - valuation
-  - corporatefinance
-  - equity-compensation
-  - stock-options
-  - financial-accounting
-  - quantitative-finance
-  - financial-instruments
-  - asset-pricing
-  - stock-options-valuation
-  - employee-stock-options
-  - "#quantlib"
-  - "#financial-derivatives"
-  - "#risk-management"
-  - "#valuation-methods"
+  - '#accounting_for_esos'
+  - '#black_scholes_model'
+  - '#employee_stock_options'
+  - '#eso_valuation'
+  - '#future_grants'
+  - '#past_grants'
+  - '#restricted_stock_units'
+  - '#stock_based_compensation'
+  - '#tax_benefits'
+  - '#valuation_methodology'
 ---
-
 [[Week 4 ESOs and Valuation|employee stock options]]
 
 # Week 4 ESOs and Valuation

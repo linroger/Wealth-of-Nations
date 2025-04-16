@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#derivatives_markets'
+  - '#financial_regulation'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#options_contracts'
+  - '#risk_management'
+  - '#rogue_traders'
+  - '#societe_general_kerviel'
+  - '#speculation'
+---
 # 1.10 DANGERS  
 
 Derivatives are very versatile instruments. As we have seen, they can be used for hedging, for speculation, and for arbitrage. It is this very versatility that can cause problems. Sometimes traders who have a mandate to hedge risks or follow an arbitrage strategy become (consciously or unconsciously) speculators. The results can be disastrous. One example of this is provided by the activities of Jerome Kerviel at Societe General (see Business Snapshot 1.4).  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#convenience_yield'
+  - '#derivative_pricing'
+  - '#forward_contract'
+  - '#futures_contract'
+  - '#monte_carlo_simulation'
+  - '#option_on_futures'
+  - '#option_pricing'
+---
 # 22.4 RECAP AND PREVIEW
 
 In this chapter, we introduced a different type of derivative, the forward contract and its. variant the futures contract. We showed how these derivatives are priced, which is by the same principle as option pricing, but which does not require a dynamic hedge. As such,

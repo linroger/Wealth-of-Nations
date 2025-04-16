@@ -1,3 +1,16 @@
+---
+tags:
+  - '#forward_volatility_agreement'
+  - '#fva_contract'
+  - '#implied_volatility'
+  - '#local_volatility_model'
+  - '#slv_model'
+  - '#stochastic_volatility_models'
+  - '#vanna_risk'
+  - '#vega_risk'
+  - '#volatility_trading'
+  - '#volga_risk'
+---
 # Forward Volatility Agreement (FVA)
 # 1.1   Forward Volatility Agreement (FVA)
 

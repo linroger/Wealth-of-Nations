@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_or_nothing_call'
+  - '#asset_or_nothing_put'
+  - '#barrier_options'
+  - '#binary_options'
+  - '#cash_or_nothing_call'
+  - '#cash_or_nothing_put'
+  - '#discontinuous_payoffs'
+  - '#european_options'
+  - '#thinly_traded_assets'
+---
 # 26.10 BINARY OPTIONS  
 
 Binary or digital options are options with discontinuous payoffs. A simple example of a binary option is a cash-or-nothing call. This pays off nothing if the asset price ends up.  

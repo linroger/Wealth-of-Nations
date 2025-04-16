@@ -1,11 +1,18 @@
 ---
 aliases:
-- 
-- 
+  - 
+  - 
 tags:
-- 
+  - '#commodity_swaps'
+  - '#currency_swaps'
+  - '#financial_settlement'
+  - '#forward_contracts'
+  - '#hedging'
+  - '#interest_rate_swaps'
+  - '#market_value'
+  - '#swap_counterparty'
+  - '#swaps'
 ---
-
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#economic_scenarios'
+  - '#expected_value'
+  - '#risk_averse_investor'
+  - '#risk_aversion'
+  - '#risk_neutral_investor'
+  - '#risk_premium'
+  - '#risky_asset_valuation'
+  - '#time_value_of_money'
+---
 # 6.1 VALUING RISKY ASSETS
 
 Suppose there is an asset that will have a value of either 100 if a good economy occurs or 50 if a bad economy occurs one period later. The risk-free interest rate,. $r_{\mathrm{{i}}}$ , for the period. is $5\%$ . Further, suppose we somehow know the probability of the good economy is. $60\%$ and the probability of the bad economy is $40\%$ . What should be the current price of the asset?

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#infinite_shutdown_restart'
+  - '#investment_operating_problems'
+  - '#investment_trigger'
+  - '#numerical_implementation'
+  - '#optimization_equations'
+  - '#shutdown_restart_solution'
+  - '#single_shutdown_restart'
+  - '#undeveloped_developed_reserves'
+---
 # Appendix 17. B  the SOLUTION WITH SHUTTING DOWN and RESTARTING  
 
 In this appendix we explain the solution of two problems: investing and operating (1) when it is possible to shut down once and restart once, permanently, and (2) when it is possible to shut down and restart an inﬁnite number of times. The solutions here can be implemented numerically.  

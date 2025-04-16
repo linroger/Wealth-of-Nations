@@ -1,5 +1,16 @@
 ---
 title: Theory of Stabilization Policy
+tags:
+  - '#business_cycles'
+  - '#economic_stability'
+  - '#fiscal_policy'
+  - '#friedman_model'
+  - '#lucas_critique'
+  - '#macroeconomic_fluctuations'
+  - '#monetary_policy'
+  - '#stabilization_policy'
+  - '#timing_lags'
+  - '#utility_analysis'
 ---
 # Theory of Stabilization Policy
 

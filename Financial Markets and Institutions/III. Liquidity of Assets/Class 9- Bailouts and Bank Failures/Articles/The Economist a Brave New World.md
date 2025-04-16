@@ -1,11 +1,19 @@
 ---
 aliases:
-- The Economist a Brave New World
-- The Economist a Brave New World.md
-tags:
-- 
-- 
+  - The Economist a Brave New World
+  - The Economist a Brave New World.md
 title: The Economist a Brave New World
+tags:
+  - '#banking_transition'
+  - '#central_bank_digital_currencies'
+  - '#china_digital_yuan'
+  - '#digital_payments'
+  - '#financial_services'
+  - '#financial_stability'
+  - '#monetary_policy'
+  - '#monetary_sovereignty'
+  - '#network_effects'
+  - '#privacy_concerns'
 ---
 # The Economist a Brave New World
 ## A Brave New World

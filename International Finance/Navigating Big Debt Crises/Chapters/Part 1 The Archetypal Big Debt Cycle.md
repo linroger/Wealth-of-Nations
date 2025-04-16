@@ -1,10 +1,19 @@
 ---
 title: Part 1 The Archetypal Big Debt Cycle
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#banking_system'
+  - '#big_debt_cycle'
+  - '#credit_and_debt'
+  - '#currency_devaluation'
+  - '#deflationary_deleveraging'
+  - '#economic_crisis'
+  - '#fiscal_policy'
+  - '#gold_standard'
+  - '#inflationary_deleveraging'
+  - '#monetary_policy'
 ---
-
 # Part 1 The Archetypal Big Debt Cycle
 
 **Introduction**

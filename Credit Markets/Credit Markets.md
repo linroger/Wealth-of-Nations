@@ -1,9 +1,11 @@
 ---
 title: Credit Markets
-aliases: [CREDIT MARKETS]
+aliases:
+  - CREDIT MARKETS
 linter-yaml-title-alias: CREDIT MARKETS
+tags:
+  - '#credit_markets'
 ---
-
 # Credit Markets
 
 %% Begin Waypoint %%

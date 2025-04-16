@@ -5,20 +5,20 @@ aliases:
   - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
   - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
   - Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
-linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
-tags:
-
-  - 
-  - "#quantitative-finance"
-  - "#finance"
-  - "#risk-management"
-  - "#financial-crises"
-  - "#liquidity-risk"
-  - "#credit-analysis"
-  - "#commercial-paper"
+linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
+  Risk Insurance"
 title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
+tags:
+  - '#bank_credit_facilities'
+  - '#cashflow_analysis'
+  - '#commercial_paper_cp'
+  - '#contingency_planning'
+  - '#liquidity_risk_insurance'
+  - '#market_access'
+  - '#moodys_rating_methodology'
+  - '#short_term_debt'
+  - '#stress_testing'
 ---
-
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 
 ### Rating Methodology

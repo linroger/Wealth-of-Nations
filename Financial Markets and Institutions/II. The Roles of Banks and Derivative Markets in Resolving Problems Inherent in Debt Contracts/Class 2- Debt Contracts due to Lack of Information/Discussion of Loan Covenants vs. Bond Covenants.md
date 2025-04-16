@@ -1,11 +1,21 @@
 ---
 aliases:
-- Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs
-- Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants.md
+  - Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
+    vs
+  - Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
+    vs. Bond Covenants.md
+title: Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
+  vs. Bond Covenants
 tags:
-- 
-- 
-title: Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
+  - '#bond_covenants'
+  - '#bond_prospectus'
+  - '#bondholder_rights'
+  - '#default_provisions'
+  - '#defeasance'
+  - '#indenture_act'
+  - '#loan_covenants'
+  - '#make_whole_call'
+  - '#trustee_role'
 ---
 # Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#correlation_coefficient'
+  - '#covariance'
+  - '#discrete_random_variables'
+  - '#expectation_value'
+  - '#portfolio_analysis'
+  - '#probability_distribution'
+  - '#standard_deviation'
+  - '#variance'
+---
 # 4.2 EXPECTATIONS, VARIANCES, AND COVARIANCES OF DISCRETE RANDOM VARIABLES
 
 A random variable is a variable that can take on many possible values representing uncer-.

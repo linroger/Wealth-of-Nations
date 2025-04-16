@@ -1,3 +1,14 @@
+---
+tags:
+  - '#backwardation_contango'
+  - '#cash_and_carry_arbitrage'
+  - '#commodity_futures'
+  - '#convenience_yield'
+  - '#spot_futures_parity'
+  - '#storage_costs'
+  - '#synthetic_commodities'
+  - '#term_structure_of_futures_prices'
+---
 # 7.3 THE TERM STRUCTURE OF COMMODITY FUTURES PRICES  
 
 Table 7.1 provides the futures prices corresponding to different contract months. This is the term.   

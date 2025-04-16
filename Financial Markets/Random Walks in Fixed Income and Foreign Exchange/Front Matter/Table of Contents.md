@@ -1,3 +1,16 @@
+---
+tags:
+  - '#conversion_factor'
+  - '#convexity'
+  - '#cross_currency_basis'
+  - '#duration'
+  - '#fixed_income'
+  - '#foreign_exchange'
+  - '#fx_hedging'
+  - '#term_premium'
+  - '#xva'
+  - '#yield_curve'
+---
 # Table of Contents - Random Walks in Fixed Income and Foreign Exchange
 # Contents
 

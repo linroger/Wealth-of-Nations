@@ -1,11 +1,19 @@
 ---
 aliases:
-- The Workout Crew.md
-- The Workout Crew
-tags:
-- 
-- 
+  - The Workout Crew.md
+  - The Workout Crew
 title: The Workout Crew
+tags:
+  - '#bank_restructuring'
+  - '#banking_industry'
+  - '#business_failures'
+  - '#corporate_bankruptcy'
+  - '#financial_recovery'
+  - '#loan_default'
+  - '#nonperforming_loans'
+  - '#troubled_companies'
+  - '#workout_process'
+  - '#workout_specialists'
 ---
 # The Workout Crew
 

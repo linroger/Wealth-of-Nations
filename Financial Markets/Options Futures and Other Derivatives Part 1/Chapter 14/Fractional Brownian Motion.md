@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#fractional_brownian_motion'
+  - '#geometric_brownian_motion'
+  - '#hurst_exponent'
+  - '#ito_lemma'
+  - '#ito_process'
+  - '#monte_carlo_simulation'
+  - '#stochastic_process'
+  - '#wiener_process'
+---
 # 14.8 FRACTIONAL BROWNIAN MOTION  
 
 Fractional Brownian motion (also known as fractal Brownian motion) provides a generalization of Brownian motion and the models involving Wiener processes that we have discussed so far in this chapter. It is used in rough volatility models for valuing derivatives, which are discussed later in the book.  

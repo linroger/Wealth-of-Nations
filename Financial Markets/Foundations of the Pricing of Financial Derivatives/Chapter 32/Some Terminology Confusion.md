@@ -1,3 +1,15 @@
+---
+tags:
+  - '#base_currency'
+  - '#call_currency_amount'
+  - '#currency_ratios'
+  - '#exchange_rates'
+  - '#foreign_currency_options'
+  - '#put_currency_amount'
+  - '#quote_currency'
+  - '#terminology_confusion'
+  - '#usd_eur_notation'
+---
 # 32.5 SOME TERMINOLOGY CONFUSION
 
 Some foreign currency option traders do not like the terminology put and call. They see every option as being both a put and a call. Hence, it is common in foreign currency option transactions to use slightly different terminology than in other types of options. Foreign currency options, thus, are often written with two values referred to as the call currency amount and the put currency amount. As with any option, the holder of the option makes the exercise decision. If they choose to exercise, they tender the put currency amount and receive the call currency amount.6 As an example, suppose an option written on the pound designates the call currency amount as $\pm10,000,000$ and the put currency amount as. $\$15,000,000$ At expiration, if the exchange rate is higher than $\$1.50$ , the holder. of the option tenders (puts) $\$15,000,000$ to the writer and claims (calls) 10,000,000. With the exchange rate higher than $\$1.50$ , the option holder can exchange the $\pm10,000,000$ and receive more than $\$15,000,000$

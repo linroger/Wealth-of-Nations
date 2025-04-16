@@ -1,3 +1,16 @@
+---
+tags:
+  - '#credit_spreads'
+  - '#fico_score'
+  - '#financial_crisis_2008'
+  - '#foreclosures'
+  - '#housing_bubble'
+  - '#loan_to_value_ratio'
+  - '#mortgage_lending_practices'
+  - '#mortgage_securitization'
+  - '#subprime_mortgages'
+  - '#us_housing_market'
+---
 # 8.2 THE U.S. HOUSING MARKET  
 
 Figure 8.4 gives the S&P/Case-Shiller composite-10 index for house prices in the United States between January 1987 and February 2020. This tracks house prices for ten metropolitan areas of the United States. It shows that, in about the year 2o00, house prices started to rise much faster than they had in the previous decade. The very low level of interest rates between 2002 and 2005 was an important contributory factor, but the bubble in house prices was also fueled by mortgage-lending practices.  

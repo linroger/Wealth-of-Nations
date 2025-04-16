@@ -1,3 +1,14 @@
+---
+tags:
+  - '#explicit_finite_difference_method'
+  - '#finite_difference_grid'
+  - '#log_transform'
+  - '#option_pricing'
+  - '#partial_derivatives'
+  - '#risk_neutral_valuation'
+  - '#trinomial_method'
+  - '#weighted_average'
+---
 # 24.2 THE EXPLICIT FINITE DIFFERENCE METHOD
 
 It may be useful to visualize the following small section from the grid illustrated in Figure 24.3. Define any arbitrary point, $t_{:}$ across the columns representing time. Each column is related to the column next to it by one increment or decrement of time, $\Delta t$ Each row is the natural log of the asset price. Each row above or below it increments the log of the asset price by $\Delta y$ . From the point corresponding to the log of asset price, $y,$ and time, $t_{:}$ look to the right one column at the option prices one asset price up, the current asset price, and one asset price down.

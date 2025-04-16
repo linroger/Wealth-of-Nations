@@ -1,3 +1,13 @@
+---
+tags:
+  - '#derivative_securities_valuation'
+  - '#forward_risk_adjusted_probability'
+  - '#growth_optimal_trading_strategy'
+  - '#probability_measure_change'
+  - '#risk_neutral_probability_measure'
+  - '#risk_neutral_valuation'
+  - '#state_price_deflator'
+---
 # 11.1 Introduction  
 
 Chapter 4 illustrated how the general pricing mechanism in a financial market can be represented by a state-price deflator. However, the state-price deflator is not the only way to represent the pricing mechanism of a financial market. As indicated in a one-period framework in Section 4.6.1,. one can equivalently represent the pricing mechanism by a risk-neutral probability measure and the risk-free return. This chapter explores and generalizes this idea and also outlines some applications. of this alternative representation. The risk-neutral pricing technique is the standard approach in. the valuation of derivative securities. The next chapter focuses on derivatives and will illustrate the use of risk-neutral valuation for derivative pricing..  

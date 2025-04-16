@@ -2,12 +2,18 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases: 
-tags:
-  - Primers/Notes
+aliases:
 title: Notes on Debtor-in-Possession DIP Financing
+tags:
+  - '#bankruptcy_code'
+  - '#chapter_11_protection'
+  - '#debtor_in_possession_dip_financing'
+  - '#dip_lender_repayment'
+  - '#dip_loan_features'
+  - '#loan_commitments'
+  - '#super_priority_lien'
+  - '#till_v_scs_credit_corporation'
 ---
-
 [[Notes on Debtor-in-Possession DIP Financing|debtor in possession]]
 
 # Notes on Debtor-in-Possession DIP Financing

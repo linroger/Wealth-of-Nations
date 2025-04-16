@@ -2,11 +2,19 @@
 cssclasses:
   - academia
 aliases:
-tags:
-
 title: Teaching Note 1-Introduction To Fixed Income Securities
+tags:
+  - '#coupon_bonds'
+  - '#discounting'
+  - '#fixed_income_securities'
+  - '#floating_rate_notes'
+  - '#forward_rates'
+  - '#interest_rates'
+  - '#repo_agreements'
+  - '#term_structure'
+  - '#treasury_bonds'
+  - '#yield_curve'
 ---
-
 # Teaching Note 1-Introduction To Fixed Income Securities
 
 ## INTRODUCTION

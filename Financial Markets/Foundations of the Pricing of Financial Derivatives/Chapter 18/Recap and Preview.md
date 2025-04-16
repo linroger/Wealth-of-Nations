@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_option_pricing'
+  - '#black_scholes_merton_model'
+  - '#compound_options'
+  - '#dividend_payments'
+  - '#equity_as_option'
+  - '#option_elasticity'
+  - '#option_greeks'
+  - '#roll_geske_whaley_model'
+---
 # 18.9 RECAP AND PREVIEW
 
 In this chapter, we examined compound options, which are useful in helping us to understand how the stock of a company is actually an option itself, where the underlying is the assets of the firm.

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#call_options'
+  - '#european_options'
+  - '#min_max_options'
+  - '#option_payoffs'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#put_options'
+  - '#risk_free_bonds'
+  - '#stulz_model'
+---
 # 21.1 CHARACTERISTICS OF STULZ'S MIN-MAX OPTION
 
 Suppose there are two assets whose current values at an arbitrary time are $S_{1}$ and $S_{2}$ and whose values at expiration $T$ are $S_{1T}$ and $S_{2T}$ . Each asset may pay a cash flow yield or. require a payment, such as storage costs. We generically denote these continuous cash flows as $\delta_{1}$ and $\delta_{2}$ , consistent with dividend yields in the case where the underlying instruments. are stocks. Consider a call option with exercise price of. $X$ expiring at time $T$ that pays off based on which of the two assets has the lesser value. So what happens at expiration is. two-step. We first determine which is the lesser valued of the two assets. Then we insert the value of that asset into the standard payoff formula for a call. Thus, the call payoff is.

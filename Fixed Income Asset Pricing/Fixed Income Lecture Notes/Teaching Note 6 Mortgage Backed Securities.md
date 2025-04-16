@@ -6,11 +6,19 @@ aliases:
   - 
   - MBS
   - Mortgage Backed Securities
-tags:
-
 title: Teaching Note 6 Mortgage Backed Securities
+tags:
+  - '#binomial_trees'
+  - '#collateralized_mortgage_obligations'
+  - '#interest_rate_risk_management'
+  - '#io_po_strips'
+  - '#mbs_pricing'
+  - '#monte_carlo_simulations'
+  - '#mortgage_backed_securities'
+  - '#negative_convexity'
+  - '#option_adjusted_spread'
+  - '#prepayment_option'
 ---
-
 # Teaching Note 6 Mortgage Backed Securities
 
 [[Fixed Income Lecture Notes]]

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#collateralized_debt_obligations_cdos'
+  - '#credit_derivatives'
+  - '#credit_linked_notes_clns'
+  - '#default_correlation'
+  - '#default_swaps'
+  - '#hedging_strategies'
+  - '#synthetic_corporate_bonds'
+  - '#trigger_intensity_model'
+---
 # 778 CHAPTER 21 SECURITIZATION, ABSs, CDOs  
 
 a.What is the iTraxx index?   

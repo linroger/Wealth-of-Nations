@@ -1,3 +1,16 @@
+---
+tags:
+  - '#accrual_swap'
+  - '#bankers_trust'
+  - '#bizarre_deals'
+  - '#commodity_derivatives'
+  - '#commodity_swaps'
+  - '#energy_derivatives'
+  - '#equity_swaps'
+  - '#index_amortizing_rate_swap'
+  - '#procter_and_gamble'
+  - '#swap_structures'
+---
 # 34.6 OTHER SWAPS  
 
 This chapter has discussed just a few of the swap structures in the market. In practice, the range of different contracts that trade is limited only by the imagination of financial engineers and the appetite of corporate treasurers for innovative risk management tools.  

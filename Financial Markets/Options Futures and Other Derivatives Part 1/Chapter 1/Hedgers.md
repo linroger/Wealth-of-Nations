@@ -1,3 +1,15 @@
+---
+tags:
+  - '#exportco'
+  - '#foreign_exchange_risk'
+  - '#forward_contracts'
+  - '#gpb_usd'
+  - '#hedging'
+  - '#importco'
+  - '#options'
+  - '#risk_management'
+  - '#stock_options'
+---
 # 1.7 HEDGERS  
 
 In this section we illustrate how hedgers can reduce their risks with forward contracts and options.  

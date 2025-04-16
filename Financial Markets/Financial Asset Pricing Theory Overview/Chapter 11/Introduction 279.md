@@ -1,3 +1,13 @@
+---
+tags:
+  - '#derivatives'
+  - '#forward_risk_adjusted_probability_measures'
+  - '#numeraire'
+  - '#probability_measure'
+  - '#risk_adjusted_probability_measures'
+  - '#risk_neutral_probabilities'
+  - '#state_price_deflators'
+---
 # 11.1 Introduction . 279  
 
 11.2 Change of probability measure 279   

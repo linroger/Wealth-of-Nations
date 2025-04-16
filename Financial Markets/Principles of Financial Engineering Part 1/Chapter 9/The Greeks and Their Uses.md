@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_formula'
+  - '#delta'
+  - '#gamma'
+  - '#gamma_trading'
+  - '#greeks'
+  - '#implied_volatility'
+  - '#option_sensitivity'
+  - '#theta'
+  - '#vega'
+  - '#vega_hedging'
+---
 # 9.6 THE GREEKS AND THEIR USES  
 
 The Black-Scholes formula gives the value of a vanilla call (put) option under some specific assumptions. Obviously, this is useful for calculating the arbitrage-free value of an option. But a financial engineer needs methods for determining how the option premium, $C(t)$ , changes as the variables or the parameters in the formula change within the market environment. This is important since the assumptions used in deriving the Black-Scholes formula are unrealistic. Traders, market. makers, or risk managers must constantly monitor the sensitivity of their option books with respect to changes in $S_{t},r,t_{:}$ or $\sigma$ . The role of Greeks should be well understood.  

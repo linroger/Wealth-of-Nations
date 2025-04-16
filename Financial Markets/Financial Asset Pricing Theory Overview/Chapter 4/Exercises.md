@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_free'
+  - '#asset_pricing'
+  - '#continuous_time_economy'
+  - '#dividend_process'
+  - '#market_completeness'
+  - '#one_period_economy'
+  - '#risk_free_asset'
+  - '#sharpe_ratio'
+  - '#state_price_deflator'
+  - '#two_period_economy'
+---
 # 4.8 Exercises  
 
 EXERCISE 4.1 Imagine a one-period economy where the state-price deflator. $\zeta$ is lognormally distributed with $\operatorname{E}[\ln\zeta]=\mu_{\zeta}$ and $\mathrm{Var}[\ln\zeta]=\sigma_{\zeta}^{2}$ . What is the maximal Sharpe ratio of a risky. asset? (Look at Equation (4.14).) What determines the sign of an asset's Sharpe ratio?  

@@ -6,21 +6,17 @@ aliases:
   - 
   - 
 tags:
-
-  - finance
-  - riskanalysis
-  - investmentanalysis
-  - forecasting-biases
-  - behavioral-finance
-  - mean-reversion
-  - "#quantitative-finance"
-  - "#economic-theory"
-  - "#financial-markets"
-  - "#behavioral-biases"
-  - "#forecasting-methods"
-  - "#analyst-optimism"
+  - '#analyst_forecasts'
+  - '#base_rates'
+  - '#behavioral_biases'
+  - '#forecasting_fundamentals'
+  - '#inside_view_vs_outside_view'
+  - '#long_term_growth_ltg'
+  - '#mean_reversion'
+  - '#overconfidence_bias'
+  - '#representativeness_heuristic'
+  - '#sales_growth_forecasts'
 ---
-
 # Week 2 Fundamentals Of Forecasting
 ## FUNDAMENTALS OF FORECASTING
 

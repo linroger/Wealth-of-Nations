@@ -5,11 +5,19 @@ aliases:
   - 
   - 
   - Interest Rate Derivatives
-tags:
-
 title: Teaching Note 4 Interest Rate Derivatives
+tags:
+  - '#covered_interest_rate_parity'
+  - '#flat_volatility'
+  - '#forward_rate_agreement'
+  - '#forward_volatility'
+  - '#interest_rate_derivatives'
+  - '#libor_repo_spread'
+  - '#no_arbitrage'
+  - '#risk_management'
+  - '#swap_spread'
+  - '#swaptions'
 ---
-
 # Teaching Note 4 Interest Rate Derivatives
 
 John Heaton

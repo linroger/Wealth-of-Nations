@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_pricing_theory'
+  - '#capm'
+  - '#factor_beta'
+  - '#factor_mimicking_portfolio'
+  - '#pricing_factors'
+  - '#return_on_portfolio'
+  - '#risk_premium'
+  - '#state_price_deflator'
+  - '#zero_beta_return'
+---
 # 9.3 Pricing factors in a one-period framework  
 
 In Section 4.6.2 we defined a one-dimensional pricing factor in a one-period framework and dis-. cussed the relation between pricing factors and state-price deflators. Below we generalize this to the case of multi-dimensional factors and give a more rigorous treatment..  

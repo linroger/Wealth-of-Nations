@@ -1,15 +1,21 @@
 ---
 aliases:
-- 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
-- Bid-Ask Prices with Adverse Selection/Private Information
-- Bid-Ask Prices with Adverse SelectionPrivate Information.md
-- Bid-Ask Prices with Adverse SelectionPrivate Information
+  - 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
+  - Bid-Ask Prices with Adverse Selection/Private Information
+  - Bid-Ask Prices with Adverse SelectionPrivate Information.md
+  - Bid-Ask Prices with Adverse SelectionPrivate Information
 linter-yaml-title-alias: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private
   Information'
-tags:
-- 
-- 
 title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
+tags:
+  - '#adverse_selection'
+  - '#bid_ask_spread'
+  - '#informed_traders'
+  - '#liquidity_traders'
+  - '#market_efficiency'
+  - '#market_makers'
+  - '#pricing_mechanics'
+  - '#private_information'
 ---
 # Bid-Ask Prices with Adverse SelectionPrivate Information
 

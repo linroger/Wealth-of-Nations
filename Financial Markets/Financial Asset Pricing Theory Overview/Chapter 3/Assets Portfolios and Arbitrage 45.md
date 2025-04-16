@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#assets'
+  - '#continuous_time_framework'
+  - '#discrete_time_framework'
+  - '#market_completeness'
+  - '#marketed_dividends'
+  - '#one_period_framework'
+  - '#portfolios'
+  - '#redundant_assets'
+  - '#trading_strategies'
+---
 # 3 Assets, portfolios, and arbitrage 45  
 
 3.1 Introduction 45   

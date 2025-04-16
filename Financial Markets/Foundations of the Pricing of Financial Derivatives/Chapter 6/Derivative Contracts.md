@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#derivative_contracts'
+  - '#forward_contract'
+  - '#option_pricing'
+  - '#risk_free_rate'
+  - '#risk_neutrality'
+  - '#spot_price'
+  - '#underlying_asset'
+---
 # 6.4 DERIVATIVE CONTRACTS
 
 Our ultimate interest is in one type of derivative, the option. Understanding option pricing is key to understanding the pricing of numerous other financial instruments. Before we get to options, however, let us take a look at a simpler type of derivative: the forward contract. Suppose we create a side bet on the outcome of the first asset. Let Trader A offer to pay Trader $\mathrm{~B~}26.50\$ if the good economy occurs, provided that Trader B will pay Trader A 23.50 if the bad economy occurs. Suppose that Trader A borrows 70 at the risk-free rate of $5\%$ and uses the funds to purchase the asset. They then enter into this side bet to pay Trader $\mathrm{~B~}26.50\$ if the good economy occurs with the condition that they receive 23.50 from Trader B if the bad economy occurs. The 70 Trader B borrows will have to be paid back, thereby requiring a payment of $70(1.05)=73.50$ one period later. Trader B's overall payoff will be as follows:.

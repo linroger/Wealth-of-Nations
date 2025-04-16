@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bilateral_clearing'
+  - '#collateral'
+  - '#counterparty_default'
+  - '#credit_risk'
+  - '#derivatives'
+  - '#legal_risk'
+  - '#market_risk'
+  - '#swap_transactions'
+---
 # 7.11 CREDIT RISK  
 
 When swaps and other derivatives are cleared through a central counterparty there is.   

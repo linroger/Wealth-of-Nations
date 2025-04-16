@@ -1,3 +1,13 @@
+---
+tags:
+  - '#arbitrage_free_conditions'
+  - '#binomial_tree_structure'
+  - '#bond_pricing'
+  - '#dynamic_replication_strategy'
+  - '#martingale_dynamics'
+  - '#one_factor_model'
+  - '#risk_free_rate'
+---
 # 8.6 SOME IMPORTANT CONDITIONS  
 
 In order for these methods to work, some important assumptions are needed. These are discussed in detail here.  

@@ -1,9 +1,19 @@
 ---
-title: "Contract for Differences (CFD) - Overview and Examples"
-source: "https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp"
-description: "A contract for differences (CFD) is a type of derivative trade that is common in many countries but is banned in the U.S."
+title: Contract for Differences (CFD) - Overview and Examples
+source: https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp
+description: A contract for differences (CFD) is a type of derivative trade that is
+  common in many countries but is banned in the U.S.
 tags:
-  - "clippings"
+  - '#cfd_example'
+  - '#cfd_trading'
+  - '#contract_for_differences_cfd'
+  - '#financial_instruments'
+  - '#leverage_trading'
+  - '#overnight_financing'
+  - '#regulatory_oversight'
+  - '#spread_costs'
+  - '#trading_risks'
+  - '#us_cfd_ban'
 ---
 A contract for differences (CFD) is a financial instrument traders use to speculate on prices without owning the underlying asset. When entering into a CFD, an investor and broker agree to exchange the difference between the opening and closing value of the underlying financial product.
 

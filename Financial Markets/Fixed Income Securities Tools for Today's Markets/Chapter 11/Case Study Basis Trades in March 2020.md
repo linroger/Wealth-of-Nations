@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_trades'
+  - '#covid_impact'
+  - '#ctd_bonds'
+  - '#hedge_funds'
+  - '#march_2020'
+  - '#margin_requirements'
+  - '#market_volatility'
+  - '#repo_rates'
+  - '#sofr'
+  - '#treasury_futures'
+---
 # 11.13 CASE STUDY: BASIS TRADES IN MARCH 2020  
 
 In the wake of the COvID pandemic and economic shutdown, US Treasury yields fell during the second half of February and early March 2020, in a relatively orderly flight to safety. Starting March 9, however, many mar-. ket participants sold Treasury bonds to raise cash, temporarily reversing the decline in yields and ushering in a period of heightened market volatility.. These market movements are illustrated in Figure 11.9, which shows yields of the CTD bonds into the June 2020 two-year (TUM0), five-year (FVM0), and 10-year (TYM0) Treasury note futures contracts.  

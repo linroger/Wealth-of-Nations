@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_call_options'
+  - '#american_put_options'
+  - '#arbitrage_opportunities'
+  - '#dividends_impact'
+  - '#european_call_options'
+  - '#european_put_options'
+  - '#exercise_value'
+  - '#option_expiration'
+  - '#option_lower_bounds'
+  - '#option_pricing_model'
+---
 # 2.4 THE VALUE OF AN OPTION AT EXPIRATION
 
 The value of an option when it is exercised is called the exercise value. At expiration, both a European and an American call are worth their exercise values, which is the same for both, because the American call has no time remaining and, therefore, no benefit to exercising it early,

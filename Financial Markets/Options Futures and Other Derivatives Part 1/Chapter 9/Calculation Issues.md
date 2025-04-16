@@ -1,3 +1,16 @@
+---
+tags:
+  - '#counterparty_credit_risk'
+  - '#cva'
+  - '#derivatives_pricing'
+  - '#dva'
+  - '#fva'
+  - '#kva'
+  - '#machine_learning'
+  - '#mva'
+  - '#netting'
+  - '#xva_calculations'
+---
 # 9.4 CALCULATION ISSUES  
 
 All of the XVAs are computationally time-consuming to calculate. Monte Carlo. simulations are necessary to determine expected credit exposures, expected funding costs, and expected capital requirements at future times. CVA is often actively managed. by banks. They sometimes buy protection against their counterparties defaulting using. credit default swaps (see Section 7.12 and Chapter 25) or similar instruments. This reduces their expected losses from defaults.  

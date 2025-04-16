@@ -1,19 +1,20 @@
 ---
-aliases: 
-tags:
-  - "#international-finance"
-  - "#financial-markets"
-  - "#capital-flows-management"
-  - "#financial-instruments"
-  - "#currency-risk-management"
-  - "#eurocurrency-markets"
-  - "#eurobond-markets"
-  - "#offshore-banking"
+aliases:
 cssclasses:
   - academia
 title: The Eurocurrency and Eurobond Markets Annotations
+tags:
+  - '#bond_market_regulation'
+  - '#eurobank'
+  - '#eurobond_issuance'
+  - '#eurobond_market'
+  - '#eurocurrency_market'
+  - '#eurodollar'
+  - '#international_capital_market'
+  - '#international_money_market'
+  - '#libor'
+  - '#offshore_markets'
 ---
-
 # The Eurocurrency and Eurobond Markets Annotations
 
 CHAPTER 12 THE EUROCURRENCY AND EUROBOND MARKETS

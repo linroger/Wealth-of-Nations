@@ -1,17 +1,17 @@
 ---
 aliases:
 tags:
-
-  - "#finance"
-  - "#financialanalysis"
-  - "#valuationanalysis"
-  - "#riskanalysis"
-  - "#investmentanalysis"
-  - "#cost-of-capital"
-  - "#capm"
-  - "#fama-french-model"
+  - '#beta_estimation'
+  - '#capm'
+  - '#cost_of_debt'
+  - '#cost_of_equity'
+  - '#fama_french_model'
+  - '#financial_distress'
+  - '#implied_cost_of_capital'
+  - '#private_firm_valuation'
+  - '#synthetic_rating'
+  - '#valuation_methods'
 ---
-
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## GAME PLAN

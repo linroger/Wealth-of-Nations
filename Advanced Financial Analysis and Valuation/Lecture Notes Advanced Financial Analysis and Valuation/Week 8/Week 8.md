@@ -1,12 +1,9 @@
 ---
 title: Week 8
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financialanalysis"
-  - "#international-investment"
-  - "#valuation-process"
+  - '#waypoint'
+  - '#week_8'
 ---
-
 # Week 8
 %% Begin Waypoint %%
 - **[[Week 8]]**

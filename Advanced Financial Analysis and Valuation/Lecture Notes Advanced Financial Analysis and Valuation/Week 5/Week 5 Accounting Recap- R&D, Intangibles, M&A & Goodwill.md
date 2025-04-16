@@ -4,20 +4,18 @@ cssclasses:
 aliases:
   - Intangibles
   - M&A & Goodwill.md
-tags:
-  - finance
-  - corporatefinance
-  - valuationanalysis
-  - accounting-standards
-  - intangible-assets
-  - mergers-and-acquisitions
-  - "#financial-instruments"
-  - "#economic-theory"
-  - "#macroeconomics"
-  - "#financial-markets"
 title: Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
+tags:
+  - '#goodwill_impairment'
+  - '#intangible_amortization'
+  - '#intangible_assets'
+  - '#kraft_heinz'
+  - '#m_and_a_accounting'
+  - '#non_gaap_reporting'
+  - '#r_and_d_accounting'
+  - '#us_gaap_ifrs'
+  - '#valuation_consequences'
 ---
-
 #### ACCOUNTING FOR R&D AND INTANGIBLES
 
 ##### IFRS AND US GAAP: RESEARCH & DEVELOPMENT

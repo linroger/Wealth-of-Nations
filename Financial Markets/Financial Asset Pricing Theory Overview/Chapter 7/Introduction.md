@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_prices'
+  - '#equilibrium_conditions'
+  - '#homogeneous_beliefs'
+  - '#market_clearing'
+  - '#market_equilibrium'
+  - '#one_period_model'
+  - '#risk_averse_individuals'
+  - '#utility_maximization'
+---
 # 7.1 Introduction  
 
 The previous chapter characterized the optimal decisions of utility-maximizing individuals who take asset prices as given. This chapter will focus on the characterization of market equilibrium asset prices. We will work throughout in a one-period model and assume that the state space is finite, $\Omega=\{1,2,\dots,S\}$ . The results can be generalized to an infinite state space and a multi-period Setting.  

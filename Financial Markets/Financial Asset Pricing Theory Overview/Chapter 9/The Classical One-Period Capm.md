@@ -1,3 +1,14 @@
+---
+tags:
+  - '#classical_capm'
+  - '#intertemporal_capm'
+  - '#market_portfolio'
+  - '#mean_variance_analysis'
+  - '#normally_distributed_returns'
+  - '#quadratic_utility'
+  - '#state_price_deflator'
+  - '#stein_lemma'
+---
 # 9.2 The classical one-period CAPM  
 
 The classical CAPM developed by Sharpe (1964), Lintner (1965), and Mossin (1966) says that return on the market portfolio is a pricing factor so that.  

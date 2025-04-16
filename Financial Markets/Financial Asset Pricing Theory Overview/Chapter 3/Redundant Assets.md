@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#continuous_time_setting'
+  - '#discrete_time_framework'
+  - '#dividend_vectors'
+  - '#law_of_one_price'
+  - '#no_arbitrage'
+  - '#redundant_assets'
+  - '#replicating_portfolio'
+  - '#trading_strategy'
+---
 # 3.5 Redundant assets  
 
 An asset is said to be redundant if its dividends can be replicated by a trading strategy in other assets.  

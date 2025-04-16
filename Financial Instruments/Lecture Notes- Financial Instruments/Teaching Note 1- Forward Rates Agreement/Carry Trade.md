@@ -1,12 +1,21 @@
 ---
 aliases:
-- 
-- GOVERNMENT OF CANADA BOND FUTURES
-- 
+  - 
+  - GOVERNMENT OF CANADA BOND FUTURES
+  - 
 linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
-tags:
-- 
 title: Carry Trade
+tags:
+  - '#arbitrage'
+  - '#backwardation'
+  - '#cash_and_carry_trade'
+  - '#contango'
+  - '#futures_contracts'
+  - '#lgb_contract'
+  - '#montreal_exchange'
+  - '#repo_rate'
+  - '#reverse_cash_and_carry'
+  - '#spot_price'
 ---
 [Lecture Note 1- Forward Rates Agreement](Lecture%20Note%201-%20Forward%20Rates%20Agreement.md)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)

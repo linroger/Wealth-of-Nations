@@ -1,11 +1,19 @@
 ---
 aliases:
-- Case Study of Bear Sterns
-- Case Study of Bear Sterns.md
-tags:
-- 
-- 
+  - Case Study of Bear Sterns
+  - Case Study of Bear Sterns.md
 title: Case Study of Bear Sterns
+tags:
+  - '#asset_management'
+  - '#bear_stearns_case_study'
+  - '#collateralized_debt_obligations_cdos'
+  - '#federal_reserve_intervention'
+  - '#financial_crisis_2008'
+  - '#high_leverage'
+  - '#liquidity_crisis'
+  - '#repo_market'
+  - '#risk_management'
+  - '#subprime_mortgages'
 ---
 # Case Study of Bear Sterns
 

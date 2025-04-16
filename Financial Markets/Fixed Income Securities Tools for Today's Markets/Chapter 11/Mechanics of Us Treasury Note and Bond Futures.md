@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_futures_pricing'
+  - '#conversion_factors'
+  - '#daily_settlement'
+  - '#delivery_options'
+  - '#futures_contract_mechanics'
+  - '#futures_vs_forwards'
+  - '#margin_requirements'
+  - '#tyu1_contract'
+  - '#us_treasury_note_futures'
+---
 # 11.4 MECHANICS OF US TREASURY NOTE AND BOND FUTURES  
 
 As mentioned at the start of the chapter, futures and forwards are essentially similar, in that they require the purchase or sale of bonds in the future, but futures embed various delivery options and require daily settlement.  

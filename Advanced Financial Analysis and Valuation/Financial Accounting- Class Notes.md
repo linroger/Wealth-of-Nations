@@ -3,15 +3,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#finance"
-  - "#accounting"
-  - "#financial-analysis"
-  - "#financial-reporting"
-  - "#accrual-accounting"
-  - "#balance-sheet"
+  - '#accounting_principles'
+  - '#accounts_receivable'
+  - '#balance_sheet'
+  - '#cash_flow_statement'
+  - '#financial_accounting'
+  - '#financial_statements'
+  - '#gaap'
+  - '#income_statement'
+  - '#inventory'
+  - '#revenue_recognition'
 ---
-
 # FINANCIAL ACCOUNTING: CLASS NOTES
 ## 1. LECTURE 1
 ### 1.1 FINANCIAL ACCOUNTING

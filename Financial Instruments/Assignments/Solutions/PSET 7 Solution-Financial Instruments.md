@@ -1,12 +1,21 @@
 ---
 aliases:
-- 1. American Options
-- 
-- 
+  - 1. American Options
+  - 
+  - 
 linter-yaml-title-alias: 1. American Options
-tags:
-- 
 title: 1. American Options
+tags:
+  - '#american_options'
+  - '#asset_volatility'
+  - '#citigroup'
+  - '#credit_crisis'
+  - '#default_probability'
+  - '#dividend_payments'
+  - '#early_exercise'
+  - '#merton_model'
+  - '#option_pricing'
+  - '#stock_price_tree'
 ---
 ---
 

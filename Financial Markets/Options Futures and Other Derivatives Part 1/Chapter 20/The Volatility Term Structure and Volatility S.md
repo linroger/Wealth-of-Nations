@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#implied_volatility'
+  - '#interpolation'
+  - '#option_maturity'
+  - '#option_pricing'
+  - '#volatility_smile'
+  - '#volatility_surfaces'
+  - '#volatility_term_structure'
+---
 # 20.5 THE VOLATILITY TERM STRUCTURE AND VOLATILITY SURFACES  
 
 Traders allow the implied volatility to depend on time to maturity as well as strike price. Implied volatility tends to be an increasing function of maturity when short-dated volatilities are historically low. This is because there is then an expectation that volatilities will increase. Similarly, volatility tends to be a decreasing function of maturity when short-dated volatilities are historically high. This is because there is then an expectation that volatilities will decrease.  

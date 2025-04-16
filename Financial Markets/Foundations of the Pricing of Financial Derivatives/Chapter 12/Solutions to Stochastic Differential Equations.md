@@ -1,3 +1,13 @@
+---
+tags:
+  - '#integration'
+  - '#ito_lemma'
+  - '#non_stochastic'
+  - '#ordinary_differential_equations'
+  - '#sde_vs_ode'
+  - '#stochastic_differential_equations'
+  - '#stochastic_process'
+---
 # 12.4 SOLUTIONS TO STOCHASTIC DIFFERENTIAL EQUATIONS ARE NOT ALWAYS THE SAME AS SOLUTIONS TO CORRESPONDING ORDINARY DIFFERENTIAL EQUATIONS
 
 Let us see how solving a stochastic differential equation (SDE) is different from solving an ordinary differential equation (ODE). Consider the ordinary differential equation:

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#capital_valuation_adjustment'
+  - '#derivatives_transaction'
+  - '#equity_capital'
+  - '#financial_economists'
+  - '#kva'
+  - '#marginal_capital_costs'
+  - '#practitioners'
+  - '#regulatory_capital'
+  - '#return_on_equity'
+---
 # 9.3 KVA  
 
 KVA, capital valuation adjustment, is a charge to a derivatives transaction for the. incremental capital requirements that the transaction gives rise to. Suppose that as a result of entering into a particular transaction a bank calculates that regulations require it to hold an extra $\$1$ million of equity capital throughout the life of the transaction.11. What is the cost of this?.  

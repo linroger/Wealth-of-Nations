@@ -1,9 +1,18 @@
 ---
-title: "Plain Vanilla Swap"
-source: "https://www.investopedia.com/terms/p/plain-vanilla-swap.asp"
-description: "A plain vanilla swap is the most basic type of forward claim that is traded in the over-the-counter market between two private parties."
+title: Plain Vanilla Swap
+source: https://www.investopedia.com/terms/p/plain-vanilla-swap.asp
+description: A plain vanilla swap is the most basic type of forward claim that is
+  traded in the over-the-counter market between two private parties.
 tags:
-  - "clippings"
+  - '#commodity_swap'
+  - '#currency_swap'
+  - '#financial_instruments'
+  - '#fixed_interest_rate'
+  - '#floating_interest_rate'
+  - '#hedging'
+  - '#interest_rate_swap'
+  - '#libor'
+  - '#plain_vanilla_swap'
 ---
 ## What Is a Plain Vanilla Swap?
 

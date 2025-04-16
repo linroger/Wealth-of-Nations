@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_pricing'
+  - '#binomial_tree'
+  - '#cmt_swap'
+  - '#contingent_claims'
+  - '#dynamic_replication'
+  - '#recombining_tree'
+  - '#risk_neutral_pricing'
+  - '#risk_neutral_probabilities'
+  - '#zero_coupon_bond'
+---
 # 7.3 RISK-NEUTRAL PRICING  
 
 Risk-neutral pricing is a technique that modifies an assumed interest rate. process, like the one assumed at the start of this chapter, so that any contingent claim can be priced without having to construct and price its replicating. portfolio. Because the technique requires that the original interest rate pro-. cess be modified only once, and because this modification requires no more effort than pricing a single contingent claim by arbitrage, risk-neutral pric-. ing is an extremely efficient way to price many contingent claims under the same assumed rate process.  

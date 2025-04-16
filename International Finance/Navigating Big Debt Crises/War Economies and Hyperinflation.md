@@ -1,19 +1,20 @@
 ---
 title: War Economies and Hyperinflation
-aliases: 
-tags:
-  - "#hyperinflation"
-  - "#economic-history"
-  - "#debt-management"
-  - "#financial-crises"
-  - "#currency-crisis"
-  - "#war-economies"
-  - "#post-war-economics"
-  - "#german-hyperinflation"
+aliases:
 cssclasses:
   - academia
+tags:
+  - '#currency_devaluation'
+  - '#debt_war'
+  - '#economic_conflicts'
+  - '#gdp_war_impact'
+  - '#german_hyperinflation'
+  - '#hyperinflation'
+  - '#internal_external_conflicts'
+  - '#resource_allocation_war'
+  - '#unemployment_war'
+  - '#war_economies'
 ---
-
 # War Economies and Hyperinflation
 
 Here is my analysis of the text,  presented as a nested markdown set of lecture notes:

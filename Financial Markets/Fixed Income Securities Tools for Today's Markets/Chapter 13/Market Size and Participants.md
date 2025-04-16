@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cftc'
+  - '#entity_netted_notionals'
+  - '#five_year_equivalent'
+  - '#hedging'
+  - '#interest_rate_swaps'
+  - '#market_participants'
+  - '#market_size'
+  - '#notional_amount'
+  - '#swap_dealers'
+---
 # 13.1 MARKET SIZE AND PARTICIPANTS  
 
 Table 13.1 shows outstanding amounts of interest rate swaps.1 Products include OIS, fixed-for-floating swaps, FRAs, interest rate caps and floors, and swaptions. Counterparties include all those that report positions to the US Commodity Futures Trading Commission (CFTC), that is, US entities, US subsidiaries of foreign entities, and foreign swap dealers that register with the CFTC so as to do business with US persons. The first column of the table divides these reporting entities into selected sectors. The second and third columns give the total long and short notional amounts in each sector. As explained in Chapter 2, the notional amount of a swap is the amount. on which payments are based. And, to be consistent with bond terminology, "long" positions are those that increase in value when interest rates fall (e.g., receiving fixed), while "short" positions are those that increase in value when interest rates rise (e.g., paying fixed). Because every swap contract has one counterparty long and the other short, total longs must equal total shorts across the whole market. According to Table 13.1, the total notional amount. of the market is $\$210.7$ trillion. This is an enormous number compared to the sizes of markets as presented in Chapter O: the total amount of debt and loans outstanding in the United States in Figure O.4 is only $\$76$ trillion. As it turns out, however, notional amount outstanding vastly exaggerates the size of the IRS market.  

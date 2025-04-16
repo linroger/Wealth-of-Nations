@@ -1,3 +1,16 @@
+---
+tags:
+  - '#backtesting'
+  - '#carry_trade'
+  - '#exponential_weighting'
+  - '#market_inefficiency'
+  - '#parameter_reversion'
+  - '#quantitative_trading'
+  - '#risk_management'
+  - '#spread_trading'
+  - '#tick_data_analysis'
+  - '#trading_strategies'
+---
 # INTRODUCTION TO QUANTITATIVE TRADING  
 
 # 1.  Basic Features of Quantitative Trading  

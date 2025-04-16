@@ -1,3 +1,12 @@
+---
+tags:
+  - '#business_valuation'
+  - '#capital_investment_appraisal'
+  - '#investment_opportunity_valuation'
+  - '#market_price_of_risk'
+  - '#real_options'
+  - '#risk_neutral_valuation'
+---
 # Chapter 36. Real options 780  
 
 36.1 Capital investment appraisal .780   

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#aggregate_consumption'
+  - '#asset_pricing'
+  - '#asset_pricing_puzzles'
+  - '#ccapm'
+  - '#consumption_based_capital_asset_pricing_models'
+  - '#empirical_studies'
+  - '#expected_returns'
+---
 # 8.1 Introduction  
 
 Previous chapters have shown how state-price deflators determine asset prices and how the optimal consumption choices of individuals determine state-price deflators. In this chapter we combine these observations and link asset prices to consumption. Models linking expected returns to the covariance between return and (aggregate) consumption are typically called Consumption-based Capital Asset Pricing Models (CCAPM). Such models date back to Rubinstein (1976) and Breeden (1979).  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cmo_remic'
+  - '#io_po_strips'
+  - '#mbs_types'
+  - '#mortgage_backed_securities'
+  - '#pac_classes'
+  - '#pass_through_securities'
+  - '#prepayment_risk'
+  - '#seq_classes'
+  - '#tac_classes'
+---
 # 15.11 OTHER MBS  
 
 This section briefly describes MBS other than individual pools. As mentioned earlier, because pass-through securities are relatively large, diversified, and insured portfolios of mortgages, they are owned by a broader investor base and trade with more liquidity than individual mortgages. Taking this another step, the agencies combine pools into larger MBS, to create even more diversified and, if successful, more liquid securities. These conglomerated MBS with FNMA collateral are called Megas; with FHLMC collateral, Giants; and with collateral from both agencies, Supers.  

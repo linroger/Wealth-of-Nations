@@ -1,3 +1,14 @@
+---
+tags:
+  - '#derivative_markets'
+  - '#financial_engineering'
+  - '#institutional_aspects'
+  - '#market_conventions'
+  - '#money_market'
+  - '#syndication_process'
+  - '#taxation_example'
+  - '#trading_volatility'
+---
 # Table of Contents - Principles of Financial Engineering Part1
 # Contents  
 

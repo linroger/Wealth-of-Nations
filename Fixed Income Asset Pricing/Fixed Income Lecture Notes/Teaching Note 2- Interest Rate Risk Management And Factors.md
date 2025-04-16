@@ -4,32 +4,19 @@ cssclasses:
 aliases:
   - TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
-tags:
-  - convexity
-  - debt-management
-  - financial-crises
-  - international-finance
-  - quantlib
-  - asset-pricing
-  - bond-valuation
-  - bonds
-  - convexity-hedging
-  - duration-analysis
-  - duration-management
-  - finance
-  - financial-derivatives
-  - financial-instruments
-  - financial-markets
-  - interest-parity
-  - interest-rate-risk
-  - interest-rate-risk-management
-  - pca-in-finance
-  - quantitative-finance
-  - risk-management
-
 title: Teaching Note 2Interest Rate Risk Management And Factors
+tags:
+  - '#convexity'
+  - '#convexity_hedging'
+  - '#duration'
+  - '#duration_hedging'
+  - '#factor_neutrality'
+  - '#interest_rate_risk_management'
+  - '#macaulay_duration'
+  - '#modified_duration'
+  - '#pvbp'
+  - '#repo_market'
 ---
-
  ![500](9d5e1f9101a284fff965c5728068e694.webp)
 
 - Interest rates vary quite dramatically over time.

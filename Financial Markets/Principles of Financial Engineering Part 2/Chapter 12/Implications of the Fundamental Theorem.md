@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_free_pricing'
+  - '#asset_price_dynamics'
+  - '#expected_asset_returns'
+  - '#financial_engineering'
+  - '#forward_measure'
+  - '#fundamental_theorem_asset_pricing'
+  - '#martingale_property'
+  - '#risk_neutral_probabilities'
+  - '#risk_premia'
+  - '#synthetic_probabilities'
+---
 # 12.5 IMPLICATIONS OF THE FUNDAMENTAL THEOREM  
 
 The fundamental theorem of asset pricing has a number of implications that play a critical role in. financial engineering and derivatives pricing. First, using this theorem we can obtain probability. distributions that can be used in asset pricing. These probability distributions will be objective and. operational. Second, the theorem leads to the so-called Martingale representation of asset prices. Such a representation is useful in modeling asset price dynamics. Third, we will see that the Martingale representation can serve to objectively set expected asset returns. This property eliminates the need to model and estimate the "drift factors' in asset price dynamics. We will now study these issues in more detail.  

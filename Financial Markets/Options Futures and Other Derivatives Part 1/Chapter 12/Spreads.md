@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bear_spreads'
+  - '#box_spreads'
+  - '#bull_spreads'
+  - '#butterfly_spreads'
+  - '#calendar_spreads'
+  - '#diagonal_spreads'
+  - '#european_options'
+  - '#option_spreads'
+  - '#option_strategies'
+---
 # 12.3 SPREADS  
 
 A spread trading strategy involves taking a position in two or more options of the same type (i.e., two or more calls or two or more puts).  

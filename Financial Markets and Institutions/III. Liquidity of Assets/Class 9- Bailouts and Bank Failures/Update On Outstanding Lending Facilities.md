@@ -1,11 +1,18 @@
 ---
 aliases:
-- Update On Outstanding Lending Facilities.md
-- Update On Outstanding Lending Facilities
-tags:
-- 
-- 
+  - Update On Outstanding Lending Facilities.md
+  - Update On Outstanding Lending Facilities
 title: Update On Outstanding Lending Facilities
+tags:
+  - '#commercial_paper_funding_facility_cpff'
+  - '#federal_reserve_act_section_13_3'
+  - '#federal_reserve_lending_facilities'
+  - '#financial_market_liquidity'
+  - '#frbb_loans'
+  - '#frbny_loans'
+  - '#money_market_mutual_fund_liquidity_facility_mmlf'
+  - '#periodic_reports'
+  - '#primary_dealer_credit_facility_pdcf'
 ---
 # Update On Outstanding Lending Facilities
 

@@ -4,14 +4,18 @@ cssclasses:
 aliases:
   - 
   - 
-tags:
-
-  - "#quantitative-finance"
-  - "#financial-derivatives"
-  - "#asset-pricing"
-  - "#black-scholes-model"
-  - "#option-pricing"
 title: Black-Scholes Model
+tags:
+  - '#black_scholes_model'
+  - '#black_scholes_pde'
+  - '#european_options'
+  - '#geometric_brownian_motion'
+  - '#market_price_of_risk'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#replicating_portfolio'
+  - '#risk_neutral_valuation'
+  - '#stochastic_calculus'
 ---
 [[Financial Engineering/7. Black Scholes Model|Black-Scholes Model]]
 

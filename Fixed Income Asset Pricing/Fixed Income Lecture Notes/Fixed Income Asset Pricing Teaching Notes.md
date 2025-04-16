@@ -1,10 +1,20 @@
 ---
 title: Teaching Notes 1
 aliases: []
-tags: [bond-pricing,  derivatives,  financial-crises,  financial-crisis-impact,  financial-derivatives,  financial-instruments,  financial-markets,  fixed-income,  fixed-income-securities,  interest-rate-derivatives,  interest-rate-models,  interest-rate-risk,  interest-rate-risk-management,  macroeconomics,  monte-carlo-simulations,  quantitative-finance,  risk-neutral-pricing,  yield-curve-analysis]
-cssclasses: [academia]
+cssclasses:
+  - academia
+tags:
+  - '#binomial_trees'
+  - '#duration_convexity'
+  - '#fixed_income_securities'
+  - '#interest_rate_derivatives'
+  - '#monte_carlo_simulations'
+  - '#mortgage_backed_securities'
+  - '#prepayment_option'
+  - '#risk_neutral_pricing'
+  - '#term_structure_interest_rates'
+  - '#treasury_securities'
 ---
-
 # Teaching Notes
 # Introduction to Fixed Income Securities
 

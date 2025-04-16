@@ -1,3 +1,14 @@
+---
+tags:
+  - '#commodity_markets'
+  - '#currency_markets'
+  - '#currency_quotes'
+  - '#dividend_discount_model'
+  - '#equity_valuation'
+  - '#foreign_exchange_fx'
+  - '#spot_exchange_rate'
+  - '#triangular_arbitrage'
+---
 # 2.5 EQUITY, COMMODITY, AND CURRENCY MATH  
 
 Stocks, like bonds, are financial assets offering a promise of future cash flows: dividends and capital gains. These cash flows are, however, much less certain. While coupon interest must be paid at the scheduled dates, cash dividends are only paid if declared by the company. Also, bond price fluctuations are constrained by the magnitude of interest rate changes and their. impact on discounting; capital gains and losses on stocks can be very large, as both the cash flows (the numerator) and the discount rate (the denominator) affect the present value of the future, very uncertain, cash flows. Stock valuation is not an exact science and depends critically on the easy-to-disagree-on assumption of the rate of change (growth) in future cash flows. While we review the details of dividend and free cash flow discounting in a later chapter, we offer the basics here.  

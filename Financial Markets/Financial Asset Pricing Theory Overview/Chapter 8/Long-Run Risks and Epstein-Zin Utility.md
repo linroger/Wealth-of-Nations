@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_pricing_model'
+  - '#bansal_yaron_model'
+  - '#campbell_shiller_linearization'
+  - '#consumption_dynamics'
+  - '#consumption_volatility'
+  - '#epstein_zin_utility'
+  - '#long_run_risks'
+  - '#market_portfolio'
+  - '#risk_free_rate'
+  - '#risk_premium'
+---
 # 8.8 Long-run risks and Epstein-Zin utility  
 
 Bansal and Yaron (2004) show that a model with a representative individual having Epstein-Zin utility and with a 'long-run risk component' in aggregate consumption is able to explain some. of the apparently puzzling features of consumption and return data. Both the assumptions on. the preferences and the consumption dynamics are different from the simple consumption-based model, which is a special case. Bansal and Yaron emphasize that it is important to make both these extensions.  

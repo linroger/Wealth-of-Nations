@@ -1,3 +1,16 @@
+---
+tags:
+  - '#absolute_risk_aversion'
+  - '#arrow_pratt_measures'
+  - '#certainty_equivalent'
+  - '#fair_gamble'
+  - '#relative_risk_aversion'
+  - '#risk_aversion'
+  - '#risk_cautiousness'
+  - '#risk_premium'
+  - '#risk_tolerance'
+  - '#utility_function'
+---
 # 5.5 Risk aversion  
 
 In this section we focus on the attitudes towards risk reflected by the preferences of an individual. We assume that the preferences can be represented by a utility function. $u$ and that $u$ is strictly increasing so that the individual is "greedy,' i.e. prefers high consumption to low consumption.. We assume that the utility function is defined on some interval $Z$ of $\mathbb{R}$ , e.g. $Z=\mathbb{R}_{+}\equiv[0,\infty)$  

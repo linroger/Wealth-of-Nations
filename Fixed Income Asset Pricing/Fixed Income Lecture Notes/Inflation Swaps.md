@@ -4,15 +4,16 @@ cssclasses:
 aliases:
   - Pricing and Inflation Swap
 linter-yaml-title-alias: PRICING AN INFLATION SWAP
-tags:
-  - finance
-  - financial-derivatives
-  - inflation-swaps
-  - quantitative-finance
-  - swap-valuation
 title: Inflation Swaps
+tags:
+  - '#breakeven_rate'
+  - '#cpi'
+  - '#discount_factor'
+  - '#duration'
+  - '#inflation_swap'
+  - '#mathematical_formulation'
+  - '#nominal_rates'
 ---
-
 ---
 
 title: PRICING AN INFLATION SWAP

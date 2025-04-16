@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_trading'
+  - '#bond_futures'
+  - '#cheapest_to_deliver_bond'
+  - '#conversion_factor'
+  - '#delivery_options'
+  - '#forward_pricing'
+  - '#gross_basis'
+  - '#implied_repo_rate'
+  - '#net_basis'
+  - '#repo_market'
+---
 # Basis Trading
 # 1 The Government Bond Basis
 

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#butterfly_strategy'
+  - '#delta_hedging'
+  - '#fx_options'
+  - '#implied_volatility'
+  - '#option_payoffs'
+  - '#static_vs_dynamic_positions'
+  - '#straddles'
+  - '#strangles'
+  - '#volatility_based_strategies'
+---
 # 11.3 VOLATILITY-BASED STRATEGIES  
 
 The first set of strategies dealt with directional uses of options. Option portfolios combined with the underlying were used to take a view on the direction of the underlying risk. Now we start looking at the use of options from the point of view of volatility positioning. The strategy used in putting together volatility positions in this section is the following: First, we develop a static position that eliminates exposure. to market direction. This can be done using straddles and their cheaper version, strangles. Second, we combine strangle and straddle portfolios to get more complicated volatility positions, and to reduce costs.  

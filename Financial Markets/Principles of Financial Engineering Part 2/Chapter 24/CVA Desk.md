@@ -1,3 +1,14 @@
+---
+tags:
+  - '#counterparty_risk'
+  - '#credit_risk_management'
+  - '#cva_desk'
+  - '#cva_dva_fva_pricing'
+  - '#derivative_transactions'
+  - '#model_risk'
+  - '#risk_neutral_valuation'
+  - '#trade_origination'
+---
 # 24.8 CVA DESK  
 
 The incorporation of counterparty risk adjustments into market practice has also affected the internal organization of banks as banks created CVA desks.l2 The rationale for their creation was to move counterparty risk management away from traditional asset classes trading desks by creating a specific counterparty risk trading desk. In principle, the creation of CVA desks could be interpreted as allowing traditional traders to work in a counterparty risk-free world in the same way as they did before the GFC. Some top-tier banks used to have CVA desks for many years before the GFC, but their importance has now grown and CVA desks can now be found in most large banks. One of the incentives to create CVA desks is that it reduces the workload and skill needs of traders. They are freed from the need to be familiar with advanced credit models that are linked to traditional derivatives trading models for different asset classes, as illustrated by the CVA study above. Moreover, the traders do not need to concern themselves with netting details. Finally the CVA desk aggregates counterparty risks across trades, thus enabling the bank to take a view of counterparty risk-related options on the whole portfolio of derivatives transactions.  

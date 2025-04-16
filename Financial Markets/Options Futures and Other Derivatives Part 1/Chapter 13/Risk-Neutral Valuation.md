@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_model'
+  - '#derivative_pricing'
+  - '#expected_return'
+  - '#option_pricing'
+  - '#real_world_vs_risk_neutral'
+  - '#risk_aversion'
+  - '#risk_free_rate'
+  - '#risk_neutral_valuation'
+---
 # 13.2 RISK-NEUTRAL VALUATION  
 
 We are now in a position to introduce a very important principle in the pricing of. derivatives known as risk-neutral valuation. This states that, when valuing a derivative, we can make the assumption that investors are risk-neutral. This assumption means investors do not increase the expected return they require from an investment to compensate for increased risk. A world where investors are risk-neutral is referred to as a risk-neutral world. The world we live in is, of course, not a risk-neutral world. The higher the risks investors take, the higher the expected returns they require. However, it turns out that assuming a risk-neutral world gives us the right option price for the world we live in, as well as for a risk-neutral world. Almost miraculously, it finesses the problem that we know hardly anything about the risk aversion of the buyers and sellers of options.  

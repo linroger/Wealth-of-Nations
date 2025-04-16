@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_income'
+  - '#asset_volatility'
+  - '#correlation_coefficient'
+  - '#numeraire_security'
+  - '#option_to_exchange_assets'
+  - '#option_valuation'
+  - '#wiener_processes'
+---
 # 28.7 OPTION TO EXCHANGE ONE ASSET FOR ANOTHER  
 
 Consider next an option to exchange an investment asset worth $U$ for an investment asset worth $V$ . This has already been discussed in Section 26.14. Suppose that the volatilities of $U$ and $V$ are $\sigma_{U}$ and $\sigma_{V}$ and the coefficient of correlation between them is $\rho$  

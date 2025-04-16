@@ -1,9 +1,19 @@
 ---
-title: "Securitization"
-source: "https://www.investopedia.com/terms/s/securitization.asp"
-description: "Securitization pools assets and repackages them into interest-bearing securities."
+title: Securitization
+source: https://www.investopedia.com/terms/s/securitization.asp
+description: Securitization pools assets and repackages them into interest-bearing
+  securities.
 tags:
-  - "clippings"
+  - '#asset_backed_securities'
+  - '#collateralized_debt_obligations'
+  - '#credit_enhancement'
+  - '#financial_instruments'
+  - '#liquidity'
+  - '#mortgage_backed_securities'
+  - '#risk_management'
+  - '#securitization'
+  - '#special_purpose_vehicle'
+  - '#tranches'
 ---
 Definition
 

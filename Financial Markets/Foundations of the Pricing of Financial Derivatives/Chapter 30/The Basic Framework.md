@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_free_price'
+  - '#asset_pricing'
+  - '#black_scholes_merton_model'
+  - '#capital_asset_pricing_model_capm'
+  - '#expected_return'
+  - '#option_pricing'
+  - '#required_return'
+  - '#risk_premium'
+---
 # 30.1 THE BASIC FRAMEWORK
 
 The CAPM is as follows:

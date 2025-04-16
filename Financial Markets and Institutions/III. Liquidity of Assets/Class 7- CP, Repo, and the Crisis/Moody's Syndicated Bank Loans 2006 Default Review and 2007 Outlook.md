@@ -4,31 +4,20 @@ cssclasses:
 aliases:
   - Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook.md
   - Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
-  - "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
-linter-yaml-title-alias: "Syndicated Bank Loans: 2006 Default Review and 2007 Outlook"
-tags:
-  - 
-  - finance
-  - financial-crises
-  - debt-management
-  - credit-cycles
-  - financial-markets
-  - syndicated-loans
-  - default-rates
-  - automotive-industry
-  - "#quantitative-finance"
-  - "#debt-management-strategies"
-  - "#automotive-industry-distress"
-  - "#financial_crises"
-  - "#economics"
-  - "#financial-crisis"
-  - "#corporate-defaults"
-  - "#loan-default-rates"
-  - "#bond-default-rates"
-  - "#recovery-rates"
+  - 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
+linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
 title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
+tags:
+  - '#automotive_industry'
+  - '#bond_recovery_rates'
+  - '#corporate_bond_defaults'
+  - '#dana_corporation'
+  - '#default_outlook_2007'
+  - '#default_rates'
+  - '#loan_recovery_rates'
+  - '#moodys_syndicated_bank_loans'
+  - '#speculative_grade'
 ---
-
 [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]
 
 # Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#currency_derivatives'
+  - '#currency_options'
+  - '#exchange_rate_risk'
+  - '#exotic_derivatives'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#option_valuation'
+  - '#risk_management'
+  - '#speculation'
+---
 # A Primer on Currency Derivatives Gregory P.Hopper\*  
 
 n American company wants to import Anew computer screens from Japan. Company executives discover that they can buy the computer screens at a price of 10,000 yen per screen. At the prevailing exchange rate of 100 yen per dollar, the screens will cost $\$100$ each. Market research reveals that each computer screen can be sold for. $\$105$ in the United States,. a profit of. $\$5$ per screen. Excited by this prospect, the company negotiates a contract to buy 1250 computer screens, yielding a profit of $\$6250$ . The company will take delivery of the screens in exactly one year, at which time payment will be due in full..  

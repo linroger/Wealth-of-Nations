@@ -1,9 +1,18 @@
 ---
-title: "Over-the-Counter Derivatives"
-source: "https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp"
-description: "Over-the-counter derivatives are those traded off of major exchanges."
+title: Over-the-Counter Derivatives
+source: 
+  https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp
+description: Over-the-counter derivatives are those traded off of major exchanges.
 tags:
-  - "clippings"
+  - '#exchange_traded'
+  - '#financial_contract'
+  - '#forward_contract'
+  - '#futures_contract'
+  - '#otc_derivative'
+  - '#payer_swaption'
+  - '#receiver_swaption'
+  - '#swaption'
+  - '#underlying_asset'
 ---
 ## What Is an Over-the-Counter (OTC) Derivative?
 

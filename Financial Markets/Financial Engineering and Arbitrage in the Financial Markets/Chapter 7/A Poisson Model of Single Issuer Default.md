@@ -1,3 +1,15 @@
+---
+tags:
+  - '#corporate_spread'
+  - '#credit_default_swap_pricing'
+  - '#credit_derivatives_pricing'
+  - '#default_intensity'
+  - '#poisson_model'
+  - '#recovery_rate'
+  - '#risk_neutral_valuation'
+  - '#single_issuer_default'
+  - '#survival_probability'
+---
 # 7.4 A POISSON MODEL OF SINGLE ISSUER DEFAULT  
 
 As in Section 7.2, we adopt a reduced-form pricing approach and model default as an exogenous process. Following Jarrow and Turnbull (1995), Duffie and Singleton (1999), and Hull (2010), we assume that defaults follow a Poisson process, i.e. occur as unexpected jumps of a continuous variable. The defaults are defined in a risk-neutral setting so that we can first probability-weight and then discount cash flows using a risk-free rate as we did in Section 7.2. We start by reviewing the assumptions of Poisson processes and distributions, following Hogg and Craig (1978). In their context, we define the default intensity and survival probability per unit of time. We then propose a Poisson model of single issuer default with risk-free and risky discounting, and a fixed recovery percentage. This model can be easily calibrated and used to price credit derivatives. We also offer some thoughts on extending the modeling to include the correlation between the default of the reference security issuer and the protection seller.  

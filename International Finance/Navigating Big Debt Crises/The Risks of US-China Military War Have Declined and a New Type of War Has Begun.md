@@ -1,8 +1,19 @@
 ---
-title: "The Risks of US-China Military War Have Declined and a New Type of War Has Begun | LinkedIn"
-source: "https://www.linkedin.com/pulse/risks-us-china-military-war-have-declined-new-type-has-ray-dalio-dck8e/"
+title: The Risks of US-China Military War Have Declined and a New Type of War Has
+  Begun | LinkedIn
+source: 
+  https://www.linkedin.com/pulse/risks-us-china-military-war-have-declined-new-type-has-ray-dalio-dck8e/
 description:
 tags:
+  - '#apec_meeting'
+  - '#changing_world_order'
+  - '#cold_war_style_conflict'
+  - '#country_power_index'
+  - '#geopolitical_conflict'
+  - '#prisoner_s_dilemma'
+  - '#sun_tzu_art_of_war'
+  - '#technology_war'
+  - '#us_china_relations'
 ---
 *This will become more apparent at the upcoming Biden-Xi APEC meeting.*
 

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_issuance'
+  - '#credit_risk_management'
+  - '#eurobond_issue'
+  - '#issuance_timeline'
+  - '#market_psychology'
+  - '#primary_market'
+  - '#syndicated_loans'
+  - '#syndication_process'
+---
 # 2.8 THE SYNDICATION PROCESS  
 
 A discussion of the syndication process will be useful. Several contract design and pricing issues faced by a financial engineer may relate to the dynamics of the syndication process. Stocks, bonds, and other instruments are not sold to investors in the primary market the way, say, cars or food are sold. The selling process may take a few days or weeks and has its own wrinkles. The following gives an indicative time table for a syndication process.  

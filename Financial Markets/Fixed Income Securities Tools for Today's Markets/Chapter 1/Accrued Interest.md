@@ -1,3 +1,14 @@
+---
+tags:
+  - '#accrued_interest'
+  - '#bond_pricing'
+  - '#bond_trading'
+  - '#coupon_payment'
+  - '#flat_price'
+  - '#full_price'
+  - '#market_convention'
+  - '#present_value'
+---
 # 1.6 ACCRUED INTEREST  
 
 This section describes the market practice of separating the full or invoice.   

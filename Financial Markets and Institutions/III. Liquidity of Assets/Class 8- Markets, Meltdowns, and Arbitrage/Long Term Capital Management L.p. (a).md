@@ -1,4 +1,17 @@
 ---
+tags:
+  - '#arbitrage_trading'
+  - '#financial_markets'
+  - '#financial_modeling'
+  - '#hedge_fund'
+  - '#long_term_capital_management'
+  - '#market_liquidity'
+  - '#portfolio_risk'
+  - '#relative_value_strategy'
+  - '#risk_management'
+  - '#swap_spread'
+---
+---
 aliases:
   - [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L.p. (a).md
   - Long-Term Capital Management,  L.P. (A)

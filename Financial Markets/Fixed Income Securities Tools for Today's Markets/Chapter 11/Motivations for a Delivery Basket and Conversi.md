@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_futures_contracts'
+  - '#cheapest_to_deliver_ctd'
+  - '#conversion_factors'
+  - '#coupon_rate'
+  - '#delivery_basket'
+  - '#liquidity'
+  - '#squeeze'
+  - '#yield_curve'
+---
 # 11.7 MOTIVATIONS FOR A DELIVERY BASKET AND CONVERSION FACTORS  
 
 Historically, the design of bond futures contracts purposely avoided a single underlying security. One reason is to ensure that the liquidity of the futures contract does not depend on the liquidity of a single, underlying bond, which might lose its liquidity for idiosyncratic reasons, for example, through being accumulated by a few large, buy-and-hold investors. A second reason is to avoid losing liquidity to the threat of a squeeze. A trader squeezes a contract by simultaneously buying many contracts and a large fraction of the. deliverable bond, hoping to sell the position at a profit when traders who had sold contracts - but cannot find bonds to deliver - have to pay up to. buy the deliverable bond or to buy back the contracts from the perpetrator of the squeeze. The threat of a squeeze, which makes shorts hesitant to take. positions, can prevent a contract from attracting volume and liquidity..  

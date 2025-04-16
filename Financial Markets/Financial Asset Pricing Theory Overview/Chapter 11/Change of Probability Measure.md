@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bayes_formula'
+  - '#brownian_motion'
+  - '#change_of_measure'
+  - '#equivalent_probability_measures'
+  - '#girsanov_theorem'
+  - '#ito_process'
+  - '#likelihood_ratio_process'
+  - '#probability_measure'
+  - '#radon_nikodym_derivative'
+  - '#stochastic_process'
+---
 # 11.2 Change of probability measure  
 
 Any financial model with uncertainty formally builds on a probability space. $\left(\Omega,\mathcal{F},\mathbb{P}\right)$ , where $\Omega$ is the state space (the set of possible realizations of all relevant uncertain objects),. $\mathcal{F}$ is the set of. events that can be assigned a probability, and. $\mathbb{P}$ is a probability measure assigning probabilities to events. It is implicitly understood that $\mathbb{P}$ gives the true or real-world probabilities of events. The. consumption and investment decisions of individuals will depend on the probabilities they associate with different events and, hence, the equilibrium asset prices will reflect those probabilities. However, as we will see in the following sections, for some purposes it will be interesting to consider other probability measures on the same set of events. We will use the term real-world probability.  

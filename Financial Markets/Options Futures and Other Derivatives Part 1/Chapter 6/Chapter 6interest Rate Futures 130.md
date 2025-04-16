@@ -1,3 +1,14 @@
+---
+tags:
+  - '#day_count_conventions'
+  - '#duration_based_hedging'
+  - '#eurodollar_futures'
+  - '#hedging_strategies'
+  - '#interest_rate_futures'
+  - '#portfolio_hedging'
+  - '#sofr_futures'
+  - '#treasury_bond_futures'
+---
 # Chapter 6.Interest rate futures 130  
 
 6.1 Day count and quotation conventions. 130   

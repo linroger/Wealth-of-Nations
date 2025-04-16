@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cross_currency_swaps'
+  - '#fixed_income_engineering'
+  - '#in_arrears_swaps'
+  - '#measure_change_technology'
+  - '#quanto_swaps'
+  - '#swaps_framework'
+  - '#term_structure_dynamics'
+  - '#term_structure_modeling'
+---
 # CHAPTER 14 Fixed Income Engineering. 459  
 
 14.1 Introduction .460   

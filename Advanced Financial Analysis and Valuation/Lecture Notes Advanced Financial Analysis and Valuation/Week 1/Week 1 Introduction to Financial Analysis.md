@@ -4,27 +4,19 @@ cssclasses:
 aliases:
   - 
   - 
-tags:
-
-  - finance
-  - financial-analysis
-  - valuation
-  - business-models
-  - accounting
-  - economic-moats
-  - value-drivers
-  - dcf-model
-  - financial-markets
-  - financial-modeling
-  - corporate-finance
-  - valuation-methods
-  - business-model-analysis
-  - "#quantitative-finance"
-  - "#financial-instruments"
-  - "#economic-theory"
 title: Week 1 Introduction to Financial Analysis
+tags:
+  - '#accounting_analysis'
+  - '#business_model'
+  - '#discounted_cash_flow'
+  - '#economic_moats'
+  - '#financial_analysis'
+  - '#mean_reversion'
+  - '#multiples_valuation'
+  - '#terminal_value'
+  - '#valuation'
+  - '#value_drivers'
 ---
-
 [[Week 1 Introduction to Financial Analysis|Financial Analysis]]
 
 # Week 1 Introduction to Financial Analysis

@@ -6,13 +6,19 @@ aliases:
   - 
   - Notes on Basic Options Properties
   - Options
-tags:
-  - 
-  - Primers/Notes
-
 title: Notes on Basic Options Properties
+tags:
+  - '#american_options'
+  - '#arbitrage'
+  - '#call_options'
+  - '#european_options'
+  - '#option_bounds'
+  - '#option_payoffs'
+  - '#option_valuation'
+  - '#options_properties'
+  - '#put_call_parity'
+  - '#put_options'
 ---
-
 # Notes on Basic Options Properties
 
    [[Options]]

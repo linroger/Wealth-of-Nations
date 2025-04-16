@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bail_in_bonds'
+  - '#constant_maturity_default_swap_cmds'
+  - '#contingent_convertible_cocos'
+  - '#credit_derivatives'
+  - '#credit_options'
+  - '#forward_start_cdos'
+  - '#leveraged_super_senior_notes'
+  - '#market_risk'
+  - '#regulatory_impact'
+  - '#structured_credit_products'
+---
 # 21.11 STRUCTURED CREDIT PRODUCTS  
 
 CDS is the basic building block of the credit sector. Using CDS engineering, one can immediately. create credit-market equivalents of risk-free fixed-income instruments. Some of these instruments are discussed in this section.  

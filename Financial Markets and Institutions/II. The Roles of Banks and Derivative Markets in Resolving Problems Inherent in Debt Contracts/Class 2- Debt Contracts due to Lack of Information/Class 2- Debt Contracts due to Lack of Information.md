@@ -1,10 +1,17 @@
 ---
-aliases: [Debt Contracts due to Lack of Information]
-linter-yaml-title-alias: 
-tags: [  debt_contracts,  financial_distress,  bankruptcy,  loan_covenants,  bond_covenants,  corporate_governance,  investment_policy,  creditor_rights,  distressed_investing]
+aliases:
+  - Debt Contracts due to Lack of Information
+linter-yaml-title-alias:
 title: Class 2Debt Contracts due to Lack of Information
+tags:
+  - '#bankruptcy'
+  - '#bond_covenants'
+  - '#creditor_rights'
+  - '#debt_contracts'
+  - '#distressed_investing'
+  - '#financial_distress'
+  - '#loan_covenants'
 ---
-
 # Class 2Debt Contracts due to Lack of Information
 %% Begin Waypoint %%
 - **[[Class 2- Debt Contracts due to Lack of Information]]**

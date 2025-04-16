@@ -1,3 +1,15 @@
+---
+tags:
+  - '#commercial_banks'
+  - '#consumer_credit'
+  - '#financial_assets_liabilities'
+  - '#financial_regulation'
+  - '#life_insurance_companies'
+  - '#money_market_funds'
+  - '#nonfinancial_business'
+  - '#pension_funds'
+  - '#us_market_participants'
+---
 # 0.3 US MARKET PARTICIPANTS  
 
 This section describes sectors of market participants. The volumes of debt. securities and loans that appear as assets on the financial balance sheets of various sectors are shown in Figure O.6, while the volumes that appear. as liabilities are shown in Figure O.7. Households, nonfinancial business,. and general government (i.e., federal and municipal) hold a combined $\$10.0$ trillion of debt securities and loans for their own savings or cash. management purposes. Banks, various fund vehicles, insurance companies, pension funds, and other financial entities hold debt securities and loans as intermediaries, investing and managing funds for the ultimate benefit of others. The Monetary Authority, that is, the Federal Reserve, holds assets in the implementation of monetary policy. And the rest of the world, or foreign entities, invest $\$14.0$ trillion in US debt securities and loans on their own or as intermediaries. On the liability side, the federal government borrows $\$24.3$ trillion, and municipalities borrow $\$3.2$ trillion to finance. government expenses that are not covered by taxes and fees. Households borrow $\$17.3$ trillion mostly to finance consumption, and nonfinancial businesses borrow $\$18.0$ trillion to finance investments and acquisitions. The remaining financial sectors borrow as intermediaries, using funds borrowed from some sectors to lend or invest elsewhere. And finally, the rest of the world borrows $\$4.9$ trillion through US debt securities and loans. The text now discusses several of these sectors in greater detail.  

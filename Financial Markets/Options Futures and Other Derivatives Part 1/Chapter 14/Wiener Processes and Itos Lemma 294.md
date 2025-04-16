@@ -1,3 +1,13 @@
+---
+tags:
+  - '#fractional_brownian_motion'
+  - '#ito_s_lemma'
+  - '#lognormal_property'
+  - '#markov_property'
+  - '#stochastic_processes'
+  - '#stock_price_process'
+  - '#wiener_processes'
+---
 # Chapter 14. Wiener processes and Ito's lemma ..294  
 
 14.1 The Markov property .. 294   

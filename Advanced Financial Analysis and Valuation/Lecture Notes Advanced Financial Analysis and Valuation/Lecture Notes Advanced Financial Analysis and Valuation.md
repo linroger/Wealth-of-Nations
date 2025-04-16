@@ -1,13 +1,10 @@
 ---
 title: Lecture Notes Advanced Financial Analysis and Valuation
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#finance"
-  - "#financialanalysis"
-  - "#valuation"
-  - "#advanced-finance"
+  - '#advanced_financial_analysis'
+  - '#lecture_notes'
+  - '#valuation'
 ---
-
 # Lecture Notes Advanced Financial Analysis and Valuation
 %% Begin Waypoint %%
 - **[[Lecture Notes Advanced Financial Analysis and Valuation]]**

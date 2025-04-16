@@ -1,11 +1,24 @@
 ---
 cssclasses: academia
-aliases: [Risk Neutral Pricing,  Binomial Tree Pricing,  Monte Carlo Pricing,  BINOMIAL TREES AND MONTE CARLO SIMULATIONS]
+aliases:
+  - Risk Neutral Pricing
+  - Binomial Tree Pricing
+  - Monte Carlo Pricing
+  - BINOMIAL TREES AND MONTE CARLO SIMULATIONS
 linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
-tags: 
 title: Teaching Note 5 Risk Neutral Pricing
+tags:
+  - '#asian_options'
+  - '#binomial_trees'
+  - '#black_derman_toy_model'
+  - '#callable_bonds'
+  - '#caps_and_floors'
+  - '#ho_lee_model'
+  - '#monte_carlo_simulations'
+  - '#option_pricing'
+  - '#risk_neutral_pricing'
+  - '#swaptions'
 ---
-
 # Teaching Note 5 Risk Neutral Pricing
 
 John Heaton

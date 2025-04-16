@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_pricing_example'
+  - '#bond_valuation'
+  - '#bond_yield_calculation'
+  - '#coupon_reinvestment'
+  - '#holding_period_return'
+  - '#interest_rate_risk'
+  - '#realized_return'
+  - '#us_treasury_bonds'
+  - '#yield_to_maturity'
+---
 # 3.3 YIELD AND RETURN  
 
 As mentioned earlier, yield to maturity is a convenient way to express price.   

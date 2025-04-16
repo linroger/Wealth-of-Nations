@@ -1,3 +1,14 @@
+---
+tags:
+  - '#continuous_time_framework'
+  - '#discrete_time_framework'
+  - '#hansen_jagannathan_bound'
+  - '#multi_period_valuation_models'
+  - '#one_period_framework'
+  - '#risk_neutral_probabilities'
+  - '#state_price_deflators'
+  - '#state_prices'
+---
 # 1 State prices 63  
 
 4.1 Introduction 63   

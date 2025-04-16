@@ -1,3 +1,12 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#continuous_brownian_motion'
+  - '#derivative_pricing'
+  - '#discrete_brownian_motion'
+  - '#kolmogorov_equations'
+  - '#radon_nikodym_derivative'
+---
 # CHAPTER 16 Connecting Discrete and Continuous Brownian Motions
 
 16.1 Brownian Motion in a Discrete World 303

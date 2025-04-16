@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#delta_hedging'
+  - '#delta_neutral'
+  - '#dynamic_hedging'
+  - '#european_options'
+  - '#option_pricing'
+  - '#portfolio_delta'
+  - '#rebalancing'
+  - '#transaction_costs'
+---
 # 19.4 DELTA HEDGING  
 
 The delta $(\Delta)$ of an option was introduced in Chapter 13. It is defined as the rate of change of the option price with respect to the price of the underlying asset. It is the. slope of the curve that relates the option price to the underlying asset price. Suppose. that the delta of a call option on a stock is 0.6. This means that when the stock price changes by a small amount, the option price changes by about $60\%$ of that amount. Figure 19.2 shows the relationship between a call price and the underlying stock price.. When the stock price corresponds to point A, the option price corresponds to point B,. and $\Delta$ is the slope of the line indicated. In general,  

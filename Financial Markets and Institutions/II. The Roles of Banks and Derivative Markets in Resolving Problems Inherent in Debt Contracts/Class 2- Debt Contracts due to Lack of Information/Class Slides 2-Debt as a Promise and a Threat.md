@@ -1,11 +1,19 @@
 ---
 aliases:
-- Class Slides 2-Debt as a Promise and a Threat
-- Class Slides 2-Debt as a Promise and a Threat.md
-tags:
-- 
-- 
+  - Class Slides 2-Debt as a Promise and a Threat
+  - Class Slides 2-Debt as a Promise and a Threat.md
 title: Class Slides 2-Debt as a Promise and a Threat
+tags:
+  - '#borrower_behavior'
+  - '#cash_flow_uncertainty'
+  - '#debt_contracts'
+  - '#debt_vs_equity'
+  - '#equity_contracts'
+  - '#financial_penalties'
+  - '#information_asymmetry'
+  - '#lender_monitoring'
+  - '#liquidation'
+  - '#loan_covenants'
 ---
 # Class Slides 2-Debt as a Promise and a Threat
 

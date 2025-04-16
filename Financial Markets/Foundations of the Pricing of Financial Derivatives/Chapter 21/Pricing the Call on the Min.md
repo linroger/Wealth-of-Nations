@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_price_sensitivity'
+  - '#asset_volatility'
+  - '#bivariate_normal_distribution'
+  - '#black_scholes_merton'
+  - '#correlation_sensitivity'
+  - '#feynman_kac_theorem'
+  - '#min_max_options'
+  - '#option_pricing'
+  - '#pde_solution'
+  - '#time_to_expiration'
+---
 # 21.2 PRICING THE CALL ON THE MIN
 
 Suppose the terminal payout on the call on the min is as given in Equation (21.1). Now suppose our two assets follow the standard lognormal diffusions,

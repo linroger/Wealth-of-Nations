@@ -1,3 +1,23 @@
+---
+tags:
+  - '#bond_duration'
+  - '#bonds_stocks_markets'
+  - '#capital_asset_pricing_model'
+  - '#course_outline'
+  - '#efficient_markets_hypothesis'
+  - '#excel_exercises'
+  - '#financial_markets_macroeconomy'
+  - '#fomc_announcements'
+  - '#investment_decisions'
+  - '#mutual_funds'
+  - '#option_pricing'
+  - '#performance_evaluation'
+  - '#portfolio_choice'
+  - '#public_policy'
+  - '#return_dynamics'
+  - '#returns_yields_historical_record'
+  - '#risk_return'
+---
 # Prof. Carolin Pflueger  
 
 # University of Chicago - Harris School of Public Policy  

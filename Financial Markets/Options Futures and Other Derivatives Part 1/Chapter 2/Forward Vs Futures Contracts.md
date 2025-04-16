@@ -1,3 +1,14 @@
+---
+tags:
+  - '#central_clearing_party'
+  - '#contract_specifications'
+  - '#foreign_exchange_rates'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#futures_market_mechanics'
+  - '#hedging'
+  - '#margin_accounts'
+---
 # 2.11 FORWARD vs. FUTURES CONTRACTS  
 
 The main differences between forward and futures contracts are summarized in Table 2.3.   

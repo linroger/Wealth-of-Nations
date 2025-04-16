@@ -1,19 +1,23 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
-source: https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
-description: 
+source: 
+  https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
+description:
 tags:
-  - "#geopolitical-conflicts"
-  - "#economic-history"
-  - "#international-trade"
-  - "#us-china-relations"
-  - "#military-escalation"
-  - "#global-supply-chains"
+  - '#big_cycle'
+  - '#conflict_gauge'
+  - '#economic_warfare'
+  - '#global_impact'
+  - '#military_spending'
+  - '#pelosi_visit'
+  - '#principles_for_dealing_with_the_changing_world_order'
+  - '#taiwan_crisis'
+  - '#tit_for_tat_escalation'
+  - '#us_china_relations'
 ---
-
 # The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
 
 Unfortunately,  what is happening now between the US and China over Taiwan is following the classic path to war laid out in my book "Principles for Dealing with the Changing World Order.” If events continue to follow this path,  this conflict will have a much larger global impact than the Russia-Ukraine war because it is between the world's leading superpowers that are economically much larger and much more intertwined.

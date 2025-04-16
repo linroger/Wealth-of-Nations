@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_equation'
+  - '#call_spread'
+  - '#delta_hedging'
+  - '#digital_option'
+  - '#option_pricing'
+  - '#static_hedging'
+  - '#uncertain_volatility'
+  - '#vanilla_option'
+---
 # Uncertain Volatility with Static Hedge
 
 We begin with the Black-Scholes equation for pricing a vanilla option contract which is a  parabolic PDE with two variables,  $S$   and  $t$   and with constant parameters such as  $r,D$  , and sigma  (volatility).  Instead of pricing the option with constant volatility, this assumption can be relaxed  and we can assume volatility to be parameter that lies within certain range.

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#implied_volatility'
+  - '#local_volatility'
+  - '#option_pricing'
+  - '#realized_volatility'
+  - '#variance_swap_volatility'
+  - '#volatility_concepts'
+  - '#volatility_surface'
+---
 # 15.8 WHICH VOLATILITY?  
 
 This chapter dealt with four notions of volatility. These must be summarized and distinguished clearly before we move on to discussion of the volatility smile in the next chapter.  

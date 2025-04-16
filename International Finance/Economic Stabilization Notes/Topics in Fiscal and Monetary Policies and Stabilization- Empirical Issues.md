@@ -1,9 +1,21 @@
 ---
 title: Topics in Fiscal and Monetary Policies and StabilizationEmpirical Issues
-aliases: [Topics in Fiscal and Monetary Policies and StabilizationEmpirical Issues]
-linter-yaml-title-alias: Topics in Fiscal and Monetary Policies and StabilizationEmpirical Issues
+aliases:
+  - Topics in Fiscal and Monetary Policies and StabilizationEmpirical Issues
+linter-yaml-title-alias: Topics in Fiscal and Monetary Policies and StabilizationEmpirical
+  Issues
+tags:
+  - '#automatic_stabilizers'
+  - '#discretionary_fiscal_policy'
+  - '#federal_funds_rate'
+  - '#fiscal_policy'
+  - '#gdp'
+  - '#government_debt'
+  - '#high_employment_budget_surplus'
+  - '#inflation'
+  - '#monetary_policy'
+  - '#taylor_rule'
 ---
-
 # Topics in Fiscal and Monetary Policies and StabilizationEmpirical Issues
 
 ## Topics in Fiscal and Monetary Policies and Stabilization: Empirical Issues

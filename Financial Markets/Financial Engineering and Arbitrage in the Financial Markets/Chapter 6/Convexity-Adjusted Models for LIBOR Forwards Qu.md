@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arrears_swap'
+  - '#black_model'
+  - '#cms_options'
+  - '#constant_maturity_swap_cms'
+  - '#convexity_adjustment'
+  - '#eurodollar_futures'
+  - '#quanto'
+  - '#quanto_options'
+  - '#risk_neutral_pricing'
+  - '#yield_curve_bootstrapping'
+---
 # 6.2 CONVEXITY-ADJUSTED MODELS FOR LIBOR FORWARDS, QUANTOS, AND CONSTANT MATURITY SWAPS  
 
 The Black model can be extended, but often requires a convexity adjustment, in order to correctly price European structures that, at first, seem to require an arbitrage-free term structure model. It can also be extended to handle structures that, at first, do not seem to require any option model, and yet they do. The first two examples of when we need a convexity adjustment are of the second variety and are the yield curve bootstrap itself and an arrears swap.  

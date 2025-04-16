@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_swaps'
+  - '#basis_trading'
+  - '#credit_default_swaps'
+  - '#credit_markets'
+  - '#fixed_income_trading'
+  - '#inflation_markets'
+  - '#option_trading'
+  - '#value_at_risk'
+  - '#volatility_strategies'
+  - '#yield_curve_strategies'
+---
 Trading the Fixed Income, Inflation and Credit Markets  
 
 Contents  

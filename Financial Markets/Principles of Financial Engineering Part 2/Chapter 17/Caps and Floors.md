@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_formula'
+  - '#caplet_pricing'
+  - '#caplets'
+  - '#caps_and_floors'
+  - '#floorlets'
+  - '#forward_caps_and_floors'
+  - '#forward_swap'
+  - '#interest_rate_options'
+  - '#libor_rate'
+  - '#volatility_smile'
+---
 # 17.6 CAPS AND FLOORS  
 
 Caps and floors are important instruments for fixed-income professionals. Our treatment of caps. and floors will be consistent with the approach adopted in this text from the beginning. First, we would like to discuss, not the more liquid spot caps and floors that start immediately, but instead the so-called forward caps and floors. These instruments have a future start date and are perhaps. less liquid, but they are more appropriate for learning purposes. Second, we will follow our stan-. dard practice and generate these instruments from instruments that have already been discussed..  

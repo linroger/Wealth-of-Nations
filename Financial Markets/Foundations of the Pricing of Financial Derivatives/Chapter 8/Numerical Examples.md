@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_model'
+  - '#binomial_parameters'
+  - '#black_scholes_merton_model'
+  - '#delta_gamma_theta'
+  - '#greeks'
+  - '#numerical_examples'
+  - '#put_call_parity'
+  - '#time_steps'
+---
 # 8.3 NUMERICAL EXAMPLES
 
 Now let us take a look at some numerical examples. Let us first look at a simple problem with two binomial time steps. Later we extend the problem to more time steps. We use the following inputs: $S=100$ $X=100$ $\tau=2$ (time to expiration), $\sigma=0.4$ $r=0.07$ (discrete), and $n=2$ . With the inputs expressed in these terms, we have to convert them to their binomial analogs. Thus, we now introduce a reasonable and widely used formula to convert the volatility and risk-free rate of the asset return to the binomial parameters,

@@ -1,16 +1,13 @@
 ---
-tags:
-  - "#economics"
-  - "#globalization"
-  - "#comparative-advantage"
-  - "#trade"
 cssclasses: academia
 title: Globalization Textbook Chapters
 aliases:
   - GLOBALIZATION TEXTBOOK CHAPTERS
 linter-yaml-title-alias: GLOBALIZATION TEXTBOOK CHAPTERS
+tags:
+  - '#globalization_textbook'
+  - '#textbook_chapters'
 ---
-
 # Globalization Textbook Chapters
 
 %% Begin Waypoint %%

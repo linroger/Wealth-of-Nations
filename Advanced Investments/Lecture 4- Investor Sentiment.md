@@ -1,9 +1,21 @@
 ---
 title: Lecture 4Investor Sentiment
-tags: []
-aliases: [Lecture 4- Investor Sentiment]
+aliases:
+  - Lecture 4- Investor Sentiment
+tags:
+  - '#analyst_forecasts'
+  - '#convenience_yield'
+  - '#dividend_growth'
+  - '#expectations_data'
+  - '#experienced_payout_growth'
+  - '#fund_flows'
+  - '#investor_sentiment'
+  - '#meme_stocks'
+  - '#price_dividend_ratio'
+  - '#pure_bubbles'
+  - '#return_expectations'
+  - '#risk_aversion'
 ---
-
 # Lecture 4-Investor Sentiment
 [[Lecture 4- Investor Sentiment|investor sentiment]]
 

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#calibrating_instruments'
+  - '#european_swap_options'
+  - '#goodness_of_fit'
+  - '#implied_volatilities'
+  - '#levenberg_marquardt_procedure'
+  - '#model_calibration'
+  - '#penalty_function'
+  - '#volatility_parameters'
+  - '#volatility_term_structure'
+---
 # 32.6 CALIBRATION  
 
 Up to now, we have assumed that the volatility parameters. $a$ and $\sigma$ are known. We now discuss how they are determined. This is known as calibrating the model.  

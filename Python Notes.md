@@ -1,7 +1,16 @@
 ---
-LLM-tagged: 2025-03-10T13:22:13.940Z
+LLM-tagged: 2025-03-10 13:22:13.940000+00:00
+tags:
+  - '#for_loop'
+  - '#in_construct'
+  - '#list_append'
+  - '#list_extend'
+  - '#list_methods'
+  - '#list_slices'
+  - '#python_lists'
+  - '#range_function'
+  - '#while_loop'
 ---
-
 Here is a brief summary of the content with relevant tags:
 
 Python has a built-in list type that can be created using square brackets [] and has various methods to manipulate elements such as append, insert, remove, sort, and reverse. 

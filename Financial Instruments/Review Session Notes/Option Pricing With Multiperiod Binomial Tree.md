@@ -1,12 +1,19 @@
 ---
 aliases:
-- OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
-- 
-- 
+  - OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
+  - 
+  - 
 linter-yaml-title-alias: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
-tags:
-- 
 title: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
+tags:
+  - '#discrete_compounding'
+  - '#european_call_option'
+  - '#multiperiod_binomial_tree'
+  - '#option_pricing'
+  - '#option_pricing_with_dividends'
+  - '#portfolio_self_financing'
+  - '#replicating_portfolio'
+  - '#stock_price_payoff_tree'
 ---
 # OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 

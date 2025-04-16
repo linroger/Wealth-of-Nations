@@ -2,24 +2,21 @@
 cssclasses:
   - academia
 aliases: []
-linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
+linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet
+  Through the Use of Repo
+title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use
+  of Repo
 tags:
-  - finance
-  - financial_crises
-  - repo-market
-  - risk-management
-  - financial-regulation
-  - lehman-brothers
-  - repo-105
-  - accounting-manipulation
-  - "#financial-crises"
-  - "#repo-run"
-  - "#accounting-standards"
-  - "#banking"
-  - "#balance-sheet-manipulation"
-title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
+  - '#accounting_standards'
+  - '#balance_sheet_manipulation'
+  - '#disclosure_obligations'
+  - '#financial_reporting'
+  - '#lehman_brothers_bankruptcy'
+  - '#regulatory_response'
+  - '#repo_105'
+  - '#sfas_140'
+  - '#shadow_banking_system'
 ---
-
 # The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
 
 The Lehman Brothers Bankruptcy C:1 Managing the Balance Sheet through the Use of Repo

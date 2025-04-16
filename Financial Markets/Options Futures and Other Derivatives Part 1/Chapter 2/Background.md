@@ -1,3 +1,16 @@
+---
+tags:
+  - '#closing_out_positions'
+  - '#cme_group'
+  - '#corn_futures'
+  - '#delivery_process'
+  - '#futures_contracts'
+  - '#futures_exchanges'
+  - '#live_cattle_futures'
+  - '#long_position'
+  - '#short_position'
+  - '#spot_price'
+---
 # 2.1 BACKGROUND  
 
 Examples of large futures exchanges are the CME Group (www.cmegroup.com), the Intercontinental Exchange (www.theice.com), Eurex (www.eurexchange.com), B3,. Brazil (www.b3.com.br), the National Stock Exchange of India (www.nse-india .com), the China Financial Futures Exchange (www.cffex.com.cn), and the Tokyo. Financial Exchange (www.tfx.co.jp). (See the table at the end of this book for a more. complete list.)  

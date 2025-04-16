@@ -1,3 +1,13 @@
+---
+tags:
+  - '#crank_nicholson_method'
+  - '#explicit_finite_difference_method'
+  - '#finite_difference_grid'
+  - '#implicit_finite_difference_method'
+  - '#numerical_methods'
+  - '#option_pricing'
+  - '#partial_differential_equation'
+---
 # 24.3 THE IMPLICIT FINITE DIFFERENCE METHOD
 
 The implicit finite difference method uses a somewhat different approach. Consider the section of the grid shown in Table 24.4.

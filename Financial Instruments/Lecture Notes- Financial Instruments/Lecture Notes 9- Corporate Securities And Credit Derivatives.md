@@ -1,7 +1,17 @@
 ---
-LLM-tagged: 2025-03-10T14:13:25.958Z
+LLM-tagged: 2025-03-10 14:13:25.958000+00:00
+tags:
+  - '#cds_spread'
+  - '#corporate_risk_management'
+  - '#credit_default_swaps'
+  - '#credit_derivatives'
+  - '#credit_risk'
+  - '#default_probability'
+  - '#kmv_model'
+  - '#leveraged_equity'
+  - '#merton_model'
+  - '#regulatory_scrutiny'
 ---
-
 Here is a tagged summary:
 
 **Key Points**

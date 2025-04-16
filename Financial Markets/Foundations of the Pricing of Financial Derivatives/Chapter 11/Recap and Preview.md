@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#black_scholes_merton_model'
+  - '#brownian_motion'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#lognormal_distribution'
+  - '#normal_distribution'
+  - '#stochastic_calculus'
+  - '#stochastic_integral'
+---
 # 11.6 RECAP AND PREVIEW
 
 In this chapter, we presented the concept of Ito's lemma, which is a specification roughly analogous to a Taylor series, but which applies to stochastic processes. Ito's lemma enables us to explain how the change in one variable is related to the changes in other variables. We also showed how Ito's lemma can be expressed in terms of a stochastic integral, and we showed how a stochastic integral differs from the standard integrals with which we are familiar from standard math. The information from this chapter will be needed to derive the Black-Scholes-Merton model.

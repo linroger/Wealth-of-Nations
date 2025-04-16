@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#constant_mimicking_return'
+  - '#excess_returns'
+  - '#mean_variance_efficiency'
+  - '#minimum_variance_return'
+  - '#pricing_factors'
+  - '#risk_free_asset'
+  - '#state_price_deflators'
+---
 # 9.4 Mean-variance efficient returns and pricing factors  
 
 We have introduced the mean-variance frontier earlier in Sections 4.6.3 and 6.2.5. Here we provide. an alternative characterization of the mean-variance efficient returns and study the link between mean-variance efficiency and asset pricing theory..  

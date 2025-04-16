@@ -1,7 +1,8 @@
 ---
 title: Financial Engineering
+tags:
+  - '#financial_engineering'
 ---
-
 # Financial Engineering
 
 %% Begin Waypoint %%

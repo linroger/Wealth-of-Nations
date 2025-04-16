@@ -4,14 +4,9 @@ aliases:
   - Problem Sets-Advanced Financial Analysis and Valuation
 linter-yaml-title-alias: Problem Sets-Advanced Financial Analysis and Valuation
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#case-studies"
-  - "#financialanalysis"
-  - "#banking"
-  - "#problem-sets"
-  - "#valuation"
+  - '#problem_sets'
+  - '#waypoints'
 ---
-
 # Problem Sets
 
 %% Begin Waypoint %%

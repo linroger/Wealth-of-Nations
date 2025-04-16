@@ -5,22 +5,16 @@ cssclasses:
 aliases:
   - Fixed Asset Turnover
 tags:
-  - finance
-  - financialanalysis
-  - investmentanalysis
-  - fixed-asset-turnover
-  - efficiency-ratio
-  - financial-markets
-  - financial-modeling
-  - efficiency-ratios
-  - financial-analysis
-  - financial-instruments
-  - asset-pricing
-  - financial-ratios
-  - "#quantitative-finance"
-  - "#asset-management"
+  - '#amazon_example'
+  - '#asset_management'
+  - '#comparative_analysis'
+  - '#fat_ratio'
+  - '#financial_ratio_analysis'
+  - '#fixed_asset_turnover_ratio'
+  - '#manufacturing_industry'
+  - '#pp_and_e'
+  - '#ratio_limitations'
 ---
-
 # Fixed Asset Turnover Ratio
 
 The fixed asset balance is used as a net of accumulated depreciation. A higher [[Fixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]plesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]atio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]y's ability to generate solid profits or cash flows.

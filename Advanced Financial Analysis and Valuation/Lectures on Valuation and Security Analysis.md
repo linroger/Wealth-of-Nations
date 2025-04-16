@@ -1,3 +1,19 @@
+---
+tags:
+  - '#cost_of_capital'
+  - '#discounted_cash_flow'
+  - '#economic_profit'
+  - '#financial_leverage'
+  - '#investor_behavior'
+  - '#mergers_and_acquisitions'
+  - '#momentum_strategies'
+  - '#pro_forma_financials'
+  - '#security_analysis'
+  - '#valuation'
+  - '#valuation_multiples'
+  - '#value_drivers'
+  - '#value_strategies'
+---
 # Lectures on Valuation and Security Analysis
 
 # Abstract

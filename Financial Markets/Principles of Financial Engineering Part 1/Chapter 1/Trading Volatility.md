@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convexity_gains'
+  - '#dynamic_strategy'
+  - '#forward_contract'
+  - '#nonlinear_instrument'
+  - '#options_trading'
+  - '#payoff_function'
+  - '#rebalancing_hedge'
+  - '#risk_management'
+  - '#volatility_swaps'
+  - '#volatility_trading'
+---
 # 1.5 TRADING VOLATILITY  
 
 Practitioners or investors can take positions on expectations concerning the price of an asset.. Volatility trading involves positions taken on the volatility of the price. This is an attractive idea, but how does one buy or sell volatility? Answering this question will lead to a third basic methodology in financial engineering. This idea is a bit more complicated, so the argument here will only be an introduction. Chapter 9 will present a more detailed treatment of the methodology.  

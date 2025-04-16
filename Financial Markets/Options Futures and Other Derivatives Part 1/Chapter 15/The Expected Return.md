@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arithmetic_mean'
+  - '#continuously_compounded_return'
+  - '#expected_return'
+  - '#geometric_average'
+  - '#interest_rates'
+  - '#stock_option_value'
+  - '#stock_price_behavior'
+  - '#stock_risk'
+---
 # 15.3 THE EXPECTED RETURN  
 
 The expected return, $\mu$ , required by investors from a stock depends on the riskiness of the stock. The higher the risk, the higher the expected return. It also depends on the level of interest rates in the economy. The higher the level of interest rates, the higher. the expected return required on any given stock. Fortunately, we do not have to concern. ourselves with the determinants of $\mu$ in any detail. It turns out that the value of a stock option, when expressed in terms of the value of the underlying stock, does not depend on $\mu$ at all. Nevertheless, there is one aspect of the expected return from a stock that frequently causes confusion and needs to be explained.  

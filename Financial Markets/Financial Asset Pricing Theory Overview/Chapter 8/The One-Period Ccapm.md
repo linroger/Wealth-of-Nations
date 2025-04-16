@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#consumption_based_asset_pricing'
+  - '#consumption_growth'
+  - '#consumption_mimicking_portfolio'
+  - '#expected_returns'
+  - '#marginal_rate_of_substitution'
+  - '#one_period_ccapm'
+  - '#relative_risk_aversion'
+  - '#risk_free_rate'
+---
 # 8.2 The one-period CCAPM  
 
 For simplicity let us first investigate the link between asset prices and consumption in the oneperiod framework.  

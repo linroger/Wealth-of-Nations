@@ -1,3 +1,16 @@
+---
+tags:
+  - '#actuarial_data'
+  - '#cat_bonds'
+  - '#hdd_options'
+  - '#historical_data_analysis'
+  - '#insurance_derivatives'
+  - '#long_range_weather_forecasts'
+  - '#risk_neutral_valuation'
+  - '#systematic_risk'
+  - '#temperature_trends'
+  - '#weather_derivatives'
+---
 # 35.7  PRICING WEATHER AND INSURANCE DERIVATIVES  
 
 One distinctive feature of weather and insurance derivatives is that there is no systematic risk (i.e., risk that is priced by the market) in their payoffs. This means that estimates made from historical data (real-world estimates) can also be assumed to apply to the risk-neutral world. Weather and insurance derivatives can therefore be priced by  

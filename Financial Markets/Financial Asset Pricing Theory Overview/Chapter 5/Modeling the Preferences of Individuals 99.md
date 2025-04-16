@@ -1,3 +1,15 @@
+---
+tags:
+  - '#expected_utility'
+  - '#habit_formation'
+  - '#individual_optimality'
+  - '#multi_date_consumption'
+  - '#preference_modeling'
+  - '#recursive_utility'
+  - '#risk_aversion'
+  - '#utility_functions'
+  - '#utility_indices'
+---
 # 5 Modeling the preferences of individuals 99  
 
 5.1 Introduction . 99   

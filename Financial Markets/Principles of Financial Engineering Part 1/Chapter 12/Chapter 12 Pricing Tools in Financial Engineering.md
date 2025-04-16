@@ -1,3 +1,12 @@
+---
+tags:
+  - '#arbitrage_free_dynamics'
+  - '#financial_engineering'
+  - '#fundamental_theorem'
+  - '#pricing_approaches'
+  - '#pricing_method_selection'
+  - '#pricing_tools'
+---
 # CHAPTER 12  Pricing Tools in Financial Engineering. 393  
 
 12.1 Introduction. 394   

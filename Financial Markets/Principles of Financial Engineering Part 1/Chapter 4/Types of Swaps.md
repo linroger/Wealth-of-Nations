@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_swaps'
+  - '#basis_swaps'
+  - '#corporate_bonds'
+  - '#equity_swaps'
+  - '#fannie_mae'
+  - '#fixed_income'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#swap_spread'
+  - '#swaps'
+---
 # 4.4 TYPES OF SWAPS  
 
 Swaps are a very broad instrument category. Practically, every cash flow sequence can be used to generate a swap. It is impossible to discuss all the relevant material in this book. So, instead of. spreading the discussion thinly, we adopt a strategy where a number of critical swap structures are selected and the discussion is centered on these. We hope that the extension of the implied swap. engineering to other swap categories will be straightforward.  
