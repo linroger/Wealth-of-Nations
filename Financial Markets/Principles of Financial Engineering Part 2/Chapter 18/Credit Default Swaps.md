@@ -17,7 +17,7 @@ Note that the discussion so far is simplified since we assume that there is no u
 
 Credit default swap with default possibility at $t_{3}$ only  
 
-![](images/a9f6263f8e609016bc8f6976b1829c66ef0c9f87e044140e31c7c31dd80c8141.jpg)  
+![](a9f6263f8e609016bc8f6976b1829c66ef0c9f87e044140e31c7c31dd80c8141.jpg)  
 
 # FIGURE 18.1  
 
@@ -46,7 +46,7 @@ We make two further simplifying assumptions which can be relaxed with little add
 
 Figure 18.2 shows the cash flows implied by this bond. The bond is initially purchased for 100, three coupon payments are made, and the principal of 100 is returned. $i f$ there is no default. On the  
 
-![](images/c61f3646b921c90a766c9d30a64112e9b6fa0ede021d8f0398c4f18e0d36e85a.jpg)  
+![](c61f3646b921c90a766c9d30a64112e9b6fa0ede021d8f0398c4f18e0d36e85a.jpg)  
 
 # FIGURE 18.2  
 
@@ -76,19 +76,19 @@ $$
 s_{t_{0}}\leq c_{t_{0}}
 $$  
 
-![](images/c9ea9f2dc93620145312920c28cb184cf9d05fac81bd366fac575947653f4ef8.jpg)  
+![](c9ea9f2dc93620145312920c28cb184cf9d05fac81bd366fac575947653f4ef8.jpg)  
 
 # FIGURE 18.3  
 
 Decomposition of a defaultable bond.  
 
-![](images/bb92244008b622b835d8c3d14f1e688d89edd92ce49b7c7a316016c2e8651df4.jpg)  
+![](bb92244008b622b835d8c3d14f1e688d89edd92ce49b7c7a316016c2e8651df4.jpg)  
 
 Remove the spread from the coupon payments...  
 
 (b) Place the spreads on the cash flows  
 
-![](images/fcacd38814bd0fd59a102bc94c6fb70814406a312a4a0d4bad5da485b900fea3.jpg)  
+![](fcacd38814bd0fd59a102bc94c6fb70814406a312a4a0d4bad5da485b900fea3.jpg)  
 
 # FIGURE 18.4  
 
@@ -116,7 +116,7 @@ A natural place to put the LIBOR-based cash flows is shown in Figure 18.5. Nicel
 
 The final adjustment is how to compensate the reduction of. $c_{t_{0}}$ 's by the credit spread. $\mathrm{cds}_{t_{0}}$ Since the first two instruments are complete, there is only one place to put the compensating $\mathrm{cds}_{t_{0}}$ 's.We add the $\mathrm{cds}_{t_{0}}$ to the cash flows shown in Figure 18.3d, and the result is shown in. Figure 18.4b. This is the critical step, since we now have obtained a new instrument that has fallen  
 
-![](images/a259da7af644008a3a1882cd9ae999c6dc2296aa26401ce9ff02ad5c67e6fc8a.jpg)  
+![](a259da7af644008a3a1882cd9ae999c6dc2296aa26401ce9ff02ad5c67e6fc8a.jpg)  
 Add LIBOR-based cash flow to figure 18.3c..   
 ...They become a floating rate money market deposit or a floating rate note (FRN)  
 
@@ -134,7 +134,7 @@ The instrument we have in Figure 18.4b is equivalent to selling protection again
 
 The preceding discussion shows that a defaultable bond can be decomposed into a portfolio made up of (i) a fixed receiver IRS, (ii) a default-free money market deposit, and (iii) a CDS. The use of these instruments implies the following contractual equation:  
 
-![](images/cbcbc893e6e5098b09d776fc3b548579e1b2524aa3ef1740cfcf94ce0ede668e.jpg)  
+![](cbcbc893e6e5098b09d776fc3b548579e1b2524aa3ef1740cfcf94ce0ede668e.jpg)  
 
 By manipulating the elements of this equation using the standard rules of algebra, we can obtain synthetics for every instrument in the equation. In the next section, we show two applications.12.  
 
@@ -148,11 +148,11 @@ First, we consider the way a CDS would be hedged. Suppose a market maker sells a
 
 To obtain a hedge for the CDS, all we need to do is to manipulate the contractual equation obtained above. Rearranging, we obtain the following equation for selling a CDS  
 
-![](images/78a21cdfb0144ce9d720c81118a2baf8af1ed8ddebaec33b468885434f0ab596.jpg)  
+![](78a21cdfb0144ce9d720c81118a2baf8af1ed8ddebaec33b468885434f0ab596.jpg)  
 
 Remembering that a negative sign implies the opposite position in the relevant instrument, we can write the formal synthetic for buying a CDS as  
 
-![](images/37235dd6f172f42ea692d5ed635e48c941adb85cf3fcc7887a8c000a76e00272.jpg)  
+![](37235dd6f172f42ea692d5ed635e48c941adb85cf3fcc7887a8c000a76e00272.jpg)  
 
 The market maker who sold such a CDS provided protection needs to take the opposite position of the left-hand side of Eq. (18.1). This hedge corresponds to the right-hand side of Eq. (18.6). That is to say, the credit derivatives dealer who sold a CDS will hedge the CDS position by creating a synthetic opposite CDS position. This is achieved by first shorting the risky bond, depositing the received 100 in a default-free deposit account, and contracting a payer swap. This and the sale of the CDS will then "cancel" out. The market maker will make money on the bid--ask spread.  
 

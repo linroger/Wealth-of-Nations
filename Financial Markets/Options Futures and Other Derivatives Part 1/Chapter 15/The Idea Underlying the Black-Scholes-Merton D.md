@@ -16,7 +16,7 @@ The Black-Scholes-Merton differential equation is an equation that must be satis
 by the price of any derivative dependent on a non-dividend-paying stock. The equation.   
 is derived in the next section. Here we consider the nature of the arguments we will use.  
 
-![](images/0276c5487a98bec521c3da68a6041843f9b3d6db416eb51ec7f9953fb93aa80b.jpg)  
+![](0276c5487a98bec521c3da68a6041843f9b3d6db416eb51ec7f9953fb93aa80b.jpg)  
 Figure 15.2 Relationship between call price and stock price. Current stock price is $S_{0}$ -  
 
 These are similar to the no-arbitrage arguments we used to value stock options in. Chapter 13 for the situation where stock price movements were assumed to be binomial. They involve setting up a riskless portfolio consisting of a position in the derivative and a position in the stock. In the absence of arbitrage opportunities, the return from the portfolio must be the risk-free interest rate,. $r.$ This leads to the Black-Scholes-Merton. differential equation.  

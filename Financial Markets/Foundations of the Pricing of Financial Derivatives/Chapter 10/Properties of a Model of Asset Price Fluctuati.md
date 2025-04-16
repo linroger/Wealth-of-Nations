@@ -25,19 +25,19 @@ We briefly illustrate these properties with an exchange-traded fund that seeks t
 
 Figure 10.2 illustrates the notion that longer time periods have more uncertainty based on analyzing dividend adjusted prices. Panel A presents daily returns, Panel B presents
 
-![](images/4601f25c15003e1ab13e51a4eecf2aeaefcf9cfcce49882d5fcdb36213aeb806.jpg)
+![](4601f25c15003e1ab13e51a4eecf2aeaefcf9cfcce49882d5fcdb36213aeb806.jpg)
 SPY Normalized Price Series
 
-![](images/7225a1eb220e2c5707bb7246c5fdcb54c10897886af5f2bd85dec93eaa4d904e.jpg)
+![](7225a1eb220e2c5707bb7246c5fdcb54c10897886af5f2bd85dec93eaa4d904e.jpg)
 FIGURE 10.1 20-Year History of SPY, an Exchange-Traded Fund Source: Yahoo Finance..
 FIGURE 10.2  20-Year History of Holding Period Returns for Dividend Adjusted SPY
 Panel A. Daily Returns
 
-![](images/ac302f85bf7eaeb93aca15d05e0f2d18891693fd430f728d6fd28aef3ca9be3b.jpg)
+![](ac302f85bf7eaeb93aca15d05e0f2d18891693fd430f728d6fd28aef3ca9be3b.jpg)
 
 Panel B. Weekly Returns Source: Yahoo Finance.
 
-![](images/083d5eca63b2662797dace431e5c3ed56320d5ac5f2b47922bb73626baaa0ef8.jpg)
+![](083d5eca63b2662797dace431e5c3ed56320d5ac5f2b47922bb73626baaa0ef8.jpg)
 
 Panel C. Monthly Returns Source: Yahoo Finance.
 

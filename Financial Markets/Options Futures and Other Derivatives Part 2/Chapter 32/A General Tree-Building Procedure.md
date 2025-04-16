@@ -38,7 +38,7 @@ $$
 
 This process is symmetrical about $\boldsymbol{R}^{*}=\boldsymbol{0},$ The variable $\boldsymbol{R}^{*}(t+\Delta t)-\boldsymbol{R}^{*}(t)$ is normally distributed. If terms of higher order than $\Delta t$ are ignored, the expected value of $\boldsymbol{R}^{*}(t+\Delta t)-\boldsymbol{R}^{*}(t)$ is $-a\boldsymbol{R}^{*}(t)\Delta t$ and the variance of $R^{*}(t+\Delta t)-R^{*}(t)$ is $\sigma^{2}\Delta t$  
 
-![](images/3ec933a2ea0765320089f2b42abe48ac0ce20098e8e10d7ea608d4b011e2ee5c.jpg)  
+![](3ec933a2ea0765320089f2b42abe48ac0ce20098e8e10d7ea608d4b011e2ee5c.jpg)  
 Figure 32.6 Tree for $R^{*}$ in Hull-White model (first stage).  
 
 The spacing between interest rates on the tree, $\Delta R$ , is set as  
@@ -122,7 +122,7 @@ $$
 \alpha(t)=F(0,t)+\frac{\sigma^{2}}{2a^{2}}(1-e^{-a t})^{2}.
 $$  
 
-![](images/7d4d73ea5e92ae6a7faff831342dbcfdb8293e22794f16a265a85c31878d71ae.jpg)  
+![](7d4d73ea5e92ae6a7faff831342dbcfdb8293e22794f16a265a85c31878d71ae.jpg)  
 Figure 32.7 Tree for $R$ in Hull-White model (the second stage).  
 
 Substituting for the $Q$ s in equation (32.11),  
@@ -225,7 +225,7 @@ $$
 
 where $q(k,j)$ is the probability of moving from node $(m,k)$ to node $(m+1,j)$ and the summation is taken over all values of $k$ where this is nonzero.  
 
-![](images/f7a0ab1da9db44fe3263e038e19337f87e6ca5736bd48883ddf67d4c8e029022.jpg)  
+![](f7a0ab1da9db44fe3263e038e19337f87e6ca5736bd48883ddf67d4c8e029022.jpg)  
 Figure 32.8 Tree for lognormal model.  
 
 Figure 32.8 shows the results of applying the procedure to the Black-Karasinski model in equation (32.9):  

@@ -55,8 +55,8 @@ $$
 
 Notice the symmetry of these values. This result ensures us that the value at time 1 will be zero, which is precisely what we know has to be true for an FRA priced at the equilibrium forward rate. Thus, to summarize, Figure 28.7 shows the tree of values of the FRA.
 
-![](images/e2623bd1b93c24a0b5abc3600a9ff5cb9937a10b925c55ce394ee97e3ef5bafb.jpg)
+![](e2623bd1b93c24a0b5abc3600a9ff5cb9937a10b925c55ce394ee97e3ef5bafb.jpg)
 FIGURE 28.7 Binomial Tree of FRA Values
 
-![](images/136425c84945e3338541c55c5cc1ee79e68e8be58902c884717574e514d257fa.jpg)
+![](136425c84945e3338541c55c5cc1ee79e68e8be58902c884717574e514d257fa.jpg)
 FIGURE 28.8 Tree of One-Period Add-on Spot Rates Through Time 2

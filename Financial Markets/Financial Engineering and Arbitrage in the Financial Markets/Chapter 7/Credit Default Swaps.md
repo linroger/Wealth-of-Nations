@@ -20,7 +20,7 @@ A credit default swap (CDS) is a default insurance arrangement between two count
 
 Figure 7.1 shows the cash flows of a 3-year credit default swap under two alternative scenarios, one that the reference issuer defaults on the reference bond in year 2 and the other that the bond does not default during the life of the swap..  
 
-![](images/4d8a0d6b07d748b8cc41db7f8a401781d60743c1875a3a7acb206506af771e27.jpg)  
+![](4d8a0d6b07d748b8cc41db7f8a401781d60743c1875a3a7acb206506af771e27.jpg)  
 
 Figure 7.1 The credit default swap  
 
@@ -36,7 +36,7 @@ Figure 7.2 shows the cash flows of the strategy under the default and no-default
 
 The investor pays the spread on the default swap. He receives LIBOR plus the spread from the bond. Net, his periodic cash flow is equal to LIBOR. If the default occurs, he stops paying. the spread, and stops receiving LIBOR plus spread. His principal is also returned. In cash settlement, he receives the principal minus the recovery value from the protection seller plus the recovery value in the after-market. In the physical settlement, he exchanges the defaulted bond for the principal from the protection seller. The total principal is used to pay off his borrowing. The investor gained or lost nothing.  
 
-![](images/68c0c2380fe4d2a75d6665776619580cb9d4c6050b6c7eb302f70e4c466e0df1.jpg)  
+![](68c0c2380fe4d2a75d6665776619580cb9d4c6050b6c7eb302f70e4c466e0df1.jpg)  
 Figure 7.2  A par floater replication  
 
 If the bond does not default, then the investor receives all the scheduled LIBOR plus the spread payments, spends the spread on protection and LIBOR on financing, and uses the final principal of the bond to pay off his borrowing.  
@@ -63,7 +63,7 @@ In Figure 7.3, the Kool Kredit Bank has a loan out to ABC on which it receives a
 
 In the par structure of this asset swap, the floating leg's notional principal is set to be equal to the fixed leg's principal. Yet if the bond does not currently trade at par, then the present values of the two legs, including the principal exchanges at the end, are not equal. The floating leg's PV is equal to par, while the fixed leg's PV is equal to the value of the bond. The spread over LIBOR is determined to make the two PVs balance. In the market structure of this asset swap, the floating leg's notional principal is set to equal the current value of the underlying bond or loan which, in turn, is equal to the present value of the fixed leg. The mismatch of the principals results in a net payment at maturity to settle the principal exchange (similar to currency swaps).  
 
-![](images/9fa6703575ed66b1800d8459da648db0bc220aa3fabeca187f383ff8ee17e17b.jpg)  
+![](9fa6703575ed66b1800d8459da648db0bc220aa3fabeca187f383ff8ee17e17b.jpg)  
 Figure 7.3 The total rate of return  
 
 # 7.1.3.2 CDS Basis and No Arbitrage between CDSs and Asset Swaps  
@@ -86,7 +86,7 @@ If the bond defaults and trades at the recovery rate $R$ , the funds borrowed on
 
 A credit-linked note is a debt security whose principal repayment depends on the value of a. third-party reference security. In case of third party default, the defaulted security recovery. value is passed on to the investor in lieu of principal. The enhanced interest rate of the credit-. linked note reflects the implicit sale of credit protection by the investor. The issuer of the note is typically a trust set up by a bank arranging the sale of the note. The trust receives premiums for the sale of the protection to the bank. The premiums subsidize the coupon of the. note issued to the investors. The trust uses the proceeds from the sale of the note to invest in risk-free securities to guarantee the principal of the note. If the third party does not default, that principal is returned to the credit-linked note holder. If the third party defaults, the principal is exchanged for the recovery value of the reference security with the protection buyer, and only the recovery value is returned (early) to the credit-linked note holder.  
 
-![](images/200f9637ed5c2100ed0ebffbc3e7b8647358d2b5befe21b42bf9cb1a03464f7a.jpg)  
+![](200f9637ed5c2100ed0ebffbc3e7b8647358d2b5befe21b42bf9cb1a03464f7a.jpg)  
 Figure 7.4A credit-linked note  
 
 The investor gains a much enhanced interest rate, but bears all the risk of default. The arranging bank acquires protection for its loan or bond portfolio. In the case of default of the underlying issuer, the bank receives the excess of the value of the securities held by the trust over the recovery value of the reference security.  

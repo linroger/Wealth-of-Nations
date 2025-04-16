@@ -58,7 +58,7 @@ $$
 
 This situation is shown in Figure 12.1.  
 
-![](images/46118e4db009e002f8106154e908d47746051f77a7f5aafd97ffebd9073a7121.jpg)  
+![](46118e4db009e002f8106154e908d47746051f77a7f5aafd97ffebd9073a7121.jpg)  
 
 # FIGURE 12.1  
 

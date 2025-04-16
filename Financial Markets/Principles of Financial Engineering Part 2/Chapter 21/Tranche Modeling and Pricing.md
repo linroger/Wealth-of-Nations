@@ -43,7 +43,7 @@ An investor may not be willing to take such a risk. He or she may want to write 
 
 We can calculate the probability that the mezzanine tranche will lose money as,  
 
-![](images/d45d8759ecfc6f9af0dc985cc67182215479266af5d9de7f1d791038ff58b59e.jpg)  
+![](d45d8759ecfc6f9af0dc985cc67182215479266af5d9de7f1d791038ff58b59e.jpg)  
 
 # FIGURE 21.9  
 
@@ -67,7 +67,7 @@ We use Figure 21.10 to discuss the important relation between the area under the
 
 Consider the $3-6\%$ mezzanine tranche as an example. The tranche has two attachment points, the lower attachment point is $3\%$ and the upper attachment point is $6\%$ . In heuristic terms, the lower attachment point represents the subordination, i.e., the cushion the investor has. Defaults up  
 
-![](images/b5e196fad6ed8f3468e91e8dfd5a55892fc80efeacbf7a91f41e5849b2f806ff.jpg)  
+![](b5e196fad6ed8f3468e91e8dfd5a55892fc80efeacbf7a91f41e5849b2f806ff.jpg)  
 
 # FIGURE 21.10  
 
@@ -83,7 +83,7 @@ The first implication is that as correlation goes up, the distribution is being 
 
 Second, in terms of defaults this means that as correlation increases the probability of no defaults increases compared to the low correlation case. This is because the probability of credits  
 
-![](images/18c7332a329ead72f4aead4d04be98dc8de71e09ff38728b582a612254cbcdeb.jpg)  
+![](18c7332a329ead72f4aead4d04be98dc8de71e09ff38728b582a612254cbcdeb.jpg)  
 
 # FIGURE 21.11  
 

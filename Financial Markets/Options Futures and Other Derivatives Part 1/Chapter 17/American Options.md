@@ -120,7 +120,7 @@ Portfolio $D$ : a European put option plus one stock with dividends being reinve
 
 17.32. In Business Snapshot 17.1, what is the cost of a guarantee that the return on the fund will not be negative over the next 10 years?.  
 
-![](images/a4ed021366b8c3e9c9f5e1a9f8da747a27194e8c47c764941a71fcdd22315c56.jpg)  
+![](a4ed021366b8c3e9c9f5e1a9f8da747a27194e8c47c764941a71fcdd22315c56.jpg)  
 
 # Futuresd Options and Black's Model  
 

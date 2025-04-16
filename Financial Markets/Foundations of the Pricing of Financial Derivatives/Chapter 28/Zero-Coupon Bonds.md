@@ -19,7 +19,7 @@ $$
 
 Note that we suppress the O here for notational simplicity. The argument in parentheses is the maturity of the bond. Again, we do not include an argument for the time point we are at, as we shall use the $+$ and - superscripts to indicate where we are. This will cut down on notational clutter.1 There are no superscripts in this case, so we know we are at time 0.
 
-![](images/259ff24b50186e6b4dfa8101b58b57b15c6504bb497192c6159bb2350734dd05.jpg)
+![](259ff24b50186e6b4dfa8101b58b57b15c6504bb497192c6159bb2350734dd05.jpg)
 FGURE 28.1 Heath-Jarrow-Morton Arbitrage-Free Binomial Tree Using the Method of Grant-Vora
 
 We also need the prices at time 0 of zero-coupon bonds with maturities of two, three, and. four periods. We can obtain these values by successively discounting at the forward rates as follows:
@@ -58,7 +58,7 @@ $$
 
 If we continue and fill in the tree, we obtain Figure 28.2.
 
-![](images/f55e75eee39cb4a5be3273a83da89da135f6e113274abde0a0d4864ff4741fc2.jpg)
+![](f55e75eee39cb4a5be3273a83da89da135f6e113274abde0a0d4864ff4741fc2.jpg)
 FIGURE 28.2 Binomial Tree of Zero-Coupon Bond Prices
 
 The litmus test to determine if the tree is properly fit is to price each bond by rolling through the tree backwards using the binomial formula, but we already know the prices at time 1. So, let us see if we can obtain them from the prices at time 2:

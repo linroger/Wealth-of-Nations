@@ -33,10 +33,10 @@ $$
 V=h_{c}S-c.
 $$
 
-![](images/5234a4ee7a189c8be56f729cf614589ccb08fd51b8e3da2245437894ecac9e2a.jpg)
+![](5234a4ee7a189c8be56f729cf614589ccb08fd51b8e3da2245437894ecac9e2a.jpg)
 FIGURE 7.1 Binomial Process for Underlying Asset
 
-![](images/e9f7333a512a646f3c08abd074c88ae68263f7b2b73308be68702a4e1e2b53af.jpg)
+![](e9f7333a512a646f3c08abd074c88ae68263f7b2b73308be68702a4e1e2b53af.jpg)
 FIGURE 7.2 Binomial Process for Underlying Asset and Call Option
 
 The payoffs of this portfolio in the two future states will be
@@ -52,7 +52,7 @@ $$
 V_{u}=V_{d}.
 $$
 
-![](images/2223071c10c90effe8c5e334e5677dfd52772ead7c0aa811fe143703af7c37bc.jpg)
+![](2223071c10c90effe8c5e334e5677dfd52772ead7c0aa811fe143703af7c37bc.jpg)
 FIGURE 7.3 Binomial Process for Underlying Asset, Call Option, and Hedge Portfolio
 
 If we set these two values equal to each other, we have one simple equation with one unknown, $b_{c}S u-c_{u}=b_{c}S d-c_{d}$ The solution is known as the hedge ratio and is expressed as follows:

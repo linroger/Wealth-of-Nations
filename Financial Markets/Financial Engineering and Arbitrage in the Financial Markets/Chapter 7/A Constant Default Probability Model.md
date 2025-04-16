@@ -31,7 +31,7 @@ $$
 B_{2}=\frac{1}{1+0.0300}\left[0.9989\times\left(\mathbb{S}100.0000+\mathbb{S}5\right)+0.0011\times\mathbb{S}0\right]=101.8296
 $$  
 
-![](images/e25d86f9480a228f8bf97974342352af8e38487b663ec9ce373281c785f554a2.jpg)  
+![](e25d86f9480a228f8bf97974342352af8e38487b663ec9ce373281c785f554a2.jpg)  
 Figure 7.5 Constant probability of default  
 
 Table 7.2 Bond valuation using the cumulative survival probability   

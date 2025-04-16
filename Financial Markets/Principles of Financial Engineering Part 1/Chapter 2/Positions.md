@@ -31,19 +31,19 @@ This situation is shown in Figure 2.4. Note that the market professional's total
 
 Figure 2.5 shows a short position from a market practitioner's point of view. Here the situation is simpler. The asset in the short position is borrowed anyway at. $P_{0}=100$ . Hence, when the price  
 
-![](images/fbb4fede80283fb8d196b0829bf9bd85af4a22ea4a0e013160c32577218e5e01.jpg)  
+![](fbb4fede80283fb8d196b0829bf9bd85af4a22ea4a0e013160c32577218e5e01.jpg)  
 
 # FIGURE 2.3  
 
 Long position of a market professional.  
 
-![](images/c62ce2179ec9e76caddd50d3a1aa99cb1a975fadaedf3b054ef8e1f4867183b7.jpg)  
+![](c62ce2179ec9e76caddd50d3a1aa99cb1a975fadaedf3b054ef8e1f4867183b7.jpg)  
 
 # FIGURE 2.4  
 
 Funding a long position.  
 
-![](images/3e775b943edfeef93b021abc4ed297f081e607868039c445388cdc284f18c43f.jpg)  
+![](3e775b943edfeef93b021abc4ed297f081e607868039c445388cdc284f18c43f.jpg)  
 
 # FIGURE 2.5  
 
@@ -82,7 +82,7 @@ In the three years preceding October 2008 Porsche had secretly used derivatives 
 
 Forwards and futures contracts are the most basic type of derivatives and involve some of the simplest cash flow exchanges. We discussed institutional differences between forwards and futures markets in Section 2.2. Next we extend our discussion of positions and payoff diagrams to forwards. A forward is a contract written at time $t_{0}$ with a commitment to accept delivery of (deliver) $N$ units of the underlying asset at a future date $t_{1}$ $t_{0}<t_{1}$ , at the forward price. $\boldsymbol{F}_{t_{0}}$ . At time $t_{0}$ nothing changes hands; all exchanges will take place at time $t_{1}$ . The current price of the underlying asset $S_{t_{0}}$ is called the spot price and is not written anywhere in the contract, instead, $F_{t_{0}}$ is used during the settlement. Note that. $\boldsymbol{F}_{t_{0}}$ has a $t_{0}$ subscript and is fixed at time. $t_{0}$ . An example of such a. contract is shown in Figure 2.6.  
 
-![](images/bad5b70b69db5ad03cb545d27df98541e305440a9a63ee7e421e4bc689937b74.jpg)  
+![](bad5b70b69db5ad03cb545d27df98541e305440a9a63ee7e421e4bc689937b74.jpg)  
 
 # FIGURE 2.6  
 
@@ -111,7 +111,7 @@ Elementary forwards and futures contracts exist on a broad array of underlyings.
 
 It is interesting to note some technical aspects of the graphs in Figures 2.3-2.7. First, the payoff diagrams that indicate the value of the positions taken are linear in the price of the asset. As the price $P$ changes, the payoff changes by a constant amount. The sensitivity of the position to price. changes is called delta. In fact, given that the change in price will determine the gains or losses on a one-to-one basis, the delta of a long position will be 1. In the case of a short position, the delta. will equal $^{-1}$  
 
-![](images/4c0cf95e8f72e4a9b9965cff2ea98909f6c1ebc2712a4aa12f751296af01691b.jpg)  
+![](4c0cf95e8f72e4a9b9965cff2ea98909f6c1ebc2712a4aa12f751296af01691b.jpg)  
 
 # FIGURE 2.7  
 

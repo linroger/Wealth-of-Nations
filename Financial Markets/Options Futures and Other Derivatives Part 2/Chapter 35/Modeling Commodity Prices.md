@@ -92,7 +92,7 @@ Using the procedure in Section 32.5, a trinomial tree can be constructed for $X$
 
 Figure 35.1Tree for $X.$ Constructing this tree is the first stage in constructing a tree for the spot price of a commodity, S. Here $p_{u},p_{m}$ and $p_{d}$ are the probabilities of "up", "middle", and "down" movements from a node.  
 
-![](images/b4fd1316c25ade3b6a42b2488adac10ba3c160026683841618161bcf025f8f30.jpg)  
+![](b4fd1316c25ade3b6a42b2488adac10ba3c160026683841618161bcf025f8f30.jpg)  
 
 The variable ln $S$ follows the same process as $X$ except for a time-dependent drift. Analogously to Section 32.5, the tree for $X$ can be converted to a tree for ln $S$ by displacing the positions of nodes. This tree is shown in Figure 35.2. The initial node corresponds to a price of 20, so the displacement for that node is ln 20. Suppose that the displacement of the nodes at 1 year is $\alpha_{1}$ . The values of the. $X$ at the three nodes at the 1-year point are. $+0.3464,0$ , and $-0.3464$ . The corresponding values of $\ln S$ are $0.3464+\alpha_{1}$ $\alpha_{1}$ and $-0.3464+\alpha_{1}$ . The values of $S$ are therefore $e^{0.3464+\alpha_{1}}$ $e^{\alpha_{1}}$ , and $e^{-0.3464+\alpha_{1}}$ respectively. We require the expected value of $S$ to equal the futures price. This means that.  
 
@@ -130,9 +130,9 @@ When a large number of time steps are used, it is necessary to interpolate betwe
 
 Figure 35.2 Tree for spot price of a commodity:. $p_{u},p_{m}$ and $p_{d}$ are the probabilities of "up", "middle", and "down" movements from a node.  
 
-![](images/1d0334d9442745e36930e05f66db75ecd69fad3eef0a3eedf70397097604e29b.jpg)  
+![](1d0334d9442745e36930e05f66db75ecd69fad3eef0a3eedf70397097604e29b.jpg)  
 
-![](images/5e16420dad9bcbb3afaa97e59dcb7951b0d4ff34c368621708765c6640c1cfea.jpg)  
+![](5e16420dad9bcbb3afaa97e59dcb7951b0d4ff34c368621708765c6640c1cfea.jpg)  
 Figure 35.3 Valuation of an American put option with a strike price of $\$20$ using the tree in Figure 35.2.  
 
 The percentage seasonal factors are then used to deseasonalize the futures prices that are known. Monthly deseasonalized futures are then calculated using interpolation. These futures prices are then seasonalized using the percentage seasonal factors and the tree is built. Suppose, for example, that the futures prices are observed in the market for September and December as 40 and 44, respectively, and we want to calculate a futures prices for October and November. Suppose further that the percentage seasonality factors for September, October, November, and December are calculated from historical data as 0.95, 0.85, 0.8 and 1.1, respectively. The deseasonalized futures prices are $40/0.95=42.1$ for September and $44/1.1=40\$ for December. The interpolated deseasonalized futures prices are 41.4 and 40.7 for October and November, respectively. The seasonalized futures prices that would be used in tree construction for October and November are $41.4\times0.85=35.2$ and $40.7\times0.8=32.6$ respectively.  

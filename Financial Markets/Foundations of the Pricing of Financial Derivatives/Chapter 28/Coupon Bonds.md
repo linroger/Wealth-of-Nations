@@ -32,5 +32,5 @@ $$
 
 We can continue to step back and obtain the prices at times 2 and 1. And we know that at time 1, the price should equal the 0.9066, the value we previously obtained. Indeed, it will. The tree of coupon bond prices is shown in Figure 28.3.
 
-![](images/0de506b2a8f1dbf2bf12c2c92c42dbfeabfb1612c7011d8436c75ff822eb0ef8.jpg)
+![](0de506b2a8f1dbf2bf12c2c92c42dbfeabfb1612c7011d8436c75ff822eb0ef8.jpg)
 FIGURE 28.3 Binomial Tree of Coupon Bond Prices

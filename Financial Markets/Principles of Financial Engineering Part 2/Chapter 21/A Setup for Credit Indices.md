@@ -17,7 +17,7 @@ A credit index is obtained by selecting $n$ such reference entities indexed by $
 
 Let $I_{t}$ represent the spread on the credit index for the preselected $n$ names. The "index" would then trade as a separate security from the underlying single-name CDSs. It should be. regarded as a standalone security with a known maturity, coupon, and standardized documentation. Trading the index is equivalent to buying or selling protection on the reference portfolio. names with equal weights.' The spread of this portfolio, i.e., $I_{t}$ , is quoted separately from the underlying CDSs.  
 
-![](images/33549bc7d260114f63a2adc4ba9b798e5f924e0a1e7f7818c8663f7d22abf213.jpg)  
+![](33549bc7d260114f63a2adc4ba9b798e5f924e0a1e7f7818c8663f7d22abf213.jpg)  
 
 # FIGURE 21.7  
 
@@ -69,7 +69,7 @@ Essentially, there will be four possibilities or scenarios at the end of the yea
 
 On the other hand, if the position was for more than 1 year the default possibilities would be more complicated for the second year. This is discussed later in this chapter..  
 
-![](images/e474ad4f71203c31f35955e53d220520c0904d023425e1fda09108f6de6b6519.jpg)  
+![](e474ad4f71203c31f35955e53d220520c0904d023425e1fda09108f6de6b6519.jpg)  
 
 # FIGURE 21.8  
 

@@ -26,7 +26,7 @@ $$
 t_{i}-t_{i-1}=\delta
 $$  
 
-![](images/a368602be4b860578e64bfff5c53a7f9beb63e1c129a6cd459040d3140997721.jpg)  
+![](a368602be4b860578e64bfff5c53a7f9beb63e1c129a6cd459040d3140997721.jpg)  
 
 # FIGURE 17.4  
 
@@ -54,7 +54,7 @@ In this representation, the right-hand side default-free bond prices are state d
 
 Suppose two-period interest rate swaps trade actively. A spot swap that will be initiated at time $t_{2}$ is shown in Figure 17.5. The spot swap rate. $s_{t_{2}}^{i}$ for this instrument is unknown at time. $t_{0}$ and this is implied by the $i$ superscript. As of time $t_{0}$ , markets are assumed to trade a forward swap, with a. rate denoted by $f_{t_{0}}$ that corresponds to $s_{t_{2}}^{i}$  
 
-![](images/d89d4dc7c613f8fb6ba6aebe11bae285311e90409882894e00bddd2d23d707df.jpg)  
+![](d89d4dc7c613f8fb6ba6aebe11bae285311e90409882894e00bddd2d23d707df.jpg)  
 
 # FIGURE 17.5  
 

@@ -15,7 +15,7 @@ tags:
 
 The BSM normal model, as applied in the previous section, has a single. and constant volatility parameter. Taking the model literally, this would. imply that all swaptions can be priced with a single basis-point volatility. Figure 16.2 illustrates, however, that this is not the case: even across swap-. tions with the same expiration and underlying tenor, like either the 2y2y. and 5y10y swaptions in the figure, implied volatilities vary significantly with. strike. As of the pricing date, the two-year swap rate, two years forward is $1.11\%$ (not shown in the figure), which is the ATM strike for 2y2y swap-. tions. The darker gray curve shows, therefore, that 2y2y implied volatilities. increase mostly linearly from 56 basis points at a strike of. $0.11\%$ , which is 100 basis points below the ATM strike, to 125 basis points at a strike of $4.11\%$ , which is 300 basis points above the ATM strike. At the same time, the 10-year swap rate, five years forward is. $2.43\%$ . The lighter gray curve of the figure shows, therefore, that implied volatilities of 5y10y swaptions are roughly 75 basis points for strikes below that ATM strike, and then increase along the curve shown to 95 basis points at a strike 300 basis points over the ATM strike. The phenomenon that basis-point volatility is not constant across strikes is known as the volatility skew. The phenomenon that basis-point volatility is higher for both in- and out-of-the-money options than for at-the-money options, as seen here for 5y10y swaptions, is known as the smile, or, to the extent this effect is not symmetric, the smirk.  
 
-![](images/a1eee1f5c7f6bdfa9e5ab0967f2a404eb8e2ddea36364bb49e87e49329699e79.jpg)  
+![](a1eee1f5c7f6bdfa9e5ab0967f2a404eb8e2ddea36364bb49e87e49329699e79.jpg)  
 FIGURE 16.2  Implied Basis-Point Volatilities of 2y2y and 5y10y US Dollar Swaptions Across Strikes, as of May 14, 2021..  
 
 The existence of a skew does not prevent traders from quoting swap-. tion prices in terms of normal BSM volatility or vice versa, so long as the volatilities vary with strike. But practitioners rely on BSM not just to quote a price or volatility, but also to compute delta, that is, to compute how the value of a swaption changes as its underlying forward rate changes. And the usefulness of BSM for this purpose is cast into doubt by Figure 16.2. Without getting into great detail here, the implied volatility of an option at. a given strike can be thought of as the expected gamma-weighted average of instantaneous volatilities over possible paths of the underlying forward rate as it changes from its current level to the strike. From this perspective, the implied volatility curves in Figure 16.2 mean that instantaneous volatilities vary in a complex way with the level the forward rate. In that case, however, the value of an option changes with the level of rates in two ways: a direct effect, that is, the change in the underlying forward; and an indirect effect, that is, the change in volatility as a result of the change in the level of rates.  
@@ -729,7 +729,7 @@ $$
 
 which is the short-term rate assigned to the date-2, state 1 node of Figure A9.1.  
 
-![](images/62486b2d32838b659f63617cee941608f04ccc7008e7f1f3e186fc81c94cfefe.jpg)  
+![](62486b2d32838b659f63617cee941608f04ccc7008e7f1f3e186fc81c94cfefe.jpg)  
 FIGURE A9.1  Binomial Tree Setup for Three Dates of the Vasicek Model.  
 
 The next stages of the construction are to find the missing rates and probabilities in Figure A9.1. From the date-1 up-state, the unknowns, $r^{u u}$ and $p$ , must result in the drift and volatility specified by the model. Mathematically, the drift condition is,  
@@ -746,7 +746,7 @@ $$
 
 Solving Equations (A9.3) and (A9.4) simultaneously shows that $p=$ .4917 and $r_{u u}=4.1949\%$ . These values are given in Figure A9.2 along with solutions to the analogous equations for $q$ and $r_{d d}$  
 
-![](images/d48af9d873ed039decf28fe4f47c3090a96280176e624855cc7f526cf2c258c2.jpg)  
+![](d48af9d873ed039decf28fe4f47c3090a96280176e624855cc7f526cf2c258c2.jpg)  
 FIGUrE A9.2 Binomial Tree Solution for Three Dates of the Vasicek Model.  
 
 # A9.2 THE GAUSS+ MODEL  

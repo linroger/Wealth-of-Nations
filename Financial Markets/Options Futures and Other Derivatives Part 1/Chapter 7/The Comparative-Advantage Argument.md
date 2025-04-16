@@ -28,7 +28,7 @@ Table 7.5 Borrowing rates that provide a basis for the comparative-advantage arg
 
 <html><body><table><tr><td></td><td>Fixedrate</td><td>Floatingrate</td></tr><tr><td>AAACorp</td><td>4.0%</td><td>Floating - 0.1%</td></tr><tr><td>BBBCorp</td><td>5.2%</td><td>Floating + 0.6%</td></tr></table></body></html>  
 
-![](images/dafa1781a5e4b70379cfcb642583fe748589903b86b927dd3341155811bfa5fc.jpg)  
+![](dafa1781a5e4b70379cfcb642583fe748589903b86b927dd3341155811bfa5fc.jpg)  
 
 they might negotiate is shown in Figure 7.7. AAACorp agrees to pay BBBCorp interest at a floating reference rate on $\$10$ million. In return, BBBCorp agrees to pay AAACorp. interest at a fixed rate of $4.35\%$ per annum on $\$10$ million.  
 
@@ -53,7 +53,7 @@ In this example, the swap has been structured so that the net gain to both sides
 
 If the transaction between AAACorp and BBBCorp were brokered by a financial. institution, an arrangement such as that shown in Figure 7.8 might result. In this case, AAACorp ends up borrowing at floating -. $0.33\%$ , BBBCorp ends up borrowing at $4.97\%$ , and the financial institution earns a spread of four basis points per year. The. gain to AAACorp is. $0.23\%$ ; the gain to BBBCorp is $0.23\%$ ; and the gain to the. financial institution is. $0.04\%$ . The total gain to all three parties is. $0.5\%$ as before.  
 
-![](images/0b8b5a252085bdaf175d980d35adef841dfa68992edadd4c5db7ce397111980f.jpg)  
+![](0b8b5a252085bdaf175d980d35adef841dfa68992edadd4c5db7ce397111980f.jpg)  
 
 # Criticism of the Comparative-Advantage Argument  
 

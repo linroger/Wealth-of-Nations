@@ -75,7 +75,7 @@ Figure 9.2 shows the expiration date payoffs of plain vanilla put and call optio
 
 We now consider a real-life application of these concepts. The following example looks at. Microsoft options traded at the Chicago Board of Options Exchange and discusses various parameters within this context.  
 
-![](images/fcaf7e115081a35a3291ba4e3db84aa7b26ce5fa080edae315652fff53fc5ecc.jpg)  
+![](fcaf7e115081a35a3291ba4e3db84aa7b26ce5fa080edae315652fff53fc5ecc.jpg)  
 
 # FIGURE 9.2  
 
@@ -129,7 +129,7 @@ Hence, we get the typical price diagram for a plain vanilla European call option
 
 Consider point $A$ in the top part of Figure 9.3. Here, at time $t$ , the option is deep out-of-the money. $S_{t}$ is close to the origin and the time value is close to zero. The tangent at point $A$ has a positive  
 
-![](images/d46835500a409aa6fdc9930487b46c3b0be1ad853a176ad1b62c851d964e774f.jpg)  
+![](d46835500a409aa6fdc9930487b46c3b0be1ad853a176ad1b62c851d964e774f.jpg)  
 
 # FIGURE 9.3  
 

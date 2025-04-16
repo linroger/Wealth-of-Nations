@@ -21,7 +21,7 @@ In this section, we go through examples of some common strategies to get the fla
 
 As a starting point, let us consider an example of a 130/30 long-short equity fund. The fund goes long $130\%$ of the invested funds, using the leverage from shorting. $30\%$ of the invested funds. This is a strategy pursued by some mutual funds that try to compete with hedge funds..  
 
-![](images/beda1f3702ba25c8d5da609f2bc418994cb540fae99d4dc266eceb38e1ef1a98.jpg)  
+![](beda1f3702ba25c8d5da609f2bc418994cb540fae99d4dc266eceb38e1ef1a98.jpg)  
 Figure 12.2Hedge fund strategies Source: Various public domains. Breakdown of assets under management as of Q1 2010. Approximate and unconfirmed.  
 
 Of course, there is nothing constraining a hedge fund from using a much higher leverage and ratio of longs to shorts, or by using invested funds to create a short bias..  

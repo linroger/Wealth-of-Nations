@@ -122,7 +122,7 @@ End Function
 ```
 
 
-![](images/dcaaf5bcb77a70afb3ae251b6a767389bd7003f13fdfb0d678affea74648e554.jpg)
+![](dcaaf5bcb77a70afb3ae251b6a767389bd7003f13fdfb0d678affea74648e554.jpg)
 
 # Basic Concepts in Valuing Risky Assets and Derivativesd
 

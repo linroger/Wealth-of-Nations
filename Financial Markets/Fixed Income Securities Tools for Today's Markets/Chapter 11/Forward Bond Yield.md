@@ -16,7 +16,7 @@ As covered in Chapter 3, the yield to maturity of a bond is the single rate such
 
 Figure 11.4 diagrams the relationship between the spot yield, the repo. rate, and the forward yield, and Table 11.3 reports the spot and forward yields of the 2.875s of 05/15/2028 and the 1.125s of 02/15/2031, which are computed using Equation (A3.5) and the data given in the tables of previous section. As explained in that section, when the coupon rate exceeds the repo rate, market prices align such that investors are indifferent between i) buying a bond at its spot price, and ii) investing in repo to the forward date and buying the bond at its lower, forward price. Figure 11.4 and Table 11.3 make the same point in terms of yield: investors are indifferent between i) investing at the spot yield, and ii) investing in repo to the forward date and then at the higher, forward yield. Put another way, the spot yield is a complex weighted average of the relatively low repo rate and the relatively high forward yield, where the weights reflect the lengths of the relative holding. periods, as indicated in Figure 11.4..  
 
-![](images/6e34b70f551ec7cacfae9b16b71e4992734c72065c60b6297b973dbac0c43bad.jpg)  
+![](6e34b70f551ec7cacfae9b16b71e4992734c72065c60b6297b973dbac0c43bad.jpg)  
 
 TABLE 11.3  Spot and Forward Yields for the US Treasury 2.875s of 05/15/2028 and 1.125s of 02/15/2031, as of May 14, 2021, for Spot Settlement on May 17, 2021, and for Forward Settlement on September 30, 2021. The Repo Rate is $0.015\%$ . Yields Are in Percent.   
 

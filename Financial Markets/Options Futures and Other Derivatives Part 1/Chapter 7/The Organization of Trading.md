@@ -13,7 +13,7 @@ tags:
 
 Financial institutions such as Citigroup act as market makers and provide bid and ask. quotes for the fixed rates that they are prepared to exchange in swaps. Table 7.4 shows. the full set of quotes that might be made at the time of the trades considered in Figures 7.3 to 7.6. The bid quote is the fixed rate that applies when the financial.  
 
-![](images/b66153b39056401dc665083c4d065473a6bca231cb9164b6986da6c4c59a6ed1.jpg)  
+![](b66153b39056401dc665083c4d065473a6bca231cb9164b6986da6c4c59a6ed1.jpg)  
 Figure 7.6 Intel uses the swap in Figure 7.3 to convert a floating-rate investment into a fixed-rate investment..  
 
 Table 7.4  Example of bid and ask fixed rates in the swap market for a swap where payments are exchanged quarterly (percent per annum).   

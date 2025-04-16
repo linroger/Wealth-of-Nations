@@ -174,7 +174,7 @@ Routledge, B. R., D. J. Seppi, and C. S. Spatt. "Equilibrium Forward Curves for 
 5.36. A company that is uncertain about the exact date when it will pay or receive a foreign currency may try to negotiate with its bank a forward contract that specifies a period during which delivery can be made. The company wants to reserve the right to choose the exact delivery date to fit in with its own cash flows. Put yourself in the position of the bank. How would you price the product that the company wants?.   
 5.37. A company enters into a forward contract with a bank to sell a foreign currency for $K_{1}$ at time $T_{1}$ . The exchange rate at time $T_{1}$ proves to be $S_{1}$ $(>K_{1})$ . The company asks the bank if it can roll the contract forward until time $T_{2}\left(>T_{1}\right)$ rather than settle at time $T_{1}$ . The bank agrees to a new delivery price,. $K_{2}$ . Explain how $K_{2}$ should be calculated.  
 
-![](images/7722cd44af2c45dc5cd612c264bfc1ec309c0fbb2bf9b11e7a8597910490bb85.jpg)  
+![](7722cd44af2c45dc5cd612c264bfc1ec309c0fbb2bf9b11e7a8597910490bb85.jpg)  
 
 # Interest Rate Futures  
 

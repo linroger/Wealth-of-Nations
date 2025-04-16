@@ -172,7 +172,7 @@ Delta, vega, and gamma hedging deal with the first three terms in this expansion
 
 When portfolios of options are considered, the trader's problem is more complicated. because the implied volatility of an option on a particular asset depends on the option's. strike price and time to maturity. The trader must consider the portfolio's exposure to the different ways the volatility surface can change over a short period of time. Volatility surfaces are discussed in the next chapter.  
 
-![](images/8a24463f9c68c6e5365670ae8d54110347457331209e245292b98547551bfe5f.jpg)  
+![](8a24463f9c68c6e5365670ae8d54110347457331209e245292b98547551bfe5f.jpg)  
 
 # Volatility Smiles and Volatility Surfaces  
 

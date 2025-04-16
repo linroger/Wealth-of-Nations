@@ -25,10 +25,10 @@ A range forward contract is a variation on a standard forward contract for hedgi
 
 An alternative is to buy a European put option with a strike price of $K_{1}$ and sell a European call option with a strike price. $K_{2}$ , where $K_{1}<1.3200<K_{2}$ This is known as a. short position in a range forward contract. The payoff is shown in Figure 17.1a. Both options are on one million pounds. If the exchange rate in three months proves to be less than $K_{1}$ , the put option is exercised and as a result the company is able to sell the.  
 
-![](images/adc977bf606000e82be955cbc5fb9515556feb849562ebdc73f8f0f68562fa23.jpg)  
+![](adc977bf606000e82be955cbc5fb9515556feb849562ebdc73f8f0f68562fa23.jpg)  
 Figure 17.1  Payoffs from (a) short and (b) long position in a range forward contract.  
 
-![](images/eb96f0044ce27a39e64f917c1de3e5d6ee65cabb0fb63c91b6ecfc8bead955e6.jpg)  
+![](eb96f0044ce27a39e64f917c1de3e5d6ee65cabb0fb63c91b6ecfc8bead955e6.jpg)  
 Figure 17.2 Exchange rate realized when a range forward contract is used to hedge either a future foreign currency inflow or a future foreign currency outflow.  
 
 one million pounds at an exchange rate of $K_{1}$ . If the exchange rate is between $K_{1}$ and $K_{2}$ neither option is exercised and the company gets the current exchange rate for the one million pounds. If the exchange rate is greater than $K_{2}$ , the call option is exercised against the company and the one million pounds is sold at an exchange rate of $K_{2}$ . The exchange rate realized for the one million pounds is shown in Figure 17.2.  

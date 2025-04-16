@@ -15,7 +15,7 @@ We start by considering a very simple situation. A stock price is currently $\$2
 
 It turns out that a relatively simple argument can be used to price the option in this. example. The only assumption needed is that arbitrage opportunities do not exist. We. set up a portfolio of the stock and the option in such a way that there is no uncertainty about the value of the portfolio at the end of the 3 months. We then argue that, because the portfolio has no risk, the return it earns must equal the risk-free interest rate. This enables us to work out the cost of setting up the portfolio and therefore the option's price. Because there are two securities (the stock and the stock option) and only two possible outcomes, it is always possible to set up the riskless portfolio.  
 
-![](images/38bb7f8e8dc74666700d85811ed7ef4684d103bf4e73b02816f74942031f1670.jpg)  
+![](38bb7f8e8dc74666700d85811ed7ef4684d103bf4e73b02816f74942031f1670.jpg)  
 Figure 13.1 Stock price movements for numerical example in Section 13.1.  
 
 Consider a portfolio consisting of a long position in $\Delta$ shares of the stock and a short. position in one call option (. $\Delta$ is the Greek capital letter "delta"). We calculate the value of $\Delta$ that makes the portfolio riskless. If the stock price moves up from $\$20$ to $\$22$ , the value of the shares is. $22\Delta$ and the value of the option is 1, so that the total value of the portfolio is $22\Delta\:-\:1$ . If the stock price moves down from $\$20$ to $\$18$ , the value of the. shares is $18\Delta$ and the value of the option is zero, so that the total value of the portfolio is $18\Delta$ . The portfolio is riskless if the value of $\Delta$ is chosen so that the final value of the portfolio is the same for both alternatives. This means that  
@@ -91,7 +91,7 @@ $$
 
 Figure 13.2 Stock and option prices in a general one-step tree.  
 
-![](images/30b26acc1895528c931671080278dcdc5c6a1fba6c100201700a000efbe0699a.jpg)  
+![](30b26acc1895528c931671080278dcdc5c6a1fba6c100201700a000efbe0699a.jpg)  
 
 If there is a down movement in the stock price, the value becomes  
 

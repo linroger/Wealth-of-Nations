@@ -16,7 +16,7 @@ The key to finding the right way to hedge volatility risk or to take positions i
 
 First, we know from Chapters 12 and 13 that by using options with different strikes we can essentially create any payoff that we like-if options with a broad range of strikes exist and if markets are complete. Thus, we should, in principle, be able to create pure volatility instruments by using judiciously selected option portfolios..  
 
-![](images/bcd5e284bad6082c08783036fa601e138279961fb2321234d6e1c792e48fe5d9.jpg)  
+![](bcd5e284bad6082c08783036fa601e138279961fb2321234d6e1c792e48fe5d9.jpg)  
 
 # FIGURE 15.6  
 
@@ -38,7 +38,7 @@ $$
 V(S_{t},t)=\frac{1}{K_{0}^{2}}C(S_{t},t,K_{0})+\frac{1}{K_{1}^{2}}C(S_{t},t,K_{1})+\frac{1}{K_{2}^{2}}C(S_{t},t,K_{2})
 $$  
 
-![](images/68e9db1b8941c79aee8e7e3f508893b8cd5676a07e5125c878d190e8d8210855.jpg)  
+![](68e9db1b8941c79aee8e7e3f508893b8cd5676a07e5125c878d190e8d8210855.jpg)  
 Variance vega of a portfolio of options with weights inversely proportional to the square of the strike price.  
 
 # FIGURE 15.7  

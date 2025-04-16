@@ -58,7 +58,7 @@ Hence, the true fixed cost of USD funds is greater than $6\%$
 
 The issuer will first convert this into floating rate USD funds. For this purpose, the issuer will sell a swap. That is to say, the issuer will receive fixed. $5.46\%$ and pay floating LIBOR flat. This is equivalent to paying approximately USD. $\operatorname{LIBOR}+54$ bp. Finally, the issuer will convert. these USD floating rate funds into GBP floating rate funds by paying floating GBP and receiving floating USD.  
 
-![](images/95477193aa96ffcfe91d6df4978b62bf07427626640c02a567a5b53b4181af37.jpg)  
+![](95477193aa96ffcfe91d6df4978b62bf07427626640c02a567a5b53b4181af37.jpg)  
 
 # FIGURE 6.11  
 

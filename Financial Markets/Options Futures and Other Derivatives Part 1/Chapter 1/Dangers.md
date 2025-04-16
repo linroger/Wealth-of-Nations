@@ -128,7 +128,7 @@ What opportunities are open to an arbitrageur in the following situations?
 
 1.44. Suppose that in the situation of Table 1.1 a corporate treasurer said: "I will have 1 million to sell in 6 months. If the exchange rate is less than 1.19, I want you to give me 1.19. If it is greater than 1.25, I will accept 1.25. If the exchange rate is between 1.19 and 1.25, I will sell the sterling for the exchange rate.' How could you use options to satisfy the treasurer?  
 
-![](images/dd92bfc742c39262ab1a3434b324d708ec6915bbb3a3a69c800cdbf8e27e9dff.jpg)  
+![](dd92bfc742c39262ab1a3434b324d708ec6915bbb3a3a69c800cdbf8e27e9dff.jpg)  
 
 # Futuresd Markets and Centrald Counterparties  
 

@@ -58,10 +58,10 @@ Figure 10.5 is the stock price simulated from the given results. It should be no
 
 We turn now to summarize key characteristics and important properties of the Wiener process. These properties will prove useful in later chapters.
 
-![](images/e0ae371b3a14016f859acc813afb1caacf87df3c7a8ed5d15525f4a49e042e7e.jpg)
+![](e0ae371b3a14016f859acc813afb1caacf87df3c7a8ed5d15525f4a49e042e7e.jpg)
 FIGURE 10.3  Simulation of Normal Distribution from Unit Uniform Distribution
 
-![](images/fb4694d6ad3dada15ae41f4a882a46c6283f88b9d236da60e35b5d0e2c6e43fa.jpg)
+![](fb4694d6ad3dada15ae41f4a882a46c6283f88b9d236da60e35b5d0e2c6e43fa.jpg)
 FIGURE 10.4Simulation of $d\mathbb{W}_{t}$ and $d\mathbb{W}_{t}^{2}$
 
-![](images/9102e9523c35781eaae98dda174ef7c16b5768a94897c2dbf102abf2315a8f4e.jpg)
+![](9102e9523c35781eaae98dda174ef7c16b5768a94897c2dbf102abf2315a8f4e.jpg)

@@ -45,7 +45,7 @@ $$
 \omega p_{t L}+(1-\omega)p_{t H}\geq p_{t M}.
 $$
 
-![](images/f69c7d455860e8ee9d61daab354d7183f835f9890e3b908ba43658daf828ead5.jpg)
+![](f69c7d455860e8ee9d61daab354d7183f835f9890e3b908ba43658daf828ead5.jpg)
 FIGURE 2.5 Relationship Between Option Prices and Strike Prices Expressed as Percentage of Stock Price
 
 If there are dividends, the results are unaffected, as these instruments will not receive or pay dividends. If the puts are American, the outcomes above would occur early, and the. same result would hold..

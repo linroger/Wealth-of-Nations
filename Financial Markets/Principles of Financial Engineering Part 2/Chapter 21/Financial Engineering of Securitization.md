@@ -30,7 +30,7 @@ Now, if the company is set to receive these three cash flows only, assuming simi
 
 Consider two different ways of packaging the same cash flows. If the company "sells' cash. flow 3 and backs a bond issue with this cash flow only, the probability of default will be much  
 
-![](images/5a045fd67d7af57af109ed8c697d886e544e23477e50de66dfe110fe82b27b70.jpg)  
+![](5a045fd67d7af57af109ed8c697d886e544e23477e50de66dfe110fe82b27b70.jpg)  
 
 # FIGURE 21.1  
 
@@ -73,7 +73,7 @@ Securitization is neither secured corporate financing, nor the sale of an asset.
 
 We should also compare whole loan sales versus securitization. Securitization is on a serviceretained basis, whereas a loan sale is service released. The buyer of the loan would like to service  
 
-![](images/a8955ca9d73257c104a9827d975699fb57dc9d1a9308aad2178dc56358a965e1.jpg)  
+![](a8955ca9d73257c104a9827d975699fb57dc9d1a9308aad2178dc56358a965e1.jpg)  
 
 # FIGURE 21.2  
 

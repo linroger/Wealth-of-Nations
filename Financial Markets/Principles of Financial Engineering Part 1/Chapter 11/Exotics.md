@@ -21,7 +21,7 @@ The general principle is this. Instead of combining plain vanilla options to cre
 
 To understand binary options, first remember the static strangle and straddle strategies. The idea was to take a long (short) volatility position, and benefit if the underlying moved more (less) than what the implied volatility suggested. Binary options form essential building blocks for similar volatility strategies, which can be implemented in a cheaper and perhaps more efficient way. Also, binary options are excellent examples of option engineering. We begin with a brief description of a European-style binary option.  
 
-![](images/c46a29509c4ea85c6762962a7a9e7ee500ae105ec1619f4ef1df48313f119250.jpg)  
+![](c46a29509c4ea85c6762962a7a9e7ee500ae105ec1619f4ef1df48313f119250.jpg)  
 
 # FIGURE 11.16  
 
@@ -51,7 +51,7 @@ $$
 S_{t+\Delta}=S_{t}+i h
 $$  
 
-![](images/e2b48233d5b0f52d10ab3d3f2d20fce0630f4ac339b7917e0a67d154aed5a5d3.jpg)  
+![](e2b48233d5b0f52d10ab3d3f2d20fce0630f4ac339b7917e0a67d154aed5a5d3.jpg)  
 
 # FIGURE 11.17  
 
@@ -67,7 +67,7 @@ Under these conditions, the payoff of the binary is a step function that shows a
 
 It is fairly easy to find a replicating portfolio for the binary option under these conditions.. Suppose the market maker buys one vanilla European call with strike. $K$ , and, at the same time, sells one vanilla European call with strike. $K+h$ on the $S_{t}$ Figure 11.17 shows the time- $T$ payoff of this portfolio. The payoff is similar to the step function in Figure 11.16, except that the height is. $h$ , and not 1. But this is easy to fix. Instead of buying and selling 1 unit of each call, the market maker can buy and sell $\frac{1}{h}$ units. This implies the approximate contractual equation  
 
-![](images/ccdc199ad15cf48bb5497babe0a2fd9f19fc26a293c7f0e2cf36cfcfbbdefd42.jpg)  
+![](ccdc199ad15cf48bb5497babe0a2fd9f19fc26a293c7f0e2cf36cfcfbbdefd42.jpg)  
 
 The existence of a minimum tick makes this approximation a true equality, since  
 
@@ -115,7 +115,7 @@ $$
 
 This permits us to draw a graph of the binary price,. $C^{\mathrm{bin}}(t)$ . Under the Black-Scholes assumptions, it is clear that this price will be as indicated by the S-shaped curve in Figure 11.16.  
 
-![](images/7f073a9f34c2f4151ad2cf13ae23e59e832457f103354fda8fd215f184d81ca5.jpg)  
+![](7f073a9f34c2f4151ad2cf13ae23e59e832457f103354fda8fd215f184d81ca5.jpg)  
 
 # FIGURE 11.18  
 
@@ -139,7 +139,7 @@ $$
 
 The time- $T$ payoff of this range option is shown in Figure 11.19. It is clear that we can use binary options to generate other, more complicated, range structures.  
 
-![](images/56b7f00a3ddac05b71dbb12391ab17858672e69a26927e5d83b6e66cc8db9112.jpg)  
+![](56b7f00a3ddac05b71dbb12391ab17858672e69a26927e5d83b6e66cc8db9112.jpg)  
 
 # FIGURE 11.19  
 
@@ -153,7 +153,7 @@ $$
 
 Thus, in this case, the option pays a constant amount. $R$ if $S_{u}$ is range-bound during the whole life. of the option, otherwise the option pays nothing. The following example illustrates the use of such binaries.  
 
-![](images/6d431db8d34e82da2ae47ac45cbf094b57327d8f7c2c80ed4b730eccd3159c06.jpg)  
+![](6d431db8d34e82da2ae47ac45cbf094b57327d8f7c2c80ed4b730eccd3159c06.jpg)  
 
 Figure 11.19 illustrates the long binary options mentioned in the example. Looked at from the angle of yen, the binary options have similarities to selling dollar strangles.11.  
 
@@ -163,7 +163,7 @@ To create a barrier option, we basically take a vanilla counterpart and then add
 
 Let us consider the two most common cases. We start with a European-style plain vanilla option written on the underlying, $S_{t},$ with strike $K.$ and expiration T. Next, we consider two thresholds.  
 
-![](images/3cdd5f386c34b2c2a4531caef116a621eca5f1930dd02a9e429c5384134ac87e.jpg)  
+![](3cdd5f386c34b2c2a4531caef116a621eca5f1930dd02a9e429c5384134ac87e.jpg)  
 
 # FIGURE 11.20  
 
@@ -185,7 +185,7 @@ is observed.
 
 An option can also come into existence after some barrier is hit. We then call it a knock-in option. A knock-in put is shown in Figure 11.21. In this section, we will discuss an $H$ knock-out  
 
-![](images/d338f6c1e23f422e5e010869d7a7242b69916f4b00c181d7b766bc202e75515b.jpg)  
+![](d338f6c1e23f422e5e010869d7a7242b69916f4b00c181d7b766bc202e75515b.jpg)  
 
 # FIGURE 11.21  
 
@@ -205,7 +205,7 @@ $$
 
 The knock-out is worthless for this range.  
 
-![](images/ddbdaeca029d03739fc3d0faef737787cd5afb436153c43ad1399c49ed56f6b2.jpg)  
+![](ddbdaeca029d03739fc3d0faef737787cd5afb436153c43ad1399c49ed56f6b2.jpg)  
 
 # FIGURE 11.22  
 
@@ -219,7 +219,7 @@ $$
 
 Putting these two payoff ranges together, we obtain the contractual equation:  
 
-![](images/09369df686e834674fecb8248503b0dd4623337e264c46bc7e4d4b354ad5d784.jpg)  
+![](09369df686e834674fecb8248503b0dd4623337e264c46bc7e4d4b354ad5d784.jpg)  
 
 From here, we can obtain the pricing formulas of the knock-in and knock-out barriers. In fact,. determining the pricing function of only one of these barriers is sufficient to determine the price of  
 

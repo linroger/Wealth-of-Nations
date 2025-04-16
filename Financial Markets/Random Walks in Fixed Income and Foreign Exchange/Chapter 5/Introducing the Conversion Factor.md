@@ -108,7 +108,7 @@ Still, we need to keep in mind that conversion factors calculated from swap. rat
 
 In the following Figures 5.1-5.4, we have plotted conversion factors for different currencies over time. DF denotes Discount Factor, so the reader can recalculate if desired.
 
-![](images/41bd4ec70d2c3ed61242a86c7e930c0e01af58b9bc1671440c7802ca39ca42bd.jpg)
+![](41bd4ec70d2c3ed61242a86c7e930c0e01af58b9bc1671440c7802ca39ca42bd.jpg)
 Figure 5.1: EURUSD conversion factor. Source: Commerzbank, Bloomberg.
 
 It's clear that the conversion factor is affected by most events that impact perceptions. of the future yield environment. The EURcHF peg break is clear in early January 2015,. while the late 2016 election in the USA had a strong influence on the EURUsD factor given the sharp re-pricing of the US curve..
@@ -117,18 +117,18 @@ It's clear that the conversion factor is affected by most events that impact per
 
 It could be useful for corporates to have some forecasts of conversion factor levels. For-. tunately, if we have forecasts available of market interest rates, we can use these to create discount factors (if the forecast rates curves are smooth enough), and from these, we can quickly derive the conversion factors. Ideally we would have rates forecast at every annual tenor to create the discount factors, but in reality, forecasts often miss out interim tenors like 7y and 8y. When this is the case, we linearly interpolate the rates to use in the discount factor calculation.
 
-![](images/1b003006fba5450c2efa7491c80af2b46f633cf9c9896670e45404488ee719fd.jpg)
+![](1b003006fba5450c2efa7491c80af2b46f633cf9c9896670e45404488ee719fd.jpg)
 Figure 5.2: GBPUSD conversion factor. Source: Commerzbank, Bloomberg
 
-![](images/7b1ff1d59ae518bb3d599ada144263e3dc0f21aee6a900b0b8cc09724a97942f.jpg)
+![](7b1ff1d59ae518bb3d599ada144263e3dc0f21aee6a900b0b8cc09724a97942f.jpg)
 Figure 5.3: EURCHF conversion factor. Source: Commerzbank, Bloomberg
 
 While this is not a method that would be used in an accurate valuation scenario. (which would also use Libor rates, spreads, FRAs and so on), in this case it is probably. accurate enough. In Figures 5.5 and 5.6 we show the accurate discount curve from a test data set (created using Commerzbank's in-house valuation software DIVA) and the
 
-![](images/8cc047365b7722a4defb3de1d0dd463d45f936e4c0060c83d414e7a6214aeb74.jpg)
+![](8cc047365b7722a4defb3de1d0dd463d45f936e4c0060c83d414e7a6214aeb74.jpg)
 Figure 5.4: GBPJPY conversion factor. Source: Commerzbank, Bloomberg
 
-![](images/b869409145e269dbdd2bb36f6a3dadb05fb46de223065e0c31d3900c2f2afdd3.jpg)
+![](b869409145e269dbdd2bb36f6a3dadb05fb46de223065e0c31d3900c2f2afdd3.jpg)
 Figure 5.5: Discount factor comparison. Source: Commerzbank, Bloomberg.
 
 # e(GBP DF)/z(EUR DF)
@@ -169,10 +169,10 @@ Obviously, we can't generalise from this single instance, but clearly this metho
 
 <html><body><table><tr><td>10y</td><td>9 92.79% 94.58%</td><td rowspan="11">8</td></tr><tr><td></td><td>89.50% 78.99% 92.06% 81.15%</td></tr><tr><td>96.13% ></td><td>94.31% 83.35%</td></tr><tr><td>97.44%</td><td>96.21% 85.59%</td></tr><tr><td>98.51% 5 99.20%</td><td>97.77% 97.87% 86.42%</td></tr><tr><td>4 99.70% 3</td><td>98.61% 90.85% 89.28% 92.08%</td></tr><tr><td>Z 12m</td><td>99.25% 93.57% 96.01% 94.80%</td></tr><tr><td>w6 6m</td><td>99.70%</td></tr><tr><td rowspan="4">3m</td><td>98.38%</td></tr><tr><td>EUR 1yahead100.09%100.18%100.26%100.35%100.00% 98.89%</td></tr><tr><td>99.28%</td></tr><tr><td>98.91% 99.65% 99.45%</td></tr></table></body></html>
 
-![](images/3ef7cdd665eff8dc09528c19892a2fa6430caed8a9c3d91e2c48155ea91fc54d.jpg)
+![](3ef7cdd665eff8dc09528c19892a2fa6430caed8a9c3d91e2c48155ea91fc54d.jpg)
 Figure 5.7: Forecast conversion factors, by tenor. Source: Commerzbank, Bloomberg
 
-![](images/e1ae746228773eb3003934d1795836d14cd65e38ea7e7d5bc0e5b720fefa1a39.jpg)
+![](e1ae746228773eb3003934d1795836d14cd65e38ea7e7d5bc0e5b720fefa1a39.jpg)
 Figure 5.8: 10y EURUsD conversion factor, history and forecast. Source: Commerzbank, Bloomberge
 
 # Translating Spreads across Currencies
@@ -187,7 +187,7 @@ Spread usD investment (EUR) $=$ Spread usD investment (USD)/Conversion Factor $^
 
 Clearly, as the spread increases, the conversion factor term becomes more important, but when spreads are close to zero, the basis is the only thing that matters. We illustrate this graphically in Figure 5.9.
 
-![](images/1163676ed660c994278f38f652d7a6391615d2caf89338524ff919eb0dea43be.jpg)
+![](1163676ed660c994278f38f652d7a6391615d2caf89338524ff919eb0dea43be.jpg)
 Figure 5.9: Xccy basis and conversion factor currency decision for 2 spreads. Source: Commerzbank, Bloomberg
 
 When SpreadusD investment (EUR) is less than Spreadusd investment (USD), the EUR will be the preferred investment on a currency-adjusted basis. Given that the basis is generally negative, looking at the left-hand graph, we see that for the case of low spreads, the EUR asset will be preferred..
@@ -198,7 +198,7 @@ Today, we are in the top-right quadrant in the area of EUR preference. The num-.
 
 EUR is preferred above and to the left of the lines. Lines indicate different USD credit spreads
 
-![](images/dce74c5abf76ef15d3baf06b01ac175521c24743d4d41d32e56453d3f570152a.jpg)
+![](dce74c5abf76ef15d3baf06b01ac175521c24743d4d41d32e56453d3f570152a.jpg)
 Figure 5.10: Xccy basis and conversion factor currency decision for multiple spreads. Source: Commerzbank, Bloomberg
 
 xccy basis could change sign, but that has never been the case except very briefly and to a tiny degree in 2014.
@@ -209,5 +209,5 @@ We can compare the graph in Figure 5.10 to the time series in Figure 5.11. The n
 
 A degree of offset, not always apparent but worth remarking upon, is observ-. able between the conversion factor and the basis, and is particularly apparent at the current time; the drivers of this behaviour would be interesting to explore..
 
-![](images/8fb184b2c311d8286b34e3cd94e973060bdff41af3141ac13e628c9d3f850f6b.jpg)
+![](8fb184b2c311d8286b34e3cd94e973060bdff41af3141ac13e628c9d3f850f6b.jpg)
 Figure 5.11: Xccy basis and conversion factor currency decision time series. Source: Commerzbank, Bloomberge

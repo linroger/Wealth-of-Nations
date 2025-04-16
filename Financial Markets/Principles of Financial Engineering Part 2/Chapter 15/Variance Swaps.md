@@ -57,7 +57,7 @@ Thus, variance swaps are similar to a vanilla (interest rate) swap in that a "fl
 
 The cash flows implied by a variance swap are shown in Figure 15.8. The contract is initiated at time $t_{0}$ and the start date is $T_{1}$ . It matures at $T_{2}$ . The "floating" volatility (variance) is the total. volatility (variance) of $S_{t}$ during the entire period $[T_{1},T_{2}].F_{t_{0}}$ has the subscript $t_{0}$ , and, hence, has to be determined at time $t_{0}$  
 
-![](images/5151adc062e5b2a184c15c07823e6dbae512206a25699a9fd1c59021c9c67d85.jpg)  
+![](5151adc062e5b2a184c15c07823e6dbae512206a25699a9fd1c59021c9c67d85.jpg)  
 
 # FIGURE 15.8  
 
@@ -103,7 +103,7 @@ on average. For example, if the index only realizes. $12\%$ , the long will pay 
 
 Figure 15.9 shows the floating and fixed leg for a S&P500 variance swap contract from 1996 to. 2014. The contract is for 30-day variance. The floating leg is based on the realized variance and  
 
-![](images/a3baef602c2ecbcc6e36dfae480d49ee35b8ac8afefe3895bfc13f1028a65bec.jpg)  
+![](a3baef602c2ecbcc6e36dfae480d49ee35b8ac8afefe3895bfc13f1028a65bec.jpg)  
 
 # FIGURE 15.9  
 

@@ -189,7 +189,7 @@ $$
 
 and $\mathrm{C}2,\mathrm{C}3,...,\mathrm{C}10000$ similarly, random samples from the distribution of $S_{T}$ are created in these cells.  
 
-![](images/e08ab552fe7aba101023b4c27a4152d4aa983cc3dd10aa0d354743cb7fb06bf2.jpg)  
+![](e08ab552fe7aba101023b4c27a4152d4aa983cc3dd10aa0d354743cb7fb06bf2.jpg)  
 Figure 27.1 Distributions obtained with variance-gamma process and geometric Brownian motion.  
 
 Figure 27.1 shows the probability distribution that is obtained using the variancegamma model for $S_{T}$ when $S_{0}=100,T=0.5,\nu=0.5,\theta=0.1,\sigma=($ and $r=q=0$ For comparison it also shows the distribution given by geometric Brownian motion when the volatility, $\sigma$ is 0.2 (or $20\%$ ). Although not clear in Figure 27.1, the variance-gamma distribution has heavier tails than the lognormal distribution given by geometric Brownian motion.  

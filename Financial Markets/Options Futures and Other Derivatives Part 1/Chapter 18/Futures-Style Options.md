@@ -101,7 +101,7 @@ where $F_{0}$ is the futures price and $r$ is the risk-free rate. Assume that $r
 
 18.29. Calculate the price of a six-month European put option on the spot value of an index. The six-month forward price of the index is 1,400, the strike price is 1,450, the risk-free rate is $5\%$ , and the volatility of the index is $15\%$  
 
-![](images/81c73da156d1a7324f2f08378668822f2c7393f5f672fcf87294425f3d48aa48.jpg)  
+![](81c73da156d1a7324f2f08378668822f2c7393f5f672fcf87294425f3d48aa48.jpg)  
 
 # The Greek Letters  
 

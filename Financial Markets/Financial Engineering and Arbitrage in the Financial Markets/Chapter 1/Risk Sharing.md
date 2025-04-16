@@ -18,7 +18,7 @@ Let us start with the simplest illustration: an insurance contract. A 1-year lif
 
 Let us apply the concept of state-contingent claims to known securities. Suppose you buy. one share of XYZ SA stock currently trading at. $\notin45$ per share and pays no dividends. You intend to hold the share for 2 years. To simplify things, we assume that the stock trades once a. month and in increments of $\displaystyle\varepsilon_{1}$ . The minimum price is $\in0$ (a limited liability company cannot have a negative value) and the maximum price is $\epsilon_{199}$ . The share of XYZ SA can be viewed as a package of claims. Each claim represents a contingent cash flow from selling the share for a particular price in a particular month in the future. Only one of those claims will ever pay, say when we sell the stock for. $\mathsf{\varepsilon}{}^{78}$ in month 16. We can arrange the potential price levels from $\in0$ to $\epsilon_{199}$ in increments of $\displaystyle\varepsilon_{1}$ to have overall 200 possible price levels. We arrange the dates from today to 24 months from today (our holding horizon). The stock is equivalent to 200 times 24, or 480 claims. The easiest way to imagine this set of claims is as a rectangle with time on the horizontal axis and potential stock prices (states of nature) on the vertical axis. The price of the stock today is equal to the sum of the values of all the claims, i.e. all the state- and time-indexed squares of the rectangle.  
 
-![](images/e6ae1aa48ec4f0f2e893ad3d0b8a8a023fc1b38598df2bf729eadd09f0071b05.jpg)  
+![](e6ae1aa48ec4f0f2e893ad3d0b8a8a023fc1b38598df2bf729eadd09f0071b05.jpg)  
 Figure 1.1 Stock and forward as packages of state-contingent claims  
 
 Figure 1.1 shows the stock as a rectangle of 480 state-contingent claims. It also shows a forward contract on XYZ SA's stock viewed as a subset of this rectangle. Suppose we enter into a contract today to purchase the stock 13 months from today for $\yen60$ . The forward can be viewed as a 200-by-24 rectangle with the first 12 months' worth of claims taken out (equal to zero, as no action can be taken). If, in month 13, the stock trades above $\yen60$ , we have a gain; if the stock trades below $\yen60$ , we have a loss equal to the difference between the actual stock. price and the precontracted forward price.  
@@ -27,7 +27,7 @@ Figure 1.2 shows a long American call option contract to buy XYZ SA's shares for
 
 The fundamental tenet of the option valuation methodology which applies to all securities is that if we can value each claim (one square of the rectangle) or small sets of claims (sections of the rectangle) in the package, then we can value the package as a whole sum of its parts.  
 
-![](images/b5f6a50e0062eccaffbde36f89f587c91ee140b89212cc55ad815422c2cefc84.jpg)  
+![](b5f6a50e0062eccaffbde36f89f587c91ee140b89212cc55ad815422c2cefc84.jpg)  
 Figure 1.2 Long American call and short American put as packages of state-contingent claims.aims  
 
 Conversely, if we can value the package, then we are able to value subsets of claims through a subtraction of the whole minus a complement subset. Also, we may be able to combine disparate (dependent on different state variables) sets of claims (stocks on equity prices and bonds on interest rates) to form complex securities (a convertible bond). By subtracting one part (option) from the value of the combination (convertible bond), we can infer the value of a subset (straight bullet bond).  

@@ -29,7 +29,7 @@ $$
 -1.6e^{-0.06\times1/12}=-1.592
 $$  
 
-![](images/ce09c24b76223628a837f0082ad94fc3b7d5347b7badbe45dc40ccca139c7e07.jpg)  
+![](ce09c24b76223628a837f0082ad94fc3b7d5347b7badbe45dc40ccca139c7e07.jpg)  
 Figure 18.1 Futures price movements in numerical example.  
 
 The portfolio consists of one short option and. $\Delta$ futures contracts. Because the value of the futures contract today is zero, the value of the option today must be 1.592.  
@@ -78,7 +78,7 @@ This agrees with the result in Section 13.9. Equation (18.10) gives the risk-neu
 
 Figure 18.2 Futures price and option price in a general situation.  
 
-![](images/ec158505fdafb3c4d970ff737a652f05304887b091cc595e30e73d9cbdf7ff23.jpg)  
+![](ec158505fdafb3c4d970ff737a652f05304887b091cc595e30e73d9cbdf7ff23.jpg)  
 
 In the numerical example considered previously (see Figure 18.1), $u=1.1$ $d=0.9333,r=0.06$ $T=1/12$ $f_{u}=4$ , and $f_{d}=0$ From equation (18.10),  
 

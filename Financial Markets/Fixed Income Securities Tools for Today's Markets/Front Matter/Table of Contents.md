@@ -32,7 +32,7 @@ TABLE 1.3Discount Factors Derived from Bonds Listed in Table 1.2.
 
 <html><body><table><tr><td>Term</td><td>DiscountFactor</td></tr><tr><td>0.5</td><td>0.999923</td></tr><tr><td>1.0</td><td>0.999419</td></tr><tr><td>1.5</td><td>0.998504</td></tr><tr><td>2.0</td><td>0.997041</td></tr><tr><td>2.5</td><td>0.994558</td></tr><tr><td>3.0</td><td>0.990195</td></tr><tr><td>3.5</td><td>0.984742</td></tr></table></body></html>  
 
-![](images/208ab44a0a07ebbb9e3253325f91e588400001d592c50ae19aa14609b7e21ae2.jpg)  
+![](208ab44a0a07ebbb9e3253325f91e588400001d592c50ae19aa14609b7e21ae2.jpg)  
 FIGure 1.1 Discount Factors Derived from Selected US Treasury Bonds, as of May 14, 2021.  
 
 # 1.3 THE LAW OF ONE PRICE  
@@ -113,7 +113,7 @@ IABLE 1.7 Prices of STRIPS Maturing on May 15, 2030, as of May 14, 2021.
 
 <html><body><table><tr><td>STRIPS</td><td>Price</td></tr><tr><td>C-STRIPS</td><td>85.9453</td></tr><tr><td>P-STRIPSof0.625sof5/15/2030</td><td>86.8549</td></tr><tr><td>P-STRIPS of 6.25s of 5/15/2030</td><td>87.0412</td></tr></table></body></html>  
 
-![](images/9514f8d696f26cc2852effc0adc720ef1b8ee652b941309262909d3107a4ad19.jpg)  
+![](9514f8d696f26cc2852effc0adc720ef1b8ee652b941309262909d3107a4ad19.jpg)  
 FIGURE 1.2 Prices of US Treasury C-STRIPS and P-STRIPS, as of May 14, 2021.  
 
 # 1.6 ACCRUED INTEREST  
@@ -127,7 +127,7 @@ For concreteness, consider an investor who purchases $\$10,000$ face amount of t
 
 Assuming that the buyer holds the bond through August 15, 2021, the buyer collects the semiannual coupon on that date. But it can be argued that the buyer is not really entitled to the whole coupon because the buyer will have held the bond for only three months, that is, from May 17, 2021, to August 15, 2021. More precisely, using what is known as the actual/actual day-count convention, and referring again to Figure 1.3, the buyer should receive only 90 of the 181 days of the coupon payment, that is, $\$31.25\times90/181=\$15.539$ . The seller, on the other hand, who presumably. held the bond from the previous coupon date to the settlement date, should collect the rest of the coupon, namely, the accrued interest from February 15, 2021, to May 17, 2021, which is. $\$31.25\times91/181=\$15.711$  
 
-![](images/be76cf3541902d3c63bd6b9de52f906a9396b8ab26cd60c81fff931825e1df38.jpg)  
+![](be76cf3541902d3c63bd6b9de52f906a9396b8ab26cd60c81fff931825e1df38.jpg)  
 FIGUrE 1.3 Timeline for Computing the Accrued Interest on the 0.625s of 08/15/2030 for Settlement on May 17, 2021.  
 
 A conceivable institutional arrangement would be for the seller and the buyer to divide the coupon payment on the next payment date, but this would undesirably require additional arrangements to ensure compliance. Instead, market convention dictates that the buyer pay the seller the. $\$15.711$ of accrued interest on the settlement date, and that the buyer keep the entire. coupon of $\$31.25$ on the coupon payment date.  
@@ -150,5 +150,5 @@ Figure 1.4 shows that the full price changes dramatically over time - including 
 
 The behavior of the prices in Figure 1.4 can be understood readily. First,. as of February 2021, the price of the bond is below 100, because its coupon rate is below the market rate for its maturity. But as the bond matures, its flat price approaches 100. (The dynamics of prices at below and above market rates are discussed further in Chapter 3.) Second, within a coupon period, the full price of a bond increases over time as its cash flows get closer to being paid, that is, as their present values increase. But from just before the coupon payment date to just after, the full price falls by the coupon payment: the coupon is included in the present value just before the payment, but not included just after. The flat price, by contrast, which equals the full price minus accrued interest, rises more gradually than the full price and does not fall precipitously just after the coupon payment. Because accrued interest just before the coupon payment nearly equals that coupon payment, subtracting accrued interest from the full price leaves the flat price essentially without that coupon - both just before and just after its payment date.  
 
-![](images/eafa60056a4fb55742b35913a53ac79d3c09ac57b862553dddcf4039c285829b.jpg)  
+![](eafa60056a4fb55742b35913a53ac79d3c09ac57b862553dddcf4039c285829b.jpg)  
 FIGURE 1.4  Full and Flat Prices for the 0.625s of 08/15/2030, Assuming Constant Interest Rates.  

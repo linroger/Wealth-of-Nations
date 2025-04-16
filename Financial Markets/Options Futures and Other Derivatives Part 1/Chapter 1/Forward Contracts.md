@@ -52,7 +52,7 @@ In the example just considered, $K=1.2230$ and the corporation has a long contra
 
 We shall be discussing in some detail the relationship between spot and forward prices in Chapter 5. For a quick preview of why the two are related, consider a stock that pays no dividend and is worth $\$60$ . You can borrow or lend money for 1 year at $5\%$ . What should the 1-year forward price of the stock be?  
 
-![](images/9e790f09fe1930011b117f5f67866351c455616056c1603264a6731715d1186e.jpg)  
+![](9e790f09fe1930011b117f5f67866351c455616056c1603264a6731715d1186e.jpg)  
 Figure 1.2 Payoffs from forward contracts: (a) long position, (b) short position. Delivery price $=K$ ; price of asset at contract maturity $=S_{T}$  
 
 The answer is $\$60$ grossed up at. $5\%$ for 1 year, or $\$63$ . If the forward price is more than this, say $\$67$ you could borrow $\$60$ , buy one share of the stock, and sell it forward for $\$67.$ After paying off the loan, you would net a profit of $\$4$ in 1 year. If the forward price is less than $\$63$ , say $\$58$ , an investor owning the stock as part of a portfolio would sell the stock for $\$60$ and enter into a forward contract to buy it back for $\$58$ in 1 year. The proceeds of investment would be invested at $5\%$ to earn $\$3.$ The investor would end up $\$5$ better off than if the stock were kept in the portfolio for the year.  

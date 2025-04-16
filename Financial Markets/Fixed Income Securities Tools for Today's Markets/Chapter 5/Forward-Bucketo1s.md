@@ -22,7 +22,7 @@ IABLE 5.4  Selected General Obligation Refunding Bonds Issued by the Town of Wel
 
 <html><body><table><tr><td>Maturity</td><td>Principal</td><td>Coupon</td><td>Yield</td></tr><tr><td>06/01/2021</td><td>1,175,000</td><td>5.00</td><td>0.75</td></tr><tr><td>06/01/2022</td><td>1,205,000</td><td>5.00</td><td>0.80</td></tr><tr><td>06/01/2023</td><td>1,210,000</td><td>5.00</td><td>0.84</td></tr><tr><td>06/01/2024</td><td>1,225,000</td><td>5.00</td><td>0.90</td></tr><tr><td>06/01/2025</td><td>1,235,000</td><td>5.00</td><td>0.96</td></tr><tr><td>06/01/2026</td><td>1,250,000</td><td>5.00</td><td>1.01</td></tr><tr><td>06/01/2027</td><td>1,255,000</td><td>5.00</td><td>1.06</td></tr><tr><td>06/01/2028</td><td>1,265,000</td><td>5.00</td><td>1.11</td></tr><tr><td>06/01/2029</td><td>1,270,000</td><td>5.00</td><td>1.18</td></tr></table></body></html>  
 
-![](images/3361ff7b7b656b43daba2f71940d33ee7e3200bb80a978577454a3842f67e412.jpg)  
+![](3361ff7b7b656b43daba2f71940d33ee7e3200bb80a978577454a3842f67e412.jpg)  
 FIGurE 5.4  Town of Wellesley General Obligation Forward Rate Curve with a 10-Basis-Point Shift of the Three- to Five-Year Forward Bucket, as of June 1, 2020.  
 
 Forward-bucket $^{\ '}01s$ are computed analogously to any other inter-. est rate risk metric: price the bond or portfolio with the current term structure; shift a forward-bucket by one basis point; reprice the bond or.  

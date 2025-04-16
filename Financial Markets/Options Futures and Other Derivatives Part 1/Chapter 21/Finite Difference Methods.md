@@ -35,7 +35,7 @@ $$
 
 The level $S_{\mathrm{max}}$ is chosen so that one of these is the current stock price.  
 
-![](images/6facc8a1d79ed4b8d6309548f063322e92cbbfa30849342642ff1bedb6b15596.jpg)  
+![](6facc8a1d79ed4b8d6309548f063322e92cbbfa30849342642ff1bedb6b15596.jpg)  
 Figure 21.14 First 1,024 points of a Sobol' sequence.  
 
 The time points and stock price points define a grid consisting of a total of $(M+1)(N+1)$ points, as shown in Figure 21.15. We define the. $(i,j)$ point on the grid as the point that corresponds to time $i\Delta t$ and stock price $j\Delta S$ We will use the variable $f_{i,j}$ to denote the value of the option at the $(i,j)$ point.  
@@ -86,7 +86,7 @@ $$
 \frac{\partial^{2}f}{\partial S^{2}}=\frac{f_{i,j+1}+f_{i,j-1}-2f_{i,j}}{\Delta S^{2}}
 $$  
 
-![](images/67d0720e88153bc1d9b02690300dc8411ccd6e6350fa578b4d2b383c9a3a0161.jpg)  
+![](67d0720e88153bc1d9b02690300dc8411ccd6e6350fa578b4d2b383c9a3a0161.jpg)  
 Figure 21.15 Grid for finite difference approach.  
 
 Substituting equations (21.24), (21.25), and (21.26) into the differential equation (21.21) and noting that $S=j\Delta S$ gives  
@@ -182,7 +182,7 @@ $$
 
 This creates what is known as the explicit finite difference method.24 Figure 21.16 shows. the difference between the implicit and explicit methods. The implicit method leads to equation (21.27), which gives a relationship between three different values of the option at time $i\Delta t$ (i.e., $f_{i,j-1},f_{i,j},$ and $f_{i,j+1})$ and one value of the option at time $(i+1)\Delta t$ (i.e., $f_{i+1,j})$ . The explicit method leads to equation (21.34), which gives a relationship between one value of the option at time i $\Delta t$ (i.e., $f_{i,j})$ and three different values of the option at time $(i+1)$ $\Delta t$ (i.e., $f_{i+1,j-1},f_{i+1,j},f_{i+1,j+1})$  
 
-![](images/213e3387d663e5465ea5ddf634a6e346a387882b3b1f6d2fda705bc6a4c09b05.jpg)  
+![](213e3387d663e5465ea5ddf634a6e346a387882b3b1f6d2fda705bc6a4c09b05.jpg)  
 Figure 21.16 Difference between implicit and explicit finite difference methods.  
 
 # Example 21.11  
@@ -248,7 +248,7 @@ $\begin{array}{r l}&{-\frac{1}{2}(r-q)j\Delta t+\frac{1}{2}\sigma^{2}j^{2}\Delta
 
 This interpretation is illustrated in Figure 21.17. The three probabilities sum to unity. They give the expected increase in the stock price in time. $\Delta t$ as $(r-q)j\Delta S\Delta t=$ $(r-q)S\Delta t$ . This is the expected increase in a risk-neutral world. For small values of $\Delta t$ they also give the variance of the change in the stock price in time $\Delta t$ as $\sigma^{2}j^{2}\Delta S^{2}\Delta\dot{t}=\sigma^{2}\bar{S^{2}}\Delta t.$ This corresponds to the stochastic process followed by $S$ The value of $f$ at time i $\Delta t$ is calculated as the expected value of $f$ at time $(i+1)\Delta t$ in a risk-neutral world discounted at the risk-free rate..  
 
-![](images/671ef148039f0a3d20e19232f13a3732814cfd487f8ec0a1a3742c3bdb3b30c2.jpg)  
+![](671ef148039f0a3d20e19232f13a3732814cfd487f8ec0a1a3742c3bdb3b30c2.jpg)  
 Figure 21.17 Interpretation of explicit finite difference method as a trinomial tree.  
 
 For the explicit version of the finite difference method to work well, the three "probabilities"  
@@ -273,7 +273,7 @@ Researchers have proposed other finite difference methods which are in many circ
 
 In what is known as the hopscotch method, we alternate between the explicit and implicit calculations as we move from node to node. This is illustrated in Figure 21.18. At each time, we first do all the calculations at the "explicit nodes" (E) in the usual way. The "implicit nodes" (I) can then be handled without solving a set of simultaneous equations because the values at the adjacent nodes have already been calculated.  
 
-![](images/428ad86de6453d8f420f7f453104967ab11584afc9d5394ed5658ff8442cbb42.jpg)  
+![](428ad86de6453d8f420f7f453104967ab11584afc9d5394ed5658ff8442cbb42.jpg)  
 Figure 21.18 The hopscotch method. I indicates node at which implicit calculations are done; E indicates node at which explicit calculations are done..  
 
 In the Crank-Nicolson method, the estimate of  

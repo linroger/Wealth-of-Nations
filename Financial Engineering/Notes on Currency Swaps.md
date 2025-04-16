@@ -151,7 +151,7 @@ Major international banks are now aggressively offering currency swaps and are o
 
 # Exhibit 1 Annual All-in Costs of Cash Flows Associated with Currency Swap Between U.S. and German Company  
 
-![](images/f51a6955ffa87a5d2cdf0ec9802bff95f063e926cd24340a03e53007b1131479.jpg)  
+![](f51a6955ffa87a5d2cdf0ec9802bff95f063e926cd24340a03e53007b1131479.jpg)  
 
 Exhibit 2 Cross -Country Swaps Outstanding, 1992a (US\$ billions)   
 
@@ -187,7 +187,7 @@ Exhibit 6 Analysis or Receipts ( - Payments) for Bank
 
 <html><body><table><tr><td></td><td colspan="2">SwapwithWB</td><td colspan="2">SwapwithCompany</td><td colspan="2">NetCashFlows</td></tr><tr><td>Year</td><td>US$ (A)</td><td>Sfr (B)</td><td>US$ (C)</td><td>Sfr (D)</td><td>US$ (E)</td><td>Sfr (F)</td></tr><tr><td>0</td><td>49.063</td><td>-97.013</td><td>-48.872</td><td>97.500</td><td>0.190</td><td>0.487</td></tr><tr><td>1</td><td>-8.000</td><td>7.350</td><td>8.000</td><td>-7.350</td><td>0.000</td><td>0.000</td></tr><tr><td>2</td><td>-8.000</td><td>7.350</td><td>8.000</td><td>-7.350</td><td>0.000</td><td>0.000</td></tr><tr><td>3</td><td>-8.000</td><td>7.350</td><td>8.000</td><td>-7.350</td><td>0.000</td><td>0.000</td></tr><tr><td>4</td><td>-8.000</td><td>7.350</td><td>8.000</td><td>-7.350</td><td>0.000</td><td>0.000</td></tr><tr><td>5</td><td>-58.000</td><td>107.350</td><td>58.000</td><td>-107.350</td><td>0.000</td><td>0.000</td></tr></table></body></html>  
 
-![](images/ccea69d220c6b1d7c39afac541d1b6e17f987ea4368c64362f259a41c0293cab.jpg)  
+![](ccea69d220c6b1d7c39afac541d1b6e17f987ea4368c64362f259a41c0293cab.jpg)  
 Exhibit 7 Summary Diagram of Swap Between World Bank and Company with Bank Intermediation  
 
 Exhibit 8 Interest-Rate Swap Indications: Fixed US\$ Payments Against Six-Month US\$ LIBOR   
@@ -242,7 +242,7 @@ Exhibit 15 Cash Flows of World Bank Swap with U.S. Company Using Effective Swap 
 
 <html><body><table><tr><td rowspan="2">Year</td><td colspan="3">WorldBankReceipts(-Payments) Swap Flows</td></tr><tr><td>FromUS$Bond (A)</td><td>US$ (B)</td><td>Sfr (C)</td></tr><tr><td>0</td><td>49.063</td><td>-49.063</td><td>97.132</td></tr><tr><td>1</td><td>-8.000</td><td>8.000</td><td>-7.350</td></tr><tr><td>2</td><td>-8.000</td><td>8.000</td><td>-7.350</td></tr><tr><td>3</td><td>-8.000</td><td>8.000</td><td>-7.350</td></tr><tr><td>4</td><td>-8.000</td><td>8.000</td><td>-7.350</td></tr><tr><td>5</td><td>-58.000</td><td>58.000</td><td>-107.350</td></tr><tr><td>AIC</td><td>16.58%</td><td>16.58%</td><td>8.07%</td></tr></table></body></html>  
 
-![](images/cad0e2094105c398bcf09ec29c180711fc37dbe1c71fd941e05a1a17979faeeb.jpg)  
+![](cad0e2094105c398bcf09ec29c180711fc37dbe1c71fd941e05a1a17979faeeb.jpg)  
 Exhibit 16 Swap Between World Bank and U.S. Company Using Effective Swap Rates  
 
 Exhibit 17 Indirect Financing Alternative for U.S. Companya on December 16   
@@ -270,5 +270,5 @@ Exhibit 19 Conversion of DM 50 Basis into ${\mathrm{US}}\$4$ Basis Points Using 
 1. DM 50 bp discounted for seven years at $7.00\%$ equals 270.   
 2. 270 reannualized over seven years at $9.90\%$ is approximately ${\sf U S}\Phi$ 56 bp.  
 
-![](images/6e0c8b602c5a4ba3f176354f5b3c061506733b3da3bc83e0e3425344cee69a26.jpg)  
+![](6e0c8b602c5a4ba3f176354f5b3c061506733b3da3bc83e0e3425344cee69a26.jpg)  
 Exhibit 20 Annual All-in Costs on Cash Flows of U.S. Company-German Bank Combination Foreign Currency and Interest-Rate Swaps and Capital Market Issues  

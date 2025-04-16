@@ -215,7 +215,7 @@ $$
 c_{t}=S_{t}N(d_{1})-X e^{-r_{c}\tau}N(d_{2}),
 $$
 
-![](images/8c4a202d24ab23978625bbce3b9f1b2b949ea4fc74d8205c77a9b12543aad015.jpg)
+![](8c4a202d24ab23978625bbce3b9f1b2b949ea4fc74d8205c77a9b12543aad015.jpg)
 FIGURe 9.1  Convergence of the Binomial Model for Calls to the Black-Scholes-Merton
 
 where

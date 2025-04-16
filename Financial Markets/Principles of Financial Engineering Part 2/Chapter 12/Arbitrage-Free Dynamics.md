@@ -95,7 +95,7 @@ $$
 
 where $S_{i}$ is the shortcut notation for $S_{t+i\Delta}$  
 
-![](images/71f6795f4620dc1bdee54dbad407a0dddf5edb9afe51cac2accebf169f04ab76.jpg)  
+![](71f6795f4620dc1bdee54dbad407a0dddf5edb9afe51cac2accebf169f04ab76.jpg)  
 
 # FIGURE 12.3  
 

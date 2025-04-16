@@ -17,7 +17,7 @@ The objective of the analysis is to calculate the option price at the initial no
 
 At node $\mathrm{C}$ the option price is zero, because node C leads to either node E or node F. and at both of those nodes the option price is zero. We calculate the option price at node B by focusing our attention on the part of the tree shown in Figure 13.5. Using the.  
 
-![](images/bc6527e81d880375ad97653d23ab91a898bd3ceeda0d4a8e3c952d531396cfa5.jpg)  
+![](bc6527e81d880375ad97653d23ab91a898bd3ceeda0d4a8e3c952d531396cfa5.jpg)  
 Figure 13.3 Stock prices in a two-step tree.  
 
 notation introduced earlier in the chapter, $u=1.1,d=0.9,r=0.04$ , and $T=0.25$ , SO that $p=0.5503$ , and equation (13.2) gives the value of the option at node B as  
@@ -28,10 +28,10 @@ $$
 
 It remains for us to calculate the option price at the initial node A. We do so by focusing. on the first step of the tree. We know that the value of the option at node B is 1.7433 and  
 
-![](images/e6d04e0d084823804a1433a74d2071f539811f2a5786023ad8d26661c6fd637f.jpg)  
+![](e6d04e0d084823804a1433a74d2071f539811f2a5786023ad8d26661c6fd637f.jpg)  
 Figure 13.4  Stock and option prices in a two-step tree. The upper number at each node is the stock price and the lower number is the option price..  
 
-![](images/4417750c79066b074683ff665c4fcfdf05b46154812f7892b91025abb95fc2dd.jpg)  
+![](4417750c79066b074683ff665c4fcfdf05b46154812f7892b91025abb95fc2dd.jpg)  
 Figure 13.5 Evaluation of option price at node B of Figure 13.4.  
 
 that at node $\mathrm{C}$ it is zero. Equation (13.2) therefore gives the value at node A as  
@@ -68,7 +68,7 @@ $$
 
 This is consistent with the principle of risk-neutral valuation mentioned earlier. The  
 
-![](images/45daf1a60ec3fcac469294a72e70e50cec267a26a39b21bce88db6ac59535226.jpg)  
+![](45daf1a60ec3fcac469294a72e70e50cec267a26a39b21bce88db6ac59535226.jpg)  
 Figure 13.6 Stock and option prices in general two-step tree.  
 
 variables $p^{2},2p(1-p)$ , and $(1-p)^{2}$ are the probabilities that the upper, middle, and. lower final nodes will be reached. The option price is equal to its expected payoff in a risk-neutral world discounted at the risk-free interest rate..  

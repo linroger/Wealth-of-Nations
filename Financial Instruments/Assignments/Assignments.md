@@ -14,6 +14,7 @@ tags:
 %% Begin Waypoint %%
 - **[[Assignments]]**
 	- [[1. Exploiting an Apparent Arbitrage Opportunity]]
+	- [[1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY]]
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]
 	- [[Financial Instruments Midterm Solutions 2013]]

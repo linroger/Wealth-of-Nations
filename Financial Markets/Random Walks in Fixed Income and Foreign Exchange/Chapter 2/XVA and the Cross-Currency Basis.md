@@ -88,7 +88,7 @@ $q\left(t_{j-1},t_{j}\right)$ is the default probability from time $t_{j}$ to $t
 
 However, there are other ways of looking at the CVA calculation. If CVA is just the change in value which comes from credit risk, shouldn't it simply be the cost of hedging away this credit risk? For many large institutions, one may effectively hedge away the risk of default using a Credit Default Swap (CDS), as shown in Figure 2.1.
 
-![](images/224d88e3c925f76ce8894504e512dc07076fc1e5be6409b3d6132b0f35d5112e.jpg)
+![](224d88e3c925f76ce8894504e512dc07076fc1e5be6409b3d6132b0f35d5112e.jpg)
 Figure 2.1: Credit Default Swap.
 
 If we use this method, then we have the following:
@@ -103,7 +103,7 @@ It is perhaps worth a quick aside on the relationship of CDS to credit spreads. 
 
 While all of these factors have contributed to a structurally wider CDS-bond basis since the crisis, it is interesting to note that the CDS-bond basis is correlated with the xccy basis - although no direct relationship exists between the two (see Figure 2.2 for an example from Italy). It is possible that this underscores that relative scarcity conditions are exerting similar influences on both bases and that regulatory XVA costs are also inhibiting arbitrage opportunities in similar ways on both instruments.
 
-![](images/49991e50c20048efd4ad4fa6f67ab862cb15a0517504b41eed6c5de5a09057a0.jpg)
+![](49991e50c20048efd4ad4fa6f67ab862cb15a0517504b41eed6c5de5a09057a0.jpg)
 Figure 2.2: 5y cash-CDS and cross EURUSD currency bases, in bp. Source: Commerzbank, Bloomberg
 
 # (3) Discounted Cashflow Approach
@@ -153,10 +153,10 @@ All of these various costs mean that some deals, with some counterparties, are m
 
 In Figures 2.3 and 2.4, we show the 5y cross-currency basis for EURUsD and USDJPy. Recall that in the days before the crisis when there was only one valuation curve and no XVA, this would have been seen as a pure arbitrage to be quickly traded on. At current levels, there are about 30 basis points per year available for the 10y trade - something substantial must be in the way of doing these deals.
 
-![](images/d08308482876daa06655a7bd8373ee697d0dcd8d4791ea08f1e9eed2896c607c.jpg)
+![](d08308482876daa06655a7bd8373ee697d0dcd8d4791ea08f1e9eed2896c607c.jpg)
 Figure 2.3: 5y xccy basis for EURUSD in bp.. Source: Bloomberg, Commerzbank Research
 
-![](images/dfd0492547d11d21fdc465ed38867ad879a16270ea172df19b8027605223f8f1.jpg)
+![](dfd0492547d11d21fdc465ed38867ad879a16270ea172df19b8027605223f8f1.jpg)
 Figure 2.4: 5y xccy basis for USDJPY in bp. Source: Bloomberg, Commerzbank Research
 
 # Sample XvA Calculation Using Market Standard Calculation Approach
@@ -184,7 +184,7 @@ Can we gain an indication of whether 20 November 2017 is an outlier? Although th
 
 The following chart in Figure 2.5 perhaps raises more questions than it answers. We have used the BBB uncollateralised credit 10y CVA charge as a benchmark..
 
-![](images/2cde15024a7f734145322fa35cbc8484619c2486ae6dd33275ec6e06c6cd096f.jpg)
+![](2cde15024a7f734145322fa35cbc8484619c2486ae6dd33275ec6e06c6cd096f.jpg)
 Figure 2.5: 10y BBB xccy basis and uncollateralised trade cost, in bp. Source: Bloomberg, Commerzbank Research
 
 Xccy basis is plotted as positive number, though usually it would be negative.
@@ -227,10 +227,10 @@ Before the crisis, the trader would have funded at Libor, and the depo and swap 
 
 In Figure 2.6, we show the 1y US swap rate and deposit rate since 2000, and the spread between them together with the xccy basis is shown in Figure 2.7. It's clear that they are closely connected though not identical, as the basis also responds to pressure from the EUR side.
 
-![](images/d0a5f2933f0e8a23a424b8d8854eecb1118aa9877f807013c56ae6c7b92965b1.jpg)
+![](d0a5f2933f0e8a23a424b8d8854eecb1118aa9877f807013c56ae6c7b92965b1.jpg)
 Figure 2.6: 1y USD swap rate and deposit rate. Source: Bloomberg, Commerzbank Research
 
-![](images/ca424602691eb485e6b682533ea2d0aafca8021de44ff877bf5e7ca4b3db74fb.jpg)
+![](ca424602691eb485e6b682533ea2d0aafca8021de44ff877bf5e7ca4b3db74fb.jpg)
 Figure 2.7: 1y USD swap-deposit spread, with 1y xccy EURUSD basis. Source: Bloomberg, Commerzbank Research
 
 Now, as our young trader, now a little older and wiser, sadly abandons plans to make money on the basis, is there anyone who can do the trade? Yes! Under some circumstances, bank Treasuries can borrow at close to the swap rates from the central banks. This is one way that central banks inject liquidity. So these desks can make a profit from this situation. Similarly, some high-quality credits can do it or can come close. Our previous paper shows in detail how some entities (for example, large investors or insurance companies) can at times lock in at least part of the basis when hedging fixed income investments.' There is an excellent analysis in Rime, Schrimpf and Syrstad (2017), which shows that the very top-tier banks in some markets have, at some points in the past, been able to fund at levels that allow them to treat the xccy basis as at least a partial arbitrage. The current situa-. tion is such that the arbitrage may still be available, though it is narrower than it has been at other times. Thus, there is pressure on the basis not to widen too far, but not the kind of old-style risk-free arbitrage pressure..
@@ -247,10 +247,10 @@ Rather than funding the future cashflow for the whole tenor of the deal, the des
 
 We have said that the cost of funding the cashflow ends up adding to the xccy basis. This is true but is more complex for the. $\mathrm{{0/N}}$ case. Essentially, the implied. curve of the $0/\mathrm{N}$ forward rates incorporates both the OIS currency rates and the FX. forward. Figure 2.8 is the graph of the entire 1-day forward-forward implied curve,. as calculated by Commerzbank's STIRT desk, for 6 July 2017. It is derived from various averages over different number of days - from 2 to 15 - with the greater granu-. larity around points of interest like the turn of the year. Thus, we would expect it to look smoother than the actual historical forward in Figure 2.9, but otherwise should. show similar features.
 
-![](images/1652060304a5eeec65a6cbf5ce03dd3b768d32e657a261fe1e00d3594c1616c9.jpg)
+![](1652060304a5eeec65a6cbf5ce03dd3b768d32e657a261fe1e00d3594c1616c9.jpg)
 Figure 2.8: 1-day EURusD forward-forward curve in forward points. Source: Bloomberg, Commerzbank Research
 
-![](images/bb711b9e01ceb9013dd48e5390e9c601d92a6594d18202a4a1b358c17c130fca.jpg)
+![](bb711b9e01ceb9013dd48e5390e9c601d92a6594d18202a4a1b358c17c130fca.jpg)
 Figure 2.9: 1-day historical FX forward.. Source: Bloomberg, Commerzbank Research
 
 These two graphs are informative. On 6 July 2017, the forward points are 0.55. This is the difference between the market forward FX rate for 1 day and the spot rate. Harking back to our earlier calculation, this looks very optimistic for the arbitrage trade. If we can fund at this level for the whole deal, then. $0.55\times365=201.$ But the actual forward points for a 1-year deal are 237. To get to this number, the difference between the 1y forward (1.166) and the spot (1.142) is 0.0237; multiply this by 10,000 to get the forward points as they are quoted by the market. We can make this money. (which comes out to about $0.28\%$ of notional) if these points remain stable!.
@@ -293,10 +293,10 @@ This is perhaps to be expected - part of the job of a trading desk is to pick up
 
 Let's first summarise how a trading desk will see things.
 
-![](images/9532c4db55c8f419475d285f597cbd8bbec91dbb26857c59f2c67b442bbf8e0c.jpg)
+![](9532c4db55c8f419475d285f597cbd8bbec91dbb26857c59f2c67b442bbf8e0c.jpg)
 Figure 2.10: Internal forward points vs market $0/\Nu$ in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/827d34ae5a5ef7aedb0b6fbd3a45351f060db571ec04723ba575bd526e260790.jpg)
+![](827d34ae5a5ef7aedb0b6fbd3a45351f060db571ec04723ba575bd526e260790.jpg)
 Figure 2.11: Internal forward points vs market $T/N$ in $\%$ Source: Bloomberg, Commerzbank Research
 
 If you are LONG USD/SHORT EUR, you want the points to be higher - i.e. 55 rather than 50 (you need to lend out the USD and get the EUR in for as many pips as you can). If you are SHORT USD/LONG EUR, you want the points to be lower - i.e. 50 rather than 55. The points are currently positive, as EUR rates are below USD. in the case where EUR rates are higher, the points will be negative, but the same rationale applies - with LONG USD/SHORT EUR, you want a bigger NEGATIVE number (you want to lend out the UsD at as big a number as you can ie -45 not $-40\AA$ , and with SHORT USD/LONG EUR, you want a less negative number $\left(-40\mathrm{not}-45\right)$
@@ -311,7 +311,7 @@ This can be seen as part of an internal redistribution process, as on average, m
 
 With a last look at our trader, let's see when the risk-based trade would have been profitable over time. If the trader puts on the trade assuming that the basis is too large and will close up, then there's an easy way to approximate the. $\mathrm{P/L}$ that the trade would make - look at the average levels of the basis over the next year. Figure 2.12 is a. chart of the xccy basis vs its average level for the following year, and the difference. between them. Note that this is only an indication of the profit of the trade, as we ought to strictly look at trades whose tenor shortens towards the end of the deal, but it will be good enough to give us an indication..
 
-![](images/42a8f759aa9e4372e2973528f4e6bf13a1cb3830d1967332d4e20c804f227e52.jpg)
+![](42a8f759aa9e4372e2973528f4e6bf13a1cb3830d1967332d4e20c804f227e52.jpg)
 Figure 2.12: Indication of profitability of xccy basis trade. 1y tenor, all in bp. Source: Bloomberg, Commerzbank Research
 
 It can be seen that positioning for the transient nature of large basis spikes has been generally beneficial. In Table 2.2, we also tabulate the average profit per trade if it is entered at different levels.

@@ -79,7 +79,7 @@ The values for the other parameters in equation (29.1) are unchanged (i.e., $F_{
 
 Figure 29.1 shows how the standard deviation of the logarithm of a bond's price changes as we look further ahead. The standard deviation is zero today because there is no uncertainty about the bond's price today. It is also zero at the bond's maturity because we know that the bond's price will equal its face value at maturity. Between today and the maturity of the bond, the standard deviation first increases and then decreases.  
 
-![](images/73484d2ec9db0a721972f24cabc8adb70560c838c1232f3d6aeaebae684558cb.jpg)  
+![](73484d2ec9db0a721972f24cabc8adb70560c838c1232f3d6aeaebae684558cb.jpg)  
 Figure 29.1 Standard deviation of logarithm of bond price at future times.  
 
 The volatility $\sigma_{B}$ that should be used when a European option on the bond is valued is  
@@ -88,7 +88,7 @@ Standard deviation of logarithm of bond price at maturity of option
 
 What happens when, for a particular underlying bond, the life of the option is increased? Figure 29.2 shows a typical pattern for $\sigma_{B}$ as a function of the life of the option, with $\sigma_{B}$ declining as the life of the option increases.  
 
-![](images/4a37261eb1e2ac51109d345955793cfde1dfce4c1b8930c9bac911a5d0afb743.jpg)  
+![](4a37261eb1e2ac51109d345955793cfde1dfce4c1b8930c9bac911a5d0afb743.jpg)  
 Figure 29.2 Variation of forward bond price volatility $\sigma_{B}$ with life of option when bond is kept fixed.  
 
 # Yield Volatilities  

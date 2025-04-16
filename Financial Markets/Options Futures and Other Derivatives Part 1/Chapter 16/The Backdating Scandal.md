@@ -68,7 +68,7 @@ Yermack, D., "Good Timing: CEO Stock Option Awards and Company News Announcement
 
 16.18. (a) Hedge funds earn a management fee plus an incentive fee that is a percentage of the profits, if any, that they generate (see Business Snapshot 1.3). How is a fund manager. motivated to behave with this type of compensation package?. (b) "Granting options to an executive gives the executive the same type of compensation. package as a hedge fund manager and motivates him or her to behave in the same way as a hedge fund manager.' Discuss this statement..  
 
-![](images/d0b5a4cd33fd88f7e9c19b89a2302e1a0d9bded76d7bf4fa3411e43e5a735baf.jpg)  
+![](d0b5a4cd33fd88f7e9c19b89a2302e1a0d9bded76d7bf4fa3411e43e5a735baf.jpg)  
 
 # Options on Stock Indices and Currencies  
 

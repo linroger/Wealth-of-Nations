@@ -18,7 +18,7 @@ February 27, 2006
 
 Claus M. Pedersen  
 
-![](images/91874e980878dda14b7bf94ac44ba282cd6bcf677f56f2ae1d3a7d63c104e61b.jpg)  
+![](91874e980878dda14b7bf94ac44ba282cd6bcf677f56f2ae1d3a7d63c104e61b.jpg)  
 
 # LEHMAN BROTHERS  
 
@@ -179,18 +179,18 @@ where Market Price is the observed price of the callable bond, the first terms o
 
 We value the option using a model that has been implemented in a recombining tree (lattice) for the short rate. The short rate is the continuously compounded interest rate earned over one period in the lattice. This is called a short rate model and is shown in Fig. 3.1..  
 
-![](images/e07774d7cf6862ed4405bea393c662a1e4135f7983c05af9c6956153a4b41863.jpg)  
+![](e07774d7cf6862ed4405bea393c662a1e4135f7983c05af9c6956153a4b41863.jpg)  
 Figure 3.1. Example of a short-rate model. For simplicity, we assume that all branching probabilities are 0.5 and the period length is 1 year  
 
 Source: Lehman Brothers.  
 
 To value a security in this type of model we determine the security's cash flow in each state. (i.e., node) and discount backwards in the tree. For example, if we value the bullet bond with. the cash flow shown in Figure 3.2 (think of this as the stripped bond underlying the call option we want to value), we get the values shown in Figure 3.3..  
 
-![](images/1d9152af14c4e5b252664f29cdff95d51b9830821b18269093efb1c60b47577a.jpg)  
+![](1d9152af14c4e5b252664f29cdff95d51b9830821b18269093efb1c60b47577a.jpg)  
 Figure 3.2. Cash flow of a bullet bond to values in the short rate model in Fig. 3.1   
 Source: Lehman Brothers.  
 
-![](images/d0c59879f2733ace991ae77c3a07c69d788317c0dd320dfb927e83ec3f48d12b.jpg)  
+![](d0c59879f2733ace991ae77c3a07c69d788317c0dd320dfb927e83ec3f48d12b.jpg)  
 Figure 3.3. Values of a bullet bond (ex coupon) from Figure 3.2 in the short rate model in Figure 3.1   
 Source: Lehman Brothers.  
 
@@ -198,7 +198,7 @@ The value of a security in a given state is the expected value of the security i
 
 As explained above, when we value the call option we need to make sure that the underlying bond is priced correctly. For example, if the value of the bond is 98.8 and not 99.8 as in Figure 3.3, we need to adjust the interest rates in the tree with the OAS of the bond. This adjustment is done, as illustrated in Figure 3.4, by increasing the continuously compounded short rate in all states by the OAS.  
 
-![](images/9f67a724e032ec01510d1d5381bc407d2b66870b881a08b6090ec356af3ce182.jpg)  
+![](9f67a724e032ec01510d1d5381bc407d2b66870b881a08b6090ec356af3ce182.jpg)  
 Figure 3.4. The short rate model in Figure 3.1 has been shifted by the OAS   
 Source: Lehman Brothers.  
 
@@ -274,7 +274,7 @@ The volatility parameters $\upsigma(\mathrm{t}),\mathrm{t}{\geq}0$ , determine t
 
 To better understand the effects of the shift, consider the following example. Suppose the short rate starts at $5\%$ and has a one-period simple volatility of. $20\%$ . If we model this in a. binomial tree we get the results illustrated in Figure 4.1..  
 
-![](images/ef089ba31010284e64ec2dca2c53af7eac81575dad54477add91ae1d5e187e61.jpg)  
+![](ef089ba31010284e64ec2dca2c53af7eac81575dad54477add91ae1d5e187e61.jpg)  
 Figure 4.1.  Simplified binominal tree for the short rate in a lognormal model with simple $20\%$ volatility per period10   
 Source: Lehman Brothers.  
 
@@ -282,7 +282,7 @@ After one period, the short rate either goes up to. $1.2{\cdot}5\%=6\%$ or down 
 
 Now consider the model with a $45\%$ shift (Figure 4.2). Suppose we use a volatility parameter of $2\%$ . This means that after one period the short rate either increases to $1.02\cdot(5\%+45\%)-$ $45\%=6\%$ or decreases to $0.98\cdot(5\%+45\%)-45\%=4\%$ We see that this is the same. $20\%$ volatility that we got in Figure 4.1 without a shift. In the second period, if the rate increases to $6\%$ , it either continues up to $1.02\cdot(6\%+45\%)-45\%=7.02\%$ or falls to $0.98\cdot(6\%+45\%)$ $-~45\%=4.98\%$ . This implies a volatility of $17\%=7.02\%/6\%-1=-(4.98\%/6\%-1)$ which is below the $20\%$ in the non-shifted model. On the other hand, if the rate decreases in the first period, it will either rise to. $1.02\cdot(4\%+45\%)-45\%=4.98\%$ or decrease to $0.98{\cdot}(4\%$ $+45\%)-45\%=3.02\%$ in the second period. So if the rate decreases in the first period, the volatility over the second period is. $24.5\%=4.98\%/4\%-1=-(3.02\%/4\%-1)$ which is higher than the $17\%$ volatility faced if the rate increases in the first period.  
 
-![](images/e76bace4fe485bad4a9fe7db42b98128ea2ea7678a395cb782c99b015c3665a4.jpg)  
+![](e76bace4fe485bad4a9fe7db42b98128ea2ea7678a395cb782c99b015c3665a4.jpg)  
 Figure 4.2. Simplified binominal tree for the short rate in a shifted lognormal model with 45% shift and simple 2% lognormal volatility per period10  
 
 Source: Lehman Brothers.  
@@ -309,7 +309,7 @@ In this section we show differences in the volatility calibration for the BK and
 
 Figure 5.1 shows the fitted zero-coupon LIBOR curves on the two dates. The differences between the two dates are very clear..  
 
-![](images/07f3056eb6b1bc7c92625450409ca01823659c0e5316b9039a0dc0a452bc6218.jpg)  
+![](07f3056eb6b1bc7c92625450409ca01823659c0e5316b9039a0dc0a452bc6218.jpg)  
 Figure 5.1.  Zero-coupon UsD LIBOR interest rates on June 28, 2004 and January 23, 2006   
 Source: Lehman Brothers.  
 
@@ -324,18 +324,18 @@ Source: Lehman Brothers.
 
 Figures 5.3 and 5.4 show a subset of the calibrated volatility parameters for the two dates. using the two different models. In Figure 5.3 we see that on June 28, 2004 the BK volatility parameter curve for the shortest bond maturity (3Y) is the highest, whereas the curve for the longest bond maturity (30Y) is the lowest, and we see that this relationship has switched on January 23, 2006. This observation can also be made for the shifted BK model in Figure 5.4. The volatility parameter curves have very similar shapes in the two models and both capture. the market information about the volatility changes seen in Figure 5.2. We find it interesting that the relative change in the calibrated volatility parameters between the two dates is smaller in the $40\%$ shifted model.  
 
-![](images/bc2e61df4c12b5910445971fdcd3575d4c23924729ab6e1770aec5d657b2a232.jpg)  
+![](bc2e61df4c12b5910445971fdcd3575d4c23924729ab6e1770aec5d657b2a232.jpg)  
 Figure 5.3. Calibrated volatility parameters $(\%)$ for four different bond maturities in the BK model   
 Source: Lehman Brothers.  
 
-![](images/ae88fe1d36c233adaad8c99889288f5e4379fad05c99fa1a68a89c49a336718d.jpg)  
+![](ae88fe1d36c233adaad8c99889288f5e4379fad05c99fa1a68a89c49a336718d.jpg)  
 
 # Figure 5.4. Calibrated volatility parameters. $(\%)$ for four different bond maturities in BK model with $40\%$ shift  
 
-![](images/0dd39bbd909d8ba8237fbdf1f9f0313578bc51dc72752b57651d3be9875e0e79.jpg)  
+![](0dd39bbd909d8ba8237fbdf1f9f0313578bc51dc72752b57651d3be9875e0e79.jpg)  
 Source: Lehman Brothers.  
 
-![](images/ace6c6a7f3f59c06bcc72738677d1909b650a955e921e63823feb55ae7da3f33.jpg)  
+![](ace6c6a7f3f59c06bcc72738677d1909b650a955e921e63823feb55ae7da3f33.jpg)  
 
 # Effect of volatility skew parameter (shift) on OAS  
 
@@ -349,7 +349,7 @@ The two main observations regarding the effect of the model change on the OAS of
 
 The extent to which the option is in or out of the money affects the difference in the OAS in the two models. In the shifted model, high (rate) strike swaptions will have lower Black volatility, whereas the low (rate) strike swaptions will have a higher Black volatility (Figure 5.5). Since a high rate strike swaption corresponds to an option on a high-coupon bond, inthe-money call options will tend to have a higher OAS in the shifted BK model. This is because a lower Black volatility means a lower option value which gives rise to a lower value of the stripped bond (to keep the value of the callable bond constant, see equation (3.2)). A lower value of the stripped bond means a higher OAS. Similarly, an out-of-themoney call option will tend to have a lower OAS in the shifted model.  
 
-![](images/fc1b8f15d9d5e7bcbf529cc5d35da7804f817423c1c5356f1649f85948e2137c.jpg)  
+![](fc1b8f15d9d5e7bcbf529cc5d35da7804f817423c1c5356f1649f85948e2137c.jpg)  
 Figure 5.5. Implied Black volatilities for a 5-year into 5-year receiver swaption assuming a flat interest rate curve at $5\%$ and constant volatility parameters   
 Source: Lehman Brothers.  
 

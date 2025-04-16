@@ -130,10 +130,10 @@ where the LHS is the put-call parity upper bound, and the RHS is the put-call pa
 
 With an understanding of option boundaries, we observe a rationality to the relation-. ship between the underlying, calls, and puts that is not apparent to the untrained eye.
 
-![](images/cac5623faae26b73361f6fb69483941b391e2118195917705320e068e42c4a47.jpg)
+![](cac5623faae26b73361f6fb69483941b391e2118195917705320e068e42c4a47.jpg)
 FIGURE 2.6a Illustration of Put-Call Parity Bounds for Short-Dated American Options (in Percentage)
 
-![](images/243c7ea55d64fe0b6c39826cd10c1c2194a1bfda1d2b6dda75e7a61a902ae71c.jpg)
+![](243c7ea55d64fe0b6c39826cd10c1c2194a1bfda1d2b6dda75e7a61a902ae71c.jpg)
 FIGURE 2.6b Illustration of Put-Call Parity Bounds for Long-Dated American Options (in Percentage)
 
 We are just beginning to partially unravel financial derivatives mysteries. Once you finish this book, there will be plenty of remaining mysteries worthy of a lifetime of research and. learning.

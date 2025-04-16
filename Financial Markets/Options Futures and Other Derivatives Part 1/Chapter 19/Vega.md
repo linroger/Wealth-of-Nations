@@ -55,7 +55,7 @@ $$
 
 where $d_{1}$ is defined as in equation (15.20). The formula for $N^{\prime}(x)$ is given in equation (19.2). The vega of a long position in a European or American option is always positive. The general way in which vega varies with $S_{0}$ is shown in Figure 19.11.  
 
-![](images/6af8380c68ecfc00a855b4e3b0a7824a4f38a48c0434329f07ca2b6bfc95a0e2.jpg)  
+![](6af8380c68ecfc00a855b4e3b0a7824a4f38a48c0434329f07ca2b6bfc95a0e2.jpg)  
 Figure 19.11 Variation of vega with stock price for an option $(K=50,r=0$ $\sigma=25\%$ $T=2$  
 
 # Example 19.6  

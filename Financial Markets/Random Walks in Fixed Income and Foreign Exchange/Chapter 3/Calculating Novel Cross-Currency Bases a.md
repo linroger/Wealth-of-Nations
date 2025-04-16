@@ -85,7 +85,7 @@ How many of the currency crosses can we fill in now with this new technique? Tab
 
 This is much better - for EUR we have a complete set, but we still lack the important short-dated basis swaps for the JPY crosses. But all is not lost. These can be derived from spot FX rates, forward FX rates and short-dated interest rates. As an example, to find the EURJPY $3\mathrm{m}$ basis, we can do the following:
 
-![](images/3937090efee705c446eddca28b32dc355163b0518926d3118c3dc5bb327efd4c.jpg)
+![](3937090efee705c446eddca28b32dc355163b0518926d3118c3dc5bb327efd4c.jpg)
 Figure 3.1: Constructed and quoted EURJPY 10y xccy basis in bp. Source: Bloomberg, Commerzbank Research
 
 Table 3.4: Available series for xccy basis swaps to the EUR, with basis series reconstruction from other bases.
@@ -112,10 +112,10 @@ Finally, now we can fill in the last lines on the JPY table of data availability
 
 Now we can graph xccy bases that are not usually quoted. As an example, we give GBPJPY 10y and 3m xccy bases in Figure 3.2, and CHFJPY in Figure 3.3. These are certainly rates used in international trade, but there is usually no time series data available.
 
-![](images/56ba07797b480baf7824ae6b12ee8f260513306aae988c06f37b63f0f27949b1.jpg)
+![](56ba07797b480baf7824ae6b12ee8f260513306aae988c06f37b63f0f27949b1.jpg)
 Figure 3.2: Xccy basis for GBPJPY in bp Source: Commerzbank, Bloomberg
 
-![](images/aefb0f1f277eb991ada890b41740f991ebd3838d84a39536d5f04b6cd17f9d58.jpg)
+![](aefb0f1f277eb991ada890b41740f991ebd3838d84a39536d5f04b6cd17f9d58.jpg)
 Figure 3.3: Xccy basis for CHFJPY in bp. Source: Commerzbank, Bloomberg
 
 What is remarkable about both these graphs is that the basis can be pretty. large - over a per cent in the case of the 3m CHFJPy. While, with these reconstructed rates, one needs to bear in mind that they may be noisy, the excessions. do seem to mirror market events - for example, one of the largest spikes in the CHFJPY 3m basis occurs early in 2015 when the SNB ceased to maintain the pegged FX rate.
@@ -126,135 +126,135 @@ For other examples of these unusual xccy basis time series, see Appendix 3.A, wh
 
 Now that we have the full set of xccy bases, perhaps we can generate a similar set of FX hedged pickups - which may represent opportunities for some investors. In Figures 3.4 to 3.7, we graph the FX hedged pickups, both rolling and matched maturity, for some JPY crosses (assuming from JPY based entity, so going short the JPY bond). It can be seen that some are at significant levels.
 
-![](images/b3af552b67413cde09f178130a9e499ed5aa29072a350a486355f58fe9b2d416.jpg)
+![](b3af552b67413cde09f178130a9e499ed5aa29072a350a486355f58fe9b2d416.jpg)
 Figure 3.4: FX hedged pickup for EURJPY in. $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/ed1729e88e378070ca2e064e3b5ca8fe14bdfdddd012a9456a1676aa382df432.jpg)
+![](ed1729e88e378070ca2e064e3b5ca8fe14bdfdddd012a9456a1676aa382df432.jpg)
 Figure 3.5: FX hedged pickup for USDJPY in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/d8685d918cebf590ea2c8f3eea337569558b0f50bc9d4d812c57cffa01affc2c.jpg)
+![](d8685d918cebf590ea2c8f3eea337569558b0f50bc9d4d812c57cffa01affc2c.jpg)
 Figure 3.6: FX hedged pickup for GBPJPY in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/77b04277939db7c302476858c39aadfd8dc1e49241b175944a67109bd5f0706d.jpg)
+![](77b04277939db7c302476858c39aadfd8dc1e49241b175944a67109bd5f0706d.jpg)
 Figure 3.7: FX hedged pickup for AUDJPY in $\%$ Source: Bloomberg, Commerzbank Research
 
 The potential value in some of these pickups is considerable. All values are annualised and thus, for example, the 30y EURJPY pickup is currently at almost $-1\%-$ indicating that one could short EUR government bonds, buy JPY government bonds, lock in a 30y FX hedge, and generate nearly $1\%$ of pickup per year. It's important to remember that this would be dependent on multiple factors - only an entity with good enough market access and credit would be able to attempt this, and the various rates are calculated rather than market quotes, so it would be advisable to check them carefully in the market. But as indications of potential value, these results are extremely interesting. In Appendix 3.B, we have graphed FX hedged pickups to the EUR, USD and JPY. These are not the only possible crosses; in theory, all others within the currency set are obtainable.
 
 # Appendix 3.A: Xccy Bases
 
-![](images/6d6daffb9e48095d33df7ff4f8b2abefa6f0fd4dc5fd29555da445b923667108.jpg)
+![](6d6daffb9e48095d33df7ff4f8b2abefa6f0fd4dc5fd29555da445b923667108.jpg)
 To the EUR
 
-![](images/f3ace0643b521c5ec924be66e4bdec2bf86bc4e76aedd70033856a4f088e522d.jpg)
+![](f3ace0643b521c5ec924be66e4bdec2bf86bc4e76aedd70033856a4f088e522d.jpg)
 Figure 3.8: Xccy basis for EURUSD in bp (to the EUR).
 
-![](images/6a107476b1302e52c162430849dd6e55b320ce06368e28637e0b37044a0cbeef.jpg)
+![](6a107476b1302e52c162430849dd6e55b320ce06368e28637e0b37044a0cbeef.jpg)
 Figure 3.9: Xccy basis for EURJPY in bp (to the EUR).
 Figure 3.10: Xccy basis for EURGBP (to the EUR).
 
-![](images/21645fed4a28bbc96295bdf3aa98a3a2c08022891d09338b0c7f700af6c02850.jpg)
+![](21645fed4a28bbc96295bdf3aa98a3a2c08022891d09338b0c7f700af6c02850.jpg)
 Figure 3.11: Xccy basis for EURAUD (to the EUR).
 
-![](images/2147cff60b88dadfdbfcfd888d8b095369f0433c36359741f5c6fe6f2f1dee8e.jpg)
+![](2147cff60b88dadfdbfcfd888d8b095369f0433c36359741f5c6fe6f2f1dee8e.jpg)
 Figure 3.12: Xccy basis for EURCAD (to the EUR).
 
-![](images/bf245fef26b94dfc869cb387ea9d52b8c4bd38c4c344181cd07e07bfda7305cb.jpg)
+![](bf245fef26b94dfc869cb387ea9d52b8c4bd38c4c344181cd07e07bfda7305cb.jpg)
 Figure 3.13: Xccy basis for EURCHF (to the EUR).
 
-![](images/7de07ac704e5844d2aa2088dd06e846b12fe36d4a1415ea343c1c2bbae4e0acd.jpg)
+![](7de07ac704e5844d2aa2088dd06e846b12fe36d4a1415ea343c1c2bbae4e0acd.jpg)
 To the USD
 
-![](images/cfe231889602d6dc01b7c80ab3a22f8fbf84559e0e8326d15a407214855d93b8.jpg)
+![](cfe231889602d6dc01b7c80ab3a22f8fbf84559e0e8326d15a407214855d93b8.jpg)
 Figure 3.14: Xccy basis for EURUSD (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/b84bb6b3f83ab4a3babc686aa15aab3cc8dea82a67bd5dc4d0d1c376c4ca72ab.jpg)
+![](b84bb6b3f83ab4a3babc686aa15aab3cc8dea82a67bd5dc4d0d1c376c4ca72ab.jpg)
 Figure 3.15: Xccy basis for USDJPY (to the USD). Source: Bloomberg, Commerzbank Research
 Figure 3.16: Xccy basis for USDGBP (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/3c1595b745f1a22610f8d1f26d813b50eca49f2be4d49f1ac900ba5b5a2e803e.jpg)
+![](3c1595b745f1a22610f8d1f26d813b50eca49f2be4d49f1ac900ba5b5a2e803e.jpg)
 Figure 3.17: Xccy basis for USDAUD (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/2153e0c94abbd205df0b3bdcff2f856afc3023549d6a990bac4ee6aee8a21c13.jpg)
+![](2153e0c94abbd205df0b3bdcff2f856afc3023549d6a990bac4ee6aee8a21c13.jpg)
 Figure 3.18: Xccy basis for USDCAD (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/86e203c83e43d74dbf2e1d6e0f759e5c26b43939cea68fbe586bbca129df807f.jpg)
+![](86e203c83e43d74dbf2e1d6e0f759e5c26b43939cea68fbe586bbca129df807f.jpg)
 Figure 3.19: Xccy basis for USDCHF (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/faf4c4308695fcd0b74cb63a74f95aea755bc14a14e56b9e7a11d9d7a23073d1.jpg)
+![](faf4c4308695fcd0b74cb63a74f95aea755bc14a14e56b9e7a11d9d7a23073d1.jpg)
 To the JPY
 
-![](images/d6ee6c15bd06305eaffc7d61c9994b8f781c91305943d8924d23cac0130b9a5e.jpg)
+![](d6ee6c15bd06305eaffc7d61c9994b8f781c91305943d8924d23cac0130b9a5e.jpg)
 Figure 3.20: Xccy basis for EURJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/59f1a6d7d64a63d32b6e0caa7664f5a61a4b06968e57d2004dcb198ae3fa34b3.jpg)
+![](59f1a6d7d64a63d32b6e0caa7664f5a61a4b06968e57d2004dcb198ae3fa34b3.jpg)
 Figure 3.21: Xccy basis for USDJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 Figure 3.22: Xccy basis for GBPJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/781986b96b97355be041a0211d038923ad9cf3f53e54c9c00641c04b6fc23121.jpg)
+![](781986b96b97355be041a0211d038923ad9cf3f53e54c9c00641c04b6fc23121.jpg)
 Figure 3.23: Xccy basis for AUDJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/e857711a5123c4fe078e45937a1c5119efffb666e99e9df452d09372f8d2cda1.jpg)
+![](e857711a5123c4fe078e45937a1c5119efffb666e99e9df452d09372f8d2cda1.jpg)
 Figure 3.24: Xccy basis for CADJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/1249ee4af99ffe7fe582c056ff6b2c66530c9a8aa357ff41ab3d44ce257891b0.jpg)
+![](1249ee4af99ffe7fe582c056ff6b2c66530c9a8aa357ff41ab3d44ce257891b0.jpg)
 Figure 3.25: Xccy basis for CHFJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
 # Appendix 3.B: FX Hedged Pickups
 
 # To the EUR
 
-![](images/c59c494ac818b3b419d4ae4379dc380ea4ddf344c2d08988cb805782b57cae9d.jpg)
+![](c59c494ac818b3b419d4ae4379dc380ea4ddf344c2d08988cb805782b57cae9d.jpg)
 Figure 3.26: FX hedged pickup for EURUSD (to the EUR). Source: Bloomberg, Commerzbank Research.
 
-![](images/c142dfbc194f8966df98371d8f907a5ffb804bdde489535f508f9ac1135ea03d.jpg)
+![](c142dfbc194f8966df98371d8f907a5ffb804bdde489535f508f9ac1135ea03d.jpg)
 Figure 3.27: FX hedged pickup for EURJPY (to the EUR). Source: Bloomberg, Commerzbank Research.
 
-![](images/b7678360bcd9dfd46f273ea7d83d1529f6365d77c7c6af1f16696d7dffce880c.jpg)
+![](b7678360bcd9dfd46f273ea7d83d1529f6365d77c7c6af1f16696d7dffce880c.jpg)
 Figure 3.28: FX hedged pickup for EURGBP (to the EUR). Source: Bloomberg, Commerzbank Research
 
-![](images/8be4b6af8a9b097fcf08d2283a3ab00810b1a74cf4011dbb2219c5515e8fa589.jpg)
+![](8be4b6af8a9b097fcf08d2283a3ab00810b1a74cf4011dbb2219c5515e8fa589.jpg)
 Figure 3.29: FX hedged pickup for EURAUD (to the EUR). Source: Bloomberg, Commerzbank Research.
 
-![](images/2a49d0a5108534cd9456137b97313a3df312aa995adb048cbab95aa12e6ca64c.jpg)
+![](2a49d0a5108534cd9456137b97313a3df312aa995adb048cbab95aa12e6ca64c.jpg)
 Figure 3.30: FX hedged pickup for EURCAD (to the EUR). Source: Bloomberg, Commerzbank Research.
 
-![](images/d2a59cbf82b50ca08fcb07d629b80306becbf1766acf0b0910ee9256711c402e.jpg)
+![](d2a59cbf82b50ca08fcb07d629b80306becbf1766acf0b0910ee9256711c402e.jpg)
 Figure 3.31: FX hedged pickup for EURCHF (to the EUR). Source: Bloomberg, Commerzbank Research.
 
-![](images/4188a2c6a4941128ae388142ef4861c0ab8b57c0dbe9a7934ab9dd1ac3d5fb3b.jpg)
+![](4188a2c6a4941128ae388142ef4861c0ab8b57c0dbe9a7934ab9dd1ac3d5fb3b.jpg)
 To the USD
 Figure 3.32: FX hedged pickup for EURUSD (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/6327fd3f47664a7b8f5a4047d3c4434188fdb92fddf6b2e81ea989ca3ea6c20c.jpg)
+![](6327fd3f47664a7b8f5a4047d3c4434188fdb92fddf6b2e81ea989ca3ea6c20c.jpg)
 Figure 3.33: FX hedged pickup for USDJPY (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/090071b0891f6d15a436ed25d453c11636bb5019b0f046f5aadd1efae97a4f4b.jpg)
+![](090071b0891f6d15a436ed25d453c11636bb5019b0f046f5aadd1efae97a4f4b.jpg)
 Figure 3.34: FX hedged pickup for USDGBP (to the USD). Source: Bloomberg, Commerzbank Research.
 
-![](images/1c1075a0e943f2d88087fbbe2c254597df2c83088e3d104d0386b7805d244c06.jpg)
+![](1c1075a0e943f2d88087fbbe2c254597df2c83088e3d104d0386b7805d244c06.jpg)
 Figure 3.35: FX hedged pickup for USDAUD (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/a6e493517eddcdf18b778c80094b99009887aeef39dd7be970e4804756be1a36.jpg)
+![](a6e493517eddcdf18b778c80094b99009887aeef39dd7be970e4804756be1a36.jpg)
 Figure 3.36: FX hedged pickup for USDCAD (to the USD). Source: Bloomberg, Commerzbank Research.
 
-![](images/19fcd30597d5826f045a9380ea612d6e639a06edd338336dae50e593d2561e24.jpg)
+![](19fcd30597d5826f045a9380ea612d6e639a06edd338336dae50e593d2561e24.jpg)
 Figure 3.37: FX hedged pickup for USDCHF (to the USD). Source: Bloomberg, Commerzbank Research
 
-![](images/c8b52f91e38ec7af181534ed1b9c789bd0cbe91c17b443bfce101613cadc5951.jpg)
+![](c8b52f91e38ec7af181534ed1b9c789bd0cbe91c17b443bfce101613cadc5951.jpg)
 To the JPY
 Figure 3.38: FX hedged pickup for EURJPY (to the JPY). Source: Bloomberg, Commerzbank Research.
 
-![](images/c21b1f7157f69e308255c5f4065a971ebec0d6f9290283ecea6c7ef9db31b1c5.jpg)
+![](c21b1f7157f69e308255c5f4065a971ebec0d6f9290283ecea6c7ef9db31b1c5.jpg)
 Figure 3.39: FX hedged pickup for USDJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/c1aa15588f75ab8201685e50065ed62a93ed3dc8086d32b153936127ed3bfb07.jpg)
+![](c1aa15588f75ab8201685e50065ed62a93ed3dc8086d32b153936127ed3bfb07.jpg)
 Figure 3.40: FX hedged pickup for GBPJPY (to the JPY). Source: Bloomberg, Commerzbank Research.
 
-![](images/213c9c632674430801ad88117ba31eaa0b30e27259e704aa30d53faaee3e6406.jpg)
+![](213c9c632674430801ad88117ba31eaa0b30e27259e704aa30d53faaee3e6406.jpg)
 Figure 3.41: FX hedged pickup for AUDJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/9581d2f9072deab40a9e30cb4d0af29d7ee9bb49795e5b937240c46cdeff5579.jpg)
+![](9581d2f9072deab40a9e30cb4d0af29d7ee9bb49795e5b937240c46cdeff5579.jpg)
 Figure 3.42: FX hedged pickup for CADJPY (to the JPY). Source: Bloomberg, Commerzbank Research
 
-![](images/25a52736a63b3516232374c04873a1318886283544cdb2f8c16a1f0fd4d08165.jpg)
+![](25a52736a63b3516232374c04873a1318886283544cdb2f8c16a1f0fd4d08165.jpg)
 Figure 3.43: FX hedged pickup for CHFJPY (to the JPY). Source: Bloomberg, Commerzbank Research

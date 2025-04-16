@@ -115,7 +115,7 @@ Suppose a company issues a 5-year bond paying quarterly floating coupons equal t
 
 <html><body><table><tr><td>0 -75,833 79,222 175,000 222,500 265,417 339,889 432,250 482,500 411,444 310,917 207,278 165,639 89,444 30,333 -42,972 Net 1,137,500 1,137,500 1,150,000 1,125,000 1,112,500 1,137,500 1,150,000 1,137,500 1,125,000 1,150,000 1,137,500 1,137,500 1,112,500 1,150,000 1,137,500 1,137,500 Swap Pay 1,137,500 1,061,667 1,229,222 1,300,000 1,335,000 ,402,917 ,489,889 1,569,750 1,607,500 1,561,444 1,448,417 ,344,778 1,278,139 1,239,444 1,167,833 1,094,528 Receive Pay date 3 6 9 2 5 8 忆 72 30 3 6 39 2 5 -75,833 0 0 0 0 0 0 0 0 0 0 0 0 0 -42,972 Payout Short floor (0 ^7-y)xeu 3 0 0 0 0 0 0 0 0 0 0 0 0 0 79,222 175,000 222,500 265,417 339,889 432,250 482,500 411,444 310,917 207,278 165,639 89,444 Payout 30,333 Long cap max(L -K, 0) 0.31 0.7 1.05 1.33 1.71 1.93 1.61 1.23 0.82 0.67 0.35 0.9 0.12 0 0 Days 9 9 92 9 9 2 9 9 2 9 9 2 9 LIBOR 4.50 4.20 4.81 5.20 5.40 5.55 5.83 6.21 6.43 6.11 5.73 5.32 5.17 4.85 4.62 Set Date</td></tr></table></body></html>  
 
-![](images/857a00f8034c9206b99a8e561d63a605d97bc10f928eee1aab204317c6f2b748.jpg)  
+![](857a00f8034c9206b99a8e561d63a605d97bc10f928eee1aab204317c6f2b748.jpg)  
 Figure 6.1  A floating-rate bond insured with a $4.5\%$ cap  
 
 For months 9 to 45, when LIBOR exceeds $4.5\%$ , the company effectively pays. $4.5\%$ rate times the appropriate day-count..  
@@ -161,10 +161,10 @@ Swaptions (swap options) are options to enter into a swap. Unlike a cap which co
 
 Calls are options to receive (fixed) on the swap; puts are options to pay (fixed) on the. swap. The call/put terminology corresponds to the view of swaps as exchanges of bonds. A receive-fixed swap can be thought of as a bought fixed rate bond and a sold floating rate bond, or a bought fixed rate bond financed by a revolving loan. So a call swaption is like an option to buy a fixed rate bond, just as a call is an option to buy a stock. A put swaption is an option to sell a fixed rate bond, i.e. the option to pay a fixed rate on an obligation, and to receive a. floating financing rate.  
 
-![](images/cd699c492e0db903bec2e57a7f16d657c5ef1dd5524234c7793fa57c2ce4b452.jpg)  
+![](cd699c492e0db903bec2e57a7f16d657c5ef1dd5524234c7793fa57c2ce4b452.jpg)  
 Years 0-5  
 
-![](images/1ea7a5323c15b440490f38806070cf9deb74aebcfe87fb3d6740206e0119fb7a.jpg)  
+![](1ea7a5323c15b440490f38806070cf9deb74aebcfe87fb3d6740206e0119fb7a.jpg)  
 Years 5-10, if call exercised   
 Figure 6.2 A European call swaption to cancel a swap  
 

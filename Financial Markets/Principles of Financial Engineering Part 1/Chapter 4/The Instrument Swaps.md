@@ -41,11 +41,11 @@ The swap consists of exchanging the. $\{C(s_{t_{0}},x_{t_{i}})\}$ against $\{B(y
 
 Now, if two parties who are willing to exchange the two sequences of cash flows without any up-front payment, the market value of these cash flows must be the same no matter how different they are in terms of implicit risks. Otherwise one of the parties will require an up-front net payment. Yet, as time passes, a swap agreement may end up having a positive or negative net value, since the variables $x_{t_{i}}$ and $y_{t_{i}}$ will change, and this will make one cash flow more "valuable' than. the other.  
 
-![](images/013c630239a3f29c906ad463135fd52742256e2306b6164bd7a7ded355e5d551.jpg)  
+![](013c630239a3f29c906ad463135fd52742256e2306b6164bd7a7ded355e5d551.jpg)  
 
 Adding vertically, we get a swap.  
 
-![](images/409caa26cb9c3be95b8ec5452b7fef0418a84ac4d1df07200aca862035b8afaf.jpg)  
+![](409caa26cb9c3be95b8ec5452b7fef0418a84ac4d1df07200aca862035b8afaf.jpg)  
 
 Note that time- $t_{0}$ value is zero...  
 
@@ -56,7 +56,7 @@ Payoffs of a generic swap.
 If cash flows are in the same currency,.   
 then the counterparty will receive the net amounts...  
 
-![](images/de04a95fa0c1f47467504158e0188e0be06f0e6794dff2c2ddb5e24fdc9f7521.jpg)  
+![](de04a95fa0c1f47467504158e0188e0be06f0e6794dff2c2ddb5e24fdc9f7521.jpg)  
 
 # FIGURE 4.5  
 

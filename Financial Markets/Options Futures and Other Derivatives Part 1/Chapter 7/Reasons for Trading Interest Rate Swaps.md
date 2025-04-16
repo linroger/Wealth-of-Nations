@@ -18,10 +18,10 @@ Swaps have proved to be very popular because they have many uses, as we will now
 
 For Apple, the swap in Figure 7.1 could be used to transform a floating-rate loan into a fixed-rate loan, as indicated in Figure 7.3. Suppose that Apple has arranged to borrow $\$100$ million for two years at the floating rate plus 10 basis points. (One basis point is.  
 
-![](images/2b6e13e8707de884bd83928b318a85d4573c379aaae30182f9a977afb100a7c3.jpg)  
+![](2b6e13e8707de884bd83928b318a85d4573c379aaae30182f9a977afb100a7c3.jpg)  
 Figure 7.2 OIS zero rates in Table 7.3.  
 
-![](images/6b346c97cc7199b83a09029165e8192b009afceb58d8fddbb49680506d160df8.jpg)  
+![](6b346c97cc7199b83a09029165e8192b009afceb58d8fddbb49680506d160df8.jpg)  
 Figure 7.3 Apple uses the swap in Figure 7.1 to convert floating-rate borrowings into fixed-rate borrowings.  
 
 $0.01\%$ , so the rate is floating plus $0.1\%$ .) After Apple has entered into the swap, it has three sets of cash flows:  
@@ -44,9 +44,9 @@ These three sets of cash flows net out to an interest rate payment of floating p
 
 Swaps can also be used to transform the nature of an asset. Consider Apple in our example. The swap in Figure 7.1 could have the effect of transforming an asset earning a fixed rate of interest into an asset earning a floating rate of interest. Suppose that Apple owns $\$100$ million in bonds that will provide interest at $2.7\%$ per annum over the next two years. After Apple has entered into the swap, it is in the position shown in Figure 7.5. It has three sets of cash flows:.  
 
-![](images/c0c55da2eb68ad1696d4fe35dda428a9ba444c8763b6ecc4785c744ed755bc12.jpg)  
+![](c0c55da2eb68ad1696d4fe35dda428a9ba444c8763b6ecc4785c744ed755bc12.jpg)  
 
-![](images/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg)  
+![](84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg)  
 Figure 7.5 Apple uses the swap in Figure 7.1 to convert a fixed-rate investment into a floating-rate investment..  
 
 1. It receives $2.7\%$ on the bonds.   

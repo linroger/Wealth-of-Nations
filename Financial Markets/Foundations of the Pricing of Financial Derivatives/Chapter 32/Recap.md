@@ -15,4 +15,4 @@ model.
 
 This chapter completes the book. We have laid the foundations of the theory of derivative pricing within the framework of the much broader discipline of quantitative finance. With study optio In ad futur
 
-![](images/3b40a99799788f9ae5dc43d1a3ffc382b1641c3ac24b72eac8081ff1b32dbda0.jpg)
+![](3b40a99799788f9ae5dc43d1a3ffc382b1641c3ac24b72eac8081ff1b32dbda0.jpg)

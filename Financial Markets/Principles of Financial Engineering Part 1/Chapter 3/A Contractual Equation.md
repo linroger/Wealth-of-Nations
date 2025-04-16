@@ -35,7 +35,7 @@ It is straightforward to see how forward loans help to accomplish these goals. W
 
 The chapter discusses several examples involving the use of forward loans and their more recent counterparts, FRAs.  
 
-![](images/1901b368784648301b7845ed0541ef9881df0656f20e7ce28e315656ac40e6be.jpg)  
+![](1901b368784648301b7845ed0541ef9881df0656f20e7ce28e315656ac40e6be.jpg)  
 
 # FIGURE 3.10  
 
@@ -52,7 +52,7 @@ We begin the engineering of a synthetic forward loan by following the same strat
 
 1. We begin with the cash flow diagram for the forward loan shown in Figure 3.11a. We detach the two cash flows into separate diagrams. Note that at this stage, these cash flows cannot.  
 
-![](images/cf42c5240cf9d8a4d96abc26abd7ab40ef8372893ac8801d40071774989b3be6.jpg)  
+![](cf42c5240cf9d8a4d96abc26abd7ab40ef8372893ac8801d40071774989b3be6.jpg)  
 
 # FIGURE 3.11  
 
@@ -182,7 +182,7 @@ $$
 (1+F_{t_{0}}\delta)100=\frac{100(1+L_{t_{0}}^{2}\delta^{2})}{(1+L_{t_{0}}^{1}\delta^{1})}
 $$  
 
-![](images/a2032e24693d6cfede863c47d7b5a570216e32ada2481eca8899b1fa8b1bd70e.jpg)  
+![](a2032e24693d6cfede863c47d7b5a570216e32ada2481eca8899b1fa8b1bd70e.jpg)  
 
 # FIGURE 3.12  
 
@@ -200,7 +200,7 @@ This formula prices the forward loan off the money markets. The formula also sho
 
 We can turn these results into analytical contractual equations. Using the bond market replication. we obtain  
 
-![](images/b7de80eb4b3a97ba934ca2230228e294fce5dc072cc44ab79a5074a68ece847d.jpg)  
+![](b7de80eb4b3a97ba934ca2230228e294fce5dc072cc44ab79a5074a68ece847d.jpg)  
 
 The expression shown in formula (3.32) is a contractual equation. The left-hand-side contract leads to the same cash flows generated jointly by the contracts on the right-hand side. This does not necessarily mean that the monetary value of the two sides is always the same. In fact, one or more of the contracts shown on the right-hand side may not even exist. in that particular economy and the markets may not even have the opportunity to put a price. on them.  
 
@@ -208,7 +208,7 @@ Essentially the equation says that the risk and cash flow attributes of the two 
 
 If we use the money markets to construct the synthetic, the contractual equation above becomes  
 
-![](images/7c179f940e610a069bc1ae74fa1c8b57242489e442aefcd7370bde6874a52397.jpg)  
+![](7c179f940e610a069bc1ae74fa1c8b57242489e442aefcd7370bde6874a52397.jpg)  
 
 These contractual equations can be exploited for finding solutions to some routine problems encountered in financial markets although they do have drawbacks. Ignoring these for the time being we give some examples.  
 
@@ -222,11 +222,11 @@ Suppose a trader would like to buy a. $t_{1}$ -maturity bond at time $t_{0}$ .Th
 
 Rearranging Eq. (3.32), we get  
 
-![](images/443d4010a66146daca7be25c8f4e493411549e7cb1f1dfefdc5f6b0f0d271b6c.jpg)  
+![](443d4010a66146daca7be25c8f4e493411549e7cb1f1dfefdc5f6b0f0d271b6c.jpg)  
 
 The minus sign in front of a contract implies that we need to reverse the position. Doing this. we see that a $t_{1}$ -maturity bond can be constructed synthetically by arranging a forward loan from $t_{1}$  
 
-![](images/ef4e1e5e9301829010983987d70296d4082562c0892250bcc0ef944fe76d5d4f.jpg)  
+![](ef4e1e5e9301829010983987d70296d4082562c0892250bcc0ef944fe76d5d4f.jpg)  
 
 # FIGURE 3.13  
 
@@ -240,10 +240,10 @@ Consider a bank that has a maturity mismatch at time $t_{0}$ . The bank has borr
 
 In fact, we know from the contractual equation in formula (3.33) that there is a relationship between short and long maturity loans:.  
 
-![](images/e65f4079316a89c5d54f4627926f632eaf6695d2cff4c532b45f860884a79632.jpg)  
+![](e65f4079316a89c5d54f4627926f632eaf6695d2cff4c532b45f860884a79632.jpg)  
 
 Changing signs, this becomes  
 
-![](images/5b3e0d8559c1fe6fcdb6bc430d48a9f109548046d0ca3a69217046ca1a84e4ff.jpg)  
+![](5b3e0d8559c1fe6fcdb6bc430d48a9f109548046d0ca3a69217046ca1a84e4ff.jpg)  
 
 According to this, the forward loan converts the short loan into a longer maturity loan and in this way eliminates the mismatch..  

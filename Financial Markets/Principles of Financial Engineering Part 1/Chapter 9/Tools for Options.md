@@ -220,7 +220,7 @@ $$
 S_{t}=H
 $$  
 
-![](images/35ab8f4a50af737445d4a2c1c181ef261c95bfdb05b46f1a9c8c5f953629fc0c.jpg)  
+![](35ab8f4a50af737445d4a2c1c181ef261c95bfdb05b46f1a9c8c5f953629fc0c.jpg)  
 
 # FIGURE 9.8  
 
@@ -240,7 +240,7 @@ $$
 
 This characterization of a barrier option as a standard option plus or minus a discount term is. very useful from a financial engineering angle. In the next chapter, we will obtain some simple contractual equations for barriers, and the use of discounts will then be useful for obtaining. Black-Scholes type formulas for other types of barriers..  
 
-![](images/a6d91db10974417882745c4530de37d45b1626c8cbd7118e7ac5890ce7510418.jpg)  
+![](a6d91db10974417882745c4530de37d45b1626c8cbd7118e7ac5890ce7510418.jpg)  
 
 # FIGURE 9.8  
 

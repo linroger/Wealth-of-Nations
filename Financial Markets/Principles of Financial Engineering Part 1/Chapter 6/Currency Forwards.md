@@ -20,7 +20,7 @@ Obviously, the forward exchange rate $F_{t_{0}}$ should be chosen at $t_{0}$ so 
 
 In this section, we discuss the structure of this instrument. How do we create a synthetic for an instrument such as this one? How do we decompose a forward contract? Once this is understood, we consider applications of our methodology to hedging, pricing, and risk management.  
 
-![](images/acca12e93c876190b56516c4f75f984fafadb448e74d3070eedcc04098fda482.jpg)  
+![](acca12e93c876190b56516c4f75f984fafadb448e74d3070eedcc04098fda482.jpg)  
 
 # FIGURE 6.2  
 
@@ -35,7 +35,7 @@ A general method of engineering a (currency) forward or, for that matter, any li
 
 This procedure will become clearer as it is applied to progressively more complicated instruments. Now we consider the details..  
 
-![](images/a14c7f280d9acc0241dc7e2519fc377d1eaa374d3e968df63d5f512d15c4b668.jpg)  
+![](a14c7f280d9acc0241dc7e2519fc377d1eaa374d3e968df63d5f512d15c4b668.jpg)  
 
 # FIGURE 6.2  
 

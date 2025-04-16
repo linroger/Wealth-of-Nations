@@ -384,7 +384,7 @@ $$
 
 This is the Black-Scholes-Merton result.  
 
-![](images/a504587b88552c4fd0175f60f2ec348488cfbc45bb05ab72c4db7979b5aff9e9.jpg)  
+![](a504587b88552c4fd0175f60f2ec348488cfbc45bb05ab72c4db7979b5aff9e9.jpg)  
 
 # Employee Stock Options  
 

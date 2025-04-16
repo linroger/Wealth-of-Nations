@@ -201,7 +201,7 @@ $$
 
 Of these equations, the first and second are straightforward. We just applied the risk-neutral. measures to price the benchmark bonds. When weighted by these probabilities, the values of future payoffs discounted by the LIBOR rates become Martingales and hence, equal the current price of. the appropriate bond, see Figure 13.1.  
 
-![](images/9fe599e38ae9690b7fd7156550afc9deb9ef8f4d2cc2d25b76d79b4c1af2d9f4.jpg)  
+![](9fe599e38ae9690b7fd7156550afc9deb9ef8f4d2cc2d25b76d79b4c1af2d9f4.jpg)  
 
 # FIGURE 13.1  
 
@@ -265,13 +265,13 @@ $$
 N=\mathbb{S}1\mathrm{million}
 $$  
 
-![](images/328a8ce0a1d3e1d1938c65d4b3b20edf1cd56478b3c0c88d173a4eaad775f54e.jpg)  
+![](328a8ce0a1d3e1d1938c65d4b3b20edf1cd56478b3c0c88d173a4eaad775f54e.jpg)  
 
 # FIGURE 13.2  
 
 Caplet payoff.  
 
-![](images/37b093cae75fa9d96fa771d7a5de825a6782778b327440dac1860a2402429b27.jpg)  
+![](37b093cae75fa9d96fa771d7a5de825a6782778b327440dac1860a2402429b27.jpg)  
 
 # FIGURE 13.3  
 

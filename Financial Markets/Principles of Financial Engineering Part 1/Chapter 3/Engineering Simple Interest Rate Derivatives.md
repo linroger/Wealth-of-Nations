@@ -47,7 +47,7 @@ yield curve is also sometimes referred to as the term structure of interest rate
 a real-world example. It plots the US dollar yield curve on July 13, 2014. For comparison the.   
 figure also shows the yield curve on June 15, 2007, that is, before the GFC. Short-term and.  
 
-![](images/75972445610700049c0e864c92b6c6ed4fe8c1aaaaba8bfaa5d99e413ceb48cc.jpg)  
+![](75972445610700049c0e864c92b6c6ed4fe8c1aaaaba8bfaa5d99e413ceb48cc.jpg)  
 Note: X-axis (Maturity) is not to scale  
 
 # FIGURE 3.7  
@@ -66,7 +66,7 @@ where $B(t,T)$ is time $t$ price of default-free zero-coupon bond that pays 100 
 
 Broadly speaking, the yield curve can be calculated from prices available in the bond market or the money market and different methods lead to different results. Of course, there is no single yield curve describing the cost of money for every market participant since borrowing costs depend on the currency in which the securities are denominated as well as the creditworthiness of the borrower. Yield curves corresponding to the bonds issued by governments in their own currency are called government bond yield curves. Figure 3.8 shows Treasury yield curve for the United States, United Kingdom, Japan, and Germany on June 16, 2014. On that day, the spreads between yield  
 
-![](images/ba90635e14501940286f88e35181065bda4d8a9450118a637c9d7a0ea83c5861.jpg)  
+![](ba90635e14501940286f88e35181065bda4d8a9450118a637c9d7a0ea83c5861.jpg)  
 
 # FIGURE 3.8  
 

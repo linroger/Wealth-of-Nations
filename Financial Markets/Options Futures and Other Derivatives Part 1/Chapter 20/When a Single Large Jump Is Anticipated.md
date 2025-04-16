@@ -15,14 +15,14 @@ tags:
 
 Let us now consider an example of how an unusual volatility smile might arise in equity markets. Suppose that a stock price is currently. $\$50$ and an important news announce-. ment due in a few days is expected either to increase the stock price by $\$8$ or to reduce it by $\$8$ (This announcement could concern the outcome of a takeover attempt or the verdict in an important lawsuit.) The probability distribution of the stock price in, say,. 1 month might then consist of a mixture of two lognormal distributions, the first corresponding to favorable news, the second to unfavorable news. The situation is illustrated in Figure 20.5. The solid line shows the mixture-of-lognormals distribution. for the stock price in 1 month; the dashed line shows a lognormal distribution with the. same mean and standard deviation as this distribution..  
 
-![](images/a691c1da2de1571224a0449250d76922da8ed11feceeaec4fbce92fecd559398.jpg)  
+![](a691c1da2de1571224a0449250d76922da8ed11feceeaec4fbce92fecd559398.jpg)  
 Figure 20.5 Effect of a single large jump. The solid line is the true distribution; the dashed line is the lognormal distribution..  
 
 The true probability distribution is bimodal (certainly not lognormal). One easy way to investigate the general effect of a bimodal stock price distribution is to consider the extreme case where there are only two possible future stock prices. This is what we will now do.  
 
 Suppose that the stock price is currently $\$50$ and it is known that in 1 month it will be either $\$42$ or $\$58$ Suppose further that the risk-free rate is $12\%$ per annum. The situation is illustrated in Figure 20.6. Options can be valued using the binomial model from Chapter 13. In this case, $u=1.16$ $d=0.84$ $a=1.0101$ , and $p=0.5314$ . The results from valuing a range of different options are shown in Table 20.3. The first column shows alternative strike prices; the second shows prices of 1-month European call options; the third shows the prices of one-month European put option prices; and the fourth shows implied volatilities. (As shown in Section 20.1, the implied volatility of a European put. option is the same as that of a European call option when they have the same strike price and maturity.) Figure 20.7 displays the volatility smile from Table 20.3. It is actually a "frown" (the opposite of that observed for currencies) with volatilities declining as we. move out of or into the money. The volatility implied from an option with a strike price of 50 will overprice an option with a strike price of 44 or 56..  
 
-![](images/44a6576924ea6873077d005d99ddb35fd920ea50848c2a49979b3680393dad8d.jpg)  
+![](44a6576924ea6873077d005d99ddb35fd920ea50848c2a49979b3680393dad8d.jpg)  
 Figure 20.6 Change in stock price in 1 month.  
 
 Table 20.3 Implied volatilities in situation where it is known that the stock price will move from $\$50$ to either $\$42$ Or $\$58$   
@@ -34,7 +34,7 @@ Table 20.3 Implied volatilities in situation where it is known that the stock pr
 
 The Black-Scholes-Merton model and its extensions assume that the probability distribution of the underlying asset at any given future time is lognormal. This assumption is not the one made by traders. They assume the probability distribution of an equity price has a heavier left tail and a less heavy right tail than the lognormal distribution. They also assume that the probability distribution of an exchange rate has a heavier right tail and a heavier left tail than the lognormal distribution.  
 
-![](images/9dd0c8c0bb48eecf2781effdd1d1ff3606f6f6bbc2af0d7851c23bc70dc3b437.jpg)  
+![](9dd0c8c0bb48eecf2781effdd1d1ff3606f6f6bbc2af0d7851c23bc70dc3b437.jpg)  
 Figure 20.7 Volatility smile for situation in Table 20.3.  
 
 Traders use volatility smiles to allow for nonlognormality. The volatility smile defines. the relationship between the implied volatility of an option and its strike price. For equity options, the volatility smile tends to be downward sloping. This means that outof-the-money puts and in-the-money calls tend to have high implied volatilities whereas. out-of-the-money calls and in-the-money puts tend to have low implied volatilities. For foreign currency options, the volatility smile is U-shaped. Both out-of-the-money and. in-the-money options have higher implied volatilities than at-the-money options.  
@@ -149,7 +149,7 @@ $$
 e^{-r T}g(K)\delta^{2}=c_{1}+c_{3}-2c_{2}
 $$  
 
-![](images/252226359d23e235f9bd369932843fc4236600911e474770c7e769d01d4fb5c4.jpg)  
+![](252226359d23e235f9bd369932843fc4236600911e474770c7e769d01d4fb5c4.jpg)  
 Figure 20A.1 Payoff from butterfly spread.  
 
 which leads directly to  
@@ -178,11 +178,11 @@ $$
 \begin{array}{c}{{g_{2}=0.0444,~g_{3}=0.1545,~g_{4}=0.2781}}\ {{g_{5}=0.2813,~g_{6}=0.1659,~g_{7}=0.0573,~g_{8}=0.0113}}\end{array}
 $$  
 
-![](images/869ce22a773525f3ff8e920324083294fae161206d030c352fd90e748e798138.jpg)  
+![](869ce22a773525f3ff8e920324083294fae161206d030c352fd90e748e798138.jpg)  
 Figure 20A.2 Implied probability distribution for Example 20A.1.   
 Figure 20A.2 displays the implied distribution. (Note that the area under the. probability distribution is 0.9985. The probability that. $S_{T}<6$ or $S_{T}>14$ is therefore 0.0015.) Although not obvious from Figure 20A.2, the implied distribution does have a heavier left tail and less heavy right tail than a lognormal distribution. For the lognormal distribution based on a single volatility of $26\%$ , the probability of a stock price between $\$6$ and $\$7$ is 0.0031 (compared with 0.0057 in Figure 20A.2) and the probability of a stock price between. $\$13$ and $\$14$ is 0.0167 (compared with 0.0113 in Figure 20A.2).  
 
-![](images/636e6774de04a99365ad1f32897bce5ed12dfecd318761abc18acb32b21117cc.jpg)  
+![](636e6774de04a99365ad1f32897bce5ed12dfecd318761abc18acb32b21117cc.jpg)  
 
 # Basic Numerical Procedures  
 

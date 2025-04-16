@@ -25,10 +25,10 @@ It is argued in Cohen et al. (2018), Li et al. (2017) and Swanson (2007) that th
 
 The term premium is a critical element in monetary policy. For one, dissecting significant rate moves into changes in genuine rate expectations and varying risk premia is crucial for determining the policy response. While monetary policy can directly address short-rate expectations via rate cuts (and hikes), adjusting the term premium is primarily done via QE.
 
-![](images/bd292e144b5787824b42cd79059b7eaeff7299553681062fa458abe44e4596c8.jpg)
+![](bd292e144b5787824b42cd79059b7eaeff7299553681062fa458abe44e4596c8.jpg)
 Figure 7.1: Evolution of EUR yield curve, various tenors, in $\%$ Source: Bloomberg
 
-![](images/a9339027aebe3fc94ac6d0a965ef6dd2ab2e710d2aa51ffdcefc917cb7625842.jpg)
+![](a9339027aebe3fc94ac6d0a965ef6dd2ab2e710d2aa51ffdcefc917cb7625842.jpg)
 Figure 7.2: Evolution of UsD yield curve, various tenors, in $\%$ Source: Bloomberg
 
 Various papers conclude that monetary policy can only impact long-term yields by modifying term premia (Bernanke et al. [2005], Crump et al. [2016], and Kopp and Williams [2018]). Policymakers would like to know the likely impact upon longerterm yields of the volume and maturity of government debt they remove from the market via quantitative easing.
@@ -45,7 +45,7 @@ Crucially, varying signals from different term premium models imply different. p
 
 There have been a number of different attempts to calculate current and historical values of the term premium. A literature review might discover perhaps 15 separate. methods, some of these subdivided into several variants. The data that they are based on is varied; yield curves through time are of course popular sources of term premium information, but so are inflation, economic inputs, and surveys of market participants. What is surprising is not so much that they all give different results,. but that they all do tend to agree on overall shape and direction, to an extent. It is difficult to source live or even historical data for all of them, as many are not published in data form or updated, but for those which we could discover, we have graphed the results in Figure 7.3. Although most models in theory would give a term premium value as a function of tenor, in practice the 1Oy term premium is the most often calculated and published. Although it should be possible to generalise any model to any currency, in practice the US dollar tends to get most of the. attention.
 
-![](images/24a558da7a27c0a819d6ee1a62a4f49a1f8f29a8b0d85b72028b0a9af006571c.jpg)
+![](24a558da7a27c0a819d6ee1a62a4f49a1f8f29a8b0d85b72028b0a9af006571c.jpg)
 Figure 7.3: Term premium results, 10y term premium, in $\%$ Source: Bloomberg, Commerzbank Research, San Francisco Federal Reserve, St. Louis Federal Reserve, BlS Quarterly Report Sep 2018
 
 Overall, it is certainly true to say that there has been a decline in term premium. values over time. All show a peak and then decline at the start of the millennium, and all show a spike and decline after the 2o08 crisis. After that period, there is a brief recovery in 2014, followed by an overall downtrend until the present day..
@@ -81,5 +81,5 @@ Unsurprisingly, there is significant noise around the 2008 financial crisis. Aft
 
 It is clear that we are on a downward slope. Current values of the aggregated. term premium are headed for a record low, with models lining up to agree. Is the current decline to record lows in long-term yields due to (1) caution about the future and insurance-buying behaviour, or (2) is it just that the market has decided that policy normalisation is a long way off? If (1), then the term premium would be the dominant driver, but (2) would indicate that rate expectations are responsible..
 
-![](images/0969f20af2a9e1bfa2fb7c05a0c50592b63896825e738ad68ac020939e882e4e.jpg)
+![](0969f20af2a9e1bfa2fb7c05a0c50592b63896825e738ad68ac020939e882e4e.jpg)
 Figure 7.4: Average 10y USD term premium, term premium averaged over models, with standard deviation bands. Source: Bloomberg, Commerzbank Research, San Francisco Federal Reserve, St. Louis Federal Reserve, BIS Quarterly Report Sep 2018

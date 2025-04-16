@@ -19,7 +19,7 @@ Given the current term structure of spot rates (i.e., the current six-month and 
 
 The price tree for. $\$1,000$ face value of a one-year zero is depicted at the bottom right of Figure 7.1. The three prices on date 2 are all $\$1,000$ , which. is the face value of the one-year zero. The two prices on date 1 are found by discounting this certain. $\$1,000$ at the then-prevailing six-month rate. Hence, the date 1 upstate price is $\$1,000/(1+0.025/2)$ , or $\$987.654$ , and the date 1 downstate price is. $\$1,000/(1+0.015/2)$ , or $\$992.556$ . Finally, the date 0 price is computed using the given, date 0, one-year rate of $2.15\%$ $\$1,000$ , 0r 978.842.  
 
-![](images/c2cbc43407e0d8e1569c228b30daac60b2516755c16e9fb1ba59ef04fd3f410d.jpg)  
+![](c2cbc43407e0d8e1569c228b30daac60b2516755c16e9fb1ba59ef04fd3f410d.jpg)  
 FIGURE 7.1  Pricing Six-Month and One-Year Zero Coupon Bonds with a Binomial Rate Tree.  
 
 The probabilities of moving up or down the tree may be used to compute average or expected values. As of date 0, the expected value of the one-year zero price on date 1 is,  

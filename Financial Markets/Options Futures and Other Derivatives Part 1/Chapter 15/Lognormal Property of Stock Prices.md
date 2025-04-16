@@ -63,7 +63,7 @@ $$
 
 Thus, there is a $95\%$ probability that the stock price in 6 months will lie between 32.55 and 56.56.  
 
-![](images/20c4902095e5ce8a10dab9ab1a7a7f49bbc37705a3c43e8915fe969b696330ef.jpg)  
+![](20c4902095e5ce8a10dab9ab1a7a7f49bbc37705a3c43e8915fe969b696330ef.jpg)  
 Figure 15.1 Lognormal distribution.  
 
 A variable that has a lognormal distribution can take any value between zero and infinity. Figure 15.1 illustrates the shape of a lognormal distribution. Unlike the normal distribution, it is skewed so that the mean, median, and mode are all different. From equation (15.3) and the properties of the lognormal distribution, it can be shown that the expected value $E(S_{T})$ Of $S_{T}$ is given by  

@@ -43,7 +43,7 @@ Note that the swap spread may deviate from zero due to any convenience yield the
 
 Consider a commodity swap in which the counterparties exchange fixed for floating payments based on a commodity index instead of the swap type shown in Figure 7.4 in which there was an.  
 
-![](images/e0da8a37c8c4721124a611da1ebb06e9bf70ea8efb5d2a837021bceb541af798.jpg)  
+![](e0da8a37c8c4721124a611da1ebb06e9bf70ea8efb5d2a837021bceb541af798.jpg)  
 
 # FIGURE 7.4  
 
@@ -59,7 +59,7 @@ Here we make the assumption that the oil producer is attempting to hedge its rev
 
 As we saw in the context of interest rate swaps, the swap rate at inception is set so that the present value of future fixed and floating payments is equal. The mark-to-market value of the interest rate swap is calculated by discounting the future cash flows using forward rates, for example. Similarly, in the case of the oil swap, we can calculate the mark-to-market gains and losses by valuing the  
 
-![](images/f144e3ba5f50df6195e39b82c6a3807d6a6daae6897c2d263d8a035ab9a0fa7a.jpg)  
+![](f144e3ba5f50df6195e39b82c6a3807d6a6daae6897c2d263d8a035ab9a0fa7a.jpg)  
 
 # FIGURE 7.5  
 

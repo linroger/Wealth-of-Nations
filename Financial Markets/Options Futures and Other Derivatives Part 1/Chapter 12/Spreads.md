@@ -20,7 +20,7 @@ One of the most popular types of spreads is a bull spread. This can be created b
 
 Suppose that $K_{1}$ is the strike price of the call option bought, $K_{2}$ is the strike price of the call option sold, and. $S_{T}$ is the stock price on the expiration date of the options.. Table 12.1 shows the total payoff that will be realized from a bull spread in different. circumstances. If the stock price does well and is greater than the higher strike price, the payoff is the difference between the two strike prices, or. $K_{2}\mathrm{~-~}K_{1}$ . If the stock price on the expiration date lies between the two strike prices, the payoff is $S_{T}-K_{1}$ . If the stock price on the expiration date is below the lower strike price, the payoff is zero. The profit. in Figure 12.2 is calculated by subtracting the initial investment from the payoff..  
 
-![](images/b2be3e6ce8edf0a30b658a9dc8df02d74a75ab917c9f8250a76ec29742a4e62b.jpg)  
+![](b2be3e6ce8edf0a30b658a9dc8df02d74a75ab917c9f8250a76ec29742a4e62b.jpg)  
 Figure 12.2 Profit from bull spread created using call options  
 
 Table 12.1 Payoff from a bull spread created using calls   
@@ -44,7 +44,7 @@ An investor buys forr $\$3$ a 3-month European call with a strike price of $\$30
 
 Bull spreads can also be created by buying a European put with a low strike price and selling a European put with a high strike price, as illustrated in Figure 12.3. Unlike bull spreads created from calls, those created from puts involve a positive up-front cash flow to the investor, but have margin requirements and a payoff that is either negative Or zero.  
 
-![](images/06d42582f8d5501d30f06e2d9b4020fc2f1071da0652ed2b993471480985bfb3.jpg)  
+![](06d42582f8d5501d30f06e2d9b4020fc2f1071da0652ed2b993471480985bfb3.jpg)  
 Figure 12.3 Profit from bull spread created using put options.  
 
 # Bear Spreads  
@@ -53,7 +53,7 @@ An investor who enters into a bull spread is hoping that the stock price will in
 
 Assume that the strike prices are $K_{1}$ and $K_{2}$ with $K_{1}<K_{2}$ . Table 12.2 shows the payoff that will be realized from a bear spread in different circumstances. If the stock  
 
-![](images/2f774f7e2c3bd90892f97d89b157fac045078e407b0cdee3b8c603a21744e53c.jpg)  
+![](2f774f7e2c3bd90892f97d89b157fac045078e407b0cdee3b8c603a21744e53c.jpg)  
 Figure 12.4 Profit from bear spread created using put options.  
 
 Table 12.2 Payoff from a bear spread created with put options.   
@@ -73,7 +73,7 @@ An investor buys for. $\$3$ a 3-month European put with a strike price of $\$35$
 
 Like bull spreads, bear spreads limit both the upside profit potential and the downside risk. Bear spreads can be created using calls instead of puts. The investor buys a call with a high strike price and sells a call with a low strike price, as illustrated in Figure 12.5. Bear spreads created with calls involve an initial cash inflow, but have margin requirements and a payoff that is either negative or zero.  
 
-![](images/595760e3f8c3d804f64a5fc1837861662f6b8bd1b77f9679c4a8124e0a93271b.jpg)  
+![](595760e3f8c3d804f64a5fc1837861662f6b8bd1b77f9679c4a8124e0a93271b.jpg)  
 Figure 12.5 Profit from bear spread created using call options.  
 
 Table 12.3 Payoff from a box spread.   
@@ -92,7 +92,7 @@ It is important to realize that a box-spread arbitrage only works with European 
 
 A butterfly spread involves positions in options with three different strike prices. It can be created by buying a European call option with a relatively low strike price $K_{1}$  
 
-![](images/4b32db945385e370e84f10f6c35fa5c8a5e704f1e80bdbd5b1ff7aa7f8f7ae82.jpg)  
+![](4b32db945385e370e84f10f6c35fa5c8a5e704f1e80bdbd5b1ff7aa7f8f7ae82.jpg)  
 
 # Business Snapshot 12.1 Losing Money with Box Spreads  
 
@@ -121,7 +121,7 @@ The investor could create a butterfly spread by buying one call with a $\$55$ st
 
 Butterfly spreads can be created using put options. The investor buys two European. puts, one with a low strike price and one with a high strike price, and sells two European puts with an intermediate strike price, as illustrated in Figure 12.7. The butterfly spread in the example considered above would be created by buying one put. with a strike price of $\$55$ , another with a strike price of. $\$65$ , and selling two puts with a. strike price of $\$60$ The use of put options results in exactly the same spread as the use of call options. Put-call parity can be used to show that the initial investment is the. same in both cases.  
 
-![](images/5e101bb5ba3ace351e9c82f032da78e7132d8c428eb58385d99d8b91615da69c.jpg)  
+![](5e101bb5ba3ace351e9c82f032da78e7132d8c428eb58385d99d8b91615da69c.jpg)  
 Figure 12.7 Profit from butterfly spread using put options.  
 
 A butterfly spread can be sold or shorted by following the reverse strategy. Options. are sold with strike prices of. $K_{1}$ and $K_{3}$ , and two options with the middle strike price. $K_{2}$ are purchased. This strategy produces a modest profit if there is a significant movement in the stock price.  
@@ -134,10 +134,10 @@ A calendar spread can be created by selling a European call option with a certai
 
 To understand the profit pattern from a calendar spread, first consider what happens. if the stock price is very low when the short-maturity option expires. The short-maturity option is worthless and the value of the long-maturity option is close to zero. The. investor therefore incurs a loss that is close to the cost of setting up the spread initially.. Consider next what happens if the stock price, $S_{T}$ is very high when the short-maturity option expires. The short-maturity option costs the investor. $S_{T}-K$ , and the longmaturity option is worth close to $S_{T}-K$ where $K$ is the strike price of the options. Again, the investor makes a net loss that is close to the cost of setting up the spread initially. If $S_{T}$ is close to $K$ , the short-maturity option costs the investor either a small. amount or nothing at all. However, the long-maturity option is still quite valuable. In this case a net profit is made..  
 
-![](images/192b0170b4112e1fa0a065a85d197dfdcf4070e1653faa8b22447e8f8934624a.jpg)  
+![](192b0170b4112e1fa0a065a85d197dfdcf4070e1653faa8b22447e8f8934624a.jpg)  
 Figure 12.8 Profit from calendar spread created using two call options, calculated at the time when the short-maturity call option expires..  
 
-![](images/8ad74a505e106403b6ff4671130e4d90090aafc580b9911ac9540aac67da2542.jpg)  
+![](8ad74a505e106403b6ff4671130e4d90090aafc580b9911ac9540aac67da2542.jpg)  
 Figure 12.9 Profit from calendar spread created using two put options, calculated at the time when the short-maturity put option expires..  
 
 In a neutral calendar spread, a strike price close to the current stock price is chosen.. A bullish calendar spread involves a higher strike price, whereas a bearish calendar spread involves a lower strike price..  

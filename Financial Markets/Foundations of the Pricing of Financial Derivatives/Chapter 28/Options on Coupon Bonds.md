@@ -16,7 +16,7 @@ $$
 \begin{array}{r l}&{c C B(3,1.0,4,0.05)^{++}=\operatorname*{max}(0,0.9881-1)=0.0000}\ &{\begin{array}{r l}{p C B(3,1.0,4,0,0.5)^{++}=\operatorname*{max}(0,1.-0.9881)=0.0119}\ &{c C B(3,1.0,4,0.05)^{++}=\operatorname*{max}(0,1.0071-1)=0.0071}\end{array}}\ &{\begin{array}{r l}{p C B(3,1.0,4,0.05)^{+-}=\operatorname*{max}(0,1.-1.0071)=0.0000}\ &{c C B(3,1.0,4,0.05)^{+-}=\operatorname*{max}(0,1.0264-1)=0.0264}\end{array}}\ &{\begin{array}{r l}{p C B(3,1.0,4,0,0.5)^{+-}=\operatorname*{max}(0,1.-1.0264)=0.0000}\ &{c C B(3,1.0,4,0.05)^{--}=\operatorname*{max}(0,1.0461-1)=0.0461}\end{array}}\ &{\begin{array}{r l}{P C B(3,1.0,4,0.05)^{--}=\operatorname*{max}(0,1.0461-1)=0.0461}\ &{p C B(3,1.0,4,0.05)^{--}=\operatorname*{max}(0,1.-1.0461)=0.0000.}\end{array}}\end{array}
 $$
 
-![](images/c845fc58c35ab461dc3d85107d9b8a1e2bc4ce853dfcfe4233c7a9ac8026590f.jpg)
+![](c845fc58c35ab461dc3d85107d9b8a1e2bc4ce853dfcfe4233c7a9ac8026590f.jpg)
 FIGURE 28.5 Binomial Tree of Options on Coupon Bond Prices
 
 Now, let us go to the top node at time 2 and illustrate how the call and put values are calculated using the binomial formula:

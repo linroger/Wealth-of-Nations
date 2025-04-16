@@ -83,7 +83,7 @@ $$
 31.15. Use the result in Problem 31.7 to determine the best fit parameters for the Vasicek model using the same data as in Section 31.4 (see www-2.rotman.utoronto.ca/\~hull/ VasicekCIR). Verify that the regression approach in Section 31.4 and the maximumlikelihood approach give the same answer.   
 31.16. What is the result corresponding to that given in Problem 31.7 for the CIR model? Use. maximum likelihood methods to estimate the $a,b$ , and $\sigma$ parameters for the CIR model. using the same data as that used for the Vasicek model in Section 31.4 (see www-2.rotman.utoronto.ca/\~hull/VasicekCIR). Setting the market price of risk equal. to $\kappa\sqrt{r}$ use the market data in Table 31.1 to estimate the best fit $\kappa$  
 
-![](images/d5f9dd5dfff7a03c79b2271c795e36d285ff7fa9a5655a82db3e53c9ec0177a2.jpg)  
+![](d5f9dd5dfff7a03c79b2271c795e36d285ff7fa9a5655a82db3e53c9ec0177a2.jpg)  
 
 # No-Arbitrage Models of the Short Rate  
 

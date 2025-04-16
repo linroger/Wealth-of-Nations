@@ -22,7 +22,7 @@ The beauty of risk-neutral pricing is that we do not have to come up with the $3
 
 It is important to note that risk-neutral pricing never asks how the asset price was. obtained. It takes that price as being given in a market in which the buyer of the asset. trades with the seller of the asset. A trade produces an asset price. Using that asset price, the price of the option can be obtained. What we do not know from option pricing is how that asset price was obtained. That is the subject of general equilibrium theory, which is a branch of economics and financial economics that studies how prices are determined in markets with buyers and sellers whose risk aversion influences how they price assets. In finance, models such as the CAPM are general equilibrium models. Models such as the arbitrage pricing theory and virtually all option pricing models are not general equilibrium. models because they take market equilibrium as given without any regard to how that. equi they expl in C man
 
-![](images/c299057348044fc7ec3389910504d6c8792a9c3d6f3bf92e02d27a0c7460e9d0.jpg)
+![](c299057348044fc7ec3389910504d6c8792a9c3d6f3bf92e02d27a0c7460e9d0.jpg)
 
 # Discrete Time Derivatives Pricing Theory
 

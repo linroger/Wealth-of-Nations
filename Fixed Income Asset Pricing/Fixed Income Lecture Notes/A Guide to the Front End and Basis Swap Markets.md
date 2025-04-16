@@ -119,31 +119,19 @@ Source: Credit Suisse,  Bank of International Settlements (BIS)
 
 In the early 1980 s,  in order to ensure continued growth in the trading of numerous new instruments such as interest rate swaps and currency options,  there arose the pressing need to establish a uniform benchmark index against which these instruments could be referenced. That search for a uniform benchmark culminated in the [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] indices. Today,  [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] serves as the foundation for the bulk of front-end trading and is quoted for a number of tenors and currencies. [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] is not a traded rate,  but rather the outcome of a poll of bank rates submitted to the British Banker's Association (BBA) at 11 am GMT each London business day. The official fixings are calculated by the BBA in conjunction with Reuters and are released to the Telerate/Reuters page 3750 and on Bloomberg to BBAL.
 
-| Exhibit 2: [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Panels | |  |
-
-| --- | --- | --- |
-
-| Currency | [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Tenors | Number of Contributing Banks |
-
-| AUD | S/N (spot/next),  1 W,  2 W,  1 M - 12 M | 8 |
-
-| CAD | O/N (overnight),  1 W,  2 W,  1 M - 12 M | 12 |
-
-| CHF | S/N,  1 W,  2 W,  1 M – 12 M | 12 |
-
-| EUR | O/N,  1 W,  2 W,  1 M -12 M | 16 |
-
-| GBP | O/N,  1 W,  2 W,  1 M -12 M | 16 |
-
-| JPY | S/N,  1 W,  2 W,  1 M - 12 M | 16 |
-
-| USD | O/N,  1 W,  2 W,  1 M - 12 M | 16 |
-
-| DKK | S/N,  1 W,  2 W,  1 M - 12 M | 8 |
-
-| NZD | S/N,  1 W,  2 W,  1 M - 12 M | 8 |
-
-| SEK | S/N,  1 W,  2 W,  1 M - 12 M | 8 |
+| Exhibit 2 | LIBOR Panels    |                        |                              |
+| --------- | --------------- | ---------------------- | ---------------------------- |
+| Currency  | LIBOR           | Tenors                 | Number of Contributing Banks |
+| AUD       | S/N (spot/next) | 1 W,  2 W,  1 M - 12 M | 8                            |
+| CAD       | O/N (overnight) | 1 W,  2 W,  1 M - 12 M | 12                           |
+| CHF       | S/N             | 1 W,  2 W,  1 M - 12 M | 12                           |
+| EUR       | O/N             | 1 W,  2 W,  1 M - 12 M | 16                           |
+| GBP       | O/N             | 1 W,  2 W,  1 M - 12 M | 16                           |
+| JPY       | S/N             | 1 W,  2 W,  1 M - 12 M | 16                           |
+| USD       | O/N             | 1 W,  2 W,  1 M - 12 M | 16                           |
+| DKK       | S/N             | 1 W,  2 W,  1 M - 12 M | 8                            |
+| NZD       | S/N             | 1 W,  2 W,  1 M - 12 M | 8                            |
+| SEK       | S/N             | 1 W,  2 W,  1 M - 12 M | 8                            |
 
 Source: British Banker's Association
 

@@ -41,7 +41,7 @@ $$
 \mathrm{ART}(c)={\frac{1}{\mathrm{ARA}(c)}}={\frac{c}{\gamma}}.
 $$  
 
-![](images/57c5a0ba7d267d50d8ac101b6f5a736c3b27c3d3d7a7998c447ca71b64817d84.jpg)  
+![](57c5a0ba7d267d50d8ac101b6f5a736c3b27c3d3d7a7998c447ca71b64817d84.jpg)  
 Figure 5.1: Some CRRA utility functions.  
 
 Except for a constant, the utility function  

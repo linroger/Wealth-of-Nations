@@ -1443,7 +1443,7 @@ Figure 5.1 indicates two possible strategies:
 . Lend (borrow) from $t$ to $T_{2}$ at rate $r_{2}$   
 . Lend (borrow) from $t$ to $T_{1}$ at rate $r_{1}$ , then at $T_{1}$ lend (borrow) the amount gained (owed) from $T_{1}$ to $T_{2}$ at rate $f_{12}$  
 
-![](images/d4c780a629c59d7453dc505fdc190e436c154827245bd7dbb9b1c9bde0fe1822.jpg)  
+![](d4c780a629c59d7453dc505fdc190e436c154827245bd7dbb9b1c9bde0fe1822.jpg)  
 Figure 5.1: Forward and zero rates  
 
 The next result says they are equivalent.  
@@ -1616,7 +1616,7 @@ $$
 
 Compare this to Result 5.1.2. Compare also Figure 5.1 to Figure 5.2.  
 
-![](images/df4592665eb9b4763af50a74491510895d44bda7825a1124b9dbdc2784a6155d.jpg)  
+![](df4592665eb9b4763af50a74491510895d44bda7825a1124b9dbdc2784a6155d.jpg)  
 
 Result 5.2.2. Let $t\leq T_{1}\leq T_{2}$ . If $f_{12}$ is the forward rate at $t$ for $T_{1}$ to $T_{2}$ with continuous compounding  
 
@@ -1881,7 +1881,7 @@ $$
 
 Proof. Rearrange (5.6.1).  
 
-![](images/6d15a5b25cf65010af580f860511c8cede7647e86b77673165a5f80c0c5c6c21.jpg)  
+![](6d15a5b25cf65010af580f860511c8cede7647e86b77673165a5f80c0c5c6c21.jpg)  
 Figure 5.2: Discounting by ZCBs and the forward libor rate  
 
 Compare Result 5.6.3 to Results 5.1.2 and 5.1.4. Compare also Figure 5.2 to Figures 5.1 and 5.2.  
@@ -1929,7 +1929,7 @@ $Z(t,T)=\left\{\begin{array}{l l}{e^{-r(T-t)}}&{\mathrm{if~}r\mathrm{~is~continu
 
 Proof. Combine Results 3.2.1, 3.2.5, 3.2.6.  
 
-![](images/068775f8dfd8e162ad10e3e842b9768bc2534a57eb8a93289d7a15d126756d24.jpg)  
+![](068775f8dfd8e162ad10e3e842b9768bc2534a57eb8a93289d7a15d126756d24.jpg)  
 
 Result 5.7.3. For $t\leq T_{1}\leq T_{2}$  
 
@@ -1957,7 +1957,7 @@ $$
 Z(t,T_{2})=e^{-r\cdot(T_{1}-t)}(1+(T_{2}-T_{1})L_{t}[T_{1},T_{2}])^{-1}.
 $$  
 
-![](images/015514239c2efd33d12040991161945a0ac3565a55b0ac4168a14155f73d8a87.jpg)  
+![](015514239c2efd33d12040991161945a0ac3565a55b0ac4168a14155f73d8a87.jpg)  
 
 Solving for $r$ and substituting gives  
 
@@ -1998,7 +1998,7 @@ floating (unknown, random) rate $L_{T_{i}}[T_{i},T_{i}+\alpha]$ from $T_{i}$ to 
 
 $\alpha K$ is the amount of simple interest that would be accrued on notional 1 at fixed (known, non-random) rate $K$ from $T_{i}$ to $T_{i}+\alpha$ and paid at $T_{i}+\alpha$  
 
-![](images/5f6b7323da54237a5576629843704e3a4c19ef6cf3d95f8502602a4d0ad7d07c.jpg)  
+![](5f6b7323da54237a5576629843704e3a4c19ef6cf3d95f8502602a4d0ad7d07c.jpg)  
 Figure 6.1: A swap  
 
 Remark 6.1.1. The definition above is for a swap with notional 1. To treat a swap with notional $N$ , either consider $N$ swaps of notional 1 or make the payments $N\alpha L_{T_{i}}[T_{i},T_{i}+\alpha]$ and $N\alpha K$ $\triangle$  
@@ -2978,7 +2978,7 @@ The payout at $T$ is $\geq0$ , so (by the monotonicity theorem) the value at $t$
 
 The payout at $T$ is always $\le K_{2}-K_{1}$ , which is the value at $T$ of a portfolio of $K_{2}-K_{1}$ ZCBs with maturity $T$ . So (by the monotonicity theorem) the value of the spread at $t$ is $\leq(K_{2}-K_{1})Z(t,T)$  
 
-![](images/68d07bd089c236bd7192caafab760d336177fb564064bc01f837646bf945a78c.jpg)  
+![](68d07bd089c236bd7192caafab760d336177fb564064bc01f837646bf945a78c.jpg)  
 Figure 8.1: Payout of (80, 110) call spread  
 
 Definition 8.11.2. Let $K_{1}<K_{2}$ . A $(K_{2},K_{1})$ put spread is a portfolio consisting of short 1 put option with strike $K_{1}$ and long 1 put option with strike $K_{2}$ , both with maturity $T$ $\triangle$  
@@ -3043,7 +3043,7 @@ $$
 \left\{\begin{array}{l l}{0}&{\mathrm{if~}S_{T}\leq K_{1}}\ {S_{T}-K_{1}}&{\mathrm{if~}K_{1}\leq S_{T}\leq K^{*}}\ {K_{2}-S_{T}}&{\mathrm{if~}K^{*}\leq S_{T}\leq K_{2}}\ {0}&{\mathrm{if~}S_{T}\geq K_{2}}\end{array}\right.
 $$  
 
-![](images/58fc8e1635bb615a03aa7f9bc7bbf583fe9301f9a64754d351bb553c6ee159c0.jpg)  
+![](58fc8e1635bb615a03aa7f9bc7bbf583fe9301f9a64754d351bb553c6ee159c0.jpg)  
 Figure 8.2: Payout of a (90, 105, 120) call butterfly.  
 
 Result 8.12.1 is a special case of  
@@ -3122,7 +3122,7 @@ $$
 
 Digital options are also called binary options or all-or-nothing options.  
 
-![](images/1c82e13cf395e78bf74f877c222120b475577b2e86a362fdfdfcd31e18dbe407.jpg)  
+![](1c82e13cf395e78bf74f877c222120b475577b2e86a362fdfdfcd31e18dbe407.jpg)  
 Figure 8.3: Payout of a $K$ -strike 1-payout digital call  
 
 Result 8.13.1. The price/value at time $t\leq T$ of a digital call option with strike. $K$ , payout 1, and maturity. $T$ is  
@@ -3174,7 +3174,7 @@ Intuition. $P(A|B)$ is the probability that event $A$ occurs assuming event. $B$
 
 Out of the probability assigned to the outcomes in $B$ $3,P(A|B)$ is the fraction assigned to those outcomes that are in both $A$ and $B$  
 
-![](images/1681943423c4cb846dde034a9bc7a81d53e0ba80e77d95ec2c44cebeafada113.jpg)  
+![](1681943423c4cb846dde034a9bc7a81d53e0ba80e77d95ec2c44cebeafada113.jpg)  
 
 Example 9.1.1. Experiment: Flip a fair coin three times.   
 Sample space: $\Omega=\{\mathrm{HHH},\mathrm{HHT},\mathrm{HTH},\mathrm{THH},\mathrm{HTT},\mathrm{THT},\mathrm{TTH},\mathrm{TTT}\}$ Probability Measure:. $\begin{array}{r}{P(\{\omega\})=\frac{1}{8}}\end{array}$ for all $\omega\in\Omega$   
@@ -3360,7 +3360,7 @@ In this model, there are only two times:. $T=0$ and $T=1$ .At time $T=0$ , the s
 
 An example one-step binomial tree is given in Figure 10.1.  
 
-![](images/6a31e66ef88795d9ee503c44fe72d3f195e0b363e4712400ae2cb215e9cef512.jpg)  
+![](6a31e66ef88795d9ee503c44fe72d3f195e0b363e4712400ae2cb215e9cef512.jpg)  
 Figure 10.1: One-Step Binomial Tree with $r=0.1$ $d=-0.1$ , and $u=0.2$  
 
 The outcome $S_{1}=(1+u)S_{0}$ is called an up movement. The outcome $S_{1}=(1+d)S_{0}$ is called a down movement..  
@@ -3573,13 +3573,13 @@ Whether the price moves up or down at time $n\Delta$ is independent of whether t
 
 The parameters $u$ and $d$ are the possible percentage changes in the stock price at each step. They must satisfy $0<1+d<1+u$  
 
-![](images/62e8ec0f98ce95fdb1377396d75ba7959fc0f62835aa61ff9d3acde8dcffd720.jpg)  
+![](62e8ec0f98ce95fdb1377396d75ba7959fc0f62835aa61ff9d3acde8dcffd720.jpg)  
 Figure 10.2: Branch of a Binomial Tree  
 
-![](images/f3845d0191d399163d54002359af0225418de36142bddf401e928a90b01139d0.jpg)  
+![](f3845d0191d399163d54002359af0225418de36142bddf401e928a90b01139d0.jpg)  
 Figure 10.3: One-Step Binomial Tree with $r=0.1$ $d=-0.1$ , and $u=0.2$  
 
-![](images/629152657c8dffb5816542e7bf33498342f15329ab6e0bbb2e425b19aad58a71.jpg)  
+![](629152657c8dffb5816542e7bf33498342f15329ab6e0bbb2e425b19aad58a71.jpg)  
 Figure 10.4: Two-Step Binomial Tree with $d=-0.1$ and $u=0.2$  
 
 Here is an equivalent way to define how the price changes at each time:  
@@ -3724,7 +3724,7 @@ Let's do a computation with this formula.
 
 Example 10.6.3. Assume no-arbitrage. The constant annually compounded interest rate is $10\%$ . The time step is $\Delta T=1$ . At current time 0, a stock paying no income has price 50. Suppose that at each time point, the stock price can go up by $30\%$ or down by $20\%$ . Find the price at 0 of a European put with strike 47 and maturity 2.  
 
-![](images/901dde31ef7e23dd3c0c85b277996320e3e104c3850c0dc76aee78fdf5852618.jpg)  
+![](901dde31ef7e23dd3c0c85b277996320e3e104c3850c0dc76aee78fdf5852618.jpg)  
 
 Exercise 10.6.1. We proved Result 10.6.1 in the case $\Delta T=1$ . Modify the argument to prove Result 10.6.2 for arbitrary $\Delta T$  
 
@@ -3736,23 +3736,23 @@ Let's do Example 10.6.3 by a different method.
 
 Example 10.7.1. Assume no-arbitrage. The constant annually compounded interest rate is $10\%$ . The time step is $\Delta T=1$ . At current time 0, a stock paying no income has price 50. Suppose that at each time point, the stock price can go up by $30\%$ or down by $20\%$ . Find the price at 0 of a European put with strike 47 and maturity 2..  
 
-![](images/920d5455da79a1b9331b50e24a1f2f926e09b86f6ca00c2ddc3767e8967c52ab.jpg)  
+![](920d5455da79a1b9331b50e24a1f2f926e09b86f6ca00c2ddc3767e8967c52ab.jpg)  
 
-![](images/581f9bf7738e826cdce9f6920ceafe4fa54ad096103c831c3eb10f4bd72a1080.jpg)  
+![](581f9bf7738e826cdce9f6920ceafe4fa54ad096103c831c3eb10f4bd72a1080.jpg)  
 
 Let's do the same example again, but with an American put.  
 
 Example 10.7.2. Assume no-arbitrage. The constant annually compounded interest rate is $10\%$ . The time step is $\Delta T=1$ . At current time 0, a stock paying no income has price 50.. Suppose that at each time point, the stock price can go up by. $30\%$ or down by $20\%$ . Find the price at 0 of a American put with strike 47 and maturity 2.  
 
-![](images/95c61b259910643931fe83df261c4923385d1129c7af1bd4102f127cc262c37a.jpg)  
+![](95c61b259910643931fe83df261c4923385d1129c7af1bd4102f127cc262c37a.jpg)  
 
-![](images/2c601f549c273f77fd16297b62a6d45d4f1fd01fc2f9db4ee404021ff3afd5df.jpg)  
+![](2c601f549c273f77fd16297b62a6d45d4f1fd01fc2f9db4ee404021ff3afd5df.jpg)  
 
-![](images/a1a18ecb2440a702773245392e2bac5a4cdf7a447b56b47fe17574e19bc27394.jpg)  
+![](a1a18ecb2440a702773245392e2bac5a4cdf7a447b56b47fe17574e19bc27394.jpg)  
 
-![](images/3216132ed7c3e790ea87dac4afe679cbd90ec658d0e16528f3f9e36d92f6bd60.jpg)  
+![](3216132ed7c3e790ea87dac4afe679cbd90ec658d0e16528f3f9e36d92f6bd60.jpg)  
 
-![](images/542ef9d50138931df167058f31f15f82648fde8da06333124819d4096dcd9b4e.jpg)  
+![](542ef9d50138931df167058f31f15f82648fde8da06333124819d4096dcd9b4e.jpg)  
 
 Remark. The examples above show that an American put can have price strictly greater than a European put with the same strike and maturity.  
 
@@ -4247,7 +4247,7 @@ These bounds are illustrated when we plot the price of a 1-year 80-strike call u
 
 # Black-Scholes price of 1-year 100-strike call $(r=5\%$  
 
-![](images/06e60fd069865d2e777c5c08c0a26b9e7ca33120348fc1a6f0745e7b1708a2cf.jpg)  
+![](06e60fd069865d2e777c5c08c0a26b9e7ca33120348fc1a6f0745e7b1708a2cf.jpg)  
 
 As the plot indicates, the bounds are achieved in limiting cases:  
 
@@ -4349,7 +4349,7 @@ $$
 \frac{\partial}{\partial S_{t}}(-C_{K}(t,T))=-\Phi(d_{1}).
 $$  
 
-![](images/309cedd3a7f90eeb4ea292e44792158f4b2b78edca19e56a6ed8507139d5c46d.jpg)  
+![](309cedd3a7f90eeb4ea292e44792158f4b2b78edca19e56a6ed8507139d5c46d.jpg)  
 Figure 13.1: Black-Scholes delta of 1-year 100-strike call (for different volatilities $\sigma$  
 
 Example 13.5.4 (Delta Hedging). Let $\Delta(s)$ be the delta of a European call when the stock price is $S_{t}=s$  
@@ -4408,7 +4408,7 @@ where $\phi(x)=\Phi^{\prime}(x)=\frac{1}{2\pi}e^{-x^{2}/2}$ x2/2 is the standard
 
 The proof of Result 13.5.5 is an exercise for the reader. Since $0<\phi(x)=e^{-x^{2}/2}\leq1$ for all $x$ , Result 13.5.5 implies a European call always has vega $>0$ , so the call price increases as volatility increases.  
 
-![](images/0ca9ce343545de2d3b1b6995f2e67cf5bc32647ea784e0b6f37c0bb528d05da7.jpg)  
+![](0ca9ce343545de2d3b1b6995f2e67cf5bc32647ea784e0b6f37c0bb528d05da7.jpg)  
 Figure 13.2: Black-Scholes vega of 1-year 100-strike call (for different volatilities)  
 
 The next result shows how the delta (and vega) of a call and a put are related.  
@@ -4521,13 +4521,13 @@ Price History of Stock A
 
 <html><body><table><tr><td>Day</td><td>Stock Price</td></tr><tr><td>0</td><td>100.00</td></tr><tr><td>1</td><td>100.11</td></tr><tr><td>2</td><td>100.50</td></tr><tr><td>3</td><td>100.31</td></tr><tr><td>4</td><td>100.80</td></tr><tr><td>5</td><td>100.79</td></tr><tr><td>6</td><td>100.79</td></tr><tr><td>7</td><td>102.43</td></tr><tr><td>8</td><td>103.50</td></tr><tr><td>9</td><td>102.88</td></tr><tr><td>10</td><td>102.66</td></tr><tr><td>11</td><td>102.80</td></tr><tr><td>12</td><td>101.60</td></tr><tr><td>13</td><td>101.95</td></tr><tr><td>14</td><td>101.90</td></tr><tr><td>15</td><td>101.75</td></tr><tr><td>16</td><td>101.56</td></tr><tr><td>17</td><td>101.46</td></tr><tr><td>18</td><td>101.54</td></tr><tr><td>19</td><td>101.48</td></tr><tr><td>20</td><td>102.69</td></tr><tr><td>21</td><td>102.06</td></tr><tr><td>22</td><td>102.89</td></tr><tr><td>23</td><td>102.83</td></tr><tr><td>24</td><td>103.67</td></tr><tr><td>25</td><td>103.53</td></tr><tr><td>26</td><td>102.46</td></tr><tr><td>27</td><td>104.81</td></tr><tr><td>28</td><td>105.49</td></tr><tr><td>29</td><td>107.15</td></tr><tr><td>30</td><td>109.21</td></tr></table></body></html>  
 
-![](images/9992613084455849d0ac167cc085c27aec63d7c25ef075330828479efae4973e.jpg)  
+![](9992613084455849d0ac167cc085c27aec63d7c25ef075330828479efae4973e.jpg)  
 
 # Price History of Stock B  
 
 <html><body><table><tr><td>Day</td><td>Stock Price</td></tr><tr><td>0</td><td>100.00</td></tr><tr><td>1</td><td>99.99</td></tr><tr><td>2</td><td>99.43</td></tr><tr><td>3</td><td>100.05</td></tr><tr><td>4</td><td>97.37</td></tr><tr><td>5</td><td>94.67</td></tr><tr><td>6</td><td>93.65</td></tr><tr><td>7</td><td>92.45</td></tr><tr><td>8</td><td>95.08</td></tr><tr><td>9</td><td>93.80</td></tr><tr><td>10</td><td>88.43</td></tr><tr><td>11</td><td>89.35</td></tr><tr><td>12</td><td>92.67</td></tr><tr><td>13</td><td>96.52</td></tr><tr><td>14</td><td>97.41</td></tr><tr><td>15</td><td>94.24</td></tr><tr><td>16</td><td>92.71</td></tr><tr><td>17</td><td>91.43</td></tr><tr><td>18</td><td>92.42</td></tr><tr><td>19</td><td>92.83</td></tr><tr><td>20</td><td>90.25</td></tr><tr><td>21</td><td>93.25</td></tr><tr><td>22</td><td>92.35</td></tr><tr><td>23</td><td>96.55</td></tr><tr><td>24</td><td>101.59</td></tr><tr><td>25</td><td>103.00</td></tr><tr><td>26</td><td>103.57</td></tr><tr><td>27</td><td>103.27</td></tr><tr><td>28</td><td>100.97</td></tr><tr><td>29</td><td>101.30</td></tr><tr><td>30</td><td>107.34</td></tr></table></body></html>  
 
-![](images/665d8862ba023c4b8c4f35a367a4d15e2222eda5d85bad32c525befcb758b3a4.jpg)  
+![](665d8862ba023c4b8c4f35a367a4d15e2222eda5d85bad32c525befcb758b3a4.jpg)  
 
 Based on the graphs, it looks like stock B has higher volatility than stock A.  
 

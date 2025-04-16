@@ -24,7 +24,7 @@ What is a candidate for such a "zero"'? Consider the interbank money market loan
 
 We write a forward contract on this loan. According to this, 100 is borrowed at $t_{1}$ and for this the prevailing interest rate is paid at that time. What is, then, the value of this forward loan contract for all $t\in[t_{0},t_{1}]^{\ast}$  
 
-![](images/6978ee4740834afbd62814cc292b2ba5c71381645043c2381c3a994195b6fe30.jpg)  
+![](6978ee4740834afbd62814cc292b2ba5c71381645043c2381c3a994195b6fe30.jpg)  
 
 # FIGURE 4.1  
 

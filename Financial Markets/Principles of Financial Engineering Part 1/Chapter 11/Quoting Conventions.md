@@ -20,7 +20,7 @@ The 1-month risk reversal jumped to 0.81 in favor of euro calls Wednesday from 0
 
 It is not straightforward to interpret such statements. We conduct the discussion using the euro/dollar exchange rate as the underlying risk. Consider the dollar calls represented in  
 
-![](images/e933a8f06646ad865897419dad86ef85c6e1c5a88315f53877a79e6140b0ab3d.jpg)  
+![](e933a8f06646ad865897419dad86ef85c6e1c5a88315f53877a79e6140b0ab3d.jpg)  
 
 # FIGURE 11.23  
 
@@ -34,7 +34,7 @@ The interpretation of such bid-ask spreads is not straightforward. The numbers i
 
 The numbers to the right are related to the sale by the market maker of the 25-delta UsD call and simultaneously the purchase of a 25-delta USD put, which, from a client's point of view is the risk reversal shown in Figure 11.24a. Note that, for the client, this situation is associated with "dollar strength." If the market maker sells this risk reversal, he will be short this position.  
 
-![](images/611f1cdba48ea62ecae15c9bdf4e2aabec1c67db79da33dd6472af811aa5e729.jpg)  
+![](611f1cdba48ea62ecae15c9bdf4e2aabec1c67db79da33dd6472af811aa5e729.jpg)  
 
 # FIGURE 11.24  
 

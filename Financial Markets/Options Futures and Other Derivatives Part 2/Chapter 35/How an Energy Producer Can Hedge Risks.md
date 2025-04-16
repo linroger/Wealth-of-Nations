@@ -87,7 +87,7 @@ where $S_{T}$ is the value of the commodity at time $T,F(t)$ is the futures pric
 
 35.16. How is the tree in Figure 35.2 modified if the 1- and 2-year futures prices are $\$21$ and $\$22$ instead of $\$22$ and $\$23$ , respectively. How does this affect the value of the American option in Example 35.3.  
 
-![](images/5cb877fbe52da52dcdda1ae2af3582df52904f086d3fc7835e098ed6f7340cc6.jpg)  
+![](5cb877fbe52da52dcdda1ae2af3582df52904f086d3fc7835e098ed6f7340cc6.jpg)  
 
 # Real Options  
 

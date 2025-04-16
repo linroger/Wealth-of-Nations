@@ -24,13 +24,13 @@ ABS securities can be defined by either using other assets such as loans, bonds,
 
 Figure 21.4 shows a "cash" CDO, also called a funded CDO. Again a pool of credit instruments are selected. But they are classified in a very different way. The CDO classes called tranches are formed, not by classifying the underlying securities, but the risk in them. In fact, all CDO tranches will be backed by the same pool of securities. What distinguishes the tranches is the subordination of the default risk. The ABS categorizes the securities themselves. A CDO categorizes the priority  
 
-![](images/1a65cbf5e38fd13bcb9b677b6d112a10f2bb87120589a51fa4806ab306be6ae8.jpg)  
+![](1a65cbf5e38fd13bcb9b677b6d112a10f2bb87120589a51fa4806ab306be6ae8.jpg)  
 
 # FIGURE 21.3  
 
 ABS structure.  
 
-![](images/576192232c6fbc60002e97fe0cd81f65131c1e28e480c171e547a7d4af87d1b6.jpg)  
+![](576192232c6fbc60002e97fe0cd81f65131c1e28e480c171e547a7d4af87d1b6.jpg)  
 
 Note that these are cash bonds backing the CDO.  
 
@@ -76,7 +76,7 @@ Figure 21.5 shows how the index can be interpreted as a synthetic unfunded CDO. 
 
 A credit index and the implied synthetic CDO.Note that there is no initial cash investment.  
 
-![](images/1786e1ab666b043f028a4412d38db65a93e051fdac532b065caecb6e47cda60d.jpg)  
+![](1786e1ab666b043f028a4412d38db65a93e051fdac532b065caecb6e47cda60d.jpg)  
 
 # FIGURE 21.5  
 
@@ -90,7 +90,7 @@ The GFC led to a recession that started in December 2007 and ended in June 2009.
 
 The shrinking of the single-name CDS markets may have been welcomed by some regulators and politicians but it also means that banks and other market participants have fewer hedging tools available. As is clear from Figure 21.5, the creation for synthetic CDOs contributed to the growth of the single-name CDS market before the GFC as CDOs sold credit protection in waves. Demand for CDS protection stemmed from banks that used swaps to offset their loan exposures. At the same time hedge funds were active market participants and "correlation traders" as they arbitraged discrepancies in the prices of CDS or different CDO tranches. The synthetic CDO market is slowly recovering, as Figure 21.6 shows, but under new tougher capital rules banks no longer benefit as much from hedging their loans with CDS. Many remaining correlation traders are now involved in managing legacy synthetic CDOs. Correlation traders were some of the most active users of single-name CDS and with the decline in correlation trading liquidity in the singlename CDS market also shrank. An additional factor that depressed the single-name CDS activity was the EU's 2012 decision to ban buying naked sovereign CDS protection. One area where activity has been robust has been in the area of CDS on indices as some market participants use them for trading and hedging purposes. Index CDS has been used as hedges against macroeconomic uncertainty and as imperfect hedges against firm specific credit risk.  
 
-![](images/a09e91878bc7ff017619335d536d99c4e93aab6ee1a84082781b29c1b5b3263a.jpg)  
+![](a09e91878bc7ff017619335d536d99c4e93aab6ee1a84082781b29c1b5b3263a.jpg)  
 Source: Securities Industry and Financial Markets Association (SIFMA)  
 
 # FIGURE 21.6  

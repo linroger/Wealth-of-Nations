@@ -56,7 +56,7 @@ Probability of up move, $\mathsf{p}=0.5126$
 Up step size, $\u\mathfrak{u}=1.1052$   
 Down step size, $\mathsf{d}=0.9048$  
 
-![](images/925eb7133ad11ce5736063b5123b55b34c0f754c8ce58f9131baf0672b8fea34.jpg)  
+![](925eb7133ad11ce5736063b5123b55b34c0f754c8ce58f9131baf0672b8fea34.jpg)  
 
 # Options on Currencies  
 
@@ -76,7 +76,7 @@ Figure 13.12 Three-step tree to value an American 3-month call option on a curre
 
 At each node: Upper value $=$ Underlying Asset Price. Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/2b0d285c57695c7e3b902d74f3effee544a3063e1dbd87a1de1888a986d68d59.jpg)  
+![](2b0d285c57695c7e3b902d74f3effee544a3063e1dbd87a1de1888a986d68d59.jpg)  
 
 # Options on Futures  
 
@@ -102,7 +102,7 @@ Figure 13.13 Three-step tree to value an American 9-month put option on a. futur
 
 At each node: Upper value $=$ Underlying Asset Price Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/fe56d9c3a096078f67e1752227879fcc83ff2c966b2c549856c47accbdf99a73.jpg)  
+![](fe56d9c3a096078f67e1752227879fcc83ff2c966b2c549856c47accbdf99a73.jpg)  
 
 put option with a strike price of 30 using a three-step tree. In this case,  
 
@@ -380,7 +380,7 @@ $$
 
 This is the Black-Scholes-Merton formula for the valuation of a European call option. It will be discussed in Chapter 15. An alternative derivation is given in the appendix to that chapter.  
 
-![](images/d350f62c08fc917c5ac360fc2652058c12920584688ce04a78e22d9fab9118d2.jpg)  
+![](d350f62c08fc917c5ac360fc2652058c12920584688ce04a78e22d9fab9118d2.jpg)  
 
 # Wiener Processes and Ito's Lemma  
 

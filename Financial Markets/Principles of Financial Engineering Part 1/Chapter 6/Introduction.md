@@ -27,7 +27,7 @@ First, we buy an appropriate number of, say, euro-denominated bonds with the sam
 
 The final outcome is that we pay USD now and receive a known amount of USD at maturity. This should generate the same cash flows as a USD-denominated bond under no-arbitrage conditions. This operation is shown in Figure 6.1.  
 
-![](images/611bd616d2c349d86ae23d3e92fc10fcccbeb4199c80feae1e544594997305b1.jpg)  
+![](611bd616d2c349d86ae23d3e92fc10fcccbeb4199c80feae1e544594997305b1.jpg)  
 
 # FIGURE 6.1  
 

@@ -53,10 +53,10 @@ Several important insights can be gained when we assume a lognormal distribution
 
 When building quality valuation models, it is important to understand empirical properties of financial data. Here we briefly review empirical data related to two exchangetraded funds (ETFs), the S&P 500 ETF (SPY) and the Technology Sector ETF (XLK), as well as Apple stock (AAPL). We explore five years of daily data. Figure 5.3 provides plots of the time series rates of return and first differences. To facilitate comparison, the first differences are based on an assumed $\$1$ investment at the beginning of the period. For ease of comparison, we set the $y\cdot$ -axis to be the same for all the return plots. Likewise, we set the y-axis to be the same for all the first difference plots. Intuitively, we would expect that an individual stock would be more risky than a portfolio of stocks within its sector. Further, we would expect the technology sector ETF would be more risky than a broad-based index such as SPY. The pattern of standard deviations is consistent with our intuition. Outside of basic distributional properties, it is unclear how skewness and kurtosis would behave. Interestingly, all skewness measures are negative rather than zero or positive as the distributional assumptions would imply. Further, the skewness measures are similar between returns and first differences. We would have expected the first difference skewness to be positive or at least less negative than returns. All kurtosis measures are greater than three with daily first differences being slightly lower.
 
-![](images/6885aa8b13f918816473cbb048e12c379c069c735990aa3462194384c11a27b0.jpg)
+![](6885aa8b13f918816473cbb048e12c379c069c735990aa3462194384c11a27b0.jpg)
 FIGURE 5.3 Time Series of Daily Returns and First Differences
 
 Figure 5.4 provides histograms of this same data along with the corresponding normal distribution probability density function. The histograms are more spread out as we move from SPY to XLK to AAPL. The patterns are very similar when comparing returns and first differences as well as consistent with the previous univariate analysis.
 
-![](images/2d6d024d9d953fc28ea9f53a1358431aa80fa7dac7005c2a4c9bb9e78316d4ae.jpg)
+![](2d6d024d9d953fc28ea9f53a1358431aa80fa7dac7005c2a4c9bb9e78316d4ae.jpg)
 FIGURE 5.4 Histogram of Daily Returns and First Differences

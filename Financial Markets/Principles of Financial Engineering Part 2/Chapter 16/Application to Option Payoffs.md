@@ -36,13 +36,13 @@ be the vanilla call option payoff shown in Figure 16.4. The function is not diff
 yet its first-order derivative is like a step function. More interestingly, the second-order derivative.   
 can be interpreted as a dirac delta function. These derivatives are shown in Figures 16.4 and 16.5.  
 
-![](images/84af7d7cca5683f0004509b7f80b494242a00c1ad87c9aab070852487d1aa80a.jpg)  
+![](84af7d7cca5683f0004509b7f80b494242a00c1ad87c9aab070852487d1aa80a.jpg)  
 
 # FIGURE 16.4  
 
 Call option payoff and first derivative.  
 
-![](images/10903b1facec339c139272a2950b19a0a2c6b3acb094ab332f18fd6a5cbf3504.jpg)  
+![](10903b1facec339c139272a2950b19a0a2c6b3acb094ab332f18fd6a5cbf3504.jpg)  
 
 # FIGURE 16.5  
 
@@ -102,13 +102,13 @@ $$
 
 Clearly the switches at $S_{t}=K$ cannot be done instantaneously at zero cost. The trader is moving. with time $\Delta$ while the underlying Wiener process is moving at a faster rate. $\sqrt{\Delta}$ These adjustments are shown in Figures 16.6 and 16.7. The resulting hedging cost is the options value.  
 
-![](images/fc79b648a0283bef9558132d185e002210afe21ea9b88b61b5ce4b2e8e4abf2e.jpg)  
+![](fc79b648a0283bef9558132d185e002210afe21ea9b88b61b5ce4b2e8e4abf2e.jpg)  
 
 # FIGURE 16.6  
 
 Hedging strategy adjustment--call option.  
 
-![](images/67a1b301769657a03f957248e8ae125ac9c42d91ac4057d18fef0d9a185ca9bc.jpg)  
+![](67a1b301769657a03f957248e8ae125ac9c42d91ac4057d18fef0d9a185ca9bc.jpg)  
 
 # FIGURE 16.7  
 

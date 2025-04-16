@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Cupertino",
+  "cssTheme": "LaTeX",
   "accentColor": "#ffc599",
-  "textFontFamily": "Palatino,SF Pro Text,Latin Modern Roman,CMU Serif",
+  "textFontFamily": "Latin Modern Roman,CMU Serif,Palatino,SF Pro Text",
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "translucency": true,
   "enabledCssSnippets": [
     "centered_table",
@@ -16,16 +16,14 @@
     "accent-yellow",
     "caption and center image",
     "image_link_centering",
-    "folder_view_headers",
     "safaritabs",
     "latex_tables",
     "blockquote_styling_01",
     "academic-pdf-export",
     "header_size",
-    "transparent_tab_header",
-    "latex_like_pdfs",
     "custom_latex",
     "[ui] Compact Tabs",
+    "latex_like_pdfs",
     "ion.min"
   ],
   "theme": "moonstone"

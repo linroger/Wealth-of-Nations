@@ -29,10 +29,10 @@ VaR is an attractive measure because it is easy to understand. In essence, it as
 
 If we accept that it is useful to have a single number to describe the risk of a portfolio, an interesting question is whether VaR is the best alternative. Some researchers have argued that VaR may tempt traders to choose a portfolio with a return distribution similar to that in Figure 22.2. The portfolios in Figures 22.1 and 22.2 have the same VaR, but the portfolio in Figure 22.2 is much riskier because big losses are more likely.  
 
-![](images/1789fcf8b5e9d2395b8b09d9a17d12b4c3ff17680f20fba1680cb39414b1c23d.jpg)  
+![](1789fcf8b5e9d2395b8b09d9a17d12b4c3ff17680f20fba1680cb39414b1c23d.jpg)  
 Figure 22.1 Calculation of VaR from the probability distribution of the change in the portfolio value; confidence level is $X\%$ . Gains in portfolio value are positive; losses are negative.  
 
-![](images/7d61fad544484a2b68c1d3c7aad8121c25081f3abe32c7f18bee11ecf9be5f17.jpg)  
+![](7d61fad544484a2b68c1d3c7aad8121c25081f3abe32c7f18bee11ecf9be5f17.jpg)  
 Figure 22.2 Alternative situation to Figure 22.1. VaR is the same, but the potential loss is larger.  
 
 A measure that deals with the problem we have just mentioned is expected shortfall (ES).1 VaR asks the question: "How bad can things get?" ES asks: "If things do get bad, how much can the company expect to lose?" ES is the expected loss during an $N$ day period conditional on the loss being worse than the VaR loss. For example, with $X=99$ and $N=10$ , the expected shortfall is the average amount the company loses over a 10-day period when the loss is worse than the 10-day $99\%$ VaR. As mentioned in Business Snapshot 22.1, bank regulation is changing so that the capital for market risk is based on ES, not VaR. The confidence level is changing from $99\%$ to $97.5\%$  

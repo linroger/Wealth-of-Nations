@@ -20,7 +20,7 @@ Consider the standard currency swap in Figure 10.7. There are two cash flows, in
 
 The standard currency swap of Figure 10.7 will now be modified in an interesting way. We keep the two floating LIBOR rates the same, but force all payments to be made in one currency only, say USD. In other words, the calculated EUR LIBOR indexed cash flows will be paid (received) in USD. This instrument is called a quanto swap or differential swap. In such a swap, the principal amounts would be in the same currency, and there would be no need to exchange them. Only net interest rate cash flows will be exchanged.  
 
-![](images/3e028155df94934be7fb76428510db9048998eaf30b331e50156c1f1685cc1b9.jpg)  
+![](3e028155df94934be7fb76428510db9048998eaf30b331e50156c1f1685cc1b9.jpg)  
 
 # FIGURE 10.7  
 

@@ -34,7 +34,7 @@ $$
 L_{t_{i}}^{\S}=3.5\%
 $$  
 
-![](images/a7749bd2bf2645f28c379bc15177066aaa50d474b146ee1cf72554315abc818a.jpg)  
+![](a7749bd2bf2645f28c379bc15177066aaa50d474b146ee1cf72554315abc818a.jpg)  
 Pay EUR-LIBOR based floating cash flows plus some small spread. Note that the principals are swapped at the same exchange rate USD/EUR...  
 
 # FIGURE 6.8  
@@ -73,13 +73,13 @@ We will now compare currency swaps with FX swaps introduced earlier. To recap, a
 
 A simple example is the following. 100,o0o,o00 euros are received and against these $100,000,000e_{t_{0}}$ dollars are paid, where the. $e_{t_{0}}$ is the "current"' EUR/USD exchange rate. Then, 6-month LIBOR-based interest payments are exchanged twice. Finally, the principal amounts are exchanged at the end date at the same exchange rate $e_{t_{0}}$ , even though the actual exchange rate $e_{t_{2}}$ at time $t_{2}$ may indeed be different than. $e_{t_{0}}$ . See Figure 6.9.  
 
-![](images/fa601e5bf4f143df9c3aa72651bc9eb7a0e2ca81bf5b413df78eaaa6f0b50038.jpg)  
+![](fa601e5bf4f143df9c3aa72651bc9eb7a0e2ca81bf5b413df78eaaa6f0b50038.jpg)  
 
 # FIGURE 6.9  
 
 Simple currency swap.  
 
-![](images/e02a0a8011b96e249879f3205b409e70569803cedda8157afe54c5bf70daa755.jpg)  
+![](e02a0a8011b96e249879f3205b409e70569803cedda8157afe54c5bf70daa755.jpg)  
 
 # FIGURE 6.10  
 

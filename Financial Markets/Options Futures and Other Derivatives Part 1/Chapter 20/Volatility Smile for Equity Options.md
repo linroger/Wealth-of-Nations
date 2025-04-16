@@ -17,10 +17,10 @@ The volatility smile for equity options corresponds to the implied probability d
 
 To see that Figures 20.3 and 20.4 are consistent with each other, we proceed as for Figures 20.1 and 20.2 and consider options that are deep out of the money. From Figure 20.4, a deep-out-of-the-money call with a strike price of $K_{2}$ $(K_{2}/S_{0}$ well above 1.0) has a lower price when the implied distribution is used than when the lognormal distribution is used. This is because the option pays off only if the stock price proves to be above $K_{2}$ , and the probability of this is lower for the implied probability. distribution than for the lognormal distribution. Therefore, we expect the implied. distribution to give a relatively low price for the option. A relatively low price leads to a relatively low implied volatility--and this is exactly what we observe in Figure 20.3 for the option. Consider next a deep-out-of-the-money put option with a strike price. of $K_{1}$ . This option pays off only if the stock price proves to be below $K_{1}$ $K_{1}/S_{0}$ well below 1.0). Figure 20.4 shows that the probability of this is higher for the implied probability distribution than for the lognormal distribution. We therefore expect the implied distribution to give a relatively high price, and a relatively high implied volatility, for this option. Again, this is exactly what we observe in Figure 20.3..  
 
-![](images/207d941ffd659e7778381c06b71ec20f2410cd2975c5aacf3e5857319b625e36.jpg)  
+![](207d941ffd659e7778381c06b71ec20f2410cd2975c5aacf3e5857319b625e36.jpg)  
 Figure 20.3 Volatility smile for equities ( $K=$ strike price,. $S_{0}=$ current equity price)..  
 
-![](images/bcf4ceba1967d814e5c773efe047fc796a22f2ce4c5968268f2b98d4c7317b77.jpg)  
+![](bcf4ceba1967d814e5c773efe047fc796a22f2ce4c5968268f2b98d4c7317b77.jpg)  
 Figure 20.4  Implied distribution and lognormal distribution for equity options.  
 
 # The Reason for the Smile in Equity Options  

@@ -54,7 +54,7 @@ The model is most appealing from the perspective of allowable interest rate move
 
 Trinomial trees are discretized representations of continuous equations of motions. They are. equivalent to explicit methods of numerical analysis in mathematics. Instead of an instantaneous time movement $d t$ of an interest rate starting at the initial position $r_{0}=5\%$ at time $t_{0}=0$ along a continuous straight line representing time along the horizontal axis, we intro-. duce a small discrete step $\Delta t$ of segment-by-segment jumps of the rate $r$ along the horizontal axis. That is, time changes discretely, not continuously. The stochastic (random) nature of the. movement of the interest rate is accomplished by splitting the movement along the horizontal line (originally flat at $5\%$ ) into three discrete nodes in which the line can jump (up, middle, and down). The movement can then continue from each node (say $5.10\%$ $5\%$ $4.9\%$ ) separately along the time-segmentized line, with new jumps allowed on each new horizontal line. We therefore measure the level of the interest rate vertically, and time horizontally, and the interest rates are discretized in both dimensions. The discretization along the vertical axis is equivalent. to converting the assumed continuous normal or log-normal distribution to a trinomial and relying on the central limit theorem, with some stochastic calculus corrections, that with ever smaller $\Delta t$ steps the discrete and the continuous are going to be the same. If we construct a. dense enough tree, the algorithm will produce the same prices as the original equations would if they were solvable.  
 
-![](images/6d4c5199dcbe110f83043d7e9bb15198c32678d4c6c08b19c5d4032823feac03.jpg)  
+![](6d4c5199dcbe110f83043d7e9bb15198c32678d4c6c08b19c5d4032823feac03.jpg)  
 Figure 6.3 Examples of recombinant trinomial trees  
 
 The typical trinomial tree is recombinant. Subsequent nodes of a node are the same as some of the subsequent nodes of another node, and there are multiple ways to get to any interior node. The recombinant feature reduces the number of calculation as it reduces the overall number of nodes, and allows the algorithm to handle American exercise options. The drift and mean reversion of interest rates are controlled jointly by assigning the interest rate levels for the nodes and the probabilities of jumping to those nodes. Parts (a) and (b) in Figures 6.3 show simple recombinant trinomial trees, both with instantaneous forward short-rate drifting up.  
@@ -117,7 +117,7 @@ $$
 \begin{array}{l}{{f_{1}^{d}(1,2)=f_{0}(1,2)+{\theta_{0}}(1,2)+\sigma\left(1,2\right)=0.050+\theta_{0}(1,2)-0.02}}\ {{f_{1}^{d}(2,3)=f_{0}(2,3)+{\theta_{0}}(2,3)+\sigma\left(2,3\right)=0.052+\theta_{0}(2,3)-0.03}}\end{array}
 $$  
 
-![](images/4eccfcecb747eb4e96a13619003bcaf7cb462bf75917a73e242109d2f28137f0.jpg)  
+![](4eccfcecb747eb4e96a13619003bcaf7cb462bf75917a73e242109d2f28137f0.jpg)  
 Figure 6.5 A one-factor three-step HJM model continued  
 
 To fix the drift term $\theta_{0}(1,2)$ , we price the 2-year $\$100$ zero-coupon bond. We sweep backwards through the tree, probability weighting the values of 1-year discount bonds in the up and down states at time $t=1$ , and discounting them by 1 year to time $t=0$  

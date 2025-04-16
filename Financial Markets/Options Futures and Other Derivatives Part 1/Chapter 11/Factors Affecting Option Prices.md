@@ -47,10 +47,10 @@ Although European put and call options usually become more valuable as the time 
 
 The precise way in which volatility is defined is explained in Chapter 15. Roughly. speaking, the volatility of a stock price is a measure of how uncertain we are about future stock price movements. As volatility increases, the chance that the stock will do very well or very poorly increases. For the owner of a stock, these two outcomes tend to offset each other. However, this is not so for the owner of a call or put. The owner of a  
 
-![](images/ad9968a1d2e81f99d1455b61c24e8bb6ecafa99704041b033c3ec253bb2ba103.jpg)  
+![](ad9968a1d2e81f99d1455b61c24e8bb6ecafa99704041b033c3ec253bb2ba103.jpg)  
 Figure 11.1 Effect of changes in stock price, strike price, and expiration date on option prices when $S_{0}=50,K=50,r=5\%$ $\sigma=30\%$ , and $T=1$  
 
-![](images/1ff2a1ed6d227507b8a86eea84c1397418898236ea5a20a1103c2f4bc0d68594.jpg)  
+![](1ff2a1ed6d227507b8a86eea84c1397418898236ea5a20a1103c2f4bc0d68594.jpg)  
 Figure 11.2 Effect of changes in volatility and risk-free interest rate on option prices when $S_{0}=50,K=50,r=5\%$ $\sigma=30\%$ , and $T=1$  
 
 call benefits from price increases but has limited downside risk in the event of price.   

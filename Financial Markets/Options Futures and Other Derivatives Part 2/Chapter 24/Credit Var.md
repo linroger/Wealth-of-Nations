@@ -118,7 +118,7 @@ Vasicek, O. "Loan Portfolio Value," Risk (December 2002), 160-62.
 24.28. Extend Example 24.6 to calculate CVA when default can happen in the middle of each month. Assume that the default probability per month during the first year is 0.001667 and the default probability per month during the second year is 0.0025.   
 24.29. Calculate DVA in Example 24.6. Assume that default can happen in the middle of each month. The default probability of the bank is 0.001 per month for the two years and the recovery rate in the event of a bank default is $30\%$  
 
-![](images/452c16c6a7aa2a80d80359862e5ab62041afba897a277e6833bb3460f2672544.jpg)  
+![](452c16c6a7aa2a80d80359862e5ab62041afba897a277e6833bb3460f2672544.jpg)  
 
 # Credit Derivatives  
 

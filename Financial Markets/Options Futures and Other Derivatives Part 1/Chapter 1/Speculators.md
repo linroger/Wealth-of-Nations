@@ -43,7 +43,7 @@ December stock price
 
 <html><body><table><tr><td>Speculator's strategy</td><td>$15</td><td>$27</td></tr><tr><td>Buy 100 shares</td><td>-$500</td><td>$700</td></tr><tr><td>Buy 2,000 call options</td><td>-$2,000</td><td>$7,000</td></tr></table></body></html>  
 
-![](images/ceb53bc9d550ea93be748ea27f04cae7ea824a7be0b24008b77391ec934b92ad.jpg)  
+![](ceb53bc9d550ea93be748ea27f04cae7ea824a7be0b24008b77391ec934b92ad.jpg)  
 Figure 1.5 Profit or loss from two alternative strategies for speculating on a stock currently worth $\$20$  
 
 be bought for $\$23.50$ . The total payoff from the 2,000 options that are purchased under the second alternative is  

@@ -77,7 +77,7 @@ What would $\alpha_{t_{i}}$ represent then? Calculate the premium of a 5-year Be
 
 Premium $C_{t_{0}}$ from 5-year Bermudan option used to enhance coupon  
 
-![](images/c792d40d4ca4a3396cf52e8b1ab6236d53a2476f6f7afe347c5bc9d045bab02c.jpg)  
+![](c792d40d4ca4a3396cf52e8b1ab6236d53a2476f6f7afe347c5bc9d045bab02c.jpg)  
 
 # FIGURE 20.9  
 
@@ -97,7 +97,7 @@ The replication is complete. The structurer buys a receiver a 5-year CMS on the 
 
 The cash flows of this portfolio are shown in Figure 20.9. These cash flows are identical to the ones promised by the note. The structurer is essentially buying the portfolio, repackaging it, and then selling it to the client as a structured CMS-linked note. We can summarize such CMS-linked structures using contractual equations. For this particular CMS-linked note we have  
 
-![](images/f21a0538f5ac5402774686bb7124af14f6c4efdd4c2add90abee1c72685c889d.jpg)  
+![](f21a0538f5ac5402774686bb7124af14f6c4efdd4c2add90abee1c72685c889d.jpg)  
 
 Note that the replicating portfolio presents further opportunities to the structurer. The structurer may be in need to sell swaption volatility to other clients. Through this CMs-linked note the structurer is buying swaption volatility from retail clients. Hence, the note may be a good way of generating a needed supply of swaption volatility at an attractive price. The structurer will naturally sell the swaption at a higher (offer) price than the price of the swaption implicitly bought from the retail client.  
 
@@ -162,7 +162,7 @@ $$
 \mathrm{cms}_{t_{i}}^{2}=s_{t_{0},t_{i}}^{5}+s p_{t_{0}}^{2,5}
 $$  
 
-![](images/a8b6da817bbdb5549e8a0802f45667d745cc5ed7816dca68ccc99bd26e5ac775.jpg)  
+![](a8b6da817bbdb5549e8a0802f45667d745cc5ed7816dca68ccc99bd26e5ac775.jpg)  
 
 # FIGURE 20.10  
 
@@ -208,7 +208,7 @@ $$
 
 This explains the high participation rates. Even if the curve steepens by a small $30\mathrm{bp}$ the investor can receive a coupon over $10\%$ $\alpha_{t_{i}}$ plus the 450 bp.  
 
-![](images/30fa0b5f1b2a75c7f2ea4845bb2aa77bfc21b63e66301640110e47dcce25bf90.jpg)  
+![](30fa0b5f1b2a75c7f2ea4845bb2aa77bfc21b63e66301640110e47dcce25bf90.jpg)  
 
 # FIGURE 20.11  
 
@@ -218,7 +218,7 @@ The structurer has determined all the unknown parameters. Essentially the struct
 
 This characterization is shown in the contractual equation below.  
 
-![](images/6c2fc3c84f3cf6a3e5b72e392e6f0e9c6eec7e9de300b683c7352afba231d029.jpg)  
+![](6c2fc3c84f3cf6a3e5b72e392e6f0e9c6eec7e9de300b683c7352afba231d029.jpg)  
 
 As in the previous case, the synthetic structure can open several possibilities for the structurer. The structurer can buy swaption volatility, sell cap/floor volatility at advantageous rates from the retail client, and market them at better rates in the interbank market or to other clients. Again, as before, the structurer may in fact have some of the components of the synthetic on his books and the CMS spread note would be a good way of passing them along to other customers and removing them from the balance sheet.  
 

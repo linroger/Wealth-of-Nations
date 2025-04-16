@@ -45,7 +45,7 @@ $$
 
 With more time points and hence shorter intervals we get a more realistic impression of the sample paths of the process. Figure 2.5 shows a simulated sample path for a standard Brownian motion over the interval $[0,1]$ based on a partition of the interval into 200 subintervals of equal length.1. Note that since a normally distributed random variable can take on infinitely many values, a. standard Brownian motion has infinitely many sample paths that each has a zero probability of. occurring. The figure shows just one possible sample path. Note that the picture resembles typical stock price charts.  
 
-![](images/acc192020f69e3747bc620596e7b351894cfbbee7311f58375aa4faf0f0511ac.jpg)  
+![](acc192020f69e3747bc620596e7b351894cfbbee7311f58375aa4faf0f0511ac.jpg)  
 Figure 2.5: A simulated sample path of a standard Brownian motion based on 200 subintervals.  
 
 Another property of a standard Brownian motion is that the expected length of the sample path over any future time interval (no matter how short) is infinite. In addition, the expected number of times a standard Brownian motion takes on any given value in any given time interval is also infinite. Intuitively, these properties are due to the fact that the size of the increment of a standard Brownian motion over an interval of length $\Delta t$ is proportional to $\sqrt{\Delta t}$ , in the sense that the standard deviation of the increment equals $\sqrt{\Delta t}$ . When $\Delta t$ is close to zero, $\sqrt{\Delta t}$ is significantly larger than $\Delta t$ , so the changes are large relative to the length of the time interval over which the changes are measured.  
@@ -104,7 +104,7 @@ The last integral is a so-called stochastic integral, which we will define (alth
 
 For both standard Brownian motions and generalized Brownian motions, the future value is normally distributed and can therefore take on any real value, i.e. the value space is equal to. $\mathbb{R}$  
 
-![](images/6d6b0041ee47bb759cac78b6fe80ca2d515cc36fb2366489b7910b5fc56a5907.jpg)  
+![](6d6b0041ee47bb759cac78b6fe80ca2d515cc36fb2366489b7910b5fc56a5907.jpg)  
 Figure 2.6: Simulation of a generalized Brownian motion with $\mu=0.2$ and $\sigma=0.5$ or $\sigma=1.0$ .The straight line shows the trend corresponding to $\sigma=0$ . The simulations are based on 200 subintervals.  
 
 Many economic variables can only have values in a certain subset of. $\mathbb{R}$ .For example, prices of financial assets with limited liability are non-negative. The evolution in such variables cannot be well represented by the stochastic processes studied so far. In many situations we will instead use so-called diffusion processes.  
@@ -354,7 +354,7 @@ $$
 f(x)=\frac{1}{x\sqrt{2\pi\sigma^{2}\left(t^{\prime}-t\right)}}\exp\left\{-\frac{1}{2\sigma^{2}\left(t^{\prime}-t\right)}\left(\ln\left(\frac{x}{X_{t}}\right)-\left(\mu-\frac{1}{2}\sigma^{2}\right)\left(t^{\prime}-t\right)\right)^{2}\right\},\quad x>0,
 $$  
 
-![](images/425f447d616cdeb75a538895b1a2c226f1f290e2f69de2589cb1786564914f07.jpg)  
+![](425f447d616cdeb75a538895b1a2c226f1f290e2f69de2589cb1786564914f07.jpg)  
 Figure 2.7: Simulation of a geometric Brownian motion with initial value $X_{0}=100$ , relative drift rate $\mu=0.1$ , and a relative volatility of $\sigma=0.2$ and $\sigma=0.5$ , respectively. The smooth curve shows the. trend corresponding to $\sigma=0$ . The simulations are based on 200 subintervals of equal length, and the same sequence of random numbers has been used for the two. $\sigma$ -values.  
 
 and the mean and variance are  

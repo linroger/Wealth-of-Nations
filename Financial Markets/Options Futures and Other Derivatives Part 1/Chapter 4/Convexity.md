@@ -32,5 +32,5 @@ $$
 
 For a portfolio with a particular duration, the convexity of a bond portfolio tends to be greatest when the portfolio provides payments evenly over a long period of time. It is least when the payments are concentrated around one particular point in time. By choosing a portfolio of assets and liabilities with a net duration of zero and a net convexity of zero, a financial institution can make itself immune to relatively large. parallel shifts in the zero curve. However, it is still exposed to nonparallel shifts..  
 
-![](images/63ab9ec7d18fe0dd81529dcbd87f3a2e9a1b6345dfd330869d1e4ee5547a9268.jpg)  
+![](63ab9ec7d18fe0dd81529dcbd87f3a2e9a1b6345dfd330869d1e4ee5547a9268.jpg)  
 Figure 4.2 Two bond portfolios with the same duration.  

@@ -53,7 +53,7 @@ Issuers raise funds via securitisation in order to improve their capital managem
 
 Aside from being a flexible and efficient source of funding, the off-balance sheet treatment of securitisation also serves (i) to reduce both economic cost of capital and regulatory minimum capital requirements as a balance sheet restructuring tool (regulatory and economic motive) and (ii) to diversify asset exposures (especially interest rate risk and  
 
-![](images/f521a9594cc728b65a109ee9eb54db22b963420357c3ce70feb84e9758523a5e.jpg)  
+![](f521a9594cc728b65a109ee9eb54db22b963420357c3ce70feb84e9758523a5e.jpg)  
 Figure 1: Overview of risk transfer instruments  
 
 currency risk). The generation of securitised cash flows from a diversified asset portfolio represents an effective method of redistributing asset risks to investors and broader capital markets (transformation and fragmentation of asset exposures). As opposed to ordinary debt, a securitised contingent claim on a promised portfolio performance affords investors at low transaction costs to quickly adjust their investment holdings due to changes in personal risk sensitivity, market sentiment and/or consumption preferences.  
@@ -117,7 +117,7 @@ While the Pfandbrief is a classical on-balance sheet refinancing tool of mortgag
 
 In general, Pfandbrief transactions represent a very secure and liquid asset class of fixed income instruments with an established track record and cyclical resilience. MBS issues are equally liquid (at least in the US market) and feature an unchallenged degree of structural flexibility allowing for customised features and investor arrangements, such as variations to amortising repayment (in contrast to bullet repayment structures of Pfandbrief issues) and security design.  
 
-![](images/212d2249bfe66ce1f71774a1d0b9617268e3ff0acb35e9bb69712cae2f80ed5b.jpg)  
+![](212d2249bfe66ce1f71774a1d0b9617268e3ff0acb35e9bb69712cae2f80ed5b.jpg)  
 Figure 2: The pay-off profile under put-call parity of the three basic Islamic finance transactions  
 
 structural arrangements of contingent claims. Although Islamic and conventional finance are. equivalent in terms of substance and yield the same lender and investor pay-offs (ie equilibrium price equivalence) at the inception of the. transaction, they differ in legal form and might require a different valuation due to dissimilar transaction structures and/or security design..  

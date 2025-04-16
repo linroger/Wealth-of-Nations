@@ -37,7 +37,7 @@ into a discount bond with a 5-year maturity. The rest of the principal would be 
 
 At the simplest level, the guaranteed product consists of a zero-coupon bond and one or more options.2 Suppose $S_{t}$ denotes the value of an underlying security. This security can essentially be anything from stocks to credit index tranches or the value of some hedge fund investment. We can then write the following contractual equation:  
 
-![](images/837574c40d2598a173e52db3a0b78151e8c6c6ee038db59e01321dae013788c0.jpg)  
+![](837574c40d2598a173e52db3a0b78151e8c6c6ee038db59e01321dae013788c0.jpg)  
 
 Suppose an investor invests the amount $N=100$ directly to a basket of options over a $T.$ year maturity. Then, options being risk investments and investors having limited risk management capabilities, part of the principal may be lost if these options expire out-of-the-money. On the other hand, if the yield on a. $T.$ -maturity zero-coupon bond is. $r\%$ and if the same investor invests, at time $t_{0}$ , a carefully chosen amount. $P V_{t_{0}}$ in this bond, the security will be worth 100 in 5 years:  
 
@@ -49,15 +49,15 @@ The payoff of the zero-coupon bond is illustrated in Figure 20.1a as a function 
 
 a Payoff of a zero-coupon bond as a function of the share price  
 
-![](images/62f841eb24f1a6c661cd927df7a1ca6de1ba1b1363258c22eb2073c6bfe031ad.jpg)  
+![](62f841eb24f1a6c661cd927df7a1ca6de1ba1b1363258c22eb2073c6bfe031ad.jpg)  
 
 b) Payoff of a long call option position  
 
-![](images/94bc8e4afc43f1acd07399e3f83ab4e99c0b3956ec853970ac2888dd09c660cc.jpg)  
+![](94bc8e4afc43f1acd07399e3f83ab4e99c0b3956ec853970ac2888dd09c660cc.jpg)  
 
 (c)Payoff of a long zero-coupon bond and long call option position  
 
-![](images/0c4fa546d5be438bf5107007522a148e552df4acf6d3a7e2b4117f33a1db1d2f.jpg)  
+![](0c4fa546d5be438bf5107007522a148e552df4acf6d3a7e2b4117f33a1db1d2f.jpg)  
 
 # FIGURE 20.1  
 
@@ -137,7 +137,7 @@ Equity structured products are manufactured using a relatively small set of tool
 
 a Payoff of a zero-coupon bond with face value 100  
 
-![](images/0e3cac5f714fc38e5030b7fff9617c4e37ac40330b8e64684a7efe8684a3f2a0.jpg)  
+![](0e3cac5f714fc38e5030b7fff9617c4e37ac40330b8e64684a7efe8684a3f2a0.jpg)  
 
 # FIGURE 20.2  
 
@@ -149,7 +149,7 @@ Touch or digital options are essentially used to provide payoffs (of cash or an 
 
 The fourth tool is new; it is the so-called rainbow options. These are options written on the maximum or minimum of a basket of stocks. They are useful since almost all equity structured products involve payoffs that depend on more than one stock. The fifth tool is the cliquet. These options are important prototypes and are used in buying and selling forward starting options. Note that an equity structured product would naturally span over several years. Often the investor is offered returns of an index during a future year, but the initial index value during these future years  
 
-![](images/98d5179d3d89f18a180ff270d53b1e53e34ec407e6410308ae5f6e1515c8e030.jpg)  
+![](98d5179d3d89f18a180ff270d53b1e53e34ec407e6410308ae5f6e1515c8e030.jpg)  
 
 # FIGURE 20.3  
 
@@ -206,7 +206,7 @@ Often the embedded option is not a simple option, but a knock-in option. This im
 
 When are reverse convertibles typically bought by investors? In a low interest rate and high. market volatility environment reverse convertibles are popular since they provide a way for investors to receive an enhanced yield. However, the products' popularity does not mean that investors fully understand the price of the embedded put option that they are writing to the issuer of the product. If market volatility is high it is possible that the embedded put is very valuable and that the structure does not pass all of its value onto the buyer in the form of a coupon. In this case, the buyer takes on a large downside risk and may be surprised that in an equity market downturn the product leads to losses. Thus, investors should carefully compare the yield offered by the  
 
-![](images/9d9324fd71b2dc13763f9819fe6d795f5b8386970b72f2d208088a4b5ca00077.jpg)  
+![](9d9324fd71b2dc13763f9819fe6d795f5b8386970b72f2d208088a4b5ca00077.jpg)  
 
 # FIGURE 20.4  
 
@@ -256,7 +256,7 @@ A five-year cliquet call on the S&P with annual resets is shown in Figure 20.5. 
 
 The initial strike is set at, say, 1419, the observed value of the underlying at the purchase date. If at the end of the first year, the S&P closes at 1450, the first call matures in-themoney and the payout is paid to the buyer. Next, the call strike for the second year is reset at 1450 and so on.  
 
-![](images/c636a1350af2a8c42867b24ad3f55ffec25fb918c6b5a027cf3c68007387f6fa.jpg)  
+![](c636a1350af2a8c42867b24ad3f55ffec25fb918c6b5a027cf3c68007387f6fa.jpg)  
 
 # FIGURE 20.5  
 
@@ -365,7 +365,7 @@ The examples of major equity structured products below are selected so that we c
 
 We first begin with a structure that imbeds a cliquet. The idea here is to benefit from fluctuations in forward equity prices. Forward volatility becomes the main issue. Next we move to structures that contain rainbow options. Here the issue is to benefit from the maxima or minima of stocks in a basket. The structures will have exposure to correlation between these stocks and the investor will be long or short correlation. Third, we consider Napoleon-type products where the main issue becomes hedging the forward volatility movements. With these structures, the volatility exposure will be convex and there will be a volatility gamma. If these dynamic hedging costs involving volatility purchases and sales are not taken into account at the time of initiation, the structure will be mispriced. Such dynamic hedging costs involving volatility exposures is another important dimension in equity structured products.  
 
-![](images/26ccf360d6a2541df2202982dd82951d9d68a38ae3ef3ce7185e1dcbd9ed50c4.jpg)  
+![](26ccf360d6a2541df2202982dd82951d9d68a38ae3ef3ce7185e1dcbd9ed50c4.jpg)  
 
 # FIGURE 20.6  
 
@@ -433,7 +433,7 @@ $\mathrm{Coupon}=0.5\%$ if more than one stock settles below the limit.
 
 Figure 20.7 shows how we can engineer such a product. Essentially, the investor has purchased a zero-coupon bond and then sold five digital puts. The coupons are a function of the premia for the digitals. Figure 20.7a shows the zero-coupon bond and Figure 20.7b shows the payoff and profit of the short digital put position. The put option premium can be used to enhance the coupon. Clearly this product can offer higher coupons if the components of the reference portfolio have higher volatility.  
 
-![](images/3a99d87a85fd4ef1c8a7ebbd80f60fa72fc054ac43dfd223620298919307028f.jpg)  
+![](3a99d87a85fd4ef1c8a7ebbd80f60fa72fc054ac43dfd223620298919307028f.jpg)  
 
 # FIGURE 20.7  
 

@@ -24,7 +24,7 @@ $$
 p=K e^{-r T}N(-d_{2})-S_{0}N(-d_{1})
 $$  
 
-![](images/9a6dae0a1252ccffd1553a224346cf1ac983df8148cb84e7a530b7141d8fde69.jpg)  
+![](9a6dae0a1252ccffd1553a224346cf1ac983df8148cb84e7a530b7141d8fde69.jpg)  
 Figure 15.3 Shaded area represents $N(x)$  
 
 where  

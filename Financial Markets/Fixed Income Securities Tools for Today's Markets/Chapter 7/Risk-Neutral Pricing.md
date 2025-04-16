@@ -52,7 +52,7 @@ Maintaining the binomial assumption, Figure 7.3 extends the tree from the previo
 
 Returning to the recombining format, as trees grow it becomes convenient to develop a notation with which to refer to particular nodes. One convention is as follows. The dates, represented by columns of the tree, are numbered from left to right starting with 0. The states, represented by rows of the tree, are numbered from bottom to top, also starting from 0. For example, in Figure 7.3, the six-month rate on date 2, state 0 is $1\%$ . The six-month rate on state 1 of date 1 is. $2.50\%$  
 
-![](images/366d0bab2488b1d41d21c870b2d8c673d6a51b186618010eab8da96b50218dd4.jpg)  
+![](366d0bab2488b1d41d21c870b2d8c673d6a51b186618010eab8da96b50218dd4.jpg)  
 FIGURE 7.3 A Recombining Binomial Rate Tree.  
 
 Continuing where the option example left off, having derived the. risk-neutral tree for pricing a one-year zero, the goal is to extend the tree. to price a 1.5-year zero assuming that the 1.5-year spot rate is $2.25\%$ Ignoring the probabilities for a moment, several nodes of the 1.5-year zero price tree can be written down immediately, as shown in Figure 7.4. On date 3, the zero with an original term of 1.5 years matures and is worth its. face value of $\$1,000$ . On date 2, the value of the then six-month zero equals its face value discounted for six months at the then-prevailing spot rates of $3\%,2\%$ , and $1\%$ , in states 2, 1, and 0, respectively,  
@@ -69,7 +69,7 @@ $$
 {\frac{\$1,000}{1+{\frac{.01}{2}}}}=\$995.02
 $$  
 
-![](images/1275de64ba63c060ff957811db51ee299b033575e48724a21d58a2455349a82b.jpg)  
+![](1275de64ba63c060ff957811db51ee299b033575e48724a21d58a2455349a82b.jpg)  
 FIGURE 7.4 Price Tree for a 1.5-Year Zero Coupon Bond.  
 
 Finally, on date 0, the 1.5-year zero equals its face value discounted at the given, 1.5-year spot rate,  
@@ -94,7 +94,7 @@ $$
 \begin{array}{l}{{P_{1,1}={\displaystyle\frac{\S985.222q+\S990.099(1-q)}{1+{\displaystyle\frac{.025}{2}}}}~}}\ {{P_{1,0}={\displaystyle\frac{\S990.099q+\S995.025(1-q)}{1+{\displaystyle\frac{.015}{2}}}}~}}\end{array}
 $$  
 
-![](images/0a5bc6ef6f2a93662d0fdb0abacbdf5802a9aec59f42bd2cdb93893a8657697b.jpg)  
+![](0a5bc6ef6f2a93662d0fdb0abacbdf5802a9aec59f42bd2cdb93893a8657697b.jpg)  
 FIGURE 7.5 Price Tree for a 1.5-Year Zero Coupon Bond, with Probabilities.  
 
 Substituting Equations (7.14) and (7.15) into Equation (7.13) results in a linear equation in the one unknown, $q$ , which can be solved to find that $q=0.6520$ . Therefore, the risk-neutral interest rate process is summarized by the tree in Figure 7.6. Furthermore, any contingent claim that depends on the six-month rate in six months and in one year may be priced by computing its discounted expected value along this tree. An example is given in the next section.  
@@ -109,10 +109,10 @@ $$
 
 The fact that the possible values of the one-year spot rate can be. extracted from the tree is at first surprising. The starting point of the example is the date 0 values of the. $0.5\cdot,1-$ , and 1.5-year spot rates, along. with assumptions about the evolution of the six-month rate over the next years. But because this information, in combination with arbitrage. or risk-neutral arguments, is sufficient to determine the price tree of the 1.5-year zero, it is also sufficient to determine the possible values of the one-year spot rate in six months. Put another way, having specified initial.  
 
-![](images/d8d12f91c9e74acdeaeef1ec78c2ee22cb94c63f7d11bb92360d396f0a287f48.jpg)  
+![](d8d12f91c9e74acdeaeef1ec78c2ee22cb94c63f7d11bb92360d396f0a287f48.jpg)  
 FIGURE 7.6 Risk-Neutral Process for the Six-Month Rate.  
 
-![](images/c6ecc1837616414ffac4333e73344bc799583540762603f85041c4bd313847d0.jpg)  
+![](c6ecc1837616414ffac4333e73344bc799583540762603f85041c4bd313847d0.jpg)  
 FIGURE 7.7 Final Price Tree for a 1.5-Year Zero Coupon Bond, with Probabilities.  
 
 spot rates and the evolution of the six-month rate, a modeler may not make any further assumptions about the behavior of the one-year rate.  
@@ -155,7 +155,7 @@ $$
 {\frac{.8009\times{\S}{5},719.52+.1991\times(-{\S}4,227.29)}{1+\frac{.0200}{2}}}=53,702.11
 $$  
 
-![](images/5cf803818dc6e4af9b7702fb5b88b546adb425bbd7e2c72eedd4a70e64a7bafc.jpg)  
+![](5cf803818dc6e4af9b7702fb5b88b546adb425bbd7e2c72eedd4a70e64a7bafc.jpg)  
 FIGURE 7.8 Price Tree for a Stylized CMT Swap.  
 
 The tree in Figure 7.8 summarizes the value of the stylized CMT swap. over dates and states. A value of. $\$3,702.11$ for the CMT swap might seem surprising at first. After all, the cash flows of the CMT swap are zero at. a rate of $2\%$ , and $2\%$ is, under the true probabilities, the average rate on each date. The explanation, of course, is that the risk-neutral probabilities,. not the true probabilities, determine the arbitrage price of the swap. The. expected discounted value of the swap under the true probabilities can be. computed by following the steps leading to Equations (7.24) through (7.26) but using the probability O.5 for all up- and down-moves. The result of these calculations does give a value close to zero, namely,. $-\$6.07$  

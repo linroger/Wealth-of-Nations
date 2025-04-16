@@ -97,7 +97,7 @@ Short sales have been subject to some controversy, especially when the short sal
 
 The above is an example of a short sale of ABC stock. If ABC happened to go ex-dividend between the time of the short sale and the time of the repurchase of the stock, Jack would have had to pay out of his account the amount of the declared dividend to the lender of the stock. The same happens when one short sells a bond (Figure 2.19).  
 
-![](images/c6cf1a09d82760c5f2862ac10052028cf958862cd00eae2b0ffc0b892f8dcbf3.jpg)  
+![](c6cf1a09d82760c5f2862ac10052028cf958862cd00eae2b0ffc0b892f8dcbf3.jpg)  
 Figure 2.19 Short $\$50m6\%$ 4/15/38 on February 15  
 
 Suppose on February 15, Jack shorts. $\$50$ million of Pfizer $6.00\%$ April 15, 2038 bonds selling at par. On February 15, Jack borrows the bond from his broker J&R Brokerage and. sells it in the open market for. $\$50$ million plus accrued interest of. $\$1$ million (120/180 of the semi-annual coupon of $3\%$ on $\$50$ million). On April 15, Jack has to reimburse J&R Brokerage. $\$1.5$ million for the coupon cash flow J&R would have received from Pfizer had it not lent out. the bond. If the short position stays on through the next coupon date of October 15, Jack will again have to reimburse J&R $\$1.5$ million. This will continue until Jack buys the bond back in the open market and returns it to J&R..  

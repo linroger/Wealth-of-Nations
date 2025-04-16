@@ -16,7 +16,7 @@ We first need to define the concept of LIBOR rates. The existence of such reliab
 
 LIBOR is an arithmetic average interest rate that measures the cost of borrowing from the point of view of a panel of preselected contributor banks in London. It stands for London Interbank Offered Rate. It is the ask or offer price of money available only to banks. It is an unsecured rate in the sense that the borrowing bank does not post any collateral. The ICE-LIBOR (formerly known as BBA LIBOR) is obtained by polling a panel of preselected banks in London.8  
 
-![](images/b850499940098a83ccf81748d1adca54c89dfc4bf85894f958e73faed7866a56.jpg)  
+![](b850499940098a83ccf81748d1adca54c89dfc4bf85894f958e73faed7866a56.jpg)  
 
 # FIGURE 3.9  
 

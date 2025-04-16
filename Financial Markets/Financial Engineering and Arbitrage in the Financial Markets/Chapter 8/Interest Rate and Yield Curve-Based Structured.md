@@ -60,7 +60,7 @@ Table 8.3 The present value of a 5-year par swap on September 26, 2013
 
 <html><body><table><tr><td>Zero rate</td><td></td><td colspan="2">Par swap rate = 3.3636</td></tr><tr><td>(to end time)</td><td>Discount factors (to end time)</td><td>Cash flow</td><td>PV of cash flow</td></tr><tr><td>1.140000</td><td>0.9971581</td><td></td><td></td></tr><tr><td>1.155000</td><td>0.9942499</td><td>1.6818</td><td>1.6721</td></tr><tr><td>1.184664</td><td>0.9911674</td><td></td><td></td></tr><tr><td>1.257978</td><td>0.9875185</td><td>1.6818</td><td>1.6608</td></tr><tr><td>1.364726</td><td>0.9831142</td><td></td><td></td></tr><tr><td>1.504816</td><td>0.9777220</td><td>1.6818</td><td>1.6443</td></tr><tr><td>1.663938</td><td>0.9713596</td><td></td><td></td></tr><tr><td>1.831202</td><td>0.9641191</td><td>1.6818</td><td>1.6215</td></tr><tr><td>1.995023</td><td>0.9562112</td><td></td><td></td></tr><tr><td>2.155433</td><td>0.9476774</td><td>1.6818</td><td>1.5938</td></tr><tr><td>2.308828</td><td>0.9386522</td><td></td><td></td></tr><tr><td>2.455132</td><td>0.9292022</td><td>1.6818</td><td>1.5627</td></tr><tr><td>2.595214</td><td>0.9193650</td><td></td><td></td></tr><tr><td>2.729692</td><td>0.9091777</td><td>1.6818</td><td>1.5291</td></tr><tr><td>2.858358</td><td>0.8986989</td><td></td><td></td></tr><tr><td>2.981055</td><td>0.8879853</td><td>1.6818</td><td>1.4934</td></tr><tr><td>3.098249</td><td>0.8770702</td><td></td><td></td></tr><tr><td>3.210303</td><td>0.8659856</td><td>1.6818</td><td>1.4564</td></tr><tr><td>3.316980</td><td>0.8547836</td><td></td><td></td></tr><tr><td>3.419085</td><td>0.8434727</td><td>101.6818</td><td>85.7658</td></tr><tr><td></td><td></td><td>Sum =</td><td>100.0000</td></tr></table></body></html>  
 
-![](images/92e730eca434c8261da1ff3efa8ed4eaf88ce8ac99725a9ae294f935003cfce3.jpg)  
+![](92e730eca434c8261da1ff3efa8ed4eaf88ce8ac99725a9ae294f935003cfce3.jpg)  
 Figure 8.1A 5-year $6.50\%$ minus 3-month LIBOR inverse floater  
 
 First assume that on some coupon date $L_{3m}$ is $2.00\%$ , i.e. lower than 6.50. The bondholder's coupon is $4.50\%$ . ABC Capital Corp. receives 3.34 on the two swaps, i.e. a total of 6.68. It pays O.08 out of that for the cap and receives nothing from the cap. The remainder, equal to 6.60, plus the $L_{3m}-0.10=1.90$ it receives from ABC Operations as the cost of using the principal funds, gives it a total of 8.50. From that it pays $2\times2.00=4.00\%$ on the floating legs of the two swaps and 4.50 to the bondholders.  
@@ -79,7 +79,7 @@ $$
 
 It is easy to see that, compared to the standard inverse floater, all we need to do is add another swap to triple the principal on the swap, lower the strike on the cap, and double the principal on the cap. The summary diagram is shown in Figure 8.2.  
 
-![](images/a1a2fde4b5ff2fe7e8aa7b866b9931f42745d6a3cf44c94809f1c390fbb3afc1.jpg)  
+![](a1a2fde4b5ff2fe7e8aa7b866b9931f42745d6a3cf44c94809f1c390fbb3afc1.jpg)  
 Figure 8.2A 5-year $9.60\%$ minus 2 times 3-month LIBOR inverse floater  
 
 The structure looks attractive for everyone involved. The investors' coupon on day 1 is $9.60-2\times1.14=7.32$ , which is very attractive compared to the alternatives of $3.34\%$ fixed or $L_{3m}=1.14\%$ floating. The dealer makes a profit on two caps and pays bid on three swaps. The cost of each cap is 16 bp running or 74.8 bp up front, but the principal is 200. The issuer gets $L_{3m}-10$ bp financing. The investors bear the risk in this structure that short rates may. increase rapidly, which would sharply reduce or potentially eliminate the coupon payout.1  
@@ -90,7 +90,7 @@ and it pays 11.92:
 
 If LIBOR is $5.5\%$ on a coupon date, then ABC Capital receives 16.82:  
 
-![](images/8bdb85052508a58fa2760f5a213e143b149079cfd59674c360ad7fad0bfb4495.jpg)  
+![](8bdb85052508a58fa2760f5a213e143b149079cfd59674c360ad7fad0bfb4495.jpg)  
 Figure 8.3 A 5-year capped floater  
 
 and it pays 16.82:  
@@ -142,7 +142,7 @@ Structured notes often have coupon or principal payoffs linked to the performanc
 
 The basic design is very simple. Suppose the principal of the note is $\$100$ and the note is sold to investors at par. Five-year zero-coupon rates are at. $4\%$ . The issuing trust sponsored by the selling dealer splits the received $\$100$ into three parts, as depicted in Figure 8.4. The first is a 5-year zero bought for the PV of $\$100$ discounted by 5 years; the second is the underwriting fee and dealer profit; the third is the equity option.  
 
-![](images/f489a3b2dcd98ff1fbd2c83eefc8e963f1f17691e86962d67c7319bcd8ccb3ed.jpg)  
+![](f489a3b2dcd98ff1fbd2c83eefc8e963f1f17691e86962d67c7319bcd8ccb3ed.jpg)  
 Figure 8.4 A5-year $60\%$ equity participation note  
 
 The PV of $\$100$ at $4\%$ is $\$82.193$ . We assume that a 5-year at-the-money option on the. index costs $\$23,80$ per $\$100$ principal. We buy index options on $\$60$ principal. At maturity, the investor gets $\$100$ plus $60\%$ of any appreciation of the equity index over the initial level. of the index on the issue date of the note. If the index is the S&P 500 and we start at the 1,300 level and the index moves up $74\%$ over the 5-year period to 2262, the investor will get an. additional $\$44.40$ . The total redemption value of the note will be. $\$144.40$  
@@ -151,10 +151,10 @@ Of course, the option embedded in the EPN need not be a straight call. Analogous
 
 Yet another way to increase the participation rate is through a leveraged equity-linked note. Instead of buying calls on $60\%$ or $75\%$ of the principal, we buy two or three calls. To be able to afford those, they need to be packaged into a tight spread, ranged or subject to barriers. Figure 8.6 shows a structure with two return barriers set at $-5\%$ and $10\%$ . The leverage is a factor of two, and the total return cap is set at 20. The investor only gets the equity return if the index during the life of the note never drops below $5\%$ of the original level. If the index stays above the. $-5\%$ lower barrier, the investor gets double the return on the index, but only up to the maximum of $20\%$ . Implicitly, the equity option premium is spent on two at-the-money down-and-out call spreads. Each call spread (long at-the-money call and short $10\%$ out-of-the-money call) has a maximum payout of 10, and is subject to a down-and-out knock-out barrier at. $-5\%$ . We assume that each call spread is worth $\$7.50$ . We spend the total. of $\$15$ on the equity kicker; the dealer's fee is $\$2.807$  
 
-![](images/c038e15a03ae97b8bdac5c40973e6430bbc47ef49c5b828eaecd5b678540d81f.jpg)  
+![](c038e15a03ae97b8bdac5c40973e6430bbc47ef49c5b828eaecd5b678540d81f.jpg)  
 Figure 8.5A 5-year $75\%$ equity participation note: trade a cap for a higher participation rate  
 
-![](images/c56eddb3df960446de94521c9c92e335ec3baa4d992f7575f9ac8d97d03506c6.jpg)  
+![](c56eddb3df960446de94521c9c92e335ec3baa4d992f7575f9ac8d97d03506c6.jpg)  
 Figure 8.6A 5-year $2\times$ leveraged equity linked note: barrier at $-5\%$ , cap at $20\%$  
 
 Other variations include lookback or Asian features. In a lookback, the investor may be able to lock in the highest level that the index has reached over the life of the note. Lookbacks are quite expensive, so the participation rate achieved may be low. In an Asian option structure, the investor gets the average of the index levels over the life of the option rather than the final value. Asian options are often cheaper than straight calls.  
@@ -177,7 +177,7 @@ Putting all or some principal at risk is accomplished by having the issuing trus
 
 Suppose, as before, the principal of the note is $\$100$ and the note is sold to investors at. par. Five-year zero-coupon rates are at $4\%$ . The issuing trust splits the received $\$100$ into three parts. The first is a 5-year zero bought for $\$82.193$ equal to the PV of $\$100$ discounted by 5 years; the second is the underwriting fee and dealer profit of. $\$2.357$ ; the third is the. equity kicker worth. $\$15.45$ . The option money is spent on at-the-money calls on. $150\%$ of the principal which cost. $1.5\times\$925.8$ ; the trust also sells an at-the-money put for $\$23.25$ . Thee investor has a 1.5 times leveraged position on the way up and unleveraged downside exposure. The investor's payoff diagram is shown in Figure 8.7..  
 
-![](images/c64b3209619ff4cd9d50da49435bf70cbb9bed0685ff84ec0a89ca2238cb1775.jpg)  
+![](c64b3209619ff4cd9d50da49435bf70cbb9bed0685ff84ec0a89ca2238cb1775.jpg)  
 Figure 8.7 A 5-year 1.5 leveraged principal-at-risk index-linked note  
 
 A common variation on this design is to put a floor under the principal loss. Instead of selling a straight put, the issuing trust sells an at-the-money put, but also buys an out-of-the-money put, say $15\%$ . In an upward-sloping yield curve environment, the $15\%$ out-of-the-money European put can typically be bought cheaply, resulting in little participation loss on the upside.  
@@ -186,7 +186,7 @@ The long call-short put position is equivalent to the long forward position. Mos
 
 Figure 8.8 portrays the idea behind a commodity-tracking ETN assuming the gains or losses on the futures are credited once a quarter. At the start, investors put $\$100$ into the fund. Over the quarter, the money market account earns $4\%$ per annum interest or $\$1$ . The fund manager gets a fee of. $\$0.50$ . The remainder $\$0.50$ pays for fund expenses or is paid out to the investors. Meanwhile the futures position has a gain or loss. If the commodity's return over the quarter. was $10\%$ , the marking to market produces $\$10$ . The fund's net asset value is $\$110$ , and the.  
 
-![](images/28b15c0ca4da872c2f611163df7b1b656f6ea69858f43354f4a7c245a366a13e.jpg)  
+![](28b15c0ca4da872c2f611163df7b1b656f6ea69858f43354f4a7c245a366a13e.jpg)  
 Figure 8.8A commodity-tracking ETN  
 
 process starts again with $\$110$ principal. The funds trade on the stock exchange at a discount or premium to the net asset value as a closed-end fund or ETF.  
@@ -207,7 +207,7 @@ The design of reinsurance sidecars or CAT bonds follows the path of the loan-bac
 
 The typical chronology is as follows. An insurer sells hurricane policies to individuals or industrial clients along the Gulf of Mexico. The policy pool becomes large and concentrated in a small geographical area. Instead of turning to a reinsurer, the insurer contacts a special purpose reinsurance trust or company domiciled in the Cayman Islands or Bermuda. The reinsurance vehicle issues the CAT notes to investors. The notes promise to pay a floating interest rate equal to LIBOR plus a very large margin up to $20\%$ . The notes are rated by the rating agencies as junk, perhaps B or $^{\mathrm{B+}}$ . (It is hard to see how S&P or Moody's can evaluate the risks without the help of the insurer...) The proceeds are received by the reinsurance vehicle and can be invested to earn interest; also, the insurer (the cedant) pays into the vehicle company, and for that money the reinsurance company either writes a derivative or a reinsurance contract (often more than one). According to that reinsurance contract, if the disaster covered by the policies takes place, then the trust and the investors lose the principal on the bonds, and the insurer uses the money in the trust to pay the individual policy claims. If the contract is a derivative, then the loss of principal is triggered by prespecified narrowly defined index or event parameters rather than actual claim payouts. Figure 8.9 illustrates a non-derivative structure of a CAT bond. The issuer holds the pool of principal money. If the disaster does not occur, the money is returned to the investor. If the disaster does occur, the money is used to pay the claims on a segregated sub-portfolio of the insurer's policies. The investors in the CAT bonds are hedge funds and specialized catastrophe funds, as well as (life and other) insurers, reinsurers, and pension funds.  
 
-![](images/033ec06aa8f527a5095c32036f5f21f38143fbbf13b5050d77f6792a637f0343.jpg)  
+![](033ec06aa8f527a5095c32036f5f21f38143fbbf13b5050d77f6792a637f0343.jpg)  
 Figure 8.9 A CAT bond  
 
 In a derivative-based structure of the CAT bond, the loss of principal is triggered by modeled losses or events. The principal lost may then not be equal to the actual payouts with the insurer bearing the basis risk. The typical triggers involve:.  

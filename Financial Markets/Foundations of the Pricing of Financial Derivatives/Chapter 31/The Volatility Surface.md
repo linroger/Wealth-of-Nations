@@ -16,12 +16,12 @@ In the prior section, we focus on options with approximately one month to expira
 
 Figure 31.6 illustrates two volatility surfaces for McDonalds: Panel A when markets were relatively normal and Panel B when markets are stressed during the COvID pandemic. Note the vertical axis is fixed between $15\%$ and $85\%$ implied volatility to ease
 
-![](images/097f0164f5a77ee33bcc160e30ee167c50134cb5a598861968ed487baf50250c.jpg)
+![](097f0164f5a77ee33bcc160e30ee167c50134cb5a598861968ed487baf50250c.jpg)
 FIGURE 31.6 Illustrates the Volatility Surface for McDonalds
 
 Panel A. November 11, 2019, Normal Market
 
-![](images/26c5ff7ef0d9d1d45768969b90e9e6d1d25949ab8f031cddf8831b9a0a1ae679.jpg)
+![](26c5ff7ef0d9d1d45768969b90e9e6d1d25949ab8f031cddf8831b9a0a1ae679.jpg)
 
 Panel B. April 1, 2020, Stressed Market
 

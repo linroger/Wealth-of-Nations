@@ -61,7 +61,7 @@ highly standardized. In part because they are customized, however, FRAs are less
 whether customization or liquidity is more important in their particular.   
 circumstances.  
 
-![](images/c4e378a5f49fb40adb93d0ba613cccf19d1953dcec2646f286c22c6f2b0186fd.jpg)  
+![](c4e378a5f49fb40adb93d0ba613cccf19d1953dcec2646f286c22c6f2b0186fd.jpg)  
 FIGURE 12.5  A Comparison of the June 2022 Euribor and the June 2022 SOFR Futures Contracts.  
 
 This section concludes with a comparison of futures on a forward-. looking term rate benchmark, like Euribor, and futures on a backwardlooking compounded overnight benchmark, like SOFR. The top half of Figure 12.5 depicts the June three-month Euribor contract, ERM2, while the bottom half depicts the June three-month SOFR contract, SFRM2. Both contracts cover realized interest rates from mid-June to mid-September, though the terminal date differs somewhat, as detailed earlier. The big difference, however, is that ERM2, which references a term rate set on June 13, expires on that date. SFRM2, which references a compounded daily rate that is not known until September 21, does not expire until that later date.  

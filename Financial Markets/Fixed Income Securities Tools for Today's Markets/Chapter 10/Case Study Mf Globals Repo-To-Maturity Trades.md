@@ -36,7 +36,7 @@ MF Global grew its RTM positions rapidly, reaching the $\$4.75$ billion limit by
 
 Along with MF Global's position size, Figure 10.11 shows haircuts over time for repo on the bonds of two of the more challenged European sovereigns, namely, Ireland (IE) and Portugal (PT). Haircuts were increased several times, from $3\%$ , when MF Global first put on its trades, to $80\%$ in July 2011. In other words, for these sovereigns, required margin on a repo of 100 of collateral value rose from 3 to 80. These dramatic increases in margin were likely due partially to deteriorating sovereign credits and partially to the size and perceived precariousness of MF Global's position.  
 
-![](images/6c1dd49694538b7012adc36da3929f55a929d775432bd79405a6f083470409c1.jpg)  
+![](6c1dd49694538b7012adc36da3929f55a929d775432bd79405a6f083470409c1.jpg)  
 
 FIGURE 10.11 MF Global Repo-to-Maturity Positions and Margin.   
 TABLE 10.8 MF Global Repo-to-Maturity Positions and Margin.   
@@ -60,7 +60,7 @@ A forward contract on a bond is an agreement that fixes the price at which a bon
 
 For concreteness in explaining concepts, this chapter focuses on the. 10-year US Treasury note contract. Other US bond futures are similar, as. are many government bond futures around the world. Contracts on UK and Chinese government bonds, for example, are particularly similar to those.  
 
-![](images/ca8a7412b9c28de90b0081dfcef1d60588fd2afe1eb6d1f2916ccd499458fc73.jpg)  
+![](ca8a7412b9c28de90b0081dfcef1d60588fd2afe1eb6d1f2916ccd499458fc73.jpg)  
 FIGURE 11.1 Percent of Total DV01 Traded in US Treasury Bonds and in US Treasury Note and Bond Futures, by Instrument, from July 10, 2017, to June 1, 2018. "Fut"' Denotes Futures Contracts on Bonds of Various Maturities; and "U30yr Fut" and "U10yr Fut" Are the "Ultra" 30- and 10-year Futures Contracts. "OTR" Denotes the On-the-Run or Most Recently Issued Treasury Bond at a Given Maturity; "Old" Denotes the Next Most Recent; and "Dbl Old" Denotes the Most Recent After the Old. "CTDs" Denote the Cheapest-to-Deliver Bonds into Futures Contracts. "Other Cash" Denotes All Other Treasury Bonds.  
 
 in the United States in that they embed both quality and timing options. Contracts on government bonds in Europe and Japan are also similar, but simpler, in that they do not have a timing option.  

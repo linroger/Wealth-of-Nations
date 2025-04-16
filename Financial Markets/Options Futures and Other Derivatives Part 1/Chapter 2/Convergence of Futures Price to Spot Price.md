@@ -21,6 +21,6 @@ These steps are certain to lead to a profit equal to the amount by which the fut
 
 The result is that the futures price is very close to the spot price during the delivery. period. Figure 2.1 illustrates the convergence of the futures price to the spot price. In Figure 2.1a the futures price is above the spot price prior to the delivery period. In.  
 
-![](images/27add0fb0b88ba524cfb5e7f83feddf56e7651f7659c2cf5737a7843dac86561.jpg)  
+![](27add0fb0b88ba524cfb5e7f83feddf56e7651f7659c2cf5737a7843dac86561.jpg)  
 Figure 2.1 Relationship between futures price and spot price as the delivery period is approached: (a) Futures price above spot price; (b) futures price below spot price.   
 Figure 2.1b the futures price is below the spot price prior to the delivery period. The circumstances under which these two patterns are observed are discussed in Chapter 5.  

@@ -23,7 +23,7 @@ The CDS is shown in Figure 25.1. If the reference entity does not default (i.e.,
 
 Figure 25.1 Credit default swap.  
 
-![](images/849016e2d4bd4a824e0c1705e5220731398e581432fd75b257195772e16b08b1.jpg)  
+![](849016e2d4bd4a824e0c1705e5220731398e581432fd75b257195772e16b08b1.jpg)  
 
 The regular payments from the buyer of protection to the seller of protection cease when there is a credit event. However, because these payments are made in arrears, a final accrual payment by the buyer is usually required. In our example, where there is a default on May 20, 2023, the buyer would be required to pay to the seller the amount of the annual payment accrued between March 20, 2023, and May 20, 2023 (approximately $\$150,000$ , but no further payments would be required.  
 

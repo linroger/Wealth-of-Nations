@@ -48,7 +48,7 @@ $$
 
 The straightforward application of this formula using the probabilities $p^{i}$ gives the following pricing equations, where possible payoffs are weighed by the corresponding probabilities (Figure 16.8).  
 
-![](images/c1622e45733dae0d0bfcbded242bd8fc6de3be2cbfdb742e5a2fddb038f7129a.jpg)  
+![](c1622e45733dae0d0bfcbded242bd8fc6de3be2cbfdb742e5a2fddb038f7129a.jpg)  
 
 # FIGURE 16.8  
 

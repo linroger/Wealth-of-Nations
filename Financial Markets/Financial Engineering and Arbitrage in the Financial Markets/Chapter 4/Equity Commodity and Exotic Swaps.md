@@ -19,7 +19,7 @@ A swap can serve the role of a flexible investment vehicle. An investment normal
 
 Investors often desire equity exposure in a bond form. Some institutional investors are prevented by regulation from holding too much equity; others seek to obtain a merger of equity exposure with principal protection. These goals can be accomplished through structured bonds which combine equity swaps and equity options.  
 
-![](images/29bd859822e09adec18b57fca0698fe36732357cd3af9df678977626f67ebf5a.jpg)  
+![](29bd859822e09adec18b57fca0698fe36732357cd3af9df678977626f67ebf5a.jpg)  
 Figure 4.2 An equity swap as part of an equity-linked bond issue  
 
 A common structure defines the formula for the coupon payout as the appreciation of the stock index over the accrual period times the principal of the bond times the appropriate day-count fraction. The bondholder gets no interest unless the stock index appreciates during the coupon accrual period. The issuer of the bond (ABC Corp) desires low cost of financing that has nothing to do with equities. The dealer supplies the cash flows owed on the bond by entering into an equity swap with the issuer. The dealer pays the stock index appreciation and receives a floating interest rate. The stock return is passed on to the bondholders. The structure innately includes an at-the-money equity option as the coupon paid to the bondholder cannot be negative.  
@@ -46,7 +46,7 @@ A common example is a commodity swap whose coupon payout is a formula based on a
 percentage change in the price of a commodity over the interest accrual period. Coupon. structures sold in the past have involved oil, gold, and a variety of financial assets (e.g.   
 weather-related formulas, total-rate-of-return on a bond index).  
 
-![](images/b509ad2b613e0aab4004cf7dba9ac3438690247596772a2b0c82bef47db99b11.jpg)  
+![](b509ad2b613e0aab4004cf7dba9ac3438690247596772a2b0c82bef47db99b11.jpg)  
 Figure 4.3 An equity/commodity swap: cash-supported  
 
 Similar to an equity swap, a commodity swap can be engineered in two ways. First, the commodity swap can be an exchange of a fictitious floating rate bond for a par investment in commodities. The LIBOR coupon on the floating side is paid out every 3 or 6 months and the value of the floating rate bond reverts to par. The gain (loss) on the commodity over the coupon period is liquidated and paid out (received and reinvested), and the total investment in. the commodity reverts to the swap par amount. Figure 4.3 shows a cash-supported oil/equity return swap. The second way of constructing the commodity side of the swap is to use the par amount to invest in a floating rate bond and enter into futures contracts (rather than spot) over the life of the swap. Using the cost-of-carry relationship, the change in the value of the futures each period plus the interest on the floating side is equivalent to the spot change in the. commodity value.  

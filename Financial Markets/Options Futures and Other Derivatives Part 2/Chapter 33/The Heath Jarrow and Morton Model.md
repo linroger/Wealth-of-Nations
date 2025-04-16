@@ -105,7 +105,7 @@ The HJM model in equation (33.4) is deceptively complex. A particular forward ra
 
 Figure 33.1 A nonrecombining tree such as that arising from the general HJM model.  
 
-![](images/ddf7ee0e4be493bb1afeb329ac89c627a8c83c39b8ab349827d2a8baf2888ab3.jpg)  
+![](ddf7ee0e4be493bb1afeb329ac89c627a8c83c39b8ab349827d2a8baf2888ab3.jpg)  
 
 # Extension to Several Factors  
 

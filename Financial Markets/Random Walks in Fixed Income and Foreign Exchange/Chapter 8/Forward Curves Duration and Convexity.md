@@ -62,10 +62,10 @@ $$
 
 Using this expression, we derive a set of 1y forward rates from simple spot curves, and plot them in Figures 8.1 and 8.2.
 
-![](images/4bd2f5f198ccb4270efc27ddac2f201c49531209b5d38b9ddb073261bf408c35.jpg)
+![](4bd2f5f198ccb4270efc27ddac2f201c49531209b5d38b9ddb073261bf408c35.jpg)
 Figure 8.1: Linear and convex spot interest curve shapes.
 
-![](images/0ab533bda4777779e35a5b0598cd2d950c247102fe192b06ad18ca6bb1fe9255.jpg)
+![](0ab533bda4777779e35a5b0598cd2d950c247102fe192b06ad18ca6bb1fe9255.jpg)
 Figure 8.2: Concave and inverted curves. Source: Commerzbank
 
 The first chart in Figure 8.2 is perhaps most similar to developed market curves on average. A remarkable feature of this is that even though the spot curve increases throughout the tenor range, the roll-off in slope means that the forward curve is actually inverted. These examples clearly show that a curve that remains static is almost certainly not forecasting its own evolution. So most persistent curve shapes may well be generating opportunities. Note that the spot curves in the concave and inverted cases are not the same, though they look similar; the slight additional rolloff for the inverted case is much more exaggerated in the forward..
@@ -82,7 +82,7 @@ As can be seen in the Appendices, this situation is not confined to EUR; it is. 
 
 However, recall that the forward forecast' is only ever purporting to forecast the mean of a distribution - there is always a range of values allowed around this, which would be indicated by the swaption volatility. While we do not examine this effect here, it could well be that a more complete treatment that includes the implied volatilities would resolve the difference between the implied and actual range of moves. More relevant, however, is the question of whether there is any systematic bias in the forecast.
 
-![](images/04e8062453351e28ae1cdcfb0bfb41a4beb7e74be29b542742b95f1935564fc5.jpg)
+![](04e8062453351e28ae1cdcfb0bfb41a4beb7e74be29b542742b95f1935564fc5.jpg)
 
 # Analysis of Mean Forecast Slope vs Mean Actual Slope
 
@@ -91,7 +91,7 @@ lyse the mean value of curve shifts, implied vs actual. We show the 1y case in F
 other forward times are in the Appendices. Most of the numbers are well below 1, indi-.
 cating that the average forecast move is larger than the average actual move..
 
-![](images/0a21474de9412663a7aa07691eba3667d71955154f24d79ed9b4ea38f3ef8bc5.jpg)
+![](0a21474de9412663a7aa07691eba3667d71955154f24d79ed9b4ea38f3ef8bc5.jpg)
 Figure 8.4: Ratio of means of actual moves/forward moves. Source: Commerzbank, Bloomberg
 
 Somehow, though the range of values of moves is underestimated by the forward slope, the average magnitude of the predicted slope is larger than actually occurs (see charts in Figure 8.4). Additionally, the results in the tables are often negative,. indicating that the direction of the mean forecast was incorrect..
@@ -116,10 +116,10 @@ There is a very clear picture here. Overall, but most clearly in the longer teno
 
 We examined three sub-periods; the pre-crisis time of 2001 to 2007, the post-crisis from 2007 to 2014, and the modern-day low interest regime in 2014 to 2020. These results are statistically less good especially for longer times forward, as in a 7y data set, the 5y forward data will have only 2y of useful information, so they need to be taken with a grain of salt. The graphs for these different periods can be found in the Appendices, but we summarise the results as follows:
 
-![](images/727f584f55593bdf4f2cc0a60ba1c19e4082b5cafd00bdf27787777d47e2cd1a.jpg)
+![](727f584f55593bdf4f2cc0a60ba1c19e4082b5cafd00bdf27787777d47e2cd1a.jpg)
 Figure 8.5: Implied slope change (1-2y). Source: Commerzbank, Bloomberge
 
-![](images/9df2f70af29335e80bbfa2327bddb6a2b70c6224cd7b363204272ca7551aad8a.jpg)
+![](9df2f70af29335e80bbfa2327bddb6a2b70c6224cd7b363204272ca7551aad8a.jpg)
 Figure 8.6: Actual slope change (1-2y). Source: Commerzbank, Bloomberg
 
 (1) 2001-2007: All sections of the curve imply a flattening on average. Actual re sults, however, vary greatly by currency pair, with no consistent pattern. The range of actual moves is larger than the implied forward moves.
@@ -127,29 +127,29 @@ Figure 8.6: Actual slope change (1-2y). Source: Commerzbank, Bloomberg
 
 $2-10\lor,\%,$ from 1y to 5y forward, 2001-2020
 
-![](images/434526dc505b2c22b5c77cc73efac4967235cff063a41d5cf5730f68108db8e2.jpg)
+![](434526dc505b2c22b5c77cc73efac4967235cff063a41d5cf5730f68108db8e2.jpg)
 Figure 8.7: Implied slope change (2-10y). Source: Commerzbank, Bloomberge
 
 2-10y, %, from 1y to 5y forward, 2001-2020
 
-![](images/e3a496ab9962485473cf54c7e6328d4f287c9dacc261195d0642ac37f41a181d.jpg)
+![](e3a496ab9962485473cf54c7e6328d4f287c9dacc261195d0642ac37f41a181d.jpg)
 Figure 8.8: Actual slope change (2-10y). Source: Commerzbank, Bloomberg.
 
 (3) 2014-2020: The most recent period shows noise in the shorter tenors but the longest end of the curve preserves the behaviour where the implied flattening is. consistent, and on average, the realised flattening is less..
 
 What does this mean? Perhaps in the longer tenors, the persistence over various periods of the implied flattening exceeding the realised might be useful.
 
-![](images/7d7b6b013602d62bc7eedd3e174c158ba440052976a48e5f8aff14b7d46bef7e.jpg)
+![](7d7b6b013602d62bc7eedd3e174c158ba440052976a48e5f8aff14b7d46bef7e.jpg)
 Figure 8.9: Implied slope change (10-30y). Source: Commerzbank, Bloomberge
 
-![](images/a742dbe5b1c400f8dc41d6c6ea73ff9974f5d4fb635c91cfbc35170ab2531a67.jpg)
+![](a742dbe5b1c400f8dc41d6c6ea73ff9974f5d4fb635c91cfbc35170ab2531a67.jpg)
 Figure 8.10: Actual slope change (10-30y) Source: Commerzbank, Bloomberg
 
 # Can We Monetise This?
 
 Initially, to analyse a tradable feature, we look only one year ahead. The obvious trade to do is a forward steepener trade, whose return is determined by the differ-. ence between the implied steepening and the actual. In Figure 8.11, we tabulate the average annual return of such a steepener trade, over the full data period, for EUR, for different sections of the curve..
 
-![](images/4149195d2ebc3cbf2ef213aa075cd6ca96735099df620d92ba4e06b6bfe88e5b.jpg)
+![](4149195d2ebc3cbf2ef213aa075cd6ca96735099df620d92ba4e06b6bfe88e5b.jpg)
 Figure 8.11: Average deviation of steepener trade vs forwards. Source: Commerzbank, Bloomberg
 
 The sweet spot is very clear at the longer end of the curve. Let us focus on the.
@@ -158,14 +158,14 @@ this trade for our different data periods - it is fairly consistent and rarely m
 
 1y forward steepener, various different periods, in bp
 
-![](images/4d5e944e72e06c67f448a05bad95d07fcfd0da4546707ae69115984f6bc6bc27.jpg)
+![](4d5e944e72e06c67f448a05bad95d07fcfd0da4546707ae69115984f6bc6bc27.jpg)
 Figure 8.12: Average deviation of 10-30y steepener vs forwards (different periods). Source: Commerzbank, Bloomberg
 
 It is important to realise that this is only an indication of profitability; we have neglected bid-offer costs and have also neglected the fact that when we unwind the trade, we will use 9-year and 29-year rates, not 10-year or 30-year rates. Addition-. ally, this result is valid for a trade held on the books for a year, which is not always. desirable. However, it does indicate that the persistent curve behaviour holds po-. tential and should be kept in mind when making investment decisions..
 
 We can also create the chart in Figure 8.12 for the 5y forward case, as in Figure 8.13.. In this case, we only look at the full period case and compare it with the 1y for ward, as the data quality is less good for the sub-periods. Though not all investors. will wish to wait 5 years to see their returns, for those who do, they are substantial. However, recall that these returns are over a 5y period and are approximately. linear with time, so it might be better to simply repeat the 1y strategy every year. for five years to generate similar results..
 
-![](images/e5751c068645ab56decea2f73d12ea1eed99aabf71cb93b1cb093fb1d9f801eb.jpg)
+![](e5751c068645ab56decea2f73d12ea1eed99aabf71cb93b1cb093fb1d9f801eb.jpg)
 1y and 5y forward steepener, in bp
 Figure 8.13: Average deviation of 10-30y steepener vs forwards. Source: Commerzbank, Bloomberg
 
@@ -177,7 +177,7 @@ It's natural to ask, 'Where on earth is this fairly consistent return coming fro
 
 The duration of a bond is a quantity with a story. Initially, as one might deduce from the name, it was connected with the tenor of the bond. Specifically, it is the weighted average of the times until the cashflows of the bond are received, as shown in Figure 8.14. This is usually known as the Macaulay Duration. There are two good ways to look at MacD - visually and algebraically. The first can lead to the second.
 
-![](images/9760ef2b5400a3f379845072015895333281c3df89b240bec57b8da16743c4bc.jpg)
+![](9760ef2b5400a3f379845072015895333281c3df89b240bec57b8da16743c4bc.jpg)
 Figure 8.14: Macaulay Duration.
 
 The weights of each maturity $\mathrm{(t_{i})}$ of the cashflows are given by the PV of the cashflow divided by the total value of the bond, which gives the factor of $\mathrm{{PV_{i}}/\mathrm{{V}}}$ This ensures that the weights add to $100\%$
@@ -231,7 +231,7 @@ In this example, $\mathrm{ModD}=4.632$
 
 How do we use duration? (Please note that for the rest of this paper, duration will refer to ModD.) Let's take a look at the graph in Figure 8.15.
 
-![](images/af374a4c608cf065869f68160bbd501068ca97e16ef4ef8eef472dc0e8cbb745.jpg)
+![](af374a4c608cf065869f68160bbd501068ca97e16ef4ef8eef472dc0e8cbb745.jpg)
 Figure 8.15: Linear price-yield relationship. \*Note that although this graph is always drawn with bond price on the y-axis, it is strictly bond return, as duration and later convexity are defined with respect to return Br rather than price. The graph would look just the same in form, but this distinction is important for later on.
 
 If we can assume that the bond price and the bond yield have a linear relation-. ship, then the duration is the ratio between them, or the slope of the line on the graph. Strictly, there needs to be a minus sign in the definition (2) as well, as the slope of the line is negative, though it is usually quoted as a positive number.
@@ -250,7 +250,7 @@ A note on the yield term: This is the yield-to-maturity of the bond, which is th
 
 If only life were this simple. But the price of the bond is not actually linear with respect to the yield - it is more like the graph in Figure 8.16.
 
-![](images/45a01d94ade9e7fe0ab20a6cc37f561013b7d91410f421a41d22e84dcc20c324.jpg)
+![](45a01d94ade9e7fe0ab20a6cc37f561013b7d91410f421a41d22e84dcc20c324.jpg)
 Figure 8.16: Non-linear price-yield relationship.
 
 In fact, the relationship of price to yield is only modelled well by a linear approxima-.
@@ -396,10 +396,10 @@ We can use the EUR German government bond yields and the current swaption. volat
 
 $1n\%,$ vs Tenor
 
-![](images/6d0c1bc5ee97887e12bea25248331e171fdc89a45b5485070dbdeee287914504.jpg)
+![](6d0c1bc5ee97887e12bea25248331e171fdc89a45b5485070dbdeee287914504.jpg)
 Figure 8.17: Convexity adjustment - bond returns constant. Source: Commerzbank, Bloomberg
 
-![](images/505a0c3e28724b190bc2f9e9a4ac1b866537544cd35fb704ac2e834306464d7c.jpg)
+![](505a0c3e28724b190bc2f9e9a4ac1b866537544cd35fb704ac2e834306464d7c.jpg)
 Figure 8.18: Convexity adjustment - bond prices follow forwards. Source: Commerzbank, Bloomberge
 
 for example. Thus we have taken the bond yield as equal to the coupon, which is a reasonable approximation over the long term.
@@ -418,10 +418,10 @@ It is worth a quick note on bond returns vs bond yields. Strictly speaking, they
 
 There is increasing interest in very long-dated instruments from investors, not least because they have desirable high convexity. Though there is little useful timeseries data for bonds with tenors greater than 30 years, the swap market is another matter. Spot and forward swap data are available for the 50y tenor for some years. Though swaption volatility is not available, volatility curves tend to flatten at the long end. so the 30y vol may be used as a proxy for the 50y. In Figures 8.19 and 8.20, we show the swap yield with and without convexity adjustment, and then in Figure 8.20, we show the 1y forward swap rate with the same adjustment, which is another way of looking at the expected return in a year's time. In fact, in the current environment, forward and spot curves are almost identical..
 
-![](images/ac89f20007e71ada15d50f9b0b1cfef709410e87f35da71d96680052d97f4496.jpg)
+![](ac89f20007e71ada15d50f9b0b1cfef709410e87f35da71d96680052d97f4496.jpg)
 Figure 8.19: Convexity adjustment - swap yield. Source: Commerzbank, Bloomberg
 
-![](images/b4d8f37ffba6a417fe4a190ede8d5bfcee36d9fd41aa8d8536d47629d65eac68.jpg)
+![](b4d8f37ffba6a417fe4a190ede8d5bfcee36d9fd41aa8d8536d47629d65eac68.jpg)
 Figure 8.20: Convexity adjustment - 1y forward swap. Source: Commerzbank, Bloomberge
 
 As can be seen, the convexity adjustment means that longer-term instruments become much more desirable - which may go some way to explain investors' appetite for long-dated instruments.
@@ -430,10 +430,10 @@ As can be seen, the convexity adjustment means that longer-term instruments beco
 
 To see how this convexity adjustment has varied in the past, we take historical 1y forward swaption volatilities and German government bond rates, and look at the convexity value of the 30-year point by using the coupon timeseries scaled as previously described. In Figure 8.21, it is about 60-70 bp at the current time. We see that this is in fact fairly modest and that convexity has had significant value in previous years. We then perform the same operation for the 50y swap rates to obtain Figure 8.22. As may be expected, they show similar patterns, but the adjustment is much larger for the longer tenor.
 
-![](images/2838542b8e849e58d085c7ca93fb52b82f8e68d303cf4ffb22fc851b03ccf0f4.jpg)
+![](2838542b8e849e58d085c7ca93fb52b82f8e68d303cf4ffb22fc851b03ccf0f4.jpg)
 Figure 8.21: Convexity adjustment - 30y German bonds. Source: Commerzbank, Bloomberg
 
-![](images/bc81d89e2c071a3a191b11981af4b2d3ee3bdce68d7ac042b4dbd2fb515747d5.jpg)
+![](bc81d89e2c071a3a191b11981af4b2d3ee3bdce68d7ac042b4dbd2fb515747d5.jpg)
 Figure 8.22: Convexity adjustment - 50y EUR swaps. Source: Commerzbank, Bloomberg
 
 The swaption data was patchy and had to be interpolated and extrapolated at. times, and we have also used an annual approximation for the calculation of convexity -- however, this seems to make little difference..
@@ -450,124 +450,124 @@ Looking for other opportunities, it would seem that in general, 'non-inversion'.
 
 # Appendix 8.A: EUR Ratios
 
-![](images/bf8495b9801b0aa76732a00bab1c0a4b1e25d7a620111230ef9117fd8fd8f692.jpg)
+![](bf8495b9801b0aa76732a00bab1c0a4b1e25d7a620111230ef9117fd8fd8f692.jpg)
 Figure 8.23: Ratio of standard deviations of forecast moves/actual moves (EUR 1y forward). Source: Commerzbank, Bloomberg
 
-![](images/0706a1aea204c9be7f0d451da91c9d7fb2dcf34e34634b413cdbd14227af0610.jpg)
+![](0706a1aea204c9be7f0d451da91c9d7fb2dcf34e34634b413cdbd14227af0610.jpg)
 Figure 8.24: Ratio of standard deviations of forecast moves/actual moves (EUR 2y forward). Source: Commerzbank, Bloomberg
 
 EUR Swap Slopes, 5y forward, s.d.(forward)/s.d.(actual)
 
-![](images/e8ccc2ad0bf9c51c49d15da738727ea8aeb05b5c0b65f42105973252ce7004c1.jpg)
+![](e8ccc2ad0bf9c51c49d15da738727ea8aeb05b5c0b65f42105973252ce7004c1.jpg)
 Figure 8.25: Ratio of standard deviation of forecast moves/actual moves (EUR 5y forward). Source: Commerzbank, Bloomberg
 
-![](images/cbab855a5333709cc35d760c4fe07751b95553a999a22bf82e1985974183009c.jpg)
+![](cbab855a5333709cc35d760c4fe07751b95553a999a22bf82e1985974183009c.jpg)
 Figure 8.26: Ratio of means of actual moves/forward moves (EUR 1y forward). Source: Commerzbank, Bloomberg
 
-![](images/d0c790ab0326534a6683ae9882208d928505bbd426623084f454a8aeadb5f4e3.jpg)
+![](d0c790ab0326534a6683ae9882208d928505bbd426623084f454a8aeadb5f4e3.jpg)
 Figure 8.27: Ratio of means of actual moves/forward moves (EUR 2y forward). Source: Commerzbank, Bloomberg
 
-![](images/fd6d190fe5cdca30936d44008044431275cfecfce791d80cd6ba42789ab0c94e.jpg)
+![](fd6d190fe5cdca30936d44008044431275cfecfce791d80cd6ba42789ab0c94e.jpg)
 Figure 8.28: Ratio of means of actual moves/forward moves (EUR 5y forward). Source: Commerzbank, Bloomberge
 
 # Appendix 8.B: USD Ratios
 
-![](images/f40e7d961a48b483f6f26cb03c54adedf08d90e2bc6bd0ccfe37bf0f36e9c5a6.jpg)
+![](f40e7d961a48b483f6f26cb03c54adedf08d90e2bc6bd0ccfe37bf0f36e9c5a6.jpg)
 Figure 8.29: Ratio of standard deviations of forecast moves/actual moves (UsD 1y forward). Source: Commerzbank, Bloomberg
 
-![](images/662ada318d519135312e543e614ea1ca4843f54facace692fef28f6bcf403d6e.jpg)
+![](662ada318d519135312e543e614ea1ca4843f54facace692fef28f6bcf403d6e.jpg)
 Figure 8.30: Ratio of standard deviations of forecast moves/actual moves (UsD 2y forward). Source: Commerzbank, Bloomberg
 
-![](images/cbb3894b7b793a6d74b6e1c84fe658ab38e24050996a45ca253467d39a137cb6.jpg)
+![](cbb3894b7b793a6d74b6e1c84fe658ab38e24050996a45ca253467d39a137cb6.jpg)
 Figure 8.31: Ratio of standard deviations of forecast moves/actual moves (UsD 5y forward). Source: Commerzbank, Bloomberg
 
-![](images/ede1227d57b92de167a740623808d1f4788ce992e52ae84b4a5b41332a3f050f.jpg)
+![](ede1227d57b92de167a740623808d1f4788ce992e52ae84b4a5b41332a3f050f.jpg)
 Figure 8.32: Ratio of means of actual moves/forward moves (UsD 1y forward). Source: Commerzbank, Bloomberge
 
 USD Swap Slopes, 1y forward, mean(actual)/mean(forward)
 
-![](images/3d686c65660fc82f8ba5e6e6bad9328db3d2410c4b3e40a734587d5a6bbffb86.jpg)
+![](3d686c65660fc82f8ba5e6e6bad9328db3d2410c4b3e40a734587d5a6bbffb86.jpg)
 Figure 8.33: Ratio of means of actual moves/forward moves (UsD 2y forward). Source: Commerzbank, Bloomberg
 
-![](images/1d4abfb165815efee13b2d1fe7ca596da053ce47c715ca12489e583f60b78c17.jpg)
+![](1d4abfb165815efee13b2d1fe7ca596da053ce47c715ca12489e583f60b78c17.jpg)
 Figure 8.34: Ratio of means of actual moves/forward moves (UsD 5y forward). Source: Commerzbank, Bloomberg
 
 # Appendix 8.C: Implied vs Actual Slope Changes, 2001-2007
 
 $1-2y,\%,$ from 1y to 5y forward, 2001-2007
 
-![](images/dfa49ad81536b462528f9e57773e2a7b30df93b800656505219123f1cc4d94f6.jpg)
+![](dfa49ad81536b462528f9e57773e2a7b30df93b800656505219123f1cc4d94f6.jpg)
 Figure 8.35: Implied slope change (2001-7, 1-2y). Source: Commerzbank, Bloomberge
 
-![](images/4dbf106ae34546cbfdfaa7b5dbbeff5c8bf3fa5204c2507b9f3fa39f12c40e71.jpg)
+![](4dbf106ae34546cbfdfaa7b5dbbeff5c8bf3fa5204c2507b9f3fa39f12c40e71.jpg)
 Figure 8.36: Actual slope change (2001-7, 1-2y) Source: Commerzbank, Bloomberg
 
-![](images/a4143b9d1b74b2263f021fed5c9e9be45514d4451f086a54827c8c619662ef5a.jpg)
+![](a4143b9d1b74b2263f021fed5c9e9be45514d4451f086a54827c8c619662ef5a.jpg)
 Figure 8.37: Implied slope change (2001-7, 2-10y). Source: Commerzbank, Bloomberge
 
 $2-10\lor,\%,$ from 1y to 5y forward, 2001-2007
 
-![](images/ecc529ef2d31fb40ab26069bf75958a2b9a8a6608511a5cebc448457ef6c8701.jpg)
+![](ecc529ef2d31fb40ab26069bf75958a2b9a8a6608511a5cebc448457ef6c8701.jpg)
 Figure 8.38: Actual slope change (2001-7, 2-10y). Source: Commerzbank, Bloomberge
 
-![](images/037184d505542eb5c834060d11a9370c8ef34660f4930e74feadf3a8a168613a.jpg)
+![](037184d505542eb5c834060d11a9370c8ef34660f4930e74feadf3a8a168613a.jpg)
 Figure 8.39: Implied slope change (2001-7, 10-30y). Source: Commerzbank, Bloomberg
 
-![](images/3fb0261bc25c9835199bddb9948e310231a3a13640561a59bc718d9835362a91.jpg)
+![](3fb0261bc25c9835199bddb9948e310231a3a13640561a59bc718d9835362a91.jpg)
 Figure 8.40: Actual slope change (2001-7, 10-30y) Source: Commerzbank, Bloomberg
 
 # Appendix 8.D: Implied vs Actual Slope Changes, 2007-2014
 
 $1-2y,\%$ from 1y to 5y forward, 2007-2014
 
-![](images/5af9b70ededec2425b3291c342476357ad114eed2c3e930b128edb021fd6b3ad.jpg)
+![](5af9b70ededec2425b3291c342476357ad114eed2c3e930b128edb021fd6b3ad.jpg)
 Figure 8.41: Implied slope change (2007-14, 1-2y). Source: Commerzbank, Bloomberg
 
 $1-2y,\%$ from 1y to 5y forward, 2007-2014
 
-![](images/6a9b7b6e4d84f78324a4760485a253e08bb86805f6072c4d44d0f43750b0eb3d.jpg)
+![](6a9b7b6e4d84f78324a4760485a253e08bb86805f6072c4d44d0f43750b0eb3d.jpg)
 Figure 8.42: Actual slope change (2007-14, 1-2y). Source: Commerzbank, Bloomberge
 
 $2-10\lor,\%,$ from 1y to 5y forward, 2007-2014
 
-![](images/a8700bd8c52eff6a8bb184f08bd020eb39f74f49c84364d938102d5448bddb15.jpg)
+![](a8700bd8c52eff6a8bb184f08bd020eb39f74f49c84364d938102d5448bddb15.jpg)
 Figure 8.43: Implied slope change (2007-14, 2-10y). Source: Commerzbank, Bloomberg
 
 $2\scriptstyle-10\vee,\%,$ from 1y to 5y forward, 2007-2014
 
-![](images/a763eaf0b9ed50ba432a3dc79d2ee55eff0912979bfa4533e7563b6eb5b3ed7a.jpg)
+![](a763eaf0b9ed50ba432a3dc79d2ee55eff0912979bfa4533e7563b6eb5b3ed7a.jpg)
 Figure 8.44: Actual slope change (2007-14, 2-10y). Source: Commerzbank, Bloomberg
 
-![](images/a5e8122c596fe0ddadc184b1dcbfbf685180bc591d565885c88cb947201cacda.jpg)
+![](a5e8122c596fe0ddadc184b1dcbfbf685180bc591d565885c88cb947201cacda.jpg)
 Figure 8.45: Implied slope change (2007-14, 10-30y). Source: Commerzbank, Bloomberg
 
-![](images/14b7bf23d53fdfc1f4704bf94875defc082529197d319acae45d7eb00aaafb3d.jpg)
+![](14b7bf23d53fdfc1f4704bf94875defc082529197d319acae45d7eb00aaafb3d.jpg)
 Figure 8.46: Actual slope change (2007-14, 10-30y). Source: Commerzbank, Bloomberg
 
 # Appendix 8.E: Implied vs Actual Slope Changes, 2014-2020
 
 $1-2y,\%,$ from 1y to 5y forward, 2014-2020
 
-![](images/2099fba62bb36e869cf519dec8b896e3ecf19eda95d1ccccd1a561a6cd2de97c.jpg)
+![](2099fba62bb36e869cf519dec8b896e3ecf19eda95d1ccccd1a561a6cd2de97c.jpg)
 Figure 8.47: Implied slope change (2014-20, 1-2y) Source: Commerzbank, Bloomberg
 
-![](images/39e70e1e945cc20d507f0807ecbd0ebdde4b9a9e0eddfaaa688e2675f5bbf3db.jpg)
+![](39e70e1e945cc20d507f0807ecbd0ebdde4b9a9e0eddfaaa688e2675f5bbf3db.jpg)
 Figure 8.48: Actual slope change (2014-20, 1-2y). Source: Commerzbank, Bloomberge
 
-![](images/dc3141a349c734316deb713620418c0f5bf8da072222d25d133d6671ffc9ed0c.jpg)
+![](dc3141a349c734316deb713620418c0f5bf8da072222d25d133d6671ffc9ed0c.jpg)
 Figure 8.49: Implied slope change (2014-20, 2-10y). Source: Commerzbank, Bloomberge
 
 $2-10\lor,\%,$ from 1y to 5y forward, 2014-2020
 
-![](images/abd4e1b670c75f7ea604c9936b690f55aff2b6b07ea32dd9de13bb573b42ec9a.jpg)
+![](abd4e1b670c75f7ea604c9936b690f55aff2b6b07ea32dd9de13bb573b42ec9a.jpg)
 Figure 8.50: Actual slope change (2014-20, 2-10y). Source: Commerzbank, Bloomberge
 
 $10-30\vee,\%,$ from 1y to 5y forward, 2014-2020
 
-![](images/1becf74c8d72ea60a1a0480f8d7c06c361445675a23893c521083dce29d3ac3e.jpg)
+![](1becf74c8d72ea60a1a0480f8d7c06c361445675a23893c521083dce29d3ac3e.jpg)
 Figure 8.51: Implied slope change (2014-20, 10-30y). Source: Commerzbank, Bloomberg
 
 $10-30\vee,\%,$ from 1y to 5y forward, 2014-2020
 
-![](images/1a146210330f37a7f105cff9a613a78fd5ad8a99e134dcf2083dd18ce7cac07a.jpg)
+![](1a146210330f37a7f105cff9a613a78fd5ad8a99e134dcf2083dd18ce7cac07a.jpg)
 Figure 8.52: Actual slope change (2014-20, 10-30y). Source: Commerzbank, Bloomberg

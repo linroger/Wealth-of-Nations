@@ -140,7 +140,7 @@ and obtain the nine implied volatilities $\sigma_{K_{i}}$ . Using Mathematica, w
 
 This is shown in Figure 16.15. Clearly, as the moneyness of the puts decreases, the volatility increases. Option market makers will conclude that, if in 6 months, US equity markets  
 
-![](images/128b2bc82bd9652346b89a15b457ff65d1ec3bbf939fd8aa7f4b18d53755fc26.jpg)  
+![](128b2bc82bd9652346b89a15b457ff65d1ec3bbf939fd8aa7f4b18d53755fc26.jpg)  
 
 # FIGURE 16.15  
 

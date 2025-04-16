@@ -423,7 +423,7 @@ Number of days assuming 365 days per year Number of days assuming 360 days per y
 
 A bond is a long-term debt security issued by a government or corporation. Generally a bond will pay a. fixed periodic coupon with a final principal payment at the end. For example, the cash flows for a four year bond which paid $6.5\%$ per year would be as shown in figure 3.1. Initially the company or government. would borrow from the investor - the initial negative cash flow of. $\$100$ .At the end of each of the four years the company promises to pay $\$6.50$ $6.5\%$ of the notional principal). At the maturity date in four. years the company promises to repay the original $\$100$ borrowed.  
 
-![](images/e2ab699263c13d048a48f6d3fdabe2d989114c8940707e9a880892ecb22f3ae2.jpg)  
+![](e2ab699263c13d048a48f6d3fdabe2d989114c8940707e9a880892ecb22f3ae2.jpg)  
   
 Figure 3.1 shows the most common type of bond - a straight fixed coupon bond which pays a fixed. periodic coupon and repays the principal at maturity. The variety of bonds, however, is nearly infinite. Some of the cash flow characteristics which may vary are:  
 
@@ -493,7 +493,7 @@ Eurobonds are similar to domestic bonds, largely because they were simply an ext
 
 The cash flows for a newly issued bond are as in figure 3.1: an investor pays. $\$100$ today in return for a promised periodic coupon and repayment of principal on the final maturity date. This is all well and good, but what about trading in the secondary market. What can we say about the relation between the future cash flows and the price an investor pays for an existing bond? The future cash flows are the same, but the price today may differ from $\$100$ .Take the simplest case, shown in figure 3.2, where the bond is still. exactly four years from maturity but the market price has changed.  
 
-![](images/65fdb3a60b373425ab1633c781935296c2f3393465bb82046e5ae3e08eddf165.jpg)  
+![](65fdb3a60b373425ab1633c781935296c2f3393465bb82046e5ae3e08eddf165.jpg)  
 Figure 3.2  
 
 As for any set of fixed cash flows, the relation between future cash and today's value is the present value or discounting relation: future cash flows are discounted (at some appropriate interest rate) to convert them into today's present value. Written in terms of an equation the relation between future value (future cash. flow) and present value is:  
@@ -550,7 +550,7 @@ year away). We discount by this fraction of a period rather than the whole perio
 
 The equation (3.3) works perfectly fine, but there is a slight problem which appears when we graph the PV as a function of maturity, shown in figure 3.3. For a four year bond with a. $6.5\%$ coupon and a $6.5\%$ yield and exactly four years to go the PV is $\$100$ .As we move into a coupon period and the maturity shortens, however, the PV rises. This is simply because we have earned or accrued part of the coupon, and the next. coupon is moving closer. (With only a few days until the next coupon payment we have owned the bond. for almost the whole coupon period and thus "earned" almost the whole coupon.) After the coupon is paid,. of course, the PV falls back down to $\$100$ . This saw-tooth pattern, while correct, obscures the fact that the market has not really changed and in some sense the market value of the bond has not changed; we have simply accrued part of the coupon by owning it for part of the coupon period..  
 
-![](images/bc4c0ccbd509b07efa1e0bc84696387cfb70540348100863549dda7fd5fb5918.jpg)  
+![](bc4c0ccbd509b07efa1e0bc84696387cfb70540348100863549dda7fd5fb5918.jpg)  
 Figure 3.3 - PV versus Maturity for a Four Year $6.5\%$ Coupon Bond with $6.5\%$ Yield  
 
 The bond markets adjust for this effect by the convention of calculating Accrued Interest (AI). This is defined as  
@@ -609,7 +609,7 @@ Macauley's duration is the modified duration multiplied by the yield:
 
 Macauley's duration also has the interesting interpretation of being the average time until payment, weighted by the payment PV. This has the diagrammatic interpretation shown in figure 3.4. This figure represents the Eurobond discussed in the examples above, with a coupon of. $6.5\%$ and 11 months (0.92 years) until the first coupon payment. The circles represents the PV of the payments, with the circles. getting smaller the further out they are. If these circles were put on a balance beam, the fulcrum of the beam would represent the weighted average distance (time to payment), which is 3.56 years in this case. Both modified duration and Macauley's duration are discussed more fully in the appendix..  
 
-![](images/a2aa015f28d6b58ddb4ebaa2c424a0f5f8821c56b3fd858a9592ddd3096ff674.jpg)  
+![](a2aa015f28d6b58ddb4ebaa2c424a0f5f8821c56b3fd858a9592ddd3096ff674.jpg)  
 Figure 3.4 - Diagrammatic Representation of Macauley's Duration  
 
 In this manual we will always measure risk as BPV or DV01 rather than duration. Although the choice between BPV and duration is usually a matter of preference, there are cases (swaps being the most important example) where duration cannot be used.  
@@ -739,7 +739,7 @@ $$
 
 The derivative of a function is just the slope of the curve, so the risk is just the slope of the PV function.. Figure 3.5 shows the PV as a function of yield for a hypothetical bond. The slope (i.e. the risk) is shown at two points, when the yield is $3\%$ and when the yield is $10\%$ . Clearly the slope, and thus the risk, changes as the level of yields changes.  
 
-![](images/e89d0ace6f4d355cbb3e977714e64a896c1d3e81cc83ebc878e5546d8cbc14f4.jpg)  
+![](e89d0ace6f4d355cbb3e977714e64a896c1d3e81cc83ebc878e5546d8cbc14f4.jpg)  
 Figure 3.5 - Bond PV (Price) vs. Yield  
 
 For the bond displayed in figure 3.5 the risk (slope) changes as the yield changes. The second derivative of a function measures how fast the slope changes, and for the bond in figure 3.5 the second derivative is moderately high. In the bond markets, this second derivative is called convexity. The exact definition of convexity varies somewhat (corresponding to the various definitions of BPV and duration), but we will use the second derivative:  
@@ -883,7 +883,7 @@ $$
 The most common convention is to take $\mathrm{x}=1+15/182.5$ , although sometimes $\mathbf{x}=\mathrm{DAYS}/182.5$ (i.e.   
 199/182.5) is used.  
 
-![](images/17869fb4b5c43d60f04a1112b3a4038aa6fbb8bbeee7dee9b65cb7ce19e717c5.jpg)  
+![](17869fb4b5c43d60f04a1112b3a4038aa6fbb8bbeee7dee9b65cb7ce19e717c5.jpg)  
 Figure 3.4 - Gilts and XD Calculations  
 
 Canadian Government Bond Oddities There are two oddities about Canadian government bonds:  
@@ -1163,14 +1163,14 @@ This chapters covers fixed-floating interest rate swaps (IRS) in detail. This ty
 
 We will focus throughout this chapter on a fixed-floating swap where a dealer receives fixed and pays floating. Figure 4.1 is the traditional swap diagram showing the direction of cash flows. This type of diagram is useful for laying out an overview of a structure and tracking down what goes where. It is not as useful, however, for a detailed understanding of the valuation and risk of a swap.  
 
-![](images/0d638af35feae4c5e01e61a5d23ffc91e479d12fd318b912fd092f2bc050ffee.jpg)  
+![](0d638af35feae4c5e01e61a5d23ffc91e479d12fd318b912fd092f2bc050ffee.jpg)  
 Figure 4.1 Traditional Swap Diagram  
 
 Figure 4.2 show a "cash flow"' diagram of the swap from the dealer's perspective. This diagram is more useful for valuation of both simple structures such as this interest rate swap and more complicated. structured products. Used together, these two types of diagrams are very useful tools for analyzing and valuing derivative products.  
 
 Swap Cash Flow s  
 
-![](images/684aa2a7d63530d292d474ebdef8e826bef2912ed068eabcebb6c50fc1d37726.jpg)  
+![](684aa2a7d63530d292d474ebdef8e826bef2912ed068eabcebb6c50fc1d37726.jpg)  
 Figure 4.2  
 
 The general definition of a swap as a contract between two parties to exchange a set of cash flows can be made concrete by focusing on a fixed-floating swap and using the two swap diagrams. An interest rate swap where the dealer receives fixed and pays floating is shown in diagrams 4.1 and 4.2. The contract is for five years, and requires that at the end of each year the dealer pays the customer a fixed rate of interest calculated on a fixed notional. This might be $6\%$ calculated on a notional $\$100\mathrm{mm}$ , which would translate into a payment of. $\$601$ each year. In return the customer must pay the dealer a floating rate of interest, say the annual libor rate calculated on a notional of $\$100\mathrm{mm}$ . If libor were. $5\%$ then the annual payment would be. $\$5.07\mathrm{mm}$ . The fixed side coupon would be agreed up front and would not change over the life of the swap. The floating side index (libor in this case) would be agreed up front but the actual payment would vary as the floating rate index (libor) changed according to market conditions. The size of the contract would be set by specifying a notional or nominal size of the contract, but this notional would never be actually exchanged between the counterparties.  
@@ -1199,7 +1199,7 @@ Consider the swap shown in figure 4.3. Company A issues fixed rate debt and B is
 market. Company B also benefits because its net cost is $7{,}90\%$ fixed, better by 10bp than it could do by.   
 issuing fixed bonds directly..  
 
-![](images/90f731c0fcf506b31eaec9f1b0f20df24591d28923c61c09810f508087d5f5ba.jpg)  
+![](90f731c0fcf506b31eaec9f1b0f20df24591d28923c61c09810f508087d5f5ba.jpg)  
 Figure 4.3 - Sample Swap Showing Credit Arbitrage  
 
 It may seem strange that the spread faced by the companies (which depends on the credit-worthiness of the company) should differ simply because they choose to issue in the fixed or floating market. (In fact, such a credit arbitrage is relatively rare today, partly as a result of increased efficiency achieved through the swap market itself.) Nonetheless, it sometimes does occur. Two reasons are:  
@@ -1264,7 +1264,7 @@ $$
 
 The day basis is Actual/360 which means take the actual number of days and divided by 360. Floating payments are usually quarterly.  
 
-![](images/139c10411ce0a8556f244c6fe86a6f80554923574df4f2d8e4223e9ff0d5658b.jpg)  
+![](139c10411ce0a8556f244c6fe86a6f80554923574df4f2d8e4223e9ff0d5658b.jpg)  
 Figure 4.5 Two Year Swap Cash Flows   
 Figure 4.6 shows a sample broker screen with quotes for USD swaps. Focusing on the first row (quotes for 2 year swaps) the indicative quotes are shown as spreads off the two year US Treasury. The two year swaps spreads are shown in the fourth column as 21/17 which means that a dealer would (ideally) expect to receive 21bp over the 2 year UST while paying only 17bp over the 2 year. The market is said to be 17 bid, 21 offer. (In fact the market today is so competitive that the indicated 4bp bid/offer spread is more like 2bp or less in most cases.) The reference UST is shown in the second column. A live feed for the current price and yield of the on-the-run two year is displayed in the second column. The mid-market yield is calculated in the third column and the spread over this yield shown in the fourth column (quoted in basis points). The all-in fixed coupon is shown in the fifth column. A customer would expect to pay the higher fixed rate and receive the lower fixed rate. The sixth column shows the semi-annual 30/360 swap quote converted to an annual money-market (A/360) rate, although this convention is less common than semi 30/360.  
 
@@ -1290,7 +1290,7 @@ Swap valuation is quite straightforward and is actually no more complex than val
 
 swap, but with one important addition: a phantom exchange of principal has been added to the last payment. In the market all swap payments are net so that only the net cash actually changes hands. This means that introducing offsetting $\$100$ payments will not change the cash changing hands, and so cannot change the valuation of the swap. Nonetheless, introducing the exchange of principal makes the valuation more straightforward.  
 
-![](images/203af8ec09957c8cd934409affecbcc9e340ad093219b319e14d08885ffe60be.jpg)  
+![](203af8ec09957c8cd934409affecbcc9e340ad093219b319e14d08885ffe60be.jpg)  
 Figure 4.8 - Swap Cash Flows with Phantom Principal Exchange  
 
 First, the fixed side cash flows have been converted into a fixed coupon bond, and can be valued in the same way as a bond (using the yield to price formula introduced previously or, more accurately, calculating the PV off a forward curve as discussed below). Second, the floating side is now a floating rate bond whose valuation is even simpler. A floating libor bond, discounted at libor, must trade at 100.4 Thus the NPV of the two year swap to receive fixed will be:  
@@ -1326,7 +1326,7 @@ but now the fixed and floating rate bonds are not on exact coupon dates. This is
 
 Consider again the two year swap to receive. $6.5\%$ fixed semi-annually. Say the swap has been in existence for one month, so that the first libor rate was set one month ago. The fixed bond can still be valued easily using the techniques from the previous chapter. The next floating payment is in two months. But the floating coupon was set one month ago and so is actually known today. That can be put in as a fixed payment and is shown in figure 4.9 as a fixed payment. Furthermore, we know that in two months, after the fixed libor payment is made but before the rate is reset, the floating side will once again be a floating libor bond discounted at libor and will thus be worth. $\$100$ . This $\$100$ can be entered in as if it were an. actual payment, leading to the cash flow diagram shown in figure 4.9. But this has converted the floating side to a short-dated fixed coupon bond. In other words we can value the floating bond by valuing a shortdated fixed coupon bond, with the coupon equal to the last libor setting..  
 
-![](images/815a4e5d35c8099a002778a89ca736f58606f7713b736b4472e470522822a270.jpg)  
+![](815a4e5d35c8099a002778a89ca736f58606f7713b736b4472e470522822a270.jpg)  
 Figure 4.9  
 
 # Example 4.2 - NPV of Existing Swap  

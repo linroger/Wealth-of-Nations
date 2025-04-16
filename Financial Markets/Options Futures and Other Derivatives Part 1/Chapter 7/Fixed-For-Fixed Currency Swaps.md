@@ -55,13 +55,13 @@ Table 7.7 Borrowing rates providing basis for currency swap.
 
 <html><body><table><tr><td>USD</td><td></td><td>AUD</td></tr><tr><td>GeneralElectric</td><td>5.0%</td><td>7.6%</td></tr><tr><td>QantasAirways</td><td>7.0%</td><td>8.0%</td></tr><tr><td colspan="3">Quoted rates havebeen adjusted to reflect the differential impact of taxes.</td></tr></table></body></html>  
 
-![](images/1e0b9e613b6c7e0a8a964206b71f672b9369c8c1d646642f172b23b7f9c6da42.jpg)  
+![](1e0b9e613b6c7e0a8a964206b71f672b9369c8c1d646642f172b23b7f9c6da42.jpg)  
 Figure 7.11  A currency swap motivated by comparative advantage.  
 
-![](images/a981d85b226d175535bb84833f7ca1af612aba58d33893ac6db25df83a2f2740.jpg)  
+![](a981d85b226d175535bb84833f7ca1af612aba58d33893ac6db25df83a2f2740.jpg)  
 Figure 7.12 Alternative arrangement for currency swap: Qantas Airways bears some foreign exchange risk.  
 
-![](images/d1b8cdb157616a13d91741f32509b6c371be149c860ad9866754051cba49d887.jpg)  
+![](d1b8cdb157616a13d91741f32509b6c371be149c860ad9866754051cba49d887.jpg)  
 Figure 7.13Alternative arrangement for currency swap: General Electric bears some foreign exchange risk.  
 
 Each year the financial institution makes a gain of UsD 195,000 $(=1.3\%$ of 15 million) and incurs a loss of AUD 220,000 $(=1.1\%$ of 20 million). The financial institution can avoid any foreign exchange risk by buying AUD 220,000 per annum in the forward market for each year of the life of the swap, thus locking in a net gain in USD.  

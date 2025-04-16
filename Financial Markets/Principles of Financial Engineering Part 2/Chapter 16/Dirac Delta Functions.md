@@ -31,7 +31,7 @@ $$
 E[C(x_{t})]=\intop_{-\infty}^{\infty}C(x_{t})f(x_{t})\mathrm{d}x_{t}
 $$  
 
-![](images/b18d7e4ec23a581d1da4c2ea6f62047e3d4e8f14dcd5ba05486604b42b623326.jpg)  
+![](b18d7e4ec23a581d1da4c2ea6f62047e3d4e8f14dcd5ba05486604b42b623326.jpg)  
 
 # FIGURE 16.3  
 

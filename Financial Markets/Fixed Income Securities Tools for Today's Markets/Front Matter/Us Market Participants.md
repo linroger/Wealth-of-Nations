@@ -14,10 +14,10 @@ tags:
 
 This section describes sectors of market participants. The volumes of debt. securities and loans that appear as assets on the financial balance sheets of various sectors are shown in Figure O.6, while the volumes that appear. as liabilities are shown in Figure O.7. Households, nonfinancial business,. and general government (i.e., federal and municipal) hold a combined $\$10.0$ trillion of debt securities and loans for their own savings or cash. management purposes. Banks, various fund vehicles, insurance companies, pension funds, and other financial entities hold debt securities and loans as intermediaries, investing and managing funds for the ultimate benefit of others. The Monetary Authority, that is, the Federal Reserve, holds assets in the implementation of monetary policy. And the rest of the world, or foreign entities, invest $\$14.0$ trillion in US debt securities and loans on their own or as intermediaries. On the liability side, the federal government borrows $\$24.3$ trillion, and municipalities borrow $\$3.2$ trillion to finance. government expenses that are not covered by taxes and fees. Households borrow $\$17.3$ trillion mostly to finance consumption, and nonfinancial businesses borrow $\$18.0$ trillion to finance investments and acquisitions. The remaining financial sectors borrow as intermediaries, using funds borrowed from some sectors to lend or invest elsewhere. And finally, the rest of the world borrows $\$4.9$ trillion through US debt securities and loans. The text now discusses several of these sectors in greater detail.  
 
-![](images/f49a1afacfd9b9ae1420077524b91821a309848dc0b7a9757f25c8acd963bdc3.jpg)  
+![](f49a1afacfd9b9ae1420077524b91821a309848dc0b7a9757f25c8acd963bdc3.jpg)  
 FlGure 0.6 Financial Assets of Various Sectors, as of June 2021. ETF: Exchange-Traded Fund; MMF: Money Market Fund. Sources: Financial Accounts of the United States, Board of Governors of the Federal Reserve System; and Author Calculations.  
 
-![](images/c2c88a2d0f8509cef19f8e6e295100a4f073a94b66affc0094b9852f24c57020.jpg)  
+![](c2c88a2d0f8509cef19f8e6e295100a4f073a94b66affc0094b9852f24c57020.jpg)  
 FIGure 0.7 Financial Liabilities of Various Sectors, as of June 2021. B/D:. Broker-Dealer. Sources: Financial Accounts of the United States, Board of Governors of the Federal Reserve System; and Author Calculations..  
 
 # Households  
@@ -33,12 +33,12 @@ Sources: Financial Accounts of the United States, Board of Governors of the Fede
 
 The primary components of consumer credit are home equity loans, auto. loans, credit card loans, and student loans. The outstanding credit balances of these sectors over time are depicted in Figure O.8. Home equity loan balances grew rapidly with the run-up of housing prices preceding the financial crisis of 2007-2009 and have declined steadily since.10 Credit card loans. also grew going into the crisis, though not as dramatically, and also declined. after the crisis, but had then recovered, until declining again with the COVID. pandemic and shutdowns. Auto loans, while also declining through the crisis, seemingly emerged as taking the place of declining home equity loans and relatively flat credit card loans. Student loans have increased independently of the economic cycle, which is a policy result: the federal government has been guaranteeing student loans for decades and, since 2010, directly owns all of its student loans. As of March 2021, government student loan balances comprised over 92% of the total.11  
 
-![](images/1217b7259c4fa05ff93506d4ad2cad43023eeebbaed63ad435e7ef6f1aa3b537.jpg)  
+![](1217b7259c4fa05ff93506d4ad2cad43023eeebbaed63ad435e7ef6f1aa3b537.jpg)  
 FIGURE 0.8Balances of Consumer Credit Sectors. Source: Quarterly Report on Household Debt and Credit, Federal Reserve Bank of New York.  
 
 Figure O.9 reports balances that are 90 or more days delinquent, that is,. balances on which the borrower has not made payments for 90 or more days. Not surprisingly, home equity delinquencies increased during and for several years after the financial crisis, as falling housing prices made it impossible for many homeowners to recover their outstanding mortgage and loan balances by selling their homes. Home equity delinquencies have since steadily declined, perhaps reflecting more careful underwriting in the aftermath of the crisis. Credit card delinquencies also increased after the crisis, perhaps reflecting weakened consumer balance sheets, but have since declined to pre-crisis levels. Auto loan delinquencies increased after the crisis as well, then fell, and increased again, perhaps an expected consequence of the rapid growth in balances. Student loan delinquencies have been increasing for. many years, which has raised a number of policy concerns, from the perspective of both students and the federal government. Note that the precipitous decline in student loan delinquencies in the second half of 2020 is an artifact of federal COvID forbearance programs.  
 
-![](images/59b1918f6c3c87998e17dfe365557e4e07bccf0d8bb1f1478cc3058c2fd12ef2.jpg)  
+![](59b1918f6c3c87998e17dfe365557e4e07bccf0d8bb1f1478cc3058c2fd12ef2.jpg)  
 FIGuRE 0.9Delinquencies in Consumer Credit Sectors. Source: Quarterly Report on Household Debt and Credit, Federal Reserve Bank of New York.  
 
 # Nonfinancial Business  
@@ -49,7 +49,7 @@ Figure O.10 shows the composition of liabilities for nonfinancial businesses, se
 
 Commercial banks accept deposits from their customers, pay them inter-. est, and offer them safety -- in part through federal deposit insurance - and. immediacy or liquidity, that is, the ability to withdraw funds whenever necessary. Deposits, which are not classified as debt securities or as loans, are not  
 
-![](images/6cab397a71f1f9ca16c193b37656f7cfc5be14af09ac8743ead1f2b08d85363c.jpg)  
+![](6cab397a71f1f9ca16c193b37656f7cfc5be14af09ac8743ead1f2b08d85363c.jpg)  
 FIGURE 0.10 Nonfinancial Business Liabilities, Corporate and Noncorporate, as of June 2021. Source: Financial Accounts of the United States, Board of Governors of the Federal Reserve System.  
 
 included in Figure O.7, but constituted. $93\%$ of commercial bank liabilities..   
@@ -61,7 +61,7 @@ While deposits are certainly the main source of funding for bank invest-. ments,
 
 Turning to assets, Figure O.11 shows the asset composition of large and small commercial banks. Commercial and industrial (C&I) loans, real estate loans, and consumer loans are all considered the main business of banking.. In addition to these assets, however, along the lines of the previous paragraph, banks hold liquid assets. The most liquid, of course, are cash, reserves. or deposits at the Federal Reserve, and other money market (MM) instru-. ments. But these assets have the disadvantage of earning very low rates of. return. Therefore, to earn higher rates of return while maintaining satisfactory liquidity profiles, banks also hold Treasuries, agency securities, and MBS, which can be sold relatively easily should the need arise..  
 
-![](images/21df4389b8ed496d9058eec76cddeae9d93dca3cd8485d51bcf5f0b3e6359f12.jpg)  
+![](21df4389b8ed496d9058eec76cddeae9d93dca3cd8485d51bcf5f0b3e6359f12.jpg)  
 FIGURE 0.11 Assets of Commercial Banks, Largest 25 Banks and All Other Banks,e as of June 2021. Source: Assets and Liabilities of Commercial Banks in the United States, Board of Governors of the Federal Reserve System..  
 
 Figure O.11 also reveals some differences between large and small banks. First, commercial bank assets are highly concentrated. There are over 4,000 commercial banks in the United States, but $\$12.5$ trillion of the sector's $\$19$ trillion of assets, or $66\%$ , are held by the largest 25 banks.12 As an aside, the number of banks in the country has been declining gradually but swiftly: there were over 14,000 banks in 1984. This decline is likely an adjustment from historical restrictions on interstate banking and branching that prevented larger banks from satisfying market demand. In any case, a second difference between the largest and smaller banks is the difference in the fractions of their assets in real estate loans: $17.4\%$ for the largest banks and $36.7\%$ for the smaller banks. The concentration of a small bank's assets in real estate loans, which are often local, can challenge the bank's viability through regional economic downturns.  
@@ -90,5 +90,5 @@ After the crisis, the SEC changed several rules governing money market funds.16 
 
 Figure O.12 shows the balances of money market funds over time, by sector. The timing of the steep drops in the balances of both prime and tax-exempt funds corresponds closely to the October 2016 effective date just mentioned. The inconvenience of floating NAVs and the potential loss of immediacy from redemption fees and gates clearly reduced the attractiveness of prime funds. In 2020, as part of a broad flight-to-quality brought on by the COvID pandemic and economic shutdowns, balances in government money market funds increased markedly. Over the whole of 2020, institutional prime fund balances stayed relatively constant at $\$600$ billion, while retail prime fund balances fell gradually from about $\$500$ billion to $\$200$ billion. Prime balances did fall dramatically, however, in March 2020, and institutional balances fell more than retail balances, but, due to swift action by the Treasury and Federal Reserve in support of financial markets in general and money market funds in particular, balances recovered relatively quickly. In any case, it seems that the possibility of redemption fees and gates in March 2020 did encourage preemptive withdrawals by prime investors and sales of assets by prime fund managers, who raised liquidity in order to avoid triggering fees and gates. Consequently, at the time of this writing, the SEC is revisiting fees and gates and considering other changes to the regulation of institutional prime funds.17  
 
-![](images/ea6c431be279ae5c445d4aac2c26d475b72c5675eaf36551cbbc04e7f86737c0.jpg)  
+![](ea6c431be279ae5c445d4aac2c26d475b72c5675eaf36551cbbc04e7f86737c0.jpg)  
 FIGURE 0.12 Balances in Money Market Funds, by Sector. Source: US Money Market Fund Monitor, Office of Financial Research, US Department of the Treasury.  

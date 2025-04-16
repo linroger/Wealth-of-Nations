@@ -147,7 +147,7 @@ Suppose that the values of $\{\alpha_{L},\alpha_{H}\}$ for successively more sen
 2. Use the compound correlation to calculate the present value of the expected loss on each tranche during the life of the CDO as a percent of the initial tranche principal. This is the variable we have defined as $C$ above. Suppose that the value of $C$ for the $\{\alpha_{q-1},\alpha_{q}\}$ tranche is $C_{q}$   
 3. Calculate the present value of the expected loss on the $\{0,\alpha_{q}\}$ tranche as a percent of the total principal of the underlying portfolio. This is ${\textstyle\sum_{p=1}^{q}C_{p}(\alpha_{p}-\alpha_{p-1})}$  
 
-![](images/f7f66ea650e889736cbc22fcbfe3c92f125e64a3c8f5b2c93865456d5eb3b44c.jpg)  
+![](f7f66ea650e889736cbc22fcbfe3c92f125e64a3c8f5b2c93865456d5eb3b44c.jpg)  
 Figure 25.3 Vertical axis gives present value of expected loss on 0 to $X\%$ tranche as a percent of total underlying principal for iTraxx Europe on January 31, 2007.  
 
 Table 25.8  Implied correlations for 5-year iTraxx Europe tranches on January 31, 2007.   

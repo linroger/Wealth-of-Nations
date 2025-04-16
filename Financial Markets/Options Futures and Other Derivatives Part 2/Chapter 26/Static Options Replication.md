@@ -37,7 +37,7 @@ of 60 that matures in 9 months has zero value on the vertical boundary that is m
 
 Suppose that $\Delta t=0.25$ In addition to option A, the replicating portfolio consists of positions in European options with strike price 60 that mature in 9, 6, and 3 months. We will refer to these as options B, C, and $\mathrm{\bfD}$ , respectively. Given our assumptions about volatility and interest rates, option B is worth 4.33 at the $\{60,0.5\}$ point. Option A is worth 11.54 at this point. The position in option B necessary to match the boundary at the $\{60,0.5\}$ point is therefore $-11.54/4.33=-2.66.$ Option C is worth 4.33 at the $\{60,0.25\}$ point. The position taken in options A and B is worth. $-4.21$ at this point. The position in option C necessary to match the boundary at the $\{60,0.25\}$ point is therefore $4.21/4.33=0.97.$ Similar calculations show that the position in. option D necessary to match the boundary at the. $\{60,0\}$ point is 0.28.  
 
-![](images/d3f32e107e536bc1c8324f47bb42408313083456f0587a5796406d99981fa913.jpg)  
+![](d3f32e107e536bc1c8324f47bb42408313083456f0587a5796406d99981fa913.jpg)  
 Figure 26.1 Boundary points used for static options replication example.  
 
 Table 26.1 The portfolio of European call options used to replicate an up-and-out option.   
@@ -162,7 +162,7 @@ Show that the option in (a) is worth the sum of the values of the options in (b)
 26.34. What is the relationship between a regular call option, a binary call option, and a gap call option?   
 26.35. Produce a formula for valuing a cliquet option where an amount $Q$ is invested to produce a payoff at the end of $n$ periods. The return earned each period is the greater of the return on an index (excluding dividends) and zero.  
 
-![](images/1aa0a7f0929074f1bef3973d5d519d4ea90236fa9cd369d3301225dfcdf69095.jpg)  
+![](1aa0a7f0929074f1bef3973d5d519d4ea90236fa9cd369d3301225dfcdf69095.jpg)  
 
 # More on Models and Numerical Procedures  
 

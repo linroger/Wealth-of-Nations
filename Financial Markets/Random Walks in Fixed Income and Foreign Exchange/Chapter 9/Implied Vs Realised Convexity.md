@@ -75,10 +75,10 @@ Two things are worth noting here. The first is the difference in scale; the 5Oy 
 
 This is actually somewhat reassuring. When one realises that the implied convexity relies on so many different assumptions, it could be thought that there is little way. to obtain a reliable estimate. But when we realise that a single input, the future yield. volatility, dominates, at least we have narrowed the range of uncertainty..
 
-![](images/b7ba24e76b0e03a9c37e0d2b05b955fcb9f7a7c6d811ff35342ed17f36a2e698.jpg)
+![](b7ba24e76b0e03a9c37e0d2b05b955fcb9f7a7c6d811ff35342ed17f36a2e698.jpg)
 Figure 9.1: Implied convexity value, 10y German bonds. Source: Commerzbank, Bloomberg
 
-![](images/c48d859d6baf59d4db20ff57a57b4a4561e96d9563ff01aca468dbe5bc08b5b8.jpg)
+![](c48d859d6baf59d4db20ff57a57b4a4561e96d9563ff01aca468dbe5bc08b5b8.jpg)
 Figure 9.2: Implied convexity value, 50y EUR swaps. Source: Commerzbank, Bloomberg
 
 # Value of Realised Convexity
@@ -95,7 +95,7 @@ Using equation (1), we find the exact value of the bond price one year ahead. Th
 
 In Figure 9.3, we see the results. The solid grey line, hardly visible, is the full price calculation at the end of the 1y period using equation (1). The black line, again not very visible, is the price calculated using only the first two terms of equation (2). It can be seen that it does not match perfectly to the full calculation. The dashed light grey line is the price calculated using all three terms in equation (2), including the convexity value. It can be seen that the inclusion of this final term is a better approximation to the true price.
 
-![](images/57a6a322c5e8ce64d3c4d281ae5aa1eb63d1e0288808fb664cffeef423648869.jpg)
+![](57a6a322c5e8ce64d3c4d281ae5aa1eb63d1e0288808fb664cffeef423648869.jpg)
 Bond price calculated with full accuracy and with different approximations, in $\%$
 Figure 9.3: History of 50y bond price with convexity value. Source: Commerzbank, Bloomberg
 
@@ -109,17 +109,17 @@ This is the realised convexity, and is primarily driven by the change in yield o
 
 Finally, we can graph implied vs realised convexity together, as in Figure 9.4.. We see that while we would hardly expect implied convexity to accurately indicate. changes in realised convexity, the overall levels of realised convexity oscillate. around implied, and on the whole it appears to be a reasonable estimate. Note that the near-zero levels of realised convexity occur when the change in yield over. the course of the year is close to zero..
 
-![](images/78f9c89c727d1349bc6a5025d30f6d477adbd669abf3eae93e89e7ccd7077643.jpg)
+![](78f9c89c727d1349bc6a5025d30f6d477adbd669abf3eae93e89e7ccd7077643.jpg)
 Figure 9.4: Implied vs realised convexity for 50y bond. Source: Commerzbank, Bloomberge
 
 These calculations emphasise the importance of the ultra-long end of the curve. Our graph in Figure 9.5 shows the realised convexity value for 10, 30 and 50y maturities. While realised convexity for the 10y case peaks at. $1.25\%$ , for the 50y case, we see close to $20\%$ , which is very significant.
 
 Finally, we take a look at realised convexity value over different timescales. So. far, our analysis has concentrated on a 1y period, but it is also interesting to focus. on shorter periods. In Figure 9.6, we plot the realised convexity value over 1y, 6m and $3\mathrm{m}$ periods for a 30y bond. It can be seen that even over shorter periods, the. convexity value can be considerable when there is substantial yield variation..
 
-![](images/e7f982194d620d1530fe24282f4a97c948dc16116d1964bdad38892778c77d6c.jpg)
+![](e7f982194d620d1530fe24282f4a97c948dc16116d1964bdad38892778c77d6c.jpg)
 Figure 9.5: History of convexity value for bonds of different tenor. Source: Commerzbank, Bloomberg
 
-![](images/c57e63598be5f652aeaa9ac44ff84684bed3026f1a91b54baced451390e20504.jpg)
+![](c57e63598be5f652aeaa9ac44ff84684bed3026f1a91b54baced451390e20504.jpg)
 Figure 9.6: Realised convexity of a 30y bond over different periods. Source: Commerzbank, Bloomberge
 
 # List of Figures
@@ -327,7 +327,7 @@ with standard deviation bands -- 121
 
 # About the Authors
 
-![](images/6d7e1570badcb40d48184551c29b630b034f1c2f3ad38cd704d357a95e4b94cd.jpg)
+![](6d7e1570badcb40d48184551c29b630b034f1c2f3ad38cd704d357a95e4b94cd.jpg)
 
 Jessica James is a senior quantitative researcher at Commerzbank in London, and previously was head of the Quantitative Solutions Group. She joined Commerzbank from Citigroup where she held a number of FX roles, latterly as global head of the Quantitative Investor Solutions Group. Prior to this, she was the head of the Risk Advisory and Currency Overlay Team for Bank One. Before her career in finance, James lectured in physics at Trinity College, Oxford. She holds a BSc in physics from Manchester University and a D. Phil. in atomic and nuclear physics from Oxford University.
 
@@ -337,7 +337,7 @@ Jessica is a visiting professor both at University College London and at Cass Bu
 
 Christoph Rieger heads the Rates & Credit Research at Commerzbank. Together with his research teams, he covers the full range of fixed income products, from money markets, government bonds and SSAs to covered bonds, financials and corporates, developing big-picture themes alongside commercial trading and funding strategies.
 
-![](images/ebca25107a64fdca8134346fb8d6393249321a8d0cf52deaf27f6d5ab8a3f3f1.jpg)
+![](ebca25107a64fdca8134346fb8d6393249321a8d0cf52deaf27f6d5ab8a3f3f1.jpg)
 
 Prior to this role, Christoph was Head of Rates Strategy at Commerzbank and he worked as senior interest rate strategist at Dresdner Kleinwort with a specific focus on money markets and interest rate derivatives. Before joining Dresdner Kleinwort in 2o04, Christoph held various positions in
 
@@ -346,7 +346,7 @@ moving to London in 2o01, where his main focus was on interest rate strategies u
 His academic background is rooted in economics, in which he holds two degrees: an MA from Temple University (Fulbright Scholarship in Philadelphia, PA) and a diploma from the University of.
 Cologne (Germany). Christoph is a member of the ECB Bond Market Contact Group..
 
-![](images/4eac81d5d6b6f09c387485e16d0787f44523b65165b91159a87e915b51dc5e07.jpg)
+![](4eac81d5d6b6f09c387485e16d0787f44523b65165b91159a87e915b51dc5e07.jpg)
 
 Michael Leister is responsible for interest rate strategy at Commerzbank. His research team of four analysts covers the full range of liquid and structured rates products for the major currencies, in cash as well as in derivatives space.
 

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "8e751c7156166833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 14/A Framework for Swaps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Framework for Swaps"
+            }
+          },
+          {
             "id": "cd211e27feebb44a",
             "type": "leaf",
             "state": {
@@ -102,32 +126,9 @@
               "icon": "lucide-file",
               "title": "An Enhanced Method for Estimating Delta and Gam"
             }
-          },
-          {
-            "id": "73e0ae9f977fc484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arbitrage-Free Dynamics"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Attachments",
+                "query": "[\"tags\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -282,10 +284,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clippings/Contract for Differences (CFD) - Overview and Examples.md"
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 14/A Framework for Swaps.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Contract for Differences (CFD) - Overview and Examples"
+              "title": "File properties for A Framework for Swaps"
             }
           },
           {
@@ -299,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -328,8 +330,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "907f0640e075ca09",
+  "active": "ea1a0a5e0c98a87a",
   "lastOpenFiles": [
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Fixed Income Asset Pricing/A Survey of the Micro structure of Fixed-Income Markets.md",
+    "Untitled.md",
+    "Financial Engineering/Mathematics of the Financial Markets.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/Abss Versus Cdos.md",
+    "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
+    "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
+    "Financial Engineering/Untitled.md",
+    "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
     "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
@@ -347,10 +358,6 @@
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 5 Risk Neutral Pricing.md",
     "Fixed Income Asset Pricing/Handbook of Fixed Income Securities/Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Corporate Bonds.md",
     "Fixed Income Asset Pricing/Problem Sets/PSET II Fixed Income Asset Pricing 1.md",
-    "Fixed Income Asset Pricing/Problem Sets/BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1.md",
-    "The Ornstein-Uhlenbeck (OU) Process.md",
-    "Fixed Income Asset Pricing/Lecture Notes Bonds,  Preferred Stock,  and Structured Products.md",
-    "Advanced Financial Analysis and Valuation/BMW Valuation Report.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
@@ -361,11 +368,6 @@
     "Attachments/fc3cfd6086fe7d110151c6f1af678be2cc5d45a31a2850a0a6e2f2641a3d8af5.jpg",
     "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
-    "International Finance/Economic Stabilization Notes/Theory of Stabilization Policy.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 21/ABSs Versus CDOs.md",
-    "International Finance/Navigating Big Debt Crises/The Effects of Tariffs How the Machine Works.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/Chapter 2.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",

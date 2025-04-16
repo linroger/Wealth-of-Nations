@@ -82,11 +82,11 @@ IABLE 23.1 Monte Carlo Price of Standard European Call Option
 
 Given the computational time required for large sample sizes, there are several ways to reduce the errors encountered with simulation. We explore several of these methods next.
 
-![](images/39ca9c8b0875ff84e8365682caf3c6fc61e49b55192a748a12c9dbece1c5ef5d.jpg)
+![](39ca9c8b0875ff84e8365682caf3c6fc61e49b55192a748a12c9dbece1c5ef5d.jpg)
 Panel A. y-Axis Scale from $\$0$ to $\$40$
 FGURE 23.1 Sample Error and Monte Carlo Price of Standard European Call Option
 
-![](images/dd8ab38acfa285bc95787fea83490fb2e842204d746d8ade7b4a2c6a63636605.jpg)
+![](dd8ab38acfa285bc95787fea83490fb2e842204d746d8ade7b4a2c6a63636605.jpg)
 Panel B. y-Axis Scale from $\$14.0$ to $\$14.5$
 
 # FIGURE 23.1Continued

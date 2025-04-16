@@ -171,7 +171,7 @@ Calculate forward interest rates for the second, third, fourth, and fifth years.
 
 4.36. Verify that DerivaGem agrees with the price of the bond in Section 4.6. Test how well DV01 predicts the effect of a 1-basis-point increase in all rates. Estimate the duration of the bond from Dv01. Use Dv01 and Gamma to predict the effect of a 200-basis-point increase in all rates. Use Gamma to estimate the bond's convexity. (Hint: In DerivaGem, DV01 is $d B/d y$ , where $B$ is the price of the bond and $y$ is its yield measured in basis points, and Gamma is $d^{2}B/d y^{2}$ , where $y$ is measured in percent.).  
 
-![](images/7c715c22aed22f195f0f946c7865d8c2beafb5677756ff0dc1eeb0ed63e7094b.jpg)  
+![](7c715c22aed22f195f0f946c7865d8c2beafb5677756ff0dc1eeb0ed63e7094b.jpg)  
 
 # Determination of Forward and Futures Prices  
 

@@ -33,7 +33,7 @@ Variance swaps can be replicated by a delta-hedged portfolio of vanilla options,
 
 Peter Allen. (44-20) 7325-4114 peter.allen@jpmorgan.com  
 
-![](images/51745595e63b1da8a635c96fb6e51e383e7b288a77c7267e0ee0407cf3cb9fdb.jpg)  
+![](51745595e63b1da8a635c96fb6e51e383e7b288a77c7267e0ee0407cf3cb9fdb.jpg)  
 Source: JPMorgan  
 
 Stephen Einchcomb (44-20) 7325-9064 stephen.einchcomb@jpmorgan.com  
@@ -101,11 +101,11 @@ Variance swaps are instruments which offer investors straightforward and direct 
 
 Buying a variance swap is like being long volatility at the strike level; if the market delivers more than implied by the strike of the option, you are in profit, and if the market delivers less, you are in loss. Similarly, selling a variance swap is like being short volatility. However variance swaps are convex in volatility: a long position profits more from an increase in volatility than it loses from a corresponding decrease. For this reason variance swaps normally trade above ATM volatility.  
 
-![](images/dfd39b6a19475cdb0c2beef26a286e3cc3cec98707dcd5308c1b7cf55773d64c.jpg)  
+![](dfd39b6a19475cdb0c2beef26a286e3cc3cec98707dcd5308c1b7cf55773d64c.jpg)  
 Figure 1 : Variance swap payoffs are convex in volatility   
 Source : JPMorgan  
 
-![](images/cc59dcfc5cca4ed6641782a4607e5403eac5671502ebf88c3fa2360256ee2323.jpg)  
+![](cc59dcfc5cca4ed6641782a4607e5403eac5671502ebf88c3fa2360256ee2323.jpg)  
 Figure 2 : Euro Stoxx 50 implied and realised variance levels   
 Source : JPMorgan  
 
@@ -198,7 +198,7 @@ Volatility measures the variability of returns of an underlying asset and in som
 
 Figure 3 shows the history of realised volatility on the Dow Jones Industrial Average over the last 100 years. Periods of higher volatility can be observed, e.g. in the early 1930's as a result of the Great Depression, and to a lesser extent around 2000 with the build-up and unwind of the dot-com bubble. Also noticeable is the effect of the 1987 crash, mostly due to an exceptionally large single day move, as well as numerous smaller volatility spikes.  
 
-![](images/29bc9fca65c62ea3ee81d4f67d2140867cd1de74fd522207e8ca253b27661d57.jpg)  
+![](29bc9fca65c62ea3ee81d4f67d2140867cd1de74fd522207e8ca253b27661d57.jpg)  
 Figure 3 : Long term history of realised volatility 3-month realised volatility (Dow Jones Industrial Average)   
 Source: JPMorgan  
 
@@ -211,11 +211,11 @@ Volatility tends to be mean reverting (within regimes)
 
 This list suggests some of the reasons why investors may wish to trade volatility: as a partial hedge against the underlying - especially for a volatility spike caused by a sudden market sell-off, as a diversifying asset class; to take a macro view e.g.. for a potential change in volatility regime; or to trade a spread of volatility between related instruments..  
 
-![](images/a19504bb881d1b52a44fa9ff325aa44fef9b697a4fbd991b527a1da3a96b729d.jpg)  
+![](a19504bb881d1b52a44fa9ff325aa44fef9b697a4fbd991b527a1da3a96b729d.jpg)  
 Figure 4 : in the short term volatility is anti-correlated with index level   
 Source : JPMorgan  
 
-![](images/1a984391e817e5f6a742a351946cb77a112214e872dbe2c5876d8def4ef1b47d.jpg)  
+![](1a984391e817e5f6a742a351946cb77a112214e872dbe2c5876d8def4ef1b47d.jpg)  
 Figure 5 : 20 years of Euro Stoxx realised volatility: the index has experienced both high and low volatility regimes.   
 Source : JPMorgan  
 
@@ -233,18 +233,18 @@ Volatility can also be defined by an RMS (root-mean-squared) measure, which is l
 
 Volatility, $\upsigma$ ,is defined by: $\sigma^{2}={\frac{252}{T}}\sum_{i=1}^{T}\left[\ln\left({\frac{S_{i}}{S_{i-1}}}\right)\right]^{2}$ where $S_{i}$ is the stock price on day i, and $T$ is the number of days  
 
-![](images/49409971068b001d18efd6bcf810228049d60f0a734f9a3c78c13bed5b6fd57c.jpg)  
+![](49409971068b001d18efd6bcf810228049d60f0a734f9a3c78c13bed5b6fd57c.jpg)  
 Source : JPMorgan  
 
 Volatility conveys information about the usual size of moves in the underlying in relation to its absolute price. Typical stocks have (annualised) volatilities of around $15{\cdot}35\%$ , with equity indices generally somewhat lower.Maturities considered usually range from a few days to a few years. Clearly short-dated realised volatility will be much 'noisier' than longer dated, but will convey more up-to-date information. Longer dated volatility represents a smoother 'average' volatility but will include older data possibly outside of the current regime - e.g. 5-year Euro Stoxx volatility currently remains some $9\%$ above 1-year volatility due to the inclusion of data from the high volatility regime in 2002-2003.  
 
-![](images/449ee6f8020907ab1c7e1c55cc178688c2503ca911930358b1568e6976a13e99.jpg)  
+![](449ee6f8020907ab1c7e1c55cc178688c2503ca911930358b1568e6976a13e99.jpg)  
 Figure $6:$ The difference between RMS volatility and standard realised volatility can be noticeable for short-dated volatility...   
 Source : JPMorgan  
 
 6-month realised volatility (Euro Stoxx 50)  
 
-![](images/e88458a1b99d456b31167c04803b3576e36e4ba7648e8c3e81d8f6eb58d4e8b4.jpg)  
+![](e88458a1b99d456b31167c04803b3576e36e4ba7648e8c3e81d8f6eb58d4e8b4.jpg)  
 Figure 7 : ...but the difference is negligible for longer-dated volatility   
 Source : JPMorgan  
 
@@ -260,7 +260,7 @@ and if realised volatility is below, the buyer will be in loss. A buyer of a var
 Similarly, a seller of a variance swap is short volatility and profits if the level of variance sold (the variance swap strike).   
 exceeds that realised.  
 
-![](images/d8e70f8814628fab10e79180d19ae7b88795377f4c64d2599165e1489bf4c426.jpg)  
+![](d8e70f8814628fab10e79180d19ae7b88795377f4c64d2599165e1489bf4c426.jpg)  
 Figure 8: P/L of a variance swap  
 
 By convention, volatility is scaled by a factor of 100, for example a strike of 20 represents a volatility of. $20\%$ .Note that variance swap strikes are quoted in terms of volatility, not variance; but pay out based on the difference between the level of. variance implied by the strike (in fact the strike squared) and the subsequent realised variance. This means the $\mathbf{p}/1$ 0f a variance swap is non-linear (convex) with volatility, although of course it is linear in terms of variance..  
@@ -317,11 +317,11 @@ Ultimately this convexity is the reason that variance swaps strikes trade above 
 
 p/l for 100K vega notional, strike of 20 p/l for 100K vega notional, strike of 20  
 
-![](images/0957896ed5d482d948394edf1fe1150f621b3fce21fca26b7a765d48f37c9674.jpg)  
+![](0957896ed5d482d948394edf1fe1150f621b3fce21fca26b7a765d48f37c9674.jpg)  
 Figure 9 : When volatility remains close to the variance swap strike. the variance swap payout is similar to a linear "volatility swap" ...   
 Source : JPMorgan  
 
-![](images/68d994e3d7eebf79002e52145090aa333645b040af21deebc641fe8785ee1cf5.jpg)  
+![](68d994e3d7eebf79002e52145090aa333645b040af21deebc641fe8785ee1cf5.jpg)  
 Figure 10 : .. but for large swings in volatility, the convexity of the variance swap payout becomes important.   
 Source : JPMorgan  
 
@@ -352,11 +352,11 @@ Table 2: Daily p/l and cumulative realised volatility from a 20-day short varian
 
 Note how most days were low volatility and produced modest positive returns for the short variance position. However, a few days with relatively large moves caused significant daily losses (Table 2, Figure 12). This pattern is common: short variance will profit modestly most of the time, but will lose heavily on large moves..  
 
-![](images/0325fc436cebf9526ef95fc0a6f2fd2188cb0ed7090e82638109fd394a45d914.jpg)  
+![](0325fc436cebf9526ef95fc0a6f2fd2188cb0ed7090e82638109fd394a45d914.jpg)  
 Figure 11 : Index performance over the lifetime of the variance swap Euro Stoxx level   
 Source : JPMorgan  
 
-![](images/cc4d9d6284e6968ea86a5a2a3ca5994489f102876b51e0714b0e3027d08be09a.jpg)  
+![](cc4d9d6284e6968ea86a5a2a3ca5994489f102876b51e0714b0e3027d08be09a.jpg)  
 Figure 12 : Accrued volatility vs. daily returns   
 Source : JPMorgan  
 
@@ -390,7 +390,7 @@ Although the fair value at maturity (now 9 months in the future) is 312,500, we 
 
 If, after 3-months, 9-month LIBOR is. $4\%$ , the discount factor applied would be. $1/(1+\%\times0.04)=0.97$ .Hence the mark-to. market $\mathrm{p}/\mathrm{l}$ after 3 months would be equal to about $\mathbf{\epsilon}303\mathbf{\mathcal{A}}00$  
 
-![](images/afb58b4ca11296da21b3022afacccc2dd193535e968781ffbaaab43f71ae39ca.jpg)  
+![](afb58b4ca11296da21b3022afacccc2dd193535e968781ffbaaab43f71ae39ca.jpg)  
 Box 4: Variance swap mark-to-market  
 
 # Box 5: Calculating the variance swap mark-to-market  
@@ -536,11 +536,11 @@ to the rules of the appropriate exchange.
 
 One further issue with cash bids, is that the underlying will usually trade at close to the bid level after the offer has been accepted, often with close to zero volatility. However, the options are not unwound until the offer is declared unconditional. For example when Telefonica bid for O2 on 31 October 2005, it took until 3 January 2006 for the offer to go unconditional (Figure 14). Although outstanding options were settled at the implied volatility prevailing before the October bid, they were not unwound until the beginning of January, leading to two months of virtually zero accrued volatility on any outstanding variance swaps. In this case, given the size of the daily move on the day of the bid. $(+25\%)$ the 3-month realised volatility from the beginning of October up until the unconditional date on January 3rd, was around. $50\%$ well in excess of levels of implied variance trading before the bid. However, in cases where the move on the bid is smaller, and the time up until unconditional acceptance is longer, the low realised volatility over this period could hurt long variance swaps..  
 
-![](images/ceda66c6dbef205d1acbfc4125e143ef68541a54944811289c12b04e7a927e96.jpg)  
+![](ceda66c6dbef205d1acbfc4125e143ef68541a54944811289c12b04e7a927e96.jpg)  
 Figure 13 : The apparent drop in spot and consequent spike in volatility was entirely due to the payment of a single $6.3\%$ dividend.   
 Source : JPMorgan , Bloomberg  
 
-![](images/050bb5db7fbebce63dfa59955f65f700dc5f81437bd041833000e1f964dab0ad.jpg)  
+![](050bb5db7fbebce63dfa59955f65f700dc5f81437bd041833000e1f964dab0ad.jpg)  
 Figure 14 : O2 realised volatility collapsed following the bid. But the Iarge 1-day move from the bid was large enough to keep realised volatility high.   
 Source : JPMorgan, Bloomberg  
 
@@ -607,11 +607,11 @@ A 'medium' volatility regime up until mid 2002, with implied variance priced in 
 
 Longer maturity variance swap levels vary less, with 3-year implied variance remaining in the 15-35 range, and in particular reacting less to spikes. A sudden unexpected event likely to dramatically increase short-term volatility dramatically, is perhaps less likely to cause the same level of elevated volatility over the next few years.  
 
-![](images/3bf628db4dfea86ea0b624f3ae5e13f00920d18e1e0d7e2704d04c36be0a166f.jpg)  
+![](3bf628db4dfea86ea0b624f3ae5e13f00920d18e1e0d7e2704d04c36be0a166f.jpg)  
 Figure 15 : Euro Stoxx implied variance levels since 2000 Implied variance   
 Source : JPMorgan  
 
-![](images/ccc5f8f2e51c31b12f1cd1c41603ea0a7f37c59b88ad03dc2111668a5f14d043.jpg)  
+![](ccc5f8f2e51c31b12f1cd1c41603ea0a7f37c59b88ad03dc2111668a5f14d043.jpg)  
 Figure 16 : VIX (short-dated S&P500 variance) since 1990 VIX level realised   
 Source : JPMorgan  
 
@@ -655,11 +655,11 @@ Source : JPMorgan
 
 For example note that at 3-year maturity (Figure 18) the variance strikes of Ahold and ING are similar (around 27) even though their ATM implied volatilities differ by more ( $24\%$ VS. $27\%$ .Whilst this is partly due to the different forwards (ING has a dividend yield of $3.6\%$ ; Ahold doesn't pay a dividend) the skew surface of Ahold is relatively flat, whereas that of ING is more convex, due to much steeper put skews. Note also that at 6-month maturity the index variance appears somewhat rich in comparison to its ATM volatility. This is caused by the index having higher put skews than the singlestocks. However, at 3-year maturities, the greater upside convexity of the single-stocks becomes more important and the index variance appears to be priced in line with its ATM volatility in comparison to the single stocks.  
 
-![](images/ed0bf5423cb05b44641ef204c6a28dd335921caa3cff059285635d46222f2851.jpg)  
+![](ed0bf5423cb05b44641ef204c6a28dd335921caa3cff059285635d46222f2851.jpg)  
 Figure 17 : 6m variance swaps trade above 6m ATM implied volatility 6M implied variance   
 -Source : JPMorgan  
 
-![](images/554dd5f4c0421ff462cb69b67158478cacb871d5a2a68bf9c21619a203f90a4d.jpg)  
+![](554dd5f4c0421ff462cb69b67158478cacb871d5a2a68bf9c21619a203f90a4d.jpg)  
 Figure 18 : ... and longer maturities trade at a higher premium 3Y Implied variance   
 Source : JPMorgan  
 
@@ -674,11 +674,11 @@ Variance swap prices arise from a kind of weighted average of volatilities acros
 
 In practice, the contribution of the skew component means that variance swap strikes tend to trade at similar levels to OTM puts - usually around 95-100 strike for maturities of around 1-3 months (Figure 19), and 90-95 strikes for maturities of about a year (Figure 20). The skew, and convexity (in terms of the overall shape of the skew surface) become more important factors for pricing at longer dates, where the probability of reaching more OTM strikes increases (Figure 18).  
 
-![](images/ad5936a8e3314e36750fc8eec1714750b7330233e33026b6f8ddc87c842a650e.jpg)  
+![](ad5936a8e3314e36750fc8eec1714750b7330233e33026b6f8ddc87c842a650e.jpg)  
 Figure 19 : The VSToxx (theoretical interpolated mid variance price) generally trades just below the Euro-Stoxx 1M $95\%$ put volatility Implied volatility/variance   
 Source : JPMorgan  
 
-![](images/a461806f54c17afd45fee5989eec46d0d84ca37fdf49350a1032eb996c5aafc6.jpg)  
+![](a461806f54c17afd45fee5989eec46d0d84ca37fdf49350a1032eb996c5aafc6.jpg)  
 Figure 20 : 1Y Euro-Stoxx variance swaps trade closer to 90-strike put volatility Implied volatility/variance   
 Source : JPMorgan  
 
@@ -702,13 +702,13 @@ If the skew is assumed to be linear, at least for strikes relatively close to th
 
 In practice, this approximation tends to work best for short-dated index variance (up to about 1-year), where put skews are often relatively linear and call skews relatively flat, at least close to the money. As maturity increases and the OTM strikes have a greater effect on the variance swap price, the contribution of the skew becomes more important (Figure 21), but the inability of the approximation to account for the skew convexity can make it less accurate. Similarly, for singlestocks, where the convexity can be much more significant, even at shorter dates, the approximation can be less successful. Where the estimate is accurate it tends to be closer to the traded bid than the offer (Figure 22).  
 
-![](images/4e0ee5c9c75a06486bed0371d810b624872ddca76cef6a52c417d632d93006f7.jpg)  
+![](4e0ee5c9c75a06486bed0371d810b624872ddca76cef6a52c417d632d93006f7.jpg)  
 Figure 21: Variance swap prices are more sensitive to skew at longer maturities   
 Source : JPMorgan  
 
 Indicative Euro Stoxx 6-month variance swap prices  
 
-![](images/451f453fcdb30a2473accd9e710f85b905c5a0e5b4f3a96a06dacf2c1864bb48.jpg)  
+![](451f453fcdb30a2473accd9e710f85b905c5a0e5b4f3a96a06dacf2c1864bb48.jpg)  
 Figure 22: Derman's approximation has been relatively accurate for index variance, but can under-estimate the variance swap mid.   
 Source : JPMorgan  
 
@@ -789,11 +789,11 @@ Since variance swap levels move in close step with options implied volatility, t
 
 In common with options volatilities, one of the most important drivers of variance swap levels, at least at shorter maturities, is historical realised volatility (e.g. see Figure 16). The correlation between strikes of 1-month variance swaps. and the volatility realised over the previous month is 0.91 $\mathrm{R}^{2}=0.83$ , Figure 23).However, as maturity increases, the correlation (and beta) between variance swap prices and realised volatility decreases (Figure 24). Even at short maturities, realised volatility is not the only driver; evidenced by the fact that short-dated variance is superior to realised volatility as a predictor of future volatility (see p37).  
 
-![](images/b71b9c6c2432ddc414b2593d2ed1a27d4b3e8d7e1a31828e327c806c8a41bde2.jpg)  
+![](b71b9c6c2432ddc414b2593d2ed1a27d4b3e8d7e1a31828e327c806c8a41bde2.jpg)  
 Figure 23: Short-dated implied variance is driven by short-dated realised volatility   
 trailing 1M realised volatility Source : JPMorgan (Euro Stoxx 50 data since August 2000)  
 
-![](images/74e0c27de15d1fb411c706b48f2d44309d3151f4ed158bd4a2485b61f4fb4027.jpg)  
+![](74e0c27de15d1fb411c706b48f2d44309d3151f4ed158bd4a2485b61f4fb4027.jpg)  
 Figure 24 : Short-dated variance is most sensitive to realised volatility Correlation / beta   
 Source : JPMorgan (Euro Stoxx 50 data since August 2000)  
 
@@ -805,11 +805,11 @@ Finally, it should be added that variance swap flows can have a feedback effect 
 
 Whatever the drivers of variance swap levels, we do observe that they tend to trade above realised volatility, most notably at the index level. Whilst this variance premium is partly due to the convexity of the variance swap payout, the remainder is. the so-called volatility risk premium, which is the subject of the next section..  
 
-![](images/808059ca7df0f312149b4775f2de44eed428f9729347ea4a6d18f40009f08e0a.jpg)  
+![](808059ca7df0f312149b4775f2de44eed428f9729347ea4a6d18f40009f08e0a.jpg)  
 Figure 25 : Over short time periods, variance swap levels are inversely correlated with market level ...   
 Source : JPMorgan  
 
-![](images/9f80f420a5d4bfc912f176cffb9810ca64b3585ffd63e94fb09f554a1dc0be59.jpg)  
+![](9f80f420a5d4bfc912f176cffb9810ca64b3585ffd63e94fb09f554a1dc0be59.jpg)  
 Part 2: The Variance Swap Market   
 Source : JPMorgan  
 
@@ -821,11 +821,11 @@ part of the spread attributable to the convexity of the variance swap payout. Ba
 positions, at least on index underlyings, are biased to make a loss (Figure 27). Conversely, short index volatility positions are, on average, profitable. This bias is referred to as the volatility risk premium. In this section we.   
 investigate why this bias exists, what it represents and how it changes over time..  
 
-![](images/e7d6387a76a051ef827124bc9389af4cb1fa3a44cdc4b04f32a22aea04a5e744.jpg)  
+![](e7d6387a76a051ef827124bc9389af4cb1fa3a44cdc4b04f32a22aea04a5e744.jpg)  
 Figure 27 : Average returns from long variance are negative.. Variance swap p/l (vegas)   
 Source : JPMorgan  
 
-![](images/4b752197b33474466a555f6cd43a076313a721573dc34f3db5d72ee4a7fbe1c8.jpg)  
+![](4b752197b33474466a555f6cd43a076313a721573dc34f3db5d72ee4a7fbe1c8.jpg)  
 Figure 26 : ... with the relationship changing as volatility switches regimes   
 Figure 28 : ...but the tail is heavily skewed to the upside   
 Source : JPMorgan (p/l from 1m Euro Stoxx variance since Aug 2000)  
@@ -855,11 +855,11 @@ Secondly, part of the risk premium is attributable to the convexity of the varia
 
 Given these caveats, we characterise the risk premium as the 1-year rolling average of the spread between (estimated) 1-month variance swap strikes and 1-month realised volatility. Values seem to be relatively stable over time with the S&P risk premium varying between $2\%$ and $9\%$ since 1990, with an average value of $5\%$ .Euro Stoxx since 1999 is similar with an average risk-premium of about $4\%$ . The recent peak in risk premiums for both indices occurred in 2004, when volatility had subsided from its highs but risk-aversion remained elevated. Since then the risk premium has fallen from about $7\%$ to $2.4\%$ over 2 years on the Euro Stoxx (Figure 29), and from $5.8\%$ to $2.8\%$ on the S&P (Figure 30). Note that these measures include a convexity premium compensating for the negative convexity of a short variance swap as mentioned above.  
 
-![](images/43d3a00f13a0f9becdecbcdce2ec026210713c775e2bee7fb201ba09bee8dc63.jpg)  
+![](43d3a00f13a0f9becdecbcdce2ec026210713c775e2bee7fb201ba09bee8dc63.jpg)  
 Figure $29:$ Variance risk-premium on the Euro Stoxx 50 Volatility/ points   
 Source : JPMorgan  
 
-![](images/1ada6deeef0c0f33646af0918c33a8026c68381a310aff180a288bed94512369.jpg)  
+![](1ada6deeef0c0f33646af0918c33a8026c68381a310aff180a288bed94512369.jpg)  
 Part 2: The Variance Swap Market   
 Figure 30 : Variance risk-premium on the S&P500 Volatility points   
 Source : JPMorgan  
@@ -880,11 +880,11 @@ Jiven that implied variance appears to have better predictive power than prevail
 
 Mean reversion of volatility: the implied variance can take account of the current medium term "average"' of volatility and the fact that volatility tends to be mean-reverting within a regime. If volatility over the last year has been say $30\%$ , but over the last month $10\%$ , 1-month implied variance will likely be priced well above. $10\%$ Knowledge of forthcoming events: volatilities (especially short-dated) will tend to be marked up ahead of earnings seasons or other events likely to increase volatility. In this sense implied variance can be truly forwar. looking, whereas past realised volatility is not.. Risk aversion in the market: If investors are nervous and willing to pay extra for protection, they are perhaps also prepared to liquidate their positions quickly in a downturn and increase market volatility. Thus an increase in implied variance could precede an increase in realised volatility if the market sells off.  
 
-![](images/cfc9d6fc5ece7f4587ec3c9b08cfba7399f54c5746db9686e2077cf73b5ff29a.jpg)  
+![](cfc9d6fc5ece7f4587ec3c9b08cfba7399f54c5746db9686e2077cf73b5ff29a.jpg)  
 Figure 31 : 1-month realised volatility is relatively well correlated with realised volatility over the next month...   
 subsequent realised 1-month volatility  
 
-![](images/ecb4e3315160f60621ef9724cabc702fafea15a075a1e49f3c327205657c42bc.jpg)  
+![](ecb4e3315160f60621ef9724cabc702fafea15a075a1e49f3c327205657c42bc.jpg)  
 Part 2: The Variance Swap Market   
 subsequent realised 1-month volatility  
 
@@ -892,12 +892,12 @@ Instead of trying to predict future 1-month realised volatility using volatility
 
 Although short-dated implied variance is a relatively good predictor of subsequent realised volatility, the same is not true for longer maturities. Further in the future is harder to predict. Moreover, any edge of implied over realised volatility as a predictor for future realised effectively disappears for maturities longer than 3-months (Figure 34).  
 
-![](images/89e85ee9fa1beb96337d2f63bcab1a36c87157dddd9aeff49842cda2dc8ab50d.jpg)  
+![](89e85ee9fa1beb96337d2f63bcab1a36c87157dddd9aeff49842cda2dc8ab50d.jpg)  
 Figure ${\mathfrak{Z}}3:$ Correlation between implied variance and past and future realised variance   
 Source : JPMorgan (Euro Stoxx 50 data since Aug 2000)   
 Source : JPMorgan (Euro Stoxx 50 data since Aug 2000)  
 
-![](images/6c73ac5d3a28a02e8e2d53474b6dd527932ca6c35637abc432f733cd6edc7670.jpg)  
+![](6c73ac5d3a28a02e8e2d53474b6dd527932ca6c35637abc432f733cd6edc7670.jpg)  
 Figure $32:\ldots$ but the correlation of 1-month implied variance with subsequent realised variance is somewhat stronger   
 Figure $34:$ Correlation of implied variance with subsequent realised of similar tenor decreases with maturity.   
 Source : JPMorgan (Euro Stoxx 50 data since Aug 2000)   
@@ -913,13 +913,13 @@ The convex payout means that a variance swap must be worth more than a hypotheti
 
 We can attempt to quantify the price paid for the convexity by computing the difference between the variance swap strike and the ATM volatility, implicitly assuming that we could trade a "volatility swap' linear in volatility, struck at ATM implied volatility. We can then compare the (linear) payoff from the volatility swap with the (convex) payoff of the variance swap to estimate the value of convexity.  
 
-![](images/896ba9ff76d13882ddd65f8b39b0ed4b2402fa7d859ff746653b3a2187bcd07d.jpg)  
+![](896ba9ff76d13882ddd65f8b39b0ed4b2402fa7d859ff746653b3a2187bcd07d.jpg)  
 Figure $35:$ Measuring the value for variance swap convexity Extra vega p/l due to convexity (var swap -- vol swap p/l)   
 Source : JPMorgan  
 
 subsequent realised 1-month volatility  
 
-![](images/d031b6f81b3767758bf16db0a766849f60923dd4e5e9143de2eb4009f3a12e04.jpg)  
+![](d031b6f81b3767758bf16db0a766849f60923dd4e5e9143de2eb4009f3a12e04.jpg)  
 Figure $36:1$ -month implied variance has some predictive power for future realised variance.   
 1-month implied variance   
 Source : JPMorgan (Euro Stoxx 50 data since Aug 2000)  
@@ -932,36 +932,36 @@ We can also calculate an implied' variability of volatility by considering the s
 
 Although, this figure of $6\%$ volatility of volatility for the Euro Stoxx is a long term average (Aug 2000 - Sep 2006), like volatility, it changes over time. By estimating this standard error, on a rolling 1-year basis, we see that it has a minimum of just below $2\%$ and a maximum around $10\%$ , the changes roughly reflecting ambient levels of realised volatility (Figure 39). We observe a similar pattern, but slightly lower range for the S&P (Figure 40). Notice also that over the last few years, Euro Stoxx implied volatility of volatility has been more or less in line with the actual variability of volatility (variance appears fairly priced with respect to ATM volatility), but in the US, S&P implied volatility of volatility has consistently over-estimated the actual variability of volatility (variance is overpriced with respect to ATM volatility; skew/convexity is too high)  
 
-![](images/87900ef0c34f1c2fdd34913203f53ade494d15d08888f72fa3bcf6472feb81c7.jpg)  
+![](87900ef0c34f1c2fdd34913203f53ade494d15d08888f72fa3bcf6472feb81c7.jpg)  
 Figure 37 : Variance swaps trade at a premium to ATM volatility   
 Source $:$ JPMorgan (Euro Stoxx 50 data since Aug 2000)  
 
-![](images/6b729126a34d90077e941a1b487fb99658adf5530b3761ee34629147f82b24a7.jpg)  
+![](6b729126a34d90077e941a1b487fb99658adf5530b3761ee34629147f82b24a7.jpg)  
 Figure 38 : The spread between variance and ATM volatility reflects the implied volatility of volatility.   
 Spread / implied volatility of volatility  
 
-![](images/fe464c1d6f949fa36b10fa501d65c24cbc7fe7dc2eafd818065df0afb6a2c7cd.jpg)  
+![](fe464c1d6f949fa36b10fa501d65c24cbc7fe7dc2eafd818065df0afb6a2c7cd.jpg)  
 Figure 39 : Euro Stoxx 50: implied and realised volatility of volatility Implied/realised volatility of volatility   
 Source : JPMorgan  
 
-![](images/91f24d95d20cd8c1d7f3b831ee44bddc7033c3c6134ccca5b619a06a40d96c18.jpg)  
+![](91f24d95d20cd8c1d7f3b831ee44bddc7033c3c6134ccca5b619a06a40d96c18.jpg)  
 Figure 40 : S&P 500: implied and realised volatility of volatility Implied/realised volatility of volatility   
 Source : JPMorgan (Euro Stoxx 50 data since Aug 2000)   
 Source : JPMorgan  
 
 Note that there is a strong correlation between volatility and the spread between variance swap levels and ATM volatility. This makes sense, if we believe that the volatility of volatility is correlated with volatility (Figure 41, Figure 42).. That is, large (absolute) changes in volatility are more likely when volatility is high that when volatility is low. This is not surprising: when volatility is low, it is generally stable (give or take the odd spike); when volatility is high it tends to swing. about more wildly.  
 
-![](images/be4e91fba0ac350eea87522bd8bc0075628710566096e872f1eef34bd76f9823.jpg)  
+![](be4e91fba0ac350eea87522bd8bc0075628710566096e872f1eef34bd76f9823.jpg)  
 Figure 41 : Volatility is correlated with volatility of volatility Volatility / volatility of volatility   
 Source : JPMorgan (Euro Stoxx 50 data since 1987)  
 
-![](images/923b03d28918514e56adf2bc52ded9671bcb437af58241f55d0c194682d0e18b.jpg)  
+![](923b03d28918514e56adf2bc52ded9671bcb437af58241f55d0c194682d0e18b.jpg)  
 Figure 42 : Correlation of 1-year realised volatility, with the variability of the volatility realised over each of the 12 months Stddev of monthly realised volatilities over the year   
 Source : JPMorgan (Euro Stoxx 50 data since 1987)  
 
 Estimates for the expected volatility of volatility are used for pricing options on variance. However in the case of variance swaps they are also of use for pricing variance swap caps. A long capped variance swap can be thought of as a standard variance swap plus a short call on variance, stuck at the cap level (Figure 43). A standard cap of. $2.5\mathbf{x}$ current implied variance strike is relatively far out-of-the-money, assuming that the volatility of volatility is not too large. This means that the value of the cap should be relatively small compared to the variance swap strike and should not have a major effect on pricing. However, for a long position, a variance swap with a cap will always be worth less than an uncapped variance swap of the same strike. Therefore capped variance swaps must trade with strikes slightly below their uncapped equivalents the difference, in theory, representing the current value of the call on variance.  
 
-![](images/d19ebf2faf8c40b5ab392bb56aa1c2d7c2d428258dd410029a3308f91eb0a60f.jpg)  
+![](d19ebf2faf8c40b5ab392bb56aa1c2d7c2d428258dd410029a3308f91eb0a60f.jpg)  
 Figure $43:$ A capped variance swap is equivalent to a covered call on variance   
 Source : JPMorgan  
 
@@ -980,11 +980,11 @@ Variance swap term structures (in common with ATM volatility term structures) ar
 
 The variance swap curve can also be thought of representing the mean-reverting nature of volatility. The short end is. most sensitive to prevailing levels of realised volatility (Figure 45), whereas the long end (5-years. $+$ ) tends to be more anchored to some long-term estimate of average volatility. However, longer-dated volatility is also driven by structured product flows and tends to be more susceptible to supply/demand dynamics.  
 
-![](images/6052862b1dc3f39c04355627931c17d28b52619d17e4bdb0f43954617de45b94.jpg)  
+![](6052862b1dc3f39c04355627931c17d28b52619d17e4bdb0f43954617de45b94.jpg)  
 Figure $44:$ Euro Stoxx term structure COB 23 October 2006 Implied volatility/variance   
 Source : JPMorgan  
 
-![](images/02399dd5853db4940f3e49949f816d1bb469097b9f81fe935a61db67ae650b70.jpg)  
+![](02399dd5853db4940f3e49949f816d1bb469097b9f81fe935a61db67ae650b70.jpg)  
 Figure 45 : Short-dated volatility is driven by short-dated realised Implied volatility/variance   
 Source : JPMorgan  
 
@@ -994,7 +994,7 @@ Another important point to consider, especially for longer maturity trades, is t
 
 These observations help to explain why investors can be reluctant to sell long-dated variance at seemingly high levels (e.g. $25\%$ for Euro Stoxx 5-years) when the relevant indices have almost never realised these levels over any 5 year period (Figure 46). For example, in 1998 LTCM experienced crippling mark-to-market losses on short positions on long-dated volatility. As it happened, 1998-2003 was probably the worst 5-year period in the last half-century to be short realised volatility, so this particular trade may well have lost even if it had been held to maturity.  
 
-![](images/bce8ef55476fab758257675b41ec246ff9dcf7a0c76ebcacfbe8b59ce9a922c0.jpg)  
+![](bce8ef55476fab758257675b41ec246ff9dcf7a0c76ebcacfbe8b59ce9a922c0.jpg)  
 Figure 46 : Realised index volatility has rarely exceed $25\%$ over 5 years 5-year realised volatility   
 Source : JPMorgan  
 
@@ -1004,11 +1004,11 @@ Typical movements of term structures can be explained in part by the "root-time'
 
 Analysis of term structure movements is very important especially for long forward volatility trades. Here, the loss due the slide from moving down a normal term-structure is traded-off against the savings in carry due to the elimination of exposure to realised volatility. Direct trades on the predicted evolution of the variance maturity curve are also possible (Section 3.9).  
 
-![](images/6b86b76741c079ed63ad30c7056abf07250bc7e9a7a995bd60fbad3872009017.jpg)  
+![](6b86b76741c079ed63ad30c7056abf07250bc7e9a7a995bd60fbad3872009017.jpg)  
 Figure 47 : Variance term structure moves more at the short end... Implied variance   
 Source : JPMorgan (Euro Stoxx 50 data)  
 
-![](images/876ca1c39ffdb6f3564971b84ba6fc7010b5c1e6e6442d777c20a665fd252812.jpg)  
+![](876ca1c39ffdb6f3564971b84ba6fc7010b5c1e6e6442d777c20a665fd252812.jpg)  
 Part 2: The Variance Swap Market   
 Figure 48 : ...as demonstrated by the May 2006 volatility spike when the short end inverted and the longer end flattened.   
 Source $:$ JPMorgan (Euro Stoxx 50 data)  
@@ -1083,7 +1083,7 @@ We have back-tested the strategy of selling 1-month S&P variance on the first da
 
 Results from back-testing are very encouraging (Figure 49). Average returns are 2.3 vegas per month, with 161 of the 196 months yielding positive returns (Table 10). Nevertheless, the maximum gain $(14.8\%)$ is much less than the maximum loss $(22.6\%)$ and there were four months with losses greater than $10\%$ , compared with only two months with gains greater than $10\%$ - indicating the negative tails of the return distribution (see e.g. Figure 28). This is also seen when comparing the standard deviation of negative returns $(5.2\%)$ with that of the positive returns (only $2.5\%$ ). Although positive returns dominate, losses are relatively infrequent but can be large and unpredictable.  
 
-![](images/fb16ecef0072a3fe4ba125035fcf2492b3e0fe02d2dd5c4aa916e5c50112d6ac.jpg)  
+![](fb16ecef0072a3fe4ba125035fcf2492b3e0fe02d2dd5c4aa916e5c50112d6ac.jpg)  
 Figure 49 : Performance of rolling short variance on the S&P Vega points   
 Source : JPMorgan  
 
@@ -1106,7 +1106,7 @@ subsequent vega-notional will be 0.36875 index points.
 
 In contrast if realised volatility over the next month was only. $10\%$ the $\mathsf{p}/\mathsf{l}$ would be: $0.5\times(20^{2}–10^{2})/(2\times20)=0.5\times7.5=$ 3.75ip, the new index level would be 103.75, and the new vega notional equal to 0.51875 index points.  
 
-![](images/0ea46d729c27760ad2353d7b2055cd080ffe5ba06fab479ea87fe4e9653953a9.jpg)  
+![](0ea46d729c27760ad2353d7b2055cd080ffe5ba06fab479ea87fe4e9653953a9.jpg)  
 Figure $50:$ Index performance from rolling short variance strategy Index performance   
 Source : JPMorgan, results from Mar 1990 - Jul 2006  
 
@@ -1126,23 +1126,23 @@ With returns from short volatility trades somewhat un-correlated with the underl
 
 One of the notable features of the returns of a rolling short volatility index is its similarity to returns of a bond index (Figure 51, Figure 52). In rolling short variance, regular periods of positive $\mathsf{p}/\mathsf{l}$ resulting from the spread between implied and realised are punctuated by large losses arising from spikes in volatility. In bond indices, the regular. $\mathsf{p}/\mathsf{l}$ resulting from coupon payments and accrued interest is punctuated by capital losses caused by rising yields, or, in the case of credit portfolios, defaults. In the same way as interest is the payment required for providing financial capital, the implied -. realised volatility premium can be thought of as the payment required for providing "equity-insurance" capital.It is this. "equity-insurance' capital that can be considered an alternative asset class that can be invested in and the payment received is captured through a rolling short variance swap strategy.  
 
-![](images/c828559943f84c2921443e576bb9af3407cfbb576f6a0f62e3b54060012e82b9.jpg)  
+![](c828559943f84c2921443e576bb9af3407cfbb576f6a0f62e3b54060012e82b9.jpg)  
 Figure 51 : Index performance from rolling short variance strategy   
 Source : JPMorgan  
 
-![](images/0da8c0a871ae73ff124c718dc5045b8e21d7f69f69953c025e287bfd212e3552.jpg)  
+![](0da8c0a871ae73ff124c718dc5045b8e21d7f69f69953c025e287bfd212e3552.jpg)  
 Figure 52 : Bond index performance - JPMorgan USD traded bonds   
 Source : JPMorgan  
 
 Hence, volatility (or more correctly the implied - realised spread) can be thought of as an asset class in its own right. Moreover since there is relatively low correlation between the $\mathbf{p}/1$ from short variance and the underlying equity market, it can be used within a portfolio to diversify returns (Figure 53, Figure 54).  
 
-![](images/b826d9cba9a68f03bd18da35c6586a2b0a90c65ab1b49bb9c133b8e5b9fb9553.jpg)  
+![](b826d9cba9a68f03bd18da35c6586a2b0a90c65ab1b49bb9c133b8e5b9fb9553.jpg)  
 Figure 53 : Efficient frontier of stock plus bond moves further out by adding short variance....   
 Source : JPMorgan  
 
 Asset allocation, white dashed line is optimal allocation split for bond $^+$ equity only  
 
-![](images/9dc206719bc3dcbae0abb0687582eb810d7c964a2625a493d25cc28837203754.jpg)  
+![](9dc206719bc3dcbae0abb0687582eb810d7c964a2625a493d25cc28837203754.jpg)  
 Figure $54:\ldots$ and variance generally replaces bonds in asset allocation along the efficient frontier.   
 Source : JPMorgan  
 
@@ -1169,11 +1169,11 @@ The second type of spread trading involves taking opposing volatility positions 
 
 One of the characteristics of a low market volatility regime is the compression of volatility spreads across stocks and indices. This is highlighted by the contraction of cross-sectional deviation between different index realised volatilities whenever overall market volatility becomes more subdued (Figure 55).  
 
-![](images/ecdfbe5ad817654f1d4441fd5eabc4a370eb69f4230d55854d5dc7bd96ba8b29.jpg)  
+![](ecdfbe5ad817654f1d4441fd5eabc4a370eb69f4230d55854d5dc7bd96ba8b29.jpg)  
 Figure 55: Spreads between different indices have compressed as implied volatility has fallen....   
 Source: JPMorgan  
 
-![](images/50dd35f196682abbbd3235f2b61c57b24e933702a2f6afc58d71a8dc6bef2c95.jpg)  
+![](50dd35f196682abbbd3235f2b61c57b24e933702a2f6afc58d71a8dc6bef2c95.jpg)  
 Figure 56: ...while there has been a general trend of increasing correlation between indices.  
 
 Moreover, in the current period of low volatility (2004-2006), this deviation of index volatility is now close to its all-time lows, though this may also be a consequence of the trend of increasing correlation between indices globally over the last few years (Figure 56).  
@@ -1184,11 +1184,11 @@ As an example of this type of trade, we look at the behaviour of DAX volatility 
 
 Another important feature of the DAX / Euro Stoxx volatility spread is that it tends to widen as volatility increases. This is a consequence of the volatility beta effect, which sees DAX realised volatility increase (and then decrease) by more than Euro Stoxx realised volatility. We can quantify this effect by looking at the beta of a regression of DAX on Euro Stoxx 6- month realised volatility, which has been about 1.25 over the last three years and 1.05 over the last fifteen years (Figure 58).  
 
-![](images/99da9d92e8841d90ca9c542d5684e5877eb44d723a3a8b567414e25562f355df.jpg)  
+![](99da9d92e8841d90ca9c542d5684e5877eb44d723a3a8b567414e25562f355df.jpg)  
 Figure 57: DAX tends to realise more volatility than the Euro Stoxx .. 6M realised volatility   
 Source: JPMorgan  
 
-![](images/fdaa3513161791da5573f1f3cd8a23071b3e6b71de4ec1d470bbea6261d737ae.jpg)  
+![](fdaa3513161791da5573f1f3cd8a23071b3e6b71de4ec1d470bbea6261d737ae.jpg)  
 Figure 58: ... and spread tends to expand as volatility increases   
 6M Euro Stoxx 50 realised volatility   
 Source: JPMorgan, data since 1991  
@@ -1205,13 +1205,13 @@ Suppose instead we consider the $\mathsf{p}/\mathsf{l}$ of being long the DAX/Eu
 
 To compare these two alternatives fairly, we scale the $\mathrm{p}/\mathrm{l}$ of the spread trade by its standard deviation of returns. In this case, this leads to a $\mathrm{p}/\mathrm{l}$ of $1.7\%$ , less than the $3.6\%$ of the long DAX variance trade. However, much of this difference is. due to the higher assumed bid offer costs for executing the spread trade. Also note that the returns for the spread trade are more normally distributed than those of the long DAX trade (Figure 60).  
 
-![](images/e5c09ad21435832533be16a2e9b30e422ee5685054a9a0f863781b2151f2789f.jpg)  
+![](e5c09ad21435832533be16a2e9b30e422ee5685054a9a0f863781b2151f2789f.jpg)  
 Figure 59: Long DAX variance p/l is similar to the spread trade against Euro Stoxx ....   
 Source: JPMorgan; assuming prevailing variance levels as of 25 Sep 2006  
 
 Population of p/l scenarios  
 
-![](images/3f91d262297332bb156b38f27d8e02b8d6f3995d6bd62fbb60b3d034d3427d8a.jpg)  
+![](3f91d262297332bb156b38f27d8e02b8d6f3995d6bd62fbb60b3d034d3427d8a.jpg)  
 Part 3: Uses of Variance Swaps   
 Figure 60: ... but the spread trade does have a more normally distributed p/I   
 Source: JPMorgan; assuming prevailing variance levels as of 25 Sep 2006  
@@ -1234,11 +1234,11 @@ Of course sometimes a divergence in implied variances of two stocks whose varian
 
 To some extent we can screen out these type of scenarios by also considering the z-score arising from the ratios of realised volatilities. If the realised volatility ratio has recently diverged from its long-term average in the same way as the ratio of implied variances, then the change in the implied variance ratio may be justified, and no trading opportunity exists. Thus. the trick is to look for pairs with a high z-score in their implied volatility ratio, which is not reflected in a corresponding high z-score for their realised volatility ratio (Figure 61, Figure 62)..  
 
-![](images/102f0b53b62e11277c554389b4e61994708c1ea17bd4b70184b0b5696597356d.jpg)  
+![](102f0b53b62e11277c554389b4e61994708c1ea17bd4b70184b0b5696597356d.jpg)  
 Figure 61: Alcatel implied volatility increased in relation to Cap Gem... 1Y Implied volatility implied volatility ratio   
 Source: JPMorgan  
 
-![](images/885699658f60253b83a6fd2dc33d14406483423fd5cc25a4b0da80bc4c1c6969.jpg)  
+![](885699658f60253b83a6fd2dc33d14406483423fd5cc25a4b0da80bc4c1c6969.jpg)  
 Figure 62:...but this is not reflected in the ratio of realised volatilities 3M realised volatility realised volatility ratio  
 
 Source: JPMorgan  
@@ -1259,7 +1259,7 @@ Figure 63 and Table 11 show the results of the cross-sectional regression model 
 
 We have backtested this method by trading selected stock variances from a universe of major European names - buying variance on the 10 stocks with the cheapest looking variance according to this metric and selling variance on the 10 richest looking names.Results are good, with around 6 vegas average. $\mathsf{p}/\mathsf{l}$ (pre-bid/offer) since 2003 from trading the spread between the long and short variance baskets. See European Equity Derivatives Weekly, 21 November 2005 and. "Introducing JPMorgan's Cross-Sectional Volatility Report", November 2006 for further details.  
 
-![](images/1ad6676303819cc62d3bef9d0d495a15c19827fc500bf212e6b19549a8b984f2.jpg)  
+![](1ad6676303819cc62d3bef9d0d495a15c19827fc500bf212e6b19549a8b984f2.jpg)  
 Figure 63: Cross-sectional model: stocks with rich volatility appear above line; those with cheap volatility below it.   
 cross-sectional model implied volatility   
 Source: JPMorgan  
@@ -1303,11 +1303,11 @@ Like volatility, correlation usually trades at a premium to realised levels (Fig
 
 Euro Stoxx 50 6m correlation  
 
-![](images/c8cb80537a7e8468eca7ddd7993d001bcc53cf6daf8bb054fb2f11e7c7faee32.jpg)  
+![](c8cb80537a7e8468eca7ddd7993d001bcc53cf6daf8bb054fb2f11e7c7faee32.jpg)  
 Figure 64 : Implied correlation tends to trade at a premium to realised   
 Source : JPMorgan  
 
-![](images/54aea053a6a4317baf45e8042a83f16c7d888c973496f0cc46fb78059078bc3c.jpg)  
+![](54aea053a6a4317baf45e8042a83f16c7d888c973496f0cc46fb78059078bc3c.jpg)  
 Part 3: Uses of Variance Swaps   
 Figure 65 : rolling $\mathsf{p}/\mathsf{l}$ of variance dispersion reflects the spread. between implied and realised correlation, but is diminished by low volatility  
 
@@ -1327,11 +1327,11 @@ One of the strengths of variance swaps is the ease of pricing and constructing f
 
 The first analogy is to use forward variance to trade the future volatility of an underlying, in a similar way that. investors use Euribor, EuroDollar or Fed Funds interest rate futures to trade the future direction of interest rates. For example, investors expecting a more prolonged hiking cycle from ECB will sell Euribor futures at far out maturities. expecting the yield curve to steepen (Figure 66). Likewise investors expecting a pick up in volatility that is greater than that currently priced in, can buy forward starting variance swaps to express their view (Figure 67)..  
 
-![](images/6d5be3a22c3952769aa7c1ecc5c03831fc2d355838f86df67247371dc0a65d10.jpg)  
+![](6d5be3a22c3952769aa7c1ecc5c03831fc2d355838f86df67247371dc0a65d10.jpg)  
 Figure $66:$ Forward interest curve compared to history. 3-month Euribor   
 Source : JPMorgan  
 
-![](images/d7149da06c76407b7c3193dbcae8596b119f442814aeb1357d43f54f6421808e.jpg)  
+![](d7149da06c76407b7c3193dbcae8596b119f442814aeb1357d43f54f6421808e.jpg)  
 Figure 67 : Forward variance compared to history 3-month volatility   
 Source : JPMorgan  
 
@@ -1359,21 +1359,21 @@ The behaviour of changes in the implied variance curve can be analysed using pri
 
 Change in implied variance  
 
-![](images/52562a16f605da47e81d67d4cfa4ecfe9dac286a8ca9e2f9ea2c1f07a0787048.jpg)  
+![](52562a16f605da47e81d67d4cfa4ecfe9dac286a8ca9e2f9ea2c1f07a0787048.jpg)  
 Figure $68:$ Principal component decomposition of Euro Stoxx volatility curve since 2000   
 Source : JPMorgan  
 
-![](images/d2448bdd68c95e134808b099571592461c80d5e5aad7e421f23e0da0aaa122a5.jpg)  
+![](d2448bdd68c95e134808b099571592461c80d5e5aad7e421f23e0da0aaa122a5.jpg)  
 Figure 69 : Principal component decomposition of Euro Stoxx volatility curve since 2o00 ... the first component has flattened through time Change in implied variance   
 Source : JPMorgan  
 
 If we also look at how the first component has changed through time, Figure 69 shows that primary curve moves have become more parallel over the last 2 years. This is illustrated by considering the movements in the variance curve following the volatility spikes in April 2005, October 2005 and May/June 2006 (Figure 73). These moves have often been relatively parallel, at least up to the 2-year maturity, consistent with the observed flattening of the first principal component changes. At the same time however, secondary twist-like moves have become relatively more important, as shown in Figure 71. This means that curve twists have become more independent and less well correlated to the direction of. volatility.  
 
-![](images/878416839768221026a3cc033a936f73769442359f4593bfdccec3bb71510c07.jpg)  
+![](878416839768221026a3cc033a936f73769442359f4593bfdccec3bb71510c07.jpg)  
 Figure 70: Movements in variance term structure predicted by the principal components analysis model   
 Source : JPMorgan  
 
-![](images/a1fbf6e8c712659a6b9eec22a1c5c9ab144c5c1bc6103eb190610c37eca62c44.jpg)  
+![](a1fbf6e8c712659a6b9eec22a1c5c9ab144c5c1bc6103eb190610c37eca62c44.jpg)  
 Figure 71 : Euro Stoxx principal component analysis: weight of second (twist) component has increased over the last 5 years.   
 Source : JPMorgan  
 
@@ -1399,22 +1399,22 @@ There is not a strong pattern of reduction in volatility in the first month foll
 
 The short lived spikes tend to outnumber the longer-lived spikes by about 3 to 1.  
 
-![](images/689730cccc4a4c6701717c577dc2853a58b51c5e20ff7f33da7433a9f4cbb0fd.jpg)  
+![](689730cccc4a4c6701717c577dc2853a58b51c5e20ff7f33da7433a9f4cbb0fd.jpg)  
 Figure 72: Volatility tends to reset higher following longer-lasting spikes   
 Source: JPMorgan: Data for DJIA since 1900  
 
-![](images/56031e9b6e25a6b221cf8e855bc5c675c836c01f2b874bcc23b6fcbc6dfa5d6b.jpg)  
+![](56031e9b6e25a6b221cf8e855bc5c675c836c01f2b874bcc23b6fcbc6dfa5d6b.jpg)  
 Figure 73: Changes to the Euro Stoxx 50 variance term structure during the volatility spike in May/June 2006. Implied variance  
 
 Source: JPMorgan  
 
 Given that we can make an assumption on the likely timing of a spike and have a reasonable idea, from PCA, on how it will affect the curve, we can estimate the likely $\mathsf{p}/\mathsf{l}$ from holding different maturity (spot or forward starting) variance swaps.. We can then gauge which variance swap offers the best cost/benefit profile given the prevailing variance term structure..  
 
-![](images/e1885204851da055e9d458bd19dbe0611956f5909619e7d4ad5b8f3b613a44b4.jpg)  
+![](e1885204851da055e9d458bd19dbe0611956f5909619e7d4ad5b8f3b613a44b4.jpg)  
 Figure 74: Variance swap term structure as of 20 October 2006 Implied variance   
 Source: JPMorgan  
 
-![](images/e93cda77a2510ace516539f597542b9360c54f57618955368f36960e75d526d0.jpg)  
+![](e93cda77a2510ace516539f597542b9360c54f57618955368f36960e75d526d0.jpg)  
 Figure 75: Expected cost of carry and slide over the next 3-months assuming realised volatility of $12\%$   
 Source: JPMorgan  
 
@@ -1432,12 +1432,12 @@ Figure 76 and Figure 77 show the expected $\mathsf{p}/\mathsf{l}$ of 6-months va
 
 The shorter maturity forward starting variance does best if the magnitude of the shift is large and happens within the next few months. If the move up happens later, the low realised volatility before the spike increases the breakeven of this maturity. The 9-month forward starting maturity does well in most scenarios as the low slide helps mitigate the cost of holding the long volatility position.  
 
-![](images/f89a5943b26a29f2d9758fab56b6d443f66bdd4b87a90cfb0663023c0a99ae39.jpg)  
+![](f89a5943b26a29f2d9758fab56b6d443f66bdd4b87a90cfb0663023c0a99ae39.jpg)  
 Figure 76: p/l if spike in implied volatility were to happen in 3- months, assuming realised volatility of. $12\%$ until then   
 Change in 1-year variance strike   
 Source: JPMorgan  
 
-![](images/009c3de6076e13beca0b8af48729a12f090b80169fa7ba7bbd355adce0dec3eb.jpg)  
+![](009c3de6076e13beca0b8af48729a12f090b80169fa7ba7bbd355adce0dec3eb.jpg)  
 Figure 77: p/l if spike in implied volatility were to happen in 4- months, assuming realised volatility of. $12\%$ until then   
 Change in 1-year variance strike   
 Source: JPMorgan  
@@ -1455,11 +1455,11 @@ accrued much negative realised carry prior to the spike (Figure 78).
 
 However in the January example, the spot variance performed relatively poorly, since by the time that the volatility spike. occurred, previous low realised volatility had increased the required breakeven level, and also the residual exposure to implied volatility had fallen. In contrast the forward starting variance swaps did much better, participating more fully in the spike in implied volatility. Moreover the long maturity 12-month forward did almost as well as the 6-month forward, which had the added advantage of being an almost spot instrument at the time of spike (Figure 79)..  
 
-![](images/cd1a68a1eec8dc1e32f115fc6e2ae29acfa517e4d7a770adda0a7cab3e649710.jpg)  
+![](cd1a68a1eec8dc1e32f115fc6e2ae29acfa517e4d7a770adda0a7cab3e649710.jpg)  
 Figure 78: The p/l of various long 6-month term variance strategies starting in May   
 Source: JPMorgan  
 
-![](images/bd2fb567214797ec4229a76c782e57d37486ac3719c3a874a5856b221fba7bba.jpg)  
+![](bd2fb567214797ec4229a76c782e57d37486ac3719c3a874a5856b221fba7bba.jpg)  
 Figure 79 The p/l of various long 6-month term variance strategies starting in January   
 Source: JPMorgan  
 
@@ -1469,18 +1469,18 @@ Whilst we have shown that variance swaps are useful for taking a direct view on 
 
 The first example attempts to take advantage of a flattening of volatility term structures (Figure 80). In this case, in. mid-May 2006, the Euro Stoxx 50 1-year-2-year implied variance spread had come close to its two-year lows (Figure 81), which in turn left 1-year variance 1-year forward close to its lows as seen in early 2005 (Figure 82). This meant that the. market was implying a similar outlook for forward realised volatility in May 2006 as it had at the beginning of 2005. This appeared to be somewhat contradictory given the macro economic concerns prevailing at the time..  
 
-![](images/25cbfbebe036ff2d269a5408ea80b5943740fdd0fa95f75923eb7ab7d219fbed.jpg)  
+![](25cbfbebe036ff2d269a5408ea80b5943740fdd0fa95f75923eb7ab7d219fbed.jpg)  
 Figure 80 : Euro Stoxx 50 curve had flattened up to 15th May Variance swap level   
 Source : JPMorgan  
 
-![](images/bac1185b183cfef90c751e4c8e2b5d97b72a24f6f953ab7314473779c26f7042.jpg)  
+![](bac1185b183cfef90c751e4c8e2b5d97b72a24f6f953ab7314473779c26f7042.jpg)  
 Figure 82 : Euro Stoxx 50: 1 year 1 year forward variance had come down relative to spot variance.   
 Source : JPMorgan  
 
-![](images/2275a3ef6ffbcefdf393123494881cf8d791d71ca3945420f0dc23915f74764a.jpg)  
+![](2275a3ef6ffbcefdf393123494881cf8d791d71ca3945420f0dc23915f74764a.jpg)  
 Figure 81 : ... and particularly in the 1-2 year part of the curve Volatility Volatility  
 
-![](images/b5ed3678de862f7a6fee4d6f0d3f9eea39c0db23495b6ca889a6801f902bc4c4.jpg)  
+![](b5ed3678de862f7a6fee4d6f0d3f9eea39c0db23495b6ca889a6801f902bc4c4.jpg)  
 Figure 83 : ... especially accounting for the level of volatility   
 Source : JPMorgan, data since Aug 2000  
 
@@ -1496,11 +1496,11 @@ The second example aims to take advantage of a Euro Stoxx 50 term structure that
 
 Whilst this could have reflected anticipation on the part of investors of an increase in volatility over the following months, this slope appeared steep compared to the overall level of implied volatility (Figure 85). As the level of implied volatility falls, the spread between the near term forwards and those further out usually widens. However as the May-2006 volatility spike receded this spread of forwards stayed narrow, reflecting an expectation on the part of investors for a near-term move up in implied volatility.  
 
-![](images/0a5d0673b844edd7be316eb1eaf49a2fc3361d270afd1b630668ccb656a25b79.jpg)  
+![](0a5d0673b844edd7be316eb1eaf49a2fc3361d270afd1b630668ccb656a25b79.jpg)  
 Figure 84: Euro Stoxx term structure bulged compared to FTsE ...   
 Source: JPMorgan  
 
-![](images/374235ea0c7c3af4c6799f0abc35b2463f886d240d200abb107384ee965e97db.jpg)  
+![](374235ea0c7c3af4c6799f0abc35b2463f886d240d200abb107384ee965e97db.jpg)  
 Figure 85: ... meaning that near maturity Euro Stoxx forwards look high compared to further out maturity forwards.  
 
 Nonetheless, by assuming that the relationship between this spread and spot implied variance would hold, it can be seen that a spread which is long 6-month variance 9 months forward and short 6-month variance 3 months forward, is equivalent (at least according to a regression) to selling a spot 6-month variance but at higher than prevailing levels.  
@@ -1559,7 +1559,7 @@ Breakeven $=\mathrm{sqrt}(16^{2}-2\times16\times547/100)$ , as per construction
 
 Table 12 shows breakeven realised volatility levels for different market levels, for two different put overlays. The first overlay targets an upside breakeven volatility of $9\%$ , as per the calculations above. The second involves selling fewer puts, which lowers the downside volatility breakeven at the expense of an increased upside breakeven - in this case $12\%$  
 
-![](images/44f7abec58f4262c7eff815bdc6868b43f6b107cd183dfe4b0b1892dce393481.jpg)  
+![](44f7abec58f4262c7eff815bdc6868b43f6b107cd183dfe4b0b1892dce393481.jpg)  
 Figure $86:$ Long variance and short put can better reflect the tendency of volatility to rise is a sell-off..   
 Source: JPMorgan  
 
@@ -1576,11 +1576,11 @@ This concept of shorting puts against a long variance swap position, effectively
 
 Investors may wish to consider trading variance swaps against credit default swaps (CDS) to exploit any discrepancies between the equity and credit markets. Both variance swaps and CDS give some measure of the risk associated with a particular company, and should be to some extent correlated. This can be seen when the relationship is aggregated to the index level. Here credit and CDS indices such as Maggie and iTraxx show a strong relationship to Euro Stoxx 50 implied variance in Europe (Figure 87) and in US the CDX HG and HY indices is well correlated to S&P variance (Figure 88).  
 
-![](images/5feed153dca9310c1e3ba01e7c9818eded662d1e59eea0daf886106192c72bf2.jpg)  
+![](5feed153dca9310c1e3ba01e7c9818eded662d1e59eea0daf886106192c72bf2.jpg)  
 Figure 87: Implied variance is related to credit at the index level in Europe...   
 Source: JPMorgan  
 
-![](images/d344846c493e0d45137307459d5119bc5a0b68d1480547cd31c6c3daade71042.jpg)  
+![](d344846c493e0d45137307459d5119bc5a0b68d1480547cd31c6c3daade71042.jpg)  
 Figure 88: ... and the same is true in the US.  
 
 Source: JPMorgan  
@@ -1609,11 +1609,11 @@ For example, consider the behaviour of Fiat CDS as a function of its share price
 
 In contrast, because implied variance factors in some of this reduced risk, the relation between Fiat implied variance and credit is more stationary (Figure 90). Hence, variance swaps can be useful instruments as vehicles for expressing a view on the capital structure of a company. In practice, some combination of variance and the underlying equity may be used.  
 
-![](images/71661c976eae7936f5a8c8b51872afce3a762843e3437e4cf25e8a72d7d4325a.jpg)  
+![](71661c976eae7936f5a8c8b51872afce3a762843e3437e4cf25e8a72d7d4325a.jpg)  
 Figure 89: Fiat CDS has changed relationship with stock price .. 5Y CDS spread   
 Source: JPMorgan  
 
-![](images/8cb818ec3c8cbbea9f933cb02e48321eaa0868d552bcb965ee13dadeceb8dbab.jpg)  
+![](8cb818ec3c8cbbea9f933cb02e48321eaa0868d552bcb965ee13dadeceb8dbab.jpg)  
 Figure 90: ... whereas Fiat CDS is more linearly related to variance 5Y CDS spread  
 
 Source: JPMorgan  
@@ -1664,11 +1664,11 @@ Suppose we hold a (call) option. Then to make the position instantaneously delta
 
 By frequently re-adjusting this delta-hedge (in theory continuously, in practice usually daily) the sensitivity to direction of the underlying can be hedged out over the lifetime of the option. Note that this is a dynamic hedge which must continuously be monitored and re-balanced. P/l will come from the accumulated action of continuously re-balancing the holding of the underlying, in order to keep the entire portfolio delta-neutral over time. This is referred to as the gamma $\mathrm{p}/\mathrm{l}$ and is paid for in the option premium which is marked to market as lost theta.  
 
-![](images/251c94136b81d49ce6bc41f0b302a01a8e2b33c86793346fd4a7a801a69d0218.jpg)  
+![](251c94136b81d49ce6bc41f0b302a01a8e2b33c86793346fd4a7a801a69d0218.jpg)  
 Figure 91 : Deltas of 1-month maturity ATM call options Delta   
 Source : JPMorgan  
 
-![](images/48f58d60dfa57b9f590f05028853aa922fb41cad51d95326a60ca7ab463e54d9.jpg)  
+![](48f58d60dfa57b9f590f05028853aa922fb41cad51d95326a60ca7ab463e54d9.jpg)  
 Figure 92 : The convexity of the option   
 Source : JPMorgan  
 
@@ -1680,7 +1680,7 @@ That is, the gamma. $\mathbf{p}/\mathbf{I}$ from a move in the underlying is pro
 
 # Box 12: Deriving the gamma p/l  
 
-![](images/1af85f14c5c8bf882f2371ef42219a85af1cca4b997e2233ff052e670d8db700.jpg)  
+![](1af85f14c5c8bf882f2371ef42219a85af1cca4b997e2233ff052e670d8db700.jpg)  
 Figure 93 : Gamma p/I from delta-hedged options   
 Source : JPMorgan  
 
@@ -1717,11 +1717,11 @@ Once the dollar gamma has been computed, the gamma. $\mathbf{p}/1$ from a single
 
 For a change in spot $\mathrm{S}=>\mathrm{S}+\mathrm{d}\mathrm{S}$ , the gamma $\mathbf{p}/1$ will be $\Gamma{\mathrm{d}}\mathrm{S}^{2}/2$ Since $\mathbb{S}\Gamma=\Gamma\mathrm{S}^{2}/100$ , the $\mathbf{p}/1$ can be written as $(100~\mathbb{S}\Gamma)/\mathrm{S}^{2}\mathrm{~x~dS}^{2}/2=50~\mathbb{S}\Gamma\left(\mathrm{dS}/\mathrm{S}\right)^{2}$ Gamma $\mathbf{p}/\mathbf{l}=5\mathbf{0}\thinspace\S\Gamma\thinspace\mathbf{R}^{2}$ where R is the return $\mathrm{d}\mathrm{S}/\mathrm{S}$ in percentage terms  
 
-![](images/e98190548729d25b3cc30f333568806774ab285cf308335f53bbf7ef0277c0d8.jpg)  
+![](e98190548729d25b3cc30f333568806774ab285cf308335f53bbf7ef0277c0d8.jpg)  
 Figure 94 : Dollar gamma is highest close to the option strike, and falls away rapidly away from the strike, especially if volatility is low   
 Source : JPMorgan  
 
-![](images/6b283735daa56814a340cb05ef77d9e3e05f4e313bc5dc27d35465f59291d508.jpg)  
+![](6b283735daa56814a340cb05ef77d9e3e05f4e313bc5dc27d35465f59291d508.jpg)  
 Part 4: Replication and Hedging   
 Figure 95 : Gamma p/I for a 100-strike option with spot at different Ievels. The p/l is quadratic in the size of the move.   
 Source : JPMorgan  
@@ -1786,30 +1786,30 @@ Consider first the performance of the 2500-strike option (Figure 96). This was p
 
 In contrast the 4000-strike option (Figure 97) initially had much higher gamma than the 2500-strike option and consequently lost more due to the lower realised volatility. When the volatility did occur, this happened well away from the option strike, and the low gamma meant that the delta-hedging failed to capitalise on this high volatility with the deltahedged options ending up making a loss of 60 ip (about 5 vegas). This is despite the fact that the option was purchased at an implied volatility of $26\%$ $10\%$ below that subsequently delivered.  
 
-![](images/6c517191559c0090356ad759078d8e242ace6cc92250960646332222eca636fd.jpg)  
+![](6c517191559c0090356ad759078d8e242ace6cc92250960646332222eca636fd.jpg)  
 Figure 96 : The 2500-strike option profited due to the high volatility and gamma close to expiry....   
 Source : JPMorgan  
 
-![](images/d5e1784af3d1f3a7cb08836e28892fc66ad55aae88a60d25432bfdb516b0a2bb.jpg)  
+![](d5e1784af3d1f3a7cb08836e28892fc66ad55aae88a60d25432bfdb516b0a2bb.jpg)  
 Figure 97 :...whereas the 4000-strike option made a loss, despite being purchased at implied volatility $10\%$ below that later delivered  
 
 When delta-hedging an option, the $\mathsf{p}/\mathsf{l}$ is a (daily) accrual of the difference between the realised volatility (in the form of the. return squared) and the implied volatility scaled by the time step. However, the magnitude of the contribution of this (daily) accrual is weighted by the current dollar gamma of the option, which as it depends on the path of the underlying, is inherently unpredictable (see Box 16).  
 
 The non-constancy of exposure to realised - implied volatility (squared) comes from the dollar gamma changing over the life-time of the option. Thus the difference between realised and implied volatility will count more when (dollar) gamma is high. An at-the-money option will have high exposure to the spread between implied and realised volatility whilst the underlying remains close to its initial value (Figure 98), whilst an OTM option will take on no significant exposure to volatility until the underlying trades at around the option strike (Figure 100).  
 
-![](images/dc0347d7c174014345ed1d960a5779738560a3b2c0f8f8d34b237d1829264af7.jpg)  
+![](dc0347d7c174014345ed1d960a5779738560a3b2c0f8f8d34b237d1829264af7.jpg)  
 Figure $98:$ Simulation of $\mathsf{p}/\mathsf{I}$ for hedging an ATM option: magnitude of returns is highest if underlying remains close to the money.   
 Simulation: option struck at 100, implied volatility $\%$ , maturity $=100$ days, flat skew Source : JPMorgan  
 
-![](images/9559b4c10953053f7655a8ca59598945065dbea4efadf04b600688682b303528.jpg)  
+![](9559b4c10953053f7655a8ca59598945065dbea4efadf04b600688682b303528.jpg)  
 Figure $99:\ldots$ returns are correlated with volatility but not perfectly, exposure is locally linear for small changes in volatility.   
 realised volatility Simulation: option struck at 100, implied volatility- $=20\%$ maturity $=100$ days, flat skew Source : JPMorgan  
 
-![](images/ea1417a5c5d7368de52d15b2bd9a410c6d9fee94556544ffc92d368ddc2f1930.jpg)  
+![](ea1417a5c5d7368de52d15b2bd9a410c6d9fee94556544ffc92d368ddc2f1930.jpg)  
 Figure 100 : Simulation of p/l for hedging an OTM (80-strike) option: magnitude of $\mathsf{p}/\mathsf{l}$ is highest when underlying is close to the strike.   
 underlying at matu. Simulation: option struck at 80, implied volatility $\%$ maturity $=100$ days, flat skew Source : JPMorgan  
 
-![](images/84542fa4e665c4f6c5c3fb1875b4d4214cd2172f6cd404871ede13233bc9c60e.jpg)  
+![](84542fa4e665c4f6c5c3fb1875b4d4214cd2172f6cd404871ede13233bc9c60e.jpg)  
 Figure $101:\ldots$ however, due to the mostly low gamma, the exposure to volatility is poor   
 realised volatility Simulation: option struck at 80, implied volatility- $:20\%$ , maturity $=100$ days, flat skew Source : JPMorgan  
 
@@ -1828,19 +1828,19 @@ It is this third approach that is used to construct variance swaps, at least in 
 
 To achieve a constant dollar gamma across strikes what kind of portfolio is needed? One important observation is that (peak) dollar gamma increases linearly with strike (Figure 102). Naively, it may be thought that weighting the options in the portfolio (across all strikes) by the inverse of the strike will achieve a constant dollar gamma. It does have the property. that each option in the portfolio has an equal peak dollar gamma (Figure 103). However, the dollar-gammas of the higher strike options 'spread out' more, and the effect of summing these $I/K.$ weighted options across all strikes still leads to a. dollar-gamma exposure which still increases with the underlying (Figure 105). In fact, in can be shown that this increase is linear, and therefore weighting each option by the inverse of the strike-squared will achieve a portfolio with constant dollar. gamma (Figure 104, Figure 105).  
 
-![](images/6ba8035b7a05670eb3efe73cf605631bf1104077d46900053fcba17b2eb3f97d.jpg)  
+![](6ba8035b7a05670eb3efe73cf605631bf1104077d46900053fcba17b2eb3f97d.jpg)  
 Figure 102 : Peak dollar gamma of an option increases linearly with the underlying   
 Source : JPMorgan  
 
-![](images/6a735c30356ba76bfae14b45e332aa397a1ee2cf13c41a605313e9601c092bb0.jpg)  
+![](6a735c30356ba76bfae14b45e332aa397a1ee2cf13c41a605313e9601c092bb0.jpg)  
 Figure 103 : Peak dollar gamma of options divided by strike is constant   
 Source : JPMorgan  
 
-![](images/40228f2eeb763b6ddd43edfed1d7293a16ff83e17e20ae456905f4b4a2b777a5.jpg)  
+![](40228f2eeb763b6ddd43edfed1d7293a16ff83e17e20ae456905f4b4a2b777a5.jpg)  
 Figure 104 : Weighting options by the inverse of the strike-squared gives a portfolio with aggregate constant dollar-gamma.   
 Source : JPMorgan  
 
-![](images/29f61d9fb015a44e0f94b736880970e6be5df6bde81932d2d443162e9efd8968.jpg)  
+![](29f61d9fb015a44e0f94b736880970e6be5df6bde81932d2d443162e9efd8968.jpg)  
 Part 4: Replication and Hedging   
 Figure 105 : Weighting options as the inverse of the strike squared gives constant dollar-gamma   
 Source : JPMorgan  
@@ -1906,11 +1906,11 @@ Skew is commonly thought of as an important component of variance swap prices, w
 
 For example, suppose an underlying has 3-month ATM volatility of $20\%$ , a linear put skew of $5\%$ (per 10 volatility points), with put volatilities capped at $35\%$ and all OTM call volatilities flat at the level of the ATM volatility (Figure 106). The. theoretical 3-month variance strike can then be calculated to be 23.05 (pricing OTM options 1 point apart between 1 and 300). Now consider a situation where the skew is a mirror image of that in Figure 106. ATM volatility is $20\%$ , and all OTM put volatilities are flat at $20\%$ , but call volatilities increase linearly by $5\%$ per 10 points as they become more OTM, capped at $35\%$ (Figure 107). In this case the theoretical variance swap price is virtually identical at 23.15..  
 
-![](images/35db0b292c0d4ae4c22128cfb86cde8d0ad1f50277acc8995e7a2e0c7f27860e.jpg)  
+![](35db0b292c0d4ae4c22128cfb86cde8d0ad1f50277acc8995e7a2e0c7f27860e.jpg)  
 Figure 106: High put skew increases the variance strike above ATM volatility...   
 Source : JPMorgan  
 
-![](images/7d990fabeba794aa238a5ccb62c9cc8bf7525566bf5c80e660f17e5c4a987382.jpg)  
+![](7d990fabeba794aa238a5ccb62c9cc8bf7525566bf5c80e660f17e5c4a987382.jpg)  
 Figure 107 : ...but increasing the call skew has almost exactly the same effect.   
 Source : JPMorgan  
 
@@ -2156,7 +2156,7 @@ The situation with variance swaps is different. Suppose that the market is such 
 
 As described above, a delta-hedger who is short options will act to increase volatility in the underlying - buying as it rallies,. and selling as it sells-off. However, the action of these market makers hedging their short options will not necessarily act to increase volatility in the underlying, as the counterparties they have sold options to may be counteracting this effect by themselves hedging their long volatility positions. However, the important difference between these two groups of hedgers. is that the variance swap market-makers who are short options, must hedge only on the close to capture the close-close. realised variance specified in the variance swap contract. In contrast, the hedgers who are long the options, will generally. be free to choose when to delta-hedge, as they attempt to capture the true volatility of the underlying process..  
 
-![](images/98fce9f84d313c24cadff0124e074c1f67183441d32df164aaee0575769d757a.jpg)  
+![](98fce9f84d313c24cadff0124e074c1f67183441d32df164aaee0575769d757a.jpg)  
 Figure 108: Flows in the market as a result of a market-maker buying a variance swap and replicating it in the market  
 
 Therefore, the overall effect of hedging these variance swaps need not have the effect of increasing overall market volatility, although it may if the long options positions are not being hedged (e.g. they are sold on to end-investors). However, the important point is that the hedging of long variance swap positions may act to increase close-to-close volatility, with option hedges on the close having the potential effect of magnifying daily moves. In practice, this only becomes an issue if hedgers (variance swap market-makers) are the same way round and daily moves are large enough.  
@@ -2274,11 +2274,11 @@ As with variance swaps, the sign of the $\mathbf{p}/1$ for a conditional varianc
 
 Whilst investors are free to specify the range associated with a conditional variance swap, the two principal types are up-. and down- conditional variance swaps (up-variance and down-variance). Up-variance accrues realised volatility only when the underlying is above a pre-specified level (i.e. no upper barrier), while down-variance is accrued only when the underlying is below the specified barrier (i.e. no lower barrier). In the presence of a positive put-skew, down-variance will normally price above up-variance for close to ATM barrier levels.  
 
-![](images/cdb5658324dcbf16ffcba5b1f1f0e1e248cd0df632c6e584280e5967951f1cf5.jpg)  
+![](cdb5658324dcbf16ffcba5b1f1f0e1e248cd0df632c6e584280e5967951f1cf5.jpg)  
 Figure 109 : Payout from a conditional variance swap $@20$ strike $p/l,$ different lines for $\%$ days in the range   
 Source : JPMorgan  
 
-![](images/c94360112390c1a50c3e9a0a596d988c835d39674eb3fd4c7d0c01b68c50836d.jpg)  
+![](c94360112390c1a50c3e9a0a596d988c835d39674eb3fd4c7d0c01b68c50836d.jpg)  
 Figure 110 : Dec-07 conditional variance swaps levels as of Apr 06 Strike   
 Source : JPMorgan, data as of Apr 2006  
 

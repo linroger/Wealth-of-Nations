@@ -61,7 +61,7 @@ Incorporating the recovery rate into the model is pretty straightforward. Suppos
 
 We then sweep back through the tree adding the coupon cash flows at every step. We start at $t=2$ and compute the discounted expected value of the cash flows at. $t=3$ , right after the  
 
-![](images/241910fed956797de32cae1ffe588f66e62b430635bbba6066716827c8155602.jpg)  
+![](241910fed956797de32cae1ffe588f66e62b430635bbba6066716827c8155602.jpg)  
 Figure 7.8 Constant probability of default with recovery  
 
 coupon payment at $t=2$  
@@ -91,7 +91,7 @@ Table 7.5  Corporate bond valuation in a default probability model with recovery
 
 <html><body><table><tr><td>Year</td><td>Def prob.per year</td><td>Risk-free zerorate</td><td>Risk-free DF survival prob CF</td><td>Cum</td><td></td><td>PV</td><td>CumProb. of recov.</td><td>CF PV</td></tr><tr><td>1</td><td>0.005</td><td>2.5000%</td><td>0.975610</td><td>0.99890</td><td>5</td><td>4.8727</td><td>0.005000</td><td>600.2927</td></tr><tr><td>2</td><td>0.005</td><td>2.6249%</td><td>0.949499</td><td>0.99780</td><td>5</td><td>4.7371</td><td>0.004975</td><td>600.2834</td></tr><tr><td>3</td><td>0.005</td><td>2.7498%</td><td>0.921843</td><td>0.99670</td><td>105</td><td>96.4745</td><td>0.004950</td><td>600.2738</td></tr><tr><td></td><td>SumPV</td><td></td><td>105.7526</td><td></td><td>104.9027</td><td></td><td></td><td>0.8499</td></tr><tr><td></td><td>Ytm</td><td></td><td>2.9676%</td><td></td><td></td><td></td><td>十</td><td></td></tr></table></body></html>  
 
-![](images/32b5593f351e8decc62c30544a1db35af9f070e96e3b0f5a43338d100adfee4e.jpg)  
+![](32b5593f351e8decc62c30544a1db35af9f070e96e3b0f5a43338d100adfee4e.jpg)  
 Figure 7.9 Cash flows of a credit default swap  
 
 # 7.4.3 Pricing a Credit Default Swap in a Single Issuer Default Model  

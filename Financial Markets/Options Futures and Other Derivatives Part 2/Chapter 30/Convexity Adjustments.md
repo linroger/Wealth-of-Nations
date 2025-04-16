@@ -35,7 +35,7 @@ This is illustrated in Figure 30.1, which shows the relationship between bond pr
 
 Consider a derivative that provides a payoff dependent on the bond yield at time $T$ From equation (28.20), it can be valued by (a) calculating the expected payoff in a world defined by a numeraire equal to a zero-coupon bond maturing at time $T$ and (b) discounting at the current risk-free rate for maturity $T.$ We know that the expected bond price equals the forward price in the world being considered. We therefore need to know the value of the expected bond yield when the expected bond price equals the forward bond price. The analysis in the appendix at the end of this chapter shows that an approximate expression for the required expected bond yield is  
 
-![](images/8f122cdeae0db04e27827e292adab733ac3c9eda09f3549871e7f9569b314bd7.jpg)  
+![](8f122cdeae0db04e27827e292adab733ac3c9eda09f3549871e7f9569b314bd7.jpg)  
 Figure 30.1 Relationship between bond prices and bond yields at time $T$  
 
 $$

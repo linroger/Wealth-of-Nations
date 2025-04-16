@@ -20,7 +20,7 @@ Consider a 4-month American call option on index futures where the current futur
 
 At each node: Upper value $=$ Underlying Asset Price Lower value $=$ Option Price Shading indicates where option is exercised annum, and the volatility of the index is. $30\%$ per annum. The life of the option is. divided into four 1-month periods for the purposes of constructing the tree. In this case, $F_{0}=300$ $K=300$ $r=0.08$ $\sigma=0.3$ $T=0.3333$ , and $\Delta t=0.0833$ Because a futures contract is analogous to a stock paying dividends at a rate. $r,q$ should be. set equal to $r$ in equation (21.7). This gives $a=1$ . The other parameters necessary to construct the tree are  
 
-![](images/62ad6682765304a79b1751774762966efab46a4778f53caaf1284a46dd1d38de.jpg)  
+![](62ad6682765304a79b1751774762966efab46a4778f53caaf1284a46dd1d38de.jpg)  
 Figure 21.5  Binomial tree produced by DerivaGem for American call option on an index futures contract (Example 21.3).  
 
 $$
@@ -31,7 +31,7 @@ The tree, as produced by DerivaGem, is shown in Figure 21.5. (The upper number i
 
 At each node: Upper value $=$ Underlying Asset Price Lower value $=$ Option Price Shading indicates where option is exercised  
 
-![](images/34f1472853f5971e40a8453dac1e2fc0c5eb41b089e217bdf552d365a8f80a51.jpg)  
+![](34f1472853f5971e40a8453dac1e2fc0c5eb41b089e217bdf552d365a8f80a51.jpg)  
 Figure 21.6 Binomial tree produced by DerivaGem for American put option on a currency (Example 21.4).  
 
 # Example 21.4  

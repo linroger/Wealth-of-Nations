@@ -21,7 +21,7 @@ Because of repo's popularity as a short-term investment, many repo buy-. ers are
 
 A second common use of repo is long financing, which refers to the pur-. chase of financial instruments with mostly borrowed money. An important example, illustrated in Figure 10.3, is the use of repo by broker-dealers to facilitate market making in bonds. As shown in the top panel of the figure, a customer sells bonds to the trading desk, for which the desk pays cash. But the business model of trading desks is to earn relatively small fees relatively frequently using a minimum of scarce capital. Therefore, rather than using. capital to purchase the customer's bonds, the trading desk chooses to raise funds in the repo market, that is, to repo out the bonds, or sell the repo, to. a repo buyer. Note that, because of haircuts, the trading desk cannot raise the full value of the bonds it bought in the repo market. Consequently, the trading desk does use a small amount of its own capital to fund margin, that is, to pay the customer that portion of the purchase price that is not funded with repo. In short, a fixed income market-making desk funds its inventory predominantly with repo, but in small part with capital.  
 
-![](images/fd403e319ec39372a610ec79ed2d2945712e1710c3f620817f6282c8fe9762ff.jpg)  
+![](fd403e319ec39372a610ec79ed2d2945712e1710c3f620817f6282c8fe9762ff.jpg)  
 FIGURE 10.3 Long Financing.  
 
 The bottom panel of Figure 10.3 shows how the trading desk exits its cash and repo market positions. At some point after the desk's original purchase of the bonds, another customer comes along wanting to buy those same bonds. The trading desk sells the bonds to the customer, uses the proceeds to pay off its repo borrowings and takes back the bonds for delivery to the customer. At this point it can be pointed out that purchases and sales of a particular bond on a given day cancel, and do not require repo funding. It is only the residual inventory carried from one day to the next that needs to be funded.3  
@@ -32,7 +32,7 @@ Sometimes the purchaser of a bond knows the exact term over which the bond needs
 
 The duration of repo agreements can be overnight,4 term (i.e., any fixed duration greater than one day), or open. Open repos are overnight repos that roll automatically for an additional day until cancelled by the lender of cash. The popularity of this contractual form reflects the many instances in. which counterparties are unsure of how long financing will be needed..  
 
-![](images/560ecef12bae30675e8c000f7fdf217feb35ffa6e221dae1d5707837a12722d8.jpg)  
+![](560ecef12bae30675e8c000f7fdf217feb35ffa6e221dae1d5707837a12722d8.jpg)  
 FIGURE 10.4  Roll of a Repurchase Agreement.  
 
 At this point, it can be noted that operational aspects of repo markets are complex. Consider the roll in Figure 10.4. The repo seller needs to post its bonds to the new repo buyer to get cash, but the original repo buyer is unlikely to release those bonds until its loan is repaid -- that is, after all, the whole point of holding collateral. Issues like this are resolved through the services of a third-party agent, as described in the next section.  
@@ -41,10 +41,10 @@ A third common use of repo is the establishment of short positions or short fina
 
 Using the language of this chapter, the hedge fund does buy the repo,. but its motivation is very different from cash managers or investors who buy repo: the hedge fund's motivation is not to park or invest cash, but to borrow the bonds. For this reason, it is more commonly said that the hedge fund does a reverse repo or that it reverses in the bonds. Note that. this industry jargon is such that a single transaction - the repo agreement.  
 
-![](images/933fbced4668060d7735a23e723c00ad97053b719e2ec3f4b4e42294c96e6bdc.jpg)  
+![](933fbced4668060d7735a23e723c00ad97053b719e2ec3f4b4e42294c96e6bdc.jpg)  
 FIGURE 10.5  Short Financing.  
 
-![](images/09d2cfbd522c4a0ed46454fcb11dd8d783fecd9a53a1c211e06a452484c152f5.jpg)  
+![](09d2cfbd522c4a0ed46454fcb11dd8d783fecd9a53a1c211e06a452484c152f5.jpg)  
 FIGURE 10.6 Collateral Swap.  
 
 between the broker-dealer and the hedge fund -- changes names depending on the counterparty: the broker-dealer does a repo or repos out the bonds, while the hedge fund does a reverse repo or reverses in the bonds..  

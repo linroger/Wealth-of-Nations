@@ -153,7 +153,7 @@ Assume that A wants to borrow U.S. dollars at a floating rate of interest and B 
 
 7.33. The five-year swap rate when cash flows are exchanged semiannually is. $4\%$ . A company wants a swap where it receives payments at $4.2\%$ per annum on a notional principal of $\$10$ million. The OIS zero curve is flat at $3.6\%$ . How much should a derivatives dealer charge the company. Assume that all rates are expressed with semiannual compounding and ignore bid-ask spreads.  
 
-![](images/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg)  
+![](84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg)  
 
 # Securitizationd and the Financial Crisis of 2007-8  
 

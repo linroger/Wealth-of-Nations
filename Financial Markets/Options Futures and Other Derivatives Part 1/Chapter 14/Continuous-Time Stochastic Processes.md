@@ -90,7 +90,7 @@ where $a$ and $^b$ are constants.
 
 To understand equation (14.3), it is useful to consider the two components on the right-hand side separately. The a dt term implies that $x$ has an expected drift rate of. $a$ per unit of time. Without the. $b d z$ term, the equation is. $d x=a d t$ , which implies that.  
 
-![](images/fc3cfd6086fe7d110151c6f1af678be2cc5d45a31a2850a0a6e2f2641a3d8af5.jpg)  
+![](fc3cfd6086fe7d110151c6f1af678be2cc5d45a31a2850a0a6e2f2641a3d8af5.jpg)  
 in equation (14.1).  
 
 $d x/d t=a$ Integrating with respect to time, we get  
@@ -119,7 +119,7 @@ $$
 
 To summarize, the generalized Wiener process given in equation (14.3) has an expected drift rate (i.e., average drift per unit of time) of $a$ and a variance rate (i.e., variance per unit of time) of $b^{2}$ . It is illustrated in Figure 14.2.  
 
-![](images/2849dca1092104c82a4f03496603068f7f3e97da0c7f9206faba31a9928c65d3.jpg)  
+![](2849dca1092104c82a4f03496603068f7f3e97da0c7f9206faba31a9928c65d3.jpg)  
 Figure 14.2 Generalized Wiener process with $a=0.3$ and $b=1.5$  
 
 $$

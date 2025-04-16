@@ -15,7 +15,7 @@ As can be seen from the tangent lines in Figure 4.3, the interest rate sensitivi
 
 A curve is said to have a convex shape if a line connecting two points on that curve lies above the curve. The price-rate curves of coupon bonds are convex, and Figure 4.3 makes it clear that the convex shape of the price-rate curve is tantamount to DV01 falling as rates increase. For this reason, the relationship between Dv01 and the level of rates is called convexity. The property of Dv01 falling as rates increase is called positive convexity, while the property of DV01 rising as rates increase is called negative convexity.  
 
-![](images/b815bd57cf7b57014f394961d8115e25471971368fe4b371cf3f19656cc4ebd5.jpg)  
+![](b815bd57cf7b57014f394961d8115e25471971368fe4b371cf3f19656cc4ebd5.jpg)  
 FIGURE 4.4 DV01s of the Treasury 1.625s of 11/15/2050 and of the Treasury 1.625s of 05/15/2026, as of Mid-May 2021.  
 
 Mathematically, convexity, $C$ , is defined as,.  
@@ -67,7 +67,7 @@ using both duration and convexity. The actual price of the bond after rates decl
 
 Figure 4.5 makes the same point graphically. The actual price of the NSC bonds is given by the solid curve. The approximation to prices after various changes in rates using just duration or Dv01 is given by the dashed line, which is the same dashed tangent shown in Figure 4.3. And the approximation using both duration and convexity is given by the dotted line. Because both duration and convexity are local estimates, using derivatives at current market levels to estimate prices, both the dashed and dotted lines are less and less accurate as rates move further from current levels. It is clear to the eye, however, that the approximation using both duration and convexity is relatively close to the true price for larger changes in rates than is the approximation using duration alone..  
 
-![](images/6764869f764af0d056b600e5a13b6125150ca11e3b39241a75bc84b517336845.jpg)  
+![](6764869f764af0d056b600e5a13b6125150ca11e3b39241a75bc84b517336845.jpg)  
 FIGURE 4.5  Price-Rate Curve of the NSC 4.10s of O5/15/2121, as of Mid-May 2021, with Price Approximations Using Duration and Using both Duration and Convexity.  
 
 Returning now to interpreting convexity numbers, the difference between approximating percentage price change with both duration and convexity [Equation (4.18)] and with duration alone [Equation (4.17)] is the term,  

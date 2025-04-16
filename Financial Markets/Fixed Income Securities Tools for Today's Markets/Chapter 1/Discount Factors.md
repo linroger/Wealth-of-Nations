@@ -37,5 +37,5 @@ TABLE 1.3Discount Factors Derived from Bonds Listed in Table 1.2.
 
 <html><body><table><tr><td>Term</td><td>DiscountFactor</td></tr><tr><td>0.5</td><td>0.999923</td></tr><tr><td>1.0</td><td>0.999419</td></tr><tr><td>1.5</td><td>0.998504</td></tr><tr><td>2.0</td><td>0.997041</td></tr><tr><td>2.5</td><td>0.994558</td></tr><tr><td>3.0</td><td>0.990195</td></tr><tr><td>3.5</td><td>0.984742</td></tr></table></body></html>  
 
-![](images/208ab44a0a07ebbb9e3253325f91e588400001d592c50ae19aa14609b7e21ae2.jpg)  
+![](208ab44a0a07ebbb9e3253325f91e588400001d592c50ae19aa14609b7e21ae2.jpg)  
 FIGure 1.1 Discount Factors Derived from Selected US Treasury Bonds, as of May 14, 2021.  

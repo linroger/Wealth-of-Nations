@@ -118,7 +118,7 @@ We will attempt our own classification of hedge funds, based on the subjective c
 
 Relative Asset Value (Directional) Funds - global macro, emerging markets, short bias, long/short equity, high yield convertible, managed futures.  
 
-![](images/41a65a94b6f66f274d0013d6fa17a78691003ed8b3bc834f6816ac457b2c6494.jpg)  
+![](41a65a94b6f66f274d0013d6fa17a78691003ed8b3bc834f6816ac457b2c6494.jpg)  
 Figure 12.1Alternative investments Sources: Compiled by the author from various public domain sources, blending 2009-2010 data. The percentage of assets in the various categories is approximate and unconfirmed.  
 
 Relative Corporate/Credit Structure - capital structure, emerging market and corporate credit arbitrage, event-driven merger or distressed. Relative Value (Theoretical Arbitrage) - fixed income arbitrage, managed futures, convertible arbitrage.   

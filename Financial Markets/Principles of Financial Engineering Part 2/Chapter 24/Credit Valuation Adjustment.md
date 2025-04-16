@@ -23,9 +23,9 @@ The example in Figure 24.1 illustrates the important insight that it is not just
 
 There are several ways of incorporating counterparty risk into derivatives pricing. CVA is one. such adjustment and it is simple and intuitive. The idea behind CVA is that if we enter into a portfo-. lio derivative transaction with a counterparty, that counterparty might default and it might default at a time when we have an exposure, that is the value of the transaction to us is positive and negative to the counterparty. This has to be incorporated into the valuation of the transaction. First, we value the  
 
-![](images/0b4fb6632958b3660f26b66cf97b84af1a3e414c473c3bf9ebe7a13849fc600a.jpg)  
+![](0b4fb6632958b3660f26b66cf97b84af1a3e414c473c3bf9ebe7a13849fc600a.jpg)  
 
-![](images/ee6624a89b0b9aa0324b6671415d312789ab4cacb87522dd4fe2a0f810f4fa7f.jpg)  
+![](ee6624a89b0b9aa0324b6671415d312789ab4cacb87522dd4fe2a0f810f4fa7f.jpg)  
 
 # FIGURE 24.1  
 
@@ -74,7 +74,7 @@ Equation (24.3) shows that if there is no default, that is $\tau>T$ , then we ob
 
 When counterparty C defaults, close-out proceedings begin. These are governed by the regulations and ISDA rules. As part of the close-out process the residual value of the contract to bank B is  
 
-![](images/74b73e42f849afe562a0a4cd52865ffded3c60ba66d9f2982b810de8a8822f8c.jpg)  
+![](74b73e42f849afe562a0a4cd52865ffded3c60ba66d9f2982b810de8a8822f8c.jpg)  
 
 # FIGURE 24.2  
 
@@ -152,7 +152,7 @@ Step 4 (Exposure Calculation): Then, for each counterparty we calculate the expo
 
 <html><body><table><tr><td colspan="6">Table 24.1 Assumed Term Structured of CDS Quotes for Each Counterparty</td></tr><tr><td>Date</td><td>CP1</td><td>CP2</td><td>CP3</td><td>CP4</td><td>CP5</td></tr><tr><td>March 20,2008</td><td>140</td><td>85</td><td>115</td><td>170</td><td>140</td></tr><tr><td>March 20,2009</td><td>185</td><td>120</td><td>150</td><td>205</td><td>175</td></tr><tr><td>March 20,2010</td><td>215</td><td>170</td><td>195</td><td>245</td><td>210</td></tr><tr><td>March 20,2011</td><td>275</td><td>215</td><td>240</td><td>285</td><td>265</td></tr><tr><td>March 20,2012</td><td>340</td><td>255</td><td>290</td><td>320</td><td>310</td></tr></table></body></html>  
 
-![](images/e518330d4cc316b2f6a17ec9e687033692465c427bc2e4f0f1a42a960cec96e6.jpg)  
+![](e518330d4cc316b2f6a17ec9e687033692465c427bc2e4f0f1a42a960cec96e6.jpg)  
 
 # FIGURE 24.3  
 
@@ -160,7 +160,7 @@ Default probability curves for each counterparty.
 
 Table 24.1 shows the assumed term structure of CDS quotes for each counterparty (CP1, CP2, ..., CP5) as of December 2007. Based on the CDS quotes in Table 24.1, we can extract default probabilities which are shown in Figure 24.3. At date. $t_{0}$ , each swap in the portfolio. has a value close to zero. Figure 24.4 shows the assumed yield curve at settle date. $t_{0}$ (December 14, 2007) for maturities of 3 months, 6 months, 1 year, 5 years, 7 years, 10 years,.  
 
-![](images/21ffe5a39fbebdb56ddbe14ab0d13497808a6ac2b16fc43f1afed09b6d424b8c.jpg)  
+![](21ffe5a39fbebdb56ddbe14ab0d13497808a6ac2b16fc43f1afed09b6d424b8c.jpg)  
 
 # FIGURE 24.4  
 
@@ -177,19 +177,19 @@ If we aggregate across all 30 swap contracts at each point in time for a given s
 
 It is clear from Figure 24.7 that the (discounted) expected exposure changes over time.. There are two offsetting effects that determine the exposure profile over time: the diffusion effect and the amortization effect. The longer a simulation path is the greater the resulting  
 
-![](images/f725ef7f76ff481881f5dde2769decbaa361106755ae6a16c9683ca84e4e71ba.jpg)  
+![](f725ef7f76ff481881f5dde2769decbaa361106755ae6a16c9683ca84e4e71ba.jpg)  
 
 # FIGURE 24.5  
 
 Yield curve evolution for one scenario.  
 
-![](images/6232341948fbff8245b3eec6b091e85205ddfc600035bf0b5ae966ae5cf719c1.jpg)  
+![](6232341948fbff8245b3eec6b091e85205ddfc600035bf0b5ae966ae5cf719c1.jpg)  
 
 # FIGURE 24.6  
 
 Swap prices for one scenario.  
 
-![](images/526f4a3fc8d4b5922abf44c777dbdbf2171e4b8ab05dabbb80a8d43adcba7e74.jpg)  
+![](526f4a3fc8d4b5922abf44c777dbdbf2171e4b8ab05dabbb80a8d43adcba7e74.jpg)  
 
 # FIGURE 24.7  
 

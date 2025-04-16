@@ -147,7 +147,7 @@ Note that the 3s6s basis (i.e. the difference between swap rates referenced to $
 
 Having done all of this, we see in Figure 4.1 that the three ways of calculating the yield pickup match beautifully.
 
-![](images/142ffc1d9ced50fe2db29c7d2905a9d9429f2bf966ef090cedd36dfe7b29d5f8.jpg)
+![](142ffc1d9ced50fe2db29c7d2905a9d9429f2bf966ef090cedd36dfe7b29d5f8.jpg)
 Figure 4.1: Maturity-matched FX hedged yield pickup for 2y USD bonds vs EUR vs German bonds, in bp.. Source: Commerzbank Research, Bloomberge
 
 # Historical Results for G10 Maturity-Matched Yield Pickup
@@ -160,28 +160,28 @@ The same effect is visible to a greater extent for longer tenors. In Figure 4.6 
 
 We see that the available yield pickup often comes close to $1\%$ , which is a considerable amount in this era of close-to-zero rates..
 
-![](images/755770ac8ae200f04153ba1e40ae30a71504fffb28ad223a2182f31de50edb34.jpg)
+![](755770ac8ae200f04153ba1e40ae30a71504fffb28ad223a2182f31de50edb34.jpg)
 Figure 4.2: Generic bond yields for 2y USD and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/a3cc55a0e783e0a9abe0a53e26715f511b649e9e6f2c18f7efe69e91ef4a2e0e.jpg)
+![](a3cc55a0e783e0a9abe0a53e26715f511b649e9e6f2c18f7efe69e91ef4a2e0e.jpg)
 Figure 4.3: Maturity-matched FX hedged yield pickup vs EUR for 2y USD and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/156027e07afb1fcc712e01f5cfebb36fbbcebbeb1f570728b728d552d3cb22ee.jpg)
+![](156027e07afb1fcc712e01f5cfebb36fbbcebbeb1f570728b728d552d3cb22ee.jpg)
 Figure 4.4: Generic bond yields for 2y JPY and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/6a27192a2fdfbc7d939668a7852207553cfd8fd9c00861c5d840a5cbd79aa11b.jpg)
+![](6a27192a2fdfbc7d939668a7852207553cfd8fd9c00861c5d840a5cbd79aa11b.jpg)
 Figure 4.5: Maturity-matched FX hedged yield pickup vs EUR for 2y JPY and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/7f4a98386baf8753e33efc9397a1b2dbabb01d9717839340415bcfec0bf2e440.jpg)
+![](7f4a98386baf8753e33efc9397a1b2dbabb01d9717839340415bcfec0bf2e440.jpg)
 Figure 4.6: Generic bond yields for 10y USD and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/8e3df41386fffef19e3cf7616578ba7ff188e0f9d8889c1ccee32015ad926196.jpg)
+![](8e3df41386fffef19e3cf7616578ba7ff188e0f9d8889c1ccee32015ad926196.jpg)
 Figure 4.7: Maturity-matched FX hedged yield pickup vs EUR for 10y USD and EUR bonds, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/6703b5115913568997e0361e2aea80261ed1c0b050af73b79ce2f632f7bc078e.jpg)
+![](6703b5115913568997e0361e2aea80261ed1c0b050af73b79ce2f632f7bc078e.jpg)
 Figure 4.8: Generic bond yields for 10y JPY and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/3802212aaed601e3ae7cf9e2c20a572bcd5b68fe12c8a00e5b0f203888dc5b82.jpg)
+![](3802212aaed601e3ae7cf9e2c20a572bcd5b68fe12c8a00e5b0f203888dc5b82.jpg)
 Figure 4.9: Maturity-matched FX hedged yield pickup vs EUR for 10y JPY bond, in $\%$ Source: Bloomberg, Commerzbank Research.
 
 # Rolling Hedges
@@ -224,44 +224,44 @@ Additionally, maintaining a rolling hedge program with a constant EUR expo-. sur
 
 We plot the rolling pickup throughout history for the same set of G10 currencies for the 2y case. It is easy to see that there are significant differences between the matched maturity and rolling hedges (Figures 4.10-4.13).
 
-![](images/a30ede4dd33798daf24e167ef819f87976e55915cdbef3df5b9c5130ee08cbf0.jpg)
+![](a30ede4dd33798daf24e167ef819f87976e55915cdbef3df5b9c5130ee08cbf0.jpg)
 Figure 4.10: Generic bond yields for 2y USD and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/8272092479e4dd76025a378e892325a4da36c8ae46023b7fb41f73b216e60dcf.jpg)
+![](8272092479e4dd76025a378e892325a4da36c8ae46023b7fb41f73b216e60dcf.jpg)
 Figure 4.11: 3m FX hedged yield pickup vs EUR for 2y USD and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/ff4069ce4bc58410ec70e98c046738574f6977da675bd6b4e2ce2c6dd345fdff.jpg)
+![](ff4069ce4bc58410ec70e98c046738574f6977da675bd6b4e2ce2c6dd345fdff.jpg)
 Figure 4.12: Generic bond yields for 2y JPY and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/e69f872efd1f452196e736f1e17be19cef667664b554c03b8e66d47c47a0c5f9.jpg)
+![](e69f872efd1f452196e736f1e17be19cef667664b554c03b8e66d47c47a0c5f9.jpg)
 Figure 4.13: 3m FX hedged yield pickup vs EUR for 2y JPY and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research.
 
 In the following section, we repeat the calculation for 10y bonds. The pickup often looks substantial, but it is worth remembering that this is the annualised fig. ure; in reality, for the 3m tenor it would be $\%$ of that amount (Figures 4.14-4.17).
 
 What underlying drivers are we seeing for these changes? It's interesting to. look at what is causing the evolution in available pickup. For the 3m rolling hedge of the 1Oy EUR bond (top left), we see that the spread between the EUR and USD bonds was widest in 2018. And yet, the available rolling pickup, which initially increased along with the spread, has narrowed since 2015 and has even reversed direction. This reduction is driven by the short-dated differentials; since 2015, they. have been steadily moving lower, eroding much of the gain from the longer tenors..
 
-![](images/fee0b90c6e5c72d699fbf0a804255a2deec12bfe86a5a3a0b62989befb802422.jpg)
+![](fee0b90c6e5c72d699fbf0a804255a2deec12bfe86a5a3a0b62989befb802422.jpg)
 Figure 4.14: Generic bond yields for 10y USD and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research.
 
-![](images/552cc36740e215f47d883c5f4f65ceef2312092567d30b9bb8736d8cdbcb9ece.jpg)
+![](552cc36740e215f47d883c5f4f65ceef2312092567d30b9bb8736d8cdbcb9ece.jpg)
 Figure 4.15: 3m FX hedged yield pickup vs EUR for 10y USD and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/115037a503fc0628a0737546584916057a25de4acd51f3d21b63d5ffb3165b9f.jpg)
+![](115037a503fc0628a0737546584916057a25de4acd51f3d21b63d5ffb3165b9f.jpg)
 Figure 4.16: Generic bond yields for 10y JPY and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/670b8cf2bd01d9f5ffeb5ffc0d642a4c283aaf65c23749008b726c6e7643a644.jpg)
+![](670b8cf2bd01d9f5ffeb5ffc0d642a4c283aaf65c23749008b726c6e7643a644.jpg)
 Figure 4.17: 3m FX hedged yield pickup vs EUR for 10y JPY and EUR bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
 # Rolling Pickup One Period On' and for the Tenor of the Instrument
 
 Now, let us look at what really happens in the case of rolling hedges. In the following figures, we plot the 3m rolling hedged pickup for the EURUsD case, for a 2y and 5y bond. This is the grey line. Then we plot the next quarter actual pickup (black line). This is of course the current one shifted by 3m. Finally, we plot the average. 3m-hedged pickup for the tenor of the bond - for the 5y case, this ends early, as we need 5y of data to get the result (Figures 4.18 and 4.19)..
 
-![](images/3f807cb5fe6cd75787376e0b02e26c176c99538f2c4639393020b3d3cb3c16b2.jpg)
+![](3f807cb5fe6cd75787376e0b02e26c176c99538f2c4639393020b3d3cb3c16b2.jpg)
 Figure 4.18: Rolling FX hedged yield pickup vs EUR for 2y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
 It's crystal clear that the assumption that the yield pickup from one $3\mathrm{m}$ period to the next could remain constant is ridiculous. Over the life of the deal, the average pickup of course becomes smoother for the longer deal tenors, and reflects more of a slow variation in interest rate differentials. But once more, the idea that it can be forecast by looking at the first rolling pickup is absolutely unrealistic..
 
-![](images/c2b0c5d124d629c703e20bea4dd3790836ea97d30923b5d43e304777ad8dfba7.jpg)
+![](c2b0c5d124d629c703e20bea4dd3790836ea97d30923b5d43e304777ad8dfba7.jpg)
 Figure 4.19: Rolling FX hedged yield pickup vs EUR for 5y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
 # Translation Effect
@@ -278,10 +278,10 @@ This is not surprising, looking at the dynamics of the spot rate in that period.
 
 Note that the last two years of the two-year return in these figures are of course unavailable.
 
-![](images/53840382e2a381bb288ca9da0da479547c5eee6d64fb567790b30a472f09424e.jpg)
+![](53840382e2a381bb288ca9da0da479547c5eee6d64fb567790b30a472f09424e.jpg)
 Figure 4.20: Maturity-matched FX hedged yield pickup vs EUR with unhedged return for 2y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-![](images/567793af89eb24da5536bcbec0b38230b867499ed4468099fad3a565108a6854.jpg)
+![](567793af89eb24da5536bcbec0b38230b867499ed4468099fad3a565108a6854.jpg)
 Figure 4.21: EURUSD spot exchange rate. Source: Bloomberg, Commerzbank Research
 
 # Volatility Breakdown -- What is Driving the Performance?

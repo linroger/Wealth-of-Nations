@@ -23,7 +23,7 @@ In Chapter 3, we shall take a step away from derivatives and provide a review of
 
 2 Based on the following illustration of two instruments (1 and 2) and two points in time (0 and 1), design an arbitrage strategy. Defend your answer by computing cash flows at both points in time.
 
-![](images/9c9f699347a55688e1435daf982da378a1fdb6aa81f5bd856a98cf81ac776fb2.jpg)
+![](9c9f699347a55688e1435daf982da378a1fdb6aa81f5bd856a98cf81ac776fb2.jpg)
 
 3  This problem, as well as the next one, explores American put lower boundary violations. Consider the following inputs: Suppose the stock price is $S_{t}=95$ , strike price is $X=100$ , risk-free interest rate is $r_{c}=5.0\%$ (continuously compounded, annualized, applies to both maturities--option and dividend), time to maturity is one year, a $4.75$ dividend will be paid in one month, and the quoted American put price is 4.95. Identify the arbitrage opportunity and illustrate how it would be captured.
 

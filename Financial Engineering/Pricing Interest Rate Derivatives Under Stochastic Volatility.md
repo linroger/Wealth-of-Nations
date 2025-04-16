@@ -322,19 +322,19 @@ $$
 [20] Vasicek, O.A., 1977. An equilibrium characterization of the term structure. Journal of Financial Economics, 5, 177-188.   
 [21] Wei, J.Z., 1997. A simple approach to bond option pricing. Journal of Futures Markets, 17 (2), 131-160.  
 
-![](images/7a80d8e567553b62aa6dfa408c9446fca26e8ca77ba3582e53679edff2254ef4.jpg)  
+![](7a80d8e567553b62aa6dfa408c9446fca26e8ca77ba3582e53679edff2254ef4.jpg)  
 Figure 1: Weekly 3-Month U.S. T-Bill Rates  
 
-![](images/2284fafa6e95f7f252e87de80bdf0b1161376a69d3ba5979ccacda9aa7ea7511.jpg)  
+![](2284fafa6e95f7f252e87de80bdf0b1161376a69d3ba5979ccacda9aa7ea7511.jpg)  
 Figure 2: First Order Changes of Weekly 3-Month U.S. T-Bill Rates  
 
-![](images/c21df9bb730295481b4e091bdaff4bef0822aab7200f798b72056fd93a754893.jpg)  
+![](c21df9bb730295481b4e091bdaff4bef0822aab7200f798b72056fd93a754893.jpg)  
 Figure 3: Term Structure of Interest Rates - Normal Curve  
 
-![](images/1dddf2b5e77ba7aa0350165f9a898554dcf6edc2a1bf9ad8580b0a306a35d5ab.jpg)  
+![](1dddf2b5e77ba7aa0350165f9a898554dcf6edc2a1bf9ad8580b0a306a35d5ab.jpg)  
 Figure 4: Term Structure of Interest Rates - Inverted Curve  
 
-![](images/38cbd21058558d5615bac33f35b2f1ae4b80710ef8624a03ba832ff2748cd647.jpg)  
+![](38cbd21058558d5615bac33f35b2f1ae4b80710ef8624a03ba832ff2748cd647.jpg)  
 Figure 5: Term Structure of Interest Rates - Hump-Shaped Curve  
 
 Table 1: Summary Statistics of the Interest Rate Series   

@@ -24,7 +24,7 @@ With an increasing proportion of interest rate swap trades now being valued usin
 
 (Thomson Reuters IFR 1838, June 19 to June 25, 2010, "LCH adopts OIS discounting")  
 
-![](images/250888d8f586a09f9415abd0d15ab69c7c96be1a36a073cf2a0e8410f0dc973c.jpg)  
+![](250888d8f586a09f9415abd0d15ab69c7c96be1a36a073cf2a0e8410f0dc973c.jpg)  
 
 # FIGURE 24.8  
 

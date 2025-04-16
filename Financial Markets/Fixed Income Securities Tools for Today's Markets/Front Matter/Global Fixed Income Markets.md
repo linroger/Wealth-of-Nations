@@ -17,10 +17,10 @@ Figure O.1 shows that the five largest issuers, in terms of amounts out-. standi
 
 Figure O.2 decomposes debt outstanding in the five largest regions by sector. The large fraction of government debt in Japan reflects decades of government borrowing and spending intended to stimulate the economy.. The fraction of government debt in the United States, the Eurozone, and the United Kingdom is lower, at about. $50\%$ , but has increased significantly since the financial crisis of 2007-2009. Corporations in the United States are relatively more likely to issue bonds directly to the public, while corporations in the Eurozone, Japan, and the United Kingdom are relatively more likely to borrow funds from intermediaries, like banks, which, in turn, raise money from the public. While Figure O.2 includes the breakdown for debt in China, the relatively large role of the government in financial and nonfinancial enterprises makes comparisons across sectors and regions less meaningful.  
 
-![](images/576323b781695c0caa1d035fbacbbc955a432c6811f50f85c0d5c9b8868c58a6.jpg)  
+![](576323b781695c0caa1d035fbacbbc955a432c6811f50f85c0d5c9b8868c58a6.jpg)  
 FIGUrE 0.1 Global Debt Securities Outstanding, by Residence of Issuer, as of March 2021. Countries with an Asterisk Are in the Eurozone.. Sources: BIS; and Author Calculations..  
 
-![](images/c8996425155122d6f922131813c0d03d3958fd6108f7aa3fc83e01bb150797a1.jpg)  
+![](c8996425155122d6f922131813c0d03d3958fd6108f7aa3fc83e01bb150797a1.jpg)  
 FIGURE 0.2 Global Debt Securities Outstanding, by Sector, as of March 2021. Sources: BIS; and Author Calculations.  
 
 Table O.1 and Figure O.3 show the notional amounts of outstanding interest rate derivatives across the globe. These derivatives are described in later chapters, but derivatives essentially allow market participants to take positions on interest rates, whether for hedging, investment, or speculative purposes. The notional amount of a derivative is used to calculate the cash flows that one of the derivative's counterparties pays the other. Adding together all notional amounts, however, can significantly overstate market size. First, the largest market participants, namely dealers, tend to be simultaneously long and short nearly identical derivatives. Second, options are actually equivalent to only fractions of the notional amounts of their underlying securities. Later chapters elaborate on these points, but, for the purposes of this overview, this table and figure are reported in notional amounts.  
@@ -34,7 +34,7 @@ TABLE 0.1 Notional Amounts of Interest Rate. Derivatives. Swaps, Options, and FR
 
 USD: United States Dollar; EUR: Euro; GBP: British Pound;. JPY: Japanese Yen; CAD: Canadian Dollar; SEK: Swedish Krona; CHF: Swiss Franc; BRL: Brazilian Real; AUD: Australian Dollar. Source: BIS.  
 
-![](images/eb0bf0f85bb8222052064dfc13771ccc3058def768f0a7d502848e234768f737.jpg)  
+![](eb0bf0f85bb8222052064dfc13771ccc3058def768f0a7d502848e234768f737.jpg)  
 FIGURE 0.3  Credit Default Swaps, Notional Amounts Outstanding, by Sector and Type, as of June 2020. Source: BIS.  
 
 Finally, Figure O.3 gives the notional amount of credit default swaps (CDS) outstanding. These are discussed in detail in Chapter 14, but, roughly speaking, CDS allow investors to take positions that are equivalent to lever-. aged long or short positions in bonds with credit risk. The figure divides the market into credit sectors: CDS can be written on nonfinancial com-. panies, financial companies, sovereigns, asset-backed securities (ABS), and mortgage-backed securities (MBs). Within each sector, a single-name CDS references a single credit (e.g., the government of Spain), while an index. CDS references a portfolio of credits (e.g., 25 European financial companies). Note that the CDS market is much smaller in notional amount than the derivatives markets depicted in Table O.1.  

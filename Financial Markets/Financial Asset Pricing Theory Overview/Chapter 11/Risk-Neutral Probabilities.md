@@ -309,11 +309,11 @@ $$
 P_{0}={\frac{1}{1.0638}}\left(0.3830\cdot[1.7333+2]+0.4255\cdot[2.27+3]+0.1915\cdot[2.7+4]\right)=4.658.
 $$  
 
-![](images/a2f52a9a4d6ae2ad5b0760089f702b9af89feead1fe5c4b8462876d702fb8e07.jpg)  
+![](a2f52a9a4d6ae2ad5b0760089f702b9af89feead1fe5c4b8462876d702fb8e07.jpg)  
 Figure 11.1: Real-world probabilities and the state-price deflator in Example 11.2.  
 
-![](images/5fbaa82e401a43e247d8c3a1121114d2eca1c065c5f0810d8f69cc4bf9a0d33f.jpg)  
+![](5fbaa82e401a43e247d8c3a1121114d2eca1c065c5f0810d8f69cc4bf9a0d33f.jpg)  
 Figure 11.2: Risk-neutral probabilities and one-period risk-free returns in Example 11.2.  
 
-![](images/6afb5642b9dfd827a091414f89df09ac8edfff8274d41fb12d73ba13f2a87f8c.jpg)  
+![](6afb5642b9dfd827a091414f89df09ac8edfff8274d41fb12d73ba13f2a87f8c.jpg)  
 Figure 11.3: Risk-neutral valuation of a dividend process in Example 11.2.  

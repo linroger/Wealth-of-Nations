@@ -130,7 +130,7 @@ Search online for the following term: "FTsE250 chart". Note the value of the ind
 
 As noted above, a stock market index can be considered a barometer of economic activity. In addition, as world economies are exposed to many of the same systematic issues, they have a tendency to move together. Consider the following scatter diagram:  
 
-![](images/0caafa4ebf6c2942b5dcd437f5866c1306a6117b7e64327397be9478bd92bcd1.jpg)  
+![](0caafa4ebf6c2942b5dcd437f5866c1306a6117b7e64327397be9478bd92bcd1.jpg)  
 Scatter diagram of FTSE100 against S&P500 (weekly changes, 2012-2017  
 
 It is evident that the two stock market indices have a tendency to move together. In fact, over the 261 weeks analysed, the two series moved in the same direction for 196 weeks $(75\%)$ and in the opposite direction for 65 weeks $(25\%)$ . A more formal way of communicating this information is to say that the correlation between the weekly returns is 0.73 and is therefore positive. Correlation takes on the following values:  

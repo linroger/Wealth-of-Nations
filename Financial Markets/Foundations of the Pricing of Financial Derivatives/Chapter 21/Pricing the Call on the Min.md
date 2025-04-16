@@ -123,19 +123,19 @@ Figure 21.1 illustrates the sensitivity of min-max options with respect to chang
 
 Figure 21.2 illustrates the sensitivity of min-max options with respect to changes in the correlation between asset 1 and asset 2. Note that as the correlation declines, the call on max and the put on the min increase in value as the likelihood of favorable moves in one of the two assets increases due to the lower correlation. Further, the call on the min and the put on the max decrease in value as the likelihood of an unfavorable move in one of the two assets increases. Further, note that as the correlation tends to $+1$ , the call on the min and call on the max converge to the Black-Scholes-Merton call value (14.23, same for both underlying calls) and the put on the min and put on the max converge to the Black-Scholes-Merton put value (9.35, same for both underlying puts).
 
-![](images/8356555bee48f614fc675030576bd86ecb20cf2ab08fd515f924f861d52b4211.jpg)
+![](8356555bee48f614fc675030576bd86ecb20cf2ab08fd515f924f861d52b4211.jpg)
 Figure 21.3 illustrates the sensitivity of min-max options with respect to changes in the time to expiration. The familiar time value decay is evident with all four min-max options
 FIGURE 21.1 Min-Max Option Value Sensitivity to Asset Price 2
 
-![](images/9b484f51222b48b2aced3c381aaae67a71e0c89312e536db6d34b5fc83579e8d.jpg)
+![](9b484f51222b48b2aced3c381aaae67a71e0c89312e536db6d34b5fc83579e8d.jpg)
 FIGURE 21.2  Min-Max Option Value Sensitivity to Correlation
 
-![](images/6974ad10f4e05c6c3aa98afccdc3716c8e257e1b0ba1ca6ec4041766758b94c4.jpg)
+![](6974ad10f4e05c6c3aa98afccdc3716c8e257e1b0ba1ca6ec4041766758b94c4.jpg)
 FIGURE 21.3  Min-Max Option Value Sensitivity to Time to Expiration
 
 converging to zero as time to expiration tends toward zero. The call on the max and the put on the min have greater time value decay because they have greater value for longer maturities.
 
-![](images/ec1a6e5b62c3f8b02c87a9f3f22237ec34de01d78443b61985c4731aae46652a.jpg)
+![](ec1a6e5b62c3f8b02c87a9f3f22237ec34de01d78443b61985c4731aae46652a.jpg)
 FIGURE 21.4 Min-Max Option Value Sensitivity to Asset 2 Volatility
 
 Figure 21.4 illustrates the sensitivity of min-max options with respect to changes in asset 2 volatility. As asset 2 volatility tends toward zero, the put on the min converges to the Black-Scholes-Merton put value for asset 1 and the put on the max converges to zero. Min-max call options are less transparent. When volatility converges to zero, the Black-Scholes-Merton call value converges to the lower bound, which in this case is positive (asset price 2 less the present value of the exercise price). Based on Equation (21.3), we know the sum of min-max call options should equal the sum of the underlying calls. Thus, we observe a nonzero call on min and a call on max in excess of the BlackScholes-Merton call value (14.23).

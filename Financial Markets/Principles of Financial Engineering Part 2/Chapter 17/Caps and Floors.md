@@ -25,7 +25,7 @@ where $L_{t_{i},f_{t_{0}}}$ , and $N$ are the relevant LIBOR rate, forward swap 
 
 We now consider a particular decomposition of this forward swap. First, note that depending on whether $L_{t_{1}}>f_{t_{0}}$ or not, the swap party either receives a payment at time $t_{2}$ , or makes a payment. Thus, the first cash flow to be settled at time $t_{2}$ can be decomposed into two contingent cash flows  
 
-![](images/edd5a6ae4336e2ead5aac277438228c2f2de01996d0a5eedbfdf4ddb42ffe7b1.jpg)  
+![](edd5a6ae4336e2ead5aac277438228c2f2de01996d0a5eedbfdf4ddb42ffe7b1.jpg)  
 
 # FIGURE 17.6  
 
@@ -59,7 +59,7 @@ These forward caps and floors can be extended to $n$ periods by putting together
 
 Figure 17.6 shows that we obtained a contractual equation. By adding Figures 17.6b and c vertically, we get back the original forward swap. Thus, we can write the contractual equation:  
 
-![](images/afd10c91c72d08666b134e444f0c27b1567428071d5fe013d96c4c792673634b.jpg)  
+![](afd10c91c72d08666b134e444f0c27b1567428071d5fe013d96c4c792673634b.jpg)  
 
 This contractual equation shows that caps, floors, and swaps are closely related instruments.  
 

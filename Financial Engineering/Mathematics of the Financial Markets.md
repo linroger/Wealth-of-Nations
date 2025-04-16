@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 tags:
   - '#credit_derivatives'
@@ -11,6 +12,9 @@ tags:
   - '#volatility'
 ---
 ![](images/ab5e6bfc1d3ccc633b6260382b65f007e65d153e41096f600e2ec1cc8cfb1765.jpg)  
+=======
+![](ab5e6bfc1d3ccc633b6260382b65f007e65d153e41096f600e2ec1cc8cfb1765.jpg)  
+>>>>>>> 4ba5c8f17aa9210ca5e08168c9ffe5b6dde50485
 
 # of the Financial Markets  
 
@@ -221,7 +225,7 @@ $$
 that is, $z_{t}$ is compounded t times. Indeed, suppose that $t=2$ years. Since for a zero-coupon.   
 there are no cash flows (of interest) paid between $\mathfrak{t}_{0}$ and year 2, the interest relating to the.  
 
-![](images/f91ab94ac4cc7dbb8e13ffbc03616c7381bdd66bbeeaba6f8d203d46be72454b.jpg)  
+![](f91ab94ac4cc7dbb8e13ffbc03616c7381bdd66bbeeaba6f8d203d46be72454b.jpg)  
 Figure 1.1 Interest on a period of time, from $t_{0}$ to $t$  
 
 first year is compounded so that, for the second year, the present value at the beginning of year 2 becomes  
@@ -325,7 +329,7 @@ $$
 D_{t}=\frac{1}{1+0.05\times{}^{122}/360}=\frac{1}{1.01694}=0.9833
 $$  
 
-![](images/2412f951b17a03f9278c0c54551028b34c8079ac9b4583c8219231db069ff30c.jpg)  
+![](2412f951b17a03f9278c0c54551028b34c8079ac9b4583c8219231db069ff30c.jpg)  
 Figure 1.2 Impact of the 7-year zero rate on both curves  
 
 . $z_{t}=5\%$ p.a., $t=4$ years:  
@@ -466,7 +470,7 @@ $$
 
 where $\mathrm{f}_{\mathrm{t-1,t}}$ can be viewed as a marginal rate, that is, the reinvestment rate on a period as implied by the structure of the rates prevailing for the previous periods -- see Figure 1.4.  
 
-![](images/19b1dde1d662a9757340c202c6de8b097b391a0fb7e7a2fcb267c910dab5d51e.jpg)  
+![](19b1dde1d662a9757340c202c6de8b097b391a0fb7e7a2fcb267c910dab5d51e.jpg)  
 Figure 1.3 The forward zero-coupon rate  
 
 From Eq. 1.10:  
@@ -485,10 +489,10 @@ Note that Eq. 1.10 must be adjusted if any sub-period of time, including the one
 
 From Eq. 1.11 and from this example, one observes that if the zeroes are growing with. $t.$ the forwards are growing higher. Indeed, the rate in the numerator of the fraction is higher than in. the denominator, and is affected by a higher power. Conversely, the forwards are lower if the zeroes are decreasing.  
 
-![](images/602fe2b14f83de5b73a2fbd95f1d00a6255c8f292c210ad4ffe82b0b447327a6.jpg)  
+![](602fe2b14f83de5b73a2fbd95f1d00a6255c8f292c210ad4ffe82b0b447327a6.jpg)  
 Figure 1.4 Forward rates on successive single periods of time  
 
-![](images/06ab64b01c881908d0f7faace8b8ca3cc47288813c516a796a7fe29ed7928e82.jpg)  
+![](06ab64b01c881908d0f7faace8b8ca3cc47288813c516a796a7fe29ed7928e82.jpg)  
 Figure 1.5Forward rates on $n$ periods after $t$ periods  
 
 # 1.4.1 Generalization: forwards and discount factors  
@@ -708,7 +712,7 @@ $$
 
 giving $z_{3}$ , and so on.  
 
-![](images/28e72bd1d571fc1aaf5dbd54bffe62d5d413fcced81e7b6a68b90b9f5250d088.jpg)  
+![](28e72bd1d571fc1aaf5dbd54bffe62d5d413fcced81e7b6a68b90b9f5250d088.jpg)  
 Figure 2.1 Example of a fictitious set of seven spot rates as data points  
 
 This recurrent computation is called the bootstrap method. The method can also be applied with discount factors, which would of course lead to the same. $z_{i}\mathbf{S}$ Example on the 3-year discount factor previously:  
@@ -738,7 +742,7 @@ to the number of the data points minus one, that gives a unique solution. At lea
 is exact with respect to the observed market data points. But their dispersion may lead to an unrealistic curve, of an odd form. Interpolation of rates on the yield can give unreasonable.   
 values.  
 
-![](images/cd429db94c239dfa407681a117cc7f196472e06497fb75775bb2b6439fa27ded.jpg)  
+![](cd429db94c239dfa407681a117cc7f196472e06497fb75775bb2b6439fa27ded.jpg)  
 Figure 2.2  French government EUR yield curve (11/09/2009), built on coupon rates beyond 1 year Source: Bloomberg  
 
 Applying the method to the previous example, the seven data points are linked by a six-order polynomial, as in Figure 2.4.  
@@ -749,10 +753,10 @@ The obtained curve presents unrealistic bumps: for example, interpolating for ra
 
 This method consists in determining a curve of a certain order - usually low -- such as the distances between each of the points and the curve is minimized, by means of a non-linear regression. For example, on the set of seven data points, the resulting curve is smoother than by the previous methods (see Figure 2.5) and interpolations are more acceptable since they present a "natural" curvature. Unfortunately, by construction, the curve is almost not passing. by the selected data points, so that the most valuable ingredients of the yield curve are not in fact part of it.  
 
-![](images/ce0c0f66196e328794a171b6103bca0d09f81300d363c5b5c425d5e32170f154.jpg)  
+![](ce0c0f66196e328794a171b6103bca0d09f81300d363c5b5c425d5e32170f154.jpg)  
 Figure 2.3 Example of the linear method  
 
-![](images/3c19f392e24421036987f5a0bcba4b67f071c05d2d5798f54bb3ec0746acded9.jpg)  
+![](3c19f392e24421036987f5a0bcba4b67f071c05d2d5798f54bb3ec0746acded9.jpg)  
 Figure 2.4 Example of a six-order polynomial  
 
 Nevertheless, sometimes it is worth using this method, for example when the yield curve. can more or less realistically be assimilated to a logarithmic curve. Also, it may prove useful. within the context of modeling of derivatives, where the aim is less to draw the most accurate yield curve for market applications than to give mathematical support to a model for interest rates derivatives. But its main raison d'etre is when a yield curve must be built from a set of untrustworthy data, hence the drawback of a curve not actually passing through these data is less important. This is the case, for example, of illiquid interest rates markets such as emerging. markets.  
@@ -763,10 +767,10 @@ In this method, data points are joined two by two by linked segments or "splines
 
 Also, order-3 polynomials allow for computing first and second derivatives that are not constants. This copes with the general approach in financial calculus, aiming to work within a framework offering the flexibility of a variable "slope"' and a variable "convexity".  
 
-![](images/5a79b34ac19587f1f43b074a2952553a1f5eb353c197a6ede5a1e69408a7a5c9.jpg)  
+![](5a79b34ac19587f1f43b074a2952553a1f5eb353c197a6ede5a1e69408a7a5c9.jpg)  
 Figure 2.5 A polynomial curve passing through the set of data points  
 
-![](images/b09a044f557fe62dd59af7bfe38f4dcae112f703719c4c46e7fa8c5d56f58cf2.jpg)  
+![](b09a044f557fe62dd59af7bfe38f4dcae112f703719c4c46e7fa8c5d56f58cf2.jpg)  
 Figure 2.6 Example of two cubic splines linking three zeroes  
 
 Let us consider an order-3 polynomial spline $i.$ delimited by two successive data points from the series of zero rates of maturity. $t=1\ldots i\ldots T,$ denoted $z_{t}$ . It is a function of time. $t$ of the form  
@@ -968,7 +972,7 @@ For a classic bullet coupon bond, we can extrapolate the above result by conside
 
 one zero-coupon bond for each of coupon payments, until the $n{-}1$ th installment: their maturities correspond to those of the interest payments; each single repayment is equal to the coupon; one zero-coupon bond for the last (nth) installment, at maturity, corresponding to the payment of the last coupon plus the reimbursement of the principal.  
 
-![](images/91f42ef55716639cea89b4d2b4a41e5e7f1556a2b23db17399f59d2d49557c8a.jpg)  
+![](91f42ef55716639cea89b4d2b4a41e5e7f1556a2b23db17399f59d2d49557c8a.jpg)  
 Figure 3.1 Relationship between $B$ and $y$  
 
 Hence, the price $B$ of a bullet bond of maturity. $T.$ priced exactly on a coupon payment date,2 is  
@@ -1036,7 +1040,7 @@ Let us consider two typical situations:
 The case of a high-rating bond, issued at par, whose rating is later downgraded: the initial. spread in the numerator of Eq. 3.4 was justified by the initial rating level, and is incorporated in the coupon value, that is more or less higher than the corresponding coupon for a riskless bond. But if later on, on the secondary market, the risk premium - as perceived by. the market - is significantly higher, it pushes the bond price $B$ down, even in the absence of increases in market interest rates (that should affect the $y$ ). This is the case of the Greek government bond shown in Figure 3.2 (see the huge downward move from spring 2010).   
 Conversely, the case of a bond issued by a poor rated corporation: to be issued at par, the borrower will have to pay some spread over the current coupon level, that would be paid. by a risk-less issuer. This spread in the numerator will be needed for compensating the risk premium in the denominator, which is charged by the market. Now, if the borrower's rating. is improved later on, the bond price will appreciate above par (in the absence of yield curve. impacts on y), due to a reduction of the market risk premium affecting the denominator of Eq. 3.4.  
 
-![](images/4f9212d3f92a6a14919e10ba0246b6191ca2bce7c090bf84b2b026691207854e.jpg)  
+![](4f9212d3f92a6a14919e10ba0246b6191ca2bce7c090bf84b2b026691207854e.jpg)  
 Figure 3.2 Greek government bond 2010-2011 Source: Bloomberg  
 
 It is worth noting that both the spread and risk premium result from a mixture of rational -- based on an objective valuation of the borrower's financial solvability - and irrational -- speculative pressures, or market fears and overreactions - considerations.  
@@ -1159,7 +1163,7 @@ $$
 {\frac{a_{1}\times1/(1+y)^{1}+a_{2}\times2/(1+y)^{2}+\dots+a_{n}\times n/(1+y)^{n}}{a_{1}/(1+y)^{1}+a_{2}/(1+y)^{2}+\dots+a_{n}/(1+y)^{n}}}
 $$  
 
-![](images/1f0f337c6c919fb096d22a403d4a18b79ef8ca30defd6fb69bfb0e6e22323ac2.jpg)  
+![](1f0f337c6c919fb096d22a403d4a18b79ef8ca30defd6fb69bfb0e6e22323ac2.jpg)  
 Figure 3.3A 7-year bond with a $5\%$ coupon  
 
 This ratio is called the duration $D$ , that is, the average of the discounted cash flows weighted by their maturities. The denominator of Eq. 3.6 is nothing other than the bond price $B$ (cf. Eq. 3.3), so that $D$ can be expressed as  
@@ -1180,7 +1184,7 @@ We immediately understand that the equilibrium point is nearer: other things rem
 
 More generally, whatever intermediate cash flows are, as for an amortizing bond, the duration is always shorter than the maturity, the importance of intermediate cash flows reducing the duration accordingly.  
 
-![](images/6e71cb4136eb611c2a19d221351747ae0bdca9e8631aa4d7b87462728752e0d1.jpg)  
+![](6e71cb4136eb611c2a19d221351747ae0bdca9e8631aa4d7b87462728752e0d1.jpg)  
 Figure 3.4 A 7-year bond with a $9\%$ coupon  
 
 # Mathematical Approach of the Duration  
@@ -1221,7 +1225,7 @@ $$
 \frac{-\partial B/B}{\partial(1+y)/(1+y)}=D
 $$  
 
-![](images/7839c43513e07be0c732f016127ab0944c47497cc9765c09cc644d03eeadbfc8.jpg)  
+![](7839c43513e07be0c732f016127ab0944c47497cc9765c09cc644d03eeadbfc8.jpg)  
 Figure 3.5The lower the. $y$ , the higher the slope and therefore the duration  
 
 that is, the relative, or percent, change of $B$ divided by the relative, or percent, change of $y$ For finite changes instead of infinitesimal ones, we have  
@@ -1245,7 +1249,7 @@ Table 3.1 10-year benchmark German T-bond
 
 <html><body><table><tr><td>t(years):</td><td>2011 1</td><td>2012 2</td><td>2013 3</td><td>2014 4</td><td>2015 5</td><td>2016 6</td><td>2017 7</td><td>2018 8</td><td>2019 9</td><td>2020 10</td></tr><tr><td>cashflows:</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>102.25</td></tr><tr><td>YTM:</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td><td>0.02334</td></tr><tr><td>disc.(t*cash fl.):2.198683</td><td></td><td>4.297072</td><td>6.298598</td><td>8.206589</td><td>10.02427</td><td>11.75477</td><td>13.40111</td><td>14.96625</td><td>16.45301</td><td>811.8276</td></tr><tr><td>D=≥ disc.(t*cash fl.)/99 257=9.06</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>  
 
-![](images/49191d5fdb4a149b922ce1daebf341a2437aedd22dc932068c624d506e41c2fe.jpg)  
+![](49191d5fdb4a149b922ce1daebf341a2437aedd22dc932068c624d506e41c2fe.jpg)  
 Figure 3.6 Typical configurations of a bond's duration in function of its maturity  
 
 Figure 3.7 summarizes the properties of the duration.  
@@ -1260,7 +1264,7 @@ $$
 \Delta(1+y)/(1+y)
 $$  
 
-![](images/93c86c204fbd97e878a256a987d1a53ee41ce7a79521cc593ca4b7c0ac16626a.jpg)  
+![](93c86c204fbd97e878a256a987d1a53ee41ce7a79521cc593ca4b7c0ac16626a.jpg)  
 Figure 3.7 Duration of the bond: a summary  
 
 in Eq. 3.9, that can be rearranged as  
@@ -1342,7 +1346,7 @@ $$
 
 The extension to a coupon bond is straightforward, since a coupon bond can be split into a series of zero-coupon bonds.  
 
-![](images/c4a0ed5f083bb7bc18854d524b920ede3d4716369b5245ab38e4e8ceeb2622ed.jpg)  
+![](c4a0ed5f083bb7bc18854d524b920ede3d4716369b5245ab38e4e8ceeb2622ed.jpg)  
 Figure 3.8 A single cash flow valuing $F V$ after time t  
 
 The duration $D_{\mathrm{opt}}$ of bond options (cf. Chapter 11, Section 11.2) will understandably involve the duration $D_{B}$ of its underlying bond, the delta. $\Delta$ of the option (i.e., the quantity of underlying used to hedge the option position, cf. Chapter 10, Section 10.5), the price $B$ of the underlying and the price $O_{B}$ of the option (call or put). The calculation gives.  
@@ -1434,7 +1438,7 @@ $$
 
 $\Rightarrow$ there must be a compensation between positive and negative returns at some time that. corresponds to the duration of the portfolio. In other words, a portfolio is immunized (in the. sense of a parallel shift in yields) at a horizon of time corresponding to its duration. Earlier and later, the portfolio is in risk - see Figure 3.9..  
 
-![](images/4d16cab11ad35a6f05ac023750d20fd21217a04bdf536d70686d783bbff56e94.jpg)  
+![](4d16cab11ad35a6f05ac023750d20fd21217a04bdf536d70686d783bbff56e94.jpg)  
 Figure 3.9 A portfolio in risk  
 
 The portfolio manager who anticipates a yield increase will therefore feel better with the duration of his portfolio shorter than his horizon of investment, and conversely if he is expecting a decrease in yields. Unfortunately, the duration will also vary over time, so that this holding period remains subject to further changes.  
@@ -1483,7 +1487,7 @@ $$
 C=\frac{\sum_{t=1}^{T}t\left(t+1\right)c(1+y)^{-t}+T\left(T+1\right)p(1+y)^{-T}}{(1+y)^{2}\left[\sum_{t=1}^{T}c(1+y)^{-t}+p(1+y)^{-T}\right]}
 $$  
 
-![](images/644c41c12d7e98a237281477f112ddbecff92cf31725a7f59c053c42be717433.jpg)  
+![](644c41c12d7e98a237281477f112ddbecff92cf31725a7f59c053c42be717433.jpg)  
 Figure 3.10Positive convexity  
 
 From these calculations, we can see that if the slope of the bond price is negative, the convexity is actually positive9 -- see Figure 3.10.  
@@ -1534,10 +1538,10 @@ As yields decrease, both duration and convexity increase, and conversely.
 
 Beyond its role of improving the sensitivity calculation from only the use of duration, the convexity may also play some role in selecting bonds for a portfolio. Suppose that a portfolio manager needs to buy a bond with a given duration and has a choice between two bonds, $A$ of lower convexity and $B$ with higher convexity. (We suppose that both. $A$ and $B$ present equivalent market characteristics of liquidity, rating, etc.) He would select $B.$ , although the market would normally price. $B$ slightly higher than $A$ . In the case of slight yield variations, both bonds will. vary almost equally in price, but for greater yield changes, the effect of the positive convexity will push the price of $B$ more and more above the corresponding. $A$ bond of lower convexity. So if yields decrease, $B$ will increase more than $A$ ,while if yields decrease,. $B$ will be less. affected than A  see Figure 3.11.  
 
-![](images/ec217ba2d565987abb7b3cc0ea01fa55bc837ee4715168f694fe1e9a00167af9.jpg)  
+![](ec217ba2d565987abb7b3cc0ea01fa55bc837ee4715168f694fe1e9a00167af9.jpg)  
 Figure 3.11 Two bonds of different convexity  
 
-![](images/e5889eb6340ba8ce05587a7d8a2fa81d421688c6c621c940899c11d2c94d73cd.jpg)  
+![](e5889eb6340ba8ce05587a7d8a2fa81d421688c6c621c940899c11d2c94d73cd.jpg)  
 Figure 3.12The EUR/USD rate 1992-2009 Source: Traderforce  
 
 # 3.3 CURRENCIES  
@@ -1556,7 +1560,7 @@ It is therefore not surprising that the forex market is almost not correlated wi
 
 Using the universal ISO code for currencies, prices are presented as follows, for example the EUR against USD:  
 
-![](images/3ce6c7bd09110e701f7017cab1436cf1d21879972c500481f4c96e034c42bc3f.jpg)  
+![](3ce6c7bd09110e701f7017cab1436cf1d21879972c500481f4c96e034c42bc3f.jpg)  
 
 For each couple of currencies, the role of ref and. $c/\nu$ currency results from the market practice. In particular, the USD can be used as a ref currency - for example, in the case of USD against JPY - or as a $c/\nu$ currency, as in the case of EUR/USD. As a rule of thumb:.  
 
@@ -1659,7 +1663,7 @@ $$
 S=\frac{d_{1}}{(r-g)}
 $$  
 
-![](images/0d5fc7238b89867dab3f8f5e28efaaa429c642b0ad020a0461e920374d975a1b.jpg)  
+![](0d5fc7238b89867dab3f8f5e28efaaa429c642b0ad020a0461e920374d975a1b.jpg)  
 Figure 4.1 Stock distributing a constant dividend of $\$5$ with a constant discount rate of. $5\%$  
 
 where $d_{1}$ means $d_{+1\mathrm{year}}$ , but it now introduces the parameter $g$ as a constant growing rate estimate of the dividend, and. $r$ is now the expected stock return on the long run. So this model just shifts the problem of making assumptions on the unknown future, and its validity is conditioned to the degree of realism of these assumptions.  
@@ -1735,7 +1739,7 @@ During the first few years, the Tiscali stock price moved as shown in Figure 4.2
 
 It is interesting to note that, first because of the dot-com bubble, then because of the dot-com crisis, the stock price moved up then down, out of proportion with the computed prices in the figure. However, during some five months in mid-2o00, the price seemed to stabilize around the "full' option price, then stabilized from July 2001 to May 2002 around the first option price, thereafter continuing below the discounted cash $\mathrm{{flow}=\mathrm{{IPO}}}$ price. Further, to the end of 2003, the market price becomes irrelevant because of this calculation hypothesis.  
 
-![](images/082ff20f04ac15f6db59d2ef919ae6233660a1eb66ae9e53ae1f2dbcc900fc20.jpg)  
+![](082ff20f04ac15f6db59d2ef919ae6233660a1eb66ae9e53ae1f2dbcc900fc20.jpg)  
 Figure 4.2 Tiscali stock price November 2009 to April 2004 Source: A.R. on Traderforce  
 
 The limitations of the real option method validity are not negligible: even if carefully applied to company's profiles as stated previously:  
@@ -1822,7 +1826,7 @@ $E[r(t)]$ is naturally the return measure and $S T D[r(t)]$ the risk measure bec
 
 For the purpose of the Portfolio Theory, a stock is thus fully determined by its ex post $r$ and $\sigma$ measures, $S(r,\sigma)$ , as illustrated in Figure 4.3. For example, in 2006, based on successive daily close prices, the return and risk of L'Oreal were $20\%$ and $19\%$ respectively.  
 
-![](images/3e963ca502cbeea00037bfedd3c7cee8dd3516e16fd9727dcdd0d58a02cd0417.jpg)  
+![](3e963ca502cbeea00037bfedd3c7cee8dd3516e16fd9727dcdd0d58a02cd0417.jpg)  
 Figure 4.3 Example of a stock showed in a $(r,\sigma)$ graph  
 
 # 4.3.3 The Markowitz model  
@@ -1855,10 +1859,10 @@ In a $(r,\sigma)$ chart, it is possible, for a given past period of data to loca
 
 Portfolios along the efficient frontier are called efficient portfolios - indeed, they offer a maximum return for a given risk. On its extreme left side, the efficient frontier in Figure 4.4 also delimits some minimum-return portfolios called sub-optimal portfolios: for a given risk level, there exists another point of the efficient frontier that presents a higher return, due to the bending of the curve. Of course, other points - either single stocks or portfolios - in the figure, below the efficient frontier, are also sub-optimal.  
 
-![](images/b9cb836a206993281120eafd55eb4a5e1e9534fcb2d68dac97f1f7b9ea72dd77.jpg)  
+![](b9cb836a206993281120eafd55eb4a5e1e9534fcb2d68dac97f1f7b9ea72dd77.jpg)  
 Figure 4.4 Frontier of possible portfolios presenting the highest return  
 
-![](images/5f688e8abad11f43e923d0c04b2dac42dce5d2b31d6cf070210cf5a684d63c42.jpg)  
+![](5f688e8abad11f43e923d0c04b2dac42dce5d2b31d6cf070210cf5a684d63c42.jpg)  
 Figure 4.5 Daily close prices for L'Oreal and Total in 2006  
 
 The efficient frontier is actually composed of portfolios (of several stocks) only, but not of single stocks. The reason is that the diversification introduced by combining different stocks takes advantage of their relative lack of correlation. Let us illustrate this by using a portfolio of two stocks, L'Oreal and Total, using the series of daily close prices in 2006, as shown in. Figure 4.5.  
@@ -1912,7 +1916,7 @@ $$
 
 Applied to the above data, it gives. $w_{L}=0.458$ and $w_{T}=0.542$ , that is, not far from the. initial 50/50 composition of the portfolio in this example.  
 
-![](images/aa1ad63cf09fdb61418845d01af1df4e9311639c03cb69e467429afaeb44063d.jpg)  
+![](aa1ad63cf09fdb61418845d01af1df4e9311639c03cb69e467429afaeb44063d.jpg)  
 Figure 4.6 Dispersion of L'OREAL versus TOTAL returns  
 
 As a conclusion to the Markowitz model, to be optimized, an efficient portfolio must be situated on the efficient frontier, which implies it needs to be:  
@@ -1922,10 +1926,10 @@ and optimized in weights..
 
 Diversification has its limits, however. Understandably, more or less correlated stocks are affected by whole market movements, so that the benefit of such diversification is actually restricted to what is called the specific3 risk (specific to each individual stock), but the global  
 
-![](images/fb857a40a7b89dddcf27d0fc8822b0ac13edb3735e0c5407889757287888004d.jpg)  
+![](fb857a40a7b89dddcf27d0fc8822b0ac13edb3735e0c5407889757287888004d.jpg)  
 Figure 4.7Different combinations of $(r,\sigma)$ for different weights in a portfolio of L'Oreal and Total stocks  
 
-![](images/524e713ef82cc32ba96423ca273821d1bf07f521c7bc066c8a38c1f3a5d86d96.jpg)  
+![](524e713ef82cc32ba96423ca273821d1bf07f521c7bc066c8a38c1f3a5d86d96.jpg)  
 Figure 4.8 An illustration of specific and market risk  
 
 market risk remains as a whole. In other words, by increasing the number. $n$ of diversified stocks, the benefit in terms of risk reduction diminishes progressively, up to an asymptotical risk level of pure market risk (see Figure 4.8)..  
@@ -1946,7 +1950,7 @@ Coming back to Markowitz's efficient frontier, a common case is that of a portfo
 
 The $A{-}B$ (and beyond) straight line is tangent to the efficient frontier, so that it determines the $B$ point. It is called the capital market line (CML) and represents an optimal set of portfolios, made of the efficient portfolio of stocks. $B$ and of risk-free instruments in various proportions. In particular:  
 
-![](images/4fbc4aa938c2c45e559eeed1aff58720eb721fa0ea7c2202be7c1392768f70d1.jpg)  
+![](4fbc4aa938c2c45e559eeed1aff58720eb721fa0ea7c2202be7c1392768f70d1.jpg)  
 Figure 4.9 The capital market line  
 
 : at $A$ : the portfolio is. $100\%$ invested in the risk-free rate;   
@@ -1972,7 +1976,7 @@ where $f$ is some function, often considered as a quadratic curve.4
 
 So that, given the property of the CML (i.e., tangent to the efficient frontier), and some $U=f(P)$ curve, the optimal portfolio must be located at the tangent of U to CML, determining the adequate proportion between $B$ and risk-free instrument. To illustrate this, let us compare  
 
-![](images/0331f2ce6916b477aca028cd8d1846819b970411a789cbfd75fba828484a56af.jpg)  
+![](0331f2ce6916b477aca028cd8d1846819b970411a789cbfd75fba828484a56af.jpg)  
 Figure 4.10 Example of two investors with different utility functions  
 
 the case of two investors, Investor $\#1$ , with utility function. $\mathrm{U}_{1}$ , being more risk averse than.   
@@ -1986,10 +1990,10 @@ All investors work on the same time horizon of one-period ahead..
 
 Considering the optimal set of portfolios. $P$ that represents the CML, Sharpe defines the. CML parameters as the price of time and the price of risk, as in Figure 4.11.  
 
-![](images/06e9081fed95e57163e4cf9bf8db6afee43a30865a14780534c59500fcc70beb.jpg)  
+![](06e9081fed95e57163e4cf9bf8db6afee43a30865a14780534c59500fcc70beb.jpg)  
 Figure 4.11 CML defined by its parameters of price of time and price of risk  
 
-![](images/4cfa2113cc3089eef6a17bde2d6628664aae0316f3903571757a01160fc840bd.jpg)  
+![](4cfa2113cc3089eef6a17bde2d6628664aae0316f3903571757a01160fc840bd.jpg)  
 Figure 4.12 Coordinates of the weighted set of all market securities  
 
 Sharpe established that the tangency point of CML to the efficient frontier cannot be anything. else than a very specific portfolio "M", namely the weighted set of all market securities, or. "market portfolio", weighted by their market capitalization.5 (The proof is based on the fact. that if it was not so, stocks would be priced unsuitably, and if so, would give rise to market adjustments, to avoid arbitrages.) Market practitioners usually assimilate the whole set of market stocks to a stock index: at least it should be a broad index, representative of the whole. market.  
@@ -2046,10 +2050,10 @@ $$
 
 where $\sigma_{i M}$ is the covariance between. $i$ and $M.$ Thus $E_{i}-r_{f},$ called the risk premium of stock $i,$ is a linear function of its sole covariance with the market $M$ return. This linear relationship is called the security market line (SML), illustrated in Figure 4.13.  
 
-![](images/973bd117c9f9ab9cb94dfa0fe8745a5dc874ea578628299eb6f8ca9e3720e427.jpg)  
+![](973bd117c9f9ab9cb94dfa0fe8745a5dc874ea578628299eb6f8ca9e3720e427.jpg)  
 Figure 4.13 The security market line  
 
-![](images/421d1e4946772e2624044c88b63ef5867e550cd8346f8179974aacf38702bcff.jpg)  
+![](421d1e4946772e2624044c88b63ef5867e550cd8346f8179974aacf38702bcff.jpg)  
 Figure 4.14 The linear relationship between the return of a stock $i$ and the market return  
 
 Coming back to the $r_{F}$ factor of the initial linear regression in Eq. 4.3, it can now be clarified as the market $M$ return $r_{M}$  
@@ -2092,7 +2096,7 @@ It also follows that a single stock or a portfolio $i$ having a $\beta_{i}<1$ me
 
 An example can be found in the data for the 2009 daily closes for L'Oreal vs Euro Stoxx 50 as a market index (see Figure 4.15).  
 
-![](images/f896407e849f8a3ac95fc64cbf93122502815c8b104edac1160b2e5eecae5d2c.jpg)  
+![](f896407e849f8a3ac95fc64cbf93122502815c8b104edac1160b2e5eecae5d2c.jpg)  
 Figure 4.15 L'Oreal versus Euro Stoxx 50 as a market index (daily closes of 2009)  
 
 The regression in Figure 4.15, for the period under consideration (2009), shows that the regression line of Eq. 4.6 has an alpha of 0.0003 and a beta of 0.6123 ("defensive") towards the Euro Stoxx 50 as a proxy of the market portfolio. The quality of this regression, namely. its $R^{2}$ , is of 0.634, that is, the impact of the. $\varepsilon$ term of the equation. The correlation between. L'OREAL and the index is of 0.4022.  
@@ -2212,7 +2216,7 @@ The linear regression described by Eq. 4.15 is such that, separately (by making 
 
 In particular, at point $B,F_{j}=0\rightarrow r_{i}=E(r_{i})$  
 
-![](images/b8c46a304f3f56f9cf1ba1f6267ecbd31da79da6bd4ed5bcefbc887161564a92.jpg)  
+![](b8c46a304f3f56f9cf1ba1f6267ecbd31da79da6bd4ed5bcefbc887161564a92.jpg)  
 Figure 4.16Effect of $F_{j}$ on $r_{i}$ proportional to sensitivity factor $\beta_{i j}$  
 
 # Choice of Factors $F_{j}$  
@@ -2272,10 +2276,10 @@ The log-normal distribution models a prices distribution, assuming their corresp
 
 Note that, contrary to symmetric distribution like the normal one, where the mode is equal to the median and to the mean, if the skewness is positive, mode $<$ median $<$ mean, and conversely if it is negative. In Figure 4.17, these values are 0.47, 1.275, and 2.117 respectively.  
 
-![](images/f5e3ae68506eeaf63fdbcc0ba4a3143342717d6b78a7ff41c4a441385c608717.jpg)  
+![](f5e3ae68506eeaf63fdbcc0ba4a3143342717d6b78a7ff41c4a441385c608717.jpg)  
 Figure 4.17 Example of a log-normal distribution  
 
-![](images/1d41fc51c11594707294a6fd3c88696e1acc9f94db4f254dc6ac48cb125dc206.jpg)  
+![](1d41fc51c11594707294a6fd3c88696e1acc9f94db4f254dc6ac48cb125dc206.jpg)  
 Figure 4.18 Comparison of various probability distributions  
 
 $M_{4}$ , called kurtosis, is a measure of the \*flatness" (peakedness) of a density distribution. Here, too, we use a function of. $M_{4}$ called the Fisher's coefficient for quantifying the kurtosis. $(\kappa)$ of a distribution:  
@@ -2369,7 +2373,7 @@ Example of lack of stationarity: expected value, standard deviation (in lieu of 
 
 The yearly values of these measures have been deliberately reported to a common vertical. scale, to show to what extent the skewness and kurtosis vary over time. Indeed, they look more and more dispersed as the moment order increases: on this 1999-2009 series, their standard deviation is  
 
-![](images/a0a14247de0ea19ec2e46410f2382a6d23d71e8b1e22ec1117877f8ccff16d82.jpg)  
+![](a0a14247de0ea19ec2e46410f2382a6d23d71e8b1e22ec1117877f8ccff16d82.jpg)  
 Figure 4.19 SP500 1999-2009: distribution parameters  
 
 <html><body><table><tr><td></td><td>StandarddeviationofMk</td></tr><tr><td>Expectedvalue</td><td>0.0038</td></tr><tr><td>Standarddeviation</td><td>0.0107</td></tr><tr><td>Skewness</td><td>0.3795</td></tr><tr><td>Kurtosis</td><td>1.5990</td></tr></table></body></html>  
@@ -2384,12 +2388,12 @@ This is a priori possible if we assume that the returns of the AI positions are 
 
 Regarding AI within the framework of the four-moments CAPM, option positions, for example, do present some skewness because of their asymmetric payoff. Going back to  
 
-![](images/bfa93b751807cb6ac7672164bbc39c1c0e0fe4a1b530a167f93f446abf59846d.jpg)  
+![](bfa93b751807cb6ac7672164bbc39c1c0e0fe4a1b530a167f93f446abf59846d.jpg)  
 Figure 4.20 Improving the efficient frontier  
 
 Eq. 4.15, the differences between investing in traditional assets (bonds and stocks) versus investing in AI can be summarized as follows (TI means traditional investment here):.  
 
-![](images/5a81979dc11e8c7066b9975940c8fa0fc118f45afafb057170b338e16d406735.jpg)  
+![](5a81979dc11e8c7066b9975940c8fa0fc118f45afafb057170b338e16d406735.jpg)  
 
 This explains why, in the case of AI, performance measures must incorporate the impact of M3 and M4 (cf. Chapter 14, Section 14.1.5), otherwise traditional performance measure, restricted to the impact of M1 and M2, will turn out to be misguided.  
 
@@ -2430,7 +2434,7 @@ For the bank market maker, the issue is to quote a forward currency price withou
 : the prevailing spot rate XXX/YYY;   
 current interest rates on XXX and on YYY respectively.  
 
-![](images/7aece46c8c9bb4f6b812043f24b451b3fe0b759951805826d76d657e11d3e117.jpg)  
+![](7aece46c8c9bb4f6b812043f24b451b3fe0b759951805826d76d657e11d3e117.jpg)  
 Figure 5.1Buy spot @ S  
 
 To this extent, a forward implies a view on the future that is based only on present economic features and market data (spot currency price as well as relevant spot interest rates). Since such present market data are unquestionable, even if the forward price cannot be viewed as a best guess of the future spot currency price, at least it minimizes the error risk on it, assuming currency spot prices can be modeled by a log-normal distribution. This point will be developed in Section 8.9.  
@@ -2461,7 +2465,7 @@ To buy EUR against USD forward 1 year can be realized by buying it spot: this im
 the EUR being bought 1 year too early, it will be invested during 1 year at the current EUR 1-year rate;   
 the UsD being not yet available for this spot transaction, it must be borrowed for 1 year at the current USD 1-year rate.  
 
-![](images/33819a5466063c3cd91f90a515ffb53ba62a13f04ec084a5c72cffda6980af51.jpg)  
+![](33819a5466063c3cd91f90a515ffb53ba62a13f04ec084a5c72cffda6980af51.jpg)  
 Figure 5.2Buy forward @ F  
 
 To sell EUR against USD can be realized in a similar way, with the adequate borrowing and deposit rates.  
@@ -2528,7 +2532,7 @@ $$
 
 It results from Eq. 5.1 that the impact of the differential of interest rates, $r_{r e f}$ and $r_{c/\nu}$ 0n the forward price grows with the forward maturity: the swap points are increasing with maturity. Since longer forward maturities are normally less liquid than shorter ones, the market bidask spread goes slightly wider with longer forward maturities. See, for example, the market data in Figure 5.3 (data: 10/07/03). In this figure, the EUR and USD interest rates are given in the first two double columns, and the forwards, at discount, in the third double column; the maturities appear in the last column.  
 
-![](images/4011a688401606464b916d7cfb20334ea74a5d4ea7ed017596e7fcd2380b6ffa.jpg)  
+![](4011a688401606464b916d7cfb20334ea74a5d4ea7ed017596e7fcd2380b6ffa.jpg)  
 Figure 5.3EUR and USD market data for 10/07/03 Source: Reuters  
 
 Forwards above 2-year maturities are actually built from CRS swaps (cf. Chapter 6). The calculation of a forward currency rate becomes:  
@@ -2581,7 +2585,7 @@ Counterparty:
 . buys USD spot against JPY, $@$ 93.06;   
 . and sells USD fwd against JPY, $@$ 92.72.  
 
-![](images/19386597c66d7b617686b9837e5e1b1641873659225d965f7d79db9735477911.jpg)  
+![](19386597c66d7b617686b9837e5e1b1641873659225d965f7d79db9735477911.jpg)  
 Figure 5.4FX swap viewed as Buy spot/Sell fwd  
 
 The USD bought spot can be lent for 6 months. $\textcircled{a}1.363\%$ ; at maturity, the proceeds of this. deposit serve to deliver the USD forward. The JPY sold spot against the spot buying of USD have to be borrowed $@$ $0.72\%$ for 6 months so that its reimbursement is made possible by the. JPY received forward - see Figure 5.5.  
@@ -2598,10 +2602,10 @@ So, if the operation was covered in. $T$ by selling USD against buying JPY fwd f
 
 To check that both "views" refer to the same transaction, we can see that the operations in bold characters in Figure 5.5 are written in regular font in Figure 5.7, and vice versa.  
 
-![](images/eb8970973b15f1a41c92c5cabe93bff0489862066719a04a1916bfe6141bec5c.jpg)  
+![](eb8970973b15f1a41c92c5cabe93bff0489862066719a04a1916bfe6141bec5c.jpg)  
 Figure 5.5 Details of a Buy spot/Sell fwd transaction  
 
-![](images/47f5d604b7b5d21f1c97df2f022a6cd052aa09d9971a81e873709c179e1573d9.jpg)  
+![](47f5d604b7b5d21f1c97df2f022a6cd052aa09d9971a81e873709c179e1573d9.jpg)  
 Figure 5.6FX swap viewed as Borrow/Lend  
 
 FX swaps are commonly used in treasury operations and speculation.2 For example, FX. swaps can be used in treasury operations for a company facing scheduled mismatches in dates of cash in and cash out in a foreign currency..  
@@ -2614,7 +2618,7 @@ on 07/13/09:
 
 borrow 6 months JPY $@$ $0.72\%$ lend 6 months USD $\widehat{\underline{{a}}}1.363\%$ buy USD/JPY spot $@$ 93.06 for $\$1\mathrm{m}$ 6 months later (01/13/10): sell spot USD/JPY $@$ 91.38.  
 
-![](images/b7c2077fea29e438725890b95945815e3d0a4bb7f0176cca8f0e3097f2c43a40.jpg)  
+![](b7c2077fea29e438725890b95945815e3d0a4bb7f0176cca8f0e3097f2c43a40.jpg)  
 Figure 5.7 Details of a Borrow/Lend transaction  
 
 The USD deposit earns $\$1.06815\mathrm{m}$ (taking 6 months $=0.5$ year), and the borrowed JPY amounts to $\yen93,39502\mathrm{m}$ that needs ( $@$ 91.38) $\$1.022051\mathrm{m}$ . In this case, the lowered USD/JPY has lead the carry trade to a loss. To make it profitable, the final spot USD/JPY rate should have been superior to the forward price implied by the borrowing and lending, that is $>92.7684$  
@@ -2722,7 +2726,7 @@ the involved nominal amounts being so that: : the proceeds of the lending $@$ mu
 
 The resulting fair (theoretical) FRA rate is thus:  
 
-![](images/186db393ea8805e50882dfa2499d1d69acd5a7aa90dd62a2112e1f125b8d81bd.jpg)  
+![](186db393ea8805e50882dfa2499d1d69acd5a7aa90dd62a2112e1f125b8d81bd.jpg)  
 Figure 5.8Rates involved in a FRA  
 
 for time periods of maximum 1 year. The FRA market is actually working on a total period of maximum 2 years, sub-divided into any combination of sub-periods, but the majority of traded volume is involving shorter periods of some months. Of course, in case of any period exceeding 1 year, adequate compounding must be performed, in a similar way as shown in Section 1.1 above for the currency forwards..  
@@ -2816,7 +2820,7 @@ $$
 
 at $t_{0}!$  
 
-![](images/6584e338b53c8d953a07036f6606bb9c3be895c49dcac2d9ce62ca70bf05ee8a.jpg)  
+![](6584e338b53c8d953a07036f6606bb9c3be895c49dcac2d9ce62ca70bf05ee8a.jpg)  
 Figure 5.9Diagram of a CFD contract  
 
 # 5.4 CONTRACTS FOR DIFFERENCE (CFD)  
@@ -2868,7 +2872,7 @@ The market trades swaps on maturities from 2 to 30 years,3 the peak of traded vo
 
 Company $A$ has issued a $\$100$ million 5-year bond, at a fixed rate (because bond investors prefer a fixed coupon) of $5\%$ s.a. (basis: 30/360). But, for whatever reason,. $A$ would prefer being indebted at a floating $\mathrm{\\{=\}}$ variable) rate: the company may convert its fixed rate debt into a 5-year floating rate, namely, the 6-month. $\$1$ LIBOR rate by entering into an IRS with the. swap desk of a bank (see Figure 6.1).  
 
-![](images/d692f996e4cbf5597ec86677aaab217e2c071bf132abacd7fa9420df99c423a6.jpg)  
+![](d692f996e4cbf5597ec86677aaab217e2c071bf132abacd7fa9420df99c423a6.jpg)  
 Figure 6.1 IRS between a company and a bank  
 
 The swap is made of the exchange of cash flows showed in bold on the right side of the figure. In a usual IRS, exchanged cash flows are always interest payments (above arrows are figuring interest payments). These interest payments refer to a principal amount of the swap, called the notional.  
@@ -2900,18 +2904,18 @@ The following points should be noted:
 4. In this example, the EUR rate of $5\%$ paid by SNL, is actually 20bp lower than the prevailing   
 6-year market rate of $5.20\%$ in EUR. Actually, SNL has got the opportunity to tap investors satisfied with a 6-year NOK return of 20bp lower than the NOK swap rate, and this 20bp saving has been "transferred" to the EUR thanks to the swap. This point will be developed later on (cf. Section 6.6), but at least it is the rationale for SNL to borrow in a currency other than its own.  
 
-![](images/108fdc59a3eee52a25084590f3ad0995bb8decbb30bcccdb8a0f5a452eb2d8c4.jpg)  
+![](108fdc59a3eee52a25084590f3ad0995bb8decbb30bcccdb8a0f5a452eb2d8c4.jpg)  
 Figure 6.2 At inception (Feb 2002): forex spot operation  
 
-![](images/8d4612a8331d02b80d689a4bd16417154ac039b81a72d36be36b7d6ed27a7334.jpg)  
+![](8d4612a8331d02b80d689a4bd16417154ac039b81a72d36be36b7d6ed27a7334.jpg)  
 Figure 6.3 Each year, from Feb 2002 to Feb 2008: exchange of interests (fixed rates)  
 
-![](images/1962620a362fb34e9732fa4c7331449fccb8aeab3fac2f830ce5fca190562772.jpg)  
+![](1962620a362fb34e9732fa4c7331449fccb8aeab3fac2f830ce5fca190562772.jpg)  
 Figure 6.4 At maturity (Feb 2008): exchange of the principals:  
 
 initial swap:  
 
-![](images/ac96f339116a412b8dc74c87c161fda1f12c834f6a9f5476ea8ec5bad3f06eb4.jpg)  
+![](ac96f339116a412b8dc74c87c161fda1f12c834f6a9f5476ea8ec5bad3f06eb4.jpg)  
 Figure 6.5 Diagram of an unwinding swap operation  
 
 In IRSs as well as CRSs, a swap where all cash flows are based on a unique and constant. notional amount, and in absence of any other particularities (cf. Section 6.7), is called a (plain) vanilla swap. They of course form the majority of swaps traded in the market..  
@@ -2928,10 +2932,10 @@ Let this investment be financed at the same 5 years $@$ 12-month LIBOR (see Figu
 
 The solid arrows denote known cash flows, while the dotted arrows are unknown at inception. of the operation. Indeed, among the series of 12-month LIBOR rates, only the first one is determined, actually 2 days in advance. The following ones will be determined later on, 2 days before their respective occurrence.  
 
-![](images/72c30ac708e4d2296fae863a42930135fc65b5fb3388522f25f719d86d60e146.jpg)  
+![](72c30ac708e4d2296fae863a42930135fc65b5fb3388522f25f719d86d60e146.jpg)  
 Figure 6.6 Cash flows for a 5-year bullet bond at par, offering a fixed coupon of $s\%$ p.a., for a notional amount of $\$100$  
 
-![](images/50c111ad351ab8993cdd149882ece46276891fda7e011586cb1c31c948ffdb96.jpg)  
+![](50c111ad351ab8993cdd149882ece46276891fda7e011586cb1c31c948ffdb96.jpg)  
 Figure 6.7 Investment financed at 5 years $@$ 12-month LIBOR  
 
 By combining both operations, we see that the principal invested and financed at inception, then recovered and reimbursed after 5 years, cancels out, so that the combination becomes. the one shown in Figure 6.8, which corresponds exactly to the set of cash flows of an IRS, as presented above. So that:  
@@ -2950,7 +2954,7 @@ Also, the case of a swap with a floating leg based on $^{<12}$ month -ibor rates
 
 The expression $1/(1+s_{t})^{t}$ or $e^{-s_{t}t}$ of Eq. 6.1 being the discount factors $D_{t}$ Eq. 1.5 and Eq. 1.8 become here, in discrete and continuous time:  
 
-![](images/8df39f5a1cc459c64658b502e8bb514274cc3a39f9d3bde7af3a99e484fbeaeb.jpg)  
+![](8df39f5a1cc459c64658b502e8bb514274cc3a39f9d3bde7af3a99e484fbeaeb.jpg)  
 Figure 6.8 The result of combining both operations  
 
 Equation 6.1 can thus be rewritten:  
@@ -3123,7 +3127,7 @@ In this figure, the first five columns are the ones used in the previous example
 
 interest cash flows -- FR: if we use the current 5-year swap rate as the fixed rate, it makes $\epsilon5$ million on each of the 5 years;.  
 
-![](images/58b67d9095f0f5d3f85a03b8ae127a239045a34f8989da6f8b6f738810613bc0.jpg)  
+![](58b67d9095f0f5d3f85a03b8ae127a239045a34f8989da6f8b6f738810613bc0.jpg)  
 Figure 6.9 5-year IRS on EUR 100 million, with a 6-month EURIBOR floating leg FR $=$ fixed rate; $\mathrm{VR}=$ variable rate  
 
 interest cash flows - VR: every 6-month period, compute $\in100\mathrm{million}\times6\$ -month EURI${\tt B O R}\times\mathbf{\epsilon}^{1}/2$ . Note that the right use of day count convention will be considered later; present value - FR flows: compute interest flows $\mathrm{FR}\times$ corresponding discount factor; present value -- VR flows: compute interest flows $\mathrm{VR}\times$ corresponding discount factor.  
@@ -3139,7 +3143,7 @@ Unsurprisingly, in such cases, the current market swap rate - quoted for vanilla
 
 Example. Let us consider a forward IRS on a non-constant notional amount,' namely a. 5-year swap against 6-month EURIBOR, starting 1 year forward from its contract date, with a notional amount that is decreasing in function of time, from $\epsilon_{100}$ million to 20 million (called amortizing swap). The same market data are used as for the previous example. If we keep the same $5\%$ fixed rate as before, the calculation table becomes that illustrated in Figure 6.10, showing the swap is unbalanced. Replacing the $5\%$ fixed rate by $x$ and solving for $x$ (by successive approximations) so that the total of the present value of FR cash flows is equal to the total of the present value of VR cash flows, we obtain $4.01726\%$ (see Figure 6.11).  
 
-![](images/74d31b4b1040815620b2e7da57210fcd7b86bb23f38aab000ea6349a3d8c2fc6.jpg)  
+![](74d31b4b1040815620b2e7da57210fcd7b86bb23f38aab000ea6349a3d8c2fc6.jpg)  
 Figure 6.10 An unbalanced swap   
 Figure 6.11 Updated calculations  
 
@@ -3187,7 +3191,7 @@ It is worth noting that the net difference between both $\Sigma P V$ is due to a
 
 Net change in the swap value: change in the $\Sigma P V$ of fixed leg: from 21.723 to 21.703, that is, $-0.02$ million EUR; change in the $\Sigma P V$ of floating leg: from 21.723 to 22.136, that is, $+0.413$  
 
-![](images/3bc3dc6dc214d60887d2fda7b3fb24409817401cd8587e369da6a02962ad9dea.jpg)  
+![](3bc3dc6dc214d60887d2fda7b3fb24409817401cd8587e369da6a02962ad9dea.jpg)  
 Figure 6.12 The effect of one single market rate change of $10\mathrm{bp}$ on the whole calculation process.  
 
 total change $=\left|-0.02\right|+\left|0.413\right|=0.433$ million EUR $=$ net present value of the swap $=22.136-21.703=0.433$  
@@ -3232,7 +3236,7 @@ Note that the use of non-standard day count conventions will affect the swap val
 
 Finally, we can build a swap yield curve, which starts with -ibor rates on its money market portion, up to the 12-month maturity, and continues with the swap rates from 2 years' and beyond, the market quoting swap rates by full years. Such a yield curve reveals a homogeneous rating level, namely, a kind of "average"' rating of banks active in the interbank swap market. Broadly speaking, this rating is on average the one of big OECD banks, that is, AA (S&P)  
 
-![](images/8a4ec8f8604e2ead13ebba06d2ed0e06969727f7070e92d2bba384afb7154638.jpg)  
+![](8a4ec8f8604e2ead13ebba06d2ed0e06969727f7070e92d2bba384afb7154638.jpg)  
 Figure 6.13 Example of the EUR market (05/03/11) curves of German government coupon rates and coupon swap rates Source: Bloomberg  
 
 or Aa2 (Moody's). As such, the swap yield curve is based on a lower rating than the one of OECD governments. It is therefore normal that swap rates are higher than bond yields for. government bonds (risk-free rates) of the same maturity, so that the swap yield curve lies above. the government bonds yield curve. Example of the EUR market (05/03/11) curves of German government coupon rates and coupon swap rates respectively can be seen in Figure 6.13.  
@@ -3266,7 +3270,7 @@ As mentioned before, an alternative to this CRS would consist in a series of fiv
 
 <html><body><table><tr><td></td><td colspan="2">cpn rates (%)</td><td colspan="2">0-cpn rates (%)</td><td colspan="2">discountfactors</td><td colspan="2">cash flows (in 106)</td><td colspan="2">PVofcashflows</td></tr><tr><td>year</td><td>EUR</td><td>USD</td><td>EUR</td><td>USD</td><td>EUR</td><td>USD</td><td>EUR</td><td>USD</td><td>EUR</td><td>USD</td></tr><tr><td>1</td><td>2.143</td><td>0.758</td><td>2.143</td><td>0.758</td><td>0.979</td><td>0.9925</td><td>3.057</td><td>3.1243</td><td>2.9928</td><td>3.1009</td></tr><tr><td>2</td><td>2.389</td><td>0.762</td><td>2.3919</td><td>0.762</td><td>0.9538</td><td>0.9849</td><td>3.057</td><td>3.1243</td><td>2.9158</td><td>3.0771</td></tr><tr><td>3</td><td>2.664</td><td>1.24</td><td>2.6713</td><td>1.246</td><td>0.924</td><td>0.9635</td><td>3.057</td><td>3.1243</td><td>2.8247</td><td>3.0103</td></tr><tr><td>4</td><td>2.883</td><td>1.681</td><td>2.8966</td><td>1.6964</td><td>0.8921</td><td>0.9349</td><td>3.057</td><td>3.1243</td><td>2.7271</td><td>2.9209</td></tr><tr><td>5</td><td>3.057</td><td>2.106</td><td>3.0781</td><td>2.1382</td><td>0.8593</td><td>0.8996</td><td>3.057</td><td>3.1243</td><td>2.6269</td><td>2.8106</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100</td><td>148.35</td><td>85.93</td><td>133.4557</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>total:</td><td>100.0173 148.3755</td><td></td></tr></table></body></html>  
 
-![](images/1144fd30432e1425386d04aed6417246d846bd70c481ce318d35db2dabab8fd1.jpg)  
+![](1144fd30432e1425386d04aed6417246d846bd70c481ce318d35db2dabab8fd1.jpg)  
 Figure 6.15USD equivalent of the EUR cash flows  
 
 would be calculated by Eq. 5.1bis (Chapter 5):  
@@ -3281,7 +3285,7 @@ In particular, a single forward exchange, at 5 years for example, can be built t
 
 Back to the beginning of the example, suppose now that the invested bond pays USD swap rate $+1\%$ , due to its (lower) rating. If the fund manager wants to exchange the full value of his interest cash flows, he must pay USD cash flows of interests $@$ swap rate $+1\%$ that is, $2.106\%+1\%=3.106\%$ In exchange, he will receive EUR interests $@$ swap rate $+$ something, to maintain the initial equilibrium of the swap. The precise calculation leads to a spread of $1.036\%$ on the Euro leg, that is, almost equivalent to the $\$1$ spread of $1\%$ , as in Figure 6.16.  
 
-![](images/470a414dd1a645d02bea2917969003dafa1f3ce39affce1ccaa54019afcb10d8.jpg)  
+![](470a414dd1a645d02bea2917969003dafa1f3ce39affce1ccaa54019afcb10d8.jpg)  
 
 Normally, this does not happen in the case of an IRS. Suppose an asset manager wants to. swap -ibor revenues into a fixed rate, in the same currency, through an IRS. If these revenues are $@$ -ibor $^+$ or - some spread, the swap will be built on the exchange of (fixed) swap rate. against -ibor, and the manager will altogether get (fixed) swap rate plus or minus the spread on the -ibor revenues.  
 
@@ -3311,7 +3315,7 @@ $$
 
 To come back to the case of "principal protected' structured products: if an investor is paying $\t{\in}100$ , to be invested into such a structured product, thanks to the zero-coupon swap the bank will first take $\epsilon78.28$ from the 100, to allow for reimbursing at maturity $100\%$ of the investment, then allocate the balance (21.72) into the structure, most often as an option premium paid to benefit from some underlying (stock, index, etc.) price move.  
 
-![](images/e58563548ae85909f6b6134b80da5a1f9b52b1c389b39ed2ee512f99080c9be3.jpg)  
+![](e58563548ae85909f6b6134b80da5a1f9b52b1c389b39ed2ee512f99080c9be3.jpg)  
 Figure 6.17Zero-coupon swap cash flows  
 
 # 6.7.2 EONIA and other basis swap  
@@ -3359,10 +3363,10 @@ In the case of a CRS basis swap, we should mention that, instead of considering 
 
 In a vanilla swap, the floating, -ibor rates are fixed two banking days before the period they apply to, and the corresponding cash flows are paid or received at the maturity of each period see Figure 6.18.  
 
-![](images/d4605b2f5df2f94004a1d560c3d39f65cf900bd59225c19ca8dad48ff5c906aa.jpg)  
+![](d4605b2f5df2f94004a1d560c3d39f65cf900bd59225c19ca8dad48ff5c906aa.jpg)  
 Figure 6.18 Example of a vanilla swap  
 
-![](images/5f284de0d9aec1066ac325a0dfa6fe6efdf748a90acb267f1c0bc359ceb0a26f.jpg)  
+![](5f284de0d9aec1066ac325a0dfa6fe6efdf748a90acb267f1c0bc359ceb0a26f.jpg)  
 Figure 6.19 Example of an in-arrear swap  
 
 In the case of an "in-arrear swap', the -ibor rates are fixed two business days before the maturity of each period, as in Figure 6.19.  
@@ -3381,10 +3385,10 @@ For the vanilla swap, we get the result illustrated in Figure 6.20.
 
 But for the in-arrear swap, the 6-month variable cash flow is based on the forward 6M into 6M EURIBOR of $2.0251\%$ , that is, the one used here above for the 12-month variable. cash flow, and the 12-month variable cash flow is based on forward 6M into 12M EURIBOR, that amounts to $3.7705\%$ . For the same fixed rate leg of $1.745\%$ $(=1$ year rate), the swap cannot be equilibrated: it becomes fairly priced if one uses a fixed rate of. $2.908\%$ instead - see Figure 6.21.  
 
-![](images/a936135b1a8ee82f70c4f5506f8749725c659a95ec9becbe7386117b81afe42c.jpg)  
+![](a936135b1a8ee82f70c4f5506f8749725c659a95ec9becbe7386117b81afe42c.jpg)  
 Figure 6.20 Result of a vanilla swap  
 
-![](images/989cf7c9e78ad13f8225c74351ff394ad1c41c961f3cf722b2f549c7ac0653ce.jpg)  
+![](989cf7c9e78ad13f8225c74351ff394ad1c41c961f3cf722b2f549c7ac0653ce.jpg)  
 Figure 6.21 Using a fixed price in an in-arrear swap  
 
 Note that, alternatively, this swap can be built by keeping the initial fixed rate of $1.745\%$ and by applying the spread $(2.908{-}1.745\%$ , slightly adjusted) to the EURIBOR rates instead.  
@@ -3401,7 +3405,7 @@ The other leg of the CMS may be a real fixed rate, or an -ibor rate, as usual. S
 
 The swap pricing methodology remains unchanged in its principle: in the same way as, for a vanilla swap, the unknown future floating rates are meanwhile replaced by their corresponding forward values, in the case of a CMS, the future, updated fixed rates, unknown at the time of the swap inception, are replaced by a forward value. Continuing the example, the pricing of this 5-year CMS will use:  
 
-![](images/441bb3c37d48e7749cfbca2ec864ed0031ddeee2636b90b23ed03f07e7fcbdae.jpg)  
+![](441bb3c37d48e7749cfbca2ec864ed0031ddeee2636b90b23ed03f07e7fcbdae.jpg)  
 Figure 6.22 Receiver 5-year CMS against either a 12M LIBOR or a 5-year spot swap rate  
 
 :for the first year: the current 5-year swap rate;   
@@ -3417,10 +3421,10 @@ In the case of a CMS built on this scheme, one has to replace the fixed rate bas
 
 It is worth mentioning that government agencies are issuing a similar product, namely, paying a fixed coupon that is updated over time. For example, one can trade $^{\circ\circ}10\cdot$ year treasury constant maturity"' bonds on the French (TEC10) government bonds market. On the US market "constant maturity T Bonds' are rather indexes that refer to bond yields that are computed from an average of bonds yields of same maturity during the two previous weeks.  
 
-![](images/513c2a9717a6ff22d96864f21d5298e5b339c5a1ea5eb1ac481404a1c952e4b7.jpg)  
+![](513c2a9717a6ff22d96864f21d5298e5b339c5a1ea5eb1ac481404a1c952e4b7.jpg)  
 Figure 6.23A vanilla 3-year IRS  
 
-![](images/75c1bc267e0e91c5b9d8c9dd05bcfe74a76f21aa15f3d7e41801d456c47dd871.jpg)  
+![](75c1bc267e0e91c5b9d8c9dd05bcfe74a76f21aa15f3d7e41801d456c47dd871.jpg)  
 Figure 6.24A 3-year CMS swap  
 
 # CMS and Convexity Adjustment  
@@ -3439,7 +3443,7 @@ where:
 
 Clearly, this adjustment is always positive, and proportional to the time, through the. $t$ and $T$ parameters, and may value several dozens of bps for long enough maturities (10 years and more). It is also proportional to the volatility. $\sigma$ , what appears here quite abruptly. At first, we. must admit that market volatility is affecting the evolution of prices or rates. To go further, we need to be familiar with Chapter 8 and in particular with the relationship between a forward and the volatility (Section 6.8).  
 
-![](images/f3fe63cc37a56d7bc31494b2fb4596955d93dce8c1074890716f320f1fcac586.jpg)  
+![](f3fe63cc37a56d7bc31494b2fb4596955d93dce8c1074890716f320f1fcac586.jpg)  
 Figure 6.25Example of a diff swap  
 
 Finally, note that the word "convexity" may seem misguiding. But in the usual language of traders, we use the same word to qualify:  
@@ -3462,7 +3466,7 @@ The swap structure can also be applied to cash flows other than interest (and pr
 
 <html><body><table><tr><td colspan="2">PV of interest c.f.</td><td colspan="2">0.837 1.261</td></tr><tr><td rowspan="7">interestcashflows</td><td>@ LIBOR @ EURIBOR</td><td>0.885 1.204 1.041 1.039 1.613</td><td>1.827 7.609 7.609</td></tr><tr><td>in EUR millions</td><td>1.209 1.31 0.8865 1.2134 1.0528 1.0547</td><td>1.443 1.549 1.6556 1.8963</td></tr><tr><td>@LIBOR</td><td></td><td></td></tr><tr><td>@EURIBOR</td><td>0.844 1.2883 1.2508 1.3736 1.5374</td><td>1.6762</td></tr><tr><td>actual LIBOR rate</td><td>2.4267 2.1055 2.1093 3.3111 1.773</td><td>3.7925</td></tr><tr><td>EURIBOR 6M</td><td>2.5765 2.5015 2.7471 3.0747 1.688</td><td>3.3524 0.9635</td></tr><tr><td>discountfactors USD</td><td>0.9979 0.9925 0.9916 0.979 0.758 0.76 0.43</td><td>actual LIBOR rates =t=LIBOR+1.343 % 0.9887 0.9849 0.9742 0.9664 0.9538 0.9389</td></tr><tr><td>0-cpn rates</td><td>EUR USD</td><td>0.762 1.004</td><td>0.9239 1.246</td></tr><tr><td></td><td>EUR</td><td>2.2675 2.3919 2.5328 1.688 2.143</td><td>2.6736</td></tr><tr><td>USD cpn</td><td></td><td>0.758 0.762</td><td></td></tr><tr><td></td><td>y.c. year</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1.24</td></tr><tr><td></td><td></td><td>0.43</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>EUR</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>y.c.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>cpn</td><td></td><td>1.688 2.143 2.389</td><td>2.664</td></tr></table></body></html>  
 
-![](images/e416c40e21228a867c870ff067e44ce01d9c911712cf42bcd69e9a48dd091cbb.jpg)  
+![](e416c40e21228a867c870ff067e44ce01d9c911712cf42bcd69e9a48dd091cbb.jpg)  
 Figure 6.27  A 1-year performance swap on the underlying $V$  
 
 Let us call "variable" $(V)$ the underlying of these performance swaps. They consist in. exchanging a pre-determined, fixed value -- often called the strike -- for the variable $V$ against its actual value at the swap maturity, for an agreed notional amount. The floating leg of the swap will somewhat naturally refer to the actual value of $V.$ since it is unknown at the swap inception; the fixed leg will thus refer to the pre-determined value for the variable. $V$ At maturity, the swap will be settled by difference.  
@@ -3477,7 +3481,7 @@ Inflation swaps valuation is at least somewhat helped by several kind of data, s
 
 # Example of an Operation (Data as of June 2006)  
 
-![](images/8ab691c1de39d4481cac42c6723189b10762af04f34019a2ac631c46fecb2888.jpg)  
+![](8ab691c1de39d4481cac42c6723189b10762af04f34019a2ac631c46fecb2888.jpg)  
 Figure 6.28 Example of an inflation swap  
 
 The product was destined to traders expecting a higher than a $2.365\%$ inflation rate over 30 years. In this operation, both cash flows are 30-year zero coupon rates, so that:  
@@ -3546,7 +3550,7 @@ For example, on 05/19/11, the available contracts were those of next June, Septe
 
 Index CT  
 
-![](images/f7ceccb7ad63abfa44e002ca8ad2887f52732b45a28ba66808debc9398cfceac.jpg)  
+![](f7ceccb7ad63abfa44e002ca8ad2887f52732b45a28ba66808debc9398cfceac.jpg)  
 Figure 7.1 Euro Stoxx 50 futures: June, September, and December contracts of 05/19/11 Source: Bloomberg  
 
 The column headed "Open Int"' (open interest) indicates the number of contracts still. "living", that is, not closed meanwhile. We see that the total is about 2.9 million, compared with. the number of contracts traded on that trading day (at $3\mathrm{p.m}$ . local time) of nearly 0.8 million (for an average daily volume $>1$ million contracts). This gives us an idea of the importance of. contracts that never reach maturity but unwind earlier. We can also notice, through this series on open interests, that the vast majority (about $80\%$ here) refer to the nearest maturity: there is almost no market interest for maturities which are too long.  
@@ -3555,7 +3559,7 @@ The column headed "Open Int"' (open interest) indicates the number of contracts 
 
 To eliminate counterparty risk, transactions are not concluded directly between a buyer and a seller but both contract with the clearing house of the exchange. At least, futures exchanges clearing houses have never faced payment default, this solves the problem with respect to the risk taken by buyers and sellers. Because the clearing house is contracting simultaneously with a buyer and a seller, the risk status of the parties appears as in Figure 7.2.  
 
-![](images/20d88a1c08b197084a98996a6a8776f5edcb193e5db30ea45beeb0fd36f88af3.jpg)  
+![](20d88a1c08b197084a98996a6a8776f5edcb193e5db30ea45beeb0fd36f88af3.jpg)  
 Figure 7.2 Risk status of the buyer and the seller  
 
 It is interesting to note that, through this structure:  
@@ -3658,7 +3662,7 @@ Note that for futures on non-financial commodities, this formula will be revisit
 
 Mid futures market prices do not exactly equal theoretical prices, due to market features like liquidity, market efficiency, market pressure, and so on.  
 
-![](images/83945d42a81b7efb6979201578dcfdbb18e81ba169bccc3d3018617e07dc56b5.jpg)  
+![](83945d42a81b7efb6979201578dcfdbb18e81ba169bccc3d3018617e07dc56b5.jpg)  
 Figure 7.3 Spot price, theoretical and market prices of the JUN 2008 future on Euro Stoxx 50, from March 20, 2008 to June 19, 2008  
 
 Example. Let us consider the spot price, theoretical and market prices of the JUN (for the June maturity) 2008 future on Euro Stoxx 50, from March 20, 2008 to June 19 (last JUN trading day was at noon on June 20). The theoretical future price has been computed with an average market rate of $4.02\%$ and an average underlying rate (index dividend yield) of $2\%$ (see Figure 7.3).  
@@ -3675,7 +3679,7 @@ $$
 b_{m k t}\mathrm{canbe>or}<b_{t h}
 $$  
 
-![](images/cc22188051260d08edebd07f904095f1ea651d73761553f3af9eec89e4ad6261.jpg)  
+![](cc22188051260d08edebd07f904095f1ea651d73761553f3af9eec89e4ad6261.jpg)  
 Figure 7.4 Theoretical and market basis relative to the previous Euro Stoxx 50 future  
 
 Example. Consider the theoretical and market basis relative to the previous Euro Stoxx 50   
@@ -4028,7 +4032,7 @@ Example. On 05/19/11, the Bund notional future maturing in June, last trading da
 
 We can see that the $C F\mathbf{s}$ are actually lower than 1, given the bonds coupons are lower than the $6\%$ coupon of the notional bond. As the link between the notional bond and the various "real" underlying bonds, the. $C F$ is affecting all the calculations involving bond futures, each time a deliverable bond is concerned:.  
 
-![](images/b7843dca2b6171cd73f3ef7fbfc24c1762d4565cd638044dd309999227ae2a40.jpg)  
+![](b7843dca2b6171cd73f3ef7fbfc24c1762d4565cd638044dd309999227ae2a40.jpg)  
 Figure 7.5 Deliverable bonds and corresponding $C F$ for the Bund notional future maturing in June Source: Bloomberg  
 
 :the (cost of) carry (cf. Section 7.2.1) becomes spot bond (physical, not notional!) - notional future price $\times{C F}$ invoiced amount: see next section; theoretical future price: see Section 7.5.4;   
@@ -4076,7 +4080,7 @@ $$
 F_{m k t f o r i}=[(S_{t i}+a c c r_{t i})(1+I R R_{\tau}\tau)-a c c r_{\tau}(1+I R R_{\tau}\tau)-a c c r_{t i}]/C F
 $$  
 
-![](images/ca253034dd50f54865c18409b066430d8b49a10ee736d5a17e6fb8a507f3f08d.jpg)  
+![](ca253034dd50f54865c18409b066430d8b49a10ee736d5a17e6fb8a507f3f08d.jpg)  
 Figure 7.6 The Bloomberg screen from Figure 7.5  
 
 where $S_{t i}+a c c r_{t i}$ is the current dirty price of the bond (cf. Chapter 3, Section 3.2.3). These. formulae look excessively heavy with the split of the accrued interest, but this allows to use a different day count on $t$ than on $\tau$ , if necessary.  
@@ -4242,10 +4246,10 @@ For example (January 2000), on the LME,
 
 spot copper price. $=\$1800$ (/ton); 6M market rate $=4\%$ copper storage cost $=\$2.20$ per month..  
 
-![](images/117723fac3326d8600fe5b6f3649a11582b4f4045412ef0dfcbb308b16f0a859.jpg)  
+![](117723fac3326d8600fe5b6f3649a11582b4f4045412ef0dfcbb308b16f0a859.jpg)  
 Figure 7.7 Example of contango  
 
-![](images/f80a12e9a6f55fb64eaafd8906a2f4c74bacf9eeb213132be80962771673f144.jpg)  
+![](f80a12e9a6f55fb64eaafd8906a2f4c74bacf9eeb213132be80962771673f144.jpg)  
 Figure 7.8 Example of a backwardation  
 
 For a 6M future contract:  
@@ -4311,7 +4315,7 @@ $$
 F_{m k t}=E_{t}(S_{T})
 $$  
 
-![](images/6bf805358b70ae1f162f7192ad47063e4d6f804afcdaa5e9f59f32700efb6a77.jpg)  
+![](6bf805358b70ae1f162f7192ad47063e4d6f804afcdaa5e9f59f32700efb6a77.jpg)  
 Figure 7.9 The WTI Crude Oil futures, quoted on the NYSE-ICE exchange, in 2011  
 
 In conclusion, the market price of commodities futures must be considered as significantly different from financial futures prices:  
@@ -4389,7 +4393,7 @@ $$
 
 A stochastic process can be defined as a collection of random variables defined on the same probability space $(\Omega,{\mathcal{F}},P)$ and "indexed' by a set of parameter $T$ that is, $\{X_{t},t\in T\}$ . Within the framework of our chapter, $t$ is the time.  
 
-![](images/508391dd386758313b44bf3c8da26265c925d535ba7a7ff183b7460f8aff5b7e.jpg)  
+![](508391dd386758313b44bf3c8da26265c925d535ba7a7ff183b7460f8aff5b7e.jpg)  
 Figure 8.1 A cumulative normal distribution  
 
 For a given outcome or sample $\omega$ $X_{t}(\omega)$ for $t\in T$ is called a sample path, realization or trajectory of the process. The space containing all possible values of $X_{t}$ is called the state space.  
@@ -4592,10 +4596,10 @@ As an example, let us consider the time series of 395 5-minute prices of the S&P
 
 We have thus 395 times of observations $\{1,2,\ldots,T\}$ with $T=395$ , and observations $S_{n}$ for $n=1,2,\ldots,T.$  
 
-![](images/b3c58f61c94ca95459a69c13df181b4a6b045866e053f69346117ec0ac83f34f.jpg)  
+![](b3c58f61c94ca95459a69c13df181b4a6b045866e053f69346117ec0ac83f34f.jpg)  
 Figure 8.2Time series of 395 5-minute prices of the S&P 500  
 
-![](images/36d69c270df1610cfbde1c132944a994eb7d0ac0df9a187c3350c3a66258c037.jpg)  
+![](36d69c270df1610cfbde1c132944a994eb7d0ac0df9a187c3350c3a66258c037.jpg)  
 Figure 8.3 Corresponding $\varsigma\Upsilon$ returns, computed as. $r=\Delta S/S$  
 
 The corresponding $\varsigma'$ returns, computed as $r=\Delta S/S_{\mathrm{{m}}}$ are shown in Figure 8.3. In this example:  
@@ -4630,7 +4634,7 @@ as the dotted line shows in Figure 8.4.
 
 In our example, selecting a particular $\varsigma'$ time interval where the S&P 500 price is $S_{t}=1040$ and assuming - what is actually not fully true - the returns distribution is Gaussian,  
 
-![](images/f6aa4958efcce23853785cd5a43cfb5be9c4e5db86a26c4af42c1d3d66268f1e.jpg)  
+![](f6aa4958efcce23853785cd5a43cfb5be9c4e5db86a26c4af42c1d3d66268f1e.jpg)  
 Figure 8.4 Trend applied on the SP500 prices series  
 
 there are $68\%$ chances that, 5 minutes later, $S_{t+1}$ will be comprised between $+1$ and $^{-1}$ standard deviation:  
@@ -4766,7 +4770,7 @@ Let us look after the effect of these three "levels" of integration through the 
 
 The price $S$ of a stock follows a geometric Wiener process Eq. 8.10, with $S$ valuing presently $\$100$ , its $\mu$ equal to $10\%$ p.a. and its $\sigma$ $10\%$ p.a. Let us consider these parameters would remain. constant in the future price evolution of. $S$ over the next 5 years. In a purely deterministic world,.  
 
-![](images/f188a17e378d1c19cd3896a898c85eb3706f366784d5b2280bd37dfa9179abbb.jpg)  
+![](f188a17e378d1c19cd3896a898c85eb3706f366784d5b2280bd37dfa9179abbb.jpg)  
 Figure 8.5 Comparison between three "levels" of integration  
 
 based on Eq. 8.14", $S(1)$ , S(2),... and $S(5)$ , that is prices after $1,2,\ldots$ and 5 years would be:  
@@ -4857,7 +4861,7 @@ is $S_{t}$ . In our case, we talk of a semimartingale, that is, a martingale com
 
 These notions will play a major role in the option pricing theory, see Chapter 10, in particular Section 10.2.4.  
 
-![](images/f0dc069cd7b10a32a1a0fd80294dbb1c7ba5eb19ca5c9e62187b1777c7124e9f.jpg)  
+![](f0dc069cd7b10a32a1a0fd80294dbb1c7ba5eb19ca5c9e62187b1777c7124e9f.jpg)  
 Figure 8.6 Property of $F_{T}^{Q}=S_{t}e^{r T}$  
 
 Finally, let us come back to the relationship 8.17, valuing a forward or future under $Q$ the risk neutral probability measure: as a consequence, the geometric general Wiener process (Eq. 8.16) under $\boldsymbol{\mathcal{Q}}$ , applied to a forward or a future, comes down to  
@@ -5075,7 +5079,7 @@ $$
 \boldsymbol{r}_{t}-\boldsymbol{\mu}=\boldsymbol{a}\left(\boldsymbol{r}_{t-1}-\boldsymbol{\mu}\right)+\boldsymbol{\varepsilon}_{t}
 $$  
 
-![](images/0dbfaf3f6eadb7a3ed2e2fc8992f46a8ff7cf53f95eb63e7b22125dacd640747.jpg)  
+![](0dbfaf3f6eadb7a3ed2e2fc8992f46a8ff7cf53f95eb63e7b22125dacd640747.jpg)  
 Figure 9.1  Computing an AR(1) forecasting  
 
 Example. On a past series of 21 daily closing prices of S&P 500 (10/13 to 11/09/09), let us forecast the returns (and corresponding prices) from 11/10 to 11/17 by an AR(1), as in Figure 9.1.  
@@ -5128,10 +5132,10 @@ On Excel, we can use the NORMSINV (RandO) function to generate the $\varepsilon_
 
 We notice that the variance is reducing with the length of the process memory. By contrast, the AR process has an infinite memory, since each $r_{t}$ depends on the previous one.  
 
-![](images/80af616c7321277c85a7f66c187c0f6053963a11fa49186251f84adebb1537aa.jpg)  
+![](80af616c7321277c85a7f66c187c0f6053963a11fa49186251f84adebb1537aa.jpg)  
 Figure 9.2 Computing MA(1) and MA(5) forecastings  
 
-![](images/976cb6ddd18d2803795c3023f6d44d0040f405c0a0c4867ed06e17f6eeaed17f.jpg)  
+![](976cb6ddd18d2803795c3023f6d44d0040f405c0a0c4867ed06e17f6eeaed17f.jpg)  
 Figure 9.3 Computing an ARMA(1,1) forecasting  
 
 # 9.3 THE AUTOREGRESSION MOVING AVERAGE (ARMA) PROCESS  
@@ -5178,7 +5182,7 @@ $$
 \begin{array}{r l}&{y_{t+1}=x_{t+1}-x_{t}}\ &{z_{t+2}=y_{t+2}-z_{t+1}=x_{t+2}-2x_{t+1}+x_{t}}\end{array}
 $$  
 
-![](images/140e2b429ce79ca909247771dc7cff16b4a57a6984269e70279610b54dec7457.jpg)  
+![](140e2b429ce79ca909247771dc7cff16b4a57a6984269e70279610b54dec7457.jpg)  
 Figure 9.4 Computing an ARIMA forecasting on prices  
 
 S'6 unge   
@@ -5400,10 +5404,10 @@ $$
 
 that is, the $I V$ of a put option is either $\boldsymbol{\theta}$ , if the put is ending OTM, or $K-S_{T}\left(>0\right)$ if it ends ITM. The corresponding graph of $I V$ is shown in Figure 10.2.  
 
-![](images/99f1a1e51bc86ddce78cd686c7cab6e4fded6e648da3476708dc147163bc6780.jpg)  
+![](99f1a1e51bc86ddce78cd686c7cab6e4fded6e648da3476708dc147163bc6780.jpg)  
 Figure 10.1Intrinsic value of a call at maturity  
 
-![](images/7ea49eb0d8f2482345ede90ab672a01075041d3dba2a9a6aed2d8c36ffcee307.jpg)  
+![](7ea49eb0d8f2482345ede90ab672a01075041d3dba2a9a6aed2d8c36ffcee307.jpg)  
 Figure 10.2 Intrinsic value of a put at maturity  
 
 At maturity, the value of the option is equal to its intrinsic value, that is, the maximum between 0 and $S_{T}-K$ for a call, $K-S_{T}$ for a put, which can be written as  
@@ -5428,7 +5432,7 @@ $$
 
 In the rest of this chapter, we will present several ways of valuing an option price, that will. imply how to model and to what extent its time value can be computed for a given volatility and time to maturity. The output of these methods will lead to determining the call and put. price curves shown in Figures 10.3 and 10.4, where. $T V$ is for time value.  
 
-![](images/39467d191dbd76341e2efb157f6f69b0467bc0672aa002d3769cf11790a21a62.jpg)  
+![](39467d191dbd76341e2efb157f6f69b0467bc0672aa002d3769cf11790a21a62.jpg)  
 Figure 10.3Call price curve  
 
 Finally, regarding the volatility measure used in option valuation, we must distinguish between:  
@@ -5437,7 +5441,7 @@ the past volatility presented by the underlying price up to $t_{0}$ , that is ca
 
 The following sections of this chapter present the three major option pricing models used by practitioners. They all pursue the same objective of modeling in a more or less realistic way how the underlying spot price will move over time, to compute what should be the option fair/theoretical price accordingly.  
 
-![](images/2f80fc7408948d599a8c7c801499eadbb4413800ddc1b8b6057f55345a5c2324.jpg)  
+![](2f80fc7408948d599a8c7c801499eadbb4413800ddc1b8b6057f55345a5c2324.jpg)  
 Figure 10.4 Put price curve  
 
 # 10.2THE BLACK-SCHOLES FORMULA  
@@ -5732,7 +5736,7 @@ $K^{\prime}=S-\pounds_{}10=73.06$ corresponding to a moneyness of --1.31 $K^{\pr
 
 The moneyness measure is mainly used with respect to the option smile, as developed in Chapter 12, Section 12.1.3.  
 
-![](images/3c702d7ee7921311360ca3d23ca1eb36a35ec14e3cd627d13fb48a214e336b4f.jpg)  
+![](3c702d7ee7921311360ca3d23ca1eb36a35ec14e3cd627d13fb48a214e336b4f.jpg)  
 Figure 10.5 Determination of a moneyness scale  
 
 # 10.2.5 Beyond the Black-Scholes formula  
@@ -5775,7 +5779,7 @@ $$
 
 The core of this methodology is the use of the binomial distribution, as a first step covering a first sub-period $\Delta t:$  
 
-![](images/7d96ef043ff8db697c13c64082080a211f7f6527ccb9660bdfe6f59c273ab6ac.jpg)  
+![](7d96ef043ff8db697c13c64082080a211f7f6527ccb9660bdfe6f59c273ab6ac.jpg)  
 
 with  
 
@@ -5840,7 +5844,7 @@ present value factor $=0.9930$ $\mathrm{u}=1.045$ $\mathrm{d}=0.956$
 Pu = 0.507   
 Pd = 0.493.  
 
-![](images/add926340caf6774dc67ac9a54233d279ea3a6ef2ed1de18cc720a2e4410b376.jpg)  
+![](add926340caf6774dc67ac9a54233d279ea3a6ef2ed1de18cc720a2e4410b376.jpg)  
 Figure 10.6Binomial tree of $S_{t}$  
 
 Note that upward probabilities differ from downward probabilities. Indeed, because, as shown in Chapter 8, Section 8.7, a symmetric (normal) distribution of the returns leads to a log-normal distribution of the prices, which presents some asymmetry, and therefore unequal probabilities of the up and down moves.  
@@ -5860,7 +5864,7 @@ In the case of a European option on a stock without dividend distribution over. 
 
 The advantage of the CRR algorithm is that, by slicing the time to maturity in $\Delta t$ sub-periods, it allows for pricing an American option, by adding to the above calculation the opportunity of earlier exercise at any node of the tree. Let us continue with the same example, but this time for pricing an American put. In addition to the re-combinations of intermediate option prices, we now have to also consider any possibility of earlier exercise at any node, and we keep for further backward move, the highest between re-combination and early exercise (in this case of a put, $K-S_{t,}$ , so that the final result is incorporating all possible early exercises.  
 
-![](images/22ec6a2b287dfdc444df3a0e87dd4b98620c0667618c7d02db9bf11728366585.jpg)  
+![](22ec6a2b287dfdc444df3a0e87dd4b98620c0667618c7d02db9bf11728366585.jpg)  
 Figure 10.7 European put calculation  
 
 Actually, we can have up to three possible put values at each node, resulting from:  
@@ -5879,14 +5883,14 @@ incorporating dividends payments, or other special events (stock splits, etc.).
 
 Example. In the above prices tree, suppose that at the third sub-period, the stock distributed a dividend of $\$3$ : the tree must be adjusted as in Figure 10.9.  
 
-![](images/3a219d1a4d7d96f49b53fbe8d358a9a80f0b4f949f5e82ce089bd1ed300a6da1.jpg)  
+![](3a219d1a4d7d96f49b53fbe8d358a9a80f0b4f949f5e82ce089bd1ed300a6da1.jpg)  
 Figure 10.8 American put calculation  
 
 # 10.4 MONTE CARLO SIMULATIONS  
 
 This option pricing method consists in simulating a huge number of times the path followed by the successive underlying spot prices. Per se, the method is not required for regular European nor for American options, but rather for second generation ones. It will anyway be presented here in the case of a classic European option (the data of this example will be reused to price a second-generation option in Chapter 11, Section 11.8).  
 
-![](images/cff98c775d7ade3411c2c44811bbd15c20b47ad5c550990a68d8f95c88704dab.jpg)  
+![](cff98c775d7ade3411c2c44811bbd15c20b47ad5c550990a68d8f95c88704dab.jpg)  
 Figure 10.9 Impact of a dividend payment on the binomial tree of $S_{t}$  
 
 Let us start from an underlying spot price $S.$ modeled by a geometric general Wiener process as used for the Black-Scholes formula (cf. Eq. 10.1):  
@@ -5956,7 +5960,7 @@ $$
 \begin{array}{l}{\rightarrow\mathrm{S(t+\Deltat)}=64.5-0.04269=64.45731}\ {\rightarrow\cdot\cdot\cdot}\ {\rightarrow\mathrm{S(t+n\Deltat)}=\in69.26}\ {=\mathrm{jth~simulation~of~S(T)}}\end{array}
 $$  
 
-![](images/86c5d969a4bb6f01c2c0098b61a24de68f91f29f90022e3fb25a743286375720.jpg)  
+![](86c5d969a4bb6f01c2c0098b61a24de68f91f29f90022e3fb25a743286375720.jpg)  
 Figure 10.10 Example of three simulations of prices paths, generated by Monte Carlo  
 
 Coming back to the call price $C$ , first simulation: the first random sample of $S(t)$ leads to the first computation of $\{S(t)\}$ , that is, 100 values /day, that gives the first simulation of $S(T)$ hence the value of a first call value $\mathrm{C}_{1}$  
@@ -6063,10 +6067,10 @@ By definition, the delta represents the slope of the option price curve in funct
 
 It non-linearly varies from 0 (or $0\%$ ) for DOTM options to 1 (or $100\%$ ) for DITM options, going through 0.5 (or $50\%$ ) around ATM options, just as the cumulative normal distribution in Figure 10.12.  
 
-![](images/310108218bb163b20a3a3cc54d64bbbb730aa056d2ef9399c5913a37fd000456.jpg)  
+![](310108218bb163b20a3a3cc54d64bbbb730aa056d2ef9399c5913a37fd000456.jpg)  
 Figure 10.11Delta for a call  
 
-![](images/80e0dbb3ae1ff6cc8a6cf172b3bc1820e7c097436e2fcb29b2d347ef400c6376.jpg)  
+![](80e0dbb3ae1ff6cc8a6cf172b3bc1820e7c097436e2fcb29b2d347ef400c6376.jpg)  
 Figure 10.12 Delta of a call and a put, in function of the underlying spot price  
 
 # The Gamma  
@@ -6085,10 +6089,10 @@ $$
 
 So that $N(d_{1})$ and thus the gamma is peaking for. $d_{1}=0$ , which corresponds to. $N(d_{1})=$ $\sigma{\sqrt{t}}$ (cf. end of Section 10.2.4); it quickly goes to 0 for deep OTM and ITM situations. And because of the term in $I/\sqrt{t}$ the gamma increases dramatically when $t$ goes to 0, that is, when. the option is nearer to maturity  see Figure 10.13.  
 
-![](images/f4f624ea513ce10b3e0116c955208e608b73b52f5121cffa93f0d65ff6b890b9.jpg)  
+![](f4f624ea513ce10b3e0116c955208e608b73b52f5121cffa93f0d65ff6b890b9.jpg)  
 Figure 10.13 Gamma changes with underlying spot price and maturity  
 
-![](images/04b6b5a740ea2f33a1e11c4ec5127b25bc2a01e3efd30678af6d922e424ee74a.jpg)  
+![](04b6b5a740ea2f33a1e11c4ec5127b25bc2a01e3efd30678af6d922e424ee74a.jpg)  
 Figure 10.14 Dirac function centered on K  
 
 At maturity, indeed, the option value is restricted to its intrinsic value, so that a dt before. the gamma is actually a Dirac function centered on K, in case of a call for example, as in Figure 10.14.  
@@ -6103,7 +6107,7 @@ This technique is called delta-gamma neutral options book management. In the par
 
 Altogether these adjustments thus give rise to a profit. If the underlying volatility (and. market rate) were stable, at the end of the game, the profit caused by these adjustments must. compensate for the premium paid to acquire the call. In case the market maker is selling a call, a similar reasoning leads to a global cost for delta adjustments.\* Hence the importance of the. implied volatility chosen by the market maker to price his call: if the market maker has  by means of his implied volatility - underestimated the actual volatility of. $S$ up to maturity, he will make an unexpected profit, and in case of selling the call, an unexpected loss, both caused by more underlying price moves than anticipated through the implied volatility..  
 
-![](images/ddd75a5687bfd592baca9187f404ef24ecb251f9726898d190ddba324cd0d1e6.jpg)  
+![](ddd75a5687bfd592baca9187f404ef24ecb251f9726898d190ddba324cd0d1e6.jpg)  
 Figure 10.15  Impact of delta and gamma changes on the offsetting quantity of the underlying position  
 
 Delta -- gamma neutral management, also called "dynamic replication', does present limitations that should not be underestimated:9.  
@@ -6120,7 +6124,7 @@ $$
 \Theta=\frac{\partial C}{\partial t}=\frac{S\sigma}{2\sqrt{t}}N^{\prime}(d_{1})+K e^{-r t}r N(d_{2})
 $$  
 
-![](images/e7de9ceff3aafebc5668bf4b4a62c5c6ca6e965df3cd766c60af02aeee07d3a4.jpg)  
+![](e7de9ceff3aafebc5668bf4b4a62c5c6ca6e965df3cd766c60af02aeee07d3a4.jpg)  
 Figure 10.16 Impact of the Theta on a call price  
 
 such as  
@@ -6142,7 +6146,7 @@ Considering successive OTM call prices, from $t=t_{0}$ (contract inception) to $
 
 We notice that the time decay is accelerating. Indeed, as an OTM option, its price is pure time value, proportional to $\sigma{\sqrt{t}}$ , let say a $C^{t e}\times\mathcal{I}t!$ comparing the call price at inception, that is with $t=1$ as remaining time to maturity, this price goes to half its value when it remains only 1/4th of the time to maturity because $\surd0.25=0.5$  
 
-![](images/671bb2ddbd27e606b3da23f68b37eab90d8bd3ec41b04b45f960fa3458b00fa4.jpg)  
+![](671bb2ddbd27e606b3da23f68b37eab90d8bd3ec41b04b45f960fa3458b00fa4.jpg)  
 Figure 10.17 Call price decay in function of reducing time to maturity  
 
 # The Vega  
@@ -6173,7 +6177,7 @@ $$
 \rho={\frac{\partial C}{\partial r}}=-\tau K e^{-r\tau}N(-d_{2})
 $$  
 
-![](images/7f167b3b96c7b83ec91cbfa6dd3723d0e44a71c41d39832f0e982aa46a05493d.jpg)  
+![](7f167b3b96c7b83ec91cbfa6dd3723d0e44a71c41d39832f0e982aa46a05493d.jpg)  
 Figure 10.18 Call price in function of its implied volatility  
 
 From these formulae, it results that. $\rho$ is positive for a call, and is negative for a put. This can be understood as follows:.  
@@ -6523,7 +6527,7 @@ The right valuation of a callable bond actually consists in pricing the embedded
 
 If on $02/10/11$ we value a call option on the above bond from 02/10/11 to $01/26/12$ $\mathrm{K}=100$ (callable at par), $\mathrm{S}=106.28$ , current market (price) volatility $=0.8\%$ ${\mathrm{r}}_{\mathrm{mkt}}=1{\mathrm{y}}$ LIBOR $\mathcal{Q}0.927\%$ ${\mathrm{r}}_{\mathrm{und}}=\mathrm{YTM}$ of $6.01\%$ , the theoretical premium amounts to $1.233\%$ and is almost pure intrinsic value (DITM option, with a delta of $94\%$ ; however, this valuation significantly differs from the actual premium resulting from the difference between the yields of both similar bonds, the callable and the vanilla ones, that is, $6.01\textrm{--}2.53=3.46\%$ Of course, the relevant market prices and yields are not benefitting from the market liquidity needed to have market option prices equivalent to their theoretical valuation.  
 
-![](images/fbed032339be9857e7d6bb9f96da3998c26a80e236df7b1b5eaa48f262ec94c7.jpg)  
+![](fbed032339be9857e7d6bb9f96da3998c26a80e236df7b1b5eaa48f262ec94c7.jpg)  
 Figure 11.1 Price-yield relationship of callable and vanilla bonds  
 
 # Duration  
@@ -6552,7 +6556,7 @@ An investor in a putable bond pays thus for having the right to sell back his bo
 
 Other considerations, exposed in the previous section, remain mutatis mutandis applicable. to putable bonds. In particular, the price-yield relationship is significantly different: in the present case, if yields increase, the put value increases accordingly (from strike $K$ , equivalent in yield), making the combined value of $\{\mathrm{bond}+\mathrm{put}\}$ decrease at a lower pace than for a vanilla bond  see Figure 11.2.  
 
-![](images/6501e5ae833a3f181447704dc5ed3475651fbff9eabecd5df0abb61f0229d756.jpg)  
+![](6501e5ae833a3f181447704dc5ed3475651fbff9eabecd5df0abb61f0229d756.jpg)  
 Figure 11.2 Price-yield relationship of putable and vanilla bonds  
 
 # Example of a Putable Bond  
@@ -6671,7 +6675,7 @@ Coming back to the general case, a CB price can be evidenced in a graph such as 
 
 "distressed": if the corporation is facing serious financial problems, both the CB (then, a "junk' convertible) and the stock price go to 0;. "OTM": if the parity is in the range of $40-70\%$ , the stock price has poorly performed, well below the conversion price. It corresponds to a CB premium exceeding, say,. $35\%$ and a  
 
-![](images/362678918df87dedcf916ca8d80f694f08829ac4ca17fc749f70c21727932a81.jpg)  
+![](362678918df87dedcf916ca8d80f694f08829ac4ca17fc749f70c21727932a81.jpg)  
 Figure 11.3 Convertible bond price as a function of its underlying stick price  
 
 very low risk premium. This situation corresponds to the Delhaize example (on the left side of this sub-area). The corresponding embedded call option is OTM, with a delta in the range of, say, $5-40\%$ , and a corresponding time value that becomes higher and higher, leading to a CB price progressively increasing above the bond floor level, that represents the CB out of its call component;   
@@ -6751,7 +6755,7 @@ $$
 
 Note that the mean reversion coefficient. $a$ is common for the whole set of yield curve rates. $r$ , so that with $a>1$ , the mean reversion has a stronger impact on short-term rates than on. long-term rates, leading to a higher variance or volatility of short-term rates than of long-term rates, what fits with the market observation..  
 
-![](images/37ea7f0d16259153a76d3917b3d399250b897d91a40bf840c296e03f63bcdf6f.jpg)  
+![](37ea7f0d16259153a76d3917b3d399250b897d91a40bf840c296e03f63bcdf6f.jpg)  
 Figure 11.4 Node of a trinomial tree  
 
 Applying this model involves a finite differences technique, but rather through a trinomial rather than a binomial tree: in addition to the up (with probability. $p_{u}$ ) and down (with probability $p_{d})$ moves from one node, the trinomial tree adds a probability. $p_{m}$ that $r$ remains unchanged after $\Delta t$ In a first step,? starting from the current yield curve (at $t_{0}$ ), we make $\theta(t)=0$ and $r(0)=0$ and build the tree on. $r(t)$ such as on each node, expected value and variance $E(.)$ and $V(.)$ are computed from the above process, as in Figure 11.4.  
@@ -6852,7 +6856,7 @@ $$
 
 To calibrate the model represented by Eq. 11.2 and Eq. 11.3, we must estimate the set of $\sigma_{i}\mathbf{S}$ and $\rho_{i j}\mathbf{s}$ Both estimations are delicate issues, because these measures are not stable over time. In practice, the LMM model can be carried out either by use of a binomial recombining. tree or by Monte Carlo simulations..  
 
-![](images/bd56a64034f5159cd10bd16304eff6f031220544e05ba1fd6dd97d590315de7c.jpg)  
+![](bd56a64034f5159cd10bd16304eff6f031220544e05ba1fd6dd97d590315de7c.jpg)  
 Figure 11.5Example of a cap and a floor on the 3M LIBOR USD  
 
 # 11.3.4 Caps, floors, collars  
@@ -6867,7 +6871,7 @@ The combination of a cap and a floor is a collar, with the following rationale, 
 
 (borrower:) BUY a CAP (to limit a borrowing cost) $\Rightarrow$ pay a premium $+$ SELL a FLOOR (to give up a lower borr. cost) $\Rightarrow$ get a premium $=\mathrm{BUY}$ a COLLAR => @net premium (investor:) BUY a FLOOR (to hedge ag. lowering rates) $\Rightarrow$ pay a premium $+$ SELL a CAP (to give up a higher revenue) $\Rightarrow$ get a premium $=$ SELL a COLLAR -> @net premium  
 
-![](images/8a783c04098d8dab44e8074985311252fa09661ecc3f86d59e32cc0a0e790166.jpg)  
+![](8a783c04098d8dab44e8074985311252fa09661ecc3f86d59e32cc0a0e790166.jpg)  
 Figure 11.6 Variables affecting the cap or floor price  
 
 In normal market conditions, for a borrower, the cost of a collar is such as the whole cap $\leftrightarrow$ floor range of -ibor rates, augmented by the collar cost on a corresponding p.a. basis, cannot be lower than the corresponding IRS rate of same maturity (for the sake of no arbitrage condition). Conversely, for an investor, the whole cap. $\leftrightarrow$ floor range of -ibor rates, reduced by the collar cost on a corresponding p.a. basis, cannot be higher than the corresponding IRS rate.  
@@ -6903,7 +6907,7 @@ A swap being determined as a payer or a receiver swap, quite understandably, we 
 
 # swaption contract lifetime  
 
-![](images/158c4e270861b60808ad94eba59eadff98755ca67a4755869fcd5ca81783d386.jpg)  
+![](158c4e270861b60808ad94eba59eadff98755ca67a4755869fcd5ca81783d386.jpg)  
 Figure 11.7 Breaking down of a swaption contract lifetime  
 
 caps and floors using the Black-Scholes formula). The strike price of a swaption is the swap (fixed) rate to be applied in case of exercise.  
@@ -7037,7 +7041,7 @@ For some European exotic options, the valuation can be directly obtained from an
 
 The binary option presents the peculiarity that the seller's risk is limited (to $Q$ ), contrary to the non-limited risk of a regular call seller. Needless to say, the gamma of this option makes it hard to manage, given the jump from 0 to $Q$ at $K$  
 
-![](images/ca49108d04059540faaebfec326efa917ed026e92391c27af43f3dfd8ea97a51.jpg)  
+![](ca49108d04059540faaebfec326efa917ed026e92391c27af43f3dfd8ea97a51.jpg)  
 Figure 11.8Digital call versus regular call  
 
 The valuation of this binary call, within the framework of the Black-Scholes hypotheses,. and thus in a risk neutral world, translates the underlying rationale that it must be proportional to the probability that the call will be exercised. As stated in Chapter 10, Section 10.2.4, this probability is measured by. $N(d_{2})$ , so that the price $B C$ of a European binary call is. limited to  
@@ -7063,7 +7067,7 @@ In several cases, it turns out it is possible to build approximate analytical so
 
 The downside of such methods is that they need heavy maths to develop them, due to the need to model as realistically as possible - even by using simplifying hypotheses (hence, the approximation of the solution) -- the particularities of the exotic form. And of course, these solutions only apply to European options.  
 
-![](images/0c63145244a2ebc99f05ad14c8e4cbb51d67a47df3135a66ed4ca7371ff11b6f.jpg)  
+![](0c63145244a2ebc99f05ad14c8e4cbb51d67a47df3135a66ed4ca7371ff11b6f.jpg)  
 Figure 11.9 Binomial tree in the case of a knock-out barrier option  
 
 # Binomial Model  
@@ -7084,7 +7088,7 @@ For applications such as a.o., American barrier options, it is preferable to use
 
 Starting from the current price $S.$ and using the notations introduced for the binomial tree in Chapter 10, Section 10.3, these connections correspond to $S_{u}=S\times u,S,$ and $S_{d}=S\times d$ respectively, with corresponding probabilities $p_{u},p_{m}$ (for the unchanged price level $S$ ) and $p_{d}$ The values for u, $d,p_{u}$ , and $p_{d}$ are different from the ones given in the case of the binomial tree, with $p_{m}=1-p_{u}-p_{d}$ . For more details, see Further Reading (for example, Espen Gaarder HAUG). This being settled, the option valuation methodology is the same as with the binomial tree.  
 
-![](images/200123136ac108a2fed612e1314de983727ab7b5bb4f7cec53d71750db61c2bc.jpg)  
+![](200123136ac108a2fed612e1314de983727ab7b5bb4f7cec53d71750db61c2bc.jpg)  
 Figure 11.10 Diagram of a trinomial tree  
 
 The advantage of the trinomial tree is that, for the same number of. $\Delta t\mathrm{s}$ , by increasing the number of possible intermediate prices one can increase the accuracy of the valuation (cf. also the use of a trinomial tree in the Hull and White model of options on interest rates,. Section 11.3.2).  
@@ -7172,7 +7176,7 @@ $$
 
 Index GV  
 
-![](images/f1caeac42a2eaffe13e8d349bbf3a0c923c421cdf0496030c4bb77a3dd104db4.jpg)  
+![](f1caeac42a2eaffe13e8d349bbf3a0c923c421cdf0496030c4bb77a3dd104db4.jpg)  
 Figure 12.1 Historical and implied volatility of the SP500 (March 2007 to March 2011) Source: Bloomberg  
 
 To recursively repeat the operation on a great enough number $n$ of past data, we obtain  
@@ -7197,7 +7201,7 @@ $$
 \sigma=s{\sqrt{n}}
 $$  
 
-![](images/05f820e251f845309b3bfeb86971813634bda1f6dc50f6cba3542b6d7ca49a2a.jpg)  
+![](05f820e251f845309b3bfeb86971813634bda1f6dc50f6cba3542b6d7ca49a2a.jpg)  
 Figure 12.2 Example of calculation of historical volatility  
 
 In the case of monthly or weekly data,. $n$ is of course 12 or 52. For daily data, market. practice uses $n=250$ days, which corresponds to about the actual number of trading days on exchanges.  
@@ -7235,10 +7239,10 @@ This correction sounds good, but we may question it, if, on the whole range of d
 
 With respect to the Black-Scholes formula for option pricing, and related pricing models, the implied volatility to be used is a constant, whatever the option maturity is. Practically speaking, the market is using different implied volatilities for different maturities: in other words, the volatility estimate (by the option market maker) is not necessarily the same for the next 3 months as for the next 3 years, for example. Hence, the use of implied volatility curves (or "volatility structure"), just as yield curves (or term structure). For example, in Figure 12.4 is the implied volatility curve of options (of ATM and near to ATM strikes) on the S&P 500, as of 05/03/2011.  
 
-![](images/d32f0151b99ff7b1025e78479d31252a43509c7dacd1bb0f303d4e0827af4eb1.jpg)  
+![](d32f0151b99ff7b1025e78479d31252a43509c7dacd1bb0f303d4e0827af4eb1.jpg)  
 Figure 12.4 Example of an implied volatility curve  
 
-![](images/e8444f33e0d55dc2f4b6ed5af6e23c7804ea0f3098316a4af465486bbd445c4e.jpg)  
+![](e8444f33e0d55dc2f4b6ed5af6e23c7804ea0f3098316a4af465486bbd445c4e.jpg)  
 Figure 12.5 Typical shapes of an implied volatility curve  
 
 These implied volatility curves are changing over time, just as with yield curves. Contrary to yield curves, for which the curve is said to be "normal' when going upwards (cf. Chapter 2, Section 2.1), a "normal' implied volatility curve is going down with higher maturities. This can be explained by a long-term mean reversion (cf. Section 12.2) effect: the longer the maturity, the. lower the volatility due to the mean reversion feature. Furthermore, shorter maturity volatilities are more volatile than longer maturity ones. So we may speak of an "implied volatility cone", involving various observed implied volatility curves for a given underlying, showing that the range of possible implied volatilities is usually broader for shorter maturities, as in. Figure 12.5.  
@@ -7248,7 +7252,7 @@ volatility curves allow the computing of forward volatilities. These forward vol
 used, for example, for pricing forward option products, or volatility swaps (cf. Section 12.5).   
 The non-arbitrage principle of calculation of forward rates is used here too, as in Figure 12.6..  
 
-![](images/9e5105a3293feee9164cf4044232160e474ebc85ad50a24d5310dcffc7b0359a.jpg)  
+![](9e5105a3293feee9164cf4044232160e474ebc85ad50a24d5310dcffc7b0359a.jpg)  
 Figure 12.6 Principle of a forward volatility calculation  
 
 But on the variances and not directly on (standard deviations $\circeq$ ) volatilities, since  
@@ -7284,7 +7288,7 @@ However, with respect to options valuation, the Gaussian hypothesis becomes hard
 
 The actual distribution remains symmetric as for the Gaussian, but presents fatter tails. This corresponds to a kurtosis feature (actually, platykurtic, as it often appears from market observations), as in Figure 12.7.  
 
-![](images/57f69b8e571b2c454d7438d39ee142064433d2725ec4efb58664d4a1419e52bd.jpg)  
+![](57f69b8e571b2c454d7438d39ee142064433d2725ec4efb58664d4a1419e52bd.jpg)  
 Figure 12.7Kurtosis feature  
 
 The actual distribution shows no fatter tails, but some dissymmetry (negative returns represent $>50\%$ or $<50\%$ than the positive returns), which is measured by the skewness of the. distribution.   
@@ -7299,7 +7303,7 @@ If the actual distribution presents no fat tails, but some asymmetry,
 . first, the market may well quote different implied volatility levels for calls and for puts,. implying thus a kind of market consensus for a directional trend in the underlying evolution;   
 second, the market can quote different implied volatilities for DOTM calls and DITM puts on the one hand, that is corresponding to lower underlying spot prices, than for DITM calls. and DOTM puts on the other hand, corresponding to higher underlying spot prices. Here,. the graph would show something such as Figure 12.9, which explains why it is now called. a "volatility smirk", or "sneer'' (although, "grimace" would be more appropriate)..  
 
-![](images/8ca2dcea9e12914f2a98f62b8a3fffb8eea6e6c1b7f0ba310b2bf9e66c128e94.jpg)  
+![](8ca2dcea9e12914f2a98f62b8a3fffb8eea6e6c1b7f0ba310b2bf9e66c128e94.jpg)  
 Figure 12.8 Implied volatility in function of the delta of the option  
 
 Finally, in practice, both features may well coincide, leading to patterns such as in Fig-. ure 12.10, showing the implied volatilities of calls on the S&P 500 maturing in 1 week, 1 month $+1$ week, 2 months $+1$ week and 3 months $+1$ week (data for 04/22/11, source: Bloomberg).  
@@ -7310,15 +7314,15 @@ We could wonder about the problem -- for an options market maker - of determinin
 
 In the previous section, we have considered different implied volatilities in function of the option delta. But looking to analytical option pricing formula such as Black-Scholes (cf. Chap-. ter 10, Eqs. 10.7-10.9), we notice that the volatility is always associated with the (remaining). time to maturity, under the form of. $\sigma{\sqrt{T}}.$ This is the main ingredient of the option time value.  
 
-![](images/94c684f32e6f1b829ac1a4eecf6b131b3ed93dfdf7ac9ebc258ff2528b0ce5d5.jpg)  
+![](94c684f32e6f1b829ac1a4eecf6b131b3ed93dfdf7ac9ebc258ff2528b0ce5d5.jpg)  
 Figure 12.9 A volatility smirk, or sneer  
 
-![](images/5e02c53945e00aad34b63f0b4b5a5712223c77acbe6de1a171b1156687fe2f65.jpg)  
+![](5e02c53945e00aad34b63f0b4b5a5712223c77acbe6de1a171b1156687fe2f65.jpg)  
 Figure 12.10Implied volatilities of calls on the S&P 500  
 
 (cf. Chapter 10, Section 10.1). In case of a smile or a smirk, the time value may differ, through $\sigma$ , in function of the option delta, but also in function of the remaining time to maturity $T.$ Hence, the use of a three-dimensional representation of the implied volatility, in function of both the delta and the remaining time to maturity, that can present many different shapes; Figure 12.11 (source: Bloomberg) shows the volatility surface for options on the S&P 500 (data as of 04/22/11).  
 
-![](images/fb04984ca11cf0ba35f1b3ee191f4b327f193d632099aad8a9876899df78b79f.jpg)  
+![](fb04984ca11cf0ba35f1b3ee191f4b327f193d632099aad8a9876899df78b79f.jpg)  
 Figure 12.11Volatility surface for options on the S&P 500  
 
 There exist numerous studies aiming to model such volatility surfaces, within the more general framework of the volatility modeling that is addressed in Section 12.2 next.  
@@ -7389,12 +7393,12 @@ Bypassing this pitfall, a volatility model will actually be associated to the co
 
 Not surprisingly, modeling the volatility will involve a stochastic component, as is the case in modeling returns. Furthermore, volatility presents a similar feature as an interest rate, namely a mean reversion feature: periods of high volatilities follow periods of low volatilities, both around some mean volatility level. Of course, both the length of the cycles and their amplitude is neither regular, nor constant over time. As an example, in Figure 12.13 are the monthly historical p.a. volatilities of the S&P 500, from the beginning of 2000 to mid-2008 (further values have been deliberately excluded, because of the exceptional impact of the banks crisis on the market, from August 2008 to at least May 2009).  
 
-![](images/2e562c415c32b2c3f2d6f0f8cf056699b00be2c0b9334dd9d0fe830e199096ee.jpg)  
+![](2e562c415c32b2c3f2d6f0f8cf056699b00be2c0b9334dd9d0fe830e199096ee.jpg)  
 Figure 12.12VIX graph Source: Bloomberg  
 
 Volatility models may thus be advantageously designed as mean reversion processes, as described in Chapter 11, Section 11.3 (for interest rate processes). Considering the volatility $\sigma_{t}$ of an asset of price $S$ modeled by a geometric, general Wiener process as per Eq. 8.11b of  
 
-![](images/c1c97ef58bad4072a1564481ace60fddec3f9c2818391f3410740e2cf91f9a58.jpg)  
+![](c1c97ef58bad4072a1564481ace60fddec3f9c2818391f3410740e2cf91f9a58.jpg)  
 Figure 12.13 Monthly historical volatilities of the S&P 500 - 2000 to mid-2008  
 
 Chapter 8, but where the constant volatility $\sigma$ is replaced by the variable $\sigma_{t,\mathrm{\Delta}}$ a very simplistic volatility model consists of associating the process of the underlying, involving a stochastic component $d Z_{1}$  
@@ -7437,7 +7441,7 @@ $$
 d Z_{1}=\rho_{1,2}d Z_{2}+(1-\rho_{1,2}^{2})^{1/2}d Z_{3}
 $$  
 
-![](images/257b0a1dd9382ddd01bef5648e86991902e906d5d01de9bc1e4904fbd8ddded9.jpg)  
+![](257b0a1dd9382ddd01bef5648e86991902e906d5d01de9bc1e4904fbd8ddded9.jpg)  
 Figure 12.14 Forecasting a volatility by use of a (1,1)-type of GARCH process  
 
 that creates a third stochastic process $Z_{3}$ that is independent (uncorrelated) with $Z_{1}$ . Provided some hypothesis can be reasonably made about $\rho_{1,2}$ presumably as a function of $\sigma_{t}$ the model allows for a Monte Carlo simulation.  
@@ -7454,7 +7458,7 @@ $\alpha_{0},\alpha_{1}$ and $\beta_{1}$ have been (approximately) determined fro
 
 The (1,1)-type of GARCH is not necessarily the best choice, given the series of past data. used in this example: an ARMA (1,1) computed on the same data performs better in this case,. but both give, in this particular example, a better forecast than the VIX; the graph has been zoomed on the last 10 values, together with the ARMA and VIX forecasts..  
 
-![](images/52fb5a4b43e64ae852d110607512944958e2ce73907e64d5af7840f92a0464ab.jpg)  
+![](52fb5a4b43e64ae852d110607512944958e2ce73907e64d5af7840f92a0464ab.jpg)  
 Figure 12.15 Comparison between GARCH (1,1), ARMA (1,1) VIX forecasts  
 
 and the relative error of these three models is:  
@@ -7497,13 +7501,13 @@ This is not the case with the covariance (not shown on the graph). By contrast, 
 
 The standard deviation of these 50-day series of volatilities, correlations and covariances shows a much bigger dispersion of the correlation than of the related volatilities in the case of  
 
-![](images/71a7cecd6127e249e25f2d3776be11c3b0c5298ad966bc0cec3312a8ded970a6.jpg)  
+![](71a7cecd6127e249e25f2d3776be11c3b0c5298ad966bc0cec3312a8ded970a6.jpg)  
 Figure 12.16 Correlation between EUR/USD and S&P 500 data (2000 to 2009)  
 
-![](images/4719401dee83c6e83c96e4161edf563bd9f1485ee9e20178d9a0c98f1afe4a1d.jpg)  
+![](4719401dee83c6e83c96e4161edf563bd9f1485ee9e20178d9a0c98f1afe4a1d.jpg)  
 Figure 12.17 Correlation between Nasdaq and S&P 500 data (2000-2009)  
 
-![](images/ba84140051ca69986676b36f2a2f2ff4b74e3032d412f85976e455ecfa2c5613.jpg)  
+![](ba84140051ca69986676b36f2a2f2ff4b74e3032d412f85976e455ecfa2c5613.jpg)  
 Figure 12.18 Diagram of a volatility or variance swap  
 
 the uncorrelated EUR/USD versus S&P 500, while it is of the same order of magnitude in the case of the well-correlated S&P 500 versus NASDAQ 100.   
@@ -7674,7 +7678,7 @@ and, as long as the risk remains more or less stable, the bond price will be in 
 
 NB: there exist bond issues offering a "fixed' coupon, but indexed (up or down) on the rating of the issuer, to maintain the bond market price more stable.  
 
-![](images/f72cf5063375a5893ee46196fb014c3cef705424273d9220c59105c80ea79d8d.jpg)  
+![](f72cf5063375a5893ee46196fb014c3cef705424273d9220c59105c80ea79d8d.jpg)  
 Figure 13.1Greece government bond 2009-2011  
 
 The default probability on the further cash flows payments is also affecting the duration (cf. Chapter 3, Section 3.2.2) of risky bonds. For example, on. $09/20/10$ , the Hellenic Republic bond $4\%\%$ maturing in 13/06 was quoting 84.62 (mid), with a yield of. $10.855\%$ Ignoring the default risk, this bond would present a duration of 2.86 years. At that time, the market. quotation was implying a default probability of $45\%$ on further cash flows payments, reducing the duration to 2.74 years.  
@@ -7689,7 +7693,7 @@ The credit derivatives market is OTC only. Contracts are supported by the ISDA d
 : A weak point for the credit derivative market is the extreme diversity of possible underlying bonds or bank loans, that is, a much wider range of underlyings than the corresponding number of traded stocks. As a consequence, the liquidity of most of credit derivatives, for a specific underlying (reference obligation) is insufficient. This will show crucial in credit derivative pricing.   
 . The credit derivative market operations extensively involve a collateral deposit, to cover the (counterparty) risk of the protection seller. This collateral secures that, in case of default, the protection seller can assume his role vis- $\dot{\mathbf{a}}$ -vis the protection buyer (see product example).  
 
-![](images/d00d8bf043f7013c9aac11cb766a22aa0bc4b599150da1678e11e5b8fca988bf.jpg)  
+![](d00d8bf043f7013c9aac11cb766a22aa0bc4b599150da1678e11e5b8fca988bf.jpg)  
 Figure 13.2 Diagram of a credit default swap  
 
 # 13.1.5 Example of a credit derivative  
@@ -7827,7 +7831,7 @@ $$
 
 Valuing a credit derivative involves valuing both the probability $q$ of default, and the value $\nu$ of the debt after default, or recovery rate. Of course for a credit derivative based on a given,. fixed, recovery rate, only $q$ remains to be quantified. This is the case for the important segment of index products, like CDX or iTraxx. However, the price of a credit derivative with fixed recovery rate will anyway depend on the level of such contractual recovery rate.  
 
-![](images/67b116c1ecfa2347a51ba22916e85f61fcebc9899589fef9d86660916b17f605.jpg)  
+![](67b116c1ecfa2347a51ba22916e85f61fcebc9899589fef9d86660916b17f605.jpg)  
 Figure 13.3 Diagram of a binomial process about default  
 
 Today, many quantitative models coexist, none of them being satisfactory (except for possible "in house", undisclosed, models). The three main models are as follows.  
@@ -7897,7 +7901,7 @@ Contrary to the simplistic example above, what becomes the valuation in the real
 Since the model only looks at the default probability, it doesn't say anything about the recovery rate factor. What if the stock volatility is changing for other reasons (such as systematic market risk) than the ones linked to the company's ability to pay its debt? Such volatility change are in any cases affecting the probability distribution curve of the stock and thus the cumulative default probability.   
 More fundamentally, one can question the validity of the Black-Scholes formula in case of dramatic moves of the stock price, what corresponds to deep OTM call situations: it is well known that in such circumstances, the call pricing model needs some adjustments, for example in terms of volatility smile (cf. Chapter 12, Section 12.1.3). Now, $S_{T}$ levels corresponding to default situations are just such as corresponding to deep OTM levels.  
 
-![](images/b72a6c427f2d2884a48416235af7a626c730ccda3b8b532b4c0403e2326c94dc.jpg)  
+![](b72a6c427f2d2884a48416235af7a626c730ccda3b8b532b4c0403e2326c94dc.jpg)  
 Figure 13.4 Probability of default  
 
 Finally, it seems however that the KMV's model output appears to usefully tracking changes in estimation of default probabilities in a rather global way.  
@@ -7912,7 +7916,7 @@ $$
 
 Looking at the first step of the binomial process presented in Section 12.2.1, completed by the bond value at maturity,  
 
-![](images/de223149ac9612ad93dd149c244da8c1987a6b522a3dd252ea0da09c5ee220dc.jpg)  
+![](de223149ac9612ad93dd149c244da8c1987a6b522a3dd252ea0da09c5ee220dc.jpg)  
 
 we have  
 
@@ -8006,7 +8010,7 @@ $$
 
 that defines $C-$ named a copula of two variables $x$ and $y-\mathsf{a s}$ a cumulative probability function of the marginal cumulative probabilities $\Phi_{x}(x),\Phi_{y}(y)$ of $x$ and $y$ 6 A copula is thus a general. measure of co-dependence between two variates, which is independent of their individual marginal distribution - see Figure 13.5.  
 
-![](images/dbdbc7899fca1261b4c682452d34a623b7b298d87d793762566721f44513887b.jpg)  
+![](dbdbc7899fca1261b4c682452d34a623b7b298d87d793762566721f44513887b.jpg)  
 (http://www.mathworks.com/access/helpdesk/help/toolbox/stats/copula_17.gif)   
 Figure 13.5 Example of a copula  
 
@@ -8028,15 +8032,15 @@ The probability of loss on a CDO tranche can be viewed as the joint distribution
 
 either, compute the corresponding CDO tranche price by estimating the co-dependence or correlation structure from other data (see Figure 13.7).  
 
-![](images/acd71362c9a06bc8bdb5bd38b74a445f39907d2a1206d7decd382e2932da1d33.jpg)  
+![](acd71362c9a06bc8bdb5bd38b74a445f39907d2a1206d7decd382e2932da1d33.jpg)  
 Figure 13.6Example of a CDO  
 
 As such, a marginal distribution of default probabilities can be built from observed market data, together with pair-wise observed correlations $\rho_{i j}$ , what leads to a joint distribution,. often modeled as a Gaussian copula. In this case, the Gaussian copula is a non-linear function of the (linear) correlation matrix. Monte Carlo simulations of this joint distribution. lead to the determination of the CDO price. But one must admit that the choice of a Gaussian copula is arbitrary, and the choice of constant $\rho_{i j}$ is for want of anything better; or, from CDO observed prices, infer the relevant co-dependence (see Figure 13.8). Here, the market observed CDS premia and CDO prices leads to an "implied correlation",. which is used by market practitioners like an "implied volatility", which differs from one tranche to another, and serves for correlation trading.  
 
-![](images/8c6cab812a433bc80f5f1ab8140eae8af39c63c8c99610c3a889223229ea87d6.jpg)  
+![](8c6cab812a433bc80f5f1ab8140eae8af39c63c8c99610c3a889223229ea87d6.jpg)  
 Figure 13.7Diagram of a CDO pricing  
 
-![](images/2e968511e8e96c175bdbaa62a9d2a1b4cacc8317269e0cf1f0213c501f1ddf19.jpg)  
+![](2e968511e8e96c175bdbaa62a9d2a1b4cacc8317269e0cf1f0213c501f1ddf19.jpg)  
 Figure 13.8 Diagram showing how to compute CDO implied correlation  
 
 # 13.3CONCLUSION  
@@ -8047,7 +8051,7 @@ Ultimately, the three major problems facing the search for a suitable credit ris
 correlation problems (measure, stationarity), affecting credit derivatives built on a basket or index of underlyings: "correlation, or more generally co-movement, is one of the single greatest challenges facing quantitative analysts and risk managers today" (P. JACKEL, op. cit.);   
 and, more fundamentally, an option replication problem: as a matter of fact (see Section 12.1.5), despite the credit derivatives are labeled "swaps', they are actually conditional  
 
-![](images/dab4f24ef07ba52ee7babedb56ee54e33f1c7cf23c577f290713d58306716875.jpg)  
+![](dab4f24ef07ba52ee7babedb56ee54e33f1c7cf23c577f290713d58306716875.jpg)  
 Figure 13.9 Graph of an iTraxx premium Source: Bloomberg  
 
 swaps, that is, options products. Option valuation is based on the ability to build a riskless portfolio, combining some short position in underlying and some long position in a corresponding option. In the case of a credit derivative, it is impossible to take a short position. on an underlying default risk, hence, no delta neutral mechanism, and the option theory is not grounded in this case, because such option is not replicable..  
@@ -8105,7 +8109,7 @@ $$
 
 Let us start with two consecutive periods:  
 
-![](images/3decbb771847ffb1237a12a4b43b4c713b9a21ef98c515e02277ba64c0b40b5b.jpg)  
+![](3decbb771847ffb1237a12a4b43b4c713b9a21ef98c515e02277ba64c0b40b5b.jpg)  
 
 This two-period return is evidently obtained by compounding the successive one-period returns, and is called TWRR (for Time Weighted Rate of Return) in the funds industry:  
 
@@ -8279,7 +8283,7 @@ $$
 J e n s e n s\overset{\prime}{s}\propto_{P}=E(r_{P})-r_{f}-\beta_{P}(E_{M}-r_{f})
 $$  
 
-![](images/978b20c53716157354744a0778ea556f06d7bbf217b27d7226f09d4cac7a3a01.jpg)  
+![](978b20c53716157354744a0778ea556f06d7bbf217b27d7226f09d4cac7a3a01.jpg)  
 Figure 14.1 Comparing Treynor and Jensen measures, for a portfolio $P$  
 
 and represents the portfolio excess return versus a benchmark (theoretically, the market index).   
@@ -8327,10 +8331,10 @@ $$
 
 This ratio gives an idea of the importance of the excess return obtained by a fund, considering the undergone excess risk, hence, a kind of "excess" Sharpe ratio.  
 
-![](images/ac4aad1f12f6d59fab994598e1e0a200fd3575b9ea8d915251e655cba8d898ea.jpg)  
+![](ac4aad1f12f6d59fab994598e1e0a200fd3575b9ea8d915251e655cba8d898ea.jpg)  
 Figure 14.2 Global example of the relative performance measures  
 
-![](images/dfd0ca9f03cc024ebea8590b1acc5554e2f4f39824625bb62c6f3e89dde0aa9e.jpg)  
+![](dfd0ca9f03cc024ebea8590b1acc5554e2f4f39824625bb62c6f3e89dde0aa9e.jpg)  
 Figure 14.3Determining the Maximum Draw Down  
 
 Maximum Draw Down (MDD); Calmar Ratio  
@@ -8355,7 +8359,7 @@ Z-score
 
 Besides their use as a risk measure, volatilities allow us to compute a rather common measure used in proprietary trading: the Z-score. This measure quantifies spreads of prices or returns.  
 
-![](images/8c747f1eef57e1f0fb9241632b1e452b2d180ee647ace84307def140b71dac35.jpg)  
+![](8c747f1eef57e1f0fb9241632b1e452b2d180ee647ace84307def140b71dac35.jpg)  
 Figure 14.4 S&P 500 daily prices and log returns 2009  
 
 towards their average on a past period of time, allowing to assessing to what extent a price, for example, is abnormally cheap for a buying opportunity.  
@@ -8478,7 +8482,7 @@ Applied to the above example, we obtain the result in Figure 14.8, showing that 
 
 If the portfolio in invested in one or several currencies other than the portfolio currency, in these cases the appreciation or depreciation of a currency of an asset (or a sub-set of the portfolio) is affecting the portfolio performance and therefore the performance attribution. The simplest way to incorporate this effect is by splitting the asset allocation contribution in two parts, one reflecting the currency performance itself, and the second reflecting the actual asset allocation contribution, that is, the original one, minus the currency effect:.  
 
-![](images/cf36eac56fcd279063665a585defb74c0b8507689a4c821c2c0f64caa05546cb.jpg)  
+![](cf36eac56fcd279063665a585defb74c0b8507689a4c821c2c0f64caa05546cb.jpg)  
 Figure 14.8 Result of the portfolio manager's choices  
 
 actual asset allocation $=$ original asset allocation $^+$ currency attribution  
@@ -8499,7 +8503,7 @@ and deduct this amount from the original asset allocation contribution, for obta
 
 Coming back to our example, the portfolio is in USD, but the Nikkei sub-set has made its performance primarily in JPY, and during the year 2005, the JPY has depreciated by. $12.69\%$ against the USD. So that, for the Nikkei portfolio subset, the actual asset allocation contribution has to be reduced by the corresponding (negative, here) currency contribution.. In Figure 14.9 we see that the sum of attribution effects is unchanged, but the actual asset allocation contribution is of $3.48\%$ instead of $2.21\%$ : the reduction to $2.21\%$ is due to the loss on the currency.  
 
-![](images/0f9294c07c5cce96e6edc01b533634fc718a15eda40f0550631cfdf884936b5e.jpg)  
+![](0f9294c07c5cce96e6edc01b533634fc718a15eda40f0550631cfdf884936b5e.jpg)  
 Figure 14.9 Impact of the currency contribution  
 
 The methodology presented here is known as the Brinson's BHB model. There exist more sophisticated methods, see the further reading at the end of the chapter..  
@@ -8514,7 +8518,7 @@ the constraints of the fund or portfolio market allocation decisions rules;. the
 
 The methodology can be outlined as in Figure 14.10.  
 
-![](images/89130813c0d2e3859727c83fc2329be0f62289c13028de2483a5dbcfed79791b.jpg)  
+![](89130813c0d2e3859727c83fc2329be0f62289c13028de2483a5dbcfed79791b.jpg)  
 Figure 14.10 Performance attribution methodology  
 
 For an attribution calculated over a period $\Delta t$ (1 month, 1 year, or whatever), the corrected excess return $\Delta r$ can be broken down into the following components:  
@@ -8545,7 +8549,7 @@ As seen in Chapter 4, Section 4.3.7, some circumstances justify to give up the b
 
 The Sortino ratio is built in a similar way as the Sharpe ratio, except that, instead of dividing. by the standard deviation of a series of past returns, the divisor is the downside semi-standard  
 
-![](images/d21d9d1e12eb9a5a70db0af8b0c376d99a7c8b9cd3a18515935d285838c10e1b.jpg)  
+![](d21d9d1e12eb9a5a70db0af8b0c376d99a7c8b9cd3a18515935d285838c10e1b.jpg)  
 Figure 14.11 Applying performance attribution to a bonds portfolio  
 
 deviation $\sigma_{d}$ , that is, the standard deviation of the past negative returns. This makes sense. when the portfolio is involving asymmetric instruments like options (cf. Chapter 4, Section 4.3.7):  
@@ -8566,7 +8570,7 @@ instead of 0.59 for the usual Sharpe ratio.
 
 The Omega $\Omega(L)$ is the probability weighted ratio of returns above some threshold $L$ , to returns below this threshold. Probability weighted returns above and below. $L$ can be deducted either from a given cumulative distribution $F$ , or from the actual observation of past performances,. through their histogram, what presents the advantage of escaping the problem of computing higher moments, if any. In the case of a given distribution $F$ , and for the threshold $L$ $\Omega_{F}(L)$ is defined as  
 
-![](images/71cd6f753f76c16bee8938e6e85d1b5c3b4934f830a05ad7c747a2622753ecbf.jpg)  
+![](71cd6f753f76c16bee8938e6e85d1b5c3b4934f830a05ad7c747a2622753ecbf.jpg)  
 Figure 14.12 Cumulative distribution of the 251 returns  
 
 $$
@@ -8615,7 +8619,7 @@ We note from this example that
 
 Figure 14.13 Distribution of daily returns of SP500 log returns (March 2000 to February 2010)  
 
-![](images/24899a4d06f784cebcc2abf03b549d3c08d4ea6cf1a5dfee55b2a0c485744ffe.jpg)  
+![](24899a4d06f784cebcc2abf03b549d3c08d4ea6cf1a5dfee55b2a0c485744ffe.jpg)  
 Figure 14.14 Histogram for Figure 14.13  
 
 . this procedure makes no hypothesis about the shape of the probability distribution of the returns, in this case surely not a Gaussian one;' it rather reflects the actual probability. distribution of past returns;   
@@ -8677,7 +8681,7 @@ $$
 
 On the one hand, it allows escaping to hypotheses about these returns distributions. (Gaussian, constant parameters) and instead captures "real' statistical features. But on the other hand, these features are valid to the extent that the ones deducted from the series of past observations can apply to the future! Beyond this traditional stationarity problem, since the VaR is concerned with the (left-hand) extreme values of the distribution, it is even more crucial that the past observations would suit: for example the presence or the absence of previous crashes and rallies in the past data could affect the output of the method.  
 
-![](images/3a71407cd98b876d98e89b2323e1363f0bfc6ba0d7337bc9887d0b28c3f73a91.jpg)  
+![](3a71407cd98b876d98e89b2323e1363f0bfc6ba0d7337bc9887d0b28c3f73a91.jpg)  
 Figure 14.15Determination of the VaR at $5\%$  
 
 2. The Monte Carlo simulation method combines some of the principles of both preceding. methods, plus the use of a simulation technique. From the first (variance-covariance) method, it keeps the assessment of a distribution, whatever it is, although the hypothesis. of a normal distribution is prevailing in practice. But, instead of basing the calculation on a past history, it rather simulates a lot of risk factors values by Monte Carlo simulations (cf. Chapter 10, Section 10.4). Then, the VaR calculation is deducted like in the second method, but from the Monte Carlo simulations instead of from past observations..  
@@ -8755,7 +8759,7 @@ that is, between the VaR of $c=95\%$ and $c=99\%$
 
 This example also enlightens the difficulty inherent in VaR calculations, inevitably linked. to rare events and rare data, which are not necessarily the adequate image of a tail distribution.  
 
-![](images/25266e296103a83928fc7d27e5027d3ff786806f5df68c54cc6c664b032db2fd.jpg)  
+![](25266e296103a83928fc7d27e5027d3ff786806f5df68c54cc6c664b032db2fd.jpg)  
 Figure 14.16 Enlargement of the left tail of the histogram, Figure 14.14  
 
 # 1. Relative VaR  
@@ -8800,7 +8804,7 @@ provided $P_{t+\tau}<P_{t}$ here is due to a credit default, in lieu of a market
 
 For credit VaR, the usual horizon is. $\tau=1$ year. Indeed, modifying exposure to credit risk needs a priori more time than for market risk.  
 
-![](images/5d49e2e4affdfd47bb4ca268cc6975b66b6c052a3d193d840a97b083e965a883.jpg)  
+![](5d49e2e4affdfd47bb4ca268cc6975b66b6c052a3d193d840a97b083e965a883.jpg)  
 Figure 14.17 Credit VaR determination  
 
 To value a credit VaR, one can use the same methods as for VaR. However, the Gaussian distribution cannot be used here because credit losses rather show typically a left-hand or negative skewness, as in Figure 14.17.  
@@ -8855,7 +8859,7 @@ money market rates: impact of a central bank decision;
 : stocks: certain corporate actions;   
 market crashes;  
 
-![](images/171150ce8d4f4684103b8b51d6f645e03af3142b92fd1bf78a9458f73d165ce5.jpg)  
+![](171150ce8d4f4684103b8b51d6f645e03af3142b92fd1bf78a9458f73d165ce5.jpg)  
 Figure 15.1 Poisson distribution compared with normal distribution  
 
 and more generally, significant, sudden market moves following the publication of unexpected market news, such as key economic statistical data. By nature, a process involving some. Gaussian stochastic component, such as the usual geometric, general Wiener process, cannot involve prices jumps: starting from the discrete time form of this process (from Eq. 8.11b)  
@@ -8904,10 +8908,10 @@ and the Monte Carlo simulation is performed on successive 9000 intervals ts of a
 
 Note that the Poisson component of the jump-diffusion process refers to the probabilistic occurrence of an event, here a jump per se, but cannot refer to varieties of jumps, in terms of various size and sign. Moreover, since the process is based on successive prices at time intervals of dt, the model cannot incorporate jumps that are usually observed between the close price of a trading session and the open price of the next trading session.  
 
-![](images/38ba280b89aab3ae741e53d2279ea907f77eec6553f8f364d14e7d2f8f8e8ce1.jpg)  
+![](38ba280b89aab3ae741e53d2279ea907f77eec6553f8f364d14e7d2f8f8e8ce1.jpg)  
 Figure 15.2 Random generated Poisson process with our equal jump sizes  
 
-![](images/f2a6e7a15544386ba00f7054f77d8999341baff46be24f343d65bc917878611d.jpg)  
+![](f2a6e7a15544386ba00f7054f77d8999341baff46be24f343d65bc917878611d.jpg)  
 Figure 15.3 Wiener process versus Wiener $^+$ Poisson process  
 
 # 15.1.2 Gamma processes  
@@ -9007,7 +9011,7 @@ In Figure 15.4, the corresponding prices trajectory is shown in bold, and we hav
 
 Note that if $H=0$ (not shown on the graph), $\Delta Z=\varepsilon\Delta t^{0}=\varepsilon$ , and the simulated stock price converges to 0 (i.e., the average of the $\varepsilon$ outcomes) after about 1/3rd of the first simulated day, that is, a strong reversion from the initial stock price. At the other extreme, if $H=1$ $\Delta Z=$ $\varepsilon\Delta t$ , leading to too small $\Delta S\mathbf{s}$ , so that simulated prices stay at about 64.50 (not shown on the graph for this reason). The graph is thus limited to the cases of $H=0.2$ , 0.4, 0.5 (the usual Wiener), 06 and 0.8.  
 
-![](images/1e4407eea9403aa28b673745d2917d0e654bf0a7001540283099d1c31d26c1d0.jpg)  
+![](1e4407eea9403aa28b673745d2917d0e654bf0a7001540283099d1c31d26c1d0.jpg)  
 Figure 15.4Impact of various Hurst coefficients on a Wiener process  
 
 For $H\mathrm{s}$ below 0.5, the mean reversion is accompanied with the highest intermediate oscillations, so that for. $H=0.2$ , the corresponding prices are on the right scale of the. graph.  
@@ -9074,7 +9078,7 @@ $$
 
 With the kind of display used in the NN world, the multi-linear regression can be described as in Figure 15.5, where the transfer function $\Psi$ here is the linear equation 15.2. NNs involve non-linear regressions, by using a non-linear transfer function (often a sigmoid function). This scheme looks like a neuron, hence the name of "neural' network. The simplest NN, presented here, is made of a single "layer", to pass from the inputs to. $y$ . In practice, NNs include one. or several intermediate (called "hidden') layers, allowing for more than one transfer function. Also, the technique often involves filtering (Kalman filters, or others). To run the NN, we. determine the coefficients of the model (the regression parameters) from a subset of the data, in a "learning"' phase; then the model is applied to another subset of the data, to check its validity.  
 
-![](images/4dde4d13c161c93ce064f1067c484b180e83ef0c9e8e2f3779c2c47c8d2c2d75.jpg)  
+![](4dde4d13c161c93ce064f1067c484b180e83ef0c9e8e2f3779c2c47c8d2c2d75.jpg)  
 Figure 15.5 Diagram of a neural network performing a multi-linear regression  
 
 The major problem with the application of NNs to forecast financial time series is that, as has already appeared in previous sections, financial time series are all but stable in their behavior over time. Hence the revival of this technique, aiming at applying it short term as a tool for market microstructure analysis.7  
@@ -9125,7 +9129,7 @@ Zone "II': there is some higher, unexpected, loss level corresponding to the max
 
 frequency of loss  
 
-![](images/125182d2422c6ea42c6f936244acf46506ff09a714d6f16bf230bba073d7730e.jpg)  
+![](125182d2422c6ea42c6f936244acf46506ff09a714d6f16bf230bba073d7730e.jpg)  
 Figure 15.6 Breaking down a losses distribution in three subsets  
 
 This last consideration enlightens the crucial importance of the "fat tails' in the actual distribution of market returns or prices.  

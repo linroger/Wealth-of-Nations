@@ -145,7 +145,7 @@ To determine the swap interest rate, we also need to know the implied interest r
 
 There is a relationship between forward rates and spot rates that can be seen in the following diagram.  
 
-![](images/9c391e9b989f227fadce865730fc063a55116bdc59a1c939b9d4d0c137eb3009.jpg)  
+![](9c391e9b989f227fadce865730fc063a55116bdc59a1c939b9d4d0c137eb3009.jpg)  
 
 If these interest rates are to be equivalent, then we can develop the formula:  
 

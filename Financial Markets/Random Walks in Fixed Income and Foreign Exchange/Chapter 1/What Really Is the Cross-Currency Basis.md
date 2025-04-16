@@ -28,7 +28,7 @@ or sell a currency on a future date. The exchange rate is typically today's rate
 justed for the interest rate differential in the two currencies. If the interest rate in the local currency is higher than that of the UsD (or whatever the reference currency.
 is), the FX forward will include a devaluation expectation..
 
-![](images/b45f67bf50395a754e0752005806eeb6c71148300f252eab7242edae737b5a78.jpg)
+![](b45f67bf50395a754e0752005806eeb6c71148300f252eab7242edae737b5a78.jpg)
 Figure 1.1: 1y EURUSD xccy basis.. Source: Commerzbank Research, Bloomberg
 
 In a cross-currency swap, the parties exchange a stream of cashflows in one cur-. rency for a stream of cashflows in another. The typical cross-currency swap involves. the exchange of both recurring interest and principal (usually at the end of the swap), and thus can fully cover the currency risk of a loan transaction. Conceptu-. ally, cross-currency swaps can be viewed as a series of forward contracts packaged. together. For much more detail on more of these, see Appendix 1.B..
@@ -49,7 +49,7 @@ Method 1. Invest now for the period in question, at the domestic interest rate, 
 
 Method 2. Exchange now so that you hold the foreign currency, and invest at the foreign currency rate for the period.
 
-![](images/f38f00f97727e1ca1ee7f378cfe653034a9945b080419f551234687a9ed4098f.jpg)
+![](f38f00f97727e1ca1ee7f378cfe653034a9945b080419f551234687a9ed4098f.jpg)
 Figure 1.2: Forward FX rate calculation.
 
 Arbitrage pricing would tell us that Method 1 and Method 2 must be exactly the. same, apart from perhaps some small trading spread effects, or there will be a chance to 'round trip' the system and make some risk-free money (arbitrage). Conventionally, and in the pre-crisis world, this will only occur in a small and transient manner, as sharp-eyed traders look out for the chance and thus keep pressure on the forward. rate to comply with equation (1).
@@ -78,7 +78,7 @@ Now, all of these rates are readily observable in the market. To check it out pr
 
 The degree to which the arbitrage pricing is violated is almost exactly equal to the market quantity known as the cross-currency basis swap.
 
-![](images/c767ba8afc9f7592467f32bad36092f7cfb8055a18c3bf2578d233cc994d41c3.jpg)
+![](c767ba8afc9f7592467f32bad36092f7cfb8055a18c3bf2578d233cc994d41c3.jpg)
 Figure 1.3: Theoretical and actual EUR interest rate difference. Source: Commerzbank Research, Bloomberge
 
 It's clear to see that apart from a few not-so-good data points, they are essentially the same. So what is going on?
@@ -100,7 +100,7 @@ And this is almost exactly equal to the quoted basis in the market, $-1.019\%$
 
 Of course, that is not the only way to express the inequality. We could equally well plot the difference between the theoretical FX forward rate, derived from the spot rate and the interest rates available in the market, and the actual quoted rate, Ftheoretical $\begin{array}{r}{-\mathrm{F}_{\mathrm{market}}.}\end{array}$ Then we would create the following graph, as shown in Figure 1.4.
 
-![](images/29f332a5430e03e9dc96f00b0038f9a2f8ee09eabe83dd8f547d15f97e56bf40.jpg)
+![](29f332a5430e03e9dc96f00b0038f9a2f8ee09eabe83dd8f547d15f97e56bf40.jpg)
 Figure 1.4: Forward difference.. Source: Commerzbank Research, Bloomberg
 
 And if we wanted, we could rotate the whole situation once more and arrive at a spot FX rate difference. Though this is probably not the best way to view the issue, a shift to the spot rate would be just as valid to explain the market mismatch.
@@ -119,7 +119,7 @@ The quantity often somewhat confusingly referred to as the basis' is an adjustme
 
 Before we go on to discuss the various drivers of the cross-currency basis, it is worth introducing one more effect that is often neglected. When we discuss the motivations of issuers and investors, the cost of issuance is strongly influenced by one
 
-![](images/0ffca411d5c491dbe219edee6d5e8260c981ff7431de61de0a9a2cf6061d937b.jpg)
+![](0ffca411d5c491dbe219edee6d5e8260c981ff7431de61de0a9a2cf6061d937b.jpg)
 Figure 1.5: Cross-currency basis swap. Source: Commerzbank Research
 
 additional item: the conversion factor. The conversion factor is the number of basis points per annum in one currency that equates to 1 basis point per annum in another.
@@ -166,7 +166,7 @@ USD (EUR) payer swap: the owner of a cross-currency basis swap, which changes th
 Credit spread: the difference between rates which a company pays on its own curve (in USD, respectively EUR) and the IRS curve for the same currency. When. we hear that 'credit spreads are tight' it means that demand for corporate debt in that currency is high, so the cost of debt is relatively low..
 Negative basis: the difference between the actual interest rate for a currency and the theoretical interest rate calculated using the FX forward rate, FX spot rate and (usually) the UsD interest rate. When the actual rate is less than the theoretical rate, the basis is negative.
 
-![](images/6a9cd321bc22b8b8d4c975c7e0b627bfa33fca72dac1f006e396ecbf9cb784e5.jpg)
+![](6a9cd321bc22b8b8d4c975c7e0b627bfa33fca72dac1f006e396ecbf9cb784e5.jpg)
 Figure 1.6: Potential sources of the xccy basis. Source: Commerzbank
 
 Let's think of a situation in which an issuer finds themselves when they need to. issue debt. They want to do it in the most economical way. For a UsD issuer, the 'ground zero' or best possible level could be considered to be the IRS curve in USD (although some highly rated entities like GE can even trade inside the swap rate at the short end). The cost above that level is the credit spread due to their own issuer quality, or $\mathrm{USD}_{\mathrm{spread}}$ . Similarly, the cost of issuance to a Euro-area issuer is EURspread.
@@ -215,7 +215,7 @@ The desirability of a currency is closely connected with yield, and one good in-
 
 5y EURUsD basis swap (bp, rhs) with G10 FX carry (index, Ihs)
 
-![](images/226ab43975035e37904561783f0ac1f176bfd136bf2e1dfa4f27d30008deff79.jpg)
+![](226ab43975035e37904561783f0ac1f176bfd136bf2e1dfa4f27d30008deff79.jpg)
 Figure 1.7: Cross-currency basis swap with FX carry.. Source: Bloomberg, Commerzbank Research
 
 # What Keeps the Basis Swap from Being Arbitraged Away?
@@ -258,12 +258,12 @@ We see that the time series contain different correlation 'zones'. The start of 
 
 Pickup for a EUR based investor, using 1y foreign govt bonds, in %
 
-![](images/6adcdd71717f87f5519b6057a311b3d0ea443734eed0c91243a532404ef0b284.jpg)
+![](6adcdd71717f87f5519b6057a311b3d0ea443734eed0c91243a532404ef0b284.jpg)
 Figure 1.8: Yield pickup, with potential arbitrage opportunity levels. Source: Commerzbank, Bloomberge
 
 Swap-bond differences for 1y EUR and UsD govies. The addition of the basis makes a significant difference.
 
-![](images/2b5c3dddc10848d3167099ec67acad0ac7246d0d4d5b3882fff1576a72f6f0c8.jpg)
+![](2b5c3dddc10848d3167099ec67acad0ac7246d0d4d5b3882fff1576a72f6f0c8.jpg)
 Figure 1.9: EURUSD yield pickup components $(\%)$ Source: Bloomberg, Commerzbank Research
 
 Is this pickup really available in the market? Not entirely - this assumes no repo. costs and ignores credit issues and the cost of capital. But nevertheless, it is rarely lower than 30bp for any currency and is often greater than 50bp. For different institu-. tions, there could be opportunities at some level..
@@ -286,7 +286,7 @@ As can be clearly seen, the actual carry trade has almost identical results (wit
 
 Average carry trade returns from all G 10 crosses
 
-![](images/0e60874ab6ca4f3a6e34c07b843120256a497e26d7ec824076d6a19054312637.jpg)
+![](0e60874ab6ca4f3a6e34c07b843120256a497e26d7ec824076d6a19054312637.jpg)
 Figure 1.10: Carry trade returns.
 
 FX rates do not move toward the forward rates - they are more likely to be the same as the spot rate at the start of the deal..
@@ -311,7 +311,7 @@ Each serves different sections of the market and is useful in different ways. In
 
 Figure 1.11 is a schematic of the cashflows involved in an FX swap between parties A and B. We assume we have a principal amount. $P$ in EUR, and that the current. spot FX rate is S USD per EUR, with a forward rate. $F$
 
-![](images/d4f4790d30d6734472da8cba2861d95dcf9f87bdae45b7506a30af13ddda0dec.jpg)
+![](d4f4790d30d6734472da8cba2861d95dcf9f87bdae45b7506a30af13ddda0dec.jpg)
 Figure 1.11: FX swap. Definition of FX swap: Party A borrows Currency 1 to lend Currency 2
 
 Usual Maturity: up to 1y
@@ -328,12 +328,12 @@ Note that the basis is embedded into the forward rate, so though it is not expli
 
 In Figure 1.12, we show the cashflows involved in an FX Outright (often called Forward Outright) between parties A and B. We again assume we have a principal amount $P$ in EUR, and that the current spot FX rate is S USD per EUR, with a forward. rate $F.$ Though simple in concept, in execution this tends to be done as a swap plus a spot transaction.
 
-![](images/28d0481bbe27d6912c8fcecceaa33d278bb91a368049383bce8db965f41fe8f6.jpg)
+![](28d0481bbe27d6912c8fcecceaa33d278bb91a368049383bce8db965f41fe8f6.jpg)
 Figure 1.12: FX outright. Definition of FX swap: Party A and Party B exchange Currency 1 for Currency 2 at a future date.
 
 In fact, it is usually done as a spot trade plus a swap, as in Figure 1.13.
 
-![](images/52c08bf6813c02b0a9c487db0d03b6cbbd194dfc7cf33800073e789f5d9ad69a.jpg)
+![](52c08bf6813c02b0a9c487db0d03b6cbbd194dfc7cf33800073e789f5d9ad69a.jpg)
 Figure 1.13: Spot trade plus swap.
 
 Usual Maturity: below 1y or 2y
@@ -346,7 +346,7 @@ As before, the basis is embedded in the forward rate.
 
 In Figure 1.14, we now include the interim interest payments included in a crosscurrency basis swap.
 
-![](images/425d866b31e6997d813ba42134135de18b9ffb0d9b3b11bf75b389f8ad6a9142.jpg)
+![](425d866b31e6997d813ba42134135de18b9ffb0d9b3b11bf75b389f8ad6a9142.jpg)
 Figure 1.14: Cross-currency basis swap.
 
 Definition of FX cross-currency basis swap: where two parties borrow from, and simultaneously lend to, each other an equivalent amount of money denominated in two different currencies for a predefined period of time, including floating interim interest payments, usually 3m.

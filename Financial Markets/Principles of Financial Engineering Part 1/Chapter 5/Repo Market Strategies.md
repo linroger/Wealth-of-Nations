@@ -38,7 +38,7 @@ $$
 R_{t_{0}}=2.05\%
 $$  
 
-![](images/5d1da774dfd380216c5c2551c244165fcba0c323851c6c2b05e482bed6c3bc37.jpg)  
+![](5d1da774dfd380216c5c2551c244165fcba0c323851c6c2b05e482bed6c3bc37.jpg)  
 
 # FIGURE 5.6  
 
@@ -54,7 +54,7 @@ $$
 
 That is to say, if the spread between future repo rates and SIBOR tightens below $13.5\mathrm{bp}$ , the position will be losing money. This is one of the risks implied by the overall position. The lower part  
 
-![](images/b04ee9a1caad4e2192e1682090e7e095e5b69cbf2833af6e86a4ffe9bfe31be1.jpg)  
+![](b04ee9a1caad4e2192e1682090e7e095e5b69cbf2833af6e86a4ffe9bfe31be1.jpg)  
 
 # FIGURE 5.7  
 

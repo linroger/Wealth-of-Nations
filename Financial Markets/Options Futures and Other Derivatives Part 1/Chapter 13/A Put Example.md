@@ -25,7 +25,7 @@ $$
 
 The value of the put is $\$4.1923$ . This result can also be obtained using equation (13.5)  
 
-![](images/eb898378e338b287929079d4aeb12d0e6deeb10a788112230ee53f612b97064a.jpg)  
+![](eb898378e338b287929079d4aeb12d0e6deeb10a788112230ee53f612b97064a.jpg)  
 Figure 13.7 Using a two-step tree to value a European put option. At each node, the upper number is the stock price and the lower number is the option price..  
 
 and working back through the tree one step at a time. Figure 13.7 shows the intermediate option prices that are calculated.  

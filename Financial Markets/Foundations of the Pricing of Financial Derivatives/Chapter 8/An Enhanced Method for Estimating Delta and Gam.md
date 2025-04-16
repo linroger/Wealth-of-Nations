@@ -19,7 +19,7 @@ Now let us position ourselves right in the center where the current asset price 
 
 Positioned at the current asset price of $S_{u d}$ , we can now measure the effect of a different asset price on the option price without moving forward in time. Notice that at this time point, there are two other asset prices, $S u^{2}$ and $S d^{2}$ . We can observe the effect of the asset
 
-![](images/d1315db585645b0925f6becad3e06316bae1cd3bd2d44020b091c0ef0c8ae0af.jpg)
+![](d1315db585645b0925f6becad3e06316bae1cd3bd2d44020b091c0ef0c8ae0af.jpg)
 FGURE 8.2Two-Period Expanded Binomial Model
 
 price being $S u^{2}$ or $S d^{2}$ at the same time point and measure delta as the average option price change divided by the average asset price change.

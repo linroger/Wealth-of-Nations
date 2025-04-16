@@ -54,7 +54,7 @@ Collateral significantly reduces credit risk in the bilaterally cleared OTC mark
 
 Figure 2.2 illustrates the way bilateral and central clearing work. (It makes the simplifying assumption that there are only eight market participants and one CCP). Under bilateral clearing there are many different agreements between market participants, as indicated in Figure 2.2a. If all OTC contracts were cleared through a single CCP, we would move to the situation shown in Figure 2.2b. In practice, because not all OTC transactions are routed through CCPs and there is more than one CCP, the market. has elements of both Figure $2.2\mathrm{a}$ and Figure 2.2b.5  
 
-![](images/56430ab0f333bda29180f9b5345738fdc6905c486ecade1aea201282fa307afd.jpg)  
+![](56430ab0f333bda29180f9b5345738fdc6905c486ecade1aea201282fa307afd.jpg)  
 Figure 2.2 (a) The traditional way in which OTC markets have operated: a series of. bilateral agreements between market participants; (b) how OTC markets would operate with a single central counterparty (CCP) acting as a clearing house..  
 
 # Futures Trades vs. OTC Trades  

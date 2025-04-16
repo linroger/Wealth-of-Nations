@@ -66,10 +66,10 @@ The forward SOFR curve in Figure 2.3 increases to about the 12-year term and the
 
 The forward SARON curve illustrates this relationship more dramatically. Until the 22-year term, forward rates exceed spot rates and, as expected, spot rates are increasing. From then on, however, forward rates are below spot rates and, although it is somewhat hard to see from the. figure, spot rates begin to decline with term.  
 
-![](images/17cd6a34d21e1ce689ec41fa0d7968ea826f0dbcd7309af3310670ddfb86a325.jpg)  
+![](17cd6a34d21e1ce689ec41fa0d7968ea826f0dbcd7309af3310670ddfb86a325.jpg)  
 FIGURE 2.3 SOFR Rate Curves, as of May 14, 2021.  
 
-![](images/5016d8a32053b43fc6537fcccc603ce5a868b91d36a77e2134c232f7b3ccbdd8.jpg)  
+![](5016d8a32053b43fc6537fcccc603ce5a868b91d36a77e2134c232f7b3ccbdd8.jpg)  
 FIGURE 2.4  SARON Rate Curves, as of May 14, 2021.  
 
 The third and final relationship between rates to be highlighted in this section is the following: when spot rates are increasing with term, swap or par rates are slightly below spot rates. This effect can be seen in both Figures 2.3 and 2.4, though the effect is more noticeable for the SOFR than for the SARON curves. To understand the intuition here, recall that the. $t$ -year spot rate is the return on an investment from today to year $t$ , while the swap. or par rate is the rate on an investment that pays every period from today to year $t$ . The fair market swap rate, therefore, must reflect all of the spot rates from today to year $t$ , though the. $t$ -year spot rate must be weighted most heavily as it is used to discount the by-far-and-away largest cash flow, that. is, the fictional notional amount. When the term structure of spot rates is. upward-sloping, then, all of the shorter-term spot rates are lower than the. $t$ -year spot rate, and the $t$ -year par rate -- which reflects all those spot rates -- must be less than the $t$ -year spot rate. But with the $t$ -year spot rate weighted particularly heavily, the par rate is not very much below that spot rate.  

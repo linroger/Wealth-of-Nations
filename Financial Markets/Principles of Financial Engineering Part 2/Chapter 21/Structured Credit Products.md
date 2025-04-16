@@ -104,7 +104,7 @@ There is another important difference compared to convertible bonds and reverse 
 
 Figure 21.12 shows the difference in price behavior between a CoCo and a convertible bond. For simplicity here we assume that the underlying debt is riskless. This is reflected in the horizontal line that represents the flat bond floor. This is in contrast to Chapter 19 where convertible bond value for low stock price levels converged to zero. As the share price falls, the convertible bond value approaches the bond floor from above. The CoCo behaves differently. We assume that the  
 
-![](images/ad07a3fd5c80198792d34bb9490be9214216d960189c6445ece5b69df559950a.jpg)  
+![](ad07a3fd5c80198792d34bb9490be9214216d960189c6445ece5b69df559950a.jpg)  
 
 # FIGURE 21.12  
 
@@ -127,7 +127,7 @@ function of the value of the assets and the trigger price. From an equity deriva
 a digital down-and-in option, which reflects the fact that the coupons on the bond will only be.   
 received as long as the trigger event does not occur. This leads to the following contractual equation:.  
 
-![](images/20491ca92d1e5cad8328bcd55f4520273a479ba365c9d8a0e7aa67f3f4b71aa9.jpg)  
+![](20491ca92d1e5cad8328bcd55f4520273a479ba365c9d8a0e7aa67f3f4b71aa9.jpg)  
 
 The end of chapter exercises provide CoCo valuation examples using the credit reduced form approach and the equity derivatives approach. Further details are available in the references listed. at the end of the chapter.  
 

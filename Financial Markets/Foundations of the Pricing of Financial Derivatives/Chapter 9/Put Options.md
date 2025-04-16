@@ -25,5 +25,5 @@ The convergence properties are the same as the call results as illustrated in Fi
 This identical pattern is driven by put-call parity. Put-call parity can be expressed. $\mathsf{a s c}_{t}=$ $\scriptstyle{p_{t}=S_{t}-X^{-r_{c}\tau}}$ Thus, the binomial convergence of the put is simply shifted by the difference between the asset price and the present value of the strike price.
 We now explore the important role of dividends, which can occur if the underlying asset is a stock or index.
 
-![](images/535e39cbf9ef7a141d3e97ac0926979c8fcd5ca83209fc7a49e6358b4e6ed3fa.jpg)
+![](535e39cbf9ef7a141d3e97ac0926979c8fcd5ca83209fc7a49e6358b4e6ed3fa.jpg)
 FIGURe 9.2  Convergence of the Binomial Model for Puts to the Black-Scholes-Merton

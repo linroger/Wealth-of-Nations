@@ -18,10 +18,10 @@ So let us again go back to the simple world with two outcomes. We can generalize
 So what we have is illustrated in Figure 16.3.
 What we want is illustrated in Figure 16.4.
 
-![](images/8aee52d8f8c9913b3bd8029000c4089edcbd3e03e394b7f85dc106785fd77838.jpg)
+![](8aee52d8f8c9913b3bd8029000c4089edcbd3e03e394b7f85dc106785fd77838.jpg)
 FIGURE 16.3 One-Period Wiener Process with Actual Probability
 
-![](images/fd8598320774447bc150c9a97699cbf4fbc112b75b28f8e0896a979196e6ae31.jpg)
+![](fd8598320774447bc150c9a97699cbf4fbc112b75b28f8e0896a979196e6ae31.jpg)
 FIGURE 16.4 One-Period Wiener Process with Artificial Probability $q$
 
 Let us define the ratios of probabilities, $q/\phi$ and $(1-q)/(1-\phi)$ , as $\gamma^{s}$ where $s$ indicates the $^+$ or -- state. That is,
@@ -54,7 +54,7 @@ Let us extend this result one more period. Figure 16.5 illustrates the process w
 
 Now we must index our ratio of probabilities by time, that is, $\gamma_{t}^{s}$ . First note that the process Starts at $\gamma_{0}=1.0$ 11 The stochastic process of $\gamma_{t}^{s}$ can be derived as follows. First consider.
 
-![](images/dc3078e47410e0644b2d85e1beaac384fe0eea02c09500eb772fc34550fc5b15.jpg)
+![](dc3078e47410e0644b2d85e1beaac384fe0eea02c09500eb772fc34550fc5b15.jpg)
 FIGURE 16.5Two-Period Wiener Process with Probability $q$
 
 $\gamma_{t}^{+}$ , which as we know is $q/\phi$ . The value $q/\phi$ can be expressed as a weighted average of the next two values of the process as shown here:
@@ -77,7 +77,7 @@ $$
 \begin{array}{r}{\gamma_{t}=E^{P}\big(\gamma_{t+1}^{s}\big).}\end{array}
 $$
 
-![](images/d242627da150f7df73c24610199f073f576ae00b801ff199e61e4c8457bc4fc9.jpg)
+![](d242627da150f7df73c24610199f073f576ae00b801ff199e61e4c8457bc4fc9.jpg)
 FIGURE 16.6 Stochastic Process of y
 
 This process $\gamma_{t+1}^{s}$ is the discrete time analog to the Radon-Nikodym derivative and represents a relationship between two equivalent probability measures. Equivalent probability measures are two probability measures that meet certain requirements, the main. one being that any event that is possible under one measure must be possible under the. other and vice versa. In other words, the impossible cannot be created from the possible and the impossible cannot be destroyed from the possible. In continuous time, this. concept is much more difficult, except that it is more easily seen for what it is: a derivative of one probability distribution with respect to another. In discrete time, it is merely a ratio of probabilities, but calculus derivatives are technically not defined in discrete time.. We covered the continuous case in Chapter 15..

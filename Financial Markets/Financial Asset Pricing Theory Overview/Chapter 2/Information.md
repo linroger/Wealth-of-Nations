@@ -64,10 +64,10 @@ $$
 \operatorname{E}_{t}{\left[\operatorname{E}_{t^{\prime}}[X]\right]}=\operatorname{E}_{t}[X].
 $$  
 
-![](images/0dca89f9efdcb18897a0b8361b731f6d97f8f9fd468df7e3865c68f11ddc95c6.jpg)  
+![](0dca89f9efdcb18897a0b8361b731f6d97f8f9fd468df7e3865c68f11ddc95c6.jpg)  
 Figure 2.1: An example of a two-period economy.  
 
-![](images/227e1cded9eecd2538f31d24690fa61bb466641d26841f976f43da2166c01e84.jpg)  
+![](227e1cded9eecd2538f31d24690fa61bb466641d26841f976f43da2166c01e84.jpg)  
 Figure 2.2: The multinomial tree version of the two-period economy in Figure 2.1.  
 
 Loosely speaking, the theorem says that what you expect today of some variable that will be realized in two days is equal to what you expect today that you will expect tomorrow about the same variable.  

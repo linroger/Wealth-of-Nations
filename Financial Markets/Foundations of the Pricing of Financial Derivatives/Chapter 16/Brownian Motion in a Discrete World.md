@@ -27,7 +27,7 @@ $$
 \mathrm{var}\left(\Delta{\cal W}_{0}\right)=\left(\frac{1}{2}\right)(+1-0)^{2}+\left(\frac{1}{2}\right)(-1-0)^{2}=1.
 $$
 
-![](images/04c5dc09cec1db7728af4b2815ac37b28866d75bc2974125a768a2cbd383b460.jpg)
+![](04c5dc09cec1db7728af4b2815ac37b28866d75bc2974125a768a2cbd383b460.jpg)
 
 FIGURE 16.1 One-Period Binomial Wiener Process
 
@@ -67,7 +67,7 @@ $$
 
 Now let us observe what we have in Figure 16.2.
 
-![](images/cedbb52839366b8d117b51e55ce29e14497eef40f7b3e24e2c46c92391d93175.jpg)
+![](cedbb52839366b8d117b51e55ce29e14497eef40f7b3e24e2c46c92391d93175.jpg)
 FIGURE 16.2 Two-Period Binomial Wiener Process
 
 Now let us find the expectation and variance of $\Delta\mathbb{W}_{0}$ and $\Delta\mathbb{W}_{1}$ . For the first increment,.

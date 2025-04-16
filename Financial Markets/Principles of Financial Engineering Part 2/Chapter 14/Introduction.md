@@ -22,7 +22,7 @@ This chapter will approach the issues from a practical point of view using swap 
 
 It is worth reviewing the basic principles of swap engineering laid out in Chapter 4. First of all, swaps are almost always designed such that their value at initiation is zero. This is a characteristic of modern swap-type "spread instruments," and there is no surprise here. Second, what makes the value of the swap equal to zero is a spread or an interest rate that is chosen with the purpose that the initial value of the swap vanishes. Third, swaps encompass more than one settlement date. This. means that whatever the value of the swap rate or swap spread, these will in the end be some sort. of "average of shorter term floating rates or spreads.' This not only imposes simple arbitrage conditions on relevant market rates but also provides an opportunity to trade the volatility associated with such averages through the use of options on swaps. Since swaps are very liquid, they form an. excellent underlying for swaptions. Swaptions, in turn, are related to interest rate volatilities for the underlying subperiods, which will relate to cap/floor volatilities. This structure is conducive to.  
 
-![](images/7d81e4d7f074049638074f247b4cf292440bc92dbfc7667726fb1adb5549616c.jpg)  
+![](7d81e4d7f074049638074f247b4cf292440bc92dbfc7667726fb1adb5549616c.jpg)  
 
 # FIGURE 14.1  
 

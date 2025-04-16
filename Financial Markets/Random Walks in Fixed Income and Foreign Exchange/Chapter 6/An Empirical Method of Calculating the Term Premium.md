@@ -69,7 +69,7 @@ Does this help us approximate a term premium? It may get us some of the way. the
 
 However, we have a slight problem, as mentioned above; the calculation will be different for every time forward. We don't have just one median curve, we have a. family going out through future time. What can we do with this family of curves? Initially, it is worth taking a look at them and seeing what they imply. It certainly gets us a little closer to the idea of a term premium from empirical data. Moreover, there is a potential further use from constructing this move matrix. Potentially a fitting method could be used to derive from them the most likely' starting curve, which could indeed have a claim on being a true term premium.
 
-![](images/0120654bc0077d39cbf0f0601e086c9f1d70a2f4025f6d671b90b1a99fc0d55a.jpg)
+![](0120654bc0077d39cbf0f0601e086c9f1d70a2f4025f6d671b90b1a99fc0d55a.jpg)
 The implied moves in yellow differ from the actual moves in grey
 Figure 6.1: Illustration of forward rate error model. Source: Commerzbank Research
 
@@ -93,12 +93,12 @@ The discerning reader may note that those series which may be directly compared 
 
 This data includes the Kim-Wright method
 
-![](images/f29ee6290132b9d17a406fb8309701fa69125484a27ef33a06488941bb0c5a32.jpg)
+![](f29ee6290132b9d17a406fb8309701fa69125484a27ef33a06488941bb0c5a32.jpg)
 Figure 6.2: 10y USD term premium using different methods, up to 2006. Source: Rudebusch et al. [1]
 
 The Adrian-Crump-Moench data is manually overlaid from [3] estimating term premium - many papers are published in several updated forms, and the calibration of the various models can differ among the versions, leading to small differences.
 
-![](images/e2b52e8488003ccd54fd505f366d9e251acc8eeef868d8fcac696aabc0bd6516.jpg)
+![](e2b52e8488003ccd54fd505f366d9e251acc8eeef868d8fcac696aabc0bd6516.jpg)
 Figure 6.3: 10y USD term premium using different methods, up to 2007. Source: Crump et al. [3]
 
 We have not shown any data from the Hordahl and Tristani method, mainly be-. cause their paper does not have any graphs of term premium data! However, the BIS use a variant of their model for their regular term premium updates, which we assess later. See the Appendix 6.A for a discussion of this data issue..
@@ -113,7 +113,7 @@ Median over all data of (predicted move - actual move). Predicted move $=$ forwa
 
 Difference as a function of tenor and time forward, USD swap curve
 
-![](images/815bf7bc85c0bbd04c03641d49eaa00e12af1cfaf4a216b12bd77a9809995009.jpg)
+![](815bf7bc85c0bbd04c03641d49eaa00e12af1cfaf4a216b12bd77a9809995009.jpg)
 Figure 6.4: Predicted - actual move. Source: Bloomberg, Commerzbank Research
 
 Each curve is in some sense a 'forecast' of a curve in the future, the time horizon being given by the Time fwd' on the axis. The general pattern is that the curves. begin fairly flat, and at the 2 year time forward, are at a level of. $1\%$ or similar. After this they become strongly downward sloping, with at the 10 year forward point, the
@@ -188,7 +188,7 @@ A popular tenor for term premium in the literature is 10y. Using this method, fo
 
 Our own empirical method is James-Leister-Rieger
 
-![](images/f8edbb702f8f13d0587ab08eb3ee24bb71a71ff7fd8440eee40e29ce3e039cdc.jpg)
+![](f8edbb702f8f13d0587ab08eb3ee24bb71a71ff7fd8440eee40e29ce3e039cdc.jpg)
 Figure 6.5: 10y USD term premium using different methods. $(\%)$ Source: Commerzbank Research, [3, 5, 6] and [8], US treasury data
 
 We can see that the overall form and magnitude of the 10 year term premium are. very similar for all the models graphed. Our James-Leister-Rieger method gives overall slightly lower values with a greater tendency to dip into negative territory but the patterns of return are almost identical. This is encouraging, as the AdrianCrump-Moench for example uses a sophisticated state variable method to derive the term premium from forward rate errors. Our method is more empirical but derives from similar underlying assumptions. The USD swap spread dynamics vs. the treasury curve could explain at least part of this effect; the 10y spread fell 80. bp from Q1 2000 to Q1 2003, but this fall was not seen in the treasury market. Post 2008 swap spreads to treasuries are much more stable, and our method agrees more closely with the others in this period as well.
@@ -211,7 +211,7 @@ Additionally, $\mathrm{y}_{1}=$ term premium for zero time $=0$ ${\tt y}_{2}$ an
 
 Our own empirical method is James-Leister-Rieger (JLR)
 
-![](images/b1bf55059ebe684eced34f426f5926b3d213bf4feaeed457d2500c37c811ab65.jpg)
+![](b1bf55059ebe684eced34f426f5926b3d213bf4feaeed457d2500c37c811ab65.jpg)
 Figure 6.6: 2y USD term premium using different methods. $(\%)$ Source: Commerzbank Research [3] and [8], US treasury data
 
 Once more we see that the results are close both in magnitude and form, though we have a longer data series. Unfortunately there is no 2y data available for the BIS Hordahl and Tristani model, but the James-Leister-Rieger 2y results (Figure 6.6) are pleasingly close to both the Adrian, Crump and Moench model and the Kim and Wright model, showing strong similarities to each at different times.
@@ -222,12 +222,12 @@ The BSI produce a quarterly report [6, 7], which frequently contains some term p
 
 Taken from BIS Quarterly Review (full data set)
 
-![](images/f23048ad818b2792cfc22eb8c4dcf45af9b6a7bdb89123ea4f2306e566e7a125.jpg)
+![](f23048ad818b2792cfc22eb8c4dcf45af9b6a7bdb89123ea4f2306e566e7a125.jpg)
 Figure 6.7: 10y EUR Comparison with BIS term premium data $(\%)$ Source: Commerzbank Research, [7]
 
 There is certainly a similarity in level and form once more. The BIS variant of the Hordahl and Tristani model has some divergences, including a greater recent decline. It is hard to understand how the early 2015 BIS result of $-2\%$ for a term premium can be justified. With a TP of. $-2\%$ and observed forward rates of. ${\sim}1.5\%$ the corresponding 'short rate expectation' would be $3.5\%$ , which seems quite high. See. Appendix 6.A for a discussion on the derivation of this model.
 
-![](images/aa9bfce4f1c39b9b74bba8bd934ff20a8945a0dd21d5b9e685c9cda71e79dd5f.jpg)
+![](aa9bfce4f1c39b9b74bba8bd934ff20a8945a0dd21d5b9e685c9cda71e79dd5f.jpg)
 Taken from BIS Quarterly Review (zoom to recent history)
 Figure 6.8: 1Oy EUR Comparison with BIS term premium data $(\%)$ (focus on recent history).. Source: Commerzbank Research, [7]
 
@@ -239,7 +239,7 @@ This is a problem! Most of the term premium methods we have examined rely on evo
 
 However, all is not lost. At all points in time, we have the implied move derived. from the forward curve, and this gives us the information about market expectations. As we move forward in time, we may collect data about the actual move - for example, after 6 months, we can see whether markets have moved towards or away. from the forecast, and after 11 months we will be nearly there. Thus, we may con-. struct a term premium 'estimate' for the final year which initially relies more on the forecast than the realised result, but which contains market expectations about term premium. Below left we show some 2015 results; we can see that the yield spike in May/June 2015 looks precisely as we would expect. This method has a downside, however. The last year of data will slowly evolve so the curve above will not be fixed' until a year has passed. If a sudden sharp move occurred then the curve might change noticeably month-on-month. As an example, if we had looked at this data in December of 2015, we would see the slightly lower black line. It is encouraging that the overall form of the data does not change; the sharp. rise in May/June is faithfully portrayed (Figure 6.9)..
 
-![](images/01973f044d669b8762ab0619360b283a897a5ff23dbe2ebf59e00e9af2c19dae.jpg)
+![](01973f044d669b8762ab0619360b283a897a5ff23dbe2ebf59e00e9af2c19dae.jpg)
 Recent results as of different dates, but plotted to Dec 15
 Figure 6.9: EUR 10y term premium as of different points. Source: Bloomberg, Commerzbank Research
 
@@ -277,12 +277,12 @@ A final comment is that the BIS data appears to evolve slightly through time. Th
 
 This data is apparently created using the Hordahl and Tristani data
 
-![](images/b728fd8d725670f8bf550a8d80ad93e7438748fdfec17bef7dcff5ea781d356f.jpg)
+![](b728fd8d725670f8bf550a8d80ad93e7438748fdfec17bef7dcff5ea781d356f.jpg)
 Figure 6.10: 10y USD treasury term premium from BIS data. Source: Bloomberg, BIS [6]
 
 Hordahl and Tristani data from paper
 
-![](images/1ef4787b1490db86b3b3d7a47e92f22548d3d47da6363781598d7ae3b3362718.jpg)
+![](1ef4787b1490db86b3b3d7a47e92f22548d3d47da6363781598d7ae3b3362718.jpg)
 Figure 6.11: 10y USD treasury inflation based term premium. Source: Bloomberg, Hordahl et al. [5]
 
 # References
