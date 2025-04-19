@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
+                "file": "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 1 - Derivative Securities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 24"
+              "title": "Chapter 1 - Derivative Securities"
             }
           }
         ],
@@ -331,7 +331,7 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "646b7cfa4cb674fd",
+  "active": "9e9a1f77ede3d170",
   "lastOpenFiles": [
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
     "Financial Engineering/Financial Engineering.md",
