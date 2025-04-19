@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "cd211e27feebb44a",
+            "id": "455c41efec970225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What’s Coming The Changing Domestic and World Orders Under the Trump Administration"
+              "title": "Chapter 2o Essentials of Structured Product En"
             }
           },
           {
-            "id": "34c1ecfe6365b698",
+            "id": "9e9a1f77ede3d170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Exploiting an Apparent Arbitrage Opportunity"
+              "title": "Chapter 24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -331,10 +331,14 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "1e5b295b03ccffab",
+  "active": "9e9a1f77ede3d170",
   "lastOpenFiles": [
-    "Python Notes.md",
+    "Financial Engineering/Financial Engineering.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 696.md",
     "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
+    "Python Notes.md",
     "Financial Engineering/Untitled.md",
     "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/A Guide to the Front End and Basis Swap Markets.md",
@@ -356,10 +360,6 @@
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
     "Financial Instruments/Financial Derivatives and Quantitative Methods/HSBC-Auto callable Barrier Notes with Step-up Premium.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Forward and Futures Contracts.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
-    "Financial Engineering/Introduction to Financial Mathematics.md",
-    "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
