@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#convexity_adjustment'
-  - '#eurodollar_contract'
-  - '#fixed_leg_valuation'
-  - '#floating_leg_valuation'
-  - '#forward_libor_volatilities'
-  - '#forward_rates'
-  - '#futures_rates'
-  - '#interest_rate_swap_valuation'
-  - '#libor_in_arrears_swap'
-  - '#vanilla_swap'
+  - convexity
+  - forward_libor
+  - interest_rate_swap
+  - libor_in_arrears_swap
+  - valuation
+aliases:
+  - In-Arrears Swap
+  - LIBOR Arrears Swap
+key_concepts:
+  - Convexity adjustment
+  - Floating leg valuation
+  - Forward rates
+  - LIBOR rates
+  - Vanilla swap
 ---
+
 # 14.7 IN-ARREARS SWAPS AND CONVEXITY  
 
 Although an overwhelming proportion of swap transactions involve the vanilla swap, in some cases parties transact the so-called LIBOR-in-arrears swap. In this section, we study this instrument because it is a good example of how Forward LIBOR volatilities enter pricing directly through convexity adjustments..  

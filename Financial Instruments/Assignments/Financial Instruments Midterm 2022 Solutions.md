@@ -1,20 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS
 title: Financial Instruments Midterm 2022 Solutions
 tags:
-  - '#binomial_trees'
-  - '#european_put_option'
-  - '#exchange_rates'
-  - '#financial_instruments'
-  - '#forward_contract'
-  - '#hedging'
-  - '#midterm_solutions'
-  - '#stock_xyz'
-  - '#swap_rate'
+  - binomial_tree
+  - exchange_rate
+  - financial_instruments
+  - forward_contract
+  - swap_rate
+aliases:
+  - Financial Instruments Midterm Solutions
+  - Midterm Solutions
+key_concepts:
+  - Binomial tree dynamics
+  - Exchange rate depreciation
+  - Forward contract value
+  - Stock price and payoff
+  - Swap rate calculation
 ---
+
 ---
 
 title: FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS

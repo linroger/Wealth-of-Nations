@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#bond_prices'
-  - '#cir_model'
-  - '#duration'
-  - '#mean_reversion'
-  - '#one_factor_models'
-  - '#rendleman_and_bartter_model'
-  - '#short_rate'
-  - '#term_structure'
-  - '#vasicek_model'
+  - bond_prices
+  - mean_reversion
+  - one_factor_models
+  - option_prices
+  - short_rate
+aliases:
+  - CIR Model
+  - One Factor Models
+  - Rendleman and Bartter Model
+  - Vasicek Model
+key_concepts:
+  - CIR model
+  - Equilibrium model assumptions
+  - Geometric Brownian motion
+  - Mean reversion concept
+  - Process for short rate
+  - Vasicek's model formula
 ---
+
 # 31.2 ONE-FACTOR MODELS  
 
 Equilibrium models usually start with assumptions about economic variables and derive a process for the short rate, $r.$ They then explore what the process for $r$ implies about bond prices and option prices.  

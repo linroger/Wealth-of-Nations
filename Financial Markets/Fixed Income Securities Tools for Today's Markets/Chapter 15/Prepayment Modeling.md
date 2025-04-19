@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#burnout'
-  - '#cpr'
-  - '#default_modeling'
-  - '#lock_in_effect'
-  - '#mortgage_prepayments'
-  - '#mortgage_rates'
-  - '#prepayment_modeling'
-  - '#refinancing_models'
-  - '#s_curve'
-  - '#turnover'
+  - cpr
+  - mortgage_valuation
+  - prepayment_modeling
+  - refinancing
+  - s_curve
+aliases:
+  - Mortgage Prepayments
+  - Prepayment Models
+key_concepts:
+  - CPR and mortgage rates
+  - Mortgage pool characteristics
+  - Prepayment model drivers
+  - Refinancing S-curve
+  - Refinancing incentive function
 ---
+
 # 15.6 PREPAYMENT MODELING  
 
 The complex behavior of prepayments, combined with their importance in.   

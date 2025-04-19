@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#european_options'
-  - '#notional_principal'
-  - '#option_valuation'
-  - '#realized_variance'
-  - '#realized_volatility'
-  - '#swap_valuation'
-  - '#variance_swap'
-  - '#vix_index'
-  - '#volatility_swap'
+  - derivatives
+  - option_pricing
+  - risk_management
+  - variance_swaps
+  - volatility
+aliases:
+  - Realized Variance
+  - Realized Volatility
+  - Variance Swap
+  - Volatility Swap
+key_concepts:
+  - European option pricing
+  - Realized volatility calculation
+  - Variance swap definition
+  - Variance swap valuation
+  - Volatility swap definition
 ---
+
 # 26.16 VOLATILITY AND VARIANCE SWAPS  
 
 A volatility swap is an agreement to exchange the realized volatility of an asset between time 0 and time $T$ for a prespecifed fixed volatility. The realized volatility is usually calculated as described in Section 15.4 but with the assumption that the mean daily return is zero. Suppose that there are $n$ daily observations on the asset price during the period between time 0 and time $T$ The realized volatility is  

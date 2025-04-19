@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#derivatives_users'
-  - '#diversification'
-  - '#financial_institutions'
-  - '#market_speculation'
-  - '#nonfinancial_organizations'
-  - '#risk_limits'
-  - '#risk_management'
-  - '#scenario_analysis'
-  - '#stress_testing'
-  - '#trading_losses'
+  - business_snapshot
+  - derivatives
+  - financial_institutions
+  - risk_management
+  - trading_losses
+aliases:
+  - Derivatives Users
+  - Financial Risks
+  - Lessons Learned
+key_concepts:
+  - Big losses by institutions
+  - Credit crunch and losses
+  - Futures and options trading
+  - Scenario analyses and stress tests
+  - Unauthorized trading of futures
 ---
+
 # 37.1 LESSONS FOR ALL USERS OF DERIVATIVES  
 
 First, we consider the lessons appropriate to all users of derivatives, whether they are financial or nonfinancial companies.  

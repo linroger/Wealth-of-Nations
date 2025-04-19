@@ -1,3 +1,21 @@
+---
+tags:
+  - dynamic_hedging
+  - portfolio_insurance
+  - put_call_parity
+  - replication_portfolio
+  - stock_put
+aliases:
+  - Protective Put
+  - Static Hedge
+  - Stock Put Insurance
+key_concepts:
+  - Drawbacks of stock put
+  - Dynamic portfolio insurance
+  - Hedging equity portfolio
+  - Replication portfolio of calls
+  - Static stock put insurance
+---
 # Portfolio Insurance  
 
 # Aims  

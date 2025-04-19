@@ -1,11 +1,21 @@
 ---
 title: Southland Corp. (c)
-aliases:
-  - Southland Corp
 linter-yaml-title-alias: Southland Corp
 tags:
-  - '#company_profile'
-  - '#corporate_information'
-  - '#southland_corp'
+  - bankruptcy
+  - corporate_finance
+  - financial_crisis
+  - retail_industry
+  - southland_corp
+aliases:
+  - 7-Eleven
+  - Southland Corporation
+key_concepts:
+  - Chapter 11 bankruptcy
+  - Convenience stores
+  - Corporate restructuring
+  - Financial distress
+  - Retail chain
 ---
+
 # Southland Corp. (c)

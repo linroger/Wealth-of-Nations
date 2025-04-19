@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#dollar_rolls'
-  - '#implied_financing_rate'
-  - '#market_liquidity'
-  - '#mortgage_backed_securities'
-  - '#prepayment_risk'
-  - '#repo_financing'
-  - '#tba_contracts'
-  - '#tba_delivery_option'
+  - cash_and_carry
+  - dollar_rolls
+  - repo_rate
+  - tba_liquidity
+  - tba_prices
+aliases:
+  - Dollar Rolls
+  - TBA rolls
+key_concepts:
+  - Cash-and-carry arbitrage
+  - Forward contracts
+  - Implied financing rate
+  - Repo position
+  - TBA contracts
 ---
+
 # 15.10 DOLLAR ROLLS  
 
 Because TBA liquidity is concentrated in contracts that mature in one of the next several months, market participants often need to roll their positions in maturing contracts to contracts that mature at later dates. For example, orig-. inators and investors that are short January 2022 TBAs to hedge exposures. but wish to keep those short positions past the January settlement date, can. buy the roll, that is, buy (back) the front month contract (January) and sell contracts expiring in later months, perhaps in February. Similarly, servicers and investors who are long January 2022 TBAs, but wish to maintain those longs past January, can sell the roll, that is, sell (out of) the front month contract (January) and buy contracts expiring in later months. These TBA rolls are also called dollar rolls..  

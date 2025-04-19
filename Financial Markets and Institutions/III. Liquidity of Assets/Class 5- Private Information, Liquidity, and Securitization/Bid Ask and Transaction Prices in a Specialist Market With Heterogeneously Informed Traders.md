@@ -1,27 +1,28 @@
 ---
-aliases:
-  - Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
-    Informed Traders*
-  - Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed
-    Traders
-  - Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed
-    Traders.md
 linter-yaml-title-alias: Bid,  Ask,  and **Transaction** Prices in a Specialist Market
   with Heterogeneously Informed Traders*
 title: Bid,  Ask,  and **Transaction** Prices in a Specialist Market with Heterogeneously
   Informed Traders*
 tags:
-  - '#adverse_selection'
-  - '#bid_ask_spread'
-  - '#information_asymmetry'
-  - '#insider_trading'
-  - '#liquidity_traders'
-  - '#market_efficiency'
-  - '#martingale'
-  - '#small_firm_effect'
-  - '#specialist_market'
-  - '#transaction_prices'
+  - adverse_selection
+  - bid_ask_spread
+  - insider_trading
+  - market_microstructure
+  - specialist_market
+  - transaction_prices
+aliases:
+  - Bid Ask
+  - Specialist Market
+  - Transaction Prices
+key_concepts:
+  - Adverse selection problem
+  - Bid-ask spread
+  - Insider trading impact
+  - Market microstructure
+  - Specialist market dynamics
+  - Transaction price information
 ---
+
 # Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders
 
 The presence of traders with superior information leads to a positive [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] even when the specialist is risk-neutral and makes zero expected profits. The resulting transaction prices convey information,  and the expectation of the average spread squared times volume is bounded by a number that is independent of insider activity. The serial correlation of transaction price differences is a function of the proportion of the spread due to adverse selection. A [[Class Note 9 Bid and Ask Prices With Private Information|bid-ask spread]] implies a divergence between observed returns and realizable returns. Observed returns are approximately realizable returns plus what the uninformed anticipate losing to the insiders.

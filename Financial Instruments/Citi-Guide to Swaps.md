@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#basis_swap'
-  - '#cross_currency_swap'
-  - '#forward_foreign_exchange_pricing'
-  - '#interest_rate_parity'
-  - '#long_dated_foreign_exchange_ltfx'
-  - '#principal_only_swap_pos'
-  - '#swap_pricing_discounted_cashflows'
-  - '#usd_jpy_swap'
-  - '#zero_coupon_currency_swap'
+  - basis_swap
+  - cross_currency_swap
+  - discounted_cashflows
+  - interest_rate_parity
+  - ltfx_contract
+aliases:
+  - Citi Guide
+  - Forward Foreign Exchange
+  - LTFX
+  - POS
+  - Swap Pricing
+key_concepts:
+  - Basis swap definition
+  - Common swap structures
+  - Long-Dated Foreign Exchange (LTFX)
+  - Principal-Only Swap (POS)
+  - Swap pricing
 ---
+
 # Citi: Guide to Swaps
  ![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/59cbb3bf077d183bee84082f8912543ab40beb0fd68755edaf570eb43772404e.jpg)  
 Swap Pricing: Discounted Cashflows  

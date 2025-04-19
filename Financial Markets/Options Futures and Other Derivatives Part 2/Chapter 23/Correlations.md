@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#correlation_estimation'
-  - '#credit_ratings'
-  - '#credit_risk'
-  - '#ewma_model'
-  - '#garch_model'
-  - '#positive_semidefinite'
-  - '#variance_covariance_matrix'
-  - '#volatility_forecasting'
+  - correlation_estimation
+  - covariance_calculation
+  - ewma_model
+  - garch_model
+  - variance_covariance
+aliases:
+  - Correlation Updates
+  - Correlations
+key_concepts:
+  - Covariance definition
+  - EWMA model for covariance
+  - GARCH model covariance
+  - Variance-covariance matrix
+  - Volatility estimation
 ---
+
 # 23.7 CORRELATIONS  
 
 The discussion so far has centered on the estimation and forecasting of volatility. As explained in Chapter 22, correlations also play a key role in the calculation of VaR. In this section, we show how correlation estimates can be updated in a similar way to volatility estimates.  

@@ -1,16 +1,27 @@
 ---
 tags:
-  - '#barrier_options'
-  - '#down_and_in_put'
-  - '#down_and_out_call'
-  - '#knock_in_options'
-  - '#knock_out_options'
-  - '#option_valuation'
-  - '#parisian_options'
-  - '#up_and_in_put'
-  - '#up_and_out_call'
-  - '#vega'
+  - barrier_options
+  - down_and_out_call
+  - knock_in_options
+  - knock_out_options
+  - lognormal_distribution
+  - option_pricing
+  - option_valuation
+  - put_barrier_options
+  - up_and_out_call
+aliases:
+  - Barrier Option
+  - Knock-in Option
+  - Knock-out Option
+key_concepts:
+  - Down-and-out call
+  - Knock-out vs knock-in
+  - Lognormal asset price
+  - Payoff depends on price
+  - Put barrier options
+  - Up-and-out call
 ---
+
 # 26.9 BARRIER OPTIONS  
 
 Barrier options are options where the payoff depends on whether the underlying asset's price reaches a certain level during a certain period of time..  

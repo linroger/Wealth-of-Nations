@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#directional_options'
-  - '#european_calls_and_puts'
-  - '#option_pricing'
-  - '#options_market_maker'
-  - '#options_trading'
-  - '#options_volatility'
-  - '#underlying_asset_volatility'
+  - directional_instruments
+  - european_options
+  - option_pricing
+  - options_market_maker
+  - volatility
+aliases:
+  - Introduction to Options
+  - Options Overview
+key_concepts:
+  - Directional vs. volatility view
+  - European calls and puts
+  - Market maker perspective
+  - Option exposure and volatility
+  - Options as volatility tools
 ---
+
 # 9.1 INTRODUCTION  
 
 This chapter is an introduction to methods used in dealing with optionality in financial instruments..   

@@ -1,3 +1,25 @@
+---
+tags:
+  - asset_price_dynamics
+  - black_scholes
+  - continuous_time
+  - geometric_brownian_motion
+  - ito_lemma
+  - sde
+  - stochastic_process
+  - wiener_process
+aliases:
+  - Asset Price
+  - GBM
+  - Price Dynamics
+key_concepts:
+  - Black-Scholes formula
+  - Continuous time mathematics
+  - Geometric Brownian motion
+  - Ito's lemma
+  - Stochastic process
+  - Wiener process
+---
 # PRICE DYNAMICS  
 
 # Asset Price Dynamics  

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#auction_cycle'
-  - '#effr_gc_spread'
-  - '#gc_rate'
-  - '#market_liquidity'
-  - '#on_the_run_bonds'
-  - '#repo_market'
-  - '#special_repo_rates'
-  - '#treasury_bonds'
+  - effr
+  - federal_funds
+  - gc_repo_rate
+  - repo_market
+  - treasury_collateral
+aliases:
+  - EFFR vs GC
+  - GC and Repo Rates
+  - General Collateral Rate
+key_concepts:
+  - EFFR vs GC spread
+  - GC rate benchmark
+  - Market disruptions
+  - Repo loan interest rates
+  - Window dressing
 ---
+
 # 10.5 GC AND SPECIAL REPO RATES  
 
 This section discusses the interest rates on repo loans. Conceptually, there is.   

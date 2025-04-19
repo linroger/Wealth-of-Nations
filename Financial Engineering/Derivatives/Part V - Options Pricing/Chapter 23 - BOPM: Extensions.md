@@ -1,3 +1,21 @@
+---
+tags:
+  - american_options
+  - binomial_tree
+  - bopm
+  - continuous_dividends
+  - european_options
+aliases:
+  - American put pricing
+  - BOPM extensions
+  - Binomial option pricing
+key_concepts:
+  - American option pricing
+  - Binomial approach
+  - Continuous dividend
+  - Early exercise
+  - Path-dependent options
+---
 # BOPM: Extensions  
 
 # Aims  

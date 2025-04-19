@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#adapted_process'
-  - '#binomial_example'
-  - '#complete_probability_space'
-  - '#girsanov_theorem'
-  - '#risk'
-  - '#sigma_field'
-  - '#stochastic_economy'
-  - '#uncertainty'
+  - adapted_process
+  - complete_probability_space
+  - girsanov_theorem
+  - ito_process
+  - stochastic_economy
+aliases:
+  - Complete Space
+  - Probability Space
+  - Probability Theory
+key_concepts:
+  - Finite time horizon
+  - Likelihood and outcome unknown
+  - Reduce uncertainty to risk
+  - Sigma field of events
+  - Uncertain outcomes and probabilities
 ---
+
 # 15.3 A COMPLETE PROBABILITY SPACE
 
 The complete probability space is a very formal mathematical representation of our per-. ceptions of the possible uncertain outcomes and their probabilities, such as the random movements in asset prices. In financial practice, one always faces uncertainty where both likelihood and outcome are unknown. In finance, uncertainty means we do not know. the potential outcomes and/or their corresponding likelihoods. Risk means we can assert both the potential outcomes and their corresponding likelihoods. Most quantitative tasks. seek to model uncertainty with some risk-based framework. With the complete probability space, uncertainty is reduced to risk, again where both likelihood and outcome are known. For a thorough treatment of this topic, see Harrison and Kreps (1979) and Harrison and. Pliska (1981).

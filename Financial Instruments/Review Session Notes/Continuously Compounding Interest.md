@@ -1,18 +1,23 @@
 ---
-aliases:
-  - CONTINUOUSLY COMPOUNDING INTEREST
-  - 
-  - 
 linter-yaml-title-alias: CONTINUOUSLY COMPOUNDING INTEREST
 title: CONTINUOUSLY COMPOUNDING INTEREST
 tags:
-  - '#annual_interest_rate'
-  - '#continuously_compounding_interest'
-  - '#discrete_compounding_frequency'
-  - '#gross_rate_of_return'
-  - '#interest_rate_conversion'
-  - '#maturity_horizon'
+  - compounding_interest
+  - continuous_compounding
+  - discrete_compounding
+  - gross_return
+  - interest_rate
+aliases:
+  - Compound Interest
+  - Continuously Compounding
+key_concepts:
+  - Annual interest rate
+  - Continuously compounding interest rate
+  - Discrete compounding frequency
+  - Gross rate of return
+  - Maturity horizon T
 ---
+
 # CONTINUOUSLY COMPOUNDING INTEREST
 
 #TA_Session

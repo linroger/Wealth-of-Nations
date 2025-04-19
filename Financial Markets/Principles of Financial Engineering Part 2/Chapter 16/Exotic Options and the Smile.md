@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#digital_options'
-  - '#exotic_options'
-  - '#fx_markets'
-  - '#hedging_strategies'
-  - '#knock_out_call'
-  - '#option_delta'
-  - '#option_pricing'
-  - '#risk_reversal'
-  - '#volatility_smile'
+  - barrier_options
+  - exotic_options
+  - knock_out_call
+  - option_pricing
+  - risk_reversal
+  - volatility_smile
+aliases:
+  - Barrier Option Hedging
+  - Exotic Option Pricing
+  - Volatility Smile
+key_concepts:
+  - Barrier option hedging
+  - Digital options
+  - Exotic options
+  - Knock-out call
+  - Risk reversal strategy
+  - Vanilla call options
+  - Volatility smile impact
 ---
+
 # 16.17 EXOTIC OPTIONS AND THE SMILE  
 
 The second major category of instruments where the existence of the volatility smile can change pricing and hedging practices significantly is exotic options. In this section, we consider a simple knock-out call that is representative of the main ideas we want to convey. Due to the contractual equation between vanilla options, knock-out calls, and knock-in calls, our discussion immediately extends to knock-in calls as well. At the end of this section, we briefly discuss digital options and how the existence of the volatility smile affects them.  

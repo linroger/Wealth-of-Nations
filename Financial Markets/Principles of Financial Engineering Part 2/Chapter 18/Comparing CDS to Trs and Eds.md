@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#cds_vs_trs_eds_comparison'
-  - '#credit_default_swaps_cds'
-  - '#credit_derivatives'
-  - '#default_risk'
-  - '#equity_default_swaps_eds'
-  - '#equity_derivatives'
-  - '#market_risk'
-  - '#protection_buyer'
-  - '#protection_seller'
-  - '#total_return_swaps_trs'
+  - cds
+  - credit_derivatives
+  - credit_risk
+  - eds
+  - trs
+aliases:
+  - credit default swap
+  - equity default swap
+  - total return swap
+key_concepts:
+  - CDS vs TRS comparison
+  - 'CDS: pure credit derivative'
+  - 'EDS: equity derivatives'
+  - Protection buyer, seller roles
+  - 'TRS: default, credit, market'
 ---
+
 # 18.8 COMPARING CDS TO TRS AND EDS  
 
 To appreciate the nuances of CDS it is helpful to compare them to different but related products.  

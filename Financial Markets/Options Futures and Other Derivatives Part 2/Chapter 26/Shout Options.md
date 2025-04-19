@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#american_option'
-  - '#binomial_tree'
-  - '#black_scholes_merton'
-  - '#european_option'
-  - '#intrinsic_value'
-  - '#option_valuation'
-  - '#shout_option'
-  - '#trinomial_tree'
+  - binomial_tree
+  - black_scholes_merton
+  - european_option
+  - option_valuation
+  - shout_option
+aliases:
+  - Shout Option
+  - Shout Options
+key_concepts:
+  - Binomial/trinomial tree valuation
+  - Black-Scholes-Merton formulas
+  - European option features
+  - Intrinsic value at shout
+  - Shout option definition
 ---
+
 # 26.12 SHOUT OPTIONS  
 
 A shout option is a European option where the holder can "shout" to the writer at one time during its life. At the end of the life of the option, the option holder receives either the usual payoff from a European option or the intrinsic value at the time of the shout, whichever is greater. Suppose the strike price is. $\$50$ and the holder of a call shouts when. the price of the underlying asset is. $\$60$ . If the final asset price is less than $\$60$ , the holder. receives a payoff of. $\$10$ . If it is greater than. $\$60$ , the holder receives the excess of the. asset price over $\$50$  

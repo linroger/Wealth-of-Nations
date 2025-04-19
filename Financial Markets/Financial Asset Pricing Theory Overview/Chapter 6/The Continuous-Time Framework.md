@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#asset_prices'
-  - '#continuous_time_framework'
-  - '#habit_formation'
-  - '#lagrangian_optimization'
-  - '#market_completeness'
-  - '#optimal_consumption_process'
-  - '#state_price_deflator'
-  - '#time_additive_expected_utility'
+  - asset_pricing
+  - consumption
+  - continuous_time
+  - expected_utility
+  - market_completeness
+  - state_price
+aliases:
+  - Continuous Time Framework
+  - Continuous-time Model
+key_concepts:
+  - Continuous-time setting
+  - Market completeness
+  - Optimal consumption process
+  - State-price deflator
+  - Time-additive utility
 ---
+
 # 6.4 The continuous-time framework  
 
 In a continuous-time setting an individual consumes according to a non-negative continuous-time process $c=\left(c_{t}\right)$ . Suppose that her preferences are described by time-additive expected utility so that the objective is to maximize $\begin{array}{r}{\operatorname{E}[\int_{0}^{T}e^{-\delta t}u(c_{t})d t]}\end{array}$  

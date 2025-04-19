@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_prices'
-  - '#correlated_random_variables'
-  - '#correlation'
-  - '#independent_random_variables'
-  - '#interest_rates'
-  - '#linear_relationship'
-  - '#normal_random_values'
-  - '#simulation_with_multiple_variables'
+  - asset_pricing
+  - correlation
+  - interest_rates
+  - random_variables
+  - simulation
+aliases:
+  - correlated variables
+  - multiple random variables
+key_concepts:
+  - expected values, variances
+  - generate normal values
+  - independent variables
+  - linear correlation
+  - simulate random variables
 ---
+
 # 23.3 SIMULATION WITH MORE THAN ONE RANDOM VARIABLE
 
 In some cases, we wish to simulate more than one random variable. In certain situations, these variables are independent; in others, the two variables are related. Independent random variables are similar to rolling a pair of dice. What happens on one die is unrelated to what happens on another die. If the random variables of interest have that characteristic,. it is a simple matter to run two parallel simulations, each generating random variables that are completely unrelated to each other. In some cases, however, the random variables are related, most often in a linear manner. The linear relationship between random variables is captured by the correlation.5

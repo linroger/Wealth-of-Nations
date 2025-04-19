@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#continuous_compounding'
-  - '#discrete_compounding'
-  - '#forward_rate'
-  - '#holding_period_return'
-  - '#local_expectations_hypothesis'
-  - '#spot_rate'
-  - '#term_structure_math'
-  - '#unbiased_expectations_hypothesis'
-  - '#zero_coupon_bond'
+  - continuous_compounding
+  - discrete_compounding
+  - expectations_hypothesis
+  - interest_rates
+  - term_structure
+aliases:
+  - LEH vs. UEH
+  - Local Expectations
+  - Unbiased Expectations
+key_concepts:
+  - Continuous compounding
+  - Discrete compounding
+  - Holding period return
+  - LEH and UEH
+  - Spot and forward rates
 ---
+
 # 25.3 THE DIFFERENCE BETWEEN THE LOCAL AND UNBIASED EXPECTATIONS HYPOTHESES7
 
 In this section, we will review some of the more technical aspects of term structure math as well as demonstrate that the LEH and UEH are equivalent in discrete time with continuously compounded interest rates. Further, we make no assumption here related to a risk-neutral framework. Our focus is on the actual probability measure. Although the LEH and UEH are not equivalent in discrete time with discretely compounded interest rates, the magnitude of the difference is indistinguishable when applied to empirical data. For our purposes, all bonds are assumed to be default free. Due to the technical nature of this discussion, we adopt more precise notation for this section.

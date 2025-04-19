@@ -1,13 +1,24 @@
 ---
-aliases:
-  - Class 9Bailouts and Bank Failures
 linter-yaml-title-alias: Class 9Bailouts and Bank Failures
 title: Class 9Bailouts and Bank Failures
 tags:
-  - '#bailouts'
-  - '#bank_failures'
-  - '#class_9'
+  - bailouts
+  - bank_failures
+  - banking_industry
+  - financial_crisis
+  - government_intervention
+aliases:
+  - Bank Crisis
+  - Class 9
+  - Financial Crisis
+key_concepts:
+  - Bank failures
+  - Banking regulations
+  - Economic instability
+  - Financial crisis causes
+  - Government bailouts
 ---
+
 # Class 9Bailouts and Bank Failures
 
 %% Begin Waypoint %%

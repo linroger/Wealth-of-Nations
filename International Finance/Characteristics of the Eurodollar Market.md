@@ -1,20 +1,26 @@
 ---
-aliases:
 cssclasses:
   - academia
 title: Characteristics of the Eurodollar Market
 tags:
-  - '#banking_regulations'
-  - '#bond_issuance'
-  - '#eurobonds'
-  - '#eurocurrency_market'
-  - '#eurodollar_market'
-  - '#international_capital_market'
-  - '#international_money_market'
-  - '#libor'
-  - '#market_participants'
-  - '#offshore_markets'
+  - eurobond_market
+  - eurocurrency_market
+  - eurodollar
+  - international_money_market
+  - libor
+aliases:
+  - Eurocurrency Markets
+  - Eurodollar Deposits
+  - Euromarkets
+key_concepts:
+  - Eurobond market
+  - Eurodollar deposits
+  - International money market
+  - LIBOR interest rate
+  - Offshore markets
+  - Short-term borrowing and lending
 ---
+
 # Characteristics of the Eurodollar Market
 ## THE EUROCURRENCY MARKET
 

@@ -4,17 +4,24 @@ source:
   https://www.linkedin.com/pulse/how-countries-go-broke-chapter-six-seven-ray-dalio-znjcc/
 description:
 tags:
-  - '#big_debt_crisis'
-  - '#capital_controls'
-  - '#central_bank'
-  - '#currency_devaluation'
-  - '#debt_monetization'
-  - '#debt_restructuring'
-  - '#fiscal_policy'
-  - '#interest_rates'
-  - '#quantitative_easing'
-  - '#reserves'
+  - central_bank
+  - debt_crisis
+  - government_debt
+  - interest_rates
+  - quantitative_easing
+aliases:
+  - Central Bank Role
+  - Chapter 6
+  - Debt Crisis Stages
+  - How Countries Go Broke
+key_concepts:
+  - Central bank intervention
+  - Debt crisis dynamics
+  - Government financing
+  - Printing money
+  - Quantitative easing
 ---
+
 *This post was originally published on January 22, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 
 ---

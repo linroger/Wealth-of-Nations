@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#aggregate_consumption'
-  - '#brownian_motion'
-  - '#consumption_growth'
-  - '#real_interest_rates'
-  - '#risk_aversion'
-  - '#stochastic_process'
-  - '#time_preference'
-  - '#yield_curve'
-  - '#zero_coupon_bonds'
+  - aggregate_consumption
+  - consumption_dynamics
+  - real_interest_rates
+  - time_preference
+  - yield_curve
+aliases:
+  - Consumption and Interest Rates
+  - Real Rates and Consumption
+key_concepts:
+  - Equilibrium interest rate
+  - Interest rates and consumption
+  - State-price deflator
+  - Stochastic process
+  - Time-additive utility
 ---
+
 # 10.3 Real interest rates and aggregate consumption  
 
 In order to study the link between interest rates and aggregate consumption, we assume the existence of a representative individual maximizing the expected time-additive utility F $[\int_{0}^{T}e^{-\delta t}u(c_{t})d t]$ As discussed in Chapter 7, a representative individual will exist in a complete market. The parameter $\delta$ is the subjective time preference rate with higher $\delta$ representing a more impatient individual. $c_{t}$ is the consumption rate of the individual, which is then also the aggregate consumption level in the economy. In terms of the utility and time preference of the representative individual the state-price deflator is therefore characterized by  

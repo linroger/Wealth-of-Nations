@@ -1,19 +1,31 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#2008_financial_crisis'
-  - '#antitrust_regulation'
-  - '#bank_mergers'
-  - '#banking_industry'
-  - '#economic_performance'
-  - '#federal_reserve'
-  - '#financial_innovation'
-  - '#market_concentration'
-  - '#mortgage_backed_securities'
-  - '#public_policy'
+  - banking_functions
+  - banking_history
+  - banking_industry
+  - commercial_banking
+  - corporate_banking
+  - economic_growth
+  - financial_crisis
+  - investment_banking
+  - mortgage_loan
+  - retail_banking
+aliases:
+  - Bank
+  - Banking
+  - Great Recession
+  - Mozart
+key_concepts:
+  - Automatic teller machines
+  - Bank letters of credit
+  - Banking industry functions
+  - Commercial transactions
+  - Economic prosperity impact
+  - Geographic space bridging
+  - Investment banking services
+  - Time preference mediation
 ---
+
 The Banking Industry Faculty Research Working Paper Series
 
 ## THE BANKING INDUSTRY

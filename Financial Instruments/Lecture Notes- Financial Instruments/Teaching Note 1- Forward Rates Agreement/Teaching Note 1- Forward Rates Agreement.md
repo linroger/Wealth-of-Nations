@@ -1,20 +1,27 @@
 ---
 cssclasses: academia
-aliases:
-  - LECTURE NOTE 1 FORWARD RATES AGREEMENT
 linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 title: Teaching Note 1Forward Rates Agreement
 tags:
-  - '#cash_and_carry_arbitrage'
-  - '#commodity_forwards'
-  - '#commodity_markets'
-  - '#contango_backwardation'
-  - '#convenience_yield'
-  - '#forward_curve'
-  - '#lease_rate'
-  - '#no_arbitrage_pricing'
-  - '#storage_costs'
+  - backwardation
+  - commodity_forwards
+  - contango
+  - forward_curve
+  - lease_rate
+  - short_selling
+  - storage_costs
+aliases:
+  - FRA
+  - commodity forward
+  - forward strip
+key_concepts:
+  - Commodity forward prices
+  - Contango and backwardation
+  - Equilibrium pricing
+  - Lease rate definition
+  - Short-selling commodity
 ---
+
 # Teaching Note 1Forward Rates Agreement
 
 %% Begin Waypoint %%

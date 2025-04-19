@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#capital_structure_arbitrage'
-  - '#credit_risk'
-  - '#credit_spreads'
-  - '#equity_valuation'
-  - '#merton_model'
-  - '#probability_of_default'
-  - '#risk_neutral_probability'
-  - '#structural_model_of_default'
+  - capital_structure_arbitrage
+  - credit_risk
+  - default_risk
+  - equity_valuation
+  - merton_model
+aliases:
+  - Merton's Model
+  - Structural Model
+key_concepts:
+  - capital structure arbitrage
+  - credit rating agencies
+  - default probability
+  - equity as option
+  - risk neutral probabilities
 ---
+
 # 19.4 EQUITY AS AN OPTION ON THE ASSETS OF THE FIRM 19.4.1 MERTON'S STRUCTURAL MODEL OF DEFAULT  
 
 In Chapter 9, we introduced the Black-Scholes option pricing model to price an option on a stock. Can the option pricing approach also be used to price equity? It turns out that the answer is affirmative. Merton (1974) proposed a seminal structural model of default in which the equity of a firm is viewed as an option on the assets of the firm with a strike price equal to the (face) value of the debt. As the name indicates, the typical application of the model does not lie in the pricing of the equity, but rather in backing out information about the debt (including the default probability) from observed market prices for equity. As a result structural models of default have a large range of important practical applications including the modeling, pricing, and forecasting of default risk.4 The following example illustrates the practical relevance of the structural approach.  

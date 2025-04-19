@@ -1,23 +1,29 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Note 1- Borrower-Lender conflicts and implied agency problems
-  - Class Note 1 Borrower-Lender conflicts and implied agency problems
 linter-yaml-title-alias: Class Note 1 Borrower-Lender conflicts and implied agency
   problems
 title: Class Note 1Borrower-Lender conflicts and implied agency problems
 tags:
-  - '#asset_substitution_theory'
-  - '#bond_covenants'
-  - '#borrower_lender_conflicts'
-  - '#capital_structure'
-  - '#debt_capacity'
-  - '#financial_intermediaries'
-  - '#implied_agency_problems'
-  - '#project_selection'
-  - '#risk_management'
+  - agency_problems
+  - asset_substitution
+  - borrower_lender_conflicts
+  - capital_structure
+  - debt_holders
+aliases:
+  - Capital Budgeting
+  - Class Note 1
+  - Debt and Equity
+  - Incentive Conflicts
+key_concepts:
+  - Capital budgeting decisions
+  - Covenant changes
+  - Debt holder ownership
+  - Equity owner ownership
+  - Leverage and Incentives
+  - Owner-managed firms
 ---
+
 # Class Note 1Borrower-Lender conflicts and implied agency problems
 
 The amount of leverage has an impact on the incentives of someone who maximizes the value of the residual equity claim. This“asset substitution theory”is a popular theory of capital structure,  but it is not too plausible for large firms. It makes the most sense for owner-managed firms,  where the manager is the stockholder. If the owner and manager differ,  one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some financial institutions that have government deposit insurance.

@@ -1,16 +1,95 @@
 ---
 tags:
-  - '#commodity_derivatives'
-  - '#credit_default_swaps_cds'
-  - '#credit_risk'
-  - '#exotic_options'
-  - '#interest_rate_derivatives'
-  - '#options_futures_derivatives'
-  - '#real_options'
-  - '#risk_management'
-  - '#value_at_risk_var'
-  - '#volatility_modeling'
+  - american_options
+  - credit_derivatives
+  - credit_risk
+  - default_probabilities
+  - garch_model
+  - interest_rates
+  - monte_carlo
+  - options_pricing
+  - var_es
+  - volatility
+aliases:
+  - Derivatives Part 2
+  - Options Derivatives
+  - Options Futures
+  - Table of Contents
+key_concepts:
+  - Alternative choices numeraire
+  - Alternatives to BSM
+  - Asian options
+  - Barrier options
+  - Binary options
+  - Black's model revisited
+  - Bond options
+  - CDS forwards and options
+  - Change of numeraire
+  - Chooser options
+  - Choosing between models
+  - Cliquet options
+  - Collateralized debt obligations
+  - Comparison of approaches
+  - Compound options
+  - Convertible bonds
+  - Convexity adjustments
+  - Credit VaR
+  - Credit default swaps
+  - Credit indices
+  - Credit risk derivatives
+  - Default probability estimates
+  - EWMA model
+  - Equity prices default probs
+  - Estimating parameters
+  - Estimating volatility
+  - European swap options
+  - Exchange one asset
+  - Extension to several factors
+  - Extensions of equilibrium
+  - Fixed coupons
+  - Forward start options
+  - GARCH(1,1) model
+  - Gap options
+  - Hedging interest rate
+  - Historical default probabilities
+  - Historical simulation
+  - IVF model
+  - Interest rate caps/floors
+  - Interest rate trees
+  - Linear model
+  - Lookback options
+  - Market price of risk
+  - Martingales
+  - Maximum likelihood methods
+  - Model-building approach
+  - Monte Carlo American options
+  - Monte Carlo simulation
+  - More sophisticated models
+  - Nonstandard American options
+  - One-factor models
+  - Option to exchange asset
+  - Options involving assets
+  - Options on correlated assets
+  - Packages
+  - Path-dependent derivatives
+  - Perpetual American options
+  - Principal components analysis
+  - Quadratic model
+  - Quantos
+  - Real-world vs. risk-neutral
+  - Recovery rates
+  - Role of correlation
+  - Several state variables
+  - Shout options
+  - Static options replication
+  - Stochastic volatility models
+  - Synthetic CDO valuation
+  - Timing adjustments
+  - Total return swaps
+  - VaR and ES measures
+  - Volatility and variance swaps
 ---
+
 # Table of Contents - Options Futures and Other Derivatives Part2
 
 Chapter 22: 22.1 THE VaR AND ES MEASURES

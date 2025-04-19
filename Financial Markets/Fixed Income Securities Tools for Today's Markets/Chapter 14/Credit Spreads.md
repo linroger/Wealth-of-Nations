@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#asset_swap'
-  - '#bond_spread'
-  - '#credit_risk'
-  - '#credit_spreads'
-  - '#effective_spread'
-  - '#financing_risk'
-  - '#market_value_asset_swap'
-  - '#option_adjusted_spread_oas'
-  - '#par_asset_swap'
-  - '#yield_spread'
+  - asset_swap
+  - bond_spread
+  - credit_spreads
+  - oas
+  - yield_spread
+aliases:
+  - Bond Spread
+  - Credit Spreads
+  - OAS
+key_concepts:
+  - asset swap spreads
+  - bond cash flows
+  - credit risk
+  - embedded options
+  - yield spread
 ---
+
 # 14.3 CREDIT SPREADS  
 
 Credit spreads are the differences between the relatively high rates earned on fixed income instruments that are subject to credit risk and the relatively low rates on instruments with little or no credit risk. The simplest measure of credit spread is the yield spread, which is the difference between the yield on a bond and the rate or yield on a similar maturity interest rate swap or highly creditworthy government bond. Yield spreads, however, suffer from a number of drawbacks. First, a sufficiently liquid government bond or swap with a similar maturity might not exist. Second, yields reflect not only credit risk, but also the structure of a bond's cash flows. (See the discussion of the "coupon effect" in Chapter 3.) Third, yields reflect the value of embedded options, like the fixed-price call provisions discussed earlier, which have nothing to do with credit risk.  

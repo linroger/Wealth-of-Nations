@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bank_of_america_bonds'
-  - '#bond_pricing'
-  - '#bsm_model'
-  - '#callable_bonds'
-  - '#embedded_bond_options'
-  - '#interest_rate_risk'
-  - '#option_adjusted_spread'
-  - '#option_valuation'
-  - '#risk_neutral_tree'
+  - bond_pricing
+  - bsm_model
+  - callable_bonds
+  - embedded_options
+  - european_style_option
+aliases:
+  - Bank of America bond
+  - BoA bonds
+  - Embedded call option
+key_concepts:
+  - BSM pricing approach
+  - Callable bond provisions
+  - Effective maturity duration
+  - Embedded bond call options
+  - European-style option pricing
 ---
+
 # 16.1 EMBEDDED BOND CALL OPTIONS  
 
 There is not much of a market for stand-alone options on bonds, but many corporate bonds include call provisions that give the issuer the right to call or buy back its bonds at some fixed schedule of prices. These provisions are called embedded options, because they do not trade separately or independently of the bonds. In any case, the relevant institutional background. is given in Chapter 14. This section, for purposes of discussion, takes as. an example the Bank of America (BoA) 2.305s of 02/22/2039, which were issued in February 2019. They are callable by BoA on February 22, 2029, at par, or $100\%$ of face value. Table 16.1 lists this bond, along with two others that are used in this section as reference bonds. All three bonds are denominated in euros, and they were issued by banks that, as of the pricing date, are rated A2 by Moody's. Only the BoA bonds, however, are callable..  

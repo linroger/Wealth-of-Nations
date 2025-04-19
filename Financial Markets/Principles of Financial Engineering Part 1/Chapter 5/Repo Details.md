@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#bond_market'
-  - '#butterfly_trades'
-  - '#cheapest_to_deliver'
-  - '#collateral'
-  - '#general_collateral'
-  - '#repo_agreement'
-  - '#repo_dealer'
-  - '#repo_rate'
-  - '#short_selling'
-  - '#special_repo'
+  - collateral
+  - financial_engineering
+  - repo_dealer
+  - repo_market
+  - repurchase_agreement
+aliases:
+  - repo operation
+  - repurchase
+  - reverse repo
+key_concepts:
+  - cheap funding
+  - repo definition
+  - repo terminology
+  - repo transaction sequence
+  - shorting securities
 ---
+
 # 5.2 REPO DETAILS  
 
 We begin with the standard definition. As Figure 5.1 showed, a repo is a repurchase agreement. where a repo dealer sells a security to a counterparty and simultaneously agrees to buy it back at a predetermined price and at a predetermined date. Thus, it is a sale and a repurchase written on the same ticket. In other words, a repo is legally recognized as a single transaction and not as a disposal and a repurchase for tax purposes.2  

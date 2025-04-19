@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#convertible_bond_arbitrage'
-  - '#convertible_bond_pricing'
-  - '#convertible_bonds'
-  - '#credit_default_swaps'
-  - '#embedded_options'
-  - '#equity_financing'
-  - '#exchangeable_bonds'
-  - '#financial_engineering'
-  - '#synthetic_convertible_bonds'
-  - '#warrants'
+  - convertible_bonds
+  - coupon_bond
+  - equity_financing
+  - equity_products
+  - european_option
+aliases:
+  - Convertible Bonds
+  - Engineering Equity
+  - Equity Products
+key_concepts:
+  - Balance sheet composition
+  - Broaden investor base
+  - Convertible bond example
+  - Equity financing cost
+  - Intel convertible bond
+  - Issuing securities timing
+  - Raise capital
 ---
+
 # 19.6 ENGINEERING EQUITY PRODUCTS  
 
 # 19.6.1 PURPOSE  

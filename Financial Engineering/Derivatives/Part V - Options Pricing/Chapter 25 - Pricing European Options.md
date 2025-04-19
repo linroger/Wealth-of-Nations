@@ -1,3 +1,20 @@
+---
+tags:
+  - black_scholes
+  - dividend_stocks
+  - european_options
+  - foreign_currency
+  - futures_options
+aliases:
+  - European Option Pricing
+  - Pricing Options
+key_concepts:
+  - Black-Scholes formula
+  - Dividend paying stocks
+  - Foreign currency options
+  - Futures options pricing
+  - Put-call parity
+---
 # Pricing European Options  
 
 # Aims  

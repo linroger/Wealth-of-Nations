@@ -1,24 +1,39 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance.md
-  - Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
-  - Moody's Approach to Assessing the Adequacy of "Liquidity Risk Insurance"
 linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
   Risk Insurance"
 title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 tags:
-  - '#bank_credit_facilities'
-  - '#cashflow_analysis'
-  - '#commercial_paper_cp'
-  - '#contingency_planning'
-  - '#liquidity_risk_insurance'
-  - '#market_access'
-  - '#moodys_rating_methodology'
-  - '#short_term_debt'
-  - '#stress_testing'
+  - alternate_liquidity
+  - backstop_liquidity
+  - contingency_plans
+  - corporate_issuer
+  - fixed_income_market
+  - issuer_analysis
+  - liquidity_insurance
+  - liquidity_risk
+  - moodys_approach
+  - rating_methodology
+aliases:
+  - Corporate Liquidity
+  - Liquidity Insurance
+  - Liquidity Risk Report
+  - Moody's Liquidity Assessment
+  - Moody's Rating Methodology
+key_concepts:
+  - Alternate liquidity provisions
+  - Backstop liquidity sources
+  - Changing liquidity landscape
+  - Contingent claims and obligations
+  - Fixed income market concerns
+  - Industry-specific liquidity needs
+  - Issuer-by-issuer approach
+  - Liquidity risk insurance assessment
+  - Quantitative and qualitative analysis
+  - Total liquidity risk
 ---
+
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 
 ### Rating Methodology

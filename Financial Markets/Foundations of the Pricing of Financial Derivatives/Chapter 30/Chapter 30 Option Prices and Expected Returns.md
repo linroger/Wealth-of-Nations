@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#capital_asset_pricing_model'
-  - '#expected_returns'
-  - '#option_prices'
-  - '#option_volatilities'
-  - '#sharpe_ratio'
-  - '#stochastic_process'
+  - capital_asset_pricing_model
+  - expected_returns
+  - option_pricing
+  - sharpe_ratio
+  - stochastic_process
+aliases:
+  - Chapter 30
+  - Option Returns
+key_concepts:
+  - CAPM and options
+  - Expected returns
+  - Option prices
+  - Option volatilities
+  - Sharpe ratio
 ---
+
 # CHAPTER 30 Option Prices and Expected Returns
 
 # 527

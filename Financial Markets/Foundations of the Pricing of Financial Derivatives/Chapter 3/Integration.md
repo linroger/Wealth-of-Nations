@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#antiderivative'
-  - '#area_under_curve'
-  - '#calculus'
-  - '#definite_integral'
-  - '#indefinite_integral'
-  - '#integration'
-  - '#integration_rules'
-  - '#riemann_integral'
+  - area_under_curve
+  - definite_integral
+  - indefinite_integral
+  - integration
+  - riemann_integral
+aliases:
+  - antiderivative
+key_concepts:
+  - Riemann integral definition
+  - area under curve
+  - definite integral area
+  - indefinite integral
+  - integral evaluation process
 ---
+
 # 3.6 INTEGRATION
 
 Integration is closely related to differentiation, but people usually find it to be a much. more difficult concept to grasp. There are two general ways to classify an integral. One, called the indefinite integral, is the opposite of differentiation and is sometimes called the. antiderivative. Given a derivative, indefinite integration attempts to find the function that when differentiated obtains the given derivative. For example, suppose we were given the. expression $12x$ . The indefinite integral is $6x^{2}+a$ where $a$ is an unknown constant. This specification is written as

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#asset_pricing'
-  - '#financial_markets'
-  - '#identical_assets'
-  - '#law_of_one_price'
-  - '#market_equilibrium'
-  - '#risk_free_profits'
-  - '#short_selling'
+  - arbitrage
+  - asset_pricing
+  - identical_assets
+  - law_of_one_price
+  - market_efficiency
+aliases:
+  - Identical Assets
+  - Law of One Price
+key_concepts:
+  - Arbitrage strategy
+  - Identical assets
+  - Law of one price
+  - Price alignment
+  - Risk-free profits
 ---
+
 # 6.3 IDENTICAL ASSETS AND THE LAW OF ONE PRICE
 
 Suppose there is another asset trading in a different market. If a good economy occurs, the asset will be worth 200, and if a bad economy occurs, it will be worth 100. Remember that the first asset pays 100 and 50 in the two outcomes. Notice that this second asset pays exactly two times the payoff of the good asset. Suppose that the first asset is trading for the price of 70, and the second asset is trading for 148. This situation creates an unstable condition that will bring out arbitrageurs who trade to earn risk-free profits without committing any of their own money.3

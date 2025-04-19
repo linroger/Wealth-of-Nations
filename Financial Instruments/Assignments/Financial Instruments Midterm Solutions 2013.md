@@ -1,22 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Financial Instruments Midterm Solutions 2013
 linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
 title: Financial Instruments Midterm Solutions 2013
 tags:
-  - '#binary_option'
-  - '#bond_valuation'
-  - '#currency_exchange_rate'
-  - '#european_call_option'
-  - '#financial_instruments'
-  - '#forward_contracts'
-  - '#midterm_solutions'
-  - '#portfolio_delta'
-  - '#sp500_put_option'
-  - '#stock_hedging'
+  - binary_option
+  - bond_valuation
+  - european_call_option
+  - hedging
+  - option_pricing
+aliases:
+  - Financial Instruments Midterm Solutions 2013
+key_concepts:
+  - European call option
+  - S&P 500 index
+  - binary option pricing
+  - bond valuation
+  - hedge exposure
 ---
+
 ---
 
 title: Financial Instruments Midterm Solutions 2013

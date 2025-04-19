@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#binomial_trees'
-  - '#dividend_paying_stock'
-  - '#finite_difference_methods'
-  - '#monte_carlo_simulation'
-  - '#options_pricing'
-  - '#time_dependent_parameters'
-  - '#variance_reduction'
+  - binomial_tree
+  - finite_difference
+  - monte_carlo
+  - time_dependent
+  - variance_reduction
+aliases:
+  - Binomial Model
+  - Monte Carlo Simulation
+  - Numerical Methods
+key_concepts:
+  - Binomial Tree
+  - Finite Difference Methods
+  - Monte Carlo Simulation
+  - Time Dependent Parameters
+  - Variance Reduction
 ---
+
 # Chapter 21. Basic numerical procedures . .448  
 
 21.1 Binomial trees 448   

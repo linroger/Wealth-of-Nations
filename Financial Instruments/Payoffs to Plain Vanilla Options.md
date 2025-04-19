@@ -1,19 +1,24 @@
 ---
 cssclasses: academia
-aliases: []
 title: Payoffs to Plain Vanilla Options
 tags:
-  - '#american_options'
-  - '#black_scholes_formula'
-  - '#european_options'
-  - '#forward_contracts'
-  - '#option_greeks'
-  - '#option_payoffs'
-  - '#option_pricing'
-  - '#options'
-  - '#risk_management'
-  - '#strike_price'
+  - american_options
+  - european_options
+  - option_payoffs
+  - option_pricing
+  - plain_vanilla_options
+aliases:
+  - Options Payoffs
+  - Vanilla Options
+key_concepts:
+  - Call and put options
+  - European and American options
+  - Option holder and writer
+  - Option trading properties
+  - Strike price and maturity
+  - Time and intrinsic value
 ---
+
 # Payoffs to Plain Vanilla Options
 # Options
 

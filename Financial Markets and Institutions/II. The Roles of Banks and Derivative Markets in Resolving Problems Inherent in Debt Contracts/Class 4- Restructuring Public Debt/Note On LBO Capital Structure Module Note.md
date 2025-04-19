@@ -1,23 +1,25 @@
 ---
 cssclasses: academia
-aliases:
-  - Note On LBO Capital Structure
-  - Note On LBO Capital Structure Module Note
-  - Note On LBO Capital Structure Module Note.md
 linter-yaml-title-alias: Note On LBO Capital Structure
 title: Note on LBO Capital Structure Module Note
 tags:
-  - '#asset_backed_loans'
-  - '#debt_financing'
-  - '#high_yield_bonds'
-  - '#institutional_tranche'
-  - '#junior_debt'
-  - '#lbo_capital_structure'
-  - '#leveraged_loans'
-  - '#mezzanine_financing'
-  - '#pro_rata_tranche'
-  - '#senior_secured_debt'
+  - capital_structure
+  - debt_financing
+  - lbo
+  - leveraged_loans
+  - senior_debt
+aliases:
+  - Capital Structure
+  - Debt Layers
+  - LBO Debt
+key_concepts:
+  - Asset-backed loans
+  - Junior debt
+  - LBO debt characteristics
+  - Leveraged loans
+  - Senior secured debt
 ---
+
 [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBO]]
 
 # Note on LBO Capital Structure Module Note

@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#continuous_time_setting'
-  - '#discrete_time_framework'
-  - '#dividend_vectors'
-  - '#law_of_one_price'
-  - '#no_arbitrage'
-  - '#redundant_assets'
-  - '#replicating_portfolio'
-  - '#trading_strategy'
+  - arbitrage_free_pricing
+  - binomial_model
+  - law_of_one_price
+  - redundant_assets
+  - replicating_portfolio
+aliases:
+  - Asset Pricing
+  - Redundant Asset
+  - Replicating Portfolio
+key_concepts:
+  - Arbitrage-free price
+  - Law of one price
+  - Multi-period model redundancy
+  - Pricing non-redundant assets
+  - Redundant asset definition
+  - Replicating portfolio creation
 ---
+
 # 3.5 Redundant assets  
 
 An asset is said to be redundant if its dividends can be replicated by a trading strategy in other assets.  

@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#corporate_bond_spread'
-  - '#credit_default_swaps'
-  - '#credit_derivatives'
-  - '#credit_migration_model'
-  - '#default_risk'
-  - '#no_arbitrage'
-  - '#poisson_model'
-  - '#single_issuer_default'
+  - credit_default_swaps
+  - credit_derivatives
+  - credit_migration
+  - default_risk
+  - poisson_model
+aliases:
+  - CDS
+  - Credit Derivatives
+  - Credit Swap
+  - Default Risk
+key_concepts:
+  - Constant Default Probability Model
+  - Credit Default Swaps
+  - Deterministic Credit Migration Model
+  - 'No Arbitrage: CDS'
+  - Poisson Model of Default
 ---
+
 # 7 Default Risk and Credit Derivatives 183  
 
 7.1 Credit Default Swaps 184   

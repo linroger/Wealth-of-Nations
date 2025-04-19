@@ -2,21 +2,37 @@
 title: Week 2 Fundamentals Of Forecasting
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#analyst_forecasts'
-  - '#base_rates'
-  - '#behavioral_biases'
-  - '#forecasting_fundamentals'
-  - '#inside_view_vs_outside_view'
-  - '#long_term_growth_ltg'
-  - '#mean_reversion'
-  - '#overconfidence_bias'
-  - '#representativeness_heuristic'
-  - '#sales_growth_forecasts'
+  - analyst_forecasts
+  - behavioral_biases
+  - forecasting
+  - industry_metrics
+  - inside_view
+  - mean_reversion
+  - outside_view
+  - representativeness_heuristic
+aliases:
+  - Biases
+  - Forecasting
+  - Fundamentals
+  - Inside vs. Outside
+key_concepts:
+  - Analyst forecast biases
+  - Base rates and outcomes
+  - Behavioral biases in forecasting
+  - Competition and market forces
+  - Confirmation bias
+  - Consider range of alternatives
+  - Forecasting fundamentals
+  - Ignore base rates
+  - Industry profit margin
+  - Inside vs outside view
+  - Mean reversion in outcomes
+  - Overconfidence in forecasts
+  - Reference class statistics
+  - Salience and availability heuristic
 ---
+
 # Week 2 Fundamentals Of Forecasting
 ## FUNDAMENTALS OF FORECASTING
 

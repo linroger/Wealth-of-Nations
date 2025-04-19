@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#bonds'
-  - '#credit_spreads'
-  - '#fixed_income_markets'
-  - '#hedging'
-  - '#hp17bii_calculator'
-  - '#present_value'
-  - '#risk_management'
-  - '#swaps'
-  - '#yield_curve'
+  - bonds
+  - fixed_income
+  - market_risk
+  - pv_valuation
+  - swaps
+aliases:
+  - Bond and Swap Guide
+  - Fixed Income Markets
+  - Practical Guide
+key_concepts:
+  - Bond market overview
+  - Fixed income markets
+  - Mark-to-market valuation
+  - Present value (PV)
+  - Swap market introduction
 ---
+
 # A PRACTICAL GUIDE TO BONDS AND SWAPS  
 
 Thomas S. Coleman  

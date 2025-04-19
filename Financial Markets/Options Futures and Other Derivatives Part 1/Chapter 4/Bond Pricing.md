@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#bond_valuation'
-  - '#bond_yield'
-  - '#continuous_compounding'
-  - '#coupon_payments'
-  - '#par_yield'
-  - '#present_value'
-  - '#zero_rates'
+  - bond_pricing
+  - bond_yield
+  - coupon_payments
+  - present_value
+  - zero_rates
+aliases:
+  - Bond Valuation
+  - Fixed Income Pricing
+key_concepts:
+  - Bond cash flows
+  - Bond yield
+  - Coupon payments
+  - Present value calculation
+  - Zero rates
 ---
+
 # 4.6 BOND PRICING  
 
 Most bonds pay coupons to the holder periodically. The bond's principal (which is also known as its par value or face value) is paid at the end of its life. The theoretical price of a bond can be calculated as the present value of all the cash flows that will be received by the owner of the bond. Sometimes bond traders use the same discount rate for all the cash flows underlying a bond, but a more accurate approach is to use a. different zero rate for each cash flow..  

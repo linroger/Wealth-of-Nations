@@ -4,16 +4,28 @@ source:
   https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp
 description: Over-the-counter derivatives are those traded off of major exchanges.
 tags:
-  - '#exchange_traded'
-  - '#financial_contract'
-  - '#forward_contract'
-  - '#futures_contract'
-  - '#otc_derivative'
-  - '#payer_swaption'
-  - '#receiver_swaption'
-  - '#swaption'
-  - '#underlying_asset'
+  - credit_risk
+  - derivatives_market
+  - exchange_traded
+  - financial_contracts
+  - forward_contracts
+  - futures_contracts
+  - otc_derivatives
+  - over_the_counter
+  - swaptions
+aliases:
+  - OTC
+  - OTC derivative
+  - swaption
+key_concepts:
+  - Customized financial contracts
+  - Forward vs futures contracts
+  - OTC derivative financial contract
+  - OTC not exchange traded
+  - 'Swaption: swap option'
 ---
+
+
 ## What Is an Over-the-Counter (OTC) Derivative?
 
 An over-the-counter (OTC) derivative is a financial contract that does not trade on an asset exchange, and which can be tailored to each party's needs.

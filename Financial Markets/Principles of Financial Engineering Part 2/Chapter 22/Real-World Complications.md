@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#base_correlation'
-  - '#cds_spreads'
-  - '#compound_correlation'
-  - '#dispersion_effect'
-  - '#equity_tranche'
-  - '#mezzanine_tranche'
-  - '#senior_tranche'
-  - '#time_effect'
-  - '#tranche_spreads'
+  - base_correlation
+  - dispersion_effect
+  - real_world_complications
+  - time_effect
+  - tranche_spreads
+aliases:
+  - CDS spreads
+  - Dispersion
+  - Real-world trading
+  - Tranche valuation
+key_concepts:
+  - Base correlation approach
+  - Dispersion effect on valuation
+  - Implied compound correlation
+  - Model tranche spreads
+  - Time to maturity impact
 ---
+
 # 22.6 REAL-WORLD COMPLICATIONS  
 
 The discussion of how to model and value tranche spreads has been a very simplified one. Realworld trading has several complications and also requires further modeling effort. Several additional questions also need to be addressed. We briefly discuss them below..  

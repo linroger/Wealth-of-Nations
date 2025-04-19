@@ -1,23 +1,24 @@
 ---
-aliases:
-  - Lecture 6-Leverage
-  - Tail Risk
-  - Volatility Products.md
-  - Lecture 6-Leverage
-  - Volatility Products
 title: Lecture 6-Leverage,  Tail Risk,  Volatility Products
 tags:
-  - '#hedging_strategies'
-  - '#leverage'
-  - '#leveraged_etfs'
-  - '#margin_loans'
-  - '#options_strategies'
-  - '#risk_parity_strategy'
-  - '#tail_risk'
-  - '#vix_futures'
-  - '#volatility'
-  - '#volatility_products'
+  - leveraged_portfolio
+  - portfolio_volatility
+  - risk_parity_strategy
+  - tail_risk
+  - volatility_products
+aliases:
+  - Lecture 6
+  - Leverage
+  - Risk Parity
+key_concepts:
+  - investment manager strategy
+  - portfolio leverage calculation
+  - portfolio variance formula
+  - risk parity portfolio
+  - risky asset allocation
+  - short position impact
 ---
+
 # Lecture 6-Leverage,  Tail Risk,  Volatility Products
 
 Optimal [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] models may sometimes recommend allocations in which risky assets account for more than $100 \%$ of the total wealth invested in the portfolio. The excess over and above $100 \%$ needs to be financed with debt,  either explicitly so,  or implicitly by taking positions in derivative securities to get the level of risk exposure that the [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] model prescribes.

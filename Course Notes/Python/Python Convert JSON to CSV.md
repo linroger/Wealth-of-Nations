@@ -3,15 +3,23 @@ title: Python Convert JSON to CSV
 source: https://blog.enterprisedna.co/python-convert-json-to-csv/
 description:
 tags:
-  - '#api_data'
-  - '#csv_file'
-  - '#data_analysis'
-  - '#data_conversion'
-  - '#json_data'
-  - '#json_to_csv'
-  - '#nested_json'
-  - '#python_pandas'
+  - csv_conversion
+  - data_analysis
+  - json_to_csv
+  - pandas
+  - python
+aliases:
+  - CSV conversion
+  - JSON conversion
+  - JSON to CSV
+key_concepts:
+  - CSV file format
+  - Convert JSON to CSV
+  - JSON file format
+  - Pandas library usage
+  - Python data conversion
 ---
+
 # Python Convert JSON to CSV
 
 JSON and CSV are widely used file formats for storing and exchanging data. JSON is a lightweight format that’s readable by humans and is used for transmitting data between servers and web applications,  while CSV is a plain-text format that represents tabular data with comma-separated values,  often employed for data storage in spreadsheets and databases.

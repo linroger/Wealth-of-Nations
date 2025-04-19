@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#algorithmic_trading'
-  - '#auctions'
-  - '#day_trading'
-  - '#financial_markets'
-  - '#financialization'
-  - '#liquidity'
-  - '#market_microstructure'
-  - '#order_types'
-  - '#securities_trading'
-  - '#trading_strategies'
+  - buy_side_traders
+  - market_mechanics
+  - securities_trading
+  - sell_side_traders
+  - trading_vs_investing
+aliases:
+  - Securities Markets
+  - Trading Basics
+key_concepts:
+  - buy side
+  - investment decision
+  - sell side
+  - trade action
+  - trading profits
 ---
+
 # Introduction to Securities Trading and Markets  
 
 # 1.1 TRADES, TRADERS, SECURITIES, AND MARKETS  

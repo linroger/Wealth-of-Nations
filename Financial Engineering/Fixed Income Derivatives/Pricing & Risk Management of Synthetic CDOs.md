@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cdo_pricing'
-  - '#cdo_risk_management'
-  - '#credit_risk'
-  - '#default_correlation'
-  - '#gaussian_copula'
-  - '#mezzanine_tranches'
-  - '#monte_carlo_simulation'
-  - '#synthetic_cdos'
-  - '#tranche_sensitivity'
+  - credit_risk
+  - default_modeling
+  - risk_management
+  - synthetic_cdos
+  - tranche_pricing
+aliases:
+  - CDO Risk Analysis
+  - Synthetic CDO Pricing
+  - Synthetic Collateralized Debt Obligations
+key_concepts:
+  - Joint default distribution
+  - Model parameter sensitivities
+  - Reference asset correlations
+  - Synthetic CDO structures
+  - Tranche expected losses
 ---
+
 # Pricing & Risk Management of Synthetic CDOs
 
 # Abstract

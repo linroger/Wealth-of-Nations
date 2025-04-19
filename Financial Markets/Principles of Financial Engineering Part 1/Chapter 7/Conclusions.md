@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#cash_flow_engineering'
-  - '#commodity_markets'
-  - '#currency_pegging'
-  - '#dynamic_replication'
-  - '#futures_contracts'
-  - '#hedge_funds'
-  - '#hong_kong_monetary_authority_hkma'
-  - '#synthetic_replication'
+  - cash_flow_engineering
+  - commodity_markets
+  - commodity_swaps
+  - gfc_impact
+  - hedge_fund_industry
+aliases:
+  - Chapter 7.6
+  - Commodity Markets
+  - Conclusions
+  - Hedge Funds
+key_concepts:
+  - cash flow engineering
+  - commodity futures position
+  - commodity swap examples
+  - hedge fund industry
+  - recent regulation and GFC
 ---
+
 # 7.6 CONCLUSIONS  
 
 In this chapter, we extended the application of cash flow engineering techniques to commodity markets. As we saw storage costs and quality and grade differences in commodities make the financial engineering for commodities more complex than for homogeneous assets such as currencies, for example. We used the contractual equation for a commodity futures to derive a synthetic commodity futures position and applied it to a real-world cash and carry arbitrage example in the heating oil market. Commodity swap engineering is similar to that for other assets such as equities and we provided examples of different types of commodity swaps. Just as the commodity market has undergone a financialization with the inflow of investor capital and new investment products such as commodity. ETNs and ETFs, the hedge fund industry has significantly changed in recent years and undergone an. institutionalization. We discussed how recent regulation and the GFC have significantly transformed the hedge fund industry.  

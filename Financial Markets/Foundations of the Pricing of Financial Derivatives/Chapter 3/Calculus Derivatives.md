@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#black_scholes_merton'
-  - '#bond_valuation'
-  - '#calculus_derivatives'
-  - '#chain_rule'
-  - '#first_derivative'
-  - '#partial_derivatives'
-  - '#risk_management'
-  - '#taylor_series_expansion'
-  - '#total_differential'
+  - algebraic_functions
+  - calculus
+  - derivatives
+  - exponential_functions
+  - logarithmic_functions
+aliases:
+  - Calculus
+  - Derivatives
+  - First Derivative
+  - Rate of Change
+key_concepts:
+  - Bond value derivative
+  - Derivatives of algebraic functions
+  - Derivatives of exponential functions
+  - Derivatives of logarithmic functions
+  - Derivatives of trigonometric functions
+  - First derivative definition
+  - Function rate of change
 ---
+
 # 3.5 CALCULUS DERIVATIVES
 
 The derivative of a function describes the rate at which the function changes.2 The derivative is a function that is obtained (hence derived) from the original function. Given a function, $y=f(x)$ , the first derivative is denoted as $d y/d x$ Or $f^{\prime}(x)$ and is formally defined as

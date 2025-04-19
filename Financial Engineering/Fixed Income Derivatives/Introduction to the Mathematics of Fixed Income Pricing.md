@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage_opportunity'
-  - '#arbitrage_pricing_theory'
-  - '#coupon_bond'
-  - '#discount_bond'
-  - '#fixed_income_pricing'
-  - '#forward_rate'
-  - '#mathematical_finance'
-  - '#risk_neutral_valuation'
-  - '#spot_rate'
-  - '#yield_to_maturity'
+  - arbitrage_pricing
+  - fixed_income
+  - interest_rates
+  - mathematical_finance
+  - risk_neutral
+aliases:
+  - Fixed Income Math
+  - Fixed Income Pricing
+key_concepts:
+  - arbitrage pricing theory
+  - discount bond maturity
+  - fixed income pricing
+  - risk neutral valuation
+  - stochastic variables calculus
 ---
+
 # [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]] to the Mathematics of Fixed Income Pricing  
   
 # [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  

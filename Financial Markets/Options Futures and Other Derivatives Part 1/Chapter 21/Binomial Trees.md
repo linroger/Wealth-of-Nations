@@ -1,16 +1,26 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_trees'
-  - '#delta'
-  - '#gamma'
-  - '#option_greeks'
-  - '#option_valuation'
-  - '#rho'
-  - '#risk_neutral_valuation'
-  - '#theta'
-  - '#vega'
+  - american_options
+  - asset_pricing
+  - binomial_tree
+  - european_options
+  - risk_neutral_valuation
+aliases:
+  - Binomial Model
+  - CRR Model
+  - Cox-Ross-Rubinstein
+key_concepts:
+  - American option valuation
+  - Asset price movements
+  - Binomial tree valuation
+  - European option valuation
+  - Growth factor
+  - Mean and variance
+  - Risk-free interest rate
+  - Risk-neutral valuation
+  - Up and down movements
 ---
+
 # 21.1 BINOMIAL TREES  
 
 Binomial trees were introduced in Chapter 13. They can be used to value either.   

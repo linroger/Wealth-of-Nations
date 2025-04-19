@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#arithmetic_brownian_motion'
-  - '#black_scholes_merton_model'
-  - '#dividends'
-  - '#european_call_option'
-  - '#european_put_option'
-  - '#option_pricing_formula'
-  - '#partial_differential_equation'
+  - black_scholes_merton_model
+  - dividends
+  - european_option_pricing
+  - option_pricing_formula
+  - partial_differential_equation
+aliases:
+  - BSM Model
+  - Black-Scholes
+  - Option Pricing
+key_concepts:
+  - Binary options
+  - European call option
+  - European put option
+  - Option pricing model
+  - Partial differential equation
 ---
+
 # CHAPTER 13 Deriving the Black-Scholes-Merton Model
 
 245

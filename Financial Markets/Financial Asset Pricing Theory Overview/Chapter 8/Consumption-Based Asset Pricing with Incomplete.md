@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#asset_pricing_models'
-  - '#consumption_based_asset_pricing'
-  - '#consumption_smoothing'
-  - '#crra_utility'
-  - '#equity_premium_puzzle'
-  - '#heterogeneous_agents'
-  - '#incomplete_markets'
-  - '#labor_income_risk'
-  - '#risk_aversion'
-  - '#state_price_deflator'
+  - equity_premium_puzzle
+  - incomplete_markets
+  - labor_income_risk
+  - state_price_deflator
+aliases:
+  - Consumption-based asset pricing
+  - Incomplete markets
+  - Labor income risk
+key_concepts:
+  - Equity premium puzzle
+  - Incomplete markets evidence
+  - Labor income shocks
+  - State-price deflator
+  - Time-additive CRRA utility
 ---
+
 # 8.9 Consumption-based asset pricing with incomplete markets  
 
 # 8.9.1 Evidence of incomplete markets  

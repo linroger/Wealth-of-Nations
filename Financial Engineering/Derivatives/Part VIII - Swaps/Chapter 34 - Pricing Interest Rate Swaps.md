@@ -1,3 +1,21 @@
+---
+tags:
+  - arbitrage_arguments
+  - floating_rate_note
+  - interest_rate_swaps
+  - replication_portfolio
+  - term_structure
+aliases:
+  - FRN Valuation
+  - IRS Pricing
+  - Swap Valuation
+key_concepts:
+  - FRN market value
+  - FRN valuation methods
+  - Replication portfolio
+  - Swap cash flows
+  - Swap rate calculation
+---
 # Pricing Interest Rate Swaps  
 
 # Aims  

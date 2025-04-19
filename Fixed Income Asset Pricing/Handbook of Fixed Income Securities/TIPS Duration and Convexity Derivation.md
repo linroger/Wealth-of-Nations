@@ -2,16 +2,23 @@
 title: Untitled
 cssclasses: academia
 tags:
-  - '#bond_pricing_formulas'
-  - '#breakeven_inflation'
-  - '#convexity_calculation'
-  - '#duration_calculation'
-  - '#hedging_strategies'
-  - '#inflation_linked_bonds'
-  - '#nominal_bonds'
-  - '#real_yield'
-  - '#tips_duration_convexity'
+  - convexity
+  - inflation_linked_bonds
+  - nominal_bonds
+  - real_yield
+  - tips_duration
+aliases:
+  - Inflation-Linked Bonds
+  - Nominal Bonds
+  - TIPS
+key_concepts:
+  - Bond pricing formulas
+  - Continuous compounding
+  - Duration definition
+  - Inflation index factor
+  - Real vs nominal yield
 ---
+
 # TIPS Duration and Convexity Derivation
 Below is a greatly expanded and highly detailed step-by-step derivation of the key formulas for pricing, duration, and convexity of both nominal and inflation-linked (TIPS) bonds, mirroring the style of specificity you requested. We will show how each expression is derived with a focus on “showing all the work.” Where relevant, we will also provide commentary on underlying assumptions (e.g., continuous compounding, the concept of real vs. nominal yield, the inflation index factor).
 Part 1: Preliminaries and Notation

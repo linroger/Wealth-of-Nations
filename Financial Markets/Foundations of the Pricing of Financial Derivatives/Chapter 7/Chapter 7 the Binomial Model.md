@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#arbitrage'
-  - '#binomial_framework'
-  - '#binomial_model'
-  - '#early_exercise'
-  - '#multiperiod_model'
-  - '#one_period_binomial_model'
-  - '#pascal_triangle'
-  - '#path_dependence'
-  - '#path_independence'
+  - american_options
+  - binomial_model
+  - dividends
+  - option_pricing
+  - path_dependence
+aliases:
+  - BOPM
+  - Binomial Option Pricing
+  - Binomial Tree
+key_concepts:
+  - Early exercise
+  - Multiperiod model
+  - One-period binomial model
+  - Path independence
+  - Recombination
 ---
+
 # CHAPTER 7 The Binomial Model
 
 143

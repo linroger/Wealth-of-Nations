@@ -1,19 +1,37 @@
 ---
 title: Inflationary Depressions and Currency Crises
-aliases: []
 cssclasses: academia
 tags:
-  - '#capital_outflows'
-  - '#central_banks'
-  - '#currency_crises'
-  - '#debt_dynamics'
-  - '#debt_management'
-  - '#economic_relationships'
-  - '#hyperinflation'
-  - '#inflationary_depressions'
-  - '#monetary_policy'
-  - '#war_economies'
+  - capital_outflows
+  - central_banks
+  - currency_crisis
+  - currency_weakness
+  - debt_dynamics
+  - economic_cycles
+  - inflationary_depression
+  - interest_rates
+  - monetary_policy
+  - weimar_republic
+aliases:
+  - Currency Depreciation
+  - Debt Cycle
+  - Inflationary Debt Crisis
+  - Weimar Germany
+key_concepts:
+  - Bubble emergence dynamics
+  - Capital outflow vulnerability
+  - Central bank currency creation
+  - Currency and asset dynamics
+  - Currency and debt functions
+  - Currency weakness impact
+  - Debt as asset/liability
+  - Healthy economic upswing
+  - Inflation vs interest rates
+  - Inflationary debt crisis
+  - Inflationary debt cycle phases
+  - Weimar Republic case study
 ---
+
 # Inflationary Depressions and Currency Crises
 
 ## Introduction

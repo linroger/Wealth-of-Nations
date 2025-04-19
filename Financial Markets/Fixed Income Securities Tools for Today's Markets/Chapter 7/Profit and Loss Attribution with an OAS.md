@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#factor_risk'
-  - '#oas_attribution'
-  - '#oas_convergence'
-  - '#one_factor_model'
-  - '#profit_and_loss_attribution'
-  - '#relative_value_trading'
-  - '#risk_neutral_process'
-  - '#taylor_approximation'
-  - '#term_structure_models'
+  - carry_roll_down
+  - oas
+  - profit_loss_attribution
+  - relative_value_trading
+  - term_structure_models
+aliases:
+  - OAS
+  - P&L attribution
+  - Spread change
+key_concepts:
+  - Carry-roll-down
+  - OAS definition
+  - One-factor model
+  - P&L attribution
+  - Rate changes
+  - Risk-neutral process
+  - Spread change
+  - Taylor approximation
 ---
+
 # 7.7 PROFIT AND LOSS ATTRIBUTION WITH AN OAS  
 
 Chapter 3 introduced profit and loss $(\mathrm{P}\&\mathrm{L})$ attribution. This section gives a mathematical description of attribution in the context of term structure models and of securities that trade with an OAS. While the notation of this chapter is quite formal, the presentation remains intuitive.  

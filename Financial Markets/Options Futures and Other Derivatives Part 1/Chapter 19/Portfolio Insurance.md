@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#delta_hedging'
-  - '#index_futures'
-  - '#market_volatility'
-  - '#option_pricing'
-  - '#portfolio_insurance'
-  - '#portfolio_management'
-  - '#risk_management'
-  - '#synthetic_options'
+  - delta_hedging
+  - option_pricing
+  - portfolio_insurance
+  - risk_management
+  - synthetic_option
+aliases:
+  - Dynamic Hedging
+  - Portfolio Protection
+  - Synthetic Put
+key_concepts:
+  - Delta of the position
+  - Portfolio manager strategy
+  - Put option on portfolio
+  - Stock portfolio declines
+  - Synthetic option creation
 ---
+
 # 19.13 PORTFOLIO INSURANCE  
 
 A portfolio manager is often interested in acquiring a put option on his or her portfolio. This provides protection against market declines while preserving the potential for a gain if the market does well. One approach (discussed in Section 17.1) is to buy put options on a market index such as the S&P 500. An alternative is to create the options synthetically.  

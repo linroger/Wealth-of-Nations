@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#european_swaption'
-  - '#forward_swap'
-  - '#interest_rate_swaps'
-  - '#lognormal_swap_rate_model'
-  - '#payer_swap'
-  - '#plain_vanilla_swap'
-  - '#receiver_swap'
-  - '#swap_martingale_measure'
-  - '#swap_rate'
-  - '#swaptions'
+  - asset_transformation
+  - fixed_rate
+  - floating_rate
+  - hedging_interest_rate_risk
+  - interest_rate_swaps
+  - liability_transformation
+  - plain_vanilla_swap
+aliases:
+  - IRS
+  - Interest Rate Swap
+  - Swap Valuation
+key_concepts:
+  - Asset transformation
+  - Comparative advantages
+  - Fixed vs. floating rates
+  - Hedging interest rate risk
+  - Interest rate swap
+  - Liability transformation
 ---
+
 # 12.4 Interest rate swaps and swaptions  
 
 # 12.4.1 Interest rate swaps  

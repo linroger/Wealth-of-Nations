@@ -1,24 +1,30 @@
 ---
 cssclasses: academia
-aliases:
-  - China's Monetary Policy
 description: Here is how the Central Bank of China manages its currency rates and
   the money supply.
 source: 
   https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
 title: China's Monetary Policy
 tags:
-  - '#china_monetary_policy'
-  - '#currency_manipulation'
-  - '#discount_rate'
-  - '#export_driven_economy'
-  - '#forex_rates'
-  - '#money_supply_china'
-  - '#pboc'
-  - '#reserve_ratio'
-  - '#sterilization'
-  - '#yuan_renminbi'
+  - chinese_economy
+  - discount_rate
+  - forex_rates
+  - money_supply
+  - pboc
+  - reserve_ratio
+  - yuan
+aliases:
+  - China's monetary policy
+  - PBOC
+  - People's Bank of China
+key_concepts:
+  - Export-driven economy
+  - Manage forex rates
+  - PBOC controls money supply
+  - Printing currency
+  - Reserve ratio changes
 ---
+
 # China's Monetary Policy
 
 In China,  the [[[People's Bank of China (PBoC)|People's Bank of China]]](https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp) (PBOC) manages the money supply by printing currency,  changing the reserve ratio,  and adjusting the discount rate,  among other methods.

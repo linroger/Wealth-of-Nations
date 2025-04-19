@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_trees'
-  - '#black_scholes_merton'
-  - '#delta'
-  - '#deriva_gem'
-  - '#one_step_binomial_model'
-  - '#option_pricing'
-  - '#risk_neutral_valuation'
-  - '#two_step_binomial_trees'
+  - american_options
+  - binomial_tree
+  - delta_hedging
+  - option_pricing
+  - risk_neutral_valuation
+aliases:
+  - Binomial Model
+  - Binomial Option Pricing
+  - CRR Model
+key_concepts:
+  - American option pricing
+  - Delta hedging
+  - One-step binomial model
+  - Risk-neutral valuation
+  - Two-step binomial trees
 ---
+
 # Chapter 13. Binomial trees . 266  
 
 13.1 A one-step binomial model and a no-arbitrage argument .266   

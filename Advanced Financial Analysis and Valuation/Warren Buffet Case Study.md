@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#acquisition_strategy'
-  - '#berkshire_hathaway'
-  - '#financial_statements'
-  - '#intrinsic_value'
-  - '#investment_philosophy'
-  - '#market_inefficiencies'
-  - '#mergers_and_acquisitions'
-  - '#precision_castparts'
-  - '#value_investing'
-  - '#warren_buffett'
+  - acquisition
+  - berkshire_hathaway
+  - precision_castparts
+  - value_investing
+  - warren_buffett
+aliases:
+  - Buffett
+  - PCP
+key_concepts:
+  - Berkshire Hathaway acquisition
+  - Berkshire Hathaway history
+  - Buffett's investment philosophy
+  - PCP share price
+  - Value-based investing
 ---
+
 # Warren E. Buffett, 2015  
 
 On August 10, 2015, Warren E. Buffett, chair and CEO of Berkshire Hathaway Inc., announced that Berkshire Hathaway would acquire the aerospace-parts supplier Precision Castparts Corporation (PCP). In. Buffett's largest deal ever, Berkshire would purchase all of PCP's outstanding shares for. $\$235$ per share in cash, $21\%$ premium over the trading price a day earlier. The bid valued PCP's equity at $\$32.3$ billion.1 The total transaction value would be $\$37.2$ billion, including assuming PCP's outstanding debt---this was what analysts. called the "enterprise value.' "I've admired PCP's operation for a long time. For good reasons, it is the supplier of choice for the world's aerospace industry, one of the largest sources of American exports,'2 Buffett said. After the announcement, Berkshire Hathaway's Class $\mathrm{A}^{3}$ shares moved down $1.1\%$ at market open, a loss in market value of $\$4.05$ billion.4 PCP's share price jumped $19.2\%$ at the news;5 the S&P 500 Composite Index opened up $0.2\%$ . Exhibit 1 illustrates the recent share-price performance for Berkshire Hathaway, PCP, and. the S&P 500 Index. Exhibit 2 presents recent consolidated financial statements for the firm.  

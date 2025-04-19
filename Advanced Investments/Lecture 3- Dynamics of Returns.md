@@ -1,17 +1,24 @@
 ---
-aliases:
 title: Lecture 3-Dynamics of Returns
 tags:
-  - '#conditional_distribution'
-  - '#logarithmic_returns'
-  - '#macro_market_inefficiency'
-  - '#market_timing'
-  - '#out_of_sample_prediction'
-  - '#price_dividend_ratio'
-  - '#return_predictability'
-  - '#sentiment_analysis'
-  - '#volatility_timing'
+  - conditional_returns
+  - lecture_notes
+  - market_timing
+  - stock_returns
+  - volatility
+aliases:
+  - Dynamics of Returns
+  - Lecture 3
+  - Lecture 3 Notes
+key_concepts:
+  - conditional distribution of returns
+  - optimal allocation formula
+  - statistical model of returns
+  - time-varying expected returns
+  - unconditional distribution of returns
 ---
+
+
 # Lecture 3-Dynamics of Returns
 
 [[Lecture 3- Dynamics of Returns|return dynamics]]

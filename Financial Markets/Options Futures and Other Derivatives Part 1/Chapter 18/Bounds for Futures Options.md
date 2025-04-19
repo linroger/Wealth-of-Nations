@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#european_options'
-  - '#futures_options'
-  - '#in_the_money_options'
-  - '#option_pricing_bounds'
-  - '#out_of_the_money_options'
-  - '#put_call_parity'
+  - american_options
+  - european_options
+  - futures_options
+  - in_the_money
+  - put_call_parity
+aliases:
+  - Bounds
+  - Futures Options
+  - Option Bounds
+key_concepts:
+  - American option exercise
+  - European call option bounds
+  - European put option bounds
+  - option price lower bound
+  - put-call parity relationship
 ---
+
 # 18.5 BOUNDS FOR FUTURES OPTIONS  
 
 The put-call parity relationship in equation (18.1) provides bounds for European call and put options. Because the price of a put, $p$ , cannot be negative, it follows from equation (18.1) that  

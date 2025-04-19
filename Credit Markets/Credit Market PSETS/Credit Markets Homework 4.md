@@ -1,21 +1,31 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Homework 4
 tags:
-  - '#cds_pricing'
-  - '#credit_markets'
-  - '#cs01'
-  - '#dv01'
-  - '#hazard_rate_model'
-  - '#ir01'
-  - '#nelson_siegel_model'
-  - '#perpetual_cds'
-  - '#rec01'
-  - '#risky_bonds'
-  - '#scenario_analysis'
+  - bond_duration
+  - bond_valuation
+  - cds_pricing
+  - credit_market_homework
+  - hazard_rate_model
+  - ibm_bonds
+  - ir01
+  - risky_bonds
+  - scenario_analysis
+aliases:
+  - Bond Sensitivities
+  - Credit Markets HW4
+  - Homework 4
+  - Risky Bond Pricing
+key_concepts:
+  - Bond duration calculation
+  - Bond market data
+  - CDS hazard rate
+  - CDS-implied prices
+  - Intrinsic vs market basis
+  - Risky bond pricing
+  - Scenario IR 01
+  - Yield curve calibration
 ---
+
 # Credit Markets Homework 4
 
 This homework relies on multiple files (from previous weeks):

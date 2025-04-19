@@ -4,16 +4,29 @@ source: https://www.investopedia.com/terms/s/synthetic.asp
 description: Synthetic is the term given to financial instruments that are engineered
   to simulate other instruments while altering key characteristics.
 tags:
-  - '#cash_flow'
-  - '#collateralized_debt_obligations'
-  - '#convertible_bonds'
-  - '#financial_derivatives'
-  - '#investment_strategies'
-  - '#risk_management'
-  - '#synthetic_instruments'
-  - '#synthetic_positions'
-  - '#synthetic_products'
+  - cash_flow
+  - financial_instruments
+  - options
+  - synthetic_instruments
+  - synthetic_positions
+aliases:
+  - Synthetic Position
+  - Synthetic Product
+  - Synthetics
+key_concepts:
+  - alter key characteristics
+  - bearish trade
+  - borrowing stock and selling
+  - bullish trade
+  - create a synthetic option
+  - create synthetic short position
+  - engineered financial instruments
+  - purchasing and selling options
+  - simulate other instruments
+  - tailored cash flow patterns
 ---
+
+
 ## What Is a Synthetic?
 
 Synthetic is the term given to financial instruments that are engineered to simulate other instruments while altering key characteristics, like duration and cash flow.

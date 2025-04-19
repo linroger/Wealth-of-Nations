@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#basel_ii'
-  - '#central_clearing'
-  - '#counterparty_risk'
-  - '#credit_valuation_adjustments'
-  - '#cva'
-  - '#dva'
-  - '#financial_crisis'
-  - '#goldman_sachs'
-  - '#mark_to_market_losses'
-  - '#otc_derivatives'
+  - counterparty_risk
+  - credit_risk
+  - cva
+  - dva
+  - gfc
+  - market_risk
+  - otc_derivatives
+aliases:
+  - Counterparty Default Risk
+  - Credit Valuation Adjustment
+  - Debit Valuation Adjustment
+key_concepts:
+  - CVA losses during crisis
+  - Counterparty default on payments
+  - DVA gains for banks
+  - OTC derivatives market size
+  - Uncollateralized derivatives transactions
 ---
+
 # 24.2 COUNTERPARTY RISK  
 
 Counterparty risk refers to the risk that a counterparty entering a transaction may default and not honor its payment obligations. In Chapter 2, we discussed how central clearing and CCPs can mitigate the effects of counterparty risk. Therefore, the counterparty risk associated with exchangetraded derivatives, which are always centrally cleared with CCPs, and with centrally cleared OTC transactions is remote since a clearing house guarantees the cash flows promised by the derivative to the counterparties.? However, the majority of derivatives transactions are not centrally cleared which makes counterparty risk adjustments widespread and economically important. How large is the noncentrally cleared derivatives market that requires counterparty risk adjustments? According to recent BIS 2013 Triannual Survey, the OTC segment accounts for around. $90\%$ of the $\$750$ trillion derivatives market in terms of notional amount outstanding. Moreover, only approximately onethird of the OTC's market's notional is cleared via CCPs. Based on the above numbers, we estimate that roughly $\$440$ trillion of the derivatives is not centrally cleared based on 2013 numbers.  

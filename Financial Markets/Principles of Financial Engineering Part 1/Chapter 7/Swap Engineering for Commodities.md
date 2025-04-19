@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#commodity_swaps'
-  - '#crack_spread_swap'
-  - '#dalian_commodity_exchange'
-  - '#financial_engineering'
-  - '#futures_curve'
-  - '#hedging'
-  - '#iron_ore_swaps'
-  - '#oil_swaps'
-  - '#singapore_exchange'
+  - cash_flow_engineering
+  - commodity_markets
+  - commodity_swaps
+  - equity_swaps
+  - oil_swaps
+aliases:
+  - Commodity Swap
+  - Oil Swap
+  - Swap Engineering
+key_concepts:
+  - Commodity swap replication
+  - Commodity swap structure
+  - Fixed vs floating payments
+  - Japanese oil companies
+  - Refinery crude oil hedging
 ---
+
 # 7.4 SWAP ENGINEERING FOR COMMODITIES  
 
 The overall structure of commodity swaps is similar to equity swaps, which we mentioned in Chapter 4 and discuss in greater detail in Chapter 18 on cash flow engineering applications in.  

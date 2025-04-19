@@ -1,3 +1,21 @@
+---
+tags:
+  - currency_swaps
+  - foreign_exchange
+  - fxed_fxed
+  - interest_rates
+  - usd_euro
+aliases:
+  - Currency Swap
+  - Fixed-Fixed Currency Swap
+  - USD-Euro Swap
+key_concepts:
+  - Euro liability
+  - USD loan
+  - fixed interest rate
+  - foreign exchange exposure
+  - plain vanilla currency swap
+---
 # Currency Swaps  
 
 # Aims  

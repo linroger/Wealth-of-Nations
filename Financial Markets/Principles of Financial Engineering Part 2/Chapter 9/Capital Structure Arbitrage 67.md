@@ -1,12 +1,20 @@
 ---
 tags:
-  - '#bond_mispricing'
-  - '#capital_structure_arbitrage'
-  - '#cds_mispricing'
-  - '#equity_mispricing'
-  - '#merton_model'
-  - '#volatility_mispricing'
+  - arbitrage
+  - capital_structure
+  - merton_model
+  - mispricing
+  - volatility
+aliases:
+  - Capital Structure Arbitrage
+  - Capital Structure Trades
+key_concepts:
+  - Capital structure arbitrage
+  - Merton model signals
+  - Mispriced bonds/CDS
+  - Mispriced volatility
 ---
+
 # 9.5 Capital Structure Arbitrage 67:  
 
 19.5.1 Examples of Capital Structure Arbitrage Trades.. . 673   

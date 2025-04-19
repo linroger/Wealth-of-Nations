@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#basis_points'
-  - '#credit_risk'
-  - '#credit_spread'
-  - '#federal_funds_rate'
-  - '#interest_rates'
-  - '#overnight_rates'
-  - '#repo_rates'
-  - '#secured_overnight_financing_rate_sofr'
-  - '#treasury_rates'
+  - credit_risk
+  - interest_rates
+  - overnight_rates
+  - repo_rates
+  - treasury_rates
+aliases:
+  - Interest Rate Types
+  - Types of Interest Rates
+key_concepts:
+  - borrower promises lender
+  - 'credit risk: default'
+  - credit spread
+  - federal funds rate
+  - repo (repurchase agreement)
+  - treasury bills and bonds
 ---
+
 # 4.1 TYPES OF RATES  
 
 An interest rate in a particular situation defines the amount of money a borrower promises to pay the lender. For any given currency, many different types of interest rates are regularly quoted. These include mortgage rates, deposit rates, prime borrowing rates, and so on. One important factor influencing interest rates is credit risk. This is the risk that there will be a default by the borrower of funds, so that the interest and principal are not paid to the lender as promised. The higher the credit risk, the higher the interest rate that is promised by the borrower. The extra amount added to a risk-free interest rate to allow for credit risk is known as a credit spread.  

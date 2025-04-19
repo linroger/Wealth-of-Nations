@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#bank_default'
-  - '#collateral'
-  - '#counterparty_default'
-  - '#credit_valuation_adjustment'
-  - '#cva_dva'
-  - '#debit_valuation_adjustment'
-  - '#default_risk'
-  - '#derivatives_portfolio'
-  - '#master_agreement'
-  - '#no_default_value'
+  - counterparty_risk
+  - credit_risk
+  - cva_dva
+  - default_risk
+  - derivative_valuation
+  - risk_management
+aliases:
+  - CVA and DVA
+  - Credit Valuation Adjustment
+  - Debit Valuation Adjustment
+key_concepts:
+  - Counterparty default
+  - Credit valuation adjustment
+  - Early termination
+  - Expected loss calculation
+  - No-default value
 ---
+
 # 9.1 CVA AND DVA  
 
 Most of this book is concerned with determining the no-default value of derivatives, that is, the value assuming that neither of the two sides will default. CVA and DVA are adjustments to the no-default value reflecting the possibility of a default by one of the two sides. Here we provide an overview of them. More details on their calculation are in Chapter 24.  

@@ -1,16 +1,27 @@
 ---
 tags:
-  - '#arbitrageurs'
-  - '#convertible_arbitrage'
-  - '#derivatives_markets'
-  - '#hedge_funds'
-  - '#hedgers'
-  - '#investment_strategies'
-  - '#merger_arbitrage'
-  - '#risk_management'
-  - '#speculators'
-  - '#types_of_traders'
+  - arbitrageurs
+  - derivatives_markets
+  - hedge_funds
+  - hedgers
+  - speculators
+  - trading_strategies
+aliases:
+  - Derivative Market Participants
+  - Types of Derivative Traders
+key_concepts:
+  - Arbitrageurs lock in profit
+  - Convertible Arbitrage strategy
+  - Distressed Securities strategy
+  - Emerging Markets strategy
+  - Global Macro strategy
+  - Hedge funds use derivatives
+  - Hedgers reduce market risk
+  - Long/Short Equity strategy
+  - Merger Arbitrage strategy
+  - Speculators bet on direction
 ---
+
 # 1.6 TYPES OF TRADERS  
 
 Derivatives markets have been outstandingly successful. The main reason is that they. have attracted many different types of traders and have a great deal of liquidity. When a trader wants to take one side of a contract, there is usually no problem in finding. someone who is prepared to take the other side..  

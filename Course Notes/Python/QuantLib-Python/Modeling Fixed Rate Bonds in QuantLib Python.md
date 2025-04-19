@@ -4,14 +4,22 @@ source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
 description: This post will walk through an example of modeling fixed rate bonds using
   QuantLib Python.
 tags:
-  - '#bond_valuation'
-  - '#coupon_bonds'
-  - '#fixed_rate_bonds'
-  - '#quantitative_finance'
-  - '#quantlib_python'
-  - '#spot_rates'
-  - '#term_structure'
+  - bond_valuation
+  - coupon_bond
+  - fixed_rate_bond
+  - quantlib_python
+  - term_structure
+aliases:
+  - Bond Modeling
+  - QuantLib Example
+key_concepts:
+  - Bond fair value
+  - Coupon payments
+  - Fixed rate bonds
+  - QuantLib Python modeling
+  - Spot rates
 ---
+
 # Modeling Fixed Rate Bonds in QuantLib Python
 
 This post will walk through an example of modeling fixed rate bonds using QuantLib Python.

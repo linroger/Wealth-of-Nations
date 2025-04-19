@@ -1,15 +1,20 @@
 ---
 tags:
-  - '#calibrating_instruments'
-  - '#european_swap_options'
-  - '#goodness_of_fit'
-  - '#implied_volatilities'
-  - '#levenberg_marquardt_procedure'
-  - '#model_calibration'
-  - '#penalty_function'
-  - '#volatility_parameters'
-  - '#volatility_term_structure'
+  - calibrating_instruments
+  - calibration
+  - goodness_of_fit
+  - levenberg_marquardt
+  - volatility_parameters
+aliases:
+  - model calibration
+key_concepts:
+  - Bermudan swap option
+  - Levenberg-Marquardt procedure
+  - calibrating instruments
+  - goodness-of-fit measure
+  - volatility parameter determination
 ---
+
 # 32.6 CALIBRATION  
 
 Up to now, we have assumed that the volatility parameters. $a$ and $\sigma$ are known. We now discuss how they are determined. This is known as calibrating the model.  

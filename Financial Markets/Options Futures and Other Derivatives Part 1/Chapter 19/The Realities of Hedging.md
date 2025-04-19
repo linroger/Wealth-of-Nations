@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#delta_neutrality'
-  - '#dynamic_hedging'
-  - '#economies_of_scale'
-  - '#gamma_vega_hedging'
-  - '#hedging_realities'
-  - '#portfolio_rebalancing'
-  - '#trading_costs'
+  - delta_hedging
+  - derivative_trading
+  - dynamic_hedging
+  - hedging_strategies
+  - trading_costs
+aliases:
+  - Hedging
+  - Realities of Hedging
+key_concepts:
+  - Delta zero
+  - Economies of scale
+  - Gamma and vega
+  - Portfolio rebalancing
+  - Trading derivatives
 ---
+
 # 19.10 THE REALITIES OF HEDGING  
 
 In an ideal world, traders working for financial institutions would be able to rebalance their portfolios very frequently in order to maintain all Greeks equal to zero. In practice, this is not possible. When managing a large portfolio dependent on a single. underlying asset, traders usually make delta zero, or close to zero, at least once a day by trading the underlying asset. Unfortunately, a zero gamma and a zero vega are less easy. to achieve because it is difficult to find options or other nonlinear derivatives that can be traded in the volume required at competitive prices. Business Snapshot 19.1 provides a discussion of how dynamic hedging is organized at financial institutions..  

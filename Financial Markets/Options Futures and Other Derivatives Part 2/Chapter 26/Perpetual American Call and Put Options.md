@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#boundary_conditions'
-  - '#call_options'
-  - '#differential_equation'
-  - '#optimal_exercise_price'
-  - '#option_pricing'
-  - '#perpetual_american_options'
-  - '#put_options'
-  - '#strike_price'
+  - american_options
+  - call_options
+  - option_pricing
+  - perpetual_options
+  - put_options
+aliases:
+  - American Options
+  - Perpetual Options
+key_concepts:
+  - American call valuation
+  - American put valuation
+  - Optimal exercise price
+  - Perpetual call option value
+  - Perpetual put option value
 ---
+
 # 26.2  PERPETUAL AMERICAN CALL AND PUT OPTIONS  
 
 The differential equation that must be satisfied by the price of a derivative when there is a dividend at rate $q$ is equation (17.6):  

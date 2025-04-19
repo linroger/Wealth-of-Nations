@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#bond_issuance'
-  - '#conversion_factor'
-  - '#credit_spread'
-  - '#cross_currency_basis'
-  - '#currency_risk'
-  - '#discount_factor'
-  - '#fx_hedging'
-  - '#interest_rate_risk'
-  - '#issuer_choices'
-  - '#yield_curve'
+  - conversion_factor
+  - credit_spread
+  - cross_currency
+  - issuer_choices
+  - yield_curve
+aliases:
+  - Conversion Factor
+  - Issuer's Choices
+key_concepts:
+  - Conversion factor definition
+  - Credit spread impact
+  - Cross-currency basis effect
+  - Issuer's decision factors
+  - Tenor and currency
 ---
+
 # Chapter 5 Introducing the Conversion Factor
 
 Maybe you've never heard of the conversion factor.' You are in good company;. many of my colleagues had not, and it was news to me when I first investigated it a few years ago. Though it isn't a new concept, it is a surprising and somewhat unexpected consequence of combining credit spreads with different yield curves, and. has significant consequences for issuers and investors..

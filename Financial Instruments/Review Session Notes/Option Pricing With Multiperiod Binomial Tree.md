@@ -1,20 +1,24 @@
 ---
-aliases:
-  - OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
-  - 
-  - 
 linter-yaml-title-alias: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 title: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 tags:
-  - '#discrete_compounding'
-  - '#european_call_option'
-  - '#multiperiod_binomial_tree'
-  - '#option_pricing'
-  - '#option_pricing_with_dividends'
-  - '#portfolio_self_financing'
-  - '#replicating_portfolio'
-  - '#stock_price_payoff_tree'
+  - binomial_tree
+  - dividend_yield
+  - european_option
+  - option_pricing
+  - stock_price
+aliases:
+  - BOPM
+  - Binomial Option Pricing
+  - Multiperiod Binomial Model
+key_concepts:
+  - European call option
+  - Multiperiod binomial tree
+  - Option pricing with dividends
+  - Replicating portfolio
+  - Stock price payoff tree
 ---
+
 # OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
 
 1. Multiperiod Binomial Tree 1.1. Preamble

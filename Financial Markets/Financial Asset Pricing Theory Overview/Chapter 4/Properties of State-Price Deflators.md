@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#arrow_debreu_asset'
-  - '#convex_combination'
-  - '#growth_optimal_trading_strategy'
-  - '#hansen_jagannathan_bound'
-  - '#market_completeness'
-  - '#market_price_of_risk'
-  - '#no_arbitrage'
-  - '#state_price_deflator'
+  - arbitrage
+  - no_arbitrage
+  - separating_hyperplane
+  - state_price_deflator
+  - utility_maximization
+aliases:
+  - SPD
+  - Separating Hyperplane Theorem
+  - state price deflator
+key_concepts:
+  - No arbitrage condition
+  - One-period framework
+  - Separating hyperplane theorem
+  - State-price deflator existence
+  - Utility maximization problem
 ---
+
 # 4.3 Properties of state-price deflators  
 
 After defining state-price deflators, two questions arise naturally: When does a state-price deflator exist? When is it unique? We will answer these questions in the two following subsections..  

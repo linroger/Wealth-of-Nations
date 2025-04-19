@@ -1,14 +1,34 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#asset_class_linked_notes'
-  - '#collateralized_mortgage_obligations'
-  - '#financial_engineering'
-  - '#mortgage_backed_securities'
-  - '#mortgage_financing'
-  - '#prepayment_risk'
-  - '#principal_protected_equity_linked_notes'
+  - asset_class_linked_notes
+  - cmo_structure
+  - commodity_tracking_etns
+  - insurance_risk_products
+  - mortgage_backed_securities
+  - mortgage_financing
+  - pac_cmo
+  - prepayment_risk
+  - principal_protected_notes
+  - sequential_cmo
+aliases:
+  - CMOs
+  - Financial Engineering
+  - IO/PO
+  - Mortgage-Backed Securities
+  - Table of Contents
+key_concepts:
+  - Asset class-linked notes
+  - Collateralized mortgage obligations
+  - Commodity-tracking ETNs
+  - IO and PO classes
+  - Insurance risk products
+  - Mortgage financing basics
+  - Mortgage pass-through securities
+  - Prepayment risk analysis
+  - Principal-protected equity notes
+  - Sequential-pay CMOs
 ---
+
 # Table of Contents - Financial Engineering and Arbitrage in the Financial Markets
 8.3 Asset Class-Linked Notes 213   
 8.3.1 Principal-Protected Equity-Linked Notes 213   

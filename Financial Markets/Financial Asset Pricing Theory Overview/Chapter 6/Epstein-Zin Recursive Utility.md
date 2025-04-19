@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#consumption_portfolio_choice'
-  - '#epstein_zin_preferences'
-  - '#first_order_condition'
-  - '#indirect_utility'
-  - '#intertemporal_substitution'
-  - '#optimal_portfolio'
-  - '#recursive_utility'
-  - '#state_price_deflator'
-  - '#wealth_dynamics'
+  - consumption_choice
+  - epstein_zin_utility
+  - portfolio_choice
+  - recursive_utility
+  - state_price_deflator
+aliases:
+  - Derived utility
+  - EZ utility
+  - Indirect utility
+key_concepts:
+  - Epstein-Zin preferences
+  - Indirect utility
+  - Relative risk aversion
+  - Subjective discount factor
+  - Wealth dynamics
 ---
+
 # 6.6 Epstein-Zin recursive utility  
 
 Now consider the Epstein-Zin preferences introduced in Section 5.7.3, where the utility index $\mathcal{U}_{t}$ is specified recursively as  

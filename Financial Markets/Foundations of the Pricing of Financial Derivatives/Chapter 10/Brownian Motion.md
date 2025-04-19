@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#asset_pricing_models'
-  - '#brownian_motion'
-  - '#mathematical_modeling'
-  - '#random_variables'
-  - '#standard_normal_distribution'
-  - '#time_series_analysis'
-  - '#variance_calculation'
-  - '#wiener_process'
+  - brownian_motion
+  - option_pricing
+  - randomness
+  - stochastic_processes
+  - wiener_process
+aliases:
+  - Bachelier Process
+  - Brownian Movement
+  - Random Walk
+key_concepts:
+  - Einstein's mathematical properties
+  - Wiener process variable
+  - random pollen particles
+  - standard normal distribution
+  - time interval scaling
 ---
+
 # 10.1 BROWNIAN MOTION
 
 In 1827, the Scottish botanist Robert Brown (1773-1858) observed the random behavior of pollen particles suspended in water. This phenomenon came to be known as Brownian motion. About 80 years passed before Albert Einstein developed the mathematical. properties of Brownian motion. This gap in time, however, is not to suggest that no work was being done in the interim, but scientists did not always know what additional research was going on. For example, Louis Bachelier in his doctoral work on option pricing in 1900. made numerous advances of these mathematical properties several years before Einstein. It is not surprising that it was Einstein who received most of the credit, because he was. certainly the most famous scientist of that era and possibly of all time. In this chapter and ensuing chapters, we shall borrow from the scientific theory of Brownian motion..

@@ -1,15 +1,28 @@
 ---
 tags:
-  - '#american_options'
-  - '#asian_options'
-  - '#barrier_options'
-  - '#binary_options'
-  - '#exotic_options'
-  - '#lookback_options'
-  - '#static_options_replication'
-  - '#variance_swaps'
-  - '#volatility_swaps'
+  - american_options
+  - barrier_options
+  - binary_options
+  - exotic_options
+  - volatility_swaps
+aliases:
+  - Exotic Options
+  - Option Pricing
+key_concepts:
+  - Asian options
+  - Barrier options
+  - Binary options
+  - Chooser options
+  - Cliquet options
+  - Compound options
+  - Forward start options
+  - Lookback options
+  - Nonstandard American options
+  - Perpetual American options
+  - Shout options
+  - Volatility and variance swaps
 ---
+
 # Chapter 26. Exotic options .. 592  
 
 26.1 Packages 592   

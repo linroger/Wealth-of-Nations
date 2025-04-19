@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#atm_swaption'
-  - '#bermudan_swaptions'
-  - '#caplets_floorlets'
-  - '#european_swaptions'
-  - '#fixed_payer_swaption'
-  - '#fixed_receiver_swaption'
-  - '#forward_swap_rate'
-  - '#mortgages'
-  - '#prepayment_clauses'
-  - '#swaptions'
+  - bermudan_swaption
+  - european_swaption
+  - fixed_payer_swaption
+  - fixed_receiver_swaption
+  - swaptions
+aliases:
+  - European swaptions
+  - Fixed payer swaption
+  - Fixed receiver swaption
+  - Swaption
+key_concepts:
+  - Bermudan swaptions, major class
+  - European swaptions, technical issues
+  - Fixed payer, receiver swaption
+  - Mortgages, asset class
+  - Prepayment clauses, instruments
 ---
+
 # 17.3 SWAPTIONS  
 
 Mortgages form the largest asset class that households own directly or indirectly. The total mortgage stock is of similar size as the total US Treasury debt. Most of these mortgages have prepay-. ment clauses, and this leads to massive short swaption positions. As a result, Bermudan swaptions become a major asset class. In fact, mortgages are not the only instrument with prepayment clauses.. Prepayment options exist in many other instruments. Callable and putable bonds also lead to contingent, open-forward swap positions. These create similar swaptions exposures and can be fully hedged only by taking the opposite position in the relevant swaption market. Given the important. role played by swaptions in financial markets, we need to study their modeling. This section deals with technical issues associated with European swaptions.16  

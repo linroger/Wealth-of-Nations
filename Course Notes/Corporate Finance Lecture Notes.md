@@ -1,42 +1,25 @@
 ---
 tags:
-  - '#agency_costs'
-  - '#bankruptcy'
-  - '#bond_valuation'
-  - '#business_organizations'
-  - '#capital_asset_pricing_model'
-  - '#capital_budgets'
-  - '#capital_structure'
-  - '#corporate_financing'
-  - '#corporate_organizations'
-  - '#course_introduction'
-  - '#dcf_models'
-  - '#economic_rents'
-  - '#equity_valuation'
-  - '#financial_analysis'
-  - '#financial_distress'
-  - '#financial_managers'
-  - '#ftx_bankruptcy'
-  - '#future_value'
-  - '#initial_public_offering'
-  - '#interest_rates'
-  - '#investment_criteria'
-  - '#investment_decisions'
-  - '#modern_portfolio_theory'
-  - '#modigliani_miller'
-  - '#monte_carlo_simulations'
-  - '#net_present_value'
-  - '#pecking_order'
-  - '#present_value'
-  - '#project_analysis'
-  - '#real_options'
-  - '#risk_return'
-  - '#sensitivity_analysis'
-  - '#shareholder_value'
-  - '#sources_of_funds'
-  - '#venture_capital'
-  - '#wacc'
+  - business_analysis
+  - capital_structure
+  - corporate_finance
+  - corporate_governance
+  - financial_statements
+  - investment_decisions
+aliases:
+  - Business Organizations
+  - Corporate Finance
+  - Course Introduction
+  - Finance Lecture
+key_concepts:
+  - Capital structure costs
+  - Corporate governance role
+  - Earnings and cash flow
+  - Financial statement analysis
+  - Net present value (NPV)
+  - Time value of money
 ---
+
 #  
 
 Course Introduction and Corporate Organizations  Dave Schabes  

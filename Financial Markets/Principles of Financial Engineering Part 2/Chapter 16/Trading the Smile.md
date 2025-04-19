@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#equity_sector'
-  - '#fx_sector'
-  - '#implied_skew'
-  - '#interest_rate_sector'
-  - '#out_of_the_money_options'
-  - '#realized_skew'
-  - '#risk_reversals'
-  - '#s_and_p_500'
-  - '#skew_swaps'
-  - '#volatility_smile'
+  - equity_sector
+  - fx_sector
+  - interest_rate_sector
+  - skew_swap
+  - volatility_smile
+aliases:
+  - Smile Trading
+  - Trading the Volatility Smile
+key_concepts:
+  - Implied vs realized skews
+  - Risk reversals
+  - S&P 500 skew
+  - Skew swaps
+  - Volatility smile trading
 ---
+
 # 16.15 TRADING THE SMILE  
 
 The volatility smile is actively traded to a different extent in different sectors. The smile is an integral part of daily trading in the FX sector. Here, market practitioners routinely quote risk reversals, which relate to the symmetry in exchange rate volatility and butterflies related to the curvature of the smile. Traders trade and arbitrage these effects. The volatility smile is also traded in the equity sector. Traders arbitrage volatility across stock market indices, and in doing this, sometimes trade the smile indirectly. At other times, this trade is direct. The smile relating to a risk may be too steep and is expected to flatten. The trader then sells the deep out-of-the-money options and buys those that are closer to being ATM. In the interest rate sector, volatility smile is mainly traded due to its risk management and hedging implications for cap/floor positions and swaption books.  

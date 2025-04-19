@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#callable_bonds'
-  - '#convexity_risk'
-  - '#duration_gap'
-  - '#fannie_mae'
-  - '#freddie_mac'
-  - '#hedging_strategies'
-  - '#mortgage_backed_securities'
-  - '#mortgage_market'
-  - '#prepayment_risk'
-  - '#swaptions'
+  - balloon_mortgage
+  - fixed_rate_loan
+  - mbs
+  - mortgage_backed_securities
+  - mortgage_market
+  - prepayment_risk
+  - primary_market
+  - secondary_market
+  - swaption
+aliases:
+  - MBS Market
+  - Mortgage Lending
+  - Mortgage Market Overview
+key_concepts:
+  - American-style option
+  - Balloon mortgage
+  - Fixed rate loan
+  - Mortgage loan origination
+  - Mortgage-backed securities (MBS)
+  - Prepayment right
+  - Primary mortgage market
+  - Secondary mortgage market
 ---
+
 # 17.2 THE MORTGAGE MARKET  
 
 Lenders such as mortgage bankers and commercial banks originate mortgage loans by lending the original funds to a home buyer. This constitutes the primary mortgage market. Primary market. lenders are mortgage banks, savings and loan institutions, commercial banks, and credit unions.  

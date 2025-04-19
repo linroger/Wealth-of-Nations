@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#forward_rates'
-  - '#hedging'
-  - '#mean_reversion'
-  - '#risk_premium'
-  - '#short_term_rate'
-  - '#spot_rates'
-  - '#term_structure'
-  - '#term_structure_volatility'
-  - '#vasicek_model'
+  - analytic_solutions
+  - binomial_tree
+  - fixed_income_securities
+  - forward_rate
+  - mean_reversion
+  - risk_premium
+  - short_term_rate
+  - spot_rate
+  - term_structure_models
+  - vasicek_model
+aliases:
+  - Mean Reversion
+  - Risk Neutrality
+  - Short Rate Model
+  - Term Structure
+  - Vasicek
+key_concepts:
+  - Analytical solutions
+  - Drift and shock
+  - Mean reversion of rates
+  - Risk premium impact
+  - Risk-neutral dynamics
 ---
+
 # 9.1 THE VASICEK MODEL  
 
 The Vasicek model assumes mean reversion to set the expected path of the short-term rate. When below its long-term value, the short-term rate is expected to increase; when above its long-term value, the short-term rate is expected to decrease. Mathematically, the risk-neutral dynamics for the short-term rate, $r$ , are given by,  

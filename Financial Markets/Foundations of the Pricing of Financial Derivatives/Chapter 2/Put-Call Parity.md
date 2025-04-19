@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#arbitrage'
-  - '#box_spread'
-  - '#dividends'
-  - '#early_exercise'
-  - '#european_options'
-  - '#option_boundaries'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#risk_free_bonds'
+  - arbitrage
+  - european_options
+  - option_pricing
+  - put_call_parity
+  - risk_free_bonds
+aliases:
+  - Option Parity
+  - PCP
+  - Put-Call Relationship
+key_concepts:
+  - European option relationship
+  - Long asset and put
+  - Long call and bonds
+  - Portfolio O and P
+  - Put-call parity explained
 ---
+
 # 2.9 PUT-CALL PARITY
 
 The connection between the prices of puts and calls with the same exercise price and expiration is referred to as put-call parity, and it is one of the most important relationships in all of option pricing. We first begin with European options.

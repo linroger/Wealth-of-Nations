@@ -1,18 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 title: Deriving Forward Exchange Rate Numerical Example
 tags:
-  - '#currency_risk_management'
-  - '#forward_exchange_rate'
-  - '#futures_contracts'
-  - '#hedging_strategy'
-  - '#mark_to_market'
-  - '#return_on_investment_roi'
-  - '#speculation_with_futures'
-  - '#tail_the_hedge'
+  - currency_depreciation
+  - forward_exchange_rate
+  - futures_contracts
+  - hedging_strategy
+  - mark_to_market
+aliases:
+  - FX Forward Example
+  - Forward Rate Derivation
+key_concepts:
+  - European bank hedging
+  - Forward exchange rate
+  - Futures contract payoff
+  - Hedging currency risk
+  - Mark to market
 ---
+
 # Deriving Forward Exchange Rate Numerical Example
 
 [Carry Trade](Carry%20Trade.md)

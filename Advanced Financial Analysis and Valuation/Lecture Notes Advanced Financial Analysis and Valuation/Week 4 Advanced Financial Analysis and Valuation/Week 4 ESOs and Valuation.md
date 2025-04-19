@@ -2,19 +2,26 @@
 title: Week 4 ESOs and Valuation
 cssclasses:
   - academia
-aliases:
 tags:
-  - '#accounting_for_esos'
-  - '#black_scholes_model'
-  - '#employee_stock_options'
-  - '#eso_valuation'
-  - '#future_grants'
-  - '#past_grants'
-  - '#restricted_stock_units'
-  - '#stock_based_compensation'
-  - '#tax_benefits'
-  - '#valuation_methodology'
+  - accounting_for_esos
+  - equity_compensation
+  - esos
+  - stock_options
+  - valuation
+aliases:
+  - Employee Stock Options
+  - Equity Compensation
+  - Week 4 Notes
+key_concepts:
+  - Accounting for stock compensation
+  - Cash-equivalent cost of grants
+  - ESOs align management interests
+  - Employee stock options impact valuation
+  - High-growth firms use ESOs
+  - Stock-based compensation Google
+  - Valuation of compensation tricky
 ---
+
 [[Week 4 ESOs and Valuation|employee stock options]]
 
 # Week 4 ESOs and Valuation

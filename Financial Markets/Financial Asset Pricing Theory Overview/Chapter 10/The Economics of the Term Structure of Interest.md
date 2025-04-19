@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#cox_ingersoll_ross_model'
-  - '#equilibrium_interest_rate_models'
-  - '#expectation_hypothesis'
-  - '#interest_rate_concepts'
-  - '#liquidity_preference'
-  - '#real_interest_rates'
-  - '#term_structure_of_interest_rates'
-  - '#vasicek_model'
+  - equilibrium_models
+  - expectation_hypothesis
+  - interest_rates
+  - liquidity_preference
+  - term_structure
+aliases:
+  - Economics of Term Structure
+  - Interest Rate Economics
+key_concepts:
+  - Equilibrium interest models
+  - Expectation hypothesis
+  - Interest rate concepts
+  - Liquidity preference theory
+  - Real interest rates
 ---
+
 # 10 The economics of the term structure of interest rates 243  
 
 10.1 Introduction . 243   

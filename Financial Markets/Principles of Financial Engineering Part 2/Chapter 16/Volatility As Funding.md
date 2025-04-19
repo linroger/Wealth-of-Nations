@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#delta_hedging'
-  - '#fixed_income_assets'
-  - '#gamma_exposure'
-  - '#hedge_funds'
-  - '#market_volatility'
-  - '#mortgage_backed_securities'
-  - '#option_selling'
-  - '#volatility_funding'
+  - fixed_income
+  - funding
+  - hedge_funds
+  - options
+  - volatility
+aliases:
+  - Delta Hedging
+  - Funding Source
+  - Short Volatility
+  - Volatility Funding
+key_concepts:
+  - Borrowing funds for positions
+  - Delta-hedged short options
+  - Funding investment importance
+  - Gamma payouts
+  - Options as funding vehicles
+  - Short volatility, long asset
+  - Volatility as funding source
+  - Volatility cash flows
 ---
+
 # 16.2 VOLATILITY AS FUNDING  
 
 For market professionals and hedge funds, the issue of how to fund an investment is as important. as the investment itself. After all, a hedge fund would look for the "best way"' to borrow funds to carry a position. The best way may sometimes carry a negative interest. In other words, the hedge. fund would make money from the investment and from the funding itself..  

@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#bloomberg_analytics'
-  - '#caps_and_floors'
-  - '#implied_volatility'
-  - '#interest_rate_derivatives'
-  - '#interest_rate_options'
-  - '#libor'
-  - '#option_pricing'
-  - '#risk_neutral_pricing'
-  - '#volatility_estimation'
+  - black_model
+  - caps_and_floors
+  - interest_rate_derivatives
+  - option_pricing
+  - risk_neutral
+aliases:
+  - Black-Scholes Approach
+  - Caps and Floors Pricing
+  - Interest Rate Derivatives
+key_concepts:
+  - Black-Scholes model
+  - Caps and floors
+  - Floating rate borrowers
+  - Interest rate derivatives
+  - Option payoff structure
+  - Over-the-counter market
+  - Risk neutral representation
 ---
+
 # Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors
 # Abstract
 

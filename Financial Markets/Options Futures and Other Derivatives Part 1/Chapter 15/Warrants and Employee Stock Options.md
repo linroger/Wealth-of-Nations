@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#call_option_valuation'
-  - '#company_valuation'
-  - '#dilution_impact'
-  - '#market_efficiency'
-  - '#option_exercise'
-  - '#shareholder_value'
-  - '#stock_option_valuation'
-  - '#strike_price'
-  - '#warrants_and_employee_stock_options'
+  - call_option
+  - dilution
+  - employee_stock_options
+  - stock_price
+  - warrants
+aliases:
+  - ESOs
+  - Option Valuation
+  - Warrants and ESOs
+key_concepts:
+  - Cost of warrant issue
+  - Dilution affects existing shareholders
+  - Exercise leads to share issuance
+  - Stock price reflects potential dilution
+  - Value of warrants and options
 ---
+
 # 15.10 WARRANTS AND EMPLOYEE STOCK OPTIONS  
 
 The exercise of a regular call option on a company has no effect on the number of the company's shares outstanding. If the writer of the option does not own the company's shares, he or she must buy them in the market in the usual way and then sell them to the option holder for the strike price. As explained in Chapter 10, warrants and employee stock options are different from regular call options in that exercise leads to the company issuing more shares and then selling them to the option holder for the strike price. As the strike price is less than the market price, this dilutes the interest of the existing shareholders.  

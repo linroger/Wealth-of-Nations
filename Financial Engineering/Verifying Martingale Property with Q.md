@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#brownian_motion'
-  - '#central_limit_theorem'
-  - '#conditional_expectation'
-  - '#discrete_random_walk'
-  - '#geometric_brownian_motion'
-  - '#martingale_property'
-  - '#risk_neutral_probability'
-  - '#stochastic_process'
-  - '#tower_property'
+  - bond_numeraire
+  - discounted_stock
+  - martingale_property
+  - risk_neutral_probability
+  - stock_price
+aliases:
+  - Martingale Verification
+  - Risk-Neutral Measure
+  - Stock Price Martingale
+key_concepts:
+  - Bond as numeraire
+  - Discounted stock price
+  - Martingale property verification
+  - Risk-neutral probabilities
+  - Stock price dynamics
 ---
+
 # Chapter 5 Additional Readings  
 
 # Verifying the Martingale Property for Subsequent Periods  

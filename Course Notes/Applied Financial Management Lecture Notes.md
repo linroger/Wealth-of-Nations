@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#asset_liability_mismatch'
-  - '#banking_crisis'
-  - '#credit_risk'
-  - '#deposits'
-  - '#duration_mismatch'
-  - '#finance'
-  - '#first_republic_bank'
-  - '#liquidity_risk'
-  - '#silicon_valley_bank'
-  - '#solvency'
+  - corporate_finance
+  - finance
+  - investments
+  - silicon_valley_bank
+  - tvm
+aliases:
+  - AFM Lecture Notes
+  - Finance Overview
+  - Lecture 1
+key_concepts:
+  - Cash flows across time
+  - 'Finance: Money & Resources'
+  - Investments vs Corporate Finance
+  - Silicon Valley Bank Crisis
+  - Time Value of Money (TVM)
 ---
+
 # Introduction & Big Ideas Silicon Valley Bank  
 
 Lecture 1 Thomas S. Coleman March 20th, Draft March 19, 2023  

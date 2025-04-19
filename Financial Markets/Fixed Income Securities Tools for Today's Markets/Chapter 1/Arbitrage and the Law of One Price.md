@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#c_strips'
-  - '#discount_factors'
-  - '#idiosyncratic_pricing'
-  - '#law_of_one_price'
-  - '#p_strips'
-  - '#replicating_portfolio'
-  - '#strips'
-  - '#transaction_costs'
-  - '#us_treasury_bonds'
+  - arbitrage
+  - bond_pricing
+  - law_of_one_price
+  - market_efficiency
+  - replicating_portfolio
+aliases:
+  - Arbitrage Opportunity
+  - Law of One Price
+key_concepts:
+  - Arbitrage profit generation
+  - Law of one price
+  - Market price adjustment
+  - Replicating portfolio
+  - Riskless profit trade
 ---
+
 # 1.4 ARBITRAGE AND THE LAW OF ONE PRICE  
 
 While the law of one price is intuitive, its real justification rests on a stronger. foundation. It turns out that a deviation from the law of one price implies the existence of an arbitrage opportunity, that is, a trade that generates profit. without any chance of losing money.4 But because arbitrageurs would flock toward any such trade, market prices can be expected to adjust quickly so as to rule out any significant deviations from the law of one price. Put another way, arbitrage activity can be expected to enforce the law of one price.  

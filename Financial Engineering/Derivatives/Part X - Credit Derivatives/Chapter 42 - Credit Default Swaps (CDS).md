@@ -1,3 +1,22 @@
+---
+tags:
+  - cds_spread
+  - credit_default_swaps
+  - credit_derivatives
+  - credit_indices
+  - credit_risk
+aliases:
+  - CDS
+  - CDX
+  - Credit Default Swap
+  - iTraxx
+key_concepts:
+  - CDS spread options
+  - credit default swaps (CDS)
+  - credit derivative operation
+  - credit indices analysis
+  - hedge credit risks
+---
 # CREDIT DERIVATIVES  
 
 # Credit Default Swaps (CDS)  

@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#arbitrage_argument'
-  - '#forward_contract'
-  - '#forward_prices'
-  - '#futures_contract'
-  - '#futures_prices'
-  - '#futures_vs_forward'
-  - '#interest_rate_futures'
-  - '#interest_rates'
-  - '#price_correlation'
-  - '#risk_free_interest_rate'
+  - arbitrage_argument
+  - forward_prices
+  - futures_contract
+  - futures_prices
+  - interest_rates
+aliases:
+  - Forward Price vs Futures Price
+  - Forward vs Futures
+key_concepts:
+  - Arbitrage and interest rates
+  - Forward and futures prices
+  - Futures contract advantages
+  - Interest rate futures exception
 ---
+
 # 5.8 ARE FORWARD PRICES AND FUTURES PRICES EQUAL?  
 
 Technical Note 24 at www-2.rotman.utoronto.ca/\~hull/TechnicalNotes provides an arbitrage argument to show that, when the short-term risk-free interest rate is constant, the forward price for a contract with a certain delivery date is in theory the same as the futures price for a contract with that delivery date. The argument can be extended to cover situations where the interest rate is a known function of time.  

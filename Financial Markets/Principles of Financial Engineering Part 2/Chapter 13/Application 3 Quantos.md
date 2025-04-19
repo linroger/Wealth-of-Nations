@@ -1,14 +1,33 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#correlation_coefficient'
-  - '#dynamic_hedging'
-  - '#foreign_exchange_risk'
-  - '#fundamental_theorem'
-  - '#partial_differential_equations'
-  - '#quanto_pricing'
-  - '#quantos'
+  - domestic_currency
+  - exchange_rate
+  - financial_engineering
+  - foreign_currency
+  - forward_contract
+  - fundamental_theorem
+  - pricing_quantos
+  - quanto_contracts
+  - risk_neutral
+  - two_period_model
+aliases:
+  - Domestic Currency Payoffs
+  - Foreign Asset Pricing
+  - Quanto Pricing
+  - Quantos Application
+key_concepts:
+  - Domestic currency value
+  - Domestic risk-neutral measure
+  - Exchange rate movements
+  - Foreign asset payoffs
+  - Foreign currency stock
+  - Forward contract valuation
+  - Fundamental theorem application
+  - Quanto contracts pricing
+  - Risk-neutral probabilities
+  - Two-period model framework
 ---
+
 # 13.4 APPLICATION 3: QUANTOS  
 
 The first two examples of the application of the fundamental theorem shown thus far were essen-.   

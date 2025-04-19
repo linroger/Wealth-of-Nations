@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#central_limit_theorem'
-  - '#distribution_function'
-  - '#moment_generating_function'
-  - '#proof'
-  - '#random_variables'
-  - '#sample_mean'
-  - '#standard_normal_distribution'
-  - '#taylor_series'
+  - central_limit_theorem
+  - distribution_function
+  - moment_generating_function
+  - random_variables
+  - standard_normal_distribution
+aliases:
+  - CLT Verification
+  - Central Limit Theorem Proof
+key_concepts:
+  - Distribution function
+  - Independent random variables
+  - Moment generating function
+  - Random variable mean
+  - Random variable variance
+  - Standard normal distribution
+  - Taylor series expansion
 ---
+
 # Chapter 2 Additional Readings  
 
 # A Verification of the Central Limit Theorem  

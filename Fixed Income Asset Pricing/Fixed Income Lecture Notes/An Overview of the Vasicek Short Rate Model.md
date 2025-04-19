@@ -2,18 +2,24 @@
 title: An Overview of the Vasicek Short Rate Model
 cssclasses:
   - academia
-aliases:
-  - Vasicek Model
 tags:
-  - '#fubini_theorem'
-  - '#hull_white_model'
-  - '#integrating_factor_method'
-  - '#mean_reversion'
-  - '#short_rate_models'
-  - '#stochastic_differential_equations'
-  - '#vasicek_model'
-  - '#zero_coupon_bond_pricing'
+  - interest_rates
+  - mean_reversion
+  - short_rate_model
+  - term_structure
+  - vasicek_model
+aliases:
+  - Interest Rate Model
+  - Short Rate
+  - Vasicek
+key_concepts:
+  - Hull-White extension
+  - Mean reversion
+  - Short rate dynamics
+  - Stochastic interest rate model
+  - Zero-coupon bond pricing
 ---
+
 # An Overview of the Vasicek Short Rate Model
 # Abstract
 

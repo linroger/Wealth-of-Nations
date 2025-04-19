@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#american_call_pricing'
-  - '#black_scholes_merton_model'
-  - '#compound_option'
-  - '#dividend_payment'
-  - '#early_exercise'
-  - '#european_call_option'
-  - '#ex_dividend_price'
-  - '#option_replication'
-  - '#roll_geske_whaley_model'
+  - american_call_pricing
+  - dividend_payment
+  - european_call_option
+  - option_replication
+  - roll_geske_whaley
+aliases:
+  - American call
+  - Closed-form pricing
+  - Option positions
+  - RGW model
+key_concepts:
+  - American call replication
+  - European call price
+  - Ex-dividend asset price
+  - Option payoffs
+  - RGW model
 ---
+
 # 19.1 CLOSED-FORM AMERICAN CALL PRICING: ROLL-GESKE-WHALEY
 
 The Roll-Geske-Whaley (RGW) model requires that there be only one known cash payment made over the life of the option, such as a stock that pays quarterly dividends but with only one dividend to be paid before the option expires..

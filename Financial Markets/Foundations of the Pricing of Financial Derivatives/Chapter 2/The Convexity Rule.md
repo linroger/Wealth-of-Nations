@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#american_options'
-  - '#call_options'
-  - '#convexity_rule'
-  - '#european_options'
-  - '#exercise_price'
-  - '#option_pricing'
-  - '#portfolio_k'
-  - '#portfolio_l'
-  - '#put_call_parity'
-  - '#put_options'
+  - american_options
+  - convexity_rule
+  - dividends
+  - european_call_option
+  - european_put_option
+  - option_payoff
+  - option_pricing
+  - option_value
+  - strike_price
+aliases:
+  - Call Option Convexity
+  - Convexity
+  - Option Pricing Convexity
+key_concepts:
+  - Convexity of option prices
+  - European call options
+  - European put options
+  - Exercise price relationship
+  - Impact of dividends
+  - Option price convexity
+  - Portfolio K and L
+  - Portfolio M and N
 ---
+
 # 2.8 THE CONVEXITY RULE
 
 A mathematical function, $y=f(x)$ , is said to be convex if for any two values of $x$ $x_{2}>x_{1}$ we have that the line between these two $x$ values lies above or on the. $y=f(x)$ graph. It is possible to derive a relationship between the prices of three options differing by exercise price. Let their exercise prices be $X_{L}$ $X_{M}$ , and $X_{H}$ (for low, medium, and high) and the corresponding call prices be $c_{t L}$ $c_{t M}$ , and $c_{t H}$ . For convenience, we shall call these the first, second, and third calls, respectively. Let us construct Portfolio K consisting of $\omega$ units of the first call and $1-\omega$ units of the third call. In other words, we go long $\omega$ units of the first call and long $1-\omega$ units of the third. Portfolio. $\mathrm{L}$ consists of one unit of the second call. The value of $\omega$ is defined as $(X_{H}-X_{M})/(X_{H}-X_{L})$ so that $1-\omega$ is $(X_{M}-X_{L})/(X_{H}-X_{L})$ Table 2.9 shows the outcomes.

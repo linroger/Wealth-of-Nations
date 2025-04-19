@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#collateral'
-  - '#financial_engineering'
-  - '#haircut'
-  - '#repo_market'
-  - '#repo_rate'
-  - '#repurchase_agreement'
-  - '#secured_loan'
-  - '#swap_markets'
-  - '#temporary_ownership'
+  - collateral
+  - haircut
+  - repo_market
+  - repurchase_agreement
+  - secured_loan
+aliases:
+  - Collateralized Loan
+  - Repo
+  - Repurchase Agreement
+  - Secured Loan
+key_concepts:
+  - 'Haircut: collateral protection'
+  - Repo market overview
+  - Repo vs. swap
+  - 'Repo: sale, buyback'
+  - 'Secured loan: collateral'
 ---
+
 # 5.1 INTRODUCTION  
 
 This is a nontechnical chapter which deals with repos, an important operation. The idea behind a repo is simple and easy to understand since it is similar to a secured loan such as the purchase of a house using a mortgage. There are some differences between repos and secured loans, but the basic idea is similar since an asset is used as collateral for a loan. The chapter briefly reviews repo markets and some uses of repo. Repo is short for repurchase agreement, which is a transaction that involves the sale of securities together with an agreement for the seller to buy back the securities at a later date.  

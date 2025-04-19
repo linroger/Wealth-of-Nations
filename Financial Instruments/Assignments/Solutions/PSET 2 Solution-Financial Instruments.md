@@ -1,20 +1,23 @@
 ---
-aliases:
-  - 
-  - 
 title: PSET 2 Solution-Financial Instruments
 tags:
-  - '#bond_valuation'
-  - '#bootstrap_procedure'
-  - '#convexity'
-  - '#duration'
-  - '#financial_instruments'
-  - '#interest_rate_sensitivity'
-  - '#inverse_floater'
-  - '#pset_2_solution'
-  - '#term_structure'
-  - '#yield_curve'
+  - bond_pricing
+  - bootstrap_procedure
+  - financial_instruments
+  - inverse_floater
+  - term_structure
+  - yield_curve
+aliases:
+  - Homework 2 Solution
+  - PSET 2
+key_concepts:
+  - Bond prices
+  - Bootstrap procedure
+  - Leveraged Inverse Floater
+  - Semi-annual frequency
+  - Treasury securities data
 ---
+
 ---
 
 title: PSET 2 Solution

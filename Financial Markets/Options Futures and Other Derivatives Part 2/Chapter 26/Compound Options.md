@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#bivariate_normal_distribution'
-  - '#call_on_a_call'
-  - '#call_on_a_put'
-  - '#compound_options'
-  - '#european_style_options'
-  - '#option_valuation'
-  - '#options_on_options'
-  - '#put_on_a_call'
-  - '#put_on_a_put'
+  - bivariate_normal
+  - compound_option
+  - european_option
+  - geometric_brownian_motion
+  - option_pricing
+aliases:
+  - Compound Options
+  - Options on Options
+key_concepts:
+  - Bivariate normal distribution
+  - Call on call
+  - European-style compound options
+  - Options on options
+  - Put on call
 ---
+
 # 26.7 COMPOUND OPTIONS  
 
 Compound options are options on options. There are four main types of compound options: a call on a call, a put on a call, a call on a put, and a put on a put. Compound options have two strike prices and two exercise dates. Consider, for example, a call on a call. On the first exercise date, $T_{1}$ , the holder of the compound option is entitled to pay the first strike price, $K_{1}$ , and receive a call option. The call option gives the holder the right to buy the underlying asset for the second strike price, $K_{2}$ , on the second exercise date, $T_{2}$ . The compound option will be exercised on the first exercise date only if the value of the option on that date is greater than the first strike price.  

@@ -1,9 +1,21 @@
 ---
 title: Week 7
 tags:
-  - '#waypoint'
-  - '#week_7'
+  - derivatives
+  - financial_analysis
+  - investment
+  - week
+  - week_7
+aliases:
+  - W7
+key_concepts:
+  - Derivative instruments
+  - Financial market analysis
+  - Investment strategies
+  - Risk management
+  - Week 7 overview
 ---
+
 # Week 7
 %% Begin Waypoint %%
 - **[[Week 7]]**

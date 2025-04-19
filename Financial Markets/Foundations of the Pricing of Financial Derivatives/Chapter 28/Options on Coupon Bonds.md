@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_tree'
-  - '#coupon_bond_options'
-  - '#coupon_payment'
-  - '#european_options'
-  - '#exercise_price'
-  - '#option_pricing'
+  - american_option
+  - binomial_tree
+  - coupon_bond
+  - european_option
+  - option_pricing
+aliases:
+  - Coupon Bond Options
+  - Options on Bonds
+key_concepts:
+  - American option exercise
+  - Binomial option pricing
+  - Coupon bond pricing
+  - European option values
+  - Option exercise timing
 ---
+
 # 28.4 OPTIONS ON COUPON BONDS
 
 Now, we shall look at options on the four-period coupon bond we analyzed in Section. 28.2. Recall that its pricing tree is Figure 28.3. Let us examine an option expiring at time. 3 with an exercise price of 1.0. We shall assume that at expiration, the exercise of the option would occur an instant before the coupon is paid. In other words, we would exercise in time to receive the coupon. Thus, the values in Figure 28.3 are the relevant values to compare with the exercise price. Let us illustrate the calculated values at time 3:.

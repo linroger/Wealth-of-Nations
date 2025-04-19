@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage_strategies'
-  - '#dynamic_arbitrage'
-  - '#financial_markets'
-  - '#hedging_techniques'
-  - '#pure_arbitrage'
-  - '#relative_value_arbitrage'
-  - '#risk_management'
-  - '#speculation'
-  - '#static_arbitrage'
-  - '#swap_trading'
+  - arbitrage
+  - bond_dealer
+  - relative_value
+  - riskless_profit
+  - swaption
+aliases:
+  - Arbitrage Definition
+  - Pure Arbitrage
+  - Relative Value
+key_concepts:
+  - Law of one price
+  - Pure vs. Relative Value
+  - Relative value arbitrage
+  - Riskless instantaneous profit
+  - Static and dynamic arbitrage
 ---
+
 # 1.4 ARBITRAGE: PURE VERSUS RELATIVE VALUE  
 
 We introduce the notion of relative value arbitrage which drives the trading behavior of financial firms irrespective of the market in which they operate. Relative arbitrage takes the concept of pure arbitrage beyond its technical definition of riskless profit. All primary market risks are eliminated, but some secondary market exposures are deliberately left unhedged..  

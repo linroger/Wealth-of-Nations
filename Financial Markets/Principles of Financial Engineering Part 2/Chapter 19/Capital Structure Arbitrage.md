@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage_strategies'
-  - '#bond_markets'
-  - '#capital_structure_arbitrage'
-  - '#cds_markets'
-  - '#credit_spreads'
-  - '#delta_hedging'
-  - '#equity_volatility'
-  - '#implied_volatility'
-  - '#merton_model'
-  - '#risk_management'
+  - arbitrage
+  - capital_structure
+  - cds_spread
+  - credit_hedge_funds
+  - merton_model
+aliases:
+  - Arbitrage
+  - Capital Structure
+  - Capital Structure Strategy
+key_concepts:
+  - Capital structure arbitrage
+  - Equity vs CDS comparison
+  - Implied credit spread
+  - Long/short security strategy
+  - Merton-type model
 ---
+
 # 19.5 CAPITAL STRUCTURE ARBITRAGE  
 
 # 19.5.1 EXAMPLES OF CAPITAL STRUCTURE ARBITRAGE TRADES  

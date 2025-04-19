@@ -1,19 +1,26 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#commodity_cycle'
-  - '#commodity_prices'
-  - '#ethylene'
-  - '#financial_analysis'
-  - '#natural_gas_prices'
-  - '#operating_leverage'
-  - '#peak_eps'
-  - '#pvc'
-  - '#valuation'
-  - '#westlake_chemical'
+  - advanced_financial_analysis
+  - commodity_prices
+  - ethylene_capacity
+  - natural_gas_prices
+  - westlake_operations
+aliases:
+  - BUSN 30313
+  - PSET 3
+  - Roger Lin
+  - Westlake
+key_concepts:
+  - PVC and VCM production
+  - commodity petrochemicals
+  - ethylene production
+  - natural gas feedstocks
+  - natural gas price volatility
+  - olefins and vinyls chains
+  - peak cycle EPS estimate
+  - vertically integrated producer
 ---
+
 # PSET 3 ADVANCED FINANCIAL ANALYSIS AND VALUATION
 
 [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)

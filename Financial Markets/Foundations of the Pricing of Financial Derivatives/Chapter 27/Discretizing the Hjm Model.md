@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage_free'
-  - '#binomial_tree'
-  - '#discrete_time'
-  - '#drift_adjustment_term'
-  - '#drift_restriction'
-  - '#forward_rates'
-  - '#hjm_model'
-  - '#local_expectations_hypothesis'
-  - '#wiener_process'
+  - arbitrage_free
+  - binomial_tree
+  - forward_rate
+  - hjm_model
+  - term_structure
+aliases:
+  - Discretized HJM
+  - HJM binomial
+  - HJM discretization
+key_concepts:
+  - Binomial tree
+  - Drift restriction
+  - Forward rate process
+  - HJM model
+  - Local expectations hypothesis
+  - Martingale probabilities
 ---
+
 # 27.2 DISCRETIZING THE HJM MODEL
 
 With the exception of a few restrictive volatility structures, the HJM model does not pro-. duce closed-form solutions for the prices and risk measures of various instruments.7 Hence, numerical methods are normally required. Here we will look at discretizing the HJM model for use in a binomial tree. In doing so, we shall gain a deeper understanding of the model. and especially the drift restriction that prevents arbitrage. At this level, we shall focus exclusively on the one-factor version. Hence, we are given the stochastic process for the forward rate, Equation (27.9). Because we shall use only a one-factor model, Equation (27.4) becomes

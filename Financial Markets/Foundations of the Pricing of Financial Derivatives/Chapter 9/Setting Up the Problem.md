@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#binomial_coefficient'
-  - '#binomial_model'
-  - '#black_scholes_merton_model'
-  - '#call_options'
-  - '#discrete_vs_continuous_discounting'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#put_options'
-  - '#risk_neutral_probability'
+  - binomial_model
+  - black_scholes_merton_model
+  - continuous_compounding
+  - put_call_parity
+  - risk_neutral_probability
+aliases:
+  - Binomial
+  - Black-Scholes
+  - Call Option
+  - Option Pricing
+key_concepts:
+  - Binomial coefficient
+  - Black-Scholes-Merton formula
+  - Continuous discounting
+  - Put-call parity
+  - Risk-neutral probability
 ---
+
 # 9.1 SETTING UP THE PROBLEM
 
 We start with our ultimate objective, the Black-Scholes-Merton model for calls and puts,

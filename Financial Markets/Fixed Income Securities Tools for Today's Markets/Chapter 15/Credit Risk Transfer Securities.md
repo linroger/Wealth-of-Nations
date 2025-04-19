@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#cas_2020_r01'
-  - '#credit_risk_transfer_securities'
-  - '#crt_securities'
-  - '#fhlmc'
-  - '#fixed_income_options'
-  - '#fnma'
-  - '#gse_securities'
-  - '#libor'
-  - '#mortgage_default_risk'
-  - '#reference_pool'
+  - credit_risk
+  - crt_securities
+  - fnma
+  - gse
+  - mortgage_backed_securities
+aliases:
+  - CAS
+  - CRT Securities
+  - STACR
+key_concepts:
+  - CRT securities to public
+  - Default risk on mortgages
+  - GSEs sell default risk
+  - Investors buy bonds
+  - mortgage default risk transfer
 ---
+
 # 15.12 CREDIT RISK TRANSFER SECURITIES  
 
 One reform following the 2008 government rescue of the GSEs was to have the GSEs sell some of the mortgage default risk from their MBS guarantees to the private sector. To this end, GSEs started to offer credit risk transfer (CRT) securities to the public in 2013, called Connecticut Avenue Securities (CAS) at FNMA and Structural Agency Credit Risk (STACR) securities at FHLMC.17 The basic idea is that investors buy bonds at par; earn a spread over a short-term rate; and, in exchange for that spread, bear some of the default risk on a reference pool of mortgages. More specifically, as defaults on that pool reach certain thresholds, investors lose some or even all of the principal on their bonds. A somewhat simplified explanation of how CRTs work is presented in this section, with reference to a recent offering, CAS 2020-R01, summarized in Table 15.8. The notes actually offered to the public through CAS 2020-R01 are highlighted in bold, namely, the M1, M2, and  

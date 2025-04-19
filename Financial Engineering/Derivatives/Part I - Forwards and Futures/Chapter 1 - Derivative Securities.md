@@ -1,3 +1,28 @@
+---
+tags:
+  - arbitrage
+  - cme
+  - derivative_securities
+  - forward_contracts
+  - futures_contracts
+  - hedging
+  - interest_rate_swaps
+  - options
+  - short_selling
+  - speculation
+aliases:
+  - Derivatives
+  - Forward Contracts
+  - Futures
+  - Options
+  - Swaps
+key_concepts:
+  - Call and put options
+  - Derivative securities
+  - Futures and forwards
+  - Hedging and arbitrage
+  - Interest rate swaps
+---
 # Derivative Securities
 
 # Aims

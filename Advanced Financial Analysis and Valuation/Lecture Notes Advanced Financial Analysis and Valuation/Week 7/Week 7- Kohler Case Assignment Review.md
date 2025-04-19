@@ -1,19 +1,21 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#control_premium'
-  - '#discounted_cash_flow'
-  - '#fair_value'
-  - '#kohler_co'
-  - '#marketability_discount'
-  - '#minority_shareholders'
-  - '#multiples_analysis'
-  - '#private_company_valuation'
-  - '#recapitalization'
-  - '#valuation_methods'
+  - dissenting_shareholders
+  - fair_value
+  - kohler_co
+  - private_company
+  - valuation
+aliases:
+  - Kohler Case
+  - Kohler Valuation
+key_concepts:
+  - Dissenting shareholder valuation
+  - Fair market value definition
+  - Kohler Co. family business
+  - MBCA fair value
+  - Valuation date adjustment
 ---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

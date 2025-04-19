@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#ewma_arch_garch'
-  - '#factor_loadings'
-  - '#factor_scores'
-  - '#historical_simulation'
-  - '#model_building_approach'
-  - '#principal_components_analysis'
-  - '#us_treasury_rates'
-  - '#var_calculation'
-  - '#volatilities_and_correlations'
+  - factor_analysis
+  - principal_components
+  - risk_management
+  - treasury_rates
+  - yield_curve
+aliases:
+  - PCA
+  - Principal Component Analysis
+key_concepts:
+  - Factor loadings
+  - Factor scores
+  - Market variable movements
+  - Uncorrelated factor scores
+  - Yield curve shifts
 ---
+
 # 22.9 PRINCIPAL COMPONENTS ANALYSIS  
 
 One approach to handling the risk arising from groups of highly correlated market variables is principal components analysis. This is a standard statistical tool with many. applications in risk management. It takes historical data on movements in the market variables and attempts to define a set of components or factors that explain the movements.  

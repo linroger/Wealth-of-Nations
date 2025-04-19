@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#call_option'
-  - '#mathematical_formula'
-  - '#option_pricing'
-  - '#partial_derivative'
-  - '#theta_derivative'
-  - '#time_to_expiration'
+  - call_option
+  - derivative
+  - option_pricing
+  - theta
+  - time_to_expiration
+aliases:
+  - Theta
+  - Time Decay
+key_concepts:
+  - Call option value
+  - Option pricing formula
+  - Partial differential equation
+  - Theta derivative
+  - Time to expiration
 ---
+
 # 14.3 THETA: THE FIRST DERIVATIVE WITH RESPECT TO TIME
 
 Now we need the derivative with respect to time to expiration.

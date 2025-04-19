@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#black_model'
-  - '#bond_options'
-  - '#cap_floor'
-  - '#convexity_adjustment'
-  - '#european_options'
-  - '#hedging'
-  - '#interest_rate_derivatives'
-  - '#swaptions'
-  - '#volatility'
-  - '#zero_curve'
+  - black_model
+  - cap_options
+  - delta_hedging
+  - european_options
+  - interest_rate_derivatives
+  - vega_hedging
+aliases:
+  - Hedging Strategies
+  - IR Derivatives
+  - Interest Rate Options
+key_concepts:
+  - Black's model
+  - Delta risk and zero curve
+  - European interest rate options
+  - Gamma measures
+  - Vega and volatility
 ---
+
 # 29.4  HEDGING INTEREST RATE DERIVATIVES  
 
 This section discusses how the material on Greek letters in Chapter 19 can be extended to cover interest rate derivatives.  

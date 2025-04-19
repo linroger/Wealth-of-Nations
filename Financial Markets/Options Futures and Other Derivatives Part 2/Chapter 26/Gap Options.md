@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#asset_valuation'
-  - '#black_scholes_merton_formula'
-  - '#european_call_option'
-  - '#gap_call_option'
-  - '#gap_put_option'
-  - '#option_valuation'
-  - '#strike_price'
+  - black_scholes_merton_bsm
+  - european_call_option
+  - gap_call_option
+  - gap_put_option
+  - option_pricing
+aliases:
+  - Black-Scholes-Merton
+  - Gap call
+  - Gap put
+key_concepts:
+  - Asset value
+  - Black-Scholes formula
+  - Gap call option
+  - Gap put option
+  - Option payoff
 ---
+
 # 26.4 GAP OPTIONS  
 
 A gap call option is a European call options that pays off. $S_{T}-K_{1}$ when $S_{T}>K_{2}$ . The difference between a gap call option and a regular call option with a strike price of $K_{2}$ is that the payoff when. $S_{T}>K_{2}$ is increased by $K_{2}\mathrm{~-~}K_{1}$ . (This increase is positive or. negative depending on whether $K_{2}>K_{1}$ or $K_{1}>K_{2}$  

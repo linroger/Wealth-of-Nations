@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#assets'
-  - '#continuous_time_framework'
-  - '#discrete_time_framework'
-  - '#market_completeness'
-  - '#marketed_dividends'
-  - '#one_period_framework'
-  - '#portfolios'
-  - '#redundant_assets'
-  - '#trading_strategies'
+  - arbitrage
+  - assets
+  - continuous_time
+  - discrete_time
+  - portfolios
+aliases:
+  - apa
+  - assets portfolios and arbitrage
+  - chapter 3
+key_concepts:
+  - doubling strategies
+  - market completeness
+  - one-period framework
+  - redundant assets
+  - trading strategies
 ---
+
 # 3 Assets, portfolios, and arbitrage 45  
 
 3.1 Introduction 45   

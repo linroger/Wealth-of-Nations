@@ -1,14 +1,24 @@
 ---
 tags:
-  - '#archimedean_axiom'
-  - '#axiomatic_assumptions'
-  - '#composite_function'
-  - '#continuity_property'
-  - '#monotonicity_axiom'
-  - '#preference_relation'
-  - '#probability_distribution'
-  - '#utility_index'
+  - archimedean_axiom
+  - continuity_property
+  - monotonicity
+  - preference_relation
+  - utility_index
+aliases:
+  - Axiom 5.1
+  - Axiom 5.2
+  - Preference
+  - Utility Index
+key_concepts:
+  - Archimedean axiom
+  - Continuity property preference
+  - Monotonicity axiom
+  - Preference relation
+  - Strictly increasing transformation
+  - Utility index function
 ---
+
 # 5.3 Utility indices  
 
 A utility index for a given preference relation $\succeq$ is a function $\mathcal{U}:\mathcal{P}(Z)\to\mathbb{R}$ that to each probability distribution over consumption levels attaches a real-valued number such that  

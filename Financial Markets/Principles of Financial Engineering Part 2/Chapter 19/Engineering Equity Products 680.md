@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#callable_convertibles'
-  - '#capital_structure_arbitrage'
-  - '#convertible_bond_arbitrage'
-  - '#convertible_bond_pricing'
-  - '#convertible_bonds'
-  - '#engineering_equity_products'
-  - '#exchangeable_bonds'
-  - '#synthetic_convertible_bonds'
-  - '#warrants'
+  - convertible_bond_arbitrage
+  - convertible_bond_pricing
+  - convertibles
+  - exchangeable_bond
+  - warrants
+aliases:
+  - Convertible Bonds
+  - Engineering Equity Products
+  - Warrants
+key_concepts:
+  - Callable convertibles
+  - Convertible bond arbitrage
+  - Convertible bond pricing
+  - Exchange rate exposure
+  - Using convertibles
 ---
+
 # 19.6 Engineering Equity Products . 680  
 
 19.6.1 Purpose. 680   

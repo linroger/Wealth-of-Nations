@@ -1,20 +1,23 @@
 ---
-aliases:
-  - Turmoil in Financial Markets the Risk Business.md
-  - Turmoil in Financial Markets the Risk Business
 title: Turmoil in Financial Markets the Risk Business
 tags:
-  - '#arbitrage'
-  - '#financial_markets'
-  - '#financial_turmoil'
-  - '#hedge_funds'
-  - '#investment_banks'
-  - '#leverage'
-  - '#long_term_capital_management'
-  - '#market_liquidity'
-  - '#risk_management'
-  - '#value_at_risk'
+  - financial_markets
+  - hedge_funds
+  - long_term_capital_management
+  - market_turmoil
+  - risk_management
+aliases:
+  - Financial Market Turmoil
+  - LTCM Collapse
+  - The Risk Business
+key_concepts:
+  - Banks manage financial risk
+  - Carefree bullishness to pessimism
+  - Hedge funds blamed
+  - Long-Term Capital Management
+  - Markets have fallen sharply
 ---
+
 # Turmoil in Financial Markets the Risk Business
 
 - **Special Article: Turmoil In Financial Markets: The Risk Business**

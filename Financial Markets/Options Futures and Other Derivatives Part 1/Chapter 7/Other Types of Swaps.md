@@ -1,14 +1,25 @@
 ---
 tags:
-  - '#asset_backed_securities'
-  - '#currency_swaps'
-  - '#derivatives'
-  - '#equity_swaps'
-  - '#interest_rate_swaps'
-  - '#mortgage_market'
-  - '#securitization'
-  - '#swaps'
+  - amortizing_swap
+  - basis_swap
+  - equity_swap
+  - interest_rate_swap
+  - swaption
+aliases:
+  - Diff Swap
+  - Extendable Swap
+  - Puttable Swap
+  - Quanto
+key_concepts:
+  - Amortizing and step-up swaps
+  - Commodity and volatility swaps
+  - Compounding and accrual swaps
+  - Equity swap details
+  - Fixed-for-floating swaps
+  - Options in swap agreements
+  - Variations on swaps
 ---
+
 # 7.13 OTHER TYPES OF SWAPS  
 
 Many other types of swaps are traded. We will discuss some of them in Chapter 34. At this stage we provide an overview.  

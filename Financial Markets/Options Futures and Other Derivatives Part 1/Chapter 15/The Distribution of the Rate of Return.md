@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#continuously_compounded_return'
-  - '#expected_return'
-  - '#lognormal_property'
-  - '#probability_distribution'
-  - '#rate_of_return'
-  - '#stock_prices'
-  - '#volatility'
+  - continuously_compounded
+  - lognormal_distribution
+  - rate_of_return
+  - stock_prices
+  - volatility
+aliases:
+  - ROR
+  - Rate of Return
+  - Return Distribution
+key_concepts:
+  - Average return per year
+  - Continuously compounded return
+  - Lognormal property stock prices
+  - Normally distributed return
+  - Standard deviation declines
 ---
+
 # 15.2  THE DISTRIBUTION OF THE RATE OF RETURN  
 
 The lognormal property of stock prices can be used to provide information on the probability distribution of the continuously compounded rate of return earned on a stock between times 0 and $T.$ If we define the continuously compounded rate of return per annum realized between times 0 and $T$ as $x$ , then  

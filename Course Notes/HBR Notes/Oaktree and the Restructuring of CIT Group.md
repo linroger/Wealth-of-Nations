@@ -2,23 +2,25 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
-  - 
-  - Oaktree and the Restructuring of CIT Group
-  - Restructuring
 title: Oaktree and the Restructuring of CIT Group
 tags:
-  - '#asset_liquidation'
-  - '#bondholder_recovery'
-  - '#cit_group'
-  - '#financial_crisis'
-  - '#financial_ratios'
-  - '#oaktree_capital_management'
-  - '#prepackaged_bankruptcy'
-  - '#rescue_loan'
-  - '#restructuring'
-  - '#unsecured_debt'
+  - bankruptcy
+  - commercial_lender
+  - financial_crisis
+  - restructuring
+  - unsecured_debt
+aliases:
+  - CIT Group
+  - Oaktree Capital
+  - Restructuring Case Study
+key_concepts:
+  - Asset-based lending
+  - Financial institution characteristics
+  - Government debt guarantee
+  - Liquidity crisis
+  - Unsecured debt bonds
 ---
+
 # Oaktree and the Restructuring of CIT Group
 
 [[HBR Case Study- Oaktree]]

@@ -1,22 +1,26 @@
 ---
-aliases: []
 cssclasses: academia
 title: Mastering Data Visualization with Plotly in Python
 source: 
   https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
 description:
 tags:
-  - '#bar_plots'
-  - '#data_analysis'
-  - '#data_visualization'
-  - '#interactive_dashboards'
-  - '#line_plots'
-  - '#pandas'
-  - '#plotly'
-  - '#plotly_dash'
-  - '#python'
-  - '#scatter_plots'
+  - data_visualization
+  - line_plot
+  - plotly
+  - python
+  - scatter_plot
+aliases:
+  - Data Viz with Python
+  - Plotly Tutorial
+key_concepts:
+  - Advanced plot techniques
+  - Create scatter plots
+  - Customize plot appearance
+  - Interactive dashboards
+  - Plotly library
 ---
+
 # Mastering Data Visualization with Plotly in Python
 
 - Introduction to Plotly and Basic Plotting

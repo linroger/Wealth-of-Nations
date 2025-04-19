@@ -2,21 +2,35 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
-  - 
-  - 
 title: HBR Case StudyOaktree
 tags:
-  - '#bankruptcy'
-  - '#cit_group'
-  - '#credit_crisis'
-  - '#debt_financing'
-  - '#financial_restructuring'
-  - '#lenders_steering_committee'
-  - '#oaktree_capital'
-  - '#subprime_mortgage_crisis'
-  - '#tlgp'
+  - cit_group
+  - credit_crisis
+  - hbr_case_study
+  - oaktree_capital
+  - restructuring
+aliases:
+  - CIT Group Restructuring
+  - Oaktree Case Study
+  - Rajath Shourie
+key_concepts:
+  - CIT Group lender
+  - Capital markets reliance
+  - Consumer installment loans
+  - Corporate finance
+  - Factoring business
+  - Finance company funding
+  - Financial services
+  - Loan portfolio segments
+  - Oaktree Capital Management
+  - Securitization markets
+  - Subprime meltdown
+  - Trade financing
+  - Transportation financing
+  - Unsecured debt
+  - Vendor financing
 ---
+
 # HBR Case StudyOaktree
 
 ![[Untitled 10. jpeg|Untitled 10. jpeg]]

@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#cash_flows'
-  - '#discount_bonds'
-  - '#dynamic_replication'
-  - '#eurodeposit'
-  - '#forward_rate_agreements'
-  - '#interest_rate_risk'
-  - '#market_liquidity'
-  - '#replication_portfolio'
-  - '#static_replication'
-  - '#synthetic_assets'
+  - discount_bonds
+  - eurodeposit
+  - replicating_portfolio
+  - static_replication
+  - synthetic_asset
+aliases:
+  - Static Replication Review
+key_concepts:
+  - cash flow replication
+  - dynamic replication
+  - market illiquidity
+  - replicating portfolio
+  - synthetic asset creation
 ---
+
 # 8.3 A REVIEW OF STATIC REPLICATION  
 
 The following briefly reviews the steps taken in static replication.  

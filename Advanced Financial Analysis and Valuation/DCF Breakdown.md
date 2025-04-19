@@ -2,20 +2,31 @@
 title: DCF Breakdown
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#capital_expenditures'
-  - '#dcf_methodology'
-  - '#financial_modeling'
-  - '#forecasting_techniques'
-  - '#free_cash_flow'
-  - '#sensitivity_analysis'
-  - '#terminal_value'
-  - '#valuation_process'
-  - '#wacc_calculation'
+  - capm
+  - dcf_model
+  - financial_modeling
+  - free_cash_flow
+  - sensitivity_analysis
+  - valuation
+  - wacc
+aliases:
+  - DCF
+  - Discounted Cash Flow
+  - Enterprise Value
+  - FCF
+key_concepts:
+  - Discount rate determination
+  - EBIT and NOPAT
+  - Equity value calculation
+  - Financial statement analysis
+  - Free cash flow calculation
+  - Present value calculation
+  - Revenue and expense forecast
+  - Sensitivity analysis
+  - Terminal value calculation
 ---
+
 # DCF Breakdown
 
 ### 1. PREPARATION AND ASSUMPTIONS

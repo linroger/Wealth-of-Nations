@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#basis_swap'
-  - '#bond_funding'
-  - '#coupon_washing'
-  - '#futures_arbitrage'
-  - '#hedging_swaps'
-  - '#implied_repo_rate'
-  - '#repo_market_strategies'
-  - '#swap_spread'
-  - '#tax_strategies'
+  - bond_position
+  - financial_engineering
+  - fixed_income
+  - funding_bond
+  - repo_market
+aliases:
+  - Bond Funding
+  - Fixed Income
+  - Repo Market
+  - Repo Strategies
+key_concepts:
+  - Bond vs swap spread
+  - Fixed income portfolios
+  - Floating interest receipts
+  - Funding bond position
+  - Interest rate swap
+  - Lending bond as collateral
+  - Repo market mechanics
+  - Repo market strategies
+  - Singapore dollar bonds
 ---
+
 # 5.5 REPO MARKET STRATEGIES  
 
 The previous sections dealt with repo mechanics and terminology. In this section, we start using repo instruments to devise financial engineering strategies..  

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#derivative_markets'
-  - '#financial_engineering'
-  - '#institutional_aspects'
-  - '#market_conventions'
-  - '#money_market'
-  - '#syndication_process'
-  - '#taxation_example'
-  - '#trading_volatility'
+  - derivative_markets
+  - financial_engineering
+  - institutional_aspects
+  - money_market
+  - taxation
+aliases:
+  - PFE Part 1
+  - Principles of Financial Engineering
+key_concepts:
+  - Derivative markets
+  - Money market problem
+  - Taxation example
+  - Trading volatility
+  - Unique instrument
 ---
+
 # Table of Contents - Principles of Financial Engineering Part1
 # Contents  
 

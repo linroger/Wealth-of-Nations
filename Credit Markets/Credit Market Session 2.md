@@ -1,20 +1,29 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Market Session 2
 tags:
-  - '#cdx_indexes'
-  - '#credit_default_swaps'
-  - '#credit_spreads'
-  - '#emerging_markets'
-  - '#etf_basis'
-  - '#fixed_income_etfs'
-  - '#floating_rate_bonds'
-  - '#hazard_rate_model'
-  - '#pairs_trading'
-  - '#sovereign_bonds'
+  - cds
+  - cdx_index
+  - credit_market
+  - etfs
+  - fixed_income
+  - sovereign_bonds
+aliases:
+  - CDS
+  - CDX
+  - Fixed Income ETFs
+  - Session 2
+  - Sovereign Bonds
+key_concepts:
+  - cdx index trading
+  - credit default swap
+  - currency devaluation risk
+  - etf basis arbitrage
+  - fixed income etfs
+  - hazard rate model
+  - sovereign bonds
+  - sovereign debt issuers
 ---
+
 # Credit Market Session 2
 ## SOVEREIGN BONDS,  ETFS,  CDS AND CDX
 1. Sovereign Bonds

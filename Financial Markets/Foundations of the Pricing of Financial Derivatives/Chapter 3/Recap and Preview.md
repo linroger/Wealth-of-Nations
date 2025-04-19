@@ -1,12 +1,23 @@
 ---
 tags:
-  - '#financial_analysis_foundations'
-  - '#past_performance_disclaimer'
-  - '#probability_statistics_review'
-  - '#random_variables_finance'
-  - '#subjective_probability_distribution'
-  - '#summations_products_logarithms'
+  - commodity_prices
+  - corporate_cash_flows
+  - exchange_rates
+  - interest_rates
+  - probability_statistics
+  - stock_prices
+  - summations
+aliases:
+  - Chapter 3.8
+  - Recap and Preview
+key_concepts:
+  - Market participant behavior
+  - Past performance disclaimer
+  - Random variables modeling
+  - Review of probability
+  - Subjective probability distribution
 ---
+
 # 3.8 RECAP AND PREVIEW
 
 In this cha ter we reviewed the rules of summations roducts lo arithms ex onentials

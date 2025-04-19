@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#arbitrage_free_pricing'
-  - '#fra_pricing'
-  - '#heath_jarrow_morton_model'
-  - '#hjm_model'
-  - '#interest_rate_derivatives'
-  - '#interest_rate_risk_factors'
-  - '#notional_value'
-  - '#swap_valuation'
-  - '#term_structure_modeling'
+  - arbitrage
+  - equilibrium_swap_rate
+  - fra
+  - interest_rate_derivatives
+  - loan_rates
+  - swaps
+  - term_structure
+aliases:
+  - FRA
+  - Preview
+  - Recap
+  - Swap
+  - Term Structure
+key_concepts:
+  - Arbitrage pricing
+  - Equilibrium swap rates
+  - FRA and swaps
+  - Interest rate derivatives
+  - Loan rates and FRA
+  - Term structure model
 ---
+
 # 26.4 RECAP AND PREVIEW
 
 In this chapter, we looked at interest rate derivatives, which are different from the derivatives on assets that we have previously covered. An interest rate is not an asset and, therefore, cannot be owned. Nonetheless, the payoff functions of interest rate derivatives can be replicated. Hence, these derivatives can be priced by arbitrage. We showed that pricing FRAs and swaps is relatively simple, at least in comparison to pricing options in that they can be replicated in a static, rather than dynamic, manner.

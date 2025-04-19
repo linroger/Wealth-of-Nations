@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#annuity'
-  - '#bermudan_swaptions'
-  - '#black_formula'
-  - '#european_swaptions'
-  - '#forward_swap_rate'
-  - '#martingale'
-  - '#swap_measure'
-  - '#swaptions'
-  - '#volatility_smile'
+  - annuity
+  - european_swaptions
+  - libor_rate
+  - swap_measure
+  - swaptions
+aliases:
+  - European Swaptions
+  - Pricing Swaptions
+  - Swap Measure
+key_concepts:
+  - annuity definition
+  - default-free discount bonds
+  - forward swap rate
+  - pricing swaptions
+  - swap measure
 ---
+
 # 17.4 PRICING SWAPTIONS  
 
 The pricing and risk management of swaptions can be approached from many angles using various working measures. For example, we have already seen in Chapters 4 and 14 that the time $t_{0}$ forward swap rate $f\left(t_{0},t_{1},T\right)$ for a forward swap that begins at time $t_{1}$ and ends at time $T$ will be a weighted average of the forward rates $F\left(t_{0},t_{i},t_{i+1}\right)$ . If we adopt this representation, a possible working measure would be the time $T$ forward measure. The Martingale dynamics of all forward rates under this measure could be obtained, and swaptions and various other swap derivatives could be priced with it..  

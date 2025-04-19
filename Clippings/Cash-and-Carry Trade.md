@@ -4,16 +4,24 @@ source: https://www.investopedia.com/terms/c/cashandcarry.asp
 description: A cash-and-carry trade is an arbitrage strategy that exploits the mispricing
   between the underlying asset and its corresponding derivative.
 tags:
-  - '#arbitrage_strategy'
-  - '#box_spreads'
-  - '#cash_and_carry_trade'
-  - '#credit_derivatives'
-  - '#derivative_pricing'
-  - '#futures_contracts'
-  - '#market_efficiency'
-  - '#options_market'
-  - '#synthetic_loan'
+  - arbitrage_strategy
+  - cash_and_carry_trade
+  - derivative_markets
+  - futures_contracts
+  - options_market
+aliases:
+  - Carry Trade
+  - Cash and Carry
+  - Negative Basis Trade
+key_concepts:
+  - Asset and derivative
+  - Exploits mispricing
+  - Futures or options contract
+  - Long asset, short derivative
+  - Market pricing discrepancies
 ---
+
+
 ## What Is a Cash-and-Carry Trade?
 
 A cash-and-carry trade is an arbitrage strategy that exploits the mispricing between an asset and its corresponding derivative. The key to profiting from this strategy is the eventual correction of that mispricing.

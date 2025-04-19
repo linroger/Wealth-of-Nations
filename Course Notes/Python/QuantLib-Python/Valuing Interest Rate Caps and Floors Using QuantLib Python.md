@@ -4,15 +4,23 @@ source:
   http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
 description: A tutorial on valuing caps and floors using QuantLib Python.
 tags:
-  - '#black_formula'
-  - '#caplet_valuation'
-  - '#interest_rate_caps'
-  - '#interest_rate_floors'
-  - '#interest_rate_term_structure'
-  - '#optionlet_volatilities'
-  - '#quantlib_python'
-  - '#volatility_surface'
+  - black_formula
+  - caplet_valuation
+  - interest_rate_caps
+  - quantlib_python
+  - volatility_surface
+aliases:
+  - Cap and Floor Pricing
+  - Interest Rate Derivatives
+  - QuantLib Tutorial
+key_concepts:
+  - Caplet Black formula
+  - Interest rate term structure
+  - QuantLib Python example
+  - Valuing caps and floors
+  - Volatility surface construction
 ---
+
 # Valuing Interest Rate Caps and Floors Using QuantLib Python
 
 A tutorial on valuing caps and floors using QuantLib Python.

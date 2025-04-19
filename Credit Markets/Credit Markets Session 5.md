@@ -1,23 +1,36 @@
 ---
-aliases:
-  - CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED DEFAULTS
-  - 
-  - 
 linter-yaml-title-alias: CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED
   DEFAULTS
 title: Credit Markets Session 5
 tags:
-  - '#black_scholes_model'
-  - '#capital_structure'
-  - '#capital_structure_arbitrage'
-  - '#collateralized_debt_obligations_cdos'
-  - '#correlated_defaults'
-  - '#credit_default_risk'
-  - '#equity_valuation'
-  - '#implied_volatility_surfaces'
-  - '#merton_model'
-  - '#synthetic_cdo_pricing'
+  - black_scholes_model
+  - capital_structure
+  - cdos
+  - correlated_defaults
+  - credit_markets
+  - merton_model
+  - volatility_smiles
+aliases:
+  - BS Model
+  - Credit Risk
+  - Merton
+  - Session 5
+  - Structural Credit
+key_concepts:
+  - Base correlations
+  - Black-Scholes formula
+  - CS strategies
+  - Capital structure modeling
+  - Collateralized debt obligations
+  - Credit default risk
+  - Fair value bonds
+  - Fair value equity
+  - Hedging bonds defaults
+  - Merton model
+  - Synthetic cdo pricing
+  - Volatility smiles
 ---
+
 # Credit Markets Session 5
 1. Capital Structure
 	- Structural Approach to Credit Default Risk

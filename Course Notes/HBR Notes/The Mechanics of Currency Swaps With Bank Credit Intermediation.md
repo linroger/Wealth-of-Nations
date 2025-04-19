@@ -2,21 +2,26 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
 linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
 title: The Mechanics of Currency Swaps With Bank Credit Intermediation
 tags:
-  - '#arbitrage'
-  - '#bank_intermediation'
-  - '#bond_issuance'
-  - '#credit_risk'
-  - '#currency_swaps'
-  - '#eurobond_markets'
-  - '#foreign_exchange_market'
-  - '#hedging_strategies'
-  - '#interest_rate_swaps'
-  - '#swap_counterparties'
+  - bank_forward
+  - currency_swap
+  - debt_service
+  - foreign_currency
+  - interest_rate
+aliases:
+  - Cross-Currency Swap
+  - Currency Exchange
+  - FX Swap
+key_concepts:
+  - Bank forward exchange market
+  - Borrowing in different currencies
+  - Exchange currencies with interest
+  - Lock in financing cost
+  - Service each other's debt
 ---
+
 ![[Untitled 5. jpeg|Untitled 5. jpeg]]
 
 [[Swaps]]

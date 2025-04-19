@@ -2,21 +2,26 @@
 title: DOLLAR TREE CASE STUDY
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#dollar_general'
-  - '#financial_performance_analysis'
-  - '#industry_risks'
-  - '#kkr_offer'
-  - '#minimum_wage_impact'
-  - '#peer_comparison'
-  - '#pro_forma_income_statement'
-  - '#profit_margins'
-  - '#return_on_assets_roa'
-  - '#return_on_equity_roe'
+  - dollar_general
+  - financial_ratios
+  - kkr_offer
+  - minimum_wage
+  - peer_comparison
+  - performance_analysis
+  - profit_margins
+  - revenue_growth
+aliases:
+  - DG Case Study
+  - Dollar General Analysis
+key_concepts:
+  - Dollar General performance
+  - Minimum wage impact
+  - Profit margin compression
+  - ROA and ROE
+  - Revenue growth decline
 ---
+
 # DOLLAR TREE CASE STUDY
 ## 1. DOLLAR GENERAL’S PERFORMANCE
 

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_put_option'
-  - '#bivariate_terms'
-  - '#dividend_yield'
-  - '#geometric_brownian_motion'
-  - '#geske_johnson_model'
-  - '#min_max_options'
-  - '#option_pricing'
-  - '#stulz_model'
-  - '#trivariate_terms'
+  - american_put_option
+  - compound_options
+  - dividend_yield
+  - geske_johnson_model
+  - min_max_options
+aliases:
+  - Chapter 21
+  - Preview
+  - Recap
+key_concepts:
+  - American put pricing
+  - Compound option combination
+  - Dividends and put exercise
+  - Geske-Johnson model terms
+  - Min-max option payoff
 ---
+
 # 20.3 RECAP AND PREVIEW
 
 In this chapter, we showed how the American put can be viewed as a combination of an infinite number of compound options. As such, the solution has an infinite number of terms, but it does provide insights into the pricing of American puts, and it does lead to. approximation formulas.

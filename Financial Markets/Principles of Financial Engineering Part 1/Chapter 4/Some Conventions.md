@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bid_ask_spreads'
-  - '#coupon_bond_payment'
-  - '#fixed_income_portfolio_hedges'
-  - '#interest_rate_swap_quotes'
-  - '#isda_standardization'
-  - '#liquid_instruments_market'
-  - '#master_isda_agreement'
-  - '#nonworking_day_payment'
-  - '#swap_payment_adjustment'
+  - bid_ask_spreads
+  - coupon_bond
+  - interest_rate_swaps
+  - isda_agreement
+  - swap_conventions
+aliases:
+  - Conventions
+  - ISDA
+  - Quotes
+key_concepts:
+  - ISDA standardization
+  - bid-ask spreads tight
+  - coupon bond payment
+  - liquid instruments market
+  - swap payment adjustment
 ---
+
 # 4.8 SOME CONVENTIONS  
 
 If you have a coupon bond and the payment date falls on a nonworking day, then the payment will be made on the first following working day. But the amount does not change. In swaps, this convention is slightly different. The payment is again delayed to the next working day.33 But the pay-. ment amount will be adjusted according to the actual number of days. This means that the payment. dates and the amounts may not coincide exactly in case swaps are used as hedges for fixed-income portfolios. Most swaps involve terminology and documentation that have been standardized by the International Swap and Derivatives Association (ISDA) and involve a Master ISDA agreement in place before dealing.  

@@ -1,16 +1,28 @@
 ---
 tags:
-  - '#agency_mbs'
-  - '#fannie_mae_fnma'
-  - '#freddie_mac_fhlmc'
-  - '#ginnie_mae_gnma'
-  - '#government_sponsored_enterprises_gses'
-  - '#mortgage_backed_securities_mbs'
-  - '#mortgage_market_us'
-  - '#mortgage_origination'
-  - '#mortgage_servicing'
-  - '#non_agency_mbs'
+  - agency_mbs
+  - fha
+  - fhlmc
+  - financial_crisis
+  - fnma
+  - gnma
+  - gse
+  - mbs
+  - mortgage_market
+  - us_government
+aliases:
+  - Agency MBS
+  - GSEs
+  - Mortgage Lending
+  - US Mortgage Market
+key_concepts:
+  - Agency MBS, GSEs
+  - FHA, FNMA, VA
+  - MBS securitization
+  - Mortgage market in US
+  - Secondary mortgage market
 ---
+
 # 15.1 THE MORTGAGE MARKET IN THE UNITED STATES  
 
 Historically, banks dominated mortgage lending. They had existing relationships with potential borrowers (i.e., depositors, business owners) and their deposit base provided a relatively stable source of funds for making and holding mortgage loans. Since the Great Depression, however, US government policy has cultivated a secondary market in mortgages. The 1930s saw the creation of the Federal Housing Administration (FHA) and the Federal National Mortgage Administration, or Fannie Mae (FNMA). The FHA was created to insure lenders - for a fee -- against the loss of principal or interest on approved mortgages, and FNMA was created to trade and hold FHA-insured loans. The Veterans Administration (VA) was created in the 1940s to offer veterans federally insured mortgages, which were added to FNMA's remit. The Government National Mortgage Association - Ginnie Mae (GNMA) - and the Federal Home Loan Mortgage Corporation - Freddie Mac (FHLMC) - were created in 1968 and 1970, respectively. GNMA's mission is to package FHA-, VA-, and other government-insured mortgages into MBS; to collect fees to insure those MBS; and to sell those MBS to investors. FHLMC's original purpose was to create, insure, and sell MBS from mortgages purchased from savings and loan associations.1  

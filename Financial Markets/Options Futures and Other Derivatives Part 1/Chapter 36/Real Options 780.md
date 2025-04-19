@@ -1,12 +1,23 @@
 ---
 tags:
-  - '#business_valuation'
-  - '#capital_investment_appraisal'
-  - '#investment_opportunity_valuation'
-  - '#market_price_of_risk'
-  - '#real_options'
-  - '#risk_neutral_valuation'
+  - business_valuation
+  - capital_investment
+  - chapter_36
+  - investment_opportunity
+  - market_price_risk
+  - real_options
+  - risk_neutral_valuation
+aliases:
+  - Chapter 36
+  - Real Options
+key_concepts:
+  - Capital investment appraisal
+  - Estimating market price risk
+  - Evaluating investment opportunity
+  - Risk-neutral valuation framework
+  - Valuation of a business
 ---
+
 # Chapter 36. Real options 780  
 
 36.1 Capital investment appraisal .780   

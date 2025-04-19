@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#crude_oil'
-  - '#deregulation'
-  - '#electricity'
-  - '#energy_derivatives'
-  - '#energy_products'
-  - '#exchange_traded_contracts'
-  - '#mean_reverting_processes'
-  - '#natural_gas'
-  - '#over_the_counter_market'
+  - cme_group
+  - commodity_markets
+  - crude_oil
+  - energy_derivatives
+  - energy_products
+  - ice_exchange
+  - natural_gas
+aliases:
+  - Energy Derivatives
+  - Natural Gas Industry
+  - Oil Market
+key_concepts:
+  - Crude oil market
+  - Energy product trading
+  - Mean reverting processes
+  - Natural gas industry
+  - Oil futures contracts
 ---
+
 # 35.3 ENERGY PRODUCTS  
 
 Energy products are among the most important and actively traded commodities.. A wide range of energy derivatives trade in both the over-the-counter market and on. exchanges. Here we consider oil, natural gas, and electricity. There are reasons for supposing that all three follow mean reverting processes. As the price of a source of energy rises, it is likely to be consumed less and and produced more. This creates a downward pressure on prices. As the price of a source of energy declines, it is likely to. be consumed more, but production is likely to be less economically viable. This creates upward pressure on the price.  

@@ -1,3 +1,23 @@
+---
+tags:
+  - asset_swap
+  - cross_currency_swap
+  - equity_for_libor
+  - equity_swaps
+  - outperformance_swaps
+aliases:
+  - Asset Swap
+  - Equity Linked Deposit
+  - Equity Swap
+  - Relative Performance Swaps
+  - Two-index Swaps
+key_concepts:
+  - Asset swap description
+  - Equity-for-LIBOR swap pricing
+  - Gain market exposure
+  - Low cost portfolio change
+  - Value equity swap
+---
 # Equity Swaps  
 
 # Aims  

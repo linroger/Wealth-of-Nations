@@ -1,21 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 title: Overnight Index Swaps (Is)
 tags:
-  - '#day_count_convention'
-  - '#floating_rate_payment'
-  - '#ois_characteristics'
-  - '#ois_fundamentals'
-  - '#ois_valuation'
-  - '#overnight_index_swaps'
-  - '#overnight_rate'
-  - '#swap_rate_calculation'
-  - '#zero_coupon_curve'
+  - day_count_convention
+  - federal_funds_rate
+  - floating_rate
+  - overnight_index_swaps
+  - sofr
+  - swap_rate
+  - zero_coupon_curve
+aliases:
+  - Is
+  - OIS
+key_concepts:
+  - cumulative return overnight rate
+  - fixed for floating payments
+  - floating rate payment
+  - swap rate calculation
+  - value of Is
 ---
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

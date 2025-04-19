@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#central_clearing'
-  - '#derivatives_markets'
-  - '#euromarkets'
-  - '#financial_regulation'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#gfc_impact'
-  - '#marking_to_market'
-  - '#onshore_markets'
-  - '#otc_markets'
+  - eurocurrency_markets
+  - euromarkets
+  - money_markets
+  - onshore_markets
+  - reserve_requirements
+aliases:
+  - Eurobond market
+  - Eurocurrency market
+  - onshore markets
+key_concepts:
+  - Eurocurrency deposit life
+  - local vs euromarkets
+  - onshore deposit example
+  - registration process implications
+  - reserve requirements implications
 ---
+
 # 2.2 MARKETS  
 
 The first distinction is between local and Euromarkets. Local markets are also called onshore markets.   

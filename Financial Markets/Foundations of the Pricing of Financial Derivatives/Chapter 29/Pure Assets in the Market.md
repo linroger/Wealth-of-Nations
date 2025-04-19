@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#complex_assets'
-  - '#financial_atoms'
-  - '#market_states'
-  - '#portfolio_construction'
-  - '#pure_assets'
-  - '#risk_free_asset'
-  - '#state_prices'
+  - complex_asset
+  - market_states
+  - pure_assets
+  - risk_free_asset
+  - state_price
+aliases:
+  - Financial Atoms
+  - Pure Asset
+  - State Price
+key_concepts:
+  - Complex asset valuation
+  - 'Market states: up, down, unchanged'
+  - Pure asset definition
+  - Risky situation, investment
+  - State price explained
 ---
+
 # 29.1 PURE ASSETS IN THE MARKET
 
 Suppose we face a risky situation, which could be as basic as a commitment of capital to. an investment in the stock market. Let us define the possible outcomes in terms of three states in which the market goes down. $2\%$ (state 1), the market is unchanged (state 2), or. the market goes up $2\%$ (state 3). Of course, in reality, the possible outcomes are infinite. and cannot be reduced to such simple statements, but the framework provided by this. simplification is, nonetheless, useful and generalizes to the case of a continuous spectrum of states.

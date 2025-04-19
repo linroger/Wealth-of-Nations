@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#antiderivative'
-  - '#definite_integral'
-  - '#fundamental_theorem_of_calculus'
-  - '#gauss_jordan_method'
-  - '#inverse_matrices'
-  - '#linear_systems_of_equations'
-  - '#matrix_equation'
-  - '#nonsingular_matrix'
-  - '#singular_matrix'
+  - gauss_jordan
+  - inverse_matrices
+  - linear_systems
+  - matrix_algebra
+  - nonsingular_matrix
+aliases:
+  - Linear Systems Solutions
+  - Matrix Inverses
+  - Solving Equations
+key_concepts:
+  - Gauss-Jordan method inverse
+  - Inverse matrix definition
+  - Linear equation solution
+  - Matrix equation representation
+  - Nonsingular matrix property
 ---
+
 # Chapter 1 Additional Readings  
 
 # Inverse Matrices and Solving Linear Systems of Equations:  

@@ -5,15 +5,22 @@ source:
 description: Introduces an example on how to value European options using Heston model
   in Quantlib Python
 tags:
-  - '#aapl_option'
-  - '#black_scholes_merton'
-  - '#cir_process'
-  - '#european_option'
-  - '#heston_model'
-  - '#option_pricing'
-  - '#quantlib_python'
-  - '#stochastic_volatility'
+  - aapl_option
+  - european_option
+  - heston_model
+  - quantlib_python
+  - stochastic_volatility
+aliases:
+  - Heston Option Pricing
+  - QuantLib Heston
+key_concepts:
+  - Black-Scholes comparison
+  - European option valuation
+  - Heston model
+  - QuantLib Python example
+  - Stochastic volatility
 ---
+
 # Valuing European Option Using the Heston Model in QuantLib Python
 
 Introduces an example on how to value European options using Heston model in Quantlib Python

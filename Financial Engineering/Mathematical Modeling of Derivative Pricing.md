@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton'
-  - '#european_options'
-  - '#feynman_kac_theorem'
-  - '#girsanov_theorem'
-  - '#heston_model'
-  - '#ito_calculus'
-  - '#mathematical_modeling'
-  - '#option_pricing'
-  - '#risk_neutral_pricing'
-  - '#stochastic_volatility'
+  - black_scholes_model
+  - derivative_pricing
+  - heston_model
+  - option_pricing
+  - stochastic_calculus
+aliases:
+  - Black-Scholes
+  - Heston
+  - Option Pricing
+key_concepts:
+  - Black-Scholes-Merton PDE
+  - Heston model introduction
+  - Option pricing formulas
+  - Stochastic calculus review
+  - Stochastic volatility modeling
 ---
+
 # MATHEMATICAL MODELING OF DERIVATIVE PRICING  
 
 WILL GRIFFIN  

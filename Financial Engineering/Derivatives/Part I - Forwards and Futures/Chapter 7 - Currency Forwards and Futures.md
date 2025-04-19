@@ -1,3 +1,22 @@
+---
+tags:
+  - covered_interest_arbitrage
+  - currency_futures
+  - fx_forwards
+  - fx_hedging
+  - spot_exchange_rate
+aliases:
+  - Currency Forwards
+  - Currency Futures
+  - FX Futures
+  - FX-forward
+key_concepts:
+  - Covered interest arbitrage
+  - Currency speculation
+  - FX futures contracts
+  - Hedging future payments
+  - Spot exchange rate
+---
 # Currency Forwards and Futures  
 
 # Aims  

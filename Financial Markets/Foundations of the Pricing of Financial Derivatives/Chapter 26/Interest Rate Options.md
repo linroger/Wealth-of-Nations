@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#black_model'
-  - '#interest_rate_call'
-  - '#interest_rate_caps'
-  - '#interest_rate_collars'
-  - '#interest_rate_floors'
-  - '#interest_rate_options'
-  - '#interest_rate_put'
-  - '#swaptions'
-  - '#term_structure_models'
+  - arbitrage_free_model
+  - black_model
+  - heath_jarrow_morton
+  - interest_rate_options
+  - interest_rate_swaps
+aliases:
+  - IRO
+  - Interest Rate Option
+  - Option on Interest Rates
+key_concepts:
+  - Arbitrage-free term structure model
+  - Black model application
+  - Fixed payment, floating payment
+  - Interest rate options
+  - Option valuation challenges
 ---
+
 # 26.3 INTEREST RATE OPTIONS
 
 As with interest rate forwards and swaps, there are also options on interest rates. An interest rate option gives the right but not the obligation to make or receive a fixed payment at an upcoming date. An interest rate call is the right to make a fixed payment and receive a floating payment. An interest rate put is the right to receive a fixed payment and make a floating payment. As with swaps, the rate is determined on the settlement date, but the payment is made on the next settlement date, at which time the rate is reset.

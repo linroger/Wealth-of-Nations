@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#25_delta_usd_risk_reversals'
-  - '#black_scholes_formula'
-  - '#dollar_strength'
-  - '#market_makers'
-  - '#option_markets'
-  - '#quoting_conventions'
-  - '#risk_reversals'
-  - '#volatility_smile'
-  - '#volatility_spreads'
+  - euro_dollar
+  - option_markets
+  - quoting_conventions
+  - risk_reversals
+  - volatility_smile
+aliases:
+  - Quoting
+  - Risk Reversal Quotes
+  - Volatility Quotes
+key_concepts:
+  - 25-delta USD risk
+  - Market maker volatility
+  - Quoting conventions
+  - Risk reversal examples
+  - Volatility skewness
 ---
+
 # 11.5 QUOTING CONVENTIONS  
 
 Quoting conventions in option markets may be very complicated. Given that market makers look at options as instruments of volatility, they often prefer quoting volatility directly, rather than a cash value for the option. These quotes can be very confusing at times. The best way to study them is to consider the case of risk reversals. Risk reversal quotes illustrate the role played by volatility, and show explicitly the existence of a skewness in the volatility smile, an important empirical observation that will be dealt with separately in Chapter 16.  

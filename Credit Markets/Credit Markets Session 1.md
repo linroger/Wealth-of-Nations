@@ -1,20 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Session 1
 tags:
-  - '#bond_valuation'
-  - '#credit_default_risk'
-  - '#credit_instruments'
-  - '#credit_markets'
-  - '#credit_risk_modeling'
-  - '#credit_spreads'
-  - '#instrument_types'
-  - '#market_participants'
-  - '#quoting_conventions'
-  - '#trading_venues'
+  - credit_instruments
+  - credit_markets
+  - credit_trading
+  - default_risk
+  - fixed_income
+aliases:
+  - Credit Default Risk
+  - Credit Markets
+  - Credit Trading
+  - Session 1
+key_concepts:
+  - credit default swaps
+  - credit market segments
+  - default risk valuation
+  - instrument types
+  - seniority ranks
 ---
+
 # Credit Markets Session 1
 - Course objective: introduce basic concepts on pricing,  trading and portfolio risk management for credit instruments. Discuss credit market segments,  seniority ranks,  instrument types & specs,  quoting conventions,  execution venues and trading protocols
 - Understand the valuation of an instrument with default risk

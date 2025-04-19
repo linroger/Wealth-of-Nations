@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#arbitrage_opportunities'
-  - '#continuous_compounding'
-  - '#delivery_date'
-  - '#forward_futures_contracts'
-  - '#market_participants'
-  - '#notation'
-  - '#risk_free_rate'
-  - '#transaction_costs'
+  - arbitrage_opportunities
+  - assumptions_and_notation
+  - forward_prices
+  - market_participants
+  - risk_free_rate
+  - transaction_costs
+aliases:
+  - Assumptions
+  - Forward Price
+  - Notation
+key_concepts:
+  - Arbitrage opportunities
+  - Borrow/lend at same rate
+  - Market participants assumptions
+  - No transaction costs
+  - Same tax rate
 ---
+
 # 5.3 ASSUMPTIONS AND NOTATION  
 
 In this chapter we will assume that the following are all true for some market participants:  

@@ -2,21 +2,26 @@
 title: Forward Rates Agreement
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#arbitrage_strategies'
-  - '#covered_interest_rate_parity'
-  - '#currency_forwards'
-  - '#financial_crisis_2007_2009'
-  - '#forward_contracts'
-  - '#forward_exchange_rate'
-  - '#forward_valuation'
-  - '#law_of_one_price'
-  - '#no_arbitrage_principle'
-  - '#stock_forward_pricing'
+  - arbitrage
+  - forward_contracts
+  - law_of_one_price
+  - no_arbitrage
+  - spot_exchange
+aliases:
+  - arbitrage opportunity
+  - forward rate
+  - long forward
+  - short forward
+  - spot rate
+key_concepts:
+  - buy cheap sell dear
+  - exchange goods for money
+  - identical payoffs same price
+  - no arbitrage principle
+  - prespecified future date price
 ---
+
 [Deriving Forward Exchange Rate Numerical Example 1](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example%201.md)
 
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)

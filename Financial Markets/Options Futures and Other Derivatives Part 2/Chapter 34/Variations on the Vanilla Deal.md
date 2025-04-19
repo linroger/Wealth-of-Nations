@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#amortizing_swaps'
-  - '#basis_swaps'
-  - '#fixed_rate_funding'
-  - '#floating_reference_rate'
-  - '#forward_rates'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#notional_principal'
-  - '#ois_transaction'
-  - '#step_up_swaps'
+  - amortizing_swaps
+  - floating_rates
+  - interest_rate_swaps
+  - libor
+  - step_up_swaps
+aliases:
+  - Vanilla Swap Variations
+key_concepts:
+  - Basis swaps
+  - Floating reference rates
+  - Notional principal changes
+  - OIS transactions
+  - Step-up and amortizing swaps
 ---
+
 # 34.1 VARIATIONS ON THE VANILLA DEAL  
 
 Many interest rate swaps involve relatively minor variations to the plain vanilla structure discussed in Chapter 7. In some swaps the notional principal changes with time in a predetermined way. Swaps where the notional principal is an increasing. function of time are known as step-up swaps. Swaps where the notional principal is a. decreasing function of time are known as amortizing swaps. Step-up swaps could be useful for a construction company that intends to borrow increasing amounts of money at floating rates to finance a particular project and wants to swap to fixed-rate funding. An amortizing swap could be used by a company that has fixed-rate borrowings with a certain prepayment schedule and wants to swap to borrowings at. a floating rate.  

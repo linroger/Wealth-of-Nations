@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#bond_pricing_formula'
-  - '#feynman_kac_formula'
-  - '#inflation_effects'
-  - '#money_illusion'
-  - '#nominal_bonds'
-  - '#ode_solutions'
-  - '#real_bonds'
+  - feynman_kac
+  - money_illusion
+  - nominal_bonds
+  - ode_solutions
+  - real_bonds
+aliases:
+  - Short Rate Model
+  - Vasicek Model
+key_concepts:
+  - Feynman-Kac Formula
+  - First Derivatives
+  - Nominal vs Real Bonds
+  - ODE Solutions
+  - System of Equations
 ---
+
 $\textbf{Define}$
 $$
 Q = \log (\text{CPI}), \quad y = \log (Y)

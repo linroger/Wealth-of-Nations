@@ -1,14 +1,24 @@
 ---
 tags:
-  - '#day_count_conventions'
-  - '#duration_based_hedging'
-  - '#eurodollar_futures'
-  - '#hedging_strategies'
-  - '#interest_rate_futures'
-  - '#portfolio_hedging'
-  - '#sofr_futures'
-  - '#treasury_bond_futures'
+  - day_count_conventions
+  - duration_hedging
+  - eurodollar_futures
+  - hedging_strategies
+  - interest_rate_futures
+  - sofr_futures
+  - treasury_bond_futures
+aliases:
+  - Chapter 6
+  - Futures Hedging
+  - Interest Rate Futures
+key_concepts:
+  - Day count conventions
+  - Duration-based hedging
+  - Eurodollar and SOFR
+  - Hedging assets and liabilities
+  - Treasury bond futures
 ---
+
 # Chapter 6.Interest rate futures 130  
 
 6.1 Day count and quotation conventions. 130   

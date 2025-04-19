@@ -1,3 +1,22 @@
+---
+tags:
+  - basis_risk
+  - futures_contracts
+  - hedging
+  - price_risk
+  - spot_market
+aliases:
+  - Futures Hedging
+  - Hedging with Futures
+  - Long Position
+  - Short Hedge
+key_concepts:
+  - Futures contract gain
+  - Futures for hedging
+  - Reduce price risk
+  - Short hedge explained
+  - Spot market risk
+---
 # Futures: Hedging and Speculation  
 
 # Aims  

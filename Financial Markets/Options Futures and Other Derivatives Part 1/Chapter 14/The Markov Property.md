@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#investor_behavior'
-  - '#market_efficiency'
-  - '#markov_property'
-  - '#probability_distribution'
-  - '#stochastic_process'
-  - '#stock_prices'
-  - '#technical_analysis'
-  - '#weak_form_market_efficiency'
+  - market_efficiency
+  - markov_process
+  - stock_prices
+  - technical_analysis
+  - weak_form
+aliases:
+  - Markov
+  - Markov Property
+key_concepts:
+  - Competition in marketplace
+  - Markov process definition
+  - Predicting future stock prices
+  - Technical analysis returns
+  - Weak form market efficiency
 ---
+
 # 14.1 THE MARKOV PROPERTY  
 
 A Markov process is a particular type of stochastic process where only the current value. of a variable is relevant for predicting the future. The past history of the variable and the way that the present has emerged from the past are irrelevant..  

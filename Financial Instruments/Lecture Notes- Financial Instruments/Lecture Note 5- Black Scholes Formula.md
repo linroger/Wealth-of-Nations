@@ -1,21 +1,25 @@
 ---
 cssclasses: academia
-aliases:
-  - LECTURE NOTE 5 BLACK SCHOLES FORMULA
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 title: Lecture Note 5Black Scholes Formula
 tags:
-  - '#binomial_trees'
-  - '#black_scholes_formula'
-  - '#capital_protected_note'
-  - '#delta_gamma_hedging'
-  - '#delta_hedging'
-  - '#dynamic_replication'
-  - '#greeks'
-  - '#option_beta'
-  - '#option_pricing'
-  - '#risk_management'
+  - black_scholes_formula
+  - delta_hedging
+  - dynamic_replication
+  - option_premium
+  - option_pricing
+aliases:
+  - Black Scholes Formula
+  - Black and Scholes Formula
+  - Lecture Note 5Black Scholes Formula
+key_concepts:
+  - Black Scholes Formula
+  - Delta Hedging
+  - Dynamic Replication
+  - Option Premium
+  - Replicating Portfolio
 ---
+
 ---
 
 title: LECTURE NOTE 5 BLACK SCHOLES FORMULA

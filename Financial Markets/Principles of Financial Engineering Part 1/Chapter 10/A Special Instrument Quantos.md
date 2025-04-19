@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#correlation'
-  - '#currency_risk'
-  - '#financial_engineering'
-  - '#foreign_equity'
-  - '#forward_contracts'
-  - '#interest_rate_risk'
-  - '#pricing_quantos'
-  - '#quanto_instruments'
-  - '#quanto_swaps'
+  - currency_swap
+  - financial_engineering
+  - funding_costs
+  - interest_rate_risk
+  - quanto_swap
+aliases:
+  - Differential Swap
+  - Quanto-type financial products
+  - USD/EUR Swap
+key_concepts:
+  - Currency swap example
+  - Interest rate differentials
+  - JPY interest rate
+  - Quanto-type financial products
+  - USD and EUR cash flows
 ---
+
 # 10.5 A SPECIAL INSTRUMENT: QUANTOS  
 
 Quanto-type financial products form a major class of instruments where price depends on correla-. tions. At the end of this chapter, we will look at these in detail and study the financial engineering. of quantos by discussing their characteristics and other issues. This can be regarded as another example to the methods introduced in Chapter 9. We will consider pricing of quantos in Chapter 13.  

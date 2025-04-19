@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#counterparty_risk'
-  - '#csa_collateral'
-  - '#fixed_income_derivatives'
-  - '#gfc_impact'
-  - '#libor_ois_spread'
-  - '#multiple_curves'
-  - '#ois_discounting'
-  - '#risk_management'
-  - '#valuation_adjustments'
+  - discount_rate
+  - gfc
+  - libor_ois_spread
+  - multiple_curves
+  - ois_discounting
+aliases:
+  - LIBOR
+  - OIS discounting
+  - OIS rates
+key_concepts:
+  - Counterparty risk
+  - Derivatives transactions
+  - FVA debate
+  - OIS vs LIBOR
+  - Risk-free discount rate
 ---
+
 # 24.9 CHOICE OF THE DISCOUNT RATE AND MULTIPLE CURVES  
 
 Throughout the book, we took the standard approach of pricing derivatives under the risk-neutral measure and using a risk-free discount rate. This was based on the fundamental financial engineering principle that a derivative can be valued by means of a replicating portfolio that leads to a riskfree portfolio. However, as will see below, one of the most common proxies for the risk-free rate. before the GFC embeds a significant amount of counterparty risk which makes it an unsatisfactory. proxy for the risk-free rate. We introduced LIBOR and the OIS rate in Chapter 3. Figure 24.8 shows the LIBOR-OIS spread over the December 2003-July 2014 period based on Bloomberg data. The solid line and the dashed line show the 1-month and 3-month LIBOR-OIS spreads,. respectively. As the figure shows there were several episodes where the LIBOR and OIS rates. diverged by several percentage points including the years during the GFC. The divergence between the two rates reflects counterparty risk and changes in the perception of creditworthiness of banks. and their willingness to lend to each other.  

@@ -1,19 +1,24 @@
 ---
 title: The Phases of the Classic Deflationary Debt Cycle
-aliases: []
 cssclasses: academia
 tags:
-  - '#bubble_formation'
-  - '#central_bank_influence'
-  - '#deflationary_debt_cycle'
-  - '#deleveraging'
-  - '#economic_depressions'
-  - '#economic_recovery'
-  - '#macroprudential_policies'
-  - '#monetary_policy'
-  - '#policy_responses'
-  - '#wealth_distribution'
+  - bubble_formation
+  - debt_cycles
+  - deleveraging
+  - economic_cycles
+  - financial_crises
+aliases:
+  - Cycle Stages
+  - Debt Cycle Phases
+  - Deflationary Cycle
+key_concepts:
+  - Borrowing and spending impact
+  - Bubble formation stages
+  - Debt growth vs income
+  - Identifying market bubbles
+  - Monetary policy influence
 ---
+
  #Economics #Debt_Cycles #Deleveraging #Financial_Crises
 
 # The Phases of the Classic Deflationary Debt Cycle

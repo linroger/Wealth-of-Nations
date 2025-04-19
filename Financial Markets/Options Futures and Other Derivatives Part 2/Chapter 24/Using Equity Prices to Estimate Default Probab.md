@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_volatility'
-  - '#black_scholes_merton'
-  - '#debt_valuation'
-  - '#default_probabilities'
-  - '#default_ranking'
-  - '#equity_prices'
-  - '#merton_model'
-  - '#risk_neutral_probability'
+  - black_scholes
+  - credit_rating
+  - default_probability
+  - equity_prices
+  - merton_model
+aliases:
+  - Estimating Default Probabilities
+  - Merton's Model
+key_concepts:
+  - Black-Scholes formula
+  - Default probability estimation
+  - Equity prices for default
+  - Merton's option model
+  - Risk-neutral probability
 ---
+
 # 24.6  USING EQUITY PRICES TO ESTIMATE DEFAULT PROBABILITIES  
 
 When we use a table such as Table 24.1 to estimate a company's real-world probability of default, we are relying on the company's credit rating. Unfortunately, credit ratings. are revised relatively infrequently. This has led some analysts to argue that equity prices can provide more up-to-date information for estimating default probabilities..  

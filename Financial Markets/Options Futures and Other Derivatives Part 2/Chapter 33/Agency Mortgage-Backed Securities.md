@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#agency_mortgage_backed_securities'
-  - '#bgm_model'
-  - '#collateralized_mortgage_obligations'
-  - '#hjm_model'
-  - '#interest_rate_derivatives'
-  - '#io_pos'
-  - '#mortgage_prepayments'
-  - '#option_adjusted_spread'
-  - '#swaps'
+  - agency_mbs
+  - cmo_structure
+  - fixed_income
+  - mortgage_backed_securities
+  - prepayment_risk
+aliases:
+  - CMO
+  - agency MBS
+  - pass-through
+key_concepts:
+  - agency MBS market
+  - collateralized mortgage obligation
+  - prepayment function
+  - prepayment privileges
+  - stripped MBS
 ---
+
 # 33.3 AGENCY MORTGAGE-BACKED SECURITIES  
 
 One application of the models presented in this chapter is to the agency mortgagebacked security (agency MBS) market in the United States.  

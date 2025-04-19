@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#arbitrage_free_pricing'
-  - '#breeden_litzenberger_theorem'
-  - '#butterfly_spreads'
-  - '#dirac_delta_function'
-  - '#european_options'
-  - '#option_pricing'
-  - '#option_strategies'
-  - '#risk_adjusted_probabilities'
-  - '#vanilla_options'
+  - breeden_litzenberger
+  - butterfly_strategy
+  - european_options
+  - option_pricing
+  - risk_adjusted_probabilities
+aliases:
+  - BL Theorem
+  - Breeden-Litzenberger Theorem
+  - Butterfly Spread
+  - Option Pricing
+key_concepts:
+  - Arbitrage-free pricing
+  - Butterfly option strategy
+  - Conditional risk-adjusted density
+  - Dirac delta function
+  - European call options
+  - Risk-adjusted probabilities
+  - Strike prices
 ---
+
 # 16.6 BREEDEN-LITZENBERGER SIMPLIFIED  
 
 The so-called Breeden-Litzenberger Theorem is an important result that shows how one can back out risk-adjusted probabilities from liquid arbitrage-free option prices. In this section, we discuss a trader's approach to Breeden--Litzenberger. This approach will show the theoretical relevance of some popular option strategies used in practice. Below, we use a simplified framework which could be generalized in a straightforward way. However, we will not generalize these results, but instead in the following section use the dirac delta approach to prove the Breeden-Litzenberger theorem.  

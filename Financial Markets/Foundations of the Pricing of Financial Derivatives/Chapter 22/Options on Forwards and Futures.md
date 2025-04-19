@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_model'
-  - '#black_model'
-  - '#black_scholes_merton'
-  - '#early_exercise'
-  - '#european_options'
-  - '#futures_pricing'
-  - '#hedging_strategies'
-  - '#ito_lemma'
-  - '#options_on_futures'
+  - european_option
+  - futures_contracts
+  - hedged_portfolio
+  - option_pricing
+  - options_on_futures
+aliases:
+  - Futures Options
+  - Options on Futures
+key_concepts:
+  - Dynamically hedged portfolio
+  - Futures market transparency
+  - Long call option
+  - Option pricing model
+  - Short put option
 ---
+
 # 22.3 OPTIONS ON FORWARDS AND FUTURES
 
 Options on forwards are not widely used, but options on futures are very actively traded in the Us. One of the reasons for this is that futures markets are quite transparent. Prices are readily available, and there is considerable liquidity for many of these instruments. With the underlying being a futures contract and it being so widely traded in typically quite liquid. markets, it is not surprising that options on futures are quite popular. A long call option that is exercised leads to a long position in the futures, whereas the counterparty is assigned. a short position in the futures. A put option that is exercised leads to a short position in the underlying, whereas the counterparty is assigned a long position. If the futures expires at the same time as the option, exercise of the option converts into a position in the futures that immediately converts into a position in the underlying asset. As such, a European option on a futures that expires at the same time as the futures would have the same price as the corresponding European option on the spot..

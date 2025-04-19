@@ -4,17 +4,25 @@ source: https://www.investopedia.com/terms/s/swaprate.asp
 description: The swap rate is a fixed interest rate that is used to calculate payments
   in a derivative instrument called an interest rate swap.
 tags:
-  - '#currency_swap'
-  - '#fixed_rate'
-  - '#floating_rate'
-  - '#interest_rate_swap'
-  - '#market_risk_management'
-  - '#notional_amount'
-  - '#swap_rate'
-  - '#swap_risks'
-  - '#swap_tenor'
-  - '#swap_types'
+  - fixed_interest_rate
+  - floating_interest_rate
+  - interest_rate_swap
+  - market_forces
+  - swap_rate
+aliases:
+  - Fixed Rate
+  - Floating Rate
+  - Interest Rate Swap
+  - Swap Rate Definition
+key_concepts:
+  - Fixed interest rate
+  - Floating interest rate
+  - Interest rate swap contract
+  - Notional amount
+  - Payment frequency
 ---
+
+
 ## What Is the Swap Rate?
 
 The swap rate is a fixed interest rate that is used to calculate the fixed payments in a derivative instrument called an interest rate swap. An interest rate swap is a financial contract between two parties who agree to exchange interest rate cash flows based on a notional amount.

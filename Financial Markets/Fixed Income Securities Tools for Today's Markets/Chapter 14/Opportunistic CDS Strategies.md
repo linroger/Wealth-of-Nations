@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#cds_trading'
-  - '#credit_default_swap'
-  - '#default_definition'
-  - '#hovnanian_case'
-  - '#manufactured_default'
-  - '#market_integrity'
-  - '#mcclatchy_case'
-  - '#opportunistic_cds_strategies'
-  - '#sears_holding_corp'
-  - '#windstream_case'
+  - cds_market
+  - cds_strategies
+  - hovnanian
+  - manufactured_default
+  - opportunistic_strategies
+aliases:
+  - CDS Strategies
+  - Manufactured Default
+  - Opportunistic CDS
+key_concepts:
+  - CDS buyers and sellers
+  - CDS traders and issuers
+  - Final recovery expectations
+  - Hovnanian manufactured default
+  - Opportunistic CDS strategies
 ---
+
 # 14.12 OPPORTUNISTIC CDS STRATEGIES  
 
 In theory, CDS traders take the behavior of debt issuers as given, and debt issuers essentially ignore CDS trading on their obligations. In practice, however, because of the complexities of CDS contracts (e.g., specifying events of default; defining reference entities and deliverable obligations; setting rules for settlement auctions), both CDS traders and issuers have occasionally tried to profit from crossing the lines separating their respective markets. These instances have been called opportunistic CDS strategies.  

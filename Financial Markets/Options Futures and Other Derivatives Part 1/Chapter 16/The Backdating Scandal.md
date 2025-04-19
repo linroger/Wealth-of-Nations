@@ -1,14 +1,25 @@
 ---
 tags:
-  - '#backdating_scandal'
-  - '#black_scholes_merton_model'
-  - '#employee_stock_options'
-  - '#executive_compensation'
-  - '#financial_reporting'
-  - '#sec_regulations'
-  - '#stock_option_grants'
-  - '#stock_price_manipulation'
+  - accounting_standards
+  - backdating_scandal
+  - black_scholes_merton_model
+  - employee_stock_options
+  - stock_option_grants
+aliases:
+  - Backdating
+  - Option Backdating
+  - Stock Option Backdating
+key_concepts:
+  - At-the-money options
+  - Backdating practice
+  - Black-Scholes-Merton model
+  - Exercise or expiry time
+  - Illegal reporting options
+  - Restate financial statements
+  - Stock price to strike
+  - Value employee stock options
 ---
+
 # 16.5 THE BACKDATING SCANDAL  
 
 No discussion of employee stock options would be complete without mentioning a. backdating scandal. Backdating is the practice of marking a document with a date that precedes the current date.  

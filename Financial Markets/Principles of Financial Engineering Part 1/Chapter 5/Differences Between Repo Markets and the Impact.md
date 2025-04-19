@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#bilateral_repo_market'
-  - '#central_counterparties_ccp'
-  - '#creditworthiness_risk'
-  - '#euro_interbank_repo_market'
-  - '#financial_engineering_applications'
-  - '#global_financial_crisis_gfc'
-  - '#institutional_structure'
-  - '#repo_market_dynamics'
-  - '#tri_party_repo_market'
+  - bilateral_repo
+  - ccp_repos
+  - collateral
+  - counterparty_risk
+  - financial_engineering
+  - gfc
+  - institutional_structure
+  - interbank_market
+  - repo_market
+  - tri_party_repo
+aliases:
+  - GFC Repo Impact
+  - Repo Market Analysis
+  - Repo Market Dynamics
+key_concepts:
+  - Bilateral and tri-party runs
+  - CCP vs non-CCP repos
+  - Collateral and haircuts
+  - Lehman Brothers demise
+  - Repo market structure impact
 ---
+
 # 5.7 DIFFERENCES BETWEEN REPO MARKETS AND THE IMPACT OF THE GFC  
 
 The institutional structure of the repo market had an important effect on the financial system and financial markets in different countries during the GFC. In the United States, both the bilateral and tri-party repo markets experienced runs. The demise of Lehman Brothers was accelerated when creditors in the tri-party repo market refused to extend repo financing to the bank, since they were concerned about the creditworthiness and counterparty risk of Lehman Brothers. The bilateral repo market for different asset classes experienced a different kind of run during the GFC as collateral buyers increased haircuts, thus forcing some collateral sellers to liquidate assets.13 Financial engineers and traders need to take such potential runs into account when designing products and risk. managing their positions.  

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#european_option_pricing'
-  - '#exotic_option_pricing'
-  - '#implied_volatility_function'
-  - '#ivf_model'
-  - '#local_volatility_model'
-  - '#option_pricing_model'
-  - '#plain_vanilla_options'
-  - '#risk_neutral_process'
+  - european_option
+  - implied_volatility
+  - ivf_model
+  - local_volatility
+  - option_pricing
+aliases:
+  - Implied Volatility Function
+  - Local Volatility Model
+key_concepts:
+  - European option prices
+  - Exotic option pricing
+  - IVF model
+  - Risk-neutral process
+  - Volatility surface
 ---
+
 # 27.3 THE IVF MODEL  
 
 The parameters of the models we have discussed so far can be chosen so that they provide an approximate fit to the prices of plain vanilla options on any given day. Financial institutions sometimes want to go one stage further and use a model that provides an exact fit to the prices of these options.16 In 1994 Derman and Kani, Dupire, and Rubinstein developed a model that is designed to do this. It has become known as the implied volatility function (IVF) model or the local volatility model.17 It provides an exact fit to the European option prices observed on any given day, regardless of the shape of the volatility surface.  

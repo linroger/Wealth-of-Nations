@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asset_liability_management'
-  - '#bond_portfolio_hedging'
-  - '#duration_based_hedging'
-  - '#eurodollar_futures'
-  - '#futures_contracts'
-  - '#hedge_ratio'
-  - '#interest_rate_futures'
-  - '#treasury_bond_futures'
-  - '#yield_curve'
+  - bond_portfolio
+  - duration_based_hedging
+  - hedge_ratio
+  - interest_rate_futures
+  - treasury_bond_futures
+aliases:
+  - Duration Hedging
+  - Futures Hedging
+  - Price Sensitivity Hedging
+key_concepts:
+  - Duration-based hedge ratio
+  - Duration-based hedging strategies
+  - Hedging bond portfolio yield
+  - Interest rate futures contracts
+  - Treasury bond futures contract
 ---
+
 # 6.4 DURATION-BASED HEDGING STRATEGIES USING FUTURES  
 
 We discussed duration in Section 4.10. Interest rate futures can be used to hedge the yield on a bond portfolio at a future time. Define:.  

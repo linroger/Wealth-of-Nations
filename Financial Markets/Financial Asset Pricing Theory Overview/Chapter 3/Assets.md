@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#brownian_motion'
-  - '#continuous_time_framework'
-  - '#discrete_time_framework'
-  - '#dividends'
-  - '#gross_rate_of_return'
-  - '#log_return'
-  - '#returns'
-  - '#risk_free_assets'
-  - '#stochastic_process'
+  - asset_pricing
+  - assets
+  - discrete_time
+  - dividends
+  - risk_free
+aliases:
+  - Asset characteristics
+  - Asset definition
+  - Returns
+key_concepts:
+  - Asset price and dividends
+  - Discrete-time model dividends
+  - Expected return and price
+  - Gross rate of return
+  - Net rate of return
+  - One-period model framework
+  - Risk-free asset definition
 ---
+
 # 3.2 Assets  
 
 An asset is characterized by its dividends and its price. We will always assume that the dividends of the basic assets are non-negative and that there is a positive probability of a positive dividend. at the terminal date of the model. Then we can safely assume (since equilibrium prices will be arbitrage-free; see precise definition below) that the prices of the basic assets are always positive. We assume without loss of generality that assets pay no dividends at time 0. The price of an asset. at a given point in time is exclusive any dividend payment at that time, i.e. prices are ex-dividend. At the last point in time considered in the model, all assets must have a zero price. We assume throughout that $I$ basic assets are traded.  

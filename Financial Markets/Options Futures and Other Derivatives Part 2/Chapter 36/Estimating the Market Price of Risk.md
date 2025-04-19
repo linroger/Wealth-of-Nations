@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#capital_asset_pricing_model'
-  - '#correlation_analysis'
-  - '#historical_data_analysis'
-  - '#investment_asset_valuation'
-  - '#market_price_of_risk'
-  - '#real_options_approach'
-  - '#risk_neutral_world'
-  - '#stochastic_variables'
+  - capital_asset_pricing_model
+  - historical_analysis
+  - investment_asset
+  - market_price_risk
+  - risk_neutral_world
+aliases:
+  - CAPM
+  - MPR
+  - Market Price of Risk
+key_concepts:
+  - Estimating market price of risk
+  - Historical data correlation
+  - Investment asset return
+  - Real-options approach
+  - Risk-neutral process
 ---
+
 # 36.3 ESTIMATING THE MARKET PRICE OF RISK  
 
 The real-options approach to evaluating an investment avoids the need to estimate riskadjusted discount rates in the way described in Section 36.1, but it does require market price of risk parameters for all stochastic variables. When historical data are available for a particular variable, its market price of risk can be estimated using the capital asset pricing model. To show how this is done, we consider an investment asset dependent solely on the variable and define:  

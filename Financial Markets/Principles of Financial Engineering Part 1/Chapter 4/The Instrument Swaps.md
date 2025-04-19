@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cash_flow_exchange'
-  - '#currency_swap'
-  - '#initial_value_zero'
-  - '#interest_rate_swap'
-  - '#isda_documentation'
-  - '#risk_factors'
-  - '#swap_contract'
-  - '#swap_spread'
+  - cash_flow
+  - financial_instrument
+  - risk_factors
+  - swap_contract
+  - swap_spread
+aliases:
+  - Cash Flow Exchange
+  - Swap Agreement
+  - Swap Basics
+key_concepts:
+  - Exchange of cash flows
+  - Market value equality
+  - Net amount exchange
+  - Swap spread adjustment
+  - Zero initial value
 ---
+
 # 4.3 THE INSTRUMENT: SWAPS  
 
 Imagine any two sequences of cash flows with different characteristics. These cash flows could be.   

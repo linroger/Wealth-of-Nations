@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#cdos'
-  - '#credit_default_swap'
-  - '#credit_derivatives'
-  - '#default_correlation'
-  - '#dynamic_models'
-  - '#exotic_options'
-  - '#gaussian_copula_model'
-  - '#implied_copula_model'
+  - cdos
+  - credit_risk
+  - default_probability
+  - gaussian_copula
+  - market_model
+aliases:
+  - Copula Models
+  - Standard Market Model Alternatives
+key_concepts:
+  - Dynamic models
+  - Heterogeneous model
+  - Implied copula model
+  - Structural models
+  - Student t distributions
 ---
+
 # 25.11 ALTERNATIVES TO THE STANDARD MARKET MODEL  
 
 This section outlines a number of alternatives to the one-factor Gaussian copula model that has become the market standard..  

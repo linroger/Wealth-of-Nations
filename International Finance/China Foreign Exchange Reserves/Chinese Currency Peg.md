@@ -1,23 +1,28 @@
 ---
 cssclasses:
   - academia
-aliases: []
 description: Explore China's currency peg,           which has helped Asia's largest
   economy enjoy robust growth and continued prosperity by making the nation's exports
   cheaper.
 source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
 title: Chinese Currency Peg
 tags:
-  - '#china_economy'
-  - '#chinese_yuan'
-  - '#currency_peg'
-  - '#economic_growth'
-  - '#exports'
-  - '#foreign_exchange_reserves'
-  - '#gdp_per_capita'
-  - '#trade_surplus'
-  - '#us_china_trade'
+  - china_economy
+  - chinese_yuan
+  - currency_peg
+  - exchange_rate
+  - trade_imbalance
+aliases:
+  - China's Currency Peg
+  - Yuan Peg
+key_concepts:
+  - Benefits of cheap goods
+  - China's currency peg explained
+  - Exports drive China's economy
+  - US manufacturers' complaints
+  - Yuan's low value benefits China
 ---
+
 # Chinese Currency Peg
 ## What Is China's Currency Peg?
 

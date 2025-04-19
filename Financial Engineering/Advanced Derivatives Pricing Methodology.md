@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#advanced_derivatives_pricing'
-  - '#black_scholes_model'
-  - '#delta_hedging'
-  - '#gamma_hedging'
-  - '#implied_volatility'
-  - '#market_completeness'
-  - '#no_arbitrage_models'
-  - '#risk_neutral_valuation'
-  - '#stochastic_volatility'
-  - '#vega_hedging'
+  - advanced_derivatives_pricing
+  - derivative_securities
+  - no_arbitrage
+  - risk_management
+  - valuation
+aliases:
+  - Advanced Pricing
+  - Derivatives Pricing
+  - P v. Q
+key_concepts:
+  - future cash flows
+  - no-arbitrage models
+  - risk-neutral probabilities
+  - underlying security price
+  - valuation replication hedging
 ---
+
 # Overview  
 
 

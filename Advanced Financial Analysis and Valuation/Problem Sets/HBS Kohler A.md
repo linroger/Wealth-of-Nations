@@ -1,19 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#destination_kohler'
-  - '#fair_value'
-  - '#financial_statements'
-  - '#kohler_co'
-  - '#kohler_family'
-  - '#ownership_structure'
-  - '#private_company'
-  - '#recapitalization'
-  - '#share_valuation'
-  - '#shareholder_dispute'
+  - financial_statements
+  - long_term_view
+  - ownership_control
+  - private_company
+  - reverse_stock_split
+aliases:
+  - Herbert Kohler
+  - Kohler Case
+  - Kohler Company
+key_concepts:
+  - Financial disclosure concerns
+  - Financial performance overview
+  - Kohler Co. ownership structure
+  - Private company long-term view
+  - Reverse stock split details
 ---
+
 ## KOHLER CO. (A)
 
 Herbert V. Kohler, Jr., Chairman and CEO of Kohler Co., faced a difficult decision at the beginning of April 2000. A trial was scheduled to start in a few days to determine the value of Kohler Co., one of the oldest and largest privately held firms in the U.S, with 17,500 employees and over $2 billion in sales. Well known as a maker of plumbing fixtures, Kohler Co. also had a long history as a manufacturer of small engines and generators. More recently, the company had diversified into furniture and luxury resorts and expanded operations from its Kohler, Wisconsin headquarters into 12 countries.  

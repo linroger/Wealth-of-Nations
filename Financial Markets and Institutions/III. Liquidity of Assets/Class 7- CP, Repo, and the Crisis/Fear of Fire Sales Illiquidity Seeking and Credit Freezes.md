@@ -1,20 +1,25 @@
 ---
-aliases:
-  - Fear of Fire Sales Illiquidity Seeking and Credit Freezes
-  - Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
 title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 tags:
-  - '#asset_pricing'
-  - '#bank_solvency'
-  - '#banking_system'
-  - '#credit_freeze'
-  - '#financial_crisis'
-  - '#fire_sales'
-  - '#government_intervention'
-  - '#illiquidity'
-  - '#liquidity_risk'
-  - '#market_freeze'
+  - banking_system
+  - credit_freeze
+  - financial_crisis
+  - fire_sales
+  - illiquidity
+aliases:
+  - Diamond and Rajan
+  - Financial Institutions
+  - Fire Sale Paper
+  - Liquidity Shock
+key_concepts:
+  - Banking system cleanup
+  - Financial crisis consequences
+  - Fire sales and illiquidity
+  - Illiquid asset sales
+  - Lending reduction impact
+  - Liquidity shock fears
 ---
+
 # Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 
 ## The Quarterly Journal of Economics

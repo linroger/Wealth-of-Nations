@@ -1,16 +1,32 @@
 ---
 tags:
-  - '#caps_and_floors'
-  - '#excel_exercises'
-  - '#implied_volatility'
-  - '#matlab_exercises'
-  - '#mortgage_market'
-  - '#option_pricing'
-  - '#stop_loss_hedge'
-  - '#swaptions'
-  - '#vix_calculation'
-  - '#volatility_smile'
+  - brownian_motion
+  - equity_correlation
+  - implied_volatility
+  - interest_rate_sector
+  - market_practices
+  - option_pricing
+  - stochastic_volatility
+  - stock_price_crashes
+  - stop_loss_hedge
+  - volatility_smile
+aliases:
+  - Conclusions
+  - Excel Exercise
+  - Exercises
+  - MATLAB Exercises
+  - Volatility Smile
+key_concepts:
+  - implied volatility
+  - nongeometric brownian motion
+  - option pricing
+  - stochastic volatility
+  - stock price crashes
+  - stop-loss hedged portfolio
+  - trading equity correlation
+  - volatility smile
 ---
+
 # 16.18 CONCLUSIONS  
 
 The volatility smile is a fascinating topic in finance. Yet, it is also a complex phenomenon and. more research needs to be done on its causes and on the ways to model it. This chapter offered a simple introduction. However, it has illustrated some of the essential points associated with this. topic.  

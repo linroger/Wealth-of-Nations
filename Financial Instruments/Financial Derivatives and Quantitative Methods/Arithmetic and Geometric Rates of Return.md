@@ -1,15 +1,22 @@
 ---
 title: Arithmetic and Geometric Rates of Return
 tags:
-  - '#arithmetic_mean'
-  - '#asset_price_process'
-  - '#continuously_compounded_return'
-  - '#forward_price'
-  - '#geometric_brownian_motion'
-  - '#geometric_mean'
-  - '#ito_calculus'
-  - '#wiener_process'
+  - arithmetic_mean
+  - continuous_compounding
+  - geometric_mean
+  - rate_of_return
+  - wiener_process
+aliases:
+  - Arithmetic Mean vs Geometric Mean
+  - Continuously Compounded Return
+key_concepts:
+  - Arithmetic mean return
+  - Continuously compounded rate
+  - Geometric mean return
+  - Variance of return
+  - Wiener process properties
 ---
+
 # Arithmetic and Geometric Rates of Return
 
 We now consider $\mu$ and $U$ again. Suppose we have an asset worth 100 and for two successive periods it increases by $20\%$. Then the value at the end of the first period is 120 and the value at the end of the second period is 144.

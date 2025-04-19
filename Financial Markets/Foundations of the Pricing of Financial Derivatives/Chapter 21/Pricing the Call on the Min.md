@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#asset_price_sensitivity'
-  - '#asset_volatility'
-  - '#bivariate_normal_distribution'
-  - '#black_scholes_merton'
-  - '#correlation_sensitivity'
-  - '#feynman_kac_theorem'
-  - '#min_max_options'
-  - '#option_pricing'
-  - '#pde_solution'
-  - '#time_to_expiration'
+  - bivariate_normal
+  - feynman_kac
+  - min_max_option
+  - option_pricing
+  - pde_solution
+aliases:
+  - Call on the Min
+  - Min-Max Option
+key_concepts:
+  - Hedged portfolio
+  - Lognormal diffusions
+  - Multivariate Feynman-Kac
+  - Terminal payout
+  - Two-asset PDE
 ---
+
 # 21.2 PRICING THE CALL ON THE MIN
 
 Suppose the terminal payout on the call on the min is as given in Equation (21.1). Now suppose our two assets follow the standard lognormal diffusions,

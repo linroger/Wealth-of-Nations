@@ -1,14 +1,27 @@
 ---
 tags:
-  - '#cpdo_vs_cppi'
-  - '#cppi'
-  - '#cppi_application'
-  - '#cppi_dynamics'
-  - '#dppi'
-  - '#equity_tranches'
-  - '#icppi'
-  - '#principal_protection_techniques'
+  - cppi
+  - cppi_dynamics
+  - dppi
+  - equity_tranches
+  - icppi
+  - insurance_sector
+  - principal_protection
+aliases:
+  - CPPI
+  - Chapter 23
+  - DPPI
+  - Principal Protection
+key_concepts:
+  - CPDO vs CPPI
+  - CPPI and equity
+  - CPPI in insurance
+  - CPPI modeling
+  - Classical case
+  - DPPI variant
+  - Principal protection techniques
 ---
+
 # CHAPTER 23Principal Protection Techniques. 809  
 
 23.1 Introduction.. .809   

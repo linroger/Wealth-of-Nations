@@ -1,13 +1,24 @@
 ---
 tags:
-  - '#accrual_swap'
-  - '#extendible_swap'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#libor_in_arrears_swap'
-  - '#par_swap'
-  - '#power_libor_swap'
+  - accrual_swap
+  - extendible_swap
+  - interest_rate_swaps
+  - libor
+  - libor_in_arrears_swap
+  - power_libor_swap
+aliases:
+  - accrual swaps
+  - extendible swaps
+  - par swap
+key_concepts:
+  - additional terminology
+  - extend swap term
+  - floating reference rate
+  - interest rate on date
+  - interest-rate swaps
+  - libor squared or cubed
 ---
+
 # 4.9 ADDITIONAL TERMINOLOGY  
 
 We would like to introduce some additional terms and instruments before moving on.  

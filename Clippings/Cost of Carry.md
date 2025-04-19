@@ -4,17 +4,23 @@ source: https://www.investopedia.com/terms/c/costofcarry.asp
 description: Cost of carry refers to expenses incurred as a result of an investment
   position, including interest, storage, and opportunity costs.
 tags:
-  - '#carrying_costs'
-  - '#cost_of_carry'
-  - '#derivative_markets'
-  - '#financial_markets'
-  - '#futures_pricing'
-  - '#investment_costs'
-  - '#margin_interest'
-  - '#net_return_calculations'
-  - '#short_selling'
-  - '#storage_costs'
+  - carrying_costs
+  - cost_of_carry
+  - derivative_markets
+  - futures_market
+  - risk_free_rate
+aliases:
+  - Carrying Costs
+  - Cost of Carry
+key_concepts:
+  - Costs of investment
+  - Derivative contract pricing
+  - Futures price calculation
+  - Net return calculations
+  - Risk-free interest rate
 ---
+
+
 Eliana Rodgers / Investopedia
 
 ## What Is Cost of Carry?

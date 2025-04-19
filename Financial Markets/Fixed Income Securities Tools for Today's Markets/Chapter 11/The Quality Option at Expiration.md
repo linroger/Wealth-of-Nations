@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bond_duration'
-  - '#ctd_bond'
-  - '#deliverable_bonds'
-  - '#futures_contract_expiration'
-  - '#price_conversion_factor'
-  - '#quality_option'
-  - '#term_structure_of_yields'
-  - '#tyu1_futures'
-  - '#yield_curve'
+  - bond_pricing
+  - ctd_bond
+  - duration
+  - futures_contract
+  - yield_curve
+aliases:
+  - Cheapest to Deliver
+  - Quality Option
+  - TYU1
+key_concepts:
+  - CTD bond determination
+  - Conversion factor
+  - Deliverable bond price ratio
+  - Quality option expiration
+  - Term structure of yields
 ---
+
 # 11.8 THE QUALITY OPTION AT EXPIRATION  
 
 To illustrate how the quality option works at expiration of the futures contract, assume for the moment that the 2.875s of 05/15/2028 and the 1.125s of 02/15/2013 are the only deliverable bonds into TYU1. Figure 11.5 graphs. the ratio of price to conversion factor against yield for these two bonds as of the last trading date, September 21, 2021. The figure assumes that the term structure of yields is flat, that is, that the two bonds have the same yield at the indicated level. At a yield of. $6\%$ , the price-conversion factor ratio of each. of the bonds is about 100: as explained in the previous section, the conversion factor is approximately equal to the price of the bond (per dollar face amount) at a yield of the notional coupon rate - here. $6\%-a s$ of the last delivery date (which is only a few days different from the last trading date).. Hence, the ratio of each bond's price (per 100 face amount) to its conversion factor is about 100. Furthermore, the futures price is 100, the costs of delivering either bond is zero, and the two bonds are jointly CTD.  

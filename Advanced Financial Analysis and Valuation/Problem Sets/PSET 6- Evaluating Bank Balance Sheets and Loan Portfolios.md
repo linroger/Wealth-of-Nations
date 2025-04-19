@@ -1,18 +1,23 @@
 ---
-aliases:
 title: PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 tags:
-  - '#bank_balance_sheets'
-  - '#blackstone'
-  - '#citigroup'
-  - '#default_probability'
-  - '#internal_rate_of_return_irr'
-  - '#leveraged_loans'
-  - '#loan_portfolio_sale'
-  - '#loan_portfolios'
-  - '#risk_weighted_assets'
-  - '#tier_1_capital_ratio'
+  - bank_balance_sheets
+  - citigroup
+  - financial_analysis
+  - loan_portfolios
+  - regulatory_capital
+aliases:
+  - Blackstone Case
+  - Citigroup Case
+  - PSET 6
+key_concepts:
+  - Citigroup balance sheet items
+  - Citigroup income statement items
+  - Run on the bank
+  - Tier 1 Capital ratio
+  - US regulatory capital ratios
 ---
+
 # PSET 6Evaluating Bank Balance Sheets and Loan Portfolios
 ### ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS BUSINESS 30131
 

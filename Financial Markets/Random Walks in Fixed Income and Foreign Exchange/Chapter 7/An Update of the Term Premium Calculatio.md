@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#economic_recession'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#quantitative_easing'
-  - '#term_premium'
-  - '#term_premium_models'
-  - '#yield_curve'
-  - '#yield_curve_inversion'
+  - interest_rates
+  - monetary_policy
+  - recession
+  - term_premium
+  - yield_curve
+aliases:
+  - Term Premium Update
+  - Yield Curve Analysis
+key_concepts:
+  - Inverted yield curves
+  - Monetary policy impact
+  - Quantitative easing (QE)
+  - Term premium measurement
+  - Yield curve evolution
 ---
+
 # Chapter 7 An Update of the Term Premium Calculation
 
 # Introduction

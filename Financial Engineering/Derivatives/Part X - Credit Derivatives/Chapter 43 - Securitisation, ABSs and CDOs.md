@@ -1,3 +1,21 @@
+---
+tags:
+  - abs_cdos
+  - credit_crisis
+  - credit_risk
+  - securitization
+  - structured_products
+aliases:
+  - ABS
+  - CDO
+  - asset backed securities
+key_concepts:
+  - ABS-CDOs in credit crisis
+  - Securitization process analysis
+  - Single tranche trading
+  - Structured product credit enhancement
+  - Total return swaps
+---
 # Securitisation, ABSs and CDOs  
 
 # Aims  

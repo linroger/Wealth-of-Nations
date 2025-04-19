@@ -1,16 +1,41 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#financial_engineering'
-  - '#fixed_income_markets'
-  - '#forward_rate_agreements'
-  - '#futures_contracts'
-  - '#interest_rate_derivatives'
-  - '#libor'
-  - '#market_conventions'
-  - '#risk_management'
-  - '#yield_curve'
+  - arbitrage
+  - cash_flow_engineering
+  - conclusions
+  - exercises
+  - financial_engineering
+  - instrument_characteristics
+  - market_conventions
+  - market_structure
+  - suggested_reading
+aliases:
+  - Basic Information
+  - Chapter 2.9
+  - Financial Engineering Student
+key_concepts:
+  - arbitrage position benefit news
+  - borrow funds position
+  - cash flow engineering
+  - centrally bilaterally cleared derivatives
+  - collateral requirements futures OTC
+  - deposit funds take position
+  - difference initial variation margin
+  - financial engineering student
+  - instrument characteristics change
+  - market conventions, markets, players
+  - open interest refer to
+  - profits prop dealers affected
+  - proprietary dealer buys contract
+  - proprietary dealers betting Euribor
+  - review basic information
+  - risks taking
+  - show positions proprietary dealers
+  - strategy Euribor higher LIBOR
+  - true arbitrage academic sense
+  - underlying instruments, markets, conventions
 ---
+
 # 2.9 CONCLUSIONS  
 
 This chapter reviewed some basic information the reader is assumed to have been exposed to. The discussion provided here is sketchy and cannot be a substitute for a thorough course on conventions, markets, and players. Also, market conventions, market structure, and the instrument characteristics may change over time.  

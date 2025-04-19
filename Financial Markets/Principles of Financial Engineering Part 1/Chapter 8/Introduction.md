@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#dynamic_replication'
-  - '#market_liquidity'
-  - '#nonlinear_assets'
-  - '#optionality'
-  - '#rebalancing'
-  - '#replicating_portfolio'
-  - '#static_replication'
-  - '#synthetic_instruments'
+  - dynamic_replication
+  - financial_engineering
+  - optionality
+  - rebalancing
+  - static_replication
+aliases:
+  - Introduction to Dynamic Replication
+key_concepts:
+  - Dynamic replication principles
+  - Illiquidity and replication
+  - Nonlinear asset replication
+  - Replicating portfolio adjustments
+  - Static vs. Dynamic Replication
 ---
+
 # 8.1 INTRODUCTION  
 
 The previous chapters have dealt with static replication of cash flows. The synthetic constructions we discussed were static in the sense that the replicating portfolio did not need any adjustments until the target instrument matured or expired. As time passed, the fair value of the synthetic and the value of the target instrument moved in an identical fashion.  

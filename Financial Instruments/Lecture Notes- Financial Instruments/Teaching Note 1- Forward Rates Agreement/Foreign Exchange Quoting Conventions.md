@@ -1,22 +1,25 @@
 ---
-aliases:
-  - FX Quotes
-  - Quoting Conventions
-  - 
-  - 
-  - Foreign Exchange
 title: Foreign Exchange Quoting Conventions
 tags:
-  - '#base_currency'
-  - '#currency_quotations'
-  - '#domestic_currency'
-  - '#foreign_exchange'
-  - '#fx_forward_value'
-  - '#fx_outright_forward_rate'
-  - '#fx_spot_rate'
-  - '#interest_rate_parity'
-  - '#quote_currency'
+  - currency_pair
+  - foreign_exchange
+  - fx_forward_rate
+  - fx_spot_rate
+  - interest_rate_parity
+  - outright_forward
+aliases:
+  - FX
+  - FX Quoting
+  - Forex
+key_concepts:
+  - Base and quote currency
+  - Exchange rate definition
+  - FX forward rate
+  - FX spot rate
+  - Forward contract value
+  - Interest rate parity
 ---
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

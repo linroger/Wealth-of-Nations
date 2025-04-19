@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#brownian_motion'
-  - '#ito_integral'
-  - '#ito_lemma'
-  - '#lognormal_diffusion_process'
-  - '#stochastic_calculus'
-  - '#stochastic_differential_equation'
+  - asset_pricing
+  - brownian_motion
+  - ito_lemma
+  - lognormal_process
+  - stochastic_calculus
+aliases:
+  - Chapter 11
+  - Ito's Lemma
+  - Stochastic Calculus
+key_concepts:
+  - Asset price modeling
+  - Brownian motion application
+  - Ito's lemma explained
+  - Lognormal diffusion process
+  - Stochastic calculus introduction
 ---
+
 # CHAPTER 11 Stochastic Calculus and Ito's Lemma
 
 211

@@ -1,21 +1,24 @@
 ---
 cssclasses: academia
-aliases:
-  - Creditor Control Rights and Firm Investment Policy
-  - Creditor Control Rights and Firm Investment Policy.md
 title: Creditor Control Rights and Firm Investment Policy
 tags:
-  - '#capital_expenditure_restrictions'
-  - '#credit_quality'
-  - '#debt_to_cash_flow_ratio'
-  - '#financial_covenants'
-  - '#firm_investment_policy'
-  - '#loan_renegotiation'
-  - '#market_value'
-  - '#operating_performance'
-  - '#private_credit_agreements'
-  - '#risk_shifting'
+  - capital_expenditures
+  - credit_quality
+  - creditor_rights
+  - debt_agreements
+  - firm_investment
+aliases:
+  - Creditor Control
+  - Firm Investment
+  - Investment Policy
+key_concepts:
+  - Borrower credit quality
+  - Capital expenditure limits
+  - Creditor-borrower conflicts
+  - Firm investment restrictions
+  - Private credit agreements
 ---
+
 # Creditor Control Rights and Firm Investment Policy
 
 ## Abstract

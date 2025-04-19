@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#currency_swaps'
-  - '#duration_matching'
-  - '#eurodollar_futures'
-  - '#hedging_strategies'
-  - '#interest_rate_risk'
-  - '#libor'
-  - '#sofr_futures'
-  - '#swap_market'
-  - '#treasury_bond_futures'
+  - duration_matching
+  - eurodollar_futures
+  - interest_rate_risk
+  - portfolio_immunization
+  - treasury_bonds
+aliases:
+  - duration hedging
+  - immunization
+  - portfolio hedging
+key_concepts:
+  - duration matching assets
+  - eurodollar futures contract
+  - liabilities short positions bonds
+  - nonparallel shifts zero curve
+  - treasury bond futures
 ---
+
 # 6.5 HEDGING PORTFOLIOS OF ASSETS AND LIABILITIES  
 
 Financial institutions sometimes attempt to hedge themselves against interest rate risk by ensuring that the average duration of their assets equals the average duration of their liabilities. (The liabilities can be regarded as short positions in bonds.) This strategy is known as duration matching or portfolio immunization. When implemented, it ensures that a small parallel shift in interest rates will have little effect on the value of the portfolio of assets and liabilities. The gain (loss) on the assets should offset the loss (gain) on the liabilities.  

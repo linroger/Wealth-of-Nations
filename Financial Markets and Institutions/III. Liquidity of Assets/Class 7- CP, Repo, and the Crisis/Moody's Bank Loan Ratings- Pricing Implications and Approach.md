@@ -1,24 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Moody's Bank Loan Ratings- Pricing Implications and Approach.md
-  - Moody's Bank Loan Ratings- Pricing Implications and Approach
-  - Moody's Bank Loan RatingsPricing Implications and Approach
 linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
 title: Moody's Bank Loan RatingsPricing Implications and Approach
 tags:
-  - '#bank_loan_ratings'
-  - '#capital_structure_assessment'
-  - '#convergence_loan_bond_markets'
-  - '#covenants'
-  - '#loan_market_analysis'
-  - '#loan_structure_analysis'
-  - '#market_transparency'
-  - '#moodys_ratings'
-  - '#recovery_rates'
-  - '#risk_adjusted_pricing'
+  - bank_loan_ratings
+  - bond_markets
+  - loan_market
+  - risk_adjusted_pricing
+  - syndicated_loan_market
+aliases:
+  - Commercial bank loan
+  - Kinsai Institute
+  - Moody's bank loan
+key_concepts:
+  - Bank loan pricing
+  - Loan and bond markets
+  - Loan market convergence
+  - Loan portfolio managers
+  - Risk adjusted pricing
 ---
+
 # Moody's Bank Loan RatingsPricing Implications and Approach
 
 The following Special Comment is based upon remarks made by Michael Dommermuth before the membership of the Kinsai Institute for Financial Affairs in New York on March 5,  1996

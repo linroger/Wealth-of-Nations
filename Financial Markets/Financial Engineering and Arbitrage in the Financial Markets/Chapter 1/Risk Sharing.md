@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#american_call_option'
-  - '#corporate_bonds'
-  - '#credit_spread'
-  - '#financial_contracts'
-  - '#hedging'
-  - '#option_valuation'
-  - '#risk_sharing'
-  - '#state_contingent_claims'
-  - '#stock_valuation'
+  - american_option
+  - financial_contracts
+  - insurance_contract
+  - risk_sharing
+  - state_contingent_claims
+aliases:
+  - Insurance Contracts
+  - Risk Sharing
+  - State-contingent claims
+key_concepts:
+  - Call option as subset
+  - Financial contracts as bundles
+  - Forward contract example
+  - Insurance contract illustration
+  - State-contingent claims defined
+  - Stock as claims package
 ---
+
 # 1.2 RISK SHARING  
 
 All financial contracts, whether in the form of securities or not, can be viewed as bundles, or packages of unit payoff claims (mini-contracts), each for a specific date in the future and a specific set of outcomes. In financial economics, these are called state-contingent claims.  

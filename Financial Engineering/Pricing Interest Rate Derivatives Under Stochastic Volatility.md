@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#coupon_bond_options'
-  - '#fong_vasicek_model'
-  - '#frobenius_series'
-  - '#gauss_laguerre_quadrature'
-  - '#interest_rate_derivatives'
-  - '#stochastic_volatility'
-  - '#swaptions'
-  - '#zero_coupon_bonds'
+  - coupon_bond
+  - frobenius_series
+  - gauss_laguerre
+  - interest_rate_derivatives
+  - stochastic_volatility
+aliases:
+  - Interest Rate Derivatives Pricing
+  - Nabil Tahani
+  - Xiaofei Li
+key_concepts:
+  - Coupon bond options
+  - Frobenius series solution
+  - Gauss-Laguerre quadrature rule
+  - Interest rate derivatives pricing
+  - Stochastic interest rate volatility
 ---
+
 # Pricing Interest Rate Derivatives under Stochastic Volatility  
 
 Nabil Tahani Xiaofei Li\* York University York University This Draft: May 21, 2007  

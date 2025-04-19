@@ -1,16 +1,23 @@
 ---
 title: Risk Preferences
 tags:
-  - '#certainty_equivalent'
-  - '#expected_utility'
-  - '#portfolio_risk'
-  - '#risk_aversion'
-  - '#risk_measures'
-  - '#risk_preferences'
-  - '#stochastic_dominance'
-  - '#utility_theory'
-  - '#value_at_risk'
+  - hedging
+  - portfolio_risk
+  - risk_aversion
+  - risk_preferences
+  - utility_theory
+aliases:
+  - Investor Preferences
+  - Risk Assessment
+  - Riskiness
+key_concepts:
+  - Hedging risk with assets
+  - Investor portfolio risk
+  - Risk aversion notions
+  - Total vs partial payoffs
+  - Utility theory
 ---
+
  #Risk_Preferences
 
 # Risk Preferences

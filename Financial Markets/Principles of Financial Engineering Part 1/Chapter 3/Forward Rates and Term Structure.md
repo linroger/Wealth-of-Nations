@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#arbitrage_equality'
-  - '#bond_prices'
-  - '#coupon_bond_pricing'
-  - '#default_free_cash_flows'
-  - '#forward_rates'
-  - '#spot_rate'
-  - '#term_structure'
-  - '#yield_curve_modeling'
-  - '#zero_coupon_bond'
+  - arbitrage
+  - bond_prices
+  - forward_rates
+  - term_structure
+  - yield_curve
+aliases:
+  - Forward Rate Modeling
+  - Term Structure Analysis
+key_concepts:
+  - Bond price family
+  - Discount factors
+  - Forward rate equality
+  - Spot rate relationship
+  - Yield curve modeling
 ---
+
 # 3.11 FORWARD RATES AND TERM STRUCTURE  
 
 A detailed framework for fixed income engineering will be discussed in Chapter 14. However, some preliminary modeling of the term structure is in order. This will clarify the notation and some of the essential concepts.  

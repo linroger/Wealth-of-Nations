@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#call_option_payoff'
-  - '#european_options'
-  - '#in_the_money_options'
-  - '#intrinsic_value'
-  - '#option_expiry'
-  - '#option_settlement'
-  - '#out_of_the_money_options'
-  - '#put_option_payoff'
-  - '#strike_price'
+  - american_option
+  - call_option
+  - european_option
+  - option_payoff
+  - put_option
+aliases:
+  - Call and Put Payoffs
+  - Option Payoffs at Expiry
+key_concepts:
+  - American options
+  - Call option payoff
+  - European options
+  - Put option payoff
+  - Strike price
 ---
+
 # 5.1 CALL AND PUT PAYOFFS AT EXPIRY  
 
 Tickets sold by national lotteries around the world are bets on sets of numbers. The payoff is a. fixed monetary amount if the ticket buyer guesses the right combination. Such bets are called. binary or digital. It does not matter how "close" he is to the right combination, all that matters is whether he is right or wrong in guessing five or six numbers..  

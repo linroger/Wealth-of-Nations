@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#credit_spreads'
-  - '#ester'
-  - '#financial_markets'
-  - '#libor'
-  - '#reference_rates'
-  - '#risk_free_rates'
-  - '#saron'
-  - '#sofr'
-  - '#sonia'
-  - '#tonar'
+  - ester
+  - interest_rates
+  - libor
+  - overnight_rates
+  - reference_rates
+  - saron
+  - sofr
+  - sonia
+  - tonar
+aliases:
+  - ESTER
+  - London Interbank Offered Rate
+  - SARON
+  - SOFR
+  - SONIA
+  - TONAR
+key_concepts:
+  - LIBOR reference rate
+  - SOFR overnight rate
+  - new reference rates
+  - reference interest rates
+  - unsecured borrowing rates
 ---
+
 # 4.2 REFERENCE RATES  
 
 Reference interest rates are important in financial markets. The parties to transactions. frequently enter into contracts where the future interest rate paid or received is uncertain, but will be set equal the value of an agreed reference interest rate..  

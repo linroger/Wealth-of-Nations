@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#continuous_time_framework'
-  - '#credit_constrained'
-  - '#discrete_time_framework'
-  - '#doubling_strategies'
-  - '#expected_utility'
-  - '#law_of_one_price'
-  - '#one_period_framework'
-  - '#risk_free_profit'
-  - '#self_financing_trading_strategy'
+  - arbitrage
+  - discrete_time
+  - law_of_one_price
+  - one_period_framework
+  - risk_free_profit
+aliases:
+  - Arbitrage Definition
+  - Arbitrage Opportunity
+  - Risk-Free Profit
+key_concepts:
+  - Absence of arbitrage implies law
+  - 'Arbitrage: risk-free profit'
+  - One-period framework defined
+  - Prices obey Law of One Price
+  - Self-financing trading strategy
 ---
+
 # 3.4 Arbitrage  
 
 We have already made an assumption about prices, namely that prices obey the Law of One Price, i.e. prices are linear. We will now make the slightly stronger assumption that prices are set so that there is no arbitrage. An arbitrage is basically a risk-free profit.  

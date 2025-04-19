@@ -1,16 +1,30 @@
 ---
 tags:
-  - '#arbitrage_principle'
-  - '#bond_math'
-  - '#cash_flow_engineering'
-  - '#discount_curve'
-  - '#finance_textbook'
-  - '#market_participants'
-  - '#market_segments'
-  - '#relative_value_building_blocks'
-  - '#spot_transactions'
-  - '#structured_products'
+  - cash_flow_engineering
+  - finance_textbook
+  - hedge_funds
+  - investment_banking
+  - market_participants
+  - market_segments
+  - relative_value
+  - security_valuation
+aliases:
+  - Book Preview
+  - Cash Flow
+  - Finance Book Overview
+  - Relative Value
+key_concepts:
+  - asset-liability management
+  - cash flow diversion
+  - demand side participants
+  - internal workings of markets
+  - market segments
+  - relative value trades
+  - security valuation
+  - spot, forward, option contracts
+  - structured products
 ---
+
 # 1.8  PREVIEW OF THE BOOK  
 
 Many finance textbooks are organized by market segments: stocks, money markets, bonds, real estate, currencies, commodities, etc. This is analogous to reviewing the car industry alphabetically by make, starting with Audi and BMW, and ending with Volkswagen and Volvo.  

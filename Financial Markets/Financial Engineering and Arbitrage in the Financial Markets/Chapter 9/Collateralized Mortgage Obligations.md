@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#cmo_tranches'
-  - '#collateralized_debt_obligations'
-  - '#collateralized_mortgage_obligations'
-  - '#credit_derivatives'
-  - '#interest_rate_risk'
-  - '#io_po_classes'
-  - '#pac_cmo'
-  - '#prepayment_risk'
-  - '#sequential_cmo'
-  - '#synthetic_cdos'
+  - cmo
+  - mortgage_backed_securities
+  - prepayment_risk
+  - structured_finance
+  - tranches
+aliases:
+  - CMOs
+  - Collateralized Mortgage Obligations
+key_concepts:
+  - CMO tranche design
+  - IO/PO class structure
+  - PAC CMO structure
+  - Prepayment risk exposure
+  - Sequential class CMO
 ---
+
 # 9.4 COLLATERALIZED MORTGAGE OBLIGATIONS  
 
 Collateralized mortgage obligations (CMOs) are created by unbundling the interest, scheduled principal and prepaid principal flows of pass-throughs and rebundling them back into new streams of cash flows, called "tranches,' according to strict priority rules. Pooling can only go so far in diversifying risk. The objective of the tranche design is to create senior classes of securities with stable cash flows that are safer than the underlying pool. The senior classes have cash flow priority. As a consequence, we end up with very risky companion "equity" classes to which the risk is transferred.  

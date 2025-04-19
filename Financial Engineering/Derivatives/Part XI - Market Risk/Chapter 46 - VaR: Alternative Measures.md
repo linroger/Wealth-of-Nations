@@ -1,3 +1,21 @@
+---
+tags:
+  - historical_simulation
+  - monte_carlo
+  - non_parametric
+  - portfolio_var
+  - stress_testing
+  - var
+aliases:
+  - HS
+  - VaR
+key_concepts:
+  - Monte Carlo simulation
+  - historical simulation
+  - non-parametric VaR methods
+  - portfolio VaR calculation
+  - variance-covariance method
+---
 # VaR: Alternative Measures  
 
 # Aims  

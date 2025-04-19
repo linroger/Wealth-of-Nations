@@ -1,15 +1,20 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#forward_contract_valuation'
-  - '#forward_price'
-  - '#investment_asset'
-  - '#kidder_peabody'
-  - '#no_income_asset'
-  - '#risk_free_rate'
-  - '#short_selling'
-  - '#zero_coupon_bond'
+  - arbitrage
+  - forward_price
+  - investment_asset
+  - non_dividend_stock
+  - zero_coupon_bond
+aliases:
+  - Forward Contract Valuation
+key_concepts:
+  - Arbitrage opportunities
+  - Forward contract
+  - Non-dividend-paying stock
+  - Spot price
+  - Zero-coupon bonds
 ---
+
 # 5.4 FORWARD PRICE FOR AN INVESTMENT ASSET  
 
 The easiest forward contract to value is one written on an investment asset that provides the holder with no income and for which there are no storage costs. Nondividend-paying stocks and zero-coupon bonds are examples of such investment assets.  

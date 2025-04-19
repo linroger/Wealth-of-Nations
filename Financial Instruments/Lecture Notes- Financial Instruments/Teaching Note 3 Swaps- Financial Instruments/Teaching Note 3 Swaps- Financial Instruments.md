@@ -1,22 +1,26 @@
 ---
-aliases:
-  - HEDGING WITH CURRENCY SWAPS
-  - 
-  - 
 linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
 title: Teaching Note 3 SwapsFinancial Instruments
 tags:
-  - '#financial_instruments'
-  - '#forward_contracts'
-  - '#fx_swaps'
-  - '#hedging_strategies'
-  - '#interest_rate_swaps'
-  - '#no_arbitrage_condition'
-  - '#overnight_index_swaps'
-  - '#plain_vanilla_fx_swaps'
-  - '#swap_rate_determination'
-  - '#swap_valuation'
+  - financial_instruments
+  - forward_rates
+  - fx_swap
+  - interest_rate_swaps
+  - no_arbitrage
+aliases:
+  - FX Swap
+  - Forward Contracts
+  - Swap Rate
+  - Swaps
+  - Teaching Note 3
+key_concepts:
+  - 'FX swap: currency exchange'
+  - 'Forward rates: cash flow'
+  - Interest rate swaps
+  - No arbitrage condition
+  - 'Swap rate: zero value'
 ---
+
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 **[[Teaching Note 1Forward Rates Agreement]]**
  [[Teaching Note 2-Futures Contracts]]

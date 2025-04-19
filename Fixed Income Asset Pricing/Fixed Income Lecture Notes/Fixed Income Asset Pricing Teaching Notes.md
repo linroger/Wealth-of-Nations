@@ -1,20 +1,27 @@
 ---
 title: Teaching Notes 1
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#binomial_trees'
-  - '#duration_convexity'
-  - '#fixed_income_securities'
-  - '#interest_rate_derivatives'
-  - '#monte_carlo_simulations'
-  - '#mortgage_backed_securities'
-  - '#prepayment_option'
-  - '#risk_neutral_pricing'
-  - '#term_structure_interest_rates'
-  - '#treasury_securities'
+  - federal_reserve
+  - fixed_income_securities
+  - interest_rates
+  - market_dynamics
+  - treasury_bonds
+aliases:
+  - Debt Securities
+  - Fixed Income
+  - Teaching Notes 1
+key_concepts:
+  - Federal Reserve actions
+  - Fixed income introduction
+  - Government debt increase
+  - Interest rate compounding
+  - Mortgage-backed securities changes
+  - Treasury bond behavior
+  - U.S. debt overview
 ---
+
 # Teaching Notes
 # Introduction to Fixed Income Securities
 

@@ -1,23 +1,27 @@
 ---
-aliases:
-  - A Glossary of Technical Terms Related to Bankruptcy in the US
-  - A Glossary of Technical Terms Related to Bankruptcy in the U
-  - A Glossary of Technical Terms Related to Bankruptcy in the U.s.md
 linter-yaml-title-alias: A Glossary of Technical Terms Related to Bankruptcy in the
   US
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
 tags:
-  - '#absolute_priority'
-  - '#automatic_stay'
-  - '#chapter_11'
-  - '#chapter_7'
-  - '#debtor_in_possession_financing'
-  - '#impaired_claim'
-  - '#liquidation'
-  - '#plan_of_reorganization'
-  - '#reorganization'
-  - '#us_bankruptcy'
+  - bankruptcy
+  - chapter_11
+  - chapter_7
+  - liquidation
+  - reorganization
+  - us_code
+aliases:
+  - Bankruptcy Definitions
+  - Glossary of Bankruptcy Terms
+key_concepts:
+  - 363 asset sale
+  - Absolute priority rule
+  - Automatic stay creditors
+  - Chapter 11 reorganization
+  - Chapter 7 liquidation
+  - Claims against debtor
+  - Cramdown process
 ---
+
 # A Glossary of Technical Terms Related to Bankruptcy in the U.s
 
 This note briefly describes the most important legal forms of U.S. bankruptcy: Chapter 7 and Chapter 11,  and provides definitions of technical terms related to the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] process.

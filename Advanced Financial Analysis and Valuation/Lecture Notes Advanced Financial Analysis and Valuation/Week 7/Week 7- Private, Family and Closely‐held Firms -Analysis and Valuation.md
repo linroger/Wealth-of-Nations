@@ -1,17 +1,33 @@
 ---
-aliases:
 tags:
-  - '#closely_held_firms'
-  - '#control_premium'
-  - '#corporate_governance'
-  - '#family_firms'
-  - '#insider_ownership'
-  - '#investor_protection'
-  - '#marketability_discount'
-  - '#minority_discount'
-  - '#private_company_valuation'
-  - '#related_party_transactions'
+  - closely_held_firms
+  - control_premium
+  - corporate_governance
+  - dcf
+  - illiquidity
+  - kohler_case
+  - minority_discount
+  - private_firms
+  - valuation
+  - wacc
+aliases:
+  - Control Rights
+  - Kohler Co
+  - Marketability Discount
+  - Private Company Valuation
+key_concepts:
+  - Control premium/discount
+  - Control rights matter
+  - Corporate governance analysis
+  - DCF and WACC review
+  - Illiquidity cost of capital
+  - Insider ownership impact
+  - Kohler family case study
+  - Lack of marketability
+  - Total beta approach
+  - Valuing private companies
 ---
+
 # TODAY
  - More than 60% of global GDP driven by "closely held" public or private firms
  - Analyzing and valuing private companies

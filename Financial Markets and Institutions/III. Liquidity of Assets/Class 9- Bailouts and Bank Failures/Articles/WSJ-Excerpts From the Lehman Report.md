@@ -1,21 +1,31 @@
 ---
-aliases:
-  - WSJ-Excerpts From the Lehman Report
-  - Excerpts From the Lehman Report
-  - WSJ-Excerpts From the Lehman Report.md
 linter-yaml-title-alias: Excerpts From the Lehman Report
 title: Excerpts From the Lehman Report
 tags:
-  - '#colorable_claims'
-  - '#ernst_and_young_audit'
-  - '#financial_disclosure'
-  - '#jpmorgan_chase_collateral'
-  - '#lehman_brothers_collapse'
-  - '#liquidity_pool'
-  - '#repo_105_transactions'
-  - '#warren_buffett_lehman'
-  - '#whistleblower_letter'
+  - accounting_issues
+  - balance_sheet_management
+  - citi_bank
+  - collateral_demands
+  - colorable_claims
+  - financial_disclosure
+  - guaranty_agreements
+  - jpmorgan_chase
+  - lehman_brothers
+  - whistleblower_letter
+aliases:
+  - 105 transactions
+  - J.P. Morgan
+  - Lehman report highlights
+  - Matthew Lee letter
+  - WSJ excerpts
+key_concepts:
+  - 105 accounting device
+  - Colorable claims against executives
+  - JPMorgan Chase demands collateral
+  - Lehman Brothers collapse report
+  - Whistleblower letter details
 ---
+
 # WSJ-Excerpts From the Lehman Report
 
 Thursday,  a U.S. bankruptcy-court examiner investigating the collapse of Lehman Brothers Holdings Inc. Released a scathing 2,  200-page report. Here are some highlights. 

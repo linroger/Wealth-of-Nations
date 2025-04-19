@@ -1,22 +1,25 @@
 ---
-aliases:
-  - 
-  - PSET 2GROUP ASSIGNMENT
-  - 
 linter-yaml-title-alias: PSET 2GROUP ASSIGNMENT
 title: PSET 2GROUP ASSIGNMENT
 tags:
-  - '#dollar_general'
-  - '#financial_performance'
-  - '#financial_ratios'
-  - '#inventory_impairment'
-  - '#kkr_offer'
-  - '#market_share'
-  - '#pro_forma_income_statement'
-  - '#profit_margins'
-  - '#sg_and_a_expenses'
-  - '#strategic_overhaul'
+  - deep_discount_retail
+  - dollar_general
+  - financial_performance
+  - market_share
+  - profit_margins
+aliases:
+  - BUSN 30131
+  - Dollar General Analysis
+  - Group 13
+  - PSET 2
+key_concepts:
+  - Costs of Goods Sold
+  - Declining profit margins
+  - Deep discount market share
+  - Dollar General performance
+  - Higher profit margins
 ---
+
 # PSET 2GROUP ASSIGNMENT
 
 **BUSN 30131 85: Advanced Financial Analysis and Valuation**

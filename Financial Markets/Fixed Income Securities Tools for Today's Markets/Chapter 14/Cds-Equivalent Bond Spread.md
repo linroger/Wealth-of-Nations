@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bond_spread'
-  - '#cds_equivalent_bond_spread'
-  - '#credit_risk'
-  - '#default_probability'
-  - '#genworth_bond'
-  - '#hazard_rate'
-  - '#market_recovery'
-  - '#par_recovery'
-  - '#recovery_rate'
+  - bond_spread
+  - cds_equivalent
+  - credit_risk
+  - default_risk
+  - hazard_rate
+aliases:
+  - CDS spread
+  - Genworth bond
+  - credit spread
+key_concepts:
+  - CDS-equivalent spread
+  - bond market price
+  - default and recovery
+  - discounted cash flows
+  - hazard rate calculation
 ---
+
 # 14.7 CDS-EQUIVALENT BOND SPREAD  
 
 The credit spreads defined earlier in the chapter are all measures of bond return assuming no default. An alternative approach, the CDS-equivalent bond spread, accounts for default and recovery and is computed along the lines of the previous section. The basic idea is to find the hazard rate such that the market price of the bond equals the expected discounted value of its cash flows. Then, the bond's CDS-equivalent spread is the CDS spread corresponding to that hazard rate. To illustrate, say that the market price of a five-year, $5\%$ (annual pay) bond on Genworth is 94.561 as of August 16, 2021. It is shown next that the expected discounted value of that bond's cash flows equals that market price if the hazard rate is $9.322\%$ . Furthermore, from Table 14.10, the five-year CDS spread at a hazard rate of $9.322\%$ is 558.92 basis points. Therefore, the CDS-equivalent spread of this five-year, $5\%$ bond is 558.92 basis points. In other words, the credit risk implied by the bond's market price is the same as that implied by a five-year CDS at a spread of 558.92 basis points. This spread depends on the restrictive assumption that the hazard rate is constant. The calculation of expected discounted values, while seeming to imply risk neutrality, is not as restrictive as it seems: the hazard rate can be considered "risk-neutral" so that it prices fixed income securities without necessarily reflecting real-world probabilities. (This distinction is discussed in Chapter 7.)  

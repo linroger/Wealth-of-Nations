@@ -4,17 +4,28 @@ source:
   https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
 description:
 tags:
-  - '#big_debt_cycle'
-  - '#debt_monetization'
-  - '#economic_cycles'
-  - '#federal_reserve'
-  - '#financial_crisis'
-  - '#geopolitical_cycles'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#quantitative_easing'
-  - '#us_economy'
+  - acts_of_nature
+  - debt_money_economics
+  - geopolitical_cycle
+  - geopolitical_order
+  - how_countries_go_broke
+  - political_cycle
+  - technological_advances
+  - world_monetary_order
+aliases:
+  - Chapter 8-11
+  - Excerpt
+  - How Countries Go Broke
+  - Part 3
+key_concepts:
+  - Archetypical sequence
+  - Five big forces
+  - Humanity's advances
+  - Internal order and cycle
+  - International order and cycle
+  - Mechanics of money-credit-debt
 ---
+
 *This post was originally published on January 30, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 
 ---

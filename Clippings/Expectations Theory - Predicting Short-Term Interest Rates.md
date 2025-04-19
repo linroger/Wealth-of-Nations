@@ -4,16 +4,23 @@ source: https://www.investopedia.com/terms/e/expectationstheory.asp
 description: Expectations theory attempts to predict what short-term interest rates
   will be in the future based on current long-term interest rates.
 tags:
-  - '#bond_investing'
-  - '#bond_yields'
-  - '#expectations_theory'
-  - '#financial_forecasting'
-  - '#interest_rates'
-  - '#long_term_rates'
-  - '#preferred_habitat_theory'
-  - '#short_term_rates'
-  - '#unbiased_expectations_theory'
+  - bond_yields
+  - expectations_theory
+  - interest_rates
+  - long_term_rates
+  - short_term_rates
+aliases:
+  - Expectations Theory
+  - Unbiased Expectations Theory
+key_concepts:
+  - Long-term rates forecast
+  - Predicting future interest rates
+  - Preferred habitat theory
+  - Short-term bond yields
+  - Two-year bond investment
 ---
+
+
 ## What Is Expectations Theory?
 
 Expectations theory attempts to predict what short-term [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) will be in the future based on current long-term interest rates. The theory suggests that an investor earns the same interest by investing in two consecutive one-year bond investments versus investing in one two-year bond today. The theory is also known as the "unbiased expectations theory."

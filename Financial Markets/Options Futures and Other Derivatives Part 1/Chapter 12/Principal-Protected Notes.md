@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#bank_profitability'
-  - '#dividend_yield'
-  - '#european_call_option'
-  - '#interest_rates'
-  - '#principal_protected_notes'
-  - '#retail_market'
-  - '#risk_free_investment'
-  - '#volatility'
-  - '#zero_coupon_bond'
+  - european_call_option
+  - principal_protected_notes
+  - retail_market
+  - risk_free_investment
+  - zero_coupon_bond
+aliases:
+  - PPN
+  - Principal Protected Notes
+key_concepts:
+  - Conservative investors
+  - European call option
+  - Principal-protected notes
+  - Risky asset performance
+  - Zero-coupon bond
 ---
+
 # 12.1 PRINCIPAL-PROTECTED NOTES  
 
 Options are often used to create what are termed principal-protected notes for the retail market. These are products that appeal to conservative investors. The return earned by the investor depends on the performance of a stock, a stock index, or other risky asset,  

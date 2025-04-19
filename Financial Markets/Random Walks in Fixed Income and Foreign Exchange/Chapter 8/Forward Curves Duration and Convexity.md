@@ -1,15 +1,30 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#convexity'
-  - '#curve_slope'
-  - '#duration'
-  - '#forward_curve'
-  - '#interest_rate_forecast'
-  - '#steepener_trade'
-  - '#term_premium'
-  - '#yield_curve'
+  - convexity
+  - curve_slope
+  - duration
+  - forward_curve
+  - yield_curve
+aliases:
+  - 2's-10's trade
+  - Curve inversion
+  - Forward rate
+  - Yield curve shape
+key_concepts:
+  - Bond duration increase
+  - Central bank expectations
+  - Convexity value volatility
+  - Curve slope forecasts
+  - Curve steepening trade
+  - Fixed income products
+  - Forward curve analysis
+  - Implied forward evolution
+  - Market anomalies
+  - Term premium effect
+  - Yield curve convexity
+  - Yield curve implications
 ---
+
 # Chapter 8 Forward Curves, Duration and Convexity
 
 The shape of the yield curve has implications that are not always well understood.1. A curve whose slope rolls off' can imply a future curve inversion, even when such an inversion is very unlikely to take place. Since the 2008 crisis, curves have become lower and flatter, and their implied forecasts' start to look improbable. In this chapter, we report and update a study where we analysed the actual evolution of. curves long-term relative to their implied forecasts, and we show that in particular, forecasts of curve slope are likely to be biased. We investigate whether yield curve convexity is a driver of this effect..

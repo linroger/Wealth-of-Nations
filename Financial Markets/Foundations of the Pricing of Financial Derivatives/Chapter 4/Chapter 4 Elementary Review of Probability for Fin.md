@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#conditional_probability'
-  - '#continuous_random_variables'
-  - '#discrete_random_variables'
-  - '#finance'
-  - '#joint_probabilities'
-  - '#marginal_probability'
-  - '#probability_distributions'
-  - '#probability_theory'
+  - conditional_probability
+  - finance_review
+  - probability_distributions
+  - probability_theory
+  - random_variables
+aliases:
+  - Chapter 4
+  - Probability Basics
+  - Probability Review
+key_concepts:
+  - Continuous Random Variables
+  - Discrete Random Variables
+  - Expectations and Variances
+  - Marginal Probabilities
+  - Probability Distributions
 ---
+
 # CHAPTER 4 Elementary Review of Probability for Finance 75
 
 4.1 Marginal, Conditional, and Joint Probabilities 75

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#continuous_time_framework'
-  - '#discrete_time_framework'
-  - '#law_of_one_price'
-  - '#one_period_model'
-  - '#portfolio_theory'
-  - '#portfolio_weights'
-  - '#returns'
-  - '#self_financing_strategy'
-  - '#trading_strategies'
-  - '#value_dynamics'
+  - asset_allocation
+  - discrete_time
+  - portfolio_management
+  - self_financing
+  - trading_strategies
+aliases:
+  - One-Period Model
+  - Portfolio
+  - Trading Strategy
+key_concepts:
+  - Gross rate of return
+  - Law of One Price
+  - Portfolio weight vector
+  - 'Portfolio: asset holdings'
+  - Trading strategy definition
 ---
+
 # 3.3 Portfolios and trading strategies  
 
 Individuals can trade assets at all time points of the model, except for the last date. The combination of holdings of different assets at a given point in time is called a portfolio. We assume that there are no restrictions on the portfolios that investors may form and that there are no trading costS.  

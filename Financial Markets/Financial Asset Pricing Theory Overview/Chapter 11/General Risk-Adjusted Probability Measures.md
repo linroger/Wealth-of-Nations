@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#derivative_pricing'
-  - '#forward_measure'
-  - '#girsanov_theorem'
-  - '#martingale'
-  - '#numeraire'
-  - '#radon_nikodym_derivative'
-  - '#risk_adjusted_probability_measures'
-  - '#zero_coupon_bond'
+  - derivative_pricing
+  - girsanov_theorem
+  - martingale
+  - numeraire
+  - risk_adjusted_probability
+aliases:
+  - General Risk-Adjusted Probability
+  - Risk-Adjusted Measures
+key_concepts:
+  - Law of Iterated Expectations
+  - Pricing condition and martingale
+  - Radon-Nikodym derivative
+  - Risk-neutral probability measure
+  - Zero-coupon bond as numeraire
 ---
+
 # 11.5 General risk-adjusted probability measures  
 
 Consider an asset with a single dividend payment of $D_{s}$ at time $s$ . Using the risk-neutral probability measure $\mathbb{Q}$ the price at time $t<s$ of this asset is  

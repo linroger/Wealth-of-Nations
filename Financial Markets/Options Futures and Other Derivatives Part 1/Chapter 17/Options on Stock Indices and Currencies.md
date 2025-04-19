@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#currency_options'
-  - '#dividend_yields'
-  - '#european_options'
-  - '#options_valuation'
-  - '#stock_index_options'
+  - american_options
+  - currency_options
+  - dividend_yields
+  - european_options
+  - stock_indices
+aliases:
+  - Currency Derivatives
+  - Options on Indices
+key_concepts:
+  - American option valuation
+  - Currency option valuation
+  - Dividend yield impact
+  - European option valuation
+  - Stock index options
 ---
+
 # Chapter 17. Options on stock indices and currencies . .362  
 
 17.1 Options on stock indices. 362   

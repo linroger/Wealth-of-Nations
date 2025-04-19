@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#accrued_interest'
-  - '#annual_percentage_yield'
-  - '#bond_valuation'
-  - '#clean_price'
-  - '#coupon_bonds'
-  - '#day_count_conventions'
-  - '#dirty_price'
-  - '#intra_year_compounding'
-  - '#semi_annual_compounding'
+  - accrued_interest
+  - bond_valuation
+  - coupon_bonds
+  - day_count_conventions
+  - intra_year_compounding
+aliases:
+  - Accrued Interest
+  - Day-Count
+  - Intra-Year Compounding
+key_concepts:
+  - Accrued interest calculation
+  - Coupon bond example
+  - Day-count conventions
+  - Intra-year compounding
+  - Semi-annual bond yield
 ---
+
 # 2.2 INTRA-YEAR COMPOUNDING AND DAY-COUNT  
 
 In the real world, the coupons do not accrue and interest rates do not compound over nice.   

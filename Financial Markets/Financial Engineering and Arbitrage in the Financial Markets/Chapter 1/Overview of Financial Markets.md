@@ -1,16 +1,26 @@
 ---
 tags:
-  - '#capital_allocation'
-  - '#financial_markets'
-  - '#forward_markets'
-  - '#hedgers_speculators'
-  - '#market_participants'
-  - '#options_markets'
-  - '#primary_markets'
-  - '#risk_transfer'
-  - '#secondary_markets'
-  - '#spot_markets'
+  - financial_markets
+  - hedgers
+  - investment_banks
+  - investors
+  - issuers
+  - primary_markets
+  - secondary_markets
+aliases:
+  - Financial Market Overview
+  - Market Overview
+  - Overview
+key_concepts:
+  - Commercial bank lending
+  - Excess savings allocation
+  - Government bond issuance
+  - Hedgers and risk takers
+  - Investment bank offerings
+  - Investors and intermediaries
+  - Primary and secondary markets
 ---
+
 # 1.1 OVERVIEW OF FINANCIAL MARKETS  
 
 Financial markets play a major role in allocating excess savings to businesses in the economy. This desirable process takes various forms. Commercial banks take depositors' money and lend it to manufacturers, service firms, or home buyers who finance new construction or. improvements. Investment banks bring to market equity and debt offerings of newly formed or expanding corporations. Governments issue short- and long-term bonds to finance the. construction of new roads, schools, and transportation networks. Investors (bank depositors and securities buyers) supply their funds in order to shift their consumption into the future by earning interest, dividends, and capital gains.  

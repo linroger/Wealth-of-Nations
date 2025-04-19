@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#garch_1_1_model'
-  - '#implied_volatility'
-  - '#mean_reversion'
-  - '#option_pricing'
-  - '#s_and_p_500_data'
-  - '#vega'
-  - '#volatility_changes'
-  - '#volatility_forecasting'
-  - '#volatility_term_structure'
+  - ewma_model
+  - garch_model
+  - sp500
+  - volatility_forecasting
+  - volatility_term_structure
+aliases:
+  - GARCH(1,1)
+  - Variance Rate
+key_concepts:
+  - EWMA model
+  - GARCH(1,1) forecast
+  - Mean reversion
+  - Volatility changes impact
+  - Volatility term structure
 ---
+
 # 23.6 USING GARCH(1,1) TO FORECAST FUTURE VOLATILITY  
 
 The variance rate estimated at the end of day $n-1$ for day $n$ , when GARCH(1,1) is used, is  

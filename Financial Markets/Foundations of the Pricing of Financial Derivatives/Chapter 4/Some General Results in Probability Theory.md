@@ -1,17 +1,27 @@
 ---
 tags:
-  - '#binomial_distribution'
-  - '#central_limit_theorem'
-  - '#chebyshev_inequality'
-  - '#law_of_iterated_expectations'
-  - '#law_of_large_numbers'
-  - '#law_of_total_probability'
-  - '#lognormal_distribution'
-  - '#normal_distribution'
-  - '#poisson_distribution'
-  - '#probability_distributions'
-  - '#probability_theory'
+  - central_limit_theorem
+  - chebyshev_inequality
+  - law_of_iterated_expectations
+  - law_of_large_numbers
+  - option_theory
+  - probability_theory
+aliases:
+  - Central Limit Theorem
+  - Chebyshev's Theorem
+  - Tower Law
+key_concepts:
+  - central limit theorem
+  - chebyshev's inequality
+  - expected value at time
+  - general results probability theory
+  - independent samples
+  - law of iterated expectations
+  - law of large numbers
+  - sample mean approximates
+  - sample value deviating
 ---
+
 # 4.4 SOME GENERAL RESULTS IN PROBABILITY THEORY
 
 In the following subsections, we look at some of the general results from probability the-. ory that are helpful in option theory. By the term general, we mean that these results are not dependent on any particular probability distribution. When a specific probability dis-. tribution is known, usually a stronger statement can be made..

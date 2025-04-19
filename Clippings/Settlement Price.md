@@ -4,17 +4,24 @@ source: https://www.investopedia.com/terms/s/settlementprice.asp
 description: A settlement price, in the derivatives markets, is the price used for
   determining profit or loss for the day, as well as margin requirements.
 tags:
-  - '#asset_valuation'
-  - '#closing_price'
-  - '#derivatives_contracts'
-  - '#expiration_date'
-  - '#financial_markets'
-  - '#mutual_funds'
-  - '#opening_price'
-  - '#settlement_period'
-  - '#settlement_price'
-  - '#trading_day'
+  - closing_price
+  - derivatives
+  - financial_markets
+  - settlement_price
+  - trading_day
+aliases:
+  - Closing Price
+  - Daily Profit/Loss
+  - Reference Price
+key_concepts:
+  - Based on trading activity
+  - Determines profit or loss
+  - Price at end of day
+  - Used for mutual funds
+  - Used in derivatives contracts
 ---
+
+
 Momoimages / Getty Images
 
 ## What Is a Settlement Price?

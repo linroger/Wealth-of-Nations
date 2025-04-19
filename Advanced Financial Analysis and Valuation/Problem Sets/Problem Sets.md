@@ -1,12 +1,23 @@
 ---
 title: Problem Sets
-aliases:
-  - Problem Sets-Advanced Financial Analysis and Valuation
 linter-yaml-title-alias: Problem Sets-Advanced Financial Analysis and Valuation
 tags:
-  - '#problem_sets'
-  - '#waypoints'
+  - case_questions
+  - exercises
+  - practice_questions
+  - problem_sets
+  - solutions
+aliases:
+  - practice set
+  - problem set
+key_concepts:
+  - derivative pricing
+  - financial modeling
+  - investment strategies
+  - risk management
+  - valuation techniques
 ---
+
 # Problem Sets
 
 %% Begin Waypoint %%

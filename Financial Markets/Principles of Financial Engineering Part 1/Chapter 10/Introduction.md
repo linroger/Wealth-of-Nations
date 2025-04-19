@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#arbitrage_pricing_theory'
-  - '#convexity'
-  - '#delta_neutral_portfolios'
-  - '#implied_volatility'
-  - '#interest_rate_derivatives'
-  - '#option_pricing_model'
-  - '#volatility_trading'
-  - '#yield_volatility'
+  - convexity
+  - delta_neutral
+  - interest_rate_derivatives
+  - option_pricing
+  - volatility
+aliases:
+  - Introduction to Volatility
+  - Trading Volatility
+key_concepts:
+  - Arbitrage pricing theory
+  - Convexity and yield volatility
+  - Delta-neutral portfolios
+  - Implied volatility calculation
+  - Trading volatility
 ---
+
 # 10.1 INTRODUCTION  
 
 How can anyone trade volatility? Stocks, yes. Bonds, yes. But volatility is not even an asset. Several difficulties are associated with defining precisely what volatility is. For example, from a technical point of view, should we define volatility in terms of the estimate of the conditional standard deviation of an asset price $S_{t}^{\mathbf{\alpha}}$  

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_put_option'
-  - '#commodity_prices'
-  - '#futures_prices'
-  - '#mean_reversion'
-  - '#price_jumps'
-  - '#risk_neutral_world'
-  - '#seasonality'
-  - '#stochastic_volatility'
-  - '#trinomial_tree'
+  - commodity_prices
+  - futures_price
+  - mean_reversion
+  - risk_neutral
+  - trinomial_tree
+aliases:
+  - Commodity Price Modeling
+  - Commodity Pricing
+  - Modeling Commodity
+key_concepts:
+  - Futures price
+  - Mean-reverting processes
+  - Risk-neutral world
+  - Trinomial tree methodology
+  - Value derivatives
 ---
+
 # 35.4  MODELING COMMODITY PRICES  
 
 To value derivatives, we are often interested in modeling the spot price of a commodity in the traditional risk-neutral world. From Section 18.6, the expected future price of the commodity in this world is the futures price.  

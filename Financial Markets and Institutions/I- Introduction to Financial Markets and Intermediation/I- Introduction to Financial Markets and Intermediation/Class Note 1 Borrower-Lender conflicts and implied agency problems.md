@@ -1,17 +1,25 @@
 ---
 LLM-tagged: 2025-03-10 14:12:46.154000+00:00
 tags:
-  - '#asset_services'
-  - '#asset_substitution_theory'
-  - '#bond_covenants'
-  - '#borrower_lender_conflicts'
-  - '#debt_and_capital_budgeting'
-  - '#debt_capacity'
-  - '#monitoring_and_enforcement'
-  - '#perverse_incentives'
-  - '#risky_debt'
-  - '#small_firms_and_debt'
+  - agency_problems
+  - asset_services
+  - bond_covenants
+  - borrower_lender_conflicts
+  - capital_markets
+  - debt_incentives
+aliases:
+  - Borrower-Lender Conflicts
+  - Class Note 1 Borrower-Lender conflicts and implied agency problems
+  - Debt and Incentives
+key_concepts:
+  - Asset services reduce bad effects
+  - Bond covenants and borrower behavior
+  - Debt common for smaller firms
+  - Debt distorts capital budgeting
+  - Incentives of equity holders
+  - Risky debt and lender advantage
 ---
+
 Here is a tagged summary:
 
 **Key Takeaways**

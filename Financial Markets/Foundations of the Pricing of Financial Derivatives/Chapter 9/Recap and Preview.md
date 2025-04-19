@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#binomial_model'
-  - '#black_scholes_merton_model'
-  - '#continuous_time_derivatives'
-  - '#lognormal_distribution'
-  - '#option_pricing'
-  - '#probability_theory'
-  - '#stochastic_process'
-  - '#wiener_processes'
+  - binomial_model
+  - black_scholes_merton
+  - continuous_time
+  - option_pricing
+  - probability
+aliases:
+  - Part III
+  - Preview
+  - Recap
+key_concepts:
+  - DeMoivre-LaPlace theorem
+  - binomial model convergence
+  - coherent conditions binomial model
+  - continuous time world
+  - underlying asset movements
 ---
+
 # 9.5 RECAP AND PREVIEW
 
 We have shown in this chapter that the binomial model converges to the Black-ScholesMerton model.' We made no assumptions regarding what the probabilities were, and we.

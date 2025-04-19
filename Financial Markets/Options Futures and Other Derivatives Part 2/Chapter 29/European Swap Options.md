@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#black_model'
-  - '#bond_options'
-  - '#day_count_conventions'
-  - '#european_swaptions'
-  - '#forward_swap_rate'
-  - '#interest_rate_options'
-  - '#negative_interest_rates'
-  - '#swap_options_valuation'
-  - '#swaptions'
+  - european_option
+  - forward_swap
+  - interest_rate_option
+  - swap_rate
+  - swaption
+aliases:
+  - Bond Option
+  - European Swaptions
+  - Swap Options
+  - Swaptions
+key_concepts:
+  - fixed rate of interest
+  - floating rate loan
+  - options on interest rate swaps
+  - right to enter swap
+  - valuation of European swaptions
 ---
+
 # 29.3 EUROPEAN SWAP OPTIONS  
 
 Swap options, or swaptions, are options on interest rate swaps and are another popular. type of interest rate option. They give the holder the right to enter into a certain interest rate swap at a certain time in the future. (The holder does not, of course, have to exercise this right.) Many large financial institutions that offer interest rate swap. contracts to their corporate clients are also prepared to sell them swaptions or buy swaptions from them. As shown in Business Snapshot 29.2, a swaption can be viewed as a type of bond option.  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#apple_stock_aapl'
-  - '#daily_returns_first_differences'
-  - '#etf_analysis'
-  - '#financial_data_analysis'
-  - '#lognormal_distribution'
-  - '#probability_distributions'
-  - '#skewness_kurtosis'
-  - '#sp_500_etf_spy'
-  - '#stock_returns'
-  - '#technology_sector_etf_xlk'
+  - daily_returns
+  - etf_analysis
+  - first_differences
+  - lognormal_distribution
+  - normal_distribution
+aliases:
+  - Lognormal vs Normal
+  - Probability Distributions
+key_concepts:
+  - Continuous compounded return normal
+  - ETF and AAPL data
+  - Empirical financial data review
+  - Histograms of returns
+  - Lognormal distribution properties
 ---
+
 # 5.2 CONTRASTING THE NORMAL WITH THE LOGNORMAL PROBABILITY DISTRIBUTIONS
 
 Based on properties of the lognormal distribution, if $S_{t}=S_{t-1}e^{R_{t}^{c}}$ and $R_{t}^{c}$ is normally dis-.

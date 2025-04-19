@@ -5,16 +5,32 @@ description: Identify and explore the most common types of swap contracts. Swaps
   derivative instruments that represent an agreement between two parties to exchange
   a series of cash flows over a specific period of time
 tags:
-  - '#commodity_swaps'
-  - '#credit_default_swaps'
-  - '#currency_swaps'
-  - '#financial_swaps'
-  - '#hedging_instruments'
-  - '#interest_rate_swaps'
-  - '#over_the_counter_transactions'
-  - '#risk_management'
-  - '#total_return_swaps'
+  - credit_default_swaps
+  - currency_swaps
+  - financial_agreements
+  - financial_instruments
+  - fixed_rate
+  - floating_rate
+  - hedging
+  - interest_rate_swaps
+  - risk_management
+  - swaps
+aliases:
+  - Credit Default Swap
+  - Currency Swap
+  - Interest Rate Swap
+  - Swap Types
+  - Total Return Swap
+key_concepts:
+  - Benefit from securities
+  - Convert rates effectively
+  - Exchange cash flows
+  - Hedge exchange rate fluctuations
+  - Insurance against defaults
+  - Investment and risk management
 ---
+
+
 Swaps are [derivative](https://www.investopedia.com/terms/d/derivative.asp) instruments that represent an agreement between two parties to exchange a series of cash flows over a specific period. Swaps offer great flexibility in designing and structuring contracts based on mutual agreement. This flexibility generates many [swap](https://www.investopedia.com/terms/s/swap.asp) variations, with each serving a specific purpose.
 
 There are multiple reasons why parties agree to such an exchange:

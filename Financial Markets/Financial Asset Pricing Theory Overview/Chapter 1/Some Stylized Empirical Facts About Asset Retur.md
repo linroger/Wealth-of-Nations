@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#arithmetic_average'
-  - '#asset_returns'
-  - '#bond_returns'
-  - '#geometric_average'
-  - '#real_returns'
-  - '#return_distribution'
-  - '#stock_returns'
-  - '#treasury_bills'
-  - '#volatility_clustering'
+  - arithmetic_average
+  - asset_returns
+  - empirical_facts
+  - geometric_average
+  - real_returns
+aliases:
+  - Asset Return Facts
+  - Empirical Findings
+key_concepts:
+  - Arithmetic Average Return
+  - Asset Returns
+  - Geometric Average Return
+  - Real Stock Return
+  - Treasury Bill Return
 ---
+
 # 1.3 Some stylized empirical facts about asset returns  
 
 This section will summarize some general empirical findings about asset returns. Before doing.   

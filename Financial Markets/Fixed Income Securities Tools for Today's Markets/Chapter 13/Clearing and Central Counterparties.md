@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bilateral_swaps'
-  - '#ccp_governance'
-  - '#cleared_swaps'
-  - '#clearing_and_central_counterparties'
-  - '#counterparty_risk'
-  - '#default_waterfall'
-  - '#margin_procyclicality'
-  - '#margin_requirements'
-  - '#systemic_risk'
+  - bilateral_swaps
+  - ccp_risk
+  - central_counterparties
+  - cleared_swaps
+  - clearinghouse
+aliases:
+  - Bilateral Swap
+  - CCP
+  - Cleared Swap
+key_concepts:
+  - Bilateral vs. Cleared Swaps
+  - Cash flow risk
+  - Central Counterparty (CCP)
+  - Clearinghouse Members
+  - Default Backstopping
 ---
+
 # 13.5 CLEARING AND CENTRAL COUNTERPARTIES  
 
 Figure 13.6 illustrates the difference between bilateral and cleared swaps. The top section of the figure shows a bilateral swap, in which Counterparty A pays fixed to and receives floating from Counterparty B. All aspects of the trade, from its execution to the ongoing exchange of cash flows and margin, are arranged between the two counterparties, and each counterparty bears all of the risk should the other default. While the diagram looks simple when there are only two counterparties, managing a large book of swaps trades with many counterparties is very complex. Every day, each counterparty has to send VM to or collect VM from each of its counterparties, in addition to sending or collecting any contractual interest payments due that day. Furthermore, each counterparty must track its exposure to each of its counterparties and perform ongoing due diligence as to their creditworthiness.  

@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#annuity_factor'
-  - '#commercial_real_estate_option'
-  - '#market_price_of_risk'
-  - '#real_asset_valuation'
-  - '#risk_neutral_growth_rate'
-  - '#risk_neutral_valuation'
-  - '#wiener_process'
+  - commercial_real_estate
+  - market_price_risk
+  - real_asset
+  - risk_neutral_valuation
+  - wiener_process
+aliases:
+  - Real Asset Valuation
+  - Risk-Neutral Valuation
+key_concepts:
+  - Commercial real estate cost
+  - Expected growth rate
+  - Market price of risk
+  - Option to rent
+  - Risk-free rate
 ---
+
 # 36.2 EXTENSION OF THE RISK-NEUTRAL VALUATION FRAMEWORK  
 
 In Section 28.1 the market price of risk for a variable $\theta$ was defined as  

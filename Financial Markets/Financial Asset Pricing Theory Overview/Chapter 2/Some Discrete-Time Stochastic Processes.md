@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#adapted_process'
-  - '#arch_garch_processes'
-  - '#autoregressive_processes'
-  - '#conditional_variance'
-  - '#discrete_time_stochastic_processes'
-  - '#exogenous_shocks'
-  - '#markov_process'
-  - '#martingale'
-  - '#random_walk'
+  - asset_pricing
+  - discrete_time
+  - markov_process
+  - random_walk
+  - stochastic_processes
+aliases:
+  - Discrete-time stochastic process
+  - Stochastic process
+key_concepts:
+  - Autoregressive process
+  - Exogenous shocks
+  - Filtered probability space
+  - Markov process
+  - Random walk
 ---
+
 # 2.5 Some discrete-time stochastic processes  
 
 In most discrete-time financial models the basic uncertainty is described by a sequence $\varepsilon_{1},\varepsilon_{2},\dots,\varepsilon_{T}$ of random variables, one for each point in time. Think of $\varepsilon_{t}$ as an exogenous shock to the financial. market at time $t$ . We assume that the shocks at different points in time are mutually independent,. that each shock has a mean of zero and a variance of one. The shock at any given point in time $t$ can be multi-variate, in which case we will write it as a vector,. $\varepsilon_{t}$ . In that case the elements of. the vector are assumed to be mutually independent. We assume that the shocks at all points in time have the same dimension. The distribution of the exogenous shocks has to be specified in the model. Typically, the shocks are assumed to be normally distributed (infinite state space) but models with a binomial or multinominal structure (finite state space) also exist..  

@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#black_scholes_merton'
-  - '#dividend_yield_estimation'
-  - '#european_index_options'
-  - '#ex_dividend_dates'
-  - '#forward_prices'
-  - '#index_option_valuation'
-  - '#put_call_parity'
-  - '#stock_vs_bonds'
+  - binomial_tree
+  - dividend_yield
+  - european_options
+  - index_options
+  - option_valuation
+aliases:
+  - European Stock Index Options
+  - Index Options Valuation
+key_concepts:
+  - Binomial tree for American options
+  - European index options valuation
+  - Index options lower bound
+  - Index volatility and yield
+  - Put-call parity for options
 ---
+
 # 17.4 VALUATION OF EUROPEAN STOCK INDEX OPTIONS  
 
 In valuing index futures in Chapter 5, we assumed that the index could be treated as an asset paying a known yield. In valuing index options, we make similar assumptions.. This means that equations (17.1) and (17.2) provide a lower bound for European index options; equation (17.3) is the put-call parity result for European index options;. equations (17.4) and (17.5) can be used to value European options on an index; and the binomial tree approach can be used for American options. In all cases, $S_{0}$ is equal to the current value of the index, $\sigma$ is equal to the volatility of the index, and $q$ is equal to the average annualized dividend yield on the index during the life of the option expressed with continuous compounding.  

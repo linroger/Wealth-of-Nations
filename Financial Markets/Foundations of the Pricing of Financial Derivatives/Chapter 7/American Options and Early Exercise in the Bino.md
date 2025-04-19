@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_model'
-  - '#call_options'
-  - '#dividend_impact'
-  - '#early_exercise'
-  - '#escrow_method'
-  - '#european_options'
-  - '#hedge_ratio'
-  - '#put_options'
+  - american_options
+  - binomial_model
+  - early_exercise
+  - option_pricing
+  - put_option
+aliases:
+  - American Option Pricing
+  - American Put Option
+  - Early Exercise in Binomial
+key_concepts:
+  - American option exercise
+  - Binomial model
+  - Dividend impact on exercise
+  - Early exercise decision
+  - Put option early exercise
 ---
+
 # 7.5 AMERICAN OPTIONS AND EARLY EXERCISE IN THE BINOMIAL FRAMEWORK
 
 If the options are American style, they can be exercised early. It is well known that American call options will not be exercised early unless there is a dividend or some other cash. amount paid by the asset, in which case early exercise could be justified immediately before. the cash is paid.7 To accommodate the possibility of early exercise, there are a variety of methods that can be used in the binomial model. One extremely useful, but somewhat oversimplified method, is to assume the dividend is a constant rate of the value of the asset.8. This approach, however, would imply a dividend at every time step. There are some limited. situations in which that might be appropriate, such as for an option on a stock index where dividends are paid by the constituent stocks at different times. An alternative approach, however, is to subtract the present value of all dividends over the life of the option from. the current value of the underlying--often called the escrow method. Then we let the net of the stock price minus the present value of dividends evolve through the binomial tree according to the factors $\boldsymbol{\mathscr{u}}$ and $d.$ At a given node at which the dividend is paid, we decide. if the option is worth exercising just before the stock goes ex-dividend. If so, the exercise value replaces the value obtained using the formula. We explore the escrow method in detail in the next section..

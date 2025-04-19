@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#liquidity_risk'
-  - '#long_term_capital_management'
-  - '#ltcm_meltdown'
-  - '#margin_calls'
-  - '#noise_traders'
-  - '#performance_based_arbitrage'
-  - '#russian_default'
-  - '#shleifer_vishny'
+  - arbitrage
+  - financial_markets
+  - liquidity_risk
+  - ltcm_meltdown
+  - risk_management
+aliases:
+  - Diamond-Dybvig model
+  - LTCM
+  - Long Term Capital Management
+key_concepts:
+  - Russian default
+  - Shleifer-Vishny paper
+  - arbitrage opportunities
+  - illiquid assets
+  - liquidity risk
+  - margin calls
 ---
+
 # Class Note 13 The LTCM Meltdown
 
 ## I.Introduction

@@ -1,16 +1,34 @@
 ---
 tags:
-  - '#accrual_swap'
-  - '#bankers_trust'
-  - '#bizarre_deals'
-  - '#commodity_derivatives'
-  - '#commodity_swaps'
-  - '#energy_derivatives'
-  - '#equity_swaps'
-  - '#index_amortizing_rate_swap'
-  - '#procter_and_gamble'
-  - '#swap_structures'
+  - bankers_trust
+  - commodity_swaps
+  - convexity_adjustments
+  - equity_swaps
+  - financial_engineering
+  - index_amortizing_swap
+  - interest_rate_swaps
+  - procter_and_gamble
+  - risk_management
+  - swap_structures
+aliases:
+  - BT
+  - CMT
+  - Commercial Paper
+  - Indexed Principal Swap
+  - P&G
+key_concepts:
+  - Bizarre swap payoffs
+  - Commercial paper rate
+  - Commodity swaps
+  - Constant maturity yield
+  - Convexity adjustments
+  - Equity index exchange
+  - Fixed side
+  - Floating rate return
+  - Index amortizing rate swap
+  - Swap structures
 ---
+
 # 34.6 OTHER SWAPS  
 
 This chapter has discussed just a few of the swap structures in the market. In practice, the range of different contracts that trade is limited only by the imagination of financial engineers and the appetite of corporate treasurers for innovative risk management tools.  

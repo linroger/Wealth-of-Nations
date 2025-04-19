@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#derivatives_risks'
-  - '#financial_instruments'
-  - '#hedging_vs_speculation'
-  - '#internal_controls'
-  - '#nonfinancial_corporations'
-  - '#orange_county_procter_gamble'
-  - '#risk_management'
-  - '#senior_management'
-  - '#trading_strategy'
-  - '#treasury_department'
+  - hedging_strategies
+  - nonfinancial_corporations
+  - risk_management
+  - trading_strategy
+  - treasury_department
+aliases:
+  - Corporate Finance
+  - Risk Management
+  - Treasury Management
+key_concepts:
+  - Hedger vs speculator
+  - Risk limits and controls
+  - Trading strategy exposures
+  - Treasury as profit center
+  - Understand trades
 ---
+
 # 37.3 LESSONS FOR NONFINANCIAL CORPORATIONS  
 
 We now consider lessons primarily applicable to nonfinancial corporations.  

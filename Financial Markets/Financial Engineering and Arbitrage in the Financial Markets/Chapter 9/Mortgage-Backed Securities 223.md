@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#collateralized_mortgage_obligations'
-  - '#interest_only_io'
-  - '#mortgage_backed_securities'
-  - '#mortgage_financing_basics'
-  - '#mortgage_pass_through_securities'
-  - '#multiclass_cmos'
-  - '#planned_amortization_class_cmo'
-  - '#prepayment_risk'
-  - '#principal_only_po'
-  - '#sequential_pay_cmo'
+  - cmo
+  - cmo_structure
+  - mortgage_backed_securities
+  - mortgage_financing
+  - prepayment_risk
+aliases:
+  - CMOs
+  - MBS
+key_concepts:
+  - Collateralized mortgage obligations
+  - Interest-only and principal-only
+  - Mortgage financing basics
+  - Pass-through securities
+  - Prepayment risk
+  - Sequential-pay CMO
 ---
+
 # 9 Mortgage-Backed Securities 223  
 
 9.1 Mortgage Financing Basics 224   

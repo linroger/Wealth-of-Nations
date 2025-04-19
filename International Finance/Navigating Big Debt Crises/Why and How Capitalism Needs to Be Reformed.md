@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#american_dream'
-  - '#capitalism_reform'
-  - '#double_bottom_line'
-  - '#economic_mobility'
-  - '#education_system'
-  - '#fiscal_policy'
-  - '#income_inequality'
-  - '#populism'
-  - '#social_conflict'
-  - '#wealth_gap'
+  - american_dream
+  - capitalism_reform
+  - economic_inequality
+  - income_inequality
+  - wealth_gap
+aliases:
+  - Capitalism Reform
+  - Reforming Capitalism
+key_concepts:
+  - Capitalism needs reform
+  - Economic investing game
+  - Equal opportunity is fair
+  - Self-reinforcing spirals
+  - Widening opportunity gaps
 ---
+
 April 5 th, 2019
 
 ## Summary

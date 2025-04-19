@@ -1,16 +1,28 @@
 ---
 tags:
-  - '#convenience_yields'
-  - '#exchange_rates'
-  - '#fiscal_policy'
-  - '#global_imbalances'
-  - '#international_finance'
-  - '#market_segmentation'
-  - '#monetary_policy'
-  - '#net_foreign_assets'
-  - '#portfolio_choice'
-  - '#risk_premia'
+  - exchange_rates
+  - global_imbalances
+  - government_debt
+  - international_finance
+  - market_segmentation
+  - monetary_policy
+  - portfolio_choice
+  - risk_premia
+aliases:
+  - International Financial
+  - Intl Finance
+  - Intl. Finance
+key_concepts:
+  - Convenience yields
+  - Currency risk premia
+  - Exchange rate accounting
+  - Global imbalances
+  - Government debt valuation
+  - Incomplete markets
+  - Monetary fiscal policies
+  - Portfolio choice approach
 ---
+
 # Lecture Notes on International Finance
 # Contents
 # Table of Contents

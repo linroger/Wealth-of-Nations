@@ -1,19 +1,26 @@
 ---
-aliases: []
 cssclasses: academia
 title: Options Greeks
 tags:
-  - '#black_scholes_formula'
-  - '#delta'
-  - '#dynamic_hedging'
-  - '#gamma'
-  - '#implied_volatility'
-  - '#options_greeks'
-  - '#rho'
-  - '#theta'
-  - '#vega'
-  - '#volatility_smiles'
+  - delta
+  - gamma
+  - greeks
+  - options_greeks
+  - rho
+  - theta
+  - vega
+aliases:
+  - Black-Scholes
+  - Option Pricing
+  - The Greeks
+key_concepts:
+  - Delta of option
+  - Hedging risks
+  - Option price changes
+  - Risk management
+  - Volatility smiles
 ---
+
 # Options Greeks
 # The Greeks
 

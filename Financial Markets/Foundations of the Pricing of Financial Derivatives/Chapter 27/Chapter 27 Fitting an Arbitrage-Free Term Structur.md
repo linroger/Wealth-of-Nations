@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_term_structure'
-  - '#binomial_tree'
-  - '#hjm_model'
-  - '#hjm_model_discretization'
-  - '#model_fitting'
-  - '#term_structure_model'
+  - arbitrage_free
+  - binomial_tree
+  - hjm_model
+  - interest_rate_models
+  - term_structure
+aliases:
+  - Chapter 27
+  - Fitting Term Structure
+  - HJM
+key_concepts:
+  - Binomial tree fitting
+  - Discretizing HJM model
+  - HJM binomial tree
+  - HJM model structure
 ---
+
 # CHAPTER 27 Fitting an Arbitrage-Free Term Structure Model
 
 # 475

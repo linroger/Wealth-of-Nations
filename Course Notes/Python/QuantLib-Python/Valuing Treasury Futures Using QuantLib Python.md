@@ -4,15 +4,22 @@ source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-pytho
 description: Provides an introduction to valuation of treasury futures contract in
   QuantLib Python.
 tags:
-  - '#cheapest_to_deliver'
-  - '#conversion_factor'
-  - '#futures_valuation'
-  - '#quantlib_python'
-  - '#treasury_futures'
-  - '#tyz5_futures'
-  - '#yield_curve_building'
-  - '#z_spread'
+  - cheapest_to_deliver
+  - futures_contract
+  - quantlib_python
+  - treasury_futures
+  - yield_curve
+aliases:
+  - QuantLib Futures
+  - Valuing Futures
+key_concepts:
+  - Build yield curve
+  - Cheapest to deliver
+  - Futures contract modeling
+  - QuantLib Python contract
+  - Treasury futures valuation
 ---
+
 # Valuing Treasury Futures Using QuantLib Python
 Provides an introduction to valuation of treasury futures contract in QuantLib Python.
 

@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#cash_flow_engineering'
-  - '#commodities'
-  - '#commodity_futures'
-  - '#hedge_fund_industry'
-  - '#swap_engineering'
-  - '#term_structure'
+  - cash_flow_engineering
+  - commodity_futures
+  - hedge_fund_industry
+  - swap_engineering
+  - term_structure
+aliases:
+  - Chapter 7
+  - Commodities
+  - Hedge Funds
+key_concepts:
+  - Alternative asset classes
+  - Commodity futures prices
+  - Futures contract parameters
+  - Hedge fund industry overview
+  - Swap engineering commodities
 ---
+
 # CHAPTER 7 Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds). 211  
 
 7.1 Introduction. 212   

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_pricing'
-  - '#discount_bond_prices'
-  - '#forward_rates'
-  - '#fra_markets'
-  - '#libor'
-  - '#ois'
-  - '#swap_curve'
-  - '#swap_rates'
-  - '#term_structure_modeling'
-  - '#yield_curve_construction'
+  - arbitrage_free
+  - forward_rates
+  - spot_rates
+  - swap_rates
+  - term_structure
+aliases:
+  - Term Structure of Interest Rates
+  - Yield Curve Modeling
+key_concepts:
+  - Arbitrage-free pricing
+  - Forward rate determination
+  - Real-world complications
+  - Spot swap rates
+  - Yield curve construction
 ---
+
 # 14.3 TERM STRUCTURE MODELING  
 
 The framework outlined in this chapter demonstrates the links between swap, bond, and FRA mar-. kets. We will now discuss the term structure implications of the derived formulas. The set of formulas we studied implies that, given the necessary information from two of these markets, we can,. in principle, obtain arbitrage-free prices for the remaining market.1o we discuss this briefly, after. noting the following small, but significant, modification. Term structure models concern forward rates as well as spot rates. As a matter of fact, traditional yield curve construction is done by first. obtaining the spot yields and then moving to forward rates..  

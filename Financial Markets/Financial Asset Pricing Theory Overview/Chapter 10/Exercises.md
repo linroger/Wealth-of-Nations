@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#interest_rate_models'
-  - '#market_price_of_risk'
-  - '#nominal_short_rate'
-  - '#ornstein_uhlenbeck_process'
-  - '#state_price_deflator'
-  - '#term_premium'
-  - '#term_structure'
-  - '#vasicek_model'
-  - '#zero_coupon_bonds'
+  - discount_function
+  - interest_rate
+  - ornstein_uhlenbeck
+  - term_premium
+  - zero_coupon_bond
+aliases:
+  - Chapter 10 Exercises
+  - Exercises
+key_concepts:
+  - Arbitrage and short rate
+  - Interest rate uncertainty
+  - Nominal term structure
+  - SAINTS model
+  - Term premium and deflator
 ---
+
 # 10.10 Exercises  
 
 EXERCISE 10.1 Show that if there is no arbitrage and the short rate can never go negative,.   

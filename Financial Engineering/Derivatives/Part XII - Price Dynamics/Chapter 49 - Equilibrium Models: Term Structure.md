@@ -1,3 +1,20 @@
+---
+tags:
+  - equilibrium_models
+  - fixed_income_derivatives
+  - risk_neutral_valuation
+  - short_rate
+  - term_structure
+aliases:
+  - Equilibrium Term Structure
+  - Short Rate Models
+key_concepts:
+  - Black's model
+  - Bond prices and options
+  - Continuous time stochastic process
+  - Path-dependent options
+  - Risk-neutral valuation
+---
 # Equilibrium Models: Term Structure  
 
 # Aims  

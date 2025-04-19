@@ -1,20 +1,26 @@
 ---
 title: Lessons from China’s Past Banking Bailouts
-aliases:
 cssclasses:
   - academia
 tags:
-  - '#asset_management_companies_amcs'
-  - '#asset_quality_deterioration'
-  - '#bank_bailouts'
-  - '#bank_restructuring'
-  - '#china_banking_sector'
-  - '#financial_stability'
-  - '#foreign_investment'
-  - '#government_intervention'
-  - '#implicit_guarantees'
-  - '#non_performing_loans_npls'
+  - bank_bailouts
+  - china_banking
+  - economic_history
+  - financial_stability
+  - npl
+aliases:
+  - Baoshang Bank
+  - Chinese bank rescues
+  - NPL crisis
+  - PBoC
+key_concepts:
+  - Bank bailouts history
+  - China banking sector
+  - Economic growth trade tensions
+  - Financial stability threat
+  - NPL asset quality
 ---
+
 # Lessons from China’s Past Banking Bailouts
 # Abstract
 

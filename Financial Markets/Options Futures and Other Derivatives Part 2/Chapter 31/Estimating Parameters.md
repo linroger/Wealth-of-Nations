@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cir_model'
-  - '#market_price_of_risk'
-  - '#parameter_estimation'
-  - '#regression_analysis'
-  - '#risk_neutral_world'
-  - '#term_structure_modeling'
-  - '#treasury_rates'
-  - '#vasicek_model'
-  - '#zero_coupon_rates'
+  - parameter_estimation
+  - risk_neutral
+  - term_structure
+  - treasury_rates
+  - vasicek_model
+aliases:
+  - Estimating Parameters
+  - Parameter Estimation
+  - Vasicek's Model
+key_concepts:
+  - 3-month treasury rates
+  - Estimating model parameters
+  - Risk-neutral parameters
+  - Vasicek model application
+  - Zero-coupon rates
 ---
+
 # 31.4 ESTIMATING PARAMETERS  
 
 We will illustrate the estimation of parameters with Vasicek's model. The discrete version of the model in the real world is, from equation (31.13),.  

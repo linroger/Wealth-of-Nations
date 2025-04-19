@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#counterparty_risk'
-  - '#credit_valuation_adjustment'
-  - '#cva'
-  - '#debit_valuation_adjustment'
-  - '#defaultable_bonds'
-  - '#dva'
-  - '#funding_valuation_adjustment'
-  - '#fva'
-  - '#multiple_curves'
-  - '#swap_markets'
+  - counterparty_risk
+  - credit_valuation
+  - cva
+  - debit_valuation
+  - dva
+  - funding_valuation
+  - fva
+  - multiple_curves
+aliases:
+  - CVA, DVA, FVA
+  - Chapter 24
+  - Counterparty Risk
+key_concepts:
+  - Counterparty risk
+  - Credit valuation adjustment
+  - Debit valuation adjustment
+  - Funding valuation adjustment
+  - Multiple curves
 ---
+
 # CHAPTER 24 Counterparty Risk, Multiple Curves, CVA, DVA, and FVA .. . 827  
 
 24.1 Introduction. 827   

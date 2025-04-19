@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#contingent_delivery'
-  - '#derivatives'
-  - '#financial_markets'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#options'
-  - '#risk_management'
-  - '#risk_sharing'
-  - '#spot_markets'
-  - '#transactional_structure'
+  - financial_markets
+  - forward_transactions
+  - risk_transfer
+  - spot_markets
+  - transactional_structure
+aliases:
+  - Financial Markets Structure
+  - Transactional Finance
+key_concepts:
+  - Financial market bazaar
+  - Forward buy transaction
+  - Risk transfer mechanism
+  - Spot market transactions
+  - Time of delivery
 ---
+
 # 1.3 TRANSACTIONAL STRUCTURE OF FINANCIAL MARKETS  
 
 Most people think of financial markets as a giant bazaar with individuals buying and selling stuff to each other for money. The "stuff"' they trade is paper claims on future earnings, coupon interest, or insurance payouts. If you buy good claims and their value goes up, you can sell them for more; if you buy bad ones and their value goes down, you lose money.  

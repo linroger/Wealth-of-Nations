@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bond_returns'
-  - '#cochrane_piazzesi_factor'
-  - '#expectations_hypothesis'
-  - '#forward_rates'
-  - '#inflation_risk'
-  - '#real_interest_rates'
-  - '#risk_premia'
-  - '#term_structure_interest_rates'
-  - '#treasury_inflation_protected_securities'
+  - expectations_hypothesis
+  - forward_rates
+  - interest_rates
+  - risk_premia
+  - term_structure
+aliases:
+  - Interest Rate Structure
+  - Term Structure
+  - Yield Curve
+key_concepts:
+  - Expectations hypothesis
+  - Forward rates calculation
+  - Term structure decomposition
+  - Term structure of rates
+  - Time-varying risk premia
 ---
+
 Teaching Notes
 ### Understanding the Term Structure of Interest Rates
 John Heaton

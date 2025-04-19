@@ -1,23 +1,23 @@
 ---
 cssclasses: academia
-aliases:
-  - Reorganization
-  - And Organizational Efficiency.md
-  - Financial Distress
-  - And Organizational Efficiency
 title: Financial Distress,  Reorganization,  And Organizational Efficiency
 tags:
-  - '#absolute_priority_rule'
-  - '#bankruptcy'
-  - '#chapter_11'
-  - '#debt_restructuring'
-  - '#financial_distress'
-  - '#financial_restructuring'
-  - '#insolvency'
-  - '#management_turnover'
-  - '#organizational_efficiency'
-  - '#workout'
+  - bankruptcy
+  - chapter_11
+  - financial_distress
+  - organizational_efficiency
+  - restructuring
+aliases:
+  - Financial Restructuring
+  - Organizational Changes
+key_concepts:
+  - conflicts of interest
+  - financial distress impact
+  - financial restructuring costs
+  - organizational restructuring
+  - resolving distress methods
 ---
+
 # Financial Distress,  Reorganization,  And Organizational Efficiency
 
 This paper examines financial distress and its effect on organizational efficiency. Imperfect information and conflicts of interest among the firm's claimholders influence the outcome of financial distress. Methods for resolving distress and controlling conflicts of interest are discussed. New evidence on financial restructuring and distress costs is presented along with evidence on the organizational restructuring that accompanies financial distress. The evidence demonstrates that financial distress has benefits as well as costs,  and that financial and ownership structure affect the net costs.

@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#bermudan_option'
-  - '#binomial_tree_valuation'
-  - '#changing_strike_price'
-  - '#corporate_warrants'
-  - '#early_exercise_restrictions'
-  - '#nonstandard_american_options'
+  - american_option
+  - bermudan_option
+  - binomial_tree
+  - early_exercise
+  - strike_price
+aliases:
+  - Non-standard options
+  - OTC options
+key_concepts:
+  - Bermudan option
+  - Binomial tree valuation
+  - Changing strike price
+  - Early exercise restrictions
+  - Nonstandard American options
 ---
+
 # 26.3 NONSTANDARD AMERICAN OPTIONS  
 
 In a standard American option, exercise can take place at any time during the life of the. option and the exercise price is always the same. The American options that are traded in the over-the-counter market sometimes have nonstandard features. For example:.  

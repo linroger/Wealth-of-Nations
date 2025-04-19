@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#historical_simulation'
-  - '#market_variables'
-  - '#monte_carlo_simulation'
-  - '#multivariate_normal_distribution'
-  - '#partial_simulation'
-  - '#portfolio_valuation'
-  - '#risk_management'
-  - '#value_at_risk_var'
+  - monte_carlo_simulation
+  - partial_simulation
+  - portfolio_valuation
+  - probability_distribution
+  - var_calculation
+aliases:
+  - Monte Carlo
+  - Partial Simulation
+  - VaR
+key_concepts:
+  - Build probability distribution
+  - Calculate 1-day VaR
+  - Monte Carlo simulation
+  - Multivariate normal distribution
+  - Revalue the portfolio
 ---
+
 # 22.6 MONTE CARLO SIMULATION  
 
 As an alternative to the procedure described so far, the model-building approach can be implemented using Monte Carlo simulation to generate the probability distribution for $\Delta P$ . Suppose we wish to calculate a 1-day VaR for a portfolio. The procedure is as follows:  

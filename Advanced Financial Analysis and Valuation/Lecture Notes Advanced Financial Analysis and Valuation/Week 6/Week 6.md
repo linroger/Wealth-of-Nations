@@ -1,9 +1,22 @@
 ---
 title: Week 6
 tags:
-  - '#waypoint'
-  - '#week_6'
+  - financial_markets
+  - investment_strategy
+  - market_dynamics
+  - week_6
+  - week_analysis
+aliases:
+  - Financial Markets
+  - Week Six
+  - Wk 6
+key_concepts:
+  - Financial market dynamics
+  - Investment strategies
+  - Market analysis
+  - Week 6 overview
 ---
+
 # Week 6
 %% Begin Waypoint %%
 - **[[Week 6]]**

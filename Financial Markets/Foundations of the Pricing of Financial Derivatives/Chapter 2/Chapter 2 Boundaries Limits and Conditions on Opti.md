@@ -1,14 +1,31 @@
 ---
 tags:
-  - '#american_options'
-  - '#european_options'
-  - '#interest_rate_effect_on_options'
-  - '#option_exercise_price'
-  - '#option_pricing_boundaries'
-  - '#option_value_at_expiration'
-  - '#put_call_parity'
-  - '#volatility_effect_on_options'
+  - american_option
+  - convexity_rule
+  - european_option
+  - exercise_price
+  - interest_rates
+  - option_pricing
+  - option_values
+  - put_call_parity
+  - time_to_expiration
+  - volatility
+aliases:
+  - Chapter 2
+  - Option Boundaries
+  - Option Conditions
+  - Option Limits
+key_concepts:
+  - American option value
+  - Early exercise optimality
+  - European option value
+  - Interest rate effect
+  - Option building blocks
+  - Option price boundaries
+  - Put-call parity
+  - Volatility impact
 ---
+
 # CHAPTER 2 Boundaries, Limits, and Conditions on Option Prices 19
 
 2.1 Setup, Definitions, and Arbitrage 20

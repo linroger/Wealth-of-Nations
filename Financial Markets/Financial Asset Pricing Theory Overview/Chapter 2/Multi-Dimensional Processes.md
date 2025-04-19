@@ -1,15 +1,32 @@
 ---
 tags:
-  - '#brownian_motion'
-  - '#cholesky_decomposition'
-  - '#correlation'
-  - '#covariance'
-  - '#diffusion_process'
-  - '#ito_lemma'
-  - '#multi_dimensional_processes'
-  - '#stochastic_processes'
-  - '#variance'
+  - asset_pricing
+  - brownian_motion
+  - continuous_time
+  - correlation
+  - covariance
+  - discrete_time
+  - exogenous_shocks
+  - ito_process
+  - multi_dimensional_processes
+  - stochastic_processes
+aliases:
+  - Multi-dimensional analysis
+  - Multi-dimensional models
+  - Multi-process models
+key_concepts:
+  - Asset pricing models
+  - Brownian motion
+  - Continuous-time model
+  - Covariances and correlations
+  - Discrete-time model
+  - Exogenous shocks
+  - Instantaneous correlation
+  - Ito processes
+  - Multi-dimensional processes
+  - Two-dimensional processes
 ---
+
 # 2.7 Multi-dimensional processes  
 
 So far we have only considered one-dimensional processes, i.e. processes with a value space which is $\mathbb{R}$ or a subset of $\mathbb{R}$ . In most asset pricing models we need to keep track of several processes, e.g. dividend and price processes for different assets, and we will often be interested in covariances and correlations between different processes.  

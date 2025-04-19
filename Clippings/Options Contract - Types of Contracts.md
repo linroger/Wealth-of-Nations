@@ -4,17 +4,24 @@ source: https://www.investopedia.com/terms/o/optionscontract.asp
 description: An options contract gives the holder the right to buy or sell an underlying
   security at a preset price, known as the strike price.
 tags:
-  - '#call_options'
-  - '#expiration_date'
-  - '#hedging'
-  - '#options_contracts'
-  - '#options_rewards'
-  - '#options_risks'
-  - '#options_trading_strategies'
-  - '#put_options'
-  - '#speculation'
-  - '#strike_price'
+  - expiration_date
+  - financial_derivatives
+  - hedging
+  - options_contract
+  - strike_price
+aliases:
+  - Option Contract
+  - Options
+  - Options Contracts
+key_concepts:
+  - Agreement for potential transaction
+  - Preset price and expiration
+  - Price affected by volatility
+  - Right to buy or sell asset
+  - Used for hedging and speculation
 ---
+
+
 Definition
 
 An options contract is an agreement between two parties for a potential transaction on an underlying security at a preset price, called the strike price, before or on the expiration date.

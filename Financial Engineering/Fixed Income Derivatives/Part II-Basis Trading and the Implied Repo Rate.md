@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#basis_trading'
-  - '#bond_duration'
-  - '#cheapest_to_deliver_ctd'
-  - '#conversion_factor'
-  - '#delivery_options'
-  - '#futures_contracts'
-  - '#implied_repo_rate'
-  - '#yield_curve'
+  - arbitrage_trading
+  - basis_trading
+  - delivery_option
+  - futures_contracts
+  - implied_repo_rate
+aliases:
+  - Basis and Repo
+  - Futures Basis
+key_concepts:
+  - arbitrage trading opportunities
+  - basis and futures prices
+  - cheapest-to-deliver bond
+  - no-arbitrage futures price
+  - short future delivery option
 ---
+
 # Basis Trading and the Implied Repo Rate 
 
 In this chapter we look in more detail at some fundamentals behind the basis, including the factors that drive its behaviour, and we also consider implications of the short future’s delivery option. There is also, in an appendix at the back of this book, recent delivery history for the LIFFE long gilt future, for illustrative purposes and to observe delivery patterns.

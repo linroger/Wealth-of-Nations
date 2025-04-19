@@ -2,19 +2,34 @@
 title: Week 1 Ratio Analysis + Valuation Review
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#dividend_discount_model'
-  - '#enterprise_dcf'
-  - '#equity_valuation'
-  - '#free_cash_flow'
-  - '#ratio_analysis'
-  - '#roic'
-  - '#valuation'
-  - '#wacc'
+  - dividend_discount_model
+  - enterprise_valuation
+  - equity_valuation
+  - free_cash_flow
+  - ratio_analysis
+  - roic
+  - valuation
+  - wacc
+aliases:
+  - DCF
+  - DDM
+  - Valuation Methods
+  - Week 1 Review
+key_concepts:
+  - Discount rate components
+  - Dividend discount model
+  - Enterprise DCF process
+  - Enterprise vs equity models
+  - Free cash flow
+  - NOPAT and FCF
+  - Operating vs investing items
+  - ROE decomposition
+  - ROIC operational efficiency
+  - ROIC vs ROA
+  - Valuation basics
 ---
+
 # Week 1 Ratio Analysis + Valuation Review
 
 [[Week 1 Ratio Analysis + Valuation Review|Ratio Analysis]]

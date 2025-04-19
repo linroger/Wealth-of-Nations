@@ -1,12 +1,24 @@
 ---
 cssclasses: academia
 title: Slides Note 9 Bidask.not New 2020
-aliases:
-  - Slides Note 9 Bidask
 linter-yaml-title-alias: Slides Note 9 Bidask
 tags:
-  - '#bidask'
-  - '#new_2020'
-  - '#slides_note'
+  - bidask
+  - financial_markets
+  - new_2020
+  - slides_note
+  - valuation
+aliases:
+  - '2020'
+  - Bidask
+  - Note 9
+  - Slides
+key_concepts:
+  - Bidask spreads
+  - Financial markets
+  - Market microstructure
+  - Trading strategies
+  - Valuation models
 ---
+
 # Slides Note 9 Bidask.not New 2020

@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#delta_one_products'
-  - '#financial_positions'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#hedging'
-  - '#long_positions'
-  - '#payoff_diagrams'
-  - '#short_positions'
-  - '#short_selling'
+  - long_position
+  - market_practitioner
+  - payoff_diagrams
+  - short_position
+  - underlying_instrument
+aliases:
+  - Long vs. Short
+  - Market Professional
+  - Payoff
+  - Positions
+  - Short Selling
+key_concepts:
+  - Benefit from asset increase
+  - Borrowing and buying asset
+  - Long and short positions
+  - Payoff diagram illustration
+  - Selling without owning
+  - Short position zero value
 ---
+
 # 2.7 POSITIONS  
 
 By buying or short-selling assets, one takes positions, and once a position is taken, one has exposure to various risks.  

@@ -1,16 +1,39 @@
 ---
 tags:
-  - '#arbitrage_free'
-  - '#asset_pricing'
-  - '#continuous_time_economy'
-  - '#dividend_process'
-  - '#market_completeness'
-  - '#one_period_economy'
-  - '#risk_free_asset'
-  - '#sharpe_ratio'
-  - '#state_price_deflator'
-  - '#two_period_economy'
+  - arbitrage
+  - asset_pricing
+  - continuous_time
+  - dividend
+  - expected_return
+  - one_period_economy
+  - portfolio
+  - redundant_assets
+  - risk_free_asset
+  - sharpe_ratio
+  - state_price_deflator
+  - state_price_vector
+aliases:
+  - Exercise 4.1
+  - Exercise 4.2
+  - Exercise 4.3
+  - Exercise 4.4
+  - Exercise 4.5
+  - Exercise 4.6
+  - Exercise 4.7
+  - Exercise 4.8
+key_concepts:
+  - Absence of arbitrage
+  - Continuous-time framework
+  - Dividend payments
+  - Expected return calculation
+  - Maximal Sharpe ratio
+  - One-period economy
+  - Portfolio construction
+  - Redundant assets
+  - Risk-free asset pricing
+  - State-price deflator
 ---
+
 # 4.8 Exercises  
 
 EXERCISE 4.1 Imagine a one-period economy where the state-price deflator. $\zeta$ is lognormally distributed with $\operatorname{E}[\ln\zeta]=\mu_{\zeta}$ and $\mathrm{Var}[\ln\zeta]=\sigma_{\zeta}^{2}$ . What is the maximal Sharpe ratio of a risky. asset? (Look at Equation (4.14).) What determines the sign of an asset's Sharpe ratio?  

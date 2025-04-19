@@ -1,18 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 title: Understanding the Yield Curve Notes
 tags:
-  - '#bond_duration'
-  - '#breakeven_yield_change'
-  - '#carry'
-  - '#holding_period_return'
-  - '#implied_forward_rate'
-  - '#yield_curve'
-  - '#yield_spread'
-  - '#zero_coupon_bond'
+  - holding_period
+  - spot_rate
+  - yield_curve
+  - yield_spread
+  - zero_coupon_bond
+aliases:
+  - Break-even Yield Change
+  - Carry
+  - Implied Forward Rate
+  - Yield Spread
+key_concepts:
+  - Break-even yield change
+  - Holding-period returns equivalence
+  - Implied forward rate calculation
+  - Positive and negative carry
+  - Yield spread and carry
 ---
+
 # Understanding the Yield Curve Notes
 
 ### EXPLANATION OF THE IMPLIED FORWARD RATE CALCULATION

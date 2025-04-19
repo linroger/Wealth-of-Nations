@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#capital_structure_arbitrage'
-  - '#engineering_equity_products'
-  - '#equity_as_option'
-  - '#equity_instruments'
-  - '#equity_valuation'
-  - '#future_cash_flows'
-  - '#structural_models_of_default'
+  - arbitrage
+  - capital_structure
+  - equity_instruments
+  - equity_products
+  - structural_models
+aliases:
+  - Chapter 19
+  - Engineering Equity
+  - Structural Models
+key_concepts:
+  - Capital structure arbitrage
+  - Engineering equity products
+  - Equity as option
+  - Equity valuation
+  - Future cash flows
 ---
+
 # CHAPTER 19 Engineering of Equity Instruments and Structural Models of Default. 659  
 
 19.1 Introduction. .660   

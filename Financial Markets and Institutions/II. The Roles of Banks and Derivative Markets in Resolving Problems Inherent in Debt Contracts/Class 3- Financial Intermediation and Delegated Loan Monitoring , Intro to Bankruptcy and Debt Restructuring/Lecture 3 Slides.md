@@ -1,22 +1,24 @@
 ---
-aliases:
-  - Direct Finance Without Monitoring
-  - Lecture 3 Slides.md
-  - Lecture 3 Slides
 linter-yaml-title-alias: Direct Finance Without Monitoring
 title: Direct Finance Without Monitoring
 tags:
-  - '#bank_diversification'
-  - '#costly_monitoring'
-  - '#debt_contracts'
-  - '#delegated_monitoring'
-  - '#face_value'
-  - '#financial_intermediation'
-  - '#incentives_for_monitoring'
-  - '#loan_monitoring'
-  - '#optimal_contract'
-  - '#two_loan_bank'
+  - costly_monitoring
+  - debt_contract
+  - delegated_monitoring
+  - financial_intermediation
+  - loan_monitoring
+aliases:
+  - Debt Without Monitoring
+  - Lender and Borrower
+  - Optimal Contract
+key_concepts:
+  - Borrower's cash flow
+  - Costly ex-post information
+  - Delegated loan monitoring
+  - Lender's expected repayment
+  - Optimal debt contract
 ---
+
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1
 
 # Lecture 3 Slides

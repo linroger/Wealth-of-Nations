@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#credit_default_swaps'
-  - '#credit_risk_models'
-  - '#credit_spreads'
-  - '#default_probability'
-  - '#intensity_based_models'
-  - '#kkm_model'
-  - '#merton_model'
-  - '#reduced_form_models'
-  - '#structural_models'
-  - '#valuation'
+  - credit_derivatives
+  - credit_risk_models
+  - default_swap
+  - intensity_models
+  - merton_model
+  - reduced_form_models
+  - structural_models
+aliases:
+  - CDS Valuation
+  - Credit Risk
+  - Default Swap Pricing
+  - KKM Model
+key_concepts:
+  - Jarrow and Turnbull
+  - Kettunen model
+  - Merton model
+  - credit default swaps
+  - credit risk models
+  - intensity based models
+  - pricing credit derivatives
+  - reduced-form models
+  - structural models
 ---
+
 # Credit Risk Models and the Valuation of Credit  Default Swap Contracts
 
 # Abstract

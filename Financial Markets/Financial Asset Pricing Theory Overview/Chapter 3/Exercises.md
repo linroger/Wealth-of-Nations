@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#arbitrage_free_market'
-  - '#asset_pricing'
-  - '#call_option'
-  - '#law_of_one_price'
-  - '#market_completeness'
-  - '#no_arbitrage_price'
-  - '#one_period_model'
-  - '#risk_free_rate'
-  - '#two_state_economy'
+  - arbitrage
+  - call_option
+  - no_arbitrage
+  - one_period_model
+  - risk_free_asset
+aliases:
+  - Exercise 3.1
+  - Exercise 3.2
+  - Exercise 3.3
+  - Exercise 3.4
+key_concepts:
+  - Law of One Price
+  - arbitrage-free market
+  - market complete
+  - no-arbitrage price
+  - one-period model
+  - risk-free asset
+  - risk-free dividend
 ---
+
 # 3.8 Exercises  
 
 EXERCISE 3.1 Consider a one-period model with only two possible end-of-period states. Three assets are traded in an arbitrage-free market. Asset 1 is a risk-free asset with a price of 1 and an end-of-period dividend of $R^{f}$ , the risk-free gross rate of return. Asset 2 has a price of $S$ and offers. a dividend of. $u S$ in state. $^{1}$ and $d S$ in state 2..  

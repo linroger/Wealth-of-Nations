@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#arbitrage_equality'
-  - '#auction_hardwiring'
-  - '#big_bang_2009'
-  - '#cds_analytics'
-  - '#cds_standardization'
-  - '#central_clearing'
-  - '#fixed_recovery_cds'
-  - '#restructuring'
-  - '#standardization_coupons'
+  - arbitrage_equality
+  - cds_standardization
+  - central_clearing
+  - fixed_recovery_cds
+  - restructuring
+aliases:
+  - CDS Analytics
+  - Real-World Complications
+key_concepts:
+  - Arbitrage Equality
+  - Auction hardwiring
+  - CDS standardization and 2009
+  - Fixed Recovery CDS
+  - Restructuring
 ---
+
 # 18.4 Real-World Complications . 636  
 
 18.4.1 CDS Standardization and 2009 "Big Bang" 637   

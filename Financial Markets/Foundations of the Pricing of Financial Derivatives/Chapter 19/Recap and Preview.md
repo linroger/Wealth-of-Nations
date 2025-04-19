@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#american_call_options'
-  - '#american_put_options'
-  - '#bivariate_normal_distribution'
-  - '#black_scholes_merton_model'
-  - '#compound_option_pricing'
-  - '#dividend_payments'
-  - '#early_exercise'
-  - '#ex_dividend_date'
+  - american_call_option
+  - binomial_model
+  - bivariate_normal_distribution
+  - compound_option
+  - dividend_payment
+aliases:
+  - Chapter 19
+  - Preview
+  - Recap
+key_concepts:
+  - American call option pricing
+  - Binomial model application
+  - Bivariate normal distribution
+  - Closed-form solution
+  - Dividend impact on options
 ---
+
 # 19.3 RECAP AND PREVIEW
 
 In this chapter, we looked at the pricing of American call options. We had previously learned how to price them using the binomial model, but here we see that a closed-form. solution, which uses the compound option pricing model, is possible. We saw that the complicating factor is the existence of a dividend during the life of the option. The model must accommodate whether the holder exercises early to get the dividend or holds on to the option. The bivariate normal distribution is used to accommodate the existence of two exercise decisions-the one early and the one at expiration. Multiple dividends can be handled using a multivariate normal distribution..

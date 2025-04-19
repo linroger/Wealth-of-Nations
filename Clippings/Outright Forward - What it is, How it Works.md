@@ -4,16 +4,23 @@ source: https://www.investopedia.com/terms/o/outright-forward.asp
 description: An outright forward, or currency forward, is a currency contract that
   locks in the exchange rate and a delivery date beyond the spot value date.
 tags:
-  - '#currency_forward'
-  - '#currency_market'
-  - '#exchange_rate_risk'
-  - '#foreign_exchange'
-  - '#forward_contract'
-  - '#forward_points'
-  - '#interest_rate_differential'
-  - '#outright_forward'
-  - '#spot_rate'
+  - currency_forward
+  - exchange_rate_risk
+  - foreign_exchange
+  - forward_contract
+  - interest_rate_differential
+  - spot_rate
+aliases:
+  - currency forward
+key_concepts:
+  - locks exchange rate
+  - protects from fluctuations
+  - settles in two days
+  - spot rate plus points
+  - terms, rate, delivery date
 ---
+
+
 ## What Is an Outright Forward?
 
 An outright forward, or currency forward, is a currency contract that locks in the [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) and a [delivery date](https://www.investopedia.com/terms/d/deliverydate.asp) beyond the [spot value date](https://www.investopedia.com/terms/s/spot-date.asp). It is the simplest type of foreign exchange [forward contract](https://www.investopedia.com/terms/f/forwardcontract.asp) and protects an investor, importer or exporter from exchange rate fluctuations.

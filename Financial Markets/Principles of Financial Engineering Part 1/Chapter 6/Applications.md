@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#capital_controls'
-  - '#contractual_equation'
-  - '#cross_currency_rates'
-  - '#currency_exchange'
-  - '#financial_engineering'
-  - '#fx_markets'
-  - '#synthetic_instruments'
-  - '#synthetic_loans'
-  - '#t_bills'
-  - '#withholding_tax'
+  - contractual_equation
+  - discount_bond
+  - synthetic_instruments
+  - synthetic_loan
+  - withholding_tax
+aliases:
+  - Synthetic Bond Creation
+  - Synthetic Loans
+  - Withholding Tax Example
+key_concepts:
+  - Contractual equation applications
+  - Creating synthetic loans
+  - Synthetic discount bond
+  - Synthetically replicate instruments
+  - Withholding tax problem
 ---
+
 # 6.5 APPLICATIONS  
 
 The contractual equation derived earlier and the manipulation of cash flows that led to it may initially be thought of as theoretical constructs with limited practical application. This could not be further from the truth. We now discuss four examples that illustrate how the equation. can be skillfully exploited to find solutions to practical, common problems faced by market participants.  

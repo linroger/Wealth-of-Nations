@@ -1,19 +1,23 @@
 ---
-aliases:
-  - Options For Deposit Insurance Reform.md
 title: Options For Deposit Insurance Reform
 tags:
-  - '#bank_runs'
-  - '#deposit_insurance_reform'
-  - '#fdic'
-  - '#financial_stability'
-  - '#limited_coverage'
-  - '#market_discipline'
-  - '#moral_hazard'
-  - '#targeted_coverage'
-  - '#uninsured_deposits'
-  - '#unlimited_coverage'
+  - bank_failures
+  - bank_runs
+  - deposit_insurance
+  - fdic
+  - uninsured_deposits
+aliases:
+  - Bank Failures
+  - Deposit Insurance Reform
+  - FDIC
+key_concepts:
+  - Business payment accounts
+  - Deposit insurance limit increase
+  - Insured deposit funding
+  - Preventing bank runs
+  - Uninsured deposit losses
 ---
+
 # Options For Deposit Insurance Reform
 
 OPTIONS FOR DEPOSIT INSURANCE REFORM

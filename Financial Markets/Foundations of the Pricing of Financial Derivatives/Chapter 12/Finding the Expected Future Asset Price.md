@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#asset_price_expectation'
-  - '#expected_asset_price'
-  - '#expected_rate_of_return'
-  - '#gbm_abm_modeling'
-  - '#normal_distribution'
-  - '#stochastic_differential_equation'
+  - asset_pricing
+  - expected_asset_price
+  - expected_return
+  - gbm_abm
+aliases:
+  - Asset Price Expectation
+  - Expected Price
+  - Future Asset Price
+key_concepts:
+  - Arithmetic Brownian motion
+  - Expected asset price
+  - Expected rate of return
+  - Geometric Brownian motion
+  - Stochastic differential equation
 ---
+
 # 12.5 FINDING THE EXPECTED FUTURE ASSET PRICE
 
 Given the solution,

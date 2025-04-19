@@ -1,18 +1,23 @@
 ---
-aliases:
-  - Binomial Option Pricing
 linter-yaml-title-alias: Binomial Option Pricing
 title: Binomial Option Pricing
 tags:
-  - '#american_option_pricing'
-  - '#binomial_option_pricing'
-  - '#binomial_tree'
-  - '#cox_ross_rubinstein_model'
-  - '#european_call_option'
-  - '#option_premium'
-  - '#option_pricing_model'
-  - '#recombining_tree'
+  - american_option
+  - binomial_model
+  - european_option
+  - option_pricing
+  - stock_option
+aliases:
+  - Binomial Pricing
+  - CRR model
+key_concepts:
+  - Binomial option pricing model
+  - European and American options
+  - Market maker synthetic options
+  - No-arbitrage option price
+  - Underlying asset price movement
 ---
+
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]

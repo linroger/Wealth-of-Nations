@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage_strategies'
-  - '#dividend_payments'
-  - '#margin_account'
-  - '#market_volatility'
-  - '#sec_regulations'
-  - '#short_position'
-  - '#short_selling'
-  - '#stock_price'
-  - '#uptick_rule'
+  - arbitrage_strategies
+  - investment_assets
+  - market_volatility
+  - short_selling
+  - uptick_rule
+aliases:
+  - short sale
+  - shorting
+key_concepts:
+  - borrowing and selling shares
+  - closing out short position
+  - investor profit/loss
+  - maintaining margin account
+  - paying broker income
+  - selling asset not owned
+  - uptick rule regulations
 ---
+
 # 5.2 SHORT SELLING  
 
 Some of the arbitrage strategies presented in this chapter involve short selling. This trade, usually simply referred to as "shorting", involves selling an asset that is not owned. It is something that is possible for some-but not all--investment assets. We will illustrate how it works by considering a short sale of shares of a stock..  

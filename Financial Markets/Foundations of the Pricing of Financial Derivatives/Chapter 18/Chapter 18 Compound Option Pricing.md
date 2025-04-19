@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#call_on_call_option'
-  - '#compound_option_boundary_conditions'
-  - '#compound_option_greeks'
-  - '#compound_option_pricing'
-  - '#compound_option_valuation'
-  - '#equity_as_option'
-  - '#geske_option_model'
-  - '#installment_options'
+  - compound_option_pricing
+  - equity_option
+  - geske_model
+  - installment_options
+  - option_greeks
+aliases:
+  - Chapter 18
+  - Compound Option
+  - Geske's Approach
+  - Installment Option
+key_concepts:
+  - Compound Option Boundary
+  - Equity as an Option
+  - Generalized Option Pricing
+  - Geske's Call on Call
+  - Installment Options
 ---
+
 # CHAPTER 18 Compound Option Pricing
 
 349

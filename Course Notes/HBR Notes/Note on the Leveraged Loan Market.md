@@ -2,20 +2,25 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
-  - 
-  - 
 title: Note on the Leveraged Loan Market
 tags:
-  - '#collateralized_loan_obligations_clos'
-  - '#credit_market_cycles'
-  - '#information_asymmetry'
-  - '#institutional_investors'
-  - '#leveraged_loans'
-  - '#loan_issuance'
-  - '#loan_market_dynamics'
-  - '#loan_syndication'
+  - credit_market
+  - financial_analysis
+  - institutional_investors
+  - lbo_financing
+  - leveraged_loan
+aliases:
+  - LBO Financing
+  - Leveraged Loan Market
+  - Loan Market
+key_concepts:
+  - financing for corporate transactions
+  - institutional investor base
+  - key market concepts
+  - leveraged loan definition
+  - loan market contraction
 ---
+
 # Note on the Leveraged Loan Market
 
 [[Notes- Contemporary Financial Intermediation]]

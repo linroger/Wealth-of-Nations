@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bond_duration'
-  - '#bond_portfolio'
-  - '#bond_pricing'
-  - '#bond_yield'
-  - '#dollar_duration'
-  - '#dv01'
-  - '#modified_duration'
-  - '#yield_curve'
+  - bond_duration
+  - bond_pricing
+  - bond_yield
+  - coupon_bond
+  - macaulay_duration
+aliases:
+  - Bond Duration Formula
+  - Duration of a Bond
+  - Macaulay's Duration
+key_concepts:
+  - Bond cash flow timing
+  - Bond price sensitivity
+  - DV01 and Gamma
+  - Duration and yield change
+  - Weighted average time
 ---
+
 # 4.10 DURATION  
 
 The duration of a bond, as its name implies, is a measure of how long the holder of the bond has to wait before receiving the present value of the cash payments. A zero-. coupon bond that lasts $n$ years has a duration of $n$ years. However, a coupon-bearing bond lasting $n$ years has a duration of less than $n$ years, because the holder receives. some of the cash payments prior to year. $n$  

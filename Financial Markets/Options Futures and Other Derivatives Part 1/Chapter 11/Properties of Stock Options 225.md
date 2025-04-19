@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#dividend_effect'
-  - '#non_dividend_paying_stock'
-  - '#option_prices'
-  - '#option_pricing_bounds'
-  - '#put_call_parity'
-  - '#stock_options'
+  - dividend_impact
+  - option_bounds
+  - option_pricing
+  - put_call_parity
+  - stock_options
+aliases:
+  - Option Pricing Basics
+  - Stock Option Properties
+key_concepts:
+  - Calls on non-dividend stock
+  - Effect of stock dividends
+  - Factors affecting prices
+  - Put-call parity explained
+  - Upper/lower option bounds
 ---
+
 # Chapter 11. Properties of stock options ... .225  
 
 11.1 Factors affecting option prices. .225   

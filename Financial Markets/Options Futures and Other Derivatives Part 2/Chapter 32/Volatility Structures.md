@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#3_month_forward_rate'
-  - '#cap_volatilities'
-  - '#ho_lee_model'
-  - '#hull_white_one_factor_model'
-  - '#hull_white_two_factor_model'
-  - '#mean_reversion'
-  - '#term_structure_of_interest_rates'
-  - '#volatility_structures'
+  - forward_rate
+  - ho_lee_model
+  - hull_white_model
+  - maturity
+  - volatility_structures
+aliases:
+  - 3-month forward rate
+  - Volatility Patterns
+key_concepts:
+  - Ho-Lee model volatility
+  - Hull-White one-factor model
+  - Implied cap volatilities
+  - Mean reversion effect
+  - Volatility environments
 ---
+
 # 32.3 VOLATILITY STRUCTURES  
 
 The models we have looked at give rise to different volatility environments. Figure 32.3 shows patterns for the volatility of the 3-month forward rate as a function of maturity for the Ho-Lee, Hull-White one-factor, and Hull-White two-factor models. The term structure of interest rates is assumed to be flat.  

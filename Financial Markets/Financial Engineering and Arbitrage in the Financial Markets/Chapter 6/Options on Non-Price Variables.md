@@ -1,15 +1,32 @@
 ---
 tags:
-  - '#arbitrage_free_interest_rate_models'
-  - '#black_model'
-  - '#bond_price_options'
-  - '#caps_and_floors'
-  - '#convexity_adjusted_models'
-  - '#european_swaptions'
-  - '#exotic_interest_rate_options'
-  - '#libor_forwards'
-  - '#non_price_variables'
+  - bond_option_pricing
+  - cap_floor_pricing
+  - european_swaptions
+  - exotic_options
+  - interest_rate_models
+aliases:
+  - Arbitrage-Free Models
+  - Black Model
+  - Convexity-Adjusted Models
+  - Interest Rate Options
+  - Options on Non-Price Variables
+key_concepts:
+  - Arbitrage-free models
+  - Bermudan swaptions
+  - Black model
+  - Cap and floor pricing
+  - Convexity adjustment
+  - Digitals and ranges
+  - European swaptions
+  - Exotic interest rate options
+  - Heath-Jarrow-Morton model
+  - LIBOR market model
+  - Periodic caps
+  - Short rate models
+  - Trinomial trees
 ---
+
 # 6 Options on Non-Price Variables  
 
 155  

@@ -1,9 +1,16 @@
 ---
 title: Week 3
 tags:
-  - '#waypoint'
-  - '#week_3'
+  - week_3
+  - week_3_notes
+aliases:
+  - W3
+key_concepts:
+  - Waypoint analysis
+  - Waypoint structure
+  - Week 3 overview
 ---
+
 # Week 3
 %% Begin Waypoint %%
 - **[[Week 3]]**

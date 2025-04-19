@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#budget_constraints'
-  - '#consumption_process'
-  - '#discrete_time_framework'
-  - '#habit_formation_utility'
-  - '#marginal_rate_of_substitution'
-  - '#state_price_deflator'
-  - '#stochastic_process'
-  - '#time_additive_expected_utility'
+  - consumption_process
+  - discrete_time_framework
+  - habit_formation
+  - state_price_deflator
+  - time_additive_utility
+aliases:
+  - Discrete Time Framework
+  - Habit Formation Utility
+  - Time Additive Utility
+key_concepts:
+  - Consumption process choice
+  - Habit level at time
+  - Non-additive preference specification
+  - State-price deflator definition
+  - Time-additive expected utility
 ---
+
 # 6.3 The discrete-time framework  
 
 In the discrete-time framework each individual has to choose a consumption process $c=(c_{t})_{t\in\mathcal{T}}$ where $\mathcal{T}=\{0,1,\ldots,T\}$ and $c_{t}$ denotes the random, i.e. state-dependent, consumption at time $t$ The individual also has to choose a trading strategy. $\pmb{\theta}=(\pmb{\theta}_{t})_{t=0,1,...,T-1}$ with $\pmb{\theta}_{t}$ representing the portfolio held from time $t$ until time $t+1$ . Again, $\pmb{\theta}_{t}$ may depend on the information available to the individual at time $t$ so $\pmb{\theta}$ is an adapted stochastic process. The individual has an endowment or income process $\boldsymbol{e}=(\boldsymbol{e}_{t})_{t\in\mathcal{T}}$ , where $e_{0}$ is the initial endowment (wealth) and $e_{t}$ is the possibly state-dependent income received at time $t$  

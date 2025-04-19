@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#correlation_trading'
-  - '#exotic_options'
-  - '#implied_volatility'
-  - '#matlab_exercises'
-  - '#nasdaq_100'
-  - '#risk_reversals'
-  - '#s_and_p_500'
-  - '#sterling_volatility'
-  - '#volatility_smile'
-  - '#volatility_swaps'
+  - implied_volatility
+  - nasdaq_100
+  - relative_value
+  - s_and_p500
+  - volatility_swaps
+aliases:
+  - conclusions
+  - relative value trade
+  - volatility position
+  - volatility trade
+key_concepts:
+  - Nasdaq 100 implied volatility
+  - S&P 500 implied volatility
+  - construct instruments to trade
+  - realized volatility fall
+  - relative value strategy
+  - volatility of risk factor
+  - volatility parameter function
 ---
+
 # 15.9 CONCLUSIONS  
 
 This chapter provided a brief introduction to a sector that may, in the future, play an even more sig-. nificant role in financial market strategies. Our purpose was to show how we can isolate the volatility of a risk factor from other related risks, and then construct instruments that can be used to trade it. An important point should be emphasized here. The introductory discussion contained in this chapter deals with the case where the volatility parameter is a function of time and the underlying. price only. These methods have to be modified for more complex volatility specifications..  

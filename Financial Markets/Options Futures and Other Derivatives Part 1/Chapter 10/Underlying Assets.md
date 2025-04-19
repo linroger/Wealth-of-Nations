@@ -1,15 +1,26 @@
 ---
 tags:
-  - '#cboe'
-  - '#etp_options'
-  - '#exchange_traded_products'
-  - '#foreign_currency_options'
-  - '#futures_options'
-  - '#index_options'
-  - '#options_trading_exchanges'
-  - '#stock_options'
-  - '#underlying_assets'
+  - cboe
+  - currency_options
+  - etf
+  - etps
+  - futures_options
+  - index_options
+  - stock_options
+  - underlying_assets
+aliases:
+  - ETVs
+  - Exchange Traded Products
+  - Options Trading
+  - SPDR S&P 500 ETF
+key_concepts:
+  - Exchange traded products (ETPs)
+  - Foreign currency options trading
+  - Index options trading
+  - Options on stocks
+  - Track underlying benchmark index
 ---
+
 # 10.3 UNDERLYING ASSETS  
 
 This section provides a first look at how options on stocks, currencies, stock indices, and futures are traded on exchanges.  

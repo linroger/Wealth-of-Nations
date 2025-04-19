@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#arbitrage_opportunity'
-  - '#asset_acquisition'
-  - '#futures_contract_delivery'
-  - '#futures_price_convergence'
-  - '#futures_price_vs_spot_price'
-  - '#spot_price'
+  - arbitrage
+  - delivery_period
+  - futures_contract
+  - futures_price
+  - spot_price
+aliases:
+  - Futures Convergence
+  - Price Convergence
+key_concepts:
+  - Arbitrage opportunity
+  - Delivery period
+  - Futures price equals spot price
+  - Long futures contract
+  - Short futures contract
 ---
+
 # 2.3 CONVERGENCE OF FUTURES PRICE TO SPOT PRICE  
 
 As the delivery period for a futures contract is approached, the futures price converges to the spot price of the underlying asset. When the delivery period is reached, the futures price equals--or is very close to--the spot price..  

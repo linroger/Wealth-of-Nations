@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#bond_pricing_example'
-  - '#bond_valuation'
-  - '#bond_yield_calculation'
-  - '#coupon_reinvestment'
-  - '#holding_period_return'
-  - '#interest_rate_risk'
-  - '#realized_return'
-  - '#us_treasury_bonds'
-  - '#yield_to_maturity'
+  - bond_valuation
+  - coupon_reinvestment
+  - holding_period_return
+  - realized_return
+  - yield_to_maturity
+aliases:
+  - Bond Return
+  - IRR
+key_concepts:
+  - Bond's Internal Rate
+  - Holding Period Return
+  - Initial Yield
+  - Reinvested Coupons
+  - Yield vs. Return
 ---
+
 # 3.3 YIELD AND RETURN  
 
 As mentioned earlier, yield to maturity is a convenient way to express price.   

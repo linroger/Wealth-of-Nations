@@ -1,21 +1,24 @@
 ---
-aliases:
-  - Money Market Mutual Fund Liquidity Facility
-  - Money Market Mutual Fund Liquidity Facility.md
-  - Money Market Mutual Fund Liquidity Facility
 linter-yaml-title-alias: Money Market Mutual Fund Liquidity Facility
 title: Money Market Mutual Fund Liquidity Facility
 tags:
-  - '#advance_maturity'
-  - '#borrower_eligibility'
-  - '#collateral_valuation'
-  - '#credit_protection'
-  - '#eligible_collateral'
-  - '#federal_reserve_bank_of_boston'
-  - '#liquidity_facility'
-  - '#money_market_mutual_funds'
-  - '#regulatory_capital_treatment'
+  - collateral
+  - eligible_collateral
+  - federal_reserve
+  - liquidity_facility
+  - money_market_funds
+aliases:
+  - MMLF
+  - MMMF Liquidity Facility
+  - Money Market Facility
+key_concepts:
+  - Borrower eligibility criteria
+  - Eligible borrowers and assets
+  - Eligible collateral types
+  - Facility opening date
+  - Provide liquidity to Funds
 ---
+
 # Money Market Mutual Fund Liquidity Facility
 
 ### Facility

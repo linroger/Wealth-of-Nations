@@ -2,19 +2,33 @@
 title: Week 3 Cyclical Industries (and Advanced Forecasting)
 cssclasses:
   - academia
-aliases:
 tags:
-  - '#asset_turnover'
-  - '#competitive_analysis'
-  - '#cyclical_industries'
-  - '#financial_analysis'
-  - '#forecasting'
-  - '#moat_analysis'
-  - '#operating_leverage'
-  - '#scenario_analysis'
-  - '#terminal_value'
-  - '#valuation'
+  - advanced_forecasting
+  - capital_allocation
+  - competitive_analysis
+  - cyclical_industries
+  - industry_analysis
+  - market_sentiment
+  - operating_leverage
+  - terminal_value
+  - truck_oem
+aliases:
+  - Cyclical Companies
+  - Moat Analysis
+  - Truck OEM
+  - Week 3
+key_concepts:
+  - Capital allocation in cycles
+  - Competitive advantage is key
+  - Cyclicality poses forecasting problems
+  - High fixed costs
+  - Industry analysis for companies
+  - Market sentiment cycles
+  - Operating leverage
+  - Terminal value in your model
+  - Trucker profitability and sales
 ---
+
 [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]]
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

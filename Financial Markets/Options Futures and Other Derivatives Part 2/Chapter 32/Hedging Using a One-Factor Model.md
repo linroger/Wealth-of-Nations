@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#deriva_gem_software'
-  - '#european_options'
-  - '#hedging_strategies'
-  - '#ho_lee_model'
-  - '#hull_white_model'
-  - '#interest_rate_derivatives'
-  - '#model_calibration'
-  - '#no_arbitrage_models'
-  - '#one_factor_model'
-  - '#term_structure_models'
+  - hedging
+  - hull_white_model
+  - interest_rate_derivatives
+  - no_arbitrage_model
+  - one_factor_model
+aliases:
+  - Interest Rate Hedging
+  - One-Factor Model Hedging
+key_concepts:
+  - Hedging interest rate derivatives
+  - Ho-Lee model
+  - Hull-White model
+  - No-arbitrage models
+  - Outside model hedging
 ---
+
 # 32.7 HEDGING USING A ONE-FACTOR MODEL  
 
 Section 29.4 outlined some general approaches to hedging a portfolio of interest rate. derivatives. These approaches can be used with the term structure models in this. chapter. The calculation of deltas, gammas, and vegas involves making small changes to either the zero curve or the volatility environment and recomputing the value of the portfolio.  

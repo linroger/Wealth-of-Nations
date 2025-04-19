@@ -1,15 +1,26 @@
 ---
 tags:
-  - '#arbitrage_free'
-  - '#covariance_matrix'
-  - '#drift'
-  - '#forward_rates'
-  - '#hjm_binomial_tree'
-  - '#recombining_tree'
-  - '#term_structure'
-  - '#volatility'
-  - '#zero_coupon_bond_pricing'
+  - binomial_tree
+  - forward_rates
+  - hjm_model
+  - no_arbitrage
+  - term_structure
+aliases:
+  - HJM binomial tree
+  - HJM model
+key_concepts:
+  - Binomial tree
+  - Constant volatility assumption
+  - Covariance matrix
+  - Drift calculation
+  - Forward rates
+  - HJM model
+  - Martingale probability
+  - No-arbitrage condition
+  - Recombining tree
+  - Zero-coupon bond pricing
 ---
+
 # 27.4 FILLING IN THE REMAINDER OF THE HJM BINOMIAL TREE
 
 Recall that we started with the rates

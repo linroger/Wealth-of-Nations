@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#commodity_futures'
-  - '#commodity_swaps'
-  - '#currency_swaps'
-  - '#financial_engineering'
-  - '#fx_forward_contracts'
-  - '#fx_swaps'
-  - '#hedge_funds'
-  - '#interest_rate_swaps'
-  - '#withholding_tax'
+  - currency_swaps
+  - financial_engineering
+  - fx_forward_contracts
+  - fx_markets
+  - fx_swaps
+aliases:
+  - Conclusions
+  - Currency swaps
+  - FX contracts
+key_concepts:
+  - Currency swap markets
+  - FX forward contracts
+  - Money market synthetics
+  - Quoting conventions
+  - Swap engineering methodology
 ---
+
 # 6.10 CONCLUSIONS  
 
 This chapter has developed two main ideas. First we considered the engineering aspects of FX forward contracts and developed a contractual equation for them. We discussed two methodologies to FX forward replication based on money market and T-bill synthetics. Second, we applied the swap engineering methodology to FX swaps and currency swaps and highlighted differences between them. Real-life complications such as quoting conventions, clearing, and margin requirements are important for financial engineering in practice. We discussed the relative size of FX and currency. swap markets and highlighted the effect of recent regulatory exemptions of FX forward and swaps on financial engineering practice in FX markets..  

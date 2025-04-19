@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#binomial_model'
-  - '#black_scholes_model'
-  - '#currency_options'
-  - '#derivative_securities'
-  - '#hedging_strategies'
-  - '#option_greeks'
-  - '#options_pricing'
-  - '#put_call_parity'
-  - '#risk_management'
+  - arbitrage
+  - derivative_securities
+  - futures_contracts
+  - hedging
+  - options
+  - risk_management
+  - swaps
+aliases:
+  - Chapter 9
+  - Derivatives
+  - Hedging with Options
+key_concepts:
+  - Arbitrage and pricing
+  - Derivative security definition
+  - Futures contracts explained
+  - Hedging with derivatives
+  - Market participants roles
+  - Options and swaps
 ---
+
 # Arbitrage and Hedging With Options  
 
 # 9.1 DERIVATIVE SECURITIES MARKETS AND HEDGING  

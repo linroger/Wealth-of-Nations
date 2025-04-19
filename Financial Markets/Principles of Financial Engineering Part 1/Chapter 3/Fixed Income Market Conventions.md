@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#bond_equivalent_yield'
-  - '#day_count_conventions'
-  - '#discount_rate'
-  - '#eurobond'
-  - '#eurodollar_deposit'
-  - '#fixed_income_market_conventions'
-  - '#holiday_conventions'
-  - '#libor'
-  - '#money_market_yield'
-  - '#yield_quotation_conventions'
+  - bond_markets
+  - discount_rate
+  - fixed_income
+  - market_conventions
+  - yield_calculation
+aliases:
+  - Bond Market Conventions
+  - Fixed Income Conventions
+key_concepts:
+  - Bond equivalent yield
+  - Bond market conventions
+  - Discount rate
+  - Money market yield
+  - Quoting yields
 ---
+
 # 3.5 FIXED INCOME MARKET CONVENTIONS  
 
 In the previous chapter, we saw that bond markets quote prices rather than yields. To avoid confusion in financial engineering, it is crucial to be aware of the conventions underlying fixed income trades and the instruments. In this section, we briefly review some of these market conventions.  

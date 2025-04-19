@@ -4,15 +4,22 @@ source: https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.h
 description: Provides an example of valuing bonds with credit spreads using QuantLib
   Python. This post walks through an example of shifting the yield term structure.
 tags:
-  - '#bond_valuation'
-  - '#credit_spreads'
-  - '#key_rate_duration'
-  - '#non_parallel_shift'
-  - '#parallel_shift'
-  - '#quantlib_python'
-  - '#yield_curve'
-  - '#yield_term_structure'
+  - bond_valuation
+  - credit_spreads
+  - quantlib_python
+  - treasury_yield
+  - yield_curve
+aliases:
+  - Credit Spread Valuation
+  - QuantLib Example
+key_concepts:
+  - Adding credit spreads
+  - Constructing yield curve
+  - Parallel yield curve shift
+  - Shifting yield term structure
+  - Valuing bonds with spreads
 ---
+
 # Valuing Bonds with Credit Spreads in QuantLib Python
 
 Provides an example of valuing bonds with credit spreads using QuantLib Python. This post walks through an example of shifting the yield term structure.

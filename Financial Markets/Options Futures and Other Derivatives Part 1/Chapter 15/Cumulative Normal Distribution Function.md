@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#cumulative_normal_distribution_function'
-  - '#european_call_option'
-  - '#european_put_option'
-  - '#normsdist_function'
-  - '#option_expiration'
-  - '#option_pricing'
-  - '#risk_free_interest_rate'
-  - '#stock_price_analysis'
-  - '#volatility_calculation'
+  - cumulative_distribution
+  - european_option
+  - normsdist_function
+  - risk_free_rate
+  - stock_price
+aliases:
+  - cumulative normal distribution
+  - normsdist
+key_concepts:
+  - cumulative normal function
+  - european call option
+  - european put option
+  - risk free interest
+  - stock price calculation
 ---
+
 # 15.9 CUMULATIVE NORMAL DISTRIBUTION FUNCTION  
 
 When implementing equations (15.20) and (15.21), it is necessary to evaluate the cumulative normal distribution function $N(x)$ . Tables for $N(x)$ are provided at the end of this book. The NORMSDIST function in Excel also provides a convenient way of calculating $N(x)$  

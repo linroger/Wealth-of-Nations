@@ -1,22 +1,23 @@
 ---
-aliases:
-  - 1. American Options
-  - 
-  - 
 linter-yaml-title-alias: 1. American Options
 title: 1. American Options
 tags:
-  - '#american_options'
-  - '#asset_volatility'
-  - '#citigroup'
-  - '#credit_crisis'
-  - '#default_probability'
-  - '#dividend_payments'
-  - '#early_exercise'
-  - '#merton_model'
-  - '#option_pricing'
-  - '#stock_price_tree'
+  - american_option
+  - binomial_tree
+  - early_exercise
+  - option_pricing
+  - put_option
+aliases:
+  - American Options
+  - Homework 7 Solution
+key_concepts:
+  - American call option
+  - American put option
+  - Early exercise value
+  - Option payoff
+  - Risk-neutral valuation
 ---
+
 ---
 
 title: 1. American Options

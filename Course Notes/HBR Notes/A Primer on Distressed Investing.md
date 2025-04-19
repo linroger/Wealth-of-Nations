@@ -2,20 +2,25 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
 title: A Primer on Distressed Investing
 tags:
-  - '#bankruptcy'
-  - '#capital_structure'
-  - '#corporate_restructuring'
-  - '#debt_claims'
-  - '#distressed_investing'
-  - '#enterprise_value'
-  - '#holdout_problem'
-  - '#home_max_inc'
-  - '#restructuring_process'
-  - '#vulture_investing'
+  - bankruptcy
+  - capital_markets
+  - corporate_debt
+  - distressed_investing
+  - restructuring
+aliases:
+  - Distressed Firm
+  - Distressed Investing
+  - Restructuring Process
+key_concepts:
+  - Acquiring firm control
+  - Bankruptcy market role
+  - Creditor control process
+  - Distressed investing overview
+  - Restructuring process steps
 ---
+
 # A Primer on Distressed Investing
 
 [[A Primer on Distressed Investing|Distressed Debt]]

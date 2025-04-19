@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#federal_reserve_policy'
-  - '#futures_contract_settlement'
-  - '#hedge_ratio_calculation'
-  - '#money_market_fund_hedge'
-  - '#one_month_sofr_futures'
-  - '#repo_rate_risk'
-  - '#sofr_contract_hedging'
-  - '#stacking_contracts'
+  - cash_settled
+  - cme
+  - hedging
+  - interest_rate_risk
+  - sofr_futures
+aliases:
+  - SER
+  - SOFR futures
+  - one-month SOFR
+key_concepts:
+  - CME trading
+  - Cash settlement
+  - Delivery month
+  - Hedging interest rate risk
+  - SOFR futures contract
 ---
+
 # 12.2 ONE-MONTH SOFR FUTURES  
 
 The one-month SOFR futures contract, which trades on the CME (Chicago. Mercantile Exchange), is designed to take and hedge exposure to SOFR or to. other rates believed to be highly correlated with SOFR. Selected one-month SOFR contracts, along with their prices and rates as of January 14, 2022, are given in Table 12.2. Each ticker is composed of the code "SER," a letter indicating the contract month, and a digit corresponding to the last digit of the contract year. For example, with. $^{\circ\circ}\mathrm{G}^{\mathfrak{N}}$ standing for February, SERG2 is. the ticker for the one-month SOFR contract of February 2022. Its current price is 99.935, which corresponds to a percentage rate of $100-99.935$ , or 0.065. Expressing the percentage rate as 100 minus price is just a convention:. there is no sense in which the price of a particular bond or other instrument at a rate of $0.065\%$ equals 99.935.4  

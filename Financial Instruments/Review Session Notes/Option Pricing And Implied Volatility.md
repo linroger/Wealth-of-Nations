@@ -1,22 +1,24 @@
 ---
-aliases:
-  - 
-  - 
-  - 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 linter-yaml-title-alias: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 title: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 tags:
-  - '#black_scholes_model'
-  - '#call_option_price'
-  - '#delta_hedging'
-  - '#implied_volatility'
-  - '#interest_rate'
-  - '#option_pricing'
-  - '#put_option_price'
-  - '#stock_price'
-  - '#stock_volatility'
-  - '#strike_price'
+  - black_scholes_model
+  - call_option
+  - delta_hedging
+  - implied_volatility
+  - option_pricing
+aliases:
+  - BSM
+  - Black-Scholes
+  - Option Pricing Model
+key_concepts:
+  - Delta hedging
+  - Implied volatility calculation
+  - Interest rate, maturity
+  - Stock price, strike price
+  - Stock volatility parameter
 ---
+
 # 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 ## 1.1. PARAMETERS
 1. Stock price: 𝑆

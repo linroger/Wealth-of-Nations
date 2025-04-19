@@ -1,15 +1,40 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#cash_and_carry_arbitrage'
-  - '#commodity_swaps'
-  - '#cross_currency_swaps'
-  - '#equity_swaps'
-  - '#futures_markets'
-  - '#interest_rate_risk'
-  - '#short_selling'
-  - '#swap_markets'
+  - bond_math
+  - futures_markets
+  - interest_rates
+  - spot_markets
+  - swap_markets
+  - valuation
+aliases:
+  - Bonds
+  - Futures
+  - Interest Rate Risk
+  - Spot Markets
+  - Swaps
+key_concepts:
+  - Accrued interest
+  - Amortizing bond
+  - Cash-and-carry arbitrage
+  - Convexity
+  - Coupon bond
+  - Cross-currency swaps
+  - Day-count
+  - Discount factor bootstrap
+  - Duration
+  - Equity, commodity, currency math
+  - Equity, commodity, exotic swaps
+  - Floating rate bond
+  - Futures mechanics
+  - Interest rate risk
+  - Interest rate swaps
+  - Intra-year compounding
+  - Short selling
+  - Term structure
+  - Yield curve construction
+  - Zero-coupon bond
 ---
+
 # 2 Spot Markets 23  
 
 2.1 Bonds and Annual Bond Math 23   

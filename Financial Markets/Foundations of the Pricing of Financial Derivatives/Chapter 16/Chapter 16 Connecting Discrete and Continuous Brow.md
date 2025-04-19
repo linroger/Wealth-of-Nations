@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#brownian_motion'
-  - '#continuous_brownian_motion'
-  - '#derivative_pricing'
-  - '#discrete_brownian_motion'
-  - '#kolmogorov_equations'
-  - '#radon_nikodym_derivative'
+  - brownian_motion
+  - continuous_world
+  - discrete_time
+  - kolmogorov_equations
+  - probability_measure
+aliases:
+  - Chapter 16
+  - Connecting Discrete
+  - Radon-Nikodym Derivative
+key_concepts:
+  - Continuous World Transition
+  - Derivative Pricing Extensions
+  - Discrete Brownian Motion
+  - Kolmogorov Equations
+  - Probability Measure Change
 ---
+
 # CHAPTER 16 Connecting Discrete and Continuous Brownian Motions
 
 16.1 Brownian Motion in a Discrete World 303

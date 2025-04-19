@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#bear_spreads'
-  - '#box_spreads'
-  - '#bull_spreads'
-  - '#butterfly_spreads'
-  - '#calendar_spreads'
-  - '#diagonal_spreads'
-  - '#european_options'
-  - '#option_spreads'
-  - '#option_strategies'
+  - bull_spread
+  - european_call_option
+  - option_strategy
+  - spread_trading
+  - strike_price
+aliases:
+  - bull spreads
+  - spreads
+key_concepts:
+  - bull spread definition
+  - call option strike price
+  - option expiration date
+  - payoff from bull spread
+  - spread trading strategy
 ---
+
 # 12.3 SPREADS  
 
 A spread trading strategy involves taking a position in two or more options of the same type (i.e., two or more calls or two or more puts).  

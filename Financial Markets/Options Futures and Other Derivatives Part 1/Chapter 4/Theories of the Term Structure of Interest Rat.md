@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#asset_liability_management'
-  - '#duration'
-  - '#expectations_theory'
-  - '#financial_crisis'
-  - '#forward_rates'
-  - '#interest_rate_term_structure'
-  - '#liquidity_preference_theory'
-  - '#net_interest_income'
-  - '#zero_curve'
+  - expectations_theory
+  - interest_rates
+  - liquidity_preference
+  - term_structure
+  - yield_curve
+aliases:
+  - Interest Rate Theories
+  - Term Structure Theories
+key_concepts:
+  - Expectations theory
+  - Liquidity preference theory
+  - Market segmentation theory
+  - Net interest income
+  - Term structure of rates
 ---
+
 # 4.12 THEORIES OF THE TERM STRUCTURE OF INTEREST RATES  
 
 It is natural to ask what determines the shape of the zero curve. Why is it sometimes downward sloping, sometimes upward sloping, and sometimes partly upward sloping. and partly downward sloping? A number of different theories have been proposed. The simplest is expectations theory, which conjectures that long-term interest rates should reflect expected future short-term interest rates. More precisely,it argues that a forward interest rate corresponding to a certain future period is equal to the expected future zero interest rate for that period. Another idea, market segmentation theory, conjectures that there need be no relationship between short-, medium-, and long-term interest rates. Under the theory, a major investor such as a large pension fund or an insurance company invests in bonds of a certain maturity and does not readily switch from one maturity to another. The short-term interest rate is determined by supply and demand. in the short-term bond market; the medium-term interest rate is determined by supply. and demand in the medium-term bond market; and so on..  

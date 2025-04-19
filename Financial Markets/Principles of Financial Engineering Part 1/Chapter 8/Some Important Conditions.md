@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#arbitrage_free_conditions'
-  - '#binomial_tree_structure'
-  - '#bond_pricing'
-  - '#dynamic_replication_strategy'
-  - '#martingale_dynamics'
-  - '#one_factor_model'
-  - '#risk_free_rate'
+  - arbitrage_free
+  - binomial_tree
+  - bond_pricing
+  - one_factor_model
+  - risk_free_rate
+aliases:
+  - Arbitrage Conditions
+  - Binomial Structure
+  - Important Assumptions
+key_concepts:
+  - Arbitrage-free initial conditions
+  - Binomial tree structure
+  - Bond prices and returns
+  - One-factor model assumption
+  - Risk-free rate condition
 ---
+
 # 8.6 SOME IMPORTANT CONDITIONS  
 
 In order for these methods to work, some important assumptions are needed. These are discussed in detail here.  

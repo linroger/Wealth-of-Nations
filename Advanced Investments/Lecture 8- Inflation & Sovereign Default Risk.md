@@ -1,18 +1,22 @@
 ---
-aliases:
 title: Lecture 8- Inflation & Sovereign Default Risk
 tags:
-  - '#breakeven_inflation'
-  - '#fiscal_policy'
-  - '#inflation'
-  - '#inflation_expectations'
-  - '#inflation_risk'
-  - '#nominal_assets'
-  - '#real_assets'
-  - '#real_returns'
-  - '#sovereign_default'
-  - '#tips'
+  - cpi
+  - inflation
+  - nominal_returns
+  - purchasing_power
+  - real_returns
+aliases:
+  - Lecture 8
+  - Sovereign Risk
+key_concepts:
+  - Asset Mix and Portfolio
+  - Consumer Price Index (CPI)
+  - Inflation and Purchasing Power
+  - Long-term Investment Impact
+  - Nominal vs. Real Returns
 ---
+
   [Teaching Note 2- Interest Rate Risk Management And Factors](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md)
   
 # Lecture 8- Inflation & Sovereign Default Risk

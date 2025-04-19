@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage_arguments'
-  - '#barrier_options'
-  - '#black_formula'
-  - '#black_scholes_formula'
-  - '#chooser_options'
-  - '#greeks'
-  - '#implied_volatility'
-  - '#market_makers'
-  - '#option_pricing'
+  - black_scholes_formula
+  - european_option
+  - greeks
+  - option_pricing
+  - pde
+aliases:
+  - BS
+  - Black-Scholes
+  - Greeks
+  - Option Pricing
+key_concepts:
+  - Arbitrage-free pricing
+  - Black-Scholes PDE
+  - European call option
+  - Market parameters changes
+  - Option price sensitivity
 ---
+
 # 9.5 TOOLS FOR OPTIONS  
 
 The Black-Scholes PDE can be exploited to obtain the major tools available to an option trader or market maker. First of these is the Black-Scholes formula, which gives the arbitrage-free price of a plain vanilla call (put) option under specific assumptions.  

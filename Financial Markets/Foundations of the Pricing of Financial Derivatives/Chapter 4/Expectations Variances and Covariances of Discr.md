@@ -1,14 +1,24 @@
 ---
 tags:
-  - '#correlation_coefficient'
-  - '#covariance'
-  - '#discrete_random_variables'
-  - '#expectation_value'
-  - '#portfolio_analysis'
-  - '#probability_distribution'
-  - '#standard_deviation'
-  - '#variance'
+  - covariance
+  - discrete_random_variable
+  - dispersion
+  - expectation
+  - expected_value
+  - probability_distribution
+  - rates_of_return
+  - variance
+aliases:
+  - Discrete Random Variables
+  - Expectations, Variances, Covariances
+key_concepts:
+  - Discrete random variable
+  - Expected value
+  - Probability-weighted average
+  - Random variable
+  - Variance of distribution
 ---
+
 # 4.2 EXPECTATIONS, VARIANCES, AND COVARIANCES OF DISCRETE RANDOM VARIABLES
 
 A random variable is a variable that can take on many possible values representing uncer-.

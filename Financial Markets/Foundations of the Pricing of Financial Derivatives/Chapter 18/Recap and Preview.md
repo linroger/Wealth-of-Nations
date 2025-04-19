@@ -1,14 +1,35 @@
 ---
 tags:
-  - '#american_option_pricing'
-  - '#black_scholes_merton_model'
-  - '#compound_options'
-  - '#dividend_payments'
-  - '#equity_as_option'
-  - '#option_elasticity'
-  - '#option_greeks'
-  - '#roll_geske_whaley_model'
+  - american_option_pricing
+  - black_scholes_merton
+  - call_option_pricing
+  - compound_options
+  - equity_valuation
+  - option_greeks
+  - option_payoffs
+  - option_yields
+  - probability_of_default
+  - volatility
+aliases:
+  - Compound Option
+  - Geske derivation
+  - Preview
+  - Recap
+  - Rubinstein
+key_concepts:
+  - American call option
+  - American option pricing
+  - Black-Scholes-Merton model
+  - Call on put option
+  - Compound option
+  - Elasticity of S
+  - Option greeks
+  - Option parity
+  - Probability of default
+  - Underlying instrument price
+  - Volatility of firm
 ---
+
 # 18.9 RECAP AND PREVIEW
 
 In this chapter, we examined compound options, which are useful in helping us to understand how the stock of a company is actually an option itself, where the underlying is the assets of the firm.

@@ -1,20 +1,26 @@
 ---
-aliases:
 cssclasses:
   - academia
 title: The Eurocurrency and Eurobond Markets Annotations
 tags:
-  - '#bond_market_regulation'
-  - '#eurobank'
-  - '#eurobond_issuance'
-  - '#eurobond_market'
-  - '#eurocurrency_market'
-  - '#eurodollar'
-  - '#international_capital_market'
-  - '#international_money_market'
-  - '#libor'
-  - '#offshore_markets'
+  - eurobond_markets
+  - eurocurrency_markets
+  - international_markets
+  - offshore_markets
+  - trade_financing
+aliases:
+  - Eurobond
+  - Eurocurrency
+  - Euromarkets
+  - Offshore Markets
+key_concepts:
+  - 'eurobond: international capital market'
+  - 'eurocurrency: short-term borrowing'
+  - 'eurodollar: dollar deposits outside US'
+  - speculative positions
+  - trade financing motive
 ---
+
 # The Eurocurrency and Eurobond Markets Annotations
 
 CHAPTER 12 THE EUROCURRENCY AND EUROBOND MARKETS

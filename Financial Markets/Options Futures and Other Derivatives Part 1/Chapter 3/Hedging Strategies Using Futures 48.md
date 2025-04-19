@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#basis_risk'
-  - '#capital_asset_pricing_model'
-  - '#cross_hedging'
-  - '#futures'
-  - '#hedging_strategies'
-  - '#stock_index_futures'
+  - basis_risk
+  - capm
+  - cross_hedging
+  - futures_hedging
+  - stock_index_futures
+aliases:
+  - Futures Hedging
+  - Hedging Strategies
+key_concepts:
+  - Basis risk
+  - CAPM
+  - Cross hedging
+  - Hedging principles
+  - Stock index futures
 ---
+
 # Chapter 3. Hedging strategies using futures . 48  
 
 3.1 Basic principles 48   

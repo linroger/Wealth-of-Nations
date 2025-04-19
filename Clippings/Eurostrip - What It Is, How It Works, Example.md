@@ -4,15 +4,23 @@ source: https://www.investopedia.com/terms/e/eurostrip.asp
 description: A eurostrip, short for "eurodollar futures strip," is a derivative transaction
   comprised of a series of consecutive eurodollar futures contracts.
 tags:
-  - '#derivative_transaction'
-  - '#eurodollar_futures'
-  - '#eurostrip'
-  - '#futures_contracts'
-  - '#interest_rate_hedging'
-  - '#interest_rate_risk'
-  - '#libor'
-  - '#speculation'
+  - derivative_transaction
+  - eurodollar_futures
+  - interest_rate_hedging
+  - libor
+  - risk_management
+aliases:
+  - eurodollar contracts
+  - eurodollar futures strip
+key_concepts:
+  - U.S. dollar deposits
+  - hedge interest rate changes
+  - series of futures contracts
+  - speculate on interest rates
+  - three-month futures contracts
 ---
+
+
 ## What Is a Eurostrip?
 
 A eurostrip, short for "eurodollar futures strip," is a type of [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) derivative that allows the holder to hedge against changes in interest rates. It consists of buying a series of three-month futures contracts known as [eurodollars](https://www.investopedia.com/terms/e/eurodollar.asp). Therefore, if a [trader](https://www.investopedia.com/terms/t/trader.asp) wishes to hedge their risk for one year, they would buy four consecutive eurodollar contracts, each lasting for three months.

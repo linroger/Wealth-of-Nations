@@ -1,20 +1,22 @@
 ---
-aliases:
-  - Wellman Inc the Importance of Loan Covenants
-  - Wellman Inc the Importance of Loan Covenants.md
 title: Wellman Inc the Importance of Loan Covenants
 tags:
-  - '#credit_quality'
-  - '#downgrade_impact'
-  - '#ebitda'
-  - '#financial_ratios'
-  - '#interest_coverage'
-  - '#leverage_ratio'
-  - '#loan_agreements'
-  - '#loan_covenants'
-  - '#restricted_payments'
-  - '#wellman_inc'
+  - business_strategy
+  - credit_quality
+  - financial_analysis
+  - loan_covenants
+  - wellman_inc
+aliases:
+  - Loan Covenants
+  - Wellman Inc.
+key_concepts:
+  - 'Borrower: Wellman Inc.'
+  - Conflicts of interest
+  - Credit quality
+  - Loan covenants
+  - Rating downgrade
 ---
+
 # Wellman Inc the Importance of Loan Covenants
 
 # University Of Chicago Booth School Of Business

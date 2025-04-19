@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#arbitrage_equality'
-  - '#cds_standardization'
-  - '#credit_curve_strategies'
-  - '#credit_default_swaps_cds'
-  - '#fixed_recovery_cds'
-  - '#market_liquidity'
-  - '#real_world_complications'
-  - '#restructuring_clauses'
+  - bond_markets
+  - cds_contracts
+  - credit_curve
+  - credit_derivatives
+  - credit_risk
+aliases:
+  - CDS Complications
+  - Credit Market Realities
+  - Real-world CDS
+key_concepts:
+  - Benchmark spread deviations
+  - CDS contract complexities
+  - Delivery option in CDS
+  - Maturity and liquidity issues
+  - Tax treatment differences
 ---
+
 # 18.4 REAL-WORLD COMPLICATIONS  
 
 Credit markets and credit derivatives trading are inherently more complicated and heterogeneous. than most other markets, and one faces an unusual number of real-life complications that theoretical models may not account for. In this section, we look at some of the real-life aspects of CDS contracts.  

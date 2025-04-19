@@ -1,12 +1,20 @@
 ---
 tags:
-  - '#derivatives_pricing'
-  - '#overnight_rates'
-  - '#regulatory_factors'
-  - '#risk_free_rate'
-  - '#tax_treatment'
-  - '#treasury_instruments'
+  - derivatives_pricing
+  - overnight_rates
+  - risk_free_rate
+  - treasury_bills
+  - treasury_bonds
+aliases:
+  - Risk Free Rate
+  - Risk-Free Rate
+key_concepts:
+  - Overnight rates
+  - Risk-free rate
+  - Tax and regulatory factors
+  - Treasury instruments
 ---
+
 # 4.3 THE RISK-FREE RATE  
 
 As we shall see, the usual approach to valuing derivatives involves setting up a riskless. portfolio and arguing that the return on the portfolio should be the risk-free rate. The risk-free rate therefore plays a central role in derivatives pricing. It might be thought. that derivatives traders would use the rates on Treasury bills and Treasury bonds as risk-free rates. In fact they do not do this. This is because there are tax and regulatory factors that lead to Treasury rates being artificially low. For example:.  

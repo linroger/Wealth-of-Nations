@@ -1,19 +1,23 @@
 ---
 title: JP Morgan-Variance Swaps
-aliases: []
 cssclasses: academia
 tags:
-  - '#convexity'
-  - '#delta_hedging'
-  - '#hedging'
-  - '#replication'
-  - '#skew'
-  - '#term_structure'
-  - '#variance_swaps'
-  - '#volatility'
-  - '#volatility_risk_premium'
-  - '#volatility_trading'
+  - hedging
+  - jpmorgan
+  - market_mechanics
+  - variance_swaps
+  - volatility
+aliases:
+  - Variance Swaps
+  - Volatility Swaps
+key_concepts:
+  - Delta-hedged portfolio
+  - Generating alpha
+  - Hedging volatility exposures
+  - Variance swap market
+  - Volatility exposure
 ---
+
 # JP Morgan-Variance Swaps
 
 [[JP Morgan-Variance Swaps|Variance Swaps]]

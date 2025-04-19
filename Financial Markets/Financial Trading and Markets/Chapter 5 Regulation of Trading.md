@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#dodd_frank_act'
-  - '#financial_crisis_2008'
-  - '#insider_trading'
-  - '#market_regulation'
-  - '#regulation_nms'
-  - '#regulatory_approaches'
-  - '#sarbanes_oxley_act'
-  - '#securities_regulation'
-  - '#self_regulation'
-  - '#volcker_rule'
+  - financial_markets
+  - government_regulation
+  - market_failure
+  - regulatory_approaches
+  - securities_markets
+aliases:
+  - Market Regulation
+  - Regulation Overview
+key_concepts:
+  - Financial regulators powers
+  - Licensing, chartering, registration
+  - Maintain market competition
+  - Prevent market failure
+  - Protect investors and taxpayers
 ---
+
 # Regulation of Trading and Securities Markets  
 
 # 5.1 REGULATORY APPROACHESAND THE REGULATORY BALANCE  

@@ -1,22 +1,22 @@
 ---
-aliases:
-  - 
-  - OPTIONS STRATEGIES CONSTRUCTION
-  - 
 linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
 title: OPTIONS STRATEGIES CONSTRUCTION
 tags:
-  - '#bear_spread'
-  - '#bull_spread'
-  - '#butterfly_spread'
-  - '#collar_strategy'
-  - '#covered_call'
-  - '#option_expiration'
-  - '#options_strategies'
-  - '#options_trading'
-  - '#protective_put'
-  - '#risk_management'
+  - butterfly_spread
+  - option_expiration
+  - options_strategies
+  - protective_put
+  - stock_price
+aliases:
+  - Protective Put Strategy
+key_concepts:
+  - Limited risk
+  - Minimal stock movement
+  - Protective put portfolio
+  - Stock near expiration
+  - Stock price movement
 ---
+
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]

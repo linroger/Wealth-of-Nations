@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#asset_price_fluctuations'
-  - '#binomial_model'
-  - '#black_scholes_merton_model'
-  - '#brownian_motion'
-  - '#dividends'
-  - '#option_pricing'
-  - '#wiener_process'
+  - binomial_model
+  - black_scholes_merton_model
+  - dividends
+  - put_options
+  - wiener_processes
+aliases:
+  - Binomial Model Convergence
+  - Chapter 9
+key_concepts:
+  - Brownian motion
+  - Hsia proof
+  - Wiener process properties
+  - asset price fluctuations
+  - time derivatives pricing
 ---
+
 # CHAPTER 9 Convergence of the Binomial Model to the Black-Scholes-Merton Model
 
 177

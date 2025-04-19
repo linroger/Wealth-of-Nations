@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#equity_indices'
-  - '#expected_shortfall_es'
-  - '#historical_simulation'
-  - '#market_variables'
-  - '#portfolio_risk_management'
-  - '#scenario_analysis'
-  - '#stressed_var_es'
-  - '#value_at_risk_var'
-  - '#weighting_observations'
+  - es
+  - historical_simulation
+  - market_variables
+  - portfolio_risk
+  - var
+aliases:
+  - Hist Sim
+  - Historical Sim
+key_concepts:
+  - 99th percentile of distribution
+  - Estimating VaR and ES
+  - Market variable movements
+  - Portfolio dollar change
+  - Probability distribution of loss
 ---
+
 # 22.2 HISTORICAL SIMULATION  
 
 Historical simulation is one popular way of estimating VaR or ES. It involves using past data as a guide to what will happen in the future. Suppose that we want to calculate VaR for a portfolio using a one-day time horizon, a. $99\%$ confidence level, and 501 days of data. The first step is to identify the market variables affecting the portfolio. These will typically be interest rates, equity prices, commodity prices, and so on. All prices are measured in the domestic currency. For example, one market variable for a German bank is likely to be the S&P 500 measured in euros..  

@@ -1,19 +1,24 @@
 ---
-aliases:
-  - The Economist Intangible Capitalism
-  - The Economist Intangible Capitalism.md
 title: The Economist Intangible Capitalism
 tags:
-  - '#banking_system'
-  - '#cbdc'
-  - '#digital_currency'
-  - '#financial_markets'
-  - '#intangible_capitalism'
-  - '#intellectual_property'
-  - '#monetary_policy'
-  - '#silicon_valley'
-  - '#venture_capital'
+  - capital_markets
+  - intangible_capitalism
+  - intellectual_property
+  - venture_capital
+  - whaling_industry
+aliases:
+  - Capitalism without Capital
+  - Intangible Capitalism
+  - Venture Capital
+  - Whaling
+key_concepts:
+  - Intangible vs. Tangible Capital
+  - Low-probability, high-payoff
+  - Shift in Business Investment
+  - Venture Capitalists
+  - Whaling Agents
 ---
+
 # The Economist Intangible Capitalism
 # Intangible Capitalism
 

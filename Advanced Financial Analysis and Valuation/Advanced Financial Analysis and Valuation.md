@@ -1,14 +1,25 @@
 ---
 cssclasses: academia
 title: Advanced Financial Analysis and Valuation
-aliases:
-  - ADVANCED FINANCIAL ANALYSIS AND VALUATION
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION
 tags:
-  - '#advanced_financial_analysis'
-  - '#financial_analysis'
-  - '#valuation'
+  - advanced_finance
+  - dcf_valuation
+  - financial_analysis
+  - risk_management
+  - valuation
+aliases:
+  - Fin Analysis
+  - Financial Modeling
+  - Valuation
+key_concepts:
+  - Advanced finance topics
+  - Company valuation methods
+  - DCF valuation
+  - Financial modeling
+  - Risk analysis
 ---
+
 # Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

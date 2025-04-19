@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#convexity_adjustment'
-  - '#gfc'
-  - '#post_gfc_regulation'
-  - '#variance_futures'
-  - '#variance_swaps'
-  - '#volatility_engineering'
-  - '#volatility_swaps'
-  - '#volatility_trading'
+  - convexity
+  - gfc
+  - variance_swaps
+  - volatility_engineering
+  - volatility_swaps
+aliases:
+  - Chapter 15
+  - Volatility Trading
+key_concepts:
+  - Convexity adjustment source
+  - Hedge
+  - Variance futures
+  - Volatility as asset class
+  - Volatility trading market GFC
 ---
+
 # 508 CHAPTER 15 TOOLS FOR VOLATILITY ENGINEERING, VOLATILITY SWAPS  
 
 15.7.2 Convexity and the Difference Between Variance and Volatility Swaps. 533   

@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#accrued_interest'
-  - '#bond_pricing'
-  - '#bond_trading'
-  - '#coupon_payment'
-  - '#flat_price'
-  - '#full_price'
-  - '#market_convention'
-  - '#present_value'
+  - accrued_interest
+  - bond_pricing
+  - clean_price
+  - day_count_convention
+  - dirty_price
+aliases:
+  - Flat Price
+  - Full Price
+  - Invoice Price
+  - Quoted Price
+key_concepts:
+  - Accrued Interest Calculation
+  - Actual/Actual Day-Count
+  - Coupon Payment Division
+  - Full vs. Flat Price
+  - Present Value of Cash Flows
 ---
+
 # 1.6 ACCRUED INTEREST  
 
 This section describes the market practice of separating the full or invoice.   

@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#asset_liability_management'
-  - '#duration_gap_management'
-  - '#financial_derivatives'
-  - '#hedging_strategies'
-  - '#interest_rate_risk'
-  - '#leverage_adjusted_duration_gap'
-  - '#modified_duration'
-  - '#net_worth_impact'
-  - '#zions_bank'
+  - asset_liability_management
+  - balance_sheet
+  - duration_gap
+  - interest_rate_risk
+  - zions_bank
+aliases:
+  - Duration Gap
+  - Interest Rate Exposure
+key_concepts:
+  - Asset and liability categories
+  - Duration Gap Management
+  - Interest rate exposure
+  - Neutral net worth position
+  - Weighted average duration
 ---
+
 # 13.3 DURATION GAP MANAGEMENT  
 
 The Duration Gap Management serves a very different purpose of the ISGap analysis. Instead of focusing on the repricing risk of the different asset and liability categories, we attempt to describe the interest rate exposure of the existing asset and liabilities in order to assess the risk to the net worth of the bank. We assign durations to all asset and liability categories and we compute the weighted average duration of all assets and liabilities. The duration analysis is mathematically equivalent to the first-order Taylor expansion. The effect on the net worth is equal to the sum of the asset durations times interest rate changes minus the sum of the liability durations times the interest rate changes.  

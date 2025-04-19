@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#american_options'
-  - '#arbitrage'
-  - '#binomial_model'
-  - '#european_options'
-  - '#option_greeks'
-  - '#option_pricing'
-  - '#pascal_triangle'
-  - '#put_call_parity'
-  - '#risk_neutral_valuation'
+  - american_options
+  - binomial_model
+  - greeks
+  - option_pricing
+  - pascal_triangle
+aliases:
+  - Binomial
+  - Greeks
+  - Preview
+  - Recap
+key_concepts:
+  - Binomial expansion coefficients
+  - Binomial model valuation
+  - Early exercise American options
+  - Greeks option sensitivities
+  - Pascal's triangle coefficients
 ---
+
 # 7.8 RECAP AND PREVIEW
 
 In this chapter, we covered one of the simplest but most important methods of valuing options: the binomial model. We showed how the model clearly illustrates the process by which a dynamically adjusted portfolio enables one to assign a value to an option that must hold to prevent arbitrage. We showed how this process works in one- and two-period models. We illustrated how the early exercise of American options is accommodated within the binomial model.

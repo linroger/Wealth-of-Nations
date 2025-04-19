@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cheapest_to_deliver_bond'
-  - '#cme_group_contracts'
-  - '#conversion_factor'
-  - '#futures_price_determination'
-  - '#interest_rate_futures'
-  - '#t_bond_futures_contract'
-  - '#treasury_bond_futures'
-  - '#wild_card_play'
+  - bond_futures
+  - futures_contract
+  - interest_rate_futures
+  - maturity
+  - treasury_bonds
+aliases:
+  - T-bond futures
+  - Treasury note futures
+  - Ultra Tbond futures
+key_concepts:
+  - 30-day Fed Funds Rate
+  - Cheapest-to-deliver bond
+  - Conversion factor calculation
+  - Futures contract delivery
+  - Wild card play
 ---
+
 # 6.2 TREASURY BOND FUTURES  
 
 Table 6.1 shows interest rate futures quotes on May 21, 2020. Trading in the Ultra Tbond futures contract started in 2010. Any government bond with a maturity over 25 years can be delivered by the party with the short position under the terms of this contract. In the T-bond futures contract, any government bond that has a maturity between 15 and 25 years can be delivered.  

@@ -1,18 +1,24 @@
 ---
-aliases:
-  - Calculate Stock Prices at Different Nodes
 linter-yaml-title-alias: CALCULATE STOCK PRICES AT DIFFERENT NODES
 title: Calculate Stock Prices at Different Nodes
 tags:
-  - '#binomial_model'
-  - '#delta_hedging'
-  - '#european_call_option'
-  - '#financial_intermediary'
-  - '#option_pricing'
-  - '#replicating_portfolio'
-  - '#risk_management'
-  - '#stock_price_calculation'
+  - binomial_model
+  - european_call
+  - option_pricing
+  - replicating_portfolio
+  - stock_price
+aliases:
+  - Binomial Option Pricing
+  - Option Replication
+  - Stock Price Calculation
+key_concepts:
+  - Binomial tree
+  - Option payoff
+  - Option price calculation
+  - Replicating portfolio
+  - Stock price movement
 ---
+
 # Calculate Stock Prices at Different Nodes
 
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**

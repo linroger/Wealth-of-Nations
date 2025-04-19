@@ -1,21 +1,26 @@
 ---
-aliases:
-  - 
-  - FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
-  - 
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 title: FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 tags:
-  - '#binomial_trees'
-  - '#european_options'
-  - '#exchange_rates'
-  - '#financial_instruments'
-  - '#forward_contracts'
-  - '#hedging_strategies'
-  - '#options_pricing'
-  - '#put_options'
-  - '#risk_management'
+  - binomial_trees
+  - bond_valuation
+  - european_call_option
+  - european_put_option
+  - no_arbitrage_price
+aliases:
+  - JCH stock
+  - S&P500
+  - capital protected note
+  - financial instruments
+  - midterm solutions
+key_concepts:
+  - Binary option price
+  - Binomial tree pricing
+  - Bond valuation example
+  - European call option
+  - Hedging positions changes
 ---
+
 # FINANCIAL INSTRUMENTS EXAMPLE MIDTERM SOLUTIONS
 [Financial Instruments Midterm Solutions 2013](Financial%20Instruments%20Midterm%20Solutions%202013.md)
 ## PROBLEM 1. (20 POINTS)

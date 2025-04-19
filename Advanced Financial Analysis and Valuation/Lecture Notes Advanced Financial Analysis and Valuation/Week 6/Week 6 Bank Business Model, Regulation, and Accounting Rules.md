@@ -1,17 +1,30 @@
 ---
-aliases:
 tags:
-  - '#bank_business_model'
-  - '#bank_regulation'
-  - '#basel_iii'
-  - '#cecl'
-  - '#cyclicality_in_loan_losses'
-  - '#expected_credit_loss'
-  - '#ifrs_9'
-  - '#loan_loss_provisioning'
-  - '#regulatory_capital'
-  - '#risk_weighted_assets'
+  - accounting_rules
+  - balance_sheets
+  - bank_business_model
+  - banking_regulation
+  - financial_intermediaries
+aliases:
+  - Accounting Rules
+  - Bank Business
+  - Banking Regulation
+key_concepts:
+  - Balance sheets of U.S. banks
+  - Bank regulation & deposit insurance
+  - Banks are financial intermediaries
+  - Banks are very different
+  - 'Banks: business model, regulation'
+  - Capital requirements & leverage
+  - Credit, liquidity, interest rate risks
+  - Deposit taking, lending, underwriting
+  - 'Duration mismatch: assets, liabilities'
+  - Income statements of U.S. banks
+  - Interest rate spread
+  - Primer on bank regulation
+  - 'Regulatory capital: buffer for losses'
 ---
+
 Banks: Business Model, Regulation and Accounting Rules
 
 ## BUSINESS MODEL BANKS: MAIN ACTIVITIES AND FUNCTIONS

@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#binomial_tree_approach'
-  - '#black_scholes_merton_model'
-  - '#employee_stock_options'
-  - '#exercise_multiple'
-  - '#expected_life'
-  - '#market_based_approach'
-  - '#stock_option_dilution'
-  - '#valuation_methods'
-  - '#zions_bancorp'
+  - black_scholes_model
+  - employee_stock_options
+  - option_pricing
+  - valuation
+  - volatility
+aliases:
+  - Option Valuation
+  - Valuation of Options
+key_concepts:
+  - Black-Scholes-Merton model
+  - Employee stock option valuation
+  - Expected option life
+  - Historical data volatility
+  - Income statement expense
 ---
+
 # 16.4 VALUATION  
 
 Accounting standards give companies quite a bit of latitude in choosing a method for valuing employee stock options. In this section we review some of the alternatives.  

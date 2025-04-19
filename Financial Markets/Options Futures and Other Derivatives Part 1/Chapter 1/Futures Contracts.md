@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#cme_group'
-  - '#commodities'
-  - '#exchange_trading'
-  - '#financial_assets'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#futures_prices'
-  - '#supply_and_demand'
-  - '#underlying_assets'
+  - cme_group
+  - exchange_clearing_house
+  - forward_contracts
+  - futures_contracts
+  - futures_price
+aliases:
+  - Futures Contract
+  - Futures Contracts
+key_concepts:
+  - commodities and financial assets
+  - exchange clearing house role
+  - futures contract agreement
+  - standardized contract features
+  - traded on an exchange
 ---
+
 # 1.4 FUTURES CONTRACTS  
 
 Like a forward contract, a futures contract is an agreement between two parties to buy or.   

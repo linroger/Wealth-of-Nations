@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#back_testing_var'
-  - '#historical_simulation'
-  - '#model_building_approach'
-  - '#monte_carlo_simulation'
-  - '#multivariate_normal_distribution'
-  - '#nonlinear_derivatives'
-  - '#var_estimation_methods'
-  - '#volatility_updating'
+  - back_testing
+  - historical_simulation
+  - model_building
+  - var_estimation
+  - volatility_updating
+aliases:
+  - Backtest
+  - Historical data
+  - Risk assessment
+  - VaR methods
+key_concepts:
+  - Back testing VaR model
+  - Historical simulation approach
+  - Model-building approach
+  - Nonlinear derivatives impact
+  - VaR estimation methods
 ---
+
 # 22.7 COMPARISON OF APPROACHES  
 
 We have discussed two methods for estimating VaR: the historical simulation approach. and the model-building approach. The basic model-building approach in Sections 22.3 and 22.4 assumes that changes in the portfolio's value are linearly dependent on the. underlying market variables. This means that it is not accurate when the portfolio. contains nonlinear derivatives. Monte Carlo simulation can be used to avoid the linearity assumption, but the speed advantages of the model-building approach are.  

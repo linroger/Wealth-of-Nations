@@ -1,14 +1,24 @@
 ---
 tags:
-  - '#financial_engineering'
-  - '#financial_markets'
-  - '#market_conventions'
-  - '#market_mechanics'
-  - '#market_practitioners'
-  - '#pricing_models'
-  - '#risk_management'
-  - '#syndication_process'
+  - accounting_methods
+  - financial_engineering
+  - financial_markets
+  - market_practitioners
+  - pricing_models
+aliases:
+  - Financial markets overview
+  - Introduction to finance
+key_concepts:
+  - Conventions in financial markets
+  - Financial engineering practice
+  - Instruments and market players
+  - Market practitioner interaction
+  - Mechanics of financial markets
+  - Organization of financial markets
+  - Settlement and accounting methods
+  - Syndication process overview
 ---
+
 # 2.1 INTRODUCTION  
 
 This chapter takes a step back and reviews in a nutshell the prerequisite for studying the methods of financial engineering. Readers with a good grasp of the conventions and mechanics of financial markets may skip it, although a quick reading would be preferable.  

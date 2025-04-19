@@ -1,20 +1,24 @@
 ---
 title: The Dynamics of Inflationary Debt Cycles and Currency Crises
-aliases:
 cssclasses:
   - academia
 tags:
-  - '#balance_of_payments'
-  - '#capital_flows'
-  - '#central_bank_policy'
-  - '#currency_crises'
-  - '#currency_devaluation'
-  - '#debt_restructuring'
-  - '#economic_instability'
-  - '#hyperinflation'
-  - '#inflationary_debt_cycles'
-  - '#monetary_policy'
+  - capital_flows
+  - central_bank
+  - currency_crises
+  - economic_vulnerability
+  - inflationary_debt
+aliases:
+  - Currency Dynamics
+  - Inflationary Debt Cycles
+key_concepts:
+  - Capital flow influence
+  - Central bank management
+  - Currency and debt interplay
+  - Inflationary debt crises
+  - Vulnerability factors
 ---
+
 # The Dynamics of Inflationary Debt Cycles and Currency Crises
 
 1. **The Dynamics of Inflationary Debt Cycles and Currency Crises:** This section delves into the mechanics of inflationary debt crises,  focusing on the interplay between debt,  currency dynamics,  and economic conditions. It emphasizes the critical role of [[Chapter 14- Capital Flows and the Current Account|capital flows]] and the central bank's balancing act in managing these crises. A key point here is that a debt crisis with rapid inflation is very different from a debt crisis with rapid deflation because it involves a collapsing currency.

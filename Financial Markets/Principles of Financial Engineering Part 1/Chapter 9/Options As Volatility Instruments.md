@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#black_scholes_pde'
-  - '#cash_flows'
-  - '#delta_hedging'
-  - '#european_call_option'
-  - '#implied_volatility'
-  - '#market_maker'
-  - '#options_volatility'
-  - '#time_value'
-  - '#vega_risk'
+  - european_option
+  - hedging
+  - market_maker
+  - options
+  - volatility
+aliases:
+  - Market Maker Strategies
+  - Option Hedging
+  - Volatility Instruments
+key_concepts:
+  - ATM Option
+  - Convexity and Cash Earnings
+  - Long Call Position
+  - Market Maker Hedging
+  - Risk Management
 ---
+
 # 9.4 OPTIONS AS VOLATILITY INSTRUMENTS  
 
 In this section we see how convexity is translated into cash earnings, as. $S_{t}$ oscillates and creates time value. The discussion is conducted in a highly simplified environment to facilitate under-. standing of the relationship between volatility and cash gains (losses) of long (short) option positions.  

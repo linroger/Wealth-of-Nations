@@ -1,3 +1,22 @@
+---
+tags:
+  - brownian_motion
+  - european_options
+  - monte_carlo_simulation
+  - risk_neutral_valuation
+  - stochastic_process
+aliases:
+  - Brownian Motion
+  - Greeks
+  - MCS
+  - RNV
+key_concepts:
+  - Calculate the Greeks
+  - Complex option pricing
+  - Pricing options with MCS
+  - Reduce computational time
+  - Stochastic path for asset
+---
 # Pricing Options: Monte Carlo Simulation  
 
 # Aims  

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#covariance_matrix'
-  - '#drift'
-  - '#forward_rates'
-  - '#hjm_model'
-  - '#interest_rates'
-  - '#multifactor_models'
-  - '#one_factor_model'
-  - '#term_structure'
-  - '#volatility'
+  - binomial_tree
+  - drift_calculation
+  - forward_rates
+  - hjm_model
+  - volatility
+aliases:
+  - Binomial tree example
+  - Grant-Vora formula
+  - HJM model fitting
+key_concepts:
+  - Binomial tree
+  - Drift calculation
+  - Forward rates
+  - HJM model
+  - Volatility structure
 ---
+
 # 27.3 FITTING A BINOMIAL TREE TO THE HJM MODEL
 
 Let us now work a numerical example. We start with the following information for the term structure of forward rates:

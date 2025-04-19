@@ -4,16 +4,26 @@ source: https://www.investopedia.com/understanding-futures-contract-expiration-7
 description: The final day on which a futures contract can be bought or sold is its
   expiration date.
 tags:
-  - '#cash_settlement'
-  - '#contract_rollover'
-  - '#expiration_dates'
-  - '#futures_contract_expiration'
-  - '#futures_trading'
-  - '#hedging_strategies'
-  - '#market_volatility'
-  - '#physical_delivery'
-  - '#risk_management'
+  - cash_settlement
+  - expiration_date
+  - futures_contract
+  - hedging
+  - market_volatility
+  - physical_delivery
+  - risk_management
+  - trading
+aliases:
+  - contract expiry
+  - futures expiry
+key_concepts:
+  - cash settlement or delivery
+  - exchange websites for dates
+  - futures contract deadline
+  - price volatility and liquidity
+  - traders roll contracts over
 ---
+
+
 A futures contract expiration is the countdown clock of this part of the trading world. It marks the last day that you can trade a futures contract before it expires. After this day, the contract is settled in cash or through the physical delivery of the underlying asset, depending on the terms of the agreement.
 
 ### Key Takeaways

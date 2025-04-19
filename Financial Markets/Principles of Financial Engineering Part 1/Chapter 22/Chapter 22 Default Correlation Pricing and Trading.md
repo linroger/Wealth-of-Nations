@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#correlation_trading'
-  - '#default_correlation_case_study'
-  - '#default_correlation_pricing'
-  - '#delta_hedging'
-  - '#standard_tranche_valuation_model'
-  - '#statistical_concepts'
+  - case_study
+  - default_correlation
+  - delta_hedging
+  - trading
+  - tranche_valuation
+aliases:
+  - Correlation Trading
+  - Default Correlation
+  - Tranche Valuation
+key_concepts:
+  - Default correlation pricing
+  - Delta hedging strategies
+  - Real-world complications
+  - Standard tranche valuation model
+  - Statistical concepts review
 ---
+
 # CHAPTER 22 Default Correlation Pricing and Trading. 781  
 
 22.1 Introduction. 782   

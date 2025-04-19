@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#integral_formula'
-  - '#ito_integral_form'
-  - '#ito_lemma'
-  - '#ito_stochastic_integral'
-  - '#stochastic_calculus'
-  - '#stochastic_integration'
+  - integral_formula
+  - ito_calculus
+  - ito_lemma
+  - stochastic_calculus
+  - stochastic_integral
+aliases:
+  - Ito's lemma integral form
+  - Ito's stochastic integral
+key_concepts:
+  - Ito's lemma integral form
+  - differential integral versions
+  - generalized stochastic integration
+  - solving financial problems
+  - stochastic integration equation
 ---
+
 # 11.4 THE INTEGRAL FORM OF ITO $\mathbf{8}$ LEMMA
 
 Now let us develop Ito's lemma in integral form. Using stochastic integration applied to Equation (11.14), we have

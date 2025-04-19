@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#asset_pricing_models'
-  - '#asset_returns'
-  - '#equilibrium'
-  - '#financial_asset_pricing_theory'
-  - '#investors'
-  - '#modern_asset_pricing'
+  - asset_pricing
+  - asset_returns
+  - equilibrium
+  - financial_modeling
+  - prerequisites
+aliases:
+  - Asset Pricing
+  - FAPT Overview
+key_concepts:
+  - Asset pricing elements
+  - Model time span
+  - Modern asset pricing
+  - Organization of book
+  - Stylized empirical facts
 ---
+
 # Table of Contents - Financial Asset Pricing Theory Overview
 # Contents  
 

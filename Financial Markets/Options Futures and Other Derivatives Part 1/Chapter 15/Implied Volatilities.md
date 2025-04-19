@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#cboe'
-  - '#historical_volatility'
-  - '#implied_volatility'
-  - '#option_pricing'
-  - '#option_trading'
-  - '#s_and_p_500'
-  - '#vix_index'
-  - '#volatility_indices'
+  - black_scholes_merton
+  - european_call_option
+  - implied_volatility
+  - option_pricing
+  - vix_index
+aliases:
+  - Implied Vol
+  - VIX
+  - Volatility
+key_concepts:
+  - CBOE volatility indices
+  - Futures on the VIX
+  - Implied volatility calculation
+  - Market's opinion on volatility
+  - VIX index
 ---
+
 # 15.11 IMPLIED VOLATILITIES  
 
 The one parameter in the Black-Scholes-Merton pricing formulas that cannot be directly observed is the volatility of the stock price. In Section 15.4, we discussed how this can be estimated from a history of the stock price. In practice, traders usually. work with what are known as implied volatilities. These are the volatilities implied by option prices observed in the market.10  

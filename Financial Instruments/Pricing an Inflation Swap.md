@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#black_scholes_equation'
-  - '#cpi'
-  - '#discount_curve'
-  - '#inflation_swap'
-  - '#mathematical_formulation'
-  - '#option_pricing'
-  - '#pricing_model'
-  - '#risk_free_counterparty'
-  - '#swaption_volatilities'
+  - cpi
+  - derivative_pricing
+  - fixed_income
+  - inflation_swap
+  - risk_management
+aliases:
+  - CPI
+  - Consumer Price Index
+  - IS
+  - Inflation Swap
+key_concepts:
+  - CPI index
+  - Fixed side payment
+  - Floating side payout
+  - Inflation swap contract
+  - Swap valuation
 ---
+
 # Pricing an Inflation Swap
 ## Summary
 An inflation swap is a contract between two counterparties where at maturity, sides exchange a pre-specified payment determined by the inflation rate at inception for a payment determined by the simple rate of return of the Consumer Price Index (CPI) from inception to maturity.

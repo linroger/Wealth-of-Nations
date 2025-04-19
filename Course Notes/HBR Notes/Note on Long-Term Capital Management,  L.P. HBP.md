@@ -1,27 +1,26 @@
 ---
 cssclasses: academia
 Owner: RRoger Lin
-aliases:
-  -   -   - Class Note 13 The LTCM Meltdown|Long Term Capital Management
-  - Note on Long-Term Capital Management
-  - Note on Long-Term Capital Management
-  - L.P. (A)
-  - L.P. HBP.md
-  - Long-Term Capital Management
 linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
 title: Note on Long-Term Capital Management,  L.P. HBP
 tags:
-  - '#convergence_trades'
-  - '#financial_markets'
-  - '#fund_size'
-  - '#hedge_fund'
-  - '#leverage'
-  - '#liquidity_management'
-  - '#long_term_capital_management'
-  - '#relative_value_trades'
-  - '#risk_management'
-  - '#trading_strategies'
+  - interest_rate_swap
+  - long_term_capital_management
+  - ltcm
+  - risk_arbitrage
+  - yield_curve
+aliases:
+  - HBP Note
+  - LTCM
+  - Long-Term Capital Portfolio
+key_concepts:
+  - Interest rate swap agreement
+  - Long-Term Capital Management
+  - Option premia collateral
+  - Risk arbitrage strategy
+  - Yield curve relative value
 ---
+
 **Harvard Business School**
 
 # Note on Long-Term Capital Management,  L.P. HBP

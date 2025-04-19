@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#accrual_swaps'
-  - '#bermudan_swaption'
-  - '#cancelable_swaps'
-  - '#compounding_swaps'
-  - '#embedded_options'
-  - '#european_swaption'
-  - '#interest_rate_swaps'
-  - '#risk_free_rate'
-  - '#sofr'
-  - '#swap_valuation'
+  - accrual_swaps
+  - cancelable_swaps
+  - embedded_options
+  - interest_rate_swaps
+  - swaptions
+aliases:
+  - Accrual swap example
+  - Swaps with embedded features
+key_concepts:
+  - Accrual swap definition
+  - Binary option payoff
+  - Cancelable swap features
+  - European swaption position
+  - SOFR and fixed rate
 ---
+
 # 34.5 SWAPS WITH EMBEDDED OPTIONS  
 
 Some swaps contain embedded options. In this section we consider some commonly encountered examples.  

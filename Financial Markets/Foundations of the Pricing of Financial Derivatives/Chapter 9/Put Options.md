@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#binomial_model'
-  - '#black_scholes_merton'
-  - '#convergence'
-  - '#dividends'
-  - '#put_call_parity'
-  - '#put_options'
+  - binomial_model
+  - black_scholes_merton
+  - dividends
+  - put_call_parity
+  - put_options
+aliases:
+  - Put Options
+  - Put-Call Parity
+key_concepts:
+  - Asset price strike price
+  - Binomial model convergence
+  - Black-Scholes-Merton put model
+  - Convergence properties
+  - Role of dividends
 ---
+
 # 9.3 PUT OPTIONS
 
 Based on put-call parity, we have

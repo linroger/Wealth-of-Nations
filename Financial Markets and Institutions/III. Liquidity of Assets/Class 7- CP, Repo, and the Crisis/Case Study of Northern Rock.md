@@ -1,25 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern
-    Rock]].md
-  - Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern
-    Rock]]
 title: Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern
   Rock]]
 tags:
-  - '#bank_run'
-  - '#basel_iii'
-  - '#financial_instability'
-  - '#fsa_supervision'
-  - '#liquidity_risk'
-  - '#mortgage_finance'
-  - '#nationalization'
-  - '#risk_management'
-  - '#securitization'
-  - '#uk_banking_system'
+  - bank_run
+  - financial_crisis
+  - mortgage_finance
+  - securitization
+  - uk_banking_system
+aliases:
+  - Basel III Case Study
+  - Northern Rock Case Study
+  - UK Banking Woes
+key_concepts:
+  - FSA supervision
+  - liquidity shock
+  - mortgage book growth
+  - regulatory capital requirements
+  - wholesale-funded model
 ---
+
 # Case Study of [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Northern Rock]]
 
 Basel III: Proposals for a Better Banking Regime (The Wiley Finance Series)

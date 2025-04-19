@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_formula'
-  - '#covered_position'
-  - '#hedging_performance'
-  - '#monte_carlo_simulation'
-  - '#naked_position'
-  - '#option_hedging'
-  - '#stock_price_movement'
-  - '#stop_loss_strategy'
-  - '#transaction_costs'
+  - black_scholes_merton
+  - covered_position
+  - hedging_procedure
+  - naked_position
+  - stop_loss_strategy
+aliases:
+  - Covered Positions
+  - Naked and Covered
+key_concepts:
+  - Black-Scholes formula
+  - Covered position strategy
+  - Naked position strategy
+  - Stock price impact
+  - Stop-loss strategy
 ---
+
 # 19.2 NAKED AND COVERED POSITIONS  
 
 One strategy open to the financial institution is to do nothing. This is sometimes referred to as a naked position. It is a strategy that works well if the stock price is below $\$50$ at the end of the 20 weeks. The option then costs the financial institution nothing and it makes. a profit of $\$300,000$ . A naked position works less well if the call is exercised because the financial institution then has to buy 100,o00 shares at the market price prevailing in 20 weeks to cover the call. The cost to the financial institution is 100,000 times the amount by which the stock price exceeds the strike price. For example, if after 20 weeks the stock price is $\$60$ , the option costs the financial institution $\$1,000,000$ . This is considerably greater than the $\$300,000$ charged for the option.  

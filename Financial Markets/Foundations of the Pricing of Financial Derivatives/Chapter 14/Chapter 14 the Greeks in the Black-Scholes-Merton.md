@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#delta'
-  - '#dividends'
-  - '#european_put_option'
-  - '#gamma'
-  - '#greek_sensitivities'
-  - '#greeks'
-  - '#option_pricing'
-  - '#partial_derivatives'
-  - '#theta'
+  - black_scholes_merton_model
+  - delta
+  - european_option
+  - gamma
+  - option_greeks
+  - theta
+aliases:
+  - BSM Greeks
+  - Option Sensitivities
+key_concepts:
+  - Derivative, Respect to Time
+  - Derivatives, Underlying Price
+  - European Put Option Pricing
+  - Partial Differential Equation
+  - Second Derivative, Price
 ---
+
 # CHAPTER 14 The Greeks in the Black-Scholes-Merton Model
 
 271

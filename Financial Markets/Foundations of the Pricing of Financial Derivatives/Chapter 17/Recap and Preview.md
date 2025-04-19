@@ -1,16 +1,33 @@
 ---
 tags:
-  - '#american_options'
-  - '#arithmetic_brownian_motion'
-  - '#black_scholes_merton_model'
-  - '#compound_options'
-  - '#credit_risk'
-  - '#exchange_options'
-  - '#ito_lemma'
-  - '#linear_homogeneity'
-  - '#option_greeks'
-  - '#option_pricing'
+  - arithmetic_brownian_motion
+  - black_scholes_merton
+  - compound_option
+  - exchange_option
+  - greeks
+  - ito_lemma
+  - ito_process
+  - linear_homogeneity
+  - option_pricing
+  - partial_differential_equation
+aliases:
+  - ABM Model
+  - Exchange Option
+  - Preview
+  - Recap
+key_concepts:
+  - Arithmetic Brownian motion
+  - Black-Scholes-Merton model
+  - Compound option
+  - Exchange option value
+  - Forward start option
+  - Ito process
+  - Linear homogeneity
+  - Multivariate Ito's Lemma
+  - Option pricing
+  - Partial differential equation
 ---
+
 # 17.8 RECAP AND PREVIEW
 
 In this chapter, we examined the concept of linear homogeneity and showed how it can be used in option pricing. Linear homogeneity, which occurs in certain types of functions,. expresses a relationship between their differentials. Conveniently, the payoff of an option. is linearly homogeneous with respect to the asset price and exercise price. As such, we can. use this principle to derive the Black-Scholes-Merton model. In this chapter, we show how it can be used to also derive the value of an exchange option, as well as a forward start. option.

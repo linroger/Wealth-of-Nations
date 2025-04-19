@@ -1,19 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 title: PSET 1 Solution-Financial Instruments
 tags:
-  - '#arbitrage_strategy'
-  - '#covered_interest_rate_parity'
-  - '#financial_instruments'
-  - '#forward_exchange_rate'
-  - '#interest_rate_compounding'
-  - '#lehman_brothers_failure'
-  - '#no_arbitrage'
-  - '#pset_1_solution'
-  - '#synthetic_forward_position'
+  - arbitrage
+  - financial_instruments
+  - forward_contract
+  - forward_rates
+  - no_arbitrage
+aliases:
+  - PSET 1
+  - PSET 1 Solution
+key_concepts:
+  - annualized interest rate
+  - arbitrage trade
+  - buy low sell high
+  - forward exchange rate
+  - spot exchange rate
 ---
+
 ---
 
 title: PSET 1 Solution

@@ -1,12 +1,22 @@
 ---
-aliases: []
 cssclasses: academia
 title: Appendices
 tags:
-  - '#appendices'
-  - '#document_structure'
-  - '#waypoint'
+  - appendices
+  - chapters
+  - documentation
+  - overview
+  - reference
+aliases:
+  - appendix
+  - supplemental material
+key_concepts:
+  - additional details
+  - related content
+  - supplementary information
+  - supporting documents
 ---
+
 # Appendices
 
 %% Begin Waypoint %%

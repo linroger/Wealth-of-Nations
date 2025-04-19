@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#brokerage_operations'
-  - '#central_counterparties'
-  - '#clearing_and_settlement'
-  - '#dtcc'
-  - '#financial_market_utilities'
-  - '#margin_requirements'
-  - '#market_fragmentation'
-  - '#securities_trading_infrastructure'
-  - '#simfus'
-  - '#sipc'
+  - brokerage_operations
+  - financial_market_utilities
+  - price_quotation_systems
+  - securities_trading
+  - trading_infrastructure
+aliases:
+  - Chapter 3
+  - Financial Markets
+  - Market Infrastructure
+  - Securities Trading
+key_concepts:
+  - Brokerage operations
+  - Clearing and settlement
+  - Financial market utilities
+  - Price and quote systems
+  - Securities trading mechanics
 ---
+
 # Financial Market Utilities and Securities Trading Support  
 
 # 3.1 SECURITIES TRADING INFRASTRUCTURE  

@@ -1,17 +1,23 @@
 ---
 title: Option Risk
 tags:
-  - '#binomial_model'
-  - '#call_option'
-  - '#capital_asset_pricing_model_capm'
-  - '#option_beta'
-  - '#option_elasticity'
-  - '#option_risk'
-  - '#put_option'
-  - '#risk_neutral_probability'
-  - '#risk_return_diagram'
-  - '#security_market_line'
+  - binomial_model
+  - call_option
+  - elasticity
+  - option_risk
+  - volatility
+aliases:
+  - Option Risk
+  - Option Risk Notes
+  - Risk of an Option
+key_concepts:
+  - Binomial model risk
+  - Call option elasticity
+  - Expected return calculation
+  - Option risk and CAPM
+  - Stock volatility
 ---
+
 # Option Risk
 
 ### Introduction

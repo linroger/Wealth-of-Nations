@@ -3,16 +3,24 @@ title: Introduction to QuantLib Python
 source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
 description: This post will walk through some of the basics of QuantLib Python library.
 tags:
-  - '#compounding'
-  - '#date_object'
-  - '#discount_factor'
-  - '#equivalent_rate'
-  - '#implied_rate'
-  - '#interest_rate_class'
-  - '#quantlib_python'
-  - '#schedule_object'
-  - '#time_module'
+  - date_object
+  - interest_rate
+  - quantlib_python
+  - schedule_object
+  - time_module
+aliases:
+  - QL
+  - QuantLib
+  - QuantLib Python
+key_concepts:
+  - Compound factor method
+  - Date object construction
+  - Discount factor calculation
+  - InterestRate class usage
+  - QuantLib Python library
+  - Schedule object dates
 ---
+
 # Introduction to QuantLib Python
 
 This post will walk through some of the basics of QuantLib Python library.

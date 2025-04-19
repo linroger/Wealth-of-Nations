@@ -1,3 +1,22 @@
+---
+tags:
+  - forward_swaps
+  - interest_rates
+  - mbs
+  - payer_swaption
+  - swaptions
+aliases:
+  - Chapter 39
+  - Forward Swap
+  - Mortgage-Backed Securities
+  - Payer Swaption
+key_concepts:
+  - Cash market swap rates
+  - Greeks hedge fixed income
+  - Long forward swap known rate
+  - MBS and interest rate changes
+  - Payer swaption maximum swap rate
+---
 # Swaptions, Forward Swaps, and MBS  
 
 # Aims  

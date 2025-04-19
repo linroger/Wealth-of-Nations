@@ -1,16 +1,32 @@
 ---
 tags:
-  - '#margin_requirements'
-  - '#option_positions'
-  - '#option_types'
-  - '#options_clearing_corporation'
-  - '#options_markets'
-  - '#options_regulation'
-  - '#options_trading'
-  - '#stock_options'
-  - '#trading_costs'
-  - '#underlying_assets'
+  - margin_requirements
+  - option_positions
+  - options_clearing_corp
+  - options_markets
+  - options_regulation
+  - options_taxation
+  - stock_options
+  - trading_costs
+  - trading_mechanics
+  - underlying_assets
+aliases:
+  - Option Mechanics
+  - Options Markets
+  - Options Trading
+key_concepts:
+  - Margin requirements defined
+  - Option positions explained
+  - Options clearing corporation
+  - Options market regulation
+  - Options taxation overview
+  - Stock option specifications
+  - Trading costs overview
+  - Trading processes
+  - Types of options
+  - Underlying asset details
 ---
+
 # Chapter 10. Mechanics of options markets . .205  
 
 10.1 Types of options .205   

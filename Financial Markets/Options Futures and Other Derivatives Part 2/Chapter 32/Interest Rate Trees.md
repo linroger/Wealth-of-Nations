@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#binomial_trees'
-  - '#derivative_valuation'
-  - '#discounting'
-  - '#finite_difference_method'
-  - '#interest_rate_trees'
-  - '#mean_reversion'
-  - '#nonstandard_branching'
-  - '#stochastic_process'
-  - '#trinomial_trees'
+  - derivative_valuation
+  - interest_rate_trees
+  - mean_reversion
+  - short_rate
+  - trinomial_tree
+aliases:
+  - Interest Rate Tree
+  - Short Rate Model
+  - Trinomial Tree
+key_concepts:
+  - continuously compounded rates
+  - derivative payoff valuation
+  - discounting in trees
+  - discrete-time representation
+  - mean reversion incorporation
+  - stochastic process
+  - trinomial tree advantage
 ---
+
 # 32.4  INTEREST RATE TREES  
 
 An interest rate tree is a discrete-time representation of the stochastic process for the short rate in much the same way as a stock price tree is a discrete-time representation of the process followed by a stock price. If the time step on the tree is. $\Delta t$ , the rates on the. tree are the continuously compounded $\Delta t$ -period rates. The usual assumption when a. tree is constructed is that the. $\Delta t$ -period rate, $R$ , follows the same stochastic process as the instantaneous rate,. $r$ in the corresponding continuous-time model. The main. difference between interest rate trees and stock price trees is in the way that discounting. is done. In a stock price tree, the discount rate is usually assumed to be the same at each node or a function of time. In an interest rate tree, the discount rate depends on $r$ and varies from node to node..  

@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#accounting_standards'
-  - '#employee_stock_options'
-  - '#fas_123'
-  - '#ias_2'
-  - '#income_statement_impact'
-  - '#market_leveraged_stock_unit'
-  - '#restricted_stock_units'
-  - '#stock_option_alternatives'
-  - '#stock_option_valuation'
+  - accounting_issues
+  - accounting_standards
+  - employee_stock_options
+  - fas_123
+  - stock_compensation
+aliases:
+  - Accounting Issues
+  - Employee Stock Options
+key_concepts:
+  - FAS 123 accounting standard
+  - at-the-money option cost
+  - employee stock option cost
+  - expensing stock options
+  - stock-based compensation
 ---
+
 # 16.3 ACCOUNTING ISSUES  
 
 An employee stock option represents a cost to the company and a benefit to the employee just like any other form of compensation. This point, which for many is self-evident, is actually quite controversial. Many corporate executives appear to believe that an option has no value unless it is in the money. As a result, they argue that an at-the-money option issued by the company is not a cost to the company. The reality is that, if options are valuable to employees, they must represent a cost to the company's shareholders--and therefore to the company. There is no free lunch. The cost to the company of the options. arises from the fact that the company has agreed that, if its stock does well, it will sell shares to employees at a price less than that which would apply in the open market..  

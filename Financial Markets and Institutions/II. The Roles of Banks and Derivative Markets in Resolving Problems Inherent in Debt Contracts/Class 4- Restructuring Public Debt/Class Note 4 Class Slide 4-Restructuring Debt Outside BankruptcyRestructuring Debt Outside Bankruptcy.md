@@ -1,22 +1,25 @@
 ---
-aliases:
-  - Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
-    Debt]] Outside Bankruptcy.md
-  - Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
-    Debt]] Outside Bankruptcy
 title: Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
   Debt]] Outside Bankruptcy
 tags:
-  - '#bank_debt'
-  - '#bankruptcy_costs'
-  - '#covenants'
-  - '#debt_seniority'
-  - '#debt_structure'
-  - '#going_concern'
-  - '#outside_bankruptcy'
-  - '#public_debt_renegotiation'
-  - '#value_at_risk'
+  - bank_debt
+  - bankruptcy
+  - bondholders
+  - public_debt
+  - renegotiation
+aliases:
+  - Bank Debt
+  - Class Note 4
+  - Douglas W. Diamond
+  - Outside Bankruptcy
+key_concepts:
+  - Bank lending limit
+  - Bankruptcy implications
+  - Private placement debt
+  - Public debt concessions
+  - Single bank lender
 ---
+
 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]]
 
 # Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy

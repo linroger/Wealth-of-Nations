@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#consumption_based_asset_pricing'
-  - '#factor_models'
-  - '#intertemporal_capm'
-  - '#investment_opportunities'
-  - '#market_beta'
-  - '#market_price_of_risk'
-  - '#representative_individual'
-  - '#state_price_deflator'
+  - consumption_based_model
+  - factor_models
+  - intertemporal_capm
+  - market_portfolio
+  - theoretical_factors
+aliases:
+  - Intertemporal CAPM
+  - Theoretical Factors
+key_concepts:
+  - Expected excess return
+  - Market price of risk
+  - Optimal consumption plan
+  - Representative individual wealth
+  - State-price deflator dynamics
 ---
+
 # 9.7 Theoretical factors  
 
 Factor models can be obtained through the general consumption-based asset pricing model by relating optimal consumption to various factors. As discussed in Section 6.5 the optimal consumption plan of an individual with time-additive expected utility must satisfy the so-called envelope condition  

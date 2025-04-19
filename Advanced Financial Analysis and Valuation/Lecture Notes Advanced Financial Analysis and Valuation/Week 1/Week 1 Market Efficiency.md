@@ -2,20 +2,26 @@
 title: Week 1 Market Efficiency
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#10k_filings'
-  - '#alternative_data'
-  - '#arbitrage'
-  - '#fundamental_analysis'
-  - '#lazy_prices'
-  - '#market_anomalies'
-  - '#market_efficiency'
-  - '#passive_investments'
-  - '#quant_investing'
+  - arbitrage
+  - behavioral_biases
+  - fundamental_analysis
+  - market_efficiency
+  - stock_prices
+aliases:
+  - Efficient Markets
+  - Market Anomalies
+  - Market Efficiency
+key_concepts:
+  - Arbitrage and limitations
+  - Behavioral biases in markets
+  - Capital markets fair game
+  - Evidence of market efficiency
+  - Information acquisition costs
+  - Market efficiency definition
+  - Prices reflect new info
 ---
+
 # Week 1 Market Efficiency
 
 [Week 1 Introduction](Zhe/Week%201/Week%201%20Introduction.md)

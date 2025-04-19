@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#asset_price'
-  - '#binomial_model'
-  - '#discrete_time_derivatives'
-  - '#general_equilibrium_theory'
-  - '#option_pricing'
-  - '#risk_aversion'
-  - '#risk_neutral_pricing'
+  - arbitrage_free
+  - binomial_model
+  - general_equilibrium
+  - option_pricing
+  - risk_aversion
+aliases:
+  - Binomial Model
+  - Pricing Options
+  - Risk-Averse Investors
+key_concepts:
+  - Arbitrage-free price
+  - Asset price determination
+  - Binomial model derivation
+  - Option payoff discount
+  - Risk-averse investors
 ---
+
 # 6.7 PRICING OPTIONS UNDER RISK AVERSION
 
 If risk-averse investors insisted on pricing options by incorporating their risk aversion, they. should still arrive at the correct price. They would use the true probabilities,. $q$ and $1-q_{:}$ to discount the expected option payoff. Let $k_{o}$ be the discount rate of the option. For our example in which the arbitrage-free price of the option is 11.19, the option payoffs are 25 and zero, and the true probabilities are. $60\%$ and $40\%$ , the option discount rate would be found as the solution to the following:

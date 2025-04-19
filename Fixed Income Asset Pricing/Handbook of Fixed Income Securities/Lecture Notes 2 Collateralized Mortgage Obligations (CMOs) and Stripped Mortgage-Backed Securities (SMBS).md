@@ -1,20 +1,27 @@
 ---
 title: Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped Mortgage-Backed
   Securities (SMBS)
-aliases: []
 cssclasses: academia
 tags:
-  - '#cmbs_commercial_mortgage_backed_securities'
-  - '#cmo_tranches'
-  - '#collateralized_mortgage_obligations_cmo'
-  - '#covered_bonds'
-  - '#credit_card_abs'
-  - '#mortgage_backed_securities_mbs'
-  - '#nonagency_rmbs'
-  - '#option_adjusted_spread_oas'
-  - '#prepayment_speeds'
-  - '#stripped_mortgage_backed_securities_smbs'
+  - cmo
+  - mortgage_backed_securities
+  - prepayment_risk
+  - smbs
+  - structured_securities
+aliases:
+  - CMOs
+  - Collateralized Mortgage Obligations
+  - SMBS
+  - Stripped MBS
+key_concepts:
+  - 'CMOs: structured securities'
+  - 'IOs: interest only'
+  - 'PAC: stable cash flows'
+  - 'POs: principal only'
+  - 'SMBS: interest/principal split'
+  - 'Support bonds: variable cash flows'
 ---
+
 # Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped Mortgage-Backed Securities (SMBS)
 
 ## 1. Introduction to CMOs and SMBS

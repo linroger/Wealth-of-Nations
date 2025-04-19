@@ -1,20 +1,22 @@
 ---
-aliases:
-  - The Limits Of Arbitrage.md
-  - The Limits Of Arbitrage
 title: The Limits Of Arbitrage
 tags:
-  - '#agency_problem'
-  - '#arbitrage'
-  - '#capital_constraints'
-  - '#idiosyncratic_risk'
-  - '#liquidation'
-  - '#market_efficiency'
-  - '#noise_traders'
-  - '#performance_based_arbitrage'
-  - '#risk_arbitrage'
-  - '#value_glamour_anomaly'
+  - arbitrage
+  - financial_markets
+  - fundamental_values
+  - market_efficiency
+  - security_pricing
+aliases:
+  - Limits of Arbitrage
+  - Shleifer and Vishny
+key_concepts:
+  - Arbitrage effectiveness
+  - Market anomalies
+  - Professional arbitrage
+  - Security pricing implications
+  - Textbook arbitrage
 ---
+
 # The Limits Of Arbitrage
 
  ANDREI SHLEIFER and ROBERT W. VISHNY*

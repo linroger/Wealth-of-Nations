@@ -1,3 +1,23 @@
+---
+tags:
+  - binomial_tree
+  - bopm
+  - dynamic_hedging
+  - replication_portfolio
+  - risk_neutral_valuation
+aliases:
+  - BOPM Implementation
+  - Backward Recursion
+  - Binomial Option Pricing Model
+  - RNV
+  - Replication Portfolio
+key_concepts:
+  - Backward recursion
+  - Dynamic delta hedging
+  - No-arbitrage binomial pricing
+  - Replication portfolio
+  - Risk-neutral valuation
+---
 # BOPM: Implementation  
 
 # Aims  

@@ -1,20 +1,29 @@
 ---
-aliases:
-  - 
-  - 
 title: PSET 7- Kohler
 tags:
-  - '#dcf_valuation'
-  - '#enterprise_value'
-  - '#financial_modeling'
-  - '#kohler_co'
-  - '#liquidity_discount'
-  - '#minority_discount'
-  - '#private_vs_public_valuation'
-  - '#recapitalization'
-  - '#shareholder_value'
-  - '#wacc'
+  - dcf_analysis
+  - enterprise_value
+  - kohler_co
+  - private_firm_valuation
+  - recapitalization
+aliases:
+  - DCF vs Public
+  - Herbert Kohler
+  - Kohler Valuation
+  - PSET 7
+key_concepts:
+  - Availability of information
+  - Control and minority considerations
+  - DCF valuation differences
+  - Discount rate
+  - Enterprise value calculation
+  - Growth assumptions
+  - Liquidity and marketability
+  - Peer company analysis
+  - Preserving family ownership
+  - Private vs. public firms
 ---
+
 1. Why does Herbert Kohler want to do the recapitalization? Provide a brief discussion.
 	1. Herbert Kohler wants to do the recapitalization primarily to preserve family ownership and control over Kohler Co. As a private company, Kohler Co. could take a long-term perspective and make strategic investments without being subjected to public scrutiny and short-term pressures from outside shareholders. Kohler believed that the company's private status was crucial to its success and competitive advantage. The recapitalization aimed to eliminate outside shareholders by either buying out their shares or exchanging them for new restricted classes of shares that could only be transferred within the Kohler family and affiliated entities.
 	- Moreover, the recapitalization reinforced absolute family ownership, which was crucial for quick decision-making and focusing on the development of products and services.This aligns with Kohler's business strategy of maintaining healthy cash flow and pursuing steady expansion. Additionally, by controlling ownership and the structure of shareholdings, the recapitalization helped safeguard the company against potential hostile takeovers, ensuring that family governance and the legacy of the founder remained intact.

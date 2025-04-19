@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#exercising_an_option'
-  - '#in_the_money_options'
-  - '#margin_account'
-  - '#option_expiration'
-  - '#option_writers'
-  - '#options_clearing_corporation_occ'
-  - '#options_contracts'
-  - '#options_markets'
+  - exercise_option
+  - margin_account
+  - options_clearing
+  - options_contracts
+  - options_markets
+aliases:
+  - OCC
+  - Options Clearing Corp
+key_concepts:
+  - Exercising an option
+  - Guarantees options contracts
+  - Margin account with broker
+  - Options clearing corporation
+  - Options writers obligations
 ---
+
 # 10.8 THE OPTIONS CLEARING CORPORATION  
 
 The Options Clearing Corporation (OCC) performs much the same function for options markets as the clearing house does for futures markets (see Chapter 2). It guarantees that options writers will fulfill their obligations under the terms of options contracts and keeps a record of all long and short positions. The OCC has a number of members, and all option trades must be cleared through a member. If a broker is not itself a member of an exchange's OCC, it must arrange to clear its trades with a member. Members are required to have a certain minimum amount of capital and to contribute to a special fund that can be used if any member defaults on an option obligation.  

@@ -1,15 +1,30 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#derivatives'
-  - '#exchange_traded_derivatives'
-  - '#financial_crisis_2008'
-  - '#financial_markets'
-  - '#hedging'
-  - '#over_the_counter_market'
-  - '#risk_management'
-  - '#speculation'
+  - derivatives_mishaps
+  - financial_institutions
+  - hedge_funds
+  - liquidity_crisis
+  - nonfinancial_corporations
+  - option_pricing
+  - systemic_risk
+  - yield_curve
+aliases:
+  - Derivatives Failures
+  - Derivatives Lessons
+  - Mishaps Analysis
+key_concepts:
+  - Derivatives use and pricing
+  - Financial institution losses
+  - Hedge fund losses
+  - Lehman bankruptcy
+  - Lessons for derivatives users
+  - Liquidity and crisis
+  - Nonfinancial org losses
+  - Put-call parity
+  - Systemic risk
+  - Yield curve plays
 ---
+
 # Chapter 37. Derivatives mishaps and what we can learn from them . .. 793  
 
 37.1 Lessons for all users of derivatives .793   

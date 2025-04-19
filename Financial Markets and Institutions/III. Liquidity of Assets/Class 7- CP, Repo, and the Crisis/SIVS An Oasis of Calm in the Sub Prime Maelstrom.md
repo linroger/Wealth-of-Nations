@@ -1,21 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - SIVS An Oasis of Calm in the Sub Prime Maelstrom.md
-  - SIVS An Oasis of Calm in the Sub Prime Maelstrom
 title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 tags:
-  - '#asset_liability_maturity_gaps'
-  - '#cdos_of_abs'
-  - '#mark_to_market'
-  - '#moodys_ratings'
-  - '#nav'
-  - '#rmbs'
-  - '#sivs'
-  - '#structured_investment_vehicles'
-  - '#sub_prime_mortgages'
+  - cdos
+  - rmbs
+  - sivs
+  - structured_finance
+  - subprime_mortgages
+aliases:
+  - SIV-lite
+  - SIVs
+  - Structured Investment Vehicles
+key_concepts:
+  - Aaa-rated assets
+  - CDOs of ABS
+  - RMBS exposure
+  - high-grade structured credit
+  - mark-to-market procedures
+  - maturity transformation
 ---
+
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom
 
 Table of Contents

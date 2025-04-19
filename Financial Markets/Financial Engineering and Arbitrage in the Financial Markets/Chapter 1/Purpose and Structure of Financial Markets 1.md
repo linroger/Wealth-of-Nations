@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#financial_institutions'
-  - '#financial_markets'
-  - '#hedgers_vs_speculators'
-  - '#market_players'
-  - '#primary_markets'
-  - '#risk_sharing'
-  - '#secondary_markets'
+  - arbitrage
+  - financial_institutions
+  - financial_markets
+  - market_players
+  - market_structure
+  - risk_sharing
+aliases:
+  - Financial Markets
+  - Financial Markets 1
+  - Market Structure
+  - Risk Sharing
+key_concepts:
+  - Arbitrage strategies
+  - Financial intermediaries
+  - Financial market overview
+  - Hedgers vs. speculators
+  - Market transactional structure
+  - Primary and secondary markets
+  - Risk sharing mechanisms
 ---
+
 # 1 Purpose and Structure of Financial Markets 1  
 
 1.1 Overview of Financial Markets 1   

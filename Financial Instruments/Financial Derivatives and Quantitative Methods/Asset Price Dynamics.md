@@ -1,16 +1,25 @@
 ---
 title: Asset Price Dynamics
 tags:
-  - '#asset_price_dynamics'
-  - '#continuous_compounding'
-  - '#efficient_markets_hypothesis'
-  - '#forward_price'
-  - '#geometric_brownian_motion'
-  - '#ito_calculus'
-  - '#lognormal_distribution'
-  - '#stochastic_process'
-  - '#wiener_process'
+  - asset_price_dynamics
+  - continuous_compounding
+  - efficient_markets
+  - geometric_brownian_motion
+  - rates_of_return
+  - stochastic_processes
+aliases:
+  - Asset Pricing
+  - Returns Analysis
+  - Stochastic Modeling
+key_concepts:
+  - Asset price returns
+  - Compounded rates of return
+  - Continuous time processes
+  - Efficient market hypothesis
+  - Geometric Brownian motion
+  - Rate of return calculation
 ---
+
 # Asset Price Dynamics
 
 ### Introduction

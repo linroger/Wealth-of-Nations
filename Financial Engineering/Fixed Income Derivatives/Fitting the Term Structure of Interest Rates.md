@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#boundary_conditions'
-  - '#cubic_spline_methodology'
-  - '#forward_rates'
-  - '#gaussian_elimination'
-  - '#node_points'
-  - '#spline_interpolation'
-  - '#term_structure_interest_rates'
-  - '#yield_curve_fitting'
-  - '#zero_coupon_curve'
+  - cubic_spline
+  - curve_fitting
+  - interest_rates
+  - market_practitioners
+  - term_structure
+aliases:
+  - Cubic Spline Implementation
+  - Fitting Interest Rates
+  - Term Structure Modeling
+key_concepts:
+  - cubic spline method
+  - fitting discount function
+  - market practitioners valuation
+  - parametric vs spline methods
+  - term structure interest rates
 ---
+
 # [[1. DeterministicCashFlows#3 The Term Structure Of Interest Rates|Fitting the Term Structure of Interest Rates]]
 # [[1. DeterministicCashFlows#3 The Term Structure Of Interest Rates|Fitting the Term Structure of Interest Rates]]: The Practical Implementation  of  Cubic Spline Methodology
 # INTRODUCTION

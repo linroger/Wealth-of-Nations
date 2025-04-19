@@ -1,12 +1,23 @@
 ---
 tags:
-  - '#ad_hoc_synthetics'
-  - '#dynamic_replication'
-  - '#dynamic_replication_principles'
-  - '#real_life_complications'
-  - '#static_replication'
-  - '#synthetics_engineering'
+  - ad_hoc_synthetics
+  - chapter_8
+  - dynamic_replication
+  - real_life_complications
+  - synthetics_engineering
+aliases:
+  - Chapter 8
+  - Dynamic Replication
+  - Replication Methods
+  - Synthetics
+key_concepts:
+  - Ad hoc synthetics
+  - Dynamic replication principles
+  - Important conditions
+  - Real-life complications
+  - Static replication review
 ---
+
 # CHAPTER 8 Dynamic Replication Methods and Synthetics Engineering .... 237  
 
 8.1 Introduction. 238   

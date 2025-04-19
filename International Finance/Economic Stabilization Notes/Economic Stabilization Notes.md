@@ -1,9 +1,23 @@
 ---
 title: Economic Stabilization Notes
 tags:
-  - '#economic_stabilization'
-  - '#waypoint'
+  - economic_policy
+  - economic_stabilization
+  - financial_crisis
+  - government_intervention
+  - recession
+aliases:
+  - Economic Notes
+  - Economic Stabilization
+  - Stabilization
+key_concepts:
+  - Economic downturn
+  - Economic stabilization
+  - Financial crisis
+  - Government policy
+  - Policy responses
 ---
+
 # Economic Stabilization Notes
 
 %% Begin Waypoint %%

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#american_put_pricing'
-  - '#compound_option'
-  - '#european_put'
-  - '#exercise_value'
-  - '#free_boundary_problem'
-  - '#geometric_brownian_motion'
-  - '#geske_johnson_model'
-  - '#partial_differential_equation'
+  - american_put
+  - european_put
+  - free_boundary_problem
+  - geometric_brownian_motion
+  - partial_differential_equation
+aliases:
+  - American Put Pricing
+  - Compound Option Formula
+  - Geske and Johnson Solution
+key_concepts:
+  - American put pricing problem
+  - Compound option formula
+  - Free boundary condition
+  - Geometric Brownian motion model
+  - Partial differential equation (PDE)
 ---
+
 # 20.1 THE NATURE OF THE PROBLEM OF PRICING AN AMERICAN PUT
 
 Based on geometric Brownian motion, the price of an American put follows the partial differential equation,

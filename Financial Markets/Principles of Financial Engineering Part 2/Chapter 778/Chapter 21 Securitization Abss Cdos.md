@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage_opportunities'
-  - '#collateralized_debt_obligations_cdos'
-  - '#credit_derivatives'
-  - '#credit_linked_notes_clns'
-  - '#default_correlation'
-  - '#default_swaps'
-  - '#hedging_strategies'
-  - '#synthetic_corporate_bonds'
-  - '#trigger_intensity_model'
+  - abs_cdos
+  - cdo_pricing
+  - credit_derivatives
+  - credit_linked_notes
+  - interest_rate_swaps
+aliases:
+  - CDOs
+  - CLNs
+  - Chapter 21
+  - Securitization
+key_concepts:
+  - CDO tranches trading
+  - Credit spread calculation
+  - Standard tranche
+  - Trigger intensity model
+  - iTraxx index
 ---
+
 # 778 CHAPTER 21 SECURITIZATION, ABSs, CDOs  
 
 a.What is the iTraxx index?   

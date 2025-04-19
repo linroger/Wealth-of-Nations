@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#counterparty_risk'
-  - '#dv01_swap'
-  - '#euribor_swap'
-  - '#fixed_for_floating_swaps'
-  - '#interest_rate_risk'
-  - '#irs_market'
-  - '#net_present_value_npv'
-  - '#sofr_swap'
-  - '#swap_valuation'
-  - '#unwinding_irs_risk'
+  - euribor_swap
+  - fixed_floating_swaps
+  - floating_leg
+  - irs_cash_flows
+  - reset_dates
+  - sofr_swap
+aliases:
+  - IRS Analytics
+  - OIS vs. Fixed-for-Floating Swaps
+key_concepts:
+  - Euribor swap valuation
+  - Floating leg valuation
+  - Floating vs. fixed swaps
+  - Reset date valuation
+  - SOFR swap cash flows
 ---
+
 # 13.2 IRS CASH FLOWS AND ANALYTICS  
 
 Chapter 2 describes the cash flows and pricing of a SOFR swap, and Chapter 12 explains the difference between borrowing or lending at rolling overnight rates versus term rates. This section builds on those foundations.  

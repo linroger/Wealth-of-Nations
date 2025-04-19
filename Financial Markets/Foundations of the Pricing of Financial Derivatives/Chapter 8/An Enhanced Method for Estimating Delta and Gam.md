@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#delta_estimation'
-  - '#enhanced_method'
-  - '#gamma_estimation'
-  - '#greeks'
-  - '#option_pricing'
-  - '#theta'
-  - '#vega_rho'
+  - binomial_tree
+  - delta_estimation
+  - gamma_estimation
+  - greeks
+  - option_pricing
+aliases:
+  - Enhanced Greeks Method
+key_concepts:
+  - Binomial tree modification
+  - Delta calculation
+  - Gamma calculation
+  - Theta calculation
+  - Vega and Rho
 ---
+
 # 8.2 AN ENHANCED METHOD FOR ESTIMATING DELTA AND GAMMA
 
 Because delta and gamma should technically be measured without a change in time, a modified method of fiting the binomial tree can be used to achieve this property. Suppose we wish to fit a binomial tree with. $N$ time steps. With this modification we fit the tree. with $N+2$ time steps and position the current asset price in the middle of the second time step, in the following manner. In our example in the previous section, we assess the Greeks assuming we are at point in time 2 with one up move. Figure 8.2 illustrates the binomial tree for a call where the shade indicates actual potential paths for the current stock price $(S u d)$

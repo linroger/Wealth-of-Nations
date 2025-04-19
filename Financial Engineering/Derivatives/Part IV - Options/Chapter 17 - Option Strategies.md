@@ -1,3 +1,30 @@
+---
+tags:
+  - bear_spreads
+  - bull_spreads
+  - butterfly_spreads
+  - condors
+  - financial_engineering
+  - option_strategies
+  - straddles
+  - strangles
+  - volatility_strategies
+aliases:
+  - Call Premium
+  - Option Payoffs
+  - Put Premium
+  - Structured Products
+  - Synthetic Securities
+key_concepts:
+  - Bull and bear spreads
+  - Combine options for payoffs
+  - Forecasting stock prices
+  - Long call payoff
+  - Long put payoff
+  - Short call payoff
+  - Short put payoff
+  - Volatility strategies
+---
 # Option Strategies  
 
 # Aims  

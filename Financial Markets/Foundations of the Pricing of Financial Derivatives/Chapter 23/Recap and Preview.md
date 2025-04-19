@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#antithetic_variate_method'
-  - '#black_scholes_merton'
-  - '#correlated_random_variables'
-  - '#european_options'
-  - '#finite_difference_method'
-  - '#geometric_brownian_motion'
-  - '#monte_carlo_simulation'
-  - '#option_pricing'
-  - '#standard_error_reduction'
+  - antithetic_variate_method
+  - black_scholes_merton
+  - finite_difference_method
+  - geometric_brownian_motion
+  - monte_carlo_simulation
+aliases:
+  - ABM
+  - GBM
+  - Monte Carlo
+  - Preview
+  - Recap
+key_concepts:
+  - Antithetic variate method
+  - Finite difference method
+  - Monte Carlo method
+  - Option payoff averaging
+  - Standard normal variables
 ---
+
 # 23.4 RECAP AND PREVIEW
 
 In this chapter, we examined the method of Monte Carlo simulation, which can be used to price options by generating a large sample of outcomes for the underlying, calculating

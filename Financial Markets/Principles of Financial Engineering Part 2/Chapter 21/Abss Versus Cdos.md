@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#abs_securitization'
-  - '#cdo_structure'
-  - '#correlation_trading'
-  - '#credit_default_swap_cds'
-  - '#credit_indices'
-  - '#financial_engineering'
-  - '#gfc_impact'
-  - '#synthetic_cdos'
-  - '#tranches'
+  - abs_cdos
+  - credit_indices
+  - financial_engineering
+  - fixed_income
+  - securitization
+aliases:
+  - ABS versus CDOs
+  - ABS vs CDOs
+key_concepts:
+  - ABS and securitization
+  - Better diversification
+  - CDO tranches
+  - Complex ready-made portfolios
+  - Hybrid asset creation
+  - Reduce funding costs
 ---
+
 # 21.3 ABSs VERSUS CDOs  
 
 This chapter introduces financial engineering applications that relate to ABSs and securitization. It turns out that securitization and hybrid asset creation are similar procedures with different objectives. From the issuer's point of view, one is a solution to balance sheet problems and it helps to reduce funding costs. From an investor's point of view, securitization gives access to payoffs the investor had no access to before and provides opportunities for better diversification. Hybrid assets, on the other hand, can be regarded as complex, ready-made portfolios.  

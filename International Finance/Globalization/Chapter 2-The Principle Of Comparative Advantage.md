@@ -2,22 +2,25 @@
 cssclasses:
   - academia
 title: Chapter 2-The Principle Of Comparative Advantage
-aliases:
-  - Comparative Advantage
-  - GLOBALIZATION-CHAPTER 2 THE PRINCIPLE OF COMPARATIVE ADVANTAGE
 linter-yaml-title-alias: GLOBALIZATION-CHAPTER 2 THE PRINCIPLE OF COMPARATIVE ADVANTAGE
 tags:
-  - '#comparative_advantage'
-  - '#globalization'
-  - '#international_trade'
-  - '#law_of_one_price'
-  - '#opportunity_cost'
-  - '#production_possibility_frontier'
-  - '#revealed_comparative_advantage'
-  - '#ricardian_model'
-  - '#trade_imbalance'
-  - '#unit_labor_requirement'
+  - comparative_advantage
+  - globalization
+  - opportunity_costs
+  - ricardian_model
+  - trade
+aliases:
+  - David Ricardo
+  - International Trade
+  - Principle of Comparative Advantage
+key_concepts:
+  - Comparative advantage benefits trade
+  - Labor mobility assumptions
+  - Production possibility frontier
+  - Relative world price
+  - Unit labor requirements
 ---
+
 # Chapter 2-The Principle Of Comparative Advantage
 
 [[Chapter 2-The Principle Of Comparative Advantage|Comparative Advantage]]

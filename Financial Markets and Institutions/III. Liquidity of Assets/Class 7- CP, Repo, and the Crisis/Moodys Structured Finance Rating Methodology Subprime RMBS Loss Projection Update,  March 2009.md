@@ -1,22 +1,24 @@
 ---
-aliases:
-  - Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March
-    2009
-  - Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March
-    2009. md
 title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
   Update,  March 2009
 tags:
-  - '#collateral_based_delinquency'
-  - '#default_rates'
-  - '#homeowner_affordability_and_stability_plan'
-  - '#loss_projections'
-  - '#loss_severity'
-  - '#moodys_rating'
-  - '#mortgage_performance'
-  - '#subprime_rmbs'
-  - '#vintage_analysis'
+  - 2007_financial_crisis
+  - loss_projections
+  - mortgage_performance
+  - rmbs
+  - subprime_mortgages
+aliases:
+  - Loss Projection Update
+  - Moody's Report
+  - Subprime RMBS
+key_concepts:
+  - Delinquency projection methodology
+  - Homeowner Affordability Plan
+  - Recent vintage subprime pools
+  - Subprime RMBS loss projections
+  - Updated loss projection results
 ---
+
 # Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 
 ## Contents - Summary

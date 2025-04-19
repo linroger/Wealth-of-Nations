@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#barrier_options'
-  - '#binomial_method'
-  - '#black_scholes_theory'
-  - '#dynamic_hedging'
-  - '#exotic_options'
-  - '#hedging_strategies'
-  - '#options_valuation'
-  - '#replicating_portfolio'
-  - '#static_options_replication'
+  - goldman_sachs
+  - hedging_strategies
+  - option_replication
+  - options_pricing
+  - quantitative_finance
+aliases:
+  - Derman, Ergener, Kani
+  - Option Replication
+  - Static Replication
+key_concepts:
+  - Fixed portfolio weights
+  - Option hedging method
+  - Option pricing models
+  - Replicating option portfolio
+  - Standard option portfolio
 ---
+
 # Quantitative Strategies Research Notes  
 
 # Static Options Replication  

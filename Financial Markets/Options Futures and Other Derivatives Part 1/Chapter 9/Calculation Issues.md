@@ -1,16 +1,28 @@
 ---
 tags:
-  - '#counterparty_credit_risk'
-  - '#cva'
-  - '#derivatives_pricing'
-  - '#dva'
-  - '#fva'
-  - '#kva'
-  - '#machine_learning'
-  - '#mva'
-  - '#netting'
-  - '#xva_calculations'
+  - calculation_issues
+  - cva
+  - dva
+  - fva
+  - kva
+  - machine_learning
+  - monte_carlo
+  - mva
+  - xva
+aliases:
+  - Calculation Problems
+  - Credit Valuation Adjustment
+  - Debt Valuation Adjustment
+  - Funding Valuation Adjustment
+  - XVA Calculations
+key_concepts:
+  - CVA, DVA, FVA, MVA, KVA
+  - Computationally time-consuming XVA calculations
+  - Incremental FVA calculation
+  - Machine learning for XVAs
+  - Netting impact on CVA/DVA
 ---
+
 # 9.4 CALCULATION ISSUES  
 
 All of the XVAs are computationally time-consuming to calculate. Monte Carlo. simulations are necessary to determine expected credit exposures, expected funding costs, and expected capital requirements at future times. CVA is often actively managed. by banks. They sometimes buy protection against their counterparties defaulting using. credit default swaps (see Section 7.12 and Chapter 25) or similar instruments. This reduces their expected losses from defaults.  

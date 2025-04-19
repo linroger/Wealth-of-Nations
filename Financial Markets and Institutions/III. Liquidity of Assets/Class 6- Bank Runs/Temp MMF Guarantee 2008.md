@@ -1,22 +1,24 @@
 ---
-aliases:
-  - Temp MMF Guarantee 2008
-  - Temporary Guarantee Program For Money Funds
-  - Temp MMF Guarantee 2008. md
 linter-yaml-title-alias: Temporary Guarantee Program For Money Funds
 title: Temporary Guarantee Program For Money Funds
 tags:
-  - '#disclosure_requirements'
-  - '#eligible_funds'
-  - '#fund_liquidation'
-  - '#guarantee_event'
-  - '#guarantee_payment'
-  - '#nav_support_agreement'
-  - '#premium_payments'
-  - '#program_extension'
-  - '#temp_mmf_guarantee_2008'
-  - '#treasury_guarantee_program'
+  - fund_liquidation
+  - guarantee_event
+  - mmf
+  - temporary_guarantee_program
+  - us_treasury
+aliases:
+  - Guarantee Program
+  - Temp MMF Guarantee
+  - Temporary Guarantee Program
+key_concepts:
+  - Board findings
+  - Fund liquidation required
+  - Guarantee event triggers
+  - Guarantee payment process
+  - MMF stable NAV
 ---
+
 # Temp MMF Guarantee 2008
 
 FROM THE INVESTMENT MANAGEMENT PRACTICE GROUP

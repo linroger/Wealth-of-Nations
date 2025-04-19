@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#american_options'
-  - '#call_options'
-  - '#european_options'
-  - '#exercise_price'
-  - '#foreign_currency_options'
-  - '#option_exercise'
-  - '#option_payoffs'
-  - '#option_pricing'
-  - '#option_valuation'
-  - '#put_options'
+  - american_options
+  - european_options
+  - foreign_currency
+  - option_boundaries
+  - option_payoffs
+  - option_pricing
+aliases:
+  - FX options
+  - currency options
+  - option valuation
+key_concepts:
+  - European vs American options
+  - Exercise price
+  - Option boundaries and limits
+  - Option exercise
+  - Option payoffs
 ---
+
 # CHAPTER 32 Pricing Foreign Currency Options
 
 555

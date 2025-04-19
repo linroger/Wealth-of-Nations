@@ -1,17 +1,23 @@
 ---
 title: Macroeconomic Models of Business Cycles
 tags:
-  - '#aggregate_demand'
-  - '#aggregate_supply'
-  - '#business_cycles'
-  - '#consumer_durables'
-  - '#consumption_smoothing'
-  - '#inflation_expectations'
-  - '#is_curve'
-  - '#macroeconomic_models'
-  - '#monetary_policy'
-  - '#real_interest_rate'
+  - aggregate_demand
+  - business_cycles
+  - is_curve
+  - macroeconomic_models
+  - real_interest_rate
+aliases:
+  - IS curve
+  - business cycle models
+  - consumption smoothing
+key_concepts:
+  - aggregate demand
+  - consumer durables
+  - consumption smoothing
+  - ex ante real interest
+  - real interest rate
 ---
+
 ### Macroeconomic Models of Business Cycles
 
 Aggregate Demand

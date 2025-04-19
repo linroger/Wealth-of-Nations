@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#butterfly_trade'
-  - '#dv01'
-  - '#hedging_strategy'
-  - '#regression_coefficients'
-  - '#risk_weights'
-  - '#treasury_bonds'
-  - '#two_variable_regression_hedging'
-  - '#yield_curve'
+  - bond_yields
+  - butterfly_strategy
+  - regression_hedging
+  - relative_value_trade
+  - term_structure
+aliases:
+  - Regression hedging
+  - Two-variable hedging
+key_concepts:
+  - Butterfly trade
+  - Hedging face amounts
+  - Relative value trader
+  - Term structure correlation
+  - Two-variable regression hedging
 ---
+
 # 6.2 TWO-VARIABLE REGRESSION HEDGING  
 
 The hedging approaches of Chapter 5 generalize those of Chapter 4 to. account for the fact that rates across the term structure are not perfectly correlated. Similarly, two-variable regression hedges account for the fact. that changes in a bond's yield might be better explained by changes in the yields of two other bonds, rather than just one, as in a one-variable. regression.  

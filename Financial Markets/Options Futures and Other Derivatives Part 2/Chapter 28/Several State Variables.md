@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#arbitrage_pricing_theory'
-  - '#capital_asset_pricing_model_capm'
-  - '#excess_return'
-  - '#expected_return'
-  - '#ito_lemma'
-  - '#market_price_of_risk'
-  - '#nonsystematic_risk'
-  - '#stochastic_processes'
-  - '#systematic_risk'
+  - arbitrage_pricing_theory
+  - capm
+  - ito_lemma
+  - market_price_of_risk
+  - state_variables
+aliases:
+  - Ito's Lemma
+  - Several Variables
+  - State Variable
+key_concepts:
+  - Ito's lemma
+  - Wiener processes
+  - arbitrage pricing theory
+  - capital asset pricing model
+  - excess return
+  - expected return
+  - market price of risk
+  - nonsystematic risk
+  - stochastic processes
+  - systematic risk
 ---
+
 # 28.2  SEVERAL STATE VARIABLES  
 
 Suppose that $n$ variables, $\theta_{1},\theta_{2},\ldots.\theta_{n}$ , follow stochastic processes of the form  

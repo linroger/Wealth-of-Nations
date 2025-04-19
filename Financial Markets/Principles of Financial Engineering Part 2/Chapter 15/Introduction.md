@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#delta_hedging'
-  - '#option_strategies'
-  - '#payoff_function'
-  - '#variance_swaps'
-  - '#vega'
-  - '#volatility_instruments'
-  - '#volatility_risk'
-  - '#volatility_swaps'
+  - option_strategies
+  - payoff_functions
+  - variance_swaps
+  - volatility_swaps
+  - volatility_trades
+aliases:
+  - Introduction to Volatility
+  - Pure Volatility Instruments
+key_concepts:
+  - Classical option strategy drawbacks
+  - Variance and volatility swaps
+  - Variance vs. volatility
+  - Volatility risk for practitioners
+  - Volatility trades, instruments
 ---
+
 # 15.1 INTRODUCTION  
 
 Liquid instruments that involve pure volatility trades are potentially very useful for market participants who have natural exposure to various volatilities in their balance sheet or trading book. The classical option strategies discussed in Chapter 11 have serious drawbacks in this respect. When a trader takes a position or hedges a risk, he or she expects that the random movements of the underlying would have a known effect on the position. The underlying may be random, but the payoff function of a well-defined contract or a position has to be known. Payoff functions of most classical volatility strategies are not invariant to underlying risks, and most volatility instruments turn out to be imperfect tools for isolating this risk. Even when traders' anticipations come true, the trader may realize that the underlying volatility payoff functions have changed due to movements in other variables. Hence, classical volatility strategies cannot provide satisfactory hedges for volatility exposures. The reason for this and possible solutions are the topics of this chapter..  

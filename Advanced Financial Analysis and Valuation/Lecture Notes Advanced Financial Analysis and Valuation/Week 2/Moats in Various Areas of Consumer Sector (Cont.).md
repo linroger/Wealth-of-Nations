@@ -2,21 +2,23 @@
 title: Moats in Various Areas of Consumer Sector (Cont.)
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#competitive_analysis'
-  - '#dollar_general_case'
-  - '#e_commerce_impact'
-  - '#financial_shenanigans'
-  - '#kpi_retail'
-  - '#retail_industry_analysis'
-  - '#revenue_forecasting'
-  - '#same_store_sales'
-  - '#unit_economics'
-  - '#value_drivers_retail'
+  - competitive_analysis
+  - porter_five_forces
+  - pricing_analysis
+  - retail_industry_analysis
+  - revenue_forecasting
+aliases:
+  - Global Firms Valuation
+  - Retail Competitive Analysis
+key_concepts:
+  - Competitive rivalry in food
+  - Pricing analysis competitors
+  - Retail industry analysis
+  - Revenue forecasting methods
+  - Value drivers in retail
 ---
+
 [Week 2 Retail](Zhe/Week%202/Week%202%20Retail.md)
 
 [Week 2 Fundamentals Of Forecasting](Zhe/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)

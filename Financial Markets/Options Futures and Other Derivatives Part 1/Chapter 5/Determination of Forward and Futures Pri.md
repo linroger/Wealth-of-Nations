@@ -1,16 +1,27 @@
 ---
 tags:
-  - '#commodities_futures'
-  - '#consumption_assets'
-  - '#cost_of_carry'
-  - '#forward_contracts'
-  - '#forward_prices'
-  - '#futures_contracts'
-  - '#futures_prices'
-  - '#investment_assets'
-  - '#short_selling'
-  - '#stock_indices'
+  - consumption_assets
+  - cost_of_carry
+  - delivery_options
+  - forward_prices
+  - futures_prices
+  - investment_assets
+aliases:
+  - Chapter 5
+  - Forward and Futures Pricing
+key_concepts:
+  - Delivery Options
+  - Forward Price Calculation
+  - Futures on Commodities
+  - Futures on Currencies
+  - Futures on Stock Indices
+  - Futures vs. Forward Prices
+  - Investment vs. Consumption Assets
+  - Known Income and Yield
+  - Short Selling
+  - Valuing Forward Contracts
 ---
+
 # Chapter 5. Determination of forward and futures prices . .102  
 
 5.1 Investment assets vs. consumption assets .102   

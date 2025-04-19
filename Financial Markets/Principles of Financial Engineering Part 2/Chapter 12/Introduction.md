@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#asset_pricing_models'
-  - '#complete_markets'
-  - '#financial_engineering'
-  - '#fundamental_theorem_of_asset_pricing'
-  - '#hedging'
-  - '#martingale_approach'
-  - '#risk_management'
-  - '#risk_neutral_pricing'
-  - '#risk_premia'
-  - '#synthetic_asset_creation'
+  - asset_pricing
+  - financial_engineering
+  - martingale_approach
+  - risk_neutral_pricing
+  - risk_premia
+aliases:
+  - Introduction to Asset Pricing
+  - Pricing Methodology
+key_concepts:
+  - asset pricing models
+  - risk premia
+  - risk-neutral environment
+  - subjective preferences
+  - volatility of cash flows
 ---
+
 # 12.1 INTRODUCTION  
 
 We have thus far proceeded without a discussion of asset pricing models and the tools associated. with them, as financial engineering has many important dimensions besides pricing. In this chapter,. we will discuss models of asset pricing, albeit in a very simple context. A summary chapter on pricing tools would unify some of the previous topics and show the subtle connections between them. The discussion will approach the issue using a framework that is a natural extension of the. financial engineering logic utilized thus far.  

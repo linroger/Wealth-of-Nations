@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#asset_backed_securitisation'
-  - '#collateralised_debt_obligations'
-  - '#credit_derivatives'
-  - '#credit_risk_transfer'
-  - '#islamic_finance'
-  - '#mortgage_backed_securitisation'
-  - '#pfandbrief'
-  - '#risk_management'
-  - '#securitization'
-  - '#structured_finance'
+  - asset_backed_securitization
+  - collateralized_debt_obligation
+  - credit_risk_transfer
+  - mortgage_backed_securitization
+  - structured_finance
+aliases:
+  - Andy Jobst
+  - IMF
+  - Primer
+  - Structured Finance
+key_concepts:
+  - Asset-backed securitization
+  - Collateralized debt obligations
+  - Credit risk transfer
+  - Mortgage-backed securitization
+  - Structured finance definition
 ---
+
 # A primer on structured finance  
 
 International Monetary Fund (IMF), Monetary and Capital Markets Department (MCM), 700 19th Street, NW, Washington DC 20431, USA. Tel. +1 202 623 6362, Fax: +1 202 589 6362, E-mail: ajobst@imf.org  

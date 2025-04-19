@@ -1,3 +1,29 @@
+---
+tags:
+  - black_scholes_model
+  - delta_hedging
+  - european_options
+  - implied_volatility
+  - option_premium
+  - option_prices
+  - option_pricing
+  - stock_price
+  - strike_price
+  - time_to_maturity
+aliases:
+  - BSM
+  - Black-Scholes
+  - Option Pricing Model
+key_concepts:
+  - Delta hedging
+  - European call/put prices
+  - Implied volatility
+  - Option premium
+  - Option price determinants
+  - Stock price
+  - Strike price
+  - Time to expiration
+---
 # Black–Scholes Model  
 
 # Aims  

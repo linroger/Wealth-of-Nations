@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#barrier_options'
-  - '#black_scholes_model'
-  - '#continuous_monitoring'
-  - '#discrete_monitoring'
-  - '#down_and_in_options'
-  - '#option_pricing'
-  - '#path_dependent_payoff'
-  - '#risk_neutral_valuation'
+  - barrier_options
+  - black_scholes
+  - exotic_options
+  - option_pricing
+  - path_dependent
+aliases:
+  - Barrier Option Pricing
+  - Knock-in Options
+  - Knock-out Options
+key_concepts:
+  - Advantages for buyer/writer
+  - Analytical pricing solution
+  - Barrier option properties
+  - Continuous vs discrete monitoring
+  - Option valuation techniques
 ---
+
 # [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]
 
 ## [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]:  Pricing Path-Dependent single Barrier Option contracts

@@ -1,16 +1,34 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#barrier_options'
-  - '#binary_options'
-  - '#convexity'
-  - '#interest_rate_swaps'
-  - '#libor_in_arrears'
-  - '#long_bonds'
-  - '#option_strategies'
-  - '#volatility_based_strategies'
-  - '#yield_curve'
+  - arbitrage
+  - bond_pricing
+  - convexity
+  - fixed_income
+  - futures
+  - hedging
+  - libor
+  - quanto
+  - term_structure
+  - yield_curve
+aliases:
+  - Bond Convexity
+  - Conclusions
+  - Convexity Gains
+  - Delta Hedging
+  - Quanto Instruments
+key_concepts:
+  - Convexity gains
+  - Convexity gains from bonds
+  - Covariance between risks
+  - Eurodollar contract
+  - Fixed income and convexity
+  - Interest rate changes
+  - Pricing equations and risk factors
+  - Replicating portfolios and weights
+  - Term structure models
+  - Zero-cost portfolio
 ---
+
 # 10.6 CONCLUSIONS  
 
 Pricing equations depends on one or more risk factors. When the pricing functions are nonlinear,. replicating portfolios that use linear assets with periodically adjusted weights will lead to positive or negative cash flows during the hedging process. If the underlying volatilities and correlations are significant, trading gains from these may exceed the transaction costs implied by periodic rebalan-. cing, and the underlying nonlinearity can be traded.  

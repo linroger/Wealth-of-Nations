@@ -1,19 +1,28 @@
 ---
-aliases: []
 cssclasses: academia
 title: Financial Instruments
 tags:
-  - '#american_options'
-  - '#asian_options'
-  - '#barrier_options'
-  - '#delta_hedging'
-  - '#exotic_options'
-  - '#one_period_binomial_model'
-  - '#option_elasticity'
-  - '#risk_neutral_valuation'
-  - '#synthetic_options'
-  - '#two_period_binomial_model'
+  - binomial_model
+  - delta_hedging
+  - financial_instruments
+  - option_pricing
+  - replication
+  - risk_neutral_valuation
+  - synthetic_options
+aliases:
+  - Binomial Option Pricing
+  - Delta Hedging Example
+  - Financial Instruments Notes
+key_concepts:
+  - Call option payoff
+  - Delta hedging
+  - One period binomial model
+  - Risk-free rate of return
+  - Risk-neutral probabilities
+  - Synthetic option creation
+  - Underlying security price
 ---
+
 # Financial Instruments
 
 # One Period Binomial Model

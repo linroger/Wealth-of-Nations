@@ -1,17 +1,23 @@
 ---
-aliases:
-  - T₁ Binominal Model
 title: The T₁ -period Binomial Model
 tags:
-  - '#arithmetic_mean'
-  - '#binomial_model'
-  - '#call_option_pricing'
-  - '#geometric_mean'
-  - '#multi_period_model'
-  - '#replicating_portfolio'
-  - '#risk_neutral_valuation'
-  - '#variance_of_return'
+  - binomial_model
+  - derivatives
+  - hull_chapter_11
+  - option_pricing
+  - risk_neutral_valuation
+aliases:
+  - T1 model
+  - binomial tree model
+  - multi-period binomial model
+key_concepts:
+  - Binomial coefficients
+  - Delta hedging
+  - Risk-neutral probability
+  - Synthetic options
+  - Two-period binomial model
 ---
+
 # The T₁ -period Binomial Model
 
 ### Introduction

@@ -1,22 +1,25 @@
 ---
 Owner: RRoger Lin
-aliases:
-  - 
-  - 
-  - THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 tags:
-  - '#american_options'
-  - '#black_scholes_model'
-  - '#bond_valuation'
-  - '#capital_asset_pricing_model'
-  - '#corporate_liabilities'
-  - '#default_risk'
-  - '#european_options'
-  - '#option_pricing'
-  - '#warrant_valuation'
+  - american_option
+  - black_scholes_model
+  - corporate_liabilities
+  - european_option
+  - option_pricing
+aliases:
+  - Black-Scholes
+  - Corporate Debt
+  - Option Pricing
+key_concepts:
+  - American vs European options
+  - Call option definition
+  - Exercise price and expiration
+  - Option valuation formula
+  - Option volatility analysis
 ---
+
 # The Pricing of Options and Corporate Liabilities
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
 	- [[Binomial Option Pricing]]

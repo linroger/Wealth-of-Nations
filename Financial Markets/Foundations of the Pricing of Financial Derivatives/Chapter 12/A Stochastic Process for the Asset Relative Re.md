@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_relative_return'
-  - '#central_limit_theorem'
-  - '#geometric_brownian_motion'
-  - '#ito_lemma'
-  - '#log_return'
-  - '#lognormally_distributed'
-  - '#stochastic_differential_equations'
-  - '#stochastic_process'
+  - asset_relative_return
+  - central_limit_theorem
+  - ito_lemma
+  - log_return
+  - stochastic_process
+aliases:
+  - GBM Process
+  - Relative Return
+key_concepts:
+  - Ito's lemma
+  - central limit theorem
+  - log return
+  - relative return
+  - stochastic process
 ---
+
 # 12.1 A STOCHASTIC PROCESS FOR THE ASSET RELATIVE RETURN
 
 The relative return on the asset from a starting point of time O to a point of time dt is3

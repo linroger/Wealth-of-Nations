@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#convexity_adjustment'
-  - '#dynamic_hedging'
-  - '#eurodollar_futures'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#plain_vanilla_swaps'
-  - '#swap_hedging'
-  - '#swap_valuation'
-  - '#yield_curve'
+  - fixed_rate
+  - floating_rate
+  - fra
+  - interest_rate_swaps
+  - libor
+aliases:
+  - IRS
+  - Interest Rate Swap
+  - Swap
+key_concepts:
+  - FRA Settlement Formula
+  - Fixed vs Floating Rates
+  - LIBOR and Indexing
+  - Off-Market FRAs
+  - Swap Valuation
 ---
+
 # 4.2 INTEREST RATE SWAPS  
 
 Interest rate swap flows are defined in the same currency. They allow users to change their asset or liability flows from fixed rate to floating rate and vice versa. The floating side is in the. majority of cases indexed off the LIBOR rate. In the USA, sometimes the role of LIBOR is. played by the Fed Funds, Commercial Paper, T-Bill, or Cost of Funds Index (COFI) rate..  

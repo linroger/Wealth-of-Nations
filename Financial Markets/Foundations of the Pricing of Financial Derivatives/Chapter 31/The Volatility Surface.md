@@ -1,15 +1,20 @@
 ---
 tags:
-  - '#exercise_price'
-  - '#implied_volatility'
-  - '#market_stress'
-  - '#mcdonalds'
-  - '#moneyness'
-  - '#time_to_expiration'
-  - '#volatility_skew'
-  - '#volatility_smile'
-  - '#volatility_surface'
+  - covid_impact
+  - implied_volatility
+  - market_volatility
+  - option_pricing
+  - volatility_surface
+aliases:
+  - Volatility Surfaces
+key_concepts:
+  - Implied volatility
+  - Market views
+  - Moneyness
+  - Time to expiration
+  - Volatility smiles and skews
 ---
+
 # 31.3 THE VOLATILITY SURFACE
 
 In the prior section, we focus on options with approximately one month to expiration and documented various volatility smiles and skews. Volatility smiles and skews are based on various measures relating to only the exercise price. We now illustrate the three-dimensional perspective of the implied volatilities, known as the volatility surface, where we address the exercise price as well as the time to expiration.

@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#equilibrium_models'
-  - '#financial_modeling'
-  - '#one_factor_models'
-  - '#parameter_estimation'
-  - '#risk_neutral_processes'
-  - '#short_rate'
+  - equilibrium_models
+  - one_factor_models
+  - parameter_estimation
+  - risk_neutral_processes
+  - short_rate_models
+aliases:
+  - Equilibrium Short Rate
+  - Short Rate Models
+key_concepts:
+  - Estimating parameters
+  - One-factor models
+  - Risk-neutral processes
+  - Short rate equilibrium
+  - Sophisticated models
 ---
+
 # Chapter 31. Equilibrium models of the short rate . . 697  
 
 31.1 Background 697   

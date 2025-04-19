@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#cheapest_to_deliver_bond'
-  - '#currency_swaps'
-  - '#equity_repos'
-  - '#failure_to_deliver'
-  - '#futures_contracts'
-  - '#fx_swaps'
-  - '#repo_markets'
-  - '#synthetic_loans'
+  - capital_controls
+  - cash_flow_engineering
+  - currency_forwards
+  - equity_repos
+  - financial_engineering
+  - repo_markets
+  - synthetic_loans
+aliases:
+  - Cash Flow Engineering
+  - Conclusions
+  - Currency Forwards
+  - Repo Markets
+key_concepts:
+  - Capital control applications
+  - Creating synthetic loans
+  - Currency forward engineering
+  - Financial strategy implementation
+  - Repo market importance
+  - Synthetic currency forwards
+  - Withholding tax problem
 ---
+
 # 5.8 CONCLUSIONS  
 
 The basic concepts underlying repo markets are simple, but due to the fact that repos are dominated by institutions, knowledge about repo markets is not widespread compared to other aspects of financial engineering. Yet, repo markets are crucial for the smooth operation of financial systems. Many financial strategies would be difficult to implement if it weren't for the repo. This chapter has shown that repos can be analyzed with the same techniques discussed in earlier chapters..  

@@ -1,3 +1,21 @@
+---
+tags:
+  - market_risk
+  - portfolio_theory
+  - value_at_risk
+  - var
+  - variance_covariance
+aliases:
+  - VCV
+  - VaR
+key_concepts:
+  - Backtesting VaR accuracy
+  - Basel internal models
+  - Forecasting volatility methods
+  - Market risk measurement
+  - Value at Risk (VaR)
+  - Variance-covariance approach
+---
 # MARKET RISK  
 
 # Value at Risk  

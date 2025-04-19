@@ -1,13 +1,27 @@
 ---
 title: Navigating Big Debt Crises
-aliases:
 cssclasses:
   - academia
 tags:
-  - '#big_debt_crises'
-  - '#economic_downturn'
-  - '#financial_crises'
+  - debt_crisis
+  - economic_crisis
+  - financial_crisis
+  - financial_markets
+  - risk_management
+aliases:
+  - Crises
+  - Debt
+  - Debt Crises
+  - Debt Crisis
+  - Financial Crisis
+key_concepts:
+  - Debt crisis navigation
+  - Economic downturns
+  - Financial market instability
+  - Market volatility impact
+  - Risk mitigation strategies
 ---
+
 # Navigating Big Debt Crises
 
 %% Begin Waypoint %%

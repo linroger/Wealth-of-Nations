@@ -1,9 +1,21 @@
 ---
 title: Week 5
 tags:
-  - '#waypoint'
-  - '#week_5'
+  - course_week_5
+  - finance_week_5
+  - week_5
+  - week_5_notes
+  - week_5_summary
+aliases:
+  - Week Five
+  - Wk 5
+key_concepts:
+  - Course Week 5
+  - Finance Topics
+  - Waypoint
+  - Week 5 Notes
 ---
+
 # Week 5
 %% Begin Waypoint %%
 - **[[Week 5]]**

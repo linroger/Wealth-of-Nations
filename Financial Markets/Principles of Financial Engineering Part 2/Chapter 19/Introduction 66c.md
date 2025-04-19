@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bond_holders'
-  - '#discounted_cash_flows'
-  - '#equity'
-  - '#equity_holders'
-  - '#equity_to_credit_approach'
-  - '#merton_model'
-  - '#probability_of_default'
-  - '#structural_model_of_default'
+  - default_probability
+  - equity_to_credit
+  - equity_valuation
+  - merton_model
+  - structural_model
+aliases:
+  - Equity Valuation
+  - Introduction to Equity
+  - Merton's Model
+key_concepts:
+  - Bond and Equity Payoffs
+  - Equity as Discounted Value
+  - Equity as Firm Option
+  - Merton's Default Model
+  - Probability of Default
 ---
+
 # 19.1 Introduction. 66C  
 
 19.2 What Is Equity?. . 662   

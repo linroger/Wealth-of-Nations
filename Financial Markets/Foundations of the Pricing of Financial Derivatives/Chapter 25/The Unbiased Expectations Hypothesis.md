@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#cost_of_carry'
-  - '#forward_price'
-  - '#forward_rates'
-  - '#interest_rates'
-  - '#risk_premium'
-  - '#spot_price'
-  - '#unbiased_expectations_hypothesis'
+  - arbitrage
+  - forward_price
+  - risk_premium
+  - spot_price
+aliases:
+  - Expectations Hypothesis
+  - UEH
+key_concepts:
+  - Arbitrage opportunities
+  - Cost of carry
+  - Expected spot price
+  - Forward price
+  - Risk premium impact
 ---
+
 # 25.1 THE UNBIASED EXPECTATIONS HYPOTHESIS
 
 Let us start by defining $S_{0}$ and $F_{0}$ as the spot and forward prices for an asset.5 The forward price is for a forward contract that expires one period later and requires delivery of the underlying asset. In other words, one enters into a contract to purchase the asset one period later, paying the price $F_{0}$ , which is determined when the contract is created. Unless otherwise stated, we assume annual time increments, so time 1 occurs in 1 year. Thus, we can set aside compounding issues $(\tau=1$

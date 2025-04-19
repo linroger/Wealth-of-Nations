@@ -1,22 +1,26 @@
 ---
-aliases:
-  - The Credit Crisis-Conjectures About Causes And Remedies
-  - The Credit Crisis-Conjectures About Causes And Remedies.md
-  - 'The Credit Crisis: Conjectures About Causes And Remedies'
 linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
 title: 'The Credit Crisis: Conjectures About Causes And Remedies'
 tags:
-  - '#bank_liquidity'
-  - '#credit_crisis'
-  - '#credit_crunch'
-  - '#federal_reserve'
-  - '#financial_crisis_causes'
-  - '#financial_crisis_remedies'
-  - '#mortgage_backed_securities'
-  - '#regulatory_capital'
-  - '#securitization'
-  - '#short_term_debt'
+  - asset_prices
+  - credit_crisis
+  - financial_crisis
+  - subprime_loans
+  - us_financial_sector
+aliases:
+  - Causes and Remedies
+  - Credit Crisis
+  - Douglas W. Diamond
+  - Raghuram G. Rajan
+key_concepts:
+  - asset price depression
+  - emerging market crises
+  - financial crisis causes
+  - misallocation of resources
+  - securitization of loans
+  - subprime loan buyers
 ---
+
 # The Credit Crisis-Conjectures About Causes And Remedies
 
 By Douglas W. Diamond and Raghuram G. Rajan*

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#deep_in_the_money_calls'
-  - '#deep_out_of_the_money_puts'
-  - '#implied_volatility'
-  - '#option_pricing'
-  - '#option_replication'
-  - '#option_substitutability'
-  - '#option_valuation'
-  - '#risk_free_bonds'
-  - '#volatility_smile'
+  - black_scholes_model
+  - call_options
+  - option_pricing
+  - option_substitutability
+  - put_options
+aliases:
+  - BSM Framework
+  - Option Replication
+  - Option Valuation
+key_concepts:
+  - Black-Scholes-Merton framework
+  - Deep OTM put insurance
+  - Implied volatility patterns
+  - Option replication with bonds
+  - Perfect option substitutability
 ---
+
 # 31.4 THE PERFECT SUBSTITUTABILITY OF OPTIONS
 
 Within the Black-Scholes-Merton framework, any option on the same underlying should be a perfect substitute for any other option. To demonstrate this claim, consider an option priced at $w_{1}$ and a second option on the same asset priced at $w_{2}$ . These options could have different exercise prices and/or times to expiration. They could differ in that one is a call and one is a put. It does not matter. They are simply two options on the same asset, which itself is priced at S.

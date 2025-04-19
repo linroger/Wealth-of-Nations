@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#american_call_option'
-  - '#american_put_option'
-  - '#arbitrage'
-  - '#derivative_pricing'
-  - '#european_call_option'
-  - '#european_put_option'
-  - '#moneyness'
-  - '#risk_free_rate'
-  - '#s_and_p_500'
-  - '#volatility'
+  - american_call_option
+  - american_put_option
+  - arbitrage
+  - asset_price
+  - european_call_option
+  - european_put_option
+aliases:
+  - Arbitrage Example
+  - Derivative Pricing
+  - Setup and Definitions
+key_concepts:
+  - American call/put
+  - Arbitrage definition
+  - Asset price
+  - European call/put
+  - Risk-free rate
 ---
+
 # 2.1 SETUP, DEFINITIONS, AND ARBITRAGE
 
 We position ourselves at time $t.$ , and let. $S_{t}$ be the asset price today, $T$ be the expiration of the derivative,. $S_{T}$ be the asset price at expiration, $X$ be the exercise price,. $r_{c}$ be the annualized, continuously compounded risk-free rate, $\sigma$ be the annualized volatility, and $\tau=T-t$ be the time to expiration.1 Let $c_{t}$ be the price of a European call at time $t$ and $\mathbf{}p_{t}$ be the price of a European put at time $t.$ Let $C_{t}$ be the price of an American call at time $t$ and $P_{t}$ be the price of an American put at time $t$ Other notation will be introduced as needed. The asset is assumed to make no payments such as dividends that might be paid if the asset were a stock, but we shall relax that assumption at appropriate points.2 The results demonstrated herein are largely intuitive, but formal proofs and discussions are covered in Stoll (1969), Merton (1973a, 1973b), Smith (1976), Cox and Rubinstein (1985), and Chance and Brooks (2016).

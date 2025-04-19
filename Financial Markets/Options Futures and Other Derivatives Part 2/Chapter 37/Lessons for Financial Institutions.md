@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#derivatives_disasters'
-  - '#financial_institutions'
-  - '#incentives'
-  - '#liquidity_risk'
-  - '#market_transparency'
-  - '#model_risk'
-  - '#risk_management'
-  - '#short_term_funding'
-  - '#subprime_mortgages'
-  - '#trading_strategies'
+  - accounting
+  - financial_institutions
+  - model_risk
+  - risk_management
+  - trading_strategies
+aliases:
+  - Financial Trading
+  - Lessons Learned
+  - Risk Control
+  - Trading Room
+key_concepts:
+  - Accountability for traders
+  - Conservative profit recognition
+  - Don't blindly trust models
+  - Monitor traders carefully
+  - Separate front, middle, back
 ---
+
 # 37.2 LESSONS FOR FINANCIAL INSTITUTIONS  
 
 We now move on to consider lessons that are primarily relevant to financial institutions.  

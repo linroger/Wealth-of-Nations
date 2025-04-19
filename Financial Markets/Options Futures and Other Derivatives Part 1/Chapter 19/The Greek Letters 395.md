@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#delta_hedging'
-  - '#gamma'
-  - '#greek_letters'
-  - '#machine_learning_hedging'
-  - '#portfolio_insurance'
-  - '#rho'
-  - '#scenario_analysis'
-  - '#theta'
-  - '#vega'
+  - delta_hedging
+  - greek_letters
+  - machine_learning_hedging
+  - option_greeks
+  - portfolio_insurance
+aliases:
+  - Greeks
+  - Hedging with Greeks
+  - Option Greeks
+key_concepts:
+  - Delta, theta, gamma, vega, rho
+  - Greek letter calculation
+  - Hedging realities
+  - Naked and covered positions
+  - Taylor series expansions
 ---
+
 # Chapter 19. The Greek letters 395  
 
 19.1 Hllustratione 395   

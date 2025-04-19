@@ -1,15 +1,29 @@
 ---
 tags:
-  - '#consumption_plans'
-  - '#expected_utility'
-  - '#habit_formation'
-  - '#mean_variance_frontier'
-  - '#one_period_economy'
-  - '#portfolio_optimization'
-  - '#risk_free_asset'
-  - '#state_price_deflator'
-  - '#state_price_vector'
+  - arbitrage_free
+  - one_period_economy
+  - optimal_consumption
+  - risk_free_asset
+  - state_dependent_utility
+aliases:
+  - Exercise 6.1
+  - Exercise 6.2
+  - Exercise 6.3
+  - Exercise 6.4
+  - Exercise 6.5
+key_concepts:
+  - arbitrage-free market
+  - logarithmic utility
+  - mean-variance
+  - one-period economy
+  - optimal consumption plan
+  - risk-free asset
+  - risk-free interest rate
+  - state price vector
+  - state-dependent utility
+  - state-price deflator
 ---
+
 # 6.8 Exercises  
 
 EXERCISE 6.1 Consider a one-period economy and an individual with a time-additive but state-dependent expected utility so that the objective is.  

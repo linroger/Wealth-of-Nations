@@ -1,25 +1,25 @@
 ---
-aliases:
-  - Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs
-    a Case Study of Northern Rock|Northern Rock]].md
-  - Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs
-    a Case Study of Northern Rock|Northern Rock]]*
-  - Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank Runs
-    a Case Study of Northern Rock|Northern Rock]]
 title: Reflections On Modern Bank Runs a Case Study of [[Reflections On Modern Bank
   Runs a Case Study of Northern Rock|Northern Rock]]*
 tags:
-  - '#asset_backed_securities'
-  - '#bank_runs'
-  - '#credit_crisis_2007'
-  - '#financial_regulation'
-  - '#leverage'
-  - '#liquidity_crisis'
-  - '#maturity_mismatch'
-  - '#northern_rock'
-  - '#securitization'
-  - '#short_term_funding'
+  - bank_run
+  - credit_crisis
+  - financial_markets
+  - northern_rock
+  - securitization
+aliases:
+  - Bank of England
+  - Hyun Song Shin
+  - Modern Bank Runs
+  - UK Bank
+key_concepts:
+  - Credit crisis impact
+  - Institutional investor vulnerability
+  - Modern bank run analysis
+  - Northern Rock case study
+  - Short-term funding reliance
 ---
+
 # Reflections On Modern Bank Runs a Case Study of Northern Rock
 
 Reflections on Modern Bank Runs:

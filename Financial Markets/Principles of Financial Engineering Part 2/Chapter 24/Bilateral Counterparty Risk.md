@@ -1,15 +1,20 @@
 ---
 tags:
-  - '#bank_credit_risk'
-  - '#bilateral_counterparty_risk'
-  - '#bilateral_valuation_adjustment_bva'
-  - '#corporate_credit_risk'
-  - '#counterparty_default'
-  - '#credit_valuation_adjustment_cva'
-  - '#debt_valuation_adjustment_dva'
-  - '#gfc_impact'
-  - '#unilateral_perspective'
+  - bilateral_counterparty_risk
+  - cva
+  - dva
+  - gfc
+  - valuation
+aliases:
+  - BVA
+key_concepts:
+  - Bilateral valuation adjustment
+  - Corporate and bank risk
+  - Counterparty defaults first
+  - Default risk-free price
+  - Unilateral perspective
 ---
+
 # 24.5 BILATERAL COUNTERPARTY RISK  
 
 So we have adopted the unilateral perspective. What would happen if both counterparties view each other as risky? For example, the corporate C could view bank B as risky. After the demise of. Lehman Brothers in 2008 and multiple credit events involving financial institutions during the GFC this is a realistic scenario. The only way to deal with this situation is to allow both counterparties. to include their own default besides the default of the counterparty into their valuation. This implies that each counterparty will subtract a positive CVA value from and add a positive DVA to the default risk-free price of the transaction. In other words, the CVA of one party will be the DVA of another party and vice versa. In the example above, we will obtain the following equation from bank B's perspective,  

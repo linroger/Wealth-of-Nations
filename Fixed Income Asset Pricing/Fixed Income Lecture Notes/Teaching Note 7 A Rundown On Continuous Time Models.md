@@ -1,24 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Continuous Time
-  - Continuous Time Models
-  - Ho-Lee Model
-  - Vasicek Model
 title: Teaching Note 7 A Rundown On Continuous Time Models
 tags:
-  - '#brownian_motion'
-  - '#continuous_time_models'
-  - '#convertible_bonds'
-  - '#interest_rate_modeling'
-  - '#ito_formula'
-  - '#market_price_of_risk'
-  - '#monte_carlo_simulation'
-  - '#relative_value_trade'
-  - '#risk_neutral_pricing'
-  - '#vasicek_model'
+  - brownian_motion
+  - continuous_time_models
+  - interest_rate_modeling
+  - ito_formula
+  - vasicek_model
+aliases:
+  - Continuous Time Models
+  - Vasicek
+  - Wiener Process
+key_concepts:
+  - AR(1) model
+  - Annualized quantities
+  - Brownian motion properties
+  - Ito's formula derivation
+  - Risk neutral pricing
+  - Taylor rule approximation
 ---
+
 [[An Overview of the Vasicek Short Rate Model|Vasicek Model]]
 
 # Teaching Note 7 A Rundown On Continuous Time Models

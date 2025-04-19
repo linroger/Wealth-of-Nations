@@ -1,3 +1,23 @@
+---
+tags:
+  - eurodollar_futures
+  - futures_contracts
+  - hedging
+  - interest_rate_futures
+  - libor
+  - t_bill_futures
+aliases:
+  - 3-month Eurodollar
+  - 3-month Sterling
+  - IRF
+  - US T-bills
+key_concepts:
+  - arbitrage strategies
+  - contract specifications
+  - implied repo rate
+  - price quotes
+  - settlement procedures
+---
 # FIXED INCOME FUTURES CONTRACTS  
 
 # Interest Rate Futures  

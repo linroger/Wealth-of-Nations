@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#cap_floor_straddle'
-  - '#curve_steepening_flattening'
-  - '#euro_dollar_exchange_rate'
-  - '#interest_rate_volatility'
-  - '#risk_management'
-  - '#swaption_straddle'
-  - '#volatility_across_instruments'
-  - '#volatility_positions'
-  - '#volatility_term_structure'
+  - cap_floor
+  - interest_rate_sector
+  - swaption
+  - term_structure
+  - volatility_spread
+  - volatility_trading
+aliases:
+  - Trading Volatility
+  - Volatility Positions
+  - Volatility Trading
+key_concepts:
+  - Cap-floor straddle volatility
+  - Curve steepening/flattening trades
+  - Short-dated euro puts/dollar calls
+  - Swaption straddle volatility
+  - Trading volatility across instruments
+  - Trading volatility term structure
+  - Volatility exposure hedging
 ---
+
 # 15.2 VOLATILITY POSITIONS  
 
 Volatility positions can be taken with the purpose of hedging a volatility exposure or speculating. on the future behavior of volatility. These positions require instruments that isolate volatility risk as well as possible. To motivate the upcoming discussion, we introduce two examples that illustrate traditional volatility positions.  

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#capital_gains_losses'
-  - '#constructive_sales'
-  - '#stock_options'
-  - '#tax_implications'
-  - '#tax_planning_strategies'
-  - '#tax_relief_act_1997'
-  - '#taxation_option_trading'
-  - '#wash_sale_rule'
+  - capital_gains
+  - constructive_sales
+  - option_trading
+  - taxation
+  - wash_sale_rule
+aliases:
+  - Option Strategies
+  - Tax Implications
+key_concepts:
+  - Capital gains and losses
+  - Constructive sales
+  - Tax implications of options
+  - Tax planning with options
+  - Wash sale rule
 ---
+
 # 10.10 TAXATION  
 
 Determining the tax implications of option trading strategies can be tricky, and an investor who is in doubt about this should consult a tax specialist. In the United States,. the general rule is that (unless the taxpayer is a professional trader) gains and losses from the trading of stock options are taxed as capital gains or losses. The way that capital gains and losses are taxed in the United States was discussed in Section 2.10. For both the holder and the writer of a stock option, a gain or loss is recognized when (a) the option expires unexercised or (b) the option position is closed out. If the option is exercised, the gain or loss from the option is rolled into the position taken in the. stock and recognized when the stock position is closed out. For example, when a call. option is exercised, the party with a long position is deemed to have purchased the stock at the strike price plus the call price. This is then used as a basis for calculating. this party's gain or loss when the stock is eventually sold. Similarly, the party with the short call position is deemed to have sold the stock at the strike price plus the call price. When a put option is exercised, the seller of the option is deemed to have bought the stock for the strike price less the original put price and the purchaser of the option is deemed to have sold the stock for the strike price less the original put price..  

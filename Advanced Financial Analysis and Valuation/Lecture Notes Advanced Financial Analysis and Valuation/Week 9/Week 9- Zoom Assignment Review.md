@@ -1,18 +1,27 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#arr_annual_recurring_revenue'
-  - '#dcf_valuation'
-  - '#jpm_valuation'
-  - '#nopat_margin'
-  - '#saas_valuation'
-  - '#sales_multiple_valuation'
-  - '#stock_based_compensation'
-  - '#tam_total_addressable_market'
-  - '#zoom_valuation'
+  - arr
+  - cac
+  - nopat_margin
+  - roic
+  - saas_valuation
+  - sales_multiple
+  - tam
+  - zoom_valuation
+aliases:
+  - ARR
+  - CAC
+  - SaaS
+  - TAM
+  - Zoom
+key_concepts:
+  - ARR x Multiple = Value
+  - Long-term Zoom market share
+  - Sales multiple valuation
+  - TAM, revenue retention, CAC
+  - Valuing SaaS business
 ---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

@@ -1,3 +1,22 @@
+---
+tags:
+  - black_scholes_model
+  - corporate_debt
+  - equity_collar
+  - equity_warrants
+  - options_theory
+aliases:
+  - Advanced Options
+  - Merton Model
+  - Risk Reversal
+  - Zero Cost Collar
+key_concepts:
+  - Black-Scholes formula
+  - Corporate debt valuation
+  - Equity collar strategy
+  - Equity warrants explained
+  - European call option
+---
 # ADVANCED OPTIONS  
 
 # Other Options  

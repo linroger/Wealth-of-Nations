@@ -1,3 +1,23 @@
+---
+tags:
+  - dynamic_hedging
+  - protective_put
+  - ratio_spread
+  - stock_index_options
+  - stock_options
+aliases:
+  - Covered Call
+  - Options on Stocks
+  - Protective Put
+  - Ratio Spread
+  - Static Hedge
+key_concepts:
+  - Dynamic delta hedging
+  - Mispriced options profit
+  - Protective put strategy
+  - Risk-free portfolio creation
+  - Stock options and indexes
+---
 # Stock Options and Stock Index Options  
 
 # Aims  

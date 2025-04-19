@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton'
-  - '#call_delta'
-  - '#greeks'
-  - '#leverage_factor'
-  - '#omega'
-  - '#option_elasticities'
-  - '#option_pricing_model'
-  - '#vega'
-  - '#volatility'
+  - black_scholes
+  - call_delta
+  - elasticity
+  - greeks
+  - option_pricing
+aliases:
+  - Elasticities
+  - Greeks
+  - Omega
+key_concepts:
+  - Black-Scholes-Merton model
+  - Call delta
+  - Elasticity of call price
+  - Greeks and elasticities
+  - Percentage change in price
 ---
+
 # 14.9 ELASTICITIES
 
 The Greeks presented here are simply partial derivatives. Thus, a call delta answers the question of how much a call price will increase for a small dollar change in the underlying asset. There is no adjustment for the absolute price level. In response to this problem, some have argued that various elasticities would be more informative.

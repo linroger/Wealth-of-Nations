@@ -1,20 +1,25 @@
 ---
-aliases:
-  - 
-  - 
 title: Forwards and Futures Notes
 tags:
-  - '#convexity'
-  - '#covered_interest_arbitrage'
-  - '#currency_forwards'
-  - '#duration'
-  - '#eurodollar_futures'
-  - '#forward_pricing'
-  - '#no_arbitrage_bounds'
-  - '#prepaid_forward'
-  - '#synthetic_forwards'
-  - '#zero_coupon_bonds'
+  - coupon_bonds
+  - currency_forwards
+  - implied_forward_rates
+  - interest_arbitrage
+  - zero_coupon_bonds
+aliases:
+  - Bonds
+  - Currency
+  - Forwards
+  - Futures
+key_concepts:
+  - Coupon bond pricing
+  - Covered interest arbitrage
+  - Currency forward rate
+  - Implied forward rates
+  - Prepaid forward price
+  - Zero-coupon bond pricing
 ---
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

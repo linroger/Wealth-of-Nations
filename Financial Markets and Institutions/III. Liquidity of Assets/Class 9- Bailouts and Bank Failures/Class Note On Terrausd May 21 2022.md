@@ -1,22 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Note On Terrausd May 21 2022
-  - Class Note On Terrausd May 21 2022. md
 title: Class Note On TerraUSD May 21 2022
 tags:
-  - '#anchor_protocol'
-  - '#arbitrage'
-  - '#bank_run'
-  - '#devaluation'
-  - '#fixed_exchange_rates'
-  - '#luna_foundation_guard'
-  - '#lunacoin'
-  - '#speculative_attacks'
-  - '#stablecoin_failure'
-  - '#terrausd'
+  - bank_run
+  - cryptocurrency
+  - fixed_exchange_rates
+  - luna
+  - terrausd
+aliases:
+  - LUNA
+  - TerraUSD Class Note
+  - UST
+key_concepts:
+  - Arbitrage process
+  - Bank run analogy
+  - LUNA and UST swap
+  - Speculative attacks
+  - TerraUSD fixed exchange rates
 ---
+
 # Class Note On TerraUSD May 21 2022
 
 TerraUSD as a bank run or as a failure of fixed exchange rates.

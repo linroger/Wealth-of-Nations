@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_tree_method'
-  - '#currencies'
-  - '#deriva_gem'
-  - '#futures_contracts'
-  - '#option_valuation'
-  - '#risk_free_interest_rate'
-  - '#stock_indices'
-  - '#volatility'
+  - binomial_tree
+  - currency_options
+  - futures_contracts
+  - index_options
+  - options_pricing
+aliases:
+  - BOPM
+  - Binomial Option Pricing
+  - DerivaGem Example
+key_concepts:
+  - Binomial tree valuation
+  - Known yields
+  - Options on currencies
+  - Options on futures
+  - Options on indices
 ---
+
 # 21.2 USING THE BINOMIAL TREE FOR OPTIONS ON INDICES, CURRENCIES, AND FUTURES CONTRACTS  
 
 As explained in Chapters 13, 17 and 18, stock indices, currencies, and futures contracts can, for the purposes of option valuation, be considered as assets providing known yields. For a stock index, the relevant yield is the dividend yield on the stock portfolio underlying the index; in the case of a currency, it is the foreign risk-free interest rate; in the case of a futures contract, it is the domestic risk-free interest rate. The binomial tree approach can therefore be used to value options on stock indices, currencies, and futures contracts provided that $q$ in equation (21.7) is interpreted appropriately.  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#convexity'
-  - '#duration'
-  - '#forward_contracts'
-  - '#forward_prices'
-  - '#forward_rates'
-  - '#futures_prices'
-  - '#interest_rates'
-  - '#term_structure_of_interest_rates'
-  - '#zero_rates'
+  - bond_pricing
+  - cost_of_carry
+  - forward_rates
+  - futures_prices
+  - interest_rates
+aliases:
+  - Table of Contents
+  - ToC
+key_concepts:
+  - Bond pricing
+  - Forward rate agreements
+  - Investment vs consumption assets
+  - Reference rates
+  - Types of rates
 ---
+
 # Table of Contents - Options Futures and Other Derivatives Part1
 4.1 Types of rates 76   
 4.2 Reference rates .77   

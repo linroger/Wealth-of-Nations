@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#adaptive_mesh_model'
-  - '#barrier_options'
-  - '#binomial_trees'
-  - '#inner_barrier'
-  - '#nodes_on_barrier'
-  - '#numerical_procedures'
-  - '#outer_barrier'
-  - '#trinomial_trees'
-  - '#up_and_out_option'
+  - adaptive_mesh_model
+  - barrier_options
+  - numerical_methods
+  - option_pricing
+  - trinomial_tree
+aliases:
+  - Barrier Option Valuation
+  - Option Pricing Techniques
+  - Up-and-Out Option
+key_concepts:
+  - Adaptive mesh model
+  - Barrier option valuation
+  - Binomial and trinomial trees
+  - Inner and outer barriers
+  - Nodes on the barrier
 ---
+
 # 27.6 BARRIER OPTIONS  
 
 Chapter 26 presented analytic results for standard barrier options. This section considers numerical procedures that can be used for barrier options when there are no analytic results.  

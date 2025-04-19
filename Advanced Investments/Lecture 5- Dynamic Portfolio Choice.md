@@ -1,17 +1,22 @@
 ---
 title: Lecture 5Dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 tags:
-  - '#adaptive_policy'
-  - '#arithmetic_mean'
-  - '#crra_preferences'
-  - '#dynamic_portfolio_choice'
-  - '#fixed_weight_solution'
-  - '#geometric_mean'
-  - '#growth_optimal_portfolio'
-  - '#long_term_investing'
-  - '#mean_reversion'
-  - '#myopic_market_timing'
+  - dynamic_portfolio_choice
+  - iid_assumption
+  - long_term_investor
+  - portfolio_weights
+  - risk_return
+aliases:
+  - Dynamic Portfolio Selection
+  - Long-Term Investing
+key_concepts:
+  - Dynamic portfolio problem
+  - IID setting
+  - Long-term investment horizons
+  - Optimal portfolio formulas
+  - Predictable stock market returns
 ---
+
 # Lecture 5-Dynamic Portfolio Choice
 [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 

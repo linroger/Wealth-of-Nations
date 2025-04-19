@@ -1,20 +1,34 @@
 ---
-aliases:
-  - Governance in Financial Distress and Bankruptcy
-  - Governance in Financial Distress and Bankruptcy.md
 title: Governance in Financial Distress and Bankruptcy
 tags:
-  - '#363_sales'
-  - '#bankruptcy'
-  - '#chapter_11'
-  - '#corporate_governance'
-  - '#creditor_control'
-  - '#financial_distress'
-  - '#junior_creditors'
-  - '#restructuring'
-  - '#senior_creditors'
-  - '#venue_choice'
+  - bankruptcy
+  - board_turnover
+  - chapter_11
+  - corporate_governance
+  - creditor_rights
+  - distressed_firms
+  - financial_distress
+  - management
+  - restructuring
+  - shareholders
+aliases:
+  - Corporate Bankruptcy
+  - Distressed Firm Governance
+  - Financial Distress Governance
+  - Governance in Distress
+key_concepts:
+  - Automatic stay
+  - Chapter 11 reorganization process
+  - Control rights of stakeholders
+  - Creditor-controlled outcomes
+  - Debtor in possession
+  - Equity holder-creditor conflicts
+  - Framework of control rights
+  - Governance and financial distress
+  - Influence of creditors
+  - Management and board turnover
 ---
+
 # Governance in Financial Distress and Bankruptcy
 
 # Governance In **Financial Distress And Bankruptcy**

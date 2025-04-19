@@ -1,20 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 title: Common Errors In DCF Models
 tags:
-  - '#continuing_value'
-  - '#cost_of_capital'
-  - '#dcf_model_errors'
-  - '#discounted_cash_flow_analysis'
-  - '#equity_risk_premium'
-  - '#investment_analysis'
-  - '#scenario_analysis'
-  - '#valuation_methods'
+  - cash_flow
+  - dcf_models
+  - equity_investing
+  - financial_analysis
+  - valuation
+aliases:
+  - DCF Errors
+  - Mauboussin Valuation
+  - Valuation Mistakes
+key_concepts:
+  - Discounted cash flow analysis
+  - Economically sound models
+  - Present value of cash flows
+  - Transparent DCF models
+  - Value of a business
 ---
+
 Michael J. Mauboussin
 
 Do You Use Economically Sound And Transparent Models?

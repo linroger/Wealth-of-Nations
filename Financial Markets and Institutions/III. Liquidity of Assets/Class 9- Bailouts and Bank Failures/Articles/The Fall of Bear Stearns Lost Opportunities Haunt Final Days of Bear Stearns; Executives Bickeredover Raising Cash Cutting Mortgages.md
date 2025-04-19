@@ -1,24 +1,35 @@
 ---
-aliases:
-  - The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
-    Executives Bickeredover Raising Cash Cutting Mortgages
-  - The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns;
-    Executives Bickeredover Raising Cash Cutting Mortgages.md
-  - 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 linter-yaml-title-alias: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days
   of Bear Stearns '
 title: 'The Fall of Bear Stearns Lost Opportunities Hauntfinal Days of Bear Stearns '
 tags:
-  - '#alan_schwartz'
-  - '#bear_stearns_collapse'
-  - '#federal_reserve_intervention'
-  - '#financial_regulation'
-  - '#hedge_funds'
-  - '#james_cayne'
-  - '#market_indecision'
-  - '#mortgage_market_crisis'
-  - '#risk_management'
+  - alan_greenberg
+  - bear_stearns
+  - executive_decisions
+  - financial_crisis
+  - james_cayne
+  - kohlberg_kravis_roberts
+  - market_dynamics
+  - mortgage_market
+  - trading_floor
+  - warren_spector
+aliases:
+  - BS
+  - Bear Stearns Collapse
+  - Bear Stearns's Fall
+  - The Fall
+key_concepts:
+  - Bear Stearns's final days
+  - Cutting mortgages
+  - Delicate calculus of appearances
+  - Executives bickering over cash
+  - Fractious last weeks
+  - KKR buying stake
+  - Raising cash efforts
+  - Subprime mortgage collapse
+  - Warnings unheeded
 ---
+
 # The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages
 
 Executives Bickeredover Raising Cash Cutting Mortgages

@@ -1,16 +1,26 @@
 ---
 tags:
-  - '#accumulated_value'
-  - '#annuities'
-  - '#discount_rates'
-  - '#duration_convexity'
-  - '#financial_instruments'
-  - '#financial_mathematics'
-  - '#interest_rates'
-  - '#perpetuities'
-  - '#present_value'
-  - '#term_structure'
+  - annuities
+  - bond_valuation
+  - duration_convexity
+  - financial_instruments
+  - financial_mathematics
+  - interest_rates
+  - term_structure
+aliases:
+  - Actuarial Guide
+  - Business Professionals
+  - Financial Math
+key_concepts:
+  - Bond valuation
+  - Duration, convexity, immunization
+  - Financial instruments
+  - Interest rates and factors
+  - Level annuities
+  - Project appraisal and loans
+  - Varying annuities
 ---
+
 # FINANCIAL MATHEMATICS
 
 # A Practical Guide for Actuaries and other Business Professionals.

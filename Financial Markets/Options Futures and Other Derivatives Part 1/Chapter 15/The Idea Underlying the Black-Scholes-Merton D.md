@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#binomial_model'
-  - '#black_scholes_merton_assumptions'
-  - '#black_scholes_merton_equation'
-  - '#derivative_pricing'
-  - '#european_call_option'
-  - '#no_arbitrage'
-  - '#rebalancing'
-  - '#riskless_portfolio'
-  - '#stock_price_movements'
+  - black_scholes_merton
+  - derivative_pricing
+  - european_call_option
+  - no_arbitrage
+  - riskless_portfolio
+aliases:
+  - BSM equation
+  - Black-Scholes
+  - option pricing
+  - risk-free rate
+key_concepts:
+  - Black-Scholes-Merton equation
+  - derivative price dependence
+  - no arbitrage condition
+  - riskless portfolio creation
+  - stock price movements
 ---
+
 # 15.5 THE IDEA UNDERLYING THE BLACK-SCHOLES-MERTON DIFFERENTIAL EQUATION  
 
 The Black-Scholes-Merton differential equation is an equation that must be satisfied.   

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#american_style_options'
-  - '#binomial_tree'
-  - '#black_scholes_formula'
-  - '#delta_hedging'
-  - '#dynamic_replication'
-  - '#european_call_option'
-  - '#greeks'
-  - '#option_valuation'
-  - '#volatility_hedging'
+  - algebraic_equations
+  - contractual_equations
+  - dynamic_replication
+  - static_replication
+  - synthetic_instruments
+aliases:
+  - Chapter 8
+  - Conclusions
+  - Dynamic Synthetics
+key_concepts:
+  - Algebraic equations
+  - Contractual equations
+  - Dynamic synthetic creation
+  - Immunization example
+  - Static replication
 ---
+
 # 8.8 CONCLUSIONS  
 
 We finish the chapter with an important observation. Static replication was best done using cash flow diagrams and resulted in contractual equations with constant weights..  

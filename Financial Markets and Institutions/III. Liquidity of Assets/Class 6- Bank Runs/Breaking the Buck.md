@@ -1,19 +1,24 @@
 ---
-aliases:
-  - Breaking the Buck
-  - Breaking the Buck.md
 title: Breaking the Buck
 tags:
-  - '#amortized_cost'
-  - '#federal_insurance'
-  - '#financial_crisis_2008'
-  - '#investment_management'
-  - '#lehman_brothers_bankruptcy'
-  - '#money_market_funds'
-  - '#redemptions'
-  - '#regulatory_changes'
-  - '#rpgxx'
+  - federal_reserve
+  - financial_crisis
+  - lehman_brothers
+  - money_market_fund
+  - prime_funds
+aliases:
+  - Finbar McCall
+  - RPG Advisers
+  - RPGXX
+  - Reserve Primary Fund
+key_concepts:
+  - Breaking the buck
+  - Federal Reserve Regulation Q
+  - Lehman Brothers bankruptcy
+  - Money market funds
+  - Short-term debt securities
 ---
+
 # Breaking the Buck
 
 On his way to the weekly meeting of the Investment Committee at Rich Passage Advisers,  Inc. ("RPG Advisers"),  Finbar McCall caught a glimpse out the window of the rain soaked streets below.

@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#clearinghouse'
-  - '#collateral'
-  - '#counterparty_credit_risk'
-  - '#dodd_frank_act'
-  - '#initial_margin'
-  - '#margin_period_of_risk'
-  - '#margin_requirements'
-  - '#safe_harbor'
-  - '#swap_agreements'
-  - '#variation_margin'
+  - bankruptcy_code
+  - counterparty_risk
+  - credit_valuation_adjustment
+  - safe_harbor
+  - swap_agreements
+aliases:
+  - CCR
+key_concepts:
+  - Bankruptcy code safe harbor
+  - CVA charge
+  - Net positive NPV exposure
+  - Swap contract default risk
+  - Terminate swap contracts
 ---
+
 # 13.4 COUNTERPARTY CREDIT RISK  
 
 Each counterparty to a swap contract bears the risk that the other will. default on its obligations. A crucial mitigant of this risk is the safe harbor of swaps agreements from the bankruptcy code. In the event of a default, most creditors cannot immediately act to recover amounts owed to them. For example, a bank with an outstanding commercial loan that is secured. by production machinery cannot, upon default, seize the collateral and sell it, and so recover the loan amount. Instead, the bank is subject to a bankruptcy stay. Under bankruptcy protection, the defaulting company is given time. to reorganize, during which it may continue to use its machinery. At some point, with the permission of the bankruptcy court, the bank's loan will be. paid off or restructured, possibly but not necessarily through the sale of the. bank's collateral. Swap agreements, however, under their safe harbor, are. not subject to the bankruptcy stay.1o More specifically, if one counterparty defaults on its obligations under a swap contract, the other counterparty may terminate that contract and any others included in a master agreement with the defaulting counterparty; may net receivables and payables under all contracts included in the master agreement; and may liquidate any posted. collateral under the agreement to cover swap closeout costs.  

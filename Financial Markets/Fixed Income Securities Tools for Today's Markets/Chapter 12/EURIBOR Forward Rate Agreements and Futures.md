@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#contract_specifications'
-  - '#euribor'
-  - '#euribor_futures'
-  - '#forward_rate_agreements_fra'
-  - '#hedging_strategies'
-  - '#interest_rate_risk'
-  - '#market_liquidity'
-  - '#sofr_futures'
+  - euribor
+  - euribor_futures
+  - forward_rate_agreement
+  - fra
+  - interest_rate_risk
+aliases:
+  - Euribor
+  - Euribor Futures
+  - FRA
+  - Forward Rate Agreements
+key_concepts:
+  - Euribor futures contracts
+  - Euribor term rates
+  - FRA fixed rate
+  - 'FRAs: interest rate hedging'
+  - Hedging with FRAs
 ---
+
 # 12.5 EURIBOR FORWARD RATE AGREEMENTS AND FUTURES  
 
 As mentioned earlier, Euribor is a set of term rates that continue to be used after the LIBOR transition. In particular, the three-month Euribor quote on a particular date represents the rate on a three-month interbank loan that settles in two business days. Furthermore, a term of "three months" in this market refers to the same calendar day three months later. Three-month Euribor quoted on June 13, 2022, therefore, represents the rate earned over the 92 days from June 15, 2022, to September 15, 2022.  

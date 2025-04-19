@@ -1,20 +1,22 @@
 ---
-aliases:
-  - Interest Rates, Carry Trades, and Exchange Rate Movements.md
-  - Interest Rates, Carry Trades, and Exchange Rate Movements.md
 title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 tags:
-  - '#carry_trade'
-  - '#covered_interest_parity'
-  - '#exchange_rate_movements'
-  - '#forward_premium_puzzle'
-  - '#funding_currency'
-  - '#interest_rate_differentials'
-  - '#market_turnover'
-  - '#target_currency'
-  - '#uncovered_interest_parity'
-  - '#yen_carry_trade'
+  - carry_trade
+  - currency_markets
+  - exchange_rates
+  - interest_rate_differentials
+  - interest_rates
+aliases:
+  - Carry Trade Strategy
+  - Exchange Rate Swings
+key_concepts:
+  - Carry trade strategy
+  - Covered interest parity
+  - Forward exchange rate
+  - Funding currency
+  - Interest rate differentials
 ---
+
 # Interest Rates, Carry Trades, and Exchange Rate Movements
 
 Federal Reserve Bank of San Francisco

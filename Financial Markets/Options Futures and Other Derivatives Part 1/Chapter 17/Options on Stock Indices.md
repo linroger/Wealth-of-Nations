@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#capital_asset_pricing_model'
-  - '#cboe'
-  - '#index_options'
-  - '#portfolio_beta'
-  - '#portfolio_insurance'
-  - '#put_options'
-  - '#stock_indices'
-  - '#strike_price'
+  - american_options
+  - beta
+  - cboe
+  - index_options
+  - portfolio_insurance
+  - stock_indices
+aliases:
+  - Index Option Contracts
+  - Index Options
+  - Options on Indices
+key_concepts:
+  - Index option contract size
+  - Index options cash settlement
+  - Options on stock indices
+  - Portfolio beta and options
+  - Portfolio insurance with options
 ---
+
 # 17.1 OPTIONS ON STOCK INDICES  
 
 Several exchanges trade options on stock indices. Some of the indices track the movement of the market as a whole. Others are based on the performance of a particular sector (e.g., computer technology, oil and gas, transportation, or telecoms). Among the index options traded on the Chicago Board Options Exchange (CBOE) are American and European options on the S&P 100 (OEX and XEO), European options on the S&P 500 (SPX), European options on the Dow Jones Industrial Average (DJX), and European options on the Nasdaq 100 (NDX). In Chapter 10, we explained that the CBOE trades LEAPS and flex options on individual stocks. It also offers these option products on indices.  

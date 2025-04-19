@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cash_flow_engineering'
-  - '#currency_forwards'
-  - '#currency_swaps'
-  - '#foreign_exchange_markets'
-  - '#fx_futures'
-  - '#fx_swaps'
-  - '#pricing_models'
-  - '#swap_engineering'
+  - cash_flow_engineering
+  - currency_forwards
+  - fx_futures
+  - fx_markets
+  - fx_swaps
+  - swap_engineering
+aliases:
+  - Chapter 6
+  - FX Markets
+key_concepts:
+  - Contractual Equation
+  - Currency Forwards
+  - FX Forward Conventions
+  - Swap Engineering FX
+  - Synthetics and Pricing
 ---
+
 # CHAPTER 6 Cash Flow Engineering in Foreign Exchange Markets. 175  
 
 6.1 Introduction. 176   

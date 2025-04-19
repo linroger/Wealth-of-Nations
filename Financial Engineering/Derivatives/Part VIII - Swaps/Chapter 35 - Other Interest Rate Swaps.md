@@ -1,3 +1,22 @@
+---
+tags:
+  - basis_swaps
+  - interest_rate_swaps
+  - swap_hedging
+  - variable_rate_swaps
+  - zero_coupon_swaps
+aliases:
+  - floating-floating swap
+  - non-standard swaps
+  - spread-to-LIBOR swap
+  - yield curve swap
+key_concepts:
+  - floating rate interest payments
+  - hedge credit risk
+  - price non-standard swaps
+  - swap dealers hedge
+  - value interest rate swaps
+---
 # Other Interest Rate Swaps  
 
 # Aims  

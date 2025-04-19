@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#compounding_swaps'
-  - '#currency_swaps'
-  - '#embedded_options'
-  - '#equity_swaps'
-  - '#nonstandard_swaps'
-  - '#swaps'
-  - '#vanilla_deal'
+  - currency_swaps
+  - embedded_options
+  - equity_swaps
+  - swaps
+  - vanilla_deal
+aliases:
+  - Chapter 34
+  - Swaps
+  - Swaps Revisited
+key_concepts:
+  - Compounding swaps
+  - Currency swaps
+  - Equity swaps
+  - Swaps with options
+  - Vanilla deal variations
 ---
+
 # Chapter 34. Swaps revisited 751  
 
 34.1 Variations on the vanilla deal 751   

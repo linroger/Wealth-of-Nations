@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#fixed_interest_rate'
-  - '#forward_interest_rate'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#market_value'
-  - '#notional_amount'
-  - '#spot_interest_rate'
-  - '#swap_rate'
-  - '#variable_interest_rate'
-  - '#zero_coupon_bonds'
+  - fixed_interest_rate
+  - interest_rate_swaps
+  - libor
+  - loan_agreement
+  - variable_interest_rate
+aliases:
+  - IRS
+  - Interest Rate Swap
+  - Swaps
+key_concepts:
+  - Fixed vs. Variable Rates
+  - Interest Rate Definitions
+  - LIBOR and Prime Rate
+  - Loan Interest Payments
+  - Repayment Schedule
 ---
+
 # EDUCATION AND EXAMINATION COMMITTEE  
 
 OF THE  

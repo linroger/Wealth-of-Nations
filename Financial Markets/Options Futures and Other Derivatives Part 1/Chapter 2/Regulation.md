@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#cftc_regulation'
-  - '#commodity_futures_trading_commission'
-  - '#dodd_frank_act'
-  - '#futures_market_regulation'
-  - '#market_manipulation'
-  - '#national_futures_association'
-  - '#nfa_oversight'
-  - '#trading_irregularities'
+  - cftc_regulation
+  - dodd_frank_act
+  - futures_markets
+  - nfa_oversight
+  - trading_irregularities
+aliases:
+  - CFTC and NFA
+  - Regulation of Futures Markets
+key_concepts:
+  - CFTC public interest
+  - Dodd-Frank act expansion
+  - Futures trader reporting
+  - NFA fraud prevention
+  - Trading market irregularities
 ---
+
 # 2.9 REGULATION  
 
 Futures markets in the United States are currently regulated federally by the Commodity Futures Trading Commission (CFTC; www.cftc.gov), which was established in 1974.  

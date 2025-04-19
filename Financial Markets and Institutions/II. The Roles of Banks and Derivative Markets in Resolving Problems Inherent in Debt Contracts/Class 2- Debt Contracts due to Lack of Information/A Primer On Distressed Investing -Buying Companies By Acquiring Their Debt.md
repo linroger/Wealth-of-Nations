@@ -1,19 +1,23 @@
 ---
-aliases:
-  - A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
-  - A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 tags:
-  - '#bankruptcy_process'
-  - '#corporate_restructuring'
-  - '#debt_acquisition'
-  - '#distressed_investing'
-  - '#holdout_problem'
-  - '#home_max_inc'
-  - '#restructuring_plan'
-  - '#value_investing'
-  - '#vulture_investing'
+  - capital_structure
+  - company_restructuring
+  - debt_acquisition
+  - distressed_investing
+  - institutional_investors
+aliases:
+  - Buying Distressed Debt
+  - Distressed Debt Investing
+  - Investing in Distressed Companies
+key_concepts:
+  - Acquiring company debt
+  - Debt capacity and risk
+  - Institutional investor battles
+  - Restructuring plan execution
+  - Warren Buffett distressed investing
 ---
+
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 
 Acquiring control of a company typically involves buying the firm's equity and then assuming its liabilities. For example,  when Chevron purchased Atlas Energy in February of 2011,  it paid Atlas's shareholders $46.53 per share for their stock and assumed the firm's debt. The net result was that Chevron paid $3.2 billion in cash and assumed $1.1 billion in net debt

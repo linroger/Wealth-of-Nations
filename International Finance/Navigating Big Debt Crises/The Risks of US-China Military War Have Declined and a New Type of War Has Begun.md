@@ -5,16 +5,23 @@ source:
   https://www.linkedin.com/pulse/risks-us-china-military-war-have-declined-new-type-has-ray-dalio-dck8e/
 description:
 tags:
-  - '#apec_meeting'
-  - '#changing_world_order'
-  - '#cold_war_style_conflict'
-  - '#country_power_index'
-  - '#geopolitical_conflict'
-  - '#prisoner_s_dilemma'
-  - '#sun_tzu_art_of_war'
-  - '#technology_war'
-  - '#us_china_relations'
+  - apec_meeting
+  - changing_world_order
+  - geopolitical_conflict
+  - military_war
+  - us_china_relations
+aliases:
+  - Biden-Xi meeting
+  - US-China conflict
+  - geopolitical risks
+key_concepts:
+  - APEC meeting in San Francisco
+  - Military war risk declines
+  - New type of war begins
+  - Principles for world order
+  - US-China conflict changes
 ---
+
 *This will become more apparent at the upcoming Biden-Xi APEC meeting.*
 
 **To Be Clear on What I’m Giving You**

@@ -1,20 +1,23 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Homework 2
 tags:
-  - '#bond_cashflows'
-  - '#bond_pricing'
-  - '#credit_markets'
-  - '#duration_convexity'
-  - '#fixed_rate_bonds'
-  - '#quantlib'
-  - '#risk_metrics'
-  - '#us_treasury_bonds'
-  - '#yield_curve_calibration'
-  - '#z_spread'
+  - bond_market_data
+  - cashflow_schedules
+  - credit_markets
+  - fixed_rate_bonds
+  - quantlib
+aliases:
+  - Credit Markets
+  - Fixed Rate Bonds
+  - Homework 2
+key_concepts:
+  - Bond cash flows
+  - Cashflow schedules
+  - Fixed rate bonds
+  - QuantLib date object
+  - Symbology data
 ---
+
 # Credit Markets Homework 2
 
 This homework relies on:

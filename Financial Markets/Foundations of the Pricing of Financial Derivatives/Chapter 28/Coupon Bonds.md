@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#bond_pricing'
-  - '#bond_valuation'
-  - '#coupon_bonds'
-  - '#coupon_payments'
-  - '#discounting'
-  - '#principal_payment'
-  - '#zero_coupon_bonds'
+  - binomial_tree
+  - bond_pricing
+  - bond_valuation
+  - coupon_bonds
+  - zero_coupon_bonds
+aliases:
+  - Bond Pricing
+  - Coupon Bond
+key_concepts:
+  - Binomial tree prices
+  - Bond price calculation
+  - Coupon payments
+  - Discounting individual coupons
+  - Zero-coupon bond
 ---
+
 # 28.2 COUPON BONDS
 
 Coupon bonds make a series of payments of interest and a final payment of principal.

@@ -1,19 +1,24 @@
 ---
 title: HSBC-Auto callable Barrier Notes with Step-up Premium
-aliases:
 cssclasses: academia
 tags:
-  - '#auto_callable_notes'
-  - '#barrier_value'
-  - '#call_premium'
-  - '#hsbc_usa_inc'
-  - '#maturity_date'
-  - '#reference_return'
-  - '#risk_factors'
-  - '#russell_index'
-  - '#s_and_p_500_index'
-  - '#step_up_premium'
+  - auto_callable_notes
+  - barrier_notes
+  - hsbc
+  - index_linked
+  - step_up_premium
+aliases:
+  - Barrier Notes
+  - Callable Notes
+  - HSBC Notes
+key_concepts:
+  - Auto callable notes
+  - Call threshold
+  - Least performing underlying
+  - Principal amount
+  - Step-up premium
 ---
+
 # HSBC-Auto callable Barrier Notes with Step-up Premium
 
 # Linked to the Least Performing of the S&P $500^{\circledast}$ Index and the Russell $_{2000^{\circledast}}$ Index

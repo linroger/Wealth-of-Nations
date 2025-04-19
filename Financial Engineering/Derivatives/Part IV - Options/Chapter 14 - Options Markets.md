@@ -1,3 +1,22 @@
+---
+tags:
+  - cboe
+  - market_maker
+  - options_markets
+  - otc_market
+  - strike_price
+aliases:
+  - CBOE
+  - OTC
+  - Options
+  - Options Markets
+key_concepts:
+  - Call and put payoffs
+  - ITM, ATM, OTM
+  - Intrinsic and time value
+  - Options market organization
+  - Speculation and insurance
+---
 # OPTIONS  
 
 # Options Markets  

@@ -1,11 +1,20 @@
 ---
 tags:
-  - '#applications'
-  - '#calibration'
-  - '#fundamental_theorem'
-  - '#monte_carlo_approach'
-  - '#quantos'
+  - applications
+  - calibration
+  - fundamental_theorem
+  - monte_carlo
+  - quantos
+aliases:
+  - Applications of FTAP
+  - Chapter 13
+key_concepts:
+  - Fundamental Theorem
+  - Model calibration
+  - Monte Carlo approach
+  - Quanto derivatives
 ---
+
 # CHAPTER 13  Some Applications of the Fundamental Theorem 427  
 
 13.1 Introduction. 428   

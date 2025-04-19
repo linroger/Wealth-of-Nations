@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#bond_duration'
-  - '#currency_arbitrage'
-  - '#exchange_rate_exposure'
-  - '#fixed_income_instruments'
-  - '#forward_contracts'
-  - '#hedging'
-  - '#portfolio_immunization'
-  - '#purchase_power_parity'
-  - '#term_structure_interest_rates'
+  - arbitrage
+  - bond_pricing
+  - cash_flows
+  - coupon_bonds
+  - riskless_bonds
+aliases:
+  - Bond Arbitrage
+  - Fixed Income Arbitrage
+key_concepts:
+  - Bond portfolio value
+  - Bond replication
+  - Cash flow series
+  - Guaranteed payments
+  - Riskless arbitrage
 ---
+
 # Arbitrage and Hedging With Fixed Income Instruments and Currencies  
 
 # 8.1 ARBITRAGE WITH RISKLESS BONDS  

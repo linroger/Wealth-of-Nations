@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#american_options'
-  - '#black_scholes_model'
-  - '#european_options'
-  - '#expiration_date'
-  - '#option_contracts'
-  - '#option_notation'
-  - '#option_payoff'
-  - '#option_time_value'
-  - '#plain_vanilla_options'
-  - '#strike_price'
+  - american_options
+  - black_scholes_model
+  - european_options
+  - option_notation
+  - option_pricing
+  - options_contracts
+  - plain_vanilla_options
+aliases:
+  - Exotic Options
+  - Option Definition
+  - Options
+  - Vanilla Options
+key_concepts:
+  - Black-Scholes framework
+  - European vs American
+  - Expiration date
+  - Option contract types
+  - Strike/exercise price
 ---
+
 # 9.3 OPTIONS: DEFINITION AND NOTATION  
 
 Option contracts are generally divided into the categories of plain vanilla and exotic options, although many of the options that used to be known as exotic are vanilla instruments today. In discussing options, it is good practice to start with a simple benchmark model, understand the basics. of options, and then extend the approach to more complicated instruments. This simple benchmark will be a plain vanilla option treated within the framework of the Black-Scholes model..  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#credit_structure_arbitrage'
-  - '#global_macro_funds'
-  - '#hedge_fund_strategies'
-  - '#long_short_equity'
-  - '#merger_arbitrage'
-  - '#pairs_trading'
-  - '#relative_value_funds'
-  - '#statistical_arbitrage'
-  - '#theoretical_relative_value'
-  - '#volatility_arbitrage'
+  - financials
+  - hedge_fund_strategies
+  - long_short_equity
+  - market_upturn
+  - relative_asset_value
+aliases:
+  - Hedge Fund Strategies
+  - Relative Asset Value Funds
+key_concepts:
+  - financials sector
+  - long-short equity fund
+  - market upturn
+  - relative asset value
+  - stock market
 ---
+
 # 12.1  HEDGE FUND STRATEGIES  
 
 While global macro, fixed income and event-driven funds have often attracted press coverage, more than $50\%$ of all hedge funds employ strategies focused on equities. Figure 12.2 shows a breakdown compiled from various sources as of the end of the first quarter of 2010.  

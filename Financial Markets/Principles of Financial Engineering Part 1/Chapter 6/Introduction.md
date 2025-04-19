@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#currency_forwards'
-  - '#euro_denominated_bonds'
-  - '#forwards_futures_contracts'
-  - '#fx_forward_contracts'
-  - '#no_arbitrage'
-  - '#synthetic_instruments'
-  - '#synthetic_zero_coupon_bond'
-  - '#usd_chf'
+  - currency_forwards
+  - forwards_futures
+  - fx_risk
+  - no_arbitrage
+  - synthetic_instruments
+aliases:
+  - FX forward
+  - USD-denominated instrument
+key_concepts:
+  - Forwards and futures contracts
+  - Linear static replication
+  - Liquid FX forward contracts
+  - Synthetic zero coupon bond
+  - USD-denominated instruments
 ---
+
 # 6.1 INTRODUCTION  
 
 Forwards and futures contracts are ideal for creating synthetic instruments for many reasons. Forwards and futures are, in general, linear permitting static replication. They are often very liquid and, in the case of currency forwards, have homogeneous underlying. Many technical complications are automatically eliminated by the homogeneity of a currency. Consider the following interpretation..  

@@ -1,21 +1,25 @@
 ---
-aliases:
 cssclasses: academia
 title: Foreign Exchange Reserves - Wikipedia
 source: https://en.wikipedia.org/wiki/Foreign_exchange_reserves
 description:
 tags:
-  - '#balance_of_payments'
-  - '#capital_mobility'
-  - '#central_bank'
-  - '#exchange_rate_policy'
-  - '#financial_crises'
-  - '#foreign_exchange_reserves'
-  - '#gold_standard'
-  - '#imf'
-  - '#monetary_policy'
-  - '#reserve_accumulation'
+  - central_bank
+  - currency
+  - foreign_exchange
+  - fx_reserves
+  - reserve_management
+aliases:
+  - FX reserves
+  - forex reserves
+key_concepts:
+  - central bank objectives
+  - currency composition
+  - foreign exchange reserves
+  - reserve asset components
+  - reserve management functions
 ---
+
 # Foreign Exchange Reserves - Wikipedia
 **Foreign exchange reserves** (also called **forex reserves** or **FX reserves**) are [cash](https://en.wikipedia.org/wiki/Cash "Cash") and other reserve assets such as [gold](https://en.wikipedia.org/wiki/Gold_reserve "Gold reserve") and [silver](https://en.wikipedia.org/wiki/Silver#Monetary_use "Silver") held by a [central bank](https://en.wikipedia.org/wiki/Central_bank "Central bank") or other [monetary authority](https://en.wikipedia.org/wiki/Central_bank#Supranational_central_banks "Central bank") that are primarily available to [balance payments](https://en.wikipedia.org/wiki/Balance_of_payments "Balance of payments") of the country,  influence the foreign exchange rate of its currency,  and to maintain confidence in financial markets. Reserves are held in one or more [reserve currencies](https://en.wikipedia.org/wiki/Reserve_currency "Reserve currency"),  nowadays mostly the [United States dollar](https://en.wikipedia.org/wiki/United_States_dollar "United States dollar") and to a lesser extent the [euro](https://en.wikipedia.org/wiki/Euro "Euro").[^1]
 

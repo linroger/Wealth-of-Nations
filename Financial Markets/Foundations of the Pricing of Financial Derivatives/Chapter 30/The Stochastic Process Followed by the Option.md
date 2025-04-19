@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#brownian_motion'
-  - '#capital_asset_pricing_model'
-  - '#ito_lemma'
-  - '#option_pricing_model'
-  - '#option_return'
-  - '#option_volatility'
-  - '#risk_free_rate'
-  - '#stochastic_process'
+  - black_scholes_merton
+  - capm
+  - ito_lemma
+  - option_pricing
+  - stochastic_process
+aliases:
+  - Option Pricing
+  - Stochastic Process
+key_concepts:
+  - Expected return calculation
+  - Ito's lemma application
+  - Option pricing formula
+  - Stochastic process of asset
+  - Volatility of the option
 ---
+
 # 30.6 THE STOCHASTIC PROCESS FOLLOWED BY THE OPTION
 
 When deriving the option pricing model, we assume that the asset follows a stochastic process of the form

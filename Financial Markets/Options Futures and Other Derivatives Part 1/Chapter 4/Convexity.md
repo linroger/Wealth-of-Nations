@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#bond_portfolio'
-  - '#convexity'
-  - '#duration'
-  - '#nonparallel_shifts'
-  - '#taylor_series_expansion'
-  - '#yield_change'
-  - '#zero_curve'
+  - bond_convexity
+  - bond_portfolio
+  - convexity_risk
+  - duration
+  - yield_curve
+aliases:
+  - Bond Convexity
+  - Convexity in Bonds
+key_concepts:
+  - Bond portfolio curvature
+  - Convexity definition
+  - Duration relationship
+  - Parallel yield shifts
+  - Taylor series expansion
 ---
+
 # 4.11 CONVEXITY  
 
 The duration relationship applies only to small changes in yields. This is illustrated in Figure 4.2, which shows the relationship between the percentage change in value and change in yield for two bond portfolios having the same duration. The gradients of the two curves are the same at the origin. This means that both bond portfolios change in value by the same percentage for small yield changes and is consistent with equation (4.12). For large yield changes, the portfolios behave differently. Portfolio $X$ has more curvature in its relationship with yields than portfolio Y. A factor known as convexity measures this curvature and can be used to improve the relationship in equation (4.12).  

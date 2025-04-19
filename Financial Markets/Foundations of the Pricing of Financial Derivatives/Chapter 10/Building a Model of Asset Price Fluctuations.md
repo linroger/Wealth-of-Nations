@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#arithmetic_brownian_motion'
-  - '#asset_price_fluctuations'
-  - '#asset_return_model'
-  - '#drift_term'
-  - '#geometric_brownian_motion'
-  - '#ito_process'
-  - '#lognormal_distribution'
-  - '#noise_term'
-  - '#wiener_process'
+  - asset_price_dynamics
+  - asset_price_model
+  - asset_volatility
+  - drift_term
+  - wiener_process
+aliases:
+  - Asset Fluctuation Model
+  - Asset Return Model
+key_concepts:
+  - Absorbing barrier
+  - Annual expected return
+  - Expected return and variance
+  - Modified Wiener process
+  - Random component of return
 ---
+
 # 10.4 BUILDING A MODEL OF ASSET PRICE FLUCTUATIONS
 
 The characteristics of the return on an asset can be described by the expected return and. variance of return.' Let $E(R)$ be the expected return on the asset and $\sigma^{2}$ be the variance of the return, with both measures standardized to a common period of time, typically a. year.4 Thus, these are the annual expected return and variance. Then $\sigma$ is the standard deviation, which is the square root of the variance. If we have an effective model, a sample of historical data will produce an average return and standard deviation equal to these. values.

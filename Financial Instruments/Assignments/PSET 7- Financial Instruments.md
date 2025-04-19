@@ -1,22 +1,25 @@
 ---
-aliases:
-  - FINANCIAL INSTRUMENTS
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS
 title: PSET 7Financial Instruments
 cssclasses:
   - academia
 tags:
-  - '#american_options'
-  - '#binomial_tree_model'
-  - '#citigroup_default_probability'
-  - '#credit_crisis'
-  - '#financial_instruments'
-  - '#implied_volatility'
-  - '#kmv_model'
-  - '#merton_model'
-  - '#paulson_plan'
-  - '#probability_of_default'
+  - american_options
+  - binomial_tree
+  - call_option
+  - financial_instruments
+  - put_option
+aliases:
+  - Homework 7
+  - PSET 7
+key_concepts:
+  - American call option
+  - American put option
+  - Binomial tree model
+  - Continuously compounded rate
+  - Strike price
 ---
+
 # PSET 7Financial Instruments
 
 BUS 35100 Winter 2024 John Heaton

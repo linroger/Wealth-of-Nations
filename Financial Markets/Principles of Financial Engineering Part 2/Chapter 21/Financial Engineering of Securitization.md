@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asset_backed_securities'
-  - '#cash_flow_analysis'
-  - '#credit_rating'
-  - '#financial_engineering'
-  - '#funding_alternatives'
-  - '#loan_sales'
-  - '#secured_lending'
-  - '#securitization'
-  - '#special_purpose_vehicle'
+  - abs_securitization
+  - cash_flows
+  - credit_rating
+  - financial_engineering
+  - securitization
+aliases:
+  - ABS
+  - Financial Engineering
+  - Securitization
+key_concepts:
+  - 'ABS: higher rating debt'
+  - 'Cash flows: different ratings'
+  - "Credit rating: company's value"
+  - 'Financial engineering: aspects'
+  - 'Securitization: debt instrument'
 ---
+
 # 21.2 FINANCIAL ENGINEERING OF SECURITIZATION  
 
 Every business or financial institution is associated with a "credit' or, more precisely, a credit rating. If this entity issues a debt instrument to secure funding, then the resulting bonds, in general, have the same credit rating as the company. Yet, a company can also be interpreted as the receiver of future cash flows with different credit ratings. The value and the credit rating of the company will be a function of these future cash flows. Not all the receivables will have the same rating. For example, some cash flows may be owed by institutions with a dubious credit record, and these cash flows may not be received in the case of default or delinquency. Other cash flows may be liabilities of highly reputable companies, may carry a low probability of default, and may indeed be received with very high probability.  

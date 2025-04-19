@@ -1,23 +1,29 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
-  - Interest Rate Derivatives
 title: Teaching Note 4 Interest Rate Derivatives
 tags:
-  - '#covered_interest_rate_parity'
-  - '#flat_volatility'
-  - '#forward_rate_agreement'
-  - '#forward_volatility'
-  - '#interest_rate_derivatives'
-  - '#libor_repo_spread'
-  - '#no_arbitrage'
-  - '#risk_management'
-  - '#swap_spread'
-  - '#swaptions'
+  - forward_contracts
+  - hedging_interest_rate
+  - interest_rate_derivatives
+  - spot_curve
+  - swap_rates
+aliases:
+  - FRA
+  - Forward Rate Agreement
+  - Interest Rate Swap
+  - Swap
+  - Teaching Note
+key_concepts:
+  - Discount factor
+  - Fixed-for-floating swap
+  - Forward contracts
+  - Interest rate risk
+  - Spot curve
+  - Swap rate
+  - Trading strategy
 ---
+
 # Teaching Note 4 Interest Rate Derivatives
 
 John Heaton

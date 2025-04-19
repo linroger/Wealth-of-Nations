@@ -1,22 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - What It Tells You
-  - How to Calculate.md
 title: Leverage Ratio
 tags:
-  - '#banking_regulations'
-  - '#consumer_leverage_ratio'
-  - '#debt_to_capitalization_ratio'
-  - '#debt_to_ebitda_ratio'
-  - '#debt_to_equity_ratio'
-  - '#degree_of_financial_leverage'
-  - '#equity_multiplier'
-  - '#fixed_charge_coverage_ratio'
-  - '#interest_coverage_ratio'
-  - '#leverage_ratio'
+  - accounting_leverage
+  - banking_regulation
+  - consumer_leverage_ratio
+  - debt_to_equity_ratio
+  - financial_ratios
+aliases:
+  - Debt Ratio
+  - Financial Leverage
+  - Leverage
+key_concepts:
+  - Assess financial obligations
+  - Banks and leverage ratios
+  - Debt amplifies returns
+  - Debt and equity mix
+  - Debt and financial obligations
 ---
+
 [[Leverage Ratio]]
 
 # Leverage Ratio

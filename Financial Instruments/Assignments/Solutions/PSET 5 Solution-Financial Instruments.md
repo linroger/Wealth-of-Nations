@@ -1,22 +1,32 @@
 ---
-aliases:
-  - PSET 5 Financial Instruments
-  - 
-  - 
 linter-yaml-title-alias: PSET 5 Financial Instruments
 title: PSET 5 Financial Instruments
 tags:
-  - '#binomial_tree'
-  - '#black_scholes_model'
-  - '#convexity'
-  - '#delta_hedging'
-  - '#dividend_yield'
-  - '#financial_instruments'
-  - '#option_payoff'
-  - '#option_pricing'
-  - '#put_option'
-  - '#replicating_portfolio'
+  - binomial_tree
+  - convexity
+  - delta_hedging
+  - financial_instruments
+  - option_payoff
+  - option_pricing
+  - replicating_portfolio
+  - self_financing
+  - stock_price
+aliases:
+  - Binomial Tree
+  - Homework 5
+  - PSET 5
+  - Replicating Portfolio
+key_concepts:
+  - Convex relationship
+  - Multi-period binomial tree
+  - Option payoff computation
+  - Portfolio P&L
+  - Portfolio value calculation
+  - Replicating portfolio setup
+  - Self-financing portfolio
+  - Stock price tree
 ---
+
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments
 

@@ -1,17 +1,23 @@
 ---
 title: Appendix 25. A Constructing the BDT Tree
-aliases:
-  - Constructing the BDT Tree
 tags:
-  - '#bdt_tree_construction'
-  - '#black_derman_toy_model'
-  - '#bond_pricing'
-  - '#bond_yields'
-  - '#financial_modeling'
-  - '#tree_verification'
-  - '#yield_volatility'
-  - '#zero_coupon_bond_prices'
+  - bdt_tree
+  - black_derman_toy
+  - bond_pricing
+  - yield_volatility
+  - zero_coupon_bond
+aliases:
+  - BDT Tree Construction
+  - Constructing BDT Tree
+  - Verifying Yields
+key_concepts:
+  - 1-year yield calculation
+  - 2-year bond price
+  - BDT tree verification
+  - Building tree outward
+  - Yield volatility matching
 ---
+
 # Appendix 25. A Constructing the BDT Tree
 
 In this appendix we verify that the tree in Figure 25.5 matches the price information in Table 25.1. We also see how to construct the tree. For reference,  Figure 25.12 depicts the one-yean zero coupon bond prices at each node of the BDT tree.

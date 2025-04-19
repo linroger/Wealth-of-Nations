@@ -1,14 +1,31 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#currency_options'
-  - '#exercise_price'
-  - '#foreign_currency_options'
-  - '#implied_volatility'
-  - '#isomorphism'
-  - '#option_pricing'
-  - '#volatility_smile'
+  - black_scholes_merton
+  - dividends
+  - exercise_price
+  - financial_crisis
+  - foreign_currency
+  - holding_period_returns
+  - implied_volatility
+  - option_pricing
+  - vix_calculations
+  - volatility_smile
+aliases:
+  - B-S-M Model
+  - Implied Vol
+  - Preview
+  - Recap
+key_concepts:
+  - Black-Scholes-Merton model
+  - Call implied volatilities
+  - Foreign currency options
+  - Implied volatility and smile
+  - Option pricing model
+  - Put implied volatilities
+  - SPY holding period returns
+  - Volatility surface
 ---
+
 # 31.7 RECAP AND PREVIEW
 
 The entire notion of implied volatility and the existence of the volatility smile are results. of using a model that does not capture every factor that affects the prices of options. Practitioners and academics largely accept the limitations of the model and consider the smile a means of forcing the model to reveal information it is not designed to reveal. As flawed as the model may be, the advantages of the Black-Scholes-Merton model and its attendant defects may outweigh the disadvantages of other more complex models.

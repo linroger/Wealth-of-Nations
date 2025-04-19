@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#fra_contracts'
-  - '#horizontal_decomposition'
-  - '#interest_rate_swap'
-  - '#libor_rate'
-  - '#present_value_calculation'
-  - '#swap_decomposition'
-  - '#swap_pricing'
-  - '#synthetic_coupon_bond'
-  - '#vertical_decomposition'
+  - fixed_payments
+  - floating_payments
+  - interest_rate_swap
+  - libor_rate
+  - plain_vanilla_swap
+aliases:
+  - Horizontal Decomposition
+  - IRS
+  - Swap Engineering
+key_concepts:
+  - Fixed vs floating payments
+  - Forward swap definition
+  - Horizontal decomposition
+  - LIBOR rate determination
+  - Swap decomposition methods
 ---
+
 # 4.5 ENGINEERING INTEREST-RATE SWAPS  
 
 We now study the financial engineering of swaps. We focus on plain vanilla interest-rate swaps. Engineering of other swaps is similar in many ways and is left to the reader. For simplicity, we deal with a case of only three settlement dates. Figure 4.8 shows a fixed-payer, three-period  

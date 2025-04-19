@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#asset_swaps'
-  - '#basis_swaps'
-  - '#corporate_bonds'
-  - '#equity_swaps'
-  - '#fannie_mae'
-  - '#fixed_income'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#swap_spread'
-  - '#swaps'
+  - equity_swaps
+  - interest_rate_swaps
+  - noninterest_rate_swaps
+  - swap_types
+  - total_return_swaps
+aliases:
+  - Equity Swap
+  - Total Return Swap
+  - Types of Swaps
+key_concepts:
+  - Equity-based returns
+  - LIBOR-based cash flows
+  - Noninterest-rate swaps
+  - Swap instrument category
+  - Total return swaps
 ---
+
 # 4.4 TYPES OF SWAPS  
 
 Swaps are a very broad instrument category. Practically, every cash flow sequence can be used to generate a swap. It is impossible to discuss all the relevant material in this book. So, instead of. spreading the discussion thinly, we adopt a strategy where a number of critical swap structures are selected and the discussion is centered on these. We hope that the extension of the implied swap. engineering to other swap categories will be straightforward.  

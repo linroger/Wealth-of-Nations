@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#cms_pricing'
-  - '#constant_maturity_swap'
-  - '#convexity_adjustments'
-  - '#forward_measure'
-  - '#fra_markets'
-  - '#libor_in_arrears'
-  - '#measure_change_technology'
-  - '#monte_carlo_simulation'
-  - '#swaptions'
+  - cms_products
+  - constant_maturity_swap
+  - european_investors
+  - interest_rate_hedging
+  - swaptions
+aliases:
+  - CMS
+  - Constant Maturity Swap
+  - Interest Rate Swaps
+  - Swap Rate
+key_concepts:
+  - 10-year swap rate
+  - CMS caps
+  - Exotic product
+  - Long-dated liabilities
+  - Rising interest rates
 ---
+
 # 14.6 AN APPLICATION  
 
 The forward measure and measure change technology are relevant for the pricing of many instruments. But there is one instrument class that has recently become quite popular with market participants and that can be priced with this technology. These are CMSs. They have properties that would illustrate some subtleties of the methods used thus far. In order to price them, forward rates need to be projected jointly..  

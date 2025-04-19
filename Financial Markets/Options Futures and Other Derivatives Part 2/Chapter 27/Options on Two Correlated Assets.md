@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_tree'
-  - '#correlated_assets'
-  - '#nonrectangular_tree'
-  - '#probability_adjustment'
-  - '#risk_neutral_processes'
-  - '#rubinstein_method'
-  - '#three_dimensional_tree'
+  - american_options
+  - binomial_tree
+  - correlated_assets
+  - option_pricing
+  - risk_neutral
+aliases:
+  - Options on Correlated Assets
+  - Two Asset Options
+key_concepts:
+  - American option valuation
+  - Binomial tree construction
+  - Correlated asset pricing
+  - Nonrectangular tree method
+  - Transforming variables
 ---
+
 # 27.7 OPTIONS ON TWO CORRELATED ASSETS  
 
 Another tricky numerical problem is that of valuing American options dependent on two assets whose prices are correlated. A number of alternative approaches have been suggested. This section will explain three of these.  

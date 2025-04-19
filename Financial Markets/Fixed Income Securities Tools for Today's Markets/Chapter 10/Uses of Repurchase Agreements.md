@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#broker_dealers'
-  - '#collateral_swaps'
-  - '#general_collateral_gc'
-  - '#long_financing'
-  - '#money_market_funds'
-  - '#repo_investors'
-  - '#repo_market'
-  - '#repurchase_agreements'
-  - '#short_financing'
-  - '#special_collateral_specials'
+  - cash_management
+  - collateral_swaps
+  - long_financing
+  - repo_market
+  - repurchase_agreements
+  - short_financing
+aliases:
+  - Repo applications
+  - Repo uses
+  - Repurchase agreement uses
+key_concepts:
+  - Repo agreement duration
+  - Repo as short-term investment
+  - Repo for cash management
+  - Repo for collateral swaps
+  - Repo for short financing
 ---
+
 # 10.2 USES OF REPURCHASE AGREEMENTS  
 
 This section describes the four major uses of repurchase agreements: investing and cash management, long financing, shorts or short financing, and collateral swaps.  

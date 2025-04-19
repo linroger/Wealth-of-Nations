@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#equity_repos'
-  - '#financial_engineering'
-  - '#global_financial_crisis_gfc'
-  - '#repo_details'
-  - '#repo_market_strategies'
-  - '#repo_market_types'
-  - '#synthetic_repos'
+  - equity_repos
+  - financial_engineering
+  - gfc_impact
+  - repo_market
+  - repo_strategies
+aliases:
+  - Repo Market
+  - Repo Strategies
+key_concepts:
+  - Equity repos
+  - GFC impact on repo
+  - Repo market details
+  - Repo market strategies
+  - Synthetics using repos
 ---
+
 # CHAPTER 5 Repo Market Strategies in Financial Engineering. 149  
 
 5.1 Introduction .150   

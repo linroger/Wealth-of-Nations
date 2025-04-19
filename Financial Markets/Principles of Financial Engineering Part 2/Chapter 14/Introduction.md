@@ -1,15 +1,31 @@
 ---
 tags:
-  - '#constant_maturity_swaps_cms'
-  - '#fixed_income_security_pricing'
-  - '#forward_libor_model'
-  - '#girsanov_transformations'
-  - '#measure_change_technology'
-  - '#ois_curve'
-  - '#swap_derivatives'
-  - '#swap_instruments'
-  - '#term_structure_modeling'
+  - fixed_income
+  - libor_model
+  - ois_curve
+  - swap_derivatives
+  - term_structure
+aliases:
+  - BGM Model
+  - Fixed-Income Security Pricing
+  - Forward LIBOR
+  - Introduction to Fixed Income
+  - Swap-Type Instruments
+key_concepts:
+  - Constant maturity swaps
+  - Convexity effects calculation
+  - Fixed-income security pricing
+  - Forward LIBOR Model
+  - Measure change technology
+  - OIS curve
+  - Short-rate modeling
+  - Swap derivatives analysis
+  - Swap market mechanics
+  - Swap-type instrument discussion
+  - Swaptions and interest rates
+  - Term structure modeling
 ---
+
 # 14.1 INTRODUCTION  
 
 This chapter extends the discussion of swap-type instruments and outlines a simple framework for fixed-income security pricing. Term structure modeling is treated within this framework. The chapter also introduces the recent models that are becoming a benchmark in this sector.  

@@ -1,20 +1,25 @@
 ---
 title: Capital Wars from 1600 to the Present
-aliases:
 cssclasses:
   - academia
 tags:
-  - '#asset_freezes_seizures'
-  - '#capital_wars'
-  - '#economic_conflicts'
-  - '#financial_markets'
-  - '#geopolitical_strategy'
-  - '#historical_cases'
-  - '#sanctions'
-  - '#trade_blockades'
-  - '#us_sanctions'
-  - '#ww2'
+  - asset_freezes
+  - capital_wars
+  - economic_conflicts
+  - geopolitical_conflict
+  - trade_embargoes
+aliases:
+  - Capital Conflicts
+  - Economic Warfare
+  - Financial Warfare
+key_concepts:
+  - Asset freezes and seizures
+  - Blocking capital market access
+  - Embargoes and blockades
+  - Escalating conflicts between powers
+  - Tit-for-tat escalation
 ---
+
 # Capital Wars from 1600 to the Present
 
 As I studied past cases of conflict between major powers,  I observed that in most cases,  before there is a shooting war,  there is a mix of escalating economic,  technological,  geopolitical,  and capital wars. For instance,  while 1939 and 1941 are known as the official starts of World War ll in Europe and the Pacific,  the conflicts really began about 10 years before that,  with a series of escalating economic and capital conflicts before the “hot war began

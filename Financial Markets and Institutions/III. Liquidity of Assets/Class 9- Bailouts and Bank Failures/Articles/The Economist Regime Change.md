@@ -1,20 +1,25 @@
 ---
-aliases:
-  - The Economist Regime Change
-  - The Economist Regime Change.md
 banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
 title: The Economist Regime Change
 tags:
-  - '#budget_deficits'
-  - '#central_banks'
-  - '#economic_reversal'
-  - '#energy_crisis'
-  - '#fiscal_policy'
-  - '#global_economy'
-  - '#government_spending'
-  - '#inflation'
-  - '#monetary_policy'
+  - central_banks
+  - economic_stability
+  - fiscal_policy
+  - global_inflation
+  - monetary_policy
+aliases:
+  - Fiscal Policy
+  - Monetary Policy
+  - Regime Change
+  - The Economist
+key_concepts:
+  - Central banks raising rates
+  - Economic policy reboot
+  - Federal Reserve shifts
+  - Fiscal policy reversal
+  - Global inflation surge
 ---
+
  ![500](4a643986b2694830401910f31df7403911f5d2ef.avif.png)
 
 # The Economist Regime Change

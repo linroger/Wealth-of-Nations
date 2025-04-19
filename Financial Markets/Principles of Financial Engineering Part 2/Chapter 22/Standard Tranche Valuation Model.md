@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cdos_tranche_valuation'
-  - '#central_limit_theorem'
-  - '#compound_correlation'
-  - '#default_correlation'
-  - '#gaussian_copula_model'
-  - '#implied_correlation'
-  - '#market_model'
-  - '#monte_carlo_simulation'
-  - '#tranche_spreads'
+  - default_correlation
+  - gaussian_copula_model
+  - merton_model
+  - risk_neutral_probability
+  - standard_tranche_valuation
+aliases:
+  - Gaussian Copula
+  - Standard Tranche Model
+  - Tranche Valuation
+key_concepts:
+  - Common factor
+  - Default probability
+  - Gaussian copula model
+  - Idiosyncratic component
+  - Latent variables
 ---
+
 # 22.3 STANDARD TRANCHE VALUATION MODEL  
 
 We now show how the distribution of. $D$ can be calculated under correlations different than O and.   

@@ -1,21 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Note 12 Part 2 Repos
-  - Class Note 12 Part 2 Repos.md
 title: Class Note 12 Part 2 Repos
 tags:
-  - '#bilateral_repo'
-  - '#collateralized_borrowing'
-  - '#margin_haircut'
-  - '#mark_to_market'
-  - '#primary_dealer_credit_facility'
-  - '#repo_agreement'
-  - '#repo_market'
-  - '#subprime_mortgage_backed_securities'
-  - '#tri_party_repo'
+  - collateralized_borrowing
+  - interest_rate
+  - margin
+  - repo_market
+  - security_trading
+aliases:
+  - Collateralized Borrowing
+  - Repo
+  - Repos
+  - Repurchase Agreement
+key_concepts:
+  - Collateralized borrowing of cash
+  - Margin protects lenders
+  - Market value of security
+  - Repo agreement elements
+  - Subprime mortgage security
 ---
+
 [[Class Note 12 Part 2 Repos|Repos]]
 
 # Class Note 12 Part 2 Repos

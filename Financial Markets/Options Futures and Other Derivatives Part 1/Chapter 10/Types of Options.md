@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#call_options'
-  - '#early_exercise'
-  - '#european_options'
-  - '#expiration_date'
-  - '#option_profit_loss'
-  - '#options_types'
-  - '#put_options'
-  - '#strike_price'
+  - american_option
+  - call_option
+  - european_option
+  - expiration_date
+  - put_option
+aliases:
+  - maturity date
+  - strike price
+key_concepts:
+  - American vs European
+  - Call option right
+  - Exercise before expiration
+  - Put option right
+  - Types of options
 ---
+
 # 10.1 TYPES OF OPTIONS  
 
 As mentioned in Chapter 1, there are two types of options. A call option gives the holder of the option the right to buy an asset by a certain date for a certain price. A put option gives the holder the right to sell an asset by a certain date for a certain price. The date specified in the contract is known as the expiration date or the maturity date. The price specified in the contract is known as the exercise price or the strike price.  

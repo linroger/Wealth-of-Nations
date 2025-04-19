@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#cobb_douglas_utility'
-  - '#inflation_effects'
-  - '#monetary_economies'
-  - '#money_supply'
-  - '#nominal_short_rate'
-  - '#real_short_rate'
-  - '#real_vs_nominal_interest_rates'
-  - '#state_price_deflator'
-  - '#term_structure_models'
+  - asset_pricing
+  - inflation
+  - monetary_economies
+  - real_nominal_rates
+  - term_structure
+aliases:
+  - Nominal Interest Rates
+  - Real vs Nominal Rates
+key_concepts:
+  - Expected inflation rate
+  - Nominal state-price deflator
+  - Real short-term interest rate
+  - Real vs nominal bonds
+  - Real, nominal interest rates
 ---
+
 # 10.6 Real and nominal interest rates and term structures  
 
 In the following we shall first derive some generally valid relations between real rates, nominal rates, and inflation and investigate the differences between real and nominal bonds. Then we will discuss two different types of models in which we can say more about real and nominal rates. The first setting follows the neoclassical tradition in assuming that monetary holdings do not affect the preferences of the individuals so that the presence of money has no effects on real rates and real asset returns. Hence, the relations derived earlier in this chapter still applies. However, several empirical findings indicate that the existence of money does have real effects. For example, real stock returns are negatively correlated with inflation and positively correlated with money growth. Also, assets that are positively correlated with inflation have a lower expected return.2 In the second setting we consider below, money is allowed to have real effects. Economies with this property are called monetary economies.  

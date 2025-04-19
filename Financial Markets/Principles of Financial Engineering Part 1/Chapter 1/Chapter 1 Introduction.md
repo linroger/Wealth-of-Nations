@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#chapter_introduction'
-  - '#financial_instruments'
-  - '#money_market_problem'
-  - '#taxation_example'
-  - '#trading_volatility'
-  - '#unique_instrument'
+  - chapter_introduction
+  - exercises
+  - money_market
+  - taxation
+  - trading_volatility
+aliases:
+  - Chapter 1
+  - Introduction
+key_concepts:
+  - Money market problem
+  - Suggested reading
+  - Taxation example
+  - Trading volatility
+  - Unique instrument
 ---
+
 # CHAPTER 1 Introduction  
 
 1.1 A Unique Instrument . 2   

@@ -1,22 +1,23 @@
 ---
-aliases:
-  - 
-  - GOVERNMENT OF CANADA BOND FUTURES
-  - 
 linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
 title: Carry Trade
 tags:
-  - '#arbitrage'
-  - '#backwardation'
-  - '#cash_and_carry_trade'
-  - '#contango'
-  - '#futures_contracts'
-  - '#lgb_contract'
-  - '#montreal_exchange'
-  - '#repo_rate'
-  - '#reverse_cash_and_carry'
-  - '#spot_price'
+  - arbitrage
+  - carry_trade
+  - futures_market
+  - market_neutral
+  - spot_market
+aliases:
+  - Cash-and-Carry
+  - Reverse Carry Trade
+key_concepts:
+  - Arbitrage strategy
+  - Contango and backwardation
+  - Futures vs spot prices
+  - Market neutral strategy
+  - Profit from price spread
 ---
+
 [Lecture Note 1- Forward Rates Agreement](Lecture%20Note%201-%20Forward%20Rates%20Agreement.md)
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
 [Currency Forward](Currency%20Forward.md)

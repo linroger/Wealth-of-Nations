@@ -1,13 +1,28 @@
 ---
 tags:
-  - '#asset_class_linked_notes'
-  - '#insurance_risk_products'
-  - '#interest_rate_products'
-  - '#inverse_floater'
-  - '#principal_protected_notes'
-  - '#structured_finance'
-  - '#structured_notes'
+  - asset_class
+  - insurance_risk
+  - interest_rate
+  - structured_finance
+  - structured_products
+aliases:
+  - SF 203
+  - Structured Finance
+  - Structured Notes
+key_concepts:
+  - Asset Class-Linked Notes
+  - Callable Note
+  - Capped Floater
+  - Commodity-Tracking ETNs
+  - Index Principal Swap
+  - Insurance Risk Products
+  - Inverse Floater
+  - Leveraged Inverse Floater
+  - Multi-Asset Note
+  - Principal-Protected Notes
+  - Range Floater
 ---
+
 # 8 Structured Finance 203  
 
 8.1 A Simple Classification of Structured Notes 204   

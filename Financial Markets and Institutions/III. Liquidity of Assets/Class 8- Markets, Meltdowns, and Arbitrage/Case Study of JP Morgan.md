@@ -1,22 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Case Study of JP Morgan.md
-  - Case Study of JP Morgan
 title: Case Study of JP Morgan
 tags:
-  - '#basel_iii'
-  - '#chief_investment_office'
-  - '#credit_derivatives'
-  - '#financial_crisis'
-  - '#governance_failures'
-  - '#jp_morgan'
-  - '#london_whale'
-  - '#risk_management'
-  - '#synthetic_credit_portfolio'
-  - '#vaar'
+  - banking_system
+  - case_study
+  - financial_crisis
+  - jp_morgan
+  - risk_management
+aliases:
+  - JP Morgan Case Study
+  - JPMorgan Chase
+key_concepts:
+  - 2008 financial crisis
+  - 'JP Morgan: financial leader'
+  - Risk management framework
+  - Too big to fail
+  - Value-at-Risk (VaR)
 ---
+
 # Case Study of JP Morgan
 
 Case Study of JP Morgan From a forthcoming book by Basel III: Proposals for a Better Banking Regime

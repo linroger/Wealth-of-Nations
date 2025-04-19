@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#affine_models'
-  - '#convexity_adjustment'
-  - '#hull_white_model'
-  - '#short_rate_model'
-  - '#sofr'
-  - '#sofr_curve'
-  - '#sofr_derivatives'
-  - '#sofr_futures'
-  - '#sofr_options'
-  - '#sofr_swaptions'
+  - affine_models
+  - futures
+  - options
+  - sofr
+  - swaption
+aliases:
+  - Gaussian models
+  - SOFR derivative pricing
+  - SOFR derivatives
+key_concepts:
+  - Affine term structure models
+  - Analytic pricing formula
+  - European SOFR options
+  - Overnight Treasury repo rate
+  - SOFR reference rate
 ---
+
 # SOFR Derivative Pricing Using a Short Rate Model
 
 Mingyang Xu  

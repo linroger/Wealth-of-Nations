@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#asset_price_process'
-  - '#discounted_asset_price'
-  - '#ito_lemma'
-  - '#martingale'
-  - '#option_pricing'
-  - '#probability_measure'
-  - '#risk_free_rate'
-  - '#risk_neutral_pricing'
-  - '#risk_premium'
-  - '#stochastic_differential_equation'
+  - asset_price_process
+  - martingale
+  - risk_neutral_pricing
+  - risk_premium
+  - stochastic_process
+aliases:
+  - Asset Price Drift
+  - Changing Drift
+  - Drift Adjustment
+key_concepts:
+  - Asset price stochastic process
+  - Changing probability measure
+  - Market price of risk
+  - Risk-neutral pricing approach
+  - Risk-return trade-off
 ---
+
 # 15.6 CHANGING THE DRIFT OF AN ASSET PRICE PROCESS
 
 We previously obtained the familiar stochastic process for an asset:

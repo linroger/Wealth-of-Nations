@@ -1,20 +1,23 @@
 ---
-aliases:
-  - MGM Prospectus.md
-  - MGM Prospectus
 title: MGM Prospectus
 tags:
-  - '#book_entry_form'
-  - '#debt_offering'
-  - '#gaming_industry'
-  - '#mgm_mirage'
-  - '#prospectus_supplement'
-  - '#regulatory_compliance'
-  - '#risk_factors'
-  - '#senior_notes'
-  - '#subsidiary_guarantees'
-  - '#underwriting_agreement'
+  - debt_offering
+  - filing_424b5
+  - mgm_mirage
+  - prospectus
+  - senior_notes
+aliases:
+  - MGM
+  - MGM Mirage
+  - Prospectus Supplement
+key_concepts:
+  - Joint Book-Running Managers
+  - Prospectus Information
+  - Redemption Price
+  - Senior Notes
+  - Unsecured Senior Obligations
 ---
+
 # MGM Prospectus
 
 FORM 424 B 5

@@ -2,21 +2,23 @@
 title: Chapter 1-Introduction to Globalization
 cssclasses:
   - academia
-aliases:
-  - Globalization
-  - Introduction to Globalization
 tags:
-  - '#capital_flows'
-  - '#comparative_advantage'
-  - '#economic_history'
-  - '#global_division_of_labor'
-  - '#global_economy'
-  - '#globalization'
-  - '#income_inequality'
-  - '#international_trade'
-  - '#multinational_firms'
-  - '#waves_of_globalization'
+  - division_of_labor
+  - economic_integration
+  - global_economy
+  - globalization
+  - international_trade
+aliases:
+  - Globalization Overview
+  - Introduction to Globalization
+key_concepts:
+  - economic activity spread
+  - economic integration
+  - economic models and evidence
+  - global division of labor
+  - international investments
 ---
+
 # Chapter 1-Introduction to Globalization
 
 [[Chapter 1-Introduction to Globalization|Globalization]]

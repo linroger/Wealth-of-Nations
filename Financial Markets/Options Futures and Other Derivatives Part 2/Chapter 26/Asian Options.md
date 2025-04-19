@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#asian_options'
-  - '#average_price_options'
-  - '#average_strike_options'
-  - '#black_model'
-  - '#corporate_treasury'
-  - '#exchange_rate_risk'
-  - '#lognormal_distribution'
-  - '#option_payoff'
-  - '#option_valuation'
+  - asian_option
+  - average_price
+  - corporate_treasury
+  - derivative
+  - option_pricing
+aliases:
+  - Asian
+  - Asian Option
+  - Average Price Option
+  - Average Strike Option
+key_concepts:
+  - Average price call/put
+  - Average strike option
+  - Black's model application
+  - Lognormal assumption
+  - Payoff based on average
 ---
+
 # 26.13 ASIAN OPTIONS  
 
 Asian options are options where the payoff depends on the arithmetic average of the price of the underlying asset during the life of the option. The payoff from an average. price call is $\mathrm{max}(0,S_{\mathrm{ave}}-K)$ and that from an average price put is. $\mathrm{max}(0,K-S_{\mathrm{ave}})$ where $S_{\mathrm{ave}}$ is the average price of the underlying asset. Average price options tend to be less expensive than regular options and are arguably more appropriate than regular. options for meeting some of the needs of corporate treasurers. Suppose that a U.S. corporate treasurer expects to receive a cash flow of 100 million Australian dollars spread evenly over the next year from the company's Australian subsidiary. The. treasurer is likely to be interested in an option that guarantees that the average exchange. rate realized during the year is above some level. An average price put option can. achieve this more effectively than regular put options..  

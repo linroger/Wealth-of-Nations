@@ -5,17 +5,23 @@ description: A cross-currency swap is an agreement between two parties to exchan
   interest payments and principal denominated in two different currencies. These types
   of swaps are often utilized by large companies with international operations.
 tags:
-  - '#borrowing_costs'
-  - '#counterparty_risk'
-  - '#cross_currency_swap'
-  - '#currency_risk'
-  - '#foreign_exchange_risk'
-  - '#global_capital_markets'
-  - '#hedging_strategy'
-  - '#interest_rate_arbitrage'
-  - '#mark_to_market_volatility'
-  - '#swap_structure'
+  - cross_currency_swap
+  - currency_risk
+  - derivative_contracts
+  - foreign_exchange_risk
+  - interest_rate_arbitrage
+aliases:
+  - cross currency swap
+  - currency swap
+key_concepts:
+  - exchange principal in currencies
+  - hedge foreign exchange risk
+  - interest payments in different currencies
+  - manage funding costs
+  - swap principal and interest
 ---
+
+
 Definition
 
 A cross-currency swap is a financial contract where two entities exchange an equivalent amount of principal in different currencies. Then each entity makes interest payments on the currency they received, with rates that can be fixed or floating.

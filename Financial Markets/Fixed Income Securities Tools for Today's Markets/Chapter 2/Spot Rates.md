@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#discount_factors'
-  - '#financial_transactions'
-  - '#present_value'
-  - '#semiannual_compounding'
-  - '#sofr_swap_rates'
-  - '#spot_loan'
-  - '#spot_rates'
+  - discount_factors
+  - semiannual_compounding
+  - sofr_swap_rates
+  - spot_loan
+  - spot_rates
+aliases:
+  - Spot Rate
+  - Spot Rates Definition
+key_concepts:
+  - Discount factors and spot rates
+  - Forward vs spot transactions
+  - SOFR swap rates
+  - Semiannual compounded spot rate
+  - Spot rate definition
 ---
+
 # 2.4 SPOT RATES  
 
 The word spot in finance typically refers to transactions for immediate or imminent settlement, as opposed to forward transactions, which settle further in the future. Consistent with this usage, a spot rate is the rate on a. spot loan, an agreement in which a lender gives money to the borrower at or around the time of the agreement and, furthermore, expects repay-. ment at some single, specified time in the future. For example, along the lines of Equation (2.7), a two-year investment of 100, at a semiannually compounded spot rate of $0.1136\%$ , grows over those two years or four. semiannual periods to a final payment of,.  

@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#american_call_option'
-  - '#arbitrage_opportunities'
-  - '#assumptions_and_notation'
-  - '#european_put_option'
-  - '#negative_interest_rates'
-  - '#option_pricing'
-  - '#risk_free_interest_rate'
-  - '#transaction_costs'
+  - arbitrage_opportunities
+  - assumptions_and_notation
+  - european_options
+  - forward_prices
+  - futures_prices
+  - risk_free_rate
+aliases:
+  - Assumptions
+  - Chapter 11
+  - Notation
+key_concepts:
+  - Arbitrage opportunities
+  - Current stock price
+  - No transaction costs
+  - Risk-free interest rate
+  - Time to expiration
 ---
+
 # 11.2 ASSUMPTIONS AND NOTATION  
 
 In this chapter, we will make assumptions similar to those made when deriving forward and futures prices in Chapter 5. We assume that there are some market participants, such as large investment banks, for which the following statements are true:  

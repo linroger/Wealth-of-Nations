@@ -1,13 +1,23 @@
 ---
 tags:
-  - '#asymptotic_distribution'
-  - '#discrete_time_process'
-  - '#financial_engineering'
-  - '#martingale_probabilities'
-  - '#mean_variance_equations'
-  - '#pricing_tools'
-  - '#recombining_tree'
+  - binomial_tree
+  - continuous_time_process
+  - financial_engineering
+  - martingale_probabilities
+  - pricing_tools
+aliases:
+  - Case 2
+  - Chapter 12
+  - Martingale
+  - Pricing
+key_concepts:
+  - Binomial tree
+  - Continuous time process
+  - Martingale probabilities
+  - Mean and variance
+  - Recombining tree
 ---
+
 # 418 CHAPTER 12 PRICING TOOLS IN FINANCIAL ENGINEERING  
 
 Thed $\{\underline{{u}}_{i},\:d_{i}\}$ are assumed to be constant at $u,d.$  

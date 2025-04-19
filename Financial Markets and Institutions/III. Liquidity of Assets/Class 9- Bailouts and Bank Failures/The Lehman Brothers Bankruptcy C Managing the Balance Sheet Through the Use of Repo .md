@@ -1,22 +1,28 @@
 ---
 cssclasses:
   - academia
-aliases: []
 linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet
   Through the Use of Repo
 title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use
   of Repo
 tags:
-  - '#accounting_standards'
-  - '#balance_sheet_manipulation'
-  - '#disclosure_obligations'
-  - '#financial_reporting'
-  - '#lehman_brothers_bankruptcy'
-  - '#regulatory_response'
-  - '#repo_105'
-  - '#sfas_140'
-  - '#shadow_banking_system'
+  - balance_sheet_management
+  - financial_crisis
+  - lehman_brothers
+  - repo_transactions
+  - sfsa_140
+aliases:
+  - Anton R. Valukas Report
+  - Lehman Bankruptcy
+  - Repo 105
+key_concepts:
+  - Balance sheet manipulation
+  - Lehman Brothers bankruptcy
+  - Repo 105 transactions
+  - SFAS 140 interpretation
+  - Standard repo transactions
 ---
+
 # The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
 
 The Lehman Brothers Bankruptcy C:1 Managing the Balance Sheet through the Use of Repo

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bivariate_normal_distribution'
-  - '#derivative_contracts'
-  - '#discrete_time_derivatives_pricing'
-  - '#financial_applications_probability_distributions'
-  - '#lognormal_probability_distribution'
-  - '#risk_neutral_pricing'
-  - '#univariate_normal_distribution'
-  - '#valuing_risky_assets'
+  - bivariate_normal
+  - financial_applications
+  - lognormal_distribution
+  - probability_distributions
+  - univariate_normal
+aliases:
+  - Chapter 5
+  - Financial Applications
+  - Probability Distributions
+key_concepts:
+  - Bivariate normal distribution
+  - Lognormal probability distribution
+  - Normal probability distribution
+  - Risk-neutral pricing
+  - Valuing risky assets
 ---
+
 # CHAPTER 5 Financial Applications of Probability Distributions 113
 
 5.1 The Univariate Normal Probability Distribution. 113

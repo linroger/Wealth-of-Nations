@@ -2,19 +2,25 @@
 title: Week 3 Financial Risk Analysis
 cssclasses:
   - academia
-aliases:
 tags:
-  - '#altman_z_score'
-  - '#bankruptcy_prediction_models'
-  - '#cost_of_financial_distress'
-  - '#credit_default_swaps'
-  - '#financial_flexibility'
-  - '#financial_risk_analysis'
-  - '#kmv_model'
-  - '#liquidity_ratios'
-  - '#rating_agencies'
-  - '#solvency_ratios'
+  - cash_flow
+  - financial_risk
+  - liquidity_ratios
+  - solvency_ratios
+  - valuation
+aliases:
+  - Financial Analysis
+  - Risk Analysis
+  - Week 3
+key_concepts:
+  - Bankruptcy prediction models
+  - Cash flow analysis
+  - Credit default swap spreads
+  - Financial risk analysis
+  - Forecast cash flows
+  - Liquidity, profitability ratios
 ---
+
 [[Week 3 Financial Risk Analysis|[[Week 3 Financial Risk Analysis|risk analysis]]]]
 
 # Week 3 Financial Risk Analysis

@@ -1,16 +1,28 @@
 ---
 tags:
-  - '#cppi_technique'
-  - '#credit_derivatives'
-  - '#default_scenario'
-  - '#dynamic_adjustments'
-  - '#equity_tranches'
-  - '#itraxx_index'
-  - '#leverage_factor'
-  - '#numerical_example'
-  - '#structured_credit'
-  - '#zero_coupon_bond'
+  - cppi
+  - credit_derivatives
+  - equity_tranches
+  - itraxx
+  - structured_credit
+aliases:
+  - CPPI Application
+  - CPPI and Equity Tranches
+  - Structured Credit CPPI
+  - iTraxx Tranches
+key_concepts:
+  - CPPI technique
+  - capital protection
+  - credit derivatives index
+  - equity tranche
+  - leverage factor
+  - leveraged fund
+  - retail investors
+  - risky asset
+  - synthetic cdo
+  - zero-coupon bond
 ---
+
 # 23.5 AN APPLICATION: CPPI AND EQUITY TRANCHES  
 
 We will use structured credit as an application of the CPPI technique. The credit sector has experi-.   

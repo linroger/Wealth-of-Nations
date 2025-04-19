@@ -5,17 +5,26 @@ description: A swap is a derivative contract through which two parties exchange 
   cash flows or liabilities of different financial instruments. Interest rate swaps
   are common.
 tags:
-  - '#commodity_swap'
-  - '#credit_default_swap'
-  - '#currency_swap'
-  - '#financial_risk_management'
-  - '#interest_rate_swap'
-  - '#libor_replacement'
-  - '#otc_derivatives'
-  - '#sofr_benchmark'
-  - '#swap_definition'
-  - '#swap_regulation'
+  - credit_default_swaps
+  - financial_instruments
+  - interest_rate_swap
+  - otc_markets
+  - swaps
+aliases:
+  - LIBOR
+  - SOFR
+  - derivative contract
+  - interest rate swaps
+  - swap contract
+key_concepts:
+  - 2008 financial crisis
+  - benchmark short-term rate
+  - exchange cash flows
+  - fixed vs variable rates
+  - transacted over the counter
 ---
+
+
 ## What Is a Swap?
 
 A swap is a derivative contract through which two parties exchange the cash flows or liabilities from two different financial instruments. Most swaps involve cash flows based on a notional principal amount related to a loan or bond, although the security can be almost anything. Usually, the principal does not change hands.

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#asset_volatility'
-  - '#black_scholes_merton_model'
-  - '#compound_call_price'
-  - '#firm_leverage'
-  - '#geske_call_on_call_option'
-  - '#linear_homogeneity'
-  - '#option_pricing_model'
-  - '#stock_volatility'
+  - black_scholes_merton_model
+  - compound_option
+  - firm_leverage
+  - geske_call_option
+  - stock_volatility
+aliases:
+  - Geske model
+  - Geske's call
+  - compound call
+key_concepts:
+  - asset volatility function
+  - compound call price
+  - firm's leverage impact
+  - linear homogeneity
+  - stock volatility changes
 ---
+
 # 18.5 CHARACTERISTICS OF GESKE'S CALL ON CALL OPTION
 
 Geske also provides the derivatives of the compound call price with respect to the underlying variables $V,M,\tau_{2},r_{c},\sigma_{V},X_{:}$ and $\tau_{1}$ .9 These illustrate some interesting results. For example, $\partial c/\partial M<0$ , meaning that increasing the firm's leverage, which raises the variance of the equity, then increases the value of the call; however, the larger debt value combined with a fixed value of the assets lowers the value of the equity, which is the dominant effect. This lowers the call price.

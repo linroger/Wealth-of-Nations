@@ -1,8 +1,23 @@
 ---
 title: Financial Engineering
 tags:
-  - '#financial_engineering'
+  - derivative_pricing
+  - financial_engineering
+  - financial_markets
+  - investment_strategies
+  - risk_management
+aliases:
+  - Fin. Engineering
+  - FinEng
+  - Financial Eng.
+key_concepts:
+  - Derivatives pricing
+  - Financial innovation
+  - Financial markets
+  - Investment strategies
+  - Risk management
 ---
+
 # Financial Engineering
 
 %% Begin Waypoint %%

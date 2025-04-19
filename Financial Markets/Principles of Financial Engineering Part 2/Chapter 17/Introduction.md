@@ -1,15 +1,29 @@
 ---
 tags:
-  - '#balance_sheet_management'
-  - '#convexity'
-  - '#financial_engineering'
-  - '#hedging_strategies'
-  - '#interest_rate_swaps'
-  - '#prepayment_option'
-  - '#swap_markets'
-  - '#swaptions'
-  - '#us_mortgage_market'
+  - balance_sheet_management
+  - bond_issuance
+  - caps_floors
+  - convexity
+  - fra
+  - interest_rate_swaps
+  - mortgage_market
+  - prepayment_option
+  - swaptions
+  - us_mortgage_market
+aliases:
+  - Intro
+  - Introduction to Swaps
+key_concepts:
+  - Balance sheet management
+  - Bond issuance liquidity
+  - Convexity in payoffs
+  - Interest rate swaps
+  - Mortgage-based activity
+  - Prepayment option
+  - Swaption markets
+  - US mortgage market
 ---
+
 # 17.1 INTRODUCTION  
 
 In the previous chapters, we discussed convexity and options as well as their applications in the form. of volatility trading. The US mortgage market provides us with another application of a long con-. vexity position as a result of the prepayment option of US homeowners. We carefully explain the value of the prepayment option and its effect on mortgage agencies and discuss potential approaches to hedge this risk. As we will see the structure of the US mortgage market and the presence of a mortgage prepayment option, in particular, leads to optionality and convexity in payoffs.  

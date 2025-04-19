@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cboe_margin_manual'
-  - '#covered_calls'
-  - '#futures_contracts'
-  - '#margin_account'
-  - '#margin_requirements'
-  - '#naked_options'
-  - '#option_pricing'
-  - '#options_trading'
-  - '#stock_index'
+  - futures_contracts
+  - margin_account
+  - margin_requirements
+  - naked_options
+  - options_trading
+aliases:
+  - Margin
+  - Margin Call
+  - Naked Option
+key_concepts:
+  - buying on margin
+  - initial margin requirement
+  - maintenance margin
+  - margin as guarantee
+  - writing naked options
 ---
+
 # 10.7 MARGIN REQUIREMENTS  
 
 We discussed margin requirements for futures contracts in Chapter 2. The purpose of. margin is to provide a guarantee that the entity providing margin will live up to its obligations. If a trader buys an asset such as a stock or an option for cash there is no margin requirement. This is because the trade does not give rise to future obligations. As discussed in Section 5.2, if the trader shorts a stock, margin is required because the. trader then has the obligation to close out the position by buying the stock at some. future time. Similarly, when the trader sells (i.e., writes) an option, margin is required. because the trader has obligations in the event that the option is exercised..  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#behavioral_finance'
-  - '#cognitive_biases'
-  - '#framing_effect'
-  - '#herding_behavior'
-  - '#market_efficiency'
-  - '#myopic_loss_aversion'
-  - '#neuro_finance'
-  - '#overconfidence'
-  - '#prospect_theory'
-  - '#rational_investor'
+  - behavioral_finance
+  - day_traders
+  - investor_behavior
+  - market_efficiency
+  - rational_investor
+aliases:
+  - Investor's Mind
+  - Rationality in Investing
+key_concepts:
+  - Day traders' performance
+  - Efficient market theories
+  - Investor IQ and success
+  - Rational investor paradigms
+  - Rationality assumption in models
 ---
+
 # The Mind of the Investor  
 
 # 11.1 RATIONAL INVESTOR PARADIGMS  

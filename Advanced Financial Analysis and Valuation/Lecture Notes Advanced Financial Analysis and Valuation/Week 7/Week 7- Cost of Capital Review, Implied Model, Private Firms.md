@@ -1,17 +1,23 @@
 ---
-aliases:
 tags:
-  - '#beta_estimation'
-  - '#capm'
-  - '#cost_of_debt'
-  - '#cost_of_equity'
-  - '#fama_french_model'
-  - '#financial_distress'
-  - '#implied_cost_of_capital'
-  - '#private_firm_valuation'
-  - '#synthetic_rating'
-  - '#valuation_methods'
+  - capm
+  - cost_of_capital
+  - equity_valuation
+  - fama_french
+  - implied_cost
+  - private_firms
+aliases:
+  - Advanced Financial Analysis
+  - Cost of Equity
+  - Fama French Model
+key_concepts:
+  - CAPM model
+  - Estimate cost of equity
+  - Fama French 3-factor
+  - Implied cost of capital
+  - Private firm valuation
 ---
+
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## GAME PLAN

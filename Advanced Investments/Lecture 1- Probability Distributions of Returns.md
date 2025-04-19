@@ -1,19 +1,24 @@
 ---
-aliases:
-  - Lecture 1- Probability Distributions of Returns
 title: Lecture 1-Probability Distributions of Returns
 tags:
-  - '#asset_returns'
-  - '#expected_return'
-  - '#iid_returns'
-  - '#portfolio_allocation'
-  - '#probability_distributions'
-  - '#risk_aversion'
-  - '#risk_measurement'
-  - '#semi_variance'
-  - '#stock_market_index'
-  - '#variance'
+  - asset_returns
+  - empirical_distribution
+  - macro_decisions
+  - portfolio_risk
+  - probability_distributions
+aliases:
+  - Advanced Investments Lecture
+  - Lecture 1
+  - Probability of Returns
+key_concepts:
+  - Asset class allocation
+  - Empirical distribution
+  - Expected return
+  - Portfolio risk properties
+  - Returns correlation
 ---
+
+
 # Lecture 1 Probability Distributions of Returns
 
 ## Advanced Investments Lecture 1

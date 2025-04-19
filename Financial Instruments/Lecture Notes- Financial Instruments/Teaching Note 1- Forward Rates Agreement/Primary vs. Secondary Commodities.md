@@ -1,17 +1,34 @@
 ---
-aliases: []
 title: Primary vs. Secondary Commodities
 tags:
-  - '#cash_and_carry_markets'
-  - '#commodity_prices'
-  - '#commodity_units'
-  - '#convenience_yield'
-  - '#extractive_commodities'
-  - '#lease_rate'
-  - '#primary_vs_secondary_commodities'
-  - '#renewable_commodities'
-  - '#storage_costs'
+  - cash_and_carry
+  - commodity_prices
+  - convenience_yield
+  - extractive_commodities
+  - lease_rate
+  - primary_commodities
+  - primary_vs_secondary
+  - renewable_commodities
+  - secondary_commodities
+  - storage_costs
+aliases:
+  - Commodities Classification
+  - Commodity Prices
+  - Commodity Types
+  - Extractive vs Renewable
+  - Primary vs Secondary
+key_concepts:
+  - Cash-and-carry markets
+  - Commodity units
+  - Convenience yield
+  - Extractive commodities
+  - Lease rate
+  - Primary commodities
+  - Renewable commodities
+  - Secondary commodities
+  - Storage costs
 ---
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

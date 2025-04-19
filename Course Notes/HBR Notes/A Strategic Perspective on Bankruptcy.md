@@ -2,24 +2,25 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
-  - A Strategic Perspective on Bankruptcy
-  - 
-  - Note on A Strategic Perspective on Bankruptcy
 linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
 title: A Strategic Perspective on Bankruptcy
 tags:
-  - '#automatic_stay'
-  - '#bankruptcy'
-  - '#chapter_11'
-  - '#creditor_claims'
-  - '#debtor_in_possession_financing'
-  - '#financial_distress'
-  - '#liquidation'
-  - '#out_of_court_restructuring'
-  - '#prepackaged_bankruptcy'
-  - '#reorganization_plan'
+  - bankruptcy
+  - chapter_11
+  - liquidation
+  - reorganization
+  - secured_debt
+aliases:
+  - Bankruptcy Overview
+  - Strategic Bankruptcy
+key_concepts:
+  - Chapter 11 reorganization
+  - Liquidation process
+  - Plan of reorganization
+  - Prepackaged bankruptcy
+  - Secured vs. unsecured debt
 ---
+
 # A Strategic Perspective on Bankruptcy
 
 [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]]

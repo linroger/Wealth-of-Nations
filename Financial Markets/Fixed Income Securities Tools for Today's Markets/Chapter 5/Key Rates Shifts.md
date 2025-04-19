@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#dv01'
-  - '#hedging'
-  - '#hqm_par_rate_curve'
-  - '#key_rate_duration'
-  - '#key_rate_shifts'
-  - '#par_rate_curve'
-  - '#term_structure'
+  - bond_pricing
+  - duration
+  - dv01
+  - hqm_par_rate_curve
+  - key_rate_shifts
+aliases:
+  - HQM Curve
+  - JNJ Bonds
+  - Key Rate Shifts
+key_concepts:
+  - 20-year key-rate shift
+  - HQM par rate curve
+  - Key rate duration
+  - Key rate framework
+  - Par rate shifts
 ---
+
 # 5.3 KEY RATES: SHIFTS  
 
 The next section applies key-rate metrics and hedging to the problem of the.   

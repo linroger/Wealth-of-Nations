@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#discount_factors'
-  - '#eurodollar_futures'
-  - '#floating_rate_bonds'
-  - '#forward_rate_agreements'
-  - '#libor'
-  - '#repo_rates'
-  - '#swap_markets'
-  - '#yield_curve_construction'
+  - eurodollar_futures
+  - financing_rate
+  - interest_rate_futures
+  - libor_rate
+  - yield_curve
+aliases:
+  - Eurodollar futures
+  - LIBOR
+  - Yield curve
+key_concepts:
+  - Discount factors calculation
+  - Eurodollar futures role
+  - Financing rate information
+  - Spot LIBOR rate
+  - Yield curve construction
 ---
+
 # 3.5 YIELD CURVE CONSTRUCTION WITH INTEREST RATE FUTURES  
 
 Eurodollar (-euro, -sterling) futures play a fundamental role in yield curve construction. Since. each contract locks in the financing rate for the 3 months following the contract expiry, and as the expiries of the contracts are laid out every 3 months, the financing rate information contained in each contract can be used to calculate how much $\$1$ would earn up to almost any date in the future using a reinvestment argument. Conversely, the present value of $\$1$ to be received on any future date can be computed using the spot LIBOR rate and all intervening Eurodollar futures. Once the yield curve is constructed and discount factors for any future dates.  

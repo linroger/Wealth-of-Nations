@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#calibration'
-  - '#equilibrium_models'
-  - '#interest_rate_trees'
-  - '#no_arbitrage_models'
-  - '#one_factor_model_hedging'
-  - '#options_on_bonds'
-  - '#short_rate'
-  - '#tree_building_procedure'
-  - '#volatility_structures'
+  - calibration
+  - interest_rate_trees
+  - no_arbitrage_models
+  - one_factor_model
+  - short_rate
+aliases:
+  - No-arbitrage models
+  - Short rate models
+key_concepts:
+  - Equilibrium model extensions
+  - General tree-building procedure
+  - Hedging with one factor
+  - Options on bonds
+  - Volatility structures
 ---
+
 # Chapter 32. No-arbitrage models of the short rate .. .710  
 
 32.1 Extensions of equilibrium models .710   

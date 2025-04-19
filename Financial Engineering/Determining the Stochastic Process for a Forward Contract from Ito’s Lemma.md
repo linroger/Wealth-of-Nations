@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_price'
-  - '#drift_rate'
-  - '#forward_contract'
-  - '#geometric_brownian_motion'
-  - '#ito_s_lemma'
-  - '#non_dividend_paying_stock'
-  - '#stochastic_process'
-  - '#theta_delta_gamma'
+  - arbitrage_free_pricing
+  - forward_contract
+  - geometric_brownian_motion
+  - ito_lemma
+  - stochastic_process
+aliases:
+  - Forward Price Dynamics
+  - Ito's Lemma
+key_concepts:
+  - Arbitrage-free price
+  - Drift rate comparison
+  - Forward contract price
+  - Geometric Brownian Motion (GBM)
+  - Ito's Lemma expansion
 ---
+
 # Determining the Stochastic Process for a Forward Contract from Ito’s Lemma 
 
 Let $F=F(S,t)$ . Note that $F$ is once differentiable in $t$ and twice differentiable in $S$ . Ito's Lemma justifies the use of the following Taylor-series-like expansion for the instantaneous change in $F$ : 

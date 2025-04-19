@@ -1,22 +1,34 @@
 ---
-aliases:
-  - 
-  - <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
-  - 
 linter-yaml-title-alias: <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
 title: BMW Valuation Report
 tags:
-  - '#automotive_industry'
-  - '#bev_technology'
-  - '#bmw'
-  - '#competitive_advantage'
-  - '#electric_vehicles'
-  - '#financial_performance'
-  - '#financial_services'
-  - '#market_valuation'
-  - '#motorcycles_segment'
-  - '#r_and_d_expenditure'
+  - automotive_industry
+  - automotive_segment
+  - bev_technology
+  - bmw_valuation
+  - brand_recognition
+  - competitive_advantage
+  - dcf_analysis
+  - financial_services
+  - free_cash_flow
+  - rd_expenditure
+aliases:
+  - BMW Analysis
+  - BMW Report
+  - BMW Valuation
+key_concepts:
+  - Automotive segment revenue
+  - BEV technology advancement
+  - Brand recognition advantage
+  - Financial services segment
+  - Healthy free cash flow
+  - Motorcycles segment growth
+  - Profit growth tailwind
+  - R&D and technical innovation
+  - Record sales achieved
+  - Target price calculation
 ---
+
 **Executive Summary**
 
 **Investment Thesis**

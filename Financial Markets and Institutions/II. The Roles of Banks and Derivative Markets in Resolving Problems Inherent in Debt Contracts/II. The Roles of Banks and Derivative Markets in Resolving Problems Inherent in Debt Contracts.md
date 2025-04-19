@@ -1,16 +1,23 @@
 ---
 title: II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent
   in Debt Contracts
-aliases:
-  - The Role of Banks
-  - Debt Contracts
 tags:
-  - '#banking_roles'
-  - '#debt_contracts'
-  - '#derivative_markets'
-  - '#financial_intermediation'
-  - '#risk_resolution'
+  - banking
+  - debt_contracts
+  - derivatives
+  - financial_intermediation
+  - lending
+  - risk_management
+aliases:
+  - Debt Contracts
+  - Derivative Markets
+key_concepts:
+  - Banks and Debt Contracts
+  - Debt Contract Problems
+  - Derivative Market Roles
+  - Resolving Debt Contract Issues
 ---
+
 # II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts
 
 %% Begin Waypoint %%

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#financial_crisis_2007_2009'
-  - '#financial_institution_funding'
-  - '#liquidity_coverage_ratio_lcr'
-  - '#liquidity_management'
-  - '#net_stable_funding_ratio_nsfr'
-  - '#regulatory_impact'
-  - '#repo_market'
-  - '#supplementary_leverage_ratio_slr'
-  - '#treasury_repo'
-  - '#wholesale_funding'
+  - financial_crisis
+  - financial_stress
+  - liquidity_management
+  - regulatory_issues
+  - repo_market
+aliases:
+  - Funding Stability
+  - Liquidity and Regulations
+key_concepts:
+  - financial crisis impact
+  - high-quality liquid assets
+  - liquidity coverage ratio
+  - repo borrowing instability
+  - stable funding sources
 ---
+
 # 10.6 LIQUIDITY MANAGEMENT AND CURRENTREGULATORY ISSUES  
 
 A financial institution can borrow funds in many ways, some of which are. more stable than others, that is, some of which can be easily maintained. under financial stress and some of which cannot. The most stable source of funds is equity capital, because equity holders do not have to be paid on. any schedule and because they cannot compel a redemption of their shares. Slightly less stable is long-term debt, because bondholders are paid interest and principal as set out in bond indentures. At the other extreme of funding stability is short-term unsecured funding, like commercial paper: these bor-. rowings have to be repaid in a matter of weeks or months, as they mature, when the institutions, under adverse conditions, might not be able to borrow money elsewhere. Not surprisingly, the more stable sources of funds. are usually more expensive in terms of the expected return required by the. providers of funds. Through liquidity management, firms balance the costs. of funding against the risks of finding themselves without enough funding to survive.  

@@ -1,18 +1,21 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#commodity_swaps'
-  - '#currency_swaps'
-  - '#financial_settlement'
-  - '#forward_contracts'
-  - '#hedging'
-  - '#interest_rate_swaps'
-  - '#market_value'
-  - '#swap_counterparty'
-  - '#swaps'
+  - commodity_swap
+  - forward_contract
+  - hedging
+  - oil_swap
+  - swap
+aliases:
+  - Commodity Swap Example
+  - Swap Contract
+key_concepts:
+  - Borrowing and lending
+  - Exchange of payments
+  - Forward contract pricing
+  - Hedging risky payments
+  - Lock in fixed price
 ---
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#black_scholes_merton'
-  - '#coupon_bond_pricing'
-  - '#dividend_payments'
-  - '#european_call_option'
-  - '#lognormal_distribution'
-  - '#margrabe_formula'
-  - '#option_exchange'
-  - '#probability_space'
-  - '#swap_rate'
-  - '#vasicek_model'
+  - black_scholes_merton
+  - coupon_bond
+  - dividend_payments
+  - european_call_option
+  - no_arbitrage
+aliases:
+  - Exercise 12.1
+  - Exercise 12.2
+  - Exercise 12.3
+  - Exercise 12.4
+  - Exercise 12.5
+key_concepts:
+  - Black-Scholes-Merton equation
+  - European call option pricing
+  - coupon bond futures price
+  - dividend payment impact
+  - no-arbitrage option price
 ---
+
 # 12.7 Exercises  
 
 EXERCISE 12.1 Consider a coupon bond with payment dates $T_{1}<T_{2}<\cdots<T_{n}$ . For each $i=1,2,\dots,n$ , let $Y_{i}$ be the sure payment at time $T_{i}$ . For some $t<T<T_{i}$ , let $\Phi_{t}^{T,T_{i}}$ denote the futures price at time $t$ for delivery at time $T$ of the zero-coupon bond maturing at time. $T_{i}$ with a unit payment. Show that futures price at time. $t$ for delivery at time $T$ of the coupon bond satisfies  

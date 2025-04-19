@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#cross_currency_swaps'
-  - '#currency_swaps_valuation'
-  - '#fixed_for_fixed_swaps'
-  - '#fx_forwards'
-  - '#hedging_strategies'
-  - '#multicurrency_swaps'
-  - '#off_market_swaps'
-  - '#principal_exchange'
-  - '#swap_variants'
+  - bond_valuation
+  - cross_currency_swaps
+  - currency_swaps
+  - fixed_income
+  - interest_rate_swaps
+  - liability_management
+aliases:
+  - Currency swaps
+  - FX swaps
+  - XCCY swaps
+key_concepts:
+  - Alter currency of liabilities
+  - Currency exchange of bonds
+  - Fixed-for-fixed exchange
+  - Present valuing both sides
+  - Principal exchange included
 ---
+
 # 4.3 CROSS-CURRENCY SWAPS  
 
 Cross-currency swaps are exchanges of bonds denominated in two different currencies, e.g.. one side is dollars and the other side is euros. The basic structure is an exchange of fixed coupon flows in one currency for fixed coupon flows in another currency, but not uncommon are exchanges of fixed-for-floating or floating-for-floating. Sometimes the coupon and the. principal exchanges involve different currencies, matching flows on multicurrency bonds.. Cross-currency swaps allow issuers to alter the currency of their liabilities. The valuation. exploits the dual nature of these swaps, as exchanges of bonds or strings of currency forwards, and largely relies on present valuing both sides of the swap. The peculiarities are that the principal exchange must be included in the total PV and that market-structural demand/supply. imbalances may cause zero-PV floating-floating exchanges to trade at non-zero values..  

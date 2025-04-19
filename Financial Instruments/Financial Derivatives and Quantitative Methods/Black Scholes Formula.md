@@ -1,19 +1,22 @@
 ---
-aliases:
-  - Black-Scholes-Merton Equation
 title: Black Scholes Formula
 tags:
-  - '#black_scholes_formula'
-  - '#black_scholes_merton_pde'
-  - '#delta_hedging'
-  - '#digital_options'
-  - '#european_options'
-  - '#martingale_pricing'
-  - '#option_payoff'
-  - '#put_call_parity'
-  - '#replication_argument'
-  - '#risk_neutral_pricing'
+  - black_scholes_formula
+  - digital_options
+  - european_options
+  - martingale_pricing
+  - pde
+aliases:
+  - BS formula
+  - Black-Scholes formula
+key_concepts:
+  - Digital option payoff
+  - European option pricing
+  - Put-call parity
+  - Risk-neutral valuation
+  - Standard normal distribution
 ---
+
 # Black Scholes Formula
 # The Black-Scholes Formula
 

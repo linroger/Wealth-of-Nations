@@ -1,19 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#argentina_country_risk'
-  - '#capital_budgeting_project'
-  - '#currency_risk_valuation'
-  - '#discount_rate_adjustment'
-  - '#dow_pbb_case'
-  - '#export_backstop'
-  - '#expropriation_risk'
-  - '#international_project_valuation'
-  - '#multinational_corporations'
-  - '#scenario_analysis'
+  - currency_crisis
+  - dow_chemical
+  - international_risks
+  - pbb_privatization
+  - valuation_model
+aliases:
+  - Bahia Blanca complex
+  - Dow's bid
+  - PBB acquisition
+key_concepts:
+  - Dow's business model
+  - Incorporate risks valuation model
+  - International project valuation
+  - Privatization of PBB
+  - Project stages evaluation
 ---
+
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

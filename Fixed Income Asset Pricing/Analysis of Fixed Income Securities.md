@@ -1,17 +1,23 @@
 ---
-aliases:
-  - Fixed Income Securities Analysis
-  - Bond Market Insights
 tags:
-  - '#credit_spread'
-  - '#debt_instruments'
-  - '#fixed_income_derivatives'
-  - '#fixed_income_securities'
-  - '#interest_rates'
-  - '#market_structure'
-  - '#risk_management'
-  - '#yield_curve'
+  - credit_risk
+  - debt_securities
+  - fixed_income
+  - interest_rates
+  - yield_curve
+aliases:
+  - Bond Analysis
+  - Debt Securities
+  - Fixed Income Analysis
+key_concepts:
+  - Credit spread analysis
+  - Fixed income derivatives
+  - Fixed income securities
+  - Interest rate risk
+  - Market developments
+  - Yield curve construction
 ---
+
 # Analysis of Fixed Income Securities
 
 ## Introduction to Fixed Income Securities

@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#cds'
-  - '#cds_spread'
-  - '#credit_default_swaps'
-  - '#credit_risk_hedging'
-  - '#insurance_contract'
-  - '#notional_principal'
-  - '#reference_entity'
+  - cds
+  - cds_spread
+  - credit_default_swaps
+  - credit_risk
+  - reference_entity
+aliases:
+  - CDS
+  - Credit Default Swap
+key_concepts:
+  - CDS spread premium
+  - buyer of protection
+  - hedge credit risks
+  - insurance contract
+  - reference entity defaults
 ---
+
 # 7.12 CREDIT DEFAULT SWAPS  
 
 A swap which has grown in importance since the year 2000 is a credit default swap (CDS). This is a swap that allows companies to hedge credit risks in the same way that they have hedged market risks for many years.A CDS is like an insurance contract that pays off if a particular company or country defaults. The company or country is known as the reference entity. The buyer of credit protection pays an insurance premium, known as the CDS spread, to the seller of protection for the life of the contract or until the reference entity defaults. Suppose that the notional principal of the CDS is $\$100$ million and the CDS spread for a five-year deal is 120 basis points. The insurance premium would be 120 basis points applied to $\$100$ million or $\$1.2$ million per year. If the reference entity does not default during the five years, nothing is received in return for the insurance premiums. If reference entity does default and bonds issued by the reference entity are worth 40 cents per dollar of principal immediately after default, the seller of protection has to make a payment to the buyer of protection equal to $\$60$ million. The idea here is that, if the buyer of protection owned a portfolio of. bonds issued by the reference entity with a principal of. $\$100$ million, the insurance payoff would be sufficient to bring the value of the portfolio back up to. $\$100$ million.  

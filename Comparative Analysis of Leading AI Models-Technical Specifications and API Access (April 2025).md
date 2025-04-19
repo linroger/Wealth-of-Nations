@@ -1,3 +1,23 @@
+---
+tags:
+  - ai_models
+  - api_access
+  - generative_models
+  - llms
+  - technical_specifications
+aliases:
+  - AI Model Comparison
+  - API Details
+  - LLM Analysis
+key_concepts:
+  - AI model comparison
+  - API access details
+  - Generative model providers
+  - LLM context windows
+  - Model technical specifications
+---
+
+
 **
 
 # Comparative Analysis of Leading AI Models: Technical Specifications and API Access (April 2025)

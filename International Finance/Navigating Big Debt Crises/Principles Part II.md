@@ -1,19 +1,26 @@
 ---
 title: Principles Part II
-aliases: []
 cssclasses: academia
 tags:
-  - '#changing_world_order'
-  - '#china_us_relations'
-  - '#climate_change'
-  - '#debt_cycles'
-  - '#economic_cycles'
-  - '#financial_markets'
-  - '#global_conflicts'
-  - '#internal_conflicts'
-  - '#monetary_policy'
-  - '#technological_advancements'
+  - big_debt_crises
+  - cause_effect
+  - economic_dynamics
+  - principles
+  - world_order
+aliases:
+  - Changing World Order
+  - Debt Crises
+  - Principles Part 2
+key_concepts:
+  - Big debt crises
+  - Cause/effect relationships
+  - Dominant power changes
+  - Economic machine
+  - Important drivers changes
+  - Timeless universal truths
+  - World order transition
 ---
+
 [Principles Part I](Principles%20Part%20I.md)
 
 # Principles Part II

@@ -1,3 +1,22 @@
+---
+tags:
+  - delta_hedging
+  - dynamic_hedging
+  - european_call
+  - greeks
+  - options_portfolio
+  - stock_price
+aliases:
+  - Call Option Delta
+  - Delta Hedging
+  - Delta Neutral
+key_concepts:
+  - Call option premium
+  - Delta hedging
+  - Dynamic delta hedging
+  - Hedge ratio
+  - Rebalancing stock-call portfolio
+---
 # THE GREEKS  
 
 # Delta Hedging  

@@ -1,16 +1,29 @@
 ---
 LLM-tagged: 2025-03-10 14:08:26.839000+00:00
 tags:
-  - '#broken_pacs'
-  - '#cash_flow'
-  - '#cmo_structure'
-  - '#duration'
-  - '#investment_performance'
-  - '#mortgage_backed_securities'
-  - '#option_adjusted_duration'
-  - '#pac_cmo'
-  - '#prepayment_risk'
+  - bonds
+  - cmo
+  - credit_risk
+  - debt_instruments
+  - duration
+  - fixed_income
+  - market_dynamics
+  - oas
+  - prepayment_risk
+  - structured_products
+aliases:
+  - Bonds Lecture
+  - CMO Analysis
+  - Fixed Income
+  - Structured Products
+key_concepts:
+  - CMOs, cash flows
+  - Duration, interest rate changes
+  - OAS, duration, returns
+  - Prepayment risk impacts CMOs
+  - Tranche types, structures
 ---
+
 Here is a summarized version of the text, tagged with relevant keywords:
 
 **Tagged Summary**

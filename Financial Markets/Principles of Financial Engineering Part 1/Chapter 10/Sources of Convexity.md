@@ -1,15 +1,29 @@
 ---
 tags:
-  - '#cbots'
-  - '#convexity'
-  - '#forward_contracts'
-  - '#forward_rate_agreements'
-  - '#futures_contracts'
-  - '#interest_rate_swaps'
-  - '#mark_to_market'
-  - '#mortgage_backed_securities'
-  - '#prepayment_options'
+  - convexity
+  - coupon_bonds
+  - futures_contracts
+  - interest_rates
+  - mark_to_market
+aliases:
+  - Bond Convexity
+  - Convexity in Pricing
+  - Futures vs. Forwards
+  - Sources of Convexity
+key_concepts:
+  - Bond convexity
+  - Convexity by design
+  - Convexity in pricing functions
+  - Correlation and pricing
+  - Coupon bond pricing
+  - Daily marking-to-market
+  - Eurocurrency future example
+  - Futures settlement price
+  - Option convexity
+  - Overnight interest rate
+  - Plain vanilla swaps
 ---
+
 # 10.4 SOURCES OF CONVEXITY  
 
 There is more than one reason for the convexity of pricing functions. We discuss some simple cases briefly, using a broad definition of convexity.  

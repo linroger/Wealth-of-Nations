@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cds_spread'
-  - '#credit_indices'
-  - '#credit_risk'
-  - '#default_event'
-  - '#dv01_weighting'
-  - '#itraxx_ig_index'
-  - '#reference_portfolio'
-  - '#single_name_cds'
+  - cds
+  - credit_indices
+  - credit_risk
+  - default_event
+  - reference_portfolio
+aliases:
+  - Credit Derivatives
+  - Credit Index Setup
+  - Index CDS
+key_concepts:
+  - Index spread
+  - Protection seller
+  - Reference entities
+  - Single-name CDS
+  - Tradeable CDS index
 ---
+
 # 21.4 A SETUP FOR CREDIT INDICES  
 
 We saw in Chapter 18 that a single-name CDS is a contract that provides protection against a default event on the part of a single issuer or reference name. The protection seller pays zero and receives a constant premium if no default event occurs. The CDS premium is. $\mathrm{cds}_{t_{0}}$ . If a default event does occur the protection seller pays the difference between the promised (face) value of the underlying issue (100) and the market value of the defaulted bond. The recovery rate is denoted by. $R$ . Consider the single-name CDS in Figure 21.7. The maturity. $T$ is assumed to be 1 year for simplicity and the notional amount $N$ is 100. The net payment by the protection seller in case of default is $(I-R)I_{}00$  

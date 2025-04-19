@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#annual_rates'
-  - '#compounding_interest'
-  - '#continuous_compounding'
-  - '#daily_compounding'
-  - '#fixed_cash_flows'
-  - '#interest_rate_quotations'
-  - '#money_market_instruments'
-  - '#semiannual_compounding'
-  - '#simple_interest'
-  - '#term_structure'
+  - compounding
+  - continuous_compounding
+  - fixed_cash_flows
+  - interest_rate_quotations
+  - money_market
+aliases:
+  - Interest Rate Quotes
+  - Rate Quotations
+key_concepts:
+  - Compounding frequency
+  - Continuous compounding
+  - Fixed cash flows
+  - Interest rates
+  - Simple interest
 ---
+
 # 2.1 INTEREST RATE QUOTATIONS  
 
 An investment with fixed cash flows is completely described by its price and cash flows. It seems enough to know, for example, that a bond paying 102 in six months costs 101.4925 today, or that a $\$100,000,000$ year loan made six months from today will return $\$103,030,100$ in two years. Nevertheless, investors and traders often prefer to quote and think about valuations in terms of interest rates. As shown herein, the bond and loan just described earn semiannually compounded rates of $1\%$ and $2\%$ per year,  

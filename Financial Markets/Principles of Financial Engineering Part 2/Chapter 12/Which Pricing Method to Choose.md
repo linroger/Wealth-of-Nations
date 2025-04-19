@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#financial_engineering_overview'
-  - '#implementation_ease'
-  - '#model_parsimony'
-  - '#practitioner_understanding'
-  - '#pricing_method_accuracy'
-  - '#pricing_method_selection'
-  - '#pricing_method_speed'
+  - financial_engineer
+  - model_parsimony
+  - pricing_accuracy
+  - pricing_method
+  - trading_experience
+aliases:
+  - Pricing Approach Choice
+  - Pricing Method Selection
+key_concepts:
+  - Accuracy of pricing methods
+  - Ease of implementation
+  - Model parsimony importance
+  - Pricing method factors
+  - Speed of pricing methods
 ---
+
 # 12.7 WHICH PRICING METHOD TO CHOOSE?  
 
 In general, the choice of a pricing method depends on the following factors:  

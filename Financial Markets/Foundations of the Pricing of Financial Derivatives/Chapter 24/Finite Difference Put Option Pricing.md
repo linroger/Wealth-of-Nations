@@ -1,11 +1,22 @@
 ---
 tags:
-  - '#financial_modeling'
-  - '#finite_difference_method'
-  - '#options_pricing'
-  - '#put_option_pricing'
-  - '#put_options'
+  - derivatives
+  - finite_difference
+  - mathematical_finance
+  - option_pricing
+  - put_option
+aliases:
+  - FDP
+  - Option Valuation
+  - Put Pricing
+key_concepts:
+  - Boundary conditions
+  - Finite difference method
+  - Option valuation
+  - Put option pricing
+  - Time steps
 ---
+
 # 24.4 FINITE DIFFERENCE PUT OPTION PRICING
 
 If the options are puts, then the procedure is exactly the same but the following three conditions replace the corresponding conditions for calls:

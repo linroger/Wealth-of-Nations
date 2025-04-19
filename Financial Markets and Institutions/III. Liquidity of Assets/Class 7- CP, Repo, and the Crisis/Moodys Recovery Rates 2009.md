@@ -1,20 +1,22 @@
 ---
-aliases:
-  - Moodys Recovery Rates 2009
-  - Moodys Recovery Rates 2009. md
 title: Moodys Recovery Rates 2009
 tags:
-  - '#corporate_default_rates'
-  - '#credit_loss_rates'
-  - '#default_rate_forecasts'
-  - '#distressed_exchanges'
-  - '#financial_crisis_2008'
-  - '#moodys_recovery_rates'
-  - '#rating_accuracy_metrics'
-  - '#recovery_rates'
-  - '#senior_unsecured_bonds'
-  - '#speculative_grade_default_rate'
+  - corporate_default
+  - credit_loss_rates
+  - financial_industry
+  - moodys_recovery_rates
+  - recovery_rates
+aliases:
+  - Corporate Default Study
+  - Moody's 2009 Recovery Rates
+key_concepts:
+  - corporate default rates
+  - credit loss calculations
+  - cumulative accuracy profile
+  - distressed exchanges
+  - financial industry defaults
 ---
+
 # Moodys Recovery Rates 2009
 
 # Corporate Default and Recovery Rates,  1920-2008

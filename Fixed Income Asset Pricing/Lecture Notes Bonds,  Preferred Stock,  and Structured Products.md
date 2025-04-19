@@ -1,18 +1,24 @@
 ---
-aliases:
-  - Bond Investment Lecture Notes
-  - Fixed Income Financial Instruments
 tags:
-  - '#bond_issuers'
-  - '#bond_market_composition'
-  - '#bond_maturity'
-  - '#bond_risks'
-  - '#bonds'
-  - '#coupon_types'
-  - '#embedded_options'
-  - '#portfolio_management_strategies'
-  - '#yield_measures'
+  - bond_structure
+  - bond_valuation
+  - credit_risk
+  - fixed_income
+  - yield_measures
+aliases:
+  - Bonds Overview
+  - Fixed Income
+  - Lecture Notes
+key_concepts:
+  - Bond characteristics
+  - Bond maturity
+  - Coupon types
+  - Investment risks
+  - Portfolio strategies
+  - Types of issuers
+  - Yield measures
 ---
+
 # Lecture Notes: Bonds, Preferred Stock, and Structured Products
 
 ## Introduction to Bonds

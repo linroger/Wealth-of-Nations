@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#bivariate_normal_distribution'
-  - '#correlated_processes'
-  - '#correlation'
-  - '#multivariate_normal_distribution'
-  - '#stochastic_processes'
-  - '#uncorrelated_variables'
-  - '#wiener_processes'
+  - bivariate_normal
+  - correlated_processes
+  - multivariate_normal
+  - stochastic_processes
+  - wiener_processes
+aliases:
+  - correlated variables
+  - stochastic variables
+key_concepts:
+  - Wiener processes
+  - bivariate normal distribution
+  - correlated stochastic processes
+  - multivariate normal distribution
+  - uncorrelated variables
 ---
+
 # 14.5 CORRELATED PROCESSES  
 
 So far we have considered how the stochastic process for a single variable can be represented. We now extend the analysis to the situation where there are two or more variables following correlated stochastic processes. Suppose that the processes followed by two variables $x_{1}$ and $x_{2}$ are  

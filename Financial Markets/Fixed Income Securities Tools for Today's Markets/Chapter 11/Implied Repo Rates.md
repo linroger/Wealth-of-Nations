@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#ctd_bond'
-  - '#forward_price'
-  - '#futures_contract'
-  - '#implied_repo_rates'
-  - '#relative_value'
-  - '#repo_rate'
-  - '#spot_price'
+  - ctd_bond
+  - futures_contract
+  - implied_repo_rate
+  - relative_pricing
+  - repo_rate
+aliases:
+  - Implied Repo
+  - Repo Rates
+key_concepts:
+  - Bond spot and forward prices
+  - CTD bond futures contract
+  - Implied repo rate calculation
+  - Relative value measure
+  - Repo rate and forward price
 ---
+
 # 11.10 IMPLIED REPO RATES  
 
 Table 11.1 and Equation (11.1) compute the forward price of the 2.875s.   

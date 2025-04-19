@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#arbitrage_free_pricing'
-  - '#elementary_insurance_contracts'
-  - '#financial_engineering'
-  - '#option_pricing'
-  - '#replication'
-  - '#s_and_p500_options'
-  - '#state_prices'
-  - '#synthetic_probabilities'
+  - cboe
+  - equity_markets
+  - option_pricing
+  - out_of_the_money
+  - sp500
+aliases:
+  - Example Application
+  - Option Payoffs
+  - S&P 500
+key_concepts:
+  - CBOE options
+  - Out-of-the-money options
+  - S&P500 index
+  - State prices
+  - Strike prices
 ---
+
 # 12.4 AN APPLICATION  
 
 The framework based on state prices and elementary insurance contracts is a surprisingly poten1. and realistic pricing tool. Before going any further and obtaining more results from the  

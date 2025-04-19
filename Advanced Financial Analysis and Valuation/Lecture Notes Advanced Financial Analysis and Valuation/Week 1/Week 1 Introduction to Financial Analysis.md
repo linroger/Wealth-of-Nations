@@ -1,22 +1,31 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 title: Week 1 Introduction to Financial Analysis
 tags:
-  - '#accounting_analysis'
-  - '#business_model'
-  - '#discounted_cash_flow'
-  - '#economic_moats'
-  - '#financial_analysis'
-  - '#mean_reversion'
-  - '#multiples_valuation'
-  - '#terminal_value'
-  - '#valuation'
-  - '#value_drivers'
+  - accounting_analysis
+  - business_model
+  - dcf_model
+  - financial_analysis
+  - valuation
+aliases:
+  - Financial Analysis Intro
+  - Financial Statement Analysis
+  - Introduction to Valuation
+  - Week 1
+key_concepts:
+  - Accounting shenanigans
+  - Business model importance
+  - Discounted dividend model
+  - Economic profit sustainability
+  - Free cash flows
+  - Fundamental analysis
+  - Moats and mean reversion
+  - Operating vs financing activities
+  - ROE decomposition
+  - Value driver model
 ---
+
 [[Week 1 Introduction to Financial Analysis|Financial Analysis]]
 
 # Week 1 Introduction to Financial Analysis

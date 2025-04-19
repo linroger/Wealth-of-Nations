@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#actual_volatility'
-  - '#black_scholes_formula'
-  - '#gamma_gains'
-  - '#implied_volatility'
-  - '#long_vol_positions'
-  - '#market_makers_options'
-  - '#options_instruments_volatility'
-  - '#single_stock_vol'
-  - '#vega_gains'
+  - gamma
+  - implied_volatility
+  - option_trading
+  - vega
+  - volatility
+aliases:
+  - Options Explained
+  - What are Options?
+key_concepts:
+  - gamma gains
+  - implied vs actual volatility
+  - instruments of volatility
+  - long vol positions
+  - market maker perspective
 ---
+
 # 9.2 WHAT IS AN OPTION?  
 
 From a market practitioner's point of view, options are instruments of volatility. A retail investor who owns a call on an asset, $S_{t}$ , may feel that a persistent upward movement in the price of this asset is "good' for him or her. But, a market maker who may be long in the same call may prefer  

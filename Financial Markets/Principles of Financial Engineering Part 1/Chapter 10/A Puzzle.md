@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_convexity'
-  - '#institutional_factors'
-  - '#long_bond_returns'
-  - '#preferred_habitat'
-  - '#treasury_debt_retirement'
-  - '#yield_curve'
-  - '#yield_to_maturity'
-  - '#zero_coupon_bond'
+  - bond_convexity
+  - treasury_bonds
+  - yield_curve
+  - yield_to_maturity
+  - zero_coupon_bond
+aliases:
+  - A Puzzle
+  - Yield Curve Anomaly
+key_concepts:
+  - bond convexity gains
+  - total return
+  - yield curve
+  - yield to maturity
+  - zero coupon bond
 ---
+
 # 10.2 A PUZZLE  
 
 Here is a puzzle. Consider the yield curve shown in Figure 10.1. The 10-year zero-coupon bond has a yield to maturity that equals $5.2\%$ . The 30-year zero, however, has a yield to maturity of just $4.94\%$ . In other words, if we buy and hold the latter bond 20 more years, we would receive a lower yield during its lifetime.  

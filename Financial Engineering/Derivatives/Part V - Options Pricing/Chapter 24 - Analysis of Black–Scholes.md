@@ -1,3 +1,21 @@
+---
+tags:
+  - black_scholes
+  - ewma
+  - option_pricing
+  - stock_returns
+  - volatility
+aliases:
+  - B-S
+  - BS
+  - Black-Scholes
+key_concepts:
+  - Black-Scholes equation validity
+  - Equally weighted average
+  - Estimating stock volatility
+  - European option pricing
+  - Volatility forecasting methods
+---
 # Analysis of Black–Scholes  
 
 # Aims  

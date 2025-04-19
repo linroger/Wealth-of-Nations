@@ -1,20 +1,26 @@
 ---
-aliases:
 cssclasses:
   - academia
 title: Exotic Options
 tags:
-  - '#as_you_like_it_options'
-  - '#asian_options'
-  - '#barrier_options'
-  - '#break_forward_contract'
-  - '#digital_options'
-  - '#exotic_options'
-  - '#lookback_options'
-  - '#path_dependent_options'
-  - '#rainbow_options'
-  - '#range_forward_contract'
+  - barrier_options
+  - digital_options
+  - exotic_options
+  - path_dependent
+  - range_forward
+aliases:
+  - binary option
+  - break forward
+  - digital put
+  - exotic derivatives
+key_concepts:
+  - break forward contract
+  - digital/binary option
+  - exotic option payoffs
+  - path dependent options
+  - range forward contract
 ---
+
 # Exotic Options
 
 ## [[Exotic Options]]

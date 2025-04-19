@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#american_options'
-  - '#barrier_options'
-  - '#binomial_tree'
-  - '#dividend_payments'
-  - '#european_options'
-  - '#fundamental_theorem_of_finance'
-  - '#fx_options'
-  - '#option_pricing'
-  - '#state_prices'
-  - '#vba_programming'
+  - asset_pricing
+  - fundamental_theorem
+  - option_markets
+  - option_pricing
+  - risk_management
+aliases:
+  - conclusions
+  - findings
+  - results
+  - summary
+key_concepts:
+  - arbitrage-free dynamics
+  - elementary insurance contracts
+  - risk management pricing
+  - state prices
+  - static portfolio options
 ---
+
 # 12.8 CONCLUSIONS  
 
 We obtained some important results in this chapter. First, we showed that the notion of state prices can be made practical in environments with liquid option prices at different strikes. From here we showed how to obtain risk-neutral and forward measures and the corresponding arbitrage-free dynamics.  

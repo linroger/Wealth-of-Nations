@@ -1,15 +1,33 @@
 ---
 tags:
-  - '#binomial_model'
-  - '#black_scholes'
-  - '#convexity_adjustment'
-  - '#hedging_options'
-  - '#interest_rate_options'
-  - '#non_price_variables'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#quanto_adjustment'
+  - binomial_model
+  - black_scholes
+  - libor
+  - option_pricing
+  - put_call_parity
+aliases:
+  - Binomial
+  - Black-Scholes
+  - LIBOR
+  - Option Pricing Exercise
+  - Put-Call Parity
+key_concepts:
+  - Binomial model inputs
+  - Black-Scholes model
+  - Black-Scholes output
+  - Continuous put-call parity
+  - Delta difference
+  - Dividend yield calculation
+  - Fair forward calculation
+  - Futures cash-and-carry parity
+  - Greeks of calls/puts
+  - Implied volatility
+  - Interest rate conversion
+  - Option pricing exercise
+  - Put-call parity
+  - Strike price impact
 ---
+
 # 5.9 A REAL-LIFE OPTION PRICING EXERCISE  
 
 In this section, we put everything we have learned so far to use in one comprehensive exercise using very simple Excel models. The Black-Scholes takes five minutes to set up; the binomial takes a bit longer, but only because we have to be careful in converting the inputs consistently.  

@@ -1,22 +1,27 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Restructuring Debt Outside Bankruptcy
 linter-yaml-title-alias: Class Note 4-[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
   Debt]] outside bankruptcy
 title: Class Slide 4-Restructuring Debt Outside Bankruptcy
 tags:
-  - '#bank_debt'
-  - '#bankruptcy'
-  - '#coercive_exchange_offer'
-  - '#debt_restructuring'
-  - '#exit_consent_votes'
-  - '#holdout_problem'
-  - '#non_pivotal_holders'
-  - '#priority_stack'
-  - '#public_debt'
+  - bank_debt
+  - bankruptcy
+  - negative_pledge
+  - public_debt
+  - renegotiation
+aliases:
+  - Bank vs. Public Debt
+  - Debt Renegotiation
+  - Debt Restructuring
+key_concepts:
+  - Bank concessions, bankruptcy
+  - Bank debt seniority
+  - Negative pledge covenant
+  - Public debt, bank debt
+  - Restructuring debt outside bankruptcy
 ---
+
 # Class Slide 4-Restructuring Debt Outside Bankruptcy
 
 ## Bank Debt along with Public Debt

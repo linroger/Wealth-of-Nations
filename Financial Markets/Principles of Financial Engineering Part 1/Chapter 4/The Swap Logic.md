@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#financial_instruments'
-  - '#floating_rate_note'
-  - '#forward_contracts'
-  - '#interbank_money_market'
-  - '#libor_contracts'
-  - '#risk_management'
-  - '#swap_logic'
-  - '#swaps'
-  - '#zero_volatility'
+  - forward_contracts
+  - libor_contracts
+  - market_risk
+  - swap_logic
+  - swaps
+aliases:
+  - Swap Fundamentals
+  - Swap Theory
+key_concepts:
+  - Forward loan contract
+  - Interbank money market loan
+  - LIBOR rate
+  - Swap generalization
+  - Zero volatility asset
 ---
+
 # 4.1 THE SWAP LOGIC  
 
 Swaps are the first basic tool that we introduced in Chapter 1. It should be clear by now that swaps. are essentially the generalization of what was discussed in Chapters 1 and 3. We start this chapter by providing a general logic for swaps.  

@@ -1,11 +1,21 @@
 ---
 tags:
-  - '#lognormal_diffusion'
-  - '#monte_carlo_simulation'
-  - '#random_variable_simulation'
-  - '#simulation_methods'
-  - '#standard_error'
+  - lognormal_diffusion
+  - monte_carlo_simulation
+  - random_variable
+  - simulation
+  - standard_error
+aliases:
+  - Chapter 23
+  - Monte Carlo
+key_concepts:
+  - Lognormal diffusion simulation
+  - Monte Carlo simulation
+  - Multiple random variables
+  - Recap and preview
+  - Reduce standard error
 ---
+
 # CHAPTER 23 Monte Carlo Simulation
 
 # 417

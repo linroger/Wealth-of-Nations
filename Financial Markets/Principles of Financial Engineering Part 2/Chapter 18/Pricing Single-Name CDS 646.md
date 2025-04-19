@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#cds_trs_comparison'
-  - '#cds_valuation_example'
-  - '#eds_cds_comparison'
-  - '#gfc_cds_pricing'
-  - '#real_world_complications_cds'
-  - '#single_name_cds'
-  - '#sovereign_cds'
+  - cds_pricing
+  - credit_default_swap
+  - credit_derivatives
+  - gfc_cds_pricing
+  - sovereign_cds
+aliases:
+  - CDS Valuation
+  - EDS vs CDS
+  - TRS vs CDS
+key_concepts:
+  - CDS pricing lessons
+  - CDS valuation example
+  - CDS vs TRS comparison
+  - Real-world CDS complications
+  - Sovereign CDS overview
 ---
+
 # 18.7 Pricing Single-Name CDS . 646  
 
 18.7.1 A Simplified CDS Valuation Example. 646   

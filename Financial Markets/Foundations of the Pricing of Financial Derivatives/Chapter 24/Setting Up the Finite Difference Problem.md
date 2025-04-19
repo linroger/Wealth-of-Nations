@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#boundary_conditions'
-  - '#call_price_valuation'
-  - '#explicit_finite_difference_method'
-  - '#finite_difference_grid'
-  - '#finite_difference_problem'
-  - '#ito_lemma'
-  - '#lognormal_distribution'
-  - '#option_delta'
+  - boundary_conditions
+  - call_price
+  - finite_difference
+  - ito_lemma
+  - option_pricing
+aliases:
+  - Brennan and Schwartz
+  - FDM
+  - Finite Difference Method
+key_concepts:
+  - Boundary condition examples
+  - Finite difference equation
+  - Grid for option pricing
+  - Ito's lemma application
+  - Lognormal to normal distribution
 ---
+
 # 24.1 SETTING UP THE FINITE DIFFERENCE PROBLEM
 
 Recall that the call price depends on the underlying price and time or $c_{t}=c(S,t)$ . Following Brennan and Schwartz, we begin by defining a new variable $y=\ln S$ Let $\boldsymbol{\mathscr{w}}$ be defined such that $w(y,t)=c(S,t)$ The goal is to transform a multiplicative distribution (i.e., the. lognormal distribution) to an additive distribution (i.e., the normal distribution). Recall that if $S$ is lognormally distributed, then. $\ln(S)$ is normally distributed. The variable. $w(y,t)$ is the price of the call at time. $t$ in terms of the transformed asset price and time. In other. words, we price the call in terms of the log of the asset price and time. $t.$ . Based on Ito's lemma, we shall need the following:.

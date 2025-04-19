@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#alm_risk_management'
-  - '#bank_risk'
-  - '#government_bond_yields'
-  - '#interest_rate_swaps'
-  - '#libor_rate'
-  - '#market_volatility'
-  - '#swap_spread_determinants'
-  - '#swap_spreads'
-  - '#yield_curve'
+  - alm_risk_management
+  - bank_risk
+  - credit_risk
+  - interest_rate_swaps
+  - swap_spreads
+aliases:
+  - Interest Rate Swap Spreads
+  - Swap Spread Determinants
+  - Swap Spread Factors
+key_concepts:
+  - Bank risk premium
+  - Credit risk in swaps
+  - Interest rate swaps
+  - Macroeconomic factors impact
+  - Swap spread determinants
 ---
+
 # [[1. DeterministicCashFlows#4.1 The Yield Spread|The Determinants of the Swap Spread]]
 Interest-rate swaps are an important ALM and risk management tool in banking markets.  The rate payable on a swap represents bank risk, if we assume that a swap is paying  (receiving) the fixed swap rate on one leg and receiving (paying) Libor-flat on the other  leg. If one of the counter parties is not a bank, then either leg is adjusted to account for the  different counter party risk; usually the floating leg will have a spread added to Libor. We  can see that this produces a swap curve that lies above the government bond yield curve,  if we compare Figure 1 with Figure 2. Figure 1 is the USD swap rates page from Tullett  & Tokyo brokers, and Figure 2 is the US Treasury yield curve, both as at 3 July 2006.  The higher rates payable on swaps represents the additional risk premium associated with  bank risk compared to government risk. The spread itself is the number of basis points  the swap rate lies above the equivalent-maturity government bond yield, quoted on the  same interest basis.
 

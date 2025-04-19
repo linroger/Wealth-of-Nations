@@ -1,3 +1,21 @@
+---
+tags:
+  - foreign_currency
+  - fx_options
+  - hedging
+  - otc_market
+  - speculation
+aliases:
+  - Currency Options
+  - FX Options
+  - OTC Options
+key_concepts:
+  - Call option
+  - FX options contracts
+  - Hedging with options
+  - OTC market
+  - Put option
+---
 # Foreign Currency Options  
 
 # Aims  

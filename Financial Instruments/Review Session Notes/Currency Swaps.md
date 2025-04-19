@@ -1,18 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 title: Currency Swaps
 tags:
-  - '#bond_valuation'
-  - '#currency_swaps'
-  - '#exchange_rate_risk'
-  - '#foreign_currency'
-  - '#government_bonds'
-  - '#hedging'
-  - '#principal_exchange'
-  - '#swap_contract'
+  - currency_swaps
+  - exchange_rate_risk
+  - government_bonds
+  - hedging
+  - swap_contract
+aliases:
+  - FX swap
+  - currency swap
+key_concepts:
+  - bond value
+  - currency swap rates
+  - exchange rate risk
+  - government bonds
+  - swap contract
 ---
+
 # Currency Swaps
 
 [Swaps-Financial Instruments](Swaps-Financial%20Instruments)

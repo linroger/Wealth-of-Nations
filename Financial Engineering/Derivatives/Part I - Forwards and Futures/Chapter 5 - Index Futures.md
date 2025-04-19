@@ -1,3 +1,21 @@
+---
+tags:
+  - arbitrage
+  - cme_group
+  - hedging
+  - index_futures
+  - stock_index
+aliases:
+  - SIF
+  - futures contracts
+key_concepts:
+  - contract specification
+  - diversified portfolio
+  - index arbitrage
+  - market risk
+  - program trading
+  - settlement procedures
+---
 # Index Futures  
 
 # Aims  

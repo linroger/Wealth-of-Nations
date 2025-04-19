@@ -1,20 +1,23 @@
 ---
-aliases:
-  - Risk Neutral Valuation Framework for Credit Default Swaps.md
-  - Risk Neutral Valuation Framework for Credit Default Swaps.md
 title: Risk Neutral Valuation Framework for Credit Default Swaps
 tags:
-  - '#cds_duration'
-  - '#cds_valuation'
-  - '#credit_default_swaps'
-  - '#default_leg'
-  - '#deterministic_interest_rates'
-  - '#hazard_rates'
-  - '#issuer_default'
-  - '#parspread'
-  - '#premium_leg'
-  - '#risk_neutral_valuation'
+  - cds_valuation
+  - credit_default_swaps
+  - credit_risk
+  - hazard_rates
+  - risk_neutral_valuation
+aliases:
+  - CDS
+  - Credit Derivatives
+  - Risk Neutrality
+key_concepts:
+  - CDS cash flows
+  - CDS duration
+  - Deterministic interest rates
+  - Hazard rates
+  - Risk neutral valuation
 ---
+
 # [[Financial Instruments/Financial Derivatives and Quantitative Methods/Credit Default Swaps|Risk Neutral Valuation Framework for Credit Default Swaps]]
 
 ## OVERVIEW

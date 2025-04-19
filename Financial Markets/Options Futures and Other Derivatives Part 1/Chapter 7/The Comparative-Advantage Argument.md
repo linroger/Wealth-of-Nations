@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#aaacorp_bbbcorp'
-  - '#borrowing_rates'
-  - '#comparative_advantage'
-  - '#credit_ratings'
-  - '#default_risk'
-  - '#financial_institutions'
-  - '#fixed_rate_markets'
-  - '#floating_rate_markets'
-  - '#interest_rate_swaps'
-  - '#spread_differentials'
+  - aaacorp_bbbcorp
+  - comparative_advantage
+  - fixed_rate
+  - floating_rate
+  - interest_rate_swap
+aliases:
+  - Comparative Advantage
+  - Swaps
+key_concepts:
+  - AAACorp and BBBCorp
+  - Borrowing and swapping
+  - Comparative advantage in debt
+  - Fixed vs floating rates
+  - Interest rate swap use
 ---
+
 # 7.5 THE COMPARATIVE-ADVANTAGE ARGUMENT  
 
 An explanation commonly put forward to explain the popularity of swaps concerns comparative advantages. In this context, a comparative advantage is advantage that leads to company being treated more favorably in one debt market than in another debt market. Consider the use of an interest rate swap to transform a liability. Some companies, it is argued, have a comparative advantage when borrowing in fixed-rate markets, whereas other companies have a comparative advantage when borrowing in. floating-rate markets. To obtain a new loan, it makes sense for a company to go to the market where it has a comparative advantage. As a result, the company may borrow fixed when it wants floating, or borrow floating when it wants fixed. The swap is used to transform a fixed-rate loan into a floating-rate loan, and vice versa.  

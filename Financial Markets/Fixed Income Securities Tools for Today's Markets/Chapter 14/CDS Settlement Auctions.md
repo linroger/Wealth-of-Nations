@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#cds_settlement_auctions'
-  - '#deliverable_obligations'
-  - '#europcar_mobility_group'
-  - '#final_auction_price'
-  - '#hertz_cds_auction'
-  - '#inside_market_midpoint_imm'
-  - '#net_open_interest_noi'
-  - '#phase_one_auction'
-  - '#phase_two_auction'
-  - '#physical_settlement'
+  - bond_liquidity
+  - cds_auction
+  - cds_settlement
+  - corporate_bonds
+  - default_event
+  - hertz_cds
+  - physical_settlement
+aliases:
+  - CDS Auctions
+  - CDS Settlement
+  - Hertz CDS Auction
+key_concepts:
+  - Auction phase one
+  - Bond price observation
+  - CDS settlement challenges
+  - Dealer bids and offers
+  - Deliverable obligations list
+  - Hertz CDS auction process
+  - Inside market midpoint
+  - Net CDS positions
+  - Physical settlement requests
+  - Physical settlement squeeze
 ---
+
 # 14.11 CDS SETTLEMENT AUCTIONS  
 
 Two challenges typical in the settlement of derivatives trades apply just as well to CDS. First, requiring that all protection buyers physically settle contracts leaves them open to a squeeze. As discussed earlier, protection buyers do not necessarily own the underlying bonds and the supply of bonds eligible for delivery might be subject to manipulation. Second, bond prices may. not be readily observable for the purpose of cash settlement, because corporate bond liquidity - even if satisfactory in normal times - may be quite limited through a default. Industry-run settlement auctions are designed tc cope with both of these fundamental challenges..  

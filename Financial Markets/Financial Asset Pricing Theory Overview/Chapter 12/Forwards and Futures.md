@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#eurodollar_futures'
-  - '#forward_price'
-  - '#forward_rate_agreement'
-  - '#forwards_and_futures'
-  - '#futures_price'
-  - '#interest_rate_futures'
-  - '#libor_rate'
-  - '#marking_to_market'
-  - '#risk_neutral_probability'
+  - asset_pricing
+  - forward_price
+  - forwards_futures
+  - futures_price
+  - risk_neutral
+  - zero_coupon_bond
+aliases:
+  - Forward Contracts
+  - Forwards
+  - Futures
+key_concepts:
+  - Forward price definition
+  - Futures contract payoff
+  - Risk-neutral probability measure
+  - Underlying asset price
+  - Zero-coupon bond pricing
 ---
+
 # 12.2 Forwards and futures  
 
 # 12.2.1 General results on forward prices and futures prices  

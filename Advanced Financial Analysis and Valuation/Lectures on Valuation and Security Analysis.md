@@ -1,19 +1,23 @@
 ---
 tags:
-  - '#cost_of_capital'
-  - '#discounted_cash_flow'
-  - '#economic_profit'
-  - '#financial_leverage'
-  - '#investor_behavior'
-  - '#mergers_and_acquisitions'
-  - '#momentum_strategies'
-  - '#pro_forma_financials'
-  - '#security_analysis'
-  - '#valuation'
-  - '#valuation_multiples'
-  - '#value_drivers'
-  - '#value_strategies'
+  - cost_of_capital
+  - financial_statement_analysis
+  - lecture_notes
+  - security_analysis
+  - valuation
+aliases:
+  - Financial Analysis
+  - Security Analysis
+  - Valuation Lectures
+key_concepts:
+  - Cost of capital and security
+  - Discounted cash flow models
+  - Financial statement analysis
+  - Lecture notes on valuation
+  - Residual income models
+  - Valuation and Security Analysis
 ---
+
 # Lectures on Valuation and Security Analysis
 
 # Abstract

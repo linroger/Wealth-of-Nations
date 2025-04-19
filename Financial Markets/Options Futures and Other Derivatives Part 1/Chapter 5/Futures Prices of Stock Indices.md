@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#cme_group'
-  - '#dividend_yield'
-  - '#foreign_currency_futures'
-  - '#forward_exchange_rate'
-  - '#futures_pricing'
-  - '#index_arbitrage'
-  - '#interest_rate_parity'
-  - '#quanto'
-  - '#risk_free_rate'
-  - '#stock_index_futures'
+  - dividend_yield
+  - futures_prices
+  - index_arbitrage
+  - index_futures
+  - stock_indices
+aliases:
+  - Index Futures
+  - Stock Index Futures Pricing
+key_concepts:
+  - CME Nikkei 225 futures
+  - Dividends and known yield
+  - Futures price determination
+  - Index as investment asset
+  - Stock index futures contracts
 ---
+
 # 5.9 FUTURES PRICES OF STOCK INDICES  
 
 We introduced futures on stock indices in Section 3.5 and showed how a stock index futures contract is a useful tool in managing equity portfolios. Table 3.3 shows futures prices for a number of different indices. We are now in a position to consider how index futures prices are determined.  

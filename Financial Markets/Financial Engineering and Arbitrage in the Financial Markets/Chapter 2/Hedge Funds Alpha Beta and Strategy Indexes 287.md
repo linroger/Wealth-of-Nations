@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#alpha_beta_strategy_indexes'
-  - '#hedge_fund_replication'
-  - '#hedge_funds'
-  - '#portable_alpha_market_neutral'
-  - '#relative_asset_value_funds'
-  - '#relative_corporate_credit_structure'
-  - '#statistical_relative_value_arbitrage'
-  - '#theoretical_relative_value'
+  - alpha_beta
+  - hedge_funds
+  - market_neutral
+  - relative_value
+  - strategy_indexes
+aliases:
+  - Hedge Fund Strategies
+  - Market-Neutral Plays
+  - Portable Alpha
+key_concepts:
+  - Hedge fund replication
+  - Hedge fund strategies
+  - Market-neutral plays
+  - Relative asset value funds
+  - Strategy indexes
 ---
+
 # 2 Hedge Funds: Alpha, Beta, and Strategy Indexes 287  
 
 12.1Hedge Fund Strategies 289   

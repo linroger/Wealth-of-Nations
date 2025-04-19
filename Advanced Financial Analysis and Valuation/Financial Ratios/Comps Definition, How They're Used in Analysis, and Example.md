@@ -1,19 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
 title: Comps Definition,  How They're Used in Analysis,  and Example
 tags:
-  - '#business_valuation'
-  - '#comparable_company_analysis'
-  - '#comps_definition'
-  - '#fair_market_value'
-  - '#financial_metrics'
-  - '#real_estate_comps'
-  - '#retail_comps'
-  - '#same_store_sales'
-  - '#valuation_metrics'
+  - business_valuation
+  - comparable_company_analysis
+  - comps_definition
+  - retail_sector
+  - same_store_sales
+aliases:
+  - Comparable Company Analysis
+  - Comparables
+  - FMV
+key_concepts:
+  - Comparable company analysis
+  - 'Comps: financial metrics'
+  - Determine business valuation
+  - Fair market value (FMV)
+  - 'Retail: same-store sales'
 ---
+
 [[Comps Definition,     How They're Used in Analysis,     and Example|Comps]]
 
 # Comps Definition,  How They're Used in Analysis,  and Example

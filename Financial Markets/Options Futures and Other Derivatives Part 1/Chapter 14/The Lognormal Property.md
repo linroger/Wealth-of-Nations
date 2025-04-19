@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#generalized_wiener_process'
-  - '#ito_lemma'
-  - '#ln_s_distribution'
-  - '#lognormal_property'
-  - '#stock_price_behavior'
-  - '#stock_price_lognormal_distribution'
-  - '#stock_price_standard_deviation'
+  - ito_lemma
+  - lognormal_distribution
+  - lognormal_property
+  - stock_price
+  - wiener_process
+aliases:
+  - Lognormal Distribution
+  - Stock Price Behavior
+key_concepts:
+  - Generalized Wiener process
+  - Ito's lemma application
+  - Logarithm normal distribution
+  - Lognormal price distribution
+  - Stock price lognormal model
 ---
+
 # 14.7 THE LOGNORMAL PROPERTY  
 
 We now use Ito's lemma to derive the process followed by $\ln S$ when $S$ follows the process in equation (14.13). We define  

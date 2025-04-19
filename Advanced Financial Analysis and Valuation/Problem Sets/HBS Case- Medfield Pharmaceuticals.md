@@ -1,19 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#ceo_decision'
-  - '#company_valuation'
-  - '#drug_reformulation'
-  - '#fleximat'
-  - '#generic_drugs'
-  - '#medfield_pharmaceuticals'
-  - '#mergers_and_acquisitions'
-  - '#patent_expiration'
-  - '#pharmaceutical_industry_trends'
-  - '#reximet'
+  - fda_approval
+  - fleximat
+  - generic_drugs
+  - medfield_pharmaceuticals
+  - patent_life
+aliases:
+  - Fleximat Strategies
+  - Medfield Case
+  - Susan Johnson
+key_concepts:
+  - Generic drug competition
+  - Marketing effort launch
+  - Medfield's flagship product
+  - Patent life extension
+  - Pharmaceutical industry crossroads
 ---
+
 # HBS CASE MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 ## MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
 

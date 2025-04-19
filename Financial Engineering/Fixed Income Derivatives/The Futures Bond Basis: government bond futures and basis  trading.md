@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#basis_trading'
-  - '#bond_market_dynamics'
-  - '#cheapest_to_deliver'
-  - '#futures_contract_specifications'
-  - '#gilt_market'
-  - '#government_bond_futures'
-  - '#gross_basis'
-  - '#implied_repo_rate'
-  - '#net_basis'
+  - basis_trading
+  - bond_futures
+  - cheapest_to_deliver
+  - gilt_market
+  - government_bonds
+aliases:
+  - Basis
+  - Bond Futures
+  - Futures Bond Basis
+key_concepts:
+  - Basis trading mechanics
+  - Cheapest-to-deliver concept
+  - Government bond futures
+  - Gross and net basis
+  - Implied repo rate
 ---
+
 # The Futures Bond Basis: government bond futures and basis  trading  
 
 # ABSTRACT  

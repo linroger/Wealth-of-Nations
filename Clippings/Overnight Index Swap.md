@@ -4,16 +4,23 @@ source: https://www.investopedia.com/terms/o/overnightindexswap.asp
 description: An overnight index swap is a hedging strategy in which a cash flow based
   on an overnight lending rate is exchanged for another predetermined cash flow.
 tags:
-  - '#derivative'
-  - '#federal_funds_rate'
-  - '#hedging_contract'
-  - '#interbank_market'
-  - '#interest_rate_risk'
-  - '#interest_rate_swap'
-  - '#ois'
-  - '#overnight_index_swap'
-  - '#swap_calculation'
+  - federal_funds_rate
+  - financial_markets
+  - hedging
+  - interest_rate_swap
+  - overnight_index_swap
+aliases:
+  - OIS
+  - index swap
+key_concepts:
+  - Compounded interest payments
+  - Fixed vs. floating rate
+  - Interbank credit markets
+  - Overnight rate exchange
+  - Short-term interest rates
 ---
+
+
 Investopedia / Jake Shi
 
 ## What Is an Overnight Index Swap (OIS)?

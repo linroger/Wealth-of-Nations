@@ -1,20 +1,24 @@
 ---
-aliases:
-  - 
-  - 
-  - ARBITRAGE OPPORTUNITY ACCOUNTING
 linter-yaml-title-alias: ARBITRAGE OPPORTUNITY ACCOUNTING
 title: ARBITRAGE OPPORTUNITY ACCOUNTING
 tags:
-  - '#arbitrage_opportunity'
-  - '#bond_valuation'
-  - '#currency_swap_contract'
-  - '#currency_swap_rates'
-  - '#exchange_rate_risk'
-  - '#foreign_currency'
-  - '#government_bonds'
-  - '#spot_exchange_rate'
+  - arbitrage_opportunity
+  - bond_valuation
+  - currency_swaps
+  - exchange_rate_risk
+  - government_bonds
+aliases:
+  - Currency Swap Accounting
+  - FX Risk Management
+  - Foreign Currency Bonds
+key_concepts:
+  - Bond valuation
+  - Currency swap contracts
+  - Exchange rate risk
+  - Foreign currency bonds
+  - Spot exchange rate
 ---
+
 # ARBITRAGE OPPORTUNITY ACCOUNTING
 ## 1. DETERMINING CURRENCY SWAP RATES
 

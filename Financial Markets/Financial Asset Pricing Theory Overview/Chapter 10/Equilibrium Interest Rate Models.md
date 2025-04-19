@@ -1,15 +1,27 @@
 ---
 tags:
-  - '#affine_term_structure_model'
-  - '#bond_pricing'
-  - '#cox_ingersoll_ross_model'
-  - '#interest_rate_models'
-  - '#market_price_of_risk'
-  - '#ornstein_uhlenbeck_process'
-  - '#square_root_process'
-  - '#vasicek_model'
-  - '#yield_curve'
+  - bond_pricing
+  - equilibrium
+  - interest_rate_models
+  - mean_reversion
+  - ornstein_uhlenbeck_process
+  - vasicek_model
+  - yield_curve
+aliases:
+  - Ornstein-Uhlenbeck
+  - Short-term interest rate
+  - Vasicek
+  - Zero-coupon bond
+key_concepts:
+  - Bond pricing and yield curve
+  - Equilibrium real interest rate
+  - Market price of risk
+  - Mean reversion in drift
+  - Ornstein-Uhlenbeck process
+  - Stochastic differential equation (SDE)
+  - Vasicek interest rate model
 ---
+
 # 10.5 Equilibrium interest rate models  
 
 # 10.5.1 The Vasicek model  

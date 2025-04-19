@@ -1,22 +1,27 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Slides Effects of MMF Regulations in the United States.md
-  - Class Slides Effects of MMF Regulations in the United States
 title: Class Slides Effects of MMF Regulations in the United States
 tags:
-  - '#covid_19_impact'
-  - '#etfs'
-  - '#federal_reserve_response'
-  - '#flight_to_liquidity'
-  - '#institutional_mmfs'
-  - '#liquidity_mismatch'
-  - '#march_2020_mmf_run'
-  - '#mmf_liquidity_facility'
-  - '#mmf_regulations'
-  - '#money_market_mutual_funds'
+  - aum_flows
+  - liquidity_management
+  - march_2020_turmoil
+  - mmf_regulations
+  - mmlf_program
+aliases:
+  - MMF Run
+  - MMLF
+  - March 2020
+  - Money Market Fund Regulations
+  - Prime MMFs
+key_concepts:
+  - AUM rebound
+  - Fund-level flows
+  - Liquidity management
+  - MMF regulation effects
+  - March 2020 turmoil
 ---
+
 # Class Slides Effects of MMF Regulations in the United States
 
 Panel C. Total September 1519 fund-level flows

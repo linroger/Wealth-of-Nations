@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_supply_and_demand'
-  - '#consumption_plans'
-  - '#expected_utility'
-  - '#financial_economics_models'
-  - '#individual_preferences'
-  - '#risk_aversion'
-  - '#uncertain_outcomes'
-  - '#utility_functions'
+  - asset_supply_demand
+  - consumption_plans
+  - financial_economics
+  - risk_aversion
+  - utility_index
+aliases:
+  - Individual Preferences
+  - Introduction to Preferences
+key_concepts:
+  - Consumption plans
+  - Expected utility
+  - Individual decision problem
+  - Risk aversion concept
+  - Utility index
 ---
+
 # 5.1 Introduction  
 
 In order to say anything concrete about the asset supply and demand of individuals we have to formalize the decision problem faced by individuals. We assume that individuals have preferences for consumption and must choose between different consumption plans, i.e. plans for how much to consume at different points in time and in different states of the world. The financial market allows individuals to reallocate consumption over time and over states and hence obtain a consumption plan different from their endowment.  

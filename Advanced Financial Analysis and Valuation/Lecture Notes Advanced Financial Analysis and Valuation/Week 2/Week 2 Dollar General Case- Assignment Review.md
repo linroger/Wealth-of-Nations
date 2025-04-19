@@ -1,21 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 title: Week 2 Dollar General CaseAssignment Review
 tags:
-  - '#dollar_general'
-  - '#financial_performance_analysis'
-  - '#kkr_acquisition'
-  - '#lbo_analysis'
-  - '#peer_comparison'
-  - '#pro_forma_analysis'
-  - '#restructuring_plan'
-  - '#shareholder_value'
-  - '#valuation_multiples'
+  - acquisition
+  - dollar_general
+  - financial_analysis
+  - lbo
+  - valuation
+aliases:
+  - DG Case
+  - Dollar General Review
+key_concepts:
+  - Acquisition offer
+  - Financial statement analysis
+  - Market pricing vs. KKR offer
+  - Non-recurring items adjustment
+  - Store appearance, customer satisfaction
 ---
+
 [[Week 2 Advanced Financial Analysis and Valuation]]
 
 # Week 2 Dollar General CaseAssignment Review

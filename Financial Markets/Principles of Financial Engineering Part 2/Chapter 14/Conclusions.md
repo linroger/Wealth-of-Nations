@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#cross_currency_swap'
-  - '#excel_vba'
-  - '#forward_rates'
-  - '#fra_rates'
-  - '#interest_rate_swap'
-  - '#libor_model'
-  - '#matlab_programming'
-  - '#swap_rates'
-  - '#yield_curve_construction'
+  - forward_rates
+  - fra_pricing
+  - libor_model
+  - swap_rates
+  - yield_curve
+aliases:
+  - Chapter 14
+  - FRA and Swaps
+  - Forward LIBOR
+  - Yield Curve Construction
+key_concepts:
+  - FRA markets
+  - LIBOR model
+  - forward rate dynamics
+  - swap rates
+  - yield curve construction
 ---
+
 # 14.10 CONCLUSIONS  
 
 This chapter was devoted to the connections between the swap, FRA, and bond markets. Our discussion led us to the issue of constructing a satisfactory yield curve, which is the fundamental task of a financial engineer. Two main tools were introduced in the chapter. The first was the $T.$ forward measures and the second was the related measure change technology. This permitted setting up convenient arbitrage-free dynamics for a sequence of forward rates. These dynamics were then used as a tool for calculating the desired quantities using the formulas that connect swap rates, forward rates, and their derivatives.  

@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#bachelier_model'
-  - '#black_model'
-  - '#caplets'
-  - '#day_count_conventions'
-  - '#floorlets'
-  - '#interest_rate_caps_floors'
-  - '#libor'
-  - '#negative_interest_rates'
-  - '#overnight_rates'
-  - '#shifted_lognormal_model'
+  - caplet_pricing
+  - floating_rate_note
+  - interest_rate_caps
+  - interest_rate_floors
+  - shifted_lognormal_model
+aliases:
+  - Caps and Floors
+  - Interest Rate Cap
+  - Interest Rate Floor
+key_concepts:
+  - Bachelier normal model
+  - Call options on interest rates
+  - Effective reference interest rate
+  - Floating-rate note
+  - Series of put options
+  - Strike price per annum
+  - Three-month reference interest rate
 ---
+
 # 29.2 INTEREST RATE CAPS AND FLOORS  
 
 An interest rate cap is a series of call options on interest rates. It can be understood by considering a floating-rate note where the interest rate is reset every three months.1 The interest rate for each three-month period is based on a three-month reference interest rate, applicable to the period, that is observed in the market. (For example, the interest rate on the floating-rate note could be the reference interest rate plus 25 basis points.) If a company borrows $\$10$ million for five years using the floating-rate note and enters into a cap with a notional principal of $\$10$ million and a strike price of $3\%$ per annum, the company has ensured that the effective reference interest rate determining its loan interest payments will never be more than $3\%$ per annum. If the reference interest rate for a particular quarter is less than $3\%$ , there is no payoff for the quarter, but when this interest rate is greater than $3\%$ there is a payoff designed to bring the effective reference interest rate down to $3\%$ per annum. For example, if the reference interest rate for a period is $4\%$ , the cap will provide a payoff of  

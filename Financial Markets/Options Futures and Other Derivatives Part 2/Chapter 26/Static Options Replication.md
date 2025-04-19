@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#barrier_options'
-  - '#delta_hedging'
-  - '#deriva_gem'
-  - '#european_options'
-  - '#exotic_options'
-  - '#geometric_brownian_motion'
-  - '#numerical_procedures'
-  - '#option_valuation'
-  - '#static_options_replication'
-  - '#volatility_surface'
+  - european_call_option
+  - exotic_options
+  - option_pricing
+  - replication
+  - static_options_replication
+aliases:
+  - Options Replication
+  - Static Replication
+key_concepts:
+  - Boundary values matching
+  - European call options
+  - Exotic option hedging
+  - Replicating portfolio construction
+  - Static options replication
 ---
+
 # 26.17 STATIC OPTIONS REPLICATION  
 
 If the procedures described in Chapter 19 are used for hedging exotic options, some are easy to handle, but others are very difficult because of discontinuities (see Business Snapshot 26.1). For the difficult cases, a technique known as static options replication is sometimes useful.15 This involves searching for a portfolio of actively traded options that. approximately replicates the exotic option. Shorting this position provides the hedge.16.  

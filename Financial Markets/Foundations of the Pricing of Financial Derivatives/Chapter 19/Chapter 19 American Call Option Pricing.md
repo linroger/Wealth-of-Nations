@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#american_call_option_pricing'
-  - '#american_put_option_pricing'
-  - '#compound_options'
-  - '#one_dividend_model'
-  - '#roll_geske_whaley'
-  - '#two_payment_case'
+  - american_call_option_pricing
+  - american_option
+  - call_option
+  - option_pricing
+  - roll_geske_whaley
+aliases:
+  - American Call Pricing
+  - Chapter 19
+key_concepts:
+  - American Put Option Pricing
+  - Closed-Form American Call Pricing
+  - One-Dividend Model Example
+  - Pricing American Put
+  - Two-Payment Case
 ---
+
 # CHAPTER 19 American Call Option Pricing
 
 365

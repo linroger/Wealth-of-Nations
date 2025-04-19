@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#coupon_bonds'
-  - '#discount_factor_bootstrap'
-  - '#forward_rates'
-  - '#semi_annual_coupons'
-  - '#spot_rates'
-  - '#term_structure_of_interest_rates'
-  - '#yield_curve_bootstrap'
-  - '#zero_coupon_rates'
+  - coupon_bond
+  - discount_factor
+  - interest_rates
+  - term_structure
+  - yield_curve
+aliases:
+  - Discount Factors
+  - Term Structure
+  - Yield Curve Bootstrap
+key_concepts:
+  - Coupon bond valuation
+  - Discount factor bootstrap
+  - Spot zero rates
+  - Term structure of rates
+  - Yield to maturity
 ---
+
 # 2.3 TERM STRUCTURE OF INTEREST RATES AND THE DISCOUNT FACTOR BOOTSTRAP  
 
 Interest rates on any given day are different for different maturity instruments. A set of interest.   

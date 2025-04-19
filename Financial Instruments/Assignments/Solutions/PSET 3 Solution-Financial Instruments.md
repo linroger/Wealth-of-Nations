@@ -1,19 +1,25 @@
 ---
-aliases:
-  - 
-  - 
 title: PSET 3 Solution-Financial Instruments
 tags:
-  - '#collar_strategy'
-  - '#currency_swap'
-  - '#financial_instruments'
-  - '#greece_currency_swap'
-  - '#hedging_with_options'
-  - '#jet_fuel_hedging'
-  - '#option_payoff'
-  - '#put_call_parity'
-  - '#southwest_jet_fuel'
+  - coupon_bond
+  - currency_swap
+  - exchange_rate
+  - greece_bond
+  - usd_eur
+aliases:
+  - Currency Swap
+  - Greece
+  - Homework 3
+  - PSET 3
+key_concepts:
+  - Currency swap components
+  - EUR coupon bond
+  - Exchange rate risk
+  - Principal exchange
+  - Swap value calculation
+  - USD coupon bond
 ---
+
 ---
 
 title: PSET 3 Solution

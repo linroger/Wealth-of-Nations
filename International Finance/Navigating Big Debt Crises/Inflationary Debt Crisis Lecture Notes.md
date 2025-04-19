@@ -1,20 +1,33 @@
 ---
 title: Inflationary Debt Crisis Lecture Notes
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#capital_outflows'
-  - '#central_bank_policy'
-  - '#currency_defense'
-  - '#currency_devaluation'
-  - '#debt_dynamics'
-  - '#economic_recovery'
-  - '#hyperinflation'
-  - '#inflationary_debt_crisis'
-  - '#investor_behavior'
-  - '#weimar_republic'
+  - central_bank_policy
+  - currency_devaluation
+  - economic_growth
+  - inflationary_debt_crisis
+  - inflationary_depressions
+  - investor_behavior
+  - monetary_policy
+aliases:
+  - Currency Dynamics
+  - Debt Crisis
+  - Inflationary Crisis
+  - Weimar Republic
+key_concepts:
+  - Capital flight, safer investments
+  - Central banks, money, credit
+  - Currency depreciation, debt holders
+  - Currency devaluation, rising inflation
+  - Debt as asset, liability
+  - Debt holders' expectations
+  - Deflationary vs. inflationary crises
+  - Inflation, economic growth balance
+  - Investor reactions, currency weakness
+  - Policy makers, burden redistribution
 ---
+
 # Inflationary Debt Crisis Lecture Notes
 
 ## Introduction to Inflationary Debt Crises

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#asset_pricing_model'
-  - '#brownian_motion'
-  - '#expected_value'
-  - '#ito_calculus'
-  - '#option_pricing'
-  - '#stochastic_integral'
-  - '#variance'
-  - '#wiener_process'
+  - brownian_motion
+  - ito_calculus
+  - option_pricing
+  - stochastic_integral
+  - wiener_process
+aliases:
+  - Brownian Motion
+  - Norbert Wiener
+  - Standard Brownian Motion
+key_concepts:
+  - Asset price modeling
+  - Ito calculus application
+  - Stochastic integral existence
+  - Variance calculation
+  - Wiener process definition
 ---
+
 # 10.2 THE WIENER PROCESS
 
 The process we have been working with is often called a standard Brownian motion or just Brownian motion. Now let us take the difference between $\mathbf{\boldsymbol{W}}_{t+\Delta t}$ and $\mathbf{}\mathbf{}{W}_{t}$ and denote it as $d\mathbb{W}_{t}$ , which will be defined as

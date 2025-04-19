@@ -1,20 +1,25 @@
 ---
-aliases:
-  - 
-  - 
 title: Hedging Strategies with Forwards
 tags:
-  - '#basis_risk'
-  - '#covered_interest_arbitrage'
-  - '#currency_forwards'
-  - '#eurodollar_futures'
-  - '#forward_contracts'
-  - '#hedging_strategies'
-  - '#prepaid_forward'
-  - '#stack_hedge'
-  - '#strip_hedge'
-  - '#synthetic_forwards'
+  - continuous_dividends
+  - dividend_yield
+  - forward_contracts
+  - prepaid_forward
+  - stock_price
+aliases:
+  - continuous dividend
+  - forward price
+  - prepaid forward
+  - stock index
+key_concepts:
+  - continuous dividend yield
+  - dividend reinvestment
+  - forward contract
+  - future spot price
+  - prepaid forward price
+  - time to maturity
 ---
+
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]
 - [[Deriving Forward Exchange Rate Numerical Example]]

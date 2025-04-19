@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#add_on_rates'
-  - '#binomial_tree'
-  - '#forward_rate_agreements'
-  - '#forward_rates'
-  - '#fras'
-  - '#interest_rate_contracts'
-  - '#spot_rates'
-  - '#zero_coupon_bonds'
+  - add_on_rates
+  - binomial_tree
+  - forward_rate_agreement
+  - fra
+  - interest_rate
+  - term_structure
+  - zero_coupon_bond
+aliases:
+  - FRA
+  - FRA Values
+  - Forward Rate Agreement
+key_concepts:
+  - Binomial tree of values
+  - Continuously compounded rate
+  - Equilibrium fixed rate
+  - FRA payoffs
+  - Forward contract on interest rate
+  - One-period add-on rates
+  - Zero-coupon bond prices
 ---
+
 # 28.6 FORWARD RATE AGREEMENTS (FRAS)
 
 Recall that an FRA, or forward rate agreement, is a forward contract on an interest rate. Let us assume that we are interested in an FRA on the one-period spot rate. Let the. FRA expire at time 3. Recall that the equilibrium fixed rate that the long agrees to pay. would be the forward rate. From Figure 28.1, that rate would be. $8.2\%$ . There is a slight inconsistency, however, in that $8.2\%$ is a continuously compounded rate, inasmuch as the HJM model is based on the evolution of continuously compounded rates. FRA payoffs are always based on add-on rates. Thus, we need to respecify the term structure in terms of one-period add-on rates. Let us take the one-period continuously compounded spot rate at time 0 of $6.8\%$ . Thus, the present value of 1.0 in one period would be $e^{-0.068}=\hat{0}.9343$ ,a number we have previously used as the price of a one-period zero-coupon bond at time 0. The one-period add-on rate, denoted simply as $r_{:}$ , would, therefore, be $0.9343(1+r)=1$ which gives us $r=7.0365\%$ . We can get this rate directly, however, as $e^{0.068}-1$ . From Figure 28.1, we know that the one-period spot rates are the top numbers in each cell, so we can convert each to its add-on equivalent. With the FRA expiring at time 3, we would need the four possible one-period rates at time 3, which would be.

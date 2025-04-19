@@ -1,20 +1,23 @@
 ---
-aliases:
-  - Runs On Money Market Mutual Funds
-  - Runs On Money Market Mutual Funds.md
 title: Runs On Money Market Mutual Funds
 tags:
-  - '#expense_ratios'
-  - '#financial_crisis_2008'
-  - '#fixed_nav'
-  - '#investor_sophistication'
-  - '#lehman_brothers_failure'
-  - '#mmmf_runs'
-  - '#money_market_mutual_funds'
-  - '#share_class_flows'
-  - '#strategic_complementarities'
-  - '#ultra_short_bond_funds'
+  - 2008_financial_crisis
+  - institutional_investors
+  - lehman_brothers
+  - money_market_funds
+  - run_risk
+aliases:
+  - MMMFs
+  - Money Market Funds
+  - Reserve Primary Fund
+key_concepts:
+  - institutional share classes
+  - investor behavior
+  - liquidity mismatch
+  - money market fund flows
+  - run-like behavior
 ---
+
 # Runs On Money Market Mutual Funds
 
  We study daily money market mutual fund flows at the individual share class level during September 2008. This fine granularity of data allows new insights into investor and portfolio holding characteristics conducive to run risk in cash-like asset pools. We find that cross-sectional flow data observed during the week of the Lehman failure are consistent with key implications of a simple model of coordination with incomplete information and strategic complementarities. Similar conclusions follow from daily models fitted to capture dynamic interactions between investors with differing levels of sophistication within the same money fund,  holding constant the underlying portfolio.

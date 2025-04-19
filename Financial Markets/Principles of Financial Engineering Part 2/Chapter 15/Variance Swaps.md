@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#hedge_funds'
-  - '#implied_variance'
-  - '#market_participants'
-  - '#realized_variance'
-  - '#replicating_portfolio'
-  - '#variance_swap_pricing'
-  - '#variance_swap_uses'
-  - '#variance_swaps'
-  - '#volatility_hedging'
+  - derivatives
+  - hedging
+  - market_participants
+  - variance_swaps
+  - volatility
+aliases:
+  - Variance Swap
+  - Variance Swaps
+  - Volatility Swap
+key_concepts:
+  - Hedging volatility exposure
+  - Market participant exposure
+  - Realized vs implied variance
+  - Trading variance levels
+  - Variance swap definition
 ---
+
 # 15.5 VARIANCE SWAPS  
 
 One instrument that has invariant exposure to fluctuations in (realized) variance is the variance swap. In this section, we introduce this concept and in the next, we provide a simple framework for studying it.  

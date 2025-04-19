@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#consumption_assets'
-  - '#investment_assets'
-  - '#mean_reversion'
-  - '#metal_commodities'
-  - '#metal_extraction'
-  - '#metal_inventory_levels'
-  - '#metal_price_volatility'
-  - '#metal_recycling'
-  - '#metals'
+  - commodities
+  - consumption_assets
+  - investment_assets
+  - metals
+  - price_volatility
+aliases:
+  - Metal Commodities
+  - Precious Metals
+key_concepts:
+  - Inventory levels and volatility
+  - Investment vs consumption
+  - Long-term price determinants
+  - Metals characteristics
+  - Metals commodity category
 ---
+
 # 35.2 METALS  
 
 Another important commodity category is metals. This includes gold, silver, platinum, palladium, copper, tin, lead, zinc, nickel, and aluminum. Metals have quite different characteristics from agricultural commodities. Their prices are unaffected by the weather and are not seasonal. They are extracted from the ground. They are divisible and are relatively easy to store. Some metals, such as copper, are used almost entirely in the manufacture of goods and should be classified as consumption assets. As explained in Section 5.1, others, such as gold and silver, are held purely for investment as well as for consumption and should be classified as investment assets.  

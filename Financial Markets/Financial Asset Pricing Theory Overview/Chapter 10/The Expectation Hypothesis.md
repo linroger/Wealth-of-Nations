@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_markets'
-  - '#expectation_hypothesis'
-  - '#forward_rates'
-  - '#gaussian_models'
-  - '#interest_rates'
-  - '#risk_neutrality'
-  - '#term_structure_models'
-  - '#yield_curve'
+  - bond_markets
+  - expectation_hypothesis
+  - interest_rates
+  - term_structure
+  - yield_curve
+aliases:
+  - Expectations Hypothesis
+  - Pure Expectation Hypothesis
+key_concepts:
+  - Continuously compounded returns
+  - Expected future interest rates
+  - Gross return trading strategies
+  - Long-term vs short-term bonds
+  - Risk-neutral investors
 ---
+
 # 10.7 The expectation hypothesis  
 
 The expectation hypothesis relates the current interest rates and yields to expected future inter-. est rates or returns. This basic issue was discussed already by Fisher (1896) and further developed and concretized by Hicks (1939) and Lutz (1940). The original motivation of the hypothesis is that when lenders (bond investors) and borrowers (bond issuers) decide between long-term or shortterm bonds, they will compare the price or yield of a long-term bond to the expected price or return on a roll-over strategy in short-term bonds. Hence, long-term rates and expected future short-term rates will be linked. Of course, a cornerstone of modern finance theory is that, when comparing different strategies, investors will also take the risks into account. So even before going. into the specifics of the hypothesis you should really be quite skeptical, at least when it comes to very strict interpretations of the expectation hypothesis..  

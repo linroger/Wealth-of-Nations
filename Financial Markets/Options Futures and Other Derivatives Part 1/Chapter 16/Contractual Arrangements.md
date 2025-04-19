@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#early_exercise'
-  - '#employee_stock_option_plans'
-  - '#employee_stock_options'
-  - '#option_exercise'
-  - '#option_selling'
-  - '#option_valuation'
-  - '#strike_price'
-  - '#vesting_period'
+  - early_exercise
+  - employee_stock_options
+  - option_pricing
+  - strike_price
+  - vesting_period
+aliases:
+  - Employee Stock Options
+  - Stock Option Plans
+key_concepts:
+  - Early exercise decision
+  - Employee stock option features
+  - Option exercise behavior
+  - Vesting period implications
 ---
+
 # 16.1 CONTRACTUAL ARRANGEMENTS  
 
 Employee stock options often last as long as 10 to 15 years. Very often the strike price is.   

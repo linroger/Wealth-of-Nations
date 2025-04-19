@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#arbitrage_pricing'
-  - '#bid_ask_spread'
-  - '#dealer_regulation'
-  - '#electronification'
-  - '#etfs_fixed_income'
-  - '#fixed_income_market_liquidity'
-  - '#flash_rally'
-  - '#market_depth'
-  - '#principal_trading_firms'
+  - bid_ask_spread
+  - liquidity
+  - market_depth
+  - market_trends
+  - trading
+aliases:
+  - Liquidity in Trading
+  - Market Liquidity
+  - Trading and Liquidity
+key_concepts:
+  - Bid-ask spread measurement
+  - Market depth in CLOB
+  - Market liquidity definition
+  - Price impact on trading
+  - Volume and turnover metrics
 ---
+
 # 0.6 TRADING AND LIQUIDITY  
 
 An important feature of any market is liquidity, loosely defined as the extent to which a market participant can trade a desired volume of securities at close to a prevailing market price. This section begins with some definitions of liquidity and some summary statistics across fixed income markets. Several trends impacting liquidity are discussed next, including electronification; dealer regulation and risk taking; the growth of principal trading firms $(P T F s)$ ; the growth of exchange-traded funds (ETFs); and the growing con-. centration of asset managers. The section concludes with the implications of these trends with respect to liquidity and recent concerns about systemic. fragility.  

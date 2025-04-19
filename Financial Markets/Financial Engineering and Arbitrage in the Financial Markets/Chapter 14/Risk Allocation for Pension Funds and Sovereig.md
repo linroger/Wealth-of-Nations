@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asset_allocation'
-  - '#defined_benefit_plans'
-  - '#investment_risk'
-  - '#marginal_risk_contribution'
-  - '#pension_funds'
-  - '#portfolio_volatility'
-  - '#risk_allocation'
-  - '#risk_budgeting'
-  - '#sovereign_funds'
+  - defined_benefit
+  - investment_strategy
+  - pension_funds
+  - risk_allocation
+  - sovereign_funds
+aliases:
+  - Pension Fund Risk
+  - Risk Management
+  - Sovereign Fund Risk
+key_concepts:
+  - Alternative investments
+  - Defined benefit plans
+  - Pension fund investment
+  - Risk budgeting approach
+  - Sovereign fund investments
 ---
+
 # 14.2 RISK ALLOCATION FOR PENSION FUNDS AND SOVEREIGN FUNDS  
 
 Pension funds and sovereign funds, while subject to guidelines set by their governing bodies, enjoy great discretion in allocating their investment dollars, and often do not shy from alternative investments. These include commercial real estate and land development, hedge funds and private equity. In addition to investment (asset) management, pension funds and endowments often have extensive disbursement obligations on the liability side. Pension fund assets must be liquidated to satisfy monthly disbursements to pensioners; endowments provide specific dollar amounts or guaranteed rates of return to the universities, cultural institutions, or charities they support. Sovereign funds in particular, but pension funds and endowments too, may be subject to political pressures to allocate funds in a particular way or provide extraordinary disbursements. Table 14.1 shows the largest six pension and sovereign funds in the world.  

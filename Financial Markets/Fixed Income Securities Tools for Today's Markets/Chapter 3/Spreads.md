@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#bond_spreads'
-  - '#fixed_income_securities'
-  - '#forward_rates'
-  - '#p_and_l_attribution'
-  - '#relative_value'
-  - '#sofr_swaps'
-  - '#treasury_bonds'
-  - '#yield_spreads'
+  - bond_pricing
+  - credit_risk
+  - fixed_income
+  - market_participants
+  - yield_spreads
+aliases:
+  - BTP-Bund spread
+  - JNJ bond
+  - bond spreads
+  - yield spread
+key_concepts:
+  - European sovereign debt
+  - German government bond
+  - benchmark bonds
+  - coupon effect
+  - fixed income securities
+  - idiosyncratic factors
+  - market-wide interest rates
+  - yield spreads
 ---
+
 # 3.5 SPREADS  
 
 There are many fixed income securities. Their prices all depend in some way. on market-wide interest rates, but also on idiosyncratic factors, like credit risk, tax treatment, and unique supply and demand considerations. To make. sense of pricing in this context, market participants often quote spreads of one instrument or set of instruments relative to others..  

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#early_exercise'
-  - '#european_options'
-  - '#home_mortgage'
-  - '#option_payoff'
-  - '#path_dependence'
-  - '#path_independence'
-  - '#refinancing'
+  - american_options
+  - european_options
+  - mortgage_refinancing
+  - path_dependence
+  - path_independence
+aliases:
+  - Path-dependent options
+  - Path-independent options
+key_concepts:
+  - American option exercise
+  - European option characteristics
+  - Home mortgage refinancing
+  - Path dependence options
+  - Path independence
 ---
+
 # 7.7 PATH INDEPENDENCE AND PATH DEPENDENCE
 
 European options are one family of a class of options that are described by a characteristic we call path independence. Path independence is when it does not matter which path was taken to get to a point. For example, in a two-period model, one could end up in the middle point by going up and then down or down and then up. For a European option and indeed all path-independent options, it does not matter which path was taken. You arrive at the same final asset price, the option payoff is determined by that asset price, and the path the asset took to get there is irrelevant. Hence, we can ignore the intermediate steps and, as such, use formulas such as Equation (7.22).

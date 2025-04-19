@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#call_options'
-  - '#european_options'
-  - '#exercise_price'
-  - '#option_expiration'
-  - '#option_pricing'
-  - '#put_options'
-  - '#zero_coupon_bonds'
+  - binomial_tree
+  - european_option
+  - exercise_price
+  - option_pricing
+  - zero_coupon_bond
+aliases:
+  - Options on Zero Coupon Bonds
+  - Zero-Coupon Bond Options
+key_concepts:
+  - American style options
+  - Binomial discounting method
+  - European call/put options
+  - Option expiration and exercise
+  - Underlying zero-coupon bond
 ---
+
 # 28.3 OPTIONS ON ZERO-COUPON BONDS
 
 Now, let us use the tree to price our first options. Specifically, we are going to price European call and put options that expire at time 3 on a four-period zero-coupon bond.. Note that we do not care about four-period options on this bond, because the face value of the bond has no uncertainty at time 4: it is 1 for sure. Let us arbitrarily choose an exercise price of 0.9. The prices of the underlying zero-coupon bond are shown in Figure 28.2.. They are the prices $B(4)$ in the respective nodes. To introduce options, however, we are. going to have to add to the notation a bit, because with options we have two additional parameters to put in parentheses--the expiration of the option and the exercise price. In addition, we need to show information about the underlying..

@@ -1,17 +1,22 @@
 ---
 title: Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
-aliases:
-  - Calculation of Optimal Time to Drill an Oil Well
 tags:
-  - '#infinite_shutdown_restart'
-  - '#investment_deferral'
-  - '#numerical_implementation'
-  - '#oil_well_drilling'
-  - '#optimal_time_to_drill'
-  - '#shutdown_restart_analysis'
-  - '#single_barrel_solution'
-  - '#well_value_calculation'
+  - investment_decision
+  - investment_trigger
+  - oil_well_drilling
+  - optimal_solution
+  - shutdown_restart
+aliases:
+  - Oil Well Drilling
+  - Optimal Drilling Time
+key_concepts:
+  - Investment trigger value
+  - L'Hospital's rule application
+  - Maximize expression
+  - Optimal investment deferral
+  - Single shutdown restart
 ---
+
 # Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
 ## Single-Barrel Solution
 

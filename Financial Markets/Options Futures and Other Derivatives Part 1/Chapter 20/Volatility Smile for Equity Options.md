@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#crashophobia'
-  - '#equity_options'
-  - '#implied_volatility'
-  - '#lognormal_distribution'
-  - '#negative_correlation_equity_prices_volatility'
-  - '#stock_market_crash_1987'
-  - '#volatility_skew'
-  - '#volatility_smile'
+  - crashophobia
+  - equity_options
+  - implied_volatility
+  - lognormal_distribution
+  - strike_price
+  - volatility_smile
+aliases:
+  - Equity Option Pricing
+  - Volatility Skew
+key_concepts:
+  - Crashophobia effect
+  - Implied distribution shape
+  - Leverage and volatility
+  - Negative price-volatility correlation
+  - Volatility smile for options
 ---
+
 # 20.3 VOLATILITY SMILE FOR EQUITY OPTIONS  
 
 Prior to the crash of 1987, there was no marked volatility smile for equity options. Since 1987, the volatility smile used by traders to price equity options (both on individual stocks and on stock indices) has tended to look like that in Figure 20.3. This is sometimes referred to as a volatility skew. The volatility decreases as the strike price increases. The volatility used to price a low-strike-price option (i.e., a deep-out-of-the-money put or a deep-in-the-money call) is significantly higher than that used to price a high-strike-price option (i.e., a deep-in-the-money put or a deep-out-of-the-money call).  

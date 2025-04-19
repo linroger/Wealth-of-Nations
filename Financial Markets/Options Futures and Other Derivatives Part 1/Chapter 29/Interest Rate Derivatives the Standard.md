@@ -1,12 +1,23 @@
 ---
 tags:
-  - '#bond_options'
-  - '#european_swap_options'
-  - '#hedging_interest_rate_derivatives'
-  - '#interest_rate_caps_and_floors'
-  - '#interest_rate_derivatives'
-  - '#market_models'
+  - bond_options
+  - european_swap_options
+  - hedging_derivatives
+  - interest_rate_caps
+  - interest_rate_derivatives
+  - market_models
+aliases:
+  - IR Derivatives
+  - Interest Rate Products
+  - Swaptions
+key_concepts:
+  - Bond option pricing
+  - Caps and floors
+  - European swap options
+  - Hedging strategies
+  - Market models
 ---
+
 # Chapter 29. Interest rate derivatives: The standard market models . . 666  
 
 29.1 Bond options .666   

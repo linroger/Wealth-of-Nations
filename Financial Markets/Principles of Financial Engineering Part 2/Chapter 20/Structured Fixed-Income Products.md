@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#cms'
-  - '#convexity_adjustment'
-  - '#digital_caplets'
-  - '#fixed_income_products'
-  - '#libor'
-  - '#range_accrual_notes'
-  - '#swaptions'
-  - '#yield_curve_strategies'
-  - '#yield_enhancement'
+  - cms_linked
+  - fixed_income
+  - monetary_policy
+  - structured_products
+  - yield_curve
+aliases:
+  - Fixed Income Products
+  - Structured Fixed Income
+key_concepts:
+  - CMS-linked products
+  - Convexity effect
+  - Level effect
+  - Slope effects
+  - Yield curve strategies
 ---
+
 # 20.3 STRUCTURED FIXED-INCOME PRODUCTS  
 
 Structured fixed-income products follow principles that are similar to the ones based on equity or commodity prices. But the analysis of the principles of fixed income is significantly more complex for several reasons.  

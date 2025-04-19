@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#bid_ask_format'
-  - '#fixed_payer_rate'
-  - '#forward_rate_agreements'
-  - '#fra_conventions'
-  - '#libor_rate'
-  - '#notional_amount'
-  - '#reference_rate'
+  - bid_ask_format
+  - fixed_payer_rate
+  - forward_rate
+  - fra_markets
+  - libor_rates
+aliases:
+  - FRA
+  - Forward Rate Agreement
+key_concepts:
+  - 3-month series
+  - 6-month series
+  - Eurodeposit rates
+  - FRA two-way prices
+  - Fixed payer rate
 ---
+
 # 3.12 CONVENTIONS  
 
 FRAs are quoted as two-way prices in bid-ask format, similar to Eurodeposit rates. A typical market contributor will quote a 3-month and a 6-month series.  

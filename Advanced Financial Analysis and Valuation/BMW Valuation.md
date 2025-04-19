@@ -1,18 +1,36 @@
 ---
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#automotive_industry_valuation'
-  - '#bmw_peer_analysis'
-  - '#debt_ebit'
-  - '#debt_ratio'
-  - '#enterprise_value_ebit'
-  - '#enterprise_value_sales'
-  - '#financial_metrics_comparison'
-  - '#fixed_asset_turnover'
-  - '#peer_companies'
-  - '#return_on_invested_capital_roic'
+  - automotive_industry
+  - bmw_valuation
+  - company_valuation
+  - ev_ebit
+  - financial_analysis
+  - financial_ratios
+  - forward_multiples
+  - peer_comparison
+  - valuation_multiples
+aliases:
+  - Automotive Company Valuation
+  - BMW Comps Analysis
+  - BMW Peer Valuation
+key_concepts:
+  - Automotive industry
+  - BMW
+  - Company valuation
+  - Debt ratio
+  - Depreciation amortization
+  - EBIT
+  - Enterprise Value
+  - Financial analysis
+  - Financial services operations
+  - Forward multiples
+  - Historical multiples
+  - Operating income
+  - Peer companies
+  - Unit economics
+  - Valuation multiples
 ---
 We consider BMW'
 s peer companies to be Mercedes Benz Group, Volkswagen AG, Stellantis NV, Ford Motor Co, and Toyota Motor Corp. All of these firms share similar unit economics, compete in the same markets around the globe, and generally have a similar offering of different product lines ranging from the affordable car targeting price sensitive consumers to luxury automobiles appealing to more wealthy customers. Each of these firms moreover have a financial services operations that contribute directly and indirectly to the sale or leasing of their primary product-cars. We therefore consider any revenue or expenses incurred by the financial services business to be part of the company's core operations.

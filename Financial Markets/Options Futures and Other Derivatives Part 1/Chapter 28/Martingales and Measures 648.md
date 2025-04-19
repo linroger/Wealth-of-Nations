@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#black_model'
-  - '#change_of_numeraire'
-  - '#market_price_of_risk'
-  - '#martingales'
-  - '#numeraire'
-  - '#option_exchange'
-  - '#state_variables'
+  - black_model
+  - change_numeraire
+  - market_risk
+  - martingales
+  - option_exchange
+aliases:
+  - Chapter 28
+  - Martingales
+  - Measures
+key_concepts:
+  - Alternative choices numeraire
+  - Extension to several factors
+  - Market price of risk
+  - Option to exchange assets
+  - Several state variables
 ---
+
 # Chapter 28. Martingales and measures .. .. 648  
 
 28.1 The market price of risk. .649   

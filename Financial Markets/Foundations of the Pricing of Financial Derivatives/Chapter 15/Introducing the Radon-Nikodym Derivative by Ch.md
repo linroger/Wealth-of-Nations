@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#expected_value'
-  - '#financial_modeling'
-  - '#girsanov_theorem'
-  - '#normal_distribution'
-  - '#probability_distribution'
-  - '#probability_measure'
-  - '#probability_space'
-  - '#radon_nikodym_derivative'
-  - '#random_variable'
+  - financial_modeling
+  - girsanov_theorem
+  - probability_distribution
+  - radon_nikodym
+  - random_variable
+aliases:
+  - Changing Drift
+  - Radon-Nikodym derivative
+key_concepts:
+  - Girsanov's theorem
+  - expected value shift
+  - normal distribution
+  - probability density function
+  - probability measure change
 ---
+
 # 15.2 INTRODUCING THE RADON-NIKODYM DERIVATIVE BY CHANGINGTHE DRIFT FOR A SINGLE RANDOM VARIABLE
 
 Let us begin by examining the process of changing a probability distribution for a general random variable. We start with a random variable $x$ , which is simply a single unknown outcome and not a stochastic process. We shall take $x$ as distributed normally with expected value $\mu$ and variance $\sigma^{2}$ . The probability density of $x$ is

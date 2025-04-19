@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#alternative_investment_funds'
-  - '#dodd_frank_act'
-  - '#financial_engineering'
-  - '#hedge_fund_industry'
-  - '#hedge_fund_leverage'
-  - '#hedge_fund_regulation'
-  - '#hedge_fund_strategies'
-  - '#investment_mandate'
-  - '#market_participants'
-  - '#prime_brokers'
+  - aif
+  - aifm
+  - alternative_investments
+  - dodd_frank
+  - hedge_funds
+  - regulation
+aliases:
+  - Alternative Investment Funds
+  - Hedge Fund Industry
+key_concepts:
+  - AIFM and hedge funds
+  - Dodd-Frank Act impact
+  - EU AIFM Directive
+  - JOBS Act changes
+  - alternative asset class
+  - hedge fund regulation
+  - hedge fund strategies
 ---
+
 # 7.5 THE HEDGE FUND INDUSTRY  
 
 Throughout the book we refer to the application of financial engineering techniques to trading. opportunities and arbitrage as well as derivatives product design. One of the most prominent types of arbitrageur in financial markets is hedge funds. Their strategies are very diverse, but many funds  

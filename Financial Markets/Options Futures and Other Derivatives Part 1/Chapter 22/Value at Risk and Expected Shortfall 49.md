@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#back_testing'
-  - '#expected_shortfall'
-  - '#historical_simulation'
-  - '#linear_model'
-  - '#model_building_approach'
-  - '#monte_carlo_simulation'
-  - '#principal_components_analysis'
-  - '#quadratic_model'
-  - '#value_at_risk'
+  - back_testing
+  - expected_shortfall
+  - historical_simulation
+  - monte_carlo_simulation
+  - value_at_risk
+aliases:
+  - ES
+  - VaR
+key_concepts:
+  - Historical simulation method
+  - Linear model
+  - Model-building approach
+  - Quadratic model
+  - VaR and ES measures
 ---
+
 # Chapter 22. Value at risk and expected shortfall . .492  
 
 22.1 The VaR and ES measures .492   

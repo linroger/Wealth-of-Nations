@@ -4,15 +4,23 @@ source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.h
 description: Provides a basic introduction to valuing interest rate swaps using QuantLib
   Python.
 tags:
-  - '#cashflow_analysis'
-  - '#fixed_rate_leg'
-  - '#floating_rate_leg'
-  - '#interest_rate_swap'
-  - '#quantlib_python'
-  - '#swap_valuation'
-  - '#vanilla_swap'
-  - '#yield_curve'
+  - fixed_floating
+  - interest_rate_swaps
+  - quantlib_python
+  - swap_valuation
+  - vanilla_swaps
+aliases:
+  - IRS
+  - Interest Rate Swap
+  - Swap Example
+key_concepts:
+  - Cash flow analysis
+  - Fixed vs. floating
+  - Interest rate swap
+  - Notional amount
+  - QuantLib Python valuation
 ---
+
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python
 
 Provides a basic introduction to valuing interest rate swaps using QuantLib Python.

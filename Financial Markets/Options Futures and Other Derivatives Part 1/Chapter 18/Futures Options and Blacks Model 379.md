@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_trees'
-  - '#black_model'
-  - '#european_options'
-  - '#futures_options'
-  - '#futures_price'
-  - '#put_call_parity'
+  - binomial_trees
+  - blacks_model
+  - european_options
+  - futures_options
+  - put_call_parity
+aliases:
+  - Black's model
+  - futures options
+key_concepts:
+  - American vs European options
+  - Black's model valuation
+  - futures options
+  - futures-style options
+  - put-call parity
 ---
+
 # Chapter 18. Futures options and Black's model . .379  
 
 18.1 Nature of futures options . 379   

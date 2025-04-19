@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#basis_trading'
-  - '#bond_futures'
-  - '#cheapest_to_deliver_bond'
-  - '#conversion_factor'
-  - '#delivery_options'
-  - '#forward_pricing'
-  - '#gross_basis'
-  - '#implied_repo_rate'
-  - '#net_basis'
-  - '#repo_market'
+  - basis_trading
+  - bond_futures
+  - cash_and_carry
+  - forward_pricing
+  - repo_market
+aliases:
+  - Cash and Carry Trading
+  - Government Bond Basis
+key_concepts:
+  - 'Basis: spot vs futures price'
+  - Cheapest-to-deliver bond
+  - Forward and futures pricing
+  - Open repo market essential
+  - Trading cash bonds and futures
 ---
+
 # Basis Trading
 # 1 The Government Bond Basis
 

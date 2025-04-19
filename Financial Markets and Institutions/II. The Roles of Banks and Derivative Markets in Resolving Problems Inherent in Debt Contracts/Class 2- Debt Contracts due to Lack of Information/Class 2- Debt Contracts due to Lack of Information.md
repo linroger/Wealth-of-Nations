@@ -1,17 +1,28 @@
 ---
-aliases:
-  - Debt Contracts due to Lack of Information
 linter-yaml-title-alias:
 title: Class 2Debt Contracts due to Lack of Information
 tags:
-  - '#bankruptcy'
-  - '#bond_covenants'
-  - '#creditor_rights'
-  - '#debt_contracts'
-  - '#distressed_investing'
-  - '#financial_distress'
-  - '#loan_covenants'
+  - bankruptcy
+  - bond_covenants
+  - corporate_governance
+  - creditor_rights
+  - debt_contracts
+  - financial_distress
+  - loan_covenants
+aliases:
+  - Bankruptcy Risk
+  - Debt Contracts
+  - Distressed Debt
+key_concepts:
+  - Bankruptcy process overview
+  - Bond covenant protection
+  - Creditor rights analysis
+  - Debt contract information
+  - Financial distress factors
+  - Investment policy impact
+  - Loan covenant impact
 ---
+
 # Class 2Debt Contracts due to Lack of Information
 %% Begin Waypoint %%
 - **[[Class 2- Debt Contracts due to Lack of Information]]**

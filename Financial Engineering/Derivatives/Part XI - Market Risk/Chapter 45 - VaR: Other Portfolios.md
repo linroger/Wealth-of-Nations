@@ -1,3 +1,20 @@
+---
+tags:
+  - domestic_equity
+  - portfolio_risk
+  - single_index_model
+  - var_calculation
+  - vcv_method
+aliases:
+  - SIM
+  - Value at Risk
+key_concepts:
+  - Coupon bond as zero-coupon
+  - Portfolio of foreign stocks
+  - Reduce VaR computations
+  - Single index model (SIM)
+  - VaR for portfolio of options
+---
 # VaR: Other Portfolios  
 
 # Aims  

@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#forward_contract'
-  - '#options_pricing'
-  - '#options_strategy'
-  - '#options_synthesis'
-  - '#put_call_parity'
-  - '#risk_arbitrage'
-  - '#risk_sharing'
-  - '#strike_price'
+  - call_option
+  - forwards
+  - options
+  - put_call_parity
+  - put_option
+  - risk_sharing
+  - strike_price
+aliases:
+  - Forward Synthesis
+  - Off-Market Forward
+  - Options and Forwards
+  - Put-Call Parity
+key_concepts:
+  - Call and Put Payoffs
+  - Cash vs Physical Settlement
+  - Cost-of-Carry Equation
+  - Long Forward Strategy
+  - Put-Call Parity Formula
+  - Synthesizing Forwards
 ---
+
 # 5.4 OPTIONS AND FORWARDS, RISK SHARING AND PUT-CALL PARITY  
 
 Suppose we buy a call and sell a put on the same asset. Suppose that we also search among all possible strike prices and find one strike price, $K$ , such that the premium on the call struck at $K$ that we buy is exactly paid for by the premium on the put struck at $K$ that we sell. Let us examine the payoff of our strategy at expiry for physical-settle options.  

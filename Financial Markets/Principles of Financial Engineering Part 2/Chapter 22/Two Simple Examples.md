@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#basket_default_swap'
-  - '#cdo_tranches'
-  - '#credit_default_swap'
-  - '#default_correlation'
-  - '#equity_tranche'
-  - '#gfc_2007_2009'
-  - '#mezzanine_tranche'
-  - '#senior_tranche'
-  - '#tranche_pricing'
-  - '#tranche_spreads'
+  - binomial_distribution
+  - credit_derivatives
+  - default_correlation
+  - portfolio_management
+  - tranche_pricing
+aliases:
+  - Credit Tranches
+  - Default Risk
+  - Implied Correlation
+  - Mezzanine Tranche
+  - Senior Tranche
+key_concepts:
+  - Binomial probability distribution
+  - Credit names in portfolio
+  - Default correlation movements
+  - Default probability
+  - Equity, mezzanine, senior tranches
+  - Expected loss calculation
+  - Independence case
+  - Recovery rate
+  - Tranche prices
+  - Tranche spread calculations
 ---
+
 # 22.2 TWO SIMPLE EXAMPLES  
 
 We first discuss two simple cases to illustrate the logic of how default correlation movements affect. tranche prices. It is through this logic that observed tranche trading can be used to back out the default correlation. This quantity will be called implied correlation..  

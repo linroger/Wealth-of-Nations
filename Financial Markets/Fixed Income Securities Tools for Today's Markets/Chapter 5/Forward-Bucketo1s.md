@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#bond_valuation'
-  - '#curve_risk'
-  - '#forward_bucket'
-  - '#hedging'
-  - '#interest_rate_risk'
-  - '#municipal_bonds'
-  - '#term_structure'
-  - '#wellesley_massachusetts'
+  - forward_bucket
+  - interest_rate_risk
+  - key_rate
+  - municipal_bonds
+  - term_structure
+  - yield_curve
+aliases:
+  - Forward Bucket
+  - Forward-Bucket
+  - Wellesley Bonds
+key_concepts:
+  - Forward bucket interpretation
+  - Forward rate curve
+  - Key rate vs forward bucket
+  - Term structure shifts
+  - Wellesley general obligation bonds
 ---
+
 # 5.6 FORWARD-BUCKET'O1S  
 
 Key-rate and partial $^{\ '}01s$ are particularly convenient in that they translate directly into hedging with liquid instruments, whether on-the-run or near on-the-run Treasuries or swaps of the most liquid terms. But the shifts themselves are not very intuitive. Shifting the 10-year par rate by a basis point does not mean that the 10-year segment of the term structure shifts, while all other segments stay constant: shifting the 10-year par rate has implications for discounting all cash flows out to 10 years. Furthermore, as mentioned earlier, shifting one par rate, while holding all other rates constant, can imply odd shifts in spot or forward rates. Forward-bucket $^{\bullet}O1s$ , by contrast, are more easily interpretable in terms of changes in the shape of the term structure. They do not, however, provide the same direct visibility into hedging with liquid instruments as do key-rate and partial $^{\ '}01s$  

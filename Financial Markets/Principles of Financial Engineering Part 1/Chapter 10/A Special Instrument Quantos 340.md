@@ -1,11 +1,20 @@
 ---
 tags:
-  - '#convexity'
-  - '#equity'
-  - '#practical_considerations'
-  - '#pricing'
-  - '#quantos'
+  - convexity
+  - equity
+  - instrument
+  - pricing
+  - quantos
+aliases:
+  - Quantos 340
+  - Special Instrument
+key_concepts:
+  - Convexity considerations
+  - Mechanics of Pricing
+  - Practical aspects
+  - Quantos in equity
 ---
+
 # 10.5 A Special Instrument: Quantos . 340  
 
 10.5.1 A Simple Example. 340   

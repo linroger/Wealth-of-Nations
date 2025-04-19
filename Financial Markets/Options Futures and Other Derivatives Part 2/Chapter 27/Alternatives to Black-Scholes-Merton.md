@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton'
-  - '#cev_model'
-  - '#european_options'
-  - '#jump_diffusion'
-  - '#levy_processes'
-  - '#merton_jump_diffusion_model'
-  - '#monte_carlo_simulation'
-  - '#option_pricing_models'
-  - '#variance_gamma_model'
-  - '#volatility_smile'
+  - black_scholes_merton
+  - cev_model
+  - jump_diffusion
+  - levy_processes
+  - option_pricing
+aliases:
+  - BSM alternatives
+  - CEV
+  - Merton's model
+key_concepts:
+  - Constant elasticity of variance
+  - Geometric Brownian motion
+  - Lognormal distribution
+  - Merton's jump-diffusion model
+  - Variance-gamma model
 ---
+
 # 27.1 ALTERNATIVES TO BLACK-SCHOLES-MERTON  
 
 The Black-Scholes-Merton model assumes that an asset's price changes continously in a way that produces a lognormal distribution for the price at any future time. There are. many alternative processes that can be assumed. One possibility is to retain the property. that the asset price changes continuously, but assume a process other than geometric Brownian motion. Another alternative is to overlay continuous asset price changes with jumps. Yet another alternative is to assume a process where all the asset price changes that take place are jumps. We will consider examples of all three types of processes in this section. In particular, we will consider the constant elasticity of variance model, Merton's mixed jump-diffusion model, and the variance-gamma model. All three models are implemented in DerivaGem. The types of processes we consider in this section are known collectively as Levy processes.1.  

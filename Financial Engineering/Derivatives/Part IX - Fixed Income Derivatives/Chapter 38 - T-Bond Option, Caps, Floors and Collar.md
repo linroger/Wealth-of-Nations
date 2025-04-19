@@ -1,3 +1,24 @@
+---
+tags:
+  - eurodollar_futures
+  - fixed_income_derivatives
+  - interest_rate_caps
+  - interest_rate_options
+  - libor_bank_loan
+  - t_bond_option
+aliases:
+  - Eurodollar options
+  - Interest rate caps and floors
+  - Interest rate collar
+  - T-bond options
+key_concepts:
+  - Interest rate caps
+  - Interest rate collar
+  - Interest rate floors
+  - LIBOR bank loan
+  - Options on T-bond futures
+  - Options on T-bonds
+---
 # FIXED INCOME DERIVATIVES  
 
 # T-Bond Option, Caps, Floors and Collar  

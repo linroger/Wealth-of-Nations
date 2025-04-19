@@ -1,22 +1,27 @@
 ---
-aliases:
-  - 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
-  - Bid-Ask Prices with Adverse Selection/Private Information
-  - Bid-Ask Prices with Adverse SelectionPrivate Information.md
-  - Bid-Ask Prices with Adverse SelectionPrivate Information
 linter-yaml-title-alias: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private
   Information'
 title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
 tags:
-  - '#adverse_selection'
-  - '#bid_ask_spread'
-  - '#informed_traders'
-  - '#liquidity_traders'
-  - '#market_efficiency'
-  - '#market_makers'
-  - '#pricing_mechanics'
-  - '#private_information'
+  - adverse_selection
+  - bid_ask_spread
+  - liquidity
+  - market_makers
+  - private_information
+aliases:
+  - Adverse Selection
+  - Bid-Ask
+  - Information Asymmetry
+  - Market Microstructure
+key_concepts:
+  - Bid-ask spread
+  - Informed traders
+  - Liquidity traders
+  - Market maker behavior
+  - Price adjustment
+  - Private information impact
 ---
+
 # Bid-Ask Prices with Adverse SelectionPrivate Information
 
 ## I. Introduction to Liquidity

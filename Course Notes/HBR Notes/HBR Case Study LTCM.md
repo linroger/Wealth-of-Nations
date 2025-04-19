@@ -1,20 +1,25 @@
 ---
 Owner: RRoger Lin
-aliases:
-  - HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]]
-  - HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]].md
 title: HBR Case Study[[Class Note 13 The LTCM Meltdown|LTCM]]
 tags:
-  - '#financial_modeling'
-  - '#leveraged_portfolios'
-  - '#liquidity_risk'
-  - '#long_term_capital_management'
-  - '#ltcm_case_study'
-  - '#market_values'
-  - '#risk_management'
-  - '#russian_financial_crisis'
-  - '#systemic_risk'
+  - financial_crisis
+  - hbr_case_study
+  - hedge_fund
+  - ltcm_meltdown
+  - market_risk
+  - russian_default
+aliases:
+  - LTCM Case
+  - Long-Term Capital Management
+  - Meriwether Fund
+key_concepts:
+  - Financial institution exposure
+  - Market judgement
+  - Meriwether's hedge fund
+  - Quantitative models
+  - Russian sovereign default
 ---
+
 [[Note on Long-Term Capital Management,  L.P. HBP]]
 # HBR Case Study LTCM
 **Summary**

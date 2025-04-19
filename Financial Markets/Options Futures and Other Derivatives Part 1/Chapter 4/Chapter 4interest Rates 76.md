@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#convexity'
-  - '#duration'
-  - '#forward_rates'
-  - '#interest_rates'
-  - '#reference_rates'
-  - '#risk_free_rate'
-  - '#term_structure_of_interest_rates'
-  - '#zero_rates'
+  - bond_pricing
+  - convexity
+  - duration
+  - forward_rates
+  - interest_rates
+  - reference_rates
+  - term_structure
+aliases:
+  - Chapter 4
+  - 'Chapter 4: Interest Rates'
+  - Interest Rates
+key_concepts:
+  - Bond pricing
+  - Determining zero rates
+  - Forward rate agreements
+  - Measuring interest rates
+  - Theories of term structure
+  - Types of rates
 ---
+
 # Chapter 4.Interest rates . 76  
 
 4.1 Types of rates 76   

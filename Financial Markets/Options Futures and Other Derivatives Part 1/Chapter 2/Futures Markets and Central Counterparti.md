@@ -1,18 +1,22 @@
 ---
 tags:
-  - '#accounting_tax_futures'
-  - '#central_counterparties'
-  - '#delivery_futures'
-  - '#forward_vs_futures'
-  - '#futures_contract_specification'
-  - '#futures_markets'
-  - '#futures_price_convergence'
-  - '#futures_regulation'
-  - '#futures_traders_orders'
-  - '#margin_accounts'
-  - '#market_quotes'
-  - '#otc_markets'
+  - central_counterparties
+  - futures_contract
+  - futures_markets
+  - margin_accounts
+  - spot_price
+aliases:
+  - Central Counterparty
+  - Futures
+  - OTC Markets
+key_concepts:
+  - Forward vs futures
+  - Futures contract specification
+  - Futures price convergence
+  - Margin account operation
+  - Types of traders
 ---
+
 # Chapter 2. Futures markets and central counterparties . 24  
 
 2.1 Background 24   

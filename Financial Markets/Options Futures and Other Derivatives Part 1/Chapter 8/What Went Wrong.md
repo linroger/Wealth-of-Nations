@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#agency_costs'
-  - '#collateralized_debt_obligations'
-  - '#default_correlation'
-  - '#financial_crisis_2007'
-  - '#incentives'
-  - '#irrational_exuberance'
-  - '#mortgage_backed_securities'
-  - '#rating_agencies'
-  - '#regulatory_arbitrage'
+  - abs_cdos
+  - default_correlation
+  - financial_crisis
+  - mortgage_lenders
+  - rating_agencies
+aliases:
+  - 2007 Crisis
+  - Irrational Exuberance
+  - Subprime Crisis
+  - What Went Wrong
+key_concepts:
+  - AAA tranche, bond comparison
+  - Default correlation, mortgages
+  - Irrational exuberance, Greenspan
+  - Lax lending standards
+  - Rating agencies, structured products
 ---
+
 # 8.3 WHAT WENT WRONG?  
 
 "Irrational exuberance" is a phrase coined by Alan Greenspan, Chairman of the Federal. Reserve Board, to describe the behavior of investors during the bull market of the 1990s. It can also be applied to the period leading up to the financial crisis. Mortgage lenders, the investors in tranches of ABSs and ABS CDOs that were created from residential mortgages, and the companies that sold protection on the tranches assumed that the good times would last for ever. They thought that U.S. house prices would continue to increase. There might be declines in one or two areas, but the possibility of the. widespread decline shown in Figure 8.4 was a scenario not considered by most people..  

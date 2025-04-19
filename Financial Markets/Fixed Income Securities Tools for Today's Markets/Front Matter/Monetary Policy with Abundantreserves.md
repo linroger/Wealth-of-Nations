@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#abundant_reserves'
-  - '#bank_reserves'
-  - '#fed_funds_rate'
-  - '#federal_reserve'
-  - '#financial_crisis_2008'
-  - '#interest_on_reserves'
-  - '#monetary_policy'
-  - '#quantitative_easing'
-  - '#repo_market'
+  - bank_reserves
+  - central_bank
+  - federal_reserve
+  - financial_crisis
+  - monetary_policy
+aliases:
+  - Abundant Reserves
+  - Discount Window
+  - The Fed
+key_concepts:
+  - Bank liquidity provision
+  - Dual mandate of Fed
+  - Federal Reserve roles
+  - National currency creation
+  - Reserves and banking system
 ---
+
 # 0.4 MONETARY POLICY WITH ABUNDANTRESERVES  
 
 To introduce the roles of the Federal Reserve system or "the Fed" as a modern central bank, Table O.4 shows its pre-crisis balance sheet, as of December 2007. One role, the creation and maintenance of a widely accepted national currency, is achieved by purchasing government bonds with that currency. The currency of the United States is comprised of green bills labeled as liabilities of the Federal Reserve, that is, as "Federal Reserve Notes." In terms of the balance sheet, therefore, outstanding currency is a liability and Treasury securities are assets. Put another way, currency is "backed" by government bonds. As shown in the table, $\$773.9$ billion of currency outstanding was about $83\%$ of Federal Reserve liabilities.  

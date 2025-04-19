@@ -1,23 +1,26 @@
 ---
-aliases:
-  - Principal Agent Problem
 cssclasses:
   - academia
 title: Economic Principles - Why and How Capitalism Needs To Be Reformed
 source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
 description:
 tags:
-  - '#american_dream'
-  - '#capitalism_reform'
-  - '#double_bottom_line_investing'
-  - '#economic_outcomes'
-  - '#economic_policy'
-  - '#education_system'
-  - '#income_inequality'
-  - '#populism'
-  - '#social_mobility'
-  - '#wealth_gap'
+  - american_dream
+  - capitalism_reform
+  - economic_principles
+  - income_inequality
+  - middle_class
+aliases:
+  - Capitalism Reform
+  - Economic System Reform
+key_concepts:
+  - American Dream
+  - Capitalism's shortcomings
+  - Economic pie division
+  - Income/wealth gaps
+  - Socialist vs Capitalist
 ---
+
 # Economic Principles - Why and How Capitalism Needs To Be Reformed
 ## Summary
 

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bankruptcy_code'
-  - '#collateral'
-  - '#haircut'
-  - '#repo_market'
-  - '#repurchase_agreements'
-  - '#safe_harbor'
-  - '#secured_loan'
-  - '#variation_margin'
+  - bond_pricing
+  - collateral
+  - repurchase_agreement
+  - secured_loan
+  - variation_margin
+aliases:
+  - repo
+  - repurchase agreements
+key_concepts:
+  - collateral protection
+  - collateral value
+  - repo seller
+  - secured loan with bonds
+  - variation margin
 ---
+
 # 10.1 REPURCHASE AGREEMENTS  
 
 The most straightforward description of a repurchase agreement or repo is as a secured loan with bonds or other financial instruments as collateral. Figures 10.1 and 10.2 depict an example in which one counterparty - the "repo seller" -- borrows $\$109,898,438$ for 44 days at a rate of $0.015\%$ , while giving $\$100$ million of the 2.75s of $02/15/2028$ as collateral. At the time of the trade, the price of the bond is $109{-}283/4$ , that is, $109+28.75/32=$ 109.898438 per 100 face amount, which means that the value of the collateral at the start of the trade equals the amount loaned. In practice, the value of the collateral typically exceeds the amount loaned, and this feature. of repo is discussed next. Continuing with the present example, however, Figure 10.1 shows the flows of cash and bonds at the initiation of the trade,. and Figure 10.2 shows the flows at the expiration or unwind of the trade. In the latter, the repo seller pays principal plus interest, $\$109,898,438\times(1+$ $0.015\%\times44/360)$ , or $\$109,900,452$ , to discharge the loan, and then takes back its $\$100$ million face amount of bonds.  

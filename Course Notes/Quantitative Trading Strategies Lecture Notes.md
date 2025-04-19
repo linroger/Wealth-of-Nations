@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#backtesting'
-  - '#carry_trade'
-  - '#exponential_weighting'
-  - '#market_inefficiency'
-  - '#parameter_reversion'
-  - '#quantitative_trading'
-  - '#risk_management'
-  - '#spread_trading'
-  - '#tick_data_analysis'
-  - '#trading_strategies'
+  - credit_risk
+  - market_inefficiency
+  - quantitative_trading
+  - risk_management
+  - trading_strategies
+aliases:
+  - Quant Trading
+  - Quantitative Finance
+  - Trading Strategies
+key_concepts:
+  - Credit risk
+  - Market inefficiency
+  - Providing services
+  - Quantitative trading elements
+  - Sources of profit
 ---
+
 # INTRODUCTION TO QUANTITATIVE TRADING  
 
 # 1.  Basic Features of Quantitative Trading  

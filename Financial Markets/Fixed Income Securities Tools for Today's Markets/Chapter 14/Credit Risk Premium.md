@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#baa_rated_bonds'
-  - '#bond_ratings'
-  - '#corporate_bonds'
-  - '#credit_losses'
-  - '#credit_risk_premium'
-  - '#credit_spreads'
-  - '#expected_losses'
-  - '#risk_averse_investors'
+  - corporate_bonds
+  - credit_losses
+  - credit_risk
+  - credit_spread
+  - risk_premium
+aliases:
+  - Credit Risk
+  - Credit Spread Premium
+key_concepts:
+  - Baa-rated bond
+  - Corporate bond spreads
+  - Credit losses compensation
+  - Credit risk premium
+  - Risk-averse investors
 ---
+
 # 14.4 CREDIT RISK PREMIUM  
 
 If credit spreads, on average, just compensated for credit losses, then. risk-averse investors would just as soon buy safe government bonds at the same average return, but without the downside risk. For corporate debt to. be attractive, therefore, spreads must not only compensate for credit losses,. but also provide an additional credit risk premium. This section reviews some evidence that, on average, corporate bond spreads do, indeed, more. than compensate for credit losses.  

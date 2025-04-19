@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#exotic_option_pricing'
-  - '#financial_engineering'
-  - '#market_conventions'
-  - '#new_product_creation'
-  - '#risk_management'
-  - '#smile_dynamics'
-  - '#underlying_volatility_processes'
-  - '#volatility_smile'
+  - exotic_option
+  - financial_engineering
+  - risk_factors
+  - stochastic_process
+  - volatility_smile
+aliases:
+  - The Smile
+  - Volatility Smile
+key_concepts:
+  - causes of the smile
+  - exotic option characteristics
+  - smile trading opportunities
+  - underlying realized volatility
+  - volatility smile importance
 ---
+
 # 16.14 THE RELEVANCE OF THE SMILE  
 
 The volatility smile is important in financial engineering for at least three reasons.  

@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#bid_ask_spread'
-  - '#broker_fees'
-  - '#limit_orders'
-  - '#market_orders'
-  - '#option_exercise_fees'
-  - '#options_trading'
-  - '#trading_costs'
+  - bid_ask_spread
+  - limit_order
+  - market_order
+  - options_trading
+  - trading_costs
+aliases:
+  - Option Costs
+  - Trading Fees
+key_concepts:
+  - Bid-ask spread impact
+  - Brokerage fees
+  - Hidden trading costs
+  - Market maker's spread
+  - Types of option orders
 ---
+
 # 10.6 TRADING COSTS  
 
 The types of orders that can be placed with a broker for options trading are similar to those for futures trading (see Section 2.8). A market order is executed immediately, a limit order specifies the least favorable price at which the order can be executed, and so on.  

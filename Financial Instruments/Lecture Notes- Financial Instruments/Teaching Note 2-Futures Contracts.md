@@ -1,22 +1,26 @@
 ---
-aliases:
-  - 
-  - 'EXAMPLE: HEDGING WITH FUTURES'
-  - 
 linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
 title: Teaching Note 2-Futures Contracts
 tags:
-  - '#basis_risk'
-  - '#cme_euro_fx_futures'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#futures_price_vs_forward_price'
-  - '#hedging_with_futures'
-  - '#margin_call'
-  - '#mark_to_market'
-  - '#speculating_with_futures'
-  - '#stock_index_futures'
+  - basis_risk
+  - cme_euro_fx
+  - forward_contracts
+  - futures_contracts
+  - mark_to_market
+aliases:
+  - CME
+  - Forwards
+  - Futures
+  - Hedging
+key_concepts:
+  - Futures vs Forwards
+  - Margin Call
+  - Mark to Market
+  - Speculating with Futures
+  - Standardization and Liquidity
+  - Stock Index Futures
 ---
+
 [Carry Trade 1](Carry%20Trade%201.md)
 
 Futures contracts are similar to forward contracts,  as they are agreements between two counterparties to exchange a pre-specified amount of good (e.g.,  corn,  or Euros) at a pre-specified time for a predetermined price.

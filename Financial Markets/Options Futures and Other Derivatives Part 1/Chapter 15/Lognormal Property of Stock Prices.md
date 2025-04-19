@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#expected_stock_return'
-  - '#lognormal_distribution'
-  - '#lognormal_property_stock_prices'
-  - '#normal_distribution'
-  - '#stock_price_behavior_model'
-  - '#stock_price_prediction'
-  - '#stock_price_volatility'
+  - black_scholes_merton
+  - expected_return
+  - lognormal_distribution
+  - stock_prices
+  - volatility
+aliases:
+  - Lognormal Stock Prices
+  - Stock Price Behavior
+key_concepts:
+  - Black-Scholes-Merton model
+  - Expected return
+  - Lognormal distribution
+  - Stock price behavior model
+  - Stock price volatility
 ---
+
 # 15.1 LOGNORMAL PROPERTY OF STOCK PRICES  
 
 The model of stock price behavior used by Black, Scholes, and Merton is the model we developed in Chapter 14. It assumes that percentage changes in the stock price in a very short period of time are normally distributed. Define  

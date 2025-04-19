@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#binomial_tree_options_valuation'
-  - '#black_scholes_merton_formula'
-  - '#currency_options'
-  - '#futures_options'
-  - '#option_delta'
-  - '#option_pricing_models'
-  - '#risk_neutral_valuation'
-  - '#stochastic_processes'
-  - '#stock_indices_options'
+  - binomial_trees
+  - currency_options
+  - dividend_yield
+  - futures_options
+  - options_on_assets
+  - stock_indices
+aliases:
+  - Options on Currencies
+  - Options on Futures
+  - Options on Indices
+key_concepts:
+  - Binomial tree construction
+  - Continuous dividend yield
+  - Currency option pricing
+  - Futures contract valuation
+  - Stock index valuation
 ---
+
 # 13.11 OPTIONS ON OTHER ASSETS  
 
 We introduced options on indices, currencies, and futures contracts in Chapter 10 and will cover them in more detail in Chapters 17 and 18. It turns out that we can construct and use binomial trees for these options in exactly the same way as for options on stocks except that the equation for $p$ changes. As in the case of options on stocks, equation (13.2) applies so that the value at a node (before the possibility of early exercise is considered) is $p$ times the value if there is an up movement plus $1-p$ times the value if there is a down movement, discounted at the risk-free rate.  

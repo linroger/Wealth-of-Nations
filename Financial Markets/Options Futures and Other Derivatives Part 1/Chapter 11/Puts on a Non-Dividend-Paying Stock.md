@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#american_put_option'
-  - '#early_exercise'
-  - '#european_put_option'
-  - '#interest_rate_impact'
-  - '#intrinsic_value'
-  - '#non_dividend_paying_stock'
-  - '#option_bounds'
-  - '#put_option_valuation'
-  - '#stock_price_volatility'
+  - american_put_option
+  - early_exercise
+  - non_dividend_paying_stock
+  - option_pricing
+  - option_value
+aliases:
+  - American put
+  - Early exercise
+  - Early exercise put
+  - Put option
+key_concepts:
+  - American put exercise
+  - Early exercise attractiveness
+  - European put option
+  - Option lower bounds
+  - Put option value
 ---
+
 # 11.6 PUTS ON A NON-DIVIDEND-PAYING STOCK  
 
 It can be optimal to exercise an American put option on a non-dividend-paying stock. early. Indeed, at any given time during its life, the put option should always be exercised early if it is sufficiently deep in the money..  

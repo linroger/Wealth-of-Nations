@@ -1,13 +1,30 @@
 ---
 tags:
-  - '#credit_default_swaps'
-  - '#credit_risk'
-  - '#currency_swaps'
-  - '#interest_rate_swaps'
-  - '#risk_free_rates'
-  - '#swap_trading'
-  - '#swap_valuation'
+  - credit_default_swaps
+  - credit_risk
+  - currency_swaps
+  - fixed_for_fixed_currency_swaps
+  - interest_rate_swaps
+  - valuation
+aliases:
+  - Chapter 7
+  - Swaps
+key_concepts:
+  - Comparative-advantage argument
+  - Credit default swaps
+  - Credit risk
+  - Determining risk-free rates
+  - Fixed-for-fixed currency swaps
+  - Mechanics of interest rate swaps
+  - Organization of trading
+  - Other currency swaps
+  - Other types of swaps
+  - Trading interest rate swaps
+  - Valuation currency swaps
+  - Valuation of interest rate swaps
+  - Value changes through time
 ---
+
 # Chapter 7. Swaps ... .150  
 
 7.1 Mechanics of interest rate swaps. .150   

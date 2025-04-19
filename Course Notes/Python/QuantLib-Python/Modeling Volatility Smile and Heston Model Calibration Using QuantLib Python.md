@@ -1,15 +1,23 @@
 ---
 title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 tags:
-  - '#arbitrage_free_smoothing'
-  - '#european_options'
-  - '#heston_model'
-  - '#implied_volatility_surface'
-  - '#local_volatility_surface'
-  - '#option_calibration'
-  - '#quantlib_python'
-  - '#volatility_smile'
+  - european_options
+  - heston_model
+  - implied_volatility
+  - quantlib_python
+  - volatility_smile
+aliases:
+  - Heston Calibration
+  - QuantLib Python Tutorial
+  - Volatility Surface Modeling
+key_concepts:
+  - Arbitrage-free smoothing
+  - European option pricing
+  - Heston model calibration
+  - Implied volatility surface
+  - Market volatility quotes
 ---
+
 # Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ## Strikes Market Value Model Value Relative Error (%)
 

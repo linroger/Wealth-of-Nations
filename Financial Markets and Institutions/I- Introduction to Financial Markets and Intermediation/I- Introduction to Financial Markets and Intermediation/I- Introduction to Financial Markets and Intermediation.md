@@ -1,14 +1,34 @@
 ---
 cssclasses: academia
 title: IIntroduction to Financial Markets and Intermediation
-aliases:
-  - IIntroduction to Financial Markets and Intermediation
 linter-yaml-title-alias: IIntroduction to Financial Markets and Intermediation
 tags:
-  - '#financial_markets'
-  - '#introduction'
-  - '#market_intermediation'
+  - banking_industry
+  - financial_instruments
+  - financial_markets
+  - market_intermediation
+  - market_participants
+aliases:
+  - Finance 101
+  - Financial Markets
+  - Market Overview
+key_concepts:
+  - Commercial banking
+  - Credit markets
+  - Derivatives markets
+  - Equity markets
+  - Financial instruments
+  - Financial markets
+  - Financial regulations
+  - Global markets
+  - Interest rates
+  - Investment banking
+  - Market efficiency
+  - Market intermediation
+  - Market participants
+  - Risk management
 ---
+
 # I- Introduction to Financial Markets and Intermediation
 
 %% Begin Waypoint %%

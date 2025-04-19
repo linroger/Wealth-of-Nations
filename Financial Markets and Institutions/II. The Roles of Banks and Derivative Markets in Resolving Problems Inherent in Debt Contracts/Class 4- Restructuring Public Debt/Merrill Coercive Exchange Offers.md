@@ -1,22 +1,23 @@
 ---
-aliases:
-  - Merrill Coercive Exchange Offers.md
-  - Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange
-    Offers|Exchange Offers]]
 title: Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy
   Exchange Offers|Exchange Offers]]
 tags:
-  - '#bondholder_rights'
-  - '#coercive_exchange_offers'
-  - '#corporate_distress'
-  - '#covenants'
-  - '#debt_restructuring'
-  - '#exit_consents'
-  - '#financial_disclosure'
-  - '#high_yield_bonds'
-  - '#holdout_problem'
-  - '#market_participants'
+  - bondholders
+  - coercive_exchange_offers
+  - corporate_restructuring
+  - high_yield_bonds
+  - leveraged_loans
+aliases:
+  - coercive offers
+  - exchange offers
+key_concepts:
+  - Merrill exchange offers
+  - bondholder treatment
+  - corporate financial distress
+  - high yield bonds
+  - market participant evaluation
 ---
+
 # Merrill Coercive Exchange Offers
 
 Prices of U.S. high yield bonds and leveraged loans weakened early on Wednesday following Tuesday's sharp decline in equities.A rebound began later the same day and its continuation on Thursday erased most of the decline. Selected news-sensitive. names such as Elizabeth Arden,  Lyondell Chemical,  and Winn-Dixie Stores dominated trading on the bond side. Demand for loans remained firm. in the context. of skimpy new issue supply,  with collateralized loan obligation rampups adding to the need for paper.

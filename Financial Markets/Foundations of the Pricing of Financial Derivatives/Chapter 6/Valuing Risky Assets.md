@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#economic_scenarios'
-  - '#expected_value'
-  - '#risk_averse_investor'
-  - '#risk_aversion'
-  - '#risk_neutral_investor'
-  - '#risk_premium'
-  - '#risky_asset_valuation'
-  - '#time_value_of_money'
+  - expected_return
+  - risk_aversion
+  - risk_neutral
+  - risk_premium
+  - risky_assets
+aliases:
+  - Asset Valuation
+  - Risky Asset Pricing
+  - Valuation of Risky Assets
+key_concepts:
+  - Expected value of asset
+  - Risk premium calculation
+  - Risk-averse investor (RAI)
+  - Risk-free interest rate
+  - Risk-neutral investor (RNI)
+  - Risky asset valuation
 ---
+
 # 6.1 VALUING RISKY ASSETS
 
 Suppose there is an asset that will have a value of either 100 if a good economy occurs or 50 if a bad economy occurs one period later. The risk-free interest rate,. $r_{\mathrm{{i}}}$ , for the period. is $5\%$ . Further, suppose we somehow know the probability of the good economy is. $60\%$ and the probability of the bad economy is $40\%$ . What should be the current price of the asset?

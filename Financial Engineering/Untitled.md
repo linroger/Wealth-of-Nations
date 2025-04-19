@@ -1,3 +1,23 @@
+---
+tags:
+  - basis_trade
+  - financial_crisis
+  - repo_market
+  - treasury_futures
+  - treasury_yields
+aliases:
+  - JPMorgan
+  - Odd Lots
+  - basis trade
+  - hedge funds
+key_concepts:
+  - 2008 financial crisis
+  - Basis trade explained
+  - Hedge fund returns
+  - Repo market funding
+  - Treasury yields spike
+---
+
 I remember when the basis trade first burst into the market’s collective consciousness.
 
 It was March of 2020. The stock market was crashing and Treasury yields had spiked to 1.19%. Now, as yields now surge to 4.46%, that doesn’t seem like a very big deal. But the direction of travel was unusual; when the stock market crashes investors typically run to the perceived safety of US Treasuries. Now, in the depths of the pandemic, they were suddenly *running away*.

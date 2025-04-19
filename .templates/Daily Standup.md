@@ -1,11 +1,17 @@
 ---
 tags:
-  - '#blockers'
-  - '#daily_tasks'
-  - '#progress_tracking'
-  - '#today_activities'
-  - '#tomorrow_plans'
+  - blockers
+  - daily_standup
+  - task_management
+aliases:
+  - daily meeting
+  - standup
+key_concepts:
+  - blocker identification
+  - daily tasks
+  - team communication
 ---
+
 **What did you do today?**
 
 - [ ] x

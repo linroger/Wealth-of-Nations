@@ -1,20 +1,24 @@
 ---
-aliases:
-  - WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
-  - WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 tags:
-  - '#alan_schwartz'
-  - '#bear_stearns_collapse'
-  - '#financial_crisis_2008'
-  - '#government_intervention'
-  - '#henry_paulson'
-  - '#james_dimon'
-  - '#jp_morgan_takeover'
-  - '#market_instability'
-  - '#moral_hazard'
-  - '#timothy_geithner'
+  - 2008_financial_crisis
+  - bear_stearns_collapse
+  - financial_crisis
+  - jp_morgan
+  - wall_street
+aliases:
+  - Alan Schwartz
+  - Bear Stearns
+  - Henry Paulson
+  - Timothy Geithner
+key_concepts:
+  - Bear Stearns collapse
+  - Government loan guarantee
+  - J.P. Morgan acquisition
+  - Stock price decline
+  - Weekend deal deadline
 ---
+
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 
 It had been a rough day,  but when Alan Schwartz headed for home on Friday,  March 14,  the [Bear Stearns](https://archive.is/o/uKM5J/https://quotes.wsj.com/bsc) Cos. chief executive thought he'd have a month to find a buyer for his teetering firm.

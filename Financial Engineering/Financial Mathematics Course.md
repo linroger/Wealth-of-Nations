@@ -1,15 +1,36 @@
 ---
 tags:
-  - '#arbitrage_theory'
-  - '#asset_pricing'
-  - '#contingent_claim_analysis'
-  - '#continuous_time_models'
-  - '#discrete_time_models'
-  - '#financial_mathematics'
-  - '#interest_rate_theory'
-  - '#lecture_notes'
-  - '#martingale_models'
-  - '#universitat_ulm'
+  - arbitrage
+  - asset_pricing
+  - derivatives
+  - financial_mathematics
+  - interest_rates
+  - mathematical_modeling
+  - options
+  - quantitative_finance
+  - risk_management
+  - stochastic_processes
+aliases:
+  - Financial Mathematics I
+  - Kiesel Financial Math Notes
+  - Ulm Financial Math
+  - Universitat Ulm FM
+key_concepts:
+  - Arbitrage theory
+  - Asset pricing models
+  - Black-Scholes model
+  - Complete markets
+  - Continuous-time models
+  - Derivative securities
+  - Discrete-time models
+  - Financial mathematics
+  - Interest rate theory
+  - Martingale measures
+  - Option pricing
+  - Risk management
+  - Risk-neutral pricing
+  - Stochastic calculus
+  - Term structure models
 ---
 # Financial Mathematics I  
 

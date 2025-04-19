@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_equation'
-  - '#derivatives_pricing'
-  - '#expected_return'
-  - '#forward_contracts'
-  - '#risk_free_rate'
-  - '#risk_neutral_valuation'
-  - '#risk_preferences'
-  - '#stock_valuation'
+  - binomial_model
+  - black_scholes_merton
+  - derivative_pricing
+  - forward_contracts
+  - risk_neutral_valuation
+aliases:
+  - Black-Scholes
+  - Risk-Neutral Pricing
+key_concepts:
+  - Black-Scholes equation
+  - Expected payoff
+  - Forward contract valuation
+  - Risk-free interest rate
+  - Risk-neutral valuation
 ---
+
 # 15.7 RISK-NEUTRAL VALUATION  
 
 We introduced risk-neutral valuation in connection with the binomial model in Chapter 13. It is without doubt the single most important tool for the analysis of derivatives. It arises from one key property of the Black-Scholes-Merton differential equation (15.16). This property is that the equation does not involve any variables that are affected by the risk preferences of investors. The variables that do appear in the equation are the current stock price, time, stock price volatility, and the risk-free rate of interest. All are independent of risk preferences.  

@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#arbitrage_opportunities'
-  - '#arbitrage_profit'
-  - '#binomial_model'
-  - '#call_option_arbitrage'
-  - '#market_price_vs_model_price'
-  - '#one_period_binomial_model'
-  - '#option_pricing_discrepancies'
-  - '#put_option_arbitrage'
-  - '#risk_free_rate'
-  - '#synthetic_options'
+  - arbitrage_strategy
+  - binomial_model
+  - call_option
+  - option_pricing
+  - put_option
+aliases:
+  - Arbitrage
+  - Overpriced Options
+  - Price Discrepancies
+  - Underpriced Options
+key_concepts:
+  - Arbitraging price discrepancies
+  - Overpriced call options
+  - Synthetic call option
+  - Synthetic put option
+  - Underpriced put options
 ---
+
 # 7.3 ARBITRAGING PRICE DISCREPANCIES
 
 If the actual market price of the option differs from the model price, an arbitrage is possible. Consider the call option case. If the call can be sold for more than the formula value, Equation (7.9), the call is overpriced. Overpriced instruments should be sold. Simply selling the call, however, hardly qualifies as an arbitrage. If the call expires in-the-money, one could incur a significant loss, even though the call was underpriced. Instead, the arbitrage should be completed, and the risk eliminated by holding an offsetting number of units of the asset.

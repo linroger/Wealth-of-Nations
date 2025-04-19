@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#bond_hedging'
-  - '#dv01'
-  - '#hedge_ratios'
-  - '#jnj_bonds'
-  - '#portfolio_variance'
-  - '#regression_analysis'
-  - '#reverse_regression'
-  - '#treasury_bonds'
-  - '#yield_changes'
+  - bond_yields
+  - hedging
+  - reverse_regression
+  - treasury_bonds
+  - volatility
+aliases:
+  - Regression Hedge
+  - Reverse Regressions
+key_concepts:
+  - Hedged position volatility
+  - JNJ bonds
+  - Regression coefficient
+  - Treasury bonds
+  - Variance of P&L
 ---
+
 # 6.4 REVERSE REGRESSIONS  
 
 In Section 6.1, a trader regresses changes in yields of the JNJ 2.450s of 09/01/2060 - with a DV01 of 0.2124 - on changes in yields of the Treasury 1.625s of 11/15/2050 - with a DV01 of 0.1910; obtains a regression coefficient of 0.842; and, against $\$100$ million of the JNJ bonds, calculates a regression hedge to sell $\$100$ million $\times(0.2124/0.1910)\times0.842$ , or $\$93.6$ million Treasury bonds.  

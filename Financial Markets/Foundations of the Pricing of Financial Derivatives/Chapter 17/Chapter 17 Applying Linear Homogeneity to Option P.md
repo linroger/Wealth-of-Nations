@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#euler_s_rule'
-  - '#exchange_options'
-  - '#forward_start_options'
-  - '#ito_s_lemma'
-  - '#linear_homogeneity'
-  - '#option_pricing'
-  - '#spread_options'
+  - black_scholes_merton
+  - exchange_options
+  - linear_homogeneity
+  - option_pricing
+  - spread_options
+aliases:
+  - B-S-M Model
+  - Chapter 17
+key_concepts:
+  - Black-Scholes-Merton model
+  - Euler's rule application
+  - Exchange option pricing
+  - Linear homogeneity rule
+  - Spread option valuation
 ---
+
 # CHAPTER 17 Applying Linear Homogeneity to Option Pricing 327
 
 17.1 Introduction to Exchange Options. 327

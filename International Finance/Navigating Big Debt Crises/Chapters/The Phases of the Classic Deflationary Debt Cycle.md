@@ -1,19 +1,25 @@
 ---
 title: The Phases of the Classic Deflationary Debt Cycle
-aliases: []
 cssclasses: academia
 tags:
-  - '#austerity'
-  - '#bubble_formation'
-  - '#central_banks'
-  - '#debt_monetization'
-  - '#deflationary_debt_cycle'
-  - '#deleveraging'
-  - '#economic_depression'
-  - '#long_term_debt_cycle'
-  - '#monetary_policy'
-  - '#quantitative_easing'
+  - bubble_formation
+  - cash_flow_problem
+  - debt_cycle
+  - deflationary_debt_cycle
+  - goldilocks_period
+  - solvency_problem
+aliases:
+  - Deflationary Cycle
+  - Phases of Debt Cycle
+key_concepts:
+  - Accounting/regulatory rules
+  - Borrower capacity
+  - Bubble asset returns
+  - Debt growth vs income
+  - Fiscal/monetary policy
+  - Solvency vs cash flow
 ---
+
 # The Phases of the Classic Deflationary Debt Cycle
 
 ### 1\) The Early Part of the Cycle

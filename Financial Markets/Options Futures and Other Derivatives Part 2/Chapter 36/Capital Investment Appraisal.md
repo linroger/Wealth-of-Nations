@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#abandonment_option'
-  - '#capital_asset_pricing_model_capm'
-  - '#capital_investment_appraisal'
-  - '#embedded_options'
-  - '#expansion_option'
-  - '#net_present_value_npv'
-  - '#project_valuation'
-  - '#risk_adjusted_discount_rate'
-  - '#risk_neutral_valuation'
+  - capital_asset_pricing_model
+  - capital_budgeting
+  - embedded_options
+  - npv
+  - risk_adjusted_discount_rate
+aliases:
+  - Capital Investment
+  - NPV Approach
+  - Project Valuation
+key_concepts:
+  - Capital asset pricing model
+  - Embedded project options
+  - Net present value (NPV)
+  - Risk-adjusted discount rate
+  - Valuing capital investment projects
 ---
+
 # 36.1 CAPITAL INVESTMENT APPRAISAL  
 
 The traditional approach to valuing a potential capital investment project is the "net. present value' (NPV) approach. The NPV of a project is the present value of its. expected future incremental cash flows. The discount rate used to calculate the present value is a "risk-adjusted" discount rate, chosen to reflect the risk of the project. As the riskiness of the project increases, the discount rate also increases.  

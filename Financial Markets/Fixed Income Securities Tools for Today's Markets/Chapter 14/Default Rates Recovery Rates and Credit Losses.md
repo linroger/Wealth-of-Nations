@@ -1,16 +1,34 @@
 ---
 tags:
-  - '#bond_seniority'
-  - '#credit_losses'
-  - '#credit_risk_analysis'
-  - '#default_rates'
-  - '#hertz_bankruptcy'
-  - '#investment_grade_bonds'
-  - '#rating_transitions'
-  - '#recovery_rates'
-  - '#senior_unsecured_bonds'
-  - '#speculative_grade_bonds'
+  - bond_recovery
+  - credit_losses
+  - credit_risk
+  - default_rates
+  - hertz_bonds
+  - investment_grade
+  - recovery_rates
+  - senior_unsecured_bonds
+  - seniority
+  - speculative_grade
+aliases:
+  - Bond Credit Risk
+  - Credit Loss
+  - Credit Risk Analysis
+  - Default and Recovery
+  - Hertz Bankruptcy
+key_concepts:
+  - Bond Recovery Rates
+  - Credit Losses
+  - Credit Risk Over Time
+  - Default Rates
+  - Hertz Bond Prices
+  - Impact of Seniority
+  - Investment Grade Bonds
+  - Recovery Rates
+  - Senior Unsecured Bonds
+  - Speculative Grade Bonds
 ---
+
 # 14.2 DEFAULT RATES, RECOVERY RATES, AND CREDIT LOSSES  
 
 While investors in nearly risk-free government bonds can focus exclusively on interest rate risk, investors in corporate securities have to focus on credit risk as well, often expressed in terms of default rates, recovery rates, and credit losses. After analysis, an investor might estimate that, over a five-year horizon, a particular portfolio of bonds will experience a default rate of $10\%$ , meaning that, for every. $\$100$ of face amount, $\$10$ will default. Further-. more, the investor might estimate that the defaulting bonds in the portfolio will experience a recovery rate of. $40\%$ of face amount, or, equivalently, will suffer a loss equal to the remaining $60\%$ of face amount. Putting these two estimates together, the investor expects, over a five-year horizon, that credit losses on the portfolio will be $10\%\times(1-40\%)=6\%$  

@@ -1,21 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Squam Lake Group Conclusions.md
 title: Squam Lake Group Conclusions
 tags:
-  - '#aig'
-  - '#bailouts'
-  - '#capital_requirements'
-  - '#central_bank'
-  - '#financial_crisis'
-  - '#financial_regulation'
-  - '#lehman_brothers'
-  - '#regulatory_reform'
-  - '#risk_management'
-  - '#systemic_risk'
+  - central_bank
+  - financial_regulation
+  - financial_system
+  - risk_disclosure
+  - shadow_banking
+aliases:
+  - Financial System Report
+  - Squam Lake Report
+key_concepts:
+  - Central bank oversight
+  - Financial system organization
+  - Risk disclosure benefits
+  - Shadow banking risks
+  - Systemic risk regulation
 ---
+
 # Squam Lake Group Conclusions
 
 # Chapter 11 Conclusions

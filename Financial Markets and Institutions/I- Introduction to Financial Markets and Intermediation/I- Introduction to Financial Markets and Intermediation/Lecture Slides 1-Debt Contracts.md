@@ -1,21 +1,32 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Lecture Slides 1 Debt Pricing
 linter-yaml-title-alias: Lecture Slides 1 Debt Pricing
 title: Lecture Slides 1-Debt Contracts
 tags:
-  - '#bank_runs'
-  - '#bankruptcy_reorganization'
-  - '#capital_structure'
-  - '#debt_capacity'
-  - '#debt_contracts'
-  - '#financial_panics'
-  - '#liquidity'
-  - '#securitization'
-  - '#us_federal_trust_indenture_act'
+  - bank_runs
+  - bankruptcy
+  - capital_structure
+  - debt_contracts
+  - financial_crisis
+  - liquidity
+  - securitization
+aliases:
+  - Debt Contracts
+  - Debt and Bankruptcy
+  - Debt and Liquidity
+  - Lecture 1
+key_concepts:
+  - Bailouts and government crises
+  - Banks and financial engineering
+  - Capital structure choice
+  - Debt contracts and bankruptcy
+  - Financial panics and debt
+  - Liquidity in markets
+  - Securitization structures
+  - Strategic effects of debt
 ---
+
 # Lecture Slides 1-Debt Contracts
 
 ## 1. **The Details Of Debt Contracts And Bankruptcy:**

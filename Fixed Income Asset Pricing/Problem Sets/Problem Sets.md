@@ -1,9 +1,22 @@
 ---
 title: Problem Sets
 tags:
-  - '#problem_sets'
-  - '#waypoints'
+  - course_introduction
+  - exercises
+  - practice_questions
+  - problem_sets
+  - solutions
+aliases:
+  - assignments
+  - problem sets
+key_concepts:
+  - financial modeling
+  - option pricing
+  - portfolio construction
+  - risk management
+  - valuation techniques
 ---
+
 # Problem Sets
 
 %% Begin Waypoint %%

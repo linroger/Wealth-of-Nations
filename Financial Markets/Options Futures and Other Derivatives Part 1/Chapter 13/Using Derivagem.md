@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#binomial_american_option'
-  - '#binomial_european_option'
-  - '#black_scholes_merton_formula'
-  - '#deriva_gem_software'
-  - '#equity_fx_indx_fut_opts_calc'
-  - '#option_pricing'
-  - '#option_valuation'
-  - '#time_steps'
+  - american_option
+  - binomial_tree
+  - black_scholes_model
+  - deriva_gem
+  - european_option
+  - option_pricing
+aliases:
+  - Binomial Option Pricing
+  - DerivaGem Software
+  - Option Valuation
+key_concepts:
+  - American option
+  - Binomial tree
+  - DerivaGem software
+  - European option
+  - Option price calculation
 ---
+
 # 13.10 USING DerivaGem  
 
 The software accompanying this book, DerivaGem, is a useful tool for becoming. comfortable with binomial trees. After loading the software in the way described at the end of this book, go to the Equity_FX_Indx_Fut_Opts_Calc worksheet. Choose. Equity as the Underlying Type and select Binomial American as the Option Type..  

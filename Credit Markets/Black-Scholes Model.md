@@ -1,22 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 title: Black-Scholes Model
 tags:
-  - '#black_scholes_model'
-  - '#black_scholes_pde'
-  - '#european_options'
-  - '#geometric_brownian_motion'
-  - '#market_price_of_risk'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#replicating_portfolio'
-  - '#risk_neutral_valuation'
-  - '#stochastic_calculus'
+  - black_scholes_model
+  - geometric_brownian_motion
+  - kospi_200
+  - stock_price_process
+  - volatility
+aliases:
+  - BSM
+  - Black Scholes
+key_concepts:
+  - Drift and volatility
+  - Geometric Brownian motion
+  - KOSPI 200 index data
+  - Normal distribution histograms
+  - Stock price process
 ---
+
 [[Financial Engineering/7. Black Scholes Model|Black-Scholes Model]]
 
 # [[Financial Engineering/7. Black Scholes Model|Black-Scholes Model]]

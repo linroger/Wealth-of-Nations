@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#black_derman_toy_model'
-  - '#excel_vba'
-  - '#fixed_income_engineering'
-  - '#fx_options'
-  - '#matlab'
-  - '#measure_change'
-  - '#monte_carlo_simulation'
-  - '#swap_pricing'
-  - '#term_structure_modeling'
+  - arbitrage_free
+  - asset_pricing
+  - bdt_model
+  - fundamental_theorem
+  - mark_to_market
+aliases:
+  - chapter conclusions
+  - exercises
+  - suggested reading
+key_concepts:
+  - Black-Derman-Toy model
+  - European option
+  - arbitrage-free prices
+  - fundamental theorem applications
+  - static replication
 ---
+
 # 13.5 CONCLUSIONS  
 
 This chapter dealt with three applications of the fundamental theorem of asset pricing. In general, a financial engineer needs to use such approaches when static replication of the assets is not possible. Mark-to-market requirements or construction of new products often requires calculating arbitrage-free prices internally without having recourse to synthetics that can be put together using liquid prices observed in the markets. The methods outlined in this chapter show some standard ways of doing this.  

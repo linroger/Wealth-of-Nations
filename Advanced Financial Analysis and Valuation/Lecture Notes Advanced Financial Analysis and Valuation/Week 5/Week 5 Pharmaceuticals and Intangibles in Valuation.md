@@ -1,17 +1,26 @@
 ---
 LLM-tagged: 2025-03-10 14:13:13.121000+00:00
 tags:
-  - '#accounting_treatment'
-  - '#economic_profit_model'
-  - '#goodwill'
-  - '#intangible_assets'
-  - '#mergers_and_acquisitions'
-  - '#oncomed'
-  - '#pharmaceutical_industry'
-  - '#r_and_d_expenses'
-  - '#relative_valuation'
-  - '#valuation_methods'
+  - goodwill_and_ma
+  - healthcare_sector
+  - intangible_valuation
+  - multiple_sensitivity
+  - pharma_valuation
+  - pharmaceutical_industry
+  - valuation_exercise
+aliases:
+  - Week 5 Pharmaceuticals and Intangibles in Valuation
+  - Week 5 Pharmaceuticals and Intangibles in Valuation.md
+key_concepts:
+  - Biotech risk and valuation
+  - Drug development process
+  - Goodwill and future M&A
+  - Moat sources in healthcare
+  - Multiples and accounting effects
+  - Pharmaceutical industry trends
+  - Valuing existing drug pipeline
 ---
+
 Here is a tagged summary of the text:
 
 **Tag 1: Pharmaceutical Industry**

@@ -1,20 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
 title: Earnings Before Interest and Taxes (EBIT) Formula and Example
 tags:
-  - '#company_profitability'
-  - '#depreciation_and_amortization'
-  - '#earnings_before_interest_and_taxes_ebit'
-  - '#ebit_formula'
-  - '#ebitda'
-  - '#financial_ratios'
-  - '#financial_statement_analysis'
-  - '#income_statement'
-  - '#interest_expense'
-  - '#operating_profit'
+  - ebit
+  - financial_analysis
+  - income_statement
+  - operating_profit
+  - profitability
+aliases:
+  - EBIT Calculation
+  - EBIT Formula
+  - Operating Earnings
+  - Profit Before Interest and Taxes
+key_concepts:
+  - Company's core operations
+  - EBIT vs EBITDA
+  - Excludes tax and interest
+  - Measures company profitability
+  - Revenue minus expenses
 ---
+
 [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]
 
 # Earnings Before Interest and Taxes (EBIT) Formula and Example

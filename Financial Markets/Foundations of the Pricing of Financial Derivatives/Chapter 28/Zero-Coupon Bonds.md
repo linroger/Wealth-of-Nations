@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#binomial_valuation_formula'
-  - '#bond_maturity'
-  - '#bond_pricing'
-  - '#forward_rates'
-  - '#heath_jarrow_morton'
-  - '#spot_rates'
-  - '#zero_coupon_bonds'
+  - binomial_tree
+  - bond_pricing
+  - forward_rates
+  - interest_rates
+  - zero_coupon_bonds
+aliases:
+  - Grant-Vora method
+  - HJM model
+  - Zero-coupon bond
+key_concepts:
+  - Binomial valuation formula
+  - Bond maturity periods
+  - Discounting forward rates
+  - Forward rate tree
+  - Zero-coupon bond price
 ---
+
 # 28.1 ZERO-COUPON BONDS
 
 At time 0, the price of a one-period zero-coupon bond with face value 1 is easily found as

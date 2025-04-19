@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#correlation'
-  - '#derivative_valuation'
-  - '#forward_interest_rate'
-  - '#forward_price'
-  - '#ito_lemma'
-  - '#numeraire_ratio'
-  - '#stock_index'
-  - '#timing_adjustments'
-  - '#volatility'
+  - correlation
+  - forward_price
+  - interest_rate
+  - timing_adjustments
+  - volatility
+aliases:
+  - Adjustments
+  - Forward
+  - Numeraire
+  - Timing
+key_concepts:
+  - Forward price
+  - Market variable observation
+  - Numeraire ratio
+  - Payoff calculation
+  - Volatility and correlation
 ---
+
 # 30.2 TIMING ADJUSTMENTS  
 
 In this section consider the situation where a market variable $V$ is observed at time $T$ and its value is used to calculate a payoff that occurs at a later time $T^{*}$ . Define:  

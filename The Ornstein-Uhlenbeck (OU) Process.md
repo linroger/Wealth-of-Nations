@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#analytical_solution'
-  - '#brownian_motion_with_drift'
-  - '#gaussian_process'
-  - '#markov_property'
-  - '#mean_reversion'
-  - '#ornstein_uhlenbeck_process'
-  - '#stationary_distribution'
-  - '#stochastic_differential_equation'
-  - '#stochastic_processes'
-  - '#wiener_process'
+  - brownian_motion
+  - interest_rates
+  - mean_reversion
+  - stochastic_processes
+  - volatility_modeling
+aliases:
+  - OU process
+  - Ornstein Uhlenbeck
+key_concepts:
+  - Long-term mean
+  - Mean reversion
+  - Rate of reversion
+  - Stochastic process
+  - Wiener process
 ---
+
+
 ## The Ornstein-Uhlenbeck (OU) Process
 
 ### What it is: Deeper Dive

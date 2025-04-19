@@ -2,20 +2,23 @@
 title: DOLLAR GENERAL CASE STUDY
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
 tags:
-  - '#dollar_general'
-  - '#financial_performance'
-  - '#industry_risks'
-  - '#inventory_management'
-  - '#kkr_offer'
-  - '#peer_comparison'
-  - '#profitability'
-  - '#revenue_growth'
-  - '#turnaround_potential'
+  - dollar_general
+  - financial_performance
+  - peer_comparison
+  - profit_margins
+  - revenue_growth
+aliases:
+  - DG Performance
+  - Dollar General Case
+key_concepts:
+  - Gross margin erosion
+  - Peer group comparison
+  - Profit margin decline
+  - ROA and ROE deterioration
+  - Revenue growth slowdown
 ---
+
 # DOLLAR GENERAL CASE STUDY
 
 1a. Dollar General's performance over time and relative to peers:

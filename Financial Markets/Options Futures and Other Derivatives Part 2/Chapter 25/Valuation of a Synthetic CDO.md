@@ -1,15 +1,20 @@
 ---
 tags:
-  - '#base_correlation'
-  - '#breakeven_spread'
-  - '#compound_correlation'
-  - '#deriva_gem'
-  - '#gaussian_copula_model'
-  - '#implied_correlation'
-  - '#kth_to_default_cds'
-  - '#synthetic_cdo_valuation'
-  - '#tranche_valuation'
+  - cdo_valuation
+  - deriva_gem
+  - expected_losses
+  - no_arbitrage
+  - synthetic_cdo
+aliases:
+  - Synthetic CDO Valuation
+key_concepts:
+  - DerivaGem software
+  - Expected tranche principal
+  - Interpolating expected losses
+  - No-arbitrage condition
+  - Synthetic CDO
 ---
+
 # 25.10 VALUATION OF A SYNTHETIC CDO  
 
 Synthetic CDOs can be valued using the DerivaGem software. To explain the calculations, suppose that the payment dates on a synthetic CDO tranche are at times $\tau_{1},\tau_{2},\ldots,\tau_{m}$ and $\tau_{0}=0$ . Define $E_{j}$ as the expected tranche principal at time. $\tau_{j}$ and $\nu(\tau)$ as the present value of. $\$1$ received at time $\tau$ . Suppose that the spread on a. particular tranche (i.e., the number of basis points paid for protection) is $s$ per year. This spread is paid on the remaining tranche principal. The present value of the expected regular spread payments on the CDO is therefore given by. $s A$ , where  

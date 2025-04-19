@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#continuous_time_framework'
-  - '#discrete_time_framework'
-  - '#dynamic_programming'
-  - '#epstein_zin_recursive_utility'
-  - '#general_utility_index'
-  - '#habit_formation_utility'
-  - '#mean_variance_analysis'
-  - '#non_additive_expected_utility'
-  - '#optimal_portfolios'
-  - '#time_additive_expected_utility'
+  - continuous_time_framework
+  - discrete_time_framework
+  - dynamic_programming
+  - epstein_zin_utility
+  - time_additive_utility
+aliases:
+  - Chapter 6
+  - Introduction to Chapter 6
+key_concepts:
+  - expected utility
+  - mean-variance analysis
+  - non-additive utility
+  - one-period framework
+  - optimal portfolios
 ---
+
 # 6.1 Introduction . 129  
 
 6.2 The one-period framework . 129   

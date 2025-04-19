@@ -1,18 +1,36 @@
 ---
-aliases:
-  - 
-  - 
 title: Advanced Usage of QuantLib analytics library
 tags:
-  - '#credit_default_swaps_cds'
-  - '#credit_risk_modeling'
-  - '#hazard_rate_model'
-  - '#nelson_siegel_model'
-  - '#quantlib_analytics'
-  - '#risky_bond_pricing'
-  - '#sofr_curve_calibration'
-  - '#sofr_swaps'
+  - bond_pricing
+  - cds
+  - credit_risk
+  - curve_calibration
+  - hazard_rate
+  - interest_rates
+  - nelson_siegel
+  - quantlib
+  - risk_management
+  - sofr
+aliases:
+  - Credit Default Swaps
+  - Nelson-Siegel Model
+  - QuantLib Advanced
+  - Risky Bond Pricing
+  - SOFR Swaps
+key_concepts:
+  - CDS hazard rate
+  - Corporate bond pricing
+  - Credit curve
+  - Credit default risk
+  - Discount curve
+  - Hazard rate curves
+  - Nelson-Siegel model
+  - Risky bond pricing
+  - SOFR curve calibration
+  - SOFR swaps
+  - Survival probability
 ---
+
 # Advanced Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/
 

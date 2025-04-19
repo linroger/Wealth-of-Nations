@@ -1,22 +1,28 @@
 ---
 cssclasses: academia
-aliases:
-  - LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
   CARLO SIMULATION
 title: Lecture Note 6-Implied Volatility
 tags:
-  - '#black_scholes_model'
-  - '#fat_tails'
-  - '#implied_tree_models'
-  - '#implied_volatility'
-  - '#jump_models'
-  - '#option_pricing'
-  - '#option_pricing_models'
-  - '#stochastic_volatility'
-  - '#vix'
-  - '#volatility_surface'
+  - black_scholes
+  - implied_volatility
+  - market_uncertainty
+  - option_pricing
+  - volatility_surface
+aliases:
+  - BSM
+  - IV
+  - The Smirk
+key_concepts:
+  - Black-Scholes model issues
+  - Fat tails in returns
+  - Implied volatility definition
+  - Implied volatility surface
+  - Moneyness definition
+  - Stochastic volatility
+  - VIX volatility swaps
 ---
+
 # Lecture Note 6-Implied Volatility
 - **Title**: Implied Volatility
 - **Author**: John Heaton

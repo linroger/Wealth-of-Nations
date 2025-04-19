@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#cboe_volatility_indices'
-  - '#correlation_trading'
-  - '#exchange_traded_variance_swaps'
-  - '#hedging_with_variance_swaps'
-  - '#market_participants'
-  - '#otc_variance_swaps'
-  - '#regulatory_impact_on_swaps'
-  - '#structured_products'
-  - '#variance_swaps'
-  - '#volatility_engineering'
+  - cboe
+  - futures
+  - variance_swaps
+  - volatility_engineering
+  - volatility_swaps
+aliases:
+  - RVX
+  - VXEM
+  - VXEWZ
+  - VXN
+key_concepts:
+  - Eurex derivatives exchange
+  - OTC variance swaps
+  - market participants
+  - variance swap exchanges
+  - volatility as asset class
 ---
+
 # 538 CHAPTER 15 TOOLS FOR VOLATILITY ENGINEERING, VOLATILITY SWAPS  
 
 VU CBOE Russell 2000 Volatility Index (RVX) Futures   

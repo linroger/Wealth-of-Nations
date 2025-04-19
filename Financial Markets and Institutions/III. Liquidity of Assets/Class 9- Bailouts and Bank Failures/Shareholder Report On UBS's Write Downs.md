@@ -1,20 +1,22 @@
 ---
-aliases:
-  - Shareholder Report On UBS's Write Downs
-  - Shareholder Report On UBS's Write Downs.md
 title: Shareholder Report On UBS's Write Downs
 tags:
-  - '#cdos'
-  - '#dillon_read_capital_management'
-  - '#fixed_income'
-  - '#funding_framework'
-  - '#governance'
-  - '#investment_bank'
-  - '#risk_management'
-  - '#shareholder_report'
-  - '#subprime_losses'
-  - '#ubs_write_downs'
+  - ebk_report
+  - kpmg_ltd
+  - shareholder_report
+  - ubs_ag
+  - write_downs
+aliases:
+  - Shareholder Report
+  - UBS Write-Downs
+key_concepts:
+  - KPMG Ltd Review
+  - Report to EBK
+  - Shareholder Report Summary
+  - Swiss Federal Banking Commission
+  - UBS Shareholder Report
 ---
+
 # Shareholder Report On UBS's Write Downs
 
 Ab **UBS AG**

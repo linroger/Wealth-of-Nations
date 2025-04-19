@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#arrow_debreu_asset'
-  - '#gop_strategy'
-  - '#growth_optimal_portfolio'
-  - '#logarithmic_utility'
-  - '#market_price_of_risk'
-  - '#real_world_probability_measure'
-  - '#risk_adjusted_probability_measure'
-  - '#self_financing_trading_strategy'
-  - '#state_price_deflator'
+  - arrow_debreu_asset
+  - gop
+  - growth_optimal_portfolio
+  - numeraire
+  - tangency_portfolio
+aliases:
+  - Arrow-Debreu assets
+  - GOP strategy
+  - Growth-optimal trading strategy
+key_concepts:
+  - Arrow-Debreu asset definition
+  - Changing numeraire, measure
+  - GOP in multi-period setting
+  - Growth-optimal portfolio (GOP)
+  - Maximize expected log-return
 ---
+
 # 11.6 Changing the numeraire without changing the measure  
 
 Now consider the following question: Is there a trading strategy. $\pmb{\theta}$ for which the associated risk-. adjusted probability measure is identical to the real-world probability measure, i.e.. $\mathbb{Q}^{\theta}=\mathbb{P}$ ? The answer is affirmative. The so-called growth-optimal portfolio (or just GOP) strategy does the job. Let us first consider a one-period setting. Here, the growth-optimal portfolio is defined as the portfolio maximizing the expected log-return (or expected log-growth rate of the invested amount) among all portfolios, i.e. it solves.  

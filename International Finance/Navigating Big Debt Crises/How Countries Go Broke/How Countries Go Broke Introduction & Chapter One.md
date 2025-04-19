@@ -4,17 +4,24 @@ source:
   https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
 description:
 tags:
-  - '#big_debt_cycle'
-  - '#currency_devaluation'
-  - '#debt_crisis'
-  - '#deleveraging'
-  - '#economic_cycles'
-  - '#financial_markets'
-  - '#government_debt'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#reserve_currency'
+  - big_debt_crisis
+  - debt_cycle
+  - government_debt
+  - interest_rates
+  - reserve_currency
+aliases:
+  - Big Debt Cycle
+  - Debt Crisis
+  - Debt and Debt Growth
+  - How Countries Go Broke
+key_concepts:
+  - Big debt cycle
+  - Global macro investor
+  - Interest rates and debt
+  - Limits to country debt?
+  - Reserve currency and debt
 ---
+
 ## Introduction
 
 **Are there limits to a country’s’ debt and debt growth?**

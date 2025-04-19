@@ -1,3 +1,21 @@
+---
+tags:
+  - black_model
+  - european_options
+  - fixed_income_options
+  - interest_rate_derivatives
+  - monte_carlo_simulation
+aliases:
+  - Black's Model
+  - MCS
+  - Pricing Fixed Income Options
+key_concepts:
+  - Black's model
+  - Closed-form solutions
+  - European options pricing
+  - Fixed income derivatives
+  - Monte Carlo simulation
+---
 # Pricing Fixed Income Options: Black’s Model and MCS  
 
 # Aims  

@@ -1,12 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#assets'
-  - '#market_completeness'
-  - '#portfolios'
-  - '#redundant_assets'
-  - '#uncertainty_modeling'
+  - arbitrage
+  - assets
+  - market_completeness
+  - multi_period_models
+  - portfolios
+  - redundant_assets
+aliases:
+  - 'Chapter 3: Assets'
+  - 'Chapter 3: Portfolios'
+key_concepts:
+  - arbitrage and redundant assets
+  - market completeness introduced
+  - model assets and portfolios
+  - one- and multi-period models
 ---
+
 # Chapter 3  
 
 # Assets, portfolios, and arbitrage  

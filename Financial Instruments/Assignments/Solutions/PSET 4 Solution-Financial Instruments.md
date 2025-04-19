@@ -1,22 +1,25 @@
 ---
-aliases:
-  - PSET 4 Solution Financial instruments
-  - 
-  - 
 linter-yaml-title-alias: PSET 4 Solution Financial instruments
 title: PSET 4 Solution Financial instruments
 tags:
-  - '#binomial_trees'
-  - '#capm'
-  - '#fda_drug_approval'
-  - '#financial_instruments'
-  - '#leeson_barings'
-  - '#nikkei_options'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#risk_neutral_probability'
-  - '#short_straddle'
+  - financial_instruments
+  - itm_straddle
+  - nikkei_options
+  - short_straddle
+  - volatility
+aliases:
+  - Barings Leeson
+  - Homework 4
+  - PSET 4
+  - Short Straddle
+key_concepts:
+  - ITM straddle
+  - Leeson's position
+  - Profit diagram
+  - Short straddle strategy
+  - Volatility selling
 ---
+
 ---
 
 title: PSET 4 Solution

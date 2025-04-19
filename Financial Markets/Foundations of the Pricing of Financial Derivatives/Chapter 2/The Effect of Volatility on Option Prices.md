@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#american_option'
-  - '#asset_volatility'
-  - '#call_option'
-  - '#european_option'
-  - '#exercise_price'
-  - '#option_payoff'
-  - '#option_pricing'
-  - '#volatility_effect'
+  - american_option
+  - european_option
+  - option_pricing
+  - option_value
+  - volatility
+aliases:
+  - Option Pricing and Volatility
+  - Volatility and Options
+key_concepts:
+  - European/American options
+  - Exercise price and asset price
+  - Higher volatility, higher value
+  - In-the-money outcome
+  - Volatility and option value
 ---
+
 # 2.11 THE EFFECT OF VOLATILITY ON OPTION PRICES
 
 If it is not already intuitively obvious, it is simple to demonstrate that a call option on an asset with higher volatility will be worth more, all else equal. For example, consider an option with any expiration except immediate. The options can be European or American.

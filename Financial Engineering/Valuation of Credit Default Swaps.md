@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#credit_default_swaps'
-  - '#default_swap_spread'
-  - '#hazard_rate'
-  - '#mark_to_market'
-  - '#premium_leg'
-  - '#protection_leg'
-  - '#reduced_form_approach'
-  - '#risky_pv01'
-  - '#survival_probabilities'
-  - '#valuation_model'
+  - credit_default_swaps
+  - credit_risk
+  - derivative_contract
+  - market_standard
+  - valuation_model
+aliases:
+  - CDS Valuation
+  - Credit Derivatives
+  - O'Kane & Turnbull
+key_concepts:
+  - Credit default swap
+  - Credit event
+  - Market standard model
+  - Protection buyer/seller
+  - Trading credit risk
 ---
+
 # Valuation of Credit Default Swaps
 
 Dominic O'Kane. $+44$ (0) 20 7260 2628 dokane@lehman.com  

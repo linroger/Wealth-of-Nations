@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asset_price'
-  - '#black_model'
-  - '#european_call_option'
-  - '#european_options'
-  - '#european_put_option'
-  - '#forward_price'
-  - '#option_pricing'
-  - '#stochastic_interest_rates'
-  - '#volatility'
+  - asset_pricing
+  - black_model
+  - european_options
+  - forward_price
+  - option_pricing
+  - stochastic_interest_rates
+aliases:
+  - Black's Model
+  - European Option Pricing
+key_concepts:
+  - Black's model pricing
+  - European call option
+  - Forward asset price volatility
+  - Forward price asset
+  - Stochastic interest rates
 ---
+
 # 28.6 BLACK'S MODEL REVISITED  
 
 Section 18.8 explained that Black's model is a popular tool for pricing European. options in terms of the forward or futures price of the underlying asset when interest rates are constant. We are now in a position to relax the constant interest rate assumption and show that Black's model can be used to price European options in terms of the forward price of the underlying asset when interest rates are stochastic.  

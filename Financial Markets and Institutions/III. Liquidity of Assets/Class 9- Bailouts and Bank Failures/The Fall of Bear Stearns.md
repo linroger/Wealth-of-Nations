@@ -1,20 +1,24 @@
 ---
-aliases:
-  - The Fall of Bear Stearns Bear Stearns Neared Collapse Twice in Frenzied Last Days
-    Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon.md
 title: The Fall of Bear Stearns
 tags:
-  - '#alan_schwartz'
-  - '#bear_stearns_collapse'
-  - '#financial_crisis_2008'
-  - '#government_intervention'
-  - '#henry_paulson'
-  - '#james_dimon'
-  - '#jp_morgan_chase'
-  - '#market_instability'
-  - '#moral_hazard'
-  - '#timothy_geithner'
+  - alan_schwartz
+  - bear_stearns
+  - financial_crisis
+  - henry_paulson
+  - jp_morgan
+  - timothy_geithner
+aliases:
+  - Bear Stearns
+  - Bear Stearns Collapse
+  - JP Morgan
+key_concepts:
+  - Bear Stearns collapse
+  - Financial system impact
+  - Find buyer for firm
+  - J.P. Morgan Chase deal
+  - Paulson pushed low bid
 ---
+
 # The Fall of Bear Stearns
 ## Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon
 

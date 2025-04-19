@@ -1,23 +1,27 @@
 ---
 cssclasses:
   - academia
-aliases:
 description: The [[People's Bank of China (PBoC)|People's Bank of China]] is the central
   bank of the People's Republic of China and is located in Beijing.
 source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
 title: People's Bank of China (PBoC)
 tags:
-  - '#china_economy'
-  - '#chinese_central_bank'
-  - '#economic_regulation'
-  - '#financial_stability'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#pboc'
-  - '#peoples_bank_of_china'
-  - '#renminbi'
-  - '#yuan_changneng'
+  - china_economy
+  - chinese_central_bank
+  - financial_stability
+  - monetary_policy
+  - pboc
+aliases:
+  - PBOC
+  - People's Bank of China
+key_concepts:
+  - China's central bank
+  - Maintains economic stability
+  - Manages Renminbi currency
+  - Oversees monetary policy
+  - Regulates financial institutions
 ---
+
 [[People's Bank of China (PBoC)]]
 
 # People's Bank of China (PBoC)

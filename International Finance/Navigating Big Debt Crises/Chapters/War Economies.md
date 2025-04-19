@@ -1,19 +1,24 @@
 ---
 title: War Economies
-aliases: []
 cssclasses: academia
 tags:
-  - '#currency_devaluation'
-  - '#debt_crises'
-  - '#economic_conflicts'
-  - '#geopolitical_cycle'
-  - '#german_hyperinflation'
-  - '#inflationary_depressions'
-  - '#monetization_of_debt'
-  - '#reparations'
-  - '#treaty_of_versailles'
-  - '#war_economies'
+  - big_debt_crises
+  - economic_conflicts
+  - economic_rivalries
+  - geopolitical_cycle
+  - war_economies
+aliases:
+  - Conflict Economics
+  - Military Economics
+  - War Economy
+key_concepts:
+  - economic conflicts, military conflicts
+  - economic rivalries, fighting
+  - economic/geopolitical cycle
+  - populist, autocratic leaders
+  - war production, consumption, accounting
 ---
+
 # War Economies
 
 War economies are totally different from regular economies in terms of what happens with the production,  consumption,  and accounting for goods,  services,  and financial assets. For example,  the increasing GDP arising from the greater production of armaments which get destroyed in the war,  the reduced unemployment rate due to increases in military service,  shifts in production and profitability arising from the top-down allocation of resources,  and the nature of borrowing,  lending,  and other [[Chapter 14- Capital Flows and the Current Account|capital flows]] are not the same as in periods of peace so understanding these statistics requires a whole different orientation. Trying to adequately convey how war economies work would take a whole different book,  so I’m not going to delve deeply into the subject now,  but I will touch on them briefly because they certainly are important in understanding the big debt crises that were captured within our sampling period—and they are very important to understand if we enter another war period.

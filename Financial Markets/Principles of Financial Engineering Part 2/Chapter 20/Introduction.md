@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#credit_risk'
-  - '#equity_linked_products'
-  - '#financial_engineering'
-  - '#fixed_income_products'
-  - '#libor_based_products'
-  - '#market_volatility'
-  - '#risk_management'
-  - '#structured_products'
+  - credit_enhancements
+  - financial_engineering
+  - hybrid_securities
+  - principal_protection
+  - structured_products
+aliases:
+  - Structured Notes
+  - Structurers
+key_concepts:
+  - clients' views
+  - enhanced return or credit
+  - lower asset-liability costs
+  - packaging basic assets
+  - principal protected
 ---
+
 # 20.1 INTRODUCTION  
 
 Structured products consist of packaging basic assets such as stocks, bonds, and currencies together with some derivatives. The final product obtained this way will, depending on the product, (i) have an enhanced return or improved credit quality, (ii) lower costs of asset-liability management for corporates, (ii) build in the views held by the clients, and (iv) often be principal protected.'  

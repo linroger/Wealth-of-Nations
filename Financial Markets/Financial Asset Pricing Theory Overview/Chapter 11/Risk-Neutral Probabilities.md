@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_market'
-  - '#dividend_process'
-  - '#equivalent_martingale_measure'
-  - '#girsanov_theorem'
-  - '#pricing_condition'
-  - '#risk_free_return'
-  - '#risk_neutral_probability'
-  - '#state_price_deflator'
-  - '#valuation'
-  - '#zero_coupon_bond'
+  - continuous_time
+  - discrete_time
+  - one_period_economy
+  - risk_free_return
+  - risk_neutral_probabilities
+aliases:
+  - Risk-Neutral Expectation
+  - Risk-Neutral Measure
+key_concepts:
+  - Continuous-time economy
+  - Discrete-time economy
+  - One-period economy
+  - Risk-free return
+  - Risk-neutral probability measure
 ---
+
 # 11.3 Risk-neutral probabilities  
 
 # 11.3.1 Definition  

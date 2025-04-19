@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#bear_spreads'
-  - '#bull_spreads'
-  - '#butterfly_spreads'
-  - '#calendar_spreads'
-  - '#european_options'
-  - '#packages'
-  - '#range_forward_contract'
-  - '#straddles'
-  - '#strangles'
-  - '#zero_cost_product'
+  - call_options
+  - derivative_pricing
+  - european_options
+  - forward_contracts
+  - put_options
+aliases:
+  - Boston option
+  - break forward
+  - cancelable forward
+  - range forward
+key_concepts:
+  - European call options
+  - deferred payment option
+  - portfolio of derivatives
+  - strike price
+  - zero cost packages
 ---
+
 # 26.1 PACKAGES  
 
 A package is a portfolio consisting of standard European calls, standard European. puts, forward contracts, cash, and the underlying asset itself. We discussed a number of different types of packages in Chapter 12: bull spreads, bear spreads, butterfly spreads,. calendar spreads, straddles, strangles, and so on..  

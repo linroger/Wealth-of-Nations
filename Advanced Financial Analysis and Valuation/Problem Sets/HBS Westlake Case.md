@@ -1,19 +1,25 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#capital_intensity'
-  - '#chemical_industry_cycle'
-  - '#commodity_petrochemicals'
-  - '#ethylene_production'
-  - '#ethylene_value_chain'
-  - '#industry_operating_rates'
-  - '#natural_gas_prices'
-  - '#pvc_production'
-  - '#vertical_integration'
-  - '#westlake_chemical'
+  - chemical_cycle
+  - ethylene
+  - natural_gas
+  - pvc
+  - vertical_integration
+  - westlake_chemical
+aliases:
+  - Ethylene value chain
+  - HBS case study
+  - Westlake
+  - Westlake Chemical
+key_concepts:
+  - Cyclical industry
+  - Ethylene production
+  - Natural gas prices
+  - PVC production
+  - Peak EPS estimate
+  - Vertically integrated producer
 ---
+
 # HBS WESTLAKE  CASE
 
 Westlake generates value primarily as a vertically integrated producer of commodity petrochemicals, specifically in the olefins and vinyls chains. In the olefins segment, which accounted for 62% of 2003 sales (Exhibit 5A), Westlake uses natural gas-derived feedstocks (ethane) to produce ethylene. Ethylene is then used to produce polyethylene and styrene. Westlake has 2,800mm lbs of annual ethylene capacity and 1,400mm lbs of polyethylene capacity (Exhibit 9A), making it the 8th largest producer in North America with a 4% share of industry capacity (Exhibit 7A).

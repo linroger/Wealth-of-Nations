@@ -1,21 +1,25 @@
 ---
 cssclasses: academia
 title: Contemporary Financial Intermediation
-aliases:
-  - 'LECTURE NOTES: FINANCIAL INTERMEDIATION'
 linter-yaml-title-alias: 'LECTURE NOTES: FINANCIAL INTERMEDIATION'
 tags:
-  - '#bank_risks'
-  - '#debt_financing'
-  - '#economic_growth'
-  - '#equity_financing'
-  - '#financial_intermediation'
-  - '#financial_system'
-  - '#loan_covenants'
-  - '#loan_pricing'
-  - '#risk_management'
-  - '#securitization'
+  - consumer_financing
+  - debt_vs_equity
+  - economic_growth
+  - financial_intermediation
+  - financial_markets
+aliases:
+  - Debt Financing
+  - Financial Contracts
+  - Financial System
+key_concepts:
+  - Channel money, investment ideas
+  - Debt vs. equity financing
+  - Facilitates trade, risk management
+  - Mobilizes resources, better tech
+  - Transaction costs, economic growth
 ---
+
 # Contemporary Financial Intermediation
 
 ## INTRODUCTION

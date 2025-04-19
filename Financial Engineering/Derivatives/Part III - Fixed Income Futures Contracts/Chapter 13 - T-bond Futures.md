@@ -1,3 +1,22 @@
+---
+tags:
+  - arbitrage
+  - bond_portfolio
+  - futures_contract
+  - hedging
+  - market_timing
+  - t_bond_futures
+aliases:
+  - T-bond futures
+  - UK Gilt futures
+  - cheapest-to-deliver
+key_concepts:
+  - Cash-and-carry arbitrage
+  - Eliminate price risk
+  - Optimal futures contract
+  - Speculative strategies
+  - T-bond futures details
+---
 # T-bond Futures  
 
 # Aims  

@@ -1,14 +1,29 @@
 ---
 tags:
-  - '#continuous_time_framework'
-  - '#discrete_time_framework'
-  - '#hansen_jagannathan_bound'
-  - '#multi_period_valuation_models'
-  - '#one_period_framework'
-  - '#risk_neutral_probabilities'
-  - '#state_price_deflators'
-  - '#state_prices'
+  - affine_models
+  - continuous_time
+  - discrete_time
+  - hansen_jagannathan_bound
+  - mean_variance
+  - risk_neutral_probabilities
+  - state_price_deflators
+  - state_prices
+  - valuation_models
+aliases:
+  - Deflators
+  - State Deflators
+  - State Price
+  - State Prices
+key_concepts:
+  - Continuous time framework
+  - Discrete time framework
+  - Mean-variance efficient returns
+  - Multi-period valuation models
+  - Nominal and real deflators
+  - Risk-neutral probabilities
+  - State price deflators
 ---
+
 # 1 State prices 63  
 
 4.1 Introduction 63   

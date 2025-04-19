@@ -1,20 +1,30 @@
 ---
-aliases:
 cssclasses:
   - academia
 title: Risk Neutral Pricing of Options
 tags:
-  - '#american_options'
-  - '#arbitrage_bounds'
-  - '#binomial_model'
-  - '#delta_hedging'
-  - '#european_options'
-  - '#option_pricing'
-  - '#option_strategies'
-  - '#put_call_parity'
-  - '#risk_neutral_valuation'
-  - '#synthetic_options'
+  - american_option
+  - call_option
+  - european_option
+  - intrinsic_value
+  - maturity_date
+  - options
+  - put_option
+  - strike_price
+  - time_value
+aliases:
+  - Option Holder
+  - Option Payoffs
+  - Option Pricing
+  - Option Writer
+key_concepts:
+  - Derivative assets
+  - Expiration date
+  - Option payoffs
+  - Option types
+  - Underlying asset
 ---
+
  
 [[Risk Neutral Pricing of Options|Risk Neutral Pricing]]
 

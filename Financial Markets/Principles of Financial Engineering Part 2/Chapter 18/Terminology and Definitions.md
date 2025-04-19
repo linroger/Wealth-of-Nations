@@ -1,16 +1,26 @@
 ---
 tags:
-  - '#cds'
-  - '#credit_derivatives'
-  - '#credit_events'
-  - '#credit_indices'
-  - '#credit_risk'
-  - '#protection_buyer'
-  - '#protection_seller'
-  - '#recovery_value'
-  - '#standardization'
-  - '#tranches'
+  - credit_event
+  - credit_indices
+  - credit_sector
+  - e_trading
+  - protection_buyer
+  - recovery_value
+aliases:
+  - Credit Derivatives
+  - Definitions
+  - Terminology
+key_concepts:
+  - 'Credit event: specific events'
+  - 'Credit indices: arithmetic average'
+  - 'E-trading: electronic platform'
+  - 'Protection buyer: buys instrument'
+  - 'Recovery value: asset default payoff'
+  - 'Reference asset: instrument traded'
+  - 'Reference name: issuer'
+  - 'Tranches: sell default risks'
 ---
+
 # 18.2 TERMINOLOGY AND DEFINITIONS  
 
 First, we need to define some terminology. The credit sector is relatively new in modern finance, although an ad hoc treatment of it has existed as long as banking itself.? Some of the terms used in this sector come from swap markets, but others are new and specific to the credit sector. The following list is selective.  

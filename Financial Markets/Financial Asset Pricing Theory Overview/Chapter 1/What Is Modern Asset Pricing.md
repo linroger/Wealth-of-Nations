@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_allocation'
-  - '#asset_pricing_models'
-  - '#capital_asset_pricing_model_capm'
-  - '#consumption_and_asset_prices'
-  - '#financial_markets'
-  - '#market_beta'
-  - '#risk_and_return'
-  - '#state_prices'
+  - asset_allocation
+  - asset_pricing
+  - capital_budgeting
+  - capital_structure
+  - financial_markets
+aliases:
+  - CAPM
+  - Modern Asset Pricing
+key_concepts:
+  - asset allocation
+  - capital budgeting decisions
+  - financial risk management
+  - pricing financial assets
+  - shareholders vs creditors
 ---
+
 # 1.1 What is modern asset pricing?  
 
 Asset pricing models are models for the pricing of financial assets. It is interesting in itself to be able to model and understand the pricing mechanisms in the seemingly complex financial markets, but it is also important for a number of financial problems faced by individuals and corporations such as  

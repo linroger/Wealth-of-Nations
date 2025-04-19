@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bond_duration'
-  - '#conventional_duration'
-  - '#credit_risk'
-  - '#credit_spread'
-  - '#dv01'
-  - '#hazard_adjusted_duration'
-  - '#hazard_rate'
-  - '#recovery_rate'
+  - benchmark_rates
+  - credit_risk
+  - credit_spreads
+  - default_timing
+  - hazard_adjusted_duration
+aliases:
+  - Duration
+  - Dv01
+  - HAD
+key_concepts:
+  - Benchmark rate curve
+  - Conventional vs hazard-adjusted
+  - Credit spreads and durations
+  - Expected cash flow timing
+  - Hazard-adjusted duration (HAD)
 ---
+
 # 14.9 HAZARD-ADJUSTED DURATION AND DVO1  
 
 The durations of bonds with credit risk are often calculated along the lines of Chapter 4, that is, cash flows are assumed to be paid on schedule, but are discounted at higher rates, typically at benchmark rates plus a credit spread or a term structure of credit spreads. Calculated this way, however, duration can be misleading for bonds with significant credit risk. For these bonds, expected cash flows are much earlier than scheduled cash flows and, consequently, their durations are correspondingly shorter.  

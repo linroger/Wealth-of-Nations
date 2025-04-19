@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#bilateral_repo'
-  - '#collateral_composition'
-  - '#collateral_management'
-  - '#fixed_income_clearing_corporation'
-  - '#gc_repo'
-  - '#haircuts'
-  - '#repo_market_participants'
-  - '#repo_market_size'
-  - '#repo_market_structure'
-  - '#tri_party_repo'
+  - bilateral_markets
+  - collateral_management
+  - money_market_funds
+  - repo_market
+  - tri_party_repo
+aliases:
+  - Market Structure
+  - Repo Market Overview
+  - Repo Market Size
+  - Tri-party vs. Bilateral
+key_concepts:
+  - Bilateral repo trades
+  - Collateral management services
+  - General collateral optimization
+  - Repo margin enforcement
+  - Repo market structure
+  - Tri-party repo agent
 ---
+
 # 10.3 MARKET STRUCTURE AND SIZE  
 
 Table 10.1 summarizes the structure and size of the repo market, as of July.   

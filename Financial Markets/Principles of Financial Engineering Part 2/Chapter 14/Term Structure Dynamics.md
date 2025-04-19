@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#arbitrage_free_dynamics'
-  - '#fixed_income_instruments'
-  - '#forward_libor_model'
-  - '#forward_measure'
-  - '#girsanov_theorem'
-  - '#libor_rates'
-  - '#monte_carlo_simulation'
-  - '#term_structure_dynamics'
+  - arbitrage_free
+  - fixed_income
+  - forward_libor
+  - girsanov_theorem
+  - term_structure
+aliases:
+  - FRA
+  - Forward LIBOR Model
+  - Term Structure
+key_concepts:
+  - Arbitrage-free dynamics
+  - Discrete framework
+  - Fixed-income instruments
+  - Forward LIBOR Model
+  - Girsanov theorem
 ---
+
 # 14.4 TERM STRUCTURE DYNAMICS  
 
 In the remainder of this chapter, we will see that the Forward LIBOR Model is the correct way to.   

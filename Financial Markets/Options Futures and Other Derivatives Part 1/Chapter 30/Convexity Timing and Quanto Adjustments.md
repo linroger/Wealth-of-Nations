@@ -1,13 +1,20 @@
 ---
 tags:
-  - '#chapter_summary'
-  - '#convexity_adjustment_formula'
-  - '#convexity_adjustments'
-  - '#further_reading'
-  - '#practice_questions'
-  - '#quantos'
-  - '#timing_adjustments'
+  - convexity
+  - derivatives
+  - pricing
+  - quanto
+  - timing_adjustment
+aliases:
+  - Chapter 30
+  - Quanto Adjustments
+key_concepts:
+  - Convexity adjustments
+  - Proof of formula
+  - Quanto
+  - Timing adjustments
 ---
+
 # Chapter 30. Convexity, timing, and quanto adjustments . . 685  
 
 30.1 Convexity adjustments .685   

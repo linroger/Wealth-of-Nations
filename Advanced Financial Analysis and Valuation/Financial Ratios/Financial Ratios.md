@@ -1,8 +1,22 @@
 ---
 title: Financial Ratios
 tags:
-  - '#financial_ratios'
+  - balance_sheet
+  - financial_analysis
+  - financial_metrics
+  - financial_ratios
+  - ratio_analysis
+aliases:
+  - Financial Ratio Analysis
+  - Ratio Calculations
+key_concepts:
+  - Efficiency ratios
+  - Liquidity ratios
+  - Profitability ratios
+  - Solvency ratios
+  - Valuation ratios
 ---
+
 # Financial Ratios
 
 %% Begin Waypoint %%

@@ -1,17 +1,24 @@
 ---
 title: The Archetypal Big Debt Cycle
 tags:
-  - '#austerity'
-  - '#bubble_economics'
-  - '#credit_debt'
-  - '#debt_crisis'
-  - '#debt_cycle'
-  - '#deleveraging'
-  - '#economic_cycles'
-  - '#monetary_policy'
-  - '#policy_makers'
-  - '#quantitative_easing'
+  - credit_debt
+  - debt_crises
+  - debt_cycle
+  - economic_growth
+  - policy_makers
+aliases:
+  - Big Debt Cycle
+  - Credit and Debt
+  - Debt Crises
+  - Economic Cycles
+key_concepts:
+  - Credit, debt, repayment
+  - Debt impact, productivity
+  - Economic cycles, credit
+  - Lending standards, development
+  - Policy makers, debt crises
 ---
+
 # The Archetypal Big Debt Cycle
 ## Introduction to Credit and Debt
 ### Understanding Credit and Debt

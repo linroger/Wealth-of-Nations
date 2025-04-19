@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#arbitrage_trading'
-  - '#financial_markets'
-  - '#financial_modeling'
-  - '#hedge_fund'
-  - '#long_term_capital_management'
-  - '#market_liquidity'
-  - '#portfolio_risk'
-  - '#relative_value_strategy'
-  - '#risk_management'
-  - '#swap_spread'
+  - arbitrage_trading
+  - financial_crises
+  - financial_markets
+  - hedge_fund
+  - long_term_capital_management
+  - market_liquidity
+  - quantitative_finance
+  - risk_management
+aliases:
+  - L
+  - L.p. (a).md
+  - Long-Term Capital Management, L.P. (A)
+key_concepts:
+  - Long-Term Capital Management
+  - comparative balance sheet
+  - firm's future
+  - investment returns
+  - net capital
 ---
+
 ---
 aliases:
   - [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]] L.p. (a).md

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#buyback_programs'
-  - '#fas_133'
-  - '#financial_engineering'
-  - '#hedging_swaps'
-  - '#italian_government_bonds'
-  - '#repo_market'
-  - '#repo_strategies'
-  - '#swaps'
-  - '#synthetic_swaps'
+  - accounting
+  - financial_engineering
+  - risk_management
+  - swaps
+  - synthetic_swaps
+aliases:
+  - Conclusions
+  - FAS 133
+  - Italian Asset Swaps
+key_concepts:
+  - Basis-swap spread market
+  - Cash flow and liquidity
+  - FAS 133 accounting rules
+  - Swaps vs. securities trading
+  - Synthetic swaps workaround
 ---
+
 # 4.10 CONCLUSIONS  
 
 Why buy and sell securities when you can swap the corresponding returns and achieve the same objective efficiently, and at minimal cost?  

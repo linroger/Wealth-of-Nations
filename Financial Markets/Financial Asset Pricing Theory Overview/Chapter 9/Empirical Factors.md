@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#book_to_market_value'
-  - '#data_snooping_bias'
-  - '#empirical_factor_models'
-  - '#factor_betas'
-  - '#fama_french_model'
-  - '#pricing_mechanisms'
-  - '#size_effect'
-  - '#stock_market_data'
+  - empirical_factors
+  - factor_models
+  - fama_french_model
+  - market_data
+  - risk_premia
+aliases:
+  - Empirical Factor
+  - Fama and French
+key_concepts:
+  - Data snooping biases
+  - Factor models and betas
+  - Fama-French three factors
+  - Market data performance
+  - Measurement of beta
 ---
+
 # 9.6 Empirical factors  
 
 A large part of the literature on factor models is based on empirical studies which for a given. data set identifies a number of priced factors so that most of the differences between the returns on different financial assets- -typically only various portfolios of stocks-can be explained by their different factor betas. The best known studies of this kind were carried out by Fama and French, who find support for a model with three factors:.  

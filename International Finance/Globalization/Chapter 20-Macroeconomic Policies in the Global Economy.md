@@ -1,20 +1,25 @@
 ---
 title: Chapter 20-Macroeconomic Policies in the Global Economy
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#bretton_woods_system'
-  - '#current_account'
-  - '#exchange_rates'
-  - '#fiscal_policy'
-  - '#global_economy'
-  - '#gold_standard'
-  - '#macroeconomic_policies'
-  - '#marshall_lerner_condition'
-  - '#monetary_policy'
-  - '#recession'
+  - economic_recession
+  - fiscal_policy
+  - global_economy
+  - macroeconomic_policies
+  - monetary_policy
+aliases:
+  - Chapter 20
+  - Global Macro
+  - Macro Policies
+key_concepts:
+  - Developing countries growth
+  - Long-term growth paths
+  - Monetary and fiscal tools
+  - Subprime mortgage crisis
+  - U.S. dot.com boom
 ---
+
 # Chapter 20-Macroeconomic Policies in the Global Economy
 
 Economies get thrown off their long-term growth paths. During the U.S. dot. Com boom between 1997 and 2000 information technology ﬁrms saw their stock rise fast,  but the good times came to an abrupt halt in March 2000 after the U.S. Federal Reserve had increased interest rates for a sixth time in a little more than a year to combat inﬂation. The dot. Com bubble burst,  and a recession ensued. During the U.S. subprime mortgage crisis in 2007 and 2008 a large share of low-income and high-risk borrowers became delinquent. Banks that held the delinquent mortgages foreclosed on the homes,  but many mortgages had been resold from the originating bank to other ﬁnancial institutions,  bundled up with other mortgages into packaged securities,  and tracking creditors and debtors turned into ﬁnancial turmoil. The crisis led to the collapse of major ﬁnancial institutions and it spread. The deepest U.S. recession in almost a century followed. The U.S. job market has not fully recovered until today. In contrast,  developing countries managed to pull through the global recession with only minor dents to their growth paths,  while some observers of China even spotted signs of an overheating economy expanding faster than its long-term growth path. Japan’s baburu keiki ,  or bubble economy,  from 1986 to 1990 inﬂated both Japan’s stock prices and real estate values,  and after the Bank of Japan had tightened monetary conditions for a ﬁfth time to slow down inﬂation between 1989 and 1990,  asset prices plummeted. A prolonged depression followed,  and many speak of one or even two lost decades for Japan. Abenomics,  the economic interventions under Japan’s present prime minister Shinz¯o Abe’s government,  are meant to ﬁnally turn the economy around after more than two decades.

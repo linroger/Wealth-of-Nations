@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#call_option'
-  - '#investment_performance'
-  - '#option_pricing'
-  - '#risk_free_rate'
-  - '#risk_premium'
-  - '#sharpe_ratio'
-  - '#volatility'
+  - call_option
+  - option_pricing
+  - risk_premium
+  - sharpe_ratio
+  - volatility
+aliases:
+  - Options Performance
+  - Sharpe Ratio
+key_concepts:
+  - Asset risk premium
+  - Option Sharpe ratio
+  - Option mispricing
+  - Risk-free rate
+  - Sharpe ratio definition
 ---
+
 # 30.5 OPTIONS AND THE SHARPE RATIO
 
 A widely used measure of investment performance is the Sharpe ratio. For a portfolio with return $R_{p}$ and volatility $\sigma_{p}$ , the Sharpe ratio is

@@ -1,19 +1,29 @@
 ---
 title: Credit Default Swaps
-aliases: []
 cssclasses: academia
 tags:
-  - '#cds_indexes'
-  - '#cds_market'
-  - '#cds_valuation'
-  - '#cdx_na_ig'
-  - '#counterparty_credit_risk'
-  - '#credit_default_swaps'
-  - '#credit_derivatives'
-  - '#credit_risk'
-  - '#global_financial_crisis'
-  - '#sovereign_cds'
+  - cds_market
+  - cds_valuation
+  - cdx_index
+  - credit_curves
+  - credit_default_swaps
+  - credit_derivatives
+  - credit_risk
+  - credit_risk_management
+  - financial_crisis
+aliases:
+  - CDS
+  - CDS market
+  - CDX
+  - Credit Default Swaps
+key_concepts:
+  - CDS spread
+  - credit derivative
+  - protection buyer
+  - protection seller
+  - transfer credit risk
 ---
+
 # [[Financial Engineering/8. Credit Modeling and Credit Derivatives|Credit Default Swaps]]
 
 Abstract : Credit default swaps (CDS) are the most common type of credit derivative. This paper provides a brief history of the CDS market and discusses its main characteristics. After describing the basic mechanics of a CDS,  I present a simple valuation framework that focuses on the relationship between conditions in the cash and CDS markets as well as an approach to mark to market existing CDS positions. The discussion highlights how the 2008 global financial crisis helped shape current practices and conventions in the CDS market,  including the widespread adoption of standardized coupons and upfront premiums and the increased reliance on centralized counter parties. I also address CDS indexes--focusing on their growing role as key indicators of investors’ attitudes toward credit risk--and briefly examine their behavior during periods of acute financial or economic dislocations,  including those associated with the COVID-19 pandemic.

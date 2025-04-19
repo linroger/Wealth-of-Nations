@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_price_process'
-  - '#drift_change'
-  - '#girsanov_theorem'
-  - '#martingale_representation_theorem'
-  - '#option_pricing'
-  - '#probability_space'
-  - '#radon_nikodym_derivative'
-  - '#stochastic_process'
+  - asset_price
+  - girsanov_theorem
+  - martingale_theorem
+  - option_pricing
+  - stochastic_process
+aliases:
+  - Girsanov's Theorem
+  - Option Pricing
+key_concepts:
+  - Asset Price Process
+  - Complete Probability Space
+  - Continuous Time Process
+  - Martingale Representation
+  - Radon-Nikodym Derivative
 ---
+
 # CHAPTER 15 Girsanov's Theorem in Option Pricing
 
 287

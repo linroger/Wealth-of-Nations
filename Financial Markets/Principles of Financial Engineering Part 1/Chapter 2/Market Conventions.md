@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#bid_ask_spread'
-  - '#bond_prices'
-  - '#decimalization'
-  - '#financial_instruments'
-  - '#interest_rate_quotes'
-  - '#market_conventions'
-  - '#market_quotes'
-  - '#yield_quotes'
+  - bid_ask_spread
+  - bond_markets
+  - decimalization
+  - interest_rates
+  - market_conventions
+aliases:
+  - Bid-Offer Spread
+  - Decimalization
+  - Market Conventions
+key_concepts:
+  - Bid and ask prices
+  - Bond market quotes
+  - Decimalization impact
+  - Interest rate quotes
+  - Market conventions
 ---
+
 # 2.5 MARKET CONVENTIONS  
 
 Market conventions often cause confusion in the study of financial engineering. Yet, it is very. important to be aware of the conventions underlying the trades and the instruments. In this section, we briefly review some of these conventions..  

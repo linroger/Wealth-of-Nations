@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#abc_corp_bond'
-  - '#bond_valuation'
-  - '#constant_default_probability_model'
-  - '#credit_spread'
-  - '#default_probability'
-  - '#deterministic_default_probability_model'
-  - '#survival_probability'
-  - '#treasury_yield_curve'
-  - '#yield_to_maturity'
+  - bond_valuation
+  - coupon_bond
+  - default_probability
+  - no_arbitrage
+  - treasury_notes
+aliases:
+  - ABC Corp Bond
+  - Constant Default Model
+key_concepts:
+  - Bond valuation
+  - Constant default probability
+  - Coupon payment
+  - Cumulative survival probability
+  - Default-free yield curve
 ---
+
 # 7.2 A CONSTANT DEFAULT PROBABILITY MODEL  
 
 Suppose we want to price a 3-year $5\%$ annual coupon bond issued by the ABC Corp. ABC is a US corporation and the bond's principal and interest are to be paid in US dollars. We observe. that 1-, 2-, and 3-year US Treasury notes with coupon rates equal to $2.500000\%$ $2.623305\%$ and $2.745279\%$ , respectively, trade at par. For simplicity, we assume annual 30/360 interest. calculations. From the Treasury par curve, using the techniques of Chapter 2, we bootstrap the following default-free term structure of interest rates in Table 7.1..  

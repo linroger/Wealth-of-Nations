@@ -1,22 +1,28 @@
 ---
-aliases:
-  - Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
-    vs
-  - Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
-    vs. Bond Covenants.md
 title: Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]
   vs. Bond Covenants
 tags:
-  - '#bond_covenants'
-  - '#bond_prospectus'
-  - '#bondholder_rights'
-  - '#default_provisions'
-  - '#defeasance'
-  - '#indenture_act'
-  - '#loan_covenants'
-  - '#make_whole_call'
-  - '#trustee_role'
+  - bond_covenants
+  - bondholder_rights
+  - corporate_bonds
+  - federal_trust_indenture_act
+  - loan_covenants
+aliases:
+  - Bond Indentures
+  - Covenants vs. Bond Covenants
+  - Loan Covenants
+  - MGM Mirage Bond
+key_concepts:
+  - Bond contract features
+  - Bondholder voting rules
+  - Covenants in indentures
+  - Excessive debt risk choice
+  - Limits to debt renegotiation
+  - Loan contract default
+  - Make-whole call option
+  - US Federal Trust Indenture Act
 ---
+
 # Discussion of Loan [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]] vs. Bond Covenants
 
 Business 35202 Douglas W. Diamond

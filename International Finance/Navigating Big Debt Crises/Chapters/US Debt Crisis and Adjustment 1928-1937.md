@@ -1,22 +1,25 @@
 ---
 title: US Debt Crisis and Adjustment 1928-1937
-aliases: []
 cssclasses: academia
 tags:
-  - '#bank_failures'
-  - '#deflationary_deleveraging'
-  - '#fdr_new_deal'
-  - '#federal_reserve'
-  - '#fiscal_policy'
-  - '#gold_standard'
-  - '#great_depression'
-  - '#hoover_administration'
-  - '#monetary_policy'
-  - '#sterilization'
-  - '#stock_market_bubble'
-  - '#us_debt_crisis'
-  - '#world_war_ii'
+  - bubble_economy
+  - deflationary_deleveraging
+  - economic_history
+  - great_depression
+  - us_debt_crisis
+aliases:
+  - 1928-1937 Debt Crisis
+  - Debt Cycle
+  - Great Depression
+  - US Debt Crisis
+key_concepts:
+  - Deflationary deleveraging example
+  - Great Depression details
+  - Stock market bubble
+  - Technology-led growth
+  - US debt cycle
 ---
+
 # US Debt Crisis and Adjustment 1928-1937
 ## ********US Debt Crisis and Adjustment \(1928–1937\)
 

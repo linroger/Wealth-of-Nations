@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#financial_instruments'
-  - '#futures_markets'
-  - '#leverage'
-  - '#margin_account'
-  - '#options_markets'
-  - '#profit_loss_analysis'
-  - '#risk_management'
-  - '#speculation_strategies'
-  - '#speculators'
-  - '#spot_market'
+  - exchange_rate
+  - futures_markets
+  - long_position
+  - options_markets
+  - speculation
+aliases:
+  - CME
+  - Futures
+  - Options
+  - Speculator
+key_concepts:
+  - Leverage in futures markets
+  - Long position in futures
+  - Options provide leverage
+  - Speculation with futures contracts
+  - Speculation with options
+  - Speculators use futures/options
 ---
+
 # 1.8 SPECULATORS  
 
 We now move on to consider how futures and options markets can be used by specu-. lators. Whereas hedgers want to avoid exposure to adverse movements in the price of an asset, speculators wish to take a position in the market. Either they are betting that the. price of the asset will go up or they are betting that it will go down..  

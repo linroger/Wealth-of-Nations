@@ -1,10 +1,24 @@
 ---
-aliases: []
 cssclasses: academia
 title: QuantLib-Python
 tags:
-  - '#quantlib_python'
+  - derivative_pricing
+  - financial_modeling
+  - option_pricing
+  - python_libraries
+  - quantlib_python
+aliases:
+  - Python QuantLib
+  - QL-Python
+  - QuantLib
+key_concepts:
+  - Derivative pricing
+  - Financial library
+  - Interest rate models
+  - Python implementation
+  - Risk management
 ---
+
 # QuantLib-Python
 
 %% Begin Waypoint %%

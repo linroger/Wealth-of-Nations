@@ -1,3 +1,21 @@
+---
+tags:
+  - binomial_option_pricing_model
+  - bopm
+  - delta_hedging
+  - european_call_option
+  - risk_neutral_valuation
+aliases:
+  - BOPM
+  - Binomial Model
+  - Option Pricing
+key_concepts:
+  - Binomial option pricing model
+  - Delta hedging
+  - European call option
+  - Risk-free arbitrage portfolio
+  - Risk-neutral valuation
+---
 # OPTIONS PRICING  
 
 # BOPM: Introduction  

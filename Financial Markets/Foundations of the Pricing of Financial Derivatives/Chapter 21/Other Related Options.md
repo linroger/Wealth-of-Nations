@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#asset_relative_performance'
-  - '#dual_strike_option'
-  - '#exchange_option'
-  - '#multi_asset_options'
-  - '#option_pricing_formula'
-  - '#outperformance_option'
-  - '#rainbow_options'
-  - '#rubinstein_option'
-  - '#spread_option'
+  - dual_strike_option
+  - exchange_option
+  - multi_asset_options
+  - option_pricing
+  - spread_option
+  - stulz_formula
+aliases:
+  - Alternative Option
+  - Outperformance Option
+  - Rainbow Options
+key_concepts:
+  - Dual-strike option payoff
+  - Exchange option model
+  - Options on multiple assets
+  - Relative asset performance
+  - Rubinstein option pricing
+  - Stulz's formulas
+  - Two-color rainbow options
 ---
+
 # 21.3 OTHER RELATED OPTIONS
 
 There have been numerous extensions of the basic formula. Johnson (1987) and Rich and. Chance (1993) develop the formula under the condition of more than two assets. Also,. several other useful results have been obtained by Rubinstein (1991b). He first establishes a formula for an option that pays off the better of two risky assets or a fixed amount. of cash. Letting $X$ be the fixed amount of cash, we write this payoff as $\operatorname*{max}\bigl(S_{1T},S_{2T},X\bigr)$ Rubinstein then derives the pricing formula for this option. Let us denote this price as $c_{12X}$ where the subscripts denote asset price 1, asset price 2, and some fixed amount X. Then. note the following relationship, $\mathrm{max}\big(S_{1T},S_{2T},X\big)-X=\mathrm{max}\big[0,\mathrm{max}\big(S_{1T},S_{2T}\big)-X\big]$ This equivalence implies that a long position in Rubinstein's option paying the best of two assets. or $X$ and a short position worth the present value of $X$ is equivalent to a call on the max struck at $X$ Thus,

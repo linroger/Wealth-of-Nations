@@ -1,19 +1,25 @@
 ---
 title: Part 1 The Archetypal Big Debt Cycle
-aliases: []
 cssclasses: academia
 tags:
-  - '#banking_system'
-  - '#big_debt_cycle'
-  - '#credit_and_debt'
-  - '#currency_devaluation'
-  - '#deflationary_deleveraging'
-  - '#economic_crisis'
-  - '#fiscal_policy'
-  - '#gold_standard'
-  - '#inflationary_deleveraging'
-  - '#monetary_policy'
+  - big_debt_cycle
+  - currency_crisis
+  - debt_cycle
+  - deleveraging
+  - financial_crisis
+  - inflationary_depression
+aliases:
+  - Archetypal Debt Cycle
+  - Debt Crises
+  - Debt Cycle Phases
+key_concepts:
+  - Archetypal Big Debt Cycle
+  - Classic Deflationary Cycle
+  - Credit and Debt
+  - Economic and Market Movements
+  - Inflationary Debt Cycle
 ---
+
 # Part 1 The Archetypal Big Debt Cycle
 
 **Introduction**

@@ -1,21 +1,25 @@
 ---
-aliases:
-  - Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model
-  - 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
-  - Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model.md
 linter-yaml-title-alias: 'Banks And Liquidity Creation: A Simple Exposition Of The
   Diamond-Dybvig Model'
 title: 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
 tags:
-  - '#bank_runs'
-  - '#demand_deposits'
-  - '#deposit_insurance'
-  - '#diamond_dybvig_model'
-  - '#financial_crises'
-  - '#illiquid_assets'
-  - '#liquidity_creation'
-  - '#suspension_of_convertibility'
+  - bank_liquidity
+  - bank_runs
+  - demand_deposits
+  - diamond_dybvig_model
+  - financial_crises
+aliases:
+  - Bank Runs
+  - Diamond-Dybvig
+  - Liquidity Creation
+key_concepts:
+  - Bank run prevention
+  - Banks create liquidity
+  - Demand for liquid assets
+  - Deposit insurance role
+  - Illiquid asset valuation
 ---
+
 # Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model
 
 Douglas W. Diamond Banks make loans that cannot be sold quickly at a high price. Banks issue demand deposits that allow depositors to withdraw at any time. This mismatch of liquidity,  in which a bank's liabilities are more liquid than its assets,  has caused problems for banks when too many depositors attempt to withdraw at once (a situation referred to as a bank run). Banks have followed policies to stop runs,  and governments have instituted deposit insurance to prevent runs. Diamond and Dybvig (1983) develop a model to explain why banks choose to issue deposits that are more liquid than their assets and to understand why banks are subject to runs. The model has been widely used to understand bank runs and other types of financial crises,  as well as ways to prevent such crises. This article uses narrative and numerical examples to provide a straightforward explanation of the ideas in Diamond and Dybvig (1983).

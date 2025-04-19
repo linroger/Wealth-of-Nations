@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#equity_options'
-  - '#foreign_currency_options'
-  - '#implied_volatilities'
-  - '#minimum_variance_delta'
-  - '#risk_neutral_distributions'
-  - '#volatility_smiles'
-  - '#volatility_surfaces'
-  - '#volatility_term_structure'
+  - equity_options
+  - foreign_currency
+  - implied_volatility
+  - volatility_smile
+  - volatility_surface
+aliases:
+  - Implied Volatility
+  - Volatility Smiles
+  - Volatility Surfaces
+key_concepts:
+  - Implied volatility of calls
+  - Minimum variance delta
+  - Risk-neutral distributions
+  - Volatility smile characterization
+  - Volatility term structure
 ---
+
 # Chapter 20. Volatility smiles and volatility surfaces . 429  
 
 20.1 Implied volatilities of calls and puts 429   

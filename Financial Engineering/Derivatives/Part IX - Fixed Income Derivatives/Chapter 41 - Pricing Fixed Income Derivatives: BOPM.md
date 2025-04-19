@@ -1,3 +1,21 @@
+---
+tags:
+  - american_options
+  - bopm
+  - european_options
+  - fixed_income_derivatives
+  - interest_rate_lattice
+aliases:
+  - BOPM
+  - Chapter 41
+  - Pricing Derivatives
+key_concepts:
+  - American option pricing
+  - Arbitrage-free pricing
+  - European option pricing
+  - Interest rate lattice
+  - Term structure consistency
+---
 # Pricing Fixed Income Derivatives: BOPM  
 
 # Aims  

@@ -1,14 +1,32 @@
 ---
 tags:
-  - '#cds_pricing'
-  - '#credit_derivatives'
-  - '#credit_portfolio'
-  - '#credit_risk_management'
-  - '#credit_spread'
-  - '#hazard_rate'
-  - '#negative_basis_trades'
-  - '#sovereign_cds'
+  - cds_pricing
+  - credit_derivatives
+  - credit_event
+  - sovereign_cds
+  - value_at_risk
+aliases:
+  - CDS Summary
+  - Chapter Conclusions
+  - Credit Derivatives
+  - Value at Risk
+key_concepts:
+  - CDS contractual equation
+  - CDS pricing example
+  - Credit derivative usage
+  - Credit derivatives introduction
+  - Credit event triggers
+  - Currency swap usage
+  - Forward caps/floors
+  - Hazard rate calculation
+  - IRS usage
+  - Implied hazard rate
+  - Recovery clauses
+  - Risky bond transformation
+  - Swaption contract need
+  - Value-at-risk calculations
 ---
+
 # 18.10 CONCLUSIONS  
 
 This chapter is only a very brief introduction to this important class of credit derivatives. We saw that CDS play a key role in completing the methodology of financial engineering. We developed a. contractual equation for CDS and applied it to negative basis trades. We discussed real-world complications related to recovery clauses and drew lessons about the importance of credit event triggers and settlement following recent sovereign defaults and sovereign CDS triggers.  

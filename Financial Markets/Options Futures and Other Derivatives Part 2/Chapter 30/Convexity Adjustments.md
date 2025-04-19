@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#bond_yields'
-  - '#convexity_adjustments'
-  - '#derivative_valuation'
-  - '#expected_bond_yield'
-  - '#forward_bond_price'
-  - '#forward_bond_yield'
-  - '#nonlinearity'
-  - '#swap_rates'
+  - bond_yield
+  - convexity_adjustment
+  - derivative_valuation
+  - forward_price
+  - swap_rate
+aliases:
+  - Bond Price
+  - Convexity
+  - Forward Yield
+  - Swap Rate
+key_concepts:
+  - Bond price relationship
+  - Convexity adjustment
+  - Derivative payoff valuation
+  - Expected bond yield
+  - Forward bond yield
 ---
+
 # 30.1 CONVEXITY ADJUSTMENTS  
 
 Consider first an instrument that provides a payoff dependent on a bond yield observed at the time of the payoff.  

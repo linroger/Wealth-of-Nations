@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#2008_financial_crisis'
-  - '#cdo_pricing'
-  - '#cdo_tranches'
-  - '#credit_default_swap'
-  - '#credit_risk'
-  - '#default_correlation'
-  - '#gaussian_copula'
-  - '#loss_analysis'
-  - '#probability_of_default'
-  - '#synthetic_cdo'
+  - cdo_pricing
+  - credit_derivatives
+  - credit_spreads
+  - default_correlation
+  - synthetic_cdo
+aliases:
+  - CDO Loss Analysis
+  - CDO Tranche Pricing
+  - Synthetic CDO Analysis
+key_concepts:
+  - CDS spreads
+  - Credit derivative market
+  - Rising default correlation
+  - Synthetic CDO growth
+  - Tranche pricing and loss
 ---
+
 # 10.4  SYNTHETIC CDO TRANCHE PRICING AND LOSS ANALYSIS  
 
 The first decade of 2000s ushered in an explosive growth of synthetic CDOs. The search for yield and risk diversification drove investors to accept exposure to new assets. For example,. European banks sought exposure to US mortgage assets. The credit derivative market was mature enough to absorb this and make markets in a variety of credits and structures. The demand for exposure drove the CDS spreads often higher than the credit spreads in corporate and sovereign bond markets. Synthetics also allowed the customization of credits and cash flows. The one thing that was not predicted by the yield-hungry investors was the risk of the rising correlation of defaults due to systemic risk. It is very instructive to analyze a typical setup of a synthetic CDO, its initial pricing, and the change in tranche pricing and loss exposure. as CDS spreads widened.  

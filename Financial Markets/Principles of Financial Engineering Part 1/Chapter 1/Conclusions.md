@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#derivative_markets'
-  - '#dollar_loans'
-  - '#financial_markets'
-  - '#foreign_exchange_markets'
-  - '#institutional_aspects'
-  - '#japanese_banks'
-  - '#negative_interest_rates'
-  - '#nostro_accounts'
-  - '#spot_forward_trade'
-  - '#synthetic_instruments'
+  - corporate_finance
+  - financial_engineering
+  - financial_instruments
+  - risk_management
+  - synthetics
+aliases:
+  - Chapter Conclusions
+key_concepts:
+  - Japanese loans and forwards
+  - financial markets and instruments
+  - regulation and taxation
+  - solving practical problems
+  - synthetics and replicating portfolios
 ---
+
 # 1.6 CONCLUSIONS  
 
 This chapter uses some examples in order to display the use of synthetics (or replicating portfolios as they are called in formal models). The main objective of this book is to discuss methods that use financial markets, instruments, and financial engineering strategies in solving practical problems concerning pricing, hedging, risk management, balance sheet management, and product. structuring. The book does not discuss the details of financial instruments, although for completion, some basics are reviewed when necessary. The book deals even less with issues of corporate finance. We assume some familiarity with financial instruments, markets, and rudimentary corpo-. rate finance concepts.  

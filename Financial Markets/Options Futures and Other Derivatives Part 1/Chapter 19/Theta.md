@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_formula'
-  - '#call_option'
-  - '#delta_neutral_portfolio'
-  - '#european_option'
-  - '#gamma'
-  - '#option_pricing'
-  - '#put_option'
-  - '#theta'
-  - '#time_decay'
+  - black_scholes_merton_bsm
+  - european_option
+  - option_greeks
+  - theta
+  - time_decay
+aliases:
+  - Option Theta
+  - Time Decay
+key_concepts:
+  - European call option formula
+  - Theta and stock price
+  - Theta per calendar day
+  - Theta per trading day
+  - 'Theta: Time decay of options'
 ---
+
 # 19.5 THETA  
 
 The theta (O) of a portfolio of options is the rate of change of the value of the portfolio with respect to the passage of time with all else remaining the same. Theta is sometimes referred to as the time decay of the portfolio. For a European call option on a nondividend-paying stock, it can be shown from the Black-Scholes-Merton formula (see Problem 15.25) that  

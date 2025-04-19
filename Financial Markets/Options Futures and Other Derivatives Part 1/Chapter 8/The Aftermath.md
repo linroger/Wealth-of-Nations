@@ -1,17 +1,32 @@
 ---
 tags:
-  - '#basel_committee'
-  - '#cva'
-  - '#dva'
-  - '#financial_crisis_aftermath'
-  - '#fva'
-  - '#kva'
-  - '#mva'
-  - '#regulatory_changes'
-  - '#securitization'
-  - '#subprime_mortgages'
-  - '#xvas'
+  - basel_committee
+  - basel_iii
+  - central_counterparties
+  - credit_risk
+  - dodd_frank_act
+  - financial_institutions
+  - market_risk
+  - over_the_counter_derivatives
+  - regulatory_framework
+  - volcker_rule
+aliases:
+  - Aftermath of Crisis
+  - Basel Committee Rules
+  - Post-Crisis Regulations
+key_concepts:
+  - Basel Committee on Banking
+  - Basel I, II, II.5, III, IV
+  - Bonus payment changes
+  - Capital requirements
+  - Central counterparties (CCPs)
+  - Dodd-Frank Act
+  - Financial institution oversight
+  - Liquidity requirements
+  - Proprietary trading restrictions
+  - Unregulated derivatives markets
 ---
+
 # 8.4 THE AFTERMATH  
 
 Prior to the crisis, over-the-counter derivatives markets were largely unregulated. This has changed. As mentioned in earlier chapters, there is now a requirement that most. standardized over-the-counter derivatives be cleared through central counterparties (CCPs). This means that they are treated similarly to derivatives such as futures that trade on exchanges. Banks are usually members of one or more CCPs. When trading standardized derivatives, they are required to post initial margin and variation margin with the CCP and are also required to contribute to a default fund. For transactions between financial institutions that continue to be cleared bilaterally, collateral arrangements are now regulated rather than chosen by the parties involved.  

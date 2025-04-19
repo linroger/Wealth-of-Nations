@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#beta_of_portfolio'
-  - '#cme_group_contracts'
-  - '#equity_portfolio_hedging'
-  - '#hedge_ratio'
-  - '#nasdaq_100_index'
-  - '#portfolio_beta_adjustment'
-  - '#s_and_p_500_index'
-  - '#stock_index_futures'
-  - '#stock_picking_strategy'
+  - equity_prices
+  - futures_prices
+  - hedging
+  - hypothetical_portfolio
+  - stock_index_futures
+aliases:
+  - Index Futures
+  - Stock Index Futures
+  - Stock Indices
+key_concepts:
+  - futures prices and spot prices
+  - hypothetical portfolio of stocks
+  - index tracks capital gain/loss
+  - stock index tracks
+  - weights assigned to stocks
 ---
+
 # 3.5 STOCK INDEX FUTURES  
 
 We now move on to consider stock index futures and how they are used to hedge or manage exposures to equity prices.  

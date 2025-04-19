@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#expected_return'
-  - '#girsanov_theorem'
-  - '#real_world'
-  - '#risk_neutral_world'
-  - '#stock_price_movement'
-  - '#volatility_matching'
+  - binomial_tree
+  - cox_ross_rubinstein
+  - girsanov_theorem
+  - risk_neutral
+  - volatility
+aliases:
+  - Binomial Tree Parameters
+  - Matching Volatility
+key_concepts:
+  - Binomial tree construction
+  - Girsanov's theorem
+  - Real world volatility
+  - Risk-neutral world
+  - Volatility matching
 ---
+
 # 13.7 MATCHING VOLATILITY WITH u AND d  
 
 The three parameters necessary to construct a binomial tree with time step $\Delta t$ are $u,d$ and $p$ . Once $u$ and $d$ have been specified, $p$ must be chosen so that the expected return is the risk-free rate $r$ We have already shown that  

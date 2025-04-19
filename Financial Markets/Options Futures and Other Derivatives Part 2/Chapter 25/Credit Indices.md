@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#cds_protection'
-  - '#cdx_na_ig'
-  - '#credit_default_swap_spreads'
-  - '#credit_indices'
-  - '#index_spread'
-  - '#investment_grade_companies'
-  - '#itraxx_europe'
+  - cdx_na_ig
+  - credit_indices
+  - credit_markets
+  - index_spread
+  - itraxx_europe
+aliases:
+  - CDX Index
+  - Credit Index
+  - iTraxx
+key_concepts:
+  - CDS protection
+  - Credit default swap spreads
+  - Index spread
+  - Investment grade companies
+  - Portfolio of companies
 ---
+
 # 25.3 CREDIT INDICES  
 
 Participants in credit markets have developed indices to track credit default swap spreads. In 2004 there were agreements between different producers of indices that led to some consolidation. Two important standard portfolios used by index providers are:.  

@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#collateral'
-  - '#counterparty_risk'
-  - '#credit_support_annex'
-  - '#derivatives_valuation'
-  - '#funding_costs'
-  - '#funding_valuation_adjustment'
-  - '#fva'
-  - '#gfc'
+  - counterparty_risk
+  - credit_support_annex
+  - cva
+  - dva
+  - funding_valuation_adjustment
+  - fva
+  - trading_desk
+aliases:
+  - FVA
+  - Funding Cost
+key_concepts:
+  - Counterparty Risk
+  - Funding Costs Increased
+  - Funding Valuation Adjustment
+  - Monetary Incentives
+  - Recursive Pricing Problem
 ---
+
 # 24.7 FUNDING VALUATION ADJUSTMENT  
 
 A final aspect of counterparty risk that needs to be taken into account relates to funding. When a trader manages a trading position, he or she must obtain cash in order to carry out different operations including (i) hedging the position and (ii) posting collateral. These operations have a cost and need to be funded. Accounting for this funding cost is called funding valuation adjustment. If we incorporate CVA, DVA, and FVA into the valuation of derivatives under counterparty risk, we obtain the following equation:  

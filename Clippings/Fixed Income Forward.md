@@ -4,15 +4,24 @@ source: https://www.investopedia.com/terms/f/fixed-income-forward.asp
 description: A fixed income forward is a contract between two parties to either buy
   or sell a fixed income security in the future at a preset price.
 tags:
-  - '#bond_price'
-  - '#coupon_payments'
-  - '#fixed_income_forward'
-  - '#fixed_income_securities'
-  - '#forward_contract'
-  - '#futures_contracts'
-  - '#interest_rate_risk'
-  - '#risk_management'
+  - bond_pricing
+  - derivatives
+  - fixed_income
+  - forward_contract
+  - interest_rate_risk
+aliases:
+  - Bond Forward
+  - Fixed Income Derivatives
+  - Forward Agreement
+key_concepts:
+  - Bond price and coupon payments
+  - Buyer and seller expectations
+  - Fixed income forward definition
+  - Forward vs. futures contracts
+  - Mitigating price volatility risk
 ---
+
+
 ## What Is a Fixed Income Forward?
 
 A fixed income forward is a derivatives contract to buy or sell [fixed-income](https://www.investopedia.com/terms/f/fixedincome.asp) securities at some date in the future, but at a price accepted today.

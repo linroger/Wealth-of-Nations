@@ -1,21 +1,25 @@
 ---
 title: Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield [[Class
   Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#asset_coverage'
-  - '#asset_quality'
-  - '#credit_analysis'
-  - '#earnings_record'
-  - '#finance_companies'
-  - '#high_yield_bonds'
-  - '#leverage'
-  - '#liquidity'
-  - '#management'
-  - '#size'
+  - asset_quality
+  - credit_analysis
+  - finance_companies
+  - leverage_ratios
+  - liquidity_ratios
+aliases:
+  - Finance Company Analysis
+  - Lecture 3 Notes
+key_concepts:
+  - Asset coverage, liabilities, assets
+  - Asset quality, returns, losses
+  - Leverage, debt, equity
+  - Liquidity, short-term obligations
+  - Loss reserves, future losses
 ---
+
 # Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 ## 1. Credit Analysis of Finance Companies

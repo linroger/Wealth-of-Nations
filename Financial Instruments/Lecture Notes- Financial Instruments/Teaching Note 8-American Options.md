@@ -1,20 +1,23 @@
 ---
-aliases:
-  - LECTURE NOTE 8 AMERICAN OPTIONS
-  - 
-  - 
 title: Teaching Note 8-American Options
 tags:
-  - '#american_options'
-  - '#binomial_trees'
-  - '#dividend_rules'
-  - '#dynamic_replication'
-  - '#early_exercise'
-  - '#multi_step_trees'
-  - '#no_arbitrage_bounds'
-  - '#option_pricing'
-  - '#spy_options'
+  - american_options
+  - binomial_trees
+  - early_exercise
+  - no_arbitrage
+  - option_pricing
+aliases:
+  - American Option
+  - Binomial Model
+  - Option Valuation
+key_concepts:
+  - American option features
+  - Binomial tree method
+  - Dynamic replication strategy
+  - Early exercise decision
+  - No arbitrage bounds
 ---
+
 # Teaching Note 8-American Options
 
 ### 1. American options

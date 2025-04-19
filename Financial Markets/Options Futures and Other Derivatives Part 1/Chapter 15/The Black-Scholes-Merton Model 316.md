@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton_formula'
-  - '#black_scholes_merton_model'
-  - '#dividends'
-  - '#implied_volatilities'
-  - '#rate_of_return'
-  - '#risk_neutral_valuation'
-  - '#stock_prices'
-  - '#volatility'
-  - '#warrants_and_employee_stock_options'
+  - black_scholes_merton
+  - dividends
+  - implied_volatility
+  - option_pricing
+  - risk_neutral_valuation
+aliases:
+  - BSM
+  - BSM Model
+  - Black Scholes
+key_concepts:
+  - Black-Scholes equation
+  - Expected return
+  - Lognormal stock prices
+  - Rate of return distribution
+  - Risk-neutral valuation
 ---
+
 # Chapter 15. The Black-Scholes-Merton model. .316  
 
 15.1 Lognormal property of stock prices . 317   

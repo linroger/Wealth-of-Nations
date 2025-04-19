@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#abacus_2007_ac1'
-  - '#cash_cdo'
-  - '#cdo_issuance'
-  - '#cdo_managers'
-  - '#cdo_of_cdo'
-  - '#cdo_tranches'
-  - '#collateralized_debt_obligations'
-  - '#credit_default_swaps'
-  - '#subprime_mortgages'
-  - '#synthetic_cdo'
+  - cash_cdo
+  - cdo
+  - cdo_manager
+  - collateralized_debt
+  - spv
+aliases:
+  - CDO
+  - Cash CDO
+  - Collateralized Debt Obligations
+key_concepts:
+  - Actively managed CDOs
+  - CDO certificates
+  - CDO issuance
+  - Special purpose vehicle
+  - Transferring risk
 ---
+
 # 10.1  COLLATERALIZED DEBT OBLIGATIONS  
 
 CDO issuance grew from less than $\$150$ billion in 2003 to $\$520$ billion in 2006 and $\$481$ billion in 2007, then collapsing to just $\$61$ billion in 2008. The vast majority of CDOs, about. $80\%$ are cash CDOs. CDOs transfer the risks of corporate bonds, loans, or mortgage pass-throughs  

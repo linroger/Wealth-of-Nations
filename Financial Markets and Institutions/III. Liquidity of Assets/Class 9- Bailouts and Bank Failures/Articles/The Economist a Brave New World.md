@@ -1,20 +1,22 @@
 ---
-aliases:
-  - The Economist a Brave New World
-  - The Economist a Brave New World.md
 title: The Economist a Brave New World
 tags:
-  - '#banking_transition'
-  - '#central_bank_digital_currencies'
-  - '#china_digital_yuan'
-  - '#digital_payments'
-  - '#financial_services'
-  - '#financial_stability'
-  - '#monetary_policy'
-  - '#monetary_sovereignty'
-  - '#network_effects'
-  - '#privacy_concerns'
+  - banking
+  - cbdc
+  - digital_currency
+  - financial_services
+  - monetary_policy
+aliases:
+  - A Brave New World
+  - The Economist
+key_concepts:
+  - central bank digital currencies
+  - cheaper and fairer finance
+  - payment technologies upending finance
+  - reduce banks' traditional role
+  - threaten privacy and sovereignty
 ---
+
 # The Economist a Brave New World
 ## A Brave New World
 

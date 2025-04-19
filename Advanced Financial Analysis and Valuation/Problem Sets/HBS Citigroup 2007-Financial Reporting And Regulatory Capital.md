@@ -1,18 +1,24 @@
 ---
-aliases:
 title: HBS Citigroup 2007-Financial Reporting And Regulatory Capital
 tags:
-  - '#2007_financial_results'
-  - '#citigroup'
-  - '#fair_value_measurements'
-  - '#financial_instruments'
-  - '#financial_reporting'
-  - '#loan_loss_reserves'
-  - '#operating_segments'
-  - '#regulatory_capital'
-  - '#securitization'
-  - '#subprime_mortgage_crisis'
+  - 2007_financial_results
+  - citigroup
+  - financial_crisis
+  - financial_reporting
+  - regulatory_capital
+aliases:
+  - 2007 10-K
+  - Citi
+  - Citibank
+  - Merando
+key_concepts:
+  - Capital management framework
+  - Citigroup financial health
+  - Regulatory capital guidelines
+  - Subprime-related losses
+  - U.S. housing crisis
 ---
+
 ## CITIGROUP 2007: FINANCIAL REPORTING AND REGULATORY CAPITAL
 
 In early 2008, Jake Merando was trying to understand the implications of the deepening U.S. housing crisis for the financial health of Citigroup, one of the world's largest banks.  Merando, a banking analyst at an investment firm, was considering Citigroup's future as the financial crisis continued.  The fourth quarter of 2007 was shaping up to be the worst in Citigroup's 196-year history (see **Exhibit 1**), and tremendous uncertainty surrounded both the firm and the industry.

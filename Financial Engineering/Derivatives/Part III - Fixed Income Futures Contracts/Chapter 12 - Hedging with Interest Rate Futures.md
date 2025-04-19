@@ -1,3 +1,28 @@
+---
+tags:
+  - bank_loans
+  - eurodollar_contract
+  - fixed_income
+  - hedging
+  - interest_rate_futures
+  - t_bills
+aliases:
+  - Chapter 12
+  - Futures Contracts
+  - Hedging Strategies
+  - Interest Rate Futures
+key_concepts:
+  - 90-day Eurodollar contracts
+  - 90-day T-bill contracts
+  - Bank deposit hedging
+  - Duration-based hedge ratio
+  - Floating rate bank loans
+  - Hedging fixed income assets
+  - Interest rate futures
+  - Locking in future rates
+  - Price value of basis point
+  - Strip, rolling, stack hedges
+---
 # Hedging with Interest Rate Futures  
 
 # Aims  

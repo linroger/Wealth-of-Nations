@@ -1,22 +1,28 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 title: Teaching Note 2Interest Rate Risk Management And Factors
 tags:
-  - '#convexity'
-  - '#convexity_hedging'
-  - '#duration'
-  - '#duration_hedging'
-  - '#factor_neutrality'
-  - '#interest_rate_risk_management'
-  - '#macaulay_duration'
-  - '#modified_duration'
-  - '#pvbp'
-  - '#repo_market'
+  - coupon_bond
+  - duration
+  - interest_rate_risk
+  - pvbp
+  - zero_coupon_bond
+aliases:
+  - Duration
+  - Interest Rate Risk
+  - PVBP
+key_concepts:
+  - Duration definition
+  - Interest rate sensitivity
+  - Macaulay duration
+  - Modified duration
+  - Portfolio duration calculation
+  - Price value basis point
+  - Zero coupon bond duration
 ---
+
  ![500](9d5e1f9101a284fff965c5728068e694.webp)
 
 - Interest rates vary quite dramatically over time.

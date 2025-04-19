@@ -4,17 +4,24 @@ source: https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp
 description: A contract for differences (CFD) is a type of derivative trade that is
   common in many countries but is banned in the U.S.
 tags:
-  - '#cfd_example'
-  - '#cfd_trading'
-  - '#contract_for_differences_cfd'
-  - '#financial_instruments'
-  - '#leverage_trading'
-  - '#overnight_financing'
-  - '#regulatory_oversight'
-  - '#spread_costs'
-  - '#trading_risks'
-  - '#us_cfd_ban'
+  - cfd_trading
+  - financial_instrument
+  - leveraged_trading
+  - market_access
+  - regulatory_oversight
+aliases:
+  - CFD
+  - CFD trading
+  - Contract for Differences
+key_concepts:
+  - 'CFD: exchange of difference'
+  - Leverage amplifies gains/losses
+  - OTC trading
+  - Prohibited in US for retail
+  - Speculate on price movements
 ---
+
+
 A contract for differences (CFD) is a financial instrument traders use to speculate on prices without owning the underlying asset. When entering into a CFD, an investor and broker agree to exchange the difference between the opening and closing value of the underlying financial product.
 
 By focusing only on price changes rather than asset ownership, CFDs can provide a capital-efficient trading approach. While CFDs are widely available on [over-the-counter (OTC) exchanges](https://www.investopedia.com/terms/o/otc.asp) across Europe, Australia, and Asia, they're prohibited for retail traders in the U.S.

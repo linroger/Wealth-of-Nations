@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#expected_value'
-  - '#rate_and_price_trees'
-  - '#risk_aversion'
-  - '#spot_rates'
-  - '#term_structure'
-  - '#underlying_securities'
-  - '#zero_coupon_bonds'
+  - binomial_tree
+  - price_trees
+  - rate_trees
+  - term_structure
+  - zero_coupon_bonds
+aliases:
+  - Binomial Tree
+  - Price Tree
+  - Rate Tree
+key_concepts:
+  - Binomial tree
+  - Expected value
+  - Spot rates
+  - Underlying securities
+  - Zero coupon bonds
 ---
+
 # 7.1 RATE AND PRICE TREES  
 
 Assume that the six-month and one-year spot rates are $2\%$ and $2.15\%$ respectively. Taking these market rates as given is equivalent to taking the prices of a six-month bond and a one-year-bond as given. Securities with assumed prices are called underlying securities to distinguish them from the contingent claims priced by arbitrage arguments.  

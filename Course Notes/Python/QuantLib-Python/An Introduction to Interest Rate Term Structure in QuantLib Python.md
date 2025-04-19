@@ -5,15 +5,23 @@ source:
 description: This post will walk through the basics of bootstrapping yield curve in
   QuantLib Python.
 tags:
-  - '#bond_pricing'
-  - '#deposit_rates'
-  - '#fixed_rate_bonds'
-  - '#interest_rate_term_structure'
-  - '#quantlib_python'
-  - '#spot_rates'
-  - '#yield_curve_bootstrapping'
-  - '#zero_coupon_curve'
+  - bond_pricing
+  - bootstrapping
+  - interest_rate_term_structure
+  - quantlib_python
+  - yield_curve
+aliases:
+  - Interest Rate Term Structure
+  - QuantLib Python
+  - Yield Curve Bootstrapping
+key_concepts:
+  - Bootstrapping yield curve
+  - Coupon bonds
+  - Pricing securities
+  - QuantLib Python basics
+  - Spot rates
 ---
+
 # An Introduction to Interest Rate Term Structure in QuantLib Python
 
 This post will walk through the basics of bootstrapping yield curve in QuantLib Python.

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#calculation_issues'
-  - '#cva_and_dva'
-  - '#further_reading'
-  - '#fva_and_mva'
-  - '#kva'
-  - '#practice_questions'
-  - '#short_concept_questions'
-  - '#xvas'
+  - calculation_issues
+  - cva
+  - dva
+  - fva
+  - kva
+  - xva
+aliases:
+  - Valuation Adjustments
+  - XVA
+key_concepts:
+  - CVA and DVA
+  - Calculation Issues
+  - FVA and MVA
+  - KVA
 ---
+
 # Chapter 9. XVAs 194  
 
 9.1 CVA and DVA 194   

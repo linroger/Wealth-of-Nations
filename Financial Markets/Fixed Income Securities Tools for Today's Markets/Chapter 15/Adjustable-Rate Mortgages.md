@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#adjustable_rate_mortgages'
-  - '#arm_features'
-  - '#hybrid_arm'
-  - '#loan_to_value_ltv'
-  - '#mortgage_defaults'
-  - '#mortgage_rate_caps'
-  - '#mortgage_refinancing'
-  - '#mortgage_turnover'
-  - '#prepayment_option'
+  - adjustable_rate_mortgages
+  - arm_features
+  - hybrid_arm
+  - interest_rate_risk
+  - mortgage_rates
+aliases:
+  - ARM
+  - ARMs
+  - Adjustable Rate Mortgages
+  - Hybrid ARM
+key_concepts:
+  - 5/1 hybrid ARM
+  - Adjustable mortgage interest rate
+  - Cap structure limits
+  - Homeowners interest rate risk
+  - Lower initial interest rates
+  - Mortgage rate reset
 ---
+
 # 15.3 ADJUSTABLE-RATE MORTGAGES  
 
 While the overwhelming majority of mortgages are fixed-rate mortgages, adjustable-rate mortgages (ARMs) are available as well. The distinguishing feature of an ARM is that the mortgage interest rate can vary over time, but the details of the loan contract can be relatively complex. To illustrate, consider one relatively common variety of ARMs, a 30-year 5/1 hybrid ARM with a 2/2/5 cap structure.  

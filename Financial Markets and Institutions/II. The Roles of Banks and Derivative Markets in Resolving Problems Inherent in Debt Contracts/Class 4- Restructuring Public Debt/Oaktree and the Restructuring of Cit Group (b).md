@@ -1,21 +1,24 @@
 ---
-aliases:
-  - Oaktree and the Restructuring of Cit Group (b).md
-  - Oaktree And The Restructuring Of CIT Group (B)
-  - Oaktree and the Restructuring of Cit Group (b)
 linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
 title: Oaktree and the Restructuring of Cit Group (b)
 tags:
-  - '#bankruptcy_provisions'
-  - '#cit_group'
-  - '#collateral_coverage'
-  - '#credit_agreement'
-  - '#delay_draw_facility'
-  - '#lenders_steering_committee'
-  - '#oaktree_capital'
-  - '#restructuring_plan'
-  - '#secured_loan'
+  - cit_group
+  - credit_facility
+  - lenders_steering_committee
+  - restructuring
+  - secured_loans
+aliases:
+  - CIT Bankruptcy
+  - CIT Restructuring
+  - Oaktree CIT
+key_concepts:
+  - CIT temporary liquidity guarantee
+  - Credit facility
+  - Lenders steering committee
+  - Restructuring plan
+  - Secured loan terms
 ---
+
 [Oaktree and the Restructuring of CIT Group (a)](Oaktree%20 and%20 the%20 Restructuring%20 of%20 CIT%20 Group%20 (a). Md)
 [Note On LBO Capital Structure](Note%20on%20LBO%20Capital%20Structure%20Module%20Note.md)
 [Note On the Leveraged Loan Market](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Note%20On%20the%20Leveraged%20Loan%20Market.md)

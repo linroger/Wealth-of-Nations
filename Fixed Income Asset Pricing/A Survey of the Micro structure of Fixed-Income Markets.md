@@ -1,17 +1,22 @@
 ---
-aliases:
-  - Fixed Income Market Microstructure Survey
-  - Bond Market Trading Mechanics
 tags:
-  - '#comparative_market_analysis'
-  - '#dealer_networks'
-  - '#electronic_trading_evolution'
-  - '#fixed_income_market_microstructure'
-  - '#fixed_income_trading'
-  - '#market_microstructure_analysis'
-  - '#otc_markets'
-  - '#structured_credit_products'
+  - dealer_markets
+  - fixed_income
+  - market_microstructure
+  - structured_credit
+  - trading_mechanisms
+aliases:
+  - Fixed Income Markets
+  - OTC Markets
+key_concepts:
+  - Comparative market analysis
+  - Dealer-oriented OTC markets
+  - Electronic trading evolution
+  - Fixed-income trading mechanisms
+  - Market microstructure analysis
+  - Structured credit products
 ---
+
 # Survey of Fixed-Income Market Microstructure
 
 ## Abstract

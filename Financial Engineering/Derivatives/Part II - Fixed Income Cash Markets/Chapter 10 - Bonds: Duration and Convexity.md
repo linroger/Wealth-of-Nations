@@ -1,3 +1,22 @@
+---
+tags:
+  - bond_duration
+  - convexity
+  - spot_rates
+  - yield_curve
+  - ytm
+aliases:
+  - Bond Pricing
+  - Chapter 10
+  - Duration
+  - Yield Curve
+key_concepts:
+  - Convexity adjustment
+  - Duration and bond price
+  - Parallel shift in yield curve
+  - Spot rates and yield curve
+  - YTM changes and bond prices
+---
 # Bonds: Duration and Convexity  
 
 # Aims  

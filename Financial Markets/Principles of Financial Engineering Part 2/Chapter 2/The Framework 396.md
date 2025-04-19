@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#arbitrage_opportunity'
-  - '#framework'
-  - '#fundamental_theorem'
-  - '#payoff_matrix'
-  - '#state_prices'
-  - '#states_of_the_world'
+  - arbitrage_opportunity
+  - framework
+  - fundamental_theorem
+  - payoff_matrix
+  - state_prices
+aliases:
+  - Framework 396
+  - Payoff Matrix
+  - State Prices
+key_concepts:
+  - Arbitrage Opportunity
+  - Fundamental Theorem
+  - Interpreting State Prices
+  - Payoff Matrix
+  - States of the World
 ---
+
 # 2.3 The Framework. 396  
 
 12.3.1 States of the World. 396   

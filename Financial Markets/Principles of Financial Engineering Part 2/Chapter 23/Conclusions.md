@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#counterparty_risk'
-  - '#cppi'
-  - '#credit_sector'
-  - '#credit_valuation_adjustment'
-  - '#cva'
-  - '#dva'
-  - '#fva'
-  - '#itraxx_index'
-  - '#leverage_factor'
+  - counterparty_risk
+  - cppi
+  - credit_sector
+  - cva_dva
+  - mark_to_market
+aliases:
+  - CPPI
+  - CVA
+  - Conclusions
+  - DVA
+  - FVA
+key_concepts:
+  - CPPI application credit sector
+  - CVA and DVA
+  - Counterparty risk hedging
+  - Leverage factor optimization
+  - Mark-to-market adjustments
 ---
+
 # 23.10 CONCLUSIONS  
 
 There may be several other real-world complications. For example, consider the application of the CPPI to the credit sector. One very important question is what happens on a roll? Clearly the structurer would like to stay with on-the-run series, and during the roll there will be mark-to-market adjustments which may be infinitesimal and similar to jumps.  

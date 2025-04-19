@@ -1,13 +1,25 @@
 ---
 cssclasses: academia
-aliases:
-  - Assignments-Financial Instruments
 linter-yaml-title-alias: Assignments-Financial Instruments
 title: Assignments
 tags:
-  - '#assignments'
-  - '#waypoint'
+  - assignments
+  - course_introduction
+  - course_outline
+  - exercises
+  - practice_questions
+aliases:
+  - homework
+  - projects
+  - tasks
+key_concepts:
+  - Assignment Details
+  - Course Outline
+  - Course Requirements
+  - Project Tasks
+  - Waypoint
 ---
+
 ---
 # Assignments
 

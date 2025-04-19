@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#annual_compounding'
-  - '#compounding_frequency'
-  - '#continuous_compounding'
-  - '#equivalent_interest_rates'
-  - '#exponential_function'
-  - '#interest_rate_conversion'
-  - '#interest_rate_measurement'
-  - '#natural_logarithm'
-  - '#semiannual_compounding'
+  - annual_compounding
+  - compounding_frequency
+  - continuous_compounding
+  - equivalent_rate
+  - interest_rates
+aliases:
+  - Compounding
+  - Continuous Compounding
+  - Interest Rate Measurement
+key_concepts:
+  - Compounding frequency impact
+  - Continuous compounding definition
+  - Convert compounding frequencies
+  - Equivalent annual interest rate
+  - Measuring interest rates
 ---
+
 # 4.4 MEASURING INTEREST RATES  
 
 A statement by a bank that the interest rate on one-year deposits is. $10\%$ per annum sounds straightforward and unambiguous. In fact, its precise meaning depends on the way the interest rate is measured..  

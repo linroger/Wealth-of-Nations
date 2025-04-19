@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#commodity_swap'
-  - '#credit_default_swap_cds'
-  - '#default_risk'
-  - '#equity_swap'
-  - '#financial_engineering'
-  - '#forward_contracts'
-  - '#interest_rate_swap_irs'
-  - '#libor_loan'
-  - '#market_risk'
-  - '#synthetic_instruments'
+  - bond_pricing
+  - default_risk
+  - forward_contracts
+  - interest_rates
+  - libor
+aliases:
+  - Forward Loan
+  - Zero Value Instrument
+key_concepts:
+  - Cash flow diagram
+  - Default-free bond
+  - Forward contract value
+  - LIBOR interest rate
+  - Price volatility zero
 ---
+
 # 1.1 A UNIQUE INSTRUMENT  
 
 First, we would like to introduce the equivalent of the integer zero, in finance. Remember the property of zero in algebra. Adding (subtracting) zero to any other real number leaves this number the same. There is a unique financial instrument that has the same property with respect to market and credit risk. Consider the cash flow diagram in Figure 1.1. Here, the time is continuous and the. $t_{0}$ $t_{1}$ $t_{2}$ represent some specific dates. Initially we place ourselves at time $t_{0}$ . The following deal is. struck with a bank. At time $t_{1}$ we borrow 100 US dollars (UsD100), at the going interest rate of time $t_{1}$ , called the LIBOR and denoted by the symbol $\boldsymbol{L}_{t_{1}}.^{1}$ We pay the interest and the principal back at time $t_{2}$ . The loan has no default risk and is for a period of $\delta$ units of time.? Note that the contract is written at time $t_{0}$ , but starts at the future date $t_{1}$ . Hence this is an example of forward contracts. The actual value of $L_{t_{1}}$ will also be determined at the future date $t_{1}$  

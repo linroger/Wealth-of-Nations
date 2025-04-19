@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#dirac_delta_function'
-  - '#expectation_calculation'
-  - '#expiration'
-  - '#gaussian_density'
-  - '#mathematical_tool'
-  - '#option_payoffs'
-  - '#probability_density'
-  - '#variance_parameter'
+  - dirac_delta_functions
+  - gaussian_density
+  - mathematical_tool
+  - option_payoffs
+  - probability_density
+aliases:
+  - Delta function
+  - Dirac delta
+key_concepts:
+  - Density as spike
+  - Dirac delta definition
+  - Expectations calculation
+  - Function value at point
+  - Gaussian density integral
 ---
+
 # 16.4 DIRAC DELTA FUNCTIONS  
 
 Consider the integral of the Gaussian density with mean $K$ given below  

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#exportco'
-  - '#foreign_exchange_risk'
-  - '#forward_contracts'
-  - '#gpb_usd'
-  - '#hedging'
-  - '#importco'
-  - '#options'
-  - '#risk_management'
-  - '#stock_options'
+  - foreign_exchange
+  - forward_contracts
+  - hedging
+  - options
+  - risk_management
+aliases:
+  - Hedgers
+  - Hedging Strategies
+  - Risk Reduction
+key_concepts:
+  - Forward contracts
+  - GBP/USD exchange rate
+  - Hedgers reduce risks
+  - Neutralize risk
+  - Options provide insurance
 ---
+
 # 1.7 HEDGERS  
 
 In this section we illustrate how hedgers can reduce their risks with forward contracts and options.  

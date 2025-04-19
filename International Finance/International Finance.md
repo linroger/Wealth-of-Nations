@@ -1,10 +1,23 @@
 ---
-aliases: []
 cssclasses: academia
 title: International Finance
 tags:
-  - '#international_finance'
+  - currency_risk
+  - exchange_rates
+  - finance
+  - international_finance
+  - international_investments
+aliases:
+  - IF
+  - Intl Finance
+key_concepts:
+  - Currency exchange risk
+  - Exchange rate determination
+  - Global financial markets
+  - International capital flows
+  - International trade
 ---
+
 # International Finance
 
 %% Begin Waypoint %%

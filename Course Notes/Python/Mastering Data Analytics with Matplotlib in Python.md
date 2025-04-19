@@ -4,17 +4,23 @@ source:
   https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
 description:
 tags:
-  - '#case_studies'
-  - '#customization'
-  - '#data_analysis'
-  - '#data_visualization'
-  - '#interactive_plots'
-  - '#matplotlib'
-  - '#pandas'
-  - '#plotting'
-  - '#python'
-  - '#subplots'
+  - data_analysis
+  - data_visualization
+  - matplotlib
+  - plotting
+  - python
+aliases:
+  - Data Visualization with Python
+  - Matplotlib Guide
+  - Matplotlib Tutorial
+key_concepts:
+  - Data visualization
+  - Interactive plots
+  - Matplotlib library
+  - Plot customization
+  - Python plotting
 ---
+
 # Mastering Data Analytics with Matplotlib in Python
 - Introduction to Data Visualization
 	- Overview

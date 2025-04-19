@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#binomial_tree'
-  - '#convexity_adjustment'
-  - '#currency_derivatives'
-  - '#forward_exchange_rate'
-  - '#interest_rate_risk'
-  - '#market_price_of_risk'
-  - '#numeraire_analysis'
-  - '#quanto_derivatives'
-  - '#risk_neutral_measures'
-  - '#siegel_s_paradox'
+  - cme_futures
+  - cross_currency_derivative
+  - forward_exchange_rate
+  - nikkei_225
+  - quanto
+aliases:
+  - Cross-currency derivative
+  - Quanto
+  - Quantos
+key_concepts:
+  - CME Nikkei futures
+  - Change of numeraire
+  - Forward exchange rate
+  - Numeraire ratio
+  - Quanto definition
 ---
+
 # 30.3 QUANTOS  
 
 A quanto or cross-currency derivative is an instrument where two currencies are. involved. The payoff is defined in terms of a variable that is measured in one of the currencies and the payoff is made in the other currency. One example of a quanto is the CME futures contract on the Nikkei discussed in Business Snapshot 5.3. The market. variable underlying this contract is the Nikkei 225 index (which is measured in yen), but the contract is settled in U.S. dollars..  

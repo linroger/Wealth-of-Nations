@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cash_flow_replication'
-  - '#contractual_equations'
-  - '#eurocurrency_futures'
-  - '#financial_instruments'
-  - '#forward_rate_agreements'
-  - '#interest_rate_forwards'
-  - '#interest_rate_futures'
-  - '#static_replication'
-  - '#synthetic_instruments'
+  - cash_flows
+  - financial_engineering
+  - financial_instruments
+  - replication
+  - synthetic_instruments
+aliases:
+  - Chapter 3.1
+  - Intro
+  - Introduction to Financial Engineering
+key_concepts:
+  - Cash flows and instruments
+  - Contractual equation method
+  - Forward rate agreements
+  - Replicating cash flows
+  - Synthetic instrument creation
 ---
+
 # 3.1 INTRODUCTION  
 
 All financial instruments can be visualized as bundles of cash flows. They are designed so that. market participants can trade cash flows that have different characteristics and different risks. This chapter uses interest rate forwards and futures to discuss how cash flows can be replicated and then repackaged to create synthetic instruments.  

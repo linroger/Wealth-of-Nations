@@ -1,21 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Intangibles
-  - M&A & Goodwill.md
 title: Week 5 Accounting RecapR&D,  Intangibles,  M&A & Goodwill
 tags:
-  - '#goodwill_impairment'
-  - '#intangible_amortization'
-  - '#intangible_assets'
-  - '#kraft_heinz'
-  - '#m_and_a_accounting'
-  - '#non_gaap_reporting'
-  - '#r_and_d_accounting'
-  - '#us_gaap_ifrs'
-  - '#valuation_consequences'
+  - accounting_standards
+  - goodwill_impairment
+  - intangible_assets
+  - ma_accounting
+  - randd_expenses
+aliases:
+  - Goodwill Write-down
+  - Intangible Amortization
+  - M&A Accounting
+  - Week 5 Recap
+key_concepts:
+  - Capitalization impact on profits
+  - Goodwill impairment testing
+  - M&A accounting steps
+  - Non-GAAP and EBITA multiples
+  - R&D and Intangibles
 ---
+
 #### ACCOUNTING FOR R&D AND INTANGIBLES
 
 ##### IFRS AND US GAAP: RESEARCH & DEVELOPMENT

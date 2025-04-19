@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#cash_flow_mapping'
-  - '#correlation_matrix'
-  - '#covariance_matrix'
-  - '#interest_rate_risk'
-  - '#linear_model'
-  - '#options_delta'
-  - '#portfolio_variance'
-  - '#risk_management'
-  - '#var_es_calculation'
+  - correlation
+  - es
+  - linear_model
+  - portfolio_risk
+  - var
+  - yield_curve
+aliases:
+  - ES Calculation
+  - Linear Model
+  - VaR Calculation
+key_concepts:
+  - Linear model for VaR/ES
+  - Multivariate normal returns
+  - Portfolio return variance
+  - Portfolio standard deviation
+  - Portfolio value change
 ---
+
 # 22.4  THE LINEAR MODEL  
 
 The examples we have just considered are simple illustrations of the use of the linear model for calculating VaR or ES. Suppose that we have a portfolio worth $P$ consisting of $n$ assets with an amount $\alpha_{i}$ being invested in asset $i$ $(1\leq i\leq n)$ . Define $\Delta x_{i}$ as the return on asset $i$ in one day. The dollar change in the value of the investment in asset $i$ in one day is $\alpha_{i}\Delta x_{i}$ and  

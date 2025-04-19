@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cornish_fisher_expansion'
-  - '#delta_hedging'
-  - '#option_greeks'
-  - '#option_pricing'
-  - '#portfolio_gamma'
-  - '#portfolio_value'
-  - '#probability_distribution'
-  - '#quadratic_model'
-  - '#value_at_risk_var'
+  - delta_hedging
+  - option_pricing
+  - portfolio_gamma
+  - quadratic_model
+  - var_es
+aliases:
+  - Gamma Hedging
+  - Nonlinear Model
+  - Quadratic Approximation
+key_concepts:
+  - Delta and gamma measures
+  - Long call option example
+  - Portfolio value and gamma
+  - Probability distribution skew
+  - Short call position example
 ---
+
 # 22.5  THE QUADRATIC MODEL  
 
 When a portfolio includes options, the linear model is an approximation. It does not.   

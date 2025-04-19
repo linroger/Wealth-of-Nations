@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#black_model'
-  - '#bond_price_options'
-  - '#caps_floors'
-  - '#european_swaptions'
-  - '#forward_swap_rate'
-  - '#implied_volatility'
-  - '#libor'
-  - '#put_call_parity'
+  - black_model
+  - bond_price_options
+  - european_swaptions
+  - option_pricing
+  - yield_curve
+aliases:
+  - Caps/Floors
+  - European Swaptions
+  - Options on Bond Prices
+key_concepts:
+  - Black model
+  - Bond price options
+  - Forward bond price
+  - Price volatility
+  - Yield curve construction
 ---
+
 # 6.1  BLACK MODELS FOR BOND PRICE OPTIONS, CAPS/FLOORS, AND EUROPEAN SWAPTIONS  
 
 In this section, we tackle the cases where most of the complications of arbitrage-free yield curve construction can be ignored. This is because these issues cause only second-order errors in the discounting and not first-order errors in the diffusion of the underlying variable. The idea is to decouple the primary driver of the value of the option - a long bond price or a swap rate - from the short-term discounting rate, and in effect treat the primary driver like the diffused stock price in the Black-Scholes, while constructing a correctly bootstrapped, but constant, discounting curve. This necessarily implies that the connection between the short and long rates in the yield curve is broken..  

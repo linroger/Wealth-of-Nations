@@ -1,3 +1,22 @@
+---
+tags:
+  - hedge_funds
+  - market_risk
+  - merger_arbitrage
+  - stock_index_futures
+  - stock_picking
+aliases:
+  - MaxPill
+  - MoneyPlus
+  - SIF
+  - Stock picks
+key_concepts:
+  - effective beta
+  - hedge market risk
+  - merger arbitrage
+  - stock index futures
+  - underpriced stocks
+---
 # Strategies: Stock Index Futures  
 
 # Aims  

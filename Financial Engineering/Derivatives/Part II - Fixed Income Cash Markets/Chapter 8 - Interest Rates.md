@@ -1,3 +1,22 @@
+---
+tags:
+  - fed_funds_rate
+  - fra_pricing
+  - interest_rates
+  - libor
+  - ois_rates
+  - repo_rates
+aliases:
+  - BBA
+  - annualized yields
+  - forward rate agreement
+key_concepts:
+  - compound interest
+  - forward rates
+  - present value
+  - simple interest
+  - terminal value
+---
 # FIXED INCOME: CASH MARKETS  
 
 # Interest Rates  

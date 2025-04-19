@@ -1,20 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Market Solutions
 tags:
-  - '#bond_symbology'
-  - '#corporate_bonds'
-  - '#credit_default_swap'
-  - '#credit_market_solutions'
-  - '#credit_spreads'
-  - '#nelson_siegel_model'
-  - '#quantlib'
-  - '#sofr'
-  - '#us_treasuries'
-  - '#yield_curve_calibration'
+  - bond_symbology
+  - credit_market_solutions
+  - government_bonds
+  - us_treasuries
+  - yield_curve
+aliases:
+  - FINM 35700
+  - Homework 1
+  - Treasury bonds
+  - UChicago
+key_concepts:
+  - Bond symbology exploration
+  - Historical coupon time series
+  - On-the-run US treasuries
+  - US treasury instruments
+  - US treasury yield curve
 ---
+
 # Credit Market Solutions
 ## Solution to Homework 1
 

@@ -4,17 +4,24 @@ source: https://www.investopedia.com/articles/forex/11/introduction-currency-swa
 description: Find out what makes currency swaps unique and slightly more complicated
   than other types of swaps.
 tags:
-  - '#borrowing_costs'
-  - '#currency_swap'
-  - '#exchange_rate'
-  - '#financial_instruments'
-  - '#foreign_exchange_risk'
-  - '#fx_swaps'
-  - '#hedging_strategy'
-  - '#interest_rate'
-  - '#multinational_corporations'
-  - '#notional_principal'
+  - currency_swap
+  - exchange_rate_risk
+  - fx_swap
+  - hedging
+  - interest_rates
+aliases:
+  - FX swap
+  - cross-currency swap
+  - currency exchange
+key_concepts:
+  - Borrow foreign exchange
+  - Exchange currencies
+  - Exchange-rate risk
+  - Interest rate arbitrage
+  - Offsetting loans
 ---
+
+
 Currency swaps are an essential financial instrument utilized by banks, multinational corporations, and institutional investors. Although these type of swaps function in a similar fashion to [interest rate swaps](https://www.investopedia.com/terms/i/interestrateswap.asp) and [equity swaps](https://www.investopedia.com/terms/e/equityswap.asp), there are some major fundamental qualities that make currency swaps unique and thus slightly more complicated.
 
 A [currency swap](https://www.investopedia.com/terms/c/currencyswap.asp) involves two parties that exchange a [notional principal](https://www.investopedia.com/terms/n/notionalprincipalamount.asp) with one another in order to gain exposure to a desired currency. Following the initial notional exchange, periodic cash flows are exchanged in the appropriate currency.

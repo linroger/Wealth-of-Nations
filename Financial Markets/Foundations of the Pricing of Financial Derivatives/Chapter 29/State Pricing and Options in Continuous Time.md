@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#asset_or_nothing_option'
-  - '#black_scholes_merton_formula'
-  - '#cash_or_nothing_option'
-  - '#continuous_time'
-  - '#digital_options'
-  - '#european_options'
-  - '#risk_free_rate'
-  - '#state_prices'
-  - '#state_pricing'
+  - black_scholes_merton
+  - continuous_time
+  - digital_option
+  - option_pricing
+  - state_prices
+aliases:
+  - Binary option
+  - Digital call option
+  - Digital put option
+key_concepts:
+  - Asset-or-nothing option
+  - Cash-or-nothing options
+  - Digital call option value
+  - Digital put option formula
+  - European call option components
+  - State pricing in continuous time
 ---
+
 # 29.5 STATE PRICING AND OPTIONS IN CONTINUOUS TIME
 
 In the real world, there are an infinite number of possible states. This makes it difficult, if not impossible, to identify the specific states and derive their prices. It is possible, however, to make some approximations of state prices from the prices of traded options.

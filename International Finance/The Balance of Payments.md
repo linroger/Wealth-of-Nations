@@ -1,21 +1,29 @@
 ---
-aliases:
 cssclasses: academia
 title: The Balance of Payments
 Tags: balance-of-payments
 Cssclasses: academia
 tags:
-  - '#balance_of_payments'
-  - '#capital_and_financial_account'
-  - '#current_account'
-  - '#economic_transactions'
-  - '#exchange_rates'
-  - '#imf'
-  - '#net_international_investment_position'
-  - '#open_economy'
-  - '#settlements_account'
-  - '#trade_balance'
+  - balance_of_payments
+  - capital_financial_account
+  - current_account
+  - economic_transactions
+  - non_residents
+  - residents
+  - trade_balance
+aliases:
+  - BOP
+  - Balance of Payments
+  - BoP
+key_concepts:
+  - capital and financial account
+  - current account records
+  - economic transactions
+  - official settlements balance
+  - residents and non-residents
+  - trade balance calculation
 ---
+
 # The Balance of Payments
 
 # CHAPTER 2 NOTES: THE BALANCE OF PAYMENTS

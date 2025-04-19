@@ -1,17 +1,25 @@
 ---
-aliases:
 cssclasses: academia
 title: Appendix 5. C Forward And Futures Prices When Interest Rates Are Random
 tags:
-  - '#bond_yield'
-  - '#continuous_compounding'
-  - '#cox_et_al_1981'
-  - '#forward_prices'
-  - '#futures_prices'
-  - '#interest_rates_stochastic'
-  - '#money_market_account'
-  - '#short_term_interest_rate'
+  - cox_et_al_1981
+  - forward_prices
+  - futures_prices
+  - interest_rates
+  - money_market_account
+  - stochastic_calculus
+aliases:
+  - Appendix 5.C
+  - Forward vs. Futures
+  - Stochastic Interest Rates
+key_concepts:
+  - Continuous time formula
+  - Forward price formula
+  - Futures price derivation
+  - Money-market account
+  - Replicating fully funded contracts
 ---
+
 # Appendix 5. C Forward And Futures Prices When Interest Rates Are Random
 
 This appendix formalizes the difference between forward and futures prices and shows the relationship between them when interest rates are stochastic. We will use the following notation:

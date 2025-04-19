@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#clearing_house'
-  - '#credit_risk'
-  - '#daily_settlement'
-  - '#futures_contracts'
-  - '#initial_margin'
-  - '#maintenance_margin'
-  - '#margin_accounts'
-  - '#margin_call'
-  - '#variation_margin'
+  - daily_settlement
+  - futures_contracts
+  - maintenance_margin
+  - margin_accounts
+  - variation_margin
+aliases:
+  - Futures Trading
+  - Margin Account Operation
+  - Margin Trading
+key_concepts:
+  - Daily settlement process
+  - Futures contracts trading
+  - Maintenance margin requirements
+  - Margin accounts
+  - Variation margin explained
 ---
+
 # 2.4 THE OPERATION OF MARGIN ACCOUNTS  
 
 If two traders get in touch with each other directly and agree to trade an asset in the future for a certain price, there are obvious risks. One of the traders may regret the deal. and try to back out. Alternatively, the trader simply may not have the financial resources to honor the agreement. One of the key roles of the exchange is to organize. trading so that contract defaults are avoided. This is where margin accounts come in..  

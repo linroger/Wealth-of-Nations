@@ -5,17 +5,24 @@ source:
 description: An interest rate swap is a contractual agreement between two parties
   agreeing to exchange cash flows of an underlying asset for a fixed period of time.
 tags:
-  - '#counterparties'
-  - '#credit_risk'
-  - '#fixed_vs_floating_rates'
-  - '#interest_rate_swaps'
-  - '#libor_replacement'
-  - '#market_interest_rates'
-  - '#notional_amount'
-  - '#risk_management'
-  - '#sofr'
-  - '#swap_valuation'
+  - counterparties
+  - fixed_interest_rates
+  - floating_interest_rates
+  - interest_rate_swaps
+  - sofr
+aliases:
+  - IRS
+  - Interest Rate Swap
+  - Swap Values
+key_concepts:
+  - benchmark interest rates
+  - fixed vs floating rates
+  - interest rate swap
+  - manage financial risks
+  - notional amount
 ---
+
+
 FluxFactory / Getty Images
 
 Every day, businesses are trying to protect themselves from unpredictable interest rates that could eat into their profits. A major tool in their arsenals is interest rate swaps.

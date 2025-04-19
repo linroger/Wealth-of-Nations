@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#arbitrage_pricing'
-  - '#capm'
-  - '#factor_mimicking_portfolio'
-  - '#mean_variance_efficient_return'
-  - '#pricing_factor'
-  - '#radon_nikodym_derivative'
-  - '#risk_neutral_probability'
-  - '#state_price_deflator'
+  - pricing_equation
+  - radon_nikodym
+  - risk_free_return
+  - risk_neutral_probability
+  - state_price_deflator
+aliases:
+  - Alternative Representations
+  - Risk-Neutral Valuation
+key_concepts:
+  - Asset price
+  - Radon-Nikodym derivative
+  - Risk-free return
+  - Risk-neutral probability measure
+  - State-price deflator
 ---
+
 # 4.6 A preview of alternative formulations  
 
 The previous sections show that a state-price deflator is a good way to represent the marketwide pricing mechanism in a financial market. Paired with characteristics of any individual asset, the state-price defator leads to the price of the asset. This section shows that we can capture the same information in other ways. The alternative representations can be preferable for some specific purposes and we will return to them in later chapters. Here we will only give a preview. For simplicity we keep the discussion in a one-period framework.  

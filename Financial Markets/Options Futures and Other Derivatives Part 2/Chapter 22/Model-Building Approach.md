@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#asset_correlation'
-  - '#daily_volatility'
-  - '#diversification_benefits'
-  - '#es_calculation'
-  - '#market_risk'
-  - '#model_building_approach'
-  - '#portfolio_risk_management'
-  - '#var_calculation'
+  - daily_volatilities
+  - es
+  - market_risk
+  - model_building_approach
+  - portfolio_risk
+  - var
+aliases:
+  - ES Calculation
+  - Model Building
+  - VaR Calculation
+key_concepts:
+  - Benefits of Diversification
+  - Portfolio Value Change
+  - Single-Asset Case
+  - Volatility per day
+  - Volatility per year
 ---
+
 # 22.3 MODEL-BUILDING APPROACH  
 
 The main alternative to historical simulation is the model-building approach. Before. getting into the details of the approach, it is appropriate to mention one issue concerned with the units for measuring volatility.  

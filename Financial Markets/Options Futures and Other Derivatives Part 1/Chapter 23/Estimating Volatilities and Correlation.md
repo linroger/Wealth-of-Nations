@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#correlation_analysis'
-  - '#exponentially_weighted_moving_average'
-  - '#garch_1_1_model'
-  - '#maximum_likelihood_methods'
-  - '#model_comparison'
-  - '#volatility_estimation'
-  - '#volatility_forecasting'
+  - correlation_estimation
+  - ewma_model
+  - garch_model
+  - maximum_likelihood
+  - volatility_estimation
+aliases:
+  - Estimating Volatility
+  - Volatility and Correlation
+key_concepts:
+  - EWMA model
+  - Estimating Volatility
+  - Forecasting volatility
+  - GARCH(1,1) model
+  - Maximum likelihood methods
 ---
+
 # Chapter 23. Estimating volatilities and correlations .520  
 
 23.1 Estimating volatility .520   

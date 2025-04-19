@@ -1,14 +1,26 @@
 ---
 tags:
-  - '#asset_price_dynamics'
-  - '#binomial_distribution'
-  - '#black_scholes_merton_model'
-  - '#call_option_pricing'
-  - '#de_moivre_laplace_limit_theorem'
-  - '#hsia_proof'
-  - '#lognormal_distribution'
-  - '#option_pricing_convergence'
+  - binomial_distribution
+  - black_scholes_merton
+  - hsia_proof
+  - lognormal_distribution
+  - option_pricing
+aliases:
+  - B-S-M
+  - Black-Scholes
+  - DeMoivre-LaPlace
+  - Hsia's proof
+key_concepts:
+  - Asset price
+  - Binomial distribution
+  - Black-Scholes-Merton model
+  - DeMoivre-LaPlace theorem
+  - Hsia's proof
+  - Lognormal process
+  - Normal distribution
+  - Option exercise
 ---
+
 # 9.2 THE HSIA PROOF
 
 Now we proceed to work through Hsia's elegant and straightforward proof. We appeal to the famous DeMoivre-LaPlace limit theorem, which says that a binomial distribution converges to the normal distribution if $n p\rightarrow\infty$ aS $n\to\infty$ . For $B_{1}$ we need

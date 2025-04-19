@@ -5,16 +5,23 @@ description: An interest-rate derivative is a broad term for a derivative contra
   such as a futures, option, or swap, that has an interest rate as its underlying
   asset.
 tags:
-  - '#caps_and_floors'
-  - '#financial_instruments'
-  - '#forward_rate_agreements'
-  - '#hedging_strategies'
-  - '#interest_rate_derivatives'
-  - '#interest_rate_futures'
-  - '#interest_rate_risk'
-  - '#interest_rate_swaps'
-  - '#options_contracts'
+  - financial_contracts
+  - hedging
+  - interest_rate_derivatives
+  - interest_rate_risk
+  - swaps
+aliases:
+  - IRD
+  - Interest Rate Derivative
+key_concepts:
+  - Futures, options, swaps
+  - Hedge against rate changes
+  - Lock in asset price
+  - Reduce interest rate exposure
+  - Value linked to interest rates
 ---
+
+
 Investopedia / Michela Buttignol
 
 ## What Is an Interest Rate Derivative?

@@ -1,16 +1,22 @@
 ---
 title: Appendix 20. A Valuation Using Discounted Cash Flow
-aliases:
-  - Valuation Using Discounted Cash Flow
 tags:
-  - '#discounted_cash_flow_dcf'
-  - '#expected_payoff'
-  - '#geometric_brownian_motion'
-  - '#jensens_inequality'
-  - '#risk_neutral_valuation'
-  - '#risk_premium'
-  - '#sharpe_ratio'
+  - dcf_valuation
+  - expected_payoff
+  - geometric_brownian_motion
+  - jensen_inequality
+  - risk_neutral_pricing
+aliases:
+  - DCF Valuation
+  - Discounted Cash Flow
+key_concepts:
+  - DCF valuation
+  - Expected payoff calculation
+  - Geometric Brownian motion
+  - Jensen's inequality impact
+  - Risk-neutral pricing
 ---
+
 # Appendix 20. A Valuation Using Discounted Cash Flow
 
 For the special case where the stock follows geometric Brownian motion,  and where the claim has the payoff $S^{u}$ ,  we can also use discounted cash flow (DCF) to value the claim. In general,  there is no reason to use DCF when we can perform risk-neutral valuation,  bu it is instructive to see how DCF works in the case where a claim pays $S^{a}$ .We can value the claim by discounting the expected payoff under the physical measure at an appropriate discount rate. To do this we must compute the expected value of the claim and discount the expected payoff appropriately We know that the stock has a Sharpe ratio of $(\alpha-r)/\sigma$ . Equation (20.34) tells us that $S^{u}$ follows geometric Brownian motion with drift $a (\alpha-\delta)+0.5 a (a-1)\sigma^{2}$ and diffusion term $a_0 dZ$ gives us the process followed by $S^{a}$ . The requirement for equal Sharpe ratios tells that the expected return for a claim paying $S^{a},       \alpha_{a}$ must satisfy

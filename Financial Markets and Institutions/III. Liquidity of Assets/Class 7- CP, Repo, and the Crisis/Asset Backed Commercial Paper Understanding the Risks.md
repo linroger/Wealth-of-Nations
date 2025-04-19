@@ -1,23 +1,27 @@
 ---
-aliases:
-  - Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial
-    Paper]] Understanding the Risks.md
-  - Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial
-    Paper]] Understanding the Risks
 title: Asset Backed [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
   Paper|Commercial Paper]] Understanding the Risks
 tags:
-  - '#abcp_programs'
-  - '#asset_backed_securities'
-  - '#credit_enhancement_facility'
-  - '#credit_risk'
-  - '#fully_supported_abcp'
-  - '#liquidity_risk'
-  - '#moodys_ratings'
-  - '#partially_supported_abcp'
-  - '#receivables_financing'
-  - '#structural_risk'
+  - abcp_programs
+  - asset_backed_securities
+  - credit_risk
+  - liquidity_risk
+  - short_term_financing
+  - structural_risk
+aliases:
+  - ABCP
+  - Asset-Backed
+  - Structured Finance
+key_concepts:
+  - ABCP programs
+  - Credit risk
+  - Fully supported program
+  - Liquidity risk
+  - Partially supported program
+  - Short-term financing
+  - Structural risk
 ---
+
 # Asset Backed [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] Understanding the Risks
 # Structured Finance Special Report
 

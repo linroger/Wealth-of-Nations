@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#call_option'
-  - '#delta'
-  - '#delta_hedging'
-  - '#option_hedging'
-  - '#option_pricing'
-  - '#put_option'
-  - '#riskless_portfolio'
-  - '#stock_option'
+  - call_option
+  - delta
+  - delta_hedging
+  - option_pricing
+  - put_option
+aliases:
+  - Delta
+  - Greeks
+  - Option Delta
+key_concepts:
+  - Delta changes over time
+  - Delta of call option
+  - Delta of put option
+  - Option delta definition
+  - Riskless portfolio construction
 ---
+
 # 13.6 DELTA  
 
 At this stage, it is appropriate to introduce delta, an important parameter (sometimes referred to as a "Greek letter" or simply a "Greek") in the pricing and hedging of options.  

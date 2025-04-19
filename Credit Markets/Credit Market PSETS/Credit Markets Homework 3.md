@@ -1,19 +1,29 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Homework 3
 tags:
-  - '#bond_pricing'
-  - '#cds_hazard_rate'
-  - '#credit_markets'
-  - '#duration_convexity'
-  - '#fixed_rate_bond'
-  - '#perpetual_bond'
-  - '#quantlib'
-  - '#scenario_analysis'
-  - '#sofr_swap_curve'
+  - bond_pricing
+  - bootstrapping
+  - credit_market_homework
+  - duration_convexity
+  - fixed_rate_bond
+  - perpetual_bond
+  - scenario_analysis
+  - sofr_swap
+  - yield_curve
+aliases:
+  - Credit Markets
+  - Homework 3
+  - Perpetual Bond
+  - SOFR Curve
+key_concepts:
+  - Bond price, DV01, duration
+  - Fixed rate corporate bond
+  - Perpetual bond pricing
+  - SOFR yield curve calibration
+  - Scenario bond prices
+  - US SOFR swap curve
 ---
+
 # Credit Markets Homework 3
 
 This homework relies on:

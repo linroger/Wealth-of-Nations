@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#equilibrium_swap_rate'
-  - '#fixed_rate'
-  - '#floating_rate'
-  - '#interest_rate_swaps'
-  - '#off_market_fra'
-  - '#present_value'
-  - '#settlement_dates'
-  - '#swap_pricing'
-  - '#swap_valuation'
-  - '#vanilla_swap'
+  - derivative_pricing
+  - fixed_rate
+  - floating_rate
+  - fra
+  - interest_rate_swaps
+  - reset_dates
+  - settlement_dates
+  - stub_rate
+  - vanilla_swap
+aliases:
+  - Fixed-rate Loan
+  - Floating-rate Loan
+  - IRS
+  - Plain Vanilla Swap
+  - Swap Pricing
+key_concepts:
+  - Fixed vs. floating rates
+  - Floating rate loan
+  - Interest rate swap agreement
+  - Most widely used derivative
+  - Pricing the swap
+  - Settlement and reset dates
 ---
+
 # 26.2 INTEREST RATE SWAPS
 
 Interest rate swaps are a variation of FRAs, but they have some important distinctions. An interest rate swap is an agreement for one party to pay another a set of payments at one rate and the latter to pay the former a set of payments at another rate. Typically, one of these rates is fixed and one is variable and, thereby, floats according to a benchmark rate in the market. This standard type of swap is usually called a vanilla swap or sometimes plain vanilla swap. It is also possible to have both rates be floating, but the two rates would clearly have to be different floating rates.

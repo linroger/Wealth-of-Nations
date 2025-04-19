@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#active_risk'
-  - '#asset_allocation'
-  - '#efficient_frontier'
-  - '#investment_horizon'
-  - '#liquidity'
-  - '#macroeconomic_model'
-  - '#modern_portfolio_theory'
-  - '#risk_tolerance'
-  - '#systematic_risk'
+  - asset_allocation
+  - asset_classes
+  - diversification
+  - investment_strategy
+  - portfolio_management
+aliases:
+  - Asset Allocation
+  - Investment
+  - Portfolio
+  - Primer
+key_concepts:
+  - Active vs systematic risk
+  - Asset allocation definition
+  - Diversification vs allocation
+  - Transporting purchasing power
+  - Two-step asset allocation
 ---
+
 # An Asset Allocation Primer
 
 Brian J. Jacobsen, Ph.D., CFA, CFPo  

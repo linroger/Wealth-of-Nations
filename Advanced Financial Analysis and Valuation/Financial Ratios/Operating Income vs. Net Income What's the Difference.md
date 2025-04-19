@@ -2,18 +2,24 @@
 title: Operating Income vs. Net Income What's the Difference
 cssclasses:
   - academia
-aliases:
 tags:
-  - '#depreciation_and_amortization'
-  - '#financial_analysis'
-  - '#income_statement'
-  - '#j_c_penney'
-  - '#net_income'
-  - '#operating_expenses'
-  - '#operating_income'
-  - '#revenue'
-  - '#sg_and_a'
+  - financial_metrics
+  - income_statement
+  - net_income
+  - operating_income
+  - profitability
+aliases:
+  - Bottom Line
+  - J.C. Penney Example
+  - Operating Profit
+key_concepts:
+  - Gross profit calculation
+  - Income statement overview
+  - Net income definition
+  - Operating expenses include
+  - Operating income calculation
 ---
+
 # Operating Income vs. Net Income What's the Difference
 
 [[Operating Income vs. Net Income What's the Difference|Operating Income]]

@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#european_call_option'
-  - '#european_put_option'
-  - '#long_position'
-  - '#option_payoff'
-  - '#option_positions'
-  - '#option_writer'
-  - '#short_position'
-  - '#strike_price'
-  - '#underlying_asset'
+  - call_option
+  - european_option
+  - long_position
+  - option_contract
+  - option_payoff
+  - put_option
+  - short_position
+aliases:
+  - Option Payoffs
+  - Option Positions
+key_concepts:
+  - European call option
+  - European put option
+  - Long option position
+  - Option writer profit/loss
+  - Short option position
 ---
+
 # 10.2 OPTION POSITIONS  
 
 There are two sides to every option contract. On one side is the investor who has taken. the long position (i.e., has bought the option). On the other side is the investor who has. taken a short position (i.e., has sold or written the option). The writer of an option receives cash up front, but has potential liabilities later. The writer's profit or loss is the reverse of that for the purchaser of the option. Figures 10.3 and 10.4 show the variation of the profit or loss with the final stock price for writers of the options considered in Figures 10.1 and 10.2.  

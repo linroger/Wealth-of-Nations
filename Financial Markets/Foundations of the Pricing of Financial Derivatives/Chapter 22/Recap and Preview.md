@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#convenience_yield'
-  - '#derivative_pricing'
-  - '#forward_contract'
-  - '#futures_contract'
-  - '#monte_carlo_simulation'
-  - '#option_on_futures'
-  - '#option_pricing'
+  - call_option
+  - forward_contract
+  - futures_contract
+  - geometric_brownian_motion
+  - option_pricing
+aliases:
+  - Forward Price
+  - Futures Option
+  - Preview
+  - Recap
+key_concepts:
+  - Convenience yield
+  - Forward contract pricing
+  - Futures contract
+  - Geometric Brownian motion
+  - Option payoff
 ---
+
 # 22.4 RECAP AND PREVIEW
 
 In this chapter, we introduced a different type of derivative, the forward contract and its. variant the futures contract. We showed how these derivatives are priced, which is by the same principle as option pricing, but which does not require a dynamic hedge. As such,

@@ -1,19 +1,33 @@
 ---
-aliases:
-  - 
-  - 
 title: Week 6 Assignment Review
 tags:
-  - '#bank_regulatory_capital'
-  - '#blackstone'
-  - '#citigroup'
-  - '#default_probability'
-  - '#fair_value_accounting'
-  - '#leveraged_loans'
-  - '#loan_portfolio_valuation'
-  - '#loan_sale_analysis'
-  - '#tier_1_capital_ratio'
+  - bank_regulation
+  - blackstone
+  - citigroup
+  - financial_statements
+  - loan_portfolio
+aliases:
+  - Blackstone
+  - Citi
+  - Loan Valuation
+  - Week 6 Review
+key_concepts:
+  - Balance sheet items
+  - Bank regulatory capital
+  - Citigroup financial statements
+  - Cost of risky debt
+  - Credit market dislocations
+  - Dividend payments
+  - Duration mismatch
+  - Expected cash flows
+  - Loan loss provisions
+  - Loan portfolio valuation
+  - Raising capital
+  - Run on the bank
+  - Selling assets
+  - Tier 1 capital
 ---
+
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms
 Case: Citigroup,     Blackstone,  and the Sale of a Loan Portfolio

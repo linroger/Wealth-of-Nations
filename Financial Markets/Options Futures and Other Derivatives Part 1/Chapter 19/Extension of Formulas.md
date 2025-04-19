@@ -1,16 +1,34 @@
 ---
 tags:
-  - '#currency_options'
-  - '#delta_hedging'
-  - '#delta_neutral_position'
-  - '#dividend_yield'
-  - '#european_options'
-  - '#foreign_risk_free_rate'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#greek_letters'
-  - '#option_pricing_formulas'
+  - american_option
+  - continuous_dividend
+  - currency_option
+  - delta_hedging
+  - european_option
+  - financial_instrument
+  - forward_contract
+  - futures_contract
+  - greek_letters
+  - non_dividend_paying
+aliases:
+  - Delta of Forward
+  - Delta of Futures
+  - European Options
+  - Greeks
+  - Option Formulas
+key_concepts:
+  - American option discussion
+  - Continuous dividend yield rate
+  - Currency option rhos
+  - Delta hedging positions
+  - Delta of forward contracts
+  - Delta of futures contracts
+  - European option formulas
+  - Forward contract value
+  - Futures contract price
+  - Greek letters for options
 ---
+
 # 19.12 EXTENSION OF FORMULAS  
 
 The formulas produced so far for delta, theta, gamma, vega, and rho have been for a European option on a non-dividend-paying stock. Table 19.6 shows how they change when the stock pays a continuous dividend yield at rate. $q$ . The expressions for $d_{1}$ and $d_{2}$ are as for equations (17.4) and (17.5). By setting $q$ equal to the dividend yield on an index,. we obtain the Greek letters for European options on indices. By setting $q$ equal to the foreign risk-free rate, we obtain the Greek letters for European options on a currency. By setting $q=r$ we obtain delta, gamma, theta, and vega for European options on a futures contract. The rho for a call futures option is. $-c T$ and the rho for a European put futures. option is $-p T$  

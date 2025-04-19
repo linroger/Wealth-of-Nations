@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#delta'
-  - '#delta_neutral'
-  - '#gamma'
-  - '#gamma_neutral'
-  - '#hedging_error'
-  - '#option_gamma_calculation'
-  - '#option_portfolio'
+  - delta_gamma_theta
+  - delta_hedging
+  - option_greeks
+  - option_pricing
+  - portfolio_risk
+aliases:
+  - Gamma Definition
+  - Gamma Hedging
+  - Gamma Neutrality
+  - Portfolio Gamma
+key_concepts:
+  - Delta changes slowly (small gamma)
+  - Gamma measures curvature
+  - 'Gamma: rate of delta change'
+  - 'Hedging error: nonlinearity'
+  - Portfolio gamma neutrality
 ---
+
 # 19.6 GAMMA  
 
 The gamma $(\Gamma)$ of a portfolio of options on an underlying asset is the rate of change of the portfolio's delta with respect to the price of the underlying asset. It is the second partial derivative of the portfolio with respect to asset price:  

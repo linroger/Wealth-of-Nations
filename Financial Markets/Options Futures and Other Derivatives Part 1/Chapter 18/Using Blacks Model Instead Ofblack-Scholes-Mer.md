@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_model'
-  - '#black_scholes_merton'
-  - '#european_options'
-  - '#forward_price'
-  - '#futures_options'
-  - '#futures_price'
-  - '#option_valuation'
-  - '#spot_options'
-  - '#underlying_asset'
+  - black_model
+  - european_option
+  - futures_options
+  - option_pricing
+  - spot_options
+aliases:
+  - Black's Model
+  - European Call Option
+key_concepts:
+  - Black's model
+  - futures options pricing
+  - option valuation
+  - put-call parity
+  - spot options
 ---
+
 # 18.8 USING BLACK'S MODEL INSTEAD OFBLACK-SCHOLES-MERTON  
 
 The results in Section 18.3 show that European futures options and European spot options are equivalent when the option contract matures at the same time as the futures contract. Specifically, equations (18.7) and (18.8) provide the price of a European option on the spot price of a asset where $F_{0}$ is the futures price of the asset for a contract maturing at the same time as the option.  

@@ -5,16 +5,22 @@ source:
 description: Provides examples of short interest rate model calibration to swaption
   volatilities in QuantLib Python
 tags:
-  - '#black_karasinski_model'
-  - '#g2_plus_plus_model'
-  - '#hull_white_model'
-  - '#mean_reversion'
-  - '#model_calibration'
-  - '#quantlib_python'
-  - '#short_rate_model_calibration'
-  - '#swaption_volatilities'
-  - '#volatility_parameter'
+  - hull_white_model
+  - interest_rate_models
+  - model_calibration
+  - quantlib_python
+  - swaption_volatilities
+aliases:
+  - QuantLib Calibration
+  - Short Rate Calibration
+key_concepts:
+  - Black Karasinski model
+  - Calibrating model parameters
+  - Hull-White model details
+  - QuantLib Python examples
+  - Swaption volatility calibration
 ---
+
 # Short Interest Rate Model Calibration in QuantLib Python
 
 Provides examples of short interest rate model calibration to swaption volatilities in QuantLib Python

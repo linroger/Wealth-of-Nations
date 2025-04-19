@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#markov_chain'
-  - '#mathematical_modeling'
-  - '#probability_theory'
-  - '#stationary_distribution'
-  - '#stochastic_modelling'
-  - '#transition_probabilities'
-  - '#urn_model'
+  - markov_chain
+  - probability_equations
+  - stationary_distribution
+  - stochastic_modelling
+  - transition_probabilities
+aliases:
+  - Probability Primer
+  - Stochastic Process Example
+key_concepts:
+  - Markov Chain Model
+  - Random Process Steps
+  - Stationary Distribution
+  - System of Equations
+  - Transition Probabilities
 ---
+
 # A Primer on Probability Theory and Stochastic  Modelling  
 
 # Markov Chain  

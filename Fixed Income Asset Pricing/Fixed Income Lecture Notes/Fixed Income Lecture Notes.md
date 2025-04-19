@@ -1,13 +1,25 @@
 ---
 cssclasses: academia
 title: Fixed Income Lecture Notes
-aliases:
-  - FIXED INCOME LECTURE NOTES
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 tags:
-  - '#fixed_income'
-  - '#lecture_notes'
+  - bond_pricing
+  - fixed_income
+  - interest_rates
+  - lecture_notes
+  - yield_curve
+aliases:
+  - FI Notes
+  - Fixed Income
+  - Lecture Notes
+key_concepts:
+  - Bond Pricing
+  - Bond Valuation
+  - Fixed Income Securities
+  - Interest Rates
+  - Yield Curve
 ---
+
 # Fixed Income Lecture Notes
 
 %% Begin Waypoint %%

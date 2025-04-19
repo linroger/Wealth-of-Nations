@@ -1,17 +1,22 @@
 ---
-aliases:
 tags:
-  - '#cost_of_capital'
-  - '#country_risk'
-  - '#cross_border_ma'
-  - '#diversification_benefits'
-  - '#emerging_markets'
-  - '#home_bias'
-  - '#international_investments'
-  - '#international_risks'
-  - '#market_liberalization'
-  - '#sovereign_spreads'
+  - currency_risks
+  - diversification_benefits
+  - emerging_markets
+  - fdi_and_ma
+  - international_investments
+aliases:
+  - International Investing
+  - Investing Abroad
+key_concepts:
+  - Currency risks and volatility
+  - Diversification benefits
+  - Emerging market companies
+  - Global M&A Trends
+  - Importance of international investments
+  - Opportunities of investing abroad
 ---
+
 Thomas Rauter
 
 ## THIS PRE-RECORDING

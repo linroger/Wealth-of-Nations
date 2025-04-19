@@ -1,21 +1,27 @@
 ---
-aliases:
 cssclasses:
   - academia
 title: Understanding Debt Crises and Their Management
 desc: ''
 tags:
-  - '#credit_cycles'
-  - '#debt_crises'
-  - '#debt_management'
-  - '#deflationary_depressions'
-  - '#deleveraging'
-  - '#economic_cycles'
-  - '#inflationary_depressions'
-  - '#monetary_policy'
-  - '#monopoly_analogy'
-  - '#policy_makers'
+  - borrowing
+  - credit
+  - debt_crises
+  - economic_cycles
+  - policy_makers
+aliases:
+  - Debt Crisis
+  - Debt Management
+  - Policy Makers
+  - Subway System
+key_concepts:
+  - Bad debt losses
+  - Borrowing and spending
+  - Debt crises cycles
+  - Economic cycle patterns
+  - Policy maker decisions
 ---
+
 # Understanding Debt Crises and Their Management
 
 **How Costly Is Bad Debt Relative to Not Having the Spending That the Debt Is Financing?**

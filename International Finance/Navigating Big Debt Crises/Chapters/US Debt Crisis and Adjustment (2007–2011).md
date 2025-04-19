@@ -1,20 +1,25 @@
 ---
 title: US Debt Crisis and Adjustment (2007–2011)
-aliases: []
 cssclasses:
   - academia
 tags:
-  - '#economic_recession'
-  - '#federal_reserve'
-  - '#financial_crisis_2008'
-  - '#government_bailouts'
-  - '#housing_market_bubble'
-  - '#lehman_brothers_bankruptcy'
-  - '#mortgage_backed_securities'
-  - '#quantitative_easing'
-  - '#tarp'
-  - '#us_debt_crisis'
+  - economic_cycle
+  - federal_reserve
+  - financial_crisis
+  - mortgage_securitization
+  - us_debt_crisis
+aliases:
+  - 2007-2011 Crisis
+  - Debt Crisis
+  - US Debt
+key_concepts:
+  - Debt-to-GDP ratio
+  - Economic conditions
+  - Federal Reserve interest rates
+  - Housing market
+  - US debt crisis
 ---
+
 # US Debt Crisis and Adjustment (2007–2011)
 
 This section provides a detailed account of the most recent big US debt crisis,  focusing on the period from 2007 to 2011. It was written with reference to the template laid out in the “Archetypal Big Debt Cycle” section but also pays close attention to the enormous number of particulars that occurred during this period. Please note how well the particulars of this case fit with the generalizations described in the template. For example,  when you read about the pooling and securitization of mortgages,  the levering up of investment banks,  and the rapid growth of derivatives that were traded off of regulated exchanges,  see these as new ways of providing leverage outside the protection and regulation of authorities. If you don’t make the connection between the particulars of this case and the generalization,  then you will miss how classic this debt crisis really was.

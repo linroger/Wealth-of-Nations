@@ -4,17 +4,24 @@ source: https://www.investopedia.com/terms/f/forwardprice.asp
 description: The predetermined delivery price of a forward contract, as agreed on
   and calculated by the buyer and seller.
 tags:
-  - '#carrying_costs'
-  - '#financial_derivatives'
-  - '#forward_contract'
-  - '#forward_price'
-  - '#hedging'
-  - '#market_fluctuations'
-  - '#price_calculation'
-  - '#risk_management'
-  - '#spot_price'
-  - '#underlying_asset'
+  - carrying_costs
+  - forward_contract
+  - hedging
+  - market_fluctuations
+  - spot_price
+aliases:
+  - Delivery Price
+  - Forward Contract Price
+  - Future Price
+key_concepts:
+  - Hedging against fluctuations
+  - Lock in future price
+  - Predetermined future delivery price
+  - Spot price vs forward price
+  - Underlying asset price
 ---
+
+
 ## What is a Forward Price
 
 Forward price is the predetermined [delivery price](https://www.investopedia.com/terms/d/deliveryprice.asp) for an underlying commodity, currency, or financial asset as decided by the buyer and the seller of the [forward contract](https://www.investopedia.com/terms/f/forwardcontract.asp), to be paid at a predetermined date in the future. At the inception of a forward contract, the forward price makes the value of the contract zero, but changes in the price of the underlying will cause the forward price to take on a positive or negative value.

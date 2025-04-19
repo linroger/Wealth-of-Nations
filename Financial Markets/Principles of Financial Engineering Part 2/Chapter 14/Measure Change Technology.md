@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_dynamics'
-  - '#drift_correction'
-  - '#forward_measure'
-  - '#forward_rates'
-  - '#libor_model'
-  - '#martingale'
-  - '#measure_change_technology'
-  - '#sde'
-  - '#volatility'
-  - '#wiener_process'
+  - arbitrage
+  - forward_rates
+  - libor
+  - martingale
+  - measure_change
+aliases:
+  - MCT
+  - Measure Change Technology
+key_concepts:
+  - Gaussian volatility structure
+  - LIBOR forward loan
+  - Martingale under measure
+  - discrete state setting
+  - forward rate arbitrage
 ---
+
 # 14.5 MEASURE CHANGE TECHNOLOGY  
 
 We introduce a relatively general framework and then apply the results to the simple example shown previously. Basically, we need three previously developed relationships. We let $t_{i}$ obey  

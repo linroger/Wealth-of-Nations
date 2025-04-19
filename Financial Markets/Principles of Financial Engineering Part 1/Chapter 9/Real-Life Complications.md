@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#delivery_mismatch'
-  - '#delta_gamma_vega'
-  - '#forward_contracts'
-  - '#futures_options'
-  - '#hedging_strategies'
-  - '#market_volatility'
-  - '#option_books'
-  - '#stochastic_interest_rates'
+  - black_scholes_model
+  - futures_contracts
+  - option_books
+  - option_greeks
+  - volatility
+aliases:
+  - Futures Options
+  - Market Complications
+  - Option Hedging
+  - Real World
+key_concepts:
+  - Black-Scholes shortcomings
+  - Futures as underlying
+  - Option book management
+  - Stochastic interest rates
+  - Volatility smile effects
 ---
+
 # 9.7 REAL-LIFE COMPLICATIONS  
 
 In actual markets, the issues discussed here should be applied with care, because there will be significant deviations from the theoretical Black-Scholes world. By convention, traders consider the Black-Scholes world as the benchmark to use, although its shortcomings are well known.  

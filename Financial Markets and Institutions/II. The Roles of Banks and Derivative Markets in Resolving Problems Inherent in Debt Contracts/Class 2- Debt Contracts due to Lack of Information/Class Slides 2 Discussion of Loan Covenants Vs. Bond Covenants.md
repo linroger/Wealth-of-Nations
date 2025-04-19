@@ -1,21 +1,27 @@
 ---
 cssclasses:
   - academia
-aliases: []
 linter-yaml-title-alias: Class Slides 2 Discussion of Loan [[Class Slides 2 Discussion
   of Loan Covenants Vs. Bond Covenants|Covenants]] Vs Bond Covenants
 title: Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 tags:
-  - '#bankruptcy_provisions'
-  - '#bond_covenants'
-  - '#borrower_obligations'
-  - '#default_events'
-  - '#event_of_default'
-  - '#indebtedness_default'
-  - '#loan_agreement'
-  - '#loan_covenants'
-  - '#material_adverse_change'
+  - bond_covenants
+  - default_events
+  - loan_agreements
+  - loan_covenants
+  - wellman_loans
+aliases:
+  - Bond Covenants
+  - Loan Covenants
+  - Loan vs Bond Covenants
+key_concepts:
+  - Borrower control by lenders
+  - Default under indebtedness
+  - Events of default
+  - Loan agreement default
+  - Loan covenants vs bond covenants
 ---
+
 # Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 
 [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Covenants]]

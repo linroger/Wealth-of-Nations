@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#arbitrage_free_binomial_tree'
-  - '#callable_bonds'
-  - '#coupon_bonds'
-  - '#derivative_pricing'
-  - '#fixed_income_securities'
-  - '#forward_rate_agreements'
-  - '#interest_rate_options'
-  - '#interest_rate_swaps'
-  - '#zero_coupon_bonds'
+  - arbitrage_free
+  - binomial_tree
+  - derivatives
+  - fixed_income
+  - interest_rate
+aliases:
+  - Chapter 28
+  - FRA
+  - Fixed-Income Pricing
+  - Swaptions
+key_concepts:
+  - Callable bonds
+  - Coupon bonds
+  - Interest rate options
+  - Interest rate swaps
+  - Zero-coupon bonds
 ---
+
 # CHAPTER 28 Pricing Fixed-Income Securities and Derivatives Using an Arbitrage-Free Binomial Tree
 
 # 493

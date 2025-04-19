@@ -7,15 +7,22 @@ clipped: 2024-10-25
 published:
 topics:
 tags:
-  - '#black_scholes_merton'
-  - '#bond_valuation'
-  - '#call_put_schedule'
-  - '#conversion_ratio'
-  - '#convertible_bonds'
-  - '#dividend_information'
-  - '#quantlib_python'
-  - '#redemption_amount'
+  - black_scholes
+  - bond_valuation
+  - convertible_bonds
+  - pricing_engine
+  - quantlib_python
+aliases:
+  - Convertible Bond Valuation
+  - QuantLib Example
+key_concepts:
+  - Black-Scholes-Merton process
+  - Call and put schedule
+  - QuantLib Python implementation
+  - Redemption amount scaling
+  - Valuing convertible bonds
 ---
+
 # Valuing Convertible Bonds Using QuantLib Python
 
 Provides an introduction to valuation of convertible bonds using QuantLib Python with a minimal example.

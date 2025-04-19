@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cppi'
-  - '#dppi'
-  - '#dynamic_portfolio_insurance'
-  - '#liquidity_risk'
-  - '#market_volatility'
-  - '#principal_protected_investments'
-  - '#risk_management'
-  - '#variable_leverage_ratio'
+  - cppi
+  - dppi
+  - leverage_ratio
+  - portfolio_insurance
+  - risk_management
+aliases:
+  - DPPI methodology
+  - PIMCO product
+  - Variable Proportion Portfolio Protection
+key_concepts:
+  - Dynamic portfolio insurance (DPPI)
+  - Market liquidity
+  - Risky asset exposure
+  - Swap curve parameters
+  - Variable leverage ratio
 ---
+
 # 23.7 A VARIANT: THE DPPI  
 
 Dynamic portfolio insurance (DPPI) methodology is a variation of the CPPI. The difference is that leverage is not constant but can change over time. Here is a brief example from the markets..  

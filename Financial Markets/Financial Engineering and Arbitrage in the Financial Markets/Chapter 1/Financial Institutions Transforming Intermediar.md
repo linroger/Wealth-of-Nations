@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#asset_transformers'
-  - '#balance_sheet_analysis'
-  - '#broker_dealers'
-  - '#capital_flow'
-  - '#disintermediation'
-  - '#financial_institutions'
-  - '#financial_regulation'
-  - '#investment_banking'
-  - '#regulatory_oversight'
-  - '#securitization'
+  - asset_transformers
+  - balance_sheets
+  - broker_dealers
+  - commercial_banks
+  - financial_institutions
+aliases:
+  - Asset Transformation
+  - Brokerage Firms
+  - Financial Intermediaries
+key_concepts:
+  - Asset transformation explained
+  - Balance sheet analysis
+  - Broker-dealer characteristics
+  - Commercial bank examples
+  - Customer-friendly liabilities
+  - Financial institutions roles
+  - Government insurance benefits
 ---
+
 # 1.5 FINANCIAL INSTITUTIONS: TRANSFORMING INTERMEDIARIES VS BROKER-DEALERS  
 
 From a macroeconomic perspective, financial institutions can be broadly divided into two categories based on their raison d' etre:  

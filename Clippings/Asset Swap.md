@@ -4,17 +4,27 @@ source: https://www.investopedia.com/terms/a/assetswap.asp
 description: An asset swap is a derivative contract where two parties exchange fixed
   and floating assets.
 tags:
-  - '#asset_swap'
-  - '#asset_swap_spread'
-  - '#bond_yield'
-  - '#credit_risk_hedging'
-  - '#derivative_contract'
-  - '#fixed_floating_assets'
-  - '#otc_contracts'
-  - '#plain_vanilla_swap'
-  - '#sofr'
-  - '#swap_rate'
+  - asset_swap
+  - credit_risk
+  - derivative_contract
+  - fixed_floating
+  - otc_contract
+aliases:
+  - Asset Swap
+  - Asset Swaps
+  - Protection Buyer
+  - Swap Contract
+key_concepts:
+  - Bond's yield and swap rate
+  - Convert long-term fixed assets
+  - Exchange fixed, floating assets
+  - Hedge currency, credit, interest
+  - Overlay fixed with floating
+  - SOFR-based overnight loans
+  - Transform financial instrument
 ---
+
+
 Definition
 
 An asset swap is a derivative contract where two parties exchange fixed and floating assets.

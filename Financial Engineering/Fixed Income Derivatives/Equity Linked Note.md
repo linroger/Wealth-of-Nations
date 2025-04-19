@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asian_option'
-  - '#bloomberg_analytics'
-  - '#call_option'
-  - '#equity_linked_note'
-  - '#option_premium'
-  - '#principal_guaranteed_structures'
-  - '#quanto_option'
-  - '#variable_participation'
-  - '#zero_coupon_bond'
+  - call_option
+  - equity_exposure
+  - equity_linked_notes
+  - principal_guaranteed
+  - zero_coupon_bond
+aliases:
+  - ELN
+  - Equity-linked note
+  - Principal Guaranteed Structures
+key_concepts:
+  - Bond with call option
+  - Downside protection
+  - Equity market participation
+  - Investment instrument
+  - Redemption amount calculation
 ---
+
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures
 

@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#all_in_cost'
-  - '#bond_issue'
-  - '#currency_swap'
-  - '#eurobond'
-  - '#fixed_rate_funds'
-  - '#floating_rate_funds'
-  - '#gbp_usd_swap'
-  - '#interest_rate_swap'
-  - '#swap_engineering'
+  - bond_issuance
+  - currency_swap
+  - euromarkets
+  - fixed_rate
+  - interest_rate_swap
+aliases:
+  - GBP/USD Swaps
+  - New Issue Swaps
+  - Swap Mechanics
+key_concepts:
+  - All-in-cost calculation
+  - Currency market considerations
+  - Effective cost of funds
+  - Floating rate Eurobond
+  - Interest rate swap engineering
+  - Internal rate of return
 ---
+
 # 6.9 MECHANICS OF SWAPPING NEW ISSUES  
 
 # 6.9.1 INTEREST RATE AND CURRENCY SWAP EXAMPLE  

@@ -1,14 +1,28 @@
 ---
 tags:
-  - '#central_clearing_party'
-  - '#contract_specifications'
-  - '#foreign_exchange_rates'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#futures_market_mechanics'
-  - '#hedging'
-  - '#margin_accounts'
+  - delivery
+  - exchange_rates
+  - foreign_exchange
+  - forward_contracts
+  - futures_contracts
+  - futures_price
+  - market_conventions
+  - settlement
+  - trading_mechanics
+aliases:
+  - Currency Contracts
+  - FX Contracts
+  - Forward Contracts
+  - Forwards vs Futures
+  - Futures Contracts
+key_concepts:
+  - Currency Exchange Quotes
+  - Daily Settlement Futures
+  - Forward vs. Futures Differences
+  - Over-the-counter Forward Market
+  - Standardized Futures Contracts
 ---
+
 # 2.11 FORWARD vs. FUTURES CONTRACTS  
 
 The main differences between forward and futures contracts are summarized in Table 2.3.   

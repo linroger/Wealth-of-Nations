@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#commodity_prices'
-  - '#delivery_month'
-  - '#futures_contracts'
-  - '#futures_markets'
-  - '#hedging_strategies'
-  - '#long_hedge'
-  - '#price_locking'
-  - '#risk_management'
-  - '#short_hedge'
-  - '#spot_price'
+  - commodity_prices
+  - exporter_risk
+  - futures_markets
+  - hedging_risk
+  - short_hedges
+aliases:
+  - Basic Principles
+  - Futures Position
+  - Short Hedge
+key_concepts:
+  - Exporter's risk mitigation
+  - Hedging with futures contracts
+  - Locking in a price
+  - Offsetting price risk
+  - Short futures position
 ---
+
 # 3.1 BASIC PRINCIPLES  
 
 When an individual or company chooses to use futures markets to hedge a risk, the objective is often to take a position that neutralizes the risk as far as possible. Consider a company that knows it will gain $\$10,000$ for each 1 cent increase in the price of a commodity over the next 3 months and lose $\$10,000$ for each 1 cent decrease in the price during the same period. To hedge, the company's treasurer should take a short futures position that is designed to offset this risk. The futures position should lead to a loss of $\$10,000$ for each 1 cent increase in the price of the commodity over the 3 months and a gain of $\$10,000$ for each 1 cent decrease in the price during this period. If the price of the commodity goes down, the gain on the futures position offsets the loss on the rest of the company's business. If the price of the commodity goes up, the loss on the futures position is offset by the gain on the rest of the company's business.  

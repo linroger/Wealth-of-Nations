@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_pricing_model'
-  - '#finite_state_space'
-  - '#infinite_state_space'
-  - '#probability_measure'
-  - '#probability_space'
-  - '#random_variable'
-  - '#state_space'
-  - '#uncertain_objects'
+  - asset_pricing
+  - probability_measure
+  - probability_space
+  - random_variable
+  - state_space
+aliases:
+  - Probability Model
+  - Probability Spaces
+key_concepts:
+  - Collection of events
+  - Possible outcomes
+  - Random variable on space
+  - Realization of uncertain objects
+  - State space for model
 ---
+
 # 2.2 Probability space  
 
 Any model with uncertainty refers to a probability space $(\Omega,{\mathcal{F}},\mathbb{P})$ , where  

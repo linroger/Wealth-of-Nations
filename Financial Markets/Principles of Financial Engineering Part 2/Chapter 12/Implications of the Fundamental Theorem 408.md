@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#expected_returns'
-  - '#fundamental_theorem_implications'
-  - '#martingale_property'
-  - '#martingales'
-  - '#risk_adjusted_probabilities'
-  - '#risk_neutral_probabilities'
-  - '#risk_premia'
-  - '#swap_measure'
+  - expected_returns
+  - fundamental_theorem
+  - martingale_property
+  - risk_adjusted_probabilities
+  - risk_premia
+aliases:
+  - FTAP implications
+  - Fundamental Theorem Implications
+key_concepts:
+  - Expected returns
+  - Martingale property
+  - Risk premia
+  - Risk-adjusted probabilities
+  - Risk-neutral probabilities
 ---
+
 # 12.5 Implications of the Fundamental Theorem. 408  
 
 12.5.1 Result 1: Risk-Adjusted Probabilities 408   

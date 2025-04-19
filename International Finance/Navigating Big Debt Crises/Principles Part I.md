@@ -1,19 +1,23 @@
 ---
 title: Principles Part I
-aliases: []
 cssclasses: academia
 tags:
-  - '#borrower_debtors'
-  - '#central_banks'
-  - '#credit_markets'
-  - '#debt_cycles'
-  - '#economic_cycles'
-  - '#fiat_money'
-  - '#financial_crises'
-  - '#lender_creditors'
-  - '#monetary_policy'
-  - '#principles_for_navigating_big_debt_crises'
+  - bridgewater
+  - debt_cycles
+  - economic_cycles
+  - financial_crisis
+  - principles
+aliases:
+  - Big Debt Crises
+  - Principles Part 1
+key_concepts:
+  - 2008 financial crisis
+  - mechanics of debt cycles
+  - money debt market cycles
+  - navigate big debt crises
+  - timeless universal mechanics
 ---
+
 # Principles Part I
 
 [Principles Part II](Principles%20Part%20II.md)

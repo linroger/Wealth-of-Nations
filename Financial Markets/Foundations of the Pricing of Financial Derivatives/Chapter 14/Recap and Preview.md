@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#derivatives_pricing'
-  - '#dividend_yield'
-  - '#girsanov_theorem'
-  - '#option_greeks'
-  - '#option_pricing'
-  - '#risk_neutral_measure'
-  - '#vanna'
+  - black_scholes_merton_model
+  - girsanov_theorem
+  - greeks
+  - option_pricing
+  - volatility
+aliases:
+  - Chapter 14
+  - Girsanov
+  - Preview
+  - Recap
+key_concepts:
+  - Calculus derivatives
+  - Extended Greeks
+  - Girsanov's theorem
+  - Option value sensitivities
+  - Risk-neutral measure
 ---
+
 # 14.11 RECAP AND PREVIEW
 
 In this chapter, we derived the calculus derivatives of the Black-Scholes-Merton model to obtain the Greeks, which are the sensitivities of the option value to the factors that go into the models. We further illustrate selected sensitivities of Greeks to changes in the asset price, volatility, and time to expiration. Finally, we introduce elasticities as well as selected extended Greeks.

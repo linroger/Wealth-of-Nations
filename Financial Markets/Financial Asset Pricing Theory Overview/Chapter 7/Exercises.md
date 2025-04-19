@@ -1,15 +1,36 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#brownian_motion'
-  - '#complete_markets'
-  - '#consumption_process'
-  - '#hark_utility'
-  - '#risk_aversion'
-  - '#state_price_deflator'
-  - '#time_additive_utility'
-  - '#utility_maximization'
+  - aggregate_consumption
+  - brownian_motion
+  - consumption
+  - discrete_time_economy
+  - market_completeness
+  - risk_aversion
+  - state_price
+  - state_price_deflator
+  - utility_function
+aliases:
+  - exercise 7.1
+  - exercise 7.2
+  - exercise 7.3
+  - exercise 7.4
+  - exercise 7.5
+  - exercise 7.6
+  - exercise 7.7
+key_concepts:
+  - Brownian motion
+  - European call options
+  - aggregate consumption dynamics
+  - extended log-utility
+  - market price of risk
+  - negative exponential utility
+  - risk-free rate
+  - state-contingent dividends
+  - state-price deflator
+  - time-additive expected utility
+  - utility of individuals
 ---
+
 # 7.5 Exercises  
 
 EXERCISE 7.1 Suppose $\eta_{1}$ and $\eta_{2}$ are strictly positive numbers and that $u_{1}(c)=u_{2}(c)=$ $c^{1-\gamma}/(1-\gamma)$ for any non-negative real number $c$ . Define the function $u_{\eta}:\mathbb{R}_{+}\to\mathbb{R}$ by  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#black_scholes_formula'
-  - '#equity_markets'
-  - '#gamma'
-  - '#implied_volatility'
-  - '#jump_diffusion_model'
-  - '#market_conventions'
-  - '#option_pricing'
-  - '#out_of_the_money_options'
-  - '#stochastic_volatility'
-  - '#volatility_smile'
+  - black_scholes_model
+  - implied_volatility
+  - market_maker
+  - option_pricing
+  - volatility_smile
+aliases:
+  - Smile Explanation
+  - Volatility Smile
+key_concepts:
+  - Black-Scholes formula validity
+  - Gamma and risk
+  - Implied volatility relationship
+  - Market conventions analogy
+  - Volatility smile phenomenon
 ---
+
 # 16.13 HOW TO EXPLAIN THE SMILE  
 
 The volatility smile is an empirical phenomenon that violates the assumptions of the. Black-Scholes world. At the same time, the volatility smile is related to the implied volatilities. obtained from the Black-Scholes formula. This may give rise to confusion. The smile suggests. that the Black-Scholes formula is not valid, while at the same time, the trader obtains the smile using the very same Black-Scholes formula. Is there an internal inconsistency?  

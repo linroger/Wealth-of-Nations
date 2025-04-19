@@ -1,20 +1,28 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Session 3
 tags:
-  - '#basis_arbitrage'
-  - '#bond_pricing'
-  - '#calibration_model'
-  - '#cds_pricing'
-  - '#credit_risk_valuation'
-  - '#default_probabilities'
-  - '#hazard_rate_model'
-  - '#isda_cds_model'
-  - '#model_edges'
-  - '#yield_spread_model'
+  - bond_pricing
+  - cds_pricing
+  - credit_markets
+  - default_probabilities
+  - hazard_rate
+  - risk_neutral
+aliases:
+  - Bond Valuation
+  - CDS
+  - Credit Derivatives
+  - Session 3
+key_concepts:
+  - Bond pricing formulas
+  - CDS cash flows
+  - Default probabilities
+  - Discount factor curve
+  - Forward interest rates
+  - Hazard rate model
+  - Recovery rate
+  - Risk neutral valuation
 ---
+
 # Credit Markets Session 3
 1. CDS pricing in the Hazard Rate Model
 	- CDS cash-flows

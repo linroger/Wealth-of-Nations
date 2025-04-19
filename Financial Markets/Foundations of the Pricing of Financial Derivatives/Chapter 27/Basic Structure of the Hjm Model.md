@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#drift_term'
-  - '#forward_rates'
-  - '#hjm_model'
-  - '#no_arbitrage'
-  - '#spot_rate'
-  - '#stochastic_volatility'
-  - '#volatility_structure'
-  - '#wiener_process'
-  - '#zero_coupon_bond'
+  - forward_rates
+  - hjm_model
+  - short_rate
+  - spot_rate
+  - zero_coupon_bond
+aliases:
+  - HJM
+  - Heath-Jarrow-Morton
+  - term structure model
+key_concepts:
+  - Forward interest rates
+  - HJM model structure
+  - Short rate
+  - Spot rate
+  - Zero-coupon bond pricing
 ---
+
 # 27.1 BASIC STRUCTURE OF THE HJM MODEL
 
 In contrast to most other term structure models, which are based on movements in spot interest rates, the HJM model is driven by movements in forward interest rates. We start by specifying that the model applies over a period of time $t\in[0,T]$ 2 Let $B(t,T)$ be the price of a zero-coupon bond at time $t$ that pays 1.0 at time $T.$ Define $f(t,T)$ as the continuously compounded forward rate observed at time $t$ for an instantaneous transaction to begin at time $T$ That is, based on the term structure in existence at time $t$ , we observe a forward rate for a transaction to start at $T$ and end an instant later.

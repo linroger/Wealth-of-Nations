@@ -1,21 +1,24 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Do Bondholders Lose From Junk Bond Covenant Changes.md
-  - Do Bondholders Lose From Junk Bond Covenant Changes
-  - Do Bondholders Lose From Junk Bond Covenant Changes?
 title: Do Bondholders Lose From Junk Bond Covenant Changes
 tags:
-  - '#abnormal_returns'
-  - '#bondholder_coordination'
-  - '#bondholder_returns'
-  - '#coercive_solicitations'
-  - '#consent_solicitation_process'
-  - '#covenant_changes'
-  - '#game_theoretic_analysis'
-  - '#junk_bonds'
+  - agency_costs
+  - bondholders
+  - consent_solicitations
+  - covenant_changes
+  - junk_bonds
+aliases:
+  - Junk Bond Covenants
+  - Kahan & Tuckman
+key_concepts:
+  - Agency costs of debt
+  - Bondholder loss from covenant changes
+  - Consent solicitations and bondholders
+  - Covenant renegotiation
+  - Game-theoretic model
 ---
+
 # Do Bondholders Lose From Junk Bond Covenant Changes
 
 Do Bondholders Lose from Junk Bond Covenant Changes?

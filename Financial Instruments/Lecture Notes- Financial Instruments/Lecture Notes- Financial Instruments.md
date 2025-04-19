@@ -1,9 +1,23 @@
 ---
 title: Lecture NotesFinancial Instruments
 tags:
-  - '#financial_instruments'
-  - '#lecture_notes'
+  - derivatives
+  - financial_instruments
+  - lecture_notes
+  - risk_management
+  - valuation
+aliases:
+  - Fin Instruments
+  - Financial Instruments
+  - Lecture Notes
+key_concepts:
+  - Derivatives and risk
+  - Financial instrument valuation
+  - Instrument types and pricing
+  - Lecture notes overview
+  - Risk management techniques
 ---
+
 # Lecture NotesFinancial Instruments
 
 %% Begin Waypoint %%

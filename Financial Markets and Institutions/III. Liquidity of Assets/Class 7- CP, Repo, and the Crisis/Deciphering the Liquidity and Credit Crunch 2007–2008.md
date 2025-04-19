@@ -1,21 +1,24 @@
 ---
 cssclasses: academia
-aliases:
-  - Deciphering the Liquidity and Credit Crunch 2007–2008
-  - Deciphering the Liquidity and Credit Crunch 2007–2008.md
 title: Deciphering the Liquidity and Credit Crunch 2007–2008
 tags:
-  - '#banking_industry'
-  - '#credit_default_swaps'
-  - '#financial_crisis_2008'
-  - '#funding_liquidity_risk'
-  - '#liquidity_crisis'
-  - '#mortgage_market'
-  - '#originate_and_distribute_model'
-  - '#regulatory_arbitrage'
-  - '#securitization'
-  - '#subprime_mortgages'
+  - credit_crunch
+  - federal_reserve
+  - financial_crisis
+  - mortgage_delinquencies
+  - ted_spread
+aliases:
+  - Credit Crisis 2007-2008
+  - Financial Turmoil
+  - Liquidity Crisis
+key_concepts:
+  - Federal Reserve actions
+  - Housing bubble burst
+  - Moody's rating downgrades
+  - Mortgage delinquencies impact
+  - Stock market decline
 ---
+
 # Deciphering the Liquidity and Credit Crunch 2007–2008
 
 Markus K. Brunnermeier

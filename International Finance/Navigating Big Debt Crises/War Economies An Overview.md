@@ -1,19 +1,24 @@
 ---
 title: 'War Economies: An Overview'
-aliases: []
 cssclasses: academia
 tags:
-  - '#currency_devaluation'
-  - '#debt_crises'
-  - '#debt_monetization'
-  - '#economic_cycles'
-  - '#geopolitical_cycles'
-  - '#german_hyperinflation'
-  - '#inflationary_depression'
-  - '#post_wwi_economy'
-  - '#treaty_of_versailles'
-  - '#war_economies'
+  - debt_crises
+  - economic_conflicts
+  - geopolitical_cycles
+  - military_conflicts
+  - war_economy
+aliases:
+  - Economic Conflicts
+  - War Economics
+  - War and Economy
+key_concepts:
+  - Consequences of war economies
+  - Dynamics of economic conflicts
+  - Economic and geopolitical cycles
+  - Long-term economic cycles
+  - War economy characteristics
 ---
+
 # War Economies: An Overview
 
 ## 1. Introduction to War Economies

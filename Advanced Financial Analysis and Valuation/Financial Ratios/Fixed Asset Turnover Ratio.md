@@ -2,19 +2,23 @@
 title: Fixed Asset Turnover Ratio
 cssclasses:
   - academia
-aliases:
-  - Fixed Asset Turnover
 tags:
-  - '#amazon_example'
-  - '#asset_management'
-  - '#comparative_analysis'
-  - '#fat_ratio'
-  - '#financial_ratio_analysis'
-  - '#fixed_asset_turnover_ratio'
-  - '#manufacturing_industry'
-  - '#pp_and_e'
-  - '#ratio_limitations'
+  - accounting_analysis
+  - asset_turnover
+  - financial_ratio
+  - fixed_asset_turnover
+  - manufacturing_industry
+aliases:
+  - FAT ratio
+  - Fixed Asset Turnover
+key_concepts:
+  - Company's total assets
+  - Compare historical ratios
+  - Fixed asset efficiency
+  - Generate revenue
+  - Limitations of the ratio
 ---
+
 # Fixed Asset Turnover Ratio
 
 The fixed asset balance is used as a net of accumulated depreciation. A higher [[Fixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]plesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]atio Explained With ExamplesFixed Asset Turnover Ratio Explained With ExamplesFixed Asset Turnover R[[Fixed Asset Turnover Ratio|Fixed Asset Turnover]]y's ability to generate solid profits or cash flows.

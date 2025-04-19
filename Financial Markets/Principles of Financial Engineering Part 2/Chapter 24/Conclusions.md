@@ -1,14 +1,25 @@
 ---
 tags:
-  - '#cds_market_quotes'
-  - '#counterparty_risk'
-  - '#cva'
-  - '#default_probabilities'
-  - '#derivatives_pricing'
-  - '#financial_engineering'
-  - '#model_risk'
-  - '#risk_magazine'
+  - accounting
+  - cds_market
+  - counterparty_risk
+  - cva
+  - derivatives_pricing
+  - financial_engineering
+  - fva
+  - model_risk
+  - risk_magazine
+aliases:
+  - Conclusions
+  - Counterparty Risk Review
+key_concepts:
+  - Best way of incorporating
+  - CVA as option
+  - Complex area
+  - Default probabilities from CDS
+  - Incorporate counterparty risk
 ---
+
 # 24.10 CONCLUSIONS  
 
 In this chapter, we have reviewed recent innovations in financial engineering and derivatives pricing related to counterparty risk. The discussion has shown that many of the tools from the toolkit developed in previous chapters can be applied in corporate counterparty risk. CVA can be viewed as an option on the residual value of a portfolio upon default. Default probabilities for the calculation of CVA can be backed out from CDS market quotes. Finally, the option to choose the type of eligible collateral also. At the same time, we have seen that this is a very new and complex area and it is likely that practitioners, accountants, regulators, and academics will debate the best way of incorporating counterparty risk into accounting statements, pricing approaches, and bank capital charges for years to come.  

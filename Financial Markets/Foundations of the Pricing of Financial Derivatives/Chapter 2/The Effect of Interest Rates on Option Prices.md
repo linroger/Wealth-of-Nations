@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#american_options'
-  - '#call_options'
-  - '#european_options'
-  - '#interest_rate_effect'
-  - '#option_exercise'
-  - '#option_pricing'
-  - '#put_options'
-  - '#risk_free_rate'
+  - american_options
+  - call_options
+  - interest_rates
+  - option_pricing
+  - put_options
+aliases:
+  - Interest Rate Impact
+  - Option Price Sensitivity
+key_concepts:
+  - American options explained
+  - Call options benefit from rates
+  - Early exercise neutral effect
+  - Interest rates affect options
+  - Put options are negatively affected
 ---
+
 # 2.10 THE EFFECT OF INTEREST RATES ON OPTION PRICES
 
 Interest rates impart a small but positive effect on call option prices and a small but negative effect on put option prices. Consider that the holder of a European call faces a payoff at. expiration of either zero or $S_{T}-X$ If interest rates increase, the value of the possible zero payoff is unaffected, but the present value of the $X$ dollars paid out if the option ends up in-the-money is less. Hence, a higher risk-free rate makes a European call option more valuable as the $S_{T}-P V(X)$ increases.

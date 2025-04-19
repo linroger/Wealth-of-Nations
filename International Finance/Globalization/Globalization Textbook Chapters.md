@@ -1,13 +1,25 @@
 ---
 cssclasses: academia
 title: Globalization Textbook Chapters
-aliases:
-  - GLOBALIZATION TEXTBOOK CHAPTERS
 linter-yaml-title-alias: GLOBALIZATION TEXTBOOK CHAPTERS
 tags:
-  - '#globalization_textbook'
-  - '#textbook_chapters'
+  - chapters
+  - finance_textbook
+  - globalization
+  - globalization_textbook
+  - textbook
+aliases:
+  - Globalization
+  - Globalization Chapters
+  - Textbook Chapters
+key_concepts:
+  - Financial markets impact
+  - Global economics overview
+  - Globalization definition
+  - Textbook chapter outline
+  - Trade and investment
 ---
+
 # Globalization Textbook Chapters
 
 %% Begin Waypoint %%

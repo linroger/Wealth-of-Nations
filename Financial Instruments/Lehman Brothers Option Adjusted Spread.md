@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_karasinsky_model'
-  - '#bond_implied_cds_spread'
-  - '#callable_bonds'
-  - '#credit_default_swap_cds'
-  - '#credit_risk_assessment'
-  - '#option_adjusted_spread_oas'
-  - '#stochastic_term_structure_model'
-  - '#volatility_skew'
-  - '#z_spread'
+  - corporate_bond
+  - credit_risk
+  - lehman_brothers
+  - option_adjusted_spread
+  - z_spread
+aliases:
+  - Lehman Brothers OAS
+  - OAS
+key_concepts:
+  - Callable corporate bond
+  - Discounted cash flow
+  - Treasury and LIBOR curves
+  - Z-spread of security
+  - Zero-coupon interest rates
 ---
+
 # Fixed Income Quantitative Credit Research  
 
 February 27, 2006  

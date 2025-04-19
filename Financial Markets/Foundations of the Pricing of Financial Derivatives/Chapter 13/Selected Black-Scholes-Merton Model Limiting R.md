@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#asset_price'
-  - '#black_scholes_merton_model'
-  - '#call_options'
-  - '#exercise_price'
-  - '#limiting_results'
-  - '#option_pricing'
-  - '#put_options'
-  - '#time_to_expiration'
-  - '#volatility'
+  - asset_price
+  - black_scholes_merton
+  - call_option
+  - option_pricing
+  - volatility
+aliases:
+  - BSM Model Limits
+  - Black-Scholes Limits
+key_concepts:
+  - Asset price to zero
+  - Call option value
+  - Exercise price to zero
+  - Time to expiration
+  - Volatility to infinity
 ---
+
 # 13.7 SELECTED BLACK-SCHOLES-MERTON MODEL LIMITING RESULTS
 
 In this section, we explore the Black-Scholes-Merton model for calls when the asset price tends to zero or positive infinity, time tends to zero, volatility tends to zero or to positive infinity, and the exercise price tends to zero. We assume the dividend yield is zero.

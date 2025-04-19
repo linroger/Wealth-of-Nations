@@ -1,3 +1,21 @@
+---
+tags:
+  - bond_markets
+  - coupon_bonds
+  - default_risk
+  - spot_yields
+  - zero_coupon_bonds
+aliases:
+  - Bond Pricing
+  - Chapter 9
+  - Yield to Maturity
+key_concepts:
+  - Coupon bond pricing
+  - Default risk in bonds
+  - Risk-free arbitrage profits
+  - Spot rates explained
+  - Zero-coupon bonds analysis
+---
 # Bond Markets  
 
 # Aims  

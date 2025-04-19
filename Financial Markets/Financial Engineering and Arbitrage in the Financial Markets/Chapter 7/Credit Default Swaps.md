@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#asset_swap_spread'
-  - '#corporate_bonds'
-  - '#credit_default_swaps'
-  - '#credit_linked_notes'
-  - '#credit_spread_options'
-  - '#default_risk'
-  - '#no_arbitrage'
-  - '#recovery_value'
-  - '#total_rate_of_return_swap'
+  - corporate_bonds
+  - credit_default_swaps
+  - credit_derivatives
+  - credit_risk
+  - floating_rate_bonds
+  - no_arbitrage
+aliases:
+  - CDS
+  - Credit Default Swap
+  - Default Insurance
+  - Protection Contract
+key_concepts:
+  - Default insurance arrangement
+  - No-arbitrage principle
+  - Periodic premium payments
+  - Protection buyer seller
+  - Reference issue default risk
 ---
+
 # 7.1 CREDIT DEFAULT SWAPS  
 
 More than two-thirds of all credit derivatives trading in the world are credit default swaps which insure the risk of default of a single bond issue or issuer. In this section, we describe the basic transaction, and relate it structurally to the floating rate bond in order to derive the fundamental no-arbitrage relationship for credit derivatives. We then show some common variants of the structure of the credit default swap.  

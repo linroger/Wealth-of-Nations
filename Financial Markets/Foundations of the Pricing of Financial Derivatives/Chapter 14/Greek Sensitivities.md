@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#call_delta'
-  - '#gamma'
-  - '#greek_sensitivities'
-  - '#option_sensitivities'
-  - '#option_values'
-  - '#put_call_parity'
-  - '#stock_price_changes'
-  - '#time_to_expiration'
-  - '#vega'
-  - '#volatility_changes'
+  - at_the_money
+  - call_option
+  - option_greeks
+  - option_sensitivity
+  - put_option
+aliases:
+  - Greeks Sensitivity
+  - Option Sensitivities
+key_concepts:
+  - Call and put parity
+  - Delta, Gamma, Vega
+  - Lognormal distribution assumption
+  - Option values and Greeks
+  - Time to expiration impact
+  - Volatility impact on Greeks
 ---
+
 # 14.8 GREEK SENSITIVITIES
 
 We now consider the sensitivities of option values and Greeks to changes in the underlying. For this illustration we start with options that have the following parameters,. $X=100$ $r_{c}=5.0\%$ $\sigma=30\%$ $T-t=1.0$ year, and $\delta=0.0\%$ . Figure 14.1 illustrates option values and Greeks over the stock price range from O to 200.

@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#derivatives'
-  - '#forward_risk_adjusted_probability_measures'
-  - '#numeraire'
-  - '#probability_measure'
-  - '#risk_adjusted_probability_measures'
-  - '#risk_neutral_probabilities'
-  - '#state_price_deflators'
+  - derivatives
+  - forward_measures
+  - probability_measures
+  - risk_neutral_probabilities
+  - state_price_deflators
+aliases:
+  - Chapter 11
+  - Chapter 12
+key_concepts:
+  - Changing numeraire
+  - Forward measures valuation
+  - General probability measures
+  - Risk-neutral probabilities
+  - State-price deflators
 ---
+
 # 11.1 Introduction . 279  
 
 11.2 Change of probability measure 279   

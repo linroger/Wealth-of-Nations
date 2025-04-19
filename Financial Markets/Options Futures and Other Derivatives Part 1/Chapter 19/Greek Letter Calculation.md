@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#binomial_tree_model'
-  - '#black_scholes_merton_model'
-  - '#european_options'
-  - '#greek_letter_calculation'
-  - '#implied_volatility'
-  - '#option_hedging'
-  - '#option_pricing_model'
-  - '#option_risk_management'
+  - binomial_tree_model
+  - black_scholes_model
+  - greek_letters
+  - implied_volatility
+  - option_pricing
+aliases:
+  - Greek Letter Analysis
+  - Option Risk Measures
+key_concepts:
+  - Binomial tree model
+  - Black-Scholes-Merton model
+  - Greek letters
+  - Implied volatility
+  - Option risk
 ---
+
 # 19.3 GREEK LETTER CALCULATION  
 
 Most traders use more sophisticated hedging procedures than those mentioned so far. These hedging procedures involve calculating measures such as delta, gamma, and vega. The measures are collectively referred to as Greek letters. They quantify different aspects of the risk in an option position. This chapter considers the properties of some of most important Greek letters.  

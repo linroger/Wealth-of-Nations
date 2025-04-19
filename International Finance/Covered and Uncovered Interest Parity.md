@@ -1,19 +1,25 @@
 ---
-aliases:
 cssclasses: academia
 title: Covered and Uncovered Interest Parity
 tags:
-  - '#arbitrage'
-  - '#cip_deviations'
-  - '#covered_interest_parity'
-  - '#exchange_rates'
-  - '#forward_contracts'
-  - '#interest_rates'
-  - '#international_finance'
-  - '#market_expectations'
-  - '#risk_premium'
-  - '#uncovered_interest_parity'
+  - covered_interest_parity
+  - exchange_rates
+  - interest_rates
+  - international_finance
+  - uncovered_interest_parity
+aliases:
+  - CIP
+  - FX Parity
+  - Interest Parity
+  - UIP
+key_concepts:
+  - Arbitrage in FX markets
+  - 'CIP: interest rate parity'
+  - Forward exchange contracts
+  - Risk premium deviations
+  - 'UIP: exchange rate expectations'
 ---
+
 # Covered and Uncovered Interest Parity
 
 Covered Interest Parity (CIP) and Uncovered Interest Parity (UIP) are two fundamental theories in international finance that describe the relationship between interest rates and exchange rates between two countries. Let’s delve into each of these concepts,  their mechanisms,  and their real-world validity.

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#actuarially_fair'
-  - '#asset_choice'
-  - '#certainty_equivalent'
-  - '#consumption_gamble'
-  - '#expected_utility_maximization'
-  - '#financial_asset'
-  - '#insurance_problem'
-  - '#power_utility'
-  - '#risk_aversion'
-  - '#risk_premium'
+  - exercises
+  - expected_utility
+  - insurance
+  - probability_distributions
+  - risk_aversion
+aliases:
+  - consumption plans
+  - exercise problems
+key_concepts:
+  - actuarially fair insurance
+  - expected utility maximization
+  - one-period choice problem
+  - probability distributions
+  - risk averse consumer
 ---
+
 # 5.8 Exercises  
 
 EXERCISE 5.1 Give a proof of Theorem 5.3.  

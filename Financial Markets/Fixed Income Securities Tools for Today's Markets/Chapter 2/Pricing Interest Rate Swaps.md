@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#discount_factors'
-  - '#fixed_leg'
-  - '#floating_rate_bond'
-  - '#interest_rate_swaps'
-  - '#notional_amount'
-  - '#par_rates'
-  - '#pricing_methodology'
-  - '#sofr_swap_rates'
-  - '#time_value_of_money'
+  - fixed_rate
+  - floating_rate
+  - interest_rate_swaps
+  - par_rates
+  - swap_pricing
+aliases:
+  - Fixed Leg
+  - Floating Leg
+  - IRS Pricing
+  - Par Rate
+  - Swap Valuation
+key_concepts:
+  - Fixed-rate bond
+  - Floating-rate bond
+  - Notional amounts
+  - Par rates
+  - Pricing swaps
 ---
+
 # 2.3 PRICING INTEREST RATE SWAPS  
 
 As mentioned before, it is convenient for pricing purposes to assume the fictional exchange of notional amounts depicted in Figure 2.1. First, an. exchange of notional amount does not change the value of the swap to either counterparty: paying $\$100$ million and receiving $\$100$ million at exactly the same moment has no value. Second, including the receipt of the fictional notional amount, Counterparty B's position very much resembles buying a fixed-rate bond: B receives an annual coupon and then, at maturity, receives a final "principal" payment. Third, including the receipt of the fictional notional amount, Counterparty A's position very much resembles buying a floating-rate bond, receiving interest that depends on interest rates as they evolve, and then receiving a final "principal" payment.  

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#forward_rate'
-  - '#hjm_model'
-  - '#ho_lee_model'
-  - '#hull_white_model'
-  - '#monte_carlo_simulation'
-  - '#risk_neutral_world'
-  - '#short_rate'
-  - '#term_structure_model'
-  - '#yield_curve_modeling'
-  - '#zero_coupon_bond'
+  - heath_jarrow_morton
+  - hjm_model
+  - no_arbitrage
+  - risk_free_bond
+  - yield_curve
+aliases:
+  - HJM
+  - Heath Jarrow Morton
+key_concepts:
+  - Forward rate
+  - HJM model
+  - No-arbitrage conditions
+  - Risk-free zero-coupon bond
+  - Yield curve model
 ---
+
 # 33.1 The heath, JArROw, And morton MOdel  
 
 In 1990 David Heath, Bob Jarrow, and Andy Morton (HJM) published an important paper describing the no-arbitrage conditions that must be satisfied by a model of the yield curve.' To describe their model, we will use the following notation:.  

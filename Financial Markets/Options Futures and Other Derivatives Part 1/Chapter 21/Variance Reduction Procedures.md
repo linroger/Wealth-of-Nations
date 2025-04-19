@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#antithetic_variable_technique'
-  - '#control_variate_technique'
-  - '#derivative_pricing'
-  - '#importance_sampling'
-  - '#moment_matching'
-  - '#monte_carlo_simulation'
-  - '#quasi_random_sequences'
-  - '#stratified_sampling'
-  - '#variance_reduction_procedures'
+  - antithetic_variable
+  - control_variate
+  - importance_sampling
+  - stratified_sampling
+  - variance_reduction
+aliases:
+  - Antithetic Variable
+  - Control Variate
+  - Importance Sampling
+  - Stratified Sampling
+  - Variance Reduction
+key_concepts:
+  - antithetic variable technique
+  - control variate technique
+  - importance sampling example
+  - reduce computation time
+  - sampling representative values
 ---
+
 # 21.7 VARIANCE REDUCTION PROCEDURES  
 
 If the stochastic processes for the variables underlying a derivative are simulated as. indicated in equations (21.13) to (21.18), a very large number of trials is usually  

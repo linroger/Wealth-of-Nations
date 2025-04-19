@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#continuous_time_framework'
-  - '#fisher_relation'
-  - '#inflation_rate'
-  - '#lognormal_setting'
-  - '#nominal_dividends'
-  - '#real_dividends'
-  - '#real_vs_nominal_prices'
-  - '#risk_free_return'
-  - '#state_price_deflator'
+  - nominal_dividends
+  - nominal_prices
+  - real_dividends
+  - real_prices
+  - state_price_deflator
+aliases:
+  - Inflation and Returns
+  - Real vs. Nominal
+  - State-Price Deflators
+key_concepts:
+  - Inflation Rate Calculation
+  - Lognormal Setting Returns
+  - Nominal vs Real Dividends
+  - Real and Nominal Returns
+  - State-Price Deflator Definition
 ---
+
 # 4.5 Nominal and real state-price deflators  
 
 It is important to distinguish between real and nominal dividends and prices. A nominal dividend [price] is the dividend [price] in units of a given currency, e.g. US dollars or Euros. The corresponding real dividend [price] is the number of units of consumption goods which can be purchased for the nominal dividend [price]. For simplicity assume that the economy only offers a single con-. sumption good and let $F_{t}$ denote the price of the good in currency units at time $t$ . (More broadly we can think of $F_{t}$ as the value of the Consumer Price Index at time $t$ ) A nominal dividend of $\tilde{D}_{t}$ then corresponds to a real dividend of $D_{t}=\tilde{D}_{t}/F_{t}$ . A nominal price of $\tilde{P}_{t}$ corresponds to a real price of $P_{t}=\tilde{P}_{t}/F_{t}$  

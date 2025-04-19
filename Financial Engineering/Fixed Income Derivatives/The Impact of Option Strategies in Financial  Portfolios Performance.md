@@ -1,15 +1,26 @@
 ---
 tags:
-  - '#capm_statistics'
-  - '#covered_call'
-  - '#french_market'
-  - '#mean_variance_analysis'
-  - '#option_strategies'
-  - '#portfolio_performance'
-  - '#protective_put'
-  - '#risk_management'
-  - '#stochastic_dominance'
+  - covered_call
+  - french_data
+  - it_m
+  - mean_variance
+  - option_strategies
+  - otm
+  - portfolio_performance
+  - protective_put
+  - stochastic_dominance
+aliases:
+  - Option Strategy Impact
+  - Portfolio Performance Analysis
+key_concepts:
+  - Covered call writing
+  - Mean-variance criterion
+  - Option strategies performance
+  - Portfolio management
+  - Protective put buying
+  - Stochastic dominance analysis
 ---
+
 # The Impact of Option Strategies in Financial  Portfolios Performance
 # The Impact of Option Strategies in Financial  Portfolios Performance: Mean-Variance and  Stochastic Dominance Approaches
 # THE IMPACT OF OPTION STRATEGIES IN FINANCIAL PORTFOLIOS  PERFORMANCE: MEAN-VARIANCE AND STOCHASTIC DOMINANCE  APPROACHES

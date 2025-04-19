@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#implementation_shortfall'
-  - '#investment_portfolio_performance'
-  - '#market_timing'
-  - '#net_asset_value_nav'
-  - '#portfolio_benchmarking'
-  - '#risk_adjusted_performance'
-  - '#trade_evaluation'
-  - '#trading_strategies'
-  - '#value_at_risk_var'
-  - '#volume_weighted_average_price_vwap'
+  - investment_portfolio
+  - net_asset_value
+  - portfolio_performance
+  - risk_assessment
+  - trading_strategies
+aliases:
+  - Portfolio Performance Analysis
+  - Trading Strategy Evaluation
+key_concepts:
+  - Buy and hold strategy
+  - Investment system
+  - Net asset value (NAV)
+  - Portfolio decision performance
+  - Risk and return
 ---
+
 # Evaluating Trading Strategies and Performance  
 
 # 10.1 EVALUATING INVESTMENT PORTFOLIO PERFORMANCE  

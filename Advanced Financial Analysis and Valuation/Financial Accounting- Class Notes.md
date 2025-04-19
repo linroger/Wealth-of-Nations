@@ -1,19 +1,38 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#accounting_principles'
-  - '#accounts_receivable'
-  - '#balance_sheet'
-  - '#cash_flow_statement'
-  - '#financial_accounting'
-  - '#financial_statements'
-  - '#gaap'
-  - '#income_statement'
-  - '#inventory'
-  - '#revenue_recognition'
+  - accounting_principles
+  - class_notes
+  - financial_accounting
+  - financial_analysis
+  - financial_markets
+  - financial_reporting
+  - financial_statements
+  - gaap
+  - sec
+aliases:
+  - Accounting Notes
+  - Class 1
+  - Class Notes
+  - Financial Accounting Notes
+key_concepts:
+  - 'Accounting: language of business'
+  - Attributes of accounting system
+  - Decision Usefulness
+  - Entity Concept
+  - Financial accounting and reporting
+  - Financial statements provide info
+  - Generally Accepted Accounting Principles
+  - Going concern assumption
+  - Investing activities
+  - Key players in reporting
+  - Managerial accounting and reporting
+  - Monetary measurement concept
+  - Operating activities
+  - Role of financial reporting
+  - Sources of capital
+  - Tax accounting and reporting
 ---
+
 # FINANCIAL ACCOUNTING: CLASS NOTES
 ## 1. LECTURE 1
 ### 1.1 FINANCIAL ACCOUNTING

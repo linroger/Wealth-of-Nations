@@ -4,17 +4,24 @@ source: https://www.investopedia.com/terms/s/securitization.asp
 description: Securitization pools assets and repackages them into interest-bearing
   securities.
 tags:
-  - '#asset_backed_securities'
-  - '#collateralized_debt_obligations'
-  - '#credit_enhancement'
-  - '#financial_instruments'
-  - '#liquidity'
-  - '#mortgage_backed_securities'
-  - '#risk_management'
-  - '#securitization'
-  - '#special_purpose_vehicle'
-  - '#tranches'
+  - asset_backed_securities
+  - financial_instruments
+  - mortgage_backed_securities
+  - risk_diversification
+  - securitization
+aliases:
+  - ABS
+  - MBS
+  - asset pooling
+  - debt repackaging
+key_concepts:
+  - Backed by home loans
+  - Backed by various loans
+  - Creates marketable instruments
+  - Investors receive principal, interest
+  - Pools assets, repackages them
 ---
+
 Definition
 
 Securitization pools assets and repackages them into interest-bearing securities.

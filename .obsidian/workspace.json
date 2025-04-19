@@ -107,9 +107,19 @@
             "id": "9e9a1f77ede3d170",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "050a887f0962f125",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
+                "file": "Python Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +134,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Futures Markets"
+              "title": "Python Notes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -283,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clippings/Contract for Differences (CFD) - Overview and Examples.md"
+                "file": "Python Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Contract for Differences (CFD) - Overview and Examples"
+              "title": "File properties for Python Notes"
             }
           },
           {
@@ -295,12 +305,12 @@
             "state": {
               "type": "hierarchical-backlinks",
               "state": {},
-              "icon": "links-coming-in",
-              "title": "Hierarchical backlinks"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -308,7 +318,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obisidian-note-linker:Note Linker": false,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
       "command-palette:Open command palette": false,
@@ -321,18 +330,25 @@
       "math-indicator-changer:Change math indicator": false,
       "broken-links:View broken links": false,
       "formatto-format:Format Document": false,
-      "jupyter:Start Jupyter Server": true,
-      "jupyter:Create Jupyter Notebook": true,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false,
       "hide-folders:Show hidden folders": false,
-      "ai-tagger:Generate tags!": true,
-      "llm-tagger:LLM Tagger": true,
-      "github-sync:Sync with Remote": false,
+      "obisidian-note-linker:Note Linker": false,
+      "ai-tagger:Generate tags!": false,
       "ai-tagger-universe:Analyze and tag current note": false,
-      "ai-tagger-universe:View tag relationships network": false
+      "ai-tagger-universe:View tag relationships network": false,
+      "llm-tagger:LLM Tagger": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "9e9a1f77ede3d170",
+  "active": "050a887f0962f125",
   "lastOpenFiles": [
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/An Application 401.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/The Framework 396.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Principles of Financial Engineering Part1.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 1/A Money Market Problem.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 1/Chapter 1.md",
+    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
     "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 1 - Derivative Securities.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
     "Financial Engineering/Financial Engineering.md",
@@ -354,12 +370,6 @@
     "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
     "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 8/An Enhanced Method for Estimating Delta and Gam.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 12/Arbitrage-Free Dynamics.md",
-    "International Finance/Navigating Big Debt Crises/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Theory Meets Data - Asset Pricing Puzzles.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",

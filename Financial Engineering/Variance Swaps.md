@@ -1,16 +1,29 @@
 ---
 tags:
-  - '#convexity'
-  - '#forward_variance'
-  - '#hedging'
-  - '#market_making'
-  - '#replication'
-  - '#skew'
-  - '#variance_swaps'
-  - '#volatility'
-  - '#volatility_risk_premium'
-  - '#volatility_trading'
+  - equity_indices
+  - hedging
+  - option_pricing
+  - relative_value_trading
+  - variance_swaps
+  - volatility
+  - volatility_view
+aliases:
+  - Variance Swap
+  - Variance Swap Market
+  - Volatility Swap
+key_concepts:
+  - Delta hedging portfolio
+  - Exploiting volatility view
+  - Exposure to underlying volatility
+  - Generating alpha
+  - Hedging volatility exposures
+  - Market development
+  - Replicating with options
+  - Small premium to ATM
+  - Trading forward volatility
+  - Variance swap mechanics
 ---
+
 # Variance Swaps
 
 Variance swaps offer straightforward and direct exposure to the volatility of an underlying.  

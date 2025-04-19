@@ -1,19 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases: []
 title: Class Notes 2 – Corporate Bond Contracts
 tags:
-  - '#bondholder_rights'
-  - '#contract_modification'
-  - '#corporate_bond_contracts'
-  - '#covenants'
-  - '#defeasance'
-  - '#events_of_default'
-  - '#indentures'
-  - '#optional_redemption'
-  - '#trustee_role'
+  - bondholder_rights
+  - corporate_bond_contracts
+  - indentures
+  - optional_redemption
+  - prospectus
+aliases:
+  - Bond Contracts
+  - Bond Indentures
+  - Corporate Bonds
+key_concepts:
+  - bond legal contracts
+  - bondholder get out
+  - optional redemption
+  - present value calculation
+  - rights responsibilities
 ---
+
 # Class Notes 2 – Corporate Bond Contracts
 
 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]

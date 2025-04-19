@@ -1,15 +1,22 @@
 ---
 title: Appendix 18. B Constructing a Normal Probability Plot
-aliases:
-  - Constructing a Normal Probability Plot
 tags:
-  - '#cumulative_inverse_distribution'
-  - '#data_analysis'
-  - '#normal_distribution'
-  - '#normal_probability_plot'
-  - '#quantile'
-  - '#z_value'
+  - cumulative_inverse
+  - data_analysis
+  - normal_distribution
+  - probability_plot
+  - quantile
+aliases:
+  - NPP
+  - Normal Probability Plot
+key_concepts:
+  - Compare data quantiles
+  - Cumulative inverse function
+  - Data point plotting
+  - Normal probability plot
+  - Standard normal distribution
 ---
+
 # Appendix 18. B Constructing a Normal Probability Plot
 
 This appendix discusses the details of constructing the normal probability plot for the data in Example 18.9. The idea of the normal probability plot is to compare the quantiles of the data with the corresponding quantiles of the normal distribution. Because the shape of the normal distribution is the same whatever the mean and variance,  we know that the relative distance of normal quantiles will be the same for any normal distribution. For a $\mathcal{N}(0,     1)$ distribution,  the cumulative inverse distribution function tells us which $A$ value corresponds to a particular quantile. For example,  $N^{-1}(0.1)=-1.282$ and $N^{-1}(0.3)=-0.524$ . The distance between the $\lambda$ values that give rise to the data quantiles is

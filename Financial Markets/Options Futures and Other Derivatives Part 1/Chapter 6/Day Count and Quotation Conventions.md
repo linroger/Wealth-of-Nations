@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#accrued_interest'
-  - '#actual_actual_in_period'
-  - '#bond_valuation'
-  - '#corporate_bonds'
-  - '#day_count_conventions'
-  - '#interest_calculation'
-  - '#money_market_instruments'
-  - '#price_quotations'
-  - '#thirty_360'
-  - '#treasury_bonds'
+  - 30_360_convention
+  - actual_actual
+  - day_count_conventions
+  - price_quotations
+  - treasury_bonds
+aliases:
+  - Day Count
+  - Day Counts
+  - Quotation Conventions
+  - Treasury Bonds
+key_concepts:
+  - 30/360 day count
+  - Actual/actual (in period)
+  - Day count conventions
+  - Day count defines interest
+  - Interest accrues over time
+  - Treasury bond prices
 ---
+
 # 6.1 DAY COUNT AND QUOTATION CONVENTIONS  
 
 As a preliminary to the material in this chapter, we consider the day count and quotation conventions that apply to bonds and other instruments dependent on interest rates.  

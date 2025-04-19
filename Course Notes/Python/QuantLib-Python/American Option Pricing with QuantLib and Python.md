@@ -3,15 +3,22 @@ title: American Option Pricing with QuantLib and Python
 source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
 description: This post explains valuing American Options using QuantLib and Python
 tags:
-  - '#aapl_options'
-  - '#american_option_pricing'
-  - '#binomial_engine'
-  - '#black_scholes_merton'
-  - '#european_option_pricing'
-  - '#option_valuation'
-  - '#python'
-  - '#quantlib'
+  - american_option_pricing
+  - binomial_engine
+  - european_option
+  - python
+  - quantlib
+aliases:
+  - AAPL Option Pricing
+  - Option Valuation
+key_concepts:
+  - American option valuation
+  - Binomial tree approach
+  - Black-Scholes-Merton process
+  - European option pricing
+  - QuantLib and Python
 ---
+
 # American Option Pricing with QuantLib and Python
 
 This post explains valuing American Options using QuantLib and Python

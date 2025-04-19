@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#accounting_standards'
-  - '#capital_gains_losses'
-  - '#fas_133_asc_815'
-  - '#futures_contracts'
-  - '#hedge_accounting'
-  - '#hedging_transactions'
-  - '#ias_39_ifrs_9'
-  - '#mark_to_market_rule'
-  - '#ordinary_income'
-  - '#tax_treatment'
+  - accounting_standards
+  - capital_gains
+  - futures_contracts
+  - hedge_accounting
+  - tax_treatment
+aliases:
+  - Accounting and Tax
+  - Capital Gains
+  - Futures Contracts
+  - Hedge Accounting
+  - Tax Treatment
+key_concepts:
+  - Accounting standards
+  - Futures contract treatment
+  - Hedge accounting
+  - Hedging transactions
+  - Tax regulations
 ---
+
 # 2.10 ACCOUNTING AND TAX  
 
 The full details of the accounting and tax treatment of futures contracts are beyond the scope of this book. A trader who wants detailed information on this should obtain professional advice. This section provides some general background information.  

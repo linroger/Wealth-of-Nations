@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#borrowing_costs'
-  - '#comparative_advantage'
-  - '#currency_swap'
-  - '#currency_swap_example'
-  - '#financial_institution'
-  - '#fixed_for_fixed_currency_swap'
-  - '#foreign_exchange_risk'
-  - '#interest_rate_payments'
-  - '#principal_exchange'
+  - currency_swap
+  - exchange_rate
+  - fixed_for_fixed_swaps
+  - interest_payments
+  - principal_payments
+aliases:
+  - Currency Swap
+  - Fixed Currency Swap
+  - Fixed-for-Fixed Swap
+key_concepts:
+  - British Petroleum and Barclays
+  - Convert assets nature
+  - Exchange principal and interest
+  - Fixed rate in each currency
+  - Principal exchanged at start/end
 ---
+
 # 7.8 FIXED-FOR-FIXED CURRENCY SWAPS  
 
 Another popular type of swap is a fixed-for-fixed currency swap. This involves exchang-. ing principal and interest payments at a fixed rate in one currency for principal and interest payments at a fixed rate in another currency..  

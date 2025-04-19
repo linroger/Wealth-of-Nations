@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#american_call_options'
-  - '#american_put_options'
-  - '#asset_price_redefinition'
-  - '#continuous_yield'
-  - '#discrete_dividends'
-  - '#dividends_and_early_exercise'
-  - '#option_exercise_value'
+  - american_options
+  - asset_pricing
+  - dividends
+  - early_exercise
+  - option_pricing
+aliases:
+  - Dividends and Early Exercise
+  - Early Exercise of Options
+key_concepts:
+  - Dividends and stock options
+  - Early exercise American calls
+  - High dividends, low volatility
+  - Option exercise value
+  - Put boundary conditions
 ---
+
 # 24.5 DIVIDENDS AND EARLY EXERCISE
 
 If the asset is a stock and there are dividends, the procedure is slightly more complex. If we assume a continuous, constant yield of $\delta_{c}$ , the first term in the partial differential equation is changed slightly with $r_{c}-\delta_{c}$ replacing $r_{c}$ . Then S is redefined as $S e^{-\delta_{c}\tau}$ . If we assume discrete dividends, the partial differential equation is the same as the no-dividend case,. but the asset price is redefined as the asset price less the present value of the dividends..

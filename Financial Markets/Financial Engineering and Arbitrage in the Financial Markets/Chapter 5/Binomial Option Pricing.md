@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#american_options'
-  - '#binomial_option_pricing'
-  - '#hedge_ratio'
-  - '#multistep_example'
-  - '#option_hedging'
-  - '#option_payoff'
-  - '#option_premium'
-  - '#risk_neutral_probability'
+  - american_option
+  - binomial_option_pricing
+  - european_option
+  - option_payoff
+  - option_pricing
+aliases:
+  - Binomial Model
+  - Option Premium
+  - Payoff Manufacturing
+key_concepts:
+  - Binomial tree examples
+  - Dealer's cost of manufacturing
+  - Hedge ratio calculation
+  - Payoff manufacturing mechanics
+  - Risk-neutral probability
 ---
+
 # 5.6  BINOMIAL OPTION PRICING  
 
 The option premium charged by a dealer reflects his cost of manufacturing the payoff. The dealer sells (or buys) the option, and then borrows or lends money and takes a partial position. in the underlying asset. By the expiry time his hedge is worth exactly the same as the payoff on the option he owes or receives. We will illustrate the mechanics of payoff manufacturing. with increasingly more revealing examples of binomial trees.? All examples use stocks, but. are equally applicable to other traded assets.  

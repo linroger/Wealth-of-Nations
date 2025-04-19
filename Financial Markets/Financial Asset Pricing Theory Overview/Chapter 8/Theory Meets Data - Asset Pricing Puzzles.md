@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#asset_pricing_puzzles'
-  - '#consumption_based_model'
-  - '#consumption_volatility'
-  - '#cross_sectional_stock_return_puzzle'
-  - '#empirical_tests'
-  - '#equity_premium_puzzle'
-  - '#interest_rate_puzzle'
-  - '#predictability_puzzle'
-  - '#risk_aversion_coefficient'
+  - asset_pricing
+  - consumption_model
+  - empirical_tests
+  - equity_premium
+  - risk_aversion
+aliases:
+  - Asset Pricing
+  - Consumption-Based Model
+  - Equity Premium Puzzle
+key_concepts:
+  - Asset pricing puzzles
+  - Consumption-based model tests
+  - Equity premium
+  - Historical average returns
+  - Relative risk aversion coefficient
 ---
+
 # 8.5 Theory meets data - asset pricing puzzles  
 
 The simple consumption-based model has been exposed to numerous empirical tests. Almost all of these tests focus on the question whether the relation (8.33)-or the similar discrete-time relation (8.30)-holds for a broad-based stock index for reasonable values of the relative risk aversion coefficient. Let us use the following stylized figures that are roughly representative for the U.S. economy over the second half of the 20th century:  

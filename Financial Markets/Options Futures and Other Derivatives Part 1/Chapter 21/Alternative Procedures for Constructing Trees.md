@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#adaptive_mesh_model'
-  - '#alternative_tree_building_procedure'
-  - '#american_call_option'
-  - '#binomial_tree'
-  - '#foreign_currency_option'
-  - '#option_valuation'
-  - '#risk_neutral_world'
-  - '#trinomial_trees'
+  - american_option
+  - binomial_tree
+  - foreign_currency
+  - option_pricing
+  - risk_neutral
+aliases:
+  - Binomial Tree
+  - CRR approach
+key_concepts:
+  - Alternative tree building
+  - American call option
+  - Option price calculation
+  - Risk-neutral world
+  - Spot exchange rate
 ---
+
 # 21.4 ALTERNATIVE PROCEDURES FOR CONSTRUCTING TREES  
 
 The Cox, Ross, and Rubinstein approach described so far is not the only way of building a binomial tree. The change in ln $S$ in time $\Delta t$ in a risk-neutral world has mean $(r-q-\sigma^{2}/2)\Delta t$ and standard deviation $\sigma\sqrt{\Delta t}$ These can be matched by setting $p=0.5$ and  

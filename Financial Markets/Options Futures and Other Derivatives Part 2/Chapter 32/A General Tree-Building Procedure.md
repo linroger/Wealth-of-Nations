@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#american_options'
-  - '#black_karasinski_model'
-  - '#bond_options'
-  - '#hull_white_model'
-  - '#interest_rate_modeling'
-  - '#risk_free_rate'
-  - '#term_structure'
-  - '#tree_construction'
-  - '#zero_coupon_bonds'
+  - hull_white_model
+  - interest_rate_models
+  - one_factor_models
+  - tree_construction
+  - trinomial_tree
+aliases:
+  - Hull-White Procedure
+  - Tree Building
+  - Trinomial Tree Construction
+key_concepts:
+  - Branching probabilities
+  - Error minimization
+  - Hull-White model
+  - One-factor models
+  - Short rate process
+  - Trinomial tree
 ---
+
 # 32.5 A GENERAL TREE-BUILDING PROCEDURE  
 
 Hull and White have proposed a robust two-stage procedure for constructing trinomial. trees to represent a wide range of one-factor models.' This section first explains how the procedure can be used for the Hull-White model in equation (32.4) and then shows. how it can be extended to represent other models, such as Black-Karasinski..  

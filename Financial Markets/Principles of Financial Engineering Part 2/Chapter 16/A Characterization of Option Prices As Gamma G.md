@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#black_scholes_pde'
-  - '#breeden_litzenberger'
-  - '#gamma_gains'
-  - '#option_hedging'
-  - '#option_pricing'
-  - '#option_time_value'
-  - '#risk_adjusted_density'
-  - '#tanaka_formula'
+  - black_scholes_pde
+  - breeden_litzenberger
+  - gamma_hedging
+  - option_pricing
+  - tanaka_formula
+aliases:
+  - Gamma Gains
+  - Option Characterization
+key_concepts:
+  - Black-Scholes PDE
+  - Tanaka's formula
+  - gamma hedging gains
+  - option pricing
+  - risk-adjusted density
 ---
+
 # 16.7 A CHARACTERIZATION OF OPTION PRICES AS GAMMA GAINS  
 
 The question then is, how does a trader "characterize" an option using these hedging gains? First of all, in liquid option markets the order flow determines the price and the trader does not have to go through a pricing exercise. But still, can we use these trading gains to represent the frame of mind of an options trader?  

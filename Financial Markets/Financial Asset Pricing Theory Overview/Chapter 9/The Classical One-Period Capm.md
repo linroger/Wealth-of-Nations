@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#classical_capm'
-  - '#intertemporal_capm'
-  - '#market_portfolio'
-  - '#mean_variance_analysis'
-  - '#normally_distributed_returns'
-  - '#quadratic_utility'
-  - '#state_price_deflator'
-  - '#stein_lemma'
+  - asset_pricing
+  - capm
+  - market_portfolio
+  - mean_variance
+  - quadratic_utility
+aliases:
+  - Capital Asset Pricing Model
+  - Sharpe-Lintner-Mossin Model
+key_concepts:
+  - Classical CAPM
+  - Consumption-based asset pricing
+  - Market portfolio return
+  - Mean-variance analysis
+  - Quadratic utility function
 ---
+
 # 9.2 The classical one-period CAPM  
 
 The classical CAPM developed by Sharpe (1964), Lintner (1965), and Mossin (1966) says that return on the market portfolio is a pricing factor so that.  

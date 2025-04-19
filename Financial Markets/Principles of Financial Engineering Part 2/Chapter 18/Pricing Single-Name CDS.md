@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#aig_and_cds'
-  - '#cds_pricing'
-  - '#cds_valuation_example'
-  - '#default_intensity_approach'
-  - '#gfc_and_cds'
-  - '#isda_model'
-  - '#real_world_complications'
-  - '#single_name_cds'
-  - '#survival_probabilities'
+  - cds_pricing
+  - discount_rates
+  - protection_leg
+  - single_name_cds
+  - survival_probabilities
+aliases:
+  - CDS Valuation
+  - Credit Default Swap Pricing
+key_concepts:
+  - CDS valuation example
+  - Discount rates
+  - Protection buyer payments
+  - Protection seller payments
+  - Survival probabilities
 ---
+
 # 18.7 PRICING SINGLE-NAME CDS  
 
 The basic approach to pricing CDS is relatively simple, but there are real-world market conventions that have to be taken into account in practice. We first present a simplified CDS pricing example before reviewing market conventions and how they affect pricing.  

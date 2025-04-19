@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#adapted_process'
-  - '#continuous_value_process'
-  - '#discrete_value_process'
-  - '#information_filtration'
-  - '#markov_process'
-  - '#martingale'
-  - '#random_variable'
-  - '#stochastic_process'
+  - adapted_process
+  - information_filtration
+  - multi_period_model
+  - random_variable
+  - stochastic_process
+aliases:
+  - Stochastic Process Definition
+  - Stochastic Process Notation
+  - Stochastic Process Terminology
+key_concepts:
+  - Adapted stochastic process
+  - Information filtration
+  - Multi-period models
+  - Random variable representation
+  - Stochastic process definition
 ---
+
 # 2.4 Stochastic processes: definition, notation, and terminology  
 
 In one-period models all uncertain objects can be represented by a random variable. For example the dividend (at time 1) of a given asset is a random variable. In multi-period models we have to keep track of dividends, asset prices, consumption, portfolios, (labor) income, etc., throughout the time set $\mathcal{T}$ . For example the dividend of a given asset, say asset $i$ , at a particular future date $t\in\mathbb{T}$ can be represented by a random variable. $D_{i t}$ . Recall that, formally, a random variable is a function from the state space $\Omega$ into $\mathbb{R}$ , the set of real numbers. To represent the dividends of an asset throughout all dates, we need a collection of random variables, one for each date. Such a collection is called a stochastic process. (We will often just write "process" instead of "stochastic process.") The dividend of asset $i$ is thus represented by a stochastic process $D_{i}=(D_{i t})_{t\in\ensuremath{\mathbb{T}}}$ , where each $D_{i t}$ is a random variable. We can form multi-dimensional stochastic processes by stacking one-dimensional stochastic processes. For example, we can represent the dividends of $I$ assets by an $I$ -dimensional stochastic process $\pmb{D}=(\pmb{D}_{t})_{t\in\mathcal{T}}$ , where $\boldsymbol{D}_{t}=(D_{1t},\dots,D_{I t})^{\intercal}$  

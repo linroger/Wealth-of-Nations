@@ -1,18 +1,25 @@
 ---
-aliases:
-  - Inflation-Indexed Securities Pricing
-  - Inflation Risk Framework
 tags:
-  - '#bond_price_models'
-  - '#cox_ingersoll_ross_cir_model'
-  - '#inflation_dynamics'
-  - '#inflation_indexed_securities'
-  - '#no_arbitrage_framework'
-  - '#pricing_framework'
-  - '#risk_metric_analysis'
-  - '#stochastic_modeling'
-  - '#vasicek_model'
+  - academic_finance_journals
+  - bond_price_models
+  - inflation_dynamics
+  - inflation_indexed_securities
+  - no_arbitrage_valuation
+  - risk_metrics
+  - short_rate_models
+  - stochastic_modeling
+aliases:
+  - Inflation-Indexed
+  - Pricing Framework
+  - Risk Metric Analysis
+key_concepts:
+  - Bond Price Models
+  - No-arbitrage framework
+  - Pricing mechanisms
+  - Risk metric analysis
+  - Stochastic modeling
 ---
+
 # Inflation-Indexed Securities: Pricing Framework
 
 ## Introduction

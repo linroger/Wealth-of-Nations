@@ -1,16 +1,32 @@
 ---
 tags:
-  - '#correlation_swaps'
-  - '#correlation_trading'
-  - '#cppi'
-  - '#credit_derivatives'
-  - '#default_correlation'
-  - '#default_probabilities'
-  - '#gaussian_copula_model'
-  - '#principal_protection'
-  - '#synthetic_cdo'
-  - '#tranche_spreads'
+  - correlation_trading
+  - credit_derivatives
+  - default_correlation
+  - gaussian_copula
+  - gfc_impact
+aliases:
+  - Chapter 22
+  - Conclusions
+  - Correlation Guide
+  - Credit Derivatives Handbook
+key_concepts:
+  - Gaussian copula model
+  - cash CDO vs synthetic CDO
+  - compound vs base correlation
+  - correlation trading strategies
+  - credit models, CDOs
+  - credit portfolio, iTraxx index
+  - delta hedged positions
+  - expected values, variances
+  - gamma gains, strategies
+  - joint distribution functions
+  - joint probability of default
+  - probabilities of default
+  - random variables, defaults
+  - tranche spreads, default correlation
 ---
+
 # 22.8 CONCLUSIONS  
 
 In this chapter, we have discussed the dependence of tranche spreads on default correlation in detail and explained how default correlation can be traded. We have applied the standard market model in the form of the Gaussian copula model and highlighted real-world complications. Similar to other model-based trading strategies that we discussed in previous chapters, we explained how correlation trading positions can be delta hedged and how gamma gains arise for such strategies..  

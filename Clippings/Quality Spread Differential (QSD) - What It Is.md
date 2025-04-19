@@ -4,16 +4,26 @@ source: https://www.investopedia.com/terms/q/qsd.asp
 description: A quality spread differential (QSD) is the difference between market
   interest rates achieved by two parties who enter an interest rate swap.
 tags:
-  - '#bond_investors'
-  - '#counterparty_risk'
-  - '#creditworthiness'
-  - '#fixed_rate_debt'
-  - '#floating_rate_debt'
-  - '#interest_rate_swap'
-  - '#market_rates'
-  - '#qsd_calculation'
-  - '#quality_spread_differential'
+  - bond_investors
+  - counterparty_risk
+  - creditworthiness
+  - fixed_rate_debt
+  - floating_rate_debt
+  - interest_rate_swap
+  - quality_spread_differential
+aliases:
+  - QSD
+  - QSD Example
+  - Quality Spread
+key_concepts:
+  - Benefit both parties
+  - Difference in market rates
+  - Gauge counterparty risk
+  - Measure creditworthiness
+  - Subtract contracted market rate
 ---
+
+
 ## What Is Quality Spread Differential (QSD)?
 
 Quality spread differential (QSD) is used to calculate the difference between market [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) that two parties potentially entering into an [interest rate swap](https://www.investopedia.com/terms/i/interestrateswap.asp) are able to achieve. It is a measurement that companies can use to gauge [counterparty risk](https://www.investopedia.com/terms/c/counterpartyrisk.asp) in an interest rate swap.

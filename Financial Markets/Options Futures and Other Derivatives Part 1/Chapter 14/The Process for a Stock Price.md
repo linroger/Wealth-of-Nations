@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#discrete_time_model'
-  - '#expected_return'
-  - '#geometric_brownian_motion'
-  - '#monte_carlo_simulation'
-  - '#stochastic_process'
-  - '#stock_price_process'
-  - '#stock_price_volatility'
-  - '#variance_rate'
-  - '#wiener_process'
+  - discrete_time_model
+  - expected_return
+  - geometric_brownian_motion
+  - stock_price
+  - volatility
+aliases:
+  - stock price process
+key_concepts:
+  - constant variance rate
+  - discrete-time version
+  - expected drift rate
+  - expected percentage return
+  - geometric Brownian motion
+  - stochastic process
+  - stock price volatility
 ---
+
 # 14.3 THE PROCESS FOR A STOCK PRICE  
 
 In this section we discuss the stochastic process usually assumed for the price of a nondividend-paying stock.  

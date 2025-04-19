@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#dv01_hedge'
-  - '#jnj_bond'
-  - '#least_squares_estimation'
-  - '#out_of_sample_analysis'
-  - '#regression_hedging'
-  - '#regression_residuals'
-  - '#risk_weight'
-  - '#single_variable_regression'
-  - '#treasury_bond'
-  - '#yield_regression'
+  - bond_yields
+  - interest_rate_risk
+  - market_maker
+  - regression_hedging
+  - relative_value_trading
+aliases:
+  - DV01 Hedge
+  - JNJ Bonds
+  - Regression Hedge
+key_concepts:
+  - Regression hedge risk weight
+  - Regression hedge variance
+  - Single-variable regression hedging
+  - Standard deviation residuals
+  - Yield-based DV01 hedge
 ---
+
 # 6.1 SINGLE-VARIABLE REGRESSION HEDGING  
 
 This section considers the problem of a market maker or a relative value trader on May 14, 2021, who purchases $\$100$ million face amount of the JNJ 2.450s of 09/01/2060 and hedges the resulting interest rate risk by selling the US Treasury 1.625s of 11/15/2050. Because there is no 40-year Treasury bond outstanding, the 1.625s of 11/15/2050, with about 30 years to maturity, are selected as the best alternative. Table 6.1 gives the coupons, maturity dates, yields, and Dv01s of these two bonds, along with those of two other bonds that are referenced in the next section.  

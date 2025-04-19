@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#bonds'
-  - '#buying_on_margin'
-  - '#futures_contracts'
-  - '#margin_account'
-  - '#margin_requirements'
-  - '#naked_short_selling'
-  - '#price_risk'
-  - '#repurchase_agreements'
-  - '#reverse_repo'
-  - '#short_selling'
+  - brokerage_houses
+  - buying_on_margin
+  - fair_price_discovery
+  - margin_accounts
+  - short_selling
+aliases:
+  - Going Short
+  - Short Sale
+  - Shorting
+key_concepts:
+  - borrowing securities
+  - broker's pool
+  - buying on margin
+  - margin accounts
+  - repurchasing securities
+  - selling securities
 ---
+
 # 2.6 SHORT SELLING  
 
 Securities - stocks and bonds - bought on behalf of their customers are held in brokerage. houses in "street name,' i.e. the customers' names are not identified and the brokerage simply. holds the total number of shares or bonds for all its customers, collects the total amount of dividends or coupon interest from the issuer, and apportions them into the customers' accounts..  

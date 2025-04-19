@@ -1,15 +1,32 @@
 ---
 tags:
-  - '#defined_benefit_pension_funds'
-  - '#exit_strategies'
-  - '#leverage_buyouts'
-  - '#limited_partnership_funds'
-  - '#pension_funds'
-  - '#private_equity'
-  - '#risk_allocation'
-  - '#sovereign_funds'
-  - '#venture_capital'
+  - distressed_loans
+  - exit_strategies
+  - ipo
+  - limited_partnership
+  - mezzanine_capital
+  - pension_funds
+  - private_equity
+  - risk_allocation
+  - sovereign_funds
+  - venture_capital
+aliases:
+  - IPO
+  - LP
+  - PE
+  - Risk Budgeting
+  - Venture
+key_concepts:
+  - Exit strategies
+  - Leverage buyouts
+  - Mezzanine capital lending
+  - Pension funds
+  - Private equity investment
+  - Risk allocation process
+  - Sovereign funds
+  - Venture capital
 ---
+
 # 14 Private Equity, Pension, and Sovereign Funds 329  
 
 14.1 Private Equity 329   

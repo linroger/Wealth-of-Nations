@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#ito_integral'
-  - '#ito_lemma'
-  - '#mean_square_limit'
-  - '#riemann_integration'
-  - '#stochastic_function'
-  - '#stochastic_integration'
-  - '#stochastic_process'
-  - '#volatility'
+  - ito_integral
+  - ito_lemma
+  - riemann_integration
+  - stochastic_function
+  - stochastic_integration
+aliases:
+  - Ito Integral
+  - Ito's Integral
+key_concepts:
+  - Ito integral definition
+  - Ito's lemma
+  - Riemann integration
+  - Stochastic function derivative
+  - Stochastic integration
 ---
+
 # 11.3 ITO'S INTEGRAL
 
 In addition, Ito's lemma can be expressed in integral form. Let us restate the problem. We are given a random variable $x_{t}$ that follows the stochastic process:

@@ -1,24 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
-    Paper|Commercial Paper]]
-  - Class Note 12 – [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
-    Paper|Commercial Paper]].md
 title: Class Note 12 - Commercial Paper
 tags:
-  - '#2007_2009_financial_crisis'
-  - '#asset_backed_paper'
-  - '#backup_lines_of_credit'
-  - '#commercial_paper'
-  - '#cp_issuance'
-  - '#credit_ratings'
-  - '#discount_rates'
-  - '#extendible_commercial_notes'
-  - '#maturity_and_regulations'
-  - '#money_market_funds'
+  - 2007_2009_financial_crisis
+  - asset_backed_paper
+  - backup_lines_of_credit
+  - commercial_paper
+  - short_term_promissory_note
+aliases:
+  - CP
+  - Class 12 Note
+  - Commercial Paper Note
+  - ECN
+key_concepts:
+  - Backup lines of credit
+  - Commercial paper significance
+  - Early-exit mechanism
+  - Prices and quotes
+  - Regulations and maturities
 ---
+
 # Class Note 12 - Commercial Paper
 ## [[Class Note 12 – Commercial PaperCommercial PaperClass Note 12 – Commercial PaperCommercial PaperClass Note 12 – Commercial PaperCommercial Paper #Class Note 12 – Commercial Paper|Commercial Paper]]
 

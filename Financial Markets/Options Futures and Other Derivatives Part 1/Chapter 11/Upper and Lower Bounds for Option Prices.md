@@ -1,16 +1,28 @@
 ---
 tags:
-  - '#american_put_option'
-  - '#arbitrage'
-  - '#european_call_option'
-  - '#lower_bounds'
-  - '#non_dividend_paying_stocks'
-  - '#option_pricing'
-  - '#portfolio_strategy'
-  - '#risk_free_interest_rate'
-  - '#upper_bounds'
-  - '#zero_coupon_bond'
+  - american_options
+  - arbitrage
+  - call_options
+  - european_options
+  - lower_bounds
+  - non_dividend_stocks
+  - option_pricing
+  - put_options
+  - strike_price
+  - upper_bounds
+aliases:
+  - Call Option Bounds
+  - Option Price Bounds
+  - Put Option Bounds
+key_concepts:
+  - American call option
+  - European call option
+  - Non-dividend paying stock
+  - Present value of stock
+  - Riskless profit arbitrage
+  - Upper and lower bounds
 ---
+
 # 11.3  UPPER AND LOWER BOUNDS FOR OPTION PRICES  
 
 In this section, we derive upper and lower bounds for option prices. These bounds do. not depend on any particular assumptions about the factors mentioned in Section 11.1 (except $r>0$ ). If an option price is above the upper bound or below the lower bound,. then there are profitable opportunities for arbitrageurs..  

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#binomial_process'
-  - '#brownian_motion'
-  - '#covariance'
-  - '#expectation'
-  - '#increment'
-  - '#random_variable'
-  - '#time_periods'
-  - '#time_step'
-  - '#variance'
-  - '#wiener_process'
+  - binomial_process
+  - brownian_motion
+  - time_step
+  - variance
+  - wiener_process
+aliases:
+  - Binomial Process
+  - Brownian Motion
+  - Wiener Process
+key_concepts:
+  - Binomial process random variable
+  - Brownian motion discrete world
+  - Expected value and variance
+  - One-period binomial process
+  - Time step change notation
 ---
+
 # 16.1 BROWNIAN MOTION IN A DISCRETE WORLD
 
 An extremely simple form of Brownian motion is a binomial process in which a random variable W, starting off at a value of $W_{0}=0$ , can take on a value of $W_{1}^{+}=+1$ or $W_{1}^{-}=-1$ in the next time period or sometimes termed time step. We denote the change from the point in time O to the point in time 1 as $\Delta\mathbb{W}_{0}$ . Thus, the change notation refers to the initial point in time (0 here) and not the final point in time (1 here). Figure 16.1 illustrates this process.

@@ -1,26 +1,25 @@
 ---
 tags:
-  - '#call_option'
-  - '#credit_default_swap'
-  - '#credit_derivative'
-  - '#derivative_finance'
-  - '#equity_derivative'
-  - '#equity_swap'
-  - '#foreign_exchange_derivative'
-  - '#foreign_exchange_option'
-  - '#forward_contract'
-  - '#freight_derivative'
-  - '#futures_contract'
-  - '#gold_investment'
-  - '#inflation_derivative'
-  - '#interest_rate_derivative'
-  - '#option_finance'
-  - '#property_derivatives'
-  - '#put_option'
-  - '#strike_price'
-  - '#swap_finance'
-  - '#warrant_finance'
+  - credit_derivatives
+  - financial_derivatives
+  - futures_contracts
+  - interest_rate_derivatives
+  - options_trading
+aliases:
+  - Derivative Types
+  - Derivatives Overview
+  - Derivatives and Uses
+  - Financial Instruments
+key_concepts:
+  - Alternative investment form
+  - Exposure to underlying assets
+  - Financial instrument agreement
+  - Leverage and speculation
+  - Risk mitigation and hedging
+  - Swaps, futures, options
+  - Underlying asset value
 ---
+
 # Contents  
 
 # rticles  

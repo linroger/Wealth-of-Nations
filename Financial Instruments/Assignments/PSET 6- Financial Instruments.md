@@ -1,21 +1,26 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - PSET 6-Financial Instruments
 linter-yaml-title-alias: PSET 6-Financial Instruments
 title: PSET 6-Financial Instruments
 tags:
-  - '#dividend_yield'
-  - '#financial_instruments'
-  - '#implied_volatility'
-  - '#morgan_stanley'
-  - '#option_elasticity'
-  - '#plus_security'
-  - '#risk_free_rate'
-  - '#sp500'
-  - '#structured_security'
+  - financial_instruments
+  - implied_volatility
+  - morgan_stanley
+  - options_data
+  - structured_security
+aliases:
+  - Homework 6
+  - PLUS Security
+  - PSET 6
+key_concepts:
+  - Implied Volatility Calculation
+  - PLUS Security Decomposition
+  - Risk Factors
+  - S&P 500 Options Data
+  - Structured Security Valuation
 ---
+
 # PSET 6-Financial Instruments
 
 ma# PSET 6FINANCIAL INSTRUMENTS

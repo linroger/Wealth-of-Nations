@@ -1,3 +1,24 @@
+---
+tags:
+  - asian_options
+  - barrier_options
+  - bopm
+  - chooser_options
+  - exotic_options
+  - mcs
+  - path_dependent
+aliases:
+  - Average Rate Options
+  - Exotic Option Pricing
+  - Path-dependent Options
+key_concepts:
+  - Asian and barrier options
+  - BOPM and MCS
+  - Closed-form solutions
+  - European vs American options
+  - Exotic option types
+  - Path-dependent payoffs
+---
 # Exotic Options  
 
 # Aims  

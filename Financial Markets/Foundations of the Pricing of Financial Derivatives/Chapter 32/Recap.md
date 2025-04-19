@@ -1,11 +1,20 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#currency_puts_and_calls'
-  - '#derivative_pricing'
-  - '#foreign_currency_options'
-  - '#quantitative_finance'
+  - black_scholes_merton
+  - call_options
+  - derivative_pricing
+  - foreign_currency
+  - put_options
+aliases:
+  - Chapter 32.6
+  - Recap
+key_concepts:
+  - Black-Scholes-Merton model
+  - derivative pricing theory
+  - foreign currency puts/calls
+  - pricing foreign currency options
 ---
+
 # 32.6 RECAP
 
 In this final chapter of the book, we look at foreign currency puts and calls. They are viewed.

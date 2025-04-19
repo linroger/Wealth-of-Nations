@@ -1,7 +1,21 @@
 ---
 tags:
-  - '#advanced_investments'
+  - advanced_investments
+  - financial_analysis
+  - investment_analysis
+  - investment_strategy
+  - risk_management
+aliases:
+  - Advanced Investing
+  - Investments
+key_concepts:
+  - Advanced financial modeling
+  - Financial analysis
+  - Investment strategies
+  - Portfolio construction
+  - Risk management
 ---
+
 __MASK_7_10__
 
 # Advanced Investments

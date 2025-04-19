@@ -1,16 +1,30 @@
 ---
 tags:
-  - '#black_model'
-  - '#bond_options'
-  - '#callable_bonds'
-  - '#deriva_gem'
-  - '#embedded_bond_options'
-  - '#european_bond_options'
-  - '#forward_bond_price'
-  - '#option_pricing'
-  - '#puttable_bonds'
-  - '#yield_volatility'
+  - black_model
+  - bond_options
+  - bond_pricing
+  - callable_bond
+  - embedded_options
+  - european_options
+  - interest_rates
+  - loan_commitment
+  - puttable_bond
+aliases:
+  - Bond Option
+  - Callable Bond
+  - Puttable Bond
+key_concepts:
+  - Black's model application
+  - European bond options
+  - callable bond features
+  - embedded bond options
+  - holder purchases put option
+  - holder sells call option
+  - loan and deposit options
+  - option to buy or sell
+  - puttable bond features
 ---
+
 # 29.1 BOND OPTIONS  
 
 A bond option is an option to buy or sell a particular bond by a particular date for a particular price. In addition to trading in the over-the-counter market, bond options are frequently embedded in bonds when they are issued to make them more attractive to either the issuer or potential purchasers.  

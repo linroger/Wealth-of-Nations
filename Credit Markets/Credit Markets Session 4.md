@@ -1,20 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Markets Session 4
 tags:
-  - '#credit_markets'
-  - '#hazard_rate_models'
-  - '#model_calibration'
-  - '#nelson_siegel_model'
-  - '#parametric_models'
-  - '#portfolio_construction'
-  - '#quant_credit_trading'
-  - '#risk_models'
-  - '#strategy_backtesting'
-  - '#verizon_bonds'
+  - credit_markets
+  - g_spreads
+  - hazard_rate
+  - nelson_siegel
+  - yield_curve
+aliases:
+  - Calibration
+  - Model Prices
+  - Session 4
+  - Verizon Bonds
+key_concepts:
+  - Hazard Rate Models
+  - Parametric IR Models
+  - Quant Credit Trading
+  - Risk Models
+  - Smooth Yield Curve
 ---
+
 # Credit Markets Session 4
 ## CALIBRATION AND MODEL PRICES
 1. Recap: Parametric IR Models

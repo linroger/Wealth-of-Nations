@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#anomalies'
-  - '#efficient_market_hypothesis'
-  - '#event_study'
-  - '#insider_trading'
-  - '#market_efficiency'
-  - '#prediction_markets'
-  - '#semistrong_form_efficiency'
-  - '#strong_form_efficiency'
-  - '#technical_analysis'
-  - '#weak_form_efficiency'
+  - abnormal_returns
+  - efficient_market
+  - market_efficiency
+  - security_prices
+  - technical_analysis
+aliases:
+  - Efficient Market
+  - Market Efficiency
+  - Weak Form Efficiency
+key_concepts:
+  - efficient capital market
+  - investors earn abnormal returns
+  - markets approach efficiency
+  - prices fluctuate randomly
+  - security prices reflect info
+  - zero net present value
 ---
+
 # Market Efficiency  
 
 # 12.1 INTRODUCTION TO MARKET EFFICIENCY  

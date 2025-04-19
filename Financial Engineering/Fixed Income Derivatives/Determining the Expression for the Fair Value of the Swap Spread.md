@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#benchmark_valuation'
-  - '#fair_value'
-  - '#gc_repo_rate'
-  - '#government_bond_yield'
-  - '#interest_rate_swap'
-  - '#libor_rate'
-  - '#market_liquidity'
-  - '#risk_free_rate'
-  - '#swap_spread'
-  - '#zero_cost_portfolio'
+  - debt_market
+  - interest_rate_swap
+  - libor_rate
+  - repo_rate
+  - swap_spread
+aliases:
+  - Interest Rate Swap Curve
+  - Par Swap
+  - Swap Curve
+  - Swap Spread Fair Value
+key_concepts:
+  - Fair Value Swap Spread
+  - Fixed and Floating Legs
+  - Government Bond Yields
+  - Interest Rate Swaps
+  - Libor and Repo Rates
+  - Swap Curve Benchmark
+  - Swap Spread Definition
 ---
+
 # Determining the Expression for the Fair Value of the Swap Spread
 
 ## Determining the Expression for the Fair Value of the Swap Spread: An Approach  Using Libor and GC Repo Rates

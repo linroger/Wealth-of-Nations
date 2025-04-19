@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#barrier_options'
-  - '#exotic_options'
-  - '#implied_volatility'
-  - '#position_limits'
-  - '#real_world_complications'
-  - '#rho_risk'
-  - '#synthetic_payoff_structures'
-  - '#vega_risk'
-  - '#volatility_smile'
+  - barrier_options
+  - black_scholes_formula
+  - exotic_options
+  - position_limits
+  - volatility_smile
+aliases:
+  - Complications in Finance
+  - Real-World Imperfections
+key_concepts:
+  - Implied volatility function
+  - Nonlinear payoffs
+  - Position limits impact
+  - Vega and rho risks
+  - Volatility smile effects
 ---
+
 # 11.6 REAL-WORLD COMPLICATIONS  
 
 Actual implementation of the synthetic payoff structures discussed in this chapter requires dealing with several real-world imperfections. First of all, it must be remembered that these positions are shown at expiration, and that they are piecewise linear. In real life, payoff diagrams may contain sev-. eral convexities, which is an equivalent term for nonlinear payoffs. We will review these briefly..  

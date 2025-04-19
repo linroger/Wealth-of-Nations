@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#atm_cap'
-  - '#bsm_formula'
-  - '#cap_volatility'
-  - '#caplets'
-  - '#caps_and_floors'
-  - '#floorlets'
-  - '#forward_rates'
-  - '#libor'
-  - '#put_call_parity'
-  - '#strike_price'
+  - caplets
+  - caps_floors
+  - interest_rate_derivatives
+  - libor
+  - option_pricing
+  - volatility
+aliases:
+  - Caps
+  - Floors
+key_concepts:
+  - ATM cap pricing example
+  - 'Cap: portfolio of caplets'
+  - Caplet valuation formula
+  - 'Caplets: LIBOR and strike'
+  - Implied cap volatility
 ---
+
 # 16.4 CAPS AND FLOORS  
 
 The easiest way to describe caps is to start with caplets, even though caps are the more traded derivative. At the end of a given accrual period, a caplet pays the greater of zero and of LIBOR minus a strike, where LIBOR is set at the beginning of the accrual period. Consider, for example, a caplet with a three-month LIBOR reset date of February 14, 2022, a payment date of May 14, 2022, and a strike of $181\%$ . Note that there are 89 days over this. accrual period. If LIBOR on February 14, 2022, turns out to be $L$ , then a unit notional of the caplet will pay, on May 14, 2022,.  

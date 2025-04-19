@@ -1,22 +1,24 @@
 ---
-aliases:
-  - Investor Size, Liquidity And Prime Money Market Fund Stress.md
-  - Investor Size,    Liquidity And Prime Money Market Fund Stress
-  - Investor Size, Liquidity And Prime Money Market Fund Stress
 linter-yaml-title-alias: Investor Size,    Liquidity And Prime Money Market Fund Stress
 title: Investor Size,  Liquidity And Prime Money Market Fund Stress
 tags:
-  - '#federal_reserve_intervention'
-  - '#investor_size'
-  - '#liquidity_buffers'
-  - '#liquidity_shortages'
-  - '#march_2020_market_turmoil'
-  - '#mmf_stress'
-  - '#money_market_funds'
-  - '#prime_mmfs'
-  - '#redemptions'
-  - '#wla_wam'
+  - investor_size
+  - liquidity
+  - march_2020
+  - money_market_funds
+  - redemptions
+aliases:
+  - MMF stress
+  - money market funds
+  - prime MMFs
+key_concepts:
+  - Covid-19 shock
+  - fund managers less liquid
+  - large investor withdrawals
+  - policy relief liquidity
+  - short-term dollar funding
 ---
+
 # Investor Size, Liquidity And Prime Money Market Fund Stress
 
 Massive redemptions at [[A Primer on Money Market Mutual Funds|money market funds]] (MMFs) investing primarily in high-quality shortterm private debt securities were an important feature of the market dislocations in March 2020.

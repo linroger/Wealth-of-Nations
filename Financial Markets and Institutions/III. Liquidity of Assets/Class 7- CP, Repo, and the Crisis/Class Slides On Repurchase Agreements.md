@@ -1,24 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Class Slldes On Repurchase Agreements
-  - Class Slldes On Repurchase Agreements.md
-  - Class SlIdes On Repurchase Agreements
 linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
 title: Class Slides On Repurchase Agreements
 tags:
-  - '#collateralized_borrowing'
-  - '#financial_crisis_2008'
-  - '#lehman_brothers'
-  - '#margin_haircut'
-  - '#market_liquidity'
-  - '#repo_market_dynamics'
-  - '#repo_transactions'
-  - '#repurchase_agreements'
-  - '#securities_trading'
-  - '#tri_party_repo'
+  - haircut
+  - interest_calculation
+  - margin
+  - repo_transaction
+  - repurchase_agreements
+aliases:
+  - Repo Slides
+  - Repurchase Agreements
+key_concepts:
+  - Borrowing a security
+  - Interest calculation
+  - Margin or haircut
+  - Repo transaction example
+  - Selling the security
 ---
+
 [[Class Note 12 Part 2 Repos]]
 
 # Class Slides On Repurchase Agreements

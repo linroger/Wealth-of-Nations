@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#brownian_motion'
-  - '#compound_option_pricing'
-  - '#correlation'
-  - '#covariance'
-  - '#probability_density'
-  - '#random_walk'
-  - '#stochastic_integral'
-  - '#stochastic_process'
-  - '#variance'
-  - '#wiener_process'
+  - brownian_motion
+  - option_pricing
+  - random_walk
+  - stochastic_integration
+  - wiener_process
+aliases:
+  - Brownian Motion
+  - Discrete to Continuous
+  - Wiener Process
+key_concepts:
+  - Brownian motion
+  - Discrete to continuous
+  - Standard normal variable
+  - Stochastic integral
+  - Wiener process
 ---
+
 # 16.2 MOVING FROM A DISCRETE TO A CONTINUOUS WORLD
 
 It is possible to demonstrate quite formally that if we hold $t$ fixed and increase $_n$ , in the limit, the random component, $\pm1$ , will converge to a standard normal random variable, which of course has expected value of 0 and variance of 1.6 In that case, our model is as follows:

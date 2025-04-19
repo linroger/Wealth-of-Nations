@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#ctd_bond'
-  - '#delivery_option'
-  - '#dv01'
-  - '#end_of_month_option'
-  - '#futures_price'
-  - '#net_basis'
-  - '#quality_option'
-  - '#timing_option'
-  - '#treasury_futures'
-  - '#wild_card_option'
+  - bond_valuation
+  - ctd_bond
+  - futures_pricing
+  - quality_option
+  - yield_curve
+aliases:
+  - Delivery Option
+  - Futures Price
+  - TYU1
+key_concepts:
+  - Bond forward price ratio
+  - CTD and conversion factor
+  - Delivery option valuation
+  - Futures price before expiration
+  - Yield-price curve analysis
 ---
+
 # 11.11 FUTURES PRICE AND THE QUALITY OPTION BEFORE EXPIRATION  
 
 It is shown earlier, and illustrated in Table 11.7, that the futures price at expi-. ration is the minimum ratio of price to conversion factor across deliverable bonds. This section analyzes the futures price before expiration. The basic. idea is as follows. If the CTD were known with certainty, then (abstracting. from the futures-forward difference) the futures price would equal the for-. ward price of the CTD divided by its conversion factor. But because the CTD is not known with certainty, and because the seller of the futures contract has the option to choose which bond to deliver, the futures price is reduced by the value of that delivery option..  

@@ -1,14 +1,25 @@
 ---
 cssclasses: academia
 title: HBR Notes
-aliases:
-  - HBR NOTES
-  - V. HBR NOTES
 linter-yaml-title-alias: HBR NOTES
 tags:
-  - '#hbr_notes'
-  - '#waypoint'
+  - business_publication
+  - case_study
+  - financial_analysis
+  - hbr_notes
+  - management
+aliases:
+  - HBR
+  - HBR Article
+  - Harvard Business Review
+key_concepts:
+  - Business case studies
+  - Financial analysis tools
+  - Harvard Business Review
+  - Management insights
+  - Strategic business decisions
 ---
+
 # HBR Notes
 
 %% Begin Waypoint %%

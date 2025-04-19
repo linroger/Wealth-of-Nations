@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bellman_equation'
-  - '#dynamic_programming'
-  - '#envelope_condition'
-  - '#hamilton_jacobi_bellman_equation'
-  - '#indirect_utility_function'
-  - '#intertemporal_hedging'
-  - '#market_price_of_risk'
-  - '#optimal_portfolio'
-  - '#state_variable'
+  - asset_pricing
+  - consumption
+  - dynamic_programming
+  - state_prices
+  - utility_maximization
+aliases:
+  - DP
+  - Indirect Utility
+  - Optimal Consumption
+key_concepts:
+  - Consumption-based asset pricing
+  - Discrete-time framework
+  - Envelope condition
+  - Indirect utility function
+  - Optimal consumption plan
 ---
+
 # 6.5 Dynamic programming  
 
 Above we have linked the optimal consumption plan of an individual to asset prices. In Chapter 8 we will see how this leads to consumption-based asset pricing models. While this link is quite intuitive and theoretically elegant, empirical tests and practical applications of the model suffer from the fact that available data on individual or aggregate consumption are of poor quality. For that purpose it is tempting to link asset prices to other variables for which better data are available. One way to provide such a link is to explain optimal consumption in terms of other variables. If $c_{t}$ is a function of some variable, say. $x_{t}$ , then the equations in this chapter proves a link between. asset prices and $x$ . To figure out what explains the consumption choice of an individual we have. to dig deeper into the utility maximization problem..  

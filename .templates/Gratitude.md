@@ -1,11 +1,23 @@
 ---
 tags:
-  - '#daily_highlights'
-  - '#daily_reminders'
-  - '#gratitude_list'
-  - '#personal_organization'
-  - '#task_management'
+  - daily_reminders
+  - gratitude
+  - highlights
+  - personal_growth
+  - wellbeing
+aliases:
+  - Daily Highlights
+  - Grateful
+  - Thankful
+  - Today's Summary
+key_concepts:
+  - Daily highlights
+  - Gratitude practice
+  - Personal reminders
+  - Things I'm grateful
+  - Wellbeing focus
 ---
+
 **Highlights of the day**
 
 - x

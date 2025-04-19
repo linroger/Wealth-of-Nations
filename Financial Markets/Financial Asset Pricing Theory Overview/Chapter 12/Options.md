@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#black_formula'
-  - '#black_scholes_merton_model'
-  - '#bond_options'
-  - '#caps_and_floors'
-  - '#european_options'
-  - '#interest_rate_options'
-  - '#lognormal_distribution'
-  - '#option_pricing'
-  - '#put_call_parity'
-  - '#volatility'
+  - call_option
+  - european_option
+  - option_pricing
+  - put_call_parity
+  - put_option
+aliases:
+  - Call Option
+  - European Options
+  - Option Pricing
+  - Put Option
+key_concepts:
+  - European call option
+  - European put option
+  - Exercise price
+  - Forward martingale measure
+  - Non-dividend paying asset
+  - Option price formula
+  - Put-call parity
 ---
+
 # 12.3 Options  
 
 In this section, we focus on European options. Some aspects of American options are discussed in Section 12.5.  

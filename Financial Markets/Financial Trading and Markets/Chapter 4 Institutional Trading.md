@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#algorithmic_trading'
-  - '#best_execution'
-  - '#dark_pools'
-  - '#flash_trading'
-  - '#high_frequency_trading'
-  - '#institutional_trading'
-  - '#investment_companies'
-  - '#market_impact'
-  - '#sponsored_access'
-  - '#stealth_trading'
+  - buy_side
+  - institutional_investors
+  - institutional_trading
+  - market_impact
+  - security_prices
+aliases:
+  - Buy-Side Institutions
+  - Institutional Investors
+  - Institutional Traders
+key_concepts:
+  - Asymmetric reaction to block trades
+  - Institutional investor transactions
+  - Institutions and Market Impact
+  - Investment company management
+  - Security liquidity, prices, volatility
 ---
+
 # Institutional Trading  
 
 # 4.1 INSTITUTIONS AND MARKET IMPACT  

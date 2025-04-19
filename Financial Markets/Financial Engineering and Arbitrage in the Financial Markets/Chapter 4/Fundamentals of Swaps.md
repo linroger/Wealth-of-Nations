@@ -1,16 +1,26 @@
 ---
 tags:
-  - '#cross_currency_swaps'
-  - '#forward_rate_agreement'
-  - '#interest_rate_swaps'
-  - '#mark_to_market'
-  - '#market_swap'
-  - '#notional_principal'
-  - '#off_market_swap'
-  - '#swap_hedging'
-  - '#swap_valuation'
-  - '#swaps'
+  - fixed_floating_swaps
+  - interest_rate_swaps
+  - notional_principal
+  - swap_fundamentals
+  - swap_valuation
+aliases:
+  - Cross-Currency Swaps
+  - Interest Rate Swap
+  - Swap Agreements
+  - Swap Basics
+key_concepts:
+  - Dual nature of swaps
+  - Exchange cash flows
+  - FRA settlement formula
+  - Fictitious bonds exchange
+  - Fixed vs floating
+  - Notional principal
+  - String of forwards
+  - Swap legs
 ---
+
 # 4.1 FUNDAMENTALS OF SWAPS  
 
 A swap is a private agreement between two counterparties to exchange two streams of cash flows. Each stream of cash flows, called a swap leg, resembles a coupon and principal flow. on a bond. The swap agreement specifies the principals and coupon formulas for each stream, the exact dates of the cash flow exchanges and the final maturity. Coupon flows can be fixed, floating based on an interest rate reference such as LIBOR, T-Bill or gilt, or floating based on an equity index or a commodity price. The face value or the principal of a swap is referred to. as a notional principal, as it is not necessarily the face value of any real bond, but a reference with which to easily define the coupon formula. The principals for the two sides of the swap. may be unequal or defined in different currencies. In most cases, they are identical. In interest rate swaps, the notional principal for both sides is the same, therefore it is not even exchanged, and the cash flow exchange is simply fixed for floating. In cross-currency swaps, the notional principals are in two different currencies, but have the same value at the original exchange rate. Since their value is usually mismatched by the final maturity of the swap, they are exchanged to preserve the fairness of the swap agreement. Many swaps have deliberately mismatched coupon dates. The fixed side on an interest rate swap commonly pays every 6 or 12 months,. while the floating side is commonly indexed off the 3-month LIBOR and pays quarterly.  

@@ -2,19 +2,35 @@
 title: Week 4 Valuing Young and High‐Growth Companies
 cssclasses:
   - academia
-aliases:
 tags:
-  - '#accounting_shenanigans'
-  - '#amazon_valuation'
-  - '#dcf_model'
-  - '#high_growth_companies'
-  - '#ltg_estimates'
-  - '#market_saturation'
-  - '#netflix_valuation'
-  - '#revenue_recognition'
-  - '#stock_compensation'
-  - '#valuation'
+  - accounting_shenanigans
+  - dcf_model
+  - executive_stock_compensation
+  - forecasting
+  - high_growth_companies
+  - market_multiples
+  - mean_reversion
+  - netflix_valuation
+  - valuation
+aliases:
+  - Valuation of Growth Companies
+  - Valuing Young Firms
+  - Week 4 Notes
+key_concepts:
+  - Accounting shenanigans
+  - Analysts use multiples
+  - Backward induction approach
+  - DCF model assumptions
+  - Executive stock compensation
+  - Forecasting issues
+  - High growth valuation challenges
+  - Market value implied rates
+  - Mean reversion competition
+  - Sales growth decline
+  - Scenario analysis
+  - Terminal value importance
 ---
+
 [[Week 4 Valuing Young and High‐Growth Companies|high growth companies]]
 
 [Week 4 ESOs and Vaulation](Zhe/Week%204/Week%204%20ESOs%20and%20Vaulation.md)

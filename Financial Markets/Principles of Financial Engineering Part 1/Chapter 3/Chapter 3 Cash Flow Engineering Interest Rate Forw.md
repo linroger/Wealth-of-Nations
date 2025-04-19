@@ -1,14 +1,24 @@
 ---
 tags:
-  - '#cash_flow_engineering'
-  - '#eurocurrency_contracts'
-  - '#fixed_income_market_conventions'
-  - '#fixed_income_risk_measures'
-  - '#forward_rate_agreements'
-  - '#forward_rates_term_structure'
-  - '#interest_rate_derivatives'
-  - '#libor_benchmarks'
+  - cash_flow_engineering
+  - fixed_income
+  - forward_rates
+  - futures_contracts
+  - interest_rate_derivatives
+  - libor
+  - yield_curve
+aliases:
+  - Cash Flow Engineering
+  - Chapter 3
+key_concepts:
+  - Eurocurrency contracts
+  - Fixed income conventions
+  - Forward rate agreements
+  - LIBOR benchmarks
+  - Synthetic derivatives
+  - Yield curve calculation
 ---
+
 # CHAPTER 3 Cash Flow Engineering, Interest Rate Forwards and Futures ... .. 53  
 
 3.1 Introduction. .54   

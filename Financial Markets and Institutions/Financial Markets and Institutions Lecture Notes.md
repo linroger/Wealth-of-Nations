@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#bank_runs'
-  - '#bond_covenants'
-  - '#borrower_lender_conflicts'
-  - '#capital_structure'
-  - '#commercial_paper'
-  - '#debt_capacity'
-  - '#delegated_monitoring'
-  - '#financial_intermediation'
-  - '#liquidity_risk'
-  - '#securitization'
+  - agency_problems
+  - asset_substitution_theory
+  - borrower_lender_conflicts
+  - capital_structure
+  - debt_capacity
+aliases:
+  - Financial Institutions
+  - Financial Markets
+  - Lecture Notes
+key_concepts:
+  - Asset substitution theory
+  - Borrower-Lender conflicts
+  - Debt capacity impact
+  - Implied agency problems
+  - Perverse incentive effects
 ---
+
+
 __MASK_7_17__
 # Financial Markets and Institutions Lecture Notes
 

@@ -1,3 +1,21 @@
+---
+tags:
+  - black_scholes
+  - derivative_pricing
+  - european_option
+  - pde
+  - risk_neutral
+aliases:
+  - BS PDE
+  - Black-Scholes PDE
+  - Option Pricing
+key_concepts:
+  - Black-Scholes closed-form solutions
+  - Deterministic partial differential equation
+  - European option pricing
+  - No-arbitrage replication portfolio
+  - Risk-neutral valuation
+---
 # Black–Scholes PDE  
 
 # Aims  

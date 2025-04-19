@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#aggregate_consumption'
-  - '#arrow_debreu_assets'
-  - '#asset_pricing_models'
-  - '#central_planner'
-  - '#consumption_allocation'
-  - '#efficient_risk_sharing'
-  - '#pareto_optimality'
-  - '#representative_individual'
-  - '#second_welfare_theorem'
+  - consumption_allocation
+  - pareto_optimality
+  - risk_sharing
+  - utility_function
+  - welfare_theorem
+aliases:
+  - Central Planner
+  - Pareto optimal
+  - Second Welfare Theorem
+key_concepts:
+  - Central planner's problem
+  - Feasible consumption plan
+  - Marginal rates of substitution
+  - Pareto-optimal consumption allocation
+  - Time-additive expected utility
 ---
+
 # 7.2 Pareto-optimality and representative individuals  
 
 Define the aggregate initial and future endowment in the economy as  

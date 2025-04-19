@@ -1,19 +1,25 @@
 ---
 title: PSET 5Pharmaceuticals And Intangibles In Valuation
 cssclasses: academia
-aliases:
 tags:
-  - '#acquisition_offer_evaluation'
-  - '#discounted_cash_flow_dcf'
-  - '#drug_pipeline_valuation'
-  - '#fleximat_reformulation'
-  - '#medfield_pharma_case'
-  - '#net_present_value_npv'
-  - '#pharmaceutical_industry'
-  - '#research_advantage'
-  - '#reximet_financials'
-  - '#valuation_analysis'
+  - dcf_model
+  - intangibles
+  - medfield_pharma
+  - pharmaceuticals
+  - pset_5
+aliases:
+  - Fleximat Reformulation
+  - Medfield Case
+  - PSET 5
+key_concepts:
+  - DCF model
+  - FCF calculation
+  - Fleximat reformulation value
+  - Medfield valuation
+  - Research advantage valuation
+  - Reximet drug value
 ---
+
 # PSET 5Pharmaceuticals And Intangibles In Valuation
 
 ### CASE: *MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (DARDEN)*

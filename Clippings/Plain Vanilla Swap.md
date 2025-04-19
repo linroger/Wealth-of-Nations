@@ -4,16 +4,24 @@ source: https://www.investopedia.com/terms/p/plain-vanilla-swap.asp
 description: A plain vanilla swap is the most basic type of forward claim that is
   traded in the over-the-counter market between two private parties.
 tags:
-  - '#commodity_swap'
-  - '#currency_swap'
-  - '#financial_instruments'
-  - '#fixed_interest_rate'
-  - '#floating_interest_rate'
-  - '#hedging'
-  - '#interest_rate_swap'
-  - '#libor'
-  - '#plain_vanilla_swap'
+  - currency_swap
+  - fixed_rate
+  - floating_rate
+  - interest_rate_swap
+  - libor
+aliases:
+  - IRS
+  - interest rate swap
+  - plain vanilla
+key_concepts:
+  - LIBOR floating rate index
+  - floating vs fixed rate
+  - hedge floating rate exposure
+  - interest payments netted
+  - simplest financial instrument
 ---
+
+
 ## What Is a Plain Vanilla Swap?
 
 A [plain vanilla](https://www.investopedia.com/terms/p/plainvanilla.asp) swap is one of the simplest financial instruments contracted in the over-the-counter market between two private parties, both of which are usually firms or financial institutions. There are several types of plain vanilla swaps, including an [interest rate swap](https://www.investopedia.com/terms/i/interestrateswap.asp), commodity swap, and a foreign currency swap. The term plain vanilla swap is most commonly used to describe an interest rate swap in which a floating interest rate is exchanged for a fixed rate or vice versa.

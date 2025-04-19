@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#cds_valuation'
-  - '#corporate_bonds'
-  - '#counterparty_risk'
-  - '#credit_default_swaps'
-  - '#credit_spreads'
-  - '#default_probability'
-  - '#financial_markets'
-  - '#floating_rate_notes'
-  - '#leveraged_positions'
-  - '#risk_management'
+  - cds_pricing
+  - corporate_bonds
+  - credit_default_swaps
+  - credit_risk
+  - financial_markets
+aliases:
+  - CDS Basics
+  - CDS Primer
+  - Credit Derivatives
+key_concepts:
+  - Buying protection shorting FRN
+  - CDS as leveraged bond
+  - CDS counterparty risk
+  - CDS structure explained
+  - Selling protection long FRN
 ---
+
 # A PRIMER ON CREDIT DEFAULT SWAPS (CDS)  
 
 Thomas S. Coleman, PhD Close Mountain Advisors LLC tcoleman@closemountain.com  

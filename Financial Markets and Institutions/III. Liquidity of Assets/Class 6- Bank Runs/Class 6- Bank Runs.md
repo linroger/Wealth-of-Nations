@@ -1,12 +1,24 @@
 ---
 title: Class 6Bank Runs
-aliases:
-  - Class 6 Bank Runs
 linter-yaml-title-alias: Class 6 Bank Runs
 tags:
-  - '#bank_runs'
-  - '#class_6'
+  - bank_runs
+  - banking_crisis
+  - class_6
+  - financial_crisis
+  - systemic_risk
+aliases:
+  - Bank Run
+  - Bank Runs
+  - Class 6 Bank Runs
+key_concepts:
+  - Bank run definition
+  - Banking crisis examples
+  - Causes of bank runs
+  - Financial crisis impact
+  - Systemic risk overview
 ---
+
 # Class 6Bank Runs
 
 %% Begin Waypoint %%

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#convexity_adjustment'
-  - '#gfc_impact'
-  - '#hedging_challenges'
-  - '#liquidity_risk'
-  - '#market_regulation'
-  - '#variance_futures'
-  - '#variance_swaps'
-  - '#vix_futures'
-  - '#volatility_as_asset_class'
-  - '#volatility_swaps'
+  - gfc
+  - liquidity
+  - market_makers
+  - variance_swaps
+  - volatility
+aliases:
+  - GFC
+  - Variance Swaps
+  - Volatility Swaps
+key_concepts:
+  - Convexity adjustment role
+  - Liquidity in crisis
+  - Market maker difficulties
+  - Variance swap hedging
+  - Volatility risk profiles
 ---
+
 # 15.7 VOLATILITY AND VARIANCE SWAPS BEFORE AND AFTER THE GFC-THE ROLE OF CONVEXITY ADJUSTMENTS?  
 
 As we have seen in Section 15.4, in theory, a market maker could sell a variance swap and hedge it by means of a static hedge with a portfolio of put and call options across a range of strike prices, weighted inversely proportional to the squared strike price.  

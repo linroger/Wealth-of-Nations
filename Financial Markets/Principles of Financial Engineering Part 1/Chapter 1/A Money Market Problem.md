@@ -1,15 +1,25 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#counterparty_risk'
-  - '#credit_risk'
-  - '#euromarkets'
-  - '#foreign_currency_markets'
-  - '#fx_forward'
-  - '#money_market_loan'
-  - '#onshore_market'
-  - '#synthetic_loan'
+  - fx_forward
+  - interbank_markets
+  - money_market
+  - synthetic_loan
+  - usd_loan
+aliases:
+  - FX-forward
+  - Money Market Problem
+  - Synthetic USD Loan
+  - USD Loan
+key_concepts:
+  - 3-month money market loan
+  - Foreign currency markets
+  - Forward currency markets
+  - Japanese bank USD borrowing
+  - Onshore Japanese money markets
+  - Spot market exchange rate
+  - Synthetic money market loan
 ---
+
 # 1.2 A MONEY MARKET PROBLEM  
 
 Consider a Japanese bank in search of a 3-month money market loan. The bank would like to bor-. row USD in Euromarkets and then on-lend them to its customers. This interbank loan will lead to cash flows as shown in Figure 1.7. From the borrower's angle, UsD100 is received at time. $t_{0}.$ and then it is paid back with interest 3 months later at time $t_{0}+\delta$ . The interest rate is denoted by the symbol $L_{t_{0}}$ and is determined at time $t_{0}$ . The tenor of the loan is 3 months. Therefore,  

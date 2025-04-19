@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#call_option_value'
-  - '#dividends_impact'
-  - '#option_pricing_factors'
-  - '#put_option_value'
-  - '#risk_free_interest_rate'
-  - '#stock_option_prices'
-  - '#stock_price_volatility'
-  - '#time_to_expiration'
+  - call_options
+  - option_pricing
+  - put_options
+  - stock_options
+  - volatility
+aliases:
+  - Factors Affecting Options
+  - Option Price Factors
+key_concepts:
+  - Expected dividends impact
+  - Risk-free interest rate
+  - Stock price impact
+  - Stock price volatility
+  - Strike price influence
+  - Time to expiration effect
 ---
+
 # 11.1 FACTORS AFFECTING OPTION PRICES  
 
 There are six factors affecting the price of a stock option:  

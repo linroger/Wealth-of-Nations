@@ -2,21 +2,23 @@
 title: Chapter 3-Comparative Advantage,  Competitiveness,  and the Terms of Trade
 cssclasses:
   - academia
-aliases:
-  - Comparative Advantage
-  - Competitiveness
-  - Terms of Trade
 tags:
-  - '#comparative_advantage'
-  - '#deindustrialization'
-  - '#globalization'
-  - '#gravity_equation'
-  - '#great_doubling'
-  - '#productivity_gaps'
-  - '#ricardian_model'
-  - '#terms_of_trade'
-  - '#wage_gap'
+  - comparative_advantage
+  - global_workforce
+  - ricardian_model
+  - terms_of_trade
+aliases:
+  - Chapter 3
+  - Great Doubling
+  - PPF
+key_concepts:
+  - Comparative advantage principle
+  - Cross-country productivity gaps
+  - Global workforce doubling
+  - Sectoral competitiveness
+  - Terms of trade changes
 ---
+
 # Chapter 3-Comparative Advantage,  Competitiveness,  and the Terms of Trade
 
 [[Chapter 3-Comparative Advantage,   Competitiveness,   and the Terms of Trade|competitive]]

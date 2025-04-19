@@ -1,22 +1,35 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - HomeMax Case Study Solution.md
-  - HomeMax Case Study Solution
 title: HomeMax Case Study Solution
 tags:
-  - '#capital_structure'
-  - '#debt_recovery'
-  - '#distressed_debt_investing'
-  - '#enterprise_value'
-  - '#financial_analysis'
-  - '#homemax_case_study'
-  - '#oaktree_capital'
-  - '#restructuring_plan'
-  - '#stakeholder_negotiations'
-  - '#valuation_analysis'
+  - capital_structure
+  - case_study
+  - debt_recovery
+  - distressed_debt
+  - financial_analysis
+  - homemax_inc
+  - investment_analysis
+  - oaktree_capital
+  - restructuring
+  - valuation
+aliases:
+  - Distressed Investing
+  - HomeMax Case Study
+  - Howard Marks
+  - Restructuring Plan
+  - Train & Co. Acquisition
+key_concepts:
+  - Acquisition by Train & Co.
+  - Capital structure analysis
+  - Distressed debt investing
+  - Enterprise value estimation
+  - Equity allocation valuation
+  - HomeMax Inc. overview
+  - Restructuring process steps
+  - Risk considerations
 ---
+
 # HomeMax Case Study Solution
 
 Comprehensive Walkthrough of HomeMax Inc. Case Study

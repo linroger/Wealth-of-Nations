@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#exotic_options'
-  - '#hedging_portfolios'
-  - '#implied_volatilities'
-  - '#interest_rate_derivatives'
-  - '#option_pricing'
-  - '#pricing_with_a_smile'
-  - '#replicating_portfolio'
-  - '#volatility_smile'
+  - exotic_options
+  - hedging_portfolios
+  - interest_rate_derivatives
+  - pricing_with_a_smile
+  - volatility_smile
+aliases:
+  - Caps and Floors
+  - Exotic Options
+  - Pricing with Smile
+  - Volatility Smile
+key_concepts:
+  - Caps and Floors
+  - Exotic Option Pricing
+  - Pricing and Hedging
+  - Replicating Portfolio
+  - Volatility Smile Parameter
 ---
+
 # 16.16 PRICING WITH A SMILE  
 
 Pricing and hedging are fairly closely related activities, at least in abstract settings. Once an asset is. replicated with liquid securities, the price of the asset is the cost of the replicating portfolio plus. some profit margin. At several points in the previous chapters, we saw that assets can be replicated using a series of options with different strike prices. This was the method applied for finding a hedge for a volatility swap in Chapter 15, for example. The replicating portfolio was made of a weighted sum of relevant options with the same characteristics except for their strikes. In. Chapter 12, we saw that option portfolios could replicate statically almost any future payoff func-. tion. Again, these options were similar except for their strike prices..  

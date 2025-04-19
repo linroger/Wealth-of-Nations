@@ -1,15 +1,30 @@
 ---
 tags:
-  - '#abandonment_option'
-  - '#amazon_com_valuation'
-  - '#derivatives_market_losses'
-  - '#expansion_option'
-  - '#investment_valuation'
-  - '#market_price_of_risk'
-  - '#option_pricing'
-  - '#real_options'
-  - '#risk_neutral_valuation'
+  - abandonment_options
+  - amazon_valuation
+  - american_options
+  - contraction_options
+  - expansion_options
+  - investment_options
+  - options_to_defer
+  - real_options
+  - stochastic_processes
+aliases:
+  - Amazon Valuation
+  - Investment Project Options
+  - Project Options
+  - Real Options
+key_concepts:
+  - Abandonment option
+  - American call option
+  - Contraction options
+  - Expansion options
+  - Investment projects options
+  - Monte Carlo simulation
+  - Options to defer
+  - Stochastic processes revenue
 ---
+
 # 36.5 EVALUATING OPTIONS IN AN INVESTMENT OPPORTUNITY  
 
 As already mentioned, most investment projects involve options. These options can add considerable value to the project and are often either ignored or valued incorrectly.. Examples of the options embedded in projects are:.  

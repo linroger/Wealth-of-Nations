@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#fat_fingers'
-  - '#front_running'
-  - '#insider_trading'
-  - '#market_manipulation'
-  - '#payment_for_order_flow'
-  - '#ponzi_schemes'
-  - '#rogue_trading'
-  - '#securities_fraud'
-  - '#spoofing'
-  - '#technical_glitches'
+  - financial_trading
+  - fraud_detection
+  - investor_behavior
+  - market_dysfunction
+  - securities_fraud
+aliases:
+  - Dark Side of Finance
+  - Trading Failures
+key_concepts:
+  - Dysfunctional markets
+  - Financial fraud impact
+  - Fraud detection rates
+  - Investor capital allocation
+  - Securities fraud costs
 ---
+
 # Trading Gone Awry  
 
 # 13.1 THE DARK SIDE OF FINANCE  

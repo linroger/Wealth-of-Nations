@@ -1,16 +1,30 @@
 ---
 tags:
-  - '#barbell_portfolio'
-  - '#coupon_bonds'
-  - '#equity_swaps'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#interest_rate_derivatives'
-  - '#interest_rate_swaps'
-  - '#libor'
-  - '#yield_curve_calculation'
-  - '#zero_coupon_bonds'
+  - cash_flow_manipulations
+  - forward_contracts
+  - futures_contracts
+  - interest_rate_derivatives
+  - market_practitioners
+  - term_structure
+  - yield_curve_calculation
+aliases:
+  - Chapter 3.14
+  - Conclusions
+  - Forward Contracts
+  - Yield Curve
+key_concepts:
+  - Cash flow manipulations
+  - Contractual equation manipulation
+  - Engineering aspects derivatives
+  - Exchange at future date
+  - Forward rate (LIBOR) processes
+  - Futures and forward markets
+  - Off-balance sheet items
+  - Synthetic loans and deposits
+  - Term structure interest rates
+  - Zero initial cash payments
 ---
+
 # 3.14 CONCLUSIONS  
 
 This chapter has developed two main ideas. First, we considered the engineering aspects of simple interest rate derivatives such as forward loans and FRAs. Second, we developed our first contractual equation. This equation was manipulated to obtain synthetic loans, synthetic deposits, and synthetic FRAs. A careful use of such contractual equations may provide useful techniques that are normally learned only after working in financial markets. We introduced the term structure of interest rates and introduced the forward rate (LIBOR) processes. The chapter continued to build on the simple graphical financial engineering methods that are based on cash flow manipulations.  

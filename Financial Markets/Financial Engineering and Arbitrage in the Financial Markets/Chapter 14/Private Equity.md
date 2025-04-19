@@ -1,16 +1,30 @@
 ---
 tags:
-  - '#exit_strategies'
-  - '#ipo'
-  - '#j_curve'
-  - '#leverage_buyout'
-  - '#limited_partnership'
-  - '#mezzanine_capital'
-  - '#private_equity'
-  - '#private_equity_funds'
-  - '#secondary_sales'
-  - '#venture_capital'
+  - investment
+  - lbo
+  - limited_partnership
+  - private_equity
+  - venture_capital
+aliases:
+  - LBO
+  - Leveraged Buyout
+  - PE
+  - Private Equity
+key_concepts:
+  - Capital call liability
+  - General partner (GP)
+  - Leverage buyout (LBO)
+  - Limited partners (LPs)
+  - Limited partnership funds
+  - Limited partnership shares
+  - Mezzanine debt financing
+  - Net asset value (NAV)
+  - Operating cash flows
+  - Private equity firms
+  - Raise funds for acquisitions
+  - Return on investment
 ---
+
 # 14.1  PRIVATE EQUITY  
 
 Private equity firms have generally two ways to raise funds when acquiring a company. One, common in taking a publicly traded company private, is to have the acquired  

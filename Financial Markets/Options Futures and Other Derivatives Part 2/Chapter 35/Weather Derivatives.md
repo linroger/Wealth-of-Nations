@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cme_weather_contracts'
-  - '#cooling_degree_days_cdd'
-  - '#heating_degree_days_hdd'
-  - '#hedging_weather_risk'
-  - '#over_the_counter_products'
-  - '#weather_derivatives'
-  - '#weather_futures'
-  - '#weather_risk_management_association'
+  - cdd
+  - cme_weather_contracts
+  - hhd
+  - otc_derivatives
+  - weather_derivatives
+aliases:
+  - CDD
+  - HDD
+  - Weather Derivatives
+key_concepts:
+  - companies hedge weather risk
+  - cooling degree days
+  - cumulative HDD or CDD
+  - forward or option contract
+  - heating degree days
 ---
+
 # 35.5 WEATHER DERIVATIVES  
 
 Many companies are in the position where their performance is liable to be adversely affected by the weather.' It makes sense for these companies to consider hedging their weather risk in much the same way as they hedge foreign exchange or interest rate risks.  

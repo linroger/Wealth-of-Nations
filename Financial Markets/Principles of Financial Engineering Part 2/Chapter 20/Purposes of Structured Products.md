@@ -1,16 +1,24 @@
 ---
 tags:
-  - '#cliquets'
-  - '#equity_structured_products'
-  - '#forward_volatility'
-  - '#hedging_strategies'
-  - '#mountain_options'
-  - '#option_payoffs'
-  - '#principal_protected_products'
-  - '#reverse_convertibles'
-  - '#structured_products'
-  - '#volatility_gamma'
+  - asset_liability_management
+  - credit_enhancement
+  - payoff_profile
+  - structured_products
+  - yield_enhancement
+aliases:
+  - Objectives of Structured Products
+  - Structured Product Purposes
+key_concepts:
+  - Asset/liability management
+  - Credit enhancement
+  - Desired payoff profile
+  - Equity structured products
+  - Principal protected products
+  - Stop-loss strategies
+  - Yield enhancement
+  - Zero coupon bond plus call
 ---
+
 # 20.2 PURPOSES OF STRUCTURED PRODUCTS  
 
 Structured products may have at least four specific objectives.  

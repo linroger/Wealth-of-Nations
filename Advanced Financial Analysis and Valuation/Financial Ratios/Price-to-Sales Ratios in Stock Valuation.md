@@ -1,16 +1,22 @@
 ---
-aliases:
 tags:
-  - '#debt_analysis'
-  - '#enterprise_value'
-  - '#growth_stocks'
-  - '#industry_comparison'
-  - '#market_capitalization'
-  - '#p_s_ratio_calculation'
-  - '#price_sales_ratio'
-  - '#revenue_analysis'
-  - '#stock_valuation_metrics'
+  - financial_ratios
+  - growth_stocks
+  - price_sales_ratio
+  - ps_ratio
+  - stock_valuation
+aliases:
+  - P/S
+  - P/S Ratio
+  - Price/Sales
+key_concepts:
+  - Company revenue
+  - Low P/S is good
+  - Market capitalization
+  - Undervalued or overvalued
+  - Valuing growth stocks
 ---
+
 [[[[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratios in Stock Valuation|[[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratio]]
 Investors are always seeking ways to compare the value of stocks. The [[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] ratio utilizes a company's market capitalization and revenue to determine whether the stock is valued properly.
 

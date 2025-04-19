@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#abm_arithmetic_drift'
-  - '#abm_geometric_drift'
-  - '#asset_price_change'
-  - '#asset_value'
-  - '#expected_price_change'
-  - '#normal_distribution'
-  - '#price_change_variance'
-  - '#stochastic_process'
+  - arithmetic_brownian_motion
+  - asset_price_change
+  - asset_value
+  - geometric_drift
+  - log_transformations
+aliases:
+  - Asset Price Dynamics
+  - Stochastic Asset Price
+key_concepts:
+  - ABM with arithmetic drift
+  - ABM with geometric drift
+  - Expected price change variance
+  - Price change over time
+  - Successive returns linking
 ---
+
 # 12.2 A STOCHASTIC PROCESS FOR THE ASSET PRICE CHANGE
 
 The price change on the asset from a starting point of time 0 to a point of time $d t$ is simply the dollar change or5

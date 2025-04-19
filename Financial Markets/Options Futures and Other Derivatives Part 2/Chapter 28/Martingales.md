@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#arbitrage_opportunities'
-  - '#equivalent_martingale_measure'
-  - '#ito_lemma'
-  - '#market_price_of_risk'
-  - '#martingale'
-  - '#numeraire'
-  - '#stochastic_process'
-  - '#volatility'
-  - '#wiener_process'
+  - arbitrage
+  - martingale
+  - risk_neutral_pricing
+  - stochastic_process
+  - wiener_process
+aliases:
+  - equivalent martingale measure
+  - martingales
+  - numeraire
+key_concepts:
+  - Wiener process
+  - expected value
+  - market price of risk
+  - no arbitrage opportunities
+  - zero-drift stochastic process
 ---
+
 # 28.3 MARTINGALES  
 
 A martingale is a zero-drift stochastic process. A variable $\theta$ follows a martingale if its process has the form.  

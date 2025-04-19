@@ -1,17 +1,29 @@
 ---
-aliases:
 tags:
-  - '#cost_of_capital'
-  - '#emerging_markets'
-  - '#information_risk'
-  - '#international_risks'
-  - '#international_valuation'
-  - '#investor_protection'
-  - '#ownership_structure'
-  - '#political_risk'
-  - '#scenario_analysis'
-  - '#wacc'
+  - corporate_governance
+  - cost_of_capital
+  - emerging_markets
+  - international_risks
+  - investor_protection
+  - ownership_structure
+  - political_risk
+  - transparency
+  - valuation
+aliases:
+  - Global Valuation
+  - International Valuation
+  - Week 8
+key_concepts:
+  - Cost of capital pitfalls
+  - DCF for foreign business
+  - Emerging market opportunities
+  - Global valuation process
+  - International risk measurement
+  - Ownership structure impacts
+  - Political risk assessment
+  - Transparency and information risk
 ---
+
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## TODAY

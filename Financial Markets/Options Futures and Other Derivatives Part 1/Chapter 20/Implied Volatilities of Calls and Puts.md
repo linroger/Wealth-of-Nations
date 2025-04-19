@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#call_options'
-  - '#european_options'
-  - '#implied_volatility'
-  - '#no_arbitrage'
-  - '#put_call_parity'
-  - '#put_options'
-  - '#volatility_smile'
-  - '#volatility_surface'
+  - black_scholes_merton
+  - european_options
+  - implied_volatility
+  - put_call_parity
+  - volatility_smile
+aliases:
+  - Implied Volatility
+  - Volatility Surface
+key_concepts:
+  - Black-Scholes-Merton model
+  - Implied volatility equality
+  - No-arbitrage argument
+  - Put-call parity relationship
+  - Volatility smile definition
 ---
+
 # 20.1 IMPLIED VOLATILITIES OF CALLS AND PUTS  
 
 This section shows that the implied volatility of a European call option is the same as. that of a European put option when they have the same strike price and time to. maturity. This is a particularly convenient result. It shows that when talking about a volatility smile or volatility surface we do not have to worry about whether the options are calls or puts.  

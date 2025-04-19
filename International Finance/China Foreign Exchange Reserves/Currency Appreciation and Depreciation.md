@@ -1,20 +1,25 @@
 ---
-aliases:
 cssclasses: academia
 title: Currency Appreciation and Depreciation
 source: https://en.wikipedia.org/wiki/Currency_appreciation_and_depreciation
 description:
 tags:
-  - '#currency_appreciation_depreciation'
-  - '#distributional_consequences'
-  - '#economic_indicators'
-  - '#exchange_rate_determinants'
-  - '#floating_exchange_rate'
-  - '#monetary_policy_impact'
-  - '#purchasing_power_parity'
-  - '#speculative_funds'
-  - '#trade_balance'
+  - currency_appreciation
+  - currency_depreciation
+  - economic_factors
+  - exchange_rates
+  - floating_exchange_rate
+aliases:
+  - Currency Value Changes
+  - FX Appreciation/Depreciation
+key_concepts:
+  - Currency value fluctuations
+  - Demand and supply
+  - Floating exchange rate system
+  - Impact on prices
+  - Speculative fund movements
 ---
+
 # Currency Appreciation and Depreciation
 
 **Currency depreciation** is the loss of value of a country's [currency](https://en.wikipedia.org/wiki/Currency "Currency") with respect to one or more foreign reference currencies,  typically in a [floating exchange rate](https://en.wikipedia.org/wiki/Floating_exchange_rate "Floating exchange rate") system in which no official currency value is maintained. **Currency appreciation** in the same context is an increase in the value of the currency. Short-term changes in the value of a currency are reflected in changes in the [exchange rate](https://en.wikipedia.org/wiki/Exchange_rate "Exchange rate").[^1][^2][^3][^4]

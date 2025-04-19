@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#cir_model'
-  - '#interest_rates'
-  - '#market_price_of_risk'
-  - '#real_world_vs_risk_neutral'
-  - '#short_rate'
-  - '#vasicek_model'
-  - '#zero_coupon_bond'
+  - cir_model
+  - real_world_process
+  - risk_neutral_process
+  - vasicek_model
+  - zero_coupon_bond
+aliases:
+  - market price of risk
+  - risk premium
+key_concepts:
+  - Bonds have positive risk
+  - Interest rates are negative
+  - Real-world process
+  - Risk-neutral process
+  - Vasicek's model
 ---
+
 # 31.3 REAL-WORLD VS. RISK-NEUTRAL PROCESSES  
 
 Bonds have a positive market price of risk (i.e., positive systematic risk), so investors require an extra return over the risk-free rate for investing in bonds. Interest rates are negatively related to bond prices and therefore have negative market prices of risk.  

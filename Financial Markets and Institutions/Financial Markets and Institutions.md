@@ -1,14 +1,29 @@
 ---
 tags:
-  - '#assets'
-  - '#banking'
-  - '#debt'
-  - '#derivatives'
-  - '#financial_institutions'
-  - '#financial_markets'
-  - '#intermediation'
-  - '#liquidity'
+  - assets
+  - banking
+  - debt
+  - derivatives
+  - finance
+  - financial_markets
+  - institutions
+  - intermediation
+  - liquidity
+  - markets
+aliases:
+  - Financial Institutions
+  - Financial Markets
+key_concepts:
+  - Asset management
+  - Banking institutions
+  - Debt instruments
+  - Derivatives trading
+  - Financial intermediation
+  - Financial markets
+  - Market liquidity
 ---
+
+
 __MASK_7_6__
 
 # Financial Markets and Institutions

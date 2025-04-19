@@ -1,22 +1,25 @@
 ---
-aliases:
-  - 
-  - 
-  - PSET 7 SOLUTIONS
 linter-yaml-title-alias: PSET 7 SOLUTIONS
 title: PSET 7 SOLUTIONS
 tags:
-  - '#american_options'
-  - '#asset_volatility'
-  - '#black_scholes'
-  - '#citigroup_default'
-  - '#credit_crisis'
-  - '#default_probability'
-  - '#dividend_payments'
-  - '#early_exercise'
-  - '#merton_model'
-  - '#option_pricing'
+  - american_option
+  - american_put_option
+  - dividend_payments
+  - early_exercise
+  - european_call_option
+aliases:
+  - American Options
+  - Call Option
+  - Homework 7
+  - PSET 7
+key_concepts:
+  - American option payoff
+  - Continuously compounded interest
+  - Dividend payments impact
+  - Early exercise value
+  - Risk neutral probability
 ---
+
 # PSET 7 SOLUTIONS
 ## WINTER 2024
 

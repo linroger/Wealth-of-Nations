@@ -1,14 +1,28 @@
 ---
 tags:
-  - '#asset_pricing_models'
-  - '#consumption_based_capital_asset_pricing_model'
-  - '#derivative_securities'
-  - '#market_equilibrium'
-  - '#risk_neutral_probabilities'
-  - '#state_price_deflator'
-  - '#stochastic_processes'
-  - '#term_structure_of_interest_rates'
+  - asset_pricing
+  - book_organization
+  - financial_assets
+  - state_price_deflator
+  - stochastic_processes
+aliases:
+  - Book Structure
+key_concepts:
+  - Arbitrage and market completeness
+  - Bond prices and term structure
+  - Consumption and investment decisions
+  - Consumption-based CAPM (CCAPM)
+  - Derivative securities discussion
+  - Factor models of asset pricing
+  - Financial asset modeling
+  - Investor preferences representation
+  - Market equilibrium analysis
+  - Risk-adjusted probability measure
+  - State-price deflator definition
+  - Stochastic processes introduction
+  - Uncertainty and information flow
 ---
+
 # 1.4 The organization of this book  
 
 The remainder of this book is organized as follows. Chapter 2 discusses how to represent uncertainty and information flow in asset pricing models. It also introduces stochastic processes and some key results on how to deal with stochastic processes, which we will use in later chapters.  

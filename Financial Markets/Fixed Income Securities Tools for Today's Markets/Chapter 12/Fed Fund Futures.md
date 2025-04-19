@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#curve_building'
-  - '#fed_fund_futures'
-  - '#fed_funds_effective_rate'
-  - '#federal_reserve_policy'
-  - '#flat_forwards'
-  - '#fomc_meetings'
-  - '#forward_rates'
-  - '#market_expectations'
-  - '#term_structure_of_interest_rates'
+  - fed_funds_futures
+  - fed_funds_market
+  - futures_contracts
+  - interest_rates
+  - monetary_policy
+aliases:
+  - FF Futures
+  - Fed Funds
+  - Fed Funds Futures
+key_concepts:
+  - Federal Reserve system
+  - abundant reserves regime
+  - effective fed funds rate
+  - overnight borrowing/lending
+  - policy target range
 ---
+
 # 12.3 FED FUND FUTURES  
 
 Banks that have accounts at the Federal Reserve system can trade these fed funds with each other; that is, they can borrow from and lend to each.  

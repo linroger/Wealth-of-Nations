@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#bond_convexity'
-  - '#bond_pde'
-  - '#closed_form_solutions'
-  - '#convexity_gains'
-  - '#cox_ingersoll_ross_cir_model'
-  - '#delta_hedging'
-  - '#interest_rate_volatility'
-  - '#short_rate_dynamics'
-  - '#vasicek_model'
-  - '#volatility_trading'
+  - bond_convexity
+  - delta_neutral
+  - discount_bond
+  - interest_rate_volatility
+  - one_factor_model
+aliases:
+  - Bond Trading
+  - Convexity Trades
+  - Yield Curve
+key_concepts:
+  - Convexity of bond prices
+  - Delta-neutral portfolio
+  - Long maturity bonds
+  - One-factor model
+  - Short bond price
 ---
+
 # 10.3 BOND CONVEXITY TRADES  
 
 We have already seen convexity trades within the context of vanilla options. Straightforward discount bonds, especially those with long maturities, can be analyzed in a similar fashion and have exposure to interest rate volatility. In fact, a "long"' bond and a vanilla option are both convex instruments and they both coexist with instruments that are either linear or have less convexity.2. Hence, a delta-neutral portfolio can be put together for long maturity bonds to benefit from volatil-. ity shifts. The overall logic will be similar to the options discussed in the previous chapter..  

@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#binary_options'
-  - '#black_scholes_merton_model'
-  - '#european_options'
-  - '#feynman_kac_theorem'
-  - '#ito_process'
-  - '#option_pricing'
-  - '#partial_differential_equation'
-  - '#risk_neutrality'
+  - black_scholes_merton_model
+  - expectations_approach
+  - martingale_probabilities
+  - option_pricing
+  - risk_neutrality
+aliases:
+  - BSM model derivation
+  - Expectations approach
+  - Risk-neutral valuation
+key_concepts:
+  - Black-Scholes-Merton model
+  - Equivalent martingale probabilities
+  - Expected call price
+  - Risk-free rate
+  - Risk-neutral investors
 ---
+
 # 13.3 DERIVING THE BLACK-SCHOLES-MERTON MODEL AS AN EXPECTED VALUE
 
 Another approach to deriving the Black-Scholes-Merton model is to treat the option as if it were valued in a world of risk-neutral investors. The Black-Scholes-Merton price is then found as the present value of the expected call price at expiration. We term this solution methodology as the expectations approach.

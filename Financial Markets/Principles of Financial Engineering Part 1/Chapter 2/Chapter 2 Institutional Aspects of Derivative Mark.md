@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#derivative_markets'
-  - '#financial_instruments'
-  - '#institutional_aspects'
-  - '#market_conventions'
-  - '#market_mechanics'
-  - '#market_players'
-  - '#syndication_process'
+  - derivative_markets
+  - institutional_factors
+  - market_conventions
+  - market_mechanics
+  - syndication_process
+aliases:
+  - Chapter 2
+  - Institutional Derivatives
+key_concepts:
+  - Deal mechanics explained
+  - Derivative market overview
+  - Market conventions defined
+  - Market participants
+  - Syndication process details
 ---
+
 # CHAPTER 2 Institutional Aspects of Derivative Markets.. 25  
 
 2.1 Introduction. 26   

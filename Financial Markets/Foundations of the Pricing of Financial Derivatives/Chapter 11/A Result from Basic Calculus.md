@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#basic_calculus'
-  - '#differential_calculus'
-  - '#first_order_changes'
-  - '#ito_s_lemma'
-  - '#mathematical_functions'
-  - '#partial_derivatives'
-  - '#taylor_series_expansion'
+  - basic_calculus
+  - derivatives
+  - ito_lemma
+  - mathematical_function
+  - taylor_series
+aliases:
+  - Calculus Result
+  - Ito's Lemma Basics
+key_concepts:
+  - First-order changes
+  - Ito's lemma elements
+  - Ordinary calculus reminder
+  - Partial derivative changes
+  - Taylor series expansion
 ---
+
 # 11.1 A RESULT FROM BASIC CALCULUS
 
 Although there is a great deal of formal mathematical rigor to Ito's lemma, the essential elements are relatively simple. Let us begin, however, with a reminder of a few basic results from ordinary calculus. Recall that any differential in ordinary calculus,. $d t<1$ , has a limit. of zero if raised to a power greater than 1.0. In other words,. $d t^{k}\to0$ if $k>1$ . Consider a generic mathematical function such as $\boldsymbol{F}(\boldsymbol{x},t)$ in which the first and second derivatives. exist with respect to. $x$ and $t$ . Using a Taylor series expansion, the change in value of the. function can be expressed as

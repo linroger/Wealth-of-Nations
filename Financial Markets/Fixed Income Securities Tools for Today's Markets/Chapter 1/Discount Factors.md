@@ -1,13 +1,22 @@
 ---
 tags:
-  - '#bond_prices'
-  - '#cash_flows'
-  - '#discount_factors'
-  - '#maturity_dates'
-  - '#present_value'
-  - '#time_value_of_money'
-  - '#treasury_bonds'
+  - bond_pricing
+  - discount_factors
+  - present_value
+  - term_structure
+  - treasury_bonds
+aliases:
+  - Discount Factor
+  - Present Value
+  - d(t)
+key_concepts:
+  - Bonds and discount factors
+  - Discount factor definition
+  - Present value of currency
+  - US Treasury bonds
+  - Value decreases with term
 ---
+
 # 1.2 DISCOUNT FACTORS  
 
 The discount factor for a particular term gives the value today, or the present. value, of one unit of currency to be received at the end of that term. Denote the discount factor for $t$ years by $d(t)$ . Then, for example, if. $d(3.0)=0.99$ the present value of. $\$1$ to be received in three years is 99 cents.  

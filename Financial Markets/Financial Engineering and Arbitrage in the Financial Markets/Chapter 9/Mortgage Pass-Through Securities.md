@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#cash_flow_analysis'
-  - '#duration'
-  - '#interest_rate_sensitivity'
-  - '#mortgage_pass_through_securities'
-  - '#negative_convexity'
-  - '#prepayment_risk'
-  - '#psa_assumption'
-  - '#weighted_average_life_wal'
-  - '#yield_curve'
+  - interest_rates
+  - mbs
+  - mortgage_backed_securities
+  - pass_through_securities
+  - prepayment_risk
+aliases:
+  - MBS
+  - Mortgage Pools
+  - Pass-Throughs
+key_concepts:
+  - Cash flow distribution
+  - Duration and convexity
+  - Mortgage pool information
+  - Prepayment risk
+  - Servicing fee
 ---
+
 # 9.3 MORTGAGE PASS-THROUGH SECURITIES  
 
 When individual mortgages are combined into pools, one generally needs to know the following information about the pool:  

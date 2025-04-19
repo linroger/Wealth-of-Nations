@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#efficient_market_hypothesis'
-  - '#equity_markets'
-  - '#initial_public_offering'
-  - '#ordinary_shares'
-  - '#preference_shares'
-  - '#rights_issues'
-  - '#share_repurchase'
-  - '#stock_exchanges'
-  - '#stock_market_indices'
-  - '#stock_splits'
+  - capital_allocation
+  - equity_markets
+  - market_efficiency
+  - shareholders
+  - stock_exchange
+aliases:
+  - Efficient Market Hypothesis
+  - Equity Markets
+  - Stock Exchanges
+key_concepts:
+  - Acquisition motives
+  - Benefits of stock exchange
+  - Efficient capital allocation
+  - Level playing field
+  - Liquid stock exchanges
+  - NPV decision rule
+  - Public company reporting
+  - Shareholder wealth
 ---
+
 # 1 An introduction to equity markets  
 
 # 1.1 The benefits of a smooth-running stock exchange  

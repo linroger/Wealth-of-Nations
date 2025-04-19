@@ -1,11 +1,25 @@
 ---
 title: Credit Markets
-aliases:
-  - CREDIT MARKETS
 linter-yaml-title-alias: CREDIT MARKETS
 tags:
-  - '#credit_markets'
+  - bond_market
+  - credit_markets
+  - credit_risk
+  - financial_markets
+  - market_instruments
+aliases:
+  - Bond Market
+  - Credit
+  - Credit Market
+  - Debt Market
+key_concepts:
+  - Bond market dynamics
+  - Credit market instruments
+  - Credit risk assessment
+  - Debt instruments
+  - Market participants
 ---
+
 # Credit Markets
 
 %% Begin Waypoint %%

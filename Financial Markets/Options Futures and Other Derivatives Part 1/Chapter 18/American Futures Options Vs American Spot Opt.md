@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#american_futures_options'
-  - '#american_spot_options'
-  - '#early_exercise'
-  - '#futures_options_pricing'
-  - '#futures_vs_spot_options'
-  - '#market_conditions'
-  - '#option_maturity'
+  - american_futures_options
+  - american_spot_options
+  - call_option
+  - futures_prices
+  - put_option
+aliases:
+  - American Futures Options
+  - American Spot Options
+key_concepts:
+  - American futures options
+  - American spot option value
+  - Early exercise futures option
+  - Futures prices vs spot prices
+  - Inverted vs normal market
 ---
+
 # 18.10 AMERICAN FUTURES OPTIONS vs. AMERICAN SPOT OPTIONS  
 
 Traded futures options are in practice usually American. Assuming that the risk-free rate of interest, $r$ is positive, there is always some chance that it will be optimal to exercise an American futures option early. American futures options are therefore worth more than their European counterparts.  

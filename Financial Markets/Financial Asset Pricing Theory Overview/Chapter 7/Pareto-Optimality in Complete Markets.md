@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arrow_debreu_assets'
-  - '#asset_pricing'
-  - '#complete_markets'
-  - '#equilibrium_consumption'
-  - '#first_welfare_theorem'
-  - '#pareto_optimality'
-  - '#representative_individual'
-  - '#risk_sharing'
-  - '#state_price_deflator'
-  - '#time_additive_utility'
+  - complete_markets
+  - consumption_allocation
+  - first_welfare_theorem
+  - pareto_optimality
+  - risk_sharing
+aliases:
+  - First Welfare Theorem
+  - Pareto optimality
+key_concepts:
+  - complete market equilibrium
+  - consumption allocation
+  - efficient risk sharing
+  - marginal rate of substitution
+  - state price deflator
 ---
+
 # 7.3 Pareto-optimality in complete markets  
 
 From the analysis in the previous chapter we know that any individual's marginal rate of substitution is a valid state-price deflator. With time-additive expected utility the state-price deflator. induced by individual $\it l$ is the random variable  

@@ -1,3 +1,21 @@
+---
+tags:
+  - arbitrage
+  - cash_and_carry
+  - forward_contracts
+  - futures_prices
+  - risk_free_rate
+aliases:
+  - Forward Pricing
+  - Futures Pricing
+  - No-Arbitrage Pricing
+key_concepts:
+  - Cash-and-carry arbitrage
+  - Fair forward price
+  - Forward contract replication
+  - Implied repo rate
+  - Income stream impact
+---
 # Forward and Futures Prices  
 
 # Aims  

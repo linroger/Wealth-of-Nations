@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#brownian_motion'
-  - '#geometric_brownian_motion'
-  - '#implied_volatility'
-  - '#limits_to_arbitrage'
-  - '#market_efficiency'
-  - '#option_pricing'
-  - '#pairs_trading'
-  - '#random_walks'
-  - '#risk_assessment'
+  - market_efficiency
+  - markov_process
+  - martingale
+  - random_walks
+  - stochastic_process
+aliases:
+  - Markov Process
+  - Random Security Price Changes
+key_concepts:
+  - Discrete time process
+  - Market efficiency
+  - Martingale process
+  - Random security price changes
+  - Stochastic process
 ---
+
 # Random Walks, Risk, and Arbitrage  
 
 # 7.1 MARKET EFFICIENCY AND RANDOM WALKS  

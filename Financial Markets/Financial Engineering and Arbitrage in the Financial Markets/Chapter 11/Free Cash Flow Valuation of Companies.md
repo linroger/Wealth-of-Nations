@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#cash_flow_statement_analysis'
-  - '#cost_of_equity'
-  - '#discounted_cash_flow'
-  - '#enterprise_value'
-  - '#fcfe'
-  - '#fcff'
-  - '#free_cash_flow_valuation'
-  - '#income_statement_analysis'
-  - '#terminal_value'
-  - '#weighted_average_cost_of_capital'
+  - company_valuation
+  - cost_of_equity
+  - discounting
+  - fcfe
+  - fcff
+  - free_cash_flow
+aliases:
+  - Company Valuation
+  - FCF Valuation
+  - Free Cash Flow
+key_concepts:
+  - Discount rate for equity
+  - Dividends vs FCFE vs FCFF
+  - Perpetual stock valuation
+  - Present value of cash flows
+  - Stock cash flow definitions
 ---
+
 # 11.2  FREE CASH FLOW VALUATION OF COMPANIES  
 
 The value of any security is equal to the present value of its cash flows. The value of the bond is the PV of the coupon annuity plus the PV of the principal. The value of the option is the PV of the contingent payout it might pay. The value of a real estate investment is the PV of the rent we may get minus expenses plus the PV of the future price we may sell for net of the initial price plus costs.  

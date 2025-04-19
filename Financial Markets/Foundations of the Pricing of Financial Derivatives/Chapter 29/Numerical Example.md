@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_payoffs'
-  - '#asset_pricing'
-  - '#complex_assets'
-  - '#numerical_example'
-  - '#pure_assets'
-  - '#risk_free_asset'
-  - '#risk_free_rate'
-  - '#scalar_notation'
+  - complex_assets
+  - numerical_example
+  - pure_assets
+  - risk_free_asset
+  - risk_free_rate
+aliases:
+  - Example
+  - Numerical Example
+key_concepts:
+  - Complex asset payoffs
+  - Pure asset prices
+  - Risk-free asset
+  - Risk-free rate calculation
+  - Scalar notation equations
 ---
+
 # 29.3 NUMERICAL EXAMPLE
 
 Let there be four states and four complex assets. The payoffs of these assets are shown in the columns of the matrix $\mathbf{H}$ here, where the rows are the states and the columns are the assets:

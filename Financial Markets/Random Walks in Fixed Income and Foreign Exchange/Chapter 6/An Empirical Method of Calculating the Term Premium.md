@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#economic_activity'
-  - '#empirical_method'
-  - '#forward_rates'
-  - '#inflation_expectations'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#quantitative_easing'
-  - '#risk_premium'
-  - '#term_premium'
-  - '#yield_curve'
+  - forward_rates
+  - interest_rates
+  - monetary_policy
+  - term_premium
+  - yield_curve
+aliases:
+  - Calculating Term Premium
+  - Term Premium Calculation
+key_concepts:
+  - Forward rate errors
+  - Interest rate risk
+  - Monetary policy impact
+  - Term premium importance
+  - Yield curve slope
 ---
+
 # Chapter 6 An Empirical Method of Calculating the Term Premium
 
 Interest rates tend to be higher for longer term instruments, reflecting the additional risk to the lender of longer term loans. Essentially, over a long period, unpredictable and unforeseeable risks accumulate, and the lender (usually) demands an additional return to their capital to compensate for this. This is one explanation for the tendency of yield curves to in general slope upwards. While simple in theory, this term premium is not directly observable and more difficult to measure than one might expect. We present a straightforward empirical calculation method using forward rate errors which works for all liquid currencies and has excellent correlation with more complex methods.

@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#credit_risk'
-  - '#fannie_mae'
-  - '#liquidity'
-  - '#mbs_characteristics'
-  - '#mbs_investors'
-  - '#mortgage_backed_securities'
-  - '#mortgage_securitization'
-  - '#pass_through_rate'
+  - fannie_mae
+  - mbs
+  - mortgage_backed_securities
+  - mortgage_market
+  - pass_through_certificates
+aliases:
+  - mbs market
+  - mortgage securities
+key_concepts:
+  - Book-entry certificates
+  - Fannie Mae servicing fee
+  - 'MBS: underlying asset'
+  - Pass-through rate
+  - Pro-rata cash flow share
 ---
+
 # 17.5 MORTGAGE-BASED SECURITIES  
 
 MBS is a very important market, especially in the United States. MBS is also called "mortgage.   

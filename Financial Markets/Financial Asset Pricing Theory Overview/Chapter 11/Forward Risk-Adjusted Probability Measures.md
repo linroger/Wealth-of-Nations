@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#dividend_valuation'
-  - '#forward_measure'
-  - '#forward_risk_adjusted_probability_measures'
-  - '#girsanov_theorem'
-  - '#radon_nikodym_derivative'
-  - '#risk_neutral_valuation'
-  - '#state_price_deflators'
-  - '#zero_coupon_bonds'
+  - dividend_pricing
+  - forward_measure
+  - risk_neutral_valuation
+  - state_price_deflator
+  - zero_coupon_bonds
+aliases:
+  - Forward martingale measure
+  - Forward neutral measure
+  - Forward risk-adjusted measure
+key_concepts:
+  - Forward risk-adjusted measure
+  - Radon-Nikodym derivative
+  - Risk-neutral valuation approach
+  - Time price of dividend
+  - Zero-coupon bond price
 ---
+
 # 11.4 Forward risk-adjusted probability measures  
 
 When valuing an asset with the risk-neutral valuation approach, we have to know the risk-neutral covariance between the risk-free discount factor $(R_{t,s}^{f})^{-1}$ and the asset dividend $D_{i s}$ . Except for simple cases, such covariances are hard to compute analytically. In this section we introduce an alternative probability measure where we do not need to deal with such covariances. The downside is that we have to use a separate probability measure for each payment date.  

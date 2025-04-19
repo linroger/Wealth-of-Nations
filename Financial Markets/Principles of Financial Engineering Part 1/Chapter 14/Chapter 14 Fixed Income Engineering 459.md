@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#cross_currency_swaps'
-  - '#fixed_income_engineering'
-  - '#in_arrears_swaps'
-  - '#measure_change_technology'
-  - '#quanto_swaps'
-  - '#swaps_framework'
-  - '#term_structure_dynamics'
-  - '#term_structure_modeling'
+  - cross_currency_swaps
+  - differential_swaps
+  - fixed_income_engineering
+  - measure_change
+  - term_structure_modeling
+aliases:
+  - Chapter 14
+  - Fixed Income
+  - Quanto Swaps
+key_concepts:
+  - Cross-currency swaps
+  - In-arrears swaps convexity
+  - Measure change technology
+  - Swaps framework
+  - Term structure dynamics
 ---
+
 # CHAPTER 14 Fixed Income Engineering. 459  
 
 14.1 Introduction .460   

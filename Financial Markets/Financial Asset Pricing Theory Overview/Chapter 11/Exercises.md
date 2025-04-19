@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#conditional_probabilities'
-  - '#continuous_time_framework'
-  - '#dividend_calculation'
-  - '#equation_equivalence'
-  - '#exercise_questions'
-  - '#stateprice_deflator'
-  - '#two_period_economy'
+  - conditional_probabilities
+  - continuous_time
+  - exercises
+  - state_price
+  - two_period_economy
+aliases:
+  - Exercise Questions
+  - Exercises
+key_concepts:
+  - Asset pricing
+  - Conditional probabilities
+  - Equations equivalence
+  - State-price deflator dynamics
+  - Two-period economy asset
 ---
+
 # 11.8 Exercises  
 
 EXERCISE 11.1 Show that the Equations (11.8) and (11.9) are equivalent.  

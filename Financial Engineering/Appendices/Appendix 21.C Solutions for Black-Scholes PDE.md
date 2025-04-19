@@ -1,22 +1,23 @@
 ---
 cssclasses: academia
 title: Appendix 21. C Solutions for Black-Scholes PDE
-aliases:
-  - Solutions for Black-Scholes PDE
-  - Black-Scholes PDE
-  - Black-Scholes Partial Differential Equation
 tags:
-  - '#asset_or_nothing_option'
-  - '#backward_equation'
-  - '#barrier_options'
-  - '#black_scholes_pde'
-  - '#boundary_conditions'
-  - '#cash_or_nothing_option'
-  - '#cumulative_standard_normal_distribution'
-  - '#geometric_brownian_motion'
-  - '#option_pricing'
-  - '#risk_neutral_probability'
+  - backward_equation
+  - black_scholes
+  - geometric_brownian_motion
+  - option_pricing
+  - pde
+aliases:
+  - BS equation solutions
+  - Black-Scholes PDE solutions
+key_concepts:
+  - Asset-or-nothing option
+  - Backward equation
+  - Black-Scholes equation
+  - Boundary conditions
+  - General solution
 ---
+
 # Appendix 21. C Solutions for Black-Scholes PDE
 
 The Black-Scholes partial differential equation has the form

@@ -1,17 +1,23 @@
 ---
 title: Appendix 5. A Taxes and the Forward Price
 tags:
-  - '#broker_dealers'
-  - '#capital_gains_tax'
-  - '#continuous_compounding'
-  - '#dividend_tax'
-  - '#forward_price_tax_impact'
-  - '#futures_price'
-  - '#interest_rate_tax'
-  - '#money_market_account'
-  - '#no_arbitrage_profits'
-  - '#tax_rates'
+  - arbitrage
+  - derivative_pricing
+  - forward_price
+  - futures_price
+  - taxes
+aliases:
+  - Forward contract pricing
+  - Futures vs. Forwards
+  - Tax impact
+key_concepts:
+  - Broker-dealer tax treatment
+  - Forward vs. futures prices
+  - No-arbitrage forward price
+  - Stochastic interest rates
+  - Taxes on forward prices
 ---
+
 # Appendix 5. A Taxes and the Forward Price
 
 The formulas in this chapter—and in the book to this point—have ignored taxes. In this appendix we show how taxes enter into the theoretical formula for the forward price,  and explain why in practice these tax adjustments are never used. The impact of taxes on derivative prices was studied by Scholes (1976) and Cornell and French (1983),  who showed that prices depend upon taxes when capital gains,  dividends and interest are taxed at different rates. However,  a party such as a broker-dealer,  who is taxed identically on all forms of income,  will have a fair price that is independent of taxes.

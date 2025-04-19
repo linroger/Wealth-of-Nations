@@ -1,12 +1,20 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#financial_institution'
-  - '#hedging_risks'
-  - '#option_pricing'
-  - '#option_value'
-  - '#strike_price'
+  - financial_institution
+  - hedging_risks
+  - option_pricing
+  - strike_price
+  - theoretical_value
+aliases:
+  - Example
+  - Illustration
+key_concepts:
+  - financial institution position
+  - hedging the risks
+  - option to buy share
+  - strike price value
 ---
+
 # 19.1 ILLUSTRATION  
 
 In the next few sections we use as an example the position of a financial institution that has sold for. $\$300,000$ a European call option on 100,o00 shares of a non-dividendpaying stock. We assume that the stock price is $\$49$ , the strike price is. $\$50$ , the risk-free. interest rate is. $5\%$ per annum, the stock price volatility is $20\%$ per annum, the time to maturity is 20 weeks (0.3846 years), and the expected return from the stock is $13\%$ per annum.1 With our usual notation, this means that  

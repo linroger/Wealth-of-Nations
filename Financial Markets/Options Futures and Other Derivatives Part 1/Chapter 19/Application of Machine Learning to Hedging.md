@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#delta_hedging'
-  - '#gamma_hedging'
-  - '#hedging_derivatives'
-  - '#machine_learning_hedging'
-  - '#option_greeks'
-  - '#portfolio_insurance'
-  - '#reinforcement_learning'
-  - '#vega_hedging'
-  - '#volatility_surface'
+  - hedging_strategy
+  - machine_learning
+  - portfolio_insurance
+  - reinforcement_learning
+  - trading_costs
+aliases:
+  - ML hedging
+  - derivatives hedging
+key_concepts:
+  - machine learning hedging
+  - portfolio insurance crash
+  - sequential decision problems
+  - stochastic process simulation
+  - transaction trading costs
 ---
+
 # 19.14 APPLICATION OF MACHINE LEARNING TO HEDGING  
 
 Hedging a position in derivatives involves a sequence of decisions. An initial hedge is chosen and, as the price of the underlying asset changes, further decisions have to be made at later points in time. If there are no transaction costs or other trading frictions, it is optimal to take positions that make the Greek letters equal to zero. But, if there are non-negligible costs associated with trading, the hedger will want to take these into account when developing a hedging strategy.  

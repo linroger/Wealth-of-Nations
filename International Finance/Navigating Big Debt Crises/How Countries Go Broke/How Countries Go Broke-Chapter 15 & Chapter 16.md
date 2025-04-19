@@ -7,17 +7,23 @@ published: 2000-02-13
 created: 2025-04-07
 description:
 tags:
-  - '#budget_deficit'
-  - '#debt_crisis'
-  - '#economic_indicators'
-  - '#federal_reserve'
-  - '#fiscal_policy'
-  - '#government_spending'
-  - '#interest_rates'
-  - '#monetary_policy'
-  - '#taxation'
-  - '#us_government_debt'
+  - central_bank_risk
+  - country_debt
+  - debt_indicators
+  - financial_risk
+  - reserve_currency
+aliases:
+  - Country Risk
+  - Debt Risk
+  - How Countries Go Broke
+key_concepts:
+  - Central government debt
+  - Debt risk assessment
+  - Long-term debt risks
+  - Reserve currency status
+  - Short-term debt risks
 ---
+
 *This post was originally published on February 13, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 
 ---

@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#call_on_the_min'
-  - '#min_max_option_model'
-  - '#multivariate_feynman_kac_theorem'
-  - '#option_pricing'
-  - '#stulz_min_max_option'
-  - '#vin_max_option_pricing'
+  - call_on_the_min
+  - feynman_kac_theorem
+  - multivariate_pde
+  - option_model
+  - stulz_min_max_option
+  - vin_max_option_pricing
+aliases:
+  - Chapter 21
+  - Min-Max Option
+  - Vin-Max
+key_concepts:
+  - Alternative Derivation Model
+  - Multivariate Feynman-Kac Theorem
+  - Pricing Call on Min
+  - Stulz's Min-Max Option
 ---
+
 # CHAPTER 21 Vin-Max Option Pricing
 
 # 383

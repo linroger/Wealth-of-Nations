@@ -1,17 +1,26 @@
 ---
 tags:
-  - '#amaranth_trade'
-  - '#american_options'
-  - '#arbitrage'
-  - '#black_scholes_model'
-  - '#commodity_futures'
-  - '#currency_swaps'
-  - '#forward_parity'
-  - '#forward_rates'
-  - '#kmv_model'
-  - '#option_payoffs'
-  - '#southwest_hedge'
+  - arbitrage
+  - commodity_futures
+  - currency_swaps
+  - forward_rates
+  - hedging
+  - options_hedging
+aliases:
+  - Commodity Futures
+  - FX Forwards
+  - Financial Derivatives
+  - PSET Solutions
+  - Southwest Hedge
+key_concepts:
+  - Amaranth Calendar Spread
+  - Arbitrage and Forward Rates
+  - Commodity Futures
+  - Covered Interest Rate Parity
+  - Currency Swaps
+  - Hedging with Futures
 ---
+
 ```markdown
 # Financial Instruments
 ## Bus 35100

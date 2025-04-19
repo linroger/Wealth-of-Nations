@@ -1,20 +1,22 @@
 ---
-aliases:
-  - Case Study of Bear Sterns
-  - Case Study of Bear Sterns.md
 title: Case Study of Bear Sterns
 tags:
-  - '#asset_management'
-  - '#bear_stearns_case_study'
-  - '#collateralized_debt_obligations_cdos'
-  - '#federal_reserve_intervention'
-  - '#financial_crisis_2008'
-  - '#high_leverage'
-  - '#liquidity_crisis'
-  - '#repo_market'
-  - '#risk_management'
-  - '#subprime_mortgages'
+  - asset_management
+  - bear_stearns_case_study
+  - cdo_market
+  - financial_crisis
+  - subprime_mortgages
+aliases:
+  - BS Case Study
+  - Bear Stearns Collapse
+key_concepts:
+  - Bear Stearns leveraged bank
+  - CDO market major player
+  - High-Grade funds collapse
+  - Repo market leverage
+  - Securitization repackaging techniques
 ---
+
 # Case Study of Bear Sterns
 
 Case Study of Bear Stearns From a forthcoming book:

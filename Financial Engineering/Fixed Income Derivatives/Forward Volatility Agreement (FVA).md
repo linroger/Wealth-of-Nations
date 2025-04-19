@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#forward_volatility_agreement'
-  - '#fva_contract'
-  - '#implied_volatility'
-  - '#local_volatility_model'
-  - '#slv_model'
-  - '#stochastic_volatility_models'
-  - '#vanna_risk'
-  - '#vega_risk'
-  - '#volatility_trading'
-  - '#volga_risk'
+  - carry_trade
+  - forward_volatility
+  - fva
+  - implied_volatility
+  - volatility_swap
+aliases:
+  - FVA
+  - Forward Volatility Agreement
+key_concepts:
+  - forward implied volatility
+  - future spot volatility
+  - long short straddle
+  - spot implied volatility
+  - volatility swap contract
 ---
+
 # Forward Volatility Agreement (FVA)
 # 1.1   Forward Volatility Agreement (FVA)
 

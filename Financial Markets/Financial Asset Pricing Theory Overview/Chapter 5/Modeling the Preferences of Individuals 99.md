@@ -1,15 +1,21 @@
 ---
 tags:
-  - '#expected_utility'
-  - '#habit_formation'
-  - '#individual_optimality'
-  - '#multi_date_consumption'
-  - '#preference_modeling'
-  - '#recursive_utility'
-  - '#risk_aversion'
-  - '#utility_functions'
-  - '#utility_indices'
+  - consumption_plans
+  - expected_utility
+  - preference_relations
+  - risk_aversion
+  - utility_functions
+aliases:
+  - Individual Preferences
+  - Utility Theory
+key_concepts:
+  - Consumption plans
+  - Expected utility
+  - Preference relations
+  - Risk aversion
+  - Utility indices
 ---
+
 # 5 Modeling the preferences of individuals 99  
 
 5.1 Introduction . 99   

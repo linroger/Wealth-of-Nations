@@ -1,21 +1,26 @@
 ---
-aliases:
-  - 
-  - 
-  - PRICING AMERICAN OPTIONS
 linter-yaml-title-alias: PRICING AMERICAN OPTIONS
 title: PRICING AMERICAN OPTIONS
 tags:
-  - '#american_options'
-  - '#binomial_tree'
-  - '#call_option'
-  - '#dividends'
-  - '#exercise_strategy'
-  - '#option_pricing'
-  - '#post_dividend_price'
-  - '#pre_dividend_price'
-  - '#risk_neutral_probability'
+  - american_option
+  - binomial_tree
+  - call_option
+  - dividends
+  - option_pricing
+  - risk_neutral
+aliases:
+  - American Call Option
+  - American Option Pricing
+  - Early Exercise
+  - Pricing American Options
+key_concepts:
+  - Accounting for dividends
+  - American option payoff
+  - Binomial tree for pricing
+  - Risk neutral probability
+  - Value of exercising option
 ---
+
 [Teaching Note 8 American Options](Teaching%20Note%208%20American%20Options.md)
 [PSET 7- Financial Instruments](PSET%207-%20Financial%20Instruments.md)
 [PSET 7 Solutions](PSET%207%20Solutions.md)

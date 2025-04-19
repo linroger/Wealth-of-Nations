@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#cme_group'
-  - '#futures_prices'
-  - '#futures_quotes'
-  - '#gold_futures'
-  - '#inverted_market'
-  - '#market_quotes'
-  - '#normal_market'
-  - '#open_interest'
-  - '#settlement_price'
-  - '#trading_volume'
+  - cme_group
+  - commodity_futures
+  - contract_size
+  - futures_quotes
+  - market_quotes
+aliases:
+  - Futures Prices
+  - Market Data
+key_concepts:
+  - CME Group commodities
+  - Contract size and price
+  - Futures quotes from exchanges
+  - Maturity month
+  - Opening, high, low prices
 ---
+
 # 2.6 MARKET QUOTES  
 
 Futures quotes are available from exchanges and several online sources. Table 2.2 is. constructed from quotes provided by the CME Group for a number of different. commodities on May 21, 2020. Quotes for index, currency, and interest rate futures are given in Chapters 3, 5, and 6, respectively..  

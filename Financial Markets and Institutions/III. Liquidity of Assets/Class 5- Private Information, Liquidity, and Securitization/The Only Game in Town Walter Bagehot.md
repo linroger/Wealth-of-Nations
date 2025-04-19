@@ -1,10 +1,20 @@
 ---
 title: The Only Game in Town Walter Bagehot
 tags:
-  - '#banking_system'
-  - '#economics_literature'
-  - '#financial_markets'
-  - '#the_only_game_in_town'
-  - '#walter_bagehot'
+  - bank_of_england
+  - banking_industry
+  - economic_history
+  - financial_crisis
+  - financial_markets
+aliases:
+  - Lombard Street
+  - Walter Bagehot
+key_concepts:
+  - bank of england
+  - central bank lending
+  - financial crises
+  - financial market liquidity
+  - lender of last resort
 ---
+
 # The Only Game in Town Walter Bagehot

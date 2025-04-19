@@ -5,15 +5,22 @@ source:
 description: Describes how to value options on commodity futures contract using the
   Black formula in QuantLib Python
 tags:
-  - '#black_formula'
-  - '#commodity_futures_options'
-  - '#fischer_black'
-  - '#futures_price_modeling'
-  - '#natural_gas_futures_option'
-  - '#option_valuation'
-  - '#quantlib_python'
-  - '#treasury_futures_options'
+  - black_formula
+  - commodity_futures
+  - futures_options
+  - option_pricing
+  - quantlib_python
+aliases:
+  - Commodity Option Pricing
+  - QuantLib Example
+key_concepts:
+  - Black formula application
+  - Commodity futures options valuation
+  - Futures price modeling
+  - Lognormal stochastic process
+  - QuantLib Python implementation
 ---
+
 # Valuing Options on Commodity Futures Using QuantLib Python
 Describes how to value options on commodity futures contract using the Black formula in QuantLib Python
 

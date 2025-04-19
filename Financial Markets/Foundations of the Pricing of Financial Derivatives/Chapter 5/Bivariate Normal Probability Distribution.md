@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#bivariate_normal_distribution'
-  - '#conditional_expected_value'
-  - '#correlation_coefficient'
-  - '#cumulative_bivariate_normal'
-  - '#drezner_approximation'
-  - '#monte_carlo_simulation'
-  - '#multivariate_normal_probability'
-  - '#probability_density_function'
-  - '#standard_normal_bivariate_density'
+  - bivariate_normal_distribution
+  - correlation
+  - probability
+  - probability_distribution
+  - random_variables
+aliases:
+  - Bivariate Density
+  - Bivariate Normal
+  - Multivariate Normal
+key_concepts:
+  - Bivariate normal probability
+  - Conditional expected value
+  - Normally distributed variables
+  - Probability density function
+  - Standard normal variables
 ---
+
 # 5.3 BIVARIATE NORMAL PROBABILITY DISTRIBUTION
 
 Suppose now that we have two normally distributed random variables, $x$ and $y$ .The expected values are $\mu_{x}$ and $\mu_{y}$ and the standard deviations are $\sigma_{x}$ and $\sigma_{y}$ . For bivariate normally distributed random variables, the conditional expected values of $y$ and $x$ are linearly related, as indicated by the following:

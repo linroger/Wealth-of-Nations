@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#currency_exchange_rates'
-  - '#currency_swaps'
-  - '#fixed_for_floating_swap'
-  - '#floating_for_floating_swap'
-  - '#interest_rate_exchange'
-  - '#notional_principal'
-  - '#risk_free_rate'
-  - '#swap_valuation'
+  - currency_swaps
+  - fixed_floating
+  - floating_floating
+  - interest_rate_swap
+  - risk_free_rate
+aliases:
+  - Cross-Currency Swaps
+  - Currency Swap Types
+key_concepts:
+  - Currency swap valuation
+  - Dollar payments valuation
+  - Fixed-for-floating swap
+  - Floating-for-floating swap
+  - Sterling payments valuation
 ---
+
 # 7.10 OTHER CURRENCY SWAPS  
 
 Two other popular currency swaps are:  

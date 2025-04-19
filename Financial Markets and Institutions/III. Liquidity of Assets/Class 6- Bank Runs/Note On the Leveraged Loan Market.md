@@ -1,21 +1,24 @@
 ---
-aliases:
-  - Note On the Leveraged Loan Market.md
-  - Note On the Leveraged Loan Market
-  - Note On The Leveraged Loan Market
 linter-yaml-title-alias: Note On The Leveraged Loan Market
 title: Note On The Leveraged Loan Market
 tags:
-  - '#clo_collateralized_loan_obligations'
-  - '#credit_risk'
-  - '#information_asymmetry'
-  - '#institutional_investors'
-  - '#leveraged_loans'
-  - '#loan_issuance'
-  - '#loan_market_dynamics'
-  - '#loan_syndication'
-  - '#lsta_loan_syndications_trading_association'
+  - credit_market
+  - financial_analysis
+  - institutional_investors
+  - leveraged_loan
+  - loan_syndication
+aliases:
+  - LBO financing
+  - Leveraged Loans
+  - Senior Secured Loans
+key_concepts:
+  - Callable loan feature
+  - Institutional investor base
+  - Loan spread threshold
+  - Non-investment-grade loans
+  - Risk sharing syndication
 ---
+
 # Note On the Leveraged Loan Market
 
 A leveraged loan is a senior secured syndicated credit that has a non-investment-grade rating or is priced like a non-investment-grade loan (which means that it carries a similar risk). Typically,  data providers classify loans as leveraged based on the spread: If the spread exceeds a certain threshold,  the loan is considered leveraged. This cutoff point is a moving target,  as spreads tend to compress in periods of credit expansion and expand in economic downturns.a As will be discussed later in this note,  leveraged loans are primarily held by institutional investors. It is due to the wide investor base that leveraged loans—as distinct from other [[Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook|Syndicated Loans]]—are treated as a separate asset class and receive a lot of coverage from financial analysts.

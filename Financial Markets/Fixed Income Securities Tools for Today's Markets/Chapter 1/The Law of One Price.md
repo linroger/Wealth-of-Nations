@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_liquidity'
-  - '#bond_pricing'
-  - '#coupon_bonds'
-  - '#discount_factors'
-  - '#law_of_one_price'
-  - '#market_price_vs_present_value'
-  - '#rich_vs_cheap_bonds'
-  - '#us_treasury_bonds'
+  - bond_pricing
+  - discount_factors
+  - law_of_one_price
+  - market_price
+  - us_treasury_bonds
+aliases:
+  - LOOP
+  - Law of One Price
+key_concepts:
+  - Bonds trading rich or cheap
+  - Deviations from the law
+  - Identical cash flows, same price
+  - Market price vs present value
+  - Present value calculation
 ---
+
 # 1.3 THE LAW OF ONE PRICE  
 
 The US Treasury 1.75s of 05/15/2022 mature in mid-May, approximately one year from the settlement date of the examples of this chapter but are not included among the bonds in Table 1.2. How should the 1.75s of 05/15/2022 be priced? A natural answer is to apply the discount factors of Table 1.3 even though the 1.75s of 05/15/2022 are not used to construct those discount factors. After all, because all of these bonds are obligations of the US Treasury, it seems reasonable to assume as a first approximation that the present value of receiving $\$1$ from the Treasury on some future date does not depend on which particular bond pays that $\$1$ . This reasoning is known as the law of one price: absent confounding factors (e.g., liquidity, financing, taxes, credit risk), identical cash flows should sell for the same price.  

@@ -4,17 +4,24 @@ source:
   https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
 description:
 tags:
-  - '#big_debt_cycle'
-  - '#china_economy'
-  - '#debt_monetization'
-  - '#economic_cycles'
-  - '#global_economics'
-  - '#inflation'
-  - '#interest_rates'
-  - '#japanese_economy'
-  - '#monetary_policy_4'
-  - '#us_china_relations'
+  - big_debt_cycle
+  - covid_pandemic
+  - fiscal_policy
+  - interest_rates
+  - monetary_policy
+aliases:
+  - COVID-19
+  - How Countries Go Broke
+  - MP4
+  - Monetary Policy 4
+key_concepts:
+  - Big fiscal deficits
+  - COVID pandemic impact
+  - Central bank monetization
+  - Interest rate changes
+  - Monetary policy independence
 ---
+
 *This post was originally published on January 30, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 
 ---

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#agency_mbs'
-  - '#credit_risk'
-  - '#hedging_strategies'
-  - '#interest_rate_risk'
-  - '#mortgage_servicing_rights'
-  - '#mortgage_spread_risk'
-  - '#pipeline_risk'
-  - '#prepayment_risk'
-  - '#risk_factors'
-  - '#tba_market'
+  - agency_mbs
+  - hedging
+  - interest_rate_risk
+  - mortgage_spread_risk
+  - prepayment_risk
+aliases:
+  - Agency MBS Risk
+  - MBS Hedging
+key_concepts:
+  - Interest rate risk
+  - MBS risk factors
+  - Mortgage spread risk
+  - Originator pipeline risk
+  - Prepayment risk
+  - TBA hedging strategy
 ---
+
 # 15.9 RISK FACTORS AND HEDGING AGENCY MBS  
 
 Participants in agency MBS face and have to manage a number of risks: interest rate risk, which includes convexity and volatility risks; mortgage spread risk; prepayment risk; and credit risk. Interest rate risk is discussed extensively in earlier chapters of the book. Mortgages are clearly exposed to the risk that rates rise and fall, and, as described before, exhibit negative convexity. Furthermore, negatively convex positions are also short interest rate volatility.14  

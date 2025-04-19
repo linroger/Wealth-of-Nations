@@ -1,22 +1,23 @@
 ---
-aliases:
-  - The Dodd Frank Act and Its Impact
-  - The Dodd Frank Act and Its Impact.md
 title: The Dodd Frank Act and Its Impact
 tags:
-  - '#basel_iii_accord'
-  - '#collins_amendment'
-  - '#contingent_convertible_securities'
-  - '#dodd_frank_act'
-  - '#financial_crisis_2008_09'
-  - '#financial_reform'
-  - '#financial_stability'
-  - '#financial_stability_oversight_council'
-  - '#orderly_liquidation_authority'
-  - '#regulatory_reform'
-  - '#trust_preferred_securities'
-  - '#volcker_rule'
+  - dodd_frank_act
+  - financial_crisis
+  - financial_institutions
+  - financial_stability
+  - regulatory_reform
+aliases:
+  - Dodd Frank
+  - The Act
+  - Wall Street Reform Act
+key_concepts:
+  - Financial crisis impact
+  - Financial reform legislation
+  - Financial stability oversight
+  - Regulatory environment changes
+  - Systemic risk reduction
 ---
+
 # The Dodd Frank Act and Its Impact
 
 ## The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act And Its Impact

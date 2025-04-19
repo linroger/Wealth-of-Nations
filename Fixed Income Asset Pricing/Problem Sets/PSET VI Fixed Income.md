@@ -1,20 +1,27 @@
 ---
-aliases:
-  - FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
 title: PSET VI Fixed Income
 tags:
-  - '#bond_convexity'
-  - '#bond_duration'
-  - '#bond_pricing'
-  - '#callable_bond'
-  - '#fixed_income'
-  - '#freddie_mac_bond'
-  - '#ho_lee_model'
-  - '#nelson_siegel_model'
-  - '#simple_bdt_model'
-  - '#term_structure_of_interest_rates'
+  - bdt_model
+  - bond_pricing
+  - callable_bond
+  - fixed_income
+  - ho_lee_model
+aliases:
+  - Freddie Mac Bond
+  - HW6
+  - Homework 6
+  - PSET VI
+key_concepts:
+  - Bond duration convexity
+  - Callable bond valuation
+  - Freddie Mac 6% bond
+  - Ho-Lee interest rate
+  - Nelson-Siegel model
+  - Non-callable bond price
+  - Simple BDT model
 ---
+
 # PSET VI Fixed Income
 
 ## HOMEWORK 6

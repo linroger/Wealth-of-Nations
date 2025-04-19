@@ -2,18 +2,28 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
 title: Notes on Debtor-in-Possession DIP Financing
 tags:
-  - '#bankruptcy_code'
-  - '#chapter_11_protection'
-  - '#debtor_in_possession_dip_financing'
-  - '#dip_lender_repayment'
-  - '#dip_loan_features'
-  - '#loan_commitments'
-  - '#super_priority_lien'
-  - '#till_v_scs_credit_corporation'
+  - bankruptcy_code
+  - chapter_11
+  - debtor_in_possession
+  - dip_financing
+  - federal_bankruptcy_code
+  - loan_commitments
+  - super_priority_lien
+  - till_v_scs
+aliases:
+  - DIP Financing
+  - DIP Loans
+  - Debtor in Possession Financing
+key_concepts:
+  - Chemical Bank DIP origin
+  - DIP financing for debtors
+  - Loan commitment features
+  - Section 364 Bankruptcy Code
+  - Super priority lien
 ---
+
 [[Notes on Debtor-in-Possession DIP Financing|debtor in possession]]
 
 # Notes on Debtor-in-Possession DIP Financing

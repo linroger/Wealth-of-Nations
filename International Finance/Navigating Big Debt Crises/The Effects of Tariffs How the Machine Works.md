@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#currency_exchange_rates'
-  - '#debt_sustainability'
-  - '#fiscal_policy'
-  - '#global_geopolitics'
-  - '#monetary_policy'
-  - '#stagflation'
-  - '#tariffs'
-  - '#trade_imbalances'
-  - '#us_dollar_reserve_currency'
+  - currency
+  - fiscal_policy
+  - monetary_policy
+  - stagflation
+  - tariffs
+  - trade
+aliases:
+  - Effects of Tariffs
+  - Tariff Impacts
+key_concepts:
+  - International conflict needs
+  - Protect domestic companies
+  - Reduce account imbalances
+  - Reduce global production
+  - Stagflationary effects
+  - Tariffs raise revenue
 ---
+
 ## Article
 
 

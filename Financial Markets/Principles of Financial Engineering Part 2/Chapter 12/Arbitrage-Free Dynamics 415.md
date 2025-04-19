@@ -1,11 +1,21 @@
 ---
 tags:
-  - '#arbitrage_free_dynamics'
-  - '#arbitrage_free_sdes'
-  - '#case_1'
-  - '#case_2'
-  - '#tree_models'
+  - arbitrage_free_dynamics
+  - case_study
+  - model
+  - sdes
+  - tree_models
+aliases:
+  - Arbitrage-Free Dynamics
+  - SDEs
+  - Tree Models
+key_concepts:
+  - Arbitrage-free SDEs
+  - Case 1
+  - Case 2
+  - Tree models
 ---
+
 # 12.6 Arbitrage-Free Dynamics.. 415  
 
 12.6.1 Arbitrage-Free SDEs 415   

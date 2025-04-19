@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#accrued_interest'
-  - '#bond_pricing'
-  - '#coupon_payment'
-  - '#fixed_income_securities'
-  - '#flat_price'
-  - '#full_price'
-  - '#market_convention'
-  - '#present_value'
+  - accrued_interest
+  - bond_pricing
+  - fixed_income
+  - flat_price
+  - market_conventions
+aliases:
+  - Accrued Interest
+  - Fixed Income
+  - Full Price
+  - Table of Contents
+key_concepts:
+  - Accrued Interest Convention
+  - Coupon Payment Impact
+  - Fixed Income Securities
+  - Flat Price Dynamics
+  - Full Price
 ---
+
 # Table of Contents - Fixed Income Securities Tools for Today's Markets
 101.4297=\left(100+{\frac{2.875}{2}}\right)d(0.5)
 $$  

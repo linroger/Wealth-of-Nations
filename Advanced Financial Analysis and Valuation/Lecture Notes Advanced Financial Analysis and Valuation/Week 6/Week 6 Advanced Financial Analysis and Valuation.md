@@ -1,10 +1,23 @@
 ---
 title: Week 6 Advanced Financial Analysis and Valuation
 tags:
-  - '#advanced_financial_analysis'
-  - '#valuation'
-  - '#week_6'
+  - advanced_financial_analysis
+  - dcf_valuation
+  - financial_analysis
+  - valuation
+  - week_6
+aliases:
+  - Fin Analysis
+  - Valuation
+  - Week 6
+key_concepts:
+  - Advanced financial analysis
+  - Capital budgeting
+  - Discounted cash flow (DCF)
+  - Financial statement analysis
+  - Valuation techniques
 ---
+
 # Week 6 Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

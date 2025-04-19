@@ -1,3 +1,29 @@
+---
+tags:
+  - at_the_money
+  - black_scholes
+  - bopm_model
+  - delta_hedging
+  - gamma_hedging
+  - option_greeks
+  - option_pricing
+  - portfolio_management
+  - underlying_asset
+  - volatility
+aliases:
+  - Delta-Gamma Hedging
+  - Greeks
+  - Option Sensitivities
+  - Portfolio Delta
+key_concepts:
+  - 'BOPM: Greek calculation'
+  - Black-Scholes formula
+  - 'Delta hedging: small price changes'
+  - Delta-gamma-vega hedging
+  - 'Gamma hedging: large price changes'
+  - 'Greeks: delta, gamma, rho, vega'
+  - 'Greeks: option price approximation'
+---
 # The Greeks  
 
 # Aims  

@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#black_76_model'
-  - '#callable_leveraged_cms_spread_note'
-  - '#correlation_coefficients'
-  - '#discount_curve'
-  - '#interest_rate_term_structure'
-  - '#monte_carlo_simulation'
-  - '#note_pricing'
-  - '#swap_spread'
-  - '#swaption_volatilities'
+  - callable_leveraged_cms
+  - cms_spread_note
+  - interest_rate_risk
+  - monte_carlo_simulation
+  - swaption_volatility
+aliases:
+  - CMS Spread Note
+  - Callable Note
+  - Swap Spread Note
+key_concepts:
+  - CMS spread
+  - Discount curve construction
+  - Implied swaption volatility
+  - Monte Carlo simulation
+  - Stochastic cash flows
 ---
+
 # Pricing a Callable Leveraged Constant Maturity Swap Spread Note
 ## Summary
 A callable leveraged constant maturity swap (CMS) spread note allows the holder to benefit from future changes in the spread between two swap interest rates. The issuer retains the right to call the note at pre-specified times in the future. The note is priced via Monte Carlo simulation using the current term structure of interest rates and at-the-money implied swaption volatilities.

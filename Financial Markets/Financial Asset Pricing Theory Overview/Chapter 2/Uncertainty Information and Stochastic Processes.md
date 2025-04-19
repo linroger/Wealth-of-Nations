@@ -1,15 +1,22 @@
 ---
 tags:
-  - '#brownian_motions'
-  - '#continuous_time_stochastic_processes'
-  - '#diffusion_processes'
-  - '#discrete_time_stochastic_processes'
-  - '#information'
-  - '#ito_processes'
-  - '#probability_space'
-  - '#stochastic_processes'
-  - '#uncertainty'
+  - brownian_motion
+  - diffusion_process
+  - ito_process
+  - jump_process
+  - stochastic_processes
+aliases:
+  - Brownian Motion
+  - Ito's Lemma
+  - Stochastic Processes
+key_concepts:
+  - Brownian motion
+  - Ito processes
+  - Multi-dimensional processes
+  - Probability space
+  - Stochastic process definition
 ---
+
 # 2 Uncertainty, information, and stochastic processes 13  
 
 2.1 Introduction. 13   

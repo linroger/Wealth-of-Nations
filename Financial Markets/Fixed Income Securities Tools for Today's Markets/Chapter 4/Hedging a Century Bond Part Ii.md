@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#bond_pricing'
-  - '#century_bond_hedging'
-  - '#convexity'
-  - '#coupon_bonds'
-  - '#duration'
-  - '#dv01'
-  - '#market_maker_risk'
-  - '#yield_based_metrics'
+  - century_bond
+  - convexity
+  - market_maker
+  - treasury_bond
+aliases:
+  - Dv01
+  - Hedging a Century Bond
+  - P&L implications
+key_concepts:
+  - Convexity and duration
+  - Long convexity position risk
+  - Market maker hedging Dv01
+  - P&L implications
+  - Treasury bond prices
 ---
+
 # 4.6 HEDGING A CENTURY BOND: PART II  
 
 Section 4.3 explained why and how a market maker hedges the Dv01 from $\$10$ million face amount of the NSC 4.10s of 05/15/2121 by selling $\$12.1$ million face amount of the Treasury 1.625s of 11/15/2050. This section shows that this hedge leaves the market maker with a long convexity position and describes the resulting risk and P&L implications.  

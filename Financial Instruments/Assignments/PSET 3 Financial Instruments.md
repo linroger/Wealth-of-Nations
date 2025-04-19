@@ -1,20 +1,25 @@
 ---
-aliases:
-  - GREECE CURRENCY SWAPS
 linter-yaml-title-alias: 1          GREECE CURRENCY SWAPS
 title: PSET 3 Financial Instruments
 tags:
-  - '#collar_strategy'
-  - '#currency_swap'
-  - '#financial_instruments'
-  - '#greece_bond'
-  - '#hedging_strategies'
-  - '#jet_fuel_risk'
-  - '#option_strategies'
-  - '#put_call_parity'
-  - '#southwest_airlines'
-  - '#zero_coupon_bond'
+  - bond_pricing
+  - currency_swap
+  - exchange_rate_risk
+  - financial_instruments
+  - zero_coupon_bonds
+aliases:
+  - Currency Swap
+  - Greek Bond
+  - PSET 3
+  - VeroTende
+key_concepts:
+  - Currency swap
+  - Dollar denominated note
+  - Exchange rate risk
+  - Semi-annual coupon rate
+  - Zero coupon bonds
 ---
+
 **Homework 3**
 Roger Lin
 Suna Bai

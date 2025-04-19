@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#cash_settlement'
-  - '#cds_bond_basis'
-  - '#cds_market'
-  - '#cds_spread'
-  - '#cheapest_to_deliver_bond'
-  - '#credit_default_swap'
-  - '#credit_event'
-  - '#notional_principal'
-  - '#physical_settlement'
-  - '#reference_entity'
+  - cds
+  - credit_default_swaps
+  - credit_derivatives
+  - credit_event
+  - default
+  - reference_entity
+aliases:
+  - CDS
+  - Credit Default Swap
+key_concepts:
+  - Credit default swap (CDS)
+  - Credit event
+  - Insurance against default risk
+  - Notional principal
+  - Reference entity
 ---
+
 # 25.1 CREDIT DEFAULT SWAPS  
 
 The most popular credit derivative is a credit default swap (CDS). This was introduced in Section 7.11. It is a contract that provides insurance against the risk of a default by particular company. The company is known as the reference entity and a default by the company is known as a credit event. The buyer of the insurance obtains the right to sell bonds issued by the company for their face value when a credit event occurs and the seller of the insurance agrees to buy the bonds for their face value when a credit event occurs.1 The total face value of the bonds that can be sold is known as the credit default swap's notional principal.  

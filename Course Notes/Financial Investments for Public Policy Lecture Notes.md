@@ -1,23 +1,24 @@
 ---
 tags:
-  - '#bond_duration'
-  - '#bonds_stocks_markets'
-  - '#capital_asset_pricing_model'
-  - '#course_outline'
-  - '#efficient_markets_hypothesis'
-  - '#excel_exercises'
-  - '#financial_markets_macroeconomy'
-  - '#fomc_announcements'
-  - '#investment_decisions'
-  - '#mutual_funds'
-  - '#option_pricing'
-  - '#performance_evaluation'
-  - '#portfolio_choice'
-  - '#public_policy'
-  - '#return_dynamics'
-  - '#returns_yields_historical_record'
-  - '#risk_return'
+  - excel_exercises
+  - financial_markets
+  - investments
+  - public_policy
+  - risk_return
+aliases:
+  - Autumn 2023
+  - BUS 3500
+  - Harris School
+  - PPHA 42510
+  - Pflueger
+key_concepts:
+  - Assess risk and return
+  - Excel for financial data
+  - Financial markets and policy
+  - Introductory investments tools
+  - Public policy investment questions
 ---
+
 # Prof. Carolin Pflueger  
 
 # University of Chicago - Harris School of Public Policy  

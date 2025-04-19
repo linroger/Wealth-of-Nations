@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#binomial_tree_analysis'
-  - '#option_payoff'
-  - '#option_pricing'
-  - '#risk_free_interest_rate'
-  - '#risk_neutral_valuation'
-  - '#stock_price_movement'
-  - '#time_step'
-  - '#two_step_binomial_tree'
+  - binomial_tree
+  - derivatives
+  - option_pricing
+  - risk_neutral
+  - stock_price
+aliases:
+  - Binomial tree
+  - Option valuation
+  - Two-step model
+key_concepts:
+  - Expected payoff
+  - Option price calculation
+  - Risk-neutral valuation
+  - Stock price at node
+  - Two-step binomial tree
 ---
+
 # 13.3 TWO-STEP BINOMIAL TREES  
 
 We can extend the analysis to a two-step binomial tree such as that shown in Figure 13.3. Here the stock price starts at $\$20$ and in each of two time steps may go up by $10\%$ or down by $10\%$ . Each time step is 3 months long and the risk-free interest rate is. $4\%$ per annum. We consider a 6-month option with a strike price of. $\$21$  

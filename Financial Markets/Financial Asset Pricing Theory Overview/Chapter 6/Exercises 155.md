@@ -1,15 +1,31 @@
 ---
 tags:
-  - '#ccapm'
-  - '#complete_markets'
-  - '#consumption_based_asset_pricing'
-  - '#epstein_zin_utility'
-  - '#habit_formation'
-  - '#incomplete_markets'
-  - '#long_run_risks'
-  - '#market_equilibrium'
-  - '#pareto_optimality'
+  - ccapm
+  - incomplete_markets
+  - long_run_risks
+  - market_equilibrium
+aliases:
+  - Asset Pricing
+  - CCAPM
+  - Exercises
+  - Long Run Risks
+key_concepts:
+  - Asset pricing puzzles
+  - Campbell and Cochrane model
+  - Consumption-based asset pricing
+  - Empirical studies problems
+  - Epstein-Zin utility
+  - Habit formation
+  - Incomplete markets evidence
+  - Labor income risk
+  - Long-run risks model
+  - Multi-period CCAPM
+  - Pareto-optimality
+  - Premium on risky assets
+  - Risk-free rate
+  - State-dependent utility
 ---
+
 # 6.8 Exercises 155  
 
 # Market equilibrium 161  

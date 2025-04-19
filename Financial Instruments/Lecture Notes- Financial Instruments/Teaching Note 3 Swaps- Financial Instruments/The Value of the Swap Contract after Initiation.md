@@ -1,17 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 tags:
-  - '#convexity_bias'
-  - '#eurodollar_futures'
-  - '#fx_swap_hedging'
-  - '#hedge_tailoring'
-  - '#interest_rate_risk_management'
-  - '#plain_vanilla_fx_swaps'
-  - '#swap_contract_value'
-  - '#swap_rate_determination'
+  - currency_swap
+  - eurodollar_futures
+  - fx_swap
+  - interest_rate_risk
+  - swap_contract
+aliases:
+  - Currency Swap
+  - Eurodollar Futures
+  - FX Swap
+  - Hedging Strategy
+  - Swap Value
+key_concepts:
+  - Borrowing in foreign currency
+  - Eurodollar futures hedging
+  - Hedging principal amount
+  - Plain vanilla FX swaps
+  - Swap value formula
 ---
+
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

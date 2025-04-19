@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#basis_risk'
-  - '#capital_asset_pricing_model_capm'
-  - '#futures_contracts'
-  - '#hedge_ratio'
-  - '#hedging_strategy'
-  - '#interest_rates'
-  - '#long_hedge'
-  - '#metallgesellschaft'
-  - '#short_hedge'
-  - '#stack_and_roll_hedging'
+  - basis_risk
+  - futures_contract
+  - hedge_ratio
+  - short_hedge
+  - stack_and_roll
+  - stock_index_futures
+aliases:
+  - Rolling Hedges
+  - Stack and Roll Hedging
+key_concepts:
+  - Basis risk in hedging
+  - Futures contract delivery dates
+  - Hedging systematic risk
+  - Optimal hedge ratio
+  - Rolling hedge forward
+  - Short hedge strategy
 ---
+
 # 3.6 STACK AND ROLL  
 
 Sometimes the expiration date of the hedge is later than the delivery dates of all the futures contracts that can be used. The hedger must then roll the hedge forward by closing out one futures contract and taking the same position in a futures contract with a later delivery date. Hedges can be rolled forward many times. The procedure is known as stack and roll. Consider a company that wishes to use a short hedge to reduce the risk associated with the price to be received for an asset at time $T.$ If there are futures contracts 1, 2, 3, . . : , $n$ (not all necessarily in existence at the present time) with progressively later delivery dates, the company can use the following strategy:  

@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#aggregate_consumption'
-  - '#consumption_based_capm'
-  - '#consumption_growth'
-  - '#continuous_time_economy'
-  - '#expected_returns'
-  - '#market_completeness'
-  - '#multi_period_asset_returns'
-  - '#relative_risk_aversion'
-  - '#risk_free_interest_rate'
-  - '#state_price_deflator'
+  - asset_returns
+  - consumption_growth
+  - continuous_time
+  - multi_period_model
+  - risk_free_rate
+aliases:
+  - Consumption and Returns
+  - Multi-Period Analysis
+key_concepts:
+  - Consumption-beta equation
+  - Excess expected return
+  - Relative consumption growth
+  - Risk-free gross return
+  - State-price deflator
+  - Time-additive expected utility
 ---
+
 # 8.3 General multi-period link between consumption and asset returns  
 
 Now take the analysis to multi-period settings. Assuming time-additive expected utility we can define a state-price deflator from the optimal consumption plan of any individual as  

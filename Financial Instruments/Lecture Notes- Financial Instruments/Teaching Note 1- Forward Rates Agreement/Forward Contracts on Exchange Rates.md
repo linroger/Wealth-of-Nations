@@ -1,19 +1,23 @@
 ---
-aliases:
-  - 
-  - 
 title: Forward Contracts on Exchange Rates
 tags:
-  - '#arbitrage_strategy'
-  - '#currency_exchange_risk'
-  - '#eurocurrency_interest_rates'
-  - '#forward_contract_pricing'
-  - '#forward_exchange_rates'
-  - '#interest_rate_differential'
-  - '#overvalued_forward_rate'
-  - '#spot_exchange_rate'
-  - '#undervalued_forward_rate'
+  - arbitrage
+  - currency_risk
+  - exchange_rates
+  - forward_contracts
+  - interest_rates
+aliases:
+  - Currency Forwards
+  - FX Forwards
+  - Forward FX Contracts
+key_concepts:
+  - Arbitrage strategy
+  - Forward rate definition
+  - Interest rate differential
+  - Short forward contract
+  - Spot exchange rate
 ---
+
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)
 
 - [[Ch1 Introduction to Derivative Markets]]

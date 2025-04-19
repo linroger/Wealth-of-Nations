@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#hedging'
-  - '#interest_rate_factors'
-  - '#principal_component_analysis'
-  - '#relative_value_trading'
-  - '#risk_management'
-  - '#term_structure'
-  - '#term_structure_models'
-  - '#usd_libor_swap_rates'
+  - fixed_income
+  - libor
+  - pca
+  - principal_component_analysis
+  - term_structure
+aliases:
+  - PCA
+  - Principal Components
+key_concepts:
+  - Empirical description of behavior
+  - Interest rate factors
+  - Principal components
+  - Regression hedging
+  - Term structure
 ---
+
 # 6.5 PRINCIPAL COMPONENT ANALYSIS  
 
 As mentioned in the introduction to this chapter, regression hedging tends.   

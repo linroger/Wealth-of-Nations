@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#bond_immunization'
-  - '#bond_valuation'
-  - '#convexity'
-  - '#duration'
-  - '#interest_rate_risk'
-  - '#modified_duration'
-  - '#portfolio_duration'
-  - '#pvbp'
+  - bond_convexity
+  - bond_duration
+  - interest_rate_risk
+  - macaulay_duration
+  - yield_to_maturity
+aliases:
+  - Bond Risk
+  - Duration and Convexity
+  - Interest Rate Risk
+  - PVBP
+key_concepts:
+  - Bond cash flows
+  - Bond price fluctuations
+  - Coupon rate impact
+  - Interest rate risk
+  - Macaulay duration calculation
 ---
+
 # 2.4 INTEREST RATE RISK: DURATION AND CONVEXITY  
 
 There are two main risks of owning a bond. The first is the risk that the issuer may default on the bond and the promised cash flows are not paid. The second risk is that the price of the bond may go down when interest rates go up. As interest rates fluctuate over time, they affect the present value of the bond's cash flows through the discounting process. The price volatility of the bond as a result of interest rate fluctuations is referred to as the interest rate risk of the bond. The two main measures of the interest rate risk of the bond are the duration of the bond and the price value of a basis point (PVBP). Both are local measures and work well for small changes in yields. For larger changes they are often corrected using the bond's convexity.  

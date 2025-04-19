@@ -1,20 +1,23 @@
 ---
-aliases:
-  - Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
-  - Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md
 title: Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
 tags:
-  - '#bankruptcy_concessions'
-  - '#bondholder_behavior'
-  - '#coercive_exchange_offers'
-  - '#exchange_offers'
-  - '#exit_consents'
-  - '#federal_trust_indenture_act'
-  - '#holdout_strategy'
-  - '#junior_securities'
-  - '#public_debt_restructuring'
-  - '#senior_securities'
+  - bankruptcy
+  - coercive_exchange
+  - exchange_offers
+  - federal_trust_act
+  - public_debt
+aliases:
+  - Bankruptcy Exchange
+  - Debt Restructuring
+  - Note 6
+key_concepts:
+  - Bankruptcy exchange offers
+  - Coercive exchange offers
+  - Junior securities failure
+  - Public debt restructuring
+  - Tendering vs holding out
 ---
+
 [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
 # Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers
 **Includes Note 6A: Coercive Exchange Offers and Exit Consents at the End**

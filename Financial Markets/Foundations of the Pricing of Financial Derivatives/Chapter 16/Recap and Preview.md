@@ -1,15 +1,28 @@
 ---
 tags:
-  - '#binomial_model'
-  - '#black_scholes_merton_model'
-  - '#brownian_motion'
-  - '#exchange_options'
-  - '#kolmogorov_equations'
-  - '#linear_homogeneity'
-  - '#option_pricing'
-  - '#radon_nikodym_derivative'
-  - '#wiener_process'
+  - binomial_model
+  - black_scholes_merton
+  - brownian_motion
+  - stochastic_process
+  - wiener_process
+aliases:
+  - Kolmogorov equations
+  - Part III
+  - Part IV
+  - Preview
+  - Recap
+key_concepts:
+  - Binomial model
+  - Black-Scholes-Merton model
+  - Brownian motion
+  - Continuous time process
+  - Discrete time stochastic process
+  - European option
+  - Martingale
+  - Probability measure change
+  - Random walk
 ---
+
 # 16.5 RECAP AND PREVIEW
 
 In this chapter, we showed how the change of probability measure in the discrete time stochastic process that we use is related to the change of probability measure in the continuous time stochastic process we use. We also show the Kolmogorov equations, which define how movements at one point in time are related to movement at a future or prior point in time.

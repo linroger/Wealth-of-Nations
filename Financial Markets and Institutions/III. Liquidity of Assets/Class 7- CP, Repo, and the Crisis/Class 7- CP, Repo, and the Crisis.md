@@ -1,18 +1,23 @@
 ---
-aliases:
-  - Class 7- CP
-  - Repo
-  - and the Crisis
-  - Class 7- CP
-  - and the Crisis.md
-  - Class 7CP
 linter-yaml-title-alias: Class 7CP,    Repo,    and the Crisis
 title: Class 7CP,  Repo,  and the Crisis
 tags:
-  - '#class_7cp'
-  - '#crisis'
-  - '#repo'
+  - banking_crisis
+  - class_7cp
+  - financial_crisis
+  - lehman_brothers
+  - repo
+aliases:
+  - 7CP
+  - Financial Crisis
+  - Repo Crisis
+key_concepts:
+  - Class 7CP
+  - Financial crisis impact
+  - Lehman Brothers
+  - Repo market
 ---
+
 # Class 7CP,  Repo,  and the Crisis
 
 %% Begin Waypoint %%

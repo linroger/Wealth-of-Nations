@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#covered_call'
-  - '#european_options'
-  - '#long_position'
-  - '#option_trading_strategies'
-  - '#profit_patterns'
-  - '#protective_put'
-  - '#put_call_parity'
-  - '#short_position'
-  - '#stock_price'
+  - covered_call
+  - european_options
+  - option_trading
+  - protective_put
+  - put_call_parity
+  - stock_price
+aliases:
+  - Covered Call
+  - Option and Stock
+  - Protective Put
+  - Trading Strategies
+key_concepts:
+  - Covered call strategy
+  - Long call position
+  - Protective put strategy
+  - Put-call parity relationship
+  - Trading option and asset
 ---
+
 # 12.2 TRADING AN OPTION AND THE UNDERLYING ASSET  
 
 For convenience, we will assume that the asset underlying the options considered in the. rest of the chapter is a stock. (Similar trading strategies can be developed for other underlying assets.) We will also follow the usual practice of calculating the profit from a. trading strategy as the final payoff minus the initial cost without any discounting..  

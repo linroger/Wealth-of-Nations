@@ -1,20 +1,22 @@
 ---
-aliases:
-  - 
-  - 
 title: BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1
 tags:
-  - '#ar1_process'
-  - '#bootstrap_procedure'
-  - '#duration_hedging'
-  - '#estimation_and_forecast'
-  - '#forward_rates'
-  - '#interest_rate_forecast'
-  - '#inverse_floater'
-  - '#mean_reversion'
-  - '#principal_components_analysis'
-  - '#strip_prices'
+  - ar1_process
+  - estimation_forecast
+  - interest_rates
+  - mean_reversion
+  - ols_regression
+aliases:
+  - BUS 35130 HW1
+  - Homework 1 Solution
+key_concepts:
+  - AR(1) Process
+  - BEY Calculation
+  - Bid and Ask Yields
+  - Mean Reversion Modeling
+  - OLS Regression
 ---
+
 ---
 
 title: BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1

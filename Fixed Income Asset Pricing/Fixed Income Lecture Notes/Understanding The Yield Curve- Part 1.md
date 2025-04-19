@@ -1,22 +1,24 @@
 ---
-aliases:
-  - 
-  - OVERVIEW OF FORWARD RATE ANALYSIS
-  - 
 linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
 title: Understanding The Yield CurvePart 1
 tags:
-  - '#bond_risk_premium'
-  - '#break_even_rates'
-  - '#convexity_bias'
-  - '#forward_rate_analysis'
-  - '#maturity_sectors'
-  - '#par_rates'
-  - '#spot_rates'
-  - '#term_structure_of_interest_rates'
-  - '#yield_curve_analysis'
-  - '#yield_curve_trades'
+  - bond_risk
+  - convexity_bias
+  - forward_rates
+  - interest_rates
+  - yield_curve
+aliases:
+  - Salomon Brothers
+  - Term Structure
+  - Yield Curve Analysis
+key_concepts:
+  - Bond risk premium
+  - Convexity bias impact
+  - Forward rate analysis tools
+  - Par, spot, forward rates
+  - Rate expectations influence
 ---
+
 Salomon Brothers
 ANITI ILMANEN
 

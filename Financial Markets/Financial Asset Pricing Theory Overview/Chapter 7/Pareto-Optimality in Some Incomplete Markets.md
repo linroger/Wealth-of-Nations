@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#aggregate_consumption'
-  - '#arrow_debreu_assets'
-  - '#asset_pricing'
-  - '#effectively_complete_markets'
-  - '#hara_utility_functions'
-  - '#incomplete_markets'
-  - '#pareto_optimality'
-  - '#representative_individual'
-  - '#risk_cautiousness'
-  - '#time_preference_rates'
+  - arrow_debreu_asset
+  - hara_utility
+  - incomplete_markets
+  - market_completeness
+  - pareto_optimality
+aliases:
+  - Incomplete Markets
+  - Pareto Optimality
+key_concepts:
+  - Arrow-Debreu style asset
+  - HARA utility functions
+  - Pareto-optimal consumption allocation
+  - aggregate consumption
+  - effectively complete markets
 ---
+
 # 7.4 Pareto-optimality in some incomplete markets  
 
 In the previous section we saw that complete market equilibria are Pareto-optimal. However, as discussed earlier, real-life financial markets are probably not complete. Equilibrium consumption allocations in incomplete markets will generally not be Pareto-optimal since the individuals cannot necessarily implement the trades needed to align their marginal rates of substitution. On the other hand, individuals do not have to be able to implement any possible consumption plan so we do not need markets to be complete in the strict sense. If every Pareto-optimal consumption allocation can be obtained by trading in the available assets, the market is said to be effectively complete. If the market is effectively complete, we can use the representative individual approach to asset pricing. In this section we will discuss some examples of effectively complete markets.  

@@ -1,24 +1,27 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - 
-  - 
-  - MBS
-  - Mortgage Backed Securities
 title: Teaching Note 6 Mortgage Backed Securities
 tags:
-  - '#binomial_trees'
-  - '#collateralized_mortgage_obligations'
-  - '#interest_rate_risk_management'
-  - '#io_po_strips'
-  - '#mbs_pricing'
-  - '#monte_carlo_simulations'
-  - '#mortgage_backed_securities'
-  - '#negative_convexity'
-  - '#option_adjusted_spread'
-  - '#prepayment_option'
+  - house_prices
+  - mbs
+  - mortgage_backed_securities
+  - prepayment_option
+  - securitization
+aliases:
+  - FHLMC
+  - FNMA
+  - GNMA
+  - MBS
+  - Teaching Note 6
+key_concepts:
+  - House prices
+  - MBS market
+  - Mortgage lenders
+  - Prepayment option
+  - Securitization process
 ---
+
 # Teaching Note 6 Mortgage Backed Securities
 
 [[Fixed Income Lecture Notes]]

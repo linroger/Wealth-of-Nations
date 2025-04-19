@@ -1,20 +1,25 @@
 ---
-aliases: []
 cssclasses:
   - academia
 title: Teaching Note 3 Understanding The Term Structure Of Interest Rates
 tags:
-  - '#bond_returns'
-  - '#cochrane_piazzesi_factor'
-  - '#expectations_hypothesis'
-  - '#fama_bliss_regression'
-  - '#forward_rates'
-  - '#inflation_risk'
-  - '#real_interest_rates'
-  - '#risk_premia'
-  - '#term_structure_interest_rates'
-  - '#treasury_inflation_protected_securities_tips'
+  - expectations_hypothesis
+  - interest_rates
+  - risk_premium
+  - term_structure
+  - yield_curve
+aliases:
+  - Expectations Theory
+  - Term Structure of Rates
+  - Yield Curve Analysis
+key_concepts:
+  - Expectations hypothesis
+  - Forward rates
+  - Term structure decomposition
+  - Term structure of rates
+  - Time varying risk premia
 ---
+
 # [[Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Term Structure of Interest Rates|Teaching Note 3 Understanding The Term Structure Of Interest Rates]]
 ## Introduction
 - There are numerous questions that arise when we think about the term structure of interest rates, such as:

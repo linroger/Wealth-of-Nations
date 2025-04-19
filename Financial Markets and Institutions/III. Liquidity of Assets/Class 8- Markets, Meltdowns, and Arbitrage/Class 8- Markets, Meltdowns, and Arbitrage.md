@@ -1,14 +1,24 @@
 ---
 title: Class 8Markets,  Meltdowns,  and Arbitrage
-aliases:
-  - Class 8Markets,       Meltdowns,       and Arbitrage
 linter-yaml-title-alias: Class 8Markets,       Meltdowns,       and Arbitrage
 tags:
-  - '#arbitrage'
-  - '#class_8'
-  - '#markets'
-  - '#meltdowns'
+  - arbitrage
+  - class_8markets
+  - financial_crisis
+  - market_dynamics
+  - meltdowns
+aliases:
+  - 8Markets
+  - Arbitrage Strategies
+  - Class 8 Markets
+key_concepts:
+  - Arbitrage opportunities
+  - Class 8 markets
+  - Financial crisis impact
+  - Market dynamics analysis
+  - Market meltdowns
 ---
+
 # Class 8Markets,  Meltdowns,  and Arbitrage
 %% Begin Waypoint %%
 - **[[Class 8- Markets, Meltdowns, and Arbitrage]]**

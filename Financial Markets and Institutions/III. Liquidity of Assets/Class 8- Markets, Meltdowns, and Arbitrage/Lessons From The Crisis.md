@@ -1,19 +1,38 @@
 ---
 cssclasses: academia
-aliases:
-  - Lessons From The Crisis.md
-  - Lessons From The Crisis
 title: Lessons From The Crisis
 tags:
-  - '#abs_cdos'
-  - '#convexity_risk'
-  - '#counterparty_risk'
-  - '#financial_crisis'
-  - '#incentives'
-  - '#negative_basis_trade'
-  - '#regulatory_environment'
-  - '#stress_testing'
+  - convexity_risk
+  - counterparty_risk
+  - financial_crisis
+  - regulatory_environment
+  - securitization
+aliases:
+  - ACA
+  - AMPS
+  - Lessons Learned
+  - Morgan Stanley
+  - UBS
+key_concepts:
+  - Basis risk
+  - Correlation was ignored
+  - Counterparty risk
+  - Extreme scenarios
+  - Failure of supply chain
+  - Financial instrument complexity
+  - Hedging the tail end
+  - Ignored incentives
+  - Inconsistent rules/standards
+  - Leverage existed
+  - Mezzanine CDOs
+  - Nominal default probability
+  - Prudent analysis lacking
+  - Structural causes of crisis
+  - Super Senior tranches
+  - Thorough stress testing
+  - Thoroughly modeled legs
 ---
+
 # Lessons From The Crisis
 
 # Five Structural Causes Of The Crisis

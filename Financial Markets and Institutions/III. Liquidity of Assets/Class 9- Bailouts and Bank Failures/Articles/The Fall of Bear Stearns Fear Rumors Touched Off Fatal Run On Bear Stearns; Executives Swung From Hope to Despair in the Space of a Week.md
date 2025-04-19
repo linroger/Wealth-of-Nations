@@ -1,22 +1,25 @@
 ---
-aliases:
-  - The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives
-    Swung From Hope to Despair in the Space of a Week.md
-  - The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives
-    Swung From Hope to Despair in the Space of a Week
 title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
   Executives Swung From Hope to Despair in the Space of a Week
 tags:
-  - '#alan_schwartz'
-  - '#bear_stearns_collapse'
-  - '#credit_default_swaps'
-  - '#federal_reserve'
-  - '#financial_crisis_2008'
-  - '#hedge_funds'
-  - '#jp_morgan_chase'
-  - '#market_liquidity'
-  - '#run_on_the_bank'
+  - alan_schwartz
+  - bear_stearns_collapse
+  - credit_crisis
+  - financial_crisis
+  - jp_morgan
+aliases:
+  - Alan Schwartz
+  - Bear Stearns
+  - James Dimon
+  - Michael Minikes
+key_concepts:
+  - Bear Stearns stock plunge
+  - Clients withdraw funds
+  - Fragility of trust
+  - Rumors of cash shortage
+  - Trading partner concerns
 ---
+
 # The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
 
 The 40 top Bear Stearns Cos. executives listening to Alan Schwartz over lunch had spent the morning of March 13 watching the firm's stock plunge. Rumor on Wall Street had it Bear Stearns was strapped for cash.

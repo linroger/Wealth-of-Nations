@@ -1,27 +1,27 @@
 ---
-aliases:
-  - 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
-    Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
-  - When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
-    Paper|Commercial Paper]] During the Financial Crisis of 2007 2009. md
-  - When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
-    Paper|Commercial Paper]] During the Financial Crisis of 2007 2009
 linter-yaml-title-alias: 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class
   Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
 title: 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 –
   Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
 tags:
-  - '#asset_backed_commercial_paper'
-  - '#commercial_paper'
-  - '#federal_reserve'
-  - '#financial_crisis_2007_2009'
-  - '#financial_regulation'
-  - '#lehman_brothers_bankruptcy'
-  - '#liquidity_crisis'
-  - '#market_intervention'
-  - '#money_market_funds'
-  - '#roll_over_risk'
+  - asset_backed
+  - commercial_paper
+  - financial_crisis
+  - money_market
+  - short_term_debt
+aliases:
+  - CP
+  - Commercial Paper Crisis
+  - Financial Crisis 2007-2009
+  - Short-term Debt
+key_concepts:
+  - Asset-backed commercial paper
+  - Financial sector impact
+  - Minimal credit risk
+  - Raising capital cheaply
+  - Short-term debt instrument
 ---
+
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
 
 [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] is a short-term debt instrument issued by large corporaommercial paper is a short-term debt instrument issued by large corporations. For issuers,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] is a way of raising capital cheaply at tions. For issuers,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] is a way of raising capital cheaply at short-term interest rates. For investors,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] offers returns short-term interest rates. For investors,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] offers returns slightly higher than Treasury bills in exchange for taking on minimal credit risk. Slightly higher than Treasury bills in exchange for taking on minimal credit risk. At the beginning of 2007,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] was the largest U.S. short-term debt At the beginning of 2007,  [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] was the largest U.S. short-term debt instrument with more than $1.97 trillion outstanding. Most of the commercial instrument with more than $1.97 trillion outstanding. Most of the [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] outstanding was issued by the financial sector,  which accounted for 92 percent of all compaper was issued by the financial sector,  which accounted for 92 percent of all [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] outstanding.

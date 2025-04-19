@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#american_call_option'
-  - '#bivariate_normal_distribution'
-  - '#compound_options'
-  - '#continuous_payout'
-  - '#generalized_compound_option_pricing_model'
-  - '#geometric_brownian_motion'
-  - '#geske_model'
-  - '#option_pricing'
+  - american_call_option
+  - bivariate_normal
+  - compound_option
+  - geometric_brownian_motion
+  - option_pricing
+aliases:
+  - Compound Option Model
+  - GCOM
+  - Generalized Option Model
+key_concepts:
+  - American call option pricing
+  - Bivariate cumulative normal distribution
+  - Compound option pricing model
+  - Geometric Brownian motion
+  - Underlying option exercise price
 ---
+
 # 18.7 GENERALIZED COMPOUND OPTION PRICING MODEL
 
 Rubinstein (1991) generalizes the Geske result to accommodate the other possible compound options: a call on a put, a put on a call, and a put on a put, as well as the case of a continuous payout on the assets of $\delta$ . Brooks (2019) extends this generalized result to include a continuous payout on the underlying option of $\widehat{q}$ , which is not simply a trivial adjustment.

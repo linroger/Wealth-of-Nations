@@ -1,14 +1,20 @@
 ---
 tags:
-  - '#euler_s_rule'
-  - '#european_call_option'
-  - '#exchange_options'
-  - '#homogeneous_functions'
-  - '#linear_homogeneity'
-  - '#margrabe_model'
-  - '#put_call_parity'
-  - '#stochastic_exercise_price'
+  - black_scholes_merton
+  - european_call_option
+  - exchange_options
+  - option_pricing
+  - put_call_parity
+aliases:
+  - Exchange Option Introduction
+key_concepts:
+  - Asset 2 vs Asset 1
+  - Exchange option definition
+  - Homogeneous functions
+  - Put-call parity
+  - Stochastic exercise price
 ---
+
 # 17.1 INTRODUCTION TO EXCHANGE OPTIONS
 
 We will use the concept of linear homogeneity to price exchange options but we first have to define an exchange option. The exchange option, first covered by Margrabe (1978), has proven to be an extremely powerful generalization of the Black-Scholes-Merton model. In addition, the intuitive insights in the derivation of the exchange option model are very useful in other applications in option pricing.

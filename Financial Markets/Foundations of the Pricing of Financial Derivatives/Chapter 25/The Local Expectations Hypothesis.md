@@ -1,16 +1,20 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#binomial_model'
-  - '#bond_market'
-  - '#expected_return'
-  - '#forward_price'
-  - '#leh'
-  - '#local_expectations_hypothesis'
-  - '#martingale_probabilities'
-  - '#risk_free_rate'
-  - '#spot_price'
+  - arbitrage
+  - bond_market
+  - leh
+  - local_expectations_hypothesis
+  - term_structure
+aliases:
+  - LEH
+key_concepts:
+  - Absence of arbitrage
+  - Expected holding period return
+  - Forward price and spot price
+  - Local expectations hypothesis (LEH)
+  - Risk-free rate
 ---
+
 # 25.2 THE LOCAL EXPECTATIONS HYPOTHESIS
 
 A similar sounding but more valid hypothesis for our purposes is the local expectations hypothesis (LEH). In its most general form, the LEH states that all bonds have the same. expected holding period return over the next period. Based on our notation, we have.

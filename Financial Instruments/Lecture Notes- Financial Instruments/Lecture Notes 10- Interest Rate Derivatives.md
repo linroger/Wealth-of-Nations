@@ -1,24 +1,36 @@
 ---
-aliases:
-  - 
-  - LECTURE NOTES 10 INTEREST RATE DERIVATIVES
-  - LECTURE NOTES 10INTEREST RATE DERIVATIVES
-  - Interest Rate Derivatives
-  - 
 linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 tags:
-  - '#black_formula'
-  - '#callable_bonds'
-  - '#forward_rate_agreement'
-  - '#ho_lee_model'
-  - '#interest_rate_derivatives'
-  - '#interest_rate_swaps'
-  - '#interest_rate_trees'
-  - '#libor'
-  - '#overnight_index_swaps'
-  - '#sofr'
+  - black_model
+  - callable_bonds
+  - financial_instruments
+  - floating_rate_debt
+  - forward_rate_agreement
+  - interest_rate_derivatives
+  - interest_rate_swaps
+  - risk_neutral_pricing
+  - swap_contract
+  - treasury_bills
+aliases:
+  - FRA
+  - IR Derivatives
+  - Interest Rate Trees
+  - Lecture 10
+  - Swaps
+key_concepts:
+  - Callable bonds
+  - Floating rate debt
+  - Forward rate agreement
+  - Hedging problem solution
+  - Ho Lee Model
+  - Interest rate derivatives
+  - Interest rate swaps
+  - Risk neutral pricing
+  - Swap rate calculation
+  - Zero coupon bonds
 ---
+
 # Lecture Notes 10- Interest Rate Derivatives
 
 [Lecture Notes 9Corporate Securities And Credit Derivatives](Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md)

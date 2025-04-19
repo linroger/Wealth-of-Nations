@@ -1,20 +1,28 @@
 ---
 cssclasses:
   - academia
-aliases:
 title: Teaching Note 1-Introduction To Fixed Income Securities
 tags:
-  - '#coupon_bonds'
-  - '#discounting'
-  - '#fixed_income_securities'
-  - '#floating_rate_notes'
-  - '#forward_rates'
-  - '#interest_rates'
-  - '#repo_agreements'
-  - '#term_structure'
-  - '#treasury_bonds'
-  - '#yield_curve'
+  - federal_reserve
+  - fixed_income
+  - floating_rate_notes
+  - mortgage_backed_securities
+  - treasury_bonds
+aliases:
+  - FRNs
+  - Fixed Income Intro
+  - TIPS
+  - Teaching Note 1
+key_concepts:
+  - Federal Reserve actions
+  - Fixed income markets
+  - Floating rate notes pricing
+  - Government debt increase
+  - Mortgage-backed securities market
+  - Treasury bond behavior
+  - Yield to maturity
 ---
+
 # Teaching Note 1-Introduction To Fixed Income Securities
 
 ## INTRODUCTION

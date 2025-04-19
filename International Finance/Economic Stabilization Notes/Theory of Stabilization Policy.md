@@ -1,17 +1,24 @@
 ---
 title: Theory of Stabilization Policy
 tags:
-  - '#business_cycles'
-  - '#economic_stability'
-  - '#fiscal_policy'
-  - '#friedman_model'
-  - '#lucas_critique'
-  - '#macroeconomic_fluctuations'
-  - '#monetary_policy'
-  - '#stabilization_policy'
-  - '#timing_lags'
-  - '#utility_analysis'
+  - fiscal_policy
+  - inside_lags
+  - macroeconomic_model
+  - monetary_policy
+  - stabilization_policy
+aliases:
+  - ITC
+  - Lucas critique
+  - Milton Friedman
+key_concepts:
+  - countercyclical policy issues
+  - destabilizing policy effects
+  - expectations and actions
+  - inside and outside lags
+  - investment tax credit
+  - policy intervention timing
 ---
+
 # Theory of Stabilization Policy
 
 Overview

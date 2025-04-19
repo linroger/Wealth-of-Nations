@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#competitive_pressures'
-  - '#futures_contracts'
-  - '#gold_mining_hedging'
-  - '#hedging'
-  - '#hedging_strategies'
-  - '#risk_management'
-  - '#shareholder_perspective'
-  - '#treasurer_risk'
+  - competitive_advantage
+  - financial_markets
+  - hedging_strategies
+  - risk_management
+  - shareholder_value
+aliases:
+  - Arguments for Hedging
+  - Hedging Benefits
+  - Hedging Drawbacks
+key_concepts:
+  - Arguments for hedging
+  - Competitive pressures
+  - Diversification benefits
+  - Shareholder hedging
+  - Transaction costs
 ---
+
 # 3.2 ARGUMENTS FOR AND AGAINST HEDGING  
 
 The arguments in favor of hedging are so obvious that they hardly need to be stated. Most nonfinancial companies are in the business of manufacturing, or retailing or. wholesaling, or providing a service. They have no particular skills or expertise in predicting variables such as interest rates, exchange rates, and commodity prices..  

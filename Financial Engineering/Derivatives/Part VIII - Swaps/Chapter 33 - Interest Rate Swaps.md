@@ -1,3 +1,24 @@
+---
+tags:
+  - comparative_advantage
+  - interest_rate_swaps
+  - libor
+  - otc_instruments
+  - plain_vanilla_swaps
+  - swap_dealers
+aliases:
+  - Fixed-for-Floating Swap
+  - IRS
+  - Interest Rate Swap
+  - Swap
+  - Swap Agreements
+key_concepts:
+  - Cash flow determination
+  - Convert uncertain cash flows
+  - Principle of comparative advantage
+  - Privately arranged contracts
+  - Role of swap dealers
+---
 # SWAPS  
 
 # Interest Rate Swaps  

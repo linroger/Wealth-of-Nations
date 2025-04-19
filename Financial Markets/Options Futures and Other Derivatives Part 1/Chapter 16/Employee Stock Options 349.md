@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#accounting_issues'
-  - '#backdating_scandal'
-  - '#contractual_arrangements'
-  - '#employee_stock_options'
-  - '#shareholder_manager_interests'
-  - '#valuation'
+  - accounting_issues
+  - backdating_scandal
+  - contractual_arrangements
+  - employee_stock_options
+  - valuation
+aliases:
+  - Chapter 16
+  - ESO
+  - ESOP
+key_concepts:
+  - Accounting for employee options
+  - Aligning shareholder, manager interests
+  - Backdating scandal details
+  - Contractual arrangements overview
+  - Valuation of stock options
 ---
+
 # Chapter 16. Employee stock options .. .349  
 
 16.1 Contractual arrangements 349   

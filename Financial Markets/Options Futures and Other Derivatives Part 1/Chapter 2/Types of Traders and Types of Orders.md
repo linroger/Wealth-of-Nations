@@ -1,20 +1,28 @@
 ---
 tags:
-  - '#day_traders'
-  - '#discretionary_order'
-  - '#futures_commission_merchants'
-  - '#hedgers_speculators_arbitrageurs'
-  - '#limit_order'
-  - '#locals_traders'
-  - '#market_if_touched_order'
-  - '#market_order'
-  - '#position_traders'
-  - '#scalpers'
-  - '#stop_limit_order'
-  - '#stop_order'
-  - '#time_conditions_orders'
-  - '#types_of_traders'
+  - arbitrageurs
+  - fcm
+  - hedgers
+  - limit_order
+  - locals
+  - market_order
+  - speculators
+  - stop_order
+  - types_of_orders
+  - types_of_traders
+aliases:
+  - FCMs
+  - Futures Commission Merchants
+  - MIT order
+  - Stop-loss order
+key_concepts:
+  - FCMs and locals
+  - Limit order
+  - Market order
+  - Types of orders
+  - Types of traders
 ---
+
 # 2.8 TYPES OF TRADERS AND TYPES OF ORDERS  
 
 There are two main types of traders executing trades: futures commission merchants (FCMs) and locals. FCMs are following the instructions of their clients and charge a commission for doing so; locals are trading on their own account.  

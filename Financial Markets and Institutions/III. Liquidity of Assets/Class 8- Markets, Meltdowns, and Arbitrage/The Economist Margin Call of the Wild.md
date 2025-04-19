@@ -1,20 +1,24 @@
 ---
-aliases:
-  - The Economist Margin Call of the Wild
-  - The Economist Margin Call of the Wild.md
 title: The Economist Margin Call of the Wild
 tags:
-  - '#archegos_capital_management'
-  - '#bill_hwang'
-  - '#credit_suisse'
-  - '#family_office'
-  - '#financial_markets'
-  - '#leverage'
-  - '#long_short_equity'
-  - '#margin_call'
-  - '#nomura'
-  - '#wall_street'
+  - archegos_capital
+  - equity_swaps
+  - financial_crisis
+  - leveraged_bets
+  - margin_call
+aliases:
+  - Archegos
+  - Bill Hwang
+  - Credit Suisse
+  - Nomura
+key_concepts:
+  - Archegos fire sale
+  - Equity swap derivatives
+  - Leverage and losses
+  - Long-term interest rates
+  - Wall Street profits
 ---
+
 # The Economist Margin Call of the Wild
 
 Before friday March 26th,  few people may have heard of Archegos Capital Management,  an investment vehicle run by Bill Hwang,  a former hedge-fund trader with a chequered past. But it has emerged as the entity behind a fire sale of at least $20bn-worth of equities,  which roiled stockmarkets on an otherwise unremarkable Friday and has left at least two global banks—Credit Suisse and Nomura—facing multi-billion-dollar losses. Financial regulators in America and Europe will have a say before the affair has run its course.

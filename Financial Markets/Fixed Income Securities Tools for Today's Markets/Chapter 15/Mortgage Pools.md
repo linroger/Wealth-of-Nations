@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#conditional_prepayment_rate'
-  - '#credit_quality'
-  - '#fnma_pools'
-  - '#loan_refinancing'
-  - '#loan_to_value'
-  - '#mbs'
-  - '#mortgage_metrics'
-  - '#mortgage_pools'
-  - '#prepayment_rates'
-  - '#weighted_average_coupon'
+  - fnma
+  - mbs
+  - mortgage_pools
+  - prepayments
+  - wac
+aliases:
+  - FNMA Pools
+  - MBS
+  - Mortgage Pool
+key_concepts:
+  - Coupon and WAC
+  - MBS characteristics
+  - Mortgage pool definition
+  - Prepayment rates
+  - WAM and WALA
 ---
+
 # 15.5 MORTGAGE POOLS  
 
 The simplest form of an MBS is a mortgage pool, which is a portfolio of individual mortgages through which payments of interest and principal are passed from borrowers to investors. Borrowers make payments by the first of each month, which servicers pay to investors on the 25th of each month, or on the first business day thereafter.8  

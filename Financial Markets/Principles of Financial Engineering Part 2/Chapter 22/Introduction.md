@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#correlation_trading'
-  - '#credit_derivatives'
-  - '#credit_risk'
-  - '#credit_risk_modeling'
-  - '#default_correlation'
-  - '#default_risk'
-  - '#structured_products'
-  - '#tranche_values'
+  - credit_risk
+  - default_correlation
+  - financial_engineering
+  - modeling
+  - tranching
+aliases:
+  - Credit Sector Overview
+  - Introduction to Credit
+key_concepts:
+  - Correlation market background
+  - Credit risk understanding
+  - Default correlation trading
+  - Equity tranche value
+  - Modeling credit risk
+  - Super senior tranche value
+  - Tranching default risks
 ---
+
 # 22.1 INTRODUCTION  
 
 There are three major issues with the credit sector. First there is the understanding and engineering of the credit risk itself. In other words, how does one strip the default risk component of a bond or a loan and trade it separately? The engineering of a CDS serves this purpose and was done in Chapter 18.  

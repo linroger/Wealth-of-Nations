@@ -1,12 +1,22 @@
 ---
 tags:
-  - '#economic_downturn'
-  - '#financial_crisis_2007_2008'
-  - '#financial_markets'
-  - '#mortgage_backed_securities'
-  - '#securitization'
-  - '#us_housing_market'
+  - financial_crisis
+  - financial_markets
+  - housing_market
+  - mortgage_backed_securities
+  - securitization
+aliases:
+  - Chapter 8
+  - Financial Crisis
+  - Securitization
+key_concepts:
+  - Aftermath of crisis
+  - Financial crisis causes
+  - Mortgage backed securities
+  - Securitization process
+  - US housing market
 ---
+
 # Chapter 8. Securitization and the financial crisis of 2007-8 179  
 
 8.1 Securitization 179   

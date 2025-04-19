@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#arbitrage_free_model'
-  - '#binomial_model'
-  - '#forward_rate_model'
-  - '#heath_jarrow_morton_model'
-  - '#hjm_model_implementation'
-  - '#interest_rate_derivatives'
-  - '#term_structure_modeling'
-  - '#volatility_modeling'
+  - arbitrage_free
+  - binomial_model
+  - forward_rate
+  - hjm_model
+  - interest_rate_derivatives
+aliases:
+  - HJM
+  - Preview
+  - Recap
+key_concepts:
+  - Arbitrage-free tree
+  - Binomial model implementation
+  - Forward rate stochastic process
+  - Heath-Jarrow-Morton model
+  - Interest rate derivatives pricing
 ---
+
 # 27.5 RECAP AND PREVIEW
 
 In this chapter, we developed the continuous time version of the multifactor HeathJarrow-Morton model. We then illustrated how the model can be implemented in a binomial world with one factor. We showed that the tree is free of arbitrage.

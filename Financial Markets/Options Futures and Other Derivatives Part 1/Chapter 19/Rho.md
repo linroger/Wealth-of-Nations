@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#call_option_rho'
-  - '#european_options'
-  - '#interest_rate_sensitivity'
-  - '#option_pricing'
-  - '#option_rho'
-  - '#put_option_rho'
-  - '#risk_free_rate'
+  - european_option
+  - interest_rate
+  - option_greeks
+  - rho_risk
+  - risk_free_rate
+aliases:
+  - Option Rho
+  - Rho of Option
+key_concepts:
+  - European call option
+  - interest rate change
+  - option price sensitivity
+  - option value increase
+  - risk-free rate impact
 ---
+
 # 19.9 RHO  
 
 The rho of an option is the rate of change of its price $f$ with respect to the interest. rate $r$  

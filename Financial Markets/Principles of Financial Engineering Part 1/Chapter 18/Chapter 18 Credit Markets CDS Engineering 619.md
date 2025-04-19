@@ -1,13 +1,21 @@
 ---
 tags:
-  - '#cds_analytics'
-  - '#cds_engineering'
-  - '#credit_default_swaps'
-  - '#credit_markets'
-  - '#default_probability'
-  - '#single_name_cds'
-  - '#sovereign_cds'
+  - cds_analytics
+  - credit_default_swaps
+  - credit_markets
+  - default_probability
+  - sovereign_cds
+aliases:
+  - CDS Engineering
+  - Chapter 18
+key_concepts:
+  - CDS pricing
+  - CDS terminology
+  - CDS vs TRS
+  - Default probability
+  - Sovereign CDS
 ---
+
 # CHAPTER 18  Credit Markets: CDS Engineering. 619  
 
 18.1 Introduction.. .620   

@@ -2,20 +2,24 @@
 title: Operating Margin
 cssclasses:
   - academia
-aliases:
-  - With Examples.md
-  - With Examples.md
 tags:
-  - '#business_efficiency'
-  - '#cost_of_goods_sold'
-  - '#ebit'
-  - '#financial_analysis'
-  - '#industry_comparison'
-  - '#net_sales'
-  - '#operating_margin'
-  - '#profit_margins'
-  - '#profitability_ratio'
+  - ebit
+  - financial_metrics
+  - operating_margin
+  - profitability
+  - return_on_sales
+aliases:
+  - Operating Profit Margin
+  - Profit Margin
+  - ROS
+key_concepts:
+  - Compare within industry
+  - EBIT divided by sales
+  - Efficiency in generating profit
+  - Profit from core operations
+  - Variable costs of production
 ---
+
 # Operating Margin
 
 [[Operating Margin]]

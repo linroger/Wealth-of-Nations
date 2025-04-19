@@ -1,20 +1,22 @@
 ---
-aliases:
-  - The Asian Liquidity Crisis.md
-  - The Asian Liquidity Crisis
 title: The Asian Liquidity Crisis
 tags:
-  - '#asean_5_countries'
-  - '#asian_liquidity_crisis'
-  - '#capital_inflows'
-  - '#currency_crises'
-  - '#emerging_markets'
-  - '#financial_crises'
-  - '#financial_liberalization'
-  - '#fixed_exchange_rates'
-  - '#international_illiquidity'
-  - '#short_term_debt'
+  - asian_liquidity_crisis
+  - exchange_rate_collapse
+  - financial_crisis
+  - financial_liberalization
+  - international_illiquidity
+aliases:
+  - Asian Crash
+  - Emerging Markets Crisis
+key_concepts:
+  - classic financial crisis
+  - exchange rate collapses
+  - financial liberalization impact
+  - financial system collapse
+  - international illiquidity
 ---
+
 # The Asian Liquidity Crisis
 
 NBER WORKING PAPER SERIES

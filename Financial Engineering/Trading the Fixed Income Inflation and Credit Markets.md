@@ -1,16 +1,23 @@
 ---
 tags:
-  - '#asset_swaps'
-  - '#basis_trading'
-  - '#credit_default_swaps'
-  - '#credit_markets'
-  - '#fixed_income_trading'
-  - '#inflation_markets'
-  - '#option_trading'
-  - '#value_at_risk'
-  - '#volatility_strategies'
-  - '#yield_curve_strategies'
+  - bond_fundamentals
+  - credit_markets
+  - fixed_income
+  - inflation
+  - market_risk
+aliases:
+  - Credit Markets
+  - Fixed Income Markets
+  - Trading Fixed Income
+key_concepts:
+  - Bond fundamentals
+  - Market risk management
+  - Pricing relationships
+  - Relative value
+  - Spot-forward relationship
+  - Yield curve formation
 ---
+
 Trading the Fixed Income, Inflation and Credit Markets  
 
 Contents  

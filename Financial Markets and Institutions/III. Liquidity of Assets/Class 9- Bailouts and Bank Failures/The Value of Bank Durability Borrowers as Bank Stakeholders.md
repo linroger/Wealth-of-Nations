@@ -1,19 +1,24 @@
 ---
-aliases:
-  - The Value of Bank Durability Borrowers as Bank Stakeholders.md
-  - The Value of Bank Durability Borrowers as Bank Stakeholders
 title: The Value of Bank Durability Borrowers as Bank Stakeholders
 tags:
-  - '#asset_services_view'
-  - '#bank_durability'
-  - '#bank_lending_relationships'
-  - '#bank_regulation'
-  - '#borrower_stakeholders'
-  - '#continental_illinois_bank'
-  - '#fdic_rescue'
-  - '#relationship_specific_costs'
-  - '#share_price_effects'
+  - bank_durability
+  - bank_stakeholders
+  - borrowers
+  - continental_illinois
+  - fdic_rescue
+aliases:
+  - Bank Durability Borrowers
+  - Bank Lending Relationships
+  - Bank Stakeholders
+  - Continental Illinois Bank
+key_concepts:
+  - Asset services view
+  - Bank durability value
+  - Borrowing firms analysis
+  - Client firm share prices
+  - FDIC rescue effects
 ---
+
 # The Value of Bank Durability Borrowers as Bank Stakeholders
 
 The Value of Bank Durability: Borrowers as Bank Stakeholders

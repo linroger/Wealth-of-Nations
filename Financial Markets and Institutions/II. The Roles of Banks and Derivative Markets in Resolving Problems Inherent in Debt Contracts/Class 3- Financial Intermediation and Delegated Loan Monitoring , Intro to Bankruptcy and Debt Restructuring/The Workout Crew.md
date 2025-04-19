@@ -1,20 +1,23 @@
 ---
-aliases:
-  - The Workout Crew.md
-  - The Workout Crew
 title: The Workout Crew
 tags:
-  - '#bank_restructuring'
-  - '#banking_industry'
-  - '#business_failures'
-  - '#corporate_bankruptcy'
-  - '#financial_recovery'
-  - '#loan_default'
-  - '#nonperforming_loans'
-  - '#troubled_companies'
-  - '#workout_process'
-  - '#workout_specialists'
+  - banking_fraternity
+  - business_failures
+  - nonperforming_loans
+  - workout_crew
+  - workout_officer
+aliases:
+  - black hats
+  - morticians
+  - surgeons
+key_concepts:
+  - bank control
+  - banking fraternity
+  - business loan
+  - nonperforming loans
+  - workout specialists
 ---
+
 # The Workout Crew
 
 # Staff Report: The Wall Street Journal

@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#dv01'
-  - '#forward_bond_yield'
-  - '#forward_contract'
-  - '#hedging_strategies'
-  - '#interest_rate_sensitivity'
-  - '#repo_rate'
-  - '#spot_yield'
-  - '#two_factor_framework'
-  - '#yield_to_maturity'
+  - bond_yield
+  - dv01
+  - forward_contract
+  - forward_yield
+  - interest_rate_sensitivity
+  - repo_rate
+aliases:
+  - Bond Yield
+  - Forward Bond Yield
+  - Forward Price
+key_concepts:
+  - bond's cash flows
+  - forward settlement
+  - interest rate sensitivity
+  - repo rate
+  - spot yield
 ---
+
 # 11.2 FORWARD BOND YIELD  
 
 As covered in Chapter 3, the yield to maturity of a bond is the single rate such that discounting the bond's cash flows at that rate, from spot settlement to maturity, gives the bond's (full) market price. The forward yield of a bond is defined analogously as the single rate such that discounting the bond's cash flows from forward settlement to maturity by that rate gives the bond's (full) forward price.  

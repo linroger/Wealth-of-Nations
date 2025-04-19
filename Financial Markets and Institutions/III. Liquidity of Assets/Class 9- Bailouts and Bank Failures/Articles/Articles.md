@@ -1,9 +1,22 @@
 ---
 title: Articles
 tags:
-  - '#articles'
-  - '#waypoint'
+  - articles
+  - document_structure
+  - note_taking
+  - obsidian_syntax
+  - waypoint
+aliases:
+  - Article
+  - Articles
+  - Notes
+key_concepts:
+  - Document organization
+  - Note structure
+  - Obsidian articles
+  - Waypoints
 ---
+
 # Articles
 
 %% Begin Waypoint %%

@@ -1,11 +1,24 @@
 ---
-aliases:
 cssclasses: academia
 title: Financial Derivatives and Quantitative Methods
 tags:
-  - '#financial_derivatives'
-  - '#quantitative_methods'
+  - derivatives_pricing
+  - financial_derivatives
+  - market_analysis
+  - quantitative_methods
+  - risk_management
+aliases:
+  - Derivatives
+  - Financial Engineering
+  - Quant Methods
+key_concepts:
+  - Derivatives pricing models
+  - Financial instrument valuation
+  - Market microstructure analysis
+  - Quantitative finance methods
+  - Risk management techniques
 ---
+
 # Financial Derivatives and Quantitative Methods
 
 %% Begin Waypoint %%

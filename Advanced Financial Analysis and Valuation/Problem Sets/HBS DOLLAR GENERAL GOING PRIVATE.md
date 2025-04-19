@@ -1,20 +1,23 @@
 ---
-aliases:
-  - 
-  - 
 title: HBS DOLLAR GENERAL GOING PRIVATE
 tags:
-  - '#annual_report_analysis'
-  - '#deep_discount_retail'
-  - '#dollar_general'
-  - '#financial_performance'
-  - '#inventory_management'
-  - '#kkr_acquisition'
-  - '#leveraged_buyout'
-  - '#retail_industry'
-  - '#shareholder_lawsuit'
-  - '#strategic_initiatives'
+  - dollar_general
+  - going_private
+  - hbs
+  - kkr
+  - shareholder_value
+aliases:
+  - DG
+  - David A. Perdue
+  - Dollar General Corporation
+key_concepts:
+  - buyout by KKR
+  - fiduciary duty
+  - grossly inadequate price
+  - revitalize company stock
+  - shareholder lawsuit
 ---
+
 # HBS DOLLAR GENERAL GOING PRIVATE
 ## HARVARD BUSINESS SCHOOL
 

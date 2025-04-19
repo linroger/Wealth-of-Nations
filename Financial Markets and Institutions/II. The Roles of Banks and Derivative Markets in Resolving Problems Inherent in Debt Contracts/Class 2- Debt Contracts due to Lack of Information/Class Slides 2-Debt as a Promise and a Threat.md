@@ -1,20 +1,26 @@
 ---
-aliases:
-  - Class Slides 2-Debt as a Promise and a Threat
-  - Class Slides 2-Debt as a Promise and a Threat.md
 title: Class Slides 2-Debt as a Promise and a Threat
 tags:
-  - '#borrower_behavior'
-  - '#cash_flow_uncertainty'
-  - '#debt_contracts'
-  - '#debt_vs_equity'
-  - '#equity_contracts'
-  - '#financial_penalties'
-  - '#information_asymmetry'
-  - '#lender_monitoring'
-  - '#liquidation'
-  - '#loan_covenants'
+  - borrower_lender
+  - debt_contract
+  - financial_contract
+  - free_cash_flow
+  - liquidation
+aliases:
+  - Borrower Payoff
+  - Class 2 Slides
+  - Debt as Threat
+  - Equity Contract
+key_concepts:
+  - Borrower needs capital
+  - Debt face value
+  - Equity profit sharing
+  - Lender imposes penalty
+  - Liquidation as penalty
+  - Optimal financial contract
+  - Risk neutral parties
 ---
+
 # Class Slides 2-Debt as a Promise and a Threat
 
 [Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat](Class%20Note%202-Debt%20Contracts%20Due%20to%20the%20Lack%20of%20Information%20Debt%20as%20a%20Promise%20and%20a%20Threat.md)

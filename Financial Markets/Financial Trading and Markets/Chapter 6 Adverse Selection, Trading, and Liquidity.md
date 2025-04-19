@@ -1,15 +1,23 @@
 ---
 tags:
-  - '#adverse_selection'
-  - '#dealer_inventories'
-  - '#dealer_spread'
-  - '#glosten_milgrom_model'
-  - '#information_asymmetry'
-  - '#kyle_model'
-  - '#liquidity'
-  - '#market_microstructure'
-  - '#noise_traders'
+  - adverse_selection
+  - asset_pricing
+  - bid_ask_spread
+  - liquidity
+  - market_microstructure
+  - trading
+aliases:
+  - Chapter 6
+  - Market Microstructure
+  - Trading and Liquidity
+key_concepts:
+  - Adverse selection and trading
+  - Bid-ask spread and asset pricing
+  - Liquidity and spreads
+  - Market microstructure impacts prices
+  - Trader information asymmetry
 ---
+
 # Adverse Selection, Trading, and Liquidity  
 
 # 6.1 MARKET MICRO STRUCTURE, LIQUIDITY, AND SPREADS  

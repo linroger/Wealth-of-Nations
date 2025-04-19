@@ -1,17 +1,23 @@
 ---
 title: Forward and Futures Contracts
 tags:
-  - '#arbitrage'
-  - '#backwardation'
-  - '#contango'
-  - '#derivative_pricing'
-  - '#forward_contracts'
-  - '#futures_contracts'
-  - '#hedging'
-  - '#margin_account'
-  - '#market_orders'
-  - '#spot_price'
+  - arbitrage
+  - derivative_pricing
+  - forward_contracts
+  - futures_contracts
+  - hedging
+aliases:
+  - Derivatives
+  - Forwards and Futures
+  - Hull Chapters 1, 2, 5
+key_concepts:
+  - Arbitrage
+  - Forward contracts
+  - Futures contracts
+  - Hedging
+  - Replication
 ---
+
 # Forward and Futures Contracts
 
 These notes explore forward and futures contracts,  what they are and how they are used. We will learn how to price forward contracts by using arbitrage and replication arguments that are fundamental to derivative pricing. We shall also learn about the similarities and differences between forward and futures markets and the differences between forward and futures markets and prices. We shall also consider how forward and future prices are related to spot market prices.

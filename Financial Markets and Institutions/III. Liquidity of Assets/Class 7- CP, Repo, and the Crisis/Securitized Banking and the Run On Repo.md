@@ -1,22 +1,25 @@
 ---
 cssclasses:
   - academia
-aliases:
-  - Securitized Banking and the Run On Repo
-  - Securitized Banking and the Run On Repo.md
 title: Securitized Banking and the Run On Repo
 tags:
-  - '#asset_backed_securities'
-  - '#contagion'
-  - '#counterparty_risk'
-  - '#credit_spreads'
-  - '#financial_crisis_2007_2008'
-  - '#lib_ois_spread'
-  - '#repo_haircuts'
-  - '#repo_market'
-  - '#securitized_banking'
-  - '#subprime_mortgages'
+  - bank_solvency
+  - credit_spreads
+  - financial_crisis
+  - repo_market
+  - securitized_banking
+aliases:
+  - Repurchase Agreements
+  - Run on Repo
+  - Securitized Banking
+key_concepts:
+  - Bank solvency concerns
+  - Credit spread correlation
+  - Run on repo market
+  - Securitization and finance
+  - Systemic bank run
 ---
+
 # Securitized Banking and the Run On Repo
 
 ## 1. Introduction

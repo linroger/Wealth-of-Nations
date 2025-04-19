@@ -1,23 +1,25 @@
 ---
 cssclasses: academia
-aliases:
-  - Corporate Default and Recovery Rates
-  - 1920-2008
-  - Special Comment
 linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
 title: Moody's Corporate Default and Recovery Rates,  1920-2008
 tags:
-  - '#corporate_default_rates'
-  - '#credit_downgrades'
-  - '#default_forecasting'
-  - '#distressed_exchanges'
-  - '#financial_crisis_2008'
-  - '#high_yield_bonds'
-  - '#moodys_ratings'
-  - '#rating_accuracy'
-  - '#recovery_rates'
-  - '#speculative_grade_default'
+  - corporate_defaults
+  - default_study
+  - financial_crisis
+  - moodys_ratings
+  - recovery_rates
+aliases:
+  - Corporate Default Study
+  - Default and Recovery Rates
+  - Moody's Report
+key_concepts:
+  - Corporate default experience
+  - Credit trends in 2008
+  - Historical statistics
+  - Rating accuracy metrics
+  - Speculative-grade default rate
 ---
+
 [[Moody's Corporate Default and Recovery Rates,   1920-2008|Corporate Defaults]]
 
 # Moody's Corporate Default and Recovery Rates,  1920-2008

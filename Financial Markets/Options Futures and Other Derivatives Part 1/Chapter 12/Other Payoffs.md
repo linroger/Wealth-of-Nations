@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#bear_spread'
-  - '#binomial_tree'
-  - '#bull_spread'
-  - '#butterfly_spread'
-  - '#options_strategies'
-  - '#principal_protected_notes'
-  - '#put_call_parity'
-  - '#risk_neutral_valuation'
-  - '#straddle'
-  - '#strangle'
+  - butterfly_spreads
+  - covered_call
+  - european_options
+  - principal_protected_notes
+  - protective_put
+aliases:
+  - Butterfly Spread Payoff
+  - Other Payoffs
+key_concepts:
+  - Butterfly spread payoff
+  - Covered call strategy
+  - Option trading strategies
+  - Principal protected notes
+  - Protective put strategy
 ---
+
 # 12.5 OTHER PAYOFFS  
 
 This chapter has demonstrated just a few of the ways in which options can be used to produce an interesting relationship between profit and stock price. If European options expiring at time $T$ were available with every single possible strike price, any payoff function at time $T$ could in theory be obtained. The easiest illustration of this involves. butterfly spreads. Recall that a butterfly spread is created by buying options with strike prices $K_{1}$ and $K_{3}$ and selling two options with strike price $K_{2}$ , where $K_{1}<K_{2}<K_{3}$ and $K_{3}-K_{2}=K_{2}-K_{1}$ Figure 12.13 shows the payoff from a butterfly spread. The pattern could be described as a spike. As $K_{1}$ and $K_{3}$ move closer together, the spike becomes smaller. Through the judicious combination of a large number of very small spikes, any. payoff function can in theory be approximated as accurately as desired..  

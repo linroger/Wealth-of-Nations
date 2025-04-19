@@ -1,20 +1,24 @@
 ---
-aliases:
-  - 
-  - 
 title: Credit Market Homework 1
 tags:
-  - '#bond_symbology'
-  - '#corporate_bonds'
-  - '#coupon_rates'
-  - '#credit_market_homework'
-  - '#credit_spreads'
-  - '#fixed_rate_bonds'
-  - '#g_spreads'
-  - '#time_to_maturity'
-  - '#us_treasuries'
-  - '#yield_curve'
+  - bond_symbology
+  - credit_market_homework
+  - time_series_analysis
+  - us_treasury_bonds
+  - yield_curve
+aliases:
+  - Bond Symbology
+  - FINM 35700
+  - Homework 1
+  - US Treasuries
+key_concepts:
+  - Bond symbology exploration
+  - On-the-run treasuries
+  - Time series of coupons
+  - US treasury instruments
+  - US treasury yields
 ---
+
 # Credit Market Homework 1
 
 ## FINM 35700 - Spring 2024

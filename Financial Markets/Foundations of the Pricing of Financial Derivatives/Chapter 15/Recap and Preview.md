@@ -1,14 +1,22 @@
 ---
 tags:
-  - '#black_scholes_merton_models'
-  - '#brownian_motion'
-  - '#change_of_measure'
-  - '#derivatives_pricing'
-  - '#girsanov_theorem'
-  - '#martingale'
-  - '#risk_free_rate'
-  - '#stochastic_processes'
+  - arithmetic_brownian_motion
+  - change_of_measure
+  - geometric_brownian_motion
+  - girsanov_theorem
+  - martingale
+aliases:
+  - Girsanov
+  - Preview
+  - Recap
+key_concepts:
+  - Change of measure
+  - Derivatives pricing
+  - Girsanov's theorem
+  - Risk-free rate
+  - Stochastic process
 ---
+
 # 15.7 RECAP AND PREVIEW
 
 Girsanov's theorem shows that a martingale can often be represented by another martingale with a change in the location or drift of the process. This result is a pure mathematical concept, but it has great relevance to finance in that it shows that the stochastic process for an asset can be changed into another stochastic process with the expected return equal to the risk-free rate. This result, which we called the change of measure, plays a subtle but important role in derivatives pricing. In this chapter, we showed how this result is derived, and we applied it to the return on an asset on which we would be interested in valuing a derivative.

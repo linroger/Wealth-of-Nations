@@ -1,20 +1,22 @@
 ---
-aliases:
-  - A Strategic Perspective On Bankruptcy
-  - A Strategic Perspective On Bankruptcy.md
 title: A Strategic Perspective On Bankruptcy
 tags:
-  - '#bankruptcy_code'
-  - '#chapter_11'
-  - '#corporate_control'
-  - '#court_supervision'
-  - '#creditor_claims'
-  - '#financial_distress'
-  - '#operational_cash_flows'
-  - '#out_of_court_restructuring'
-  - '#reorganization_plan'
-  - '#stakeholders'
+  - bankruptcy
+  - chapter_11
+  - creditors
+  - financial_distress
+  - reorganization
+aliases:
+  - Bankruptcy Strategy
+  - Strategic Bankruptcy
+key_concepts:
+  - Chapter 11 bankruptcy code
+  - Company financial obligations
+  - Court-supervised reorganization
+  - Financial distress causes
+  - Out-of-court reorganization
 ---
+
 # A Strategic Perspective On Bankruptcy
 
 For the managers of a company with obligations to claimholders that exceed its ability to fulfill them,  the choice between out-of-court reorganization and a court-supervised reorganization under Chapter 11 of the U.S. Bankruptcy Code involves complex economic,  legal,  and ethical considerations.

@@ -1,16 +1,21 @@
 ---
 tags:
-  - '#conditional_probability'
-  - '#continuous_probability_distribution'
-  - '#cumulative_probability'
-  - '#discrete_probability_distribution'
-  - '#joint_probability'
-  - '#marginal_probability'
-  - '#moment_generating_function'
-  - '#probability_density_function'
-  - '#probability_distributions'
-  - '#random_variables'
+  - conditional_probability
+  - joint_probability
+  - marginal_probability
+  - probability
+  - statistics
+aliases:
+  - Probability Concepts
+  - Unconditional Probability
+key_concepts:
+  - Conditional probability definition
+  - Joint probability definition
+  - Marginal probability definition
+  - Probability of brown hair
+  - Probability with two coins
 ---
+
 # 4.1 MARGINAL, CONDITIONAL, AND JOINT PROBABILITIES
 
 Probability is a measure, meaning a numerical description or quantification, of the relative. frequency of an event. The probability of observing heads in one toss of a fair coin is obviously 1/2. There are two possibilities and one fits the definition of the desired event.. Technically this concept is called the marginal probability, which distinguishes it from the conditional probability, which is the probability that something will happen, given that. something else has already happened. Finally, we have the concept of joint probability,. which is the probability that two or more events will happen..

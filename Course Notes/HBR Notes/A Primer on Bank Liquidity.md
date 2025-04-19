@@ -2,21 +2,29 @@
 cssclasses:
   - academia
 Owner: Roger Lin
-aliases:
-  - A Primer on Bank Liquidity
-  - Bank Liquidity
 title: A Primer on Bank Liquidity
 tags:
-  - '#bank_liquidity'
-  - '#bank_runs'
-  - '#financial_regulation'
-  - '#high_quality_liquid_assets'
-  - '#interbank_market'
-  - '#lender_of_last_resort'
-  - '#liquidity_coverage_ratio'
-  - '#liquidity_requirements'
-  - '#maturity_transformation'
+  - bank_liquidity
+  - banking
+  - diamond_dybvig
+  - fdic
+  - interbank_market
+  - liquidity_risk
+  - maturity_transformation
+  - reserves
+aliases:
+  - Bank Liquidity Primer
+  - Liquidity in Banking
+key_concepts:
+  - Bank liquidity definition
+  - Diamond-Dybvig model
+  - FDIC deposit insurance
+  - Funding illiquid assets
+  - Illiquidity vs insolvency
+  - Interbank market borrowing
+  - Precautionary savings reserves
 ---
+
 # A Primer on Bank Liquidity
 
 [[A Primer on Bank Liquidity|Bank Liquidity]]

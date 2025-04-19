@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#basket_credit_derivatives'
-  - '#bond_math'
-  - '#corporate_spread'
-  - '#credit_default_swap'
-  - '#credit_derivatives'
-  - '#default_risk'
-  - '#digital_options'
-  - '#exotic_interest_rate_options'
-  - '#periodic_caps'
-  - '#reduced_form_models'
+  - adjustable_rate_mortgages
+  - digital_options
+  - exotic_options
+  - interest_rate_options
+  - periodic_caps
+aliases:
+  - digitals
+  - exotic
+  - ranges
+key_concepts:
+  - adjustable rate mortgage
+  - digital option definition
+  - exotic option payoffs
+  - periodic cap structure
+  - range option structure
 ---
+
 # 6.4 EXOTIC INTEREST RATE OPTIONS  
 
 The term "exotic options" applies to all options traded over-the-counter whose payoffs do not follow the standard over or under the strike call/put blueprint. Exotic options include digital (binary) options (fixed payoffs irrespective of how far in the money the option is), barrier options, e.g. knock-ins or knock-outs (the underlying price/rate has to hit/not hit a barrier prior to expiry for the payoff formula to apply), as well as a whole variety of options that are difficult to price because their primary risk is not easily hedged. We do not attempt a complete list of the exotics; instead, we focus on two very popular structures that appear to be deceivingly simple. In reality, they are anything but simple.  

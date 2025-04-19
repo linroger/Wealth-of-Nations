@@ -1,15 +1,24 @@
 ---
 tags:
-  - '#basis_trading'
-  - '#conversion_factor'
-  - '#ctd_bond'
-  - '#futures_contracts'
-  - '#implied_repo_rate'
-  - '#market_intelligence'
-  - '#net_basis'
-  - '#repo_rates'
-  - '#short_squeeze'
+  - basis_trading
+  - bond_pricing
+  - ctd_bond
+  - delivery_option
+  - futures_contract
+  - market_analysis
+  - repo_rates
+aliases:
+  - Basis Trading Fundamentals
+  - CTD Bond Basis
+  - Repo Rate Impact
+key_concepts:
+  - Basis trading considerations
+  - Delivery option impact
+  - Futures price and cash
+  - Market repo rate
+  - Net basis history tracking
 ---
+
 # 3 The Fundamentals of Basis Trading
 
 In this chapter we consider some further issues of basis trading and look at the impact of repo rates on an individual’s trading approach.

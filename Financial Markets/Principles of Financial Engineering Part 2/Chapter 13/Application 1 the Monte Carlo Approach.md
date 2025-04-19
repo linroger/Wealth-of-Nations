@@ -1,14 +1,27 @@
 ---
 tags:
-  - '#digital_options'
-  - '#discretization_bias'
-  - '#european_options'
-  - '#fx_options'
-  - '#monte_carlo_method'
-  - '#option_pricing'
-  - '#path_dependency'
-  - '#risk_neutral_dynamics'
+  - arbitrage_free
+  - asset_pricing
+  - european_option
+  - monte_carlo_method
+  - risk_neutral
+aliases:
+  - Application 1
+  - Monte Carlo
+  - Pricing with Monte Carlo
+key_concepts:
+  - Arbitrage-free asset prices
+  - Closed-form formula
+  - European option premium
+  - Law of large numbers
+  - Monte Carlo expectation
+  - Normalizing asset
+  - Probability measure
+  - Risk-neutral probability
+  - Savings account
+  - Univariate conditional density
 ---
+
 # 13.2 APPLICATION 1: THE MONTE CARLO APPROACH  
 
 Consider again the expectation involving a function $C\left(S_{t},t\right)$ of the underlying risk. $S_{t}$ under a working Martingale measure, $\bar{\tilde{P}}$  

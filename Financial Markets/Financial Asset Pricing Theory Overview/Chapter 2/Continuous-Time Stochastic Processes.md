@@ -1,16 +1,22 @@
 ---
 tags:
-  - '#brownian_motion'
-  - '#diffusion_processes'
-  - '#financial_modeling'
-  - '#geometric_brownian_motion'
-  - '#ito_lemma'
-  - '#ito_process'
-  - '#jump_processes'
-  - '#stochastic_integrals'
-  - '#stochastic_processes'
-  - '#wiener_process'
+  - asset_pricing
+  - brownian_motion
+  - continuous_time
+  - random_walk
+  - stochastic_process
+aliases:
+  - Bachelier model
+  - Brownian motion
+  - Wiener process
+key_concepts:
+  - Brownian motion definition
+  - Independent increments
+  - Markov process
+  - Martingale property
+  - Option pricing formula
 ---
+
 # 2.6 Continuous-time stochastic processes  
 
 # 2.6.1 Brownian motions  

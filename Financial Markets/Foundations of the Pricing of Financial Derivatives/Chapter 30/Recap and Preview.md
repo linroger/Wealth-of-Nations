@@ -1,14 +1,23 @@
 ---
 tags:
-  - '#black_scholes_merton_model'
-  - '#capital_asset_pricing_model_capm'
-  - '#implied_volatility'
-  - '#option_elasticity'
-  - '#option_pricing'
-  - '#option_valuation'
-  - '#sharpe_ratio'
-  - '#volatility_index_vix'
+  - black_scholes_merton_model
+  - capital_asset_pricing_model
+  - implied_volatility
+  - option_pricing
+  - sharpe_ratio
+aliases:
+  - Black-Scholes
+  - CAPM
+  - Preview
+  - Recap
+key_concepts:
+  - European call elasticity
+  - Sharpe ratio of stock
+  - certainty equivalent version
+  - implied volatility
+  - option pricing consistency
 ---
+
 # 30.7 RECAP AND PREVIEW
 
 We learned in this chapter that option pricing is consistent with capital asset pricing. That is, the price obtained from the Black-Scholes-Merton model is consistent with the expected return from the CAPM. But even if the CAPM does not hold, the expected return on the option can be related to the expected return on the asset through the risk-free rate, the risk premium on the asset, and the risk of the option relative to the asset. Unless the option is incorrectly priced relative to the asset, the performance of the option as measured by its Sharpe ratio is no different from the performance of the asset. In short, option pricing is completely consistent with asset pricing.

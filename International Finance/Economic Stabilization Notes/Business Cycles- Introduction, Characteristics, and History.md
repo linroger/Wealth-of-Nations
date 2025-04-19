@@ -1,19 +1,24 @@
 ---
 title: Business CyclesIntroduction, Characteristics, and History
-aliases:
-  - Business CyclesIntroduction, Characteristics, and History
 linter-yaml-title-alias: Business CyclesIntroduction, Characteristics, and History
 tags:
-  - '#business_cycles'
-  - '#comovement'
-  - '#economic_fluctuations'
-  - '#economic_indicators'
-  - '#expansions'
-  - '#great_moderation'
-  - '#leading_indicators'
-  - '#nber'
-  - '#recessions'
+  - business_cycles
+  - economic_activity
+  - expansions
+  - macroeconomic_fluctuations
+  - recessions
+aliases:
+  - Business Cycle
+  - Business Cycle Overview
+  - Economic Cycle
+key_concepts:
+  - Aggregate output, income, employment
+  - Business cycle characteristics
+  - Fluctuations in economic activity
+  - Macroeconomic fiscal and monetary policies
+  - Recessions and expansions
 ---
+
 # Business CyclesIntroduction, Characteristics, and History
 
 ### Business Cycles: Introduction, Characteristics, and History

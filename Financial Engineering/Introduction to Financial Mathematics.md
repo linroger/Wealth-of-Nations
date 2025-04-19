@@ -1,16 +1,27 @@
 ---
 tags:
-  - '#arbitrage'
-  - '#binomial_tree'
-  - '#black_scholes_model'
-  - '#derivative_contracts'
-  - '#financial_mathematics'
-  - '#forward_contracts'
-  - '#interest_rates'
-  - '#options'
-  - '#probability_theory'
-  - '#volatility'
+  - arbitrage
+  - financial_mathematics
+  - interest_rates
+  - options
+  - probability_theory
+aliases:
+  - FinMath
+  - Financial Math
+  - Intro to FinMath
+key_concepts:
+  - Assets, portfolios, arbitrage
+  - Binomial tree pricing
+  - Black-Scholes model
+  - Compound interest, discounting
+  - European/American options
+  - Forward contracts definition
+  - Forward rates and Libor
+  - Futures contracts
+  - Interest rate swaps
+  - Sample space, events, variables
 ---
+
 # Introduction to Financial Mathematics
 
 

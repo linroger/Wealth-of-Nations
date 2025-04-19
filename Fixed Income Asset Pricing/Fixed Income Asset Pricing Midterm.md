@@ -1,17 +1,23 @@
 ---
-aliases:
-  - Fixed Income Asset Pricing Midterm Solutions
-  - Bus 35130 Spring 2019 Midterm
 tags:
-  - '#fixed_income_asset_pricing'
-  - '#floating_rate_notes'
-  - '#forward_rates'
-  - '#midterm_solutions'
-  - '#real_yield'
-  - '#risk_neutral_probabilities'
-  - '#spot_rates'
-  - '#swap_valuation'
+  - asset_pricing
+  - fixed_income
+  - floating_rate_notes
+  - midterm
+  - spot_rates
+aliases:
+  - FIA Pricing
+  - Fixed Income Exam
+  - Midterm Solutions
+key_concepts:
+  - Floating Rate Notes
+  - Real Yield Calculation
+  - Risk-Neutral Probabilities
+  - Spot and Forward Rates
+  - Swap Value Inception
+  - Term Structure Slope
 ---
+
 # Fixed Income Asset Pricing Midterm Solutions
 
 ## INSTRUCTIONS

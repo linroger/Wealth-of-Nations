@@ -1,14 +1,21 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#capital_asset_pricing_model_capm'
-  - '#consumption_based_models'
-  - '#factor_models'
-  - '#historical_returns'
-  - '#mean_variance_efficiency'
-  - '#pricing_factors'
-  - '#state_price_deflators'
+  - asset_pricing
+  - capm
+  - consumption_based_models
+  - factor_models
+  - pricing_factors
+aliases:
+  - Factor Models Overview
+  - Introduction to Factor Models
+key_concepts:
+  - Classical CAPM
+  - Consumption-based models
+  - Factor models
+  - Mean-variance efficient returns
+  - Pricing factors
 ---
+
 # 9.1 Introduction  
 
 The lack of reliable consumption data discussed in Section 8.6 complicates tests and applications of the consumption-based models. As mentioned above, most tests that have been carried out find it problematic to match the (simple) consumption-based model and historical return and consumption data (of poor quality). This motivates a search for models linking returns to other factors than consumption.  

@@ -1,3 +1,23 @@
+---
+tags:
+  - downside_risk
+  - european_option
+  - no_arbitrage
+  - protective_put
+  - put_call_parity
+  - stock_index_options
+aliases:
+  - Car Insurance
+  - Protective Put
+  - S&P 500
+  - Stock-XYZ
+key_concepts:
+  - European put option
+  - downside risk control
+  - protective put
+  - put call parity
+  - stock index options
+---
 # Uses of Options  
 
 # Aims  

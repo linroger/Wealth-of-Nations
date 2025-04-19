@@ -2,23 +2,33 @@
 cssclasses:
   - academia
 Owner: RRoger Lin
-aliases:
-  - 
-  - Notes on Basic Options Properties
-  - Options
 title: Notes on Basic Options Properties
 tags:
-  - '#american_options'
-  - '#arbitrage'
-  - '#call_options'
-  - '#european_options'
-  - '#option_bounds'
-  - '#option_payoffs'
-  - '#option_valuation'
-  - '#options_properties'
-  - '#put_call_parity'
-  - '#put_options'
+  - call_options
+  - option_bounds
+  - option_parameters
+  - option_payoffs
+  - option_pricing
+  - options_basics
+  - put_options
+  - underlying_security
+aliases:
+  - Basic Options
+  - Call and Put
+  - Option Fundamentals
+  - Option Properties
+key_concepts:
+  - 'Call: Right to buy'
+  - Option buyer/holder
+  - Option payoff schemes
+  - Option price bounds
+  - Option seller/writer
+  - Option value parameters
+  - 'Options: Right to buy/sell'
+  - 'Put: Right to sell'
+  - Underlying security
 ---
+
 # Notes on Basic Options Properties
 
    [[Options]]

@@ -1,16 +1,25 @@
 ---
 tags:
-  - '#black_scholes_model'
-  - '#delta_hedging'
-  - '#dynamic_hedging'
-  - '#imperfect_volatility_positions'
-  - '#implied_volatility'
-  - '#static_volatility_position'
-  - '#straddles'
-  - '#variance_vega'
-  - '#volatility_engineering'
-  - '#volatility_payoffs'
+  - imperfect_volatility
+  - risk_management
+  - straddles
+  - variance_swaps
+  - volatility_engineering
+  - volatility_payoffs
+aliases:
+  - Invariance of Volatility
+  - Volatility Payoff Invariance
+  - Volatility Positions
+key_concepts:
+  - Delta-hedging positions
+  - Imperfect volatility positions
+  - Long volatility position
+  - Straddles and strangles
+  - Variance (volatility) swaps
+  - Volatility as a risk
+  - Volatility engineering
 ---
+
 # 15.3 INVARIANCE OF VOLATILITY PAYOFFS  
 
 In previous chapters, convexity was used to isolate volatility as a risk. In Chapters 9 and 10, we showed how to convert the volatility of an underlying into "cash," and with that took the first steps toward volatility engineering.  

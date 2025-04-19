@@ -1,17 +1,24 @@
 ---
 tags:
-  - '#ester'
-  - '#fixed_floating_exchange'
-  - '#interest_rate_swaps'
-  - '#notional_amount'
-  - '#risk_free_rates'
-  - '#saron'
-  - '#sofr'
-  - '#sofr_swap'
-  - '#sonia'
-  - '#term_structure_swap_rates'
-  - '#tonar'
+  - fixed_swap_rate
+  - interest_rate_swaps
+  - notional_amount
+  - sofr_swap
+  - term_structure
+aliases:
+  - IRS
+  - SOFR
+  - SONIA
+  - Swap
+  - TONAR
+key_concepts:
+  - Fixed swap rate
+  - Interest rate swap
+  - Notional amount
+  - SOFR swap payments
+  - Term structure currencies
 ---
+
 # 2.2 INTEREST RATE SWAPS  
 
 In an interest rate swap, two parties agree to exchange a series of interest. payments. Consider first the solid arrows in Figure 2.1, which are the only. contractual cash flows of the depicted swap. Counterparty A agrees to pay Counterparty B the fixed swap rate of. $0.1120\%$ annually for two years on. a notional amount of $\$100$ million. In return, Counterparty B agrees to paye to Counterparty A daily compounded SOFR annually for two years on this. same notional amount. No cash is exchanged on the trade or settlement date. Counterparty A is said to pay fixed and receive floating, while Counterparty. B is said to receive fixed and pay floating..  
