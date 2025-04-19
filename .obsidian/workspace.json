@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Notes.md",
+                "file": "Financial Markets/Options Futures and Other Derivatives Part 1/Chapter 22/Value at Risk and Expected Shortfall 49.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python Notes"
+              "title": "Value at Risk and Expected Shortfall 49"
             }
           }
         ],
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python Notes.md"
+                "file": "Financial Markets/Options Futures and Other Derivatives Part 1/Chapter 22/Value at Risk and Expected Shortfall 49.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Python Notes"
+              "title": "File properties for Value at Risk and Expected Shortfall 49"
             }
           },
           {
@@ -343,8 +343,16 @@
   },
   "active": "050a887f0962f125",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 1/Options Futures and Other Derivatives Part 1.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 1/Chapter 22/Value at Risk and Expected Shortfall 49.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Markets.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/Chapter 22.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Options Futures and Other Derivatives Part 2.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Conclusions.md",
+    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Chapter 2 Institutional Aspects of Derivative Mark.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 7/Arbitraging Price Discrepancies.md",
     "Python Notes.md",
+    "Untitled 1.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/An Application 401.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/The Framework 396.md",
     "Financial Markets/Principles of Financial Engineering Part 1/Principles of Financial Engineering Part1.md",
@@ -361,15 +369,7 @@
     "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/A Guide to the Front End and Basis Swap Markets.md",
     "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
-    "Financial Instruments/Assignments/Solutions/PSET 1 Solution-Financial Instruments.md",
-    "Fixed Income Asset Pricing/Problem Sets/Problem Sets.md",
-    "The Ornstein-Uhlenbeck (OU) Process.md",
     "Untitled.canvas",
-    "International Finance/Lecture Notes on International Finance.md",
-    "Financial Engineering/2. Forwards, Swaps, Futures, and Options.md",
-    "Financial Engineering/7. Black Scholes Model.md",
-    "Financial Engineering/Fixed Income Derivatives/Fixed Income Derivatives.md",
-    "Financial Instruments/Assignments/1. Exploiting an Apparent Arbitrage Opportunity.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
