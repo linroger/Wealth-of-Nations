@@ -172,13 +172,7 @@ Next, suppose in January you have been ofered a place at one of several universi
 
 In September, if you decide to go to a university, you will have to ‘pay’ the strike price (i.e. tuition and living expenses and income foregone while attending the course). In September you will choose that university with the largest net payof $S_{T}-K>0$ where $S_{T}$ is the (expected) present value of your additional earnings after graduating from a particular university. If $S_{T}-K>0$ then you will ‘take delivery’ of one of the university courses, so the option you have is a ‘call option’. Of course if $S_{T}<K$ then you will choose not to go to university (and instead look for a job) – that is, you will not exercise your ‘call option’, as your extra post-university earnings do not cover the costs of attending university.
 
-The above is a type of exotic option since in September you are allowed to choose that university which maximises the possible payofs $S_{T}-K$ across the diferent universities who
-
-(continued)
-
-# (continued)
-
-have made you an ofer. Because you can choose that university with the highest payof (i.e. the largest value of $S_{T}-K)$ then this is known as a rainbow option (or min-max option).
+The above is a type of exotic option since in September you are allowed to choose that university which maximises the possible payofs $S_{T}-K$ across the diferent universities who have made you an ofer. Because you can choose that university with the highest payof (i.e. the largest value of $S_{T}-K)$ then this is known as a rainbow option (or min-max option).
 
 Suppose it is January so you do not yet have your June examination results. You are holding a form of exotic option known as a barrier option. If your intellectual prowess increases and you achieve the grade B in June, then you cross the exam barrier and the option ‘knocks in’ (i.e. comes ‘alive’) and can be exercised later (in September), if you wish.
 
@@ -252,13 +246,7 @@ By way of an analogy consider ‘Dolly’ the sheep. You will remember that Doll
 
 Suppose the current market price of real sheep being sold in the local market in the Highlands is £220. ‘Sheep arbitrageurs’ sitting in London seeing these prices on their internet screens would (ethical issues aside) buy a ‘replication’ Dolly in Edinburgh for £200 and simultaneously they would sell Dolly in the local market in the Highlands for £220 making an arbitrage (risk-free) proft of £20. (We ignore any transportation costs of getting Dolly from Edinburgh to the Highlands.)
 
-This increase in demand for a Dolly in Edinburgh and sale of a Dolly in the Highlands (by many arbitrageurs in London doing the same trades) would mean the price of a Dolly would be bid up in Edinburgh and the price of a Dolly in the Highlands would fall – this is ‘supply and demand’ at work. Arbitrage and ‘supply and demand’ would ensure that the price of a Dolly in Edinburgh and the Highlands would quickly move to equality at
-
-(continued)
-
-# (continued)
-
-say £210 for each – at which point arbitrage activity would stop – since there are now no risk-free profts to be made. Economists would say that £210 is the current equilibrium price of a Dolly.
+This increase in demand for a Dolly in Edinburgh and sale of a Dolly in the Highlands (by many arbitrageurs in London doing the same trades) would mean the price of a Dolly would be bid up in Edinburgh and the price of a Dolly in the Highlands would fall – this is ‘supply and demand’ at work. Arbitrage and ‘supply and demand’ would ensure that the price of a Dolly in Edinburgh and the Highlands would quickly move to equality at say £210 for each – at which point arbitrage activity would stop – since there are now no risk-free profts to be made. Economists would say that £210 is the current equilibrium price of a Dolly.
 
 Arbitrage ensures that the price of real Highland sheep must eventually equal the cost of producing an identical ‘Dolly replicant’. Dolly is like a ‘synthetic’ or ‘replication’ portfolio in fnancial economics. As we shall see, this is how we price many derivatives – we create a ‘synthetic’ or ‘replication’ portfolio, which has identical payofs to the derivative itself.
 

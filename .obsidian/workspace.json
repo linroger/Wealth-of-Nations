@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 1 - Derivative Securities.md",
+                "file": "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Derivative Securities"
+              "title": "Chapter 2 - Futures Markets"
             }
           }
         ],
@@ -333,6 +333,7 @@
   },
   "active": "9e9a1f77ede3d170",
   "lastOpenFiles": [
+    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 1 - Derivative Securities.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
     "Financial Engineering/Financial Engineering.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
@@ -359,7 +360,6 @@
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Theory Meets Data - Asset Pricing Puzzles.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/General Multi-Period Link Between Consumption a.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/HSBC-Auto callable Barrier Notes with Step-up Premium.md",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
     "Attachments/722afc9f9634048f0509a0966fbf781fedbbad951b62fe8c314f5f21450c6ef5.jpg",
