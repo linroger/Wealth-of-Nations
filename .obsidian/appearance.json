@@ -5,28 +5,28 @@
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
   "baseFontSize": 16,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "centered_table",
     "latex",
     "inlineAdmonitionsPluginReadOnly",
     "table_rounded_corners",
     "sf-symbols",
-    "accent-yellow",
     "caption and center image",
     "image_link_centering",
-    "safaritabs",
     "latex_tables",
     "blockquote_styling_01",
     "academic-pdf-export",
     "header_size",
     "custom_latex",
-    "[ui] Compact Tabs",
     "latex_like_pdfs",
     "ion.min",
-    "transparent_tab_header",
     "custom-admonitions.fd99cf",
-    "custom_latex_snippets_obsidian"
+    "custom_latex_snippets_obsidian",
+    "safaritabs",
+    "transparent_tab_header",
+    "[ui] Compact Tabs"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": true
 }

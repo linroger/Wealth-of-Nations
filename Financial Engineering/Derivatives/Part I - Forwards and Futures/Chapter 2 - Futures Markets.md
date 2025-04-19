@@ -97,7 +97,7 @@ TABLE 2.4 Margin account
 
 Note: $N_{\mathsf{F}}=2$ contracts, initial margin $\mathbf{\Phi}=\$2,000$ per contract, maintenance margin $=\$1,500$ per contract. The first and last entries for ‘Futures price’ are actual trading prices – the rest are ‘settlement prices’ at the close of trading each day.
 
-When Ms Long purchases (go long) one futures contract at $\$98$ , the initial face value of her futures position is $\$98,000$ . If Ms Long buys $N_{F}=2$ futures contracts, she pays an initial margin of $\$4,000$ $\left(=2\times\$000$ – see Table 2.4.
+When Ms Long purchases (go long) one futures contract at $\$98$ , the initial face value of her futures position is $\$98,000$ . If Ms Long buys $N_{F}=2$ futures contracts, she pays an initial margin of $\$4,000$ $=2\times\$2000 {}$ – see Table 2.4.
 
 Suppose that by the close of day-1 the (‘settlement’2) futures price falls from $F_{0}=\$98$ to $F_{1}=\$97.9$ . The ‘long’ has a loss of $\$100$ per contract since at the end of day-1 she can now only sell each futures contract for $\$97,900$ . The loss on two contracts is $\$200$ and the balance in Ms Long’s margin account is therefore reduced by $\$200$ to $\$3,800$ . This is marking-to-market. The balance at the end of day-1 is above the maintenance margin of $\$3,000$ (for two contracts).
 
