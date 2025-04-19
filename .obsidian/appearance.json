@@ -1,5 +1,5 @@
 {
-  "cssTheme": "LaTeX",
+  "cssTheme": "Minimal",
   "accentColor": "#ffc599",
   "textFontFamily": "Latin Modern Roman,CMU Serif,Palatino,SF Pro Text",
   "interfaceFontFamily": "SF Pro Display",
@@ -11,7 +11,6 @@
     "latex",
     "inlineAdmonitionsPluginReadOnly",
     "table_rounded_corners",
-    "ipad",
     "sf-symbols",
     "accent-yellow",
     "caption and center image",
@@ -24,7 +23,10 @@
     "custom_latex",
     "[ui] Compact Tabs",
     "latex_like_pdfs",
-    "ion.min"
+    "ion.min",
+    "transparent_tab_header",
+    "custom-admonitions.fd99cf",
+    "custom_latex_snippets_obsidian"
   ],
   "theme": "moonstone"
 }
