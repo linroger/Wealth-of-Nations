@@ -194,16 +194,14 @@ A swap is a negotiated (OTC) agreement between two parties to exchange cash fows
 
 A plain vanilla interest rate swap involves a periodic exchange of interest payments. One set of future interest payments are at a fxed swap rate, $s p_{0}=3\%$ p.a. (say), which is determined when the swap is initiated. The other set of interest payments are determined by the prevailing level of some ‘foating’ interest rate (usually LIBOR). The swap will be based on a notional principal amount of $\$1000$ , say.
 
-For example, in July 2018 a US frm ‘BigBurger’ might have a swap-deal with JPMorgan where BigBurger has agreed to receive annual interest payments from the swap dealer based on (USD) LIBOR rates on 15 July 2019 and on 15 July 2020 (the reset dates). BigBurger also agrees to pay the swap dealer (JPMorgan) a fxed swap rate of $s p_{0}=3\%$ p.a., on these dates (on a notional principal amount of $\$1000$ . BigBurger is a ‘foating-rate receiver’ and a ‘fxed-rate payer’ in the swap. The payments are based on a $\$1000$ (notional) principal amount, but only the interest payments are exchanged (and not the $\$1000$ principal itself). The maturity of the swap, the reset dates, notional principal, the fxed swap rate and the type of foating rate (usually LIBOR) to be used in the swap deal are set at the outset of the contract.
+For example, in July 2018 a US frm ‘BigBurger’ might have a swap-deal with JPMorgan where BigBurger has agreed to receive annual interest payments from the swap dealer based on (USD) LIBOR rates on 15 July 2019 and on 15 July 2020 (the reset dates). BigBurger also agrees to pay the swap dealer (JPMorgan) a fxed swap rate of $s p_{0}=3\%$ p.a., on these dates (on a notional principal amount of $\$1000$ . BigBurger is a ‘foating-rate receiver’ and a ‘fxed-rate payer’ in the swap. The payments are based on a $\$1000$ (notional) principal amount, but only the interest payments are exchanged (and not the $\$1000$ principal itself). The maturity of the swap, the reset dates, notional principal, the fxed swap rate and the type of floating rate (usually LIBOR) to be used in the swap deal are set at the outset of the contract.
 
 The agreed swap rate is $s p_{0}=3\%$ p.a. Suppose LIBOR rates turn out to be $\mathrm{LIBOR}_{1}=5\%$ on 15 July 2019 and $\mathrm{LIBOR}_{2}=2\%$ on 15 July 2020. Then on 15 July 2019 the swap dealer
 
 JPMorgan owes BigBurger, $\$50$ in interest based on $\mathrm{LIBOR}_{1}=5\%$ and BigBurger owes JPMorgan (the swap dealer) $\$30$ based on the fxed swap rate of $s p_{0}=3\%$ , hence:
-
 $$
 S w a p d e a l e r_{S}^{\prime}p a y o f f t o B i g B u r g e r=\S100\mathrm{m}(L I B O R_{1}-s p_{0})=\S2\mathrm{m}
 $$
-
 On 15 July 2020 the swap dealer owes BigBurger $\$20$ based on the out-turn $\mathrm{LIBOR}_{2}=2\%$ and BigBurger owes the swap dealer $\$30$ (based on $s p_{0}=3\%$ ). So on 15 July 2020, BigBurger pays the swap dealer $\$10$ :
 
 $$
