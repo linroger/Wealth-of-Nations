@@ -1,3 +1,13 @@
+---
+tags:
+  - '#ewma_model'
+  - '#garch_1_1_model'
+  - '#mean_reversion'
+  - '#model_comparison'
+  - '#model_stability'
+  - '#parameter_estimation'
+  - '#variance_rates'
+---
 # 23.4 CHOOSING BETWEEN THE MODELS  
 
 In practice, variance rates do tend to be mean reverting. The GARCH(1,1) model incorporates mean reversion, whereas the EWMA model does not. GARCH (1,1) is therefore theoretically more appealing than the EwMA model..  

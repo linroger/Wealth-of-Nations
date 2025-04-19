@@ -1,13 +1,11 @@
 ---
 title: Week 1
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financial-analysis"
-  - "#valuation-analysis"
-  - "#market-efficiency"
-  - "#ratio-analysis"
+  - '#begin_waypoint'
+  - '#end_waypoint'
+  - '#waypoint'
+  - '#week_1'
 ---
-
 # Week 1
 %% Begin Waypoint %%
 - **[[Week 1]]**

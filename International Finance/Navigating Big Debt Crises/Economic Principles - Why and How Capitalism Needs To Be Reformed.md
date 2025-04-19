@@ -5,23 +5,19 @@ cssclasses:
   - academia
 title: Economic Principles - Why and How Capitalism Needs To Be Reformed
 source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
-description: 
+description:
 tags:
-  - economic-theory
-  - macroeconomic-policymaking
-  - income-inequality
-  - economic-integration
-  - capitalism-reform
-  - wealth-gap
-  - social-mobility
-  - "#economic-history"
-  - "#macroeconomics"
-  - "#policy-responses"
-  - "#financial-crises"
-  - "#globalization"
-  - "#economic-mobility"
+  - '#american_dream'
+  - '#capitalism_reform'
+  - '#double_bottom_line_investing'
+  - '#economic_outcomes'
+  - '#economic_policy'
+  - '#education_system'
+  - '#income_inequality'
+  - '#populism'
+  - '#social_mobility'
+  - '#wealth_gap'
 ---
-
 # Economic Principles - Why and How Capitalism Needs To Be Reformed
 ## Summary
 

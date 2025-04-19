@@ -1,7 +1,9 @@
 ---
 title: Problem Sets
+tags:
+  - '#problem_sets'
+  - '#waypoints'
 ---
-
 # Problem Sets
 
 %% Begin Waypoint %%

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#continuously_compounded_return'
+  - '#derivative_valuation'
+  - '#expected_return'
+  - '#interest_rate_impact'
+  - '#risk_assessment'
+  - '#standard_deviation'
+  - '#stock_price_parameters'
+  - '#stock_price_volatility'
+---
 # 14.4  THE PARAMETERS  
 
 The process for a stock price developed in this chapter involves two parameters,. $\mu$ and $\sigma$ The parameter $\mu$ is the expected return (annualized) earned by an investor in a short period of time. Most investors require higher expected returns to induce them to take higher risks. It follows that the value of $\mu$ should depend on the risk of the return from the stock. It should also depend on the level of interest rates in the economy. The higher. the level of interest rates, the higher the expected return required on any given stock..  

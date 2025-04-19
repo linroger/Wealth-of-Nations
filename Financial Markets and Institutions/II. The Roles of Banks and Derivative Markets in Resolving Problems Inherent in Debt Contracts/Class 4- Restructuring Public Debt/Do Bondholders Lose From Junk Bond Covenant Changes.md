@@ -5,27 +5,17 @@ aliases:
   - Do Bondholders Lose From Junk Bond Covenant Changes.md
   - Do Bondholders Lose From Junk Bond Covenant Changes
   - Do Bondholders Lose From Junk Bond Covenant Changes?
-tags:
-
-  - 
-  - covenants
-  - bondholders
-  - consentSolicitations
-  - indentures
-  - debtRestructuring
-  - bondholdersWealth
-  - corporateFinance
-  - gameTheory
-  - eventStudy
-  - "#finance"
-  - "#financial-instruments"
-  - "#bond-valuation"
-  - "#covenant-modifications"
-  - "#bondholder-rights"
-  - "#game-theory-analysis"
 title: Do Bondholders Lose From Junk Bond Covenant Changes
+tags:
+  - '#abnormal_returns'
+  - '#bondholder_coordination'
+  - '#bondholder_returns'
+  - '#coercive_solicitations'
+  - '#consent_solicitation_process'
+  - '#covenant_changes'
+  - '#game_theoretic_analysis'
+  - '#junk_bonds'
 ---
-
 # Do Bondholders Lose From Junk Bond Covenant Changes
 
 Do Bondholders Lose from Junk Bond Covenant Changes?

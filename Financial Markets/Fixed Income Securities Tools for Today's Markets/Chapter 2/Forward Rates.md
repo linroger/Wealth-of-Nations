@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_spreads'
+  - '#forward_rates'
+  - '#p_and_l_attribution'
+  - '#saron_rates'
+  - '#sofr_rates'
+  - '#spot_rates'
+  - '#swap_rates'
+  - '#term_structure'
+  - '#yield_to_maturity'
+---
 # 2.5 FORWARD RATES  
 
 A forward rate is the rate on a forward loan, which is an agreement today to. lend money at some time in the future and to be repaid some time after that. The agreement today specifies the forward rate, which means that the rate on the loan is set today even though the loan itself will not be made until a later date. There are many possible forward rates: the rate on a 1.5-year loan given six months from today; the rate on a six-month loan given in five years; etc. This section, however, focuses on forward rates over sequential,. six-month periods. Let. $f(t)$ denote the forward rate on a loan from year. $t-0.5$ to year $t$ Then, investing one unit of currency from year. $t-0.5$ for six months generates proceeds, at year $t$ , of $1+f(t)/2$  

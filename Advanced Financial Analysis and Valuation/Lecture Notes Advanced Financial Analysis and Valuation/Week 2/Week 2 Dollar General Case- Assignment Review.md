@@ -4,24 +4,18 @@ cssclasses:
 aliases:
   - 
   - 
-tags:
-  - finance
-  - debt-management
-  - corporaterestructuring
-  - financial-analysis
-  - case-studies
-  - mergers-and-acquisitions
-  - leveraged-buyout
-  - retail-industry
-  - "#quantitative-finance"
-  - "#debt-management-strategies"
-  - "#financial-crises"
-  - "#economic-history"
-  - "#macroeconomic-policymaking"
-  - "#corporate-valuation"
 title: Week 2 Dollar General CaseAssignment Review
+tags:
+  - '#dollar_general'
+  - '#financial_performance_analysis'
+  - '#kkr_acquisition'
+  - '#lbo_analysis'
+  - '#peer_comparison'
+  - '#pro_forma_analysis'
+  - '#restructuring_plan'
+  - '#shareholder_value'
+  - '#valuation_multiples'
 ---
-
 [[Week 2 Advanced Financial Analysis and Valuation]]
 
 # Week 2 Dollar General CaseAssignment Review

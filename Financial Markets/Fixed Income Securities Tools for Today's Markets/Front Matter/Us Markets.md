@@ -1,3 +1,16 @@
+---
+tags:
+  - '#debt_instruments'
+  - '#government_sponsored_enterprises'
+  - '#municipal_bonds'
+  - '#municipal_securities'
+  - '#treasury_bills'
+  - '#treasury_bonds'
+  - '#treasury_inflation_protected_securities'
+  - '#treasury_notes'
+  - '#treasury_securities'
+  - '#us_debt_markets'
+---
 # 0.2 US MARKETS  
 
 This section describes debt and loan instruments in the United States, categorized as in Figure O.4. The total amount outstanding across all instruments, as of June 2021, was $\$76.4$ trillion.' By way of comparison, the market capitalization of US equities at the same time was about. $\$45$ trillion. Treasury securities and municipal securities are discussed in this section in some detail, while sectors discussed in later chapters of the book are treated very. briefly here.  

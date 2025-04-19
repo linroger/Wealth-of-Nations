@@ -1,9 +1,14 @@
 ---
 title: Class 8Markets,  Meltdowns,  and Arbitrage
-aliases: ["Class 8Markets,       Meltdowns,       and Arbitrage"]
-linter-yaml-title-alias: "Class 8Markets,       Meltdowns,       and Arbitrage"
+aliases:
+  - Class 8Markets,       Meltdowns,       and Arbitrage
+linter-yaml-title-alias: Class 8Markets,       Meltdowns,       and Arbitrage
+tags:
+  - '#arbitrage'
+  - '#class_8'
+  - '#markets'
+  - '#meltdowns'
 ---
-
 # Class 8Markets,  Meltdowns,  and Arbitrage
 %% Begin Waypoint %%
 - **[[Class 8- Markets, Meltdowns, and Arbitrage]]**

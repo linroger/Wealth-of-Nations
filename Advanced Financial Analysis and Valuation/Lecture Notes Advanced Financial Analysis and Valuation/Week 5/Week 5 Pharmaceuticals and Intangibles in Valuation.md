@@ -1,7 +1,17 @@
 ---
-LLM-tagged: 2025-03-10T14:13:13.121Z
+LLM-tagged: 2025-03-10 14:13:13.121000+00:00
+tags:
+  - '#accounting_treatment'
+  - '#economic_profit_model'
+  - '#goodwill'
+  - '#intangible_assets'
+  - '#mergers_and_acquisitions'
+  - '#oncomed'
+  - '#pharmaceutical_industry'
+  - '#r_and_d_expenses'
+  - '#relative_valuation'
+  - '#valuation_methods'
 ---
-
 Here is a tagged summary of the text:
 
 **Tag 1: Pharmaceutical Industry**

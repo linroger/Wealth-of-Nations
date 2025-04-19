@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_yield_spreads'
+  - '#credit_contagion'
+  - '#credit_risk_valuation'
+  - '#default_probability_estimates'
+  - '#expected_excess_return'
+  - '#hazard_rate'
+  - '#nonsystematic_risk'
+  - '#real_world_probabilities'
+  - '#risk_neutral_probabilities'
+  - '#systematic_risk'
+---
 # 24.5 COMPARISON OF DEFAULT PROBABILITY ESTIMATES  
 
 The default probabilities estimated from historical data are usually much less than those. derived from bond yield spreads. The difference between the two was particularly large. during the financial crisis which started in mid-2007. This is because there was what is termed a "flight to quality" during the crisis, where all investors wanted to hold safe securities such as Treasury bonds. The prices of corporate bonds declined, thereby increasing their yields. The credit spread on these bonds increased and calculations such as the one in equation (24.2) gave very high hazard rate estimates..  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#all_in_cost'
+  - '#bond_issue'
+  - '#currency_swap'
+  - '#eurobond'
+  - '#fixed_rate_funds'
+  - '#floating_rate_funds'
+  - '#gbp_usd_swap'
+  - '#interest_rate_swap'
+  - '#swap_engineering'
+---
 # 6.9 MECHANICS OF SWAPPING NEW ISSUES  
 
 # 6.9.1 INTEREST RATE AND CURRENCY SWAP EXAMPLE  

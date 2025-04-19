@@ -6,17 +6,17 @@ aliases:
   - 
   - 
 tags:
-
-  - case-studies
-  - retail-analysis
-  - dollar-stores
-  - market-trends
-  - "#economic-history"
-  - "#macroeconomics"
-  - "#financial-markets"
-  - "#consumer-behavior"
+  - '#big_lots'
+  - '#dollar_general'
+  - '#dollar_store_tour'
+  - '#dollar_tree'
+  - '#family_dollar'
+  - '#merchandising_strategies'
+  - '#minimum_wage_impact'
+  - '#multi_price_point'
+  - '#retail_industry_analysis'
+  - '#store_layout_and_design'
 ---
-
 # BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 
 On June 12th,  we hosted our 1 st Annual Dollar Store Tour in Chicago featuring more than a dozen members of management from Dollar Tree,  Dollar General,  Family Dollar,  and Big Lots. Overall,  the tour served as an opportunity to compare/contrast each low-end retailer,  while also obtaining a better understanding of the merchandising initiatives underway at each company. Below and enclosed,  we have outlined the key takeaways from each stop on the tour and our latest sector update on the dollar space.

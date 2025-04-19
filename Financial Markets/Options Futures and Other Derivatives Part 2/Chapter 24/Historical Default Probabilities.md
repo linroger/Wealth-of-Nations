@@ -1,3 +1,15 @@
+---
+tags:
+  - '#conditional_probability'
+  - '#credit_rating_bbb'
+  - '#cumulative_default_rates'
+  - '#default_intensity'
+  - '#default_probability'
+  - '#hazard_rates'
+  - '#historical_default_probabilities'
+  - '#rating_agencies'
+  - '#unconditional_default_probability'
+---
 # 24.2  HISTORICAL DEFAULT PROBABILITIES  
 
 Table 24.1 is typical of the data produced by rating agencies. It shows the default experience during a 15-year period of bonds that had a particular rating at the beginning of the period. For example, a bond with a credit rating of BBB has a $0.16\%$ chance of defaulting by the end of the first year, a $0.45\%$ chance of defaulting by the end of the second year, and so on. The probability of a bond defaulting during a particular year can be calculated from the table. For example, the probability that a bond initially rated BBB will default during the second year is $0.45\%\mathrm{~-~}0.16\%=0.29\%$  

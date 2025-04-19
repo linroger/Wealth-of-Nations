@@ -1,3 +1,15 @@
+---
+tags:
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#ois'
+  - '#overnight_indexed_swaps'
+  - '#reference_rates'
+  - '#risk_free_rates'
+  - '#sofr'
+---
 # 7.1 MECHANICS OF INTEREST RATE SWAPS  
 
 An interest rate swap is a swap where interest at a predetermined fixed rate, applied to a certain principal, is exchanged for interest at a floating reference rate, applied to the same principal, with regular exchanges being made for an agreed period of time. Historically, the most common floating reference interest rate in an interest rate swap.  

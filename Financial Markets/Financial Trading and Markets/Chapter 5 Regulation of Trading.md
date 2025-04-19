@@ -1,3 +1,16 @@
+---
+tags:
+  - '#dodd_frank_act'
+  - '#financial_crisis_2008'
+  - '#insider_trading'
+  - '#market_regulation'
+  - '#regulation_nms'
+  - '#regulatory_approaches'
+  - '#sarbanes_oxley_act'
+  - '#securities_regulation'
+  - '#self_regulation'
+  - '#volcker_rule'
+---
 # Regulation of Trading and Securities Markets  
 
 # 5.1 REGULATORY APPROACHESAND THE REGULATORY BALANCE  

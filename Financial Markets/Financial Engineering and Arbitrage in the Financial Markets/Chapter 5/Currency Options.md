@@ -1,3 +1,14 @@
+---
+tags:
+  - '#call_option'
+  - '#currency_1_currency_2'
+  - '#currency_options'
+  - '#fx_rates'
+  - '#option_payoff'
+  - '#put_option'
+  - '#strike_price'
+  - '#usd_jpy'
+---
 # 5.5 CURRENCY OPTIONS  
 
 Options on currency rates work the same way as options on any asset price. Because currency.   

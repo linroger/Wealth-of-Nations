@@ -3,14 +3,16 @@ aliases:
   - 
   - 
 tags:
-
-  - "#finance"
-  - "#investmentanalysis"
-  - "#valuationanalysis"
-  - "#saas-valuation"
-  - "#market-share-analysis"
+  - '#arr_annual_recurring_revenue'
+  - '#dcf_valuation'
+  - '#jpm_valuation'
+  - '#nopat_margin'
+  - '#saas_valuation'
+  - '#sales_multiple_valuation'
+  - '#stock_based_compensation'
+  - '#tam_total_addressable_market'
+  - '#zoom_valuation'
 ---
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

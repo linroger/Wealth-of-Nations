@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_model'
+  - '#european_options'
+  - '#futures_options'
+  - '#futures_price_volatility'
+  - '#lognormal_process'
+  - '#option_pricing'
+  - '#put_option_pricing'
+---
 # 18.7 BLACK'S MODEL FOR VALUING FUTURES OPTIONS  
 
 European futures options can be valued by extending the results we have produced. Fischer Black was the first to show this in a paper published in 1976. Assuming that. the futures price follows the (lognormal) process in equation (18.5), the European call price $c$ and the European put price $p$ for a futures option are given by equations (17.4) and (17.5) with $S_{0}$ replaced by $F_{0}$ and $q=r$  

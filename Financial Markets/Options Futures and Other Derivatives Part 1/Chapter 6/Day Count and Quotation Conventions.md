@@ -1,3 +1,16 @@
+---
+tags:
+  - '#accrued_interest'
+  - '#actual_actual_in_period'
+  - '#bond_valuation'
+  - '#corporate_bonds'
+  - '#day_count_conventions'
+  - '#interest_calculation'
+  - '#money_market_instruments'
+  - '#price_quotations'
+  - '#thirty_360'
+  - '#treasury_bonds'
+---
 # 6.1 DAY COUNT AND QUOTATION CONVENTIONS  
 
 As a preliminary to the material in this chapter, we consider the day count and quotation conventions that apply to bonds and other instruments dependent on interest rates.  

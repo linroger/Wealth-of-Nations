@@ -1,3 +1,14 @@
+---
+tags:
+  - '#european_currency_options'
+  - '#european_option_pricing'
+  - '#foreign_currency'
+  - '#forward_exchange_rates'
+  - '#implied_volatility'
+  - '#put_call_parity'
+  - '#risk_free_interest_rate'
+  - '#spot_exchange_rate'
+---
 # 17.5 VALUATION OF EUROPEAN CURRENCY OPTIONS  
 
 To value currency options, we define $S_{0}$ as the spot exchange rate. To be precise, $S_{0}$ is the value of one unit of the foreign currency in U.S. dollars. As explained in Section 5.10, a foreign currency is analogous to a stock paying a known dividend yield. The owner of foreign currency receives a yield equal to the risk-free interest rate, $r_{f},$ in the. foreign currency. Equations (17.1) and (17.2), with $q$ replaced by $r_{f},$ provide bounds for the European call price, $c$ , and the European put price, $p$  

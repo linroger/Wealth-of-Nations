@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bloomberg_barclays_us_government_bond_index'
+  - '#bond_portfolio_risk'
+  - '#duration_risk_management'
+  - '#jpmorgan_government_bond_fund'
+  - '#key_rate_durations'
+  - '#par_rates'
+  - '#term_structure_analysis'
+  - '#treasury_bonds'
+  - '#us_agency_mortgage_backed_securities'
+---
 # 5.2 KEY RATES: OVERVIEW  
 
 Key-rate $^{\bullet}O1s$ or key-rate Dvo1s, along with key-rate durations, are designed: i) to describe how the risks of a bond portfolio are distributed along the term structure, and ii) to hedge those risks using some set of. bonds, usually the most liquid government bonds of various maturities.. To introduce the topic, Table 5.1 shows the key-rate durations for the. JPMorgan Government Bond Fund and its benchmark portfolio, the. Bloomberg-Barclays US Government Bond Index, as of May 31, 2021. The "Total" durations, in the last row of the table, have similar interpretations as the yield-based durations of Chapter 4. The JPM fund's total duration of 5.73 means that its value increases by approximately $5.73\%$ for a parallel decline in par rates of 100 basis points. The JPM fund, therefore,. has less duration risk than its benchmark, which has a duration of 6.78. The other rows of the table give the key-rate durations of these two bond portfolios. From the "5yr" row, for example, the JPM fund increases in value by approximately $0.80\%$ when the five-year par rate declines by 100 basis points, but all other par rates remain unchanged. Similarly, from the 20-year row, the benchmark portfolio increases in value by approximately $1.67\%$ when the 20-year par rate declines by 100 basis points, but all other par rates remain unchanged.  

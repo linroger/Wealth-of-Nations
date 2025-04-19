@@ -1,13 +1,21 @@
 ---
 aliases:
-- FX Quotes
-- Quoting Conventions
-- 
-- 
-- Foreign Exchange
-tags:
-- 
+  - FX Quotes
+  - Quoting Conventions
+  - 
+  - 
+  - Foreign Exchange
 title: Foreign Exchange Quoting Conventions
+tags:
+  - '#base_currency'
+  - '#currency_quotations'
+  - '#domestic_currency'
+  - '#foreign_exchange'
+  - '#fx_forward_value'
+  - '#fx_outright_forward_rate'
+  - '#fx_spot_rate'
+  - '#interest_rate_parity'
+  - '#quote_currency'
 ---
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]

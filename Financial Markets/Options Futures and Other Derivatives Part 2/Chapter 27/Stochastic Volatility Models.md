@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#fractional_brownian_motion'
+  - '#garch_1_1_model'
+  - '#heston_model'
+  - '#implied_volatility'
+  - '#monte_carlo_simulation'
+  - '#rough_volatility_models'
+  - '#sabr_model'
+  - '#stochastic_volatility_models'
+  - '#variance_gamma_model'
+---
 # 27.2 STOCHASTIC VOLATILITY MODELS  
 
 The Black-Scholes-Merton model assumes that volatility is constant. In practice, as discussed in Chapter 23, volatility varies through time. The variance-gamma model reflects this with its $g$ variable. Low values of $g$ correspond to a low arrival rate for information and a low volatility; high values of $g$ correspond to a high arrival rate for information and a high volatility.  

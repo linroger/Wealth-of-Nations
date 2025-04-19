@@ -1,3 +1,13 @@
+---
+tags:
+  - '#at_the_money_option'
+  - '#employee_stock_options'
+  - '#european_call_option'
+  - '#forward_start_options'
+  - '#non_dividend_paying_stock'
+  - '#option_valuation'
+  - '#risk_neutral_valuation'
+---
 # 26.5 FORWARD START OPTIONS  
 
 Forward start options are options that will start at some time in the future. Sometimes. employee stock options, which were discussed in Chapter 16, can be viewed as forward start options. This is because the company commits (implicitly or explicitly) to granting. at-the-money options to employees in the future..  

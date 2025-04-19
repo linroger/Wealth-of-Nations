@@ -1,3 +1,16 @@
+---
+tags:
+  - '#30_360_convention'
+  - '#actual_360_convention'
+  - '#actual_actual_convention'
+  - '#day_count_conventions'
+  - '#forward_rates'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#sofr'
+  - '#spot_rates'
+  - '#swap_rates'
+---
 # 1.7 DAY-COUNT CONVENTIONS  
 
 As mentioned in the previous section, accrued interest is calculated using. the actual/actual convention, that is, by dividing the actual number of days from the last coupon payment by the actual number of days between coupon. payments. Hence the term "actual/actual"' for this day-count convention.  

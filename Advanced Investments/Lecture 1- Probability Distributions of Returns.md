@@ -1,18 +1,18 @@
 ---
 aliases:
   - Lecture 1- Probability Distributions of Returns
-tags:
-  - "#economic-theory"
-  - "#economics"
-  - "#financial-markets"
-  - "#risk-management"
-  - "#financial-crisis"
-  - "#macroeconomics"
-  - "#monetary-policy"
-  - "#investment-decisions"
-  - "#risk-management"
-  - "#portfolio-choice"
 title: Lecture 1-Probability Distributions of Returns
+tags:
+  - '#asset_returns'
+  - '#expected_return'
+  - '#iid_returns'
+  - '#portfolio_allocation'
+  - '#probability_distributions'
+  - '#risk_aversion'
+  - '#risk_measurement'
+  - '#semi_variance'
+  - '#stock_market_index'
+  - '#variance'
 ---
 # Lecture 1 Probability Distributions of Returns
 

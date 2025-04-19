@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cms'
+  - '#convexity_adjustment'
+  - '#digital_caplets'
+  - '#fixed_income_products'
+  - '#libor'
+  - '#range_accrual_notes'
+  - '#swaptions'
+  - '#yield_curve_strategies'
+  - '#yield_enhancement'
+---
 # 20.3 STRUCTURED FIXED-INCOME PRODUCTS  
 
 Structured fixed-income products follow principles that are similar to the ones based on equity or commodity prices. But the analysis of the principles of fixed income is significantly more complex for several reasons.  

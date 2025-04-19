@@ -1,11 +1,19 @@
 ---
 aliases:
-- A Strategic Perspective On Bankruptcy
-- A Strategic Perspective On Bankruptcy.md
-tags:
-- 
-- 
+  - A Strategic Perspective On Bankruptcy
+  - A Strategic Perspective On Bankruptcy.md
 title: A Strategic Perspective On Bankruptcy
+tags:
+  - '#bankruptcy_code'
+  - '#chapter_11'
+  - '#corporate_control'
+  - '#court_supervision'
+  - '#creditor_claims'
+  - '#financial_distress'
+  - '#operational_cash_flows'
+  - '#out_of_court_restructuring'
+  - '#reorganization_plan'
+  - '#stakeholders'
 ---
 # A Strategic Perspective On Bankruptcy
 

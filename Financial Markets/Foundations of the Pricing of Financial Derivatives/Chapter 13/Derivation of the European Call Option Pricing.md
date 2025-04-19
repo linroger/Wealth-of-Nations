@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#european_call_option'
+  - '#ito_lemma'
+  - '#option_expiration'
+  - '#option_pricing_formula'
+  - '#partial_differential_equation'
+  - '#risk_free_hedge'
+  - '#volatility'
+---
 # 13.1 DERIVATION OF THE EUROPEAN CALL OPTION PRICING FORMULA
 
 Consider a European call option with exercise price $X$ . The option price is assumed to be a function of only two variables: the asset price and time.1 Thus, we write the option price function in its general form as $c(S_{t},t)$ and more loosely as $c_{t}$ , which denotes the option price at time $t$ and where the option price is implicitly a function of the asset price at time $t$ $S_{t}$ . The option's time to expiration is $\tau=T-t.$ At expiration, the option price is $c_{T}=\operatorname*{max}\bigl(0,S_{T}-X\bigr)$

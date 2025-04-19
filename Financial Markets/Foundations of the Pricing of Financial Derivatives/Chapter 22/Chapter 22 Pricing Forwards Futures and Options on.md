@@ -1,3 +1,12 @@
+---
+tags:
+  - '#financial_derivatives'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#numerical_methods'
+  - '#options_on_forwards_and_futures'
+  - '#pricing_models'
+---
 # CHAPTER 22 Pricing Forwards, Futures, and Options on Forwards and Futures 399
 
 22.1 Forward Contracts 399

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#credit_risk'
+  - '#default_correlation'
+  - '#factor_based_correlation'
+  - '#gaussian_copula_model'
+  - '#hazard_rate'
+  - '#reduced_form_models'
+  - '#structural_models'
+  - '#time_to_default'
+---
 # 24.8 DEFAULT CORRELATION  
 
 The term default correlation is used to describe the tendency for two companies to. default at about the same time. There are a number of reasons why default correlation exists. Companies in the same industry or the same geographic region tend to be. affected similarly by external events and as a result may experience financial difficulties. at the same time. Economic conditions generally cause average default rates to be. higher in some years than in other years. A default by one company may cause a default. by another-the credit contagion effect. Default correlation means that credit risk cannot be completely diversified away and is the major reason why risk-neutral default. probabilities are greater than real-world default probabilities (see Section 24.5)..  

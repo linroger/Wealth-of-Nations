@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton'
+  - '#exchange_rate_movements'
+  - '#foreign_currency_options'
+  - '#heavy_tails'
+  - '#implied_volatility'
+  - '#jumps_in_exchange_rates'
+  - '#lognormal_distribution'
+  - '#non_constant_volatility'
+  - '#option_maturity'
+  - '#volatility_smile'
+---
 # 20.2 VOLATILITY SMILE FOR FOREIGN CURRENCY OPTIONS  
 
 The volatility smile used by traders to price foreign currency options tends to have the general form shown in Figure 20.1. The implied volatility is relatively low for at-themoney options. It becomes progressively higher as an option moves either into the. money or out of the money.  

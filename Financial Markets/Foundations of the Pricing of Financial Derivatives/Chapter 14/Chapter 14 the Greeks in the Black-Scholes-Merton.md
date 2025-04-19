@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#delta'
+  - '#dividends'
+  - '#european_put_option'
+  - '#gamma'
+  - '#greek_sensitivities'
+  - '#greeks'
+  - '#option_pricing'
+  - '#partial_derivatives'
+  - '#theta'
+---
 # CHAPTER 14 The Greeks in the Black-Scholes-Merton Model
 
 271

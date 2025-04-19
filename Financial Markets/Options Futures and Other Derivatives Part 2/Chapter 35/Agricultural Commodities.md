@@ -1,3 +1,14 @@
+---
+tags:
+  - '#agricultural_commodities'
+  - '#livestock_feed'
+  - '#mean_reversion'
+  - '#price_volatility'
+  - '#seasonal_prices'
+  - '#stocks_to_use_ratio'
+  - '#supply_and_demand'
+  - '#weather_impact'
+---
 # 35.1 AGRICULTURAL COMMODITIES  
 
 Agricultural commodities include products that are grown (or created from products that are grown) such as corn, wheat, soybeans, cocoa, coffee, sugar, cotton, and frozen orange juice. They also include products related to livestock such as cattle, hogs, and pork bellies. The prices of agricultural commodities, like all commodities, is determined by supply and demand. The U.S. Department of Agriculture publishes reports on inventories and production. One statistic that is watched for commodities such as corn and wheat is the stocks-to-use ratio. This is the ratio of the year-end inventory to the year's usage. Typically it is between $20\%$ and $40\%$ . It has an impact on price volatility. As the ratio for a commodity becomes lower, the commodity's price becomes more sensitive to supply changes, so that the volatility increases.  

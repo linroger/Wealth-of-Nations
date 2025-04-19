@@ -1,3 +1,16 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_merton_model'
+  - '#delta'
+  - '#gamma'
+  - '#option_pricing'
+  - '#option_sensitivities'
+  - '#put_call_parity'
+  - '#rho'
+  - '#theta'
+  - '#vega'
+---
 # 8.1 STANDARD APPROACH
 
 Let $S$ be the current price of the underlying asset and. $\boldsymbol{\mathscr{u}}$ and $d$ be the up and down fac-.

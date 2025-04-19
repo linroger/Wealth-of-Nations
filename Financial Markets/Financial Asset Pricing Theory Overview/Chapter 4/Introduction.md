@@ -1,3 +1,13 @@
+---
+tags:
+  - '#arbitrage_avoidance'
+  - '#arrow_debreu_model'
+  - '#asset_pricing'
+  - '#dividend_valuation'
+  - '#pricing_rule'
+  - '#real_vs_nominal'
+  - '#state_price_deflator'
+---
 # 4.1 Introduction  
 
 If you want to price a set of assets, you could take them one by one and evaluate the dividends of each asset separately. However, to evaluate all assets in a consistent way (e.g. avoiding arbitrage). it is a better strategy first to figure out what your general pricing rule should be and subsequently you can apply that to any given dividend stream. The general pricing rule can be represented by a state-price deflator, which is the topic of this chapter. Basically, a state-price deflator contains information about the valuation of additional payments in different states and at different points in time. Combining that with the state- and time-dependent dividends of any asset, you can compute. a value or price of that asset..  

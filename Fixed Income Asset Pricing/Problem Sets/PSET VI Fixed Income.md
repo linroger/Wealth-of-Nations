@@ -1,10 +1,20 @@
 ---
-aliases: [FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON,  ]
+aliases:
+  - FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
-tags: []
 title: PSET VI Fixed Income
+tags:
+  - '#bond_convexity'
+  - '#bond_duration'
+  - '#bond_pricing'
+  - '#callable_bond'
+  - '#fixed_income'
+  - '#freddie_mac_bond'
+  - '#ho_lee_model'
+  - '#nelson_siegel_model'
+  - '#simple_bdt_model'
+  - '#term_structure_of_interest_rates'
 ---
-
 # PSET VI Fixed Income
 
 ## HOMEWORK 6

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_model'
+  - '#bond_options'
+  - '#callable_bonds'
+  - '#deriva_gem'
+  - '#embedded_bond_options'
+  - '#european_bond_options'
+  - '#forward_bond_price'
+  - '#option_pricing'
+  - '#puttable_bonds'
+  - '#yield_volatility'
+---
 # 29.1 BOND OPTIONS  
 
 A bond option is an option to buy or sell a particular bond by a particular date for a particular price. In addition to trading in the over-the-counter market, bond options are frequently embedded in bonds when they are issued to make them more attractive to either the issuer or potential purchasers.  

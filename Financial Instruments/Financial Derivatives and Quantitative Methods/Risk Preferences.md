@@ -1,8 +1,16 @@
 ---
 title: Risk Preferences
-tags: [Risk_Preferences,  Risk-Neutral-Pricing]
+tags:
+  - '#certainty_equivalent'
+  - '#expected_utility'
+  - '#portfolio_risk'
+  - '#risk_aversion'
+  - '#risk_measures'
+  - '#risk_preferences'
+  - '#stochastic_dominance'
+  - '#utility_theory'
+  - '#value_at_risk'
 ---
-
  #Risk_Preferences
 
 # Risk Preferences

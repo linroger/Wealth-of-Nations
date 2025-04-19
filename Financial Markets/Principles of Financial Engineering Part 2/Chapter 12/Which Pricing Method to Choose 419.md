@@ -1,3 +1,11 @@
+---
+tags:
+  - '#excel_exercises'
+  - '#exercises'
+  - '#fundamental_theorem'
+  - '#pricing_methodology'
+  - '#simple_economics'
+---
 # 12.7 Which Pricing Method to Choose?. 419  
 
 12.8 Conclusions. 420  

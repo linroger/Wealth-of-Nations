@@ -1,3 +1,13 @@
+---
+tags:
+  - '#add_on_interest_rates'
+  - '#binomial_framework'
+  - '#eurodollar_futures'
+  - '#futures_pricing'
+  - '#interest_rate_futures'
+  - '#mark_to_market'
+  - '#settlement_price'
+---
 # 28.10 INTEREST RATE FUTURES
 
 We could price a futures on any underlying that we have already covered, such as add-on interest rates, continuously compounded rates, zero-coupon bonds, and coupon bonds. We shall illustrate how futures pricing works in a binomial framework by pricing a futures on the one-period add-on interest rate. This process will be very similar to how Eurodollar futures, the most widely traded futures contract, work in practice.

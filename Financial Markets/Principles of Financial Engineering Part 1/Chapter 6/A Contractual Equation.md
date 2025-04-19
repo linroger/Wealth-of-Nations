@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#cirp_deviations'
+  - '#contractual_equation'
+  - '#covered_interest_rate_parity'
+  - '#currency_forward'
+  - '#fx_forward'
+  - '#limits_of_arbitrage'
+  - '#synthetic_currency_forward'
+---
 # 6.4 A CONTRACTUAL EQUATION  
 
 In this section, we will obtain a contractual equation for a currency forward. In the next section, we will show several applications. We have just created a synthetic for a currency forward. The basic idea was that a portfolio consisting of the following instruments:.  

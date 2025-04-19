@@ -1,12 +1,20 @@
 ---
-title: "Forward Points in Currency"
-source: "https://www.investopedia.com/terms/f/forwardpoints.asp"
-description: "Forward points are the number of basis points added to or subtracted from the current spot rate to determine the forward rate."
+title: Forward Points in Currency
+source: https://www.investopedia.com/terms/f/forwardpoints.asp
+description: Forward points are the number of basis points added to or subtracted
+  from the current spot rate to determine the forward rate.
 tags:
-  - "clippings"
+  - '#currency_trading'
+  - '#discount_spread'
+  - '#foreign_exchange_swap'
+  - '#forward_contract'
+  - '#forward_discount'
+  - '#forward_points'
+  - '#forward_premium'
+  - '#interest_rates'
+  - '#spot_rate'
+  - '#swap_points'
 ---
-
-
 ## What Are Forward Points?
 
 In currency trading, forward points are the number of [basis points](https://www.investopedia.com/terms/b/basispoint.asp) added to or subtracted from the current [spot rate](https://www.investopedia.com/terms/s/spot_rate.asp) of a currency pair to determine the forward rate for delivery on a specific value date. When points are added to the spot rate this is called a forward premium; when points are subtracted from the spot rate it is a forward discount.

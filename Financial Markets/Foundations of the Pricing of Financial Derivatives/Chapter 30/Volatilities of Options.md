@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_return'
+  - '#asset_risk'
+  - '#asset_volatility'
+  - '#capm'
+  - '#option_elasticity'
+  - '#option_return'
+  - '#option_risk'
+  - '#option_volatility'
+---
 # 30.3 VOLATILITIES OF OPTIONS
 
 Of course, one naturally thinks of volatility as important for an option, but the volatility we refer to in that context is the volatility of the asset. Now we are interested in the volatility of the option. Using the expression created previously for the return on the option as a function of the return on the asset, we take the variance of the option return:

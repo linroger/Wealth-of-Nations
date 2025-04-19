@@ -1,13 +1,22 @@
 ---
 aliases:
-- CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED DEFAULTS
-- 
-- 
+  - CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED DEFAULTS
+  - 
+  - 
 linter-yaml-title-alias: CREDIT MARKETS SESSION 5 STRUCTURAL CREDIT MODELS/ CORRELATED
   DEFAULTS
-tags:
-- 
 title: Credit Markets Session 5
+tags:
+  - '#black_scholes_model'
+  - '#capital_structure'
+  - '#capital_structure_arbitrage'
+  - '#collateralized_debt_obligations_cdos'
+  - '#correlated_defaults'
+  - '#credit_default_risk'
+  - '#equity_valuation'
+  - '#implied_volatility_surfaces'
+  - '#merton_model'
+  - '#synthetic_cdo_pricing'
 ---
 # Credit Markets Session 5
 1. Capital Structure

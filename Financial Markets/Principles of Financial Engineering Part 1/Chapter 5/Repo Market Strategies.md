@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_swap'
+  - '#bond_funding'
+  - '#coupon_washing'
+  - '#futures_arbitrage'
+  - '#hedging_swaps'
+  - '#implied_repo_rate'
+  - '#repo_market_strategies'
+  - '#swap_spread'
+  - '#tax_strategies'
+---
 # 5.5 REPO MARKET STRATEGIES  
 
 The previous sections dealt with repo mechanics and terminology. In this section, we start using repo instruments to devise financial engineering strategies..  

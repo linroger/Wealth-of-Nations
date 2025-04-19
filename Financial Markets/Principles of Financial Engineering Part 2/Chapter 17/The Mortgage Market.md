@@ -1,3 +1,16 @@
+---
+tags:
+  - '#callable_bonds'
+  - '#convexity_risk'
+  - '#duration_gap'
+  - '#fannie_mae'
+  - '#freddie_mac'
+  - '#hedging_strategies'
+  - '#mortgage_backed_securities'
+  - '#mortgage_market'
+  - '#prepayment_risk'
+  - '#swaptions'
+---
 # 17.2 THE MORTGAGE MARKET  
 
 Lenders such as mortgage bankers and commercial banks originate mortgage loans by lending the original funds to a home buyer. This constitutes the primary mortgage market. Primary market. lenders are mortgage banks, savings and loan institutions, commercial banks, and credit unions.  

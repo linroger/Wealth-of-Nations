@@ -1,9 +1,19 @@
 ---
-title: "How Countries Go Broke-Chapter Two & Chapter Three"
-source: "https://www.linkedin.com/pulse/how-countries-go-broke-chapter-two-three-ray-dalio-w1gue/?trackingId=0E70Atc9TLeYgkOwAdGhHg%3D%3D"
+title: How Countries Go Broke-Chapter Two & Chapter Three
+source: 
+  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-two-three-ray-dalio-w1gue/?trackingId=0E70Atc9TLeYgkOwAdGhHg%3D%3D
 description:
 tags:
-  - "clippings"
+  - '#central_banks'
+  - '#debt_cycle'
+  - '#debt_sustainability'
+  - '#deleveraging'
+  - '#economic_cycles'
+  - '#fiscal_policy'
+  - '#government_debt'
+  - '#inflation'
+  - '#interest_rates'
+  - '#monetary_policy'
 ---
 *This post was originally published on January 13, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 

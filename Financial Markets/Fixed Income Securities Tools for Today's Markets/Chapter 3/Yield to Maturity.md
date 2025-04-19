@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_discount'
+  - '#bond_premium'
+  - '#bond_pricing'
+  - '#bond_valuation'
+  - '#coupon_rate'
+  - '#price_yield_relationship'
+  - '#pull_to_par'
+  - '#us_treasury_bonds'
+  - '#yield_to_maturity'
+---
 # 3.2 YIELD TO MATURITY  
 
 Chapter 2 made the point that rates are often more intuitive than prices in describing bond valuation. But, along the lines of that chapter, to describe the pricing of a 10-year bond in terms of semiannually compounded spot rates or forward rates requires 20 of those spot or forward rates. It is hardly surprising, therefore, that market participants prefer to quote the price of a bond and to think about its valuation with a single rate, namely, its yield to maturity.  

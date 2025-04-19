@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#asset_returns'
+  - '#book_organization'
+  - '#equilibrium'
+  - '#investors'
+  - '#modern_asset_pricing'
+  - '#prerequisites'
+  - '#stylized_empirical_facts'
+---
 # 1 Introduction and overview 1  
 
 1.1 What is modern asset pricing? 1   

@@ -1,12 +1,21 @@
 ---
 aliases:
-- 
-- 'EXAMPLE: HEDGING WITH FUTURES'
-- 
+  - 
+  - 'EXAMPLE: HEDGING WITH FUTURES'
+  - 
 linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
-tags:
-- 
 title: Teaching Note 2-Futures Contracts
+tags:
+  - '#basis_risk'
+  - '#cme_euro_fx_futures'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#futures_price_vs_forward_price'
+  - '#hedging_with_futures'
+  - '#margin_call'
+  - '#mark_to_market'
+  - '#speculating_with_futures'
+  - '#stock_index_futures'
 ---
 [Carry Trade 1](Carry%20Trade%201.md)
 

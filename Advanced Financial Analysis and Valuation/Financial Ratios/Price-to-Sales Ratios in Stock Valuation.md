@@ -1,14 +1,16 @@
 ---
 aliases:
 tags:
-
-  - "#finance"
-  - "#investmentanalysis"
-  - "#riskanalysis"
-  - "#[[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]]-ratio"
-  - "#stock-valuation"
+  - '#debt_analysis'
+  - '#enterprise_value'
+  - '#growth_stocks'
+  - '#industry_comparison'
+  - '#market_capitalization'
+  - '#p_s_ratio_calculation'
+  - '#price_sales_ratio'
+  - '#revenue_analysis'
+  - '#stock_valuation_metrics'
 ---
-
 [[[[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratios in Stock Valuation|[[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] Ratio]]
 Investors are always seeking ways to compare the value of stocks. The [[Price-to-Sales Ratios in Stock Valuation|Price-to-Sales]] ratio utilizes a company's market capitalization and revenue to determine whether the stock is valued properly.
 

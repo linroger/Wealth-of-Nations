@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cdo_tranches'
+  - '#cocos'
+  - '#collateralized_debt_obligations'
+  - '#correlation_trading'
+  - '#credit_derivatives'
+  - '#credit_structured_products'
+  - '#default_correlation'
+  - '#gfc'
+  - '#securitization'
+---
 # 21.12 CONCLUSIONS  
 
 This chapter discussed securitization and the role that it has played before and after the GFC. We discussed one example of securitization in the form of CDOs and their tranches. We saw that CDO tranche values depend on default correlations which has led us to a discussion of correlation trading. The next chapter will provide a detailed example that shows the effect of correlation on tranche prices. This will lead us to a discussion of how to risk manage positions in CDO tranches and take views on increasing and decreasing correlations.  

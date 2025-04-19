@@ -1,3 +1,7 @@
+---
+tags:
+  - '#advanced_investments'
+---
 __MASK_7_10__
 
 # Advanced Investments

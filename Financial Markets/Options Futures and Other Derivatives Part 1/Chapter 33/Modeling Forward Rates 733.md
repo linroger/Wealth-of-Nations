@@ -1,3 +1,11 @@
+---
+tags:
+  - '#agency_mortgage_backed_securities'
+  - '#bgm_model'
+  - '#financial_modeling'
+  - '#heath_jarrow_morton_model'
+  - '#modeling_forward_rates'
+---
 # Chapter 33. Modeling forward rates . .733  
 
 33.1 The Heath, Jarrow, and Morton model .733   

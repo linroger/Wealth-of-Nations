@@ -1,3 +1,14 @@
+---
+tags:
+  - '#allais_paradox'
+  - '#archimedean_axiom'
+  - '#expected_utility'
+  - '#preference_relation'
+  - '#subjective_probability'
+  - '#substitution_axiom'
+  - '#utility_function'
+  - '#von_neumann_morgenstern_utility'
+---
 # 5.4 Expected utility representation of preferences  
 
 Utility indices are functions of probability distributions on the set of possible consumption levels. With many states of the world and many assets to trade in, the set of such probability distributions will be very, very large. This will significantly complicate the analysis of optimal choice using  

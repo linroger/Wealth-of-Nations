@@ -1,3 +1,15 @@
+---
+tags:
+  - '#central_counterparty'
+  - '#financial_regulations'
+  - '#lehman_brothers_bankruptcy'
+  - '#market_makers'
+  - '#market_size'
+  - '#otc_derivatives'
+  - '#over_the_counter_markets'
+  - '#swap_execution_facilities'
+  - '#systemic_risk'
+---
 # 1.2 OVER-THE-COUNTER MARKETS  
 
 Not all derivatives trading is on exchanges. Many trades take place in the over-thecounter (OTC) market. Banks, other large financial institutions, fund managers, and corporations are the main participants in OTC derivatives markets. Once an OTC trade has been agreed, the two parties can either present it to a central counterparty. (CCP) or clear the trade bilaterally. A CCP is like an exchange clearing house. It stands between the two parties to the derivatives transaction so that one party does not have to bear the risk that the other party will default. When trades are cleared. bilaterally, the two parties have usually signed an agreement covering all their trans-. actions with each other. The issues covered in the agreement include the circumstances under which outstanding transactions can be terminated, how settlement amounts are calculated in the event of a termination, and how the collateral (if any) that must be posted by each side is calculated. CCPs and bilateral clearing are discussed in more detail in Chapter 2.  

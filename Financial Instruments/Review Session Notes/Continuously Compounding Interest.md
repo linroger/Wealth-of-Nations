@@ -1,13 +1,17 @@
 ---
 aliases:
-- CONTINUOUSLY COMPOUNDING INTEREST
-- 
-- 
+  - CONTINUOUSLY COMPOUNDING INTEREST
+  - 
+  - 
 linter-yaml-title-alias: CONTINUOUSLY COMPOUNDING INTEREST
-tags:
-- 
-- TA_Session
 title: CONTINUOUSLY COMPOUNDING INTEREST
+tags:
+  - '#annual_interest_rate'
+  - '#continuously_compounding_interest'
+  - '#discrete_compounding_frequency'
+  - '#gross_rate_of_return'
+  - '#interest_rate_conversion'
+  - '#maturity_horizon'
 ---
 # CONTINUOUSLY COMPOUNDING INTEREST
 

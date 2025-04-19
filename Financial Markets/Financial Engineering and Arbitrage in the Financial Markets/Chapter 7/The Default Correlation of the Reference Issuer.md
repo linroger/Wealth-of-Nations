@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_backed_securities'
+  - '#cds_pricing'
+  - '#credit_derivatives'
+  - '#etns'
+  - '#joint_default_modeling'
+  - '#protection_seller_default'
+  - '#structured_finance'
+  - '#structured_notes'
+---
 # 7.5 THE DEFAULT CORRELATION OF THE REFERENCE ISSUER AND THE PROTECTION SELLER  
 
 The arbitrage argument of Section 7.1.2 breaks down in the presence of the possibility of default by the protection seller. Financing the purchase of a corporate bond at LIBOR and buying CDS protection on the bond do not produce a risk-free bond if the protection seller can default. The arbitrage argument turns into an inequality. The premium charged can be at most equal to the LIBOR margin, equal if the protection seller were a default-free sovereign, and strictly lower otherwise.' Intuitively, the higher the credit quality of the protection seller, the closer the CDS premium can get to the corporate spread of the issuer. In general, what matters is the joint distribution of defaults of the reference issuer and the protection seller. Modeling this joint distribution parametrically is generally quite difficult. Only marginal normal distributions can be naturally combined into multivariate normals. Fitting a univariate Poisson to obtain a term structure of intensity parameters $\lambda$ for a given corporate does not easily combine with a separate marginal Poisson fitting for the protection seller. However, one way to do it is to specify the correlation of defaults implicitly through joint and conditional probabilities.  

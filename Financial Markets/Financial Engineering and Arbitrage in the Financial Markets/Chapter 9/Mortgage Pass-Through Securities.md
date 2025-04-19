@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cash_flow_analysis'
+  - '#duration'
+  - '#interest_rate_sensitivity'
+  - '#mortgage_pass_through_securities'
+  - '#negative_convexity'
+  - '#prepayment_risk'
+  - '#psa_assumption'
+  - '#weighted_average_life_wal'
+  - '#yield_curve'
+---
 # 9.3 MORTGAGE PASS-THROUGH SECURITIES  
 
 When individual mortgages are combined into pools, one generally needs to know the following information about the pool:  

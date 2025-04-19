@@ -1,3 +1,15 @@
+---
+tags:
+  - '#amortization'
+  - '#interest_rates'
+  - '#loan_origination'
+  - '#mortgage_financing'
+  - '#mortgage_loans'
+  - '#mortgage_terms'
+  - '#prepayment_risk'
+  - '#psa_benchmark'
+  - '#servicing_fee'
+---
 # 9.1  MORTGAGE FINANCING BASICS  
 
 Mortgage loans that are used to finance the purchase of a piece of real estate are recorded in. municipal property registers. The record includes the name of the bank granting the loan (or the subsequent assignees) and the lender's first (lien) right to liquidate the property or to the funds obtained from the future sale of the property by the owner. Mortgage loans are thus. strongly collateralized.  

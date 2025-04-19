@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_spreads'
+  - '#fixed_income_securities'
+  - '#forward_rates'
+  - '#p_and_l_attribution'
+  - '#relative_value'
+  - '#sofr_swaps'
+  - '#treasury_bonds'
+  - '#yield_spreads'
+---
 # 3.5 SPREADS  
 
 There are many fixed income securities. Their prices all depend in some way. on market-wide interest rates, but also on idiosyncratic factors, like credit risk, tax treatment, and unique supply and demand considerations. To make. sense of pricing in this context, market participants often quote spreads of one instrument or set of instruments relative to others..  

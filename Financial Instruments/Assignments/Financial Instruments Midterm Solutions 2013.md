@@ -4,10 +4,19 @@ cssclasses:
 aliases:
   - Financial Instruments Midterm Solutions 2013
 linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
-tags: 
 title: Financial Instruments Midterm Solutions 2013
+tags:
+  - '#binary_option'
+  - '#bond_valuation'
+  - '#currency_exchange_rate'
+  - '#european_call_option'
+  - '#financial_instruments'
+  - '#forward_contracts'
+  - '#midterm_solutions'
+  - '#portfolio_delta'
+  - '#sp500_put_option'
+  - '#stock_hedging'
 ---
-
 ---
 
 title: Financial Instruments Midterm Solutions 2013

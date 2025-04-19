@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_strategies'
+  - '#bond_markets'
+  - '#capital_structure_arbitrage'
+  - '#cds_markets'
+  - '#credit_spreads'
+  - '#delta_hedging'
+  - '#equity_volatility'
+  - '#implied_volatility'
+  - '#merton_model'
+  - '#risk_management'
+---
 # 19.5 CAPITAL STRUCTURE ARBITRAGE  
 
 # 19.5.1 EXAMPLES OF CAPITAL STRUCTURE ARBITRAGE TRADES  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#dirac_delta_function'
+  - '#expectation_calculation'
+  - '#expiration'
+  - '#gaussian_density'
+  - '#mathematical_tool'
+  - '#option_payoffs'
+  - '#probability_density'
+  - '#variance_parameter'
+---
 # 16.4 DIRAC DELTA FUNCTIONS  
 
 Consider the integral of the Gaussian density with mean $K$ given below  

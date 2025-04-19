@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_free'
+  - '#covariance_matrix'
+  - '#drift'
+  - '#forward_rates'
+  - '#hjm_binomial_tree'
+  - '#recombining_tree'
+  - '#term_structure'
+  - '#volatility'
+  - '#zero_coupon_bond_pricing'
+---
 # 27.4 FILLING IN THE REMAINDER OF THE HJM BINOMIAL TREE
 
 Recall that we started with the rates

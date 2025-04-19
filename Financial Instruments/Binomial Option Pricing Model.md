@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_tree_model'
+  - '#black_scholes_formula'
+  - '#combinatorial_method'
+  - '#dividends'
+  - '#futures_options'
+  - '#implied_volatility'
+  - '#jump_diffusion_processes'
+  - '#option_pricing'
+  - '#risk_neutral_probabilities'
+---
 # [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing|Binomial Tree Model]]
 ## I. One-Period Binomial Tree
 ## II. [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing#The Cox-Ross-Rubinstein Binomial Tree|CRR Binomial Tree Model]]

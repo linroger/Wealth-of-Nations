@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_formula'
+  - '#bond_convexity'
+  - '#delta_hedging'
+  - '#european_options'
+  - '#girsanov_theorem'
+  - '#matlab_exercises'
+  - '#option_pricing'
+  - '#stochastic_calculus'
+  - '#swiss_franc'
+  - '#volatility_instrument'
+---
 # 9.8 CONCLUSION: WHAT IS AN OPTION?  
 
 This chapter has shown that an option is essentially a volatility instrument. The critical parameter is how much the underlying risk oscillates within a given interval. We also saw that there are many other risks to manage. The implied volatility parameter, $\sigma$ , may change, interest rates may fluctuate, and option sensitivities may behave unexpectedly. These risks are not "costs" of maintaining the position perhaps, but they affect pricing and play an important role in option trading.  

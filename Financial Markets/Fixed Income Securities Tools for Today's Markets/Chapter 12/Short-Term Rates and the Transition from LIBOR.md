@@ -1,3 +1,16 @@
+---
+tags:
+  - '#ameribor'
+  - '#benchmark_rates'
+  - '#bsby'
+  - '#credit_sensitive_rates'
+  - '#libor'
+  - '#overnight_rates'
+  - '#rfr_transition'
+  - '#risk_free_rates'
+  - '#sofr'
+  - '#term_rates'
+---
 # 12.1 SHORT-TERM RATES AND THE TRANSITION FROM LIBOR  
 
 Since a first trade in 1969,1 LIBOR (London Interbank Offered Rate) grew to become the dominant set of reference rates for short-term interbank borrowing. Across a wide variety of loans and derivatives, huge volumes of cash flows were set based on LIBOR. LIBOR rates were published daily for five currencies (CHF, EUR, GBP, JPY, USD) and for seven maturities (overnight, one week, one month, two months, three months, six months, 12 months),. although the three-month and to a much lesser extent the one-month terms were the most popular. For each currency, a panel of 16 banks was surveyed with the question, "At what rate could you borrow funds, were you to do so by asking for and then accepting interbank offers in a reasonable size just prior to $11~\mathrm{a.m}$ . (London time)?" The LIBOR fixing for each currency and term was then set equal to a trimmed mean of the survey responses.  

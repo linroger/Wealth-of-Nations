@@ -1,12 +1,20 @@
 ---
 aliases:
-- LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
-- 
-- 
+  - LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
+  - 
+  - 
 linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
-tags:
-- 
 title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
+tags:
+  - '#american_options'
+  - '#binomial_trees'
+  - '#black_scholes_model'
+  - '#derivative_pricing'
+  - '#log_normal_distribution'
+  - '#multi_step_trees'
+  - '#option_pricing'
+  - '#replicating_portfolio'
+  - '#risk_neutral_pricing'
 ---
 # Teaching Note 4-Multiperiod Binomial Trees
 

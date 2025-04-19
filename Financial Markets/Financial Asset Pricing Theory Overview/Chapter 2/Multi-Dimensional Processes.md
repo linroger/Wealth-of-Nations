@@ -1,3 +1,15 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#cholesky_decomposition'
+  - '#correlation'
+  - '#covariance'
+  - '#diffusion_process'
+  - '#ito_lemma'
+  - '#multi_dimensional_processes'
+  - '#stochastic_processes'
+  - '#variance'
+---
 # 2.7 Multi-dimensional processes  
 
 So far we have only considered one-dimensional processes, i.e. processes with a value space which is $\mathbb{R}$ or a subset of $\mathbb{R}$ . In most asset pricing models we need to keep track of several processes, e.g. dividend and price processes for different assets, and we will often be interested in covariances and correlations between different processes.  

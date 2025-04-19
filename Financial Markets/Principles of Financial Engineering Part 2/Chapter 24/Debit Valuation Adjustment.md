@@ -1,3 +1,14 @@
+---
+tags:
+  - '#counterparty_credit_risk'
+  - '#debit_valuation_adjustment'
+  - '#derivatives_pricing'
+  - '#dva_accounting'
+  - '#dva_calculation'
+  - '#dva_monetization'
+  - '#dva_regulatory_capital'
+  - '#otc_derivatives'
+---
 # 24.4 DEBIT VALUATION ADJUSTMENT  
 
 Consider the example above that we discussed. From bank B's perspective the price of the derivative was reduced by a positive CVA amount. The same adjustment seen from the perspective of the counterparty is called debit valuation adjustment (DVA). It is positive because the default of the counterparty C would lead to a discount on C's payment obligation and this can be interpreted as a gain. In this case, we continue to assume that the bank B itself is still default free. The DVA is unilateral since only the default risk of the client is included. For the two counterparties to agree, we require that the adjustment to the risk-free price be the same, but that it is added by counterparty C and subtracted by bank B. In other words we require:  

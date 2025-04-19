@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bid_ask_spreads'
+  - '#covered_interest_rate_parity'
+  - '#currency_swaps'
+  - '#forward_fx_contracts'
+  - '#fx_markets'
+  - '#fx_swaps'
+  - '#interest_rate_differentials'
+  - '#off_balance_sheet_items'
+  - '#quotation_conventions'
+  - '#synthetic_fx_contracts'
+---
 # 6.7 SWAP ENGINEERING IN FX MARKETS  
 
 So far we have discussed simple currency derivatives in the form of FX forward. Now we will. apply the more advanced financial engineering concepts related to interest rate swaps that we discussed in Chapter 4 and illustrate swap engineering in FX markets. We will encounter two different types of swaps linked to FX markets. First we will discuss FX swaps, then we will turn to currency. swaps. As we will see there are important differences in the replication and uses of FX and currency swaps respectively. In practice, in terms of turnover, the FX swap market is an order of mag-. nitude larger than the currency swap market..  

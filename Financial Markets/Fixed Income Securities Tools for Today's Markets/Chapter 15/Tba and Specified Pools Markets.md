@@ -1,3 +1,15 @@
+---
+tags:
+  - '#current_coupon'
+  - '#delivery_option'
+  - '#jumbo_loans'
+  - '#mortgage_backed_securities'
+  - '#pay_up'
+  - '#refinancing_rates'
+  - '#specified_pools_market'
+  - '#tba_market'
+  - '#umba_pools'
+---
 # 15.8 TBA AND SPECIFIED POOLS MARKETS  
 
 The vast majority of secondary trading of pass-through securities takes place in the very liquid TBA market, while the rest takes place in the less liquid specified pools market. The TBA market is a forward market in securitized mortgage pools, in which the seller has a delivery option. Table 15.6 shows a snapshot of TBA prices for UMBS 30-year pools from late December 2021. The rows correspond to different delivery months, the columns correspond to different mortgage pool coupons, and the entries give the corresponding forward prices. Most of the liquidity in the TBA market is concentrated in a few coupons, although a fuller stack of coupons do trade. Most of the liquidity is also in the front or first contract and the second contract, but later delivery months trade as well. The front contract with the greatest price less than par is called the current contract. The current coupon, or current coupon rate, which is often quoted as a description of the prevailing mortgage rate, is defined as the coupon that would give a TBA contract priced at par, calculated by interpolating the coupon of the current contract and the coupon of the front-month contract with a price just above par. From Table 15.6, the current contract is the January $2.0\%$ TBA, and the current coupon, calculated from the coupons and prices of the January $2.0\%$ and January $2.5\%$ TBAs, is about $2.11\%$  

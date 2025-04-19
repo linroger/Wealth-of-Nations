@@ -1,3 +1,16 @@
+---
+tags:
+  - '#abss_cdos'
+  - '#cocos'
+  - '#credit_indices'
+  - '#credit_risk_management'
+  - '#equity_derivatives'
+  - '#libor_exotics'
+  - '#reverse_convertibles'
+  - '#securitization'
+  - '#structured_products'
+  - '#volatility_trading'
+---
 # 20.5 CONCLUSIONS  
 
 We close this chapter with a comment on modeling structured products. Which model to use and how to calibrate the chosen models is clearly a crucial component of structured product trading. The structurer cannot buy these products in the wholesale market. The products need to be manufactured in-house. This requires extensive pricing and hedging efforts that will often depend on the model one is working with.  

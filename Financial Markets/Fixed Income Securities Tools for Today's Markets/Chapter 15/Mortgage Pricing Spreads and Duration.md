@@ -1,3 +1,15 @@
+---
+tags:
+  - '#duration_analysis'
+  - '#interest_rate_risk'
+  - '#mortgage_backed_securities_mbs'
+  - '#mortgage_pricing_models'
+  - '#negative_convexity'
+  - '#option_adjusted_duration_oad'
+  - '#option_adjusted_spread_oas'
+  - '#prepayment_model'
+  - '#relative_value_trades'
+---
 # 15.7 MORTGAGE PRICING, SPREADS, AND DURATION  
 
 Combining a prepayment model with a risk-neutral model of the term structure, MBS can be computed as the expected discounted value of their cash flows. Because the model price of a given MBS typically does not perfectly match its market price, an option-adjusted spread (OAS) is defined as the spread that, when added to the initial, benchmark term structure, results in a model MBS price that equals the market price. OAS is the equivalent of bond spread introduced in Chapter 3 and discussed in Chapter 7. In particular, the OAS can be interpreted as the extra return earned when interest rate risk is correctly hedged by the model with securities that are fairly priced by the model.  

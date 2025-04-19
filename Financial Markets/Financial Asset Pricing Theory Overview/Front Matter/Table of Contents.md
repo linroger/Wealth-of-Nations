@@ -1,3 +1,12 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#asset_returns'
+  - '#equilibrium'
+  - '#financial_asset_pricing_theory'
+  - '#investors'
+  - '#modern_asset_pricing'
+---
 # Table of Contents - Financial Asset Pricing Theory Overview
 # Contents  
 

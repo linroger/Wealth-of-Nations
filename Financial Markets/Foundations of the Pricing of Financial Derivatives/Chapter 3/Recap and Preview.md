@@ -1,3 +1,12 @@
+---
+tags:
+  - '#financial_analysis_foundations'
+  - '#past_performance_disclaimer'
+  - '#probability_statistics_review'
+  - '#random_variables_finance'
+  - '#subjective_probability_distribution'
+  - '#summations_products_logarithms'
+---
 # 3.8 RECAP AND PREVIEW
 
 In this cha ter we reviewed the rules of summations roducts lo arithms ex onentials

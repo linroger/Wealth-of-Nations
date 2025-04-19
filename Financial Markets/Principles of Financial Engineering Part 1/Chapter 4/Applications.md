@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cash_flows'
+  - '#equity_index'
+  - '#equity_swap'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#portfolio_value'
+  - '#settlement_dates'
+  - '#swap_logic'
+---
 # 4.2 APPLICATIONS  
 
 In order to see how powerful such a logic can be, we apply the procedure to different types of assets as was done in Chapter 1. In this chapter, we consider an equity portfolio and add the zerovolatility asset to it. This way we obtain an equity swap. A similar approach can be applied to. currencies and we discuss cross-currency and FX swaps in Chapter 6. A commodity swap can be obtained similarly and we explain exactly how in Chapter 7..  

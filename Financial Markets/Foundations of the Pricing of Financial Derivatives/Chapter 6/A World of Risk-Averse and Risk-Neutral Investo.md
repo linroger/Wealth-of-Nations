@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#asset_valuation'
+  - '#expected_return'
+  - '#financial_modeling'
+  - '#market_dynamics'
+  - '#option_pricing'
+  - '#risk_averse_investors'
+  - '#risk_neutral_investors'
+  - '#risk_preferences'
+---
 # 6.6 A WORLD OF RISK-AVERSE AND RISK-NEUTRAL INVESTORS
 
 It is widely accepted that we live in a world of risk-averse investors. There are certainly some exceptions. There are some irrational people who take gambles in which the odds are tilted heavily against them. Almost any form of organized betting is a good example. In addition, almost anyone who devotes the better years of their youth to pursuing a. career in entertainment or sports is going up against enormous odds that almost surely. have a negative expected return. Even entrepreneurship is a tremendously stacked gamble. Nonetheless, we can explain these seemingly irrational decisions because the participants. are receiving a nonmonetary return. They enjoy participating in these endeavors, and that enjoyment can offset the expected monetary loss. And in some cases, they believe their odds are better than they really are..

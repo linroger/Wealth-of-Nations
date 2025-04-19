@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#brownian_motion'
+  - '#consumption_based_capm'
+  - '#dividend_valuation'
+  - '#equity_premium_puzzle'
+  - '#market_price_of_risk'
+  - '#risk_free_interest_rate'
+  - '#state_price_deflator'
+  - '#utility_function'
+---
 # 8.11 Exercises  
 
 EXERCISE 8.1 Carl Smart is currently (at time $t=0$ ) considering a couple of investment projects that will provide him with a dividend in one year from now (time. $t=1$ ) and a dividend in two years from now (time $t=2$ ). He figures that the size of the dividends will depend on the growth rate of aggregate consumption over these two years. The first project Carl considers provides a dividend of  

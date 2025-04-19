@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_option_replication'
+  - '#discrete_time_dynamic_hedging'
+  - '#dynamic_replication'
+  - '#financial_engineering'
+  - '#hedge_ratio_delta'
+  - '#option_replication'
+  - '#principal_preservation'
+  - '#synthetic_options'
+---
 # 8.2 AN EXAMPLE  
 
 Dynamic replication is traditionally discussed within a theoretical framework. It works "exactly" only in continuous time, where continuous, infinitesimal rebalancing of the replicating portfolio is possible. This exactness in replication may quickly disappear with transaction costs, jumps in asset prices, and other complications. In discrete time, dynamic replication can be regarded as an approximation. Yet, even when it does not lead to the exact replication of assets, dynamic replication is an essential tool for the financial engineer..  

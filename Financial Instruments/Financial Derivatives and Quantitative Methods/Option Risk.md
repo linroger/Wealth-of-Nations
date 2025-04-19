@@ -1,5 +1,16 @@
 ---
 title: Option Risk
+tags:
+  - '#binomial_model'
+  - '#call_option'
+  - '#capital_asset_pricing_model_capm'
+  - '#option_beta'
+  - '#option_elasticity'
+  - '#option_risk'
+  - '#put_option'
+  - '#risk_neutral_probability'
+  - '#risk_return_diagram'
+  - '#security_market_line'
 ---
 # Option Risk
 

@@ -5,17 +5,18 @@ Owner: Roger Lin
 aliases:
   - A Primer on Bank Liquidity
   - Bank Liquidity
-tags:
-  - bank-liquidity
-  - banking-regulation
-  - financial-crises
-  - financial-intermediation
-  - liquidity-management
-  - liquidity-requirements
-  - Primers/Notes
 title: A Primer on Bank Liquidity
+tags:
+  - '#bank_liquidity'
+  - '#bank_runs'
+  - '#financial_regulation'
+  - '#high_quality_liquid_assets'
+  - '#interbank_market'
+  - '#lender_of_last_resort'
+  - '#liquidity_coverage_ratio'
+  - '#liquidity_requirements'
+  - '#maturity_transformation'
 ---
-
 # A Primer on Bank Liquidity
 
 [[A Primer on Bank Liquidity|Bank Liquidity]]

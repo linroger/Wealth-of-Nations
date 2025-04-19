@@ -1,3 +1,17 @@
+---
+tags:
+  - '#amaranth_trade'
+  - '#american_options'
+  - '#arbitrage'
+  - '#black_scholes_model'
+  - '#commodity_futures'
+  - '#currency_swaps'
+  - '#forward_parity'
+  - '#forward_rates'
+  - '#kmv_model'
+  - '#option_payoffs'
+  - '#southwest_hedge'
+---
 ```markdown
 # Financial Instruments
 ## Bus 35100

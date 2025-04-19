@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_pricing'
+  - '#bond_yield_spreads'
+  - '#credit_default_swap_cds'
+  - '#default_loss_estimation'
+  - '#default_probabilities'
+  - '#hazard_rate'
+  - '#recovery_rate'
+  - '#risk_free_rate'
+---
 # 24.4  ESTIMATING DEFAULT PROBABILITIES FROM BOND YIELD SPREADS  
 
 Tables such as Table 24.1 provide one way of estimating default probabilities. Another. approach is to look at bond yield spreads. A bond's yield spread is the excess of the promised yield on the bond over the risk-free rate. The usual assumption is that the excess yield is compensation for the possibility of default.3.  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_swap_spread'
+  - '#bond_decomposition'
+  - '#credit_default_swaps'
+  - '#credit_risk_measurement'
+  - '#negative_basis_trades'
+  - '#risky_bonds'
+  - '#synthetic_cds'
+  - '#z_spread'
+---
 # 18.3 CREDIT DEFAULT SWAPS  
 
 The major building block of the credit sector is the CDS, introduced in the first chapter as an example in the swap family. It is, however, a major category. A typical default swap from the point of. view of a protection seller is shown in Figure 18.1. The CDS seller of a particular credit denoted by $i$ receives a preset coupon called the CDS rate. The CDS expires at time. $T.$ The credit protection seller in a CDS is referred to as selling the CDS while the protection buyer buys the CDS. The. protection buyer pays a fixed rate (called the CDS rate) periodically until the earlier of default and. the fixed maturity date. The CDS spread is denoted by. $\mathrm{cds}_{t_{0}}^{j}$ and is set at time $t_{0}$ . A payment of $\mathrm{cds}_{t_{0}}^{j}$ 8N is made at every $t_{i}$ The $j$ represents the reference name. If no default occurs until. $T_{:}$ the contract expires without any other payments. On the other hand, if the name $j$ defaults during $[t_{0},~T]$ the CDS seller has to compensate the counterparty by the insured amount,. $N$ dollars. Against this payment of cash, the protection buyer has to deliver eligible debt instruments with par value $N$ dollars. These instruments will be from a deliverable basket and are clearly specified in. the contract at time $t_{0}$ . Obviously, one of these instruments will, in general, be cheapest-to-deliver. in the case of default, and all players may want to deliver that particular underlying..  

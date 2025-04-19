@@ -1,25 +1,20 @@
 ---
 title: Lessons from China’s Past Banking Bailouts
-aliases: 
-tags:
-  - banking
-  - financial-crises
-  - debt-management
-  - economic-history
-  - macroeconomic-policymaking
-  - non-performing-loans
-  - china-banking-sector
-  - asset-management-companies
-  - "#quantitative-finance"
-  - "#financial_crises"
-  - "#debt-management-strategies"
-  - "#economic-theory"
-  - "#historical-analysis"
-  - "#bank-restructuring"
+aliases:
 cssclasses:
   - academia
+tags:
+  - '#asset_management_companies_amcs'
+  - '#asset_quality_deterioration'
+  - '#bank_bailouts'
+  - '#bank_restructuring'
+  - '#china_banking_sector'
+  - '#financial_stability'
+  - '#foreign_investment'
+  - '#government_intervention'
+  - '#implicit_guarantees'
+  - '#non_performing_loans_npls'
 ---
-
 # Lessons from China’s Past Banking Bailouts
 # Abstract
 

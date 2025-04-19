@@ -1,3 +1,16 @@
+---
+tags:
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#forward_rate_agreements'
+  - '#fra'
+  - '#interest_rates'
+  - '#libor'
+  - '#orange_county_bankruptcy'
+  - '#sofr'
+  - '#sonia'
+  - '#yield_curve_play'
+---
 # 4.9 FORWARD RATE AGREEMENTS  
 
 A forward rate agreement (FRA) is an agreement to exchange a predetermined fixed. rate for a reference rate that will be observed in the market at a future time. Both rates  

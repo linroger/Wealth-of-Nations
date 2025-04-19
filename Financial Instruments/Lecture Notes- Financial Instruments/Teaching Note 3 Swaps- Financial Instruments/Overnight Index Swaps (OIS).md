@@ -4,11 +4,18 @@ cssclasses:
 aliases:
   - 
   - 
-tags:
-
 title: Overnight Index Swaps (Is)
+tags:
+  - '#day_count_convention'
+  - '#floating_rate_payment'
+  - '#ois_characteristics'
+  - '#ois_fundamentals'
+  - '#ois_valuation'
+  - '#overnight_index_swaps'
+  - '#overnight_rate'
+  - '#swap_rate_calculation'
+  - '#zero_coupon_curve'
 ---
-
 **[[Teaching Note 3 SwapsFinancial Instruments]]**
 	- [[Forward Rates Agreement]]
 	- [[Overnight Index Swaps (OIS)]]

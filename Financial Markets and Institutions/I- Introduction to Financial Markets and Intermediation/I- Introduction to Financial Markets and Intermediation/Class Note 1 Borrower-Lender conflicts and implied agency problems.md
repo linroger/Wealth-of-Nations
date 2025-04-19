@@ -1,7 +1,17 @@
 ---
-LLM-tagged: 2025-03-10T14:12:46.154Z
+LLM-tagged: 2025-03-10 14:12:46.154000+00:00
+tags:
+  - '#asset_services'
+  - '#asset_substitution_theory'
+  - '#bond_covenants'
+  - '#borrower_lender_conflicts'
+  - '#debt_and_capital_budgeting'
+  - '#debt_capacity'
+  - '#monitoring_and_enforcement'
+  - '#perverse_incentives'
+  - '#risky_debt'
+  - '#small_firms_and_debt'
 ---
-
 Here is a tagged summary:
 
 **Key Takeaways**

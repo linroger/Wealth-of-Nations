@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convexity'
+  - '#forward_variance'
+  - '#hedging'
+  - '#market_making'
+  - '#replication'
+  - '#skew'
+  - '#variance_swaps'
+  - '#volatility'
+  - '#volatility_risk_premium'
+  - '#volatility_trading'
+---
 # Variance Swaps
 
 Variance swaps offer straightforward and direct exposure to the volatility of an underlying.  

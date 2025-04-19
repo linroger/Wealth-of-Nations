@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds_spread'
+  - '#cds_upfront_amounts'
+  - '#contingent_leg'
+  - '#credit_default_swaps'
+  - '#default_probability'
+  - '#fee_leg'
+  - '#genworth_cds'
+  - '#hazard_rate'
+  - '#market_conventions'
+  - '#survival_probability'
+---
 # 14.6 CDS UPFRONT AMOUNTS  
 
 Before the financial crisis of 2007-2009, CDS traded like interest rate swaps; that is, the coupon changed every moment with market conditions, and standard maturities were fixed terms from the settlement date. For example, buying $\$1$ million notional of five-year CDS on Genworth at a spread of 558.92 basis points on August 16, 2006, was a commitment to pay $\$55,892$ annually in exchange for compensation in the event of a Genworth default through August 16, 2011. Consequently, as is still true for interest rate swaps today (see Chapter 13), unwinding CDS trades was relatively difficult. For example, to unwind the CDS just described after one month, a trader would most like to sell protection at a fee of 558.92 basis points through August 16, 2011. But at the time of the unwind, on September 16, 2006, the most liquid or on-the-run five-year CDS would mature on September 16, 2011, and might carry a spread of 490 basis points. The trader, therefore, would have to incur relatively high transaction costs to unwind the existing CDS, or. would have to sell protection through the on-the-run CDS and manage the maturity and spread mismatch between the original and the hedging CDS.  

@@ -1,10 +1,17 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Deriving Forward Exchange Rate Numerical Example
+tags:
+  - '#currency_risk_management'
+  - '#forward_exchange_rate'
+  - '#futures_contracts'
+  - '#hedging_strategy'
+  - '#mark_to_market'
+  - '#return_on_investment_roi'
+  - '#speculation_with_futures'
+  - '#tail_the_hedge'
 ---
 # Deriving Forward Exchange Rate Numerical Example
 

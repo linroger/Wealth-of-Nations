@@ -1,3 +1,16 @@
+---
+tags:
+  - '#correlation_as_asset_class'
+  - '#correlation_swap'
+  - '#correlation_trading'
+  - '#dispersion_trade'
+  - '#equity_correlation'
+  - '#hedge_funds'
+  - '#implied_correlation'
+  - '#pension_funds'
+  - '#realized_correlation'
+  - '#variance_dispersion_trade'
+---
 # 16.1 INTRODUCTION TO CORRELATION AS AN ASSET CLASS  
 
 In the previous chapter, we saw that volatility as an asset class is firmly established. Developments in financial engineering did not stop at volatility and have continued their natural progression to correlation.. Equity correlation measures how much stock prices tend to move together. Correlation links the volatility of an index to the volatilities of component stocks. As an approximation, we can write:.  

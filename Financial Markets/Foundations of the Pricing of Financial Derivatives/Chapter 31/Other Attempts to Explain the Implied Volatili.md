@@ -1,3 +1,14 @@
+---
+tags:
+  - '#algorithmic_effects'
+  - '#asset_price_jumps'
+  - '#black_scholes_merton_model'
+  - '#implied_volatility_smile'
+  - '#market_liquidity'
+  - '#option_moneyness'
+  - '#option_pricing_models'
+  - '#stochastic_volatility'
+---
 # 31.5 OTHER ATTEMPTS TO EXPLAIN THE IMPLIED VOLATILITY SMILE
 
 When the volatility smile was first observed, some researchers believed that the explanation was liquidity. The true "smile" appearance meant that deep out-of-the-money put options. and deep in-the-money call options had the highest implied volatilities. These options have low liquidity; hence, it was argued that the prices observed for these options of low liquidity reflected the thinness of their markets. But this explanation would suggest that highly liquid options--typically those trading nearly at-the-money--would have the same implied volatilities. In fact, they do not and never did. Moreover, when the smile turned into a skew, the moneyness argument fell by the wayside. In addition, liquidity would not explain. the implied volatilities of deep in-the-money put options and deep out-of-the-money call. options, which also have low liquidity, and yet have high implied volatilities..

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#correlation_as_asset_class'
+  - '#option_pricing'
+  - '#variance_swaps'
+  - '#volatility_engineering'
+  - '#volatility_payoffs'
+  - '#volatility_smile'
+  - '#volatility_swaps'
+  - '#volatility_trading'
+---
 # CHAPTER 15 Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading. 507  
 
 15.1 Introduction. .508   

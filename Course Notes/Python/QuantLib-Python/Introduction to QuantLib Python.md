@@ -1,8 +1,17 @@
 ---
 title: Introduction to QuantLib Python
-source: "https://gouthamanbalaraman.com/blog/quantlib-basics.html"
-description: "This post will walk through some of the basics of QuantLib Python library."
-tags: ["clippings"]
+source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
+description: This post will walk through some of the basics of QuantLib Python library.
+tags:
+  - '#compounding'
+  - '#date_object'
+  - '#discount_factor'
+  - '#equivalent_rate'
+  - '#implied_rate'
+  - '#interest_rate_class'
+  - '#quantlib_python'
+  - '#schedule_object'
+  - '#time_module'
 ---
 # Introduction to QuantLib Python
 

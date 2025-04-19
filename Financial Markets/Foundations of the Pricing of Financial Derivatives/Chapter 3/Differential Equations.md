@@ -1,3 +1,15 @@
+---
+tags:
+  - '#boundary_conditions'
+  - '#derivatives'
+  - '#differential_equations'
+  - '#indefinite_integration'
+  - '#initial_conditions'
+  - '#option_pricing'
+  - '#ordinary_differential_equations'
+  - '#partial_differential_equations'
+  - '#pde_solving'
+---
 # 3.7 DIFFERENTIAL EQUATIONS
 
 A differential equation is an equation that contains a derivative. The objective of solving a differential equation is to determine the original function whose derivative is given by the differential equation. Differential equations that contain only ordinary derivatives are called ordinary differential equations. Differential equations that contain partial derivatives are called partial differential equations.

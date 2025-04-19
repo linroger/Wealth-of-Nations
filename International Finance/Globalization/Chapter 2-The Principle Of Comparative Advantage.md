@@ -1,11 +1,23 @@
 ---
-tags: ["comparative-advantage",  "economic-theory",  "economics",  "globalization",  "international-trade"]
-cssclasses: [academia]
+cssclasses:
+  - academia
 title: Chapter 2-The Principle Of Comparative Advantage
-aliases: [Comparative Advantage,  GLOBALIZATION-CHAPTER 2 THE PRINCIPLE OF COMPARATIVE ADVANTAGE]
+aliases:
+  - Comparative Advantage
+  - GLOBALIZATION-CHAPTER 2 THE PRINCIPLE OF COMPARATIVE ADVANTAGE
 linter-yaml-title-alias: GLOBALIZATION-CHAPTER 2 THE PRINCIPLE OF COMPARATIVE ADVANTAGE
+tags:
+  - '#comparative_advantage'
+  - '#globalization'
+  - '#international_trade'
+  - '#law_of_one_price'
+  - '#opportunity_cost'
+  - '#production_possibility_frontier'
+  - '#revealed_comparative_advantage'
+  - '#ricardian_model'
+  - '#trade_imbalance'
+  - '#unit_labor_requirement'
 ---
-
 # Chapter 2-The Principle Of Comparative Advantage
 
 [[Chapter 2-The Principle Of Comparative Advantage|Comparative Advantage]]

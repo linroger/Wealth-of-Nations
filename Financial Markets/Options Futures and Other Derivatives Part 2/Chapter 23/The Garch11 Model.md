@@ -1,3 +1,14 @@
+---
+tags:
+  - '#decay_rate'
+  - '#ewma_model'
+  - '#garch_1_1_model'
+  - '#garch_parameters'
+  - '#long_run_variance'
+  - '#mean_reversion'
+  - '#variance_rate'
+  - '#volatility_estimation'
+---
 # 23.3 The GARch(1,1) mODel  
 
 We now move on to discuss what is known as the GARCH(1,1) model, proposed by Bollerslev in 1986.' The difference between the GARCH(1,1) model and the EWMA model is analogous to the difference between equation (23.4) and equation (23.5). In GARCH(1,1), $\overset{\cdot}{\sigma_{n}^{2}}$ is calculated from a long-run average variance rate, $V_{L}$ , as well as from $\sigma_{n-1}$ and $u_{n-1}$ . The equation for GARCH(1,1) is  

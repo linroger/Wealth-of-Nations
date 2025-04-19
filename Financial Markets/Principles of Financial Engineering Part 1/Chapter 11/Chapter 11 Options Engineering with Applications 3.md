@@ -1,3 +1,12 @@
+---
+tags:
+  - '#exotic_options'
+  - '#option_strategies'
+  - '#options_engineering'
+  - '#quoting_conventions'
+  - '#real_world_complications'
+  - '#volatility_based_strategies'
+---
 # CHAPTER 11 Options Engineering with Applications. 351  
 
 11.1 Introduction.. 352   

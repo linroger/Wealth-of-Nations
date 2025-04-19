@@ -1,3 +1,16 @@
+---
+tags:
+  - '#credit_spreads'
+  - '#ester'
+  - '#financial_markets'
+  - '#libor'
+  - '#reference_rates'
+  - '#risk_free_rates'
+  - '#saron'
+  - '#sofr'
+  - '#sonia'
+  - '#tonar'
+---
 # 4.2 REFERENCE RATES  
 
 Reference interest rates are important in financial markets. The parties to transactions. frequently enter into contracts where the future interest rate paid or received is uncertain, but will be set equal the value of an agreed reference interest rate..  

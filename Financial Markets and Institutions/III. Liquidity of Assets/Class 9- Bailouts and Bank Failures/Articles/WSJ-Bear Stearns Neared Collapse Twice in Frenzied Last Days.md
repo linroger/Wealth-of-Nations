@@ -1,11 +1,19 @@
 ---
 aliases:
-- WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
-- WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
-tags:
-- 
-- 
+  - WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
+  - WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days.md
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
+tags:
+  - '#alan_schwartz'
+  - '#bear_stearns_collapse'
+  - '#financial_crisis_2008'
+  - '#government_intervention'
+  - '#henry_paulson'
+  - '#james_dimon'
+  - '#jp_morgan_takeover'
+  - '#market_instability'
+  - '#moral_hazard'
+  - '#timothy_geithner'
 ---
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 

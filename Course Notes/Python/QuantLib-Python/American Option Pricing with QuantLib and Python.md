@@ -1,10 +1,17 @@
 ---
 title: American Option Pricing with QuantLib and Python
-source: "http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html"
-description: "This post explains valuing American Options using QuantLib and Python"
-tags: ["#quantlib",  "#python #quantitative-finance"]
+source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
+description: This post explains valuing American Options using QuantLib and Python
+tags:
+  - '#aapl_options'
+  - '#american_option_pricing'
+  - '#binomial_engine'
+  - '#black_scholes_merton'
+  - '#european_option_pricing'
+  - '#option_valuation'
+  - '#python'
+  - '#quantlib'
 ---
-
 # American Option Pricing with QuantLib and Python
 
 This post explains valuing American Options using QuantLib and Python

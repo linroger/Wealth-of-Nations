@@ -1,3 +1,17 @@
+---
+tags:
+  - '#asset_pricing_models'
+  - '#consumption_process'
+  - '#continuous_time_model'
+  - '#discrete_time_model'
+  - '#dividends'
+  - '#equilibrium'
+  - '#financial_assets'
+  - '#investors'
+  - '#one_period_model'
+  - '#stochastic_process'
+  - '#time_span_models'
+---
 # 1.2 Elements of asset pricing models  
 
 # 1.2.1 Assets  

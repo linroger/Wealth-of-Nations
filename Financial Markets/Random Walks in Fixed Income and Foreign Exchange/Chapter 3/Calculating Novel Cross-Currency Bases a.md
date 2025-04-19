@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_yields'
+  - '#cross_currency_basis'
+  - '#currency_crosses'
+  - '#fx_hedged_pickup'
+  - '#hedging_strategies'
+  - '#interest_rate_differentials'
+  - '#jpy_crosses'
+  - '#xccy_basis_calculation'
+---
 # Chapter 3 Calculating Novel Cross-Currency Bases and FX Hedged Pickups
 
 The cross-currency (xccy) basis is, in the post-crisis world, an essential part of any overseas investment or funding decision.' Sensitivity to credit risk and quality mean that relationships among interest rates, FX rates and FX forwards have become far more complex, with opportunities arising and disappearing as the markets evolve. Chapter 1 and Chapter 2 have illustrated how some investors can discover opportunities in overseas bond markets which can even be fully FX hedged, the so-called 'hedged pickups', when rate differentials and the xccy basis align to deliver a positive return.

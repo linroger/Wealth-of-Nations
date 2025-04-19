@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bivariate_normal_probability'
+  - '#black_scholes_merton'
+  - '#compound_option_pricing'
+  - '#firm_value_per_share'
+  - '#geske_call_option_valuation'
+  - '#lognormal_distribution'
+  - '#option_exercise_price'
+  - '#risk_neutral_valuation'
+---
 # 18.4 GESKE'S APPROACH TO VALUING A CALL ON A CALL
 
 Geske uses the principle of risk-neutral valuation to price a stock option. Due to his focus solely on a call option on a stock, we follow his notation where $c$ denotes the call option, S denotes the common stock price, and $V$ denotes the firm value per share. Note we follow Geske's notation only in this section and will revert back to the more generic notation in the next section. Remember, our focus here is on valuing a call option on a stock as a compound option on the firm. Specifically, he evaluates the expression

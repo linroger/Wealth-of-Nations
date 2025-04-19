@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_swap'
+  - '#cds_creation'
+  - '#credit_default_swaps'
+  - '#credit_derivatives'
+  - '#credit_risk_measurement'
+  - '#risky_bond_decomposition'
+  - '#synthetic_cds'
+  - '#z_spread'
+---
 # 18.1 Introduction. 621  
 
 18.2 Terminology and Definitions.... 621   

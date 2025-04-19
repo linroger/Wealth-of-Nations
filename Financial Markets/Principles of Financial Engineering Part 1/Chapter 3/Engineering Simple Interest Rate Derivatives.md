@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convergence_trade'
+  - '#eurocurrency_futures'
+  - '#forward_contracts'
+  - '#fra_contracts'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#interest_rate_derivatives'
+  - '#money_market'
+  - '#risk_management'
+  - '#yield_curve'
+---
 # 3.3 ENGINEERING SIMPLE INTEREST RATE DERIVATIVES  
 
 Forwards, futures contracts, and the underlying interbank money markets involve some of the simplest cash flow exchanges. They are ideal for creating synthetic instruments for many reasons. The money market refers to a segment of the financial market which is used by participants as a means for borrowing and lending in the short term. Money markets are very liquid and maturities range from several days to just under a year. We can contrast the money market with the capital market for longer-term funding, which is supplied by bonds and equity.  

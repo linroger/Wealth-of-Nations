@@ -1,3 +1,14 @@
+---
+tags:
+  - '#basket_cds'
+  - '#cdo_tranche_valuation'
+  - '#default_correlation'
+  - '#default_probability'
+  - '#junior_equity_tranche'
+  - '#kth_to_default_cds'
+  - '#risk_neutral_probability'
+  - '#senior_tranche'
+---
 # 25.9  ROLE OF CORRELATION IN A BASKET CDS AND CDO  
 
 The cost of protection in a kth-to-default CDS or a tranche of a CDO is critically. dependent on default correlation. Suppose that a basket of 100 reference entities is used. to define a 5-year kth-to-default CDS and that each reference entity has a risk-neutral probability of $2\%$ of defaulting during the 5 years. When the default correlation between the reference entities is zero the binomial distribution shows that the prob-. ability of one or more defaults during the 5 years is $86.74\%$ and the probability of 10 or more defaults is $0.0034\%$ . A first-to-default CDS is therefore quite valuable whereas a. tenth-to-default CDS is worth almost nothing.  

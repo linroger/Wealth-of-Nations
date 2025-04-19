@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cdos_tranche_valuation'
+  - '#central_limit_theorem'
+  - '#compound_correlation'
+  - '#default_correlation'
+  - '#gaussian_copula_model'
+  - '#implied_correlation'
+  - '#market_model'
+  - '#monte_carlo_simulation'
+  - '#tranche_spreads'
+---
 # 22.3 STANDARD TRANCHE VALUATION MODEL  
 
 We now show how the distribution of. $D$ can be calculated under correlations different than O and.   

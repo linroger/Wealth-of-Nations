@@ -1,3 +1,14 @@
+---
+tags:
+  - '#convexity_adjustment'
+  - '#eurodollar_futures'
+  - '#futures_settlement'
+  - '#interest_rate_futures'
+  - '#libor'
+  - '#sofr_futures'
+  - '#sofr_zero_curve'
+  - '#zero_rates'
+---
 # 6.3 EURODOLLAR AND SOFR FUTURES  
 
 A very popular interest rate futures contract in the United States has historically been the three-month Eurodollar futures contract traded by the CME group. The underlying interest rate is three-month (90-day) U.S. dollar LIBOR and the maturities offered by. the CME for this contract extend ten years into the future. Table 6.1 indicates that the volume of trading in Eurodollar futures was still quite high in May 2020. This is a little surprising given that LIBOR is being phased out at the end of 2021 (see Section 4.2). The expectation is that Eurodollar futures will over time be replaced by SOFR futures and this is slowly happening. The volume of trading and open interest for Eurodollar futures has been declining while that for SOFR futures has been increasing. In this. section, we explain how both contracts work..  

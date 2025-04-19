@@ -1,3 +1,14 @@
+---
+tags:
+  - '#fixed_rate_bond'
+  - '#floating_rate_bond'
+  - '#maturity'
+  - '#notional_principal'
+  - '#ois_rates'
+  - '#overnight_indexed_swaps'
+  - '#risk_free_rates'
+  - '#zero_curve'
+---
 # 7.2 DETERMINING RISK-FREE RATES  
 
 Overnight indexed swaps play an important role in determining the risk-free rates which are needed for valuing derivatives.  

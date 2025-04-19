@@ -1,10 +1,18 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Markets Homework 3
+tags:
+  - '#bond_pricing'
+  - '#cds_hazard_rate'
+  - '#credit_markets'
+  - '#duration_convexity'
+  - '#fixed_rate_bond'
+  - '#perpetual_bond'
+  - '#quantlib'
+  - '#scenario_analysis'
+  - '#sofr_swap_curve'
 ---
 # Credit Markets Homework 3
 

@@ -1,17 +1,19 @@
 ---
-title: "# Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives"
-tags:
-  - "#quantitative-finance"
-  - "#financial-derivatives"
-  - "#risk-management"
-  - "#interest-rate-swaps"
-  - "#futures-trading"
-  - "#fixed-income-derivatives"
-  - "#futures-options"
+title: '# Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives'
 cssclasses: academia
 aliases: []
+tags:
+  - '#clearing_corporation'
+  - '#fixed_income_derivatives'
+  - '#futures_options'
+  - '#futures_trading'
+  - '#hedging_strategies'
+  - '#interest_rate_risk'
+  - '#margin_requirements'
+  - '#mechanics_of_futures_trading'
+  - '#otc_market'
+  - '#types_of_orders'
 ---
-
 # # Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives
 
 ## 1. Introduction to Futures Trading and Fixed Income Derivatives

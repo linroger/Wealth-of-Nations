@@ -1,3 +1,16 @@
+---
+tags:
+  - '#complete_market'
+  - '#mean_variance_analysis'
+  - '#mean_variance_frontier'
+  - '#non_additive_expected_utility'
+  - '#one_period_framework'
+  - '#optimal_portfolio'
+  - '#risk_free_asset'
+  - '#state_price_deflator'
+  - '#tangency_portfolio'
+  - '#time_additive_expected_utility'
+---
 # 6.2 The one-period framework  
 
 In the one-period framework the individual consumes at time 0 (the beginning of the period) and at time 1 (the end of the period). We denote time 0 consumption by $c_{0}$ and the state-dependent. time 1 consumption by the random variable $c$ . The individual has some initial wealth $e_{0}\geq0$ at time 0 and may receive a non-negative state-dependent endowment (income) at time 1 represented by the random variable. $e$ . The individual picks a portfolio $\pmb{\theta}$ at time 0 with a time 0 price of $\begin{array}{r}{P^{\theta}=\theta^{\top}P=\sum_{i=1}^{I}\theta_{i}P_{i}}\end{array}$ , assuming the Law of One Price, and a time 1 random dividend of $\begin{array}{r}{D^{\theta}=\theta^{\top}D=\sum_{i=1}^{I}\theta_{i}D_{i}}\end{array}$ . The budget constraints are therefore  

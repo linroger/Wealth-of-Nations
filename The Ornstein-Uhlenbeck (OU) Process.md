@@ -1,3 +1,16 @@
+---
+tags:
+  - '#analytical_solution'
+  - '#brownian_motion_with_drift'
+  - '#gaussian_process'
+  - '#markov_property'
+  - '#mean_reversion'
+  - '#ornstein_uhlenbeck_process'
+  - '#stationary_distribution'
+  - '#stochastic_differential_equation'
+  - '#stochastic_processes'
+  - '#wiener_process'
+---
 ## The Ornstein-Uhlenbeck (OU) Process
 
 ### What it is: Deeper Dive

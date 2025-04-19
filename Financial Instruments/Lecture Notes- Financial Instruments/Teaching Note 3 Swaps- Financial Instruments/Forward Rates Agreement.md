@@ -6,17 +6,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#foreign-exchange-market"
-  - "#exchange-rates"
-  - "#currency-trading"
-  - "#financial-derivatives"
-  - "#arbitrage-strategies"
-  - "#forward-contracts"
-  - "#interest-rate-parity"
-  - "#arbitrage-opportunities"
+  - '#arbitrage_strategies'
+  - '#covered_interest_rate_parity'
+  - '#currency_forwards'
+  - '#financial_crisis_2007_2009'
+  - '#forward_contracts'
+  - '#forward_exchange_rate'
+  - '#forward_valuation'
+  - '#law_of_one_price'
+  - '#no_arbitrage_principle'
+  - '#stock_forward_pricing'
 ---
-
 [Deriving Forward Exchange Rate Numerical Example 1](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example%201.md)
 
 [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)

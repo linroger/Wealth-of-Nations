@@ -1,12 +1,20 @@
 ---
 aliases:
-- WINTER 2024 JOHN HEATON
-- 
-- 
+  - WINTER 2024 JOHN HEATON
+  - 
+  - 
 linter-yaml-title-alias: WINTER 2024 JOHN HEATON
-tags:
-- 
 title: WINTER 2024 JOHN HEATON
+tags:
+  - '#binomial_tree'
+  - '#black_scholes_formula'
+  - '#delta_hedging'
+  - '#dividend_yield'
+  - '#european_call_option'
+  - '#option_pricing'
+  - '#replicating_portfolio'
+  - '#self_financing_portfolio'
+  - '#stock_price_sensitivity'
 ---
 [Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
 [Teaching Note 4-Multiperiod Binomial Trees](Teaching%20Note%204-Multiperiod%20Binomial%20Trees.md)

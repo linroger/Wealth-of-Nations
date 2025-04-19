@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_price_solution'
+  - '#brownian_motion'
+  - '#ito_lemma'
+  - '#log_return'
+  - '#riemann_integral'
+  - '#stochastic_differential_equation'
+  - '#stochastic_integral'
+---
 # 12.3 SOLVING THE STOCHASTIC DIFFERENTIAL EQUATION
 
 The equations for the relative return and log return are stochastic processes, as well as stochastic differential equations. A differential equation has a potential solution, which is a function such that the derivatives conform to the differential equation. In this context, a solution would be the asset price at some future time $t.$ , expressed in terms of the asset price at a previous time such as time 0.

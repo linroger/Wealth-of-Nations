@@ -1,3 +1,13 @@
+---
+tags:
+  - '#interest_rate_swap_engineering'
+  - '#swap_applications'
+  - '#swap_logic'
+  - '#swap_mechanics'
+  - '#swap_terminology'
+  - '#swapping_new_issues'
+  - '#types_of_swaps'
+---
 # CHAPTER 4 Introduction to Interest-Rate Swap Engineering. 107  
 
 4.1 The Swap Logic. 108   

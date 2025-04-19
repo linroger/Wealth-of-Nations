@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_bsm'
+  - '#bond_pricing'
+  - '#bond_volatility'
+  - '#equity_derivatives'
+  - '#fixed_income_derivatives'
+  - '#interest_rate_modeling'
+  - '#short_term_interest_rate'
+  - '#term_structure_models'
+---
 # 7.9 FIXED INCOME VERSUS EQUITY DERIVATIVES  
 
 The famous Black-Scholes-Merton (BSM) pricing analysis of stock options can be summarized as follows. Under the assumptions that the stock price evolves according to a particular random process and that the short-term interest rate is constant, it is possible to form a portfolio of the underlying stock and short-term bonds that replicates the option. Therefore, by arbitrage arguments, the price of the option equals the price of the replicating portfolio.  

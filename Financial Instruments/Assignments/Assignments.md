@@ -1,17 +1,20 @@
 ---
 cssclasses: academia
-aliases: [Assignments-Financial Instruments]
+aliases:
+  - Assignments-Financial Instruments
 linter-yaml-title-alias: Assignments-Financial Instruments
-tags: 
 title: Assignments
+tags:
+  - '#assignments'
+  - '#waypoint'
 ---
-
 ---
 # Assignments
 
 %% Begin Waypoint %%
 - **[[Assignments]]**
 	- [[1. Exploiting an Apparent Arbitrage Opportunity]]
+	- [[1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY]]
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]
 	- [[Financial Instruments Midterm Solutions 2013]]

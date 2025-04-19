@@ -1,24 +1,19 @@
 ---
 title: Introduction to Corporate Finance
 aliases: []
-tags:
-  - mergers-acquisitions
-  - corporate-finance
-  - financial-markets
-  - capital-structure
-  - agency-costs
-  - corporate-strategy
-  - value-creation
-  - merger-waves
-  - "#mergers"
-  - "#acquisitions"
-  - "#shareholder-wealth"
-  - "#merger-synergies"
-  - "#merger-arbitrage"
 cssclasses:
   - academia
+tags:
+  - '#annuity_valuation'
+  - '#capital_markets'
+  - '#corporate_finance'
+  - '#multi_period_cash_flows'
+  - '#npv_irr'
+  - '#perfect_capital_markets'
+  - '#project_valuation'
+  - '#shareholder_wealth_maximization'
+  - '#stakeholder_governance'
 ---
-
 # Introduction to Corporate Finance
 
 “ The greatest competitive advantage Panera had,  the reason we produced these results we did,  is because we could think long term …. And the reason I took our company private is I’m increasingly worried about our ability to do that in a public market …. What’s driving today’s shareholding s are traders on the market …. We had large shareholders like Capital Research & Management,  Goldman Sachs,  Baron Funds,  but the reality is,  they don’t drive the price. What drives the price are the traders who are betting on next week’s comp. And that affects the entire organization …. Do you think this is good economic growth?” 1

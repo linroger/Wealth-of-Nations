@@ -1,3 +1,16 @@
+---
+tags:
+  - '#binomial_model'
+  - '#complex_assets'
+  - '#forward_rate_agreement_fra'
+  - '#heath_jarrow_morton_model'
+  - '#interest_rate_derivatives'
+  - '#option_pricing'
+  - '#pure_assets'
+  - '#state_contingent_claims'
+  - '#state_preference_theory'
+  - '#state_pricing_theory'
+---
 # 28.11 RECAP AND PREVIEW
 
 In this chapter, we showed how to use the binomial version of the one-factor Heath-. Jarrow-Morton model to price almost every type of interest rate derivative. We showed that the technique involves discounting the risk-neutral expected value at the upcoming. nodes, with discounting at the risk-free rate..

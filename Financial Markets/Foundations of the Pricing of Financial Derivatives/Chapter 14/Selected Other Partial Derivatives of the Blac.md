@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#option_value_derivatives'
+  - '#partial_derivatives'
+  - '#rho'
+  - '#risk_free_rate_sensitivity'
+  - '#vega'
+  - '#volatility_sensitivity'
+---
 # 14.5 SELECTED OTHER PARTIAL DERIVATIVES OF THE BLACK-SCHOLES-MERTON MODEL
 
 In addition, we may be interested in how the option value varies with the volatility and risk-free rate. Note that the Black-Scholes-Merton model assumes that the volatility and the risk-free rate are constant. Thus, there is an element of incoherence to these calculations. Remember, however, that this is a financial model and as such will only ever be an approximation to the behavior of the underlying asset. We also know from empirical observation that both the volatility and risk-free rate often vary significantly over time.. Thus, we wish to take their derivatives. As previously noted, the volatility and risk-free rate are assumed to not vary, but their partial derivatives show the sensitivity of the option price to different values of the volatility and interest rate. This is not the same as allowing. them to vary within the model, but it is better than making no such adjustment. Models in which these input values vary do exist, but they are far more complex and face the difficult challenge of finding a way to hedge away their risk so that the final solution meets the risk-neutrality condition.

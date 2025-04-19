@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Basic Usage of QuantLib analytics library
+tags:
+  - '#bond_present_value'
+  - '#cashflow_schedules'
+  - '#discount_curve'
+  - '#fixed_rate_bonds'
+  - '#floating_rate_bonds'
+  - '#market_data_scenarios'
+  - '#quantlib_analytics_library'
+  - '#quote_object'
+  - '#treasury_yield_curve_calibration'
+  - '#yield_curve_term_structure'
 ---
 # Basic Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/

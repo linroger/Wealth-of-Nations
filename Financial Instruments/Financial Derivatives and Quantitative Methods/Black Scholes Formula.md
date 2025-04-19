@@ -1,8 +1,19 @@
 ---
-aliases: [Black-Scholes-Merton Equation]
+aliases:
+  - Black-Scholes-Merton Equation
 title: Black Scholes Formula
+tags:
+  - '#black_scholes_formula'
+  - '#black_scholes_merton_pde'
+  - '#delta_hedging'
+  - '#digital_options'
+  - '#european_options'
+  - '#martingale_pricing'
+  - '#option_payoff'
+  - '#put_call_parity'
+  - '#replication_argument'
+  - '#risk_neutral_pricing'
 ---
-
 # Black Scholes Formula
 # The Black-Scholes Formula
 

@@ -1,11 +1,18 @@
 ---
 aliases:
-- Breaking the Buck
-- Breaking the Buck.md
-tags:
-- 
-- 
+  - Breaking the Buck
+  - Breaking the Buck.md
 title: Breaking the Buck
+tags:
+  - '#amortized_cost'
+  - '#federal_insurance'
+  - '#financial_crisis_2008'
+  - '#investment_management'
+  - '#lehman_brothers_bankruptcy'
+  - '#money_market_funds'
+  - '#redemptions'
+  - '#regulatory_changes'
+  - '#rpgxx'
 ---
 # Breaking the Buck
 

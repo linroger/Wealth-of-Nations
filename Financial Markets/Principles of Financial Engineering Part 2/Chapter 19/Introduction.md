@@ -1,3 +1,15 @@
+---
+tags:
+  - '#capital_structure_arbitrage'
+  - '#convertible_bonds'
+  - '#credit_risk'
+  - '#equity_analysis'
+  - '#financial_engineering'
+  - '#fixed_income_instruments'
+  - '#merton_model'
+  - '#option_pricing'
+  - '#structural_models_of_default'
+---
 # 19.1 INTRODUCTION  
 
 Fixed-income instruments involve payoffs that are, in general, known and "fixed." They also have set maturity dates. Putting aside the credit quality of the instrument, fixed-income assets have relatively simple cash flows that depend on a known, small set of variables and, hence, risk factors. There are also well-established and quite accurate ways to calculate the relevant term structure. Finally, there are several liquid and efficient fixed-income derivatives markets such as swaps, forward rate agreements (FRAs), and futures, which simplify the replication and pricing problems existing in this sector.  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cpdo_vs_cppi'
+  - '#cppi'
+  - '#cppi_application'
+  - '#cppi_dynamics'
+  - '#dppi'
+  - '#equity_tranches'
+  - '#icppi'
+  - '#principal_protection_techniques'
+---
 # CHAPTER 23Principal Protection Techniques. 809  
 
 23.1 Introduction.. .809   

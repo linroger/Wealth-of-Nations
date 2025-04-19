@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_points'
+  - '#bond_price_sensitivity'
+  - '#bond_yields'
+  - '#convexity'
+  - '#duration'
+  - '#dv01'
+  - '#hqm_par_rate_curve'
+  - '#interest_rate_risk'
+  - '#price_rate_curves'
+  - '#us_treasury_bonds'
+---
 # 4.1 PRICE-RATE CURVES  
 
 The three bonds in Table 4.1 are used in this and subsequent sections to illustrate concepts. First, the Norfolk Southern Company (NsC) issued $\$600$ million of the 4.10s of 05/15/2121 in May 2021 with a maturity of 100 years. Sales of century bonds are rare, but, with rates at historically low levels, bonds with very long maturities are being issued more often. The second and third bonds are the US Treasury $1.625s$ of 05/15/2026, issued in May 2016 with a bit less than $\$70$ billion outstanding, and the 1.625s of 11/15/2050, issued in May 2020 with about $\$86$ billion outstanding. The yields of these three bonds as of mid-May 2021 are given in the table, along with their spreads to the High-Quality Market-Weighted (HQM) corporate bond yield curve. The HQM curve, published by the US Treasury, is designed to be representative of corporate bonds rated A or above and is intended for use by pension funds in computing the present value of their liabilities.  

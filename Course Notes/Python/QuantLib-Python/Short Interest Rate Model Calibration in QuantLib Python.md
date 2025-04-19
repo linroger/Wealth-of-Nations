@@ -1,8 +1,19 @@
 ---
 title: Short Interest Rate Model Calibration in QuantLib Python
-source: "http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html"
-description: "Provides examples of short interest rate model calibration to swaption volatilities in QuantLib Python"
-tags: ["clippings"]
+source: 
+  http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+description: Provides examples of short interest rate model calibration to swaption
+  volatilities in QuantLib Python
+tags:
+  - '#black_karasinski_model'
+  - '#g2_plus_plus_model'
+  - '#hull_white_model'
+  - '#mean_reversion'
+  - '#model_calibration'
+  - '#quantlib_python'
+  - '#short_rate_model_calibration'
+  - '#swaption_volatilities'
+  - '#volatility_parameter'
 ---
 # Short Interest Rate Model Calibration in QuantLib Python
 

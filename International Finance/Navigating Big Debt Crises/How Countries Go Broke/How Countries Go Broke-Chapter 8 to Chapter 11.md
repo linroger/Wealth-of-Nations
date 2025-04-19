@@ -1,9 +1,19 @@
 ---
-title: "How Countries Go Broke-Chapter 8 to Chapter 11"
-source: "https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/"
+title: How Countries Go Broke-Chapter 8 to Chapter 11
+source: 
+  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
 description:
 tags:
-  - "clippings"
+  - '#big_debt_cycle'
+  - '#debt_monetization'
+  - '#economic_cycles'
+  - '#federal_reserve'
+  - '#financial_crisis'
+  - '#geopolitical_cycles'
+  - '#interest_rates'
+  - '#monetary_policy'
+  - '#quantitative_easing'
+  - '#us_economy'
 ---
 *This post was originally published on January 30, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 

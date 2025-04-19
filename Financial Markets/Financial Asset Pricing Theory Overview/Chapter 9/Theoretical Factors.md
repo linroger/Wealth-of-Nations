@@ -1,3 +1,14 @@
+---
+tags:
+  - '#consumption_based_asset_pricing'
+  - '#factor_models'
+  - '#intertemporal_capm'
+  - '#investment_opportunities'
+  - '#market_beta'
+  - '#market_price_of_risk'
+  - '#representative_individual'
+  - '#state_price_deflator'
+---
 # 9.7 Theoretical factors  
 
 Factor models can be obtained through the general consumption-based asset pricing model by relating optimal consumption to various factors. As discussed in Section 6.5 the optimal consumption plan of an individual with time-additive expected utility must satisfy the so-called envelope condition  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#atm_swaptions'
+  - '#cash_settlement'
+  - '#implied_volatility'
+  - '#otc_contracts'
+  - '#payer_swaption'
+  - '#receiver_swaption'
+  - '#swaption_skew'
+  - '#swaptions'
+  - '#volatility_cube'
+---
 # 16.5 SWAPTIONS  
 
 A swaption is an over-the-counter (OTC) contract that gives the buyer the right, at expiration, to enter into a fixed-for-floating interest rate swap of a prespecified maturity and strike rate. For example, a. $^{\mathfrak{s}_{2}}$ -year-5-year" or $\mathrm{~\ensuremath~{~\hat{~}{~2~}y5y}~}\$ swaption is a two-year option to enter into a five-year swap at some. prespecified strike. A receiver swaption gives the buyer the right to receive fixed and pay floating, while a payer swaption gives the buyer the right to pay fixed and receive floating.  

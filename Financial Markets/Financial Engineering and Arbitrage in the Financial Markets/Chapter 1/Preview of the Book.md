@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_principle'
+  - '#bond_math'
+  - '#cash_flow_engineering'
+  - '#discount_curve'
+  - '#finance_textbook'
+  - '#market_participants'
+  - '#market_segments'
+  - '#relative_value_building_blocks'
+  - '#spot_transactions'
+  - '#structured_products'
+---
 # 1.8  PREVIEW OF THE BOOK  
 
 Many finance textbooks are organized by market segments: stocks, money markets, bonds, real estate, currencies, commodities, etc. This is analogous to reviewing the car industry alphabetically by make, starting with Audi and BMW, and ending with Volkswagen and Volvo.  

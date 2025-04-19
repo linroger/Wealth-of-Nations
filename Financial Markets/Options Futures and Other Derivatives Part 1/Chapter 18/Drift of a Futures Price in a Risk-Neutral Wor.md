@@ -1,3 +1,13 @@
+---
+tags:
+  - '#differential_equation'
+  - '#dividend_yield'
+  - '#futures_contract_valuation'
+  - '#futures_options'
+  - '#futures_price_drift'
+  - '#put_call_parity'
+  - '#risk_neutral_world'
+---
 # 18.6 DRIFT OF A FUTURES PRICE IN A RISK-NEUTRAL WORLD  
 
 There is a general result that allows us to use the analysis in Section 17.3 for futures options. This result is that in a risk-neutral world a futures price behaves in the same way as a stock paying a dividend yield at the domestic risk-free interest rate $r$  

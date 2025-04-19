@@ -1,3 +1,15 @@
+---
+tags:
+  - '#brownian_motions'
+  - '#continuous_time_stochastic_processes'
+  - '#diffusion_processes'
+  - '#discrete_time_stochastic_processes'
+  - '#information'
+  - '#ito_processes'
+  - '#probability_space'
+  - '#stochastic_processes'
+  - '#uncertainty'
+---
 # 2 Uncertainty, information, and stochastic processes 13  
 
 2.1 Introduction. 13   

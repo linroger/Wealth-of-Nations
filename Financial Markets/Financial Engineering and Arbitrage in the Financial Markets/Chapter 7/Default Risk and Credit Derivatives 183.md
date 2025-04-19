@@ -1,3 +1,14 @@
+---
+tags:
+  - '#corporate_bond_spread'
+  - '#credit_default_swaps'
+  - '#credit_derivatives'
+  - '#credit_migration_model'
+  - '#default_risk'
+  - '#no_arbitrage'
+  - '#poisson_model'
+  - '#single_issuer_default'
+---
 # 7 Default Risk and Credit Derivatives 183  
 
 7.1 Credit Default Swaps 184   

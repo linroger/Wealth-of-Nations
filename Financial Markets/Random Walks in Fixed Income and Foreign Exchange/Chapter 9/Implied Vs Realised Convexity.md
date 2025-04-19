@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_price'
+  - '#bond_tenor'
+  - '#bond_yield'
+  - '#convexity'
+  - '#convexity_value'
+  - '#duration'
+  - '#implied_convexity'
+  - '#realised_convexity'
+  - '#swaption_volatility'
+  - '#yield_curve'
+---
 # Chapter 9 Implied vs Realised Convexity
 
 Chapter 8, when published as a Rates Radar, stirred many interesting discussions. We were motivated to expand our analysis to compare the theoretical or implied convexity value of a bond with the actual realised convexity value over time.' We are able to show that this implied convexity value' is a good overall estimate of levels of realised convexity value over a 1y horizon. For completeness, we repeat a small part of the derivation of the convexity formulae here, though it is covered more thoroughly in Chapter 8.

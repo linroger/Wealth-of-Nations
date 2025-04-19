@@ -1,3 +1,14 @@
+---
+tags:
+  - '#basis_trading'
+  - '#bond_duration'
+  - '#cheapest_to_deliver_ctd'
+  - '#conversion_factor'
+  - '#delivery_options'
+  - '#futures_contracts'
+  - '#implied_repo_rate'
+  - '#yield_curve'
+---
 # Basis Trading and the Implied Repo Rate 
 
 In this chapter we look in more detail at some fundamentals behind the basis, including the factors that drive its behaviour, and we also consider implications of the short future’s delivery option. There is also, in an appendix at the back of this book, recent delivery history for the LIFFE long gilt future, for illustrative purposes and to observe delivery patterns.

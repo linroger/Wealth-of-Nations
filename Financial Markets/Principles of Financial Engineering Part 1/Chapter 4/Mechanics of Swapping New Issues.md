@@ -1,3 +1,15 @@
+---
+tags:
+  - '#all_in_cost'
+  - '#credit_risk'
+  - '#fixed_rates'
+  - '#floating_rates'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#market_conventions'
+  - '#new_bond_issues'
+  - '#swap_spreads'
+---
 # 4.7 MECHANICS OF SWAPPING NEW ISSUES  
 
 The swap engineering introduced in this chapter has ignored several minor technical points that. need to be taken into account in practical applications. Most of these are minor and are due to differences in market conventions in bonds, money markets, and swap markets. In this section, we provide a discussion of some of these technical issues concerning interest-rate swaps. In other swap. markets, such as in commodity swaps, further technicalities may need to be taken into account.. A more or less comprehensive list is as follows:.  

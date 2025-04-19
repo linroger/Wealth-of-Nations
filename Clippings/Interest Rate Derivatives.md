@@ -1,9 +1,19 @@
 ---
-title: "Interest Rate Derivatives"
-source: "https://www.investopedia.com/terms/i/interest-rate-derivative.asp"
-description: "An interest-rate derivative is a broad term for a derivative contract, such as a futures, option, or swap, that has an interest rate as its underlying asset."
+title: Interest Rate Derivatives
+source: https://www.investopedia.com/terms/i/interest-rate-derivative.asp
+description: An interest-rate derivative is a broad term for a derivative contract,
+  such as a futures, option, or swap, that has an interest rate as its underlying
+  asset.
 tags:
-  - "clippings"
+  - '#caps_and_floors'
+  - '#financial_instruments'
+  - '#forward_rate_agreements'
+  - '#hedging_strategies'
+  - '#interest_rate_derivatives'
+  - '#interest_rate_futures'
+  - '#interest_rate_risk'
+  - '#interest_rate_swaps'
+  - '#options_contracts'
 ---
 Investopedia / Michela Buttignol
 

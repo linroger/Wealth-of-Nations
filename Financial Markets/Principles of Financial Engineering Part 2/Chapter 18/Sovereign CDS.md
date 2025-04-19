@@ -1,3 +1,16 @@
+---
+tags:
+  - '#argentina_debt'
+  - '#credit_default_swaps'
+  - '#credit_event'
+  - '#credit_risk_management'
+  - '#default_probability'
+  - '#greece_debt_restructuring'
+  - '#isda'
+  - '#naked_cds'
+  - '#sovereign_cds'
+  - '#sovereign_debt'
+---
 # 18.9 SOVEREIGN CDS  
 
 The cash flow engineering approach that we used to create synthetic CDS in Section 18.3 applies to any reference asset. In a corporate CDS, the reference asset is a corporate bond. In a sovereign CDS, the reference asset is sovereign debt. There are some special considerations associated with sovereign CDS which we want to highlight and therefore we discuss sovereign CDS in this section. In economic terms, sovereign CDS are also becoming more important. In terms of gross notional amounts the sovereign CDS market in 2012 was $11\%$ of the whole CDS market, but the sovereign CDS market has been growing while the single-name CDS market has been declining since the GFC. We discuss reasons for the decline in the single-name CDS market in Chapters 21 and 22.  

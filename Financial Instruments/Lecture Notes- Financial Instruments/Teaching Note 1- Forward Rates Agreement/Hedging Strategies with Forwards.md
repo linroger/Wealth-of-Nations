@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Hedging Strategies with Forwards
+tags:
+  - '#basis_risk'
+  - '#covered_interest_arbitrage'
+  - '#currency_forwards'
+  - '#eurodollar_futures'
+  - '#forward_contracts'
+  - '#hedging_strategies'
+  - '#prepaid_forward'
+  - '#stack_hedge'
+  - '#strip_hedge'
+  - '#synthetic_forwards'
 ---
 - [[Ch1 Introduction to Derivative Markets]]
 - [[Chapter 6 (Hull) Hedging Strategies with Forwards]]

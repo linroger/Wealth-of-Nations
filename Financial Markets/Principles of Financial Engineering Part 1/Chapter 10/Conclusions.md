@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#barrier_options'
+  - '#binary_options'
+  - '#convexity'
+  - '#interest_rate_swaps'
+  - '#libor_in_arrears'
+  - '#long_bonds'
+  - '#option_strategies'
+  - '#volatility_based_strategies'
+  - '#yield_curve'
+---
 # 10.6 CONCLUSIONS  
 
 Pricing equations depends on one or more risk factors. When the pricing functions are nonlinear,. replicating portfolios that use linear assets with periodically adjusted weights will lead to positive or negative cash flows during the hedging process. If the underlying volatilities and correlations are significant, trading gains from these may exceed the transaction costs implied by periodic rebalan-. cing, and the underlying nonlinearity can be traded.  

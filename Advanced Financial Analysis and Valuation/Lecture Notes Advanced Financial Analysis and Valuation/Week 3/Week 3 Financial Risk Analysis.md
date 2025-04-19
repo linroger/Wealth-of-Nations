@@ -2,39 +2,19 @@
 title: Week 3 Financial Risk Analysis
 cssclasses:
   - academia
-aliases: 
+aliases:
 tags:
-  - riskanalysis
-  - investmentanalysis
-  - financialmarkets
-  - economic-depression
-  - cyclical-industries
-  - valuation-methods
-  - competitive-analysis
-  - quantitative-finance
-  - economic-theory
-  - financial-markets
-  - macroeconomics
-  - financial-forecasting
-  - economic-moats
-  - financial-instruments
-  - risk-management
-  - credit-cycles
-  - financial-crises
-  - bankruptcy-prediction
-  - financial-risk-analysis
-  - liquidity-ratios
-  - debt-management
-  - economic-history
-  - macroeconomic-policymaking
-  - financial-derivatives
-  - credit-default-swaps
-  - "#debt-management-strategies"
-  - "#financial-intermediation"
-  - "#financial-crisis"
-  - "#financial-regulation"
+  - '#altman_z_score'
+  - '#bankruptcy_prediction_models'
+  - '#cost_of_financial_distress'
+  - '#credit_default_swaps'
+  - '#financial_flexibility'
+  - '#financial_risk_analysis'
+  - '#kmv_model'
+  - '#liquidity_ratios'
+  - '#rating_agencies'
+  - '#solvency_ratios'
 ---
-
 [[Week 3 Financial Risk Analysis|[[Week 3 Financial Risk Analysis|risk analysis]]]]
 
 # Week 3 Financial Risk Analysis

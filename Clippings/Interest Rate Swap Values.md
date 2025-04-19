@@ -1,9 +1,20 @@
 ---
-title: "Interest Rate Swap Values"
-source: "https://www.investopedia.com/articles/active-trading/111414/how-value-interest-rate-swaps.asp"
-description: "An interest rate swap is a contractual agreement between two parties agreeing to exchange cash flows of an underlying asset for a fixed period of time."
+title: Interest Rate Swap Values
+source: 
+  https://www.investopedia.com/articles/active-trading/111414/how-value-interest-rate-swaps.asp
+description: An interest rate swap is a contractual agreement between two parties
+  agreeing to exchange cash flows of an underlying asset for a fixed period of time.
 tags:
-  - "clippings"
+  - '#counterparties'
+  - '#credit_risk'
+  - '#fixed_vs_floating_rates'
+  - '#interest_rate_swaps'
+  - '#libor_replacement'
+  - '#market_interest_rates'
+  - '#notional_amount'
+  - '#risk_management'
+  - '#sofr'
+  - '#swap_valuation'
 ---
 FluxFactory / Getty Images
 

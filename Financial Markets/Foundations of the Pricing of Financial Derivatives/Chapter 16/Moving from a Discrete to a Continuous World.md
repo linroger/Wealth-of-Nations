@@ -1,3 +1,16 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#compound_option_pricing'
+  - '#correlation'
+  - '#covariance'
+  - '#probability_density'
+  - '#random_walk'
+  - '#stochastic_integral'
+  - '#stochastic_process'
+  - '#variance'
+  - '#wiener_process'
+---
 # 16.2 MOVING FROM A DISCRETE TO A CONTINUOUS WORLD
 
 It is possible to demonstrate quite formally that if we hold $t$ fixed and increase $_n$ , in the limit, the random component, $\pm1$ , will converge to a standard normal random variable, which of course has expected value of 0 and variance of 1.6 In that case, our model is as follows:

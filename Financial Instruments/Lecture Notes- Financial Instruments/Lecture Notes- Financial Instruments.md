@@ -1,7 +1,9 @@
 ---
 title: Lecture NotesFinancial Instruments
+tags:
+  - '#financial_instruments'
+  - '#lecture_notes'
 ---
-
 # Lecture NotesFinancial Instruments
 
 %% Begin Waypoint %%

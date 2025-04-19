@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_markets'
+  - '#cirp_equation'
+  - '#covered_interest_rate_parity'
+  - '#currency_forward'
+  - '#forward_exchange_rate'
+  - '#pricing_equations'
+  - '#synthetic_assets'
+  - '#t_bills'
+---
 # 6.3 SYNTHETICS AND PRICING  
 
 A major use of synthetic assets is in pricing. Everything else being the same, a replicating portfolio must have the same price as the original instrument. Thus, adding up the values of the constituent assets, we can get the cost of forming a replicating portfolio. This will give the price of the original instrument once the market practitioner adds a proper margin.  

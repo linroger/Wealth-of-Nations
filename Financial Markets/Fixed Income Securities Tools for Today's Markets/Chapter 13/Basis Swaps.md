@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_swaps'
+  - '#credit_risk'
+  - '#euribor'
+  - '#floating_rate'
+  - '#hedging_basis_risk'
+  - '#risk_free_rate'
+  - '#sofr'
+  - '#str_vs_euribor'
+  - '#two_curve_pricing'
+---
 # 13.6 BASIS SWAPS  
 
 Both OIS and fixed-for-floating swaps pay interest at a fixed rate on one leg and at a floating rate on the other leg. A basis swap, by contrast pays interest at one floating rate on one leg and interest on a different floating rate on another leg. Before the transition away from LIBOR, basis swap volumes were particularly large in exchanging LIBOR of one term against LIBOR of another term, and swaps of effective fed funds (see Chapter 12) against LIBOR of various terms were common as well. In US dollar markets, swaps of SOFR against LIBOR are trading actively in the transition period but will fade with the disappearance of LIBOR. Cross-currency basis swaps have been and continue to be extremely popular. These swaps exchange interest at a short-term rate in one currency for interest at a short-term rate in another currency, for example, SOFR versus STR. This section focuses on basis swaps of STR versus three-month Euribor to explain concepts, both because Euribor is still an active rate and because foreign exchange rates are outside the scope of this edition of the book..  

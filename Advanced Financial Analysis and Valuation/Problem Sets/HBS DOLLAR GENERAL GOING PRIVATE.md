@@ -2,17 +2,18 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#finance"
-  - "#leveragedbuyout"
-  - "#corporaterestructuring"
-  - "#investmentanalysis"
-  - "#financialmarkets"
-  - "#retailindustry"
-  - "#deepdiscountretail"
-  - "#mergersandacquisitions"
 title: HBS DOLLAR GENERAL GOING PRIVATE
+tags:
+  - '#annual_report_analysis'
+  - '#deep_discount_retail'
+  - '#dollar_general'
+  - '#financial_performance'
+  - '#inventory_management'
+  - '#kkr_acquisition'
+  - '#leveraged_buyout'
+  - '#retail_industry'
+  - '#shareholder_lawsuit'
+  - '#strategic_initiatives'
 ---
 # HBS DOLLAR GENERAL GOING PRIVATE
 ## HARVARD BUSINESS SCHOOL

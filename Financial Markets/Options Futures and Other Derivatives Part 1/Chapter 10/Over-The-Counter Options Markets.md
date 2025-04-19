@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#european_options'
+  - '#exchange_traded_options'
+  - '#margin_accounts'
+  - '#option_positions'
+  - '#option_pricing'
+  - '#options_markets'
+  - '#over_the_counter_options'
+  - '#put_call_parity'
+  - '#stock_options'
+---
 # 10.12 OVER-THE-COUNTER OPTIONS MARKETS  
 
 Most of this chapter has focused on exchange-traded options markets. The over-thecounter market for options has become increasingly important since the early 1980s and is now larger than the exchange-traded market. As explained in Chapter 1, the main participants in over-the-counter markets are financial institutions, corporate treasurers, and fund managers. There is a wide range of assets underlying the options. Over-the-counter options on foreign exchange and interest rates are particularly popular. The chief potential disadvantage of the over-the-counter market is that the option writer may default. This means that the purchaser is subject to some credit risk. In an attempt to overcome this disadvantage, market participants (and regulators) often require counterparties to post collateral. This was discussed in Section 2.5.  

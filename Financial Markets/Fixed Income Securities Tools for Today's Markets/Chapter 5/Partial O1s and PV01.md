@@ -1,3 +1,15 @@
+---
+tags:
+  - '#curve_fitting'
+  - '#cv01'
+  - '#dv01'
+  - '#hedging'
+  - '#interest_rate_swap'
+  - '#market_risk'
+  - '#partial_pv01'
+  - '#pv01'
+  - '#swap_rate_curve'
+---
 # 5.5 PARTIAL 'O1S AND PV01  
 
 Interest rate swap trading desks are firmly in the category of market participants that require robust, multi-factor frameworks for hedging. These desks are mostly market makers in swaps, regularly paying fixed to and receiving fixed from customers, while trying to hedge any residual interest rate and curve risk. In order to value these trading books, swap rate curves are constructed to fit or pass through rates of all terms that trade with significant. liquidity. There are typically quite a few of these fitting rates or fitting points, perhaps between 15 to 25, depending on the application and currency. In any case, swap desks often leverage their curve-building machinery to compute $P V O1s$ (i.e., present value of an. $^{\cdot}O1$ ) and partial $^{\bullet}O1s$ or partial PV01s. The term PV01 is standard in swap markets, but it is really a synonym for the general conception of DV01 described in the early sections of Chapter 4. The term is likely preferred so as to differentiate between that general conception and yield-based DV01, which is particularly widespread in bond markets.1  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_liability_mismatch'
+  - '#banking_crisis'
+  - '#credit_risk'
+  - '#deposits'
+  - '#duration_mismatch'
+  - '#finance'
+  - '#first_republic_bank'
+  - '#liquidity_risk'
+  - '#silicon_valley_bank'
+  - '#solvency'
+---
 # Introduction & Big Ideas Silicon Valley Bank  
 
 Lecture 1 Thomas S. Coleman March 20th, Draft March 19, 2023  

@@ -3,18 +3,19 @@ cssclasses:
   - academia
 aliases:
   - Squam Lake Group Conclusions.md
-tags:
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-crises"
-  - "#macroeconomic-policymaking"
-  - "#policy-responses"
-  - "#systemic-risk"
-  - "#financial-regulation"
-  - "#bailout-prevention"
 title: Squam Lake Group Conclusions
+tags:
+  - '#aig'
+  - '#bailouts'
+  - '#capital_requirements'
+  - '#central_bank'
+  - '#financial_crisis'
+  - '#financial_regulation'
+  - '#lehman_brothers'
+  - '#regulatory_reform'
+  - '#risk_management'
+  - '#systemic_risk'
 ---
-
 # Squam Lake Group Conclusions
 
 # Chapter 11 Conclusions

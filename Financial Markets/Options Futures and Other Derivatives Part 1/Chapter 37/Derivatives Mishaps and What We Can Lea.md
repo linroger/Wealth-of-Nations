@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#derivatives'
+  - '#exchange_traded_derivatives'
+  - '#financial_crisis_2008'
+  - '#financial_markets'
+  - '#hedging'
+  - '#over_the_counter_market'
+  - '#risk_management'
+  - '#speculation'
+---
 # Chapter 37. Derivatives mishaps and what we can learn from them . .. 793  
 
 37.1 Lessons for all users of derivatives .793   

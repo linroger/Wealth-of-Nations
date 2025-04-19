@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_options'
+  - '#coupon_bearing_bonds'
+  - '#cox_ingersoll_ross_model'
+  - '#european_option'
+  - '#ho_lee_model'
+  - '#hull_white_model'
+  - '#interest_rate_cap_floor'
+  - '#option_pricing'
+  - '#vasicek_model'
+  - '#zero_coupon_bonds'
+---
 # 32.2 OPTIONS ON BONDS  
 
 Some of the models just presented allow options on zero-coupon bonds to be valued analytically. For the Vasicek, Ho-Lee, and Hull-White one-factor models, the price at time zero of a call option that matures at time $T$ on a zero-coupon bond maturing at time $s$ is  

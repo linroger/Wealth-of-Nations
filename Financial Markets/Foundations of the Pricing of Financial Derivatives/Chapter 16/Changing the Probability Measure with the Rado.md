@@ -1,3 +1,14 @@
+---
+tags:
+  - '#artificial_probabilities'
+  - '#discrete_time'
+  - '#equivalent_probability_measures'
+  - '#probability_measure'
+  - '#probability_ratios'
+  - '#radon_nikodym_derivative'
+  - '#stochastic_process'
+  - '#wiener_process'
+---
 # 16.3 CHANGING THE PROBABILITY MEASURE WITH THE RADON-NIKODYM DERIVATIVE IN DISCRETE TIME
 
 We examined the Radon-Nikodym derivative for a continuous time process in Chapter 15.. In the current chapter, we started with a discrete time Brownian motion model. We then extended it to the continuous time case. Before leaving, we need to return to the discrete time case and examine how to change the probability measure. This procedure is extremely. important but is much more difficult in the continuous time case. This material draws heavily on the excellent treatment in Baxter and Rennie (1996)..

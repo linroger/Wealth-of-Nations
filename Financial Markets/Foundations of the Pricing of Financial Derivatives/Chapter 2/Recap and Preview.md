@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_put_options'
+  - '#arbitrage_strategy'
+  - '#continuous_compounding'
+  - '#convexity'
+  - '#dividend_impact'
+  - '#option_price_bounds'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#risk_free_rate'
+  - '#trading_days'
+---
 # 2.13 RECAP AND PREVIEW
 
 In this chapter we identified certain conditions that restrict option prices. For example, we covered upper and lower limits, the relationships between options differing by exercise price or time to expiration, and we derived the relationship between put and call option prices. We also covered the effect of interest rates and volatility on option prices. These results do not identify specific option prices, but they do give us restrictions on option prices and, thereby, enable us to narrow down prices so that we can say more than simply that prices are nonnegative.

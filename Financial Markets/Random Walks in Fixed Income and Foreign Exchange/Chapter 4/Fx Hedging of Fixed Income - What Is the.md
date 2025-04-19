@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_swap'
+  - '#cross_currency_basis'
+  - '#fixed_income'
+  - '#fx_carry_trade'
+  - '#fx_hedging'
+  - '#maturity_matched_hedge'
+  - '#rolling_hedges'
+  - '#unhedged_positions'
+  - '#volatility_analysis'
+  - '#yield_pickup'
+---
 # Chapter 4 FX Hedging of Fixed Income - What is the Best Way?
 
 In Chapter 1 and Chapter 3, we showed that in some cases, it may be possible to hedge the FX risk of some fixed income instruments and lock in a gain, for institutions with access to the right markets and credit ratings.' However, the science of hedging FX risk for fixed income instruments was not designed purely to take advantage of this type of opportunity, but rather to reduce risk on the overseas fixed income assets. In this chapter, we examine alternative ways of hedging these assets and show that it is possible to express the various alternatives in a coherent mathematical framework. We will also illustrate the risks of some popular partial hedge methods that are not all that they seem.

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#callable_bonds'
+  - '#capped_floater'
+  - '#cat_bonds'
+  - '#commodity_tracking_etn'
+  - '#equity_linked_notes'
+  - '#index_amortizing_swap'
+  - '#inverse_floater'
+  - '#mortgage_backed_securities'
+  - '#range_floater'
+  - '#structured_products'
+---
 # 8.2 INTEREST RATE AND YIELD CURVE-BASED STRUCTURED PRODUCTS  
 
 Swaps combined with interest rate options (caps/floors and swaptions) are the main building blocks for structured bonds. In Chapter 4, we showed how corporations issue straight bonds and then use swaps to turn fixed bond liabilities into floating, or one currency into another.. Sometimes they issue a highly structured bond and use a dealer to strip it of all complication to leave the company with a simple fixed or floating liability. The driver is often the investor demand for a customized interest rate exposure scenario. The issuer's objective is a lower cost of funding.  

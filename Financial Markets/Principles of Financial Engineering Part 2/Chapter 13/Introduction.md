@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_free_pricing'
+  - '#black_derman_toy_model'
+  - '#calibration'
+  - '#fundamental_theorem_of_asset_pricing'
+  - '#martingale_methods'
+  - '#monte_carlo_procedure'
+  - '#quanto_assets'
+  - '#risk_neutral_measures'
+---
 # 13.1 INTRODUCTION  
 
 The theorem discussed in the previous chapter establishes important no-arbitrage conditions that permit pricing and risk management using Martingale methods. According to these conditions, given unique arbitrage-free state prices, we can obtain a synthetic probability measure, $\tilde{P}$ under which all asset prices normalized by a particular. $Z_{t}$ become Martingales. Letting $C(S_{t},t)$ represent a security whose price depends on an underlying risk $S_{t}.$ we can write,  

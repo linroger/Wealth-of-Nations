@@ -1,3 +1,13 @@
+---
+tags:
+  - '#capital_asset_pricing_model'
+  - '#capm'
+  - '#elasticity'
+  - '#market_portfolio'
+  - '#option_beta'
+  - '#options_pricing'
+  - '#risky_assets'
+---
 # 30.4 OPTIONS AND THE CAPITAL ASSET PRICING MODEL
 
 Recall that the CAPM is a model for the pricing of all risky assets. An option is a risky asset. Therefore, if the CAPM holds for all risky assets, the expected return on the option must also be governed by the CAPM. Hence, the following equation applies:

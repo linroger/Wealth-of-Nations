@@ -1,3 +1,13 @@
+---
+tags:
+  - '#historical_volatility'
+  - '#implied_volatility'
+  - '#options_pricing'
+  - '#options_substitutability'
+  - '#vix'
+  - '#volatility_smile'
+  - '#volatility_surface'
+---
 # CHAPTER 31 Implied Volatility and the Volatility Smile 537
 
 31.1 Historical Volatility and the VIX 538

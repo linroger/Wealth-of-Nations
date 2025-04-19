@@ -3,28 +3,17 @@ title: PSET 5Pharmaceuticals And Intangibles In Valuation
 cssclasses: academia
 aliases:
 tags:
-
-  - "[[Week"
-  - "5"
-  - Pharmaceuticals
-  - and
-  - Intangibles
-  - in
-  - Valuation|pharmaceuticals]]
-  - valuation
-  - financial-analysis
-  - drug-pipeline
-  - dcf-modeling
-  - quantitative-finance
-  - finance
-  - financial-instruments
-  - pharmaceutical-valuation
-  - drug-pipeline-analysis
-  - "#financial-markets"
-  - "#asset-pricing"
-  - "#economic-theory"
+  - '#acquisition_offer_evaluation'
+  - '#discounted_cash_flow_dcf'
+  - '#drug_pipeline_valuation'
+  - '#fleximat_reformulation'
+  - '#medfield_pharma_case'
+  - '#net_present_value_npv'
+  - '#pharmaceutical_industry'
+  - '#research_advantage'
+  - '#reximet_financials'
+  - '#valuation_analysis'
 ---
-
 # PSET 5Pharmaceuticals And Intangibles In Valuation
 
 ### CASE: *MEDFIELD [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (DARDEN)*

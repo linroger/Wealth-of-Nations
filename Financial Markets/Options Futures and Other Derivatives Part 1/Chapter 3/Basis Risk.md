@@ -1,3 +1,14 @@
+---
+tags:
+  - '#basis_calculation'
+  - '#basis_risk'
+  - '#cross_hedging'
+  - '#delivery_month'
+  - '#example_analysis'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#spot_price'
+---
 # 3.3 BASIS RISK  
 
 The hedges in the examples considered so far have been almost too good to be true. The hedger was able to identify the precise date in the future when an asset would be bought or sold. The hedger was then able to use futures contracts to remove almost all the risk arising from the price of the asset on that date. In practice, hedging is often not quite as straightforward as this. Some of the reasons are as follows:  

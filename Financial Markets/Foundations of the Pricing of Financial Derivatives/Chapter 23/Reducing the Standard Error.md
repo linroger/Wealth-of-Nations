@@ -1,3 +1,15 @@
+---
+tags:
+  - '#antithetic_variate_method'
+  - '#control_variate_method'
+  - '#halton_sequences'
+  - '#low_discrepancy_sequences'
+  - '#monte_carlo_simulation'
+  - '#option_pricing'
+  - '#sample_size'
+  - '#sobol_numbers'
+  - '#standard_error_reduction'
+---
 # 23.2 REDUCING THE STANDARD ERROR
 
 The option price obtained from a Monte Carlo simulation is a sample average. Thus, its standard deviation is the standard deviation of the sample divided by the square root of the sample size.4 Consequently, the error reduces at the rate of 1 over the square root of the sample size. Notice what this means for increasing the sample accuracy by increasing the sample size. Suppose $\sigma_{S}$ is the sample standard deviation. We first conduct a Monte Carlo simulation using $n_{1}$ random drawings. Because the option value is a sample mean, the. standard deviation of our estimate of the option value is. $\sigma_{S}/\sqrt{n_{1}}$ where $n_{1}$ is the sample size. Now suppose we wanted to reduce that standard deviation in half. How much larger must the sample be? Let this new sample size be. $n_{2}$ . Then its standard deviation of the estimate of. the option price is $\sigma_{S}/\sqrt{n_{2}}$ Now note that the following specification, which reduces the. standard deviation of the average in half:

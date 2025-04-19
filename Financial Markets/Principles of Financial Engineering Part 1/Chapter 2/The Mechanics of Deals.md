@@ -1,3 +1,16 @@
+---
+tags:
+  - '#clearing_and_custody'
+  - '#deal_mechanics'
+  - '#dtcc'
+  - '#global_financial_crisis'
+  - '#order_types'
+  - '#otc_deals'
+  - '#regulatory_updates'
+  - '#settlement_conventions'
+  - '#settlement_process'
+  - '#swift_system'
+---
 # 2.4 THE MECHANICS OF DEALS  
 
 What are the mechanisms by which the deals are made? How are trades done? It turns out that organized exchanges have their own clearinghouses and their own clearing agents. So it is relatively easy to see how accounts are opened, how payments are made, how contracts are purchased, and positions are maintained. The clearing members and the clearinghouse do most of these. But how are these operations completed in the case of OTC deals? How does one buy a bond and pay for it? How does one buy a foreign currency?  

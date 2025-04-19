@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bank_loans'
+  - '#corporate_bonds'
+  - '#forward_starting_swaps'
+  - '#greece_sovereign_debt'
+  - '#hedging_strategies'
+  - '#interest_rate_swaps'
+  - '#pension_liabilities'
+  - '#risk_management'
+  - '#synthetic_floating_rate_debt'
+---
 # 13.3 USES OF INTEREST RATE SWAPS  
 
 IRS can be conceptualized in two ways: as a leveraged position in a bond (see Chapter 2) and as an exchange of interest payments. The first interpretation best explains the actions of market participants in increasing or decreasing their interest rate exposures. An asset manager deciding to pay. fixed, either as a bet that interest rates will rise or as a hedge against the interest rate risk of a corporate bond portfolio, is more interested in the DV01 of the swap than in the particular cash flows being exchanged. The first. three use cases described in this section - pensions, Greece, and Brunswick Corporation - fall into this category. The second interpretation of swaps. best explains the actions of market participants wanting to alter particular streams of cash flows. In the asset swap transactions described in Chapter 14, the owner of a corporate bond specifically wants to substitute the receipt of. bond coupon with the receipt of a floating rate plus a spread. The last two use cases described here -- bank loans and synthetic floating-rate debt -- fall into this category.  

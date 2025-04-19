@@ -1,3 +1,16 @@
+---
+tags:
+  - '#affine_models'
+  - '#convexity_adjustment'
+  - '#hull_white_model'
+  - '#short_rate_model'
+  - '#sofr'
+  - '#sofr_curve'
+  - '#sofr_derivatives'
+  - '#sofr_futures'
+  - '#sofr_options'
+  - '#sofr_swaptions'
+---
 # SOFR Derivative Pricing Using a Short Rate Model
 
 Mingyang Xu  

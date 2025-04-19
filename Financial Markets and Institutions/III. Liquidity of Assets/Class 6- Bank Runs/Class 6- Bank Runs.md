@@ -1,9 +1,12 @@
 ---
 title: Class 6Bank Runs
-aliases: [Class 6 Bank Runs]
+aliases:
+  - Class 6 Bank Runs
 linter-yaml-title-alias: Class 6 Bank Runs
+tags:
+  - '#bank_runs'
+  - '#class_6'
 ---
-
 # Class 6Bank Runs
 
 %% Begin Waypoint %%

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bsm_model'
+  - '#call_option_pricing'
+  - '#daily_settlement_payments'
+  - '#euribor_futures_contract'
+  - '#euribor_futures_options'
+  - '#futures_contract_rate'
+  - '#futures_style_options'
+  - '#intrinsic_value'
+  - '#option_expiration'
+  - '#put_option_pricing'
+---
 # 16.2 EURIBOR FUTURES OPTIONS  
 
 Euribor futures contracts are discussed in Chapter 12. Options on Euribor futures are futures-style options, because, like futures, all of their profits or losses are in the form of daily settlement payments. To explain the workings of this kind of option, consider a futures-style call option with a strike of 97.0 on some underlying futures contract. If the futures price at the expiration of the option is 99.0, then the final settlement price of the call option is 99.0 minus 97.0, or 2.0. If the futures price at expiration of the option is 95.0, then the final settlement price of the call option is zero. In other words, the final settlement price of the call option is its intrinsic value, that is, the maximum of zero and the difference between the underlying price and the strike.2  

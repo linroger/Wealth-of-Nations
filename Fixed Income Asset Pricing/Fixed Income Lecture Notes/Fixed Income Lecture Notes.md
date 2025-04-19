@@ -1,11 +1,13 @@
 ---
-tags: 
 cssclasses: academia
 title: Fixed Income Lecture Notes
-aliases: [FIXED INCOME LECTURE NOTES]
+aliases:
+  - FIXED INCOME LECTURE NOTES
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
+tags:
+  - '#fixed_income'
+  - '#lecture_notes'
 ---
-
 # Fixed Income Lecture Notes
 
 %% Begin Waypoint %%

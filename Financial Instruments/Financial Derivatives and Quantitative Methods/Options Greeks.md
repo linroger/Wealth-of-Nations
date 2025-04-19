@@ -1,10 +1,19 @@
 ---
 aliases: []
-tags: 
 cssclasses: academia
 title: Options Greeks
+tags:
+  - '#black_scholes_formula'
+  - '#delta'
+  - '#dynamic_hedging'
+  - '#gamma'
+  - '#implied_volatility'
+  - '#options_greeks'
+  - '#rho'
+  - '#theta'
+  - '#vega'
+  - '#volatility_smiles'
 ---
-
 # Options Greeks
 # The Greeks
 

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_swaps'
+  - '#credit_squeeze'
+  - '#cross_currency_swap'
+  - '#differential_swaps'
+  - '#floating_interest_rates'
+  - '#interest_rate_differentials'
+  - '#money_market_rates'
+  - '#quanto_swaps'
+  - '#usd_libor'
+---
 # 14.9 DIFFERENTIAL (QUANTO) SWAPS  
 
 Financial Accounting Standard (FAS) 133 and the International Accounting Standard (IAS) 39 set the accounting rules for derivatives for the United States and for European companies, respectively. According to these rules, a derivative position will have to be marked-to-market and included in income statements unless it qualifies for hedge accounting.35  

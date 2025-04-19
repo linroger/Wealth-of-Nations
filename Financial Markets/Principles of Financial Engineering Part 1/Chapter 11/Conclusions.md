@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bear_spreads'
+  - '#bull_spreads'
+  - '#butterfly_spreads'
+  - '#exotic_options'
+  - '#option_pricing'
+  - '#payoff_diagrams'
+  - '#range_accrual_options'
+  - '#range_binary_options'
+  - '#risk_reversals'
+  - '#volatility_strategies'
+---
 # 11.7 CONCLUSIONS  
 
 In this chapter, we discussed how to synthetically create payoff diagrams for positions that take a view on the direction of markets and on the direction of volatility. These were static positions. We specifically concentrated on the payoff diagrams that were functions of a single risk factor and that were to be replicated by plain vanilla futures and options positions. The second part of the chapter discussed the engineering of similar positions using simple exotics.  

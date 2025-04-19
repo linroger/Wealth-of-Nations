@@ -1,3 +1,11 @@
+---
+tags:
+  - '#bond_convexity_trades'
+  - '#convexity_positions'
+  - '#quantos'
+  - '#sources_of_convexity'
+  - '#special_instrument'
+---
 # CHAPTER 10 Engineering Convexity Positions 319  
 
 10.1 Introduction. 320   

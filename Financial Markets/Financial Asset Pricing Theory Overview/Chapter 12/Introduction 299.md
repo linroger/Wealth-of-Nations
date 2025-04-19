@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_style_derivatives'
+  - '#black_scholes_merton_model'
+  - '#financial_derivatives'
+  - '#forwards_and_futures'
+  - '#interest_rate_options'
+  - '#interest_rate_swaps'
+  - '#option_pricing'
+  - '#swaptions'
+---
 # 12.1 Introduction . 299  
 
 12.2 Forwards and futures. 301   

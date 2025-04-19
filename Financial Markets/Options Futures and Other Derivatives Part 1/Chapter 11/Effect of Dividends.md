@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#arbitrage'
+  - '#dividends'
+  - '#early_exercise'
+  - '#european_options'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#risk_management'
+  - '#stock_options'
+  - '#trading_strategies'
+---
 # 11.7 EFFECT OF DIVIDENDS  
 
 The results produced so far in this chapter have assumed that we are dealing with options on a non-dividend-paying stock. In this section, we examine the impact of dividends. We assume that the dividends that will be paid during the life of the option  

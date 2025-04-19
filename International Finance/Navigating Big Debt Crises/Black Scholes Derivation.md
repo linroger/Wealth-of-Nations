@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_formula'
+  - '#black_scholes_pde'
+  - '#boundary_conditions'
+  - '#cumulative_distribution_function'
+  - '#european_call_option'
+  - '#geometric_brownian_motion'
+  - '#options_pricing'
+  - '#pde_solution_techniques'
+  - '#risk_neutral_portfolio'
+  - '#volatility'
+---
 To derive the Black-Scholes partial differential equation (PDE) from first principles, we start by considering a financial market where the price of an underlying asset follows a geometric Brownian motion. The goal is to determine the fair value of a European call option, which gives the holder the right to buy the asset at a specified strike price on a specific expiration date.
 
 ### Step 1: Define Variables and Assumptions

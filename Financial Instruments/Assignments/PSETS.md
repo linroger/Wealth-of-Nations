@@ -1,3 +1,16 @@
+---
+tags:
+  - '#3_month_t_bill_rate'
+  - '#ar_1_process'
+  - '#bond_equivalent_yield'
+  - '#fixed_income_asset_pricing'
+  - '#forward_rates'
+  - '#interest_rate_forecasting'
+  - '#mean_reversion'
+  - '#ols_estimation'
+  - '#treasury_strip_prices'
+  - '#yield_curve_analysis'
+---
 # PSET I
 # Fixed Income Asset Pricing Bus 35130 Spring 2024 John Heaton  
 March 18, 2024

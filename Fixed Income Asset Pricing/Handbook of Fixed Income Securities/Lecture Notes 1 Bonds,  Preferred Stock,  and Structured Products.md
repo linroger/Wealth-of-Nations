@@ -1,7 +1,16 @@
 ---
-LLM-tagged: 2025-03-10T14:08:26.839Z
+LLM-tagged: 2025-03-10 14:08:26.839000+00:00
+tags:
+  - '#broken_pacs'
+  - '#cash_flow'
+  - '#cmo_structure'
+  - '#duration'
+  - '#investment_performance'
+  - '#mortgage_backed_securities'
+  - '#option_adjusted_duration'
+  - '#pac_cmo'
+  - '#prepayment_risk'
 ---
-
 Here is a summarized version of the text, tagged with relevant keywords:
 
 **Tagged Summary**

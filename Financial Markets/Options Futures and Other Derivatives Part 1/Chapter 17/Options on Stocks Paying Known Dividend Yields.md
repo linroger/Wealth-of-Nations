@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#black_scholes_merton'
+  - '#dividend_payment'
+  - '#dividend_yield'
+  - '#european_options'
+  - '#option_pricing_formulas'
+  - '#put_call_parity'
+  - '#risk_neutral_valuation'
+  - '#stock_valuation'
+---
 # 17.3 OPTIONS ON STOCKS PAYING KNOWN DIVIDEND YIELDS  
 
 In this section we produce a simple rule that enables valuation results for European options on a non-dividend-paying stock to be extended so that they apply to European options on a stock paying a known dividend yield. Later we show how this enables us to value options on stock indices and currencies..  

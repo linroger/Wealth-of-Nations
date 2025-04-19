@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_valuation'
+  - '#bivariate_normal_distribution'
+  - '#excel_routine'
+  - '#financial_derivatives'
+  - '#risky_assets'
+  - '#univariate_normal_distribution'
+  - '#visual_basic_for_applications'
+---
 # 5.5 RECAP AND PREVIEW
 
 In this chapter, we reviewed the univariate normal probability distribution and took a look at the historical returns on the. $\mathrm{S\&RP}~500$ to see how well the distribution fits the data. We. also examined the bivariate normal probability distribution, which can apply when there are two random variables.

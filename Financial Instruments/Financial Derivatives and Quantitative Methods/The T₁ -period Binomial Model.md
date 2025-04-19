@@ -1,8 +1,17 @@
 ---
-aliases: [T₁ Binominal Model]
+aliases:
+  - T₁ Binominal Model
 title: The T₁ -period Binomial Model
+tags:
+  - '#arithmetic_mean'
+  - '#binomial_model'
+  - '#call_option_pricing'
+  - '#geometric_mean'
+  - '#multi_period_model'
+  - '#replicating_portfolio'
+  - '#risk_neutral_valuation'
+  - '#variance_of_return'
 ---
-
 # The T₁ -period Binomial Model
 
 ### Introduction

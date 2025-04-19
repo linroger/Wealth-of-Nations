@@ -1,3 +1,12 @@
+---
+tags:
+  - '#arbitrage'
+  - '#assets'
+  - '#market_completeness'
+  - '#portfolios'
+  - '#redundant_assets'
+  - '#uncertainty_modeling'
+---
 # Chapter 3  
 
 # Assets, portfolios, and arbitrage  

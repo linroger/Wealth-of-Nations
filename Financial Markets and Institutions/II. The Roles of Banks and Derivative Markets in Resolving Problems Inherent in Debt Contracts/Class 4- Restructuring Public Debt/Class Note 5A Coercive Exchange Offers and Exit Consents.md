@@ -2,28 +2,23 @@
 cssclasses:
   - academia
 aliases:
-  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
-  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents.md
+  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy
+    Exchange Offers|Exchange Offers]] and Exit Consents
+  - Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy
+    Exchange Offers|Exchange Offers]] and Exit Consents.md
+title: Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy
+  Exchange Offers|Exchange Offers]] and Exit Consents
 tags:
-
-  - 
-  - Bankruptcy
-  - Restructuring
-  - Covenants
-  - ExchangeOffers
-  - Consent
-  - Seniority
-  - FaceValue
-  - BondValuation
-  - TrustIndenture
-  - "#finance"
-  - "#bond-valuation"
-  - "#financial-instruments"
-  - "#exit-consents"
-  - "#coercive-exchange-offers"
-title: Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
+  - '#bond_valuation'
+  - '#coercive_consent'
+  - '#consent_payment'
+  - '#covenant_change'
+  - '#exchange_offer'
+  - '#exit_consent_vote'
+  - '#junior_bond'
+  - '#senior_bond'
+  - '#trust_indenture_act'
 ---
-
 # Class Note 5A Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents
 
 ### Class Note 5A: Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]] and Exit Consents

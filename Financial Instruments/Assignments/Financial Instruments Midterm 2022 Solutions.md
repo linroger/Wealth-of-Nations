@@ -1,18 +1,20 @@
 ---
 cssclasses:
   - academia
-aliases: 
+aliases:
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS
-tags:
-  - "#financial-instruments"
-  - "#foreign-exchange-market"
-  - "#exchange-rates"
-  - "#risk-management"
-  - "#swap-rates"
-  - "#binomial-trees"
 title: Financial Instruments Midterm 2022 Solutions
+tags:
+  - '#binomial_trees'
+  - '#european_put_option'
+  - '#exchange_rates'
+  - '#financial_instruments'
+  - '#forward_contract'
+  - '#hedging'
+  - '#midterm_solutions'
+  - '#stock_xyz'
+  - '#swap_rate'
 ---
-
 ---
 
 title: FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS

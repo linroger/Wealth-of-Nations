@@ -6,21 +6,15 @@ aliases:
   - 
   - 
 tags:
-  - valuation
-  - financial-analysis
-  - roic
-  - dcf-methodology
-  - financial-modeling
-  - corporate-finance
-  - ratio-analysis
-  - dcf-valuation
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-instruments"
-  - "#valuation-methods"
-  - "#enterprise-valuation"
+  - '#dividend_discount_model'
+  - '#enterprise_dcf'
+  - '#equity_valuation'
+  - '#free_cash_flow'
+  - '#ratio_analysis'
+  - '#roic'
+  - '#valuation'
+  - '#wacc'
 ---
-
 # Week 1 Ratio Analysis + Valuation Review
 
 [[Week 1 Ratio Analysis + Valuation Review|Ratio Analysis]]

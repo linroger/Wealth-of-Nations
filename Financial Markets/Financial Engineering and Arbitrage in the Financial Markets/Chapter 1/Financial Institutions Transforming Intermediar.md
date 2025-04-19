@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_transformers'
+  - '#balance_sheet_analysis'
+  - '#broker_dealers'
+  - '#capital_flow'
+  - '#disintermediation'
+  - '#financial_institutions'
+  - '#financial_regulation'
+  - '#investment_banking'
+  - '#regulatory_oversight'
+  - '#securitization'
+---
 # 1.5 FINANCIAL INSTITUTIONS: TRANSFORMING INTERMEDIARIES VS BROKER-DEALERS  
 
 From a macroeconomic perspective, financial institutions can be broadly divided into two categories based on their raison d' etre:  

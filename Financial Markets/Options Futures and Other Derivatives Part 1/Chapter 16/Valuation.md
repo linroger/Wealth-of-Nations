@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_tree_approach'
+  - '#black_scholes_merton_model'
+  - '#employee_stock_options'
+  - '#exercise_multiple'
+  - '#expected_life'
+  - '#market_based_approach'
+  - '#stock_option_dilution'
+  - '#valuation_methods'
+  - '#zions_bancorp'
+---
 # 16.4 VALUATION  
 
 Accounting standards give companies quite a bit of latitude in choosing a method for valuing employee stock options. In this section we review some of the alternatives.  

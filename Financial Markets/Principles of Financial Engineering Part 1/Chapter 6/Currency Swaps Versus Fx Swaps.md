@@ -1,3 +1,15 @@
+---
+tags:
+  - '#counterparty_risk'
+  - '#currency_swaps'
+  - '#financial_engineering'
+  - '#fx_market'
+  - '#fx_swaps'
+  - '#gfc'
+  - '#interest_rate_swaps'
+  - '#margin_requirements'
+  - '#market_liquidity'
+---
 # 6.8 CURRENCY SWAPS VERSUS FX SWAPS  
 
 Although they have similar names, currency swaps and FX swaps are different instruments. First we introduce currency swaps and apply the swap engineering methodology from Chapter 4 to their replication. Then we will highlight differences between currency swaps and FX swaps..  

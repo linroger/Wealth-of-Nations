@@ -1,3 +1,11 @@
+---
+tags:
+  - '#lognormal_diffusion'
+  - '#monte_carlo_simulation'
+  - '#random_variable_simulation'
+  - '#simulation_methods'
+  - '#standard_error'
+---
 # CHAPTER 23 Monte Carlo Simulation
 
 # 417

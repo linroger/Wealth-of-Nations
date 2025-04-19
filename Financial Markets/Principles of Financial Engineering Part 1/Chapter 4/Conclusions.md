@@ -1,3 +1,15 @@
+---
+tags:
+  - '#buyback_programs'
+  - '#fas_133'
+  - '#financial_engineering'
+  - '#hedging_swaps'
+  - '#italian_government_bonds'
+  - '#repo_market'
+  - '#repo_strategies'
+  - '#swaps'
+  - '#synthetic_swaps'
+---
 # 4.10 CONCLUSIONS  
 
 Why buy and sell securities when you can swap the corresponding returns and achieve the same objective efficiently, and at minimal cost?  

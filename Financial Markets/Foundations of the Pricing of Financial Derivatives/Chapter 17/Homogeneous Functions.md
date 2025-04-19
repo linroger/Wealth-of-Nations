@@ -1,3 +1,12 @@
+---
+tags:
+  - '#degree_of_homogeneity'
+  - '#function_properties'
+  - '#homogeneous_degree_one'
+  - '#homogeneous_degree_zero'
+  - '#homogeneous_functions'
+  - '#variable_multiplication'
+---
 # 17.2 HOMOGENEOUS FUNCTIONS
 
 A function $f\left(x_{1},x_{2},\ldots,x_{n}\right)$ is said to be homogeneous of degree $k$ with respect to each variable,e $x_{1},x_{2},\ldots,x_{n}$ if the following condition holds

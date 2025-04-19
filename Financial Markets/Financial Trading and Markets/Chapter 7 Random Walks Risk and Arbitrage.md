@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#brownian_motion'
+  - '#geometric_brownian_motion'
+  - '#implied_volatility'
+  - '#limits_to_arbitrage'
+  - '#market_efficiency'
+  - '#option_pricing'
+  - '#pairs_trading'
+  - '#random_walks'
+  - '#risk_assessment'
+---
 # Random Walks, Risk, and Arbitrage  
 
 # 7.1 MARKET EFFICIENCY AND RANDOM WALKS  

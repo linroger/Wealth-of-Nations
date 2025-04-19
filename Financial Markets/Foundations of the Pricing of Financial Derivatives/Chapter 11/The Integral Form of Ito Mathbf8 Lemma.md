@@ -1,3 +1,12 @@
+---
+tags:
+  - '#integral_formula'
+  - '#ito_integral_form'
+  - '#ito_lemma'
+  - '#ito_stochastic_integral'
+  - '#stochastic_calculus'
+  - '#stochastic_integration'
+---
 # 11.4 THE INTEGRAL FORM OF ITO $\mathbf{8}$ LEMMA
 
 Now let us develop Ito's lemma in integral form. Using stochastic integration applied to Equation (11.14), we have

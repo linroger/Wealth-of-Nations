@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_call_option'
+  - '#american_put_option'
+  - '#american_style_derivatives'
+  - '#early_exercise'
+  - '#exercise_strategy'
+  - '#non_dividend_paying_asset'
+  - '#numerical_techniques'
+  - '#optimal_exercise_strategy'
+  - '#stopping_time'
+---
 # 12.5 American-style derivatives  
 
 Consider an American-style derivative where the holder has the right to choose when to exercise the derivative, at least within some limits. Typically exercise can take place at the expiration date $T$ or at any time before $T$ . Let $P_{\tau}$ denote the payoff if the derivative is exercised at time. $\tau\leq T$ In general,. $P_{\tau}$ may depend on the evolution of the economy up to and including time. $\tau$ , but it. is usually a simple function of the time. $\tau$ price of an underlying security or the time. $\tau$ value of a. particular interest rate. At each point in time the holder of the derivative must decide whether or not he will exercise. Of course, this decision must be based on the available information, so we are seeking an entire exercise strategy that tell us exactly in what states of the world we should exercise the derivative. We can represent an exercise strategy by an indicator function $I(\omega,t)$ which for any given state of the economy $\omega$ at time $t$ either has the value $^{1}$ or $0$ , where the value $^{1}$ indicates exercise and $0$ indicates non-exercise. For a given exercise strategy $I$ , the derivative will be exercised the first time $I(\omega,t)$ takes on the value 1. We can write this point in time as  

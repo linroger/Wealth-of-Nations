@@ -1,3 +1,16 @@
+---
+tags:
+  - '#foreign_exchange'
+  - '#forward_contracts'
+  - '#forward_prices'
+  - '#hedging'
+  - '#long_position'
+  - '#payoffs'
+  - '#short_position'
+  - '#spot_contracts'
+  - '#spot_prices'
+  - '#usd_gbp_exchange_rate'
+---
 # 1.3 FORWARD CONTRACTS  
 
 A relatively simple derivative is a forward contract. It is an agreement to buy or sell an asset at a certain future time for a certain price. It can be contrasted with a spot. contract, which is an agreement to buy or sell an asset almost immediately. A forward. contract is traded in the over-the-counter market-usually between two financial institutions or between a financial institution and one of its clients..  

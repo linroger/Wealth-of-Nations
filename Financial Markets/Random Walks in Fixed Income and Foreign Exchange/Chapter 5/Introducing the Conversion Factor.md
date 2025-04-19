@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_issuance'
+  - '#conversion_factor'
+  - '#credit_spread'
+  - '#cross_currency_basis'
+  - '#currency_risk'
+  - '#discount_factor'
+  - '#fx_hedging'
+  - '#interest_rate_risk'
+  - '#issuer_choices'
+  - '#yield_curve'
+---
 # Chapter 5 Introducing the Conversion Factor
 
 Maybe you've never heard of the conversion factor.' You are in good company;. many of my colleagues had not, and it was news to me when I first investigated it a few years ago. Though it isn't a new concept, it is a surprising and somewhat unexpected consequence of combining credit spreads with different yield curves, and. has significant consequences for issuers and investors..

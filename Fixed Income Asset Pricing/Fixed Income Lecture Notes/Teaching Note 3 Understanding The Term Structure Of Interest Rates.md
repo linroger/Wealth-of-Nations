@@ -1,10 +1,20 @@
 ---
 aliases: []
-tags: []
-cssclasses: [academia]
+cssclasses:
+  - academia
 title: Teaching Note 3 Understanding The Term Structure Of Interest Rates
+tags:
+  - '#bond_returns'
+  - '#cochrane_piazzesi_factor'
+  - '#expectations_hypothesis'
+  - '#fama_bliss_regression'
+  - '#forward_rates'
+  - '#inflation_risk'
+  - '#real_interest_rates'
+  - '#risk_premia'
+  - '#term_structure_interest_rates'
+  - '#treasury_inflation_protected_securities_tips'
 ---
-
 # [[Fixed Income Asset Pricing/Fixed Income Lecture Notes/Understanding the Term Structure of Interest Rates|Teaching Note 3 Understanding The Term Structure Of Interest Rates]]
 ## Introduction
 - There are numerous questions that arise when we think about the term structure of interest rates, such as:

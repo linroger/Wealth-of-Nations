@@ -1,3 +1,14 @@
+---
+tags:
+  - '#equity_for_floating_swap'
+  - '#equity_index'
+  - '#equity_swaps'
+  - '#forward_rate'
+  - '#notional_principal'
+  - '#s_and_p_500'
+  - '#sofr'
+  - '#total_return_index'
+---
 # 34.4  EQUITY SWAPS  
 
 In an equity swap, one party promises to pay the return on an equity index on a. notional principal, while the other promises to pay a fixed or floating return on a. notional principal. Equity swaps enable a fund managers to increase or reduce their. exposure to an index without buying and selling stock. An equity swap is a convenient way of packaging a series of forward contracts on an index to meet the needs of the market participants.  

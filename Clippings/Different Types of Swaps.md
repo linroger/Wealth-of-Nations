@@ -1,9 +1,19 @@
 ---
-title: "Different Types of Swaps"
-source: "https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp"
-description: "Identify and explore the most common types of swap contracts. Swaps are derivative instruments that represent an agreement between two parties to exchange a series of cash flows over a specific period of time"
+title: Different Types of Swaps
+source: https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp
+description: Identify and explore the most common types of swap contracts. Swaps are
+  derivative instruments that represent an agreement between two parties to exchange
+  a series of cash flows over a specific period of time
 tags:
-  - "clippings"
+  - '#commodity_swaps'
+  - '#credit_default_swaps'
+  - '#currency_swaps'
+  - '#financial_swaps'
+  - '#hedging_instruments'
+  - '#interest_rate_swaps'
+  - '#over_the_counter_transactions'
+  - '#risk_management'
+  - '#total_return_swaps'
 ---
 Swaps are [derivative](https://www.investopedia.com/terms/d/derivative.asp) instruments that represent an agreement between two parties to exchange a series of cash flows over a specific period. Swaps offer great flexibility in designing and structuring contracts based on mutual agreement. This flexibility generates many [swap](https://www.investopedia.com/terms/s/swap.asp) variations, with each serving a specific purpose.
 

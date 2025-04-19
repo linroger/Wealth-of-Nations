@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#brownian_motion'
+  - '#complete_markets'
+  - '#consumption_process'
+  - '#hark_utility'
+  - '#risk_aversion'
+  - '#state_price_deflator'
+  - '#time_additive_utility'
+  - '#utility_maximization'
+---
 # 7.5 Exercises  
 
 EXERCISE 7.1 Suppose $\eta_{1}$ and $\eta_{2}$ are strictly positive numbers and that $u_{1}(c)=u_{2}(c)=$ $c^{1-\gamma}/(1-\gamma)$ for any non-negative real number $c$ . Define the function $u_{\eta}:\mathbb{R}_{+}\to\mathbb{R}$ by  

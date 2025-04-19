@@ -1,3 +1,14 @@
+---
+tags:
+  - '#common_logarithm'
+  - '#continuous_compounding'
+  - '#continuously_compounded_interest'
+  - '#logarithms_and_exponentials'
+  - '#mathematical_operations'
+  - '#natural_logarithm'
+  - '#rates_of_return'
+  - '#terminal_value'
+---
 # 3.3 LOGARITHMS AND EXPONENTIALS
 
 The logarithm of a number is an exponent to which a base raised to that power equals the number. There are two primary types of logarithms, the base $e$ , called the natural or Naperian log, and the base 10, called the common log. We write the former as. $\log_{\mathrm{e}}$ or sometimes In, and the latter as $\log_{10}$ . In financial applications we nearly always use natural. logs, which is primarily because continuously compounded interest is consistent with the natural log function.

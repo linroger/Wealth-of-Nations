@@ -1,3 +1,13 @@
+---
+tags:
+  - '#financial_derivatives'
+  - '#monthly_discrete_compounded_rate'
+  - '#monthly_total_return'
+  - '#portfolio_return'
+  - '#product_notation'
+  - '#rates_of_return'
+  - '#total_return'
+---
 # 3.2 PRODUCT NOTATION
 
 Product notation often occurs when linking rates of return. Consider the specification,

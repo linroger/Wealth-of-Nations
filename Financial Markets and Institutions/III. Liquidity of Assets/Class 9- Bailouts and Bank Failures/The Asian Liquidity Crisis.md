@@ -1,9 +1,20 @@
 ---
-aliases: [The Asian Liquidity Crisis.md,  The Asian Liquidity Crisis]
-tags: [ ]
+aliases:
+  - The Asian Liquidity Crisis.md
+  - The Asian Liquidity Crisis
 title: The Asian Liquidity Crisis
+tags:
+  - '#asean_5_countries'
+  - '#asian_liquidity_crisis'
+  - '#capital_inflows'
+  - '#currency_crises'
+  - '#emerging_markets'
+  - '#financial_crises'
+  - '#financial_liberalization'
+  - '#fixed_exchange_rates'
+  - '#international_illiquidity'
+  - '#short_term_debt'
 ---
-
 # The Asian Liquidity Crisis
 
 NBER WORKING PAPER SERIES

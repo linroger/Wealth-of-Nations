@@ -1,3 +1,16 @@
+---
+tags:
+  - '#margin_requirements'
+  - '#option_positions'
+  - '#option_types'
+  - '#options_clearing_corporation'
+  - '#options_markets'
+  - '#options_regulation'
+  - '#options_trading'
+  - '#stock_options'
+  - '#trading_costs'
+  - '#underlying_assets'
+---
 # Chapter 10. Mechanics of options markets . .205  
 
 10.1 Types of options .205   

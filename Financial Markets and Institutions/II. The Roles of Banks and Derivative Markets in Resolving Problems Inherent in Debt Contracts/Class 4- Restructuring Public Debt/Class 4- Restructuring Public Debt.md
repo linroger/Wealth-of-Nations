@@ -1,9 +1,20 @@
 ---
 title: Class 4Restructuring Public Debt
-aliases: [Restructuring Public Debt]
+aliases:
+  - Restructuring Public Debt
 linter-yaml-title-alias: Class 4Restructuring Public Debt
+tags:
+  - '#bankruptcy'
+  - '#bond_markets'
+  - '#case_studies'
+  - '#corporate_restructuring'
+  - '#covenants'
+  - '#debt_restructuring'
+  - '#exchange_offers'
+  - '#exit_consents'
+  - '#public_debt'
+  - '#sovereign_debt'
 ---
-
 # Class 4Restructuring Public Debt
 %% Begin Waypoint %%
 - **[[Class 4- Restructuring Public Debt]]**

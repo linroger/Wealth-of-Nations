@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#arbitrage_opportunities'
+  - '#european_options'
+  - '#non_dividend_paying_stock'
+  - '#put_call_parity'
+  - '#risk_free_interest_rate'
+  - '#strike_price'
+  - '#time_to_maturity'
+  - '#zero_coupon_bond'
+---
 # 11.4  PUT-CALL PARITY  
 
 We now derive an important relationship between the prices of European put and call. options that have the same strike price and time to maturity. Consider the following two portfolios that were used in the previous section:.  

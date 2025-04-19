@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bid_ask_quotes'
+  - '#day_count_conventions'
+  - '#financial_institutions'
+  - '#fixed_rate_vs_floating_rate'
+  - '#isda_master_agreement'
+  - '#market_makers'
+  - '#swap_confirmations'
+  - '#swap_market'
+---
 # 7.4 THE ORGANIZATION OF TRADING  
 
 Financial institutions such as Citigroup act as market makers and provide bid and ask. quotes for the fixed rates that they are prepared to exchange in swaps. Table 7.4 shows. the full set of quotes that might be made at the time of the trades considered in Figures 7.3 to 7.6. The bid quote is the fixed rate that applies when the financial.  

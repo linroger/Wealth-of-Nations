@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton'
+  - '#drift_rate'
+  - '#forward_contracts'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#ito_process'
+  - '#stochastic_variables'
+  - '#variance_rate'
+  - '#wiener_process'
+---
 # 14.6 ITO'S LEMMA  
 
 The price of a stock option is a function of the underlying stock's price and time. More. generally, we can say that the price of any derivative is a function of the stochastic variables underlying the derivative and time. A serious student of derivatives must,. therefore, acquire some understanding of the behavior of functions of stochastic variables. An important result in this area was discovered by the mathematician. K. Ito in 1951, and is known as Ito's lemma..  

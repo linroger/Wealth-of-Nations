@@ -1,3 +1,15 @@
+---
+tags:
+  - '#as_you_like_it_option'
+  - '#call_option'
+  - '#chooser_option'
+  - '#compound_options'
+  - '#maturity'
+  - '#put_call_parity'
+  - '#put_option'
+  - '#strike_price'
+  - '#valuation_formula'
+---
 # 26.8 CHOOSER OPTIONS  
 
 A chooser option (sometimes referred to as an as you like it option) has the feature that, after a specified period of time, the holder can choose whether the option is a call or a put. Suppose that the time when the choice is made is $T_{1}$ . The value of the chooser option at this time is  

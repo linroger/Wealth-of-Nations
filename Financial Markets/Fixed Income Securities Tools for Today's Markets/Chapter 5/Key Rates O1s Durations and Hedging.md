@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_liability_management'
+  - '#bond_valuation'
+  - '#duration'
+  - '#hedging'
+  - '#key_rate_dv01'
+  - '#key_rates'
+  - '#par_bonds'
+  - '#pension_liabilities'
+---
 # 5.4 KEY RATES: 'O1S, DURATIONS, AND HEDGING  
 
 Unlike their one-factor equivalents in Chapter 4, key-rate Dv01s and dura-. tions are based on change in price, or percentage change in price, for a change. in a single key rate. Mathematically, the DV01 and duration with respect to key rate $k$ are defined as,  

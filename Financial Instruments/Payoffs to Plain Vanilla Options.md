@@ -3,13 +3,17 @@ cssclasses: academia
 aliases: []
 title: Payoffs to Plain Vanilla Options
 tags:
-  - "#quantitative-finance"
-  - "#financial-derivatives"
-  - "#asset-pricing"
-  - "#option-pricing"
-  - "#risk-management"
+  - '#american_options'
+  - '#black_scholes_formula'
+  - '#european_options'
+  - '#forward_contracts'
+  - '#option_greeks'
+  - '#option_payoffs'
+  - '#option_pricing'
+  - '#options'
+  - '#risk_management'
+  - '#strike_price'
 ---
-
 # Payoffs to Plain Vanilla Options
 # Options
 

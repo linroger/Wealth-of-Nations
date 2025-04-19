@@ -1,10 +1,18 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: PSET 3 Solution-Financial Instruments
+tags:
+  - '#collar_strategy'
+  - '#currency_swap'
+  - '#financial_instruments'
+  - '#greece_currency_swap'
+  - '#hedging_with_options'
+  - '#jet_fuel_hedging'
+  - '#option_payoff'
+  - '#put_call_parity'
+  - '#southwest_jet_fuel'
 ---
 ---
 

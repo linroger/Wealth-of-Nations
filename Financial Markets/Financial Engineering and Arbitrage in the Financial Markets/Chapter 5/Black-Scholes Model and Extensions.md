@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_model'
+  - '#currency_options'
+  - '#delta_gamma_vega'
+  - '#dividends'
+  - '#hedge_ratio'
+  - '#option_hedging'
+  - '#option_pricing'
+  - '#volatility'
+---
 # 5.7 BLACK-SCHOLES MODEL AND EXTENSIONS  
 
 The well-known Black-Scholes? equation for calls and puts is a continuous generalization of. the binomial approach. There are at least two improvements here. First, the stock price, looking. forward from one date to the next, can take on a continuum of values not just two. Second, there is a continuum of dates, not just month-to-month, or day-to-day. The equation computes. the present value of a hedge strategy where the rebalancing occurs instant-by-instant and over. minute price changes. The overriding principle of payoff manufacturing remains the same. An option payoff is replicated by a position in a stock combined with borrowing or lending. The stock and bond position is adjusted continuously and for infinitesimal value changes. The value of the option today is equal to the cash required to start this dynamic hedge process.  

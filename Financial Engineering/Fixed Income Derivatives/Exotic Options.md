@@ -1,3 +1,14 @@
+---
+tags:
+  - '#barrier_options'
+  - '#black_scholes_model'
+  - '#continuous_monitoring'
+  - '#discrete_monitoring'
+  - '#down_and_in_options'
+  - '#option_pricing'
+  - '#path_dependent_payoff'
+  - '#risk_neutral_valuation'
+---
 # [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]
 
 ## [[7. Black Scholes Model#2 The Volatility Surface|Exotic Options]]:  Pricing Path-Dependent single Barrier Option contracts

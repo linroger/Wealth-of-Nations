@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrageurs'
+  - '#exchange_traded_markets'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#hedgers'
+  - '#options_contracts'
+  - '#over_the_counter_markets'
+  - '#speculators'
+  - '#types_of_traders'
+---
 # Chapter 1. Introduction  
 
 1.1 Exchange-traded markets 2   

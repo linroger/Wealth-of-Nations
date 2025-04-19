@@ -1,3 +1,13 @@
+---
+tags:
+  - '#directional_options'
+  - '#european_calls_and_puts'
+  - '#option_pricing'
+  - '#options_market_maker'
+  - '#options_trading'
+  - '#options_volatility'
+  - '#underlying_asset_volatility'
+---
 # 9.1 INTRODUCTION  
 
 This chapter is an introduction to methods used in dealing with optionality in financial instruments..   

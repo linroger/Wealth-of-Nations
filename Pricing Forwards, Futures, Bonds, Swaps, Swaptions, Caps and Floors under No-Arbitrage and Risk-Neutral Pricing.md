@@ -1,4 +1,16 @@
-
+---
+tags:
+  - '#black_model'
+  - '#caps_and_floors'
+  - '#derivative_pricing'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#interest_rate_swaps'
+  - '#no_arbitrage_pricing'
+  - '#risk_neutral_valuation'
+  - '#swaptions'
+  - '#term_structure'
+---
 # **Introduction**
 
 In modern financial theory, **no-arbitrage pricing** and **risk-neutral valuation** form the cornerstone for valuing derivative instruments. _No-arbitrage_ means there are no opportunities to make a riskless profit with zero net investment – put simply, markets adjust so that no “free lunch” is possible . Under this principle, the price of any financial instrument is constrained by the _law of one price_: two portfolios with identical future payoffs must have the same current price. The **fundamental theorem of asset pricing** formalizes this: a market is arbitrage-free if and only if there exists at least one **risk-neutral probability measure** (also called an equivalent martingale measure) under which discounted asset prices follow a martingale (have _fair game_ expected changes) . Intuitively, a _risk-neutral measure_ is a set of probabilities such that all assets earn the risk-free rate $r$ – investors are “indifferent to risk” under this measure, so expected returns in the pricing model equal $r$. Pricing derivatives in an arbitrage-free market can thus be done by taking _expected payoffs under the risk-neutral probabilities and discounting at the risk-free rate_. This is the essence of **risk-neutral pricing** .

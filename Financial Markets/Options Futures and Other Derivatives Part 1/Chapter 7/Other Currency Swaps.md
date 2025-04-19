@@ -1,3 +1,14 @@
+---
+tags:
+  - '#currency_exchange_rates'
+  - '#currency_swaps'
+  - '#fixed_for_floating_swap'
+  - '#floating_for_floating_swap'
+  - '#interest_rate_exchange'
+  - '#notional_principal'
+  - '#risk_free_rate'
+  - '#swap_valuation'
+---
 # 7.10 OTHER CURRENCY SWAPS  
 
 Two other popular currency swaps are:  

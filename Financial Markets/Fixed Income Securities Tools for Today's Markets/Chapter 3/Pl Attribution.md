@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#carry_roll_down'
+  - '#cash_carry'
+  - '#convexity'
+  - '#duration'
+  - '#fixed_income'
+  - '#interest_rate_risk'
+  - '#p_and_l_attribution'
+  - '#term_structure'
+---
 # 3.8 P&L ATTRIBUTION  
 
 As mentioned earlier, breaking down P&L or return into component parts is extremely useful for understanding how money is being made or lost in a trading book or investment portfolio. In addition, attribution reports can often catch errors of many sorts (e.g., buying or selling the wrong bond; buying instead of selling or vice versa; incorrect market or position data feeds).  

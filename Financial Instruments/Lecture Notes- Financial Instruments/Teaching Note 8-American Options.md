@@ -1,11 +1,19 @@
 ---
 aliases:
-- LECTURE NOTE 8 AMERICAN OPTIONS
-- 
-- 
-tags:
-- 
+  - LECTURE NOTE 8 AMERICAN OPTIONS
+  - 
+  - 
 title: Teaching Note 8-American Options
+tags:
+  - '#american_options'
+  - '#binomial_trees'
+  - '#dividend_rules'
+  - '#dynamic_replication'
+  - '#early_exercise'
+  - '#multi_step_trees'
+  - '#no_arbitrage_bounds'
+  - '#option_pricing'
+  - '#spy_options'
 ---
 # Teaching Note 8-American Options
 

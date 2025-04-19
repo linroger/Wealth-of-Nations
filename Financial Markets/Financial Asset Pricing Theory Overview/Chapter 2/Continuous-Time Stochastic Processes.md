@@ -1,3 +1,16 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#diffusion_processes'
+  - '#financial_modeling'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#ito_process'
+  - '#jump_processes'
+  - '#stochastic_integrals'
+  - '#stochastic_processes'
+  - '#wiener_process'
+---
 # 2.6 Continuous-time stochastic processes  
 
 # 2.6.1 Brownian motions  

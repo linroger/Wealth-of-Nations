@@ -1,3 +1,12 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#binomial_framework'
+  - '#continuous_time'
+  - '#option_prices'
+  - '#pure_assets'
+  - '#state_contingent_claims'
+---
 # CHAPTER 29 Option Prices and the Prices of State-Contingent Claims 513
 
 29.1 Pure Assets in the Market 514

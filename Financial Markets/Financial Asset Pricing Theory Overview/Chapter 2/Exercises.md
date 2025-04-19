@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#asset_returns'
+  - '#brownian_motion'
+  - '#geometric_brownian_motion'
+  - '#law_of_iterated_expectations'
+  - '#ordinary_differential_equation'
+  - '#return_variance'
+  - '#stochastic_process'
+  - '#two_period_economy'
+---
 # 2.8 Exercises  
 
 EXERCISE 2.1 In the two-period economy illustrated in Figures 2.1 and 2.2 consider an asset paying a dividend at time 2 given by  

@@ -1,10 +1,19 @@
 ---
 aliases:
-- Interest Rates, Carry Trades, and Exchange Rate Movements.md
-- Interest Rates, Carry Trades, and Exchange Rate Movements.md
-tags:
-- 
+  - Interest Rates, Carry Trades, and Exchange Rate Movements.md
+  - Interest Rates, Carry Trades, and Exchange Rate Movements.md
 title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
+tags:
+  - '#carry_trade'
+  - '#covered_interest_parity'
+  - '#exchange_rate_movements'
+  - '#forward_premium_puzzle'
+  - '#funding_currency'
+  - '#interest_rate_differentials'
+  - '#market_turnover'
+  - '#target_currency'
+  - '#uncovered_interest_parity'
+  - '#yen_carry_trade'
 ---
 # Interest Rates, Carry Trades, and Exchange Rate Movements
 

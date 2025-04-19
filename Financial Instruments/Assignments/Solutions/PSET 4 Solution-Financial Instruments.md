@@ -1,12 +1,21 @@
 ---
 aliases:
-- PSET 4 Solution Financial instruments
-- 
-- 
+  - PSET 4 Solution Financial instruments
+  - 
+  - 
 linter-yaml-title-alias: PSET 4 Solution Financial instruments
-tags:
-- 
 title: PSET 4 Solution Financial instruments
+tags:
+  - '#binomial_trees'
+  - '#capm'
+  - '#fda_drug_approval'
+  - '#financial_instruments'
+  - '#leeson_barings'
+  - '#nikkei_options'
+  - '#option_pricing'
+  - '#put_call_parity'
+  - '#risk_neutral_probability'
+  - '#short_straddle'
 ---
 ---
 

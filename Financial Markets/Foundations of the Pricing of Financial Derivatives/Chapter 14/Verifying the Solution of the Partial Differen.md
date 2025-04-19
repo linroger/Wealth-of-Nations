@@ -1,3 +1,14 @@
+---
+tags:
+  - '#abm_model'
+  - '#arithmetic_brownian_motion'
+  - '#black_scholes_merton_formula'
+  - '#boundary_conditions'
+  - '#geometric_drift'
+  - '#model_validation'
+  - '#nonnegativity_constraints'
+  - '#partial_differential_equation'
+---
 # 14.4 VERIFYING THE SOLUTION OF THE PARTIAL DIFFERENTIAL EQUATION
 
 Now that we have the three necessary partial derivatives--Equations (14.18), (14.19), and (14.23)-we can substitute them into Equation (14.2):

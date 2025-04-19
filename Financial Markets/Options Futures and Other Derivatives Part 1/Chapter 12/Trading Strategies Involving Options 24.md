@@ -1,3 +1,13 @@
+---
+tags:
+  - '#option_combinations'
+  - '#option_payoffs'
+  - '#option_spreads'
+  - '#option_underlying_asset'
+  - '#options_trading'
+  - '#principal_protected_notes'
+  - '#trading_strategies'
+---
 # Chapter 12. Trading strategies involving options ... 246  
 
 12.1 Principal-protected notes. 246   

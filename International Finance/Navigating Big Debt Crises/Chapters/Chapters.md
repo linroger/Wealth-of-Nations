@@ -1,7 +1,8 @@
 ---
 title: Chapters
-aliases: 
-tags: 
+aliases:
 cssclasses: academia
+tags:
+  - '#chapters'
 ---
 # Chapters

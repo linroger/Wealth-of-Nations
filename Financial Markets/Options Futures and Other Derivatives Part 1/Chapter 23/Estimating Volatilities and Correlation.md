@@ -1,3 +1,13 @@
+---
+tags:
+  - '#correlation_analysis'
+  - '#exponentially_weighted_moving_average'
+  - '#garch_1_1_model'
+  - '#maximum_likelihood_methods'
+  - '#model_comparison'
+  - '#volatility_estimation'
+  - '#volatility_forecasting'
+---
 # Chapter 23. Estimating volatilities and correlations .520  
 
 23.1 Estimating volatility .520   

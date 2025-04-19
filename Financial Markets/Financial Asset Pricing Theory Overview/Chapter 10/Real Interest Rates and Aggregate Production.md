@@ -1,3 +1,15 @@
+---
+tags:
+  - '#aggregate_production'
+  - '#brownian_motion'
+  - '#expected_real_growth_rate'
+  - '#general_equilibrium_model'
+  - '#market_clearing'
+  - '#real_interest_rates'
+  - '#representative_individual'
+  - '#risk_free_interest_rate'
+  - '#state_variable'
+---
 # 10.4 Real interest rates and aggregate production  
 
 In order to study the relation between interest rates and production, we will look at a slightly simplified version of the general equilibrium model of Cox, Ingersoll, and Ross (1985a).  

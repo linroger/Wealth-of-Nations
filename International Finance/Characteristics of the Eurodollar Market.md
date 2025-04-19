@@ -1,19 +1,20 @@
 ---
-aliases: 
-tags:
-  - "#eurocurrency-markets"
-  - "#international-finance"
-  - "#capital-flows-management"
-  - "#financial-instruments"
-  - "#global-capital-markets"
-  - "#eurodollar-market"
-  - "#eurobond-market"
-  - "#cross-border-banking"
+aliases:
 cssclasses:
   - academia
 title: Characteristics of the Eurodollar Market
+tags:
+  - '#banking_regulations'
+  - '#bond_issuance'
+  - '#eurobonds'
+  - '#eurocurrency_market'
+  - '#eurodollar_market'
+  - '#international_capital_market'
+  - '#international_money_market'
+  - '#libor'
+  - '#market_participants'
+  - '#offshore_markets'
 ---
-
 # Characteristics of the Eurodollar Market
 ## THE EUROCURRENCY MARKET
 

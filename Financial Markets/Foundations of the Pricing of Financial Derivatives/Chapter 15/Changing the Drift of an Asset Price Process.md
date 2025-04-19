@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_price_process'
+  - '#discounted_asset_price'
+  - '#ito_lemma'
+  - '#martingale'
+  - '#option_pricing'
+  - '#probability_measure'
+  - '#risk_free_rate'
+  - '#risk_neutral_pricing'
+  - '#risk_premium'
+  - '#stochastic_differential_equation'
+---
 # 15.6 CHANGING THE DRIFT OF AN ASSET PRICE PROCESS
 
 We previously obtained the familiar stochastic process for an asset:

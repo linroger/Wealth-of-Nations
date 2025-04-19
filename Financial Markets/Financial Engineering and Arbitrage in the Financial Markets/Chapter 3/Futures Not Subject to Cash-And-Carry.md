@@ -1,3 +1,16 @@
+---
+tags:
+  - '#backwardation'
+  - '#commodity_markets'
+  - '#contango'
+  - '#convenience_yield'
+  - '#cost_of_carry'
+  - '#financial_assets'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#speculation'
+  - '#spot_prices'
+---
 # 3.4  FUTURES NOT SUBJECT TO CASH-AND-CARRY  
 
 Assets like stocks, fixed income instruments, and currencies are examples of pure financial assets. As they are claims on real assets and are held purely for investment purposes, investors are indifferent to holding these assets or claims on them. For example, stock investors are rarely interested in seeing stock certificates; what matters to them is that they receive dividends and are able to sell their holdings on demand. Bond investors want coupon and principal cash flow. Currencies are held for their purchasing power and can be substituted for by checks, debit,. or credit cards. Because investors do not hold pure financial assets for their physical qualities but for their qualities as claims on income, they are held long as a store of wealth and easily substitutable by many investors. They are not subject to restrictions on short sales, and both cash-and-carry and reverse cash-and-carry strategies are executable and almost at the same cost. This is most obvious with currencies where a purchase of one currency automatically means a sale of another. For pure financial assets, the general form of the fair value equation includes the cost of financing (paid carry) net of any received carry, such as (coupon) interest. or dividends.  

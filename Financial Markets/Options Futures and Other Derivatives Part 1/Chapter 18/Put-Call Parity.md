@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_futures_options'
+  - '#call_option'
+  - '#european_options'
+  - '#futures_options'
+  - '#futures_price'
+  - '#put_call_parity'
+  - '#put_option'
+  - '#risk_free_rate'
+---
 # 18.4 PUT-CALL PARITY  
 
 In Chapter 11, we derived a put-call parity relationship for European stock options. We now consider a similar argument to derive a put-call parity relationship for European futures options. Consider European futures call and put options, both with strike price $K$ and time to expiration $T.$ We can form two portfolios:  

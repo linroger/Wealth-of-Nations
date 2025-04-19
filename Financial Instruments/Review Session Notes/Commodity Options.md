@@ -1,12 +1,21 @@
 ---
 aliases:
-- COMMODITY OPTIONS
-- 
-- 
+  - COMMODITY OPTIONS
+  - 
+  - 
 linter-yaml-title-alias: COMMODITY OPTIONS
-tags:
-- 
 title: COMMODITY OPTIONS
+tags:
+  - '#call_option'
+  - '#collar_strategy'
+  - '#commodity_options'
+  - '#commodity_price_hedging'
+  - '#hedge_percentage'
+  - '#implicit_short_position'
+  - '#jet_fuel_price'
+  - '#options_strategy'
+  - '#put_option'
+  - '#zero_cost_collar'
 ---
 # COMMODITY OPTIONS
 ## 1. COMMODITY PRICE HEDGING USING OPTIONS

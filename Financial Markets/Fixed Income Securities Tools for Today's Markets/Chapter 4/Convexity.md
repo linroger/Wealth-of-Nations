@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_duration'
+  - '#convexity'
+  - '#dv01'
+  - '#negative_convexity'
+  - '#portfolio_convexity'
+  - '#positive_convexity'
+  - '#price_rate_curve'
+  - '#second_order_approximation'
+---
 # 4.5 CONVEXITY  
 
 As can be seen from the tangent lines in Figure 4.3, the interest rate sensitivity. of a bond falls as rates increase. Making this point more directly, Figure 4.4. graphs the DV01 of the Treasury 1.625s of 11/15/2050, a 29.5-year bond,. and of the Treasury 1.625s of 05/15/2026, a five-year bond. DV01 falls as rates increase, but the rate of decline is much faster for the 29.5-year bond than for the five-year bond..  

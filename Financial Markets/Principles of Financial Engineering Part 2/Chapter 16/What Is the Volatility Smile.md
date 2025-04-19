@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes'
+  - '#butterfly_spread'
+  - '#equity_indices'
+  - '#fx_markets'
+  - '#implied_volatility'
+  - '#moneyness'
+  - '#option_delta'
+  - '#option_pricing'
+  - '#risk_reversals'
+  - '#volatility_smile'
+---
 # 16.11 WHAT IS THE VOLATILITY SMILE?  
 
 Consider the Black-Scholes world with vanilla European call and put options written on the equity price (index), $S_{t},$ that expire on the same date $T.$ Let $K_{i}$ denote the ith strike of the option series and $\sigma_{i}$ the constant Black-Scholes instantaneous (implied) volatility coefficient for the strike $K_{i}$ Finally, let $r$ be the constant risk-free rate.  

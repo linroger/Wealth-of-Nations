@@ -1,3 +1,13 @@
+---
+tags:
+  - '#arbitrage_opportunity'
+  - '#call_option_valuation'
+  - '#derivative_pricing'
+  - '#economic_scenarios'
+  - '#option_payoff'
+  - '#option_price_determination'
+  - '#risk_free_asset'
+---
 # 6.5 A FIRST LOOK AT VALUING OPTIONS
 
 Let us now create a different kind of derivative, a call option. We use the same example where the asset is priced at 70 and can go up to 100 with. $60\%$ probability or down to 50 with $40\%$ probability. Suppose someone tells you that if you will give them some money. today, you will acquire the right to buy the asset at 75 one period later but are not obliged to do so. Let us determine how much money you would need to pay to acquire that right.

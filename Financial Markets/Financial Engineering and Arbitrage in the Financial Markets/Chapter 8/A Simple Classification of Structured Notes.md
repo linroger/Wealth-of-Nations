@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_class_linked_notes'
+  - '#catastrophe_bonds'
+  - '#currency_linked_notes'
+  - '#economic_variable_notes'
+  - '#equity_linked_notes'
+  - '#financial_instruments'
+  - '#interest_rate_risk'
+  - '#issuer_credit_risk'
+  - '#risk_management'
+  - '#structured_notes'
+---
 # 8.1  A SIMPLE CLASSIFICATION OF STRUCTURED NOTES  
 
 According to Wikipedia, the US Securities and Exchange Commission (SEC) Rule 434 defines structured securities as "securities whose cash flow characteristics depend upon one or more indices or that have embedded forwards or options or securities where an investor's investment. return and the issuer's payment obligations are contingent on, or highly sensitive to, changes in the value of underlying assets, indices, interest rates, or cash flows."' The main characteristic of structured products is that they are created to meet specific needs that cannot be met from the standardized financial instruments available in the markets (like stocks and bonds). Many structured notes have implicit options embedded in them (contingent payout that depends on market movements). Yet while retail brokerage customers in the USA have to go through a stringent option-trading approval process, they can buy structured notes in their accounts as easily as any other bonds. Also, some structured notes or deposits are advertised with a "principal protected' label. The "protected' label refers to the fact that the payout formula may affect only the coupon, not the fact that the issuer or deposit holding bank may not default.  

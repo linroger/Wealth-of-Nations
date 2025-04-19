@@ -1,13 +1,21 @@
 ---
 aliases:
-- The Credit Crisis-Conjectures About Causes And Remedies
-- The Credit Crisis-Conjectures About Causes And Remedies.md
-- 'The Credit Crisis: Conjectures About Causes And Remedies'
+  - The Credit Crisis-Conjectures About Causes And Remedies
+  - The Credit Crisis-Conjectures About Causes And Remedies.md
+  - 'The Credit Crisis: Conjectures About Causes And Remedies'
 linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
-tags:
-- 
-- 
 title: 'The Credit Crisis: Conjectures About Causes And Remedies'
+tags:
+  - '#bank_liquidity'
+  - '#credit_crisis'
+  - '#credit_crunch'
+  - '#federal_reserve'
+  - '#financial_crisis_causes'
+  - '#financial_crisis_remedies'
+  - '#mortgage_backed_securities'
+  - '#regulatory_capital'
+  - '#securitization'
+  - '#short_term_debt'
 ---
 # The Credit Crisis-Conjectures About Causes And Remedies
 

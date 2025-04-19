@@ -1,11 +1,21 @@
 ---
 aliases:
-- Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy.md
-- Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy
+  - Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
+    Debt]] Outside Bankruptcy.md
+  - Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
+    Debt]] Outside Bankruptcy
+title: Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring
+  Debt]] Outside Bankruptcy
 tags:
-- 
-- 
-title: Class Note 4 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]] Outside Bankruptcy
+  - '#bank_debt'
+  - '#bankruptcy_costs'
+  - '#covenants'
+  - '#debt_seniority'
+  - '#debt_structure'
+  - '#going_concern'
+  - '#outside_bankruptcy'
+  - '#public_debt_renegotiation'
+  - '#value_at_risk'
 ---
 [[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt]]
 

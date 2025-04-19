@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#arbitrage'
+  - '#binomial_framework'
+  - '#binomial_model'
+  - '#early_exercise'
+  - '#multiperiod_model'
+  - '#one_period_binomial_model'
+  - '#pascal_triangle'
+  - '#path_dependence'
+  - '#path_independence'
+---
 # CHAPTER 7 The Binomial Model
 
 143

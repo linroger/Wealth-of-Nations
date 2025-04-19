@@ -1,3 +1,14 @@
+---
+tags:
+  - '#assets'
+  - '#banking'
+  - '#debt'
+  - '#derivatives'
+  - '#financial_institutions'
+  - '#financial_markets'
+  - '#intermediation'
+  - '#liquidity'
+---
 __MASK_7_6__
 
 # Financial Markets and Institutions

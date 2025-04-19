@@ -1,18 +1,26 @@
 ---
 aliases:
-- "When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007\u2013\
-  2009"
-- When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis of
-  2007 2009. md
-- When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis
-  of 2007 2009
-linter-yaml-title-alias: "When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] During the Financial\
-  \ Crisis of 2007\u20132009"
+  - 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+    Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
+  - When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+    Paper|Commercial Paper]] During the Financial Crisis of 2007 2009. md
+  - When Safe Proved Risky [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+    Paper|Commercial Paper]] During the Financial Crisis of 2007 2009
+linter-yaml-title-alias: 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class
+  Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
+title: 'When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 –
+  Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007–2009'
 tags:
-- 
-- 
-title: "When Safe Proved Risky: [[Class Note 12 – Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] During the Financial Crisis of 2007\u2013\
-  2009"
+  - '#asset_backed_commercial_paper'
+  - '#commercial_paper'
+  - '#federal_reserve'
+  - '#financial_crisis_2007_2009'
+  - '#financial_regulation'
+  - '#lehman_brothers_bankruptcy'
+  - '#liquidity_crisis'
+  - '#market_intervention'
+  - '#money_market_funds'
+  - '#roll_over_risk'
 ---
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
 

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#equilibrium_swap_rate'
+  - '#interest_rate_swaps'
+  - '#one_period_rate'
+  - '#present_value'
+  - '#swap_payments'
+  - '#swap_valuation'
+  - '#zero_coupon_bonds'
+---
 # 28.7 INTEREST RATE SWAPS
 
 Let us price and value a swap that expires at time 2 in which the underlying is the one-period rate. We shall now need to create the tree of one-period add-on rates. In the previous section covering FRAs, we showed how the one-period continuously compounded rate converts to the add-on rate, but FRAs have only one payment so we did not need the entire tree. Swaps have multiple payments, so we do need the full tree. Following the conversion procedure as we did in the previous section, we obtain Figure 28.8.

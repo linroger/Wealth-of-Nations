@@ -1,3 +1,15 @@
+---
+tags:
+  - '#constant_proportion_debt_obligation'
+  - '#constant_proportion_portfolio_insurance'
+  - '#cpdo_vs_cppi'
+  - '#credit_indices'
+  - '#global_financial_crisis'
+  - '#leverage'
+  - '#portfolio_rebalancing'
+  - '#principal_protection'
+  - '#risk_management'
+---
 # 23.6 DIFFERENCES BETWEEN CPDO AND CPPI  
 
 One of the more recent structured products that is sometimes described as sharing similarities with CPPI is called constant proportion debt obligation (CPDO). However, the two structures are very.   

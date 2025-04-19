@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_pricing'
+  - '#dv01'
+  - '#hedging'
+  - '#hqm_par_rate_curve'
+  - '#key_rate_duration'
+  - '#key_rate_shifts'
+  - '#par_rate_curve'
+  - '#term_structure'
+---
 # 5.3 KEY RATES: SHIFTS  
 
 The next section applies key-rate metrics and hedging to the problem of the.   

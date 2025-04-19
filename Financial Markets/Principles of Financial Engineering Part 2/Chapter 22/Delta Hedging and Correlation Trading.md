@@ -1,3 +1,16 @@
+---
+tags:
+  - '#correlation_trading'
+  - '#default_correlation'
+  - '#delta_hedging'
+  - '#dynamic_delta_hedging'
+  - '#equity_tranche'
+  - '#gamma_sensitivity'
+  - '#hedge_ratio'
+  - '#index_spread'
+  - '#mezzanine_tranche'
+  - '#tranche_spreads'
+---
 # 22.5 DELTA HEDGING AND CORRELATION TRADING  
 
 The delta is the sensitivity of the individual tranche spreads toward movements in the underlying index, $I_{t}$  

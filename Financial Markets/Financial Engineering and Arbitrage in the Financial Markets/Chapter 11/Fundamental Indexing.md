@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cap_weighting'
+  - '#dividend_weighting'
+  - '#equal_weighting'
+  - '#etf'
+  - '#fundamental_indexing'
+  - '#index_funds'
+  - '#market_portfolio'
+  - '#portfolio_rebalancing'
+  - '#risk_factors'
+  - '#tactical_asset_allocation'
+---
 # 11.5 FUNDAMENTAL INDEXING  
 
 The last 10 years have ushered in a new trend in indexing. Instead of the traditional selfrebalancing cap weighting model, several funds shifted to alternatives in designing their. diversified portfolios. In general, the use of any stock-weighting method other than cap-. weighting is called fundamental indexing. The two most popular of these schemes are equal weighting and dividend weighting, followed by earnings, revenues, free cash flows, book equity, and composites thereof. Why is there such an interest?.  

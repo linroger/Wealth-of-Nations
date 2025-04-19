@@ -1,11 +1,19 @@
 ---
 aliases:
-- The Economist Margin Call of the Wild
-- The Economist Margin Call of the Wild.md
-tags:
-- 
-- 
+  - The Economist Margin Call of the Wild
+  - The Economist Margin Call of the Wild.md
 title: The Economist Margin Call of the Wild
+tags:
+  - '#archegos_capital_management'
+  - '#bill_hwang'
+  - '#credit_suisse'
+  - '#family_office'
+  - '#financial_markets'
+  - '#leverage'
+  - '#long_short_equity'
+  - '#margin_call'
+  - '#nomura'
+  - '#wall_street'
 ---
 # The Economist Margin Call of the Wild
 

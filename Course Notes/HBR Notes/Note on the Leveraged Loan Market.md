@@ -5,12 +5,17 @@ Owner: RRoger Lin
 aliases:
   - 
   - 
-tags:
-  - Primers/Notes
-
 title: Note on the Leveraged Loan Market
+tags:
+  - '#collateralized_loan_obligations_clos'
+  - '#credit_market_cycles'
+  - '#information_asymmetry'
+  - '#institutional_investors'
+  - '#leveraged_loans'
+  - '#loan_issuance'
+  - '#loan_market_dynamics'
+  - '#loan_syndication'
 ---
-
 # Note on the Leveraged Loan Market
 
 [[Notes- Contemporary Financial Intermediation]]

@@ -1,12 +1,21 @@
 ---
 aliases:
-- PSET 5 Financial Instruments
-- 
-- 
+  - PSET 5 Financial Instruments
+  - 
+  - 
 linter-yaml-title-alias: PSET 5 Financial Instruments
-tags:
-- 
 title: PSET 5 Financial Instruments
+tags:
+  - '#binomial_tree'
+  - '#black_scholes_model'
+  - '#convexity'
+  - '#delta_hedging'
+  - '#dividend_yield'
+  - '#financial_instruments'
+  - '#option_payoff'
+  - '#option_pricing'
+  - '#put_option'
+  - '#replicating_portfolio'
 ---
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_price_fluctuations'
+  - '#asset_price_modeling'
+  - '#dividends'
+  - '#holding_period_returns'
+  - '#market_volatility'
+  - '#risk_and_return'
+  - '#sp_500_index'
+  - '#spy_etf'
+  - '#stock_prices'
+  - '#wiener_process'
+---
 # 10.3 PROPERTIES OF A MODEL OF ASSET PRICE FLUCTUATIONS
 
 We know that asset price fluctuations have several important characteristics. First, over. the long run, asset prices typically go up, especially in the case of a stock, which is what we mostly model. They are said to "drift." This upward movement or drift represents the return from bearing risk. The Wiener process contains no drift, but as we show later, it is easy to make it drift either upward or even downward..

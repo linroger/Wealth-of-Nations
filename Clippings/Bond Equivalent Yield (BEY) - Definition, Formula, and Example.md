@@ -1,9 +1,17 @@
 ---
-title: "Bond Equivalent Yield (BEY) - Definition, Formula, and Example"
-source: "https://www.investopedia.com/terms/b/bey.asp"
-description: "The bond equivalent yield is a calculation for restating semi-annual, quarterly, or monthly discount-bond or note yields into an annual yield."
+title: Bond Equivalent Yield (BEY) - Definition, Formula, and Example
+source: https://www.investopedia.com/terms/b/bey.asp
+description: The bond equivalent yield is a calculation for restating semi-annual,
+  quarterly, or monthly discount-bond or note yields into an annual yield.
 tags:
-  - "clippings"
+  - '#bey_formula'
+  - '#bond_equivalent_yield'
+  - '#bond_investing'
+  - '#bond_yield_calculation'
+  - '#discounted_bonds'
+  - '#financial_metrics'
+  - '#fixed_income_securities'
+  - '#zero_coupon_bonds'
 ---
 ## What Is the Bond Equivalent Yield?
 

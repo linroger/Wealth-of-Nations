@@ -1,3 +1,15 @@
+---
+tags:
+  - '#base_correlation'
+  - '#cds_spreads'
+  - '#compound_correlation'
+  - '#dispersion_effect'
+  - '#equity_tranche'
+  - '#mezzanine_tranche'
+  - '#senior_tranche'
+  - '#time_effect'
+  - '#tranche_spreads'
+---
 # 22.6 REAL-WORLD COMPLICATIONS  
 
 The discussion of how to model and value tranche spreads has been a very simplified one. Realworld trading has several complications and also requires further modeling effort. Several additional questions also need to be addressed. We briefly discuss them below..  

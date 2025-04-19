@@ -1,3 +1,12 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_merton'
+  - '#convergence'
+  - '#dividends'
+  - '#put_call_parity'
+  - '#put_options'
+---
 # 9.3 PUT OPTIONS
 
 Based on put-call parity, we have

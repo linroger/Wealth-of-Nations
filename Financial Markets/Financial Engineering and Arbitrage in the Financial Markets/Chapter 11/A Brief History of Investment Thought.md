@@ -1,3 +1,16 @@
+---
+tags:
+  - '#active_investing'
+  - '#algorithmic_trading'
+  - '#behavioral_finance'
+  - '#efficient_market_hypothesis'
+  - '#factor_models'
+  - '#index_modeling'
+  - '#investment_history'
+  - '#portfolio_theory'
+  - '#risk_factors'
+  - '#value_investing'
+---
 # 11.1 A BRIEF HISTORY OF INVESTMENT THOUGHT  
 
 In February 1637, a single bulb of a tulip sold for 10 times the annual wage of a skilled artisan. In 1720, investors in the South Sea Company - a chartered monopolist in the trade with the. Western Hemisphere - lost huge amounts amount of money as the company failed. Japanese investors bought the Rockefeller Center in New York for. $\$1$ billion in 1990. In 1995, the Rockefeller Center went bankrupt and sold for. $\$0.5$ billion. Apple Computer traded at $\$13$ in 1996, got up to $\$101.25$ and split 2-for-1 at the height of the tech bubble in June 2000,. then dropped back to $\$14$ in 2002. Then the near dead company reinvented itself with its. revolutionary iPhone, iPad, on-line music, and video delivery. The stock closed at $\$348.48$ on January 14, 2011.  

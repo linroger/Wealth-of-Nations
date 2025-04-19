@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_formula'
+  - '#black_scholes_merton_model'
+  - '#dividends'
+  - '#implied_volatilities'
+  - '#rate_of_return'
+  - '#risk_neutral_valuation'
+  - '#stock_prices'
+  - '#volatility'
+  - '#warrants_and_employee_stock_options'
+---
 # Chapter 15. The Black-Scholes-Merton model. .316  
 
 15.1 Lognormal property of stock prices . 317   

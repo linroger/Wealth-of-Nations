@@ -1,3 +1,13 @@
+---
+tags:
+  - '#arbitrage_pricing_theory'
+  - '#capital_asset_pricing_model'
+  - '#discounted_cash_flow'
+  - '#dividend_discount_model'
+  - '#equity_valuation'
+  - '#real_world_probability'
+  - '#risk_adjusted_discount_rate'
+---
 # 19.3 EQUITY AS THE DISCOUNTED VALUE OF FUTURE CASH FLOWS  
 
 The traditional approach before option pricing models were developed was to view equity as the present discounted value of cash flows to equity holder. The stock or share prices corresponded to the equity value per share. These approaches postulate that expected future cash flows properly discounted should equal the current price. $S_{t}$ Here it is important to note that the discount rate that is. used to discount cash flows is risky and is used under the real-world probability measure. One vari-. ant of this approach is the Dividend Discount Model, for example, which takes dividends to be the. cash flows that equity holds receive..  

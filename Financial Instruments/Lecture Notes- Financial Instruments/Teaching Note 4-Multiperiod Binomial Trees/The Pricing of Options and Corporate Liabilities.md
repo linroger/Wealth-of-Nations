@@ -1,14 +1,21 @@
 ---
 Owner: RRoger Lin
 aliases:
-- 
-- 
-- THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
+  - 
+  - 
+  - THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
-tags:
-- Papers
-- 
 title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
+tags:
+  - '#american_options'
+  - '#black_scholes_model'
+  - '#bond_valuation'
+  - '#capital_asset_pricing_model'
+  - '#corporate_liabilities'
+  - '#default_risk'
+  - '#european_options'
+  - '#option_pricing'
+  - '#warrant_valuation'
 ---
 # The Pricing of Options and Corporate Liabilities
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basis_risk'
+  - '#cme_nymex'
+  - '#commodity_futures'
+  - '#contract_months'
+  - '#crude_oil_futures'
+  - '#futures_contract_specifications'
+  - '#hedging'
+  - '#liquidity'
+  - '#wti_crude_oil'
+---
 # 7.2 PARAMETERS OF A FUTURES CONTRACT  
 
 To broaden the examination of futures and forwards, in this section, we concentrate on commodities that are generally traded via futures contracts on organized exchanges. Thus, in contrast to. currency markets, exchange traded commodity futures are more liquid than OTC commodity. forwards.  

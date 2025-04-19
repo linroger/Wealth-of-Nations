@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_pricing'
+  - '#bootstrap_method'
+  - '#continuous_compounding'
+  - '#coupon_bonds'
+  - '#interpolation'
+  - '#spline_function'
+  - '#zero_curve'
+  - '#zero_rates'
+---
 # 4.7 DETERMINING ZERO RATES  
 
 In this section we describe a procedure known as the bootstrap method which can be used to determine zero rates.  

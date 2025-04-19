@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#black_scholes_merton_equation'
+  - '#boundary_conditions'
+  - '#derivative_pricing'
+  - '#european_options'
+  - '#forward_contract'
+  - '#perpetual_derivative'
+  - '#risk_free_interest_rate'
+---
 # 15.6 DERIVATION OF THE BLACK-SCHOLES-MERTONDIFFERENTIAL EQUATION  
 
 In this section, the notation is different from elsewhere in the book. We consider a derivative's price at a general time $t$ (not at time zero). If $T$ is the maturity date, the time to maturity is $T-t$  

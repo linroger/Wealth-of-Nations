@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#correlation_coefficient'
+  - '#dynamic_hedging'
+  - '#foreign_exchange_risk'
+  - '#fundamental_theorem'
+  - '#partial_differential_equations'
+  - '#quanto_pricing'
+  - '#quantos'
+---
 # 13.4 APPLICATION 3: QUANTOS  
 
 The first two examples of the application of the fundamental theorem shown thus far were essen-.   

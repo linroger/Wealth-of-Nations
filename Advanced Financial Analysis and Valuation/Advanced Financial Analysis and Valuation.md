@@ -1,11 +1,14 @@
 ---
 cssclasses: academia
 title: Advanced Financial Analysis and Valuation
-aliases: [ADVANCED FINANCIAL ANALYSIS AND VALUATION]
+aliases:
+  - ADVANCED FINANCIAL ANALYSIS AND VALUATION
 linter-yaml-title-alias: ADVANCED FINANCIAL ANALYSIS AND VALUATION
-tags: Advanced-Financial-Analysis-and-Valuation
+tags:
+  - '#advanced_financial_analysis'
+  - '#financial_analysis'
+  - '#valuation'
 ---
-
 # Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

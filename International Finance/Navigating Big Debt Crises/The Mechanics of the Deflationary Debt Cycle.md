@@ -1,10 +1,19 @@
 ---
 title: The Mechanics of the Deflationary Debt Cycle
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#asset_bubbles'
+  - '#beautiful_deleveraging'
+  - '#debt_defaults'
+  - '#debt_driven_booms_and_busts'
+  - '#deflationary_debt_cycle'
+  - '#economic_downturn'
+  - '#fiscal_stimulus'
+  - '#goldilocks_period'
+  - '#monetary_policy'
+  - '#pushing_on_a_string'
 ---
-
 # The Mechanics of the Deflationary Debt Cycle
 
 1. **The Mechanics of the Deflationary Debt Cycle:** This section explores the [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] nature of debt-driven booms and busts,  examining the cause-and-effect relationships that propel each phase. The [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]] nature of these phases explains why they are predictable and why recognizing them and acting accordingly is critical to navigating them successfully.

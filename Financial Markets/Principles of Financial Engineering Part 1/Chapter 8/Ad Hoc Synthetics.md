@@ -1,3 +1,15 @@
+---
+tags:
+  - '#ad_hoc_solutions'
+  - '#duration_matching'
+  - '#dynamic_replication'
+  - '#first_order_sensitivities'
+  - '#fixed_income_portfolio'
+  - '#immunization_strategy'
+  - '#portfolio_weights'
+  - '#synthetic_instruments'
+  - '#yield_curve_shifts'
+---
 # 8.4 "AD HOC" SYNTHETICS  
 
 Then how can we replicate the two-period bond? There are several answers to this question, depending on the level of accuracy a financial engineer expects from the "synthetic." An accurate synthetic requires dynamic replication which will be discussed later in this chapter. But, there are also less accurate, ad hoc, solutions. As an example, we consider a simple, yet quite popular way of creating synthetic instruments in the fixed income sector, referred to as the immunization strategy.  

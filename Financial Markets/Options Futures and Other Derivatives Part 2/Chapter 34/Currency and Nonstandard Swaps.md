@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cross_currency_interest_rate_swap'
+  - '#currency_swaps'
+  - '#diff_swap'
+  - '#differential_swap'
+  - '#fixed_for_fixed_currency_swap'
+  - '#floating_for_floating_currency_swap'
+  - '#forward_rates'
+  - '#quanto_adjustment'
+  - '#usd_gbp'
+---
 # 34.3 CURRENCY AND NONSTANDARD SWAPS  
 
 Currency swaps were introduced in Chapter 7. They enable an interest rate exposure in. one currency to be swapped for an interest rate exposure in another currency. Usually two principals are specified, one in each currency. The principals are exchanged at both the beginning and the end of the life of the swap as described in Section 7.7..  

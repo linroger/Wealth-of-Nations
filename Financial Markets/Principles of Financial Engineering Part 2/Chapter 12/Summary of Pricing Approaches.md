@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_argument'
+  - '#fair_market_price'
+  - '#financial_instruments'
+  - '#hedging'
+  - '#new_product_creation'
+  - '#pricing_approaches'
+  - '#replicating_portfolio'
+  - '#risk_management'
+  - '#synthetic_instruments'
+---
 # 12.2 SUMMARY OF PRICING APPROACHES  
 
 In this section, we remind the reader of some important issues from earlier chapters. Suppose we. want to find the fair market price of an instrument. First, we construct a synthetic equivalent to this instrument using liquid contracts that trade in financial markets. Clearly, this requires that such contracts are indeed available. Second, once these liquid contracts are found, an arbitrage argument. is used. The cost of the replicating portfolio should equal the cost of the instrument we are trying. to price. Third, a trader would add a proper margin to this cost and thus obtain the fair price..  

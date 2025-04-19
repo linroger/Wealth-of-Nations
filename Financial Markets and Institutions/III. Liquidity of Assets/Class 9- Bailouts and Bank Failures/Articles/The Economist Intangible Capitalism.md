@@ -1,11 +1,18 @@
 ---
 aliases:
-- The Economist Intangible Capitalism
-- The Economist Intangible Capitalism.md
-tags:
-- 
-- 
+  - The Economist Intangible Capitalism
+  - The Economist Intangible Capitalism.md
 title: The Economist Intangible Capitalism
+tags:
+  - '#banking_system'
+  - '#cbdc'
+  - '#digital_currency'
+  - '#financial_markets'
+  - '#intangible_capitalism'
+  - '#intellectual_property'
+  - '#monetary_policy'
+  - '#silicon_valley'
+  - '#venture_capital'
 ---
 # The Economist Intangible Capitalism
 # Intangible Capitalism

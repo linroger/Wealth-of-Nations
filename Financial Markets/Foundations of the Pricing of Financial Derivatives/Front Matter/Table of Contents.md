@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bivariate_normal_distribution'
+  - '#derivative_contracts'
+  - '#financial_derivatives'
+  - '#lognormal_probability_distribution'
+  - '#option_valuation'
+  - '#probability_distributions'
+  - '#risk_neutral_pricing'
+  - '#risky_assets'
+---
 # Table of Contents - Foundations of the Pricing of Financial Derivatives
 4.1 Marginal, Conditional, and Joint Probabilities 75
 4.2 Expectations, Variances, and Covariances of Discrete Random

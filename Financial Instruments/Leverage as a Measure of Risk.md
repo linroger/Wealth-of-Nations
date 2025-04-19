@@ -1,3 +1,15 @@
+---
+tags:
+  - '#accounting_leverage'
+  - '#bucketized_risk'
+  - '#derivative_products'
+  - '#equivalent_security'
+  - '#implied_correlation'
+  - '#interest_rate_curve'
+  - '#option_pricing'
+  - '#portfolio_management'
+  - '#risk_based_leverage'
+---
 # Leverage as a Measure of Risk
 ## Summary
 Leverage is treated as a measure of risk factor sensitivity. It can be computed using the “equivalent security” approach to determine “bucketized risk”.

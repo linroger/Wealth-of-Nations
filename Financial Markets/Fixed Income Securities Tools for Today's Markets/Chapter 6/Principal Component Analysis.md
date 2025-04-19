@@ -1,3 +1,14 @@
+---
+tags:
+  - '#hedging'
+  - '#interest_rate_factors'
+  - '#principal_component_analysis'
+  - '#relative_value_trading'
+  - '#risk_management'
+  - '#term_structure'
+  - '#term_structure_models'
+  - '#usd_libor_swap_rates'
+---
 # 6.5 PRINCIPAL COMPONENT ANALYSIS  
 
 As mentioned in the introduction to this chapter, regression hedging tends.   

@@ -1,26 +1,21 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: Understanding Debt Crises and Their Management
-desc: ""
+desc: ''
 tags:
-  - debt_cycles
-  - financial_crises
-  - debt-management-strategies
-  - economic-history
-  - macroeconomic-policymaking
-  - credit-cycles
-  - deleveraging-process
-  - policy-levers
-  - "#debt-management"
-  - "#financial-crises"
-  - "#economic-theory"
-  - "#historical-analysis"
-  - "#debt-cycles"
-  - "#economic-depression"
+  - '#credit_cycles'
+  - '#debt_crises'
+  - '#debt_management'
+  - '#deflationary_depressions'
+  - '#deleveraging'
+  - '#economic_cycles'
+  - '#inflationary_depressions'
+  - '#monetary_policy'
+  - '#monopoly_analogy'
+  - '#policy_makers'
 ---
-
 # Understanding Debt Crises and Their Management
 
 **How Costly Is Bad Debt Relative to Not Having the Spending That the Debt Is Financing?**

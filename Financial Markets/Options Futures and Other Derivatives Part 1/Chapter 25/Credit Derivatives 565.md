@@ -1,3 +1,15 @@
+---
+tags:
+  - '#basket_credit_default_swaps'
+  - '#cds_valuation'
+  - '#collateralized_debt_obligations'
+  - '#correlation_in_credit_products'
+  - '#credit_default_swaps'
+  - '#credit_derivatives'
+  - '#credit_indices'
+  - '#synthetic_cdo_valuation'
+  - '#total_return_swaps'
+---
 # Chapter 25. Credit derivatives . .565  
 
 25.1 Credit default swapse. 566   

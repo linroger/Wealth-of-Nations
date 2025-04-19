@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_yield_spreads'
+  - '#credit_ratings'
+  - '#credit_risk'
+  - '#credit_risk_derivatives'
+  - '#credit_var'
+  - '#default_correlation'
+  - '#default_probabilities'
+  - '#equity_prices'
+  - '#recovery_rates'
+---
 # Chapter 24. Credit risk . 540  
 
 24.1 Credit ratings .540   

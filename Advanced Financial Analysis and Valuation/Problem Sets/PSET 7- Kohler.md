@@ -2,17 +2,18 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#finance"
-  - "#corporatefinance"
-  - "#valuation"
-  - "#dcf"
-  - "#minoritydiscounts"
-  - "#recapitalization"
-  - "#privatecompanyvaluation"
-  - "#shareholdervalue"
 title: PSET 7- Kohler
+tags:
+  - '#dcf_valuation'
+  - '#enterprise_value'
+  - '#financial_modeling'
+  - '#kohler_co'
+  - '#liquidity_discount'
+  - '#minority_discount'
+  - '#private_vs_public_valuation'
+  - '#recapitalization'
+  - '#shareholder_value'
+  - '#wacc'
 ---
 1. Why does Herbert Kohler want to do the recapitalization? Provide a brief discussion.
 	1. Herbert Kohler wants to do the recapitalization primarily to preserve family ownership and control over Kohler Co. As a private company, Kohler Co. could take a long-term perspective and make strategic investments without being subjected to public scrutiny and short-term pressures from outside shareholders. Kohler believed that the company's private status was crucial to its success and competitive advantage. The recapitalization aimed to eliminate outside shareholders by either buying out their shares or exchanging them for new restricted classes of shares that could only be transferred within the Kohler family and affiliated entities.

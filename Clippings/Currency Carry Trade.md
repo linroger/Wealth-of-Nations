@@ -1,9 +1,19 @@
 ---
-title: "Currency Carry Trade"
-source: "https://www.investopedia.com/terms/c/currencycarrytrade.asp"
-description: "A currency carry trade is a strategy that involves using a high-yielding currency to fund a transaction with a low-yielding currency."
+title: Currency Carry Trade
+source: https://www.investopedia.com/terms/c/currencycarrytrade.asp
+description: A currency carry trade is a strategy that involves using a high-yielding
+  currency to fund a transaction with a low-yielding currency.
 tags:
-  - "clippings"
+  - '#asset_currency'
+  - '#carry_trade_example'
+  - '#currency_carry_trade'
+  - '#exchange_rate_risk'
+  - '#forex_trading_strategy'
+  - '#funding_currency'
+  - '#interest_rate_differential'
+  - '#interest_rate_hikes'
+  - '#leverage'
+  - '#risk_management'
 ---
 ## What Is a Currency Carry Trade?
 

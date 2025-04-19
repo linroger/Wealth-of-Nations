@@ -1,3 +1,11 @@
+---
+tags:
+  - '#financial_modeling'
+  - '#finite_difference_method'
+  - '#options_pricing'
+  - '#put_option_pricing'
+  - '#put_options'
+---
 # 24.4 FINITE DIFFERENCE PUT OPTION PRICING
 
 If the options are puts, then the procedure is exactly the same but the following three conditions replace the corresponding conditions for calls:

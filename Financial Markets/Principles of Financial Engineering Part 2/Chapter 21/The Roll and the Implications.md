@@ -1,3 +1,16 @@
+---
+tags:
+  - '#abx_index'
+  - '#basel_iii'
+  - '#credit_default_swaps'
+  - '#credit_risk_management'
+  - '#default_risk'
+  - '#financial_engineering'
+  - '#gfc_lessons'
+  - '#index_rolls'
+  - '#lcdx_index'
+  - '#securitization'
+---
 # 21.8 THE ROLL AND THE IMPLICATIONS  
 
 Every 6 months, on March and September 2Oth, the iTraxx and CDX indices roll and a new series starts trading. Some credit names may have defaulted, changed sector, merged, or been downgraded. Other CDSs may have become less liquid. These are considered as no longer eligible to be part of the index. Every such name is replaced by the next most liquid name available in its class. The "old series" continue to trade as long as there are open positions, but they are off-the-run. The new roll will be the on-the-run liquid index.  

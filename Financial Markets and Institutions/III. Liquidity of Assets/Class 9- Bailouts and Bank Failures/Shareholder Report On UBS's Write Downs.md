@@ -1,11 +1,19 @@
 ---
 aliases:
-- Shareholder Report On UBS's Write Downs
-- Shareholder Report On UBS's Write Downs.md
-tags:
-- 
-- 
+  - Shareholder Report On UBS's Write Downs
+  - Shareholder Report On UBS's Write Downs.md
 title: Shareholder Report On UBS's Write Downs
+tags:
+  - '#cdos'
+  - '#dillon_read_capital_management'
+  - '#fixed_income'
+  - '#funding_framework'
+  - '#governance'
+  - '#investment_bank'
+  - '#risk_management'
+  - '#shareholder_report'
+  - '#subprime_losses'
+  - '#ubs_write_downs'
 ---
 # Shareholder Report On UBS's Write Downs
 

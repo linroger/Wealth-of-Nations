@@ -1,3 +1,15 @@
+---
+tags:
+  - '#counterparty_credit_risk'
+  - '#daily_settlement'
+  - '#euribor_futures'
+  - '#forward_rate_agreements'
+  - '#futures_forward_difference'
+  - '#interest_rate_swaps'
+  - '#risk_management'
+  - '#sofr_futures'
+  - '#swaps_clearing'
+---
 # 12.6 THE FUTURES-FORWARD DIFFERENCE  
 
 By definition, borrowers and lenders can lock in market forward rates, and earlier sections of this chapter show that, ignoring daily settlement, borrowers and lenders can also lock in market futures rates. This section explains that, because of daily settlement, market futures rates exceed market forward rates. However, the magnitude of the difference turns out to be small except for contracts of the longest terms.  

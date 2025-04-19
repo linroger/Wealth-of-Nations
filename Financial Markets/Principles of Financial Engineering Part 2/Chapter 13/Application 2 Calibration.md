@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_free_pricing'
+  - '#bdt_model'
+  - '#binomial_tree'
+  - '#calibration'
+  - '#caplet_pricing'
+  - '#interest_rate_derivatives'
+  - '#libor_tree'
+  - '#risk_neutral_probabilities'
+---
 # 13.3 APPLICATION 2: CALIBRATION  
 
 Calibrating a model means selecting the model parameters such that the observed arbitrage-free benchmark prices are duplicated by the use of this model. In this section we give two examples for this procedure. Since we already discussed several examples of how the fundamental theorem can be applied to SDEs, in this section we concentrate instead on tree models. As the last section has shown, calibration can be done using Monte Carlo and the SDEs as well.  

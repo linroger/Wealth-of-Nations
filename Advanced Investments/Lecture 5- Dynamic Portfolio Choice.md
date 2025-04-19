@@ -1,9 +1,17 @@
 ---
-
-tags: [ ]
 title: Lecture 5Dynamic [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
+tags:
+  - '#adaptive_policy'
+  - '#arithmetic_mean'
+  - '#crra_preferences'
+  - '#dynamic_portfolio_choice'
+  - '#fixed_weight_solution'
+  - '#geometric_mean'
+  - '#growth_optimal_portfolio'
+  - '#long_term_investing'
+  - '#mean_reversion'
+  - '#myopic_market_timing'
 ---
-
 # Lecture 5-Dynamic Portfolio Choice
 [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]]
 

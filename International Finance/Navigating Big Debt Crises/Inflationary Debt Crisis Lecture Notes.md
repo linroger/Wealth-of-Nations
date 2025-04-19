@@ -1,44 +1,20 @@
 ---
 title: Inflationary Debt Crisis Lecture Notes
 aliases: []
-tags:
-  - hyperinflation
-  - currency-crisis
-  - economic-history
-  - financial-crises
-  - macroeconomics
-  - inflationary-depression
-  - currency-dynamics
-  - central-bank-policy
-  - financial_crises
-  - currency-devaluation
-  - hyperinflation-dynamics
-  - macroeconomic-policymaking
-  - economic-theory
-  - inflationary-debt-crisis
-  - german-hyperinflation
-  - debt-crisis-phases
-  - currency-crises
-  - economic-depression
-  - historical-analysis
-  - quantitative-finance
-  - debt-management
-  - debt_cycles
-  - economic-deleveraging
-  - monetary-policy
-  - economics
-  - currency-depreciation
-  - financial-markets
-  - economic-imbalances
-  - inflationary-depressions
-  - "#debt-cycles"
-  - "#economic-adjustment"
-  - "#financial-crisis"
-  - "#inflationary-deleveraging"
 cssclasses:
   - academia
+tags:
+  - '#capital_outflows'
+  - '#central_bank_policy'
+  - '#currency_defense'
+  - '#currency_devaluation'
+  - '#debt_dynamics'
+  - '#economic_recovery'
+  - '#hyperinflation'
+  - '#inflationary_debt_crisis'
+  - '#investor_behavior'
+  - '#weimar_republic'
 ---
-
 # Inflationary Debt Crisis Lecture Notes
 
 ## Introduction to Inflationary Debt Crises

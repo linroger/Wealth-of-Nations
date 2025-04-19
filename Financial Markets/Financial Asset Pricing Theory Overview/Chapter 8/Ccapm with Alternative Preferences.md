@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#campbell_cochrane_model'
+  - '#ccapm'
+  - '#chan_kogan_model'
+  - '#epstein_zin_utility'
+  - '#equity_premium_puzzle'
+  - '#habit_formation'
+  - '#risk_aversion'
+  - '#risk_free_rate'
+  - '#state_dependent_utility'
+---
 # 8.7 CCAPM with alternative preferences  
 
 An interesting alternative to the simple consumption-based model is to allow the utility of a given. consumption level at a given point in time. $t$ to depend on some benchmark $X_{t}$ , i.e. the preferences are modeled bye $\operatorname{E}[\int_{0}^{T}e^{-\delta t}u(c_{t},X_{t})d t]$ in continuous time ord $\operatorname{E}[\sum_{t=0}^{T}e^{-\delta t}u(c_{t},X_{t})]$ in discrete time. This incorporates the case of (internal) habit formation where $X_{t}$ is determined as a weighted average of the previous consumption rates of the individual, and the case of state-dependent (or. "external habit"') preferences where $X_{t}$ is a variable not affected by the consumption decisions of. the individual. If we assume that a high value of the benchmark means that the individual will be more eager to increase consumption, as is the case with (internal) habit formation, we should. have $u_{c X}(c,X)>0$  

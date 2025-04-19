@@ -1,3 +1,16 @@
+---
+tags:
+  - '#central_banks'
+  - '#currency_intervention'
+  - '#debt_crises'
+  - '#debt_cycle'
+  - '#devaluation'
+  - '#fiat_currency'
+  - '#government_debt'
+  - '#hard_currency'
+  - '#interest_rates'
+  - '#private_sector_debt'
+---
 *This post was originally published on January 22, 2025. Since that time, the content has been updated both in the free PDF available at* [*economicprinciples.org*](http://economicprinciples.org/) *and for the print book, How Countries Go Broke, available* [*here*](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
 
 ---

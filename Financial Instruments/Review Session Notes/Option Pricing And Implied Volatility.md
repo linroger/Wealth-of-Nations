@@ -1,12 +1,21 @@
 ---
 aliases:
-- 
-- 
-- 1. BLACK-SCHOLES MODEL OF OPTION PRICING
+  - 
+  - 
+  - 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 linter-yaml-title-alias: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
-tags:
-- 
 title: 1. BLACK-SCHOLES MODEL OF OPTION PRICING
+tags:
+  - '#black_scholes_model'
+  - '#call_option_price'
+  - '#delta_hedging'
+  - '#implied_volatility'
+  - '#interest_rate'
+  - '#option_pricing'
+  - '#put_option_price'
+  - '#stock_price'
+  - '#stock_volatility'
+  - '#strike_price'
 ---
 # 1. BLACK-SCHOLES MODEL OF OPTION PRICING
 ## 1.1. PARAMETERS

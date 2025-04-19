@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_model'
+  - '#control_variate_technique'
+  - '#dividend_paying_stock'
+  - '#dividend_yield'
+  - '#european_options'
+  - '#ex_dividend_date'
+  - '#known_dollar_dividend'
+  - '#option_pricing'
+---
 # 21.3  BINOMIAL MODEL FOR A DIVIDEND-PAYING STOCK  
 
 We now move on to the more tricky issue of how the binomial model can be used for a dividend-paying stock. As in Chapter 15, the word "dividend" will, for the purposes of our discussion, be used to refer to the reduction in the stock price on the ex-dividend date as a result of the dividend.  

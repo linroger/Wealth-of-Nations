@@ -1,12 +1,21 @@
 ---
 aliases:
-- 
-- 
-- PSET 7 SOLUTIONS
+  - 
+  - 
+  - PSET 7 SOLUTIONS
 linter-yaml-title-alias: PSET 7 SOLUTIONS
-tags:
-- 
 title: PSET 7 SOLUTIONS
+tags:
+  - '#american_options'
+  - '#asset_volatility'
+  - '#black_scholes'
+  - '#citigroup_default'
+  - '#credit_crisis'
+  - '#default_probability'
+  - '#dividend_payments'
+  - '#early_exercise'
+  - '#merton_model'
+  - '#option_pricing'
 ---
 # PSET 7 SOLUTIONS
 ## WINTER 2024

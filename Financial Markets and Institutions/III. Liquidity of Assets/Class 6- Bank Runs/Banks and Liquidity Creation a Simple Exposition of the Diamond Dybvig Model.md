@@ -1,16 +1,20 @@
 ---
 aliases:
-- Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig
-  Model
-- 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
-- Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig
-  Model.md
+  - Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model
+  - 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
+  - Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model.md
 linter-yaml-title-alias: 'Banks And Liquidity Creation: A Simple Exposition Of The
   Diamond-Dybvig Model'
-tags:
-- 
-- 
 title: 'Banks And Liquidity Creation: A Simple Exposition Of The Diamond-Dybvig Model'
+tags:
+  - '#bank_runs'
+  - '#demand_deposits'
+  - '#deposit_insurance'
+  - '#diamond_dybvig_model'
+  - '#financial_crises'
+  - '#illiquid_assets'
+  - '#liquidity_creation'
+  - '#suspension_of_convertibility'
 ---
 # Banks and Liquidity Creation a Simple Exposition of the Diamond Dybvig Model
 

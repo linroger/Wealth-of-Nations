@@ -1,3 +1,15 @@
+---
+tags:
+  - '#currency_exchange_rates'
+  - '#debt_sustainability'
+  - '#fiscal_policy'
+  - '#global_geopolitics'
+  - '#monetary_policy'
+  - '#stagflation'
+  - '#tariffs'
+  - '#trade_imbalances'
+  - '#us_dollar_reserve_currency'
+---
 ## Article
 
 

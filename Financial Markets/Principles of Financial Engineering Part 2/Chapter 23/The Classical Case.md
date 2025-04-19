@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cppi_techniques'
+  - '#dynamic_replication'
+  - '#guaranteed_products'
+  - '#option_based_portfolio_insurance'
+  - '#protective_put_option'
+  - '#risk_control'
+  - '#volatility_capping'
+  - '#zero_coupon_bond'
+---
 # 23.2 THE CLASSICAL CASE  
 
 At the simplest level a guaranteed product consists of either a zero-coupon bond and a static call option position or protective put option position. The former was discussed in detail in Chapter 20. Both of these approaches date back to Leland (1980) and are nowadays referred to as option-based portfolio insurance (OBPI). The protective put option strategy consists of protecting a risky investment from downside market movements using a put option, while allowing participation in the growth of a risky asset. The put option could be either based on a traded index option such as options on the S&P500 index or a synthetic put option based on dynamic replication using index futures. One of the complications in such guaranteed products is that the options may be too expen-. sive, depending on the level of volatility. Out-of-the-money put options, for example, are typically very expensive. In Chapter 20 we discussed several limitations of guaranteed products based on a combination of a zero-coupon bond and call option.  

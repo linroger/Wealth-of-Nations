@@ -1,3 +1,13 @@
+---
+tags:
+  - '#independent_factors'
+  - '#ito_lemma'
+  - '#market_prices_of_risk'
+  - '#numeraire'
+  - '#risk_neutral_world'
+  - '#uncorrelated_variables'
+  - '#world_defined_by_numeraire'
+---
 # 28.5 EXTENSION TO SEVERAL FACTORS  
 
 The results presented in Sections 28.3 and 28.4 can be extended to cover the situation when there are many independent factors.' Assume that there are. $n$ independent factors  

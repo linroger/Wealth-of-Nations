@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_style_futures_options'
+  - '#binomial_trees'
+  - '#futures_options_valuation'
+  - '#futures_price_movements'
+  - '#multistep_binomial_trees'
+  - '#option_payoff'
+  - '#risk_neutral_probability'
+  - '#riskless_hedge'
+---
 # 18.9 VALUATION OF FUTURES OPTIONS USING BINOMIAL TREES  
 
 This section examines, more formally than in Chapter 13, how binomial trees can be used to price futures options. A key difference between futures options and stock. options is that there are no up-front costs when a futures contract is entered into..  

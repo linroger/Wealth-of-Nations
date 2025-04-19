@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#asset_pricing'
+  - '#black_scholes_merton_model'
+  - '#geometric_brownian_motion'
+  - '#lognormal_distribution'
+  - '#option_pricing'
+  - '#stochastic_processes'
+  - '#volatility'
+---
 # 12.7 RECAP AND PREVIEW
 
 In this chapter, we took what we have already learned about stochastic processes and adapted it to the case of an asset. We showed how certain properties of the asset's return behavior are derived out of the model. We showed how to obtain the formula for the future

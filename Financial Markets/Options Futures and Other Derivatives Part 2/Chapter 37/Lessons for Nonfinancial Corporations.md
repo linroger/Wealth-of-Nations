@@ -1,3 +1,16 @@
+---
+tags:
+  - '#derivatives_risks'
+  - '#financial_instruments'
+  - '#hedging_vs_speculation'
+  - '#internal_controls'
+  - '#nonfinancial_corporations'
+  - '#orange_county_procter_gamble'
+  - '#risk_management'
+  - '#senior_management'
+  - '#trading_strategy'
+  - '#treasury_department'
+---
 # 37.3 LESSONS FOR NONFINANCIAL CORPORATIONS  
 
 We now consider lessons primarily applicable to nonfinancial corporations.  

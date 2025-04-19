@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_model'
+  - '#black_scholes_merton_assumptions'
+  - '#black_scholes_merton_equation'
+  - '#derivative_pricing'
+  - '#european_call_option'
+  - '#no_arbitrage'
+  - '#rebalancing'
+  - '#riskless_portfolio'
+  - '#stock_price_movements'
+---
 # 15.5 THE IDEA UNDERLYING THE BLACK-SCHOLES-MERTON DIFFERENTIAL EQUATION  
 
 The Black-Scholes-Merton differential equation is an equation that must be satisfied.   

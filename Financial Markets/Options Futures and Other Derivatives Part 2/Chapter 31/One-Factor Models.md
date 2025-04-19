@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_prices'
+  - '#cir_model'
+  - '#duration'
+  - '#mean_reversion'
+  - '#one_factor_models'
+  - '#rendleman_and_bartter_model'
+  - '#short_rate'
+  - '#term_structure'
+  - '#vasicek_model'
+---
 # 31.2 ONE-FACTOR MODELS  
 
 Equilibrium models usually start with assumptions about economic variables and derive a process for the short rate, $r.$ They then explore what the process for $r$ implies about bond prices and option prices.  

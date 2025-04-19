@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bank_regulation'
+  - '#banking_book'
+  - '#basel_accords'
+  - '#basel_committee_on_bank_supervision'
+  - '#confidence_level'
+  - '#expected_shortfall_es'
+  - '#market_risk'
+  - '#time_horizon'
+  - '#trading_book'
+  - '#value_at_risk_var'
+---
 # 22.1 THE VaR AND ES MEASURES  
 
 When using the value-at-risk measure, an analyst is interested in making a statement of the following form: "I am. $X$ percent certain there will not be a loss of more than $V$ dollars in the next $N$ days." The variable $V$ is the VaR of the portfolio. It is a function of two parameters: the time horizon (. $N$ days) and the confidence level. $(X\%)$ . It is the loss level over $N$ days that has a probability of only. $(100-X)\%$ of being exceeded.  

@@ -1,16 +1,13 @@
 ---
-aliases: 
-tags:
-  - "#foreign-exchange-market"
-  - "#exchange-rates"
-  - "#monetary-policy"
-  - "#china-economy"
-  - "#currency-management"
+aliases:
 cssclasses:
   - academia
 title: China Foreign Exchange Reserves
+tags:
+  - '#china_economy'
+  - '#china_foreign_exchange'
+  - '#foreign_exchange_reserves'
 ---
-
 # China Foreign Exchange Reserves
 
 %% Begin Waypoint %%

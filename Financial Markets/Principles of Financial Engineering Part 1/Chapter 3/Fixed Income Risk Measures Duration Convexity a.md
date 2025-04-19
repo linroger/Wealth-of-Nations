@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basel_capital_requirements'
+  - '#convexity'
+  - '#duration'
+  - '#dv01'
+  - '#expected_shortfall'
+  - '#fixed_income_risk_measures'
+  - '#immunization'
+  - '#interest_rate_risk'
+  - '#pv01'
+  - '#value_at_risk_var'
+---
 # 3.8 FIXED INCOME RISK MEASURES: DURATION, CONVEXITY AND VALUE-AT-RISK  
 
 As we saw in the introductory chapter, volatility trading is made possible in the presence of two instruments, one whose value moves linearly as the underlying risk changes, while the other's value moves according to a convex curve. As we will see later in this section there are also convexity differences between interest rate forwards and interest rate futures. This is due to the fact that the pricing equation for Eurocurrency futures is linear whereas the market-traded FRAs have a pricing. equation that is nonlinear in the corresponding LIBOR rate..  

@@ -1,11 +1,19 @@
 ---
 aliases:
-- Wellman Inc the Importance of Loan Covenants
-- Wellman Inc the Importance of Loan Covenants.md
-tags:
-- 
-- 
+  - Wellman Inc the Importance of Loan Covenants
+  - Wellman Inc the Importance of Loan Covenants.md
 title: Wellman Inc the Importance of Loan Covenants
+tags:
+  - '#credit_quality'
+  - '#downgrade_impact'
+  - '#ebitda'
+  - '#financial_ratios'
+  - '#interest_coverage'
+  - '#leverage_ratio'
+  - '#loan_agreements'
+  - '#loan_covenants'
+  - '#restricted_payments'
+  - '#wellman_inc'
 ---
 # Wellman Inc the Importance of Loan Covenants
 

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#continuously_compounded'
+  - '#forward_rate_agreement'
+  - '#forward_rates'
+  - '#instantaneous_forward_rate'
+  - '#interest_rates'
+  - '#maturity'
+  - '#zero_coupon_bond'
+  - '#zero_rates'
+---
 # 4.8 FORWARD RATES  
 
 Forward interest rates are the rates of interest implied by current zero rates for periods of time in the future. To illustrate how they are calculated, we suppose that zero rates. are as shown in the second column of Table 4.5. The rates are assumed to be continuously compounded. Thus, the. $3\%$ per annum rate for 1 year means that, in. return for an investment of $\$100$ today, an amount. $100e^{0.03\times1}=\S\dot{1}03.05$ is received in. 1 year; the. $4\%$ per annum rate for 2 years means that, in return for an investment of. $\$100$ today, an amount. $100e^{0.04\times2}=\dot{\mathbb{\S}}108.33$ is received in 2 years; and so on.  

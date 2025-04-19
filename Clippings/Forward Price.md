@@ -1,9 +1,19 @@
 ---
-title: "Forward Price"
-source: "https://www.investopedia.com/terms/f/forwardprice.asp"
-description: "The predetermined delivery price of a forward contract, as agreed on and calculated by the buyer and seller."
+title: Forward Price
+source: https://www.investopedia.com/terms/f/forwardprice.asp
+description: The predetermined delivery price of a forward contract, as agreed on
+  and calculated by the buyer and seller.
 tags:
-  - "clippings"
+  - '#carrying_costs'
+  - '#financial_derivatives'
+  - '#forward_contract'
+  - '#forward_price'
+  - '#hedging'
+  - '#market_fluctuations'
+  - '#price_calculation'
+  - '#risk_management'
+  - '#spot_price'
+  - '#underlying_asset'
 ---
 ## What is a Forward Price
 

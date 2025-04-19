@@ -1,3 +1,14 @@
+---
+tags:
+  - '#economic_recession'
+  - '#interest_rates'
+  - '#monetary_policy'
+  - '#quantitative_easing'
+  - '#term_premium'
+  - '#term_premium_models'
+  - '#yield_curve'
+  - '#yield_curve_inversion'
+---
 # Chapter 7 An Update of the Term Premium Calculation
 
 # Introduction

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arithmetic_mean'
+  - '#calendar_days'
+  - '#garch_model'
+  - '#geometric_mean'
+  - '#historical_data'
+  - '#implied_volatility'
+  - '#mutual_fund_returns'
+  - '#stock_volatility'
+  - '#trading_days'
+  - '#volatility_estimation'
+---
 # 15.4  VOLATILITY  
 
 The volatility, $\sigma$ , of a stock is a measure of our uncertainty about the returns provided by the stock. Stocks typically have a volatility between $15\%$ and $60\%$  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_pricing'
+  - '#convexity'
+  - '#duration'
+  - '#forward_rates'
+  - '#interest_rates'
+  - '#reference_rates'
+  - '#risk_free_rate'
+  - '#term_structure_of_interest_rates'
+  - '#zero_rates'
+---
 # Chapter 4.Interest rates . 76  
 
 4.1 Types of rates 76   

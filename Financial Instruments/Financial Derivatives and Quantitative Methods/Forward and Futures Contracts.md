@@ -1,5 +1,16 @@
 ---
 title: Forward and Futures Contracts
+tags:
+  - '#arbitrage'
+  - '#backwardation'
+  - '#contango'
+  - '#derivative_pricing'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#hedging'
+  - '#margin_account'
+  - '#market_orders'
+  - '#spot_price'
 ---
 # Forward and Futures Contracts
 

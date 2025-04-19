@@ -1,10 +1,20 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Markets Homework 4
+tags:
+  - '#cds_pricing'
+  - '#credit_markets'
+  - '#cs01'
+  - '#dv01'
+  - '#hazard_rate_model'
+  - '#ir01'
+  - '#nelson_siegel_model'
+  - '#perpetual_cds'
+  - '#rec01'
+  - '#risky_bonds'
+  - '#scenario_analysis'
 ---
 # Credit Markets Homework 4
 

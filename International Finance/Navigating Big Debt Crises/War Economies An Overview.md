@@ -1,10 +1,19 @@
 ---
-title: "War Economies: An Overview"
+title: 'War Economies: An Overview'
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#currency_devaluation'
+  - '#debt_crises'
+  - '#debt_monetization'
+  - '#economic_cycles'
+  - '#geopolitical_cycles'
+  - '#german_hyperinflation'
+  - '#inflationary_depression'
+  - '#post_wwi_economy'
+  - '#treaty_of_versailles'
+  - '#war_economies'
 ---
-
 # War Economies: An Overview
 
 ## 1. Introduction to War Economies

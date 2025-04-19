@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_managers'
+  - '#basis_points'
+  - '#bond_price_change'
+  - '#duration'
+  - '#dv01'
+  - '#effective_duration'
+  - '#interest_rate_sensitivity'
+  - '#portfolio_duration'
+  - '#yield_based_duration'
+---
 # 4.4 DURATION  
 
 Another popular metric for interest rate sensitivity is duration. Whereas DV01 measures the change in price for a change in rates, duration measures. the percentage change in price for a change in rates. Like Dv01, duration. can be defined in any one-factor framework, but practitioners often use the. term duration to mean yield-based duration (described in Section 4.7) and use the term effective duration to mean the more general case presented here.  

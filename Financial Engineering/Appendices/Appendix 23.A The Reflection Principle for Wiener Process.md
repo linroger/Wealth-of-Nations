@@ -1,8 +1,18 @@
 ---
 title: Appendix 23. A The Reflection Principle for Wiener Process
-aliases: [The Reflection Principle for Wiener Process]
+aliases:
+  - The Reflection Principle for Wiener Process
+tags:
+  - '#barrier_probability'
+  - '#brownian_motion'
+  - '#down_and_in_call'
+  - '#geometric_brownian_motion'
+  - '#knockout_call'
+  - '#reflection_principle'
+  - '#standard_normal_probability'
+  - '#stochastic_calculus'
+  - '#wiener_process'
 ---
-
 # Appendix 23. A The Reflection Principle for Wiener Process
 
 For every standard Brownian path there is an equally likely path that can be constructed by reflecting the path,  or a portion of the path,  with respect to a horizontal line. Figure 23.5 shows a Brownian path,  $X_{r}$ ,  denoted by ABC,  that is reflected beginning at the poin where the path reaches $X_{t}=70$ .Notice that the path BD is a mirror image,  reflected vertically around the line $X=70$ ,  of the original path BC. We will see that by considering the reflected path,  it is possible to transform barrier probability calculations into standard normal probability calculations

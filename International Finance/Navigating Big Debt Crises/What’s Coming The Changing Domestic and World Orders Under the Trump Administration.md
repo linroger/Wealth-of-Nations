@@ -1,21 +1,23 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: What’s Coming The Changing Domestic and World Orders Under the Trump Administration
-source: https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
-description: 
+source: 
+  https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
+description:
 tags:
-  - "#economic-history"
-  - "#macroeconomic-policymaking"
-  - "#geopolitical-conflicts"
-  - "#policy-responses"
-  - "#international-finance"
-  - "#domestic-policy-reform"
-  - "#international-relations"
-  - "#trump-administration"
+  - '#america_first'
+  - '#china_us_relations'
+  - '#domestic_policy'
+  - '#economic_war'
+  - '#foreign_policy'
+  - '#global_order'
+  - '#government_reform'
+  - '#industrial_policy'
+  - '#national_security'
+  - '#trump_administration'
 ---
-
 # What’s Coming The Changing Domestic and World Orders Under the Trump Administration
 **What’s Coming: The Changing Domestic and World Orders Under the Trump Administration**
 

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convertible_bond_arbitrage'
+  - '#convertible_bond_pricing'
+  - '#convertible_bonds'
+  - '#credit_default_swaps'
+  - '#embedded_options'
+  - '#equity_financing'
+  - '#exchangeable_bonds'
+  - '#financial_engineering'
+  - '#synthetic_convertible_bonds'
+  - '#warrants'
+---
 # 19.6 ENGINEERING EQUITY PRODUCTS  
 
 # 19.6.1 PURPOSE  

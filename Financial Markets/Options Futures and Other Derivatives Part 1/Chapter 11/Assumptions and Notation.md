@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_call_option'
+  - '#arbitrage_opportunities'
+  - '#assumptions_and_notation'
+  - '#european_put_option'
+  - '#negative_interest_rates'
+  - '#option_pricing'
+  - '#risk_free_interest_rate'
+  - '#transaction_costs'
+---
 # 11.2 ASSUMPTIONS AND NOTATION  
 
 In this chapter, we will make assumptions similar to those made when deriving forward and futures prices in Chapter 5. We assume that there are some market participants, such as large investment banks, for which the following statements are true:  

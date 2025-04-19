@@ -1,3 +1,14 @@
+---
+tags:
+  - '#convenience_yield'
+  - '#delivery_options'
+  - '#delivery_period'
+  - '#futures_contract'
+  - '#futures_price'
+  - '#short_position'
+  - '#storage_costs'
+  - '#time_to_maturity'
+---
 # 5.13 DELIVERY OPTIONS  
 
 Whereas a forward contract normally specifies that delivery is to take place on a. particular day, a futures contract often allows the party with the short position to choose to deliver at any time during a certain period. (Typically the party has to give a few days' notice of its intention to deliver.) The choice introduces a complication into the determination of futures prices. Should the maturity of the futures contract be assumed to be the beginning, middle, or end of the delivery period? Even though most futures contracts are closed out prior to maturity, it is important to know when delivery. would have taken place in order to calculate the theoretical futures price..  

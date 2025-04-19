@@ -1,3 +1,16 @@
+---
+tags:
+  - '#developing_markets'
+  - '#exchanges'
+  - '#financial_markets'
+  - '#investment_banking'
+  - '#ipo'
+  - '#market_liquidity'
+  - '#otc_markets'
+  - '#primary_markets'
+  - '#secondary_markets'
+  - '#securities_trading'
+---
 # 1.6 PRIMARY (ISSUANCE) AND SECONDARY (RESALE) MARKETS  
 
 From the societal welfare perspective, the primary role of financial markets has always been to transfer funds between suppliers of excess funds and their users. The users include businesses that produce goods and services in the economy, households that demand mortgage and consumer loans, governments that build roads and schools, financial institutions, and many others. All these users of capital undertake activities that are deemed economically and socially desirable. Throughout history, bankers and banks made the transfer of funds possible by accepting funds from depositors and lending them to kings and commercial ventures. The transition from feudalism to capitalism ushered in asset markets and the transfer of capital through shares of limited liability companies and bonds issued by sovereigns and corporations. Stock, bond, and commodity exchanges were formed to allow original investors in these. securities to efficiently share the risks of these instruments with new investors. This induced many suppliers of funds to willingly become investors as the risks of holding "paper' assets were diminished. "Paper' could be sold and funds recovered. A specialized class of traders emerged who dealt only with trading "paper' on the exchanges or over-the-counter (OTC).. At the same time, the role of finding productive ventures in need of capital also shifted from. bankers to investment bankers who, instead of using their own capital to grant loans, specialized. in creating new shares and bonds and selling them to investors. This requires a considerable amount of expertise. Prior to the launch of any issue, the main job of an investment banker and his corporate finance staff, like that of a loan banker, is to evaluate the issuing company's. business and financial condition, and prepare a valuation analysis for the offered security.  

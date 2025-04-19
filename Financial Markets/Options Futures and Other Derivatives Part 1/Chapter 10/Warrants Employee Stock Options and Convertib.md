@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_issuance'
+  - '#call_options'
+  - '#convertible_bonds'
+  - '#employee_stock_options'
+  - '#equity'
+  - '#exercise_of_options'
+  - '#financial_instruments'
+  - '#stock_options'
+  - '#warrants'
+---
 # 10.11 WARRANTS, EMPLOYEE STOCK OPTIONS, AND CONVERTIBLES  
 
 Warrants are options issued by a financial institution or nonfinancial corporation. For. example, a financial institution might issue 1 million put warrants on gold, each. warrant giving the holder the right to sell 10 ounces of gold for. $\$1,000$ per ounce. It could then proceed to create a market for the warrants. To exercise the warrant, the holder would contact the financial institution. A common use of warrants by a nonfinancial corporation is at the time of a bond issue. The corporation issues call warrants giving the holder the right to buy its own stock for a certain price at a certain future time and then attaches them to the bonds to make the bonds more attractive to investors.  

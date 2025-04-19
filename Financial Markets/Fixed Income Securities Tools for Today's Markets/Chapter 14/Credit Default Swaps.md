@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds_contracts'
+  - '#cds_spread'
+  - '#credit_default_swaps'
+  - '#credit_risk'
+  - '#index_cds'
+  - '#itrazz_europe'
+  - '#market_participants'
+  - '#protection_buyer'
+  - '#protection_seller'
+  - '#single_name_cds'
+---
 # 14.5 CREDIT DEFAULT SWAPS  
 
 In a single-name credit default swap (CDs), a protection buyer or CDS buyer pays a fee, premium, or coupon to a protection seller or CDS seller in exchange for a compensation payment in the event that an issuer defaults. Bonds and CDS together comprise the markets for trading credit risk..  

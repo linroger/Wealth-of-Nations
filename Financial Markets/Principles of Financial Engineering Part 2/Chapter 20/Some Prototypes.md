@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bermudan_swaptions'
+  - '#cms_linked_notes'
+  - '#cms_spread_notes'
+  - '#contractual_equations'
+  - '#fixed_income_structured_products'
+  - '#inverse_floater'
+  - '#swaptions'
+  - '#target_redemption_notes'
+  - '#trigger_swaps'
+  - '#yield_curve_analysis'
+---
 # 20.4 SOME PROTOTYPES  
 
 In this section, we discuss some typical fixed-income structured products and their engineering in detail using the tools previously introduced. We consider three typical structured products that are representative.  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#eurodollar_futures'
+  - '#futures_call_option'
+  - '#futures_options'
+  - '#futures_put_option'
+  - '#interest_rate_futures'
+  - '#option_exercise'
+  - '#option_payoff'
+  - '#sofr_futures'
+  - '#treasury_bond_futures'
+---
 # 18.1 NATURE OF FUTURES OPTIONS  
 
 A futures option is the right, but not the obligation, to enter into a futures contract at a certain futures price by a certain date. Specifically, a futures call option is the right to enter into a long futures contract at a certain price; a futures put option is the right to enter into a short futures contract at a certain price. Futures options are generally American; that is, they can be exercised any time during the life of the contract.  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#derivatives_pricing'
+  - '#dynamic_hedging'
+  - '#feynman_kac_theorem'
+  - '#forwards_futures'
+  - '#min_max_options'
+  - '#multivariate_pde'
+  - '#option_replication'
+  - '#stochastic_processes'
+---
 # 21.4 RECAP AND PREVIEW
 
 In this chapter, we looked at options in which there is more than one underlying asset.. Specifically, we examined options on the greater or lesser valued or greater or lesser per-. forming of two assets. These assets have a second feature not found in standard options in that they enable the user to bet or hedge on which asset will be worth more or less or generate a greater or lesser rate of return.

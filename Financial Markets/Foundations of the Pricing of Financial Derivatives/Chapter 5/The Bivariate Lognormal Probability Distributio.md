@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bivariate_lognormal_distribution'
+  - '#finance'
+  - '#lognormal_distribution'
+  - '#normal_distribution'
+  - '#portfolio_instruments'
+  - '#random_variables'
+  - '#simulation'
+  - '#stock_holdings'
+---
 # 5.4 THE BIVARIATE LOGNORMAL PROBABILITY DISTRIBUTION
 
 Again if $S_{t}=S_{t-1}e^{R_{t}^{c}}$ and $R_{t}^{c}$ is normally distributed, then we know $S_{t}$ is lognormally distributed. In finance, we are often interested in a portfolio of instruments such as stock holdings. Unfortunately, the sum of lognormally distributed random variables does not follow any known distribution. One important property of the normal distribution is that the sum of normally distributed random variables is itself normally distributed. Thus, in practice, it is dramatically easier to assume the underlying instrument prices are normally distributed, an issue we address in Chapter 12.

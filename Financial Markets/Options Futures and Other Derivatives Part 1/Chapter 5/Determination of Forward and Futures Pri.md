@@ -1,3 +1,16 @@
+---
+tags:
+  - '#commodities_futures'
+  - '#consumption_assets'
+  - '#cost_of_carry'
+  - '#forward_contracts'
+  - '#forward_prices'
+  - '#futures_contracts'
+  - '#futures_prices'
+  - '#investment_assets'
+  - '#short_selling'
+  - '#stock_indices'
+---
 # Chapter 5. Determination of forward and futures prices . .102  
 
 5.1 Investment assets vs. consumption assets .102   

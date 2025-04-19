@@ -1,11 +1,20 @@
 ---
-
-linter-yaml-title-alias: Teaching Note 7  [[Exotic Options]]  and Derivative Pricing by
-  Monte Carlo Simulation
-tags: []
-title: Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation
+linter-yaml-title-alias: Teaching Note 7  [[Exotic Options]]  and Derivative Pricing
+  by Monte Carlo Simulation
+title: Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo
+  Simulation
+tags:
+  - '#asian_options'
+  - '#barrier_options'
+  - '#delta_calculation'
+  - '#derivative_pricing'
+  - '#lognormal_model'
+  - '#lookback_options'
+  - '#monte_carlo_simulation'
+  - '#multi_factor_models'
+  - '#path_dependent_options'
+  - '#risk_neutral_pricing'
 ---
-
 # Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation
 
 John Heaton

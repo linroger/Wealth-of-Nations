@@ -1,3 +1,16 @@
+---
+tags:
+  - '#attachment_points'
+  - '#bespoke_tranches'
+  - '#correlation_trading'
+  - '#credit_risk'
+  - '#default_correlation'
+  - '#equity_tranche'
+  - '#index_tranches'
+  - '#mezzanine_tranche'
+  - '#senior_tranche'
+  - '#super_senior_tranche'
+---
 # 21.6 TRANCHES: STANDARD AND BESPOKE  
 
 The popularity of the indices is mostly due to the existence of standard index tranches that permit trading credit risk at different levels of subordination. At the present time, default correlation can be traded only by using index tranches. The index itself is used to hedge the sensitivity of tranches to changes in the probability of default.12 We discuss the formal aspects of pricing default correlation in the next chapter. In this section, we introduce standard index tranches and then introduce their relationship to default correlation..  

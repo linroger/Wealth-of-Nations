@@ -1,3 +1,14 @@
+---
+tags:
+  - '#credit_default_swaps_cds'
+  - '#credit_derivatives'
+  - '#credit_market_instruments'
+  - '#credit_risk'
+  - '#default_correlation'
+  - '#financial_engineering'
+  - '#index_products_tranches'
+  - '#structured_credit_products'
+---
 # 18.1 INTRODUCTION  
 
 In the previous chapters, we examined the application of financial engineering to forwards, futures, swaps, and options. In this discussion, for simplicity we abstracted away from issues related to credit risk. In the present and the following chapters, we will discuss financial engineering applications related to credit risk, credit derivatives, and credit structured products.  

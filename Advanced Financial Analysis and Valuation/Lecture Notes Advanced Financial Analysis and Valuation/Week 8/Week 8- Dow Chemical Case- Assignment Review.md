@@ -3,17 +3,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#finance"
-  - "#risk-management"
-  - "#investment-analysis"
-  - "#currency-crisis"
-  - "#valuation-analysis"
-  - "#international-investment"
-  - "#privatization"
-  - "#country-risk"
+  - '#argentina_country_risk'
+  - '#capital_budgeting_project'
+  - '#currency_risk_valuation'
+  - '#discount_rate_adjustment'
+  - '#dow_pbb_case'
+  - '#export_backstop'
+  - '#expropriation_risk'
+  - '#international_project_valuation'
+  - '#multinational_corporations'
+  - '#scenario_analysis'
 ---
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

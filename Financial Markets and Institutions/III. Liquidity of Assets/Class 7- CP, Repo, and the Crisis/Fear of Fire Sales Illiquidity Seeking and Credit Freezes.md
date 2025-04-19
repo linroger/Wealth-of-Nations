@@ -1,11 +1,19 @@
 ---
 aliases:
-- Fear of Fire Sales Illiquidity Seeking and Credit Freezes
-- Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
-tags:
-- 
-- 
+  - Fear of Fire Sales Illiquidity Seeking and Credit Freezes
+  - Fear of Fire Sales Illiquidity Seeking and Credit Freezes.md
 title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
+tags:
+  - '#asset_pricing'
+  - '#bank_solvency'
+  - '#banking_system'
+  - '#credit_freeze'
+  - '#financial_crisis'
+  - '#fire_sales'
+  - '#government_intervention'
+  - '#illiquidity'
+  - '#liquidity_risk'
+  - '#market_freeze'
 ---
 # Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 

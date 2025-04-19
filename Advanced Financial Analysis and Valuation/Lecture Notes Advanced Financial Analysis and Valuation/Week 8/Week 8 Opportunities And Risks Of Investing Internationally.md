@@ -1,16 +1,17 @@
 ---
 aliases:
 tags:
-
-  - "#finance"
-  - "#investment-analysis"
-  - "#risk-analysis"
-  - "#international-investment"
-  - "#emerging-markets"
-  - "#globalization"
-  - "#portfolio-diversification"
+  - '#cost_of_capital'
+  - '#country_risk'
+  - '#cross_border_ma'
+  - '#diversification_benefits'
+  - '#emerging_markets'
+  - '#home_bias'
+  - '#international_investments'
+  - '#international_risks'
+  - '#market_liberalization'
+  - '#sovereign_spreads'
 ---
-
 Thomas Rauter
 
 ## THIS PRE-RECORDING

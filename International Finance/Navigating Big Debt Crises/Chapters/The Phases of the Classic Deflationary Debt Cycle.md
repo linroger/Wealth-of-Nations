@@ -1,17 +1,19 @@
 ---
 title: The Phases of the Classic Deflationary Debt Cycle
 aliases: []
-tags:
-  - "#Debt_Cycles"
-  - "#Deleveraging"
-  - "#Financial_Crises"
-  - "#Economics"
-  - "#monetary-policy"
-  - "#debt-management"
-  - "#economic-depression"
 cssclasses: academia
+tags:
+  - '#austerity'
+  - '#bubble_formation'
+  - '#central_banks'
+  - '#debt_monetization'
+  - '#deflationary_debt_cycle'
+  - '#deleveraging'
+  - '#economic_depression'
+  - '#long_term_debt_cycle'
+  - '#monetary_policy'
+  - '#quantitative_easing'
 ---
-
 # The Phases of the Classic Deflationary Debt Cycle
 
 ### 1\) The Early Part of the Cycle

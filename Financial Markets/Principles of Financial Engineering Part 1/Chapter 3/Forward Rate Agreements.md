@@ -1,3 +1,15 @@
+---
+tags:
+  - '#credit_risk'
+  - '#forward_rate_agreements'
+  - '#fra_contract'
+  - '#fra_strips'
+  - '#hedging'
+  - '#interest_rate_risk'
+  - '#libor_rate'
+  - '#market_value'
+  - '#synthetic_fra'
+---
 # 3.7 FORWARD RATE AGREEMENTS  
 
 An interest rate FRA is an interest rate forward contract, an over-the-counter contract, between parties that specifies the rate of interest to be paid or received on an obligation beginning at a future start date. The next section develops a contractual agreement for an interest rate FRA. Currency FRAs are discussed in Chapter 6.  

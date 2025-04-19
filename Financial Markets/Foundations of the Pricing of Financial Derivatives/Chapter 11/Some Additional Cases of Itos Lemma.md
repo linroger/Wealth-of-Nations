@@ -1,3 +1,14 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#correlation_analysis'
+  - '#financial_modeling'
+  - '#ito_lemma'
+  - '#product_of_stochastic_processes'
+  - '#stochastic_calculus'
+  - '#stochastic_processes'
+  - '#variance_calculation'
+---
 # 11.5 SOME ADDITIONAL CASES OF ITO'S LEMMA
 
 Let us look at two more cases of Ito's lemma. First, we look at the case where our random process is a function of not one but two random processes, $x$ and $y.$ An example of this situation might be a currency option, whereby the performance is determined by the exchange rate and an interest rate. Alternatively, there are options that pay off based on the greater or poorer performing of two assets that are stochastic.

@@ -3,20 +3,19 @@ cssclasses: academia
 aliases:
   - Deciphering the Liquidity and Credit Crunch 2007–2008
   - Deciphering the Liquidity and Credit Crunch 2007–2008.md
-tags:
-
-  - 
-  - "#quantitative-finance"
-  - "#financial-crises"
-  - "#debt-management"
-  - "#macroeconomic-policymaking"
-  - "#international-finance"
-  - "#liquidity-crisis"
-  - "#securitization"
-  - "#credit-crunch"
 title: Deciphering the Liquidity and Credit Crunch 2007–2008
+tags:
+  - '#banking_industry'
+  - '#credit_default_swaps'
+  - '#financial_crisis_2008'
+  - '#funding_liquidity_risk'
+  - '#liquidity_crisis'
+  - '#mortgage_market'
+  - '#originate_and_distribute_model'
+  - '#regulatory_arbitrage'
+  - '#securitization'
+  - '#subprime_mortgages'
 ---
-
 # Deciphering the Liquidity and Credit Crunch 2007–2008
 
 Markus K. Brunnermeier

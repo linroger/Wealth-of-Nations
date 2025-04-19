@@ -1,3 +1,16 @@
+---
+tags:
+  - '#convexity'
+  - '#forward_rates'
+  - '#gauss_model'
+  - '#macro_trading'
+  - '#mf_global'
+  - '#relative_value_trading'
+  - '#repo_agreements'
+  - '#risk_premium'
+  - '#sofr'
+  - '#term_structure_model'
+---
 # 9.4 RELATIVE VALUE AND MACRO-STYLE TRADING WITH THE GAU $\S\S+$ MODEL  
 
 In the context of a term structure model, a relative value trade is one that is not exposed to or hedged against changes in the factors. Ideally, a trader would find an individual security that is cheap relative to the model and, from various analyses, is expected to revert soon to being fair to the model. The trader would then buy that security; hedge some or all of its factor exposure by selling fair or rich securities in the same part of the curve; and earn the resulting profits. In practice, however, individual securities are often persistently cheap or rich to the model, so that convergence is not expected in the short run, and securities neighboring in term are often all fair or rich together. Most of the time, therefore, relative value opportunities arise in which a trader receives forward rates in one part of the curve that are high relative to the model but expected to converge promptly to the model; pays forward rates in another part of the curve that are too low, but expected to converge promptly; and structures trades to minimize factor exposures. In this synopsis, the speed at which any detected mispricing is likely to correct itself is an important trading consideration.  

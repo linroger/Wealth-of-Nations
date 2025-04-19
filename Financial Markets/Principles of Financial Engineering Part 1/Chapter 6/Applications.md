@@ -1,3 +1,16 @@
+---
+tags:
+  - '#capital_controls'
+  - '#contractual_equation'
+  - '#cross_currency_rates'
+  - '#currency_exchange'
+  - '#financial_engineering'
+  - '#fx_markets'
+  - '#synthetic_instruments'
+  - '#synthetic_loans'
+  - '#t_bills'
+  - '#withholding_tax'
+---
 # 6.5 APPLICATIONS  
 
 The contractual equation derived earlier and the manipulation of cash flows that led to it may initially be thought of as theoretical constructs with limited practical application. This could not be further from the truth. We now discuss four examples that illustrate how the equation. can be skillfully exploited to find solutions to practical, common problems faced by market participants.  

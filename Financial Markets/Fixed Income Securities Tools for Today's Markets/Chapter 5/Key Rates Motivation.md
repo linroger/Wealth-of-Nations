@@ -1,3 +1,16 @@
+---
+tags:
+  - '#curve_risk'
+  - '#multi_factor_hedging'
+  - '#on_the_run_bonds'
+  - '#parallel_shift'
+  - '#single_factor_metrics'
+  - '#term_structure'
+  - '#term_structure_curvature'
+  - '#term_structure_flattening'
+  - '#term_structure_steepening'
+  - '#us_treasury_yields'
+---
 # 5.1 KEY RATES: MOTIVATION  
 
 The main motivation for multi-factor hedging is to control curve risk, that is, the risk that rates across the term structure do not move in parallel or in any fixed relationship. Figure 5.1 illustrates this phenomenon using changes in the term structure of on-the-run US Treasury yields on selected days in June  

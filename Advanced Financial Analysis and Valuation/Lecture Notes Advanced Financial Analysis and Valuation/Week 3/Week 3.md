@@ -1,13 +1,9 @@
 ---
 title: Week 3
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financialanalysis"
-  - "#riskanalysis"
-  - "#cyclical-industries"
-  - "#advanced-forecasting"
+  - '#waypoint'
+  - '#week_3'
 ---
-
 # Week 3
 %% Begin Waypoint %%
 - **[[Week 3]]**

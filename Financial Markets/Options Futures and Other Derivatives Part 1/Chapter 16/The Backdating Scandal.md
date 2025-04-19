@@ -1,3 +1,14 @@
+---
+tags:
+  - '#backdating_scandal'
+  - '#black_scholes_merton_model'
+  - '#employee_stock_options'
+  - '#executive_compensation'
+  - '#financial_reporting'
+  - '#sec_regulations'
+  - '#stock_option_grants'
+  - '#stock_price_manipulation'
+---
 # 16.5 THE BACKDATING SCANDAL  
 
 No discussion of employee stock options would be complete without mentioning a. backdating scandal. Backdating is the practice of marking a document with a date that precedes the current date.  

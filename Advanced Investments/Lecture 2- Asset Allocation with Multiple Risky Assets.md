@@ -1,17 +1,17 @@
 ---
-tags:
-  - "#financial-crisis"
-  - "#economics"
-  - "#financial-markets"
-  - "#risk-management"
-  - "#financial-instruments"
-  - "#asset-allocation"
-  - "#portfolio-management"
-  - "#risk-management"
-  - "#financial-economics"
 title: Lecture 2-Asset Allocation with Multiple Risky Assets
+tags:
+  - '#asset_allocation'
+  - '#covariance_matrix'
+  - '#equally_weighted_portfolio'
+  - '#mean_variance_optimization'
+  - '#multiple_risky_assets'
+  - '#portfolio_optimization'
+  - '#risk_parity'
+  - '#sharpe_ratio'
+  - '#shrinkage_estimation'
+  - '#systematic_risk'
 ---
-
 # Lecture 2-Asset Allocation with Multiple Risky Assets
 [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]
 We now extend our optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.

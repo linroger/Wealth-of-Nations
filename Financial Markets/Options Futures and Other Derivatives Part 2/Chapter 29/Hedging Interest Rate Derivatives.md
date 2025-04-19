@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_model'
+  - '#bond_options'
+  - '#cap_floor'
+  - '#convexity_adjustment'
+  - '#european_options'
+  - '#hedging'
+  - '#interest_rate_derivatives'
+  - '#swaptions'
+  - '#volatility'
+  - '#zero_curve'
+---
 # 29.4  HEDGING INTEREST RATE DERIVATIVES  
 
 This section discusses how the material on Greek letters in Chapter 19 can be extended to cover interest rate derivatives.  

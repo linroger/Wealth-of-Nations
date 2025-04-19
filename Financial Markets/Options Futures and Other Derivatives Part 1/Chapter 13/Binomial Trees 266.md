@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_trees'
+  - '#black_scholes_merton'
+  - '#delta'
+  - '#deriva_gem'
+  - '#one_step_binomial_model'
+  - '#option_pricing'
+  - '#risk_neutral_valuation'
+  - '#two_step_binomial_trees'
+---
 # Chapter 13. Binomial trees . 266  
 
 13.1 A one-step binomial model and a no-arbitrage argument .266   

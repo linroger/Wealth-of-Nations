@@ -1,3 +1,14 @@
+---
+tags:
+  - '#9_factor_models'
+  - '#arbitrage_pricing_theory'
+  - '#capital_asset_pricing_model_capm'
+  - '#empirical_factors'
+  - '#mean_variance_efficient_returns'
+  - '#pricing_factors'
+  - '#state_price_deflator'
+  - '#theoretical_factors'
+---
 # 9 Factor models 217  
 
 9.1 Introduction 217   

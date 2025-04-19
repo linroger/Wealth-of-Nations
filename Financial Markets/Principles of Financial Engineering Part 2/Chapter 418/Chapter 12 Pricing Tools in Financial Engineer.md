@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asymptotic_distribution'
+  - '#discrete_time_process'
+  - '#financial_engineering'
+  - '#martingale_probabilities'
+  - '#mean_variance_equations'
+  - '#pricing_tools'
+  - '#recombining_tree'
+---
 # 418 CHAPTER 12 PRICING TOOLS IN FINANCIAL ENGINEERING  
 
 Thed $\{\underline{{u}}_{i},\:d_{i}\}$ are assumed to be constant at $u,d.$  

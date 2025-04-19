@@ -1,3 +1,15 @@
+---
+tags:
+  - '#absolute_maximum_value'
+  - '#absolute_minimum_value'
+  - '#american_call_option'
+  - '#american_put_option'
+  - '#arbitrage_profit'
+  - '#european_call_option'
+  - '#european_put_option'
+  - '#option_pricing'
+  - '#upper_boundary_condition'
+---
 # 2.2 ABSOLUTE MINIMUM AND MAXIMUM VALUES
 
 By absolute minimum and maximum values, we wish to define bounds within which the option prices must lie. We do not rule out the possibility that the actual option prices might. have a higher minimum or lower maximum value that we can establish later.

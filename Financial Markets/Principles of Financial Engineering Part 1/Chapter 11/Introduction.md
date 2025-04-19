@@ -1,3 +1,15 @@
+---
+tags:
+  - '#exotic_options'
+  - '#financial_engineering'
+  - '#market_risk'
+  - '#option_strategies'
+  - '#payoff_diagrams'
+  - '#risk_factors'
+  - '#underlying_assets'
+  - '#vanilla_options'
+  - '#volatility'
+---
 # 11.1 INTRODUCTION  
 
 This chapter discusses traditional option strategies from the financial engineering perspective and provides market-based examples. It then moves on to discuss exotic options. We are concerned with portfolios and positions that are taken with a precise gain-loss profile in mind. The players. consciously take risks in the hope of benefiting or protecting themselves from an expected movement in a certain risk factor. Most investor behavior is of this kind. Investors buy a stock with a. higher (systematic) risk, in anticipation of higher returns. A high-yield bond carries a higher default probability, which the bond holder is willing to bear. For all the different instruments, there are one or more risk factors that influence the gains and losses of the position taken. The investor weighs the risks due to potentially adverse movements in these factors against the gains that will result, if these factors behave in the way the investor expected. Some of the hedging activity can be inter-. preted in a similar way. This chapter deals with techniques and strategies that use options in doing. this. We consider classical (vanilla) as well as exotic options tools.  

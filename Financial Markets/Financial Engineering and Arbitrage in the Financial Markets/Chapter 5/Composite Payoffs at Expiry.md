@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binary_options'
+  - '#buy_write_strategy'
+  - '#call_put_spreads'
+  - '#covered_call_writing'
+  - '#expiry_date'
+  - '#option_payoffs'
+  - '#options_strategies'
+  - '#put_protected_stock'
+  - '#straddles_strangles'
+---
 # 5.2 COMPOSITE PAYOFFS AT EXPIRY  
 
 Long and short positions in calls and puts can be combined to achieve narrowly tailored bets on. the range of the asset prices in the future. It is important to realize that speculators can both buy and sell (write) options. They can combine long and short positions. Here are some examples.  

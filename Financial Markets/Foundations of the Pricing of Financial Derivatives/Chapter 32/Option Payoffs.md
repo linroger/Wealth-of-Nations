@@ -1,3 +1,14 @@
+---
+tags:
+  - '#call_option'
+  - '#domestic_currency'
+  - '#exercise_price'
+  - '#foreign_currency_options'
+  - '#moneyness_conditions'
+  - '#option_payoffs'
+  - '#put_option'
+  - '#reciprocal_put'
+---
 # 32.2 OPTION PAYOFFS
 
 At this point in the book, you will be familiar with option payoff functions. Nonetheless, it will be useful to repeat them here. The payoff of the call at expiration is.

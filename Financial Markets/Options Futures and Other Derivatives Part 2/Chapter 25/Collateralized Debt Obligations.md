@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cash_cdos'
+  - '#cdo_structure'
+  - '#cdo_tranches'
+  - '#cdx_na_ig'
+  - '#collateralized_debt_obligations'
+  - '#credit_default_swaps'
+  - '#financial_crisis_impact'
+  - '#itraxx_europe'
+  - '#single_tranche_trading'
+  - '#synthetic_cdos'
+---
 # 25.8 COLLATERALIZED DEBT OBLIGATIONS  
 
 We discussed asset-backed securities (ABSs) in Chapter 8. Figure 8.1 shows a simple structure. An ABS where the underlying assets are bonds is known as a collateralized debt obligation, or $C D O$ . A waterfall similar to that indicated in Figure 8.2 is defined for the interest and principal payments on the bonds. The precise rules underlying the waterfall are complicated, but they are designed to ensure that, if one tranche is more senior than another, it is more likely to receive promised interest payments and repayments of principal.  

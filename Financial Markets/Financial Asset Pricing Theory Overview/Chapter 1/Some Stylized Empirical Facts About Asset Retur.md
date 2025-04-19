@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arithmetic_average'
+  - '#asset_returns'
+  - '#bond_returns'
+  - '#geometric_average'
+  - '#real_returns'
+  - '#return_distribution'
+  - '#stock_returns'
+  - '#treasury_bills'
+  - '#volatility_clustering'
+---
 # 1.3 Some stylized empirical facts about asset returns  
 
 This section will summarize some general empirical findings about asset returns. Before doing.   

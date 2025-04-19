@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_default'
+  - '#credit_derivatives'
+  - '#credit_risk'
+  - '#financing_tool'
+  - '#floating_rate'
+  - '#notional_principal'
+  - '#physical_settlement'
+  - '#total_return_swaps'
+---
 # 25.7  TOTAL RETURN SWAPS  
 
 A total return swap is a type of credit derivative. It is an agreement to exchange the total return on a bond (or any portfolio of assets) for a floating rate plus a spread. The. total return includes coupons, interest, and the gain or loss on the asset over the life of. the swap.  

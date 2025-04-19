@@ -1,3 +1,15 @@
+---
+tags:
+  - '#capital_structure_arbitrage'
+  - '#cms_linked_structures'
+  - '#convertible_bonds'
+  - '#equity_valuation'
+  - '#hybrid_equity_products'
+  - '#option_pricing'
+  - '#reverse_convertibles'
+  - '#structural_models_of_default'
+  - '#structured_products'
+---
 # 19.7 CONCLUSIONS  
 
 In this chapter, we saw how we can apply the financial engineering and option pricing principles to value equity. Equity can be viewed as an option on the assets of the firm with a strike price equal to the debt value. Structural models of default thus establish a link between equity markets and bond or CDS markets. The development of credit derivative markets has accelerated the use of structural models of default in practice. Their applications range from the forecasting of default to capital structure arbitrage. Convertible bonds are hybrid products that can be converted from debt to equity. Convertible bond arbitrage strategies are based on exploiting cheap volatility while delta hedging the position. In the next chapter, we will review various structure products including reverse convertibles. Unlike convertible bonds, in reverse convertibles, the conversion option is conveyed to the issuer of the product and not the buyer. Both types of instruments have thus embedded options whose value depends on the implied volatility.  

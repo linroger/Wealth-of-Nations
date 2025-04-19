@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_liability_management'
+  - '#bank_regulation'
+  - '#banking_risks'
+  - '#capital_flow'
+  - '#commercial_banks'
+  - '#duration_gap_management'
+  - '#financial_intermediaries'
+  - '#interest_sensitive_gap_management'
+  - '#value_at_risk_var'
+---
 # 13 Banks: Asset-Liability Management  
 
 Banks play a very important role in the flow of funds in the economy. Capital received by households in the form of wages and investment returns is recycled back to business entities either through financial markets or through financial institutions. Consider the simplified model of the capital flow for the US economy in Figure 13.1.  

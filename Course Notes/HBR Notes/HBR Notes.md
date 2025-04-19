@@ -1,11 +1,14 @@
 ---
-tags: 
 cssclasses: academia
 title: HBR Notes
-aliases: [HBR NOTES,  V. HBR NOTES]
+aliases:
+  - HBR NOTES
+  - V. HBR NOTES
 linter-yaml-title-alias: HBR NOTES
+tags:
+  - '#hbr_notes'
+  - '#waypoint'
 ---
-
 # HBR Notes
 
 %% Begin Waypoint %%

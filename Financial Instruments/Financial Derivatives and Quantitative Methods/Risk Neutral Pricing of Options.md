@@ -1,15 +1,19 @@
 ---
-aliases: 
-tags:
-  - "#quantitative-finance"
-  - "#financial-derivatives"
-  - "#risk-management"
-  - "#option-pricing"
-  - "#derivative-strategies"
-  - "#binomial-model"
+aliases:
 cssclasses:
   - academia
 title: Risk Neutral Pricing of Options
+tags:
+  - '#american_options'
+  - '#arbitrage_bounds'
+  - '#binomial_model'
+  - '#delta_hedging'
+  - '#european_options'
+  - '#option_pricing'
+  - '#option_strategies'
+  - '#put_call_parity'
+  - '#risk_neutral_valuation'
+  - '#synthetic_options'
 ---
  
 [[Risk Neutral Pricing of Options|Risk Neutral Pricing]]

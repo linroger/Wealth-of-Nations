@@ -1,3 +1,14 @@
+---
+tags:
+  - '#compounding_swaps'
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#forward_rate_agreements'
+  - '#notional_principal'
+  - '#ois_rates'
+  - '#sofr'
+  - '#swap_valuation'
+---
 # 34.2 COMPOUNDING SWAPS  
 
 Another variation on the plain vanilla swap is a compounding swap. A hypothetical confirmation for a compounding swap is in Business Snapshot 34.2. In this example there is only one payment date for both the floating-rate payments and the fixed-rate payments. This is at the end of the life of the swap. The floating rate of interest is SOFR plus 20 basis points. Instead of being paid, the interest is compounded forward until the end of the life of the swap at a rate of SOFR. The fixed rate of interest is $2\%$ per annum. Instead of being paid this interest is compounded forward at a fixed rate of interest of $2.3\%$ per annum until the end of the swap.  

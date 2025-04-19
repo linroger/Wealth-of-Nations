@@ -5,28 +5,19 @@ aliases:
   - Note On LBO Capital Structure Module Note
   - Note On LBO Capital Structure Module Note.md
 linter-yaml-title-alias: Note On LBO Capital Structure
-tags:
-
-  - 
-  - leveragedbuyout
-  - debtfinancing
-  - capitalstructure
-  - seniorsecureddebt
-  - juniorsecureddebt
-  - assetsbackedloans
-  - leveragedloans
-  - highyieldbonds
-  - mezzaninedebt
-  - financialratios
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-instruments"
-  - "#leveraged-buyouts"
-  - "#capital-structure"
-  - "#debt-financing"
 title: Note on LBO Capital Structure Module Note
+tags:
+  - '#asset_backed_loans'
+  - '#debt_financing'
+  - '#high_yield_bonds'
+  - '#institutional_tranche'
+  - '#junior_debt'
+  - '#lbo_capital_structure'
+  - '#leveraged_loans'
+  - '#mezzanine_financing'
+  - '#pro_rata_tranche'
+  - '#senior_secured_debt'
 ---
-
 [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBO]]
 
 # Note on LBO Capital Structure Module Note

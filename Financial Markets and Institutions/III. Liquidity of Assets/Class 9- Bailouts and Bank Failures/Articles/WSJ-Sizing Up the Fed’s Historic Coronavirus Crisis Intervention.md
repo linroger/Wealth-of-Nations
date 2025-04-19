@@ -1,13 +1,21 @@
 ---
 aliases:
-- "Sizing Up the Fed\u2019s Historic Coronavirus Crisis Intervention"
-- "WSJ-Sizing Up the Fed\u2019s Historic Coronavirus Crisis Intervention.md"
-- "WSJ-Sizing Up the Fed\u2019s Historic Coronavirus Crisis Intervention"
-linter-yaml-title-alias: "Sizing Up the Fed\u2019s Historic Coronavirus Crisis Intervention"
+  - Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
+  - WSJ-Sizing Up the Fed’s Historic Coronavirus Crisis Intervention.md
+  - WSJ-Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
+linter-yaml-title-alias: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
+title: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 tags:
-- 
-- 
-title: "Sizing Up the Fed\u2019s Historic Coronavirus Crisis Intervention"
+  - '#asset_backed_securities'
+  - '#coronavirus_crisis'
+  - '#corporate_debt'
+  - '#currency_markets'
+  - '#federal_reserve'
+  - '#investment_grade_debt'
+  - '#liquidity_measures'
+  - '#market_intervention'
+  - '#repo_markets'
+  - '#treasurys'
 ---
 # WSJ-Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#cds_trs_comparison'
+  - '#cds_valuation_example'
+  - '#eds_cds_comparison'
+  - '#gfc_cds_pricing'
+  - '#real_world_complications_cds'
+  - '#single_name_cds'
+  - '#sovereign_cds'
+---
 # 18.7 Pricing Single-Name CDS . 646  
 
 18.7.1 A Simplified CDS Valuation Example. 646   

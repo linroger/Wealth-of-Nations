@@ -1,10 +1,17 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Currency Swaps
+tags:
+  - '#bond_valuation'
+  - '#currency_swaps'
+  - '#exchange_rate_risk'
+  - '#foreign_currency'
+  - '#government_bonds'
+  - '#hedging'
+  - '#principal_exchange'
+  - '#swap_contract'
 ---
 # Currency Swaps
 

@@ -1,12 +1,10 @@
 ---
 title: Week 6 Advanced Financial Analysis and Valuation
 tags:
-  - "#financialanalysis"
-  - "#valuationanalysis"
-  - "#bank-valuation"
-  - "#financial-regulation"
+  - '#advanced_financial_analysis'
+  - '#valuation'
+  - '#week_6'
 ---
-
 # Week 6 Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

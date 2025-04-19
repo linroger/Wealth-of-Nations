@@ -1,18 +1,19 @@
 ---
 title: Inflationary Depressions and Currency Crises
 aliases: []
-tags:
-  - "#Debt_Cycles"
-  - "#Financial_Crises"
-  - "#monetary-policy"
-  - "#debt-management"
-  - "#economic-depression"
-  - "#currency-crisis"
-  - "#inflationary-depression"
-  - "#hyperinflation"
 cssclasses: academia
+tags:
+  - '#capital_outflows'
+  - '#central_banks'
+  - '#currency_crises'
+  - '#currency_devaluation'
+  - '#debt_cycles'
+  - '#foreign_exchange_reserves'
+  - '#hyperinflation'
+  - '#inflationary_depressions'
+  - '#wage_cost_spiral'
+  - '#weimar_republic'
 ---
-
 # Inflationary Depressions and Currency Crises
 
 ## ****Inflationary Depressions and Currency Crises

@@ -2,14 +2,18 @@
 aliases:
   - 
   - 
-tags:
-
-  - "#finance"
-  - "#investmentanalysis"
-  - "#corporatefinance"
-  - "#automotive-industry"
-  - "#valuation-metrics"
 title: BMW Valuation Multiples
+tags:
+  - '#asset_turnover'
+  - '#auto_industry_analysis'
+  - '#bmw_valuation'
+  - '#debt_ebit'
+  - '#debt_ratio'
+  - '#ev_ebit'
+  - '#ev_sales'
+  - '#peer_comparison'
+  - '#roic'
+  - '#valuation_multiples'
 ---
 # BMW Valuation Multiples
 

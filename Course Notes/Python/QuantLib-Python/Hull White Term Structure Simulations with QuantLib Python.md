@@ -1,10 +1,17 @@
 ---
 title: Hull White Term Structure Simulations with QuantLib Python
-source: "https://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-python.html"
-description: "Discusses simulation of the Hull White interest rate term structure model in QuantLib Python"
-tags: ["clippings"]
+source: https://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-python.html
+description: Discusses simulation of the Hull White interest rate term structure model
+  in QuantLib Python
+tags:
+  - '#hull_white_model'
+  - '#interest_rate_term_structure'
+  - '#model_properties'
+  - '#quantlib_python'
+  - '#short_rate_simulation'
+  - '#simulation_parameters'
+  - '#term_structure_simulation'
 ---
-
 # Hull White Term Structure Simulations with QuantLib Python
 Discusses simulation of the Hull White interest rate term structure model in QuantLib Python
 

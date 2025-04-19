@@ -1,3 +1,11 @@
+---
+tags:
+  - '#application'
+  - '#contract_types'
+  - '#elementary_contracts'
+  - '#options'
+  - '#replication'
+---
 # 2.4 An Application. 401  
 
 12.4.1 Obtaining the $\omega^{j}$ 402   

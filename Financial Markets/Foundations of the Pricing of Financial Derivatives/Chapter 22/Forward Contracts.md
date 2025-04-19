@@ -1,3 +1,13 @@
+---
+tags:
+  - '#cash_settlement'
+  - '#forward_contracts'
+  - '#forward_price'
+  - '#off_market_forwards'
+  - '#options_vs_forwards'
+  - '#pricing_models'
+  - '#valuation'
+---
 # 22.1 FORWARD CONTRACTS
 
 A forward contract is an agreement between two parties in which the buyer, or long, agrees. that at a future date, called the expiration, the buyer will purchase an asset from the seller, or short, at a price they agree on today. This price they agree on is called the forward. price. A forward contract is a firm commitment, which distinguishes it from an option. An option is a right, but not an obligation. The holder of the option can exercise it, but they. will not do so if market conditions are not favorable. In a forward contract, the future transaction that the two parties agree on will be executed for certain.1 No money changes. hands between the two parties when the contract is initiated. Thus, the contract is neither an asset nor a liability, and in fact, it has zero value at the start. When time elapses and the value of the underlying moves, value is created for one party and destroyed for the other.

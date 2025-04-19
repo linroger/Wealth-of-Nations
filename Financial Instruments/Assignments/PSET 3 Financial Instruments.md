@@ -2,10 +2,19 @@
 aliases:
   - GREECE CURRENCY SWAPS
 linter-yaml-title-alias: 1          GREECE CURRENCY SWAPS
-tags: 
 title: PSET 3 Financial Instruments
+tags:
+  - '#collar_strategy'
+  - '#currency_swap'
+  - '#financial_instruments'
+  - '#greece_bond'
+  - '#hedging_strategies'
+  - '#jet_fuel_risk'
+  - '#option_strategies'
+  - '#put_call_parity'
+  - '#southwest_airlines'
+  - '#zero_coupon_bond'
 ---
-
 **Homework 3**
 Roger Lin
 Suna Bai

@@ -1,10 +1,17 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Lecture Notes 9A-Credit Default Swaps
+tags:
+  - '#cds_indexes'
+  - '#cds_market'
+  - '#credit_default_swaps'
+  - '#global_financial_crisis'
+  - '#multi_name_cds'
+  - '#reference_entity'
+  - '#single_name_cds'
+  - '#sovereign_cds'
 ---
 # Lecture Notes 9A- Credit Default Swaps
 ### Financial Instruments

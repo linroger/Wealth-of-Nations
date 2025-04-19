@@ -1,8 +1,17 @@
 ---
 title: Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
-aliases: [Calculation of Optimal Time to Drill an Oil Well]
+aliases:
+  - Calculation of Optimal Time to Drill an Oil Well
+tags:
+  - '#infinite_shutdown_restart'
+  - '#investment_deferral'
+  - '#numerical_implementation'
+  - '#oil_well_drilling'
+  - '#optimal_time_to_drill'
+  - '#shutdown_restart_analysis'
+  - '#single_barrel_solution'
+  - '#well_value_calculation'
 ---
-
 # Appendix 17. A Calculation of Optimal Time to Drill an Oil Well
 ## Single-Barrel Solution
 

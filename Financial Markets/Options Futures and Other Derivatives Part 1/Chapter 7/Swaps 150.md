@@ -1,3 +1,13 @@
+---
+tags:
+  - '#credit_default_swaps'
+  - '#credit_risk'
+  - '#currency_swaps'
+  - '#interest_rate_swaps'
+  - '#risk_free_rates'
+  - '#swap_trading'
+  - '#swap_valuation'
+---
 # Chapter 7. Swaps ... .150  
 
 7.1 Mechanics of interest rate swaps. .150   

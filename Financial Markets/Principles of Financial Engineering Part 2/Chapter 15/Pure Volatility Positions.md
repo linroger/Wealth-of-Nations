@@ -1,3 +1,15 @@
+---
+tags:
+  - '#european_options'
+  - '#liquidity_problems'
+  - '#option_portfolios'
+  - '#pure_volatility_positions'
+  - '#smile_effect'
+  - '#strike_price'
+  - '#synthetic_instruments'
+  - '#vega_sensitivity'
+  - '#volatility_risk_hedging'
+---
 # 15.4 PURE VOLATILITY POSITIONS  
 
 The key to finding the right way to hedge volatility risk or to take positions in it is to isolate the "volatility"' completely, using existing liquid instruments. In other words, we have to construct a synthetic such that the value of the synthetic changes only when "volatility" changes. This position should not be sensitive to variations in variables other than the underlying volatility. The exposure should be invariant. Then, we can use the synthetic to take volatility exposures or to hedge volatility risk. Such volatility instruments can be quite useful.  

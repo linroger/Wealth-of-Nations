@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#delta_hedging'
+  - '#dynamic_hedging'
+  - '#imperfect_volatility_positions'
+  - '#implied_volatility'
+  - '#static_volatility_position'
+  - '#straddles'
+  - '#variance_vega'
+  - '#volatility_engineering'
+  - '#volatility_payoffs'
+---
 # 15.3 INVARIANCE OF VOLATILITY PAYOFFS  
 
 In previous chapters, convexity was used to isolate volatility as a risk. In Chapters 9 and 10, we showed how to convert the volatility of an underlying into "cash," and with that took the first steps toward volatility engineering.  

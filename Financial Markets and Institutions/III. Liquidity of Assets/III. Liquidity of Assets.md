@@ -1,7 +1,9 @@
 ---
 title: III. Liquidity of Assets
+tags:
+  - '#asset_liquidity'
+  - '#liquidity_of_assets'
 ---
-
 # III. Liquidity of Assets
 %% Begin Waypoint %%
 - **[[III. Liquidity of Assets]]**

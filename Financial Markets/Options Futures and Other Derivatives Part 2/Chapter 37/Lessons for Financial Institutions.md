@@ -1,3 +1,16 @@
+---
+tags:
+  - '#derivatives_disasters'
+  - '#financial_institutions'
+  - '#incentives'
+  - '#liquidity_risk'
+  - '#market_transparency'
+  - '#model_risk'
+  - '#risk_management'
+  - '#short_term_funding'
+  - '#subprime_mortgages'
+  - '#trading_strategies'
+---
 # 37.2 LESSONS FOR FINANCIAL INSTITUTIONS  
 
 We now move on to consider lessons that are primarily relevant to financial institutions.  

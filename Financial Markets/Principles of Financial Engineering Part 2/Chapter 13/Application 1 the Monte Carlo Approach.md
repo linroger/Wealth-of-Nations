@@ -1,3 +1,14 @@
+---
+tags:
+  - '#digital_options'
+  - '#discretization_bias'
+  - '#european_options'
+  - '#fx_options'
+  - '#monte_carlo_method'
+  - '#option_pricing'
+  - '#path_dependency'
+  - '#risk_neutral_dynamics'
+---
 # 13.2 APPLICATION 1: THE MONTE CARLO APPROACH  
 
 Consider again the expectation involving a function $C\left(S_{t},t\right)$ of the underlying risk. $S_{t}$ under a working Martingale measure, $\bar{\tilde{P}}$  

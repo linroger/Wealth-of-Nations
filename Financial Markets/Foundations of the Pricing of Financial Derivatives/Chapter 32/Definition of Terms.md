@@ -1,3 +1,14 @@
+---
+tags:
+  - '#domestic_currency'
+  - '#exercise_price'
+  - '#expiration_date'
+  - '#foreign_currency'
+  - '#quote_currency'
+  - '#risk_free_interest_rate'
+  - '#spot_exchange_rate'
+  - '#volatility'
+---
 # 32.1 DEFINITION OF TERMS
 
 Let us start by giving a clear definition of the terms we shall use:

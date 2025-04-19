@@ -1,15 +1,16 @@
 ---
 aliases:
 tags:
-
-  - "#finance"
-  - "#corporatefinance"
-  - "#valuation"
-  - "#investmentanalysis"
-  - "#riskanalysis"
-  - "#private-equity"
-  - "#control-premium"
-  - "#corporate-governance"
+  - '#closely_held_firms'
+  - '#control_premium'
+  - '#corporate_governance'
+  - '#family_firms'
+  - '#insider_ownership'
+  - '#investor_protection'
+  - '#marketability_discount'
+  - '#minority_discount'
+  - '#private_company_valuation'
+  - '#related_party_transactions'
 ---
 # TODAY
  - More than 60% of global GDP driven by "closely held" public or private firms

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arithmetic_brownian_motion'
+  - '#derivative_pricing'
+  - '#geometric_brownian_motion'
+  - '#ito_lemma'
+  - '#ito_process'
+  - '#option_pricing'
+  - '#stochastic_calculus'
+  - '#stochastic_variable'
+  - '#wiener_process'
+---
 # 11.2 INTRODUCING STOCHASTIC CALCULUS AND ITO'S LEMMA
 
 In ordinary calculus, the variables are non-stochastic, which simply means that when we. talk about a particular value of. $x$ , that value is known for certain. When. $x$ is stochastic, we leave the world of ordinary calculus and enter the world of stochastic calculus. There we cannot talk about a particular value of $x$ . Instead, we must talk about a set of possible values of $x$ that are generated according to a probability distribution. In stochastic calculus,. results are proven by demonstrating what happens when squared values of a variable are. multiplied by probabilities. A result is said to hold in "mean square limit."1 A more formal. statement of this concept is presented later in this chapter..

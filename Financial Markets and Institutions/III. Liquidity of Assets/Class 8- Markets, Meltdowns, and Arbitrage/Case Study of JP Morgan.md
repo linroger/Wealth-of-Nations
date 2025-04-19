@@ -4,26 +4,19 @@ cssclasses:
 aliases:
   - Case Study of JP Morgan.md
   - Case Study of JP Morgan
-tags:
-
-  - 
-  - quantitative-finance
-  - finance
-  - risk-management
-  - financial-crises
-  - derivatives
-  - banking-regulation
-  - risk-control-failures
-  - investment-strategies
-  - "#case-studies"
-  - "#financial-crisis"
-  - "#banking"
-  - "#jpmorgan"
-  - "#synthetic-credit-portfolio"
-  - "#london-whale"
 title: Case Study of JP Morgan
+tags:
+  - '#basel_iii'
+  - '#chief_investment_office'
+  - '#credit_derivatives'
+  - '#financial_crisis'
+  - '#governance_failures'
+  - '#jp_morgan'
+  - '#london_whale'
+  - '#risk_management'
+  - '#synthetic_credit_portfolio'
+  - '#vaar'
 ---
-
 # Case Study of JP Morgan
 
 Case Study of JP Morgan From a forthcoming book by Basel III: Proposals for a Better Banking Regime

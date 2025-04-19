@@ -1,3 +1,12 @@
+---
+tags:
+  - '#ad_hoc_synthetics'
+  - '#dynamic_replication'
+  - '#dynamic_replication_principles'
+  - '#real_life_complications'
+  - '#static_replication'
+  - '#synthetics_engineering'
+---
 # CHAPTER 8 Dynamic Replication Methods and Synthetics Engineering .... 237  
 
 8.1 Introduction. 238   

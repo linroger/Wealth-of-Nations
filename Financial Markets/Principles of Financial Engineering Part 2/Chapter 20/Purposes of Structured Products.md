@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cliquets'
+  - '#equity_structured_products'
+  - '#forward_volatility'
+  - '#hedging_strategies'
+  - '#mountain_options'
+  - '#option_payoffs'
+  - '#principal_protected_products'
+  - '#reverse_convertibles'
+  - '#structured_products'
+  - '#volatility_gamma'
+---
 # 20.2 PURPOSES OF STRUCTURED PRODUCTS  
 
 Structured products may have at least four specific objectives.  

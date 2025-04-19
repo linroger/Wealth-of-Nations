@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_principle'
+  - '#binomial_process'
+  - '#hedge_portfolio'
+  - '#no_arbitrage_model'
+  - '#one_period_binomial_model'
+  - '#put_option_pricing'
+  - '#put_option_value'
+  - '#risk_free_rate'
+  - '#risk_neutral_model'
+---
 # 7.2 THE ONE-PERIOD BINOMIAL MODEL FOR PUTS
 
 Here we follow a similar pattern with puts as we did with calls in the last section. We specified an asset priced at S that can go up to. $S u$ Or down to $S d$ (the up state and down state, respectively). This basic idea was communicated in Figure 7.1. Now consider a put.

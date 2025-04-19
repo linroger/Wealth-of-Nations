@@ -1,5 +1,8 @@
 ---
 title: Economic Stabilization Notes
+tags:
+  - '#economic_stabilization'
+  - '#waypoint'
 ---
 # Economic Stabilization Notes
 

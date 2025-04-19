@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#euler_rule'
+  - '#european_call_option'
+  - '#ito_process'
+  - '#linear_homogeneity'
+  - '#option_pricing'
+  - '#partial_differential_equation'
+  - '#risk_neutral_approach'
+---
 # 17.4 USING LINEAR HOMOGENEITY AND EULER'S RULE TO DERIVE THE BLACK-SCHOLES-MERTON MODEL
 
 In Merton's (1973b) classic article on option pricing theory, he demonstrated that the price of a European call option is linearly homogeneous with respect to the asset price and exercise price. Merton derived this result by defining the problem in terms of the rate of return on the option. In this chapter, we shall take a slightly different but economically equivalent approach.

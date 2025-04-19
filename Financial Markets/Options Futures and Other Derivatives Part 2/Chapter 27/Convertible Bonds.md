@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#bond_call_feature'
+  - '#bond_valuation'
+  - '#convertible_bonds'
+  - '#credit_risk'
+  - '#default_probability'
+  - '#geometric_brownian_motion'
+  - '#risk_neutral_hazard_rate'
+  - '#stock_price_modeling'
+---
 # 27.4 CONVERTIBLE BONDS  
 
 We now move on to discuss how the numerical procedures presented in Chapter 21 can be modified to handle particular valuation problems. We start by considering convertible bonds.  

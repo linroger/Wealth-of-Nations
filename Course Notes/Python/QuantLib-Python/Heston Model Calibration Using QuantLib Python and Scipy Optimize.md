@@ -1,7 +1,17 @@
 ---
 title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
+tags:
+  - '#basin_hopping'
+  - '#differential_evolution'
+  - '#global_minima'
+  - '#heston_model_calibration'
+  - '#least_squares_method'
+  - '#levenberg_marquardt'
+  - '#local_minima'
+  - '#parameter_calibration'
+  - '#quantlib_python'
+  - '#scipy_optimize'
 ---
-
 # Heston Model Calibration Using QuantLib Python and Scipy Optimize
 In this post we do a deep dive on calibration of Heston model using QuantLib Python and Scipy's Optimize package.
 

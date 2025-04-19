@@ -1,10 +1,13 @@
 ---
-aliases: [Class 9Bailouts and Bank Failures]
+aliases:
+  - Class 9Bailouts and Bank Failures
 linter-yaml-title-alias: Class 9Bailouts and Bank Failures
-tags: []
 title: Class 9Bailouts and Bank Failures
+tags:
+  - '#bailouts'
+  - '#bank_failures'
+  - '#class_9'
 ---
-
 # Class 9Bailouts and Bank Failures
 
 %% Begin Waypoint %%

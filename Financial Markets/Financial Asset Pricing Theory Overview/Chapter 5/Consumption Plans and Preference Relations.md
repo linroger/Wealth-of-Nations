@@ -1,3 +1,14 @@
+---
+tags:
+  - '#consequentialism'
+  - '#consumption_plans'
+  - '#expected_utility'
+  - '#preference_relation'
+  - '#probability_distribution'
+  - '#state_independent_preferences'
+  - '#state_space'
+  - '#utility_index'
+---
 # 5.2 Consumption plans and preference relations  
 
 It seems fair to assume that whenever the individual compares two different consumption plans, she will be able either to say that she prefers one of them to the other or to say that she is indifferent between the two consumption plans. Moreover, she should make such pairwise comparisons in a consistent way. For example, if she prefers plan 1 to plan 2 and plan 2 to plan 3, she should prefer plan 1 to plan 3. If these properties hold, we can formally represent the preferences of the individual by a so-called preference relation. A preference relation itself is not very tractable so we are looking for simpler ways of representing preferences. First, we will find conditions under which it makes sense to represent preferences by a so-called utility index which attaches a real number to each consumption plan. If and only if plan 1 has a higher utility index than plan 2, the individual prefers plan 1 to plan 2. Attaching numbers to each possible consumption plan is also not. easy so we look for an even simpler representation. We show that under an additional condition we can represent preferences in an even simpler way in terms of the expected value of a utility function. A utility function is a function defined on the set of possible levels of consumption. Since. consumption is random it then makes sense to talk about the expected utility of a consumption plan. The individual will prefer consumption plan 1 to plan 2 if and only if the expected utility from consumption plan 1 is higher than the expected utility from consumption plan 2. This representation of preferences turns out to be very tractable and is applied in the vast majority of asset pricing models.  

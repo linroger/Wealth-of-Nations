@@ -1,3 +1,16 @@
+---
+tags:
+  - '#burnout'
+  - '#cpr'
+  - '#default_modeling'
+  - '#lock_in_effect'
+  - '#mortgage_prepayments'
+  - '#mortgage_rates'
+  - '#prepayment_modeling'
+  - '#refinancing_models'
+  - '#s_curve'
+  - '#turnover'
+---
 # 15.6 PREPAYMENT MODELING  
 
 The complex behavior of prepayments, combined with their importance in.   

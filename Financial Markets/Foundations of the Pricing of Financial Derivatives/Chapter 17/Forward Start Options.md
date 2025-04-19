@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#euler_rule'
+  - '#european_option'
+  - '#exercise_price'
+  - '#forward_contract_on_option'
+  - '#forward_start_option'
+  - '#linear_homogeneity'
+  - '#option_pricing'
+  - '#option_replication'
+  - '#option_timeline'
+---
 # 17.7 FORWARD START OPTIONS
 
 Another useful application of Euler's rule is that of a forward start option, which is an option that is purchased today but does not begin until a later date. When the premium is paid today, the purchaser specifies that they wish to acquire an option at a designated later date that has a particular degree of moneyness..

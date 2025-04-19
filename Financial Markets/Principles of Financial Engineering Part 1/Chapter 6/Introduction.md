@@ -1,3 +1,14 @@
+---
+tags:
+  - '#currency_forwards'
+  - '#euro_denominated_bonds'
+  - '#forwards_futures_contracts'
+  - '#fx_forward_contracts'
+  - '#no_arbitrage'
+  - '#synthetic_instruments'
+  - '#synthetic_zero_coupon_bond'
+  - '#usd_chf'
+---
 # 6.1 INTRODUCTION  
 
 Forwards and futures contracts are ideal for creating synthetic instruments for many reasons. Forwards and futures are, in general, linear permitting static replication. They are often very liquid and, in the case of currency forwards, have homogeneous underlying. Many technical complications are automatically eliminated by the homogeneity of a currency. Consider the following interpretation..  

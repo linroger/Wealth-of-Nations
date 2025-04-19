@@ -1,3 +1,16 @@
+---
+tags:
+  - '#algorithmic_trading'
+  - '#auctions'
+  - '#day_trading'
+  - '#financial_markets'
+  - '#financialization'
+  - '#liquidity'
+  - '#market_microstructure'
+  - '#order_types'
+  - '#securities_trading'
+  - '#trading_strategies'
+---
 # Introduction to Securities Trading and Markets  
 
 # 1.1 TRADES, TRADERS, SECURITIES, AND MARKETS  

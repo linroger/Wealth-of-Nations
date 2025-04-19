@@ -1,3 +1,16 @@
+---
+tags:
+  - '#continuous_time_framework'
+  - '#discrete_time_framework'
+  - '#dividend_beta'
+  - '#excess_returns'
+  - '#market_price_of_risk'
+  - '#pricing_kernel'
+  - '#return_beta'
+  - '#risk_free_rate'
+  - '#state_price_deflator'
+  - '#stochastic_discount_factor'
+---
 # 4.2 Definitions and immediate consequences  
 
 This section gives a formal definition of a state-price deflator. Some authors use the name stochastic discount factor, event-price deflator, or pricing kernel instead of state-price deflator..  

@@ -1,16 +1,17 @@
 ---
 aliases:
 tags:
-
-  - "#finance"
-  - "#investmentanalysis"
-  - "#riskanalysis"
-  - "#financialmarkets"
-  - "#international-valuation"
-  - "#emerging-markets"
-  - "#political-risk"
+  - '#cost_of_capital'
+  - '#emerging_markets'
+  - '#information_risk'
+  - '#international_risks'
+  - '#international_valuation'
+  - '#investor_protection'
+  - '#ownership_structure'
+  - '#political_risk'
+  - '#scenario_analysis'
+  - '#wacc'
 ---
-
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 
 ## TODAY

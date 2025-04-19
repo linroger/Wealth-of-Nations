@@ -3,17 +3,17 @@ aliases:
   - 
   - 
 tags:
-
-  - "#finance"
-  - "#valuation-analysis"
-  - "#corporate-finance"
-  - "#case-study"
-  - "#financial-analysis"
-  - "#private-company-valuation"
-  - "#minority-shareholder-rights"
-  - "#recapitalization-strategy"
+  - '#control_premium'
+  - '#discounted_cash_flow'
+  - '#fair_value'
+  - '#kohler_co'
+  - '#marketability_discount'
+  - '#minority_shareholders'
+  - '#multiples_analysis'
+  - '#private_company_valuation'
+  - '#recapitalization'
+  - '#valuation_methods'
 ---
-
 Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

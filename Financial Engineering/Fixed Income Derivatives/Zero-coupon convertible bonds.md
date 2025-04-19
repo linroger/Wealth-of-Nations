@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_floor'
+  - '#convertible_quanto_note'
+  - '#delta_of_option'
+  - '#equity_exposure'
+  - '#foreign_exchange_risk'
+  - '#issuer_funding'
+  - '#option_pricing_models'
+  - '#optional_convertible_notes'
+  - '#volatility_trade'
+  - '#zero_coupon_convertible_bonds'
+---
 # [[1. DeterministicCashFlows#2 Fixed Income Securities|Zero-coupon]] [[7. Black Scholes Model|convertible bonds]]
 Zero-coupon convertible bonds or “optional convertible notes” (OCNs) are wellestablished in the market. When they are issued at a discount to par, they exhibit an  implicit yield and trade essentially as coupon convertibles. Similarly, if they are  issued at par but redeemed at a stated price above par, an implicit coupon is paid and  so again these bonds trade in similar fashion to coupon convertibles. A zero-coupon  bond issued at par and redeemed at par is a slightly different instrument for investors  to consider. With these products, the buyer is making more of an equity play than he  is with conventional OCNs, but with an element of capital protection retained.
 

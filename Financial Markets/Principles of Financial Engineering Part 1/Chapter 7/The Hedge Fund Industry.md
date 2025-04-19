@@ -1,3 +1,16 @@
+---
+tags:
+  - '#alternative_investment_funds'
+  - '#dodd_frank_act'
+  - '#financial_engineering'
+  - '#hedge_fund_industry'
+  - '#hedge_fund_leverage'
+  - '#hedge_fund_regulation'
+  - '#hedge_fund_strategies'
+  - '#investment_mandate'
+  - '#market_participants'
+  - '#prime_brokers'
+---
 # 7.5 THE HEDGE FUND INDUSTRY  
 
 Throughout the book we refer to the application of financial engineering techniques to trading. opportunities and arbitrage as well as derivatives product design. One of the most prominent types of arbitrageur in financial markets is hedge funds. Their strategies are very diverse, but many funds  

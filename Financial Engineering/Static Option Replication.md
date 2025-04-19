@@ -1,3 +1,15 @@
+---
+tags:
+  - '#barrier_options'
+  - '#binomial_method'
+  - '#black_scholes_theory'
+  - '#dynamic_hedging'
+  - '#exotic_options'
+  - '#hedging_strategies'
+  - '#options_valuation'
+  - '#replicating_portfolio'
+  - '#static_options_replication'
+---
 # Quantitative Strategies Research Notes  
 
 # Static Options Replication  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#continuous_compounding'
+  - '#delivery_date'
+  - '#forward_futures_contracts'
+  - '#market_participants'
+  - '#notation'
+  - '#risk_free_rate'
+  - '#transaction_costs'
+---
 # 5.3 ASSUMPTIONS AND NOTATION  
 
 In this chapter we will assume that the following are all true for some market participants:  

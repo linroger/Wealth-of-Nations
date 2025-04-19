@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_pricing'
+  - '#call_option_pricing'
+  - '#derivative_pricing'
+  - '#interest_rate_contingent_claim'
+  - '#law_of_one_price'
+  - '#option_price_determination'
+  - '#replicating_portfolio'
+  - '#riskless_arbitrage'
+  - '#zero_coupon_bonds'
+---
 # 7.2 ARBITRAGE PRICING OF DERIVATIVES  
 
 This section prices an interest rate contingent claim or derivative, in particular, a call option that expires in six months to purchase $\$1,000$ face value of a then six-month zero at $\$990$ . Figure 7.2 starts the price tree for this call option based on the rates and prices in Figure 7.1. If on date 1 the six-month rate is $2.50\%$ , and a six-month zero sells for $\$987.654$ , the right to buy that zero at $\$990$ is worthless. On the other hand, if the six-month rate is $1.50\%$ , and the price of a six-month zero is $\$992.556$ , then the right to buy the zero at $\$990$ is worth $\$992.556-\$9990$ , or $\$2.556$ . This description of the option's terminal payoffs emphasizes the contingent claim nature of the option: its value depends on interest rates through the value of an underlying bond.  

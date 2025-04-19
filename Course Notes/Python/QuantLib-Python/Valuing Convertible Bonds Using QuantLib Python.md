@@ -1,14 +1,21 @@
 ---
-category: "[[Clippings]]"
-author: 
+category: '[[Clippings]]'
+author:
 title: Valuing Convertible Bonds Using QuantLib Python
 source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
 clipped: 2024-10-25
-published: 
-topics: 
-tags: [clippings]
+published:
+topics:
+tags:
+  - '#black_scholes_merton'
+  - '#bond_valuation'
+  - '#call_put_schedule'
+  - '#conversion_ratio'
+  - '#convertible_bonds'
+  - '#dividend_information'
+  - '#quantlib_python'
+  - '#redemption_amount'
 ---
-
 # Valuing Convertible Bonds Using QuantLib Python
 
 Provides an introduction to valuation of convertible bonds using QuantLib Python with a minimal example.

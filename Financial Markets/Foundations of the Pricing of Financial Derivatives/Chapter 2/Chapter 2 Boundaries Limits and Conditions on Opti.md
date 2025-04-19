@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_options'
+  - '#european_options'
+  - '#interest_rate_effect_on_options'
+  - '#option_exercise_price'
+  - '#option_pricing_boundaries'
+  - '#option_value_at_expiration'
+  - '#put_call_parity'
+  - '#volatility_effect_on_options'
+---
 # CHAPTER 2 Boundaries, Limits, and Conditions on Option Prices 19
 
 2.1 Setup, Definitions, and Arbitrage 20

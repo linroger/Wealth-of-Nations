@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_returns'
+  - '#convexity'
+  - '#duration'
+  - '#expectations_hypothesis'
+  - '#forward_rates'
+  - '#gauss_plus_model'
+  - '#risk_premium'
+  - '#term_structure_of_interest_rates'
+  - '#vasicek_model'
+---
 # 8.3 AN ANALYTICAL DECOMPOSITION OF FORWARD RATES  
 
 This section derives a general decomposition of forward rates in terms of. expectations, convexity, and risk premium. The level of mathematics here is higher than used in most of the book, but the discussion still aims at intuition.  

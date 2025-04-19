@@ -4,10 +4,18 @@ cssclasses:
 aliases:
   - PSET 6-Financial Instruments
 linter-yaml-title-alias: PSET 6-Financial Instruments
-tags: 
 title: PSET 6-Financial Instruments
+tags:
+  - '#dividend_yield'
+  - '#financial_instruments'
+  - '#implied_volatility'
+  - '#morgan_stanley'
+  - '#option_elasticity'
+  - '#plus_security'
+  - '#risk_free_rate'
+  - '#sp500'
+  - '#structured_security'
 ---
-
 # PSET 6-Financial Instruments
 
 ma# PSET 6FINANCIAL INSTRUMENTS

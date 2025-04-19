@@ -1,10 +1,19 @@
 ---
 title: Valuing European Option Using the Heston Model in QuantLib Python
-source: "https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html"
-description: "Introduces an example on how to value European options using Heston model in Quantlib Python"
-tags: ["clippings"]
+source: 
+  https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+description: Introduces an example on how to value European options using Heston model
+  in Quantlib Python
+tags:
+  - '#aapl_option'
+  - '#black_scholes_merton'
+  - '#cir_process'
+  - '#european_option'
+  - '#heston_model'
+  - '#option_pricing'
+  - '#quantlib_python'
+  - '#stochastic_volatility'
 ---
-
 # Valuing European Option Using the Heston Model in QuantLib Python
 
 Introduces an example on how to value European options using Heston model in Quantlib Python

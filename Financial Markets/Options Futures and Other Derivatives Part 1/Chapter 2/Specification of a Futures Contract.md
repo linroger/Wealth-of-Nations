@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_specification'
+  - '#commodity_futures'
+  - '#contract_size'
+  - '#delivery_arrangements'
+  - '#delivery_months'
+  - '#exchange_regulations'
+  - '#futures_contract_specification'
+  - '#position_limits'
+  - '#price_limits'
+  - '#price_quotes'
+---
 # 2.2 SPECIFICATION OF A FUTURES CONTRACT  
 
 When developing a new contract, the exchange must specify in some detail the exact nature of the agreement between the two parties. In particular, it must specify the asset, the contract size (exactly how much of the asset will be delivered under one contract), where delivery can be made, and when delivery can be made.  

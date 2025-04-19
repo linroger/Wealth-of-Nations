@@ -1,11 +1,21 @@
 ---
 Owner: RRoger Lin
 aliases:
-- Note on The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act and Its Impact.md
-- Note on The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act and Its Impact.md
+  - Note on The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act and Its
+    Impact.md
+  - Note on The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act and Its
+    Impact.md
 tags:
-- Primers/Notes
-- 
+  - '#asset_securitization'
+  - '#basel_iii'
+  - '#contingent_convertible_securities'
+  - '#dodd_frank_act'
+  - '#financial_crisis_2008'
+  - '#financial_reform'
+  - '#financial_stability'
+  - '#orderly_liquidation_authority'
+  - '#regulatory_oversight'
+  - '#volcker_rule'
 ---
 # Note on The Dodd-Frank Act and Its Impact
 On July 21, 2010, President Obama signed into law the [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Wall Street Reform and Consumer Protection Act ([[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act), one of the most sweeping financial reform bills in the history of the United States. The [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act, in response to the preceding financial crisis of 2008–09, fundamentally changed the finance industry and greatly affected its biggest players. This technical note gives an overview of the most important parts of the act (and other regulatory reform) and the effect these reforms may have on the country’s largest financial institutions. It is important to note that the [[Note on The Dodd-Frank Act and Its Impact|Dodd-Frank]] Act does not necessarily create hard and fast rules but often provides only guidance for regulators to proceed with rulemaking activities.

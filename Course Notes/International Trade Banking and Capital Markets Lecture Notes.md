@@ -1,3 +1,16 @@
+---
+tags:
+  - '#exchange_rates'
+  - '#foreign_direct_investment'
+  - '#globalization'
+  - '#gravity_model'
+  - '#international_trade'
+  - '#migration'
+  - '#monopolistic_competition'
+  - '#offshoring'
+  - '#trade_balance'
+  - '#trade_policy'
+---
 International Trade Banking and Capital Markets: Introduction and Global Trade Overview
 
 ###  International Trade and Globalization

@@ -1,7 +1,7 @@
 ---
-title: [[Chapter 1-Introduction to Globalization|Globalization]]
+title:
+  -   - Chapter 1-Introduction to Globalization|Globalization
 tags:
-  - "#globalization"
+  - '#globalization'
 ---
-
 # Globalization

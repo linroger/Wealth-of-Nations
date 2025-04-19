@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_liquidity'
+  - '#bond_market_conventions'
+  - '#bond_prices'
+  - '#coupon_rate'
+  - '#face_amount'
+  - '#government_coupon_bonds'
+  - '#maturity_date'
+  - '#us_treasury_bonds'
+---
 # 1.1 GOVERNMENT COUPON BONDS  
 
 The cash flows from government coupon bonds are defined by coupon rate; maturity date; and, synonymously, face amount, principal amount, or par value. For example, in May 2014 the US Treasury sold a bond with a coupon rate of. $2.5\%$ and a maturity date of May 15, 2024. Purchasing $\$1$ million face amount of these $^{\bullet\circ}2.5s$ of $05/15/2024^{\mathfrak{N}}$ entitles the buyer, as of settlement in mid-May 2021, to the schedule of payments depicted in Table 1.1. More specifically, the Treasury promises to make a coupon payment every six months equal to half the bond's annual coupon rate of $2.5\%$ times the face amount, that is, $2.5\%/2\times\S1,000,000=\S12,500$ Finally, on the maturity date of May 15, 2024, in addition to the coupon payment on that date, the Treasury promises to pay the bond's face amount of $\$1,000,000$ 1.  

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#antiderivative'
+  - '#definite_integral'
+  - '#fundamental_theorem_of_calculus'
+  - '#gauss_jordan_method'
+  - '#inverse_matrices'
+  - '#linear_systems_of_equations'
+  - '#matrix_equation'
+  - '#nonsingular_matrix'
+  - '#singular_matrix'
+---
 # Chapter 1 Additional Readings  
 
 # Inverse Matrices and Solving Linear Systems of Equations:  

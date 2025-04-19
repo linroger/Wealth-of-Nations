@@ -1,8 +1,17 @@
 ---
 title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
-source: "https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html"
-description: "Demonstrates how to price European options using QuantLib Python. Methods using Black-Scholes-Merton formula and binomial tree will be discussed."
-tags: ["clippings"]
+source: 
+  https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+description: Demonstrates how to price European options using QuantLib Python. Methods
+  using Black-Scholes-Merton formula and binomial tree will be discussed.
+tags:
+  - '#aapl_option'
+  - '#binomial_tree'
+  - '#black_scholes_merton'
+  - '#european_option_pricing'
+  - '#option_pricing_example'
+  - '#option_volatility'
+  - '#quantlib_python'
 ---
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python
 

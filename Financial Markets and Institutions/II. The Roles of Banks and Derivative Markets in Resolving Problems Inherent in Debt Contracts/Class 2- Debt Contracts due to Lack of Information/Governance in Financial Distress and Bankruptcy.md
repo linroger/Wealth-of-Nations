@@ -1,11 +1,19 @@
 ---
 aliases:
-- Governance in Financial Distress and Bankruptcy
-- Governance in Financial Distress and Bankruptcy.md
-tags:
-- 
-- 
+  - Governance in Financial Distress and Bankruptcy
+  - Governance in Financial Distress and Bankruptcy.md
 title: Governance in Financial Distress and Bankruptcy
+tags:
+  - '#363_sales'
+  - '#bankruptcy'
+  - '#chapter_11'
+  - '#corporate_governance'
+  - '#creditor_control'
+  - '#financial_distress'
+  - '#junior_creditors'
+  - '#restructuring'
+  - '#senior_creditors'
+  - '#venue_choice'
 ---
 # Governance in Financial Distress and Bankruptcy
 

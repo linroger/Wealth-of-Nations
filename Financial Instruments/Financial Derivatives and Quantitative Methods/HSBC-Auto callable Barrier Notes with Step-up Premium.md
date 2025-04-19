@@ -1,8 +1,18 @@
 ---
 title: HSBC-Auto callable Barrier Notes with Step-up Premium
-aliases: 
-tags: 
+aliases:
 cssclasses: academia
+tags:
+  - '#auto_callable_notes'
+  - '#barrier_value'
+  - '#call_premium'
+  - '#hsbc_usa_inc'
+  - '#maturity_date'
+  - '#reference_return'
+  - '#risk_factors'
+  - '#russell_index'
+  - '#s_and_p_500_index'
+  - '#step_up_premium'
 ---
 # HSBC-Auto callable Barrier Notes with Step-up Premium
 

@@ -1,9 +1,20 @@
 ---
-title: "Swaps"
-source: "https://www.investopedia.com/terms/s/swap.asp"
-description: "A swap is a derivative contract through which two parties exchange the cash flows or liabilities of different financial instruments. Interest rate swaps are common."
+title: Swaps
+source: https://www.investopedia.com/terms/s/swap.asp
+description: A swap is a derivative contract through which two parties exchange the
+  cash flows or liabilities of different financial instruments. Interest rate swaps
+  are common.
 tags:
-  - "clippings"
+  - '#commodity_swap'
+  - '#credit_default_swap'
+  - '#currency_swap'
+  - '#financial_risk_management'
+  - '#interest_rate_swap'
+  - '#libor_replacement'
+  - '#otc_derivatives'
+  - '#sofr_benchmark'
+  - '#swap_definition'
+  - '#swap_regulation'
 ---
 ## What Is a Swap?
 

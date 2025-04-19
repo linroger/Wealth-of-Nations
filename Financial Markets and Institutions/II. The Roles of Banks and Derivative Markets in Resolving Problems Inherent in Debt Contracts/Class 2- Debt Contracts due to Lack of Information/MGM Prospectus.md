@@ -1,11 +1,19 @@
 ---
 aliases:
-- MGM Prospectus.md
-- MGM Prospectus
-tags:
-- 
-- 
+  - MGM Prospectus.md
+  - MGM Prospectus
 title: MGM Prospectus
+tags:
+  - '#book_entry_form'
+  - '#debt_offering'
+  - '#gaming_industry'
+  - '#mgm_mirage'
+  - '#prospectus_supplement'
+  - '#regulatory_compliance'
+  - '#risk_factors'
+  - '#senior_notes'
+  - '#subsidiary_guarantees'
+  - '#underwriting_agreement'
 ---
 # MGM Prospectus
 

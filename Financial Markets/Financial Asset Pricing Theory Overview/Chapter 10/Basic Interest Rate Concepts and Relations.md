@@ -1,3 +1,16 @@
+---
+tags:
+  - '#compounding_frequency'
+  - '#coupon_bonds'
+  - '#discount_function'
+  - '#forward_rates'
+  - '#interest_rate_concepts'
+  - '#libor_rates'
+  - '#spot_rates'
+  - '#term_structure_of_interest_rates'
+  - '#yield_curve'
+  - '#zero_coupon_bonds'
+---
 # 10.2 Basic interest rate concepts and relations  
 
 As in earlier chapters we will denote by. $B_{t}^{T}$ the price at time $t$ of a zero-coupon bond paying a dividend of one at time. $T$ and no other dividends. If many zero-coupon bonds with different. maturities are traded, we can form the function. $T\mapsto B_{t}^{T}$ , which we refer to as the discount. function prevailing at time $t$ .Of course, we must have $B_{t}^{t}=1$ , and we expect the discount function to be decreasing since all individuals will presumably prefer getting the dividend sooner than later.  

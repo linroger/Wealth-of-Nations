@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_market_instruments'
+  - '#credit_instruments'
+  - '#derivatives'
+  - '#equities'
+  - '#financial_instruments'
+  - '#fixed_income_instruments'
+  - '#money_market_instruments'
+  - '#structured_products'
+---
 # 2.6 INSTRUMENTS  
 
 This section provides a list of the major instrument classes from the perspective of financial engineering. A course on markets and instruments along the lines of Hull (2014) is needed for a reasonable understanding.  

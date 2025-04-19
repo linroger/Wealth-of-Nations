@@ -1,3 +1,14 @@
+---
+tags:
+  - '#capital_and_labor'
+  - '#constant_returns_to_scale'
+  - '#economic_output'
+  - '#eulers_rule'
+  - '#homogeneous_functions'
+  - '#linear_homogeneity'
+  - '#microeconomic_models'
+  - '#production_functions'
+---
 # 17.3 EULER'S RULE
 
 Functions that are homogeneous of degree one are referred to as linearly homogeneous, and this property is called linear homogeneity. The Swiss mathematician Leonhard Euler proved that linearly homogeneous functions have the property that.

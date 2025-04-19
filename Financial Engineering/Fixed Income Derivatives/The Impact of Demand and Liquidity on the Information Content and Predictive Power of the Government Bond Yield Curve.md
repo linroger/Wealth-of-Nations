@@ -1,3 +1,14 @@
+---
+tags:
+  - '#demand_effects'
+  - '#forward_rates'
+  - '#government_bond_yield_curve'
+  - '#liquidity_impact'
+  - '#market_expectations'
+  - '#swap_yield_curve'
+  - '#term_structure_analysis'
+  - '#uk_gilt_market'
+---
 # The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve
 
 ## The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve: An Illustration From the UK Gilt Market

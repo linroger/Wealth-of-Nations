@@ -1,16 +1,17 @@
 ---
 aliases:
-tags:
-
-  - "#finance"
-  - "#banking"
-  - "#debt"
-  - "#leveragedbuyout"
-  - "#creditrisk"
-  - "#loan-portfolio"
-  - "#private-equity"
-  - "#financial-crisis"
 title: HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio
+tags:
+  - '#blackstone'
+  - '#citigroup'
+  - '#credit_default_swaps'
+  - '#financial_markets'
+  - '#gso_capital_partners'
+  - '#leveraged_loans'
+  - '#loan_portfolio_sale'
+  - '#market_risk'
+  - '#private_equity'
+  - '#subprime_mortgage_crisis'
 ---
 ## BLACKSTONE AND THE SALE OF CITIGROUP'S LOAN PORTFOLIO
 

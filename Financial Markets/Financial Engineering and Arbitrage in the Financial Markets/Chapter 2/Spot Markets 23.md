@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#cash_and_carry_arbitrage'
+  - '#commodity_swaps'
+  - '#cross_currency_swaps'
+  - '#equity_swaps'
+  - '#futures_markets'
+  - '#interest_rate_risk'
+  - '#short_selling'
+  - '#swap_markets'
+---
 # 2 Spot Markets 23  
 
 2.1 Bonds and Annual Bond Math 23   

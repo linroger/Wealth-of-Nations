@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cross_hedging'
+  - '#daily_settlement'
+  - '#futures_contracts'
+  - '#heating_oil_futures'
+  - '#hedge_effectiveness'
+  - '#hedge_ratio'
+  - '#jet_fuel'
+  - '#minimum_variance_hedge_ratio'
+  - '#optimal_number_of_contracts'
+  - '#tailing_the_hedge'
+---
 # 3.4 CROSS HEDGING  
 
 In Examples 3.1 and 3.2, the asset underlying the futures contract was the same as the asset whose price is being hedged. Cross hedging occurs when the two assets are different. Consider, for example, an airline that is concerned about the future price of jet fuel. Because jet fuel futures are not actively traded, it might choose to use heating oil futures contracts to hedge its exposure.  

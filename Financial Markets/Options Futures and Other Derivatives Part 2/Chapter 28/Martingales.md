@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#equivalent_martingale_measure'
+  - '#ito_lemma'
+  - '#market_price_of_risk'
+  - '#martingale'
+  - '#numeraire'
+  - '#stochastic_process'
+  - '#volatility'
+  - '#wiener_process'
+---
 # 28.3 MARTINGALES  
 
 A martingale is a zero-drift stochastic process. A variable $\theta$ follows a martingale if its process has the form.  

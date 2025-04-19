@@ -1,9 +1,18 @@
 ---
-title: "Outright Forward - What it is, How it Works"
-source: "https://www.investopedia.com/terms/o/outright-forward.asp"
-description: "An outright forward, or currency forward, is a currency contract that locks in the exchange rate and a delivery date beyond the spot value date."
+title: Outright Forward - What it is, How it Works
+source: https://www.investopedia.com/terms/o/outright-forward.asp
+description: An outright forward, or currency forward, is a currency contract that
+  locks in the exchange rate and a delivery date beyond the spot value date.
 tags:
-  - "clippings"
+  - '#currency_forward'
+  - '#currency_market'
+  - '#exchange_rate_risk'
+  - '#foreign_exchange'
+  - '#forward_contract'
+  - '#forward_points'
+  - '#interest_rate_differential'
+  - '#outright_forward'
+  - '#spot_rate'
 ---
 ## What Is an Outright Forward?
 

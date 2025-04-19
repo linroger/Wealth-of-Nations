@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_prices'
+  - '#credit_risk'
+  - '#currency_swap_examples'
+  - '#currency_swap_valuation'
+  - '#fixed_for_fixed_currency_swaps'
+  - '#forward_exchange_rates'
+  - '#risk_free_interest_rates'
+  - '#spot_exchange_rate'
+  - '#term_structure_of_interest_rates'
+---
 # 7.9 VALUATION OF FIXED-FOR-FIXED CURRENCY SWAPS  
 
 Each exchange of payments in a fixed-for-fixed currency swap is a forward contract. As shown in Section 5.7, forward foreign exchange contracts can be valued by assuming that forward exchange rates are realized. A fixed-for-fixed currency swap can therefore be. valued assuming that forward rates are realized..  

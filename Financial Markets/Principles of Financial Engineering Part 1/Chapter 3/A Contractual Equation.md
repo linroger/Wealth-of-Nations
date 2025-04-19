@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#bond_market_replication'
+  - '#contractual_equation'
+  - '#financial_engineering'
+  - '#forward_loan'
+  - '#libor_interest_rates'
+  - '#maturity_mismatch'
+  - '#money_market_replication'
+  - '#synthetic_instruments'
+---
 # 3.6 A CONTRACTUAL EQUATION  
 
 Once an instrument is replicated with a portfolio of other (liquid) assets, we can write a contractual equation and create new synthetics. In this section, we will obtain a contractual equation. In the next section, we will show several applications. This section provides a basic approach to constructing static replicating portfolios and hence is central to what will follow.  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#bonds'
+  - '#credit_spreads'
+  - '#fixed_income_markets'
+  - '#hedging'
+  - '#hp17bii_calculator'
+  - '#present_value'
+  - '#risk_management'
+  - '#swaps'
+  - '#yield_curve'
+---
 # A PRACTICAL GUIDE TO BONDS AND SWAPS  
 
 Thomas S. Coleman  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#equivalent_martingale_measure'
+  - '#exercise_boundary'
+  - '#least_squares_approach'
+  - '#market_price_of_risk'
+  - '#martingales'
+  - '#monte_carlo_simulation'
+  - '#path_dependent_options'
+  - '#risk_neutral_valuation'
+  - '#stochastic_interest_rates'
+---
 # 27.8 MONTE CARLO SIMULATION AND AMERICAN OPTIONS  
 
 Monte Carlo simulation is well suited to valuing path-dependent options and options where there are many stochastic variables. Trees and finite difference methods are well suited to valuing American-style options. What happens if an option is both path dependent and American? What happens if an American option depends on several stochastic variables? Section 27.5 explained a way in which the binomial tree approach can be modified to value path-dependent options in some situations. A number of researchers have adopted a different approach by searching for a way in which Monte Carlo simulation can be used to value American-style options.29 This section explains two alternative ways of proceeding.  

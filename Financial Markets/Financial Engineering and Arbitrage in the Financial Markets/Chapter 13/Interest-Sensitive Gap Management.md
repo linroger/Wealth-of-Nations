@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_sensitivity'
+  - '#interest_rate_risk'
+  - '#interest_rate_swaps'
+  - '#interest_sensitive_gap_management'
+  - '#liability_sensitivity'
+  - '#loan_portfolio_maturity'
+  - '#maturity_gap_analysis'
+  - '#net_interest_margin'
+  - '#repricing_assets_liabilities'
+  - '#zions_bank'
+---
 # 13.2  INTEREST-SENSITIVE GAP MANAGEMENT  
 
 Let us step back and think broadly about analyzing the future prospects of any company.. If we were looking at Apple, we would want to know the product development mix: new. phones, music, and video players. The same would apply to any drug company or industrial manufacturing company, like Siemens. We would want to know not only Siemens' new equipment line-up, but also the long-term contract pipeline for power plant construction and large industrial installations. What about a bank such as Zions? The main drivers of future revenue, besides fees charged on deposit and loan servicing, would be the ability to generate. new loans and the interest rates earned on those new loans. The aim of the Interest-Sensitive (Maturity) Gap methods is to quantify the number of loans that come due in the near future, break them down by maturity, and assess the amount of revenue at risk..  

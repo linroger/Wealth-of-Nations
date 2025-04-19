@@ -1,3 +1,13 @@
+---
+tags:
+  - '#accrual_swap'
+  - '#extendible_swap'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#libor_in_arrears_swap'
+  - '#par_swap'
+  - '#power_libor_swap'
+---
 # 4.9 ADDITIONAL TERMINOLOGY  
 
 We would like to introduce some additional terms and instruments before moving on.  

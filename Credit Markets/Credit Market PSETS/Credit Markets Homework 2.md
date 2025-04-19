@@ -1,10 +1,19 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Credit Markets Homework 2
+tags:
+  - '#bond_cashflows'
+  - '#bond_pricing'
+  - '#credit_markets'
+  - '#duration_convexity'
+  - '#fixed_rate_bonds'
+  - '#quantlib'
+  - '#risk_metrics'
+  - '#us_treasury_bonds'
+  - '#yield_curve_calibration'
+  - '#z_spread'
 ---
 # Credit Markets Homework 2
 

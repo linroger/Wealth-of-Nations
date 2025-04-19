@@ -1,3 +1,13 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#brownian_motion'
+  - '#ito_integral'
+  - '#ito_lemma'
+  - '#lognormal_diffusion_process'
+  - '#stochastic_calculus'
+  - '#stochastic_differential_equation'
+---
 # CHAPTER 11 Stochastic Calculus and Ito's Lemma
 
 211

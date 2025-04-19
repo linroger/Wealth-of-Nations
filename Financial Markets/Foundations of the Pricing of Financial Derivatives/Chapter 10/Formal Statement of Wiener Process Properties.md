@@ -1,3 +1,16 @@
+---
+tags:
+  - '#continuity'
+  - '#correlated_wiener_processes'
+  - '#correlation'
+  - '#covariance'
+  - '#independent_increments'
+  - '#normal_distribution'
+  - '#time_series_properties'
+  - '#univariate_properties'
+  - '#wiener_process_definition'
+  - '#wiener_process_properties'
+---
 # 10.6 FORMAL STATEMENT OF WIENER PROCESS PROPERTIES
 
 We now bring together important properties of Wiener processes. We also now assume the initial starting time is $t=0$ . Assume constants $t\geq0$ (e.g., calendar time expressed as fraction of year) and $0<b<t$ (e.g., historical point in time compared to. $t$ assuming $t>0$ As previously discussed, the standard Wiener process at time. $t$ or $\mathbf{}\mathbf{}{W}_{t}$ can be expressed with four key attributes:

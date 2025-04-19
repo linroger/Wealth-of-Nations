@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#bond_pricing'
+  - '#cheapest_to_deliver_ctd'
+  - '#conversion_factor'
+  - '#cost_of_delivery'
+  - '#futures_contract'
+  - '#futures_price'
+  - '#last_trading_date'
+  - '#tyu1'
+---
 # 11.6 COST OF DELIVERY AND THE FINAL SETTLEMENT PRICE  
 
 The cost of delivery measures how much it costs a short to fulfill the commitment to deliver a bond through a futures contract. Having decided to deliver bond $i.$ the short first has to buy the bond at its market price plus accrued interest and then deliver it through the futures contract for the futures price times the conversion factor plus accrued interest. Denoting the time- $t$ flat price of bond $i$ at time $t$ by $\boldsymbol{p}_{t}^{i}$ ; its accrued interest by $A I_{t}^{i}$ ; its conversion factor by $c f^{i}$ ; and the futures price by. $F_{t}$ , the cost of delivery is,.  

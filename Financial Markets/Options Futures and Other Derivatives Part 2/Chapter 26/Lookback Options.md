@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_price_volatility'
+  - '#discrete_observation'
+  - '#fixed_lookback_options'
+  - '#floating_lookback_call'
+  - '#floating_lookback_put'
+  - '#lookback_options'
+  - '#option_valuation'
+  - '#put_call_parity'
+---
 # 26.11 LOOKBACK OPTIONS  
 
 The payoffs from lookback options depend on the maximum or minimum asset price reached during the life of the option. The payoff from a floating lookback call is the amount that the final asset price exceeds the minimum asset price achieved during the life of the option. The payoff from a floating lookback put is the amount by which the maximum asset price achieved during the life of the option exceeds the final asset price.  

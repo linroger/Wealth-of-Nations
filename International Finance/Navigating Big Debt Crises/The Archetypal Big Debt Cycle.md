@@ -1,5 +1,16 @@
 ---
 title: The Archetypal Big Debt Cycle
+tags:
+  - '#austerity'
+  - '#bubble_economics'
+  - '#credit_debt'
+  - '#debt_crisis'
+  - '#debt_cycle'
+  - '#deleveraging'
+  - '#economic_cycles'
+  - '#monetary_policy'
+  - '#policy_makers'
+  - '#quantitative_easing'
 ---
 # The Archetypal Big Debt Cycle
 ## Introduction to Credit and Debt

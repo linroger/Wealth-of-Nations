@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#european_put_option'
+  - '#partial_derivatives'
+  - '#put_call_parity'
+  - '#put_delta'
+  - '#put_gamma'
+  - '#put_rho'
+  - '#put_theta'
+  - '#put_vega'
+---
 # 14.6 PARTIAL DERIVATIVES OF THE BLACK-SCHOLES-MERTON EUROPEAN PUT OPTION PRICING MODEL
 
 The Black-Scholes-Merton European put option pricing model is repeated here as

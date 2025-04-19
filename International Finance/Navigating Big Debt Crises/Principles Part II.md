@@ -1,10 +1,19 @@
 ---
 title: Principles Part II
 aliases: []
-tags: 
 cssclasses: academia
+tags:
+  - '#changing_world_order'
+  - '#china_us_relations'
+  - '#climate_change'
+  - '#debt_cycles'
+  - '#economic_cycles'
+  - '#financial_markets'
+  - '#global_conflicts'
+  - '#internal_conflicts'
+  - '#monetary_policy'
+  - '#technological_advancements'
 ---
-
 [Principles Part I](Principles%20Part%20I.md)
 
 # Principles Part II

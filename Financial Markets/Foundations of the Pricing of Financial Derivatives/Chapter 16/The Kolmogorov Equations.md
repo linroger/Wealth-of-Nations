@@ -1,3 +1,15 @@
+---
+tags:
+  - '#backward_equation'
+  - '#binomial_tree'
+  - '#discrete_time'
+  - '#fokker_planck_equation'
+  - '#forward_equation'
+  - '#kolmogorov_equations'
+  - '#path_dependent_options'
+  - '#probability_density'
+  - '#stochastic_process'
+---
 # 16.4 THE KOLMOGOROV EQUATIONS
 
 We now take a look at a set of equations that appears in the analysis of movements of a. stochastic process. These equations are called the Kolmogorov equations. They are slight variations of the partial differential equation that is well known in derivative pricing theory in which the option price change is related to its derivatives and changes in time and the. underlying. But instead of relating prices to their derivatives, the Kolmogorov equations relate probabilities to their derivatives. There are two such equations: the forward equation. and backward equation.

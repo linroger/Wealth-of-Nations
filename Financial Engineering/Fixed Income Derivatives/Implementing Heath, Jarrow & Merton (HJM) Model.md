@@ -1,3 +1,16 @@
+---
+tags:
+  - '#covariance_matrix'
+  - '#eigenvalues_eigenvectors'
+  - '#forward_curve'
+  - '#hjm_model'
+  - '#interest_rate_options'
+  - '#monte_carlo_simulation'
+  - '#principal_component_analysis'
+  - '#risk_neutral_drift'
+  - '#volatility_matrix'
+  - '#zero_coupon_bond'
+---
 # [[6. A Brief Introduction to Stochastic Calculus#3 Some Specific Models|Implementing Heath, Jarrow & Merton (HJM) Model]]
 # 1.1 HJM model by Monte Carlo Simulation.
 

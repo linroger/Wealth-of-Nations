@@ -4,19 +4,18 @@ cssclasses:
 aliases:
   - SIVS An Oasis of Calm in the Sub Prime Maelstrom.md
   - SIVS An Oasis of Calm in the Sub Prime Maelstrom
-tags:
-
-  - 
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-crises"
-  - "#financial-markets"
-  - "#structured-investment-vehicles"
-  - "#subprime-mortgage-exposure"
-  - "#credit-vehicles"
 title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
+tags:
+  - '#asset_liability_maturity_gaps'
+  - '#cdos_of_abs'
+  - '#mark_to_market'
+  - '#moodys_ratings'
+  - '#nav'
+  - '#rmbs'
+  - '#sivs'
+  - '#structured_investment_vehicles'
+  - '#sub_prime_mortgages'
 ---
-
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom
 
 Table of Contents

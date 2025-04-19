@@ -1,3 +1,16 @@
+---
+tags:
+  - '#black_scholes_environment'
+  - '#cppi_dynamics'
+  - '#cppi_scheme'
+  - '#gap_risk'
+  - '#jump_factors'
+  - '#leverage_factor'
+  - '#portfolio_value'
+  - '#risk_management'
+  - '#stochastic_differential_equation'
+  - '#wiener_process'
+---
 # 23.4 MODELING THE CPPI DYNAMICS  
 
 We now obtain the equations that give the dynamics of $V_{t}$ under the typical CPPI scheme. The equations are obtained from a relatively simple setting to highlight the important aspects of the methodol-. ogy. The two points on which we focus are the following: first, we will see that from a single portfolio. point of view, CPPI algorithms may be much more stable than they appear from the outside if there. are no jumps. However, in reality there are jumps which lead to the gap risk. Second, we show that the CPPI methodology may have a more fragile structure with respect to yield curve movements than anticipated. This may be especially the case if sharp downward jumps in $S_{t}$ are correlated with a sudden steepening of the curve-exactly what happens during periods of excessive market stress.  

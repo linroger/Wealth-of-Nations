@@ -4,23 +4,17 @@ cssclasses:
 aliases:
   - PSET 1-FINANCIAL INSTRUMENTS
 linter-yaml-title-alias: PSET 1-FINANCIAL INSTRUMENTS
-tags:
-  - financial-instruments
-  - arbitrage
-  - forward-rates
-  - currency-trading
-  - international-finance
-  - exchange-rate-arbitrage
-  - forward-contracts
-  - interest-rate-parity
-  - "#finance"
-  - "#financial-derivatives"
-  - "#exchange-rates"
-  - "#currency-risk-management"
-  - "#arbitrage-strategies"
 title: PSET 1-Financial Instruments
+tags:
+  - '#arbitrage'
+  - '#covered_interest_rate_parity'
+  - '#euro_dollar_exchange'
+  - '#excel_analysis'
+  - '#exchange_rate'
+  - '#financial_instruments'
+  - '#forward_rates'
+  - '#risk_free_rates'
 ---
-
 ---
 
 title: PSET 1-FINANCIAL INSTRUMENTS

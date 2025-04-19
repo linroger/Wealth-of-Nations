@@ -1,3 +1,16 @@
+---
+tags:
+  - '#fat_fingers'
+  - '#front_running'
+  - '#insider_trading'
+  - '#market_manipulation'
+  - '#payment_for_order_flow'
+  - '#ponzi_schemes'
+  - '#rogue_trading'
+  - '#securities_fraud'
+  - '#spoofing'
+  - '#technical_glitches'
+---
 # Trading Gone Awry  
 
 # 13.1 THE DARK SIDE OF FINANCE  

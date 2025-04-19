@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#contango_backwardation'
+  - '#daily_settlement'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#gold_futures'
+  - '#marking_to_market'
+  - '#natural_gas_futures'
+  - '#stochastic_interest_rates'
+  - '#wheat_futures'
+---
 # 22.2 PRICING FUTURES CONTRACTS
 
 A futures contract is effectively a forward contract that is resettled every day. That is, at the end of the day, the clearinghouse of the exchange determines an official settlement price, which is an average of the last few trades of the day. The change in the settlement price from the previous day is then credited to the party that gained and charged to the party that lost. Thus, if the settlement price increased (decreased), the holders of long (short) positions. would be credited the gain and the holders of short (long) positions would be charged the loss. This process is called marking-to-market and, sometimes, the daily settlement. It effectively results in gains and losses being collected and charged in smaller amounts. over shorter periods of time than in the case of forward contracts, whereby the contract is completely settled at expiration. The process of settling daily reduces the credit risk. In fact, futures exchanges guarantee that no one will fail to be paid because of the default. of the opposite party. This guarantee has been absolutely fulfilled, because no party has ever lost money on any futures exchange in the world due to default of the counterparty. The exchange, through its clearinghouse, has always either collected the money or paid up itself.

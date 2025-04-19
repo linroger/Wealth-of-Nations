@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_pricing'
+  - '#conversion_factor'
+  - '#cross_currency_basis'
+  - '#cross_currency_swap'
+  - '#currency_hedging'
+  - '#fx_carry_trade'
+  - '#fx_forward_rate'
+  - '#fx_swaps'
+  - '#interest_rate_parity'
+  - '#regulatory_impact'
+---
 # Chapter 1 What Really is the Cross-Currency Basis?
 
 The cross-currency basis - often just called the basis' - is a strange creature.' It is. referred to often enough in the financial markets that most participants think that they probably ought to know what it is. I was certainly one of them. 'Some credit. adjustment to currency hedging' was how I vaguely thought of it. However, the more one studies and understands it, the stranger and more important it becomes. It is nothing less than a violation of the arbitrage conditions governing the relationships between interest rates and foreign exchange rates, and before it was observed, it would have been thought of as impossible. This paper describes how to calculate the basis, discusses some potential drivers, and ends with some unexpected applications.

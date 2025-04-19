@@ -1,3 +1,16 @@
+---
+tags:
+  - '#caps_and_floors'
+  - '#excel_exercises'
+  - '#implied_volatility'
+  - '#matlab_exercises'
+  - '#mortgage_market'
+  - '#option_pricing'
+  - '#stop_loss_hedge'
+  - '#swaptions'
+  - '#vix_calculation'
+  - '#volatility_smile'
+---
 # 16.18 CONCLUSIONS  
 
 The volatility smile is a fascinating topic in finance. Yet, it is also a complex phenomenon and. more research needs to be done on its causes and on the ways to model it. This chapter offered a simple introduction. However, it has illustrated some of the essential points associated with this. topic.  

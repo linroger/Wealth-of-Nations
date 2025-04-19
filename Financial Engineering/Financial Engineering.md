@@ -1,7 +1,8 @@
 ---
 title: Financial Engineering
+tags:
+  - '#financial_engineering'
 ---
-
 # Financial Engineering
 
 %% Begin Waypoint %%
@@ -61,7 +62,7 @@ title: Financial Engineering
 	- [[SOFR Derivative Pricing Using a Short Rate Model]]
 	- [[Static Option Replication]]
 	- [[Trading the Fixed Income Inflation and Credit Markets]]
-	- [[Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025)]]
+	- [[Untitled]]
 	- [[Valuation of Credit Default Swaps]]
 	- [[Variance Swaps]]
 	- [[Verification of Central Limit Theorem]]

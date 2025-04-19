@@ -1,3 +1,14 @@
+---
+tags:
+  - '#explicit_finite_difference'
+  - '#finite_difference_methods'
+  - '#implicit_finite_difference'
+  - '#interest_rate_derivatives'
+  - '#local_expectations_hypothesis'
+  - '#put_option_pricing'
+  - '#term_structure_of_interest_rates'
+  - '#unbiased_expectations_hypothesis'
+---
 # CHAPTER 24 Finite Difference Methods
 
 # 429

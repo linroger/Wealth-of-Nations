@@ -1,3 +1,15 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#calculating_pi'
+  - '#cox_ross_rubinstein_tree'
+  - '#excel_spreadsheet'
+  - '#forward_interest_rate'
+  - '#monte_carlo_simulation'
+  - '#nonconstant_interest_rates'
+  - '#time_dependent_parameters'
+  - '#volatility_modeling'
+---
 # 21.5 TIME-DEPENDENT PARAMETERS  
 
 Up to now we have assumed that. $r,q,r_{f}$ and $\sigma$ are constants. In practice, they are. usually assumed to be time dependent. The values of these variables between times $t$ and t + At are assumed to be equal to their forward values.10  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basis_risk'
+  - '#convexity_adjustment'
+  - '#euro_swap_market'
+  - '#exchange_traded_futures'
+  - '#forward_future_spread'
+  - '#hedging_strategies'
+  - '#hull_white_model'
+  - '#interest_rate_swaps'
+  - '#liffe'
+  - '#swapnote_contract'
+---
 # [[Fixed Income Derivatives/The Determinants of the Swap Spread|Assessing the LIFFE Swapnote]]
 
  ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc148469d93faa1e6cf899df4d13571821a3f502d0a0ca8118a1dab4f0380f72.jpg)

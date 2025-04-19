@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage_free_models'
+  - '#bermudan_swaptions'
+  - '#heath_jarrow_morton_model'
+  - '#libor_market_model'
+  - '#model_calibration'
+  - '#multifactor_models'
+  - '#short_rate_models'
+  - '#trinomial_trees'
+  - '#yield_curve_tilts'
+---
 # 6.3 ARBITRAGE-FREE INTEREST RATE MODELS  
 
 There are two good reasons for abandoning the simple Black model with convexity adjustments in favor of an arbitrage-free reduced-form model. First, it is the consistency of inputs which prevents the possibility of arbitraging oneself. The various Black model guises are. often used separately, with different inputs and adjustments, to price the same or similar structures. Bond options are European swaptions in disguise. CMS optionlets on shorter. rates are related to swaptions. Caps and floors are related to swaptions on short swap rates. Even very tight manual controls can sometimes fail to ensure that the models we use to. price these seemingly unrelated structures produce the same prices. The second reason for using an arbitrage-free model is that options come in a variety of exotic flavors and simple. adjustments may be difficult to derive. Many options, especially with American exercise features, require the modeling of the evolution of the entire yield curve and not just one main. driving rate.  

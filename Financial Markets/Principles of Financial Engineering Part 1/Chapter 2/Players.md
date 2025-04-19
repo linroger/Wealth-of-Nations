@@ -1,3 +1,15 @@
+---
+tags:
+  - '#brokers'
+  - '#dealers'
+  - '#market_makers'
+  - '#market_participants'
+  - '#regulators'
+  - '#researchers_and_analysts'
+  - '#risk_managers'
+  - '#traders'
+  - '#trading_books'
+---
 # 2.3 PLAYERS  
 
 Market makers make markets by providing days to delivery, notice of delivery, warehouses, etc. Market makers provide liquidity and must, as an obligation, buy and sell at their quoted prices.. Thus for every security at which they are making the market, the market maker must quote a bid and an ask price. A market maker does not warehouse a large number of products, nor does the market maker hold them for a long period of time. Different exchanges have different structures and use different approaches in liquidity provision or market making. For example, at the New York Stock Exchange (NYSE), market making is based on the Designated Market Maker (DMM) system.2o DMMs have the primary responsibility of guaranteeing a fair and orderly market.. Sometimes, this may involve taking the other side of trades when there are short-term buy-and-sellside imbalances in customer orders. In return, the DMM is granted various informational and trade execution advantages.  

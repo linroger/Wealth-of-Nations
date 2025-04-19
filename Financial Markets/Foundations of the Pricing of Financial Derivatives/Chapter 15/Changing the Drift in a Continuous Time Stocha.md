@@ -1,3 +1,15 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#brownian_motion'
+  - '#girsanov_theorem'
+  - '#martingale'
+  - '#novikov_condition'
+  - '#radon_nikodym_derivative'
+  - '#risk_neutral_valuation'
+  - '#stochastic_process'
+  - '#wiener_process'
+---
 # 15.5 CHANGING THE DRIFT IN A CONTINUOUS TIME STOCHASTIC PROCESS
 
 For applications of Girsanov's theorem in finance, the random variable we deal with is often a stochastic process, and in many cases, the random variable will be a Brownian motion, $\mathbf{}\mathbf{}{W}_{t}$ , such that

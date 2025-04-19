@@ -1,3 +1,15 @@
+---
+tags:
+  - '#floating_rate_loans'
+  - '#forward_rate_agreements'
+  - '#interest_rate_derivatives'
+  - '#interest_rate_options'
+  - '#interest_rate_swaps'
+  - '#libor'
+  - '#local_expectations_hypothesis'
+  - '#term_structure_of_interest_rates'
+  - '#unbiased_expectations_hypothesis'
+---
 # 25.5 RECAP AND PREVIEW
 
 In this chapter, we introduced the local expectations hypothesis and distinguished it from.

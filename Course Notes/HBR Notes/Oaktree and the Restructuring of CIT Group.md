@@ -6,21 +6,19 @@ aliases:
   - 
   - Oaktree and the Restructuring of CIT Group
   - Restructuring
-tags:
-  - Case-Studies
-  - creditor-recovery
-  - debt-management
-  - debt-management-strategies
-  - distressed-debt
-  - 
-  - finance
-  - financial-crises
-  - quantitative-finance
-  - restructuring-strategies
-
 title: Oaktree and the Restructuring of CIT Group
+tags:
+  - '#asset_liquidation'
+  - '#bondholder_recovery'
+  - '#cit_group'
+  - '#financial_crisis'
+  - '#financial_ratios'
+  - '#oaktree_capital_management'
+  - '#prepackaged_bankruptcy'
+  - '#rescue_loan'
+  - '#restructuring'
+  - '#unsecured_debt'
 ---
-
 # Oaktree and the Restructuring of CIT Group
 
 [[HBR Case Study- Oaktree]]

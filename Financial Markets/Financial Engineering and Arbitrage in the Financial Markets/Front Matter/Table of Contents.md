@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#asset_class_linked_notes'
+  - '#collateralized_mortgage_obligations'
+  - '#financial_engineering'
+  - '#mortgage_backed_securities'
+  - '#mortgage_financing'
+  - '#prepayment_risk'
+  - '#principal_protected_equity_linked_notes'
+---
 # Table of Contents - Financial Engineering and Arbitrage in the Financial Markets
 8.3 Asset Class-Linked Notes 213   
 8.3.1 Principal-Protected Equity-Linked Notes 213   

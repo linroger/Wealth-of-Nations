@@ -1,3 +1,12 @@
+---
+tags:
+  - '#delta_neutral_portfolio'
+  - '#delta_theta_gamma'
+  - '#derivative_pricing'
+  - '#geometric_brownian_motion'
+  - '#portfolio_gamma'
+  - '#theta_proxy_gamma'
+---
 # 19.7 RELATIONSHIP BETWEEN DELTA, THETA, AND GAMMA  
 
 The price of a single derivative dependent on a non-dividend-paying stock that follows a geometric Brownian motion process must satisfy the differential equation (15.16). It follows that the value of $\Pi$ of a portfolio of such derivatives also satisfies the differential equation  

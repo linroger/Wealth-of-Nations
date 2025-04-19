@@ -1,3 +1,14 @@
+---
+tags:
+  - '#financial_engineering'
+  - '#financial_markets'
+  - '#market_conventions'
+  - '#market_mechanics'
+  - '#market_practitioners'
+  - '#pricing_models'
+  - '#risk_management'
+  - '#syndication_process'
+---
 # 2.1 INTRODUCTION  
 
 This chapter takes a step back and reviews in a nutshell the prerequisite for studying the methods of financial engineering. Readers with a good grasp of the conventions and mechanics of financial markets may skip it, although a quick reading would be preferable.  

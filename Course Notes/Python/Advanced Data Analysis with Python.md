@@ -2,11 +2,20 @@
 aliases: []
 cssclasses: academia
 title: Advanced Data Analysis with Python
-source: "https://blog.enterprisedna.co/advanced-data-analysis-with-python/"
+source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
 description:
-tags: 
+tags:
+  - '#advanced_data_structures'
+  - '#big_data_pyspark'
+  - '#data_analysis_workflow'
+  - '#data_cleaning_preprocessing'
+  - '#exploratory_data_analysis'
+  - '#interactive_visualizations'
+  - '#machine_learning_scikit_learn'
+  - '#python_libraries'
+  - '#sql_alchemy'
+  - '#time_series_analysis'
 ---
-
 # Advanced Data Analysis with Python
 
 - Lesson 1: Advanced Data Structures and Algorithms in Python

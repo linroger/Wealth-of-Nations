@@ -1,20 +1,23 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: China Reserve Requirements,  GFC
 source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
-description: The New Bagehot Project is an online platform for disseminating our knowledge on how to fight financial crises.
+description: The New Bagehot Project is an online platform for disseminating our knowledge
+  on how to fight financial crises.
 tags:
-  - "#macroeconomic-policymaking"
-  - "#monetary-policy"
-  - "#financial-crises"
-  - "#economic-history"
-  - "#china-economy"
-  - "#reserve-requirements"
-  - "#global-financial-crisis"
+  - '#china_reserve_requirements'
+  - '#credit_growth'
+  - '#economic_stimulus_package'
+  - '#foreign_exchange_intervention'
+  - '#global_financial_crisis_gfc'
+  - '#liquidity_management'
+  - '#monetary_easing'
+  - '#pboc_monetary_policy'
+  - '#rrr_adjustments'
+  - '#sterilization_policy'
 ---
-
 # China Reserve Requirements,  GFC
 
 In 2008,  China experienced several natural disasters that slowed economic growth,  and,  fearing contagion from the Global Financial Crisis (GFC),  the central bank cut the reserve requirement ratio (RRR) three times for large financial institutions,  to 15.5%,  and four times for small and medium-size financial institutions,  to 13.5%.

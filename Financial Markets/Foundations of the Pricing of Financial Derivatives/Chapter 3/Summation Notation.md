@@ -1,3 +1,13 @@
+---
+tags:
+  - '#double_summation'
+  - '#financial_applications'
+  - '#index_variable'
+  - '#portfolio_management'
+  - '#portfolio_value'
+  - '#summation_notation'
+  - '#value_additivity'
+---
 # 3.1 SUMMATION NOTATION
 
 The summation symbol is often used in finance. For example, portfolios and stock indexes are additive combinations of their constituent securities. Consider the summation expression,

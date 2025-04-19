@@ -1,3 +1,13 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_tree'
+  - '#exercise_rate'
+  - '#interest_rate_calls'
+  - '#interest_rate_options'
+  - '#interest_rate_puts'
+  - '#one_period_add_on_rates'
+---
 # 28.8 INTEREST RATE OPTIONS
 
 With the tree of one-period add-on rates that we showed in Figure 28.8, we can easily value interest rate options. Remember that when interest rate options expire, the payoff is determined but not actually made until the next period.4

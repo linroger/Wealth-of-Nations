@@ -1,20 +1,21 @@
 ---
-tags:
-  - "#quantitative-finance"
-  - "#finance"
-  - "#financial-markets"
-  - "#risk-management"
-  - "#financial-instruments"
-  - "#financial-intermediation"
-  - "#debt-equity-financing"
-  - "#banking-risks"
 cssclasses: academia
 title: Contemporary Financial Intermediation
 aliases:
-  - "LECTURE NOTES: FINANCIAL INTERMEDIATION"
-linter-yaml-title-alias: "LECTURE NOTES: FINANCIAL INTERMEDIATION"
+  - 'LECTURE NOTES: FINANCIAL INTERMEDIATION'
+linter-yaml-title-alias: 'LECTURE NOTES: FINANCIAL INTERMEDIATION'
+tags:
+  - '#bank_risks'
+  - '#debt_financing'
+  - '#economic_growth'
+  - '#equity_financing'
+  - '#financial_intermediation'
+  - '#financial_system'
+  - '#loan_covenants'
+  - '#loan_pricing'
+  - '#risk_management'
+  - '#securitization'
 ---
-
 # Contemporary Financial Intermediation
 
 ## INTRODUCTION

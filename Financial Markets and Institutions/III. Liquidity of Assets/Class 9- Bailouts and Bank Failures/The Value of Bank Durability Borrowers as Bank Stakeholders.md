@@ -1,11 +1,18 @@
 ---
 aliases:
-- The Value of Bank Durability Borrowers as Bank Stakeholders.md
-- The Value of Bank Durability Borrowers as Bank Stakeholders
-tags:
-- 
-- 
+  - The Value of Bank Durability Borrowers as Bank Stakeholders.md
+  - The Value of Bank Durability Borrowers as Bank Stakeholders
 title: The Value of Bank Durability Borrowers as Bank Stakeholders
+tags:
+  - '#asset_services_view'
+  - '#bank_durability'
+  - '#bank_lending_relationships'
+  - '#bank_regulation'
+  - '#borrower_stakeholders'
+  - '#continental_illinois_bank'
+  - '#fdic_rescue'
+  - '#relationship_specific_costs'
+  - '#share_price_effects'
 ---
 # The Value of Bank Durability Borrowers as Bank Stakeholders
 

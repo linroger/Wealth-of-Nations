@@ -1,3 +1,15 @@
+---
+tags:
+  - '#bond_valuation'
+  - '#convexity'
+  - '#curve_slope'
+  - '#duration'
+  - '#forward_curve'
+  - '#interest_rate_forecast'
+  - '#steepener_trade'
+  - '#term_premium'
+  - '#yield_curve'
+---
 # Chapter 8 Forward Curves, Duration and Convexity
 
 The shape of the yield curve has implications that are not always well understood.1. A curve whose slope rolls off' can imply a future curve inversion, even when such an inversion is very unlikely to take place. Since the 2008 crisis, curves have become lower and flatter, and their implied forecasts' start to look improbable. In this chapter, we report and update a study where we analysed the actual evolution of. curves long-term relative to their implied forecasts, and we show that in particular, forecasts of curve slope are likely to be biased. We investigate whether yield curve convexity is a driver of this effect..

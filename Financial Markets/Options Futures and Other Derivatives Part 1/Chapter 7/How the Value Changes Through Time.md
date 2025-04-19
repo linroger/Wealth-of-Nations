@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cash_flow_exchanges'
+  - '#downward_sloping_term_structure'
+  - '#fixed_rate'
+  - '#floating_rate'
+  - '#interest_rate_swap'
+  - '#swap_value'
+  - '#term_structure_of_interest_rates'
+  - '#upward_sloping_term_structure'
+---
 # 7.7 HOW THE VALUE CHANGES THROUGH TIME  
 
 The fixed rate in an interest rate swap is chosen so that the swap is worth zero initially. This does not mean that each cash flow exchange in the swap is worth zero initially. Instead, it means that the sum of the values of the cash flow exchanges is zero. Figure 7.9 shows two alternative situations in swap where there are ten cash-flow exchanges.  

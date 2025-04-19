@@ -1,3 +1,16 @@
+---
+tags:
+  - '#average_funding_cost'
+  - '#funding_benefit'
+  - '#funding_cost'
+  - '#funding_valuation_adjustment'
+  - '#fva_mva'
+  - '#initial_margin'
+  - '#margin_valuation_adjustment'
+  - '#risk_free_rate'
+  - '#variation_margin'
+  - '#xva_debate'
+---
 # 9.2 FVA AND MVA  
 
 The funding valuation adjustment (FVA) and margin valuation adjustment (MVA) are adjustments to the value of a derivatives portfolio for the cost of funding derivative. positions. To illustrate how they might arise, suppose that a derivatives dealer, Bank A, is. in the situation illustrated in Figure 9.1. It has entered into a five-year interest rate swap with a corporate end user and has hedged its risk by entering into an exactly offsetting swap with another dealer, Bank B. It appears that Bank A has locked in a profit of. $0.1\%$ per year because it receives $3\%$ from Bank B and pays $2.9\%$ to the end user. We suppose that the transaction between Bank A and Bank B is cleared through a CCP with both sides posting initial margin and variation margin. (As explained in earlier chapters, this is required under post-crisis regulations for a standard swap such as this.).  

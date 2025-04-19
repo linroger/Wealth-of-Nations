@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cox_ingersoll_ross_model'
+  - '#equilibrium_interest_rate_models'
+  - '#expectation_hypothesis'
+  - '#interest_rate_concepts'
+  - '#liquidity_preference'
+  - '#real_interest_rates'
+  - '#term_structure_of_interest_rates'
+  - '#vasicek_model'
+---
 # 10 The economics of the term structure of interest rates 243  
 
 10.1 Introduction . 243   

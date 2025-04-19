@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_opportunities'
+  - '#bond_spread'
+  - '#cds_bond_basis'
+  - '#corporate_bonds'
+  - '#credit_default_swap_cds'
+  - '#european_sovereign_debt_crisis'
+  - '#financing_risk'
+  - '#french_government_bonds'
+  - '#italian_government_bonds'
+  - '#repo_market'
+---
 # 14.8 CDS-BOND BASIS  
 
 Credit risk today is traded in both the corporate debt market and in the CDS market. It is natural to ask, therefore, whether a particular credit trades at the same price in both markets or is cheaper in one market than the other. If the latter, then there might be relative value trading opportunities to buy. in one market and sell in the other..  

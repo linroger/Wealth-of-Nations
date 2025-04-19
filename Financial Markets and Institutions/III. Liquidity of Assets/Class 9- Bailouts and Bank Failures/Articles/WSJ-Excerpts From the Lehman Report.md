@@ -1,13 +1,20 @@
 ---
 aliases:
-- WSJ-Excerpts From the Lehman Report
-- Excerpts From the Lehman Report
-- WSJ-Excerpts From the Lehman Report.md
+  - WSJ-Excerpts From the Lehman Report
+  - Excerpts From the Lehman Report
+  - WSJ-Excerpts From the Lehman Report.md
 linter-yaml-title-alias: Excerpts From the Lehman Report
-tags:
-- 
-- 
 title: Excerpts From the Lehman Report
+tags:
+  - '#colorable_claims'
+  - '#ernst_and_young_audit'
+  - '#financial_disclosure'
+  - '#jpmorgan_chase_collateral'
+  - '#lehman_brothers_collapse'
+  - '#liquidity_pool'
+  - '#repo_105_transactions'
+  - '#warren_buffett_lehman'
+  - '#whistleblower_letter'
 ---
 # WSJ-Excerpts From the Lehman Report
 

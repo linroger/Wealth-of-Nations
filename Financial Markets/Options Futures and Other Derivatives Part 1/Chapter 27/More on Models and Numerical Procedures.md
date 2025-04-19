@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#barrier_options'
+  - '#black_scholes_merton'
+  - '#convertible_bonds'
+  - '#correlated_assets'
+  - '#ivf_model'
+  - '#monte_carlo_simulation'
+  - '#path_dependent_derivatives'
+  - '#stochastic_volatility_models'
+---
 # Chapter 27. More on models and numerical procedures ... .. 618  
 
 27.1 Alternatives to Black-Scholes-Merton. . 619   

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#bond_pricing_formula'
+  - '#feynman_kac_formula'
+  - '#inflation_effects'
+  - '#money_illusion'
+  - '#nominal_bonds'
+  - '#ode_solutions'
+  - '#real_bonds'
+---
 $\textbf{Define}$
 $$
 Q = \log (\text{CPI}), \quad y = \log (Y)

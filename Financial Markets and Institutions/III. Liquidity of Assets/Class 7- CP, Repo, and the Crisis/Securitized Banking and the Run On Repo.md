@@ -4,32 +4,19 @@ cssclasses:
 aliases:
   - Securitized Banking and the Run On Repo
   - Securitized Banking and the Run On Repo.md
-tags:
-
-  - 
-  - quantitative-finance
-  - financial-crises
-  - repo-market
-  - securitization
-  - banking
-  - securitized-banking
-  - counterparty-risk
-  - repo-run
-  - "#finance"
-  - "#financial_crises"
-  - "#debt-management"
-  - "#financial-markets"
-  - "#risk-management"
-  - "#subprime-crisis"
-  - "#finance"
-  - "#financial_crises"
-  - "#debt-management"
-  - "#financial-markets"
-  - "#risk-management"
-  - "#subprime-crisis"
 title: Securitized Banking and the Run On Repo
+tags:
+  - '#asset_backed_securities'
+  - '#contagion'
+  - '#counterparty_risk'
+  - '#credit_spreads'
+  - '#financial_crisis_2007_2008'
+  - '#lib_ois_spread'
+  - '#repo_haircuts'
+  - '#repo_market'
+  - '#securitized_banking'
+  - '#subprime_mortgages'
 ---
-
 # Securitized Banking and the Run On Repo
 
 ## 1. Introduction

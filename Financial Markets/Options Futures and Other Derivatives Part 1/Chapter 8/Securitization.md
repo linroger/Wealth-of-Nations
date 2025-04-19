@@ -1,3 +1,16 @@
+---
+tags:
+  - '#abs_cdo'
+  - '#asset_backed_security_abs'
+  - '#credit_ratings'
+  - '#default_risk'
+  - '#financial_instruments'
+  - '#mortgage_backed_security_mbs'
+  - '#securitization'
+  - '#special_purpose_vehicle_spv'
+  - '#tranches'
+  - '#waterfall'
+---
 # 8.1 SECURITIZATION  
 
 Traditionally, banks have funded their loans primarily from deposits. In the 1960s, U.S. banks found that they could not keep pace with the demand for residential mortgages. with this type of funding. This led to the development of the mortgage-backed security (MBS) market. Organizations that were active in this market are:.  

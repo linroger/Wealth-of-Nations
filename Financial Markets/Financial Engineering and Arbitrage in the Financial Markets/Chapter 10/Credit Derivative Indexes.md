@@ -1,3 +1,16 @@
+---
+tags:
+  - '#active_investing'
+  - '#algorithmic_trading'
+  - '#cds_trading'
+  - '#cdx_index'
+  - '#credit_derivative_indexes'
+  - '#dodd_frank_act'
+  - '#individual_investors'
+  - '#investment_strategies'
+  - '#itraxx_cds_europe'
+  - '#passive_investing'
+---
 # 10.5  CREDIT DERIVATIVE INDEXES  
 
 In 2011 there were two main credit derivative indexes. In Europe, the iTraxx CDS Europe. index tracks 125 investment grade corporate credits, changed every 6 months. The index is. owned by the International Index Company, a subsidiary of the Markit Group. The IIC licenses the index to over 30 market makers for over-the-counter trading. Markit.com provides daily. pricing information on the index. It also offers several sub-group indexes, but the trading in these indexes is very thin.  

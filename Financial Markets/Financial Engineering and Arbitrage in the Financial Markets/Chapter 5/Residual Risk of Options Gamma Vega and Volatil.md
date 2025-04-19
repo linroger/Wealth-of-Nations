@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#delta_hedging'
+  - '#gamma_risk'
+  - '#implied_volatility'
+  - '#option_pricing'
+  - '#option_volatility'
+  - '#vega_risk'
+  - '#volatility_skew'
+---
 # 5.8 RESIDUAL RISK OF OPTIONS: GAMMA, VEGA, AND VOLATILITY  
 
 Can anything go wrong with the delta hedge? If the dealer adheres strictly to the binomial algorithm, then as long as the stock follows one of the considered paths, the answer is no. Since the Black-Scholes model considers a continuum of paths, then also as long as the stock follows one of the considered paths, the answer is no. So, can anything go wrong? Unfortunately, yes.  

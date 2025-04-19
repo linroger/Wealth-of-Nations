@@ -1,9 +1,18 @@
 ---
 title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
-aliases: [Risk-Neutral Pricing and Marginal Utility in the Binomial Model]
-tags: [Risk-Neutral-Pricing]
+aliases:
+  - Risk-Neutral Pricing and Marginal Utility in the Binomial Model
+tags:
+  - '#binomial_model'
+  - '#bond_valuation'
+  - '#marginal_utility'
+  - '#physical_probabilities'
+  - '#risk_averse_investors'
+  - '#risk_neutral_pricing'
+  - '#risk_neutral_probabilities'
+  - '#stochastic_discount_factor'
+  - '#stock_valuation'
 ---
-
 # Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
 
 This appendix links the discussion in this chapter to that in Appendix 11. B We now see how the concepts we have just discussed arise in the binomial model. The discussion in this section builds on Appendix 11. B. There are two assets,  a risky stock and a risk-free bond. Investorsare risk-averse,  there is one period and two possible outcomes: a high stock price (the good state) and a low stock price (the bad state). The payoff to the risky stock is $S_{\mathrm{l}}^{H}$ in the high state,  which occurs with probability $p^{H}$ ,  and $S_{\mathrm{l}}^{L}$ in the low state,  with probability $p^{L}=1-p^{H}$ The investor receives a marginal utility of consumption today of $U_{0}^{\prime}(C_{0})$. In the future,  if the high state occurs then the investor consumes $C_{\mathrm{l}}^{H}$ and obtains a marginal utility of ${} U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{H}) {}$. In the low state,  the investor consumes $C_{\mathrm{l}}^{L}$ and obtains a marginal utility of $U_{\mathrm{l}}^{\prime}(C_{\mathrm{l}}^{L})$. As we have discussed,  these consumption levels are consequences of the decisions the investor makes about how much to consume and how to invest savings. We simply take the outcome of this decision process for granted.

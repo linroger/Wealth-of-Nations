@@ -1,3 +1,15 @@
+---
+tags:
+  - '#contango'
+  - '#cost_of_carry'
+  - '#expected_spot_prices'
+  - '#futures_contracts'
+  - '#futures_prices'
+  - '#interest_rate_futures'
+  - '#normal_backwardation'
+  - '#risk_and_return'
+  - '#systematic_risk'
+---
 # 5.14  FUTURES PRICES AND EXPECTED FUTURE SPOT PRICES  
 
 We refer to the market's average opinion about what the spot price of an asset will be at a certain future time as the expected spot price of the asset at that time. Suppose that it is now June and the September futures price of corn is 450 cents. It is interesting to ask what the expected spot price of corn in September is. Is it less than 450 cents, greater than 450 cents, or exactly equal to 450 cents? As illustrated in Figure 2.1, the futures price converges to the spot price at maturity. If the expected spot price is less than 450 cents, the market must be expecting the September futures price to decline, so that traders with short positions gain and traders with long positions lose. If the expected spot price is greater than 450 cents, the reverse must be true. The market must be expecting the September futures price to increase, so that traders with long positions gain while those with short positions lose..  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#derivatives_users'
+  - '#diversification'
+  - '#financial_institutions'
+  - '#market_speculation'
+  - '#nonfinancial_organizations'
+  - '#risk_limits'
+  - '#risk_management'
+  - '#scenario_analysis'
+  - '#stress_testing'
+  - '#trading_losses'
+---
 # 37.1 LESSONS FOR ALL USERS OF DERIVATIVES  
 
 First, we consider the lessons appropriate to all users of derivatives, whether they are financial or nonfinancial companies.  

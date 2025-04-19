@@ -1,11 +1,19 @@
 ---
 aliases:
-- Pilgrim Prime Rate Trust
-- Pilgrim Prime Rate Trust.md
-tags:
-- 
-- 
+  - Pilgrim Prime Rate Trust
+  - Pilgrim Prime Rate Trust.md
 title: Pilgrim Prime Rate Trust
+tags:
+  - '#closed_end_fund'
+  - '#credit_risk'
+  - '#floating_rate_loans'
+  - '#loan_agreements'
+  - '#market_liquidity'
+  - '#net_asset_value'
+  - '#participation_interests'
+  - '#pilgrim_prime_rate_trust'
+  - '#senior_corporate_loans'
+  - '#tender_offers'
 ---
 # Pilgrim Prime Rate Trust
 

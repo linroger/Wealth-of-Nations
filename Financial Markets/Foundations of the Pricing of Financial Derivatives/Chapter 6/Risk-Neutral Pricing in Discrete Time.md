@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#binomial_model'
+  - '#martingale'
+  - '#no_arbitrage_condition'
+  - '#option_pricing'
+  - '#risk_aversion'
+  - '#risk_neutral_pricing'
+  - '#risk_neutral_probabilities'
+---
 # 6.2 RISK-NEUTRAL PRICING IN DISCRETE TIME
 
 One of the most important results derived from option pricing theory is that all assets can be valued via a risk neutrality argument. Unfortunately, risk-neutral pricing has been a source of much confusion. Those who do not understand the process are led to believe that some mysterious sleight of hand has been done and that the resulting price is somehow tainted by ignoring the risk. In fact, risk-neutral pricing makes no such assumption of risk neutrality. It simply uses the assumption that no arbitrage opportunities exist rather than the assumption that investors are risk averse to motivate the pricing process.

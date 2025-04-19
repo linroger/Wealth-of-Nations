@@ -1,19 +1,13 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: Week 2 Advanced Financial Analysis and Valuation
 tags:
-  - financialanalysis
-  - valuationanalysis
-  - forecasting
-  - retail-analysis
-  - "#financial-markets"
-  - "#asset-pricing"
-  - "#financial-valuation"
-  - "#forecasting-techniques"
+  - '#advanced_financial_analysis'
+  - '#valuation'
+  - '#week_2'
 ---
-
 # Week 2 Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

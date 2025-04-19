@@ -1,3 +1,15 @@
+---
+tags:
+  - '#delta_hedging'
+  - '#dirac_delta_functions'
+  - '#dynamic_hedging'
+  - '#ito_lemma'
+  - '#option_payoffs'
+  - '#risk_neutral_sde'
+  - '#stop_loss_strategy'
+  - '#tanakas_formula'
+  - '#volatility_smile'
+---
 # 16.5 APPLICATION TO OPTION PAYOFFS  
 
 The major advantage of the dirac delta functions, interpreted as the limits of distributions, is in differentiating functions that have points that cannot be differentiated in the usual sense. There are many such points in option trading. The payoff at the strike $K$ is one example. Knock-in, knock-out barriers is another example. Dirac delta will be useful for discussing derivatives at those points.  

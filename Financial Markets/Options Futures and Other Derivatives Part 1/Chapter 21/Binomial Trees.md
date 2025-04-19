@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_trees'
+  - '#delta'
+  - '#gamma'
+  - '#option_greeks'
+  - '#option_valuation'
+  - '#rho'
+  - '#risk_neutral_valuation'
+  - '#theta'
+  - '#vega'
+---
 # 21.1 BINOMIAL TREES  
 
 Binomial trees were introduced in Chapter 13. They can be used to value either.   

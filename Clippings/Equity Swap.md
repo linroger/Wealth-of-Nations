@@ -1,9 +1,17 @@
 ---
-title: "Equity Swap"
-source: "https://www.investopedia.com/terms/e/equityswap.asp"
-description: "An equity swap is an exchange of cash flows between two parties that allows each party to diversify its income while still holding its original assets."
+title: Equity Swap
+source: https://www.investopedia.com/terms/e/equityswap.asp
+description: An equity swap is an exchange of cash flows between two parties that
+  allows each party to diversify its income while still holding its original assets.
 tags:
-  - "clippings"
+  - '#counterparty_risk'
+  - '#equity_index'
+  - '#equity_swap'
+  - '#financial_derivatives'
+  - '#fixed_income'
+  - '#interest_rate_swap'
+  - '#libor'
+  - '#over_the_counter_otc'
 ---
 Investopedia / Michela Buttignol
 

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#american_options'
+  - '#apple_stock'
+  - '#call_options'
+  - '#cboe'
+  - '#european_options'
+  - '#exercise_price'
+  - '#expiration_date'
+  - '#option_contract'
+  - '#options_trading'
+  - '#put_options'
+---
 # 1.5 OPTIONS  
 
 Options are traded both on exchanges and in the over-the-counter market. There are two types of option. A call option gives the holder the right to buy the underlying asset by a certain date for a certain price. A put option gives the holder the right to sell the underlying asset by a certain date for a certain price. The price in the contract is known as the exercise price or strike price; the date in the contract is known as the expiration date or maturity. American options can be exercised at any time up to the expiration date. European options can be exercised only on the expiration date itself.? Most of the options that are traded on exchanges are American. In the exchange-traded equity option market, one contract is usually an agreement to buy or sell 100 shares. European options are generally easier to analyze than American options, and some of the properties of an American option are frequently deduced from those of its European counterpart.  

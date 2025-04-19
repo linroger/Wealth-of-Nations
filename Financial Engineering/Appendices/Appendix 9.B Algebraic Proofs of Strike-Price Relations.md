@@ -1,7 +1,16 @@
 ---
 title: Appendix 9. B Algebraic Proofs of Strike-Price Relations
+tags:
+  - '#american_options'
+  - '#arbitrage'
+  - '#bull_spread'
+  - '#call_premium'
+  - '#convex_function'
+  - '#european_options'
+  - '#option_pricing'
+  - '#put_premium'
+  - '#strike_price'
 ---
-
 # Appendix 9. B Algebraic Proofs of Strike-Price Relations
 
 In Chapter 9 we demonstrated severalpropositions about how option prices change when the strike price changes. To prove these propositions we will consider strike prices $K_{1},    K_{2}$ and $K_{3}$ ,  where $K_{1}<K_{2}<K_{3}$. Define $\lambda$ so that

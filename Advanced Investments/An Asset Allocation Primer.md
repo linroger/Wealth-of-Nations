@@ -1,3 +1,15 @@
+---
+tags:
+  - '#active_risk'
+  - '#asset_allocation'
+  - '#efficient_frontier'
+  - '#investment_horizon'
+  - '#liquidity'
+  - '#macroeconomic_model'
+  - '#modern_portfolio_theory'
+  - '#risk_tolerance'
+  - '#systematic_risk'
+---
 # An Asset Allocation Primer
 
 Brian J. Jacobsen, Ph.D., CFA, CFPo  

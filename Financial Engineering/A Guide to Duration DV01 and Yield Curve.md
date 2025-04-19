@@ -1,3 +1,16 @@
+---
+tags:
+  - '#duration'
+  - '#dv01'
+  - '#fixed_income_instruments'
+  - '#forward_curve'
+  - '#interest_rate_risk'
+  - '#key_rate_duration'
+  - '#partial_dv01'
+  - '#risk_transformation'
+  - '#yield_curve_risk'
+  - '#zero_coupon_yields'
+---
 # A Guide to Duration, DV01, and Yield Curve Risk Transformations  
 
 Originally titled "Yield Curve Partial Dv01s and Risk Transformations"  

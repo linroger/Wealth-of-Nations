@@ -1,10 +1,17 @@
 ---
 aliases:
-- 
-- 
-tags:
-- 
+  - 
+  - 
 title: Advanced Usage of QuantLib analytics library
+tags:
+  - '#credit_default_swaps_cds'
+  - '#credit_risk_modeling'
+  - '#hazard_rate_model'
+  - '#nelson_siegel_model'
+  - '#quantlib_analytics'
+  - '#risky_bond_pricing'
+  - '#sofr_curve_calibration'
+  - '#sofr_swaps'
 ---
 # Advanced Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/

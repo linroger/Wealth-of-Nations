@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bond_yields'
+  - '#error_terms'
+  - '#least_squares_estimation'
+  - '#level_versus_change_regressions'
+  - '#model_assumptions'
+  - '#regression_analysis'
+  - '#serial_correlation'
+  - '#yield_modeling'
+---
 # 6.3 LEVEL VERSUS CHANGE REGRESSIONS  
 
 When estimating regression-based hedges, most practitioners regress changes in yields on changes in yields, as in the previous sections, but some regress yields on yields. Mathematically, in the single-variable case, the level-on-level regression with dependent variable. $y$ and independent variable $x$ is,  

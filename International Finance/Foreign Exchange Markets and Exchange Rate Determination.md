@@ -1,10 +1,20 @@
 ---
-aliases: 
-tags: 
+aliases:
 title: Foreign Exchange Markets and Exchange Rate Determination
-cssclasses: [academia]
+cssclasses:
+  - academia
+tags:
+  - '#arbitrage'
+  - '#carry_trade'
+  - '#covered_interest_rate_parity'
+  - '#currency_speculation'
+  - '#exchange_rate'
+  - '#exchange_rate_determination'
+  - '#exchange_rate_regimes'
+  - '#foreign_exchange_market'
+  - '#forward_exchange_rate'
+  - '#spot_exchange_rate'
 ---
-
 # Foreign Exchange Markets and Exchange Rate Determination
 
 ## CHAPTER 1: THE FOREIGN EXCHANGE MARKET

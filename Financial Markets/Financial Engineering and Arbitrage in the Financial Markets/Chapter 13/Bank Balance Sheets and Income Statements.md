@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_liability_management'
+  - '#balance_sheet_analysis'
+  - '#bank_financial_statements'
+  - '#duration_gap_management'
+  - '#income_statement_analysis'
+  - '#interest_rate_risk_management'
+  - '#jp_morgan'
+  - '#maturity_gap_analysis'
+  - '#net_interest_margin'
+  - '#zions_bancorporation'
+---
 # 13.1 BANK BALANCE SHEETS AND INCOME STATEMENTS  
 
 Financial statements of banking institutions are not easy to read, because most of us grew up on accounting textbooks devoting much space to manufacturing categories like cost of goods sold, property plant and equipment, and depreciation. Let us start by looking at two very different US banks. The first is J.P. Morgan, a global bank headquartered in New York with over 230,000 employees around the world, and with large investment banking, asset management, private equity, and institutional trading businesses. In the USA, such a bank is referred to as a money-center bank. The Federal Reserve subjects money center banks with large trading books to Basel rules. In continental Europe, J.P. Morgan would be classified as a universal bank similar to Deutsche Bank or UBS. The second bank we look at is Zions Bancorporation, a fairly large regional bank based in Salt Lake City, Utah, with over 10,000 employees, and geographically covering the southwestern and intermountain region of the USA from Texas in the south through Arizona, Nevada, and California, up to Washington in the northwest. The equivalent profile banks in Europe would be "La Caixa," the third largest bank in Spain with 27,000 employees, or Raiffaisen Bank co-op with 55,000 employees in central Europe (Austria and beyond). The difference for the European banks is their multicountry/currency structure. However, the main business is similar: payment services, savings and deposit accumulation and consumer business, and real estate credit extension.  

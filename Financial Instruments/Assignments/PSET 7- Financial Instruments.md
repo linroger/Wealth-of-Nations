@@ -1,11 +1,22 @@
 ---
-aliases: [FINANCIAL INSTRUMENTS]
+aliases:
+  - FINANCIAL INSTRUMENTS
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS
-tags: 
 title: PSET 7Financial Instruments
-cssclasses: [academia]
+cssclasses:
+  - academia
+tags:
+  - '#american_options'
+  - '#binomial_tree_model'
+  - '#citigroup_default_probability'
+  - '#credit_crisis'
+  - '#financial_instruments'
+  - '#implied_volatility'
+  - '#kmv_model'
+  - '#merton_model'
+  - '#paulson_plan'
+  - '#probability_of_default'
 ---
-
 # PSET 7Financial Instruments
 
 BUS 35100 Winter 2024 John Heaton

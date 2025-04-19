@@ -6,21 +6,17 @@ aliases:
   - 
   - 
 tags:
-
-  - case-studies
-  - financialanalysis
-  - corporaterestructuring
-  - retail-performance
-  - turnaround-strategy
-  - finance
-  - financial-analysis
-  - corporate-finance
-  - "#investment-analysis"
-  - "#financial-markets"
-  - "#corporate-turnaround"
-  - "#private-equity"
+  - '#dollar_general'
+  - '#financial_performance_analysis'
+  - '#industry_risks'
+  - '#kkr_offer'
+  - '#minimum_wage_impact'
+  - '#peer_comparison'
+  - '#pro_forma_income_statement'
+  - '#profit_margins'
+  - '#return_on_assets_roa'
+  - '#return_on_equity_roe'
 ---
-
 # DOLLAR TREE CASE STUDY
 ## 1. DOLLAR GENERAL’S PERFORMANCE
 

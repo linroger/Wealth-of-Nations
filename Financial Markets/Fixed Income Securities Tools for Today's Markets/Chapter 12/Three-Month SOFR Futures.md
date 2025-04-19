@@ -1,3 +1,15 @@
+---
+tags:
+  - '#daily_compounded_sofr'
+  - '#daily_settlement_payments'
+  - '#final_settlement_rate'
+  - '#hedging_strategy'
+  - '#interest_rate_risk'
+  - '#reference_period'
+  - '#sofr_futures_contracts'
+  - '#tailing_the_hedge'
+  - '#three_month_sofr_futures'
+---
 # 12.4 THREE-MONTH SOFR FUTURES  
 
 Like one-month SOFR futures, three-month contracts are designed to hedge exposure to SOFR and are subject to daily settlement. There are three differences, however. First, and most obviously, three-month contracts hedge exposure over three months, with the exact determination of dates described presently. Second, the settlement rate of the three-month contract is based not on average SOFR over the reference period, but rather on daily compounded SOFR. Third, the three-month contract is scaled to hedge a $\$1$ million 90-day investment, which means that the $\mathrm{P}\&\mathrm{L}$ on one contract from a one-basis-point decrease in the final settlement rate is set equal to,  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#annuity_factor'
+  - '#equivalent_martingale_measure'
+  - '#forward_interest_rate'
+  - '#forward_price'
+  - '#interest_rate_derivatives'
+  - '#libor_swap'
+  - '#numeraire'
+  - '#risk_neutral_valuation'
+  - '#swap_options'
+  - '#zero_coupon_bond'
+---
 # 28.4  ALTERNATIVE CHOICES FOR THE NUMERAIRE  
 
 We now present a number of examples of the equivalent martingale measure result. The first example shows that it is consistent with the traditional risk-neutral valuation result used in earlier chapters. The other examples prepare the way for the valuation of bond options, interest rate caps, and swap options in Chapter 29.  

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#dv01'
+  - '#empirical_methods'
+  - '#key_rates'
+  - '#multi_factor_exposures'
+  - '#portfolio_volatility'
+  - '#principal_component_analysis'
+  - '#regression_hedging'
+  - '#term_structure_of_interest_rates'
+---
 # 5.7 MULTI-FACTOR EXPOSURES AND PORTFOLIO VOLATILITY  
 
 As discussed in this chapter and Chapter 4, risk metrics are useful for quantifying the effect of a change in rates on prices and for hedging interest rate risk. This section makes the point that risk metrics are also useful for quantifying portfolio volatility.  

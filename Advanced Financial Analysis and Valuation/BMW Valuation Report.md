@@ -4,16 +4,18 @@ aliases:
   - <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
   - 
 linter-yaml-title-alias: <A NAME="_HEADING=H0.\1FAKY1RZMRWL"></A>CONTENT
-tags:
-
-  - "#finance"
-  - "#investmentanalysis"
-  - "#financialmarkets"
-  - "#corporatefinance"
-  - "#automotive-industry"
-  - "#electric-vehicles"
-  - "#bmw"
 title: BMW Valuation Report
+tags:
+  - '#automotive_industry'
+  - '#bev_technology'
+  - '#bmw'
+  - '#competitive_advantage'
+  - '#electric_vehicles'
+  - '#financial_performance'
+  - '#financial_services'
+  - '#market_valuation'
+  - '#motorcycles_segment'
+  - '#r_and_d_expenditure'
 ---
 **Executive Summary**
 

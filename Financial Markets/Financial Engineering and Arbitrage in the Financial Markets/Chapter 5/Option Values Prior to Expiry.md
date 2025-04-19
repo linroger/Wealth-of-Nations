@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#arbitrage_rules'
+  - '#call_options'
+  - '#european_options'
+  - '#intrinsic_value'
+  - '#option_maturity'
+  - '#option_payoff'
+  - '#option_values_prior_to_expiry'
+  - '#put_options'
+---
 # 5.3  OPTION VALUES PRIOR TO EXPIRY  
 
 In all the above diagrams we showed the payoff of the options on the expiry date. Prior to expiry the option value will have to be higher than the present value of the payoff and, in most cases, even higher than the intrinsic value (equal to the payoff computed with today's stock price). For American options, which can be exercised immediately, this should be obvious. One can always exercise the option for its intrinsic value, so the premium cannot be lower than that. There is then the possibility of an even greater payoff. For European options, the. argument is a little more subtle. For options on assets with no intermediate payouts (dividends, coupons), it can be shown that European calls should not be exercised early, and are thus equally as valuable as American calls.' It may be optimal to exercise American puts early and so the European options price can be lower than its American version..  

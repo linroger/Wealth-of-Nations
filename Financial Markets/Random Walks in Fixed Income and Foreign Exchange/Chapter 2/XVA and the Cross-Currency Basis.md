@@ -1,3 +1,16 @@
+---
+tags:
+  - '#collateral'
+  - '#counterparty_risk'
+  - '#credit_risk'
+  - '#cross_currency_basis'
+  - '#cva'
+  - '#funding_costs'
+  - '#fva'
+  - '#xccy_basis_arbitrage'
+  - '#xva'
+  - '#xva_calculations'
+---
 # Chapter 2 XVA and the Cross-Currency Basis
 
 The financial world changed in 2oo8.' Before the crisis, there was only one 'yield curve', and markets were relatively arbitrage-free. In the post-crisis world, credit concerns cause curves to multiply, and various regulations designed to protect end up delivering unintended consequences, allowing previously impossible 'arbitrage' situations to persist.

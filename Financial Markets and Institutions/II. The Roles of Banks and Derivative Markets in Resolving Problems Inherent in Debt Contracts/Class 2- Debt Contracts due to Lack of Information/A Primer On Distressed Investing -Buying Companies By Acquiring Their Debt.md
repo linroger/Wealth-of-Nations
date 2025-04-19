@@ -1,12 +1,18 @@
 ---
 aliases:
-- A Primer On Distressed Investing -Buying Companies By Acquiring Their
-  Debt
-- A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
-tags:
-- 
-- 
+  - A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
+  - A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt.md
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
+tags:
+  - '#bankruptcy_process'
+  - '#corporate_restructuring'
+  - '#debt_acquisition'
+  - '#distressed_investing'
+  - '#holdout_problem'
+  - '#home_max_inc'
+  - '#restructuring_plan'
+  - '#value_investing'
+  - '#vulture_investing'
 ---
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 

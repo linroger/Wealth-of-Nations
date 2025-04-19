@@ -2,36 +2,19 @@
 title: Week 3 Cyclical Industries (and Advanced Forecasting)
 cssclasses:
   - academia
-aliases: 
+aliases:
 tags:
-
-  - finance
-  - riskanalysis
-  - investmentanalysis
-  - financialmarkets
-  - economic-depression
-  - cyclical-industries
-  - valuation-methods
-  - competitive-analysis
-  - quantitative-finance
-  - economic-theory
-  - financial-markets
-  - macroeconomics
-  - financial-forecasting
-  - economic-moats
-  - financial-instruments
-  - economic-history
-  - macroeconomic-policymaking
-  - financial-crises
-  - historical-analysis
-  - advanced-forecasting
-  - "#debt-cycles"
-  - "#capital-flows-management"
-  - "#economic-imbalances"
-  - "#economic-deleveraging"
-  - "#financial-analysis"
+  - '#asset_turnover'
+  - '#competitive_analysis'
+  - '#cyclical_industries'
+  - '#financial_analysis'
+  - '#forecasting'
+  - '#moat_analysis'
+  - '#operating_leverage'
+  - '#scenario_analysis'
+  - '#terminal_value'
+  - '#valuation'
 ---
-
 [[Week 3 Cyclical Industries (and Advanced Forecasting)|cyclical]]
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

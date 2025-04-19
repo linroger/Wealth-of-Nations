@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cds_analytics'
+  - '#cds_hedging'
+  - '#cds_pricing'
+  - '#hedge_ratios'
+  - '#probability_of_default'
+  - '#risky_annuity_factors'
+  - '#risky_dvol'
+  - '#single_name_cds'
+---
 # 18.5 CDS ANALYTICS  
 
 We will discuss the main quantitative tools used in CDS pricing and hedging using a 3-year,. single-name CDS. The idea is to illustrate the way (risk-adjusted) probability of default is obtained and used. Also, we would like to determine the so-called risky Dvol and risky annuity factors.. These factors are used in obtaining hedge ratios during the CDS pricing..  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_free_dynamics'
+  - '#asset_pricing'
+  - '#binomial_trees'
+  - '#cox_ross_rubinstein'
+  - '#martingale_property'
+  - '#risk_neutral_probability'
+  - '#sde_approximation'
+  - '#stochastic_differential_equations'
+  - '#tree_models'
+  - '#trinomial_trees'
+---
 # 12.6 ARBITRAGE-FREE DYNAMICS  
 
 The last result that we derive from the fundamental theorem of asset pricing is a combination of all the corollaries discussed thus far. The synthetic probabilities and the Martingale property that we obtained earlier can be used to derive several arbitrage-free dynamics for an asset price. These arbitrage-free dynamics play an important role in pricing situations where an exact synthetic cannot be created, either due to differences in nonlinearities or due to a lack of liquid constituent assets. In fact, most of the pricing models will proceed along the lines of first obtaining arbitrage-free dynamics, and then either simulating paths from this or obtaining the implied binomial or trinomial trees. PDE methods also use these arbitrage-free dynamics.  

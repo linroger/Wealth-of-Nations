@@ -6,18 +6,19 @@ aliases:
   - Class Slldes On Repurchase Agreements.md
   - Class SlIdes On Repurchase Agreements
 linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
-tags:
-
-  - 
-  - "#finance"
-  - "#financial-instruments"
-  - "#financial-crises"
-  - "#repo-market"
-  - "#collateralized-borrowing"
-  - "#tri-party-repo"
 title: Class Slides On Repurchase Agreements
+tags:
+  - '#collateralized_borrowing'
+  - '#financial_crisis_2008'
+  - '#lehman_brothers'
+  - '#margin_haircut'
+  - '#market_liquidity'
+  - '#repo_market_dynamics'
+  - '#repo_transactions'
+  - '#repurchase_agreements'
+  - '#securities_trading'
+  - '#tri_party_repo'
 ---
-
 [[Class Note 12 Part 2 Repos]]
 
 # Class Slides On Repurchase Agreements

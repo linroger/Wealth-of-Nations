@@ -1,3 +1,12 @@
+---
+tags:
+  - '#accounting_issues'
+  - '#backdating_scandal'
+  - '#contractual_arrangements'
+  - '#employee_stock_options'
+  - '#shareholder_manager_interests'
+  - '#valuation'
+---
 # Chapter 16. Employee stock options .. .349  
 
 16.1 Contractual arrangements 349   

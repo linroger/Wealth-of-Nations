@@ -1,11 +1,17 @@
 ---
 aliases:
-- The Economist Time Is Cheap
-- The Economist Time Is Cheap.md
-tags:
-- 
-- 
+  - The Economist Time Is Cheap
+  - The Economist Time Is Cheap.md
 title: The Economist Time Is Cheap
+tags:
+  - '#bank_profitability'
+  - '#banking_industry'
+  - '#financial_intermediation'
+  - '#low_interest_rates'
+  - '#negative_interest_rates'
+  - '#net_interest_income'
+  - '#quantitative_easing'
+  - '#reversal_rate'
 ---
 # The Economist Time Is Cheap
 

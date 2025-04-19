@@ -1,3 +1,16 @@
+---
+tags:
+  - '#binomial_tree'
+  - '#black_derman_toy_model'
+  - '#black_karasinski_model'
+  - '#bond_pricing'
+  - '#equilibrium_models'
+  - '#ho_lee_model'
+  - '#hull_white_model'
+  - '#no_arbitrage_models'
+  - '#short_rate'
+  - '#term_structure_of_interest_rates'
+---
 # 32.1 EXTENSIONS OF EQUILIBRIUM MODELS  
 
 It turns out that some equilibrium models can be converted to no-arbitrage models by.   

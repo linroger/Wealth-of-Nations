@@ -1,20 +1,13 @@
 ---
-aliases: 
+aliases:
 cssclasses:
   - academia
 title: Week 3 Advanced Financial Analysis and Valuation
 tags:
-  - financialanalysis
-  - valuation
-  - cyclical-industries
-  - financial-risk-analysis
-  - financial-markets
-  - risk-management
-  - financial-valuation
-  - "#financial-modeling"
-  - "#valuation-techniques"
+  - '#advanced_financial_analysis'
+  - '#valuation'
+  - '#week_3'
 ---
-
 # Week 3 Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

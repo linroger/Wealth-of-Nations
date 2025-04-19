@@ -1,9 +1,17 @@
 ---
-aliases: 
-tags: 
+aliases:
 title: Lecture 3-Dynamics of Returns
+tags:
+  - '#conditional_distribution'
+  - '#logarithmic_returns'
+  - '#macro_market_inefficiency'
+  - '#market_timing'
+  - '#out_of_sample_prediction'
+  - '#price_dividend_ratio'
+  - '#return_predictability'
+  - '#sentiment_analysis'
+  - '#volatility_timing'
 ---
-
 # Lecture 3-Dynamics of Returns
 
 [[Lecture 3- Dynamics of Returns|return dynamics]]

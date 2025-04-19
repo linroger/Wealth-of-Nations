@@ -1,3 +1,13 @@
+---
+tags:
+  - '#binomial_trees'
+  - '#dividend_paying_stock'
+  - '#finite_difference_methods'
+  - '#monte_carlo_simulation'
+  - '#options_pricing'
+  - '#time_dependent_parameters'
+  - '#variance_reduction'
+---
 # Chapter 21. Basic numerical procedures . .448  
 
 21.1 Binomial trees 448   

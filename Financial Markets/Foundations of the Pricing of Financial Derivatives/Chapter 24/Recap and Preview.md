@@ -1,3 +1,15 @@
+---
+tags:
+  - '#explicit_finite_difference'
+  - '#finite_difference_methods'
+  - '#forward_rate'
+  - '#implicit_finite_difference'
+  - '#interest_rate_derivatives'
+  - '#option_pricing'
+  - '#term_structure_interest_rates'
+  - '#unbiased_expectations_hypothesis'
+  - '#yield_curve'
+---
 # 24.6 RECAP AND PREVIEW
 
 In this chapter, we showed how options can be priced by finite difference methods. The finite difference approach specifies difference equations that approximate the differential equations that must hold to obtain the option price. These difference equations are solved by deriving their values over the range of possibilities, such that the option price at the start corresponds to the condition that the current underlying price and time to expiration are in effect. We showed two methods of achieving this result: the explicit and implicit finite difference methods. The former essentially creates a trinomial, which is solved in a similar manner to the binomial model. The latter solves simultaneous equations at each combination of asset price and time to expiration.

@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cdo_tranche_valuation'
+  - '#correlation_sensitivity'
+  - '#correlation_trading'
+  - '#default_correlation'
+  - '#equity_tranche'
+  - '#long_correlation_trade'
+  - '#mark_to_market_losses'
+  - '#mezzanine_tranche'
+  - '#senior_tranche'
+---
 # 22.4 DEFAULT CORRELATION AND TRADING  
 
 Correlation impacts risk assessment and valuation of CDO tranches. Each tranche value reflects correlation in a different way. Perhaps the most interesting correlation relationship is shown in the equity $(0-3\%)$ tranche. This may first appear counterintuitive. It turns out that the higher the corre-. lation, the lower the equity tranche risk, and the higher the value of the tranche. The reasoning. behind this is as follows. Higher correlation makes extreme cases of very few defaults more likely.. Everything else being the same, the more correlation, the lower the risk the investor takes on and the lower premium the investor is going to receive over the lifetime of the tranche..  

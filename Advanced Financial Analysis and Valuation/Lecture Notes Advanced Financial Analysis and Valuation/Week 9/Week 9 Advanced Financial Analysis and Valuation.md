@@ -1,9 +1,3 @@
----
-tags:
-  - "#financialanalysis"
-  - "#valuation"
-  - "##information-risks"
----
 %% Begin Waypoint %%
 - **[[Week 9 Advanced Financial Analysis and Valuation]]**
 	- [[Week 9 Advanced Financial Analysis and Valuation]]

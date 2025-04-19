@@ -1,14 +1,23 @@
 ---
 aliases:
-- 
-- LECTURE NOTES 10 INTEREST RATE DERIVATIVES
-- LECTURE NOTES 10INTEREST RATE DERIVATIVES
-- Interest Rate Derivatives
-- 
+  - 
+  - LECTURE NOTES 10 INTEREST RATE DERIVATIVES
+  - LECTURE NOTES 10INTEREST RATE DERIVATIVES
+  - Interest Rate Derivatives
+  - 
 linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
-tags:
-- 
 title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
+tags:
+  - '#black_formula'
+  - '#callable_bonds'
+  - '#forward_rate_agreement'
+  - '#ho_lee_model'
+  - '#interest_rate_derivatives'
+  - '#interest_rate_swaps'
+  - '#interest_rate_trees'
+  - '#libor'
+  - '#overnight_index_swaps'
+  - '#sofr'
 ---
 # Lecture Notes 10- Interest Rate Derivatives
 

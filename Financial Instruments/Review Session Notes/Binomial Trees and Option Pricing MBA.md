@@ -1,12 +1,20 @@
 ---
 aliases:
-- BINOMIAL TREES AND OPTION PRICING MBA
-- 
-- 
+  - BINOMIAL TREES AND OPTION PRICING MBA
+  - 
+  - 
 linter-yaml-title-alias: BINOMIAL TREES AND OPTION PRICING MBA
-tags:
-- 
 title: Binomial Trees and Option Pricing MBA
+tags:
+  - '#analyst_probabilities'
+  - '#at_the_money_option'
+  - '#binomial_trees'
+  - '#capm'
+  - '#dynamic_replication'
+  - '#option_pricing'
+  - '#option_value_comparative_statics'
+  - '#risk_neutral_methodology'
+  - '#stock_price_maturity'
 ---
 # Binomial Trees and Option Pricing MBA
 ## 1. BINOMIAL TREES IN [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]

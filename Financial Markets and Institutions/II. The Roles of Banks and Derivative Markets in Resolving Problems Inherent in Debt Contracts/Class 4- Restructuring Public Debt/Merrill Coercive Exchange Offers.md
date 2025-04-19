@@ -1,11 +1,21 @@
 ---
 aliases:
-- Merrill Coercive Exchange Offers.md
-- Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
+  - Merrill Coercive Exchange Offers.md
+  - Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange
+    Offers|Exchange Offers]]
+title: Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy
+  Exchange Offers|Exchange Offers]]
 tags:
-- 
-- 
-title: Merrill Coercive [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Exchange Offers]]
+  - '#bondholder_rights'
+  - '#coercive_exchange_offers'
+  - '#corporate_distress'
+  - '#covenants'
+  - '#debt_restructuring'
+  - '#exit_consents'
+  - '#financial_disclosure'
+  - '#high_yield_bonds'
+  - '#holdout_problem'
+  - '#market_participants'
 ---
 # Merrill Coercive Exchange Offers
 

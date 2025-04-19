@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#conditional_probabilities'
+  - '#continuous_time_framework'
+  - '#dividend_calculation'
+  - '#equation_equivalence'
+  - '#exercise_questions'
+  - '#stateprice_deflator'
+  - '#two_period_economy'
+---
 # 11.8 Exercises  
 
 EXERCISE 11.1 Show that the Equations (11.8) and (11.9) are equivalent.  

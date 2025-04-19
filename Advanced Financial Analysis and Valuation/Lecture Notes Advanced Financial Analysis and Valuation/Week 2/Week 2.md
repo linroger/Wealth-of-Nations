@@ -1,13 +1,9 @@
 ---
 title: Week 2
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#financialanalysis"
-  - "#casestudy"
-  - "#forecasting"
-  - "#retail-analysis"
+  - '#waypoint'
+  - '#week_2'
 ---
-
 # Week 2
 %% Begin Waypoint %%
 - **[[Week 2]]**

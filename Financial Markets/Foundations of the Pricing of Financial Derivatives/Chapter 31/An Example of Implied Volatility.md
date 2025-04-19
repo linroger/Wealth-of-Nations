@@ -1,3 +1,15 @@
+---
+tags:
+  - '#black_scholes_merton_model'
+  - '#financial_crisis'
+  - '#implied_volatility'
+  - '#market_lean'
+  - '#option_exercise_price'
+  - '#option_pricing'
+  - '#sp_500_options'
+  - '#spy_options'
+  - '#volatility_smile'
+---
 # 31.2 AN EXAMPLE OF IMPLIED VOLATILITY
 
 Table 31.1 shows the closing ask prices on September 17 of a particular year for options on the S&P 500 expiring in approximately one month, specifically October 19. These options are among the most active of all listed options, and they are European style, so we can use the Black-Scholes-Merton model to price them. These prices were closing ask quotes, meaning that they represent the prices at the close of trading at which the dealer was offering to buy the options. Hence, these are the prices at which the public would expect to buy. At that time, the S&P 500 closed at 2,904.31, so this is the price of the underlying.

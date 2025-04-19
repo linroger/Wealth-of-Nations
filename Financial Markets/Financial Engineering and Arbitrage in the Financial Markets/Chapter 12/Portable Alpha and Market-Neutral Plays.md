@@ -1,3 +1,15 @@
+---
+tags:
+  - '#alpha_transfer'
+  - '#beta_risk'
+  - '#clever_alpha_fund'
+  - '#etf_mispricing'
+  - '#futures_hedge'
+  - '#market_neutral_funds'
+  - '#portable_alpha'
+  - '#sector_index_funds'
+  - '#us_equity_exposure'
+---
 # 12.2  PORTABLE ALPHA AND MARKET-NEUTRAL PLAYS  
 
 Many market-neutral funds are designed to appeal to a broad set of investors who make their own asset allocation decisions and seek to find skilled managers to generate excess returns. Imagine a large US pension fund that follows a core-satellite approach to investment. For the first half of 2012, it allocates (core: beta) $30\%$ of its portfolio into US equities, $25\%$ into European equities, $25\%$ into emerging markets, $10\%$ into global commodities, and has (satellite: alpha) $10\%$ of its investment dollars left to allocate to other asset classes. It comes across the Clever Alpha Fund that specializes in identifying mispricing in the US ETF market. The fund's manager Joe Saxon has developed an algorithm that signals when an ETF is underpriced relative to the underlying basket of stocks it holds. Saxon has a great track record in three US sectors - financial, tech, and biotech -- in identifying these discounts when they occur, but his algorithm does not work for overpricing situations. The pension fund decides to allocate $5\%$ of its investment dollars to Clever Alpha, but while they admire Saxon for his mispricing skills, they do not want him to take the general exposure to US equities. What if the underpricings happen before the general market drops? So while we buy a relatively cheap ETF full of US industrial or financial stocks at a discount to the net asset value, and while the fund's price "corrects up"' to the full NAV, the US market corrects down. Clever Alpha has a portable alpha solution for that. It offers a market-neutral Clever Alpha ETF Neutral Arbitrage Fund in which it hedges its overall exposure to US equities with short S&P 500 futures. The pension fund can then manage its asset allocation independent of its specific security selection. In the middle of 2012 it can decide to reduce the allocation to US equities from $30\%$ to $20\%$ or even to zero, but still retain the same $5\%$ in Clever Alpha. The process of separating the asset class exposure from specific risk plays is called alpha transfer..  

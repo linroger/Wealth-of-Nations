@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_swap_spread'
+  - '#bond_spreads'
+  - '#bond_yield'
+  - '#cash_cds_basis'
+  - '#credit_default_swaps_cds'
+  - '#credit_risk'
+  - '#relative_value_analysis'
+  - '#swap_spread'
+  - '#treasury_spread'
+  - '#z_spread'
+---
 # Relative value analysis
  
 ## Relative value analysis: bond spreads   

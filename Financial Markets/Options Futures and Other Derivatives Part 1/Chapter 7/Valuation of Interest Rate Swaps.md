@@ -1,3 +1,15 @@
+---
+tags:
+  - '#eurodollar_futures'
+  - '#forward_rates'
+  - '#interest_rate_swaps'
+  - '#libor_swap'
+  - '#ois_rates'
+  - '#risk_free_rates'
+  - '#sofr'
+  - '#swap_cash_flows'
+  - '#swap_valuation'
+---
 # 7.6 VALUATION OF INTEREST RATE SWAPS  
 
 We now move on to discuss the valuation of interest rate swaps. An interest rate swap is worth close to zero when it is first initiated. After it has been in existence for some time, its value may be positive or negative.  

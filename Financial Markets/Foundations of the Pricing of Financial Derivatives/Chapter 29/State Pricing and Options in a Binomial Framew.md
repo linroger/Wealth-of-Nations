@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#binomial_option_pricing'
+  - '#call_option_pricing'
+  - '#financial_instruments'
+  - '#matrix_operations'
+  - '#risk_free_rate'
+  - '#risk_neutral_probability'
+  - '#state_pricing'
+---
 # 29.4 STATE PRICING AND OPTIONS IN A BINOMIAL FRAMEWORK
 
 In this section, we draw on the work of Banz and Miller (1978) and Breeden and Litzenberger (1978). Consider a one-period binomial option pricing world. Let an asset worth $V$ today be worth either $V u$ or $V d$ one period later, where $\boldsymbol{\mathscr{u}}$ and $d$ are one plus the return on the asset in each of the two outcomes. From what we have previously learned about state pricing, we know that. $V$ must be $V u\psi_{1}+V d\psi_{2}$ . Let us divide through by. $V$ and also specify the formula for the risk-free rate in terms of the state prices:

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cash_and_carry_arbitrage'
+  - '#cash_settled_forward'
+  - '#clearinghouse'
+  - '#commodity_markets'
+  - '#forward_contracts'
+  - '#futures_contracts'
+  - '#marking_to_market'
+  - '#physical_settled_forward'
+  - '#prediction_markets'
+  - '#spot_transactions'
+---
 # 3.1 FUNDAMENTALS OF FUTURES AND FORWARDS  
 
 A spot transaction is a contract to buy or sell an asset for immediate delivery. Cash is paid and the asset is received now. A forward is a contract to buy or sell a specified quantity of an asset at a price agreed upon today, but for delivery at some future date called the expiry date. The seller is said to short (go short), the buyer of the asset is said to long (go long) the forward. In a. physical-settled forward, the seller delivers the physical asset and, on the delivery date, receives the pre-agreed price for it. In a cash-settled forward, the seller does not deliver the asset on the delivery date. The buyer pays to the seller (or receives from the seller) the difference between the pre-agreed price and the spot price on the day of the delivery. Economically, the physicaland cash-settled forwards are the same. If, in the physical forward, the original forward price was lower (higher) than the delivery spot price, the buyer takes possession of the commodity for that lower (higher) price. In the cash forward, the buyer receives (pays) the difference. between the final spot price and the original forward price, but has to pay the final spot price for the commodity. If the final spot price is higher than the forward price, he is compensated.  

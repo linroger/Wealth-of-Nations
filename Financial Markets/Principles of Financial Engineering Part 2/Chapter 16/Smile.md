@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_pde'
+  - '#delta_hedging'
+  - '#dirac_delta_functions'
+  - '#gamma_gains'
+  - '#implied_volatility'
+  - '#options_pricing'
+  - '#volatility_instruments'
+  - '#volatility_smile'
+---
 # 16.3 SMILE  
 
 Options were introduced as volatility instruments in Chapter 9. This is very much in line with the way traders think about options. We showed that when we deal with options as volatility instruments mathematically we arrived at the same formula, in this case the same partial differential equation (PDE) as the Black-Scholes PDE. Mathematically the approach was identical to the standard textbook treatment that considers options as directional instruments.' Yet, although the interpretation in Chapter 9 is more in line with the way traders and option markets think, in that discussion there was still a major missing component.  

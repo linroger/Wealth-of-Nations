@@ -1,11 +1,19 @@
 ---
 aliases:
-- Moodys Recovery Rates 2009
-- Moodys Recovery Rates 2009. md
-tags:
-- 
-- 
+  - Moodys Recovery Rates 2009
+  - Moodys Recovery Rates 2009. md
 title: Moodys Recovery Rates 2009
+tags:
+  - '#corporate_default_rates'
+  - '#credit_loss_rates'
+  - '#default_rate_forecasts'
+  - '#distressed_exchanges'
+  - '#financial_crisis_2008'
+  - '#moodys_recovery_rates'
+  - '#rating_accuracy_metrics'
+  - '#recovery_rates'
+  - '#senior_unsecured_bonds'
+  - '#speculative_grade_default_rate'
 ---
 # Moodys Recovery Rates 2009
 

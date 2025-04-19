@@ -1,3 +1,14 @@
+---
+tags:
+  - '#black_scholes_model'
+  - '#credit_risk_assessment'
+  - '#equity_as_an_option'
+  - '#firm_assets'
+  - '#kmv_model'
+  - '#risk_neutral_measure'
+  - '#stock_valuation'
+  - '#zero_coupon_debt'
+---
 # 18.1 EQUITY AS AN OPTION
 
 Let us start by assuming the existence of a corporation that has a single issue of zero-coupon debt due at time $T_{2}$ . We define the following terms:

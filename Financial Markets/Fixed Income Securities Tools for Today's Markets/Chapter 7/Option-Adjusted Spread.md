@@ -1,3 +1,14 @@
+---
+tags:
+  - '#cmt_swap'
+  - '#discounting_rates'
+  - '#expected_return'
+  - '#market_price_vs_model_price'
+  - '#oas_calculation'
+  - '#option_adjusted_spread'
+  - '#risk_neutral_process'
+  - '#security_valuation'
+---
 # 7.6 OPTION-ADJUSTED SPREAD  
 
 Option-adjusted spread is a widely used measure of the relative value of a security, that is, of its market price relative to its model value. OAS is defined as the spread such that the market price of a security is recovered when that spread is added to discount rates in the model. To illustrate, say that the market price of the CMT swap in the previous section is $\$3,499.18$ $\$2.92$ less than the model price. In that case, the OAS of the CMT swap turns out to be 10 basis points. To see this, add 10 basis points to the discounting rates of $2.5\%$ and $1.5\%$ in Equations (7.24) and (7.25), respectively, to get new swap values of,  

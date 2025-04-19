@@ -1,3 +1,15 @@
+---
+tags:
+  - '#defined_benefit_pension_funds'
+  - '#exit_strategies'
+  - '#leverage_buyouts'
+  - '#limited_partnership_funds'
+  - '#pension_funds'
+  - '#private_equity'
+  - '#risk_allocation'
+  - '#sovereign_funds'
+  - '#venture_capital'
+---
 # 14 Private Equity, Pension, and Sovereign Funds 329  
 
 14.1 Private Equity 329   

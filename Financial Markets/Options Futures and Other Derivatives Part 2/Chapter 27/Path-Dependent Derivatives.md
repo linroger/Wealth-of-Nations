@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_style_derivatives'
+  - '#asian_options'
+  - '#average_price_call_option'
+  - '#binomial_tree_methods'
+  - '#european_style_derivatives'
+  - '#interpolation'
+  - '#lookback_options'
+  - '#monte_carlo_simulation'
+  - '#path_dependent_derivatives'
+---
 # 27.5 PATH-DEPENDENT DERIVATIVES  
 
 A path-dependent derivative (or history-dependent derivative) is a derivative where the. payoff depends on the path followed by the price of the underlying asset, not just its final value. Asian options and lookback options are examples of path-dependent derivatives. As explained in Chapter 26, the payoff from an Asian option depends on. the average price of the underlying asset; the payoff from a lookback option depends on. its maximum or minimum price. One approach to valuing path-dependent options when analytic results are not available is Monte Carlo simulation, as discussed in Chapter 21. A sample value of the derivative can be calculated by sampling a random. path for the underlying asset in a risk-neutral world, calculating the payoff, and. discounting the payoff at the risk-free interest rate. An estimate of the value of the. derivative is found by obtaining many sample values of the derivative in this way and. calculating their mean.  

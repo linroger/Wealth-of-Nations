@@ -1,3 +1,14 @@
+---
+tags:
+  - '#brownian_motion'
+  - '#excel_simulation'
+  - '#geometric_brownian_motion'
+  - '#random_variable_generation'
+  - '#stock_price_simulation'
+  - '#unit_uniform_distribution'
+  - '#volatility_modeling'
+  - '#wiener_process'
+---
 # 10.5 SIMULATING BROWNIAN MOTION AND WIENER PROCESSES
 
 To get a better understanding of the Brownian motion and Wiener processes, let us run some simulations in Excel. Recall that the Brownian motion process is Equation (10.11), and the Wiener process is Equation (10.2). Of course, in the model, time is continuous, so the time increments are close to zero. They are not, however, precisely equal to zero. Let us start by making them very short, say one hour. In a year, there are 365 days and 24 hours per day. Thus, each time increment is set at $1/\big(24^{*}365\big)=0.000114$ . Let us assume a stock with an expected return of 0.12, a volatility of 0.50, and a starting stock price of 50.

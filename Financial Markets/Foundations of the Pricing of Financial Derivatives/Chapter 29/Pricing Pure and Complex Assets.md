@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asset_payoffs'
+  - '#asset_pricing'
+  - '#complex_assets'
+  - '#financial_modeling'
+  - '#matrix_notation'
+  - '#pure_assets'
+  - '#risk_free_asset'
+  - '#scalar_notation'
+  - '#spanning_property'
+  - '#state_prices'
+---
 # 29.2 PRICING PURE AND COMPLEX ASSETS
 
 First, we state without proof the fact that there must always be at least as many assets as. there are states. This principle is referred to as the spanning property, which means that the pure assets must be sufficient to reproduce any complex asset. Here we shall make the number of assets equal to the number of states. Specifically let there be $_n$ states, where each state is identified as state i, $i=1,2,\ldots,n.$ and there are $_n$ complex assets, with each complex asset identified with the index j, $j=1,2,\ldots,n.$ Each complex asset has price $S_{j}$ Let $H_{i j}$ be the payoff of complex asset $j$ in state $i.$ A complex asset can be defined in terms of the number of units of each pure asset required to replicate the payoffs of the complex asset. We can alternatively define each pure asset in terms of the number of units of each complex asset required to replicate its outcomes. Define pure asset $i$ as an asset that pays 1.0 in state $i$ and zero in all other states. Then let $\alpha_{i j}$ be the number of units of asset $j$ that should be held to reproduce the payoff of pure asset i. Alternatively, we can view the payoff $H_{i j}$ as the number of units of pure asset $i$ that are implicit in complex asset $j$ . Let us now organize this information in a more meaningful way. We shall use both matrix and scalar notation, though the matrix notation is somewhat more useful in facilitating the solution of the simultaneous equations that will arise here.

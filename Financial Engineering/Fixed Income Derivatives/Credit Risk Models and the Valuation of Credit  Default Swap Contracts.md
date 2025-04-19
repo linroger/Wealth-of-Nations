@@ -1,4 +1,16 @@
-
+---
+tags:
+  - '#credit_default_swaps'
+  - '#credit_risk_models'
+  - '#credit_spreads'
+  - '#default_probability'
+  - '#intensity_based_models'
+  - '#kkm_model'
+  - '#merton_model'
+  - '#reduced_form_models'
+  - '#structural_models'
+  - '#valuation'
+---
 # Credit Risk Models and the Valuation of Credit  Default Swap Contracts
 
 # Abstract

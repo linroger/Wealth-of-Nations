@@ -1,3 +1,14 @@
+---
+tags:
+  - '#copula_models'
+  - '#credit_derivatives'
+  - '#default_correlation'
+  - '#factor_model'
+  - '#gaussian_copula'
+  - '#multivariate_distributions'
+  - '#poisson_model'
+  - '#student_t_copula'
+---
 # 10.3  COPULAS AND THE MODELING OF DEFAULT CORRELATION  
 
 Since the bulk of the credit derivatives business is in individual name CDSs, and for each name multiple maturity CDSs trade at the same time, calibrating marginal default probability distributions and simple univariate default models - like those in Chapter 7 - is quite easy. However, the individual CDSs contain no information about the default correlation structure. among different names. These have to be extracted from basket structures or CDOs. The main problem in modeling default correlation is the simple fact that, in mathematical statistics, very few distributions generalize easily from univariate to multivariate functions. While the multivariate normal distribution consists of correlated marginal univariate normals, the same.  

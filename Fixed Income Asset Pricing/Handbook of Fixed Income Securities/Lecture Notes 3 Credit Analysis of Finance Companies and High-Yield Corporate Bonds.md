@@ -1,29 +1,21 @@
 ---
-title: Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+title: Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield [[Class
+  Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 aliases: []
-tags:
-  - credit-analysis
-  - high-yield-bonds
-  - risk-management
-  - portfolio-management
-  - fixed-income
-  - distressed-debt
-  - yield-curve-analysis
-  - esg-integration
-  - financial-markets
-  - international-finance
-  - financial-derivatives
-  - interest-rate-benchmark
-  - "#quantitative-finance"
-  - "#financial-crises"
-  - "#credit-cycles"
-  - "#financialmarkets"
-  - "#credit-cycles"
-  - "#credit-risk-management"
 cssclasses:
   - academia
+tags:
+  - '#asset_coverage'
+  - '#asset_quality'
+  - '#credit_analysis'
+  - '#earnings_record'
+  - '#finance_companies'
+  - '#high_yield_bonds'
+  - '#leverage'
+  - '#liquidity'
+  - '#management'
+  - '#size'
 ---
-
 # Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
 
 ## 1. Credit Analysis of Finance Companies

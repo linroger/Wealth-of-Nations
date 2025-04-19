@@ -1,3 +1,15 @@
+---
+tags:
+  - '#euribor'
+  - '#gfc_impact'
+  - '#interbank_lending'
+  - '#interest_rate_benchmarks'
+  - '#libor'
+  - '#libor_instruments'
+  - '#libor_scandal'
+  - '#ois_rate'
+  - '#yield_curve'
+---
 # 3.4 LIBOR AND OTHER BENCHMARKS  
 
 We first need to define the concept of LIBOR rates. The existence of such reliable benchmarks is essential for engineering interest rate instruments. Banks with high credit ratings borrow money. from each other at the LIBOR rates. The LIBOR yield curves are typically a little higher than gov-. ernment curves and are known as the LIBOR curves or the swap curve. Figure 3.9 shows the USD LIBOR curve on June 13, 2014. It is apparent that on this day the LIBOR curve was above the US government bond yield curve. Later in this chapter, we discuss the construction of the yield curve from bond data, but first let's look at the precise definition of LIBOR..  

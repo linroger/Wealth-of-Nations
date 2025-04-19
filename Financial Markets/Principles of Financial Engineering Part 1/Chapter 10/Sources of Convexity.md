@@ -1,3 +1,15 @@
+---
+tags:
+  - '#cbots'
+  - '#convexity'
+  - '#forward_contracts'
+  - '#forward_rate_agreements'
+  - '#futures_contracts'
+  - '#interest_rate_swaps'
+  - '#mark_to_market'
+  - '#mortgage_backed_securities'
+  - '#prepayment_options'
+---
 # 10.4 SOURCES OF CONVEXITY  
 
 There is more than one reason for the convexity of pricing functions. We discuss some simple cases briefly, using a broad definition of convexity.  

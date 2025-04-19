@@ -1,3 +1,14 @@
+---
+tags:
+  - '#bsm_model'
+  - '#ito_lemma'
+  - '#probability_of_exercise'
+  - '#reciprocal_exchange_rate'
+  - '#risk_neutral_probability'
+  - '#spot_call_option'
+  - '#spot_put_option'
+  - '#stochastic_process'
+---
 # 32.4 PROBABILITY OF EXERCISE
 
 It is well known that the risk-neutral probability of exercise of the spot call option is $N(d_{2}^{D})$ and correspondingly the risk-neutral probability of exercise of the spot put option .5 $N\bar{(}-d_{2}^{D})$ . For spot calls, this is the risk-neutral probability that $S_{T}>X$ The corresponding probability for exercise of the reciprocal put is the probability that $1/S_{T}<1/X$ which must be the same as the probability that $S_{T}>X$ Thus, $N(d_{2}^{D})$ is the risk-neutral probability of exercise of the call, and this equals $N(-d_{1}^{F})$ , which is the probability of exercising the reciprocal put. Note that the probability of exercising the reciprocal put is not the term in the BSM put formula that is multiplied by the present value of $1/X$ or $N(-d_{2}^{F})$ . There is an important reason for that, which will become clearer when we examine the actual, as opposed to risk-neutral, probability of exercise.

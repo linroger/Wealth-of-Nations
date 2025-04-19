@@ -1,3 +1,14 @@
+---
+tags:
+  - '#arbitrage'
+  - '#arbitrageurs'
+  - '#futures_markets'
+  - '#options_markets'
+  - '#risk_free_profit'
+  - '#spot_price'
+  - '#stock_price_disparity'
+  - '#transaction_costs'
+---
 # 1.9 ARBITRAGEURS  
 
 Arbitrageurs are a third important group of participants in futures, forward, and. options markets. Arbitrage involves locking in a riskless profit by simultaneously. entering into transactions in two or more markets. In later chapters we will see how arbitrage is sometimes possible when the futures price of an asset gets out of line with. its spot price. We will also examine how arbitrage can be used in options markets. This section illustrates the concept of arbitrage with a very simple example..  

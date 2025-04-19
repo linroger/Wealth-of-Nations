@@ -1,3 +1,14 @@
+---
+tags:
+  - '#asset_pricing'
+  - '#constrained_optimization'
+  - '#linear_algebra'
+  - '#lognormal_distribution'
+  - '#mathematical_methods'
+  - '#optimization'
+  - '#probability_theory'
+  - '#vectors_and_matrices'
+---
 # 1.5 Prerequisites  
 
 We will study asset pricing with the well-established scientific approach: make precise definitions of concepts, clear statements of assumptions, and formal derivations of results. This requires extensive use of mathematics, but not very complicated mathematics. Concepts, assumptions, and results will all be accompanied by financial interpretations. Examples will be used for illustrations. The main mathematical disciplines we will apply are linear algebra, optimization, and probability. theory. Linear algebra and optimization are covered by many good textbooks on mathematics for economics as, e.g., the companion books by Sydsaeter and Hammond (2005) and Sydsaeter, Hammond, Seierstad, and Strom (2005), and of course by many more general textbooks on mathematics. Probability theory is usually treated in separate textbooks... A useful reference "manual' is Sydsaeter, Strom, and Berck (2000)..  

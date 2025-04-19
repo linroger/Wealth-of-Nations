@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_options'
+  - '#asian_options'
+  - '#barrier_options'
+  - '#binary_options'
+  - '#exotic_options'
+  - '#lookback_options'
+  - '#static_options_replication'
+  - '#variance_swaps'
+  - '#volatility_swaps'
+---
 # Chapter 26. Exotic options .. 592  
 
 26.1 Packages 592   

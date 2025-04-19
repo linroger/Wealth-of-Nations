@@ -1,13 +1,21 @@
 ---
 aliases:
-- Direct Finance Without Monitoring
-- Lecture 3 Slides.md
-- Lecture 3 Slides
+  - Direct Finance Without Monitoring
+  - Lecture 3 Slides.md
+  - Lecture 3 Slides
 linter-yaml-title-alias: Direct Finance Without Monitoring
-tags:
-- 
-- 
 title: Direct Finance Without Monitoring
+tags:
+  - '#bank_diversification'
+  - '#costly_monitoring'
+  - '#debt_contracts'
+  - '#delegated_monitoring'
+  - '#face_value'
+  - '#financial_intermediation'
+  - '#incentives_for_monitoring'
+  - '#loan_monitoring'
+  - '#optimal_contract'
+  - '#two_loan_bank'
 ---
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1
 

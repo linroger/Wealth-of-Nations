@@ -6,11 +6,17 @@ aliases:
   - Globalization
   - Introduction to Globalization
 tags:
-  - Globalization
-  - International-Trade
-  - Macroeconomic-Policymaking
+  - '#capital_flows'
+  - '#comparative_advantage'
+  - '#economic_history'
+  - '#global_division_of_labor'
+  - '#global_economy'
+  - '#globalization'
+  - '#income_inequality'
+  - '#international_trade'
+  - '#multinational_firms'
+  - '#waves_of_globalization'
 ---
-
 # Chapter 1-Introduction to Globalization
 
 [[Chapter 1-Introduction to Globalization|Globalization]]

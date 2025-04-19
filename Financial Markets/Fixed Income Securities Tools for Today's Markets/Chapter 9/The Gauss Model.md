@@ -1,3 +1,16 @@
+---
+tags:
+  - '#fed_funds_target_rate'
+  - '#gauss_model'
+  - '#long_term_factor'
+  - '#mean_reversion'
+  - '#medium_term_factor'
+  - '#model_estimation'
+  - '#risk_premium'
+  - '#short_term_rate'
+  - '#term_structure_model'
+  - '#term_structure_of_volatility'
+---
 # 9.2 THE GAUSS+ MODEL  
 
 The Gauss $^{\ast+}$ model is well-known among practitioners as a tool for proprietary trading and hedging. The assumptions of the model are intuitively appealing, and they reasonably balance the goals of tractability and of capturing the empirical complexity of term structure dynamics. The goal of the text is to introduce the model, both in theory -- through its equations and. solution -- and in application - through a full estimation of its parameters using recent data. Introducing a detailed estimation procedure here is noteworthy, because methodologies across the industry vary widely. The goal of the extensive appendix to this section is to enable a determined reader to estimate and implement the model independently..  

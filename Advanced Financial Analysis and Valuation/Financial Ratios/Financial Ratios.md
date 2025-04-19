@@ -1,13 +1,8 @@
 ---
 title: Financial Ratios
 tags:
-  - Advanced-Financial-Analysis-and-Valuation
-  - "#finance"
-  - "#financialratios"
-  - "#financial-analysis"
-  - "#ratio-calculation"
+  - '#financial_ratios'
 ---
-
 # Financial Ratios
 
 %% Begin Waypoint %%

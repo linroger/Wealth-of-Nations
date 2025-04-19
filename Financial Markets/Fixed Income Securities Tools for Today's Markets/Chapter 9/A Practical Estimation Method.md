@@ -1,3 +1,15 @@
+---
+tags:
+  - '#forward_rates'
+  - '#gauss_model'
+  - '#long_term_factor'
+  - '#mean_reversion_parameters'
+  - '#medium_term_factor'
+  - '#short_term_rate'
+  - '#term_structure_estimation'
+  - '#yield_volatility'
+  - '#zero_coupon_yields'
+---
 # 9.3 A PRACTICAL ESTIMATION METHOD  
 
 The estimation method presented here proceeds in stages, with each stage estimating a subset of the model's parameters.4.  

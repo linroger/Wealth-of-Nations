@@ -1,3 +1,16 @@
+---
+tags:
+  - '#cds_spread'
+  - '#credit_portfolio_sensitivity'
+  - '#duration_times_spread_dts'
+  - '#empirical_regularity'
+  - '#hazard_rate_model'
+  - '#interest_rate_changes'
+  - '#portfolio_context'
+  - '#risky_dv01'
+  - '#spread_duration'
+  - '#spread_dv01'
+---
 # 14.10 SPREAD DURATION AND DVO1  
 
 When trading or investing in credit portfolios, it is natural to measure the sensitivity of bond prices to changes in credit spreads. The standard measures, spread duration and spread Dv01, shift the spread, keeping the bench-. mark curve and cash flows the same, calculate a new price, and then calculate a duration or Dv01. Because rates used for discounting in this context are the sum of the benchmark rates and spreads, shifting the benchmark rate. by one basis point results in the same price sensitivity as shifting the spread by one basis point, that is, spread durations and Dv01s are the same as durations and DV01s with respect to interest rate changes. These spread sensitivities can still be useful, however, in a portfolio context. In a portfolio of government bonds, interest rates swaps, and corporate bonds, for example, spread DV01 with respect to swap spreads can be found by shifting spreads for swaps and corporate bonds only, while spread Dv01 with respect to corporate spreads can be found by shifting spreads for corporate. bonds only.  

@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage_principle'
+  - '#binomial_tree'
+  - '#call_option_pricing'
+  - '#hedge_ratio'
+  - '#leveraged_position'
+  - '#one_period_binomial_model'
+  - '#option_payoffs'
+  - '#risk_free_rate'
+  - '#risk_neutral_model'
+  - '#underlying_asset'
+---
 # 7.1 THE ONE-PERIOD BINOMIAL MODEL FOR CALLS
 
 Recalling from the previous chapter, we specified an asset priced at. $S$ that can go up to $S u$ or down to Sd. Given the historical decision to assume a lognormal distribution, early authors pursued a multiplicative binomial approach.1 We shall refer to these two states as. the up state and the down state, respectively. The basic idea is communicated in Figure 7.1. At the initial point in time, there is only one node, whereas at the next point in time, there. are only two nodes. Also, at the initial point in time, there are two arcs emanating from the initial node.

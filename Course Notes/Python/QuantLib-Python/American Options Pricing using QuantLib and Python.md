@@ -1,7 +1,14 @@
 ---
 title: American Option Pricing with QuantLib and Python
+tags:
+  - '#aapl'
+  - '#american_options_pricing'
+  - '#binomial_tree_approach'
+  - '#european_options'
+  - '#option_valuation'
+  - '#python'
+  - '#quantlib'
 ---
-
 # American Options Pricing using QuantLib and Python
 
 This post explains valuing American Options using QuantLib and Python

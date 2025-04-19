@@ -1,3 +1,15 @@
+---
+tags:
+  - '#accrued_interest'
+  - '#annual_percentage_yield'
+  - '#bond_valuation'
+  - '#clean_price'
+  - '#coupon_bonds'
+  - '#day_count_conventions'
+  - '#dirty_price'
+  - '#intra_year_compounding'
+  - '#semi_annual_compounding'
+---
 # 2.2 INTRA-YEAR COMPOUNDING AND DAY-COUNT  
 
 In the real world, the coupons do not accrue and interest rates do not compound over nice.   

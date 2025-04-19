@@ -1,3 +1,14 @@
+---
+tags:
+  - '#financial_engineering'
+  - '#instrument_valuation'
+  - '#market_maker'
+  - '#market_perspective'
+  - '#market_practitioner'
+  - '#regulatory_impact'
+  - '#two_way_prices'
+  - '#zero_value_instruments'
+---
 # 1.4 SOME CAVEATS FOR WHAT IS TO FOLLOW  
 
 A newcomer to financial engineering usually follows instincts that are harmful for good under standing of the basic methodologies in the field. Hence, before we start, we need to lay out some basic rules of the game that should be remembered throughout the book.  

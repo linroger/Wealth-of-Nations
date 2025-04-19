@@ -1,3 +1,16 @@
+---
+tags:
+  - '#arbitrage'
+  - '#callable_bonds'
+  - '#corridor_structures'
+  - '#danish_mortgage_bonds'
+  - '#hedge_funds'
+  - '#interest_rate_volatility'
+  - '#libor'
+  - '#mortgage_backed_securities'
+  - '#prepayment_risk'
+  - '#swaptions'
+---
 # 17.7 CONCLUSIONS  
 
 Swaptions play a fundamental role in economic activity and in world financial markets. This chapter has shown a simple example that was, however, illustrative of how swap measures can be defined and used in pricing swaptions.  

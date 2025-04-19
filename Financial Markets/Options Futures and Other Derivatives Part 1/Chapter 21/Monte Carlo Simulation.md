@@ -1,3 +1,16 @@
+---
+tags:
+  - '#asian_option'
+  - '#black_scholes_merton'
+  - '#cholesky_decomposition'
+  - '#derivative_valuation'
+  - '#greek_letters'
+  - '#monte_carlo_simulation'
+  - '#option_pricing'
+  - '#random_sampling'
+  - '#risk_neutral_valuation'
+  - '#stochastic_processes'
+---
 # 21.6 MONTE CARLO SIMULATION  
 
 We now explain Monte Carlo simulation, a quite different approach for valuing derivatives from binomial trees. Business Snapshot 21.1 illustrates the random sampling idea underlying Monte Carlo simulation by showing how a simple Excel program can be constructed to estimate $\pi$  

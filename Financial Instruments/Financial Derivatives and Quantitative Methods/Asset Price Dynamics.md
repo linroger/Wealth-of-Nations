@@ -1,7 +1,16 @@
 ---
 title: Asset Price Dynamics
+tags:
+  - '#asset_price_dynamics'
+  - '#continuous_compounding'
+  - '#efficient_markets_hypothesis'
+  - '#forward_price'
+  - '#geometric_brownian_motion'
+  - '#ito_calculus'
+  - '#lognormal_distribution'
+  - '#stochastic_process'
+  - '#wiener_process'
 ---
-
 # Asset Price Dynamics
 
 ### Introduction

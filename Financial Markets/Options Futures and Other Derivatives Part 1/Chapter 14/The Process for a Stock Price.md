@@ -1,3 +1,15 @@
+---
+tags:
+  - '#discrete_time_model'
+  - '#expected_return'
+  - '#geometric_brownian_motion'
+  - '#monte_carlo_simulation'
+  - '#stochastic_process'
+  - '#stock_price_process'
+  - '#stock_price_volatility'
+  - '#variance_rate'
+  - '#wiener_process'
+---
 # 14.3 THE PROCESS FOR A STOCK PRICE  
 
 In this section we discuss the stochastic process usually assumed for the price of a nondividend-paying stock.  

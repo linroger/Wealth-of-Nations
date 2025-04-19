@@ -1,3 +1,16 @@
+---
+tags:
+  - '#contingent_cds_ccds'
+  - '#counterparty_risk'
+  - '#credit_default_swaps_cds'
+  - '#credit_risk_management'
+  - '#cva_hedging'
+  - '#dva_hedging'
+  - '#dynamic_hedging'
+  - '#goldman_sachs'
+  - '#hedging_instruments'
+  - '#static_hedging'
+---
 # 24.6 HEDGING COUNTERPARTY RISK  
 
 The main objectives of hedging CVA and DVA are threefold. First, hedging CVA and DVA allows one to reduce the sensitivity of a bank's profit and loss to changes in the credit spread of the counterparty or the banks' own creditworthiness changes. Second, hedging allows to lock in the CVA position for the duration of the trade with the counterparty. Third, hedging allows a reduction of a CVA exposure. In practice, CVA hedging is not that simple since hedging jump to default risk is difficult and wwR can make separating counterparty risk from other risks impossible.  

@@ -1,3 +1,13 @@
+---
+tags:
+  - '#black_scholes_formula'
+  - '#british_pound'
+  - '#financial_engineering'
+  - '#fx_european_option'
+  - '#nonrecombining_binomial_tree'
+  - '#option_pricing'
+  - '#vba_program'
+---
 # 426 CHAPTER 12 PRICING TOOLS IN FINANCIAL ENGINEERING  
 
 14. FX European Option (Nonrecombining B-Tree) Write a VBA program to determine the initial price of European-style options on the British pound in a nonrecombining binomial tree model based on the following data:  

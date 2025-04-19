@@ -1,3 +1,15 @@
+---
+tags:
+  - '#equity_collateral'
+  - '#equity_repos'
+  - '#federal_reserve_data'
+  - '#financial_engineering'
+  - '#fitch_report'
+  - '#haircuts'
+  - '#market_liquidity'
+  - '#repo_market'
+  - '#risk_management'
+---
 # 5.4 EQUITY REPOS  
 
 If we can repo bonds out, can we do the same with equities? This would indeed be very useful.. Equity repos are becoming more popular, but, from a financial engineering perspective, there are potential technical difficulties:  

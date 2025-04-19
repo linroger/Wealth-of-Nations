@@ -1,22 +1,22 @@
 ---
 cssclasses:
   - academia
-aliases: 
-linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitraged
-tags:
-  - quantitative-finance
-  - financial-crises
-  - risk-management
-  - arbitrage-strategies
-  - hedge-fund-dynamics
-  - "#finance"
-  - "#debt-management"
-  - "#macroeconomics"
-  - "#economic-theory"
-  - "#market-volatility"
+aliases:
+linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance
+  Based Arbitraged
 title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
+tags:
+  - '#arbitrage_opportunities'
+  - '#forced_liquidation'
+  - '#liquidity_crisis'
+  - '#ltcm_meltdown'
+  - '#margin_calls'
+  - '#noise_traders'
+  - '#pba_arb'
+  - '#performance_based_arbitrage'
+  - '#price_formation'
+  - '#russian_default'
 ---
-
 [[Class Note 13 The LTCM Meltdown]]
 
 # Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”

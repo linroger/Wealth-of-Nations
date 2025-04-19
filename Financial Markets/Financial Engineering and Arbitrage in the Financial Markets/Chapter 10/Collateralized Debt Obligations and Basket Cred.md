@@ -1,3 +1,16 @@
+---
+tags:
+  - '#basket_credit_derivatives'
+  - '#cash_cdo'
+  - '#cdo_tranche_pricing'
+  - '#collateralized_debt_obligations'
+  - '#credit_derivative_indexes'
+  - '#default_correlation'
+  - '#first_to_default_basket'
+  - '#gaussian_copula'
+  - '#nth_to_default_basket'
+  - '#synthetic_cdo'
+---
 # 10  Collateralized Debt Obligations and Basket Credit Derivatives  
 
 10.1 Collateralized Debt Obligations 243   

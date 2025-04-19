@@ -1,3 +1,15 @@
+---
+tags:
+  - '#arbitrage'
+  - '#basket_credit_derivatives'
+  - '#credit_default_swap'
+  - '#default_correlation'
+  - '#first_to_default_basket'
+  - '#gaussian_copula_model'
+  - '#hedging_strategies'
+  - '#nth_to_default_basket'
+  - '#risk_management'
+---
 # 10.2 BASKET CREDIT DERIVATIVES  
 
 The term "basket credit derivative" sometimes refers to a CDS on a portfolio of defaultable securities. The protection buyer pays a fixed dollar premium per quarter, expressed as per annum basis points on the total principal of all the securities in the basket, and receives losses from default events. Such a structure, which typically underlies a synthetic CDO, is simply a. basket of individual CDSs written on each bond or loan in the portfolio. For example, a $\$200$ million basket CDS written on four bonds, each with. $\$50$ million principal, is really four. $\$50$ million CDSs. If each premium is. $50~\mathrm{bp}$ , then the basket CDS premium is initially $200~\mathrm{bp}$ and it is reduced every time an underlying bond matures or defaults. The pricing of the simple basket CDS is easy as the sum of the separable components. In this section, we describe more complicated variants of the true basket structures in which there is a payout interaction of the component bonds or loans..  

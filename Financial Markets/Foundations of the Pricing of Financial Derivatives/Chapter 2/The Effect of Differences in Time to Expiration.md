@@ -1,3 +1,15 @@
+---
+tags:
+  - '#american_call_options'
+  - '#american_put_options'
+  - '#dividends'
+  - '#early_exercise'
+  - '#european_call_options'
+  - '#european_put_options'
+  - '#option_pricing'
+  - '#option_value'
+  - '#time_to_expiration'
+---
 # 2.7 THE EFFECT OF DIFFERENCES IN TIME TO EXPIRATION
 
 Consider two European calls differing only by time to expiration. One option expires at time $T_{1}$ and has a time to expiration of. $T_{1}-t=\tau_{1}$ and the other expires at $T_{2}$ and has a time to expiration of $T_{2}-t=\tau_{2}$ , and where $\tau_{2}>\tau_{1}$ . Their respective prices will be. $c_{t1}$ and $c_{t2}$ with similar notation for American calls as well as for European and American puts..

@@ -1,3 +1,14 @@
+---
+tags:
+  - '#american_options'
+  - '#binomial_model'
+  - '#discrete_dividends'
+  - '#escrow_method'
+  - '#european_options'
+  - '#ex_dividend_date'
+  - '#option_pricing'
+  - '#recombination'
+---
 # 7.6 DIVIDENDS AND RECOMBINATION
 
 Dividends pose a significant problem with the multiplicative binomial model presented here. Figure 7.11 illustrates the loss of the recombining property in the presence of a cash. dividend at time 1. Recall that the stock price falls by the dollar dividend amount on the. ex-dividend date. As discussed in Chapter 2, optimal early exercise may occur either right before the ex-dividend date for calls or right after the ex-dividend date for puts.. Note that mathematically,

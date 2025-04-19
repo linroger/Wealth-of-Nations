@@ -1,13 +1,10 @@
 ---
-aliases: 
-tags:
-  - "#economic-history"
-  - "#historical-analysis"
-  - "#academic-research"
-  - "#intellectual-history"
+aliases:
 cssclasses:
   - academia
 title: How the Eggheads Cracked
+tags:
+  - '#cracking'
+  - '#eggheads'
 ---
-
 # How the Eggheads Cracked

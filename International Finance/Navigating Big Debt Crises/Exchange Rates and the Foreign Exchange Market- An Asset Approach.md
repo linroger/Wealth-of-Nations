@@ -1,26 +1,19 @@
 ---
 title: Exchange Rates and the Foreign Exchange MarketAn Asset Approach
 aliases: []
-tags:
-  - economics
-  - currency-crisis
-  - financial-markets
-  - exchangeoffers
-  - risk-management
-  - foreign-exchange-market
-  - exchange-rates
-  - asset-pricing
-  - exchange-rate
-  - interest-parity
-  - currency-trading
-  - macroeconomics
-  - financial-instruments
-  - currency-risk-management
-  - "#financial-derivatives"
-  - "#international-finance"
 cssclasses: academia
+tags:
+  - '#asset_approach'
+  - '#carry_trade'
+  - '#currency_appreciation'
+  - '#currency_depreciation'
+  - '#exchange_rates'
+  - '#foreign_exchange_market'
+  - '#forward_exchange_rates'
+  - '#interest_parity'
+  - '#interest_rates'
+  - '#spot_exchange_rates'
 ---
-
 # Exchange Rates and the Foreign Exchange MarketAn Asset Approach
 
 In the first years of the millennium,  Americans flocked to Paris to enjoy French cuisine while shopping for designer clothing and other specialties. When measured in terms of dollars,  prices in France were so much lower than they had been a few years before that a shopper's savings could offset the cost of an airplane ticket from New York or Chicago. Five years later,  however,  the prices of French goods again looked high to Americans. What economic forces made the dollar prices of French goods swing so widely? One major factor was a sharp fall in the dollar price of France’s currency after 1998,  followed by an equally sharp rise starting in 2002.
