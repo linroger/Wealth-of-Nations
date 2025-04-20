@@ -5146,7 +5146,7 @@ History: France in early 1700s: reduced coupon on  rentes Britain: often reduced
 
 (b) France: reduced coupons on  rentes  – a form of re-scheduling and thus default (c) Britain: often reduced coupon on Consols  
 
-i. But this is interesting – not a re-scheduling. ii. Consols redeemable annuities – callable at £100. Often the government would ﬁnd it easier to have investors take a reduce coupon rather than redeem the existing bonds and then re-issue at new (lower) coupon iii. Rates   $3\%$  : Annuity of   $\pounds4$   is worth £  $4/.03=£133$  . Can redeem at £100, then re-issue new annuity at   $£3$   coupon, worth £100.  
+i. But this is interesting – not a re-scheduling. ii. Consols redeemable annuities – callable at £100. Often the government would ﬁnd it easier to have investors take a reduce coupon rather than redeem the existing bonds and then re-issue at new (lower) coupon iii. Rates   $3\%$  : Annuity of   $£4$   is worth £  $4/.03=£133$  . Can redeem at £100, then re-issue new annuity at   $£3$   coupon, worth £100.  
 
 # Nations Default Often – R&R Figure 6.2  
 

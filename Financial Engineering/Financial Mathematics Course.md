@@ -505,18 +505,18 @@ $$
 V(0)=\theta_{0}+\theta_{1}\cdot S(0).
 $$  
 
-In state 1 the stock price is $20~\mathrm{\pounds}\mathrm{~d}^{.}$ and the value of the option $^\textrm{\scriptsize5\textrm{d}}$ , so  
+In state 1 the stock price is $20~\mathrm{£}\mathrm{~d}^{.}$ and the value of the option $^\textrm{\scriptsize5\textrm{d}}$ , so  
 
 $$
 \theta_{0}+\theta_{1}\cdot20=5.
 $$  
 
-In state 2 the stock price is 7.5  and the value of the option $0 \$\pounds^{\ast}$ , SO  
+In state 2 the stock price is 7.5  and the value of the option $0 \$£^{\ast}$ , SO  
 $$
 \theta_{0}+\theta_{1}\cdot7.5=0.
 $$
 
-We solve this and get $\theta_{0}=-3\quad\mathrm{and}\quad\theta_{1}=0.4$ So the value of our portfolio at time $0$ in $\pounds$ is  
+We solve this and get $\theta_{0}=-3\quad\mathrm{and}\quad\theta_{1}=0.4$ So the value of our portfolio at time $0$ in $£$ is  
 
 $$
 V(0)=-3B(0)+0.4S(0)=-3+0.4\times10=1
@@ -4335,7 +4335,7 @@ $$
 
 # 5.1.1 The Term Structure of Interest Rates  
 
-We start with a heuristic discussion, which we will formalize in the following section. The main traded objects we consider are zero-coupon bonds. A zero-coupon bond is a bond that has no coupon payments. The price of a zero-coupon bond at time. $t$ that pays, say, a sure. $\pounds$ at time $T\geq t$ is denoted $p(t,T)$ . All zero-coupon bonds are assumed to be default-free and have strictly positive prices. Various different interest rates are defined in connection with zero-coupon bonds,. but we will only consider continuously compounded interest rates (which facilitates theoretical. considerations).  
+We start with a heuristic discussion, which we will formalize in the following section. The main traded objects we consider are zero-coupon bonds. A zero-coupon bond is a bond that has no coupon payments. The price of a zero-coupon bond at time. $t$ that pays, say, a sure. $£$ at time $T\geq t$ is denoted $p(t,T)$ . All zero-coupon bonds are assumed to be default-free and have strictly positive prices. Various different interest rates are defined in connection with zero-coupon bonds,. but we will only consider continuously compounded interest rates (which facilitates theoretical. considerations).  
 
 Using the arbitrage pricing technique, we easily obtain pricing formulas for coupon bonds. Coupon bonds are bonds with regular interest payments, called coupons, plus a principal repayment at maturity. Let $c_{j}$ be the payments at times $t_{j}$ $j=1,\dots,n$ $F$ be the face value paid at time $t_{n}$ . Then the price of the coupon bond $B_{c}$ must satisfy.  
 

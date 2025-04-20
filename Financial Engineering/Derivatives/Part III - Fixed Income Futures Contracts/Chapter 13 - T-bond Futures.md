@@ -54,7 +54,7 @@ The futures contract size is for delivery of $z=\pm100,000$ (face value) T-bonds
 
 # Face Value of Futures Contract  
 
-On 27 July the September-futures has a closing (settlement) price quote of $F_{0}=\pounds103.19$ per £100 nominal. Hence the ‘face value’1 of one futures contract is:  
+On 27 July the September-futures has a closing (settlement) price quote of $F_{0}=£103.19$ per £100 nominal. Hence the ‘face value’1 of one futures contract is:  
 
 $$
 V_{F}=(\mathbb{\S}100,000)(F_{0}/100)=\mathbb{\P}103,190.

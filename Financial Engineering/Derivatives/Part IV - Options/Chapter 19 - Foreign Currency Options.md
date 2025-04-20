@@ -195,7 +195,7 @@ $$
 When the bid is successful but sterling depreciates, the sterling receipts are worth ‘less’ in USD $(=\$123,456$ but the puts end up in-the-money with a payof $=V(K-S_{T})$ , hence:  
 
 $$
-\mathrm{Grosspayoff}=V S_{T}+V(K-S_{T})=\mathrm{VK}=1.60\:(\pounds12.5\mathrm{m})=\mathfrak{F}20\mathrm{m}
+\mathrm{Grosspayoff}=V S_{T}+V(K-S_{T})=\mathrm{VK}=1.60\:(£12.5\mathrm{m})=\mathfrak{F}20\mathrm{m}
 $$  
 
 $$
@@ -215,7 +215,7 @@ If the bid is not successful UncleSam has a naked position in the long put but t
 UncleSam’s losses are limited to the put premium: $\Pi=V P=\S312,500$ (Table 19.2B, column 4). If sterling depreciates, the put ends up in-the-money giving a net proft of:  
 
 $$
-\Pi=(K-S_{T}-P)\pounds12.5\mathrm{m}=(1.60-1.50-0.025)\ £12.5\mathrm{m}=\S937,500.
+\Pi=(K-S_{T}-P)£12.5\mathrm{m}=(1.60-1.50-0.025)\ £12.5\mathrm{m}=\S937,500.
 $$  
 
 # Bid unsuccessful:  
@@ -265,7 +265,7 @@ Explain the key items in the following quotes for calls and puts on sterling (GB
 
 # Question 2  
 
-A US exporter expects to receive £1m (GBP) in 1 year’s time. The current spot FX rate is $S_{0}=$ $1.1\S/\pounds$ (USD/GBP). What type and how many options will the US exporter require to cover her position and set a minimum value for the FX rate of 1.1 USD/GBP in 1 year’s time? Contract size is for delivery of GBP 31,250.  
+A US exporter expects to receive £1m (GBP) in 1 year’s time. The current spot FX rate is $S_{0}=$ $1.1\S/£$ (USD/GBP). What type and how many options will the US exporter require to cover her position and set a minimum value for the FX rate of 1.1 USD/GBP in 1 year’s time? Contract size is for delivery of GBP 31,250.  
 
 # Question 3  
 

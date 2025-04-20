@@ -2551,9 +2551,9 @@ Parties may agree to make periodic payments or a single payment at the maturity 
 
 Take a simple index swap where Party A swaps 5,000,000 at $\mathrm{LIBOR}+0.03\%$ (also called $\operatorname{LIBOR}+3$ basis points) against 5,000,000 (FTSE to the 5,000,000 notional). In this case Party A will pay (to Party B) a floating interest rate (LIBOR $+0.03\%$ ) on the 5,ooo,o00 notional and would receive from Party B any percentage increase in the FTSE equity index applied to the 5,000,000 notional..  
 
-In this example, assuming a LIBOR rate of $5.97\%$ p.a. and a swap tenor of precisely 180 days, the floating leg payer/equity receiver (Party A) would owe $(5.97\%+0.03\%)^{*}\pounds,000,000^{*}180/360=\pounds150,000$ to the equity payer/floating leg receiver (Party B).  
+In this example, assuming a LIBOR rate of $5.97\%$ p.a. and a swap tenor of precisely 180 days, the floating leg payer/equity receiver (Party A) would owe $(5.97\%+0.03\%)^{*}£,000,000^{*}180/360=£150,000$ to the equity payer/floating leg receiver (Party B).  
 
-At the same date (after 180 days) if the FTSE had appreciated by. $10\%$ from its level at trade commencement, Party. B would owe $10\%{*\pounds}\pounds,000,000=\pounds500,000$ to Party A. If, on the other hand, the FTSE at the six-month mark had fallen by $10\%$ from its level at trade commencement, Party A would owe an additional $10\%{*\pounds}\pounds,000,000=\pounds500,000$ to Party B, since the flow is negative..  
+At the same date (after 180 days) if the FTSE had appreciated by. $10\%$ from its level at trade commencement, Party. B would owe $10\%{*£}£,000,000=£500,000$ to Party A. If, on the other hand, the FTSE at the six-month mark had fallen by $10\%$ from its level at trade commencement, Party A would owe an additional $10\%{*£}£,000,000=£500,000$ to Party B, since the flow is negative..  
 
 For mitigating credit exposure, the trade can be reset, or "marked-to-market" during its life. In that case, appreciation or depreciation since the last reset is paid and the notional is increased by any payment to the pricing rate payer or decreased by any payment from the floating leg payer.  
 
@@ -2621,7 +2621,7 @@ A property forward contract is based upon the property returns in any annual per
 
 The CME Group has been trading in real estate futures since mid 2006. All trading is done electronically through the exchange who is the default counter party in all trades [3] .  
 
-Since February 2009 Eurex, the international derivatives exchange, has listed Property Index Futures. The Future. Contract is based upon the IPD UK Annual All Property Index Total Returns - the exchange lists five consecutive. annual contracts with pricing based upon a par value of $100~+$ Expected percentage Total Annual Return in the related calendar year. The contract for the calendar year 2009, which expired in Mar-10 (expiry is the last working day in the following March to ensure this is after publication of the IPD data) settled at 103.50, representing a. $+3.5\%$ annual total return (as published by IPD). Though a nascent market, in 2010 a total of 3,304 contracts traded according to the Eurex website - representing $\pounds165\mathrm{m}$ in notional property value.  
+Since February 2009 Eurex, the international derivatives exchange, has listed Property Index Futures. The Future. Contract is based upon the IPD UK Annual All Property Index Total Returns - the exchange lists five consecutive. annual contracts with pricing based upon a par value of $100~+$ Expected percentage Total Annual Return in the related calendar year. The contract for the calendar year 2009, which expired in Mar-10 (expiry is the last working day in the following March to ensure this is after publication of the IPD data) settled at 103.50, representing a. $+3.5\%$ annual total return (as published by IPD). Though a nascent market, in 2010 a total of 3,304 contracts traded according to the Eurex website - representing $£165\mathrm{m}$ in notional property value.  
 
 # ISDA 2007 Property Index Derivatives Definitions  
 

@@ -171,7 +171,7 @@ $$
 
 Index options are also available on the S&P 500 (a European-style option traded on CBOE), the Major Market Index (traded on AMEX) and the Value Line Index (traded on PHLX) and the NYSE-Composite (traded on NYSE). In the US there are also index options available on industry indices (e.g. oil, utilities).  
 
-For the FTSE 100 (European Style) index option (Table 18.2) the value of an index point is set at $z=£10$ . So if the FTSE 100 index is at 6,500 then the value of the index is $V_{1}=\pounds65,000$ . Quotes for option premia are in index points. For example, the April-6500 put on the FTSE 100 (European Style) index option, quoted at $P=63$ would have an invoice price of £630 $\stackrel{\prime}{=}\pounds10\times63\$ .  
+For the FTSE 100 (European Style) index option (Table 18.2) the value of an index point is set at $z=£10$ . So if the FTSE 100 index is at 6,500 then the value of the index is $V_{1}=£65,000$ . Quotes for option premia are in index points. For example, the April-6500 put on the FTSE 100 (European Style) index option, quoted at $P=63$ would have an invoice price of £630 $\stackrel{\prime}{=}£10\times63\$ .  
 
 # 18.2.2 Static Hedge Using Stock Index Options: Protective Put  
 

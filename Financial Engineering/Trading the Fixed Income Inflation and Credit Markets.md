@@ -5761,7 +5761,7 @@ The carry on the comparator position is therefore:
 The second step is to calculate the carry on the long linker position. This comprises a repo cost and coupon income. The repo cost is:.  
 
 $$
-\begin{array}{r l}&{\mathrm{Nominal~\times~dirty~price~\times~repo~rate~\times~day~fraction}}\ &{\quad=\pounds10,000,000\times£121.548006/100\times5\%\times31/365=£51,616.28}\end{array}
+\begin{array}{r l}&{\mathrm{Nominal~\times~dirty~price~\times~repo~rate~\times~day~fraction}}\ &{\quad=£10,000,000\times£121.548006/100\times5\%\times31/365=£51,616.28}\end{array}
 $$  
 
 The real coupon accrual income uplifted by inflation is:  

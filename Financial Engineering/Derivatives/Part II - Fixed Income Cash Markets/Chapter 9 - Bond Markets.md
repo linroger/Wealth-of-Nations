@@ -179,13 +179,13 @@ FIGURE 9.2 Bond price and yield
 
 # 9.1.5 YTM and Coupon Rate  
 
-The coupon rate (or coupon yield) is defned as $C/M$ . There are some ‘rules of thumb’ used by traders when discussing the relationship between the YTM and the coupon rate of a bond. It is easy to show that if the coupon rate equals the YTM, then the bond is currently trading at a market price equal to its maturity (par) value. For example, consider a bond with a $10\%$ (annual) coupon rate, which also has a YTM of $10\%$ and the bond has 2 years to maturity and a par (maturity) value of $M=\pounds100$ . We can easily demonstrate that the market price of this bond equals its par value of £100. Using Equation (9.4):  
+The coupon rate (or coupon yield) is defned as $C/M$ . There are some ‘rules of thumb’ used by traders when discussing the relationship between the YTM and the coupon rate of a bond. It is easy to show that if the coupon rate equals the YTM, then the bond is currently trading at a market price equal to its maturity (par) value. For example, consider a bond with a $10\%$ (annual) coupon rate, which also has a YTM of $10\%$ and the bond has 2 years to maturity and a par (maturity) value of $M=£100$ . We can easily demonstrate that the market price of this bond equals its par value of £100. Using Equation (9.4):  
 
 $$
-P=\pounds10/(1.1)+\pounds110/(1.1)^{2}=\pounds100
+P=£10/(1.1)+£110/(1.1)^{2}=£100
 $$  
 
-If the coupon rate $(C/M)$ is below the YTM, then the market price $P$ will be below the par value (of $M=\pounds100\$ ) and the bond currently sells ‘at a discount’. Conversely, if the coupon rate $C/M$ is above the YTM the bond will today have a market price above its par value of $M=\pounds100\cdot$ – it will be trading at a ‘premium’. The qualitative relationship between the market price, coupon rate $(C/M)$ and YTM is given in Table 9.1 and they can be deduced from the following rearrangement of Equation (9.4):  
+If the coupon rate $(C/M)$ is below the YTM, then the market price $P$ will be below the par value (of $M=£100\$ ) and the bond currently sells ‘at a discount’. Conversely, if the coupon rate $C/M$ is above the YTM the bond will today have a market price above its par value of $M=£100\cdot$ – it will be trading at a ‘premium’. The qualitative relationship between the market price, coupon rate $(C/M)$ and YTM is given in Table 9.1 and they can be deduced from the following rearrangement of Equation (9.4):  
 
 $$
 {\frac{P}{M}}={\frac{C}{M}}\left[{\frac{1-(1+y)^{T}}{y}}\right]+{\frac{1}{(1+y)^{T}}}
@@ -218,7 +218,7 @@ Each $C_{i}$ may be viewed as a one-of payment at times $t=1,2,3,...,T$ (and for
 
 # Pricing Coupon Paying Bonds Using Spot Rates  
 
-Data: Bond-A : Exchequer Stock $8.75\%$ , annual coupon, 2 years to maturity, $M=\pounds100$ Bond-B : Exchequer Stock $12\%$ , annual coupon, 2 years to maturity, $M=\pounds100$ Current spot rates, $r_{1}=0.05$ (or $5\%$ ) and $r_{2}=0.06$ (or $6\%$ )  
+Data: Bond-A : Exchequer Stock $8.75\%$ , annual coupon, 2 years to maturity, $M=£100$ Bond-B : Exchequer Stock $12\%$ , annual coupon, 2 years to maturity, $M=£100$ Current spot rates, $r_{1}=0.05$ (or $5\%$ ) and $r_{2}=0.06$ (or $6\%$ )  
 
 Question: Calculate the market price of the two bonds.  
 

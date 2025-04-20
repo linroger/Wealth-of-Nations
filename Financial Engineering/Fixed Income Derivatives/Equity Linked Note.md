@@ -96,14 +96,13 @@ For example, consider one of the securities introduced above by selecting on the
 # EC2243102 <CORP  $>$   DES <GO>.
 
 Type again  OV  $\mathbf{X}\!<\!\!\mathbf{G}\mathbf{O}\!>$     to determine the theoretical value of the bond. This page is  shown as figure 5.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85e6d38da927ee4f6d764f0ecc6f1cc2afc0f9f7f433f9171cc0157ad5dda34c.jpg)
+ 
+ ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85e6d38da927ee4f6d764f0ecc6f1cc2afc0f9f7f433f9171cc0157ad5dda34c.jpg)
+ 
+![[https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85e6d38da927ee4f6d764f0ecc6f1cc2afc0f9f7f433f9171cc0157ad5dda34c.jpg]]
 
 # Figure 5
 
 The screen defaults to calculate the total value/premium of the bond but also calculates  each component separately. Users can therefore see the fixed income bond value and the  option premium. Given that there is a market price available for the bond, one can observe  how far the theoretical value is from the market price. The option components can be seen  by typing   $1\mathrm{<}\mathrm{go>}$  . To see all the input parameters that is fed into the model such as the  volatility level and dividend yield, type  $4\!<\!\mathrm{geo}^{>}$  . Inputs are user-determined and can be  altered as required. For example, one can change the participation level or change the  structure of the equity exposure such that the security is linked a basked of indices instead  of a single index.
 
 Equity-linked notes are commonly used by commercial banks and retail finance houses to  attract private sector funds that increasingly seek greater risk/return profiles but with an  element of guarantee built in. The issuers invariably hedge their exposure to the stock or  index that the note is linked, using exotic options bought from investment banks.
-
-# Acknowledgements
-
-The author would like to thank Moorad Choudhry at Cass Business School, London for review comments on  an earlier draft.

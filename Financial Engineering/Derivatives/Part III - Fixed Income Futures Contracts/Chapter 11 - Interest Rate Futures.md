@@ -95,7 +95,7 @@ $$
 F_{0}=(100-{\mathrm{quoted~forward~interest~rate}},\%{\mathrm{p.a.}})=100-f_{12}
 $$  
 
-A change in the annual forward rate of 1 bp (i.e. 0.01 of $1\%$ p.a.) gives a 1bp change in the futures price (Equation 11.4). But a change of 1 bp over a year is equivalent to a change of 0.25 bps over 3 months, which with a contract size of £500,000 amounts to a change in value of one sterling futures contract of £12.50 $(=(0.25/100)\times\pounds500,000)$ .  
+A change in the annual forward rate of 1 bp (i.e. 0.01 of $1\%$ p.a.) gives a 1bp change in the futures price (Equation 11.4). But a change of 1 bp over a year is equivalent to a change of 0.25 bps over 3 months, which with a contract size of £500,000 amounts to a change in value of one sterling futures contract of £12.50 $(=(0.25/100)\times£500,000)$ .  
 
 Tick size is 1 bp $0.01\%$ p.a.) which gives a tick value of £12.50 per contract.  
 

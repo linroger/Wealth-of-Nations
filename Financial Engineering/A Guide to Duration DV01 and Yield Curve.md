@@ -240,7 +240,7 @@ In other words these are the current-market par swap rates. We can now build a f
 As an example of a functional form we can assume that instantaneous forward rates are constant between instrument maturity points (break points or knot points) and that the forward rates jump at maturity points. In this case the variables $\left(\begin{array}{l l l}{\nu_{1}}&{\cdots}&{\nu_{k}}\end{array}\right)$ are the forward rates between knot points. (This is, in fact, a practical and useful forward curve often used by market practitioners, but it is only one among many.) Functionally, this is a piece-wise constant function:  
 
 $$
-\left\{\begin{array}{l l}{\pounds1}&{0\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<1}\ {\pounds2}&{1\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<2}\ {\pounds3}&{2\leq\mathtt{t}\&\mathtt{k}\in\mathtt{t}<5}\ {\pounds4}&{5\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<10}\ {0}&{\mathrm{True}}\end{array}\right.
+\left\{\begin{array}{l l}{£1}&{0\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<1}\ {£2}&{1\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<2}\ {£3}&{2\leq\mathtt{t}\&\mathtt{k}\in\mathtt{t}<5}\ {£4}&{5\leq\mathtt{t}\&\mathtt{k}\in\mathtt{\iota}<10}\ {0}&{\mathrm{True}}\end{array}\right.
 $$  
 
 If we choose the forward rates to match the market data given in table 2, we get:  

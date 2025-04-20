@@ -1165,7 +1165,7 @@ $$
 The terminal value for the target firm is $\$ 6.0$ billion,  given the model assumptions. But note that we can’t add the $\$ 6.0$ billion terminal value to the present value of $\$ 400$ million based on the cash flows over the forecast period. Rather,  we need to first discount the terminal value of $\$ 6$ billion to the current date:
 
 $$
-\pounds_{2.799\ b i l l i o n}\!=\!\frac{\pounds_{6.0\ m i l l i o n}}{\pounds_{1.11}{}^{8}}
+£_{2.799\ b i l l i o n}\!=\!\frac{£_{6.0\ m i l l i o n}}{£_{1.11}{}^{8}}
 $$  
 
 Year 9 is the first year of cash flows for the terminal value calculation. Therefore,  it follows that the terminal value is as of Year 8. Thus,  the discounting of the terminal value of $\$ 6$ billion is eight years since the value of a perpetuity is as of the date one year prior to the first year of cash flows in the perpetuity formula. As a result,  the overall enterprise value of the target firm is $\$ 3.199$ billion,  the sum of the $\$ 400$ million present value over the forecast period and the $\$ 2.799$ billion present value of the terminal value.
@@ -1781,7 +1781,7 @@ $$
 
 LEVER has $\S 250$ million in perpetual debentures which pays an annual coupon of $5.0\%$ . Given the condition stated above that LEVER is identical to ALLEQUITY other than the difference in capital structure,  LEVER also generates expected profits,  before interest,  of $\S 50$ million annually,  forever. And like ALLEQUITY,  LEVER will pay out all its profits after interest as dividends. The total firm value and equity value of LEVER is unknown:
 
-$\mathsf{V}_{\mathsf{L E V E R}}=\mathsf{D}_{\mathsf{L E V E R}}+\mathsf{E}_{\mathsf{L E V E R}}$ $\mathsf{o r\,   V_{L E V E R}}=\pounds 250\;\mathsf{m i l l i o n+\,   E_{L E V E R}}$
+$\mathsf{V}_{\mathsf{L E V E R}}=\mathsf{D}_{\mathsf{L E V E R}}+\mathsf{E}_{\mathsf{L E V E R}}$ $\mathsf{o r\,   V_{L E V E R}}=£ 250\;\mathsf{m i l l i o n+\,   E_{L E V E R}}$
 
 Supppose an investor purchases $20\%$ of the shares in ALLEQUITY. What is their payoff?
 
@@ -1807,7 +1807,7 @@ Proposition I:
 
 But what if Proposition I does not hold? Suppose for example the value of LEVER is equal to $\S 450$ million rather than to $\S 500$ million. This would imply:
 
-V LEVER = \$450 million $=\P 250$ million D LEVER $\mathbf{\varepsilon}+\pounds 200$ million E LEVER
+V LEVER = \$450 million $=\P 250$ million D LEVER $\mathbf{\varepsilon}+£ 200$ million E LEVER
 
 That is,  the value of the debt remains at $\S 250$ million,  but the equity value is $\S 200$ million rather than $\S 250$ million. An arb it rage ur will immediately purchase $20\%$ of D LEVER for $\S 50$ million as above and purchase $20\%$ of E LEVER for $\S 40$ million. As indicated above,  these purchases entitle the arb it rage ur to receive the same payoff as above,  namely $\S 2.5$ million of interest and $\S 7.5$ million of dividends. Moreover,  the arb it rage ur will also have the excess $\S 10$ million to invest elsewhere. Arb it rage urs will buy LEVER,  and short sell ALLEQUITY,  until LEVER had a value equivalent to ALLEQUITY,  consistent with the law of one price,  namely,  two assets must have the same price if they yield identical risks and payoffs. If their prices are different,  then the arb it rage ur can make a risk-free profit,  and importantly in companies which generate risky cash flows. This arbitrage proof paved the way for researchers to set up arbitrage conditions in many other areas of finance,  notably option pricing for instance in which the same principles are applied.
 
@@ -1924,7 +1924,7 @@ $$
 $$  
 
 $$
-\mathsf{o r\,   V_{L E V E R}}=\pounds 300\,  \mathsf{m i l l i o n+\,   E_{L E V E R}}
+\mathsf{o r\,   V_{L E V E R}}=£ 300\,  \mathsf{m i l l i o n+\,   E_{L E V E R}}
 $$  
 
 In the lecture note,  Introduction to Capital Structure,  ALLEQUITY and LEVER have identical firm values in perfect capital markets. That is,  the equity value and firm value of LEVER are $\S 700$ million and $\S 1$ billion,  respectively,  in perfect capital markets. However,  the presence of corporate taxes will result in higher cash flows to the combined debt holders and equity holders for a firm with debt relative to a comparable allequity firm as shown in Table 1.

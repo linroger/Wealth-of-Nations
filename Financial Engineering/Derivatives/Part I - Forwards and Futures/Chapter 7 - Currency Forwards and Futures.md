@@ -99,17 +99,17 @@ $$
 
 $s$ and $F$ are measured as ‘domestic per unit of foreign currency’, $r_{d}=$ domestic interest rate, $r_{f}=$ foreign interest rate, $T=$ time to maturity (expressed in years or fraction of a year) and we assume the day-count convention is the same in both countries. The quoted forward rate given by CIP ensures that no risk-free arbitrage profts can be made by transacting between the spot currency, the two money markets and the forward market.  
 
-The CIP equation is derived as follows. Assume that a UK frm BritArb has $\pounds A=\pounds100$ which it can invest in the UK or the USA for 1 year. Assume transactions have no credit/default risk. For BritArb to be indiferent as to where the money is invested, the risk-free return from investing in the UK must equal the risk-free return in sterling from investing in the USA. Assume the quoted interest rates in the ‘domestic’ (sterling) money market, the ‘foreign’ (US) money market and the exchange rates are:  
+The CIP equation is derived as follows. Assume that a UK frm BritArb has $£ A=£100$ which it can invest in the UK or the USA for 1 year. Assume transactions have no credit/default risk. For BritArb to be indiferent as to where the money is invested, the risk-free return from investing in the UK must equal the risk-free return in sterling from investing in the USA. Assume the quoted interest rates in the ‘domestic’ (sterling) money market, the ‘foreign’ (US) money market and the exchange rates are:  
 
 $$
-\begin{array}{r l}{r_{d}=0.11\left(11\%\right)}&{\mathrm{(simple~rate)}}\\ {r_{f}=0.10\left(10\%\right)}&{\mathrm{(simple~rate)}}\\ {S=0.6667\left(\pounds/\mathfrak{S}\right)}&{\mathrm{(equivalent~to~1.5~\mathfrak{S/E})}}\\ {F=0.6727\left(\pounds/\mathfrak{S}\right)}&{\mathrm{(equivalent~to~1.4865~\mathfrak{S/E})}}\\ {T=1\mathrm{,investment~horizon}}&{\mathrm{(years~or~fraction~of~a~\in~\mathfrak{S}_{\varepsilon}~})}\end{array}
+\begin{array}{r l}{r_{d}=0.11\left(11\%\right)}&{\mathrm{(simple~rate)}}\\ {r_{f}=0.10\left(10\%\right)}&{\mathrm{(simple~rate)}}\\ {S=0.6667\left(£/\mathfrak{S}\right)}&{\mathrm{(equivalent~to~1.5~\mathfrak{S/E})}}\\ {F=0.6727\left(£/\mathfrak{S}\right)}&{\mathrm{(equivalent~to~1.4865~\mathfrak{S/E})}}\\ {T=1\mathrm{,investment~horizon}}&{\mathrm{(years~or~fraction~of~a~\in~\mathfrak{S}_{\varepsilon}~})}\end{array}
 $$  
 
 Note that the forward rate $F$ and the spot rate $s$ are measured as ‘domestic per unit of foreign currency’, here £s per $\$1$ (GBP per USD). We show that the above fgures give equal returns to investing in either the UK or the US – so $F=0.6727$ GBP/USD is the ‘correct’ no-arbitrage forward rate.  
 
 # Strategy-1: BritArb invests in UK  
 
-In 1 year receive (terminal value): $T V_{U K}=\pounds A(1+r_{d}T)=\pounds100(1.11)=\pounds111$  
+In 1 year receive (terminal value): $T V_{U K}=£ A(1+r_{d}T)=£100(1.11)=£111$  
 
 # Strategy-2: BritArb invests in US  
 
@@ -118,7 +118,7 @@ In 1 year receive (terminal value): $T V_{U K}=\pounds A(1+r_{d}T)=\pounds100(1.
 (c) Enter into a forward contract today at $F=0.6727\left(\mathrm{{f/\mathfrak{s}}}\right)$ to sell $\$165$ for delivery of sterling in 1 year’s time. Sterling receipts in one year are:  
 
 $$
-T V_{U S}=\S165F=\pounds[(A/S)(1+r_{f}T)]F=\pounds111
+T V_{U S}=\S165F=£[(A/S)(1+r_{f}T)]F=£111
 $$  
 
 All of the above transactions (a)–(c) are undertaken at known ‘prices’, hence there is no price risk. Since both investment strategies are risk-free, arbitrage will ensure that they give the same terminal value, $T V_{U K}=T V_{U S}$ , hence:  
@@ -205,7 +205,7 @@ BritArb, can receive sterling in 1 year from bank-M at the forward rate $F_{q}$ 
 
 • Enter a forward contract at $F_{q}$ to receive £100 at $t=1$ and pay out $\$140$ to bank-M   
 • Borrow £90.09 in the UK money market at $t=0$ (i.e. owe £100 at $t=1$ )   
-• Convert £90.09 at $S_{0}=1.5136(\S/\pounds)$ and lend $\$136.36$ in the US money market   
+• Convert £90.09 at $S_{0}=1.5136(\S/£)$ and lend $\$136.36$ in the US money market   
 • At $t=1$ , BritArb receives $\$136.36\left(1.10\right)=\$150$   
 • Risk-free proft for BritArb $=\$150–8140=\$10$  
 
@@ -258,7 +258,7 @@ Suppose on 1 April a US multinational ExportUS expects to receive Swiss franc pa
 
 # 7.4.3 Speculation  
 
-Now consider speculation using the US dollar–pound sterling exchange rate (USD-GBP). Suppose the current (1 April) quoted forward rate is $F_{0}=1.50(\Phi/\mathrm{f})$ for delivery on 25 October. Suppose on 1 April a UK speculator, BritSpec, forecasts the spot rate on 25 October to be $S_{T}=1.52(\Phi/\pounds)$ . Hence, BritSpec believes sterling will be worth more in the spot market in October than indicated by the current forward rate. BritSpec therefore buys sterling in the forward market today and sells sterling in the spot market in October $(S_{T}>F_{0})$ . If BritSpec’s informed guess about $S_{T}$ turns out to be correct then it will make a speculative proft in October.  
+Now consider speculation using the US dollar–pound sterling exchange rate (USD-GBP). Suppose the current (1 April) quoted forward rate is $F_{0}=1.50(\Phi/\mathrm{f})$ for delivery on 25 October. Suppose on 1 April a UK speculator, BritSpec, forecasts the spot rate on 25 October to be $S_{T}=1.52(\Phi/£)$ . Hence, BritSpec believes sterling will be worth more in the spot market in October than indicated by the current forward rate. BritSpec therefore buys sterling in the forward market today and sells sterling in the spot market in October $(S_{T}>F_{0})$ . If BritSpec’s informed guess about $S_{T}$ turns out to be correct then it will make a speculative proft in October.  
 
 # Today 1 April (Spot GBP to rise, go long forward contract)  
 
@@ -268,13 +268,13 @@ Now consider speculation using the US dollar–pound sterling exchange rate (USD
 
 • Receive $S_{T}=1.52$ USDs (and pay £1) in the spot FX market • Pay $F_{0}=1.50$ USDs (and receive £1) from the forward deal • Proft $=S_{T}-F_{0}=\S1.52–\S1.50=\S0.02$ £1 .  
 
-If the principal amount in the transaction is $Q=\pounds100,000$ then:  
+If the principal amount in the transaction is $Q=£100,000$ then:  
 
 $$
 \mathrm{Total~\mathbb{S}-p r o f i t}=\mathbb{S}(S_{T}\mathrm{-}F_{0})Q=\S2{,}000
 $$  
 
-Note that this is a highly risky transaction since if the spot rate on 25 October is below $1.50(\S/\pounds)$ then BritSpec will make a loss (which could be very large). This is also a levered transaction since BritSpec uses none of its own funds on 1 April.  
+Note that this is a highly risky transaction since if the spot rate on 25 October is below $1.50(\S/£)$ then BritSpec will make a loss (which could be very large). This is also a levered transaction since BritSpec uses none of its own funds on 1 April.  
 
 # 7.5 HEDGING AND SPECULATION: FUTURES  
 

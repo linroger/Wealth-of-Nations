@@ -82,9 +82,9 @@ The dividend will be 0.04 (4p) per share for $8\%$ cumulative preference shareho
 
 Preference shares have very similar characteristics to loan capital from the issuer's point of view, with the requirement to pay a fixed dividend each year. However, there are two distinct differences between loan capital and preference shares. Loan capital has a finite life, whereas preference shares have an infinite life. In addition, preference shareholders are considered as having ownership in the company, whereas lenders are not. As a result, interest payments can be considered as a legitimate business expense and hence deducted before taxation.  
 
-Consider two companies, A and B, which are looking to raise $\pounds100\mathsf{m}$ in external financing. Company A has raised the $\pounds100\mathsf{m}$ via a preference share issue with a yield of. $10\%$ p.a. Company B has issued a perpetual bond with an annual coupon payment of $10\%$ p.a.  
+Consider two companies, A and B, which are looking to raise $£100\mathsf{m}$ in external financing. Company A has raised the $£100\mathsf{m}$ via a preference share issue with a yield of. $10\%$ p.a. Company B has issued a perpetual bond with an annual coupon payment of $10\%$ p.a.  
 
-Is there a difference in the amount of wealth available for distribution to ordinary shareholders if they both generate profits before tax, dividends and interest of. $\pounds80\mathsf{m}?$  
+Is there a difference in the amount of wealth available for distribution to ordinary shareholders if they both generate profits before tax, dividends and interest of. $£80\mathsf{m}?$  
 
 <html><body><table><tr><td>Tax rate 26%</td><td></td></tr><tr><td>Debt issue 0.00</td><td>100,000,000</td></tr><tr><td>Preference share Issue 100,000,000</td><td>0.00</td></tr><tr><td>Debt yield (%)</td><td>10%</td></tr><tr><td>Preference share dividend (%) 10%</td><td></td></tr><tr><td>Company A</td><td>Company B</td></tr><tr><td>Profits before tax, dividends and interest (1) 80,000,000</td><td>80,000,000</td></tr><tr><td>Interest payable on bonds (2) 0.00</td><td>10,000,000</td></tr><tr><td>Taxable profit (3) = (1) - (2)</td><td>80,000,000 70,000,000</td></tr><tr><td>Tax payable (4)</td><td>20,800,000 18,200,000</td></tr><tr><td>Preference dividend (5)</td><td>10,000,000 0.00</td></tr><tr><td>Available to ordinary shareholders (3) - (4) - (5)</td><td>49,200,000 51,800,000</td></tr><tr><td>Difference</td><td>2,600,000</td></tr><tr><td>Tax rate x debt issue x debt yield</td><td>2,600,000</td></tr></table></body></html>  
 
@@ -94,7 +94,7 @@ The spreadsheet for this exercise can be found here. Please ensure you click on 
 
 # 1.5 Authorised, issued and par values  
 
-When a firm is incorporated, an amount referred to as the authorised share capital is determined. This indicates the maximum number of shares the company can issue. In the majority of cases, companies do not issue up to this amount. For example, a company may have set its authorised share capital at. $\pounds200\mathsf{m}$ but may only have issued. $\pounds150\mathsf{m}$ as shares, leaving $\tt f50m$ as authorised but unissued share capital. The company is then free to issue the. remainder as it wishes to raise additional capital..  
+When a firm is incorporated, an amount referred to as the authorised share capital is determined. This indicates the maximum number of shares the company can issue. In the majority of cases, companies do not issue up to this amount. For example, a company may have set its authorised share capital at. $£200\mathsf{m}$ but may only have issued. $£150\mathsf{m}$ as shares, leaving $\tt f50m$ as authorised but unissued share capital. The company is then free to issue the. remainder as it wishes to raise additional capital..  
 
 Ordinary shares have what is referred to as a "par value", which is usually an amount such as 100 pence or 50 pence. This bears no relation to the current market value of the shares. However, in the balance sheet of a company, the issued share capital appears as par value. The balance sheet also includes an amount referred to as the "share premium account", which reflects the difference between the amount paid for the shares at the time of issue and the par value.  
 
@@ -176,9 +176,9 @@ Riverbank has decided it will raise $\tt f50m$ by issuing $25\mathrm{m}$ shares 
 
 Clearly the share price cannot remain at 250p following the rights issue. In order to determine the ex-rights share price, we can consider the total capitalisation of the company:.  
 
-Total capitalisation pre rights issue $=\pounds250\mathsf{m}$   
-Capital raised $=\pounds56.25\mathsf{m}$   
-Total market capitalisation $=\pounds306.25\mathsf{m}$   
+Total capitalisation pre rights issue $=£250\mathsf{m}$   
+Capital raised $=£56.25\mathsf{m}$   
+Total market capitalisation $=£306.25\mathsf{m}$   
 Total shares available $=125\mathrm{m}$   
 Ex-rights share price $=245\mathsf{p}$  
 
@@ -207,9 +207,9 @@ number of shares in issue x nominal value of each share
 In a stock split, the nominal value of each share is reduced while at the same time there is a.   
 proportional increase in the number of outstanding shares. The net effect is that the nominal.   
 book value remains unchanged. For example, a company may have $10\mathrm{m}$ shares in issue with a.   
-nominal value of 50p each (nominal book value. $=10\mathrm{m}\times50\mathrm{p}=\pounds5\mathrm{m})$ . In order to achieve a stock.   
+nominal value of 50p each (nominal book value. $=10\mathrm{m}\times50\mathrm{p}=£5\mathrm{m})$ . In order to achieve a stock.   
 split, the firm issues a further. $10\mathrm{m}$ shares to existing shareholders with the nominal value of.   
-each share reducing to. $25\mathsf{p}$ each. The nominal book value is now. $20\mathsf{m}\times25\mathsf{p}=\pounds5\mathsf{m}$ Thee motivation for doing this is often counter-intuitive to students, as clearly the share price will fall. However, as the post-stock-split share price is reduced, the stock becomes more attractive.   
+each share reducing to. $25\mathsf{p}$ each. The nominal book value is now. $20\mathsf{m}\times25\mathsf{p}=£5\mathsf{m}$ Thee motivation for doing this is often counter-intuitive to students, as clearly the share price will fall. However, as the post-stock-split share price is reduced, the stock becomes more attractive.   
 to investors. In fact, in 2014, Google (now Alphabet) undertook a 2-for-1 stock split following.   
 the rise in the share price to above $\mathsf{U S}\$1,000$ per share. This higher share price was considered.   
 unattractive to individual investors.  
@@ -244,8 +244,8 @@ If before the repurchase it had 40m cash, total assets of $\pm70\mathsf{m},$ ear
 
 <html><body><table><tr><td>Beforerepurchase</td><td>Post-repurchase</td></tr><tr><td>Cash (1) 40,000,000</td><td>30,000,000</td></tr><tr><td>Assets (2) 70,000,000</td><td>60,000,000</td></tr><tr><td>Earnings (3) 5,000,000</td><td>5,000,000</td></tr><tr><td>Shares outstanding (4) 20m</td><td>18m</td></tr><tr><td>Return on assets (5)=(3)/(2) 7.14%</td><td>8.33%</td></tr><tr><td>Earnings per share = (3)/(4) 0.25</td><td>0.28</td></tr></table></body></html>  
 
-The company's cash has been reduced from 40m to $\pounds30\mathsf m$ which in turn lowers the total.   
-assets of the company from. $\pm70\mathsf{m}$ to $\pounds60\mathsf{m}$ This then leads to an increase in its ROA, even.   
+The company's cash has been reduced from 40m to $£30\mathsf m$ which in turn lowers the total.   
+assets of the company from. $\pm70\mathsf{m}$ to $£60\mathsf{m}$ This then leads to an increase in its ROA, even.   
 though earnings have not changed. A similar effect can be seen in the EPS number, which.   
 increases from 0.25 to 0.28. The buy-back also helps to improve the company's price-earnings.   
 ratio (P/E), since if we assume that the shares remain at 5, the P/E ratio before the buy-back is 20 (5/0.25). After the buy-back, the P/E decreases to 18 (5/0.28) due to the reduction in.   
